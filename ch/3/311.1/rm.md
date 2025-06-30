@@ -4,11 +4,11 @@ title: "Lescha federala dals 20 da zercladur 2003 davart il dretg penal per giuv
 short: DPG
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/551"
 language: rm
-version: 2024-07-01
+version: 2025-07-01
 adopted: 2003-06-20
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/551/20240701/rm/xml/fedlex-data-admin-ch-eli-cc-2006-551-20240701-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/551/20240701/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/551/20250701/rm/xml/fedlex-data-admin-ch-eli-cc-2006-551-20250701-rm-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/551/20250701/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Dretg penal per giuvenils, DPG)
 
-dals 20 da zercladur 2003 (versiun dal 1. da fanadur 2024)
+dals 20 da zercladur 2003 (versiun dal 1. da fanadur 2025)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -27,7 +27,7 @@ sa basond sin l’artitgel 123 da la Constituziun federala[^ingress-1], suenter 
 
 concluda:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: BBl **1999** 1979
 
 ## 1. chapitel Princips e champ d’applicaziun
@@ -41,7 +41,7 @@ concluda:
 Questa lescha:
 
 - a. regla las sancziuns che vegnan applitgadas envers persunas che han commess in malfatg chastiabel tenor il Cudesch penal (CP)[^1-1] u tenor in’autra lescha federala, avant ch’ellas avevan cumplenì il 18avel onn da vegliadetgna;
-- b.[^1-2] …
+- b.[^1-2] ...
 
 <sup>2</sup>
 
@@ -60,13 +60,13 @@ En cumplettaziun da questa lescha èn las suandantas disposiziuns dal CP applitg
 - j.[^1-4] ils artitgels 98, 99 alinea 2, 100 sco er 101 alineas 1 literas a–d, 2 e 3 (surannaziun);
 - k.[^1-5] ils artitgels 103, 104 e 105 alinea 2 (surpassaments);
 - l. l’artitgel 110 (noziuns);
-- m. ils artitgels 111–332 (segund cudesch: disposiziuns spezialas);
+- m. ils artitgels&lt; 111–332 (segund cudesch: disposiziuns spezialas);
 - n.[^1-6] ils artitgels 333–392 (terz cudesch: introducziun ed applicaziun da la lescha), cun excepziun dals artitgels 380 (custs), 387 alinea 1 litera d e 2 (disposiziuns cumplementaras dal Cussegl federal) e 388 alinea 3 (execuziun da sentenzias anteriuras);
-- o.[^1-7] …
+- o.[^1-7] ...
 
 <sup>3</sup> Applitgond questas disposiziuns dal CP ston vegnir observads ils princips tenor l’artitgel 2, e la vegliadetgna ed il stadi da svilup dal giuvenil ston vegnir resguardads a sia favur.
 
-[^1-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^1-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^1-2]: Abolì tras la cifra 1 da l’agiunta da la Procedura penala per giuvenils dals 20 da mars 2009, cun effect dapi il 1. da schan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
 [^1-3]: Integrà tras la cifra I 2 da la LF dals 26 da sett. 2014 davart il dretg da la victima da survegnir infurmaziuns, en vigur dapi il 1. da schan. 2016 ([AS 2015 1623](https://fedlex.data.admin.ch/eli/oc/2015/321); [BBl 2014 889](https://fedlex.data.admin.ch/eli/fga/2014/136)[913](https://fedlex.data.admin.ch/eli/fga/2014/138)).
 [^1-4]: Versiun tenor la cifra I 2 da la LF dals 15 da zer. 2012 (nunsurannaziun da malfatgs sexuals e pornografics cunter uffants avant la pubertad), en vigur dapi il 1. da schan. 2013 ([AS 2012 5951](https://fedlex.data.admin.ch/eli/oc/2012/696); [BBl 2011 5977](https://fedlex.data.admin.ch/eli/fga/2011/883)).
@@ -88,17 +88,19 @@ En cumplettaziun da questa lescha èn las suandantas disposiziuns dal CP applitg
 
 <sup>1</sup> Questa lescha vala per persunas che han commess in malfatg chastiabel tranter il 10avel ed il 18avel onn da vegliadetgna cumplenì.
 
-<sup>2</sup> Sch’i ston vegnir giuditgads il medem mument in malfatg commess avant ed in suenter la cumplenida dal 18avel onn da vegliadetgna, è applitgabel mo il CP[^3-1] areguard ils chastis. Quai vala er per il chasti supplementar (art. 49 al. 2 CP) che sto vegnir pronunzià per in malfatg commess avant la cumplenida dal 18avel onn da vegliadetgna. Sch’il delinquent dovra ina mesira, sto vegnir ordinada, tenor il CP u tenor questa lescha, quella mesira ch’è necessaria tenor las circumstanzas. Sch’ina procedura è vegnida introducida cunter giuvenils avant ch’il malfatg commess suenter la cumplenida dal 18avel onn da vegliadetgna è vegnì enconuschent, resta applitgabla questa procedura. Cas cuntrari è applitgabla la procedura cunter persunas creschidas.
+<sup>2</sup> Sch’i ston vegnir giuditgads il medem mument in malfatg commess avant ed in suenter la cumplenida dal 18avel onn da vegliadetgna e sch’il malfatg commess avant la cumplenida dal 18avel onn da vegliadetgna è vegnì enconuschent pir, suenter che la procedura pervia d’in malfatg commess suenter la cumplenida dal 18avel onn da vegliadetgna è vegnida instradada, è applitgabel mo il CP[^3-1] areguard ils chastis; la procedura sa drizza tenor il Cudesch da procedura penala[^3-2].[^3-3]
 
-[^3-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^3-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^3-2]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^3-3]: Versiun tenor la cifra 5 da l’agiunta 1 da la LF dals 17 da zer. 2022, en vigur dapi il 1. da fan. 2025 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468), [2024 490](https://fedlex.data.admin.ch/eli/oc/2024/490); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 4
 
 **Malfatgs commess avant il 10avel onn da vegliadetgna**
 
-Sche l’autoritad cumpetenta constatescha en il decurs d’ina procedura ch’in malfatg è vegnì commess d’in uffant da main che 10 onns, infurmescha ella ils represchentants legals da l’uffant. Sch’i dat indizis che l’uffant dovria agid spezial, sto er vegnir infurmada l’autoritad tutelara[^4-1] u il post spezialisà per l’agid a la giuventetgna designà tenor il dretg chantunal.
+Sche l’autoritad cumpetenta constatescha en il decurs d’ina procedura ch’in malfatg è vegnì commess d’in uffant da main che 10 onns, infurmescha ella ils represchentants legals da l’uffant. Sch’i dat indizis che l’uffant dovria agid spezial, sto er vegnir infurmada l’autoritad per la protecziun d’uffants u il post spezialisà per l’agid a la giuventetgna designà tenor il dretg chantunal.[^4-1]
 
-[^4-1]: Dapi l’entrada en vigur da la LF dals 19 da dec. 2008 (protecziun da creschids, dretg da persunas e dretg dals uffants; [AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114)) il 1. da schan. 2013: autoritad per la protecziun d’uffants.
+[^4-1]: Versiun da la segunda frasa tenor la cifra I da la LF dals 14 da zer. 2024 (pachet da mesiras per l’execuziun da sancziuns), en vigur dapi il 1. da fan. 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
 
 ## 2. chapitel Inquisiziun
 
@@ -124,6 +126,10 @@ Durant l’inquisiziun po l’autoritad cumpetenta ordinar preventivamain las me
 
 <sup>3</sup> Sch’i dat motivs serius da dubitar da la sanadad fisica u psichica dal giuvenil u sch’i para inditgà da plazzar il giuvenil en ina instituziun averta per tractar in disturbi psichic u d’al plazzar en ina instituziun serrada, ordinescha l’autoritad cumpetenta in’expertisa medicinala u psicologica.
 
+<sup>4</sup> Sche las premissas tenor l’artitgel 25*a* alinea 1 literas a–c èn ademplidas, ordinescha l’autoritad cumpetenta in’expertisa dal privel che resorta dal giuvenil per terzas persunas.[^9-1]
+
+[^9-1]: Integrà tras la cifra I da la LF dals 14 da zer. 2024 (pachet da mesiras per l’execuziun da sancziuns), en vigur dapi il 1. da fan. 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
+
 ## 3. chapitel Mesiras da protecziun e chastis
 
 ### 1. secziun Premissas generalas
@@ -132,9 +138,11 @@ Durant l’inquisiziun po l’autoritad cumpetenta ordinar preventivamain las me
 
 **Ordinaziun da mesiras da protecziun**
 
-<sup>1</sup> Sch’il giuvenil ha commess in malfatg chastiabel e sch’il scleriment mussa ch’el dovra in sustegn educativ u in tractament terapeutic spezial, ordinescha l’autoritad giuditganta las mesiras da protecziun necessarias tenor las circumstanzas, independentamain dal fatg, sch’il giuvenil ha agì culpaivlamain.
+<sup>1</sup> Sch’il giuvenil ha commess in malfatg chastiabel e sch’il scleriment mussa ch’el dovra in sustegn educativ u in tractament terapeutic spezial, ordinescha l’autoritad giuditganta las mesiras da protecziun necessarias tenor las circumstanzas, independentamain dal fatg, sch’il giuvenil ha agì culpaivlamain. Sche pliras mesiras da protecziun èn necessarias, las po l’autoritad giuditganta ordinar en ina.[^10-1]
 
 <sup>2</sup> Sch’il giuvenil n’ha betg ina dimora ordinaria en Svizra, po l’autoritad giuditganta desister d’ordinar ina mesira da protecziun.
+
+[^10-1]: Integrà la segunda frasa tras la cifra I da la LF dals 14 da zer. 2024 (pachet da mesiras per l’execuziun da sancziuns), en vigur dapi il 1. da fan. 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
 
 #### Art. 11
 
@@ -152,11 +160,12 @@ Durant l’inquisiziun po l’autoritad cumpetenta ordinar preventivamain las me
 
 <sup>1</sup> Sch’igl è previsibel ch’ils titulars da la tgira genituriala u ils geniturs da tgira prendian las mesiras necessarias per garantir in sustegn educativ u in tractament terapeutic adattà dal giuvenil, designescha l’autoritad giuditganta ina persuna u in post adattà che ha il dretg da prender invista e da survegnir las infurmaziuns necessarias. L’autoritad giuditganta po dar directivas als geniturs.
 
-<sup>2</sup> Sch’il giuvenil è sut avugà, na dastga vegnir ordinada nagina surveglianza.
+<sup>2</sup> Sch’il giuvenil è sut avugadia u sch’il giuven creschì è sut curatella, na dastga vegnir ordinada nagina surveglianza.[^12-1]
 
-<sup>3</sup> Suenter ch’il giuvenil è daventà maioren[^12-1], po la surveglianza vegnir ordinada mo cun ses consentiment.
+<sup>3</sup> Suenter che la maiorennitad è cuntanschida, po la surveglianza vegnir ordinada mo cun il consentiment dal giuven creschì.[^12-2]
 
-[^12-1]: Questa adattaziun na concerna betg il text rumantsch.
+[^12-1]: Versiun tenor la cifra I da la LF dals 14 da zer. 2024 (pachet da mesiras per l’execuziun da sancziuns), en vigur dapi il 1. da fan. 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
+[^12-2]: Versiun tenor la cifra I da la LF dals 14 da zer. 2024 (pachet da mesiras per l’execuziun da sancziuns), en vigur dapi il 1. da fan. 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
 
 #### Art. 13
 
@@ -166,12 +175,13 @@ Durant l’inquisiziun po l’autoritad cumpetenta ordinar preventivamain las me
 
 <sup>2</sup> A la persuna ch’è incumbensada cun l’assistenza po l’autoritad giuditganta surdar tschertas cumpetenzas areguard l’educaziun, il tractament e la scolaziun dal giuvenil e restrenscher correspundentamain la tgira genituriala. En divergenza da l’artitgel 323 alinea 1 dal Cudesch civil (CCS)[^13-1] po l’autoritad giuditganta surdar a questa persuna er l’administraziun da las entradas da gudogn dal giuvenil.
 
-<sup>3</sup> Sch’il giuvenil è sut avugà, na dastga vegnir ordinada nagina assistenza persunala.
+<sup>3</sup> Sch’il giuvenil è sut avugadia u sch’il giuven creschì è sut curatella, na dastga vegnir ordinada nagina assistenza persunala.[^13-2]
 
-<sup>4</sup> Suenter ch’il giuvenil è daventà maioren[^13-2], po l’assistenza persunala vegnir ordinada mo cun ses consentiment.
+<sup>4</sup> Suenter che la maiorennitad è cuntanschida, po l’assistenza persunala vegnir ordinada mo cun il consentiment dal giuven creschì.[^13-3]
 
-[^13-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^13-2]: Questa adattaziun na concerna betg il text rumantsch.
+[^13-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^13-2]: Versiun tenor la cifra I da la LF dals 14 da zer. 2024 (pachet da mesiras per l’execuziun da sancziuns), en vigur dapi il 1. da fan. 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
+[^13-3]: Versiun tenor la cifra I da la LF dals 14 da zer. 2024 (pachet da mesiras per l’execuziun da sancziuns), en vigur dapi il 1. da fan. 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
 
 #### Art. 14
 
@@ -179,7 +189,9 @@ Durant l’inquisiziun po l’autoritad cumpetenta ordinar preventivamain las me
 
 <sup>1</sup> Sch’il giuvenil patescha da disturbis psichics, sch’il svilup da sia persunalitad è disturbà grevamain u sch’el è dependent da drogas u patescha d’ina autra dependenza, po l’autoritad giuditganta ordinar ch’el vegnia tractà en moda ambulanta.
 
-<sup>2</sup> Il tractament ambulant po vegnir collià cun la surveglianza (art. 12) u cun l’assistenza persunala (art. 13) u cun il plazzament en ina instituziun d’educaziun (art. 15 al. 1).
+<sup>2</sup> …[^14-1]
+
+[^14-1]: Abolì tras la cifra I da la LF dals 14 da zer. 2024 (pachet da mesiras per l’execuziun da sancziuns), cun effect dapi il 1. da fan. 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
 
 #### Art. 15
 
@@ -196,9 +208,13 @@ L’autoritad giuditganta dastga ordinar il plazzament en ina instituziun serrad
 
 <sup>3</sup> Avant che plazzar il giuvenil en ina instituziun averta per tractar in disturbi psichic u avant che al plazzar en ina instituziun serrada, ordinescha l’autoritad giuditganta in’expertisa medicinala u psicologica, nun che quella saja gia vegnida fatga sin basa da l’artitgel 9 alinea 3.
 
-<sup>4</sup> Sch’il giuvenil è sut avugà, communitgescha l’autoritad giuditganta a l’autoritad tutelara[^15-1] ch’ella haja ordinà in plazzament.
+<sup>4</sup> Sch’il giuvenil è sut avugadia u sch’il giuven creschì è sut curatella, communitgescha l’autoritad giuditganta l’ordinaziun dal plazzament a l’autoritad per la protecziun d’uffants u da creschids.[^15-1]
 
-[^15-1]: Dapi l’entrada en vigur da la LF dals 19 da dec. 2008 (protecziun da creschids, dretg da persunas e dretg dals uffants; [AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114)) il 1. da schan. 2013: autoritad per la protecziun d’uffants.
+<sup>5</sup> Sch’il plazzament en ina instituziun serrada è vegnì ordinà pervia d’in assassinat (art. 112 CP[^15-2]) e per evitar ch’il giuvenil pericliteschia grevamain terzas persunas, po il plazzament vegnir cuntinuà sut las premissas da l’artitgel 19*c* en furma d’in internament tenor l’artitgel 64 alinea 1 CP.[^15-3]
+
+[^15-1]: Versiun tenor la cifra I da la LF dals 14 da zer. 2024 (pachet da mesiras per l’execuziun da sancziuns), en vigur dapi il 1. da fan. 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
+[^15-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^15-3]: Integrà tras la cifra I da la LF dals 14 da zer. 2024 (pachet da mesiras per l’execuziun da sancziuns), en vigur dapi il 1. da fan. 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
 
 #### Art. 16
 
@@ -212,8 +228,8 @@ L’autoritad giuditganta dastga ordinar il plazzament en ina instituziun serrad
 
 <sup>4</sup> L’execuziun da mesiras po vegnir surdada ad instituziuns privatas.[^16-3]
 
-[^16-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^16-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^16-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^16-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^16-3]: Integrà tras la cifra 1 da l’agiunta da la Procedura penala per giuvenils dals 20 da mars 2009, en vigur dapi il 1. da schan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
 
 #### Art. 16a
@@ -254,16 +270,72 @@ L’autoritad giuditganta dastga ordinar il plazzament en ina instituziun serrad
 
 <sup>1</sup> L’autoritad executiva examinescha annualmain, sche e cur che la mesira po vegnir abolida. Ella abolescha la mesira, sche ses intent è cuntanschì u sch’igl è cler ch’ella n’ha pli nagins effects educativs u terapeutics.
 
-<sup>2</sup> Tut las mesiras fineschan cun la cumplenida dal 25avel onn da vegliadetgna.[^19-1]
+<sup>1bis</sup> Sch’in plazzament en ina instituziun serrada è vegnì ordinà pervia d’in assassinat (art. 112 CP[^19-1]) e per evitar ch’il giuvenil pericliteschia grevamain terzas persunas, decida l’autoritad executiva sin basa dal giudicament da la cumissiun spezialisada tenor l’artitgel 91*a* CP[^19-2].[^19-3]
 
-<sup>3</sup> Sche la terminaziun d’ina mesira da protecziun è colliada cun dischavantatgs gravants per la persuna pertutgada sezza u per la segirezza da terzas persunas e sche quests dischavantatgs na pon betg vegnir evitads autramain, dumonda l’autoritad executiva a temp l’ordinaziun da mesiras tutelaras[^19-2] adattadas.
+<sup>2</sup> Tut las mesiras fineschan cun la cumplenida dal 25avel onn da vegliadetgna.[^19-4]
 
-<sup>4</sup> Sche l’aboliziun d’in scumond tenor l’artitgel 16*a* signifitga dischavantatgs gravants per la segirezza da terzas persunas, dumonda l’autoritad executiva a temp la dretgira al domicil dal giuvenil d’examinar, sche las premissas per in scumond tenor ils artitgels 67 u 67*b* CP[^19-3] èn ademplidas. Sche quai è il cas, vegn ordinà in scumond tenor il dretg da la protecziun da creschids. Sche las premissas per in scumond tenor l’artitgel 67 alineas 3 u 4 CP èn ademplidas, fixescha la dretgira in termin tranter 1 e 10 onns.[^19-4]
+<sup>3</sup> ...[^19-5]
 
-[^19-1]: Versiun tenor la cifra 2 da l’agiunta da la LF dals 19 da zer. 2015 (midadas dal dretg da sancziuns), en vigur dapi il 1. da fan. 2016 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^19-2]: Dapi l’entrada en vigur da la LF dals 19 da dec. 2008 (protecziun da creschids, dretg da persunas e dretg dals uffants; [AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114)) il 1. da schan. 2013: mesiras per la protecziun da l’uffant.
-[^19-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^19-4]: Integrà tras la cifra I 3 da la LF dals 13 da dec. 2013 davart il scumond d’activitad e davart il scumond da contact e d’areal, en vigur dapi il 1. da schan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
+<sup>4</sup> ...[^19-6]
+
+[^19-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^19-2]: Perquai ch’il project 1 dal pachet da mesiras per l’execuziun da sancziuns ([BBl 2022 2992](https://fedlex.data.admin.ch/eli/fga/2022/2992)) è vegnì refusà ils 14 da zer. 2024 (AB 2024 N 1347), n’è il renviament betg correct. Guardar ad interim art. 62*d* al. 2 CP.
+[^19-3]: Integrà tras la cifra I da la LF dals 14 da zer. 2024 (pachet da mesiras per l’execuziun da sancziuns), en vigur dapi il 1. da fan. 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
+[^19-4]: Versiun tenor la cifra 2 da l’agiunta da la LF dals 19 da zer. 2015 (midadas dal dretg da sancziuns), en vigur dapi il 1. da fan. 2016 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^19-5]: Abolì tras la cifra I da la LF dals 14 da zer. 2024 (pachet da mesiras per l’execuziun da sancziuns), cun effect dapi il 1. da fan. 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
+[^19-6]: Integrà tras la cifra I 3 da la LF dals 13 da dec. 2013 davart il scumond d’activitad e davart il scumond da contact e d’areal ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)). Abolì tras la cifra I da la LF dals 14 da zer. 2024 (pachet da mesiras per l’execuziun da sancziuns), cun effect dapi il 1. da fan. 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
+
+#### Art. 19a
+
+**Mesiras consecutivas a. Princips**[^19a-1]
+
+<sup>1</sup> Sche la terminaziun d’ina mesira da protecziun signifitga dischavantatgs gravants per il giuvenil u il giuven creschì sez ubain per la segirezza da terzas persunas, e sche quests dischavantatgs na pon betg vegnir evitads autramain, dumonda l’autoritad executiva a temp l’ordinaziun da mesiras adequatas per la protecziun d’uffants u da creschids.
+
+<sup>2</sup> L’autoritad executiva po mo dumandar ina mesira tenor il CP[^19a-2] sin basa dals artitgels 19*b* e 19*c*, sche las premissas per ordinar mesiras per la protecziun da creschids n’èn betg dadas u sche talas mesiras na bastan betg per evitar dischavantatgs gravants per la segirezza da terzas persunas.
+
+[^19a-1]: Integrà tras la cifra I da la LF dals 14 da zer. 2024 (pachet da mesiras per l’execuziun da sancziuns), en vigur dapi il 1. da fan. 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
+[^19a-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+
+#### Art. 19b
+
+**b. Scumond d’activitad e scumond da contact e d’areal tenor il CP**[^19b-1]
+
+<sup>1</sup> Sche la terminaziun d’in scumond tenor l’artitgel 16*a* signifitga dischavantatgs gravants per la segirezza da terzas persunas, dumonda l’autoritad executiva la dretgira per creschids al domicil dal giuven creschì, d’ordinar in scumond tenor l’artitgel 67 alinea 2 u 67*b* alinea 1 CP[^19b-2].
+
+<sup>2</sup> Sin dumonda da l’autoritad executiva po la dretgira per creschids prolungar ils scumonds sin basa dals artitgels 67 alinea 2<sup>bis</sup> e 67*b* alinea 5 CP.
+
+<sup>3</sup> Sin dumonda da l’autoritad executiva po la dretgira per creschids extender ils scumonds u ordinar in scumond supplementar sin basa da l’artitgel 67*d* alinea 1 CP.
+
+[^19b-1]: Integrà tras la cifra I da la LF dals 14 da zer. 2024 (pachet da mesiras per l’execuziun da sancziuns), en vigur dapi il 1. da fan. 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
+[^19b-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+
+#### Art. 19c
+
+**c. Internament tenor l’artitgel 64 alinea 1 CP suenter in plazzament serrà**[^19c-1]
+
+<sup>1</sup>
+
+Avant la fin dal plazzament en ina instituziun serrada u avant la fin d’ina detenziun che vegn exequida suenter questa mesira, dumonda l’autoritad executiva la dretgira per creschids al domicil dal giuven creschì, d’ordinar in internament tenor l’artitgel 64 alinea 1 CP[^19c-2], sche:
+
+- a. il giuven creschì ha commess in assassinat suenter la cumplenida dal 16avel onn da vegliadetgna (art. 112 CP);
+- b. igl è – pervia dal malfatg – vegnì ordinà in plazzament, ch’è vegnì exequì en ina instituziun serrada per evitar che terzas persunas vegnian periclitadas grevamain;
+- c. ins sto quintar seriusamain, ch’el commettia danovamain in assassinat (art. 112 CP), cura ch’il plazzament en ina instituziun serrada vegn terminà u cura che la detenziun, ch’è vegnida exequida suenter questa mesira, è finida; e
+- d. el è maioren.
+
+<sup>2</sup>
+
+Per sia dumonda sa basa l’autoritad executiva:
+
+- a. sin il rapport da la direcziun da l’instituziun d’execuziun;
+- b. sin in’expertisa d’in expert independent tenor l’artitgel 56 alineas 3 e 4 CP;
+- c. sin il giudicament da la cumissiun spezialisada tenor l’artitgel 91*a* CP[^19c-3]; e
+- d. sin l’audiziun dal giuven creschì.
+
+<sup>3</sup> Sche la dretgira per creschids ordinescha in internament tenor l’artitgel 64 alinea 1 CP, abolescha ella il plazzament serrà ch’è anc en vigur.
+
+[^19c-1]: Integrà tras la cifra I da la LF dals 14 da zer. 2024 (pachet da mesiras per l’execuziun da sancziuns), en vigur dapi il 1. da fan. 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
+[^19c-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^19c-3]: Perquai ch’il project 1 dal pachet da mesiras per l’execuziun da sancziuns ([BBl 2022 2992](https://fedlex.data.admin.ch/eli/fga/2022/2992)) è vegnì refusà ils 14 da zer. 2024 (AB 2024 N 1347), n’è il renviament betg correct. Guardar ad interim art. 62*d* al. 2 CP.
 
 #### Art. 20
 
@@ -314,7 +386,7 @@ L’autoritad giuditganta desista da pronunziar in chasti, sche:
 
 <sup>2</sup> D’in chasti poi plinavant vegnir desistì, sch’il stadi ester, nua ch’il giuvenil ha sia dimora ordinaria, ha gia instradà ina procedura u è sa declerà pront d’instradar ina tala pervia dal malfatg dal giuvenil.
 
-<sup>3</sup> …[^21-2]
+<sup>3</sup> ...[^21-2]
 
 [^21-1]: Versiun tenor la cifra I 2 da la LF dals 14 da dec. 2018 davart la midada da la disposiziun davart la reparaziun, en vigur dapi il 1. da fan. 2019 ([AS 2019 1809](https://fedlex.data.admin.ch/eli/oc/2019/336); [BBl 2018 3757](https://fedlex.data.admin.ch/eli/fga/2018/1409)[4925](https://fedlex.data.admin.ch/eli/fga/2018/1707)).
 [^21-2]: Abolì tras la cifra 1 da l’agiunta da la Procedura penala per giuvenils dals 20 da mars 2009, cun effect dapi il 1. da schan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
@@ -375,7 +447,35 @@ Il giuvenil che ha cumplenì il 16avel onn da vegliadetgna il mument ch’el ha 
 - a. ha commess in crim, per il qual il dretg applitgabel per persunas creschidas prevesa in chasti da detenziun d’almain 3 onns;
 - b. ha commess in malfatg tenor ils artitgels 122, 140 cifra 3 u 184 CP[^25-1] ed ha agì cun particularmain paucs scrupels, en spezial sch’il motiv dal giuvenil, l’intent dal malfatg u la maniera co ch’el l’ha commess, mussan ina mentalitad spezialmain condemnabla.
 
-[^25-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^25-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+
+#### Art. 25a
+
+**a<sup>bis</sup>. Resalva da l’internament**[^25a-1]
+
+<sup>1</sup>
+
+En la sentenzia fundamentala resalva l’autoritad giuditganta la pussaivladad d’ordinar in internament tenor l’artitgel 64 alinea 1 CP[^25a-2] per il temp suenter il 18avel onn da vegliadetgna dal giuvenil, sche:
+
+- a. el ha commess in assassinat (art. 112 CP);
+- b. el vegn sentenzià ad ina detenziun d’almain 3 onns pervia da quest malfatg;
+- c. i na vegn betg ordinà in plazzament tenor l’artitgel 15; e
+- d. ins sto – sin basa da las circumstanzas dal malfatg e sin basa da la persunalitad dal giuvenil il mument che la sentenzia fundamentala vegn pronunziada – partir dal fatg ch’il giuvenil saja in privel gravant per terzas persunas.
+
+<sup>2</sup> Sch’il giuvenil vegn sentenzià en la medema procedura ad ina detenziun pervia da plirs malfatgs, fixescha l’autoritad giuditganta, tge cumpart dal chasti che vegn adossada per l’assassinat. Questa cumpart dal chasti è decisiva per giuditgar, sche la premissa tenor l’alinea 1 litera b è ademplida.
+
+<sup>3</sup> La resalva vala fin a la relaschada definitiva or da la detenziun. Sch’i vegn pronunziada – durant l’execuziun d’ina sentenzia cun ina resalva – ina nova sentenzia tenor questa lescha pervia d’in malfatg commess dal medem giuvenil, vala la resalva, fin che l’execuziun da la nova sentenzia è terminada.
+
+<sup>4</sup>
+
+L’autoritad executiva abolescha la resalva, sch’il giuvenil n’è betg in privel gravant per terzas persunas. Ella examinescha annualmain, sche la resalva po vegnir abolida; per quest intent sa basa ella:
+
+- a. sin il rapport da la direcziun da l’instituziun d’execuziun sco er da la persuna che accumpogna il giuvenil;
+- b. sin in’expertisa;
+- c. sin l’audiziun dal giuvenil, en cas che la resalva duai vegnir mantegnida.
+
+[^25a-1]: Integrà tras la cifra I da la LF dals 14 da zer. 2024 (pachet da mesiras per l’execuziun da sancziuns), en vigur dapi il 1. da fan. 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
+[^25a-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 26
 
@@ -399,9 +499,35 @@ Sin dumonda dal giuvenil po l’autoritad giuditganta transfurmar ina detenziun 
 
 <sup>6</sup> L’execuziun da chastis po vegnir surdada ad instituziuns privatas.[^27-3]
 
-[^27-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^27-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^27-2]: Versiun tenor cifra 2 da l’agiunta da la LF dals 19 da zer. 2015 (midadas dal dretg da sancziuns), en vigur dapi il 1. da schan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 [^27-3]: Integrà tras la cifra 1 da l’agiunta da la Procedura penala per giuvenils dals 20 da mars 2009, en vigur dapi il 1. da schan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+
+#### Art. 27a
+
+**c<sup>bis</sup>. Ordinaziun da l’internament resalvà**[^27a-1]
+
+<sup>1</sup>
+
+L’autoritad executiva dumonda la dretgira per creschids al domicil dal giuvenil sentenzià avant la fin da la detenziun, d’ordinar in internament tenor l’artitgel 64 alinea 1 CP[^27a-2], sche:
+
+- a. l’internament è vegnì resalvà sin basa da l’artitgel 25*a*;
+- b. ins sto quintar seriusamain, ch’il giuvenil sentenzià commettia danovamain in assassinat (art. 112 CP), cura che la detenziun è finida;
+- c. las premissas per ina mesira da dretg civil adequata per la protecziun da creschids n’èn betg ademplidas; e
+- d. il giuvenil sentenzià è maioren, cura ch’el vegn relaschà.
+
+<sup>2</sup>
+
+Per sia dumonda sa basa l’autoritad executiva:
+
+- a. sin il rapport da la direcziun da l’instituziun d’execuziun;
+- b. sin in’expertisa d’in expert independent tenor l’artitgel 56 alineas 3 e 4 CP;
+- c. sin il giudicament da la cumissiun spezialisada tenor l’artitgel 91*a* CP[^27a-3]; e
+- d. sin l’audiziun dal giuven creschì.
+
+[^27a-1]: Integrà tras la cifra I da la LF dals 14 da zer. 2024 (pachet da mesiras per l’execuziun da sancziuns), en vigur dapi il 1. da fan. 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
+[^27a-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^27a-3]: Perquai ch’il project 1 dal pachet da mesiras per l’execuziun da sancziuns ([BBl 2022 2992](https://fedlex.data.admin.ch/eli/fga/2022/2992)) è vegnì refusà ils 14 da zer. 2024 (AB 2024 N 1347), n’è il renviament betg correct. Guardar ad interim art. 62*d* al. 2 CP.
 
 #### Art. 28
 
@@ -411,11 +537,12 @@ Sin dumonda dal giuvenil po l’autoritad giuditganta transfurmar ina detenziun 
 
 <sup>2</sup> L’autoritad executiva examinescha d’uffizi, sch’il giuvenil po vegnir relaschà cundiziunadamain. Per quest intent dumonda ella mintgamai in rapport da la direcziun da l’instituziun sco er da la persuna che accumpogna il giuvenil. Il giuvenil sto vegnir tadlà, sche l’autoritad executiva ha l’intenziun da refusar la relaschada cundiziunada.
 
-<sup>3</sup> Sche la detenziun è vegnida pronunziada tenor l’artitgel 25 alinea 2, decida l’autoritad executiva suenter avair tadlà ina cumissiun tenor l’artitgel 62*d* alinea 2 CP[^28-1].
+<sup>3</sup> Sche la detenziun è vegnida pronunziada tenor l’artitgel 25 alinea 2, decida l’autoritad executiva sin basa dal giudicament da la cumissiun spezialisada tenor l’artitgel 91*a* CP[^28-1].[^28-2]
 
 <sup>4</sup> Sche la relaschada cundiziunada vegn refusada, sto l’autoritad cumpetenta examinar danovamain almain mintga mez onn, sche tala po vegnir concedida.
 
-[^28-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^28-1]: Perquai ch’il project 1 dal pachet da mesiras per l’execuziun da sancziuns ([BBl 2022 2992](https://fedlex.data.admin.ch/eli/fga/2022/2992)) è vegnì refusà ils 14 da zer. 2024 (AB 2024 N 1347), n’è il renviament betg correct. Guardar ad interim art. 62*d* al. 2 CP.
+[^28-2]: Versiun tenor la cifra I da la LF dals 14 da zer. 2024 (pachet da mesiras per l’execuziun da sancziuns), en vigur dapi il 1. da fan. 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
 
 #### Art. 29
 
@@ -447,7 +574,7 @@ Sch’il giuvenil ch’è vegnì relaschà cundiziunadamain sa cumprova fin a la
 
 <sup>5</sup> Sch’il CP[^31-1] è applitgabel per giuditgar il nov malfatg, applitgescha l’autoritad giuditganta l’artitgel 89 CP areguard la revocaziun.
 
-[^31-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^31-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 32
 
@@ -457,9 +584,12 @@ Sch’il giuvenil ch’è vegnì relaschà cundiziunadamain sa cumprova fin a la
 
 <sup>2</sup> Sch’il plazzament vegn abolì, perquai ch’el ha cuntanschì sia finamira, na vegn la detenziun betg pli exequida.
 
-<sup>3</sup> Sch’il plazzament vegn abolì per in auter motiv, decida l’autoritad giuditganta, sche e quant enavant che la detenziun sto anc vegnir exequida. En quest cas vegn messa a quint la restricziun da la libertad ch’è colliada cun il plazzament.
+<sup>3</sup> Sch’il plazzament vegn abolì per in auter motiv, decida l’autoritad giuditganta, sche e quant enavant che la detenziun sto anc vegnir exequida. En quest cas vegn messa a quint la restricziun da la libertad ch’è colliada cun il plazzament. Sch’in plazzament en ina instituziun serrada, ch’è vegnì ordinà pervia d’in assassinat (art. 112 CP[^32-1]) e per evitar ch’il giuvenil pericliteschia grevamain terzas persunas, vegn abolì per in auter motiv, ordinescha l’autoritad executiva l’execuziun dal chasti restant.[^32-2]
 
 <sup>4</sup> L’autoritad giuditganta po suspender l’execuziun d’ina detenziun pronunziada a medem temp u d’ina detenziun exequibla pervia d’ina revocaziun u d’ina represa da l’execuziun a favur d’in tractament ambulant, d’ina assistenza persunala u d’ina surveglianza. En cas che questas mesiras da protecziun vegnan abolidas, valan ils alineas 2 e 3 tenor il senn.
+
+[^32-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^32-2]: Integrà la terza frasa tras la cifra I da la LF dals 14 da zer. 2024 (pachet da mesiras per l’execuziun da sancziuns), en vigur dapi il 1. da fan. 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
 
 #### Art. 33
 
@@ -506,7 +636,7 @@ La persecuziun penala surannescha en:
 <sup>3</sup> En cas da malfatgs tenor ils artitgels 111–113, 122, 182, 189–191 e 195 CP che sa drizzan cunter in uffant sut 16 onns, vegn la surannaziun da la persecuziun penala calculada tenor l’alinea 2, sch’il malfatg è vegnì commess avant l’entrada en vigur da questa lescha e sche la surannaziun da la persecuziun penala n’è anc betg accumplida a questa data.[^36-4]
 
 [^36-1]: Integrà tras la cifra 5 da l’agiunta 1 da la LF dals 17 da zer. 2022, en vigur dapi il 1. da schan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
-[^36-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^36-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^36-3]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 16 da zer. 2023 davart la revisiun dal dretg penal sexual, en vigur dapi il 1. da fan. 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^36-4]: Integrà tras la cifra I 2 da la LF dals 16 da zer. 2023 davart la revisiun dal dretg penal sexual, en vigur dapi il 1. da fan. 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
@@ -523,13 +653,28 @@ Ils chastis suranneschan en:
 
 <sup>2</sup> L’execuziun da mintga chasti pronunzià tenor questa lescha finescha il pli tard, cur ch’il giuvenil sentenzià ha cumplenì il 25avel onn da vegliadetgna.
 
-## 5. chapitel …
+## 5. chapitel Disposiziuns cumplementaras dal Cussegl federal
 
-#### Art. 38–43
+[^chap5-1]
 
-[^3843-1]
+[^chap5-1]: Versiun tenor la cifra 5 da l’agiunta 1 da la LF dals 17 da zer. 2022, en vigur dapi il 1. da fan. 2025 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468), [2024 490](https://fedlex.data.admin.ch/eli/oc/2024/490); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
-[^3843-1]: Abolì tras la cifra 1 da l’agiunta da la Procedura penala per giuvenils dals 20 da mars 2009, cun effect dapi il 1. da schan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+#### Art. 38
+
+[^38-1]
+
+Suenter avair consultà ils chantuns è il Cussegl federal autorisà da decretar disposiziuns concernent:
+
+- a. l’execuziun da chastis totals, da chastis supplementars e da plirs chastis singuls e da mesiras che pon vegnir exequids a medem temp;
+- b. la surpigliada da l’execuziun da chastis e da mesiras tras in auter chantun.
+
+[^38-1]: Versiun tenor la cifra 5 da l’agiunta 1 da la LF dals 17 da zer. 2022, en vigur dapi il 1. da fan. 2025 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468), [2024 490](https://fedlex.data.admin.ch/eli/oc/2024/490); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+
+#### Art. 39–43
+
+[^3943-1]
+
+[^3943-1]: Abolì tras la cifra 1 da l’agiunta da la Procedura penala per giuvenils dals 20 da mars 2009, cun effect dapi il 1. da schan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
 
 ## 6. chapitel Disposiziuns finalas
 
@@ -537,7 +682,7 @@ Ils chastis suranneschan en:
 
 #### Art. 44
 
-…[^44-1]
+...[^44-1]
 
 [^44-1]: Las midadas pon vegnir consultadas en la [AS 2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551).
 
@@ -549,10 +694,10 @@ Ils chastis suranneschan en:
 
 <sup>1</sup> Mesiras d’educaziun, tractaments spezials e chastis disciplinars, ch’èn vegnids ordinads tenor ils vegls artitgels 84, 85 u 87 CP[^45-1] envers uffants che n’avevan betg anc cumplenì il 10avel onn da vegliadetgna il mument ch’els han commess il malfatg, ma che n’èn betg vegnids exequids u vegnids exequids mo per part, na vegnan betg pli exequids suenter l’entrada en vigur da questa lescha.
 
-<sup>2</sup> Sch’i dat indizis che l’uffant dovria agid spezial, infurmescha l’autoritad executiva l’autoritad tutelara[^45-2] u il post spezialisà per l’agid a la giuventetgna designà tenor il dretg chantunal.
+<sup>2</sup> Sch’i dat indizis che l’uffant dovria agid spezial, infurmescha l’autoritad executiva l’autoritad per la protecziun d’uffantsu il post spezialisà per l’agid a la giuventetgna designà tenor il dretg chantunal.[^45-2]
 
 [^45-1]: [AS 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)
-[^45-2]: Dapi l’entrada en vigur da la LF dals 19 da dec. 2008 (protecziun da creschids, dretg da persunas e dretg dals uffants; [AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114)) il 1. da schan. 2013: autoritad per la protecziun d’uffants.
+[^45-2]: Versiun tenor la cifra I da la LF dals 14 da zer. 2024 (pachet da mesiras per l’execuziun da sancziuns), en vigur dapi il 1. da fan. 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
 
 #### Art. 46
 
@@ -612,4 +757,4 @@ Data da l’entrada en vigur: 1. da schaner 2007[^49-3]
 
 [^49-1]: [AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)
 [^49-2]: [AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538)
-[^49-3]: COCF dals 5 da fan. 2006
+[^49-3]: COCF dals 5 da fan. 2006.

@@ -4,11 +4,11 @@ title: "Loi fédérale du 20 juin 2003 régissant la condition pénale des mineu
 short: DPMin
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/551"
 language: fr
-version: 2024-07-01
+version: 2025-07-01
 adopted: 2003-06-20
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/551/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2006-551-20240701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/551/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/551/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2006-551-20250701-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/551/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/551/20240701/fr"
 
 (Droit pénal des mineurs, DPMin)
 
-du 20 juin 2003 (État le 1<sup>er</sup> juillet 2024)
+du 20 juin 2003 (État le 1<sup>er</sup> juillet 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +25,7 @@ vu l’art. 123 de la Constitution[^ingress-1], vu le message du Conseil fédér
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: FF **1999** 1787
 
 ## Chapitre 1 Principes et champ d’application
@@ -64,7 +64,7 @@ Les dispositions ci-après du CP, applicables par analogie, complètent la prés
 
 <sup>3</sup> Lors de l’application de ces dispositions du CP, les principes définis à l’art. 2 doivent être pris en compte et l’âge et le degré de développement du mineur doivent peser en sa faveur.
 
-[^1-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^1-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^1-2]: Abrogée par l’annexe ch. 1 de la Procédure pénale applicable aux mineurs du 20 mars 2009, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
 [^1-3]: Introduite par le ch. I 2 de la LF du 26 sept. 2014 sur le droit de la victime à être informée, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1623](https://fedlex.data.admin.ch/eli/oc/2015/321); [FF 2014 863](https://fedlex.data.admin.ch/eli/fga/2014/136)[885](https://fedlex.data.admin.ch/eli/fga/2014/138)).
 [^1-4]: Nouvelle teneur selon le ch. I 2 de la LF du 15 juin 2012 concernant l’imprescriptibilité des actes d’ordre sexuel ou pornographique commis sur des enfants impubères, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5951](https://fedlex.data.admin.ch/eli/oc/2012/696); [FF 2011 5565](https://fedlex.data.admin.ch/eli/fga/2011/883)).
@@ -86,17 +86,19 @@ Les dispositions ci-après du CP, applicables par analogie, complètent la prés
 
 <sup>1</sup> La présente loi s’applique à quiconque commet un acte punissable entre 10 et 18 ans.
 
-<sup>2</sup> Lorsque plusieurs infractions commises avant et après l’âge de 18 ans doivent être jugées en même temps, le CP[^3-1] est seul applicable en ce qui concerne les peines. Il en va de même pour les peines complémentaires (art. 49, al. 2, CP) prononcées pour un acte commis avant l’âge de 18 ans. Lorsqu’une mesure est nécessaire, l’autorité de jugement ordonne celle qui est prévue par le code pénal ou par la présente loi, en fonction des circonstances. Lorsqu’une procédure pénale des mineurs est introduite avant la connaissance d’un acte commis après l’âge de 18 ans, cette procédure reste applicable. Dans les autres cas, la procédure pénale relative aux adultes est applicable.
+<sup>2</sup> Lorsque plusieurs infractions commises avant et après l’âge de 18 ans doivent être jugées en même temps et que les autorités n’ont eu connaissance d’un acte commis avant l’âge de 18 ans qu’après l’ouverture d’une procédure pour un acte commis après l’âge de 18 ans, le CP[^3-1] est seul applicable en ce qui concerne les peines et les mesures, et la procédure est régie par le code de procédure pénale[^3-2].[^3-3]
 
-[^3-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^3-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^3-2]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^3-3]: Nouvelle teneur selon l’annexe 1 ch. 5 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [2024 490](https://fedlex.data.admin.ch/eli/oc/2024/490); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 4
 
 **Actes commis avant l’âge de dix ans**
 
-Si l’autorité compétente constate au cours d’une procédure qu’un acte a été commis par un enfant de moins de dix ans, elle avise ses représentants légaux. S’il apparaît que l’enfant a besoin d’une aide particulière, elle avise également l’autorité tutélaire[^4-1] ou le service d’aide à la jeunesse désigné par le droit cantonal.
+Si l’autorité compétente constate au cours d’une procédure qu’un acte a été commis par un enfant de moins de dix ans, elle avise ses représentants légaux. S’il apparaît que l’enfant a besoin d’une aide particulière, elle avise également l’autorité de protection de l’enfant ou le service d’aide à la jeunesse désigné par le droit cantonal.[^4-1]
 
-[^4-1]: Depuis l’entrée en vigueur de la LF du 19 déc. 2008 (Protection de l’adulte, droit des personnes et droit de la filiation; [RO 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114)) le 1<sup>er</sup> janv. 2013: autorité de protection de l’enfant.
+[^4-1]: Nouvelle teneur de la phrase selon le ch. I de la LF du 14 juin 2024 (Train de mesures. Exécution des sanctions), en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [FF 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
 
 ## Chapitre 2 Instruction
 
@@ -122,6 +124,10 @@ Pendant l’instruction, l’autorité compétente peut ordonner, à titre provi
 
 <sup>3</sup> S’il existe une raison sérieuse de douter de la santé physique ou psychique du mineur ou si le placement en établissement ouvert en vue du traitement d’un trouble psychique ou le placement en établissement fermé paraissent indiqués, l’autorité compétente ordonne une expertise médicale ou psychologique.
 
+<sup>4</sup> Si les conditions visées à l’art. 25*a*, al. 1, let. a à c, sont remplies, l’autorité compétente ordonne une expertise sur la menace que le mineur représente pour des tiers.[^9-1]
+
+[^9-1]: Introduit par le ch. I de la LF du 14 juin 2024 (Train de mesures. Exécution des sanctions), en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [FF 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
+
 ## Chapitre 3 Mesures de protection et peines
 
 ### Section 1 Conditions générales
@@ -130,9 +136,11 @@ Pendant l’instruction, l’autorité compétente peut ordonner, à titre provi
 
 **Prononcé des mesures de protection**
 
-<sup>1</sup> Si le mineur a commis un acte punissable et que l’enquête sur sa situation personnelle conclut à la nécessité d’une prise en charge éducative ou thérapeutique particulière, l’autorité de jugement ordonne les mesures de protection exigées par les circonstances, que le mineur ait agi de manière coupable ou non.
+<sup>1</sup> Si le mineur a commis un acte punissable et que l’enquête sur sa situation personnelle conclut à la nécessité d’une prise en charge éducative ou thérapeutique particulière, l’autorité de jugement ordonne les mesures de protection exigées par les circonstances, que le mineur ait agi de manière coupable ou non. Si plusieurs mesures de protection sont nécessaires, l’autorité de jugement peut les ordonner ensemble.[^10-1]
 
 <sup>2</sup> Si le mineur n’a pas sa résidence habituelle en Suisse, l’autorité de jugement peut renoncer à ordonner une mesure de protection.
+
+[^10-1]: Phrase ntroduite par le ch. I de la LF du 14 juin 2024 (Train de mesures. Exécution des sanctions), en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [FF 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
 
 #### Art. 11
 
@@ -150,9 +158,11 @@ Pendant l’instruction, l’autorité compétente peut ordonner, à titre provi
 
 <sup>1</sup> S’il y a lieu de supposer que les détenteurs de l’autorité parentale ou les parents nourriciers prendront les mesures nécessaires pour assurer au mineur une prise en charge éducative ou thérapeutique appropriée, l’autorité de jugement désigne une personne ou un service doté des compétences requises qui aura un droit de regard et d’information. L’autorité de jugement peut adresser des instructions aux parents.
 
-<sup>2</sup> Aucune surveillance ne peut être ordonnée à l’égard du mineur sous tutelle.
+<sup>2</sup> Si le mineur est sous tutelle ou si le jeune adulte est sous curatelle, il n’est pas possible d’ordonner une surveillance.[^12-1]
 
 <sup>3</sup> Aucune surveillance ne peut être ordonnée après la majorité de l’intéressé sans son consentement.
+
+[^12-1]: Nouvelle teneur selon le ch. I de la LF du 14 juin 2024 (Train de mesures. Exécution des sanctions), en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [FF 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
 
 #### Art. 13
 
@@ -162,11 +172,12 @@ Pendant l’instruction, l’autorité compétente peut ordonner, à titre provi
 
 <sup>2</sup> L’autorité de jugement peut conférer à la personne chargée de cette assistance certains pouvoirs en rapport avec l’éducation, le traitement et la formation du mineur et limiter l’autorité parentale en conséquence. Elle peut confier à cette personne la gestion du revenu provenant du travail du mineur, en dérogation à l’art. 323, al. 1, du code civil (CC)[^13-1].
 
-<sup>3</sup> Aucune assistance personnelle ne peut être ordonnée à l’égard du mineur sous tutelle.
+<sup>3</sup> Si le mineur est sous tutelle ou si le jeune adulte est sous curatelle, l’assistance personnelle ne peut pas être ordonnée.[^13-2]
 
 <sup>4</sup> Aucune assistance personnelle ne peut être ordonnée après la majorité de l’intéressé sans son consentement.
 
-[^13-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^13-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^13-2]: Nouvelle teneur selon le ch. I de la LF du 14 juin 2024 (Train de mesures. Exécution des sanctions), en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [FF 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
 
 #### Art. 14
 
@@ -174,7 +185,9 @@ Pendant l’instruction, l’autorité compétente peut ordonner, à titre provi
 
 <sup>1</sup> Si le mineur souffre de troubles psychiques, de troubles du développement de sa personnalité, de toxicodépendance ou d’une autre addiction, l’autorité de jugement peut ordonner un traitement ambulatoire.
 
-<sup>2</sup> Le traitement ambulatoire peut être cumulé avec la surveillance (art. 12), l’assistance personnelle (art. 13) ou le placement dans un établissement d’éducation (art. 15, al. 1).
+<sup>2</sup> …[^14-1]
+
+[^14-1]: Abrogé par le ch. I de la LF du 14 juin 2024 (Train de mesures. Exécution des sanctions), avec effet au 1<sup>er</sup> juil. 2025 ([RO 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [FF 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
 
 #### Art. 15
 
@@ -191,9 +204,13 @@ L’autorité de jugement ne peut ordonner le placement en établissement fermé
 
 <sup>3</sup> Avant d’ordonner le placement en établissement ouvert en vue du traitement d’un trouble psychique ou le placement en établissement fermé, l’autorité de jugement requiert une expertise médicale ou psychologique si celle-ci n’a pas été effectuée en vertu de l’art. 9, al. 3.
 
-<sup>4</sup> Si le mineur est sous tutelle, l’autorité de jugement communique la décision de placement à l’autorité tutélaire[^15-1].
+<sup>4</sup> Si le mineur est sous tutelle ou si le jeune adulte est sous curatelle, l’autorité de jugement communique la décision de placement à l’autorité de protection de l’enfant ou de l’adulte.[^15-1]
 
-[^15-1]: Depuis l’entrée en vigueur de la LF du 19 déc. 2008 (Protection de l’adulte, droit des personnes et droit de la filiation; [RO 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114)) le 1<sup>er</sup> janv. 2013: autorité de protection de l’enfant.
+<sup>5</sup> Si le placement en établissement fermé a été ordonné en raison d’un assassinat (art. 112 CP[^15-2]) et dans le but de protéger des tiers d’une grave menace de la part du mineur, il peut être poursuivi aux conditions de l’art. 19*c* sous la forme d’un internement au sens de l’art. 64, al. 1, CP.[^15-3]
+
+[^15-1]: Nouvelle teneur selon le ch. I de la LF du 14 juin 2024 (Train de mesures. Exécution des sanctions), en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [FF 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
+[^15-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^15-3]: Introduit par le ch. I de la LF du 14 juin 2024 (Train de mesures. Exécution des sanctions), en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [FF 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
 
 #### Art. 16
 
@@ -207,8 +224,8 @@ L’autorité de jugement ne peut ordonner le placement en établissement fermé
 
 <sup>4</sup> L’exécution des mesures peut être confiée à des établissements privés.[^16-3]
 
-[^16-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^16-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^16-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^16-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^16-3]: Introduit par l’annexe ch. 1 de la Procédure pénale applicable aux mineurs du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
 
 #### Art. 16a
@@ -249,16 +266,72 @@ L’autorité de jugement ne peut ordonner le placement en établissement fermé
 
 <sup>1</sup> L’autorité d’exécution examine chaque année si et quand la mesure peut être levée. Elle la lève si son objectif est atteint ou s’il est établi qu’elle n’a plus d’effet éducatif ou thérapeutique.
 
-<sup>2</sup> Toutes les mesures prennent fin lorsque l’intéressé atteint l’âge de 25 ans.[^19-1]
+<sup>1bis</sup> Si le placement en établissement fermé a été ordonné en raison d’un assassinat (art. 112 CP[^19-1]) et dans le but de protéger des tiers d’une grave menace de la part du mineur, l’autorité d’exécution prend la décision en se fondant sur l’évaluation de la commission prévue à l’art. 91*a* CP[^19-2].[^19-3]
 
-<sup>3</sup> Si la fin d’une mesure expose l’intéressé à des inconvénients majeurs ou compromet gravement la sécurité d’autrui et qu’il ne peut être paré d’une autre manière à ces risques, l’autorité d’exécution requiert en temps utile les mesures tutélaires[^19-2] appropriées.
+<sup>2</sup> Toutes les mesures prennent fin lorsque l’intéressé atteint l’âge de 25 ans.[^19-4]
 
-<sup>4</sup> Si la levée d’une interdiction au sens de l’art. 16a compromet gravement la sécurité d’autrui, l’autorité d’exécution demande en temps utile au juge du domicile de la personne concernée d’examiner si les conditions d’une interdiction au sens de l’art. 67 ou 67b CP[^19-3] sont réunies. Si tel est le cas, le juge prononce une interdiction au sens du droit pénal applicable aux adultes. Si les conditions d’une interdiction au sens de l’art. 67, al. 3 ou 4, CP sont réunies, la durée de l’interdiction est de un à dix ans.[^19-4]
+<sup>3</sup> …[^19-5]
 
-[^19-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 19 juin 2015 (Réforme du droit des sanctions), en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4385](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^19-2]: Depuis l’entrée en vigueur de la LF du 19 déc. 2008 (Protection de l’adulte, droit des personnes et droit de la filiation; [RO 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114)) le 1<sup>er</sup> janv. 2013: mesures de protection de l’enfant.
-[^19-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^19-4]: Introduit par le ch. I 3 de la LF du 13 déc. 2013 sur l’interdiction d’exercer une activité, l’interdiction de contact et l’interdiction géographique, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [FF 2012 8151](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
+<sup>4</sup> …[^19-6]
+
+[^19-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^19-2]: Suite au rejet, le 14 juin 2024 (BO 2024 N 1347), du projet 1 du «Train de mesures. Exécution des sanctions» ([FF 2022 2992](https://fedlex.data.admin.ch/eli/fga/2022/2992)), le renvoi n’est plus correct. Voir jusqu’à nouvel avis l’art. 62*d*, al. 2, CP.
+[^19-3]: Introduit par le ch. I de la LF du 14 juin 2024 (Train de mesures. Exécution des sanctions), en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [FF 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
+[^19-4]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 19 juin 2015 (Réforme du droit des sanctions), en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4385](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^19-5]: Abrogé par le ch. I de la LF du 14 juin 2024 (Train de mesures. Exécution des sanctions), avec effet au 1<sup>er</sup> juil. 2025 ([RO 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [FF 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
+[^19-6]: Introduit par le ch. I 3 de la LF du 13 déc. 2013 sur l’interdiction d’exercer une activité, l’interdiction de contact et l’interdiction géographique ([RO 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [FF 2012 8151](https://fedlex.data.admin.ch/eli/fga/2012/1575)). Abrogé par le ch. I de la LF du 14 juin 2024 (Train de mesures. Exécution des sanctions), avec effet au 1<sup>er</sup> juil. 2025 ([RO 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [FF 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
+
+#### Art. 19a
+
+**Mesures consécutives a. Principes**[^19a-1]
+
+<sup>1</sup> Si la fin d’une mesure de protection expose le mineur ou le jeune adulte à un grave danger ou porte atteinte à la sécurité d’autrui et qu’il ne peut y être paré d’une autre manière, l’autorité d’exécution requiert en temps utile le prononcé des mesures appropriées de protection de l’enfant ou de l’adulte.
+
+<sup>2</sup> L’autorité d’exécution ne peut requérir une mesure du CP[^19a-2] sur la base des art. 19*b* et 19*c* que si les conditions pour prononcer des mesures de protection de l’adulte ne sont pas réunies ou si de telles mesures ne suffisent pas pour préserver la sécurité d’autrui d’un grave danger.
+
+[^19a-1]: Introduit par le ch. I de la LF du 14 juin 2024 (Train de mesures. Exécution des sanctions), en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [FF 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
+[^19a-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+
+#### Art. 19b
+
+**b. Interdiction d’exercer une activité, interdiction de contact et interdiction géographique au sens du CP**[^19b-1]
+
+<sup>1</sup> Si la fin d’une interdiction au sens de l’art. 16*a* expose la sécurité d’autrui à un grave danger, l’autorité d’exécution demande au tribunal pour adultes du domicile du jeune adulte d’ordonner une interdiction au sens de l’art. 67, al. 2, ou 67*b*, al. 1, CP[^19b-2].
+
+<sup>2</sup> À la demande de l’autorité d’exécution, le tribunal pour adultes peut prolonger les interdictions en vertu des art. 67, al. 2<sup>bis</sup>, et 67*b*, al. 5, CP.
+
+<sup>3</sup> Il peut étendre les interdictions ou ordonner une nouvelle interdiction à la demande de l’autorité d’exécution en vertu de l’art. 67*d*, al. 1, CP.
+
+[^19b-1]: Introduit par le ch. I de la LF du 14 juin 2024 (Train de mesures. Exécution des sanctions), en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [FF 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
+[^19b-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+
+#### Art. 19c
+
+**c. Internement au sens de l’art. 64, al. 1, CP à l’issue d’un placement en établissement fermé**[^19c-1]
+
+<sup>1</sup>
+
+L’autorité d’exécution demande au tribunal pour adultes du domicile du jeune adulte d’ordonner un internement au sens de l’art. 64, al. 1, CP[^19c-2] avant la fin du placement en établissement fermé ou d’une privation de liberté qui est exécutée à l’issue de cette mesure:
+
+- a. si le jeune adulte a commis un assassinat (art. 112 CP) après avoir atteint l’âge de 16 ans;
+- b. si, en raison de cette infraction, il a été ordonné un placement qui a été exécuté en établissement fermé pour protéger autrui d’une grave menace;
+- c. si, à la fin d’un placement en établissement fermé ou une fois que la privation de liberté, à l’issue de cette mesure, a été exécutée, il est sérieusement à craindre qu’il commette à nouveau un assassinat (art. 112 CP), et
+- d. s’il est majeur.
+
+<sup>2</sup>
+
+L’autorité d’exécution appuie sa requête:
+
+- a. sur le rapport de la direction de l’établissement chargé de l’exécution;
+- b. sur l’expertise établie par un expert indépendant au sens de l’art. 56, al. 3 et 4, CP;
+- c. sur l’évaluation de la commission prévue à l’art. 91*a* CP[^19c-3], et
+- d. sur l’audition du jeune adulte.
+
+<sup>3</sup> Si le tribunal pour adultes ordonne un internement au sens de l’art. 64, al. 1, CP, il lève le placement en établissement fermé encore existant.
+
+[^19c-1]: Introduit par le ch. I de la LF du 14 juin 2024 (Train de mesures. Exécution des sanctions), en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [FF 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
+[^19c-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^19c-3]: Suite au rejet, le 14 juin 2024 (BO 2024 N 1347), du projet 1 du «Train de mesures. Exécution des sanctions» ([FF 2022 2992](https://fedlex.data.admin.ch/eli/fga/2022/2992)), le renvoi n’est plus correct. Voir jusqu’à nouvel avis l’art. 62*d*, al. 2, CP.
 
 #### Art. 20
 
@@ -370,7 +443,35 @@ Est condamné à une privation de liberté de quatre ans au plus le mineur qui a
 - a. s’il a commis un crime pour lequel le droit applicable aux adultes prévoit une peine privative de liberté de trois ans au moins;
 - b. s’il a commis une infraction prévue aux art. 122, 140, al. 3, ou 184 CP[^25-1] en faisant preuve d’une absence particulière de scrupules, notamment si son mobile, sa façon d’agir ou le but de l’acte révèlent des dispositions d’esprit hautement répréhensibles.
 
-[^25-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^25-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+
+#### Art. 25a
+
+**a<sup>bis</sup>. Réserve de l’internement**[^25a-1]
+
+<sup>1</sup>
+
+Dans le jugement de condamnation, le tribunal des mineurs réserve la possibilité d’ordonner un internement au sens de l’art. 64, al. 1, CP[^25a-2] une fois que le mineur aura atteint l’âge de 18 ans:
+
+- a. s’il a commis un assassinat (art. 112 CP);
+- b. s’il a été condamné à une privation de liberté d’au moins trois ans pour cette infraction;
+- c. si aucun placement n’est ordonné au sens de l’art. 15, et
+- d. si en raison des circonstances dans lesquelles il a commis l’infraction et de sa personnalité au moment du jugement de condamnation, il faut considérer qu’il représente une grave menace pour des tiers.
+
+<sup>2</sup> Si, dans le cadre d’une même procédure, il a été prononcé contre le mineur une privation de liberté pour plusieurs infractions, l’autorité de jugement détermine la part de la peine qui correspond à l’assassinat. Cette part détermine si la condition de l’al. 1, let. b, est remplie.
+
+<sup>3</sup> La réserve est valable jusqu’à la libération définitive de la privation de liberté. Si, pendant l’exécution d’un jugement contenant une réserve, un nouveau jugement est rendu en vertu de cette loi pour une infraction du même mineur, la réserve vaut aussi jusqu’à la fin de l’exécution du nouveau jugement.
+
+<sup>4</sup>
+
+L’autorité d’exécution lève la réserve si le mineur ne représente pas une grave menace pour des tiers. Elle examine chaque année si la réserve peut être levée, pour ce faire elle se fonde:
+
+- a. sur le rapport de la direction de l’établissement chargé de l’exécution ainsi que sur celui de la personne qui accompagne le mineur;
+- b. sur une expertise;
+- c. sur l’audition du mineur si le maintien de la réserve est envisagé.
+
+[^25a-1]: Introduit par le ch. I de la LF du 14 juin 2024 (Train de mesures. Exécution des sanctions), en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [FF 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
+[^25a-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 26
 
@@ -394,9 +495,35 @@ A la demande du mineur, l’autorité de jugement peut convertir une privation d
 
 <sup>6</sup> L’exécution des peines peut être confiée à des établissements privés.[^27-3]
 
-[^27-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^27-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^27-2]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 19 juin 2015 (Réforme du droit des sanctions), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4385](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 [^27-3]: Introduit par l’annexe ch. 1 de la Procédure pénale applicable aux mineurs du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+
+#### Art. 27a
+
+**c<sup>bis</sup>. Prononcé de l’internement réservé**[^27a-1]
+
+<sup>1</sup>
+
+L’autorité d’exécution demande d’ordonner un internement au sens de l’art 64, al. 1, CP[^27a-2] au tribunal pour adultes du domicile du mineur condamné, avant la fin de la privation de liberté:
+
+- a. si un internement a été réservé en vertu de l’art. 25*a*;
+- b. s’il est sérieusement à craindre qu’à la fin de la privation de liberté, le mineur condamné commette à nouveau un assassinat (art. 112 CP);
+- c. si les conditions d’une mesure appropriée de protection de l’adulte en vertu du droit civil ne sont pas réunies, et
+- d. si le mineur condamné est majeur à sa libération.
+
+<sup>2</sup>
+
+L’autorité d’exécution appuie sa requête:
+
+- a. sur le rapport de la direction de l’établissement chargé de l’exécution;
+- b. sur l’expertise établie par un expert indépendant au sens de l’art. 56, al. 3 et 4, CP;
+- c. sur l’évaluation de la commission prévue à l’art. 91*a* CP[^27a-3], et
+- d. sur l’audition du jeune adulte.
+
+[^27a-1]: Introduit par le ch. I de la LF du 14 juin 2024 (Train de mesures. Exécution des sanctions), en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [FF 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
+[^27a-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^27a-3]: Suite au rejet, le 14 juin 2024 (BO 2024 N 1347), du projet 1 du «Train de mesures. Exécution des sanctions» ([FF 2022 2992](https://fedlex.data.admin.ch/eli/fga/2022/2992)), le renvoi n’est plus correct. Voir jusqu’à nouvel avis l’art. 62*d*, al. 2, CP.
 
 #### Art. 28
 
@@ -406,11 +533,12 @@ A la demande du mineur, l’autorité de jugement peut convertir une privation d
 
 <sup>2</sup> L’autorité d’exécution examine d’office si le mineur peut être libéré conditionnellement. Elle demande un rapport à la direction de l’établissement et à la personne chargée d’accompagner le mineur. Si elle a l’intention de refuser la libération conditionnelle, le mineur doit être entendu.
 
-<sup>3</sup> Si la privation de liberté a été prononcée en vertu de l’art. 25, al. 2, l’autorité d’exécution statue après avoir entendu une commission constituée conformément à l’art. 62*d*, al. 2, CP[^28-1].
+<sup>3</sup> Si la privation de liberté a été prononcée en vertu de l’art. 25, al. 2, l’autorité d’exécution prend une décision en se fondant sur l’évaluation de la commission prévue à l’art. 91*a* CP[^28-1].[^28-2]
 
 <sup>4</sup> Si la libération conditionnelle a été refusée, l’autorité compétente doit réexaminer au moins une fois tous les six mois la possibilité de l’accorder.
 
-[^28-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^28-1]: Suite au rejet, le 14 juin 2024 (BO 2024 N 1347), du projet 1 du «Train de mesures. Exécution des sanctions» ([FF 2022 2992](https://fedlex.data.admin.ch/eli/fga/2022/2992)), le renvoi n’est plus correct. Voir jusqu’à nouvel avis l’art. 62*d*, al. 2, CP.
+[^28-2]: Nouvelle teneur selon le ch. I de la LF du 14 juin 2024 (Train de mesures. Exécution des sanctions), en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [FF 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
 
 #### Art. 29
 
@@ -442,7 +570,7 @@ Le mineur libéré conditionnellement est libéré définitivement s’il a subi
 
 <sup>5</sup> Si une nouvelle infraction commise pendant la libération conditionnelle doit être jugée d’après le CP[^31-1], l’autorité de jugement applique l’art. 89 CP à la révocation.
 
-[^31-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^31-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 32
 
@@ -452,9 +580,12 @@ Le mineur libéré conditionnellement est libéré définitivement s’il a subi
 
 <sup>2</sup> S’il est mis fin au placement parce qu’il a atteint son objectif, la privation de liberté n’est plus exécutée.
 
-<sup>3</sup> S’il est mis fin au placement pour un autre motif, l’autorité de jugement décide si la privation de liberté doit être exécutée et dans quelle mesure elle doit l’être. En pareil cas, la durée du placement est imputée sur la privation de liberté.
+<sup>3</sup> S’il est mis fin au placement pour un autre motif, l’autorité de jugement décide si la privation de liberté doit être exécutée et dans quelle mesure elle doit l’être. En pareil cas, la durée du placement est imputée sur la privation de liberté. Si le placement en établissement fermé, ordonné en raison d’un assassinat (art. 112 CP[^32-1]) et dans le but de protéger des tiers d’une grave menace par le mineur, est levé pour un autre motif, l’autorité d’exécution ordonne l’exécution du solde de la peine.[^32-2]
 
 <sup>4</sup> Si un traitement ambulatoire, une assistance personnelle ou une surveillance sont en concours avec une privation de liberté exécutoire prononcée conjointement ou avec une privation de liberté qui doit être exécutée en raison d’une révocation ou d’une réintégration, l’autorité de jugement peut suspendre l’exécution de la privation de liberté. Si ces mesures de protection sont levées, les al. 2 et 3 s’appliquent par analogie.
+
+[^32-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^32-2]: Phrase introduite par le ch. I de la LF du 14 juin 2024 (Train de mesures. Exécution des sanctions), en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [FF 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
 
 #### Art. 33
 
@@ -501,7 +632,7 @@ L’action pénale se prescrit:
 <sup>3</sup> La prescription de l’action pénale en cas d’infractions au sens des art. 111 à 113, 122, 182, 189 à 191 et 195 CP dirigées contre un enfant de moins de 16 ans est fixée selon l’al. 2 si l’infraction a été commise avant l’entrée en vigueur de la présente loi et que la prescription n’est pas encore échue à cette date.[^36-4]
 
 [^36-1]: Introduit par l’annexe 1 ch. 5 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
-[^36-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^36-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^36-3]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 16 juin 2023 portant révision du droit pénal en matière sexuelle, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^36-4]: Introduit par le ch. I 2 de la LF du 16 juin 2023 portant révision du droit pénal en matière sexuelle, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
@@ -518,13 +649,28 @@ La peine se prescrit:
 
 <sup>2</sup> L’exécution de toute peine prononcée en vertu de la présente loi prend fin lorsque la personne condamnée atteint l’âge de 25 ans.
 
-## Chapitre 5 …
+## Chapitre 5 Dispositions complémentaires du Conseil fédéral
 
-#### Art. 38 à 43
+[^chap5-1]
 
-[^3843-1]
+[^chap5-1]: Nouvelle teneur selon l’annexe 1 ch. 5 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [2024 490](https://fedlex.data.admin.ch/eli/oc/2024/490); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
-[^3843-1]: Abrogés par l’annexe ch. 1 de la Procédure pénale applicable aux mineurs du 20 mars 2009, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+#### Art. 38
+
+[^38-1]
+
+Après consultation des cantons, le Conseil fédéral peut édicter des dispositions concernant:
+
+- a. l’exécution des peines d’ensemble et des peines supplémentaires, ainsi que des peines et des mesures exécutables simultanément;
+- b. la prise en charge de l’exécution de peines et de mesures par un autre canton.
+
+[^38-1]: Nouvelle teneur selon l’annexe 1 ch. 5 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [2024 490](https://fedlex.data.admin.ch/eli/oc/2024/490); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+
+#### Art 39 à 43
+
+[^3943-1]
+
+[^3943-1]: Abrogés par l’annexe ch. 1 de la Procédure pénale applicable aux mineurs du 20 mars 2009, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
 
 ## Chapitre 6 Dispositions finales
 
@@ -544,10 +690,10 @@ La peine se prescrit:
 
 <sup>1</sup> Si les mesures éducatives, les traitements spéciaux et les punitions disciplinaires ordonnées en vertu des anciens art. 84, 85 et 87 CP[^45-1] à l’égard d’enfants qui avaient moins de dix ans le jour de l’infraction n’ont pas été exécutés ou ne l’ont été que partiellement, ils ne sont plus exécutés après l’entrée en vigueur de la présente loi.
 
-<sup>2</sup> S’il apparaît que l’enfant a besoin d’une aide particulière, l’autorité d’exécution en informe l’autorité tutélaire[^45-2] ou le service d’aide à la jeunesse désigné par le droit cantonal.
+<sup>2</sup> S’il apparaît que l’enfant a besoin d’une aide particulière, l’autorité d’exécution en informe l’autorité de protection de l’enfant ou le service d’aide à la jeunesse désigné par le droit cantonal.[^45-2]
 
 [^45-1]: [RO 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)
-[^45-2]: Depuis l’entrée en vigueur de la LF du 19 déc. 2008 (Protection de l’adulte, droit des personnes et droit de la filiation; [RO 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114)) le 1<sup>er</sup> janv. 2013: autorité de protection de l’enfant.
+[^45-2]: Nouvelle teneur selon le ch. I de la LF du 14 juin 2024 (Train de mesures. Exécution des sanctions), en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [FF 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
 
 #### Art. 46
 

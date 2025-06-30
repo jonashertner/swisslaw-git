@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 20. Juni 2003 über das Jugendstrafrecht (Jugendstrafge
 short: JStG
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/551"
 language: de
-version: 2024-07-01
+version: 2025-07-01
 adopted: 2003-06-20
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/551/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2006-551-20240701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/551/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/551/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2006-551-20250701-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/551/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/551/20240701/de"
 
 (Jugendstrafgesetz, JStG)
 
-vom 20. Juni 2003 (Stand am 1. Juli 2024)
+vom 20. Juni 2003 (Stand am 1. Juli 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 123 der Bundesverfassung[^ingress-1], nach Einsicht in die
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: BBl **1999** 1979
 
 ## 1. Kapitel: Grundsätze und Geltungsbereich
@@ -64,7 +64,7 @@ Ergänzend zu diesem Gesetz sind die folgenden Bestimmungen des StGB sinngemäss
 
 <sup>3</sup> Bei der Anwendung dieser Bestimmungen des StGB müssen die Grundsätze nach Artikel 2 beachtet sowie Alter und Entwicklungsstand des Jugendlichen zu seinen Gunsten berücksichtigt werden.
 
-[^1-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^1-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^1-2]: Aufgehoben durch Anhang Ziff. 1 der Jugendstrafprozessordnung vom 20. März 2009, mit Wirkung seit 1. Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
 [^1-3]: Eingefügt durch Ziff. I 2 des BG vom 26. Sept. 2014 über das Informationsrecht des Opfers, in Kraft seit 1. Jan. 2016 ([AS 2015 1623](https://fedlex.data.admin.ch/eli/oc/2015/321); [BBl 2014 889](https://fedlex.data.admin.ch/eli/fga/2014/136)[913](https://fedlex.data.admin.ch/eli/fga/2014/138)).
 [^1-4]: Fassung gemäss Ziff. I 2 des BG vom 15. Juni 2012 (Unverjährbarkeit sexueller und pornografischer Straftaten an Kindern vor der Pubertät), in Kraft seit 1. Jan. 2013 ([AS 2012 5951](https://fedlex.data.admin.ch/eli/oc/2012/696); [BBl 2011 5977](https://fedlex.data.admin.ch/eli/fga/2011/883)).
@@ -86,17 +86,19 @@ Ergänzend zu diesem Gesetz sind die folgenden Bestimmungen des StGB sinngemäss
 
 <sup>1</sup> Dieses Gesetz gilt für Personen, die zwischen dem vollendeten 10. und dem vollendeten 18. Altersjahr eine mit Strafe bedrohte Tat begangen haben.
 
-<sup>2</sup> Sind gleichzeitig eine vor und eine nach Vollendung des 18. Altersjahres begangene Tat zu beurteilen, so ist hinsichtlich der Strafen nur das StGB[^3-1] anwendbar. Dies gilt auch für die Zusatzstrafe (Art. 49 Abs. 2 StGB), die für eine Tat auszusprechen ist, welche vor Vollendung des 18. Altersjahres begangen wurde. Bedarf der Täter einer Massnahme, so ist diejenige Massnahme nach dem StGB oder nach diesem Gesetz anzuordnen, die nach den Umständen erforderlich ist. Wurde ein Verfahren gegen Jugendliche eingeleitet, bevor die nach Vollendung des 18. Altersjahres begangene Tat bekannt wurde, so bleibt dieses Verfahren anwendbar. Andernfalls ist das Verfahren gegen Erwachsene anwendbar.
+<sup>2</sup> Sind gleichzeitig eine vor und eine nach Vollendung des 18. Altersjahres begangene Tat zu beurteilen und wurde die vor Vollendung des 18. Altersjahres begangene Tat erst bekannt, nachdem das Verfahren wegen einer nach Vollendung des 18. Altersjahres begangenen Tat eingeleitet wurde, so ist hinsichtlich der Strafen und Massnahmen nur das StGB[^3-1] anwendbar; das Verfahren richtet sich nach der Strafprozessordnung[^3-2].[^3-3]
 
-[^3-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^3-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^3-2]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^3-3]: Fassung gemäss Anhang 1 Ziff. 5 des BG vom 17. Juni 2022, in Kraft seit 1. Juli 2025 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468), [2024 490](https://fedlex.data.admin.ch/eli/oc/2024/490); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 4
 
 **Taten vor dem 10. Altersjahr**
 
-Stellt die zuständige Behörde im Laufe eines Verfahrens fest, dass eine Tat von einem Kind unter zehn Jahren begangen worden ist, so benachrichtigt sie die gesetzlichen Vertreter des Kindes. Liegen Anzeichen dafür vor, dass das Kind besondere Hilfe benötigt, so ist auch die Vormundschaftsbehörde[^4-1] oder die durch das kantonale Recht bezeichnete Fachstelle für Jugendhilfe zu benachrichtigen.
+Stellt die zuständige Behörde im Laufe eines Verfahrens fest, dass eine Tat von einem Kind unter zehn Jahren begangen worden ist, so benachrichtigt sie die gesetzlichen Vertreter des Kindes. Liegen Anzeichen dafür vor, dass das Kind besondere Hilfe benötigt, so ist auch die Kindesschutzbehörde oder die durch das kantonale Recht bezeichnete Fachstelle für Jugendhilfe zu benachrichtigen.[^4-1]
 
-[^4-1]: Seit Inkrafttreten des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht; [AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114)) am 1. Jan. 2013: Kindesschutzbehörde.
+[^4-1]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 14. Juni 2024 (Massnahmenpaket Sanktionenvollzug), in Kraft seit 1. Juli 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
 
 ## 2. Kapitel: Untersuchung
 
@@ -122,6 +124,10 @@ Während der Untersuchung kann die zuständige Behörde vorsorglich die Schutzma
 
 <sup>3</sup> Besteht ernsthafter Anlass, an der physischen oder psychischen Gesundheit des Jugendlichen zu zweifeln, oder erscheint die Unterbringung zur Behandlung einer psychischen Störung in einer offenen Einrichtung oder die Unterbringung in einer geschlossenen Einrichtung angezeigt, so ordnet die zuständige Behörde eine medizinische oder psychologische Begutachtung an.
 
+<sup>4</sup> Sind die Voraussetzungen nach Artikel 25*a* Absatz 1 Buchstaben a–c erfüllt, so ordnet die zuständige Behörde eine sachverständige Begutachtung der Gefahr an, die vom Jugendlichen für Dritte ausgeht.[^9-1]
+
+[^9-1]: Eingefügt durch Ziff. I des BG vom 14. Juni 2024 (Massnahmenpaket Sanktionenvollzug), in Kraft seit 1. Juli 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
+
 ## 3. Kapitel: Schutzmassnahmen und Strafen
 
 ### 1. Abschnitt: Allgemeine Voraussetzungen
@@ -130,9 +136,11 @@ Während der Untersuchung kann die zuständige Behörde vorsorglich die Schutzma
 
 **Anordnung der Schutzmassnahmen**
 
-<sup>1</sup> Hat der Jugendliche eine mit Strafe bedrohte Tat begangen und ergibt die Abklärung, dass er einer besonderen erzieherischen Betreuung oder therapeutischen Behandlung bedarf, so ordnet die urteilende Behörde die nach den Umständen erforderlichen Schutzmassnahmen an, unabhängig davon, ob er schuldhaft gehandelt hat.
+<sup>1</sup> Hat der Jugendliche eine mit Strafe bedrohte Tat begangen und ergibt die Abklärung, dass er einer besonderen erzieherischen Betreuung oder therapeutischen Behandlung bedarf, so ordnet die urteilende Behörde die nach den Umständen erforderlichen Schutzmassnahmen an, unabhängig davon, ob er schuldhaft gehandelt hat. Sind mehrere Schutzmassnahmen erforderlich, so kann die urteilende Behörde diese zusammen anordnen.[^10-1]
 
 <sup>2</sup> Hat der Jugendliche keinen gewöhnlichen Aufenthalt in der Schweiz, so kann die urteilende Behörde von der Anordnung einer Schutzmassnahme absehen.
+
+[^10-1]: Zweiter Satz eingefügt durch Ziff. I des BG vom 14. Juni 2024 (Massnahmenpaket Sanktionenvollzug), in Kraft seit 1. Juli 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
 
 #### Art. 11
 
@@ -150,11 +158,12 @@ Während der Untersuchung kann die zuständige Behörde vorsorglich die Schutzma
 
 <sup>1</sup> Besteht Aussicht darauf, dass die Inhaber der elterlichen Sorge oder die Pflegeeltern die erforderlichen Vorkehrungen treffen, um eine geeignete erzieherische Betreuung oder therapeutische Behandlung des Jugendlichen sicherzustellen, so bestimmt die urteilende Behörde eine geeignete Person oder Stelle, der Einblick und Auskunft zu geben ist. Die urteilende Behörde kann den Eltern Weisungen erteilen.
 
-<sup>2</sup> Ist der Jugendliche bevormundet, so darf keine Aufsicht angeordnet werden.
+<sup>2</sup> Steht der Jugendliche unter Vormundschaft oder der junge Erwachsene unter Beistandschaft, so darf keine Aufsicht angeordnet werden.[^12-1]
 
-<sup>3</sup> Die Aufsicht kann nach Erreichen des Mündigkeitsalters[^12-1] nur mit Einverständnis des Betroffenen angeordnet werden.
+<sup>3</sup> Die Aufsicht kann nach Erreichen der Volljährigkeit nur mit Einverständnis des jungen Erwachsenen angeordnet werden.[^12-2]
 
-[^12-1]: Seit Inkrafttreten des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht; [AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114)) am 1. Jan. 2013: des Volljährigkeitsalters.
+[^12-1]: Fassung gemäss Ziff. I des BG vom 14. Juni 2024 (Massnahmenpaket Sanktionenvollzug), in Kraft seit 1. Juli 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
+[^12-2]: Fassung gemäss Ziff. I des BG vom 14. Juni 2024 (Massnahmenpaket Sanktionenvollzug), in Kraft seit 1. Juli 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
 
 #### Art. 13
 
@@ -164,12 +173,13 @@ Während der Untersuchung kann die zuständige Behörde vorsorglich die Schutzma
 
 <sup>2</sup> Die urteilende Behörde kann der mit der Betreuung betrauten Person bestimmte Befugnisse bezüglich der Erziehung, Behandlung und Ausbildung des Jugendlichen übertragen und die elterliche Sorge entsprechend beschränken. Sie kann sie in Abweichung von Artikel 323 Absatz 1 des Zivilgesetzbuches (ZGB)[^13-1] auch mit der Verwaltung des Erwerbseinkommens des Jugendlichen beauftragen.
 
-<sup>3</sup> Ist der Jugendliche bevormundet, so darf keine persönliche Betreuung angeordnet werden.
+<sup>3</sup> Steht der Jugendliche unter Vormundschaft oder der junge Erwachsene unter Beistandschaft, so darf keine persönliche Betreuung angeordnet werden.[^13-2]
 
-<sup>4</sup> Die persönliche Betreuung kann nach Erreichen des Mündigkeitsalters[^13-2] nur mit Einverständnis des Betroffenen angeordnet werden.
+<sup>4</sup> Die persönliche Betreuung kann nach Erreichen der Volljährigkeit nur mit Einverständnis des jungen Erwachsenen angeordnet werden.[^13-3]
 
-[^13-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^13-2]: Seit Inkrafttreten des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht; [AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114)) am 1. Jan. 2013: des Volljährigkeitsalters.
+[^13-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^13-2]: Fassung gemäss Ziff. I des BG vom 14. Juni 2024 (Massnahmenpaket Sanktionenvollzug), in Kraft seit 1. Juli 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
+[^13-3]: Fassung gemäss Ziff. I des BG vom 14. Juni 2024 (Massnahmenpaket Sanktionenvollzug), in Kraft seit 1. Juli 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
 
 #### Art. 14
 
@@ -177,7 +187,9 @@ Während der Untersuchung kann die zuständige Behörde vorsorglich die Schutzma
 
 <sup>1</sup> Leidet der Jugendliche unter psychischen Störungen, ist er in seiner Persönlichkeitsentwicklung beeinträchtigt oder ist er von Suchtstoffen oder in anderer Weise abhängig, so kann die urteilende Behörde anordnen, dass er ambulant behandelt wird.
 
-<sup>2</sup> Die ambulante Behandlung kann mit der Aufsicht (Art. 12) oder der persönlichen Betreuung (Art. 13) oder der Unterbringung in einer Erziehungseinrichtung (Art. 15 Abs. 1) verbunden werden.
+<sup>2</sup> …[^14-1]
+
+[^14-1]: Aufgehoben durch Ziff. I des BG vom 14. Juni 2024 (Massnahmenpaket Sanktionenvollzug), mit Wirkung seit 1. Juli 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
 
 #### Art. 15
 
@@ -194,9 +206,13 @@ Die urteilende Behörde darf die Unterbringung in einer geschlossenen Einrichtun
 
 <sup>3</sup> Vor der Unterbringung zur Behandlung einer psychischen Störung in einer offenen Einrichtung oder vor der Unterbringung in einer geschlossenen Einrichtung ordnet die urteilende Behörde eine medizinische oder psychologische Begutachtung an, falls diese nicht bereits auf Grund von Artikel 9 Absatz 3 erstellt wurde.
 
-<sup>4</sup> Ist der Jugendliche bevormundet, so teilt die urteilende Behörde der Vormundschaftsbehörde[^15-1] die Anordnung der Unterbringung mit.
+<sup>4</sup> Steht der Jugendliche unter Vormundschaft oder der junge Erwachsene unter Beistandschaft, so teilt die urteilende Behörde der Kindes- oder Erwachsenenschutzbehörde die Anordnung der Unterbringung mit.[^15-1]
 
-[^15-1]: Seit Inkrafttreten des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht; [AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114)) am 1. Jan. 2013: Kindesschutzbehörde.
+<sup>5</sup> Wurde die Unterbringung in einer geschlossenen Einrichtung aufgrund eines Mordes (Art. 112 StGB[^15-2]) und zum Schutz Dritter vor schwerwiegender Gefährdung durch den Jugendlichen angeordnet, so kann sie unter den Voraussetzungen nach Artikel 19*c* in Form der Verwahrung nach Artikel 64 Absatz 1 StGB weitergeführt werden.[^15-3]
+
+[^15-1]: Fassung gemäss Ziff. I des BG vom 14. Juni 2024 (Massnahmenpaket Sanktionenvollzug), in Kraft seit 1. Juli 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
+[^15-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^15-3]: Eingefügt durch Ziff. I des BG vom 14. Juni 2024 (Massnahmenpaket Sanktionenvollzug), in Kraft seit 1. Juli 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
 
 #### Art. 16
 
@@ -210,8 +226,8 @@ Die urteilende Behörde darf die Unterbringung in einer geschlossenen Einrichtun
 
 <sup>4</sup> Für den Vollzug von Massnahmen können private Einrichtungen beigezogen werden.[^16-3]
 
-[^16-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^16-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^16-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^16-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^16-3]: Eingefügt durch Anhang Ziff. 1 der Jugendstrafprozessordnung vom 20. März 2009, in Kraft seit 1. Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
 
 #### Art. 16a
@@ -252,16 +268,72 @@ Die urteilende Behörde darf die Unterbringung in einer geschlossenen Einrichtun
 
 <sup>1</sup> Die Vollzugsbehörde prüft jährlich, ob und wann die Massnahme aufgehoben werden kann. Sie hebt sie auf, wenn ihr Zweck erreicht ist oder feststeht, dass sie keine erzieherischen oder therapeutischen Wirkungen mehr entfaltet.
 
-<sup>2</sup> Alle Massnahmen enden mit Vollendung des 25. Altersjahres.[^19-1]
+<sup>1bis</sup> Wurde eine Unterbringung in einer geschlossenen Einrichtung aufgrund eines Mordes (Art. 112 StGB[^19-1]) und zum Schutz Dritter vor schwerwiegender Gefährdung durch den Jugendlichen angeordnet, so entscheidet die Vollzugsbehörde gestützt auf die Beurteilung der Fachkommission nach Artikel 91*a* StGB[^19-2].[^19-3]
 
-<sup>3</sup> Ist der Wegfall einer Schutzmassnahme für den Betroffenen selber oder für die Sicherheit Dritter mit schwer wiegenden Nachteilen verbunden und kann diesen nicht auf andere Weise begegnet werden, so beantragt die Vollzugsbehörde rechtzeitig die Anordnung geeigneter vormundschaftlicher Massnahmen[^19-2].
+<sup>2</sup> Alle Massnahmen enden mit Vollendung des 25. Altersjahres.[^19-4]
 
-<sup>4</sup> Ist der Wegfall eines Verbots nach Artikel 16*a* für die Sicherheit Dritter mit schwerwiegenden Nachteilen verbunden, so beantragt die Vollzugsbehörde rechtzeitig dem Gericht am Wohnsitz des Jugendlichen zu prüfen, ob die Voraussetzungen für ein Verbot nach Artikel 67 oder 67*b* StGB[^19-3] gegeben sind. Sind die Voraussetzungen gegeben, so wird das Verbot nach Erwachsenenstrafrecht angeordnet. Sind die Voraussetzungen für ein Verbot nach Artikel 67 Absatz 3 oder 4 StGB gegeben, so legt das Gericht eine Frist zwischen einem Jahr und zehn Jahren fest.[^19-4]
+<sup>3</sup> …[^19-5]
 
-[^19-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 19. Juni 2015 (Änderungen des Sanktionenrechts), in Kraft seit 1. Juli 2016 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^19-2]: Seit Inkrafttreten des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht; [AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114)) am 1. Jan. 2013: Kindesschutzmassnahmen.
-[^19-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^19-4]: Eingefügt durch Ziff. I 3 des BG vom 13. Dez. 2013 über das Tätigkeitsverbot und das Kontakt- und Rayonverbot, in Kraft seit 1. Jan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
+<sup>4</sup> …[^19-6]
+
+[^19-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^19-2]: Infolge Ablehnung der Vorlage 1 des Massnahmenpakets Sanktionenvollzug ([BBl 2022 2992](https://fedlex.data.admin.ch/eli/fga/2022/2992)) am 14. Juni 2024 (AB 2024 N 1347) stimmt der Verweis nicht. Siehe bis auf Weiteres Art. 62*d* Abs. 2 StGB.
+[^19-3]: Eingefügt durch Ziff. I des BG vom 14. Juni 2024 (Massnahmenpaket Sanktionenvollzug), in Kraft seit 1. Juli 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
+[^19-4]: Fassung gemäss Anhang Ziff. 2 des BG vom 19. Juni 2015 (Änderungen des Sanktionenrechts), in Kraft seit 1. Juli 2016 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^19-5]: Aufgehoben durch Ziff. I des BG vom 14. Juni 2024 (Massnahmenpaket Sanktionenvollzug), mit Wirkung seit 1. Juli 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
+[^19-6]: Eingefügt durch Ziff. I 3 des BG vom 13. Dez. 2013 über das Tätigkeitsverbot und das Kontakt- und Rayonverbot ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)). Aufgehoben durch Ziff. I des BG vom 14. Juni 2024 (Massnahmenpaket Sanktionenvollzug), mit Wirkung seit 1. Juli 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
+
+#### Art. 19a
+
+**Anschlussmassnahmen a. Grundsätze**[^19a-1]
+
+<sup>1</sup> Ist der Wegfall einer Schutzmassnahme für den Jugendlichen oder den jungen Erwachsenen selber oder für die Sicherheit Dritter mit schwerwiegenden Nachteilen verbunden und kann diesen nicht auf andere Weise begegnet werden, so beantragt die Vollzugsbehörde rechtzeitig die Anordnung geeigneter Kindes- oder Erwachsenenschutzmassnahmen.
+
+<sup>2</sup> Die Vollzugsbehörde kann gestützt auf die Artikel 19*b* und 19*c* eine Massnahme nach dem StGB[^19a-2] nur beantragen, wenn die Voraussetzungen für die Anordnung von Erwachsenenschutzmassnahmen nicht gegeben sind oder solche Massnahmen nicht genügen, um schwerwiegende Nachteile für die Sicherheit Dritter abzuwenden.
+
+[^19a-1]: Eingefügt durch Ziff. I des BG vom 14. Juni 2024 (Massnahmenpaket Sanktionenvollzug), in Kraft seit 1. Juli 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
+[^19a-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+
+#### Art. 19b
+
+**b. Tätigkeitsverbot und Kontakt- und Rayonverbot nach dem StGB**[^19b-1]
+
+<sup>1</sup> Ist der Wegfall eines Verbots nach Artikel 16*a* für die Sicherheit Dritter mit schwerwiegenden Nachteilen verbunden, so beantragt die Vollzugsbehörde dem Erwachsenengericht am Wohnsitz des jungen Erwachsenen die Anordnung eines Verbots nach Artikel 67 Absatz 2 oder 67*b* Absatz 1 StGB[^19b-2].
+
+<sup>2</sup> Das Erwachsenengericht kann gestützt auf die Artikel 67 Absatz 2<sup>bis</sup> und 67*b* Absatz 5 StGB die Verbote auf Antrag der Vollzugsbehörde verlängern.
+
+<sup>3</sup> Es kann gestützt auf Artikel 67*d* Absatz 1 StGB die Verbote auf Antrag der Vollzugsbehörde erweitern oder ein zusätzliches Verbot anordnen.
+
+[^19b-1]: Eingefügt durch Ziff. I des BG vom 14. Juni 2024 (Massnahmenpaket Sanktionenvollzug), in Kraft seit 1. Juli 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
+[^19b-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+
+#### Art. 19c
+
+**c. Verwahrung gemäss Artikel 64 Absatz 1 StGB nach geschlossener Unterbringung**[^19c-1]
+
+<sup>1</sup>
+
+Die Vollzugsbehörde beantragt dem Erwachsenengericht am Wohnsitz des jungen Erwachsenen vor dem Ende der Unterbringung in einer geschlossenen Einrichtung oder eines Freiheitsentzugs, der im Anschluss an diese Massnahme vollzogen wird, die Anordnung einer Verwahrung nach Artikel 64 Absatz 1 StGB[^19c-2], wenn:
+
+- a. der junge Erwachsene nach Vollendung des 16. Altersjahres einen Mord (Art. 112 StGB) begangen hat;
+- b. aufgrund der Tat eine Unterbringung angeordnet wurde, die zum Schutz Dritter vor schwerwiegender Gefährdung in einer geschlossenen Einrichtung vollzogen wurde;
+- c. bei Wegfall der Unterbringung in einer geschlossenen Einrichtung oder am Ende des im Anschluss an diese Massnahme vollzogenen Freiheitsentzugs ernsthaft zu erwarten ist, dass er erneut einen Mord (Art. 112 StGB) begeht; und
+- d. er volljährig ist.
+
+<sup>2</sup>
+
+Die Vollzugsbehörde stützt ihren Antrag auf:
+
+- a. den Bericht der Leitung der Vollzugseinrichtung;
+- b. eine unabhängige sachverständige Begutachtung nach Artikel 56 Absätze 3 und 4 StGB;
+- c. die Beurteilung der Fachkommission nach Artikel 91*a* StGB[^19c-3]; und
+- d. die Anhörung des jungen Erwachsenen.
+
+<sup>3</sup> Ordnet das Erwachsenengericht eine Verwahrung nach Artikel 64 Absatz 1 StGB an, so hebt es die noch bestehende geschlossene Unterbringung auf.
+
+[^19c-1]: Eingefügt durch Ziff. I des BG vom 14. Juni 2024 (Massnahmenpaket Sanktionenvollzug), in Kraft seit 1. Juli 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
+[^19c-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^19c-3]: Infolge Ablehnung der Vorlage 1 des Massnahmenpakets Sanktionenvollzug ([BBl 2022 2992](https://fedlex.data.admin.ch/eli/fga/2022/2992)) am 14. Juni 2024 (AB 2024 N 1347) stimmt der Verweis nicht. Siehe bis auf Weiteres Art. 62*d* Abs. 2 StGB.
 
 #### Art. 20
 
@@ -373,7 +445,35 @@ Der Jugendliche, der zur Zeit der Tat das 16. Altersjahr vollendet hat, wird mit
 - a. ein Verbrechen begangen hat, das nach dem für Erwachsene anwendbaren Recht mit Freiheitsstrafe nicht unter drei Jahren bedroht ist;
 - b. eine Tat nach den Artikeln 122, 140 Ziffer 3 oder Artikel 184 StGB[^25-1] begangen und dabei besonders skrupellos gehandelt hat, namentlich wenn der Beweggrund des Jugendlichen, der Zweck der Tat oder die Art ihrer Ausführung eine besonders verwerfliche Gesinnung offenbaren.
 
-[^25-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^25-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+
+#### Art. 25a
+
+**a<sup>bis</sup>. Verwahrungsvorbehalt**[^25a-1]
+
+<sup>1</sup>
+
+Die urteilende Behörde behält im Grundurteil die Anordnung einer Verwahrung nach Artikel 64 Absatz 1 StGB[^25a-2] für die Zeit nach dem 18. Altersjahr des Jugendlichen vor, wenn:
+
+- a. dieser einen Mord (Art. 112 StGB) begangen hat;
+- b. er wegen dieser Tat zu einem Freiheitsentzug von mindestens drei Jahren verurteilt wird;
+- c. keine Unterbringung nach Artikel 15 angeordnet wird; und
+- d. aufgrund der Tatumstände und der Persönlichkeit des Jugendlichen zum Zeitpunkt des Grundurteils davon ausgegangen werden muss, dass der Jugendliche eine schwerwiegende Gefahr für Dritte darstellt.
+
+<sup>2</sup> Wird der Jugendliche im selben Verfahren wegen mehrerer Straftaten zu einem Freiheitsentzug verurteilt, so legt die urteilende Behörde fest, welcher Anteil der Strafe auf Mord entfällt. Dieser Strafanteil ist massgebend dafür, ob die Voraussetzung nach Absatz 1 Buchstabe b erfüllt ist.
+
+<sup>3</sup> Der Vorbehalt gilt bis zur endgültigen Entlassung aus dem Freiheitsentzug. Wird während des Vollzugs eines Urteils mit einem Vorbehalt für denselben Jugendlichen aufgrund einer Straftat ein neues Urteil nach diesem Gesetz gefällt, so gilt der Vorbehalt bis zur Beendigung des Vollzugs des neuen Urteils.
+
+<sup>4</sup>
+
+Die Vollzugsbehörde hebt den Vorbehalt auf, wenn der Jugendliche keine schwerwiegende Gefahr für Dritte darstellt. Sie prüft jährlich, ob der Vorbehalt aufgehoben werden kann; dabei stützt sie sich auf:
+
+- a. den Bericht der Leitung der Vollzugseinrichtung sowie der Person, die den Jugendlichen begleitet;
+- b. eine sachverständige Begutachtung;
+- c. die Anhörung des Jugendlichen, wenn der Vorbehalt beibehalten werden soll.
+
+[^25a-1]: Eingefügt durch Ziff. I des BG vom 14. Juni 2024 (Massnahmenpaket Sanktionenvollzug), in Kraft seit 1. Juli 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
+[^25a-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 26
 
@@ -397,9 +497,35 @@ Auf Gesuch des Jugendlichen kann die urteilende Behörde einen Freiheitsentzug b
 
 <sup>6</sup> Für den Vollzug von Strafen können private Einrichtungen beigezogen werden.[^27-3]
 
-[^27-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^27-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^27-2]: Fassung gemäss Anhang Ziff. 2 des BG vom 19. Juni 2015 (Änderungen des Sanktionenrechts), in Kraft seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 [^27-3]: Eingefügt durch Anhang Ziff. 1 der Jugendstrafprozessordnung vom 20. März 2009, in Kraft seit 1. Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+
+#### Art. 27a
+
+**c<sup>bis</sup>. Anordnung der vorbehaltenen Verwahrung**[^27a-1]
+
+<sup>1</sup>
+
+Die Vollzugsbehörde beantragt dem Erwachsenengericht am Wohnsitz des verurteilten Jugendlichen vor dem Ende des Freiheitsentzugs die Anordnung einer Verwahrung nach Artikel 64 Absatz 1 StGB[^27a-2], wenn:
+
+- a. die Verwahrung gestützt auf Artikel 25*a* vorbehalten wurde;
+- b. bei Beendigung des Freiheitsentzugs ernsthaft zu erwarten ist, dass der verurteilte Jugendliche erneut einen Mord (Art. 112 StGB) begeht;
+- c. die Voraussetzungen für eine geeignete Erwachsenenschutzmassnahme des Zivilrechts nicht gegeben sind; und
+- d. der verurteilte Jugendliche bei seiner Entlassung volljährig ist.
+
+<sup>2</sup>
+
+Die Vollzugsbehörde stützt ihren Antrag auf:
+
+- a. den Bericht der Leitung der Vollzugseinrichtung;
+- b. das Gutachten eines unabhängigen Sachverständigen nach Artikel 56 Absätze 3 und 4 StGB;
+- c. die Beurteilung der Fachkommission nach Artikel 91*a* StGB[^27a-3]; und
+- d. die Anhörung des jungen Erwachsenen.
+
+[^27a-1]: Eingefügt durch Ziff. I des BG vom 14. Juni 2024 (Massnahmenpaket Sanktionenvollzug), in Kraft seit 1. Juli 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
+[^27a-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^27a-3]: Infolge Ablehnung der Vorlage 1 des Massnahmenpakets Sanktionenvollzug ([BBl 2022 2992](https://fedlex.data.admin.ch/eli/fga/2022/2992)) am 14. Juni 2024 (AB 2024 N 1347) stimmt der Verweis nicht. Siehe bis auf Weiteres Art. 62*d* Abs. 2 StGB.
 
 #### Art. 28
 
@@ -409,11 +535,12 @@ Auf Gesuch des Jugendlichen kann die urteilende Behörde einen Freiheitsentzug b
 
 <sup>2</sup> Die Vollzugsbehörde prüft von Amtes wegen, ob der Jugendliche bedingt entlassen werden kann. Sie holt je einen Bericht der Leitung der Einrichtung sowie der Person ein, welche den Jugendlichen begleitet. Der Jugendliche ist anzuhören, wenn die Vollzugsbehörde beabsichtigt, die bedingte Entlassung zu verweigern.
 
-<sup>3</sup> Ist der Freiheitsentzug nach Artikel 25 Absatz 2 verhängt worden, so entscheidet die Vollzugsbehörde nach Anhörung einer Kommission nach Artikel 62*d* Absatz 2 StGB[^28-1].
+<sup>3</sup> Ist der Freiheitsentzug nach Artikel 25 Absatz 2 verhängt worden, so entscheidet die Vollzugsbehörde gestützt auf die Beurteilung der Fachkommission nach Artikel 91*a* StGB[^28-1].[^28-2]
 
 <sup>4</sup> Wird die bedingte Entlassung verweigert, so hat die zuständige Behörde mindestens einmal halbjährlich neu zu prüfen, ob sie gewährt werden kann.
 
-[^28-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^28-1]: Infolge Ablehnung der Vorlage 1 des Massnahmenpakets Sanktionenvollzug ([BBl 2022 2992](https://fedlex.data.admin.ch/eli/fga/2022/2992)) am 14. Juni 2024 (AB 2024 N 1347) stimmt der Verweis nicht. Siehe bis auf Weiteres Art. 62*d* Abs. 2 StGB.
+[^28-2]: Fassung gemäss Ziff. I des BG vom 14. Juni 2024 (Massnahmenpaket Sanktionenvollzug), in Kraft seit 1. Juli 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
 
 #### Art. 29
 
@@ -445,7 +572,7 @@ Hat sich der bedingt entlassene Jugendliche bis zum Ablauf der Probezeit bewähr
 
 <sup>5</sup> Ist für die Beurteilung der neuen Tat das StGB[^31-1] anwendbar, so wendet die urteilende Behörde bezüglich des Widerrufs Artikel 89 StGB an.
 
-[^31-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^31-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 32
 
@@ -455,9 +582,12 @@ Hat sich der bedingt entlassene Jugendliche bis zum Ablauf der Probezeit bewähr
 
 <sup>2</sup> Wird die Unterbringung aufgehoben, weil sie ihren Zweck erreicht hat, so wird der Freiheitsentzug nicht mehr vollzogen.
 
-<sup>3</sup> Wird die Unterbringung aus einem anderen Grund aufgehoben, so entscheidet die urteilende Behörde, ob und wieweit der Freiheitsentzug noch zu vollziehen ist. Dabei ist die mit der Unterbringung verbundene Freiheitsbeschränkung anzurechnen.
+<sup>3</sup> Wird die Unterbringung aus einem anderen Grund aufgehoben, so entscheidet die urteilende Behörde, ob und wieweit der Freiheitsentzug noch zu vollziehen ist. Dabei ist die mit der Unterbringung verbundene Freiheitsbeschränkung anzurechnen. Wird eine Unterbringung in einer geschlossenen Einrichtung, die aufgrund eines Mordes (Art. 112 StGB[^32-1]) und zum Schutz Dritter vor schwerwiegender Gefährdung durch den Jugendlichen angeordnet wurde, aus einem anderen Grund aufgehoben, so ordnet die Vollzugsbehörde den Vollzug der Reststrafe an.[^32-2]
 
 <sup>4</sup> Die urteilende Behörde kann den Vollzug eines gleichzeitig ausgesprochenen und eines wegen Widerrufs oder Rückversetzung vollziehbaren Freiheitsentzugs zu Gunsten der ambulanten Behandlung, der persönlichen Betreuung oder der Aufsicht aufschieben. Im Falle der Aufhebung dieser Schutzmassnahmen gelten die Absätze 2 und 3 sinngemäss.
+
+[^32-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^32-2]: Dritter Satz eingefügt durch Ziff. I des BG vom 14. Juni 2024 (Massnahmenpaket Sanktionenvollzug), in Kraft seit 1. Juli 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
 
 #### Art. 33
 
@@ -504,7 +634,7 @@ Die Strafverfolgung verjährt in:
 <sup>3</sup> Die Verjährung der Strafverfolgung von Straftaten nach den Artikeln 111–113, 122, 182, 189–191 und 195 StGB, die sich gegen ein Kind unter 16 Jahren richten, bemisst sich nach Absatz 2, wenn die Straftat vor dem Inkrafttreten dieses Gesetzes begangen worden ist und die Verfolgungsverjährung zu diesem Zeitpunkt noch nicht eingetreten ist.[^36-4]
 
 [^36-1]: Eingefügt durch Anhang 1 Ziff. 5 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
-[^36-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^36-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^36-3]: Fassung gemäss Anhang Ziff. 1 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^36-4]: Eingefügt durch Ziff. I 2 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
@@ -521,13 +651,28 @@ Die Strafen verjähren in:
 
 <sup>2</sup> Der Vollzug jeder nach diesem Gesetz ausgesprochenen Strafe endet spätestens, wenn der verurteilte Jugendliche das 25. Altersjahr vollendet.
 
-## 5. Kapitel: …
+## 5. Kapitel: Ergänzende Bestimmungen des Bundesrates
 
-#### Art. 38–43
+[^chap5-1]
 
-[^3843-1]
+[^chap5-1]: Fassung gemäss Anhang 1 Ziff. 5 des BG vom 17. Juni 2022, in Kraft seit 1. Juli 2025 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468), [2024 490](https://fedlex.data.admin.ch/eli/oc/2024/490); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
-[^3843-1]: Aufgehoben durch Anhang Ziff. 1 der Jugendstrafprozessordnung vom 20. März 2009, mit Wirkung seit 1. Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+#### Art. 38
+
+[^38-1]
+
+Der Bundesrat ist befugt, nach Anhörung der Kantone Bestimmungen zu erlassen über:
+
+- a. den Vollzug von Gesamtstrafen, Zusatzstrafen und mehreren gleichzeitig vollziehbaren Einzelstrafen und Massnahmen;
+- b. die Übernahme des Vollzugs von Strafen und Massnahmen durch einen anderen Kanton.
+
+[^38-1]: Fassung gemäss Anhang 1 Ziff. 5 des BG vom 17. Juni 2022, in Kraft seit 1. Juli 2025 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468), [2024 490](https://fedlex.data.admin.ch/eli/oc/2024/490); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+
+#### Art. 39–43
+
+[^3943-1]
+
+[^3943-1]: Aufgehoben durch Anhang Ziff. 1 der Jugendstrafprozessordnung vom 20. März 2009, mit Wirkung seit 1. Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
 
 ## 6. Kapitel: Schlussbestimmungen
 
@@ -547,10 +692,10 @@ Die Strafen verjähren in:
 
 <sup>1</sup> Erziehungsmassnahmen, besondere Behandlungen und Disziplinarstrafen, die nach den bisherigen Artikeln 84, 85 oder 87 StGB[^45-1] gegenüber Kindern, die zur Tatzeit das 10. Altersjahr noch nicht vollendet hatten, angeordnet und nicht oder nur teilweise vollzogen wurden, werden nach dem Inkrafttreten dieses Gesetzes nicht mehr vollzogen.
 
-<sup>2</sup> Liegen Anzeichen dafür vor, dass das Kind besondere Hilfe benötigt, so benachrichtigt die vollziehende Behörde die Vormundschaftsbehörde[^45-2] oder die durch das kantonale Recht bezeichnete Fachstelle für Jugendhilfe.
+<sup>2</sup> Liegen Anzeichen dafür vor, dass das Kind besondere Hilfe benötigt, so benachrichtigt die Vollzugsbehörde die Kindesschutzbehörde oder die durch das kantonale Recht bezeichnete Fachstelle für Jugendhilfe.[^45-2]
 
 [^45-1]: [AS 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)
-[^45-2]: Seit Inkrafttreten des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht; [AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114)) am 1. Jan. 2013: Kindesschutzbehörde.
+[^45-2]: Fassung gemäss Ziff. I des BG vom 14. Juni 2024 (Massnahmenpaket Sanktionenvollzug), in Kraft seit 1. Juli 2025 ([AS 2025 224](https://fedlex.data.admin.ch/eli/oc/2025/224); [BBl 2022 2991](https://fedlex.data.admin.ch/eli/fga/2022/2991)).
 
 #### Art. 46
 
