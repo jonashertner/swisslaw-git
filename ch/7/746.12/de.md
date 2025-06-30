@@ -4,11 +4,11 @@ title: "Verordnung vom 4. Juni 2021 über Sicherheitsvorschriften für Rohrleitu
 short: RLSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/348"
 language: de
-version: 2024-01-01
+version: 2025-07-01
 adopted: 2021-06-04
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/348/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2021-348-20240101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/348/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/348/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2021-348-20250701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/348/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/348/20240101/de"
 
 (Rohrleitungssicherheitsverordnung, RLSV)
 
-vom 4. Juni 2021 (Stand am 1. Januar 2024)
+vom 4. Juni 2021 (Stand am 1. Juli 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -36,9 +36,15 @@ verordnet:
 
 <sup>1</sup> Diese Verordnung gilt für die Projektierung, den Bau, den Betrieb und den Unterhalt der dem RLG unterstehenden Rohrleitungsanlagen.
 
-<sup>2</sup> Für Gasleitungen, die für einen maximalen Betriebsdruck bis 5 bar erstellt werden, gelten nur die Artikel 2, 3 Absätze 1 und 2, 39*a* sowie Anhang 1.[^1-1]
+<sup>2</sup>
 
-[^1-1]: Fassung gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 768](https://fedlex.data.admin.ch/eli/oc/2023/768)).
+Für die folgenden Leitungen gelten nur die Artikel 2, 3 Absätze 1 und 2 und 39*a* sowie Anhang 1:
+
+- a. Gasleitungen mit einem maximalen Betriebsdruck bis 5 bar;
+- b. Wasserstoffleitungen, die die Voraussetzungen nach Artikel 3 Absatz 1 Buchstabe b der Rohrleitungsverordnung vom 26. Juni 2019[^1-1] (RLV) nicht erfüllen.[^1-2]
+
+[^1-1]: [SR 746.11](https://fedlex.data.admin.ch/eli/cc/2019/413)
+[^1-2]: Fassung gemäss Ziff. I der V vom 21. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 386](https://fedlex.data.admin.ch/eli/oc/2025/386)).
 
 #### Art. 2
 
@@ -50,6 +56,8 @@ verordnet:
 
 <sup>3</sup> Gasleitungen sind Rohrleitungsanlagen für den Transport von gasförmigen Brenn- oder Treibstoffen.
 
+<sup>3bis</sup> Wasserstoffleitungen sind Rohrleitungsanlagen, die ausschliesslich dem Transport von gasförmigem Wasserstoff dienen.[^2-1]
+
 <sup>4</sup> Für Rohrleitungen, die dem Transport von Stoffen dienen, die sowohl flüssig als auch gasförmig sein können, legt die technische Aufsichtsbehörde die Kategorie fest.
 
 <sup>5</sup> Nebenanlagen sind Einrichtungen (Installationen wie Pumpen und Speicher sowie Gebäude), die dem Betrieb von Rohrleitungen dienen. Die technische Aufsichtsbehörde legt im Einzelnen fest, welche Einrichtungen als Nebenanlagen gelten.
@@ -59,6 +67,8 @@ verordnet:
 <sup>7</sup> Alle Distanzangaben bezeichnen die horizontale Entfernung zwischen dem äussersten Rand eines Objektes und der Rohraussenseite (lichte Weite).
 
 <sup>8</sup> Sicherheit bedeutet den Schutz der Rohrleitung vor innerer und äusserer Beschädigung, soweit der Begriff in einem besonderen Zusammenhang nicht anders definiert wird.
+
+[^2-1]: Eingefügt durch Ziff. I der V vom 21. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 386](https://fedlex.data.admin.ch/eli/oc/2025/386)).
 
 #### Art. 3
 
@@ -92,7 +102,7 @@ verordnet:
 
 **Betriebsreglement**
 
-Die Betreiber von Rohrleitungsanlagen (Betreiber) müssen in einem Betriebsreglement die für die Sicherheit der Rohrleitungsanlage und ihres Betriebes notwendigen Einzelheiten gemäss Artikel 26 der Rohrleitungsverordnung vom 26. Juni 2019[^6-1] (RLV) regeln.
+Die Betreiber von Rohrleitungsanlagen (Betreiber) müssen in einem Betriebsreglement die für die Sicherheit der Rohrleitungsanlage und ihres Betriebes notwendigen Einzelheiten gemäss Artikel 26 RLV[^6-1] regeln.
 
 [^6-1]: [SR 746.11](https://fedlex.data.admin.ch/eli/cc/2019/413)
 
@@ -149,13 +159,15 @@ Ein Sicherheitsabstand von mindestens 2 m ist einzuhalten zwischen einer Rohrlei
 
 <sup>1</sup>
 
-Bei Gasleitungen mit einem Betriebsdruck ab 25 bar und bei Ölleitungen sind folgende Sicherheitsabstände einzuhalten:
+Bei Gasleitungen mit einem Betriebsdruck über 25 bar, bei Ölleitungen und bei Wasserstoffleitungen mit einem Reinheitsgrad von über 98 Prozent sind folgende Sicherheitsabstände einzuhalten:[^12-1]
 
 - a. zu Gebäuden ohne Personenbelegung: 2 m;
-- b. zu Gebäuden mit Personenbelegung: 10 m;
-- c. zu Orten mit häufigen Menschenansammlungen: 10 m.
+- b. zu Gebäuden mit Personenbelegung: 10 m.
 
-<sup>2</sup> Bei Gasleitungen mit einem Betriebsdruck bis 25 bar ist zu Gebäuden mit Personenbelegung ein Sicherheitsabstand von mindestens 5 m einzuhalten.
+<sup>2</sup> Bei anderen Gas- und Wasserstoffleitungen ist zu Gebäuden mit Personenbelegung ein Sicherheitsabstand von mindestens 5 m einzuhalten.[^12-2]
+
+[^12-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 386](https://fedlex.data.admin.ch/eli/oc/2025/386)).
+[^12-2]: Fassung gemäss Ziff. I der V vom 21. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 386](https://fedlex.data.admin.ch/eli/oc/2025/386)).
 
 #### Art. 13
 
@@ -454,11 +466,16 @@ Absperrorgane sind in folgenden Fällen vorzusehen und wie folgt zu platzieren:
 
 <sup>1</sup> Die Betreiber treffen Massnahmen für einen angemessenen Schutz ihrer Rohrleitungsanlagen vor Cyberbedrohungen.
 
-<sup>2</sup> Sie erarbeiten gemeinsam Richtlinien über die Cybersicherheit. Dabei konsultieren sie das BFE, die Kantone und die interessierten Kreise.
+<sup>2</sup> Sie erarbeiten gemeinsam Richtlinien über die Cybersicherheit und passen diese regelmässig dem neuesten Stand der Technik an. Dabei konsultieren sie das BFE, die Kantone und die interessierten Kreise.[^39a-2]
 
 <sup>3</sup> Sie veröffentlichen die Richtlinien über eine frei zugängliche Adresse im Internet. Die Richtlinien sind kostenlos abrufbar.
 
+<sup>4</sup> Für Betreiber von Gasleitungen sind die im Minimalstandard für die Sicherheit der Informations- und Kommunikationstechnologie (IKT) in der Gasversorgung, Ausgabe Mai 2024[^39a-3], enthaltenen Anforderungen verbindlich. Die Betreiber müssen der Aufsichtsbehörde nachweisen, dass sie die für das massgebende Schutzniveau geltenden Anforderungen nach Kapitel 5 des Minimalstandards erfüllen.[^39a-4]
+
 [^39a-1]: Eingefügt durch Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 768](https://fedlex.data.admin.ch/eli/oc/2023/768)).
+[^39a-2]: Fassung gemäss Ziff. I der V vom 21. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 386](https://fedlex.data.admin.ch/eli/oc/2025/386)).
+[^39a-3]: Der Minimalstandard kann kostenlos bezogen werden beim Bundesamt für Energie, Pulverstrasse 13, 3063 Ittigen. Er kann beim Fachverband für Wasser, Gas und Wärme kostenlos abgerufen werden unter www.svgw.ch &gt; Shop &gt; Suchfeldeingabe «G1008» oder kostenlos bezogen werden per E-Mail an info@svgw.ch.
+[^39a-4]: Eingefügt durch Ziff. I der V vom 21. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 386](https://fedlex.data.admin.ch/eli/oc/2025/386)).
 
 ## 8. Abschnitt: Bau
 
@@ -588,9 +605,11 @@ Die Schutzbereiche von Rohrleitungen und Nebenanlagen gemäss Artikel 16 sind im
 
 <sup>1</sup> Ölleitungen sind in der Regel mit einem automatisierten System auszurüsten, das permanent und unter allen Betriebszuständen die Dichtheit überwacht.
 
-<sup>2</sup> Gasleitungen sind mit einem System auszurüsten, das einen Leitungsbruch zeitnah entdecken und den betroffenen Leitungsabschnitt zuverlässig feststellen kann.
+<sup>2</sup> Gasleitungen und Wasserstoffleitungen sind mit einem System auszurüsten, das einen Leitungsbruch zeitnah entdecken und den betroffenen Leitungsabschnitt zuverlässig feststellen kann.[^50-1]
 
 <sup>3</sup> Das System ist mit dem ERI abzusprechen.
+
+[^50-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 386](https://fedlex.data.admin.ch/eli/oc/2025/386)).
 
 #### Art. 51
 
@@ -656,9 +675,11 @@ Die Schutzbereiche von Rohrleitungen und Nebenanlagen gemäss Artikel 16 sind im
 
 #### Art. 58
 
-**Umnutzung**
+**Umnutzung**[^58-1]
 
-Rohrleitungsanlagen zur Beförderung von gasförmigen Brenn- oder Treibstoffen, die nicht oder nur teilweise nach den Vorschriften für Anlagen mit einem Betriebsdruck über 5 bar erstellt oder betrieben wurden, dürfen nicht umgenutzt, das heisst mit einem Druck über 5 bar betrieben werden.
+Sollen Rohrleitungsanlagen zur Beförderung von gasförmigen Brenn- oder Treibstoffen, die nicht oder nur teilweise nach den Vorschriften für Anlagen mit einem Betriebsdruck über 5 bar erstellt oder betrieben wurden, mit einem Betriebsdruck über 5 bar betrieben werden, so ist ein Plangenehmigungsverfahren nach Artikel 2 RLG erforderlich.
+
+[^58-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 386](https://fedlex.data.admin.ch/eli/oc/2025/386)).
 
 #### Art. 59
 
@@ -784,24 +805,24 @@ Anhang 1[^t-1]
 
 ## Regeln der Technik
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des UVEK vom 24. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 277](https://fedlex.data.admin.ch/eli/oc/2023/277)).
+[^t-1]: Bereinigt gemäss Ziff. I der V des UVEK vom 24. Mai 2023 ([AS 2023 277](https://fedlex.data.admin.ch/eli/oc/2023/277)) und der V vom 21. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 387](https://fedlex.data.admin.ch/eli/oc/2025/387)).
 
 Als Regeln der Technik gelten insbesondere:
 
 - 1\.
 
-  für Ölleitungen und für Gasleitungen mit einem maximal zulässigen Betriebsdruck grösser als 5 bar:
+  für Ölleitungen, für Gasleitungen mit einem maximal zulässigen Betriebsdruck grösser als 5 bar sowie für Wasserstoffleitungen, die die Voraussetzungen nach Artikel 3 Absatz 1 Buchstabe b RLV[^annex1-lvlu1-1] erfüllen:
 
-  - 1\.1 die Richtlinie des ERI für Planung, Bau und Betrieb von Rohrleitungsanlagen über 5 bar, Revision 3.0 vom 1. Oktober 2022[^annex1-lvlu1-1];
+  - 1\.1 die Richtlinie des ERI für Planung, Bau und Betrieb von Rohrleitungsanlagen über 5 bar, Version vom 2. April 2025[^annex1-lvlu1-2];
 
 - 2\.
 
   für alle Stahlrohrleitungen für Öl und Gas:
 
-  - 2\.1 die Weisung Nr. 507 des Eidgenössischen Starkstrominspektorats (ESTI)[^annex1-lvlu1-2], «Elektrische Schutzmassnahmen an Rohrleitungsanlagen» (WeR), Version 0113 vom Januar 2013,
+  - 2\.1 die Weisung Nr. 507 des Eidgenössischen Starkstrominspektorats (ESTI)[^annex1-lvlu1-3], «Elektrische Schutzmassnahmen an Rohrleitungsanlagen» (WeR), Version 0113 vom Januar 2013,
   - 2\.2
 
-    die folgenden Richtlinien der Schweizerischen Gesellschaft für Korrosionsschutz[^annex1-lvlu1-3]:
+    die folgenden Richtlinien der Schweizerischen Gesellschaft für Korrosionsschutz[^annex1-lvlu1-4]:
 
     - 2\.2.1 Richtlinie C1 für Projektierung, Ausführung und Betrieb des kathodischen Schutzes von Rohrleitungen, Ausgabe 2015
     - 2\.2.2 Richtlinie C2 zum Korrosionsschutz von erdverlegten metallischen Anlagen, Ausgabe 1993
@@ -815,7 +836,7 @@ Als Regeln der Technik gelten insbesondere:
 
   - 3\.1
 
-    die folgenden Richtlinien des Schweizerischen Vereins des Gas- und Wasserfaches:[^annex1-lvlu1-4]
+    die folgenden Richtlinien des Schweizerischen Vereins des Gas- und Wasserfaches:[^annex1-lvlu1-5]
 
     - 3\.1.1 G2: Rohrleitungen vom Juni 2019
     - 3\.1.2 G7: Gasdruckregelanlagen vom September 2015
@@ -825,10 +846,11 @@ Als Regeln der Technik gelten insbesondere:
     - 3\.1.6 G18: Gasbeschaffenheit vom April 2013
     - 3\.1.7 G21: Anforderungen an die Qualifikation und die Organisation des technischen Bereiches von Gasnetzbetreibern unter kantonaler Aufsicht vom März 2013.
 
-[^annex1-lvlu1-1]: Die Richtlinie kann kostenlos beim Eidgenössischen Rohrleitungsinspektorat, Richtistrasse 15, 8304 Wallisellen, im Internet unter [www.svti.ch](https://www.svti.ch) &gt; Eidg. Rohrleitungsinspektorat &gt; Gültige Vorschriften oder per E-Mail an eri@svti.ch bestellt werden.
-[^annex1-lvlu1-2]: Die Weisung kann kostenlos beim Eidgenössischen Starkstrominspektorat, Luppmenstrasse 1, 8320 Fehraltorf, im Internet unter [www.esti.admin.ch](http://www.esti.admin.ch) &gt; dokumentation &gt; ESTI-Weisungen oder per E-Mail an info@esti.admin.ch bestellt werden.
-[^annex1-lvlu1-3]: Die Richtlinien können gegen Bezahlung bei der Schweizerischen Gesellschaft für Korrosionsschutz, Technoparkstrasse 1, 8005 Zürich, im Internet unter [www.sgk.ch](http://www.sgk.ch) &gt; Richtlinien oder per E-Mail an sgk@sgk.ch bestellt werden.
-[^annex1-lvlu1-4]: Die Richtlinien können gegen Bezahlung beim Schweizerischen Verein des Gas- und Wasserfaches, Grütlistrasse 44, 8002 Zürich, oder im Internet unter [www.svgw.ch](http://www.svgw.ch) &gt; Regelwerk &gt; Suchfenster: «Gas» eingeben oder per E-Mail an info@svgw.ch bestellt werden.
+[^annex1-lvlu1-1]: [[SR 746.11](https://www.fedlex.admin.ch/eli/cc/2019/413/de)](https://fedlex.data.admin.ch/eli/cc/2019/413)
+[^annex1-lvlu1-2]: Die Richtlinie kann kostenlos eingesehen werden beim Bundesamt für Energie, Pulverstrasse 13, 3063 Ittigen. Sie kann gegen Bezahlung bezogen werden beim Eidgenössischen Rohrleitungsinspektorat, Richtistrasse 15, 8304 Wallisellen oder per E‑Mail an eri@svti.ch . Sie kann kostenlos abgerufen werden unter [www.svti.ch](https://www.svti.ch) &gt; Eidg. Rohrleitungsinspektorat &gt; Gültige Vorschriften.
+[^annex1-lvlu1-3]: Die Weisung kann kostenlos beim Eidgenössischen Starkstrominspektorat, Luppmenstrasse 1, 8320 Fehraltorf, im Internet unter [www.esti.admin.ch](http://www.esti.admin.ch) &gt; dokumentation &gt; ESTI-Weisungen oder per E-Mail an info@esti.admin.ch bestellt werden.
+[^annex1-lvlu1-4]: Die Richtlinien können gegen Bezahlung bei der Schweizerischen Gesellschaft für Korrosionsschutz, Technoparkstrasse 1, 8005 Zürich, im Internet unter [www.sgk.ch](http://www.sgk.ch) &gt; Richtlinien oder per E-Mail an sgk@sgk.ch bestellt werden.
+[^annex1-lvlu1-5]: Die Richtlinien können gegen Bezahlung beim Schweizerischen Verein des Gas- und Wasserfaches, Grütlistrasse 44, 8002 Zürich, oder im Internet unter [www.svgw.ch](http://www.svgw.ch) &gt; Regelwerk &gt; Suchfenster: «Gas» eingeben oder per E-Mail an info@svgw.ch bestellt werden.
 
 Anhang 2
 
