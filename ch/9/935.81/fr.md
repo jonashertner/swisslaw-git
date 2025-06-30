@@ -4,22 +4,22 @@ title: "Loi fédérale du 18 mars 2011 sur les professions relevant du domaine d
 short: LPsy
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/268"
 language: fr
-version: 2023-09-01
+version: 2025-07-01
 adopted: 2011-03-18
 in_force: 2012-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/268/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2012-268-20230901-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/268/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/268/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2012-268-20250701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/268/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur les professions relevant du domaine de la psychologie<sup>\*</sup>
+# Loi fédérale sur les professions relevant du domaine de la psychologie\*
 
 (Loi sur les professions de la psychologie, LPsy)[^t-1]
 
-du 18 mars 2011 (État le 1<sup>er</sup> septembre 2023)
+du 18 mars 2011 (État le 1<sup>er</sup> juillet 2025)
 
-[^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
+[^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -27,7 +27,7 @@ vu les art. 95, al. 1, 97, al. 1, et 117*a*, al. 2, let. a, de la Constitution[^
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nouvelle teneur selon l’annexe ch. 6 de la LF du 30 sept. 2016 sur les professions de la santé, en vigueur depuis le 1<sup>er</sup> fév. 2020 ([RO 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [FF 2015 7925](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
 [^ingress-3]: [FF 2009 6235](https://fedlex.data.admin.ch/eli/fga/2009/1238)
 
@@ -51,13 +51,13 @@ La présente loi vise les buts suivants:
 - c. les conditions d’obtention d’un titre postgrade fédéral;
 - d. l’accréditation périodique des filières de formation postgrade;
 - e. la reconnaissance de diplômes et de titres postgrades étrangers;
-- f. les exigences liées à l’exercice de la profession de psychothérapeute ...[^1-1], sous sa propre responsabilité professionnelle;
+- f. les exigences liées à l’exercice de la profession de psychothérapeute …[^1-1], sous sa propre responsabilité professionnelle;
 - g. les conditions d’utilisation des dénominations professionnelles protégées et des titres postgrades fédéraux.
 
 <sup>3</sup> La formation postgrade en psychothérapie et l’exercice de la profession dans ce domaine sont régis, pour les titulaires d’un diplôme fédéral en médecine humaine, par la loi du 23 juin 2006 sur les professions médicales[^1-2].
 
 [^1-1]: Expression supprimée par l’annexe ch. 6 de la LF du 30 sept. 2016 sur les professions de la santé, en vigueur depuis le 1<sup>er</sup> fév. 2020 ([RO 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [FF 2015 7925](https://fedlex.data.admin.ch/eli/fga/2015/2104)). Il a été tenu compte de cette mod. dans tout le texte.
-[^1-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^1-2]: [RS 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 
 ## Chapitre 2 Diplômes des hautes écoles et dénomination professionnelle
 
@@ -67,8 +67,8 @@ La présente loi vise les buts suivants:
 
 Sont reconnus en vertu de la présente loi les masters, licences et diplômes en psychologie délivrés par une haute école suisse ayant droit aux subventions au sens de la loi du 8 octobre 1999 sur l’aide aux universités[^2-1] ou par une haute école suisse accréditée au sens de la loi fédérale du 6 octobre 1995 sur les hautes écoles spécialisées[^2-2].
 
-[^2-1]: [[RO 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146), [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)annexe ch. II 3, [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225), [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)ch. II 5, [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76)[3437](https://fedlex.data.admin.ch/eli/oc/2008/447)ch. II 18, [2011 5871](https://fedlex.data.admin.ch/eli/oc/2011/812), [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 10. [RO 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)annexe ch. I 1]. Voir actuellement la LF du 30 sept. 2011 sur l’encouragement et la coordination des hautes écoles ([RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)).
-[^2-2]: [[RO 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588), [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171), [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 37, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 11. [RO 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)annexe ch. I 2]. Voir actuellement la LF du 30 sept. 2011 sur l’encouragement et la coordination des hautes écoles ([RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)).
+[^2-1]: [[RO 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146), [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)annexe ch. II 3, [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225), [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)ch. II 5, [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76)[3437](https://fedlex.data.admin.ch/eli/oc/2008/447)ch. II 18, [2011 5871](https://fedlex.data.admin.ch/eli/oc/2011/812), [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 10. [RO 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)annexe ch. I 1]. Voir actuellement la LF du 30 sept. 2011 sur l’encouragement et la coordination des hautes écoles ([RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)).
+[^2-2]: [[RO 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588), [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171), [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 37, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 11. [RO 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)annexe ch. I 2]. Voir actuellement la LF du 30 sept. 2011 sur l’encouragement et la coordination des hautes écoles ([RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)).
 
 #### Art. 3
 
@@ -302,7 +302,7 @@ L’accréditation des filières de formation postgrade est financée par des é
 
 <sup>1</sup> Pour exercer sa profession sous sa propre responsabilité professionnelle, le psychothérapeute doit avoir obtenu une autorisation du canton sur le territoire duquel il exerce.
 
-<sup>2</sup> ...[^22-1]
+<sup>2</sup> …[^22-1]
 
 [^22-1]: Abrogé par l’annexe ch. 6 de la LF du 30 sept. 2016 sur les professions de la santé, avec effet au 1<sup>er</sup> fév. 2020 ([RO 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [FF 2015 7925](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
 
@@ -315,9 +315,9 @@ L’accréditation des filières de formation postgrade est financée par des é
 <sup>2</sup> Les titulaires d’une autorisation cantonale ont le droit d’exercer la psychothérapie sous leur propre responsabilité professionnelle dans un autre canton, pendant 90 jours au plus par année civile, sans devoir requérir une autorisation de ce canton. Les restrictions et les charges liées à leur autorisation s’appliquent aussi à cette activité. Ces personnes doivent s’annoncer auprès de l’autorité cantonale compétente. Celle-ci inscrit l’annonce au registre.
 
 [^23-1]: Nouvelle teneur selon l’annexe ch. 6 de la LF du 30 sept. 2016 sur les professions de la santé, en vigueur depuis le 1<sup>er</sup> fév. 2020 ([RO 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [FF 2015 7925](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
-[^23-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^23-3]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^23-4]: [RS 935.01](https://fedlex.data.admin.ch/eli/cc/2013/509)
+[^23-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^23-3]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
+[^23-4]: [RS 935.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11082)
 
 #### Art. 24
 
@@ -517,7 +517,7 @@ Les buts du registre sont les suivants:
 
 <sup>2</sup> Le Conseil fédéral édicte des dispositions sur les données personnelles contenues dans le registre et sur les modalités de leur traitement.
 
-[^40-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^40-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^40-2]: Nouvelle teneur selon l’annexe 1 ch. II 91 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 41
@@ -573,7 +573,7 @@ Pour autant qu’elles ne soient pas des autorités cantonales, les organisation
 
 <sup>2</sup> Au surplus, les dispositions générales de la procédure fédérale sont applicables.
 
-[^44-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^44-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 45
 
@@ -602,6 +602,14 @@ Le Conseil fédéral surveille l’exécution de la présente loi.
 **Exécution**
 
 Le Conseil fédéral édicte les dispositions d’exécution.
+
+#### Art. 47a
+
+**Traités internationaux**[^47a-1]
+
+Le Conseil fédéral peut, dans le champ d’application de la présente loi, conclure des traités internationaux en matière de reconnaissance de diplômes et de titres postgrades étrangers.
+
+[^47a-1]: Introduit par le ch. I 4 de la LF du 27 sept. 2024 sur la conclusion de traités internationaux en matière de reconnaissance des qualifications professionnelles, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 477](https://fedlex.data.admin.ch/eli/oc/2025/477); [FF 2024 460](https://fedlex.data.admin.ch/eli/fga/2024/460)).
 
 #### Art. 48
 

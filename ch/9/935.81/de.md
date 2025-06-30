@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 18. März 2011 über die Psychologieberufe (Psychologie
 short: PsyG
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/268"
 language: de
-version: 2023-09-01
+version: 2025-07-01
 adopted: 2011-03-18
 in_force: 2012-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/268/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2012-268-20230901-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/268/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/268/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2012-268-20250701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/268/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/268/20230901/de"
 
 (Psychologieberufegesetz, PsyG)
 
-vom 18. März 2011 (Stand am 1. September 2023)
+vom 18. März 2011 (Stand am 1. Juli 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 95 Absatz 1, 97 Absatz 1 und 117*a* Absatz 2 Buchstabe
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Fassung gemäss Anhang Ziff. 6 des Gesundheitsberufegesetzes vom 30. Sept. 2016, in Kraft seit 1. Febr. 2020 ([AS 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [BBl 2015 8715](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
 [^ingress-3]: [BBl 2009 6897](https://fedlex.data.admin.ch/eli/fga/2009/1238)
 
@@ -55,7 +55,7 @@ Zu diesem Zweck legt es fest:
 <sup>3</sup> Für Inhaberinnen und Inhaber eines eidgenössischen Diploms in Humanmedizin richten sich die Weiterbildung in Psychotherapie und die Berufsausübung in diesem Bereich nach dem Medizinalberufegesetz vom 23. Juni 2006[^1-2].
 
 [^1-1]: Ausdruck gestrichen durch Anhang Ziff. 6 des Gesundheitsberufegesetzes vom 30. Sept. 2016, mit Wirkung seit 1. Febr. 2020 ([AS 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [BBl 2015 8715](https://fedlex.data.admin.ch/eli/fga/2015/2104)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
-[^1-2]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^1-2]: [SR 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 
 ## 2. Kapitel: Hochschulabschluss und Berufsbezeichnung
 
@@ -65,8 +65,8 @@ Zu diesem Zweck legt es fest:
 
 Als inländische Hochschulabschlüsse nach diesem Gesetz anerkannt sind die von einer nach dem Universitätsförderungsgesetz vom 8. Oktober 1999[^2-1] beitragsberechtigten oder nach dem Fachhochschulgesetz vom 6. Oktober 1995[^2-2] akkreditierten schweizerischen Hochschule erteilten Master-, Lizentiats- und Diplomabschlüsse in Psychologie.
 
-[^2-1]: [[AS 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146); [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)Anhang Ziff. II 3; [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225); [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)Ziff. II 5; [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76), [3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 18; [2011 5871](https://fedlex.data.admin.ch/eli/oc/2011/812); [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 10. [AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)Anhang Ziff. I 1]. Siehe heute: das Hochschulförderungs- und -koordinationsgesetz vom 30. Sep. 2011 ([SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)).
-[^2-2]: [[AS 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588), [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171), [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 37, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 11. [AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)Anhang Ziff. I 2]. Siehe heute: das Hochschulförderungs- und ‑koordinationsgesetz vom 30. Sep. 2011 ([SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)).
+[^2-1]: [[AS 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146); [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)Anhang Ziff. II 3; [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225); [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)Ziff. II 5; [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76), [3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 18; [2011 5871](https://fedlex.data.admin.ch/eli/oc/2011/812); [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 10. [AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)Anhang Ziff. I 1]. Siehe heute: das Hochschulförderungs- und -koordinationsgesetz vom 30. Sep. 2011 ([SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)).
+[^2-2]: [[AS 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588), [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171), [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 37, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 11. [AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)Anhang Ziff. I 2]. Siehe heute: das Hochschulförderungs- und ‑koordinationsgesetz vom 30. Sep. 2011 ([SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)).
 
 #### Art. 3
 
@@ -313,9 +313,9 @@ Die Kosten für die Akkreditierung der Weiterbildungsgänge werden durch Gebühr
 <sup>2</sup> Inhaberinnen und Inhaber einer kantonalen Bewilligung dürfen Psychotherapie während längstens 90 Tagen pro Kalenderjahr in einem anderen Kanton in eigener fachlicher Verantwortung ausüben, ohne eine Bewilligung dieses Kantons einzuholen. Einschränkungen und Auflagen ihrer Bewilligung gelten auch für diese Tätigkeit. Diese Personen müssen sich bei der zuständigen kantonalen Stelle melden. Diese trägt die Meldung ins Register ein.[^23-6]
 
 [^23-1]: Fassung gemäss Art. 8 Ziff. 2 des BG vom 14. Dez. 2012 über die Meldepflicht und die Nachprüfung der Berufsqualifikationen von Dienstleistungserbringerinnen und ‑erbringern in reglementierten Berufen, in Kraft seit 1. Sept. 2013 ([AS 2013 2417](https://fedlex.data.admin.ch/eli/oc/2013/509); [BBl 2012 4401](https://fedlex.data.admin.ch/eli/fga/2012/600)).
-[^23-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^23-3]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^23-4]: [SR 935.01](https://fedlex.data.admin.ch/eli/cc/2013/509)
+[^23-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^23-3]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
+[^23-4]: [SR 935.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11082)
 [^23-5]: Fassung gemäss Anhang Ziff. 6 des Gesundheitsberufegesetzes vom 30. Sept. 2016, in Kraft seit 1. Febr. 2020 ([AS 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [BBl 2015 8715](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
 [^23-6]: Fassung gemäss Anhang Ziff. 6 des Gesundheitsberufegesetzes vom 30. Sept. 2016, in Kraft seit 1. Febr. 2020 ([AS 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [BBl 2015 8715](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
 
@@ -515,7 +515,7 @@ Das Register dient:
 
 <sup>2</sup> Der Bundesrat erlässt nähere Bestimmungen über die im Register enthaltenen Personendaten sowie über deren Bearbeitung.
 
-[^40-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^40-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^40-2]: Fassung gemäss Anhang 1 Ziff. II 91 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 41
@@ -571,7 +571,7 @@ Die für akkreditierte Weiterbildungsgänge verantwortlichen Organisationen erla
 
 <sup>2</sup> Im Übrigen gelten die allgemeinen Bestimmungen der Bundesrechtspflege.
 
-[^44-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^44-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 45
 
@@ -600,6 +600,14 @@ Der Bundesrat hat die Aufsicht über den Vollzug dieses Gesetzes.
 **Vollzug**
 
 Der Bundesrat erlässt die Ausführungsbestimmungen.
+
+#### Art. 47a
+
+**Internationale Verträge**[^47a-1]
+
+Der Bundesrat kann im Anwendungsbereich dieses Gesetzes internationale Verträge über die Anerkennung von ausländischen Ausbildungsabschlüssen und Weiterbildungstiteln abschliessen.
+
+[^47a-1]: Eingefügt durch Ziff. I 4 des BG vom 27. Sept. 2024 über den Abschluss internationaler Verträge über die Anerkennung von Berufsqualifikationen, in Kraft seit 1. Juli 2025 ([AS 2025 477](https://fedlex.data.admin.ch/eli/oc/2025/477); [BBl 2024 460](https://fedlex.data.admin.ch/eli/fga/2024/460)).
 
 #### Art. 48
 
