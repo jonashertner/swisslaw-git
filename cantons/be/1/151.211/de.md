@@ -4,13 +4,13 @@ number: "151.211"
 title: Geschäftsordnung des Grossen Rates
 short: GO
 language: de
-version: 2024-10-01
-valid_until: 2025-06-30
-version_adopted: 2024-09-02
+version: 2025-07-01
+valid_until: 2026-08-31
+version_adopted: 2025-06-02
 adopted: 2013-06-04
 in_force: 2014-06-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/151.211"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3062/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3349/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3062/pdf_file"
 
 (GO)
 
-vom 04.06.2013 (Stand 01.10.2024)
+vom 04.06.2013 (Stand 01.07.2025)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -636,7 +636,9 @@ beschliesst:
 
 <sup>2</sup> Für die Zuteilung der Sitze in den Aufsichtskommissionen einerseits und in den ständigen Sachbereichskommissionen andererseits werden die Mitgliederzahlen der Kommissionen jeweils zusammengerechnet. Die Zuweisung der den Fraktionen zugeteilten Sitze auf die einzelnen Kommissionen erfolgt nach Fraktionsstärke. Fraktionen, die für ein Direktmandat in einer Kommission zu klein sind, werden im Verteilverfahren zusammengerechnet.
 
-<sup>3</sup> Ergeben sich während der Legislatur Änderungen in der Fraktionsstärke, werden sie erst bei einer Neu- oder Ersatzwahl oder bei einer Neu- oder Ersatzbestellung wirksam.
+<sup>3</sup> Änderungen in der Fraktionsstärke während der Legislatur haben keinen Einfluss auf die Sitzverteilung, wie diese zu Beginn der Legislatur berechnet wurde.
+
+<sup>4</sup> Wird während der Legislatur eine Fraktion aufgehoben oder neu gebildet, erfolgt eine Neuberechnung und Neuzuteilung mit allfälliger neuer Sitzverteilung.
 
 #### Art. 44
 
@@ -878,19 +880,21 @@ beschliesst:
 
 **Inhalt**
 
-<sup>1</sup> Der Vortrag zu einem Erlass, internationalen oder interkantonalen Vertrag oder einem Grundsatzbeschluss informiert darüber, welche politischen Ziele die Vorlage verfolgt und welche Probleme damit gelöst werden sollen. Er kommentiert soweit nötig die einzelnen Bestimmungen.
+<sup>1</sup> Der Vortrag zu einem Erlass, internationalen oder interkantonalen Vertrag oder einem Grundsatzbeschluss informiert darüber, welche politischen Ziele die Vorlage verfolgt und welche Probleme damit gelöst werden sollen.
 
 <sup>2</sup> Zu erläutern sind insbesondere folgende Punkte:
 
-- a Ausgangslage und Handlungsbedarf,
-- b Darstellung des Vorhabens,
-- c vorgeschlagene oder geprüfte Alternativen,
+- a Ausgangslage,
+- b Grundzüge des Vorhabens,
+- c …
 - d rechtliche Aspekte,
-- e Verhältnis zu den Richtlinien der Regierungspolitik und zu weiteren wichtigen Planungen,
+- d1 einzelne Artikel oder Bestimmungen,
+- e Verhältnis zu den Richtlinien der Regierungspolitik und zu anderen wichtigen Planungen,
 - f finanzielle Auswirkungen,
 - g personelle und organisatorische Auswirkungen,
 - h Auswirkungen auf die Gemeinden,
-- i Auswirkungen auf die Volkswirtschaft.
+- i Auswirkungen auf die Volkswirtschaft,
+- k Ergebnis des allfälligen Vernehmlassungs- oder Konsultationsverfahrens.
 
 <sup>3</sup> Diese Bestimmungen gelten sinngemäss auch für die Vorträge zu Initiativen, Gegenvorschlägen und Volksvorschlägen.
 
@@ -901,13 +905,16 @@ beschliesst:
 <sup>1</sup> Der Vortrag zu einem Ausgabenbeschluss informiert über die Ausgabe und äussert sich insbesondere
 
 - a zum Vorhaben,
-- b zur Kreditart,
-- c zu den möglichen Alternativen,
+- b …
+- c zu den möglichen Alternativen und Folgen eines Verzichts,
 - d zu den massgebenden Rechtsgrundlagen und der Rechtmässigkeit der Ausgabe,
 - e mit einlässlicher Begründung bei gebundenen Ausgaben,
-- f zum Verhältnis zu den Richtlinien der Regierungspolitik und zu weiteren wichtigen Planungen, insbesondere zum Voranschlag und zum Aufgaben- und Finanzplan,
-- g zu Auswirkungen auf den Kanton und die Gemeinden,
-- h über allfällig vorgesehene Evaluationen und die damit verbundenen Kosten.
+- f zum Verhältnis zu den Richtlinien der Regierungspolitik und zu anderen wichtigen Planungen, insbesondere zum Budget und zum Aufgaben- und Finanzplan sowie zur gesamtkantonalen Investitionsplanung,
+- f1 zu Auswirkungen auf Finanzen, Organisation, Personal, IT und Raum,
+- f2 zur Art und den Auswirkungen der Investitionen,
+- g zu Auswirkungen auf die Gemeinden,
+- g1 zu Auswirkungen auf Wirtschaft, Umwelt und Gesellschaft.
+- h …
 
 <sup>2</sup> Bei wichtigen oder grossen Vorhaben erläutert der Vortrag im Detail die zu erwartenden Auswirkungen.
 
@@ -1001,7 +1008,7 @@ beschliesst:
 
 **Antwortfrist bei Anfragen**
 
-<sup>1</sup> Anfragen sind in derselben Session zu beantworten, wenn sie bis spätestens um 16.00 Uhr des ersten Sessionstags eingereicht werden.
+<sup>1</sup> Anfragen werden bis am Donnerstag der ersten Sessionswoche beantwortet, wenn sie bis spätestens eine Woche vor Sessionsbeginn (Sonntagabend) eingereicht werden.
 
 #### Art. 77
 
@@ -1184,9 +1191,9 @@ beschliesst:
 
 <sup>1</sup> Interpellationen und Anfragen unterliegen einem schriftlichen Verfahren.
 
-<sup>2</sup> Interpellationen werden zusammen mit der Antwort den Sessionsunterlagen beigelegt und im Tagblatt veröffentlicht.
+<sup>2</sup> Sie werden zusammen mit der Antwort im Internet bei den Sessionsunterlagen veröffentlicht.
 
-<sup>3</sup> Anfragen werden den Ratsmitgliedern zusammen mit der Antwort verteilt und im Tagblatt veröffentlicht.
+<sup>3</sup> …
 
 ### 8.6 Anträge
 
@@ -1707,15 +1714,15 @@ beschliesst:
 <sup>1</sup> Die Staatskanzlei erfüllt für den Grossen Rat, seine Organe und die Parlamentsdienste namentlich folgende Aufgaben:
 
 - a Mitwirkung bei der Vorbereitung und Abwicklung der Sessionen,
-- b Protokollierung der Beratungen und der Beschlussfassung des Grossen Rates sowie Redaktion des Tagblatts,
+- a1 Betreuung der technischen Infrastruktur im Ratssaal und in den Sitzungszimmern,
+- b …
 - c Übersetzungsdienste,
 - d Organisation der Simultandolmetschung im Grossen Rat,
 - e Unterstützung bei der Kommunikation,
 - f Veröffentlichung von Informationen in elektronischer Form, insbesondere im Internet,
 - g Finanz- und Rechnungswesen,
-- h Informatik,
-- i Drucksachenwesen,
-- k Raumverwaltung und Weibeldienste.
+- h–i …
+- k Raumverwaltung, Sicherheit und Weibeldienste.
 
 <sup>2</sup> Einzelheiten werden in einer Leistungsvereinbarung geregelt.
 
@@ -1731,7 +1738,7 @@ beschliesst:
 
 - a dem Grossen Rat,
 - b der Staatskanzlei und der Stelle für die begleitende Rechtsetzung,
-- c den obersten kantonalen Gerichtsbehörden und
+- c den Gerichtsbehörden oder der Staatsanwaltschaft,
 - d der Universität.
 
 <sup>2</sup> Sie kann beiziehen
@@ -1758,7 +1765,7 @@ beschliesst:
 
 **Entschädigung der Mitglieder**
 
-<sup>1</sup> Die Mitglieder der Redaktionskommission erhalten dieselben Sitzungsgelder wie Ratsmitglieder.
+<sup>1</sup> Die Mitglieder des Grossen Rates in der Redaktionskommission erhalten Sitzungsgelder nach Artikel 124.
 
 ## 13 Schlussbestimmungen
 

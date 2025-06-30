@@ -4,13 +4,13 @@ number: "151.211"
 title: Règlement du Grand Conseil
 short: RGC
 language: fr
-version: 2024-10-01
-valid_until: 2025-06-30
-version_adopted: 2024-09-02
+version: 2025-07-01
+valid_until: 2026-08-31
+version_adopted: 2025-06-02
 adopted: 2013-06-04
 in_force: 2014-06-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/151.211"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3062/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3349/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3062/pdf_file"
 
 (RGC)
 
-du 04.06.2013 (état au 01.10.2024)
+du 04.06.2013 (état au 01.07.2025)
 
 Le Grand Conseil du canton de Berne,
 
@@ -638,7 +638,9 @@ arrête:
 
 <sup>2</sup> Les membres des commissions sont additionnés en vue de l’attribution des sièges des commissions de surveillance d’une part et des commissions spécialisées d’autre part. La répartition entre les différentes commissions des sièges auxquels ont droit les groupes reflète la force numérique des groupes. Les groupes dont la force numérique ne leur donne pas droit à un siège directement sont additionnés pour la procédure de répartition.
 
-<sup>3</sup> Les changements dans la force numérique des groupes intervenant en cours de législature sont pris en compte lors de l’élection et de la désignation des commissions de la législature suivante ou lors de l’élection ou de la désignation complémentaire de membres des commissions.
+<sup>3</sup> Les changements dans la force numérique des groupes intervenant en cours de législature n'ont aucune influence sur la répartition des sièges calculée en début de législature.
+
+<sup>4</sup> En cas de dissolution d'un groupe existant ou de création d'un nouveau groupe en cours de législature, le calcul de la répartition des sièges est revu et, le cas échéant, les sièges sont réattribués.
 
 #### Art. 44
 
@@ -880,19 +882,21 @@ arrête:
 
 **Contenu**
 
-<sup>1</sup> Le rapport relatif à un projet législatif, à un traité international ou intercantonal ou à un arrêté de principe renseigne sur les objectifs politiques recherchés et sur les problèmes devant être résolus. Si nécessaire, il commente les dispositions.
+<sup>1</sup> Le rapport relatif à un projet législatif, à un traité international ou intercantonal ou à un arrêté de principe renseigne sur les objectifs politiques recherchés et sur les problèmes devant être résolus.
 
 <sup>2</sup> Le rapport aborde en particulier les points suivants:
 
-- a le contexte et les besoins,
-- b la présentation du projet,
-- c les différentes solutions proposées ou étudiées,
+- a le contexte,
+- b les grandes lignes du projet,
+- c …
 - d les aspects juridiques,
+- d1 les articles et dispositions du projet,
 - e la place du projet dans le programme gouvernemental de législature et dans d’autres planifications importantes,
 - f les répercussions financières,
 - g les répercussions sur le personnel et l’organisation,
 - h les répercussions sur les communes,
-- i les répercussions sur l’économie.
+- i les répercussions sur l’économie,
+- k le résultat des éventuelles procédures de consultation ou des consultations.
 
 <sup>3</sup> Les présentes dispositions sont applicables par analogie aux rapports relatifs aux initiatives, aux contre-projets et aux projets populaires.
 
@@ -903,13 +907,16 @@ arrête:
 <sup>1</sup> Le rapport relatif à un arrêté de dépenses renseigne sur les détails des dépenses. Il aborde en particulier les points suivants:
 
 - a la présentation du projet,
-- b le type de crédit,
-- c les autres solutions possibles,
+- b …
+- c les autres solutions possibles et les conséquences d'un abandon du projet,
 - d les bases légales et la légalité de la dépense,
 - e les motifs, de manière détaillée, dans le cas des dépenses liées,
-- f la place de l’arrêté dans le programme gouvernemental de législature et d’autres planifications importantes, en particulier le budget et le plan intégré mission-financement,
-- g les répercussions sur le canton et les communes,
-- h l’évaluation éventuellement prévue et les coûts induits.
+- f la place de l’arrêté dans le programme gouvernemental de législature et d’autres planifications importantes, en particulier le budget et le plan intégré mission-financement ainsi que le plan d'investissement intégré,
+- f1 les répercussions sur les finances, l’organisation, le personnel, l’informatique et les locaux,
+- f2 le type d'investissements et leurs effets,
+- g les répercussions sur les communes,
+- g1 les répercussions sur l'économie, l'environnement et la société.
+- h …
 
 <sup>2</sup> Si le projet est important ou de grande envergure, le rapport renseigne sur les détails des répercussions escomptées.
 
@@ -928,6 +935,8 @@ arrête:
 <sup>3</sup> Le Grand Conseil décide s’il accorde son soutien provisoire.
 
 #### Art. 70
+
+**Préavis**
 
 <sup>1</sup> La commission chargée de préaviser l'initiative parlementaire peut soumettre préalablement le projet à des experts ou expertes.
 
@@ -1001,7 +1010,7 @@ arrête:
 
 **Délai de réponse aux questions**
 
-<sup>1</sup> Les questions déposées le premier jour de la session avant 16 heures obtiennent une réponse pendant la même session.
+<sup>1</sup> Les questions déposées au plus tard une semaine avant la session (dimanche soir) obtiennent une réponse au plus tard le jeudi de la première semaine de session.
 
 #### Art. 77
 
@@ -1184,9 +1193,9 @@ arrête:
 
 <sup>1</sup> Les interpellations et les questions sont traitées selon la procédure écrite.
 
-<sup>2</sup> Les interpellations sont jointes aux documents de la session, accompagnées de la réponse, et publiées dans le Journal.
+<sup>2</sup> Elles sont publiées avec les documents de la session sur Internet, accompagnées de la réponse.
 
-<sup>3</sup> Les questions sont distribuées aux membres du Grand Conseil, accompagnées de la réponse, et publiées dans le Journal.
+<sup>3</sup> …
 
 ### 8.6 Propositions
 
@@ -1711,15 +1720,15 @@ arrête:
 <sup>1</sup> La Chancellerie d’Etat accomplit en particulier les tâches suivantes pour le Grand Conseil, ses organes et les Services parlementaires:
 
 - a participer à la préparation et au déroulement des sessions;
-- b consigner les délibérations et les décisions du Grand Conseil au procès-verbal et assurer la rédaction du Journal;
+- a1 gérer l'infrastructure technique dans la salle du Grand Conseil et les salles de réunion;
+- b …
 - c assurer le service de traduction;
 - d organiser le service d’interprétation;
 - e fournir son soutien pour la communication;
 - f publier des informations sous forme électronique, en particulier sur Internet;
 - g gérer les finances et la comptabilité;
-- h assurer le service informatique;
-- i assurer le service des imprimés;
-- k assurer la gestion des locaux et le service des huissiers.
+- h–i …
+- k assurer la gestion des locaux, la sécurité et le service des huissiers.
 
 <sup>2</sup> Les modalités de détail sont réglées dans une convention de prestations.
 
@@ -1735,7 +1744,7 @@ arrête:
 
 - a du Grand Conseil,
 - b de la Chancellerie d’Etat et du service d’accompagnement législatif,
-- c des autorités judiciaires cantonales supérieures et
+- c des autorités judiciaires ou du Ministère public,
 - d de l’Université.
 
 <sup>2</sup> Elle peut faire appel
@@ -1762,7 +1771,7 @@ arrête:
 
 **Indemnités**
 
-<sup>1</sup> Les membres de la Commission de rédaction touchent les mêmes jetons de présence que les membres du Grand Conseil.
+<sup>1</sup> Les membres du Grand Conseil siégeant à la Commission de rédaction touchent les jetons de présence prévus à l'article 124.
 
 ## 13 Dispositions finales
 
