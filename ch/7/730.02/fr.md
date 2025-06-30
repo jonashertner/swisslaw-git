@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> novembre 2017 sur les exigences relatives �
 short: OEEE
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/765"
 language: fr
-version: 2025-01-01
+version: 2025-07-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-765-20250101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-765-20250701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20250101/fr"
 
 (Ordonnance sur les exigences relatives à l’efficacité énergétique, OEEE)
 
-du 1<sup>er</sup> novembre 2017 (État le 1<sup>er</sup> janvier 2025)
+du 1<sup>er</sup> novembre 2017 (État le 1<sup>er</sup> juillet 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,10 +25,10 @@ vu la loi du 30 septembre 2016 sur l’énergie (LEne)[^ingress-1], vu l’art. 
 
 arrête:
 
-[^ingress-1]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
-[^ingress-2]: [RS 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)
-[^ingress-3]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^ingress-4]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-1]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^ingress-2]: [RS 813.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9395)
+[^ingress-3]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^ingress-4]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 [^ingress-5]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 329](https://fedlex.data.admin.ch/eli/oc/2021/329)).
 
 ## Chapitre 1 Dispositions générales
@@ -162,7 +162,7 @@ Les laboratoires d’essai et d’évaluation de la conformité qui établissent
 - b. être reconnus en Suisse en vertu d’accords internationaux, ou
 - c. être habilités à un autre titre par le droit suisse.
 
-[^9-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^9-1]: [RS 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 
 ### Section 2 Voitures de tourisme, voitures de livraison et tracteurs à sellette légers fabriqués en série et leurs composants fabriqués en série
 
@@ -179,7 +179,7 @@ Les laboratoires d’essai et d’évaluation de la conformité qui établissent
 <sup>2</sup> Quiconque met en circulation ou fournit une voiture de tourisme fabriquée en série, une voiture de livraison fabriquée en série ou un tracteur à sellette léger fabriqué en série dont le kilométrage dépasse 2000 kilomètres avec un marquage selon l’annexe 4.1, doit utiliser les indications valables au moment du marquage.
 
 [^10-1]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)).
-[^10-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^10-2]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 #### Art. 11
 
@@ -216,7 +216,7 @@ Le Département fédéral de l’environnement, des transports, de l’énergie 
 [^12-1]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)).
 [^12-2]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)).
 [^12-3]: Abrogée par le ch. I de l’O du 23 oct. 2019, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)).
-[^12-4]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^12-4]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^12-5]: Introduit par le ch. I de l’O du 23 oct. 2019 ([RO 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)). Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
 
 #### Art. 12a
@@ -305,7 +305,7 @@ La modification d’autres actes est réglée dans l’annexe 5.
 <sup>2</sup> Les spécifications visées à l’art. 12, al. 1, sont publiées, en 2019, au plus tard le 30 novembre et entrent en vigueur le 1<sup>er</sup> janvier 2020.
 
 [^17a-1]: Introduit par le ch. I de l’O du 27 juin 2018 ([RO 2018 2671](https://fedlex.data.admin.ch/eli/oc/2018/388)). Nouvelle teneur selon le ch. I de l’O du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)).
-[^17a-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^17a-2]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 #### Art. 18
 
@@ -319,7 +319,7 @@ Annexe 1.1[^t-1]
 
 ## Exigences relatives à l’efficacité énergétique ainsi qu’à la mise en circulation et à la fourniture des appareils de réfrigération alimentés par le secteur
 
-[^t-1]: Nouvelle teneur selon le ch. II al. 2 de l’O du 22 avr. 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Mise à jour par le ch. II de l’O du 24 nov. 2021 ([RO 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)), le ch. II al. 1 de l’O du 23 nov. 2022 ([RO 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)) et le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 763](https://fedlex.data.admin.ch/eli/oc/2023/763)).
+[^t-1]: Nouvelle teneur selon le ch. II al. 2 de l’O du 22 avr. 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Mise à jour par le ch. II de l’O du 24 nov. 2021 ([RO 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)), le ch. I de l’O du 29 nov. 2023 ([RO 2023 763](https://fedlex.data.admin.ch/eli/oc/2023/763)) et le ch. II al. 1 de l’O du 21 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 382](https://fedlex.data.admin.ch/eli/oc/2025/382)).
 
 ### 1 Champ d’application
 
@@ -331,13 +331,8 @@ Annexe 1.1[^t-1]
 
 ### 2 Exigences applicables à la mise en circulation et à la fourniture
 
-- 2\.1 Les appareils de réfrigération visés au ch. 1 peuvent être mis en circulation ou fournis si leur indice d’efficacité énergétique (IEE) déterminé selon l’annexe III du règlement (UE) 2019/2019[^annex11-lvlu1-lvl2-1] ne dépasse pas 100 et s’ils satisfont aux exigences visées à l’art. 3 et à l’annexe II, ch. 2 à 4, à l’exception des ch. 3, let. d, et 4, let. o, du règlement (UE) 2019/2019.
-- 2\.2 Les appareils de réfrigération à une porte visés au ch. 1 dont le volume des compartiments à trois ou quatre étoiles est inférieur à 18 % du volume total peuvent être mis en circulation ou fournis si leur indice d’efficacité énergétique (IEE) déterminé selon l’annexe III du règlement (UE) 2019/2019 ne dépasse pas 125 et s’ils satisfont aux exigences visées à l’art. 3 et à l’annexe II, ch. 2 à 4, à l’exception des ch. 3, let. d, et 4, let. o, du règlement (UE) 2019/2019.
-- 2\.3 À compter du 1<sup>er</sup> mars 2024, les appareils de réfrigération visés au ch. 2.2, doivent en sus satisfaire aux exigences visées à l’annexe II, ch. 1, let. b, du règlement (UE) 2019/2019.
-- 2\.4 Les appareils de stockage du vin et les appareils de réfrigération à faible niveau de bruit visés au ch. 1 peuvent être mis en circulation ou fournis s’ils satisfont aux exigences visées à l’art. 3, annexe II, ch. 1, let. a, et 2 à 4, à l’exception des ch. 3, let. d, et 4, let. o, du règlement (UE) 2019/2019.
-- 2\.5 À compter du 1<sup>er</sup> mars 2024, les appareils de stockage du vin et les appareils de réfrigération à faible niveau de bruit visés au ch. 1 doivent en sus répondre aux exigences visées à l’annexe II, ch. 1, let. b, du règlement (UE) 2019/2019.
-
-[^annex11-lvlu1-lvl2-1]: Cf. note de bas de page du ch. 1.1.
+- 2\.1 Les appareils de réfrigération visés au ch. 1 peuvent être mis en circulation ou fournis s’ils satisfont aux exigences visées aux art. 3 et 6 et à l’annexe II, à l’exception du pt. 4, let. o, du règlement (UE) 2019/2019.
+- 2\.2 Les appareils de stockage du vin et les appareils de réfrigération à faible niveau de bruit visés au ch. 1 peuvent être mis en circulation ou fournis s’ils satisfont aux exigences visées aux art. 3 et 6 et à l’annexe II, à l’exception du pt. 4, let. o, du règlement (UE) 2019/2019.
 
 ### 3 Procédure d’évaluation de la conformité
 
@@ -352,17 +347,13 @@ Annexe 1.1[^t-1]
 - 4\.2 Les prescriptions relatives aux informations devant être mentionnées dans les publicités visuelles, le matériel promotionnel technique utilisé dans la vente à distance et le télémarketing doivent être conformes à l’annexe VII du règlement délégué (UE) 2019/2016.
 - 4\.3 Les informations à fournir en cas de vente sur Internet doivent être conformes à l’annexe VIII du règlement délégué (UE) 2019/2016.
 
-### 5 Dispositions transitoires
-
-- Les appareils de réfrigération ne satisfaisant pas aux exigences qui prennent effet le 1<sup>er</sup> mars 2024 ne peuvent plus être mis en circulation à compter de cette date. Ils peuvent être fournis jusqu’au 31 décembre 2024 au plus tard.
-
 Annexe 1.2[^t-2]
 
 (art. 4, al. 1, 5, al. 1, 6, al. 1, 7, al. 1, et 8, al. 1)
 
 ## Exigences relatives à l’efficacité énergétique ainsi qu’à la mise en circulation et à la fourniture des lave-linge et lave-linge séchants domestiques alimentés par le secteur
 
-[^t-2]: Nouvelle teneur selon le ch. II al. 2 de l’O du 22 avr. 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Mise à jour par le ch. II de l’O du 24 nov. 2021 ([RO 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)) et le ch. II al. 1 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
+[^t-2]: Nouvelle teneur selon le ch. II al. 2 de l’O du 22 avr. 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Mise à jour par le ch. II de l’O du 24 nov. 2021 ([RO 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)) et le ch. II al. 1 de l’O du 21 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 382](https://fedlex.data.admin.ch/eli/oc/2025/382)).
 
 ### 1 Champ d’application
 
@@ -375,7 +366,7 @@ Annexe 1.2[^t-2]
 
 ### 2 Exigences applicables à la mise en circulation et à la fourniture
 
-- Les lave-linge et lave-linge séchants domestiques visés au ch. 1 peuvent être mis en circulation ou fournis s’ils satisfont aux exigences fixées à l’art. 3 et à l’annexe II, à l’exception des ch. 8, art. 5, et 9, art. 1, let. h, du règlement (UE) 2019/2023.
+- Les lave-linge et lave-linge séchants domestiques visés au ch. 1 peuvent être mis en circulation ou fournis s’ils satisfont aux exigences fixées à l’art. 3 et à l’annexe II, à l’exception du pt. 9 1) h) du règlement (UE) 2019/2023.
 
 ### 3 Procédure d’évaluation de la conformité
 
@@ -390,48 +381,43 @@ Annexe 1.2[^t-2]
 - 4\.2 Les prescriptions relatives aux informations devant être mentionnées dans les publicités visuelles, le matériel promotionnel technique utilisé dans la vente à distance et le télémarketing doivent être conformes à l’annexe VII du règlement délégué (UE) 2019/2014.
 - 4\.3 Les informations à fournir en cas de vente sur Internet doivent être conformes à l’annexe VIII du règlement délégué (UE) 2019/2014.
 
-### 5 Dispositions transitoires
-
-- Les lave-linge et lave-linge séchants domestiques ne satisfaisant pas aux exigences qui prennent effet le 1<sup>er</sup> mars 2024 ne peuvent plus être mis en circulation à compter de cette date. Ils peuvent être fournis jusqu’au 31 décembre 2024 au plus tard.
-
 Annexe 1.3[^t-3]
 
 (art. 4, al. 1, 5, al. 1, 6, al. 1, 7, al. 1, et 8, al. 1)
 
 ## Exigences relatives à l’efficacité énergétique ainsi qu’à la mise en circulation et à la fourniture des sèche-linge domestiques à tambour alimentés par le secteur
 
-[^t-3]: Mise à jour par le ch. II al. 1 de l’O du 23 nov. 2022 ([RO 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)) et le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 763](https://fedlex.data.admin.ch/eli/oc/2023/763)).
+[^t-3]: Nouvelle teneur selon le ch. II al. 2 de l’O du 21 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 382](https://fedlex.data.admin.ch/eli/oc/2025/382)).
 
 ### 1 Champ d’application
 
-- 1\.1 La présente annexe s’applique aux sèche-linge domestiques à tambour alimentés par le secteur.
-- 1\.2 Elle ne s’applique pas aux sèche-linge domestiques à tambour pouvant être alimentés par d’autres sources d’énergie.
-- 1\.3 Les définitions figurant à l’art. 2 du règlement (UE) n<sup>o</sup> 932/2012[^annex13-lvlu1-lvl1-1] sont applicables.
+- 1\.1 La présente annexe s’applique aux sèche-linge domestiques à tambour alimentés par le secteur visés à l’art. 1, al. 1 et 3, du règlement (UE) 2023/2533[^annex13-lvlu1-lvl1-1].
+- 1\.2 Elle ne s’applique pas aux appareils visés à l’art. 1, al. 2, du règlement (UE) 2023/2533.
+- 1\.3 Les définitions figurant à l’art. 2 et à l’annexe I du règlement (UE) 2023/2533 sont applicables.
 
-[^annex13-lvlu1-lvl1-1]: Règlement (UE) n<sup>o</sup> 932/2012 de la Commission du 3 octobre 2012 portant exécution de la directive 2009/125/CE du Parlement européen et du Conseil en ce qui concerne les exigences d’écoconception applicable aux sèche-linge domestiques à tambour, JO L 278 du 12.10.2012, p. 1; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 2016/2282, JO L 346 du 20.12.2016, p. 51.
+[^annex13-lvlu1-lvl1-1]: Règlement (UE) 2023/2533 de la Commission du 17 novembre 2023 portant exécution de la directive 2009/125/CE du Parlement européen et du Conseil en ce qui concerne les exigences d’écoconception applicables aux sèche-linge domestiques à tambour, modifiant le règlement (UE) 2023/826 de la Commission et abrogeant le règlement (UE) n<sup>o</sup> 932/2012 de la Commission, version du JO L, 2023/2533, 22.11.2023.
 
 ### 2 Exigences applicables à la mise en circulation et à la fourniture
 
-- 2\.1 Les sèche-linge domestiques à tambour visés au ch. 1 peuvent être mis en circulation ou fournis si leur IEE déterminé selon l’annexe II, ch. 1, du règlement (UE) n<sup>o</sup> 932/2012 est inférieur à 24.
-- 2\.2 Cette règle ne concerne pas les sèche-linge domestiques à tambour visés au ch. 1 conçus pour un usage dans des espaces communs d’immeubles collectifs qui ont une performance de séchage supérieure à 4 kg par heure (durée du programme coton standard à pleine charge). Ceux‑ci peuvent être mis en circulation ou fournis si leur IEE déterminé selon l’annexe II, ch. 1, du règlement européen (UE) n<sup>o</sup> 932/2012 est inférieur à 32.
+- 2\.1 Les sèche-linge domestiques à tambour visés au ch. 1 peuvent être mis en circulation ou fournis si leur IEE déterminé selon l’annexe III, section 1, du règlement (UE) 2023/2533 ne dépasse pas 60 et s’ils remplissent les exigences visées aux art. 6 et 7 et à l’annexe II du règlement (UE) 2023/2533.
+- 2\.2 Cette règle ne concerne pas les sèche-linge domestiques à tambour visés au ch. 1, conçus pour un usage dans des espaces communs d’immeubles collectifs et qui ont une performance de séchage supérieure à 4 kg par heure (durée du programme coton standard à pleine charge). Ceux‑ci peuvent être mis en circulation ou fournis s’ils remplissent les exigences visées aux art. 3, 6 et 7 et à l’annexe II du règlement (UE) 2023/2533.
 
 ### 3 Procédure d’évaluation de la conformité
 
-- 3\.1 Les caractéristiques énergétiques des sèche-linge à tambour visés au ch. 1 sont mesurées et calculées dans le cadre de l’évaluation de la conformité, sur la base des directives et des méthodes visées à l’annexe II du règlement (UE) n<sup>o</sup> 932/2012[^annex13-lvlu1-lvl3-1]; la documentation technique doit inclure les résultats des calculs et mesures.
-- 3\.2 Dans le cadre de la vérification de la conformité, l’organe de contrôle teste un sèche-linge domestique à tambour sur la base des directives et des méthodes visées au ch. 3.1; les valeurs mesurées doivent satisfaire aux exigences prévues à l’annexe III, ch. 2, du règlement (UE) n<sup>o</sup> 932/2012.
+- 3\.1 Les caractéristiques des sèche-linge domestiques à tambour visés au ch. 1 sont mesurées et calculées dans le cadre de l’évaluation de la conformité, sur la base des directives et des méthodes visées aux annexes II, III et VI du règlement (UE) 2023/2533 et aux annexes II, IV et X du règlement délégué (UE) 2023/2534[^annex13-lvlu1-lvl3-1]; la documentation technique doit inclure les résultats des calculs et mesures.
+- 3\.2 Dans le cadre de la vérification de la conformité, l’organe de contrôle teste un sèche-linge domestique à tambour sur la base des directives et des méthodes visées au ch. 3.1; les valeurs mesurées doivent satisfaire aux exigences prévues aux annexes IV, pt. 3, du règlement (UE) 2023/2533 et aux annexes VI et IX, pt. 4, du règlement délégué (UE) 2023/2534.
 
-[^annex13-lvlu1-lvl3-1]: Voir note de bas de page ad ch. 1.3.
+[^annex13-lvlu1-lvl3-1]: Règlement délégué (UE) 2023/2534 de la Commission du 13 juillet 2023 complétant le règlement (UE) 2017/1369 du Parlement européen et du Conseil en ce qui concerne l’étiquetage énergétique des sèche-linge domestiques à tambour et abrogeant le règlement délégué (UE) n<sup>o</sup> 392/2012 de la Commission, version du JO L, 2023/2534, 22.11.2023.
 
 ### 4 Indication de la consommation d’énergie et marquage
 
-- 4\.1 À l’exception des emblèmes de l’UE, l’indication des caractéristiques énergétiques et le marquage doivent être conformes aux annexes I à IV, VI et VII règlement délégué (UE) n<sup>o</sup> 392/2012[^annex13-lvlu1-lvl4-1]. Si des emblèmes de l’UE ont été apposés, ils peuvent être conservés pour autant qu’ils soient conformes aux prescriptions de l’UE.
-- 4\.2 Les informations à fournir en cas de vente sur Internet doivent être conformes à l’annexe VIII du règlement délégué (UE) n<sup>o</sup> 392/2012.
+- 4\.1 À l’exception des emblèmes de l’UE et du code QR, l’indication des caractéristiques énergétiques et le marquage doivent être conformes aux annexes I à IV, VI et X du règlement délégué (UE) 2023/2534, exception faite des prescriptions visant l’enregistrement de la fiche d’information sur le produit et de la documentation technique dans la base de données sur les produits de l’UE. Si des emblèmes de l’UE et des codes QR ont été apposés conformément aux prescriptions de l’UE, ils peuvent être conservés.
+- 4\.2 Les prescriptions relatives aux informations devant être mentionnées dans les publicités visuelles, le matériel promotionnel technique et la vente à distance doivent être conformes à l’annexe VII du règlement délégué (UE) 2023/2534.
+- 4\.3 Les informations à fournir en cas de vente sur Internet doivent être conformes à l’annexe VIII du règlement délégué (UE) 2023/2534.
 
-[^annex13-lvlu1-lvl4-1]: Règlement délégué (UE) n<sup>o</sup> 392/2012 de la Commission du 1<sup>er</sup> mars 2012 complétant la directive 2010/30/UE du Parlement européen et du Conseil en ce qui concerne l’indication, par voie d’étiquetage, de la consommation d’énergie des sèche-linge domestiques à tambour, JO L 123 du 9.5.2012, p. 1; modifié par le règlement (UE) n<sup>o</sup> 518/2014, JO L 147 du 17.5.2014, p. 1.
+### 5 Dispositions transitoires
 
-### 5 Disposition transitoire
-
-- Les sèche-linge domestiques à tambour ne satisfaisant pas aux exigences qui prennent effet le 1<sup>er</sup> janvier 2024 ne peuvent plus être mis en circulation à compter de cette date. Ils peuvent être fournis jusqu’au 31 décembre 2024 au plus tard.
+- Les sèche-linge domestiques à tambour ne satisfaisant pas aux exigences qui prennent effet le 1<sup>er</sup> juillet 2025 ne peuvent plus être mis en circulation à compter de cette date. Ils peuvent être fournis jusqu’au 30 juin 2026 au plus tard.
 
 Annexe 1.4[^t-4]
 
@@ -443,7 +429,7 @@ Annexe 1.5[^t-5]
 
 ## Exigences relatives à l’efficacité énergétique ainsi qu’à la mise en circulation et à la fourniture des lave-vaisselle domestiques alimentés par le secteur
 
-[^t-5]: Nouvelle teneur selon le ch. II al. 2 de l’O du 22 avr. 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Mise à jour par le ch. II de l’O du 24 nov. 2021 ([RO 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)) et le ch. II al. 1 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
+[^t-5]: Nouvelle teneur selon le ch. II al. 2 de l’O du 22 avr. 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Mise à jour par le ch. II de l’O du 24 nov. 2021 ([RO 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)) et le ch. II al. 1 de l’O du 21 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 382](https://fedlex.data.admin.ch/eli/oc/2025/382)).
 
 ### 1 Champ d’application
 
@@ -455,7 +441,7 @@ Annexe 1.5[^t-5]
 
 ### 2 Exigences applicables à la mise en circulation et à la fourniture
 
-- Les lave-vaisselle visés au ch. 1 peuvent être mis en circulation ou fournis s’ils satisfont aux exigences visées à l’art. 3 et à l’annexe II, à l’exception des ch. 5, art. 5, et 6, art. 7, du règlement (UE) 2019/2022.
+- Les lave-vaisselle visés au ch. 1 peuvent être mis en circulation ou fournis s’ils satisfont aux exigences visées à l’art. 3 et à l’annexe II, à l’exception du pt. 6, al. 7, du règlement (UE) 2019/2022.
 
 ### 3 Procédure d’évaluation de la conformité
 
@@ -469,10 +455,6 @@ Annexe 1.5[^t-5]
 - 4\.1 À l’exception des emblèmes de l’UE et du code QR, l’indication des caractéristiques énergétiques et le marquage doivent être conformes aux annexes I à IV et VI du règlement délégué (UE) 2019/2017. Si des emblèmes de l’UE et des codes QR ont été apposés conformément aux prescriptions de l’UE, ils peuvent être conservés.
 - 4\.2 Les prescriptions relatives aux informations devant être mentionnées dans les publicités visuelles, le matériel promotionnel technique utilisé dans la vente à distance et le télémarketing doivent être conformes à l’annexe VII du règlement délégué (UE) 2019/2017.
 - 4\.3 Les informations à fournir en cas de vente sur Internet doivent être conformes à l’annexe VIII du règlement délégué (UE) 2019/2017.
-
-### 5 Dispositions transitoires
-
-- Les lave-vaisselle domestiques ne satisfaisant pas aux exigences qui prennent effet le 1<sup>er</sup> mars 2024 ne peuvent plus être mis en circulation à compter de cette date. Ils peuvent être fournis jusqu’au 31 décembre 2024 au plus tard.
 
 Annexe 1.6[^t-6]
 
@@ -593,7 +575,7 @@ Annexe 1.12[^t-10]
 
 ## Exigences relatives à l’efficacité énergétique ainsi qu’à la mise en circulation et à la fourniture des dispositifs d’affichage électroniques
 
-[^t-10]: Nouvelle teneur selon le ch. II al. 2 de l’O du 22 avr. 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Mise à jour par le ch. II de l’O du 24 nov. 2021 ([RO 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)) et le ch. II al. 1 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
+[^t-10]: Nouvelle teneur selon le ch. II al. 2 de l’O du 22 avr. 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Mise à jour par le ch. II de l’O du 24 nov. 2021 ([RO 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)) et le ch. II al. 1 de l’O du 21 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 382](https://fedlex.data.admin.ch/eli/oc/2025/382)).
 
 ### 1 Champ d’application
 
@@ -606,7 +588,7 @@ Annexe 1.12[^t-10]
 
 ### 2 Exigences applicables à la mise en circulation et à la fourniture
 
-- 2\.1 Les dispositifs d’affichage électroniques visés au ch. 1 peuvent être mis en circulation ou fournis s’ils satisfont aux exigences visées à l’art. 3 et à l’annexe II, à l’exception de la partie D, ch. 1 à 4, du règlement (UE) 2019/2021.
+- Les dispositifs d’affichage électroniques visés au ch. 1 peuvent être mis en circulation ou fournis s’ils satisfont aux exigences visées à l’art. 3 et à l’annexe II, à l’exception de la partie D, pt. 2 à 4, du règlement (UE) 2019/2021.
 
 ### 3 Procédure d’évaluation de la conformité
 
@@ -620,10 +602,6 @@ Annexe 1.12[^t-10]
 - 4\.1 À l’exception des emblèmes de l’UE et du code QR, l’indication des caractéristiques énergétiques et le marquage doivent être conformes aux annexes I à IV et VI du règlement délégué (UE) 2019/2013. Si des emblèmes de l’UE et des codes QR ont été apposés conformément aux prescriptions de l’UE, ils peuvent être conservés.
 - 4\.2 Les prescriptions relatives aux informations devant être mentionnées dans les publicités visuelles, le matériel promotionnel technique utilisé dans la vente à distance et le télémarketing doivent être conformes à l’annexe VII du règlement délégué (UE) 2019/2013.
 - 4\.3 Les informations à fournir en cas de vente sur Internet doivent être conformes à l’annexe VIII du règlement délégué (UE) 2019/2013.
-
-### 5 Dispositions transitoires
-
-- Les dispositifs d’affichage électroniques ne satisfaisant pas aux exigences qui prennent effet le 1<sup>er</sup> mars 2023 ne peuvent plus être mis en circulation à compter de cette date. Ils peuvent être fournis jusqu’au 31 décembre 2023 au plus tard.
 
 Annexe 1.13[^t-11]
 
@@ -863,42 +841,37 @@ Annexe 1.18[^t-16]
 
 ## Exigences relatives à l’efficacité énergétique ainsi qu’à la mise en circulation et à la fourniture des dispositifs de chauffage décentralisés
 
-[^t-16]: Introduite par le ch. II al. 2 de l’O du 11 avr. 2018 ([RO 2018 1675](https://fedlex.data.admin.ch/eli/oc/2018/250)). Mise à jour par le ch. II al. 1 des O du 22 avr. 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)) et du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
+[^t-16]: Introduite par le ch. II al. 2 de l’O du 11 avr. 2018 ([RO 2018 1675](https://fedlex.data.admin.ch/eli/oc/2018/250)). Nouvelle teneur selon le ch. II al. 2 de l’O du 21 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 382](https://fedlex.data.admin.ch/eli/oc/2025/382)).
 
 ### 1 Champ d’application
 
-- 1\.1 La présente annexe s’applique aux dispositifs de chauffage décentralisés domestiques d’une puissance thermique nominale inférieure ou égale à 50 kW ainsi qu’aux dispositifs de chauffage décentralisés commerciaux d’une puissance calorifique nominale inférieure ou égale à 120 kW (pour tout le dispositif ou pour l’une de ses parties).
-- 1\.2 Elle ne s’applique pas aux dispositifs de chauffage décentralisés visés à l’art. 1, let. a à g, du règlement (UE) n<sup>o</sup> 2015/1188[^annex118-lvlu1-lvl1-1].
-- 1\.3 Les définitions figurant à l’art. 2 et à l’annexe I du règlement (UE) n<sup>o</sup> 2015/1188 sont applicables.
+- 1\.1 La présente annexe s’applique aux dispositifs de chauffage décentralisés domestiques d’une puissance thermique nominale inférieure ou égale à 50 kW ainsi qu’aux dispositifs de chauffage décentralisés commerciaux d’une puissance thermique nominale inférieure ou égale à 300 kW (pour tout le dispositif ou pour l’une de ses parties).
+- 1\.2 Elle ne s’applique pas aux dispositifs de chauffage décentralisés visés à l’art. 1, al. 2, du règlement (UE) 2024/1103[^annex118-lvlu1-lvl1-1].
+- 1\.3 Les définitions figurant à l’art. 2 et à l’annexe I du règlement (UE) 2024/1103 sont applicables.
 
-[^annex118-lvlu1-lvl1-1]: Règlement (UE) n<sup>o</sup> 2015/1188 de la Commission du 28 avril 2015 portant application de la directive 2009/125/CE du Parlement européen et du Conseil en ce qui concerne les exigences d’écoconception applicables aux dispositifs de chauffage décentralisés, JO L 193 du 21.7.2015, p. 76; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 2016/2282, JO L 346 du 20.12.2016, p. 51.
+[^annex118-lvlu1-lvl1-1]: Règlement (UE) 2024/1103 de la Commission du 18 avril 2024 portant application de la directive 2009/125/CE du Parlement européen et du Conseil en ce qui concerne les exigences d’écoconception applicables aux dispositifs de chauffage décentralisés et aux dispositifs de contrôle connexes indépendants, et abrogeant le règlement (UE) 2015/1188 de la Commission, version du JO L, 2024/1103, 19.4.2024.
 
 ### 2 Exigences applicables à la mise en circulation et à la fourniture
 
-- 2\.1 Les dispositifs de chauffage décentralisés visés au ch. 1 peuvent être mis en circulation ou fournis s’ils remplissent les exigences fixées à l’art. 3 et à l’annexe II du règlement (UE) 2015/1188.
-- 2\.2 À compter du 1<sup>er</sup> janvier 2024, les dispositifs de chauffage électriques décentralisés, à l’exception des dispositifs de chauffage décentralisés commerciaux visés au ch. 1, peuvent être mis en circulation ou fournis si leur efficacité énergétique saisonnière pour le chauffage des locaux déterminée selon l’annexe III du règlement (UE) 2015/1188 n’est pas inférieure à 39 %. Cette règle ne s’applique pas aux dispositifs de chauffage des bancs d’église.
+- 2\.1 Les dispositifs de chauffage décentralisés visés au ch. 1 peuvent être mis en circulation ou fournis s’ils remplissent les exigences fixées aux art. 3, 6 et 7 ainsi qu’à l’annexe II du règlement (UE) 2024/1103.
+- 2\.2 Les dispositifs de chauffage électriques décentralisés visés au ch. 1, à l’exception des sèche-serviettes et des dispositifs de chauffage des bancs d’église, peuvent être mis en circulation ou fournis si leur efficacité énergétique saisonnière pour le chauffage des locaux déterminée selon l’annexe III du règlement (UE) 2024/1103 n’est pas inférieure à 49,5 %.
+- 2\.3 Les dispositifs de chauffage électriques décentralisés à résistance lumineuse visés au ch. 1 peuvent être mis en circulation ou fournis si leur efficacité énergétique saisonnière pour le chauffage des locaux déterminée selon l’annexe III du règlement (UE) 2024/1103 n’est pas inférieure à 51,5 %.
 
 ### 3 Procédure d’évaluation de la conformité
 
-- 3\.1 Les caractéristiques des dispositifs de chauffage décentralisés visés au ch. 1 sont mesurées et calculées dans le cadre de l’évaluation de la conformité, sur la base des directives et des méthodes visées aux annexes II et III du règlement (UE) n<sup>o</sup> 2015/1188[^annex118-lvlu1-lvl3-1]; la documentation technique doit inclure les résultats des calculs et mesures.
-- 3\.2 Dans le cadre de la vérification de la conformité, l’organe de contrôle teste un dispositif de chauffage décentralisé sur la base des directives et des méthodes visées au ch. 3.1; les valeurs mesurées doivent satisfaire aux exigences prévues à l’annexe IV, ch. 2, du règlement (UE) n<sup>o</sup> 2015/1188.
-
-[^annex118-lvlu1-lvl3-1]: Voir note de bas de page ad ch. 1.2.
+- 3\.1 Les caractéristiques des dispositifs de chauffage décentralisés visés au ch. 1 sont mesurées et calculées dans le cadre de l’évaluation de la conformité, sur la base des directives et des méthodes visées aux annexes III et IV du règlement (UE) 2024/1103; la documentation technique doit inclure les résultats des calculs et mesures.
+- 3\.2 Dans le cadre de la vérification de la conformité, l’organe de contrôle teste un dispositif de chauffage décentralisé sur la base des directives et des méthodes visées au ch. 3.1; les valeurs mesurées doivent satisfaire aux exigences prévues à l’annexe V, pt. 3, du règlement (UE) 2024/1103.
 
 ### 4 Indication de la consommation d’énergie et marquage
 
 -
 
-  Dans le cas des dispositifs de chauffage décentralisés d’une puissance thermique nominale inférieure ou égale à 50 kW visés à l’art. 1 du règlement délégué (UE) n<sup>o</sup> 2015/1186[^annex118-lvlu1-lvl4-1], on applique ce qui suit:
+  Dans le cas des dispositifs de chauffage décentralisés d’une puissance thermique nominale inférieure ou égale à 50 kW visés à l’art. 1 du règlement délégué (UE) 2015/1186[^annex118-lvlu1-lvl4-1], on applique ce qui suit:
 
-  - a. à l’exception des emblèmes de l’UE, l’indication des caractéristiques énergétiques et le marquage doivent être conformes aux annexes II à VI et VIII du règlement délégué (UE) n<sup>o</sup> 2015/1186; si des emblèmes de l’UE ont été apposés, ils peuvent être conservés pour autant qu’ils soient conformes aux prescriptions de l’UE;
-  - b. les informations à fournir en cas de vente sur Internet doivent être conformes à l’annexe VII du règlement délégué (UE) n<sup>o</sup> 2015/1186.
+  - a. à l’exception des emblèmes de l’UE, l’indication des caractéristiques énergétiques et le marquage doivent être conformes aux annexes II à VI et VIII du règlement délégué (UE) 2015/1186; si des emblèmes de l’UE ont été apposés, ils peuvent être conservés pour autant qu’ils soient conformes aux prescriptions de l’UE;
+  - b. les informations à fournir en cas de vente sur Internet doivent être conformes à l’annexe VII du règlement délégué (UE) 2015/1186.
 
-[^annex118-lvlu1-lvl4-1]: Règlement délégué (UE) 2015/1186 de la Commission du 24 avril 2015 complétant la directive 2010/30/UE du Parlement européen et du Conseil en ce qui concerne l’étiquetage énergétique des dispositifs de chauffage décentralisés, JO L 193 du 21.7.2015, p. 20; modifié en dernier lieu par le règlement délégué (UE) n<sup>o</sup> 2017/254, JO L 38 du 15.2.2017, p. 1.
-
-### 5 Disposition transitoire
-
-- Les dispositifs de chauffage décentralisés électriques, à l’exception des dispositifs de chauffage décentralisés commerciaux visés au ch. 1, ne satisfaisant pas aux exigences qui prennent effet le 1<sup>er</sup> janvier 2024 ne peuvent plus être mis en circulation à compter de cette date. Ils peuvent être fournis jusqu’au 31 décembre 2024 au plus tard.
+[^annex118-lvlu1-lvl4-1]: Règlement délégué (UE) 2015/1186 de la Commission du 24 avril 2015 complétant la directive 2010/30/UE du Parlement européen et du Conseil en ce qui concerne l’étiquetage énergétique des dispositifs de chauffage décentralisés, JO L 193 du 21.7.2015, p. 20; modifié en dernier lieu par le règlement délégué (UE) 2017/254, version du JO L 38 du 15.2.2017, p. 1.
 
 Annexe 1.19[^t-17]
 
@@ -994,22 +967,22 @@ Annexe 1.21[^t-19]
 
 ## Exigences relatives à l’efficacité énergétique ainsi qu’à la mise en circulation et à la fourniture des appareils de réfrigération alimentés par le secteur et disposant d’une fonction de vente directe
 
-[^t-19]: Introduite par le ch. II al. 3 de l’O du 22 avr. 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Mise à jour par le ch. II de l’O du 24 nov. 2021 ([RO 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)) et le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 763](https://fedlex.data.admin.ch/eli/oc/2023/763)).
+[^t-19]: Introduite par le ch. II al. 3 de l’O du 22 avr. 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Mise à jour par le ch. II de l’O du 24 nov. 2021 ([RO 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)), le ch. I de l’O du 29 nov. 2023 ([RO 2023 763](https://fedlex.data.admin.ch/eli/oc/2023/763)) et le ch. II al. 1 de l’O du 21 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 382](https://fedlex.data.admin.ch/eli/oc/2025/382)).
 
 ### 1 Champ d’application
 
 - 1\.1 La présente annexe s’applique aux appareils de réfrigération alimentés par le secteur et disposant d’une fonction de vente directe visés à l’art. 1, al. 1, du règlement (UE) 2019/2024[^annex121-lvlu1-lvl1-1].
 - 1\.2 Elle ne s’applique pas aux appareils visés à l’art. 1, al. 2, du règlement (UE) 2019/2024.
-- 1\.3 Les appareils visés à l’art. 1, al. 3, du règlement (UE) 2019/2024 ne sont pas soumis aux exigences de l’annexe II, art. 1 et 3, let. k.
+- 1\.3 Les appareils visés à l’art. 1, al. 3, du règlement (UE) 2019/2024 ne sont pas soumis aux exigences de l’annexe II, pt. 1 et 3 k).
 - 1\.4 Les définitions figurant à l’art. 2 et à l’annexe I du règlement (UE) 2019/2024 sont applicables.
 
 [^annex121-lvlu1-lvl1-1]: Règlement (UE) 2019/2024 de la Commission du 1<sup>er</sup> octobre 2019 établissant les exigences d’écoconception pour les appareils de réfrigération disposant d’une fonction de vente directe en vertu de la directive 2009/125/CE du Parlement européen et du Conseil, JO L 315 du 5.12.2019, p. 313; modifié en dernier lieu par le règlement (UE) 2021/341, JO L 68 du 26.2.2021, p. 108.
 
 ### 2 Exigences applicables à la mise en circulation et à la fourniture
 
-- 2\.1 Les appareils de réfrigération disposant d’une fonction de vente directe visés au ch. 1, à l’exception des appareils de réfrigération de boissons, des armoires frigorifiques verticales ou mixtes de supermarché et des congélateurs verticaux ou mixtes de supermarché, peuvent être mis en circulation ou fournis s’ils satisfont aux exigences visées à l’art. 3 et à l’annexe II, ch. 1, let. a, 2, à l’exception de la let. d, et 3, à l’exception de la let. k, du règlement (UE) 2019/2024.
-- 2\.2 Les appareils de réfrigération de boissons, les armoires frigorifiques verticales ou mixtes de supermarché et les congélateurs verticaux ou mixtes de supermarché visés au ch. 1 peuvent être mis en circulation ou fournis s’ils satisfont aux exigences visées à l’art. 3 et à l’annexe II, ch. 1, let. b, 2, à l’exception de la let. d, et 3, à l’exception de la let. k, du règlement (UE) 2019/2024.
-- 2\.3 À compter du 1<sup>er</sup> septembre 2023, les appareils de réfrigération disposant d’une fonction de vente directe visés au ch. 1 peuvent être mis en circulation ou fournis s’ils satisfont aux exigences visées à l’art. 3 et à l’annexe II, ch. 1, let. b, 2, à l’exception de la let. d, et 3, à l’exception de la let. k, du règlement (UE) 2019/2024.
+- 2\.1 Les appareils de réfrigération disposant d’une fonction de vente directe visés au ch. 1, à l’exception des appareils de réfrigération de boissons, des armoires frigorifiques verticales ou mixtes de supermarché et des congélateurs verticaux ou mixtes de supermarché, peuvent être mis en circulation ou fournis s’ils satisfont aux exigences visées à l’art. 3 et à l’annexe II, pt. 1, let. a, 2 et 3, à l’exception du pt. 3 k), du règlement (UE) 2019/2024.
+- 2\.2 Les appareils de réfrigération de boissons, les armoires frigorifiques verticales ou mixtes de supermarché et les congélateurs verticaux ou mixtes de supermarché visés au ch. 1 peuvent être mis en circulation ou fournis s’ils satisfont aux exigences visées à l’art. 3 et à l’annexe II, pt. 1, let. b, 2 et 3, à l’exception du pt. 3 k), du règlement (UE) 2019/2024.
+- 2\.3 À compter du 1<sup>er</sup> septembre 2023, les appareils de réfrigération disposant d’une fonction de vente directe visés au ch. 1 peuvent être mis en circulation ou fournis s’ils satisfont aux exigences visées à l’art. 3 et à l’annexe II, pt. 1, let. b, 2 et 3, à l’exception du pt. 3 k), du règlement (UE) 2019/2024.
 - 2\.4 À compter du 1<sup>er</sup> septembre 2023, les appareils de réfrigération de boissons visés au ch. 1 peuvent être mis en circulation ou fournis s’ils satisfont aux exigences visées au ch. 2.2 et que leur indice d’efficacité énergétique (IEE) déterminé selon l’annexe III du règlement (UE) 2019/2024 est inférieur à 50.
 - 2\.5 À compter du 1<sup>er</sup> septembre 2023, les armoires frigorifiques verticales ou mixtes de supermarché ainsi que les congélateurs verticaux ou mixtes de supermarché visés au ch. 1 peuvent être mis en circulation ou fournis s’ils satisfont aux exigences visées au ch. 2.2 et que leur IEE déterminé selon l’annexe III du règlement (UE) 2019/2024 est inférieur à 65.
 
@@ -1025,11 +998,6 @@ Annexe 1.21[^t-19]
 - 4\.1 À l’exception des emblèmes de l’UE et du code QR, l’indication des caractéristiques énergétiques et le marquage doivent être conformes aux annexes I à IV et VI du règlement délégué (UE) 2019/2018. Si des emblèmes de l’UE et des codes QR ont été apposés conformément aux prescriptions de l’UE, ils peuvent être conservés.
 - 4\.2 Les prescriptions relatives aux informations devant être mentionnées dans les publicités visuelles, le matériel promotionnel technique utilisé dans la vente à distance et le télémarketing doivent être conformes à l’annexe VII du règlement délégué (UE) 2019/2018.
 - 4\.3 Les informations à fournir en cas de vente sur Internet doivent être conformes à l’annexe VIII du règlement délégué (UE) 2019/2018.
-
-### 5 Dispositions transitoires
-
-- 5\.1 Les appareils de réfrigération disposant d’une fonction de vente directe qui ne satisfont pas aux exigences prenant effet le 1<sup>er</sup> mars 2021 ne peuvent plus être mis en circulation à compter de cette date. Ils peuvent être fournis jusqu’au 31 décembre 2021 au plus tard.
-- 5\.2 Les appareils de réfrigération disposant d’une fonction de vente directe qui ne satisfont pas aux exigences prenant effet le 1<sup>er</sup> septembre 2023 ne peuvent plus être mis en circulation à compter de cette date. Ils peuvent être fournis jusqu’au 30 juin 2024 au plus tard.
 
 Annexe 1.22[^t-20]
 
@@ -1069,61 +1037,82 @@ Annexe 1.22[^t-20]
 
 - Les sources lumineuses ne satisfaisant pas aux exigences qui prennent effet le 1<sup>er</sup> septembre 2023 ne peuvent plus être mises en circulation à compter de cette date. Elles peuvent être fournies jusqu’au 31 août 2025 au plus tard.
 
-Annexe 2.1[^t-21]
+Annexe 1.23[^t-21]
 
 (art. 4, al. 1, 5, al. 1, 6, al. 1, 7, al. 1, et 8, al. 1)
 
-## Exigences relatives à l’efficacité énergétique en mode veille et en mode arrêt ainsi qu’à la mise en circulation et à la fourniture des équipements ménagers et de bureau électriques et électroniques alimentés par le secteur
+## Exigences relatives à l’efficacité énergétique ainsi qu’à la mise en circulation et à la fourniture des smartphones, des téléphones portables, des téléphones sans fil et des tablettes
 
-[^t-21]: Mise à jour par le ch. II al. 1 de l’O du 22 avr. 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)) et le ch. I de l’O du 24 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
+[^t-21]: Introduite par le ch. II al. 3 de l’O du 21 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 382](https://fedlex.data.admin.ch/eli/oc/2025/382)).
 
 ### 1 Champ d’application
 
-- 1\.1 La présente annexe s’applique, conformément à l’art. 1 du règlement (CE) n<sup>o</sup> 1275/2008[^annex21-lvlu1-lvl1-1], aux équipements ménagers et de bureau électriques et électroniques alimentés par le secteur.
-- 1\.2
+- 1\.1 La présente annexe s’applique aux smartphones, aux téléphones portables autres que des smartphones, aux téléphones sans fil et aux tablettes visés à l’art. 1, al. 1, du règlement (UE) 2023/1670[^annex123-lvlu1-lvl1-1].
+- 1\.2 Elle ne s’applique pas aux smartphones, aux téléphones portables autres que des smartphones, aux téléphones sans fil et aux tablettes visés à l’art. 1, al. 2, du règlement (UE) 2023/1670.
+- 1\.3 Les définitions figurant à l’art. 2 et à l’annexe I du règlement (UE) 2023/1670 sont applicables.
 
-  Elle ne s’applique pas:
-
-  - a. aux équipements de traitement de l’information qui ne font pas partie de la classe B définie par la norme EN 55022:2006[^annex21-lvlu1-lvl1-2];
-  - b. aux équipements de traitement de l’information qui sont conçus pour fonctionner avec une tension nominale de plus de 300 volts;
-  - c. aux équipements ménagers et de bureau électriques et électroniques qui sont mis en circulation avec une alimentation externe en énergie basse tension, avec une tension de sortie de moins de 6 volts et une intensité de courant de sortie d’au moins 550 milliampères;
-  - d. aux ordinateurs de bureau, aux ordinateurs de bureau intégrés et aux ordinateurs portables visés à l’art. 4 du règlement (UE) n<sup>o</sup> 617/2013[^annex21-lvlu1-lvl1-3].
-  - e. aux téléviseurs visés à l’art. 7 du règlement (CE) n<sup>o</sup> 642/2009[^annex21-lvlu1-lvl1-4].
-
-- 1\.3 Les définitions figurant à l’art. 2 et à l’annexe I du règlement (CE) n<sup>o</sup> 1275/2008 sont applicables.
-
-[^annex21-lvlu1-lvl1-1]: Règlement (CE) n<sup>o</sup> 1275/2008 de la Commission du 17 décembre 2008 portant application de la directive 2005/32/CE du Parlement européen et du Conseil en ce qui concerne les exigences d’écoconception relatives à la consommation d’électricité en mode veille, en mode arrêt et en veille avec maintien de la connexion au réseau des équipements ménagers et de bureau électriques et électroniques, JO L 339 du 18.12.2008, p. 45; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 2016/2282, JO L 346 du 20.12.2016, p. 51.
-[^annex21-lvlu1-lvl1-2]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, [www.snv.ch](http://www.snv.ch./).
-[^annex21-lvlu1-lvl1-3]: Règlement (UE) n<sup>o</sup> 617/2013 de la Commission du 26 juin 2013 portant application de la directive 2009/125/CE du Parlement européen et du Conseil en ce qui concerne les exigences d’écoconception applicables aux ordinateurs et aux serveurs informatiques, version du JO L 175 du 27.6.2013, p. 13; modifié par le règlement (UE) n<sup>o</sup> 2016/2282, JO L 346 du 20.12.2016, p. 51.
-[^annex21-lvlu1-lvl1-4]: Règlement (CE) n<sup>o</sup> 642/2009 de la Commission du 22 juillet 2009 mettant en œuvre la directive 2005/32/CE du Parlement européen et du Conseil en ce qui concerne les exigences relatives à l’écoconception des téléviseurs, JO L 191 du 23.7.2009, p. 42; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 2016/2282, JO L 346 du 20.12.2016, p. 51.
+[^annex123-lvlu1-lvl1-1]: Règlement (UE) 2023/1670 de la Commission du 16 juin 2023 établissant des exigences en matière d’écoconception applicables aux smartphones, aux téléphones portables autres que des smartphones, aux téléphones sans fil et aux tablettes conformément à la directive 2009/125/CE du Parlement européen et du Conseil et modifiant le règlement (UE) 2023/826 de la Commission, version du JO L 214 du 31.8.2023, p. 47.
 
 ### 2 Exigences applicables à la mise en circulation et à la fourniture
 
-- 2\.1 Les équipements ménagers et de bureau visés au ch. 1 peuvent être mis en circulation ou fournis s’ils remplissent les exigences fixées à l’annexe II du règlement (CE) n<sup>o</sup> 1275/2008[^annex21-lvlu1-lvl2-1].
-- 2\.2 …
-
-[^annex21-lvlu1-lvl2-1]: Voir note de bas de page ad ch. 1.1.
+- 2\.1 Les smartphones, les téléphones portables, les téléphones sans fil et les tablettes visés au ch. 1 peuvent être mis en circulation ou fournis s’ils satisfont aux exigences visées aux art. 3 et 6 ainsi qu’à l’annexe II du règlement (UE) 2023/1670.
 
 ### 3 Procédure d’évaluation de la conformité
 
-- 3\.1 Les caractéristiques énergétiques des équipements ménagers et de bureau visés au ch. 1 sont mesurées et calculées dans le cadre de l’évaluation de la conformité, sur la base des directives et des méthodes visées à l’annexe II du règlement (CE) n<sup>o</sup> 1275/2008[^annex21-lvlu1-lvl3-1]; la documentation technique doit inclure les résultats des calculs et mesures.
-- 3\.2 Dans le cadre de la vérification de la conformité, l’organe de contrôle teste un équipement ménager ou de bureau sur la base des directives et des méthodes visées au ch. 3.1; les valeurs mesurées doivent satisfaire aux exigences prévues à l’annexe III, ch. 1, al. 2, et 2 du règlement (CE) n<sup>o</sup> 1275/2008.
+- 3\.1 Les caractéristiques énergétiques des smartphones, des téléphones portables, des téléphones sans fil et des tablettes visés au ch. 1 sont mesurées et calculées dans le cadre de l’évaluation de la conformité, sur la base des directives et des méthodes visées aux annexes II à IIIa du règlement (UE) 2023/1670 et aux annexes II, IV et IVa du règlement délégué (UE) 2023/1669[^annex123-lvlu1-lvl3-1]; la documentation technique doit inclure les résultats des calculs et des mesures.
+- 3\.2 Dans le cadre de la vérification de la conformité, l’organe de contrôle teste un smartphone, un téléphone portable, un téléphone sans fil ou une tablette sur la base des directives et des méthodes visées au ch. 3.1; les valeurs mesurées doivent satisfaire aux exigences prévues à l’annexe IV, pt. 1 et 2, du règlement (UE) 2023/1670 ainsi qu’à l’annexe IX, pt. 1 et 2, du règlement délégué (UE) 2023/1669.
 
-[^annex21-lvlu1-lvl3-1]: Voir note de bas de page ad ch. 1.1.
+[^annex123-lvlu1-lvl3-1]: Règlement délégué (UE) 2023/1669 de la Commission du 16 juin 2023 complétant le règlement (UE) 2017/1369 du Parlement européen et du Conseil en ce qui concerne l’étiquetage énergétique des smartphones et des tablettes, version du JO L 214 du 31.8.2023, p. 9.
+
+### 4 Indication de la consommation d’énergie et marquage
+
+- 4\.1 À l’exception des emblèmes de l’UE et du code QR, l’indication des caractéristiques énergétiques et le marquage doivent être conformes aux annexes I à IVa et VI du règlement délégué (UE) 2023/1669, exception faite des prescriptions visant l’enregistrement de la fiche d’information sur le produit et de la documentation technique dans la base de données sur les produits de l’UE. Si des emblèmes de l’UE et des codes QR ont été apposés conformément aux prescriptions de l’UE, ils peuvent être conservés.
+- 4\.2 Les prescriptions relatives aux informations devant être mentionnées dans les publicités visuelles, le matériel promotionnel technique et la vente à distance doivent être conformes à l’annexe VII du règlement délégué (UE) 2023/1669.
+- 4\.3 Les informations à fournir en cas de vente sur Internet doivent être conformes à l’annexe VIII du règlement délégué (UE) 2023/1669.
+
+### 5 Dispositions transitoires
+
+- Les smartphones, les téléphones portables, les téléphones sans fil et les tablettes ne satisfaisant pas aux exigences qui prennent effet le 1<sup>er</sup> juillet 2025 ne peuvent plus être mis en circulation. Ils peuvent être fournis jusqu’au 30 juin 2026 au plus tard.
+
+Annexe 2.1[^t-22]
+
+(art. 4, al. 1, 5, al. 1, 6, al. 1, 7, al. 1, et 8, al. 1)
+
+## Exigences relatives à l’efficacité énergétique en mode arrêt, en mode veille et en veille avec maintien de la connexion au secteur ainsi qu’à la mise en circulation et à la fourniture des équipements ménagers et de bureau électriques et électroniques alimentés par le secteur
+
+[^t-22]: Nouvelle teneur selon le ch. II al. 2 de l’O du 21 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 382](https://fedlex.data.admin.ch/eli/oc/2025/382)).
+
+### 1 Champ d’application
+
+- 1\.1 La présente annexe s’applique, conformément à l’art. 1 et à l’annexe II du règlement (UE) 2023/826[^annex21-lvlu1-lvl1-1], aux équipements ménagers et de bureau électriques et électroniques alimentés par le secteur en mode arrêt, en mode veille et en veille avec maintien de la connexion au secteur.
+- 1\.2 Les définitions figurant à l’art. 2 et à l’annexe I du règlement (UE) 2023/826 sont applicables.
+
+[^annex21-lvlu1-lvl1-1]: Règlement (UE) 2023/826 de la Commission du 17 avril 2023 établissant les exigences d’écoconception relatives à la consommation d’énergie en mode arrêt, en mode veille et en veille avec maintien de la connexion au réseau des équipements ménagers et de bureau électriques et électroniques, selon la directive 2009/125/CE du Parlement européen et du conseil et abrogeant le règlement (CE) n<sup>o</sup> 1275/2008 et (CE) n<sup>o</sup> 107/2009 de la Commission, JO L 103 du 18.4.2023, p. 29; modifié en dernier lieu par le règlement (UE) 2023/2533, JO L, 2023/2533, 22.11.2023.
+
+### 2 Exigences applicables à la mise en circulation et à la fourniture
+
+- Les équipements ménagers et de bureau visés au ch. 1 peuvent être mis en circulation ou fournis s’ils remplissent les exigences fixées aux art. 3 et 6 ainsi qu’à l’annexe III, pt. 1 et 2, du règlement (UE) 2023/826.
+
+### 3 Procédure d’évaluation de la conformité
+
+- 3\.1 Les caractéristiques énergétiques des équipements ménagers et de bureau visés au ch. 1 sont mesurées et calculées dans le cadre de l’évaluation de la conformité, sur la base des directives et des méthodes visées à l’annexe IV du règlement (UE) 2023/826; la documentation technique doit inclure les résultats des calculs et mesures.
+- 3\.2 Dans le cadre de la vérification de la conformité, l’organe de contrôle teste un équipement ménager ou de bureau sur la base des directives et des méthodes visées au ch. 3.1; les valeurs mesurées doivent satisfaire aux exigences prévues à l’annexe V, pt. 2, du règlement (UE) 2023/826.
 
 ### 4 Indication de la consommation d’énergie
 
-- Les équipements ménagers et de bureau de réseau, c’est-à-dire qui peuvent se connecter à un réseau et disposent d’un ou plusieurs ports réseau, doivent remplir les exigences en matière d’information sur les produits énoncés à l’annexe II, ch. 7, du règlement (CE) n<sup>o</sup> 1275/2008[^annex21-lvlu1-lvl4-1].
+- Les équipements ménagers et de bureau visés au ch. 1 doivent remplir les exigences en matière d’information sur les produits énoncés à l’annexe III, pt. 3, du règlement (UE) 2023/826.
 
-[^annex21-lvlu1-lvl4-1]: Voir note de bas de page ad ch. 1.1.
+### 5 Dispositions transitoires
 
-Annexe 2.2[^t-22]
+- Les appareils visés au ch. 1 ne satisfaisant pas aux exigences qui prennent effet le 1<sup>er</sup> juillet 2025 ne peuvent plus être mis en circulation. Ils peuvent être fournis jusqu’au 30 juin 2026 au plus tard.
+
+Annexe 2.2[^t-23]
 
 (art. 4, al. 1, 5, al. 1, 6, al. 1, 7, al. 1, et 8, al. 1)
 
 ## Exigences relatives à l’efficacité énergétique ainsi qu’à la mise en circulation et à la fourniture des sources d’alimentation externe alimentées par le secteur
 
-[^t-22]: Nouvelle teneur selon le ch. II al. 2 de l’O du 22 avr. 2020, en vigueur depuis le 15 mai 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-23]: Nouvelle teneur selon le ch. II al. 2 de l’O du 22 avr. 2020, en vigueur depuis le 15 mai 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Champ d’application
 
@@ -1150,13 +1139,13 @@ Annexe 2.2[^t-22]
 
 - À compter du 31 décembre 2020, les sources d’alimentation qui ne satisfont pas aux exigences applicables ne peuvent plus être mises en circulation. Elles peuvent être fournies jusqu’au 31 décembre 2021 au plus tard.
 
-Annexe 2.3[^t-23]
+Annexe 2.3[^t-24]
 
 (art. 4, al. 1, 5, al. 1, 6, al. 1, 7, al. 1, et 8, al. 1)
 
 ## Exigences relatives à l’efficacité énergétique ainsi qu’à la mise en circulation et à la fourniture des ordinateurs
 
-[^t-23]: Nouvelle teneur selon le ch. II al. 2 de l’O du 22 avr. 2020, en vigueur depuis le 15 mai 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-24]: Nouvelle teneur selon le ch. II al. 2 de l’O du 22 avr. 2020, en vigueur depuis le 15 mai 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Champ d’application
 
@@ -1179,54 +1168,17 @@ Annexe 2.3[^t-23]
 
 - L’indication des caractéristiques énergétiques et les autres informations relatives au produit doivent être conformes à l’annexe II, ch. 7, du règlement (UE) n<sup>o</sup> 617/2013.
 
-Annexe 2.4
+Annexe 2.4[^t-25]
 
-(art. 4, al. 1, 5, al. 1, 6, al. 1, 7, al. 1, et 8, al. 1)
+[^t-25]: Abrogée par le ch. II al. 4 de l’O du 21 mai 2025, avec effet au 1<sup>er</sup> juil. 2025 ([RO 2025 382](https://fedlex.data.admin.ch/eli/oc/2025/382)).
 
-## Exigences relatives à l’efficacité énergétique ainsi qu’à la mise en circulation et à la fourniture des décodeurs (set-top-box) alimentés par le secteur
-
-### 1 Champ d’application
-
--
-
-  La présente annexe s’applique aux appareils électriques alimentés par le secteur utilisés pour la réception, le décodage et l’enregistrement d’émissions de radio et de télévision, ainsi qu’aux processus interactifs et services analogues. Il s’agit des appareils suivants:
-
-  - a. décodeurs (set-top-box) complexes visés aux annexes B et F du *Voluntary Industry Agreement to improve the energy consumption of Complex Set Top Boxes within the EU* (version 3.1) du 19 juin 2013[^annex24-lvlu1-lvl1-1];
-  - b. décodeurs simples (simple set-top-box), selon les art. 1 et 2 du règlement (CE) n<sup>o</sup> 107/2009[^annex24-lvlu1-lvl1-2].
-
-[^annex24-lvlu1-lvl1-1]: Le *Voluntary Industry Agreement* peut être téléchargé gratuitement sur le site Internet de l’OFEN: [www.bfe.admin.ch](http://www.bfe.admin.ch) &gt; Accueil &gt; Thèmes &gt; Efficacité énergétique &gt; Appareils électriques &gt; Appareils électroniques &gt; Electronique de loisir.
-[^annex24-lvlu1-lvl1-2]: Règlement (CE) n<sup>o</sup> 107/2009 de la Commission du 4 février 2009 portant application de la directive 2005/32 CE du Parlement européen et du Conseil concernant les exigences relatives à l’écoconception des décodeurs simples, version du JO L 36 du 5.2.2009, p. 8; modifié par le règlement (UE) n<sup>o</sup> 2016/2282, JO L 346 du 20.12.2016, p. 51.
-
-### 2 Exigences applicables à la mise en circulation et à la fourniture
-
-- 2\.1 Les décodeurs visés au ch. 1, let. a, peuvent être mis en circulation ou fournis s’ils satisfont aux exigences du *Voluntary Industry Agreement to improve the energy consumption of Complex Set Top Boxes within the EU* (version 3.1) du 19 juin 2013[^annex24-lvlu1-lvl2-1].
-- 2\.2 Les décodeurs visés au ch. 1, let. a, doivent en outre satisfaire aux exigences relatives à l’efficacité énergétique en mode veille et en mode arrêt définies dans l’annexe 2.1 de la présente ordonnance.
-- 2\.3 Les décodeurs visés au ch. 1, let. b, peuvent être mis en circulation ou fournis s’ils satisfont aux exigences de l’annexe I, ch. 2 à 4 et 7, du règlement (CE) n<sup>o</sup> 107/2009[^annex24-lvlu1-lvl2-2].
-
-[^annex24-lvlu1-lvl2-1]: Voir note de bas de page ad ch. 1, let. a.
-[^annex24-lvlu1-lvl2-2]: Voir note de bas de page ad ch. 1, let. b.
-
-### 3 Procédure d’évaluation de la conformité
-
-- 3\.1 Les caractéristiques énergétiques des décodeurs visés au ch. 1, let. a, sont mesurées et calculées dans le cadre de l’évaluation de la conformité, sur la base des directives et des méthodes visées aux annexes C et E du *Voluntary Industry Agreement to improve the energy consumption of Complex Set Top Boxes within the EU* (version 3.1) du 19 juin 2013[^annex24-lvlu1-lvl3-1]; la documentation technique doit inclure les résultats des calculs et mesures.
-- 3\.2 Les caractéristiques énergétiques des décodeurs visés au ch. 1, let. b, sont mesurées et calculées dans le cadre de l’évaluation de la conformité, sur la base des directives et des méthodes visées à l’annexe I du règlement (CE) n<sup>o</sup> 107/2009[^annex24-lvlu1-lvl3-2]; la documentation technique doit inclure les résultats des calculs et mesures.
-- 3\.3 Dans le cadre de la vérification de la conformité des décodeurs visés au ch. 1, let. a, l’organe de contrôle teste un décodeur sur la base des directives et des méthodes visées aux ch. 3.1; les valeurs mesurées ne doivent pas dépasser les valeurs prescrites par le *Voluntary Industry Agreement to improve the energy consumption of Complex Set Top Boxes within the EU* (version 3.1) du 19 juin 2013.
-- 3\.4 Dans le cadre de la vérification de la conformité des décodeurs visés au ch. 1, let. b, l’organe de contrôle teste un décodeur sur la base des directives et des méthodes visées au ch. 3.2; les valeurs mesurées doivent satisfaire aux exigences prévues à l’annexe II du règlement (CE) n<sup>o</sup> 107/2009.
-
-[^annex24-lvlu1-lvl3-1]: Voir note de bas de page ad ch. 1, let. a.
-[^annex24-lvlu1-lvl3-2]: Voir note de bas de page ad ch. 1, let. b.
-
-### 4 Indication de la consommation d’énergie
-
-- Quiconque met en circulation ou fournit les décodeurs visés au ch. 1, let. a, doit veiller à ce que la consommation d’énergie dans le mode actif (P<sub>on</sub> en W) et dans les modes standby préinstallés (P<sub>standby</sub> et P<sub>APD</sub> en W) ainsi que la consommation annuelle totale d’énergie (TEC en kWh) puissent être librement consultées sur son site Internet.
-
-Annexe 2.5[^t-24]
+Annexe 2.5[^t-26]
 
 (art. 4, al. 1, 5, al. 1, 6, al. 1, 7, al. 1, et 8, al. 1)
 
 ## Exigences relatives à l’efficacité énergétique ainsi qu’à la mise en circulation et à la fourniture des plaques de cuisson domestiques alimentées par le secteur
 
-[^t-24]: Mise à jour par le ch. II al. 1 de l’O du 22 avr. 2020, en vigueur depuis le 15 mai 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-26]: Mise à jour par le ch. II al. 1 de l’O du 22 avr. 2020, en vigueur depuis le 15 mai 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Champ d’application
 
@@ -1289,13 +1241,13 @@ Annexe 2.6
 
 [^annex26-lvlu1-lvl4-1]: Voir note de bas de page ad ch. 1.2.
 
-Annexe 2.7[^t-25]
+Annexe 2.7[^t-27]
 
 (art. 4, al. 1, 5, al. 1, 6, al. 1, 7, al. 1, et 8, al. 1)
 
 ## Exigences relatives à l’efficacité énergétique ainsi qu’à la mise en circulation et à la fourniture des moteurs et des convertisseurs de fréquence
 
-[^t-25]: Nouvelle teneur selon le ch. II al. 2 de l’O du 22 avr. 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Mise à jour par le ch. II al. 1 de l’O du 24 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
+[^t-27]: Nouvelle teneur selon le ch. II al. 2 de l’O du 22 avr. 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Mise à jour par le ch. II al. 1 de l’O du 24 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
 
 ### 1 Champ d’application
 
@@ -1325,13 +1277,13 @@ Annexe 2.7[^t-25]
 - 5\.1 Les moteurs et les convertisseurs de fréquence qui ne satisfont pas aux exigences applicables ne peuvent plus être mis en circulation. Ils peuvent être fournis jusqu’au 30 juin 2022 au plus tard.
 - 5\.2 Les moteurs ne satisfaisant pas aux exigences qui prennent effet le 1<sup>er</sup> juillet 2023 ne peuvent plus être mis en circulation à compter de cette date. Ils peuvent être fournis jusqu’au 30 juin 2024 au plus tard.
 
-Annexe 2.8[^t-26]
+Annexe 2.8[^t-28]
 
 (art. 4, al. 1, 5, al. 1, 6, al. 1, 7, al. 1, et 8, al. 1)
 
 ## Exigences relatives à l’efficacité énergétique ainsi qu’à la mise en circulation et à la fourniture des circulateurs sans presse-étoupe
 
-[^t-26]: Mise à jour par le ch. II al. 1 de l’O du 22 avr. 2020, en vigueur depuis le 15 mai 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-28]: Mise à jour par le ch. II al. 1 de l’O du 22 avr. 2020, en vigueur depuis le 15 mai 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Champ d’application
 
@@ -1393,13 +1345,13 @@ Annexe 2.9
 
 [^annex29-lvlu1-lvl4-1]: Voir note de bas de page ad ch. 1.2.
 
-Annexe 2.10[^t-27]
+Annexe 2.10[^t-29]
 
 (art. 4, al. 1, 5, al. 1, 6, al. 1, 7, al. 1, et 8, al. 1)
 
 ## Exigences relatives à l’efficacité énergétique et à la mise en circulation et à la fourniture des transformateurs
 
-[^t-27]: Mise à jour par le ch. II al. 1 de l’O du 22 avr. 2020, en vigueur depuis le 15 mai 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-29]: Mise à jour par le ch. II al. 1 de l’O du 22 avr. 2020, en vigueur depuis le 15 mai 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Champ d’application
 
@@ -1437,13 +1389,13 @@ Annexe 2.10[^t-27]
 
 [^annex210-lvlu1-lvl5-1]: Voir note de bas de page ad ch. 1.2.
 
-Annexe 2.11[^t-28]
+Annexe 2.11[^t-30]
 
 (art. 4, al. 1, 5, al. 1, 6, al. 1, 7, al. 1, et 8, al. 1)
 
 ## Exigences relatives à l’efficacité énergétique et à la mise en circulation et à la fourniture des appareils de chauffage à air, des appareils de refroidissement, des refroidisseurs industriels haute température et des ventilo-convecteurs
 
-[^t-28]: Introduite par le ch. II al. 3 de l’O du 22 avr. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-30]: Introduite par le ch. II al. 3 de l’O du 22 avr. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Champ d’application
 
@@ -1470,13 +1422,13 @@ Annexe 2.11[^t-28]
 
 - 5\.1 Les appareils de chauffage à air, les appareils de refroidissement, les refroidisseurs industriels haute température et les ventilo-convecteurs qui ne satisfont pas aux exigences applicables ne peuvent plus être mis en circulation. Ils peuvent être fournis jusqu’au 31 décembre 2021 au plus tard.
 
-Annexe 2.12[^t-29]
+Annexe 2.12[^t-31]
 
 (art. 4, al. 1, 5, al. 1, 6, al. 1, 7, al. 1, et 8, al. 1)
 
 ## Exigences relatives à l’efficacité énergétique et à la mise en circulation et à la fourniture des serveurs et des produits de stockage de données
 
-[^t-29]: Introduite par le ch. II al. 3 de l’O du 22 avr. 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Mise à jour par le ch. II de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)).
+[^t-31]: Introduite par le ch. II al. 3 de l’O du 22 avr. 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Mise à jour par le ch. II de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)).
 
 ### 1 Champ d’application
 
@@ -1507,13 +1459,13 @@ Annexe 2.12[^t-29]
 - 5\.2 Les serveurs et les produits de stockage de données en ligne ne satisfaisant pas aux exigences qui prennent effet le 1<sup>er</sup> mars 2021 ne peuvent plus être mis en circulation à compter de cette date. Ils peuvent être fournis jusqu’au 31 décembre 2021 au plus tard.
 - 5\.3 Les serveurs et les produits de stockage de données en ligne ne satisfaisant pas aux exigences qui prennent effet le 1<sup>er</sup> janvier 2023 ne peuvent plus être mis en circulation à compter de cette date. Ils peuvent être fournis jusqu’au 31 décembre 2023 au plus tard.
 
-Annexe 2.13[^t-30]
+Annexe 2.13[^t-32]
 
 (art. 4, al. 1, 5, al. 1, 6, al. 1, 7, al. 1, et 8, al. 1)
 
 ## Exigences relatives à l’efficacité énergétique et à la mise en circulation et à la fourniture du matériel de soudage
 
-[^t-30]: Introduite par le ch. II al. 3 de l’O du 22 avr. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-32]: Introduite par le ch. II al. 3 de l’O du 22 avr. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Champ d’application
 
@@ -1542,13 +1494,13 @@ Annexe 2.13[^t-30]
 - 5\.1 Le matériel de soudage qui ne satisfait pas aux exigences applicables ne peut plus être mis en circulation. Il peut être fourni jusqu’au 31 décembre 2021 au plus tard.
 - 5\.2 Le matériel de soudage ne satisfaisant pas aux exigences qui prennent effet le 1<sup>er</sup> janvier 2023 ne peut plus être mis en circulation à compter de cette date. Il peut être fourni jusqu’au 31 décembre 2023 au plus tard.
 
-Annexe 2.14[^t-31]
+Annexe 2.14[^t-33]
 
 (art. 4, al. 1, 5, al. 1, 6, al. 1, 7, al. 1, et 8, al. 1)
 
 ## Exigences relatives à l’efficacité énergétique ainsi qu’à la mise en circulation et à la fourniture des plaques de cuisson professionnelles, des fours professionnels à gratin ou de maintien au chaud ouverts, diffusant une chaleur supérieure intense (salamandres) et des friteuses professionnelles alimentés par le secteur
 
-[^t-31]: Introduite par le ch. II al. 2 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
+[^t-33]: Introduite par le ch. II al. 2 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
 
 ### 1 Champ d’application
 
@@ -1575,13 +1527,13 @@ Annexe 2.14[^t-31]
 
 - Les appareils de cuisine professionnels alimentés par le secteur ne satisfaisant pas aux exigences qui prennent effet le 1<sup>er</sup> janvier 2024 ne peuvent plus être mis en circulation à compter de cette date. Ils peuvent être fournis jusqu’au 31 décembre 2024 au plus tard.
 
-Annexe 2.15[^t-32]
+Annexe 2.15[^t-34]
 
 (art. 4, al. 1, 5, al. 1, 6, al. 1, 7, al. 1, et 8, al. 1)
 
 ## Exigences relatives à l’efficacité énergétique ainsi qu’à la mise en circulation et à la fourniture des lave-vaisselle professionnels alimentés par le secteur
 
-[^t-32]: Introduite par le ch. II al. 2 de l’O du 24 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
+[^t-34]: Introduite par le ch. II al. 2 de l’O du 24 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
 
 ### 1 Champ d’application
 
@@ -1626,17 +1578,17 @@ Annexe 2.15[^t-32]
 
 - Les lave-vaisselle professionnels alimentés par le secteur ne satisfaisant pas aux exigences qui prennent effet le 1<sup>er</sup> janvier 2024 ne peuvent plus être mis en circulation à compter de cette date. Ils peuvent être fournis jusqu’au 31 décembre 2024 au plus tard.
 
-Annexe 3.1[^t-33]
+Annexe 3.1[^t-35]
 
-[^t-33]: Abrogée par le ch. II al. 4 de l’O du 22 avr. 2020, avec effet au 1<sup>er</sup> sept. 2021 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-35]: Abrogée par le ch. II al. 4 de l’O du 22 avr. 2020, avec effet au 1<sup>er</sup> sept. 2021 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
-Annexe 3.2[^t-34]
+Annexe 3.2[^t-36]
 
 (art. 5, al. 1, 6, al. 1, 7, al. 1, et 8, al. 1)
 
 ## Indication de la consommation d’énergie et des autres caractéristiques des machines à café domestiques alimentées par le secteur
 
-[^t-34]: Mise à jour par le ch. II al. 1 des O du 22 avr. 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)), du 23 nov. 2022 ([RO 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)) et le ch. I de l’O du 24 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
+[^t-36]: Mise à jour par le ch. II al. 1 des O du 22 avr. 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)), du 23 nov. 2022 ([RO 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)) et le ch. I de l’O du 24 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
 
 ### 1 Champ d’application
 
@@ -1654,7 +1606,7 @@ Annexe 3.2[^t-34]
 
 - 3\.1 L’étiquette-énergie doit avoir au minimum 60 mm de largeur et 120 mm de hauteur. Si elle est imprimée dans un format plus grand, les proportions doivent être conservées. L’étiquette-énergie a un fond blanc.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20250101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20250701/fr/xml/image/image1.png)
 
 - A) Trait de l’encadré: 3 pt – angles arrondis 2 mm – X-00-00-00
 - B) Logo de la Suisse: 8 mm de large, 8 mm de haut – coins arrondis 2 mm – 00-X-X-00
@@ -1691,15 +1643,15 @@ Annexe 3.2[^t-34]
 - 3\.4 Pour la vente sur Internet, l’étiquette-énergie peut être affichée sous forme imbriquée, auquel cas l’image utilisée pour accéder à l’étiquette-énergie doit être conforme aux spécifications énoncées au ch. 3.5. Elle doit s’afficher en intégralité au premier clic ou au passage de la souris sur l’image du produit.
 - 3\.5 L’image utilisée pour accéder à l’étiquette-énergie en cas d’affichage imbriqué pour la vente sur Internet doit être une flèche de la couleur correspondant à la classe d’efficacité énergétique du produit telle qu’elle figure sur l’étiquette-énergie. La flèche doit indiquer la classe d’efficacité énergétique du produit, en blanc, dans une taille de caractères équivalente à celle du prix, et se présenter dans un des deux formats suivants:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20250101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20250701/fr/xml/image/image2.png)
 
-Annexe 4.1[^t-35]
+Annexe 4.1[^t-37]
 
 (art. 10, 11 et 12)
 
 ## Indication sur la consommation d’énergie et sur d’autres caractéristiques des voitures de tourisme, des voitures de livraison et des tracteurs à sellette légers
 
-[^t-35]: Nouvelle teneur selon le ch. II de l’O du 23 oct. 2019 ([RO 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)). Mise à jour par le ch. III de l’O du 25 nov. 2020 ([RO 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), le ch. II de l’O du 3 juin 2022 ([RO 2022 356](https://fedlex.data.admin.ch/eli/oc/2022/356)), le ch. II al. 1 de l’O du 23 nov. 2022 ([RO 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)) et le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 703](https://fedlex.data.admin.ch/eli/oc/2024/703)).
+[^t-37]: Nouvelle teneur selon le ch. II de l’O du 23 oct. 2019 ([RO 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)). Mise à jour par le ch. III de l’O du 25 nov. 2020 ([RO 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), le ch. II de l’O du 3 juin 2022 ([RO 2022 356](https://fedlex.data.admin.ch/eli/oc/2022/356)), le ch. II al. 1 de l’O du 23 nov. 2022 ([RO 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)) et le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 703](https://fedlex.data.admin.ch/eli/oc/2024/703)).
 
 ### 1 Dispositions relatives à la consommation d’énergie
 
@@ -1707,7 +1659,7 @@ Annexe 4.1[^t-35]
 - 1\.2 Si les véhicules ne roulent pas à l’essence, la consommation d’énergie doit également être indiquée en équivalent essence aux 100 km.
 - 1\.3 S’il n’existe ni réception par type suisse ni fiche de données suisse ni certificat de conformité pour un véhicule, il est possible d’utiliser des valeurs provisoires. Ces valeurs doivent être désignées comme provisoires et être remplacées sans tarder dès qu’une réception par type, une fiche de données suisse ou un certificat de conformité est disponible.
 
-[^annex41-lvlu1-lvl1-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^annex41-lvlu1-lvl1-1]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 ### 2 Dispositions relatives aux émissions de CO<sub>2</sub>
 
@@ -1723,7 +1675,7 @@ Annexe 4.1[^t-35]
 - 3\.3.1 La limite entre les catégories B et C est définie sur la base de l’équivalent essence d’énergie primaire correspondant à la valeur cible fixée à l’art. 10, al. 1, let. a, de la loi du 23 décembre 2011 sur le CO<sub>2</sub>[^annex41-lvlu1-lvl3-1].
 - 3\.3.2 Les limites restantes entre les catégories sont définies de manière à ce que l’écart entre une limite de catégorie et la limite de catégorie qui la précède ou la suit représente 20 % de l’équivalent essence d’énergie primaire correspondant à la valeur cible.
 
-[^annex41-lvlu1-lvl3-1]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^annex41-lvlu1-lvl3-1]: [RS 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
 
 ### 4 Marquage dans les points de vente et les expositions
 
@@ -1795,19 +1747,19 @@ On entend par types de véhicules actuels au sens du ch. 3.3 pour 2020 les voitu
 
 ### 10 Exemple de présentation d’une étiquette-énergie
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20250101/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20250701/fr/xml/image/image3.png)
 
 ### 11 Exemple de présentation de l’échelle des catégories d’efficacité énergétique
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20250101/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20250701/fr/xml/image/image4.png)
 
-Annexe 4.2[^t-36]
+Annexe 4.2[^t-38]
 
 (art. 13)
 
 ## Indication de la classe d’efficacité en carburant et d’autres caractéristiques des pneumatiques
 
-[^t-36]: Nouvelle teneur selon le ch. II al. 2 de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2020 6125](https://fedlex.data.admin.ch/eli/oc/2020/1012)).
+[^t-38]: Nouvelle teneur selon le ch. II al. 2 de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2020 6125](https://fedlex.data.admin.ch/eli/oc/2020/1012)).
 
 ### 1 Champ d’application
 
