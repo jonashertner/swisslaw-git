@@ -4,11 +4,11 @@ title: Ordinanza del DFI del 16 dicembre 2016 sulle derrate alimentari destinate
 short: ODPPE
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/180"
 language: it
-version: 2024-02-01
+version: 2025-07-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/180/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2017-180-20240201-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20240201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/180/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2017-180-20250701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20250701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20240201/it"
 
 (ODPPE)
 
-del 16 dicembre 2016 (Stato 1° febbraio 2024)
+del 16 dicembre 2016 (Stato 1° luglio 2025)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -48,8 +48,8 @@ Le derrate alimentari per persone con particolari esigenze nutrizionali sono cla
 - e.[^2-2] alimenti per il controllo del peso;
 - f. alimenti per sportivi.
 
-[^2-1]: Nuova espr. giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^2-2]: Nuovo testo giusta il n. I dell’O del DFI del 9 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)).
+[^2-1]: Nuova espr. giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^2-2]: Nuovo testo giusta la cifra I dell’O del DFI del 9 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)).
 
 #### Art. 3
 
@@ -82,7 +82,7 @@ Alle derrate alimentari di cui all’articolo 2 lettere a–e possono essere agg
 
 [^3-1]: [RS 817.022.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9680)
 [^3-2]: [RS 817.022.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9684)
-[^3-3]: Introdotto dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^3-3]: Introdotto dalla cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
 
 #### Art. 4
 
@@ -130,7 +130,7 @@ Agli alimenti per lattanti sono applicabili i seguenti requisiti:
   - 1\. se possono essere utilizzati anche come additivi, i criteri di purezza di cui all’allegato 4 dell’ordinanza del 25 novembre 2013[^6-2] sugli additivi (OAdd),
   - 2\. se non possono essere utilizzati come additivi oppure se i criteri di purezza di cui all’allegato 4 OAdd non sono applicabili, i criteri di purezza riconosciuti da organismi internazionali.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
 [^6-2]: [RS 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
 
 #### Art. 7
@@ -265,7 +265,7 @@ Agli alimenti di proseguimento si applicano i seguenti requisiti:
   - 1\. se possono essere utilizzati anche come additivi: i criteri di purezza di cui all’allegato 4 OAdd[^13-2],
   - 2\. se non possono essere utilizzati come additivi oppure se i criteri di purezza di cui all’allegato 4 OAdd non sono applicabili: i criteri di purezza riconosciuti da organismi internazionali.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
 [^13-2]: [RS 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
 
 #### Art. 14
@@ -436,7 +436,7 @@ Oltre alle indicazioni di cui all’articolo 4, l’etichetta deve recare le seg
 
 <sup>2</sup> Nel quadro della caratterizzazione del valore nutritivo delle vitamine e dei sali minerali di cui all’allegato 4 in riferimento agli alimenti destinati ai lattanti, oltre ai dati indicati conformemente al capoverso 1 è possibile esprimere questi valori in parte percentuale del valore di riferimento. L’indicazione percentuale è consentita soltanto se in 100 g o 100 ml del prodotto disponibile in commercio ed eventualmente per ogni porzione stabilita del prodotto è contenuto almeno il 15 per cento del valore di riferimento di cui all’allegato 4.
 
-[^21-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^21-1]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
 
 ### Sezione 4: Disposizioni comuni sui residui di prodotti fitosanitari e sui valori massimi in alimenti per lattanti, alimenti di proseguimento, alimenti a base di cereali e altre pappe di complemento per lattanti e bambini nella prima infanzia
 
@@ -454,7 +454,7 @@ Oltre alle indicazioni di cui all’articolo 4, l’etichetta deve recare le seg
 
 [^chap2-sec5-1]
 
-[^chap2-sec5-1]: Introdotta dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^chap2-sec5-1]: Introdotta dalla cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
 
 #### Art. 22a
 
@@ -557,7 +557,7 @@ Possono inoltre figurare le seguenti indicazioni:
 
 <sup>4</sup> Le indicazioni di cui ai capoversi 2 lettere a e b e 3 lettere a e b devono essere precedute dall’espressione «Avvertenza importante» o da un’espressione equivalente.
 
-[^28-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^28-1]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
 
 #### Art. 29
 
@@ -592,7 +592,7 @@ Oltre agli articoli 28 e 29, agli alimenti a fini medici speciali sviluppati per
 - b.[^30-1] non sono ammesse immagini di lattanti o altre immagini o diciture che possano idealizzare l’uso del prodotto;
 - c. la caratterizzazione deve garantire che tali prodotti siano chiaramente distinguibili dagli alimenti per lattanti e di proseguimento e deve escludere qualsiasi rischio di confusione, in particolare per quanto riguarda il testo, le immagini e i colori utilizzati.
 
-[^30-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^30-1]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
 
 #### Art. 31
 
@@ -608,14 +608,14 @@ Oltre agli articoli 28 e 29, agli alimenti a fini medici speciali sviluppati per
 
 [^chap4-1][^chap4-2]
 
-[^chap4-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
-[^chap4-2]: Nuovo testo giusta il n. I dell’O del DFI del 9 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)).
+[^chap4-1]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^chap4-2]: Nuovo testo giusta la cifra I dell’O del DFI del 9 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)).
 
 ### Sezione 1: Sostituti dell’intera razione alimentare giornaliera per il controllo del peso
 
 [^chap4-sec1-1]
 
-[^chap4-sec1-1]: Introdotto dal n. I dell’O del DFI del 9 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)).
+[^chap4-sec1-1]: Introdotto dalla cifra I dell’O del DFI del 9 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)).
 
 #### Art. 32
 
@@ -710,7 +710,7 @@ Oltre alle informazioni di cui all’articolo 23 capoverso 1 OID, il contenuto d
 
 [^chap4-sec2-1]
 
-[^chap4-sec2-1]: Introdotta dal n. I dell’O del DFI del 9 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)).
+[^chap4-sec2-1]: Introdotta dalla cifra I dell’O del DFI del 9 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)).
 
 #### Art. 35c
 
@@ -819,9 +819,9 @@ Per le derrate alimentari di cui all’articolo 37 lettera b, nel caso si faccia
 
 [^40-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 [^40-2]: www.the-icsp.org
-[^40-3]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
-[^40-4]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
-[^40-5]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^40-3]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^40-4]: Introdotto dalla cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^40-5]: Introdotto dalla cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
 
 ## Capitolo 6: Adeguamento degli allegati
 
@@ -855,7 +855,15 @@ L’ordinanza del DFI del 23 novembre 2005[^42-1] sugli alimenti speciali è abr
 
 Le derrate alimentari destinate alle persone con particolari esigenze nutrizionali che non risultano conformi alla modifica dell’8 dicembre 2023 della presente ordinanza possono essere ancora fabbricate, importate e caratterizzate secondo il diritto anteriore sino al 31 gennaio 2025. Esse possono essere consegnate ai consumatori secondo il diritto anteriore fino a esaurimento delle scorte.
 
-[^43a-1]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^43a-1]: Introdotto dalla cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+
+#### Art. 43b
+
+**Disposizione transitoria relativa alla modifica del 2 giugno 2025**[^43b-1]
+
+Le derrate alimentari destinate alle persone con particolari esigenze nutrizionali che non risultano conformi alla modifica del 2 giugno 2025 della presente ordinanza possono ancora essere fabbricate, importate e caratterizzate secondo il diritto anteriore sino al 30 giugno 2026. Esse possono essere consegnate ai consumatori secondo il diritto anteriore fino a esaurimento delle scorte.
+
+[^43b-1]: Introdotto dalla cifra I dell’O del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 389](https://fedlex.data.admin.ch/eli/oc/2025/389)).
 
 #### Art. 44
 
@@ -877,7 +885,7 @@ Allegato 1[^t-1]
 
 ## Sostanze e composti
 
-[^t-1]: Nuovo testo giusta il n. II 1 dell’O del DFI del 9 giu. 2023 ([RU 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)). Aggiornato dal n. II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^t-1]: Nuovo testo giusta la cifra II n. 1 dell’O del DFI del 9 giu. 2023 ([RU 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)). Aggiornato dalla cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)) e cifra II dell’O del DFI del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 389](https://fedlex.data.admin.ch/eli/oc/2025/389)).
 
 <table>
 <tr><th>Sostanze</th><th>Composti</th><th colspan="5">Categorie alimentari</th><th></th><th></th><th></th><th></th></tr>
@@ -943,6 +951,7 @@ Allegato 1[^t-1]
 <tr><td></td><td>Solfato di cromo (III) e il suo esaidrato</td><td></td><td></td><td>x</td><td>x</td><td colspan="5">x</td></tr>
 <tr><td>Ferro</td><td>Bisglicinato ferroso</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="5">x</td></tr>
 <tr><td></td><td>Carbonato ferroso</td><td></td><td>x</td><td>x</td><td>x</td><td colspan="5">x</td></tr>
+<tr><td></td><td>Caseinato di ferro del latte</td><td></td><td></td><td>x in prodotti non destinati ai lattanti né ai bambini nella prima infanzia</td><td>x</td><td colspan="6">x</td></tr>
 <tr><td></td><td>Citrato ferrico di ammonio</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="5">x</td></tr>
 <tr><td></td><td>Citrato ferroso</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="5">x</td></tr>
 <tr><td></td><td>Difosfato ferrico di sodio</td><td></td><td>x</td><td>x</td><td>x</td><td colspan="5">x</td></tr>
@@ -1083,7 +1092,7 @@ Allegato 2[^t-2]
 
 ## Requisiti della composizione di alimenti per lattanti
 
-[^t-2]: Aggiornato dal n. II cpv. 2 dell’O del DFI del 27 mag. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). Aggiornato dal n. II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^t-2]: Aggiornato dalla cifra II cpv. 2 dell’O del DFI del 27 mag. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). Aggiornato dalla cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)) e cifra II dell’O del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 389](https://fedlex.data.admin.ch/eli/oc/2025/389)).
 
 *Osservazione:* i valori indicati si riferiscono al prodotto pronto al consumo immesso sul mercato come tale o preparato secondo le istruzioni del fabbricante.
 
@@ -1121,7 +1130,7 @@ Allegato 2[^t-2]
 - A parità di valore energetico, gli alimenti per lattanti a base di isolati di proteine di soia, soli o associati a proteine del latte vaccino o caprino, devono contenere tutti gli aminoacidi essenziali e semiessenziali in quantità almeno pari a quelle della proteina di riferimento (latte materno secondo l’allegato 3*a*, lett. A). In questo calcolo è tuttavia possibile sommare i tenori di metionina e cisteina, se il rapporto della metionina con la cisteina non è maggiore di 2. È possibile sommare i tenori di fenilalanina e di tirosina, se il rapporto della tirosina con la fenilalanina non è maggiore di 2. Il rapporto tra metionina e cisteina e tra tirosina e fenilalanina può essere maggiore di 2, a condizione che l’idoneità del prodotto per le particolari esigenze nutrizionali dei lattanti sia stata dimostrata da un esame sistematico dei dati scientifici generalmente riconosciuti e disponibili relativi ai benefici previsti e alle considerazioni in materia di sicurezza nonché, se necessario, mediante studi adeguati, eseguiti in base agli orientamenti generalmente accettati di esperti sull’elaborazione e sullo svolgimento di tali studi.
 - Il tenore di L-Carnitina deve ammontare almeno a 0,3 mg/100 kJ (1,2 mg/100 kcal).
 - 2\.4 Alimenti per lattanti a base di idrolizzati di proteine
-- Gli alimenti per lattanti a base di idrolizzati di proteine devono soddisfare i requisiti relativi alle proteine di cui al numero 2.4.1, 2.4.2 o 2.4.3.
+- Gli alimenti per lattanti a base di idrolizzati di proteine devono soddisfare i requisiti relativi alle proteine di cui al numero 2.4.1, 2.4.2, 2.4.3 o 2.4.4.
 - 2\.4.1 Requisiti relativi alle proteine, gruppo A
 - 2\.4.1.1 Tenore di proteine
 
@@ -1181,6 +1190,21 @@ Allegato 2[^t-2]
 - Il materiale di base è idratato e riscaldato. Prima dell’idrolisi, il pH è regolato a un valore compreso tra 6,5 e 7,5 e a una temperatura compresa tra i 50 e i 65 °C. L’idrolisi è effettuata mediante l’impiego di una miscela enzimatica di serina endopeptidasi e di metalloproteasi. Gli enzimi alimentari sono inattivati in una fase di trattamento termico (da 2 a 10 secondi a 110–140 °C) durante il processo di produzione.
 - 2\.4.3.4 Aminoacidi essenziali e semiessenziali e L-carnitina
 - A parità di valore energetico, gli alimenti per lattanti a base di idrolizzati di proteine devono contenere tutti gli aminoacidi essenziali e semiessenziali in quantità almeno pari a quelle della proteina di riferimento di cui all’allegato 3*a*, lettera A. In questo calcolo è tuttavia possibile sommare i tenori di metionina e cisteina, se il rapporto della metionina con la cisteina non è maggiore di 2. È possibile sommare i tenori di fenilalanina e di tirosina, se il rapporto della tirosina con la fenilalanina non è maggiore di 2. Il rapporto tra metionina e cisteina e tra tirosina e fenilalanina può essere maggiore di 2, a condizione che l’idoneità del prodotto per le particolari esigenze nutrizionali dei lattanti sia stata dimostrata da un esame sistematico dei dati scientifici generalmente riconosciuti e disponibili relativi ai benefici previsti e alle considerazioni in materia di sicurezza nonché, se necessario, mediante studi adeguati, eseguiti in base agli orientamenti generalmente accettati di esperti sull’elaborazione e sullo svolgimento di tali studi.
+- 2\.4.4 Requisiti relativi alle proteine, gruppo D
+- 2\.4.4.1 Tenore di proteine
+
+<table>
+<tr><td>Almeno</td><td>Al massimo</td></tr>
+<tr><td>0,57 g/100 kJ</td><td>0,67 g/100 kJ</td></tr>
+<tr><td>(2,4 g/100 kcal)</td><td>(2,8 g/100 kcal)</td></tr>
+</table>
+
+- 2\.4.4.2 Fonte proteica
+- Proteine di siero di latte ottenute da latte vaccino, costituite dal 100 % di concentrato proteico di siero di latte dolce con un tenore proteico minimo pari al 70 %.
+- 2\.4.4.3 Trasformazione delle proteine
+- Il materiale di base è idratato e riscaldato. Dopo la fase di trattamento termico, l’idrolisi è effettuata a un pH compreso tra 7,0 e 8,0 e a una temperatura compresa tra i 50 e i 60 °C tramite un processo di idrolisi in due fasi mediante l’impiego di una serina endopeptidasi e di una metalloproteinasi. Gli enzimi alimentari sono inattivati mediante trattamento termico (a una temperatura compresa tra i 100 e i 120 °C per almeno 30 secondi) durante il processo di produzione.
+- 2\.4.4.4 Aminoacidi essenziali e semiessenziali e L-carnitina
+- A parità di valore energetico, gli alimenti per lattanti a base di idrolizzati di proteine devono contenere tutti gli aminoacidi essenziali e semiessenziali in quantità almeno pari a quelle della proteina di riferimento di cui all’allegato 3*a*, lettera A. In questo calcolo è tuttavia possibile sommare i tenori di metionina e cisteina, se il rapporto della metionina con la cisteina non è maggiore di 2. È possibile sommare i tenori di fenilalanina e di tirosina, se il rapporto della tirosina con la fenilalanina non è maggiore di 2. Il rapporto tra metionina e cisteina e tra tirosina e fenilalanina può essere superiore a 2, a condizione che l’idoneità del prodotto per le particolari esigenze nutrizionali dei lattanti sia stata dimostrata da un esame sistematico dei dati scientifici generalmente riconosciuti e disponibili relativi ai benefici previsti e alle considerazioni in materia di sicurezza nonché, se necessario, mediante studi adeguati, eseguiti in base agli orientamenti generalmente accettati di esperti sull’elaborazione e sullo svolgimento di tali studi.
 - Il tenore di L-carnitina deve essere di almeno 0,3 mg/100 kJ (1,2 mg/100 kcal).
 - 2\.5 In tutti i casi si possono aggiungere aminoacidi esclusivamente allo scopo di migliorare il valore nutritivo delle proteine e unicamente nella proporzione necessaria a tale fine.
 
@@ -1401,7 +1425,7 @@ Allegato 3[^t-3]
 
 ## Requisiti della composizione degli alimenti di proseguimento
 
-[^t-3]: Aggiornato dal n. II cpv. 2 dell’O del DFI del 27 mag. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)) e dal n. II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^t-3]: Aggiornato dalla cifra II cpv. 2 dell’O del DFI del 27 mag. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)), dalla cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)) e cifra II dell’O del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 389](https://fedlex.data.admin.ch/eli/oc/2025/389)).
 
 *Osservazione:* i valori si riferiscono al prodotto pronto al consumo commercializzato come tale o preparato secondo le istruzioni del fabbricante.
 
@@ -1437,7 +1461,7 @@ Allegato 3[^t-3]
 - Per la fabbricazione di questi alimenti di proseguimento devono essere utilizzati soltanto isolati di proteine di soia.
 - A parità di valore energetico, gli alimenti di proseguimento a base di isolati di proteine di soia, soli o associati a proteine del latte vaccino o caprino, devono contenere tutti gli aminoacidi essenziali e semiessenziali in quantità almeno pari a quelle della proteina di riferimento (latte materno secondo l’allegato 3*a*, lett. A). In questo calcolo è tuttavia possibile sommare i tenori di metionina e cisteina e i tenori di fenilalanina e tirosina.
 - 2\.4 Alimenti di proseguimento a base di idrolizzati di proteine
-- Gli alimenti di proseguimento a base di idrolizzati di proteine devono soddisfare i requisiti relativi alle proteine di cui al numero 2.4.1, 2.4.2 o 2.4.3.
+- Gli alimenti di proseguimento a base di idrolizzati di proteine devono soddisfare i requisiti relativi alle proteine di cui al numero 2.4.1, 2.4.2, 2.4.3 o 2.4.4.
 - 2\.4.1 Requisiti relativi alle proteine, gruppo A
 - 2\.4.1.1 Tenore di proteine
 
@@ -1495,6 +1519,21 @@ Allegato 3[^t-3]
 - 2\.4.3.3 Trasformazione delle proteine
 - Il materiale di base è idratato e riscaldato. Prima dell’idrolisi, il pH è regolato a un valore compreso tra 6,5 e 7,5 e a una temperatura compresa tra i 50 e i 65 °C. L’idrolisi è effettuata mediante l’impiego di una miscela enzimatica di serina endopeptidasi e di metalloproteasi. Gli enzimi alimentari sono inattivati in una fase di trattamento termico (da 2 a 10 secondi a 110–140 °C) durante il processo di produzione.
 - 2\.4.3.4 Aminoacidi essenziali e semiessenziali
+- A parità di valore energetico, gli alimenti di proseguimento a base di idrolizzati di proteine devono contenere tutti gli aminoacidi essenziali e semiessenziali in quantità almeno pari a quelle della proteina di riferimento di cui all’allegato 3*a*, lettera A. In questo calcolo è tuttavia possibile sommare i tenori di metionina e cisteina e i tenori di fenilalanina e tirosina.
+- 2\.4.4 Requisiti relativi alle proteine, gruppo D
+- 2\.4.4.1 Tenore di proteine
+
+<table>
+<tr><td>Almeno</td><td>Al massimo</td></tr>
+<tr><td>0,57 g/100 kJ</td><td>0,67 g/100 kJ</td></tr>
+<tr><td>(2,4 g/100 kcal)</td><td>(2,8 g/100 kcal)</td></tr>
+</table>
+
+- 2\.4.4.2 Fonte proteica
+- Proteine di siero di latte ottenute da latte vaccino, costituite dal 100 % di concentrato proteico di siero di latte dolce con un tenore proteico minimo pari al 70 %.
+- 2\.4.4.3 Trasformazione delle proteine
+- Il materiale di base è idratato e riscaldato. Dopo la fase di trattamento termico, l’idrolisi è effettuata a un pH compreso tra 7,0 e 8,0 e a una temperatura compresa tra i 50 e i 60 °C tramite un processo di idrolisi in due fasi mediante l’impiego di una serina endopeptidasi e di una metalloproteinasi. Gli enzimi alimentari sono inattivati mediante trattamento termico (a una temperatura compresa tra i 100 e i 120 °C per almeno 30 secondi) durante il processo di produzione.
+- 2\.4.4.4 Aminoacidi essenziali e semiessenziali
 - A parità di valore energetico, gli alimenti di proseguimento a base di idrolizzati di proteine devono contenere tutti gli aminoacidi essenziali e semiessenziali in quantità almeno pari a quelle della proteina di riferimento di cui all’allegato 3*a*, lettera A. In questo calcolo è tuttavia possibile sommare i tenori di metionina e cisteina e i tenori di fenilalanina e tirosina.
 - 2\.5 In tutti i casi si possono aggiungere aminoacidi esclusivamente allo scopo di migliorare il valore nutritivo delle proteine e unicamente nella proporzione necessaria a tale fine.
 
@@ -1687,12 +1726,12 @@ Allegato 3a[^t-4]
 
 ## Aminoacidi essenziali e semiessenziali nel latte materno
 
-[^t-4]: Introdotto dal n. II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^t-4]: Introdotto dalla cifra II cpv. 2 dell’O del DFI dell’8 dic. 2023 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)). Aggiornato dalla cifra II dell’O del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 389](https://fedlex.data.admin.ch/eli/oc/2025/389)).
 
 Ai fini dell’allegato 2 numero 2 e dell’allegato 3 numero 2, il latte materno serve da proteina di riferimento alle condizioni indicate rispettivamente nelle lettere A e B del presente allegato.
 
 - A. Alimenti per lattanti e alimenti di proseguimento a base di proteine del latte vaccino o caprino o a base di isolati di proteine di soia, soli o associati a proteine del latte vaccino o caprino, nonché alimenti per lattanti e alimenti di proseguimento a base di idrolizzati di proteine.
-- Ai fini dell’allegato 2 numeri 2.2, 2.3, 2.4.2 e 2.4.3 e dell’allegato 3 numeri 2.2, 2.3, 2.4.2 e 2.4.3, gli aminoacidi essenziali e semiessenziali nel latte materno, espressi in milligrammi per 100 kJ o 100 kcal, sono i seguenti:
+- Ai fini dell’allegato 2 numeri 2.2, 2.3, 2.4.2, 2.4.3 e 2.4.4 e dell’allegato 3 numeri 2.2, 2.3, 2.4.2, 2.4.3 e 2.4.4, gli aminoacidi essenziali e semiessenziali nel latte materno, espressi in milligrammi per 100 kJ o 100 kcal, sono i seguenti:
 
 <table>
 <tr><th>Aminoacidi</th><th colspan="2">Alimenti per lattanti e alimenti di proseguimento</th></tr>
@@ -1740,7 +1779,7 @@ Allegato 4[^t-5]
 
 ## Quantità di riferimento per la caratterizzazione del valore nutritivo di derrate alimentari destinate a lattanti e bambini nella prima infanzia
 
-[^t-5]: Aggiornato dal n. II cpv. 2 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^t-5]: Aggiornato dalla cifra II cpv. 2 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
 
 <table>
 <tr><td>Vitamine e sali minerali</td><td colspan="3">Quantità di riferimento</td></tr>
@@ -1782,7 +1821,7 @@ Allegato 5[^t-6]
 
 ## Requisiti della composizione degli alimenti a base di cereali per lattanti e bambini nella prima infanzia
 
-[^t-6]: Aggiornato dal n. II cpv. 2 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^t-6]: Aggiornato dalla cifra II cpv. 2 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
 
 *Osservazione:* i requisiti fisiologico-nutrizionali si riferiscono al prodotto consegnato ai consumatori pronto al consumo oppure al prodotto pronto al consumo preparato secondo le istruzioni del fabbricante.
 
@@ -1977,7 +2016,7 @@ Allegato 8[^t-7]
 
 ## Disposizioni concernenti i prodotti fitosanitari in alimenti per lattanti, alimenti di proseguimento, alimenti a base di cereali e altre pappe di complemento per lattanti e bambini nella prima infanzia e alimenti destinati a particolari fini nutrizionali sviluppati per soddisfare le esigenze nutrizionali di lattanti e bambini nella prima infanzia
 
-[^t-7]: Nuovo testo giusta il n. II cpv. 3 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^t-7]: Nuovo testo giusta la cifra II cpv. 3 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
 
 ### Elenco A: Prodotti fitosanitari vietati
 
@@ -2007,7 +2046,7 @@ Allegato 9[^t-8]
 
 ## Requisiti degli alimenti a fini medici speciali
 
-[^t-8]: Aggiornato dal n. II cpv. 2 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^t-8]: Aggiornato dalla cifra II cpv. 2 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
 
 ### 1 Precisazioni
 
@@ -2140,7 +2179,7 @@ Allegato 10[^t-9]
 
 ## Requisiti della composizione dei sostituti dell’intera razione alimentare giornaliera per il controllo del peso
 
-[^t-9]: Nuovo testo giusta il n. II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). Aggiornato dal n. II cpv. 2 dell’O del DFI del 9 giu. 2023 ([RU 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)) e dal n. II cpv. 1 dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^t-9]: Nuovo testo giusta la cifra II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). Aggiornato dalla cifra II cpv. 2 dell’O del DFI del 9 giu. 2023 ([RU 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)) e dalla cifra II cpv. 1 dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
 
 *Osservazione:* i requisiti in materia di composizione si applicano alle derrate alimentari pronte per lʼuso, commercializzate come tali o dopo una preparazione conforme alle indicazioni del fabbricante.
 
@@ -2231,7 +2270,7 @@ Allegato 10a[^t-10]
 
 ## Requisiti della composizione dei sostituti di un pasto per il controllo del peso
 
-[^t-10]: Introdotto dal n. II cpv. 3 dell’O del DFI del 9 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)).
+[^t-10]: Introdotto dalla cifra II cpv. 3 dell’O del DFI del 9 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)).
 
 ### 1 Valore energetico
 
@@ -2278,7 +2317,7 @@ Allegato 11[^t-11]
 
 ## Vitamine, sali minerali e altre sostanze nelle quantità massime ammesse per gli adulti
 
-[^t-11]: Nuovo testo giusta il n. II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). Aggiornato dal n. II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^t-11]: Nuovo testo giusta la cifra II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). Aggiornato dalla cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
 
 Si applicano i criteri di purezza specifici stabiliti per gli additivi nell’allegato 4 dell’OAdd[^annex11-lvlu1-1]. Alle sostanze per le quali non sono stati stabiliti requisiti di purezza si applicano i criteri di purezza generalmente riconosciuti, raccomandati da organismi internazionali, quali l’Organizzazione delle Nazioni Unite per l’alimentazione e l’agricoltura (FAO) e l’Organizzazione mondiale della sanità (OMS), o farmacopee internazionali.
 
@@ -2383,7 +2422,7 @@ Allegato 12[^t-12]
 
 ## Sostanze e composti ammessi negli alimenti per sportivi
 
-[^t-12]: Aggiornato dal n. II cpv. 2 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^t-12]: Aggiornato dalla cifra II cpv. 2 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
 
 ### 1. Categoria 1: Vitamine
 

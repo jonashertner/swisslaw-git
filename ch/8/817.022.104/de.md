@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 16. Dezember 2016 über Lebensmittel für Personen
 short: VLBE
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/180"
 language: de
-version: 2024-02-01
+version: 2025-07-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/180/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2017-180-20240201-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20240201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/180/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2017-180-20250701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20240201/de"
 
 (VLBE)
 
-vom 16. Dezember 2016 (Stand am 1. Februar 2024)
+vom 16. Dezember 2016 (Stand am 1. Juli 2025)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -854,6 +854,14 @@ Lebensmittel für Personen mit besonderem Ernährungsbedarf, die der Änderung v
 
 [^43a-1]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
 
+#### Art. 43b
+
+**Übergangsbestimmung zur Änderung vom 2. Juni 2025**[^43b-1]
+
+Lebensmittel für Personen mit besonderem Ernährungsbedarf, die der Änderung vom 2. Juni 2025 dieser Verordnung nicht entsprechen, dürfen noch bis zum 30. Juni 2026 nach bisherigem Recht hergestellt, eingeführt und gekennzeichnet werden. Sie dürfen noch bis zur Erschöpfung der Bestände nach bisherigem Recht an Konsumentinnen und Konsumenten abgegeben werden.
+
+[^43b-1]: Eingefügt durch Ziff. I der V des BLV vom 2. Juni 2025, in Kraft seit 1. Juli 2025 ([AS 2025 389](https://fedlex.data.admin.ch/eli/oc/2025/389)).
+
 #### Art. 44
 
 **Inkrafttreten**
@@ -874,7 +882,7 @@ Anhang 1[^t-1]
 
 ## Stoffe und Verbindungen
 
-[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 9. Juni 2023 ([AS 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)). Bereinigt gemäss Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 9. Juni 2023 ([AS 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)). Bereinigt gemäss Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023 ([AS 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)) und Ziff. II der V des BLV vom 2. Juni 2025, in Kraft seit 1. Juli 2025 ([AS 2025 389](https://fedlex.data.admin.ch/eli/oc/2025/389)).
 
 <table>
 <tr><th>Stoffe</th><th>Verbindungen</th><th colspan="4">Lebensmittelkategorien</th><th></th><th></th><th></th><th></th></tr>
@@ -950,6 +958,7 @@ Anhang 1[^t-1]
 <tr><td></td><td>Eisengluconat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td></td><td>Eisenlactat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td></td><td>Eisen-L-pidolat</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Eisen-Milchkaseinat</td><td></td><td></td><td>x in Erzeugnissen, die nicht für Säuglinge und Kleinkinder bestimmt sind</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td></td><td>Eisennatriumdiphosphat</td><td></td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td></td><td>Eisen-Natrium-EDTA</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td></td><td>Eisensaccharat</td><td></td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
@@ -1082,7 +1091,7 @@ Anhang 2[^t-2]
 
 ## Anforderungen an die Zusammensetzung von Säuglingsanfangsnahrung
 
-[^t-2]: Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 27. Mai 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)), der Berichtigung vom 31. Mai 2021 ([AS 2021 309](https://fedlex.data.admin.ch/eli/oc/2021/309)) und Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^t-2]: Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 27. Mai 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)), der Berichtigung vom 31. Mai 2021 ([AS 2021 309](https://fedlex.data.admin.ch/eli/oc/2021/309)), Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023 ([AS 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)) und Ziff. II der V des BLV vom 2. Juni 2025, in Kraft seit 1. Juli 2025 ([AS 2025 389](https://fedlex.data.admin.ch/eli/oc/2025/389)).
 
 *Anmerkung:* Die angegebenen Werte beziehen sich auf das genussfertige Erzeugnis, das entweder so in Verkehr gebracht oder nach den Anweisungen der Herstellerin oder des Herstellers zubereitet worden ist.
 
@@ -1098,7 +1107,7 @@ Anhang 2[^t-2]
 
 - 2\.1 Definitionen
 - Proteingehalt = Stickstoffgehalt × 6,25.
-- 2\.2 Anfangsnahrungen auf der Basis von Kuhmilch- oder Ziegenmilchproteinen
+- 2\.2 Säuglingsanfangsnahrungen auf der Basis von Kuhmilch- oder Ziegenmilchproteinen
 
 <table>
 <tr><td>Mindestens</td><td>Höchstens</td></tr>
@@ -1108,7 +1117,7 @@ Anhang 2[^t-2]
 
 - Bei gleichem Energiewert muss Säuglingsanfangsnahrung auf der Basis von Kuhmilch- oder Ziegenmilchproteinen jede essenzielle und halbessenzielle Aminosäure mindestens in der gleichen verfügbaren Menge enthalten wie das Referenzprotein (Muttermilch nach Anhang 3*a* Buchstabe A). Bei dieser Berechnung können jedoch der Methionin- und der Cysteingehalt zusammengerechnet werden, sofern das Verhältnis von Methionin zu Cystein nicht grösser als 2 ist. Der Tyrosin- und der Phenylalaningehalt können ebenso zusammengerechnet werden, sofern das Verhältnis von Tyrosin zu Pheylalanin nicht grösser als 2 ist. Das Verhältnis von Methionin zu Cystein und von Tyrosin zu Phenylalanin darf grösser als 2 sein, vorausgesetzt, die Eignung des Erzeugnisses für die besonderen Ernährungsbedürfnisse von Säuglingen wurde durch eine systematische Auswertung der verfügbaren allgemein anerkannten wissenschaftlichen Daten in Bezug auf die erwarteten Vorteile und die Sicherheitserwägungen sowie erforderlichenfalls durch entsprechende Studien nachgewiesen, die auf der Grundlage von in Fachkreisen allgemein anerkannten Empfehlungen für die Konzeption und die Durchführung solcher Studien durchgeführt wurden.
 - Der L-Carnitingehalt muss mindestens 0,3 mg/100 kJ (1,2 mg/100 kcal) betragen.
-- 2\.3 Anfangsnahrungen aus Sojaproteinisolaten pur oder in einer Mischung mit Kuhmilch- oder Ziegenmilchproteinen
+- 2\.3 Säuglingsanfangsnahrungen aus Sojaproteinisolaten pur oder in einer Mischung mit Kuhmilch- oder Ziegenmilchproteinen
 
 <table>
 <tr><td>Mindestens</td><td>Höchstens</td></tr>
@@ -1116,11 +1125,11 @@ Anhang 2[^t-2]
 <tr><td>(2,25 g/100 kcal)</td><td>(2,8 g/100 kcal)</td></tr>
 </table>
 
-- Bei der Herstellung dieser Anfangsnahrung sind nur Proteinisolate aus Soja zu verwenden.
+- Bei der Herstellung dieser Säuglingsanfangsnahrung sind nur Proteinisolate aus Soja zu verwenden.
 - Bei gleichem Energiewert muss Säuglingsanfangsnahrung aus Sojaprotein-isolaten pur oder in einer Mischung mit Kuhmilch- oder Ziegenmilchproteinen jede essenzielle und halbessenzielle Aminosäure mindestens in der gleichen verfügbaren Menge wie das Referenzprotein enthalten (Muttermilch nach Anhang 3*a* Buchstabe A). Bei dieser Berechnung können jedoch der Methionin- und der Cysteingehalt zusammengerechnet werden, sofern das Verhältnis von Methionin zu Cystein nicht grösser als 2 ist. Der Tyrosin- und der Phenylalaningehalt können ebenso zusammengerechnet werden, sofern das Verhältnis von Tyrosin zu Phenylalanin nicht grösser als 2 ist. Das Verhältnis Methionin zu Cystein und von Tyrosin zu Phenylalanin darf grösser als 2 sein, vorausgesetzt, die Eignung des Erzeugnisses für die besonderen Ernährungsbedürfnisse von Säuglingen wurde durch eine systematische Auswertung der verfügbaren allgemein anerkannten wissenschaftlichen Daten in Bezug auf die erwarteten Vorteile und die Sicherheitserwägungen sowie erforderlichenfalls durch entsprechende Studien nachgewiesen, die auf der Grundlage von in Fachkreisen allgemein anerkannten Empfehlungen für Konzeption und Durchführung solcher Studien durchgeführt wurden.
 - Der L-Carnitingehalt muss mindestens 0,3 mg/100 kJ (1,2 mg/100 kcal) betragen.
-- 2\.4 Anfangsnahrung auf der Basis von Proteinhydrolysaten
-- Anfangsnahrung auf der Basis von Proteinhydrolysaten muss die Proteinanforderungen nach Ziffer 2.4.1, 2.4.2 oder 2.4.3 erfüllen.
+- 2\.4 Säuglingsanfangsnahrung auf der Basis von Proteinhydrolysaten
+- Säuglingsanfangsnahrung auf der Basis von Proteinhydrolysaten muss die Proteinanforderungen nach Ziffer 2.4.1, 2.4.2, 2.4.3 oder 2.4.4 erfüllen.
 - 2\.4.1 Proteinanforderungen Gruppe A
 - 2\.4.1.1 Proteingehalt
 
@@ -1141,7 +1150,7 @@ Anhang 2[^t-2]
 - 2\.4.1.3 Proteinverarbeitung
 - Zweistufiges Hydrolyseverfahren unter Verwendung einer Trypsin-Zubereitung mit einem Wärmebehandlungsschritt (3–10 Minuten bei 80–100 °C) zwischen den beiden Hydrolyseschritten.
 - 2\.4.1.4 Essenzielle und halbessenzielle Aminosäuren und L-Carnitin
-- Bei gleichem Brennwert muss Anfangsnahrung, die aus Proteinhydrolysaten hergestellt wird, jede essenzielle und halbessenzielle Aminosäure mindestens in der gleichen verwertbaren Menge enthalten wie das Referenzprotein nach Anhang 3*a* Buchstabe B. Bei dieser Berechnung können jedoch der Methionin- und der Cysteingehalt zusammengerechnet werden, sofern das Verhältnis von Methionin zu Cystein nicht grösser als 2 ist; der Phenylalanin- und der Tyrosingehalt können ebenso zusammengerechnet werden, sofern das Verhältnis von Tyrosin zu Phenylalanin nicht grösser als 2 ist. Das Verhältnis von Methionin zu Cystein und von Tyrosin zu Phenylalanin darf grösser als 2 sein, vorausgesetzt, die Eignung des Erzeugnisses für die besonderen Ernährungsbedürfnisse von Säuglingen wurde durch eine systematische Auswertung der verfügbaren allgemein anerkannten wissenschaftlichen Daten in Bezug auf die erwarteten Vorteile und die Sicherheitserwägungen sowie erforderlichenfalls durch entsprechende Studien nachgewiesen, die auf der Grundlage von in Fachkreisen allgemein anerkannten Empfehlungen für Konzeption und Durchführung solcher Studien durchgeführt wurden.
+- Bei gleichem Brennwert muss Säuglingsanfangsnahrung, die aus Proteinhydrolysaten hergestellt wird, jede essenzielle und halbessenzielle Aminosäure mindestens in der gleichen verwertbaren Menge enthalten wie das Referenzprotein nach Anhang 3*a* Buchstabe B. Bei dieser Berechnung können jedoch der Methionin- und der Cysteingehalt zusammengerechnet werden, sofern das Verhältnis von Methionin zu Cystein nicht grösser als 2 ist; der Phenylalanin- und der Tyrosingehalt können ebenso zusammengerechnet werden, sofern das Verhältnis von Tyrosin zu Phenylalanin nicht grösser als 2 ist. Das Verhältnis von Methionin zu Cystein und von Tyrosin zu Phenylalanin darf grösser als 2 sein, vorausgesetzt, die Eignung des Erzeugnisses für die besonderen Ernährungsbedürfnisse von Säuglingen wurde durch eine systematische Auswertung der verfügbaren allgemein anerkannten wissenschaftlichen Daten in Bezug auf die erwarteten Vorteile und die Sicherheitserwägungen sowie erforderlichenfalls durch entsprechende Studien nachgewiesen, die auf der Grundlage von in Fachkreisen allgemein anerkannten Empfehlungen für Konzeption und Durchführung solcher Studien durchgeführt wurden.
 - Der L-Carnitingehalt muss mindestens 0,3 mg/100 kJ (1,2 mg/100 kcal) betragen.
 - 2\.4.2 Proteinanforderungen Gruppe B
 - 2\.4.2.1 Proteingehalt
@@ -1163,7 +1172,7 @@ Anhang 2[^t-2]
 - 2\.4.2.3 Proteinverarbeitung
 - Das Ausgangsmaterial wird hydriert und erhitzt. Nach dem Wärmebehandlungsschritt wird die Hydrolyse bei einem pH-Wert von 7,5 bis 8,5 und einer Temperatur von 55 bis 70 °C unter Verwendung einer Enzymmischung aus Serinendopeptidase und einem Protease/Peptidase-Komplex durchgeführt. Die Lebensmittelenzyme werden während des Herstellungsprozesses in einem Wärmebehandlungsschritt (2–10 Sekunden bei 120–150 °C) inaktiviert.
 - 2\.4.2.4 Essenzielle und halbessenzielle Aminosäuren und L-Carnitin
-- Bei gleichem Energiewert muss Anfangsnahrung, die aus Proteinhydrolysaten hergestellt wird, jede essenzielle und halbessenzielle Aminosäure mindestens in der gleichen verfügbaren Menge enthalten wie das Referenzprotein nach Anhang 3*a* Buchstabe A. Bei dieser Berechnung können jedoch der Methionin- und der Cysteingehalt zusammengerechnet werden, sofern das Verhältnis von Methionin zu Cystein nicht grösser als 2 ist; der Phenylalanin- und der Tyrosingehalt können ebenso zusammengerechnet werden, sofern das Verhältnis von Tyrosin zu Phenylalanin nicht grösser als 2 ist. Das Verhältnis von Methionin zu Cystein und von Tyrosin zu Phenylalanin darf grösser als 2 sein, vorausgesetzt, die Eignung des Erzeugnisses für die besonderen Ernährungsbedürfnisse von Säuglingen wurde durch eine systematische Auswertung der verfügbaren allgemein anerkannten wissenschaftlichen Daten in Bezug auf die erwarteten Vorteile und die Sicherheitserwägungen sowie erforderlichenfalls durch entsprechende Studien nachgewiesen, die auf der Grundlage von in Fachkreisen allgemein anerkannten Empfehlungen für Konzeption und Durchführung solcher Studien durchgeführt wurden.
+- Bei gleichem Energiewert muss Säuglingsanfangsnahrung, die aus Proteinhydrolysaten hergestellt wird, jede essenzielle und halbessenzielle Aminosäure mindestens in der gleichen verfügbaren Menge enthalten wie das Referenzprotein nach Anhang 3*a* Buchstabe A. Bei dieser Berechnung können jedoch der Methionin- und der Cysteingehalt zusammengerechnet werden, sofern das Verhältnis von Methionin zu Cystein nicht grösser als 2 ist; der Phenylalanin- und der Tyrosingehalt können ebenso zusammengerechnet werden, sofern das Verhältnis von Tyrosin zu Phenylalanin nicht grösser als 2 ist. Das Verhältnis von Methionin zu Cystein und von Tyrosin zu Phenylalanin darf grösser als 2 sein, vorausgesetzt, die Eignung des Erzeugnisses für die besonderen Ernährungsbedürfnisse von Säuglingen wurde durch eine systematische Auswertung der verfügbaren allgemein anerkannten wissenschaftlichen Daten in Bezug auf die erwarteten Vorteile und die Sicherheitserwägungen sowie erforderlichenfalls durch entsprechende Studien nachgewiesen, die auf der Grundlage von in Fachkreisen allgemein anerkannten Empfehlungen für Konzeption und Durchführung solcher Studien durchgeführt wurden.
 - Der L-Carnitingehalt muss mindestens 0,3 mg/100 kJ (1,2 mg/100 kcal) betragen.
 - 2\.4.3 Proteinanforderungen Gruppe C
 - 2\.4.3.1 Proteingehalt
@@ -1179,13 +1188,29 @@ Anhang 2[^t-2]
 - 2\.4.3.3 Proteinverarbeitung
 - Das Ausgangsmaterial wird hydriert und erhitzt. Vor der Hydrolyse wird der pH-Wert bei einer Temperatur von 50 bis 65 °C auf 6,57,5 eingestellt. Die Hydrolyse wird mit einer Enzymmischung aus einer Serinendopeptidase und einer Metalloprotease durchgeführt. Die Lebensmittelenzyme werden während des Herstellungsprozesses in einem Wärmebehandlungsschritt (2–10 Sekunden bei 120–140 °C) inaktiviert.
 - 2\.4.3.4 Essenzielle und halbessenzielle Aminosäuren und L-Carnitine
-- Bei gleichem Energiewert muss Anfangsnahrung, die aus Proteinhydrolysaten hergestellt wird, jede essenzielle und halbessenzielle Aminosäure mindestens in der gleichen verfügbaren Menge enthalten wie das Referenzprotein gemäss Anhang 3*a* Buchstabe A. Bei dieser Berechnung können jedoch der Methionin- und der Cysteingehalt zusammengerechnet werden, sofern das Verhältnis von Methionin zu Cystein nicht grösser als 2 ist; der Phenylalanin- und der Tyrosingehalt können zusammengerechnet werden, sofern das Verhältnis von Tyrosin zu Phenylalanin nicht grösser als 2 ist. Das Verhältnis von Methionin zu Cystein und von Tyrosin zu Phenylalanin darf grösser als 2 sein, vorausgesetzt, die Eignung des Erzeugnisses für die besonderen Ernährungsbedürfnisse von Säuglingen wurde durch eine systematische Auswertung der verfügbaren allgemein anerkannten wissenschaftlichen Daten in Bezug auf die erwarteten Vorteile und die Sicherheitserwägungen sowie erforderlichenfalls durch entsprechende Studien nachgewiesen, die auf der Grundlage on in Fachkreisen allgemein anerkannten Empfehlungen für Konzeption und Durchführung solcher Studien durchgeführt wurden.
+- Bei gleichem Energiewert muss Säuglingsanfangsnahrung, die aus Proteinhydrolysaten hergestellt wird, jede essenzielle und halbessenzielle Aminosäure mindestens in der gleichen verfügbaren Menge enthalten wie das Referenzprotein gemäss Anhang 3*a* Buchstabe A. Bei dieser Berechnung können jedoch der Methionin- und der Cysteingehalt zusammengerechnet werden, sofern das Verhältnis von Methionin zu Cystein nicht grösser als 2 ist; der Phenylalanin- und der Tyrosingehalt können zusammengerechnet werden, sofern das Verhältnis von Tyrosin zu Phenylalanin nicht grösser als 2 ist. Das Verhältnis von Methionin zu Cystein und von Tyrosin zu Phenylalanin darf grösser als 2 sein, vorausgesetzt, die Eignung des Erzeugnisses für die besonderen Ernährungsbedürfnisse von Säuglingen wurde durch eine systematische Auswertung der verfügbaren allgemein anerkannten wissenschaftlichen Daten in Bezug auf die erwarteten Vorteile und die Sicherheitserwägungen sowie erforderlichenfalls durch entsprechende Studien nachgewiesen, die auf der Grundlage on in Fachkreisen allgemein anerkannten Empfehlungen für Konzeption und Durchführung solcher Studien durchgeführt wurden.
+- Der L-Carnitingehalt muss mindestens 0,3 mg/100 kJ (1,2 mg/100 kcal) betragen.
+- 2\.4.4 Proteinanforderungen Gruppe D
+- 2\.4.4.1 Proteingehalt
+
+<table>
+<tr><td>Mindestens</td><td>Höchstens</td></tr>
+<tr><td>0,57 g/100 kJ</td><td>0,67 g/100 kJ</td></tr>
+<tr><td>(2,4 g/100 kcal)</td><td>(2,8 g/100 kcal)</td></tr>
+</table>
+
+- 2\.4.4.2 Proteinquelle
+- Molkenprotein aus Kuhmilch, bestehend aus 100 Prozent Süssmolkenproteinkonzentrat mit einem Protein-Mindestgehalt von 70 Prozent.
+- 2\.4.4.3 Proteinverarbeitung
+- Das Ausgangsmaterial wird hydriert und erhitzt. Nach dem Wärmebehandlungsschritt wird die Hydrolyse bei einem pH-Wert von 7,0 bis 8,0 und einer Temperatur von 50 bis 60 °C in einem zweistufigen Hydrolyseverfahren unter Verwendung einer Serinendopeptidase und einer Metalloprotease durchgeführt. Die Lebensmittelenzyme werden während des Herstellungsprozesses mit einem Wärmebehandlungsschritt (mindestens 30 Sekunden bei 100–120 °C) inaktiviert.
+- 2\.4.4.4 Essenzielle und halbessenzielle Aminosäuren und L-Carnitin
+- Bei gleichem Energiewert muss Säuglingsanfangsnahrung, die aus Proteinhydrolysaten hergestellt wird, jede essenzielle und halbessenzielle Aminosäure mindestens in der gleichen verwertbaren Menge enthalten wie das Referenzprotein gemäss Anhang 3*a* Buchstabe A. Bei dieser Berechnung können jedoch der Methionin- und der Cysteingehalt zusammengerechnet werden, sofern das Verhältnis von Methionin zu Cystein nicht grösser als 2 ist; der Phenylalanin- und der Tyrosingehalt können ebenso zusammengerechnet werden, sofern das Verhältnis von Tyrosin zu Phenylalanin nicht grösser als 2 ist. Das Verhältnis von Methionin zu Cystein und von Tyrosin zu Phenylalanin darf grösser als 2 sein, vorausgesetzt, die Eignung des Erzeugnisses für die besonderen Ernährungsbedürfnisse von Säuglingen wurde durch eine systematische Auswertung der verfügbaren allgemein anerkannten wissenschaftlichen Daten in Bezug auf die erwarteten Vorteile und die Sicherheitserwägungen sowie erforderlichenfalls durch entsprechende Studien nachgewiesen, die auf der Grundlage von in Fachkreisen allgemein anerkannten Empfehlungen für die Konzeption und die Durchführung solcher Studien durchgeführt wurden.
 - Der L-Carnitingehalt muss mindestens 0,3 mg/100 kJ (1,2 mg/100 kcal) betragen.
 - 2\.5 In allen Fällen ist der Zusatz von Aminosäuren nur zur Verbesserung des Nährwertes der Proteine in den hierfür notwendigen Mengen gestattet.
 
 ### 3 Taurin
 
-Wird der Anfangsnahrung Taurin zugesetzt, so darf der Gehalt nicht über 2,9 mg/100 kJ (12 mg/100 kcal) liegen.
+Wird der Säuglingsanfangsnahrung Taurin zugesetzt, so darf der Gehalt nicht über 2,9 mg/100 kJ (12 mg/100 kcal) liegen.
 
 ### 4 Cholin
 
@@ -1294,12 +1319,12 @@ Wird der Anfangsnahrung Taurin zugesetzt, so darf der Gehalt nicht über 2,9 mg/
   - b. die den Hinweis «laktosefrei» nach Artikel 8 Absatz 4 tragen.
 
 - 8\.3 Saccharose
-- Saccharose darf nur Anfangsnahrungen auf Basis von Proteinhydrolysaten zugesetzt werden. Wird Saccharose zugesetzt, so darf ihr Gehalt höchstens 20 Massenprozent des Gesamtkohlenhydratgehalts betragen.
+- Saccharose darf nur Säuglingsanfangsnahrungen auf Basis von Proteinhydrolysaten zugesetzt werden. Wird Saccharose zugesetzt, so darf ihr Gehalt höchstens 20 Massenprozent des Gesamtkohlenhydratgehalts betragen.
 - 8\.4 Glukose
-- Glukose darf nur Anfangsnahrungen auf Basis von Proteinhydrolysaten zugesetzt werden. Wird Glukose zugesetzt, so darf ihr Gehalt höchstens 0,5 g/100 kJ (2 g/100 kcal) betragen.
+- Glukose darf nur Säuglingsanfangsnahrungen auf Basis von Proteinhydrolysaten zugesetzt werden. Wird Glukose zugesetzt, so darf ihr Gehalt höchstens 0,5 g/100 kJ (2 g/100 kcal) betragen.
 - 8\.5 Glukosesirup oder getrockneter Glukosesirup
-- Glukosesirup oder getrockneter Glukosesirup darf Anfangsnahrungen aus Kuhmilch- oder Ziegenmilchproteinen oder Anfangsnahrungen aus Sojaproteinisolaten (pur oder in einer Mischung mit Kuhmilch- oder Ziegenmilchproteinen) nur zugesetzt werden, wenn sein Dextroseäquivalent 32 nicht übersteigt. Wird Glukosesirup oder getrockneter Glukosesirup diesen Nahrungen zugesetzt, so darf der sich aus Glukosesirup oder getrocknetem Glukosesirup ergebende Glukosegehalt 0,2 g/100 kJ (0,84 g/100 kcal) nicht übersteigen.
-- Wird Glukosesirup oder getrockneter Glukosesirup Anfangsnahrungen aus Proteinhydrolysaten zugesetzt, so gelten die Höchstgehalte für Glukose nach Ziffer 8.4.
+- Glukosesirup oder getrockneter Glukosesirup darf Säuglingsanfangsnahrungen aus Kuhmilch- oder Ziegenmilchproteinen oder Säuglingsanfangsnahrungen aus Sojaproteinisolaten (pur oder in einer Mischung mit Kuhmilch- oder Ziegenmilchproteinen) nur zugesetzt werden, wenn sein Dextroseäquivalent 32 nicht übersteigt. Wird Glukosesirup oder getrockneter Glukosesirup diesen Nahrungen zugesetzt, so darf der sich aus Glukosesirup oder getrocknetem Glukosesirup ergebende Glukosegehalt 0,2 g/100 kJ (0,84 g/100 kcal) nicht übersteigen.
+- Wird Glukosesirup oder getrockneter Glukosesirup Säuglingsanfangsnahrungen aus Proteinhydrolysaten zugesetzt, so gelten die Höchstgehalte für Glukose nach Ziffer 8.4.
 - 8\.6 Vorgekochte Stärke und/oder gelatinierte Stärke
 
 <table>
@@ -1314,7 +1339,7 @@ Wird der Anfangsnahrung Taurin zugesetzt, so darf der Gehalt nicht über 2,9 mg/
 
 ### 10 Mineralstoffe
 
-- 10\.1 Anfangsnahrungen aus Kuhmilch- oder Ziegenmilchproteinen oder Proteinhydrolysaten
+- 10\.1 Säuglingsanfangsnahrungen aus Kuhmilch- oder Ziegenmilchproteinen oder Proteinhydrolysaten
 
 <table>
 <tr><th>Mineralstoffe</th><th>je 100 kJ</th><th></th><th>je 100 kcal</th><th></th></tr>
@@ -1335,8 +1360,8 @@ Wird der Anfangsnahrung Taurin zugesetzt, so darf der Gehalt nicht über 2,9 mg/
 <tr><td>Zink (mg)</td><td>0,12</td><td>0,24</td><td>0,5</td><td>1</td></tr>
 </table>
 
-- Das molare Verhältnis zwischen Kalzium und verwertbarem Phosphor beträgt mindestens 1,0 und höchstens 2,0. Die Menge des verwertbaren Phosphors in Anfangsnahrungen aus Kuhmilch- oder Ziegenmilchproteinen oder aus Proteinhydrolysaten beträgt 80 Prozent des Gesamtphosphorgehaltes.
-- 10\.2 Anfangsnahrungen aus Sojaproteinisolaten pur oder als Mischung mit Kuhmilch- oder Ziegenmilchproteinen
+- Das molare Verhältnis zwischen Kalzium und verwertbarem Phosphor beträgt mindestens 1,0 und höchstens 2,0. Die Menge des verwertbaren Phosphors in Säuglingsanfangsnahrungen aus Kuhmilch- oder Ziegenmilchproteinen oder aus Proteinhydrolysaten beträgt 80 Prozent des Gesamtphosphorgehaltes.
+- 10\.2 Säuglingsanfangsnahrungen aus Sojaproteinisolaten pur oder als Mischung mit Kuhmilch- oder Ziegenmilchproteinen
 - Es gelten alle Anforderungen nach Ziffer 10.1. Ausgenommen sind Eisen, Phosphor und Zink; für sie gelten folgende Anforderungen:
 
 <table>
@@ -1346,7 +1371,7 @@ Wird der Anfangsnahrung Taurin zugesetzt, so darf der Gehalt nicht über 2,9 mg/
 <tr><td>Phosphor (mg)[^annex2-lvlu1-lvl10-2] Zink (mg)</td><td>7,2 0,18</td><td>24 0,3</td><td>30 0,75</td><td>100 1,25</td></tr>
 </table>
 
-- Das molare Verhältnis zwischen Kalzium und verwertbarem Phosphor beträgt mindestens 1,0 und höchstens 2,0. Die Menge des verwertbaren Phosphors in Anfangsnahrungen aus Sojaproteinhydrolysaten beträgt 70 Prozent des Gesamtphosphorgehaltes.
+- Das molare Verhältnis zwischen Kalzium und verwertbarem Phosphor beträgt mindestens 1,0 und höchstens 2,0. Die Menge des verwertbaren Phosphors in Säuglingsanfangsnahrungen aus Sojaproteinhydrolysaten beträgt 70 Prozent des Gesamtphosphorgehaltes.
 
 [^annex2-lvlu1-lvl10-1]: Gesamtphosphorgehalt
 [^annex2-lvlu1-lvl10-2]: Gesamtphosphorgehalt
@@ -1400,7 +1425,7 @@ Anhang 3[^t-3]
 
 ## Anforderungen an die Zusammensetzung von Folgenahrung
 
-[^t-3]: Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 27. Mai 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)) und Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^t-3]: Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 27. Mai 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)), Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023 ([AS 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)) und Ziff. II der V des BLV vom 2. Juni 2025, in Kraft seit 1. Juli 2025 ([AS 2025 389](https://fedlex.data.admin.ch/eli/oc/2025/389)).
 
 *Anmerkung:* Die Werte beziehen sich auf das genussfertige Erzeugnis, das entweder so in Verkehr gebracht oder nach den Anweisungen der Herstellerin oder des Herstellers zubereitet worden ist.
 
@@ -1436,7 +1461,7 @@ Anhang 3[^t-3]
 - Bei der Herstellung dieser Folgenahrung sind nur Sojaproteinisolate zu verwenden.
 - Bei gleichem Energiewert muss Folgenahrung aus Sojaproteinisolaten pur oder in einer Mischung mit Kuhmilch- oder Ziegenmilchproteinen jede essenzielle und halbessenzielle Aminosäure mindestens in der gleichen verfügbaren Menge wie das Referenzprotein enthalten (Muttermilch nach Anhang 3*a* Buchstabe A). Bei dieser Berechnung können jedoch der Methionin- und der Cysteingehalt sowie der Phenylalanin- und der Tyrosingehalt zusammengerechnet werden.
 - 2\.4 Folgenahrung auf der Basis von Proteinhydrolysaten
-- Folgenahrung auf der Basis von Proteinhydrolysaten muss die Proteinanforderungen nach Ziffer 2.4.1, 2.4.2 oder 2.4.3 erfüllen.
+- Folgenahrung auf der Basis von Proteinhydrolysaten muss die Proteinanforderungen nach Ziffer 2.4.1, 2.4.2, 2.4.3 oder 2.4.4 erfüllen.
 - 2\.4.1 Proteinanforderungen Gruppe A
 - 2\.4.1.1 Proteingehalt
 
@@ -1495,6 +1520,23 @@ Anhang 3[^t-3]
 - Das Ausgangsmaterial wird hydriert und erhitzt. Vor der Hydrolyse wird der pH-Wert bei einer Temperatur von 50 bis 65 °C auf 6,5–7,5 eingestellt. Die Hydrolyse wird mit einer Enzymmischung aus einer Serinendopeptidase und einer Metalloprotease durchgeführt. Die Lebensmittelenzyme werden während des Herstellungsprozesses in einem Wärmebehandlungsschritt (2–10 Sekunden bei 110–140 °C) inaktiviert.
 - 2\.4.3.4 Essenzielle und halbessenzielle Aminosäuren
 - Bei gleichem Energiewert muss Folgenahrung auf der Basis von Proteinhydrolysaten jede essenzielle und halbessenzielle Aminosäure mindestens in der gleichen verfügbaren Menge enthalten wie das Referenzprotein nach Anhang *3a* Buchstabe A. Bei dieser Berechnung können jedoch der Methionin- und der Cysteingehalt sowie der Phenylalanin- und der Tyrosingehalt zusammengerechnet werden.
+- 2\.4 Folgenahrung auf der Basis von Proteinhydrolysaten
+- Folgenahrung auf der Basis von Proteinhydrolysaten muss die Proteinanforderungen nach Ziffer 2.4.1, 2.4.2, 2.4.3 oder 2.4.4 erfüllen.
+- 2\.4.4 Proteinanforderungen Gruppe D
+- 2\.4.4.1 Proteingehalt
+
+<table>
+<tr><td>Mindestens</td><td>Höchstens</td></tr>
+<tr><td>0,57 g/100 kJ</td><td>0,67 g/100 kJ</td></tr>
+<tr><td>(2,4 g/100 kcal)</td><td>(2,8 g/100 kcal)</td></tr>
+</table>
+
+- 2\.4.4.2 Proteinquelle
+- Molkenprotein aus Kuhmilch, bestehend aus 100 Prozent Süssmolkenproteinkonzentrat mit einem Protein-Mindestgehalt von 70 Prozent.
+- 2\.4.4.3 Proteinverarbeitung
+- Das Ausgangsmaterial wird hydriert und erhitzt. Nach dem Wärmebehandlungsschritt wird die Hydrolyse bei einem pH-Wert von 7,0 bis 8,0 und einer Temperatur von 50 bis 60 °C in einem zweistufigen Hydrolyseverfahren unter Verwendung einer Serinendopeptidase und einer Metalloprotease durchgeführt. Die Lebensmittelenzyme werden während des Herstellungsprozesses mit einem Wärmebehandlungsschritt (mindestens 30 Sekunden bei 100–120 °C) inaktiviert.
+- 2\.4.4.4 Essenzielle und halbessenzielle Aminosäuren
+- Bei gleichem Energiewert muss Folgenahrung auf der Basis von Proteinhydrolysaten jede essenzielle und halbessenzielle Aminosäure mindestens in der gleichen verfügbaren Menge enthalten wie das Referenzprotein nach Anhang 3*a* Buchstabe A. Bei dieser Berechnung können jedoch der Methionin- und der Cysteingehalt sowie der Phenylalanin- und der Tyrosingehalt zusammengerechnet werden.
 - 2\.5 In allen Fällen ist der Zusatz von Aminosäuren nur zur Verbesserung des Nährwertes der Proteine in den hierfür notwendigen Mengen gestattet.
 
 ### 3 Taurin
@@ -1632,7 +1674,7 @@ Anhang 3[^t-3]
 <tr><td>Phosphor (mg)[^annex3-lvlu1-lvl8-2] Zink (mg)</td><td>7,2 0,18</td><td>24 0,3</td><td>30 0,75</td><td>100 1,25</td></tr>
 </table>
 
-- Das molare Verhältnis zwischen Kalzium und verwertbarem Phosphor beträgt mindestens 1,0 und höchstens 2,0. Die Menge des verwertbaren Phosphors in Anfangsnahrungen aus Sojaproteinhydrolysaten beträgt 70 Prozent des Gesamtphosphorgehaltes.
+- Das molare Verhältnis zwischen Kalzium und verwertbarem Phosphor beträgt mindestens 1,0 und höchstens 2,0. Die Menge des verwertbaren Phosphors in Säuglingsanfangsnahrungen aus Sojaproteinhydrolysaten beträgt 70 Prozent des Gesamtphosphorgehaltes.
 
 [^annex3-lvlu1-lvl8-1]: Gesamtphosphorgehalt
 [^annex3-lvlu1-lvl8-2]: Gesamtphosphorgehalt
@@ -1686,12 +1728,12 @@ Anhang 3a[^t-4]
 
 ## Essenzielle und halbessenzielle Aminosäuren in der Muttermilch
 
-[^t-4]: Eingefügt durch Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^t-4]: Eingefügt durch Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023 ([AS 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)). Bereinigt gemäss Ziff. II der V des BLV vom 2. Juni 2025, in Kraft seit 1. Juli 2025 ([AS 2025 389](https://fedlex.data.admin.ch/eli/oc/2025/389)).
 
 Für die Anhänge 2 Ziffer 2 und 3 Ziffer 2 dient Muttermilch unter den in den Buchstaben A und B dieses Anhangs festgelegten Bedingungen als Referenzprotein.
 
 - A. Säuglingsanfangsnahrung und Folgenahrung auf der Basis von Kuhmilch- oder Ziegenmilchproteinen oder auf der Basis von Sojaproteinisolaten, allein oder gemischt mit Kuhmilch- oder Ziegenmilchproteinen, sowie Säuglingsanfangsnahrung und Folgenahrung auf der Basis von Proteinhydrolysaten
-- Für die Anhänge 2 Ziffern 2.2, 2.3, 2.4.2 und 2.4.3 und 3 Ziffern 2.2, 2.3, 2.4.2 und 2.4.3 gelten für die essenziellen und halbessenziellen Aminosäuren in der Muttermilch, in Milligramm pro 100 kJ oder 100 kcal, die folgenden Werte:
+- Für die Anhänge 2 Ziff. 2.2, 2.3, 2.4.2, 2.4.3 und 2.4.4 und 3 Ziff. 2.2, 2.3, 2.4.2, 2.4.3 und 2.4.4 gelten für die essenziellen und halbessenziellen Aminosäuren in der Muttermilch, in Milligramm pro 100 kJ oder 100 kcal, die folgenden Werte:
 
 <table>
 <tr><th>Aminosäuren</th><th colspan="2">Säuglingsanfangsnahrung und Folgenahrung</th></tr>
