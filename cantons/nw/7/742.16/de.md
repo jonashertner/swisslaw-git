@@ -4,13 +4,12 @@ number: "742.16"
 title: Verordnung betreffend die Zulassung zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung
 short: "Zulassungsverordnung, ZulV"
 language: de
-version: 2023-07-01
-valid_until: 2025-06-30
-version_adopted: 2023-06-20
+version: 2025-07-01
+version_adopted: 2025-06-24
 adopted: 2023-06-20
 in_force: 2023-07-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/742.16"
-pdf: "https://gesetze.nw.ch/api/de/versions/1159/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1400/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1159/pdf_file"
 
 (Zulassungsverordnung, ZulV)
 
-vom 20.06.2023 (Stand 01.07.2023)
+vom 20.06.2023 (Stand 01.07.2025)
 
 Der Regierungsrat von Nidwalden,
 
@@ -68,7 +67,7 @@ beschliesst:
 
 <table>
 <tr><th>Medizinisches Fachgebiet</th><th>Höchstzahl (Vollzeitäquivalent)</th></tr>
-<tr><td>Radiologie</td><td>2.2</td></tr>
+<tr><td>Radiologie</td><td>1.82</td></tr>
 </table>
 
 #### § 5
