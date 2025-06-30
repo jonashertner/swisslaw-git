@@ -3,20 +3,19 @@ canton: BL
 number: "149.41"
 title: Vereinbarung über die Nordwestschweizer Regierungskonferenz
 language: de
-version: 2012-07-01
-valid_until: 2025-06-30
-version_adopted: 2012-06-08
+version: 2025-07-01
+version_adopted: 2025-06-13
 adopted: 2004-06-11
 in_force: 2004-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/149.41"
-pdf: "https://bl.clex.ch/api/de/versions/4285/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4289/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vereinbarung über die Nordwestschweizer Regierungskonferenz
 
-Vom 11.06.2004 (Stand 01.07.2012)
+Vom 11.06.2004 (Stand 01.07.2025)
 
 Die Regierungen der Kantone Solothurn, Basel-Stadt, Basel-Landschaft, Aargau und Jura schliessen folgende Vereinbarung ab:
 
@@ -55,6 +54,8 @@ Die Regierungen der Kantone Solothurn, Basel-Stadt, Basel-Landschaft, Aargau und
 
 <sup>3</sup> Die Behandlung von dringenden Fragen erfolgt im Rahmen des Arbeitsausschusses.
 
+<sup>4</sup> Der Arbeitsausschuss kann eine ausserordentliche Plenarkonferenz einberufen oder einen Zirkularbeschluss aller 5 Regierungen anstreben.
+
 #### § 5
 
 <sup>1</sup> Die Plenarkonferenz wählt im Turnus unter den Kantonen Solothurn, Basel-Stadt, Basel-Landschaft, Aargau und Jura ein Regierungsmitglied als Vorsitzenden oder als Vorsitzende. Der stellvertretende Vorsitz wird durch den nachfolgenden Vorsitzkanton wahrgenommen.
@@ -81,7 +82,7 @@ Die Regierungen der Kantone Solothurn, Basel-Stadt, Basel-Landschaft, Aargau und
 
 <sup>4</sup> Zur Behandlung einzelner Geschäfte kann der Arbeitsausschuss Arbeitsgruppen oder Beauftragte einsetzen.
 
-<sup>5</sup> Der Vorsitzende wird in den Leitenden Ausschuss der Konferenz der Kantonsregierungen delegiert.
+<sup>5</sup> Der Arbeitsausschuss delegiert eines seiner Mitglieder jeweils für maximal 4 Jahre in den Leitenden Ausschuss der Konferenz der Kantonsregierungen.
 
 #### § 8
 
@@ -95,7 +96,7 @@ Die Regierungen der Kantone Solothurn, Basel-Stadt, Basel-Landschaft, Aargau und
 - f. Aufbau und Pflege eines Beziehungsnetzes zu eidgenössischen Parlamentarierinnen und Parlamentariern, zu Stellen der Bundesverwaltung sowie zu anderen Grossregionen;
 - g. Nomination von Mitgliedern der Nordwestschweizer Regierungskonferenz für Organe der Konferenz der Kantonsregierungen;
 - h. Einsetzung von weiteren Arbeitsgruppen und von Beauftragten;
-- i. Regelung von finanziellen Abgeltungen bei ordentlichen und ausserordentlichen Aufwendungen gemäss der Vereinbarung über die Interparlamentarische Konferenz der Nordwestschweiz vom 7. Dezember 1978[^8-1].
+- i. Regelung von finanziellen Abgeltungen bei ordentlichen und ausserordentlichen Aufwendungen gemäss der Vereinbarung über die Interparlamentarische Konferenz der Nordwestschweiz vom 14. Juni 2022[^8-1].
 
 [^8-1]: [SGS 131.9](https://bl.clex.ch/data/131.9/de)
 
