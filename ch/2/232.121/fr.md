@@ -4,11 +4,11 @@ title: "Ordonnance du 8 mars 2002 sur la protection des designs (Ordonnance sur 
 short: ODes
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/183"
 language: fr
-version: 2025-04-07
+version: 2025-07-01
 adopted: 2002-03-08
 in_force: 2002-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/183/20250407/fr/xml/fedlex-data-admin-ch-eli-cc-2002-183-20250407-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/183/20250407/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/183/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2002-183-20250701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/183/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/183/20250407/fr"
 
 (Ordonnance sur les designs, ODes)
 
-du 8 mars 2002 (État le 7 avril 2025)
+du 8 mars 2002 (État le 1<sup>er</sup> juillet 2025)
 
 Le Conseil fédéral suisse,
 
@@ -37,12 +37,12 @@ arrête:
 
 <sup>1</sup> L’Institut Fédéral de la Propriété Intellectuelle[^1-1] (IPI)[^1-2] exécute les travaux administratifs découlant de la LDes[^1-3] et de la présente ordonnance.
 
-<sup>2</sup> L’exécution des art. 46 à 49 LDes et des art. 36 à 39 de la présente ordonnance n’incombe pas à l’IPI mais à l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^1-4].
+<sup>2</sup> L’exécution des art. 46 à 49 LDes et des art. 37 à 40 de la présente ordonnance incombe à l’Office fédéral de la douane et de la sécurité des frontières (OFDF).[^1-4]
 
 [^1-1]: Nouvelle expression selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
 [^1-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 16, al. 3, de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
 [^1-3]: Nouvelle expression selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)). Il a été tenu compte de cette mod. dans tout le texte.
-[^1-4]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^1-4]: Nouvelle teneur selon le ch. I 4 de l’O du 14 mai 2025 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 2
 
@@ -548,79 +548,109 @@ Sur requête, l’IPI radie les droits inscrits en faveur de tiers à condition 
 
 [^36-1]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 5023](https://fedlex.data.admin.ch/eli/oc/2004/769)).
 
-## Chapitre 5 Intervention de l’OFDF
+## Chapitre 5 Interventions lors de l’introduction d’objets sur le territoire douanier ou de leur acheminement hors de celui-ci
+
+[^chap5-1]
+
+[^chap5-1]: Nouvelle teneur selon le ch. I 4 de l’O du 14 mai 2025 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 37
 
-**Domaine d’application**[^37-1]
+**Domaine d’application**
 
-L’OFDF est habilité à intervenir en cas d’introduction sur le territoire douanier suisse et de sortie dudit territoire d’objets fabriqués illicitement.
+Le présent chapitre régit les interventions lors de l’introduction sur le territoire douanier d’objets fabriqués illicitement ou de l’acheminement de tels objets hors du territoire douanier.
 
-[^37-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
+#### Art. 37a
+
+**Petit envoi**
+
+Un petit envoi est un envoi qui contient trois unités au maximum et dont le poids brut est inférieur à cinq kilogrammes.
+
+#### Art. 37b
+
+**Demande d’intervention**
+
+<sup>1</sup> Le titulaire ou le preneur de licence ayant qualité pour agir (requérant) doit présenter la demande d’intervention à l’OFDF.
+
+<sup>2</sup> L’OFDF rend sa décision sur la demande au plus tard 40 jours après réception de tous les documents requis.
+
+<sup>3</sup> Une fois approuvée, la demande est valable deux ans, à moins qu’elle ne spécifie une durée de validité plus courte. Elle peut être renouvelée.
 
 #### Art. 38
 
-**Demande d’intervention**[^38-1]
+**Rétention des objets**
 
-<sup>1</sup> Le titulaire ou le preneur de licence (requérant) doit présenter la demande d’intervention à la Direction générale des douanes.
+<sup>1</sup> Lorsque l’OFDF retient des objets, il les garde en dépôt contre perception d’un émolument ou il les entrepose chez un tiers aux frais du requérant.
 
-<sup>1bis</sup> La Direction générale des douanes rend sa décision sur la demande au plus tard 40 jours après réception de l’intégralité des pièces justificatives.[^38-2]
+<sup>2</sup> Il communique au requérant le nom et l’adresse du déclarant, du possesseur ou du propriétaire, lui transmet une description précise des objets retenus et l’informe de la quantité et de l’expéditeur desdits objets.
 
-<sup>2</sup> La demande est valable deux ans, à moins qu’elle ne spécifie une durée de validité plus courte. Elle peut être renouvelée.
+<sup>3</sup> S’il s’agit d’un petit envoi et que celui-ci a été détruit dans le cadre de la procédure simplifiée, l’OFDF informe le requérant de la quantité, de la nature et de l’expéditeur des objets détruits.
 
-[^38-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
-[^38-2]: Introduit par le ch. I 4 de l’O du 6 juin 2014 sur la fixation de délais d’ordre dans le domaine de l’Administration fédérale des douanes, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
+<sup>4</sup> S’il s’avère, avant l’échéance des délais visés à l’art. 48, al. 3 et 4, LDes, que le requérant ne pourra pas obtenir de mesures provisionnelles, les objets sont libérés sans délai.
 
 #### Art. 39
 
-**Rétention des objets**
+**Délégation de la compétence pour les petits envois**
 
-<sup>1</sup> Si le bureau de douane retient des objets, il les garde en dépôt contre perception d’une taxe ou il les entrepose chez un tiers aux frais du requérant.
+<sup>1</sup> Lorsqu’il s’agit d’un petit envoi, l’OFDF confie la responsabilité de l’exécution de la procédure à l’IPI et remet les objets retenus soit à ce dernier, soit à un tiers désigné par l’IPI pour qu’il les garde en dépôt.
 
-<sup>2</sup> Il transmet au requérant le nom et l’adresse du déclarant, du possesseur ou du propriétaire, une description précise et la quantité des objets retenus ainsi que le nom de l’expéditeur en Suisse ou à l’étranger desdits objets.[^39-1]
-
-<sup>3</sup> S’il s’avère, avant l’échéance des délais visés à l’art. 48, al. 2 ou 3 LDes, que le requérant ne pourra pas obtenir des mesures provisionnelles, les objets doivent être restitués sans délai.
-
-[^39-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
+<sup>2</sup> Si l’IPI est le requérant, l’OFDF reste compétent.
 
 #### Art. 39a
 
-**Échantillons**[^39a-1]
+**Spécimens ou échantillons**
 
-<sup>1</sup> Le requérant peut présenter une demande pour solliciter la remise ou l’envoi d’échantillons à des fins d’examen ou encore l’inspection des objets retenus. Au lieu d’échantillons, l’OFDF peut aussi lui remettre des photographies desdits objets si elles lui permettent d’effectuer cet examen.
+<sup>1</sup> Le requérant peut présenter une demande pour solliciter soit la remise ou l’envoi de spécimens ou d’échantillons à des fins d’examen, soit l’inspection des objets.
 
-<sup>2</sup> Le requérant peut présenter cette demande à la Direction générale des douanes en même temps que la demande d’intervention ou, pendant la rétention des objets, directement au bureau de douane qui retient les objets.
+<sup>2</sup> Au lieu de spécimens ou d’échantillons, l’OFDF peut aussi remettre au requérant des photographies des objets retenus si elles lui permettent d’effectuer cet examen.
 
-[^39a-1]: Introduit par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
+<sup>3</sup> Le requérant peut présenter cette demande à l’OFDF en même temps que la demande d’intervention ou, pendant que les objets sont retenus, directement à l’autorité compétente.
 
 #### Art. 39b
 
-**Protection des secrets de fabrication et d’affaires**[^39b-1]
+**Protection des secrets de fabrication ou d’affaires**
 
-<sup>1</sup> L’OFDF informe le déclarant, le possesseur ou le propriétaire des objets de la possibilité de refuser le prélèvement d’échantillons sur présentation d’une demande motivée. Il lui impartit un délai raisonnable pour présenter cette demande.
+<sup>1</sup> Le déclarant, le possesseur ou le propriétaire des objets peut demander à l’OFDF de s’opposer au prélèvement de spécimens ou d’échantillons. La demande doit être motivée.
 
-<sup>2</sup> Si l’OFDF autorise le requérant à inspecter les objets retenus, il tient compte, pour fixer le moment de l’inspection, de manière appropriée des intérêts du requérant, d’une part, et de ceux du déclarant, du possesseur ou du propriétaire, d’autre part.
+<sup>2</sup> L’OFDF informe le déclarant, le possesseur ou le propriétaire des objets de la possibilité prévue à l’al. 1 et lui impartit un délai raisonnable.
 
-[^39b-1]: Introduit par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
+<sup>3</sup> Si l’OFDF autorise le requérant à inspecter les objets retenus, il fixe la date en prenant en considération de manière appropriée les intérêts du requérant, d’une part, et ceux du déclarant, du possesseur ou du propriétaire, d’autre part.
 
 #### Art. 39c
 
-**Conservation des moyens de preuve en cas de destruction des objets**[^39c-1]
+**Conservation des moyens de preuve en cas de destruction des objets**
 
-<sup>1</sup> L’OFDF conserve les échantillons prélevés durant un an à compter de la communication adressée au déclarant, au possesseur ou au propriétaire conformément à l’art. 48, al. 1 LDes. Après expiration de ce délai, il invite le déclarant, le possesseur ou le propriétaire à reprendre possession des échantillons ou à supporter les frais pour la poursuite de leur conservation. Si le déclarant, le possesseur ou le propriétaire ne donne pas suite à cette invitation ou s’il ne fait pas connaître sa décision dans les 30 jours, l’OFDF détruit les échantillons.
+<sup>1</sup> L’OFDF conserve les spécimens ou les échantillons prélevés durant un an à compter du moment où il a informé le déclarant, le possesseur ou le propriétaire de la rétention des objets. Au terme de ce délai, il invite le déclarant, le possesseur ou le propriétaire à reprendre possession des spécimens ou des échantillons ou à supporter les frais engendrés par leur conservation. Si le déclarant, le possesseur ou le propriétaire ne donne pas suite à cette invitation ou s’il ne fait pas connaître sa décision dans les 30 jours, l’OFDF détruit les spécimens ou les échantillons.
 
-<sup>2</sup> Au lieu de prélever des échantillons, l’OFDF peut faire des photographies des objets détruits pour autant que cette mesure permette de garantir la conservation des moyens de preuve.
+<sup>2</sup> Au lieu de prélever des spécimens ou des échantillons, l’OFDF peut faire des photographies des objets détruits pour autant que cette mesure permette de garantir la conservation des moyens de preuve.
 
-[^39c-1]: Introduit par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
+#### Art. 39d
+
+**Traitement, communication et conservation des données personnelles ou concernant des personnes morales**
+
+<sup>1</sup>
+
+Les autorités chargées de l’exécution des interventions sont autorisées à traiter les données ci-après personnelles ou concernant les personnes morales des personnes concernées par l’introduction d’objets sur le territoire douanier ou par leur acheminement hors de celui-ci, aux fins visées aux art. 46 à 49*a* LDes, en particulier en relation avec le traitement de demandes d’intervention, le signalement d’envois suspects, la rétention ou la destruction d’objets ainsi que le prélèvement ou l’envoi de spécimens ou d’échantillons:
+
+- a. les informations du requérant, de l’expéditeur, du déclarant, du possesseur ou du propriétaire des objets, en particulier son nom et son prénom ou la raison sociale ainsi que l’adresse;
+- b. les indications et documents relatifs aux demandes visées à l’art. 47 LDes;
+- c. les indications et documents relatifs aux objets retenus visés à l’art. 48 LDes;
+- d. les indications et documents relatifs à la demande d’intervention, y compris la rétention et la destruction des objets ainsi que le prélèvement et l’envoi de spécimens et d’échantillons.
+
+<sup>2</sup> Lorsque l’exécution de la procédure relève de la compétence de l’IPI, l’OFDF lui communique les données requises visées à l’al. 1.
+
+<sup>3</sup> Les autorités chargées de l’exécution des interventions sont autorisées à conserver les données aussi longtemps que l’exige la finalité du traitement, mais au maximum pendant les cinq ans qui suivent l’expiration de la durée de validité de la demande d’intervention ou l’intervention.
 
 #### Art. 40
 
-**Émoluments**[^40-1]
+**Émoluments et taxes**
 
-Les émoluments perçus pour l’intervention de l’OFDF sont fixés dans l’ordonnance du 4 avril 2007 sur les émoluments de l’Office fédéral de la douane et de la sécurité des frontières[^40-2].
+<sup>1</sup> Les émoluments perçus pour l’intervention de l’OFDF sont fixés dans l’ordonnance du 4 avril 2007 sur les émoluments de l’Office fédéral de la douane et de la sécurité des frontières[^40-1].
 
-[^40-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
-[^40-2]: [RS 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
+<sup>2</sup> Lorsque l’exécution de la procédure relève de la compétence de l’IPI, les taxes perçues sont celles qui sont fixées dans l’ordonnance de l’IPI du 14 juin 2016 sur les taxes[^40-2].
+
+[^40-1]: [RS 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
+[^40-2]: [RS 232.148](https://fedlex.data.admin.ch/eli/cc/2016/777)
 
 ## Chapitre 6 Dispositions finales
 
@@ -630,7 +660,7 @@ Les émoluments perçus pour l’intervention de l’OFDF sont fixés dans l’o
 
 L’ordonnance du 27 juillet 1900 sur les dessins et modèles industriels[^41-1] est abrogée.
 
-[^41-1]: [RS **2** 874; [RO 1956 863](https://fedlex.data.admin.ch/eli/oc/1956/806_863_874)**,** [1962 467](https://fedlex.data.admin.ch/eli/oc/1962/460_467_481), [1968 627](https://fedlex.data.admin.ch/eli/oc/1968/603_627_619), [1970 256](https://fedlex.data.admin.ch/eli/oc/1970/_256_), [1972 2501](https://fedlex.data.admin.ch/eli/oc/1972/2447_2501_2277), [1977 1994](https://fedlex.data.admin.ch/eli/oc/1977/1994_1994_1994), [1978 20](https://fedlex.data.admin.ch/eli/oc/1978/20_20_), [1995 1789](https://fedlex.data.admin.ch/eli/oc/1995/1789_1789_1789)[5161](https://fedlex.data.admin.ch/eli/oc/1995/5161_5161_5161)]
+[^41-1]: [RS **2** 874; [RO 1956 863](https://fedlex.data.admin.ch/eli/oc/1956/806_863_874);[1962 467](https://fedlex.data.admin.ch/eli/oc/1962/460_467_481); [1968 627](https://fedlex.data.admin.ch/eli/oc/1968/603_627_619); [1970 256](https://fedlex.data.admin.ch/eli/oc/1970/_256_); [1972 2501](https://fedlex.data.admin.ch/eli/oc/1972/2447_2501_2277); [1977 1994](https://fedlex.data.admin.ch/eli/oc/1977/1994_1994_1994); [1978 20](https://fedlex.data.admin.ch/eli/oc/1978/20_20_); [1995 1789](https://fedlex.data.admin.ch/eli/oc/1995/1789_1789_1789), [5161](https://fedlex.data.admin.ch/eli/oc/1995/5161_5161_5161)]
 
 #### Art. 42
 

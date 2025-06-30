@@ -4,11 +4,11 @@ title: "Ordinanza dell' 8 marzo 2002 sulla protezione del design (Ordinanza sul 
 short: ODes
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/183"
 language: it
-version: 2025-04-07
+version: 2025-07-01
 adopted: 2002-03-08
 in_force: 2002-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/183/20250407/it/xml/fedlex-data-admin-ch-eli-cc-2002-183-20250407-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/183/20250407/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/183/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2002-183-20250701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/183/20250701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/183/20250407/it"
 
 (Ordinanza sul design, ODes)
 
-dell’8 marzo 2002 (Stato 7 aprile 2025)
+dell’8 marzo 2002 (Stato 1° luglio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -546,79 +546,109 @@ L’IPI pubblica, fatto salvo il differimento della pubblicazione:
 
 [^36-1]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5023](https://fedlex.data.admin.ch/eli/oc/2004/769)).
 
-## Capitolo 5: Intervento dell’UDSC
+## Capitolo 5: Intervento in caso di introduzione di oggetti nel territorio doganale o di asportazione di oggetti dal territorio doganale
+
+[^chap5-1]
+
+[^chap5-1]: Nuovo testo giusta la cifra I n. 4 dell’O del 14 mag. 2025 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in vigore dal 1° lug. 2025 ([RU 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 37
 
-**Campo d’applicazione**[^37-1]
+**Campo d’applicazione**
 
-L’UDSC è abilitato a intervenire in caso di introduzione sul territorio doganale o all’asportazione da esso di oggetti prodotti illecitamente.
+Il presente capitolo si applica a interventi in caso di introduzione nel territorio doganale o di asportazione dal territorio doganale di oggetti prodotti illecitamente.
 
-[^37-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
+#### Art. 37a
+
+**Piccoli invii**
+
+Per piccolo invio si intende un invio che contiene al massimo tre unità e il cui peso lordo è inferiore a cinque chilogrammi.
+
+#### Art. 37b
+
+**Domanda d’intervento**
+
+<sup>1</sup> Il titolare del diritto o il titolare della licenza legittimato ad agire (richiedente) deve presentare la domanda d’intervento all’UDSC.
+
+<sup>2</sup> L’UDSC decide in merito alla domanda al più tardi entro 40 giorni dalla ricezione della documentazione, non appena ne dispone integralmente.
+
+<sup>3</sup> Una volta approvata, la domanda rimane valida per due anni qualora non sia stata presentata per una durata di validità più breve. Può essere rinnovata.
 
 #### Art. 38
 
-**Domanda d’intervento**[^38-1]
+**Ritenzione degli oggetti**
 
-<sup>1</sup> Il titolare del diritto o il titolare della licenza legittimato ad agire (richiedente) deve presentare la domanda d’intervento alla Direzione generale delle dogane.
+<sup>1</sup> Se l’UDSC trattiene degli oggetti, li conserva dietro pagamento di un emolumento oppure li affida a terzi per la conservazione a spese del richiedente.
 
-<sup>1<sup>bis</sup></sup> La Direzione generale delle dogane decide in merito alla domanda al più tardi entro 40 giorni dalla ricezione della documentazione completa.[^38-2]
+<sup>2</sup> L’UDSC comunica al richiedente il nome e l’indirizzo del dichiarante, detentore o proprietario, una descrizione precisa, la quantità e il nome del mittente degli oggetti ritenuti.
 
-<sup>2</sup> La domanda rimane valida per due anni, qualora non sia stata posta per una durata di validità più breve. Può essere rinnovata.
+<sup>3</sup> Se si tratta di un piccolo invio distrutto secondo la procedura semplificata, l’UDSC informa il richiedente sulla quantità e sulla natura nonché sul mittente degli oggetti distrutti.
 
-[^38-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
-[^38-2]: Introdotto dalla cifra I n. 4 dell’O del 6 giu. 2014 sui termini ordinatori nell’ambito di competenza dell’Amministrazione federale delle dogane, in vigore dal 1° set. 2014 ([RU 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
+<sup>4</sup> Se, già prima della scadenza del termine giusta l’articolo 48 capoverso 3 o 4 LDes, è chiaro che il richiedente non può ottenere provvedimenti cautelari, gli oggetti sono svincolati senza indugio.
 
 #### Art. 39
 
-**Trattenuta degli oggetti**
+**Delega della competenza per i piccoli invii**
 
-<sup>1</sup> In caso di trattenuta, l’ufficio doganale custodisce esso stesso gli oggetti contro pagamento di una tassa oppure li fa custodire da terzi a spese del richiedente.
+<sup>1</sup> Se gli oggetti ritenuti costituiscono un piccolo invio, l’UDSC incarica l’IPI dell’esecuzione della procedura e consegna gli oggetti a quest’ultimo o a un terzo designato dall’IPI affinché li conservi.
 
-<sup>2</sup> Comunica al richiedente il nome e l’indirizzo del depositante, del detentore o del proprietario, una descrizione precisa, la quantità e il nome del mittente in Svizzera o all’estero degli oggetti ritenuti.[^39-1]
-
-<sup>3</sup> Se già prima della scadenza del termine giusta l’articolo 48 capoverso 2 o 3 della LDes è chiaro che il richiedente non può ottenere provvedimenti cautelari, gli oggetti sono immediatamente liberati.
-
-[^39-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
+<sup>2</sup> Se il richiedente è l’IPI, rimane competente l’UDSC.
 
 #### Art. 39a
 
-**Campioni**[^39a-1]
+**Campioni o modelli**
 
-<sup>1</sup> Il richiedente può chiedere la consegna o l’invio di campioni a scopo di esame oppure può chiedere di ispezionare la merce ritenuta. Invece di campioni l’UDSC può trasmettere al richiedente fotografie degli oggetti ritenuti, se queste ne consentono l’esame.
+<sup>1</sup> Il richiedente può chiedere la consegna o l’invio di campioni o modelli a scopo di esame oppure può chiedere di ispezionare gli oggetti ritenuti.
 
-<sup>2</sup> La richiesta può essere presentata insieme alla domanda d’intervento alla Direzione generale delle dogane o, durante la ritenzione degli oggetti, direttamente all’ufficio doganale che trattiene gli oggetti.
+<sup>2</sup> Invece di campioni o modelli, l’UDSC può trasmettere al richiedente fotografie degli oggetti ritenuti, se queste ne consentono l’esame.
 
-[^39a-1]: Introdotto dalla cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
+<sup>3</sup> La richiesta può essere presentata insieme alla domanda d’intervento all’UDSC o, durante la ritenzione degli oggetti, all’autorità competente.
 
 #### Art. 39b
 
-**Tutela dei segreti di fabbricazione e di affari**[^39b-1]
+**Tutela dei segreti di fabbricazione e di affari**
 
-<sup>1</sup> L’UDSC informa il depositante, il detentore o il proprietario degli oggetti della possibilità di presentare una richiesta motivata per rifiutare il prelievo di campioni. Per l’inoltro della richiesta esso stabilisce un termine adeguato.
+<sup>1</sup> Il dichiarante, detentore o proprietario degli oggetti può chiedere all’UDSC di rifiutare il prelievo di campioni o modelli. La richiesta va motivata.
 
-<sup>2</sup> Qualora l’UDSC consenta al richiedente di ispezionare gli oggetti ritenuti, per stabilire il momento dell’esame tiene conto in maniera adeguata degli interessi del richiedente e del depositante, del detentore o del proprietario.
+<sup>2</sup> L’UDSC informa il dichiarante, detentore o proprietario degli oggetti della possibilità di cui al capoverso 1 e gli concede un termine adeguato.
 
-[^39b-1]: Introdotto dalla cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
+<sup>3</sup> Qualora consenta al richiedente di ispezionare gli oggetti ritenuti, nel determinare il momento dell’ispezione l’UDSC tiene conto in maniera adeguata degli interessi del richiedente da una parte e di quelli del dichiarante, detentore o proprietario dall’altra.
 
 #### Art. 39c
 
-**Conservazione dei mezzi di prova in caso di distruzione degli oggetti**[^39c-1]
+**Conservazione dei mezzi di prova in caso di distruzione degli oggetti**
 
-<sup>1</sup> L’UDSC trattiene i campioni prelevati per un periodo di un anno dalla notifica del depositante, del detentore o del proprietario in virtù dell’articolo 48 capoverso 1 della LDes. Allo scadere di tale termine l’UDSC invita il depositante, il detentore o il proprietario a prendere in custodia i campioni, oppure ad assumere i costi per la conservazione ulteriore. Qualora il depositante, il detentore o il proprietario non sia disposto a prendere in custodia i campioni oppure ad assumere i costi per la conservazione ulteriore, o se non si esprime entro 30 giorni, l’UDSC distrugge i campioni.
+<sup>1</sup> L’UDSC conserva i campioni o modelli per un anno dal momento in cui comunica la ritenzione degli oggetti al dichiarante, detentore o proprietario. Allo scadere di tale termine l’UDSC invita il dichiarante, detentore o proprietario a riprendere possesso dei campioni o modelli, oppure ad assumere i costi per l’ulteriore conservazione. Se il dichiarante, detentore o proprietario non ottempera all’invito o non fornisce una risposta entro 30 giorni, l’UDSC distrugge i campioni o modelli.
 
-<sup>2</sup> Invece di prelevare campioni esso può fotografare gli oggetti distrutti, a condizione che ciò consenta di garantire la conservazione dei mezzi di prova.
+<sup>2</sup> Invece di prelevare campioni o modelli, l’UDSC può fotografare gli oggetti distrutti, a condizione che ciò consenta di garantire la conservazione dei mezzi di prova.
 
-[^39c-1]: Introdotto dalla cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
+#### Art. 39d
+
+**Trattamento, comunicazione e conservazione di dati personali e di dati concernenti persone giuridiche**
+
+<sup>1</sup>
+
+Le autorità competenti per l’esecuzione dell’intervento sono autorizzate a trattare i seguenti dati, personali e concernenti persone giuridiche, delle persone coinvolte nell’introduzione nel territorio doganale o nell’asportazione dal territorio doganale di oggetti o nell’intervento, per gli scopi di cui agli articoli 46–49*a* LDes, soprattutto in relazione al trattamento di domande d’intervento, alla notifica di invii sospetti, alla ritenzione o alla distruzione di oggetti nonché al prelievo o invio di campioni e modelli:
+
+- a. generalità del richiedente, del mittente, del dichiarante, del detentore o del proprietario degli oggetti, segnatamente il cognome e il nome o la ditta e l’indirizzo;
+- b. indicazioni e documenti relativi alle domande d’intervento di cui all’articolo 47 LDes;
+- c. indicazioni e documenti relativi agli oggetti ritenuti secondo l’articolo 48 LDes;
+- d. indicazioni e documenti relativi all’intervento, inclusi quelli relativi alla ritenzione e alla distruzione di oggetti nonché al prelievo e all’invio di campioni e modelli.
+
+<sup>2</sup> Se l’IPI è competente per l’esecuzione della procedura, l’UDSC gli comunica i dati necessari di cui al capoverso 1.
+
+<sup>3</sup> Le autorità competenti possono conservare i dati per il periodo necessario allo scopo del trattamento, ma al massimo per cinque anni dopo la scadenza della durata di validità di una domanda d’intervento o dopo l’intervento.
 
 #### Art. 40
 
-**Tasse**[^40-1]
+**Emolumenti e tasse**
 
-Le tasse per l’intervento dell’UDSC sono rette dall’ordinanza del 4 aprile 2007[^40-2] sugli emolumenti dell’Ufficio federale della dogana e della sicurezza dei confini.
+<sup>1</sup> Gli emolumenti per l’intervento dell’UDSC sono retti dall’ordinanza del 4 aprile 2007[^40-1] sugli emolumenti dell’Ufficio federale della dogana e della sicurezza dei confini.
 
-[^40-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
-[^40-2]: [RS 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
+<sup>2</sup> Se l’IPI è competente per l’esecuzione della procedura, le tasse sono rette dall’ordinanza dell’IPI del 14 giugno 2016[^40-2] sulle tasse.
+
+[^40-1]: [RS 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
+[^40-2]: [RS 232.148](https://fedlex.data.admin.ch/eli/cc/2016/777)
 
 ## Capitolo 6: Disposizioni finali
 
@@ -646,7 +676,7 @@ I termini fissati dall’IPI e in corso il giorno dell’entrata in vigore della
 
 [^43a-1]
 
-[^43a-1]: Introdotto lla cifra I dell’O del 18 ott. 2006 ([RU 2006 4481](https://fedlex.data.admin.ch/eli/oc/2006/690)). Abrogato dalla cifra I dell’O del 14 mar. 2008, con effetto dal 1° lug. 2008 ([RU 2008 1895](https://fedlex.data.admin.ch/eli/oc/2008/277)).
+[^43a-1]: Introdotto dalla cifra I dell’O del 18 ott. 2006 ([RU 2006 4481](https://fedlex.data.admin.ch/eli/oc/2006/690)). Abrogato dalla cifra I dell’O del 14 mar. 2008, con effetto dal 1° lug. 2008 ([RU 2008 1895](https://fedlex.data.admin.ch/eli/oc/2008/277)).
 
 #### Art. 44
 

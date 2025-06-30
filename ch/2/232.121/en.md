@@ -4,11 +4,11 @@ title: "Ordinance of 8 March 2002 on the Protection of Designs (Designs Ordinanc
 short: DesO
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/183"
 language: en
-version: 2025-04-07
+version: 2025-07-01
 adopted: 2002-03-08
 in_force: 2002-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/183/20250407/en/xml/fedlex-data-admin-ch-eli-cc-2002-183-20250407-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/183/20250407/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/183/20250701/en/xml/fedlex-data-admin-ch-eli-cc-2002-183-20250701-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/183/20250701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Designs Ordinance, DesO)
 
-of 8 March 2002 (Status as of 7 April 2025)
+of 8 March 2002 (Status as of 1 July 2025)
 
 The Swiss Federal Council,
 
@@ -41,11 +41,11 @@ ordains:
 
 <sup>1</sup> The Swiss Federal Institute of Intellectual Property (IPI)[^1-1] is responsible for carrying out the administrative duties stipulated in the DesA[^1-2] and this Ordinance.
 
-<sup>2</sup> The Federal Office for Customs and Border Security FOCBS[^1-3] is responsible for enforcing Articles 46–49 DesA and Articles 37–40 of this Ordinance.
+<sup>2</sup> The Federal Office for Customs and Border Security (FOCBS) is responsible for enforcing Articles 46–49 DesA and Articles 37–40 of this Ordinance.[^1-3]
 
 [^1-1]: The name of this administrative unit was amended in application of Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). This amendment has been made throughout the text.
 [^1-2]: Expression in accordance with No I of the O of 2 Dec. 2016, in force since 1 Jan. 2017 ([AS 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)). This amendment has been made throughout the text.
-[^1-3]: The name of this administrative unit was amended on 1 Jan. 2022 in application of Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). This amendment has been made throughout the text.
+[^1-3]: Amended by No I 4 of the O of 14 May 2025 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, in force since 1 July 2025 ([AS 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 2
 
@@ -548,80 +548,110 @@ Unless deferment of publication has been requested, the IPI shall publish:
 
 [^36-1]: Amended by No I of the O of 3 Dec. 2004, in force since 1 Jan. 2005 ([AS 2004 5023](https://fedlex.data.admin.ch/eli/oc/2004/769)).
 
-## Chapter 5 Assistance provided by the FOCBS
+## Chapter 5 Assistance in connection with Items being brought into or taken out of the Customs Territory
+
+[^chap5-1]
+
+[^chap5-1]: Amended by No I 4 of the O of 14 May 2025 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in force since 1 July 2025 ([AS 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 37
 
-**Scope**[^37-1]
+**Scope**
 
-The assistance provided by the FOCBS shall extend to the movement of unlawfully manufactured items into or out of the customs territory.
+This chapter applies to assistance in the case of unlawfully manufactured items being brought into or taken out of the customs territory.
 
-[^37-1]: Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
+#### Art. 37a
+
+**Small consignment**
+
+A small consignment is a consignment that contains a maximum of three units and has a gross weight of less than five kilogrammes.
+
+#### Art. 37b
+
+**Application for assistance**
+
+<sup>1</sup> The right holder or the licensee entitled to initiate proceedings (applicant) must submit the application for assistance to the FOCBS.
+
+<sup>2</sup> Once the FOCBS has received the application in full, it shall decide on it within 40 days.
+
+<sup>3</sup> The approved application is valid for a period of two years unless a shorter period of validity is requested. It may be renewed.
 
 #### Art. 38
 
-**Application for assistance**[^38-1]
+**Detention of items**
 
-<sup>1</sup> The right holder or the licensee entitled to initiate proceedings (applicant) must submit the application for assistance to the Directorate General of Customs.
+<sup>1</sup> If the FOCBS detains items, it shall hold them in safekeeping itself for a fee or place them in the safekeeping of a third party at the cost of the applicant.
 
-<sup>1bis</sup> The Directorate General of Customs shall make a decision on the application no later than 40 days after receipt of the complete documentation.[^38-2]
+<sup>2</sup> It shall provide the applicant with the name and address of the declarant, holder or owner, a precise description, the quantity and the sender of the detained items.
 
-<sup>2</sup> The application is valid for a period of two years unless a shorter period of validity is requested. It may be renewed.
+<sup>3</sup> If the consignment is small and it has been destroyed under the simplified procedure, the FOCBS shall inform the applicant of the quantity and type of items destroyed and the sender.
 
-[^38-1]: Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
-[^38-2]: Inserted by No I 4 of the O of 6 June 2014 on Official Processing Times for Matters within the Jurisdiction of the Federal Customs Administration, in force since 1 Sept. 2014 ([AS 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
+<sup>4</sup> If it is established prior to the expiry of the time limit under Article 48 paragraph 3 or 4 DesA that the applicant is unable to obtain preliminary measures, the items shall be released immediately.
 
 #### Art. 39
 
-**Withholding of items**
+**Assignment of responsibility for small consignments**
 
-<sup>1</sup> If the customs office withholds items, it shall retain the items for a fee or shall place them in the custody of a third party at the cost of the applicant.[^39-1]
+<sup>1</sup> If the detained items are in a small consignment, the FOCBS shall assign responsibility for carrying out the procedure to the IPI and hand the items over to the IPI or a third party designated by the IPI for safekeeping.
 
-<sup>2</sup> It shall provide the applicant with the name and address of the declarant, holder or owner, a precise description and the quantity, as well as the sender of the withheld items in Switzerland or abroad.[^39-2]
-
-<sup>3</sup> If it is established prior to the expiry of the time limit under Article 48 paragraph 2 or 3 DesA that the applicant is unable to obtain preliminary measures, the items shall be released immediately.
-
-[^39-1]: Amended by Annex 4 No 4 of the Customs Ordinance of 1 Nov. 2006, in force since 1 May 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^39-2]: Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
+<sup>2</sup> If the IPI is the applicant, the FOCBS shall remain responsible.
 
 #### Art. 39a
 
-**Samples**[^39a-1]
+**Specimens or samples**
 
-<sup>1</sup> The applicant may request that the samples are handed over or delivered to them for examination or that the items are inspected. Instead of samples, the FOCBS may provide the applicant with photographs of the withheld items if this enables the applicant to assess the items.
+<sup>1</sup> The applicant may request that specimens or samples be handed over or delivered for examination or that the items be made available for inspection.
 
-<sup>2</sup> The request may be submitted together with the application for assistance to the Directorate General of Customs or, while the items are being withheld, directly to the customs office that is withholding the items.
+<sup>2</sup> Instead of the specimens or samples, the FOCBS may also provide the applicant with photographs of the detained items if these enable an examination to be carried out.
 
-[^39a-1]: Inserted by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
+<sup>3</sup> The application may be submitted to the FOCBS with the application for assistance or to the authority responsible while the items are being detained.
 
 #### Art. 39b
 
-**Safeguarding of manufacturing and trade secrets**[^39b-1]
+**Safeguarding of manufacturing and trade secrets**
 
-<sup>1</sup> The FOCBS shall inform the declarant, holder or owner of the items of the possibility of refusing to take samples on presentation of a reasoned request. The Administration shall set a suitable time limit for him or her to submit the request.
+<sup>1</sup> The declarant, holder or owner of the items may request the FOCBS to refuse to take specimens or samples. The request must be substantiated.
 
-<sup>2</sup> If the FOCBS permits the applicant to inspect the withheld items, it shall take appropriate consideration of the interests of the applicant and the declarant, holder or owner when determining the date of inspection.
+<sup>2</sup> The FOCBS shall inform the declarant, holder or owner of the items of the option stipulated in paragraph 1 and set an appropriate time limit.
 
-[^39b-1]: Inserted by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
+<sup>3</sup> If the FOCBS permits the applicant to inspect the detained items, it shall take appropriate consideration of the interests of the applicant and the declarant, holder or owner when determining the date of inspection.
 
 #### Art. 39c
 
-**Safekeeping of evidence in the event of destruction of items**[^39c-1]
+**Safekeeping of evidence in the event of destruction of items**
 
-<sup>1</sup> The FOCBS shall keep the samples collected for a period of one year starting from the date of notification of the declarant, holder or owner in accordance with Article 48 paragraph 1 DesA. After this time limit expires, the FOCBS shall request the declarant, holder or owner to take possession of the samples or bear the costs of their continued safekeeping. If the declarant, holder or owner is not willing to do so or does not respond to this request within 30 days, the FOCBS shall destroy the samples.
+<sup>1</sup> The FOCBS shall hold the specimens or samples in safekeeping for one year from the date of notifying the declarant, holder or owner that the items are being detained. After this time limit expires, the FOCBS shall request the declarant, holder or owner to take possession of the specimens or samples or bear the costs of their continued safekeeping. If the declarant, holder or owner does not comply with the request or does not respond within 30 days, the FOCBS shall destroy the specimens or samples.
 
-<sup>2</sup> Instead of collecting samples, the FOCBS may take photographs of the destroyed items, provided this serves the purpose of preserving evidence.
+<sup>2</sup> Instead of taking specimens or samples, the FOCBS may take photographs of the destroyed items, provided this serves the purpose of preserving evidence.
 
-[^39c-1]: Inserted by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
+#### Art. 39d
+
+**Processing, disclosure and storage of personal data and data of legal entities**
+
+<sup>1</sup> The authorities responsible for providing assistance are authorised to process the following personal data and data of legal entities that concern persons involved in the movement of items into or out of the customs territory or in the provision of assistance where the said data processing is for the purposes set out in Articles 46–49*a* DesA, in particular in connection with the processing of applications for assistance, notifications of suspicious consignments, the detention or destruction of items and the taking or delivery of specimens and samples:
+
+personal details of the applicant, sender, declarant, holder or owner of the items, in particular their last name and first name or company name and address;
+
+information and documents relating to the applications in accordance with Article 47 DesA;
+
+information and documents relating to the items detained in accordance with Article 48 DesA;
+
+information and documents on assistance, including the detention and destruction of items and the taking and delivery of specimens and samples.
+
+<sup>2</sup> If the IPI is responsible for carrying out the procedure, the FOCBS shall provide it with the necessary data in accordance with paragraph 1.
+
+<sup>3</sup> The authorities responsible may store the data for as long as required for the purpose of processing, but for no longer than five years after the period of validity of an application for assistance has expired or the assistance has been provided.
 
 #### Art. 40
 
-**Fees**[^40-1]
+**Fees**
 
-The fees for assistance provided by the FOCBS are governed by the Ordinance of 4 April 2007[^40-2] on FOCBS Charges.
+<sup>1</sup> The fees for assistance provided by the FOCBS are governed by the Ordinance of 4 April 2007[^40-1] on the Fees of the Federal Office for Customs and Border Security.
 
-[^40-1]: Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
-[^40-2]: [SR 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
+<sup>2</sup> If the IPI is responsible for carrying out the procedure, the fees are based on the IPI Fee Ordinance of 14 June 2016[^40-2].
+
+[^40-1]: [SR 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
+[^40-2]: [SR 232.148](https://fedlex.data.admin.ch/eli/cc/2016/777)
 
 ## Chapter 6 Final Provisions
 
