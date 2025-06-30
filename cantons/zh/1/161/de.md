@@ -4,11 +4,11 @@ number: "161"
 title: Gesetz über die politischen Rechte (GPR)
 short: GPR
 language: de
-version: "2022-10-01"
-nachtrag: "118"
-valid_until: 2025-07-01
+version: "2025-07-01"
+nachtrag: "129"
+valid_until: 2026-01-01
 adopted: 2003-09-01
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-161-2003_09_01-2005_01_01-118.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-161-2003_09_01-2005_01_01-129.html"
 text: pdf
 ---
 
@@ -16,13 +16,18 @@ text: pdf
 
 # Gesetz über die politischen Rechte (GPR)<sup>23</sup>
 
-(vom 1. September 2003)<sup>1,</sup> <sup>2</sup>
+(vom 1. September 2003)[^t-1],[^t-2]
 
 Der Kantonsrat,
 
-nach Einsichtnahme in den Antrag des Regierungsrates vom 28. August 2002<sup>3</sup> und in den Antrag der Kommission für Staat und Gemeinden vom 7. März 2003<sup>4</sup>,
+nach Einsichtnahme in den Antrag des Regierungsrates vom 28. August 2002[^t-3] und in den Antrag der Kommission für Staat und Gemeinden vom 7. März 2003[^t-4],
 
 beschliesst:
+
+[^t-1]: OS 58, 289.
+[^t-2]: In Kraft seit 1. Januar 2005 (OS 59, 194). Vom Bund genehmigt am 5. Dezember 2003.
+[^t-3]: ABl 2002, 1507.
+[^t-4]: ABl 2003, 517.
 
 ### I. Teil: Allgemeines
 
@@ -62,7 +67,7 @@ Die politischen Rechte und Pflichten sind:
 
 **1**
 
-1.10. 22 - 118
+- 1\. 7. 25 - 129
 
 <sup>2</sup> Der politische Wohnsitz bestimmt sich nach den Bestimmungen des Bundesgesetzes über die politischen Rechte<sup>10</sup>.
 
@@ -160,7 +165,7 @@ Bei Urnenwahlen und Urnenabstimmungen sowie bei geheimen Wahlen und Abstimmungen
 
 **3**
 
-1.10. 22 - 118
+- 1\. 7. 25 - 129
 
 <sup>2</sup> Die Gemeindeordnung kann die Mitgliederzahl erhöhen oder dies dem Gemeindevorstand übertragen.<sup>50</sup>
 
@@ -244,7 +249,7 @@ Bei Urnenwahlen und Urnenabstimmungen sowie bei geheimen Wahlen und Abstimmungen
 
 **5**
 
-1.10. 22 - 118
+- 1\. 7. 25 - 129
 
 <sup>3</sup> Die Gemeinden sind berechtigt, das Programm auch für kommunale Wahlen und Abstimmungen einzusetzen. Kostenlos steht es ihnen zur Verfügung:<sup>21</sup> a. an den vom Bund oder vom Kanton bezeichneten Wahl- oder Abstimmungsdaten,
 
@@ -310,7 +315,9 @@ a.<sup>50</sup> Mitglied des Kantonsrates, der Oberstaatsanwaltschaft oder der O
 
 **7**
 
-1.10. 22 - 118 d. die Leiterin oder den Leiter der Finanzkontrolle gegenüber jedem Amt und jeder andern Anstellung auf der Ebene des Kantons oder eines Bezirks.
+- 1\. 7. 25 - 129
+
+- d. die Leiterin oder den Leiter der Finanzkontrolle gegenüber jedem Amt und jeder andern Anstellung auf der Ebene des Kantons oder eines Bezirks.
 
 <sup>3</sup> Für Ersatzleute und Stellvertretungen gilt dieser Unvereinbarkeitsgrund nicht, ausgenommen für die Stellvertreterin oder den Stellvertreter der Ombudsperson.
 
@@ -366,8 +373,6 @@ a.<sup>50</sup> Mitglied des Kantonsrates, der Oberstaatsanwaltschaft oder der O
 
 #### § 31
 
-**Amtszwang33**
-
 <sup>1</sup> Für folgende Organe besteht Amtszwang:
 
 a.<sup>34</sup> Gemeindevorstand, Rechnungsprüfungskommission, Schulpflege und Wahlbüro, b.<sup>25</sup> Beisitzende des Arbeitsgerichts und des Mietgerichts sowie Handelsrichterinnen und Handelsrichter,
@@ -398,15 +403,15 @@ a.<sup>34</sup> Gemeindevorstand, Rechnungsprüfungskommission, Schulpflege und 
 
 **9**
 
-1.10. 22 - 118
+- 1\. 7. 25 - 129
 
 <sup>3</sup> Die Amtsdauer endet mit dem Beginn der Amtsdauer des erneuerten Organs.
 
-#### § 33
+<sup>4</sup> Voll- und teilamtlich tätige Mitglieder und Ersatzmitglieder der Gerichte scheiden am Ende des Monats, in dem sie das 68. Altersjahr vollenden, aus dem Amt aus.<sup>52</sup>
 
 **Konstituierung und Amtsantritt a. Im Allgemeinen**
 
-<sup>1</sup> Die Konstituierung oder der Amtsantritt von Organen mit nebenamtlich tätigen Mitgliedern erfolgt, sobald die Mehrheit der Mitglieder rechtskräftig gewählt ist.<sup>38</sup>
+§ 33. <sup>1</sup> Die Konstituierung oder der Amtsantritt von Organen mit nebenamtlich tätigen Mitgliedern erfolgt, sobald die Mehrheit der Mitglieder rechtskräftig gewählt ist.<sup>38</sup>
 
 <sup>2</sup> Besteht ein Organ teilweise oder vollständig aus teil- oder vollamtlich tätigen Mitgliedern, einigen sich die bisherigen und die neu gewählten Mitglieder über den Zeitpunkt der Konstituierung oder des Amtsantritts.
 
@@ -474,7 +479,7 @@ Die Mitglieder der Organe haben Anspruch auf Ersatz der Auslagen und auf eine an
 
 **11**
 
-1.10. 22 - 118 § 40.<sup>34</sup> In den Gemeinden werden folgende Organe und Behörden, soweit vorhanden, wie folgt gewählt oder ernannt:
+- 1\. 7. 25 - 129 § 40.<sup>34</sup> In den Gemeinden werden folgende Organe und Behörden, soweit vorhanden, wie folgt gewählt oder ernannt:
 
 **b. Organe der Gemeinden**
 
@@ -568,7 +573,7 @@ Die Verordnung regelt das Wahlverfahren für Teilämter.
 
 **13**
 
-1.10. 22 - 118
+- 1\. 7. 25 - 129
 
 <sup>3</sup> Bei der Wahl der Mitglieder des Regierungsrates und des Ständerates sind die Wahlvorschläge der zuständigen Stelle bis zum elften Montag vor der Wahl (76. Tag) einzureichen.
 
@@ -654,7 +659,7 @@ Die Verordnung regelt das Wahlverfahren für Teilämter.
 
 **15**
 
-1.10. 22 - 118
+- 1\. 7. 25 - 129
 
 <sup>2</sup> Die Anordnung umfasst insbesondere:
 
@@ -694,11 +699,13 @@ Die Verordnung regelt das Wahlverfahren für Teilämter.
 
 <sup>2</sup> Wird eine Vorlage angefochten, legt der Regierungsrat das Datum frühestens nach dem rechtskräftigen Abschluss des Verfahrens fest.
 
-<sup>3</sup> Die Fristvorgaben der §§ 132 und 137 sowie von Art. 37 Abs. 2 KV<sup>5</sup> bleiben vorbehalten.
+<sup>3</sup> Die Fristvorgaben der §§ 132 und 137 sowie von Art. 37 Abs. 2 KV[^58-1] bleiben vorbehalten.
 
 <sup>4</sup> Liegen zwei einander ausschliessende Vorlagen vor, bringt sie der Regierungsrat gleichzeitig zur Abstimmung.
 
 <sup>5</sup> Liegen mehr als zwei einander ausschliessende Vorlagen vor, legt der Regierungsrat das Abstimmungsverfahren fest. Er stellt dabei sicher, dass die Stimmberechtigten ihren Willen eindeutig und unverfälscht ausdrücken können.
+
+[^58-1]: LS 101.
 
 #### § 60
 
@@ -748,7 +755,7 @@ Die Verordnung regelt das Wahlverfahren für Teilämter.
 
 **17**
 
-1.10. 22 - 118 § 63. <sup>1</sup> Die wahlleitende Behörde veröffentlicht die Abstimmungsvorlage und den Beleuchtenden Bericht spätestens drei Wochen vor dem Abstimmungstag.
+- 1\. 7. 25 - 129 § 63. <sup>1</sup> Die wahlleitende Behörde veröffentlicht die Abstimmungsvorlage und den Beleuchtenden Bericht spätestens drei Wochen vor dem Abstimmungstag.
 
 **e. Veröffentlichung21**
 
@@ -826,7 +833,7 @@ Die Verordnung regelt das Wahlverfahren für Teilämter.
 
 **19**
 
-1.10. 22 - 118 § 69.<sup>50</sup> Bei der brieflichen Stimmabgabe legt die stimmberechtigte Person folgende Unterlagen in das Antwortkuvert:
+- 1\. 7. 25 - 129 § 69.<sup>50</sup> Bei der brieflichen Stimmabgabe legt die stimmberechtigte Person folgende Unterlagen in das Antwortkuvert:
 
 **Briefliche Stimmabgabe a. Vorgaben**
 
@@ -914,7 +921,7 @@ Das Wahlbüro ermittelt a.<sup>21</sup> die Zahl der Stimmenden, bestehend aus d
 
 **21**
 
-1.10. 22 - 118
+- 1\. 7. 25 - 129
 
 <sup>2</sup> Als Ergebnis einer Wahl oder Abstimmung gilt der Zusammenzug der Auswertungsergebnisse der Wahlbüros und der Ausgang der Wahl oder Abstimmung.
 
@@ -1014,7 +1021,7 @@ Die Ergebnisse der Wahl oder Abstimmung werden in einem Protokoll festgehalten, 
 
 **23**
 
-1.10. 22 - 118
+- 1\. 7. 25 - 129
 
 <sup>2</sup> Die Wahlunterlagen werden den Stimmberechtigten spätestens zehn Tage vor dem zweiten Wahlgang zugestellt. Wurde auf den Wahltag eine eidgenössische Abstimmung angeordnet, gilt § 62.
 
@@ -1082,7 +1089,7 @@ Für die Kantonsratswahlen bestehen folgende Wahlkreise: I. Stadt Zürich, Stadt
 
 **25**
 
-1.10. 22 - 118
+- 1\. 7. 25 - 129
 
 <sup>5</sup> Die Direktion teilt den Vertreterinnen und Vertretern der Wahlvorschläge die Listennummer bis zum achten Freitag vor der Wahl mit.
 
@@ -1170,7 +1177,7 @@ Neben den in § 71 lit. a und b genannten Werten ermittelt das Wahlbüro zusätz
 
 **27**
 
-1.10. 22 - 118
+- 1\. 7. 25 - 129
 
 <sup>2</sup> Die Direktion legt für jeden Wahlkreis einen Wahlkreis-Divisor und für jede Listengruppe einen Listengruppen-Divisor so fest, dass bei einem Vorgehen nach Abs. 1 a.<sup>28</sup> jeder Wahlkreis die ihm von der Direktion zugewiesene Zahl von Sitzen erhält,
 
@@ -1252,7 +1259,7 @@ Auf die konstituierende Sitzung des Kantonsrates hin stellt der Regierungsrat Be
 
 **29**
 
-1.10. 22 - 118 § 114.<sup>19</sup>
+- 1\. 7. 25 - 129 § 114.<sup>19</sup>
 
 §§ 115–118.<sup>43</sup>
 
@@ -1264,19 +1271,23 @@ Auf die konstituierende Sitzung des Kantonsrates hin stellt der Regierungsrat Be
 
 **Gegenstand, Urheberschaft und Form**
 
-§ 120. <sup>1</sup> Gegenstand, Urheberschaft und Form einer Initiative richten sich nach Art. 23–25 und 134 Abs. 1 KV<sup>5</sup>.<sup>21</sup>
+§ 120. <sup>1</sup> Gegenstand, Urheberschaft und Form einer Initiative richten sich nach Art. 23–25 und 134 Abs. 1 KV[^h1AbschnittAllgem-1].<sup>21</sup>
 
 <sup>2</sup> Eine Initiative in der Form des ausgearbeiteten Entwurfs ist ein in allen Teilen konkret formulierter Beschlussentwurf in seiner endgültigen, vollziehbaren Form.
 
 <sup>3</sup> Eine Initiative in der Form der allgemeinen Anregung umschreibt das Begehren, ohne den Konkretisierungsgrad gemäss Abs. 2 zu erreichen.
 
+[^h1AbschnittAllgem-1]: LS 101.
+
 #### § 121
 
 **Gültigkeit**
 
-<sup>1</sup> Die Gültigkeit von Initiativen richtet sich nach Art. 28 Abs. 1 KV<sup>5</sup>.<sup>21</sup>
+<sup>1</sup> Die Gültigkeit von Initiativen richtet sich nach Art. 28 Abs. 1 KV[^h1AbschnittAllgem-1].<sup>21</sup>
 
-<sup>2</sup> Enthält eine Initiative Begehren verschiedener Art, müssen diese einen hinreichenden inneren Zusammenhang aufweisen. Vorbehalten bleiben Initiativen auf Gesamtrevision der Kantonsverfassung<sup>5</sup>.
+<sup>2</sup> Enthält eine Initiative Begehren verschiedener Art, müssen diese einen hinreichenden inneren Zusammenhang aufweisen. Vorbehalten bleiben Initiativen auf Gesamtrevision der Kantonsverfassung[^121-1].
+
+[^121-1]: LS 101.
 
 ### 2. Abschnitt: Volksinitiativen
 
@@ -1320,7 +1331,9 @@ Auf die konstituierende Sitzung des Kantonsrates hin stellt der Regierungsrat Be
 
 § 125.<sup>21</sup> <sup>1</sup> Die Direktion veröffentlicht den Titel und den Text der Initiative sowie die Namen der Mitglieder des Initiativkomitees im Amtsblatt.
 
-<sup>2</sup> Mit der Veröffentlichung beginnt die Frist zur Einreichung der Unterschriften gemäss Art. 27 KV<sup>5</sup>.
+<sup>2</sup> Mit der Veröffentlichung beginnt die Frist zur Einreichung der Unterschriften gemäss Art. 27 KV[^122-1].
+
+[^122-1]: LS 101.
 
 #### § 126
 
@@ -1328,13 +1341,13 @@ Auf die konstituierende Sitzung des Kantonsrates hin stellt der Regierungsrat Be
 
 <sup>1</sup> Zur Unterzeichnung der Unterschriftenliste gibt die stimmberechtigte Person handschriftlich ihren Namen, Vornamen, ihr Geburtsjahr und ihre Adresse an und fügt ihre Unterschrift bei.
 
-<sup>2</sup> Die Unterschriftenlisten sind der Direktion gesamthaft und nach Gemeinden sortiert innert der Frist nach Art. 27 KV<sup>5</sup> einzureichen.<sup>21</sup>
+<sup>2</sup> Die Unterschriftenlisten sind der Direktion gesamthaft und nach Gemeinden sortiert innert der Frist nach Art. 27 KV[^126-1] einzureichen.<sup>21</sup>
 
 **Zustandekommen**
 
 § 127.<sup>21</sup> <sup>1</sup> Eine Initiative ist zustande gekommen, wenn a. die Unterschriftenlisten den gesetzlichen Anforderungen entsprechen und rechtzeitig eingereicht worden sind,
 
-- b. die nach Art. 24 lit. a KV<sup>5</sup> erforderliche Zahl gültiger Unterzeichnungen vorliegt.
+- b. die nach Art. 24 lit. a KV[^126-1] erforderliche Zahl gültiger Unterzeichnungen vorliegt.
 
 <sup>2</sup> Eine Unterzeichnung ist gültig, wenn die Person im Zeitpunkt der Prüfung ihrer Unterzeichnung in der Gemeinde, die auf der Liste angegeben ist, politischen Wohnsitz hat und wenn die Person die Initiative nicht bereits einmal unterzeichnet hat.
 
@@ -1342,13 +1355,13 @@ Auf die konstituierende Sitzung des Kantonsrates hin stellt der Regierungsrat Be
 
 **31**
 
-1.10. 22 - 118
+- 1\. 7. 25 - 129
 
 <sup>4</sup> Die Direktion stellt innert drei Monaten nach Einreichung der Initiative fest, ob sie zustande gekommen ist, und veröffentlicht dieses Ergebnis. Ist die Volksinitiative nicht zustande gekommen, wird sie dem Kantonsrat zur weiteren Behandlung als Einzelinitiative überwiesen.
 
 **Gültigkeit**
 
-§ 128.<sup>21</sup> <sup>1</sup> Eine Initiative ist gültig, wenn sie die Voraussetzungen von Art. 28 Abs. 1 KV<sup>5</sup> erfüllt.
+§ 128.<sup>21</sup> <sup>1</sup> Eine Initiative ist gültig, wenn sie die Voraussetzungen von Art. 28 Abs. 1 KV[^126-1] erfüllt.
 
 <sup>2</sup> Verstösst nur ein Teil der Initiative gegen übergeordnetes Recht oder ist nur ein Teil der Initiative offensichtlich undurchführbar, wird nur dieser für ungültig erklärt, wenn der restliche Teil die wesentlichen Anliegen der Initiative enthält und noch ein sinnvolles Ganzes ergibt.
 
@@ -1359,6 +1372,8 @@ Auf die konstituierende Sitzung des Kantonsrates hin stellt der Regierungsrat Be
 § 129.<sup>21</sup> <sup>1</sup> Der Regierungsrat kann eine rechtsetzungstechnische Bereinigung des Initiativtextes beschliessen, sofern die Mehrheit der Mitglieder des Initiativkomitees den Änderungen zustimmt.
 
 <sup>2</sup> Der bereinigte Text wird dem Initiativkomitee zugestellt und veröffentlicht.
+
+[^126-1]: LS 101.
 
 ### B. Behandlung von Volksinitiativen in der Form
 
@@ -1420,7 +1435,7 @@ der allgemeinen Anregung<sup>20</sup>
 
 **33**
 
-1.10. 22 - 118 § 135.<sup>21</sup> Hat der Kantonsrat die Ausarbeitung einer Umsetzungsvorlage mit oder ohne Gegenvorschlag beschlossen, unterbreitet ihm der Regierungsrat die entsprechende Vorlage innert der in der Verordnung bezeichneten Frist.
+- 1\. 7. 25 - 129 § 135.<sup>21</sup> Hat der Kantonsrat die Ausarbeitung einer Umsetzungsvorlage mit oder ohne Gegenvorschlag beschlossen, unterbreitet ihm der Regierungsrat die entsprechende Vorlage innert der in der Verordnung bezeichneten Frist.
 
 **Umsetzungsvorlage a. Antrag des Regierungsrates**
 
@@ -1460,7 +1475,7 @@ der allgemeinen Anregung<sup>20</sup>
 
 **Gegenstand von Umsetzungsvorlage und Gegenvorschlag**
 
-§ 138 a.<sup>39</sup> Der Gegenstand einer Umsetzungsvorlage oder eines Gegenvorschlags muss dem Gegenstand einer Initiative gemäss Art. 23 KV<sup>5</sup> entsprechen.
+§ 138 a.<sup>39</sup> Der Gegenstand einer Umsetzungsvorlage oder eines Gegenvorschlags muss dem Gegenstand einer Initiative gemäss Art. 23 KV[^hDGemeinsameBestim-1] entsprechen.
 
 **Gegenvorschlag**
 
@@ -1482,7 +1497,7 @@ der allgemeinen Anregung<sup>20</sup>
 
 § 138 d.<sup>20,</sup> <sup>41</sup> <sup>1</sup> Die Mehrheit der Mitglieder des Initiativkomitees kann die Volksinitiative mit schriftlicher Erklärung an die Direktion zurückziehen.
 
-<sup>2</sup> Hat der Kantonsrat einen Gegenvorschlag zu einer ausformulierten Initiative beschlossen und wird die Initiative zurückgezogen, gilt der Gegenvorschlag als Beschluss des Kantonsrates, der nach Massgabe der Kantonsverfassung dem Referendum untersteht. Untersteht der Gegenvorschlag dem fakultativen Referendum, setzt die Direktion die Referendumsfristen nach Art. 33 Abs. 3 KV<sup>5</sup> an.
+<sup>2</sup> Hat der Kantonsrat einen Gegenvorschlag zu einer ausformulierten Initiative beschlossen und wird die Initiative zurückgezogen, gilt der Gegenvorschlag als Beschluss des Kantonsrates, der nach Massgabe der Kantonsverfassung dem Referendum untersteht. Untersteht der Gegenvorschlag dem fakultativen Referendum, setzt die Direktion die Referendumsfristen nach Art. 33 Abs. 3 KV[^hDGemeinsameBestim-1] an.
 
 <sup>3</sup> Hat der Kantonsrat einen Gegenvorschlag zu einer Initiative in der Form der allgemeinen Anregung beschlossen und wird die Initiative zurückgezogen, so arbeitet der Regierungsrat eine Vorlage aus, die dem Gegenvorschlag entspricht. § 138 gilt sinngemäss.
 
@@ -1494,7 +1509,9 @@ der allgemeinen Anregung<sup>20</sup>
 
 **35**
 
-1.10. 22 - 118
+- 1\. 7. 25 - 129
+
+[^hDGemeinsameBestim-1]: LS 101.
 
 ### 3. Abschnitt: Einzel- und Behördeninitiativen
 
@@ -1502,7 +1519,7 @@ der allgemeinen Anregung<sup>20</sup>
 
 § 139.<sup>21</sup> <sup>1</sup> Einzel- und Behördeninitiativen werden der Geschäftsleitung des Kantonsrates eingereicht.
 
-<sup>2</sup> Der Kantonsrat entscheidet innert sechs Monaten nach Einreichung der Initiative über die vorläufige Unterstützung nach Art. 31 Abs. 1 KV<sup>5</sup>.
+<sup>2</sup> Der Kantonsrat entscheidet innert sechs Monaten nach Einreichung der Initiative über die vorläufige Unterstützung nach Art. 31 Abs. 1 KV[^h3AbschnittEinzel-1].
 
 <sup>3</sup> Unterstützt er die Initiative vorläufig, überweist er sie dem Regierungsrat zu Bericht und Antrag. Andernfalls ist sie erledigt.
 
@@ -1528,15 +1545,19 @@ der allgemeinen Anregung<sup>20</sup>
 
 <sup>4</sup> Stimmt der Kantonsrat einer ausformulierten Initiative, einer Umsetzungsvorlage oder einem ausformulierten Gegenvorschlag zu, untersteht die Vorlage nach Massgabe der Kantonsverfassung dem Referendum.
 
+[^h3AbschnittEinzel-1]: LS 101.
+
 ### IV. Teil: Kantonales Referendum
 
 **Gegenstand, Urheberschaft, Fristen**
 
-§ 140.<sup>30</sup> Gegenstand, Urheberschaft und Fristen des Referendums bestimmen sich nach Art. 32 und 33 KV<sup>5</sup>.
+§ 140.<sup>30</sup> Gegenstand, Urheberschaft und Fristen des Referendums bestimmen sich nach Art. 32 und 33 KV[^hIVTeilKantonales-1].
 
 **Dringliche Inkraftsetzung**
 
-§ 141.<sup>21</sup> Unter den Voraussetzungen von Art. 37 Abs. 1 KV<sup>5</sup> kann der Kantonsrat ein Gesetz sofort oder auf ein späteres Datum in Kraft setzen.
+§ 141.<sup>21</sup> Unter den Voraussetzungen von Art. 37 Abs. 1 KV[^hIVTeilKantonales-1] kann der Kantonsrat ein Gesetz sofort oder auf ein späteres Datum in Kraft setzen.
+
+[^hIVTeilKantonales-1]: LS 101.
 
 #### § 142
 
@@ -1576,7 +1597,7 @@ der allgemeinen Anregung<sup>20</sup>
 
 **37**
 
-1.10. 22 - 118
+- 1\. 7. 25 - 129
 
 <sup>2</sup> Für die Unterzeichnung genügt die Angabe des Namens und die Unterschrift.
 
@@ -1584,7 +1605,7 @@ der allgemeinen Anregung<sup>20</sup>
 
 **Teil- und Variantenabstimmung**
 
-§ 144 a.<sup>20</sup> Hat der Kantonsrat eine Teil- oder eine Variantenabstimmung nach Art. 34 Abs. 1 KV<sup>5</sup> beschlossen, wird den Stimmberechtigten im Fall einer Volksabstimmung unterbreitet:
+§ 144 a.<sup>20</sup> Hat der Kantonsrat eine Teil- oder eine Variantenabstimmung nach Art. 34 Abs. 1 KV[^142-1] beschlossen, wird den Stimmberechtigten im Fall einer Volksabstimmung unterbreitet:
 
 - a. die Hauptvorlage,
 
@@ -1595,6 +1616,8 @@ der allgemeinen Anregung<sup>20</sup>
 **Rechtskraft**
 
 § 145.<sup>21</sup> Ist das Referendum nicht ergriffen worden oder nicht zustande gekommen, stellt die Direktion die Rechtskraft des Kantonsratsbeschlusses fest und veröffentlicht dies.
+
+[^142-1]: LS 101.
 
 ### V. Teil: Initiativen in Gemeinden und Zweckverbänden<sup>34</sup>
 
@@ -1624,9 +1647,9 @@ der allgemeinen Anregung<sup>20</sup>
 
 **Form und Gültigkeit**
 
-§ 148.<sup>24,</sup> <sup>33</sup> <sup>1</sup> Für die Form einer Initiative gelten Art. 25 KV<sup>5</sup> sinngemäss sowie § 120 Abs. 2 und 3.
+§ 148.<sup>24,</sup> <sup>33</sup> <sup>1</sup> Für die Form einer Initiative gelten Art. 25 KV[^h1AbschnittAllgem_2-1] sinngemäss sowie § 120 Abs. 2 und 3.
 
-<sup>2</sup> Für die Gültigkeit einer Initiative gelten Art. 28 Abs. 1 und 2 KV<sup>5</sup> sowie § 121 Abs. 2 sinngemäss.<sup>50</sup>
+<sup>2</sup> Für die Gültigkeit einer Initiative gelten Art. 28 Abs. 1 und 2 KV[^h1AbschnittAllgem_2-1] sowie § 121 Abs. 2 sinngemäss.<sup>50</sup>
 
 **Besonderheiten bei Verweisungen**
 
@@ -1635,6 +1658,8 @@ der allgemeinen Anregung<sup>20</sup>
 - a. An die Stelle des Regierungsrates oder der Direktion tritt der Gemeindevorstand, an die Stelle des Kantonsrates das Gemeindeparlament.
 
 - b. An die Stelle des Amtsblattes tritt das Publikationsorgan der Gemeinde.
+
+[^h1AbschnittAllgem_2-1]: LS 101.
 
 ### 2. Abschnitt: Einzelinitiativen in Versammlungsgemeinden<sup>33</sup>
 
@@ -1662,7 +1687,7 @@ der allgemeinen Anregung<sup>20</sup>
 
 **39**
 
-1.10. 22 - 118
+- 1\. 7. 25 - 129
 
 <sup>2</sup> Die Urnenabstimmung findet innert sechs Monaten nach dem Beschluss über die Gültigkeit der Initiative statt.
 
@@ -1704,7 +1729,7 @@ Für Volks- und Einzelinitiativen in Parlamentsgemeinden gelten §§ 122–139 b
 
 § 157.<sup>34</sup> <sup>1</sup> Das kantonale Recht und die Gemeindeordnung bezeichnen die Gegenstände, über welche die Stimmberechtigten zwingend oder auf Verlangen an der Urne zu entscheiden haben (obligatorisches und fakultatives Referendum).
 
-<sup>2</sup> In Versammlungsgemeinden richtet sich das fakultative Referendum nach Art. 86 Abs. 3 KV<sup>5</sup>.
+<sup>2</sup> In Versammlungsgemeinden richtet sich das fakultative Referendum nach Art. 86 Abs. 3 KV[^h1AbschnittInGem-1].
 
 <sup>3</sup> In Parlamentsgemeinden können eine Urnenabstimmung schriftlich verlangen:
 
@@ -1723,6 +1748,8 @@ Für Volks- und Einzelinitiativen in Parlamentsgemeinden gelten §§ 122–139 b
 - b. An die Stelle des Kantonsratsreferendums tritt das Parlamentsreferendum.
 
 - c. An die Stelle eines Kantonsratsbeschlusses tritt ein Beschluss des Gemeindeparlaments.
+
+[^h1AbschnittInGem-1]: LS 101.
 
 ### 2. Abschnitt: In Zweckverbänden<sup>33</sup>
 
@@ -1748,7 +1775,9 @@ Für Volks- und Einzelinitiativen in Parlamentsgemeinden gelten §§ 122–139 b
 
 **41**
 
-1.10. 22 - 118 c. An die Stelle eines Kantonsratsbeschlusses tritt ein Beschluss der Delegiertenversammlung.
+- 1\. 7. 25 - 129
+
+- c. An die Stelle eines Kantonsratsbeschlusses tritt ein Beschluss der Delegiertenversammlung.
 
 ### VII.<sup>36</sup> Teil: Rechtsschutz und Strafbestimmungen
 
@@ -1830,7 +1859,7 @@ Hat der Kantonsrat vor Inkrafttreten dieser Gesetzesänderung eine Vorlage besch
 
 **43**
 
-1.10. 22 - 118
+- 1\. 7. 25 - 129
 
 ### Übergangsbestimmungen zur Änderung vom 28. August 2017
 
@@ -1898,7 +1927,7 @@ Im Zeitpunkt des Inkrafttretens der Änderung vom 30. November 2020 gewählte Mi
 
 **45**
 
-1.10. 22 - 118
+- 1\. 7. 25 - 129
 
 <sup>28</sup> Fassung gemäss G über die Unterstellung der Steuerrekurskommissionen und der Baurekurskommissionen unter das Verwaltungsgericht vom 13. September 2010 (OS 65, 953; ABl 2010, 266). In Kraft seit 1. Januar 2011.
 
@@ -1944,12 +1973,12 @@ Im Zeitpunkt des Inkrafttretens der Änderung vom 30. November 2020 gewählte Mi
 
 <sup>49</sup> Eingefügt durch G vom 9. Mai 2022 (OS 77, 403; ABl 2021-07-16). In Kraft seit 1. Oktober 2022.
 
-## Weitere Fussnoten
+<sup>50</sup> Fassung gemäss G vom 9. Mai 2022 (OS 77, 403; ABl 2021-07-16). In Kraft seit 1. Oktober 2022.
 
-- [1] OS 58, 289.
-- [2] In Kraft seit 1. Januar 2005 (OS 59, 194). Vom Bund genehmigt am 5. Dezember 2003.
-- [3] ABl 2002, 1507.
-- [4] ABl 2003, 517.
-- [5] LS 101.
-- [50] Fassung gemäss G vom 9. Mai 2022 (OS 77, 403; ABl 2021-07-16). In Kraft seit 1. Oktober 2022.
-- [51] Aufgehoben durch G vom 9. Mai 2022 (OS 77, 403; ABl 2021-07-16). In Kraft seit 1. Oktober 2022. 1.10. 22 - 118 47
+<sup>51</sup> Aufgehoben durch G vom 9. Mai 2022 (OS 77, 403; ABl 2021-07-16). In Kraft seit 1. Oktober 2022.
+
+<sup>52</sup> Eingefügt durch Gesetz über die Anpassung der Wählbarkeitsvoraussetzungen für die obersten kantonalen Gerichte vom 25. September 2023 (OS 79, 217). In Kraft seit 1. Juli 2025.
+
+**47**
+
+- 1\. 7. 25 - 129
