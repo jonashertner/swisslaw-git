@@ -4,13 +4,12 @@ number: "731.22"
 title: Ordonnance sur l’organisation des marchés publics
 short: OOMP
 language: fr
-version: 2024-09-01
-valid_until: 2025-06-30
-version_adopted: 2024-08-28
+version: 2025-07-01
+version_adopted: 2025-05-21
 adopted: 2014-11-05
 in_force: 2015-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/731.22"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3060/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3183/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3060/pdf_file"
 
 (OOMP)
 
-du 05.11.2014 (état au 01.09.2024)
+du 05.11.2014 (état au 01.07.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -178,7 +177,7 @@ arrête:
 
 <sup>1</sup> Les achats de biens et de services sont réalisés,
 
-- a lorsque l'annexe le prévoit, de manière centralisée par la CAC;
+- a lorsque des instructions de la CCA le prévoient, de manière centralisée par la CAC;
 - b pour les prestations de construction, par les offices compétents de la Direction des travaux publics et des transports (DTT) selon les prescriptions applicables;
 - c dans les autres cas, de manière décentralisée par les services demandeurs.
 
@@ -214,7 +213,7 @@ arrête:
 
 **Délégation en cas d'achat centralisé**
 
-<sup>1</sup> La CAC peut déléguer aux services demandeurs l'acquisition de prestations dont l'annexe prévoit l'achat centralisé,
+<sup>1</sup> La CAC peut déléguer aux services demandeurs l'acquisition de prestations dont des instructions de la CCA prévoient l'achat centralisé,
 
 - a s'il est nécessaire, pour couvrir des besoins spéciaux, d'acquérir des prestations qui ne correspondent probablement pas à un besoin de plusieurs unités administratives;
 - b si la faible demande ne justifie pas un achat groupé, ou
@@ -241,6 +240,7 @@ arrête:
 - c Elle soutient l'échange d'informations et la coordination entre les services demandeurs, les CAC et le BCCA.
 - d Elle édicte des instructions techniques sur l'organisation des marchés publics.
 - e Elle sert d'intermédiaire dans les conflits de compétences au sein de l'administration.
+- f Elle décide quelle CAC centralise les achats de quelles prestations.
 
 <sup>2</sup> Elle se compose des responsables des CAC et du BCCA, ainsi que d'une représentation de chaque Direction et de la Chancellerie d'Etat.
 
@@ -278,7 +278,7 @@ arrête:
 
 **Centrales d'achat cantonales (CAC)**
 
-<sup>1</sup> Les unités administratives avec des CAC pour les biens et services décrits plus en détail dans l'annexe sont
+<sup>1</sup> Les unités administratives avec des CAC sont
 
 - a la Chancellerie d'Etat (CHA) pour le matériel de bureau, les imprimés, les produits de presse, les ouvrages spécialisés, les services de courrier et les prestations postales, ainsi que pour les outils linguistiques,
 - b la Police cantonale (POCA) pour les prestations de mobilité, les véhicules et les carburants,

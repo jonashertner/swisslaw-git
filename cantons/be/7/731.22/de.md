@@ -4,13 +4,12 @@ number: "731.22"
 title: Verordnung über die Organisation des öffentlichen Beschaffungswesens
 short: OÖBV
 language: de
-version: 2024-09-01
-valid_until: 2025-06-30
-version_adopted: 2024-08-28
+version: 2025-07-01
+version_adopted: 2025-05-21
 adopted: 2014-11-05
 in_force: 2015-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/731.22"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3060/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3183/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3060/pdf_file"
 
 (OÖBV)
 
-vom 05.11.2014 (Stand 01.09.2024)
+vom 05.11.2014 (Stand 01.07.2025)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -178,7 +177,7 @@ beschliesst:
 
 <sup>1</sup> Beschaffungen von Gütern und Dienstleistungen erfolgen
 
-- a zentral durch die ZBS, soweit der Anhang dies vorsieht,
+- a zentral durch die ZBS, soweit Weisungen der KBK dies vorsehen,
 - b bei Bauleistungen gemäss den dafür geltenden Vorschriften durch die zuständigen Ämter der Bau- und Verkehrsdirektion (BVD),
 - c ansonsten dezentral durch die Bedarfsstellen.
 
@@ -214,7 +213,7 @@ beschliesst:
 
 **Delegation bei zentraler Beschaffung**
 
-<sup>1</sup> Die ZBS kann die Beschaffung von Leistungen, die gemäss Anhang zentral beschafft werden, an die Bedarfsstellen delegieren, soweit:
+<sup>1</sup> Die ZBS kann die Beschaffung von Leistungen, die gemäss Weisungen der KBK zentral beschafft werden, an die Bedarfsstellen delegieren, soweit:
 
 - a für die Deckung von Sonderbedürfnissen Leistungen beschafft werden müssen, die voraussichtlich nicht von mehreren Verwaltungseinheiten benötigt werden,
 - b die geringe Nachfrage eine gebündelte Beschaffung nicht rechtfertigt, oder
@@ -241,6 +240,7 @@ beschliesst:
 - c Sie unterstützt den Informationsaustausch und die Koordination zwischen den Bedarfsstellen, den ZBS und der ZKB.
 - d Sie erlässt fachliche Weisungen über die Organisation des Beschaffungswesens.
 - e Sie vermittelt in verwaltungsinternen Zuständigkeitskonflikten.
+- f Sie bestimmt, welche ZBS welche Leistungen zentral beschafft.
 
 <sup>2</sup> Sie besteht aus den Verantwortlichen der ZBS und der ZKB sowie einer Vertretung jeder Direktion und der Staatskanzlei.
 
@@ -278,7 +278,7 @@ beschliesst:
 
 **Zentrale Beschaffungsstellen (ZBS)**
 
-<sup>1</sup> Die Organisationseinheiten mit ZBS für die im Anhang näher bezeichneten Güter und Dienstleistungen sind:
+<sup>1</sup> Die Organisationseinheiten mit ZBS sind:
 
 - a die Staatskanzlei (STA) für Büromaterial, Drucksachen, Presseerzeugnisse, Fachliteratur, Kurier- und Postdienstleistungen sowie für sprachliche Hilfsmittel,
 - b die Kantonspolizei (KAPO) für Mobilitätsdienstleistungen, Fahrzeuge und Treibstoff,
