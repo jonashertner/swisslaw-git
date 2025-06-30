@@ -3,11 +3,11 @@ sr: "414.205.7"
 title: Verordnung des Hochschulrates vom 20. Mai 2021 über die Zulassung zu den Fachhochschulen und den Fachhochschulinstituten (Zulassungsverordnung FH)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/316"
 language: de
-version: 2022-01-01
+version: 2025-07-01
 adopted: 2021-05-20
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/316/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2021-316-20220101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/316/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/316/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2021-316-20250701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/316/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/316/20220101/de"
 
 (Zulassungsverordnung FH)
 
-vom 20. Mai 2021 (Stand am 1. Januar 2022)
+vom 20. Mai 2021 (Stand am 1. Juli 2025)
 
 Der Hochschulrat,
 
@@ -39,7 +39,9 @@ Diese Verordnung regelt für das Fachhochschulstudium auf der Bachelorstufe in d
 - b. die zusätzlichen Zulassungsvoraussetzungen für einzelne Fachbereiche;
 - c. die Anforderungen bezüglich Arbeitswelterfahrung allgemein und für einzelne Fachbereiche.
 
-<sup>2</sup> Die Zulassung zu einem Fachhochschulstudium auf der Bachelorstufe im Fachbereich Gesundheit richtet sich nach Artikel 73 Absatz 3 Buchstabe a HFKG.
+<sup>2</sup> Für ein Fachhochschulstudium auf der Bachelorstufe im Fachbereich Gesundheit regelt sie die Abklärung der persönlichen Eignung der Kandidatinnen und Kandidaten für das Berufsfeld sowie das Selektionsverfahren für die Studienplatzverteilung. Ansonsten richtet sich die Zulassung nach Artikel 73 Absatz 3 Buchstabe a HFKG.[^1-1]
+
+[^1-1]: Fassung gemäss Ziff. I der V des Hochschulrats vom 28. Febr. 2025, in Kraft seit 1. Juli 2025 ([AS 2025 333](https://fedlex.data.admin.ch/eli/oc/2025/333)).
 
 ## 2. Abschnitt: Zulassung ohne oder mit Aufnahmeprüfung
 
@@ -86,7 +88,7 @@ In den Fachbereichen Technik und Informationstechnologie, Architektur, Bau- und 
 
 <sup>4</sup> Für die Zulassung zu den Ausbildungen für den Lehrberuf in bildender Kunst oder Musik gelten die Bestimmungen im interkantonalen Diplomanerkennungsrecht der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK)[^4-1].
 
-[^4-1]: www.edk.ch &gt; Offizielle Texte &gt; Rechtssammlung der EDK &gt; 4.2.2.10
+[^4-1]: [www.edk.ch](http://www.edk.ch) &gt; Offizielle Texte &gt; Rechtssammlung der EDK &gt; 4.2.2.10
 
 #### Art. 5
 
@@ -122,7 +124,7 @@ Für den Fachbereich angewandte Linguistik müssen sich die Kandidatinnen und Ka
 
 <sup>3</sup> Die Kompetenzenkataloge müssen dem Hochschulrat zur Kenntnis gebracht werden.
 
-[^8-1]: www.sbfi.admin.ch &gt; Bildung &gt; Berufliche Grundbildung &gt; Berufsverzeichnis
+[^8-1]: [www.sbfi.admin.ch](http://www.sbfi.admin.ch) &gt; Bildung &gt; Berufliche Grundbildung &gt; Berufsverzeichnis
 
 #### Art. 9
 
@@ -152,8 +154,48 @@ Für den Fachbereich angewandte Psychologie muss der Nachweis einer mindestens e
 
 <sup>2</sup> Diese Kompetenzen werden von den Fachhochschulen und den Fachhochschulinstituten durch formelle Zulassungsverfahren überprüft.
 
-## 5. Abschnitt: Inkrafttreten
+## 4*a*. Abschnitt: Besondere Bestimmungen für den Fachbereich Gesundheit
+
+[^sec4a-1]
+
+[^sec4a-1]: Eingefügt durch Ziff. I der V des Hochschulrats vom 28. Febr. 2025, in Kraft seit 1. Juli 2025 ([AS 2025 333](https://fedlex.data.admin.ch/eli/oc/2025/333)).
+
+#### Art. 12a
+
+**Abklärung der persönlichen Eignung für das Berufsfeld**
+
+<sup>1</sup> Im Fachbereich Gesundheit klären die Fachhochschulen vor dem Eintritt ins erste Semester des Bachelorstudiums die persönliche Eignung der Kandidatinnen und Kandidaten für das Berufsfeld ab. Sie können dazu Tests durchführen.
+
+<sup>2</sup> Nicht abgeklärt wird die persönliche Eignung für das Berufsfeld von Kandidatinnen und Kandidaten mit einem eidgenössischen Fähigkeitszeugnis im Gesundheitsbereich und einer Berufsmaturität sowie von Kandidatinnen und Kandidaten mit einer Fachmaturität Gesundheit.
+
+#### Art. 12b
+
+**Selektionsverfahren für die Studienplatzverteilung**
+
+<sup>1</sup> Die Fachhochschulen können ein Selektionsverfahren zur Verteilung der im Fachbereich Gesundheit verfügbaren Studienplätze vorsehen.
+
+<sup>2</sup> Sie sorgen dafür, dass das angewandte Verfahren insbesondere Kandidatinnen und Kandidaten mit einem eidgenössischen Fähigkeitszeugnis im Gesundheitsbereich und einer Berufsmaturität, Kandidatinnen und Kandidaten mit einer Fachmaturität Gesundheit sowie Kandidatinnen und Kandidaten mit einer gymnasialen Maturität weder begünstigt oder benachteiligt.
+
+<sup>3</sup> Sie überprüfen das Selektionsverfahren regelmässig.
+
+## 5. Abschnitt: Schlussbestimmungen
+
+[^sec5-1]
+
+[^sec5-1]: Fassung gemäss Ziff. I der V des Hochschulrats vom 28. Febr. 2025, in Kraft seit 1. Juli 2025 ([AS 2025 333](https://fedlex.data.admin.ch/eli/oc/2025/333)).
+
+#### Art. 12c
+
+**Übergangsbestimmung zur Änderung vom 28. Februar 2025**[^12c-1]
+
+Die Fachhochschulen müssen die Vorgaben nach den Artikeln 12*a* und 12*b* spätestens zwölf Monate nach Inkrafttreten der Änderung vom 28. Februar 2025 erfüllen.
+
+[^12c-1]: Eingefügt durch Ziff. I der V des Hochschulrats vom 28. Febr. 2025, in Kraft seit 1. Juli 2025 ([AS 2025 333](https://fedlex.data.admin.ch/eli/oc/2025/333)).
 
 #### Art. 13
 
+**Inkrafttreten[^13-1]**
+
 Diese Verordnung tritt am 1. Januar 2022 in Kraft.
+
+[^13-1]: Eingefügt durch Ziff. I der V des Hochschulrats vom 28. Febr. 2025, in Kraft seit 1. Juli 2025 ([AS 2025 333](https://fedlex.data.admin.ch/eli/oc/2025/333)).

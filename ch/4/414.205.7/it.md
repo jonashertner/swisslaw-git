@@ -3,11 +3,11 @@ sr: "414.205.7"
 title: Ordinanza del Consiglio delle scuole universitarie del 20 maggio 2021 sull’ammissione alle scuole universitarie professionali e agli istituti universitari professionali (Ordinanza sull’ammissione alle SUP)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/316"
 language: it
-version: 2022-01-01
+version: 2025-07-01
 adopted: 2021-05-20
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/316/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2021-316-20220101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/316/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/316/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2021-316-20250701-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/316/20250701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/316/20220101/it"
 
 (Ordinanza sull’ammissione alle SUP)
 
-del 20 maggio 2021 (Stato 1° gennaio 2022)
+del 20 maggio 2021 (Stato 1° luglio 2025)
 
 Il Consiglio delle scuole universitarie,
 
@@ -39,7 +39,9 @@ La presente ordinanza disciplina per gli studi di livello bachelor presso una sc
 - b. gli ulteriori requisiti per singoli settori di studio specifici;
 - c. i requisiti dell’esperienza lavorativa in generale e per i singoli settori di studio.
 
-<sup>2</sup> L’ammissione agli studi di livello bachelor presso una scuola universitaria professionale nel settore di studio della sanità è disciplinata all’articolo 73 capoverso 3 lettera a LPSU.
+<sup>2</sup> Per gli studi di livello bachelor presso una scuola universitaria professionale nel settore di studio della sanità, essa disciplina la verifica dell’idoneità dei candidati al campo professionale e la procedura di selezione per l’assegnazione dei posti di studio. Per il resto, l’ammissione è disciplinata dall’articolo 73 capoverso 3 lettera a LPSU.[^1-1]
+
+[^1-1]: Nuovo testo giusta la cifra I dell’O del Consiglio delle scuole universitarie del 28 feb. 2025, in vigore dal 1° lug. 2025 ([RU 2025 333](https://fedlex.data.admin.ch/eli/oc/2025/333)).
 
 ## Sezione 2: Ammissione senza e con esame d’ammissione
 
@@ -152,8 +154,48 @@ Nel settore di studio della psicologia applicata i candidati devono dimostrare d
 
 <sup>2</sup> Queste competenze sono verificate dalle scuole universitarie professionali e dagli istituti universitari professionali mediante procedure di ammissione formali.
 
-## Sezione 5: Entrata in vigore
+## Sezione 4*a*: Disposizioni speciali per il settore di studio della sanità
+
+[^sec4a-1]
+
+[^sec4a-1]: Introdotta dalla cifra I dell’O del Consiglio delle scuole universitarie del 28 feb. 2025, in vigore dal 1° lug. 2025 ([RU 2025 333](https://fedlex.data.admin.ch/eli/oc/2025/333)).
+
+#### Art. 12a
+
+**Verifica dell*’*idoneità al campo professionale**
+
+<sup>1</sup> Nel settore di studio della sanità, prima dell’inizio del primo semestre di studio di livello bachelor, le scuole universitarie professionali verificano l’idoneità dei candidati al relativo campo professionale. A tal fine possono organizzare delle prove.
+
+<sup>2</sup> Non viene verificata l’idoneità al campo professionale dei candidati titolari di un attestato federale di capacità nel settore della sanità accompagnato da una maturità professionale né dei candidati titolari di una maturità specializzata nel settore della sanità.
+
+#### Art. 12b
+
+**Procedura di selezione per l*’*assegnazione dei posti di studio**
+
+<sup>1</sup> Le scuole universitarie professionali possono prevedere una procedura di selezione per l’assegnazione dei posti di studio disponibili nel settore di studio della sanità.
+
+<sup>2</sup> Garantiscono che la procedura applicata non favorisca né penalizzi in particolare i candidati titolari di un attestato federale di capacità nel settore della sanità accompagnato da una maturità professionale, i candidati titolari di una maturità specializzata nel settore della sanità nonché i candidati titolari di una maturità liceale.
+
+<sup>3</sup> Verificano la procedura di selezione a intervalli regolari.
+
+## Sezione 5: Disposizioni finali
+
+[^sec5-1]
+
+[^sec5-1]: Nuovo testo giusta la cifra I dell’O del Consiglio delle scuole universitarie del 28 feb. 2025, in vigore dal 1° lug. 2025 ([RU 2025 333](https://fedlex.data.admin.ch/eli/oc/2025/333)).
+
+#### Art. 12c
+
+**Disposizione transitoria della modifica del 28 febbraio 2025**[^12c-1]
+
+Le scuole universitarie professionali devono adempiere i requisiti di cui agli articoli 12a e 12b entro dodici mesi dall’entrata in vigore della modifica del 28 febbraio 2025.
+
+[^12c-1]: Introdotto dalla cifra I dell’O del Consiglio delle scuole universitarie del 28 feb. 2025, in vigore dal 1° lug. 2025 ([RU 2025 333](https://fedlex.data.admin.ch/eli/oc/2025/333)).
 
 #### Art. 13
 
+**Entrata in vigore[^13-1]**
+
 La presente ordinanza entra in vigore il 1° gennaio 2022.
+
+[^13-1]: Introdotto dalla cifra I dell’O del Consiglio delle scuole universitarie del 28 feb. 2025, in vigore dal 1° lug. 2025 ([RU 2025 333](https://fedlex.data.admin.ch/eli/oc/2025/333)).

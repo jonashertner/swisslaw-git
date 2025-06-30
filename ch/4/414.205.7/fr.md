@@ -3,11 +3,11 @@ sr: "414.205.7"
 title: Ordonnance du Conseil des hautes écoles du 20 mai 2021 sur l’admission aux hautes écoles spécialisées et aux instituts de niveau haute école spécialisée (Ordonnance d’admission HES)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/316"
 language: fr
-version: 2022-01-01
+version: 2025-07-01
 adopted: 2021-05-20
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/316/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-316-20220101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/316/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/316/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2021-316-20250701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/316/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/316/20220101/fr"
 
 (Ordonnance d’admission HES)
 
-du 20 mai 2021 (État le 1<sup>er</sup> janvier 2022)
+du 20 mai 2021 (État le 1<sup>er</sup> juillet 2025)
 
 Le Conseil des hautes écoles,
 
@@ -39,7 +39,9 @@ La présente ordonnance règle pour le cycle bachelor d’une haute école spéc
 - b. les conditions d’admission supplémentaires pour les différents domaines d’études;
 - c. les exigences relatives à l’expérience du monde du travail, en général et pour les différents domaines d’études.
 
-<sup>2</sup> L’admission au cycle bachelor d’une haute école spécialisée dans le domaine de la santé est régie par l’art. 73, al. 3, let. a, LEHE.
+<sup>2</sup> Pour le cycle bachelor d’une haute école spécialisée dans le domaine d’études de la santé, elle règle la vérification de l’aptitude personnelle des candidats pour le domaine professionnel ainsi que la procédure de sélection pour l’attribution des places d’études. Pour le reste, l’admission est régie par l’art. 73, al. 3, let. a, LEHE.[^1-1]
+
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des hautes écoles du 28 fév. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 333](https://fedlex.data.admin.ch/eli/oc/2025/333)).
 
 ## Section 2 Admission sans ou avec examen
 
@@ -86,7 +88,7 @@ Dans les domaines d’études technique et technologie de l’information, archi
 
 <sup>4</sup> Pour l’admission aux études en vue de la formation des enseignants dans les domaines des arts visuels ou de la musique, les dispositions du droit intercantonal concernant la reconnaissance des diplômes d’enseignement de la Conférence suisse des directeurs cantonaux de l’instruction publique (CDIP)[^4-1] s’appliquent.
 
-[^4-1]: www.edk.ch &gt; Documents officiels &gt; Recueil des bases légales &gt; 4.2.2.10
+[^4-1]: [www.edk.ch](http://www.edk.ch/) &gt; Documents officiels &gt; Recueil des bases légales &gt; 4.2.2.10
 
 #### Art. 5
 
@@ -122,7 +124,7 @@ Les candidats au domaine d’études de linguistique appliquée doivent passer, 
 
 <sup>3</sup> Les catalogues de compétences doivent être portés à la connaissance du Conseil des hautes écoles.
 
-[^8-1]: www.sefri.admin.ch &gt; Formation &gt; Formation professionnelle initiale &gt; Liste des professions
+[^8-1]: [www.sefri.admin.ch](http://www.sefri.admin.ch) &gt; Formation &gt; Formation professionnelle initiale &gt; Liste des professions
 
 #### Art. 9
 
@@ -152,8 +154,48 @@ Dans le domaine d’études psychologie appliquée, les candidats sont tenus de 
 
 <sup>2</sup> Les hautes écoles spécialisées et les instituts de niveau haute école spécialisée examinent les compétences avec une procédure d’admission formelle.
 
-## Section 5 Entrée en vigueur
+## Section 4*a* Dispositions spéciales pour le domaine d’études de la santé
+
+[^sec4a-1]
+
+[^sec4a-1]: Introduite par le ch. I de l’O du Conseil des hautes écoles du 28 fév. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 333](https://fedlex.data.admin.ch/eli/oc/2025/333)).
+
+#### Art. 12a
+
+**Vérification de l*’*aptitude personnelle pour le domaine professionnel**
+
+<sup>1</sup> Dans le domaine d’études de la santé, les hautes écoles spécialisées vérifient, avant l’entrée au premier semestre d’études de bachelor, l’aptitude personnelle des candidats pour le domaine professionnel. Elles peuvent organiser des tests dans ce but.
+
+<sup>2</sup> Elles ne vérifient pas l’aptitude personnelle pour le domaine professionnel des candidats titulaires d’un certificat fédéral de capacité dans le domaine de la santé complété d’une maturité professionnelle ni des candidats titulaires d’une maturité spécialisée Santé.
+
+#### Art. 12b
+
+**Procédure de sélection pour l*’*attribution des places d*’*études**
+
+<sup>1</sup> Les hautes écoles spécialisées peuvent prévoir une procédure de sélection pour attribuer les places d’études à disposition dans le domaine d’études de la santé.
+
+<sup>2</sup> Elles veillent à ce que la procédure appliquée ne favorise ni ne pénalise entre autres les candidats titulaires d’un certificat fédéral de capacité dans le domaine de la santé complété d’une maturité professionnelle, les candidats titulaires d’une maturité spécialisée Santé ainsi que les candidats titulaires d’une maturité gymnasiale.
+
+<sup>3</sup> Elles vérifient la procédure de sélection à intervalles réguliers.
+
+## Section 5 Dispositions finales
+
+[^sec5-1]
+
+[^sec5-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des hautes écoles du 28 fév. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 333](https://fedlex.data.admin.ch/eli/oc/2025/333)).
+
+#### Art. 12c
+
+**Disposition transitoire relative à la modification du 28 février 2025**[^12c-1]
+
+Les hautes écoles spécialisées doivent satisfaire aux exigences prévues aux art. 12*a* et 12*b* au plus tard douze mois après l’entrée en vigueur de la modification du 28 février 2025.
+
+[^12c-1]: Introduit par le ch. I de l’O du Conseil des hautes écoles du 28 fév. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 333](https://fedlex.data.admin.ch/eli/oc/2025/333)).
 
 #### Art. 13
 
+**Entrée en vigueur[^13-1]**
+
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2022.
+
+[^13-1]: Introduit par le ch. I de l’O du Conseil des hautes écoles du 28 fév. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 333](https://fedlex.data.admin.ch/eli/oc/2025/333)).
