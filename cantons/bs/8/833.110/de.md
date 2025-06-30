@@ -3,13 +3,12 @@ canton: BS
 number: "833.110"
 title: Ordnung über die berufliche Vorsorge
 language: de
-version: 2023-01-01
-valid_until: 2025-06-30
-version_adopted: 2022-08-29
+version: 2025-07-01
+version_adopted: 2025-05-23
 adopted: 2012-01-23
 in_force: 2012-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/833.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5670/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6614/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5670/pdf_file"
 
 Berufliche Alters-, Hinterlassenen- und Invalidenvorsorge[^t-1]
 
-Vom 23. Januar 2012 (Stand 1. Januar 2023)
+Vom 23. Januar 2012 (Stand 1. Juli 2025)
 
 Der Verwaltungsrat der BSABB (BVG- und Stiftungsaufsicht beider Basel),
 
