@@ -4,13 +4,13 @@ number: "922.100"
 title: "Règlement d'exécution de la loi sur la chasse"
 short: RexChP
 language: fr
-version: 2024-07-01
-corrected: 2025-04-04
-version_adopted: 2024-06-19
+version: 2025-07-01
+valid_until: 2026-06-30
+version_adopted: 2025-06-18
 adopted: 2021-06-16
 in_force: 2021-06-25
 url: "https://lex.vs.ch/app/fr/texts_of_law/922.100"
-pdf: "https://lex.vs.ch/api/fr/versions/3325/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3504/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3325/pdf_file"
 
 (RexChP)
 
-du 16.06.2021 (état 01.07.2024)
+du 16.06.2021 (état 01.07.2025)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -29,7 +29,7 @@ vu l'article 53 alinéa 2 de la loi sur la chasse et la protection des mammifèr
 
 sur la proposition du département en charge de la chasse,
 
-arrête:[^ingress-1]
+ordonne:[^ingress-1]
 
 [^ingress-1]: Dans le présent règlement, toute désignation de personne, de statut ou de fonction, vise indifféremment l'homme ou la femme.
 
@@ -371,7 +371,7 @@ arrête:[^ingress-1]
 
 <sup>3</sup> Le calibre des armes à canon lisse doit être de 12 à 20. Ces armes à canon lisse à un ou deux canons ne doivent pouvoir contenir que deux cartouches.
 
-<sup>4</sup> Les armes à canon rayé de petit calibre à un seul coup ainsi que les fusils mixtes sont autorisés lors du tir des petits prédateurs à l'affût.
+<sup>4</sup> Les armes à canon rayé de petit calibre ainsi que les fusils mixtes sont autorisés lors du tir des petits prédateurs à l'affût.
 
 <sup>5</sup> Le Conseil d'Etat peut ordonner le contrôle et le poinçonnage des armes de chasse par l'instance qu'il désigne.
 
@@ -384,7 +384,8 @@ arrête:[^ingress-1]
 - a) la cartouche à balle d'une énergie initiale de 3000 joules (EO) au minimum;
 - b) la balle blindée est interdite, à l’exception du tir de la marmotte;
 - c) la cartouche à balle d’un calibre allant du .22 Hornet jusqu’au 5.6X52 est autorisée pour le tir des petits prédateurs à l’affût;
-- d) les munitions avec des projectiles en plomb ou comprenant un noyau en plomb sont interdites.
+- d) la munition à balles contenant du plomb à partir d’un calibre de 6 millimètres est interdite;
+- e) la munition dont les projectiles affichent une vitesse initiale inférieure à la vitesse du son est interdite.
 
 <sup>2</sup> Pour la chasse avec arme à canon lisse:
 
@@ -472,13 +473,13 @@ arrête:[^ingress-1]
 
 **Chien de rouge, liste officielle et utilisation pour l'exercice de la chasse**
 
-<sup>1</sup> Est autorisé à entreprendre des recherches de gibier, le conducteur dont le chien rempli les conditions suivantes:
+<sup>1</sup> Sont autorisés à effectuer des recherches des couples de conducteur chien (personne titulaire d’une autorisation de chasser et porteuse d’une arme, accompagnée de son chien de rouge évalué et jugé apte à la tâche):
 
 - a) avoir réussi durant l'année en cours un examen d'aptitude reconnu par le SCPF, ou
-- b) avoir participé à un cours de répétition organisé par la FVSC dans les trois années qui suivent la réussite de l'examen, puis selon cette même fréquence par la suite, ou
+- b) apporter la preuve de participation à un cours de répétition organisé par la FVSC, dans les 3 années qui suivent la réussite de l'examen puis selon cette même fréquence par la suite, ou
 - c) pouvoir attester la réussite d'un examen d'aptitude et apporter la preuve de recherches régulières et réussies, opérées sur du gibier blessé.
 
-<sup>2</sup> Seuls les examens d'aptitudes effectués par la FVSC, ainsi que les épreuves dont les exigences correspondent à celles prévues par le règlement du CoTCH, et qui sont organisées par des associations cynologiques validées par le CoTCH, sont reconnus par le SCPF.
+<sup>2</sup> Seuls les examens d'aptitudes effectués par la FVSC, ainsi que les épreuves dont les exigences correspondent à celles prévues par le règlement du CoTCH, et qui sont organisées par des associations cynologiques validées par le CoTCH, sont reconnus par le SCPF. Les mêmes critères de reconnaissance s'appliquent aux cours de répétition.
 
 <sup>3</sup> La FVSC tient la liste officielle des conducteurs de chiens de rouge autorisés à effectuer des recherches. Cette liste qui inventorie les conducteurs remplissant l'une des conditions fixées à l'alinéa 1 ci-dessus, est disponible sur les sites Internet de la FVSC et du SCPF. Il incombe au conducteur qui remplit les conditions de solliciter son inscription sur la liste officielle en s'adressant à la FVSC.
 
@@ -557,8 +558,10 @@ arrête:[^ingress-1]
 - a) durant la chasse haute:
   - 1\. tir d'une chèvre de chamois allaitante: — Fr. 300.-
   - 2\. tir d'un cabri de chamois: — Fr. 200.-
-  - 3\. tir d'un éterle de chamois non autorisé: — Fr. 200.-
-  - 3<sup>bis</sup>. tir d’un chamois de 2,5 ans : — Fr. 200.-
+  - 3\. tir d’un éterle chamois non autorisé (avec perte de contingent): — Fr. 100.-
+  - 3<sup>bis</sup>. tir d’un éterle chamois non autorisé (sans perte de contingent): — Fr. 200.-
+  - 3<sup>ter</sup>. tir d’un chamois de 2,5 ans (avec perte de contingent): — Fr. 100.-
+  - 3<sup>quater</sup> tir d’un chamois de 2,5 ans (sans perte de contingent): — Fr. 200.-
   - 4\. erreur de tir sur la catégorie chamois lorsque le chasseur ne dispose plus du droit de tir correspondant: — Fr. 200.-
   - 5\. tir d'une chevrette allaitante: — Fr. 250.-
   - 6\. tir d'un faon de chevreuil: — Fr. 200.-
@@ -574,13 +577,7 @@ arrête:[^ingress-1]
   - 1\. tir d'une chevrette allaitante ou non: — Fr. 300.-
   - 2\. tir d'un faon de chevreuil: — Fr. 200.-
   - 3\. tir d'une laie allaitante: — Fr. 250.-
-- c) durant la chasse particulière au chevreuil:
-  - 1\. tir d'une 2<sup>e</sup> chevrette: — Fr. 200.-
-  - 2\. tir d'une 2<sup>e</sup> chevrette allaitante: — Fr. 300.-
-  - 2<sup>bis</sup>. tir d'un brocard sans bois ou dont la longueur des bois est inférieure à 5cm y.c.: — Fr. 250.-
-  - 2<sup>ter</sup>. tir d'un brocard dont la longueur est supérieure à 5cm et jusqu'à 15cm y.c.: — Fr. 300.-
-  - 2<sup>quater</sup>. tir d'un brocard dont la longueur est supérieure à 15cm: — Fr. 350.-
-  - 3\. tir d'une laie allaitante: — Fr. 250.-
+- c) …
 - d) durant le permis S:
   - 1\. tir d'une laie allaitante: — Fr. 250.-
 - e) durant la régulation du bouquetin:
@@ -842,5 +839,15 @@ arrête:[^ingress-1]
 <sup>1</sup> Dans un délai transitoire de 4 ans, dès l’entrée en vigueur du présent règlement d’exécution, afin de justifier de ses capacités à utiliser son arme avec efficience le chasseur doit présenter, au minimum tous les 2 ans, une attestation correspondant aux modalités fixées dans la directive du SCPF relative aux exercices périodiques de tir. Pour 2024, le chasseur qui n’a pas fourni d’attestation en 2023, doit impérativement faire valoir une attestation justifiant de ses compétences de tir pour la délivrance de son permis de chasse. Dès 2025, le chasseur doit fournir annuellement une attestation correspondant à l'année civile.
 
 <sup>2</sup> Le délai transitoire pour la validation des exigences minimales en matière de compétences des chiens reconnues par le SCPF conformément aux dispositions de l'article 33 du présent règlement est repoussé de 2 ans. La mise en oeuvre de l'article 33 est effectif pour la saison de chasse 2026-2027.
+
+## T4 Disposition transitoire de la modification du 18 juin 2025
+
+#### Art. T4-1
+
+**Adaptations de dispositions et dispositions transitoires**
+
+<sup>1</sup> Dans un délai transitoire de 4 ans, dès l’entrée en vigueur du présent règlement d’exécution, afin de justifier de ses capacités à utiliser son arme avec efficience le chasseur doit présenter, au minimum tous les 2 ans, une attestation correspondant aux modalités fixées dans la directive du SCPF relative aux exercices périodiques de tir. A partir de l'année 2025, le chasseur devra présenter chaque année une attestation daté de l'année civile correspondante.
+
+<sup>2</sup> Le délai transitoire concernant l'autorisation d'utiliser des munitions contenant du plomb pour la pratique de la chasse avec des carabines, conformément à l'article 30 alinéa 1 lettre d du présent règlement, est prolongé sur la base de l'ordonnance fédérale révisée sur la chasse. L'interdiction entre en vigueur le 1<sup>er</sup> janvier 2030.
 
 RCV RO/AGS 2021-075

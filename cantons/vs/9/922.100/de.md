@@ -4,13 +4,13 @@ number: "922.100"
 title: Ausführungsreglement zum Jagdgesetz
 short: ReKJSG
 language: de
-version: 2024-07-01
-corrected: 2025-04-04
-version_adopted: 2024-06-19
+version: 2025-07-01
+valid_until: 2026-06-30
+version_adopted: 2025-06-18
 adopted: 2021-06-16
 in_force: 2021-06-25
 url: "https://lex.vs.ch/app/de/texts_of_law/922.100"
-pdf: "https://lex.vs.ch/api/de/versions/3325/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3504/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3325/pdf_file"
 
 (ReKJSG)
 
-vom 16.06.2021 (Stand 01.07.2024)
+vom 16.06.2021 (Stand 01.07.2025)
 
 Der Staatsrat des Kantons Wallis
 
@@ -29,7 +29,7 @@ eingesehen den Artikel 53 Absatz 2 des Jagdgesetzes vom 30. Januar 1991 (KJSG);
 
 auf Antrag des für die Jagd zuständigen Departements,
 
-beschliesst:[^ingress-1]
+verordnet:[^ingress-1]
 
 [^ingress-1]: In diesem Reglement gilt jede Bezeichnung der Person, des Status oder der Funktion in gleicher Weise für Mann und Frau.
 
@@ -371,7 +371,7 @@ beschliesst:[^ingress-1]
 
 <sup>3</sup> Das Kaliber der Flinten beträgt 12 bis 20. Diese ein- oder zweiläufigen Waffen dürfen maximal zwei Patronen aufnehmen können.
 
-<sup>4</sup> Kleinkalibrige einschüssige Büchsen sowie gemischte Waffen desselben Kugelkalibers sind für die Passjagd auf Kleinraubwild gestattet.
+<sup>4</sup> Kleinkalibrige Büchsen sowie gemischte Waffen desselben Kugelkalibers sind für die Passjagd auf Kleinraubwild gestattet.
 
 <sup>5</sup> Der Staatsrat kann vorschreiben, dass die Jagdwaffen durch eine von ihm bestimmte Instanz kontrolliert und markiert werden.
 
@@ -384,7 +384,8 @@ beschliesst:[^ingress-1]
 - a) die Initialenergie (EO) muss mindestens 3000 Joule betragen;
 - b) Vollmantelgeschosse sind verboten; die Verwendung von Vollmantelmunition ist nur für den Abschuss von Murmeltieren erlaubt;
 - c) Geschosse mit einem Kaliber von .22 Hornet bis 5.6X52 sind für die Passjagd auf Kleinraubwild erlaubt;
-- d) Geschosse aus Blei oder mit einem Bleikern sind verboten.
+- d) bleihaltige Kugelmunition ab Kaliber 6 Millimetern ist verboten;
+- e) Munition, deren Projektil eine Mündungsgeschwindigkeit unter Schallgeschwindigkeit aufweist, ist verboten.
 
 <sup>2</sup> Für die Jagd mit der Flinte:
 
@@ -472,17 +473,17 @@ beschliesst:[^ingress-1]
 
 **Schweisshunde, offizielle Liste und Verwendung zur Jagdausübung**
 
-<sup>1</sup> Zur Nachsuche berechtigt ist der Schweisshundeführer mit einem Hund, der folgende Anforderungen erfüllt:
+<sup>1</sup> Zur Nachsuche berechtigt sind Nachsuchegespanne (bestehend aus einem geprüften und für den entsprechenden Einsatz geeigneten Schweisshund mit einem jagdberechtigten und waffentragenden Hundeführer) welche folgende Anforderungen erfüllen:
 
 - a) im laufenden Jahr eine von der DJFW anerkannte Schweisshundeprüfung bestanden hat, oder
-- b) den Nachweis über die Teilnahme an einem vom KWJV organisierten Wiederholungskurs erbringt, welcher innert drei Jahre seit der Prüfung oder dem letzten Wiederholungskurs absolviert wurde, oder
+- b) den Nachweis über die Teilnahme an einem vom KWJV organisierten Wiederholungskurs erbringt, welcher innert 3 Jahren seit der Prüfung oder dem letzten Wiederholungskurs absolviert wurde, oder
 - c) den Nachweis einer bestandenen Prüfung und einer regelmässigen erfolgreichen Nachsuchenpraxis auf verletztes Wild erbringt.
 
-<sup>2</sup> Von der DJFW anerkannt werden neben der Prüfung des KWJV alle Schweissprüfungen, welche den Anforderungen, die im Reglement der Technischen Kommission für das Jagdhundewesen (TKJ) über Schweissprüfungen enthalten sind und von der TKJ anerkannten Vereinen durchgeführt werden, entsprechen.
+<sup>2</sup> Von der DJFW anerkannt werden neben der Prüfung des KWJV alle Schweissprüfungen, welche den Anforderungen, die im Reglement der Technischen Kommission für das Jagdhundewesen (TKJ) über Schweissprüfungen enthalten sind und von der TKJ anerkannten Vereinen durchgeführt werden, entsprechen. Dieselben Kriterien zur Anerkennung gelten für die Wiederholungskurse.
 
 <sup>3</sup> Der KWJV führt die offizielle Liste der zur Nachsuche berechtigten Schweisshundeführer. Die Liste bezeichnet die Schweisshundeführer, die eine der Voraussetzungen für den Einsatz des Hundes gemäss Absatz 1 dieses Artikels erfüllen. Die Liste wird auf den jeweiligen Internetseiten des KWJV und der DJFW publiziert. Der Schweisshundeführer, der die Voraussetzungen erfüllt, muss beim KWJV ein entsprechendes Gesuch zur Aufnahme in die Liste stellen.
 
-<sup>4</sup> Nur die auf der offiziellen Liste aufgeführten Schweisshundeführer dürfen für sich und andere Jäger Nachsuchen durchführen. Sie verpflichten sich damit, auf Anfrage eines Jägers, die Nachsuche durchzuführen.
+<sup>4</sup> Nur die auf der offiziellen Liste aufgeführten Schweisshundeführer dürfen für sich und andere Jäger Nachsuchen durchführen. Sie verpflichten sich damit, auf Anfrage einer jagdberechtigten Person die Nachsuche durchzuführen.
 
 <sup>5</sup> Der Jäger der einen Schweisshund besitzt, der eine der Voraussetzungen für den Einsatz des Hundes gemäss Absatz 1 dieses Artikels erfüllt, aber nicht auf der Liste aufgeführt sein will, darf nur für sich selber oder die Mitglieder seiner Jagdgruppe Nachsuchen durchführen.
 
@@ -557,8 +558,10 @@ beschliesst:[^ingress-1]
 - a) während der Hochjagd:
   - 1\. Abschuss einer melken Gämsgeiss: — Fr. 300.-
   - 2\. Abschuss eines Gämskitzes: — Fr. 200.-
-  - 3\. Abschuss eines nicht erlaubten Gämsjährlings: — Fr. 200.-
-  - 3<sup>bis</sup>. Abschuss einer 2.5 jährigen Gämse — Fr. 200.-
+  - 3\. Abschuss eines nicht erlaubten Gämsjährlings (mit Kontingentverlust): — Fr. 100.-
+  - 3<sup>bis</sup>. Abschuss eines nicht erlaubten Gämsjährlings (ohne Kontingentverlust): — Fr. 200.-
+  - 3<sup>ter</sup>. Abschuss einer 2,5 jährigen Gämse (mit Kontingentverlust): — Fr. 100.-
+  - 3<sup>quater</sup> Abschuss einer 2,5 jährigen Gämse (ohne Kontingentverlust): — Fr. 200.-
   - 4\. Abschuss einer Gämse aus einer Kategorie, über die der Jäger nicht mehr verfügt: — Fr. 200.-
   - 5\. Abschuss einer melken Rehgeiss: — Fr. 250.-
   - 6\. Abschuss eines Rehkitzes: — Fr. 200.-
@@ -574,13 +577,7 @@ beschliesst:[^ingress-1]
   - 1\. Abschuss einer melken oder nicht melken Rehgeiss: — Fr. 300.-
   - 2\. Abschuss eines Rehkitzes: — Fr. 200.-
   - 3\. Abschuss einer melken Bache: — Fr. 250.-
-- c) während der Spezialjagd auf Rehwild:
-  - 1\. Abschuss einer 2. Rehgeiss (nicht melk): — Fr. 200.-
-  - 2\. Abschuss einer 2. Rehgeiss (melk): — Fr. 300.-
-  - 2<sup>bis</sup>. Abschuss eines Rehbocks ohne Geweih oder mit einer mittleren Geweihlänge bis und mit 5cm: — Fr. 250.-
-  - 2<sup>ter</sup>. Abschuss eines Rehbocks mit einer mittleren Geweihlänge über 5cm und bis und mit 15cm: — Fr. 300.-
-  - 2<sup>quater</sup>. Abschuss eines Rehbocks mit einer mittleren Geweihlänge über 15cm: — Fr. 350.-
-  - 3\. Abschuss einer melken Bache: — Fr. 250.-
+- c) …
 - d) während der Spezialjagd auf Wildschweine (Patent S):
   - 1\. Abschuss einer melken Bache: — Fr. 250.-
 - e) während der Steinwildregulation:
@@ -840,5 +837,15 @@ beschliesst:[^ingress-1]
 <sup>1</sup> Während einer Übergangsfrist von 4 Jahren ab Inkrafttreten dieses Ausführungsreglements muss der Jäger mindestens alle 2 Jahre einen Treffsicherheitsnachweis über die Befähigung zum effizienten Umgang mit seiner Waffe vorlegen, die den Anforderungen der DJFW gemäss der Richtlinie über periodische Schiessübungen entspricht. Für das Jahr 2024 muss der Jäger, der 2023 keinen Treffsicherheitsnachweis vorgelegt hat, für die Erteilung eines Patentes zwingend einen Treffsicherheitsnachweis vorlegen. Ab dem Jahr 2025 muss der Jäger jährlich einen Treffsicherheitsnachweis vorlegen, welcher vom entsprechenden Kalenderjahr datiert ist.
 
 <sup>2</sup> Die Übergangsfrist für die Validierung der Mindestanforderungen an die von der DJFW anerkannten Fähigkeiten von Hunden gemäß den Bestimmungen von Artikel 33 dieser Verordnung wird um zwei Jahre verlängert. Die Umsetzung dieser Bestimmung tritt mit der Jagderöffnung 2026-2027 in Kraft.
+
+## T4 Übergangsbestimmung der Änderung vom 18. Juni 2025
+
+#### Art. T4-1
+
+**Anpassungen der Bestimmungen und Übergangsbestimmungen**
+
+<sup>1</sup> Während einer Übergangsfrist von 4 Jahren ab Inkrafttreten dieses Ausführungsreglements muss der Jäger mindestens alle 2 Jahre einen Treffsicherheitsnachweis über die Befähigung zum effizienten Umgang mit seiner Waffe vorlegen, die den Anforderungen der DJFW gemäss der Richtlinie über periodische Schiessübungen entspricht. Ab dem Jahr 2025 muss der Jäger jährlich einen Treffsicherheitsnachweis vorlegen, welcher vom entsprechenden Kalenderjahr datiert ist.
+
+<sup>2</sup> Die Übergangsfrist betreffend der Erlaubnis zur Verwendung von bleihaltiger Munition zur Ausübung der Jagd mit Büchsen gemäss Artikel 30 Abstand 1 Buchstabe d dieses Reglements wird basierend auf der revidierten eidg. Jagdverordnung verlängert. Das Verbot tritt auf den 1. Januar 2030 in Kraft.
 
 CSW RO/AGS 2021-075
