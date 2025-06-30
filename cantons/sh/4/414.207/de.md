@@ -1,271 +1,178 @@
 ---
 canton: SH
 number: "414.207"
-title: Verordnung des Hochschulrates betreffend die Hochschulleitung und die erweiterte Hochschulleitung der Pädagogischen Hochschule Schaffhausen
+title: Verordnung des Hochschulrates betreffend die Hochschulleitung der Pädagogischen Hochschule Schaffhausen
 language: de
-version: 2020-08-01
-corrected: 2024-06-16
-version_adopted: 2020-08-24
+version: 2025-07-01
+version_adopted: 2025-05-24
 adopted: 2020-08-24
 in_force: 2020-08-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/414.207"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/448/pdf_file"
-text: pdf
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/1984/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Hochschulrates betreffend die Hochschulleitung und die erweiterte Hochschulleitung der Pädagogischen Hochschule Schaffhausen
+# Verordnung des Hochschulrates betreffend die Hochschulleitung der Pädagogischen Hochschule Schaffhausen
 
-vom 24. August 2020
+Vom 24.08.2020 (Stand 01.07.2025)
 
 Der Hochschulrat der Pädagogischen Hochschule Schaffhausen,
 
 gestützt auf Art. 15 Abs. 2 lit. h und k und Art. 16 ff. des Hochschulgesetzes vom 2. Dezember 2019,
 
-verordnet:
+beschliesst:
 
-### I. Allgemeine Bestimmung
+## 1 Allgemeine Bestimmung
 
 #### § 1
 
 **Regelungsbereich**
 
-Die vorliegende Verordnung legt die Wahl, die Zusammensetzung und die Aufgaben der Hochschulleitung und der erweiterten Hochschulleitung sowie die Aufgaben der einzelnen Mitglieder der erweiterten Hochschulleitung fest.
+<sup>1</sup> Die vorliegende Verordnung legt die Zusammensetzung der Hochschulleitung fest.
 
-### II. Zusammensetzung und Wahl
+<sup>2</sup> Sie legt zudem die Aufgaben der Hochschulleitung und deren Mitglieder fest.
+
+## 2 Zusammensetzung
 
 #### § 2
 
-**Zusammensetzung Hochschulleitung**
+**Hochschulleitung**
 
-<sup>1</sup> Der Hochschulleitung gehören die Rektorin bzw. der Rektor, die Prorektorin bzw. der Prorektor Ausbildung und die Prorektorin bzw. der Prorektor Weiterbildung und Dienstleistungen an.
+<sup>1</sup> Der Hochschulleitung gehören nebst der Rektorin bzw. dem Rektor, die Prorektorin bzw. der Prorektor «Ausbildung» und die Prorektorin bzw. der Prorektor «Weiterbildung, Dienstleistungen, Forschung und Entwicklung» sowie die Leiterin bzw. der Leiter «Zentrale Dienste» an.
 
-<sup>2</sup> Der Hochschulrat stellt die Mitglieder der Hochschulleitung an.
+<sup>2</sup> …
 
-<sup>3</sup> Der Rektor bzw. die Rektorin bestimmt aus dem Kreis der Hochschulleitung seine Stellvertretung.
-
-Amtsblatt 2020, S. 1479
+<sup>3</sup> Die Rektorin bzw. der Rektor bestimmt aus dem Kreis der Hochschulleitung ihre bzw. seine Stellvertretung.
 
 #### § 3
 
-**Zusammensetzung erweiterte Hochschulleitung**
+**…**
 
-Die Hochschulleitung sowie der Leiter bzw. die Leiterin der Abteilung Forschung und Entwicklung bilden die erweiterte Hochschulleitung.
-
-### III. Aufgaben
+## 3 Aufgaben
 
 #### § 4
 
-**Aufgaben der Hochschulleitung**
+**Hochschulleitung**
 
 <sup>1</sup> Die Hochschulleitung hat insbesondere folgende Aufgaben:
 
-- a) Führen der Pädagogischen Hochschule Schaffhausen (PHSH);
-
-- b) Konzipieren der Angebote in den Leistungsbereichen Ausbildung, Weiterbildung und Dienstleistungen;
-
-- c) Vorbereitung der Geschäfte des Hochschulrates;
-
-- d) Entscheid betreffend die Zulassung gemäss Art. 29 Abs. 3 des Hochschulgesetzes;
-
-- e) Verfügen von Disziplinarmassnahmen;
-
-- f) Verfügen des Ausschlusses von Studierenden;
-
-- g) Anstellung von Dozierenden, wissenschaftlichen Mitarbeitenden und Assistierenden (DWA);
-
-- h) Anstellung des administrativen, technischen und betrieblichen Personals (ATB) und des weiteren Personals, welches nicht unter die Verordnung über die Arbeitsverhältnisse von Dozierenden, wissenschaftlichen Mitarbeitenden und Assistierenden der Pädagogischen Hochschule Schaffhausen (Personalverordnung PHSH) fällt;
-
-- i) Gewährleistung von Grundstrukturen und Grundsätzen zur Führung der DWA und ATB;
-
-- k) Förderung der Weiterbildung von Mitarbeitenden;
-
-- l) Entscheid über die Gewährung von Urlaub und Auszeit;
-
-- m) Erlass von Reglementen in ihrem Zuständigkeitsbereich;
-
-- n) Erlass einer Geschäftsordnung betreffend die Konferenzen der Pädagogischen Hochschule Schaffhausen;
-
-- o) Erlass eines Reglements über die Vergütung und das Honorar von Expertinnen und Experten;
-
-- p) Erlass eines Reglements betreffend die Benutzung von Räumlichkeiten und Infrastruktur.
+- a) Führung und Entwicklung der Pädagogischen Hochschule Schaffhausen (PHSH)
+- b) Umsetzung des Leistungsauftrags und Koordination der Angebote in den Leistungsbereichen Ausbildung, Weiterbildung, Forschung und Entwicklung sowie Dienstleistungen
+- c) Vorbereitung der Geschäfte des Hochschulrates
+- d) Entscheid betreffend die Zulassung gemäss Art. 29 Abs. 3 des Hochschulgesetzes
+- e) Verfügen von Disziplinarmassnahmen
+- f) Verfügen des Ausschlusses von Studierenden
+- g) Anstellung von Dozierenden, wissenschaftlichen Mitarbeitenden und Assistierenden (DWA)
+- h) Anstellung des administrativen, technischen und betrieblichen Personals (ATB) und des weiteren Personals, welches nicht unter die Verordnung über die Arbeitsverhältnisse von Dozierenden, wissenschaftlichen Mitarbeitenden und Assistierenden der Pädagogischen Hochschule Schaffhausen (Personalverordnung PHSH) fällt
+- i) Gewährleistung von Grundstrukturen und Grundsätzen zur Führung der DWA und ATB
+- k) Förderung der Weiterbildung von Mitarbeitenden
+- l) Entscheid über die Gewährung von Urlaub und Auszeit
+- m) Erlass von Reglementen in ihrem Zuständigkeitsbereich
+- n) Erlass einer Geschäftsordnung betreffend die Konferenzen der PHSH
+- o) Erlass eines Reglements über die Vergütung und das Honorar von Expertinnen und Experten
+- p) Erlass eines Reglements betreffend die Benutzung von Räumlichkeiten und Infrastruktur
+- q) Erlass eines Reglements betreffend die Unterstützung bei Dissertationen
 
 <sup>2</sup> Weitere Aufgaben der Hochschulleitung sowie die Sitzungsorganisation sind durch diese in einer Geschäftsordnung zu regeln.
 
 #### § 5
 
-**Aufgaben der erweiterten Hochschulleitung**
-
-<sup>1</sup> Die erweiterte Hochschulleitung hat insbesondere folgende Aufgaben:
-
-- a) Entwickeln der PHSH;
-
-- b) Umsetzung des Leistungsauftrags;
-
-- c) Koordination der Leistungsbereiche Ausbildung, Weiterbildung, Dienstleistungen, For-schung und Entwicklung;
-
-- d) Gewährleistung von Grundstrukturen und Grundsätzen zur Führung der DWA und ATB;
-
-- e) Sicherung der Qualität in allen Leistungsbereichen;
-
-- f) Planen und Koordinieren von Einnahmen und Ausgaben;
-
-- g) Kontakt pflegen zur Pädagogischen Hochschule Zürich (PHZH);
-
-- h) Kontakt pflegen zu weiteren Kooperationspartnern und anderen Hochschulen;
-
-- i) Vertretung der PHSH in den Gremien von swissuniversities und weiteren nationalen und internationalen Gremien;
-
-- k) Formulieren von Anträgen zuhanden des Hochschulrates;
-
-- l) Erlass eines Reglements betreffend die Unterstützung bei Dissertationen.
-
-<sup>2</sup> Weitere Aufgaben der erweiterten Hochschulleitung sowie die Sitzungsorganisation sind durch die Hochschulleitung in einer Geschäftsordnung zu regeln.
+**…**
 
 #### § 6
 
-**Aufgaben des Rektors bzw. der Rektorin**
+**Rektorin bzw. Rektor**
 
-<sup>1</sup> Der Rektor bzw. die Rektorin hat insbesondere folgende Aufgaben:
+<sup>1</sup> Die Rektorin bzw. der Rektor hat insbesondere folgende Aufgaben:
 
-- a) operative und strategische Führung der PHSH;
+- a) operative und strategische Führung der PHSH
+- b) Führung der Hochschulleitung
+- c) …
+- d) Budgetplanung und Rechnungslegung für die gesamte PHSH
+- e) Vertretung der Hochschulleitung im Hochschulrat
+- f) Betreuung der Geschäfte des Hochschulrates
+- g) Vollzug der Beschlüsse des Hochschulrates
+- h) Sicherstellung des Qualitätsmanagements und der Qualitätsentwicklung der PHSH
+- i) hochschulinterne und ‑externe Kommunikation
+- k) Vertretung der PHSH nach aussen
+- l) Planung und Leitung der Konferenzen der PHSH
+- m) Förderung der Zusammenarbeit mit anderen Hochschulen insbesondere der Kooperation mit der PHZH
+- n) Pensenplanung und Vorbereitung von Neuanstellungen in Absprache mit den übrigen Mitgliedern der Hochschulleitung
+- o) Führung von unterstellten DWA und ATB
+- p) Mitglied des Erziehungsrates des Kantons Schaffhausen
+- q) Einsitz im Hochschulrat mit beratender Stimme
 
-- b) Führung der Hochschulleitung und der erweiterten Hochschulleitung;
+<sup>2</sup> Im Übrigen erfüllt die Rektorin bzw. der Rektor alle Aufgaben, die nicht einem anderen Organ zugewiesen sind.
 
-- c) Leitung von Fachbereichen;
-
-- d) Budgetplanung und Rechnungslegung für die gesamte Hochschule;
-
-- e) Vertretung der Hochschulleitung im Hochschulrat;
-
-- f) Betreuung der Geschäfte des Hochschulrates;
-
-- g) Vollzug der Beschlüsse des Hochschulrates;
-
-- h) Sicherstellung des Qualitätsmanagements und der Qualitätsentwicklung der PHSH;
-
-- i) hochschulinterne und -externe Kommunikation;
-
-- k) Vertretung der PHSH nach aussen;
-
-- l) Planung und Leitung der Konferenz der Pädagogischen Hochschule und der Konferenz des wissenschaftlichen Personals;
-
-- m) Förderung der Zusammenarbeit mit anderen Hochschulen insbesondere der Kooperation mit der PHZH;
-
-- n) Pensenplanung und Vorbereitung von Neuanstellungen in Absprache mit den übrigen Mitgliedern der erweiterten Hochschulleitung;
-
-- o) Führung der ihm bzw. ihr unterstellten DWA und ATB;
-
-- p) Mitglied des Erziehungsrates des Kantons Schaffhausen;
-
-- q) Einsitz im Hochschulrat mit beratender Stimme.
-
-<sup>2</sup> Im Übrigen erfüllt der Rektor bzw. die Rektorin alle Aufgaben, die nicht einem anderen Organ zugewiesen sind.
-
-<sup>3</sup> Der Rektor bzw. die Rektorin kann zur Erfüllung der Aufgaben Mitglieder der erweiterten Hochschulleitung oder DWA beiziehen.
+<sup>3</sup> Die Rektorin bzw. der Rektor kann zur Erfüllung der Aufgaben andere Mitglieder der Hochschulleitung oder DWA beiziehen.
 
 #### § 7
 
-**Aufgaben der Prorektorin bzw. des Prorektors Ausbildung**
+**Prorektorin bzw. Prorektor Ausbildung**
 
 <sup>1</sup> Die Prorektorin bzw. der Prorektor Ausbildung hat insbesondere folgende Aufgaben:
 
-- a) Umsetzung der Strategie im Leistungsbereich Ausbildung;
-
-- b) Planung, Durchführung, Auswertung und Weiterentwicklung der Studiengänge;
-
-- c) Leitung der Prüfungskonferenzen;
-
-- d) projektbezogene Zusammenarbeit mit dem zuständigen Mitglied der erweiterten Hochschulleitung;
-
-- e) Vertretung des Prorektorats nach aussen;
-
-- f) Sicherstellung des Qualitätsmanagements und der Qualitätsentwicklung im eigenen Verantwortungsbereich;
-
-- g) Verantwortung über das Budget und die Rechnung des Prorektorats in Zusammenarbeit mit dem Rektor bzw. der Rektorin und der Leitung Finanzen und Personaladministration;
-
-- h) Führung der Studierenden;
-
-- i) Erlass von Reglementen und Weisungen betreffend die Ausbildung;
-
-- k) Durchführung von Informationsveranstaltungen für die Studierenden;
-
-- l) Information und Beratung von studieninteressierten Personen;
-
-- m) Entscheid über die Aufnahme von Studierenden in Absprache mit dem Rektor bzw. der Rektorin;
-
-- n) Anrechnung von Bildungs- und Studienleistungen;
-
-- o) Pensenplanung und Vorbereitung von Neuanstellungen in Zusammenarbeit mit dem Rektor bzw. der Rektorin;
-
-- p) Führung der ihm bzw. ihr unterstellten DWA und ATB.
+- a) Umsetzung der Strategie im Leistungsbereich Ausbildung
+- b) Planung, Durchführung, Auswertung und Weiterentwicklung der Studiengänge
+- c) Leitung von Fachbereichen
+- d) projektbezogene Zusammenarbeit mit den zuständigen Mitgliedern der Hochschulleitung
+- e) Vertretung des Prorektorats nach aussen
+- f) Sicherstellung des Qualitätsmanagements und der Qualitätsentwicklung im eigenen Verantwortungsbereich
+- g) Verantwortung über das Budget und die Rechnung des Prorektorats in Zusammenarbeit mit der Rektorin bzw. dem Rektor und der Leiterin bzw. dem Leiter Zentrale Dienste
+- h) Führung von Studierenden
+- i) Erlass von Reglementen und Weisungen betreffend die Ausbildung
+- k) Durchführung von Informationsveranstaltungen für Studierende
+- l) Information und Beratung von studieninteressierten Personen
+- m) Entscheid über die Aufnahme von Studierenden in Absprache mit der Rektorin bzw. dem Rektor
+- n) Anrechnung von Bildungs- und Studienleistungen
+- o) Pensenplanung und Vorbereitung von Neuanstellungen in Zusammenarbeit mit der Rektorin bzw. dem Rektor
+- p) Führung von unterstellten DWA und ATB
 
 <sup>2</sup> Die Prorektorin bzw. der Prorektor kann zur Erfüllung der Aufgaben DWA beiziehen.
 
 #### § 8
 
-**Aufgaben der Prorektorin bzw. des Prorektors Weiterbildung und Dienstleistungen**
+**Prorektorin bzw. Prorektor Weiterbildung, Dienstleistungen, Forschung und Entwicklung**
 
-<sup>1</sup> Die Prorektorin bzw. der Prorektor Weiterbildung und Dienstleistungen hat insbesondere folgende Aufgaben:
+<sup>1</sup> Die Prorektorin bzw. der Prorektor Weiterbildung, Dienstleistungen, Forschung und Entwicklung hat insbesondere folgende Aufgaben:
 
-- a) Umsetzung der Strategie in den Leistungsbereichen Weiterbildung und Dienstleistungen;
-
-- b) Planung, Durchführung, Auswertung und Weiterentwicklung der Angebote in den Leistungsbereichen Weiterbildung und Dienstleistungen;
-
-- c) Leitung der Weiterbildungskommission;
-
-- d) Aufsicht über das Didaktische Zentrum;
-
-- e) projektbezogene Zusammenarbeit mit der Prorektorin bzw. dem Prorektor Ausbildung und der Leitung der Abteilung Forschung und Entwicklung;
-
-- f) Vertretung des Prorektorats nach aussen;
-
-- g) Sicherstellung des Qualitätsmanagements und der Qualitätsentwicklung im eigenen Verantwortungsbereich;
-
-- h) Verantwortung über das Budget und die Rechnung des Prorektorats in Zusammenarbeit mit dem Rektor bzw. der Rektorin und der Leitung Finanzen und Personaladministration;
-
-- i) Erlass von Reglementen und Weisungen betreffend die Weiterbildung und Dienstleistungen;
-
-- k) Pensenplanung und Vorbereitung von Neuanstellungen in Zusammenarbeit mit dem Rektor bzw. der Rektorin;
-
-- l) Führung der ihm bzw. ihr unterstellten DWA und ATB.
+- a) Umsetzung der Strategie in den Leistungsbereichen Weiterbildung, Forschung und Entwicklung sowie Dienstleistungen
+- b) Planung, Durchführung, Auswertung und Weiterentwicklung der Angebote in den Leistungsbereichen Weiterbildung und Dienstleistungen sowie der Module Forschung und Entwicklung in der Ausbildung
+- c) Leitung der Weiterbildungskommission
+- d) Aufsicht über das Didaktische Zentrum
+- e) projektbezogene Zusammenarbeit mit den zuständigen Mitgliedern der Hochschulleitung
+- f) Vertretung des Prorektorats nach aussen
+- g) Sicherstellung des Qualitätsmanagements und der Qualitätsentwicklung im eigenen Verantwortungsbereich
+- h) Verantwortung über das Budget und die Rechnung des Prorektorats in Zusammenarbeit mit der Rektorin bzw. dem Rektor und der Leiterin bzw. dem Leiter Zentrale Dienste
+- i) Erlass von Reglementen und Weisungen betreffend die Weiterbildung, die Forschung und Entwicklung sowie die Dienstleistungen
+- k) Pensenplanung und Vorbereitung von Neuanstellungen in Zusammenarbeit mit der Rektorin bzw. dem Rektor
+- l) Führung von unterstellten DWA und ATB sowie Beratung von DWA bei eigenen Projekten im Leistungsbereich Forschung und Entwicklung
 
 <sup>2</sup> Die Prorektorin bzw. der Prorektor kann zur Erfüllung der Aufgaben DWA beiziehen.
 
 #### § 9
 
-**Aufgaben des Leiters bzw. der Leiterin der Abteilung Forschung und Entwicklung**
+**Leiterin bzw. Leiter Zentrale Dienste**
 
-<sup>1</sup> Der Leiter bzw. die Leiterin der Abteilung Forschung und Entwicklung hat insbesondere folgende Aufgaben:
+<sup>1</sup> Der Leiter bzw. die Leiterin Zentrale Dienste hat insbesondere folgende Aufgaben:
 
-- a) Ausarbeitung und Umsetzung der Strategie im Leistungsbereich Forschung und Entwicklung gemäss Konzept und Aufbau der Abteilung Forschung und Entwicklung der PHSH;
+- a) Ausarbeitung und Umsetzung Strategie im Bereich Zentrale Dienste
+- b) Leitung der Bereiche Finanzen, Controlling, Personaladministration, Infrastruktur (inkl. Informationstechnik und Raumverwaltung)
+- c) Vertretung der Zentralen Dienste nach aussen
+- d) Sicherstellung des Qualitätsmanagements im Verantwortungsbereich
+- e) Verantwortung über das Budget und die Rechnung der PHSH in Zusammenarbeit mit der Rektorin bzw. dem Rektor
+- f) Vorbereitung von Budget und Rechnung zuhanden der Rektorin bzw. des Rektors
+- g) Koordination der Erarbeitung von Finanz- und Entwicklungsplänen sowie des Leistungsauftrages zuhanden des Hochschulrates
+- h) Führung von und Mitwirkung in ausgewählten Hochschulprojekten
+- i) Erarbeitung von konzeptionellen Fragen zuhanden der Rektorin bzw. des Rektors sowie übergeordneter Hochschulbehörden
+- k) Erarbeitung von Konzepten und Teilstrategien
+- l) Pensenplanung und Vorbereitung von Neuanstellungen in Absprache mit der Rektorin bzw. dem Rektor
+- m) Führung von unterstellten DWA und ATB
 
-- b) projektbezogene Zusammenarbeit mit den einzelnen Mitgliedern der erweiterten Hochschulleitung;
+<sup>2</sup> Die Leiterin bzw. der Leiter kann zur Erfüllung der Aufgaben DWA oder ATB beiziehen.
 
-- c) Vertretung der Abteilung nach aussen;
-
-- d) Sicherstellung des Qualitätsmanagements im Verantwortungsbereich;
-
-- e) Verantwortung über das Budget und die Rechnung der Abteilung in Zusammenarbeit mit dem Rektor bzw. der Rektorin und der Leitung Finanzen und Personaladministration;
-
-- f) Akquirierung und Verwaltung von Drittmitteln;
-
-- g) Generieren und Durchführen von Forschungs- und Entwicklungsprojekten selbständig oder in Kooperation mit anderen Hochschulen;
-
-- h) Koordinieren der Forschungstätigkeiten mit anderen Hochschulen oder Bildungsinstitutionen;
-
-- i) Beraten der DWA bei Fragen und bei der Planung von eigenen Projekten im Leistungsbereich Forschung und Entwicklung;
-
-- k) Planung, Durchführung, Auswertung und Weiterentwicklung der Module Forschung und Entwicklung in der Ausbildung;
-
-- l) Pensenplanung und Vorbereitung von Neuanstellungen in Absprache mit den übrigen Mitgliedern der erweiterten Hochschulleitung;
-
-- m) Führung der ihm bzw. ihr unterstellten DWA und ATB.
-
-<sup>2</sup> Die Leiterin bzw. der Leiter der Abteilung Forschung und Entwicklung kann zur Erfüllung der Aufgaben DWA beiziehen.
-
-### IV. Schlussbestimmung
+## 4 Schlussbestimmung
 
 #### § 10
 
@@ -275,6 +182,6 @@ Die Hochschulleitung sowie der Leiter bzw. die Leiterin der Abteilung Forschung 
 
 <sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^10-1] und in die kantonale Gesetzessammlung aufzunehmen.
 
-Fussnoten:
-
 [^10-1]: Amtsblatt 2020, S. 1479
+
+Abl. 2020, S. 1479
