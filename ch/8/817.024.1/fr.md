@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 16 décembre 2016 sur l'hygiène dans les activité
 short: OHyg
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/183"
 language: fr
-version: 2024-02-01
+version: 2025-07-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/183/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2017-183-20240201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/183/20240201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/183/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-183-20250701-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/183/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/183/20240201/fr"
 
 (Ordonnance du DFI sur l’hygiène, OHyg)
 
-du 16 décembre 2016 (État le 1<sup>er</sup> février 2024)
+du 16 décembre 2016 (État le 1<sup>er</sup> juillet 2025)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -25,7 +25,7 @@ vu les art. 10, al. 4 et 5, et 95, al. 3, de l’ordonnance du 16 décembre 2016
 
 arrête:
 
-[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ## Chapitre 1 Dispositions générales
 
@@ -46,7 +46,7 @@ La présente ordonnance fixe:
 
 <sup>2</sup> Sont réservées les exigences spécifiques énoncées dans l’ordonnance du 23 novembre 2005 sur la production primaire[^1-1].
 
-[^1-1]: [RS 916.020](https://fedlex.data.admin.ch/eli/cc/2005/752)
+[^1-1]: [RS 916.020](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10474)
 
 #### Art. 2
 
@@ -68,7 +68,7 @@ Elle peut prévoir dans des cas particuliers des exceptions aux art. 7, 9 et 13 
 
 <sup>3</sup> Les principes définis à l’art. 10, al. 1 à 3, ODAlOUs doivent être respectés dans tous les cas.
 
-[^2-1]: [RS 912.1](https://fedlex.data.admin.ch/eli/cc/1999/46)
+[^2-1]: [RS 912.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10437)
 
 #### Art. 3
 
@@ -113,7 +113,7 @@ Un critère microbiologique est un critère définissant l’acceptabilité d’
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2429](https://fedlex.data.admin.ch/eli/oc/2020/458)).
 [^4-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2429](https://fedlex.data.admin.ch/eli/oc/2020/458)).
-[^4-3]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^4-3]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 
 #### Art. 5
 
@@ -232,7 +232,7 @@ Il y a lieu de satisfaire en particulier si nécessaire aux exigences suivantes:
 
 <sup>8</sup> Les équipements et les conteneurs destinés au transport ou à l’entreposage de l’une des substances ou de l’un des produits provoquant des allergies ou d’autres réactions indésirables visés à l’annexe 6 de l’ordonnance du DFI du 16 décembre 2016 concernant l’information sur les denrées alimentaires (OIDAl)[^12-1] ne peuvent pas être utilisés pour le transport ou l’entreposage de denrées alimentaires qui ne contiennent pas la substance ou le produit en question, à moins que les équipements et les conteneurs servant au transport aient été nettoyés et contrôlés au moins pour vérifier l’absence de résidus visibles de cette substance ou de ce produit.[^12-2]
 
-[^12-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^12-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 [^12-2]: Introduit par le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 829](https://fedlex.data.admin.ch/eli/oc/2023/829)).
 
 #### Art. 13
@@ -296,7 +296,7 @@ Font exception:
 
 <sup>6</sup> L’eau non potable utilisée pour la lutte contre l’incendie, la production de vapeur ou la réfrigération, ou à d’autres fins analogues, doit circuler dans un système séparé et être dûment identifiée en tant que telle. Les installations concernées doivent être protégées contre les reflux selon les règles techniques reconnues, en fonction du potentiel de pollution de l’eau potable dû à la qualité de l’eau non potable.
 
-[^16-1]: [RS 817.022.11](https://fedlex.data.admin.ch/eli/cc/2017/153)
+[^16-1]: [RS 817.022.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9668)
 
 #### Art. 17
 
@@ -475,8 +475,8 @@ Les établissements du secteur alimentaire qui sont en contact avec les denrées
 - e. les propriétés organoleptiques;
 - f. la garantie de la traçabilité.
 
-[^27a-1]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^27a-2]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^27a-1]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^27a-2]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 ## Chapitre 5 Dispositions spécifiques s’appliquant aux denrées alimentaires d’origine animale
 
@@ -554,7 +554,7 @@ Les prescriptions de température ne s’appliquent pas:
 - c. aux autres produits à base de viande dont la valeur d’activité de l’eau (a<sub>w</sub>) est inférieure à 0,93.
 
 [^29-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2429](https://fedlex.data.admin.ch/eli/oc/2020/458)).
-[^29-2]: [RS 817.022.108](https://fedlex.data.admin.ch/eli/cc/2017/152)
+[^29-2]: [RS 817.022.108](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9666)
 [^29-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2429](https://fedlex.data.admin.ch/eli/oc/2020/458)).
 [^29-4]: Introduit par le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2429](https://fedlex.data.admin.ch/eli/oc/2020/458)).
 [^29-5]: Règlement (UE) 2017/1981 de la Commission du 31 octobre 2017 modifiant l’annexe III du règlement (CE) n° 853/2004 du Parlement européen et du Conseil en ce qui concerne les conditions de température pendant le transport de viande, version du JO L 285 du 1.11.2017, p. 10
@@ -728,7 +728,7 @@ Chaque établissement de transformation doit comporter:
 
 <sup>1</sup> Les matières premières servant à la fabrication de graisses animales fondues et de cretons doivent être transportées et entreposées dans de bonnes conditions d’hygiène et à une température à cœur ne dépassant pas 7 °C avant d’être fondues. Elles peuvent toutefois être entreposées et transportées sans réfrigération active pour autant qu’elles soient fondues dans les 12 heures suivant le jour de leur obtention.
 
-<sup>2</sup> à <sup>4</sup> ...[^38-1]
+<sup>2 à <sup>4</sup></sup> ...[^38-1]
 
 [^38-1]: Abrogés par le ch. I de l’O du DFI du 8 déc. 2023, avec effet au 1<sup>er</sup> fév. 2024 ([RO 2023 829](https://fedlex.data.admin.ch/eli/oc/2023/829)).
 
@@ -1023,7 +1023,7 @@ Les établissements de transformation des œufs doivent être conçus, construit
 
 Si des matières premières d’origine animale sont utilisées pour fabriquer une denrée alimentaire qui contient également des ingrédients d’origine végétale, comme des raviolis, les matières premières d’origine animale doivent être obtenues et transformées conformément aux dispositions du présent chapitre et de l’ordonnance du DFI du 16 décembre 2016 sur les denrées alimentaires d’origine animale[^58-1].
 
-[^58-1]: [RS 817.022.108](https://fedlex.data.admin.ch/eli/cc/2017/152)
+[^58-1]: [RS 817.022.108](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9666)
 
 ## Chapitre 6 Dispositions spéciales relatives à la transformation hygiénique du lait dans les exploitations d’estivage
 
@@ -1034,7 +1034,7 @@ Si des matières premières d’origine animale sont utilisées pour fabriquer u
 Pour les exploitations d’estivage dans lesquelles le lait est transformé, les dispositions du présent chapitre priment les art. 7, 9, 13, 14, 20 et 48, ainsi que l’art. 14, al. 7, de l’ordonnance du DFI du 23 novembre 2005 réglant l’hygiène dans la production laitière (OHyPL)[^59-2].
 
 [^59-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 829](https://fedlex.data.admin.ch/eli/oc/2023/829)).
-[^59-2]: [RS 916.351.021.1](https://fedlex.data.admin.ch/eli/cc/2005/824)
+[^59-2]: [RS 916.351.021.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10754)
 
 #### Art. 60
 
@@ -1258,6 +1258,14 @@ Les denrées alimentaires non conformes à la modification du 8 décembre 2023 p
 
 [^74b-1]: Introduit par le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 829](https://fedlex.data.admin.ch/eli/oc/2023/829)).
 
+#### Art. 74c
+
+**Disposition transitoire relative à la modification du 2 juin 2025**[^74c-1]
+
+Les denrées alimentaires non conformes à la modification du 2 juin 2025 peuvent encore être importées, fabriquées et remises au consommateur selon l’ancien droit jusqu’au 30 juin 2026.
+
+[^74c-1]: Introduit par le ch. I de l’O de l’OSAV du 2 juin 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 396](https://fedlex.data.admin.ch/eli/oc/2025/396)).
+
 #### Art. 75
 
 **Entrée en vigueur**
@@ -1270,7 +1278,7 @@ Annexe 1[^t-1]
 
 ## Critères microbiologiques applicables aux denrées alimentaires
 
-[^t-1]: Mise à jour par le ch. I de l’O de l’OSAV du 12 mars 2018 ([RO 2018 1339](https://fedlex.data.admin.ch/eli/oc/2018/216)), l’erratum du 30 oct. 2018 ([RO 2018 3795](https://fedlex.data.admin.ch/eli/oc/2018/600)) et le ch. II des O du DFI du 27 mai 2020 ([RO 2020 2429](https://fedlex.data.admin.ch/eli/oc/2020/458)) et du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 829](https://fedlex.data.admin.ch/eli/oc/2023/829)).
+[^t-1]: Mise à jour par le ch. I de l’O de l’OSAV du 12 mars 2018 ([RO 2018 1339](https://fedlex.data.admin.ch/eli/oc/2018/216)), l’erratum du 30 oct. 2018 ([RO 2018 3795](https://fedlex.data.admin.ch/eli/oc/2018/600)), le ch. II des O du DFI du 27 mai 2020 ([RO 2020 2429](https://fedlex.data.admin.ch/eli/oc/2020/458)) et du 8 déc. 2023 ([RO 2023 829](https://fedlex.data.admin.ch/eli/oc/2023/829)) et le ch. II de l’O de l’OSAV du 2 juin 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 396](https://fedlex.data.admin.ch/eli/oc/2025/396)).
 
 - Partie 1 Critères de sécurité des denrées alimentaires
 - Partie 2 Critères d’hygiène des procédés
@@ -1279,32 +1287,187 @@ Annexe 1[^t-1]
 - 2\.3 Ovoproduits
 - 2\.4 Produits de la pêche
 - 2\.5 Légumes, fruits et produits à base de légumes et de fruits
+- Partie 3 Dispositions particulières s’appliquant à l’échantillonnage et à l’analyse de germes
 
-Partie 3 Dispositions relatives au prélèvement d’échantillons de germes
+### Partie 1 Critères de sécurité des denrées alimentaires
+
+Légende:
+
+UFC = unités formant colonie
+
+n = nombre d’unités constituant l’échantillon
+
+c = nombre maximal de résultats pouvant présenter des valeurs comprises entre m et M
+
+### 1. Catégories de denrées alimentaires
+
+<table>
+<tr><td>Catégorie de denrées alimentaires</td><td>Microorganismes/toxines, métabolites</td><td colspan="2">Plan d’échantillonnage</td><td></td><td colspan="2">Limites[^annex1-lvlu1-part1-lvl1-1]</td><td></td><td>Méthode d’analyse de référence[^annex1-lvlu1-part1-lvl1-2]</td><td>Stade d’application du critère</td></tr>
+<tr><td></td><td></td><td>n</td><td colspan="2">c</td><td>m</td><td colspan="2">M</td><td></td><td></td></tr>
+<tr><td>1.1 Denrées alimentaires prêtes à la consommation destinées aux nourrissons ou à des fins médicales spéciales[^annex1-lvlu1-part1-lvl1-3]</td><td>Listeria monocytogenes</td><td>10</td><td colspan="2">0</td><td colspan="2">Non décelable dans 25 g</td><td></td><td>SN EN/ISO 11290-1</td><td>Produits mis sur le marché pendant leur durée de conservation</td></tr>
+</table>
+
+<table>
+<tr><th>Catégorie de denrées alimentaires</th><th>Microorganismes/toxines, métabolites</th><th colspan="2">Plan d’échantillonnage</th><th></th><th colspan="2">Limites</th><th></th><th>Méthode d’analyse de référence</th><th>Stade d’application du critère</th></tr>
+<tr><th></th><th></th><th>n</th><th colspan="2">c</th><th>m</th><th colspan="2">M</th><th></th><th></th></tr>
+<tr><td>1.2 Denrées alimentaires prêtes à la consommation permettant le développement de *L. monocytogenes*, autres que celles destinées aux nourrissons ou à des fins médicales spéciales</td><td>Listeria monocytogenes</td><td>5</td><td colspan="2">0</td><td colspan="2">100 UFC/g[^annex1-lvlu1-part1-lvl1-4]</td><td></td><td>SN EN ISO 11290[^annex1-lvlu1-part1-lvl1-5]</td><td>Produits mis sur le marché pendant leur durée de conservation</td></tr>
+<tr><td></td><td></td><td>5</td><td colspan="2">0</td><td colspan="2">Non décelable dans 25 g[^annex1-lvlu1-part1-lvl1-6]</td><td></td><td>SN EN/ISO 11290-1</td><td>Produits mis sur le marché pendant leur durée de conservation</td></tr>
+<tr><td>1.3 Denrées alimentaires prêtes à la consommation ne permettant pas le développement de *L. monocytogenes* autres que celles destinées aux nourrissons ou à des fins médicales spéciales[^annex1-lvlu1-part1-lvl1-7] [^annex1-lvlu1-part1-lvl1-8]</td><td>Listeria monocytogenes</td><td>5</td><td colspan="2">0</td><td colspan="2">100 UFC/g</td><td></td><td>SN EN/ISO 11290-2[^annex1-lvlu1-part1-lvl1-9]</td><td>Produits mis sur le marché pendant leur durée de conservation</td></tr>
+<tr><td>1.4 Viande hachée et préparations de viande destinées à être consommées crues</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">Non décelable dans 25 g</td><td></td><td>SN EN/ISO 6579</td><td>Produits mis sur le marché pendant leur durée de conservation</td></tr>
+<tr><td>1.5 Viande hachée et préparations de viande de volailles destinées à être consommées cuites</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">Non décelable dans 25 g</td><td></td><td>SN EN/ISO 6579</td><td>Produits mis sur le marché pendant leur durée de conservation</td></tr>
+<tr><td>1.6 Viande hachée et préparations de viande d’autres espèces que les volailles destinées à être consommées cuites</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">Non décelable dans 25 g</td><td></td><td>SN EN/ISO 6579</td><td>Produits mis sur le marché pendant leur durée de conservation</td></tr>
+<tr><td>1.7 Viande séparée mécaniquement</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">Non décelable dans 25 g</td><td></td><td>SN EN/ISO 6579</td><td>Produits mis sur le marché pendant leur durée de conservation</td></tr>
+<tr><td>1.8 Produits à base de viande destinés à être consommés crus, excepté les produits dont le procédé de fabrication ou la composition permettent d’exclure le risque de salmonelles</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">Non décelable dans 25 g</td><td></td><td>SN EN/ISO 6579</td><td>Produits mis sur le marché pendant leur durée de conservation</td></tr>
+<tr><td>1.9 Produits à base de viande de volaille destinés à être consommés cuits</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">Non décelable dans 25 g</td><td></td><td>SN EN/ISO 6579</td><td>Produits mis sur le marché pendant leur durée de conservation</td></tr>
+<tr><td>1.10 Gélatine et collagène</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">Non décelable dans 25 g</td><td></td><td>SN EN/ISO 6579</td><td>Produits mis sur le marché pendant leur durée de conservation</td></tr>
+<tr><td>1.11 Fromages, beurre et crème fabriqués à partir de lait cru ou de lait soumis à un traitement par la chaleur à une température inférieure à celle de la pasteurisation[^annex1-lvlu1-part1-lvl1-10]</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">Non décelable dans 25 g</td><td></td><td>SN EN/ISO 6579</td><td>Produits mis sur le marché pendant leur durée de conservation</td></tr>
+<tr><td>1.12 Lait en poudre et lactosérum en poudre</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">Non décelable dans 25 g</td><td></td><td>SN EN/ISO 6579</td><td>Produits mis sur le marché pendant leur durée de conservation</td></tr>
+<tr><td>1.13 Glaces de consommation[^annex1-lvlu1-part1-lvl1-11], exceptées les produits dont le procédé de fabrication ou la composition permettent d’exclure le risque de salmonelles</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">Non décelable dans 25 g</td><td></td><td>SN EN/ISO 6579</td><td>Produits mis sur le marché pendant leur durée de conservation</td></tr>
+<tr><td>1.14 Ovoproduits, excepté les produits dont le procédé de fabrication ou la composition permettent d’exclure le risque de salmonelles</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">Non décelable dans 25 g</td><td></td><td>SN EN/ISO 6579</td><td>Produits mis sur le marché pendant leur durée de conservation</td></tr>
+<tr><td>1.15 Denrées alimentaires prêtes à la consommation contenant des œufs crus, excepté les produits dont le procédé de fabrication ou la composition permettent d’exclure le risque de salmonelles</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">Non décelable dans 25 g</td><td></td><td>SN EN/ISO 6579</td><td>Produits mis sur le marché pendant leur durée de conservation</td></tr>
+<tr><td>1.16 Crustacés et mollusques cuits</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">Non décelable dans 25 g</td><td></td><td>SN EN/ISO 6579</td><td>Produits mis sur le marché pendant leur durée de conservation</td></tr>
+<tr><td>1.17 Mollusques bivalves vivants et échinodermes, tuniciers et gastéropodes marins vivants</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">Non décelable dans 25 g</td><td></td><td>SN EN/ISO 6579</td><td>Produits mis sur le marché pendant leur durée de conservation</td></tr>
+<tr><td>1.18 Graines germées prêtes à la consommation[^annex1-lvlu1-part1-lvl1-12]</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">Non décelable dans 25 g</td><td></td><td>SN EN/ISO 6579</td><td>Produits mis sur le marché pendant leur durée de conservation</td></tr>
+<tr><td>1.19 Fruits et légumes prédécoupés prêts à la consommation</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">Non décelable dans 25 g</td><td></td><td>SN EN/ISO 6579</td><td>Produits mis sur le marché pendant leur durée de conservation</td></tr>
+<tr><td>1.20 Jus de fruits et de légumes non pasteurisés[^annex1-lvlu1-part1-lvl1-13] prêts à la consommation</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">Non décelable dans 25 g</td><td></td><td>SN EN/ISO 6579</td><td>Produits mis sur le marché pendant leur durée de conservation</td></tr>
+<tr><td>1.21 Fromages, lait en poudre et lactosérum en poudre, selon les critères des staphylocoques à coagulase positive énumérés dans la partie 2.2 de la présente annexe</td><td>Entérotoxines staphylococciques</td><td>5</td><td colspan="2">0</td><td colspan="2">Non décelable dans 25 g</td><td></td><td>SN EN ISO 19020</td><td>Produits mis sur le marché pendant leur durée de conservation</td></tr>
+<tr><td>1.22 Préparations déshydratées pour nourrissons et denrées alimentaires diététiques déshydratées destinées à des fins médicales spéciales pour nourrissons de moins de six mois</td><td>Salmonella</td><td>30</td><td colspan="2">0</td><td colspan="2">Non décelable dans 25 g</td><td></td><td>SN EN/ISO 6579</td><td>Produits mis sur le marché pendant leur durée de conservation</td></tr>
+<tr><td>1.23 Préparations de suite déshydratées</td><td>Salmonella</td><td>30</td><td colspan="2">0</td><td colspan="2">Non décelable dans 25 g</td><td></td><td>SN EN/ISO 6579</td><td>Produits mis sur le marché pendant leur durée de conservation</td></tr>
+<tr><td>1.24 Préparations déshydratées pour nourrissons et denrées alimentaires diététiques déshydratées destinées à des fins médicales spéciales pour nourrissons de moins de six mois[^annex1-lvlu1-part1-lvl1-14]</td><td>Cronobacter spp.</td><td>30</td><td colspan="2">0</td><td colspan="2">Non décelable dans 10 g</td><td></td><td>SN EN ISO 22964</td><td>Produits mis sur le marché pendant leur durée de conservation</td></tr>
+<tr><td>1.25 Mollusques bivalves vivants et échinodermes, tuniciers et gastéropodes marins vivants</td><td>E. coli[^annex1-lvlu1-part1-lvl1-15]</td><td>5[^annex1-lvlu1-part1-lvl1-16]</td><td colspan="2">1</td><td>230 NPP/ 100 g de chair et de liquide intervalvaire</td><td colspan="2">700 NPP/ 100 g de chair et de liquide intervalvaire</td><td>SN EN ISO 16649-3</td><td>Produits mis sur le marché pendant leur durée de conservation</td></tr>
+<tr><td>1.26 Produits de la pêche appartenant aux espèces de poissons présentant une teneur élevée en histidine[^annex1-lvlu1-part1-lvl1-17]</td><td>Histamine</td><td>9[^annex1-lvlu1-part1-lvl1-18]</td><td colspan="2">2</td><td>100 mg/kg</td><td colspan="2">200 mg/kg</td><td>SN EN ISO 19343</td><td>Produits mis sur le marché pendant leur durée de conservation</td></tr>
+<tr><td>1.27 Produits de la pêche, sauf les produits de la catégorie de denrées alimentaires 1.27a, qui ont subi un traitement de maturation enzymatique dans la saumure et qui sont issus d’espèces de poissons présentant une teneur élevée en histidine[^annex1-lvlu1-part1-lvl1-19]</td><td>Histamine</td><td>9[^annex1-lvlu1-part1-lvl1-20]</td><td colspan="2">2</td><td>200 mg/kg</td><td colspan="2">400 mg/kg</td><td>SN EN ISO 19343</td><td>Produits mis sur le marché pendant leur durée de conservation</td></tr>
+<tr><td>1.27a Sauce de poisson produite par fermentation de produits de la pêche</td><td>Histamine</td><td>1</td><td colspan="2">0</td><td colspan="2">500 mg/kg[^annex1-lvlu1-part1-lvl1-21]</td><td></td><td>SN EN ISO 19343</td><td>Produits mis sur le marché pendant leur durée de conservation</td></tr>
+<tr><td>1.28 Viande fraîche de volaille[^annex1-lvlu1-part1-lvl1-22]</td><td>Salmonella Typhimurium[^annex1-lvlu1-part1-lvl1-23] Salmonella Enteritidis</td><td>5</td><td colspan="2">0</td><td colspan="2">Non décelable dans 25 g</td><td></td><td>SN EN/ISO 6579-1 (pour la détection), classification de Kaufmann-White (pour le sérotypage)</td><td>Produits mis sur le marché pendant leur durée de conservation</td></tr>
+<tr><td>1.29 Germes[^annex1-lvlu1-part1-lvl1-24] [^annex1-lvlu1-part1-lvl1-25] [^annex1-lvlu1-part1-lvl1-26]</td><td>*E. coli* producteurs de shiga-toxines (STEC) O157, O26, O111, O103, O145 et O104:H4</td><td>5</td><td colspan="2">0</td><td colspan="2">Non décelable dans 25 g</td><td></td><td>CEN/ISO TS 13136</td><td>Produits mis sur le marché pendant leur durée de conservation</td></tr>
+<tr><td>1.30 Viande de reptile[^annex1-lvlu1-part1-lvl1-27]</td><td>*Salmonella*</td><td>5</td><td colspan="2">0</td><td colspan="2">Non décelable dans 25 g</td><td></td><td>SN EN ISO 6579-1</td><td>Produits mis sur le marché pendant leur durée de conservation</td></tr>
+</table>
+
+Interprétation des résultats des analyses réalisées sur les catégories de denrées
+
+Les limites indiquées s’appliquent à chaque unité d’échantillon analysée.
+
+Les résultats des analyses révèlent la qualité microbiologique du lot contrôlé[^annex1-lvlu1-part1-lvl1-28].
+
+*L. monocytogenes* dans les denrées alimentaires prêtes à la consommation destinées aux nourrissons et à des fins médicales spéciales:
+
+- – qualité satisfaisante lorsque toutes les valeurs observées indiquent l’absence de la bactérie,
+- – qualité insatisfaisante lorsque la présence de la bactérie est détectée dans une unité de l’échantillon.
+
+*L. monocytogenes* dans les denrées alimentaires prêtes à la consommation pouvant permettre le développement de *L. monocytogenes* avant que la denrée alimentaire n’ait quitté le contrôle immédiat de l’opérateur qui l’a fabriquée, lorsque celui-ci n’est pas en mesure de démontrer que ces produits ne dépasseront pas la limite de 100 UFC/g pendant leur durée de conservation:
+
+- – qualité satisfaisante lorsque toutes les valeurs observées indiquent l’absence de la bactérie,
+- – qualité insatisfaisante lorsque la présence de la bactérie est détectée dans une unité de l’échantillon.
+
+*L. monocytogenes* dans les autres denrées alimentaires prêtes à la consommation:
+
+- – qualité satisfaisante lorsque toutes les valeurs observées sont ≤ à la limite,
+- – qualité insatisfaisante lorsque l’une des valeurs est &gt; à la limite.
+
+*E. coli* dans les mollusques bivalves, les échinodermes, les tuniciers et les gastéropodes vivants:
+
+- – qualité satisfaisante lorsque les cinq valeurs observées sont ≤ 230 NPP/100 g de chair et de liquide intravalvaire ou lorsque l’une des cinq valeurs observées est &gt; 230 NPP/100 g de chair et de liquide intravalvaire tout en étant ≤ 700 NPP/100 g de chair et de liquide intravalvaire,
+- – qualité insatisfaisante lorsque l’une des cinq valeurs observées est &gt; 700 NPP/100 g de chair et de liquide intravalvaire ou lorsqu’au moins deux des cinq valeurs observées sont &gt; 230 NPP/100 g de chair et de liquide intravalvaire.
+
+*Salmonella* dans les différentes catégories de denrées alimentaires:
+
+- – qualité satisfaisante lorsque toutes les valeurs observées indiquent l’absence de la bactérie,
+- – qualité insatisfaisante lorsque la présence de la bactérie est détectée dans une unité de l’échantillon.
+
+Entérotoxines staphylococciques dans les produits laitiers:
+
+- – qualité satisfaisante lorsque ces entérotoxines ne sont détectées dans aucune unité de l’échantillon,
+- – qualité insatisfaisante lorsque ces entérotoxines sont détectées dans une unité de l’échantillon.
+
+*Cronobacter* spp. dans les préparations déshydratées pour nourrissons et les denrées alimentaires diététiques déshydratées destinées à des fins médicales spéciales pour nourrissons de moins de six mois:
+
+- – qualité satisfaisante lorsque toutes les valeurs observées indiquent l’absence de la bactérie,
+- – qualité insatisfaisante lorsque la présence de la bactérie est détectée dans une unité de l’échantillon.
+
+Histamine dans les produits de la pêche:
+
+- –
+
+  dans les produits de la pêche provenant d’espèces de poissons présentant une teneur élevée en histidine, sauf dans la sauce de poisson produite par fermentation de produits de la pêche:
+
+  - –
+
+    qualité satisfaisante lorsque les exigences suivantes sont remplies:
+
+    - [tab] 1. la valeur moyenne observée est ≤ m,
+    - [tab] 2. la majorité des c/n valeurs observées se situent entre m et M,
+    - [tab] 3. aucune valeur observée ne dépasse la limite M;
+
+  - – qualité insatisfaisante lorsque la valeur moyenne observée est &gt; m, lorsque plus de c/n valeurs se situent entre m et M ou lorsqu’une ou plusieurs valeurs observées sont &gt; M;
+  - –
+
+    sauce de poisson produite par fermentation de produits de la pêche:
+
+    - 1\. qualité satisfaisante lorsque la valeur observée est ≤ à la limite,
+    - 2\. qualité insatisfaisante lorsque la valeur observée est &gt; à la limite.
+
+[^annex1-lvlu1-part1-lvl1-1]: Pour les numéros 1.1–1.25, 1.27*a*, 1.28 et 1.30 : m = M
+[^annex1-lvlu1-part1-lvl1-2]: La version la plus récente de la norme doit être utilisée. Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
+[^annex1-lvlu1-part1-lvl1-3]: En temps normal, des essais périodiques fondés sur ce critère ne sont pas utiles pour les denrées alimentaires prêtes à la consommation suivantes: – denrées alimentaires ayant fait l’objet d’un traitement thermique ou d’une autre transformation efficace pour éliminer *Listeria monocytogenes*, lorsque la recontamination n’est pas possible après la transformation (par ex. les produits traités thermiquement dans leur emballage final); – fruits et légumes frais, non découpés et non transformés; – pain, biscuits et produits similaires; – eaux, boissons non alcoolisées, bière, cidre, vin, boissons spiritueuses en bouteille ou conditionnés et produits similaires; – sucre, miel et confiserie, y compris les produits à base de cacao et de chocolat; – mollusques bivalves vivants; – sel de qualité alimentaire.
+[^annex1-lvlu1-part1-lvl1-4]: La personne responsable doit être en mesure de démontrer, à la satisfaction de l’autorité d’exécution compétente, que le produit respecte la limite de 100 UFC/g pendant toute la durée de conservation.
+[^annex1-lvlu1-part1-lvl1-5]: 1 ml d’inoculum est déposé sur une boîte de Petri d’un diamètre de 140 mm ou sur trois boîtes de Petri d’un diamètre de 90 mm.
+[^annex1-lvlu1-part1-lvl1-6]: *L. monocytogenes* dans les denrées alimentaires prêtes à la consommation pouvant permettre le développement de *L. monocytogenes* lorsque l’opérateur qui a fabriqué ces denrées alimentaires n’a pas été en mesure de démontrer, à la satisfaction de l’autorité d’exécution compétente, que pendant la durée de conservation des produits la teneur en *L. monocytogenes* ne dépasse pas la limite de 100 UFC/g: – qualité satisfaisante lorsque toutes les valeurs observées indiquent que la bactérie n’est détectée dans aucune des unités de l’échantillon; – qualité insatisfaisante lorsque la présence de la bactérie est détectée dans une unité de l’échantillon.
+[^annex1-lvlu1-part1-lvl1-7]: En temps normal, des essais périodiques fondés sur ce critère ne sont pas utiles pour les denrées alimentaires prêtes à la consommation, suivantes: – denrées alimentaires ayant fait l’objet d’un traitement thermique ou d’une autre transformation efficace pour éliminer *Listeria monocytogenes*, lorsque la recontamination n’est pas possible après la transformation (par ex. les produits traités thermiquement dans leur emballage final); – fruits et légumes frais, non découpés et non transformés; – pain, biscuits et produits similaires; – eaux, boissons non alcoolisées, bière, cidre, vin, boissons spiritueuses en bouteille ou conditionnés et produits similaires; – sucre, miel et confiserie, y compris les produits à base de cacao et de chocolat; – mollusques bivalves vivants; – sel de qualité alimentaire.
+[^annex1-lvlu1-part1-lvl1-8]: Les produits pour lesquels pH ≤ 4,4 ou a<sub>w</sub> ≤ 0,92, les produits pour lesquels pH ≤ 5,0 et a<sub>w</sub> ≤ 0,94 et les produits à durée de conservation inférieure à cinq jours appartiennent automatiquement à cette catégorie. D’autres catégories de denrées alimentaires peuvent aussi appartenir à cette catégorie, sous réserve d’une justification scientifique.
+[^annex1-lvlu1-part1-lvl1-9]: 1 ml d’inoculum est déposé sur une boîte de Petri d’un diamètre de 140 mm ou sur trois boîtes de Petri d’un diamètre de 90 mm.
+[^annex1-lvlu1-part1-lvl1-10]: Excepté les produits pour lesquels la personne responsable peut démontrer, à la satisfaction de l’autorité d’exécution compétente, qu’en raison du temps d’affinage et, le cas échéant, de la valeur a<sub>w</sub> du produit, il n’y a aucun risque de contamination par les salmonelles.
+[^annex1-lvlu1-part1-lvl1-11]: Uniquement les glaces comestibles qui contiennent des matières premières d’origine laitière.
+[^annex1-lvlu1-part1-lvl1-12]: Sont exceptés les germes qui ont subi un traitement efficace pour éliminer *Salmonella* spp. et STEC.
+[^annex1-lvlu1-part1-lvl1-13]: Le terme « non pasteurisé » signifie que le jus n’a pas fait l’objet d’une pasteurisation obtenue par une combinaison de temps et de température ou d’autres procédés validés pour atteindre un effet bactéricide équivalent à la pasteurisation en ce qui concerne son effet sur Salmonella
+[^annex1-lvlu1-part1-lvl1-14]: Des analyses en parallèle doivent être réalisées pour les *Enterobacteriaceae* et *Cronobacter* spp., sauf si une corrélation entre ces microorganismes a été établie au niveau des différents établissements. Si des *Enterobacteriaceae* sont détectés dans un échantillon du produit analysé dans cet établissement, le lot doit être analysé pour *Cronobacter* spp. Il appartient à la personne responsable de démontrer, à la satisfaction de l’autorité d’exécution compétente, s’il existe une telle corrélation entre *Enterobacteriaceae* et *Cronobacter* spp.
+[^annex1-lvlu1-part1-lvl1-15]: *E. coli* est utilisé ici comme indicateur de contamination fécale.
+[^annex1-lvlu1-part1-lvl1-16]: Chaque unité d’échantillon comprend un nombre minimal d’animaux différents conformément à la norme EN ISO 6887-3
+[^annex1-lvlu1-part1-lvl1-17]: Notamment les espèces des familles: *Scombridae*, *Clupeidae*, *Engraulidae*, *Coryfenidae*, *Pomatomidae* et *Scombraesosidae*.
+[^annex1-lvlu1-part1-lvl1-18]: Les différents échantillons peuvent être prélevés au niveau du commerce de détail. Dans ce cas, la disposition prévue par l’art. 5 de l’ordonnance du ... sur l’exécution de la législation sur les denrées alimentaires (RS ...), selon laquelle la totalité du lot doit être considérée comme dangereuse, ne s’applique pas, sauf si le résultat est supérieur à M.
+[^annex1-lvlu1-part1-lvl1-19]: Notamment les espèces des familles: *Scombridae*, *Clupeidae*, *Engraulidae*, *Coryfenidae*, *Pomatomidae* et *Scombraesosidae*.
+[^annex1-lvlu1-part1-lvl1-20]: Les différents échantillons peuvent être prélevés au niveau du commerce de détail. Dans ce cas, la disposition prévue par l’art. 5 de l’ordonnance du ... sur l’exécution de la législation sur les denrées alimentaires (RS ...), selon laquelle la totalité du lot doit être considérée comme dangereuse, ne s’applique pas, sauf si le résultat est supérieur à M.
+[^annex1-lvlu1-part1-lvl1-21]: Limite exprimée pour une teneur en azote de 20 g/l
+[^annex1-lvlu1-part1-lvl1-22]: Ce critère est applicable aux viandes fraîches provenant de cheptels reproducteurs de *Gallus gallus*, de poules pondeuses, de poulets de chair, de cheptels reproducteurs de dindes et de cheptels de dindes d’engraissement.
+[^annex1-lvlu1-part1-lvl1-23]: Y compris les souches monophasiques de *Salmonella* *typhimurium* dont la formule antigénique est 1,4,[5],12:i:-
+[^annex1-lvlu1-part1-lvl1-24]: Le germe est le produit obtenu par germination et développement d’une graine dans l’eau ou dans un autre milieu, récolté avant que les premières feuilles ne se développent et destiné à être consommé comme denrée alimentaire, avec la graine.
+[^annex1-lvlu1-part1-lvl1-25]: Sont exceptés les germes qui ont subi un traitement efficace pour éliminer *Salmonella* spp. et STEC.
+[^annex1-lvlu1-part1-lvl1-26]: Les dispositions figurant dans la partie 3 s’appliquent à l’échantillonnage et à l’analyse des germes.
+[^annex1-lvlu1-part1-lvl1-27]: Viande de reptile : parties comestibles, non transformées ou transformées, de reptiles d’élevage.
+[^annex1-lvlu1-part1-lvl1-28]: Les résultats des analyses peuvent aussi être utilisés pour démontrer l’efficacité de l’application des principes HACCP ou des bonnes pratiques d’hygiène.
+
+### Partie 2 Critères d’hygiène des procédés
+
+Légende:
+
+UFC = unités formant colonie
+
+n = nombre d’unités constituant l’échantillon
+
+c = nombre maximal de résultats pouvant présenter des valeurs comprises entre m et M
 
 ### 2.1 Viandes et produits à base de viande
 
 <table>
-<tr><td>Catégorie de denrées alimentaires</td><td>Microorganismes</td><td colspan="2">Plan d’échantillonnage</td><td></td><td colspan="2">Limites[^annex1-lvlu1-lvl21-1]</td><td></td><td>Méthode d’analyse de référence[^annex1-lvlu1-lvl21-2]</td><td>Stade d’application du critère</td><td>Mesures en cas de résultats insatisfaisants</td></tr>
+<tr><td>Catégorie de denrées alimentaires</td><td>Microorganismes</td><td colspan="2">Plan d’échantillonnage</td><td></td><td colspan="2">Limites[^annex1-lvlu1-part2-lvl21-1]</td><td></td><td>Méthode d’analyse de référence[^annex1-lvlu1-part2-lvl21-2]</td><td>Stade d’application du critère</td><td>Mesures en cas de résultats insatisfaisants</td></tr>
 <tr><td></td><td></td><td>n</td><td colspan="2">c</td><td>m</td><td colspan="2">M</td><td></td><td></td><td></td></tr>
-<tr><td>2.1.1 Carcasses de bovins, d’ovins, de caprins et d’équidés[^annex1-lvlu1-lvl21-3]</td><td>Nombre de colonies aérobies mésophiles</td><td></td><td colspan="2"></td><td>3,5 log UFC/cm<sup>2</sup> log moyen quotidien</td><td colspan="2">5,0 log UFC/cm<sup>2</sup> log moyen quotidien</td><td>SN EN ISO 4833-1</td><td>Carcasses après l’habillage, mais avant le ressuage</td><td>Améliorations de l’hygiène de l’abattage et réexamen des contrôles de procédé</td></tr>
-<tr><td>[tab]</td><td>Enterobacteriaceae</td><td></td><td colspan="2"></td><td>1,5 log UFC/cm<sup>2</sup> log moyen quotidien</td><td colspan="2">2,5 log UFC/cm<sup>2</sup> log moyen quotidien</td><td>SN EN ISO 21528-2</td><td>Carcasses après l’habillage, mais avant le ressuage</td><td>Améliorations de l’hygiène de l’abattage et réexamen des contrôles de procédé</td></tr>
+<tr><td>2.1.1 Carcasses de bovins, d’ovins, de caprins et d’équidés[^annex1-lvlu1-part2-lvl21-3]</td><td>Nombre de colonies aérobies mésophiles</td><td></td><td colspan="2"></td><td>3,5 log UFC/cm<sup>2</sup> log moyen quotidien</td><td colspan="2">5,0 log UFC/cm<sup>2</sup> log moyen quotidien</td><td>SN EN ISO 4833-1</td><td>Carcasses après l’habillage, mais avant le ressuage</td><td>Améliorations de l’hygiène de l’abattage et réexamen des contrôles de procédé</td></tr>
+<tr><td></td><td>Enterobacteriaceae</td><td></td><td colspan="2"></td><td>1,5 log UFC/cm<sup>2</sup> log moyen quotidien</td><td colspan="2">2,5 log UFC/cm<sup>2</sup> log moyen quotidien</td><td>SN EN ISO 21528-2</td><td>Carcasses après l’habillage, mais avant le ressuage</td><td>Améliorations de l’hygiène de l’abattage et réexamen des contrôles de procédé</td></tr>
 </table>
 
 <table>
 <tr><th>Catégorie de denrées alimentaires</th><th>Microorganismes</th><th colspan="2">Plan d’échantillonnage</th><th></th><th colspan="2">Limites</th><th></th><th>Méthode d’analyse de référence</th><th>Stade d’application du critère</th><th>Mesures en cas de résultats insatisfaisants</th></tr>
 <tr><th></th><th></th><th>n</th><th colspan="2">c</th><th>m</th><th colspan="2">M</th><th></th><th></th><th></th></tr>
-<tr><td>2.1.2 Carcasses de porcins[^annex1-lvlu1-lvl21-4]</td><td>Nombre de colonies aérobies mésophiles</td><td></td><td colspan="2"></td><td>4,0 log UFC/cm<sup>2</sup> log moyen quotidien</td><td colspan="2">5,0 log UFC/cm<sup>2</sup> log moyen quotidien</td><td>SN EN ISO 4833-1</td><td>Carcasses après l’habillage, mais avant le ressuage</td><td>Améliorations de l’hygiène de l’abattage et réexamen des contrôles de procédé</td></tr>
-<tr><td>[tab]</td><td>*Enterobacteriaceae*</td><td></td><td colspan="2"></td><td>2,0 log UFC/cm<sup>2</sup> log moyen quotidien</td><td colspan="2">3,0 log UFC/cm<sup>2</sup> log moyen quotidien</td><td>SN EN ISO 21528-2</td><td>Carcasses après l’habillage, mais avant le ressuage</td><td>Améliorations de l’hygiène de l’abattage et réexamen des contrôles de procédé</td></tr>
-<tr><td>2.1.3 Carcasses de bovins, d’ovins, de caprins et d’équidés</td><td>Salmonella</td><td>50</td><td colspan="2">2[^annex1-lvlu1-lvl21-5]</td><td colspan="2">Non décelable dans la partie examinée de la carcasse</td><td></td><td>SN EN ISO 6579-1</td><td>Carcasses après l’habillage, mais avant le ressuage</td><td>Améliorations de l’hygiène de l’abattage et réexamen des contrôles de procédé et de l’origine des animaux</td></tr>
-<tr><td>2.1.4 Carcasses de porcins</td><td>Salmonella</td><td>50</td><td colspan="2">3[^annex1-lvlu1-lvl21-6]</td><td colspan="2">Non décelable dans la partie examinée de la carcasse</td><td></td><td>SN EN ISO 6579-1</td><td>Carcasses après l’habillage, mais avant le ressuage</td><td>Améliorations de l’hygiène de l’abattage et réexamen des contrôles de procédé, de l’origine des animaux et des mesures de biosécurité dans les exploitations d’origine</td></tr>
-<tr><td>2.1.5 Carcasses de volailles: poulets de chair et dindes</td><td>*Salmonella* spp.[^annex1-lvlu1-lvl21-7]</td><td>50</td><td colspan="2">5[^annex1-lvlu1-lvl21-8]</td><td colspan="2">Non décelable dans 25 g d’un échantillon groupé de peau du cou</td><td></td><td>SN EN ISO 6579-1</td><td>Carcasses après le ressuage</td><td>Améliorations de l’hygiène de l’abattage et réexamen des contrôles de procédé, de l’origine des animaux et des mesures de biosécurité dans les exploitations d’origine</td></tr>
-<tr><td>2.1.6 Carcasses de volailles: poulets de chair</td><td>Campylobacter spp.</td><td>50</td><td colspan="2">15[^annex1-lvlu1-lvl21-9]</td><td>1000 UFC/g</td><td colspan="2"></td><td>ISO 10272-2</td><td>Carcasses après le ressuage</td><td>Améliorations de l’hygiène de l’abattage, mesures visant à réduire la quantité de germes, et réexamen des contrôles de procédé, de l’origine des animaux et des mesures de biosécurité dans les exploitations d’origine</td></tr>
-<tr><td>2.1.7 Viande hachée</td><td>Nombre de colonies aérobies mésophiles[^annex1-lvlu1-lvl21-10]</td><td>5</td><td colspan="2">2</td><td>5 × 10<sup>5</sup> UFC/g</td><td colspan="2">5 × 10<sup>6</sup> UFC/g</td><td>SN EN ISO 4833-1</td><td>Fin du procédé de fabrication</td><td>Améliorations de l’hygiène de production et améliorations de la sélection et/ou de l’origine des matières premières</td></tr>
-<tr><td>[tab]</td><td>*E. coli*[^annex1-lvlu1-lvl21-11]</td><td>5</td><td colspan="2">2</td><td>50 UFC/g</td><td colspan="2">500 UFC/g</td><td>ISO 16649-1 ou 2</td><td>Fin du procédé de fabrication</td><td>Améliorations de l’hygiène de production et améliorations de la sélection et/ou de l’origine des matières premières</td></tr>
+<tr><td>2.1.2 Carcasses de porcins[^annex1-lvlu1-part2-lvl21-4]</td><td>Nombre de colonies aérobies mésophiles</td><td></td><td colspan="2"></td><td>4,0 log UFC/cm<sup>2</sup> log moyen quotidien</td><td colspan="2">5,0 log UFC/cm<sup>2</sup> log moyen quotidien</td><td>SN EN ISO 4833-1</td><td>Carcasses après l’habillage, mais avant le ressuage</td><td>Améliorations de l’hygiène de l’abattage et réexamen des contrôles de procédé</td></tr>
+<tr><td></td><td>*Enterobacteriaceae*</td><td></td><td colspan="2"></td><td>2,0 log UFC/cm<sup>2</sup> log moyen quotidien</td><td colspan="2">3,0 log UFC/cm<sup>2</sup> log moyen quotidien</td><td>SN EN ISO 21528-2</td><td>Carcasses après l’habillage, mais avant le ressuage</td><td>Améliorations de l’hygiène de l’abattage et réexamen des contrôles de procédé</td></tr>
+<tr><td>2.1.3 Carcasses de bovins, d’ovins, de caprins et d’équidés</td><td>Salmonella</td><td>50</td><td colspan="2">2[^annex1-lvlu1-part2-lvl21-5]</td><td colspan="2">Non décelable dans la partie examinée de la carcasse</td><td></td><td>SN EN ISO 6579-1</td><td>Carcasses après l’habillage, mais avant le ressuage</td><td>Améliorations de l’hygiène de l’abattage et réexamen des contrôles de procédé et de l’origine des animaux</td></tr>
+<tr><td>2.1.4 Carcasses de porcins</td><td>Salmonella</td><td>50</td><td colspan="2">3[^annex1-lvlu1-part2-lvl21-6]</td><td colspan="2">Non décelable dans la partie examinée de la carcasse</td><td></td><td>SN EN ISO 6579-1</td><td>Carcasses après l’habillage, mais avant le ressuage</td><td>Améliorations de l’hygiène de l’abattage et réexamen des contrôles de procédé, de l’origine des animaux et des mesures de biosécurité dans les exploitations d’origine</td></tr>
+<tr><td>2.1.5 Carcasses de volailles: poulets de chair et dindes</td><td>*Salmonella* spp.[^annex1-lvlu1-part2-lvl21-7]</td><td>50</td><td colspan="2">5[^annex1-lvlu1-part2-lvl21-8]</td><td colspan="2">Non décelable dans 25 g d’un échantillon groupé de peau du cou</td><td></td><td>SN EN ISO 6579-1</td><td>Carcasses après le ressuage</td><td>Améliorations de l’hygiène de l’abattage et réexamen des contrôles de procédé, de l’origine des animaux et des mesures de biosécurité dans les exploitations d’origine</td></tr>
+<tr><td>2.1.6 Carcasses de volailles: poulets de chair</td><td>Campylobacter spp.</td><td>50</td><td colspan="2">15[^annex1-lvlu1-part2-lvl21-9]</td><td>1000 UFC/g</td><td colspan="2"></td><td>ISO 10272-2</td><td>Carcasses après le ressuage</td><td>Améliorations de l’hygiène de l’abattage, mesures visant à réduire la quantité de germes, et réexamen des contrôles de procédé, de l’origine des animaux et des mesures de biosécurité dans les exploitations d’origine</td></tr>
+<tr><td>2.1.7 Viande hachée</td><td>Nombre de colonies aérobies mésophiles[^annex1-lvlu1-part2-lvl21-10]</td><td>5</td><td colspan="2">2</td><td>5 × 10<sup>5</sup> UFC/g</td><td colspan="2">5 × 10<sup>6</sup> UFC/g</td><td>SN EN ISO 4833-1</td><td>Fin du procédé de fabrication</td><td>Améliorations de l’hygiène de production et améliorations de la sélection et/ou de l’origine des matières premières</td></tr>
+<tr><td></td><td>*E. coli*[^annex1-lvlu1-part2-lvl21-11]</td><td>5</td><td colspan="2">2</td><td>50 UFC/g</td><td colspan="2">500 UFC/g</td><td>ISO 16649-1 ou 2</td><td>Fin du procédé de fabrication</td><td>Améliorations de l’hygiène de production et améliorations de la sélection et/ou de l’origine des matières premières</td></tr>
 <tr><td>2.1.8 Viande séparée mécaniquement</td><td>Nombre de colonies aérobies mésophiles</td><td>5</td><td colspan="2">2</td><td>5 × 10<sup>5</sup> UFC/g</td><td colspan="2">5 × 10<sup>6</sup> UFC/g</td><td>SN EN ISO 4833-1</td><td>Fin du procédé de fabrication</td><td>Améliorations de l’hygiène de production et améliorations de la sélection et/ou de l’origine des matières premières</td></tr>
-<tr><td>[tab]</td><td>*E. coli*[^annex1-lvlu1-lvl21-12]</td><td>5</td><td colspan="2">2</td><td>50 UFC/g</td><td colspan="2">500 UFC/g</td><td>ISO 16649-1 ou 2</td><td>Fin du procédé de fabrication</td><td>Améliorations de l’hygiène de production et améliorations de la sélection et/ou de l’origine des matières premières</td></tr>
-<tr><td>2.1.9 Préparations de viande</td><td>*E. coli*[^annex1-lvlu1-lvl21-13]</td><td>5</td><td colspan="2">2</td><td>500 UFC/g</td><td colspan="2">5000 UFC/g</td><td>ISO 16649-1 ou 2</td><td>Fin du procédé de fabrication</td><td>Améliorations de l’hygiène de production et améliorations de la sélection et/ou de l’origine des matières premières</td></tr>
+<tr><td></td><td>*E. coli*[^annex1-lvlu1-part2-lvl21-12]</td><td>5</td><td colspan="2">2</td><td>50 UFC/g</td><td colspan="2">500 UFC/g</td><td>ISO 16649-1 ou 2</td><td>Fin du procédé de fabrication</td><td>Améliorations de l’hygiène de production et améliorations de la sélection et/ou de l’origine des matières premières</td></tr>
+<tr><td>2.1.9 Préparations de viande</td><td>*E. coli*[^annex1-lvlu1-part2-lvl21-13]</td><td>5</td><td colspan="2">2</td><td>500 UFC/g</td><td colspan="2">5000 UFC/g</td><td>ISO 16649-1 ou 2</td><td>Fin du procédé de fabrication</td><td>Améliorations de l’hygiène de production et améliorations de la sélection et/ou de l’origine des matières premières</td></tr>
 </table>
 
 Interprétation des résultats des analyses réalisées sur les viandes et produits à base de viande
@@ -1341,42 +1504,42 @@ Nombre d’*E. coli* et de colonies aérobies mésophiles dans la viande hachée
 - – qualité acceptable lorsqu’un maximum de c/n valeurs se situe entre m et M, et que le reste des valeurs observées est ≤ m,
 - – qualité insatisfaisante lorsqu’une ou plusieurs valeurs observées sont &gt; M ou lorsque plus de c/n valeurs se situent entre m et M.
 
+[^annex1-lvlu1-part2-lvl21-1]: Pour les numéros 2.1.3 à 2.1.6: m = M
+[^annex1-lvlu1-part2-lvl21-2]: La version la plus récente de la norme doit être utilisée. Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
+[^annex1-lvlu1-part2-lvl21-3]: Ces limites (m et M) ne s’appliquent qu’aux échantillons prélevés par la méthode destructive. La valeur log moyenne quotidienne est calculée en prenant tout d’abord une valeur log de chacun des différents résultats d’analyse et en calculant ensuite la moyenne de ces valeurs logs.
+[^annex1-lvlu1-part2-lvl21-4]: Ces limites (m et M) ne s’appliquent qu’aux échantillons prélevés par la méthode destructive. La valeur log moyenne quotidienne est calculée en prenant tout d’abord une valeur log de chacun des différents résultats d’analyse et en calculant ensuite la moyenne de ces valeurs logs.
+[^annex1-lvlu1-part2-lvl21-5]: Nombre d’échantillons dans lesquels la présence de salmonelles est détectée. La valeur c doit être réexaminée afin de prendre en compte les progrès réalisés en matière de réduction de la prévalence des salmonelles.
+[^annex1-lvlu1-part2-lvl21-6]: Nombre d’échantillons dans lesquels la présence de salmonelles est détectée. La valeur c doit être réexaminée afin de prendre en compte les progrès réalisés en matière de réduction de la prévalence des salmonelles.
+[^annex1-lvlu1-part2-lvl21-7]: Lorsque la présence de Salmonella spp. est détectée, les isolats doivent être sérotypés pour Salmonella Typhimurium et Salmonella Enteritidis afin de vérifier le respect du critère microbiologique fixé dans la partie 1, ch. 1.28
+[^annex1-lvlu1-part2-lvl21-8]: Nombre d’échantillons dans lesquels la présence de salmonelles est détectée. La valeur c doit être réexaminée afin de prendre en compte les progrès réalisés en matière de réduction de la prévalence des salmonelles.
+[^annex1-lvlu1-part2-lvl21-9]: À à partir du 1.1.2025, c = 10
+[^annex1-lvlu1-part2-lvl21-10]: Ce critère ne s’applique pas aux viandes hachées produites dans les établissements de commerce de détail lorsque la durée de conservation est inférieure à 24 heures.
+[^annex1-lvlu1-part2-lvl21-11]: *E. coli* est utilisé ici comme indicateur de contamination fécale.
+[^annex1-lvlu1-part2-lvl21-12]: *E. coli* est utilisé ici comme indicateur de contamination fécale.
+[^annex1-lvlu1-part2-lvl21-13]: *E. coli* est utilisé ici comme indicateur de contamination fécale.
+
 ### 2.2 Lait et produits laitiers
 
-[^annex1-lvlu1-lvl21-1]: Pour les numéros 2.1.3 à 2.1.6: m = M
-[^annex1-lvlu1-lvl21-2]: La version la plus récente de la norme doit être utilisée. Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
-[^annex1-lvlu1-lvl21-3]: Ces limites (m et M) ne s’appliquent qu’aux échantillons prélevés par la méthode destructive. La valeur log moyenne quotidienne est calculée en prenant tout d’abord une valeur log de chacun des différents résultats d’analyse et en calculant ensuite la moyenne de ces valeurs logs.
-[^annex1-lvlu1-lvl21-4]: Ces limites (m et M) ne s’appliquent qu’aux échantillons prélevés par la méthode destructive. La valeur log moyenne quotidienne est calculée en prenant tout d’abord une valeur log de chacun des différents résultats d’analyse et en calculant ensuite la moyenne de ces valeurs logs.
-[^annex1-lvlu1-lvl21-5]: Nombre d’échantillons dans lesquels la présence de salmonelles est détectée. La valeur c doit être réexaminée afin de prendre en compte les progrès réalisés en matière de réduction de la prévalence des salmonelles.
-[^annex1-lvlu1-lvl21-6]: Nombre d’échantillons dans lesquels la présence de salmonelles est détectée. La valeur c doit être réexaminée afin de prendre en compte les progrès réalisés en matière de réduction de la prévalence des salmonelles.
-[^annex1-lvlu1-lvl21-7]: Lorsque la présence de Salmonella spp. est détectée, les isolats doivent être sérotypés pour Salmonella Typhimurium et Salmonella Enteritidis afin de vérifier le respect du critère microbiologique fixé dans la partie 1, ch. 1.28
-[^annex1-lvlu1-lvl21-8]: Nombre d’échantillons dans lesquels la présence de salmonelles est détectée. La valeur c doit être réexaminée afin de prendre en compte les progrès réalisés en matière de réduction de la prévalence des salmonelles.
-[^annex1-lvlu1-lvl21-9]: À à partir du 1.1.2025, c = 10
-[^annex1-lvlu1-lvl21-10]: Ce critère ne s’applique pas aux viandes hachées produites dans les établissements de commerce de détail lorsque la durée de conservation est inférieure à 24 heures.
-[^annex1-lvlu1-lvl21-11]: *E. coli* est utilisé ici comme indicateur de contamination fécale.
-[^annex1-lvlu1-lvl21-12]: *E. coli* est utilisé ici comme indicateur de contamination fécale.
-[^annex1-lvlu1-lvl21-13]: *E. coli* est utilisé ici comme indicateur de contamination fécale.
-
 <table>
-<tr><td>Catégorie de denrées alimentaires</td><td>Microorganismes</td><td colspan="2">Plan d’échantillonnage</td><td></td><td colspan="2">Limites[^annex1-lvlu1-lvl21-lvl22-1]</td><td></td><td>Méthode d’analyse de référence[^annex1-lvlu1-lvl21-lvl22-2]</td><td>Stade d’application du critère</td><td>Mesures en cas de résultats insatisfaisants</td></tr>
+<tr><td>Catégorie de denrées alimentaires</td><td>Microorganismes</td><td colspan="2">Plan d’échantillonnage</td><td></td><td colspan="2">Limites[^annex1-lvlu1-part2-lvl22-1]</td><td></td><td>Méthode d’analyse de référence[^annex1-lvlu1-part2-lvl22-2]</td><td>Stade d’application du critère</td><td>Mesures en cas de résultats insatisfaisants</td></tr>
 <tr><td></td><td></td><td>n</td><td colspan="2">c</td><td>m</td><td colspan="2">M</td><td></td><td></td><td></td></tr>
-<tr><td>2.2.1 Lait pasteurisé et autres produits laitiers liquides pasteurisés[^annex1-lvlu1-lvl21-lvl22-3]</td><td>Enterobacteriaceae</td><td>5</td><td colspan="2">0</td><td>10 UFC/ml</td><td colspan="2"></td><td>SN EN ISO 21528-2</td><td>Fin du procédé de fabrication</td><td>Contrôle de l’efficacité du traitement thermique, prévention de la recontamination et contrôle de la qualité des matières premières</td></tr>
-<tr><td>2.2.2 Fromages à base de lait ou de lactosérum ayant subi un traitement thermique</td><td>*E. coli*[^annex1-lvlu1-lvl21-lvl22-4]</td><td>5</td><td colspan="2">2</td><td>100 UFC/g</td><td colspan="2">1000 UFC/g</td><td>ISO 16649-1 ou 2</td><td>Pendant le procédé de fabrication, au moment où l’on prévoit le nombre d’*E. coli* le plus élevé</td><td>Améliorations de l’hygiène de la production et de la sélection des matières premières.</td></tr>
+<tr><td>2.2.1 Lait pasteurisé et autres produits laitiers liquides pasteurisés[^annex1-lvlu1-part2-lvl22-3]</td><td>Enterobacteriaceae</td><td>5</td><td colspan="2">0</td><td>10 UFC/ml</td><td colspan="2"></td><td>SN EN ISO 21528-2</td><td>Fin du procédé de fabrication</td><td>Contrôle de l’efficacité du traitement thermique, prévention de la recontamination et contrôle de la qualité des matières premières</td></tr>
+<tr><td>2.2.2 Fromages à base de lait ou de lactosérum ayant subi un traitement thermique</td><td>*E. coli*[^annex1-lvlu1-part2-lvl22-4]</td><td>5</td><td colspan="2">2</td><td>100 UFC/g</td><td colspan="2">1000 UFC/g</td><td>ISO 16649-1 ou 2</td><td>Pendant le procédé de fabrication, au moment où l’on prévoit le nombre d’*E. coli* le plus élevé</td><td>Améliorations de l’hygiène de la production et de la sélection des matières premières.</td></tr>
 </table>
 
 <table>
 <tr><th>Catégorie de denrées alimentaires</th><th>Microorganismes</th><th colspan="2">Plan d’échantillonnage</th><th></th><th colspan="2">Limites</th><th></th><th>Méthode d’analyse de référence</th><th>Stade d’application du critère</th><th>Mesures en cas de résultats insatisfaisants</th></tr>
 <tr><th></th><th></th><th>n</th><th colspan="2">c</th><th>m</th><th colspan="2">M</th><th></th><th></th><th></th></tr>
-<tr><td>2.2.3 Fromages au lait cru</td><td>Staphylocoques à coagulase positive</td><td>5</td><td colspan="2">2</td><td>10<sup>4</sup> UFC/g</td><td colspan="2">10<sup>5</sup> UFC/g</td><td>SN EN ISO 6888-2</td><td>Pendant le procédé de fabrication, au moment où l’on prévoit le nombre de staphylocoques le plus élevé.[^annex1-lvlu1-lvl21-lvl22-5]</td><td>Améliorations de l’hygiène de la production et de la sélection des matières premières. Lorsque des valeurs &gt; 10<sup>5</sup> UFC/g sont détectées, le lot doit faire l’objet d’une recherche des entérotoxines staphylococciques.</td></tr>
-<tr><td>2.2.4 Fromages à base de lait ayant subi un traitement thermique à une température inférieure à celle de la pasteurisation[^annex1-lvlu1-lvl21-lvl22-6], et fromages affinés à base de lait ou de lactosérum pasteurisés ou ayant subi un traitement thermique à une température supérieure à celle de la pasteurisation[^annex1-lvlu1-lvl21-lvl22-7]</td><td>Staphylocoques à coagulase positive</td><td>5</td><td colspan="2">2</td><td>100 UFC/g</td><td colspan="2">1000 UFC/g</td><td>SN EN ISO 6888-1 ou 2</td><td></td><td></td></tr>
-<tr><td>2.2.5 Fromages à pâte molle non affinés (fromages frais) à base de lait ou de lactosérum pasteurisés ou ayant subi un traitement thermique à une température supérieure à celle de la pasteurisation[^annex1-lvlu1-lvl21-lvl22-8]</td><td>Staphylocoques à coagulase positive</td><td>5</td><td colspan="2">2</td><td>10 UFC/g</td><td colspan="2">100 UFC/g</td><td>SN EN ISO 6888-1 ou 2</td><td>Fin du procédé de fabrication</td><td>Améliorations de l’hygiène de la production. Lorsque des valeurs &gt; 10<sup>5</sup> UFC/g sont détectées, le lot doit faire l’objet d’une recherche des entérotoxines staphylococciques.</td></tr>
-<tr><td>2.2.6 Beurre et crème au lait cru ou lait ayant subi un traitement thermique à une température inférieure à celle de la pasteurisation</td><td>E. coli[^annex1-lvlu1-lvl21-lvl22-9]</td><td>5</td><td colspan="2">2</td><td>10 UFC/g</td><td colspan="2">100 UFC/g</td><td>ISO 16649-1 ou 2</td><td>Fin du procédé de fabrication</td><td>Améliorations de l’hygiène de la production et de la sélection des matières premières.</td></tr>
-<tr><td>2.2.7 Lait en poudre et lacto-sérum en poudre[^annex1-lvlu1-lvl21-lvl22-10]</td><td>Enterobacteriaceae</td><td>5</td><td colspan="2">0</td><td>10 UFC/g</td><td colspan="2"></td><td>SN EN ISO 21528-2</td><td>Fin du procédé de fabrication</td><td>Contrôle de l’efficacité du traitement thermique et prévention de la recontamination.</td></tr>
-<tr><td>[tab]</td><td>Staphylocoques à coagulase positive</td><td>5</td><td colspan="2">2</td><td>10 UFC/g</td><td colspan="2">100 UFC/g</td><td>SN EN ISO 6888-1 ou 2</td><td>Fin du procédé de fabrication</td><td>Améliorations de l’hygiène de la production. Lorsque des valeurs &gt; 10<sup>5</sup> UFC/g sont détectées, le lot doit faire l’objet d’une recherche des entérotoxines staphylococciques.</td></tr>
-<tr><td>2.2.8 Glaces comestibles[^annex1-lvlu1-lvl21-lvl22-11] et desserts lactés congelés</td><td>*Enterobacteriaceae*</td><td>5</td><td colspan="2">2</td><td>10 UFC/g</td><td colspan="2">100 UFC/g</td><td>SN EN ISO 21528-2</td><td>Fin du procédé de fabrication</td><td>Améliorations de l’hygiène de production.</td></tr>
-<tr><td>2.2.9 Préparations déshydratées pour nourrissons et denrées alimentaires déshydratées destinées à des fins médicales spéciales pour nourrissons de moins de six mois</td><td>*Enterobacteriaceae*</td><td>10</td><td colspan="2">0</td><td colspan="2">Non décelable dans 10 g</td><td></td><td>SN EN ISO 21528-1</td><td>Fin du procédé de fabrication</td><td>Améliorations de l’hygiène de production destinées à minimiser la contamination.[^annex1-lvlu1-lvl21-lvl22-12]</td></tr>
+<tr><td>2.2.3 Fromages au lait cru</td><td>Staphylocoques à coagulase positive</td><td>5</td><td colspan="2">2</td><td>10<sup>4</sup> UFC/g</td><td colspan="2">10<sup>5</sup> UFC/g</td><td>SN EN ISO 6888-2</td><td>Pendant le procédé de fabrication, au moment où l’on prévoit le nombre de staphylocoques le plus élevé.[^annex1-lvlu1-part2-lvl22-5]</td><td>Améliorations de l’hygiène de la production et de la sélection des matières premières. Lorsque des valeurs &gt; 10<sup>5</sup> UFC/g sont détectées, le lot doit faire l’objet d’une recherche des entérotoxines staphylococciques.</td></tr>
+<tr><td>2.2.4 Fromages à base de lait ayant subi un traitement thermique à une température inférieure à celle de la pasteurisation[^annex1-lvlu1-part2-lvl22-6], et fromages affinés à base de lait ou de lactosérum pasteurisés ou ayant subi un traitement thermique à une température supérieure à celle de la pasteurisation[^annex1-lvlu1-part2-lvl22-7]</td><td>Staphylocoques à coagulase positive</td><td>5</td><td colspan="2">2</td><td>100 UFC/g</td><td colspan="2">1000 UFC/g</td><td>SN EN ISO 6888-1 ou 2</td><td></td><td></td></tr>
+<tr><td>2.2.5 Fromages à pâte molle non affinés (fromages frais) à base de lait ou de lactosérum pasteurisés ou ayant subi un traitement thermique à une température supérieure à celle de la pasteurisation[^annex1-lvlu1-part2-lvl22-8]</td><td>Staphylocoques à coagulase positive</td><td>5</td><td colspan="2">2</td><td>10 UFC/g</td><td colspan="2">100 UFC/g</td><td>SN EN ISO 6888-1 ou 2</td><td>Fin du procédé de fabrication</td><td>Améliorations de l’hygiène de la production. Lorsque des valeurs &gt; 10<sup>5</sup> UFC/g sont détectées, le lot doit faire l’objet d’une recherche des entérotoxines staphylococciques.</td></tr>
+<tr><td>2.2.6 Beurre et crème au lait cru ou lait ayant subi un traitement thermique à une température inférieure à celle de la pasteurisation</td><td>E. coli[^annex1-lvlu1-part2-lvl22-9]</td><td>5</td><td colspan="2">2</td><td>10 UFC/g</td><td colspan="2">100 UFC/g</td><td>ISO 16649-1 ou 2</td><td>Fin du procédé de fabrication</td><td>Améliorations de l’hygiène de la production et de la sélection des matières premières.</td></tr>
+<tr><td>2.2.7 Lait en poudre et lacto-sérum en poudre[^annex1-lvlu1-part2-lvl22-10]</td><td>Enterobacteriaceae</td><td>5</td><td colspan="2">0</td><td>10 UFC/g</td><td colspan="2"></td><td>SN EN ISO 21528-2</td><td>Fin du procédé de fabrication</td><td>Contrôle de l’efficacité du traitement thermique et prévention de la recontamination.</td></tr>
+<tr><td></td><td>Staphylocoques à coagulase positive</td><td>5</td><td colspan="2">2</td><td>10 UFC/g</td><td colspan="2">100 UFC/g</td><td>SN EN ISO 6888-1 ou 2</td><td>Fin du procédé de fabrication</td><td>Améliorations de l’hygiène de la production. Lorsque des valeurs &gt; 10<sup>5</sup> UFC/g sont détectées, le lot doit faire l’objet d’une recherche des entérotoxines staphylococciques.</td></tr>
+<tr><td>2.2.8 Glaces comestibles[^annex1-lvlu1-part2-lvl22-11] et desserts lactés congelés</td><td>*Enterobacteriaceae*</td><td>5</td><td colspan="2">2</td><td>10 UFC/g</td><td colspan="2">100 UFC/g</td><td>SN EN ISO 21528-2</td><td>Fin du procédé de fabrication</td><td>Améliorations de l’hygiène de production.</td></tr>
+<tr><td>2.2.9 Préparations déshydratées pour nourrissons et denrées alimentaires déshydratées destinées à des fins médicales spéciales pour nourrissons de moins de six mois</td><td>*Enterobacteriaceae*</td><td>10</td><td colspan="2">0</td><td colspan="2">Non décelable dans 10 g</td><td></td><td>SN EN ISO 21528-1</td><td>Fin du procédé de fabrication</td><td>Améliorations de l’hygiène de production destinées à minimiser la contamination.[^annex1-lvlu1-part2-lvl22-12]</td></tr>
 <tr><td>2.2.10 Préparations de suite déshydratées</td><td>*Enterobacteriaceae*</td><td>5</td><td colspan="2">0</td><td colspan="2">Non décelable dans 10 g</td><td></td><td>SN EN ISO 21528-1</td><td>Fin du procédé de fabrication</td><td>Améliorations de l’hygiène de production destinées à minimiser la contamination.</td></tr>
-<tr><td>2.2.11 Préparations déshydratées pour nourrissons et denrées alimentaires diététiques déshydratées destinées à des fins médicales spéciales pour nourrissons de moins de six mois</td><td>Présomption de *Bacillus cereus*</td><td>5</td><td colspan="2">1</td><td>50 UFC/g</td><td colspan="2">500 UFC/g</td><td>SN EN ISO 7932 [^annex1-lvlu1-lvl21-lvl22-13]</td><td>Fin du procédé de fabrication</td><td>Améliorations de l’hygiène de la production. Prévention de la recontamination. Sélection des matières premières.</td></tr>
+<tr><td>2.2.11 Préparations déshydratées pour nourrissons et denrées alimentaires diététiques déshydratées destinées à des fins médicales spéciales pour nourrissons de moins de six mois</td><td>Présomption de *Bacillus cereus*</td><td>5</td><td colspan="2">1</td><td>50 UFC/g</td><td colspan="2">500 UFC/g</td><td>SN EN ISO 7932 [^annex1-lvlu1-part2-lvl22-13]</td><td>Fin du procédé de fabrication</td><td>Améliorations de l’hygiène de la production. Prévention de la recontamination. Sélection des matières premières.</td></tr>
 </table>
 
 Interprétation des résultats des analyses réalisées sur le lait et les produits laitiers
@@ -1402,24 +1565,24 @@ Présomption de *Bacillus cereus* dans les préparations déshydratées pour nou
 - – qualité acceptable lorsqu’un maximum de c/n valeurs se situe entre m et M, et que le reste des valeurs observées est ≤ m,
 - – qualité insatisfaisante lorsqu’une ou plusieurs valeurs observées sont &gt; M ou lorsque plus de c/n valeurs se situent entre m et M.
 
-[^annex1-lvlu1-lvl21-lvl22-1]: Pour les numéros 2.2.1, 2.2.8, 2.2.10 et 2.2.11: m = M
-[^annex1-lvlu1-lvl21-lvl22-2]: La version la plus récente de la norme doit être utilisée. Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
-[^annex1-lvlu1-lvl21-lvl22-3]: Ce critère ne s’applique pas aux produits destinés à être encore transformés dans le secteur alimentaire.
-[^annex1-lvlu1-lvl21-lvl22-4]: *E. coli* est utilisée ici comme indicateur du niveau d’hygiène.
-[^annex1-lvlu1-lvl21-lvl22-5]: Normalement, ce moment est atteint pour les fromages à pâte molle et à pâte mi-dure à l’étape «caillé prélevé avant le saumurage», pour les fromages à pâte dure et extra-dure à l’étape de démarrage du chauffage (prélèvement du grain de caillé uniquement).
-[^annex1-lvlu1-lvl21-lvl22-6]: Ce critère ne s’applique pas si la personne responsable peut démontrer, à la satisfaction de l’autorité d’exécution compétente, qu’un produit ne présente aucun risque de contamination par entérotoxines staphylococciques.
-[^annex1-lvlu1-lvl21-lvl22-7]: Ce critère ne s’applique pas si la personne responsable peut démontrer, à la satisfaction de l’autorité d’exécution compétente, qu’un produit ne présente aucun risque de contamination par entérotoxines staphylococciques.
-[^annex1-lvlu1-lvl21-lvl22-8]: Ce critère ne s’applique pas si la personne responsable peut démontrer, à la satisfaction de l’autorité d’exécution compétente, qu’un produit ne présente aucun risque de contamination par entérotoxines staphylococciques.
-[^annex1-lvlu1-lvl21-lvl22-9]: *E. coli* est utilisée ici comme indicateur du niveau d’hygiène.
-[^annex1-lvlu1-lvl21-lvl22-10]: Ce critère ne s’applique pas aux produits destinés à être encore transformés dans le secteur alimentaire.
-[^annex1-lvlu1-lvl21-lvl22-11]: Uniquement les glaces comestibles qui contiennent des matières premières d’origine laitière.
-[^annex1-lvlu1-lvl21-lvl22-12]: Des analyses en parallèle doivent être réalisées pour les *Enterobacteriaceae* et *Cronobacter* spp., sauf si une corrélation entre ces microorganismes a été établie au niveau d’une usine. Si des *Enterobacteriaceae* sont détectés dans un échantillon du produit analysé dans cette usine, le lot doit être analysé pour *Cronobacter* spp. Il appartient à la personne responsable de démontrer, à la satisfaction de l’autorité d’exécution compétente, s’il existe une telle corrélation entre *Enterobacteriaceae* et *Cronobacter* spp.
-[^annex1-lvlu1-lvl21-lvl22-13]: 1 ml d’inoculum est déposé sur une boîte de Petri d’un diamètre de 140 mm ou sur trois boîtes de Petri d’un diamètre de 90 mm.
+[^annex1-lvlu1-part2-lvl22-1]: Pour les numéros 2.2.1, 2.2.8, 2.2.10 et 2.2.11: m = M
+[^annex1-lvlu1-part2-lvl22-2]: La version la plus récente de la norme doit être utilisée. Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
+[^annex1-lvlu1-part2-lvl22-3]: Ce critère ne s’applique pas aux produits destinés à être encore transformés dans le secteur alimentaire.
+[^annex1-lvlu1-part2-lvl22-4]: *E. coli* est utilisée ici comme indicateur du niveau d’hygiène.
+[^annex1-lvlu1-part2-lvl22-5]: Normalement, ce moment est atteint pour les fromages à pâte molle et à pâte mi-dure à l’étape «caillé prélevé avant le saumurage», pour les fromages à pâte dure et extra-dure à l’étape de démarrage du chauffage (prélèvement du grain de caillé uniquement).
+[^annex1-lvlu1-part2-lvl22-6]: Ce critère ne s’applique pas si la personne responsable peut démontrer, à la satisfaction de l’autorité d’exécution compétente, qu’un produit ne présente aucun risque de contamination par entérotoxines staphylococciques.
+[^annex1-lvlu1-part2-lvl22-7]: Ce critère ne s’applique pas si la personne responsable peut démontrer, à la satisfaction de l’autorité d’exécution compétente, qu’un produit ne présente aucun risque de contamination par entérotoxines staphylococciques.
+[^annex1-lvlu1-part2-lvl22-8]: Ce critère ne s’applique pas si la personne responsable peut démontrer, à la satisfaction de l’autorité d’exécution compétente, qu’un produit ne présente aucun risque de contamination par entérotoxines staphylococciques.
+[^annex1-lvlu1-part2-lvl22-9]: *E. coli* est utilisée ici comme indicateur du niveau d’hygiène.
+[^annex1-lvlu1-part2-lvl22-10]: Ce critère ne s’applique pas aux produits destinés à être encore transformés dans le secteur alimentaire.
+[^annex1-lvlu1-part2-lvl22-11]: Uniquement les glaces comestibles qui contiennent des matières premières d’origine laitière.
+[^annex1-lvlu1-part2-lvl22-12]: Des analyses en parallèle doivent être réalisées pour les *Enterobacteriaceae* et *Cronobacter* spp., sauf si une corrélation entre ces microorganismes a été établie au niveau d’une usine. Si des *Enterobacteriaceae* sont détectés dans un échantillon du produit analysé dans cette usine, le lot doit être analysé pour *Cronobacter* spp. Il appartient à la personne responsable de démontrer, à la satisfaction de l’autorité d’exécution compétente, s’il existe une telle corrélation entre *Enterobacteriaceae* et *Cronobacter* spp.
+[^annex1-lvlu1-part2-lvl22-13]: 1 ml d’inoculum est déposé sur une boîte de Petri d’un diamètre de 140 mm ou sur trois boîtes de Petri d’un diamètre de 90 mm.
 
 ### 2.3 Ovoproduits
 
 <table>
-<tr><td>Catégorie de denrées alimentaires</td><td>Microorganismes</td><td colspan="2">Plan d’échantillonnage</td><td></td><td colspan="2">Limites</td><td></td><td>Méthode d’analyse de référence[^annex1-lvlu1-lvl21-lvl23-1]</td><td>Stade d’application du critère</td><td>Mesures en cas de résultats insatisfaisants</td></tr>
+<tr><td>Catégorie de denrées alimentaires</td><td>Microorganismes</td><td colspan="2">Plan d’échantillonnage</td><td></td><td colspan="2">Limites</td><td></td><td>Méthode d’analyse de référence[^annex1-lvlu1-part2-lvl23-1]</td><td>Stade d’application du critère</td><td>Mesures en cas de résultats insatisfaisants</td></tr>
 <tr><td></td><td></td><td>n</td><td colspan="2">c</td><td>m</td><td colspan="2">M</td><td></td><td></td><td></td></tr>
 <tr><td>2.3.1 Ovoproduits</td><td>Enterobacteriaceae</td><td>5</td><td colspan="2">2</td><td>10 UFC/g ou ml</td><td colspan="2">100 UFC/g ou ml</td><td>SN EN ISO 21528-2</td><td>Fin du procédé de fabrication</td><td>Contrôle de l’efficacité du traitement thermique et prévention de la recontamination.</td></tr>
 </table>
@@ -1436,15 +1599,15 @@ Les résultats des analyses révèlent la qualité microbiologique du procédé 
 - – qualité acceptable lorsqu’un maximum de c/n valeurs se situe entre m et M, et que le reste des valeurs observées est ≤ m,
 - – qualité insatisfaisante lorsqu’une ou plusieurs valeurs observées sont &gt; M ou lorsque plus de c/n valeurs se situent entre m et M.
 
-[^annex1-lvlu1-lvl21-lvl23-1]: La version la plus récente de la norme doit être utilisée. Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
+[^annex1-lvlu1-part2-lvl23-1]: La version la plus récente de la norme doit être utilisée. Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
 
 ### 2.4 Produits de la pêche
 
 <table>
-<tr><td>Catégorie de denrées alimentaires</td><td>Microorganismes</td><td colspan="2">Plan d’échantillonnage</td><td></td><td colspan="2">Limites</td><td></td><td>Méthode d’analyse de référence[^annex1-lvlu1-lvl21-lvl24-1]</td><td>Stade d’application du critère</td><td>Mesures en cas de résultats insatisfaisants</td></tr>
+<tr><td>Catégorie de denrées alimentaires</td><td>Microorganismes</td><td colspan="2">Plan d’échantillonnage</td><td></td><td colspan="2">Limites</td><td></td><td>Méthode d’analyse de référence[^annex1-lvlu1-part2-lvl24-1]</td><td>Stade d’application du critère</td><td>Mesures en cas de résultats insatisfaisants</td></tr>
 <tr><td></td><td></td><td>n</td><td colspan="2">c</td><td>m</td><td colspan="2">M</td><td></td><td></td><td></td></tr>
 <tr><td>2.4.1 Produits décortiqués et décoquillés de crustacés ou de mollusques cuits</td><td>E. coli</td><td>5</td><td colspan="2">2</td><td>1 NPP/g</td><td colspan="2">10 NPP/g</td><td>SN EN ISO 16649-3</td><td>Fin du procédé de fabrication</td><td>Améliorations de l’hygiène de production.</td></tr>
-<tr><td>[tab]</td><td>Staphylocoques à coagulase positive</td><td>5</td><td colspan="2">2</td><td>100 UFC/g</td><td colspan="2">1000 UFC/g</td><td>SN EN ISO 6888-1 ou 2</td><td>Fin du procédé de fabrication</td><td>Améliorations de l’hygiène de production.</td></tr>
+<tr><td></td><td>Staphylocoques à coagulase positive</td><td>5</td><td colspan="2">2</td><td>100 UFC/g</td><td colspan="2">1000 UFC/g</td><td>SN EN ISO 6888-1 ou 2</td><td>Fin du procédé de fabrication</td><td>Améliorations de l’hygiène de production.</td></tr>
 </table>
 
 Interprétation des résultats des analyses réalisées sur les produits de la pêche
@@ -1465,15 +1628,15 @@ Staphylocoques à coagulase positive dans les produits décortiqués et décoqui
 - – qualité acceptable lorsqu’un maximum de c/n valeurs se situe entre m et M, et que le reste des valeurs observées est ≤ m,
 - – qualité insatisfaisante lorsqu’une ou plusieurs valeurs observées sont &gt; M ou lorsque plus de c/n valeurs se situent entre m et M.
 
-[^annex1-lvlu1-lvl21-lvl24-1]: La version la plus récente de la norme doit être utilisée. Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
+[^annex1-lvlu1-part2-lvl24-1]: La version la plus récente de la norme doit être utilisée. Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
 
 ### 2.5 Légumes, fruits et produits à base de légumes et de fruits
 
 <table>
-<tr><td>Catégorie de denrées alimentaires</td><td>Microorganismes</td><td colspan="2">Plan d’échantillonnage</td><td></td><td>Limites</td><td></td><td>Méthode d’analyse de référence[^annex1-lvlu1-lvl21-lvl25-1]</td><td>Stade d’application du critère</td><td>Mesures en cas de résultats insatisfaisants</td></tr>
+<tr><td>Catégorie de denrées alimentaires</td><td>Microorganismes</td><td colspan="2">Plan d’échantillonnage</td><td></td><td>Limites</td><td></td><td>Méthode d’analyse de référence[^annex1-lvlu1-part2-lvl25-1]</td><td>Stade d’application du critère</td><td>Mesures en cas de résultats insatisfaisants</td></tr>
 <tr><td></td><td></td><td>n</td><td colspan="2">c</td><td>m</td><td>M</td><td></td><td></td><td></td></tr>
 <tr><td>2.5.1 Fruits et légumes prédécoupés prêts à la consommation</td><td>E. coli</td><td>5</td><td colspan="2">2</td><td>100 UFC/g</td><td>1000 UFC/g</td><td>ISO 16649-1 ou 2</td><td>Pendant le procédé de fabrication</td><td>Améliorations de l’hygiène de la production et de la sélection des matières premières.</td></tr>
-<tr><td>2.5.2 Jus de fruits et de légumes non pasteurisés[^annex1-lvlu1-lvl21-lvl25-2] prêts à la consommation</td><td>E. coli</td><td>5</td><td colspan="2">2</td><td>100 UFC/g</td><td>1000 UFC/g</td><td>ISO 16649-1 ou 2</td><td>Pendant le procédé de fabrication</td><td>Améliorations de l’hygiène de la production et de la sélection des matières premières.</td></tr>
+<tr><td>2.5.2 Jus de fruits et de légumes non pasteurisés[^annex1-lvlu1-part2-lvl25-2] prêts à la consommation</td><td>E. coli</td><td>5</td><td colspan="2">2</td><td>100 UFC/g</td><td>1000 UFC/g</td><td>ISO 16649-1 ou 2</td><td>Pendant le procédé de fabrication</td><td>Améliorations de l’hygiène de la production et de la sélection des matières premières.</td></tr>
 </table>
 
 Interprétation des résultats des analyses réalisées sur les légumes, fruits et produits à base de légumes et de fruits
@@ -1488,8 +1651,42 @@ Les résultats des analyses révèlent la qualité microbiologique du procédé 
 - – qualité acceptable lorsqu’un maximum de c/n valeurs se situe entre m et M, et que le reste des valeurs observées est ≤ m,
 - – qualité insatisfaisante lorsqu’une ou plusieurs valeurs observées sont &gt; M ou lorsque plus de c/n valeurs se situent entre m et M.
 
-[^annex1-lvlu1-lvl21-lvl25-1]: La version la plus récente de la norme doit être utilisée. Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
-[^annex1-lvlu1-lvl21-lvl25-2]: Le terme « non pasteurisé » signifie que le jus n’a pas fait l’objet d’une pasteurisation obtenue par une combinaison de temps et de température ou d’autres procédés validés pour atteindre un effet bactéricide équivalent à la pasteurisation en ce qui concerne son effet sur E. Coli
+[^annex1-lvlu1-part2-lvl25-1]: La version la plus récente de la norme doit être utilisée. Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
+[^annex1-lvlu1-part2-lvl25-2]: Le terme « non pasteurisé » signifie que le jus n’a pas fait l’objet d’une pasteurisation obtenue par une combinaison de temps et de température ou d’autres procédés validés pour atteindre un effet bactéricide équivalent à la pasteurisation en ce qui concerne son effet sur E. Coli
+
+### Partie 3 Dispositions particulières s’appliquant à l’échantillonnage et à l’analyse de germes
+
+- 3\.1.
+
+  Aux fins de la présente section, on entend par:
+
+  - a. *lot:* une quantité de germes ou de graines destinées à la production de germes ayant le même nom taxinomique, expédiée le même jour à partir d’un même établissement vers une même destination; toutefois, si dans un même emballage sont mélangées des graines ayant des noms taxinomiques différents pour qu’elles germent ensemble, elles sont aussi considérées comme un seul lot, ainsi que leurs germes;
+  - b. *envoi:* l’expédition d’un ou de plusieurs lots.
+
+- 3\.2. Analyse préalable du lot de graines
+- 3\.2.1 Les établissements producteurs de germes doivent procéder à l’analyse préalable d’un échantillon représentatif de tous les lots de graines.
+- 3\.2.2 Un échantillon représentatif doit comprendre au moins 0,5 % du poids du lot de graines en sous-échantillons de 50 g ou être sélectionné sur la base d’une stratégie d’échantillonnage structurée et statistiquement équivalente.
+- 3\.2.3 Aux fins de l’exécution de l’analyse préalable, l’établissement fait germer les graines de l’échantillon représentatif dans les mêmes conditions que le reste du lot de graines destinées à la germination. Le recours à une mesure d’hygiénisation microbiologique qui peut précéder le processus de germination dans le cadre de la production doit être exclu durant l’analyse préalable des lots de graines.
+- 3\.2.4
+
+  On peut renoncer à l’analyse préalable du lot de graines lorsque:
+
+  - a. l’autorité d’exécution compétente s’est assurée que l’établissement mettait en œuvre un système de gestion de la sécurité alimentaire incluant aussi des étapes dans le processus de production, qui réduit le risque microbiologique, et que
+  - b. des données rétrospectives confirment que, pendant les derniers six mois, tous les lots des différents types de germes produits dans l’établissement respectent les critères de sécurité des denrées alimentaires prévus aux ch. 1.18 et 1.29 de l’annexe 1, partie 1.
+
+- 3\.3. Échantillonnage et analyse des germes et de l’eau d’irrigation usée
+- 3\.3.1 Les établissements producteurs de germes doivent prélever des échantillons pour l’analyse microbiologique à l’étape où la probabilité de trouver des *E. coli* producteurs de shiga-toxines (STEC) et *Salmonella* spp. est la plus grande, et quoi qu’il en soit pas avant 48 heures après le début du processus de germination.
+- 3\.3.2 Les échantillons de germes doivent être analysés conformément aux exigences prévues aux ch. 1.18 et 1.29 de l’annexe 1, partie 1.
+- 3\.3.3 Toutefois, lorsqu’un établissement producteur de germes dispose d’un plan d’échantillonnage, comprenant des procédures d’échantillonnage et des points de prélèvement des eaux d’irrigation usées, il peut remplacer le prélèvement d’échantillons conformément aux exigences prévues aux ch. 1.18 et 1.29 de l’annexe 1, partie 1, par l’analyse de cinq échantillons de 200 ml d’eau utilisée pour l’irrigation des germes. Dans ce cas, les exigences susmentionnées s’appliquent à l’analyse de l’eau utilisée pour l’irrigation des germes, avec la limite de détection dans 200 ml.
+- 3\.3.4 Lors de la première analyse d’un lot de graines, les établissements ne pourront mettre les germes sur le marché que si les résultats de l’analyse microbiologique sont conformes aux ch. 1.18 et 1.29 de l’annexe 1, partie 1, ou, si le résultat de l’analyse de l’eau d’irrigation usée est négatif dans 200 ml.
+- 3\.4. Fréquence d’échantillonnage
+- 3\.4.1 Les établissements producteurs de germes doivent prélever au moins une fois par mois des échantillons pour l’analyse microbiologique à l’étape où la probabilité de trouver des *E. coli* producteurs de shiga-toxines (STEC) et *Salmonella* spp. est la plus grande, et quoi qu’il en soit pas avant 48 heures après le début du processus de germination.
+- 3\.4.2
+
+  La fréquence d’échantillonnage peut être réduite lorsque:
+
+  - a. l’autorité d’exécution compétente s’est assurée que l’établissement mettait en œuvre un système de gestion de la sécurité alimentaire incluant aussi des étapes dans le processus de production, qui réduit le risque microbiologique, et que
+  - b. des données rétrospectives confirment que, pendant les derniers six mois, tous les lots des différents types de germes produits dans l’établissement respectent les critères de sécurité des denrées alimentaires prévus à l’annexe 1, partie 1, ch. 1.18 et 1.29.
 
 Annexe 2[^t-2]
 
