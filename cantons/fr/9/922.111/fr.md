@@ -1,27 +1,27 @@
 ---
 canton: FR
 number: "922.111"
-title: Ordonnance DIAF concernant la planification de la chasse pour la saison 2024
-short: OPlan 2024
+title: Ordonnance DIAF concernant la planification de la chasse pour la saison 2025
+short: OPlan 2025
 language: fr
-version: 2024-07-01
-valid_until: 2025-06-30
-version_adopted: 2024-06-20
+version: 2025-07-01
+valid_until: 2026-06-30
+version_adopted: 2025-06-30
 adopted: 2026-07-01
 in_force: 2026-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/922.111"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8039/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8240/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
-# Ordonnance DIAF concernant la planification de la chasse pour la saison 2024
+# Ordonnance DIAF concernant la planification de la chasse pour la saison 2025
 
-Planification de la chasse pour la saison 2024 – O
+Planification de la chasse pour la saison 2025 – O
 
-(OPlan 2024)
+(OPlan 2025)
 
-du 20.06.2024 (version entrée en vigueur le 01.07.2024)
+du 30.06.2025 (version entrée en vigueur le 01.07.2025)
 
 La Direction des institutions, de l'agriculture et des forêts
 
@@ -47,68 +47,85 @@ Adopte ce qui suit:
 
 #### Art. 1
 
-<sup>1</sup> La présente ordonnance a pour objet d'établir des contingents pour certaines espèces ainsi que les règles particulières pour la saison de chasse 2024, y compris pour les tirs de régulation effectués en application de l'ordonnance concernant les tirs de régulation dans les zones protégées (OTir).
+<sup>1</sup> La présente ordonnance a pour objet d'établir des contingents pour certaines espèces ainsi que les règles particulières pour la saison de chasse 2025, y compris pour les tirs de régulation effectués en application de l'ordonnance concernant les tirs de régulation dans les zones protégées (OTir)[^1-1].
+
+[^1-1]: RSF [922.15](https://bdlf.fr.ch/data/922.15/fr)
 
 ## 2 Chasse du chamois et chasse spéciale du chamois (art. 19, 55, 56, 59 et 60 OCha)
+
+[^1-2]
+
+[^1-2]: RSF [922.11](https://bdlf.fr.ch/data/922.11/fr)
 
 #### Art. 2
 
 **Prix du permis**
 
-<sup>1</sup> Les prix du permis A, qui confère à son ou sa titulaire le droit de chasser le chamois dans les territoires de montagne définis à l'article 55 OCha, et du permis pour la chasse spéciale du chamois, qui confère à son ou sa titulaire le droit de participer à des chasses spéciales du chamois, sont les suivants:
+<sup>1</sup> Les prix du permis A, qui confère à son ou sa titulaire le droit de chasser le chamois dans les territoires de montagne définis à l'article 55 OCha[^2-1], et du permis pour la chasse spéciale du chamois, qui confère à son ou sa titulaire le droit de participer à des chasses spéciales du chamois, sont les suivants:
 
-- a) 1 bouc: — Fr. 250.–
-- b) 1 chèvre: — Fr. 250.–
-- c) 1 éterle/cabri: — Fr. 150.–
+- a) 1 bouc: — Fr. 250
+- b) 1 chèvre: — Fr. 250
+- c) 1 éterle/cabri: — Fr. 150
+
+[^2-1]: RSF [922.11](https://bdlf.fr.ch/data/922.11/fr)
 
 #### Art. 3
 
 **Remboursements**
 
-<sup>1</sup> Sur présentation d'une attestation délivrée par un ou une garde-faune, si un cabri de chamois a été abattu en lieu et place d'un éterle, la préfecture qui a délivré le permis rembourse un montant de 70 francs (210 francs si la majo-ration de prix prévue à l'article 22 al. 3 LCha a été appliquée).
+<sup>1</sup> Sur présentation d'une attestation délivrée par un ou une garde-faune, si un cabri de chamois a été abattu en lieu et place d'un éterle, la préfecture qui a délivré le permis rembourse un montant de 70 francs (210 francs si la majoration de prix prévue à l'article 22 al. 3 LCha[^3-1] a été appliquée).
 
-<sup>2</sup> Sur présentation d'une attestation délivrée par un ou une garde-faune, si un cabri de chamois a été abattu en lieu et place d'un bouc ou d'une chèvre, la préfecture qui a délivré le permis rembourse un montant de 170 francs (510 francs si la majoration de prix prévue à l'article 22 al. 3 LCha a été appliquée).
+<sup>2</sup> Sur présentation d'une attestation délivrée par un ou une garde-faune, si un cabri de chamois a été abattu en lieu et place d'un bouc ou d'une chèvre, la préfecture qui a délivré le permis rembourse un montant de 170 francs (510 francs si la majoration de prix prévue à l'article 22 al. 3 LCha[^3-2] a été appliquée).
 
 <sup>3</sup> Sur présentation d'une attestation délivrée par un ou une garde-faune, si, au terme de la période de chasse, le chasseur ou la chasseuse n'a pas tiré de chamois, la préfecture qui a délivré le permis rembourse la moitié du prix payé pour l'obtention du permis.
 
-<sup>4</sup> La demande de remboursement prévu aux alinéas 1 à 3 doit être déposée jusqu'au 1<sup>er</sup> mars 2025 auprès de la préfecture qui a délivré le permis.
+<sup>4</sup> La demande de remboursement prévu aux alinéas 1 à 3 doit être déposée jusqu'au 15 mars 2026 auprès de la préfecture qui a délivré le permis.
 
 <sup>5</sup> En cas de blessure avérée d'un animal par un chasseur ou une chasseuse durant la chasse, l'attestation prévue selon l'alinéa 3 ne peut être délivrée.
 
-<sup>6</sup> Le remboursement prévu pour un chamois adulte pesant moins de 16 kilogrammes est réglé selon l'article 21 al. 3 OCha.
+<sup>6</sup> Le remboursement prévu pour un chamois adulte pesant moins de 16 kilogrammes est réglé selon l'article 21 al. 3 OCha[^3-3].
 
 <sup>7</sup> En cas de tir par erreur, aucun remboursement n'est dû au ou à la titulaire du permis.
 
+[^3-1]: RSF [922.1](https://bdlf.fr.ch/data/922.1/fr)
+[^3-2]: RSF [922.1](https://bdlf.fr.ch/data/922.1/fr)
+[^3-3]: RSF [922.11](https://bdlf.fr.ch/data/922.11/fr)
+
 #### Art. 4
 
-**Période de chasse et participation (art. 59 et 60 OCha)**
+**Période de chasse et participation (art. 59 et 60 OCha[^4-1])**
 
-<sup>1</sup> La chasse du chamois est autorisée du 16 au 28 septembre 2024 ainsi que durant trois samedis supplémentaires (14 septembre, 5 octobre et 12 octobre 2024) (art. 59 OCha).
+<sup>1</sup> La chasse du chamois est autorisée du 22 septembre au 4 octobre 2025 ainsi que durant deux samedis supplémentaires (20 septembre et 11 octobre 2025) (art. 59 OCha[^4-2]).
 
-<sup>2</sup> Le Service des forêts et de la nature (ci-après: le Service) désigne, par tirage au sort, les chasseurs et chasseuses autorisés à participer à la chasse du chamois (permis A). La procédure de désignation des chasseurs et chasseuses autorisés à participer à la chasse spéciale selon l'article 60 OCha s'applique.
+<sup>2</sup> Le Service des forêts et de la nature (ci-après: le Service) désigne, par tirage au sort, les chasseurs et chasseuses autorisés à participer à la chasse du chamois (permis A). La procédure de désignation des chasseurs et chasseuses autorisés à participer à la chasse spéciale selon l'article 60 OCha[^4-3] s'applique.
 
-<sup>3</sup> La période de chasse spéciale du chamois et la procédure de désignation des participants sont définies à l'article 60 OCha.
+<sup>3</sup> La période de chasse spéciale du chamois et la procédure de désignation des participants sont définies à l'article 60 OCha[^4-4].
 
-<sup>4</sup> Un échange de bracelets est possible uniquement entre chasseurs et chasseuses qui ont été tirés au sort. Celui-là doit être communiqué au Service, via la formule disponible en ligne, au plus tard jusqu'au 20 août 2024.
+<sup>4</sup> Un échange de bracelets est possible uniquement entre chasseurs et chasseuses qui ont été tirés au sort. Celui-là doit être communiqué au Service, via la formule disponible en ligne, au plus tard jusqu'au 20 août 2025.
 
-<sup>5</sup> Si un chasseur ou une chasseuse a effectué, durant deux années consécutives un tir par erreur, il ou elle ne pourra plus pratiquer la chasse du chamois durant les trois saisons de chasse qui suivent le dernier tir par erreur.
+<sup>5</sup> Si un chasseur ou une chasseuse commet un tir par erreur, il ou elle ne pourra plus pratiquer la chasse du chamois durant les deux saisons de chasse qui suivent l'incident. Cette restriction ne s'applique pas en cas de confusion entre un éterle et un animal âgé de deux ans et demi, sauf en présence de récidive l'année suivante.
+
+[^4-1]: RSF [922.11](https://bdlf.fr.ch/data/922.11/fr)
+[^4-2]: RSF [922.11](https://bdlf.fr.ch/data/922.11/fr)
+[^4-3]: RSF [922.11](https://bdlf.fr.ch/data/922.11/fr)
+[^4-4]: RSF [922.11](https://bdlf.fr.ch/data/922.11/fr)
 
 #### Art. 5
 
 **Quotas de tirs**
 
-<sup>1</sup> Les quotas de tirs sont fixés par unités de gestion (ci-après: UdG, art. 62 OCha).
+<sup>1</sup> Les quotas de tirs sont fixés par unités de gestion (ci-après: UdG, art. 62 OCha[^5-1]).
 
 <sup>2</sup> Dans l'UdG 1, les contingents sont les suivants:
 
-- a) territoires ouverts à la chasse: 69 individus, soit 20 boucs, 26 chèvres et 23 jeunes (cabris et éterles);
+- a) territoires ouverts à la chasse: 75 individus, soit 22 boucs, 28 chèvres et 25 jeunes (cabris et éterles);
 - b) réserve cantonale des Raveires (chasse spéciale): 9 individus, soit 3 boucs, 3 chèvres et 3 jeunes (cabris et éterles);
 - c) réserve cantonale des Dents-Vertes (chasse spéciale): 9 individus, soit 3 boucs, 3 chèvres et 3 jeunes (cabris et éterles);
 - d) réserve cantonale du Breccaschlund (chasse spéciale): 5 individus, soit 1 bouc, 2 chèvres et 2 jeunes (cabris et éterles).
 
 <sup>3</sup> Dans l'UdG 2, les contingents sont les suivants:
 
-- a) territoires ouverts à la chasse: 66 individus, soit 20 boucs, 24 chèvres et 22 jeunes (cabris et éterles);
+- a) territoires ouverts à la chasse: 72 individus, soit 20 boucs, 27 chèvres et 25 jeunes (cabris et éterles);
 - b) réserve cantonale de la Dent-du-Chamois (chasse spéciale): 9 individus, soit 3 boucs, 3 chèvres et 3 jeunes (cabris et éterles).
 
 <sup>4</sup> Dans l'UdG 3, les contingents sont les suivants:
@@ -117,29 +134,35 @@ Adopte ce qui suit:
 
 <sup>5</sup> Dans l'UdG 4, la chasse du chamois n'est pas autorisée.
 
-<sup>6</sup> Dans l'UdG 5, les contingents sont les suivants:
-
-- a) Surpierre: 3 individus, soit 1 bouc, 1 chèvre et 1 jeune (cabri ou éterle).
+<sup>6</sup> Dans l'UdG 5, la chasse du chamois n'est pas autorisée.
 
 <sup>7</sup> Dans l'UdG 6, les contingents sont les suivants:
 
-- a) réserve cantonale de la Petite-Sarine: 11 individus, soit 3 boucs, 5 chèvres et 3 jeunes (cabris et éterles).
+- a) réserve cantonale de la Petite-Sarine: 11 individus, soit 4 boucs, 4 chèvres et 3 jeunes (cabris et éterles).
 
 <sup>8</sup> Dans les UdG 1, 2 et 3, seuls les secteurs de montagne sont ouverts à la chasse du chamois.
 
+[^5-1]: RSF [922.11](https://bdlf.fr.ch/data/922.11/fr)
+
 #### Art. 6
 
-**Postes de contrôle et horaires (art. 77 OCha)**
+**Postes de contrôle et horaires (art. 77 OCha[^6-1])**
 
 <sup>1</sup> Les postes de contrôle ainsi que les horaires applicables pour la présentation des chamois abattus sont les suivants:
 
 - a) Friesmattli, Zollhaus: selon entente avec le ou la garde-faune;
-- b) Saussivue, dépôt des cantonniers, Gruyères: le 14 septembre 2024, de 20 à 21 heures, ainsi que du 16 au 21 septembre 2024, de 13 à 14 heures et de 20 à 21 heures;
-- c) Sâles, dépôt des cantonniers: les 14, 16 et 17 septembre 2024, de 20 à 21 heures.
+- b) Saussivue, dépôt des cantonniers, Gruyères: le 20 septembre 2025, de 20 à 21 heures, ainsi que du 22 au 27 septembre 2025, de 13 à 14 heures et de 20 à 21 heures;
+- c) Sâles, dépôt des cantonniers: les 22, 23 et 24 septembre 2025, de 20 à 21 heures.
 
 <sup>2</sup> Les chasseurs et chasseuses qui ont bénéficié du contrôle du ou de la garde-faune sur le terrain de chasse ne doivent pas présenter l'animal aux postes de contrôle mentionnés à l'alinéa 1.
 
+[^6-1]: RSF [922.11](https://bdlf.fr.ch/data/922.11/fr)
+
 ## 3 Chasse du chevreuil (art. 61 OCha)
+
+[^6-2]
+
+[^6-2]: RSF [922.11](https://bdlf.fr.ch/data/922.11/fr)
 
 #### Art. 7
 
@@ -158,46 +181,54 @@ Adopte ce qui suit:
 
 **Période de chasse**
 
-<sup>1</sup> La chasse du chevreuil est autorisée du 16 septembre au 12 octobre 2024.
+<sup>1</sup> La chasse du chevreuil est autorisée du 22 septembre au 18 octobre 2025.
 
 #### Art. 9
 
 **Organisation par secteur**
 
-<sup>1</sup> Les chevreuils ne peuvent être abattus qu'en dehors des territoires de montagne définis à l'article 55 OCha.
+<sup>1</sup> Les chevreuils ne peuvent être abattus qu'en dehors des territoires de montagne définis à l'article 55 OCha[^9-1].
 
-<sup>2</sup> Un seul chevreuil par chasseur ou chasseuse peut être abattu dans l'ensemble des secteurs de faune 0502, 0504, 0701, 0704, 0705, 0706, 0801, 0802, 1005 et 1503.
+<sup>2</sup> Un seul chevreuil par chasseur ou chasseuse peut être abattu dans l'ensemble des secteurs de faune 0202, 0502, 0504, 0701, 0704, 0705, 0706, 0801, 0802, 1005 et 1503.
 
 <sup>3</sup> Pour les chasseurs et chasseuses au bénéfice de quatre marques de contrôle, le quatrième chevreuil doit être tiré dans les secteurs de faune 0103, 0104, 0402, 0404, 0406, 1107, 1108, 1305, 1401, 1403, 1404, 1406, 1601, 1602, 1603, 1604, 1605 ou 1606.
 
+[^9-1]: RSF [922.11](https://bdlf.fr.ch/data/922.11/fr)
+
 ## 4 Chasse du cerf (art. 62 OCha)
+
+[^9-2]
+
+[^9-2]: RSF [922.11](https://bdlf.fr.ch/data/922.11/fr)
 
 #### Art. 10
 
 **Période de chasse**
 
-<sup>1</sup> La chasse du cerf est autorisée du 14 au 26 octobre et du 2 au 16 novembre 2024 dans les UdG 1, 2 et 3.
+<sup>1</sup> La chasse du cerf est autorisée du 20 au 31 octobre et du 15 au 29 novembre 2025 dans les UdG 1, 2 et 3.
 
-<sup>2</sup> Du 14 au 19 octobre 2024, seules les catégories de sexe et classe d'âge suivants sont ouverts à la chasse: biches, bichettes et faons.
+<sup>2</sup> Du 20 au 25 octobre 2025, seules les catégories de sexe et classe d'âge suivantes sont ouvertes à la chasse: biches, bichettes et faons.
 
-<sup>3</sup> Dans le cas où un chasseur ou une chasseuse prélève un cerf coiffé après avoir prélevé, durant la première semaine de chasse, un faon, il ou elle devra s'acquitter uniquement de la moitié des montants supplémentaires prévus à l'article 62 OCha.
+<sup>3</sup> Dans le cas où un chasseur ou une chasseuse prélève un cerf coiffé après avoir prélevé, durant la première semaine de chasse, un faon, il ou elle devra s'acquitter uniquement de la moitié des montants supplémentaires prévus à l'article 62 OCha[^10-1].
 
-<sup>4</sup> Le Service peut prolonger la période de chasse du 18 au 30 novembre 2024, si le contingent de chasse n'est pas atteint.
+<sup>4</sup> Le Service peut prolonger la période de chasse du 1<sup>er</sup> au 15 décembre 2025, si le contingent de chasse n'est pas atteint.
+
+[^10-1]: RSF [922.11](https://bdlf.fr.ch/data/922.11/fr)
 
 #### Art. 11
 
-**Contingents de chasse**
+**Contingent de chasse**
 
-<sup>1</sup> Le contingent pour l'exercice de la chasse 2024 est de 220 individus, soit:
+<sup>1</sup> Le contingent pour l'exercice de la chasse 2025 est de 220 individus, soit:
 
-- a) 30 mâles coiffés;
+- a) 35 mâles coiffés;
 - b) 35 daguets;
 - c) 80 biches et bichettes;
-- d) 75 faons.
+- d) 70 faons.
 
 #### Art. 12
 
-**Postes de contrôle et horaires (art. 77 OCha)**
+**Postes de contrôle et horaires (art. 77 OCha[^12-1])**
 
 <sup>1</sup> Les postes de contrôle ainsi que les horaires applicables pour la présentation des cerfs abattus sont les suivants:
 
@@ -205,17 +236,25 @@ Adopte ce qui suit:
 - b) Saussivue, dépôt des cantonniers, Gruyères: selon entente avec le ou la garde-faune;
 - c) Sâles, dépôt des cantonniers: selon entente avec le ou la garde-faune.
 
+[^12-1]: RSF [922.11](https://bdlf.fr.ch/data/922.11/fr)
+
 ## 5 Chasse du sanglier (art. 43 et 64 à 66 OCha)
+
+[^12-2]
+
+[^12-2]: RSF [922.11](https://bdlf.fr.ch/data/922.11/fr)
 
 #### Art. 13
 
 **Chasse du sanglier dans les réserves cantonales de la rive sud du lac de Neuchâtel**
 
-<sup>1</sup> Dans les zones protégées pour les animaux sauvages selon l'ordonnance concernant la protection des mammifères, des oiseaux sauvages et de leurs biotopes (OProt), les coupes de végétation dépassant la surface maximale d'agrainage autorisée de 25 m² sont interdites, sous réserve de conditions plus strictes fixées lors de l'attribution du mirador par le ou la garde-faune de la région ou par le surveillant ou la surveillante de la réserve naturelle.
+<sup>1</sup> Dans les zones protégées pour les animaux sauvages selon l'ordonnance concernant la protection des mammifères, des oiseaux sauvages et de leurs biotopes (OProt)[^13-1], les coupes de végétation dépassant la surface maximale d'agrainage autorisée de 25 m² sont interdites, sous réserve de conditions plus strictes fixées lors de l'attribution du mirador par le ou la garde-faune de la région ou par le surveillant ou la surveillante de la réserve naturelle.
 
 <sup>2</sup> Les surfaces d'agrainage et les miradors doivent être nettoyés à la fin de la saison de chasse.
 
-<sup>3</sup> Dans les cas mentionnés aux alinéas 1 et 2, le chasseur ou la chasseuse dont le nom est indiqué sur le mirador peut être tenu-e pour responsable et privé-e de la possibilité de participer à cette chasse.
+<sup>3</sup> Dans les cas mentionnés aux alinéas 1 et 2, le chasseur ou la chasseuse dont le nom est indiqué sur le mirador peut être tenu‑e pour responsable et privé‑e de la possibilité de participer à cette chasse.
+
+[^13-1]: RSF [922.13](https://bdlf.fr.ch/data/922.13/fr)
 
 #### Art. 14
 
@@ -228,11 +267,17 @@ Adopte ce qui suit:
 
 #### Art. 15
 
-**Chiens de plus de 45 centimètres (art. 43 al. 5 OCha)**
+**Chiens de plus de 45 centimètres (art. 43 al. 5 OCha[^15-1])**
 
 <sup>1</sup> Les chiens de plus de 45 centimètres au garrot sont autorisés à chasser le sanglier en battue dans les secteurs de faune 0104, 0105, 0106, 1101, 1106, 1107, 1108, 1109, 1401, 1402, 1403, 1404, 1405, 1406, 1301, 1302, 1303, 1304, 1305 et 1306. Aucune limitation de taille ne s'applique aux chiens créancés pour la chasse du sanglier.
 
+[^15-1]: RSF [922.11](https://bdlf.fr.ch/data/922.11/fr)
+
 ## 6 Circulation sur le territoire de chasse (art. 27 OCha)
+
+[^15-2]
+
+[^15-2]: RSF [922.11](https://bdlf.fr.ch/data/922.11/fr)
 
 #### Art. 16
 
@@ -244,63 +289,79 @@ Adopte ce qui suit:
 
 **Déplacements en dehors de la période de chasse**
 
-<sup>1</sup> Les chasseurs et chasseuses sont autorisés à se rendre, par les voies habituelles, dans les territoires de montagne, avec l'arme non chargée, la veille d'un jour de chasse (chamois et/ou cerf), pour se rendre au chalet où ils logent. Le lendemain du jour de chasse, le retour est autorisé aux mêmes conditions.
+<sup>1</sup> Les chasseurs et chasseuses sont autorisés à se rendre, par les voies habituelles dans les territoires de montagne, avec l'arme non chargée, au chalet où ils logent, les jours suivants:
 
-<sup>2</sup> Pour le surplus, la législation fédérale sur les armes est réservée.
+- a) pour la chasse du chamois:
+  - 1\. 19 et 21 septembre;
+- b) pour la chasse du cerf:
+  - 1\. 19 et 26 octobre;
+  - 2\. 14, 16, 21, 23 et 28 novembre.
+
+<sup>2</sup> Le lendemain du jour de chasse, bien que celui-ci soit fermé à la chasse, le retour depuis le chalet où les chasseurs logent est permis uniquement par les voies habituelles dans les territoires de montagne, avec l'arme non chargée.
+
+<sup>3</sup> Pour le surplus, la législation fédérale sur les armes s'applique.
 
 ## 7 Tirs de régulation dans les zones protégées (art. 3 OTir)
 
+[^17-1]
+
+[^17-1]: RSF [922.15](https://bdlf.fr.ch/data/922.15/fr)
+
 #### Art. 18
 
-**District franc Hochmatt-Motélon (art. A1-1 OProt)**
+**District franc Hochmatt–Motélon (art. A1-1 OProt[^18-1])**
 
-<sup>1</sup> Dans cette réserve, seuls les tirs de régulation du cerf sont admis, ceci tous les jours ouverts à la chasse, du 14 au 26 octobre et du 2 au 16 novembre 2024. Le Service peut prolonger la période du 18 au 30 novembre 2024, si le contingent de chasse n'est pas atteint.
+<sup>1</sup> Dans cette réserve, seuls les tirs de régulation du cerf sont admis, ceci tous les jours ouverts à la chasse, du 20 au 31 octobre et du 15 au 29 novembre 2025. Le Service peut prolonger la période du 1<sup>er</sup> au 15 décembre 2025, si le contingent de chasse n'est pas atteint.
 
-<sup>2</sup> Le nombre de cerfs qui peuvent être prélevés est limité à 20 individus. Pour les classes d'âge se référer au répondeur téléphonique de la chasse.
+<sup>2</sup> Le nombre de cerfs qui peuvent être prélevés est limité à 20 individus. Pour les classes d'âge, se référer au répondeur téléphonique de la chasse.
+
+<sup>3</sup> Le tir des coiffés est interdit.
+
+[^18-1]: RSF [922.13](https://bdlf.fr.ch/data/922.13/fr)
 
 #### Art. 19
 
-**Réserve du Fanel-Chablais-de-Cudrefin-Pointe-de-Marin (art. A1-3 OProt)**
+**Réserve du Fanel–Chablais-de-Cudrefin–Pointe-de-Marin (art. A1-3 OProt[^19-1])**
 
-<sup>1</sup> Dans cette réserve, seuls les tirs de régulation du sanglier sont admis, ceci tous les jours ouverts à la chasse, du 1<sup>er</sup> au 15 octobre et du 1<sup>er</sup> novembre au 31 décembre 2024.
+<sup>1</sup> Dans cette réserve, seuls les tirs de régulation du sanglier sont admis, ceci tous les jours ouverts à la chasse, du 1<sup>er</sup> au 15 octobre et du 1<sup>er</sup> novembre au 31 décembre 2025.
 
 <sup>2</sup> Le nombre de sangliers qui peuvent être prélevés est limité à 15 individus.
+
+[^19-1]: RSF [922.13](https://bdlf.fr.ch/data/922.13/fr)
 
 #### Art. 20
 
-**Réserve de Chevroux-Portalban (art. A1-4 OProt)**
+**Réserve du Chablais (lac de Morat) (art. A1-6 OProt[^20-1])**
 
-<sup>1</sup> Dans cette réserve, seuls les tirs de régulation du sanglier sont admis, ceci tous les jours ouverts à la chasse, du 1<sup>er</sup> au 15 octobre et du 1<sup>er</sup> novembre au 31 décembre 2024.
-
-<sup>2</sup> Le nombre de sangliers qui peuvent être prélevés est limité à 15 individus.
-
-#### Art. 21
-
-**Réserve du Chablais (lac de Morat) (art. A1-6 OProt)**
-
-<sup>1</sup> Dans cette réserve, seuls les tirs de régulation du sanglier sont admis, ceci tous les jours ouverts à la chasse, du 1<sup>er</sup> au 15 octobre et du 1<sup>er</sup> novembre au 31 décembre 2024.
+<sup>1</sup> Dans cette réserve, seuls les tirs de régulation du sanglier sont admis, ceci tous les jours ouverts à la chasse, du 1<sup>er</sup> au 15 octobre et du 1<sup>er</sup> novembre au 31 décembre 2025.
 
 <sup>2</sup> Le nombre de sangliers qui peuvent être prélevés est limité à 15 individus.
+
+[^20-1]: RSF [922.13](https://bdlf.fr.ch/data/922.13/fr)
 
 ## 8 Répondeur téléphonique
 
-#### Art. 22
+#### Art. 21
 
 **Informations**
 
 <sup>1</sup> Les chasseurs et chasseuses doivent s'informer sur le déroulement de la chasse et sur l'état des contingents via un répondeur téléphonique par SMS. Pour ce faire, ils envoient le texte suivant au numéro T +41 79 512 96 21:
 
-- a) pour la chasse du chamois: PERMIS A
-- b) pour la chasse du chevreuil: PERMIS B
-- c) pour la chasse du cerf: PERMIS C
-- d) pour la chasse du sanglier: PERMIS D
-- e) pour la chasse du gibier à plumes: PERMIS E
-- f) pour la chasse sur le lac de Neuchâtel: PERMIS F
-- g) pour la chasse sur le lac de Morat: PERMIS G
-- h) pour la chasse du cormoran: PERMIS H
+- a) pour la chasse du chamois: — PERMIS A
+- b) pour la chasse du chevreuil: — PERMIS B
+- c) pour la chasse du cerf: — PERMIS C
+- d) pour la chasse du sanglier: — PERMIS D
+- e) pour la chasse du gibier à plumes: — PERMIS E
+- f) pour la chasse sur le lac de Neuchâtel: — PERMIS F
+- g) pour la chasse sur le lac de Morat: — PERMIS G
+- h) pour la chasse du cormoran: — PERMIS H
 
-**Approbation**
+**Approbation fédérale**
 
-Les articles 4 al. 1; 8 al. 1; 10 al. 1 et 4; et 18 à 21 de la présente ordonnance ont été approuvés par le Département fédéral de l'environnement, des transports, de l'énergie et de la communication le 23 juillet 2024 ([ROF INFO 2024-31](https://bdlf.fr.ch/app/fr/change_documents/5272)).
+—
 
-2024\_048
+En date du 29 juillet 2025, le Département fédéral de l'environnement, des transports, de l'énergie et de la communication (DETEC) a approuvé les articles 4 al. 1, 8 al. 1, 10 al. 1 et 4 de la présente ordonnance (INFO 2025-32).
+
+Cette approbation revêtant un caractère constitutif, ces articles ne peuvent entrer en vigueur qu'au moment de la publication de son obtention, soit le 8 août 2025. Dans sa décision d'approbation, le DETEC a considéré que les articles 18 à 20 du présent acte n'étaient pas soumis à l'approbation fédérale. Ces dispositions sont donc entrées en vigueur au 1er juillet 2025, comme le reste des dispositions non-soumises à l'approbation fédérale.
+
+2025\_051

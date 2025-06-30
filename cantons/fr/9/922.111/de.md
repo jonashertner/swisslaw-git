@@ -1,27 +1,27 @@
 ---
 canton: FR
 number: "922.111"
-title: Verordnung ILFD über die Planung der Jagd für die Saison 2024
-short: PlanV 2024
+title: Verordnung ILFD über die Planung der Jagd für die Saison 2025
+short: PlanV 2025
 language: de
-version: 2024-07-01
-valid_until: 2025-06-30
-version_adopted: 2024-06-20
+version: 2025-07-01
+valid_until: 2026-06-30
+version_adopted: 2025-06-30
 adopted: 2026-07-01
 in_force: 2026-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/922.111"
-pdf: "https://bdlf.fr.ch/api/de/versions/8039/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8240/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung ILFD über die Planung der Jagd für die Saison 2024
+# Verordnung ILFD über die Planung der Jagd für die Saison 2025
 
-Planung der Jagdsaison 2024 – V
+Planung der Jagdsaison 2025 – V
 
-(PlanV 2024)
+(PlanV 2025)
 
-vom 20.06.2024 (Fassung in Kraft getreten am 01.07.2024)
+vom 30.06.2025 (Fassung in Kraft getreten am 01.07.2025)
 
 Die Direktion der Institutionen und der Land- und Forstwirtschaft
 
@@ -37,7 +37,7 @@ gestützt auf die Jagdverordnung vom 6. Juni 2016 (JaV);
 
 gestützt auf die Verordnung vom 21. Juni 2016 über den Schutz wildlebender Säugetiere und Vögel und ihrer Lebensräume (SchutzV);
 
-gestützt auf die Verordnung über Regulierungsabschüsse in den Schutzgebieten vom 5. März 2024 (RegAbschV)
+gestützt auf die Verordnung vom 5. März 2024 über Regulierungsabschüsse in den Schutzgebieten (RegAbschV)
 
 gestützt auf das von den Kantonen Freiburg, Waadt und Neuenburg abgeschlossene Konkordat vom 22. Mai 1978 über die Ausübung und die Beaufsichtigung der Jagd;
 
@@ -47,99 +47,122 @@ beschliesst:
 
 #### Art. 1
 
-<sup>1</sup> Diese Verordnung hat zum Zweck, Kontingente für bestimmte Tierarten festzulegen und besondere Vorschriften für die Jagdsaison 2024 zu erlassen, einschliesslich der Regulierungsabschüsse, die in Anwendung der Verordnung über Regulierungsabschüsse in Schutzgebieten (RegAbschV) durchgeführt werden.
+<sup>1</sup> Diese Verordnung hat zum Zweck, Kontingente für bestimmte Tierarten festzulegen und besondere Vorschriften für die Jagdsaison 2025 zu erlassen, einschliesslich der Regulierungsabschüsse, die in Anwendung der Verordnung über Regulierungsabschüsse in Schutzgebieten (RegAbschV)[^1-1] durchgeführt werden.
+
+[^1-1]: SGF [922.15](https://bdlf.fr.ch/data/922.15/de)
 
 ## 2 Jagd auf die Gämse und Spezialjagd auf die Gämse (Art. 19, 55, 56, 59 und 60 JaV)
+
+[^1-2]
+
+[^1-2]: SGF [922.11](https://bdlf.fr.ch/data/922.11/de)
 
 #### Art. 2
 
 **Patentpreis**
 
-<sup>1</sup> Für das Patent A, das die Inhaberin oder den Inhaber berechtigt, die Gämse im Gebirge nach Artikel 55 JaV zu jagen, und für das Patent für die Spezialjagd auf die Gämse, das die Inhaberin oder den Inhaber berechtigt, an Spezialjagden auf die Gämse teilzunehmen, gelten folgende Preise:
+<sup>1</sup> Für das Patent A, das die Inhaberin oder den Inhaber berechtigt, die Gämse im Gebirge nach Artikel 55 JaV[^2-1] zu jagen, und für das Patent für die Spezialjagd auf die Gämse, das die Inhaberin oder den Inhaber berechtigt, an Spezialjagden auf die Gämse teilzunehmen, gelten folgende Preise:
 
-- a) 1 Bock: — Fr. 250.–
-- b) 1 Geiss: — Fr. 250.–
-- c) 1 Jährling/Kitz: — Fr. 150.–
+- a) 1 Bock: — Fr. 250
+- b) 1 Geiss: — Fr. 250
+- c) 1 Jährling/Kitz: — Fr. 150
+
+[^2-1]: SGF [922.11](https://bdlf.fr.ch/data/922.11/de)
 
 #### Art. 3
 
 **Rückzahlung**
 
-<sup>1</sup> Wurde anstelle eines Jährlings ein Gämskitz erlegt, so zahlt das Oberamt, welches das Patent ausgestellt hat, nach Vorweisung einer Bescheinigung der Wildhüterin-Fischereiaufseherin oder des Wildhüters-Fischereiaufsehers einen Betrag von 70 Franken zurück. Wurde der Preiszuschlag nach Artikel 22 Abs. 3 JaG angewendet, so beträgt die Rückerstattung 210 Franken.
+<sup>1</sup> Wurde anstelle eines Jährlings ein Gämskitz erlegt, so zahlt das Oberamt, welches das Patent ausgestellt hat, nach Vorweisung einer Bescheinigung der Wildhüterin-Fischereiaufseherin oder des Wildhüters-Fischereiaufsehers einen Betrag von 70 Franken zurück. Wurde der Preiszuschlag nach Artikel 22 Abs. 3 JaG[^3-1] angewendet, so beträgt die Rückerstattung 210 Franken.
 
-<sup>2</sup> Wurde anstelle eines Bocks oder einer Geiss ein Gämskitz erlegt, so zahlt das Oberamt, welches das Patent ausgestellt hat, nach Vorweisung einer Bescheinigung der Wildhüterin-Fischereiaufseherin oder des Wildhüters-Fischereiaufsehers einen Betrag von 170 Franken zurück. Wurde der Preiszuschlag nach Artikel 22 Abs. 3 JaG angewendet, so beträgt die Rückerstattung 510 Franken.
+<sup>2</sup> Wurde anstelle eines Bocks oder einer Geiss ein Gämskitz erlegt, so zahlt das Oberamt, welches das Patent ausgestellt hat, nach Vorweisung einer Bescheinigung der Wildhüterin-Fischereiaufseherin oder des Wildhüters-Fischereiaufsehers einen Betrag von 170 Franken zurück. Wurde der Preiszuschlag nach Artikel 22 Abs. 3 JaG[^3-2] angewendet, so beträgt die Rückerstattung 510 Franken.
 
 <sup>3</sup> Hat die Jägerin oder der Jäger am Ende der Jagdsaison keine Gämse erlegt, so zahlt das Oberamt, welches das Patent ausgestellt hat, nach Vorweisung einer Bescheinigung der Wildhüterin-Fischereiaufseherin oder des Wildhüters-Fischereiaufsehers die Hälfte des für das Patent entrichteten Preises zurück.
 
-<sup>4</sup> Das Gesuch um die Rückerstattung nach den Absätzen 1–3 muss bis 1. März 2025 beim Oberamt eingereicht werden, welches das Patent ausgestellt hat.
+<sup>4</sup> Das Gesuch um die Rückerstattung nach den Absätzen 1–3 muss bis 15. März 2026 beim Oberamt eingereicht werden, welches das Patent ausgestellt hat.
 
 <sup>5</sup> Wurde ein Tier während der Jagd nachweislich von einer Jägerin oder einem Jäger verletzt, so kann die Bescheinigung nach Absatz 3 nicht ausgestellt werden.
 
-<sup>6</sup> Die Rückzahlung für eine erlegte erwachsene Gämse, die weniger als 16 kg wiegt, wird in Artikel 21 Abs. 3 JaV geregelt.
+<sup>6</sup> Die Rückzahlung für eine erlegte erwachsene Gämse, die weniger als 16 kg wiegt, wird in Artikel 21 Abs. 3 JaV[^3-3] geregelt.
 
 <sup>7</sup> Im Falle eines irrtümlichen Abschusses wird der Inhaberin oder dem Inhaber des Jagdpatents keine Rückzahlung geschuldet.
 
+[^3-1]: SGF [922.1](https://bdlf.fr.ch/data/922.1/de)
+[^3-2]: SGF [922.1](https://bdlf.fr.ch/data/922.1/de)
+[^3-3]: SGF [922.11](https://bdlf.fr.ch/data/922.11/de)
+
 #### Art. 4
 
-**Jagdsaison und Teilnahme (Art. 59 und 60 JaV)**
+**Jagdsaison und Teilnahme (Art. 59 und 60 JaV[^4-1])**
 
-<sup>1</sup> Die Jagd auf die Gämse ist vom 16. bis 28. September 2024 sowie an drei zusätzlichen Samstagen (14. September, 5. Oktober und 12. Oktober 2024) erlaubt (Art. 59 JaV).
+<sup>1</sup> Die Jagd auf die Gämse ist vom 22. September bis 4. Oktober 2025 und an zwei zusätzlichen Samstagen (20. September und 11. Oktober 2025) erlaubt (Art. 59 JaV[^4-2]).
 
-<sup>2</sup> Das Amt für Wald und Natur (das Amt) bestimmt durch Auslosung die Jägerinnen und Jäger, die an der Jagd auf die Gämse teilnehmen dürfen (Patent A). Das Verfahren zur Bestimmung der Jägerinnen und Jäger, die an der Spezialjagd nach Artikel 60 JaV teilnehmen dürfen, wird angewendet.
+<sup>2</sup> Das Amt für Wald und Natur (das Amt) bestimmt durch Auslosung die Jägerinnen und Jäger, die an der Jagd auf die Gämse teilnehmen dürfen (Patent A). Das Verfahren zur Bestimmung der Jägerinnen und Jäger, die an der Spezialjagd nach Artikel 60 JaV[^4-3] teilnehmen dürfen, wird angewendet.
 
-<sup>3</sup> Der Zeitraum für die Spezialjagd auf die Gämse und das Bezeichnungsverfahren der Teilnehmerinnen und Teilnehmer werden in Artikel 60 JaV festgelegt.
+<sup>3</sup> Der Zeitraum für die Spezialjagd auf die Gämse und das Bezeichnungsverfahren der Teilnehmerinnen und Teilnehmer werden in Artikel 60 JaV[^4-4] festgelegt.
 
-<sup>4</sup> Ein Austausch von Kontrollmarken kann nur zwischen Jägerinnen und Jägern erfolgen, die ausgelost wurden. Dieser Austausch muss dem Amt mit dem Online-Formular bis spätestens am 20. August 2024 mitgeteilt werden.
+<sup>4</sup> Ein Austausch von Kontrollmarken kann nur zwischen Jägerinnen und Jägern erfolgen, die ausgelost wurden. Dieser Austausch muss dem Amt mit dem Online-Formular bis spätestens am 20. August 2025 mitgeteilt werden.
 
-<sup>5</sup> Falls eine Jägerin oder ein Jäger in zwei aufeinanderfolgenden Jahren einen Fehlabschuss getätigt hat, so darf sie oder er in den drei Jagdsaisons nach dem letzten Fehlabschuss keine Gämsjagd mehr ausüben.
+<sup>5</sup> Falls eine Jägerin oder ein Jäger einen Fehlabschuss tätigt, so darf sie oder er in den beiden auf den Vorfall folgenden Jagdsaisons keine Gämsjagd mehr ausüben. Diese Einschränkung gilt nicht, wenn es sich um eine Verwechslung zwischen einem Jährling und einem zweieinhalbjährigen Tier handelt, es sei denn, es kommt im folgenden Jahr zu einer erneuten Verfehlung.
+
+[^4-1]: SGF [922.11](https://bdlf.fr.ch/data/922.11/de)
+[^4-2]: SGF [922.11](https://bdlf.fr.ch/data/922.11/de)
+[^4-3]: SGF [922.11](https://bdlf.fr.ch/data/922.11/de)
+[^4-4]: SGF [922.11](https://bdlf.fr.ch/data/922.11/de)
 
 #### Art. 5
 
 **Abschussquoten**
 
-<sup>1</sup> Die Abschussquoten werden nach Bewirtschaftungsräumen (BWR, Art. 62 JaV) festgelegt.
+<sup>1</sup> Die Abschussquoten werden nach Bewirtschaftungsräumen (BWR, Art. 62 JaV[^5-1]) festgelegt.
 
 <sup>2</sup> Im BWR 1 gelten folgende Kontingente:
 
-- a) In den für die Jagd offenen Gebieten: 69 Tiere, d. h. 20 Böcke, 26 Geissen und 23 Jungtiere (Kitze und Jährlinge);
-- b) Kantonales Wildschutzgebiet Raveires (Spezialjagd): 9 Tiere, d. h. 3 Böcke, 3 Geissen und 3 Jungtiere (Kitze und Jährlinge);
-- c) Kantonales Wildschutzgebiet Dents-Vertes (Spezialjagd): 9 Tiere, d. h. 3 Böcke, 3 Geissen und 3 Jungtiere (Kitze und Jährlinge);
-- d) Kantonales Wildschutzgebiet Breccaschlund (Spezialjagd): 5 Tiere, d. h. 1 Bock, 2 Geissen und 2 Jungtiere (Kitze und Jährlinge).
+- a) in den für die Jagd offenen Gebieten: 75 Tiere, d. h. 22 Böcke, 28 Geissen und 25 Jungtiere (Kitze und Jährlinge);
+- b) kantonales Wildschutzgebiet Raveires (Spezialjagd): 9 Tiere, d. h. 3 Böcke, 3 Geissen und 3 Jungtiere (Kitze und Jährlinge);
+- c) kantonales Wildschutzgebiet Dents-Vertes (Spezialjagd): 9 Tiere, d. h. 3 Böcke, 3 Geissen und 3 Jungtiere (Kitze und Jährlinge);
+- d) kantonales Wildschutzgebiet Breccaschlund (Spezialjagd): 5 Tiere, d. h. 1 Bock, 2 Geissen und 2 Jungtiere (Kitze und Jährlinge).
 
 <sup>3</sup> Im BWR 2 gelten folgende Kontingente:
 
-- a) In den für die Jagd offenen Gebieten: 66 Tiere, d. h. 20 Böcke, 24 Geissen und 22 Jungtiere (Kitze und Jährlinge);
-- b) Kantonales Wildschutzgebiet Dent-du-Chamois (Spezialjagd): 9 Tiere, d. h. 3 Böcke, 3 Geissen und 3 Jungtiere (Kitze und Jährlinge).
+- a) in den für die Jagd offenen Gebieten: 72 Tiere, d. h. 20 Böcke, 27 Geissen und 25 Jungtiere (Kitze und Jährlinge);
+- b) kantonales Wildschutzgebiet Dent-du-Chamois (Spezialjagd): 9 Tiere, d. h. 3 Böcke, 3 Geissen und 3 Jungtiere (Kitze und Jährlinge).
 
 <sup>4</sup> Im BWR 3 gelten folgende Kontingente:
 
-- a) In den für die Jagd offenen Gebieten: 33 Tiere, d. h. 9 Böcke, 13 Geissen und 11 Jungtiere (Kitze und Jährlinge).
+- a) in den für die Jagd offenen Gebieten: 33 Tiere, d. h. 9 Böcke, 13 Geissen und 11 Jungtiere (Kitze und Jährlinge).
 
 <sup>5</sup> Im BWR 4 ist die Jagd auf die Gämse nicht gestattet.
 
-<sup>6</sup> Im BWR 5 gelten folgende Kontingente:
-
-- a) Surpierre: 3 Tiere, d. h. 1 Bock, 1 Geiss und 1 Jungtier (Kitze und Jährlinge).
+<sup>6</sup> Im BWR 5 ist die Jagd auf die Gämse nicht gestattet.
 
 <sup>7</sup> Im BWR 6 gelten folgende Kontingente:
 
-- a) Kantonales Wildschutzgebiet Petite-Sarine: 11 Tiere, d. h. 3 Böcke, 5 Geissen und 3 Jungtiere (Kitze und Jährlinge).
+- a) kantonales Wildschutzgebiet Petite-Sarine: 11 Tiere, d. h. 4 Böcke, 4 Geissen und 3 Jungtiere (Kitze und Jährlinge).
 
 <sup>8</sup> In den BWR 1, 2 und 3 sind nur die Gebirgssektoren (Gebirgsregionen) offen für die Jagd auf die Gämse.
 
+[^5-1]: SGF [922.11](https://bdlf.fr.ch/data/922.11/de)
+
 #### Art. 6
 
-**Kontrollposten und Zeiten (Art. 77 JaV)**
+**Kontrollposten und Zeiten (Art. 77 JaV[^6-1])**
 
 <sup>1</sup> Die erlegten Gämsen können an folgenden Kontrollposten, Daten und Uhrzeiten gezeigt werden:
 
 - a) Friesmattli, Zollhaus: in Absprache mit der Wildhüterin-Fischereiaufseherin oder dem Wildhüter-Fischereiaufseher;
-- b) Saussivue, Depot Strassenwärter, Gruyères: am 14. September 2024 von 20.00 bis 21.00 Uhr, und vom 16. bis 21. September 2024 von 13.00 bis 14.00 Uhr und von 20.00 bis 21.00 Uhr;
-- c) Sâles, Depot Strassenwärter: am 14., 16. und 17. September 2024 von 20.00 bis 21.00 Uhr.
+- b) Saussivue, Depot Strassenwärter, Gruyères: am 20. September 2025 von 20.00 bis 21.00 Uhr, und vom 22. bis 27. September 2025 von 13.00 bis 14.00 Uhr und von 20.00 bis 21.00 Uhr;
+- c) Sâles, Depot Strassenwärter: am 22., 23. und 24. September 2025 von 20.00 bis 21.00 Uhr.
 
 <sup>2</sup> Die Jägerinnen und Jäger, die bereits im Jagdgebiet von einer Wildhüterin-Fischereiaufseherin oder einem Wildhüter-Fischereiaufseher kontrolliert wurden, müssen das Tier nicht auf einem Kontrollposten nach Absatz 1 zeigen.
 
+[^6-1]: SGF [922.11](https://bdlf.fr.ch/data/922.11/de)
+
 ## 3 Jagd auf das Reh (Art. 61 JaV)
+
+[^6-2]
+
+[^6-2]: SGF [922.11](https://bdlf.fr.ch/data/922.11/de)
 
 #### Art. 7
 
@@ -158,46 +181,54 @@ beschliesst:
 
 **Jagdsaison**
 
-<sup>1</sup> Die Jagd auf das Reh ist vom 16. September bis 12. Oktober 2024 erlaubt.
+<sup>1</sup> Die Jagd auf das Reh ist vom 22. September bis 18. Oktober 2025 erlaubt.
 
 #### Art. 9
 
 **Organisation pro Sektor**
 
-<sup>1</sup> Die Rehe dürfen nur ausserhalb der Gebirgsregionen gemäss Artikel 55 JaV erlegt werden.
+<sup>1</sup> Die Rehe dürfen nur ausserhalb der Gebirgsregionen gemäss Artikel 55 JaV[^9-1] erlegt werden.
 
-<sup>2</sup> Pro Jägerin oder Jäger darf in den gesamten Wildsektoren 0502, 0504, 0701, 0704, 0705, 0706, 0801, 0802, 1005 und 1503 nur ein Reh erlegt werden.
+<sup>2</sup> Pro Jägerin oder Jäger darf in den gesamten Wildsektoren 0202, 0502, 0504, 0701, 0704, 0705, 0706, 0801, 0802, 1005 und 1503 nur ein Reh erlegt werden.
 
 <sup>3</sup> Jägerinnen und Jäger, die über vier Kontrollmarken verfügen, müssen das vierte Reh in den Wildsektoren 0103, 0104, 0402, 0404, 0406, 1107, 1108, 1305, 1401, 1403, 1404, 1406, 1601, 1602, 1603, 1604, 1605 oder 1606 erlegen.
 
+[^9-1]: SGF [922.11](https://bdlf.fr.ch/data/922.11/de)
+
 ## 4 Jagd auf den Hirsch (Art. 62 JaV)
+
+[^9-2]
+
+[^9-2]: SGF [922.11](https://bdlf.fr.ch/data/922.11/de)
 
 #### Art. 10
 
 **Jagdsaison**
 
-<sup>1</sup> Die Hirschjagd ist erlaubt vom 14. bis 26. Oktober 2024 und vom 2. bis 16. November 2024 in den BWR 1, 2 und 3.
+<sup>1</sup> Die Hirschjagd ist erlaubt vom 20. bis 31. Oktober und vom 15. bis 29. November 2025 in den BWR 1, 2 und 3.
 
-<sup>2</sup> Vom 14. bis 19. Oktober 2024 dürfen nur folgende Geschlechts- und Alterskategorien gejagt werden: Hirschkühe, Schmaltiere und Kälber.
+<sup>2</sup> Vom 20. bis 25. Oktober 2025 dürfen nur folgende Geschlechts- und Alterskategorien gejagt werden: Hirschkühe, Schmaltiere und Kälber.
 
-<sup>3</sup> Falls eine Jägerin oder ein Jäger einen Hirschstier erlegt, nachdem sie oder er in der ersten Jagdwoche ein Kalb erlegt hat, muss sie oder er nur die Hälfte der Zusatztaxe nach Artikel 62 JaV entrichten.
+<sup>3</sup> Falls eine Jägerin oder ein Jäger einen Hirschstier erlegt, nachdem sie oder er in der ersten Jagdwoche ein Kalb erlegt hat, muss sie oder er nur die Hälfte der Zusatztaxe nach Artikel 62 JaV[^10-1] entrichten.
 
-<sup>4</sup> Das Amt kann die Jagdsaison um die Dauer vom 18. bis 30. November 2024 verlängern, sollte das Kontingent nicht erreicht worden sein.
+<sup>4</sup> Das Amt kann die Jagdsaison um den Zeitraum vom 1. bis 15. Dezember 2025 verlängern, sollte das Kontingent nicht erreicht worden sein.
+
+[^10-1]: SGF [922.11](https://bdlf.fr.ch/data/922.11/de)
 
 #### Art. 11
 
 **Jagdkontingente**
 
-<sup>1</sup> Das Kontingent für die Ausübung der Jagd 2024 beträgt 220 Tiere, nämlich:
+<sup>1</sup> Das Kontingent für die Ausübung der Jagd 2025 beträgt 220 Tiere, nämlich:
 
-- a) 30 Hirschstiere;
+- a) 35 Hirschstiere;
 - b) 35 Spiesser;
 - c) 80 Hirschkühe und Schmaltiere;
-- d) 75 Kälber.
+- d) 70 Kälber.
 
 #### Art. 12
 
-**Kontrollposten und Zeiten (Art. 77 JaV)**
+**Kontrollposten und Zeiten (Art. 77 JaV[^12-1])**
 
 <sup>1</sup> Die erlegten Hirsche können an folgenden Kontrollposten und Zeiten gezeigt werden:
 
@@ -205,17 +236,25 @@ beschliesst:
 - b) Saussivue, Depot Strassenwärter, Gruyères: gemäss Absprache mit der Wildhüterin-Fischereiaufseherin oder dem Wildhüter-Fischereiaufseher;
 - c) Sâles, Depot Strassenwärter: gemäss Absprache mit der Wildhüterin-Fischereiaufseherin oder dem Wildhüter-Fischereiaufseher.
 
+[^12-1]: SGF [922.11](https://bdlf.fr.ch/data/922.11/de)
+
 ## 5 Jagd auf das Wildschwein (Art. 43 und 64–66 JaV)
+
+[^12-2]
+
+[^12-2]: SGF [922.11](https://bdlf.fr.ch/data/922.11/de)
 
 #### Art. 13
 
 **Jagd auf das Wildschwein in den kantonalen Schutzgebieten am Südufer des Neuenburgersees**
 
-<sup>1</sup> In den Wildschutzgebieten nach der Verordnung über den Schutz wildlebender Säugetiere und Vögel und ihrer Lebensräume (SchutzV) sind Mähungen der Vegetation, welche die für die Kirrung maximal zulässige Fläche von 25 m² übersteigen, verboten; vorbehalten sind strengere Vorschriften, die bei der Zuteilung der Hochsitze durch die Wildhüterin-Fischereiaufseherin oder den Wildhüter-Fischereiaufseher oder die Aufseherin oder den Aufseher in den Naturschutzgebieten festgelegt werden.
+<sup>1</sup> In den Wildschutzgebieten nach der Verordnung über den Schutz wildlebender Säugetiere und Vögel und ihrer Lebensräume (SchutzV)[^13-1] sind Mähungen der Vegetation, welche die für die Kirrung maximal zulässige Fläche von 25 m² übersteigen, verboten; vorbehalten sind strengere Vorschriften, die bei der Zuteilung der Hochsitze durch die Wildhüterin-Fischereiaufseherin oder den Wildhüter-Fischereiaufseher oder die Aufseherin oder den Aufseher in den Naturschutzgebieten festgelegt werden.
 
 <sup>2</sup> Die Kirrungsflächen und die Hochsitze müssen am Ende der Jagdsaison gereinigt werden.
 
 <sup>3</sup> Bei Widerhandlungen gegen die Absätze 1 und 2 kann die Jägerin oder der Jäger, deren oder dessen Name auf dem Hochsitz steht, haftbar gemacht und von der Teilnahme an dieser Jagd ausgeschlossen werden.
+
+[^13-1]: SGF [922.13](https://bdlf.fr.ch/data/922.13/de)
 
 #### Art. 14
 
@@ -228,11 +267,17 @@ beschliesst:
 
 #### Art. 15
 
-**Hunde über 45 cm (Art. 43 Abs. 5 JaV)**
+**Hunde über 45 cm (Art. 43 Abs. 5 JaV[^15-1])**
 
-<sup>1</sup> Für die Treibjagd auf das Wildschwein sind Hunde mit einer Risthöhe von über 45 cm in folgenden Wildsektoren erlaubt: 0104, 0105, 0106, 1101, 1106, 1107, 1108, 1109, 1401, 1402, 1403, 1404, 1405, 1406, 1301, 1302, 1303, 1304, 1305 und 1306. Für auf Wildschweine abgerichtete Hunde für die Wildschweinjagd gelten keine Grössenbeschränkungen.
+<sup>1</sup> Für die Treibjagd auf das Wildschwein sind Hunde mit einer Risthöhe von über 45 cm in folgenden Wildsektoren erlaubt: 0104, 0105, 0106, 1101, 1106, 1107, 1108, 1109, 1401, 1402, 1403, 1404, 1405, 1406, 1301, 1302, 1303, 1304, 1305 und 1306. Für abgerichtete Hunde für die Wildschweinjagd gelten keine Grössenbeschränkungen.
+
+[^15-1]: SGF [922.11](https://bdlf.fr.ch/data/922.11/de)
 
 ## 6 Verkehr im Jagdgebiet (Art. 27 JaV)
+
+[^15-2]
+
+[^15-2]: SGF [922.11](https://bdlf.fr.ch/data/922.11/de)
 
 #### Art. 16
 
@@ -244,63 +289,83 @@ beschliesst:
 
 **Anfahrt ausserhalb der Jagdsaison**
 
-<sup>1</sup> Die Jägerin oder der Jäger darf sich mit ungeladener Waffe am Vortag eines Jagdtags (Gämse und/oder Hirsch) auf den üblichen Wegen ins Gebirge begeben, um zur Alphütte zu fahren, in der sie oder er vorübergehend wohnt. Am Tag nach dem Jagdtag ist die Rückkehr unter den gleichen Bedingungen gestattet.
+<sup>1</sup> Jägerinnen und Jäger dürfen an folgenden Tagen mit ungeladener Waffe auf den üblichen Wegen in den Gebirgsregionen zu ihrer Unterkunft gelangen:
 
-<sup>2</sup> Im Übrigen bleibt die Bundesgesetzgebung über Waffen vorbehalten.
+- a) Jagd auf die Gämse:
+  - 1\. 19. und 21. September;
+- b) Jagd auf den Hirsch:
+  - 1\. 19. und 26. Oktober;
+  - 2\. 14., 16., 21., 23. und 28. November.
+
+<sup>2</sup> Am Tag nach der Jagd, auch wenn keine Jagd stattfindet, ist die Rückkehr von der Hütte, in der die Jäger untergebracht sind, nur auf den üblichen Wegen in den Gebirgsregionen mit ungeladener Waffe gestattet.
+
+<sup>3</sup> Im Übrigen bleibt die Bundesgesetzgebung über Waffen vorbehalten.
 
 ## 7 Regulierungsabschüsse in den Schutzgebieten (Art. 3 RegAbschV)
 
+[^17-1]
+
+[^17-1]: SGF [922.15](https://bdlf.fr.ch/data/922.15/de)
+
 #### Art. 18
 
-**Eidgenössisches Jagdbanngebiet Hochmatt–Motélon (Art. A1-1 SchutzV)**
+**Eidgenössisches Jagdbanngebiet Hochmatt–Motélon (Art. A1-1 SchutzV[^18-1])**
 
-<sup>1</sup> In diesem Reservat sind nur Abschüsse zur Hirschregulation erlaubt, und zwar an allen Tagen, die für die Jagd geöffnet sind, vom 14. bis 26. Oktober und vom 2. bis 16. November 2024. Das Amt kann die Periode vom 18. bis 30. November 2024 verlängern, wenn das Jagdkontingent nicht ausgeschöpft wird.
+<sup>1</sup> In diesem Reservat sind nur Abschüsse zur Hirschregulation erlaubt, und zwar an allen Tagen, die für die Jagd geöffnet sind, vom 20. bis 31. Oktober und vom 15. bis 29. November 2025. Das Amt kann die Abschüsse zusätzlich vom 1. bis 15. Dezember 2025 gestatten, wenn das Jagdkontingent nicht ausgeschöpft wird.
 
 <sup>2</sup> Die Anzahl der Hirsche, die entnommen werden dürfen, ist auf 20 Tiere begrenzt. Die Altersklassen werden über den Telefonbeantworter Jagd angegeben.
 
+<sup>3</sup> Der Abschuss von Hirschstieren ist verboten.
+
+[^18-1]: SGF [922.13](https://bdlf.fr.ch/data/922.13/de)
+
 #### Art. 19
 
-**Reservat Fanel–Chablais-de-Cudrefin–Pointe-de-Marin (Art. A1-3 SchutzV)**
+**Reservat Fanel–Chablais-de-Cudrefin–Pointe-de-Marin (Art. A1-3 SchutzV[^19-1])**
 
-<sup>1</sup> In diesem Reservat sind nur Abschüsse zur Wildschweinregulation erlaubt, und zwar an allen Tagen, die für die Jagd geöffnet sind, vom 1. bis 15. Oktober und vom 1. November bis 31. Dezember 2024.
+<sup>1</sup> In diesem Reservat sind nur Abschüsse zur Wildschweinregulation erlaubt, und zwar an allen Tagen, die für die Jagd geöffnet sind, vom 1. bis 15. Oktober und vom 1. November bis 31. Dezember 2025.
 
 <sup>2</sup> Die Anzahl der Wildschweine, die entnommen werden dürfen, ist auf 15 Tiere begrenzt.
+
+[^19-1]: SGF [922.13](https://bdlf.fr.ch/data/922.13/de)
 
 #### Art. 20
 
-**Reservat Chevroux–Portalban (Art. A1-4 SchutzV)**
+**Reservat Chablais (Murtensee) (Art. A1-6 SchutzV[^20-1])**
 
-<sup>1</sup> In diesem Reservat sind nur Abschüsse zur Wildschweinregulation erlaubt, und zwar an allen Tagen, die für die Jagd geöffnet sind, vom 1. bis 15. Oktober und vom 1. November bis 31. Dezember 2024.
-
-<sup>2</sup> Die Anzahl der Wildschweine, die entnommen werden dürfen, ist auf 15 Tiere begrenzt.
-
-#### Art. 21
-
-**Reservat Chablais (Murtensee) (Art. A1-6 SchutzV)**
-
-<sup>1</sup> In diesem Reservat sind nur Abschüsse zur Wildschweinregulation erlaubt, und zwar an allen Tagen, die für die Jagd geöffnet sind, vom 1. bis 15. Oktober und vom 1. November bis 31. Dezember 2024.
+<sup>1</sup> In diesem Reservat sind nur Abschüsse zur Wildschweinregulation erlaubt, und zwar an allen Tagen, die für die Jagd geöffnet sind, vom 1. bis 15. Oktober und vom 1. November bis 31. Dezember 2025.
 
 <sup>2</sup> Die Anzahl der Wildschweine, die entnommen werden dürfen, ist auf 15 Tiere begrenzt.
+
+[^20-1]: SGF [922.13](https://bdlf.fr.ch/data/922.13/de)
 
 ## 8 Telefonbeantworter SMS
 
-#### Art. 22
+#### Art. 21
 
 **Informationen**
 
 <sup>1</sup> Die Jägerinnen und Jäger müssen sich über den Ablauf der Jagd und den Stand des Abschussplans über einen Telefonbeantworter per SMS informieren. Dazu muss der folgende Text an die Nummer T +41 79 512 96 21 gesendet werden:
 
-- a) für die Jagd auf die Gämse: PATENT A
-- b) für die Jagd auf das Reh: PATENT B
-- c) für die Jagd auf den Hirsch: PATENT C
-- d) für die Jagd auf das Wildschwein: PATENT D
-- e) für die Jagd auf Federwild: PATENT E
-- f) für die Jagd auf dem Neuenburgersee: PATENT F
-- g) für die Jagd auf dem Murtensee: PATENT G
-- h) für die Jagd auf den Kormoran: PATENT H
+- a) für die Jagd auf die Gämse: — PATENT A
+- b) für die Jagd auf das Reh: — PATENT B
+- c) für die Jagd auf den Hirsch: — PATENT C
+- d) für die Jagd auf das Wildschwein: — PATENT D
+- e) für die Jagd auf Federwild: — PATENT E
+- f) für die Jagd auf dem Neuenburgersee: — PATENT F
+- g) für die Jagd auf dem Murtensee: — PATENT G
+- h) für die Jagd auf den Kormoran: — PATENT H
 
-**Genehmigung**
+[Signaturen]
 
-Die Artikel 4 Absatz 1, 8 Absatz 1, 10 Absätze 1 und 4 sowie 18 bis 21 dieser Verordnung wurden vom Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation am 23. Juli 2024 genehmigt ([ASF INFO 2024-31](https://bdlf.fr.ch/app/de/change_documents/5272)).
+**Genehmigung des Bundes**
 
-2024\_048
+—
+
+Am 29. Juli 2025 hat das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) Artikeln 4 Abs. 1, 8 Abs. 1, 10 Abs. 1 und 4 dieses Erlasses genehmigt (INFO 2025-32).
+
+Da diese Genehmigung konstitutiven Charakter hat, können die Artikel 4 Abs. 1, 8 Abs. 1, 10 Abs. 1 und 4 dieses Erlasses erst mit der Veröffentlichung der Genehmigung, d. h. am 8. August 2025, in Kraft treten.
+
+In seinem Genehmigungsbeschluss hat das UVEK festgestellt, dass die Artikel 18-20 dieses Gesetzes nicht der Genehmigung durch den Bund bedürfen. Diese Bestimmungen sind daher wie die übrigen nicht der Genehmigung durch den Bund unterliegenden Bestimmungen am 1. Juli 2025 in Kraft getreten.
+
+2025\_051
