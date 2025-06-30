@@ -4,13 +4,12 @@ number: "173.100"
 title: Organisationsreglement der Walliser Gerichte
 short: ORG
 language: de
-version: 2017-08-01
-corrected: 2025-01-28
-version_adopted: 2017-07-05
+version: 2025-07-01
+version_adopted: 2025-03-26
 adopted: 2010-12-21
 in_force: 2011-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/173.100"
-pdf: "https://lex.vs.ch/api/de/versions/2320/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3502/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2320/pdf_file"
 
 (ORG)
 
-vom 21.12.2010 (Stand 01.08.2017)
+vom 21.12.2010 (Stand 01.07.2025)
 
 Das Kantonsgericht
 
@@ -29,7 +28,7 @@ eingesehen das Gesetz über die Rechtspflege vom 11. Februar 2009 (RPflG);
 
 eingesehen die kantonale Ausführungsgesetzgebung zum eidgenössischen Sozialversicherungsrecht sowie die kantonale Gesetzgebung in diesem Bereich;
 
-eingesehen das Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege vom 6. Oktober 1976;
+eingesehen das Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege vom 6. Oktober 1976 (VVRG);
 
 beschliesst:
 
@@ -140,7 +139,7 @@ beschliesst:
 
 **Finanzkompetenzen**
 
-<sup>1</sup> Der Richter und bei Kollegialgerichten der Präsident, verfügt über die Kredite, soweit sie die gerichtlichen Verfahren wie die Regelung der Kosten, Prozesskosten und Honorare für Rechtsbeistand und amtliche Verteidigung betreffen.
+<sup>1</sup> Der Richter und bei Kollegialgerichten der Präsident, verfügt über die Kredite, soweit sie die gerichtlichen Verfahren wie die Regelung der Kosten der Beweisführung, Prozesskosten sowie Honorare für Rechtsbeistand und amtliche Verteidigung betreffen.
 
 ## 2 Erstinstanzliche Gerichte
 
@@ -226,13 +225,13 @@ beschliesst:
 
 <sup>2</sup> Die Einladung erfolgt schriftlich unter Angabe der Traktanden und nach Möglichkeit mit einem erläuternden Bericht und einem Antrag. Über nicht traktandierte Geschäfte kann nur abgestimmt werden, wenn alle Mitglieder des Gesamtgerichts anwesend und damit einverstanden sind. Jedes Mitglied kann drei bis fünf Tage vor der nächsten Sitzung dem Präsidium zu traktandierende Gegenstände vorschlagen.
 
-<sup>3</sup> Das Gesamtgericht ist beschlussfähig, wenn mindestens sechs Mitglieder anwesend sind. Die Beschlüsse werden in der Regel mit offener Stimmabgabe und mit der absoluten Mehrheit gefasst. Wenn mindestens drei Mitglieder es verlangen, erfolgt die Abstimmung geheim. Der Vorsitzende stimmt ebenfalls und hat bei Stimmengleichheit den Stichentscheid.
+<sup>3</sup> Das Gesamtgericht ist beschlussfähig, wenn mindestens acht Mitglieder anwesend sind. Die Beschlüsse werden in der Regel mit offener Stimmabgabe und mit der absoluten Mehrheit gefasst. Leere Stimmzettel und Enthaltungen werden bei der Berechnung der Mehrheit nicht berücksichtigt. Wenn mindestens drei Mitglieder es verlangen, erfolgt die Abstimmung geheim. Der Vorsitzende stimmt ebenfalls und hat bei Stimmengleichheit den Stichentscheid.
 
 <sup>4</sup> Bei Wahlen findet, sofern niemand im ersten Umgang das absolute Mehr erreicht hat, ein zweiter Wahlgang mit relativem Mehr statt.
 
-<sup>5</sup> Zirkulationsbeschlüsse sind zulässig. Sie bedürfen der Zustimmung von mindestens zwei Dritteln der Mitglieder des Gesamtgerichts.
+<sup>5</sup> Zirkulationsbeschlüsse sind zulässig.
 
-<sup>6</sup> Über die Sitzungen wird ein Protokoll geführt, das in der Regel allen Mitgliedern innert Wochenfrist zugestellt und allenfalls in der folgenden Sitzung bereinigt wird.
+<sup>6</sup> Über die Sitzungen wird ein Protokoll geführt, das in der folgenden Sitzung genehmigt wird.
 
 ### 3.2 Rechtsprechung
 
@@ -246,7 +245,7 @@ beschliesst:
 
 <sup>3</sup> Es teilt die Ersatzrichter den einzelnen Abteilungen gleichmässig zu. Dies erfolgt jährlich bei der Bestellung der Abteilungen und Delegationen.
 
-<sup>4</sup> Jede Abteilung umfasst drei Richter. Die Arbeitsweise ist durch Artikel 9 ff. dieses Reglements geregelt.
+<sup>4</sup> Jede Abteilung umfasst mindestens drei Richter. Die Arbeitsweise ist durch Artikel 9 dieses Reglements geregelt.
 
 <sup>5</sup> Kompetenzkonflikte unter den Abteilungen und Differenzen in der Rechtsprechung zwischen einzelnen Abteilungen werden durch die betroffenen Abteilungen in einer gemeinsamen Beratung unter Leitung des amtsältesten Richters entschieden. Dieser bestimmt das rapportierende Mitglied. Findet sich keine Mehrheit, entscheidet das Gesamtgericht.
 
@@ -357,7 +356,7 @@ beschliesst:
 
 <sup>2</sup> Bei Fragen von allgemeiner Bedeutung holt das Kantonsgericht die Meinung der Konferenz der erstinstanzlichen richterlichen Behörden ein und berücksichtigt sie bei seinen Entscheiden angemessen.
 
-<sup>3</sup> Interveniert die Justizkommission bei einem Richter oder einem erstinstanzlichen Gericht, orientiert der betroffene Richter oder der Doyen unverzüglich das Kantonsgericht.
+<sup>3</sup> Interveniert die Justizkommission oder der Justizrat bei einem Richter oder einem erstinstanzlichen Gericht, orientiert der betroffene Richter oder der Doyen unverzüglich das Kantonsgericht.
 
 #### Art. 29
 
@@ -384,18 +383,7 @@ beschliesst:
 
 #### Art. 31
 
-**Publikation von Urteilen**
-
-<sup>1</sup> Urteile erster und zweiter Instanz werden aufgrund ihrer Besonderheit, Neuartigkeit oder des öffentlichen Interesses wegen publiziert.
-
-<sup>2</sup> Die Verwaltungskommission bestimmt den Anteil der zu publizierenden Urteile.
-
-<sup>3</sup> Der Abteilungspräsident oder der Einzelrichter bestimmt das Publikationsmittel:
-
-- a) Gerichtsinterne Verbreitung;
-- b) Internet;
-- c) Anbieter von juristischen Datenbanken;
-- d) Zeitschrift für Walliser Rechtsprechung.
+**…**
 
 #### Art. 32
 
@@ -427,7 +415,7 @@ beschliesst:
 
 **Jahreskonferenz der Walliser Gerichtsbehörden**
 
-<sup>1</sup> Die Jahreskonferenz der Walliser Gerichtsbehörden umfasst sämtliche Richter, Richter-Stellvertreter und Ersatzmitglieder.
+<sup>1</sup> Die Jahreskonferenz der Walliser Gerichtsbehörden umfasst sämtliche Richter, kantonale Ersatzrichter- und Beisitzer.
 
 <sup>2</sup> Sie wird durch das Kantonsgericht einberufen, findet im Monat Dezember statt und dient der Weiterbildung. Im Übrigen bietet sie allen Gerichtsbehörden des Kantons die Möglichkeit, gemeinsam die Probleme der Justiz zu besprechen.
 
@@ -459,7 +447,8 @@ beschliesst:
 
 - a) ihren Zugehörigkeit zu Führungs- und Aufsichtsgremien von Körperschaften, Unternehmen, Anstalten oder Stiftungen des privaten und des öffentlichen Rechts;
 - b) die Funktionen, die sie in Kommissionen oder anderen Organen der Eidgenossenschaft, eines Kantons, einer Gemeinde oder im Rahmen einer interkantonalen oder interkommunalen Zusammenarbeit ausüben;
-- c) jegliche Nebenbeschäftigungen.
+- c) jegliche Nebenbeschäftigungen;
+- d) die Parteizugehörigkeit.
 
 <sup>2</sup> Allfällige Änderungen sind bei deren Eintreten bekannt zu geben.
 
@@ -471,7 +460,7 @@ beschliesst:
 
 **Bewilligungspflicht**
 
-<sup>1</sup> Die Übernahme eines Mandates als Schiedsrichter, Gutachter oder Rechtsberater sowie die Übernahme einer anderen aufwändigen oder Erwerbszwecken dienenden Nebenbeschäftigung durch einen Magistraten der Justiz bedarf einer Bewilligung.
+<sup>1</sup> Die Übernahme eines Mandates als Schiedsrichter, Gutachter oder Rechtsberater sowie die Übernahme einer anderen aufwändigen oder Erwerbszwecken dienenden Nebenbeschäftigung durch einen Magistraten der Justiz bedarf einer Bewilligung der Verwaltungskommission.
 
 <sup>2</sup> Die Bewilligung kann erteilt werden, wenn:
 
@@ -503,7 +492,7 @@ beschliesst:
 
 **Bewilligungsverfahren**
 
-<sup>1</sup> Das Gesuch wird beim Präsidium des Kantonsgerichts eingereicht. Es enthält alle notwendigen Angaben über Art und Gegenstand der Nebenbeschäftigung sowie über den Zeitaufwand, der voraussichtlich damit verbunden sein wird.
+<sup>1</sup> Das Gesuch wird bei der Verwaltungskommission des Kantonsgerichts eingereicht. Es enthält alle notwendigen Angaben über Art und Gegenstand der Nebenbeschäftigung sowie über den Zeitaufwand, der voraussichtlich damit verbunden sein wird.
 
 #### Art. 42
 
@@ -511,9 +500,9 @@ beschliesst:
 
 <sup>1</sup> Der Generalsekretär führt eine Kontrolle der erteilten Bewilligungen.
 
-<sup>2</sup> Das Präsidium des Kantonsgerichts kann vom Magistraten jederzeit Auskunft über die zeitliche Beanspruchung einer Nebenbeschäftigung verlangen.
+<sup>2</sup> Die Verwaltungskommission des Kantonsgerichts kann vom Magistraten jederzeit Auskunft über die zeitliche Beanspruchung einer Nebenbeschäftigung verlangen.
 
-<sup>3</sup> Die Niederlegung und die Beendigung eines Mandats wird dem Präsidium mitgeteilt; gleichzeitig ist ihm die Höhe der Einkünfte bekannt zu geben.
+<sup>3</sup> Die Niederlegung und die Beendigung eines Mandats wird der Verwaltungskommission mitgeteilt; gleichzeitig ist ihm die Höhe der Einkünfte bekannt zu geben.
 
 #### Art. 43
 
@@ -549,7 +538,7 @@ beschliesst:
 
 - a) aufgrund der laufend eingehenden Akten;
 - b) mittels jährlicher Inspektionen;
-- c) les inspections et contrôles particuliers commandés par les circonstances.
+- c) durch Untersuchungen und Kontrollen, welche die Umstände im Einzelfall nötig machen.
 
 <sup>2</sup> Der Doyen meldet Gegebenheiten, die den ordentlichen Gang der Geschäfte an einem erstinstanzlichen Gericht beeinträchtigen können, umgehend dem Kantonsgericht.
 
@@ -575,7 +564,7 @@ beschliesst:
 
 <sup>1</sup> Das Kantonsgericht übt gemäss Gesetz die Aufsicht über die unteren Gerichtsbehörden aus.
 
-<sup>2</sup> Gegen das administrative Personal, die Gerichtsschreiber und die Richter, die ihre Dienst- oder Amtspflichten verletzen, kann ein Disziplinarverfahren eröffnet werden.
+<sup>2</sup> Gegen das administrative Personal und die Gerichtsschreiber, die ihre Dienst- oder Amtspflichten verletzen, kann ein Disziplinarverfahren eröffnet werden.
 
 ### 7.2 Disziplinarverfahren
 
@@ -595,23 +584,11 @@ beschliesst:
 
 #### Art. 50
 
-**Magistraten**
-
-<sup>1</sup> Bei disziplinarischen Verfehlungen von Richtern sowie deren Stellvertretern, die vom Kantonsgericht ernannt wurden, wird das Disziplinarverfahren durch Beschluss des Kantonsgerichts eingeleitet.
-
-<sup>2</sup> Die Eröffnung ist den betroffenen Personen schriftlich mitzuteilen.
-
-<sup>3</sup> Die beschuldigte Person ist zu den vorgebrachten Anschuldigungen anzuhören und es ist ihr das rechtliche Gehör zu gewähren.
-
-<sup>4</sup> Die Untersuchung und das Aussprechen von Disziplinarmassnahmen erfolgen durch die Verwaltungskommission.
+**…**
 
 #### Art. 51
 
-**Massnahmen**
-
-<sup>1</sup> Das Kantonsgericht hält sich bei der Aussprechung der Disziplinarmassnahmen an die im RPflG vorgesehenen Sanktionsarten und berücksichtigt dabei die dort angeführten Grundsätze.
-
-<sup>2</sup> Dasselbe gilt für die Verjährung. Falls der Tatbestand jedoch Gegenstand eines Strafverfahrens bildet, beginnt die Verjährungsfrist erst mit dem Eintritt der Rechtskraft des Strafurteils.
+**…**
 
 ### 7.3 Sozialbestimmungen
 
@@ -623,9 +600,9 @@ beschliesst:
 
 #### Art. 53
 
-**Sozialberatung**
+**Büro für Mitarbeiterunterstützung und Konfliktmanagement**
 
-<sup>1</sup> Die Sozialberatung der kantonalen Verwaltung steht auch den Magistraten sowie den Gerichtsschreibern und dem administrativen Personal zur Verfügung.
+<sup>1</sup> Das Büro für Mitarbeiterunterstützung und Konfliktmanagement der kantonalen Verwaltung steht auch den Magistraten sowie den Gerichtsschreibern und dem administrativen Personal zur Verfügung.
 
 ## 8 Aufhebungen geltenden Rechts und Inkrafttreten
 

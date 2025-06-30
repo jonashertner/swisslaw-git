@@ -4,13 +4,12 @@ number: "173.100"
 title: "Règlement d'organisation des tribunaux valaisans"
 short: ROT
 language: fr
-version: 2017-08-01
-corrected: 2025-01-28
-version_adopted: 2017-07-05
+version: 2025-07-01
+version_adopted: 2025-03-26
 adopted: 2010-12-21
 in_force: 2011-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/173.100"
-pdf: "https://lex.vs.ch/api/fr/versions/2320/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3502/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2320/pdf_file"
 
 (ROT)
 
-du 21.12.2010 (état 01.08.2017)
+du 21.12.2010 (état 01.07.2025)
 
 Le Tribunal cantonal
 
@@ -140,7 +139,7 @@ décide:
 
 **Compétence financière**
 
-<sup>1</sup> Le juge ou le président d'un tribunal collégial dispose des crédits en tant qu'ils concernent les procédures judiciaires, tel le règlement des frais de justice et des frais d'avocats et d'avocats d'office.
+<sup>1</sup> Le juge ou le président d'un tribunal collégial dispose des crédits en tant qu'ils concernent les procédures judiciaires, tel le règlement des frais d’administration des preuves, des frais de justice ainsi que des frais d'avocats et d'avocats d'office.
 
 ## 2 Tribunaux de première instance
 
@@ -226,13 +225,13 @@ décide:
 
 <sup>2</sup> La convocation écrite prévoit l'ordre du jour. Dans la mesure du possible, elle est accompagnée d'un rapport écrit contenant une proposition de décision. Les objets ne figurant pas à l'ordre du jour ne peuvent faire l'objet de décision qu'en présence et avec l'accord de tous les membres de la Cour plénière. Chacun des membres peut, au plus tard entre trois et cinq jours avant la séance, proposer à la présidence des objets à porter à l'ordre du jour.
 
-<sup>3</sup> La Cour plénière peut valablement délibérer dès que six de ses membres sont présents. Les décisions sont prises généralement à main levée et à la majorité absolue. Si au moins trois membres l'exigent, le vote est secret. Le président prend part au vote et a voix déterminante en cas d'égalité.
+<sup>3</sup> La Cour plénière peut valablement délibérer dès que huit de ses membres sont présents. Les décisions sont prises généralement à main levée et à la majorité absolue. Les bulletins blancs et les abstentions ne sont pas pris en compte pour le calcul de la majorité. Si au moins trois membres l'exigent, le vote est secret. Le président prend part au vote et a voix déterminante en cas d'égalité.
 
 <sup>4</sup> Lors de nominations, si aucun candidat n'obtient la majorité absolue au premier tour, un second scrutin a lieu à la majorité relative.
 
-<sup>5</sup> Les décisions peuvent être prises par voie de circulation. Elles nécessitent le consentement d'au moins deux tiers des membres de la Cour plénière.
+<sup>5</sup> Les décisions peuvent être prises par voie de circulation.
 
-<sup>6</sup> Un procès-verbal des séances est tenu, qui est, en règle générale, communiqué à tous les membres dans le délai d'une semaine et dans tous les cas approuvé lors de la séance suivante.
+<sup>6</sup> Un procès-verbal des séances est tenu, qui est approuvé lors de la séance suivante.
 
 ### 3.2 Juridiction
 
@@ -246,7 +245,7 @@ décide:
 
 <sup>3</sup> Le Tribunal cantonal répartit équitablement les juges suppléants entre les sections. Cette répartition intervient chaque année en même temps que la constitution des sections et délégations.
 
-<sup>4</sup> Chaque section est composée de trois juges. Leur fonctionnement est régi par l'article 9 de ce règlement.
+<sup>4</sup> Chaque section est composée d'au moins trois juges. Leur fonctionnement est régi par l'article 9 de ce règlement.
 
 <sup>5</sup> Les conflits de compétence et divergences de jurisprudence entre sections sont tranchés par les sections concernées réunies sous la présidence du juge le plus ancien en fonctions. Si aucune majorité ne se dégage, la Cour plénière tranche.
 
@@ -357,7 +356,7 @@ décide:
 
 <sup>2</sup> Le Tribunal cantonal tient compte de manière appropriée de l'avis de la Conférence des autorités judiciaires de première instance, qu'il consulte sur les questions de portée générale.
 
-<sup>3</sup> En cas d'intervention de la Commission de justice auprès d'un juge ou d'un tribunal de première instance, le juge intéressé ou le doyen en avise sans retard le Tribunal cantonal.
+<sup>3</sup> En cas d'intervention de la Commission de justice ou du Conseil de la magistrature auprès d'un juge ou d'un tribunal de première instance, le juge intéressé ou le doyen en avise sans retard le Tribunal cantonal.
 
 #### Art. 29
 
@@ -384,18 +383,7 @@ décide:
 
 #### Art. 31
 
-**Publication des jugements**
-
-<sup>1</sup> Les jugements de la première et deuxième instance qui présentent un intérêt en raison de leurs particularités, de leurs nouveautés ou de leur intérêt public, sont publiés.
-
-<sup>2</sup> La commission administrative détermine la quantité de jugements à publier.
-
-<sup>3</sup> Le président de la Cour ou le juge unique détermine le moyen par lequel le jugement sera publié:
-
-- a) par la communication interne au tribunal;
-- b) sur l'internet;
-- c) dans une base de données juridiques;
-- d) dans la revue valaisanne de jurisprudence.
+**…**
 
 #### Art. 32
 
@@ -427,7 +415,7 @@ décide:
 
 **Conférence annuelle des autorités judiciaires valaisannes**
 
-<sup>1</sup> La conférence annuelle des autorités judiciaires valaisannes réunit l'ensemble des juges, des juges suppléants ainsi que leurs remplaçants.
+<sup>1</sup> La conférence annuelle des autorités judiciaires valaisannes réunit l'ensemble des juges, des juges cantonaux suppléants ainsi que des juges assesseurs.
 
 <sup>2</sup> Elle est convoquée par le Tribunal cantonal, se tient au mois de décembre et sert de formation continue. Elle offre également à toutes les autorités judiciaires cantonales la possibilité de débattre en commun des questions relatives à la justice.
 
@@ -457,7 +445,8 @@ décide:
 
 - a) leur appartenance aux organes de direction ou de surveillance de corporations, entreprises, établissements ou fondations de droit privé ou de droit public;
 - b) les fonctions qu'ils occupent au sein de commissions ou d'autres organes de la Confédération, d'un canton, d'une commune ou d'une collaboration intercantonale ou intercommunale;
-- c) toutes les activités accessoires.
+- c) toutes les activités accessoires;
+- d) l’appartenance à un parti politique.
 
 <sup>2</sup> Les modifications éventuelles sont annoncées dès qu'elles se produisent.
 
@@ -469,7 +458,7 @@ décide:
 
 **Autorisation obligatoire**
 
-<sup>1</sup> Est soumise à autorisation l'acceptation par un magistrat de la justice d'un mandat d'arbitre, d'expert ou de conseiller juridique, ou d'une autre activité accessoire exigeante en temps ou à but lucratif.
+<sup>1</sup> Est soumise à autorisation de la commission administrative l'acceptation par un magistrat de la justice d'un mandat d'arbitre, d'expert ou de conseiller juridique, ou d'une autre activité accessoire exigeante en temps ou à but lucratif.
 
 <sup>2</sup> L'autorisation ne peut être accordée que si:
 
@@ -501,7 +490,7 @@ décide:
 
 **Procédure d'autorisation**
 
-<sup>1</sup> La demande est adressée à la présidence du Tribunal cantonal. Elle contient toutes les indications nécessaires sur la nature et l'objet de l'activité accessoire envisagée, ainsi que sur le temps probablement nécessaire à son exécution.
+<sup>1</sup> La demande est adressée à la commission administrative. Elle contient toutes les indications nécessaires sur la nature et l'objet de l'activité accessoire envisagée, ainsi que sur le temps probablement nécessaire à son exécution.
 
 #### Art. 42
 
@@ -509,9 +498,9 @@ décide:
 
 <sup>1</sup> Le secrétaire général tient le contrôle des autorisations délivrées.
 
-<sup>2</sup> La présidence du Tribunal cantonal peut en tout temps exiger des magistrats des renseignements sur le temps consacré à une activité accessoire.
+<sup>2</sup> La commission administrative peut en tout temps exiger des magistrats des renseignements sur le temps consacré à une activité accessoire.
 
-<sup>3</sup> La résiliation et la fin d'un mandat doivent être annoncées à la présidence; il y a lieu de lui indiquer, en même temps, le montant des revenus perçus.
+<sup>3</sup> La résiliation et la fin d'un mandat doivent être annoncées à la commission adminstrative; il y a lieu de lui indiquer, en même temps, le montant des revenus perçus.
 
 #### Art. 43
 
@@ -573,7 +562,7 @@ décide:
 
 <sup>1</sup> Le Tribunal cantonal exerce, conformément à la loi, la surveillance des autorités judiciaires subordonnées.
 
-<sup>2</sup> Une procédure disciplinaire peut être ouverte contre le personnel administratif, les greffiers ainsi que les juges qui violent leurs devoirs de fonction.
+<sup>2</sup> Une procédure disciplinaire peut être ouverte contre le personnel administratif et les greffiers qui violent leurs devoirs de fonction.
 
 ### 7.2 Procédure disciplinaire
 
@@ -593,23 +582,11 @@ décide:
 
 #### Art. 50
 
-**Magistrats**
-
-<sup>1</sup> En cas de manquements disciplinaires de juges et de leurs suppléants nommés par le Tribunal cantonal, la procédure est ouverte par décision du Tribunal cantonal.
-
-<sup>2</sup> L'ouverture de la procédure est communiquée par écrit à la personne concernée.
-
-<sup>3</sup> Il est donné connaissance à la personne concernée des griefs portés à son endroit et le droit d'être entendue lui est accordé.
-
-<sup>4</sup> L'instruction et le prononcé de mesures disciplinaires sont du ressort de la commission administrative.
+**…**
 
 #### Art. 51
 
-**Mesures**
-
-<sup>1</sup> Sont applicables aux juges les mesures disciplinaires énumérées dans la LOJ, que le Tribunal cantonal prononce en respectant les dispositions qui y figurent.
-
-<sup>2</sup> Il en va de même pour la prescription. Lorsque l'affaire fait l'objet d'une procédure pénale, le délai de prescription ne commence cependant à courir qu'après l'entrée en force du jugement pénal.
+**…**
 
 ### 7.3 Dispositions sociales
 
@@ -621,9 +598,9 @@ décide:
 
 #### Art. 53
 
-**Consultation sociale**
+**Bureau de soutien et de gestion des conflits**
 
-<sup>1</sup> La consultation sociale de l'administration cantonale est également à la disposition des magistrats, des greffiers et du personnel administratif.
+<sup>1</sup> Le bureau de soutien et de gestion des conflits de l'administration cantonale est également à la disposition des magistrats, des greffiers et du personnel administratif.
 
 ## 8 Abrogation du droit en vigueur et entrée en vigueur
 
