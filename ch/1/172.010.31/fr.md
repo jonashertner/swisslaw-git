@@ -4,11 +4,11 @@ title: "Loi fédérale du 24 mars 1995 sur le statut et les tâches de l'Institu
 short: LIPI
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/5050_5050_5050"
 language: fr
-version: 2017-01-01
+version: 2025-07-01
 adopted: 1995-03-24
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/5050_5050_5050/20170101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-5050_5050_5050-20170101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/5050_5050_5050/20170101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/5050_5050_5050/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-1995-5050_5050_5050-20250701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/5050_5050_5050/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/5050_5050_5050/20170101/fr"
 
 (LIPI)
 
-du 24 mars 1995 (État le 1<sup>er</sup> janvier 2017)
+du 24 mars 1995 (État le 1<sup>er</sup> juillet 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -182,13 +182,22 @@ Les moyens d’exploitation de l’IPI se composent des taxes qu’il perçoit p
 
 **Taxes sur les activités relevant de la souveraineté de l’Etat**
 
-<sup>1</sup> L’IPI perçoit des taxes sur la délivrance et le maintien en vigueur des titres de propriété intellectuelle, la tenue et la mise à disposition des registres, l’octroi d’autorisations et la surveillance des sociétés de gestion collective, et les publications légalement prescrites.
+<sup>1</sup>
 
-<sup>2</sup> …[^13-1]
+L’IPI perçoit des taxes:
+
+- a. sur la délivrance et le maintien en vigueur des titres de propriété intellectuelle;
+- b. sur la tenue et la mise à disposition des registres;
+- c. sur l’octroi d’autorisations à des sociétés de gestion collective et sur leur surveillance;
+- d. sur les publications légalement prescrites, et
+- e. sur d’autres mesures d’exécution prévues par la législation sur la propriété intellectuelle.[^13-1]
+
+<sup>2</sup> …[^13-2]
 
 <sup>3</sup> Le règlement des taxes de l’IPI est soumis à l’approbation du Conseil fédéral.
 
-[^13-1]: Abrogé par le ch. I 1 de la LF du 17 juin 2005 sur le programme d’allégement budgétaire 2004, avec effet au 1<sup>er</sup> janv. 2006 ([RO 2005 5427](https://fedlex.data.admin.ch/eli/oc/2005/740); [FF 2005 693](https://fedlex.data.admin.ch/eli/fga/2005/108)).
+[^13-1]: Nouvelle teneur selon le ch. I 1 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^13-2]: Abrogé par le ch. I 1 de la LF du 17 juin 2005 sur le programme d’allégement budgétaire 2004, avec effet au 1<sup>er</sup> janv. 2006 ([RO 2005 5427](https://fedlex.data.admin.ch/eli/oc/2005/740); [FF 2005 693](https://fedlex.data.admin.ch/eli/fga/2005/108)).
 
 #### Art. 14
 

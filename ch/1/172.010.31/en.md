@@ -4,20 +4,22 @@ title: Federal Act of 24 March 1995 on the Status and Tasks of the Swiss Federal
 short: IPIA
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/5050_5050_5050"
 language: en
-version: 2017-01-01
+version: 2025-07-01
 adopted: 1995-03-24
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/5050_5050_5050/20170101/en/xml/fedlex-data-admin-ch-eli-cc-1995-5050_5050_5050-20170101-en-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/5050_5050_5050/20170101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/5050_5050_5050/20250701/en/xml/fedlex-data-admin-ch-eli-cc-1995-5050_5050_5050-20250701-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/5050_5050_5050/20250701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
 
 # Federal Act on the Status and Tasks of the Swiss Federal Institute of Intellectual Property
 
+English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
+
 (IPIA)
 
-of 24 March 1995 (Status as of 1 January 2017)
+of 24 March 1995 (Status as of 1 July 2025)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -182,13 +184,22 @@ The IPI’s operating funds shall consist of the fees for its sovereign activiti
 
 **Fees for sovereign activities**
 
-<sup>1</sup> The IPI shall charge fees in connection with the granting and maintenance of intellectual property rights, the keeping and publication of registers, the granting of authorisations, and the supervision of collective rights management organisations and legally required publications.
+<sup>1</sup>
 
-<sup>2</sup> …[^13-1]
+The IPI shall charge fees for:
+
+- a. granting and maintaining intellectual property rights;
+- b. keeping and publishing registers;
+- c. granting authorisations to and supervising collective rights management organisations;
+- d. legally required publications; and
+- e. further enforcement measures in accordance with the legislation on intellectual property.[^13-1]
+
+<sup>2</sup> ...[^13-2]
 
 <sup>3</sup> The IPI’s fee regulations are subject to approval by the Federal Council.
 
-[^13-1]: Repealed by No I 1 of the FA of 17 June 2005 on the 2004 Budgetary Relief Programme, with effect from 1 Jan. 2006 ([AS 2005 5427](https://fedlex.data.admin.ch/eli/oc/2005/740); [BBl 2005 759](https://fedlex.data.admin.ch/eli/fga/2005/108)).
+[^13-1]: Amended by No I 1 of the FA of 22 Dec. 2023 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, in force since 1 July 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^13-2]: Repealed by No I 1 of the FA of 17 June 2005 on the 2004 Budgetary Relief Programme, with effect from 1 Jan. 2006 ([AS 2005 5427](https://fedlex.data.admin.ch/eli/oc/2005/740); [BBl 2005 759](https://fedlex.data.admin.ch/eli/fga/2005/108)).
 
 #### Art. 14
 
@@ -223,7 +234,7 @@ The foregoing is without prejudice to federal legislation on:
 - a. value added tax for remuneration under Article 14;
 - b. withholding tax and stamp duties.
 
-## Section 5 Referendum and Commencement****
+## Section 5 Referendum and Commencement
 
 [^sec5-1]
 
@@ -237,7 +248,7 @@ The foregoing is without prejudice to federal legislation on:
 
 #### Art. 19
 
-**…[^19-1]**
+**...[^19-1]**
 
 <sup>1</sup> This Act is subject to an optional referendum.
 
@@ -252,6 +263,6 @@ Annex
 
 ## Amendment of current legislation
 
-…[^annexu1-lvlu1-1]
+...[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: The amendments can be consulted under [AS 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050).

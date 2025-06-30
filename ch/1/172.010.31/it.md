@@ -4,11 +4,11 @@ title: "Legge federale del 24 marzo 1995 sullo statuto e sui compiti dell'Istitu
 short: LIPI
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/5050_5050_5050"
 language: it
-version: 2017-01-01
+version: 2025-07-01
 adopted: 1995-03-24
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/5050_5050_5050/20170101/it/xml/fedlex-data-admin-ch-eli-cc-1995-5050_5050_5050-20170101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/5050_5050_5050/20170101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/5050_5050_5050/20250701/it/xml/fedlex-data-admin-ch-eli-cc-1995-5050_5050_5050-20250701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/5050_5050_5050/20250701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/5050_5050_5050/20170101/it"
 
 (LIPI)
 
-del 24 marzo 1995 (Stato 1° gennaio 2017)
+del 24 marzo 1995 (Stato 1° luglio 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -67,8 +67,8 @@ L’IPI adempie i seguenti compiti:
 
 <sup>4</sup> Esso può avvalersi, dietro compenso, di prestazioni di servizi di altre unità amministrative della Confederazione.
 
-[^2-1]: Nuovo testo giusta il n. II 2 dell’all. alla L del 5 ott. 2001 sul design, in vigore dal 1° lug. 2002 ([RU 2002 1456](https://fedlex.data.admin.ch/eli/oc/2002/226); [FF 2000 2432](https://fedlex.data.admin.ch/eli/fga/2000/557)).
-[^2-2]: Nuovo testo giusta il n. I 1 della LF del 17 giu. 2005 sul programma di sgravio 2004, in vigore dal 1° gen. 2006 ([RU 2005 5427](https://fedlex.data.admin.ch/eli/oc/2005/740); [FF 2005 659](https://fedlex.data.admin.ch/eli/fga/2005/108)).
+[^2-1]: Nuovo testo giusta la cifra II n. 2 dell’all. alla L del 5 ott. 2001 sul design, in vigore dal 1° lug. 2002 ([RU 2002 1456](https://fedlex.data.admin.ch/eli/oc/2002/226); [FF 2000 2432](https://fedlex.data.admin.ch/eli/fga/2000/557)).
+[^2-2]: Nuovo testo giusta la cifra I n. 1 della LF del 17 giu. 2005 sul programma di sgravio 2004, in vigore dal 1° gen. 2006 ([RU 2005 5427](https://fedlex.data.admin.ch/eli/oc/2005/740); [FF 2005 659](https://fedlex.data.admin.ch/eli/fga/2005/108)).
 [^2-3]: Introdotto dal n. 1 dell’all. alla LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
 ## Sezione 2: Organi e personale
@@ -101,9 +101,9 @@ Gli organi dell’IPI sono:
 
 <sup>5</sup> L’articolo 6*a* capoversi 1–5 della legge del 24 marzo 2000[^4-2] sul personale federale si applica per analogia all’onorario dei membri del Consiglio d’Istituto e alle altre condizioni contrattuali convenute con queste persone.[^4-3]
 
-[^4-1]: Nuovo testo giusta il n. I 1 della LF del 17 giu. 2005 sul programma di sgravio 2004, in vigore dal 1° gen. 2006 ([RU 2005 5427](https://fedlex.data.admin.ch/eli/oc/2005/740); [FF 2005 659](https://fedlex.data.admin.ch/eli/fga/2005/108)).
+[^4-1]: Nuovo testo giusta la cifra I n. 1 della LF del 17 giu. 2005 sul programma di sgravio 2004, in vigore dal 1° gen. 2006 ([RU 2005 5427](https://fedlex.data.admin.ch/eli/oc/2005/740); [FF 2005 659](https://fedlex.data.admin.ch/eli/fga/2005/108)).
 [^4-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^4-3]: Introdotto dal n. I 1 della LF del 20 giu. 2003 sulla rimunerazione e su altre condizioni contrattuali convenute con i quadri di grado più elevato e i membri degli organi dirigenti di aziende e di stabilimenti della Confederazione, in vigore dal 1° feb. 2004 ([RU 2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13); [FF 2002 6688](https://fedlex.data.admin.ch/eli/fga/2002/1193)[6705](https://fedlex.data.admin.ch/eli/fga/2002/1195)).
+[^4-3]: Introdotto dalla cifra I n. 1 della LF del 20 giu. 2003 sulla rimunerazione e su altre condizioni contrattuali convenute con i quadri di grado più elevato e i membri degli organi dirigenti di aziende e di stabilimenti della Confederazione, in vigore dal 1° feb. 2004 ([RU 2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13); [FF 2002 6688](https://fedlex.data.admin.ch/eli/fga/2002/1193)[6705](https://fedlex.data.admin.ch/eli/fga/2002/1195)).
 
 #### Art. 5
 
@@ -138,7 +138,7 @@ L’organo di revisione verifica la contabilità e redige un rapporto all’atte
 <sup>3</sup> Le condizioni d’assunzione dei membri della direzione sono fissate dal Consiglio d’Istituto. L’articolo 6*a* capoversi 1–5 della legge del 24 marzo 2000[^8-1] sul personale federale si applica per analogia.[^8-2]
 
 [^8-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^8-2]: Per. introdotto dal n. I 1 della LF del 20 giu. 2003 sulla rimunerazione e su altre condizioni contrattuali convenute con i quadri di grado più elevato e i membri degli organi dirigenti di aziende e di stabilimenti della Confederazione, in vigore dal 1° feb. 2004 ([RU 2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13); [FF 2002 6688](https://fedlex.data.admin.ch/eli/fga/2002/1193)[6705](https://fedlex.data.admin.ch/eli/fga/2002/1195)).
+[^8-2]: Per. introdotto dalla cifra I n. 1 della LF del 20 giu. 2003 sulla rimunerazione e su altre condizioni contrattuali convenute con i quadri di grado più elevato e i membri degli organi dirigenti di aziende e di stabilimenti della Confederazione, in vigore dal 1° feb. 2004 ([RU 2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13); [FF 2002 6688](https://fedlex.data.admin.ch/eli/fga/2002/1193)[6705](https://fedlex.data.admin.ch/eli/fga/2002/1195)).
 
 ## Sezione 3: Vigilanza
 
@@ -176,19 +176,28 @@ La pianificazione dell’IPI per quanto riguarda l’esercizio e l’evoluzione 
 
 I mezzi d’esercizio dell’IPI sono composti dalle tasse riscosse per l’esecuzione dei suoi compiti derivanti dalla sovranità dello Stato, nonché dalle rimunerazioni per prestazioni di servizi.
 
-[^12-1]: Nuovo testo giusta il n. I 1 della LF del 17 giu. 2005 sul programma di sgravio 2004, in vigore dal 1° gen. 2006 ([RU 2005 5427](https://fedlex.data.admin.ch/eli/oc/2005/740); [FF 2005 659](https://fedlex.data.admin.ch/eli/fga/2005/108)).
+[^12-1]: Nuovo testo giusta la cifra I n. 1 della LF del 17 giu. 2005 sul programma di sgravio 2004, in vigore dal 1° gen. 2006 ([RU 2005 5427](https://fedlex.data.admin.ch/eli/oc/2005/740); [FF 2005 659](https://fedlex.data.admin.ch/eli/fga/2005/108)).
 
 #### Art. 13
 
 **Tasse per attività in virtù della sovranità**
 
-<sup>1</sup> L’IPI riscuote tasse in relazione al rilascio e al mantenimento di titoli di protezione nell’ambito del diritto dei beni immateriali, alla tenuta e all’edizione di registri, al rilascio di autorizzazioni e alla sorveglianza sulle società di gestione nonché alle pubblicazioni prescritte legalmente.
+<sup>1</sup>
 
-<sup>2</sup> …[^13-1]
+L’IPI riscuote tasse per:
+
+- a. il rilascio e il mantenimento di titoli di protezione nell’ambito del diritto dei beni immateriali;
+- b. la tenuta e l’edizione di registri;
+- c. il rilascio di autorizzazioni e la sorveglianza sulle società di gestione;
+- d. le pubblicazioni prescritte legalmente; e
+- e. altri atti d’esecuzione previsti dalla legislazione in materia di proprietà intellettuale.[^13-1]
+
+<sup>2</sup> …[^13-2]
 
 <sup>3</sup> Il regolamento delle tasse dell’IPI sottostà all’approvazione del Consiglio federale.
 
-[^13-1]: Abrogato dal n. I 1 della LF del 17 giu. 2005 sul programma di sgravio 2004, con effetto dal 1° gen. 2006 ([RU 2005 5427](https://fedlex.data.admin.ch/eli/oc/2005/740); [FF 2005 659](https://fedlex.data.admin.ch/eli/fga/2005/108)).
+[^13-1]: Nuovo testo giusta la cifra I n. 1 della LF del 22 dic. 2023 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in vigore dal 1° lug. 2025 ([RU 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^13-2]: Abrogato dalla cifra I n. 1 della LF del 17 giu. 2005 sul programma di sgravio 2004, con effetto dal 1° gen. 2006 ([RU 2005 5427](https://fedlex.data.admin.ch/eli/oc/2005/740); [FF 2005 659](https://fedlex.data.admin.ch/eli/fga/2005/108)).
 
 #### Art. 14
 
@@ -200,7 +209,7 @@ Le rimunerazioni per prestazioni di servizi dell’IPI sono fissate secondo il m
 
 [^15-1]
 
-[^15-1]: Abrogato dal n. I 1 della LF del 17 giu. 2005 sul programma di sgravio 2004, con effetto dal 1° gen. 2006 ([RU 2005 5427](https://fedlex.data.admin.ch/eli/oc/2005/740); [FF 2005 659](https://fedlex.data.admin.ch/eli/fga/2005/108)).
+[^15-1]: Abrogato dalla cifra I n. 1 della LF del 17 giu. 2005 sul programma di sgravio 2004, con effetto dal 1° gen. 2006 ([RU 2005 5427](https://fedlex.data.admin.ch/eli/oc/2005/740); [FF 2005 659](https://fedlex.data.admin.ch/eli/fga/2005/108)).
 
 #### Art. 16
 
@@ -227,13 +236,13 @@ Le rimunerazioni per prestazioni di servizi dell’IPI sono fissate secondo il m
 
 [^sec5-1]
 
-[^sec5-1]: Nuovo testo giusta il n. II 6 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, in vigore dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)3453; [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^sec5-1]: Nuovo testo giusta la cifra II n. 6 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, in vigore dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)3453; [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 #### Art. 18
 
 [^18-1]
 
-[^18-1]: Abrogato dal n. II 6 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)3453; [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^18-1]: Abrogato dalla cifra II n. 6 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)3453; [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 #### Art. 19
 
@@ -245,12 +254,14 @@ Le rimunerazioni per prestazioni di servizi dell’IPI sono fissate secondo il m
 
 Data dell’entrata in vigore:[^19-2] 1° gennaio 1996 art. 3 e 4 cpv. 1, 2 e 4: 15 novembre 1995 art. 4 cpv. 3 e 13 cpv. 3: 1° gennaio 1997
 
-[^19-1]: Abrogato dal n. II 6 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)3453; [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^19-1]: Abrogato dalla cifra II n. 6 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)3453; [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 [^19-2]: DCF del 25 ott. 1995.
 
 Appendice
 
 ## Modificazione di altri atti legislativi
+
+Gli atti normativi qui appresso sono modificati come segue:
 
 …[^annexu1-lvlu1-1]
 

@@ -4,11 +4,11 @@ title: Bundesgesetz vom 24. März 1995 über Statut und Aufgaben des Eidgenössi
 short: IGEG
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/5050_5050_5050"
 language: de
-version: 2017-01-01
+version: 2025-07-01
 adopted: 1995-03-24
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/5050_5050_5050/20170101/de/xml/fedlex-data-admin-ch-eli-cc-1995-5050_5050_5050-20170101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/5050_5050_5050/20170101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/5050_5050_5050/20250701/de/xml/fedlex-data-admin-ch-eli-cc-1995-5050_5050_5050-20250701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/5050_5050_5050/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/5050_5050_5050/20170101/de"
 
 (IGEG)
 
-vom 24. März 1995 (Stand am 1. Januar 2017)
+vom 24. März 1995 (Stand am 1. Juli 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -182,13 +182,22 @@ Die Betriebsmittel des IGE setzen sich zusammen aus den Gebühren für seine hoh
 
 **Gebühren für hoheitliche Tätigkeit**
 
-<sup>1</sup> Das IGE erhebt Gebühren im Zusammenhang mit dem Erteilen und Aufrechterhalten von immaterialgüterrechtlichen Schutztiteln, dem Führen und Auflegen von Registern, der Bewilligungserteilung und der Aufsicht über die Verwertungsgesellschaften sowie den gesetzlich vorgeschriebenen Publikationen.
+<sup>1</sup>
 
-<sup>2</sup> …[^13-1]
+Das IGE erhebt Gebühren für:
+
+- a. das Erteilen und das Aufrechterhalten von immaterialgüterrechtlichen Schutztiteln;
+- b. das Führen und das Auflegen von Registern;
+- c. die Bewilligungserteilung an und die Aufsicht über die Verwertungsgesellschaften;
+- d. die gesetzlich vorgeschriebenen Publikationen; und
+- e. weitere Vollzugshandlungen nach den Erlassen auf dem Gebiet des geistigen Eigentums.[^13-1]
+
+<sup>2</sup> …[^13-2]
 
 <sup>3</sup> Die Gebührenordnung des IGE unterliegt der Genehmigung durch den Bundesrat.
 
-[^13-1]: Aufgehoben durch Ziff. I 1 des BG vom 17. Juni 2005 über das Entlastungsprogramm 2004, mit Wirkung seit 1. Jan. 2006 ([AS 2005 5427](https://fedlex.data.admin.ch/eli/oc/2005/740); [BBl 2005 759](https://fedlex.data.admin.ch/eli/fga/2005/108)).
+[^13-1]: Fassung gemäss Ziff. I 1 des BG vom 22. Dez. 2023 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^13-2]: Aufgehoben durch Ziff. I 1 des BG vom 17. Juni 2005 über das Entlastungsprogramm 2004, mit Wirkung seit 1. Jan. 2006 ([AS 2005 5427](https://fedlex.data.admin.ch/eli/oc/2005/740); [BBl 2005 759](https://fedlex.data.admin.ch/eli/fga/2005/108)).
 
 #### Art. 14
 
