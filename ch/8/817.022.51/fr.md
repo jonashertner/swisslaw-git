@@ -4,11 +4,11 @@ title: Ordonnance du DFI du 27 mai 2020 sur les denrées alimentaires génétiqu
 short: ODAlGM
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/456"
 language: fr
-version: 2024-02-01
+version: 2025-07-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/456/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2020-456-20240201-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/456/20240201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/456/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2020-456-20250701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/456/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/456/20240201/fr"
 
 (ODAlGM)
 
-du 27 mai 2020 (État le 1<sup>er</sup> février 2024)
+du 27 mai 2020 (État le 1<sup>er</sup> juillet 2025)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -25,7 +25,7 @@ vu les art. 31, al. 6 et 7, 32, al. 2, 33, al. 4, 34, al. 2, et 37, al. 2 et 3, 
 
 arrête:
 
-[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 #### Art. 1
 
@@ -56,7 +56,7 @@ Elle doit comporter:
 
 <sup>3</sup> L’OSAV peut exiger d’autres documents ou se les procurer aux frais du requérant, après accord avec ce dernier.
 
-[^2-1]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^2-1]: [RS 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
 
 #### Art. 3
 
@@ -168,7 +168,7 @@ La documentation visée à l’art. 33 ODAlOUs doit:
 
 <sup>3</sup> L’OSAV peut préciser, par voie d’ordonnance, les denrées alimentaires devant faire l’objet d’une documentation *ad hoc* ainsi que les modalités de documentation.
 
-[^9-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^9-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 [^9-2]: Règlement (CE) n<sup>o</sup> 65/2004 de la Commission du 14 janvier 2004 instaurant un système pour l’élaboration et l’attribution d’identificateurs uniques pour les organismes génétiquement modifiés, version du JO L 10 du 16.1.2004, p. 5.
 
 #### Art. 10
@@ -219,6 +219,14 @@ Les denrées alimentaires non conformes à la présente ordonnance peuvent encor
 Les denrées alimentaires non conformes à la modification du 8 décembre 2023 peuvent encore être importées, fabriquées et étiquetées selon l’ancien droit jusqu’au 31 janvier 2025 et remises au consommateur jusqu’à épuisement des stocks.
 
 [^14a-1]: Introduit par le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 844](https://fedlex.data.admin.ch/eli/oc/2023/844)).
+
+#### Art. 14b
+
+**Disposition transitoire relative à la modification du 2 juin 2025**[^14b-1]
+
+Les denrées alimentaires non conformes à la modification du 2 juin 2025 peuvent encore être importées, fabriquées et étiquetées selon l’ancien droit jusqu’au 30 juin 2026 remises au consommateur jusqu’à épuisement des stocks.
+
+[^14b-1]: Introduit par le ch. I de l’O de l’OSAV du 2 juin 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 394](https://fedlex.data.admin.ch/eli/oc/2025/394)).
 
 #### Art. 15
 
@@ -329,14 +337,17 @@ Annexe 2[^t-1]
 
 ## Liste des matériels tolérés
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 844](https://fedlex.data.admin.ch/eli/oc/2023/844)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du DFI du 8 déc. 2023 ([RO 2023 844](https://fedlex.data.admin.ch/eli/oc/2023/844)). Mise à jour par le ch. II de l’O de l’OSAV du 2 juin 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 394](https://fedlex.data.admin.ch/eli/oc/2025/394)).
 
 <table>
 <tr><th>Désignation</th><th>Identificateur unique</th><th>Restrictions/charges</th></tr>
+<tr><td>Colza 73496</td><td>DP-Ø73496-4</td><td>seulement ceux qui ne peuvent se multiplier</td></tr>
 <tr><td>Colza GT73</td><td>MON-ØØØ73-7</td><td>seulement ceux qui ne peuvent se multiplier</td></tr>
 <tr><td>Colza MS8 x RF3 x GT73</td><td>ACS-BNØØ5-8 x ACS-BNØØ3-6 x MON-ØØØ73-7</td><td>seulement ceux qui ne peuvent se multiplier</td></tr>
 <tr><td>Colza MS8, RF3, MS8 x RF3</td><td>ACS-BNØØ5-8, ACS-BNØØ3-6, ACS-BNØØ5-8 x ACS‑BNØØ3-6</td><td>seulement ceux qui ne peuvent se multiplier</td></tr>
 <tr><td>Colza MS11</td><td>BCS-BNØ12-7</td><td>seulement ceux qui ne peuvent se multiplier</td></tr>
+<tr><td>Colza T45</td><td>ACS-BNØØ8-2</td><td>seulement ceux qui ne peuvent se multiplier</td></tr>
+<tr><td>Coton 281-24-236 x 3006-210-23</td><td>DAS-24236-5 x DAS-21Ø23-5</td><td>aucune</td></tr>
 <tr><td>Coton GHB119</td><td>BCS-GHØØ5-8</td><td>aucune</td></tr>
 <tr><td>Coton GHB614</td><td>BCS-GHØØ2-5</td><td>aucune</td></tr>
 <tr><td>Coton GHB614 x LLCotton 25</td><td>BCS-GHØØ2-5 x ACS-GHØØ1-3</td><td>aucune</td></tr>
@@ -347,10 +358,13 @@ Annexe 2[^t-1]
 <tr><td>Coton T304-40</td><td>BCS-GHØØ4-7</td><td>aucune</td></tr>
 <tr><td>Maïs 1507</td><td>DAS-Ø15Ø7-1</td><td>aucune</td></tr>
 <tr><td>Maïs 3272</td><td>SYN-E3272-5</td><td>aucune</td></tr>
+<tr><td>Maïs 4114</td><td>DP-ØØ4114-3</td><td>aucune</td></tr>
 <tr><td>Maïs 5307</td><td>SYN-Ø53Ø7-1</td><td>aucune</td></tr>
 <tr><td>Maïs 59122</td><td>DAS-59122-7</td><td>aucune</td></tr>
 <tr><td>Maïs Bt11 x MIR162 x 1507 x GA21</td><td>SYN-BTØ11-1 × SYN-IR162-4 × DAS-Ø15Ø7-1 × MON‑ØØØ21-9</td><td>aucune</td></tr>
 <tr><td>Maïs Bt11 x MIR162 x MIR604 x GA21</td><td>SYN-BTØ11-1 × SYN-IR162-4 × SYN-IR6Ø4-5 × MON‑ØØØ21-9</td><td>aucune</td></tr>
+<tr><td>Maïs Bt11 x MIR162 x MIR604 x 1507 x 5307 x GA21</td><td>SYN-BTØ11-1 × SYN-IR162-4 × SYN-IR6Ø4-5 × DAS‑Ø15Ø7‑1 × SYN‑Ø53Ø7‑1 × MON‑ØØØ21‑9</td><td>aucune</td></tr>
+<tr><td>Maïs DAS-40278-9</td><td>DAS-4Ø278-9</td><td>aucune</td></tr>
 <tr><td>Maïs GA21</td><td>MON-ØØØ21-9</td><td>aucune</td></tr>
 <tr><td>Maïs MIR 162</td><td>SYN-IR162-4</td><td>aucune</td></tr>
 <tr><td>Maïs MIR604</td><td>SYN-IR6Ø4-5</td><td>aucune</td></tr>
@@ -371,8 +385,11 @@ Annexe 2[^t-1]
 <tr><td>Maïs NK603 x MON 810</td><td>MON-ØØ6Ø3-6 x MON-ØØ81Ø-6</td><td>aucune</td></tr>
 <tr><td>Maïs NK603 x T25</td><td>MON-ØØ6Ø3-6 x ACS-ZMØØ3-2</td><td>aucune</td></tr>
 <tr><td>Maïs T25</td><td>ACS-ZMØØ3-2</td><td>aucune</td></tr>
+<tr><td>Soja 305423</td><td>DP-3Ø5423-1</td><td>aucune</td></tr>
 <tr><td>Soja A2704-12</td><td>ACS-GMØØ5-3</td><td>aucune</td></tr>
 <tr><td>Soja A5547-127</td><td>ACS-GMØØ6-4</td><td>aucune</td></tr>
+<tr><td>Soja DAS-44406-6</td><td>DAS-444Ø6-6</td><td>aucune</td></tr>
+<tr><td>Soja DAS-81419-2</td><td>DAS-81419-2</td><td>aucune</td></tr>
 <tr><td>Soja FG72</td><td>MST-FGØ72-2</td><td>aucune</td></tr>
 <tr><td>Soja FG72 x A5547-127</td><td>MST-FGØ72-2 x ACS-GMØØ6-4</td><td>aucune</td></tr>
 <tr><td>Soja GMB151</td><td>BCS-GM151-6</td><td>aucune</td></tr>
@@ -389,8 +406,6 @@ Annexe 2[^t-1]
 <tr><td>Soja MON 89788</td><td>MON-89788-1</td><td>aucune</td></tr>
 <tr><td>Soja SYHT0H2</td><td>SYN-ØØØH2-5</td><td>aucune</td></tr>
 </table>
-
-- [tab]
 
 Annexe 3[^t-2]
 

@@ -4,11 +4,11 @@ title: Ordinanza del DFI del 27 maggio 2020 concernente le derrate alimentari ge
 short: ODerrGM
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/456"
 language: it
-version: 2024-02-01
+version: 2025-07-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/456/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2020-456-20240201-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/456/20240201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/456/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2020-456-20250701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/456/20250701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/456/20240201/it"
 
 (ODerrGM)
 
-del 27 maggio 2020 (Stato 1° febbraio 2024)
+del 27 maggio 2020 (Stato 1° luglio 2025)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -25,7 +25,7 @@ visti gli articoli 31 capoversi 6 e 7, 32 capoverso 2, 33 capoverso 4, 34 capove
 
 ordina:
 
-[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 #### Art. 1
 
@@ -56,7 +56,7 @@ La domanda deve contenere i seguenti dati:
 
 <sup>3</sup> L’USAV può esigere documenti supplementari oppure, d’intesa con il richiedente, procurarseli a spese di quest’ultimo.
 
-[^2-1]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^2-1]: [RS 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
 
 #### Art. 3
 
@@ -112,7 +112,7 @@ Sono tollerate senza autorizzazione quantità minime di derrate alimentari che s
 
 <sup>4</sup> Nell’allegato 2 sono elencati i materiali geneticamente modificati che sono tollerati conformemente al capoverso 1 nelle derrate alimentari.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 844](https://fedlex.data.admin.ch/eli/oc/2023/844)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 844](https://fedlex.data.admin.ch/eli/oc/2023/844)).
 
 #### Art. 7
 
@@ -168,7 +168,7 @@ Dalla documentazione di cui all’articolo 33 ODerr deve risultare quanto segue:
 
 <sup>3</sup> L’USAV può, mediante ordinanza, designare in modo più preciso le derrate alimentari soggette all’obbligo di documentazione e disciplinare le modalità della documentazione.
 
-[^9-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^9-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 [^9-2]: Regolamento (UE) n. 65/2004 della Commissione, del 14 gennaio 2004, che stabilisce un sistema per la determinazione e l'assegnazione di identificatori unici per gli organismi geneticamente modificati, versione della GU L 10 del 16.01.2004, pag. 5.
 
 #### Art. 10
@@ -218,7 +218,15 @@ Le derrate alimentari non conformi alle disposizioni della presente ordinanza po
 
 Le derrate alimentari non conformi alla modifica dell’8 dicembre 2023 possono essere importate, fabbricate e caratterizzate secondo il diritto anteriore sino al 31 gennaio 2025 e possono essere consegnate ai consumatori fino a esaurimento delle scorte.
 
-[^14a-1]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 844](https://fedlex.data.admin.ch/eli/oc/2023/844)).
+[^14a-1]: Introdotto dalla cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 844](https://fedlex.data.admin.ch/eli/oc/2023/844)).
+
+#### Art. 14b
+
+**Disposizione transitoria della modifica del 2 giugno 2025**[^14b-1]
+
+Le derrate alimentari non conformi alla modifica del 2 giugno 2025 possono essere importate, fabbricate e caratterizzate secondo il diritto anteriore sino al 30 giugno 2026 ed essere consegnate ai consumatori fino a esaurimento delle scorte.
+
+[^14b-1]: Introdotto dalla cifra I dell’O dell’USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 394](https://fedlex.data.admin.ch/eli/oc/2025/394)).
 
 #### Art. 15
 
@@ -332,10 +340,17 @@ Allegato 2[^t-1]
 
 ## Elenco dei materiali tollerati
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 844](https://fedlex.data.admin.ch/eli/oc/2023/844)).
+[^t-1]: Nuovo testo giusta la cifra II dell’O del DFI dell’8 dic. 2023 ([RU 2023 844](https://fedlex.data.admin.ch/eli/oc/2023/844)). Aggiornato dalla cifra II dell’O dell’USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 394](https://fedlex.data.admin.ch/eli/oc/2025/394)).
 
 <table>
 <tr><th>Designazione</th><th>Identificatore unico</th><th>Limitazioni/condizioni</th></tr>
+<tr><td>Colza 73496</td><td>DP-Ø73496-4</td><td>solo senza capacità di riproduzione</td></tr>
+<tr><td>Colza GT73</td><td>MON-ØØØ73-7</td><td>solo senza capacità di riproduzione</td></tr>
+<tr><td>Colza MS11</td><td>BCS-BNØ12-7</td><td>solo senza capacità di riproduzione</td></tr>
+<tr><td>Colza MS8 x RF3 x GT73</td><td>ACS-BNØØ5-8 x ACS-BNØØ3-6 x MON-ØØØ73-7</td><td>solo senza capacità di riproduzione</td></tr>
+<tr><td>Colza MS8, RF3, MS8 x RF3</td><td>ACS-BNØØ5-8, ACS-BNØØ3-6, ACS-BNØØ5-8 x ACS‑BNØØ3-6</td><td>solo senza capacità di riproduzione</td></tr>
+<tr><td>Colza T45</td><td>ACS-BNØØ8-2</td><td>solo senza capacità di riproduzione</td></tr>
+<tr><td>Cotone 281-24-236 x 3006-210-23</td><td>DAS-24236-5 x DAS-21Ø23-5</td><td>nessuna</td></tr>
 <tr><td>Cotone GHB119</td><td>BCS-GHØØ5-8</td><td>nessuna</td></tr>
 <tr><td>Cotone GHB614</td><td>BCS-GHØØ2-5</td><td>nessuna</td></tr>
 <tr><td>Cotone GHB614 x LLCotton 25</td><td>BCS-GHØØ2-5 x ACS-GHØØ1-3</td><td>nessuna</td></tr>
@@ -346,10 +361,13 @@ Allegato 2[^t-1]
 <tr><td>Cotone T304-40</td><td>BCS-GHØØ4-7</td><td>nessuna</td></tr>
 <tr><td>Mais 1507</td><td>DAS-Ø15Ø7-1</td><td>nessuna</td></tr>
 <tr><td>Mais 3272</td><td>SYN-E3272-5</td><td>nessuna</td></tr>
+<tr><td>Mais 4114</td><td>DP-ØØ4114-3</td><td>nessuna</td></tr>
 <tr><td>Mais 5307</td><td>SYN-Ø53Ø7-1</td><td>nessuna</td></tr>
 <tr><td>Mais 59122</td><td>DAS-59122-7</td><td>nessuna</td></tr>
 <tr><td>Mais Bt11 x MIR162 x 1507 x GA21</td><td>SYN-BTØ11-1 × SYN-IR162-4 × DAS-Ø15Ø7-1 × MON‑ØØØ21-9</td><td>nessuna</td></tr>
+<tr><td>Mais Bt11 x MIR162 x MIR604 x 1507 x 5307 x GA21</td><td>SYN-BTØ11-1 × SYN-IR162-4 × SYN-IR6Ø4-5 × DAS‑Ø15Ø7‑1 × SYN‑Ø53Ø7‑1 × MON‑ØØØ21‑9</td><td>nessuna</td></tr>
 <tr><td>Mais Bt11 x MIR162 x MIR604 x GA21</td><td>SYN-BTØ11-1 × SYN-IR162-4 × SYN-IR6Ø4-5 × MON‑ØØØ21-9</td><td>nessuna</td></tr>
+<tr><td>Mais DAS-40278-9</td><td>DAS-4Ø278-9</td><td>nessuna</td></tr>
 <tr><td>Mais GA21</td><td>MON-ØØØ21-9</td><td>nessuna</td></tr>
 <tr><td>Mais MIR 162</td><td>SYN-IR162-4</td><td>nessuna</td></tr>
 <tr><td>Mais MIR 604</td><td>SYN-IR6Ø4-5</td><td>nessuna</td></tr>
@@ -370,12 +388,11 @@ Allegato 2[^t-1]
 <tr><td>Mais NK603 x MON 810</td><td>MON-ØØ6Ø3-6 x MON-ØØ81Ø-6</td><td>nessuna</td></tr>
 <tr><td>Mais NK603 x T25</td><td>MON-ØØ6Ø3-6 x ACS-ZMØØ3-2</td><td>nessuna</td></tr>
 <tr><td>Mais T25</td><td>ACS-ZMØØ3-2</td><td>nessuna</td></tr>
-<tr><td>Colza GT73</td><td>MON-ØØØ73-7</td><td>solo senza capacità di riproduzione</td></tr>
-<tr><td>Colza MS8 x RF3 x GT73</td><td>ACS-BNØØ5-8 x ACS-BNØØ3-6 x MON-ØØØ73-7</td><td>solo senza capacità di riproduzione</td></tr>
-<tr><td>Colza MS8, RF3, MS8 x RF3</td><td>ACS-BNØØ5-8, ACS-BNØØ3-6, ACS-BNØØ5-8 x ACS‑BNØØ3-6</td><td>solo senza capacità di riproduzione</td></tr>
-<tr><td>Colza MS11</td><td>BCS-BNØ12-7</td><td>solo senza capacità di riproduzione</td></tr>
+<tr><td>Soia 305423</td><td>DP-3Ø5423-1</td><td>nessuna</td></tr>
 <tr><td>Soia A2704-12</td><td>ACS-GMØØ5-3</td><td>nessuna</td></tr>
 <tr><td>Soia A5547-127</td><td>ACS-GMØØ6-4</td><td>nessuna</td></tr>
+<tr><td>Soia DAS-44406-6</td><td>DAS-444Ø6-6</td><td>nessuna</td></tr>
+<tr><td>Soia DAS-81419-2</td><td>DAS-81419-2</td><td>nessuna</td></tr>
 <tr><td>Soia FG72</td><td>MST-FGØ72-2</td><td>nessuna</td></tr>
 <tr><td>Soia FG72 x A5547-127</td><td>MST-FGØ72-2 x ACS-GMØØ6-4</td><td>nessuna</td></tr>
 <tr><td>Soia GMB151</td><td>BCS-GM151-6</td><td>nessuna</td></tr>
@@ -399,7 +416,7 @@ Allegato 3[^t-2]
 
 ## Prodotti OGM che possono essere immessi sul mercato senza autorizzazione dell’USAV
 
-[^t-2]: Nuovo testo giusta il n. II dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 844](https://fedlex.data.admin.ch/eli/oc/2023/844)).
+[^t-2]: Nuovo testo giusta la cifra II dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 844](https://fedlex.data.admin.ch/eli/oc/2023/844)).
 
 ### Parte A: Enzimi
 

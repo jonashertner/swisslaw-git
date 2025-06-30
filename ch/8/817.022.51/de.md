@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 27. Mai 2020 über gentechnisch veränderte Lebens
 short: VGVL
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/456"
 language: de
-version: 2024-02-01
+version: 2025-07-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/456/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2020-456-20240201-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/456/20240201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/456/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2020-456-20250701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/456/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/456/20240201/de"
 
 (VGVL)
 
-vom 27. Mai 2020 (Stand am 1. Februar 2024)
+vom 27. Mai 2020 (Stand am 1. Juli 2025)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 31 Absätze 6 und 7, 32 Absatz 2, 33 Absatz 4, 34 Absa
 
 verordnet:
 
-[^ingress-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^ingress-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 #### Art. 1
 
@@ -56,7 +56,7 @@ Es muss die folgenden Angaben enthalten:
 
 <sup>3</sup> Das BLV kann weitere Unterlagen einfordern oder, nach Absprache mit der Gesuchstellerin, auf deren Kosten beschaffen.
 
-[^2-1]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^2-1]: [SR 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
 
 #### Art. 3
 
@@ -168,7 +168,7 @@ Aus der Dokumentation nach Artikel 33 LGV muss hervorgehen:
 
 <sup>3</sup> Das BLV kann in einer Verordnung die Lebensmittel, die der Dokumentationspflicht unterliegen, genauer bezeichnen und die Art und Weise der Dokumentation regeln.
 
-[^9-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^9-1]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 [^9-2]: Verordnung (EG) Nr. 65/2004 der Kommission vom 14. Januar 2004 über ein System für die Entwicklung und Zuweisung spezifischer Erkennungsmarker für genetisch veränderte Organismen, Fassung gemäss ABl. L 10 vom 16.1.2004, S. 5.
 
 #### Art. 10
@@ -219,6 +219,14 @@ Lebensmittel, die den Bestimmungen dieser Verordnung nicht entsprechen, dürfen 
 Lebensmittel, die der Änderung vom 8. Dezember 2023 nicht entsprechen, dürfen noch bis zum 31. Januar 2025 nach bisherigem Recht eingeführt, hergestellt und gekennzeichnet und noch bis zum Abbau der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
 
 [^14a-1]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 844](https://fedlex.data.admin.ch/eli/oc/2023/844)).
+
+#### Art. 14b
+
+**Übergangsbestimmung zur Änderung vom 2. Juni 2025**[^14b-1]
+
+Lebensmittel, die der Änderung vom 2. Juni 2025 nicht entsprechen, dürfen noch bis zum 30. Juni 2026 nach bisherigem Recht eingeführt, hergestellt und gekennzeichnet und noch bis zum Abbau der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
+
+[^14b-1]: Eingefügt durch Ziff. I der V des BLV vom 2. Juni 2025, in Kraft seit 1. Juli 2025 ([AS 2025 394](https://fedlex.data.admin.ch/eli/oc/2025/394)).
 
 #### Art. 15
 
@@ -332,10 +340,11 @@ Anhang 2[^t-1]
 
 ## Liste der tolerierten Materialien
 
-[^t-1]: Fassung gemäss Ziff. II der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 844](https://fedlex.data.admin.ch/eli/oc/2023/844)).
+[^t-1]: Fassung gemäss Ziff. II der V des EDI vom 8. Dez. 2023 ([AS 2023 844](https://fedlex.data.admin.ch/eli/oc/2023/844)). Bereinigt gemäss Ziff. II der V des BLV vom 2. Juni 2025, in Kraft seit 1. Juli 2025 ([AS 2025 394](https://fedlex.data.admin.ch/eli/oc/2025/394)).
 
 <table>
 <tr><th>Bezeichnung</th><th>Erkennungsmarker</th><th>Einschränkungen/Auflagen</th></tr>
+<tr><td>Baumwolle 281-24-236 x 3006-210-23</td><td>DAS-24236-5 x DAS-21Ø23-5</td><td>keine</td></tr>
 <tr><td>Baumwolle GHB119</td><td>BCS-GHØØ5-8</td><td>keine</td></tr>
 <tr><td>Baumwolle GHB614</td><td>BCS-GHØØ2-5</td><td>keine</td></tr>
 <tr><td>Baumwolle GHB614 x LLCotton 25</td><td>BCS-GHØØ2-5 x ACS-GHØØ1-3</td><td>keine</td></tr>
@@ -346,10 +355,13 @@ Anhang 2[^t-1]
 <tr><td>Baumwolle T304-40</td><td>BCS-GHØØ4-7</td><td>keine</td></tr>
 <tr><td>Mais 1507</td><td>DAS-Ø15Ø7-1</td><td>keine</td></tr>
 <tr><td>Mais 3272</td><td>SYN-E3272-5</td><td>keine</td></tr>
+<tr><td>Mais 4114</td><td>DP-ØØ4114-3</td><td>keine</td></tr>
 <tr><td>Mais 5307</td><td>SYN-Ø53Ø7-1</td><td>keine</td></tr>
 <tr><td>Mais 59122</td><td>DAS-59122-7</td><td>keine</td></tr>
 <tr><td>Mais Bt11 x MIR162 x 1507 x GA21</td><td>SYN-BTØ11-1 × SYN-IR162-4 × DAS-Ø15Ø7-1 × MON‑ØØØ21-9</td><td>keine</td></tr>
+<tr><td>Mais Bt11 x MIR162 x MIR604 x 1507 x 5307 x GA21</td><td>SYN-BTØ11-1 × SYN-IR162-4 × SYN-IR6Ø4-5 × DAS‑Ø15Ø7‑1 × SYN‑Ø53Ø7‑1 × MON‑ØØØ21‑9</td><td>keine</td></tr>
 <tr><td>Mais Bt11 x MIR162 x MIR604 x GA21</td><td>SYN-BTØ11-1 × SYN-IR162-4 × SYN-IR6Ø4-5 × MON‑ØØØ21-9</td><td>keine</td></tr>
+<tr><td>Mais DAS-40278-9</td><td>DAS-4Ø278-9</td><td>keine</td></tr>
 <tr><td>Mais GA21</td><td>MON-ØØØ21-9</td><td>keine</td></tr>
 <tr><td>Mais MIR 162</td><td>SYN-IR162-4</td><td>keine</td></tr>
 <tr><td>Mais MIR 604</td><td>SYN-IR6Ø4-5</td><td>keine</td></tr>
@@ -370,12 +382,17 @@ Anhang 2[^t-1]
 <tr><td>Mais NK603 x MON 810</td><td>MON-ØØ6Ø3-6 x MON-ØØ81Ø-6</td><td>keine</td></tr>
 <tr><td>Mais NK603 x T25</td><td>MON-ØØ6Ø3-6 x ACS-ZMØØ3-2</td><td>keine</td></tr>
 <tr><td>Mais T25</td><td>ACS-ZMØØ3-2</td><td>keine</td></tr>
+<tr><td>Raps 73496</td><td>DP-Ø73496-4</td><td>nur vermehrungsunfähig</td></tr>
 <tr><td>Raps GT73</td><td>MON-ØØØ73-7</td><td>nur vermehrungsunfähig</td></tr>
 <tr><td>Raps MS8 x RF3 x GT73</td><td>ACS-BNØØ5-8 x ACS-BNØØ3-6 x MON-ØØØ73-7</td><td>nur vermehrungsunfähig</td></tr>
 <tr><td>Raps MS8, RF3, MS8 x RF3</td><td>ACS-BNØØ5-8, ACS-BNØØ3-6, ACS-BNØØ5-8 x ACS‑BNØØ3-6</td><td>nur vermehrungsunfähig</td></tr>
 <tr><td>Raps MS11</td><td>BCS-BNØ12-7</td><td>nur vermehrungsunfähig</td></tr>
+<tr><td>Raps T45</td><td>ACS-BNØØ8-2</td><td>nur vermehrungsunfähig</td></tr>
+<tr><td>Soja 305423</td><td>DP-3Ø5423-1</td><td>keine</td></tr>
 <tr><td>Soja A2704-12</td><td>ACS-GMØØ5-3</td><td>keine</td></tr>
 <tr><td>Soja A5547-127</td><td>ACS-GMØØ6-4</td><td>keine</td></tr>
+<tr><td>Soja DAS-44406-6</td><td>DAS-444Ø6-6</td><td>keine</td></tr>
+<tr><td>Soja DAS-81419-2</td><td>DAS-81419-2</td><td>keine</td></tr>
 <tr><td>Soja FG72</td><td>MST-FGØ72-2</td><td>keine</td></tr>
 <tr><td>Soja FG72 x A5547-127</td><td>MST-FGØ72-2 x ACS-GMØØ6-4</td><td>keine</td></tr>
 <tr><td>Soja GMB151</td><td>BCS-GM151-6</td><td>keine</td></tr>
@@ -392,8 +409,6 @@ Anhang 2[^t-1]
 <tr><td>Soja MON 89788</td><td>MON-89788-1</td><td>keine</td></tr>
 <tr><td>Soja SYHT0H2</td><td>SYN-ØØØH2-5</td><td>keine</td></tr>
 </table>
-
-- [tab]
 
 Anhang 3[^t-2]
 
