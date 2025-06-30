@@ -4,11 +4,11 @@ title: "Ordinanza del 18 novembre 2015 concernente l'importazione, il transito e
 short: OITE-PT
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/843"
 language: it
-version: 2024-07-01
+version: 2025-07-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2015-843-20240701-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2015-843-20250701-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20250701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20240701/it"
 
 (OITE-PT)
 
-del 18 novembre 2015 (Stato 1° luglio 2024)
+del 18 novembre 2015 (Stato 1° luglio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -30,7 +30,7 @@ ordina:
 [^ingress-3]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
 [^ingress-4]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
 [^ingress-5]: [RS 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
-[^ingress-6]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^ingress-6]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -49,7 +49,7 @@ La presente ordinanza si applica:
 
 <sup>3</sup> Essa non si applica al transito di derrate alimentari di origine animale nel traffico aereo internazionale destinate alla ristorazione di bordo e il cui trasporto prosegue a bordo dello stesso aeromobile.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2017, in vigore dal 1° mag. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 3 mar. 2017, in vigore dal 1° mag. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
 [^1-2]: [RS 916.443.14](https://fedlex.data.admin.ch/eli/cc/2014/755)
 
 #### Art. 2
@@ -76,7 +76,7 @@ Sono fatti salvi in particolare i seguenti atti normativi:
 [^3-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
 [^3-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 [^3-3]: [[RU 2017 359](https://fedlex.data.admin.ch/eli/oc/2017/65); [2018 1251](https://fedlex.data.admin.ch/eli/oc/2018/202). [RU 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460)art. 116.]. Vedi ora l’O del 27 mag. 2020 ([RS 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)).
-[^3-4]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^3-4]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 [^3-5]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
 [^3-6]: [RS 453.0](https://fedlex.data.admin.ch/eli/cc/2013/601)
 
@@ -118,23 +118,23 @@ Nella presente ordinanza si intende per:
 - o.[^4-16] posto *di controllo frontaliero*[^4-17]*:* luogo, con le relative strutture, in cui vengono effettuati i controlli veterinari di confine;
 - p. *esportatore*: persona fisica o giuridica responsabile dell’esportazione.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^4-2]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^4-3]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^4-4]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^4-2]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^4-3]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^4-4]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 [^4-5]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
-[^4-6]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^4-6]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 [^4-7]: Regolamento (UE) 2017/625 del Parlamento europeo e del Consiglio, del 15 marzo 2017, relativo ai controlli ufficiali e alle altre attività ufficiali effettuati per garantire l’applicazione della legislazione sugli alimenti e sui mangimi, delle norme sulla salute e sul benessere degli animali, sulla sanità delle piante nonché sui prodotti fitosanitari, recante modifica dei regolamenti (CE) n. 999/2001, (CE) n. 396/2005, (CE) n. 1069/2009, (CE) n. 1107/2009, (UE) n. 1151/2012, (UE) n. 652/2014, (UE) 2016/429 e (UE) 2016/2031 del Parlamento europeo e del Consiglio, dei regolamenti (CE) n. 1/2005 e (CE) n. 1099/2009 del Consiglio e delle direttive 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE e 2008/120/CE del Consiglio, e che abroga i regolamenti (CE) n. 854/2004 e (CE) n. 882/2004 del Parlamento europeo e del Consiglio, le direttive 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE e 97/78/CE del Consiglio e la decisione 92/438/CEE del Consiglio (regolamento sui controlli ufficiali), GU L 95 del 7.4.2017, pag. 1; modificato da ultimo dal regolamento (UE) 2021/1756, GU L 357 dell’8.10.2021, pag. 27.
-[^4-8]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^4-9]: Introdotta dal n. I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
+[^4-8]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^4-9]: Introdotta della cifra I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
 [^4-10]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^4-11]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^4-12]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^4-13]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^4-12]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^4-13]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 [^4-14]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^4-15]: Nuovo termine giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^4-16]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^4-17]: Nuova espressione giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^4-15]: Nuovo termine giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^4-16]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^4-17]: Nuova espressione giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 ## Capitolo 2: Importazione
 
@@ -164,9 +164,12 @@ Per l’importazione di animali e prodotti animali si applicano le condizioni d�
 
 <sup>6</sup> Sono fatte salve le misure emanate dall’USAV in virtù dell’articolo 24 capoverso 3 lettera a LFE volte a impedire la propagazione di un’epizoozia.
 
+**Art. 5**a[^5-4]
+
 [^5-1]: Regolamento (UE) 2016/429 del Parlamento europeo e del Consiglio, del 9 marzo 2016, relativo alle malattie animali trasmissibili e che modifica e abroga taluni atti in materia di sanità animale («normativa in materia di sanità animale»), GU L 84 del 31.3.2016, pag. 1; modificato da ultimo dal regolamento delegato (UE) 2018/1629, GU L 272 del 31.10.2018, pag. 11.
 [^5-2]: Regolamento delegato (UE) 2020/689 della Commissione, del 17 dicembre 2019, che integra il regolamento (UE) 2016/429 del Parlamento europeo e del Consiglio per quanto riguarda le norme relative alla sorveglianza, ai programmi di eradicazione e allo status di indenne da malattia per determinate malattie elencate ed emergenti, GU L 174 del 3.6.2020, pag. 211; modificato da ultimo dal regolamento delegato (UE) 2023/1798, GU L 233 del 21.9.2023, pag. 24.
-[^5-3]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^5-3]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^5-4]: Privo di oggetto ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267); [2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
 
 #### Art. 6
 
@@ -199,6 +202,24 @@ I seguenti prodotti animali possono essere importati soltanto qualora siano tras
 
 <sup>3</sup> Il DFI designa i prodotti di cui al capoverso 1 lettera a.
 
+### Sezione 1*a*: Animali da reddito trattati con determinati medicamenti antimicrobici e prodotti da essi derivati
+
+[^chap2-sec1a-1]
+
+[^chap2-sec1a-1]: Introdotta dalla cifra I dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373))
+
+#### Art. 8a
+
+[^8a-1]
+
+[^8a-1]: In vigore dal 3 set. 2026 ([RU 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
+
+### Sezione 1*b*: Carne bovina da Paesi che non vietano l’uso di sostanze ormonali per accrescere le prestazioni degli animali
+
+[^chap2-sec1b-1]
+
+[^chap2-sec1b-1]: Introdotto dalla cifra I dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
+
 #### Art. 9
 
 **Condizioni derogatorie per l’importazione di determinate varietà di carne bovina da Paesi che non vietano l’uso di sostanze ormonali per accrescere le prestazioni degli animali**
@@ -225,8 +246,8 @@ L’importatore di carne bovina di cui al capoverso 1 e tutti gli acquirenti suc
 
 <sup>4</sup> Le condizioni derogatorie non si applicano ai preparati e ai prodotti a base di carne bovina.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^9-2]: Nuovo testo giusta il n. I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^9-2]: Nuovo testo giusta la cifra I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
 [^9-3]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^9-4]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
 
@@ -240,9 +261,129 @@ L’importatore di carne bovina di cui al capoverso 1 e tutti gli acquirenti suc
 
 [^10-1]: [RS 916.51](https://fedlex.data.admin.ch/eli/cc/2003/738)
 
+### Sezione 1*c*: Pellicce e prodotti di pellicceria
+
+[^chap2-sec1c-1]
+
+[^chap2-sec1c-1]: Introdotta dalla cifra I dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
+
 #### Art. 10a
 
-**Divieto di importazione di prodotti derivati dai pinnipedi**[^10a-1]
+**Campo di applicazione**
+
+La presente sezione si applica alle pellicce e ai prodotti di pellicceria di cui all’articolo 2 dell’ordinanza del 7 dicembre 2012[^10a-1] sulla dichiarazione delle pellicce.
+
+[^10a-1]: [RS 944.022](https://fedlex.data.admin.ch/eli/cc/2013/114)
+
+#### Art. 10b
+
+**Divieto di importazione di pellicce e prodotti di pellicceria ottenuti con metodi che infliggono sofferenze agli animali**
+
+<sup>1</sup> L’importazione di pellicce e prodotti di pellicceria ottenuti con metodi che infliggono sofferenze agli animali è vietata.
+
+<sup>2</sup>
+
+I metodi che infliggono sofferenze agli animali sono metodi in cui il benessere degli animali utilizzati per l’ottenimento di pellicce e prodotti di pellicceria è gravemente compromesso. Sono considerati metodi che infliggono sofferenze agli animali in particolare:
+
+- a. la detenzione degli animali in gabbie con fondo a griglia;
+- b. la caccia di animali con l’aiuto di tagliole, trappole a laccio o trappole sott’acqua in cui essi annegano.
+
+#### Art. 10c
+
+**Deroghe al divieto di importazione di pellicce e prodotti di pellicceria ottenuti con metodi che infliggono sofferenze agli animali**
+
+<sup>1</sup>
+
+L’importazione di pellicce e prodotti di pellicceria ottenuti con metodi che infliggono sofferenze agli animali è consentita:
+
+- a. per il consumo privato;
+- b. come masserizie di trasloco;
+- c. per scopi espositivi o di ricerca non commerciali.
+
+<sup>2</sup> Si tratta di consumo privato quando le pellicce o i prodotti di pellicceria vengono indossati o portati con sé da una persona al momento dell’importazione nel traffico turistico e le servono come oggetti personali nella vita quotidiana.
+
+#### Art. 10d
+
+**Condizione per l’importazione di pellicce e prodotti di pellicceria che non sono stati ottenuti con metodi che infliggono sofferenze agli animali**
+
+L’importazione di pellicce e prodotti di pellicceria che non sono stati ottenuti con metodi che infliggono sofferenze agli animali è consentita se le pellicce e i prodotti di pellicceria sono accompagnati da un certificato attestante che provengono da un’azienda di produzione certificata ai sensi dell’articolo 10*e*.
+
+#### Art. 10e
+
+**Programma di certificazione**
+
+<sup>1</sup> Sono certificate le aziende di produzione che rispettano il programma di certificazione dell’USAV per l’ottenimento di pellicce e prodotti di pellicceria.
+
+<sup>2</sup> Il programma di certificazione si basa sulla norma SN EN ISO/IEC 17067:2013, Valutazione della conformità − Elementi fondamentali della certificazione di prodotto e linee guida per gli schemi di certificazione di prodotto[^10e-1].
+
+<sup>3</sup>
+
+Deve contenere quanto segue:
+
+- a. le condizioni che garantiscono che le pellicce e i prodotti di pellicceria non siano ottenuti con metodi che infliggono sofferenze agli animali;
+- b. i singoli punti di controllo per i controlli da parte degli organismi di certificazione;
+- c. le misure da adottare se un’azienda di produzione non rispetta pienamente il programma di certificazione.
+
+<sup>4</sup> L’USAV pubblica il programma di certificazione sul proprio sito Internet.
+
+[^10e-1]: La norma può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
+
+#### Art. 10f
+
+**Riconoscimento degli organismi di certificazione**
+
+<sup>1</sup> L’USAV riconosce un organismo di certificazione nazionale se questo è accreditato dal Servizio di accreditamento svizzero come organismo di valutazione della conformità per il programma di certificazione dell’USAV secondo la norma SN EN ISO/IEC 17065:2012, Valutazione della conformità – Requisiti per organismi che certificano prodotti, processi e servizi[^10f-1].
+
+<sup>2</sup>
+
+Esso riconosce un organismo di certificazione estero se questo è accreditato come organismo di valutazione della conformità per il programma di certificazione dell’USAV secondo la norma EN ISO/IEC 17065:2012, Valutazione della conformità – Requisiti per organismi che certificano prodotti, processi e servizi. L’accreditamento è rilasciato da:
+
+- a. un servizio di accreditamento estero membro dell’*European co-operation for Accreditation*; oppure
+- b. un servizio di accreditamento riconosciuto dalla Svizzera nel quadro di un accordo internazionale.
+
+<sup>3</sup> Esso pubblica sul proprio sito Internet un elenco degli organismi di certificazione riconosciuti.
+
+<sup>4</sup> Un organismo di certificazione notifica immediatamente all’USAV se non soddisfa più i requisiti per il riconoscimento.
+
+[^10f-1]: La norma può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
+
+#### Art. 10g
+
+**Compiti e obblighi degli organismi di certificazione**
+
+<sup>1</sup> L’organismo di certificazione può certificare un’azienda di produzione di pellicce e prodotti di pellicceria soltanto se un controllo senza preavviso dimostra che per l’ottenimento delle pellicce e dei prodotti di pellicceria il programma di certificazione è pienamente rispettato.
+
+<sup>2</sup> Dopo la concessione della certificazione, verifica con un controllo annuale senza preavviso se l’azienda di produzione rispetta ancora pienamente il programma di certificazione.
+
+<sup>3</sup> Se constata che l’azienda di produzione non rispetta pienamente il programma di certificazione, adotta le misure previste dal programma di certificazione. In casi gravi, ritira la certificazione all’azienda di produzione.
+
+<sup>4</sup> Redige un rapporto su ogni controllo e su richiesta lo sottopone all’USAV.
+
+<sup>5</sup> Redige annualmente un rapporto all’attenzione dell’USAV su tutti i controlli eseguiti.
+
+#### Art. 10h
+
+**Procedura d’imposizione doganale**
+
+<sup>1</sup> La procedura d’imposizione doganale in caso di importazione di pellicce e prodotti di pellicceria è disciplinata dalla legislazione sulle dogane.
+
+<sup>2</sup> Chiunque importa o fa importare pellicce o prodotti di pellicceria la cui importazione è consentita soltanto con un certificato secondo l’articolo 10*d* deve fornire nella dichiarazione doganale le informazioni necessarie relative a tale certificato.
+
+#### Art. 10i
+
+**Rintracciabilità**
+
+Le pellicce e i prodotti di pellicceria consegnati ai consumatori devono poter essere rintracciati dall’ottenimento fino alla consegna.
+
+### Sezione 1*d*: Divieto di importazione [di prodotti derivati dai pinnipedi](https://www.fedlex.admin.ch/eli/cc/2015/843/it)
+
+[^chap2-sec1d-1]
+
+[^chap2-sec1d-1]: Introdotto dalla cifra I dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
+
+#### Art. 10j
+
+**Divieto di importazione di prodotti derivati dai pinnipedi**[^10j-1]
 
 <sup>1</sup> L’importazione di prodotti derivati dai pinnipedi è vietata.
 
@@ -254,17 +395,24 @@ L’importatore di carne bovina di cui al capoverso 1 e tutti gli acquirenti suc
 
   l’importazione di prodotti derivati dai pinnipedi che:
 
-  - 1\. provengono dalla caccia ai sensi dell’articolo 3 paragrafo 1 del regolamento (CE) n. 1007/2009[^10a-2], e
-  - 2\.[^10a-3] sono accompagnati da un certificato in formato cartaceo secondo l’articolo 4 e l’allegato del regolamento di esecuzione (UE) 2015/1850[^10a-4] emesso da un organismo riconosciuto dalla Commissione europea;
+  - 1\. provengono dalla caccia ai sensi dell’articolo 3 paragrafo 1 del regolamento (CE) n. 1007/2009[^10j-2], e
+  - 2\.[^10j-3] sono accompagnati da un certificato in formato cartaceo secondo l’articolo 4 e l’allegato del regolamento di esecuzione (UE) 2015/1850[^10j-4] emesso da un organismo riconosciuto dalla Commissione europea;
 
 - b. l’importazione di prodotti derivati dai pinnipedi destinati al consumo privato;
 - c. l’importazione di prodotti derivati dai pinnipedi come masserizie di trasloco;
-- d. l’importazione di prodotti derivati dai pinnipedi per scopi espositivi o di ricerca.
+- d.[^10j-5] l’importazione di prodotti derivati dai pinnipedi per scopi espositivi o di ricerca non commerciali.
 
-[^10a-1]: Introdotto dal n. I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
-[^10a-2]: Regolamento (CE) n. 1007/2009 del Parlamento europeo e del Consiglio, del 16 settembre 2009, sul commercio dei prodotti derivati dalla foca, GU L 286 del 31.10.2009, pag. 36; modificato da ultimo dal regolamento (UE) 2015/1775, GU L 262 del 7.10.2015, pag. 1.
-[^10a-3]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^10a-4]: Regolamento di esecuzione (UE) 2015/1850 della Commissione, del 13 ottobre 2015, recante modalità di applicazione del regolamento (CE) n. 1007/2009 del Parlamento europeo e del Consiglio sul commercio dei prodotti derivati dalla foca, versione della GU L 271 del 16.10.2015, p. 1.
+[^10j-1]: Originario art. 10*a*. Introdotto della cifra I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
+[^10j-2]: Regolamento (CE) n. 1007/2009 del Parlamento europeo e del Consiglio, del 16 settembre 2009, sul commercio dei prodotti derivati dalla foca, GU L 286 del 31.10.2009, pag. 36; modificato da ultimo dal regolamento (UE) 2015/1775, GU L 262 del 7.10.2015, pag. 1.
+[^10j-3]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^10j-4]: Regolamento di esecuzione (UE) 2015/1850 della Commissione, del 13 ottobre 2015, recante modalità di applicazione del regolamento (CE) n. 1007/2009 del Parlamento europeo e del Consiglio sul commercio dei prodotti derivati dalla foca, versione della GU L 271 del 16.10.2015, p. 1.
+[^10j-5]: Nuovo testo giusta la cifra I dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
+
+### Sezione 1*e*: Reimportazione, campioni commerciali e campioni da analizzare, traffico turistico, lettere e pacchi
+
+[^chap2-sec1e-1]
+
+[^chap2-sec1e-1]: Introdotto dalla cifra I dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
 
 #### Art. 11
 
@@ -282,7 +430,7 @@ Se sono esportati in un Paese terzo in cui sono respinti o se il destinatario re
 
 <sup>3</sup> I prodotti animali reimportati possono essere ritrasportati solo nell’azienda di provenienza indicata sull’autorizzazione d’esportazione.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 #### Art. 12
 
@@ -309,11 +457,11 @@ Con l’autorizzazione si stabilisce:
 
 <sup>3</sup> Una volta soddisfatto lo scopo di utilizzo, i prodotti animali devono essere riesportati nel loro Paese di provenienza oppure eliminati conformemente all’OSOAn[^12-4].[^12-5]
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^12-2]: Introdotto dal n. I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
-[^12-3]: Introdotto dal n. I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^12-2]: Introdotto della cifra I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
+[^12-3]: Introdotto della cifra I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
 [^12-4]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
-[^12-5]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^12-5]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 #### Art. 13
 
@@ -331,8 +479,8 @@ Con l’autorizzazione si stabilisce:
 
 <sup>2</sup> I prodotti di origine non animale nelle lettere e nei pacchi devono essere riconoscibili come tali dal servizio veterinario di confine durante il controllo.[^14-2]
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^14-2]: Introdotto dal n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^14-2]: Introdotto della cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 ### Sezione 2: Obbligo del controllo veterinario di confine
 
@@ -349,8 +497,8 @@ Non sono soggetti al controllo veterinario di confine:
 - a.[^15-2] animali e prodotti animali di cui al capoverso 1 che sono già stati sottoposti a un controllo veterinario di confine completo in uno Stato membro dell’UE, in Islanda o in Norvegia o in Irlanda del Nord;
 - b. prodotti animali di cui al capoverso 1 importati conformemente agli articoli 13 e 14.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^15-2]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^15-2]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 16
 
@@ -384,7 +532,7 @@ La registrazione deve essere richiesta in precedenza:
 
 <sup>3</sup> I cambiamenti d’indirizzo devono essere comunicati entro una settimana all’autorità competente.
 
-[^17-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^17-1]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 18
 
@@ -407,10 +555,10 @@ La notifica preventiva deve essere effettuata al più tardi:
 
 <sup>5</sup> Sono esentati dall’obbligo di notifica preventiva le lettere e i pacchi soggetti al controllo veterinario di confine.[^18-4]
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
-[^18-2]: Introdotto dal n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^18-3]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^18-4]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
+[^18-2]: Introdotto della cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^18-3]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^18-4]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 19
 
@@ -442,9 +590,9 @@ Le seguenti partite di animali e prodotti animali devono essere notificate al ve
 
 <sup>3</sup> Il DFI stabilisce i requisiti formali dei certificati sanitari. Disciplina i certificati sostitutivi.[^21-3]
 
-[^21-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^21-2]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^21-3]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^21-1]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^21-2]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^21-3]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 ### Sezione 5: Trasporto
 
@@ -458,7 +606,7 @@ Le seguenti partite di animali e prodotti animali devono essere notificate al ve
 
 <sup>2</sup> Dopo il trasporto, la paglia e gli altri prodotti agricoli simili che sono serviti da materiale d’imballaggio nonché strame e fieno provenienti da mezzi di trasporto degli animali e aeromobili devono essere portati immediatamente all’incenerimento in un impianto per lo smaltimento dei rifiuti autorizzato dal Cantone.
 
-[^22-1]: Introdotto dal n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^22-1]: Introdotto della cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 #### Art. 23
 
@@ -472,13 +620,13 @@ Le seguenti partite di animali e prodotti animali devono essere notificate al ve
 
 <sup>4</sup> Le partite per cui il certificato sanitario prevede un trasporto a livello di temperatura ambiente possono anche essere conservate o trasportate refrigerate.
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^23-1]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 ### Sezione 6: Presentazione al controllo veterinario di confine, dichiarazione doganale, custodia doganale, deposito doganale e deposito franco doganale
 
 [^chap2-sec6-1]
 
-[^chap2-sec6-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
+[^chap2-sec6-1]: Nuovo testo giusta la cifra I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
 
 #### Art. 24
 
@@ -497,8 +645,8 @@ Essa deve, immediatamente dopo l’atterraggio dell’aeromobile:
 
 <sup>4</sup> Per le lettere e i pacchi soggetti al controllo veterinario di confine, l’USAV può, in casi motivati, autorizzare procedure in deroga al capoverso 2, purché sia accertato che ciò non comporterà un rischio accresciuto di introduzione di epizoozie.[^24-2]
 
-[^24-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^24-2]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^24-1]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^24-2]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 24a
 
@@ -510,8 +658,8 @@ Essa deve, immediatamente dopo l’atterraggio dell’aeromobile:
 
 <sup>3</sup> Nella dichiarazione doganale di lettere e pacchi contenenti prodotti animali e destinati a privati secondo l’articolo 14, la persona soggetta all’obbligo di dichiarazione deve indicare un numero di autorizzazione generale. L’USAV pubblica su Internet il numero di autorizzazione generale.
 
-[^24a-1]: Introdotto dal n. I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
-[^24a-2]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^24a-1]: Introdotto della cifra I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
+[^24a-2]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 #### Art. 25
 
@@ -529,8 +677,8 @@ Se una partita di prodotti animali rilasciata dal servizio veterinario di confin
 
 <sup>3</sup> Le copie autenticate del DSCE vanno richieste al servizio veterinario di confine.
 
-[^25-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^25-2]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^25-1]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^25-2]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 26
 
@@ -542,7 +690,7 @@ Se una partita di prodotti animali rilasciata dal servizio veterinario di confin
 
 <sup>3</sup> Queste partite immagazzinate possono essere successivamente immesse in libera pratica senza ulteriori controlli da parte del servizio veterinario di confine.
 
-[^26-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^26-1]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 ### Sezione 7: Proseguimento del trasporto fino a destinazione
 
@@ -571,7 +719,7 @@ I seguenti documenti di accompagnamento devono essere acclusi alla partita fino 
 
 <sup>3</sup> I documenti di accompagnamento di cui al capoverso 1 devono essere conservati dall’azienda di destinazione per tre anni dall’arrivo della partita.
 
-[^28-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^28-1]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 [^28-2]: [RS 916.310](https://fedlex.data.admin.ch/eli/cc/2012/763)
 
 #### Art. 29
@@ -588,7 +736,7 @@ L’azienda di destinazione deve notificare al veterinario cantonale entro 24 or
 - b. animali ad unghia fessa nonché gallinacei, palmipedi e struzioniformi;
 - c. api mellifere europee e bombi.
 
-[^29-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^29-1]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 29a
 
@@ -604,7 +752,7 @@ Le aziende di destinazione che hanno importato bombi devono tenere un registro d
 
 <sup>2</sup> Le registrazioni devono essere conservate per tre anni e presentate su richiesta agli organi di polizia delle epizoozie.
 
-[^29a-1]: Introdotto dal n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^29a-1]: Introdotto della cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 30
 
@@ -629,7 +777,7 @@ Le aziende di destinazione che hanno importato bombi devono tenere un registro d
 
 Il bestiame da macello può unicamente essere trasferito in una grande azienda ai sensi dell’articolo 3 lettera l dell’ordinanza del 16 dicembre 2016[^31-2] concernente la macellazione e il controllo delle carni (OMCC).
 
-[^31-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^31-1]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 [^31-2]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
 
 #### Art. 32
@@ -659,7 +807,7 @@ La selvaggina di pelo con la pelle e la selvaggina di piuma non spennata possono
 
 <sup>5</sup> In caso di lettere e pacchi soggetti al controllo veterinario di confine, all’importatore spetta la responsabilità di contrassegnare la partita in modo tale che sia riconoscibile dall’impresa di spedizione come soggetta al controllo veterinario di confine, tranne nel caso in cui l’impresa di spedizione si avvalga delle prestazioni di un’impresa che presta servizi di sdoganamento.
 
-[^33-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^33-1]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 34
 
@@ -670,7 +818,7 @@ Oltre ad adempiere agli altri obblighi stabiliti nella presente ordinanza, la pe
 - a. coadiuvare il servizio veterinario di confine presentandogli le partite da controllare secondo le sue disposizioni e riprendendone possesso al termine; e
 - b.[^34-1] trasmettere le istruzioni del servizio veterinario di confine all’impresa di spedizione o all’importatore.
 
-[^34-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
+[^34-1]: Nuovo testo giusta la cifra I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
 
 #### Art. 35
 
@@ -688,7 +836,7 @@ Oltre ad adempiere agli altri obblighi stabiliti nella presente ordinanza, la pe
 
 <sup>6</sup> Per le imprese che prestano servizi di sdoganamento di animali vivi valgono per analogia i requisiti applicabili alle pensioni per animali fissati nella legislazione sulla protezione degli animali, in particolare gli articoli 101–102 OPAn[^35-2].
 
-[^35-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^35-1]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 [^35-2]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
 
 #### Art. 36
@@ -697,7 +845,7 @@ Oltre ad adempiere agli altri obblighi stabiliti nella presente ordinanza, la pe
 
 Gli esercenti di aeroporti devono richiamare l’attenzione delle imprese che prestano servizi di sdoganamento sui loro obblighi di cui all’articolo 35.
 
-[^36-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^36-1]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 37
 
@@ -719,8 +867,8 @@ Spetta alle compagnie aeree sincerarsi degli orari di apertura del posto di cont
 
 <sup>4</sup> Animali e prodotti animali provenienti da Paesi terzi dai quali l’importazione è vietata per ragioni di polizia sanitaria non possono essere fatte transitare.
 
-[^38-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^38-2]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^38-1]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^38-2]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 39
 
@@ -737,7 +885,7 @@ Le seguenti disposizioni valide per l’importazione si applicano per analogia a
 - g. articolo 28 capoverso 1 (documenti di accompagnamento);
 - h. articoli 33–37 (obblighi delle persone interessate).
 
-[^39-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^39-1]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 #### Art. 40
 
@@ -761,15 +909,15 @@ Le seguenti disposizioni valide per l’importazione si applicano per analogia a
 
 <sup>4</sup> All’interno dell’aeroporto gli animali e i prodotti animali non possono lasciare il perimetro delimitato dall’UDSC, salvo che ne sia stato autorizzato il trasporto per via terrestre.
 
-[^41-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^41-2]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^41-3]: Abrogato dal n. I dell’O del 31 mag. 2024, con effetto dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^41-1]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^41-2]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^41-3]: Abrogato della cifra I dell’O del 31 mag. 2024, con effetto dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 42
 
 [^42-1]
 
-[^42-1]: Abrogato dal n. I dell’O del 31 mag. 2024, con effetto dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^42-1]: Abrogato della cifra I dell’O del 31 mag. 2024, con effetto dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 43
 
@@ -798,7 +946,7 @@ In caso di transito verso un Paese terzo, devono accompagnare la partita fino al
 
 <sup>2</sup> In caso di transito per via aerea direttamente da un Paese terzo e direttamente a un Paese terzo, non è necessario che il DSCE accompagni la partita.
 
-[^44-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^44-1]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 45
 
@@ -808,7 +956,7 @@ In caso di transito verso un Paese terzo, devono accompagnare la partita fino al
 
 <sup>2</sup> La persona soggetta all’obbligo di dichiarazione deve notificare entro un giorno lavorativo l’uscita delle partite dal territorio d’importazione al servizio veterinario di confine, presentandogli il DSCE.
 
-[^45-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^45-1]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 46
 
@@ -842,9 +990,9 @@ L’esportatore è responsabile per:
 
 <sup>4</sup> Se per il Paese di destinazione non esiste un modello, l’esportatore deve informarsi sulle condizioni d’importazione vigenti nel Paese di destinazione, in particolare se è necessario un certificato sanitario e quali requisiti deve soddisfare. Se è necessario un certificato sanitario, l’importatore deve sottoporre all’autorità cantonale competente le condizioni d’importazione e i requisiti richiesti per il certificato sanitario.[^48-3]
 
-[^48-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^48-2]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^48-3]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^48-1]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^48-2]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^48-3]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 49
 
@@ -860,7 +1008,7 @@ Se per un certificato sanitario esiste un modello e il certificato sanitario da 
 
 <sup>2</sup> Se per il certificato sanitario non esiste un modello, l’autorità cantonale competente notifica all’USAV le condizioni d’importazione del Paese di destinazione in questione e i requisiti richiesti per il certificato sanitario.
 
-[^49-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^49-1]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 50
 
@@ -888,7 +1036,7 @@ I modelli di cui al capoverso 2 possono essere messi a disposizione soltanto se:
 
 <sup>5</sup> L’USAV può concludere con il Paese di destinazione un trattato sui certificati sanitari e sulle condizioni di cui al presente articolo.
 
-[^50-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^50-1]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 51
 
@@ -905,7 +1053,7 @@ I modelli di cui al capoverso 2 possono essere messi a disposizione soltanto se:
 <sup>5</sup> L’autorità cantonale competente comunica all’USAV la lista delle autorizzazioni rilasciate. Quest’ultimo tiene un registro delle aziende esportatrici autorizzate.
 
 [^51-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^51-2]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^51-2]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 #### Art. 52
 
@@ -929,7 +1077,7 @@ L’USAV rilascia l’autorizzazione se:
 
 <sup>3</sup> Prima di rilasciare l’autorizzazione, l’USAV sottopone la domanda di esportazione al veterinario cantonale competente per lo stabilimento di eliminazione che provvederebbe all’eliminazione secondo il capoverso 2 lettera c.
 
-[^52-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^52-1]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 [^52-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
 [^52-3]: Regolamento (UE) n. 142/2011 della Commissione, del 25 febbraio 2011, recante disposizioni di applicazione del regolamento (CE) n. 1069/2009 del Parlamento europeo e del Consiglio recante norme sanitarie relative ai sottoprodotti di origine animale e ai prodotti derivati non destinati al consumo umano, e della direttiva 97/78/CE del Consiglio per quanto riguarda taluni campioni e articoli non sottoposti a controlli veterinari alla frontiera, GU L 54 del 26.2.2011, pag. 1; modificato da ultimo dal regolamento (UE) 2023/2613, GU L, 2023/2613, del 24.11.2023.
 
@@ -939,7 +1087,7 @@ L’USAV rilascia l’autorizzazione se:
 
 Le proteine animali trasformate possono essere esportate, senza autorizzazione, alle condizioni di cui all’allegato IV capo V sezione E punto 1 del regolamento (CE) n. 999/2001[^52a-2].
 
-[^52a-1]: Introdotto dal n. III dell’O del 25 apr. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)). Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^52a-1]: Introdotto della cifra III dell’O del 25 apr. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)). Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 [^52a-2]: Regolamento (CE) n. 999/2001 del Parlamento europeo e del Consiglio, del 22 maggio 2001, recante disposizioni per la prevenzione, il controllo e l’eradicazione di alcune encefalopatie spongiformi trasmissibili, GU L 147 del 31.5.2001, pag. 1; modificato da ultimo dal regolamento (UE) n. 2024/916, GU L, 2024/916, 26.3.2024.
 
 #### Art. 53
@@ -958,7 +1106,7 @@ Se il Paese di destinazione richiede un controllo veterinario ufficiale per l’
 
 [^54-1]
 
-[^54-1]: Abrogato dal n. I dell’O del 3 mar. 2017, con effetto dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
+[^54-1]: Abrogato della cifra I dell’O del 3 mar. 2017, con effetto dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
 
 #### Art. 55
 
@@ -988,7 +1136,7 @@ Il controllo di una partita deve comprendere i seguenti elementi:
 
 In un controllo documentale, il servizio veterinario di confine verifica la completezza e la correttezza dei necessari documenti di accompagnamento e delle necessarie autorizzazioni.
 
-[^56-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^56-1]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 #### Art. 57
 
@@ -996,7 +1144,7 @@ In un controllo documentale, il servizio veterinario di confine verifica la comp
 
 In un controllo d’identità, il servizio veterinario di confine verifica visivamente che i dati riportati nei documenti di accompagnamento corrispondano al contenuto e all’identificazione della partita.
 
-[^57-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^57-1]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 58
 
@@ -1012,7 +1160,7 @@ In un controllo d’identità, il servizio veterinario di confine verifica visiv
 
 <sup>5</sup> Per il prelievo di campioni non si versano risarcimenti.
 
-[^58-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^58-1]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 #### Art. 59
 
@@ -1031,10 +1179,10 @@ I certificati sanitari sono conservati in formato cartaceo o elettronico presso 
 - a [^59-3] in caso di partite introdotte soltanto temporaneamente nel territorio d’importazione oppure fatte transitare verso uno Stato membro dell’UE, l’Islanda o la Norvegia o verso l’Irlanda del Nord;
 - b. in caso di partite introdotte permanentemente nel territorio d’importazione: su richiesta.[^59-4]
 
-[^59-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^59-2]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^59-3]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^59-4]: Nuovo testo giusta il n. I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
+[^59-1]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^59-2]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^59-3]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^59-4]: Nuovo testo giusta la cifra I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
 
 #### Art. 59a
 
@@ -1051,8 +1199,8 @@ In caso di partite importate, gli uffici doganali ai posti d’ispezione frontal
 
 <sup>3</sup> In caso di partite in transito, gli uffici doganali ai posti d’ispezione frontalieri autorizzati verificano se il controllo veterinario di confine prescritto è stato effettuato.
 
-[^59a-1]: Introdotto dal n. I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
-[^59a-2]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^59a-1]: Introdotto della cifra I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
+[^59a-2]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 ### Sezione 2: Portata dei controlli
 
@@ -1092,7 +1240,7 @@ In caso di transito di partite soggette al controllo veterinario di confine vers
 
 <sup>4</sup> In caso di partite soggette al controllo veterinario di confine, il servizio veterinario di confine effettua controlli supplementari se ciò si rivela opportuno per ragioni di salute degli animali, di protezione degli animali e di sicurezza alimentare.
 
-[^61-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^61-1]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 62
 
@@ -1109,8 +1257,8 @@ Il controllo si limita a una verifica del manifesto di carico per:
 
 <sup>3</sup> In caso di partite il cui trasporto dall’aeroporto prosegue per via terrestre, il servizio veterinario di confine effettua un controllo documentale, un controllo d’identità e un controllo fisico.
 
-[^62-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
-[^62-2]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^62-1]: Nuovo testo giusta la cifra I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
+[^62-2]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 63
 
@@ -1132,7 +1280,7 @@ Il controllo si limita a una verifica del manifesto di carico per:
 
 <sup>3</sup> In caso di rischio generale elevato di non ottemperanza alle disposizioni in materia di epizoozie, di protezione degli animali e di igiene delle derrate alimentari nel Paese, nella regione o nell’azienda d’origine, l’USAV può ordinare che le partite soggette al controllo veterinario di confine siano sottoposte a esami approfonditi ad ogni importazione e per ciascun transito in uno Stato membro dell’UE, in Islanda o in Norvegia o in Irlanda del Nord e siano rilasciate soltanto in caso di esito favorevole di tali esami.
 
-[^64-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^64-1]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 65
 
@@ -1140,7 +1288,7 @@ Il controllo si limita a una verifica del manifesto di carico per:
 
 In caso di basso rischio di infrazione delle norme di polizia sanitaria e di igiene delle derrate alimentari, l’USAV può ridurre la frequenza dei controlli per l’importazione e il transito di animali e prodotti animali.
 
-[^65-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^65-1]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 ## Capitolo 6: Misure
 
@@ -1180,9 +1328,9 @@ Una partita non è conforme se dai controlli effettuati dal servizio veterinario
 
 <sup>2</sup> Le partite destinate al transito verso Paesi terzi che restano in aeroporto per più di 72 ore sono inoltre considerate non conformi se non soddisfanno le condizioni d’importazione.[^67-3]
 
-[^67-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^67-2]: Introdotta dal n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^67-3]: Introdotto dal n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^67-1]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^67-2]: Introdotta della cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^67-3]: Introdotto della cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 68
 
@@ -1205,9 +1353,9 @@ Se una partita importata o in transito non è conforme, il servizio veterinario 
 
 <sup>4</sup> Se una partita d’esportazione non è conforme, il servizio veterinario di confine ne dispone il sequestro.
 
-[^68-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^68-2]: Introdotto dal n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^68-3]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^68-1]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^68-2]: Introdotto della cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^68-3]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 #### Art. 69
 
@@ -1254,7 +1402,7 @@ La rispedizione può avvenire se sono soddisfatte le seguenti condizioni:
 
 <sup>6</sup> Il servizio veterinario di confine informa l’autorità competente del Paese di provenienza sul tipo di partita e sulle motivazioni del respingimento, purché queste informazioni siano appropriate per l’autorità.
 
-[^70-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^70-1]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 #### Art. 71
 
@@ -1275,7 +1423,7 @@ Il trattamento o la trasformazione devono:
 
 <sup>5</sup> Per le partite con lacune minime che non comportano alcun rischio di polizia epizootica e di igiene delle derrate alimentari, il servizio veterinario di confine può eccezionalmente disporre un’altra misura, quale un nuovo imballaggio. Tale misura deve garantire il rispetto delle condizioni di importazione e di transito o eventualmente condurre la partita a uno scopo diverso da quello originariamente previsto.
 
-[^71-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^71-1]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 #### Art. 72
 
@@ -1298,10 +1446,10 @@ Il servizio veterinario di confine confisca:
 
 <sup>4</sup> I prodotti animali confiscati e gli animali morti vengono eliminati dall’USAV conformemente all’OSOAn[^72-6].
 
-[^72-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^72-1]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 [^72-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^72-3]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^72-4]: Introdotta dal n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^72-3]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^72-4]: Introdotta della cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 [^72-5]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 [^72-6]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
 
@@ -1321,7 +1469,7 @@ In caso di possibile minaccia per la salute degli animali, esso dispone in parti
 
 <sup>3</sup> In caso di possibile minaccia per il benessere degli animali, esso ordina, d’intesa con l’autorità cantonale competente, il sequestro degli animali e il loro trasferimento a tale autorità.
 
-[^73-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^73-1]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 [^73-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
 
 #### Art. 74
@@ -1349,7 +1497,7 @@ L’autorità cantonale competente informa:
 - a.[^75-1] mediante TRACES, al più tardi 15 giorni civili dopo il rilascio della partita, il servizio veterinario di confine che ha comunicato il rilascio in merito all’arrivo della partita nell’azienda di destinazione;
 - b. per posta elettronica o fax, al più tardi 15 giorni lavorativi dopo il rilascio della partita, l’ufficio doganale competente in merito al ricevimento della notifica di cui all’articolo 29 capoverso 1 o a un eventuale ritardo.
 
-[^75-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^75-1]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 #### Art. 76
 
@@ -1357,7 +1505,7 @@ L’autorità cantonale competente informa:
 
 In caso di prodotti animali soggetti a oneri particolari in transito verso gli Stati membri dell’UE, l’Islanda o la Norvegia o verso l’Irlanda del Nord, sottoposti nel territorio d’importazione a un controllo veterinario di confine completo, il servizio veterinario di confine informa, mediante TRACES, l’autorità di controllo competente del Paese di destinazione.
 
-[^76-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^76-1]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 77
 
@@ -1375,7 +1523,7 @@ In caso di prodotti animali soggetti a oneri particolari in transito verso gli S
 
 <sup>2</sup> Se ha motivo di ritenere che una partita non abbia lasciato il territorio d’importazione, gli Stati membri dell’UE, l’Islanda o la Norvegia, nonché l’Irlanda del Nord entro il termine previsto, il servizio veterinario di confine informa l’UDSC. Quest’ultimo compie ulteriori accertamenti. Se l’UDSC non può appurare l’uscita dal territorio d’importazione, da uno Stato membro dell’UE, dall’Islanda o dalla Norvegia, nonché dall’Irlanda del Nord, l’USAV informa le autorità competenti dei Cantoni e i Paesi attraverso i quali doveva transitare la partita.
 
-[^78-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^78-1]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 79
 
@@ -1383,7 +1531,7 @@ In caso di prodotti animali soggetti a oneri particolari in transito verso gli S
 
 Se l’autorità competente del posto di controllo frontaliero dell’UE, dell’Islanda o della Norvegia o dell’Irlanda del Nord notifica al servizio veterinario di confine svizzero che una partita in transito verso un Paese terzo lascerà il territorio d’importazione proseguendo direttamente verso il Paese terzo in questione, il servizio veterinario di confine conferma l’avvenuto transito.
 
-[^79-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^79-1]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 ### Sezione 3: Misure al di fuori dei controlli del servizio veterinario di confine
 
@@ -1409,9 +1557,9 @@ Se dal confronto dei dati emerge che non c’è alcun rilascio da parte del serv
 
 <sup>4</sup> Se dal confronto dei dati emerge che la partita non soddisfa i requisiti per l’importazione destinata al consumo privato, la dichiarazione doganale è respinta dal sistema «e-dec».
 
-[^79a-1]: Introdotto dal n. I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
-[^79a-2]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^79a-3]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^79a-1]: Introdotto della cifra I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
+[^79a-2]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^79a-3]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 #### Art. 80
 
@@ -1434,7 +1582,7 @@ Se dal confronto dei dati emerge che non c’è alcun rilascio da parte del serv
 <sup>2</sup> Se le lettere e i pacchi contenenti prodotti animali destinati a privati non sono conformi alle condizioni d’importazione di cui all’articolo 14, l’impresa di spedizione li trasmette al servizio veterinario di confine. Quest’ultimo confisca la partita e la elimina conformemente all’OSOAn.[^81-2]
 
 [^81-1]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
-[^81-2]: Nuovo testo giusta il n. I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
+[^81-2]: Nuovo testo giusta la cifra I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
 
 #### Art. 82
 
@@ -1446,7 +1594,7 @@ Se dal confronto dei dati emerge che non c’è alcun rilascio da parte del serv
 
 <sup>3</sup> Per gli animali vivi, l’autorità cantonale competente dispone il trasporto immediato, nel rispetto di determinate condizioni di sicurezza, verso un posto di controllo frontaliero autorizzato.
 
-[^82-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^82-1]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 #### Art. 83
 
@@ -1461,10 +1609,13 @@ Se ai posti di controllo frontalieri autorizzati constata che vi sono animali o 
 
 <sup>2</sup> Se constata al di fuori dei posti di controllo frontalieri autorizzati che vi sono animali o prodotti animali che non soddisfano le condizioni di importazione, transito o esportazione, l’UDSC ne informa l’autorità competente del Cantone sul cui territorio è avvenuto il controllo.[^83-2]
 
+<sup>2bis</sup> Se, al momento dell’importazione, constata che vi sono pellicce, prodotti di pellicceria o prodotti derivati dai pinnipedi la cui importazione è vietata, l’UDSC lo comunica all’USAV.[^83-3]
+
 <sup>3</sup> Su richiesta, l’UDSC fornisce all’autorità cantonale competente informazioni riguardo a tutti i fatti importanti e le consente di esaminare gli atti.
 
-[^83-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^83-2]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^83-1]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^83-2]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^83-3]: Introdotto dalla cifra I dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
 
 #### Art. 84
 
@@ -1472,14 +1623,25 @@ Se ai posti di controllo frontalieri autorizzati constata che vi sono animali o 
 
 <sup>1</sup> Se gli animali e i prodotti animali non soddisfano le condizioni di importazione, transito o esportazione, l’autorità cantonale competente adotta le misure necessarie per proteggere la salute umana e animale.
 
+<sup>1bis</sup> Se un’autorità cantonale constata che vi sono pellicce, prodotti di pellicceria o prodotti derivati dai pinnipedi la cui importazione è vietata, l’UDSC lo comunica all’USAV.[^84-1]
+
 <sup>2</sup> Se privati o organi diversi dall’UDSC notificano l’importazione o il transito illegale di animali o prodotti animali nel territorio d’importazione, l’autorità cantonale competente ne informa l’UDSC.
 
 <sup>3</sup> Per quanto riguarda gli animali, l’autorità cantonale competente può disporre in particolare il sequestro, il respingimento o la soppressione. L’autorità che ha ordinato un sequestro ricovera gli animali sequestrati in un luogo da essa designato, a spese e a rischio dell’autore dell’infrazione.
 
-<sup>4</sup> Nel caso dei prodotti animali, l’autorità cantonale competente ordina il sequestro, il respingimento, il trattamento, la trasformazione, un’altra misura per eliminare le lacune o la confisca dell’intera partita. Per il respingimento, il trattamento, la trasformazione e altre misure per eliminare le lacune sono applicabili per analogia gli articoli 70 e 71. Eventuali successivi controlli veterinari di confine devono essere preventivamente concordati con il servizio veterinario di confine. La competente autorità cantonale smaltisce le partite confiscate conformemente all’OSOAn[^84-1] o ne ordina tale smaltimento.[^84-2]
+<sup>4</sup> Nel caso dei prodotti animali, l’autorità cantonale competente ordina il sequestro, il respingimento, il trattamento, la trasformazione, un’altra misura per eliminare le lacune o la confisca dell’intera partita. Per il respingimento, il trattamento, la trasformazione e altre misure per eliminare le lacune sono applicabili per analogia gli articoli 70 e 71. Eventuali successivi controlli veterinari di confine devono essere preventivamente concordati con il servizio veterinario di confine. La competente autorità cantonale smaltisce le partite confiscate conformemente all’OSOAn[^84-2] o ne ordina tale smaltimento.[^84-3]
 
-[^84-1]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
-[^84-2]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^84-1]: Introdotto dalla cifra I dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
+[^84-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^84-3]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+
+#### Art. 84a
+
+**Misure dell’USAV nel caso di importazione illegale di pellicce, prodotti di pellicceria o prodotti derivati dai pinnipedi**[^84a-1]
+
+Nel caso di notifiche ai sensi dell’articolo 83 capoverso 2<sup>bis</sup> o 84 capoverso 1<sup>bis</sup>, l’USAV può prelevare campioni per identificare pellicce, prodotti di pellicceria o prodotti derivati dai pinnipedi. Respinge le pellicce, i prodotti di pellicceria e i prodotti derivati dai pinnipedi la cui importazione è vietata.
+
+[^84a-1]: Introdotto dalla cifra I dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
 
 ### Sezione 4: Quarantena e sorveglianza veterinaria ufficiale
 
@@ -1565,7 +1727,7 @@ I veterinari di confine devono effettuare personalmente il controllo fisico:
 
 <sup>3</sup> Possono incaricare gli assistenti SVC dello svolgimento di tutti gli altri controlli. Sono responsabili della decisione finale, fatte salve quelle concernenti le partite di cui all’articolo 92 capoverso 2.
 
-[^91-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^91-1]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 92
 
@@ -1585,7 +1747,7 @@ Se controllano le seguenti partite, sono responsabili della decisione finale:
 - a. partite di prodotti della pesca;
 - b. partite di molluschi bivalvi vivi, echinodermi vivi, tunicati vivi e gasteropodi marini vivi destinati al consumo umano.
 
-[^92-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^92-1]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 93
 
@@ -1603,9 +1765,9 @@ Se controllano le seguenti partite, sono responsabili della decisione finale:
 
 [^93-1]: [RS 916.402](https://fedlex.data.admin.ch/eli/cc/2011/803)
 [^93-2]: Regolamento delegato (UE) 2019/1081 della Commissione, dell’8 marzo 2019, che stabilisce norme relative a prescrizioni specifiche in materia di formazione del personale ai fini dell’esecuzione di determinati controlli fisici presso i posti di controllo frontalieri, GU L 171 del 26.6.2019, pag. 1.
-[^93-3]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^93-4]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^93-5]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^93-3]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^93-4]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^93-5]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 94
 
@@ -1647,7 +1809,7 @@ Su richiesta, l’UDSC fornisce all’USAV informazioni riguardo a tutti i fatti
 
 <sup>2</sup> Se l’ampliamento delle superfici al suolo o la messa a disposizione dei locali non avvengono in tempo utile, fino all’ampliamento o alla messa a disposizione il posto di controllo frontaliero non è più riconosciuto per le categorie di animali e prodotti animali in questione. L’esercente dell’aeroporto deve informare immediatamente le compagnie aeree al riguardo.
 
-[^97-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^97-1]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 ### Sezione 3: Sistema informatico TRACES
 
@@ -1671,9 +1833,9 @@ Devono essere registrate in TRACES le seguenti autorità, istituzioni e persone:
 
 <sup>3</sup> Le autorità, le istituzioni e le persone registrate devono comunicare senza indugio all’USAV i cambiamenti d’indirizzo.[^98-3]
 
-[^98-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^98-2]: Introdotta dal n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^98-3]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^98-1]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^98-2]: Introdotta della cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^98-3]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 #### Art. 99
 
@@ -1688,7 +1850,7 @@ Hanno accesso a TRACES le persone che soddisfanno le condizioni seguenti:
 
 <sup>2</sup> Le persone hanno accesso a TRACES per quanto necessario all’adempimento dei loro compiti.
 
-[^99-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^99-1]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 99a
 
@@ -1700,7 +1862,7 @@ Hanno accesso a TRACES le persone che soddisfanno le condizioni seguenti:
 
 <sup>3</sup> Le autorità possono trattare i dati delle partite nella misura in cui rientrano nel loro ambito di competenza.
 
-[^99a-1]: Introdotto dal n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^99a-1]: Introdotto della cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 100
 
@@ -1710,7 +1872,7 @@ Hanno accesso a TRACES le persone che soddisfanno le condizioni seguenti:
 
 <sup>2</sup> I responsabili TRACES dei servizi cantonali organizzano i corsi di formazione per i veterinari ufficiali e gli ispettori cantonali delle derrate alimentari che nell’ambito della loro attività utilizzano TRACES.
 
-[^100-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^100-1]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 101
 
@@ -1726,7 +1888,7 @@ Hanno accesso a TRACES le persone che soddisfanno le condizioni seguenti:
 
 Per il confronto elettronico dei dati relativi alle partite importate TRACES può essere collegato con il sistema «e-dec».
 
-[^101a-1]: Introdotto dal n. I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
+[^101a-1]: Introdotto della cifra I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
 
 #### Art. 102
 
@@ -1740,7 +1902,7 @@ Per il confronto elettronico dei dati relativi alle partite importate TRACES pu�
 
 [^chap7-sec4-1]
 
-[^chap7-sec4-1]: Introdotta dal n. I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
+[^chap7-sec4-1]: Introdotta della cifra I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
 
 #### Art. 102a
 
@@ -1781,7 +1943,7 @@ Il sistema informatico OITE contiene i seguenti dati in relazione all’importaz
 
 [^102d102h-1]
 
-[^102d102h-1]: Abrogati dal n. I dell’O del 31 mag. 2024, con effetto dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^102d102h-1]: Abrogati della cifra I dell’O del 31 mag. 2024, con effetto dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 102i
 
@@ -1793,7 +1955,7 @@ Per il confronto elettronico dei dati relativi alle partite importate il sistema
 
 [^chap7-sec5-1]
 
-[^chap7-sec5-1]: Introdotta dal n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^chap7-sec5-1]: Introdotta della cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 102j
 
@@ -1829,7 +1991,7 @@ E-Cert contiene i seguenti dati sulle partite destinate all’esportazione:
 
 [^chap7-sec6-1]
 
-[^chap7-sec6-1]: Introdotta dal n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^chap7-sec6-1]: Introdotta della cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 102m
 
@@ -1901,8 +2063,8 @@ Sono a carico dell’importatore le seguenti tasse e costi relativi alle importa
 <sup>4</sup> I costi di custodia di cui all’articolo 24 capoverso 3 vengono fatturati alla persona soggetta all’obbligo di dichiarazione.
 
 [^103-1]: [RS 916.472](https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727)
-[^103-2]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^103-3]: Introdotta dal n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^103-2]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^103-3]: Introdotta della cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 #### Art. 104
 
@@ -1935,7 +2097,7 @@ I Cantoni possono riscuotere tasse conformemente al diritto cantonale per presta
 <sup>3</sup> La procedura delle autorità cantonali d’esecuzione è disciplinata dal diritto procedurale del rispettivo Cantone.
 
 [^107-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^107-2]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^107-2]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 #### Art. 108
 
@@ -1951,7 +2113,7 @@ Il veterinario cantonale o il chimico cantonale responsabile per la disposizione
 
 <sup>2</sup> Il veterinario di confine notifica all’USAV le infrazioni riscontrate presso i posti d’ispezione frontalieri autorizzati.
 
-[^108-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2017, in vigore dal 1° mag. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
+[^108-1]: Nuovo testo giusta la cifra I dell’O del 3 mar. 2017, in vigore dal 1° mag. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
 
 #### Art. 109
 
@@ -1967,7 +2129,7 @@ Il veterinario cantonale o il chimico cantonale responsabile per la disposizione
 
 [^109-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^109-2]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
-[^109-3]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^109-3]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 ## Capitolo 10: Disposizioni finali
 
@@ -2022,7 +2184,15 @@ L’abrogazione e la modifica di altri atti normativi sono disciplinate nell’a
 
 I certificati sanitari secondo gli articoli 48–50 per l’esportazione di animali, prodotti animali e derrate alimentari verso Paesi terzi, per cui in E‑Cert esiste un modello, possono essere generati ed elaborati in forma cartacea soltanto fino al 31 dicembre 2024.
 
-[^114-1]: Introdotto dal n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^114-1]: Introdotto della cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+
+#### Art. 115
+
+**Disposizione transitoria della modifica del 28 maggio 2025**[^115-1]
+
+Le pellicce e i prodotti di pellicceria non contemplati dagli articoli 10*c* o 10*d* possono essere importati fino al 30 giugno 2027 e venduti fino al 30 giugno 2029.
+
+[^115-1]: Introdotto dalla cifra I dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
 
 Allegato
 
@@ -2044,7 +2214,7 @@ I seguenti atti normativi sono modificati come segue:
 
 ...[^annexu1-lvlu1-4]
 
-[^annexu1-lvlu1-1]: [[RU 2007 1847](https://fedlex.data.admin.ch/eli/oc/2007/269); [2008 2985](https://fedlex.data.admin.ch/eli/oc/2008/416)all. 6 n. II 1, [4157](https://fedlex.data.admin.ch/eli/oc/2008/592), [5197](https://fedlex.data.admin.ch/eli/oc/2008/732); [2009 1567](https://fedlex.data.admin.ch/eli/oc/2009/227); [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 n. II 6, [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)all. 2 n. II 7; [2012 2855](https://fedlex.data.admin.ch/eli/oc/2012/334); [2013 949](https://fedlex.data.admin.ch/eli/oc/2013/194), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 15; [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)all. 3 n. II 10, [2243](https://fedlex.data.admin.ch/eli/oc/2014/376)all. n. 3]
-[^annexu1-lvlu1-2]: [[RU 2007 2743](https://fedlex.data.admin.ch/eli/oc/2007/360); [2008 4167](https://fedlex.data.admin.ch/eli/oc/2008/593), [4867](https://fedlex.data.admin.ch/eli/oc/2008/679); [2012 2861](https://fedlex.data.admin.ch/eli/oc/2012/336), [6407](https://fedlex.data.admin.ch/eli/oc/2012/763)all. 2 n. 3; [2014 4521](https://fedlex.data.admin.ch/eli/oc/2014/755)all. 6 n. II 3]
-[^annexu1-lvlu1-3]: [[RU 2008 4173](https://fedlex.data.admin.ch/eli/oc/2008/594), [4869](https://fedlex.data.admin.ch/eli/oc/2008/680); [2009 1569](https://fedlex.data.admin.ch/eli/oc/2009/228); [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 n. II 7; [2012 2863](https://fedlex.data.admin.ch/eli/oc/2012/337); [2015 1827](https://fedlex.data.admin.ch/eli/oc/2015/353)II]
+[^annexu1-lvlu1-1]: [[RU 2007 1847](https://fedlex.data.admin.ch/eli/oc/2007/269); [2008 2985](https://fedlex.data.admin.ch/eli/oc/2008/416)all. 6 cifra II n. 1, [4157](https://fedlex.data.admin.ch/eli/oc/2008/592), [5197](https://fedlex.data.admin.ch/eli/oc/2008/732); [2009 1567](https://fedlex.data.admin.ch/eli/oc/2009/227); [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 cifra II n. 6, [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)all. 2 cifra II n. 7; [2012 2855](https://fedlex.data.admin.ch/eli/oc/2012/334); [2013 949](https://fedlex.data.admin.ch/eli/oc/2013/194), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)cifra I n. 15; [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)all. 3 cifra II n. 10, [2243](https://fedlex.data.admin.ch/eli/oc/2014/376)all. n. 3]
+[^annexu1-lvlu1-2]: [[RU 2007 2743](https://fedlex.data.admin.ch/eli/oc/2007/360); [2008 4167](https://fedlex.data.admin.ch/eli/oc/2008/593), [4867](https://fedlex.data.admin.ch/eli/oc/2008/679); [2012 2861](https://fedlex.data.admin.ch/eli/oc/2012/336), [6407](https://fedlex.data.admin.ch/eli/oc/2012/763)all. 2 n. 3; [2014 4521](https://fedlex.data.admin.ch/eli/oc/2014/755)all. 6 cifra II n. 3]
+[^annexu1-lvlu1-3]: [[RU 2008 4173](https://fedlex.data.admin.ch/eli/oc/2008/594), [4869](https://fedlex.data.admin.ch/eli/oc/2008/680); [2009 1569](https://fedlex.data.admin.ch/eli/oc/2009/228); [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 cifra II n. 7; [2012 2863](https://fedlex.data.admin.ch/eli/oc/2012/337); [2015 1827](https://fedlex.data.admin.ch/eli/oc/2015/353)II]
 [^annexu1-lvlu1-4]: Le mod. possono essere consultate alla [RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843).

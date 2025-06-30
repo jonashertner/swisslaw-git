@@ -4,11 +4,11 @@ title: "Ordonnance du 18 novembre 2015 réglant les échanges d'importation, de 
 short: OITE-PT
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/843"
 language: fr
-version: 2024-07-01
+version: 2025-07-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2015-843-20240701-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2015-843-20250701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20240701/fr"
 
 (OITE-PT)
 
-du 18 novembre 2015 (État le 1<sup>er</sup> juillet 2024)
+du 18 novembre 2015 (État le 1<sup>er</sup> juillet 2025)
 
 Le Conseil fédéral suisse,
 
@@ -199,6 +199,24 @@ Les produits animaux ci-après ne peuvent être importés que si leur établisse
 
 <sup>3</sup> Le DFI désigne les produits visés à l’al. 1, let. a.
 
+### Section 1*a* Animaux de rente traités avec certains médicaments antimicrobiens et produits animaux dérivés
+
+[^chap2-sec1a-1]
+
+[^chap2-sec1a-1]: Introduite par le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
+
+#### Art. 8a
+
+[^8a-1]
+
+[^8a-1]: Entre en vigueur le 3 sept. 2026 ([RO 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
+
+### Section 1*b* Viande de bœuf en provenance des États qui n’interdisent pas l’utilisation d’hormones comme stimulateurs de performance
+
+[^chap2-sec1b-1]
+
+[^chap2-sec1b-1]: Introduit par le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
+
 #### Art. 9
 
 **Conditions dérogatoires concernant l’importation de viandes de bœuf de certaines catégories en provenance des États qui n’interdisent pas l’utilisation de substances à action hormonale comme stimulateurs de performances**
@@ -240,9 +258,129 @@ L’importateur de la viande de bœuf visée à l’al. 1 et tous les acquéreur
 
 [^10-1]: [RS 916.51](https://fedlex.data.admin.ch/eli/cc/2003/738)
 
+### Section 1*c* Fourrures et produits de la pelleterie
+
+[^chap2-sec1c-1]
+
+[^chap2-sec1c-1]: Introduite par le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
+
 #### Art. 10a
 
-**Interdiction d’importer des produits dérivés de pinnipèdes**[^10a-1]
+**Champ d’application**
+
+La présente section s’applique aux fourrures et aux produits de la pelleterie au sens de l’art. 2 de l’ordonnance du 7 décembre 2012 sur la déclaration des fourrures[^10a-1].
+
+[^10a-1]: [RS 944.022](https://fedlex.data.admin.ch/eli/cc/2013/114)
+
+#### Art. 10b
+
+**Interdiction d’importer des fourrures et des produits de la pelleterie obtenus par des méthodes cruelles pour les animaux**
+
+<sup>1</sup> L’importation de fourrures et de produits de la pelleterie obtenus par des méthodes cruelles pour les animaux est interdite.
+
+<sup>2</sup>
+
+Sont cruelles les méthodes qui altèrent fortement le bien-être des animaux utilisés en vue d’obtenir des fourrures et des produits de la pelleterie. Sont notamment considérées comme telles:
+
+- a. la détention d’animaux en cage sur sol grillagé;
+- b. la chasse d’animaux à l’aide de pièges à mâchoires, de collets ou de pièges sous l’eau destinés à entraîner la noyade.
+
+#### Art. 10c
+
+**Dérogations à l’interdiction d’importer des fourrures et des produits de la pelleterie obtenus par des méthodes cruelles pour les animaux**
+
+<sup>1</sup>
+
+L’importation de fourrures et de produits de la pelleterie obtenus par des méthodes cruelles pour les animaux est autorisée:
+
+- a. pour un usage personnel;
+- b. en tant que bien de déménagement;
+- c. à des fins d’exposition ou de recherche non commerciales.
+
+<sup>2</sup> Est considéré comme usage personnel le fait pour une personne d’importer, dans le trafic voyageurs, des fourrures ou des produits de la pelleterie en les portant sur elle ou en les emportant dans ses affaires et de s’en servir comme objets personnels au quotidien.
+
+#### Art. 10d
+
+**Condition applicable à l’importation de fourrures et de produits de la pelleterie qui n’ont pas été obtenus par des méthodes cruelles pour les animaux**
+
+L’importation de fourrures et de produits de la pelleterie qui n’ont pas été obtenus par des méthodes cruelles pour les animaux est autorisée lorsque les fourrures et les produits de la pelleterie sont accompagnés d’une attestation indiquant qu’ils proviennent d’une entreprise de production certifiée telle que visée à l’art. 10*e*.
+
+#### Art. 10e
+
+**Programme de certification**
+
+<sup>1</sup> Sont certifiées les entreprises qui satisfont au programme de certification de l’OSAV pour la production de fourrures et de produits de la pelleterie.
+
+<sup>2</sup> Le programme de certification se fonde sur la norme SN EN ISO/IEC 17067:2013, Évaluation de la conformité – Éléments fondamentaux de la certification de produits et lignes directrices pour les programmes de certification de produits[^10e-1].
+
+<sup>3</sup>
+
+Il fixe ce qui suit:
+
+- a. les conditions garantissant que les fourrures et les produits de la pelleterie ne sont pas obtenus par des méthodes cruelles pour les animaux;
+- b. les points de contrôle à passer en revue par l’organisme de certification;
+- c. les mesures à prendre si une entreprise de production ne respecte pas en tous points le programme de certification.
+
+<sup>4</sup> L’OSAV publie le programme de certification sur son site internet.
+
+[^10e-1]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation, Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
+
+#### Art. 10f
+
+**Reconnaissance des organismes de certification**
+
+<sup>1</sup> L’OSAV reconnaît un organisme de certification national si celui-ci a été accrédité par le Service d’accréditation suisse en tant qu’organisme d’évaluation de la conformité pour le programme de certification de l’OSAV, conformément à la norme SN EN ISO/IEC 17065:2012, Évaluation de la conformité – Exigences pour les organismes certifiant les produits, les procédés et les services[^10f-1].
+
+<sup>2</sup>
+
+Il reconnaît un organisme de certification étranger si celui-ci a été accrédité en tant qu’organisme d’évaluation de la conformité pour le programme de certification de l’OSAV, conformément à la norme SN EN ISO/IEC 17065:2012, Évaluation de la conformité – Exigences pour les organismes certifiant les produits, les procédés et les services. L’accréditation doit avoir été délivrée par:
+
+- a. un organisme d’accréditation étranger membre de l’organisation *European cooperation for Accreditation*, ou
+- b. un organisme d’accréditation reconnu par la Suisse en vertu d’un traité international.
+
+<sup>3</sup> L’OSAV publie la liste des organismes de certification reconnus sur son site internet.
+
+<sup>4</sup> Si les conditions nécessaires à la reconnaissance ne sont plus remplies, l’organisme de certification concerné en informe l’OSAV sans délai.
+
+[^10f-1]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation, Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
+
+#### Art. 10g
+
+**Tâches et obligations des organismes de certification**
+
+<sup>1</sup> L’organisme de certification peut certifier une entreprise qui produit des fourrures et des produits de la pelleterie uniquement si un contrôle sans préavis permet d’attester que la production satisfait en tous points au programme de certification.
+
+<sup>2</sup> Après l’octroi de la certification, il effectue chaque année un contrôle sans préavis pour vérifier que l’entreprise de production satisfait toujours en tous points au programme de certification.
+
+<sup>3</sup> S’il constate que l’entreprise de production ne satisfait plus en tous points au programme de certification, il prend les mesures prescrites par ledit programme. Dans les cas graves, il retire la certification.
+
+<sup>4</sup> Il rédige un rapport sur chaque contrôle effectué et le soumet, sur demande, à l’OSAV.
+
+<sup>5</sup> Il rédige chaque année, à l’intention de l’OSAV, un rapport sur l’ensemble des contrôles effectués.
+
+#### Art. 10h
+
+**Procédure douanière**
+
+<sup>1</sup> La procédure douanière à l’importation de fourrures et de produits de la pelleterie est régi par la législation sur les douanes.
+
+<sup>2</sup> Quiconque importe ou fait importer des fourrures ou des produits de la pelleterie qui peuvent l’être uniquement accompagnés de l’attestation visée à l’art. 10*d* doit fournir dans la déclaration en douane les indications nécessaires en lien avec l’attestation.
+
+#### Art. 10i
+
+**Traçabilité**
+
+La traçabilité des fourrures et des produits de la pelleterie remis aux consommateurs doit être garantie depuis leur production jusqu’à leur remise.
+
+### Section 1*d* Interdiction d’importer des produits dérivés de pinnipèdes
+
+[^chap2-sec1d-1]
+
+[^chap2-sec1d-1]: Introduit par le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
+
+#### Art. 10j
+
+**Interdiction d’importer des produits dérivés de pinnipèdes**[^10j-1]
 
 <sup>1</sup> L’importation de produits dérivés de pinnipèdes est interdite.
 
@@ -254,17 +392,24 @@ Sont admis:
 
   l’importation de produits dérivés de pinnipèdes qui:
 
-  - 1\. proviennent des formes de chasse visées à l’art. 3, par. 1, du règlement (CE) n<sup>o</sup> 1007/2009[^10a-2], et
-  - 2\.[^10a-3] sont accompagnés d’une attestation sur papier conforme à l’art. 4 du règlement d’exécution (UE) 2015/1850[^10a-4] et au modèle annexé à celui-ci, délivrée par un organisme reconnu par la Commission européenne;
+  - 1\. proviennent des formes de chasse visées à l’art. 3, par. 1, du règlement (CE) n<sup>o</sup> 1007/2009[^10j-2], et
+  - 2\.[^10j-3] sont accompagnés d’une attestation sur papier conforme à l’art. 4 du règlement d’exécution (UE) 2015/1850[^10j-4] et au modèle annexé à celui-ci, délivrée par un organisme reconnu par la Commission européenne;
 
 - b. les produits dérivés de pinnipèdes emportés par un voyageur pour son usage personnel;
 - c. l’importation de produits dérivés de pinnipèdes faisant partie des biens d’un déménagement;
-- d. l’importation de produits dérivés de pinnipèdes destinés à des fins d’exposition ou de recherche.
+- d.[^10j-5] l’importation de produits dérivés de pinnipèdes destinés à des fins d’exposition ou de recherche non commerciales.
 
-[^10a-1]: Introduit par le ch. I de l’O du 3 mars 2017, en vigueur depuis le 1<sup>er</sup> avr. 2017 ([RO 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
-[^10a-2]: Règlement (CE) n<sup>o</sup> 1007/2009 du Parlement européen et du Conseil du 16 septembre 2009 sur le commerce des produits dérivés du phoque, JO L 286 du 31.10.2009, p. 36; modifié en dernier par le règlement (UE) 2015/1775, JO L 262 du 7.10.2015, p. 1.
-[^10a-3]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2020, en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^10a-4]: Règlement d’exécution (UE) 2015/1850 de la Commission du 13 octobre 2015 portant modalités d’application du règlement (CE) n<sup>o</sup> 1007/2009 du Parlement européen et du Conseil sur le commerce des produits dérivés du phoque, version selon JO L 271 du 16.10.2015, p. 1
+[^10j-1]: Anciennement art. 10*a*. Introduit par le ch. I de l’O du 3 mars 2017, en vigueur depuis le 1<sup>er</sup> avr. 2017 ([RO 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
+[^10j-2]: Règlement (CE) n<sup>o</sup> 1007/2009 du Parlement européen et du Conseil du 16 septembre 2009 sur le commerce des produits dérivés du phoque, JO L 286 du 31.10.2009, p. 36; modifié en dernier par le règlement (UE) 2015/1775, JO L 262 du 7.10.2015, p. 1.
+[^10j-3]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2020, en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^10j-4]: Règlement d’exécution (UE) 2015/1850 de la Commission du 13 octobre 2015 portant modalités d’application du règlement (CE) n<sup>o</sup> 1007/2009 du Parlement européen et du Conseil sur le commerce des produits dérivés du phoque, version selon JO L 271 du 16.10.2015, p. 1
+[^10j-5]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
+
+### Section 1*e* Réimportation, échantillons d’exposition et prélèvements, trafic voyageurs, lettres et colis
+
+[^chap2-sec1e-1]
+
+[^chap2-sec1e-1]: Introduit par le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
 
 #### Art. 11
 
@@ -1464,10 +1609,13 @@ Si l’OFDF constate aux postes de contrôle frontaliers agréés que des animau
 
 <sup>2</sup> S’il constate en dehors des postes de contrôle frontaliers agréés que des animaux ou des produits animaux ne remplissent pas les conditions d’importation, de transit ou d’exportation, il en informe l’autorité compétente du canton sur le territoire duquel le contrôle a été effectué.[^83-2]
 
+<sup>2bis</sup> S’il constate, à l’importation des fourrures, des produits de la pelleterie ou des produits dérivés de pinnipèdes dont l’importation est interdite, il le signale à l’OSAV.[^83-3]
+
 <sup>3</sup> Il informe l’autorité cantonale compétente, sur demande, de tous les faits essentiels et lui donne accès aux dossiers.
 
 [^83-1]: Nouvelle teneur selon le ch. I de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 [^83-2]: Nouvelle teneur selon le ch. I de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^83-3]: Introduit par le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
 
 #### Art. 84
 
@@ -1475,14 +1623,25 @@ Si l’OFDF constate aux postes de contrôle frontaliers agréés que des animau
 
 <sup>1</sup> Si des animaux ou des produits animaux ne remplissent pas les conditions d’importation, de transit ou d’exportation, l’autorité cantonale compétente prend les mesures nécessaires pour protéger la santé humaine et animale.
 
+<sup>1bis</sup> Si l’autorité cantonale constate des fourrures, des produits de la pelleterie ou des produits dérivés de pinnipèdes dont l’importation est interdite, elle le signale à l’OSAV.[^84-1]
+
 <sup>2</sup> Si des particuliers ou d’autres organes que l’OFDF signalent des animaux ou des produits animaux importés ou transitant illégalement dans le territoire d’importation, l’autorité cantonale compétente en informe l’OFDF.
 
 <sup>3</sup> Dans les cas où des animaux sont concernés, l’autorité cantonale compétente peut émettre une décision exigeant notamment le séquestre, le refoulement ou l’euthanasie des animaux. L’autorité qui a ordonné un séquestre héberge les animaux séquestrés à l’endroit qu’elle aura désigné aux frais et aux risques de la personne qui a commis l’infraction.
 
-<sup>4</sup> S’il s’agit de produits animaux, l’autorité cantonale compétente ordonne par voie de décision le séquestre, le refoulement, le traitement, la transformation, une autre mesure permettant de corriger la non-conformité ou la confiscation du lot entier. Les art. 70 et 71 s’appliquent par analogie au refoulement, au traitement, à la transformation et aux autres mesures permettant de corriger la non-conformité. Le cas échéant, les contrôles vétérinaires de frontière ultérieurs doivent être discutés au préalable avec le Service vétérinaire de frontière. L’autorité cantonale compétente doit éliminer les lots confisqués conformément aux dispositions de l’OSPA[^84-1] ou en ordonner l’élimination.[^84-2]
+<sup>4</sup> S’il s’agit de produits animaux, l’autorité cantonale compétente ordonne par voie de décision le séquestre, le refoulement, le traitement, la transformation, une autre mesure permettant de corriger la non-conformité ou la confiscation du lot entier. Les art. 70 et 71 s’appliquent par analogie au refoulement, au traitement, à la transformation et aux autres mesures permettant de corriger la non-conformité. Le cas échéant, les contrôles vétérinaires de frontière ultérieurs doivent être discutés au préalable avec le Service vétérinaire de frontière. L’autorité cantonale compétente doit éliminer les lots confisqués conformément aux dispositions de l’OSPA[^84-2] ou en ordonner l’élimination.[^84-3]
 
-[^84-1]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
-[^84-2]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2020, en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^84-1]: Introduit par le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
+[^84-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^84-3]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2020, en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+
+#### Art. 84a
+
+**Mesures à prendre par l’OSAV en cas d’importation illégale de fourrures, de produits de la pelleterie ou de produits dérivés de pinnipèdes**[^84a-1]
+
+Lors d’un signalement au sens des art. 83, al. 2<sup>bis</sup>, ou 84, al. 1<sup>bis</sup>, l’OSAV peut prélever des échantillons aux fins d’identifier les fourrures, les produits de la pelleterie ou les produits dérivés de pinnipèdes en cause. Il refoule les fourrures, les produits de la pelleterie et les produits dérivés de pinnipèdes dont l’importation est interdite.
+
+[^84a-1]: Introduit par le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
 
 ### Section 4 Quarantaine et surveillance vétérinaire officielle
 
@@ -2026,6 +2185,14 @@ L’abrogation et la modification d’autres actes sont réglées dans l’annex
 Les certificats sanitaires établis conformément aux art. 48 à 50 et pour lesquels des modèles sont disponibles dans eCert pour l’exportation d’animaux et de produits animaux vers les pays tiers peuvent encore être établis et traités sur papier jusqu’au 31 décembre 2024.
 
 [^114-1]: Introduit par le ch. I de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+
+#### Art. 115
+
+**Disposition transitoire de la modification du 28 mai 2025**[^115-1]
+
+Les fourrures et les produits de la pelleterie qui ne relèvent pas de l’art. 10*c* ou 10*d* peuvent encore être importés jusqu’au 30 juin 2027 et vendus jusqu’au 30 juin 2029.
+
+[^115-1]: Introduit par le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
 
 Annexe
 

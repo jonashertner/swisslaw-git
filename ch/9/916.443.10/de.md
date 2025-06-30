@@ -4,11 +4,11 @@ title: "Verordnung vom 18. November 2015 über die Ein-, Durch- und Ausfuhr von 
 short: EDAV-DS
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/843"
 language: de
-version: 2024-07-01
+version: 2025-07-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2015-843-20240701-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2015-843-20250701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20240701/de"
 
 (EDAV-DS)
 
-vom 18. November 2015 (Stand am 1. Juli 2024)
+vom 18. November 2015 (Stand am 1. Juli 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -198,6 +198,24 @@ Die folgenden Tierprodukte dürfen nur eingeführt werden, wenn sie in einen Bes
 
 <sup>3</sup> Das EDI bezeichnet die Produkte nach Absatz 1 Buchstabe a.
 
+### 1*a*. Abschnitt: Nutztiere, die mit bestimmten antimikrobiellen Arzneimitteln behandelt worden sind, und aus diesen Nutztieren gewonnene Tierprodukte
+
+[^chap2-sec1a-1]
+
+[^chap2-sec1a-1]: Eingefügt durch Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
+
+#### Art. 8a
+
+[^8a-1]
+
+[^8a-1]: In Kraft: 3. Sept. 2026.
+
+### 1*b*. Abschnitt: Rindfleisch aus Staaten ohne Verbot von hormonellen Leistungsförderern
+
+[^chap2-sec1b-1]
+
+[^chap2-sec1b-1]: Eingefügt durch Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
+
 #### Art. 9
 
 **Ausnahmebedingungen für die Einfuhr von bestimmtem Rindfleisch aus Staaten ohne Verbot von hormonellen Stoffen als Leistungsförderer**
@@ -239,9 +257,129 @@ Der Importeur von Rindfleisch nach Absatz 1 und die nachgelagerten Abnehmer müs
 
 [^10-1]: [SR 916.51](https://fedlex.data.admin.ch/eli/cc/2003/738)
 
+### 1*c*. Abschnitt: Pelze und Pelzprodukte
+
+[^chap2-sec1c-1]
+
+[^chap2-sec1c-1]: Eingefügt durch Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
+
 #### Art. 10a
 
-**Einfuhrverbot für Robbenprodukte**[^10a-1]
+**Geltungsbereich**
+
+Dieser Abschnitt gilt für Pelze und Pelzprodukte nach Artikel 2 der Pelzdeklarationsverordnung vom 7. Dezember 2012[^10a-1].
+
+[^10a-1]: [SR 944.022](https://fedlex.data.admin.ch/eli/cc/2013/114)
+
+#### Art. 10b
+
+**Einfuhrverbot für Pelze und Pelzprodukte, die mit tierquälerischen Methoden erzeugt wurden**
+
+<sup>1</sup> Die Einfuhr von Pelzen und Pelzprodukten, die mit tierquälerischen Methoden erzeugt wurden, ist verboten.
+
+<sup>2</sup>
+
+Tierquälerische Methoden sind Methoden, bei denen das Wohlergehen der für die Erzeugung der Pelze und Pelzprodukte verwendeten Tiere stark beeinträchtigt wird. Als tierquälerische Methoden gelten insbesondere:
+
+- a. die Haltung der Tiere in Käfigen mit Gitterböden;
+- b. die Jagd von Tieren mit Hilfe von Tellereisen, von Schlingenfallen oder von Fallen unter Wasser, in denen die Tiere ertrinken.
+
+#### Art. 10c
+
+**Ausnahmen vom Einfuhrverbot für Pelze und Pelzprodukte, die mit tierquälerischen Methoden erzeugt wurden**
+
+<sup>1</sup>
+
+Die Einfuhr von Pelzen und Pelzprodukten, die mit tierquälerischen Methoden erzeugt wurden, ist zulässig:
+
+- a. zum Eigengebrauch;
+- b. als Übersiedlungsgut;
+- c. zu nicht kommerziellen Ausstellungs- oder Forschungszwecken.
+
+<sup>2</sup> Eigengebrauch liegt vor, wenn Pelze oder Pelzprodukte von einer Person bei der Einfuhr im Reiseverkehr auf sich getragen oder mitgeführt werden und ihr als persönliche Gegenstände im Alltag dienen.
+
+#### Art. 10d
+
+**Voraussetzung für die Einfuhr von Pelzen und Pelzprodukten, die nicht mit tierquälerischen Methoden erzeugt wurden**
+
+Die Einfuhr von Pelzen und Pelzprodukten, die nicht mit tierquälerischen Methoden erzeugt wurden, ist zulässig, wenn die Pelze und Pelzprodukte von einer Bescheinigung begleitet sind, wonach sie aus einem nach Artikel 10*e* zertifizierten Produktionsbetrieb stammen.
+
+#### Art. 10e
+
+**Zertifizierungsprogramm**
+
+<sup>1</sup> Zertifiziert werden Produktionsbetriebe, die das Zertifizierungsprogramm des BLV für die Erzeugung von Pelzen und Pelzprodukten einhalten.
+
+<sup>2</sup> Das Zertifizierungsprogramm basiert auf der Norm SN EN ISO/IEC 17067:2013, Konformitätsbewertung – Grundlagen der Produktzertifizierung und Leitlinien für Produktzertifizierungsprogramme[^10e-1].
+
+<sup>3</sup>
+
+Es muss Folgendes enthalten:
+
+- a. die Voraussetzungen, die gewährleisten, dass die Pelze und Pelzprodukte nicht mit tierquälerischen Methoden erzeugt werden;
+- b. die einzelnen Kontrollpunkte für die Kontrollen durch die Zertifizierungsstellen;
+- c. die Massnahmen, wenn ein Produktionsbetrieb das Zertifizierungsprogramm nicht vollständig einhält.
+
+<sup>4</sup> Das BLV veröffentlicht das Zertifizierungsprogramm auf seiner Internetseite.
+
+[^10e-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+
+#### Art. 10f
+
+**Anerkennung von Zertifizierungsstellen**
+
+<sup>1</sup> Das BLV anerkennt eine inländische Zertifizierungsstelle, wenn sie von der Schweizerischen Akkreditierungsstelle nach der Norm SN EN ISO/IEC 17065:2012, Konformitätsbewertung – Anforderungen an Stellen, die Produkte, Prozesse und Dienstleistungen zertifizieren[^10f-1], als Konformitätsbewertungsstelle für das Zertifizierungsprogramm des BLV akkreditiert ist.
+
+<sup>2</sup>
+
+Es anerkennt eine ausländische Zertifizierungsstelle, wenn sie über eine Akkreditierung als Konformitätsbewertungsstelle für das Zertifizierungsprogramm des BLV nach der Norm EN ISO/IEC 17065:2012, Konformitätsbewertung – Anforderungen an Stellen, die Produkte, Prozesse und Dienstleistungen zertifizieren, verfügt. Die Akkreditierung muss erteilt worden sein von:
+
+- a. einer ausländischen Akkreditierungsstelle, die Mitglied der European co-operation for Accreditation ist; oder
+- b. einer von der Schweiz gestützt auf ein internationales Abkommen anerkannten Akkreditierungsstelle.
+
+<sup>3</sup> Es veröffentlicht eine Liste mit den anerkannten Zertifizierungsstellen auf seiner Internetseite.
+
+<sup>4</sup> Eine Zertifizierungsstelle muss dem BLV unverzüglich melden, wenn sie die Voraussetzungen für die Anerkennung nicht mehr erfüllt.
+
+[^10f-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+
+#### Art. 10g
+
+**Aufgaben und Pflichten der Zertifizierungsstellen**
+
+<sup>1</sup> Die Zertifizierungsstelle darf einen Produktionsbetrieb für Pelze und Pelzprodukte nur dann zertifizieren, wenn eine unangemeldete Kontrolle ergeben hat, dass bei der Erzeugung der Pelze und Pelzprodukte das Zertifizierungsprogramm vollständig eingehalten wird.
+
+<sup>2</sup> Sie muss nach Erteilung der Zertifizierung jährlich durch eine unangemeldete Kontrolle überprüfen, ob der Produktionsbetrieb das Zertifizierungsprogramm noch immer vollständig einhält.
+
+<sup>3</sup> Stellt sie fest, dass der Produktionsbetrieb das Zertifizierungsprogramm nicht mehr vollständig einhält, so muss sie die im Zertifizierungsprogramm vorgeschriebenen Massnahmen treffen. In schwerwiegenden Fällen muss sie dem Produktionsbetrieb die Zertifizierung entziehen.
+
+<sup>4</sup> Sie muss über jede Kontrolle einen Bericht verfassen und ihn auf Verlangen dem BLV vorlegen.
+
+<sup>5</sup> Sie muss zuhanden des BLV jährlich einen Bericht über alle durchgeführten Kontrollen verfassen.
+
+#### Art. 10h
+
+**Zollveranlagungsverfahren**
+
+<sup>1</sup> Das Zollveranlagungsverfahren bei der Einfuhr von Pelzen und Pelzprodukten richtet sich nach der Zollgesetzgebung.
+
+<sup>2</sup> Wer Pelze oder Pelzprodukte einführt oder einführen lässt, deren Einfuhr nur mit einer Bescheinigung nach Artikel 10*d* zulässig ist, muss in der Zollanmeldung die notwendigen Angaben zu dieser Bescheinigung machen.
+
+#### Art. 10i
+
+**Rückverfolgbarkeit**
+
+Pelze und Pelzprodukte, die an Konsumentinnen und Konsumenten abgegeben werden, müssen von der Erzeugung bis zur Abgabe zurückverfolgt werden können.
+
+### 1*d*. Abschnitt: Einfuhrverbot für Robbenprodukte
+
+[^chap2-sec1d-1]
+
+[^chap2-sec1d-1]: Eingefügt durch Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
+
+#### Art. 10j
+
+**Einfuhrverbot für Robbenprodukte**[^10j-1]
 
 <sup>1</sup> Die Einfuhr von Robbenprodukten ist verboten.
 
@@ -253,17 +391,24 @@ Zulässig ist:
 
   die Einfuhr von Robbenprodukten, die:
 
-  - 1\. aus einer Jagd im Sinn von Artikel 3 Absatz 1 der Verordnung (EG) Nr. 1007/2009[^10a-2] stammen, und
-  - 2\.[^10a-3] begleitet sind von einer Bescheinigung in Papierform nach Artikel 4 und dem Anhang der Durchführungsverordnung (EU) 2015/1850[^10a-4], die von einer von der EU-Kommission anerkannten Stelle ausgestellt worden ist;
+  - 1\. aus einer Jagd im Sinn von Artikel 3 Absatz 1 der Verordnung (EG) Nr. 1007/2009[^10j-2] stammen, und
+  - 2\.[^10j-3] begleitet sind von einer Bescheinigung in Papierform nach Artikel 4 und dem Anhang der Durchführungsverordnung (EU) 2015/1850[^10j-4], die von einer von der EU-Kommission anerkannten Stelle ausgestellt worden ist;
 
 - b. das Mitführen von Robbenprodukten zum Eigengebrauch;
 - c. die Einfuhr von Robbenprodukten als Übersiedlungsgut;
-- d. die Einfuhr von Robbenprodukten zu Ausstellungs- oder Forschungszwecken.
+- d.[^10j-5] die Einfuhr von Robbenprodukten zu nicht kommerziellen Ausstellungs- oder Forschungszwecken.
 
-[^10a-1]: Eingefügt durch Ziff. I der V vom 3. März 2017, in Kraft seit 1. April 2017 ([AS 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
-[^10a-2]: Verordnung (EG) Nr. 1007/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 über den Handel mit Robbenerzeugnissen, ABl. L 286 vom 31.10.2009, S. 36; zuletzt geändert durch Verordnung (EU) 2015/1775, ABl. L 262 vom 7.10.2015, S. 1.
-[^10a-3]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^10a-4]: Durchführungsverordnung (EU) 2015/1850 der Kommission vom 13. Oktober 2015 mit Durchführungsvorschriften zur Verordnung (EG) Nr. 1007/2009 des Europäischen Parlaments und des Rates über den Handel mit Robbenerzeugnissen, Fassung gemäss ABl. L 271 vom 16.10.2015, S. 1.
+[^10j-1]: Ursprünglich Art. 10*a*. Eingefügt durch Ziff. I der V vom 3. März 2017, in Kraft seit 1. April 2017 ([AS 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
+[^10j-2]: Verordnung (EG) Nr. 1007/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 über den Handel mit Robbenerzeugnissen, ABl. L 286 vom 31.10.2009, S. 36; zuletzt geändert durch Verordnung (EU) 2015/1775, ABl. L 262 vom 7.10.2015, S. 1.
+[^10j-3]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^10j-4]: Durchführungsverordnung (EU) 2015/1850 der Kommission vom 13. Oktober 2015 mit Durchführungsvorschriften zur Verordnung (EG) Nr. 1007/2009 des Europäischen Parlaments und des Rates über den Handel mit Robbenerzeugnissen, Fassung gemäss ABl. L 271 vom 16.10.2015, S. 1.
+[^10j-5]: Fassung gemäss Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
+
+### 1*e*. Abschnitt: Wiedereinfuhr, Warenmuster und Proben, Reiseverkehr sowie Brief- und Paketsendungen
+
+[^chap2-sec1e-1]
+
+[^chap2-sec1e-1]: Eingefügt durch Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
 
 #### Art. 11
 
@@ -1460,10 +1605,13 @@ Stellt das BAZG an zugelassenen Grenzkontrollstellen Tiere oder Tierprodukte fes
 
 <sup>2</sup> Stellt das BAZG ausserhalb von zugelassenen Grenzkontrollstellen Tiere oder Tierprodukte fest, bei denen die Ein-, Durch- oder Ausfuhrbedingungen nicht erfüllt sind, so informiert es die zuständige Behörde des Kantons, auf dessen Gebiet die Kontrolle erfolgte.[^83-2]
 
+<sup>2bis</sup> Stellt es bei der Einfuhr Pelze, Pelzprodukte oder Robbenprodukte fest, deren Einfuhr verboten ist, so meldet es dies dem BLV.[^83-3]
+
 <sup>3</sup> Das BAZG erteilt der zuständigen kantonalen Behörde auf Verlangen Auskunft über alle wesentlichen Tatsachen und gewährt ihr Einsicht in die Akten.
 
 [^83-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 [^83-2]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^83-3]: Eingefügt durch Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
 
 #### Art. 84
 
@@ -1471,14 +1619,25 @@ Stellt das BAZG an zugelassenen Grenzkontrollstellen Tiere oder Tierprodukte fes
 
 <sup>1</sup> Sind bei Tieren und Tierprodukten die Ein-, Durch- oder Ausfuhrbedingungen nicht erfüllt, so trifft die zuständige kantonale Behörde die zum Schutz der Gesundheit von Mensch und Tier erforderlichen Massnahmen.
 
+<sup>1bis</sup> Stellt eine kantonale Behörde Pelze, Pelzprodukte oder Robbenprodukte fest, deren Einfuhr verboten ist, so meldet sie dies dem BLV.[^84-1]
+
 <sup>2</sup> Melden Private oder andere Organe als das BAZG widerrechtlich ein- oder durchgeführte Tiere oder Tierprodukte im Einfuhrgebiet, so benachrichtigt die zuständige kantonale Behörde das BAZG.
 
 <sup>3</sup> Bei Tieren kann die zuständige kantonale Behörde insbesondere die Beschlagnahme, die Rückweisung oder die Tötung verfügen. Die Behörde, die eine Beschlagnahme verfügt hat, bringt die beschlagnahmten Tiere an einem von ihr bestimmten Ort auf Kosten und Gefahr der oder des widerrechtlich Handelnden unter.
 
-<sup>4</sup> Bei Tierprodukten verfügt die zuständige kantonale Behörde die Beschlagnahme, die Rückweisung, die Behandlung, die Verarbeitung, eine andere Massnahme zur Beseitigung von Mängeln oder die Einziehung der gesamten Sendung. Für die Rückweisung, die Behandlung, die Verarbeitung und andere Massnahmen zur Beseitigung von Mängeln gelten die Artikel 70 und 71 sinngemäss. Allfällige nachträgliche grenztierärztliche Kontrollen müssen vorgängig mit dem grenztierärztlichen Dienst abgesprochen werden. Eingezogene Sendungen werden von der zuständigen kantonalen Behörde nach der VTNP[^84-1] entsorgt, oder eine solche Entsorgung wird angeordnet.[^84-2]
+<sup>4</sup> Bei Tierprodukten verfügt die zuständige kantonale Behörde die Beschlagnahme, die Rückweisung, die Behandlung, die Verarbeitung, eine andere Massnahme zur Beseitigung von Mängeln oder die Einziehung der gesamten Sendung. Für die Rückweisung, die Behandlung, die Verarbeitung und andere Massnahmen zur Beseitigung von Mängeln gelten die Artikel 70 und 71 sinngemäss. Allfällige nachträgliche grenztierärztliche Kontrollen müssen vorgängig mit dem grenztierärztlichen Dienst abgesprochen werden. Eingezogene Sendungen werden von der zuständigen kantonalen Behörde nach der VTNP[^84-2] entsorgt, oder eine solche Entsorgung wird angeordnet.[^84-3]
 
-[^84-1]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
-[^84-2]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^84-1]: Eingefügt durch Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
+[^84-2]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^84-3]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+
+#### Art. 84a
+
+**Massnahmen des BLV bei der widerrechtlichen Einfuhr von Pelzen, Pelzprodukten oder Robbenprodukten**[^84a-1]
+
+Bei Meldungen nach Artikel 83 Absatz 2<sup>bis</sup> oder 84 Absatz 1<sup>bis</sup> kann das BLV Proben entnehmen, um Pelze, Pelzprodukte oder Robbenprodukte zu identifizieren. Es weist Pelze, Pelzprodukte und Robbenprodukte, deren Einfuhr verboten ist, zurück.
+
+[^84a-1]: Eingefügt durch Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
 
 ### 4. Abschnitt: Quarantäne und amtstierärztliche Überwachung
 
@@ -2022,6 +2181,14 @@ Die Aufhebung und die Änderung anderer Erlasse werden im Anhang geregelt.
 Gesundheitsbescheinigungen nach den Artikeln 48–50, für die im E-Cert eine Vorlage vorliegt, zur Ausfuhr von Tieren und Tierprodukten nach Drittstaaten dürfen noch bis zum 31. Dezember 2024 in Papierform erstellt und bearbeitet werden.
 
 [^114-1]: Eingefügt durch Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+
+#### Art. 115
+
+**Übergangsbestimmung zur Änderung vom 28. Mai 2025**[^115-1]
+
+Pelze und Pelzprodukte, die nicht unter Artikel 10*c* oder 10*d* fallen, dürfen noch bis zum 30. Juni 2027 eingeführt und bis zum 30. Juni 2029 verkauft werden.
+
+[^115-1]: Eingefügt durch Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
 
 Anhang
 
