@@ -4,11 +4,11 @@ title: "Verordnung vom 19. Oktober 1977 über die Erfindungspatente (Patentveror
 short: PatV
 eli: "https://fedlex.data.admin.ch/eli/cc/1977/2027_2027_2027"
 language: de
-version: 2022-01-01
+version: 2025-07-01
 adopted: 1977-10-19
 in_force: 1978-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/2027_2027_2027/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1977-2027_2027_2027-20220101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1977/2027_2027_2027/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/2027_2027_2027/20250701/de/xml/fedlex-data-admin-ch-eli-cc-1977-2027_2027_2027-20250701-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1977/2027_2027_2027/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1977/2027_2027_2027/20220101/de"
 
 (Patentverordnung, PatV[^t-1])
 
-vom 19. Oktober 1977 (Stand am 1. Januar 2022)
+vom 19. Oktober 1977 (Stand am 1. Juli 2025)
 
 [^t-1]: Abkürzung eingefügt durch Ziff. I der V vom 25. Okt. 1995, in Kraft seit 1. Jan. 1996 ([AS 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)).
 
@@ -2163,71 +2163,128 @@ Ist das begünstigte Land Mitglied der WTO, so teilt das IGE dem TRIPS-Rat die E
 
 <sup>3</sup> Die Gerichte stellen dem IGE die zur Erfüllung dieser Informations- und Notifikationspflicht notwendigen Angaben zu.
 
-## Sechster Titel: Hilfeleistung des Bundesamts für Zoll und Grenzsicherheit
+## Sechster Titel: Hilfeleistung beim Verbringen von Waren ins Zollgebiet oder aus dem Zollgebiet
 
 [^tit6-1]
 
-[^tit6-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^tit6-1]: Fassung gemäss Ziff. I 5 der V vom 14. Mai 2025 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 112
 
-**Bereich**
+**Geltungsbereich**[^112-1]
 
-Die Hilfeleistung des BAZG erstreckt sich auf das Verbringen von Waren, die ein in der Schweiz gültiges Patent verletzen, ins oder aus dem Zollgebiet.
+Dieser Titel gilt für Hilfeleistungen beim Verbringen von Waren ins Zollgebiet oder aus dem Zollgebiet, die ein in der Schweiz gültiges Patent verletzen.
+
+[^112-1]: Fassung gemäss Ziff. I 5 der V vom 14. Mai 2025 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 112a
 
-**Antrag auf Hilfeleistung**
+**Kleinsendung**[^112a-1]
 
-<sup>1</sup> Der Patentinhaber oder der klageberechtigte Lizenznehmer (Antragsteller) muss den Antrag auf Hilfeleistung bei der Oberzolldirektion stellen.
+Als Kleinsendung gilt eine Sendung, die höchstens drei Einheiten enthält und deren Bruttogewicht weniger als fünf Kilogramm beträgt.
 
-<sup>1bis</sup> Die Oberzolldirektion entscheidet spätestens 40 Tage nach Erhalt der vollständigen Unterlagen über den Antrag.[^112a-1]
-
-<sup>2</sup> Der Antrag gilt während zwei Jahren, wenn er nicht für eine kürzere Geltungsdauer gestellt wird. Er kann erneuert werden.
-
-[^112a-1]: Eingefügt durch Ziff. I 5 der V vom 6. Juni 2014 über die Ordnungsfristen im Zuständigkeitsbereich der Eidgenössischen Zollverwaltung, in Kraft seit 1. Sept. 2014 ([AS 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
+[^112a-1]: Eingefügt durch Ziff. I der V vom 21. Mai 2008 ([AS 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)). Fassung gemäss Ziff. I 5 der V vom 14. Mai 2025 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 112b
 
-**Zurückbehalten von Waren**
+**Antrag auf Hilfeleistung**[^112b-1]
 
-<sup>1</sup> Behält die Zollstelle Waren zurück, so verwahrt sie sie gegen Gebühr selbst oder gibt sie auf Kosten des Antragstellers einer Drittperson in Verwahrung.
+<sup>1</sup> Der Patentinhaber oder der klageberechtigte Lizenznehmer (Antragsteller) muss den Antrag auf Hilfeleistung beim BAZG stellen.
 
-<sup>2</sup> Sie teilt dem Antragsteller Name und Adresse des Anmelders, Besitzers oder Eigentümers, eine genaue Beschreibung, die Menge sowie den Absender im In- oder Ausland der zurückbehaltenen Ware mit.
+<sup>2</sup> Das BAZG entscheidet spätestens 40 Tage nach Erhalt der Unterlagen über den Antrag, sobald diese dem BAZG vollständig vorliegen.
 
-<sup>3</sup> Steht schon vor Ablauf der Frist nach Artikel 86*c* Absatz 2 oder 3 PatG fest, dass der Antragsteller keine vorsorgliche Massnahme erwirken kann, so gibt die Zollstelle die Ware unverzüglich frei.
+<sup>3</sup> Der genehmigte Antrag gilt zwei Jahre, wenn er nicht für eine kürzere Geltungsdauer gestellt wird. Er kann erneuert werden.
+
+[^112b-1]: Eingefügt durch Ziff. I der V vom 21. Mai 2008 ([AS 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)). Fassung gemäss Ziff. I 5 der V vom 14. Mai 2025 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 112c
 
-**Proben oder Muster**
+**Zurückbehalten von Waren**[^112c-1]
 
-<sup>1</sup> Der Antragsteller kann die Übergabe oder Zusendung von Proben oder Mustern zur Prüfung oder die Besichtigung der Ware beantragen. Anstelle von Proben oder Mustern kann das BAZG dem Antragsteller auch Fotografien der zurückbehaltenen Ware übergeben, wenn diese eine Prüfung durch den Antragsteller ermöglichen.
+<sup>1</sup> Behält das BAZG Waren zurück, so verwahrt es diese gegen eine Gebühr oder gibt sie auf Kosten des Antragstellers einer Drittperson zur Verwahrung.
 
-<sup>2</sup> Der Antrag kann zusammen mit dem Antrag auf Hilfeleistung bei der Oberzoll­direktion oder während des Zurückbehaltens der Ware direkt bei der Zollstelle gestellt werden, welche die Ware zurückbehält.
+<sup>2</sup> Es teilt dem Antragsteller Name und Adresse des Anmelders, Besitzers oder Eigentümers, eine genaue Beschreibung, die Menge sowie den Absender der zurückbehaltenen Ware mit.
+
+<sup>3</sup> Handelt es sich um eine Kleinsendung und wurde diese im vereinfachten Verfahren vernichtet, so teilt es dem Antragsteller die Menge und die Art sowie den Absender der vernichteten Ware mit.
+
+<sup>4</sup> Steht schon vor Ablauf der Frist nach Artikel 86*c* Absatz 3 beziehungsweise 4 PatG fest, dass der Antragsteller keine vorsorglichen Massnahmen erwirken kann, so wird die Ware sogleich freigegeben.
+
+[^112c-1]: Eingefügt durch Ziff. I der V vom 21. Mai 2008 ([AS 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)). Fassung gemäss Ziff. I 5 der V vom 14. Mai 2025 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 112d
 
-**Wahrung von Fabrikations- und Geschäftsgeheimnissen**
+**Übertragung der Zuständigkeit bei Kleinsendungen**[^112d-1]
 
-<sup>1</sup> Das BAZG weist den Anmelder, Besitzer oder Eigentümer der Ware auf die Möglichkeit hin, einen begründeten Antrag auf Verweigerung der Entnahme von Proben oder Mustern zu stellen. Es setzt ihm für die Stellung des Antrags eine angemessene Frist.
+<sup>1</sup> Handelt es sich bei der zurückbehaltenen Ware um eine Kleinsendung, so überträgt das BAZG die Zuständigkeit für den Vollzug des Verfahrens dem IGE und übergibt diesem oder einer von diesem bezeichneten Drittperson die Ware zur Verwahrung.
 
-<sup>2</sup> Gestattet das BAZG dem Antragsteller die Besichtigung der zurückbehaltenen Ware, so nimmt es bei der Festlegung des Zeitpunkts auf die Interessen des Antragstellers und des Anmelders, Besitzers oder Eigentümers angemessen Rücksicht.
+<sup>2</sup> Ist das IGE der Antragsteller, so bleibt das BAZG zuständig.
+
+[^112d-1]: Eingefügt durch Ziff. I der V vom 21. Mai 2008 ([AS 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)). Fassung gemäss Ziff. I 5 der V vom 14. Mai 2025 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 112e
 
-**Aufbewahrung von Beweismitteln bei Vernichtung der Ware**
+**Proben oder Muster**[^112e-1]
 
-<sup>1</sup> Das BAZG bewahrt die entnommenen Proben oder Muster während eines Jahres ab der Benachrichtigung des Anmelders, Besitzers oder Eigentümers nach Artikel 86*c* Absatz 1 PatG auf. Nach Ablauf dieser Frist fordert es den Anmelder, Besitzer oder Eigentümer auf, die Proben oder Muster in seinen Besitz zu nehmen oder die Kosten der weiteren Aufbewahrung zu tragen. Ist der Anmelder, Besitzer oder Eigentümer dazu nicht bereit oder lässt er sich innerhalb von 30 Tagen nicht vernehmen, so vernichtet das BAZG die Proben oder Muster.
+<sup>1</sup> Der Antragsteller kann die Übergabe oder Zusendung von Proben oder Mustern zur Prüfung oder die Besichtigung der Ware beantragen.
 
-<sup>2</sup> Das BAZG kann anstelle der Entnahme von Proben oder Mustern Fotografien der vernichteten Ware erstellen, soweit damit der Zweck der Sicherung von Beweismitteln gewährleistet ist.
+<sup>2</sup> Das BAZG kann dem Antragsteller anstelle der Proben oder Muster auch Fotografien der zurückbehaltenen Ware übergeben, wenn diese eine Prüfung ermöglichen.
+
+<sup>3</sup> Der Antrag kann zusammen mit dem Antrag auf Hilfeleistung beim BAZG oder, während die Ware zurückbehalten wird, bei der zuständigen Behörde gestellt werden.
+
+[^112e-1]: Eingefügt durch Ziff. I der V vom 21. Mai 2008 ([AS 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)). Fassung gemäss Ziff. I 5 der V vom 14. Mai 2025 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 112f
 
-**Gebühren**
+**Wahrung von Fabrikations- und Geschäftsgeheimnissen**[^112f-1]
 
-Die Gebühren für die Hilfeleistung des BAZG richten sich nach der Verordnung vom 4. April 2007[^112f-1] über die Gebühren des Bundesamts für Zoll und Grenzsicherheit.
+<sup>1</sup> Der Anmelder, Besitzer oder Eigentümer der Ware kann dem BAZG beantragen, die Entnahme von Proben oder Mustern zu verweigern. Der Antrag ist zu begründen.
 
-[^112f-1]: [SR 631.035](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7819)
+<sup>2</sup> Das BAZG informiert den Anmelder, Besitzer oder Eigentümer der Ware über die Möglichkeit nach Absatz 1 und gewährt ihm eine angemessene Frist.
+
+<sup>3</sup> Gestattet es dem Antragsteller, die zurückbehaltene Ware zu besichtigen, so berücksichtigt es bei der Festlegung des Zeitpunkts angemessen die Interessen des Antragstellers sowie des Anmelders, Besitzers oder Eigentümers.
+
+[^112f-1]: Eingefügt durch Ziff. I der V vom 21. Mai 2008 ([AS 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)). Fassung gemäss Ziff. I 5 der V vom 14. Mai 2025 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
+
+#### Art. 112g
+
+**Aufbewahrung von Beweismitteln bei Vernichtung der Ware**[^112g-1]
+
+<sup>1</sup> Das BAZG bewahrt die Proben oder Muster ab dem Zeitpunkt der Mitteilung an den Anmelder, Besitzer oder Eigentümer, dass die Ware zurückbehalten wird, ein Jahr auf. Nach Ablauf dieser Frist fordert es den Anmelder, Besitzer oder Eigentümer auf, die Proben oder Muster in Besitz zu nehmen oder die Kosten der weiteren Aufbewahrung zu tragen. Kommt der Anmelder, Besitzer oder Eigentümer der Aufforderung nicht nach oder gibt er innerhalb von 30 Tagen keine Antwort, so vernichtet das BAZG die Proben oder Muster.
+
+<sup>2</sup> Das BAZG kann anstelle der Entnahme von Proben oder Mustern Fotografien der vernichteten Ware erstellen, soweit damit der Zweck der Sicherung von Beweismitteln gewährleistet ist.
+
+[^112g-1]: Eingefügt durch Ziff. I 5 der V vom 14. Mai 2025 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
+
+#### Art. 112h
+
+**Bearbeitung, Bekanntgabe und Aufbewahrung von Personendaten und Daten juristischer Personen**[^112h-1]
+
+<sup>1</sup>
+
+Die für den Vollzug der Hilfeleistung zuständigen Behörden sind berechtigt, die folgenden Personendaten und Daten juristischer Personen, die Personen betreffen, die am Verbringen von Waren ins Zollgebiet oder aus dem Zollgebiet oder an der Hilfeleistung beteiligt sind, für die Zwecke nach den Artikeln 86*a*–86*l* PatG zu bearbeiten, insbesondere im Zusammenhang mit der Bearbeitung von Anträgen auf Hilfeleistung, mit der Meldung verdächtiger Sendungen, mit dem Zurückbehalten oder der Vernichtung von Waren sowie mit der Entnahme oder dem Versand von Proben und Mustern:
+
+- a. Personalien des Antragstellers, Absenders, Anmelders, Besitzers oder Eigentümers der Ware, insbesondere dessen Name und Vorname oder Firma und Adresse;
+- b. Angaben und Dokumente zu den Anträgen nach Artikel 86*b* PatG;
+- c. Angaben und Dokumente zu den nach Artikel 86*c* PatG zurückbehaltenen Waren;
+- d. Angaben und Dokumente zur Hilfeleistung, einschliesslich des Zurückbehaltens und der Vernichtung von Waren sowie der Entnahme und des Versands von Proben und Mustern.
+
+<sup>2</sup> Ist das IGE für den Vollzug des Verfahrens zuständig, so gibt das BAZG diesem die erforderlichen Daten nach Absatz 1 bekannt.
+
+<sup>3</sup> Die zuständigen Behörden dürfen die Daten so lange aufbewahren, wie es der Bearbeitungszweck erfordert, höchstens jedoch fünf Jahre, nachdem die Geltungsdauer eines Antrags auf Hilfeleistung abgelaufen oder die Hilfeleistung erfolgt ist.
+
+[^112h-1]: Eingefügt durch Ziff. I 5 der V vom 14. Mai 2025 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
+
+#### Art. 112i
+
+**Gebühren**[^112i-1]
+
+<sup>1</sup> Die Gebühren für die Hilfeleistung des BAZG richten sich nach der Verordnung vom 4. April 2007[^112i-2] über die Gebühren des Bundesamts für Zoll und Grenzsicherheit.
+
+<sup>2</sup> Ist das IGE für den Vollzug des Verfahrens zuständig, so richten sich die Gebühren nach der GebV-IGE[^112i-3].
+
+[^112i-1]: Eingefügt durch Ziff. I 5 der V vom 14. Mai 2025 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
+[^112i-2]: [SR 631.035](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7819)
+[^112i-3]: [SR 232.148](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5978)
 
 #### Art. 113
 

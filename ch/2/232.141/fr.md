@@ -4,11 +4,11 @@ title: "Ordonnance du 19 octobre 1977 relative aux brevets d'invention (Ordonnan
 short: OBI
 eli: "https://fedlex.data.admin.ch/eli/cc/1977/2027_2027_2027"
 language: fr
-version: 2022-01-01
+version: 2025-07-01
 adopted: 1977-10-19
 in_force: 1978-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/2027_2027_2027/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1977-2027_2027_2027-20220101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1977/2027_2027_2027/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/2027_2027_2027/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-1977-2027_2027_2027-20250701-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1977/2027_2027_2027/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1977/2027_2027_2027/20220101/fr"
 
 (Ordonnance sur les brevets, OBI[^t-1])
 
-du 19 octobre 1977 (État le 1<sup>er</sup> janvier 2022)
+du 19 octobre 1977 (État le 1<sup>er</sup> juillet 2025)
 
 [^t-1]: Abréviation introduite par le ch. I de l’O du 25 oct. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)).
 
@@ -2160,71 +2160,128 @@ Si le pays bénéficiaire est membre de l’OMC, l’IPI communique au Conseil d
 
 <sup>3</sup> Les tribunaux communiquent à l’IPI les renseignements nécessaires pour qu’il puisse s’acquitter de son obligation d’informer et de notifier.
 
-## Titre 6 Intervention de l’Office fédéral de la douane et de la sécurité des frontières
+## Titre 6 Interventions lors de l’introduction de marchandises sur le territoire douanier ou de leur acheminement hors de celui-ci
 
 [^tit6-1]
 
-[^tit6-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^tit6-1]: Nouvelle teneur selon le ch. I 5 de l’O du 14 mai 2025 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 112
 
-**Domaine d’application**
+**Domaine d’application**[^112-1]
 
-L’OFDF est habilité à intervenir en cas d’introduction sur le territoire douanier et de sortie dudit territoire de marchandises portant atteinte à un brevet valable en Suisse.
+Le présent titre régit les interventions lors de l’introduction sur le territoire douanier de marchandises portant atteinte à un brevet valable en Suisse ou de l’acheminement de telles marchandises hors du territoire douanier.
+
+[^112-1]: Nouvelle teneur selon le ch. I 5 de l’O du 14 mai 2025 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 112a
 
-**Demande d’intervention**
+**Petit envoi**[^112a-1]
 
-<sup>1</sup> Le titulaire du brevet ou le preneur de licence ayant qualité pour agir (requérant) doit présenter la demande d’intervention à la Direction générale des douanes.
+Un petit envoi est un envoi qui contient trois unités au maximum et dont le poids brut est inférieur à cinq kilogrammes.
 
-<sup>1bis</sup> La Direction générale des douanes rend sa décision sur la demande au plus tard 40 jours après réception de l’intégralité des pièces justificatives.[^112a-1]
-
-<sup>2</sup> La demande est valable deux ans, à moins qu’elle ne spécifie une durée de validité plus courte. Elle peut être renouvelée.
-
-[^112a-1]: Introduit par le ch. I 5 de l’O du 6 juin 2014 sur la fixation de délais d’ordre dans le domaine de l’Administration fédérale des douanes, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
+[^112a-1]: Introduit par le ch. I de l’O du 21 mai 2008 ([RO 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)). Nouvelle teneur selon le ch. I 5 de l’O du 14 mai 2025 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 112b
 
-**Rétention des marchandises**
+**Demande d’intervention**[^112b-1]
 
-<sup>1</sup> Lorsque le bureau de douane retient des marchandises, il les garde en dépôt contre perception d’un émolument ou il les entrepose chez un tiers aux frais du requérant.
+<sup>1</sup> Le titulaire du brevet ou le preneur de licence ayant qualité pour agir (requérant) doit présenter la demande d’intervention à l’OFDF.
 
-<sup>2</sup> Il transmet au requérant le nom et l’adresse du déclarant, du possesseur ou du propriétaire, une description précise et la quantité des marchandises retenues ainsi que le nom de l’expéditeur en Suisse ou à l’étranger desdites marchandises.
+<sup>2</sup> L’OFDF rend sa décision sur la demande au plus tard 40 jours après réception de tous les documents requis.
 
-<sup>3</sup> S’il s’avère, avant l’échéance du délai prévu à l’art. 86*c*, al. 2 ou 3, de la LBI, que le requérant ne pourra pas obtenir des mesures provisionnelles, le bureau de douane restitue les marchandises sans délai.
+<sup>3</sup> Une fois approuvée, la demande est valable deux ans, à moins qu’elle ne spécifie une durée de validité plus courte. Elle peut être renouvelée.
+
+[^112b-1]: Introduit par le ch. I de l’O du 21 mai 2008 ([RO 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)). Nouvelle teneur selon le ch. I 5 de l’O du 14 mai 2025 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 112c
 
-**Échantillons**
+**Rétention des marchandises**[^112c-1]
 
-<sup>1</sup> Le requérant peut présenter une demande pour solliciter la remise ou l’envoi d’échantillons à des fins d’examen ou l’inspection des marchandises retenues. Au lieu d’échantillons, l’OFDF peut aussi lui remettre des photographies desdites marchandises si elles lui permettent d’effectuer cet examen.
+<sup>1</sup> Lorsque l’OFDF retient des marchandises, il les garde en dépôt contre perception d’un émolument ou il les entrepose chez un tiers aux frais du requérant.
 
-<sup>2</sup> Le requérant peut présenter cette demande à la Direction générale des douanes en même temps que la demande d’intervention ou, pendant la rétention des marchandises, directement au bureau de douane qui retient les marchandises.
+<sup>2</sup> Il communique au requérant le nom et l’adresse du déclarant, du possesseur ou du propriétaire, lui transmet une description précise des marchandises retenues et l’informe de la quantité et de l’expéditeur desdites marchandises.
+
+<sup>3</sup> S’il s’agit d’un petit envoi et que celui-ci a été détruit dans le cadre de la procédure simplifiée, l’OFDF informe le requérant de la quantité, de la nature et de l’expéditeur des marchandises détruites.
+
+<sup>4</sup> S’il s’avère, avant l’échéance du délai visé à l’art. 86*c*, al. 3 ou 4, LBI, que le requérant ne pourra pas obtenir de mesures provisionnelles, les marchandises sont libérées sans délai.
+
+[^112c-1]: Introduit par le ch. I de l’O du 21 mai 2008 ([RO 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)). Nouvelle teneur selon le ch. I 5 de l’O du 14 mai 2025 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 112d
 
-**Protection des secrets de fabrication et d’affaires**
+**Délégation de la compétence pour les petits envois**[^112d-1]
 
-<sup>1</sup> L’OFDF informe le déclarant, le possesseur ou le propriétaire des marchandises de la possibilité de refuser le prélèvement d’échantillons sur présentation d’une demande motivée. Il lui impartit un délai raisonnable pour présenter cette demande.
+<sup>1</sup> Lorsqu’il s’agit d’un petit envoi, l’OFDF confie la responsabilité de l’exécution de la procédure à l’IPI et remet les marchandises à ce dernier ou à un tiers désigné par l’IPI pour qu’il les garde en dépôt.
 
-<sup>2</sup> Si l’OFDF autorise le requérant à inspecter les marchandises retenues, il tient compte, pour fixer le moment de l’inspection, de manière appropriée des intérêts du requérant, d’une part, et de ceux du déclarant, du possesseur ou du propriétaire, d’autre part.
+<sup>2</sup> Si l’IPI est le requérant, l’OFDF reste compétent.
+
+[^112d-1]: Introduit par le ch. I de l’O du 21 mai 2008 ([RO 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)). Nouvelle teneur selon le ch. I 5 de l’O du 14 mai 2025 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 112e
 
-**Conservation des moyens de preuve en cas de destruction des marchandises**
+**Spécimens ou échantillons**[^112e-1]
 
-<sup>1</sup> L’OFDF conserve les échantillons prélevés durant un an à compter de la communication adressée au déclarant, au possesseur ou au propriétaire conformément à l’art. 86*c*, al. 1, de la LBI. Après expiration de ce délai, il invite le déclarant, le possesseur ou le propriétaire à reprendre possession des échantillons ou à supporter les frais pour la poursuite de leur conservation. Si le déclarant, le possesseur ou le propriétaire ne donne pas suite à cette invitation ou s’il ne fait pas connaître sa décision dans les 30 jours, l’OFDF détruit les échantillons.
+<sup>1</sup> Le requérant peut présenter une demande pour solliciter soit la remise ou l’envoi de spécimens ou d’échantillons à des fins d’examen, soit l’inspection des marchandises.
 
-<sup>2</sup> Au lieu de prélever des échantillons, l’OFDF peut faire des photographies des marchandises détruites pour autant que cette mesure permette de garantir la conservation des moyens de preuve.
+<sup>2</sup> Au lieu de spécimens ou d’échantillons, l’OFDF peut aussi remettre au requérant des photographies des marchandises retenues si elles lui permettent d’effectuer cet examen.
+
+<sup>3</sup> Le requérant peut présenter cette demande à l’OFDF en même temps que la demande d’intervention ou, pendant que les marchandises sont retenues, directement à l’autorité compétente.
+
+[^112e-1]: Introduit par le ch. I de l’O du 21 mai 2008 ([RO 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)). Nouvelle teneur selon le ch. I 5 de l’O du 14 mai 2025 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 112f
 
-**Émoluments**
+**Protection des secrets de fabrication ou d’affaires**[^112f-1]
 
-Les émoluments perçus pour l’intervention de l’OFDF sont fixés dans l’ordonnance du 4 avril 2007 sur les émoluments de l’Office fédéral de la douane et de la sécurité des frontières[^112f-1].
+<sup>1</sup> Le déclarant, le possesseur ou le propriétaire des marchandises peut demander à l’OFDF de s’opposer au prélèvement de spécimens ou d’échantillons. La demande doit être motivée.
 
-[^112f-1]: [RS 631.035](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7819)
+<sup>2</sup> L’OFDF informe le déclarant, le possesseur ou le propriétaire des marchandises de la possibilité prévue à l’al. 1 et lui impartit un délai raisonnable.
+
+<sup>3</sup> Si l’OFDF autorise le requérant à inspecter les marchandises retenues, il fixe la date en prenant en considération de manière appropriée les intérêts du requérant, d’une part, et ceux du déclarant, du possesseur ou du propriétaire, d’autre part.
+
+[^112f-1]: Introduit par le ch. I de l’O du 21 mai 2008 ([RO 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)). Nouvelle teneur selon le ch. I 5 de l’O du 14 mai 2025 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
+
+#### Art. 112g
+
+**Conservation des moyens de preuve en cas de destruction des marchandises**[^112g-1]
+
+<sup>1</sup> L’OFDF conserve les spécimens ou les échantillons prélevés durant un an à compter du moment où il a informé le déclarant, le possesseur ou le propriétaire de la rétention des marchandises. Au terme de ce délai, il invite le déclarant, le possesseur ou le propriétaire à reprendre possession des spécimens ou des échantillons ou à supporter les frais engendrés par leur conservation. Si le déclarant, le possesseur ou le propriétaire ne donne pas suite à cette invitation ou s’il ne fait pas connaître sa décision dans les 30 jours, l’OFDF détruit les spécimens ou les échantillons.
+
+<sup>2</sup> Au lieu de prélever des spécimens ou des échantillons, l’OFDF peut faire des photographies des marchandises détruites pour autant que cette mesure permette de garantir la conservation des moyens de preuve.
+
+[^112g-1]: Introduit par le ch. I 5 de l’O du 14 mai 2025 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
+
+#### Art. 112h
+
+**Traitement, communication et conservation des données personnelles ou concernant des personnes morales**[^112h-1]
+
+<sup>1</sup>
+
+Les autorités chargées de l’exécution des interventions sont autorisées à traiter les données ci-après personnelles ou concernant les personnes morales des personnes concernées par l’introduction de marchandises sur le territoire douanier ou par leur acheminement hors de celui-ci, aux fins visées aux art. 86*a* à 86*l* LBI, en particulier en relation avec le traitement de demandes d’intervention, le signalement d’envois suspects, la rétention ou la destruction de produits ainsi que le prélèvement ou l’envoi de spécimens ou d’échantillons:
+
+- a. les informations du requérant, de l’expéditeur, du déclarant, du possesseur ou du propriétaire des marchandises, en particulier son nom et son prénom ou la raison sociale ainsi que l’adresse;
+- b. les indications et documents relatifs aux demandes visées à l’art. 86*b* LBI;
+- c. les indications et documents relatifs aux marchandises retenues visées à l’art. 86*c* LBI;
+- d. les indications et documents relatifs à la demande d’intervention, y compris la rétention et la destruction des marchandises ainsi que le prélèvement et l’envoi de spécimens et d’échantillons.
+
+<sup>2</sup> Lorsque l’exécution de la procédure relève de la compétence de l’IPI, l’OFDF lui communique les données requises visées à l’al. 1.
+
+<sup>3</sup> Les autorités chargées de l’exécution des interventions sont autorisées à conserver les données aussi longtemps que l’exige la finalité du traitement, mais au maximum pendant les cinq ans qui suivent l’expiration de la durée de validité de la demande d’intervention ou l’intervention.
+
+[^112h-1]: Introduit par le ch. I 5 de l’O du 14 mai 2025 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
+
+#### Art. 112i
+
+**Émoluments et taxes**[^112i-1]
+
+<sup>1</sup> Les émoluments perçus pour l’intervention de l’OFDF sont fixés dans l’ordonnance du 4 avril 2007 sur les émoluments de l’Office fédéral de la douane et de la sécurité des frontières[^112i-2].
+
+<sup>2</sup> Lorsque l’exécution de la procédure relève de la compétence de l’IPI, les taxes perçues sont celles qui sont fixées dans l’OTa-IPI[^112i-3].
+
+[^112i-1]: Introduit par le ch. I 5 de l’O du 14 mai 2025 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
+[^112i-2]: [RS 631.035](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7819)
+[^112i-3]: [RS 232.148](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5978)
 
 #### Art. 113
 
@@ -2672,7 +2729,7 @@ Les indications suivantes sont publiées:
 - h. la désignation du produit couvert par l’autorisation de mise sur le marché du médicament en Suisse ainsi que son numéro d’autorisation;
 - i. la date d’expiration de la durée de protection du certificat.
 
-<sup>3</sup> LIPI prolonge la durée de protection du certificat en l’inscrivant au registre des brevets.[^127g-1]
+<sup>3</sup> LIPI prolonge la durée de protection du certificat en l’inscrivant au registre des brevets.
 
 <sup>4</sup>
 
@@ -2681,11 +2738,9 @@ Les indications suivantes sont publiées en plus des indications selon l’al. 2
 - a. la date de dépôt de la demande de prolongation de la durée de protection;
 - b. la date d’expiration de la prolongation de la durée de la protection du certificat;
 - c. la date de la demande d’autorisation de mise sur le marché en Suisse du médicament contenant le produit, y compris le plan d’investigation pédiatrique relatif à ce dernier (art. 140*n*, al. 1, let. a, LBI);
-- d.[^127g-2] la date de l’éventuelle demande selon l’art. 140*n*, al. 1, let. b, LBI et l’autorité compétente.[^127g-3]
+- d.[^127g-1] la date de l’éventuelle demande selon l’art. 140*n*, al. 1, let. b, LBI et l’autorité compétente.
 
-[^127g-1]: Introduit par le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
-[^127g-2]: Voir aussi les disp. trans. de la mod. du 21 sept. 2018 à la fin du texte.
-[^127g-3]: Introduit par le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^127g-1]: Voir aussi les disp. trans. de la mod. du 21 sept. 2018 à la fin du texte.
 
 ### Chapitre 5 Publication
 

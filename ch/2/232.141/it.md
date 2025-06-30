@@ -4,11 +4,11 @@ title: "Ordinanza del 19 ottobre 1977 relativa ai brevetti d'invenzione (Ordinan
 short: OBI
 eli: "https://fedlex.data.admin.ch/eli/cc/1977/2027_2027_2027"
 language: it
-version: 2022-01-01
+version: 2025-07-01
 adopted: 1977-10-19
 in_force: 1978-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/2027_2027_2027/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1977-2027_2027_2027-20220101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1977/2027_2027_2027/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/2027_2027_2027/20250701/it/xml/fedlex-data-admin-ch-eli-cc-1977-2027_2027_2027-20250701-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1977/2027_2027_2027/20250701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1977/2027_2027_2027/20220101/it"
 
 (Ordinanza sui brevetti, OBI[^t-1])
 
-del 19 ottobre 1977 (Stato 1° gennaio 2022)
+del 19 ottobre 1977 (Stato 1° luglio 2025)
 
-[^t-1]: Abbreviazione introdotta dal n. I dell’O del 25 ott. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)).
+[^t-1]: Abbreviazione introdotta dalla cifra I dell’O del 25 ott. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)).
 
 Il Consiglio federale svizzero,
 
@@ -29,7 +29,7 @@ ordina:
 
 [^ingress-1]: [RS 232.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5975)
 [^ingress-2]: [RS 172.010.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5028)
-[^ingress-3]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^ingress-3]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 
 ## Titolo primo: Disposizioni generali
 
@@ -37,7 +37,7 @@ ordina:
 
 [^tit1-chap1-1]
 
-[^tit1-chap1-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^tit1-chap1-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
 
 #### Art. 1
 
@@ -47,11 +47,11 @@ ordina:
 
 <sup>2</sup> L’esecuzione degli articoli 86*a*–86*k* LBI e degli articoli 112–112*f* della presente ordinanza spetta all’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^1-4].[^1-5]
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 25 ott. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)).
-[^1-2]: Nuova espr. giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)). Di detta. mod. è tenuto conto in tutto il testo.
-[^1-3]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 25 ott. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)).
+[^1-2]: Nuova espr. giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)). Di detta. mod. è tenuto conto in tutto il testo.
+[^1-3]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
 [^1-4]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il testo.
-[^1-5]: Introdotto dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^1-5]: Introdotto dalla cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 #### Art. 2
 
@@ -59,7 +59,7 @@ ordina:
 
 Per gli invii postali, è considerata data della presentazione il giorno in cui l’invio è stato consegnato alla Posta Svizzera all’indirizzo dell’IPI.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
 
 #### Art. 3
 
@@ -71,8 +71,8 @@ Per gli invii postali, è considerata data della presentazione il giorno in cui 
 
 <sup>3</sup> La firma sulla richiesta di concessione del brevetto (art. 24), del certificato (art. 127c *cpv. 1*), della proroga del certificato (art. 127*c* cpv. 2) o del certificato pediatrico (art. 127*w*) non è necessaria. L’IPI può designare altri documenti per i quali non è necessaria la firma.[^3-2]
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
-[^3-2]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
+[^3-2]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 
 #### Art. 4
 
@@ -92,11 +92,11 @@ Per gli invii postali, è considerata data della presentazione il giorno in cui 
 
 <sup>7</sup> Se gli atti di una domanda divisa (art. 57 LBI), di una richiesta di costituzione di un nuovo brevetto (art. 25, 27 e 30 LBI) o di una dichiarazione che rivendica il diritto di priorità in base a un primo deposito svizzero (priorità interna, art. 17 cpv. 1<sup>ter</sup> LBI), non sono redatti nella lingua della domanda di brevetto anteriore o del brevetto iniziale, l’IPI assegna al depositante o al titolare del brevetto un termine entro il quale può essere presentata una traduzione in questa lingua.[^4-5]
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
-[^4-2]: Nuova espr. giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^4-3]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
-[^4-4]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
-[^4-5]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^4-2]: Nuova espr. giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^4-3]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^4-4]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^4-5]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 #### Art. 4a
 
@@ -106,7 +106,7 @@ Per gli invii postali, è considerata data della presentazione il giorno in cui 
 
 <sup>2</sup> Determina le modalità tecniche e le pubblica in modo adeguato.
 
-[^4a-1]: Introdotto dal n. I dell’O del 31 mar. 1999, in vigore dal 1° mag. 1999 ([RU 1999 1443](https://fedlex.data.admin.ch/eli/oc/1999/216)).
+[^4a-1]: Introdotto dalla cifra I dell’O del 31 mar. 1999, in vigore dal 1° mag. 1999 ([RU 1999 1443](https://fedlex.data.admin.ch/eli/oc/1999/216)).
 
 #### Art. 4b
 
@@ -116,7 +116,7 @@ Per gli invii postali, è considerata data della presentazione il giorno in cui 
 
 <sup>2</sup> Esso comunica i motivi dei dubbi, dà l’opportunità di prendere posizione e stabilisce un termine per la presentazione delle prove.
 
-[^4b-1]: Introdotto dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^4b-1]: Introdotto dalla cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 #### Art. 5
 
@@ -126,14 +126,14 @@ Per gli invii postali, è considerata data della presentazione il giorno in cui 
 
 <sup>2</sup> Fintanto che l’una o l’altra di queste condizioni non sarà stata adempiuta, l’IPI designa una persona quale destinataria delle comunicazioni ai sensi del capoverso 1. Se una delle altre persone si oppone, l’IPI invita tutti gli interessati ad agire conformemente al capoverso 1.[^5-2]
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
-[^5-2]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^5-2]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
 
 #### Art. 6 e 7
 
 [^67-1]
 
-[^67-1]: Abrogati dal n. I dell’O del 2 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^67-1]: Abrogati dalla cifra I dell’O del 2 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
 
 ### Capitolo 2: Rappresentanza
 
@@ -141,7 +141,7 @@ Per gli invii postali, è considerata data della presentazione il giorno in cui 
 
 [^8-1]
 
-[^8-1]: Abrogato dal n. I dell’O del 2 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^8-1]: Abrogato dalla cifra I dell’O del 2 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
 
 #### Art. 8a
 
@@ -151,14 +151,14 @@ Per gli invii postali, è considerata data della presentazione il giorno in cui 
 
 <sup>2</sup> È iscritta quale mandatario nel registro di cui all’articolo 93 la persona autorizzata dal depositante o dal titolare del brevetto a presentare a suo nome tutte le dichiarazioni destinate all’IPI e a ricevere tutte le comunicazioni dell’IPI previste dalla LBI o dalla presente ordinanza. Se nessuna limitazione della procura è esplicitamente comunicata all’IPI, la procura è considerata di portata generale.[^8a-2]
 
-[^8a-1]: Introdotto dal n. I dell’O del 18 ott. 2006 ([RU 2006 4483](https://fedlex.data.admin.ch/eli/oc/2006/691)). Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
-[^8a-2]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^8a-1]: Introdotto dalla cifra I dell’O del 18 ott. 2006 ([RU 2006 4483](https://fedlex.data.admin.ch/eli/oc/2006/691)). Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^8a-2]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 
 #### Art. 9
 
 [^9-1]
 
-[^9-1]: Abrogato dal n. I dell’O dell’11 mag. 2011, con effetto dal 1° lug. 2011 ([RU 2011 2247](https://fedlex.data.admin.ch/eli/oc/2011/309)).
+[^9-1]: Abrogato dalla cifra I dell’O dell’11 mag. 2011, con effetto dal 1° lug. 2011 ([RU 2011 2247](https://fedlex.data.admin.ch/eli/oc/2011/309)).
 
 ### Capitolo 3: Termini
 
@@ -172,15 +172,15 @@ Per gli invii postali, è considerata data della presentazione il giorno in cui 
 
 <sup>3</sup> Quando un termine ha inizio con una data di priorità e qualora più priorità siano rivendicate, è decisiva la data di priorità più remota.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 25 ott. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)).
-[^10-2]: Abrogato dal n. I dell’O del 2 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
-[^10-3]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 25 ott. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)).
+[^10-2]: Abrogato dalla cifra I dell’O del 2 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^10-3]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
 
 #### Art. 11 a 13
 
 [^1113-1]
 
-[^1113-1]: Abrogati dal n. I dell’O del 2 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^1113-1]: Abrogati dalla cifra I dell’O del 2 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
 
 #### Art. 14
 
@@ -205,11 +205,11 @@ Per gli invii postali, è considerata data della presentazione il giorno in cui 
 
 <sup>2</sup> Se una delle condizioni per il proseguimento della procedura non è soddisfatta, la richiesta di proseguimento della procedura è respinta.[^14-5]
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
-[^14-2]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^14-2]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
 [^14-3]: [RS 232.148](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5978)
-[^14-4]: Abrogata dal n. I dell’O del 2 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
-[^14-5]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^14-4]: Abrogata dalla cifra I dell’O del 2 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^14-5]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
 
 #### Art. 15
 
@@ -219,9 +219,9 @@ Per gli invii postali, è considerata data della presentazione il giorno in cui 
 
 <sup>2</sup> La tassa[^15-2] di reintegrazione deve essere pagata.[^15-3]
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
-[^15-2]: Nuova espr. giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^15-3]: Nuovo testo giusta il n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^15-2]: Nuova espr. giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^15-3]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
 
 #### Art. 16
 
@@ -233,9 +233,9 @@ Per gli invii postali, è considerata data della presentazione il giorno in cui 
 
 <sup>3</sup> Se la domanda è accettata, la totalità o una parte della tassa di reintegrazione può essere restituita al depositante.[^16-3]
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
-[^16-2]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
-[^16-3]: Nuovo testo giusta il n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
+[^16-2]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^16-3]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
 
 ### Capitolo 4: Tasse
 
@@ -245,7 +245,7 @@ Per gli invii postali, è considerata data della presentazione il giorno in cui 
 
 L’importo delle tasse previste nella LBI e nella presente ordinanza nonché le modalità di pagamento sono stabiliti nella OTa-IPI[^17-2].
 
-[^17-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^17-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
 [^17-2]: [RS 232.148](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5978)
 
 #### Art. 17a
@@ -264,15 +264,15 @@ Per ottenere o mantenere in vigore il brevetto, devono essere pagate le tasse se
 
 <sup>2</sup> …[^17a-9]
 
-[^17a-1]: Introdotto dal n. I dell’O del 25 ott. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)).
-[^17a-2]: Nuovo testo giusta il n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
-[^17a-3]: Nuovo testo giusta il n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
-[^17a-4]: Nuovo testo giusta il n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
-[^17a-5]: Nuovo testo giusta il n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
-[^17a-6]: Nuovo testo giusta il n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
-[^17a-7]: Abrogata dal n. I dell’O dell’11 ago. 1999, con effetto dal 1° gen. 2000 ([RU 1999 2629](https://fedlex.data.admin.ch/eli/oc/1999/413)).
-[^17a-8]: Nuovo testo giusta il n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
-[^17a-9]: Abrogato dal n. I dell’O del 21 mag. 2008, con effetto dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^17a-1]: Introdotto dalla cifra I dell’O del 25 ott. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)).
+[^17a-2]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
+[^17a-3]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
+[^17a-4]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
+[^17a-5]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
+[^17a-6]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
+[^17a-7]: Abrogata dalla cifra I dell’O dell’11 ago. 1999, con effetto dal 1° gen. 2000 ([RU 1999 2629](https://fedlex.data.admin.ch/eli/oc/1999/413)).
+[^17a-8]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
+[^17a-9]: Abrogato dalla cifra I dell’O del 21 mag. 2008, con effetto dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 #### Art. 18
 
@@ -284,10 +284,10 @@ Per ottenere o mantenere in vigore il brevetto, devono essere pagate le tasse se
 
 <sup>3</sup> Le tasse annuali devono essere pagate al più tardi entro l’ultimo giorno del sesto mese successivo alla scadenza; se il pagamento è effettuato dopo l’ultimo giorno del terzo mese successivo alla scadenza è riscossa una soprattassa.[^18-4]
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
-[^18-2]: Nuovo testo giusta il n. I dell’O del 1° mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1305](https://fedlex.data.admin.ch/eli/oc/2013/298)).
-[^18-3]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
-[^18-4]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
+[^18-2]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1305](https://fedlex.data.admin.ch/eli/oc/2013/298)).
+[^18-3]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^18-4]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 #### Art. 18a
 
@@ -299,7 +299,7 @@ Per ottenere o mantenere in vigore il brevetto, devono essere pagate le tasse se
 
 <sup>3</sup> Le tasse annuali già scadute alla data del deposito della domanda divisa o della richiesta di costituzione del nuovo brevetto devono essere pagate entro i sei mesi successivi a questa data; se il pagamento è effettuato negli ultimi tre mesi, è riscossa una soprattassa.
 
-[^18a-1]: Introdotto dal n. I dell’O del 25 ott. 1995 ([RU 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)). Nuovo testo giusta il n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
+[^18a-1]: Introdotto dalla cifra I dell’O del 25 ott. 1995 ([RU 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)). Nuovo testo giusta la cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
 
 #### Art. 18b
 
@@ -309,8 +309,8 @@ Per ottenere o mantenere in vigore il brevetto, devono essere pagate le tasse se
 
 <sup>2</sup> L’IPI cancella il brevetto con effetto alla data della scadenza della tassa annuale non pagata; se è rilasciato soltanto dopo questa data, il brevetto è cancellato con effetto alla data del suo rilascio. Il titolare è avvisato dell’avvenuta cancellazione.
 
-[^18b-1]: Introdotto dal n. I dell’O del 25 ott. 1995 ([RU 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)). Nuovo testo giusta il n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
-[^18b-2]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^18b-1]: Introdotto dalla cifra I dell’O del 25 ott. 1995 ([RU 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)). Nuovo testo giusta la cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
+[^18b-2]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 
 #### Art. 18c
 
@@ -320,7 +320,7 @@ Per ottenere o mantenere in vigore il brevetto, devono essere pagate le tasse se
 
 <sup>2</sup> Se cancella un brevetto, l’IPI restituisce la tassa annuale non ancora scaduta.
 
-[^18c-1]: Introdotto dal n. I dell’O del 25 ott. 1995 ([RU 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)). Nuovo testo giusta il n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
+[^18c-1]: Introdotto dalla cifra I dell’O del 25 ott. 1995 ([RU 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)). Nuovo testo giusta la cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
 
 #### Art. 18d
 
@@ -328,7 +328,7 @@ Per ottenere o mantenere in vigore il brevetto, devono essere pagate le tasse se
 
 L’IPI attira l’attenzione del depositante o del titolare del brevetto sulla scadenza di una tassa annuale e gli indica la scadenza del termine di pagamento e le conseguenze dell’inosservanza di detto termine. A domanda del depositante o del titolare del brevetto, l’IPI può, in alternativa, indirizzare avvisi a terzi che effettuano regolarmente i pagamenti per conto del depositante o del titolare del brevetto. All’estero non viene spedito alcun avviso.
 
-[^18d-1]: Introdotto dal n. I dell’O del 25 ott. 1995 ([RU 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)). Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^18d-1]: Introdotto dalla cifra I dell’O del 25 ott. 1995 ([RU 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)). Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
 
 #### Art. 19
 
@@ -336,13 +336,13 @@ L’IPI attira l’attenzione del depositante o del titolare del brevetto sulla 
 
 La cancellazione di un brevetto è esente da tasse.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
 
 #### Art. 19a
 
 [^19a-1]
 
-[^19a-1]: Introdotto dal n. I dell’O del 25 ott. 1995 ([RU 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)). Abrogato dal n. I dell’O del 3 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
+[^19a-1]: Introdotto dalla cifra I dell’O del 25 ott. 1995 ([RU 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)). Abrogato dalla cifra I dell’O del 3 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
 
 #### Art. 20
 
@@ -359,12 +359,12 @@ Qualora una domanda sia ritirata o respinta nella sua totalità o sia considerat
 
 <sup>2</sup> Se un brevetto per il quale non è stata pagata in tempo una tassa annuale esigibile è cancellato dal registro, la tassa annuale è restituita.[^20-6]
 
-[^20-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
-[^20-2]: Nuovo testo giusta il n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
-[^20-3]: Abrogata dal n. I dell’O dell’11 ago. 1999, con effetto dal 1° gen. 2000 ([RU 1999 2629](https://fedlex.data.admin.ch/eli/oc/1999/413)).
-[^20-4]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
-[^20-5]: Introdotto dal n. I dell’O del 25 ott. 1995 ([RU 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)). Nuovo testo giusta il n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
-[^20-6]: Introdotto dal n. I dell’O del 2 dic. 2016 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)). Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^20-2]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
+[^20-3]: Abrogata dalla cifra I dell’O dell’11 ago. 1999, con effetto dal 1° gen. 2000 ([RU 1999 2629](https://fedlex.data.admin.ch/eli/oc/1999/413)).
+[^20-4]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^20-5]: Introdotto dalla cifra I dell’O del 25 ott. 1995 ([RU 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)). Nuovo testo giusta la cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
+[^20-6]: Introdotto dalla cifra I dell’O del 2 dic. 2016 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)). Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 
 ## Titolo secondo: Domanda di brevetto
 
@@ -384,7 +384,7 @@ Chi desidera ottenere un brevetto deve presentare i seguenti documenti:
 - f. la menzione dell’inventore;
 - g. se è il caso, il documento di priorità
 
-[^21-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^21-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 #### Art. 22
 
@@ -394,7 +394,7 @@ Chi desidera ottenere un brevetto deve presentare i seguenti documenti:
 
 <sup>2</sup> La correzione della descrizione, delle rivendicazioni o dei disegni è autorizzata unicamente se risulta evidente che la parte scorretta non intendeva esprimere altro.
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 ### Capitolo 2: Richiesta di concessione del brevetto
 
@@ -406,8 +406,8 @@ Chi desidera ottenere un brevetto deve presentare i seguenti documenti:
 
 <sup>2</sup> Se una richiesta formalmente valida comprende tutte le indicazioni richieste, l’IPI può rinunciare a esigere che sia presentato il modulo.[^23-2]
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 31 mar. 1999, in vigore dal 1° mag. 1999 ([RU 1999 1443](https://fedlex.data.admin.ch/eli/oc/1999/216)).
-[^23-2]: Introdotto dal n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^23-1]: Nuovo testo giusta la cifra I dell’O del 31 mar. 1999, in vigore dal 1° mag. 1999 ([RU 1999 1443](https://fedlex.data.admin.ch/eli/oc/1999/216)).
+[^23-2]: Introdotto dalla cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
 
 #### Art. 24
 
@@ -434,12 +434,12 @@ La richiesta deve inoltre contenere:
 - d. se è rivendicata una priorità, la dichiarazione di priorità (art. 39);
 - e. se è invocata un’immunità derivante da una esposizione, la dichiarazione relativa a tale immunità (art. 44).
 
-[^24-1]: Nuovo testo giusta il n. I dell’O del 25 ott. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)).
-[^24-2]: Abrogata dal n. I dell’O del 3 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
-[^24-3]: Nuovo testo giusta il n. I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2247](https://fedlex.data.admin.ch/eli/oc/2011/309)).
-[^24-4]: Introdotta dal n. I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2247](https://fedlex.data.admin.ch/eli/oc/2011/309)).
-[^24-5]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
-[^24-6]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^24-1]: Nuovo testo giusta la cifra I dell’O del 25 ott. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)).
+[^24-2]: Abrogata dalla cifra I dell’O del 3 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
+[^24-3]: Nuovo testo giusta la cifra I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2247](https://fedlex.data.admin.ch/eli/oc/2011/309)).
+[^24-4]: Introdotta dalla cifra I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2247](https://fedlex.data.admin.ch/eli/oc/2011/309)).
+[^24-5]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^24-6]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 ### Capitolo 3: Atti tecnici
 
@@ -469,11 +469,11 @@ La richiesta deve inoltre contenere:
 
 <sup>11</sup> Nella misura in cui autorizza l’inoltro elettronico degli atti tecnici (art. 4*a*), l’IPI può definire esigenze divergenti da quelle previste nel presente capitolo; pubblica tali esigenze in modo adeguato.[^25-5]
 
-[^25-1]: Abrogato dal n. I dell’O del 2 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
-[^25-2]: Nuovo testo giusta il n. I dell’O del 31 mar. 1999, in vigore dal 1° mag. 1999 ([RU 1999 1443](https://fedlex.data.admin.ch/eli/oc/1999/216)).
+[^25-1]: Abrogato dalla cifra I dell’O del 2 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^25-2]: Nuovo testo giusta la cifra I dell’O del 31 mar. 1999, in vigore dal 1° mag. 1999 ([RU 1999 1443](https://fedlex.data.admin.ch/eli/oc/1999/216)).
 [^25-3]: [RS 941.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11174)
-[^25-4]: Nuovo testo giusta il n. II dell’O del 7 dic. 2012, in vigore dal 1° gen. 2013 ([RU 2012 7193](https://fedlex.data.admin.ch/eli/oc/2012/875)).
-[^25-5]: Introdotto dal n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
+[^25-4]: Nuovo testo giusta la cifra II dell’O del 7 dic. 2012, in vigore dal 1° gen. 2013 ([RU 2012 7193](https://fedlex.data.admin.ch/eli/oc/2012/875)).
+[^25-5]: Introdotto dalla cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
 
 #### Art. 26
 
@@ -493,10 +493,10 @@ La richiesta deve inoltre contenere:
 
 <sup>7 e <sup>8</sup></sup> …[^26-4]
 
-[^26-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
-[^26-2]: Abrogato dal n. I dell’O del 12 ago. 1986, con effetto dal 1° gen. 1987 ([RU 1986 1448](https://fedlex.data.admin.ch/eli/oc/1986/1448_1448_1448)).
-[^26-3]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
-[^26-4]: Abrogati dal n. I dell’O del 12 ago. 1986, con effetto dal 1° gen. 1987 ([RU 1986 1448](https://fedlex.data.admin.ch/eli/oc/1986/1448_1448_1448)).
+[^26-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^26-2]: Abrogato dalla cifra I dell’O del 12 ago. 1986, con effetto dal 1° gen. 1987 ([RU 1986 1448](https://fedlex.data.admin.ch/eli/oc/1986/1448_1448_1448)).
+[^26-3]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^26-4]: Abrogati dalla cifra I dell’O del 12 ago. 1986, con effetto dal 1° gen. 1987 ([RU 1986 1448](https://fedlex.data.admin.ch/eli/oc/1986/1448_1448_1448)).
 
 #### Art. 27
 
@@ -506,7 +506,7 @@ La richiesta deve inoltre contenere:
 
 <sup>2</sup> L’elenco della sequenza prodotto dopo la data di deposito non è parte integrante della descrizione.
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^27-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 [^27-2]: [RS 0.232.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1083)
 
 #### Art. 28
@@ -532,10 +532,10 @@ La richiesta deve inoltre contenere:
 <sup>9</sup> I disegni non devono contenere spiegazioni; sono ammesse brevi indicazioni e appunti che rendono il disegno maggiormente comprensibile e sono espressi nella lingua della domanda.[^28-5]
 
 [^28-1]: [RU 1978 74](https://fedlex.data.admin.ch/eli/oc/1978/__74)
-[^28-2]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
-[^28-3]: Nuovo testo giusta il n. I dell’O del 31 mar. 1999, in vigore dal 1° mag. 1999 ([RU 1999 1443](https://fedlex.data.admin.ch/eli/oc/1999/216)).
-[^28-4]: Nuovo testo giusta il n. I dell’O del 12 ago. 1986, in vigore dal 1° gen. 1987 ([RU 1986 1448](https://fedlex.data.admin.ch/eli/oc/1986/1448_1448_1448)).
-[^28-5]: Nuovo testo giusta il n. I dell’O del 12 ago. 1986, in vigore dal 1° gen. 1987 ([RU 1986 1448](https://fedlex.data.admin.ch/eli/oc/1986/1448_1448_1448)).
+[^28-2]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^28-3]: Nuovo testo giusta la cifra I dell’O del 31 mar. 1999, in vigore dal 1° mag. 1999 ([RU 1999 1443](https://fedlex.data.admin.ch/eli/oc/1999/216)).
+[^28-4]: Nuovo testo giusta la cifra I dell’O del 12 ago. 1986, in vigore dal 1° gen. 1987 ([RU 1986 1448](https://fedlex.data.admin.ch/eli/oc/1986/1448_1448_1448)).
+[^28-5]: Nuovo testo giusta la cifra I dell’O del 12 ago. 1986, in vigore dal 1° gen. 1987 ([RU 1986 1448](https://fedlex.data.admin.ch/eli/oc/1986/1448_1448_1448)).
 
 #### Art. 29
 
@@ -553,7 +553,7 @@ La richiesta deve inoltre contenere:
 
 <sup>6</sup> Le rivendicazioni devono essere numerate progressivamente in cifre arabe.
 
-[^29-1]: Nuovo testo giusta il n. I dell’O del 12 ago. 1986, in vigore dal 1° gen. 1987 ([RU 1986 1448](https://fedlex.data.admin.ch/eli/oc/1986/1448_1448_1448)).
+[^29-1]: Nuovo testo giusta la cifra I dell’O del 12 ago. 1986, in vigore dal 1° gen. 1987 ([RU 1986 1448](https://fedlex.data.admin.ch/eli/oc/1986/1448_1448_1448)).
 
 #### Art. 30
 
@@ -569,9 +569,9 @@ Questa condizione è segnatamente ritenuta soddisfatta se la domanda di brevetto
 - b.[^30-2] oltre ad una prima rivendicazione per un prodotto o per un dispositivo: una rivendicazione per un procedimento di fabbricazione di detto prodotto o dispositivo, una rivendicazione per un mezzo d’esecuzione di questo procedimento e una rivendicazione per un’utilizzazione di detto prodotto o dispositivo.
 - c.[^30-3] …
 
-[^30-1]: Nuovo testo giusta il n. I dell’O del 12 ago. 1986, in vigore dal 1° gen. 1987 ([RU 1986 1448](https://fedlex.data.admin.ch/eli/oc/1986/1448_1448_1448)).
-[^30-2]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
-[^30-3]: Abrogata dal n. I dell’O del 21 mag. 2008, con effetto dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^30-1]: Nuovo testo giusta la cifra I dell’O del 12 ago. 1986, in vigore dal 1° gen. 1987 ([RU 1986 1448](https://fedlex.data.admin.ch/eli/oc/1986/1448_1448_1448)).
+[^30-2]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^30-3]: Abrogata dalla cifra I dell’O del 21 mag. 2008, con effetto dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 #### Art. 31
 
@@ -583,7 +583,7 @@ Questa condizione è segnatamente ritenuta soddisfatta se la domanda di brevetto
 
 <sup>3</sup> Tutte le rivendicazioni dipendenti devono essere raggruppate in modo chiaro.
 
-[^31-1]: Nuovo testo giusta il n. I dell’O del 12 ago. 1986, in vigore dal 1° gen. 1987 ([RU 1986 1448](https://fedlex.data.admin.ch/eli/oc/1986/1448_1448_1448)).
+[^31-1]: Nuovo testo giusta la cifra I dell’O del 12 ago. 1986, in vigore dal 1° gen. 1987 ([RU 1986 1448](https://fedlex.data.admin.ch/eli/oc/1986/1448_1448_1448)).
 
 #### Art. 31a
 
@@ -591,7 +591,7 @@ Questa condizione è segnatamente ritenuta soddisfatta se la domanda di brevetto
 
 Ciascuna domanda di brevetto può contenere dieci rivendicazioni esenti da tassa; per ciascuna ulteriore rivendicazione deve essere pagata una tassa di rivendicazione.
 
-[^31a-1]: Introdotto dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^31a-1]: Introdotto dalla cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 #### Art. 32
 
@@ -609,11 +609,11 @@ Ciascuna domanda di brevetto può contenere dieci rivendicazioni esenti da tassa
 
 <sup>6</sup> L’estratto non conterrà più di centocinquanta parole.
 
-[^32-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
-[^32-2]: Nuovo testo giusta il n. I dell’O del 12 ago. 1986, in vigore dal 1° gen. 1987 ([RU 1986 1448](https://fedlex.data.admin.ch/eli/oc/1986/1448_1448_1448)).
-[^32-3]: Nuovo testo giusta il n. I dell’O del 12 ago. 1986, in vigore dal 1° gen. 1987 ([RU 1986 1448](https://fedlex.data.admin.ch/eli/oc/1986/1448_1448_1448)).
-[^32-4]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
-[^32-5]: Nuovo testo giusta il n. I dell’O del 31 mar. 1999, in vigore dal 1° mag. 1999 ([RU 1999 1443](https://fedlex.data.admin.ch/eli/oc/1999/216)).
+[^32-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^32-2]: Nuovo testo giusta la cifra I dell’O del 12 ago. 1986, in vigore dal 1° gen. 1987 ([RU 1986 1448](https://fedlex.data.admin.ch/eli/oc/1986/1448_1448_1448)).
+[^32-3]: Nuovo testo giusta la cifra I dell’O del 12 ago. 1986, in vigore dal 1° gen. 1987 ([RU 1986 1448](https://fedlex.data.admin.ch/eli/oc/1986/1448_1448_1448)).
+[^32-4]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^32-5]: Nuovo testo giusta la cifra I dell’O del 31 mar. 1999, in vigore dal 1° mag. 1999 ([RU 1999 1443](https://fedlex.data.admin.ch/eli/oc/1999/216)).
 
 #### Art. 33
 
@@ -623,8 +623,8 @@ Ciascuna domanda di brevetto può contenere dieci rivendicazioni esenti da tassa
 
 <sup>2</sup> …[^33-2]
 
-[^33-1]: Nuovo testo giusta il n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
-[^33-2]: Abrogato dal n. I dell’O del 12 ago. 1986, con effetto dal 1° gen. 1987 ([RU 1986 1448](https://fedlex.data.admin.ch/eli/oc/1986/1448_1448_1448)).
+[^33-1]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
+[^33-2]: Abrogato dalla cifra I dell’O del 12 ago. 1986, con effetto dal 1° gen. 1987 ([RU 1986 1448](https://fedlex.data.admin.ch/eli/oc/1986/1448_1448_1448)).
 
 ### Capitolo 4: Menzione dell’inventore
 
@@ -636,8 +636,8 @@ Ciascuna domanda di brevetto può contenere dieci rivendicazioni esenti da tassa
 
 <sup>2</sup> La menzione dell’inventore non è necessaria, se la domanda contiene le indicazioni di cui al capoverso 1.
 
-[^34-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
-[^34-2]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^34-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^34-2]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
 
 #### Art. 35
 
@@ -649,13 +649,13 @@ Ciascuna domanda di brevetto può contenere dieci rivendicazioni esenti da tassa
 
 <sup>3</sup> Se la menzione dell’inventore non è presentata in tempo utile, l’IPI considera la domanda di brevetto irricevibile.[^35-1]
 
-[^35-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^35-1]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 
 #### Art. 36
 
 [^36-1]
 
-[^36-1]: Abrogato dal n. I dell’O del 12 ago. 1986, con effetto dal 1° gen. 1987 ([RU 1986 1448](https://fedlex.data.admin.ch/eli/oc/1986/1448_1448_1448)).
+[^36-1]: Abrogato dalla cifra I dell’O del 12 ago. 1986, con effetto dal 1° gen. 1987 ([RU 1986 1448](https://fedlex.data.admin.ch/eli/oc/1986/1448_1448_1448)).
 
 #### Art. 37
 
@@ -667,8 +667,8 @@ Ciascuna domanda di brevetto può contenere dieci rivendicazioni esenti da tassa
 
 <sup>3</sup> Una volta presentata, la menzione dell’inventore non viene più restituita.
 
-[^37-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4483](https://fedlex.data.admin.ch/eli/oc/2006/691)).
-[^37-2]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^37-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4483](https://fedlex.data.admin.ch/eli/oc/2006/691)).
+[^37-2]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 #### Art. 38
 
@@ -682,10 +682,10 @@ Ciascuna domanda di brevetto può contenere dieci rivendicazioni esenti da tassa
 
 <sup>4</sup> Se la dichiarazione di rinuncia soddisfa alle prescrizioni, essa e la menzione dell’inventore sono classate a parte. L’esistenza di questi documenti è menzionata nell’incarto.[^38-4]
 
-[^38-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
-[^38-2]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
-[^38-3]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
-[^38-4]: Introdotto dal n. I dell’O del 12 ago. 1986, in vigore dal 1° gen. 1987 ([RU 1986 1448](https://fedlex.data.admin.ch/eli/oc/1986/1448_1448_1448)).
+[^38-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^38-2]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^38-3]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^38-4]: Introdotto dalla cifra I dell’O del 12 ago. 1986, in vigore dal 1° gen. 1987 ([RU 1986 1448](https://fedlex.data.admin.ch/eli/oc/1986/1448_1448_1448)).
 
 ### Capitolo 5: Priorità e immunità derivata da un’esposizione
 
@@ -707,7 +707,7 @@ La dichiarazione di priorità comprende le seguenti indicazioni:
 
 <sup>3</sup> Il depositante può correggere la dichiarazione di priorità entro 16 mesi dalla prima data di priorità rivendicata o, se la correzione comporta il differimento di tale data, entro 16 mesi dalla prima data di priorità corretta, se questo termine di 16 mesi scade prima; la correzione può essere presentata entro quattro mesi dalla data di deposito.
 
-[^39-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^39-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 #### Art. 39a
 
@@ -719,7 +719,7 @@ La dichiarazione di priorità comprende le seguenti indicazioni:
 
 <sup>3</sup> L’articolo 39 capoverso 3 è applicabile.
 
-[^39a-1]: Introdotto dal n. I dell’O del 17 mag. 1995 ([RU 1995 3660](https://fedlex.data.admin.ch/eli/oc/1995/3660_3660_3660)). Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^39a-1]: Introdotto dalla cifra I dell’O del 17 mag. 1995 ([RU 1995 3660](https://fedlex.data.admin.ch/eli/oc/1995/3660_3660_3660)). Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 #### Art. 40
 
@@ -744,10 +744,10 @@ Il documento di priorità comprende:
 
 <sup>6</sup> Se per un deposito di brevetto è richiesta la priorità interna, l’indicazione del numero del primo deposito ha il medesimo effetto della presentazione del documento di priorità.[^40-4]
 
-[^40-1]: Abrogato dal n. I dell’O del 2 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
-[^40-2]: Nuovo testo giusta il n. I dell’O del 17 mag. 1995, in vigore dal 1° set. 1995 ([RU 1995 3660](https://fedlex.data.admin.ch/eli/oc/1995/3660_3660_3660)).
-[^40-3]: Introdotto dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
-[^40-4]: Introdotto dal n. I dell’O del 17 mag. 1995, in vigore dal 1° set. 1995 ([RU 1995 3660](https://fedlex.data.admin.ch/eli/oc/1995/3660_3660_3660)).
+[^40-1]: Abrogato dalla cifra I dell’O del 2 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^40-2]: Nuovo testo giusta la cifra I dell’O del 17 mag. 1995, in vigore dal 1° set. 1995 ([RU 1995 3660](https://fedlex.data.admin.ch/eli/oc/1995/3660_3660_3660)).
+[^40-3]: Introdotto dalla cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^40-4]: Introdotto dalla cifra I dell’O del 17 mag. 1995, in vigore dal 1° set. 1995 ([RU 1995 3660](https://fedlex.data.admin.ch/eli/oc/1995/3660_3660_3660)).
 
 #### Art. 41
 
@@ -755,7 +755,7 @@ Il documento di priorità comprende:
 
 Se dal documento di priorità risulta che il deposito sul quale si basa la priorità rivendicata costituisce solo parzialmente un primo deposito nel senso della Convenzione di Parigi del 20 marzo 1883[^41-1], per la protezione della proprietà industriale, l’IPI può esigere la consegna degli atti di depositi anteriori, necessari per chiarire i fatti.
 
-[^41-1]: [RS 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027)**, [0.232.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1028), [0.232.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1029),** [0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
+[^41-1]: [RS 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027), [0.232.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1028), [0.232.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1029),[0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 
 #### Art. 42
 
@@ -765,7 +765,7 @@ Se dal documento di priorità risulta che il deposito sul quale si basa la prior
 
 <sup>2</sup> Il capoverso 1 è applicabile anche in caso di rivendicazione della priorità interna.[^42-1]
 
-[^42-1]: Introdotto dal n. I dell’O del 17 mag. 1995, in vigore dal 1° set. 1995 ([RU 1995 3660](https://fedlex.data.admin.ch/eli/oc/1995/3660_3660_3660)).
+[^42-1]: Introdotto dalla cifra I dell’O del 17 mag. 1995, in vigore dal 1° set. 1995 ([RU 1995 3660](https://fedlex.data.admin.ch/eli/oc/1995/3660_3660_3660)).
 
 #### Art. 43
 
@@ -779,8 +779,8 @@ Se dal documento di priorità risulta che il deposito sul quale si basa la prior
 
 <sup>4</sup> I capoversi 1 e 2 sono applicabili anche in caso di rivendicazione della priorità interna.[^43-2]
 
-[^43-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
-[^43-2]: Introdotto dal n. I dell’O del 17 mag. 1995, in vigore dal 1° set. 1995 ([RU 1995 3660](https://fedlex.data.admin.ch/eli/oc/1995/3660_3660_3660)).
+[^43-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^43-2]: Introdotto dalla cifra I dell’O del 17 mag. 1995, in vigore dal 1° set. 1995 ([RU 1995 3660](https://fedlex.data.admin.ch/eli/oc/1995/3660_3660_3660)).
 
 #### Art. 43a
 
@@ -790,7 +790,7 @@ Se dal documento di priorità risulta che il deposito sul quale si basa la prior
 
 <sup>2</sup> L’IPI rilascia il documento di priorità al più presto a partire dal momento in cui è fissata la data di deposito e questa non può essere modificata secondo l’articolo 46*c* capoversi 2 e 5.
 
-[^43a-1]: Introdotto dal n. I dell’O del 25 ott. 1995 ([RU 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)). Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^43a-1]: Introdotto dalla cifra I dell’O del 25 ott. 1995 ([RU 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)). Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 ### Sezione 2: Immunità derivata da un’esposizione
 
@@ -832,7 +832,7 @@ Questi atti devono essere stati rilasciati dall’autorità competente durante l
 
 [^tit2-chap6-1]
 
-[^tit2-chap6-1]: Introdotto dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^tit2-chap6-1]: Introdotto dalla cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 #### Art. 45a
 
@@ -856,7 +856,7 @@ Sono in particolare considerate fonte in virtù del capoverso 1:
 
 [^tit2-chap7-1]
 
-[^tit2-chap7-1]: Introdotto dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^tit2-chap7-1]: Introdotto dalla cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 #### Art. 45b
 
@@ -927,7 +927,7 @@ Può essere designata quale perito ogni persona fisica:
 - a. riconosciuta tali dall’IPI;
 - b. scelta di comune accordo dal richiedente e da chi ha effettuato il deposito di materiale.
 
-[^45f-1]: Nuova espr. giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)). Di detta mod. é tenuto conto nelle disp. menzionate nella RU.
+[^45f-1]: Nuova espr. giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)). Di detta mod. é tenuto conto nelle disp. menzionate nella RU.
 
 #### Art. 45g
 
@@ -941,8 +941,8 @@ Può essere designata quale perito ogni persona fisica:
 
 <sup>4</sup> L’impegno a utilizzare il materiale biologico esclusivamente a scopi di sperimentazione non vale nella misura in cui il richiedente utilizzi il materiale in base a una licenza obbligatoria.
 
-[^45g-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
-[^45g-2]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^45g-1]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^45g-2]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 
 #### Art. 45h
 
@@ -979,7 +979,7 @@ In caso di deposito secondo il Trattato di Budapest[^45j-1], la dichiarazione di
 
 [^tit3-chap1-1]
 
-[^tit3-chap1-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^tit3-chap1-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 #### Art. 46
 
@@ -1015,8 +1015,8 @@ Il riferimento a una domanda di brevetto anteriore ai sensi del capoverso 1 lett
 
 <sup>3</sup> Se dopo la scadenza del termine secondo il capoverso 2 non sono soddisfatte le condizioni dell’articolo 46, l’IPI non entra nel merito della domanda.[^46a-2] L’IPI ne informa il depositante indicando i motivi e gli rinvia i documenti depositati, nella misura in cui disponga delle informazioni necessarie per contattarlo.
 
-[^46a-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
-[^46a-2]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^46a-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^46a-2]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
 
 #### Art. 46b
 
@@ -1070,7 +1070,7 @@ Oltre alle condizioni per l’attribuzione della data di deposito, l’IPI esami
 - d. se la tassa di deposito è stata pagata (art. 49);
 - e. se gli atti tecnici sono conformi alle disposizioni diverse da quelle inerenti al loro contenuto (art. 50).
 
-[^47-1]: Nuovo testo giusta il n. I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2247](https://fedlex.data.admin.ch/eli/oc/2011/309)).
+[^47-1]: Nuovo testo giusta la cifra I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2247](https://fedlex.data.admin.ch/eli/oc/2011/309)).
 
 #### Art. 48
 
@@ -1080,7 +1080,7 @@ Oltre alle condizioni per l’attribuzione della data di deposito, l’IPI esami
 
 <sup>2</sup> Se gli atti sono depositati in più parti, il termine di cui al capoverso 1 decorre dal momento in cui è stata depositata la prima parte.
 
-[^48-1]: Nuovo testo giusta il n. I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2247](https://fedlex.data.admin.ch/eli/oc/2011/309)).
+[^48-1]: Nuovo testo giusta la cifra I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2247](https://fedlex.data.admin.ch/eli/oc/2011/309)).
 
 #### Art. 48a
 
@@ -1110,8 +1110,8 @@ Oltre alle condizioni per l’attribuzione della data di deposito, l’IPI esami
 
 <sup>4</sup> …[^48c-2]
 
-[^48c-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
-[^48c-2]: Abrogato dal n. I dell’O del 2 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^48c-1]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^48c-2]: Abrogato dalla cifra I dell’O del 2 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
 
 #### Art. 48d
 
@@ -1119,7 +1119,7 @@ Oltre alle condizioni per l’attribuzione della data di deposito, l’IPI esami
 
 Se il depositante non ha menzionato un inventore, l’IPI invita il depositante a presentare la menzione dell’inventore entro il termine di cui all’articolo 35.
 
-[^48d-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^48d-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
 
 #### Art. 49
 
@@ -1129,7 +1129,7 @@ Se il depositante non ha menzionato un inventore, l’IPI invita il depositante 
 
 <sup>2</sup> Il depositante può pagare la tassa di deposito entro tre mesi dal deposito degli atti. Se gli atti sono stati depositati in più parti, il termine decorre dal momento in cui è stata depositata la prima parte.
 
-[^49-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^49-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
 
 #### Art. 50
 
@@ -1149,9 +1149,9 @@ Durante l’esame degli atti tecnici l’IPI verifica se:[^50-1]
 
 <sup>4</sup> Se gli atti tecnici di un primo deposito svizzero sono redatti in inglese, ma per il resto soddisfano le disposizioni, l’IPI può assegnare un termine di 16 mesi a partire dalla data di deposito o di priorità entro il quale può essere presentata una traduzione in una lingua ufficiale.
 
-[^50-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
-[^50-2]: Abrogata dal n. I dell’O del 21 set. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
-[^50-3]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^50-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^50-2]: Abrogata dalla cifra I dell’O del 21 set. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^50-3]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
 
 #### Art. 51
 
@@ -1171,13 +1171,13 @@ Durante l’esame degli atti tecnici l’IPI verifica se:[^50-1]
 
 <sup>2</sup> Il capoverso 1 è applicabile per analogia alla dichiarazione e agli atti concernenti l’immunità derivata da un’esposizione (art. 44 e 45).
 
-[^52-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^52-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
 
 ### Capitolo 2: Rapporto sullo stato della tecnica
 
 [^tit3-chap2-1]
 
-[^tit3-chap2-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^tit3-chap2-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 ### Sezione 1: Su richiesta del depositante
 
@@ -1189,7 +1189,7 @@ Durante l’esame degli atti tecnici l’IPI verifica se:[^50-1]
 
 <sup>2</sup> Se la tassa di ricerca non è stata pagata al momento della richiesta, il depositante deve pagarla entro due mesi dal relativo invito dell’IPI o entro 14 mesi dalla data di deposito o di priorità, se questa scade prima. La richiesta è considerata presentata soltanto dopo il pagamento della tassa di ricerca e della tassa di deposito.[^53-1]
 
-[^53-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^53-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
 
 #### Art. 53a
 
@@ -1211,7 +1211,7 @@ Durante l’esame degli atti tecnici l’IPI verifica se:[^50-1]
 
 <sup>4</sup> L’IPI elabora il rapporto sullo stato della tecnica a condizione che al momento in cui è presentata la richiesta in virtù dell’articolo 53 la domanda di brevetto sia ancora pendente presso l’IPI. Qualora la domanda sia successivamente ritirata o respinta e la ricerca non abbia ancora avuto inizio, l’IPI non elabora alcun rapporto e restituisce la tassa di ricerca.[^54-1]
 
-[^54-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^54-1]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 
 #### Art. 54a
 
@@ -1259,7 +1259,7 @@ Se l’IPI stima che una ricerca significativa sullo stato della tecnica non pu�
 
 <sup>3</sup> Il rapporto viene redatto per le parti della domanda di brevetto che si riferiscono alle invenzioni per le quali le tasse di ricerca sono state pagate.
 
-[^57-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^57-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
 
 #### Art. 58
 
@@ -1269,7 +1269,7 @@ Se l’IPI stima che una ricerca significativa sullo stato della tecnica non pu�
 
 <sup>2</sup> Su domanda dell’Ufficio europeo dei brevetti (UEB), l’IPI può trasmettergli una copia del rapporto sullo stato della tecnica.[^58-1]
 
-[^58-1]: Introdotto dal n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^58-1]: Introdotto dalla cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
 
 ### Sezione 2: Su richiesta di terzi
 
@@ -1317,7 +1317,7 @@ Il rapporto sullo stato della tecnica è elaborato:
 
 [^tit3-chap3-1]
 
-[^tit3-chap3-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^tit3-chap3-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 #### Art. 60
 
@@ -1338,7 +1338,7 @@ La domanda è pubblicata come fascicolo e include:
 
 <sup>4</sup> La pubblicazione avviene esclusivamente in forma elettronica.
 
-[^60-1]: Nuovo testo giusta il n. I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2247](https://fedlex.data.admin.ch/eli/oc/2011/309)).
+[^60-1]: Nuovo testo giusta la cifra I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2247](https://fedlex.data.admin.ch/eli/oc/2011/309)).
 
 #### Art. 60a
 
@@ -1366,13 +1366,15 @@ L’IPI non pubblica il fascicolo della domanda:
 - d.[^60c-2] se si tratta di una domanda risultante dalla trasformazione di una domanda di brevetto europeo e la domanda di brevetto europeo è già stata pubblicata; o
 - e.[^60c-3] se la domanda di brevetto è stata divisa secondo l’articolo 57 LBI.
 
-[^60c-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
-[^60c-2]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
-[^60c-3]: Introdotta dal n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^60c-1]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^60c-2]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^60c-3]: Introdotta dalla cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
 
 #### Art. 61
 
-Abrogato
+[^61-1]
+
+[^61-1]: Abrogato dalla cifra I dell’O del 21 mag. 2008, con effetto dal 1° giu. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 ### Capitolo 4: Esame relativo al contenuto
 
@@ -1435,7 +1437,7 @@ L’esame relativo al contenuto è differito al più tardi fino al momento in cu
 
 <sup>5</sup> Le richieste di cui ai capoversi 1–4 non hanno effetto sospensivo per i termini già stabiliti.
 
-[^62-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^62-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 [^62-2]: [RS 0.232.142.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1092)
 
 #### Art. 62a
@@ -1448,8 +1450,8 @@ L’esame relativo al contenuto è differito al più tardi fino al momento in cu
 
 <sup>3</sup> Termini già fissati non sono sospesi da domande giusta il capoverso 1.
 
-[^62a-1]: Introdotto dal n. I dell’O del 17 mag. 1995 ([RU 1995 3660](https://fedlex.data.admin.ch/eli/oc/1995/3660_3660_3660)). Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
-[^62a-2]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^62a-1]: Introdotto dalla cifra I dell’O del 17 mag. 1995 ([RU 1995 3660](https://fedlex.data.admin.ch/eli/oc/1995/3660_3660_3660)). Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^62a-2]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 
 #### Art. 63
 
@@ -1461,10 +1463,10 @@ L’esame relativo al contenuto è differito al più tardi fino al momento in cu
 
 <sup>3</sup> Il fascicolo del brevetto è pubblicato prima della scadenza del termine di priorità secondo l’articolo 17 LBI solo su richiesta del depositante.[^63-4]
 
-[^63-1]: Nuovo testo giusta il n. I dell’O del 12 ago. 1986, in vigore dal l° gen. 1987 ([RU 1986 1448](https://fedlex.data.admin.ch/eli/oc/1986/1448_1448_1448)).
-[^63-2]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
-[^63-3]: Nuovo testo giusta il n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
-[^63-4]: Introdotto dal n. I dell’O del 2 dic. 2016 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)). Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^63-1]: Nuovo testo giusta la cifra I dell’O del 12 ago. 1986, in vigore dal l° gen. 1987 ([RU 1986 1448](https://fedlex.data.admin.ch/eli/oc/1986/1448_1448_1448)).
+[^63-2]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^63-3]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
+[^63-4]: Introdotto dalla cifra I dell’O del 2 dic. 2016 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)). Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 
 #### Art. 64
 
@@ -1489,7 +1491,7 @@ Se risulta dall’esame relativo al contenuto che l’oggetto della domanda di b
 
 <sup>7</sup> Se il depositante comunica all’IPI di rinunciare alla modifica prima che la decisione di rigetto sia passata in giudicato, l’esame relativo al contenuto è ripreso sulla base di tale rinuncia.
 
-[^64-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^64-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 #### Art. 65
 
@@ -1499,7 +1501,7 @@ Se risulta dall’esame relativo al contenuto che l’oggetto della domanda di b
 
 <sup>2</sup> Se pare che la data di deposito, provvisoriamente attribuita a una domanda divisa in occasione dell’esame effettuato al momento del deposito (art. 46*e*), è rivendicata a torto, l’articolo 64 capoversi 4–7 si applica per analogia.
 
-[^65-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^65-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 #### Art. 66
 
@@ -1510,7 +1512,7 @@ Se risulta dall’esame relativo al contenuto che l’oggetto della domanda di b
 <sup>2</sup> L’IPI può modificare la classificazione fino al rilascio del brevetto.[^66-2]
 
 [^66-1]: [RS 0.232.143.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1098)
-[^66-2]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^66-2]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 ### Sezione 2: Oggetto e fine dell’esame
 
@@ -1522,13 +1524,13 @@ Se risulta dall’esame relativo al contenuto che l’oggetto della domanda di b
 
 <sup>2</sup> Se la domanda di brevetto non soddisfa gli articoli 49*a*, 50, 50*a*, 51, 52, 55 e 57 LBI e le disposizioni della presente ordinanza, l’IPI assegna al depositante un termine per rimediare alle manchevolezze. Se dette manchevolezze vengono corrette soltanto parzialmente, l’IPI, se lo ritiene utile, può inviare altre notificazioni.
 
-[^67-2]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^67-2]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 #### Art. 68
 
 [^68-1]
 
-[^68-1]: Abrogato dal n. I dell’O del 21 mag. 2008, con effetto dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^68-1]: Abrogato dalla cifra I dell’O del 21 mag. 2008, con effetto dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 #### Art. 69
 
@@ -1538,25 +1540,25 @@ Se risulta dall’esame relativo al contenuto che l’oggetto della domanda di b
 
 <sup>2</sup> Se gli atti tecnici corrispondono fin dall’inizio o dopo notificazione alla LBI e alla presente ordinanza in virtù del capoverso 1, si ritiene che il depositante approva la versione nella quale il brevetto deve essere rilasciato.
 
-[^69-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^69-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 ### Capitolo 5: Preparazione del rilascio del brevetto
 
 [^tit3-chap5-1]
 
-[^tit3-chap5-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^tit3-chap5-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 #### Art. 70
 
 [^70-1]
 
-[^70-1]: Abrogato dal n. I dell’O del 21 mag. 2008, con effetto dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^70-1]: Abrogato dalla cifra I dell’O del 21 mag. 2008, con effetto dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 #### Art. 71
 
 [^71-1]
 
-[^71-1]: Abrogato dal n. I dell’O dell’11 ago. 1999, con effetto dal 1° gen. 2000 ([RU 1999 2629](https://fedlex.data.admin.ch/eli/oc/1999/413)).
+[^71-1]: Abrogato dalla cifra I dell’O dell’11 ago. 1999, con effetto dal 1° gen. 2000 ([RU 1999 2629](https://fedlex.data.admin.ch/eli/oc/1999/413)).
 
 #### Art. 72
 
@@ -1564,13 +1566,13 @@ Se risulta dall’esame relativo al contenuto che l’oggetto della domanda di b
 
 Le domande tendenti a far iscrivere provvisoriamente o definitivamente modifiche nel registro, nonché il ritiro della domanda di brevetto, che giungono all’IPI dopo la data della fine della procedura di esame comunicata, sono ritenute presentate solo dopo il rilascio del brevetto.
 
-[^72-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^72-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 ### Capitolo 6: Procedura di opposizione
 
 [^tit3-chap6-1]
 
-[^tit3-chap6-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^tit3-chap6-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 #### Art. 73
 
@@ -1590,8 +1592,8 @@ L’opposizione deve essere presentata per scritto entro nove mesi dalla pubblic
 
 <sup>3</sup> L’opponente deve allegare i documenti addotti come mezzi di prova.
 
-[^73-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
-[^73-2]: Nuovo testo giusta il n. I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2247](https://fedlex.data.admin.ch/eli/oc/2011/309)).
+[^73-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^73-2]: Nuovo testo giusta la cifra I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2247](https://fedlex.data.admin.ch/eli/oc/2011/309)).
 
 #### Art. 74
 
@@ -1615,7 +1617,7 @@ L’opposizione deve essere presentata per scritto entro nove mesi dalla pubblic
 
 <sup>4</sup> Qualora un documento addotto come mezzo di prova non sia redatto né in una lingua ufficiale né in inglese, l’IPI può chiedere che sia prodotta una traduzione nella lingua della procedura. Se la traduzione non è prodotta, l’IPI non è tenuto a prendere in considerazione detto mezzo di prova.[^75-1]
 
-[^75-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^75-1]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 
 #### Art. 76
 
@@ -1635,10 +1637,10 @@ L’opposizione deve essere presentata per scritto entro nove mesi dalla pubblic
 
 <sup>3</sup> …[^77-4]
 
-[^77-1]: Nuovo testo giusta il n. I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2247](https://fedlex.data.admin.ch/eli/oc/2011/309)).
-[^77-2]: Nuovo testo giusta il n. I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2247](https://fedlex.data.admin.ch/eli/oc/2011/309)).
-[^77-3]: Nuovo testo giusta il n. I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2247](https://fedlex.data.admin.ch/eli/oc/2011/309)).
-[^77-4]: Abrogato dal n. I dell’O dell’11 mag. 2011, con effetto dal 1° lug. 2011 ([RU 2011 2247](https://fedlex.data.admin.ch/eli/oc/2011/309)).
+[^77-1]: Nuovo testo giusta la cifra I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2247](https://fedlex.data.admin.ch/eli/oc/2011/309)).
+[^77-2]: Nuovo testo giusta la cifra I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2247](https://fedlex.data.admin.ch/eli/oc/2011/309)).
+[^77-3]: Nuovo testo giusta la cifra I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2247](https://fedlex.data.admin.ch/eli/oc/2011/309)).
+[^77-4]: Abrogato dalla cifra I dell’O dell’11 mag. 2011, con effetto dal 1° lug. 2011 ([RU 2011 2247](https://fedlex.data.admin.ch/eli/oc/2011/309)).
 
 #### Art. 78
 
@@ -1650,7 +1652,7 @@ Se nei confronti dello stesso brevetto sono state presentate più opposizioni, l
 
 [^79-1]
 
-[^79-1]: Abrogato dal n. I dell’O del 2 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^79-1]: Abrogato dalla cifra I dell’O del 2 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
 
 #### Art. 80
 
@@ -1723,7 +1725,7 @@ Quando gli atti lo consentono, l’IPI decide che:
 
 <sup>2</sup> Qualora circostanze particolari lo giustifichino, l’IPI può rinunciare alla restituzione della tassa d’opposizione, segnatamente se l’opponente ha intenzionalmente ritardato la procedura.
 
-[^86-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^86-1]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 
 #### Art. 87
 
@@ -1743,7 +1745,7 @@ Se non altrimenti previsto nella presente ordinanza, alla procedura di opposizio
 
 [^tit4-1]
 
-[^tit4-1]: Originario tit. quinto. Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^tit4-1]: Originario tit. quinto. Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 ### Capitolo primo: Inserto
 
@@ -1757,7 +1759,7 @@ Se non altrimenti previsto nella presente ordinanza, alla procedura di opposizio
 
 <sup>3</sup> …[^89-1]
 
-[^89-1]: Introdotto dal n. I dell’O del 31 mar. 1999 ([RU 1999 1443](https://fedlex.data.admin.ch/eli/oc/1999/216)). Abrogato dal n. I dell’O del 3 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
+[^89-1]: Introdotto dalla cifra I dell’O del 31 mar. 1999 ([RU 1999 1443](https://fedlex.data.admin.ch/eli/oc/1999/216)). Abrogato dalla cifra I dell’O del 3 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
 
 #### Art. 90
 
@@ -1787,21 +1789,21 @@ Prima della pubblicazione del fascicolo della domanda o del rilascio del brevett
 
 <sup>8</sup> …[^90-9]
 
-[^90-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
-[^90-2]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
-[^90-3]: Introdotto dal n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
-[^90-4]: Nuovo testo giusta il n. I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4483](https://fedlex.data.admin.ch/eli/oc/2006/691)).
-[^90-5]: Abrogato dal n. I dell’O del 2 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
-[^90-6]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
-[^90-7]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
-[^90-8]: Nuovo testo giusta il n. I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4483](https://fedlex.data.admin.ch/eli/oc/2006/691)).
-[^90-9]: Abrogato dal n. I dell’O del 2 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^90-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^90-2]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^90-3]: Introdotto dalla cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^90-4]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4483](https://fedlex.data.admin.ch/eli/oc/2006/691)).
+[^90-5]: Abrogato dalla cifra I dell’O del 2 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^90-6]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^90-7]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^90-8]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4483](https://fedlex.data.admin.ch/eli/oc/2006/691)).
+[^90-9]: Abrogato dalla cifra I dell’O del 2 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
 
 #### Art. 91
 
 [^91-1]
 
-[^91-1]: Abrogato dal n. I dell’O del 21 mag. 2008, con effetto dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^91-1]: Abrogato dalla cifra I dell’O del 21 mag. 2008, con effetto dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 #### Art. 92
 
@@ -1811,8 +1813,8 @@ Prima della pubblicazione del fascicolo della domanda o del rilascio del brevett
 
 <sup>2</sup> Conserva l’originale o la copia dei documenti relativi a domande di brevetto considerate irricevibili, ritirate o respinte durante cinque anni a decorrere dal momento in cui le domande sono state considerate irricevibili, ritirate o respinte, ma durante almeno dieci anni a contare dalla data di deposito.[^92-2]
 
-[^92-1]: Nuovo testo giusta il n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
-[^92-2]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^92-1]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
+[^92-2]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 
 ### Capitolo 2: Registro dei brevetti
 
@@ -1826,7 +1828,7 @@ Prima della pubblicazione del fascicolo della domanda o del rilascio del brevett
 
 <sup>3</sup> …[^93-1]
 
-[^93-1]: Introdotto dal n. I dell’O del 31 mar. 1999 ([RU 1999 1443](https://fedlex.data.admin.ch/eli/oc/1999/216)). Abrogato dal n. I dell’O del 3 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
+[^93-1]: Introdotto dalla cifra I dell’O del 31 mar. 1999 ([RU 1999 1443](https://fedlex.data.admin.ch/eli/oc/1999/216)). Abrogato dalla cifra I dell’O del 3 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
 
 #### Art. 94
 
@@ -1851,20 +1853,20 @@ I brevetti sono definitivamente iscritti nel registro con le indicazioni seguent
 - n. modificazioni relative all’esistenza del brevetto o al diritto al brevetto;
 - o. cambiamenti di domicilio o di sede del titolare del brevetto;
 - p.[^94-5] cambiamenti di mandatario o del suo indirizzo;
-- [tab] q.[^94-6] le procedure di opposizione in corso.
+- q.[^94-6] le procedure di opposizione in corso.
 
 <sup>2</sup> Le domande di brevetto pubblicate sono provvisoriamente iscritte con le indicazioni corrispondenti.[^94-7]
 
 <sup>3</sup> L’IPI può inoltre iscrivere provvisoriamente o definitivamente altri dati che giudica utili.[^94-8]
 
-[^94-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
-[^94-2]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
-[^94-3]: Abrogata dal n. I dell’O del 21 mag. 2008, con effetto dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
-[^94-4]: Nuovo testo giusta il n. I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2247](https://fedlex.data.admin.ch/eli/oc/2011/309)).
-[^94-5]: Introdotta dal n. I dell’O del 21 mag. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)). Nuovo testo giusta il n. I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2247](https://fedlex.data.admin.ch/eli/oc/2011/309)).
-[^94-6]: Introdotta dal n. I dell’O del 21 mag. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)). Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
-[^94-7]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
-[^94-8]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^94-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^94-2]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^94-3]: Abrogata dalla cifra I dell’O del 21 mag. 2008, con effetto dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^94-4]: Nuovo testo giusta la cifra I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2247](https://fedlex.data.admin.ch/eli/oc/2011/309)).
+[^94-5]: Nuovo testo giusta la cifra I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2247](https://fedlex.data.admin.ch/eli/oc/2011/309)).
+[^94-6]: Introdotta dalla cifra I dell’O del 21 mag. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)). Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^94-7]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^94-8]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 
 #### Art. 95
 
@@ -1874,8 +1876,8 @@ I brevetti sono definitivamente iscritti nel registro con le indicazioni seguent
 
 <sup>2</sup> L’IPI allestisce estratti del registro dei brevetti.[^95-2]
 
-[^95-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4483](https://fedlex.data.admin.ch/eli/oc/2006/691)).
-[^95-2]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^95-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4483](https://fedlex.data.admin.ch/eli/oc/2006/691)).
+[^95-2]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
 
 ### Capitolo 3: Modificazioni
 
@@ -1891,9 +1893,9 @@ I brevetti sono definitivamente iscritti nel registro con le indicazioni seguent
 
 <sup>3</sup> È soggetta a tassa.[^96-3]
 
-[^96-1]: Abrogato dal n. I dell’O del 2 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
-[^96-2]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
-[^96-3]: Nuovo testo giusta il n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
+[^96-1]: Abrogato dalla cifra I dell’O del 2 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^96-2]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^96-3]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
 
 #### Art. 97
 
@@ -1901,15 +1903,17 @@ I brevetti sono definitivamente iscritti nel registro con le indicazioni seguent
 
 <sup>1</sup> La dichiarazione di rinuncia parziale non deve in alcun modo rendere oscura la portata giuridica delle rivendicazioni; gli articoli 1, 1*a*, 2, 51, 52 e 55 LBI sono parimente determinanti per il nuovo ordinamento delle rivendicazioni.
 
-<sup>2</sup> La descrizione, i disegni e l’estratto non possono essere modificati. Comunque la rinuncia parziale deve contenere una nota analoga alla seguente:
+<sup>2</sup>
 
-«Le parti della descrizione e dei disegni che dovessero essere incompatibili con il nuovo ordinamento delle rivendicazioni sono da considerare soppresse.»
+La descrizione, i disegni e l’estratto non possono essere modificati. Comunque la rinuncia parziale deve contenere una nota analoga alla seguente:
+
+- «Le parti della descrizione e dei disegni che dovessero essere incompatibili con il nuovo ordinamento delle rivendicazioni sono da considerare soppresse.»
 
 <sup>3</sup> Se la dichiarazione di rinuncia parziale non è conforme alle prescrizioni, l’IPI assegna al titolare del brevetto un termine per rimediare alle manchevolezze. Se dette manchevolezze vengono corrette soltanto parzialmente, l’IPI, se lo ritiene utile, può inviare altre notificazioni.
 
 <sup>4</sup> …[^97-1]
 
-[^97-1]: Abrogato dal n. I dell’O del 21 mag. 2008, con effetto dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^97-1]: Abrogato dalla cifra I dell’O del 21 mag. 2008, con effetto dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 #### Art. 98
 
@@ -1927,7 +1931,7 @@ I brevetti sono definitivamente iscritti nel registro con le indicazioni seguent
 
 Una richiesta di rinuncia parziale a un brevetto è inammissibile fintantoché contro il brevetto è possibile presentare un’opposizione e la decisione sull’opposizione non è passata in giudicato.
 
-[^98a-1]: Introdotto dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^98a-1]: Introdotto dalla cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 #### Art. 99
 
@@ -1949,7 +1953,7 @@ Le disposizioni che reggono le domande di brevetto si applicano alla richiesta d
 
 <sup>2</sup> …[^101-1]
 
-[^101-1]: Abrogato dal n. I dell’O del 21 mag. 2008, con effetto dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^101-1]: Abrogato dalla cifra I dell’O del 21 mag. 2008, con effetto dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 #### Art. 102
 
@@ -1971,7 +1975,7 @@ Le disposizioni che reggono le domande di brevetto si applicano alla richiesta d
 
 <sup>3</sup> Quando è in possesso della sentenza definitiva in cessione, l’IPI assegna al depositante soccombente o al titolare soccombente del brevetto un termine per presentare nuove domande di brevetto o una richiesta di costituzione di nuovi brevetti.[^103-1]
 
-[^103-1]: Nuovo testo giusta il n. I dell’O del 25 ott. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)).
+[^103-1]: Nuovo testo giusta la cifra I dell’O del 25 ott. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)).
 
 #### Art. 104
 
@@ -1989,10 +1993,10 @@ Prima del rilascio di un brevetto, sono menzionati nell’inserto:[^104-1]
 
 <sup>3</sup> L’acquirente di una domanda di brevetto la riprende nello stato in cui essa si trova quando il documento probatorio perviene all’IPI.[^104-4]
 
-[^104-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
-[^104-2]: Nuovo testo giusta il n. I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2247](https://fedlex.data.admin.ch/eli/oc/2011/309)).
-[^104-3]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
-[^104-4]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^104-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^104-2]: Nuovo testo giusta la cifra I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2247](https://fedlex.data.admin.ch/eli/oc/2011/309)).
+[^104-3]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^104-4]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 #### Art. 105
 
@@ -2019,12 +2023,12 @@ Nel registro dei brevetti vengono provvisoriamente o definitivamente iscritti:
 
 <sup>5 e <sup>6</sup></sup> …[^105-6]
 
-[^105-1]: Abrogata dal n. I dell’O del 21 mag. 2008, con effetto dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
-[^105-2]: Introdotto dal n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
-[^105-3]: Nuovo testo giusta il n. I dell’O del 25 ott. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)).
-[^105-4]: Introdotto dal n. I dell’O del 25 ott. 1995 ([RU 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)). Abrogato dal n. I dell’O del 21 mag. 2008, con effetto dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
-[^105-5]: Nuovo testo giusta il n. I dell’O del 25 ott. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)).
-[^105-6]: Abrogati dal n. I dell’O del 18 ott. 2006, con effetto dal 1° gen. 2007 ([RU 2006 4483](https://fedlex.data.admin.ch/eli/oc/2006/691)).
+[^105-1]: Abrogata dalla cifra I dell’O del 21 mag. 2008, con effetto dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^105-2]: Introdotto dalla cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^105-3]: Nuovo testo giusta la cifra I dell’O del 25 ott. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)).
+[^105-4]: Introdotto dalla cifra I dell’O del 25 ott. 1995 ([RU 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)). Abrogato dalla cifra I dell’O del 21 mag. 2008, con effetto dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^105-5]: Nuovo testo giusta la cifra I dell’O del 25 ott. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)).
+[^105-6]: Abrogati dalla cifra I dell’O del 18 ott. 2006, con effetto dal 1° gen. 2007 ([RU 2006 4483](https://fedlex.data.admin.ch/eli/oc/2006/691)).
 
 #### Art. 106
 
@@ -2032,7 +2036,7 @@ Nel registro dei brevetti vengono provvisoriamente o definitivamente iscritti:
 
 Su domanda del depositante o del titolare del brevetto, l’IPI cancella il diritto in favore di un terzo, annotato nell’inserto o iscritto provvisoriamente o definitivamente nel registro dei brevetti se, in pari tempo, è presentata una dichiarazione espressa di rinuncia del terzo o un altro documento equivalente..
 
-[^106-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^106-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 #### Art. 107
 
@@ -2044,7 +2048,7 @@ Su domanda del depositante o del titolare del brevetto, l’IPI cancella il diri
 
 <sup>3</sup> …[^107-1]
 
-[^107-1]: Abrogato dal n. I dell’O del 18 ott. 2006, con effetto dal 1° gen. 2007 ([RU 2006 4483](https://fedlex.data.admin.ch/eli/oc/2006/691)).
+[^107-1]: Abrogato dalla cifra I dell’O del 18 ott. 2006, con effetto dal 1° gen. 2007 ([RU 2006 4483](https://fedlex.data.admin.ch/eli/oc/2006/691)).
 
 #### Art. 107a
 
@@ -2054,7 +2058,7 @@ Su domanda del depositante o del titolare del brevetto, l’IPI cancella il diri
 
 <sup>2</sup> Se l’errore è imputabile a una svista dell’IPI, la rettifica avviene d’ufficio.
 
-[^107a-1]: Introdotto dal n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^107a-1]: Introdotto dalla cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
 
 ### Capitolo 4: Pubblicazioni dell’IPI
 
@@ -2070,8 +2074,8 @@ Su domanda del depositante o del titolare del brevetto, l’IPI cancella il diri
 
 <sup>2</sup> Su domanda e previa restituzione delle spese, l’IPI fa copie su carta dei dati pubblicati esclusivamente in forma elettronica.[^108-2]
 
-[^108-1]: Nuovo testo giusta il n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
-[^108-2]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^108-1]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
+[^108-2]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 
 #### Art. 109
 
@@ -2079,13 +2083,13 @@ Su domanda del depositante o del titolare del brevetto, l’IPI cancella il diri
 
 Il fascicolo del brevetto è pubblicato il giorno del rilascio del brevetto.
 
-[^109-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^109-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 ## Titolo quinto: Restrizioni al diritto derivanti dal brevetto
 
 [^tit5-1]
 
-[^tit5-1]: Originario tit. avanti art. 111. Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^tit5-1]: Originario tit. avanti art. 111. Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 ### Capitolo primo: Privilegio degli agricoltori
 
@@ -2106,7 +2110,7 @@ Le specie vegetali che beneficiano del privilegio degli agricoltori sono stabili
 
 [^tit5-chap2-1]
 
-[^tit5-chap2-1]: Originario tit. quinto. Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^tit5-chap2-1]: Originario tit. quinto. Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 #### Art. 111
 
@@ -2173,81 +2177,134 @@ Se il Paese beneficiario è membro dell’OMC, l’IPI comunica al Consiglio TRI
 
 <sup>3</sup> I tribunali comunicano all’IPI le informazioni necessarie affinché esso possa adempiere il suo obbligo d’informare e di notificare.
 
-## Titolo sesto: Intervento dell’Ufficio federale della dogana e della sicurezza dei confini
+## Titolo sesto: Intervento in caso di introduzione di merce nel territorio doganale o di asportazione di merce dal territorio doganale
 
 [^tit6-1]
 
-[^tit6-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^tit6-1]: Nuovo testo giusta la cifra I n. 5 dell’O del 14 mag. 2025 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in viguore dal 1° lug. 2025 ([RU 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 112
 
-**Campo d’applicazione**
+**Campo d’applicazione**[^112-1]
 
-L’UDSC è abilitato a intervenire in caso di introduzione sul territorio doganale o di asportazione da esso di merci che violano un brevetto valido in Svizzera.
+Il presente titolo si applica a interventi in caso di introduzione nel territorio doganale o di asportazione dal territorio doganale di merce che viola un brevetto valido in Svizzera.
+
+[^112-1]: Nuovo testo giusta la cifra I n. 5 dell’O del 14 mag. 2025 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in viguore dal 1° lug. 2025 ([RU 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 112a
 
-**Domanda d’intervento**
+**Piccoli invii**[^112a-1]
 
-<sup>1</sup> Il titolare del brevetto o il titolare di una licenza legittimato ad agire (richiedente) deve presentare la domanda d’intervento alla Direzione generale delle dogane.
+Per piccolo invio si intende un invio che contiene al massimo tre unità e il cui peso lordo è inferiore a cinque chilogrammi.
 
-1<sup>bis</sup> La Direzione generale delle dogane decide in merito alla domanda al più tardi entro 40 giorni dalla ricezione della documentazione completa.[^112a-1]
-
-<sup>2</sup> La domanda rimane valida per due anni, qualora non sia stata posta per una durata di validità più breve. Può essere rinnovata.
-
-[^112a-1]: Introdotto dal n. I 5 dell’O del 6 giu. 2014 sui termini ordinatori nell’ambito di competenza dell’Amministrazione federale delle dogane, in vigore dal 1° set. 2014 ([RU 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
+[^112a-1]: Introdotto dalla cifra I dell’O del 21 mag. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)). Nuovo testo giusta la cifra I n. 5 dell’O del 14 mag. 2025 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in viguore dal 1° lug. 2025 ([RU 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 112b
 
-**Ritenzione della merce**
+**Domanda d’intervento**[^112b-1]
 
-<sup>1</sup> In caso di ritenzione, l’ufficio doganale custodisce esso stesso la merce contro pagamento di una tassa oppure la fa custodire da terzi a spese del richiedente.
+<sup>1</sup> Il titolare del brevetto o il titolare di una licenza legittimato ad agire (richiedente) deve presentare la domanda d’intervento all’UDSC.
 
-<sup>2</sup> Esso comunica al richiedente il nome e l’indirizzo del depositante, del detentore o del proprietario, una descrizione precisa, la quantità e il nome del mittente in Svizzera o all’estero della merce ritenuta*.*[^112b-1]
+<sup>2</sup> L’UDSC decide in merito alla domanda al più tardi entro 40 giorni dalla ricezione della documentazione, non appena ne dispone integralmente.
 
-<sup>3</sup> Se già prima della scadenza del termine giusta l’articolo 86*c* capoverso 2 o 3 LBI è chiaro che il richiedente non può ottenere provvedimenti cautelari, l’ufficio doganale libera immediatamente la merce.
+<sup>3</sup> Una volta approvata, la domanda rimane valida per due anni qualora non sia stata presentata per una durata di validità più breve. Può essere rinnovata.
 
-[^112b-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^112b-1]: Introdotto dalla cifra I dell’O del 21 mag. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)). Nuovo testo giusta la cifra I n. 5 dell’O del 14 mag. 2025 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in viguore dal 1° lug. 2025 ([RU 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 112c
 
-**Campioni**
+**Ritenzione della merce**[^112c-1]
 
-<sup>1</sup> Il richiedente può chiedere la consegna o l’invio di campioni a scopo di esame oppure può chiedere di ispezionare la merce ritenuta. Invece dei campioni l’UDSC può trasmettere al depositante fotografie della merce ritenuta, se queste ne consentono l’esame.
+<sup>1</sup> Se l’UDSC trattiene della merce, la conserva dietro pagamento di un emolumento oppure la affida a terzi per la conservazione a spese del richiedente.
 
-<sup>2</sup> La richiesta può essere presentata insieme alla domanda d’intervento alla Direzione generale delle dogane o, durante la ritenzione della merce, direttamente all’ufficio doganale che trattiene la merce.
+<sup>2</sup> L’UDSC comunica al richiedente il nome e l’indirizzo del dichiarante, del detentore o del proprietario, una descrizione precisa, la quantità e il nome del mittente della merce ritenuta.
+
+<sup>3</sup> Se si tratta di un piccolo invio distrutto secondo la procedura semplificata, l’UDSC informa il richiedente sulla quantità e sulla natura nonché sul mittente della merce distrutta.
+
+<sup>4</sup> Se, già prima della scadenza del termine giusta l’articolo 86*c* capoverso 3 o 4 LBI, è chiaro che il richiedente non può ottenere provvedimenti cautelari, la merce è svincolata senza indugio.
+
+[^112c-1]: Introdotto dalla cifra I dell’O del 21 mag. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)). Nuovo testo giusta la cifra I n. 5 dell’O del 14 mag. 2025 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in viguore dal 1° lug. 2025 ([RU 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 112d
 
-**Tutela dei segreti di fabbricazione e di affari**
+**Delega della competenza per i piccoli invii**[^112d-1]
 
-<sup>1</sup> L’UDSC informa il depositante, il detentore o il proprietario della merce della possibilità di presentare una richiesta motivata per rifiutare il prelievo di campioni. Per l’inoltro della richiesta l’IPI stabilisce un termine adeguato.
+<sup>1</sup> Se la merce ritenuta costituisce un piccolo invio, l’UDSC incarica l’IPI dell’esecuzione della procedura e consegna la merce a quest’ultimo o a un terzo designato dall’IPI affinché la conservi.
 
-<sup>2</sup> Qualora l’UDSC consenta al richiedente di ispezionare la merce ritenuta, per stabilire il momento dell’esame tiene conto in maniera adeguata degli interessi del richiedente e del depositante, del detentore o del proprietario.[^112d-1]
+<sup>2</sup> Se il richiedente è l’IPI, rimane competente l’UDSC.
 
-[^112d-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^112d-1]: Introdotto dalla cifra I dell’O del 21 mag. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)). Nuovo testo giusta la cifra I n. 5 dell’O del 14 mag. 2025 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in viguore dal 1° lug. 2025 ([RU 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 112e
 
-**Conservazione dei mezzi di prova in caso di distruzione della merce**
+**Campioni o modelli**[^112e-1]
 
-<sup>1</sup> L’UDSC trattiene i campioni prelevati per un anno dalla notifica del depositante, del detentore o del proprietario in virtù dell’articolo 86*c* capoverso 1 LBI. Allo scadere di tale termine l’UDSC invita il depositante, il detentore o il proprietario a prendere in custodia i campioni, oppure ad assumere i costi per la conservazione ulteriore. Qualora il depositante, il detentore o il proprietario non sia disposto a prendere in custodia i campioni oppure ad assumere i costi per la conservazione ulteriore, o se non si esprime entro 30 giorni, l’UDSC distrugge i campioni.
+<sup>1</sup> Il richiedente può chiedere la consegna o l’invio di campioni o modelli a scopo di esame oppure può chiedere di ispezionare la merce ritenuta.
 
-<sup>2</sup> Invece di prelevare campioni l’UDSC può fotografare la merce distrutta, sempre che in tal modo la conservazione dei mezzi di prova sia garantita.
+<sup>2</sup> Invece di campioni o modelli, l’UDSC può trasmettere al richiedente fotografie della merce ritenuta, se queste ne consentono l’esame.
+
+<sup>3</sup> La richiesta può essere presentata insieme alla domanda d’intervento all’UDSC o, durante la ritenzione della merce, all’autorità competente.
+
+[^112e-1]: Introdotto dalla cifra I dell’O del 21 mag. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)). Nuovo testo giusta la cifra I n. 5 dell’O del 14 mag. 2025 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in viguore dal 1° lug. 2025 ([RU 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 112f
 
-**Emolumenti**
+**Tutela dei segreti di fabbricazione e di affari**[^112f-1]
 
-Gli emolumenti per l’intervento dell’UDSC sono retti dall’ordinanza del 4 aprile 2007[^112f-1] sugli emolumenti dell’Ufficio federale della dogana e della sicurezza dei confini.
+<sup>1</sup> Il dichiarante, il detentore o il proprietario della merce può chiedere all’UDSC di rifiutare il prelievo di campioni o modelli. La richiesta va motivata.
 
-[^112f-1]: [RS 631.035](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7819)
+<sup>2</sup> L’UDSC informa il dichiarante, detentore o proprietario della merce della possibilità di cui al capoverso 1 e gli concede un termine adeguato.
+
+<sup>3</sup> Qualora consenta al richiedente di ispezionare la merce ritenuta, nel determinare il momento dell’ispezione l’UDSC tiene conto in maniera adeguata degli interessi del richiedente da una parte e di quelli del dichiarante, detentore o proprietario dall’altra.
+
+[^112f-1]: Introdotto dalla cifra I dell’O del 21 mag. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)). Nuovo testo giusta la cifra I n. 5 dell’O del 14 mag. 2025 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in viguore dal 1° lug. 2025 ([RU 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
+
+#### Art. 112g
+
+**Conservazione dei mezzi di prova in caso di distruzione della merce**[^112g-1]
+
+<sup>1</sup> L’UDSC conserva i campioni o modelli per un anno dal momento in cui comunica la ritenzione della merce al dichiarante, detentore o proprietario. Allo scadere di tale termine l’UDSC invita il dichiarante, detentore o proprietario a riprendere possesso dei campioni o modelli, oppure ad assumere i costi per l’ulteriore conservazione. Se il dichiarante, detentore o proprietario non ottempera all’invito o non fornisce una risposta entro 30 giorni, l’UDSC distrugge i campioni o modelli.
+
+<sup>2</sup> Invece di prelevare campioni o modelli, l’UDSC può fotografare la merce distrutta, a condizione che ciò consenta di garantire la conservazione dei mezzi di prova.
+
+[^112g-1]: Introdotto dalla cifra I n. 5 dell’O del 14 mag. 2025 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in viguore dal 1° lug. 2025 ([RU 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
+
+#### Art. 112h
+
+**Trattamento, comunicazione e conservazione di dati personali e di dati concernenti persone giuridiche**[^112h-1]
+
+<sup>1</sup>
+
+Le autorità competenti per l’esecuzione dell’intervento sono autorizzate a trattare i seguenti dati, personali e concernenti persone giuridiche, delle persone coinvolte nell’introduzione nel territorio doganale o nell’asportazione dal territorio doganale di merce o nell’intervento, per gli scopi di cui agli articoli 86*a*–86*l* LBI, soprattutto in relazione al trattamento di domande d’intervento, alla notifica di invii sospetti, alla ritenzione o alla distruzione di merce nonché al prelievo o invio di campioni e modelli:
+
+- a. generalità del richiedente, del mittente, del dichiarante, del detentore o del proprietario della merce, segnatamente il cognome e il nome o la ditta e l’indirizzo;
+- b. indicazioni e documenti relativi alle domande d’intervento di cui all’articolo 86*b* LBI;
+- c. indicazioni e documenti relativi alla merce ritenuta secondo l’articolo 86*c* LBI;
+- d. indicazioni e documenti relativi all’intervento, inclusi quelli relativi alla ritenzione e alla distruzione di merce nonché al prelievo e all’invio di campioni e modelli.
+
+<sup>2</sup> Se l’IPI è competente per l’esecuzione della procedura, l’UDSC gli comunica i dati necessari di cui al capoverso 1.
+
+<sup>3</sup> Le autorità competenti possono conservare i dati per il periodo necessario allo scopo del trattamento, ma al massimo per cinque anni dopo la scadenza della durata di validità di una domanda d’intervento o dopo l’intervento.
+
+[^112h-1]: Introdotto dalla cifra I n. 5 dell’O del 14 mag. 2025 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in viguore dal 1° lug. 2025 ([RU 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
+
+#### Art. 112i
+
+**Emolumenti e tasse**[^112i-1]
+
+<sup>1</sup> Gli emolumenti per l’intervento dell’UDSC sono retti dall’ordinanza del 4 aprile 2007[^112i-2] sugli emolumenti dell’Ufficio federale della dogana e della sicurezza dei confini.
+
+<sup>2</sup> Se l’IPI è competente per l’esecuzione della procedura, le tasse sono rette dalla OTa‑IPI[^112i-3].
+
+[^112i-1]: Introdotto dalla cifra I n. 5 dell’O del 14 mag. 2025 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in viguore dal 1° lug. 2025 ([RU 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
+[^112i-2]: [RS 631.035](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7819)
+[^112i-3]: [RS 232.148](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5978)
 
 #### Art. 113
 
 [^113-1]
 
-[^113-1]: Abrogato dal n. I dell’O del 25 ott. 1995, con effetto dal 1° gen. 1996 ([RU 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)).
+[^113-1]: Abrogato dalla cifra I dell’O del 25 ott. 1995, con effetto dal 1° gen. 1996 ([RU 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)).
 
 ## Titolo settimo: Domande di brevetto europeo e brevetti europei
 
@@ -2270,13 +2327,13 @@ Gli emolumenti per l’intervento dell’UDSC sono retti dall’ordinanza del 4 
 <sup>3</sup> Le tasse percepite in virtù della Convenzione del 5 ottobre 1973[^115-1] sul brevetto europeo devono essere pagate direttamente all’UEB.[^115-2]
 
 [^115-1]: [RS 0.232.142.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1089)
-[^115-2]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^115-2]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
 
 #### Art. 116
 
 [^116-1]
 
-[^116-1]: Abrogato dal n. I dell’O del 14 mar. 2008, con effetto dal 1° mag. 2008 ([RU 2008 1659](https://fedlex.data.admin.ch/eli/oc/2008/243)).
+[^116-1]: Abrogato dalla cifra I dell’O del 14 mar. 2008, con effetto dal 1° mag. 2008 ([RU 2008 1659](https://fedlex.data.admin.ch/eli/oc/2008/243)).
 
 #### Art. 117
 
@@ -2296,8 +2353,8 @@ Nel registro svizzero dei brevetti europei (art. 117 LBI) vengono registrati:
 
 <sup>4</sup> L’IPI tiene un inserto di ogni brevetto europeo.
 
-[^117-1]: Nuovo testo giusta il n. I dell’O del 17 ott. 2007, in vigore dal 13 dic. 2007 ([RU 2007 6085](https://fedlex.data.admin.ch/eli/oc/2007/810)).
-[^117-2]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^117-1]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2007, in vigore dal 13 dic. 2007 ([RU 2007 6085](https://fedlex.data.admin.ch/eli/oc/2007/810)).
+[^117-2]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
 
 #### Art. 117a
 
@@ -2305,7 +2362,7 @@ Nel registro svizzero dei brevetti europei (art. 117 LBI) vengono registrati:
 
 Nel caso di brevetti europei con effetto in Svizzera il segno del brevetto (art. 11 LBI) consta della menzione «EP/CH» seguita dal numero del brevetto.
 
-[^117a-1]: Introdotto dal n. I dell’O del 17 mag. 1995, in vigore dal 1° set. 1995 ([RU 1995 3660](https://fedlex.data.admin.ch/eli/oc/1995/3660_3660_3660)).
+[^117a-1]: Introdotto dalla cifra I dell’O del 17 mag. 1995, in vigore dal 1° set. 1995 ([RU 1995 3660](https://fedlex.data.admin.ch/eli/oc/1995/3660_3660_3660)).
 
 #### Art. 118
 
@@ -2321,9 +2378,9 @@ Se una domanda di brevetto europeo è trasformata in domanda di brevetto svizzer
 
 <sup>2</sup> Le tasse annuali esigibili devono essere pagate entro sei mesi a decorrere dal relativo invito dell’IPI; se il pagamento è effettuato nei tre ultimi mesi, è riscossa una soprattassa.
 
-[^118-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
-[^118-2]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
-[^118-3]: Nuovo testo giusta il n. I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2247](https://fedlex.data.admin.ch/eli/oc/2011/309)).
+[^118-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^118-2]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^118-3]: Nuovo testo giusta la cifra I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2247](https://fedlex.data.admin.ch/eli/oc/2011/309)).
 
 #### Art. 118a
 
@@ -2331,7 +2388,7 @@ Se una domanda di brevetto europeo è trasformata in domanda di brevetto svizzer
 
 Per il brevetto europeo una tassa annuale deve essere pagata anticipatamente all’IPI, la prima volta per l’anno che segue quello in cui il rilascio del brevetto europeo è menzionato nel Bollettino europeo dei brevetti, ma al più presto dall’inizio del quarto anno che segue il deposito della domanda.
 
-[^118a-1]: Introdotto dal n. I dell’O del 25 ott. 1995 ([RU 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)). Nuovo testo giusta il n. I dell’O del 1° mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1305](https://fedlex.data.admin.ch/eli/oc/2013/298)).
+[^118a-1]: Introdotto dalla cifra I dell’O del 25 ott. 1995 ([RU 1995 5164](https://fedlex.data.admin.ch/eli/oc/1995/5164_5164_5164)). Nuovo testo giusta la cifra I dell’O del 1° mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1305](https://fedlex.data.admin.ch/eli/oc/2013/298)).
 
 ## Titolo ottavo: Domande internazionali di brevetto
 
@@ -2343,7 +2400,7 @@ Per il brevetto europeo una tassa annuale deve essere pagata anticipatamente all
 
 <sup>2</sup> Le altre disposizioni della presente ordinanza sono applicabili, sempre che l’articolo 131 LBI o il titolo presente non dispongano altrimenti.
 
-[^119-1]: Nuovo testo giusta il n. I dell’O del 17 mag. 1995, in vigore dal 1° set. 1995 ([RU 1995 3660](https://fedlex.data.admin.ch/eli/oc/1995/3660_3660_3660)).
+[^119-1]: Nuovo testo giusta la cifra I dell’O del 17 mag. 1995, in vigore dal 1° set. 1995 ([RU 1995 3660](https://fedlex.data.admin.ch/eli/oc/1995/3660_3660_3660)).
 
 ### Capitolo 2: L’IPI quale ufficio ricevente
 
@@ -2355,7 +2412,7 @@ Per il brevetto europeo una tassa annuale deve essere pagata anticipatamente all
 
 <sup>2</sup> L’IPI corrisponde con il depositante in tedesco o francese.
 
-[^120-1]: Nuovo testo giusta il n. I dell’O del 31 mar. 1999, in vigore dal 1° mag. 1999 ([RU 1999 1443](https://fedlex.data.admin.ch/eli/oc/1999/216)).
+[^120-1]: Nuovo testo giusta la cifra I dell’O del 31 mar. 1999, in vigore dal 1° mag. 1999 ([RU 1999 1443](https://fedlex.data.admin.ch/eli/oc/1999/216)).
 
 #### Art. 121
 
@@ -2365,8 +2422,8 @@ Per il brevetto europeo una tassa annuale deve essere pagata anticipatamente all
 
 <sup>2</sup> Il capoverso 1 si applica per analogia alla tassa di ricerca il cui importo è stabilito in base all’accordo concluso con l’amministrazione incaricata della ricerca internazionale, competente per la Svizzera. L’IPI indica nell’organo di pubblicazione l’importo della tassa di ricerca stabilito dall’autorità internazionale.[^121-3]
 
-[^121-1]: Nuovo testo giusta il n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
-[^121-2]: Nuovo testo giusta il n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
+[^121-1]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
+[^121-2]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
 [^121-3]: Nuovo testo del per. giusta l’all. n. 2 dell’O dell’8 mar. 2002, in vigore dal 1° lug. 2002 ([RU 2002 1122](https://fedlex.data.admin.ch/eli/oc/2002/183)).
 
 #### Art. 122
@@ -2377,14 +2434,14 @@ Per il brevetto europeo una tassa annuale deve essere pagata anticipatamente all
 
 <sup>2</sup> Gli importi di queste tasse sono quelli figuranti nell’elenco delle tasse del regolamento d’esecuzione del Trattato di cooperazione.
 
-[^122-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^122-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 [^122-2]: [RS 0.232.141.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1084)
 
 #### Art. 122a
 
 [^122a-1]
 
-[^122a-1]: Introdotto dal n. I dell’O del 2 dic. 1991 ([RU 1991 2565](https://fedlex.data.admin.ch/eli/oc/1991/2565_2565_2565)). Abrogato dal n. I dell’O del 21 mag. 2008, con effetto dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^122a-1]: Introdotto dalla cifra I dell’O del 2 dic. 1991 ([RU 1991 2565](https://fedlex.data.admin.ch/eli/oc/1991/2565_2565_2565)). Abrogato dalla cifra I dell’O del 21 mag. 2008, con effetto dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 #### Art. 122b
 
@@ -2394,7 +2451,7 @@ Per il brevetto europeo una tassa annuale deve essere pagata anticipatamente all
 
 <sup>2</sup> La decisione dell’IPI è definitiva.
 
-[^122b-1]: Introdotto dal n. I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4483](https://fedlex.data.admin.ch/eli/oc/2006/691)).
+[^122b-1]: Introdotto dalla cifra I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4483](https://fedlex.data.admin.ch/eli/oc/2006/691)).
 [^122b-2]: [RS 0.232.141.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1084)
 
 ### Capitolo 3: L’IPI quale ufficio designato
@@ -2418,7 +2475,7 @@ Se una domanda di brevetto internazionale non è stata pubblicata in una lingua 
 
 <sup>5</sup> Se la traduzione è rettificata, i capoversi 1–4 si applicano per analogia.
 
-[^123-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^123-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 #### Art. 124
 
@@ -2441,8 +2498,8 @@ Il depositante deve compiere i seguenti atti presso l’IPI entro 30 mesi dalla 
 
 <sup>5</sup> L’articolo 52 capoverso 1 si applica per analogia se il documento di priorità non è redatto in una lingua ufficiale svizzera o in inglese.
 
-[^124-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
-[^124-2]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^124-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^124-2]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 
 #### Art. 125
 
@@ -2450,15 +2507,15 @@ Il depositante deve compiere i seguenti atti presso l’IPI entro 30 mesi dalla 
 
 Dietro pagamento di una tassa, l’IPI ripristina il termine di priorità secondo la regola 49<sup>ter</sup>.2 del regolamento d’esecuzione del Trattato di cooperazione[^125-2], se il depositante non è stato in grado di rispettare questo termine nonostante abbia agito con la diligenza richiesta dalle circostanze.
 
-[^125-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4483](https://fedlex.data.admin.ch/eli/oc/2006/691)).
+[^125-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4483](https://fedlex.data.admin.ch/eli/oc/2006/691)).
 [^125-2]: [RS 0.232.141.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1084)
 
 ### Capitolo 4: L’IPI in quanto ufficio designato
 
 [^tit8-chap4-1][^tit8-chap4-2]
 
-[^tit8-chap4-1]: Introdotto dal n. I dell’O del 17 mag. 1995, in vigore dal 1° set. 1995 ([RU 1995 3660](https://fedlex.data.admin.ch/eli/oc/1995/3660_3660_3660)).
-[^tit8-chap4-2]: Nuovo testo giusta il n. I dell’O del 31 mar. 1999, in vigore dal 1° mag. 1999 ([RU 1999 1443](https://fedlex.data.admin.ch/eli/oc/1999/216)).
+[^tit8-chap4-1]: Introdotto dalla cifra I dell’O del 17 mag. 1995, in vigore dal 1° set. 1995 ([RU 1995 3660](https://fedlex.data.admin.ch/eli/oc/1995/3660_3660_3660)).
+[^tit8-chap4-2]: Nuovo testo giusta la cifra I dell’O del 31 mar. 1999, in vigore dal 1° mag. 1999 ([RU 1999 1443](https://fedlex.data.admin.ch/eli/oc/1999/216)).
 
 #### Art. 125a
 
@@ -2468,8 +2525,8 @@ Dietro pagamento di una tassa, l’IPI ripristina il termine di priorità second
 
 <sup>2</sup> Se il termine per la traduzione degli allegati non è rispettato giusta il capoverso 1, l’IPI assegna al depositante un termine supplementare di due mesi. Se tale termine supplementare non è rispettato, l’IPI considera la domanda irricevibile.[^125a-2]
 
-[^125a-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
-[^125a-2]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^125a-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^125a-2]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 
 #### Art. 125b
 
@@ -2485,7 +2542,7 @@ Dietro pagamento di una tassa, l’IPI ripristina il termine di priorità second
 
 Dietro pagamento di una tassa, l’IPI ripristina il termine di priorità secondo la regola 49<sup>ter</sup>.2 del regolamento d’esecuzione del Trattato di cooperazione[^125c-2], se il depositante non è stato in grado di rispettare questo termine nonostante abbia agito con la diligenza richiesta dalle circostanze.
 
-[^125c-1]: Introdotto dal n. I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4483](https://fedlex.data.admin.ch/eli/oc/2006/691)).
+[^125c-1]: Introdotto dalla cifra I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4483](https://fedlex.data.admin.ch/eli/oc/2006/691)).
 [^125c-2]: [RS 0.232.141.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1084)
 
 ## Titolo nono: Ricerche di tipo internazionale
@@ -2507,10 +2564,10 @@ Dietro pagamento di una tassa, l’IPI ripristina il termine di priorità second
 <sup>6</sup> Su richiesta, la ricerca di tipo internazionale viene eseguita in base agli atti tecnici presentati in lingua inglese, se gli atti tecnici soddisfano le altre condizioni di cui agli articoli 46–50.[^126-5]
 
 [^126-1]: [RS 0.232.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1083)
-[^126-2]: Nuovo testo giusta il n. I dell’O del 31 mar. 1999, in vigore dal 1° mag. 1999 ([RU 1999 1443](https://fedlex.data.admin.ch/eli/oc/1999/216)).
-[^126-3]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
-[^126-4]: Introdotto dal n. I dell’O del 17 mag. 1995 ([RU 1995 3660](https://fedlex.data.admin.ch/eli/oc/1995/3660_3660_3660)). Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
-[^126-5]: Introdotto dal n. I dell’O del 17 mag. 1995 ([RU 1995 3660](https://fedlex.data.admin.ch/eli/oc/1995/3660_3660_3660)). Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^126-2]: Nuovo testo giusta la cifra I dell’O del 31 mar. 1999, in vigore dal 1° mag. 1999 ([RU 1999 1443](https://fedlex.data.admin.ch/eli/oc/1999/216)).
+[^126-3]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4837](https://fedlex.data.admin.ch/eli/oc/2016/776)).
+[^126-4]: Introdotto dalla cifra I dell’O del 17 mag. 1995 ([RU 1995 3660](https://fedlex.data.admin.ch/eli/oc/1995/3660_3660_3660)). Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^126-5]: Introdotto dalla cifra I dell’O del 17 mag. 1995 ([RU 1995 3660](https://fedlex.data.admin.ch/eli/oc/1995/3660_3660_3660)). Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 #### Art. 127
 
@@ -2520,20 +2577,20 @@ Dietro pagamento di una tassa, l’IPI ripristina il termine di priorità second
 
 <sup>2</sup> L’IPI trasmette al depositante il rapporto di ricerca e una copia dei documenti ivi citati; una copia è allegata agli atti.
 
-[^127-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^127-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
 
 ## Titolo decimo: Certificati protettivi complementari per medicinali
 
 [^tit10-1][^tit10-2]
 
-[^tit10-1]: Introdotto dal n. I dell’O del 17 mag. 1995, in vigore dal 1° set. 1995 ([RU 1995 3660](https://fedlex.data.admin.ch/eli/oc/1995/3660_3660_3660)).
-[^tit10-2]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^tit10-1]: Introdotto dalla cifra I dell’O del 17 mag. 1995, in vigore dal 1° set. 1995 ([RU 1995 3660](https://fedlex.data.admin.ch/eli/oc/1995/3660_3660_3660)).
+[^tit10-2]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 
 ### Capitolo primo:Campo d’applicazione
 
 [^tit10-chap1-1]
 
-[^tit10-chap1-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^tit10-chap1-1]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 
 #### Art. 127a
 
@@ -2547,7 +2604,7 @@ Dietro pagamento di una tassa, l’IPI ripristina il termine di priorità second
 
 [^tit10-chap2-1]
 
-[^tit10-chap2-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^tit10-chap2-1]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 
 #### Art. 127b
 
@@ -2572,7 +2629,7 @@ La domanda di proroga della durata di protezione del certificato deve contenere:
 
 <sup>3</sup> La tassa per il deposito del certificato e la tassa per la domanda di proroga della durata di protezione del certificato devono essere pagate entro il termine fissato dall’IPI.
 
-[^127b-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^127b-1]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 [^127b-2]: Vedi anche le disp. trans. della mod. del 21 set. 2018 alla fine del testo.
 
 #### Art. 127c
@@ -2599,13 +2656,13 @@ La richiesta di proroga della durata di protezione del certificato deve contener
 - b.[^127c-6] data dell’eventuale domanda secondo l’articolo 140*n* capoverso 1 lettera b LBI e autorità competente;
 - c. se la domanda di proroga della durata di protezione del certificato non è presentata insieme alla domanda di rilascio del certificato, il numero della domanda di rilascio del certificato o del certificato rilasciato e i dati di cui al capoverso 1 lettere a e b.[^127c-7]
 
-[^127c-1]: Nuovo testo giusta il n. I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2247](https://fedlex.data.admin.ch/eli/oc/2011/309)).
-[^127c-2]: Nuovo testo giusta il n. I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2247](https://fedlex.data.admin.ch/eli/oc/2011/309)).
-[^127c-3]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
-[^127c-4]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
-[^127c-5]: Abrogata dal n. I dell’O del 3 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
+[^127c-1]: Nuovo testo giusta la cifra I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2247](https://fedlex.data.admin.ch/eli/oc/2011/309)).
+[^127c-2]: Nuovo testo giusta la cifra I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2247](https://fedlex.data.admin.ch/eli/oc/2011/309)).
+[^127c-3]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^127c-4]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^127c-5]: Abrogata dalla cifra I dell’O del 3 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
 [^127c-6]: Vedi anche le disp. trans. della mod. del 21 set. 2018 alla fine del testo.
-[^127c-7]: Introdotto dal n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^127c-7]: Introdotto dalla cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 
 #### Art. 127d
 
@@ -2634,14 +2691,14 @@ Per le domande di proroga della durata di protezione del certificato sono pubbli
 
 <sup>3</sup> La pubblicazione avviene una volta concluso l’esame giusta l’articolo 127*e*.
 
-[^127d-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^127d-1]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 [^127d-2]: Vedi anche le disp. trans. della mod. del 21 set. 2018 alla fine del testo.
 
 ### Capitolo 3: Esame della domanda di rilascio del certificato o di proroga della durata di protezione
 
 [^tit10-chap3-1]
 
-[^tit10-chap3-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^tit10-chap3-1]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 
 #### Art. 127e
 
@@ -2653,8 +2710,8 @@ Per le domande di proroga della durata di protezione del certificato sono pubbli
 
 <sup>3</sup> Se il termine non è rispettato, l’IPI considera la domanda irricevibile.[^127e-2]
 
-[^127e-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
-[^127e-2]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^127e-1]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^127e-2]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 
 #### Art. 127f
 
@@ -2666,13 +2723,13 @@ Per le domande di proroga della durata di protezione del certificato sono pubbli
 
 <sup>3</sup> Se le condizioni di cui ai capoversi 1 e 2 non sono soddisfatte, l’IPI respinge la domanda.
 
-[^127f-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^127f-1]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 
 ### Capitolo 4: Rilascio del certificato e proroga della durata di protezione
 
 [^tit10-chap4-1]
 
-[^tit10-chap4-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^tit10-chap4-1]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 
 #### Art. 127g
 
@@ -2709,7 +2766,7 @@ In aggiunta a quelli di cui al capoverso 2 sono pubblicati anche i dati seguenti
 
 [^tit10-chap5-1]
 
-[^tit10-chap5-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^tit10-chap5-1]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 
 #### Art. 127h
 
@@ -2727,7 +2784,7 @@ In caso di rigetto della domanda di rilascio del certificato o di proroga della 
 
 <sup>3</sup> Il certificato riceve il numero del brevetto di base, munito di un’aggiunta.
 
-[^127i-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^127i-1]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 
 #### Art. 127k
 
@@ -2761,21 +2818,21 @@ Sono iscritti i dati seguenti:
 
 <sup>4</sup> Iscrizioni concernenti concessioni di diritti sul brevetto di base nonché restrizioni al diritto di disporre ordinate per il brevetto di base da tribunali o autorità incaricate dell’esecuzione forzata sono supposte valere per il certificato nella medesima misura che per il brevetto di base.[^127k-9]
 
-[^127k-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
-[^127k-2]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
-[^127k-3]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
-[^127k-4]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
-[^127k-5]: Introdotta dal n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
-[^127k-6]: Introdotta dal n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)). Vedi anche le disp. trans. di detta mod. alla fine del testo.
-[^127k-7]: Introdotta dal n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
-[^127k-8]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
-[^127k-9]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^127k-1]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^127k-2]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^127k-3]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^127k-4]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^127k-5]: Introdotta dalla cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^127k-6]: Introdotta dalla cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)). Vedi anche le disp. trans. di detta mod. alla fine del testo.
+[^127k-7]: Introdotta dalla cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^127k-8]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^127k-9]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 
 ### Capitolo 7: Tasse
 
 [^tit10-chap7-1]
 
-[^tit10-chap7-1]: Nuovo testo giusta il n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
+[^tit10-chap7-1]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
 
 #### Art. 127l
 
@@ -2796,10 +2853,10 @@ Le tasse annuali diventano esigibili l’ultimo giorno del mese in cui:
 
 <sup>5</sup> Le tasse annuali devono essere pagate al più tardi l’ultimo giorno del sesto mese a decorrere dalla rispettiva scadenza; se il pagamento è effettuato dopo l’ultimo giorno del terzo mese dalla scadenza, è riscossa una soprattassa.[^127l-4]
 
-[^127l-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
-[^127l-2]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
-[^127l-3]: Introdotto dal n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
-[^127l-4]: Introdotto dal n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^127l-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2585](https://fedlex.data.admin.ch/eli/oc/2008/367)).
+[^127l-2]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^127l-3]: Introdotto dalla cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^127l-4]: Introdotto dalla cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 
 #### Art. 127m
 
@@ -2824,13 +2881,13 @@ La restituzione avviene soltanto su domanda; quest’ultima deve essere presenta
 - c. dalla revoca dell’omologazione secondo l’articolo 127*b* capoverso 1 lettera b;
 - d. dalla fine della sospensione dell’omologazione secondo l’articolo 127*b* capoverso 1 lettera b.
 
-[^127m-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^127m-1]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 
 ### Capitolo 8: Revoca della proroga della durata di protezione del certificato
 
 [^tit10-chap8-1]
 
-[^tit10-chap8-1]: Introdotto dal n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^tit10-chap8-1]: Introdotto dalla cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 
 #### Art. 127n
 
@@ -2911,7 +2968,7 @@ Quando gli atti lo consentono, l’IPI decide che la proroga della durata di pro
 
 [^tit11-1]
 
-[^tit11-1]: Introdotto dal n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^tit11-1]: Introdotto dalla cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 
 ### Capitolo primo: Campo d’applicazione
 
@@ -3083,7 +3140,7 @@ Sono iscritti i dati seguenti:
 
 [^tit12-1]
 
-[^tit12-1]: Introdotto dal n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^tit12-1]: Introdotto dalla cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 
 #### Art. 127z<sup>sexies</sup>
 
@@ -3117,13 +3174,13 @@ Gli articoli 127*a* capoverso 2, 127*c* capoverso 1, 127*d* capoversi 1 e 3, 127
 
 [^tit13-1]
 
-[^tit13-1]: Originario tit. decimo. Nuovo testo giusta il n. I dell’O del 17 mag. 1995, in vigore dal 1° set. 1995 ([RU 1995 3660](https://fedlex.data.admin.ch/eli/oc/1995/3660_3660_3660)).
+[^tit13-1]: Originario tit. decimo. Nuovo testo giusta la cifra I dell’O del 17 mag. 1995, in vigore dal 1° set. 1995 ([RU 1995 3660](https://fedlex.data.admin.ch/eli/oc/1995/3660_3660_3660)).
 
 ### Capitolo primo: Abrogazione del diritto previgente
 
 [^tit13-chap1-1]
 
-[^tit13-chap1-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
+[^tit13-chap1-1]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3551](https://fedlex.data.admin.ch/eli/oc/2018/584)).
 
 #### Art. 128
 
@@ -3150,9 +3207,9 @@ Il termini che hanno cominciato a decorrere prima del 1° gennaio 1978 rimangono
 
 <sup>3</sup> Il capoverso 2 si applica per analogia alle domande di brevetto addizionali a un brevetto principale, la cui trasformazione è richiesta dopo il 1° gennaio 1978.
 
-[^130-1]: Nuovo testo giusta il n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
-[^130-2]: Nuovo testo giusta il n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
-[^130-3]: Nuovo testo giusta il n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
+[^130-1]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
+[^130-2]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
+[^130-3]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5025](https://fedlex.data.admin.ch/eli/oc/2004/770)).
 
 #### Art. 131
 
