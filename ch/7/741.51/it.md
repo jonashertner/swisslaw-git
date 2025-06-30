@@ -4,11 +4,11 @@ title: "Ordinanza del 27 ottobre 1976 sull'ammissione alla circolazione di perso
 short: OAC
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423"
 language: it
-version: 2025-06-18
+version: 2025-07-01
 adopted: 1976-10-27
 in_force: 1977-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20250618/it/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20250618-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20250618/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20250701/it/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20250701-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20250701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20250618/it"
 
 (Ordinanza sull’ammissione alla circolazione, OAC)[^t-1]
 
-del 27 ottobre 1976 (Stato 18 giugno 2025)
+del 27 ottobre 1976 (Stato 1° luglio 2025)
 
 [^t-1]: Introdotto dalla cifra I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 
@@ -1216,17 +1216,17 @@ Il permesso per il trasporto professionale di persone è rilasciato al titolare 
 
 <sup>1</sup>
 
-Sono tenuti a sottoporsi a una visita di controllo di idoneità alla guida:
+Sono tenuti a sottoporsi a una visita di controllo di idoneità alla guida:[^27-2]
 
 - a.
 
-  i titolari di una licenza di condurre delle categorie C o D, delle sottocategorie C1 o D1 o di un permesso per il trasporto professionale di persone nonché gli esperti della circolazione:
+  i titolari di una licenza di condurre delle categorie C o D, delle sottocategorie C1 o D1 o di un permesso per il trasporto professionale di persone nonché gli esperti della circolazione incaricati degli esami di conducente:[^27-3]
 
   - 1\. ogni cinque anni, fatta eccezione per il primo esame dopo il compimento del 50° anno d’età che dev’essere effettuato entro i 53 anni,
   - 2\. dopo il primo esame svolto dopo il compimento del 50° anno d’età, ogni tre anni, fatta eccezione per il primo esame dopo il compimento del 75° anno d’età che dev’essere effettuato entro i 77 anni;
 
 - b. i titolari di una licenza di condurre ogni due anni a partire dal compimento del 75° anno d’età;
-- c. i titolari di una licenza di condurre affetti o precedentemente affetti da gravi minorazioni fisiche dovute a lesioni da incidente o a malattie.[^27-2]
+- c. i titolari di una licenza di condurre affetti o precedentemente affetti da gravi minorazioni fisiche dovute a lesioni da incidente o a malattie.[^27-4]
 
 <sup>1bis</sup>
 
@@ -1234,13 +1234,13 @@ L’autorità cantonale ricorda alle persone di cui al capoverso 1 lettere a e b
 
 - a. per la prima visita di controllo di persone di cui al capoverso 1 lettera a: tre mesi prima del termine di scadenza calcolato a partire dalla data dell’ultimo esame medico di idoneità alla guida;
 - b. per la prima visita di controllo di persone di cui al capoverso 1 lettera b: entro un mese dal compimento dei 75 anni;
-- c. per tutte le visite di controllo successive: tre mesi prima del termine di presentazione del risultato dell’esame ai sensi del capoverso 1<sup>ter</sup>.[^27-3]
+- c. per tutte le visite di controllo successive: tre mesi prima del termine di presentazione del risultato dell’esame ai sensi del capoverso 1<sup>ter</sup>.[^27-5]
 
-<sup>1ter</sup> Con il promemoria l’autorità cantonale ricorda alle persone di cui al capoverso 1 lettere a e b che il risultato dell’esame deve essere presentato entro tre mesi dall’invio del promemoria e per tutte le visite di controllo successive entro il termine ultimo. Questo è calcolato a partire dalla data dell’ultimo esame svolto.[^27-4]
+<sup>1ter</sup> Con il promemoria l’autorità cantonale ricorda alle persone di cui al capoverso 1 lettere a e b che il risultato dell’esame deve essere presentato entro tre mesi dall’invio del promemoria e per tutte le visite di controllo successive entro il termine ultimo. Questo è calcolato a partire dalla data dell’ultimo esame svolto.[^27-6]
 
-<sup>1quater</sup> Dopo il primo esame medico di idoneità alla guida, l’autorità cantonale ricorda alle persone di cui al capoverso 1 lettera c le successive visite di controllo eventualmente necessarie.[^27-5]
+<sup>1quater</sup> Dopo il primo esame medico di idoneità alla guida, l’autorità cantonale ricorda alle persone di cui al capoverso 1 lettera c le successive visite di controllo eventualmente necessarie.[^27-7]
 
-<sup>1quinquies</sup> L’autorità cantonale può eccezionalmente estendere i termini per la presentazione dei risultati degli esami.[^27-6]
+<sup>1quinquies</sup> L’autorità cantonale può eccezionalmente estendere i termini per la presentazione dei risultati degli esami.[^27-8]
 
 <sup>2</sup> La visita di controllo di idoneità alla guida deve essere effettuata sotto la responsabilità di un medico di cui all’articolo 5*a*<sup>bis</sup>.
 
@@ -1254,11 +1254,13 @@ L’autorità cantonale può:
 <sup>4</sup> L’autorità cantonale può, in singoli casi, disporre che una visita di controllo di idoneità alla guida sia limitata a taluni punti o estesa ad altri; in questi casi il medico non è vincolato ai moduli di cui agli allegati 2 e 2*a*.
 
 [^27-1]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
-[^27-2]: Nuovo testo giusta la cifra I dell’O del 10 mag. 2023, in vigore dal 1° mar. 2024 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
-[^27-3]: Introdotto dalla cifra I dell’O del 10 mag. 2023, in vigore dal 1° mar. 2024 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
-[^27-4]: Introdotto dalla cifra I dell’O del 10 mag. 2023, in vigore dal 1° mar. 2024 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^27-2]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 30](https://fedlex.data.admin.ch/eli/oc/2025/30)).
+[^27-3]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 30](https://fedlex.data.admin.ch/eli/oc/2025/30)).
+[^27-4]: Nuovo testo giusta la cifra I dell’O del 10 mag. 2023, in vigore dal 1° mar. 2024 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^27-5]: Introdotto dalla cifra I dell’O del 10 mag. 2023, in vigore dal 1° mar. 2024 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^27-6]: Introdotto dalla cifra I dell’O del 10 mag. 2023, in vigore dal 1° mar. 2024 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^27-7]: Introdotto dalla cifra I dell’O del 10 mag. 2023, in vigore dal 1° mar. 2024 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^27-8]: Introdotto dalla cifra I dell’O del 10 mag. 2023, in vigore dal 1° mar. 2024 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 ### 12*b* Formazione complementare per i titolari di una licenza di condurre in prova
 
@@ -1415,7 +1417,7 @@ Se la persona interessata non supera la corsa di controllo:
 
 <sup>4</sup> Se la persona interessata non si presenta, senza giustificarsi, alla corsa di controllo, questa è considerata non superata. L’autorità, quando ordina la corsa di controllo, deve informare sulle conseguenze dell’omessa partecipazione.
 
-[^29-1]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)). La correzione del 18 giu. 2025 concerne soltanto il testo francese ([RU 2025 405](https://fedlex.data.admin.ch/eli/oc/2025/405)).
+[^29-1]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
 [^29-2]: Nuovo testo giusta la cifra I dell’O del 28 apr. 2004, in vigore dal 1° gen. 2005 ([RU 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)).
 
 #### Art. 30
@@ -1529,17 +1531,18 @@ L’autorità cantonale può rilasciare al titolare della licenza un’autorizza
 
 **Proroga del periodo di prova**[^35-1]
 
-<sup>1</sup> Se il titolare della licenza di condurre in prova commette un’infrazione che comporta la revoca della licenza di condurre delle categorie e sottocategorie, e questa revoca si conclude durante il periodo di prova, l’autorità rilascia un nuova licenza di condurre in prova. Il nuovo periodo di prova termina un anno dopo la data di scadenza della licenza di condurre in prova revocata.
+<sup>1</sup> Se il titolare della licenza di condurre in prova commette un’infrazione grave o medio-grave che comporta la revoca della licenza di condurre di tutte le categorie e sottocategorie, e questa revoca si conclude durante il periodo di prova, l’autorità rilascia una nuova licenza di condurre in prova. Il nuovo periodo di prova termina un anno dopo la data di scadenza della licenza di condurre in prova revocata.[^35-2]
 
 <sup>2</sup> Se la revoca della licenza scade dopo il periodo di prova, l’autorità rilascia una nuova licenza di condurre in prova, la cui validità è limitata a un anno.
 
 [^35-1]: Nuovo testo giusta la cifra I dell’O del 27 ott. 2004, in vigore dal 1° dic. 2005 ([RU 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)).
+[^35-2]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 30](https://fedlex.data.admin.ch/eli/oc/2025/30)).
 
 #### Art. 35a
 
 **Annullamento**[^35a-1]
 
-<sup>1</sup> Se il titolare di una licenza di condurre in prova commette una seconda infrazione che comporta la revoca della licenza di condurre per categorie e sottocategorie, la licenza è annullata. Questo vale anche se nel frattempo è stata rilasciata la licenza di condurre per una durata illimitata. L’annullamento comporta il ritiro della licenza di condurre.[^35a-2]
+<sup>1</sup> Se il titolare di una licenza di condurre in prova commette una seconda infrazione grave o medio-grave che comporta la revoca della licenza di condurre di tutte le categorie e sottocategorie, la licenza è annullata. Questo vale anche se nel frattempo è stata rilasciata la licenza di condurre per una durata illimitata. L’annullamento comporta il ritiro della licenza di condurre.[^35a-2]
 
 <sup>2</sup> L’annullamento si applica a tutte le categorie e sottocategorie. Si applica anche alle categorie speciali se il titolare della licenza non offre alcuna garanzia che in futuro non commetterà infrazioni con veicoli delle categorie speciali.
 
@@ -1550,7 +1553,7 @@ L’autorità cantonale può rilasciare al titolare della licenza un’autorizza
 <sup>4</sup> L’autorità di revoca informa il conducente interessato sulle condizioni alle quali può nuovamente ottenere una licenza per allievo conducente.
 
 [^35a-1]: Introdotto dalla cifra I dell’O del 27 ott. 2004, in vigore dal 1° dic. 2005 ([RU 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)).
-[^35a-2]: Nuovo testo giusta la cifra I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^35a-2]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 30](https://fedlex.data.admin.ch/eli/oc/2025/30)).
 [^35a-3]: Introdotto dalla cifra I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 #### Art. 35b
@@ -1666,8 +1669,8 @@ Il riconoscimento è rilasciato se:
 [^41-3]: Introdotto dalla cifra I dell’O del 28 apr. 2004, in vigore dal 1° gen. 2005 ([RU 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)).
 [^41-4]: Nuovo testo giusta la cifra I dell’O del 13 feb. 1991, in vigore dal 1° giu. 1991 ([RU 1991 982](https://fedlex.data.admin.ch/eli/oc/1991/982_982_982)).
 [^41-5]: Nuovo testo giusta la cifra I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
-[^41-6]: Per. introdotto dalla cifra II 64 dell’O dell’8 nov. 2006 (revisione totale dell’organizzazione giudiziaria federale), in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
-[^41-7]: Abrogato dalla cifra II 64 dell’O dell’8 nov. 2006 (revisione totale dell’organizzazione giudiziaria federale), con effetto dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+[^41-6]: Per. introdotto dalla cifra II n. 64 dell’O dell’8 nov. 2006 (revisione totale dell’organizzazione giudiziaria federale), in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+[^41-7]: Abrogato dalla cifra II n. 64 dell’O dell’8 nov. 2006 (revisione totale dell’organizzazione giudiziaria federale), con effetto dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
 ### 14 Conducenti di veicoli a motore provenienti dall’estero
 
@@ -1694,7 +1697,7 @@ I conducenti di veicoli a motore provenienti dall’estero possono condurre in S
 Hanno bisogno di una licenza di condurre svizzera:
 
 - a. i conducenti provenienti dall’estero, residenti in Svizzera da 12 mesi e che durante questo periodo non hanno soggiornato per più di tre mesi consecutivi all’estero;
-- b.[^42-10] le persone in possesso di una licenza di condurre valevole rilasciata da uno Stato non membro dell’UE o dell’AELS che conducono a titolo professionale veicoli a motore immatricolati in Svizzera delle categorie C o D oppure delle sottocategorie C1 o D1 o che necessitano di un permesso secondo l’articolo 25; è escluso il personale di circhi e baracconi.[^42-11]
+- b.[^42-10] le persone in possesso di una licenza di condurre valevole rilasciata da uno Stato non membro dell’Unione europea (UE) o dell’Associazione europea di libero scambio (AELS) che conducono a titolo professionale veicoli a motore immatricolati in Svizzera delle categorie C o D oppure delle sottocategorie C1 o D1 o che necessitano di un permesso secondo l’articolo 25; è escluso il personale di circhi e baracconi.[^42-11]
 
 <sup>3ter</sup>
 
@@ -1715,7 +1718,7 @@ Non hanno bisogno di una licenza di condurre svizzera le persone beneficiarie di
 [^42-7]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 [^42-8]: Introdotto dalla cifra I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^42-9]: Nuovo testo giusta la cifra I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
-[^42-10]: Nuovo testo giusta la cifra I dell’O del 10 mag. 2023, in vigore dal 1° mar. 2024 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^42-10]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 30](https://fedlex.data.admin.ch/eli/oc/2025/30)).
 [^42-11]: Introdotta dalla cifra I dell’O del 7 mar. 1994, in vigore dal 1° apr. 1994 ([RU 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
 [^42-12]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
 [^42-13]: Nuovo testo giusta la cifra I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
@@ -1732,7 +1735,7 @@ Non hanno bisogno di una licenza di condurre svizzera le persone beneficiarie di
 
 <sup>3</sup> In casi fondati, l’USTRA[^43-3] può ammettere eccezioni concernenti l’età minima di conducenti provenienti dall’estero.
 
-[^43-1]: Nuovo testo giusta il cifra I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^43-1]: Nuovo testo giusta la cifra I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^43-2]: Nuovo testo giusta la cifra I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^43-3]: Nuova espr. giusta la cifra I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Di detta mod. è tenuto conto in tutto il presente testo.
 
@@ -1952,20 +1955,24 @@ I centri di formazione per animatori devono essere riconosciuti dall’USTRA. Il
 L’esperto della circolazione incaricato degli esami di conducente e dei controlli dei veicoli deve:
 
 - a. aver compiuti 24 anni;
-- b. aver superato l’esame finale di tirocinio come meccanico per automobili o in un’altra professione tecnica equivalente e aver esercitato la professione durante almeno un anno dalla fine dell’apprendistato;
-- c. possedere da almeno tre anni la licenza di condurre svizzera delle categorie B o C, senza aver compromesso durante questo periodo la sicurezza del traffico mediante infrazione alle norme della circolazione;
-- d.[^65-2] dimostrare che soddisfa i requisiti medici minimi di cui all’allegato 1, presentando una notifica di cui all’allegato 3 rilasciata da un medico titolare del riconoscimento di livello 2;
-- e.[^65-3] produrre una perizia attestante l’idoneità psicologica alla guida rilasciata da uno psicologo del traffico di cui all’articolo 5*c.*
+- b.[^65-2] aver superato l’esame finale di tirocinio come meccanico per automobili o in un’altra professione tecnica equivalente e aver esercitato la professione durante almeno un anno dalla fine del tirocinio;
+- c.[^65-3] possedere da almeno tre anni la licenza di condurre svizzera della categoria B o C oppure una licenza di condurre della categoria B o C di uno Stato membro dell’UE o dell’AELS, senza aver commesso durante questo periodo infrazioni alle norme della circolazione tali da compromettere la sicurezza stradale;
+- d.[^65-4] dimostrare che soddisfa i requisiti medici minimi di cui all’allegato 1, presentando una notifica di cui all’allegato 3 rilasciata da un medico titolare del riconoscimento di livello 2;
+- e.[^65-5] produrre una perizia attestante l’idoneità psicologica alla guida rilasciata da uno psicologo del traffico di cui all’articolo 5*c.*
 
-<sup>3</sup> L’esperto della circolazione incaricato degli esami di condurre non è obbligato ad adempiere le esigenze del capoverso 2 lettera b, ma deve aver superato l’esame finale di tirocinio in una professione qualsiasi o possedere una formazione equivalente.
+<sup>3</sup> L’esperto della circolazione incaricato degli esami di conducente non è obbligato ad adempiere le esigenze del capoverso 2 lettera b, ma deve aver superato l’esame finale di tirocinio in una professione qualsiasi o possedere una formazione equivalente.[^65-6]
 
-<sup>4</sup> Il requisito del capoverso 2 lettera e non è richiesto per gli esperti della circolazione incaricati dei controlli dei veicoli.
+<sup>4</sup> I requisiti di cui al capoverso 2 lettere d ed e non sono richiesti per gli esperti della circolazione incaricati dei controlli dei veicoli.[^65-7]
 
 <sup>5</sup> I maestri conducenti che desiderano diventare esperti della circolazione devono aver esercitato la professione di maestro conducente durante almeno un anno senza dare adito a lamentele e avere 24 anni compiuti. Devono completare la loro formazione e superare gli esami nelle materie che non figurano nel programma d’esame di maestro conducente.
 
 [^65-1]: Nuovo testo giusta la cifra I dell’O del 15 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1333](https://fedlex.data.admin.ch/eli/oc/2015/278)).
-[^65-2]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
-[^65-3]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
+[^65-2]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 30](https://fedlex.data.admin.ch/eli/oc/2025/30)).
+[^65-3]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 30](https://fedlex.data.admin.ch/eli/oc/2025/30)).
+[^65-4]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
+[^65-5]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
+[^65-6]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 30](https://fedlex.data.admin.ch/eli/oc/2025/30)).
+[^65-7]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 30](https://fedlex.data.admin.ch/eli/oc/2025/30)).
 
 #### Art. 66
 
@@ -2120,7 +2127,7 @@ Né la licenza di circolazione né le targhe sono necessarie per:
 [^72-2]: Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 31](https://fedlex.data.admin.ch/eli/oc/2024/31)).
 [^72-3]: Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 31](https://fedlex.data.admin.ch/eli/oc/2024/31)).
 [^72-4]: Introdotto dalla cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
-[^72-5]: Nuovo testo giusta la cifra II 4 dell’O del 7 mar. 1994, in vigore dal 1° apr. 1994 ([RU 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
+[^72-5]: Nuovo testo giusta la cifra II n. 4 dell’O del 7 mar. 1994, in vigore dal 1° apr. 1994 ([RU 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
 [^72-6]: Introdotta dalla cifra I dell’O del 7 mar. 1994, in vigore dal 1° apr. 1994 ([RU 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
 [^72-7]: Introdotta dalla cifra I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1387](https://fedlex.data.admin.ch/eli/oc/2001/194)).
 [^72-8]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
@@ -2714,7 +2721,7 @@ Se al momento di un esame o di un controllo si costata che dei veicoli, per i qu
 
 [^110-1]
 
-[^110-1]: Abrogato dalla cifra II 64 dell’O dell’8 nov. 2006 (revisione totale dell’organizzazione giudiziaria federale), con effetto dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+[^110-1]: Abrogato dalla cifra II n. 64 dell’O dell’8 nov. 2006 (revisione totale dell’organizzazione giudiziaria federale), con effetto dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
 ### 253 ...
 
@@ -3347,7 +3354,7 @@ Fino al 31 dicembre 2019, le autorità cantonali possono incaricare di effettuar
 
 **Valutazione delle modifiche del 14 dicembre 2018 relative all’età minima per l’ottenimento di determinate licenze per allievo conducente**[^151m-1]
 
-<sup>1</sup> Entro tre anni dall’entrata in vigore delle disposizioni relative all’età minima di 17 anni per l’ottenimento della licenza per allievo conducente della categoria B o BE (art. 6 cpv. 1 lett. c<sup>bis</sup>, 22 cpv. 1<sup>bis</sup> e all. 12 n. I lett. b), il DATEC ne valuta gli effetti.
+<sup>1</sup> Entro tre anni dall’entrata in vigore delle disposizioni relative all’età minima di 17 anni per l’ottenimento della licenza per allievo conducente della categoria B o BE (art. 6 cpv. 1 lett. c<sup>bis</sup>, 22 cpv. 1<sup>bis</sup> e all. 12 numero I lett. b), il DATEC ne valuta gli effetti.
 
 <sup>2</sup> Esso pubblica i risultati della valutazione e presenta al Consiglio federale una proposta circa il seguito da dare.
 
@@ -3480,13 +3487,13 @@ Allegato 1[^t-2]
 
 ## Requisiti medici minimi
 
-[^t-2]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)). La correzione del 4 giu. 2019 concerne soltanto il testo francese ([RU 2019 1645](https://fedlex.data.admin.ch/eli/oc/2019/317)). Aggiornato dalla cifra II cpv. 1 dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^t-2]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)). Aggiornato dalla cifra II cpv. 1 dell’O del 10 mag. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)) e dalla cifra II dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 30](https://fedlex.data.admin.ch/eli/oc/2025/30)).
 
 ### Conducenti di veicoli per i quali è necessaria una licenza di condurre
 
 <table>
 <tr><th></th><th>1° gruppo</th><th>2° gruppo</th></tr>
-<tr><td></td><td>a. Licenza di condurre delle categorie A e B b. Licenza di condurre delle sottocategorie A1 e B1 c. Licenza di condurre delle categorie speciali F, G e M</td><td>a. Licenza di condurre delle categorie C e D b. Licenza di condurre delle sottocategorie C1 e D1 c. Permesso per il trasporto professionale di persone d. Esperti della circolazione</td></tr>
+<tr><td></td><td>a. Licenza di condurre delle categorie A e B b. Licenza di condurre delle sottocategorie A1 e B1 c. Licenza di condurre delle categorie speciali F, G e M d. Esperti della circolazione incaricati dei controlli dei veicoli</td><td>a. Licenza di condurre delle categorie C e D b. Licenza di condurre delle sottocategorie C1 e D1 c. Permesso per il trasporto professionale di persone d. Esperti della circolazione incaricati degli esami di conducente</td></tr>
 <tr><td>**1****Vista** 1.1 Acuità visiva</td><td>occhio più sano: 0,5 / occhio meno sano: 0,2 (misurati separatamente) Visione monoculare (inclusa un’acuità visiva dell’occhio meno sano &lt; 0,2): 0,6</td><td>occhio più sano: 0,8 / occhio meno sano: 0,5 (misurati separatamente)</td></tr>
 <tr><td>1.2 Campo visivo</td><td>Visione binoculare: campo visivo orizzontale di almeno 120 gradi. Estensione verso destra e verso sinistra di almeno 50 gradi. Estensione verso l’alto e verso il basso di almeno 20 gradi. Il campo visivo centrale deve essere normale fino a 20 gradi. Visione monoculare: campo visivo normale se la motilità oculare è normale.</td><td>Campo visivo orizzontale di almeno 140 gradi. Estensione verso destra e verso sinistra di almeno 70 gradi. Estensione verso l’alto e verso il basso di almeno 30 gradi. Il campo visivo centrale di ogni occhio deve essere normale fino a 30 gradi.</td></tr>
 <tr><td>1.3 Diplopia</td><td>Nessuna limitazione legata alla diplopia.</td><td>Motilità oculare normale (nessuna diplopia)</td></tr>
@@ -3719,11 +3726,11 @@ Timbro e firma del medico:
 
 Allegato 3[^t-6]
 
-(art. 5*i*)
+(art. 5*i*, 7, 27 e 65)
 
 ## Risultato dell’esame medico di idoneità alla guida
 
-[^t-6]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
+[^t-6]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)). Aggiornato dalla cifra II dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 30](https://fedlex.data.admin.ch/eli/oc/2025/30)).
 
 (notifica all’autorità cantonale)
 
@@ -3762,7 +3769,7 @@ Cognome: Nome: Data di nascita: NPA/Domicilio: Indirizzo:
 - 2 *Conclusioni*
 - 2\.1 I requisiti medici minimi (allegato 1 OAC)
 
-del 1° gruppo medico (A, A1, B, B1, F, G, M) sono: del 2° gruppo medico (D, D1, C, C1, permesso per il trasporto professionale di persone, esperti della circolazione) sono: soddisfatti soddisfatti soltanto alle condizioni sottostanti (n. 3) non soddisfatti Breve motivazione: soddisfatti soddisfatti soltanto alle condizioni sottostanti (n. 3) non soddisfatti Breve motivazione:
+del 1° gruppo medico (A, A1, B, B1, F, G, M, esperti della circolazione incaricati dei controlli dei veicoli) sono: del 2° gruppo medico (D, D1, C, C1, permesso per il trasporto professionale di persone, esperti della circolazione incaricati degli esami di conducente) sono: soddisfatti soddisfatti soltanto alle condizioni sottostanti (n. 3) non soddisfatti Breve motivazione: soddisfatti soddisfatti soltanto alle condizioni sottostanti (n. 3) non soddisfatti Breve motivazione:
 
 - 2\.2 Risultato non chiaro: la valutazione definitiva dovrà essere effettuata da un medico riconosciuto di livello 3 o 4
 - Sussistono seri dubbi circa l’idoneità alla guida, per cui sarebbe bene evitare di guidare fino a ulteriore accertamento
@@ -3794,7 +3801,7 @@ Allegato 3a[^t-7]
 
 ## Certificato oftalmologico
 
-[^t-7]: Introdotto dalla cifra II cpv. 1 dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
+[^t-7]: Introdotto dalla cifra II cpv. 1 dell’O del 1° lug. 2015 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)). Aggiornato dalla cifra II dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 30](https://fedlex.data.admin.ch/eli/oc/2025/30)).
 
 (notifica all’autorità cantonale)
 
@@ -3811,8 +3818,8 @@ Legge federale del 19 dicembre 1958 sulla circolazione stradale
 
 A. I requisiti visivi minimi secondo l’allegato 1 OAC sono stati verificati per:
 
-- il 1° gruppo medico (A, A1, B, B1, F, G, M)
-- il 2° gruppo medico (D, D1, C, C1, permesso per il trasporto professionale di persone, esperti della circolazione)
+- il 1° gruppo medico (A, A1, B, B1, F, G, M, esperti della circolazione incaricati dei controlli dei veicoli)
+- il 2° gruppo medico (D, D1, C, C1, permesso per il trasporto professionale di persone, esperti della circolazione incaricati degli esami di conducente)
 
 B. Risultati
 
@@ -4151,7 +4158,7 @@ Allegato 11[^t-14]
 
 ## Verifica delle conoscenze teoriche
 
-[^t-14]: Introdotto dalla cifra II dell’O del 3 lug. 2002 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Aggiornato dalla cifra II dell’O del 26 set. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)), dalla cifra II cpv. 2 dell’O del 15 giu. 2007 ([RU 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)) e dalla cifra I dell’O del 21 nov. 2018 in vigore dal 1° feb. 2019 ([RU 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
+[^t-14]: Introdotto dalla cifra II dell’O del 3 lug. 2002 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Aggiornato dalla cifra II dell’O del 26 set. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)), dalla cifra II cpv. 2 dell’O del 15 giu. 2007 ([RU 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)), dalla cifra I dell’O del 21 nov. 2018 ([RU 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)) e dall’all. n. 3 dell’O del 13 dic. 2024 sulla guida automatizzata, in vigore dal 1° lug. 2025 ([RU 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)).
 
 ### I. Conoscenze
 
@@ -4183,6 +4190,16 @@ La prova delle conoscenze di cui al numero 1 è fornita mediante esame dei segue
   - – passare tempestivamente alla marcia superiore
   - – spegnere il motore non appena possibile (soprattutto davanti a passaggi a livello chiusi e semafori)
   - – conoscenza del principio di sfruttamento della spinta.
+
+- 1\.2.4
+
+  conoscenza dei sistemi di assistenza alla guida e di automazione per aumentare la sicurezza stradale e la fluidità del traffico, in particolare:
+
+  - − differenza tra sistemi di assistenza alla guida e sistemi di automazione;
+  - − diverse funzioni (soprattutto di «assistenza continua»);
+  - − principali funzioni dei sistemi di assistenza alla guida e di automazione nonché relativi limiti e rischi;
+  - − uso dei sistemi di assistenza alla guida e di automazione;
+  - − importanza di mantenere un’attenzione costante e della prontezza di intervento o di ripresa del controllo.
 
 1.3 La strada:
 
@@ -4229,7 +4246,7 @@ Allegato 12[^t-15]
 
 ## Esame pratico di conducente
 
-[^t-15]: Introdotto dalla cifra II dell’O del 3 lug. 2002 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Aggiornato dalla cifra II dell’O del 26 set. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529), [2011 1937](https://fedlex.data.admin.ch/eli/oc/2011/283)), dalla cifra II 2 dell’O del 28 apr. 2004 ([RU 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)), dalla cifra II cpv. 2 dell’O del 15 giu. 2007 ([RU 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)), dalla cifra II delle O del 29 nov. 2013 ([RU 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)), dalla cifra I dell’O del 21 nov. 2018 ([RU 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)), dalla cifra II cpv. 3 dell’O del 14 dic. 2018 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)), dalla cifra I dell’O del 10 mag. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)) e dalla cifra II cpv. 2 dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 31](https://fedlex.data.admin.ch/eli/oc/2024/31)).
+[^t-15]: Introdotto dalla cifra II dell’O del 3 lug. 2002 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Aggiornato dalla cifra II dell’O del 26 set. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529), [2011 1937](https://fedlex.data.admin.ch/eli/oc/2011/283)), dalla cifra II 2 dell’O del 28 apr. 2004 ([RU 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)), dalla cifra II cpv. 2 dell’O del 15 giu. 2007 ([RU 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)), dalla cifra II delle O del 29 nov. 2013 ([RU 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)), dalla cifra I dell’O del 21 nov. 2018 ([RU 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)), dalla cifra II cpv. 3 dell’O del 14 dic. 2018 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)), dalla cifra I dell’O del 10 mag. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)), dalla cifra II cpv. 2 dell’O del 22 dic. 2023 ( [RU 2024 31](https://fedlex.data.admin.ch/eli/oc/2024/31)) e dall’all. n. 3 dell’O del 13 dic. 2024 sulla guida automatizzata, in vigore dal 1° lug. 2025 ([RU 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)).
 
 ### I. Requisiti d’ammissione
 
@@ -4303,6 +4320,28 @@ I candidati devono dimostrare di essere in grado di prepararsi ad una guida sicu
 
 devono effettuare un controllo, scelto a caso, della condizione di pneumatici, freni, sterzo, interruttore di emergenza (se presente), catene, livello dell’olio, luci, catarifrangenti, indicatori di direzione e dispositivi di avvertimento acustico.
 
+1<sup>bis</sup> Conoscenza e utilizzo dei sistemi di assistenza alla guida (se disponibili) ai fini della sicurezza stradale e della fluidità del traffico:
+
+- 1<sup>bis</sup>.1 I candidati sanno utilizzare almeno i sistemi di assistenza alla guida elencati di seguito:
+
+<table>
+<tr><th>Funzione</th><th>Sistema di assistenza alla guida</th><th>Modalità di funzionamento</th></tr>
+<tr><td>informazione e avviso</td><td>sistema di rilevamento angolo cieco</td><td>*sempre attivato*</td></tr>
+<tr><td>assistenza continua</td><td>sospensioni semiattive; modalità di guida disponibili; cruise control convenzionale e adattivo</td><td>*l’esperto della* *circola**zione* *può richiedere l’attivazione/* *disattivazione*</td></tr>
+<tr><td>intervento temporaneo</td><td>sistema antibloccaggio (ABS) con cornering ABS integrato e ABS semplice;</td><td>*sempre attivato*</td></tr>
+<tr><td></td><td>controllo della trazione</td><td></td></tr>
+</table>
+
+- 1<sup>bis</sup>.2 I candidati devono conoscere le diverse funzioni, i limiti e i rischi di questi sistemi e le ripercussioni sulla guida.
+- 1<sup>bis</sup>.3
+
+  Per «conoscenza e utilizzo» si intendono in particolare:
+
+  - − attivazione e disattivazione e relative ripercussioni sulla guida;
+  - − comprensione di limiti del sistema, rischi e informazioni (avvisi);
+  - − rilevamento del mancato funzionamento dei sistemi di assistenza alla guida e assunzione immediata del compito di guida in questione;
+  - − attenzione costante e prontezza di intervento anche durante l’utilizzo conforme dei sistemi di assistenza alla guida.
+
 2 Comportamento nel traffico:
 
 I candidati devono eseguire le seguenti azioni in condizioni normali di traffico, in tutta sicurezza ed adottando le opportune precauzioni:
@@ -4325,7 +4364,7 @@ I candidati devono eseguire le seguenti azioni in condizioni normali di traffico
 - 1\.2 effettuare un controllo, scelto a caso, dell’interruttore d’emergenza (se presente), delle catene e del livello dell’olio,
 - 1\.3 padroneggiare i fattori di rischio, connessi con le differenti condizioni stradali, in particolare tenendo in considerazione le condizioni di scivolosità su coperture di condotte, demarcazioni stradali e rotaie tranviarie.
 
-2 Conoscenza di manovre particolari in relazione con la sicurezza stradale:
+2 Padronanza di manovre particolari, ai fini della sicurezza stradale ed eventualmente utilizzando i sistemi di assistenza alla guida:
 
 - 2\.1 togliere il motoveicolo dal cavalletto e, senza l’aiuto del motore, spostarlo stando a fianco del veicolo,
 - 2\.2 issare il motoveicolo sul cavalletto,
@@ -4349,14 +4388,37 @@ Preparazione e controllo tecnico del veicolo ai fini della sicurezza stradale:
 - 1\.3 controllo dei fattori di sicurezza del carico: carrozzeria del veicolo, teli di copertura, chiusura del compartimento merci e della cabina, metodi di carico, fissaggio del carico (soltanto per la categoria BE),
 - 1\.4 controllo del meccanismo della frizione, dei freni e dei collegamenti elettrici (soltanto per la categoria BE).
 
-2 Categoria B e sottocategoria B1: scelte a caso, manovre particolari da verificare ai fini della sicurezza stradale. Il candidato deve effettuare alcune delle manovre indicate di seguito (almeno due manovre indicate nei numeri 2.1-2.4, di cui una a marcia indietro):
+1<sup>bis</sup> Conoscenza e utilizzo dei sistemi di assistenza alla guida e di automazione (se disponibili) ai fini della sicurezza stradale e della fluidità del traffico:
+
+- 1<sup>bis</sup>.1 I candidati sanno utilizzare il sistema automatizzato di mantenimento della corsia (cosiddetto traffic jam pilot; funzione «assistenza continua»; l’esperto della circolazione può richiederne l’attivazione/disattivazione) e almeno i sistemi di assistenza alla guida elencati di seguito:
+
+<table>
+<tr><th>Funzione</th><th>Sistema di assistenza alla guida</th><th>Modalità di funzionamento</th></tr>
+<tr><td>informazione e avviso</td><td>sistema di avviso di disattenzione e stanchezza del conducente</td><td>*sempre attivato*</td></tr>
+<tr><td>assistenza continua</td><td>sistema avanzato di mantenimento della corsia, cambio corsia, anticollisione e frenata automatica d’emergenza, cruise control adattivo incluso; sistema di mantenimento della corsia e cruise control adattivo; cruise control adattivo; sistema di adattamento intelligente della velocità</td><td>*l’esperto della* *circola**zione* *può richiedere* *l’attivazione**/* *disattivazione*</td></tr>
+<tr><td>intervento temporaneo</td><td>sistema avanzato di frenata di emergenza;</td><td>*sempre attivato*</td></tr>
+<tr><td></td><td>sistema anticollisione</td><td></td></tr>
+</table>
+
+- 1<sup>bis</sup>.2 I candidati devono conoscere le diverse funzioni, i limiti e i rischi di questi sistemi e le ripercussioni sulla guida.
+- 1<sup>bis</sup>.3
+
+  Per «conoscenza e utilizzo» si intendono in particolare:
+
+  - – attivazione e disattivazione e relative ripercussioni sulla guida;
+  - – comprensione di limiti del sistema, rischi e informazioni (avvisi);
+  - − rilevamento del mancato funzionamento dei sistemi di assistenza alla guida e assunzione immediata del compito di guida in questione;
+  - − attenzione costante e prontezza di intervento anche durante l’utilizzo conforme dei sistemi di assistenza alla guida;
+  - − comportamento corretto durante l’utilizzo dei sistemi di automazione, in particolare nel passaggio del comando del veicolo e in caso di richieste del sistema.
+
+2 Categoria B e sottocategoria B1: manovre particolari da verificare a campione (almeno due tra quelle indicate nei numeri 2.1–2.4, di cui una a marcia indietro), ai fini della sicurezza stradale ed eventualmente utilizzando i sistemi di assistenza alla guida e di automazione:
 
 - 2\.1 marcia indietro in linea retta o con svolta a destra o a sinistra, mantenendosi accostato al bordo della strada,
 - 2\.2 inversione di marcia del veicolo, ricorrendo sia alla marcia avanti sia alla marcia indietro,
 - 2\.3 parcheggio del veicolo ed uscita dallo spazio di parcheggio (allineato, a pettine dritto o obliquo al margine della carreggiata; marcia avanti o indietro; in piano, in pendenza o in discesa),
 - 2\.4 frenata di precisione rispetto ad un punto di arresto predeterminato; l’esecuzione di una frenata di emergenza è facoltativa.
 
-3 Categoria BE: manovre particolari da verificare ai fini della sicurezza stradale:
+3 Categoria BE: manovre particolari da verificare ai fini della sicurezza stradale ed eventualmente utilizzando i sistemi di assistenza alla guida e di automazione:
 
 - 3\.1 aggancio e sgancio di un rimorchio dal veicolo trainante; all’inizio della manovra il veicolo ed il rimorchio devono trovarsi fianco a fianco (cioè non l’uno dietro l’altro),
 - 3\.2 marcia indietro in curva,
@@ -4450,4 +4512,5 @@ La parte d’esame di valutazione riservata alle manovre particolari può essere
 - 3\.7 velocità: rispetto del limite massimo di velocità, adattamento delle velocità alle condizioni di traffico e climatiche, guida ad una velocità che permetta l’arresto nel tratto di strada visibile e privo di ostacoli; adattamento della velocità a quella degli utenti del traffico del medesimo genere;
 - 3\.8 semafori, segnaletica stradale e altre segnalazioni di condizioni particolari: corretto comportamento ai semafori; rispetto dei comandi impartiti dagli agenti del traffico; rispetto della segnaletica e della demarcazione stradale;
 - 3\.9 segnalazione: effettuare le necessarie segnalazioni, nei tempi e nei modi opportuni; corretto impiego degli indicatori di direzione; reazione corretta in risposta alle segnalazioni degli altri utenti della strada;
-- 3\.10 frenata: tempestiva riduzione della velocità, frenate adeguate alle circostanze, anticipo, utilizzo dei diversi sistemi di frenatura (soltanto per le categorie C, D, CE e DE); utilizzo di altri sistemi di riduzione della velocità (soltanto per le categorie C, D, CE e DE).
+- 3\.10 frenata: tempestiva riduzione della velocità, frenate adeguate alle circostanze, anticipo, utilizzo dei diversi sistemi di frenatura (soltanto per le categorie C, D, CE e DE); utilizzo di altri sistemi di riduzione della velocità (soltanto per le categorie C, D, CE e DE);
+- 3\.11 sistemi di assistenza alla guida e di automazione: utilizzo conforme, tenendo conto dei limiti del sistema e dei rischi; gestione adatta alla situazione; comportamento corretto in caso di sistema attivato.

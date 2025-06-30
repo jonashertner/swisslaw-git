@@ -4,11 +4,11 @@ title: "Verordnung vom 27. Oktober 1976 über die Zulassung von Personen und Fah
 short: VZV
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423"
 language: de
-version: 2025-06-18
+version: 2025-07-01
 adopted: 1976-10-27
 in_force: 1977-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20250618/de/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20250618-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20250618/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20250701/de/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20250701-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20250618/de"
 
 (Verkehrszulassungsverordnung,[^t-1] VZV)
 
-vom 27. Oktober 1976 (Stand am 18. Juni 2025)
+vom 27. Oktober 1976 (Stand am 1. Juli 2025)
 
 [^t-1]: Eingefügt durch Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 
@@ -1216,13 +1216,13 @@ Die Pflicht, sich einer verkehrsmedizinischen Kontrolluntersuchung zu unterziehe
 
 - a.
 
-  Inhaber eines Führerausweises der Kategorien C oder D, der Unterkategorien C1 oder D1 oder der Bewilligung zum berufsmässigen Personentransport sowie Verkehrsexperten:
+  Inhaber eines Führerausweises der Kategorien C oder D, der Unterkategorien C1 oder D1 oder der Bewilligung zum berufsmässigen Personentransport sowie Verkehrsexperten für Führerprüfungen:[^27-2]
 
   - 1\. alle fünf Jahre, vorbehältlich der ersten Untersuchung nach dem vollendeten 50. Altersjahr mit spätestens 53 Jahren,
   - 2\. nach der ersten Untersuchung, die nach dem vollendeten 50. Altersjahr stattgefunden hat, alle drei Jahre, vorbehältlich der ersten Untersuchung nach dem vollendeten 75. Altersjahr mit spätestens 77 Jahren;
 
 - b. Inhaber eines Führerausweises ab dem vollendeten 75. Altersjahr: alle zwei Jahre;
-- c. Inhaber eines Führerausweises während oder nach schweren körperlichen Beeinträchtigungen durch Unfallverletzungen oder Krankheiten.[^27-2]
+- c. Inhaber eines Führerausweises während oder nach schweren körperlichen Beeinträchtigungen durch Unfallverletzungen oder Krankheiten.[^27-3]
 
 <sup>1bis</sup>
 
@@ -1230,13 +1230,13 @@ Die kantonale Behörde erinnert die nach Absatz 1 Buchstaben a und b untersuchun
 
 - a. für die erstmalige Kontrolluntersuchung von Personen nach Absatz 1 Buchstabe a: drei Monate vor dem Ablauf der Untersuchungsfrist, die ab dem Datum der letzten verkehrsmedizinischen Untersuchung berechnet wird;
 - b. für die erstmalige Kontrolluntersuchung von Personen nach Absatz 1 Buchstabe b: innerhalb von einem Monat nach dem Vollenden des 75. Altersjahres;
-- c. für alle nachfolgenden Kontrolluntersuchungen: drei Monate vor dem Eintritt der Fälligkeit des Untersuchungsergebnisses nach Absatz 1<sup>ter</sup>.[^27-3]
+- c. für alle nachfolgenden Kontrolluntersuchungen: drei Monate vor dem Eintritt der Fälligkeit des Untersuchungsergebnisses nach Absatz 1<sup>ter</sup>.[^27-4]
 
-<sup>1ter</sup> Die kantonale Behörde weist mit der Erinnerung der nach Absatz 1 Buchstaben a und b untersuchungspflichtigen Personen darauf hin, dass das Untersuchungsergebnis innerhalb von drei Monaten ab dem Versand der Erinnerung und bei nachfolgenden Kontrolluntersuchungen jedenfalls auf deren spätesten Termin hin vorliegen muss. Dieser berechnet sich ab dem Datum der zuletzt durchgeführten Untersuchung.[^27-4]
+<sup>1ter</sup> Die kantonale Behörde weist mit der Erinnerung der nach Absatz 1 Buchstaben a und b untersuchungspflichtigen Personen darauf hin, dass das Untersuchungsergebnis innerhalb von drei Monaten ab dem Versand der Erinnerung und bei nachfolgenden Kontrolluntersuchungen jedenfalls auf deren spätesten Termin hin vorliegen muss. Dieser berechnet sich ab dem Datum der zuletzt durchgeführten Untersuchung.[^27-5]
 
-<sup>1quater</sup> Die kantonale Behörde erinnert die nach Absatz 1 Buchstabe c untersuchungspflichtigen Personen nach der verkehrsmedizinischen Erstuntersuchung an die allenfalls erforderlichen nachfolgenden Kontrolluntersuchungen.[^27-5]
+<sup>1quater</sup> Die kantonale Behörde erinnert die nach Absatz 1 Buchstabe c untersuchungspflichtigen Personen nach der verkehrsmedizinischen Erstuntersuchung an die allenfalls erforderlichen nachfolgenden Kontrolluntersuchungen.[^27-6]
 
-<sup>1quinquies</sup> Die kantonale Behörde darf die Fristen zur Einreichung der Untersuchungsergebnisse ausnahmsweise erstrecken.[^27-6]
+<sup>1quinquies</sup> Die kantonale Behörde darf die Fristen zur Einreichung der Untersuchungsergebnisse ausnahmsweise erstrecken.[^27-7]
 
 <sup>2</sup> Die verkehrsmedizinische Kontrolluntersuchung muss unter der Verantwortung eines Arztes nach Artikel 5*a*<sup>bis</sup> durchgeführt werden.
 
@@ -1250,11 +1250,12 @@ Die kantonale Behörde kann:
 <sup>4</sup> Die kantonale Behörde kann im Einzelfall anordnen, dass der Umfang einer verkehrsmedizinischen Untersuchung auszudehnen oder einzuschränken ist; der Arzt ist in diesem Fall nicht an die Formulare nach den Anhängen 2 und 2*a* gebunden.
 
 [^27-1]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Juli 2016 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
-[^27-2]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 1. März 2024 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
-[^27-3]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 1. März 2024 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^27-2]: Fassung gemäss Ziff. I der V vom 13. Dez. 2024, in Kraft seit 1. Juli 2025 ([AS 2025 30](https://fedlex.data.admin.ch/eli/oc/2025/30)).
+[^27-3]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 1. März 2024 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^27-4]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 1. März 2024 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^27-5]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 1. März 2024 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^27-6]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 1. März 2024 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^27-7]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 1. März 2024 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 ### 12*b* Weiterausbildung für Inhaber eines Führerausweises auf Probe
 
@@ -1525,17 +1526,18 @@ Die kantonale Behörde kann Ausweisinhabern eine Bewilligung für Fahrten währe
 
 **Verlängerung der Probezeit**[^35-1]
 
-<sup>1</sup> Begeht der Inhaber des Führerausweises auf Probe eine Widerhandlung, die zum Entzug des Führerausweises der Kategorien und Unterkategorien führt, und endet dieser Entzug während der Probezeit, wird ein neuer Führerausweis auf Probe ausgestellt. Die neue Probezeit endet ein Jahr nach dem Ablaufdatum des entzogenen Führerausweises auf Probe.
+<sup>1</sup> Begeht der Inhaber des Führerausweises auf Probe eine mittelschwere oder schwere Widerhandlung, die zum Entzug des Führerausweises der Kategorien und Unterkategorien führt, und endet dieser Entzug während der Probezeit, wird ein neuer Führerausweis auf Probe ausgestellt. Die neue Probezeit endet ein Jahr nach dem Ablaufdatum des entzogenen Führerausweises auf Probe.[^35-2]
 
 <sup>2</sup> Endet der Ausweisentzug nach der Probezeit, wird ein neuer Führerausweis auf Probe ausgestellt. Die neue Probezeit endet ein Jahr nach seinem Ausstellungsdatum.
 
 [^35-1]: Fassung gemäss Ziff. I der V vom 27. Okt. 2004, in Kraft seit 1. Dez. 2005 ([AS 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)).
+[^35-2]: Fassung gemäss Ziff. I der V vom 13. Dez. 2024, in Kraft seit 1. Juli 2025 ([AS 2025 30](https://fedlex.data.admin.ch/eli/oc/2025/30)).
 
 #### Art. 35a
 
 **Annullierung**[^35a-1]
 
-<sup>1</sup> Begeht der Inhaber des Führerausweises auf Probe eine zweite Widerhandlung, die zum Entzug des Führerausweises der Kategorien und Unterkategorien führt, wird der Ausweis annulliert. Dies gilt auch, wenn der Ausweis inzwischen unbefristet erteilt worden ist. Mit der Annullierung muss der Führerausweis eingezogen werden.[^35a-2]
+<sup>1</sup> Begeht der Inhaber des Führerausweises auf Probe eine zweite mittelschwere oder schwere Widerhandlung, die zum Entzug des Führerausweises der Kategorien und Unterkategorien führt, wird der Ausweis annulliert. Dies gilt auch, wenn der Ausweis inzwischen unbefristet erteilt worden ist. Mit der Annullierung muss der Führerausweis eingezogen werden.[^35a-2]
 
 <sup>2</sup> Die Annullierung betrifft alle Kategorien und Unterkategorien. Sie betrifft auch die Spezialkategorien, wenn der Ausweisinhaber keine Gewähr bietet, dass er künftig mit Fahrzeugen der Spezialkategorien keine Widerhandlungen begeht.
 
@@ -1546,7 +1548,7 @@ Die kantonale Behörde kann Ausweisinhabern eine Bewilligung für Fahrten währe
 <sup>4</sup> Die Entzugsbehörde informiert den betroffenen Fahrzeugführer über die Voraussetzungen, unter denen er wieder einen Lernfahrausweis erwerben kann.
 
 [^35a-1]: Eingefügt durch Ziff. I der V vom 27. Okt. 2004, in Kraft seit 1. Dez. 2005 ([AS 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)).
-[^35a-2]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^35a-2]: Fassung gemäss Ziff. I der V vom 13. Dez. 2024, in Kraft seit 1. Juli 2025 ([AS 2025 30](https://fedlex.data.admin.ch/eli/oc/2025/30)).
 [^35a-3]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 #### Art. 35b
@@ -1692,7 +1694,7 @@ Motorfahrzeugführer aus dem Ausland dürfen in der Schweiz nur Motorfahrzeuge f
 Einen schweizerischen Führerausweis benötigen:
 
 - a. Fahrzeugführer aus dem Ausland, die seit zwölf Monaten in der Schweiz wohnen und sich in dieser Zeit nicht länger als drei Monate ununterbrochen im Ausland aufgehalten haben;
-- b.[^42-10] Personen mit einem gültigen Führerausweis, der nicht von einem Mitgliedstaat der EU oder der EFTA ausgestellt wurde, die berufsmässig in der Schweiz immatrikulierte Motorfahrzeuge der Kategorien C oder D oder der Unterkategorien C1 oder D1 führen oder einer Bewilligung nach Artikel 25 bedürfen; ausgenommen ist das Zirkus- und Schaustellerpersonal.[^42-11]
+- b.[^42-10] Personen mit einem gültigen Führerausweis, der nicht von einem Mitgliedstaat der Europäischen Union (EU) oder der Europäischen Freihandelsassoziation (EFTA) ausgestellt wurde, die berufsmässig in der Schweiz immatrikulierte Motorfahrzeuge der Kategorien C oder D oder der Unterkategorien C1 oder D1 führen oder einer Bewilligung nach Artikel 25 bedürfen; ausgenommen ist das Zirkus- und Schaustellerpersonal.[^42-11]
 
 <sup>3ter</sup>
 
@@ -1713,7 +1715,7 @@ Personen, die Vorrechte, Immunitäten und Erleichterungen nach Artikel 2 Absatz 
 [^42-7]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 [^42-8]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^42-9]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
-[^42-10]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 1. März 2024 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^42-10]: Fassung gemäss Ziff. I der V vom 13. Dez. 2024, in Kraft seit 1. Juli 2025 ([AS 2025 30](https://fedlex.data.admin.ch/eli/oc/2025/30)).
 [^42-11]: Eingefügt durch Ziff. I der V vom 7. März 1994, in Kraft seit 1. April 1994 ([AS 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
 [^42-12]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
 [^42-13]: Eingefügt durch Anhang Ziff. 11 der Gaststaatverordnung vom 7. Dez. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
@@ -1948,19 +1950,21 @@ Der Verkehrsexperte für Führer- und Fahrzeugprüfungen muss:
 
 - a. das 24. Altersjahr vollendet haben;
 - b. sich über eine abgeschlossene Lehre als Automechaniker oder in einem technisch gleichwertigen Beruf sowie über eine mindestens einjährige Berufspraxis seit Abschluss der Lehre ausweisen;
-- c. seit mindestens drei Jahren im Besitz des schweizerischen Führerausweises der Kategorie B oder C sein, ohne während dieser Zeit eine verkehrsgefährdende Verletzung von Verkehrsvorschriften begangen zu haben;
-- d.[^65-2] nachweisen, dass er die medizinischen Mindestanforderungen nach Anhang 1 erfüllt, indem er eine Meldung nach Anhang 3 eines Arztes mit der Anerkennung der Stufe 2 beibringt;
-- e.[^65-3] ein die verkehrspsychologische Eignung bestätigendes Gutachten eines Verkehrspsychologen nach Artikel 5*c* beibringen*.*
+- c.[^65-2] seit mindestens drei Jahren im Besitz eines schweizerischen Führerausweises der Kategorie B oder C oder eines Führerausweises der Kategorie B oder C eines Mitgliedstaates der EU oder der EFTA sein, ohne während dieser Zeit eine verkehrsgefährdende Verletzung von Verkehrsvorschriften begangen zu haben;
+- d.[^65-3] nachweisen, dass er die medizinischen Mindestanforderungen nach Anhang 1 erfüllt, indem er eine Meldung nach Anhang 3 eines Arztes mit der Anerkennung der Stufe 2 beibringt;
+- e.[^65-4] ein die verkehrspsychologische Eignung bestätigendes Gutachten eines Verkehrspsychologen nach Artikel 5*c* beibringen*.*
 
-<sup>3</sup> Der Verkehrsexperte für Führerprüfungen hat sich anstelle von Absatz 2 Buchstabe *b* über eine abgeschlossene Lehre in irgendeinem Beruf oder über eine andere gleichwertige Ausbildung auszuweisen.
+<sup>3</sup> Der Verkehrsexperte für Führerprüfungen hat sich anstelle von Absatz 2 Buchstabe b über eine abgeschlossene Lehre in irgendeinem Beruf oder über eine andere gleichwertige Ausbildung auszuweisen.
 
-<sup>4</sup> Beim Verkehrsexperten für Fahrzeugprüfungen entfällt die Anforderung nach Absatz 2 Buchstabe *e*.
+<sup>4</sup> Beim Verkehrsexperten für Fahrzeugprüfungen entfallen die Anforderungen nach Absatz 2 Buchstaben d und e.[^65-5]
 
 <sup>5</sup> Fahrlehrer, die Verkehrsexperten werden wollen, müssen den Fahrlehrerberuf während mindestens eines Jahres klaglos ausgeübt und das 24. Altersjahr vollendet haben. Sie müssen in der Ausbildung und Prüfung die Fächer nachholen, auf die sich die Fahrlehrerprüfung nicht bezogen hat.
 
 [^65-1]: Fassung gemäss Ziff. I der V vom 15. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1333](https://fedlex.data.admin.ch/eli/oc/2015/278)).
-[^65-2]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Juli 2016 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
+[^65-2]: Fassung gemäss Ziff. I der V vom 13. Dez. 2024, in Kraft seit 1. Juli 2025 ([AS 2025 30](https://fedlex.data.admin.ch/eli/oc/2025/30)).
 [^65-3]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Juli 2016 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
+[^65-4]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Juli 2016 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
+[^65-5]: Fassung gemäss Ziff. I der V vom 13. Dez. 2024, in Kraft seit 1. Juli 2025 ([AS 2025 30](https://fedlex.data.admin.ch/eli/oc/2025/30)).
 
 #### Art. 66
 
@@ -2743,7 +2747,7 @@ Wird bei einer Prüfung oder Kontrolle festgestellt, dass Fahrzeuge, die nach Ar
 Ausländische Motorfahrzeuge und Anhänger dürfen in der Schweiz verkehren, wenn sie im Zulassungsstaat verkehrsberechtigt sind und:
 
 - a. mit einem gültigen nationalen Fahrzeugausweis oder internationalen Zulassungsschein nach dem Abkommen vom 24. April 1926[^114-1] über Kraftfahrzeugverkehr sowie
-- b. mit gültigen, im Ausweis nach Buchstabe *a* bezeichneten Kontrollschildern versehen sind.
+- b. mit gültigen, im Ausweis nach Buchstabe a bezeichneten Kontrollschildern versehen sind.
 
 <sup>2</sup> Ausländische Motorfahrräder, Kleinmotorräder, Motorräder mit einem Zylinderinhalt bis 125 cm<sup>3</sup>, land- und forstwirtschaftliche Motorfahrzeuge, Arbeitsmotorfahrzeuge und Anhänger, für die in ihrem Herkunftsland Fahrzeugausweise und Kontrollschilder nicht erforderlich sind, dürfen ohne solche Schilder in der Schweiz verkehren.[^114-2] Anstelle des Fahrzeugausweises ist ein Dokument mit den wesentlichen Angaben über das Fahrzeug und den Halter erforderlich.
 
@@ -2916,10 +2920,10 @@ Die Strafbehörden melden der für den Strassenverkehr zuständigen Behörde des
 Die Fahrzeugstatistik umfasst:
 
 - a.[^127-2] den Bestand der am 30. September in Verkehr stehenden Motorfahrzeuge;
-- b. die Zahl der monatlich neu zugelassenen Motorfahrzeuge nach Buchstabe *a*;
+- b. die Zahl der monatlich neu zugelassenen Motorfahrzeuge nach Buchstabe a;
 - c. den Bestand der am 30. September in Verkehr stehenden Transport- und Arbeitsanhänger;
 - d. den Bestand der Motorfahrräder und Fahrräder am Jahresende;
-- e. die Zahl der monatlich eingeführten Motorfahrräder und Motorfahrzeuge nach Buchstabe *a*.
+- e. die Zahl der monatlich eingeführten Motorfahrräder und Motorfahrzeuge nach Buchstabe a.
 
 <sup>3</sup> Nach Massgabe des Bundesamtes für Statistik werden Unterlagen für die Statistik über Motorfahrzeuge nach Absatz 2 Buchstaben a und b von der Eidgenössischen Fahrzeugkontrolle, über die Anhänger sowie Motorfahrräder und Fahrräder (Abs. 2 Bst. c und d) von den Kantonen und über die Einfuhren (Abs. 2 Bst. e) vom BAZG zur Verfügung gestellt.[^127-3]
 
@@ -3486,13 +3490,13 @@ Anhang 1[^t-2]
 
 ## Medizinische Mindestanforderungen
 
-[^t-2]: Fassung gemäss Ziff. II Abs. 2 der V vom 1. Juli 2015, in Kraft seit 1. Juli 2016 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)). Die Berichtigung vom 4. Juni 2019 betrifft nur den französischen Text ([AS 2019 1645](https://fedlex.data.admin.ch/eli/oc/2019/317)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^t-2]: Fassung gemäss Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 10. Mai 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)) und Ziff. II der V vom 13. Dez. 2024, in Kraft seit 1. Juli 2025 ([AS 2025 30](https://fedlex.data.admin.ch/eli/oc/2025/30)).
 
 ### Führer von Fahrzeugen, für die ein Führerausweis erforderlich ist
 
 <table>
 <tr><th></th><th>1. Gruppe</th><th></th><th>2. Gruppe</th></tr>
-<tr><td></td><td>a. Führerausweis-Kategorien A und B b. Führerausweis-Unterkategorien A1 und B1 c. Führerausweis-Spezialkategorien F, G und M</td><td></td><td>a. Führerausweis-Kategorien C und D b. Führerausweis-Unterkategorien C1 und D1 c. Bewilligung zum berufsmässigen Personentransport d. Verkehrsexperten</td></tr>
+<tr><td></td><td>a. Führerausweis-Kategorien A und B b. Führerausweis-Unterkategorien A1 und B1 c. Führerausweis-Spezialkategorien F, G und M d. Verkehrsexperten für Fahrzeugprüfungen</td><td></td><td>a. Führerausweis-Kategorien C und D b. Führerausweis-Unterkategorien C1 und D1 c. Bewilligung zum berufsmässigen Personentransport d. Verkehrsexperten für Führerprüfungen</td></tr>
 <tr><td>**1** **Sehvermögen** 1.1 Sehschärfe</td><td>besseres Auge: 0,5/schlechteres Auge: 0,2 (einzeln gemessen) Einäugiges Sehen (inkl. Sehschärfe des schlechteren Auges &lt; 0,2): 0,6</td><td></td><td>besseres Auge: 0,8/schlechteres Auge: 0,5 (einzeln gemessen)</td></tr>
 <tr><td>1.2 Gesichtsfeld</td><td>Beidäugiges Sehen: Gesichtsfeld horizontal minimal 120 Grad. Erweiterung nach rechts und links minimal 50 Grad. Erweiterung nach oben und unten minimal 20 Grad. Das zentrale Gesichtsfeld muss bis 20 Grad normal sein. Einäugiges Sehen: normales Gesichtsfeld bei normaler Augenbeweglichkeit.</td><td></td><td>Gesichtsfeld horizontal minimal 140 Grad. Erweiterung nach rechts und links minimal 70 Grad. Erweiterung nach oben und unten minimal 30 Grad. Das zentrale Gesichtsfeld muss auf jedem Auge bis 30 Grad normal sein.</td></tr>
 <tr><td>1.3 Doppelsehen</td><td>Keine einschränkenden Doppelbilder.</td><td></td><td>Normale Augenbeweglichkeit (keine Doppelbilder)</td></tr>
@@ -3725,11 +3729,11 @@ Stempel und Unterschrift der Ärztin/des Arztes:
 
 Anhang 3[^t-6]
 
-(Art. 7, 11*a*, 27 und 65)
+(Art. 5*i*, 7, 27 und 65)
 
 ## Resultat der ärztlichen Fahreignungsuntersuchung
 
-[^t-6]: Fassung gemäss Ziff. II Abs. 2 der V vom 1. Juli 2015, in Kraft seit 1. Juli 2016 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
+[^t-6]: Fassung gemäss Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)). Bereinigt gemäss Ziff. II der V vom 13. Dez. 2024, in Kraft seit 1. Juli 2025 ([AS 2025 30](https://fedlex.data.admin.ch/eli/oc/2025/30)).
 
 (Meldung an die kantonale Behörde)
 
@@ -3768,7 +3772,7 @@ Name: Vorname: Geburtsdatum: PLZ/Wohnort: Adresse:
 - 2 *Schlussfolgerungen*
 - 2\.1 Die medizinischen Mindestanforderungen (Anhang 1 VZV)
 
-der 1. medizinischen Gruppe (A, A1, B, B1, F, G, M) sind: der 2. medizinischen Gruppe (D, D1, C, C1, Bewilligung zum berufsmässigen Personentransport, Verkehrsexpertinnen/-experten) sind: erfüllt nur mit den nachstehenden Auflagen erfüllt (Ziff. 3) nicht erfüllt Kurze Begründung: erfüllt nur mit den nachstehenden Auflagen erfüllt (Ziff. 3) nicht erfüllt Kurze Begründung:
+der 1. medizinischen Gruppe (A, A1, B, B1, F, G, M, Verkehrsexperten für Fahrzeugprüfungen) sind: der 2. medizinischen Gruppe (D, D1, C, C1, Bewilligung zum berufsmässigen Personentransport, Verkehrsexperten für Führerprüfungen) sind: erfüllt nur mit den nachstehenden Auflagen erfüllt (Ziff. 3) nicht erfüllt Kurze Begründung: erfüllt nur mit den nachstehenden Auflagen erfüllt (Ziff. 3) nicht erfüllt Kurze Begründung:
 
 - 2\.2 Unklares Ergebnis: Die definitive Beurteilung soll von einer anerkannten Ärztin oder einem anerkannten Arzt der Stufe 3 oder 4 vorgenommen werden
 - Es bestehen ernsthafte Zweifel an der Fahreignung, weshalb bis zur weiteren Abklärung kein Fahrzeug geführt werden sollte
@@ -3800,7 +3804,7 @@ Anhang 3a[^t-7]
 
 ## Augenärztliches Zeugnis
 
-[^t-7]: Eingefügt durch Ziff. II der V vom 1. Juli 2015, in Kraft seit 1. Juli 2016 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
+[^t-7]: Eingefügt durch Ziff. II der V vom 1. Juli 2015 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)). Bereinigt gemäss Ziff. II der V vom 13. Dez. 2024, in Kraft seit 1. Juli 2025 ([AS 2025 30](https://fedlex.data.admin.ch/eli/oc/2025/30)).
 
 (Meldung an die kantonale Behörde)
 
@@ -3817,8 +3821,8 @@ Strassenverkehrsgesetz vom 19. Dezember 1958
 
 A. Die Mindestanforderungen an das Sehvermögen nach Anhang 1 VZV wurden geprüft für:
 
-- die erste medizinische Gruppe (A, A1, B, B1, F, G, M)
-- die zweite medizinische Gruppe (D, D1, C, C1, Bewilligung zum berufsmässigen Personentransport, Verkehrsexperten)
+- die erste medizinische Gruppe (A, A1, B, B1, F, G, M, Verkehrsexperten für Fahrzeugprüfungen)
+- die zweite medizinische Gruppe (D, D1, C, C1, Bewilligung zum berufsmässigen Personentransport, Verkehrsexperten für Führerprüfungen)
 
 B. Befunde
 
@@ -4027,7 +4031,6 @@ Beilage
 - B: Motorwagen und dreirädrige Motorfahrzeuge mit einem Gesamtgewicht von nicht mehr als 3500 kg und nicht mehr als acht Plätzen ausser dem Führersitz;
 - Fahrzeugkombinationen aus einem Zugfahrzeug der Kategorie B und einem Anhänger, dessen Gesamtgewicht 750 kg nicht übersteigt;
 - Fahrzeugkombinationen aus einem Zugfahrzeug der Kategorie B und einem Anhänger mit einem Gesamtgewicht von mehr als 750 kg, sofern das Gesamtzugsgewicht 3500 kg nicht übersteigt;
-- B1: dreirädrige Motorfahrzeuge mit einem Leergewicht von nicht mehr als 670 kg und Kleinmotorfahrzeuge;
 - C: Motorwagen mit einem Gesamtgewicht von mehr als 3500 kg und nicht mehr als acht Plätzen ausser dem Führersitz;
 - Fahrzeugkombinationen aus einem Zugfahrzeug der Kategorie C und einem Anhänger, dessen Gesamtgewicht 750 kg nicht übersteigt;
 - D: Motorwagen zum Personentransport mit mehr als acht Plätzen ausser dem Führersitz;
@@ -4037,7 +4040,7 @@ Beilage
 - DE: Fahrzeugkombinationen aus einem Zugfahrzeug der Kategorie D und einem Anhänger mit einem Gesamtgewicht von mehr als 750 kg.
 - [tab] **Unterkategorien:**
 - A1: Motorräder mit einem Hubraum von nicht mehr als 125 cm<sup>3</sup> und einer Motorleistung von höchstens 11 kW;
-- B1: Klein- und dreirädrige Motorfahrzeuge mit einem Leergewicht von nicht mehr als 550 kg;
+- B1: dreirädrige Motorfahrzeuge mit einem Leergewicht von nicht mehr als 670 kg und Kleinmotorfahrzeuge;
 - C1: Motorwagen mit einem Gesamtgewicht von mehr als 3500 kg, aber nicht mehr als 7500 kg und nicht mehr als acht Plätzen ausser dem Führersitz;
 - Fahrzeugkombinationen aus einem Zugfahrzeug der Unterkategorie C1 und einem Anhänger, dessen Gesamtgewicht 750 kg nicht übersteigt;
 - D1: Motorwagen zum Personentransport mit mehr als acht, aber nicht mehr als 16 Plätzen ausser dem Führersitz;
@@ -4175,7 +4178,7 @@ Anhang 11[^t-14]
 
 ## Nachweis der theoretischen Kenntnisse
 
-[^t-14]: Eingefügt durch Ziff. II Abs. 2 der V vom 3. Juli 2002 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Bereinigt gemäss Ziff. II der V vom 26. Sept. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)) und Ziff. II Abs. 2 der V vom 15. Juni 2007, in Kraft seit 1. Sept. 2009 ([AS 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)).
+[^t-14]: Eingefügt durch Ziff. II Abs. 2 der V vom 3. Juli 2002 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Bereinigt gemäss Ziff. II der V vom 26. Sept. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)), Ziff. II Abs. 2 der V vom 15. Juni 2007 ([AS 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)) und Anhang Ziff. 3 der V vom 13. Dez. 2024 über das automatisierte Fahren, in Kraft seit 1. März 2025 ([AS 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)).
 
 ### I. Kenntnisse
 
@@ -4207,6 +4210,16 @@ Der Nachweis der Kenntnisse in Ziffer I wird durch Prüfung der folgenden Aspekt
   - – frühzeitiges Hochschalten;
   - – Motor wo immer möglich abschalten (v.a. vor Bahnschranken und Ampeln);
   - – Kenntnis der Schubabschaltung.
+
+- 1\.2.4
+
+  Kenntnisse zu Fahrerassistenz- und Automatisierungssystemen zur Erhöhung der Verkehrssicherheit und des Verkehrsflusses, insbesondere:
+
+  - − Differenzierung zwischen Fahrerassistenz- und Automatisierungssystem;
+  - − unterschiedliche Wirkweisen (v.a. Wirkweise «kontinuierlich unterstützend»);
+  - − wichtigste Funktionen von Fahrerassistenz- und Automatisierungssystemen sowie deren Grenzen und Risiken;
+  - − Einsatz der Fahrerassistenz- und Automatisierungssysteme;
+  - − Bedeutung der Aufrechterhaltung permanenter Aufmerksamkeit und Einsatz- beziehungsweise Übernahmebereitschaft.
 
 1.3 die Strasse:
 
@@ -4253,7 +4266,7 @@ Anhang 12[^t-15]
 
 ## Praktische Führerprüfung
 
-[^t-15]: Eingefügt durch Ziff. II Abs. 2 der V vom 3. Juli 2002 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Bereinigt gemäss Ziff. II der V vom 26. Sept. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)), Ziff. II 2 der V vom 28. April 2004 ([AS 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)), Ziff. II Abs. 2 der V vom 15. Juni 2007 ([AS 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)), Ziff. II der V vom 29. Nov. 2013 ([AS 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)) und vom Ziff. II Abs. 3 der V vom 14. Dez. 2018 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)), Ziff. II Abs. 1 der V vom 10. Mai 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)) und Ziff. II Abs. 2 der V vom 22. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2024 31](https://fedlex.data.admin.ch/eli/oc/2024/31)).
+[^t-15]: Eingefügt durch Ziff. II Abs. 2 der V vom 3. Juli 2002 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Bereinigt gemäss Ziff. II der V vom 26. Sept. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)), Ziff. II 2 der V vom 28. April 2004 ([AS 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)), Ziff. II Abs. 2 der V vom 15. Juni 2007 ([AS 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)), Ziff. II der V vom 29. Nov. 2013 ([AS 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)) und vom Ziff. II Abs. 3 der V vom 14. Dez. 2018 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)), Ziff. II Abs. 1 der V vom 10. Mai 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)), Ziff. II Abs. 2 der V vom 22. Dez. 2023 ([AS 2024 31](https://fedlex.data.admin.ch/eli/oc/2024/31)) und Anhang Ziff. 3 der V vom 13. Dez. 2024 über das automatisierte Fahren, in Kraft seit 1. März 2025 ([AS 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)).
 
 ### I. Zulassungsbedingungen
 
@@ -4323,12 +4336,14 @@ Der Nachweis der in Ziffer II genannten Fähigkeiten und Verhaltensweisen wird d
 
 1 Vorbereitung und technische Kontrolle des Fahrzeugs unter Berücksichti- gung der Strassenverkehrssicherheit:
 
-- Die Bewerber müssen zeigen, dass sie in der Lage sind, sich auf ein sicheres Fahren vorzubereiten:
-- Sie müssen den ordnungsgemässen Zustand der Reifen, der Bremsanlagen, der Lenkung, der Beleuchtung, der Rückstrahler, der Richtungsblinker und der akustischen Warnsignale stichprobenartig überprüfen.
+Die Bewerber müssen zeigen, dass sie in der Lage sind, sich auf ein sicheres Fahren vorzubereiten:
+
+Sie müssen den ordnungsgemässen Zustand der Reifen, der Bremsanlagen, der Lenkung, der Beleuchtung, der Rückstrahler, der Richtungsblinker und der akustischen Warnsignale stichprobenartig überprüfen.
 
 2 Verhaltensweisen im Verkehr:
 
-- Die Bewerber müssen folgende Fahrübungen in normalen Verkehrsverhältnissen völlig sicher und mit der erforderlichen Vorsicht durchführen:
+Die Bewerber müssen folgende Fahrübungen in normalen Verkehrsverhältnissen völlig sicher und mit der erforderlichen Vorsicht durchführen:
+
 - 2\.1 wegfahren: geparkt oder im Verkehr, die Autobahn verlassen;
 - 2\.2 auf geraden Strassen fahren; an entgegenkommenden Fahrzeugen auch an Engstellen vorbeifahren;
 - 2\.3 in Kurven fahren;
@@ -4341,13 +4356,35 @@ Der Nachweis der in Ziffer II genannten Fähigkeiten und Verhaltensweisen wird d
 
 ### B. Kategorie A und Unterkategorie A1
 
-1 Vorbereitung und technische Kontrolle des Fahrzeugs unter Berücksichti- gung der Strassenverkehrssicherheit:
+1 Vorbereitung und technische Kontrolle des Fahrzeugs unter Berücksichtigung der Strassenverkehrssicherheit:
 
 - 1\.1 die Sicherheitsausrüstung einstellen, wie Handschuhe, Stiefel, Kleidung und Sturzhelm;
 - 1\.2 den ordnungsgemässen Zustand des Nothalteschalters (sofern vorhanden), der Kette und des Ölstands stichprobenartig überprüfen;
 - 1\.3 die Risikofaktoren beherrschen, die mit den unterschiedlichen Strassenverhältnissen zusammenhängen, unter besonderer Berücksichtigung rutschiger Verhältnisse auf Kanalabdeckungen, Strassenmarkierungen und Tramschienen.
 
-2 Beherrschen spezieller Fahrmanöver, unter Berücksichtigung der Strassen verkehrssicherheit:
+1<sup>bis</sup> Kennen und Anwenden von Fahrerassistenzsystemen (soweit vorhanden) unter Berücksichtigung der Strassenverkehrssicherheit und des Verkehrsflusses:
+
+- 1<sup>bis</sup>.1 Die Bewerber können mindestens die nachfolgend aufgeführten Fahrerassistenzsysteme anwenden:
+
+<table>
+<tr><th>Wirkweise</th><th>Fahrerassistenzsystem</th><th>Modus</th></tr>
+<tr><td>informierend und warnend</td><td>Totwinkel-Warner</td><td>immer aktiviert</td></tr>
+<tr><td>kontinuierlich unterstützend</td><td>Semiaktives Fahrwerk Vorhandene Fahrmodi Abstandsregeltempomat und Tempomat</td><td>Verkehrsexperte kann Aktivierung/Deaktivierung verlangen</td></tr>
+<tr><td>temporär eingreifend</td><td>Anti-Blockier-System (ABS) mit integriertem Kurven-ABS und einfaches ABS</td><td>immer aktiviert</td></tr>
+<tr><td></td><td>Traktionskontrolle</td><td></td></tr>
+</table>
+
+- 1<sup>bis</sup>.2 Die Bewerber müssen die unterschiedlichen Wirkweisen, Grenzen und Risiken dieser Fahrerassistenzsysteme und deren Folgen für die Bewältigung der Fahraufgabe kennen.
+- 1<sup>bis</sup>.3
+
+  Kennen und Anwenden umfasst insbesondere:
+
+  - − Aktivierung und Deaktivierung sowie damit verbundene Konsequenzen für die Bewältigung der Fahraufgabe;
+  - − Verständnis der Systemgrenzen und Risiken sowie (warnender) Informationen;
+  - − Erkennen, wenn Fahrerassistenzsysteme ihre Funktion nicht wahrnehmen, und die betreffende Fahraufgabe sofort übernehmen;
+  - − Aufrechterhaltung der permanenten Aufmerksamkeit und Einsatzbereitschaft auch während der bestimmungsgemässen Anwendung der Fahrerassistenzsysteme.
+
+2 Beherrschen spezieller Fahrmanöver, unter Berücksichtigung der Strassenverkehrssicherheit sowie gegebenenfalls unter Anwendung der Fahrerassistenzsysteme:
 
 - 2\.1 das Motorrad von seinem Ständer herunternehmen und durch seitliches Schieben ohne Motorkraft fortbewegen;
 - 2\.2 das Motorrad auf seinem Ständer abstellen;
@@ -4371,14 +4408,37 @@ Vorbereitung und technische Kontrolle des Fahrzeugs unter Berücksichti- gung de
 - 1\.3 Sicherheitsfaktoren im Hinblick auf die Beladung des Fahrzeugs überprüfen: Fahrzeugkarosserie, Blechabdeckung, Frachttüren, Verriegelung der Kabine, Art der Beladung, Sicherung der Ladung (nur für die Kategorie BE);
 - 1\.4 den Kupplungsmechanismus, die Bremsen und die elektrischen Verbindungen überprüfen (nur für die Kategorie BE).
 
-2 Kategorie B und Unterkategorie B1: Folgende spezielle Fahrübungen müs- sen unter Berücksichtigung der Strassenverkehrssicherheit stichprobenartig geprüft werden (mindestens zwei Fahrübungen aus den Ziffern 2.1 bis 2.4, davon eine im Rückwärtsgang):
+1<sup>bis</sup> Kennen und Anwenden von Fahrerassistenz- und Automatisierungssystemen (soweit vorhanden) unter Berücksichtigung der Strassenverkehrssicherheit und des Verkehrsflusses:
+
+- 1<sup>bis</sup>.1 Die Bewerber können das automatisierte Spurhaltesystem (sog. Autobahnpilot; Wirkweise «kontinuierlich unterstützend»; Verkehrsexperte kann Aktivierung/Deaktivierung verlangen) und mindestens die nachfolgend aufgeführten Fahrerassistenzsysteme anwenden:
+
+<table>
+<tr><th>Wirkweise</th><th>Fahrerassistenzsystem</th><th>Modus</th></tr>
+<tr><td>informierend und warnend</td><td>Müdigkeitswarner und Aufmerksamkeitsüberwacher</td><td>immer aktiviert</td></tr>
+<tr><td>kontinuierlich unterstützend</td><td>Hochentwickeltes Spurhalte-, Spurwechsel-, Ausweich-, Notbremssystem inklusive Abstandsregeltempomat Spurhaltesystem und Abstandsregeltempomat Abstandsregeltempomat Intelligenter Geschwindigkeitsassistent</td><td>Verkehrsexperte kann Aktivierung/Deaktivierung verlangen</td></tr>
+<tr><td>temporär eingreifend</td><td>Hochentwickeltes Notbrems-Assistenzsystem</td><td>immer aktiviert</td></tr>
+<tr><td></td><td>Ausweichassistent</td><td></td></tr>
+</table>
+
+- 1<sup>bis</sup>.2 Die Bewerber müssen die unterschiedlichen Wirkweisen, Grenzen und Risiken dieser Fahrerassistenz- und Automatisierungssysteme und deren Folgen für die Bewältigung der Fahraufgabe kennen.
+- 1<sup>bis</sup>.3
+
+  Kennen und Anwenden umfasst insbesondere:
+
+  - − Aktivierung und Deaktivierung sowie damit verbundene Konsequenzen für die Bewältigung der Fahraufgabe;
+  - − Verständnis der Systemgrenzen und Risiken sowie (warnender) Informationen;
+  - − Erkennen, wenn Fahrerassistenzsysteme ihre Funktion nicht wahrnehmen, und die betreffende Fahraufgabe sofort übernehmen;
+  - − Aufrechterhaltung der permanenten Aufmerksamkeit und Einsatzbereitschaft auch während der bestimmungsgemässen Anwendung der Fahrerassistenzsysteme;
+  - − richtiges Verhalten während der Verwendung von Automatisierungssystemen, insbesondere bei Übergabesituationen und Aufforderungen des Automatisierungssystems.
+
+2 Kategorie B und Unterkategorie B1: Folgende spezielle Fahrübungen müssen unter Berücksichtigung der Strassenverkehrssicherheit sowie gegebenenfalls unter Anwendung der Fahrerassistenz- und Automatisierungssysteme stichprobenartig geprüft werden (mindestens zwei Fahrübungen aus den Ziffern 2.1 bis 2.4, davon eine im Rückwärtsgang):
 
 - 2\.1 in gerader Richtung rückwärts fahren und beim Abbiegen nach rechts oder nach links an einer Strassenecke den richtigen Fahrstreifen benützen;
 - 2\.2 unter Benützung des Vorwärts- und des Rückwärtsganges wenden;
 - 2\.3 das Fahrzeug abstellen und einen Parkplatz verlassen (parallel, schräg und senkrecht zum Fahrbahnrand, unter Benützung des Vorwärts- und des Rückwärtsganges, sowohl in der Ebene als auch in der Steigung und im Gefälle);
 - 2\.4 das Fahrzeug genau zum Halten bringen, die Anwendung der höchstmöglichen Bremskraft des Fahrzeugs ist allerdings fakultativ.
 
-3 Kategorie BE: Zu prüfende spezielle Fahrübungen unter Berücksichtigung der Strassenverkehrssicherheit:
+3 Kategorie BE: Zu prüfende spezielle Fahrübungen unter Berücksichtigung der Strassenverkehrssicherheit sowie gegebenenfalls unter Anwendung der Fahrerassistenz- und Automatisierungssysteme:
 
 - 3\.1 den Anhänger an das Zugfahrzeug ankuppeln und von diesem abkuppeln; zu Beginn dieser Übung müssen das Fahrzeug und der Anhänger nebeneinander (das heisst nicht in einer Linie) stehen;
 - 3\.2 rückwärts eine Kurve entlang fahren;
@@ -4404,19 +4464,17 @@ Vorbereitung und technische Kontrolle des Fahrzeugs unter Berücksichti- gung de
 
 ### F. Spezialkategorie F
 
--
+Die Prüfung muss den Besonderheiten dieser Spezialkategorie, insbesondere der reduzierten Höchstgeschwindigkeit, Rechnung tragen:
 
-  Die Prüfung muss den Besonderheiten dieser Spezialkategorie, insbesondere der reduzierten Höchstgeschwindigkeit, Rechnung tragen:
-
-  - – Betriebsbereitschaft erstellen (Beleuchtung, Rückspiegel, Schutzvorrichtung usw.);
-  - – Rundumkontrolle: Fahrzeugausweis, Beleuchtung, Rückstrahler, Richtungsblinker, Bereifung und Felgen, Ladung (Art, Schwerpunkt, Sicherung und Zusatzausrüstung wie z. B. Kran), Seitenladen, Blachenverdeck (Eis, Schnee)/Blick unter das Fahrzeug/Kondenswasser an Druckluftbehältern ablassen;
-  - – Funktionskontrolle: Rückspiegel-Einstellung, Richtungsblinker, Warnvorrichtung, Armaturen, Bremsüberwachung (Vorratsdruck, Zweikreiswarnlampe, Luftverlust), Starthilfe, Fahrtschreiber;
-  - – Gewichte und Abmessungen des Prüffahrzeuges sowie die Höchstgeschwindigkeiten besonders beachten, Behinderungen und Kolonnenbildung vermeiden;
-  - – auf gute Sicht achten;
-  - – Fahrzeugsicherung bei Steigung/Gefälle (Massnahmen fehlende Gangsicherung);
-  - – Besondere Beachtung der Besonderheiten des Fahrzeuges beim Einfädeln, bei der Lückenbenützung und beim Überqueren der Fahrbahn (begrenzte Beschleunigung und Höchstgeschwindigkeit);
-  - – Rechtsfahren zweckmässig anwenden;
-  - – Bremsverhalten kennen.
+- – Betriebsbereitschaft erstellen (Beleuchtung, Rückspiegel, Schutzvorrichtung usw.);
+- – Rundumkontrolle: Fahrzeugausweis, Beleuchtung, Rückstrahler, Richtungsblinker, Bereifung und Felgen, Ladung (Art, Schwerpunkt, Sicherung und Zusatzausrüstung wie z. B. Kran), Seitenladen, Blachenverdeck (Eis, Schnee)/Blick unter das Fahrzeug/Kondenswasser an Druckluftbehältern ablassen;
+- – Funktionskontrolle: Rückspiegel-Einstellung, Richtungsblinker, Warnvorrichtung, Armaturen, Bremsüberwachung (Vorratsdruck, Zweikreiswarnlampe, Luftverlust), Starthilfe, Fahrtschreiber;
+- – Gewichte und Abmessungen des Prüffahrzeuges sowie die Höchstgeschwindigkeiten besonders beachten, Behinderungen und Kolonnenbildung vermeiden;
+- – auf gute Sicht achten;
+- – Fahrzeugsicherung bei Steigung/Gefälle (Massnahmen fehlende Gangsicherung);
+- – Besondere Beachtung der Besonderheiten des Fahrzeuges beim Einfädeln, bei der Lückenbenützung und beim Überqueren der Fahrbahn (begrenzte Beschleunigung und Höchstgeschwindigkeit);
+- – Rechtsfahren zweckmässig anwenden;
+- – Bremsverhalten kennen.
 
 ### G. Berufsmässiger Personentransport mit leichten Personentransportfahrzeugen
 
@@ -4472,4 +4530,5 @@ Der Prüfungsteil zur Beurteilung der technischen Beherrschung des Fahrzeugs dar
 - 3\.7 Geschwindigkeit: die maximal zugelassene Geschwindigkeit nicht überschreiten; die Geschwindigkeit an die Wetter- und Verkehrsbedingungen anpassen; mit solcher Geschwindigkeit fahren, dass das Anhalten innerhalb der sichtbaren und freien Strecke möglich ist; die Geschwindigkeit an die allgemeine Geschwindigkeit der gleichen Art von Verkehrsteilnehmern anpassen;
 - 3\.8 Ampeln, Signale und Markierungen und andere Bedingungen: richtiges Verhalten an Ampeln; Hinweise von Verkehrspolizisten beachten; richtiges Verhalten bei Signalen und Markierungen;
 - 3\.9 Signale: bei Bedarf notwendige, richtige und rechtzeitige Signale geben; Fahrtrichtungen korrekt angeben; auf alle Signale von anderen Verkehrsteilnehmern angemessen reagieren;
-- 3\.10 Bremsen: rechtzeitiges Verlangsamen, den Umständen angepasstes Bremsen; vorausschauende Fahrweise; Verwendung der verschiedenen Bremssysteme (nur für die Kategorien C, D, CE, und DE); andere Systeme zur Geschwindigkeitsreduktion verwenden (nur für die Kategorien C, D, CE und DE).
+- 3\.10 Bremsen: rechtzeitiges Verlangsamen, den Umständen angepasstes Bremsen; vorausschauende Fahrweise; Verwendung der verschiedenen Bremssysteme (nur für die Kategorien C, D, CE, und DE); andere Systeme zur Geschwindigkeitsreduktion verwenden (nur für die Kategorien C, D, CE und DE);
+- 3\.11 Fahrerassistenz- und Automatisierungssysteme: bestimmungsgemässe Anwendung unter Berücksichtigung von Systemgrenzen und Risiken; situativ zweckmässiger Umgang; richtiges Verhalten bei aktiviertem Zustand.

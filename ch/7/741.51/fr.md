@@ -4,11 +4,11 @@ title: "Ordonnance du 27 octobre 1976 réglant l'admission des personnes et des 
 short: OAC
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423"
 language: fr
-version: 2025-06-18
+version: 2025-07-01
 adopted: 1976-10-27
 in_force: 1977-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20250618/fr/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20250618-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20250618/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20250701-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20250618/fr"
 
 (Ordonnance réglant l’admission à la circulation routière,[^t-1] OAC)
 
-du 27 octobre 1976 (État le 18 juin 2025)
+du 27 octobre 1976 (État le 1<sup>er</sup> juillet 2025)
 
 [^t-1]: Introduit par le ch. I de l’O du 3 juil. 2002, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 
@@ -1214,13 +1214,13 @@ L’obligation de se soumettre à un contrôle relevant de la médecine du trafi
 
 - a.
 
-  aux titulaires d’un permis de conduire des catégories C ou D, des sous-catégories C1 ou D1, ou d’une autorisation de transporter des personnes à titre professionnel, ainsi qu’aux aux experts de la circulation:
+  aux titulaires d’un permis de conduire des catégories C ou D, des sous-catégories C1 ou D1, ou d’une autorisation de transporter des personnes à titre professionnel, ainsi qu’aux experts de la circulation chargés des examens de conduite:[^27-2]
 
   - 1\. tous les cinq ans, à l’exception du premier contrôle réalisé après l’âge de 50 ans, qui doit avoir lieu à 53 ans au plus tard,
   - 2\. tous les trois ans après le premier contrôle réalisé après l’âge de 50 ans, à l’exception du premier contrôle effectué après 75 ans, qui doit avoir lieu à 77 ans au plus tard;
 
 - b. aux titulaires d’un permis de conduire à partir de l’âge 75 ans: tous les deux ans;
-- c. aux titulaires d’un permis de conduire qui souffrent ou ont souffert de graves troubles physiques résultant de blessures consécutives à un accident ou d’une maladie grave.[^27-2]
+- c. aux titulaires d’un permis de conduire qui souffrent ou ont souffert de graves troubles physiques résultant de blessures consécutives à un accident ou d’une maladie grave.[^27-3]
 
 <sup>1bis</sup>
 
@@ -1228,13 +1228,13 @@ L’autorité cantonale rappelle aux personnes visées à l’al. 1, let. a et b
 
 - a. pour le premier contrôle des personnes visées à l’al. 1, let. a: trois mois avant la date d’expiration du délai de contrôle, calculée à partir de la date du dernier examen relevant de la médecine du trafic;
 - b. pour le premier contrôle des personnes visées à l’al. 1, let. b: dans un délai d’un mois après que la personne a atteint l’âge de 75 ans;
-- c. pour tous les contrôles ultérieurs: trois mois avant la date d’exigibilité du résultat de l’examen selon l’al. 1<sup>ter</sup>.[^27-3]
+- c. pour tous les contrôles ultérieurs: trois mois avant la date d’exigibilité du résultat de l’examen selon l’al. 1<sup>ter</sup>.[^27-4]
 
-<sup>1ter</sup> Dans le rappel adressé aux personnes visées à l’al. 1, let. a et b, l’autorité cantonale indique que le résultat de l’examen doit être disponible dans les trois mois à compter de l’envoi du rappel et, pour les contrôles ultérieurs, toujours à leur échéance la plus tardive. Celle-ci est calculée à partir de la date du dernier examen réalisé.[^27-4]
+<sup>1ter</sup> Dans le rappel adressé aux personnes visées à l’al. 1, let. a et b, l’autorité cantonale indique que le résultat de l’examen doit être disponible dans les trois mois à compter de l’envoi du rappel et, pour les contrôles ultérieurs, toujours à leur échéance la plus tardive. Celle-ci est calculée à partir de la date du dernier examen réalisé.[^27-5]
 
-<sup>1quater</sup> Après que les personnes visées à l’al. 1, let. c, ont été soumises à un premier examen relevant de la médecine du trafic, l’autorité cantonale leur rappelle les contrôles ultérieurs éventuellement nécessaires.[^27-5]
+<sup>1quater</sup> Après que les personnes visées à l’al. 1, let. c, ont été soumises à un premier examen relevant de la médecine du trafic, l’autorité cantonale leur rappelle les contrôles ultérieurs éventuellement nécessaires.[^27-6]
 
-<sup>1quinquies</sup> L’autorité cantonale peut exceptionnellement prolonger le délai de remise des résultats d’examen.[^27-6]
+<sup>1quinquies</sup> L’autorité cantonale peut exceptionnellement prolonger le délai de remise des résultats d’examen.[^27-7]
 
 <sup>2</sup> Le contrôle relevant de la médecine du trafic doit être effectué sous la responsabilité d’un médecin selon l’art. 5*a*<sup>bis</sup>.
 
@@ -1248,11 +1248,12 @@ L’autorité cantonale peut:
 <sup>4</sup> L’autorité cantonale peut, dans des cas d’espèce, ordonner un examen relevant de la médecine du trafic limité à certains points ou étendu à d’autres; le médecin ne sera alors pas tenu d’utiliser les formulaires reproduits aux annexes 2 et 2*a*.
 
 [^27-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
-[^27-2]: Nouvelle teneur selon le ch. I de l’O du 10 mai 2023, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
-[^27-3]: Introduit par le ch. I de l’O du 10 mai 2023, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^27-2]: Nouvelle teneur selon le ch. I de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 30](https://fedlex.data.admin.ch/eli/oc/2025/30)).
+[^27-3]: Nouvelle teneur selon le ch. I de l’O du 10 mai 2023, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^27-4]: Introduit par le ch. I de l’O du 10 mai 2023, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^27-5]: Introduit par le ch. I de l’O du 10 mai 2023, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^27-6]: Introduit par le ch. I de l’O du 10 mai 2023, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^27-7]: Introduit par le ch. I de l’O du 10 mai 2023, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 ### 12*b* Formation complémentaire pour les titulaires du permis de conduire à l’essai
 
@@ -1523,17 +1524,18 @@ L’autorité cantonale peut délivrer aux titulaires du permis d’élève cond
 
 **Prolongation de la période probatoire**[^35-1]
 
-<sup>1</sup> Si le titulaire du permis de conduire à l’essai commet une infraction entraînant le retrait du permis de conduire des catégories et des sous-catégories et que ce retrait échoit pendant la période probatoire, l’autorité délivre un nouveau permis de conduire à l’essai. La nouvelle période probatoire prend fin une année après la date d’échéance du permis de conduire à l’essai retiré.
+<sup>1</sup> Si le titulaire du permis de conduire à l’essai commet une infraction moyennement grave ou grave entraînant le retrait du permis de conduire des catégories et des sous-catégories et que ce retrait échoit pendant la période probatoire, l’autorité délivre un nouveau permis de conduire à l’essai. La nouvelle période probatoire prend fin une année après la date d’échéance du permis de conduire à l’essai retiré.[^35-2]
 
 <sup>2</sup> Si le retrait du permis échoit après la période probatoire, l’autorité délivre un nouveau permis à l’essai. La nouvelle période probatoire prend fin une année après la date de sa délivrance.
 
 [^35-1]: Nouvelle teneur selon le ch. I de l’O du 27 oct. 2004, en vigueur depuis le 1<sup>er</sup> déc. 2005 ([RO 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)).
+[^35-2]: Nouvelle teneur selon le ch. I de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 30](https://fedlex.data.admin.ch/eli/oc/2025/30)).
 
 #### Art. 35a
 
 **Annulation**[^35a-1]
 
-<sup>1</sup> Si le titulaire du permis de conduire à l’essai commet une deuxième infraction entraînant le retrait du permis de conduire des catégories et des sous-catégories, le permis est annulé. Cela s’applique aussi lorsque le permis a été délivré entre-temps pour une durée illimitée. En cas d’annulation, le permis de conduire doit être restitué à l’autorité.[^35a-2]
+<sup>1</sup> Si le titulaire du permis de conduire à l’essai commet une deuxième infraction moyennement grave ou grave entraînant le retrait du permis de conduire des catégories et des sous-catégories, le permis est annulé. Cela s’applique aussi lorsque le permis a été délivré entre-temps pour une durée illimitée. En cas d’annulation, le permis de conduire doit être restitué à l’autorité.[^35a-2]
 
 <sup>2</sup> L’annulation s’applique à toutes les catégories et sous-catégories. Elle s’applique aussi aux catégories spéciales lorsque le titulaire ne présente aucune garantie qu’à l’avenir il ne commettra pas d’infractions avec des véhicules des catégories spéciales.
 
@@ -1544,7 +1546,7 @@ L’autorité cantonale peut délivrer aux titulaires du permis d’élève cond
 <sup>4</sup> L’autorité compétente informe le conducteur concerné des conditions auxquelles il peut de nouveau obtenir un permis d’élève conducteur.
 
 [^35a-1]: Introduit par le ch. I de l’O du 27 oct. 2004, en vigueur depuis le 1<sup>er</sup> déc. 2005 ([RO 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)).
-[^35a-2]: Nouvelle teneur selon le ch. I de l’O du 10 mai 2023, en vigueur depuis le 15 juil. 2023 ([RO 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^35a-2]: Nouvelle teneur selon le ch. I de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 30](https://fedlex.data.admin.ch/eli/oc/2025/30)).
 [^35a-3]: Introduit par le ch. I de l’O du 10 mai 2023, en vigueur depuis le 15 juil. 2023 ([RO 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 #### Art. 35b
@@ -1690,7 +1692,7 @@ Les conducteurs en provenance de l’étranger ne peuvent conduire des véhicule
 Sont tenus d’obtenir un permis de conduire suisse:
 
 - a. les conducteurs de véhicules automobiles en provenance de l’étranger qui résident depuis plus de douze mois en Suisse sans avoir séjourné plus de trois mois consécutifs à l’étranger;
-- b.[^42-10] les personnes titulaires d’un permis de conduire valable qui n’a pas été délivré par un État membre de l’UE ou de l’AELE et qui conduisent à titre professionnel des véhicules automobiles immatriculés en Suisse, nécessitant un permis de conduire des catégories C ou D ou des sous-catégories C1 ou D1 ou encore une autorisation au sens de l’art. 25; fait exception le personnel des cirques et des entreprises foraines.[^42-11]
+- b.[^42-10] les personnes titulaires d’un permis de conduire valable qui n’a pas été délivré par un État membre de l’Union européenne (UE) ou de l’Association européenne de libre-échange (AELE) et qui conduisent à titre professionnel des véhicules automobiles immatriculés en Suisse, nécessitant un permis de conduire des catégories C ou D ou des sous-catégories C1 ou D1 ou encore une autorisation au sens de l’art. 25; fait exception le personnel des cirques et des entreprises foraines.[^42-11]
 
 <sup>3ter</sup>
 
@@ -1711,7 +1713,7 @@ Ne sont pas tenues d’obtenir un permis de conduire suisse les personnes béné
 [^42-7]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 [^42-8]: Introduit par le ch. I de l’O du 10 mai 2023, en vigueur depuis le 15 juil. 2023 ([RO 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^42-9]: Nouvelle teneur selon le ch. I de l’O du 10 mai 2023, en vigueur depuis le 15 juil. 2023 ([RO 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
-[^42-10]: Nouvelle teneur selon le ch. I de l’O du 10 mai 2023, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^42-10]: Nouvelle teneur selon le ch. I de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 30](https://fedlex.data.admin.ch/eli/oc/2025/30)).
 [^42-11]: Introduit par le ch. I de l’O du 7 mars 1994, en vigueur depuis le 1<sup>er</sup> avr. 1994 ([RO 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
 [^42-12]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
 [^42-13]: Introduit par l’annexe ch. 11 de l’O du 7 déc. 2007 sur l’État hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
@@ -1946,19 +1948,21 @@ L’expert de la circulation chargé des examens de conduite et des contrôles d
 
 - a. avoir 24 ans révolus;
 - b. avoir subi avec succès l’examen final d’apprentissage de mécanicien sur automobiles ou dans une profession technique équivalente et avoir exercé sa profession au moins une année depuis la fin de l’apprentissage;
-- c. posséder depuis trois ans au moins un permis de conduire suisse des catégories B ou C, sans avoir compromis, pendant cette période, la sécurité routière en violant des règles de la circulation;
-- d.[^65-2] prouver qu’il remplit les exigences médicales minimales fixées à l’annexe 1 en présentant une communication conforme à l’annexe 3 émanant d’un médecin ayant obtenu la reconnaissance de niveau 2;
-- e.[^65-3] présenter un avis d’expertise d’un psychologue du trafic selon l’art. 5*c*, attestant son aptitude en matière de psychologie du trafic*.*
+- c.[^65-2] posséder depuis trois ans au moins un permis de conduire suisse des catégories B ou C, ou un permis de conduire des catégories B ou C d’un État-membre de l’UE ou de l’AELE, sans avoir compromis, pendant cette période, la sécurité routière en violant les règles de la circulation;
+- d.[^65-3] prouver qu’il remplit les exigences médicales minimales fixées à l’annexe 1 en présentant une communication conforme à l’annexe 3 émanant d’un médecin ayant obtenu la reconnaissance de niveau 2;
+- e.[^65-4] présenter un avis d’expertise d’un psychologue du trafic selon l’art. 5*c*, attestant son aptitude en matière de psychologie du trafic*.*
 
 <sup>3</sup> L’expert de la circulation chargé des examens de conduite n’est pas tenu de satisfaire aux exigences de l’al. 2, let. b, mais doit avoir subi avec succès l’examen final d’apprentissage dans une profession quelconque ou posséder une formation équivalente.
 
-<sup>4</sup> L’exigence de l’al. 2, let. e, n’est pas requise des experts de la circulation chargés des contrôles des véhicules.
+<sup>4</sup> Les exigences de l’al. 2, let. d et e, ne sont pas requises des experts de la circulation chargés des contrôles de véhicules.[^65-5]
 
 <sup>5</sup> Les moniteurs de conduite, qui veulent devenir experts de la circulation, doivent avoir exercé la profession de moniteur pendant une année au moins sans avoir fait l’objet de plaintes et être âgés de 24 ans révolus. Ils doivent compléter leur formation et passer les examens dans les matières qui ne figuraient pas au programme de l’examen de moniteur.
 
 [^65-1]: Nouvelle teneur selon le ch. I de l’O du 15 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1333](https://fedlex.data.admin.ch/eli/oc/2015/278)).
-[^65-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
+[^65-2]: Nouvelle teneur selon le ch. I de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 30](https://fedlex.data.admin.ch/eli/oc/2025/30)).
 [^65-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
+[^65-4]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
+[^65-5]: Nouvelle teneur selon le ch. I de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 30](https://fedlex.data.admin.ch/eli/oc/2025/30)).
 
 #### Art. 66
 
@@ -3478,13 +3482,13 @@ Annexe 1[^t-2]
 
 ## Exigences médicales minimales
 
-[^t-2]: Nouvelle teneur selon le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)). Mise à jour par l’erratum du 4 juin 2019 ([RO 2019 1645](https://fedlex.data.admin.ch/eli/oc/2019/317)) et le ch. II al. 1 de l’O du 10 mai 2023, en vigueur depuis le 15 juil. 2023 ([RO 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^t-2]: Nouvelle teneur selon le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)). Mise à jour par l’erratum du 4 juin 2019 ([RO 2019 1645](https://fedlex.data.admin.ch/eli/oc/2019/317)), le ch. II al. 1 de l’O du 10 mai 2023 ([RO 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)) et le ch. II de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 30](https://fedlex.data.admin.ch/eli/oc/2025/30)).
 
 ### Conducteurs de véhicules pour lesquels un permis de conduire est requis
 
 <table>
 <tr><th></th><th>1<sup>er</sup> groupe</th><th>2<sup>e</sup> groupe</th></tr>
-<tr><td></td><td>a. Permis des catégories A et B b. Permis des sous-catégories A1 et B1 c. Permis des catégories spéciales F, G et M</td><td>a. Permis des catégories C et D b. Permis des sous-catégories C1 et D1 c. Autorisation de transporter des personnes à titre professionnel d. Experts de la circulation</td></tr>
+<tr><td></td><td>a. Permis des catégories A et B b. Permis des sous-catégories A1 et B1 c. Permis des catégories spéciales F, G et M d. Experts de la circulation chargés des contrôles de véhicules</td><td>a. Permis des catégories C et D b. Permis des sous-catégories C1 et D1 c. Autorisation de transporter des personnes à titre professionnel d. Experts de la circulation chargés des examens de conduite</td></tr>
 <tr><td>**1****Facultés visuelles** 1.1 Acuité visuelle</td><td>0,5 pour l’œil le meilleur/0,2 pour l’œil le plus mauvais (mesurés isolément) Vision monoculaire (y c. acuité visuelle de l’œil le plus mauvais &lt; 0,2): 0,6</td><td>0,8 pour l’œil le meilleur/0,5 pour l’œil le plus mauvais (mesurés isolément)</td></tr>
 <tr><td>1.2 Champ visuel</td><td>Vision binoculaire: champ visuel de 120 degrés de diamètre horizontal au minimum. élargissement vers la droite et la gauche de 50 degrés au minimum. Élargissement vers le haut et le bas de 20 degrés au minimum. Le champ visuel central des deux yeux doit être normal jusqu’à 20 degrés. Vision monoculaire: champ visuel normal en cas de mobilité des yeux normale.</td><td>Champ visuel de 140 degrés de diamètre horizontal au minimum. Élargissement vers la droite et la gauche de 70 degrés au minimum. Élargissement vers le haut et le bas de 30 degrés au minimum. Le champ visuel central pour chaque œil doit être normal jusqu’à 30 degrés.</td></tr>
 <tr><td>1.3 Diplopie</td><td>Pas de diplopie restrictive.</td><td>Mobilité des yeux normale (pas de diplopie)</td></tr>
@@ -3715,11 +3719,11 @@ Cachet et signature du médecin:
 
 Annexe 3[^t-6]
 
-(art. *5i*)
+(art. 5*i*, 7, 27 et 65)
 
 ## Résultat de l’examen médical d’évaluation de l’aptitude à la conduite
 
-[^t-6]: Nouvelle teneur selon le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
+[^t-6]: Nouvelle teneur selon le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)). Mise à jour par le ch. II de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 30](https://fedlex.data.admin.ch/eli/oc/2025/30)).
 
 (Communication à l’autorité cantonale)
 
@@ -3758,7 +3762,7 @@ Nom: Prénom: Date de naissance: NPA/Lieu: Adresse:
 - 2 *Conclusions*
 - 2\.1 Les exigences médicales minimales (annexe 1 OAC)
 
-du 1<sup>er</sup> groupe (A, A1, B, B1, F, G, M): du 2<sup>e</sup> groupe (D, D1, C, C1, autorisation de transporter des personnes à titre professionnel, experts de la circulation): □ sont satisfaites □ sont satisfaites uniquement aux conditions suivantes (ch. 3) □ ne sont pas satisfaites Brève justification: □ sont satisfaites □ sont satisfaites uniquement aux conditions suivantes (ch. 3) □ ne sont pas satisfaites Brève justification:
+du 1<sup>er</sup> groupe (A, A1, B, B1, F, G, M, experts de la circulation chargés des contrôles de véhicules): du 2<sup>e</sup> groupe (D, D1, C, C1, autorisation de transporter des personnes à titre professionnel, experts de la circulation chargés des examens de conduite: □ sont satisfaites □ sont satisfaites uniquement aux conditions suivantes (ch. 3) □ ne sont pas satisfaites Brève justification: □ sont satisfaites □ sont satisfaites uniquement aux conditions suivantes (ch. 3) □ ne sont pas satisfaites Brève justification:
 
 - 2\.2 □ Résultat équivoque: l’évaluation définitive doit être réalisée par un médecin reconnu de niveau 3 ou 4.
 - □ Étant donné que l’aptitude à la conduite du candidat soulève des doutes sérieux, il ne devrait conduire aucun véhicule avant des clarifications supplémentaires.
@@ -3790,7 +3794,7 @@ Annexe 3a[^t-7]
 
 ## Rapport ophtalmologique
 
-[^t-7]: Introduite par le ch. II al. 1 de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
+[^t-7]: Introduite par le ch. II al. 1 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)). Mise à jour par le ch. II de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 30](https://fedlex.data.admin.ch/eli/oc/2025/30)).
 
 (Communication à l’autorité cantonale)
 
@@ -3807,8 +3811,8 @@ Loi fédérale du 19 décembre 1958 sur la circulation routière
 
 A. Les exigences en matière de facultés visuelles définies à l’annexe 1 OAC ont été examinées pour:
 
-- □ le 1<sup>er</sup> groupe (A, A1, B, B1, F, G, M)
-- □ le 2<sup>e</sup> groupe (D, D1, C, C1, autorisation de transporter des personnes à titre professionnel, experts de la circulation)
+- □ le 1<sup>er</sup> groupe (A, A1, B, B1, F, G, M, experts de la circulation chargés des contrôles de véhicules)
+- □ le 2<sup>e</sup> groupe (D, D1, C, C1, autorisation de transporter des personnes à titre professionnel, experts de la circulation chargés des examens de conduite)
 
 B. Constatations
 
@@ -4162,7 +4166,7 @@ Annexe 11[^t-14]
 
 ## Preuve de l’acquisition des connaissances théoriques
 
-[^t-14]: Introduite par le ch. II de l’O du 3 juil. 2002 ([RO 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Mise à jour par le ch. II de l’O du 26 sept. 2003 ([RO 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)) et le ch. II al. 2 de l’O du 15 juin 2007, en vigueur depuis le 1<sup>er</sup> sept. 2009 ([RO 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)).
+[^t-14]: Introduite par le ch. II de l’O du 3 juil. 2002 ([RO 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Mise à jour par le ch. II de l’O du 26 sept. 2003 ([RO 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)), le ch. II al. 2 de l’O du 15 juin 2007 ([RO 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)) et l’annexe ch. 3 de l’O du 13 déc. 2024 sur la conduite automatisée, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)).
 
 ### I Connaissances
 
@@ -4194,6 +4198,16 @@ La preuve de l’acquisition des connaissances énoncées au ch. I est fournie e
   - – engager à temps un rapport supérieur;
   - – arrêter le moteur à toutes les occasions possibles (notamment aux passages à niveau fermés et au feu rouge);
   - – connaître le principe du roulement en poussée (en coupant les gaz).
+
+- 1\.2.4
+
+  les connaissances sur les systèmes d’aide à la conduite et d’automatisation visant à accroître la sécurité routière et la fluidité du trafic, notamment:
+
+  - – la différence entre un système d’aide à la conduite et un système d’automatisation;
+  - – les différents modes de fonctionnement (surtout le mode «aide permanente»);
+  - – les principales fonctions des systèmes d’aide à la conduite et d’automatisation ainsi que leurs limites et leurs risques;
+  - – l’utilisation des systèmes d’aide à la conduite et d’automatisation;
+  - – l’importance de toujours faire preuve d’attention et de promptitude à intervenir ou à reprendre le contrôle du véhicule.
 
 1.3 La route:
 
@@ -4240,7 +4254,7 @@ Annexe 12[^t-15]
 
 ## Examen pratique
 
-[^t-15]: Introduite par le ch. II de l’O du 3 juil. 2002 ([RO 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Mise à jour par le ch. II de l’O du 26 sept. 2003 ([RO 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)), le ch. II al. 2 des O du 28 avr. 2004, ([RO 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)), du 15 juin 2007 ([RO 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)), le ch. II des O du 29 nov. 2013 ([RO 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)), le ch. II al. 3 de l’O du 14 déc. 2018 ([RO 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)), le ch. II al. 1 de l’O du 10 mai 2023 ([RO 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)) et le ch. II al. 2 de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 31](https://fedlex.data.admin.ch/eli/oc/2024/31)).
+[^t-15]: Introduite par le ch. II de l’O du 3 juil. 2002 ([RO 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Mise à jour par le ch. II de l’O du 26 sept. 2003 ([RO 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)), le ch. II al. 2 des O du 28 avr. 2004, ([RO 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)), du 15 juin 2007 ([RO 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)), le ch. II des O du 29 nov. 2013 ([RO 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)), le ch. II al. 3 de l’O du 14 déc. 2018 ([RO 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)), le ch. II al. 1 de l’O du 10 mai 2023 ([RO 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)), le ch. II al. 2 de l’O du 22 déc. 2023 ([RO 2024 31](https://fedlex.data.admin.ch/eli/oc/2024/31)) et l’annexe ch. 3 de l’O du 13 déc. 2024 sur la conduite automatisée, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)).
 
 ### I Conditions d’admission
 
@@ -4357,7 +4371,29 @@ Les candidats doivent effectuer les opérations suivantes, dans des situations d
 - 1\.2 procéder à un contrôle aléatoire du commutateur d’arrêt d’urgence (le cas échéant), de la chaîne et du niveau d’huile;
 - 1\.3 maîtriser les facteurs de risque liés aux différentes conditions de la route, en prêtant notamment attention aux parties glissantes de la chaussée telles que les plaques d’égout, les marquages routiers et les rails de tram.
 
-2 Maîtrise des manœuvres particulières en relation avec la sécurité routière:
+1<sup>bis</sup> Connaissance et utilisation des systèmes d’aide à la conduite (si le véhicule en est doté), compte tenu des impératifs de la sécurité routière et de la fluidité du trafic:
+
+- 1<sup>bis</sup>.1 Les candidats sont en mesure d’utiliser au minimum les systèmes d’aide à la conduite mentionnés ci-après:
+
+<table>
+<tr><th>Mode de fonctionnement</th><th>Système d’aide à la conduite</th><th>Mode</th></tr>
+<tr><td>information et avertissement</td><td>Système de surveillance des angles morts</td><td>toujours activé</td></tr>
+<tr><td>aide permanente</td><td>Suspensions semi-actives Modes de conduite disponibles Régulateur de vitesse (adaptatif ou non)</td><td>l’examinateur peut demander d’activer ou de désactiver le système</td></tr>
+<tr><td>intervention temporaire</td><td>Système antiblocage (ABS) avec ABS de virage intégré et ABS simple</td><td>toujours activé</td></tr>
+<tr><td></td><td>Contrôle de traction</td><td></td></tr>
+</table>
+
+- 1<sup>bis</sup>.2 Les candidats doivent connaître les différents modes de fonctionnement, les limites et les risques desdits systèmes d’aide à la conduite ainsi que leurs conséquences sur la conduite.
+- 1<sup>bis</sup>.3
+
+  Par «connaissance et utilisation», on entend notamment:
+
+  - − l’activation et la désactivation des systèmes d’aide à la conduite ainsi que leurs conséquences sur la conduite;
+  - − la compréhension des limites des systèmes, des risques et des informations (d’avertissement);
+  - − l’identification des situations où les systèmes d’aide à la conduite ne remplissent pas leur fonction et la reprise immédiate de la tâche de conduite concernée;
+  - − le maintien d’une attention permanente et la promptitude à intervenir même lorsque les systèmes d’aide à la conduite sont utilisés conformément à leur destination.
+
+2 Maîtrise de manœuvres spéciales, compte tenu des impératifs de la sécurité routière et, le cas échéant, en utilisant les systèmes d’aide à la conduite:
 
 - 2\.1 relever la béquille du motocycle et le déplacer sans l’aide du moteur, en marchant à côté;
 - 2\.2 garer le motocycle sur sa béquille;
@@ -4381,14 +4417,37 @@ Préparation et contrôle technique du véhicule, compte tenu des impératifs de
 - 1\.3 contrôler les éléments de sécurité liés au chargement du véhicule: carrosserie, revêtement en tôle, portes de chargement, verrouillage de la cabine, mode de chargement, arrimage de la charge (pour la catégorie BE uniquement);
 - 1\.4 contrôler le mécanisme d’attelage et les connexions du système de freinage et du circuit électrique (pour la catégorie BE uniquement);
 
-2 Catégorie B et sous-catégorie B1: les manœuvres spéciales suivantes doivent faire l’objet de contrôles aléatoires en relation avec la sécurité routière (au moins deux manœuvres des ch. 2.1 à 2.4, dont une en marche arrière):
+1<sup>bis</sup> Connaissance et utilisation des systèmes d’aide à la conduite et d’automatisation (si le véhicule en est doté), compte tenu des impératifs de la sécurité routière et de la fluidité du trafic:
+
+- 1<sup>bis</sup>.1 Les candidats sont en mesure d’utiliser le système automatisé de maintien dans la voie (aussi appelé système de pilotage automatique sur autoroute; mode de fonctionnement «aide permanente»; l’examinateur peut demander d’activer ou de désactiver le système) et au minimum les systèmes d’aide à la conduite mentionnés ci-après:
+
+<table>
+<tr><th>Mode de fonctionnement</th><th>Système d’aide à la conduite</th><th>Mode</th></tr>
+<tr><td>information et avertissement</td><td>Avertisseur de somnolence et de perte d’attention du conducteur</td><td>toujours activé</td></tr>
+<tr><td>aide permanente</td><td>Système perfectionné de maintien dans la voie, d’aide au changement de voie, d’évitement de collisions et d’aide au freinage d’urgence, y c. régulateur de vitesse adaptatif Système de maintien dans la voie et régulateur de vitesse adaptatif Régulateur de vitesse adaptatif Système d’adaptation intelligente de la vitesse</td><td>l’examinateur peut demander d’activer ou de désactiver le système</td></tr>
+<tr><td>intervention temporaire</td><td>Système perfectionné d’aide au freinage d’urgence</td><td>toujours activé</td></tr>
+<tr><td></td><td>Système d’évitement de collisions</td><td></td></tr>
+</table>
+
+- 1<sup>bis</sup>.2 Les candidats doivent connaître les différents modes de fonctionnement, les limites et les risques desdits systèmes d’aide à la conduite et d’automatisation ainsi que leurs conséquences sur la conduite.
+- 1<sup>bis</sup>.3
+
+  Par «connaissance et utilisation», on entend notamment:
+
+  - – l’activation et la désactivation des systèmes d’aide à la conduite et d’automatisation ainsi que leurs conséquences sur la conduite;
+  - – la compréhension des limites de ces systèmes, des risques des systèmes et des informations (d’avertissement);
+  - – l’identification des situations où les systèmes d’aide à la conduite ne remplissent pas leur fonction et la reprise immédiate de la tâche de conduite concernée;
+  - – le maintien d’une attention permanente et la promptitude à intervenir même lorsque les systèmes d’aide à la conduite sont utilisés conformément à leur destination;
+  - – l’adoption du bon comportement lorsque les systèmes d’automatisation sont utilisés, en particulier lors des transferts des commandes et des demandes du système d’automatisation.
+
+2 Catégorie B et sous-catégorie B1: les manœuvres spéciales suivantes doivent faire l’objet de contrôles aléatoires (au moins deux manœuvres des ch. 2.1 à 2.4, dont une en marche arrière), compte tenu des impératifs de la sécurité routière et, le cas échéant, en utilisant les systèmes d’aide à la conduite et d’automatisation:
 
 - 2\.1 effectuer une marche arrière en ligne droite et utiliser la voie appropriée pour longer le trottoir en obliquant à droite ou à gauche;
 - 2\.2 faire demi-tour en marche avant et en marche arrière;
 - 2\.3 garer le véhicule et quitter un stationnement (parallèle, en épi et perpendiculaire au bord de la chaussée, en utilisant la marche avant et la marche arrière, tant en palier qu’en côte et dans une déclivité);
 - 2\.4 arrêter le véhicule avec précision, étant entendu que l’utilisation de la force de freinage maximale du véhicule reste facultative.
 
-3 Catégorie BE: manœuvres spéciales à examiner en relation avec la sécurité routière:
+3 Catégorie BE: manœuvres spéciales à contrôler, compte tenu des impératifs de la sécurité routière et, le cas échéant, en utilisant les systèmes d’aide à la conduite et d’automatisation:
 
 - 3\.1 atteler la remorque au véhicule tracteur et la dételer; au début de cette manœuvre, le véhicule et la remorque doivent se trouver côte à côte (c.-à-d. pas en alignement);
 - 3\.2 effectuer une marche arrière en décrivant une courbe;
@@ -4414,19 +4473,17 @@ Préparation et contrôle technique du véhicule, compte tenu des impératifs de
 
 ### F. Catégorie spéciale F
 
--
+L’examen doit tenir compte des particularités de cette catégorie spéciale, notamment de la vitesse maximale réduite:
 
-  L’examen doit tenir compte des particularités de cette catégorie spéciale, notamment de la vitesse maximale réduite:
-
-  - – préparer le véhicule en vue de son utilisation (éclairage, rétroviseurs, dispositifs de protection, etc.);
-  - – contrôle général: permis de circulation, éclairage, catadioptres, clignoteurs de direction, pneumatiques et jantes, chargement (genre, centre de gravité, arrimage et équipement complémentaire, p. ex. grue), ridelle latérale, bâche (glace, neige)/coup d’œil sous le véhicule/éliminer l’eau de condensation accumulée dans les réservoirs d’air comprimé;
-  - – contrôle de fonctionnement: réglage des rétroviseurs, clignoteurs de direction, dispositif d’alarme, instruments de bord, dispositif de contrôle du système de freinage (pression de réserve, lampe-témoin du système de freinage à double circuit, fuite d’air), assistance au démarrage, tachygraphe;
-  - – veiller particulièrement à respecter les poids et dimensions du véhicule servant aux examens ainsi que les vitesses maximales, éviter d’entraver la circulation et la formation de files;
-  - – veiller à la bonne visibilité;
-  - – immobiliser le véhicule à la montée et à la descente (mesures à prendre si le véhicule ne peut pas être assuré en engageant une vitesse);
-  - – veiller spécialement aux particularités du véhicule en s’engageant dans la circulation, pour utiliser les intervalles entre les véhicules et pour traverser la chaussée (accélération et vitesse maximale limitées);
-  - – circuler judicieusement à droite;
-  - – connaître le comportement du véhicule au freinage.
+- – préparer le véhicule en vue de son utilisation (éclairage, rétroviseurs, dispositifs de protection, etc.);
+- – contrôle général: permis de circulation, éclairage, catadioptres, clignoteurs de direction, pneumatiques et jantes, chargement (genre, centre de gravité, arrimage et équipement complémentaire, p. ex. grue), ridelle latérale, bâche (glace, neige)/coup d’œil sous le véhicule/éliminer l’eau de condensation accumulée dans les réservoirs d’air comprimé;
+- – contrôle de fonctionnement: réglage des rétroviseurs, clignoteurs de direction, dispositif d’alarme, instruments de bord, dispositif de contrôle du système de freinage (pression de réserve, lampe-témoin du système de freinage à double circuit, fuite d’air), assistance au démarrage, tachygraphe;
+- – veiller particulièrement à respecter les poids et dimensions du véhicule servant aux examens ainsi que les vitesses maximales, éviter d’entraver la circulation et la formation de files;
+- – veiller à la bonne visibilité;
+- – immobiliser le véhicule à la montée et à la descente (mesures à prendre si le véhicule ne peut pas être assuré en engageant une vitesse);
+- – veiller spécialement aux particularités du véhicule en s’engageant dans la circulation, pour utiliser les intervalles entre les véhicules et pour traverser la chaussée (accélération et vitesse maximale limitées);
+- – circuler judicieusement à droite;
+- – connaître le comportement du véhicule au freinage.
 
 ### G. Transport professionnel de personnes au moyen de véhicules légers affectés au transport de personnes
 
@@ -4483,3 +4540,4 @@ La partie de l’examen destinée à évaluer la maîtrise technique du véhicul
 - 3\.8 feux de circulation, signaux, marquage et autres éléments: comportement correct aux feux de circulation; respect des indications des agents réglant la circulation; comportement correct en présence de panneaux de signalisation et de marques routières;
 - 3\.9 signalisation: donner en temps utile les signaux nécessaires et corrects; indiquer correctement les changements de direction; réagir de manière appropriée à tous les signaux donnés par les autres usagers de la route;
 - 3\.10 freinage: ralentir à temps, freiner en fonction des circonstances; anticipation; utilisation des divers systèmes de freinage (pour les catégories C, D, CE et DE uniquement); utiliser les autres systèmes de réduction de la vitesse (pour les catégories C, D, CE et DE uniquement).
+- 3\.11 systèmes d’aide à la conduite et d’automatisation: utilisation conforme à la destination, en tenant compte des limites du système et des risques; utilisation adaptée à la situation; comportement correct lorsque le système est activé.
