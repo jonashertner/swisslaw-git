@@ -3,18 +3,18 @@ sr: "748.215.2"
 title: "Ordonnance de l'OFAC du 15 avril 1970 concernant l'examen des aéronefs"
 eli: "https://fedlex.data.admin.ch/eli/cc/1970/587_587_587"
 language: fr
-version: 2008-08-01
+version: 2025-07-01
 adopted: 1970-04-15
 in_force: 1970-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/587_587_587/20080801/fr/xml/fedlex-data-admin-ch-eli-cc-1970-587_587_587-20080801-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1970/587_587_587/20080801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/587_587_587/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-1970-587_587_587-20250701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1970/587_587_587/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance de l’OFAC concernant l’examen des aéronefs****
+# Ordonnance de l’OFAC concernant l’examen des aéronefs
 
-du 15 avril 1970 (Etat le 1<sup>er</sup> août 2008)[^t-1]
+du 15 avril 1970 (État le 1<sup>er</sup> juillet 2025)[^t-1]
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OFAC du 21 juillet 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3647](https://fedlex.data.admin.ch/eli/oc/2008/474)).
 
@@ -27,7 +27,7 @@ arrête:
 [^ingress-1]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O de l’OFAC du 21 juillet 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3647](https://fedlex.data.admin.ch/eli/oc/2008/474)).
 
-## Section 1**** Champ d’application et droit applicable
+## Section 1 Champ d’application et droit applicable
 
 [^sec1-1]
 
@@ -35,15 +35,21 @@ arrête:
 
 #### Art. 1
 
-La présente ordonnance s’applique à moins que la version contraignante pour la Suisse de l’un des règlements CE suivants ne soit applicable conformément au ch. 3 de l’annexe de l’accord entre la Confédération suisse et la Communauté européenne sur le transport aérien conclu le 21 juin 1999[^1-1]:
+[^1-1]
 
-- a. règlement (CE) n<sup>o</sup> 1592/2002;
-- b. règlement (CE) n<sup>o</sup> 2042/2003;
-- c. règlement (CE) n<sup>o</sup> 1702/2003.
+La présente ordonnance s’applique à moins que la version contraignante pour la Suisse de l’un des règlements UE suivants ne soit applicable conformément au ch. 3 de l’annexe de l’Accord entre la Confédération suisse et la Communauté européenne sur le transport aérien[^1-2] conclu le 21 juin 1999:
 
-[^1-1]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258). La version contraignante pour la Suisse est mentionnée dans l’annexe de cet accord et peut être consultée ou obtenue auprès de l’OFAC. Adresse: Office fédéral de l’aviation civile, 3003 Berne (www.bazl.admin.ch).
+- a. règlement (UE) n<sup>o</sup> 2018/1139[^1-3];
+- b. règlement (UE) n<sup>o</sup> 1321/2014[^1-4];
+- c. règlement (UE) n<sup>o</sup> 748/2012[^1-5].
 
-## Section 2**** Etendue de l’examen
+[^1-1]: Nouvelle teneur selon le ch. I de l’O de l’OFAC du 16 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 368](https://fedlex.data.admin.ch/eli/oc/2025/368)).
+[^1-2]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258). La version qui lie la Suisse est mentionnée dans l’annexe de cet accord et peut être consultée ou obtenue auprès de l’OFAC. Adresse: Office fédéral de l’aviation civile, 3003 Berne ([www.bazl.admin.ch](http://www.bazl.admin.ch)).
+[^1-3]: Règlement (UE) 2018/1139 du Parlement européen et du Conseil du 4 juillet 2018 concernant des règles communes dans le domaine de l’aviation civile et instituant une Agence de l’Union européenne pour la sécurité aérienne, et modifiant les règlements (CE) n<sup>o</sup> 2111/2005, (CE) n<sup>o</sup> 1008/2008, (UE) n<sup>o</sup> 996/2010, (UE) n<sup>o</sup> 376/2014 et les directives 2014/30/UE et 2014/53/UE du Parlement européen et du Conseil, et abrogeant les règlements (CE) n<sup>o</sup> 552/2004 et (CE) n<sup>o</sup> 216/2008 du Parlement européen et du Conseil ainsi que le règlement (CEE) n<sup>o</sup> 3922/91 du Conseil, JO L 212 du 22.8.2018, p. 1.
+[^1-4]: Règlement (UE) n<sup>o</sup> 1321/2014 de la Commission du 26 novembre 2014 relatif au maintien de la navigabilité des aéronefs et des produits, pièces et équipements aéronautiques, et relatif à l’agrément des organismes et des personnels participant à ces tâches (refonte), JO L 362 du 17.12.2024, p. 1.
+[^1-5]: Règlement (UE) n<sup>o</sup> 748/2012 de la Commission du 3 août 2012 établissant des règles d’application pour la certification de navigabilité et environnementale des aéronefs et produits, pièces et équipements associés, ainsi que pour la certification des organismes de conception et de production (refonte), JO L 224 du 21.8.2012, p. 1.
+
+## Section 2 Étendue de l’examen
 
 [^sec2-1]
 
@@ -63,7 +69,7 @@ Les examens comprennent:
 [^1a-1]: [RS 748.215.1](https://fedlex.data.admin.ch/eli/cc/1995/4897_4897_4897)
 [^1a-2]: [RS 748.215.3](https://fedlex.data.admin.ch/eli/cc/2009/431)
 
-## Section 3 Genres d’examen****
+## Section 3 Genres d’examen
 
 [^sec3-1]
 
@@ -71,32 +77,55 @@ Les examens comprennent:
 
 #### Art. 2
 
+**Exécution de premiers examens ou d’examens complémentaires**[^2-1]
+
 <sup>1</sup>
 
-Les examens ont lieu sous forme de premiers examens ou d’examens complémentaires:
+Les examens suivants ont lieu sous forme de premiers examens:
 
-- a.
+- a. l’examen de type en vue de l’octroi du certificat de type;
+- b. l’examen partiel de type, après modification d’un type certifié;
+- c. l’examen de série en vue de l’octroi du certificat de navigabilité, du certificat de navigabilité restreint ou de l’autorisation de vol.
 
-  les premiers examens comprennent:
+<sup>2</sup>
 
-  - – l’examen de type en vue de l’octroi du certificat de type,
-  - – l’examen partiel de type, après modification d’un type admis,
-  - –[^2-1] l’examen de série (examen de reproduction, examen partiel de reproduction, examen d’entrée) en vue de l’octroi du certificat de navigabilité, du certificat de navigabilité restreint ou de l’autorisation de vol;
+Les examens suivants ont lieu sous forme d’examens complémentaires:
 
-- b.
+- a. les examens complémentaires périodiques destinés à contrôler l’état de l’aéronef;
+- b. les examens intermédiaires destinés à contrôler l’état de l’aéronef;
+- c. les examens à l’exportation destinés à contrôler l’état de l’aéronef.
 
-  les examens complémentaires comprennent:
+[^2-1]: Nouvelle teneur selon le ch. I de l’O de l’OFAC du 16 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 368](https://fedlex.data.admin.ch/eli/oc/2025/368)).
 
-  - – les examens de l’état destinés à contrôler l’état de l’aéronef à des intervalles périodiques fixés par l’OFAC[^2-2],
-  - – les examens intermédiaires destinés à contrôler l’état de l’aéronef qui sont ordonnés par l’OFAC entre les examens de l’état ou lors de travaux d’entretien destinés à réparer de graves dommages ou des défauts techniques.
-  - – les examens à l’exportation en vue de contrôler l’état de l’aéronef avant l’exportation.
+#### Art. 2a
 
-<sup>2</sup> A titre exceptionnel, l’OFAC peut renoncer totalement ou partiellement aux examens complémentaires s’il ne met pas en doute la navigabilité et si l’aéronef est entretenu par un organisme d’entretien approuvé et surveillé en permanence par cet office.
+**Examens complémentaires périodiques destinés à contrôler l’état de l’aéronef**[^2a-1]
 
-[^2-1]: Nouvelle teneur selon le ch. I de l’O de l’OFAC du 21 juillet 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3647](https://fedlex.data.admin.ch/eli/oc/2008/474)).
-[^2-2]: Nouvelle expression selon le ch. I de l’O de l’OFAC du 21 juillet 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3647](https://fedlex.data.admin.ch/eli/oc/2008/474)). Il a été tenu compte de cette modification dans tout le présent texte.
+Les examens complémentaires périodiques doivent avoir lieu à intervalles réguliers allant de 12 à 36 mois. L’OFAC arrête les intervalles périodiques au cas par cas en prenant notamment en considération:
 
-## Section 4 Procédure d’examen****
+- a. le danger potentiel que représente l’aéronef;
+- b. le type d’exploitation de l’aéronef;
+- c. les données empiriques et l’historique des événements.
+
+[^2a-1]: Introduit par le ch. I de l’O de l’OFAC du 16 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 368](https://fedlex.data.admin.ch/eli/oc/2025/368)).
+
+#### Art. 2b
+
+**Examens intermédiaires destinés à contrôler l’état de l’aéronef**[^2b-1]
+
+<sup>1</sup>
+
+L’OFAC peut ordonner des examens intermédiaires destinés à contrôler l’état de l’aéronef entre les examens complémentaires périodiques:
+
+- a. à la suite de travaux d’entretien destinés à réparer de graves dommages ou des défauts techniques;
+- b. à la suite d’incidents;
+- c. en cas de suspicion de défauts techniques.
+
+<sup>2</sup> Un examen intermédiaire sous forme d’inspection au sol peut être ordonné à tout moment.
+
+[^2b-1]: Introduit par le ch. I de l’O de l’OFAC du 16 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 368](https://fedlex.data.admin.ch/eli/oc/2025/368)).
+
+## Section 4 Procédure d’examen
 
 [^sec4-1]
 
@@ -104,30 +133,28 @@ Les examens ont lieu sous forme de premiers examens ou d’examens complémentai
 
 #### Art. 3
 
-**Demande**
+**Demande**[^3-1]
 
-<sup>1</sup> Les demandes d’organisation des premiers examens ainsi que des examens complémentaires avant l’exportation doivent être présentées à l’OFAC. Les autres examens complémentaires sont ordonnés par l’OFAC.[^3-1]
+<sup>1</sup> Les premiers examens, les examens complémentaires périodiques et les examens à l’exportation sont exécutés sur demande.
 
-<sup>1bis</sup> Dans le cas des examens préalables à la délivrance d’un certificat de navigabilité, d’un certificat de navigabilité restreint ou d’une autorisation de vol, le requérant indique le type d’exploitation prévu pour l’aéronef.[^3-2]
+<sup>2</sup> Des examens intermédiaires peuvent être à tout moment ordonnés et exécutés par l’OFAC en l’absence de toute demande.
 
-<sup>2</sup> Le propriétaire et l’exploitant inscrit peuvent désigner un représentant pour la collaboration prévue aux art. 4 à 8.
-
-[^3-1]: Nouvelle teneur selon le ch. I de l’O de l’OFAC du 21 juillet 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3647](https://fedlex.data.admin.ch/eli/oc/2008/474)).
-[^3-2]: Introduit par le ch. I de l’O de l’OFAC du 21 juillet 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3647](https://fedlex.data.admin.ch/eli/oc/2008/474)).
+[^3-1]: Nouvelle teneur selon le ch. I de l’O de l’OFAC du 16 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 368](https://fedlex.data.admin.ch/eli/oc/2025/368)).
 
 #### Art. 4
 
 **Lieu, date et programme de l’examen**
 
-<sup>1</sup> L’OFAC fixe le lieu et la date de l’examen, en prenant si possible en considération les désirs motivés du propriétaire ou de l’exploitant inscrit.
+<sup>1</sup> L’OFAC[^4-1] fixe le lieu et la date de l’examen, en prenant si possible en considération les désirs motivés du propriétaire ou de l’exploitant inscrit.
 
 <sup>2</sup> L’OFAC arrête le programme d’examen.
 
-<sup>3</sup> En règle générale, l’examen commence au plus tôt deux semaines après réception du dossier de demande complet et après inscription de l’aéronef dans le registre matricule suisse des aéronefs. L’OFAC peut, sur demande écrite, prévoir des dérogations à cette disposition.[^4-1]
+<sup>3</sup> L’examen n’est exécuté que lorsque les documents exigés ont été remis et que l’aéronef a été enregistré dans le registre matricule suisse des aéronefs.[^4-2]
 
 <sup>4</sup> Un examen n’a lieu à l’étranger que pour des motifs spéciaux.
 
-[^4-1]: Nouvelle teneur selon le ch. I de l’O de l’OFAC du 21 juillet 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3647](https://fedlex.data.admin.ch/eli/oc/2008/474)).
+[^4-1]: Nouvelle expression selon le ch. I de l’O de l’OFAC du 21 juillet 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3647](https://fedlex.data.admin.ch/eli/oc/2008/474)). Il a été tenu compte de cette modification dans tout le présent texte.
+[^4-2]: Nouvelle teneur selon le ch. I de l’O de l’OFAC du 16 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 368](https://fedlex.data.admin.ch/eli/oc/2025/368)).
 
 #### Art. 5
 
@@ -167,15 +194,15 @@ L’examen est refusé ou suspendu lorsqu’il ne peut pas se dérouler normalem
 
 **Rapport d’examen**[^9-1]
 
-<sup>1</sup> Un rapport d’examen et une attestation d’examen sont établis à l’issue de l’examen.
+<sup>1</sup> Un rapport d’examen et une attestation d’examen sont établis à l’issue de l’examen. Ils peuvent être établis soit sous forme imprimée, soit sous forme électronique.
 
-<sup>2</sup> Le rapport d’examen indique les éventuelles constatations et les délais impartis pour exécuter les travaux nécessaires. Si l’examen doit être répété, il en est fait expressément mention dans le rapport d’examen.
+<sup>2</sup> Le rapport d’examen mentionne le cas échéant les constatations et les délais impartis pour les corriger. Si l’examen doit être répété, il en est fait expressément mention dans le rapport d’examen.
 
 <sup>3</sup> Le rapport d’examen fait partie du dossier technique de l’aéronef et est conservé par le propriétaire ou l’exploitant inscrit.
 
 <sup>4</sup> L’attestation d’examen est conservée à bord de l’aéronef.
 
-[^9-1]: Nouvelle teneur selon le ch. I de l’O de l’OFAC du 21 juillet 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3647](https://fedlex.data.admin.ch/eli/oc/2008/474)).
+[^9-1]: Nouvelle teneur selon le ch. I de l’O de l’OFAC du 16 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 368](https://fedlex.data.admin.ch/eli/oc/2025/368)).
 
 #### Art. 10
 
