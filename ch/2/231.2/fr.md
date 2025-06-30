@@ -4,11 +4,11 @@ title: "Loi fédérale du 9 octobre 1992 sur la protection des topographies de p
 short: LTo
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1828_1828_1828"
 language: fr
-version: 2023-07-01
+version: 2025-07-01
 adopted: 1992-10-09
 in_force: 1993-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1828_1828_1828/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1993-1828_1828_1828-20230701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1828_1828_1828/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1828_1828_1828/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-1993-1828_1828_1828-20250701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1828_1828_1828/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/1828_1828_1828/20230701/fr"
 
 (Loi sur les topographies, LTo)
 
-du 9 octobre 1992 (État le 1<sup>er</sup> juillet 2023)
+du 9 octobre 1992 (État le 1<sup>er</sup> juillet 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -151,11 +151,11 @@ Sur plainte du lésé, est puni d’une peine privative de liberté d’un an au
 
 #### Art. 12
 
-**Intervention de l’Office fédéral de la douane et de la sécurité des frontières**[^12-1]
+**Interventions lors de l’introduction de produits sur le territoire douanier ou de leur acheminement hors de celui‑ci**[^12-1]
 
-L’intervention de l’Office fédéral de la douane et de la sécurité des frontières est régie par les art. 75 à 77*h* de la loi du 9 octobre 1992 sur le droit d’auteur[^12-2].
+Les art. 75 à 77*h*<sup>bis</sup> de la loi du 9 octobre 1992 sur le droit d’auteur[^12-2] s’appliquent aux interventions lors de l’introduction de produits sur le territoire douanier ou de leur acheminement hors de celui-ci.
 
-[^12-1]: Nouvelle teneur selon le ch. I 2 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^12-1]: Nouvelle teneur selon le ch. I 3 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 [^12-2]: [RS 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
 
 ## Chapitre 2 Registre des topographies

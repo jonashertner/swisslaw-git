@@ -4,11 +4,11 @@ title: "Legge federale del 9 ottobre 1992 sulla protezione delle topografie di p
 short: LTo
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1828_1828_1828"
 language: it
-version: 2023-07-01
+version: 2025-07-01
 adopted: 1992-10-09
 in_force: 1993-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1828_1828_1828/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1993-1828_1828_1828-20230701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1828_1828_1828/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1828_1828_1828/20250701/it/xml/fedlex-data-admin-ch-eli-cc-1993-1828_1828_1828-20250701-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1828_1828_1828/20250701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/1828_1828_1828/20230701/it"
 
 (Legge sulle topografie, LTo)
 
-del 9 ottobre 1992 (Stato 1° luglio 2023)
+del 9 ottobre 1992 (Stato 1° luglio 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -148,16 +148,16 @@ A querela della parte lesa è punito con una pena detentiva fino a un anno o con
 
 [^11-1]: Nuovo testo giusta l’all. n. 2 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^11-2]: Nuovo testo giusta l’all. n. 2 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^11-3]: Per. abrogato dal n. I 5 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^11-3]: Per. abrogato dalla cifra I n. 5 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^11-4]: Nuovo testo giusta l’all. n. 2 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 12
 
-**Intervento dell’Ufficio federale della dogana e della sicurezza dei confini**[^12-1]
+**Intervento in caso di introduzione di merce nel territorio doganale o di asportazione di merce dal territorio doganale**[^12-1]
 
-L’intervento dell’Ufficio federale della dogana e della sicurezza dei confini è retto dagli articoli 75–77*h* della legge del 9 ottobre 1992[^12-2] sul diritto d’autore.
+L’intervento in caso di introduzione di merce nel territorio doganale o di asportazione di merce dal territorio doganale è retto dagli articoli 75–77*h*<sup>bis</sup> della legge del 9 ottobre 1992[^12-2] sul diritto d’autore.
 
-[^12-1]: Nuovo testo giusta il n. I 2 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore il 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^12-1]: Nuovo testo giusta la cifra I n. 3 della LF del 22 dic. 2023 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in vigore dal 1° lug. 2025 ([RU 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 [^12-2]: [RS 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
 
 ## Capitolo 2: Registro delle topografie

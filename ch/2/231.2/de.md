@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 9. Oktober 1992 über den Schutz von Topographien von H
 short: ToG
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1828_1828_1828"
 language: de
-version: 2023-07-01
+version: 2025-07-01
 adopted: 1992-10-09
 in_force: 1993-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1828_1828_1828/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1993-1828_1828_1828-20230701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1828_1828_1828/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1828_1828_1828/20250701/de/xml/fedlex-data-admin-ch-eli-cc-1993-1828_1828_1828-20250701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1828_1828_1828/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/1828_1828_1828/20230701/de"
 
 (Topographiengesetz, ToG)
 
-vom 9. Oktober 1992 (Stand am 1. Juli 2023)
+vom 9. Oktober 1992 (Stand am 1. Juli 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -153,11 +153,11 @@ Auf Antrag der in ihren Rechten verletzten Person wird mit Freiheitsstrafe bis z
 
 #### Art. 12
 
-**Hilfeleistung durch das Bundesamt für Zoll und Grenzsicherheit**[^12-1]
+**Hilfeleistung beim Verbringen von Waren ins Zollgebiet oder aus dem Zollgebiet**[^12-1]
 
-Die Hilfeleistung durch das Bundesamt für Zoll und Grenzsicherheit richtet sich nach den Artikeln 75–77*h* des Urheberrechtsgesetzes vom 9. Oktober 1992[^12-2].
+Die Hilfeleistung beim Verbringen einer Ware ins Zollgebiet oder aus dem Zollgebiet richtet sich nach den Artikeln 75–77*h*<sup>bis</sup> des Urheberrechtsgesetzes vom 9. Oktober 1992[^12-2].
 
-[^12-1]: Fassung gemäss Ziff. I 2 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^12-1]: Fassung gemäss Ziff. I 3 des BG vom 22. Dez. 2023 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 [^12-2]: [SR 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
 
 ## 2. Kapitel: Das Register
