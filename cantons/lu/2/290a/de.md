@@ -3,20 +3,20 @@ canton: LU
 number: 290a
 title: Vollzugsverordnung zum Einführungsgesetz zum Bundesgesetz über Schuldbetreibung und Konkurs
 language: de
-version: 2013-06-01
-valid_until: 2025-06-30
-version_adopted: 2013-03-26
+version: 2025-07-01
+valid_until: 2026-01-31
+version_adopted: 2025-02-04
 adopted: 2010-12-17
 in_force: 2011-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/290a"
-pdf: "https://srl.lu.ch/api/de/versions/2452/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4492/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vollzugsverordnung zum Einführungsgesetz zum Bundesgesetz über Schuldbetreibung und Konkurs
 
-vom 17.12.2010 (Stand 01.06.2013)
+vom 17.12.2010 (Stand 01.07.2025)
 
 Das Obergericht des Kantons Luzern,
 
@@ -82,7 +82,7 @@ beschliesst:
 <sup>1</sup> Der gemäss § 10 Absatz 3 des Einführungsgesetzes zum Bundesgesetz über Schuldbetreibung und Konkurs abzuschliessende Versicherungsvertrag hat folgenden Anforderungen zu genügen:
 
 - a. Zu deckendes Risiko ist die Haftung, für welche die Betreibungs- und Konkursbeamtinnen und -beamten und deren Stellvertreterinnen und Stellvertreter sowie die ausseramtlichen Konkursverwalterinnen und -verwalter, die Sachwalterinnen und Sachwalter und die Liquidatorinnen und Liquidatoren aus der Ausübung ihrer Tätigkeit subsidiär (vgl. § 10 Abs. 2 Einführungsgesetz zum Bundesgesetz über Schuldbetreibung und Konkurs) aufzukommen haben. Der Versicherungsschutz hat sich insbesondere auch auf Schadenfälle zu beziehen, die während der Versicherungsdauer verursacht, aber erst nach deren Ablauf bekannt und angemeldet werden (Nachhaftung).
-- b. Die Versicherungssumme muss mindestens eine Million Franken betragen.
+- b. Die Versicherungssumme muss mindestens fünf Millionen Franken betragen.
 - c. Der Selbstbehalt darf 10 000 Franken nicht übersteigen.
 - d. Die «Besonderen Bedingungen» müssen folgenden Text enthalten: «Der Versicherungsnehmer ermächtigt den Versicherer, das Aussetzen oder Aufhören der Versicherung dem Kantonsgericht des Kantons Luzern mitzuteilen.»
 
