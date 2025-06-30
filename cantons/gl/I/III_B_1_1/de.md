@@ -4,13 +4,12 @@ number: III B/1/1
 title: Gesetz über die Einführung des Schweizerischen Zivilgesetzbuches im Kanton Glarus
 short: Einführungsgesetz zum Zivilgesetzbuch; EG ZGB
 language: de
-version: 2023-01-01
-valid_until: 2025-06-30
-version_adopted: 2021-09-05
+version: 2025-07-01
+version_adopted: 2025-05-04
 adopted: 1911-05-07
 in_force: 1912-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/III-B.1.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2447/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2566/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2447/pdf_file"
 
 (Einführungsgesetz zum Zivilgesetzbuch; EG ZGB)
 
-Vom 07.05.1911 (Stand 01.01.2023)
+Vom 07.05.1911 (Stand 01.07.2025)
 
 (Erlassen von der Landsgemeinde am 7. Mai 1911)
 
@@ -57,9 +56,7 @@ Vom 07.05.1911 (Stand 01.01.2023)
 
 <sup>2a</sup> Sie nimmt Vorsorgeaufträge (Art. 360 ff. ZGB) zur Aufbewahrung entgegen.
 
-<sup>3</sup> …
-
-<sup>4</sup> Sie nimmt die erbrechtlichen Aufgaben wahr, welche das Bundesrecht der zuständigen Behörde zuweist.
+<sup>3–4</sup> …
 
 #### Art. 9b
 
@@ -169,7 +166,7 @@ Vom 07.05.1911 (Stand 01.01.2023)
 
 <sup>3</sup> In Fällen von Artikel 12 Ziffer 4 besteht keine Beschwerdemöglichkeit.
 
-<sup>4</sup> Der Rechtsschutz gegen Verfügungen der Kindes- und Erwachsenenschutzbehörde im Kindes- und Erwachsenenschutzrecht wie auch das Erbrecht richtet sich nach Artikel 67.
+<sup>4</sup> Der Rechtsschutz gegen Entscheide der Kindes- und Erwachsenenschutzbehörde richtet sich nach Artikel 67.
 
 <sup>4a–5</sup> …
 
@@ -252,7 +249,7 @@ Vom 07.05.1911 (Stand 01.01.2023)
 
 #### Art. 32a
 
-<sup>1</sup> Der Rechtsschutz gegenüber Amtshandlungen der Zivilstandsamtes bzw. der Zivilstandsbeamten richtet sich nach der eidgenössischen Zivilstandsverordnung. Erste Beschwerdeinstanz ist das zuständige Departement (Aufsichtsbehörde), zweite Instanz das Verwaltungsgericht.
+<sup>1</sup> Der Rechtsschutz gegenüber Amtshandlungen des Zivilstandsamtes bzw. der Zivilstandsbeamten richtet sich nach der eidgenössischen Zivilstandsverordnung. Erste Beschwerdeinstanz ist das zuständige Departement (Aufsichtsbehörde), zweite Instanz das Verwaltungsgericht.
 
 <sup>2</sup> …
 
@@ -275,7 +272,7 @@ Vom 07.05.1911 (Stand 01.01.2023)
 <sup>1</sup> Das zuständige Departement kann die bei ihm nachgesuchte Genehmigung der Statuten nur insofern verweigern,
 
 - a. als die Korporation einen unerlaubten, unsittlichen oder die öffentliche Wohlfahrt gefährdenden Zweck verfolgt;
-- b. die Statuten Bestimmungen enthalten, welche der Bundes- oder Kantonsverfassung, bestehenden Gesetzen oder allgemein anerkannten Rechtsgrundsätzen zuwider laufen.
+- b. die Statuten Bestimmungen enthalten, welche der Bundes- oder Kantonsverfassung, bestehenden Gesetzen oder allgemein anerkannten Rechtsgrundsätzen zuwiderlaufen.
 
 #### Art. 36
 
@@ -327,9 +324,9 @@ Vom 07.05.1911 (Stand 01.01.2023)
 
 #### Art. 44
 
-<sup>1</sup> Die Anzeige in Fällen der Gefährdung des Kindeswohles im Sinne der Artikel 307 ff. und 324 ff. ZGB kann bei der Kindes- und Erwachsenenschutzbehörde oder bei den Vollzugsorganen der Sozialhilfe erfolgen.
+<sup>1</sup> …
 
-<sup>2</sup> Anzeigepflichtig sind alle öffentlichen Angestellten, namentlich Polizeibeamte, die in Ausübung ihres Amtes von einem solchen Falle Kenntnis erhalten, sowie unter den gleichen Voraussetzungen Sozial- und Schulbehörden, Geistliche und Lehrpersonen, Gerichtsbehörden und Ärzte. Die Berechtigung zur Anzeige steht jedermann zu.
+<sup>2</sup> Die Berechtigung zur Anzeige von Kindeswohlgefährdungen bei der Kindesschutzbehörde steht jedermann zu. Anzeigepflichtig sind alle öffentlichen Angestellten, namentlich Polizeibeamte, die in Ausübung ihres Amtes von einem solchen Falle Kenntnis erhalten, sowie unter den gleichen Voraussetzungen Sozial- und Schulbehörden, Geistliche und Lehrpersonen, Gerichtsbehörden und Ärzte.
 
 #### Art. 45–53c
 
@@ -417,7 +414,7 @@ Vom 07.05.1911 (Stand 01.01.2023)
 
 - 1\. Gewährung der Vollstreckungshilfe, soweit das kantonale Recht hierfür nicht eine andere Behörde für zuständig erklärt (Art. 131 und 290 ZGB);
 - 2\. Antragstellung auf Neuregelung der elterlichen Sorge beim Scheidungs- oder Trennungsgericht sowie beim Eheschutzgericht (Art. 134 Abs. 1 ZGB);
-- 3\. Bei Einigkeit der Eltern die Neuregelung der elterlichen Sorge, der Obhut sowie die Genehmigung von Unterhaltsverträgen (Art. 134 Abs. 3 ZGB);
+- 3\. Bei Einigkeit der Eltern die Neuregelung der elterlichen Sorge, der Obhut, des persönlichen Verkehrs, der Betreuungsanteile, die Regelung der Erziehungsgutschriften sowie die Genehmigung von Unterhaltsverträgen (Art. 134 Abs. 3, 287, 298a, 298b und 298d ZGB sowie Art. 52f<sup>bis</sup> Abs. 3 AHVV[^65-1]);
 - 4\. Antragstellung zur Anordnung einer Kindesvertretung im Scheidungs- oder Trennungsprozess (Art. 299 Abs. 2 Bst. b ZPO);
 - 5\. Entgegennahme der Zustimmungserklärung von Vater und Mutter zur Adoption (Art. 265a Abs. 2 ZGB);
 - 6\. Beratung der Eltern vor Abgabe der Erklärung zur gemeinsamen elterlichen Sorge sowie Entgegennahme derselben (Art. 298a Abs. 1 und 3 ZGB);
@@ -442,14 +439,22 @@ Vom 07.05.1911 (Stand 01.01.2023)
 - 16\. …
 - 16a. Verfahren betreffend Übernahme und Übertragung einer bestehenden Massnahme (Art. 442 und 444 ZGB);
 - 16b. Anordnung einer Vertretung (Art. 449a ZGB);
+- 16c. Verfahrensleitende Verfügungen im Rahmen der Sachverhaltsabklärungen (Art. 446 ZGB);
 - 17\. Gewährung des Akteneinsichtsrechts und entsprechende Einschränkung (Art. 449b ZGB);
+- 17a. Vollstreckung von Entscheiden samt Hinweis auf Strafandrohung (Art. 450g ZGB und Art. 292 StGB[^65-2]);
+- 17b. Auskunftserteilung über das Vorliegen und die Wirkungen einer Massnahme des Erwachsenenschutzes (Art. 451 Abs. 2 ZGB);
 - 18\. …
 - 18a. Anordnung einer Vertretungsbeistandschaft für das ungeborene Kind zur Wahrung erbrechtlicher Ansprüche (Art. 544 Abs. 1<sup>bis</sup> ZGB);
 - 19\. Antrag auf Anordnung eines Erbschaftsinventars (Art. 553 Abs. 1 Ziff. 3 ZGB);
-- 20\. …
-- 21\. erbrechtliche Aufgaben gemäss Artikel 9a Absatz 4.
+- 20\.–21. …
+- 22\. Stellung eines Strafantrages (Art. 30 Abs. 2 StGB);
+- 23\. Entscheide in Vermögensangelegenheiten gemäss der Verordnung über die Vermögensverwaltung im Rahmen einer Beistandschaft oder Vormundschaft[^65-3].
 
 <sup>6</sup> Im Übrigen kann das zuständige Mitglied im Einzelfall eine Entscheidung in Dreierbesetzung verlangen.
+
+[^65-1]: SR 831.101
+[^65-2]: SR 311.0
+[^65-3]: SR 211.223.11
 
 #### Art. 66
 
@@ -461,7 +466,7 @@ Vom 07.05.1911 (Stand 01.01.2023)
 
 #### Art. 66a
 
-<sup>1</sup> Die im Kanton über eine Bewilligung zur selbstständigen Berufsausübung verfügenden Ärztinnen und Ärzte der Grundversorgung oder der Psychiatrie sowie die zuständige Ärztin oder der zuständige Arzt der überweisenden Einrichtung können eine fürsorgerische Unterbringung anordnen, jedoch höchstens für sechs Wochen.
+<sup>1</sup> Die im Kanton in eigener fachlicher Verantwortung tätigen Ärztinnen und Ärzte der Grundversorgung sowie die zuständige Ärztin oder der zuständige Arzt der überweisenden Einrichtung können eine fürsorgerische Unterbringung anordnen, jedoch höchstens für sechs Wochen. Der Regierungsrat kann zusätzlich eine Amtsärztin oder einen Amtsarzt mit diesen Befugnissen und Aufgaben einsetzen.
 
 <sup>2</sup> Halten sie eine längere Unterbringung für notwendig, stellen sie der Kindes- und Erwachsenenschutzbehörde einen begründeten Antrag. Diese entscheidet unverzüglich.
 
@@ -495,8 +500,8 @@ Vom 07.05.1911 (Stand 01.01.2023)
 
 <sup>1</sup> Die Kindes- und Erwachsenenschutzbehörde ordnet ambulante Massnahmen an, gestützt auf:
 
-- a. einen begründeten Antrag der behandelnden Ärztin oder des behandelnden Arztes oder der behandelnden Psychiaterin oder des behandelnden Psychiaters der Einrichtung, wenn diese für die Entlassung der betroffenen Person zuständig ist;
-- b. einen Bericht der behandelnden Ärztin oder des behandelnden Arztes oder der behandelnden Psychiaterin oder des behandelnden Psychiaters der Einrichtung, wenn die Kindes- und Erwachsenenschutzbehörde für die Entlassung zuständig ist.
+- a. einen begründeten Antrag oder Bericht der behandelnden Ärztin oder des behandelnden Arztes oder der behandelnden Psychiaterin oder des behandelnden Psychiaters;
+- b. …
 
 #### Art. 66d
 
@@ -510,7 +515,7 @@ Vom 07.05.1911 (Stand 01.01.2023)
 
 #### Art. 66e
 
-<sup>1</sup> Die Kindes- und Erwachsenenschutzbehörde stellt für jede Person, die aus der fürsorgerischen Unterbringung entlassen wird, eine angemessene Nachbetreuung sicher. Sie holt vorgängig einen Bericht der behandelnden Ärztin oder des behandelnden Arztes oder der behandelnden Psychiaterin oder des behandelnden Psychiaters ein.
+<sup>1</sup> Sorgt die entlassende Einrichtung nicht für eine angemessene Nachbetreuung für aus der fürsorgerischen Unterbringung entlassene Personen, stellt die Kindes- und Erwachsenenschutzbehörde diese auf Antrag und gestützt auf einen entsprechenden Bericht der entlassenden Einrichtung sicher.
 
 <sup>2</sup> Die Nachbetreuung bezweckt die nachhaltige Stabilisierung des Gesundheitszustandes und die Vermeidung von Rückfällen.
 
@@ -522,7 +527,7 @@ Vom 07.05.1911 (Stand 01.01.2023)
 
 #### Art. 67
 
-<sup>1</sup> Gegen Entscheide der Kindes- und Erwachsenenschutzbehörde und gegen ärztliche Verfügungen im Sinne von Artikel 66a Absätze 1 und 3 kann beim Verwaltungsgericht Beschwerde geführt werden (Art. 450 ZGB).
+<sup>1</sup> Gegen Entscheide der Kindes- und Erwachsenenschutzbehörde und gegen ärztliche Entscheide im Sinne von Artikel 66a Absätze 1 und 3 kann beim Verwaltungsgericht Beschwerde geführt werden (Art. 450 ZGB).
 
 ### 2.3.4.1c.2.
 
@@ -544,7 +549,7 @@ Vom 07.05.1911 (Stand 01.01.2023)
 
 #### Art. 69
 
-<sup>1</sup> Die Meldepflicht gemäss Artikel 443 Absatz 2 ZGB obliegt auch den Verwandten in gerader Linie wie auch in Seitenlinie ersten und zweiten Grades.
+<sup>1</sup> Die Meldepflicht gemäss Artikel 443 Absatz 3 ZGB obliegt auch den Verwandten in gerader Linie wie auch in Seitenlinie ersten und zweiten Grades.
 
 #### Art. 70
 
@@ -640,9 +645,9 @@ Vom 07.05.1911 (Stand 01.01.2023)
 
 #### Art. 104a
 
-<sup>1</sup> Der Regierungsrat regelt die administrative Betreuung der Kindes- und Erwachsenenschutzbehörde durch die kantonale Verwaltung in den erbrechtlichen Belangen.
+<sup>1</sup> …
 
-<sup>2</sup> Der Regierungsrat kann die Erfüllung der erbrechtlichen Aufgaben einer Verwaltungseinheit übertragen.
+<sup>2</sup> Der Regierungsrat weist die Erfüllung der erbrechtlichen Aufgaben einer Verwaltungseinheit zu und regelt das Weitere.
 
 <sup>3</sup> Die letztwilligen Verfügungen und Erbverträge können bei der Einwohnerkontrolle der Gemeinde offen oder verschlossen abgegeben werden. Der Empfang ist zu bescheinigen. Über Ein- und Ausgang der Urkunden führt die Einwohnerkontrolle ein besonderes Verzeichnis. Sie ist für die richtige Aufbewahrung verantwortlich. Bei Wegzug aus der Gemeinde sollen hinterlegte letztwillige Verfügungen und Erbverträge den Berechtigten bei der Abmeldung mitgegeben werden. Bei Todesfällen sind sie der zuständigen Behörde zur Eröffnung einzureichen.
 
@@ -652,9 +657,9 @@ Vom 07.05.1911 (Stand 01.01.2023)
 
 #### Art. 105
 
-<sup>1</sup> Die zuständige Amtsstelle hat der Kindes- und Erwachsenenschutzbehörde von jedem Todesfall Kenntnis zu geben.
+<sup>1</sup> Die zuständige Amtsstelle hat der Fachstelle Erbschaft von jedem Todesfall Kenntnis zu geben.
 
-<sup>2</sup> Hält die Kindes- und Erwachsenenschutzbehörde irgendwelche gesetzlichen Sicherungsmassregeln für erforderlich oder werden solche anbegehrt, so ordnet sie diese für den Erbgang an (Art. 551 ZGB).
+<sup>2</sup> Hält die Fachstelle Erbschaft irgendwelche gesetzlichen Sicherungsmassregeln für erforderlich oder werden solche anbegehrt, so ordnet sie diese für den Erbgang an (Art. 551 ZGB).
 
 #### Art. 106
 
@@ -666,19 +671,19 @@ Vom 07.05.1911 (Stand 01.01.2023)
 
 #### Art. 108
 
-<sup>1</sup> Die Siegelung und die Aufnahme des Inventars werden von der Kindes- und Erwachsenenschutzbehörde angeordnet.
+<sup>1</sup> Die Siegelung und die Aufnahme des Inventars werden von der Fachstelle Erbschaft angeordnet.
 
-<sup>2</sup> Die Kindes- und Erwachsenenschutzbehörde ordnet auch in Fällen von Artikel 554 ZGB die Erbschaftsverwaltung an, erlässt die in Artikel 555 ZGB vorgesehenen öffentlichen Aufforderungen und trifft allfällige weitere Massregeln zur Sicherung des Erbganges.
+<sup>2</sup> Die Fachstelle Erbschaft ordnet auch in Fällen von Artikel 554 ZGB die Erbschaftsverwaltung an, erlässt die in Artikel 555 ZGB vorgesehenen öffentlichen Aufforderungen und trifft allfällige weitere Massregeln zur Sicherung des Erbganges.
 
 #### Art. 109
 
-<sup>1</sup> Bei der Siegelung muss ein Mitglied der Kindes- und Erwachsenenschutzbehörde oder eine Person aus der betreuenden Verwaltungseinheit in leitender Stellung mitwirken; über die Siegelung ist ein Protokoll aufzunehmen.
+<sup>1</sup> Bei der Siegelung muss eine Person aus der betreuenden Verwaltungseinheit mitwirken; über die Siegelung ist ein Protokoll aufzunehmen.
 
 #### Art. 110
 
-<sup>1</sup> Letztwillige Verfügungen hat die Kindes- und Erwachsenenschutzbehörde zu eröffnen (Art. 556–559 ZGB).
+<sup>1</sup> Letztwillige Verfügungen hat die Fachstelle Erbschaft zu eröffnen (Art. 556–559 ZGB).
 
-<sup>2</sup> Sind Willensvollstrecker bestellt worden, so hat ihnen die Kindes- und Erwachsenenschutzbehörde sofort Mitteilung zu machen und bei Annahme des Auftrages die im Gesetz vorgesehenen Verrichtungen und Befugnisse zu übertragen (vgl. Art. 517 und 518 ZGB).
+<sup>2</sup> Sind Willensvollstrecker bestellt worden, so hat ihnen die Fachstelle Erbschaft sofort Mitteilung zu machen und bei Annahme des Auftrages die im Gesetz vorgesehenen Verrichtungen und Befugnisse zu übertragen (vgl. Art. 517 und 518 ZGB).
 
 ### 2.4.5. Ausschlagung der Erbschaft (Vgl. Art. 566 ff. ZGB)
 
@@ -702,11 +707,11 @@ Vom 07.05.1911 (Stand 01.01.2023)
 
 #### Art. 113
 
-<sup>1</sup> Das Begehren um ein öffentliches Inventar (Art. 580 ZGB) ist beim Kantonsgericht einzureichen, welches der Kindes- und Erwachsenenschutzbehörde hiervon Anzeige macht.
+<sup>1</sup> Das Begehren um ein öffentliches Inventar (Art. 580 ZGB) ist beim Kantonsgericht einzureichen, welches der Fachstelle Erbschaft hiervon Anzeige macht.
 
 #### Art. 114
 
-<sup>1</sup> Die Kindes- und Erwachsenenschutzbehörde oder ein von ihr bestellter Sachwalter hat nach Eingang der Anzeige die Inventarisierung (Art. 581 ZGB) in der Regel binnen dreier Monate zu vollenden. Falls erforderlich, beauftragt sie einen Sachwalter zur Verwaltung der Erbschaft.
+<sup>1</sup> Die Fachstelle Erbschaft oder ein von ihr bestellter Sachwalter hat nach Eingang der Anzeige die Inventarisierung (Art. 581 ZGB) in der Regel binnen dreier Monate zu vollenden. Falls erforderlich, beauftragt sie einen Sachwalter zur Verwaltung der Erbschaft.
 
 #### Art. 115
 
@@ -736,15 +741,15 @@ Vom 07.05.1911 (Stand 01.01.2023)
 
 #### Art. 118a
 
-<sup>1</sup> Auf Verlangen eines Erben stellt die Kindes- und Erwachsenenschutzbehörde eine Bescheinigung aus, die diesen berechtigt, namentlich bei Banken und Behörden Auskünfte über die Zusammensetzung des Nachlasses einzuholen.
+<sup>1</sup> Auf Verlangen eines Erben stellt die Fachstelle Erbschaft eine Bescheinigung aus, die diesen berechtigt, namentlich bei Banken und Behörden Auskünfte über die Zusammensetzung des Nachlasses einzuholen.
 
 ### 2.4.8. Erbschaftsteilung
 
 #### Art. 119
 
-<sup>1</sup> Die in Artikel 609 Absatz 1 ZGB vorgesehene behördliche Mitwirkung erfolgt durch die Kindes- und Erwachsenenschutzbehörde.
+<sup>1</sup> Die in Artikel 609 Absatz 1 ZGB vorgesehene behördliche Mitwirkung erfolgt durch die Fachstelle Erbschaft.
 
-<sup>2</sup> Die hiefür der Kindes- und Erwachsenenschutzbehörde oder ihren Angestellten zu bezahlenden Gebühren hat der gesuchstellende Gläubiger zu tragen.
+<sup>2</sup> Die hierfür zu bezahlenden Gebühren hat der Gläubiger zu tragen.
 
 #### Art. 119a–119b
 
@@ -754,7 +759,7 @@ Vom 07.05.1911 (Stand 01.01.2023)
 
 #### Art. 119c
 
-<sup>1</sup> Der Rechtsschutz richtet sich nach Artikel 67.
+<sup>1</sup> Der Rechtsschutz richtet sich nach dem Verwaltungsrechtspflegegesetz.
 
 ### 2.5. Sachenrecht
 
