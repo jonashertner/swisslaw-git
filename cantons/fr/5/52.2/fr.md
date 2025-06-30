@@ -4,32 +4,35 @@ number: "52.2"
 title: Loi sur la protection de la population
 short: LProtPop
 language: fr
-version: 2008-01-01
-valid_until: 2025-06-30
-version_adopted: 2007-12-13
+version: 2025-07-01
+version_adopted: 2024-12-18
 adopted: 2024-12-18
 in_force: 2025-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/52.2"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7189/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8273/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Loi sur la protection de la population
 
-Protection de la population – L
-
 (LProtPop)
 
-du 13.12.2007 (version entrée en vigueur le 01.01.2008)
+du 18.12.2024 (version entrée en vigueur le 01.07.2025)
 
 Le Grand Conseil du canton de Fribourg
 
-Vu l'article 75 ainsi que les articles 36 al. 2 et 117 de la Constitution du canton de Fribourg du 16 mai 2004;
+Vu la Constitution du canton de Fribourg du 16 mai 2004 (Cst.);
 
-Vu la loi fédérale du 4 octobre 2002 sur la protection de la population et sur la protection civile (LPPCi);
+Vu la loi fédérale du 20 décembre 2019 sur la protection de la population et sur la protection civile (LPPCi);
 
-Vu le message du Conseil d'Etat du 25 septembre 2007;
+Vu l'ordonnance fédérale du 11 novembre 2020 sur la protection de la population (OProp);
+
+Vu l'ordonnance fédérale du 11 novembre 2020 sur la protection civile (OPCi);
+
+Vu la loi fédérale du 17 juin 2016 sur l'approvisionnement économique du pays (Loi sur l'approvisionnement du pays, LAP);
+
+Vu le message 2019-DSJS-10 du Conseil d'Etat du 27 août 2024;
 
 Sur la proposition de cette autorité,
 
@@ -41,292 +44,588 @@ Décrète:
 
 **Objet**
 
-<sup>1</sup> La présente loi règle:
+<sup>1</sup> La présente loi règle la protection de la population et des infrastructures critiques et pourvoit à l'application de la législation fédérale en matière d'approvisionnement économique du pays, dans le canton de Fribourg.
 
-- a) la protection de la population du canton contre les catastrophes et dans les situations d'urgence;
-- b) l'organisation de l'engagement des organisations partenaires en cas d'accidents et de sinistres majeurs.
+<sup>2</sup> Les principes édictés en matière de protection de la population sont applicables par analogie à l'organisation de manifestations d'importance cantonale ou nationale; le respect des procédures d'autorisation et des compétences en matière d'ordre public est réservé.
+
+<sup>3</sup> Les principes édictés en matière de protection de la population sont applicables en cas de conflit armé menaçant l'intégrité de la Suisse ou ses intérêts, sous réserve de la législation et des prescriptions fédérales en la matière.
 
 #### Art. 2
 
-**Définitions**
+**Définitions – Situations**
 
-<sup>1</sup> Les catastrophes sont des événements dommageables de grande ampleur qui mettent en danger la population ou ses bases d'existence.
+<sup>1</sup> Une situation ordinaire est due à un événement habituel, identifié comme non exceptionnel, auquel les moyens de chaque partenaire de la protection de la population permettent de faire face individuellement.
 
-<sup>2</sup> Les situations d'urgence sont des situations créées par des circonstances qui mettent en danger ou risquent de mettre en danger la population ou ses bases d'existence.
+<sup>2</sup> Une situation particulière est due à un événement majeur qui perturbe le fonctionnement normal d'une partie de la société et dont les conséquences en termes d'espace, de moyens et de temporalité nécessitent la coordination des partenaires de la protection de la population engagés afin d'en maîtriser les dommages.
 
-<sup>3</sup> Les accidents et les sinistres majeurs sont des événements dommageables qui, sans exiger des mesures de protection de la population, nécessitent une préparation à l'engagement et une organisation de la conduite analogues à celles qui sont prévues pour les cas de catastrophes.
+<sup>3</sup> Une situation extraordinaire est due à une catastrophe dont l'impact en termes de dommages, d'espace, de durée ou de coûts remet durablement en cause le fonctionnement normal de toute ou partie de la société.
+
+<sup>4</sup> Une catastrophe est un événement dommageable d'origine naturelle, technique ou sociétale provoquant des dommages ou des pannes d'une ampleur telle que les ressources en matériel ou en personnel de la communauté affectée s'avèrent insuffisantes.
 
 #### Art. 3
 
-**Organisations partenaires**
+**Définitions – Gestion intégrée des risques**
 
-<sup>1</sup> Les organisations suivantes collaborent à l'accomplissement des tâches de protection de la population (ci-après: les organisations partenaires):
+<sup>1</sup> La détermination des risques consiste à identifier et inventorier les dangers naturels, techniques et sociétaux, ainsi qu'à évaluer les risques qui en découlent.
 
-- a) la police, les corps de sapeurs-pompiers, les services de la santé, les services techniques et la protection civile (art. 3 LPPCi);
-- b) les autres services, établissements et entreprises auxquels les législations fédérale et cantonale attribuent des tâches de protection au sens des articles 5 à 9 de la présente loi.
+<sup>2</sup> Les mesures de prévention servent à réduire la vulnérabilité de la population et de ses bases d'existence face aux risques reconnus. Elles peuvent être d'ordre législatif, administratif, organisationnel, technique ou biologique.
+
+<sup>3</sup> Les mesures de préparation en matière de protection de la population comprennent la planification préalable et l'établissement de la disponibilité de base pour chaque partenaire. Ces mesures s'appliquent également aux entreprises publiques et privées dont le fonctionnement est indispensable au maintien des bases d'existence nécessaires à la population.
+
+<sup>4</sup> L'intervention comprend l'engagement et la remise en état:
+
+- a) l'engagement consiste à prendre les mesures nécessaires pour limiter l'ampleur des dommages et maîtriser les diverses situations;
+- b) la remise en état consiste à rétablir les bases d'existence nécessaires à la population; elle prend fin avant la reconstruction proprement dite.
+
+<sup>5</sup> La reconstruction doit permettre le retour à la situation antérieure à l'événement en évitant que les mêmes causes produisent les mêmes effets. Elle vise à rétablir la fonction précédente de constructions, installations et exploitations endommagées ou détruites, en veillant si possible à en augmenter la résistance et à en améliorer l'utilisation.
+
+## 2 Organisation
+
+### 2.1 Généralités
 
 #### Art. 4
 
-**Approvisionnement économique du pays**
+**Principes généraux**
 
-<sup>1</sup> Les tâches à remplir par l'Etat et par les communes dans le domaine de l'approvisionnement en biens et en services d'importance vitale sont régies par la législation sur l'approvisionnement économique du pays.
+<sup>1</sup> L'Etat, par l'intermédiaire de ses unités administratives, et les communes collaborent, afin de prévenir et maîtriser les situations particulières et extraordinaires.
 
-## 2 Tâches de l'Etat et des communes
+<sup>2</sup> Les partenaires de la protection de la population, chargés de tâches de sécurité, de secours et de sauvetage, ainsi que les autres unités administratives de l'Etat sont habilités à conduire des interventions dans le cadre des situations mentionnées à l'article 2.
 
 #### Art. 5
 
-**Analyse des risques**
+**Partenaires de la protection de la population**
 
-<sup>1</sup> L'analyse des risques consiste à identifier les dangers naturels, techniques et de société auxquels sont exposées la population et ses bases d'existence et à évaluer les risques qui en découlent. Elle doit permettre la prise de mesures de prévention et de mesures de préparation à l'engagement.
+<sup>1</sup> La protection de la population est un système coordonné regroupant les partenaires suivants:
 
-<sup>2</sup> L'Etat procède à l'analyse des risques et l'actualise régulièrement. Il la communique aux communes et aux organisations concernées.
+- a) la police;
+- b) les services de défense incendie et de secours;
+- c) les services de la santé publique;
+- d) la protection civile;
+- e) les services techniques de l'Etat et des communes.
 
-<sup>3</sup> Les communes collaborent à l'analyse des risques. Elles peuvent concrétiser et compléter cette analyse selon leurs besoins et reçoivent, de la part des organes de l'Etat, toutes les informations utiles à cet effet.
+<sup>2</sup> D'autres services et organisations peuvent être tenus de collaborer à l'appréhension des dangers, à la gestion des risques et à la conduite des interventions, notamment:
+
+- a) les unités administratives de l'Etat;
+- b) les services administratifs des communes;
+- c) les institutions d'utilité publique et les entreprises privées.
 
 #### Art. 6
 
-**Prévention**
+**Formation**
 
-<sup>1</sup> La prévention consiste à prendre des mesures pour éviter la réalisation d'un événement dommageable, pour en réduire la probabilité et l'ampleur et pour limiter les dommages qui pourraient en résulter.
+<sup>1</sup> La formation de base et la formation continue sont garanties pour les partenaires de la protection de la population qui sont engagés lors d'événements majeurs ou à la suite d'une catastrophe.
 
-<sup>2</sup> L'Etat définit, pour chaque danger, des mesures de prévention proportionnées au risque et économiquement acceptables. Il édicte les normes nécessaires, coordonne la mise en œuvre et assure le contrôle. Il informe la population de manière appropriée sur les risques et sur les mesures, prises ou à prendre, pour les prévenir.
+<sup>2</sup> Les autorités:
 
-<sup>3</sup> Les communes accomplissent les tâches de prévention, notamment celles de mise en œuvre des mesures et de contrôle, qui leur sont attribuées par la législation spéciale. Elles peuvent adopter des mesures complémentaires. Elles assurent l'information sur le plan local.
+- a) assurent l'interopérabilité des processus de planification et de conduite pour faire face à des situations particulières et extraordinaires;
+- b) veillent à ce que les personnes incorporées dans les structures d'aide à la conduite acquièrent les connaissances d'état-major.
 
 #### Art. 7
 
-**Préparation**
+**Protection de la population**
 
-<sup>1</sup> La préparation consiste à prendre, en vue de l'engagement en cas d'événement, les mesures nécessaires de planification, d'organisation, de mise à disposition des moyens, de formation et d'information.
+<sup>1</sup> La protection de la population sert à:
 
-<sup>2</sup> L'Etat organise la préparation sur le plan cantonal. Il requiert la coopération des entreprises publiques et privées dont dépendent les infrastructures et les services essentiels. Il informe la population et lui donne les instructions nécessaires.
-
-<sup>3</sup> Les communes organisent, en collaboration avec les organes de l'Etat, la préparation sur le plan local. Elles informent la population et lui donnent les instructions nécessaires.
+- a) identifier et prévenir les dangers naturels, techniques et sociétaux;
+- b) coordonner l'engagement des partenaires de la protection de la population lors de situations particulières et extraordinaires afin de protéger, sauver, aider la population et maintenir ses bases d'existence;
+- c) assurer la remise en état à la suite de la survenance d'une situation particulière ou extraordinaire.
 
 #### Art. 8
 
-**Engagement**
+**Protection des infrastructures critiques**
 
-<sup>1</sup> En cas d'événement, l'Etat et les communes prennent les mesures nécessaires pour faire face à la catastrophe ou pour maîtriser la situation d'urgence.
+<sup>1</sup> La protection des infrastructures critiques sert à assurer la planification préventive de l'intervention pour celles-ci, ainsi qu'à garantir la résilience de leur fonctionnement; les compétences fédérales sont réservées.
 
-<sup>2</sup> L'Etat assure la conduite de l'engagement sur le plan cantonal, les communes sur le plan local.
+<sup>2</sup> Les exploitants et exploitantes des infrastructures critiques sont responsables de garantir leur fonctionnement en toute situation.
 
 #### Art. 9
 
-**Aide aux victimes**
+**Approvisionnement économique du pays**
 
-<sup>1</sup> Les communes, avec l'appui des organisations partenaires concernées, fournissent une aide d'urgence aux victimes de catastrophes.
+<sup>1</sup> L'approvisionnement économique du pays sert à assurer l'application, dans le canton, des mesures fédérales en la matière, en particulier lorsque surviennent de graves pénuries de biens et de services vitaux auxquelles les milieux économiques ne peuvent pas faire face par leurs propres moyens.
 
-<sup>2</sup> Cette aide couvre les besoins vitaux des victimes et comprend en particulier l'accueil, l'hébergement, la fourniture de soins et la distribution de nourriture et de vêtements. Elle est gratuite, sous réserve des prestations couvertes par une assurance.
+<sup>2</sup> Ces graves pénuries sont considérées comme des situations extraordinaires.
 
-<sup>3</sup> L'Etat fournit au besoin une aide complémentaire. Il règle en outre la répartition des frais entre les communes concernées.
+### 2.2 Autorités
 
 #### Art. 10
 
-**Financement**
+**Conseil d'Etat**
 
-<sup>1</sup> En cas d'événement dommageable de grande ampleur entraînant des dépenses qui dépassent les ressources des collectivités affectées, le Conseil d'Etat déclare l'état de catastrophe et présente au Grand Conseil un projet de décret réglant la prise en charge des frais d'intervention, de remise en état et de reconstruction.
+<sup>1</sup> Le Conseil d'Etat décide de la politique à suivre en matière de protection de la population.
 
-## 3 Organisation
+<sup>2</sup> Il fixe la stratégie d'ensemble pour faire face aux situations particulières et extraordinaires et assure la disponibilité au sein de la protection de la population en prévision d'un conflit armé, ainsi que celle de l'approvisionnement économique.
 
-### 3.1 Organisation cantonale
+<sup>3</sup> Il dispose notamment des attributions suivantes:
+
+- a) décider de la structure de l'observatoire cantonal des risques (ci-après: l'OCRI);
+- b) décider de la structure de l'état-major cantonal de protection de la population (ci-après: l'EMCP);
+- c) approuver les risques déterminés, adopter les mesures de prévention transversales et prendre acte, dans le cadre de la préparation, des planifications préalables couvrant les risques résiduels;
+- d) conclure les conventions réglant la collaboration avec d'autres cantons et avec la Confédération;
+- e) décider en cas d'événement majeur ou de catastrophe la prise en charge de la conduite par l'EMCP;
+- f) confirmer la proposition de l'EMCP de passer à l'état de situation extraordinaire;
+- g) arrêter les mesures extraordinaires et exceptionnelles à prendre et surveiller leur exécution;
+- h) requérir l'engagement de l'armée en appui aux autorités civiles;
+- i) désigner, si cela s'avère nécessaire, l'organe chargé de piloter la phase de reconstruction à la suite d'une catastrophe ou d'un événement majeur;
+- j) garantir un état de préparation permettant d'assurer l'approvisionnement économique du pays à l'échelon du canton;
+- k) édicter au besoin les dispositions d'exécution nécessaires à l'approvisionnement économique du pays;
+- l) approuver l'inventaire des infrastructures critiques d'importance cantonale et prendre acte des planifications préventives d'intervention y relatives.
+
+<sup>4</sup> Le Conseil d'Etat est compétent lorsqu'aucune autre autorité ou aucun autre organe n'est désigné-e par la loi. Il peut déléguer cette compétence à l'une de ses Directions.
+
+<sup>5</sup> Le Conseil d'Etat peut, sur proposition de la Direction en charge de la protection de la population[^10-1] (ci-après: la Direction), constituer une délégation temporaire pour la protection de la population (ci-après: DCEPP) et / ou pour l'approvisionnement économique du pays, conformément à l'article 31 de la loi du 16 octobre 2001 sur l'organisation du Conseil d'Etat et de l'administration (LOCEA)[^10-2].
+
+[^10-1]: Actuellement: Direction de la sécurité, de la justice et du sport.
+[^10-2]: RSF [122.0.1](https://bdlf.fr.ch/data/122.0.1/fr)
 
 #### Art. 11
 
-**Conseil d'Etat**
+**Préfet et préfète**
 
-<sup>1</sup> Le Conseil d'Etat veille à la protection de la population.
+<sup>1</sup> Le préfet ou la préfète est l'autorité de protection de la population à l'échelon du district. Il ou elle dispose des attributions suivantes:
 
-<sup>2</sup> Il exerce notamment les attributions suivantes:
+- a) assurer la communication dans son domaine de compétence;
+- b) coordonner subsidiairement, lors de situations particulières ou extraordinaires, les moyens de la protection de la population dans son district, notamment ordonner l'attribution de moyens communaux à la conduite de l'intervention;
+- c) harmoniser, en cas de déficit, la planification de l'attribution des places protégées au sein du district;
+- d) veiller au bon accomplissement des tâches qui incombent aux communes.
 
-- a) il adopte, pour chaque danger, un plan qui fixe les objectifs de protection et définit les mesures à prendre;
-- b) il approuve les plans d'engagement;
-- c) il ordonne, en cas d'événement, les mesures nécessaires sur le plan cantonal.
+<sup>2</sup> Il ou elle est informé-e de la planification préalable et des mesures prises par les partenaires de la protection de la population dans le cadre de la prévention, de l'engagement et de la remise en état. En particulier, il ou elle est informé-e de la mise sur pied de structures d'états-majors par les communes et s'assure que l'information est relayée à l'EMCP.
 
-<sup>3</sup> Il règle, par voie d'ordonnance:
+<sup>3</sup> Il ou elle collabore avec l'EMCP et ordonne les mesures qui relèvent de son autorité.
 
-- a) le pilotage de l'analyse des risques et la coordination des travaux de prévention, notamment en désignant pour chaque danger la Direction et l'unité administrative qui en sont chargées;
-- b) la formation et les exercices des organes de conduite et des organisations partenaires, ainsi que la prise en charge des frais y relatifs;
-- c) l'alerte, l'alarme et l'information de la population.
-
-<sup>4</sup> Il conclut les conventions réglant la collaboration avec d'autres cantons et avec la Confédération.
+<sup>4</sup> Lors d'événements majeurs ou de catastrophes touchant plusieurs districts, un représentant ou une représentante de la Conférence des préfets assure la coordination des mesures préfectorales avec l'EMCP.
 
 #### Art. 12
 
-**Organe cantonal de conduite – Fonctions**
+**Service en charge de la protection de la population – Protection de la population**
 
-<sup>1</sup> Un organe cantonal de conduite, placé sous l'autorité du Conseil d'Etat, dirige la préparation et conduit l'engagement.
+<sup>1</sup> Le service en charge de la protection de la population[^12-1] (ci-après: le Service) est le point de contact pour toutes les questions en lien avec la protection de la population. Il dispose des attributions suivantes:
 
-<sup>2</sup> En période de préparation, il exerce principalement les fonctions suivantes:
+- a) assurer la gestion des risques et la planification préalable;
+- b) tenir à jour la base de données nécessaire à la gestion des places protégées;
+- c) effectuer l'attribution primaire des places protégées;
+- d) gérer le dispositif cantonal d'alerte, d'alarme et d'information;
+- e) assurer le secrétariat de l'OCRI et de l'EMCP.
 
-- a) il dirige les travaux de planification, d'organisation et d'instruction sur le plan cantonal;
-- b) il contrôle la préparation des organisations partenaires;
-- c) il assure la collaboration avec les communes, les autres cantons, les organes fédéraux, l'armée et les tiers concernés.
+<sup>2</sup> Le Service peut, à la demande des organisations partenaires de la protection de la population ou des communes, organiser l'instruction et l'entraînement de leurs structures d'aide à la conduite.
 
-<sup>3</sup> En cas d'événement, il exerce principalement les fonctions suivantes:
-
-- a) il prend les mesures d'urgence;
-- b) il informe le Conseil d'Etat, lui propose des mesures et exécute ses décisions;
-- c) il conduit l'engagement;
-- d) il assure l'information de la population.
+[^12-1]: Actuellement: le Service de la sécurité civile et militaire.
 
 #### Art. 13
 
-**Organe cantonal de conduite – Composition**
+**Service en charge de la protection de la population – Protection des infrastructures critiques**
 
-<sup>1</sup> L'organe cantonal de conduite est formé des titulaires des fonctions suivantes:
+<sup>1</sup> Le Service agit en tant que service-conseil de la protection des infrastructures critiques au niveau cantonal.
 
-- a) le ou la chef-fe du service chargé des affaires de la protection de la population[^13-1] (ci-après: le Service), qui le dirige;
-- b) son adjoint ou adjointe;
-- c) le commandant ou la commandante de la Police cantonale;
-- d) l'inspecteur ou l'inspectrice cantonal-e des sapeurs-pompiers;
-- e) le ou la médecin cantonal-e;
-- f) le ou la chef-fe cantonal-e de la protection civile;
-- g) le ou la responsable du bureau d'information de la Chancellerie d'Etat.
+<sup>2</sup> Il tient un inventaire des infrastructures critiques d'importance cantonale et le met à jour régulièrement.
 
-<sup>2</sup> Le ou la chef-fe et les membres de l'organe cantonal de conduite, ainsi que leurs suppléants ou suppléantes, se forment à l'exercice de leurs fonctions.
+<sup>3</sup> Il coordonne les mesures de planification et de protection avec les exploitants et exploitantes des infrastructures critiques.
 
-<sup>3</sup> Chaque titulaire assure, en alternance avec son suppléant ou sa suppléante, une disponibilité permanente.
+<sup>4</sup> Il soutient les exploitants et exploitantes d'infrastructures critiques dans son domaine de compétence en ce qui concerne la vérification et l'amélioration de la résilience.
 
-<sup>4</sup> L'organe cantonal de conduite s'adjoint, selon la nature de l'événement, les chef-fe-s et les spécialistes des autres services concernés.
-
-[^13-1]: Actuellement: Service de la protection de la population et des affaires militaires.
+<sup>5</sup> Les tâches des exploitants et exploitantes d'infrastructures critiques sont définies dans le règlement.
 
 #### Art. 14
 
-**Organe cantonal de conduite – Organisation et fonctionnement a) en général**
+**Service en charge de la protection de la population – Approvisionnement économique du pays**
 
-<sup>1</sup> L'organe cantonal de conduite est rattaché administrativement à la Direction chargée des affaires de la protection de la population[^14-1] (ci-après: la Direction). Il lui soumet annuellement, à l'intention du Conseil d'Etat, un programme de travail et un rapport d'activité.
+<sup>1</sup> Le Service agit en tant que service responsable de la mise en œuvre de l'approvisionnement économique du pays.
 
-<sup>2</sup> L'organe cantonal de conduite dispose, pour ses travaux, de la collaboration du Service. Il peut requérir la collaboration des services et établissements de l'administration cantonale et celle des organisations partenaires. Il peut instituer des groupes de travail, permanents ou temporaires, dont il fixe la composition et désigne le ou la responsable.
-
-<sup>3</sup> L'organe cantonal de conduite règle son organisation interne et son fonctionnement. A défaut, les dispositions sur l'organisation et le fonctionnement des commissions de l'Etat sont applicables.
-
-[^14-1]: Actuellement: Direction de la sécurité, de la justice et du sport.
+<sup>2</sup> Il désigne un ou une délégué-e cantonal-e à l'approvisionnement économique du pays, ainsi qu'un suppléant ou une suppléante. Le ou la délégué-e cantonal-e est chargé-e de coordonner l'activité des unités administratives et des partenaires concernés par l'approvisionnement économique du pays.
 
 #### Art. 15
 
-**Organe cantonal de conduite – Organisation et fonctionnement b) en cas d'événement**
+**Communes – Protection de la population**
 
-<sup>1</sup> L'organe cantonal de conduite est mis sur pied sur décision de son ou sa chef-fe.
+<sup>1</sup> En matière de protection de la population, les communes sont compétentes pour:
 
-<sup>2</sup> Il s'organise en fonction de la nature, de l'ampleur et de la durée de l'événement.
+- a) fournir les éléments factuels nécessaires à la gestion des risques;
+- b) garantir aux victimes civiles une assistance gratuite en toute situation, sous forme d'aide d'urgence, en particulier pour ce qui est de l'hébergement;
+- c) soutenir les partenaires de protection de la population dans leurs interventions.
 
-<sup>3</sup> Il peut déléguer des fonctions de conduite à l'un de ses membres ou à l'organe qu'il désigne.
+<sup>2</sup> Chaque commune dispose d'un bureau communal de liaison, conformément aux articles 25ss.
 
-<sup>4</sup> Il prend ses décisions par consensus. A défaut, son ou sa chef-fe décide.
+<sup>3</sup> Les communes attribuent définitivement les places protégées à leur population résidente, sur la base de l'attribution primaire effectuée par le Service. Sur instruction dudit service et conformément à l'outil mis à disposition par celui-ci, les communes lui transmettent la planification d'attribution dans un délai de deux mois et se chargent de la communication à leur population résidente.
 
-<sup>5</sup> Il informe régulièrement les communes concernées de l'évolution de la situation et des décisions prises.
+<sup>4</sup> Les communes s'assurent de la transmission de l'alarme à la population résidant dans les zones non couvertes par le réseau de sirènes fixes.
+
+<sup>5</sup> Les communes, en coordination avec le Service, planifient et, en cas d'événement majeur et de catastrophe, exploitent au moins un point de rencontre d'urgence (ci-après: PRU) par commune.
+
+<sup>6</sup> Les communes peuvent requérir subsidiairement l'appui de l'Etat pour maîtriser des situations particulières et extraordinaires, ainsi que pour les aider à rétablir les bases d'existence nécessaires à la population.
+
+<sup>7</sup> Les moyens communaux peuvent, si la situation l'exige, être intégrés au dispositif cantonal.
 
 #### Art. 16
 
-**Préfet**
+**Communes – Protection des infrastructures critiques**
 
-<sup>1</sup> Le préfet est l'autorité de protection de la population dans le district.
+<sup>1</sup> Les communes sont compétentes pour l'établissement et la mise à jour régulière d'un inventaire des infrastructures critiques d'importance communale.
 
-<sup>2</sup> Il est informé des plans qui sont établis et des mesures qui sont prises par les organes cantonaux et par les communes du district.
-
-<sup>3</sup> En cas d'événement limité à son district, notamment en cas d'accident ou de sinistre majeur, il collabore avec l'organe cantonal de conduite et ordonne les mesures qui relèvent de son autorité.
-
-<sup>4</sup> Il veille au bon accomplissement des tâches qui incombent aux communes.
-
-### 3.2 Organisation communale
+<sup>2</sup> Elles établissent des planifications préventives d'intervention pour leurs infrastructures critiques en collaboration avec les organisations partenaires et en coordination avec les exploitants et exploitantes des infrastructures critiques.
 
 #### Art. 17
 
-**En général**
+**Communes – Approvisionnement économique du pays**
 
-<sup>1</sup> Les communes adoptent l'organisation nécessaire pour accomplir les tâches qui leur incombent dans le domaine de la protection de la population.
+<sup>1</sup> Les communes sont compétentes pour l'application, sur le plan local, des instructions fédérales et cantonales, en matière d'approvisionnement économique du pays.
 
-<sup>2</sup> Elles peuvent, pour l'accomplissement de ces tâches, collaborer entre elles dans les formes prévues par la législation sur les communes.
+### 2.3 Chaîne de commandement intégrée
 
-<sup>3</sup> Lorsque la collaboration est organisée sous la forme d'une entente intercommunale, les attributions du conseil communal sont exercées par un conseil intercommunal, composé de conseillers communaux ou conseillères communales de chaque commune.
+### 2.3.1 Généralités
 
 #### Art. 18
 
-**Organe communal de conduite – Fonctions**
+**Principe du cas dominant**
 
-<sup>1</sup> La commune institue un organe de conduite qui exerce, sous l'autorité du conseil communal, les fonctions suivantes:
-
-- a) il assure la préparation, notamment en planifiant l'engagement, en proposant à l'autorité communale l'adoption des mesures nécessaires et en organisant l'instruction;
-- b) il conduit l'engagement, notamment en coordonnant les opérations et en assurant la liaison avec les organisations partenaires.
-
-<sup>2</sup> En outre, l'organe communal de conduite peut être chargé de collaborer à l'analyse des risques ainsi qu'à l'accomplissement de tâches dans le domaine de la prévention.
-
-<sup>3</sup> L'organe communal de conduite coopère avec l'organe cantonal de conduite, dont il reçoit des directives et des instructions.
+<sup>1</sup> Le principe du cas dominant prévoit qu'en cas d'événement majeur la coordination de l'intervention s'effectue sous la responsabilité du partenaire de la protection de la population le plus concerné par l'événement, par ses conséquences et par l'évolution déterminante de la situation.
 
 #### Art. 19
 
-**Organe communal de conduite – Composition**
+**Chaîne de commandement intégrée – Buts**
 
-<sup>1</sup> Le conseil communal nomme le ou la chef-fe et les membres de l'organe de conduite.
+<sup>1</sup> La chaîne de commandement intégrée relie l'ensemble des instances chargées de la planification et de la conduite d'interventions ou d'opérations.
 
-<sup>2</sup> Le ou la chef-fe de l'organe de conduite est choisi-e en considération de ses aptitudes et de sa disponibilité. Il ou elle ne doit exercer aucune autre fonction impliquant un engagement en cas d'événement.
+<sup>2</sup> Elle a pour but de:
 
-<sup>3</sup> Les membres de l'organe de conduite représentent les services et organisations qui assument des tâches de protection de la population sur le plan local, notamment les services techniques, le corps des sapeurs-pompiers et le corps local de protection civile.
-
-<sup>4</sup> Le ou la chef-fe et les membres de l'organe de conduite se forment à l'exercice de leurs fonctions. Ils suivent les cours dispensés à cet effet.
+- a) garantir en toute situation l'échange d'informations et de renseignements ainsi que la prise de décision par les différents partenaires chargés de la protection de la population et des autres services et organisations amenés à collaborer;
+- b) permettre une conduite intégrée des interventions ou des opérations, à savoir la capacité à conduire en toute situation, à tous les niveaux et avec tous les partenaires appelés à intervenir sur le territoire cantonal;
+- c) gérer sur une durée indéterminée le processus de remise en état et de retour à une situation ordinaire.
 
 #### Art. 20
 
-**Organisation intercommunale**
+**Postes de commandement**
 
-<sup>1</sup> En cas de collaboration intercommunale, les communes instituent un organe de conduite commun, qui exerce ses fonctions sous l'autorité du conseil intercommunal ou, si les communes ont formé une association, du comité de direction.
+<sup>1</sup> En prévision notamment d'un conflit armé, l'ensemble de la chaîne de commandement intégrée dispose jusqu'à l'échelon régional de places dans des postes de commandement combinés.
 
-## 4 Dispositions finales
+<sup>2</sup> En situation hors conflit armé, les opérations sont coordonnées depuis un poste cantonal de commandement opérations.
+
+### 2.3.2 Observatoire cantonal des risques (OCRI)
 
 #### Art. 21
 
-**Disposition transitoire**
+**Fonction**
 
-<sup>1</sup> Les communes disposent d'un délai de deux ans à compter de l'entrée en vigueur de la présente loi pour adopter l'organisation prévue par celle-ci.
+<sup>1</sup> L'observatoire des risques est une commission permanente de l'Etat, rattachée administrativement à la Direction.
 
-<sup>2</sup> Les communes qui, lors de l'entrée en vigueur de la présente loi, collaborent entre elles pour l'accomplissement des tâches de protection civile peuvent étendre leur collaboration, dans le cadre de la même entente intercommunale ou association de communes, à l'accomplissement des tâches de protection de la population. Elles procèdent le cas échéant, dans un délai de deux ans, à l'adaptation correspondante de leur convention ou des statuts de leur association.
+<sup>2</sup> Le ou la secrétaire général-e de la Direction en est membre d'office et le préside.
+
+<sup>3</sup> Les membres sont nommés par le Conseil d'Etat; y sont représentés les partenaires de la protection de la population au sens de l'article 5 et qui sont nécessaires à la détermination des risques d'importance cantonale, conformément à l'article 3 al. 1, ainsi qu'à l'élaboration des mesures de prévention capables de les atténuer selon les principes édictés à l'article 3 al. 2.
+
+<sup>4</sup> L'observatoire a pour tâches de:
+
+- a) déterminer les risques qu'il soumet pour approbation au Conseil d'Etat en application de l'article 10 al. 3 lit. c;
+- b) répertorier l'ensemble des mesures de préventions prises par les différents partenaires pour faire face aux risques reconnus par le Conseil d'Etat;
+- c) superviser la mise en œuvre des mesures de prévention transversales adoptées par le Conseil d'Etat.
+
+### 2.3.3 Centre d'engagement, de conduite et d'alarme fribourgeois (CECAF)
 
 #### Art. 22
 
-**Abrogation**
+**Définition**
 
-<sup>1</sup> L'arrêté du 31 octobre 1988 instituant une organisation cantonale en cas de catastrophe (ORCAF) (RSF 50.31) est abrogé.
+<sup>1</sup> Un centre d'engagement, de conduite et d'alarme réunit et gère, sur une plateforme commune dans le canton de Fribourg, les compétences d'engagement, de conduite et d'alarme liées aux domaines de la sécurité, des secours et du sauvetage, et des autres domaines de la protection de la population.
+
+<sup>2</sup> La Police cantonale est chargée de l'exploitation et de la conduite du centre. Elle conclut les conventions de collaboration nécessaires.
+
+<sup>3</sup> Les législations spéciales sont réservées.
+
+### 2.3.4 Etat-major cantonal de protection de la population (EMCP)
 
 #### Art. 23
 
-**Modifications – Protection des biens culturels**
+**Fonction**
 
-<sup>1</sup> La loi du 7 novembre 1991 sur la protection des biens culturels (RSF 482.1) est modifiée comme il suit:
+<sup>1</sup> L'EMCP est chargé de mettre en œuvre la stratégie de protection de la population dans le canton de Fribourg. Si la situation l'exige, il travaille de concert avec la Conférence des secrétaires généraux (ci-après: la CSG).
 
-...
+<sup>2</sup> Il est rattaché administrativement à la Direction.
+
+<sup>3</sup> En situation particulière et extraordinaire, il peut en référer directement au Conseil d'Etat ou à la DCEPP si cette dernière est constituée.
 
 #### Art. 24
 
-**Modifications – Santé**
+**Missions**
 
-<sup>1</sup> La loi du 16 novembre 1999 sur la santé (RSF 821.0.1) est modifiée comme il suit:
+<sup>1</sup> En situation ordinaire, l'EMCP a notamment pour tâches:
 
-...
+- a) de valider les planifications préalables nécessaires pour faire face aux risques résiduels;
+- b) d'établir la doctrine en matière de protection de la population;
+- c) de vérifier, en collaboration avec les partenaires de la protection de la population, l'établissement de leur disponibilité de base;
+- d) d'organiser des exercices d'état-major et d'engagement;
+- e) d'assurer la formation de base et la formation continue de ses membres.
+
+<sup>2</sup> En situation particulière et extraordinaire, l'EMCP a notamment pour tâches:
+
+- a) de proposer au Conseil d'Etat de passer à l'état de situation extraordinaire;
+- b) de fournir une image globale de la situation;
+- c) de déterminer et ordonner les mesures préventives et préparatoires spécifiques;
+- d) de piloter la constitution de forces de circonstance;
+- e) de conduire et synchroniser les opérations;
+- f) de coordonner l'information;
+- g) de prendre les mesures ordinaires nécessaires afin de maîtriser la situation, conformément à l'article 28;
+- h) de proposer au Conseil d'Etat la prise de mesures extraordinaires et exceptionnelles;
+- i) de superviser la remise en état.
+
+<sup>3</sup> L'EMCP peut confier ces tâches à l'un des partenaires de la protection de la population. Il peut faire appel à des spécialistes dont la collaboration s'avère nécessaire pour gérer les dangers ou conduire les opérations.
+
+<sup>4</sup> En cas de pénurie grave, déclarée ou imminente, l'Etat, par l'intermédiaire de l'EMCP, ordonne les mesures nécessaires pour accomplir les tâches confiées par la Confédération ou qui relèvent de sa compétence. Il peut s'adjoindre, pour le conseiller, les services de spécialistes en matière économique et logistique.
+
+<sup>5</sup> Si la situation l'exige, l'EMCP coopère avec les organes similaires des autres cantons et de la Confédération, afin d'assurer la cohérence des mesures à prendre.
+
+### 2.3.5 Aide à la conduite des organisations partenaires
 
 #### Art. 25
 
-**Modifications – Réseau hospitalier fribourgeois**
+**Principes**
 
-<sup>1</sup> La loi du 27 juin 2006 concernant le Réseau hospitalier fribourgeois (LRHF) (RSF 822.0.1) est modifiée comme il suit:
+<sup>1</sup> Dans le cadre de leurs activités de planification et de conduite, découlant de leurs responsabilités légales respectives, les partenaires de la protection de la population au sens de l'article 5, ainsi que les communes, peuvent créer leur propre structure d'aide à la conduite.
 
-...
+<sup>2</sup> Les structures d'aide à la conduite peuvent notamment avoir pour mission:
+
+- a) de participer à la gestion des dangers et à l'élaboration de la planification préalable et préventive;
+- b) de conduire, en fonction de la nature et de la gravité de la situation, les moyens propres à chaque partenaire de manière autonome, en coopération ou sous la direction de l'EMCP;
+- c) d'édicter les règles de comportement nécessaires à leurs actions.
+
+### 2.3.6 Bureau communal de liaison
 
 #### Art. 26
 
-**Modifications – Soins en santé mentale**
+**Organisation**
 
-<sup>1</sup> La loi du 5 octobre 2006 sur l'organisation des soins en santé mentale (LSM) (ROF 2006\_116) est modifiée comme il suit:
+<sup>1</sup> Les bureaux communaux de liaison de la protection de la population assurent le lien entre l'Etat et les communes dans le domaine de la protection de la population, des infrastructures critiques et de l'approvisionnement économique du pays.
 
-...
+<sup>2</sup> Ils garantissent en permanence et en toute situation l'accès aux informations, personnes et infrastructures nécessaires à la conduite intégrée des interventions.
+
+<sup>3</sup> Le bureau communal de liaison peut être intégré au sein d'une structure d'aide à la conduite communale.
 
 #### Art. 27
 
-**Referendum et entrée en vigueur**
+**Tâches**
 
-<sup>1</sup> La présente loi est soumise au referendum législatif. Elle n'est pas soumise au referendum financier.
+<sup>1</sup> Le bureau communal de liaison assume notamment les tâches suivantes:
 
-<sup>2</sup> Elle entre en vigueur le 1<sup>er</sup> janvier 2008.
+- a) fournir au commandement de la protection civile les éléments factuels nécessaires à la détermination des risques et à l'élaboration de la planification préalable;
+- b) répondre aux demandes de renseignements formulées par l'une des instances de la chaîne de commandement intégrée;
+- c) soutenir les partenaires de la protection de la population lors d'interventions;
+- d) s'assurer de la transmission de l'alarme à la population;
+- e) formuler, au profit des autorités communales, les demandes d'appui subsidiaire;
+- f) informer le ou les partenaires de la protection de la population concernés par les mesures prises au niveau communal.
 
-2007\_135
+### 2.4 Information
+
+#### Art. 28
+
+**Principes**
+
+<sup>1</sup> L'information est une action de support essentiel pour les interventions et pour la conduite des opérations.
+
+<sup>2</sup> Les informations sont communiquées de manière coordonnée et synchronisée à l'interne et à l'externe.
+
+## 3 Mesures
+
+### 3.1 Mesures ordinaires
+
+#### Art. 29
+
+**Mesures ordinaires**
+
+<sup>1</sup> Les mesures ordinaires sont celles qui peuvent être prises d'office par les partenaires de la protection de la population et par la chaîne de commandement intégrée, selon leurs prérogatives légales respectives.
+
+#### Art. 30
+
+**Réquisition ordinaire**
+
+<sup>1</sup> En cas de nécessité, le ou la chef-fe d'intervention peut requérir le concours de particuliers, ainsi que la mise à disposition de locaux ou d'autres moyens nécessaires.
+
+<sup>2</sup> Cette réquisition est limitée dans le temps et dans l'espace. Elle prend fin dès que l'intervention est terminée.
+
+<sup>3</sup> Une indemnité équitable est versée aux personnes réquisitionnées ainsi qu'aux propriétaires des biens réquisitionnés.
+
+### 3.2 Mesures extraordinaires et exceptionnelles
+
+#### Art. 31
+
+**Réquisition extraordinaire**
+
+<sup>1</sup> En vue de l'accomplissement de ses tâches, si les moyens publics sont insuffisants et que les biens privés ne peuvent être obtenus d'une autre manière à des conditions acceptables, le Conseil d'Etat peut réquisitionner, en situation extraordinaire et pour autant que les circonstances l'exigent, tout bien mobilier ou immobilier; si nécessaire, cela comprend le personnel indispensable à l'exploitation et au bon fonctionnement des biens réquisitionnés.
+
+<sup>2</sup> Sur décision du Conseil d'Etat, l'EMCP peut agir comme organe de réquisition.
+
+<sup>3</sup> La réquisition n'est limitée ni dans le temps, ni dans l'espace, sous réserve des conditions de l'article 117 Cst.[^31-1]
+
+<sup>4</sup> La décision de réquisition est immédiatement exécutoire.
+
+<sup>5</sup> Une indemnité équitable est versée aux propriétaires et/ou utilisateurs des biens réquisitionnés.
+
+[^31-1]: RSF [10.1](https://bdlf.fr.ch/data/10.1/fr)
+
+#### Art. 32
+
+**Etat de catastrophe**
+
+<sup>1</sup> Afin de remédier aux conséquences d'une situation extraordinaire, le Conseil d'Etat peut déclarer l'état de catastrophe; la déclaration n'implique aucune mesure automatique.
+
+<sup>2</sup> Lorsque l'état de catastrophe est déclaré, le Conseil d'Etat délègue à la DCEPP alors constituée les compétences qui lui incombent en vertu de l'article 117 Cst.[^32-1], pour parer aux dangers sérieux, directs et imminents.
+
+<sup>3</sup> Le ou la chef-fe de l'EMCP est habilité‑e à requérir la Police cantonale lorsque le recours à la force publique paraît nécessaire, conformément à l'article 4 de la loi du 15 novembre 1990 sur la Police cantonale (LPol)[^32-2].
+
+[^32-1]: RSF [10.1](https://bdlf.fr.ch/data/10.1/fr)
+[^32-2]: RSF [551.1](https://bdlf.fr.ch/data/551.1/fr)
+
+## 4 Systèmes de communication
+
+#### Art. 33
+
+**Gouvernance**
+
+<sup>1</sup> La Direction est compétente pour édicter les directives relatives aux systèmes de communication dans les domaines d'activités liés à des tâches de sécurité, de secours et de sauvetage.
+
+<sup>2</sup> Elle veille à la cohérence des systèmes dans leur ensemble.
+
+#### Art. 34
+
+**Dispositif cantonal d'alerte, d'alarme et d'information**
+
+<sup>1</sup> Le dispositif cantonal d'alerte, d'alarme et d'information regroupe le personnel et l'ensemble des moyens techniques, afin d'avertir la population d'un danger et de lui transmettre des recommandations ou des consignes de comportement.
+
+<sup>2</sup> Le dispositif peut notamment utiliser, outre le réseau de sirènes d'alarme, les réseaux de téléphonie fixe et mobile pour alerter et alarmer la population.
+
+<sup>3</sup> Le dispositif permet, après une montée en puissance, de pouvoir répondre aux questions de la population liées au développement de la situation.
+
+#### Art. 35
+
+**Dispositif cantonal de communication sécurisée**
+
+<sup>1</sup> Les partenaires de la protection de la population, chargés de tâches de sécurité, de secours et de sauvetage, ainsi que les membres de la chaîne de commandement intégrée peuvent être intégrés au dispositif cantonal de communication sécurisée.
+
+<sup>2</sup> Les partenaires et les membres mentionnés à l'alinéa 1 se coordonnent, au sein d'une organisation réglée par le Conseil d'Etat, pour la planification, l'acquisition, l'exploitation, la surveillance et la maintenance des réseaux.
+
+<sup>3</sup> Le dispositif comprend notamment le réseau radio national de sécurité. Ce système a pour but de procurer à ses utilisateurs un réseau commun permettant de faciliter la collaboration aux niveaux communal, cantonal, intercantonal et fédéral. Des terminaux peuvent être attribués temporairement ou durablement à des organisations partenaires de la protection de la population définies à l'article 5.
+
+<sup>4</sup> Le dispositif cantonal de communication sécurisée peut intégrer d'autres systèmes de communication mis en place par la Confédération ou le canton.
+
+#### Art. 36
+
+**Systèmes d'information**
+
+<sup>1</sup> Chaque partenaire de la protection de la population acquiert et exploite les systèmes d'information nécessaires à son domaine d'activité, selon les prescriptions en vigueur.
+
+<sup>2</sup> L'EMCP détermine le cahier des charges pour l'acquisition du système d'information et de conduite de la protection de la population (SIC-PP), ainsi que les modalités de son exploitation.
+
+## 5 Traitement des données
+
+#### Art. 37
+
+**Principes**
+
+<sup>1</sup> Le Service et les partenaires définis à l'article 5 sont habilités à traiter les données personnelles nécessaires à l'accomplissement des tâches qui leur incombent en vertu de la présente loi, en particulier l'instruction, l'alerte et l'alarme, le contrôle périodique des abris et la planification d'attribution des places d'abris. Ils peuvent traiter les données suivantes:
+
+- a) les données relatives à l'identification;
+- b) les données de localisation;
+- c) les données relatives à la vie professionnelle;
+- d) les données relatives à la vie personnelle.
+
+<sup>2</sup> La législation cantonale sur la protection des données est réservée.
+
+## 6 Finances
+
+#### Art. 38
+
+**Financement**
+
+<sup>1</sup> L'Etat, par l'intermédiaire de ses unités administratives, participe au financement de la protection de la population, par le crédit budgétaire annuel de l'Etat, respectivement par celui des établissements autonomes.
+
+<sup>2</sup> Les mesures de prévention transversales adoptées par le Conseil d'Etat sont financées par des crédits d'engagement, que ce dernier soumet au Grand Conseil.
+
+<sup>3</sup> La part communale du financement des partenaires de la protection de la population effectuant des tâches au profit des communes est réglée dans les lois spécifiques à ces partenaires.
+
+<sup>4</sup> Les communes assument le financement des bureaux communaux de liaison et des PRU. Le canton leur fournit les moyens de communication nécessaires pour assurer leur intégration au dispositif cantonal de communication sécurisée.
+
+<sup>5</sup> Les exploitants et exploitantes d'infrastructures critiques supportent les coûts des mesures relatives à la protection de celles-ci.
+
+<sup>6</sup> Le financement des moyens d'aide à la conduite et des systèmes de communication utilisés par les partenaires de la protection de la population est réglé par la législation spéciale.
+
+<sup>7</sup> L'outil informatique nécessaire à l'attribution des places protégées est financé par l'Etat.
+
+#### Art. 39
+
+**Subventions**
+
+<sup>1</sup> La Direction, par l'intermédiaire du Service, peut allouer annuellement des subventions aux organisations à but non lucratif appuyant les partenaires de la protection de la population en charge des tâches de sécurité, de secours et de sauvetage et permettant le financement pour partie de leur équipement.
+
+<sup>2</sup> Ces organisations à but non lucratif ont pour tâche de secourir les personnes en détresse, en milieux particuliers, tels que les terrains accidentés et montagneux, les lacs et cours d'eau, ainsi que les zones de décombres.
+
+#### Art. 40
+
+**Frais de formation**
+
+<sup>1</sup> Le Service assume les frais d'organisation des cours et des exercices programmés par l'EMCP.
+
+<sup>2</sup> Les frais de personnel et de fonctionnement des partenaires de la protection de la population qui participent aux cours ou exercices prévus à l'alinéa 1 sont à leur charge.
+
+<sup>3</sup> Le Service organise les cours de base pour le personnel des bureaux communaux de liaison de la protection de la population.
+
+<sup>4</sup> Les frais de formations organisées conjointement entre les partenaires étatiques et les organisations à but non lucratif appuyant les partenaires de la protection de la population en charge des tâches de sécurité, de secours et de sauvetage, sont à la charge de l'Etat.
+
+#### Art. 41
+
+**Frais d'intervention**
+
+<sup>1</sup> Le partenaire de la protection de la population amené à coordonner l'intervention selon le principe du cas dominant ne peut prétendre à la prise en charge par l'Etat des frais y relatifs.
+
+<sup>2</sup> Les frais d'intervention des partenaires de la protection de la population sont réglés dans la législation propre à chaque partenaire.
+
+<sup>3</sup> Les coûts liés à un appui requis subsidiairement par les autorités communales sont considérés comme des frais d'intervention.
+
+#### Art. 42
+
+**Financement des mesures extraordinaires et exceptionnelles**
+
+<sup>1</sup> Lors de situations particulières et extraordinaires, l'EMCP dispose d'une enveloppe financière et de compétences décisionnelles y relatives afin de financer les mesures urgentes.
+
+<sup>2</sup> Le financement des mesures extraordinaires et exceptionnelles est réglé dans l'arrêté que prend le Conseil d'Etat pour leur mise en œuvre.
+
+<sup>3</sup> L'EMCP peut accepter ou requérir une aide financière intercantonale ou fédérale si le canton ne peut faire face seul à la situation particulière ou extraordinaire avec les moyens dont il dispose et dans la mesure où le droit fédéral le prévoit.
+
+## 7 Voies de droit et sanctions
+
+#### Art. 43
+
+**Voies de droit**
+
+<sup>1</sup> Les décisions prises en application de la présente loi, du règlement ou de tout arrêté d'exécution sont sujettes à recours conformément au code de procédure et de juridiction administrative.
+
+<sup>2</sup> Toutefois, le délai pour recourir contre des décisions prises lors de situations particulières ou extraordinaires (art. 2 al. 2 et 3) est de dix jours; le recours n'a pas d'effet suspensif.
+
+#### Art. 44
+
+**Mesures administratives**
+
+<sup>1</sup> La violation des prescriptions administratives fixées dans la présente loi, le règlement ou tout arrêté d'exécution peut faire l'objet d'une mesure administrative ou d'une amende administrative pouvant s'élever jusqu'à 10'000 francs.
+
+<sup>2</sup> Le Conseil d'Etat, ou la DCEPP lorsque l'état de catastrophe est déclaré, est compétent-e pour prononcer une mesure ou une amende selon l'alinéa 1.
+
+<sup>3</sup> Le code de procédure et de juridiction administrative est applicable.
+
+#### Art. 45
+
+**Sanctions pénales**
+
+<sup>1</sup> Toute décision prise en application de la présente loi, du règlement ou de tout arrêté d'exécution est signifiée sous la menace des peines de l'article 292 du code pénal suisse[^45-1].
+
+<sup>2</sup> La poursuite et le jugement des infractions ont lieu conformément à la loi sur la justice.
+
+[^45-1]: RS [311.0](https://db.clex.ch/link/Bund/311.0/fr)
+
+## 8 Dispositions finales
+
+#### Art. 46
+
+**Dispositions transitoires**
+
+<sup>1</sup> Les communes disposent d'un délai de trois ans, dès l'entrée en vigueur de la présente loi, pour:
+
+- a) créer leur bureau communal de liaison de protection de la population;
+- b) dissoudre ou adapter leur organe communal de conduite (ORCOC) et leur office communal de l'approvisionnement économique du pays;
+- c) mettre en place les PRU.
+
+2024\_110
