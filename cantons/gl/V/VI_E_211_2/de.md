@@ -4,13 +4,13 @@ number: VI E/211/2
 title: Verordnung zum kantonalen Jagdgesetz
 short: Jagdverordnung
 language: de
-version: 2016-01-01
-valid_until: 2025-06-30
-version_adopted: 2015-06-24
+version: 2025-07-01
+valid_until: 2025-12-31
+version_adopted: 2025-02-19
 adopted: 1990-06-27
 in_force: 1990-07-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VI-E.211.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/1791/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2556/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/1791/pdf_file"
 
 (Jagdverordnung)
 
-Vom 27.06.1990 (Stand 01.01.2016)
+Vom 27.06.1990 (Stand 01.07.2025)
 
 Der Landrat,
 
@@ -476,6 +476,42 @@ verordnet:
 **Forschung**
 
 <sup>1</sup> Das zuständige Departement kann Aktionen zur Markierung jagdbarer Säugetiere und Vögel bewilligen bzw. anordnen, sofern sie wissenschaftlichen Zwecken, der Wildforschung oder der Jagdplanung und der Erhaltung der Artenvielfalt dienen.
+
+## 7a. Pilotprojekt Wolfsmonitoring
+
+[^43-1]
+
+[^43-1]: Diese Änderungen treten am 1. Juli 2025 in Kraft und gelten befristet für 4 Jahre.
+
+#### Art. 43a
+
+**Besenderung und Vergrämung**
+
+<sup>1</sup> Nach Möglichkeit werden in jedem im Kanton Glarus ansässigen Wolfsrudel ein bis zwei Tiere mit einem Sender versehen.
+
+<sup>2</sup> Eine Besenderung gemäss Absatz 1 wird erst nach Abschluss allfälliger Regulierungen von Wolfsrudeln vorgenommen. Besenderte Wölfe sind möglichst von Regulierungen auszunehmen.
+
+<sup>3</sup> Wölfe werden durch geeignete Massnahmen, insbesondere Vergrämung, nach Möglichkeit scheu gehalten.
+
+#### Art. 43b
+
+**Verwendung der Daten**
+
+<sup>1</sup> Die aufgrund der Besenderung gemäss Artikel 43a gewonnenen Daten werden für die Überwachung und für Massnahmen im Umgang mit Wölfen verwendet.
+
+<sup>2</sup> Die kantonale Jagdbehörde und die Wildhut haben Zugriff auf diese Daten.
+
+<sup>3</sup> Die Daten können der Vollzugsbehörde des Herdenschutzes für den Herdenschutz sowie Dritten zu wissenschaftlichen Zwecken zur Verfügung gestellt werden.
+
+#### Art. 43c
+
+**Finanzierung und Vollzug**
+
+<sup>1</sup> Die Finanzierung der Massnahmen nach diesem Kapitel erfolgt durch einen Verpflichtungskredit. Der Landrat legt dessen Höhe fest.
+
+<sup>2</sup> Die Wildhut vollzieht das Pilotprojekt Wolfsmonitoring. Zur Erfüllung ihrer Aufgabe kann sie Dritte beiziehen.
+
+<sup>3</sup> Die kantonale Jagdbehörde berichtet im Rahmen des Tätigkeitsberichts jährlich über den Zwischenstand sowie nach Ablauf des Pilotprojekts über dessen Ergebnisse.
 
 ## 8. Straf- und Schlussbestimmungen
 
