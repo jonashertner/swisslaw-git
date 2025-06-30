@@ -4,13 +4,12 @@ number: "172.1"
 title: Geschäftsreglement des Regierungsrates
 short: GRR
 language: de
-version: 2025-01-01
-valid_until: 2025-06-30
-version_adopted: 2024-12-03
+version: 2025-07-01
+version_adopted: 2025-05-27
 adopted: 1989-12-19
 in_force: 1990-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/172.1"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2858/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2907/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ GRR
 
 (GRR)
 
-vom 19.12.1989 (Stand 01.01.2025)
+vom 19.12.1989 (Stand 01.07.2025)
 
 ## 1. Regierungsrat
 
