@@ -3,20 +3,19 @@ canton: OW
 number: "410.4"
 title: Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen
 language: de
-version: 2017-01-01
-valid_until: 2025-06-30
-version_adopted: 2013-10-24
+version: 2025-07-01
+version_adopted: 2025-06-26
 adopted: 1993-02-18
 in_force: 1995-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/410.4"
-pdf: "http://gdb.ow.ch/api/de/versions/1237/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1938/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen
 
-vom 18.02.1993 (Stand 01.01.2017)
+vom 18.02.1993 (Stand 01.07.2025)
 
 Die Schweizerische Konferenz der kantonalen Erziehungsdirektoren (Erziehungsdirektorenkonferenz) und die Schweizerischen Konferenz der kantonalen Gesundheitsdirektorinnen und -direktoren (Gesundheitsdirektorenkonferenz),
 
@@ -256,6 +255,8 @@ Anhang geändert (Art. 12ter) durch
 
 \- Beschluss der GDK vom 9. April 2015, in Kraft seit 1. Mai 2015 (OGS 2015, 24),
 
-\- Beschluss der GDK vom 22. Oktober 2015, in Kraft seit 1. November 2015 (OGS 2015, 57)
+\- Beschluss der GDK vom 22. Oktober 2015, in Kraft seit 1. November 2015 (OGS 2015, 57),
+
+\- Beschluss der GDK vom 26. Juni 2025, in Kraft seit 1. Juli 2025 (OGS 2025, 13)
 
 OGS 1995, 38
