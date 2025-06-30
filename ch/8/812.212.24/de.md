@@ -4,11 +4,11 @@ title: "Verordnung vom 7. September 2018 des Schweizerischen Heilmittelinstituts
 short: KPAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/591"
 language: de
-version: 2023-07-01
+version: 2025-07-01
 adopted: 2018-09-07
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/591/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2018-591-20230701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/591/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/591/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2018-591-20250701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/591/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/591/20230701/de"
 
 (Komplementär- und Phytoarzneimittelverordnung, KPAV)
 
-vom 7. September 2018 (Stand am 1. Juli 2023)
+vom 7. September 2018 (Stand am 1. Juli 2025)
 
 Der Institutsrat des Schweizerischen Heilmittelinstituts (Institutsrat),
 
@@ -25,8 +25,8 @@ gestützt auf die Artikel 11 Absatz 4, 14 Absatz 1 Buchstaben a<sup>bis</sup>–
 
 verordnet:
 
-[^ingress-1]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-2]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-1]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^ingress-2]: [SR 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -55,11 +55,11 @@ In Ergänzung zu dieser Verordnung gelten die Bestimmungen der:
 - b. Verordnung vom 21. September 2018[^2-4] über die Arzneimittel;
 - c. Verordnung von 18. August 2004[^2-5] über die Tierarzneimittel.
 
-[^2-1]: [SR 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
-[^2-2]: [SR 812.212.23](https://fedlex.data.admin.ch/eli/cc/2006/558)
-[^2-3]: [SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
-[^2-4]: [SR 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
-[^2-5]: [SR 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^2-1]: [SR 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
+[^2-2]: [SR 812.212.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9367)
+[^2-3]: [SR 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361)
+[^2-4]: [SR 812.212.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9362)
+[^2-5]: [SR 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
 
 #### Art. 3
 
@@ -67,7 +67,7 @@ In Ergänzung zu dieser Verordnung gelten die Bestimmungen der:
 
 Als anerkannte Monografien und Vorschriften von Arzneibüchern gelten diejenigen, die in der Verordnung des Schweizerischen Heilmittelinstituts vom 9. November 2001[^3-1] über den Erlass der Pharmakopöe und die Anerkennung von Arzneibüchern als solche bezeichnet sind.
 
-[^3-1]: [SR 812.214.11](https://fedlex.data.admin.ch/eli/cc/2001/443)
+[^3-1]: [SR 812.214.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9373)
 
 #### Art. 4
 
@@ -153,10 +153,10 @@ Komplementär- und Phytoarzneimittel werden vereinfacht oder aufgrund einer Meld
 
 <sup>2</sup> Die Anforderungen an die Dokumentation zu Arzneimitteln für Nutztiere gemäss den Artikeln 9 und 10 AMZV bleiben vorbehalten.
 
-- [tab] <sup>3</sup> Für Komplementär- und Phytoarzneimittel, die Artikel 14 Absatz 1 Buchstaben a<sup>bis</sup>–a<sup>quater</sup> HMG entsprechen, gelten die Anforderungen gemäss den Artikeln 17*a*–17*d* VAZV[^6-2].
+<sup>3</sup> Für Komplementär- und Phytoarzneimittel, die Artikel 14 Absatz 1 Buchstaben a<sup>bis</sup>–a<sup>quater</sup> HMG entsprechen, gelten die Anforderungen gemäss den Artikeln 17*a*–17*d* VAZV[^6-2].
 
-[^6-1]: [SR 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
-[^6-2]: [SR 812.212.23](https://fedlex.data.admin.ch/eli/cc/2006/558)
+[^6-1]: [SR 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
+[^6-2]: [SR 812.212.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9367)
 
 #### Art. 7
 
@@ -193,7 +193,7 @@ Für die vereinfachte Zulassung von Phytoarzneimitteln sind der Swissmedic mit d
 
 <sup>2</sup> Es sind die für Phytoarzneimittel relevanten internationalen Richtlinien zu berücksichtigen.
 
-[^9-1]: [SR 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^9-1]: [SR 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 #### Art. 10
 
@@ -205,7 +205,7 @@ Für die vereinfachte Zulassung von Phytoarzneimitteln sind der Swissmedic mit d
 
 <sup>3</sup> Alle übrigen pflanzlichen Wirkstoffe und Hilfsstoffe gelten als toxikologisch neu. Für diese sind die Unterlagen gemäss Artikel 4 AMZV einzureichen.
 
-[^10-1]: [SR 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^10-1]: [SR 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 #### Art. 11
 
@@ -399,7 +399,7 @@ Für die vereinfachte Zulassung eines homöopathischen oder anthroposophischen A
 
 <sup>2</sup> Die Kennzeichnung von Arzneimitteln nach Artikel 25 Absatz 1 muss die Angaben nach Anhang 1*a* AMZV[^26-1] enthalten. Eine Arzneimittelinformation ist nicht erforderlich. Auf eine Packungsbeilage kann verzichtet werden, sofern alle erforderlichen Angaben auf den Packungstexten, insbesondere auf der Etikette und der äusseren Verpackung, angebracht werden können.
 
-[^26-1]: [SR 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^26-1]: [SR 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 ### 6. Abschnitt: Zulassung aufgrund einer Meldung von homöopathischen und anthroposophischen Arzneimitteln ohne Indikation und Arzneimitteln der Gemmotherapie ohne Indikation
 
@@ -457,7 +457,7 @@ Bei fixen Arzneimittelkombinationen ohne Indikation kann zudem auf die Vorlage e
 - a. auf klassischen Formulierungen entsprechender Standardwerke basieren, namentlich denjenigen, die auf der Liste der Standardwerke nach Anhang 9 aufgeführt sind; und
 - b. seit mindestens 10 Jahren in mindestens einem Land der EU oder EFTA als Arzneimittel in der Therapie eingesetzt werden.
 
-[^30-1]: [SR 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^30-1]: [SR 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 #### Art. 31
 
@@ -491,7 +491,7 @@ In die Liste TAS nach Anhang 10 aufgenommen werden Stoffe, die nachweislich die 
 
 <sup>2</sup> Die abgabeberechtigte Person muss sicherstellen, dass die von der Fachperson verschriebene oder empfohlene individuelle Dosierung auf dem Behälter oder Packungsmaterial angebracht wird. Allfällige Vorgaben betreffend Maximaldosierung sind zu berücksichtigen.
 
-[^33-1]: [SR 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^33-1]: [SR 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 #### Art. 34
 
@@ -501,7 +501,7 @@ In die Liste TAS nach Anhang 10 aufgenommen werden Stoffe, die nachweislich die 
 
 <sup>2</sup> Eine Arzneimittel-Fachinformation ist für asiatische Arzneimittel zur Individualtherapie nicht erforderlich.
 
-[^34-1]: [SR 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^34-1]: [SR 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 ## 6. Kapitel: Arzneimittel weiterer komplementärmedizinischer Therapierichtungen
 
@@ -534,7 +534,7 @@ Bei der Festlegung des Anwendungsgebiets sind die Prinzipien der entsprechenden 
 
 <sup>4</sup> Die Kennzeichnung von Arzneimitteln nach Artikel 27 richtet sich nach Artikel 44.
 
-[^36-1]: [SR 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^36-1]: [SR 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 ## 7. Kapitel: Zulassung aufgrund einer Meldung (Meldeverfahren)
 
@@ -616,7 +616,7 @@ Die Einzelmeldungen müssen für jede Arzneimittelgruppe eingereicht werden. Sie
 
 <sup>2</sup> Eine Arzneimittelinformation ist nicht erforderlich. Auf eine Packungsbeilage kann verzichtet werden, sofern alle erforderlichen Angaben gemäss den anwendbaren Anhängen der AMZV auf den Packungstexten angebracht werden können.
 
-[^42-1]: [SR 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^42-1]: [SR 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 #### Art. 43
 
@@ -624,7 +624,7 @@ Die Einzelmeldungen müssen für jede Arzneimittelgruppe eingereicht werden. Sie
 
 Die Kennzeichnung von Husten- und Halsbonbons sowie Pastillen muss die Angaben nach Anhang 1 AMZV[^43-1] enthalten. Es ist keine Arzneimittelinformation erforderlich.
 
-[^43-1]: [SR 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^43-1]: [SR 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 #### Art. 44
 
@@ -634,7 +634,7 @@ Die Kennzeichnung von Husten- und Halsbonbons sowie Pastillen muss die Angaben n
 
 <sup>2</sup> Eine Arzneimittelinformation ist nicht erforderlich. Auf eine Packungsbeilage kann verzichtet werden, sofern alle erforderlichen Angaben gemäss den zutreffenden Anhängen der AMZV auf den Packungstexten angebracht werden können.
 
-[^44-1]: [SR 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^44-1]: [SR 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 #### Art. 45
 
@@ -648,7 +648,7 @@ Die Kennzeichnung von Husten- und Halsbonbons sowie Pastillen muss die Angaben n
 
 <sup>4</sup> Die abgabeberechtigte Person muss sicherstellen, dass die von der Fachperson verschriebene oder empfohlene individuelle Dosierung auf dem Behälter oder dem Packungsmaterial angebracht wird. Allfällige Vorgaben betreffend Maximaldosierung sind bei individuellen Dosierungsvorgaben zu berücksichtigen.
 
-[^45-1]: [SR 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^45-1]: [SR 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 ## 8. Kapitel: Schlussbestimmungen
 
@@ -691,7 +691,7 @@ Anhang 1
 - 1\.3 Die Angaben auf dem Packungsmaterial müssen den Anforderungen gemäss Artikel 12 AMZV entsprechen und dürfen den Anhängen 4 und 5.3 AMZV nicht widersprechen.
 - 1\.4 Die Kennzeichnung und die Arzneimittelinformation für Tierarzneimittel müssen den Anforderungen nach Anhang 6 AMZV entsprechen.
 
-[^annex1-lvlu1-lvl1-1]: [SR 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^annex1-lvlu1-lvl1-1]: [SR 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 ### 2 Analytische, chemische und pharmazeutische Dokumentation
 
@@ -733,7 +733,7 @@ Für Phytoarzneimittel mit bekannten Wirkstoffen können die Heilwirkungen und d
 
 Die Anforderungen an die Zulassung von fixen Arzneimittelkombinationen sind in Artikel 6 AMZV in Verbindung mit Artikel 14*a* VAZV[^annex1-lvlu1-lvl5-1] enthalten.
 
-[^annex1-lvlu1-lvl5-1]: [SR 812.212.23](https://fedlex.data.admin.ch/eli/cc/2006/558)
+[^annex1-lvlu1-lvl5-1]: [SR 812.212.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9367)
 
 Anhang 2
 
@@ -753,7 +753,7 @@ Anhang 2
 - 1\.2 Die Anforderungen an die Patienteninformation richten sich nach Artikel 14 in Verbindung mit Anhang 5.2 AMZV.
 - 1\.3 Die Kennzeichnung und die Arzneimittelinformation für Tierarzneimittel müssen den Anforderungen nach Anhang 6 AMZV entsprechen.
 
-[^annex2-lvlu1-lvl1-1]: [SR 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^annex2-lvlu1-lvl1-1]: [SR 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 ### 2 Unterlagen zur Qualität
 
@@ -913,8 +913,8 @@ Anhang 3
 - 1\.10 Auf Master-Dossiers, die bereits im Rahmen des Meldeverfahrens vorgelegt wurden, kann Bezug genommen werden.
 - 1\.11 Für Einzelmittel, die in Bezug auf die qualitative Zusammensetzung und die Darreichungsform identisch, jedoch in unterschiedlicher Potenz oder Konzentration erhältlich sind, kann ein einziges Gesuch eingereicht werden. Die Anforderungen richten sich nach der niedrigsten der eingesetzten Potenzen.
 
-[^annex3-lvlu1-lvl1-1]: [SR 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
-[^annex3-lvlu1-lvl1-2]: [SR 812.121.1](https://fedlex.data.admin.ch/eli/cc/2011/362)
+[^annex3-lvlu1-lvl1-1]: [SR 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
+[^annex3-lvlu1-lvl1-2]: [SR 812.121.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9340)
 
 ### 2 Anforderungen an Unterlagen zur Bekanntheit für Stoffe und Potenzen
 
@@ -995,7 +995,7 @@ Anhang 4
 
 [^annex4-lvlu1-1]
 
-[^annex4-lvlu1-1]: Dieser Text wird in der AS und in der SR nicht publiziert (Art. 5 PublG; [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Er kann unter www.swissmedic.ch abgerufen werden.
+[^annex4-lvlu1-1]: Dieser Text wird in der AS und in der SR nicht publiziert (Art. 5 PublG; [SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)). Er kann unter: [www.swissmedic.ch](http://www.swissmedic.ch) abgerufen werden.
 
 Anhang 5[^t-1]
 
@@ -1006,7 +1006,7 @@ Anhang 5[^t-1]
 [^annex5-lvlu1-1]
 
 [^t-1]: Bereinigt gemäss Ziff. I der V des Institutsrats vom 7. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)).
-[^annex5-lvlu1-1]: Dieser Text wird in der AS und in der SR nicht publiziert (Art. 5 PublG; [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Er kann unter www.swissmedic.ch abgerufen werden.
+[^annex5-lvlu1-1]: Dieser Text wird in der AS und in der SR nicht publiziert (Art. 5 PublG; [SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)). Er kann unter: [www.swissmedic.ch](http://www.swissmedic.ch) abgerufen werden.
 
 Anhang 6[^t-2]
 
@@ -1016,10 +1016,10 @@ Anhang 6[^t-2]
 
 [^annex6-lvlu1-1]
 
-[^t-2]: Bereinigt gemäss Ziff. I der V des Institutsrats vom 7. Mai 2021 ([AS 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)) und vom 21. April 2023, in Kraft seit 1. Juli 2021 (AS **202****3** 220).
-[^annex6-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2023/220](https://fedlex.data.admin.ch/eli/oc/2023/220) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-2]: Bereinigt gemäss Ziff. I der V des Institutsrats vom 7. Mai 2021 ([AS 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)), vom 21. April 2023 ([AS 2023 220](https://fedlex.data.admin.ch/eli/oc/2023/220)) und vom 28. April 2025, in Kraft seit 1. Juli 2025 ([AS 2025 300](https://fedlex.data.admin.ch/eli/oc/2025/300)).
+[^annex6-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/300](https://fedlex.data.admin.ch/eli/oc/2025/300) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
-Anhang 7
+Anhang 7[^t-3]
 
 (Art. 15 Abs. 2 und 28)
 
@@ -1027,9 +1027,10 @@ Anhang 7
 
 [^annex7-lvlu1-1]
 
-[^annex7-lvlu1-1]: Dieser Text wird in der AS und in der SR nicht publiziert (Art. 5 PublG; [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Er kann unter www.swissmedic.ch abgerufen werden.
+[^t-3]: Bereinigt gemäss Ziff. I der V des Institutsrats vom 28. April 2025, in Kraft seit 1. Juli 2025 ([AS 2025 300](https://fedlex.data.admin.ch/eli/oc/2025/300)).
+[^annex7-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/300](https://fedlex.data.admin.ch/eli/oc/2025/300) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
-Anhang 8[^t-3]
+Anhang 8[^t-4]
 
 (Art. 27 Bst. b und 35 Abs. 2)
 
@@ -1037,10 +1038,10 @@ Anhang 8[^t-3]
 
 [^annex8-lvlu1-1]
 
-[^t-3]: Bereinigt gemäss Ziff. I der V des Institutsrats vom 7. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)).
-[^annex8-lvlu1-1]: Dieser Text wird in der AS und in der SR nicht publiziert (Art. 5 PublG; [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Er kann unter www.swissmedic.ch abgerufen werden.
+[^t-4]: Bereinigt gemäss Ziff. I der V des Institutsrats vom 7. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)).
+[^annex8-lvlu1-1]: Dieser Text wird in der AS und in der SR nicht publiziert (Art. 5 PublG; [SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)). Er kann unter: [www.swissmedic.ch](http://www.swissmedic.ch) abgerufen werden.
 
-Anhang 9[^t-4]
+Anhang 9[^t-5]
 
 (Art. 30 Abs. 2 und 31 Abs. 2)
 
@@ -1048,10 +1049,10 @@ Anhang 9[^t-4]
 
 [^annex9-lvlu1-1]
 
-[^t-4]: Bereinigt gemäss Ziff. I der V des Institutsrats vom 7. Mai 2021 ([AS 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)) und vom 21. April 2023, in Kraft seit 1. Juli 2021 ([AS 2023 220](https://fedlex.data.admin.ch/eli/oc/2023/220)).
-[^annex9-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2023/220](https://fedlex.data.admin.ch/eli/oc/2023/220) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-5]: Bereinigt gemäss Ziff. I der V des Institutsrats vom 7. Mai 2021 ([AS 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)) und vom 21. April 2023, in Kraft seit 1. Juli 2021 ([AS 2023 220](https://fedlex.data.admin.ch/eli/oc/2023/220)).
+[^annex9-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2023/220](https://fedlex.data.admin.ch/eli/oc/2023/220) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
-Anhang 10[^t-5]
+Anhang 10[^t-6]
 
 (Art. 31 Abs. 1, 32 und 45 Abs. 2)
 
@@ -1059,5 +1060,5 @@ Anhang 10[^t-5]
 
 [^annex10-lvlu1-1]
 
-[^t-5]: Bereinigt gemäss Ziff. I der V des Institutsrats vom 7. Mai 2021 ([AS 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)) und vom 21. April 2023, in Kraft seit 1. Juli 2021 ([AS 2023 220](https://fedlex.data.admin.ch/eli/oc/2023/220)).
-[^annex10-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2023/220](https://fedlex.data.admin.ch/eli/oc/2023/220) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-6]: Bereinigt gemäss Ziff. I der V des Institutsrats vom 7. Mai 2021 ([AS 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)), vom 21. April 2023 ([AS 2023 220](https://fedlex.data.admin.ch/eli/oc/2023/220)) und vom 28. April 2025, in Kraft seit 1. Juli 2025 ([AS 2025 300](https://fedlex.data.admin.ch/eli/oc/2025/300)).
+[^annex10-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/300](https://fedlex.data.admin.ch/eli/oc/2025/300) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.

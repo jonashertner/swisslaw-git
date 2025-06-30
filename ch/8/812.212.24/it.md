@@ -4,11 +4,11 @@ title: "Ordinanza del 7 settembre 2018 dell'Istituto svizzero per gli agenti ter
 short: OMCF
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/591"
 language: it
-version: 2023-07-01
+version: 2025-07-01
 adopted: 2018-09-07
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/591/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2018-591-20230701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/591/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/591/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2018-591-20250701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/591/20250701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/591/20230701/it"
 
 (Ordinanza sui medicamenti complementari e fitoterapeutici, OMCF)
 
-del 7 settembre 2018 (Stato 1° luglio 2023)
+del 7 settembre 2018 (Stato 1° luglio 2025)
 
 Il Consiglio dell’Istituto svizzero per gli agenti terapeutici (Consiglio dell’Istituto),
 
@@ -25,8 +25,8 @@ visti gli articoli 11 capoverso 4, 14 capoverso 1 lettere a<sup>bis</sup>–c<su
 
 ordina:
 
-[^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-2]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^ingress-2]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 ## Capitolo 1: Disposizioni generali
 
@@ -55,11 +55,11 @@ A complemento della presente ordinanza si applicano le disposizioni della:
 - b. ordinanza del 21 settembre 2018[^2-4] sui medicamenti;
 - c. ordinanza del 18 agosto 2004[^2-5] sui medicamenti veterinari.
 
-[^2-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
-[^2-2]: [RS 812.212.23](https://fedlex.data.admin.ch/eli/cc/2006/558)
-[^2-3]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
-[^2-4]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
-[^2-5]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^2-1]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
+[^2-2]: [RS 812.212.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9367)
+[^2-3]: [RS 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361)
+[^2-4]: [RS 812.212.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9362)
+[^2-5]: [RS 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
 
 #### Art. 3
 
@@ -67,7 +67,7 @@ A complemento della presente ordinanza si applicano le disposizioni della:
 
 Per monografie e disposizioni riconosciute delle farmacopee si intendono quelle che sono designate come tali nell’ordinanza dell’Istituto svizzero per gli agenti terapeutici del 9 novembre 2001[^3-1] concernente l’emanazione della farmacopea e il riconoscimento di altre farmacopee.
 
-[^3-1]: [RS 812.214.11](https://fedlex.data.admin.ch/eli/cc/2001/443)
+[^3-1]: [RS 812.214.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9373)
 
 #### Art. 4
 
@@ -155,8 +155,8 @@ I medicamenti complementari e fitoterapeutici sono omologati con procedura sempl
 
 <sup>3</sup> Per i medicamenti complementari e fitoterapeutici conformi all’articolo 14 capoverso 1 lettere a<sup>bis</sup>–a<sup>quater</sup> LATer si applicano i requisiti di cui agli articoli 17*a*–17*d* OOSM[^6-2].
 
-[^6-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
-[^6-2]: [RS 812.212.23](https://fedlex.data.admin.ch/eli/cc/2006/558)
+[^6-1]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
+[^6-2]: [RS 812.212.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9367)
 
 #### Art. 7
 
@@ -193,7 +193,7 @@ Per l’omologazione semplificata di medicamenti fitoterapeutici, insieme alla d
 
 <sup>2</sup> Si deve tenere conto delle direttive internazionali pertinenti ai medicamenti fitoterapeutici.
 
-[^9-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^9-1]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 #### Art. 10
 
@@ -205,7 +205,7 @@ Per l’omologazione semplificata di medicamenti fitoterapeutici, insieme alla d
 
 <sup>3</sup> Tutti gli altri principi attivi e sostanze ausiliarie vegetali sono considerati nuovi a livello tossicologico. Per questi occorre presentare la documentazione conformemente all’articolo 4 OOMed.
 
-[^10-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^10-1]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 #### Art. 11
 
@@ -399,7 +399,7 @@ Per l’omologazione semplificata di un medicamento omeopatico o antroposofico s
 
 <sup>2</sup> La caratterizzazione dei medicamenti di cui all’articolo 25 capoverso 1 deve contenere i dati di cui all’allegato 1*a* OOMed[^26-1]. Non è richiesta un’informazione sul medicamento. È possibile rinunciare al foglietto illustrativo, a condizione che tutti i dati necessari possano essere indicati nei testi della confezione, in particolare sull’etichetta e sull’imballaggio esterno.
 
-[^26-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^26-1]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 ### Sezione 6: Omologazione sulla base di una notifica di medicamenti omeopatici e antroposofici senza indicazione e di medicamenti della gemmoterapia senza indicazione
 
@@ -457,7 +457,7 @@ Per le combinazioni fisse di medicamenti senza indicazione è inoltre possibile 
 - a. si basano su formulazioni classiche delle corrispondenti opere di riferimento, segnatamente quelle presenti nella lista delle opere di riferimento di cui all’allegato 9; e
 - b. sono impiegate come medicamenti nella terapia da almeno dieci anni in almeno un Paese dell’UE o dell’AELS.
 
-[^30-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^30-1]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 #### Art. 31
 
@@ -491,7 +491,7 @@ Nella lista STA di cui all’allegato 10 sono iscritte le sostanze che soddisfan
 
 <sup>2</sup> Il professionista autorizzato a dispensare deve assicurarsi che la posologia individuale prescritta o raccomandata dallo specialista figuri sul contenitore o la confezione. Si deve tenere conto delle eventuali direttive concernenti la dose massima.
 
-[^33-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^33-1]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 #### Art. 34
 
@@ -501,7 +501,7 @@ Nella lista STA di cui all’allegato 10 sono iscritte le sostanze che soddisfan
 
 <sup>2</sup> Un’informazione professionale sui medicamenti non è necessaria per i medicamenti asiatici per la terapia individuale.
 
-[^34-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^34-1]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 ## Capitolo 6: Medicamenti di altri indirizzi terapeutici della medicina complementare
 
@@ -534,7 +534,7 @@ Nel definire il settore di applicazione occorre tener conto dei principi dell’
 
 <sup>4</sup> La caratterizzazione dei medicamenti di cui all’articolo 27 è retta dall’articolo 44.
 
-[^36-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^36-1]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 ## Capitolo 7: Omologazione sulla base di una notifica (procedura di notifica)
 
@@ -616,7 +616,7 @@ Le notifiche singole devono essere presentate per ogni gruppo di medicamenti. Es
 
 <sup>2</sup> Non è richiesta un’informazione sul medicamento. È possibile rinunciare al foglietto illustrativo, a condizione che tutti i dati necessari secondo gli allegati applicabili dell’OOMed possano essere indicati nei testi della confezione.
 
-[^42-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^42-1]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 #### Art. 43
 
@@ -624,7 +624,7 @@ Le notifiche singole devono essere presentate per ogni gruppo di medicamenti. Es
 
 La caratterizzazione delle caramelle e pasticche contro la tosse e il mal di gola deve contenere i dati di cui all’allegato 1 OOMed[^43-1]. Non è richiesta un’informazione sul medicamento.
 
-[^43-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^43-1]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 #### Art. 44
 
@@ -634,7 +634,7 @@ La caratterizzazione delle caramelle e pasticche contro la tosse e il mal di gol
 
 <sup>2</sup> Non è richiesta un’informazione sul medicamento. È possibile rinunciare al foglietto illustrativo, a condizione che tutti i dati necessari secondo gli allegati corrispondenti dell’OOMed possano essere indicati nei testi della confezione.
 
-[^44-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^44-1]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 #### Art. 45
 
@@ -648,7 +648,7 @@ La caratterizzazione delle caramelle e pasticche contro la tosse e il mal di gol
 
 <sup>4</sup> Il professionista autorizzato a dispensare deve assicurarsi che la posologia individuale prescritta o raccomandata dallo specialista figuri sul contenitore o sulla confezione. Per le prescrizioni della posologia individuale si deve tenere conto delle eventuali direttive concernenti la dose massima.
 
-[^45-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^45-1]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 ## Capitolo 8: Disposizioni finali
 
@@ -691,7 +691,7 @@ Allegato 1
 - 1\.3 I dati sulla confezione devono essere conformi ai requisiti di cui all’articolo 12 OOMed e non essere in contraddizione con gli allegati 4 e 5.3 OOMed.
 - 1\.4 La caratterizzazione e l’informazione sul medicamento per i medicamenti veterinari devono soddisfare i requisiti di cui all’allegato 6 OOMed.
 
-[^annex1-lvlu1-lvl1-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^annex1-lvlu1-lvl1-1]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 ### 2 Documentazione analitica, chimica e farmaceutica
 
@@ -733,7 +733,7 @@ Per i medicamenti fitoterapeutici con principi attivi noti, le proprietà terape
 
 I requisiti per l’omologazione delle combinazioni fisse di medicamenti figurano nell’articolo 6 OOMed in combinato disposto con l’articolo 14*a* OOSM[^annex1-lvlu1-lvl5-1].
 
-[^annex1-lvlu1-lvl5-1]: [RS 812.212.23](https://fedlex.data.admin.ch/eli/cc/2006/558)
+[^annex1-lvlu1-lvl5-1]: [RS 812.212.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9367)
 
 Allegato 2
 
@@ -753,7 +753,7 @@ Allegato 2
 - 1\.2 I requisiti dell’informazione destinata ai pazienti sono retti dall’articolo 14 in combinato disposto con l’allegato 5.2 OOMed.
 - 1\.3 La caratterizzazione e l’informazione sul medicamento concernenti i medicamenti veterinari devono soddisfare i requisiti di cui all’allegato 6 OOMed.
 
-[^annex2-lvlu1-lvl1-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^annex2-lvlu1-lvl1-1]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 ### 2 Documenti sulla qualità
 
@@ -913,8 +913,8 @@ Allegato 3
 - 1\.10 È possibile far riferimento ai Master-Dossier che sono già stati presentati nel quadro della procedura di notifica.
 - 1\.11 Per i rimedi unitari la cui composizione qualitativa coincide con la forma farmaceutica, ma che sono disponibili in potenze o concentrazioni differenti, può essere presentata un’unica domanda. I requisiti dipendono dalle potenze più basse impiegate.
 
-[^annex3-lvlu1-lvl1-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
-[^annex3-lvlu1-lvl1-2]: [RS 812.121.1](https://fedlex.data.admin.ch/eli/cc/2011/362)
+[^annex3-lvlu1-lvl1-1]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
+[^annex3-lvlu1-lvl1-2]: [RS 812.121.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9340)
 
 ### 2 Requisiti relativi ai documenti sulla notorietà di sostanze e potenze
 
@@ -993,7 +993,7 @@ Allegato 4[^t-1]
 
 ## Lista «Droghe per tisane»
 
-[^t-1]: Il testo del presente all. non è pubblicato né nella RU né nella RS (art. 5 LPubb; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). È disponibile online all’indirizzo: www.swissmedic.ch
+[^t-1]: Il testo del presente all. non è pubblicato né nella RU né nella RS (art. 5 LPubb; [RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)). È disponibile online all’indirizzo: www.swissmedic.ch
 
 Allegato 5[^t-2]
 
@@ -1011,8 +1011,8 @@ Allegato 6[^t-3]
 
 [^annex6-lvlu1-1]
 
-[^t-3]: Aggiornato dal n. I dell’O del Consiglio dell’Istituto del 7 mag. 2021 ([RU 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)) e 21 apr. 2023, in vigore dal 1° lug. 2023 ([RU 2023 220](https://fedlex.data.admin.ch/eli/oc/2023/220)).
-[^annex6-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo https://fedlex.data.admin.ch/eli/oc/2023/220 &gt; Informazioni generali &gt; Portata del-la pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-3]: Aggiornato dalla cifra I dell’O del Consiglio dell’Istituto del 7 mag. 2021 ([RU 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)), del 21 apr. 2023 ([RU 2023 220](https://fedlex.data.admin.ch/eli/oc/2023/220)) e del 28 apr. 2025, in vigore dal 1° lug. 2025 ([RU 2025 300](https://fedlex.data.admin.ch/eli/oc/2025/300)).
+[^annex6-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/300](https://fedlex.data.admin.ch/eli/oc/2025/300) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 7[^t-4]
 
@@ -1020,7 +1020,10 @@ Allegato 7[^t-4]
 
 ## Lista SC
 
-[^t-4]: Il testo del presente all. non è pubblicato né nella RU né nella RS (art. 5 LPubb; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). È disponibile online all’indirizzo: www.swissmedic.ch.
+[^annex7-lvlu1-1]
+
+[^t-4]: Aggiornato dalla cifra I dell’O del Consiglio dell’Istituto del 28 apr. 2025, in vigore dal 1° lug. 2025 ([RU 2025 300](https://fedlex.data.admin.ch/eli/oc/2025/300)).
+[^annex7-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/300](https://fedlex.data.admin.ch/eli/oc/2025/300) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 8[^t-5]
 
@@ -1038,7 +1041,7 @@ Allegato 9[^t-6]
 
 [^annex9-lvlu1-1]
 
-[^t-6]: Aggiornato dal n. I dell’O del Consiglio dell’Istituto del 7 mag. 2021 ([RU 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)) e 21 apr. 2023, in vigore dal 1° lug. 2023 ([RU 2023 220](https://fedlex.data.admin.ch/eli/oc/2023/220)).
+[^t-6]: Aggiornato dalla cifra I dell’O del Consiglio dell’Istituto del 7 mag. 2021 ([RU 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)) e 21 apr. 2023, in vigore dal 1° lug. 2023 ([RU 2023 220](https://fedlex.data.admin.ch/eli/oc/2023/220)).
 [^annex9-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo https://fedlex.data.admin.ch/eli/oc/2023/220 &gt; Informazioni generali &gt; Portata del-la pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 10[^t-7]
@@ -1049,5 +1052,5 @@ Allegato 10[^t-7]
 
 [^annex10-lvlu1-1]
 
-[^t-7]: Aggiornato dal n. I dell’O del Consiglio dell’Istituto del 7 mag. 2021 ([RU 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)) e 21 apr. 2023, in vigore dal 1° lug. 2023 ([RU 2023 220](https://fedlex.data.admin.ch/eli/oc/2023/220)).
-[^annex10-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo https://fedlex.data.admin.ch/eli/oc/2023/220 &gt; Informazioni generali &gt; Portata del-la pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-7]: Aggiornato dalla cifra I dell’O del Consiglio dell’Istituto del 7 mag. 2021 ([RU 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)), del 21 apr. 2023 ([RU 2023 220](https://fedlex.data.admin.ch/eli/oc/2023/220)) e del 28 apr. 2025, in vigore dal 1° lug. 2025 ([RU 2025 300](https://fedlex.data.admin.ch/eli/oc/2025/300)).
+[^annex10-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/300](https://fedlex.data.admin.ch/eli/oc/2025/300) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.

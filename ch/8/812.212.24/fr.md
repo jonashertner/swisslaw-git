@@ -4,11 +4,11 @@ title: "Ordonnance du 7 septembre 2018 de l'Institut suisse des produits thérap
 short: OAMédcophy
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/591"
 language: fr
-version: 2023-07-01
+version: 2025-07-01
 adopted: 2018-09-07
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/591/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2018-591-20230701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/591/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/591/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2018-591-20250701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/591/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/591/20230701/fr"
 
 (Ordonnance sur les médicaments complémentaires et les phytomédicaments, OAMédcophy)
 
-du 7 septembre 2018 (État le 1<sup>er</sup> juillet 2023)
+du 7 septembre 2018 (État le 1<sup>er</sup> juillet 2025)
 
 Le Conseil de l’Institut suisse des produits thérapeutiques (Conseil de l’institut),
 
@@ -25,8 +25,8 @@ vu les art. 11, al. 4, 14, al. 1, let. a<sup>bis</sup> à c<sup>bis</sup>, 15, a
 
 arrête:
 
-[^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-2]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^ingress-2]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 ## Chapitre 1 Dispositions générales
 
@@ -55,11 +55,11 @@ En complément à ces ordonnances, s’appliquent les dispositions:
 - b. de l’ordonnance du 21 septembre 2018 sur les médicaments[^2-4];
 - c. de l’ordonnance du 18 août 2004 sur les médicaments vétérinaires [^2-5].
 
-[^2-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
-[^2-2]: [RS 812.212.23](https://fedlex.data.admin.ch/eli/cc/2006/558)
-[^2-3]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
-[^2-4]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
-[^2-5]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^2-1]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
+[^2-2]: [RS 812.212.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9367)
+[^2-3]: [RS 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361)
+[^2-4]: [RS 812.212.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9362)
+[^2-5]: [RS 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
 
 #### Art. 3
 
@@ -67,7 +67,7 @@ En complément à ces ordonnances, s’appliquent les dispositions:
 
 Sont considérées comme monographies et exigences reconnues de pharmacopées celles désignées comme telles dans l’ordonnance de l’Institut suisse des produits thérapeutiques du 9 novembre 2001 concernant l’édiction de la pharmacopée et la reconnaissance d’autres pharmacopées[^3-1].
 
-[^3-1]: [RS 812.214.11](https://fedlex.data.admin.ch/eli/cc/2001/443)
+[^3-1]: [RS 812.214.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9373)
 
 #### Art. 4
 
@@ -151,12 +151,12 @@ Peuvent faire l’objet d’une autorisation simplifiée ou être autorisés par
 
 <sup>1</sup> Les exigences concernant la documentation reposent sur les art. 4 et 8 à 10 OEMéd[^6-1], dans la mesure où il n’est pas possible de présenter des justificatifs bibliographiques ou des données d’application relatifs à l’efficacité et à la sécurité (art. 14*a*, al. 1, let. d et e, LPTh).
 
-2 Les exigences en vertu des art. 9 et 10 OEMéd relatives à la documentation concernant les médicaments vétérinaires destinés aux animaux de rente demeurent réservées.
+<sup>2</sup> Les exigences en vertu des art. 9 et 10 OEMéd relatives à la documentation concernant les médicaments vétérinaires destinés aux animaux de rente demeurent réservées.
 
 <sup>3</sup> Les exigences au sens des art. 17*a* à 17*d* OASMéd[^6-2] s’appliquent en outre aux médicaments complémentaires et aux phytomédicaments au sens de l’art. 14, al. 1, let. a<sup>bis</sup> à a<sup>quater</sup>, LPTh.
 
-[^6-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
-[^6-2]: [RS 812.212.23](https://fedlex.data.admin.ch/eli/cc/2006/558)
+[^6-1]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
+[^6-2]: [RS 812.212.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9367)
 
 #### Art. 7
 
@@ -193,7 +193,7 @@ Une demande d’autorisation simplifiée accompagnée des documents requis à l�
 
 <sup>2</sup> Il y a lieu de prendre en considération les directives internationales pertinentes pour les phytomédicaments.
 
-[^9-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^9-1]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 #### Art. 10
 
@@ -205,7 +205,7 @@ Une demande d’autorisation simplifiée accompagnée des documents requis à l�
 
 <sup>3</sup> Tous les autres principes actifs et excipients végétaux sont considérés comme toxicologiquement nouveaux. Il convient alors de présenter les documents en vertu de l’art. 4 OEMéd.
 
-[^10-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^10-1]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 #### Art. 11
 
@@ -399,7 +399,7 @@ Une demande d’autorisation simplifiée doit être déposée auprès de Swissme
 
 <sup>2</sup> L’étiquetage de médicaments au sens de l’art. 25, al. 1, doit contenir les données énoncées à l’annexe 1*a* OEMéd[^26-1]. Une information sur le médicament n’est pas nécessaire. Il est possible de renoncer à toute notice d’emballage lorsqu’il est possible de faire figurer toutes les données requises sur les textes d’emballage, notamment sur l’étiquette et l’emballage extérieur.
 
-[^26-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^26-1]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 ### Section 6 Autorisation par déclaration des médicaments homéopathiques et anthroposophiques sans indication et des médicaments de gemmothérapie sans indication
 
@@ -457,7 +457,7 @@ Pour les associations médicamenteuses fixes sans indication, il est en outre po
 - a. que ces associations reposent sur des formulations classiques des ouvrages de référence correspondants, notamment ceux cités dans la liste des ouvrages de référence selon l’annexe 9, et
 - b. qu’elles sont utilisées en thérapie depuis au moins dix ans dans au moins un pays de l’UE ou de l’AELE.
 
-[^30-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^30-1]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 #### Art. 31
 
@@ -491,7 +491,7 @@ Pour qu’une substance figure dans la liste SAT selon l’annexe 10, il convien
 
 <sup>2</sup> La personne habilitée à remettre ces médicaments doit s’assurer que la posologie individuelle prescrite ou recommandée par le spécialiste est inscrite sur le récipient ou le matériel d’emballage. Les éventuelles instructions concernant la posologie maximale doivent être respectées.
 
-[^33-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^33-1]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 #### Art. 34
 
@@ -501,7 +501,7 @@ Pour qu’une substance figure dans la liste SAT selon l’annexe 10, il convien
 
 <sup>2</sup> Une information professionnelle sur le médicament n’est pas nécessaire pour les médicaments asiatiques destinés à une thérapie individuelle.
 
-[^34-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^34-1]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 ## Chapitre 6 Médicaments dans une autre orientation thérapeutique de la médecine complémentaire
 
@@ -534,7 +534,7 @@ Pour définir le champ d’application du médicament, il convient de tenir comp
 
 <sup>4</sup> L’étiquetage des médicaments au sens de l’art. 27 se fonde sur l’art. 44.
 
-[^36-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^36-1]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 ## Chapitre 7 Autorisation par déclaration (procédure de déclaration)
 
@@ -616,7 +616,7 @@ Des déclarations individuelles doivent être déposées pour chaque groupe de m
 
 <sup>2</sup> Une information sur le médicament n’est pas nécessaire. Il est possible de renoncer à toute notice d’emballage lorsque toutes les indications exigées selon les annexes applicables de l’OEMéd peuvent figurer sur les textes d’emballage.
 
-[^42-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^42-1]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 #### Art. 43
 
@@ -624,7 +624,7 @@ Des déclarations individuelles doivent être déposées pour chaque groupe de m
 
 L’étiquetage des bonbons et pastilles pour la gorge et contre la toux doit présenter les données énoncées à l’annexe 1 OEMéd[^43-1]. Aucune information sur le médicament n’est nécessaire.
 
-[^43-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^43-1]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 #### Art. 44
 
@@ -634,7 +634,7 @@ L’étiquetage des bonbons et pastilles pour la gorge et contre la toux doit pr
 
 <sup>2</sup> Une information sur le médicament n’est pas nécessaire. Il est possible de renoncer à toute notice d’emballage lorsque toutes les indications exigées selon les annexes applicables de l’OEMéd peuvent figurer sur les textes d’emballage.
 
-[^44-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^44-1]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 #### Art. 45
 
@@ -648,7 +648,7 @@ L’étiquetage des bonbons et pastilles pour la gorge et contre la toux doit pr
 
 <sup>4</sup> La personne habilitée à remettre ces médicaments doit s’assurer que la posologie individuelle prescrite ou recommandée par le spécialiste est inscrite sur le récipient ou le matériel d’emballage. Les éventuelles instructions concernant la posologie maximale pour déterminer les instructions posologiques individuelles doivent être respectées.
 
-[^45-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^45-1]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 ## Chapitre 8 Dispositions finales
 
@@ -691,7 +691,7 @@ Annexe 1
 - 1\.3 Les données figurant sur le matériel d’emballage doivent répondre aux exigences énoncées à l’art. 12 OEMéd et ne pas être en contradiction avec les dispositions des annexes 4 et 5.3 OEMéd.
 - 1\.4 L’étiquetage et l’information sur un médicament vétérinaire doivent satisfaire aux exigences fixées par l’annexe 6 OEMéd.
 
-[^annex1-lvlu1-lvl1-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^annex1-lvlu1-lvl1-1]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 ### 2 Documentation analytique, chimique et pharmaceutique
 
@@ -733,7 +733,7 @@ Le requérant peut prouver les effets thérapeutiques et la sécurité des phyto
 
 Les exigences à respecter pour l’autorisation d’associations fixes de médicaments sont définies à l’art. 6 OEMéd, en relation avec l’art. 14*a* OASMéd[^annex1-lvlu1-lvl5-1].
 
-[^annex1-lvlu1-lvl5-1]: [RS 812.212.23](https://fedlex.data.admin.ch/eli/cc/2006/558)
+[^annex1-lvlu1-lvl5-1]: [RS 812.212.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9367)
 
 Annexe 2
 
@@ -753,7 +753,7 @@ Annexe 2
 - 1\.2 Les exigences relatives à l’information destinée aux patients découlent de l’art. 14 en relation avec l’annexe 5.2 OEMéd.
 - 1\.3 L’étiquetage et l’information sur un médicament vétérinaire doivent satisfaire aux exigences fixées par l’annexe 6 OEMéd.
 
-[^annex2-lvlu1-lvl1-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^annex2-lvlu1-lvl1-1]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 ### 2 Documentation sur la qualité
 
@@ -913,8 +913,8 @@ Annexe 3
 - 1\.10 Il peut être fait référence aux dossiers maîtres qui ont déjà été présentés dans le cadre de la procédure de déclaration.
 - 1\.11 Pour les unitaires qui, du point de vue de la composition qualitative et de la forme pharmaceutique, sont identiques mais qui sont présents dans le médicament à des concentrations ou dilutions différentes, il est possible de ne déposer qu’une seule demande. Les exigences à remplir sont celles applicables à la dilution la plus faible.
 
-[^annex3-lvlu1-lvl1-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
-[^annex3-lvlu1-lvl1-2]: [RS 812.121.1](https://fedlex.data.admin.ch/eli/cc/2011/362)
+[^annex3-lvlu1-lvl1-1]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
+[^annex3-lvlu1-lvl1-2]: [RS 812.121.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9340)
 
 ### 2 Documents requis pour évaluer la notoriété de substances et de dilutions
 
@@ -993,7 +993,7 @@ Annexe 4[^t-1]
 
 ## Liste des tisanes
 
-[^t-1]: Le texte de la présente annexe n’est pas publié au RO (art. 5 LPubl; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il est consultable sur Internet, à l’adresse: www.swissmedic.ch.
+[^t-1]: Le texte de la présente annexe n’est pas publié au RO (art. 5 LPubl; [RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)). Il est consultable sur Internet, à l’adresse: www.swissmedic.ch.
 
 Annexe 5[^t-2]
 
@@ -1011,8 +1011,8 @@ Annexe 6[^t-3]
 
 [^annex6-lvlu1-1]
 
-[^t-3]: Mise à jour par le ch. I des O du Conseil de l’institut du 7 mai 2021 ([RO 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)) et du 21 avr. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 220](https://fedlex.data.admin.ch/eli/oc/2023/220)).
-[^annex6-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/220](https://fedlex.data.admin.ch/eli/oc/2023/220) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-3]: Mise à jour par le ch. I des O du Conseil de l’institut du 7 mai 2021 ([RO 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)), du 21 avr. 2023 ([RO 2023 220](https://fedlex.data.admin.ch/eli/oc/2023/220)) et du 28 avr. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 300](https://fedlex.data.admin.ch/eli/oc/2025/300)).
+[^annex6-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/300](https://fedlex.data.admin.ch/eli/oc/2025/300) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 7[^t-4]
 
@@ -1020,7 +1020,10 @@ Annexe 7[^t-4]
 
 ## Liste SC
 
-[^t-4]: Le texte de la présente annexe n’est pas publié au RO (art. 5 LPubl; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il est consultable sur Internet, à l’adresse: www.swissmedic.ch.
+[^annex7-lvlu1-1]
+
+[^t-4]: Mise à jour par le ch. I de l’O du Conseil de l’institut du 28 avr. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 300](https://fedlex.data.admin.ch/eli/oc/2025/300)).
+[^annex7-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/300](https://fedlex.data.admin.ch/eli/oc/2025/300) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 8[^t-5]
 
@@ -1049,5 +1052,5 @@ Annexe 10[^t-7]
 
 [^annex10-lvlu1-1]
 
-[^t-7]: Mise à jour par le ch. I des O du Conseil de l’institut du 7 mai 2021 ([RO 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)) et du 21 avr. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 220](https://fedlex.data.admin.ch/eli/oc/2023/220)).
-[^annex10-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/220](https://fedlex.data.admin.ch/eli/oc/2023/220) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-7]: Mise à jour par le ch. I des O du Conseil de l’institut du 7 mai 2021 ([RO 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)), du 21 avr. 2023 ([RO 2023 220](https://fedlex.data.admin.ch/eli/oc/2023/220)) et du 28 avr. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 300](https://fedlex.data.admin.ch/eli/oc/2025/300)).
+[^annex10-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/300](https://fedlex.data.admin.ch/eli/oc/2025/300) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
