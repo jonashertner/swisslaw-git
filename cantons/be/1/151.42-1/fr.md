@@ -3,20 +3,19 @@ canton: BE
 number: 151.42-1
 title: Accord de la Conférence des Gouvernements de la Suisse du Nord-Ouest
 language: fr
-version: 2012-07-01
-valid_until: 2025-06-30
-version_adopted: 2012-06-08
+version: 2025-07-01
+version_adopted: 2025-06-13
 adopted: 2004-06-11
 in_force: 2004-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/151.42-1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1138/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3197/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
 # Accord de la Conférence des Gouvernements de la Suisse du Nord-Ouest
 
-du 11.06.2004 (état au 01.07.2012)
+du 11.06.2004 (état au 01.07.2025)
 
 Les gouvernements des cantons de Soleure, Bâle-Ville, Bâle-Campagne, Argovie et Jura
 
@@ -57,6 +56,8 @@ concluent l'accord suivant:
 
 <sup>3</sup> Le traitement des questions urgentes est réalisé dans le cadre du Comité directeur.
 
+<sup>4</sup> Le Comité directeur peut convoquer une Assemblée plénière extraordinaire ou proposer aux cinq gouvernements de prendre une décision par voie de circulation.
+
 #### Art. 5
 
 <sup>1</sup> L'Assemblée plénière élit, sur la base d'un tournus entre les cantons de Soleure, Bâle-Ville, Bâle-Campagne, Argovie et Jura, un membre d'un gouvernement comme président ou présidente. La suppléance est assurée par le canton suivant dans l'ordre de la succession à la présidence.
@@ -83,7 +84,7 @@ concluent l'accord suivant:
 
 <sup>4</sup> Pour le traitement de dossiers spécifiques, le Comité directeur peut constituer des groupes de travail ou d'autres instances.
 
-<sup>5</sup> Le président ou la présidente est délégué-e dans le Bureau de la Conférence des Gouvernements Cantonaux.
+<sup>5</sup> Le Comité directeur désigne un de ses membres pour faire partie du Bureau de la Conférence des Gouvernements Cantonaux, pour une durée maximale de quatre ans.
 
 #### Art. 8
 
@@ -97,9 +98,9 @@ concluent l'accord suivant:
 - f La mise en place et le maintien d'un réseau de relations avec les parlementaires fédéraux, les offices de l'administration fédérale ainsi que les autres grandes régions;
 - g La nomination de membres de la Conférence des Gouvernements de la Suisse du Nord-Ouest pour les organismes dans la Conférence des Gouvernements Cantonaux;
 - h La mise en place d'autres groupes de travail et de mandataires;
-- i La réglementation des versements financiers pour les dépenses ordinaires et extraordinaires en vertu de l'accord pour la Conférence interparlementaire de la Suisse du Nord-Ouest de 7 décembre 1978[^8-1].
+- i La réglementation des versements financiers pour les dépenses ordinaires et extraordinaires en vertu de la Convention du 14 juin 2022 sur la Conférence interparlementaire de la Suisse du Nord-Ouest[^8-1].
 
-[^8-1]: RSB 151.41-1
+[^8-1]: RSB [151.41-1](https://www.belex.sites.be.ch/data/151.41-1/fr)
 
 #### Art. 9
 
@@ -107,7 +108,7 @@ concluent l'accord suivant:
 
 #### Art. 10
 
-<sup>1</sup> L'accord du 21 janvier 1972 sur l'information mutuelle et la coopération des cantons de la Suisse du Nord-Ouest et le règlement du 9 juin 1972 relatif à l'information mutuelle des gouvernements cantonaux de la Suisse du Nord-Ouest (Règlement sur l'information) est abrogé.
+<sup>1</sup> L'accord du 21 janvier 1972 sur l'information mutuelle et la coopération des cantons de la Suisse du Nord-Ouest et le règlement du 9 juin 1972 relatif à l'information mutuelle des gouvernements cantonaux de la Suisse du Nord-Ouest (Règlement sur l'information) sont abrogés.
 
 <sup>2</sup> Cet accord entre en vigueur le 1<sup>er</sup> juillet 2004.
 
