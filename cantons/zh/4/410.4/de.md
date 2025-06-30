@@ -3,11 +3,10 @@ canton: ZH
 number: "410.4"
 title: Gesetz über den Beitritt des Kantons Zürich zur Interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen
 language: de
-version: "2017-01-01"
-nachtrag: "118"
-valid_until: 2025-07-01
+version: "2025-07-01"
+nachtrag: "130"
 adopted: 1996-09-22
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-410_4-1996_09_22-1997_04_01-118.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-410_4-1996_09_22-1997_04_01-130.html"
 text: pdf
 ---
 
@@ -51,7 +50,7 @@ Die Vereinbarung hat folgenden Wortlaut:
 
 **1**
 
-1.10. 22 - 118
+1.10. 25 - 130
 
 <sup>2</sup> Die Zusammenarbeit mit dem Bund erfolgt insbesondere in den Bereichen:
 
@@ -137,7 +136,7 @@ Die Vereinbarung hat folgenden Wortlaut:
 
 **3**
 
-1.10. 22 - 118
+1.10. 25 - 130
 
 #### Art. 9
 
@@ -189,7 +188,7 @@ Art. 12<sup>bis</sup> <sup>8</sup> Liste über Lehrpersonen ohne Unterrichtsbere
 
 **5**
 
-1.10. 22 - 118
+1.10. 25 - 130
 
 <sup>4</sup> Nach Ablauf der Entzugsdauer, bei Wiedererteilung der Unterrichtsberechtigung oder nach Vollendung des 70. Altersjahrs wird der Eintrag gelöscht.
 
@@ -231,7 +230,7 @@ Art. 12<sup>ter</sup> <sup>11</sup> Register über Gesundheitsfachpersonen
 
 **7**
 
-1.10. 22 - 118
+1.10. 25 - 130
 
 #### Art. 14
 
@@ -261,17 +260,19 @@ in Bern, am 18. Februar 1993
 
 Dieses Gesetz untersteht der Volksabstimmung. Der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens[^4_2-1] und erlässt die notwendigen Übergangsbestimmungen.
 
-[^5_2-1]: SR 935.01.
+[^5_2-1]: Fassung gemäss B der GDK vom 26. Juni 2025. In Kraft seit 1. Juli 2025.
 
 ### Anhang gemäss Art. 12<sup>ter</sup> Abs. 1
 
 [^5_2-1]
 
-Chiropraktorinnen und Chiropraktoren Osteopathinnen und Osteopathen Pflegefachfrauen und -fachmänner Krankenschwestern und -pfleger in allgemeiner Krankenpflege Krankenschwestern und -pfleger in psychiatrischer Krankenpflege Krankenschwestern und -pfleger in Kinderkrankenpflege, Wochen- und Säuglingspflege Krankenschwestern und -pfleger in integrierter Krankenpflege Pflegefachfrauen und -fachmänner DN I Krankenpflegerinnen und -pfleger FA SRK Gesundheitsschwestern und -pfleger Technische Operationsfachfrauen und -fachmänner Rettungssanitäterinnen und Rettungssanitäter Hebammen Medizinische Laborantinnen und Laboranten Podologinnen und Podologen Medizinische Masseurinnen und Masseure Fachleute in medizinisch-technischer Radiologie Orthoptistinnen und Orthoptisten Ernährungsberaterinnen und -berater Ergotherapeutinnen und Ergotherapeuten Physiotherapeutinnen und Physiotherapeuten Dentalhygienikerinnen und Dentalhygieniker Fachangestellte Gesundheit
+Dipl. Logopäde und Logopädin (EDK) Master of Science FH in Ergotherapie Master of Science FH in Ernährung und Diätetik Master of Science FH in Hebamme Master of Science FH in Physiotherapie Master of Science FH in Pflege / Master of Science in Nursing Naturheilpraktikerin und Naturheilpraktiker mit eidgenössischem Diplom Aktivierungsfachfrau und Aktivierungsfachmann HF Biomedizinische Analytikerin und biomedizinischer Analytiker HF Bachelor of Science in Biomedizinischer Labordiagnostik Dentalhygienikerin und Dentalhygieniker HF Drogistin und Drogist HF Radiologiefachfrau und Radiologiefachmann HF Bachelor of Science in Medizinisch-technischer Radiologie Fachfrau und Fachmann Operationstechnik HF Orthoptistin und Orthoptist HF Podologin und Podologe HF Rettungssanitäterin und Rettungssanitäter HF Augenoptikerin und Augenoptiker EFZ mit kantonaler Berufsausübungsbewilligung Podologin und Podologe EFZ mit kantonaler Berufsausübungsbewilligung Medizinische Masseurin und medizinischer Masseur mit eidgenössischem Fachausweis
+
+Das Register über Gesundheitsfachpersonen gemäss Artikel 12<sup>ter</sup> der Interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen umfasst zudem Angaben zu Personen mit Ausbildungsabschlüssen gemäss Artikel 8 bis 14 der Gesundheitsberufeanerkennungsverordnung (SR 811.214), die über keine Berufsausübungsbewilligung verfügen.
 
 **9**
 
-1.10. 22 - 118
+1.10. 25 - 130
 
 ## Weitere Fussnoten
 
@@ -280,6 +281,7 @@ Chiropraktorinnen und Chiropraktoren Osteopathinnen und Osteopathen Pflegefachfr
 - [4] Heute: Bundesgesetz über das Bundesgericht vom 17. Juni 2005 (SR 173.110).
 - [5] SR 414.71.
 - [6] SR 831.10.
+- [7] SR 935.01.
 - [8] Eingefügt durch B der EDK vom 16. Juni 2005 (OS 63, 159; ABl 2008, 540). In Kraft seit 1. Januar 2008.
 - [9] Fassung gemäss B der EDK vom 16. Juni 2005 (OS 63, 159; ABl 2008, 540). In Kraft seit 1. Januar 2008.
 - [10] Aufgehoben durch B der EDK vom 16. Juni 2005 (OS 63, 159; ABl 2008, 540). In Kraft seit 1. Januar 2008.
