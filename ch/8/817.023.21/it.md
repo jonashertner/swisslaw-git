@@ -3,11 +3,11 @@ sr: "817.023.21"
 title: Ordinanza del DFI del 16 dicembre 2016 sui materiali e gli oggetti destinati a entrare in contatto con le derrate alimentari (Ordinanza sui materiali e gli oggetti)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/164"
 language: it
-version: 2025-01-01
+version: 2025-07-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2017-164-20250101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2017-164-20250701-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20250701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20250101/it"
 
 (Ordinanza sui materiali e gli oggetti)
 
-del 16 dicembre 2016 (Stato 1° gennaio 2025)
+del 16 dicembre 2016 (Stato 1° luglio 2025)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -441,7 +441,7 @@ Le paraffine e le cere destinate alla fabbricazione di contenitori a diretto con
 - b. essere prive di sostanze cancerogene.
 
 [^28-1]: Nuovo testo giusta la cifra I dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
-[^28-2]: La pubblicazione può essere ottenuta presso l’Ufficio federale delle costruzioni e della logistica, Vendita delle pubblicazioni federali, 3003 Berna, www.pubblicazionifederali.admin.ch.
+[^28-2]: La pubblicazione può essere ottenuta presso l’Ufficio federale delle costruzioni e della logistica, Vendita delle pubblicazioni federali, 3003 Berna, www.pubblicazionifederali.admin.ch .
 
 #### Art. 29
 
@@ -716,6 +716,25 @@ Le autorizzazioni di cui all’articolo 10 dell’ordinanza del DFI del 23 novem
 
 [^43b-1]: Introdotto dalla cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
+#### Art. 43c
+
+**Disposizioni transitorie relative alla modifica del 2 giugno 2025**[^43c-1]
+
+<sup>1</sup> I materiali e gli oggetti contenenti sostanze di cui ai numeri 5103 o 5111 nella tabella 1 dell’allegato 2 o al numero 5103 nella tabella 1 dell’allegato 10 della presente ordinanza nella versione del 13 novembre 2024[^43c-2] nonché i materiali e gli oggetti non conformi ai requisiti degli allegati 13 numero 3 o 14 secondo la modifica del 2 giugno 2025 possono ancora essere importati, fabbricati, caratterizzati e immessi sul mercato secondo il diritto anteriore fino al 20 ottobre 2027. I predetti materiali e oggetti possono essere consegnati ai consumatori fino al 20 ottobre 2028.
+
+<sup>2</sup> I materiali e gli oggetti monouso finiti contenenti sostanze di cui al numero 136 nella tabella 1 dell’allegato 2 o al numero 136 nella tabella 1 dell’allegato 10 della presente ordinanza nella versione del 13 novembre 2024[^43c-3] nonché i materiali e gli oggetti monouso finiti non conformi ai requisiti degli allegati 13 numero 2 o 14 secondo la modifica del 2 giugno 2025 possono ancora essere importati, fabbricati, caratterizzati e immessi sul mercato secondo il diritto anteriore fino al 20 luglio 2026. I predetti materiali e oggetti possono essere riempiti con prodotti alimentari e sigillati fino al 20 luglio 2027. Le derrate alimentari imballate in questo modo possono essere consegnate ai consumatori fino ad esaurimento delle scorte.
+
+<sup>3</sup> In deroga al capoverso 2, i materiali e gli oggetti monouso finiti destinati alla conservazione di frutta, ortaggi o prodotti della pesca o verniciati o rivestiti solo sulla loro superficie metallica esterna non conformi ai requisiti degli allegati 13 numero 2 o 14 secondo la modifica del 2 giugno 2025 possono ancora essere importati, fabbricati, caratterizzati e immessi sul mercato secondo il diritto anteriore fino al 20 gennaio 2028. I predetti materiali e oggetti possono essere riempiti con prodotti alimentari e sigillati fino al 20 gennaio 2029. Le derrate alimentari imballate in questo modo possono essere consegnate ai consumatori fino ad esaurimento delle scorte.
+
+<sup>4</sup> I materiali e gli oggetti finiti a uso ripetuto contenenti sostanze di cui al numero 136 nella tabella 1 dell’allegato 2 o al numero 136 nella tabella 1 dell’allegato 10 della presente ordinanza nella versione del 13 novembre 2024[^43c-4] nonché i materiali e gli oggetti finiti a uso ripetuto non conformi ai requisiti degli allegati 13 numero 2 o 14 secondo la modifica del 2 giugno 2025 possono ancora essere importati, fabbricati, caratterizzati e immessi sul mercato secondo il diritto anteriore fino al 20 luglio 2026. I predetti materiali e oggetti possono essere consegnati ai consumatori fino al 20 gennaio 2029.
+
+<sup>5</sup> In deroga al capoverso 4, i materiali e gli oggetti finiti a uso ripetuto utilizzati come apparecchiature professionali di produzione alimentare e non conformi ai requisiti del numero 136 nella tabella 1 dell’allegato 2, degli allegati 13 numero 2 o 14 secondo la modifica del 2 giugno 2025 possono ancora essere importati, fabbricati, caratterizzati e immessi sul mercato secondo il diritto anteriore fino al 20 gennaio 2028. I predetti materiali e oggetti possono essere immessi sul mercato fino al 20 gennaio 2029.
+
+[^43c-1]: Introdotto dalla cifra I dell’O dell’UFAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)).
+[^43c-2]: [RU 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)
+[^43c-3]: [RU 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)
+[^43c-4]: [RU 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)
+
 #### Art. 44
 
 **Entrata in vigore**
@@ -728,7 +747,7 @@ Allegato 1
 
 ## Simbolo riportato sui materiali e sugli oggetti, indicante l’uso al quale sono destinati
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20250101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20250701/it/xml/image/image1.png)
 
 Allegato 2[^t-1]
 
@@ -738,8 +757,8 @@ Allegato 2[^t-1]
 
 [^annex2-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta la cifra II cpv. 2 dell’O del DFI del 23 ott. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Aggiornato dalla cifra I cpv. 1 dell’O dell’USAV del 26 set. 2022 ([RU 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)), dalla cifra II cpv. 2 dell’O del DFI dell’8 dic. 2023 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)), dalla cifra I dell’O dell’USAV del 29 mag. 2024 ([RU 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)) e del 13 nov. 2025, in vigore dal 1° gen. 2025 ([RU 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)).
-[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/755](https://fedlex.data.admin.ch/eli/oc/2024/755) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-1]: Nuovo testo giusta la cifra II cpv. 2 dell’O del DFI del 23 ott. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Aggiornato dalla cifra I cpv. 1 dell’O dell’USAV del 26 set. 2022 ([RU 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)), dalla cifra II cpv. 2 dell’O del DFI dell’8 dic. 2023 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)), dalla cifra I dell’O dell’USAV del 29 mag. 2024 ([RU 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)), del 13 nov. 2025 ([RU 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)) e dalla cifra II cpv. 1 dell’O del USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)).
+[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/395](https://fedlex.data.admin.ch/eli/oc/2025/395) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 3[^t-2]
 
@@ -1373,11 +1392,11 @@ Spiegazioni relative agli elenchi
 <tr><td>– Prodotto di condensazione di melamminaformaldeide, non modificato o modificato con uno o più dei seguenti prodotti:butanolo, dietilentriammina, etanolo, trietilentetrammina, tetraetilenpentammina, tris-(2-idrossietil)ammina, 3,3’-diamminodipropilammina, 4,4’-diamminodibutilammina</td><td>Contenuto di formaldeide libera inferiore o uguale a 0,5 mg per dm<sup>2</sup> di pellicola non ricoperta. Contenuto di melammina libera inferiore o uguale a 0,3 mg per dm<sup>2</sup> di pellicola non ricoperta.</td></tr>
 <tr><td>– Prodotto di condensazione di melamina urea-formaldeide modificato con tris-(2‑idrossietil)ammina</td><td>Contenuto di formaldeide libera inferiore o uguale a 0,5 mg per dm<sup>2</sup> di pellicola non ricoperta. Contenuto di melammina libera inferiore o uguale a 0,3 mg per dm<sup>2</sup> di pellicola non ricoperta.</td></tr>
 <tr><td>– Polialchilenammine cationiche reticolate</td><td></td></tr>
-<tr><td>a. Resina poliammideepicloridrina a base di diamminopropilmetilammina ed epicloridrina</td><td>[tab]</td></tr>
-<tr><td>b. Resina poliammideepicloridrina a base di epicloridrina, acido adipico, caprolattame, dietilentriammina e/o etilendiammina</td><td>[tab]</td></tr>
-<tr><td>c. Resina poliammideepicloridrina a base di acido adipico, dietilentriammina ed epicloridrina o una miscela di epicloridrina e ammoniaca</td><td>[tab]</td></tr>
-<tr><td>d. Resina poliammidepoliammina-epicloridrina a base di epicloridrina, dimetiladipato e dietilentriammina</td><td>[tab]</td></tr>
-<tr><td>e. Resina poliammidepoliammina-epicloridrina a base di epicloridrina, adipammide e diamminopropilmetilammina</td><td>[tab]</td></tr>
+<tr><td>a. Resina poliammideepicloridrina a base di diamminopropilmetilammina ed epicloridrina</td><td></td></tr>
+<tr><td>b. Resina poliammideepicloridrina a base di epicloridrina, acido adipico, caprolattame, dietilentriammina e/o etilendiammina</td><td></td></tr>
+<tr><td>c. Resina poliammideepicloridrina a base di acido adipico, dietilentriammina ed epicloridrina o una miscela di epicloridrina e ammoniaca</td><td></td></tr>
+<tr><td>d. Resina poliammidepoliammina-epicloridrina a base di epicloridrina, dimetiladipato e dietilentriammina</td><td></td></tr>
+<tr><td>e. Resina poliammidepoliammina-epicloridrina a base di epicloridrina, adipammide e diamminopropilmetilammina</td><td></td></tr>
 <tr><td>– Polietilenammine e polietilenimmine</td><td>Inferiore o uguale a 0,75 mg per dm<sup>2</sup> di pellicola non ricoperta.</td></tr>
 <tr><td>– Prodotto di condensazione di ureaformaldeide non modificato o modificato con uno o più dei prodotti seguenti: [tab] acido amminometilsolfonico, acido solfanilico, butanolo, diamminobutano, diamminodietilammina, diammino-dipropilammina, diammino-propano, dietilentriammina, trietil-entetrammina, solfito di sodio, metanolo, etanolo, guanidina, tetraetilenpentammina</td><td>Contenuto di formaldeide libera inferiore o uguale a 0,5 mg per dm<sup>2</sup> di pellicola non ricoperta.</td></tr>
 <tr><td>Quarta classe</td><td>La quantità totale delle sostanze non deve essere superiore a 0,01 mg per dm<sup>2</sup> di pellicola non ricoperta.</td></tr>
@@ -1408,11 +1427,11 @@ Spiegazioni relative agli elenchi
 <tr><td>– Caseina</td><td></td><td></td></tr>
 <tr><td>– Colofonia e/o i suoi prodotti di polimerizzazione, idrogenazione o disproporzione e i loro esteri di metile, etile o alcoli polivalenti da C<sub>2</sub> a C<sub>6</sub> o miscele di questi alcoli</td><td></td><td></td></tr>
 <tr><td>– Colofonia e/o i suoi prodotti di polimerizzazione, idrogenazione o disproporzione condensati con acidi acrilico e/o maleico e/o citrico e/o fumarico e/o ftalico e/o 2,2 bis-(4-idrossifenil)-propano formaldeide ed esterificati con alcoli metilico o etilico o alcoli polivalenti da C<sub>2</sub> a C<sub>6</sub> o miscele di questi alcoli</td><td></td><td></td></tr>
-<tr><td>– Esteri derivati dal bis-(2-idrossietil)-etere con i prodotti di addizione del β-pinene e/o dipentene e/o diterpene e anidride maleica</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>– Esteri derivati dal bis-(2-idrossietil)-etere con i prodotti di addizione del β-pinene e/o dipentene e/o diterpene e anidride maleica</td><td></td><td></td></tr>
 <tr><td>– Gelatina alimentare</td><td></td><td></td></tr>
 <tr><td>– Olio di ricino e i suoi prodotti di disidratazione e/o idrogenazione e i suoi prodotti di condensazione con la poliglicerina e gli acidi adipico, citrico, maleico, ftalico e sebacico</td><td></td><td></td></tr>
 <tr><td>– Resine naturali [= damar]</td><td></td><td></td></tr>
-<tr><td>– Poli-β-pinene [= resine terpeniche]</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>– Poli-β-pinene [= resine terpeniche]</td><td></td><td></td></tr>
 <tr><td>– Resine urea-formaldeide (vedi agenti ancoranti)</td><td></td><td></td></tr>
 <tr><td>3. Plastificanti</td><td></td><td>La quantità totale delle sostanze non deve essere superiore a 6 mg per dm<sup>2</sup> di vernice sul lato a contatto con le derrate alimentari.</td></tr>
 <tr><td>– Acetil-tributil-citrato</td><td></td><td></td></tr>
@@ -1526,8 +1545,8 @@ Allegato 10[^t-7]
 
 [^annex10-lvlu1-1]
 
-[^t-7]: Nuovo testo giusta la cifra I cpv. 3 dell’O del USAV del 26 set. 2022 ([RU 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)). Aggiornato dalla cifra II cpv. 2 dell’O del DFI dell’8 dic. 2023 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)), dalla cifra I dell’O dell’USAV del 29 mag. 2024 ([RU 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)) e del 13 nov. 2025, in vigore dal 1° gen. 2025 ([RU 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)).
-[^annex10-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/755](https://fedlex.data.admin.ch/eli/oc/2024/755) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-7]: Nuovo testo giusta la cifra I cpv. 3 dell’O del USAV del 26 set. 2022 ([RU 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)). Aggiornato dalla cifra II cpv. 2 dell’O del DFI dell’8 dic. 2023 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)), dalla cifra I dell’O dell’USAV del 29 mag. 2024 ([RU 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)), del 13 nov. 2025 ([RU 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)) e dalla cifra II cpv. 1 dell’O del USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)).
+[^annex10-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/395](https://fedlex.data.admin.ch/eli/oc/2025/395) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 11
 
@@ -1535,7 +1554,7 @@ Allegato 11
 
 ## Simbolo «Non mangiare»
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20250101/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20250701/it/xml/image/image2.png)
 
 Allegato 12
 
@@ -1577,7 +1596,7 @@ Allegato 13[^t-8]
 
 ## Requisiti particolari per le vernici e i rivestimenti
 
-[^t-8]: Introdotto dalla cifra II cpv. 1 dell’O del DFI del 23 ott. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Aggiornato dalla cifra II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^t-8]: Introdotto dalla cifra II cpv. 1 dell’O del DFI del 23 ott. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Aggiornato dalla cifra II cpv. 2 dell’O del USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)).
 
 ### 1. BADGE, BFDGE e NOGE
 
@@ -1616,12 +1635,28 @@ Allegato 13[^t-8]
 - 1\.2 Lʼutilizzo e/o la presenza di glicidil eteri del Novolac (NOGE), ivi compreso il bis(4-idrossifenil)metano bis(2,3-epossipropil) etere (BFDGE, n. CAS 39817-09-9) sono vietati nella fabbricazione dei materiali e degli oggetti.
 - 1\.3 I requisiti di cui ai numeri 1.1 e 1.2 non si applicano ai contenitori o ai serbatoi di stoccaggio di capacità superiore a 10 000 litri o alle tubature a essi in dotazione o a essi collegate, dotati di rivestimenti speciali denominati «ad alto rendimento».
 
-### 2. 2,2-bis(4-idrossifenil)propano (BPA)
+### 2 Bisfenolo A
 
-- 2\.1 La migrazione nelle o sulle derrate alimentari del 2,2-bis(4-idrossifenil)propano (BPA, n. CAS 80-05-7) proveniente da vernici o rivestimenti applicati su materiali e oggetti non deve superare un limite di migrazione specifica di 0,05 mg di BPA per kg di derrata alimentare (mg/kg).
-- 2\.2 In deroga al numero 2.1, non è ammessa alcuna migrazione di BPA proveniente da vernici o rivestimenti applicati a materiali e oggetti specificamente destinati a venire a contatto con formule per lattanti, formule di proseguimento, alimenti a base di cereali, alimenti per la prima infanzia, alimenti a fini medici speciali creati per soddisfare le esigenze nutrizionali dei lattanti e dei bambini nella prima infanzia o bevande a base di latte e prodotti analoghi specificamente destinati ai bambini nella prima infanzia ai sensi dell’ordinanza del DFI del 16 dicembre 2016[^annex13-lvlu1-lvl2-1] sulle derrate alimentari destinate alle persone con particolari esigenze nutrizionali.
+- 2\.1 Sono vietati l’utilizzo del 2,2-bis(4-idrossifenil)propano (BPA, n. CAS 80-05-7) e dei suoi sali nella fabbricazione di vernici e rivestimenti e l’immissione sul mercato di materiali e oggetti verniciati o rivestiti le cui vernici o i cui rivestimenti sono stati fabbricati utilizzando BPA.
+- 2\.2 In deroga al numero 2.1, il BPA può essere utilizzato come monomero o sostanza di partenza nella fabbricazione di resine epossidiche liquide da applicare su materiali o su oggetti autoportanti di capacità superiore a 1000 litri. La migrazione nelle derrate alimentari non deve essere rilevabile. Il limite di rilevazione è fissato a 1 μg/kg di derrate alimentari. Gli oggetti finiti destinati a venire a contatto con le derrate alimentari devono essere puliti e lavati prima di venire a contatto per la prima volta con le derrate alimentari.
+- 2\.3 Per verificare che un materiale o un oggetto non contenga BPA, occorre utilizzare un metodo di estrazione. Il limite di rilevazione del metodo deve essere pari a 1 μg/kg.
 
-[^annex13-lvlu1-lvl2-1]: [RS 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
+### 3 Bisfenoli e derivati di bisfenoli
+
+- 3\.1 Valgono le strutture chimiche seguenti:
+
+<table>
+<tr><td>Bisfenolo:</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20250701/it/xml/image/image3.png)</td></tr>
+<tr><td>Derivato di un bisfenolo:</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20250701/it/xml/image/image4.png)</td></tr>
+<tr><td colspan="2">X si riferisce a qualsiasi gruppo ponte che separa i due anelli fenili mediante un unico atomo, ma l’atomo può avere uno o più sostituenti. Le sostanze da R<sub>1</sub> a R<sub>10</sub> si riferiscono a qualsiasi sostituente. Almeno uno dei sostituenti non è un atomo di idrogeno.</td></tr>
+</table>
+
+- 3\.2 I rivestimenti e le vernici di materiali e oggetti fabbricati utilizzando un altro bisfenolo o un derivato di un bisfenolo non possono contenere residui di 2,2-bis(4-idrossifenil)propano (BPA, n. CAS 80-05-7).
+- 3\.3 Un bisfenolo pericoloso o un derivato pericoloso di un bisfenolo è un bisfenolo o un derivato di un bisfenolo classificato in modo armonizzato come «mutageno» , «cancerogeno» o «tossico per la riproduzione» di categoria 1A o 1B ai sensi dell’allegato 2 numero 1 OPChim[^annex13-lvlu1-lvl3-1] oppure come «interferente endocrino per la salute umana» di categoria 1 (sostanza CMRED).
+- 3\.4 Sono vietati l’utilizzo di bisfenoli pericolosi diversi dal BPA o di derivati pericolosi di bisfenoli nella fabbricazione di vernici e rivestimenti e l’immissione sul mercato di materiali e oggetti verniciati o rivestiti le cui vernici o i cui rivestimenti sono stati fabbricati utilizzando bisfenoli pericolosi diversi dal BPA o derivati pericolosi di bisfenoli.
+- 3\.5 Per verificare che un materiale o un oggetto non contenga un bisfenolo pericoloso o un derivato pericoloso di un bisfenolo, occorre utilizzare un metodo di estrazione. Il limite di rilevazione del metodo deve essere pari a 1 μg/kg.
+
+[^annex13-lvlu1-lvl3-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
 Allegato 14[^t-9]
 
@@ -1629,7 +1664,7 @@ Allegato 14[^t-9]
 
 ## Dichiarazione di conformità per le vernici e i rivestimenti
 
-[^t-9]: Introdotto dalla cifra II cpv. 1 dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
+[^t-9]: Introdotto dalla cifra II cpv. 1 dell’O del DFI del 23 ott. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Aggiornato dalla cifra II cpv. 2 dell’O del USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)).
 
 La dichiarazione di conformità di cui all’articolo 40*b* capoverso 2 deve contenere le seguenti informazioni:
 
@@ -1638,13 +1673,7 @@ La dichiarazione di conformità di cui all’articolo 40*b* capoverso 2 deve con
 - c. l’identità del materiale o dell’oggetto che ne è dotato;
 - d. la data della dichiarazione;
 - e. la conferma che la vernice o il rivestimento è conforme alle prescrizioni legali applicabili;
-- f.
-
-  le specifiche relative all’utilizzo del materiale o dell’oggetto che ne è dotato, quali:
-
-  - 1\. i tipi di derrate alimentari destinate a essere messe a contatto con il materiale o l’oggetto,
-  - 2\. la durata e la temperatura di trattamento e conservazione a contatto con le derrate alimentari,
-  - 3\. il massimo rapporto tra superficie a contatto con la derrata alimentare e il volume, per il quale è stata accertata la conformità in base ai requisiti legali.
+- f. un elenco dei bisfenoli o dei derivati di bisfenoli utilizzati nella fabbricazione del materiale o dell’oggetto.
 
 Allegato 15[^t-10]
 

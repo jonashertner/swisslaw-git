@@ -3,11 +3,11 @@ sr: "817.023.21"
 title: "Verordnung des EDI vom 16. Dezember 2016 über Materialien und Gegenstände, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen (Bedarfsgegenständeverordnung)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/164"
 language: de
-version: 2025-01-01
+version: 2025-07-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2017-164-20250101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2017-164-20250701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20250101/de"
 
 (Bedarfsgegenständeverordnung)
 
-vom 16. Dezember 2016 (Stand am 1. Januar 2025)
+vom 16. Dezember 2016 (Stand am 1. Juli 2025)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -717,6 +717,23 @@ Folgende Bewilligungen gemäss Artikel 10 der Verordnung des EDI vom 23. Novembe
 
 [^43b-1]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
+#### Art. 43c
+
+**Übergangsbestimmungen zur Änderung vom 2. Juni 2025**[^43c-1]
+
+<sup>1</sup> Bedarfsgegenstände, die Stoffe nach den Einträgen 5103 oder 5111 in Tabelle 1 von Anhang 2 oder nach Eintrag 5103 in Tabelle 1 von Anhang 10 dieser Verordnung in der Fassung vom 13. November 2024[^43c-2] enthalten, sowie Bedarfsgegenstände, die Anhang 13 Ziffer 3 oder Anhang 14 der Änderung vom 2. Juni 2025 nicht entsprechen, dürfen noch bis zum 20. Oktober 2027 nach bisherigem Recht eingeführt, hergestellt, gekennzeichnet und in Verkehr gebracht werden. Sie dürfen noch bis zum 20. Oktober 2028 an die Konsumentinnen und Konsumenten abgegeben werden.
+
+<sup>2</sup> Fertige Einwegbedarfsgegenstände, die Stoffe nach Eintrag 136 in Tabelle 1 von Anhang 2 oder nach Eintrag 136 in Tabelle 1 von Anhang 10 dieser Verordnung in der Fassung vom 13. November 2024 enthalten, sowie fertige Einwegbedarfsgegenstände, die Anhang 13 Ziffer 2 oder Anhang 14 der Änderung vom 2. Juni 2025 nicht entsprechen, dürfen noch bis zum 20. Juli 2026 nach bisherigem Recht eingeführt, hergestellt, gekennzeichnet und in Verkehr gebracht werden. Sie dürfen noch bis zum 20. Juli 2027 mit Lebensmitteln befüllt und verschlossen werden. Entsprechend verpackte Lebensmittel dürfen bis zur Erschöpfung der Bestände an die Konsumentinnen und Konsumenten abgegeben werden.
+
+<sup>3</sup> Abweichend von Absatz 2 dürfen fertige Einwegbedarfsgegenstände, die zur Haltbarmachung von Obst, Gemüse oder Fischereierzeugnissen bestimmt sind oder die nur auf ihrer äusseren Metalloberfläche lackiert oder beschichtet sind und die Anhang 13 Ziffer 2 oder Anhang 14 der Änderung vom 2. Juni 2025 nicht entsprechen, noch bis zum 20. Januar 2028 nach bisherigem Recht eingeführt, hergestellt, gekennzeichnet und in Verkehr gebracht werden. Die erwähnten Bedarfsgegenstände dürfen noch bis zum 20. Januar 2029 mit Lebensmitteln befüllt und verschlossen werden. Entsprechend verpackte Lebensmittel dürfen bis zur Erschöpfung der Bestände an die Konsumentinnen und Konsumenten abgegeben werden.
+
+<sup>4</sup> Fertige Mehrwegbedarfsgegenstände, die Stoffe nach Eintrag 136 in Tabelle 1 von Anhang 2 oder nach Eintrag 136 in Tabelle 1 von Anhang 10 dieser Verordnung in der Fassung vom 13. November 2024 enthalten, sowie fertige Mehrwegbedarfsgegenstände, die Anhang 13 Ziffer 2 oder Anhang 14 der Änderung vom 2. Juni 2025 nicht entsprechen, dürfen noch bis zum 20. Juli 2026 nach bisherigem Recht eingeführt, hergestellt, gekennzeichnet und in Verkehr gebracht werden. Die erwähnten Bedarfsgegenstände dürfen noch bis zum 20. Januar 2029 an die Konsumentinnen und Konsumenten abgegeben werden.
+
+<sup>5</sup> Abweichend von Absatz 4 dürfen fertige Mehrwegbedarfsgegenstände, die als Ausrüstung für die gewerbliche Lebensmittelherstellung verwendet werden und die Eintrag 136 in Tabelle 1 von Anhang 2, Anhang 13 Ziffer 2 oder Anhang 14 der Änderung vom 2. Juni 2025 nicht entsprechen, noch bis zum 20. Januar 2028 nach bisherigem Recht eingeführt, hergestellt, gekennzeichnet und in Verkehr gebracht werden. Die erwähnten Bedarfsgegenstände dürfen noch bis zum 20. Januar 2029 in Verkehr bleiben.
+
+[^43c-1]: Eingefügt durch Ziff. I der V des BLV vom 2. Juni 2025, in Kraft seit 1. Juli 2025 ([AS 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)).
+[^43c-2]: [AS 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)
+
 #### Art. 44
 
 **Inkrafttreten**
@@ -729,7 +746,7 @@ Anhang 1
 
 ## Symbol zur Bezeichnung des Verwendungszwecks entsprechend gekennzeichneter Bedarfsgegenstände
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20250101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20250701/de/xml/image/image1.png)
 
 Anhang 2[^t-1]
 
@@ -739,8 +756,8 @@ Anhang 2[^t-1]
 
 [^annex2-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 23. Okt. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Bereinigt gemäss Ziff. I Abs. 1 der V des BLV vom 26. Sept. 2022 ([AS 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)), Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)), Ziff. I der V des BLV vom 29. Mai 2024 ([AS 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)) und vom 13. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)).
-[^annex2-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2024/755](https://fedlex.data.admin.ch/eli/oc/2024/755) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-1]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 23. Okt. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Bereinigt gemäss Ziff. I Abs. 1 der V des BLV vom 26. Sept. 2022 ([AS 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)), Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)), Ziff. I der V des BLV vom 29. Mai 2024 ([AS 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)), vom 13. Nov. 2024 ([AS 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)) und Ziff. II Abs. 1 der V vom 2. Juni 2025, in Kraft seit 1. Juli 2025 ([AS 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)).
+[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2025/395](https://fedlex.data.admin.ch/eli/oc/2025/395) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 3[^t-2]
 
@@ -978,7 +995,6 @@ Tabelle 3 Zuordnung der Lebensmittelsimulanzien zum Nachweis der Einhaltung des 
 <tr><td>Alle wässrigen und alkoholischen Lebensmittel und alle Milcherzeugnisse mit einem pH‑Wert ≥ 4,5</td><td>Lebensmittelsimulans D1</td></tr>
 <tr><td>Alle wässrigen, säurehaltigen und alkoholischen Lebensmittel und alle Milcherzeugnisse mit einem pH-Wert &lt; 4,5</td><td>[tab] Lebensmittelsimulans D1 und [tab] Lebensmittelsimulans B</td></tr>
 <tr><td>Alle wässrigen Lebensmittel und alkoholische Lebensmittel mit einem Alkoholgehalt bis zu 20 %</td><td>Lebensmittelsimulans C</td></tr>
-<tr><td></td><td>[tab]</td></tr>
 <tr><td>Alle wässrigen und säurehaltigen Lebensmittel und alkoholische Lebensmittel mit einem Alkoholgehalt bis zu 20 %</td><td>1) Lebensmittelsimulans C und 2) Lebensmittelsimulans B</td></tr>
 </table>
 
@@ -1409,12 +1425,12 @@ Erläuterungen zu den Listen
 <tr><td>2. Harze</td><td>Die Gesamtmenge der Substanzen darf 12,5 mg/dm<sup>2</sup> des Lacks auf der Berührungsfläche mit den Lebensmitteln nicht überschreiten; nur zur Herstellung von Zellglasfolien, die mit einem Lack aus Cellulosenitrat beschichtet sind</td></tr>
 <tr><td>– Kasein</td><td></td></tr>
 <tr><td>– Kolophonium und/oder seine Polymerisations-, Hydrierungs- oder Disproportionierungsprodukte und deren Ester mit Methyl-, Ethyl- oder polyvalenten C<sub>2</sub>-C<sub>6</sub>-Alkoholen oder Gemischen dieser Alkohole</td><td></td></tr>
-<tr><td>– Kolophonium und/oder seine Polymerisations-, Hydrierungs- oder Disproportionierungsprodukte kondensiert mit Acrylsäure und/oder Maleinsäure und/oder Citronensäure, Fumarsäure und/oder Phthalsäure und/oder 2,2-Bis-(4-hydroxyphenyl)-Propan-Formaldehyd, verestert mit Methyl-Ethyl- oder polyvalenten C2-C6-Alkoholen oder Gemischen aus solchen [tab]</td><td></td></tr>
-<tr><td>– Ester des Bis-(2-Hydroxyethyl)-ethers mit Additionsprodukten des β-Pinen, Dipenten und/oder Diterpen und Maleinsäureanhydrid</td><td>[tab]</td></tr>
+<tr><td>– Kolophonium und/oder seine Polymerisations-, Hydrierungs- oder Disproportionierungsprodukte kondensiert mit Acrylsäure und/oder Maleinsäure und/oder Citronensäure, Fumarsäure und/oder Phthalsäure und/oder 2,2-Bis-(4-hydroxyphenyl)-Propan-Formaldehyd, verestert mit Methyl-Ethyl- oder polyvalenten C2-C6-Alkoholen oder Gemischen aus solchen</td><td></td></tr>
+<tr><td>– Ester des Bis-(2-Hydroxyethyl)-ethers mit Additionsprodukten des β-Pinen, Dipenten und/oder Diterpen und Maleinsäureanhydrid</td><td></td></tr>
 <tr><td>– Gelatine in Lebensmittelqualität</td><td></td></tr>
 <tr><td>– Ricinusöl und seine Dehydrations- und/oder Hydrierungsprodukte und seine Kondensationsprodukte mit Polyglycerin, Adipinsäure, Zitronensäure, Maleinsäure, Phthalsäure und Sebacinsäure</td><td></td></tr>
 <tr><td>– Naturharze [= Dammarharze]</td><td></td></tr>
-<tr><td>– Poly-β-pinen [= Terpenharze]</td><td>[tab]</td></tr>
+<tr><td>– Poly-β-pinen [= Terpenharze]</td><td></td></tr>
 <tr><td>– Harnstoff-Formaldehydharze (siehe Verankerungsmittel)</td><td></td></tr>
 <tr><td>3. Weichmacher</td><td>Die Gesamtmenge der Substanzen darf 6 mg/dm<sup>2</sup> des Lacks auf der Berührungsfläche mit den Lebensmitteln nicht überschreiten.</td></tr>
 <tr><td>– Acetyltributylcitrat</td><td></td></tr>
@@ -1528,8 +1544,8 @@ Anhang 10[^t-7]
 
 [^annex10-lvlu1-1]
 
-[^t-7]: Fassung gemäss Ziff. I Abs. 3 der V des BLV vom 26. Sept. 2022 ([AS 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)). Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)), Ziff. I der V des BLV vom 29. Mai 2024 ([AS 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)) und vom 13. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)).
-[^annex10-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2024/755](https://fedlex.data.admin.ch/eli/oc/2024/755) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-7]: Fassung gemäss Ziff. I Abs. 3 der V des BLV vom 26. Sept. 2022 ([AS 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)). Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)), Ziff. I der V des BLV vom 29. Mai 2024 ([AS 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)), vom 13. Nov. 2024 ([AS 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)) und Ziff. II Abs. 1 der V vom 2. Juni 2025, in Kraft seit 1. Juli 2025 ([AS 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)).
+[^annex10-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2025/395](https://fedlex.data.admin.ch/eli/oc/2025/395) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 11
 
@@ -1537,7 +1553,7 @@ Anhang 11
 
 ## Symbol «NICHT ESSBAR»
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20250101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20250701/de/xml/image/image2.png)
 
 Anhang 12
 
@@ -1579,7 +1595,7 @@ Anhang 13[^t-8]
 
 ## Besondere Anforderungen für Lacke und Beschichtungen
 
-[^t-8]: Eingefügt durch Ziff. II Abs. 1 der V des EDI vom 23. Okt. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^t-8]: Eingefügt durch Ziff. II Abs. 1 der V des EDI vom 23. Okt. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Bereinigt gemäss Ziff. II Abs. 2 der V des BLV vom 2. Juni 2025, in Kraft seit 1. Juli 2025 ([AS 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)).
 
 ### 1. BADGE, BFDGE und NOGE
 
@@ -1600,7 +1616,6 @@ Anhang 13[^t-8]
 
       - – 9 mg/kg in Lebensmitteln oder Lebensmittelsimulanzien oder
       - – 9 mg/6 dm<sup>2</sup> gemäss den Fällen unter Ziffer 2.1 in Anhang 4.
-      - [tab]
 
   - b.
 
@@ -1619,12 +1634,28 @@ Anhang 13[^t-8]
 - 1\.2 Die Verwendung oder das Vorhandensein von Novolac-Glycidylether (NOGE), einschliesslich Bis(4-hydroxyphenyl)methan-bis-(2,3-epoxypropyl)ether (BFDGE, CAS-Nr. 39817-09-9), sind bei der Herstellung von Bedarfsgegenständen verboten.
 - 1\.3 Die Anforderungen gemäss den Ziffern 1.1 und 1.2 gelten nicht für Behälter und Lagertanks mit einem Fassungsvermögen von über 10 000 Litern sowie für sämtliche zu ihnen gehörenden oder mit ihnen verbundenen Rohrleitungen, die mit speziellen Beschichtungen («heavy-duty coatings») ausgekleidet sind.
 
-### 2. 2,2-Bis(4-hydroxyphenyl)propan (BPA)
+### 2 Bisphenol A
 
-- 2\.1 Die Menge an 2,2-Bis-(4-hydroxyphenyl)propan (BPA, CAS-Nr. 80-05-7), die aus Lacken und Beschichtungen, die auf Bedarfsgegenstände aufgebracht werden, in oder auf Lebensmittel übergeht, darf einen spezifischen Migrationsgrenzwert von 0,05 mg BPA je Kilogramm Lebensmittel (mg/kg) nicht überschreiten.
-- 2\.2 Abweichend von Ziffer 2.1 ist keine Migration von BPA aus Lacken und Beschichtungen zulässig, die auf Bedarfsgegenstände aufgebracht werden, die dazu bestimmt sind, mit den folgenden Lebensmitteln gemäss der Verordnung des EDI vom 16. Dezember 2016[^annex13-lvlu1-lvl2-1] über Lebensmittel für Personen mit besonderem Ernährungsbedarf in Berührung zu kommen: Säuglingsanfangsnahrung, Folgenahrung, Getreidebeikost, andere Beikost, Lebensmittel für besondere medizinische Zwecke, die für die Ernährungsanforderungen von Säuglingen und Kleinkindern entwickelt wurden, sowie Milchgetränke und gleichartige Erzeugnisse, die für Kleinkinder bestimmt sind.
+- 2\.1 Sowohl die Verwendung von 2,2-Bis-(4-hydroxyphenyl)propan (BPA, CAS-Nr. 80‑05‑7) und seinen Salzen bei der Herstellung von Lacken und Beschichtungen als auch das Inverkehrbringen von lackierten oder beschichteten Bedarfsgegenständen, deren Lacke oder Beschichtungen unter Verwendung von BPA hergestellt wurden, sind verboten.
+- 2\.2 Abweichend von Ziffer 2.1 darf BPA als Monomer oder Ausgangsstoff bei der Herstellung flüssiger Epoxidharze, die auf selbsttragende Bedarfsgegenstände mit einem Fassungsvermögen von mehr als 1000 Litern aufgebracht werden, eingesetzt werden. Eine Migration in Lebensmittel darf nicht nachweisbar sein. Es gilt eine Nachweisgrenze von 1 μg/kg Lebensmittel. Fertige Lebensmittelkontaktgegenstände sind vor dem ersten Kontakt mit Lebensmitteln zu reinigen und zu spülen.
+- 2\.3 Um zu überprüfen, ob ein Bedarfsgegenstand kein BPA enthält, ist eine Extraktionsmethode anzuwenden. Die Nachweisgrenze der Methode muss 1 μg/kg betragen.
 
-[^annex13-lvlu1-lvl2-1]: [SR 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
+### 3 Bisphenole und Bisphenolderivate
+
+- 3\.1 Es gelten folgende chemische Strukturen:
+
+<table>
+<tr><td>Bisphenol:</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20250701/de/xml/image/image3.png)</td></tr>
+<tr><td>Bisphenolderivat:</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20250701/de/xml/image/image4.png)</td></tr>
+<tr><td colspan="2">X bezeichnet jede Brückengruppe, die die beiden Phenylringe durch ein einziges Atom trennt. Das Atom kann jedoch jegliche Substituenten aufweisen. R<sub>1</sub> bis R<sub>10</sub> bezeichnen jeglichen Substituenten. Mindestens einer der Substituenten ist kein Wasserstoffatom.</td></tr>
+</table>
+
+- 3\.2 Beschichtungen und Lackierungen von Bedarfsgegenständen, die unter Verwendung eines anderen Bisphenols oder Bisphenolderivats hergestellt wurden, dürfen keine Rückstände von 2,2-Bis-(4-hydroxyphenyl)propan (BPA, CAS-Nr. 80‑05‑7) enthalten.
+- 3\.3 Ein gefährliches Bisphenol oder gefährliches Bisphenolderivat ist ein Bisphenol oder ein Bisphenolderivat, das gemäss Anhang 2 Ziffer 1 ChemV[^annex13-lvlu1-lvl3-1] harmonisiert als «erbgutverändernd» der Kategorien 1A oder 1B, «krebserregend», «fortpflanzungsgefährdend» oder «endokriner Disruptor mit Wirkung auf die menschliche Gesundheit» der Kategorie 1 (CMRED-Stoff) eingestuft ist.
+- 3\.4 Sowohl die Verwendung von anderen gefährlichen Bisphenolen als BPA oder gefährlichen Bisphenolderivaten bei der Herstellung von Lacken und Beschichtungen als auch das Inverkehrbringen von lackierten oder beschichteten Bedarfsgegenständen, deren Lacke oder Beschichtungen unter Verwendung von anderen gefährlichen Bisphenolen als BPA oder gefährlichen Bisphenolderivaten hergestellt wurden, sind verboten.
+- 3\.5 Um zu überprüfen, ob ein Bedarfsgegenstand kein gefährliches Bisphenol und kein gefährliches Bisphenolderivat enthält, ist eine Extraktionsmethode anzuwenden. Die Nachweisgrenze der Methode muss 1 μg/kg betragen.
+
+[^annex13-lvlu1-lvl3-1]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
 Anhang 14[^t-9]
 
@@ -1632,7 +1663,7 @@ Anhang 14[^t-9]
 
 ## Konformitätserklärung für Lacke und Beschichtungen
 
-[^t-9]: Eingefügt durch Ziff. II Abs. 1 der V des EDI vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
+[^t-9]: Eingefügt durch Ziff. II Abs. 1 der V des EDI vom 23. Okt. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Bereinigt gemäss Ziff. II Abs. 2 der V des BLV vom 2. Juni 2025, in Kraft seit 1. Juli 2025 ([AS 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)).
 
 Die in Artikel 40*b* Absatz 2 genannte Konformitätserklärung enthält folgende Angaben:
 
@@ -1641,14 +1672,7 @@ Die in Artikel 40*b* Absatz 2 genannte Konformitätserklärung enthält folgende
 - c. Identität des lackierten oder beschichteten Bedarfsgegenstands;
 - d. Datum der Erklärung;
 - e. Bestätigung, dass die Lackierung oder die Beschichtung den einschlägigen Gesetzesvorschriften entspricht;
-- f.
-
-  Spezifikationen zur Verwendung des beschichteten Bedarfsgegenstands, z. B.:
-
-  - 1\. Art oder Arten von Lebensmitteln, die damit in Berührung kommen sollen,
-  - 2\. Dauer und Temperatur der Behandlung und der Lagerung bei Berührung mit Lebensmitteln,
-  - 3\. das höchste Verhältnis der mit Lebensmitteln in Berührung kommenden Fläche zum Volumen, anhand dessen die Konformität mit den gesetzlichen Anforderungen festgestellt wurde.
-  - [tab]
+- f. eine Liste aller Bisphenole oder Bisphenolderivate, die bei der Herstellung des Bedarfsgegenstands verwendet wurden.
 
 Anhang 15[^t-10]
 

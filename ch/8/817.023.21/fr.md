@@ -3,11 +3,11 @@ sr: "817.023.21"
 title: Ordonnance du DFI du 16 décembre 2016 sur les matériaux et objets destinés à entrer en contact avec les denrées alimentaires (Ordonnance sur les matériaux et objets)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/164"
 language: fr
-version: 2025-01-01
+version: 2025-07-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-164-20250101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-164-20250701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20250101/fr"
 
 (Ordonnance sur les matériaux et objets)
 
-du 16 décembre 2016 (État le 1<sup>er</sup> janvier 2025)
+du 16 décembre 2016 (État le 1<sup>er</sup> juillet 2025)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -442,7 +442,7 @@ Les paraffines et les cires servant à la fabrication de l’emballage en contac
 - b. être exemptes de substances cancérigènes.
 
 [^28-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
-[^28-2]: L’ouvrage peut être obtenu auprès de l’Office fédéral des constructions et de la logistique, Vente des publications fédérales, 3003 Berne: www.publicationsfederales.ch.
+[^28-2]: L’ouvrage peut être obtenu auprès de l’Office fédéral des constructions et de la logistique, Vente des publications fédérales, 3003 Berne: [www.publicationsfederales.ch](http://www.publicationsfederales.ch).
 
 #### Art. 29
 
@@ -717,6 +717,23 @@ Les autorisations visées à l’art. 10 de l’ordonnance du DFI du 23 novembre
 
 [^43b-1]: Introduit par le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
+#### Art. 43c
+
+**Dispositions transitoires relatives à la modification du 2 juin 2025**[^43c-1]
+
+<sup>1</sup> Les matériaux et objets qui contiennent des substances selon les entrées 5103 ou 5011, tableau 1, annexe 2 ou selon l’entrée 5103, tableau 1, annexe 10 de la présente ordonnance dans sa version du 13 novembre 2024[^43c-2] et les matériaux et objets qui ne sont pas conformes aux exigences de l’annexe 13, ch. 3 ou de l’annexe 14 de la modification du 2 juin 2025 peuvent encore être importés, fabriqués, étiquetés et mis sur le marché selon l’ancien droit jusqu’au 20 octobre 2027. Ils peuvent être remis aux consommateurs jusqu’au 20 octobre 2028.
+
+<sup>2</sup> Les matériaux et objets finis à usage unique qui contiennent des substances selon l’entrée 136, tableau 1, annexe 2 ou selon l’entrée 136, tableau 1, annexe 10 de la présente ordonnance dans sa version du 13 novembre 2024 et les matériaux et objets finis à usage unique qui ne sont pas conformes aux exigences de l’annexe 13, ch. 2 ou de l’annexe 14 de la modification du 2 juin 2025 peuvent encore être importés, fabriqués, étiquetés et mis sur le marché selon l’ancien droit jusqu’au 20 juillet 2026. Ils peuvent être remplis avec des denrées alimentaires et fermés jusqu’au 20 juillet 2027. Les denrées alimentaires emballées qui en résultent peuvent être remises aux consommateurs jusqu’à épuisement des stocks.
+
+<sup>3</sup> En dérogation à l’al. 2, les matériaux et objets finis à usage unique destinés à la conservation de fruits, légumes ou produits de la pêche ou sur lesquels un vernis ou un revêtement n’a été appliqué que sur la surface métallique extérieure et qui ne sont pas conformes aux exigences de l’annexe 13, ch. 2 ou de l’annexe 14 de la modification du 2 juin 2025 peuvent encore être importés, fabriqués, étiquetés et mis sur le marché selon l’ancien droit jusqu’au 20 janvier 2028. Ils peuvent encore être remplis avec des denrées alimentaires et fermés jusqu’au 20 janvier 2029. Les denrées alimentaires emballées qui en résultent peuvent être remises aux consommateurs jusqu’à épuisement des stocks.
+
+<sup>4</sup> Les matériaux et objets finis réutilisables qui contiennent des substances selon l’entrée 136, tableau 1, annexe 2 ou selon l’entrée 136, tableau 1, annexe 10 de la présente ordonnance dans sa version du 13 novembre 2024 et les matériaux et objets finis réutilisables qui ne sont pas conformes aux exigences de l’annexe 13, ch. 2 ou de l’annexe 14 de la modification du 2 juin 2025 peuvent encore être importés, fabriqués, étiquetés et mis sur le marché selon l’ancien droit jusqu’au 20 juillet 2026. Ils peuvent être remis aux consommateurs jusqu’au 20 janvier 2029.
+
+<sup>5</sup> En dérogation à l’al. 4, les matériaux et objets finis réutilisables utilisés comme équipement professionnel pour la production alimentaire qui ne sont pas conformes aux exigences de l’entrée 136, tableau 1, annexe 2, de l’annexe 13, ch. 2 ou de l’annexe 14 de la modification du 2 juin 2025 peuvent encore être importés, fabriqués, étiquetés et mis sur le marché selon l’ancien droit jusqu’au 20 janvier 2028. Ils peuvent rester sur le marché jusqu’au 20 janvier 2029.
+
+[^43c-1]: Introduit par le ch. I de l’O de l’OSAV du 2 juin 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)).
+[^43c-2]: [RO 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)
+
 #### Art. 44
 
 **Entrée en vigueur**
@@ -729,7 +746,7 @@ Annexe 1
 
 ## Symbole figurant sur les matériaux et objets indiquant l’usage auquel ils sont destinés
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20250101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20250701/fr/xml/image/image1.png)
 
 Annexe 2[^t-1]
 
@@ -739,8 +756,8 @@ Annexe 2[^t-1]
 
 [^annex2-lvlu1-1]
 
-[^t-1]: Nouvelle teneur selon le ch. II al. 2 de l’O du DFI du 23 oct. 2019 ([RO 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Mise à jour par le ch. I al. 1 de l’O de l’OSAV du 26 sept. 2022 ([RO 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)), le ch. II al. 2 de l’O du DFI du 8 déc. 2023 ([RO 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)) et le ch. I des O de l’OSAV du 29 mai 2024 ([RO 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)) et du 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)).
-[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: https://fedlex.data.admin.ch/eli/oc/2024/755 &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-1]: Nouvelle teneur selon le ch. II al. 2 de l’O du DFI du 23 oct. 2019 ([RO 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Mise à jour par le ch. I al. 1 de l’O de l’OSAV du 26 sept. 2022 ([RO 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)), le ch. II al. 2 de l’O du DFI du 8 déc. 2023 ([RO 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)), le ch. I des O de l’OSAV du 29 mai 2024 ([RO 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)) et du 13 nov. 2024 ([RO 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)) et le ch. II al. 1 de l’O de l’OSAV du 2 juin 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)).
+[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/395](https://fedlex.data.admin.ch/eli/oc/2025/395) &gt; Informations générales &gt; Portée de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 3[^t-2]
 
@@ -1334,7 +1351,7 @@ Explications concernant les listes
 <tr><td>– Éther bis-(2-hydroxyéthylique) [= diéthylèneglycol] – Éthanediol [= monoéthylèneglycol]</td><td></td><td>Seulement pour les pellicules destinées à être vernies et ensuite utilisées pour des denrées alimentaires non humides, c’est-à-dire qui ne contiennent pas d’eau physiquement libre à la surface. La quantité totale d’éther bis(2-hydroxyéthylique) et d’éthanediol présente dans les denrées alimentaires ayant été en contact avec une pellicule de ce type ne peut dépasser 30 mg par kg de la denrée alimentaire.</td></tr>
 <tr><td>– 1,3-Butanediol – Glycérol – 1,2-Propanediol [= 1,2‑propylèneglycol] – Polyoxyéthylène [= polyéthylèneglycol]</td><td></td><td>Poids moléculaire moyen entre 250 et 1200.</td></tr>
 <tr><td>– 1,2-Polyoxypropylène [= 1,2‑polypropylèneglycol]</td><td></td><td>Poids moléculaire moyen inférieur ou égal à 400 et teneur en 1,3-propanediol libre inférieure ou égale à 1 % (m/m) en substance.</td></tr>
-<tr><td>– Sorbitol</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>– Sorbitol</td><td></td><td></td></tr>
 <tr><td>– Tétraéthylèneglycol</td><td></td><td></td></tr>
 <tr><td>– Triéthylèneglycol</td><td></td><td></td></tr>
 <tr><td>– Urée</td><td></td><td></td></tr>
@@ -1412,11 +1429,11 @@ Explications concernant les listes
 <tr><td>– Caséine</td><td></td><td></td></tr>
 <tr><td>– Colophane et/ou ses produits de polymérisation, d’hydrogénation ou de disproportionation et leurs esters des alcools méthylique et éthylique et alcools polyvalents C<sub>2</sub>–C<sub>6</sub> ou les mélanges de ces alcools</td><td></td><td></td></tr>
 <tr><td>– Colophane et/ou ses produits de polymérisation, d’hydrogénation ou de disproportionation condensés avec les acides acrylique et/ou maléique et/ou citrique et/ou fumarique et/ou phtalique et/ou 2,2-bis-(4-hydroxyphényl) propane-formaldéhyde et estérifiés avec les alcools méthylique et éthylique ou les alcools polyvalents de C<sub>2</sub> à C<sub>6</sub> ou les mélanges de ces alcools</td><td></td><td></td></tr>
-<tr><td>– Esters dérivés d’éther bis(2-hdroxy-éthylique) avec les produits d’addition de β-pinène, dipentène et/ou diterpène et anhydride maléique</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>– Esters dérivés d’éther bis(2-hdroxy-éthylique) avec les produits d’addition de β-pinène, dipentène et/ou diterpène et anhydride maléique</td><td></td><td></td></tr>
 <tr><td>– Gélatine alimentaire</td><td></td><td></td></tr>
 <tr><td>– Huile de ricin et ses produits de déshydratation et/ou d’hydrogénation et ses produits de condensation avec le polyglycérol, les acides adipique, citrique, maléique, phtalique et sébacique</td><td></td><td></td></tr>
 <tr><td>– Résines naturelles [= damar]</td><td></td><td></td></tr>
-<tr><td>– Poly-β-pinène [= résines terpéniques]</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>– Poly-β-pinène [= résines terpéniques]</td><td></td><td></td></tr>
 <tr><td>– Résines urée formaldéhyde (voir agents d’ancrage)</td><td></td><td></td></tr>
 <tr><td>3. Plastifiants</td><td></td><td>La quantité totale des substances ne peut dépasser 6 mg/dm<sup>2</sup> du vernis sur la face en contact avec les denrées alimentaires.</td></tr>
 <tr><td>– Acétyl citrate de tributyle</td><td></td><td></td></tr>
@@ -1485,11 +1502,11 @@ Annexe 8[^t-6]
 <table>
 <tr><td>Objet</td><td>Substance</td><td>Valeur limite</td></tr>
 <tr><td>a. objets non remplissables et objets remplissables dont la profondeur interne est inférieure ou égale à 25 mm:</td><td>plomb</td><td>0,8 mg/dm<sup>2</sup></td></tr>
-<tr><td>[tab]</td><td>cadmium</td><td>0,07 mg/dm<sup>2</sup></td></tr>
+<tr><td></td><td>cadmium</td><td>0,07 mg/dm<sup>2</sup></td></tr>
 <tr><td>b. objets remplissables dont la profondeur interne est supérieure à 25 mm:</td><td>plomb</td><td>4,0 mg/l</td></tr>
-<tr><td>[tab]</td><td>cadmium</td><td>0,3 mg/l</td></tr>
+<tr><td></td><td>cadmium</td><td>0,3 mg/l</td></tr>
 <tr><td>c. ustensiles de cuisson, de cuisson au four, emballages et récipients de stockage ayant une capacité supérieure à trois litres:</td><td>plomb</td><td>1,5 mg/l</td></tr>
-<tr><td>[tab]</td><td>cadmium</td><td>0,1 mg/l</td></tr>
+<tr><td></td><td>cadmium</td><td>0,1 mg/l</td></tr>
 </table>
 
 - 2\. Lorsqu’un objet est constitué d’un récipient muni d’un couvercle, le récipient et la surface interne du couvercle sont examinés dans les mêmes conditions. La somme des deux taux de cession de plomb ou de cadmium ainsi obtenue est rapportée, selon le cas, à la surface (al. 1, let. a) ou au volume (al. 1, let. b et c) du seul récipient. Pour l’appréciation, il y a lieu de tenir compte de la valeur limite exprimée en mg/dm2 ou en mg/l, telle que fixée à l’al. 1 pour le récipient en question.
@@ -1533,8 +1550,8 @@ Annexe 10[^t-9]
 
 [^annex10-lvlu1-1]
 
-[^t-9]: Nouvelle teneur selon le ch. I al. 3 de l’O de l’OSAV du 26 sept. 2022 ([RO 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)). Mise à jour par le ch. II al. 2 de l’O du DFI du 8 déc. 2023 ([RO 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)), le ch. I de l’O de l’OSAV du 29 mai 2024 ([RO 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)) et du 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)).
-[^annex10-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/755](https://fedlex.data.admin.ch/eli/oc/2024/755) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-9]: Nouvelle teneur selon le ch. I al. 3 de l’O de l’OSAV du 26 sept. 2022 ([RO 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)). Mise à jour par le ch. II al. 2 de l’O du DFI du 8 déc. 2023 ([RO 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)), le ch. I des O de l’OSAV du 29 mai 2024 ([RO 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)) et du 13 nov. 2024 ([RO 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)) et le ch. II al. 1 de l’O de l’OSAV du 2 juin 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)).
+[^annex10-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/395](https://fedlex.data.admin.ch/eli/oc/2025/395) &gt; Informations générales &gt; Portée de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 11
 
@@ -1542,7 +1559,7 @@ Annexe 11
 
 ## Symbole indiquant «Ne pas manger»
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20250101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20250701/fr/xml/image/image2.png)
 
 Annexe 12
 
@@ -1584,7 +1601,7 @@ Annexe 13[^t-10]
 
 ## Exigences particulières pour les vernis et les revêtements
 
-[^t-10]: Introduite par le ch. II al. 1 de l’O du DFI du 23 oct. 2019 ([RO 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Mise à jour par le ch. II al. 2 de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^t-10]: Introduite par le ch. II al. 1 de l’O du DFI du 23 oct. 2019 ([RO 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Mise à jour par le ch. II al. 2 de l’O de l’OSAV du 2 juin 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)).
 
 ### 1. BADGE, BFDGE et NOGE
 
@@ -1623,12 +1640,28 @@ Annexe 13[^t-10]
 - 1\.2 L’utilisation et/ou la présence de Novolac glycidyl éthers (NOGE), y compris de Bis(4-hydroxyphényl)-méthane bis(2,3-époxypropyl) éther (BFDGE, N<sup>o</sup> CAS 39817-09-9), dans la fabrication des matériaux et objets sont interdites.
 - 1\.3 Les exigences des ch. 1.1 et 1.2 ne s’appliquent pas aux conteneurs ou réservoirs de stockage d’une capacité supérieure à 10 000 litres ou aux canalisations qui les équipent ou auxquelles ils sont reliés, enduits de revêtements spéciaux dits «à haut rendement».
 
-### 2. 2,2-Bis(4-hydroxyphényl)propane (BPA)
+### 2 Bisphénol A
 
-- 2\.1 La migration dans ou sur des denrées alimentaires du 2,2-bis(4-hydroxyphényl)propane (BPA, N<sup>o</sup> CAS 80-05-7) provenant de vernis ou de revêtements appliqués sur des matériaux et objets ne doit pas excéder une limite de migration spécifique de 0,05 mg de BPA par kg de denrées alimentaires (mg/kg).
-- 2\.2 En dérogation au ch. 2.1, aucune migration de BPA n’est autorisée à partir de vernis ou de revêtements appliqués sur des matériaux et objets spécifiquement destinés à entrer en contact avec des préparations pour nourrissons, des préparations de suite, des préparations à base de céréales, des denrées alimentaires pour bébés, des denrées alimentaires destinées à des fins médicales spéciales mises au point pour répondre aux besoins nutritionnels des nourrissons et des enfants en bas âge ou des boissons à base de lait et des produits similaires spécifiquement destinés aux enfants en bas âge au sens de l’ordonnance du DFI du 16 décembre 2016 sur les denrées alimentaires destinées aux personnes ayant des besoins nutritionnels particuliers[^annex13-lvlu1-lvl2-1].
+- 2\.1 L’utilisation de 2,2-bis(4-hydroxyphényl)propane (BPA, n<sup>o</sup> CAS 80-05-7) et de ses sels dans la fabrication de vernis et de revêtements et la mise sur le marché de matériaux et objets enduits d’un vernis ou d’un revêtement fabriqué à l’aide de BPA sont interdites.
+- 2\.2 En dérogation au ch. 2.1, le BPA peut être utilisé comme monomère ou substance de départ dans la fabrication de résines époxy liquides en vue de leur application sur des matériaux ou objets autoporteurs d’une capacité supérieure à 1000 litres. La migration dans les denrées alimentaires ne doit pas être détectable. La limite de détection est fixée à 1 μg/kg de denrée alimentaire. Les objets finis entrant en contact avec des denrées alimentaires sont nettoyés et rincés avant d’être mis en contact pour la première fois avec des denrées alimentaires.
+- 2\.3 Une méthode d’extraction est utilisée pour vérifier qu’un matériau ou un objet ne contient pas de BPA. La limite de détection de la méthode doit être de 1 μg/kg.
 
-[^annex13-lvlu1-lvl2-1]: [RS 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
+### 3 Bisphénols et dérivés des bisphénols
+
+- 3\.1 Les structures chimiques sont les suivantes:
+
+<table>
+<tr><td>Bisphénol:</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20250701/fr/xml/image/image3.png)</td></tr>
+<tr><td>Dérivé des bisphénols:</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20250701/fr/xml/image/image4.png)</td></tr>
+<tr><td colspan="2">X désigne tout groupe de liaison séparant les deux anneaux de phényle par un seul atome. L’atome peut toutefois avoir n’importe quel(s) substituant(s). R<sub>1</sub> à R<sub>10</sub> désignent tout substituant. Au moins un des substituants n’est pas un atome d’hydrogène (H).</td></tr>
+</table>
+
+- 3\.2 Les vernis et les revêtements de matériaux et objets fabriqués à l’aide d’un autre bisphénol ou dérivé des bisphénols ne doivent pas contenir de résidus de 2,2-bis(4-hydroxyphényl)propane (BPA, n<sup>o</sup> CAS 80‑05‑7).
+- 3\.3 Un bisphénol dangereux ou un dérivé dangereux des bisphénols est un bisphénol ou un dérivé des bisphénols répertorié à l’annexe 2, ch. 1, OChim[^annex13-lvlu1-lvl3-1] en raison de sa classification harmonisée dans la catégorie 1A ou 1B «mutagène», «cancérogène», «toxique pour la reproduction» ou la catégorie 1 «perturbateur endocrinien» pour la santé humaine (substance CMRPE).
+- 3\.4 L’utilisation de bisphénols dangereux autres que le BPA ou les dérivés dangereux des bisphénols dans la fabrication de vernis et de revêtements, et la mise sur le marché de matériaux et objets enduits d’un vernis ou d’un revêtement fabriqué à l’aide de bisphénols dangereux autres que le BPA ou de dérivés dangereux des bisphénols sont interdites.
+- 3\.5 Une méthode d’extraction est utilisée pour vérifier qu’un matériau ou un objet ne contient pas de bisphénol dangereux ou de dérivé dangereux des bisphénols. La limite de détection de la méthode doit être de 1 μg/kg.
+
+[^annex13-lvlu1-lvl3-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
 Annexe 14[^t-11]
 
@@ -1636,7 +1669,7 @@ Annexe 14[^t-11]
 
 ## Déclaration de conformité pour les vernis et les revêtements
 
-[^t-11]: Introduite par le ch. II al. 1 de l’O du DFI du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
+[^t-11]: Introduite par le ch. II al. 1 de l’O du DFI du 23 oct. 2019 ([RO 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Mise à jour par le ch. II al. 2 de l’O de l’OSAV du 2 juin 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)).
 
 La déclaration de conformité visée à l’art. 40*b*, al. 2, contient les informations suivantes:
 
@@ -1644,14 +1677,8 @@ La déclaration de conformité visée à l’art. 40*b*, al. 2, contient les inf
 - b. l’identité et l’adresse de la personne responsable qui fabrique ou importe le matériau ou l’objet enduit;
 - c. l’identité du matériau ou de l’objet enduit;
 - d. la date de la déclaration;
-- e. la confirmation de la conformité du verni ou revêtement aux prescriptions légales applicables;
-- f.
-
-  des spécifications relatives à l’utilisation du matériau ou de l’objet enduit, telles que:
-
-  - 1\. les types de denrées alimentaires destinées à être mises en contact avec celui-ci,
-  - 2\. la durée et la température du traitement et de l’entreposage au contact de denrées alimentaires,
-  - 3\. le rapport surface en contact avec la denrée alimentaire/volume le plus élevé dont la conformité a été vérifié conformément aux exigences légales.
+- e. la confirmation de la conformité du vernis ou revêtement aux prescriptions légales applicables;
+- f. une liste des bisphénols ou dérivés des bisphénols utilisés dans la fabrication du matériau ou de l’objet.
 
 Annexe 15[^t-12]
 
