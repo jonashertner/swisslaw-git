@@ -4,13 +4,13 @@ number: "75"
 title: Besoldungsverordnung für die Lehrpersonen und die Fachpersonen der schulischen Dienste
 short: BVOL
 language: de
-version: 2021-08-01
-valid_until: 2025-06-30
-version_adopted: 2020-06-30
+version: 2025-07-01
+valid_until: 2025-07-31
+version_adopted: 2025-02-18
 adopted: 2005-06-17
 in_force: 2006-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/75"
-pdf: "https://srl.lu.ch/api/de/versions/3716/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4494/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3716/pdf_file"
 
 (BVOL)
 
-vom 17.06.2005 (Stand 01.08.2021)
+vom 17.06.2005 (Stand 01.07.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -68,7 +68,10 @@ beschliesst:
 - a. § 13a: über die Arbeitsmarktzulage,
 - b. § 14: über die Leistungszulage.
 
+<sup>3</sup> Auf das öffentlich-rechtliche Arbeitsverhältnis der Lehrpersonen der kantonalen Schulen ist zusätzlich § 20a der Besoldungsverordnung für das Staatspersonal[^2-2] sinngemäss anzuwenden.
+
 [^2-1]: SRL Nr. [73a](https://srl.lu.ch/data/73a/de). Auf diesen Erlass wird im Folgenden nicht mehr hingewiesen.
+[^2-2]: SRL Nr. [73a](https://srl.lu.ch/data/73a/de)
 
 #### § 3
 
