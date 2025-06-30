@@ -4,11 +4,11 @@ title: "Federal Act of 5 October 2001 on the Protection of Designs (Designs Act,
 short: DesA
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/226"
 language: en
-version: 2023-07-01
+version: 2025-07-01
 adopted: 2001-10-05
 in_force: 2002-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/226/20230701/en/xml/fedlex-data-admin-ch-eli-cc-2002-226-20230701-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/226/20230701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/226/20250701/en/xml/fedlex-data-admin-ch-eli-cc-2002-226-20250701-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/226/20250701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Designs Act, DesA)
 
-of 5 October 2001 (Status as of 1 July 2023)
+of 5 October 2001 (Status as of 1 July 2025)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -27,7 +27,7 @@ on the basis of Article 122 of the Federal Constitution[^ingress-1],[^ingress-2]
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Amended by Annex No 5 of the FA of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 [^ingress-3]: [BBl 2000 2729](https://fedlex.data.admin.ch/eli/fga/2000/557)
 
@@ -236,7 +236,7 @@ A design is considered to have been filed once an application for registration h
 
 <sup>2</sup> The Federal Council may limit the size and weight of multiple applications.
 
-[^20-1]: [SR 0.232.121.3](https://fedlex.data.admin.ch/eli/cc/1971/378_378_378)
+[^20-1]: [SR 0.232.121.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1077)
 
 #### Art. 21
 
@@ -254,7 +254,7 @@ Filing creates a presumption of novelty and individual character as well as of t
 
 <sup>2</sup> The first filing in a state that grants reciprocity to Switzerland has the same effect as the first filing in a Member State of the Paris Convention for the Protection of Industrial Property.
 
-[^22-1]: [SR 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253), [0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265), [0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127), [0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
+[^22-1]: [SR 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027), [0.232.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1028), [0.232.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1029), [0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 
 #### Art. 23
 
@@ -346,7 +346,7 @@ The IPI shall cancel a registration in whole or in part if:
 
 Any person who designates Switzerland in an international filing of an industrial design will thereby obtain the protection of this Act as if the filing had taken place in Switzerland. Where the provisions of the Hague Agreement of 6 November 1925[^29-1] Concerning the International Deposit of Industrial Designs are more favourable than the provisions of this Act for the proprietor of the international filing, the provisions of the Agreement will take precedence.
 
-[^29-1]: [BS **11** 1039]. See now the Agreement of 28 Nov. 1960 ([SR 0.232.121.2](https://fedlex.data.admin.ch/eli/cc/1984/889_889_889)).
+[^29-1]: [BS **11** 1039]. See now the Agreement of 28 Nov. 1960 ([SR 0.232.121.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1075)).
 
 ### Section 4 Fees
 
@@ -354,7 +354,7 @@ Any person who designates Switzerland in an international filing of an industria
 
 The amount of the fees to be paid under this Act and its ordinance as well as the terms of payment are governed by the Fee Regulations of 28 April 1997[^30-1] of the Swiss Federal Institute of Intellectual Property (IGE-GebO).
 
-[^30-1]: [[AS 1997 2173](https://fedlex.data.admin.ch/eli/oc/1997/2173_2173_2173); [1999 2632](https://fedlex.data.admin.ch/eli/oc/1999/414); [2005 2323](https://fedlex.data.admin.ch/eli/oc/2005/393); [2006 4487](https://fedlex.data.admin.ch/eli/oc/2006/692); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. VI; [2008 1897](https://fedlex.data.admin.ch/eli/oc/2008/278); [2011 2251](https://fedlex.data.admin.ch/eli/oc/2011/310); [2013 1307](https://fedlex.data.admin.ch/eli/oc/2013/299); [2016 1049](https://fedlex.data.admin.ch/eli/oc/2016/197). [AS 2016 4845](https://fedlex.data.admin.ch/eli/oc/2016/777)Art. 12]. See now the Ordinance of the IG of 14 June 2016 about fees ([SR 232.148](https://fedlex.data.admin.ch/eli/cc/2016/777)).
+[^30-1]: [[AS 1997 2173](https://fedlex.data.admin.ch/eli/oc/1997/2173_2173_2173); [1999 2632](https://fedlex.data.admin.ch/eli/oc/1999/414); [2005 2323](https://fedlex.data.admin.ch/eli/oc/2005/393); [2006 4487](https://fedlex.data.admin.ch/eli/oc/2006/692); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)No VI; [2008 1897](https://fedlex.data.admin.ch/eli/oc/2008/278); [2011 2251](https://fedlex.data.admin.ch/eli/oc/2011/310); [2013 1307](https://fedlex.data.admin.ch/eli/oc/2013/299); [2016 1049](https://fedlex.data.admin.ch/eli/oc/2016/197). [AS 2016 4845](https://fedlex.data.admin.ch/eli/oc/2016/777)Art. 12]. See now the Ordinance of the IG of 14 June 2016 about fees ([SR 232.148](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5978)).
 
 ## Chapter 3 Legal Remedies
 
@@ -423,7 +423,7 @@ A right holder whose right has been infringed or threatened may request the cour
 
 <sup>4</sup> Any person who holds an exclusive licence is entitled to bring a separate action irrespective of the registration of the licence in the Register unless this is expressly excluded in the licence agreement. Any licensees may join an infringement action in order to claim their own damages.
 
-[^35-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^35-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 36
 
@@ -500,7 +500,7 @@ Acts under Article 9 paragraph 1<sup>bis</sup> are not criminal offences.
 
 Articles 6 and 7 of the Federal Act of 22 March 1974[^42-1] on Administrative Criminal Law apply to offences committed within a business by subordinates, agents or representatives.
 
-[^42-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^42-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 43
 
@@ -524,59 +524,80 @@ The court may order the forfeiture and sale or destruction of the unlawfully pro
 
 Prosecution is the responsibility of the cantons.
 
-### Section 5 Assistance provided by the Federal Office for Customs and Border Security
+### Section 5 Assistance in connection with Items being brought into or taken out of the Customs Territory
 
 [^chap3-sec5-1]
 
-[^chap3-sec5-1]: Amended by No I 4 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change in the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^chap3-sec5-1]: Amended by No I 5 of the FA of 22 Dec. 2023 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, in force since 1 July 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 46
 
-**Notification of suspicious goods[^46-1]**
+**Notification of suspicious items**[^46-1]
 
-<sup>1</sup> The Federal Office for Customs and Border Security (FOCBS) is authorised to notify the right holder of a filed design if there is any suspicion that unlawfully manufactured items may imminently be brought into or taken out of Swiss customs territory.[^46-2]
+<sup>1</sup> The Federal Office for Customs and Border Security (FOCBS) is authorised to notify the right holder of a filed design if there is any suspicion that unlawfully manufactured items are about to be brought into or taken out of Swiss customs territory.
 
-<sup>2</sup> In such cases, the FOCBS[^46-3] is authorised to withhold the items for three working days in order that the right holder may file an application under Article 47.
+<sup>2</sup> In such cases, the FOCBS is authorised to withhold the items for three working days in order that the right holder may file an application under Article 47.
 
-[^46-1]: Amended by Annex No 4 of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^46-2]: Amended by No I 4 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change in the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^46-3]: Name in accordance with No I 4 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change in the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). This amendment has been made throughout the text.
+[^46-1]: Amended by No I 5 of the FA of 22 Dec. 2023 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, in force since 1 July 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 47
 
-**Application for assistance**
+**Application for assistance**[^47-1]
 
-<sup>1</sup> If the right holder or a licensee of a filed design entitled to initiate proceedings has clear indications that unlawfully manufactured items may imminently be brought into or taken out of Swiss customs territory, he may request the FOCBS in writing to refuse the release of the items.[^47-1]
+<sup>1</sup> If the right holder or a licensee of a filed design entitled to initiate proceedings has clear indications that unlawfully manufactured items are about to be brought into or taken out of the customs territory, he may request the FOCBS in writing to refuse the release of the items.
 
-<sup>2</sup> The person filing the application (the applicant) must provide all relevant information available to him that is necessary for the FOCBS’s decision; this includes a precise description of the items.
+<sup>2</sup>
 
-<sup>3</sup> The FOCBS makes the final decision on the application. It may charge a fee to cover the administrative costs.
+The person filing the application (applicant) may at the same time request in writing that the items be destroyed:
 
-[^47-1]: Amended by Annex No 5 of the FA of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+- a. in accordance with the ordinary procedure (Art. 48*c*–49); or
+- b. in accordance with the simplified procedure (Art. 49*a*) if the consignment is small.
+
+<sup>3</sup> In the application in accordance with paragraph 2, applicants may request that the items be handed over to them so that they can destroy the items themselves.
+
+<sup>4</sup> The application in accordance with paragraph 2 letter a must not result in the time limits for obtaining preliminary measures in accordance with Article 48 paragraphs 3 and 4 being extended.
+
+<sup>5</sup> The Federal Council shall determine what constitutes a small consignment, taking into account in particular the number of units contained in a consignment.
+
+<sup>6</sup> Applicants shall provide all the information available to them that the FOCBS requires in order to be able to decide on the application; this shall include a precise description of the items.
+
+<sup>7</sup> The FOCBS makes the final decision on the application. It may charge a fee to cover the administrative costs.
+
+[^47-1]: Amended by No I 5 of the FA of 22 Dec. 2023 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, in force since 1 July 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 48
 
-**Withholding of items**
+**Detention of items**[^48-1]
 
-<sup>1</sup> If the FOCBS, based on an application under Article 47 paragraph 1, has reasonable grounds to suspect that certain items intended to be brought into or taken out of Swiss customs territory have been unlawfully manufactured, then it shall notify both the applicant and the declarant, holder or owner of the items accordingly.[^48-1]
+<sup>1</sup>
 
-<sup>2</sup> The FOCBS shall withhold the items in question for a maximum of ten working days from the time of notification pursuant to paragraph 1, so that the applicant may obtain preliminary measures.
+If, as a result of an application for assistance in accordance with Article 47 paragraph 1, the FOCBS has grounds to suspect that the items intended to be brought into or taken out of the customs territory were unlawfully manufactured, it shall:
 
-<sup>3</sup> Where justified by circumstances, the FOCBS may withhold the items in question for a maximum of ten additional working days.
+- a. detain the items; and
+- b. inform the applicant and the declarant, holder or owner of the objects.
 
-[^48-1]: Amended by Annex No 5 of the FA of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+<sup>2</sup> If an application for the destruction of small consignments (Art. 47 para. 2 let. b) was submitted with the application for assistance in accordance with Article 47 paragraph 1, the procedure shall be governed exclusively by Article 49*a*.
+
+<sup>3</sup> The FOCBS shall detain the items for a maximum of ten working days from the date on which the applicant received the notification in accordance with paragraph 1 letter b so that the applicant may obtain preliminary measures.
+
+<sup>4</sup> Where justified by the circumstances, it may detain the item for a maximum of ten additional working days.
+
+<sup>5</sup> If the consignment is small, the FOCBS may transfer responsibility for the notification in accordance with paragraph 1 letter b and the further procedural steps to the IPI.
+
+[^48-1]: Amended by No I 5 of the FA of 22 Dec. 2023 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, in force since 1 July 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 48a
 
 **Samples**[^48a-1]
 
-<sup>1</sup> While the items are being withheld, the FOCBS is authorised to hand over or deliver to the applicant, on request, samples for examination or to permit the applicant to inspect the items being withheld.
+<sup>1</sup> While the items are being withheld, the FOCBS[^48a-2] is authorised to hand over or deliver to the applicant, on request, samples for examination or to permit the applicant to inspect the items being withheld.
 
 <sup>2</sup> The samples are collected and delivered at the expense of the applicant.
 
 <sup>3</sup> They must be returned after the examination has been carried out, if this is reasonable. If samples are retained by the applicant, they are subject to the provisions of customs legislation.
 
 [^48a-1]: Inserted by Annex No 4 of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^48a-2]: Name in accordance with No I 3 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change to the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). This change has been made throughout the text.
 
 #### Art. 48b
 
@@ -592,15 +613,18 @@ Prosecution is the responsibility of the cantons.
 
 #### Art. 48c
 
-**Application for destruction of the items**[^48c-1]
+**Notification of the application for destruction of items[^48c-2]**[^48c-1]
 
-<sup>1</sup> When making an application under Article 47 paragraph 1, the applicant may submit a written request to the FOCBS to destroy the items.
+<sup>1</sup> ...[^48c-3]
 
 <sup>2</sup> If an application for destruction is made, the FOCBS shall notify the declarant, holder or owner of the items accordingly as part of the notification made under Article 48 paragraph 1.
 
-<sup>3</sup> The application for destruction does not result in an extension to the time limits for obtaining preliminary measures under Article 48 paragraphs 2 and 3.
+<sup>3</sup> …[^48c-4]
 
-[^48c-1]: Inserted by Annex No 4 of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^48c-1]: Inserted by Annex No 3 of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^48c-2]: Amended by No I 5 of the FA of 22 Dec. 2023 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, in force since 1 July 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^48c-3]: Repealed by No I 5 of the FA of 22 Dec. 2023 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, with effect from 1 July 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^48c-4]: Repealed by No I 5 of the FA of 22 Dec. 2023 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, with effect from 1 July 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 48d
 
@@ -608,9 +632,10 @@ Prosecution is the responsibility of the cantons.
 
 <sup>1</sup> The destruction of the items requires the consent of the declarant, holder or owner.
 
-<sup>2</sup> Consent is deemed to be given if the declarant, holder or owner does not expressly object to the destruction within the time limits under Article 48 paragraphs 2 and 3.
+<sup>2</sup> Consent is deemed to be given if the declarant, holder or owner does not expressly object to the destruction within the time limits under Article 48 paragraphs 2 and 3[^48d-2].
 
 [^48d-1]: Inserted by Annex No 4 of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^48d-2]: Presently: Art. 48 para. 3 and 4.
 
 #### Art. 48e
 
@@ -649,6 +674,29 @@ Before the destruction of the items, the FOCBS shall remove samples and hold the
 <sup>2</sup> The applicant is liable for any losses incurred from withholding the items and from collecting the samples if preliminary measures are not ordered or prove to be unfounded.
 
 [^49-1]: Amended by Annex No 4 of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+
+#### Art. 49a
+
+**Simplified procedure for destroying small consignments**[^49a-1]
+
+<sup>1</sup>
+
+The FOCBS shall detain items if the consignment is small and:
+
+- a. if, as a result of an application for assistance in accordance with Article 47 paragraph 1, it has grounds to suspect that the items intended to be brought into or taken out of the customs territory were unlawfully manufactured; and
+- b. an application for the destruction of small consignments (Art. 47 para. 2 let. b) has been submitted.
+
+<sup>2</sup> It may transfer responsibility for conducting the further procedure to the IPI.
+
+<sup>3</sup> The competent authority shall provide the declarant, holder or owner of the items with notification of the suspicion and of the detained items and inform him that the items will be destroyed if he does not expressly object to the destruction within ten working days of receiving this notification.
+
+<sup>4</sup> If the declarant, holder or owner expressly objects to the destruction within the time limit specified in paragraph 3, the competent authority shall notify the applicant accordingly. The further procedure shall be governed *mutatis mutandis* by Articles 48 paragraphs 3 and 4, 48*a*, 48*b* and 49.
+
+<sup>5</sup> If the declarant, holder or owner agrees to the destruction or does not give an opinion within the time limit referred to in paragraph 3, the competent authority shall destroy the items at the applicant’s expense no earlier than three months after the notification specified in paragraph 3 or hand them over to the applicant for destruction if the applicant has requested this in accordance with Article 47 paragraph 3. Claims for damages by the applicant against the declarant, holder or owner are excluded.
+
+<sup>6</sup> The competent authority shall provide the applicant with information about the quantity and type of items destroyed in accordance with paragraph 5 and about the senders, whether inside or outside Switzerland.
+
+[^49a-1]: Inserted by No I 5 of the FA of 22 Dec. 2023 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, in force since 1 July 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 ## Chapter 4 Final Provisions
 

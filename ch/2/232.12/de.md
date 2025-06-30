@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 5. Oktober 2001 über den Schutz von Design (Designgese
 short: DesG
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/226"
 language: de
-version: 2023-07-01
+version: 2025-07-01
 adopted: 2001-10-05
 in_force: 2002-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/226/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2002-226-20230701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/226/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/226/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2002-226-20250701-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/226/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/226/20230701/de"
 
 (Designgesetz, DesG)
 
-vom 5. Oktober 2001 (Stand am 1. Juli 2023)
+vom 5. Oktober 2001 (Stand am 1. Juli 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 122 der Bundesverfassung[^ingress-1],[^ingress-2] nach Ein
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Fassung gemäss Anhang Ziff. 5 des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 [^ingress-3]: [BBl 2000 2729](https://fedlex.data.admin.ch/eli/fga/2000/557)
 
@@ -234,7 +234,7 @@ Ein Design gilt als hinterlegt, wenn beim IGE ein Eintragungsgesuch eingereicht 
 
 <sup>2</sup> Der Bundesrat kann die Sammelhinterlegung hinsichtlich Grösse und Gewicht beschränken.
 
-[^20-1]: [SR 0.232.121.3](https://fedlex.data.admin.ch/eli/cc/1971/378_378_378)
+[^20-1]: [SR 0.232.121.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1077)
 
 #### Art. 21
 
@@ -252,7 +252,7 @@ Die Hinterlegung begründet die Vermutung der Neuheit und der Eigenart sowie der
 
 <sup>2</sup> Die Ersthinterlegung in einem Staat, welcher der Schweiz Gegenrecht hält, hat die gleiche Wirkung wie die Ersthinterlegung in einem Mitgliedstaat der Pariser Verbandsübereinkunft.
 
-[^22-1]: [SR 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253), [0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265), [0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127), [0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
+[^22-1]: [SR 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027), [0.232.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1028), [0.232.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1029), [0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 
 #### Art. 23
 
@@ -344,7 +344,7 @@ Das IGE löscht eine Eintragung ganz oder teilweise, wenn:
 
 Wer ein gewerbliches Muster oder Modell (Design) international mit Benennung Schweiz hinterlegt, erlangt dadurch den Schutz dieses Gesetzes wie bei einer Hinterlegung in der Schweiz. Soweit die Bestimmungen des Haager Abkommens vom 6. November 1925[^29-1] über die internationale Hinterlegung gewerblicher Muster und Modelle für die Inhaberin oder den Inhaber der internationalen Hinterlegung günstiger sind als dieses Gesetz, gehen sie diesem vor.
 
-[^29-1]: [BS **11** 1039]. Siehe heute: das Abk. vom 28. Nov. 1960 ([SR 0.232.121.2](https://fedlex.data.admin.ch/eli/cc/1984/889_889_889)).
+[^29-1]: [BS **11** 1039]. Siehe heute: das Abk. vom 28. Nov. 1960 ([SR 0.232.121.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1075)).
 
 ### 4. Abschnitt: Gebühren
 
@@ -352,7 +352,7 @@ Wer ein gewerbliches Muster oder Modell (Design) international mit Benennung Sch
 
 Die Höhe der nach diesem Gesetz und seiner Verordnung zu zahlenden Gebühren sowie die Zahlungsmodalitäten richten sich nach der Gebührenordnung des Eidgenössischen Instituts für Geistiges Eigentum vom 28. April 1997[^30-1] (IGE-GebO).
 
-[^30-1]: [[AS 1997 2173](https://fedlex.data.admin.ch/eli/oc/1997/2173_2173_2173); [1999 2632](https://fedlex.data.admin.ch/eli/oc/1999/414); [2005 2323](https://fedlex.data.admin.ch/eli/oc/2005/393); [2006 4487](https://fedlex.data.admin.ch/eli/oc/2006/692); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. VI; [2008 1897](https://fedlex.data.admin.ch/eli/oc/2008/278); [2011 2251](https://fedlex.data.admin.ch/eli/oc/2011/310); [2013 1307](https://fedlex.data.admin.ch/eli/oc/2013/299); [2016 1049](https://fedlex.data.admin.ch/eli/oc/2016/197). [AS 2016 4845](https://fedlex.data.admin.ch/eli/oc/2016/777)Art. 12]. Siehe heute: die Verordnung des IG vom 14. Juni 2016 über Gebühren ([SR 232.148](https://fedlex.data.admin.ch/eli/cc/2016/777)).
+[^30-1]: [[AS 1997 2173](https://fedlex.data.admin.ch/eli/oc/1997/2173_2173_2173); [1999 2632](https://fedlex.data.admin.ch/eli/oc/1999/414); [2005 2323](https://fedlex.data.admin.ch/eli/oc/2005/393); [2006 4487](https://fedlex.data.admin.ch/eli/oc/2006/692); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. VI; [2008 1897](https://fedlex.data.admin.ch/eli/oc/2008/278); [2011 2251](https://fedlex.data.admin.ch/eli/oc/2011/310); [2013 1307](https://fedlex.data.admin.ch/eli/oc/2013/299); [2016 1049](https://fedlex.data.admin.ch/eli/oc/2016/197). [AS 2016 4845](https://fedlex.data.admin.ch/eli/oc/2016/777)Art. 12]. Siehe heute: die Verordnung des IG vom 14. Juni 2016 über Gebühren ([SR 232.148](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5978)).
 
 ## 3. Kapitel: Rechtsschutz
 
@@ -421,7 +421,7 @@ Die Rechtsinhaberin, die in ihren Rechten verletzt oder gefährdet wird, kann vo
 
 <sup>4</sup> Wer über eine ausschliessliche Lizenz verfügt, ist unabhängig von der Eintragung der Lizenz im Register selbstständig zur Klage berechtigt, sofern dies im Lizenzvertrag nicht ausdrücklich ausgeschlossen worden ist. Alle Lizenznehmerinnen und Lizenznehmer können einer Verletzungsklage beitreten, um ihren eigenen Schaden geltend zu machen.
 
-[^35-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^35-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 36
 
@@ -498,7 +498,7 @@ Handlungen nach Artikel 9 Absatz 1<sup>bis</sup> sind nicht strafbar.
 
 Bei Widerhandlungen in Geschäftsbetrieben durch Untergebene, Beauftragte oder Vertreter gelten die Artikel 6 und 7 des Bundesgesetzes vom 22. März 1974[^42-1] über das Verwaltungsstrafrecht.
 
-[^42-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^42-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 43
 
@@ -522,59 +522,80 @@ Das Gericht kann selbst im Falle eines Freispruchs die Einziehung oder Vernichtu
 
 Die Strafverfolgung ist Sache der Kantone.
 
-### 5. Abschnitt: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit
+### 5. Abschnitt: Hilfeleistung beim Verbringen von Gegenständen ins Zollgebiet oder aus dem Zollgebiet
 
 [^chap3-sec5-1]
 
-[^chap3-sec5-1]: Fassung gemäss Ziff. I 4 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^chap3-sec5-1]: Fassung gemäss Ziff. I 5 des BG vom 22. Dez. 2023 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 46
 
-**Anzeige verdächtiger Waren[^46-1]**
+**Anzeige verdächtiger Gegenstände**[^46-1]
 
-<sup>1</sup> Das Bundesamt für Zoll und Grenzsicherheit (BAZG) ist ermächtigt, die Rechtsinhaberin eines hinterlegten Designs zu benachrichtigen, wenn der Verdacht besteht, dass das Verbringen von widerrechtlich hergestellten Gegenständen ins schweizerische Zollgebiet oder aus dem schweizerischen Zollgebiet bevorsteht.[^46-2]
+<sup>1</sup> Das Bundesamt für Zoll und Grenzsicherheit (BAZG) ist ermächtigt, die Rechtsinhaberin eines hinterlegten Designs zu benachrichtigen, wenn der Verdacht besteht, dass das Verbringen von widerrechtlich hergestellten Gegenständen ins Zollgebiet oder aus dem Zollgebiet bevorsteht.
 
-<sup>2</sup> In diesem Falle ist das BAZG[^46-3] ermächtigt, die Gegenstände während drei Arbeitstagen zurückzuhalten, damit die Rechtsinhaberin einen Antrag nach Artikel 47 stellen kann.
+<sup>2</sup> In diesem Falle ist es ermächtigt, die Gegenstände während drei Arbeitstagen zurückzuhalten, damit die Rechtsinhaberin einen Antrag nach Artikel 47 stellen kann.
 
-[^46-1]: Fassung gemäss Anhang Ziff. 4 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^46-2]: Fassung gemäss Ziff. I 4 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^46-3]: Ausdruck gemäss Ziff. I 4 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^46-1]: Fassung gemäss Ziff. I 5 des BG vom 22. Dez. 2023 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 47
 
-**Antrag auf Hilfeleistung**
+**Antrag auf Hilfeleistung**[^47-1]
 
-<sup>1</sup> Hat die Rechtsinhaberin oder die klageberechtigte Lizenznehmerin beziehungsweise der klageberechtigte Lizenznehmer eines hinterlegten Designs konkrete Anhaltspunkte dafür, dass das Verbringen von widerrechtlich hergestellten Gegenständen ins schweizerische Zollgebiet oder aus dem schweizerischen Zollgebiet bevorsteht, so kann sie oder er beim BAZG schriftlich beantragen, die Freigabe der Gegenstände zu verweigern.[^47-1]
+<sup>1</sup> Hat die Rechtsinhaberin oder die klageberechtigte Lizenznehmerin beziehungsweise der klageberechtigte Lizenznehmer eines hinterlegten Designs konkrete Anhaltspunkte dafür, dass das Verbringen von widerrechtlich hergestellten Gegenständen ins Zollgebiet oder aus dem Zollgebiet bevorsteht, so kann sie oder er beim BAZG schriftlich beantragen, die Freigabe der Gegenstände zu verweigern.
 
-<sup>2</sup> Die den Antrag stellende Person (Antragstellerin) muss alle ihr zur Verfügung stehenden Angaben machen, die für den Entscheid des BAZG erforderlich sind; dazu gehört eine genaue Beschreibung der Gegenstände.
+<sup>2</sup>
 
-<sup>3</sup> Das BAZG entscheidet endgültig über den Antrag. Es kann eine Gebühr zur Deckung der Verwaltungskosten erheben.
+Die den Antrag stellende Person (Antragstellerin) kann gleichzeitig schriftlich beantragen, dass die Gegenstände vernichtet werden:
 
-[^47-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+- a. im ordentlichen Verfahren (Art. 48*c*–49); oder
+- b. im vereinfachten Verfahren (Art. 49*a*), wenn es sich um eine Kleinsendung handelt.
+
+<sup>3</sup> Sie kann im Antrag nach Absatz 2 verlangen, dass die Gegenstände ihr übergeben werden, damit sie sie selber vernichtet.
+
+<sup>4</sup> Der Antrag nach Absatz 2 Buchstabe a führt nicht dazu, dass die Fristen nach Artikel 48 Absätze 3 und 4 zur Erwirkung vorsorglicher Massnahmen verlängert werden.
+
+<sup>5</sup> Der Bundesrat bestimmt, was als Kleinsendung gilt; er berücksichtigt dabei namentlich die Anzahl der in einer Sendung enthaltenen Einheiten.
+
+<sup>6</sup> Die Antragstellerin muss alle ihr zur Verfügung stehenden Angaben machen, die das BAZG benötigt, um über den Antrag entscheiden zu können; dazu gehört eine genaue Beschreibung der Gegenstände.
+
+<sup>7</sup> Das BAZG entscheidet endgültig über den Antrag. Es kann eine Gebühr zur Deckung der Verwaltungskosten erheben.
+
+[^47-1]: Fassung gemäss Ziff. I 5 des BG vom 22. Dez. 2023 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 48
 
-**Zurückbehaltung der Gegenstände**
+**Zurückbehaltung der Gegenstände**[^48-1]
 
-<sup>1</sup> Hat das BAZG aufgrund eines Antrags nach Artikel 47 Absatz 1 den begründeten Verdacht, dass zum Verbringen ins schweizerische Zollgebiet oder aus dem schweizerischen Zollgebiet bestimmte Gegenstände widerrechtlich hergestellt worden sind, so teilt es dies einerseits der Antragstellerin beziehungsweise dem Antragsteller und andererseits der Anmelderin, Besitzerin oder Eigentümerin beziehungsweise dem Anmelder, Besitzer oder Eigentümer der Gegenstände mit.[^48-1]
+<sup>1</sup>
 
-<sup>2</sup> Das BAZG behält die betreffenden Gegenstände bis zu zehn Arbeitstage vom Zeitpunkt der Mitteilung nach Absatz 1 an zurück, damit die Antragstellerin vorsorgliche Massnahmen erwirken kann.
+Hat das BAZG aufgrund eines Antrags auf Hilfeleistung nach Artikel 47 Absatz 1 den Verdacht, dass die zum Verbringen ins Zollgebiet oder aus dem Zollgebiet bestimmten Gegenstände widerrechtlich hergestellt worden sind, so:
 
-<sup>3</sup> In begründeten Fällen kann das BAZG die betreffenden Gegenstände während höchstens zehn weiteren Arbeitstagen zurückbehalten.
+- a. behält es die Gegenstände zurück; und
+- b. teilt es dies einerseits der Antragstellerin und andererseits der Anmelderin, Besitzerin oder Eigentümerin beziehungsweise dem Anmelder, Besitzer oder Eigentümer der Gegenstände mit.
 
-[^48-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+<sup>2</sup> Wurde mit dem Antrag auf Hilfeleistung nach Artikel 47 Absatz 1 ein Antrag auf Vernichtung von Kleinsendungen (Art. 47 Abs. 2 Bst. b) gestellt, so richtet sich das Verfahren ausschliesslich nach Artikel 49*a.*
+
+<sup>3</sup> Das BAZG behält die Gegenstände während höchstens zehn Arbeitstagen, nachdem die Antragstellerin die Mitteilung nach Absatz 1 Buchstabe b erhalten hat, zurück, damit diese vorsorgliche Massnahmen erwirken kann.
+
+<sup>4</sup> In begründeten Fällen kann es den Gegenstand während höchstens zehn weiteren Arbeitstagen zurückbehalten.
+
+<sup>5</sup> Handelt es sich um eine Kleinsendung, so kann es die Zuständigkeit für die Mitteilung nach Absatz 1 Buchstabe b und die weiteren Verfahrensschritte dem IGE übertragen.
+
+[^48-1]: Fassung gemäss Ziff. I 5 des BG vom 22. Dez. 2023 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 48a
 
 **Proben oder Muster**[^48a-1]
 
-<sup>1</sup> Während des Zurückbehaltens der Gegenstände ist das BAZG ermächtigt, der Antragstellerin auf Antrag Proben oder Muster zur Prüfung zu übergeben oder zuzusenden oder ihr die Besichtigung der Gegenstände zu gestatten.
+<sup>1</sup> Während des Zurückbehaltens der Gegenstände ist das BAZG[^48a-2] ermächtigt, der Antragstellerin auf Antrag Proben oder Muster zur Prüfung zu übergeben oder zuzusenden oder ihr die Besichtigung der Gegenstände zu gestatten.
 
 <sup>2</sup> Die Proben oder Muster werden auf Kosten der Antragstellerin entnommen und versandt.
 
 <sup>3</sup> Sie müssen nach erfolgter Prüfung, soweit sinnvoll, zurückgegeben werden. Verbleiben Proben oder Muster bei der Antragstellerin, so unterliegen sie den Bestimmungen der Zollgesetzgebung.
 
 [^48a-1]: Eingefügt durch Anhang Ziff. 4 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^48a-2]: Ausdruck gemäss Ziff. I 4 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 48b
 
@@ -590,15 +611,18 @@ Die Strafverfolgung ist Sache der Kantone.
 
 #### Art. 48c
 
-**Antrag auf Vernichtung der Gegenstände**[^48c-1]
+**Mitteilung über den Antrag auf Vernichtung der Gegenstände[^48c-2]**[^48c-1]
 
-<sup>1</sup> Zusammen mit dem Antrag nach Artikel 47 Absatz 1 kann die Antragstellerin beim BAZG schriftlich beantragen, die Gegenstände zu vernichten.
+<sup>1</sup> …[^48c-3]
 
 <sup>2</sup> Wird ein Antrag auf Vernichtung gestellt, so teilt das BAZG dies der Anmelderin, Besitzerin oder Eigentümerin beziehungsweise dem Anmelder, Besitzer oder Eigentümer im Rahmen der Mitteilung nach Artikel 48 Absatz 1 mit.
 
-<sup>3</sup> Der Antrag auf Vernichtung führt nicht dazu, dass die Fristen nach Artikel 48 Absätze 2 und 3 zur Erwirkung vorsorglicher Massnahmen verlängert werden.
+<sup>3</sup> …[^48c-4]
 
 [^48c-1]: Eingefügt durch Anhang Ziff. 4 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^48c-2]: Fassung gemäss Ziff. I 5 des BG vom 22. Dez. 2023 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^48c-3]: Aufgehoben durch Ziff. I 5 des BG vom 22. Dez. 2023 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, mit Wirkung seit 1. Juli 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^48c-4]: Aufgehoben durch Ziff. I 5 des BG vom 22. Dez. 2023 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, mit Wirkung seit 1. Juli 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 48d
 
@@ -606,9 +630,10 @@ Die Strafverfolgung ist Sache der Kantone.
 
 <sup>1</sup> Für die Vernichtung der Gegenstände ist die Zustimmung der Anmelderin, Besitzerin oder Eigentümerin beziehungsweise des Anmelders, Besitzers oder Eigentümers erforderlich.
 
-<sup>2</sup> Die Zustimmung gilt als erteilt, wenn die Anmelderin, Besitzerin oder Eigentümerin beziehungsweise der Anmelder, Besitzer oder Eigentümer die Vernichtung nicht innerhalb der Fristen nach Artikel 48 Absätze 2 und 3 ausdrücklich ablehnt.
+<sup>2</sup> Die Zustimmung gilt als erteilt, wenn die Anmelderin, Besitzerin oder Eigentümerin beziehungsweise der Anmelder, Besitzer oder Eigentümer die Vernichtung nicht innerhalb der Fristen nach Artikel 48 Absätze 2 und 3[^48d-2] ausdrücklich ablehnt.
 
 [^48d-1]: Eingefügt durch Anhang Ziff. 4 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^48d-2]: Heute: Art. 48 Abs. 3 und 4.
 
 #### Art. 48e
 
@@ -647,6 +672,29 @@ Vor der Vernichtung der Gegenstände entnimmt das BAZG Proben oder Muster und be
 <sup>2</sup> Die Antragstellerin muss den Schaden, der durch das Zurückbehalten der Gegenstände und die Entnahme von Proben oder Mustern entstanden ist, ersetzen, wenn vorsorgliche Massnahmen nicht angeordnet werden oder sich als unbegründet erweisen.
 
 [^49-1]: Fassung gemäss Anhang Ziff. 4 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+
+#### Art. 49a
+
+**Vereinfachtes Verfahren zur Vernichtung von Kleinsendungen**[^49a-1]
+
+<sup>1</sup>
+
+Das BAZG behält Gegenstände zurück, wenn es sich um eine Kleinsendung handelt und:
+
+- a. es aufgrund eines Antrags auf Hilfeleistung nach Artikel 47 Absatz 1 den Verdacht hat, dass die zum Verbringen ins Zollgebiet oder aus dem Zollgebiet bestimmten Gegenstände widerrechtlich hergestellt worden sind; und
+- b. ein Antrag auf Vernichtung von Kleinsendungen (Art. 47 Abs. 2 Bst. b) gestellt wurde.
+
+<sup>2</sup> Es kann die Zuständigkeit für die Durchführung des weiteren Verfahrens dem IGE übertragen.
+
+<sup>3</sup> Die zuständige Behörde informiert die Anmelderin, Besitzerin oder Eigentümerin beziehungsweise den Anmelder, Besitzer oder Eigentümer der Gegenstände über den Verdacht und die zurückbehaltenen Gegenstände und weist sie oder ihn darauf hin, dass die Gegenstände vernichtet werden, wenn sie oder er die Vernichtung nicht innerhalb von zehn Arbeitstagen nach Empfang dieser Information ausdrücklich ablehnt.
+
+<sup>4</sup> Lehnt die Anmelderin, Besitzerin oder Eigentümerin beziehungsweise der Anmelder, Besitzer oder Eigentümer die Vernichtung innerhalb der Frist nach Absatz 3 ausdrücklich ab, so teilt die zuständige Behörde dies der Antragstellerin mit. Das weitere Verfahren richtet sich sinngemäss nach den Artikeln 48 Absätze 3 und 4, 48*a*, 48*b* und 49.
+
+<sup>5</sup> Stimmt die Anmelderin, Besitzerin oder Eigentümerin beziehungsweise der Anmelder, Besitzer oder Eigentümer der Vernichtung zu oder lässt sie oder er sich innerhalb der Frist nach Absatz 3 nicht vernehmen, so vernichtet die zuständige Behörde die Gegenstände auf Kosten der Antragstellerin frühestens drei Monate nach der Information nach Absatz 3 oder überlässt sie der Antragstellerin zur Vernichtung, sofern sie dies nach Artikel 47 Absatz 3 verlangt hat. Schadenersatzansprüche der Antragstellerin gegen die Anmelderin, Besitzerin oder Eigentümerin beziehungsweise den Anmelder, Besitzer oder Eigentümer sind ausgeschlossen.
+
+<sup>6</sup> Die zuständige Behörde informiert die Antragstellerin über die Menge und die Art sowie über die Absender im In- oder Ausland der nach Absatz 5 vernichteten Gegenstände.
+
+[^49a-1]: Eingefügt durch Ziff. I 5 des BG vom 22. Dez. 2023 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 ## 4. Kapitel: Schlussbestimmungen
 

@@ -4,11 +4,11 @@ title: "Loi fédérale du 5 octobre 2001 sur la protection des designs (Loi sur 
 short: LDes
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/226"
 language: fr
-version: 2023-07-01
+version: 2025-07-01
 adopted: 2001-10-05
 in_force: 2002-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/226/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2002-226-20230701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/226/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/226/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2002-226-20250701-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/226/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/226/20230701/fr"
 
 (Loi sur les designs, LDes)
 
-du 5 octobre 2001 (État le 1<sup>er</sup> juillet 2023)
+du 5 octobre 2001 (État le 1<sup>er</sup> juillet 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +25,7 @@ vu l’art. 122 de la Constitution[^ingress-1],[^ingress-2] vu le message du Con
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 [^ingress-3]: [FF 2000 2587](https://fedlex.data.admin.ch/eli/fga/2000/557)
 
@@ -224,7 +224,7 @@ Le dépôt d’un design est réputé effectué lorsqu’une demande d’enregis
 <sup>4</sup> Contre versement d’une taxe, le design peut être décrit en 100 mots au plus afin d’expliquer la représentation.
 
 [^19-1]: Nouvelle teneur selon l’annexe ch. 3 de l’AF du 28 sept. 2018 portant approbation et mise en œuvre de la convention n<sup>o</sup> 94 du Conseil de l’Europe sur la notification à l’étranger des documents en matière administrative, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 975](https://fedlex.data.admin.ch/eli/oc/2019/177); [FF 2017 5589](https://fedlex.data.admin.ch/eli/fga/2017/1678)).
-[^19-2]: Nouvelle expression selon l’annexe ch. 5 de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([[RO 2015 3631](http://www.admin.ch/ch/f/as/2015/3631.pdf)](https://fedlex.data.admin.ch/eli/oc/2015/609); [[FF 2009 7711](http://www.admin.ch/ch/f/ff/2009/7711.pdf)](https://fedlex.data.admin.ch/eli/fga/2009/1471)). Il a été tenu compte de cette mod. dans tout le texte.
+[^19-2]: Nouvelle expression selon l’annexe ch. 5 de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ( [[RO 2015 3631](http://www.admin.ch/ch/f/as/2015/3631.pdf)](https://fedlex.data.admin.ch/eli/oc/2015/609); [[FF 2009 7711](http://www.admin.ch/ch/f/ff/2009/7711.pdf)](https://fedlex.data.admin.ch/eli/fga/2009/1471)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 20
 
@@ -234,7 +234,7 @@ Le dépôt d’un design est réputé effectué lorsqu’une demande d’enregis
 
 <sup>2</sup> Le Conseil fédéral peut limiter le dépôt multiple quant aux dimensions et au poids.
 
-[^20-1]: [RS 0.232.121.3](https://fedlex.data.admin.ch/eli/cc/1971/378_378_378)
+[^20-1]: [RS 0.232.121.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1077)
 
 #### Art. 21
 
@@ -252,7 +252,7 @@ Le dépôt crée la présomption de la nouveauté et de l’originalité du desi
 
 <sup>2</sup> Le premier dépôt dans un État accordant la réciprocité à la Suisse déploie les mêmes effets que le premier dépôt dans un État partie à la Convention d’Union de Paris.
 
-[^22-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253), [0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265), [0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127), [0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
+[^22-1]: [RS 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027), [0.232.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1028), [0.232.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1029), [0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 
 #### Art. 23
 
@@ -344,7 +344,7 @@ L’IPI procède à la radiation partielle ou totale de l’enregistrement:
 
 Quiconque procède au dépôt international d’un dessin ou modèle industriel (design) désignant la Suisse bénéficie de la protection que la présente loi confère au titulaire d’un dépôt effectué en Suisse. Les dispositions de l’Arrangement de La Haye du 6 novembre 1925 concernant le dépôt international des dessins et modèles industriels[^29-1] priment celles de la présente loi si elles sont plus favorables au titulaire du dépôt international.
 
-[^29-1]: [RS **11** 1000]. Voir actuellement l’ar. de la Haye du 28 nov. 1960 concernant le dépôt international des dessins ou modèles industriels révisé à La Haye le 28 nov. 1960 ([RS 0.232.121.2](https://fedlex.data.admin.ch/eli/cc/1984/889_889_889)).
+[^29-1]: [[RS 11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4723)1000]. Voir actuellement l’ar. de la Haye du 28 nov. 1960 concernant le dépôt international des dessins ou modèles industriels révisé à La Haye le 28 nov. 1960 ([RS 0.232.121.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1075)).
 
 ### Section 4 Taxes
 
@@ -352,7 +352,7 @@ Quiconque procède au dépôt international d’un dessin ou modèle industriel 
 
 Le montant des taxes à payer en vertu de la présente loi et de son ordonnance ainsi que les modalités de paiement sont régis par le règlement du 28 avril 1997 sur les taxes de l’Institut Fédéral de la Propriété Intellectuelle (IPI-RT)[^30-1].
 
-[^30-1]: [[RO 1997 2173](https://fedlex.data.admin.ch/eli/oc/1997/2173_2173_2173), [1999 2632](https://fedlex.data.admin.ch/eli/oc/1999/414), [2005 2323](https://fedlex.data.admin.ch/eli/oc/2005/393), [2006 4487](https://fedlex.data.admin.ch/eli/oc/2006/692), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)ch. VI, [2008 1897](https://fedlex.data.admin.ch/eli/oc/2008/278), [2011 2251](https://fedlex.data.admin.ch/eli/oc/2011/310), [2013 1307](https://fedlex.data.admin.ch/eli/oc/2013/299), [2016 1049](https://fedlex.data.admin.ch/eli/oc/2016/197). [RO 2016 4845](https://fedlex.data.admin.ch/eli/oc/2016/777)art. 12]. Voir actuellement l’O de l’IPI du 2 déc. 2016 sur les taxes ([RS 232.148](https://fedlex.data.admin.ch/eli/cc/2016/777)).
+[^30-1]: [[RO 1997 2173](https://fedlex.data.admin.ch/eli/oc/1997/2173_2173_2173), [1999 2632](https://fedlex.data.admin.ch/eli/oc/1999/414), [2005 2323](https://fedlex.data.admin.ch/eli/oc/2005/393), [2006 4487](https://fedlex.data.admin.ch/eli/oc/2006/692), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)ch. VI, [2008 1897](https://fedlex.data.admin.ch/eli/oc/2008/278), [2011 2251](https://fedlex.data.admin.ch/eli/oc/2011/310), [2013 1307](https://fedlex.data.admin.ch/eli/oc/2013/299), [2016 1049](https://fedlex.data.admin.ch/eli/oc/2016/197). [RO 2016 4845](https://fedlex.data.admin.ch/eli/oc/2016/777)art. 12]. Voir actuellement l’O de l’IPI du 2 déc. 2016 sur les taxes ([RS 232.148](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5978)).
 
 ## Chapitre 3 Voies de droit
 
@@ -375,7 +375,7 @@ La poursuite de la procédure est exclue en cas d’inobservation des délais:
 
 [^31-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
-### Section 2 ...
+### Section 2 …
 
 #### Art. 32
 
@@ -421,7 +421,7 @@ Le titulaire qui subit ou risque de subir une violation de ses droits peut deman
 
 <sup>4</sup> Les preneurs de licence exclusive peuvent intenter une action indépendamment de l’inscription de la licence, pour autant que le contrat de licence ne l’exclue pas explicitement. Tout preneur de licence peut intervenir dans une procédure en contre-façon pour faire valoir le dommage qu’il a subi.
 
-[^35-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^35-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 36
 
@@ -498,7 +498,7 @@ Les actes visés à l’art. 9, al. 1<sup>bis</sup> ne sont pas punissables.
 
 Les art. 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^42-1] s’appliquent aux infractions commises dans la gestion d’une entreprise par un subordonné, un mandataire ou un représentant.
 
-[^42-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^42-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 43
 
@@ -522,83 +522,109 @@ Même en cas d’acquittement, le tribunal peut ordonner la confiscation ou la d
 
 La poursuite pénale incombe aux cantons.
 
-### Section 5 Intervention de l’Office fédéral de la douane et de la sécurité des frontières
+### Section 5 Interventions lors de l’introduction d’objets sur le territoire douanier ou de leur acheminement hors de celui‑ci
 
 [^chap3-sec5-1]
 
-[^chap3-sec5-1]: Nouvelle teneur selon le ch. I 4 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^chap3-sec5-1]: Nouvelle teneur selon le ch. I 5 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 46
 
-**Dénonciation d’objets suspects[^46-1]**
+**Dénonciation d’objets suspects**[^46-1]
 
-<sup>1</sup> L’Office fédéral de la douane et de la sécurité des frontières (OFDF) est habilité à informer le titulaire d’un *design* déposé lorsqu’il y a lieu de soupçonner que l’introduction dans le territoire douanier suisse d’objets fabriqués illicitement ou leur sortie sont imminentes.[^46-2]
+<sup>1</sup> L’Office fédéral de la douane et de la sécurité des frontières (OFDF) est habilité à informer le titulaire d’un design déposé lorsqu’il y a lieu de soupçonner que l’introduction sur le territoire douanier d’objets fabriqués illicitement ou l’acheminement de tels objets hors du territoire douanier sont imminents.
 
-<sup>2</sup> Dans ce cas, l’OFDF[^46-3] est habilité à retenir les objets pendant trois jours ouvrables afin de permettre au titulaire de déposer une demande en vertu de l’art. 47.
+<sup>2</sup> Dans ce cas, il est habilité à retenir les objets pendant trois jours ouvrables afin de permettre au titulaire de déposer une demande au sens de l’art. 47.
 
-[^46-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^46-2]: Nouvelle teneur selon le ch. I 4 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^46-3]: Nouvelle expression selon le ch. I 4 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Il a été tenu compte de cette mod. dans tout le texte.
+[^46-1]: Nouvelle teneur selon le ch. I 5 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 47
 
-**Demande d’intervention**
+**Demande d’intervention**[^47-1]
 
-<sup>1</sup> Lorsque le titulaire d’un design déposé ou le preneur de licence qui a qualité pour agir ont des indices concrets permettant de soupçonner que l’introduction dans le territoire douanier suisse d’objets fabriqués illicitement ou leur sortie sont imminentes, ils peuvent demander par écrit à l’OFDF de refuser la mainlevée de ces objets.[^47-1]
+<sup>1</sup> Lorsque le titulaire d’un design déposé ou le preneur de licence qui a qualité pour agir a des indices concrets que l’introduction sur le territoire douanier d’objets fabriqués illicitement ou l’acheminement de tels objets hors du territoire douanier sont imminents, il peut demander par écrit à l’OFDF de refuser la mainlevée des objets.
 
-<sup>2</sup> Le requérant fournit à l’OFDF toutes les indications dont il dispose et dont celui-ci a besoin pour statuer sur la demande; il lui remet notamment une description précise des objets.
+<sup>2</sup>
 
-<sup>3</sup> L’OFDF statue définitivement. Il peut percevoir une taxe pour couvrir les frais administratifs.
+Le requérant peut par la même occasion demander par écrit que les objets soient détruits:
 
-[^47-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+- a. selon la procédure ordinaire (art. 48*c* à 49), ou
+- b. selon la procédure simplifiée (art. 49*a*) s’il s’agit d’un petit envoi.
+
+<sup>3</sup> Dans la demande visée à l’al. 2, il peut exiger que les objets lui soient remis afin qu’il les détruise lui-même.
+
+<sup>4</sup> La demande visée à l’al. 2, let. a, ne donne pas lieu à une prolongation des délais prévus à l’art. 48, al. 3 et 4, pour l’obtention de mesures provisionnelles.
+
+<sup>5</sup> Le Conseil fédéral détermine ce qu’il faut entendre par petit envoi; ce faisant, il tient compte notamment du nombre d’unités contenues dans un envoi.
+
+<sup>6</sup> Le requérant fournit à l’OFDF toutes les indications dont il dispose et dont celui-ci a besoin pour statuer sur la demande, notamment une description précise des objets.
+
+<sup>7</sup> L’OFDF statue définitivement sur la demande. Il peut percevoir un émolument pour couvrir les frais administratifs.
+
+[^47-1]: Nouvelle teneur selon le ch. I 5 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 48
 
-**Rétention des objets**
+**Rétention des objets**[^48-1]
 
-<sup>1</sup> Lorsque, à la suite d’une demande déposée en vertu de l’art. 47, al. 1, l’OFDF a des raisons fondées de soupçonner l’introduction dans le territoire douanier suisse d’objets fabriqués illicitement ou leur sortie, il en informe le requérant, d’une part, et le déclarant, le possesseur ou le propriétaire des objets, d’autre part.[^48-1]
+<sup>1</sup>
 
-<sup>2</sup> Afin de permettre au requérant d’obtenir des mesures provisionnelles, l’OFDF retient les objets en cause durant dix jours ouvrables au plus à compter de la communication prévue à l’al. 1.
+Lorsque, à la suite d’une demande d’intervention au sens de l’art. 47, al. 1, l’OFDF a des raisons de soupçonner que les objets destinés à être introduits sur le territoire douanier ou à être acheminés hors de celui-ci ont été fabriqués illicitement, il:
 
-<sup>3</sup> Si les circonstances le justifient, l’OFDF peut retenir les objets en cause durant un délai supplémentaire de dix jours ouvrables au plus.
+- a. retient les objets, et
+- b. en informe le requérant, d’une part, et le déclarant, le possesseur ou le propriétaire des objets, de l’autre.
 
-[^48-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+<sup>2</sup> Si une demande de destruction d’un petit envoi (art. 47, al. 2, let. b) a été déposée avec la demande d’intervention visée à l’art. 47, al. 1, la procédure est régie uniquement par l’art. 49*a*.
+
+<sup>3</sup> Afin de permettre au requérant d’obtenir des mesures provisionnelles, l’OFDF retient les objets durant dix jours ouvrables au plus à compter du moment où il l’a informé conformément à l’al. 1, let. b.
+
+<sup>4</sup> Si les circonstances le justifient, il peut prolonger ce délai de dix jours ouvrables au plus.
+
+<sup>5</sup> Lorsqu’il s’agit d’un petit envoi, il peut confier à l’IPI la responsabilité d’informer le requérant conformément à l’al. 1, let. b, et de conduire la suite de la procédure.
+
+[^48-1]: Nouvelle teneur selon le ch. I 5 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 48a
 
-**Échantillons**[^48a-1]
+**Spécimens ou échantillons**[^48a-1]
 
-<sup>1</sup> Sur demande, l’OFDF est habilité, pendant la durée de la rétention des objets, à remettre ou à envoyer au requérant des échantillons à des fins d’examen ou à le laisser examiner sur place les objets retenus.
+<sup>1</sup> Sur demande, l’OFDF est habilité, pendant la durée de la rétention des objets, à remettre ou à envoyer au requérant des spécimens ou des échantillons à des fins d’examen ou à le laisser examiner sur place les objets retenus.
 
-<sup>2</sup> Le requérant supporte les frais liés au prélèvement et à l’envoi des échantillons.
+<sup>2</sup> Le requérant supporte les frais liés au prélèvement et à l’envoi des spécimens ou des échantillons.
 
-<sup>3</sup> Une fois l’examen des échantillons effectué, ceux-ci doivent être restitués, pour autant que cela se justifie. Si des échantillons demeurent chez le requérant, ils sont soumis aux dispositions de la législation douanière.
+<sup>3</sup> Une fois l’examen des spécimens ou des échantillons effectué, ceux-ci doivent être restitués, pour autant que cela se justifie. Si des spécimens ou des échantillons demeurent chez le requérant, ils sont soumis aux dispositions de la législation douanière.
 
-[^48a-1]: Introduit par l’annexe ch. 5 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^48a-1]: Introduit par l’annexe ch. 5 de la LF du 22 juin 2007 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)). Nouvelle teneur selon le ch. I 5 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 48b
 
 **Protection des secrets de fabrication ou d’affaires**[^48b-1]
 
-<sup>1</sup> En même temps que la communication visée à l’art. 48, al. 1 l’OFDF informe le déclarant, le possesseur ou le propriétaire des objets de la possibilité, prévue à l’art. 48*a*, al. 1, de remettre des échantillons au requérant ou de le laisser examiner sur place les objets retenus.
+<sup>1</sup> En même temps que la communication visée à l’art. 48, al. 1, l’OFDF informe le déclarant, le possesseur ou le propriétaire des objets de la possibilité, prévue à l’art. 48*a*, al. 1, de remettre des spécimens ou des échantillons au requérant ou de le laisser examiner sur place les objets retenus.[^48b-2]
 
 <sup>2</sup> Le déclarant, le possesseur ou le propriétaire des objets peut demander d’assister à l’examen afin de protéger ses secrets de fabrication ou d’affaires.
 
-<sup>3</sup> Sur demande motivée du déclarant, du possesseur ou du propriétaire des objets, l’OFDF peut refuser la remise d’échantillons.
+<sup>3</sup> Sur demande motivée du déclarant, du possesseur ou du propriétaire des objets, l’OFDF peut refuser la remise de spécimens ou d’échantillons.[^48b-3]
 
 [^48b-1]: Introduit par l’annexe ch. 4 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^48b-2]: Nouvelle teneur selon le ch. I 5 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^48b-3]: Nouvelle teneur selon le ch. I 5 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 48c
 
-**Demande de destruction des objets**[^48c-1]
+**Information concernant la demande de destruction des objets[^48c-2]**[^48c-1]
 
-<sup>1</sup> Lorsqu’il dépose une demande en vertu de l’art. 47, al. 1 le requérant peut demander par écrit à l’OFDF la destruction des objets.
+<sup>1</sup> …[^48c-3]
 
-<sup>2</sup> Lorsqu’une demande de destruction est déposée, l’OFDF en informe le déclarant, le possesseur ou le propriétaire des objets dans le cadre de l’information visée à l’art. 48, al. 1.
+<sup>2</sup> Lorsqu’une demande de destruction est déposée, l’OFDF[^48c-4] en informe le déclarant, le possesseur ou le propriétaire des objets dans le cadre de l’information visée à l’art. 48, al. 1.
 
-<sup>3</sup> La demande de destruction ne donne pas lieu à une prolongation des délais prévus à l’art. 48, al. 2 et 3 pour l’obtention de mesures provisionnelles.
+<sup>3</sup> …[^48c-5]
 
 [^48c-1]: Introduit par l’annexe ch. 4 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^48c-2]: Nouvelle teneur selon le ch. I 5 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^48c-3]: Abrogé par le ch. I 5 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, avec effet au 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^48c-4]: Nouvelle expression selon le ch. I 4 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Il a été tenu compte de cette mod. dans tout le texte.
+[^48c-5]: Abrogé par le ch. I 5 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, avec effet au 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 48d
 
@@ -606,17 +632,18 @@ La poursuite pénale incombe aux cantons.
 
 <sup>1</sup> La destruction des objets requiert l’approbation du déclarant, du possesseur ou du propriétaire.
 
-<sup>2</sup> L’approbation est réputée acquise lorsque le déclarant, le possesseur ou le propriétaire des objets ne s’oppose pas expressément à leur destruction dans les délais prévus à l’art. 48, al. 2 et 3.
+<sup>2</sup> L’approbation est réputée acquise lorsque le déclarant, le possesseur ou le propriétaire des objets ne s’oppose pas expressément à leur destruction dans les délais prévus à l’art. 48, al. 2 et 3[^48d-2].
 
 [^48d-1]: Introduit par l’annexe ch. 4 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^48d-2]: Actuellement: art. 48, al. 3 et 4.
 
 #### Art. 48e
 
 **Moyens de preuve**[^48e-1]
 
-Avant la destruction des produits, l’OFDF prélève des échantillons et les conserve en tant que moyens de preuve en vue d’une éventuelle action en dommages-intérêts.
+Avant la destruction des objets, l’OFDF prélève des spécimens ou des échantillons et les conserve en tant que moyens de preuve en vue d’une éventuelle action en dommages-intérêts
 
-[^48e-1]: Introduit par l’annexe ch. 4 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^48e-1]: Introduit par l’annexe ch. 4 de la LF du 22 juin 2007 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)). Nouvelle teneur selon le ch. I 5 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 48f
 
@@ -624,9 +651,10 @@ Avant la destruction des produits, l’OFDF prélève des échantillons et les c
 
 <sup>1</sup> Si la destruction des objets se révèle infondée, le requérant répond seul du dommage qui en résulte.
 
-<sup>2</sup> Si le déclarant, le possesseur ou le propriétaire des objets donne son approbation par écrit à leur destruction et que celle-ci se révèle par la suite infondée, le requérant ne peut être tenu de verser des dommages-intérêts.
+<sup>2</sup> Si le déclarant, le possesseur ou le propriétaire des objets donne son approbation par écrit pour leur destruction et si celle-ci se révèle par la suite infondée, le requérant ne peut être tenu de verser des dommages-intérêts.[^48f-2]
 
 [^48f-1]: Introduit par l’annexe ch. 4 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^48f-2]: Nouvelle teneur selon le ch. I 5 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 48g
 
@@ -634,9 +662,10 @@ Avant la destruction des produits, l’OFDF prélève des échantillons et les c
 
 <sup>1</sup> Le requérant supporte les frais liés à la destruction des objets.
 
-<sup>2</sup> La question des coûts liés au prélèvement et à la conservation des échantillons au sens de l’art. 48*e* est tranchée par le juge dans le cadre de l’appréciation des dommages-intérêts visés à l’art. 48*f*, al. 1.
+<sup>2</sup> La question des coûts liés au prélèvement et à la conservation des spécimens ou des échantillons au sens de l’art. 48*e* est tranchée par le tribunal dans le cadre de l’appréciation des dommages-intérêts visés à l’art. 48*f*, al. 1.[^48g-2]
 
 [^48g-1]: Introduit par l’annexe ch. 4 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^48g-2]: Nouvelle teneur selon le ch. I 5 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 49
 
@@ -644,9 +673,33 @@ Avant la destruction des produits, l’OFDF prélève des échantillons et les c
 
 <sup>1</sup> Si la rétention des objets risque d’occasionner un dommage, l’OFDF peut la subordonner à la condition que le requérant lui fournisse une déclaration de responsabilité. Si les circonstances le justifient, il peut, en lieu et place, exiger du requérant qu’il fournisse des sûretés adéquates.
 
-<sup>2</sup> Le requérant est tenu de réparer le dommage causé par la rétention des objets et par le prélèvement d’échantillons si des mesures provisionnelles n’ont pas été ordonnées ou si elles se sont révélées infondées.
+<sup>2</sup> Le requérant est tenu de réparer le dommage causé par la rétention des objets et par le prélèvement de spécimens ou d’échantillons si des mesures provisionnelles n’ont pas été ordonnées ou si elles se sont révélées infondées.[^49-2]
 
 [^49-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^49-2]: Nouvelle teneur selon le ch. I 5 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+
+#### Art. 49a
+
+**Procédure simplifiée de destruction de petits envois**[^49a-1]
+
+<sup>1</sup>
+
+S’il s’agit d’un petit envoi, l’OFDF retient les objets:
+
+- a. si, à la suite d’une demande d’intervention au sens de l’art. 47, al. 1, il a des raisons de soupçonner que ces objets destinés à être introduits sur le territoire douanier ou à être acheminés hors de celui-ci ont été fabriqués illicitement, et
+- b. si une demande de destruction d’un petit envoi (art. 47, al. 2, let. b) a été déposée.
+
+<sup>2</sup> Il peut confier à l’IPI la responsabilité de la suite de la procédure.
+
+<sup>3</sup> L’autorité compétente informe le déclarant, le possesseur ou le propriétaire de son soupçon et de la rétention des objets et lui signifie que les objets seront détruits s’il ne s’y oppose pas expressément dans les dix jours ouvrables à compter de la réception de l’information.
+
+<sup>4</sup> Si le déclarant, le possesseur ou le propriétaire s’oppose expressément à la destruction dans le délai visé à l’al. 3, l’autorité compétente en informe le requérant. Pour la suite de la procédure, les art. 48, al. 3 et 4, 48*a*, 48*b* et 49 s’appliquent par analogie.
+
+<sup>5</sup> Si le déclarant, le possesseur ou le propriétaire consent à la destruction ou s’il ne donne pas son avis dans le délai prévu à l’al. 3, l’autorité compétente détruit les objets aux frais du requérant au plus tôt trois mois à compter de l’information visée à l’al. 3 ou les confie au requérant en vue de leur destruction si celui-ci l’a requis conformément à l’art. 47, al. 3. Toute demande de dommages-intérêts du requérant à l’égard du déclarant, du possesseur ou du propriétaire est exclue.
+
+<sup>6</sup> L’autorité compétente informe le requérant de la quantité des objets détruits en vertu de l’al. 5, de leur nature ainsi que des expéditeurs en Suisse ou à l’étranger.
+
+[^49a-1]: Introduit par le ch. I 5 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 ## Chapitre 4 Dispositions finales
 
@@ -700,7 +753,7 @@ II
 
 Le droit en vigueur est modifié comme suit:
 
-...[^annexu1-lvlu1-2]
+…[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [RS **2** 866; [RO 1956 861](https://fedlex.data.admin.ch/eli/oc/1956/805_861_872), [1962 465](https://fedlex.data.admin.ch/eli/oc/1962/459_465_479), [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)annexe ch. I let. f, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 9, [1995 1784](https://fedlex.data.admin.ch/eli/oc/1995/1784_1784_1784)[5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)annexe ch. 3]
+[^annexu1-lvlu1-1]: [[RS 2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5701)866; [RO 1956 861](https://fedlex.data.admin.ch/eli/oc/1956/805_861_872), [1962 465](https://fedlex.data.admin.ch/eli/oc/1962/459_465_479), [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)annexe ch. I let. f, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 9, [1995 1784](https://fedlex.data.admin.ch/eli/oc/1995/1784_1784_1784)[5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)annexe ch. 3]
 [^annexu1-lvlu1-2]: Les mod. peuvent être consultées au [RO 2002 1456](https://fedlex.data.admin.ch/eli/oc/2002/226).

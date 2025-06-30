@@ -4,11 +4,11 @@ title: "Legge federale del 5 ottobre 2001 sulla protezione del design (Legge sul
 short: LDes
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/226"
 language: it
-version: 2023-07-01
+version: 2025-07-01
 adopted: 2001-10-05
 in_force: 2002-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/226/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2002-226-20230701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/226/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/226/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2002-226-20250701-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/226/20250701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/226/20230701/it"
 
 (Legge sul design, LDes)
 
-del 5 ottobre 2001 (Stato 1° luglio 2023)
+del 5 ottobre 2001 (Stato 1° luglio 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visto l’articolo 122 della Costituzione federale[^ingress-1];[^ingress-2] vist
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nuovo testo giusta l’all. n. 5 della LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 [^ingress-3]: [FF 2000 2432](https://fedlex.data.admin.ch/eli/fga/2000/557)
 
@@ -70,7 +70,7 @@ La protezione del design è esclusa, se:
 - d. il design viola il diritto federale o trattati internazionali[^4-1];
 - e. il design è contrario all’ordine pubblico o ai buoni costumi.
 
-[^4-1]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^4-1]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 ### Sezione 2: Esistenza del diritto di design
 
@@ -227,8 +227,8 @@ Il design è considerato depositato dal momento in cui è presentata una domanda
 
 [^19-1]: Nuovo testo giusta l’all. n. 3 del DF del 28 set. 2018 concernente l’approvazione e l’attuazione della Conv. n. 94 del Consiglio d’Europa sulla notificazione all’estero dei documenti in materia amministrativa, in vigore dal 1° apr. 2019 ([RU 2019 975](https://fedlex.data.admin.ch/eli/oc/2019/177); [FF 2017 5061](https://fedlex.data.admin.ch/eli/fga/2017/1678)).
 [^19-2]: Nuova designazione giusta l’all. n. 5 della LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^19-3]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^19-4]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^19-3]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^19-4]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 20
 
@@ -238,7 +238,7 @@ Il design è considerato depositato dal momento in cui è presentata una domanda
 
 <sup>2</sup> Il Consiglio federale può limitare le dimensioni e il peso del deposito cumulativo.
 
-[^20-1]: [RS 0.232.121.3](https://fedlex.data.admin.ch/eli/cc/1971/378_378_378)
+[^20-1]: [RS 0.232.121.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1077)
 
 #### Art. 21
 
@@ -256,8 +256,8 @@ Il deposito crea la presunzione della novità e dell’originalità del design n
 
 <sup>2</sup> Il primo deposito in uno Stato che garantisce alla Svizzera la reciprocità ha gli stessi effetti del primo deposito in uno Stato firmatario della Convenzione d’Unione di Parigi.
 
-[^22-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253),[0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265), [0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127),[0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
-[^22-2]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^22-1]: [RS 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027),[0.232.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1028), [0.232.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1029),[0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
+[^22-2]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 23
 
@@ -305,7 +305,7 @@ Il deposito crea la presunzione della novità e dell’originalità del design n
 
 <sup>3</sup> L’IPI mantiene segreto il design depositato fino alla scadenza del periodo di differimento. Il segreto è mantenuto illimitatamente, se il deposito viene ritirato prima della scadenza del periodo di differimento.
 
-[^26-1]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^26-1]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 26a
 
@@ -351,7 +351,7 @@ L’IPI cancella del tutto o in parte la registrazione se:
 
 Chi effettua il deposito internazionale di un disegno o modello industriale (design) con denominazione Svizzera consegue la protezione garantita dalla presente legge come nel caso di deposito in Svizzera. Qualora le disposizioni dell’Accordo dell’Aja del 6 novembre 1925[^29-1] concernente il deposito internazionale dei disegni o modelli industriali siano più favorevoli al depositario internazionale di quelle della presente legge, esse prevalgono su queste ultime.
 
-[^29-1]: [CS **11** 1000]. Vedi ora l’Acc. del 29 nov. 1960 ([RS 0.232.121.2](https://fedlex.data.admin.ch/eli/cc/1984/889_889_889)).
+[^29-1]: [CS **11** 1000]. Vedi ora l’Acc. del 29 nov. 1960 ([RS 0.232.121.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1075)).
 
 ### Sezione 4: Emolumenti
 
@@ -359,7 +359,7 @@ Chi effettua il deposito internazionale di un disegno o modello industriale (des
 
 L’ammontare degli emolumenti da pagare secondo la presente legge e la relativa ordinanza nonché le modalità di pagamento sono retti dal Regolamento del 28 aprile 1997[^30-1] sulle tasse dell’Istituto della proprietà intellettuale (OT-IPI).
 
-[^30-1]: [[RU 1997 2173](https://fedlex.data.admin.ch/eli/oc/1997/2173_2173_2173); [1999 2632](https://fedlex.data.admin.ch/eli/oc/1999/414); **2001** 23855; [2005 2323](https://fedlex.data.admin.ch/eli/oc/2005/393); [2006 4487](https://fedlex.data.admin.ch/eli/oc/2006/692); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)n. VI; [2008 1897](https://fedlex.data.admin.ch/eli/oc/2008/278), [2431](https://fedlex.data.admin.ch/eli/oc/2008/349); [2011 2251](https://fedlex.data.admin.ch/eli/oc/2011/310); [2013 1307](https://fedlex.data.admin.ch/eli/oc/2013/299); [2016 1049](https://fedlex.data.admin.ch/eli/oc/2016/197). [RU 2016 4845](https://fedlex.data.admin.ch/eli/oc/2016/777)art. 12 ]. Vedi ora l’O dell’IPI del 14 giu. 2016 sulle tasse, in vigore dal 1° gen. 2017 ([RS 232.148](https://fedlex.data.admin.ch/eli/cc/2016/777)).
+[^30-1]: [[RU 1997 2173](https://fedlex.data.admin.ch/eli/oc/1997/2173_2173_2173); [1999 2632](https://fedlex.data.admin.ch/eli/oc/1999/414); **2001** 23855; [2005 2323](https://fedlex.data.admin.ch/eli/oc/2005/393); [2006 4487](https://fedlex.data.admin.ch/eli/oc/2006/692); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)cifra VI; [2008 1897](https://fedlex.data.admin.ch/eli/oc/2008/278), [2431](https://fedlex.data.admin.ch/eli/oc/2008/349); [2011 2251](https://fedlex.data.admin.ch/eli/oc/2011/310); [2013 1307](https://fedlex.data.admin.ch/eli/oc/2013/299); [2016 1049](https://fedlex.data.admin.ch/eli/oc/2016/197). [RU 2016 4845](https://fedlex.data.admin.ch/eli/oc/2016/777)art. 12 ]. Vedi ora l’O dell’IPI del 14 giu. 2016 sulle tasse, in vigore dal 1° gen. 2017 ([RS 232.148](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5978)).
 
 ## Capitolo 3: Protezione giuridica
 
@@ -381,7 +381,7 @@ Il proseguimento della procedura è escluso in caso di inosservanza dei termini:
 - b. per rivendicare una priorità.
 
 [^31-1]: Nuovo testo giusta l’all. n. 4 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^31-2]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^31-2]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 ### Sezione 2: ...
 
@@ -429,8 +429,8 @@ Il titolare del diritto, che è leso o rischia di essere leso nel suo diritto, p
 
 <sup>4</sup> Chi dispone di una licenza esclusiva[^35-2] è legittimato in proprio all’azione indipendentemente dal fatto che la licenza sia iscritta nel registro, sempre che il contratto di licenza non lo escluda espressamente. Tutti i titolari di una licenza possono intervenire in un’azione per contraffazione per far valere il danno da essi subìto.
 
-[^35-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^35-2]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^35-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^35-2]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 36
 
@@ -442,7 +442,7 @@ Il giudice può ordinare la confisca e la realizzazione o la distruzione degli o
 
 [^37-1]
 
-[^37-1]: Abrogato dall’all. 1 n. II 11 del codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^37-1]: Abrogato dall’all. 1 cifra II n. 11 del codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 #### Art. 38
 
@@ -455,7 +455,7 @@ Chi chiede al giudice di ordinare provvedimenti cautelari può in particolare es
 - c. salvaguardare lo stato di fatto; o
 - d. attuare a titolo provvisorio le pretese di omissione o di cessazione della turbativa.
 
-[^38-1]: Nuovo testo giusta l’all. 1 n. II 11 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^38-1]: Nuovo testo giusta l’all. 1 cifra II n. 11 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 #### Art. 39
 
@@ -488,7 +488,7 @@ Chiunque, intenzionalmente, viola il diritto di design:
 <sup>2</sup> Se agisce per mestiere, l’autore del reato è perseguito d’ufficio. È punito con una pena detentiva fino a cinque anni o con una pena pecuniaria. ...[^41-2] [^41-3]
 
 [^41-1]: Nuovo testo giusta l’all. n. 4 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^41-2]: Per. abrogato dal n. I 7 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^41-2]: Per. abrogato dalla cifra I n. 7 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^41-3]: Nuovo testo giusta l’all. n. 4 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 41a
@@ -505,7 +505,7 @@ Gli atti di cui all’articolo 9 capoverso 1<sup>bis</sup> sono esenti da pena.
 
 Ai dipendenti, mandatari o rappresentanti che commettono infrazioni nell’azienda sono applicabili gli articoli 6 e 7 della legge federale del 22 marzo 1974[^42-1] sul diritto penale amministrativo.
 
-[^42-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^42-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 43
 
@@ -529,84 +529,109 @@ Anche in caso di assoluzione, il giudice può ordinare la confisca o la distruzi
 
 Il perseguimento penale compete ai Cantoni.
 
-### Sezione 5: Intervento dell’Ufficio federale della dogana e della sicurezza dei confini
+### Sezione 5: Intervento in caso di introduzione di oggetti nel territorio doganale o di asportazione di oggetti dal territorio doganale
 
 [^chap3-sec5-1]
 
-[^chap3-sec5-1]: Nuovo testo giusta il n. I 4 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^chap3-sec5-1]: Nuovo testo giusta la cifra I n. 5 della LF del 22 dic. 2023 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in vigore dal 1° lug. 2025 ([RU 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 46
 
-**Denuncia di merci sospette[^46-1]**
+**Denuncia di oggetti sospetti**[^46-1]
 
-<sup>1</sup> L’Ufficio federale della dogana e della sicurezza dei confini (UDSC) è autorizzato ad avvisare il titolare di un design depositato qualora vi sia il sospetto dell’imminente introduzione nel territorio doganale svizzero o dell’imminente asportazione dal territorio doganale svizzero di oggetti prodotti illecitamente.[^46-2]
+<sup>1</sup> L’Ufficio federale della dogana e della sicurezza dei confini (UDSC) è autorizzato ad avvisare il titolare di un design depositato qualora vi sia il sospetto dell’imminente introduzione nel territorio doganale o dell’imminente asportazione dal territorio doganale di oggetti prodotti illecitamente.
 
-<sup>2</sup> In tali casi l’UDSC[^46-3] è autorizzato a trattenere gli oggetti durante tre giorni feriali affinché il titolare del diritto possa presentare una domanda giusta l’articolo 47.
+<sup>2</sup> In tali casi, è autorizzato a trattenere gli oggetti durante tre giorni feriali affinché il titolare del diritto possa presentare una domanda giusta l’articolo 47.
 
-[^46-1]: Nuovo testo giusta l’all. n. 4 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^46-2]: Nuovo testo giusta il n. I 4 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^46-3]: Nuova espr. giusta il n. I 4 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^46-1]: Nuovo testo giusta la cifra I n. 5 della LF del 22 dic. 2023 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in vigore dal 1° lug. 2025 ([RU 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 47
 
-**Domanda d’intervento**
+**Domanda d’intervento**[^47-1]
 
-<sup>1</sup> Se dispone di indizi concreti per ritenere imminente l’introduzione nel territorio doganale svizzero o l’asportazione dal territorio doganale svizzero di oggetti prodotti illecitamente, il titolare del design depositato o il titolare di una licenza legittimato ad agire può chiedere per scritto all’UDSC di negare lo svincolo di tali oggetti.[^47-1]
+<sup>1</sup> Se dispone di indizi concreti per ritenere imminente l’introduzione nel territorio doganale o l’asportazione dal territorio doganale di oggetti prodotti illecitamente, il titolare del design depositato o il titolare di una licenza legittimato ad agire può chiedere per scritto all’UDSC[^47-2] di negare lo svincolo di tali oggetti.
 
-<sup>2</sup> La persona che presenta la domanda (richiedente) deve fornire tutte le indicazioni di cui dispone e che sono necessarie per la decisione dell’UDSC; fornisce tra l’altro una descrizione esatta degli oggetti.
+<sup>2</sup>
 
-<sup>3</sup> L’UDSC decide definitivamente in merito alla domanda. Può riscuotere una tassa[^47-2] a copertura delle spese amministrative.
+Il richiedente può al contempo chiedere per scritto che gli oggetti siano distrutti:
 
-[^47-1]: Nuovo testo giusta l’all. n. 5 della LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^47-2]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+- a. secondo la procedura ordinaria (art. 48*c*–49); o
+- b. secondo la procedura semplificata (art. 49*a*), se si tratta di un piccolo invio.
+
+<sup>3</sup> Nella domanda di cui al capoverso 2 il richiedente può chiedere che gli oggetti gli siano consegnati perché provveda lui stesso alla distruzione.
+
+<sup>4</sup> La domanda di cui al capoverso 2 lettera a non dà luogo a una proroga dei termini per chiedere provvedimenti cautelari secondo l’articolo 48 capoversi 3 e 4.
+
+<sup>5</sup> Il Consiglio federale definisce cosa si debba considerare piccolo invio; a tal fine tiene conto in particolare del numero di unità contenute nell’invio.
+
+<sup>6</sup> Il richiedente fornisce tutte le indicazioni in suo possesso di cui l’UDSC necessita per decidere in merito alla domanda; fornisce in particolare una descrizione precisa degli oggetti.
+
+<sup>7</sup> L’UDSC decide definitivamente in merito alla domanda. Può riscuotere un emolumento per coprire le spese amministrative.
+
+[^47-1]: Nuovo testo giusta la cifra I n. 5 della LF del 22 dic. 2023 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in vigore dal 1° lug. 2025 ([RU 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^47-2]: Nuova espr. giusta la cifra I n. 4 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 48
 
-**Trattenuta degli oggetti**
+**Ritenzione degli oggetti**[^48-1]
 
-<sup>1</sup> Se, in seguito a una domanda d’intervento ai sensi dell’articolo 47 capoverso 1, ha motivi fondati di sospettare che oggetti prodotti illecitamente siano introdotti nel territorio doganale svizzero o asportati dal territorio doganale svizzero, l’UDSC lo comunica al richiedente nonché al dichiarante, al detentore o al proprietario di tali oggetti.[^48-1]
+<sup>1</sup>
 
-<sup>2</sup> L’UDSC trattiene gli oggetti in questione fino dieci giorni feriali a contare dal momento della comunicazione secondo il capoverso 1, affinché il richiedente possa ottenere provvedimenti cautelari.
+Se, in seguito a una domanda d’intervento ai sensi dell’articolo 47 capoverso 1, ha motivo di sospettare che gli oggetti destinati a essere introdotti nel territorio doganale o asportati dal territorio doganale siano prodotti illecitamente, l’UDSC:
 
-<sup>3</sup> In casi motivati, l’UDSC può trattenere gli oggetti in questione per altri dieci giorni feriali al massimo.
+- a. trattiene gli oggetti; e
+- b. lo comunica al richiedente nonché al dichiarante, detentore o proprietario degli oggetti.
 
-[^48-1]: Nuovo testo giusta l’all n. 5 della LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+<sup>2</sup> Se con la domanda d’intervento di cui all’articolo 47 capoverso 1 è presentata una domanda di distruzione di piccoli invii (art. 47 cpv. 2 lett. b), la procedura è retta esclusivamente dall’articolo 49*a*.
+
+<sup>3</sup> L’UDSC trattiene gli oggetti al massimo per dieci giorni feriali dalla ricezione da parte del richiedente della comunicazione di cui al capoverso 1 lettera b, per consentirgli di chiedere provvedimenti cautelari.
+
+<sup>4</sup> In casi motivati, può trattenere gli oggetti per altri dieci giorni feriali al massimo.
+
+<sup>5</sup> Se si tratta di un piccolo invio, può incaricare l’IPI della comunicazione di cui al capoverso 1 lettera b e di svolgere le ulteriori fasi della procedura.
+
+[^48-1]: Nuovo testo giusta la cifra I n. 5 della LF del 22 dic. 2023 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in vigore dal 1° lug. 2025 ([RU 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 48a
 
-**Campioni**[^48a-1]
+**Campioni o modelli**[^48a-1]
 
-<sup>1</sup> Durante la ritenzione degli oggetti, l’UDSC è abilitato, su domanda, a consegnare o inviare, per esame, campioni degli oggetti al richiedente o a consentirgli di ispezionare gli oggetti ritenuti.
+<sup>1</sup> Durante la ritenzione degli oggetti, l’UDSC è abilitato, su domanda, a consegnare o inviare, per esame, campioni o modelli degli oggetti al richiedente o a consentirgli di ispezionare gli oggetti ritenuti.
 
-<sup>2</sup> Le spese per il prelievo e l’invio dei campioni sono a carico del richiedente.
+<sup>2</sup> Le spese per il prelievo e l’invio dei campioni o modelli sono a carico del richiedente.
 
-<sup>3</sup> Dopo l’esame, i campioni, sempre che ciò sia opportuno, devono essere restituiti. Se rimangono presso il richiedente, i campioni sottostanno alle disposizioni della legislazione doganale.
+<sup>3</sup> Dopo l’esame, i campioni o modelli, sempre che ciò sia opportuno, devono essere restituiti. Se rimangono presso il richiedente, i campioni o modelli sottostanno alle disposizioni della legislazione doganale.
 
-[^48a-1]: Introdotto dall’all. n. 4 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^48a-1]: Introdotto dall’all. n. 4 della LF del 22 giu. 2007 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)). Nuovo testo giusta la cifra I n. 5 della LF del 22 dic. 2023 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in vigore dal 1° lug. 2025 ([RU 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 48b
 
 **Tutela dei segreti di fabbricazione e d’affari**[^48b-1]
 
-<sup>1</sup> Contemporaneamente alla comunicazione di cui all’articolo 48 capoverso 1, l’UDSC informa il dichiarante, detentore o proprietario degli oggetti della possibile consegna di campioni o della possibilità di ispezionarli secondo l’articolo 48*a* capoverso 1.
+<sup>1</sup> Contemporaneamente alla comunicazione di cui all’articolo 48 capoverso 1, l’UDSC informa il dichiarante, detentore o proprietario degli oggetti della possibile consegna di campioni o modelli o della possibilità di ispezionarli secondo l’articolo 48*a* capoverso 1.[^48b-2]
 
 <sup>2</sup> Il dichiarante, detentore o proprietario può chiedere di essere presente durante l’ispezione al fine di tutelare i propri segreti di fabbricazione o d’affari.
 
-<sup>3</sup> L’UDSC può, su richiesta motivata del dichiarante, detentore o proprietario, rifiutare la consegna di campioni.
+<sup>3</sup> L’UDSC può, su richiesta motivata del dichiarante, detentore o proprietario, rifiutare la consegna di campioni o modelli.[^48b-3]
 
 [^48b-1]: Introdotto dall’all. n. 4 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^48b-2]: Nuovo testo giusta la cifra I n. 5 della LF del 22 dic. 2023 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in vigore dal 1° lug. 2025 ([RU 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^48b-3]: Nuovo testo giusta la cifra I n. 5 della LF del 22 dic. 2023 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in vigore dal 1° lug. 2025 ([RU 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 48c
 
-**Domanda di distruzione degli oggetti**[^48c-1]
+**Comunicazione concernente la domanda di distruzione degli oggetti[^48c-2]**[^48c-1]
 
-<sup>1</sup> Insieme con la domanda secondo l’articolo 47 capoverso 1, il richiedente può chiedere per scritto all’UDSC di distruggere gli oggetti.
+<sup>1</sup> ...[^48c-3]
 
 <sup>2</sup> Se è presentata una domanda di distruzione degli oggetti, l’UDSC ne avvisa il dichiarante, detentore o proprietario nella comunicazione di cui all’articolo 48 capoverso 1.
 
-<sup>3</sup> La domanda di distruzione degli oggetti non implica un prolungamento dei termini per chiedere provvedimenti cautelari secondo l’articolo 48 capoversi 2 e 3.
+<sup>3</sup> ...[^48c-4]
 
 [^48c-1]: Introdotto dall’all. n. 4 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^48c-2]: Nuovo testo giusta la cifra I n. 5 della LF del 22 dic. 2023 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in vigore dal 1° lug. 2025 ([RU 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^48c-3]: Abrogato dalla cifra I n. 5 della LF del 22 dic. 2023 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, con effetto dal 1° lug. 2025 ([RU 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^48c-4]: Abrogato dalla cifra I n. 5 della LF del 22 dic. 2023 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, con effetto dal 1° lug. 2025 ([RU 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 48d
 
@@ -614,17 +639,18 @@ Il perseguimento penale compete ai Cantoni.
 
 <sup>1</sup> Per la distruzione degli oggetti è necessario il consenso del dichiarante, detentore o proprietario.
 
-<sup>2</sup> Il consenso è considerato dato se il dichiarante, detentore o proprietario non si oppone espressamente alla distruzione degli oggetti entro i termini di cui all’articolo 48 capoversi 2 e 3.
+<sup>2</sup> Il consenso è considerato dato se il dichiarante, detentore o proprietario non si oppone espressamente alla distruzione degli oggetti entro i termini di cui all’articolo 48 capoversi 2 e 3[^48d-2].
 
 [^48d-1]: Introdotto dall’all. n. 4 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^48d-2]: Ora: art. 48 cpv. 3 e 4.
 
 #### Art. 48e
 
 **Mezzi probatori**[^48e-1]
 
-Prima della distruzione degli oggetti, l’UDSC preleva campioni e li conserva come prova per un’eventuale azione per risarcimento dei danni.
+Prima della distruzione degli oggetti, l’UDSC preleva campioni o modelli e li conserva come prova per un’eventuale azione per risarcimento dei danni.
 
-[^48e-1]: Introdotto dall’all. n. 4 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^48e-1]: Introdotto dall’all. n. 4 della LF del 22 giu. 2007 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)). Nuovo testo giusta la cifra I n. 5 della LF del 22 dic. 2023 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in vigore dal 1° lug. 2025 ([RU 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 48f
 
@@ -632,9 +658,10 @@ Prima della distruzione degli oggetti, l’UDSC preleva campioni e li conserva c
 
 <sup>1</sup> Se la distruzione degli oggetti si rivela ingiustificata, soltanto il richiedente risponde del danno.
 
-<sup>2</sup> Se il dichiarante, detentore o proprietario ha acconsentito per scritto alla distruzione della merce, il richiedente non può essere chiamato a rispondere del danno nemmeno se successivamente la distruzione si rivela ingiustificata.
+<sup>2</sup> Se il dichiarante, detentore o proprietario ha acconsentito per scritto alla distruzione degli oggetti, il richiedente non può essere chiamato a rispondere del danno nemmeno se successivamente la distruzione si rivela ingiustificata.[^48f-2]
 
 [^48f-1]: Introdotto dall’all. n. 4 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^48f-2]: Nuovo testo giusta la cifra I n. 5 della LF del 22 dic. 2023 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in vigore dal 1° lug. 2025 ([RU 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 48g
 
@@ -642,9 +669,10 @@ Prima della distruzione degli oggetti, l’UDSC preleva campioni e li conserva c
 
 <sup>1</sup> Le spese per la distruzione degli oggetti sono a carico del richiedente.
 
-<sup>2</sup> Sulle spese per il prelievo e la conservazione di campioni ai sensi dell’articolo 48*e* decide il giudice nell’ambito del giudizio relativo alle pretese di risarcimento dei danni secondo l’articolo 48*f* capoverso 1.
+<sup>2</sup> Sulle spese per il prelievo e la conservazione di campioni o modelli ai sensi dell’articolo 48*e* decide il giudice nell’ambito del giudizio relativo alle pretese di risarcimento dei danni secondo l’articolo 48*f* capoverso 1.[^48g-2]
 
 [^48g-1]: Introdotto dall’all. n. 4 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^48g-2]: Nuovo testo giusta la cifra I n. 5 della LF del 22 dic. 2023 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in vigore dal 1° lug. 2025 ([RU 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 49
 
@@ -652,9 +680,33 @@ Prima della distruzione degli oggetti, l’UDSC preleva campioni e li conserva c
 
 <sup>1</sup> Se vi è da temere un danno dovuto alla ritenzione degli oggetti, l’UDSC può subordinare la ritenzione a una dichiarazione di responsabilità da parte del richiedente. Al posto di tale dichiarazione, l’UDSC può, in casi motivati, chiedere al richiedente un’adeguata garanzia.
 
-<sup>2</sup> Se non vengono ordinati provvedimenti cautelari o se i provvedimenti ordinati si rivelano infondati, il richiedente deve risarcire il danno causato dalla ritenzione della merce e dal prelievo dei campioni.
+<sup>2</sup> Se non vengono ordinati provvedimenti cautelari o se i provvedimenti ordinati si rivelano infondati, il richiedente deve risarcire il danno causato dalla ritenzione degli oggetti e dal prelievo dei campioni o modelli.[^49-2]
 
 [^49-1]: Nuovo testo giusta l’all. n. 4 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^49-2]: Nuovo testo giusta la cifra I n. 5 della LF del 22 dic. 2023 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in vigore dal 1° lug. 2025 ([RU 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+
+#### Art. 49a
+
+**Procedura semplificata per la distruzione di piccoli invii**[^49a-1]
+
+<sup>1</sup>
+
+Se si tratta di un piccolo invio, l’UDSC trattiene gli oggetti:
+
+- a. se, in seguito a una domanda d’intervento secondo l’articolo 47 capoverso 1, ha motivo di sospettare che oggetti destinati all’introduzione nel territorio doganale o all’asportazione dal territorio doganale siano stati prodotti illecitamente; e
+- b. se è stata presentata una domanda di distruzione di piccoli invii (art. 47 cpv. 2 lett. b).
+
+<sup>2</sup> Può incaricare l’IPI di svolgere le ulteriori fasi della procedura.
+
+<sup>3</sup> L’autorità competente informa il dichiarante, detentore o proprietario dei suoi sospetti e della ritenzione degli oggetti, comunicandogli che gli oggetti verranno distrutti se non si sarà espressamente opposto alla distruzione entro dieci giorni feriali dalla ricezione della comunicazione.
+
+<sup>4</sup> Se il dichiarante, detentore o proprietario si oppone espressamente alla distruzione entro il termine di cui al capoverso 3, l’autorità competente lo comunica al richiedente. Il seguito della procedura è retto per analogia dagli articoli 48 capoversi 3 e 4, 48*a*, 48*b* e 49.
+
+<sup>5</sup> Se il dichiarante, detentore o proprietario acconsente alla distruzione o non si pronuncia entro il termine di cui al capoverso 3, l’autorità competente distrugge gli oggetti a spese del richiedente al più presto tre mesi dopo la comunicazione di cui al capoverso 3 oppure li affida al richiedente per la distruzione se questi ne ha fatto richiesta secondo l’articolo 47 capoverso 3. È esclusa qualsiasi pretesa di risarcimento dei danni da parte del richiedente nei confronti del dichiarante, detentore o proprietario.
+
+<sup>6</sup> L’autorità competente informa il richiedente sulla quantità e sulla natura nonché sui mittenti in Svizzera e all’estero degli oggetti distrutti in virtù del capoverso 5.
+
+[^49a-1]: Introdotto dalla cifra I n. 5 della LF del 22 dic. 2023 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in vigore dal 1° lug. 2025 ([RU 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 ## Capitolo 4: Disposizioni finali
 
@@ -710,5 +762,5 @@ Le leggi federali qui appresso sono modificate come segue:
 
 ...[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [CS **2** 857; [RU 1956 872](https://fedlex.data.admin.ch/eli/oc/1956/805_861_872); [1962 479](https://fedlex.data.admin.ch/eli/oc/1962/459_465_479); [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)all. n. I lett. f; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 9; [1995 1784](https://fedlex.data.admin.ch/eli/oc/1995/1784_1784_1784), [5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)all. n. 3]
+[^annexu1-lvlu1-1]: [CS **2** 857; [RU 1956 872](https://fedlex.data.admin.ch/eli/oc/1956/805_861_872); [1962 479](https://fedlex.data.admin.ch/eli/oc/1962/459_465_479); [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)all. cifra I lett. f; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 9; [1995 1784](https://fedlex.data.admin.ch/eli/oc/1995/1784_1784_1784), [5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)all. n. 3]
 [^annexu1-lvlu1-2]: Le mod. possono essere consultate alla [RU 2002 1456](https://fedlex.data.admin.ch/eli/oc/2002/226).
