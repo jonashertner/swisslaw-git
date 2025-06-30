@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 25 novembre 2013 sugli additivi ammessi nelle derr
 short: OAdd
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/842"
 language: it
-version: 2024-07-01
+version: 2025-07-01
 adopted: 2013-11-25
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/842/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2013-842-20240701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/842/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/842/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2013-842-20250701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/842/20250701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/842/20240701/it"
 
 (Ordinanza sugli additivi, OAdd)
 
-del 25 novembre 2013 (Stato 1° luglio 2024)
+del 25 novembre 2013 (Stato 1° luglio 2025)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -26,13 +26,13 @@ visti gli articoli 23 e 36 capoversi 3 e 4 dell’ordinanza del 16 dicembre 2016
 ordina:
 
 [^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^ingress-2]: Nuovo testo giusta il n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
+[^ingress-2]: Nuovo testo giusta la cifra I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
 
 ## Sezione 1: Definizioni
 
 [^sec1-1]
 
-[^sec1-1]: Introdotto del n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
+[^sec1-1]: Introdotto dalla cifra I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
 
 #### Art. 1
 
@@ -56,14 +56,14 @@ A complemento delle definizioni secondo l’articolo 2 ODerr, nella presente ord
   - 1\. possono contenere altri additivi secondo l’allegato 3 posizione 11.4 e ingredienti alimentari; e
   - 2\. vengono impiegati come sostitutivi di sorte di zuccheri secondo l’articolo 80 dell’ordinanza del DFI del 16 dicembre 2016[^1-2] sulle derrate alimentari di origine vegetale, i funghi e il sale commestibile.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
 [^1-2]: [RS 817.022.17](https://fedlex.data.admin.ch/eli/cc/2017/181)
 
 ## Sezione 2: Requisiti degli additivi e loro utilizzazione
 
 [^sec2-1]
 
-[^sec2-1]: Introdotto dal n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
+[^sec2-1]: Introdotto dalla cifra I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
 
 #### Art. 1a
 
@@ -105,7 +105,7 @@ Non sono considerati additivi:
 - o. gli aromi;
 - p. le sostanze secondo l’articolo 2 lettere a e d dell’ordinanza del DFI del 16 dicembre 2016[^1a-2] sui procedimenti tecnologici e sugli ausiliari tecnologici atti al trattamento di derrate alimentari.
 
-[^1a-1]: Introdotto dal n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
+[^1a-1]: Introdotto dalla cifra I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
 [^1a-2]: [RS 817.022.42](https://fedlex.data.admin.ch/eli/cc/2017/162)
 
 #### Art. 2
@@ -142,7 +142,7 @@ In caso di richiesta per l’ammissione di un nuovo additivo destinato all’uso
 
 <sup>5</sup> Una richiesta non è necessaria per gli additivi che possono essere immessi legalmente sul mercato nella quantità utilizzata secondo le prescrizioni dell’Unione Europea determinanti per l’immissione in commercio.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
 [^2-2]: [RS 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
 
 #### Art. 3
@@ -187,8 +187,8 @@ Gli additivi trasferiti non sono ammessi in:
 
 <sup>5</sup> Le eccezioni di cui al capoverso 4 sono disciplinate nell’allegato 5 numero 5 parte B.
 
-[^4-1]: Introdotto dal n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
-[^4-2]: Nuovo testo giusta il n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
+[^4-1]: Introdotto dalla cifra I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
+[^4-2]: Nuovo testo giusta la cifra I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
 
 #### Art. 5
 
@@ -200,7 +200,7 @@ Soltanto gli additivi alimentari figuranti nell’allegato 5 possono venire util
 
 [^67-1]
 
-[^67-1]: Abrogati dal n. I dell’O del DFI del 16 dic. 2016, con effetto dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
+[^67-1]: Abrogati dalla cifra I dell’O del DFI del 16 dic. 2016, con effetto dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
 
 #### Art. 8
 
@@ -208,13 +208,13 @@ Soltanto gli additivi alimentari figuranti nell’allegato 5 possono venire util
 
 Nei preparati con vitamine, sali minerali e determinate altre sostanze con effetto nutrizionale o fisiologico possono essere utilizzati solo gli additivi elencati nell’allegato 5 numero 5.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
 
 ## Sezione 3: Caratterizzazione
 
 [^sec3-1]
 
-[^sec3-1]: Introdotto dal n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
+[^sec3-1]: Introdotto dalla cifra I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
 
 #### Art. 9
 
@@ -227,7 +227,7 @@ Se additivi o preparati di additivi sono consegnati come tali ai consumatori, su
 - c. i componenti e le denominazioni stabilite, in ordine ponderale di quantità decrescente; nel caso degli additivi occorre utilizzare le denominazioni singole e i numeri E;
 - d. lo scopo di utilizzazione, le istruzioni per l’uso e le prescrizioni per il dosaggio.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
 [^9-2]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
 
 #### Art. 9a
@@ -244,7 +244,7 @@ Oltre alle indicazioni secondo gli articoli 9 e 3 OID, sull’imballaggio o sull
 - b. la menzione «contiene una fonte di fenilalanina» sui preparati edulcoranti che contengono aspartame (E 951) o aspartame-acesulfame (E 962);
 - c. la menzione «un consumo eccessivo può avere effetti lassativi» sui preparati edulcoranti che contengono polioli.
 
-[^9a-1]: Introdotto dal n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
+[^9a-1]: Introdotto dalla cifra I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
 [^9a-2]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
 
 #### Art. 9b
@@ -261,15 +261,15 @@ Se additivi o preparati di additivi non sono consegnati come tali ai consumatori
 
 <sup>2</sup> È sufficiente che le indicazioni secondo il capoverso 1 lettera c e quelle secondo l’articolo 3 capoverso 1 lettere g e k OID figurino sui documenti relativi alla merce che devono essere forniti prima o all’atto della consegna, a condizione che l’indicazione «destinato alla fabbricazione di alimenti, non destinato alla vendita al dettaglio» sia ben visibile sull’imballaggio o sul recipiente del prodotto interessato.
 
-[^9b-1]: Introdotto dal n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
+[^9b-1]: Introdotto dalla cifra I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
 [^9b-2]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
-[^9b-3]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)).
+[^9b-3]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)).
 
 ## Sezione 4: Obbligo d’informazione
 
 [^sec4-1]
 
-[^sec4-1]: Introdotto dal n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
+[^sec4-1]: Introdotto dalla cifra I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
 
 #### Art. 10
 
@@ -280,13 +280,13 @@ I fabbricanti e gli utilizzatori di additivi hanno l’obbligo di:
 - a. trasmettere all’USAV qualsiasi nuova informazione scientifica o tecnica che possa incidere sulla valutazione della sicurezza di un additivo; e
 - b. informare l’USAV, su sua richiesta, in merito all’utilizzazione di tale additivo.
 
-[^10-1]: Abrogato dal n. I dell’O del DFI del 16 dic. 2016, con effetto dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
+[^10-1]: Abrogato dalla cifra I dell’O del DFI del 16 dic. 2016, con effetto dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
 
 ## Sezione 5: Adeguamento degli allegati
 
 [^sec5-1]
 
-[^sec5-1]: Introdotto n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
+[^sec5-1]: Introdotto dalla cifra I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
 
 #### Art. 11
 
@@ -296,14 +296,14 @@ I fabbricanti e gli utilizzatori di additivi hanno l’obbligo di:
 
 <sup>2</sup> Può stabilire disposizioni transitorie.[^11-2]
 
-[^11-1]: Abrogato dal n. I dell’O del DFI del 16 dic. 2016, con effetto dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
-[^11-2]: Introdotto dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)).
+[^11-1]: Abrogato dalla cifra I dell’O del DFI del 16 dic. 2016, con effetto dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
+[^11-2]: Introdotto dalla cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)).
 
 ## Sezione 6: Disposizioni finali
 
 [^sec6-1]
 
-[^sec6-1]: Introdotto n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
+[^sec6-1]: Introdotto dalla cifra I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
 
 #### Art. 12
 
@@ -331,7 +331,7 @@ L’ordinanza del 22 giugno 2007[^12-1] sugli additivi è abrogata.
 
 <sup>2</sup> Esse possono essere consegnate ai consumatori secondo il diritto anteriore fino ad esaurimento delle scorte.
 
-[^13a-1]: Introdotto dal n. I dell’O dell’USAV del 14 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)).
+[^13a-1]: Introdotto dalla cifra I dell’O dell’USAV del 14 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)).
 
 #### Art. 13b
 
@@ -339,7 +339,7 @@ L’ordinanza del 22 giugno 2007[^12-1] sugli additivi è abrogata.
 
 Le derrate alimentari non conformi alla modifica del 27 maggio 2020 possono essere importate e fabbricate secondo il diritto anteriore sino al 30 giugno 2021 ed essere consegnate ai consumatori fino a esaurimento delle scorte.
 
-[^13b-1]: Introdotto dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)).
+[^13b-1]: Introdotto dalla cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)).
 
 #### Art. 13c
 
@@ -347,7 +347,7 @@ Le derrate alimentari non conformi alla modifica del 27 maggio 2020 possono esse
 
 Le derrate alimentari non conformi alla modifica del 14 febbraio 2022 possono essere importate e fabbricate secondo il diritto anteriore sino al 14 settembre 2022 ed essere consegnate ai consumatori fino a esaurimento delle scorte.
 
-[^13c-1]: Introdotto dal n. I dell’O dell’USAV del 14 feb. 2022, in vigore dal 15 mar. 2022 ([RU 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)).
+[^13c-1]: Introdotto dalla cifra I dell’O dell’USAV del 14 feb. 2022, in vigore dal 15 mar. 2022 ([RU 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)).
 
 #### Art. 13d
 
@@ -355,7 +355,7 @@ Le derrate alimentari non conformi alla modifica del 14 febbraio 2022 possono es
 
 Le derrate alimentari non conformi alla modifica dell’8 dicembre 2023 possono essere importate, fabbricate e caratterizzate secondo il diritto anteriore sino al 31 gennaio 2025 e consegnate ai consumatori fino a esaurimento delle scorte.
 
-[^13d-1]: Introdotto dal n. I dell’O dell’USAV dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 827](https://fedlex.data.admin.ch/eli/oc/2023/827)).
+[^13d-1]: Introdotto dalla cifra I dell’O dell’USAV dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 827](https://fedlex.data.admin.ch/eli/oc/2023/827)).
 
 #### Art. 14
 
@@ -369,7 +369,7 @@ Allegato 1[^t-1]
 
 ## Categorie funzionali degli additivi
 
-[^t-1]: Introdotto dal n. II cpv. 3 dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
+[^t-1]: Introdotto dalla cifra II cpv. 3 dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
 
 - 1\. Gli «edulcoranti» sono sostanze utilizzate per conferire un sapore dolce alle derrate alimentari o come edulcoranti da tavola.
 - 2\. I «coloranti» sono sostanze che conferiscono un colore a una derrata alimentare o ne ripristinano il colore originario. A questa categoria appartengono i componenti naturali di derrate alimentari nonché le materie prime di origine naturale che normalmente non vengono consumate come derrate alimentari né utilizzate come ingredienti alimentari caratteristici.
@@ -415,8 +415,8 @@ Allegato 1a[^t-2]
 
 [^annex1a-lvlu1-1]
 
-[^t-2]: Originario all. 1. Aggiornato dal n. II cpv. 1 dell’O dell’USAV del 14 set. 2015 ([RU 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), delle O del DFI del 16 dic. 2016 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), del 27 mag. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)), dai n. II delle O dell’USAV del 14 feb. 2022 ([RU 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)), dell’8 dic. 2023 ([RU 2023 827](https://fedlex.data.admin.ch/eli/oc/2023/827)) e dal n. I dell’O dell’USAV del 29 mag. 2024, in vigore dal 1° lug. 2024 (RU **202****4** 248).
-[^annex1a-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/248](https://fedlex.data.admin.ch/eli/oc/2024/248)&gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-2]: Originario all. 1. Aggiornato dalla cifra II cpv. 1 dell’O dell’USAV del 14 set. 2015 ([RU 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), delle O del DFI del 16 dic. 2016 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), del 27 mag. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)), dalle cifre II delle O dell’USAV del 14 feb. 2022 ([RU 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)), dell’8 dic. 2023 ([RU 2023 827](https://fedlex.data.admin.ch/eli/oc/2023/827)), dalle cifre I delle O dell’USAV del 29 mag. 2024 ([RU 2024 248](https://fedlex.data.admin.ch/eli/oc/2024/248)) e del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 392](https://fedlex.data.admin.ch/eli/oc/2025/392)).
+[^annex1a-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/392](https://fedlex.data.admin.ch/eli/oc/2025/392) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 2[^t-3]
 
@@ -426,8 +426,8 @@ Allegato 2[^t-3]
 
 [^annex2-lvlu1-1]
 
-[^t-3]: Aggiornato dal n. II cpv. 1 dell’O dell’USAV del 14 set. 2015 ([RU 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), dal n. II cpv. 2 dell’O del DFI del 16 dic. 2016 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), dal n. II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)), dai n. II delle O dell’USAV del 14 feb. 2022 ([RU 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)), dell’8 dic. 2023 ([RU 2023 827](https://fedlex.data.admin.ch/eli/oc/2023/827)) e dal n. I dell’O dell’USAV del 29 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 248](https://fedlex.data.admin.ch/eli/oc/2024/248)).
-[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/248](https://fedlex.data.admin.ch/eli/oc/2024/248)&gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-3]: Aggiornato dalla cifra II cpv. 1 dell’O dell’USAV del 14 set. 2015 ([RU 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), dalla cifra II cpv. 2 dell’O del DFI del 16 dic. 2016 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), dalla cifra II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)), dalle cifre II delle O dell’USAV del 14 feb. 2022 ([RU 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)), dell’8 dic. 2023 ([RU 2023 827](https://fedlex.data.admin.ch/eli/oc/2023/827)), dalle cifre I delle O dell’USAV del 29 mag. 2024 ([RU 2024 248](https://fedlex.data.admin.ch/eli/oc/2024/248)) e del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 392](https://fedlex.data.admin.ch/eli/oc/2025/392)).
+[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/392](https://fedlex.data.admin.ch/eli/oc/2025/392) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 3[^t-4]
 
@@ -437,8 +437,8 @@ Allegato 3[^t-4]
 
 [^annex3-lvlu1-1]
 
-[^t-4]: Aggiornato dal n. II cpv. 1 dell’O dell’USAV del 14 set. 2015 ([RU 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), dal n. II cpv. 2 dell’O del DFI del 16 dic. 2016 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), dal n. II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)), dai n. II delle O dell’USAV del 14 feb. 2022 ([RU 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)), dell’8 dic. 2023 ([RU 2023 827](https://fedlex.data.admin.ch/eli/oc/2023/827)) e dal n. I dell’O dell’USAV del 29 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 248](https://fedlex.data.admin.ch/eli/oc/2024/248)).
-[^annex3-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/248](https://fedlex.data.admin.ch/eli/oc/2024/248)&gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-4]: Aggiornato dalla cifra II cpv. 1 dell’O dell’USAV del 14 set. 2015 ([RU 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), dalla cifra II cpv. 2 dell’O del DFI del 16 dic. 2016 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), dalla cifra II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)), dalle cifre II delle O dell’USAV del 14 feb. 2022 ([RU 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)), dell’8 dic. 2023 ([RU 2023 827](https://fedlex.data.admin.ch/eli/oc/2023/827)), dalle cifre I delle O dell’USAV del 29 mag. 2024 ([RU 2024 248](https://fedlex.data.admin.ch/eli/oc/2024/248)) e del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 392](https://fedlex.data.admin.ch/eli/oc/2025/392)).
+[^annex3-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/392](https://fedlex.data.admin.ch/eli/oc/2025/392) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 4[^t-5]
 
@@ -446,7 +446,7 @@ Allegato 4[^t-5]
 
 ## Criteri di purezza specifici per gli additivi
 
-[^t-5]: Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)).
+[^t-5]: Nuovo testo giusta la cifra II cpv. 2 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)).
 
 Gli additivi devono soddisfare i criteri di purezza specifici stabiliti nel regolamento (UE) n. 231/2012[^annex4-lvlu1-1].
 
@@ -458,7 +458,7 @@ Allegato 5[^t-6]
 
 ## Liste degli additivi, comprese le sostanze di supporto per l’utilizzazione in additivi, enzimi, aromi e vitamine, sali minerali e altre determinate sostanze con effetto nutrizionale o fisiologico
 
-[^t-6]: Aggiornato dal n. II cpv. 1 dell’O dell’USAV del 14 set. 2015 ([RU 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), dal n. II cpv. 2 dell’O del DFI del 16 dic. 2016 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), dal n. II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)) e dal n. II dell’O dell’USAV del 14 feb. 2022, in vigore dal 15 mar. 2022 ([RU 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)).
+[^t-6]: Aggiornato dalla cifra II cpv. 1 dell’O dell’USAV del 14 set. 2015 ([RU 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), dalla cifra II cpv. 2 dell’O del DFI del 16 dic. 2016 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), dalla cifra II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)) e dalla cifra II dell’O dell’USAV del 14 feb. 2022, in vigore dal 15 mar. 2022 ([RU 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)).
 
 ### 1. Sostanze di supporto negli additivi
 
@@ -994,7 +994,7 @@ Allegato 6[^t-7]
 
 ## Liste delle derrate alimentari nelle quali non è ammesso il trasferimento di un additivo
 
-[^t-7]: Nuovo testo giusta il n. II cpv. 2 dell’O dell’USAV del 14 set. 2015 ([RU 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)). Aggiornato dal n. II cpv. 2 dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
+[^t-7]: Nuovo testo giusta la cifra II cpv. 2 dell’O dell’USAV del 14 set. 2015 ([RU 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)). Aggiornato dalla cifra II cpv. 2 dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
 
 ### 1. Lista delle derrate alimentari nelle quali non è ammesso il trasferimento di un additivo
 
@@ -1051,4 +1051,4 @@ Allegato 6[^t-7]
 
 Allegato 7[^t-8]
 
-[^t-8]: Abrogato dal n. II cpv. 4 dell’O del DFI del 16 dic. 2016, con effetto dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
+[^t-8]: Abrogato dalla cifra II cpv. 4 dell’O del DFI del 16 dic. 2016, con effetto dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
