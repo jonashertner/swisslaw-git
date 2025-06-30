@@ -4,22 +4,22 @@ title: "Loi fédérale du 9 octobre 1992 sur le droit d'auteur et les droits voi
 short: LDA
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798"
 language: fr
-version: 2023-07-01
+version: 2025-07-01
 adopted: 1992-10-09
 in_force: 1993-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1993-1798_1798_1798-20230701-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-1993-1798_1798_1798-20250701-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur le droit d’auteur et les droits voisins
 
-(Loi sur le droit d’auteur, LDA)<sup>[^t-1]</sup>[^t-2]
+(Loi sur le droit d’auteur, LDA)[^t-1]\*[^t-2]
 
-du 9 octobre 1992 (État le 1<sup>er</sup> juillet 2023)
+du 9 octobre 1992 (État le 1<sup>er</sup> juillet 2025)
 
-[^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
+[^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 [^t-2]: Nouvelle teneur selon le ch. I de la LF du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [FF 2006 3263](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 
 L’Assemblée fédérale de la Confédération suisse,
@@ -30,7 +30,7 @@ vu le message du Conseil fédéral du 19 juin 1989[^ingress-3],
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 [^ingress-3]: [FF 1989 III 465](https://fedlex.data.admin.ch/eli/fga/1989/3_477_465_413)
 
@@ -386,7 +386,7 @@ Sous réserve de l’al. 3, les droits suivants sur les productions d’archives
 <sup>3</sup> En présence d’une convention contractuelle conclue avant la première diffusion ou dans les dix ans qui l’ont suivie et portant sur les droits visés à l’al. 1 et leur indemnisation, seules les dispositions contractuelles sont applicables. L’al. 1 ne s’applique pas aux droits des organismes de diffusion au sens de l’art. 37. À la demande de la société de gestion, les organismes de diffusion et les tiers ayants droit sont tenus de renseigner cette dernière sur les conventions contractuelles.
 
 [^22a-1]: Introduit par le ch. I de la LF du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [FF 2006 3263](https://fedlex.data.admin.ch/eli/fga/2006/359)).
-[^22a-2]: [RS 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^22a-2]: [RS 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 
 #### Art. 22b
 
@@ -426,7 +426,7 @@ Le droit de mettre à disposition, en relation avec la diffusion d’émissions 
 <sup>2</sup> Seule une société de gestion agréée peut exercer le droit à la reproduction à des fins de mise à disposition lorsque les conditions de l’al. 1 sont remplies.
 
 [^22c-1]: Introduit par le ch. I de la LF du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [FF 2006 3263](https://fedlex.data.admin.ch/eli/fga/2006/359)).
-[^22c-2]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1, LParl – [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^22c-2]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1, LParl – [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 23
 
@@ -470,7 +470,7 @@ La reproduction provisoire d’une œuvre est autorisée aux conditions suivante
 <sup>2</sup> Les reproductions effectuées conformément à l’al. 1 ne peuvent être ni aliénées, ni mises en circulation de quelque autre manière; les organismes de diffusion doivent les confectionner par leurs propres moyens. Elles doivent être détruites dès qu’elles ont rempli leur but. L’art. 11 est réservé.
 
 [^24b-1]: Introduit par le ch. I de la LF du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [FF 2006 3263](https://fedlex.data.admin.ch/eli/fga/2006/359)).
-[^24b-2]: [RS 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^24b-2]: [RS 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 
 #### Art. 24c
 
@@ -666,7 +666,7 @@ L’artiste interprète a le droit exclusif:
 <sup>2</sup> La protection de l’artiste interprète contre les altérations apportées à sa prestation est régie par les art. 28 à 28*l* du code civil[^33a-2].
 
 [^33a-1]: Introduit par l’art. 2 de l’AF du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [FF 2006 3263](https://fedlex.data.admin.ch/eli/fga/2006/359)).
-[^33a-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^33a-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 34
 
@@ -1047,7 +1047,7 @@ La surveillance des sociétés de gestion incombe à l’IPI.
 
 <sup>3</sup> Pour ses décisions, la Commission arbitrale ne prend en considération aucune instruction; le personnel du secrétariat est subordonné pour cette activité au président de la commission.
 
-[^55-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^55-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 56
 
@@ -1137,7 +1137,7 @@ La personne qui subit ou risque de subir une violation de son droit d’auteur o
 
 [^62-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^62-2]: Introduit par l’art. 2 de l’AF du 5 oct. 2007, ([RO 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [FF 2006 3263](https://fedlex.data.admin.ch/eli/fga/2006/359)). Nouvelle teneur selon le ch. I de la LF du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 559](https://fedlex.data.admin.ch/eli/fga/2018/184)).
-[^62-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^62-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^62-4]: Introduit par l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 63
@@ -1292,7 +1292,7 @@ Quiconque, sans être titulaire de l’autorisation requise (art. 41), fait valo
 
 Les art. 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^71-1] s’appliquent aux infractions commises dans la gestion d’une entreprise, par un mandataire ou d’autres organes.
 
-[^71-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^71-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 72
 
@@ -1301,7 +1301,7 @@ Les art. 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal adminis
 Une fois réalisées, les œuvres d’architecture ne peuvent pas être confisquées en vertu de l’art. 69 du code pénal[^72-2].
 
 [^72-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^72-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^72-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 73
 
@@ -1311,7 +1311,7 @@ Une fois réalisées, les œuvres d’architecture ne peuvent pas être confisqu
 
 <sup>2</sup> Les infractions définies à l’art. 70 sont poursuivies et jugées par l’IPI conformément à la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^73-1].
 
-[^73-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^73-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### Chapitre 3 Recours au Tribunal administratif fédéral
 
@@ -1332,89 +1332,113 @@ La procédure de recours devant le Tribunal administratif fédéral est régie p
 - c. le délai fixé par le Tribunal administratif fédéral pour le dépôt d’une réponse est de 30 jours au plus; ce délai ne peut pas être prolongé;
 - d. un échange ultérieur d’écritures au sens de l’art. 57, al. 2, PA n’a lieu qu’exceptionnellement.[^74-3]
 
-[^74-1]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
-[^74-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^74-1]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+[^74-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^74-3]: Nouvelle teneur selon le ch. I de la LF du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 559](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 
-### Chapitre 4 Intervention de l’Office fédéral de la douane et de la sécurité des frontières
+### Chapitre 4 Interventions lors de l’introduction de produits sur le territoire douanier ou de leur acheminement hors de celui‑ci
 
 [^tit5-chap4-1]
 
-[^tit5-chap4-1]: Nouvelle teneur selon le ch. I 1 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^tit5-chap4-1]: Nouvelle teneur selon le ch. I 2 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 75
 
 **Dénonciation de produits suspects**[^75-1]
 
-<sup>1</sup> L’Office fédéral de la douane et de la sécurité des frontières (OFDF) est habilité à informer les titulaires de droits d’auteur ou de droits voisins et les sociétés de gestion agréées lorsqu’il y a lieu de soupçonner que l’importation, l’exportation ou le transit de produits dont la mise en circulation contrevient à la législation en vigueur en Suisse dans le domaine du droit d’auteur ou des droits voisins sont imminents.[^75-2]
+<sup>1</sup> L’Office fédéral de la douane et de la sécurité des frontières (OFDF) est habilité à informer les titulaires de droits d’auteur ou de droits voisins et les sociétés de gestion agréées lorsqu’il y a lieu de soupçonner que l’introduction sur le territoire douanier de produits dont la mise en circulation contrevient à la législation en vigueur en Suisse dans le domaine du droit d’auteur ou des droits voisins ou l’acheminement de tels produits hors du territoire douanier sont imminents.
 
-<sup>2</sup> Dans ce cas, l’OFDF[^75-3] est habilité à retenir les produits pendant trois jours ouvrables afin de permettre aux personnes habilitées de déposer une demande au sens de l’art. 76, al. 1.
+<sup>2</sup> Dans ce cas, il est habilité à retenir les produits pendant trois jours ouvrables afin de permettre aux personnes concernées de déposer une demande au sens de l’art. 76.
 
-[^75-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^75-2]: Nouvelle teneur selon le ch. I 1 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^75-3]: Nouvelle expression selon le ch. I 1 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Il a été tenu compte de cette mod. dans tout le texte.
+[^75-1]: Nouvelle teneur selon le ch. I 2 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 76
 
-**Demande d’intervention**
+**Demande d’intervention**[^76-1]
 
-<sup>1</sup> Lorsque le titulaire de droits d’auteur ou de droits voisins, le preneur de licence qui a qualité pour agir ou une société de gestion agréée ont des indices sérieux permettant de soupçonner que l’introduction dans le territoire douanier suisse de produits dont la mise en circulation contrevient à la législation en vigueur en Suisse dans le domaine du droit d’auteur ou des droits voisins ou leur sortie sont imminentes, ils peuvent demander par écrit à l’OFDF de refuser la mainlevée de ces produits.[^76-1]
+<sup>1</sup> Lorsque le titulaire de droits d’auteur ou de droits voisins, le preneur de licence qui a qualité pour agir ou une société de gestion agréée a des indices concrets que l’introduction sur le territoire douanier de produits dont la mise en circulation contrevient à la législation en vigueur en Suisse dans le domaine du droit d’auteur ou des droits voisins ou l’acheminement de tels produits hors du territoire douanier sont imminents, il peut demander par écrit à l’OFDF de refuser la mainlevée des produits.
 
-<sup>2</sup> Le requérant fournira à l’OFDF toutes les indications dont celui-ci a besoin pour statuer sur sa demande. Il lui remettra notamment une description précise des produits.
+<sup>2</sup>
 
-<sup>3</sup> L’OFDF statue définitivement sur la demande. Il peut percevoir un émolument pour couvrir les frais administratifs.[^76-2]
+Le requérant peut par la même occasion demander par écrit que les produits soient détruits:
 
-[^76-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^76-2]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+- a. selon la procédure ordinaire (art. 77*c* à 77*h*), ou
+- b. selon la procédure simplifiée (art. 77*h*<sup>bis</sup>) s’il s’agit d’un petit envoi.
+
+<sup>3</sup> Dans la demande visée à l’al. 2, il peut exiger que les produits lui soient remis afin qu’il les détruise lui-même.
+
+<sup>4</sup> La demande visée à l’al. 2, let. a, ne donne pas lieu à une prolongation des délais prévus à l’art. 77, al. 3 et 4, pour l’obtention de mesures provisionnelles.
+
+<sup>5</sup> Le Conseil fédéral détermine ce qu’il faut entendre par petit envoi; ce faisant, il tient compte notamment du nombre d’unités contenues dans un envoi.
+
+<sup>6</sup> Le requérant fournit à l’OFDF toutes les indications dont il dispose et dont celui-ci a besoin pour statuer sur la demande, notamment une description précise des produits.
+
+<sup>7</sup> L’OFDF statue définitivement sur la demande. Il peut percevoir un émolument pour couvrir les frais administratifs.
+
+[^76-1]: Nouvelle teneur selon le ch. I 2 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 77
 
 **Rétention des produits**[^77-1]
 
-<sup>1</sup> Lorsque, à la suite d’une demande d’intervention au sens de l’art. 76, al. 1, l’OFDF a des raisons fondées de soupçonner que l’introduction dans le territoire douanier suisse de produits ou leur sortie contrevient à la législation en vigueur en Suisse dans le domaine du droit d’auteur ou des droits voisins, il en informe le requérant, d’une part, et le déclarant, le possesseur ou le propriétaire des produits, d’autre part.[^77-2]
+<sup>1</sup>
 
-<sup>2</sup> Afin de permettre au requérant d’obtenir des mesures provisionnelles, il retient les produits durant dix jours ouvrables au plus à compter du moment de l’information au sens de l’al. 1.
+Lorsque, à la suite d’une demande d’intervention au sens de l’art. 76, al. 1, l’OFDF a des raisons de soupçonner que l’introduction des produits sur le territoire douanier ou leur acheminement hors de celui-ci contrevient à la législation en vigueur en Suisse dans le domaine du droit d’auteur ou des droits voisins, il:
 
-<sup>3</sup> Si les circonstances le justifient, il peut retenir les produits en cause pendant une durée supplémentaire de dix jours ouvrables au plus.
+- a. retient les produits, et
+- b. en informe le requérant, d’une part, et le déclarant, le possesseur ou le propriétaire des produits, de l’autre.
 
-[^77-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^77-2]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+<sup>2</sup> Si une demande de destruction d’un petit envoi (art. 76, al. 2, let. b) a été déposée avec la demande d’intervention visée à l’art. 76, al. 1, la procédure est régie uniquement par l’art. 77*h*<sup>bis</sup>*.*
+
+<sup>3</sup> Afin de permettre au requérant d’obtenir des mesures provisionnelles, l’OFDF retient les produits durant dix jours ouvrables au plus à compter du moment où il l’a informé conformément à l’al. 1, let. b.
+
+<sup>4</sup> Si les circonstances le justifient, il peut prolonger ce délai de dix jours ouvrables au plus.
+
+<sup>5</sup> Lorsqu’il s’agit d’un petit envoi, il peut confier à l’IPI la responsabilité d’informer le requérant conformément à l’al. 1, let. b, et de conduire la suite de la procédure.
+
+[^77-1]: Nouvelle teneur selon le ch. I 2 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 77a
 
-**Échantillons**[^77a-1]
+**Spécimens ou échantillons**[^77a-1]
 
-<sup>1</sup> Sur demande, l’OFDF est habilité, pendant la durée de la rétention des produits, à remettre ou à envoyer au requérant des échantillons à des fins d’examen ou à le laisser examiner sur place les produits retenus.
+<sup>1</sup> Sur demande, l’OFDF est habilité, pendant la durée de la rétention des produits, à remettre ou à envoyer au requérant des spécimens ou des échantillons à des fins d’examen ou à le laisser examiner sur place les produits retenus.
 
-<sup>2</sup> Le requérant supporte les frais liés au prélèvement et à l’envoi des échantillons.
+<sup>2</sup> Le requérant supporte les frais liés au prélèvement et à l’envoi des spécimens ou des échantillons.
 
-<sup>3</sup> Une fois l’examen des échantillons effectué, ceux-ci doivent être restitués, pour autant que cela se justifie. Si des échantillons demeurent chez le requérant, ils sont soumis aux dispositions de la législation douanière.
+<sup>3</sup> Une fois l’examen des spécimens ou des échantillons effectué, ceux-ci doivent être restitués, pour autant que cela se justifie. Si des spécimens ou des échantillons demeurent chez le requérant, ils sont soumis aux dispositions de la législation douanière.
 
-[^77a-1]: Introduit par l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^77a-1]: Introduit par l’annexe ch. 1 de la LF du 22 juin 2007 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)). Nouvelle teneur selon le ch. I 2 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 77b
 
 **Protection des secrets de fabrication ou d’affaires**[^77b-1]
 
-<sup>1</sup> En même temps que la communication visée à l’art. 77, al. 1, l’OFDF informe le déclarant, le possesseur ou le propriétaire des produits de la possibilité, prévue à l’art. 77*a*, al. 1 de remettre des échantillons au requérant ou de le laisser examiner sur place les produits retenus.
+<sup>1</sup> En même temps que la communication visée à l’art. 77, al. 1, l’OFDF informe le déclarant, le possesseur ou le propriétaire des produits de la possibilité, prévue à l’art. 77*a*, al. 1, de remettre des spécimens ou des échantillons au requérant ou de le laisser examiner sur place les produits retenus.[^77b-2]
 
 <sup>2</sup> Le déclarant, le possesseur ou le propriétaire des produits peut demander d’assister à l’examen afin de protéger ses secrets de fabrication ou d’affaires.
 
-<sup>3</sup> Sur demande motivée du déclarant, du possesseur ou du propriétaire des produits, l’OFDF peut refuser la remise d’échantillons.
+<sup>3</sup> Sur demande motivée du déclarant, du possesseur ou du propriétaire des produits, l’OFDF peut refuser la remise de spécimens ou d’échantillons.[^77b-3]
 
 [^77b-1]: Introduit par l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^77b-2]: Nouvelle teneur selon le ch. I 2 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^77b-3]: Nouvelle teneur selon le ch. I 2 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 77c
 
-**Demande de destruction des produits**[^77c-1]
+**Information concernant la demande de destruction des produits[^77c-2]**[^77c-1]
 
-<sup>1</sup> Lorsqu’il dépose une demande au sens de l’art. 76, al. 1, le requérant peut deman-der par écrit à l’OFDF la destruction des produits.
+<sup>1</sup> …[^77c-3]
 
-<sup>2</sup> Lorsqu’une demande de destruction est déposée, l’OFDF en informe le déclarant, le possesseur ou le propriétaire des produits dans le cadre de l’information visée à l’art. 77, al. 1.
+<sup>2</sup> Lorsqu’une demande de destruction est déposée, l’OFDF[^77c-4] en informe le déclarant, le possesseur ou le propriétaire des produits dans le cadre de l’information visée à l’art. 77, al. 1.
 
-<sup>3</sup> La demande de destruction ne donne pas lieu à une prolongation des délais prévus à l’art. 77, al. 2 et 3 pour l’obtention de mesures provisionnelles.
+<sup>3</sup> …[^77c-5]
 
 [^77c-1]: Introduit par l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^77c-2]: Nouvelle teneur selon le ch. I 2 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^77c-3]: Abrogé par le ch. I 2 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, avec effet au 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^77c-4]: Nouvelle expression selon le ch. I 1 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Il a été tenu compte de cette mod. dans tout le texte.
+[^77c-5]: Abrogé par le ch. I 2 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, avec effet au 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 77d
 
@@ -1422,17 +1446,18 @@ La procédure de recours devant le Tribunal administratif fédéral est régie p
 
 <sup>1</sup> La destruction des produits requiert l’approbation du déclarant, du possesseur ou du propriétaire.
 
-<sup>2</sup> L’approbation est réputée acquise lorsque le déclarant, le possesseur ou le propriétaire des produits ne s’oppose pas expressément à leur destruction dans les délais prévus à l’art. 77, al. 2 et 3.
+<sup>2</sup> L’approbation est réputée acquise lorsque le déclarant, le possesseur ou le propriétaire des produits ne s’oppose pas expressément à leur destruction dans les délais prévus à l’art. 77, al. 2 et 3[^77d-2].
 
 [^77d-1]: Introduit par l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^77d-2]: Actuellement: art. 77, al. 3 et 4.
 
 #### Art. 77e
 
 **Moyens de preuve**[^77e-1]
 
-Avant la destruction des produits, l’OFDF prélève des échantillons et les conserve en tant que moyens de preuve en vue d’une éventuelle action en dommages-intérêts.
+Avant la destruction des produits, l’OFDF prélève des spécimens ou des échantillons et les conserve en tant que moyens de preuve en vue d’une éventuelle action en dommages-intérêts.
 
-[^77e-1]: Introduit par l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^77e-1]: Introduit par l’annexe ch. 1 de la LF du 22 juin 2007 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)). Nouvelle teneur selon le ch. I 2 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 77f
 
@@ -1440,9 +1465,10 @@ Avant la destruction des produits, l’OFDF prélève des échantillons et les c
 
 <sup>1</sup> Si la destruction des produits se révèle infondée, le requérant répond seul du dommage qui en résulte.
 
-<sup>2</sup> Si le déclarant, le possesseur ou le propriétaire des produits donne son approbation par écrit à leur destruction et que celle-ci se révèle par la suite infondée, le requérant ne peut être tenu de verser des dommages-intérêts.
+<sup>2</sup> Si le déclarant, le possesseur ou le propriétaire des produits donne son approbation par écrit pour leur destruction et si celle-ci se révèle par la suite infondée, le requérant ne peut être tenu de verser des dommages-intérêts.[^77f-2]
 
 [^77f-1]: Introduit par l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^77f-2]: Nouvelle teneur selon le ch. I 2 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 77g
 
@@ -1450,9 +1476,10 @@ Avant la destruction des produits, l’OFDF prélève des échantillons et les c
 
 <sup>1</sup> Le requérant supporte les frais liés à la destruction des produits.
 
-<sup>2</sup> La question des coûts liés au prélèvement et à la conservation des échantillons au sens de l’art. 77*e* est tranchée par le tribunal dans le cadre de l’appréciation des dommages-intérêts visés à l’art. 77*f*, al. 1.
+<sup>2</sup> La question des coûts liés au prélèvement et à la conservation des spécimens ou des échantillons au sens de l’art. 77*e* est tranchée par le tribunal dans le cadre de l’appréciation des dommages-intérêts visés à l’art. 77*f*, al. 1.[^77g-2]
 
 [^77g-1]: Introduit par l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^77g-2]: Nouvelle teneur selon le ch. I 2 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 77h
 
@@ -1460,9 +1487,33 @@ Avant la destruction des produits, l’OFDF prélève des échantillons et les c
 
 <sup>1</sup> Si la rétention des produits risque d’occasionner un dommage, l’OFDF peut la subordonner à la condition que le requérant lui fournisse une déclaration de responsabilité. Si les circonstances le justifient, il peut, en lieu et place, exiger du requérant qu’il fournisse des sûretés adéquates.
 
-<sup>2</sup> Le requérant est tenu de réparer le dommage causé par la rétention des produits et par le prélèvement d’échantillons si des mesures provisionnelles n’ont pas été ordonnées ou si elles se sont révélées infondées.
+<sup>2</sup> Le requérant est tenu de réparer le dommage causé par la rétention des produits et par le prélèvement de spécimens ou d’échantillons si des mesures provisionnelles n’ont pas été ordonnées ou si elles se sont révélées infondées.[^77h-2]
 
 [^77h-1]: Introduit par l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^77h-2]: Nouvelle teneur selon le ch. I 2 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+
+#### Art. 77h<sup>bis</sup>
+
+**Procédure simplifiée de destruction de petits envois**[^77hbis-1]
+
+<sup>1</sup>
+
+S’il s’agit d’un petit envoi, l’OFDF retient les produits:
+
+- a. si, à la suite d’une demande d’intervention au sens de l’art. 76, al. 1, il a des raisons de soupçonner que l’introduction de ces produits sur le territoire douanier ou leur acheminement hors de celui-ci contrevient à la législation en vigueur en Suisse dans le domaine du droit d’auteur ou des droits voisins, et
+- b. si une demande de destruction d’un petit envoi (art. 76, al. 2, let. b) a été déposée.
+
+<sup>2</sup> Il peut confier à l’IPI la responsabilité de la suite de la procédure.
+
+<sup>3</sup> L’autorité compétente informe le déclarant, le possesseur ou le propriétaire de son soupçon et de la rétention des produits et lui signifie que les produits seront détruits s’il ne s’y oppose pas expressément dans les dix jours ouvrables à compter de la réception de l’information.
+
+<sup>4</sup> Si le déclarant, le possesseur ou le propriétaire s’oppose expressément à la destruction dans le délai visé à l’al. 3, l’autorité compétente en informe le requérant. Pour la suite de la procédure, les art. 77, al. 3 et 4, 77*a*, 77*b* et 77*h* s’appliquent par analogie.
+
+<sup>5</sup> Si le déclarant, le possesseur ou le propriétaire consent à la destruction ou s’il ne donne pas son avis dans le délai prévu à l’al. 3, l’autorité compétente détruit les produits aux frais du requérant au plus tôt trois mois à compter de l’information visée à l’al. 3 ou les confie au requérant en vue de leur destruction si celui-ci l’a requis conformément à l’art. 76, al. 3. Toute demande de dommages-intérêts du requérant à l’égard du déclarant, du possesseur ou du propriétaire est exclue.
+
+<sup>6</sup> L’autorité compétente informe le requérant de la quantité des produits détruits en vertu de l’al. 5, de leur nature ainsi que des expéditeurs en Suisse ou à l’étranger.
+
+[^77hbis-1]: Introduit par le ch. I 2 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 ## Titre 5*a* Traitement des données personnelles en vue de déposer une plainte ou une dénonciation pénale
 
@@ -1497,8 +1548,8 @@ Sont abrogées:
 - a. la loi fédérale du 7 décembre 1922 concernant le droit d’auteur sur les œuvres littéraires et artistiques[^79-1];
 - b. la loi fédérale du 25 septembre 1940 concernant la perception de droits d’auteur[^79-2].
 
-[^79-1]: [RS **2** 807; [RO 1955 877](https://fedlex.data.admin.ch/eli/oc/1955/855_877_885)]
-[^79-2]: [RS **2** 824]
+[^79-1]: [[RS 2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5701)807; [RO 1955 877](https://fedlex.data.admin.ch/eli/oc/1955/855_877_885)]
+[^79-2]: [[RS 2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5701)824]
 
 ### Chapitre 2 Dispositions transitoires
 
@@ -1536,7 +1587,7 @@ Les art. 62, al. 3 et 65, al. 5, ne sont applicables qu’aux contrats de licenc
 
 Les sociétés de gestion de droits d’auteur autorisées à exercer leur activité en vertu de la loi fédérale du 25 septembre 1940 concernant la perception de droits d’auteur[^82-1] doivent demander une nouvelle autorisation (art. 41) dans les six mois qui suivent l’entrée en vigueur de la présente loi.
 
-[^82-1]: [RS **2** 824]
+[^82-1]: [[RS 2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5701)824]
 
 #### Art. 83
 

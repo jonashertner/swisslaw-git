@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 9. Oktober 1992 über das Urheberrecht und verwandte Sc
 short: URG
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798"
 language: de
-version: 2023-07-01
+version: 2025-07-01
 adopted: 1992-10-09
 in_force: 1993-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1993-1798_1798_1798-20230701-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798/20250701/de/xml/fedlex-data-admin-ch-eli-cc-1993-1798_1798_1798-20250701-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/20230701/de"
 
 (Urheberrechtsgesetz, URG)
 
-vom 9. Oktober 1992 (Stand am 1. Juli 2023)
+vom 9. Oktober 1992 (Stand am 1. Juli 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 95 und 122 der Bundesverfassung[^ingress-1],[^ingress-
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Fassung gemäss Anhang Ziff. 3 des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 [^ingress-3]: [BBl 1989 III 477](https://fedlex.data.admin.ch/eli/fga/1989/3_477_465_413)
 
@@ -177,7 +177,9 @@ Der Urheber oder die Urheberin hat insbesondere das Recht:
 
 **Werkintegrität**
 
-<sup>1</sup> Der Urheber oder die Urheberin hat das ausschliessliche Recht zu bestimmen;
+<sup>1</sup>
+
+Der Urheber oder die Urheberin hat das ausschliessliche Recht zu bestimmen:
 
 - a. ob, wann und wie das Werk geändert werden darf;
 - b. ob, wann und wie das Werk zur Schaffung eines Werks zweiter Hand verwendet oder in ein Sammelwerk aufgenommen werden darf.
@@ -371,7 +373,7 @@ Die folgenden Rechte an Archivwerken von Sendeunternehmen nach dem Bundesgesetz 
 <sup>3</sup> Wurde über die Rechte nach Absatz 1 und deren Abgeltung vor der ersten Sendung oder innerhalb von zehn Jahren nach dieser eine vertragliche Vereinbarung geschlossen, so gelten ausschliesslich deren Bestimmungen. Auf die Rechte der Sendeunternehmen nach Artikel 37 findet Absatz 1 keine Anwendung. Die Sendeunternehmen und die Drittberechtigten sind gegenüber der Verwertungsgesellschaft auf Verlangen zur Auskunft über die vertraglichen Vereinbarungen verpflichtet.
 
 [^22a-1]: Eingefügt durch Ziff. I des BG vom 5. Okt. 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
-[^22a-2]: [SR 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^22a-2]: [SR 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 
 #### Art. 22b
 
@@ -454,7 +456,7 @@ Die vorübergehende Vervielfältigung eines Werks ist zulässig, wenn sie:
 <sup>2</sup> Nach Absatz 1 hergestellte Vervielfältigungen dürfen weder veräussert noch sonst wie verbreitet werden; sie müssen vom Sendeunternehmen mit eigenen Mitteln hergestellt werden. Sie sind wieder zu löschen, wenn sie ihren Zweck erfüllt haben. Artikel 11 bleibt vorbehalten.
 
 [^24b-1]: Eingefügt durch Ziff. I des BG vom 5. Okt. 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
-[^24b-2]: [SR 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^24b-2]: [SR 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 
 #### Art. 24c
 
@@ -573,7 +575,7 @@ Der Schutz erlischt:
 <sup>4</sup> Auf fotografische Wiedergaben und mit einem der Fotografie ähnlichen Verfahren hergestellte Wiedergaben dreidimensionaler Objekte sind die Artikel 30 und 31 nicht anwendbar, wenn die Wiedergaben keinen individuellen Charakter haben.[^29-3]
 
 [^29-1]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. April 2020 ([AS 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [BBl 2018 591](https://fedlex.data.admin.ch/eli/fga/2018/184)).
-[^29-2]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^29-2]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 [^29-3]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. April 2020 ([AS 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [BBl 2018 591](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 
 #### Art. 30
@@ -591,9 +593,9 @@ Haben mehrere Personen an der Schaffung eines Werks mitgewirkt (Art. 7), so erli
 
 <sup>3</sup> Bei Filmen und anderen audiovisuellen Werken fällt für die Berechnung der Schutzdauer nur der Regisseur oder die Regisseurin in Betracht.
 
-[^30-1]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^30-2]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^30-3]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^30-1]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^30-2]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^30-3]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 31
 
@@ -608,9 +610,9 @@ Wird vor Ablauf dieser Schutzfrist allgemein bekannt, welche Person[^31-1] das W
 - a. 50 Jahre nach ihrem Tod für Computerprogramme[^31-2];
 - b. 70 Jahre nach ihrem Tod für alle anderen Werke[^31-3].
 
-[^31-1]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^31-2]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^31-3]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^31-1]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^31-2]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^31-3]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 32
 
@@ -650,7 +652,7 @@ Die ausübenden Künstler und Künstlerinnen haben das ausschliessliche Recht, i
 <sup>2</sup> Der Schutz der ausübenden Künstler und Künstlerinnen vor Beeinträchtigungen ihrer Darbietungen richtet sich nach den Artikeln 28–28*l* des Zivilgesetzbuches[^33a-2].
 
 [^33a-1]: Eingefügt durch Art. 2 des BB vom 5. Okt. 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
-[^33a-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^33a-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 34
 
@@ -1030,7 +1032,7 @@ Das IGE beaufsichtigt die Verwertungsgesellschaften.
 
 <sup>3</sup> Die Schiedskommission nimmt für ihre Entscheidungen keine Weisungen entgegen; das Personal des Kommissionssekretariates untersteht für diese Tätigkeit dem Kommissionspräsidenten beziehungsweise der Kommissionspräsidentin.
 
-[^55-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^55-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 56
 
@@ -1118,7 +1120,7 @@ Wer in seinem Urheber- oder verwandten Schutzrecht verletzt oder gefährdet wird
 
 [^62-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^62-2]: Eingefügt durch Art. 2 des BB vom 5. Okt. 2007 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)). Fassung gemäss Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. April 2020 ([AS 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [BBl 2018 591](https://fedlex.data.admin.ch/eli/fga/2018/184)).
-[^62-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^62-3]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^62-4]: Eingefügt durch Anhang Ziff. 1 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 63
@@ -1273,7 +1275,7 @@ Wer ohne erforderliche Bewilligung (Art. 41) Urheber- oder verwandte Schutzrecht
 
 Für Widerhandlungen in Geschäftsbetrieben, durch Beauftragte und dergleichen sind die Artikel 6 und 7 des Verwaltungsstrafrechtsgesetzes vom 22. März 1974[^71-1] anwendbar.
 
-[^71-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^71-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 72
 
@@ -1282,7 +1284,7 @@ Für Widerhandlungen in Geschäftsbetrieben, durch Beauftragte und dergleichen s
 Ausgeführte Werke der Baukunst können nicht nach Artikel 69 des Strafgesetzbuches[^72-2] eingezogen werden.
 
 [^72-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^72-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^72-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 73
 
@@ -1292,7 +1294,7 @@ Ausgeführte Werke der Baukunst können nicht nach Artikel 69 des Strafgesetzbuc
 
 <sup>2</sup> Widerhandlungen nach Artikel 70 werden vom IGE nach dem Verwaltungsstrafrechtsgesetz vom 22. März 1974[^73-1] verfolgt und beurteilt.
 
-[^73-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^73-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### 3. Kapitel: Beschwerde an das Bundesverwaltungsgericht
 
@@ -1313,65 +1315,84 @@ Das Beschwerdeverfahren vor dem Bundesverwaltungsgericht richtet sich nach dem V
 - c. Zur Einreichung einer Vernehmlassung setzt das Bundesverwaltungsgericht eine Frist von höchstens 30 Tagen; diese kann nicht erstreckt werden.
 - d. Ein weiterer Schriftenwechsel nach Artikel 57 Absatz 2 VwVG findet in der Regel nicht statt.[^74-3]
 
-[^74-1]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
-[^74-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^74-1]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+[^74-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^74-3]: Fassung gemäss Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. April 2020 ([AS 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [BBl 2018 591](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 
-### 4. Kapitel: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit
+### 4. Kapitel: Hilfeleistung beim Verbringen von Waren ins Zollgebiet oder aus dem Zollgebiet
 
 [^tit5-chap4-1]
 
-[^tit5-chap4-1]: Fassung gemäss Ziff. I 1 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^tit5-chap4-1]: Fassung gemäss Ziff. I 2 des BG vom 22. Dez. 2023 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 75
 
 **Anzeige verdächtiger Waren**[^75-1]
 
-<sup>1</sup> Das Bundesamt für Zoll und Grenzsicherheit (BAZG) ist ermächtigt, die Inhaber und Inhaberinnen der Urheber- oder der verwandten Schutzrechte sowie die zugelassenen Verwertungsgesellschaften zu benachrichtigen, wenn der Verdacht besteht, dass die Ein-, Aus- oder Durchfuhr von Waren bevorsteht, deren Verbreitung gegen die in der Schweiz geltende Gesetzgebung über das Urheberrecht oder die verwandten Schutzrechte verstösst.[^75-2]
+<sup>1</sup> Das Bundesamt für Zoll und Grenzsicherheit (BAZG) ist ermächtigt, die Inhaber und Inhaberinnen der Urheber- oder der verwandten Schutzrechte sowie die zugelassenen Verwertungsgesellschaften zu benachrichtigen, wenn der Verdacht besteht, dass das Verbringen einer Ware ins Zollgebiet oder aus dem Zollgebiet bevorsteht, deren Verbreitung gegen die in der Schweiz geltende Gesetzgebung über das Urheberrecht oder die verwandten Schutzrechte verstösst.
 
-<sup>2</sup> In diesem Fall ist das BAZG[^75-3] ermächtigt, die Waren während drei Werktagen zurückzubehalten, damit die antragsberechtigten Personen einen Antrag nach Artikel 76 Absatz 1 stellen können.
+<sup>2</sup> In diesem Fall ist es ermächtigt, die Ware während drei Arbeitstagen zurückzubehalten, damit die antragsberechtigten Personen einen Antrag nach Artikel 76 stellen können.
 
-[^75-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^75-2]: Fassung gemäss Ziff. I 1 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^75-3]: Ausdruck gemäss Ziff. I 1 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^75-1]: Fassung gemäss Ziff. I 2 des BG vom 22. Dez. 2023 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 76
 
-**Antrag auf Hilfeleistung**
+**Antrag auf Hilfeleistung**[^76-1]
 
-<sup>1</sup> Haben Inhaber oder Inhaberinnen beziehungsweise klageberechtigte Lizenznehmer oder Lizenznehmerinnen von Urheber- oder von verwandten Schutzrechten oder eine zugelassene Verwertungsgesellschaft konkrete Anhaltspunkte dafür, dass das Verbringen ins schweizerische Zollgebiet oder aus dem schweizerischen Zollgebiet von Waren bevorsteht, deren Verbreitung gegen die in der Schweiz geltende Gesetzgebung über das Urheberrecht oder die verwandten Schutzrechte verstösst, so können sie beim BAZG schriftlich beantragen, die Freigabe der Waren zu verweigern.[^76-1]
+<sup>1</sup> Haben Inhaber und Inhaberinnen beziehungsweise klageberechtigte Lizenznehmer und Lizenznehmerinnen von Urheber- oder von verwandten Schutzrechten oder eine zugelassene Verwertungsgesellschaft konkrete Anhaltspunkte dafür, dass das Verbringen einer Ware ins Zollgebiet oder aus dem Zollgebiet bevorsteht, deren Verbreitung gegen die in der Schweiz geltende Gesetzgebung über das Urheberrecht oder die verwandten Schutzrechte verstösst, so können sie beim BAZG schriftlich beantragen, die Freigabe der Ware zu verweigern.
 
-<sup>2</sup> Die Antragsteller haben alle ihnen greifbaren zweckdienlichen Angaben zu machen, welche das BAZG benötigt, um über den Antrag entscheiden zu können. Sie übergeben ihm namentlich eine genaue Beschreibung der Waren.
+<sup>2</sup>
 
-<sup>3</sup> Das BAZG entscheidet endgültig über den Antrag. Es kann eine Gebühr zur Deckung der Verwaltungskosten erheben.[^76-2]
+Die Antragsteller und Antragstellerinnen können gleichzeitig schriftlich beantragen, dass die Ware vernichtet wird:
 
-[^76-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^76-2]: Fassung gemäss Anhang Ziff. 1 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+- a. im ordentlichen Verfahren (Art. 77*c*–77*h*); oder
+- b. im vereinfachten Verfahren (Art. 77*h*<sup>bis</sup>), wenn es sich um eine Kleinsendung handelt.
+
+<sup>3</sup> Sie können im Antrag nach Absatz 2 verlangen, dass die Ware ihnen übergeben wird, damit sie sie selber vernichten.
+
+<sup>4</sup> Der Antrag nach Absatz 2 Buchstabe a führt nicht dazu, dass die Fristen nach Artikel 77 Absätze 3 und 4 zur Erwirkung vorsorglicher Massnahmen verlängert werden.
+
+<sup>5</sup> Der Bundesrat bestimmt, was als Kleinsendung gilt; er berücksichtigt dabei namentlich die Anzahl der in einer Sendung enthaltenen Einheiten.
+
+<sup>6</sup> Die Antragsteller und Antragstellerinnen haben alle ihnen zur Verfügung stehenden Angaben zu machen, welche das BAZG benötigt, um über den Antrag entscheiden zu können; dazu gehört eine genaue Beschreibung der Ware.
+
+<sup>7</sup> Das BAZG entscheidet endgültig über den Antrag. Es kann eine Gebühr zur Deckung der Verwaltungskosten erheben.
+
+[^76-1]: Fassung gemäss Ziff. I 2 des BG vom 22. Dez. 2023 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 77
 
 **Zurückbehalten von Waren**[^77-1]
 
-<sup>1</sup> Hat das BAZG aufgrund eines Antrags nach Artikel 76 Absatz 1 den begründeten Verdacht, dass das Verbringen ins schweizerische Zollgebiet oder aus dem schweizerischen Zollgebiet von Waren gegen die in der Schweiz geltende Gesetzgebung über das Urheberrecht oder die verwandten Schutzrechte verstösst, so teilt es dies einerseits dem Antragsteller oder der Antragstellerin und andererseits dem Anmelder, Besitzer oder Eigentümer beziehungsweise der Anmelderin, Besitzerin oder Eigentümerin der Ware mit.[^77-2]
+<sup>1</sup>
 
-<sup>2</sup> Das BAZG behält die Ware bis höchstens zehn Werktage vom Zeitpunkt der Mitteilung nach Absatz 1 an zurück, damit der Antragsteller oder die Antragstellerin vorsorgliche Massnahmen erwirken kann.
+Hat das BAZG aufgrund eines Antrags auf Hilfeleistung nach Artikel 76 Absatz 1 den Verdacht, dass das Verbringen der Ware ins Zollgebiet oder aus dem Zollgebiet gegen die in der Schweiz geltende Gesetzgebung über das Urheberrecht oder die verwandten Schutzrechte verstösst, so:
 
-<sup>3</sup> In begründeten Fällen kann es die Ware während höchstens zehn weiteren Werktagen zurückbehalten.
+- a. behält es die Ware zurück; und
+- b. teilt es dies einerseits dem Antragsteller oder der Antragstellerin und andererseits dem Anmelder, Besitzer oder Eigentümer beziehungsweise der Anmelderin, Besitzerin oder Eigentümerin der Ware mit.
 
-[^77-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^77-2]: Fassung gemäss Anhang Ziff. 3 des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+<sup>2</sup> Wurde mit dem Antrag auf Hilfeleistung nach Artikel 76 Absatz 1 ein Antrag auf Vernichtung von Kleinsendungen (Art. 76 Abs. 2 Bst. b) gestellt, so richtet sich das Verfahren ausschliesslich nach Artikel 77*h*<sup>bis</sup>*.*
+
+<sup>3</sup> Das BAZG behält die Ware während höchstens zehn Arbeitstagen, nachdem der Antragsteller oder die Antragstellerin die Mitteilung nach Absatz 1 Buchstabe b erhalten hat, zurück, damit dieser oder diese vorsorgliche Massnahmen erwirken kann.
+
+<sup>4</sup> In begründeten Fällen kann es die Ware während höchstens zehn weiteren Arbeitstagen zurückbehalten.
+
+<sup>5</sup> Handelt es sich um eine Kleinsendung, so kann es die Zuständigkeit für die Mitteilung nach Absatz 1 Buchstabe b und die weiteren Verfahrensschritte dem IGE übertragen.
+
+[^77-1]: Fassung gemäss Ziff. I 2 des BG vom 22. Dez. 2023 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 77a
 
 **Proben oder Muster**[^77a-1]
 
-<sup>1</sup> Während des Zurückbehaltens der Ware ist das BAZG ermächtigt, dem Antragsteller oder der Antragstellerin auf Antrag Proben oder Muster zur Prüfung zu übergeben oder zuzusenden oder ihm oder ihr die Besichtigung der zurückbehaltenen Ware zu gestatten.
+<sup>1</sup> Während des Zurückbehaltens der Ware ist das BAZG[^77a-2] ermächtigt, dem Antragsteller oder der Antragstellerin auf Antrag Proben oder Muster zur Prüfung zu übergeben oder zuzusenden oder ihm oder ihr die Besichtigung der zurückbehaltenen Ware zu gestatten.
 
 <sup>2</sup> Die Proben oder Muster werden auf Kosten des Antragstellers oder der Antragstellerin entnommen und versandt.
 
 <sup>3</sup> Sie müssen nach erfolgter Prüfung, soweit sinnvoll, zurückgegeben werden. Verbleiben Proben oder Muster beim Antragsteller oder bei der Antragstellerin, so unterliegen sie den Bestimmungen der Zollgesetzgebung.
 
 [^77a-1]: Eingefügt durch Anhang Ziff. 1 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^77a-2]: Ausdruck gemäss Ziff. I 1 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 77b
 
@@ -1387,15 +1408,18 @@ Das Beschwerdeverfahren vor dem Bundesverwaltungsgericht richtet sich nach dem V
 
 #### Art. 77c
 
-**Antrag auf Vernichtung der Ware**[^77c-1]
+**Mitteilung über den Antrag auf Vernichtung einer Ware[^77c-2]**[^77c-1]
 
-<sup>1</sup> Zusammen mit dem Antrag nach Artikel 76 Absatz 1 kann der Antragsteller oder die Antragstellerin beim BAZG schriftlich beantragen, die Ware zu vernichten.
+<sup>1</sup> …[^77c-3]
 
 <sup>2</sup> Wird ein Antrag auf Vernichtung gestellt, so teilt das BAZG dies dem Anmelder, Besitzer oder Eigentümer beziehungsweise der Anmelderin, Besitzerin oder Eigentümerin der Ware im Rahmen der Mitteilung nach Artikel 77 Absatz 1 mit.
 
-<sup>3</sup> Der Antrag auf Vernichtung führt nicht dazu, dass die Fristen nach Artikel 77 Absätze 2 und 3 zur Erwirkung vorsorglicher Massnahmen verlängert werden.
+<sup>3</sup> …[^77c-4]
 
 [^77c-1]: Eingefügt durch Anhang Ziff. 1 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^77c-2]: Fassung gemäss Ziff. I 2 des BG vom 22. Dez. 2023 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^77c-3]: Aufgehoben durch Ziff. I 2 des BG vom 22. Dez. 2023 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, mit Wirkung seit 1. Juli 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^77c-4]: Aufgehoben durch Ziff. I 2 des BG vom 22. Dez. 2023 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, mit Wirkung seit 1. Juli 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 77d
 
@@ -1403,9 +1427,10 @@ Das Beschwerdeverfahren vor dem Bundesverwaltungsgericht richtet sich nach dem V
 
 <sup>1</sup> Für die Vernichtung der Ware ist die Zustimmung des Anmelders, Besitzers oder Eigentümers beziehungsweise der Anmelderin, Besitzerin oder Eigentümerin erforderlich.
 
-<sup>2</sup> Die Zustimmung gilt als erteilt, wenn der Anmelder, Besitzer oder Eigentümer beziehungsweise die Anmelderin, Besitzerin oder Eigentümerin die Vernichtung nicht innerhalb der Fristen nach Artikel 77 Absätze 2 und 3 ausdrücklich ablehnt.
+<sup>2</sup> Die Zustimmung gilt als erteilt, wenn der Anmelder, Besitzer oder Eigentümer beziehungsweise die Anmelderin, Besitzerin oder Eigentümerin die Vernichtung nicht innerhalb der Fristen nach Artikel 77 Absätze 2 und 3[^77d-2] ausdrücklich ablehnt.
 
 [^77d-1]: Eingefügt durch Anhang Ziff. 1 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^77d-2]: Heute: Art. 77 Abs. 3 und 4.
 
 #### Art. 77e
 
@@ -1444,6 +1469,29 @@ Vor der Vernichtung der Ware entnimmt das BAZG Proben oder Muster und bewahrt si
 <sup>2</sup> Der Antragsteller oder die Antragstellerin muss den Schaden, der durch das Zurückbehalten der Ware und die Entnahme von Proben oder Mustern entstanden ist, ersetzen, wenn vorsorgliche Massnahmen nicht angeordnet werden oder sich als unbegründet erweisen.
 
 [^77h-1]: Eingefügt durch Anhang Ziff. 1 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+
+#### Art. 77h<sup>bis</sup>
+
+**Vereinfachtes Verfahren zur Vernichtung von Kleinsendungen**[^77hbis-1]
+
+<sup>1</sup>
+
+Das BAZG behält eine Ware zurück, wenn es sich um eine Kleinsendung handelt und:
+
+- a. es aufgrund eines Antrags auf Hilfeleistung nach Artikel 76 Absatz 1 den Verdacht hat, dass das Verbringen der Ware ins Zollgebiet oder aus dem Zollgebiet gegen die in der Schweiz geltende Gesetzgebung über das Urheberrecht oder die verwandten Schutzrechte verstösst; und
+- b. ein Antrag auf Vernichtung von Kleinsendungen (Art. 76 Abs. 2 Bst. b) gestellt wurde.
+
+<sup>2</sup> Es kann die Zuständigkeit für die Durchführung des weiteren Verfahrens dem IGE übertragen.
+
+<sup>3</sup> Die zuständige Behörde informiert den Anmelder, Besitzer oder Eigentümer beziehungsweise die Anmelderin, Besitzerin oder Eigentümerin der Ware über den Verdacht und die zurückbehaltene Ware und weist ihn oder sie darauf hin, dass die Ware vernichtet wird, wenn er oder sie die Vernichtung nicht innerhalb von zehn Arbeitstagen nach Empfang dieser Information ausdrücklich ablehnt.
+
+<sup>4</sup> Lehnt der Anmelder, Besitzer oder Eigentümer beziehungsweise die Anmelderin, Besitzerin oder Eigentümerin die Vernichtung innerhalb der Frist nach Absatz 3 ausdrücklich ab, so teilt die zuständige Behörde dies dem Antragsteller oder der Antragstellerin mit. Das weitere Verfahren richtet sich sinngemäss nach den Artikeln 77 Absätze 3 und 4, 77*a*, 77*b* und 77*h*.
+
+<sup>5</sup> Stimmt der Anmelder, Besitzer oder Eigentümer beziehungsweise die Anmelderin, Besitzerin oder Eigentümerin der Vernichtung zu oder lässt er oder sie sich innerhalb der Frist nach Absatz 3 nicht vernehmen, so vernichtet die zuständige Behörde die Ware auf Kosten des Antragstellers oder der Antragstellerin frühestens drei Monate nach der Information nach Absatz 3 oder überlässt sie dem Antragsteller oder der Antragstellerin zur Vernichtung, sofern sie oder er dies nach Artikel 76 Absatz 3 verlangt hat. Schadenersatzansprüche des Antragstellers oder der Antragstellerin gegen den Anmelder, Besitzer oder Eigentümer beziehungsweise die Anmelderin, Besitzerin oder Eigentümerin sind ausgeschlossen.
+
+<sup>6</sup> Die zuständige Behörde informiert den Antragsteller oder die Antragstellerin über die Menge und die Art sowie über die Absender im In- oder Ausland der nach Absatz 5 vernichteten Waren.
+
+[^77hbis-1]: Eingefügt durch Ziff. I 2 des BG vom 22. Dez. 2023 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 ## 5*a*. Titel: Bearbeitung von Personendaten zum Zweck der Strafantragsstellung oder der Strafanzeigeerstattung
 

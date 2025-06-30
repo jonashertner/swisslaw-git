@@ -4,11 +4,11 @@ title: "Legge federale del 9 ottobre 1992 sul diritto d'autore e sui diritti di 
 short: LDA
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798"
 language: it
-version: 2023-07-01
+version: 2025-07-01
 adopted: 1992-10-09
 in_force: 1993-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1993-1798_1798_1798-20230701-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798/20250701/it/xml/fedlex-data-admin-ch-eli-cc-1993-1798_1798_1798-20250701-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/20250701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/20230701/it"
 
 (Legge sul diritto d’autore, LDA)
 
-del 9 ottobre 1992 (Stato 1° luglio 2023)
+del 9 ottobre 1992 (Stato 1° luglio 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visti gli articoli 95 e 122 della Costituzione federale[^ingress-1];[^ingress-2]
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nuovo testo giusta l’all. n. 3 della LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 [^ingress-3]: [FF 1989 III 413](https://fedlex.data.admin.ch/eli/fga/1989/3_477_465_413)
 
@@ -72,7 +72,7 @@ Sono in particolare opere:
 
 <sup>4</sup> Sono altresì protetti i progetti, i titoli e le parti di opere, in quanto costituiscano creazioni dell’ingegno che presentano un carattere originale.
 
-[^2-1]: Introdotto dal n. I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
+[^2-1]: Introdotto dalla cifra I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 
 #### Art. 3
 
@@ -109,7 +109,7 @@ Non sono protetti dal diritto d’autore:[^5-1]
 
 <sup>2</sup> Parimenti non protette sono le traduzioni e le raccolte ufficiali o richieste dalla legge delle opere di cui nel capoverso 1.
 
-[^5-1]: Nuovo testo giusta il n. I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
+[^5-1]: Nuovo testo giusta la cifra I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 
 ### Capitolo 2: L’autore
 
@@ -204,7 +204,7 @@ L’autore ha il diritto esclusivo di decidere:
 
 <sup>3</sup> Le opere architettoniche realizzate possono essere modificate dal proprietario; è salvo l’articolo 11 capoverso 2.
 
-[^12-1]: Introdotto dall’art. 36 n. 3 della L del 14 dic. 2001 sul cinema ([RU 2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283); [FF 2000 4725](https://fedlex.data.admin.ch/eli/fga/2000/1178)). Nuovo testo giusta il n. II della LF del 20 giu. 2003, in vigore dal 1° apr. 2004 ([RU 2004 1385](https://fedlex.data.admin.ch/eli/oc/2004/172); [FF 2002 1835](https://fedlex.data.admin.ch/eli/fga/2002/265)[4927](https://fedlex.data.admin.ch/eli/fga/2002/848)).
+[^12-1]: Introdotto dall’art. 36 n. 3 della L del 14 dic. 2001 sul cinema ([RU 2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283); [FF 2000 4725](https://fedlex.data.admin.ch/eli/fga/2000/1178)). Nuovo testo giusta la cifra II della LF del 20 giu. 2003, in vigore dal 1° apr. 2004 ([RU 2004 1385](https://fedlex.data.admin.ch/eli/oc/2004/172); [FF 2002 1835](https://fedlex.data.admin.ch/eli/fga/2002/265)[4927](https://fedlex.data.admin.ch/eli/fga/2002/848)).
 
 #### Art. 13
 
@@ -249,7 +249,7 @@ Non è dovuto alcun compenso se:
 
 <sup>5</sup> Il presente articolo non è applicabile alla musica contenuta in opere audiovisive. L’autore di un’opera musicale ha diritto a un’equa parte del prodotto dei suoi diritti esclusivi soggetti a gestione collettiva.
 
-[^13a-1]: Introdotto dal n. I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
+[^13a-1]: Introdotto dalla cifra I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 
 #### Art. 14
 
@@ -324,9 +324,9 @@ Al di fuori della cerchia privata di cui al capoverso 1 lettera a, non sono amme
 
 <sup>4</sup> Il presente articolo non si applica ai programmi per computer.
 
-[^19-1]: Nuovo testo giusta il n. I della LF del 5 ott. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)).
-[^19-2]: Nuovo testo giusta il n. I della LF del 5 ott. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)).
-[^19-3]: Introdotto dal n. I della LF del 5 ott. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)).
+[^19-1]: Nuovo testo giusta la cifra I della LF del 5 ott. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)).
+[^19-2]: Nuovo testo giusta la cifra I della LF del 5 ott. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)).
+[^19-3]: Introdotto dalla cifra I della LF del 5 ott. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 
 #### Art. 20
 
@@ -374,8 +374,8 @@ Fatto salvo il capoverso 3, i seguenti diritti sulle opere d’archivio degli or
 
 <sup>3</sup> Se in merito ai diritti secondo il capoverso 1 e alla loro rimunerazione è stato concluso un accordo contrattuale prima della prima diffusione o entro i dieci anni successivi, solo le disposizioni contrattuali sono applicabili. Il capoverso 1 non si applica ai diritti degli organismi di diffusione secondo l’articolo 37. Su domanda della società di gestione, gli organismi di diffusione e i terzi aventi diritto sono tenuti a fornirle informazioni sugli accordi contrattuali.
 
-[^22a-1]: Introdotto dal n. I della LF del 5 ott. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)).
-[^22a-2]: [RS 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^22a-1]: Introdotto dalla cifra I della LF del 5 ott. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)).
+[^22a-2]: [RS 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 
 #### Art. 22b
 
@@ -398,7 +398,7 @@ I diritti di cui all’articolo 10 sull’opera orfana possono essere esercitati
 
 <sup>6</sup> Se i diritti non sono rivendicati entro dieci anni, la totalità del prodotto della gestione è utilizzato, in deroga all’articolo 48 capoverso 2, per fini di previdenza sociale e promozione di attività culturali.
 
-[^22b-1]: Introdotto dal n. I della LF del 5 ott. 2007 ([RU 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)). Nuovo testo giusta il n. I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
+[^22b-1]: Introdotto dalla cifra I della LF del 5 ott. 2007 ([RU 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)). Nuovo testo giusta la cifra I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 
 #### Art. 22c
 
@@ -414,7 +414,7 @@ Il diritto di mettere a disposizione opere musicali non teatrali contenute in em
 
 <sup>2</sup> Alle condizioni di cui al capoverso 1, il diritto alla riproduzione ai fini della messa a disposizione può essere esercitato soltanto da società di gestione autorizzate.
 
-[^22c-1]: Introdotto dal n. I della LF del 5 ott. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)).
+[^22c-1]: Introdotto dalla cifra I della LF del 5 ott. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 
 #### Art. 23
 
@@ -434,7 +434,7 @@ Il diritto di mettere a disposizione opere musicali non teatrali contenute in em
 
 <sup>2</sup> La persona che ha il diritto di usare un programma per computer può farne una copia di sicurezza; non sono ammesse deroghe per contratto a tale facoltà.
 
-[^24-1]: Introdotto dal n. I della LF del 5 ott. 2007 ([RU 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)). Nuovo testo giusta il n. I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
+[^24-1]: Introdotto dalla cifra I della LF del 5 ott. 2007 ([RU 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)). Nuovo testo giusta la cifra I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 
 #### Art. 24a
 
@@ -447,7 +447,7 @@ La riproduzione temporanea di un’opera è ammessa se:
 - c. serve esclusivamente alla trasmissione in rete fra terzi mediante un intermediario o a un’utilizzazione legittima; e
 - d. è priva di significato economico proprio.
 
-[^24a-1]: Introdotto dal n. I della LF del 5 ott. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)).
+[^24a-1]: Introdotto dalla cifra I della LF del 5 ott. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 
 #### Art. 24b
 
@@ -457,8 +457,8 @@ La riproduzione temporanea di un’opera è ammessa se:
 
 <sup>2</sup> Le riproduzioni allestite secondo il capoverso 1 non possono essere alienate né messe altrimenti in circolazione; devono essere allestite con mezzi propri dall’organismo di diffusione. Vanno distrutte non appena hanno adempiuto il loro scopo. È fatto salvo l’articolo 11.
 
-[^24b-1]: Introdotto dal n. I della LF del 5 ott. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)).
-[^24b-2]: [RS 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^24b-1]: Introdotto dalla cifra I della LF del 5 ott. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)).
+[^24b-2]: [RS 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 
 #### Art. 24c
 
@@ -479,7 +479,7 @@ Le riproduzioni secondo il capoverso 1 e quelle allestite in virtù di una limit
 
 <sup>5</sup> Il diritto al compenso può essere esercitato soltanto da una società di gestione autorizzata.
 
-[^24c-1]: Introdotto dal n. I della LF del 5 ott. 2007, ([RU 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)). Nuovo testo giusta l’all. del DF del 21 giu. 2019 che approva il Trattato di Marrakech volto a facilitare l’accesso alle opere pubblicate per le persone non vedenti, con disabilità visive o con altre difficoltà nella lettura di testi a stampa e lo traspone nel diritto svizzero, in vigore dal 1° apr. 2020 ([RU 2020 1013](https://fedlex.data.admin.ch/eli/oc/2020/182); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
+[^24c-1]: Introdotto dalla cifra I della LF del 5 ott. 2007, ([RU 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)). Nuovo testo giusta l’all. del DF del 21 giu. 2019 che approva il Trattato di Marrakech volto a facilitare l’accesso alle opere pubblicate per le persone non vedenti, con disabilità visive o con altre difficoltà nella lettura di testi a stampa e lo traspone nel diritto svizzero, in vigore dal 1° apr. 2020 ([RU 2020 1013](https://fedlex.data.admin.ch/eli/oc/2020/182); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 
 #### Art. 24d
 
@@ -491,7 +491,7 @@ Le riproduzioni secondo il capoverso 1 e quelle allestite in virtù di una limit
 
 <sup>3</sup> Il presente articolo non si applica alla riproduzione di programmi per computer.
 
-[^24d-1]: Introdotto dal n. I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
+[^24d-1]: Introdotto dalla cifra I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 
 #### Art. 24e
 
@@ -524,7 +524,7 @@ Per breve estratto si intendono in particolare le parti di opere seguenti:
 
 - c. per le opere delle arti figurative, in particolare della pittura, della scultura e della grafica, nonché per le opere fotografiche e altre opere visive: la veduta generale dell’opera, sotto forma di immagine in formato ridotto e a bassa risoluzione.
 
-[^24e-1]: Introdotto dal n. I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
+[^24e-1]: Introdotto dalla cifra I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 
 #### Art. 25
 
@@ -576,9 +576,9 @@ La protezione si estingue:
 
 <sup>4</sup> Alle rappresentazioni fotografiche e alle rappresentazioni di oggetti tridimensionali ottenute con procedimenti analoghi a quello della fotografia che non presentano un carattere originale non si applicano gli articoli 30 e 31.[^29-3]
 
-[^29-1]: Introdotta dal n. I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
-[^29-2]: Rettificato dalla Commissione di redazione dell’AF (art. 58, cpv. 1, LParl – [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^29-3]: Introdotto dal n. I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
+[^29-1]: Introdotta dalla cifra I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
+[^29-2]: Rettificato dalla Commissione di redazione dell’AF (art. 58, cpv. 1, LParl – [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^29-3]: Introdotto dalla cifra I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 
 #### Art. 30
 
@@ -595,9 +595,9 @@ Se l’opera è stata creata da più persone (art. 7), la protezione si estingue
 
 <sup>3</sup> Per calcolare la durata di protezione delle pellicole cinematografiche e di altre opere audiovisive è presa in considerazione soltanto la data di morte del regista.
 
-[^30-1]: Rettificato dalla Commissione di redazione dell’AF (art. 58, cpv. 1, LParl – [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^30-2]: Rettificato dalla Commissione di redazione dell’AF (art. 58, cpv. 1, LParl – [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^30-3]: Rettificato dalla Commissione di redazione dell’AF (art. 58, cpv. 1, LParl – [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^30-1]: Rettificato dalla Commissione di redazione dell’AF (art. 58, cpv. 1, LParl – [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^30-2]: Rettificato dalla Commissione di redazione dell’AF (art. 58, cpv. 1, LParl – [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^30-3]: Rettificato dalla Commissione di redazione dell’AF (art. 58, cpv. 1, LParl – [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 31
 
@@ -612,8 +612,8 @@ Se l’identità dell’autore è divenuta di pubblica ragione prima della scade
 - a. 50 anni dopo la morte dell’autore per i programmi per computer;[^31-1]
 - b. 70 anni dopo la morte dell’autore per ogni altro genere di opere.[^31-2]
 
-[^31-1]: Rettificato dalla Commissione di redazione dell’AF (art. 58, cpv. 1, LParl – [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^31-2]: Rettificato dalla Commissione di redazione dell’AF (art. 58, cpv. 1, LParl – [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^31-1]: Rettificato dalla Commissione di redazione dell’AF (art. 58, cpv. 1, LParl – [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^31-2]: Rettificato dalla Commissione di redazione dell’AF (art. 58, cpv. 1, LParl – [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 32
 
@@ -652,7 +652,7 @@ L’artista interprete ha il diritto esclusivo di:
 <sup>2</sup> La tutela dell’artista interprete da pregiudizi alle sue prestazioni è retta dagli articoli 28–28*l* del Codice civile[^33a-2].
 
 [^33a-1]: Introdotto dall’art. 2 del DF del 5 ott. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)).
-[^33a-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^33a-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 34
 
@@ -675,7 +675,7 @@ Se la prestazione è effettuata da un coro o da un’orchestra o nell’ambito d
 
 <sup>5</sup> In mancanza di pertinenti disposizioni statutarie o contrattuali, i rapporti tra le persone abilitate ad esercitare i diritti secondo i capoversi 2 e 4 e gli artisti da esse rappresentati sono retti dalle norme sulla gestione d’affari senza mandato.
 
-[^34-1]: Nuovo testo giusta il n. I della LF del 5 ott. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)).
+[^34-1]: Nuovo testo giusta la cifra I della LF del 5 ott. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 
 #### Art. 35
 
@@ -712,7 +712,7 @@ Non è dovuto alcun compenso se:
 
 <sup>4</sup> L’artista interprete di una prestazione contenuta in un’opera audiovisiva prodotta da una persona che non ha domicilio o sede in Svizzera ha diritto al compenso soltanto nel caso in cui anche il Paese nel quale è stata prodotta l’opera audiovisiva riconosca all’artista interprete, per la messa a disposizione di quest’ultima, un diritto al compenso soggetto a gestione collettiva.
 
-[^35a-1]: Introdotto dal n. I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
+[^35a-1]: Introdotto dalla cifra I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 
 #### Art. 36
 
@@ -755,7 +755,7 @@ L’articolo 12 capoverso 1 e l’articolo 13 nonché i capitoli 4 e 5 del Titol
 
 <sup>2</sup> La durata della protezione si calcola dal 31 dicembre dell’anno in cui è avvenuto il fatto determinante per il computo.
 
-[^39-1]: Nuovo testo giusta il n. I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
+[^39-1]: Nuovo testo giusta la cifra I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 [^39-2]: Introdotto dall’art. 2 del DF del 5 ott. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 
 ## Titolo terzo *a*: Protezione dei provvedimenti tecnici e delle informazioni sulla gestione dei diritti
@@ -814,7 +814,7 @@ Le informazioni elettroniche che consentono di identificare opere e altri oggett
 
 [^tit3b-1]
 
-[^tit3b-1]: Introdotto dal n. I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
+[^tit3b-1]: Introdotto dalla cifra I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 
 #### Art. 39d
 
@@ -838,7 +838,7 @@ Il prestatore di un servizio di hosting in Internet che memorizza le informazion
 
 Sottostanno alla sorveglianza della Confederazione:
 
-- a. la gestione dei diritti esclusivi d’esecuzione e diffusione delle opere musicali non teatrali nonché di registrazione di tali opere su supporti audio o audio-visivi;
+- a. la gestione dei diritti esclusivi d’esecuzione e diffusione delle opere musicali non teatrali nonché di registrazione di tali opere su supporti audio o audiovisivi;
 - a<sup>bis</sup>.[^40-1] l’esercizio di diritti esclusivi secondo gli articoli 22, 22*a -* 22*c* e 24*b;*
 - b.[^40-2] l’esercizio dei diritti al compenso previsti negli articoli 13, 13*a*, 20, 24*c*, 35 e 35*a*.
 
@@ -846,9 +846,9 @@ Sottostanno alla sorveglianza della Confederazione:
 
 <sup>3</sup> La gestione personale dei diritti esclusivi secondo il capoverso 1 lettera a da parte dell’autore o dei suoi eredi non sottostà alla sorveglianza della Confederazione.[^40-3]
 
-[^40-1]: Introdotta dal n. I della LF del 5 ott. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)).
-[^40-2]: Nuovo testo giusta il n. I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
-[^40-3]: Nuovo testo giusta il n. I della LF del 5 ott. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)).
+[^40-1]: Introdotta dalla cifra I della LF del 5 ott. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)).
+[^40-2]: Nuovo testo giusta la cifra I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
+[^40-3]: Nuovo testo giusta la cifra I della LF del 5 ott. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 
 ### Capitolo 2: Autorizzazione
 
@@ -889,7 +889,7 @@ Le autorizzazioni sono accordate soltanto alle società di gestione che:
 
 [^tit4-chap2a-1]
 
-[^tit4-chap2a-1]: Introdotto dal n. I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
+[^tit4-chap2a-1]: Introdotto dalla cifra I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 
 #### Art. 43a
 
@@ -954,7 +954,7 @@ Nei confronti dei titolari dei diritti, le società di gestione sono obbligate a
 
 <sup>2</sup> L’utilizzazione di parti del prodotto della gestione per fini di previdenza sociale e di promozione di attività culturali richiede l’approvazione dell’organo supremo della società.
 
-[^48-1]: Nuovo testo giusta il n. I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
+[^48-1]: Nuovo testo giusta la cifra I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 
 #### Art. 49
 
@@ -974,7 +974,7 @@ Nei confronti dei titolari dei diritti, le società di gestione sono obbligate a
 
 Le società di gestione devono fornire all’IPI[^50-1] tutte le informazioni utili e metterle a disposizione tutti i documenti necessari per l’attuazione della sorveglianza, nonché presentargli un rapporto annuo sull’esercizio precedente.
 
-[^50-1]: Nuova espr. giusta il n. I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^50-1]: Nuova espr. giusta la cifra I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 ### Capitolo 4: Obbligo di informare le società di gestione
 
@@ -986,8 +986,8 @@ Le società di gestione devono fornire all’IPI[^50-1] tutte le informazioni ut
 
 <sup>2</sup> Le società di gestione sono tenute al segreto commerciale.
 
-[^51-1]: Nuovo testo giusta il n. I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
-[^51-2]: Introdotto dal n. I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
+[^51-1]: Nuovo testo giusta la cifra I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
+[^51-2]: Introdotto dalla cifra I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 
 ### Capitolo 5: Sorveglianza sulle società di gestione
 
@@ -999,7 +999,7 @@ Le società di gestione devono fornire all’IPI[^50-1] tutte le informazioni ut
 
 L’IPI esercita la sorveglianza sulle società di gestione.
 
-[^52-1]: Nuovo testo giusta il n. I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
+[^52-1]: Nuovo testo giusta la cifra I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 
 #### Art. 53
 
@@ -1033,7 +1033,7 @@ L’IPI esercita la sorveglianza sulle società di gestione.
 
 <sup>3</sup> La Commissione arbitrale decide senza ricevere istruzioni; le persone responsabili del segretariato della Commissione sono subordinate in quest’attività al presidente della Commissione.
 
-[^55-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^55-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 56
 
@@ -1089,7 +1089,7 @@ Per il calcolo dell’indennità, devono essere tenuti in considerazione:
 
 <sup>4</sup> La locazione di esemplari d’opere di cui all’articolo 13 da parte di biblioteche pubbliche o accessibili al pubblico sottostà a tariffe preferenziali, affinché tali istituzioni possano assolvere al loro mandato di trasmissione e diffusione del sapere.[^60-1]
 
-[^60-1]: Introdotto dal n. I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
+[^60-1]: Introdotto dalla cifra I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 
 ## Titolo quinto: Protezione giuridica
 
@@ -1120,8 +1120,8 @@ Chi è leso o rischia di essere leso nel suo diritto d’autore o nel suo diritt
 <sup>3</sup> Chi dispone di una licenza esclusiva è legittimato in proprio all’azione, sempre che il contratto di licenza non lo escluda espressamente. Tutti i titolari di una licenza possono intervenire nell’azione per far valere il proprio danno.[^62-4]
 
 [^62-1]: Nuovo testo giusta il n. 1 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^62-2]: Introdotto dall’art. 2 del DF del 5 ott. 2007 ([RU 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)). Nuovo testo giusta il n. I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
-[^62-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^62-2]: Introdotto dall’art. 2 del DF del 5 ott. 2007 ([RU 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)). Nuovo testo giusta la cifra I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
+[^62-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^62-4]: Introdotto dall’all. n. 1 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 63
@@ -1138,7 +1138,7 @@ Chi è leso o rischia di essere leso nel suo diritto d’autore o nel suo diritt
 
 [^64-1]
 
-[^64-1]: Abrogato dall’all. 1 n. II 9 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^64-1]: Abrogato dall’all. 1 cifra II n. 9 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 #### Art. 65
 
@@ -1151,7 +1151,7 @@ Chi chiede al giudice di ordinare provvedimenti cautelari può in particolare es
 - c. salvaguardare lo stato di fatto; o
 - d. attuare a titolo provvisorio le pretese di omissione o di cessazione della turbativa.
 
-[^65-1]: Nuovo testo giusta l’all. 1 n. II 9 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^65-1]: Nuovo testo giusta l’all. 1 cifra II n. 9 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 #### Art. 66
 
@@ -1196,7 +1196,7 @@ A querela della parte lesa, è punito con una pena detentiva fino a un anno o co
 [^67-2]: Introdotta dall’art. 2 del DF del 5 ott. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 [^67-3]: Nuovo testo giusta l’art. 2 del DF del 5 ott. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 [^67-4]: Nuovo testo giusta l’all. n. 1 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^67-5]: Per. abrogato dal n. I 4 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^67-5]: Per. abrogato dalla cifra I n. 4 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^67-6]: Nuovo testo giusta l’art. 2 del DF del 5 ott. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 
 #### Art. 68
@@ -1233,7 +1233,7 @@ A querela della parte lesa, è punito con una pena detentiva fino a un anno o co
 [^69-3]: Introdotta dall’art. 2 del DF del 5 ott. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 [^69-4]: Introdotta dall’art. 2 del DF del 5 ott. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 [^69-5]: Nuovo testo giusta l’all. n. 1 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^69-6]: Per. abrogato dal n. I 4 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^69-6]: Per. abrogato dalla cifra I n. 4 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^69-7]: Nuovo testo giusta l’art. 2 del DF del 5 ott. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 
 #### Art. 69a
@@ -1276,7 +1276,7 @@ Chiunque, senza essere titolare dell’autorizzazione richiesta (art. 41), fa va
 
 Gli articoli 6 e 7 della legge federale del 22 marzo 1974[^71-1] sul diritto penale amministrativo si applicano alle infrazioni commesse nell’azienda, da mandatari e simili.
 
-[^71-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^71-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 72
 
@@ -1285,7 +1285,7 @@ Gli articoli 6 e 7 della legge federale del 22 marzo 1974[^71-1] sul diritto pen
 Le opere architettoniche realizzate non possono essere confiscate giusta l’articolo 69 del Codice penale[^72-2].
 
 [^72-1]: Nuovo testo giusta l’all. n. 1 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^72-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^72-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 73
 
@@ -1295,7 +1295,7 @@ Le opere architettoniche realizzate non possono essere confiscate giusta l’art
 
 <sup>2</sup> Le infrazioni ai sensi dell’articolo 70 sono perseguite e giudicate dall’IPI conformemente alla legge federale del 22 marzo 1974[^73-1] sul diritto penale amministrativo.
 
-[^73-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^73-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### Capitolo 3: Ricorso al Tribunale amministrativo federale
 
@@ -1316,90 +1316,114 @@ La procedura di ricorso dinanzi al Tribunale amministrativo federale è retta da
 - c. il termine fissato dal Tribunale amministrativo federale per presentare eventuali osservazioni è di 30 giorni al massimo; non può essere prorogato;
 - d. di norma non si procede a un ulteriore scambio di scritti secondo l’articolo 57 capoverso 2 PA.[^74-3]
 
-[^74-1]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
-[^74-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^74-3]: Nuovo testo giusta il n. I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
+[^74-1]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+[^74-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^74-3]: Nuovo testo giusta la cifra I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 
-### Capitolo 4: Intervento dell’Ufficio federale della dogana e della sicurezza dei confini
+### Capitolo 4: Intervento in caso di introduzione di merci nel territorio doganale o di asportazione di merci dal territorio doganale
 
 [^tit5-chap4-1]
 
-[^tit5-chap4-1]: Nuovo testo giusta il n. I 1 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore il 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^tit5-chap4-1]: Nuovo testo giusta la cifra I n. 2 della LF del 22 dic. 2023 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in vigore dal 1° lug. 2025 ([RU 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 75
 
 **Denuncia di merci sospette**[^75-1]
 
-<sup>1</sup> L’Ufficio federale della dogana e della sicurezza dei confini (UDSC) è autorizzato ad avvisare i titolari di diritti d’autore o di diritti di protezione affini nonché le società di gestione autorizzate, qualora vi sia il sospetto dell’imminente importazione, esportazione o transito di merci la cui messa in circolazione viola la legislazione in vigore in Svizzera in materia di diritto d’autore o di diritti di protezione affini.[^75-2]
+<sup>1</sup> L’Ufficio federale della dogana e della sicurezza dei confini (UDSC) è autorizzato ad avvisare i titolari di diritti d’autore o di diritti di protezione affini nonché le società di gestione autorizzate qualora vi sia il sospetto dell’imminente introduzione nel territorio doganale o dell’imminente asportazione dal territorio doganale di merce la cui messa in circolazione viola la legislazione in vigore in Svizzera in materia di diritto d’autore o di diritti di protezione affini.
 
-<sup>2</sup> In tali casi, l’UDSC[^75-3] è autorizzato a trattenere le merci per tre giorni feriali, affinché le persone autorizzate possano presentare una domanda secondo l’articolo 76 capoverso 1.
+<sup>2</sup> In tali casi, è autorizzato a trattenere la merce per tre giorni feriali, affinché le persone autorizzate possano presentare una domanda secondo l’articolo 76.
 
-[^75-1]: Nuovo testo giusta l’all. n. 1 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^75-2]: Nuovo testo giusta il n. I 1 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore il 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^75-3]: Nuova espr. giusta il n. I 1 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore il 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^75-1]: Nuovo testo giusta la cifra I n. 2 della LF del 22 dic. 2023 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in vigore dal 1° lug. 2025 ([RU 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 76
 
-**Domanda d’intervento**
+**Domanda d’intervento**[^76-1]
 
-<sup>1</sup> Se dispone di indizi concreti per ritenere imminente l’introduzione nel territorio doganale svizzero o l’asportazione dal territorio doganale svizzero di merci la cui messa in circolazione viola la legislazione in vigore in Svizzera in materia di diritto d’autore o diritti di protezione affini, il titolare di diritti d’autore o di diritti di protezione affini, il titolare di una licenza legittimato ad agire o una società di gestione autorizzata può chiedere per scritto all’UDSC di negare lo svincolo di tali merci.[^76-1]
+<sup>1</sup> Se dispone di indizi concreti per ritenere imminente l’introduzione nel territorio doganale o l’asportazione dal territorio doganale di merce la cui messa in circolazione viola la legislazione in vigore in Svizzera in materia di diritto d’autore o diritti di protezione affini, il titolare di diritti d’autore o di diritti di protezione affini, il titolare di una licenza legittimato ad agire o una società di gestione autorizzata può chiedere per scritto all’UDSC[^76-2] di negare lo svincolo di tale merce.
 
-<sup>2</sup> Il richiedente fornisce all’UDSC le indicazioni necessarie per decidere in merito alla richiesta. Gli rimette in particolare una descrizione precisa delle merci.[^76-2]
+<sup>2</sup>
 
-<sup>3</sup> L’UDSC decide definitivamente sulla domanda. Può riscuotere un emolumento per coprire le spese amministrative.[^76-3]
+Il richiedente può al contempo chiedere per scritto che la merce sia distrutta:
 
-[^76-1]: Nuovo testo giusta l’all. n. 3 della LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^76-2]: Nuovo testo giusta l’all. n. 3 della LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^76-3]: Nuovo testo giusta l’all. n. 1 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+- a. secondo la procedura ordinaria (art. 77*c*–77*h*); o
+- b. secondo la procedura semplificata (art. 77*h*<sup>bis</sup>), se si tratta di un piccolo invio.
+
+<sup>3</sup> Nella domanda di cui al capoverso 2 il richiedente può chiedere che la merce gli sia consegnata perché provveda lui stesso alla distruzione.
+
+<sup>4</sup> La domanda di cui al capoverso 2 lettera a non dà luogo a una proroga dei termini per chiedere provvedimenti cautelari secondo l’articolo 77 capoversi 3 e 4.
+
+<sup>5</sup> Il Consiglio federale definisce cosa si debba considerare piccolo invio; a tal fine tiene conto in particolare del numero di unità contenute nell’invio.
+
+<sup>6</sup> Il richiedente fornisce tutte le indicazioni in suo possesso di cui l’UDSC necessita per decidere in merito alla domanda; fornisce in particolare una descrizione precisa della merce.
+
+<sup>7</sup> L’UDSC decide definitivamente sulla domanda. Può riscuotere un emolumento per coprire le spese amministrative.
+
+[^76-1]: Nuovo testo giusta la cifra I n. 2 della LF del 22 dic. 2023 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in vigore dal 1° lug. 2025 ([RU 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^76-2]: Nuova espr. giusta il n. I 4 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 77
 
 **Ritenzione della merce**[^77-1]
 
-<sup>1</sup> Se, in seguito a una domanda d’intervento ai sensi dell’articolo 76 capoverso 1, ha motivi fondati di sospettare che l’introduzione nel territorio doganale svizzero o l’asportazione dal territorio doganale svizzero di una determinata merce violi la legislazione in vigore in Svizzera in materia di diritto d’autore o diritti di protezione affini, l’UDSC lo comunica al richiedente nonché al dichiarante, al detentore o al proprietario di tale merce.[^77-2]
+<sup>1</sup>
 
-<sup>2</sup> L’UDSC trattiene la merce al massimo per dieci giorni feriali dal momento della comunicazione secondo il capoverso 1, per consentire al richiedente di chiedere provvedimenti cautelari.
+Se, in seguito a una domanda d’intervento secondo l’articolo 76 capoverso 1, ha motivo di sospettare che l’introduzione nel territorio doganale o l’asportazione dal territorio doganale di una determinata merce violi la legislazione in vigore in Svizzera in materia di diritto d’autore o diritti di protezione affini, l’UDSC:
 
-<sup>3</sup> In casi motivati, può trattenere la merce per altri dieci giorni feriali al massimo.
+- a. trattiene la merce; e
+- b. lo comunica al richiedente nonché al dichiarante, detentore o proprietario della merce.
 
-[^77-1]: Nuovo testo giusta l’all. n. 1 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^77-2]: Nuovo testo giusta l’all. n. 3 della LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+<sup>2</sup> Se con la domanda d’intervento di cui all’articolo 76 capoverso 1 è presentata una domanda di distruzione di piccoli invii (art. 76 cpv. 2 lett. b), la procedura è retta esclusivamente dall’articolo 77*h*<sup>bis</sup>.
+
+<sup>3</sup> L’UDSC trattiene la merce al massimo per dieci giorni feriali dalla ricezione da parte del richiedente della comunicazione di cui al capoverso 1 lettera b, per consentirgli di chiedere provvedimenti cautelari.
+
+<sup>4</sup> In casi motivati, può trattenere la merce per altri dieci giorni feriali al massimo.
+
+<sup>5</sup> Se si tratta di un piccolo invio, può incaricare l’IPI della comunicazione di cui al capoverso 1 lettera b e delle ulteriori fasi della procedura.
+
+[^77-1]: Nuovo testo giusta la cifra I n. 2 della LF del 22 dic. 2023 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in vigore dal 1° lug. 2025 ([RU 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 77a
 
-**Campioni**[^77a-1]
+**Campioni o modelli**[^77a-1]
 
-<sup>1</sup> Durante la ritenzione della merce, l’UDSC è abilitato, su domanda, a consegnare o inviare, per esame, campioni della merce al richiedente o a consentirgli di ispezionare la merce ritenuta.
+<sup>1</sup> Durante la ritenzione della merce, l’UDSC è abilitato, su domanda, a consegnare o inviare, per esame, campioni o modelli della merce al richiedente o a consentirgli di ispezionare la merce ritenuta.
 
-<sup>2</sup> Le spese per il prelievo e l’invio dei campioni sono a carico del richiedente.
+<sup>2</sup> Le spese per il prelievo e l’invio dei campioni o modelli sono a carico del richiedente.
 
-<sup>3</sup> Dopo l’esame, i campioni, sempre che ciò sia opportuno, devono essere restituiti. Se rimangono presso il richiedente, i campioni sottostanno alle disposizioni della legislazione doganale.
+<sup>3</sup> Dopo l’esame, i campioni o modelli, sempre che ciò sia opportuno, devono essere restituiti. Se rimangono presso il richiedente, i campioni o modelli sottostanno alle disposizioni della legislazione doganale.
 
-[^77a-1]: Introdotto dall’all. n. 1 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^77a-1]: Introdotto dall’all. n. 1 della LF del 22 giu. 2007 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)). Nuovo testo giusta la cifra I n. 2 della LF del 22 dic. 2023 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in vigore dal 1° lug. 2025 ([RU 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 77b
 
 **Tutela dei segreti di fabbricazione e d’affari**[^77b-1]
 
-<sup>1</sup> Contemporaneamente alla comunicazione di cui all’articolo 77 capoverso 1, l’UDSC informa il dichiarante, detentore o proprietario della merce della possibile consegna di campioni e della possibilità di ispezionarli secondo l’articolo 77*a* capoverso 1.
+<sup>1</sup> Contemporaneamente alla comunicazione di cui all’articolo 77 capoverso 1, l’UDSC informa il dichiarante, detentore o proprietario della merce della possibile consegna di campioni o modelli e della possibilità di ispezionarli secondo l’articolo 77*a* capoverso 1.[^77b-2]
 
 <sup>2</sup> Il dichiarante, detentore o proprietario può chiedere di essere presente durante l’ispezione al fine di tutelare i propri segreti di fabbricazione o d’affari.
 
-<sup>3</sup> L’UDSC può, su richiesta motivata del dichiarante, detentore o proprietario, rifiutare la consegna di campioni.
+<sup>3</sup> L’UDSC può, su richiesta motivata del dichiarante, detentore o proprietario, rifiutare la consegna di campioni o modelli.[^77b-3]
 
 [^77b-1]: Introdotto dall’all. n. 1 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^77b-2]: Nuovo testo giusta la cifra I n. 2 della LF del 22 dic. 2023 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in vigore dal 1° lug. 2025 ([RU 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^77b-3]: Nuovo testo giusta la cifra I n. 2 della LF del 22 dic. 2023 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in vigore dal 1° lug. 2025 ([RU 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 77c
 
-**Domanda di distruzione della merce**[^77c-1]
+**Comunicazione concernente la domanda di distruzione della merce[^77c-2]**[^77c-1]
 
-<sup>1</sup> Insieme con la domanda di cui all’articolo 76 capoverso 1, il richiedente può chiedere per scritto all’UDSC di distruggere la merce.
+<sup>1</sup> ... [^77c-3]
 
-<sup>2</sup> Se è presentata una domanda di distruzione della merce secondo il capoverso 1, l’UDSC ne avvisa il dichiarante, detentore o proprietario della merce nella comunicazione di cui all’articolo 77 capoverso 1.
+<sup>2</sup> Se è presentata una domanda di distruzione della merce, l’UDSC ne avvisa il dichiarante, detentore o proprietario della merce nella comunicazione di cui all’articolo 77 capoverso 1.[^77c-4]
 
-<sup>3</sup> La domanda di distruzione della merce non implica un prolungamento dei termini per chiedere provvedimenti cautelari secondo l’articolo 77 capoversi 2 e 3.
+<sup>3</sup> ... [^77c-5]
 
 [^77c-1]: Introdotto dall’all. n. 1 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^77c-2]: Nuovo testo giusta la cifra I n. 2 della LF del 22 dic. 2023 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in vigore dal 1° lug. 2025 ([RU 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^77c-3]: Abrogato dalla cifra I n. 2 della LF del 22 dic. 2023 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, con effetto dal 1° lug. 2025 ([RU 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^77c-4]: Nuovo testo giusta la cifra I n. 2 della LF del 22 dic. 2023 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in vigore dal 1° lug. 2025 ([RU 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^77c-5]: Abrogato dalla cifra I n. 2 della LF del 22 dic. 2023 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, con effetto dal 1° lug. 2025 ([RU 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 77d
 
@@ -1407,17 +1431,18 @@ La procedura di ricorso dinanzi al Tribunale amministrativo federale è retta da
 
 <sup>1</sup> Per la distruzione della merce è necessario il consenso del dichiarante, detentore o proprietario.
 
-<sup>2</sup> Il consenso è considerato dato se il dichiarante, detentore o proprietario non si oppone esplicitamente alla distruzione della merce entro i termini di cui all’articolo 77 capoversi 2 e 3.
+<sup>2</sup> Il consenso è considerato dato se il dichiarante, detentore o proprietario non si oppone esplicitamente alla distruzione della merce entro i termini di cui all’articolo 77 capoversi 2 e 3[^77d-2].
 
 [^77d-1]: Introdotto dall’all. n. 1 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^77d-2]: Ora: art. 77 cpv. 3 e 4.
 
 #### Art. 77e
 
 **Mezzi probatori**[^77e-1]
 
-Prima di distruggere la merce, l’UDSC preleva campioni e li conserva come prova per un’eventuale azione per risarcimento dei danni.
+Prima di distruggere la merce, l’UDSC preleva campioni o modelli e li conserva come prova per un’eventuale azione per risarcimento dei danni.
 
-[^77e-1]: Introdotto dall’all. n. 1 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^77e-1]: Introdotto dall’all. n. 1 della LF del 22 giu. 2007 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)). Nuovo testo giusta la cifra I n. 2 della LF del 22 dic. 2023 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in vigore dal 1° lug. 2025 ([RU 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 77f
 
@@ -1435,9 +1460,10 @@ Prima di distruggere la merce, l’UDSC preleva campioni e li conserva come prov
 
 <sup>1</sup> Le spese per la distruzione della merce sono a carico del richiedente.
 
-<sup>2</sup> Sulle spese per il prelievo e la conservazione di campioni ai sensi dell’articolo 77*e* decide il giudice nell’ambito del giudizio relativo alle pretese di risarcimento dei danni secondo l’articolo 77*f* capoverso 1.
+<sup>2</sup> Sulle spese per il prelievo e la conservazione di campioni o modelli ai sensi dell’articolo 77*e* decide il giudice nell’ambito del giudizio relativo alle pretese di risarcimento dei danni secondo l’articolo 77*f* capoverso 1.[^77g-2]
 
 [^77g-1]: Introdotto dall’all. n. 1 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^77g-2]: Nuovo testo giusta la cifra I n. 2 della LF del 22 dic. 2023 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in vigore dal 1° lug. 2025 ([RU 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 77h
 
@@ -1445,15 +1471,39 @@ Prima di distruggere la merce, l’UDSC preleva campioni e li conserva come prov
 
 <sup>1</sup> Se vi è da temere un danno dovuto alla ritenzione della merce, l’UDSC può subordinare la ritenzione della merce a una dichiarazione di responsabilità da parte del richiedente. Al posto di tale dichiarazione, l’UDSC può, in casi motivati, chiedere al richiedente un’adeguata garanzia.
 
-<sup>2</sup> Se non vengono ordinati provvedimenti cautelari o se i provvedimenti presi si rivelano infondati, il richiedente deve risarcire il danno causato dalla ritenzione della merce e dal prelievo dei campioni.
+<sup>2</sup> Se non vengono ordinati provvedimenti cautelari o se i provvedimenti presi si rivelano infondati, il richiedente deve risarcire il danno causato dalla ritenzione della merce e dal prelievo dei campioni o modelli.[^77h-2]
 
 [^77h-1]: Introdotto dall’all. n. 1 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^77h-2]: Nuovo testo giusta la cifra I n. 2 della LF del 22 dic. 2023 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in vigore dal 1° lug. 2025 ([RU 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+
+#### Art. 77h<sup>bis</sup>
+
+**Procedura semplificata per la distruzione di piccoli invii**[^77hbis-1]
+
+<sup>1</sup>
+
+Se si tratta di un piccolo invio, l’UDSC trattiene la merce:
+
+- a. se, in seguito a una domanda d’intervento secondo l’articolo 76 capoverso 1, ha motivo di sospettare che l’introduzione nel territorio doganale o l’asportazione dal territorio doganale della merce violi la legislazione in vigore in Svizzera in materia di diritto d’autore o diritti di protezione affini; e
+- b. se è stata presentata una domanda di distruzione di piccoli invii (art. 76 cpv. 2 lett. b).
+
+<sup>2</sup> Può incaricare l’IPI di svolgere le ulteriori fasi della procedura.
+
+<sup>3</sup> L’autorità competente informa il dichiarante, detentore o proprietario dei suoi sospetti e della ritenzione della merce, comunicandogli che la merce verrà distrutta se non si sarà espressamente opposto alla distruzione entro dieci giorni feriali dalla ricezione della comunicazione.
+
+<sup>4</sup> Se il dichiarante, detentore o proprietario si oppone espressamente alla distruzione entro il termine di cui al capoverso 3, l’autorità competente lo comunica al richiedente. Il seguito della procedura è retto per analogia dagli articoli 77 capoversi 3 e 4, 77*a*, 77*b* e 77*h*.
+
+<sup>5</sup> Se il dichiarante, detentore o proprietario acconsente alla distruzione o se non si pronuncia entro il termine di cui al capoverso 3, l’autorità competente distrugge la merce a spese del richiedente al più presto tre mesi dopo la comunicazione di cui al capoverso 3 oppure la affida al richiedente per la distruzione se questi lo ha richiesto secondo l’articolo 76 capoverso 3. È esclusa qualsiasi pretesa di risarcimento dei danni da parte del richiedente nei confronti del dichiarante, detentore o proprietario.
+
+<sup>6</sup> L’autorità competente informa il richiedente sulla quantità e sulla natura nonché sui mittenti in Svizzera e all’estero della merce distrutta in virtù del capoverso 5.
+
+[^77hbis-1]: Introdotto dalla cifra I n. 2 della LF del 22 dic. 2023 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in vigore dal 1° lug. 2025 ([RU 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 ## Titolo quinto *a*: Trattamento di dati personali a fini di querela o denuncia
 
 [^tit5a-1]
 
-[^tit5a-1]: Introdotto dal n. I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
+[^tit5a-1]: Introdotto dalla cifra I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 
 #### Art. 77i
 
@@ -1505,7 +1555,7 @@ Sono abrogate:
 
 <sup>3</sup> Gli articoli 13*a* e 35*a* non sono applicabili ai contratti conclusi prima dell’entrata in vigore della modifica del 27 settembre 2019.[^81-1]
 
-[^81-1]: Introdotto dal n. I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
+[^81-1]: Introdotto dalla cifra I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 
 #### Art. 81a
 

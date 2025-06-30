@@ -4,11 +4,11 @@ title: "Lescha federala dals 9 d'october 1992 davart ils dretgs d'autur ed ils d
 short: LDAu
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798"
 language: rm
-version: 2023-07-01
+version: 2025-07-01
 adopted: 1992-10-09
 in_force: 1993-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798/20230701/rm/xml/fedlex-data-admin-ch-eli-cc-1993-1798_1798_1798-20230701-rm-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/20230701/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798/20250701/rm/xml/fedlex-data-admin-ch-eli-cc-1993-1798_1798_1798-20250701-rm-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/20250701/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha davart il dretg d’autur, LDAu)
 
-dals 9 d’october 1992 (versiun dal 1. da fanadur 2023)
+dals 9 d’october 1992 (versiun dal 1. da fanadur 2025)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -27,7 +27,7 @@ sa basond sin ils artitgels 95 e 122 da la Constituziun federala[^ingress-1],[^i
 
 concluda:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 21 da zer. 2013, en vigur dapi il 1. da schan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 [^ingress-3]: [BBl 1989 III 477](https://fedlex.data.admin.ch/eli/fga/1989/3_477_465_413)
 
@@ -375,7 +375,7 @@ Ils suandants dretgs da las ovras d’archiv d’interpresas d’emissiun tenor 
 <sup>3</sup> Sch’igl è vegnida fatga ina cunvegna contractuala avant l’emprima emissiun u entaifer 10 onns suenter quella davart ils dretgs tenor l’alinea 1 e davart lur bunificaziun, valan exclusivamain las disposiziuns da la cunvegna contractuala. Per ils dretgs da las interpresas d’emissiun tenor l’artitgel 37 na vegn l’alinea 1 betg applitgà. Las interpresas d’emissiun ed ils terzs cun dretg èn – sin dumonda – obligads d’infurmar las societads da gestiun davart las cunvegnas contractualas.
 
 [^22a-1]: Integrà tras la cifra I da la LF dals 5 d’oct. 2007, en vigur dapi il 1. da fan. 2008 ([AS 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
-[^22a-2]: [SR 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^22a-2]: [SR 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 
 #### Art. 22b
 
@@ -458,7 +458,7 @@ La reproducziun ad interim d’ina ovra è admissibla, sch’ella:
 <sup>2</sup> Reproducziuns producidas tenor l’alinea 1 na dastgan ni vegnir vendidas ni vegnir derasadas autramain; ellas ston vegnir producidas da l’interpresa d’emissiun cun agens meds finanzials. Ellas ston puspè vegnir stizzadas, cur ch’ellas han ademplì lur intent. L’artitgel 11 resta resalvà.
 
 [^24b-1]: Integrà tras la cifra I da la LF dals 5 d’oct. 2007, en vigur dapi il 1. da fan. 2008 ([AS 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
-[^24b-2]: [SR 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^24b-2]: [SR 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 
 #### Art. 24c
 
@@ -577,7 +577,7 @@ La protecziun s’extingua:
 <sup>4</sup> Per reproducziuns fotograficas e per reproducziuns d’objects traidimensiunals producidas cun ina procedura sumeglianta a la fotografia n’èn ils artitgels 30 e 31 betg applitgabels, sche las reproducziuns n’han betg in caracter individual.[^29-3]
 
 [^29-1]: Integrà tras la cifra I da la LF dals 27 da sett. 2019, en vigur dapi il 1. d’avr. 2020 ([AS 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [BBl 2018 591](https://fedlex.data.admin.ch/eli/fga/2018/184)).
-[^29-2]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 58 al. 1 LParl; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^29-2]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 58 al. 1 LParl; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 [^29-3]: Integrà tras la cifra I da la LF dals 27 da sett. 2019, en vigur dapi il 1. d’avr. 2020 ([AS 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [BBl 2018 591](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 
 #### Art. 30
@@ -595,9 +595,9 @@ Sche pliras persunas han contribuì a la creaziun d’ina ovra (art. 7), s’ext
 
 <sup>3</sup> En cas da films e d’autras ovras audiovisualas vegn prendì en consideraziun mo il reschissur per calcular la durada da la protecziun.
 
-[^30-1]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 58 al. 1 LParl; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^30-2]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 58 al. 1 LParl; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^30-3]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 58 al. 1 LParl; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^30-1]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 58 al. 1 LParl; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^30-2]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 58 al. 1 LParl; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^30-3]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 58 al. 1 LParl; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 31
 
@@ -612,9 +612,9 @@ Sch’i vegn generalmain enconuschent avant la scadenza da quest termin da prote
 - a. per programs da computer 50 onns suenter sia mort[^31-2];
 - b. per tut las autras ovras 70 onns suenter sia mort[^31-3].
 
-[^31-1]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 58 al. 1 LParl; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^31-2]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 58 al. 1 LParl; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^31-3]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 58 al. 1 LParl; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^31-1]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 58 al. 1 LParl; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^31-2]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 58 al. 1 LParl; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^31-3]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 58 al. 1 LParl; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 32
 
@@ -654,7 +654,7 @@ Ils artists interpretants han il dretg exclusiv:[^33-2]
 <sup>2</sup> La protecziun dals artists interpretants cunter pregiudicaziuns da lur preschentaziuns sa drizza tenor ils artitgels 28–28*l* dal Cudesch civil svizzer[^33a-2].
 
 [^33a-1]: Integrà tras l’art. 2 dal COF dals 5 d’oct. 2007, en vigur dapi il 1. da fan. 2008 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
-[^33a-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^33a-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 34
 
@@ -1034,7 +1034,7 @@ Il IPI surveglia las societads da gestiun.
 
 <sup>3</sup> La Cumissiun arbitradra n’accepta naginas directivas per prender sias decisiuns; il persunal dal secretariat da la cumissiun è suttamess per questa activitad al president da la cumissiun.
 
-[^55-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^55-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 56
 
@@ -1122,7 +1122,7 @@ Tgi che vegn violà u periclità en ses dretg d’autur u en ses dretg da protec
 
 [^62-1]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 22 da zer. 2007, en vigur dapi il 1. da fan. 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^62-2]: Integrà tras l’art. 2 dal COF dals 5 d’oct. 2007 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)). Versiun tenor la cifra I da la LF dals 27 da sett. 2019, en vigur dapi il 1. d’avr. 2020 ([AS 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [BBl 2018 591](https://fedlex.data.admin.ch/eli/fga/2018/184)).
-[^62-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^62-3]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^62-4]: Integrà tras la cifra 1 da l’agiunta da la LF dals 22 da zer. 2007, en vigur dapi il 1. da fan. 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 63
@@ -1277,7 +1277,7 @@ Tgi che fa valair senza la permissiun necessaria (art. 41) dretgs d’autur u dr
 
 Per cuntravenziuns commessas en interpresas, tras incumbensads e tras sumegliants èn applitgabels ils artitgels 6 e 7 da la Lescha federala dals 22 da mars 1974[^71-1] davart il dretg penal administrativ.
 
-[^71-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^71-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 72
 
@@ -1286,7 +1286,7 @@ Per cuntravenziuns commessas en interpresas, tras incumbensads e tras sumegliant
 Ovras architectonicas gia realisadas na pon betg vegnir confiscadas tenor l’artitgel 69 dal Cudesch penal svizzer[^72-2].
 
 [^72-1]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 22 da zer. 2007, en vigur dapi il 1. da fan. 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^72-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^72-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 73
 
@@ -1296,7 +1296,7 @@ Ovras architectonicas gia realisadas na pon betg vegnir confiscadas tenor l’ar
 
 <sup>2</sup> Cuntravenziuns tenor l’artitgel 70 vegnan persequitadas e giuditgadas dal IPI tenor la Lescha federala dals 22 da mars 1974[^73-1] davart il dretg penal administrativ.
 
-[^73-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^73-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### 3. chapitel Recurs tar il Tribunal administrativ federal
 
@@ -1317,65 +1317,84 @@ La procedura da recurs davant il Tribunal administrativ federal sa drizza tenor 
 - c. per inoltrar ina consultaziun fixescha il Tribunal administrativ federal in termin da maximalmain 30 dis; quest termin na po betg vegnir prolungà;
 - d. in’ulteriura correspundenza tenor l’artitgel 57 alinea 2 LFPA n’ha per regla betg lieu.[^74-3]
 
-[^74-1]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
-[^74-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^74-1]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+[^74-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^74-3]: Versiun tenor la cifra I da la LF dals 27 da sett. 2019, en vigur dapi il 1. d’avr. 2020 ([AS 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [BBl 2018 591](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 
-### 4. chapitel Agid da l’Uffizi federal da la duana e da la segirezza dals cunfins
+### 4. chapitel Agid tar l’apport da raubas en il territori da duana u or dal territori da duana
 
 [^tit5-chap4-1]
 
-[^tit5-chap4-1]: Versiun tenor la cifra I 1 da l’O dals 12 da zer. 2020 davart l’adattaziun da leschas en consequenza da la midada da la designaziun da l’Administraziun federala da duana en il rom da ses ulteriur svilup, en vigur dapi il 1. da schan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^tit5-chap4-1]: Versiun tenor la cifra I 2 da la LF dals 22 da dec. 2023 davart l’introducziun d’ina procedura simplifitgada per la destrucziun da spediziuns pitschnas en il dretg dals bains immaterials, en vigur dapi il 1. da fan. 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 75
 
-**Denunzia da rauba suspectusa**[^75-1]
+**Denunzia da raubas suspectusas**[^75-1]
 
-<sup>1</sup> L’Uffizi federal da la duana e da la segirezza dals cunfins (UDSC) è autorisà d’infurmar ils titulars dals dretgs d’autur u dals dretgs da protecziun parents sco er las societads da gestiun admessas, sch’igl exista in suspect d’in import, export u transit imminent da rauba, da la quala la derasaziun cuntrafa a la legislaziun ch’è en vigur en Svizra davart il dretg d’autur u davart ils dretgs da protecziun parents.[^75-2]
+<sup>1</sup> L’Uffizi federal da la duana e da la segirezza dals cunfins (UDSC) è autorisà d’infurmar ils titulars dals dretgs d’autur u dals dretgs da protecziun parents sco er las societads da gestiun admessas, sch’i vegn suspectà ch’i dettia proximamain in apport d’ina rauba en il territori da duana u or dal territori da duana e sche la derasaziun da questa rauba cuntrafa a la legislaziun ch’è en vigur en Svizra davart il dretg d’autur u davart ils dretgs da protecziun parents.
 
-<sup>2</sup> En quest cas è il UDSC[^75-3] autorisà da retegnair la rauba durant 3 dis da lavur, per che las persunas autorisadas possian far ina dumonda tenor l’artitgel 76 alinea 1.
+<sup>2</sup> En quest cas è el autorisà da retegnair la rauba durant 3 dis da lavur, per che las persunas autorisadas possian far ina dumonda tenor l’artitgel 76.
 
-[^75-1]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 22 da zer. 2007, en vigur dapi il 1. da fan. 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^75-2]: Versiun tenor la cifra I 1 da l’O dals 12 da zer. 2020 davart l’adattaziun da leschas en consequenza da la midada da la designaziun da l’Administraziun federala da duana en il rom da ses ulteriur svilup, en vigur dapi il 1. da schan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^75-3]: Expressiun tenor la cifra I 1 da l’O dals 12 da zer. 2020 davart l’adattaziun da leschas en consequenza da la midada da la designaziun da l’Administraziun federala da duana en il rom da ses ulteriur svilup, en vigur dapi il 1. da schan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Questa midada è vegnida resguardada en l’entir decret.
+[^75-1]: Versiun tenor la cifra I 2 da la LF dals 22 da dec. 2023 davart l’introducziun d’ina procedura simplifitgada per la destrucziun da spediziuns pitschnas en il dretg dals bains immaterials, en vigur dapi il 1. da fan. 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 76
 
-**Dumonda d’agid**
+**Dumonda d’agid**[^76-1]
 
-<sup>1</sup> Sche titulars da dretgs d’autur u da dretgs da protecziun parents respectivamain titulars da licenzas cun dretg da purtar plant u ina societad da gestiun admessa han indizis concrets per in apport imminent da rauba, da la quala la derasaziun cuntrafa a la legislaziun ch’è en vigur en Svizra davart il dretg d’autur u davart ils dretgs da protecziun parents, en il territori da duana svizzer u or dal territori da duana svizzer, pon els pretender en scrit tar il UDSC da refusar da dar liber la rauba.[^76-1]
+<sup>1</sup> Sche titulars da dretgs d’autur u da dretgs da protecziun parents respectivamain titulars da licenzas cun dretg da purtar plant u ina societad da gestiun admessa han indizis concrets, ch’i dettia proximamain in apport d’ina rauba en il territori da duana u or dal territori da duana e sche la derasaziun da questa rauba cuntrafa a la legislaziun ch’è en vigur en Svizra davart il dretg d’autur u davart ils dretgs da protecziun parents, pon els pretender en scrit dal UDSC ch’el refusia da dar liber la rauba.
 
-<sup>2</sup> Ils petents ston furnir al UDSC tut las indicaziuns utilas e disponiblas che quel dovra per pudair decider davart la dumonda. Els al surdattan en spezial ina descripziun exacta da la rauba.
+<sup>2</sup>
 
-<sup>3</sup> Il UDSC decida definitivamain davart la dumonda. El po incassar ina taxa per cuvrir ils custs administrativs.[^76-2]
+A medem temp pon ils petents pretender en scrit, che la rauba vegnia destruida:
 
-[^76-1]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 21 da zer. 2013, en vigur dapi il 1. da schan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^76-2]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 22 da zer. 2007, en vigur dapi il 1. da fan. 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+- a. en la procedura ordinaria (art. 77*c*–77*h*); u
+- b. en la procedura simplifitgada (art. 77*h*<sup>bis</sup>), sch’i sa tracta d’ina spediziun pitschna.
+
+<sup>3</sup> En la dumonda tenor l’alinea 2 pon els pretender che la rauba vegnia surdada ad els, per ch’els possian destruir sezs la rauba.
+
+<sup>4</sup> La dumonda tenor l’alinea 2 litera a na chaschuna betg ina prolungaziun dals termins tenor l’artitgel 77 alineas 3 e 4 per effectuar mesiras preventivas.
+
+<sup>5</sup> Il Cussegl federal fixescha, tge che vala sco spediziun pitschna; en quest connex resguarda el en spezial il dumber d’unitads ch’èn cuntegnidas en ina spediziun.
+
+<sup>6</sup> Ils petents ston furnir tut las indicaziuns ch’els han a disposiziun e ch’il UDSC dovra per pudair decider davart la dumonda, particularmain ina descripziun exacta da la rauba.
+
+<sup>7</sup> Il UDSC decida definitivamain davart la dumonda. El po incassar ina taxa per cuvrir ils custs administrativs.
+
+[^76-1]: Versiun tenor la cifra I 2 da la LF dals 22 da dec. 2023 davart l’introducziun d’ina procedura simplifitgada per la destrucziun da spediziuns pitschnas en il dretg dals bains immaterials, en vigur dapi il 1. da fan. 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 77
 
-**Retenziun da rauba**[^77-1]
+**Retenziun da raubas**[^77-1]
 
-<sup>1</sup> Sch’il UDSC ha – sin basa d’ina dumonda tenor l’artitgel 76 alinea 1 – in suspect motivà che l’apport da rauba en il territori da duana svizzer u or dal territori da duana svizzer cuntrafetschia a la legislaziun ch’è en vigur en Svizra davart il dretg d’autur u davart ils dretgs da protecziun parents, communitgescha el quai d’ina vart al petent e da l’autra vart al declerant, al possessur u al proprietari da la rauba.[^77-2]
+<sup>1</sup>
 
-<sup>2</sup> Il UDSC retegna la rauba fin maximalmain 10 dis da lavur a partir dal mument da la communicaziun tenor l’alinea 1, per ch’il petent possia effectuar mesiras preventivas.
+Sch’il UDSC suspecta – sin basa d’ina dumonda d’agid tenor l’artitgel 76 alinea 1 – che l’apport da la rauba en il territori da duana u or dal territori da duana cuntrafetschia a la legislaziun ch’è en vigur en Svizra davart il dretg d’autur u davart ils dretgs da protecziun parents, lura:
 
-<sup>3</sup> En cas motivads po el retegnair la rauba durant maximalmain 10 ulteriurs dis da lavur.
+- a. retegna el la rauba; e
+- b. communitgescha quai d’ina vart al petent e da l’autra vart al declerant, al possessur u al proprietari da la rauba.
 
-[^77-1]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 22 da zer. 2007, en vigur dapi il 1. da fan. 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^77-2]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 21 da zer. 2013, en vigur dapi il 1. da schan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+<sup>2</sup> Sch’ina dumonda da destruir spediziuns pitschnas (art. 76 al. 2 lit. b) è vegnida inoltrada ensemen cun la dumonda d’agid tenor l’artitgel 76 alinea 1, sa drizza la procedura unicamain tenor l’artitgel 77*h*<sup>bis</sup>.
+
+<sup>3</sup> Il UDSC retegna la rauba durant maximalmain 10 dis da lavur suenter ch’il petent ha survegnì la communicaziun tenor l’alinea 1 litera b, per che quel possia effectuar mesiras preventivas.
+
+<sup>4</sup> En cas motivads po el retegnair la rauba durant maximalmain 10 ulteriurs dis da lavur.
+
+<sup>5</sup> En cas d’ina spediziun pitschna po el surdar al IPI la cumpetenza per la communicaziun tenor l’alinea 1 litera b e per ils ulteriurs pass da la procedura.
+
+[^77-1]: Versiun tenor la cifra I 2 da la LF dals 22 da dec. 2023 davart l’introducziun d’ina procedura simplifitgada per la destrucziun da spediziuns pitschnas en il dretg dals bains immaterials, en vigur dapi il 1. da fan. 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 77a
 
 **Emprovas u musters**[^77a-1]
 
-<sup>1</sup> Durant che la rauba vegn retegnida, è il UDSC autorisà da surdar u da trametter al petent sin dumonda emprovas u musters per l’examinaziun u d’al permetter d’inspectar la rauba retegnida.
+<sup>1</sup> Durant che la rauba vegn retegnida, è il UDSC[^77a-2] autorisà da surdar u da trametter al petent sin dumonda emprovas u musters per l’examinaziun u d’al permetter d’inspectar la rauba retegnida.
 
 <sup>2</sup> Las emprovas u ils musters vegnan prelevads e tramess sin donn e cust dal petent.
 
 <sup>3</sup> Suenter che l’examinaziun è fatga, ston las emprovas u ils musters vegnir restituids, sche quai è raschunaivel. Sche las emprovas u ils musters restan tar il petent, èn els suttamess a las disposiziuns da la legislaziun da duana.
 
 [^77a-1]: Integrà tras la cifra 1 da l’agiunta da la LF dals 22 da zer. 2007, en vigur dapi il 1. da fan. 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^77a-2]: Expressiun tenor la cifra I 1 da l’O dals 12 da zer. 2020 davart l’adattaziun da leschas en consequenza da la midada da la designaziun da l’Administraziun federala da duana en il rom da ses ulteriur svilup, en vigur dapi il 1. da schan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Questa midada è vegnida resguardada en l’entir decret.
 
 #### Art. 77b
 
@@ -1391,15 +1410,18 @@ La procedura da recurs davant il Tribunal administrativ federal sa drizza tenor 
 
 #### Art. 77c
 
-**Dumonda da destruir la rauba**[^77c-1]
+**Communicaziun davart la dumonda da destruir ina rauba[^77c-2]**[^77c-1]
 
-<sup>1</sup> Ensemen cun la dumonda tenor l’artitgel 76 alinea 1 po il petent pretender en scrit ch’il UDSC destrueschia la rauba.
+<sup>1</sup> …[^77c-3]
 
 <sup>2</sup> Sch’i vegn fatga ina dumonda da destruir la rauba, communitgescha il UDSC quai al declerant, al possessur u al proprietari da la rauba en il rom da la communicaziun tenor l’artitgel 77 alinea 1.
 
-<sup>3</sup> La dumonda da destruir la rauba na chaschuna betg ina prolungaziun dals termins tenor l’artitgel 77 alineas 2 e 3 per effectuar mesiras preventivas.
+<sup>3</sup> ...[^77c-4]
 
 [^77c-1]: Integrà tras la cifra 1 da l’agiunta da la LF dals 22 da zer. 2007, en vigur dapi il 1. da fan. 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^77c-2]: Versiun tenor la cifra I 2 da la LF dals 22 da dec. 2023 davart l’introducziun d’ina procedura simplifitgada per la destrucziun da spediziuns pitschnas en il dretg dals bains immaterials, en vigur dapi il 1. da fan. 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^77c-3]: Abolì tras la cifra I 2 da la LF dals 22 da dec. 2023 davart l’introducziun d’ina procedura simplifitgada per la destrucziun da spediziuns pitschnas en il dretg dals bains immaterials, cun effect dapi il 1. da fan. 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^77c-4]: Abolì tras la cifra I 2 da la LF dals 22 da dec. 2023 davart l’introducziun d’ina procedura simplifitgada per la destrucziun da spediziuns pitschnas en il dretg dals bains immaterials, cun effect dapi il 1. da fan. 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 77d
 
@@ -1448,6 +1470,29 @@ Avant che destruir la rauba preleva il UDSC emprovas u musters e tegna en salv q
 <sup>2</sup> Il petent sto remplazzar il donn ch’è resultà cun retegnair la rauba e cun prelevar emprovas u musters, sche mesiras preventivas na vegnan betg ordinadas u sa mussan sco nunmotivadas.
 
 [^77h-1]: Integrà tras la cifra 1 da l’agiunta da la LF dals 22 da zer. 2007, en vigur dapi il 1. da fan. 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+
+#### Art. 77h<sup>bis</sup>
+
+**Procedura simplifitgada per destruir spediziuns pitschnas**[^77hbis-1]
+
+<sup>1</sup>
+
+Il UDSC retegna ina rauba, sch’i sa tracta d’ina spediziun pitschna e:
+
+- a. sch’el suspecta – sin basa d’ina dumonda d’agid tenor l’artitgel 76 alinea 1 – che l’apport da la rauba en il territori da duana u or dal territori da duana cuntrafetschia a la legislaziun ch’è en vigur en Svizra davart il dretg d’autur u davart ils dretgs da protecziun parents; e
+- b. sch’igl è vegnida inoltrada ina dumonda da destruir spediziuns pitschnas (art. 76 al. 2 lit. b).
+
+<sup>2</sup> El po surdar al IPI la cumpetenza per realisar ils ulteriurs pass da la procedura.
+
+<sup>3</sup> L’autoritad cumpetenta infurmescha il declerant, il possessur u il proprietari da la rauba davart il suspect e davart la rauba retegnida ed al renda attent, che la rauba vegnia destruida, sch’el na refusia betg explicitamain la destrucziun entaifer 10 dis da lavur suenter ch’el ha survegnì questa infurmaziun.
+
+<sup>4</sup> Sch’il declerant, il possessur u il proprietari refusa explicitamain la destrucziun entaifer il termin tenor l’alinea 3, communitgescha l’autoritad cumpetenta quai al petent. L’ulteriura procedura sa drizza analogamain tenor ils artitgels 77 alineas 3 e 4, 77*a*, 77*b* e 77*h*.
+
+<sup>5</sup> Sch’il declerant, il possessur u il proprietari accepta la destrucziun u sch’el na prenda betg posiziun entaifer il termin tenor l’alinea 3, destruescha l’autoritad cumpetenta la rauba sin donn e cust dal petent il pli baud 3 mais suenter l’infurmaziun tenor l’alinea 3, u surdat la rauba al petent per la destrucziun, sch’el ha pretendì quai tenor l’artitgel 76 alinea 3. Pretensiuns d’indemnisaziun dal petent envers il declerant, il possessur u il proprietari èn exclusas.
+
+<sup>6</sup> L’autoritad cumpetenta infurmescha il petent davart la quantitad e davart il gener da las raubas destruidas tenor l’alinea 5, sco er davart ils spediturs da questas raubas en Svizra u a l’exteriur.
+
+[^77hbis-1]: Integrà tras la cifra I 2 da la LF dals 22 da dec. 2023 davart l’introducziun d’ina procedura simplifitgada per la destrucziun da spediziuns pitschnas en il dretg dals bains immaterials, en vigur dapi il 1. da fan. 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 ## 5*a*. titel Elavuraziun da datas persunalas cun l’intent da purtar in plant penal u da far ina denunzia penala
 

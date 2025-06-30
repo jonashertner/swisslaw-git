@@ -4,11 +4,11 @@ title: "Federal Act of 9 October 1992 on Copyright and Related Rights (Copyright
 short: CopA
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798"
 language: en
-version: 2023-07-01
+version: 2025-07-01
 adopted: 1992-10-09
 in_force: 1993-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798/20230701/en/xml/fedlex-data-admin-ch-eli-cc-1993-1798_1798_1798-20230701-en-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/20230701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798/20250701/en/xml/fedlex-data-admin-ch-eli-cc-1993-1798_1798_1798-20250701-en-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/20250701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Copyright Act, CopA)
 
-of 9 October 1992 (Status as of 1 July 2023)
+of 9 October 1992 (Status as of 1 July 2025)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -27,7 +27,7 @@ on the basis of Articles 95 and 122 of the Federal Constitution[^ingress-1],[^in
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Amended by Annex No 3 of the FA of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 [^ingress-3]: [BBl 1989 III 477](https://fedlex.data.admin.ch/eli/fga/1989/3_477_465_413)
 
@@ -240,8 +240,8 @@ No remuneration is owed if:
   the audio-visual work is one of the following:
 
   - 1\. company profile films, industrial films, advertising or promotional films, computer games, services or commissioned works by broadcasting organisations or other works in the field of journalism that are created under an employment contract or that are commissioned,
-  - 2\. archived works of broadcasting organisations (Art. 22*a*),
-  - 3\. orphan works (Art. 22*b*).
+  - 2\. archived works of broadcasting organisations (Art. 22a),
+  - 3\. orphan works (Art. 22b).
 
 <sup>3</sup> The right to remuneration is inalienable and unwaivable and only the authors are entitled to claim it; it substitutes any remuneration for the contractually agreed use of the audio-visual work. It may only be asserted by the approved collective rights management organisations.
 
@@ -375,7 +375,7 @@ The following rights to archived works of broadcasting organisations’ under th
 <sup>3</sup> To the extent that the rights under paragraph 1 and their remuneration are regulated in a contract prior to the first broadcast or within ten years thereafter, the contractual provisions apply exclusively. Paragraph 1 does not apply to the broadcasting organisations' rights under Article 37. The broadcasting organisations and the third parties involved must provide information regarding the contractual agreement to the collective rights management organisation upon request.
 
 [^22a-1]: Inserted by No 1 of the FA of 5 Oct. 2007, in force since 1 July 2008 ([AS 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
-[^22a-2]: [SR 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^22a-2]: [SR 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 
 #### Art. 22b
 
@@ -458,7 +458,7 @@ The making of temporary copies of a work is permitted if:
 <sup>2</sup> Copies produced in accordance with paragraph 1 may neither be transferred nor otherwise distributed; they must be produced by the broadcasting organisation by means of their own facilities. They must be destroyed after they have fulfilled their purpose. Article 11 remains reserved.
 
 [^24b-1]: Inserted by No 1 of the FA of 5 Oct. 2007, in force since 1 July 2008 ([AS 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
-[^24b-2]: [SR 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^24b-2]: [SR 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 
 #### Art. 24c
 
@@ -569,7 +569,7 @@ A work forming part of a collection accessible to the public may be reproduced i
 Protection expires:
 
 - a. in the case of computer programs, 50 years after the death of the author;
-- [tab] a<sup>bis</sup>.[^29-1] 50 years after production for photographic depictions and depictions of three-dimensional objects produced by a process similar to that of photography if the depictions do not have individual character;
+- a<sup>bis</sup>.[^29-1] 50 years after production for photographic depictions and depictions of three-dimensional objects produced by a process similar to that of photography if the depictions do not have individual character;
 - b. in the case of all other works, 70 years after the death of the author.
 
 <sup>3</sup> Where it is has to be assumed that the author has been dead for more than 50 or 70 years[^29-2] respectively, protection no longer applies.
@@ -577,7 +577,7 @@ Protection expires:
 <sup>4</sup> Articles 30 and 31 do not apply to photographic depictions and depictions of three-dimensional objects produced by a process similar to that of photography if the depictions do not have individual character.[^29-3]
 
 [^29-1]: Inserted by No I of the FA of 27 Sept. 2019, in force since 1 April 2020 ([AS 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [BBl 2018 591](https://fedlex.data.admin.ch/eli/fga/2018/184)).
-[^29-2]: Revised by the Federal Assembly Drafting Committee (Art. 58 para. 1 ParlA; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)**)**.
+[^29-2]: Revised by the Federal Assembly Drafting Committee (Art. 58 para. 1 ParlA; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)**)**.
 [^29-3]: Inserted by No I of the FA of 27 Sept. 2019, in force since 1 April 2020 ([AS 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [BBl 2018 591](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 
 #### Art. 30
@@ -595,9 +595,9 @@ Where two or more persons have participated in the creation of a work (Art. 7), 
 
 <sup>3</sup> In the case of films and other audio-visual works, the calculation of the term of protection is based solely on the date of the death of the director.
 
-[^30-1]: Revised by the Federal Assembly Drafting Committee (Art. 58 para. 1 ParlA; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)**)**.
-[^30-2]: Revised by the Federal Assembly Drafting Committee (Art. 58 para. 1 ParlA; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)**)**.
-[^30-3]: Revised by the Federal Assembly Drafting Committee (Art. 58 para. 1 ParlA; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)**)**.
+[^30-1]: Revised by the Federal Assembly Drafting Committee (Art. 58 para. 1 ParlA; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)**)**.
+[^30-2]: Revised by the Federal Assembly Drafting Committee (Art. 58 para. 1 ParlA; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)**)**.
+[^30-3]: Revised by the Federal Assembly Drafting Committee (Art. 58 para. 1 ParlA; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)**)**.
 
 #### Art. 31
 
@@ -612,9 +612,9 @@ If the identity of the person[^31-1] who has created the work becomes publicly k
 - a. in the case of computer programs, 50 years after the death of the author[^31-2];
 - b. in the case of all other works, 70 years after the death of the author[^31-3].
 
-[^31-1]: Revised by the Federal Assembly Drafting Committee (Art. 58 para. 1 ParlA; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)**)**.
-[^31-2]: Revised by the Federal Assembly Drafting Committee (Art. 58 para. 1 ParlA; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)**)**.
-[^31-3]: Revised by the Federal Assembly Drafting Committee (Art. 58 para. 1 ParlA; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)**)**.
+[^31-1]: Revised by the Federal Assembly Drafting Committee (Art. 58 para. 1 ParlA; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)**)**.
+[^31-2]: Revised by the Federal Assembly Drafting Committee (Art. 58 para. 1 ParlA; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)**)**.
+[^31-3]: Revised by the Federal Assembly Drafting Committee (Art. 58 para. 1 ParlA; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)**)**.
 
 #### Art. 32
 
@@ -654,7 +654,7 @@ Performers have the following exclusive right in respect of their performance or
 <sup>2</sup> The protection of performers from derogatory treatment of their performances is subject to Articles 28–28*l* of the Swiss Civil Code[^33a-2].
 
 [^33a-1]: Inserted by Art. 2 of the FD of 5 Oct. 2007, in force since 1 July 2008 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
-[^33a-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^33a-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 34
 
@@ -1034,7 +1034,7 @@ The IPI supervises the collective rights management organisations.
 
 <sup>3</sup> The Arbitration Commission accepts no directives in taking its decisions; the staff of the Secretariat of the Commission are answerable for such activity to the Chairman of the Commission.
 
-[^55-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^55-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 56
 
@@ -1122,7 +1122,7 @@ Any person whose copyright or related right is infringed or threatened may reque
 
 [^62-1]: Amended by Annex No I of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^62-2]: Inserted by Art. 2 of the FD of 5 Oct. 2007 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)). Amended by No I of the FA of 27 Sept. 2019, in force since 1 April 2020 ([AS 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [BBl 2018 591](https://fedlex.data.admin.ch/eli/fga/2018/184)).
-[^62-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^62-3]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^62-4]: Inserted by Annex No I of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 63
@@ -1145,15 +1145,14 @@ Any person whose copyright or related right is infringed or threatened may reque
 
 **Preliminary measures**[^65-1]
 
-<sup>1</sup> Any person requesting preliminary measures may, in particular, request that the court orders measures to:
+<sup>1</sup>
 
-secure evidence;
+Any person requesting preliminary measures may, in particular, request that the court orders measures to:
 
-establish the origin of items unlawfully manufactured or placed on the market;
-
-preserve the existing state of affairs; or
-
-provisionally enforce claims for injunctive relief and remedy infringement.
+- a. secure evidence;
+- b. establish the origin of items unlawfully manufactured or placed on the market;
+- c. preserve the existing state of affairs; or
+- d. provisionally enforce claims for injunctive relief and remedy infringement.
 
 [^65-1]: Amended by Annex I No II 9 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
@@ -1280,7 +1279,7 @@ Any person who, without the required authorisation (Art. 41), asserts copyright 
 
 Articles 6 and 7 of the Federal Act of 22 March 1974[^71-1] on Administrative Criminal Law apply to offences committed in business activities by agents or similar persons.
 
-[^71-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^71-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 72
 
@@ -1289,7 +1288,7 @@ Articles 6 and 7 of the Federal Act of 22 March 1974[^71-1] on Administrative Cr
 Works of architecture that have been constructed may not be forfeited under Article 69 of the Swiss Criminal Code[^72-2].
 
 [^72-1]: Amended by Annex No I of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^72-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^72-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 73
 
@@ -1299,7 +1298,7 @@ Works of architecture that have been constructed may not be forfeited under Arti
 
 <sup>2</sup> Offences under Article 70 are prosecuted and judged by the IPI in accordance with the Federal Act of 22 March 1974[^73-1] on Administrative Criminal Law.
 
-[^73-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^73-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### Chapter 3 Appeals to the Federal Administrative Court
 
@@ -1320,65 +1319,84 @@ The procedure for appeals before the Federal Administrative Court is subject to 
 - c. For filing a response, the Federal Administrative Court sets a time limit of a maximum 30 days, which cannot be extended.
 - d. An exchange of written submissions under Article 57 paragraph 2 APA generally does not take place.[^74-3]
 
-[^74-1]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
-[^74-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^74-1]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+[^74-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^74-3]: Amended by No I of the FA of 27 Sept. 2019, in force since 1 April 2020 ([AS 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [BBl 2018 591](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 
-### Chapter 4 Assistance provided by the Federal Office for Customs and Border Security
+### Chapter 4 Assistance in connection with Goods being brought into or taken out of the Customs Territory
 
 [^tit5-chap4-1]
 
-[^tit5-chap4-1]: Amended by No I 1 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change to the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^tit5-chap4-1]: Amended by No 1 2 of the FA of 22 Dec. 2023 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, in force since 1 July 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 75
 
 **Notification of suspicious goods**[^75-1]
 
-<sup>1</sup> The Federal Office for Customs and Border Security (FOCBS) is authorised to notify the owners of copyright or related rights as well as the authorised collective rights management organisations if there is any suspicion that goods the distribution of which would violate legislation applicable in Switzerland on copyright or related rights may be imported, exported or carried in transit.[^75-2]
+<sup>1</sup> The Federal Office for Customs and Border Security (FOCBS) is authorised to notify the owners of copyright or related rights and the authorised collective rights management organisations if there is any suspicion that goods are about to be brought into or taken out of the customs territory whose distribution would violate legislation applicable in Switzerland on copyright and related rights.
 
-<sup>2</sup> In such cases, the FOCBS[^75-3] is authorised to withhold the goods for three working days in order that the persons entitled may file an application in accordance with Article 76 paragraph 1.
+<sup>2</sup> In such cases, the FOCBS is authorised to withhold the goods for three working days in order that the persons entitled may file an application in accordance with Article 76.
 
-[^75-1]: Amended by Annex No I of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^75-2]: Amended by No I 1 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change to the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^75-3]: Name in accordance with No I 1 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change to the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). This change has been made throughout the text.
+[^75-1]: Amended by No 1 2 of the FA of 22 Dec. 2023 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, in force since 1 July 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 76
 
-**Application for assistance**
+**Application for assistance**[^76-1]
 
-<sup>1</sup> If owners or licensees of copyright or related rights entitled to institute proceedings or an authorised collective rights management organisation have clear indications that goods the distribution of which would violate legislation applicable in Switzerland on copyright or related rights may imminently be brought into or taken out of Swiss customs territory, they may request the FOCBS in writing to refuse the release of the goods.[^76-1]
+<sup>1</sup> If owners or licensees of copyright or related rights that are entitled to institute proceedings or authorised collective rights management organisations have clear indications that goods are about to be brought into or taken out of the customs territory whose distribution would violate legislation applicable in Switzerland on copyright or related rights, they may request the FOCBS in writing to refuse the release of the goods.
 
-<sup>2</sup> The applicants must provide all the relevant information available to them that is required by the FOCBS in order to decide on the application. In particular, they shall provide a precise description of the goods.
+<sup>2</sup>
 
-<sup>3</sup> The FOCBS makes the final decision on the application. It may charge a fee to cover the administrative costs.[^76-2]
+Applicants may at the same time apply in writing for the goods to be destroyed:
 
-[^76-1]: Amended by Annex No 3 of the FA of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^76-2]: Amended by Annex No I of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+- a. in accordance with the ordinary procedure (Art. 77*c*–77*h*); or
+- b. in accordance with the simplified procedure (Art. 77*h*<sup>bis</sup>) if the consignment is small.
+
+<sup>3</sup> In the application in accordance with paragraph 2, they may request that the goods be handed over to them so that they can destroy them themselves.
+
+<sup>4</sup> The application in accordance with paragraph 2 letter a must not result in the time limits for obtaining preliminary measures in accordance with Article 77 paragraphs 3 and 4 being extended.
+
+<sup>5</sup> The Federal Council shall determine what constitutes a small consignment, taking into account in particular the number of units contained in a consignment.
+
+<sup>6</sup> Applicants shall provide all the information available to them that the FOCBS requires in order to be able to decide on the application; this shall include a precise description of the goods.
+
+<sup>7</sup> The FOCBS makes the final decision on the application. It may charge a fee to cover the administrative costs.
+
+[^76-1]: Amended by No 1 2 of the FA of 22 Dec. 2023 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, in force since 1 July 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 77
 
-**Withholding of goods**[^77-1]
+**Detention of goods**[^77-1]
 
-<sup>1</sup> If the FOCBS, as a result of an application under Article 76 paragraph 1, has grounds to suspect that certain goods that violate legislation applicable in Switzerland on copyright or related rights may be brought into or taken out of Swiss customs territory, then it shall notify the applicant and the declarant, holder or owner of the goods accordingly.[^77-2]
+<sup>1</sup>
 
-<sup>2</sup> The FOCBS shall withhold the goods for a maximum of ten working days from the time of notification pursuant to paragraph 1 so that the applicant may obtain preliminary measures.
+If, as a result of an application for assistance in accordance with Article 76 paragraph 1, the FOCBS has grounds to suspect that transporting the goods into or out of the customs territory may violate the legislation on copyright and related rights applicable in Switzerland, it shall:
 
-<sup>3</sup> Where justified by the circumstances, it may withhold the goods for a maximum of ten additional working days.
+- a. detain the goods; and
+- b. notify the applicant and the declarant, holder or owner of the goods.
 
-[^77-1]: Amended by Annex No I of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^77-2]: Amended by Annex No 3 of the FA of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+<sup>2</sup> If an application for the destruction of small consignments (Art. 76 para. 2 let. b) was submitted with the application for assistance in accordance with Article 76 paragraph 1, the procedure shall be governed exclusively by Article 77*h*<sup>bis</sup>.
+
+<sup>3</sup> The FOCBS shall detain the goods for a maximum of ten working days from the date on which the applicant received the notification in accordance with paragraph 1 letter b so that the applicant may obtain preliminary measures.
+
+<sup>4</sup> Where justified by the circumstances, it may detain the goods for a maximum of ten additional working days.
+
+<sup>5</sup> If the consignment is small, the FOCBS may transfer responsibility for the notification in accordance with paragraph 1 letter b and the further procedural steps to the IPI.
+
+[^77-1]: Amended by No 1 2 of the FA of 22 Dec. 2023 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, in force since 1 July 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 77a
 
 **Samples**[^77a-1]
 
-<sup>1</sup> While the goods are being withheld, the FOCBS is authorised to hand over or deliver to the applicant, on request, samples for examination or to permit the applicant to inspect the goods being withheld.
+<sup>1</sup> While the goods are being withheld, the FOCBS[^77a-2] is authorised to hand over or deliver to the applicant, on request, samples for examination or to permit the applicant to inspect the goods being withheld.
 
 <sup>2</sup> The samples are collected and delivered at the expense of the applicant.
 
 <sup>3</sup> They must be returned after the examination has been carried out, if this is reasonable. If samples are retained by the applicant, they are subject to the provisions of customs legislation.
 
 [^77a-1]: Inserted by Annex No I of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^77a-2]: Name in accordance with No I 1 of the O of 12 June 2020 on the Amendment of Legislation because of the Change in Name of the Federal Customs Administration as part of its Further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). This change has been made throughout the text.
 
 #### Art. 77b
 
@@ -1394,15 +1412,18 @@ The procedure for appeals before the Federal Administrative Court is subject to 
 
 #### Art. 77c
 
-**Application for destruction of the goods**[^77c-1]
+**Application for destruction of the goods[^77c-2]**[^77c-1]
 
-<sup>1</sup> When making an application under Article 76 paragraph 1, the applicant may submit a written request for the FOCBS to destroy the goods.
+<sup>1</sup> …[^77c-3]
 
 <sup>2</sup> If an application for destruction is made, the FOCBS shall notify the declarant, holder or owner of the goods accordingly as part of the notification made under Article 77 paragraph 1.
 
-<sup>3</sup> The application for destruction does not result in the time limits for obtaining preliminary measures under Article 77 paragraphs 2 and 3 being extended.
+<sup>3</sup> …[^77c-4]
 
 [^77c-1]: Inserted by Annex No I of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^77c-2]: Amended by No 1 2 of the FA of 22 Dec. 2023 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, in force since 1 July 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^77c-3]: Repealed by No 1 2 of the FA of 22 Dec. 2023 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, with effect from 1 July 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^77c-4]: Repealed by No 1 2 of the FA of 22 Dec. 2023 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, with effect from 1 July 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 77d
 
@@ -1410,9 +1431,10 @@ The procedure for appeals before the Federal Administrative Court is subject to 
 
 <sup>1</sup> The destruction of the goods requires the consent of the declarant, holder or owner.
 
-<sup>2</sup> Consent is deemed to be given if the declarant, holder or owner does not expressly object to the destruction within the time limits given under Article 77 paragraphs 2 and 3.
+<sup>2</sup> Consent is deemed to be given if the declarant, holder or owner does not expressly object to the destruction within the time limits given under Article 77 paragraphs 2 and 3[^77d-2].
 
 [^77d-1]: Inserted by Annex No I of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^77d-2]: Presently: Art. 77 para. 3 and 4.
 
 #### Art. 77e
 
@@ -1451,6 +1473,29 @@ Before the destruction of the goods, the FOCBS shall remove samples and hold the
 <sup>2</sup> The applicant is liable for any losses incurred from withholding the goods and from collecting the samples if preliminary measures are not ordered or prove to be unjustified.
 
 [^77h-1]: Inserted by Annex No I of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+
+#### Art. 77h<sup>bis</sup>
+
+**Simplified procedure for destroying small consignments**[^77hbis-1]
+
+<sup>1</sup>
+
+The FOCBS shall detain goods if the consignment is small and:
+
+- a. based on an application for assistance in accordance with Article 76 paragraph 1, it has grounds to suspect that transporting the goods into or out of the customs territory may violate the legislation on copyright and related rights applicable in Switzerland; and
+- b. an application for the destruction of small consignments (Art. 76 para. 2 let. b) has been submitted.
+
+<sup>2</sup> It may transfer responsibility for conducting the further procedure to the IPI.
+
+<sup>3</sup> The competent authority shall provide the declarant, holder or owner of the goods with notification of the suspicion and of the detained goods and inform him that the goods will be destroyed if he does not expressly object to the destruction within ten working days of receiving this notification.
+
+<sup>4</sup> If the declarant, holder or owner expressly objects to the destruction within the time limit specified in paragraph 3, the competent authority shall notify the applicant accordingly. The further procedure shall be governed *mutatis mutandis* by Articles 77 paragraphs 3 and 4, 77*a*, 77*b* and 77*h*.
+
+<sup>5</sup> If the declarant, holder or owner agrees to the destruction or does not give an opinion within the time limit specified in paragraph 3, the competent authority shall destroy the goods at the applicant’s expense no earlier than three months after the notification specified in paragraph 3 or hand them over to the applicant for destruction if the applicant has requested this in accordance with Article 76 paragraph 3. Claims for damages by the applicant against the declarant, holder or owner are excluded.
+
+<sup>6</sup> The competent authority shall provide the applicant with information about the quantity and type of the goods destroyed in accordance with paragraph 5 and about the senders, whether inside or outside Switzerland.
+
+[^77hbis-1]: Inserted by No 1 2 of the FA of 22 Dec. 2023 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, in force since 1 July 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 ## Title 5*a* Processing of Personal Data for the purpose of Filing a Criminal Complaint or Reporting a Criminal Offence
 
