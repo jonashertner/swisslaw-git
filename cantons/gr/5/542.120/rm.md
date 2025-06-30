@@ -4,13 +4,13 @@ number: "542.120"
 title: "Ordinaziun tar la lescha davart l'assicuranza da malsauns e la reducziun da las premias"
 short: OEtLARP
 language: rm
-version: 2022-01-01
-valid_until: 2025-06-30
-version_adopted: 2021-12-21
+version: 2025-07-01
+valid_until: 2025-12-31
+version_adopted: 2025-10-14
 adopted: 2011-11-22
 in_force: 2012-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/542.120"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3213/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3581/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3213/pdf_file"
 
 (OEtLARP)
 
-dals 22-11-2011 (versiun dals 01-01-2022)
+dals 22-11-2011 (versiun dals 01-07-2025)
 
 sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1]
 
@@ -311,6 +311,18 @@ relaschada da la regenza ils 22 da november 2011
 <sup>2</sup> L'uffizi è responsabel per la surveglianza tenor l'artitgel 38 LAMal e po ordinar las mesiras tenor l'artitgel 38 alinea 2 litera a fin litera d LAMal, en cas che las premissas d'admissiun na vegnan betg observadas.
 
 [^27a-1]: CS [832.10](https://db.clex.ch/link/Bund/832.10/rm)
+
+#### Art. 27b
+
+**Dumbers maximals**
+
+<sup>1</sup> En il sectur medicinal spezial chirurgia plastica, reconstructiva ed estetica vegn il dumber da medias e medis che dastgan furnir en il chantun prestaziuns en il sectur ambulant a quint da l'assicuranza obligatorica per la tgira da malsauns, limità sin trais equivalents a temp cumplain.
+
+<sup>2</sup> Per in augment dal grad d'occupaziun en il sectur spezial tenor l'alinea 1 dovri ina permissiun. La renunzia a l'activitad e las reducziuns dal grad d'occupaziun ston vegnir annunziadas.
+
+<sup>3</sup> Premess che las dumondas per l'admissiun als secturs spezials tenor l'alinea 1 sajan cumplettas, vegnan ellas resguardadas tenor lur data d'entrada. Exceptadas da quai èn dumondas per garantir il provediment da center staziunar. Questas dumondas vegnan resguardadas cun prioritad.
+
+<sup>4</sup> Per garantir il provediment da center staziunar po l'Uffizi da sanadad excepziunalmain fixar da nov il dumber maximal en il sectur spezial tenor l'alinea 1, e quai per ina durada da maximalmain 6 mais.
 
 ## 5. Disposiziuns finalas
 

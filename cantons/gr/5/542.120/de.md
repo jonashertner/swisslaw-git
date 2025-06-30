@@ -4,13 +4,13 @@ number: "542.120"
 title: Verordnung zum Gesetz über die Krankenversicherung und die Prämienverbilligung
 short: VOzKPVG
 language: de
-version: 2022-01-01
-valid_until: 2025-06-30
-version_adopted: 2021-12-21
+version: 2025-07-01
+valid_until: 2025-12-31
+version_adopted: 2025-10-14
 adopted: 2011-11-22
 in_force: 2012-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/542.120"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3213/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3581/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3213/pdf_file"
 
 (VOzKPVG)
 
-Vom 22.11.2011 (Stand 01.01.2022)
+Vom 22.11.2011 (Stand 01.07.2025)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1]
 
@@ -311,6 +311,18 @@ von der Regierung erlassen am 22. November 2011
 <sup>2</sup> Das Amt ist für die Aufsicht gemäss Artikel 38 KVG zuständig und kann bei Nichteinhaltung der Zulassungsvoraussetzungen die Massnahmen gemäss Artikel 38 Absatz 2 Litera a bis Litera d KVG anordnen.
 
 [^27a-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
+
+#### Art. 27b
+
+**Höchstzahlen**
+
+<sup>1</sup> Im medizinischen Fachgebiet Plastische, Rekonstruktive und Ästhetische Chirurgie wird die Anzahl der Ärztinnen und Ärzte, die im Kanton Leistungen im ambulanten Bereich zulasten der obligatorischen Krankenpflegeversicherung erbringen dürfen, auf drei Vollzeitäquivalente beschränkt.
+
+<sup>2</sup> Eine Erhöhung des Beschäftigungsgrads im Fachgebiet nach Absatz 1 ist bewilligungspflichtig. Die Aufgabe der Tätigkeit und die Reduktionen des Beschäftigungsgrads sind meldepflichtig.
+
+<sup>3</sup> Die Gesuche um Zulassung in den Fachgebieten nach Absatz 1 werden unter Voraussetzung der Vollständigkeit entsprechend dem Zeitpunkt des Eingangs berücksichtigt. Davon ausgenommen sind Gesuche zur Sicherstellung der stationären Zentrumsversorgung. Diese werden prioritär berücksichtigt.
+
+<sup>4</sup> Zur Sicherstellung der stationären Zentrumsversorgung kann das Gesundheitsamt die Höchstzahl im Fachgebiet nach Absatz 1 ausnahmsweise für maximal sechs Monate neu festlegen.
 
 ## 5. Schlussbestimmungen
 

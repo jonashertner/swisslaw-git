@@ -4,13 +4,13 @@ number: "542.120"
 title: "Ordinanza relativa alla legge sull'assicurazione malattie e la riduzione dei premi"
 short: OLAMRP
 language: it
-version: 2022-01-01
-valid_until: 2025-06-30
-version_adopted: 2021-12-21
+version: 2025-07-01
+valid_until: 2025-12-31
+version_adopted: 2025-10-14
 adopted: 2011-11-22
 in_force: 2012-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/542.120"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3213/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3581/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3213/pdf_file"
 
 (OLAMRP)
 
-del 22.11.2011 (stato 01.01.2022)
+del 22.11.2011 (stato 01.07.2025)
 
 emanata dal Governo il 22 novembre 2011
 
@@ -311,6 +311,18 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 <sup>2</sup> L'Ufficio è competente per la vigilanza in conformità all'articolo 38 LAMal e in caso di inosservanza delle condizioni d'autorizzazione può pronunciare le misure in conformità all'articolo 38 capoverso 2 lettera a – lettera d LAMal.
 
 [^27a-1]: RS [832.10](https://db.clex.ch/link/Bund/832.10/it)
+
+#### Art. 27b
+
+**Numeri massimi**
+
+<sup>1</sup> Nel campo di specializzazione medica della chirurgia plastica, ricostruttiva ed estetica il numero di medici autorizzati a fornire prestazioni nel settore ambulatoriale a carico dell'assicurazione obbligatoria delle cure medico-sanitarie nel Cantone viene limitato a tre equivalenti a tempo pieno.
+
+<sup>2</sup> L'aumento del grado di occupazione nel campo di specializzazione secondo il capoverso 1 è soggetto ad autorizzazione. La cessazione dell'attività e le riduzioni del grado di occupazione sono soggette a obbligo di notifica.
+
+<sup>3</sup> Le domande di ammissione nei campi di specializzazione secondo il capoverso 1 vengono tenute in considerazione, purché siano complete, secondo l'ordine in cui pervengono. Fanno eccezione le domande finalizzate a garantire l'assistenza stazionaria centralizzata. Queste vengono tenute in considerazione in via prioritaria.
+
+<sup>4</sup> Al fine di garantire l'assistenza stazionaria centralizzata, l'Ufficio dell'igiene pubblica può eccezionalmente determinare un nuovo numero massimo nel campo di specializzazione secondo il capoverso 1, valido al massimo per sei mesi.
 
 ## 5. Disposizioni finali
 
