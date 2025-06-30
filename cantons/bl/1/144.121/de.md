@@ -3,20 +3,19 @@ canton: BL
 number: "144.121"
 title: Reglement über die Zuständigkeiten für Ausgabenbewilligungen in der Bau- und Umweltschutzdirektion
 language: de
-version: 2024-01-01
-valid_until: 2025-06-30
-version_adopted: 2023-11-07
+version: 2025-07-01
+version_adopted: 2025-06-03
 adopted: 2018-02-07
 in_force: 2018-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/144.121"
-pdf: "https://bl.clex.ch/api/de/versions/4271/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4309/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Zuständigkeiten für Ausgabenbewilligungen in der Bau- und Umweltschutzdirektion
 
-Vom 07.02.2018 (Stand 01.01.2024)
+Vom 07.02.2018 (Stand 01.07.2025)
 
 Die Bau- und Umweltschutzdirektion des Kantons Basel-Landschaft,
 
@@ -32,20 +31,20 @@ beschliesst:
 
 <sup>1</sup> Die Vorsteherin oder der Vorsteher der Bau- und Umweltschutzdirektion («Direktion») ist zuständig für die Bewilligung von:
 
-- a. einmaligen Ausgaben von CHF 200'000.– bis CHF 300‘000.–;
-- b. wiederkehrenden Ausgaben von CHF 80'000.– bis CHF 100‘000.–;
-- c. einmaligen Ausgaben gemäss [§ 38 Abs. 1 Bst. b Vo FHG](https://bl.clex.ch/data/310.11/de/art38) von CHF 300'000.– bis CHF 500‘000.–.
+- a. einmaligen Ausgaben von mehr als CHF 200'000.– und bis CHF 300‘000.–;
+- b. wiederkehrenden Ausgaben von mehr als CHF 80'000.– und bis CHF 100‘000.–;
+- c. einmaligen Ausgaben gemäss [§ 38 Abs. 1 Bst. b Vo FHG](https://bl.clex.ch/data/310.11/de/art38) von mehr als CHF 300'000.– und bis CHF 500‘000.–.
 
-<sup>2</sup> Die Bereichsleitenden der Direktion sind zuständig für die Bewilligung von:
+<sup>2</sup> Die Dienststellenleitenden der Direktion sind zuständig für die Bewilligung von:
 
-- a. einmaligen Ausgaben von CHF 100'000.– bis CHF 200'000.–;
-- b. wiederkehrenden Ausgaben von CHF 50'000.– bis CHF 80'000.–;
-- c. einmaligen Ausgaben gemäss [§ 38 Abs. 1 Bst. b Vo FHG](https://bl.clex.ch/data/310.11/de/art38) von CHF 100'000.– bis CHF 300'000.–.
+- a. einmaligen Ausgaben von mehr als CHF 100'000.– und bis CHF 200'000.–;
+- b. wiederkehrenden Ausgaben von mehr als CHF 50'000.– und bis CHF 80'000.–;
+- c. einmaligen Ausgaben gemäss [§ 38 Abs. 1 Bst. b Vo FHG](https://bl.clex.ch/data/310.11/de/art38) von mehr als CHF 100'000.– und bis CHF 300'000.–.
 
-<sup>3</sup> Die auf die Bereichsleitenden der Direktion nächstfolgende Hierarchiestufe ist zuständig für die Bewilligung von:
+<sup>3</sup> Die auf die Dienststellenleitenden der Direktion nächstfolgende Hierarchiestufe ist zuständig für die Bewilligung von:
 
-- a. einmaligen Ausgaben von CHF 50'000.– bis CHF 100'000.–;
-- b. wiederkehrenden Ausgaben von CHF 10'000.– bis CHF 50'000.–.
+- a. einmaligen Ausgaben von mehr als CHF 50'000.– und bis CHF 100'000.–;
+- b. wiederkehrenden Ausgaben von mehr als CHF 10'000.– und bis CHF 50'000.–.
 
 <sup>4</sup> Die auf § 1 Abs. 3 nächstfolgende Hierarchiestufe ist zuständig für die Bewilligung von:
 
