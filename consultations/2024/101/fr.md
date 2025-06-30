@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de la loi sur la géoinformation – Cadastre des restrictions de droit public à la propriété foncière
 document: Projet mis en consultation
 language: fr

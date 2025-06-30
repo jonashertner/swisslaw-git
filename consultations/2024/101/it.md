@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica della legge sulla geoinformazione - Catasto delle restrizioni di diritto pubblico della proprietà
 document: Progetto posto in consultazione
 language: it

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Geoinformationsgesetzes – Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen
 document: Vernehmlassungsvorlage
 language: de
