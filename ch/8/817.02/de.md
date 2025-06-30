@@ -4,11 +4,11 @@ title: Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016 (
 short: LGV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/63"
 language: de
-version: 2024-02-01
+version: 2025-07-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/63/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2017-63-20240201-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/63/20240201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/63/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2017-63-20250701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/63/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/63/20240201/de"
 
 (LGV)
 
-vom 16. Dezember 2016 (Stand am 1. Februar 2024)
+vom 16. Dezember 2016 (Stand am 1. Juli 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -749,7 +749,8 @@ Wer ein vorverpacktes Lebensmittel abgibt, muss folgende Angaben machen:
 - f. die Herkunft mengenmässig wichtiger Zutaten des Lebensmittels;
 - g. eine Nährwertdeklaration;
 - h. die Anwendung gentechnischer oder besonderer technologischer Verfahren bei der Herstellung (z. B. Bestrahlung);
-- i. Hinweise zur sachgemässen Verwendung, sofern das Lebensmittel ohne diese Angabe nicht bestimmungsgemäss verwendet werden kann.
+- i. Hinweise zur sachgemässen Verwendung, sofern das Lebensmittel ohne diese Angabe nicht bestimmungsgemäss verwendet werden kann;
+- j.[^36-1] bei Lebensmitteln tierischer Herkunft nach Anhang 2, die mit den Herstellungsmethoden nach Anhang 2 produziert worden sind: den entsprechenden Hinweis nach Anhang 2.
 
 <sup>2</sup>
 
@@ -768,6 +769,14 @@ Das EDI regelt:
 - c. die Grenzen der Zulässigkeit von Werbung.
 
 <sup>4</sup> Es kann für bestimmte Lebensmittelgruppen Ausnahmen von den Bestimmungen nach den Absätzen 1 und 2 vorsehen oder vorschreiben, dass bestimmte Lebensmittelgruppen mit zusätzlichen Angaben gekennzeichnet werden müssen.
+
+<sup>5</sup> Es erlässt für Lebensmittel nach Absatz 1 Buchstabe j Listen der Länder, welche die Herstellungsmethoden nach Anhang 2 gesetzlich verbieten. Solche Lebensmittel müssen nicht mit dem entsprechenden Hinweis nach Anhang 2 gekennzeichnet werden, wenn sie nach dem Recht des betreffenden Landes hergestellt worden sind.[^36-2]
+
+<sup>6</sup> Es erlässt abweichend von Absatz 5 keine Länderliste für Magret, Stopfleber und Confit von Gänsen oder Enten. Solche Lebensmittel müssen immer mit dem entsprechenden Hinweis nach Anhang 2 gekennzeichnet werden.[^36-3]
+
+[^36-1]: Eingefügt durch Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 369](https://fedlex.data.admin.ch/eli/oc/2025/369)).
+[^36-2]: Eingefügt durch Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 369](https://fedlex.data.admin.ch/eli/oc/2025/369)).
+[^36-3]: Eingefügt durch Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 369](https://fedlex.data.admin.ch/eli/oc/2025/369)).
 
 #### Art. 37
 
@@ -833,12 +842,13 @@ Gemeinnützige steuerbefreite Organisationen dürfen Backwaren, für welche die 
 
 <sup>2</sup>
 
-In jedem Fall sind schriftlich anzugeben:
+In jedem Fall schriftlich anzugeben sind:[^39-3]
 
-- a.[^39-3] bei Fleisch domestizierter Huftiere, von Hausgeflügel, Laufvögeln und bei Fisch: die Herkunft des zur Lebensmittelgewinnung verwendeten Tieres;
+- a.[^39-4] bei Fleisch domestizierter Huftiere, von Hausgeflügel, Laufvögeln und bei Fisch: die Herkunft des zur Lebensmittelgewinnung verwendeten Tieres;
 - b. die Anwendung gentechnischer oder besonderer technologischer Verfahren bei der Herstellung (Art. 36 Abs. 1 Bst. h);
-- c. die Angaben nach der Landwirtschaftlichen Deklarationsverordnung vom 26. November 2003[^39-4];
-- d.[^39-5] bei Brot und Feinbackwaren, ausser Dauerbackwaren, ganz oder in Stücken: das Produktionsland; auf die schriftliche Angabe des Produktionslandes kann verzichten werden, wenn für das Lebensmittel eine Herkunftsangabe nach Artikel 48*b* des Markenschutzgesetzes vom 28. August 1992[^39-6] gemacht wird.
+- c. die Angaben nach der Landwirtschaftlichen Deklarationsverordnung vom 26. November 2003[^39-5];
+- d.[^39-6] bei Brot und Feinbackwaren, ausser Dauerbackwaren, ganz oder in Stücken: das Produktionsland; auf die schriftliche Angabe des Produktionslandes kann verzichten werden, wenn für das Lebensmittel eine Herkunftsangabe nach Artikel 48*b* des Markenschutzgesetzes vom 28. August 1992[^39-7] gemacht wird;
+- e.[^39-8] der entsprechende Hinweis nach Artikel 36 Absatz 1 Buchstabe j.
 
 <sup>3</sup>
 
@@ -846,15 +856,17 @@ Das EDI regelt:
 
 - a. wie die Angaben nach den Absätzen 1 und 2 im Einzelnen zu erfolgen haben;
 - b. unter welchen Voraussetzungen auf die Schriftlichkeit der Angaben verzichtet werden kann; Absatz 2 bleibt vorbehalten;
-- c.[^39-7] welche Angaben zum Schutz der Gesundheit bei neuartigen Lebensmitteln nach Artikel 15 Absätze 1 und 1<sup>bis</sup> immer schriftlich anzugeben sind.
+- c.[^39-9] welche Angaben zum Schutz der Gesundheit bei neuartigen Lebensmitteln nach Artikel 15 Absätze 1 und 1<sup>bis</sup> immer schriftlich anzugeben sind.
 
 [^39-1]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
 [^39-2]: Eingefügt durch Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
-[^39-3]: Fassung gemäss Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
-[^39-4]: [SR 916.51](https://fedlex.data.admin.ch/eli/cc/2003/738)
-[^39-5]: Eingefügt durch Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
-[^39-6]: [SR 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
-[^39-7]: Eingefügt durch Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^39-3]: Fassung gemäss Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 369](https://fedlex.data.admin.ch/eli/oc/2025/369)).
+[^39-4]: Fassung gemäss Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
+[^39-5]: [SR 916.51](https://fedlex.data.admin.ch/eli/cc/2003/738)
+[^39-6]: Eingefügt durch Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^39-7]: [SR 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
+[^39-8]: Eingefügt durch Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 369](https://fedlex.data.admin.ch/eli/oc/2025/369)).
+[^39-9]: Eingefügt durch Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
 
 #### Art. 40
 
@@ -1757,20 +1769,52 @@ Solange afokale kosmetische Kontaktlinsen gemäss Artikel 106 der Medizinprodukt
 
 [^95c-1]: Eingefügt durch Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9), [24](https://fedlex.data.admin.ch/eli/oc/2024/24)).
 
+#### Art. 95d
+
+**Übergangsbestimmung zur Änderung vom 28. Mai 2025**[^95d-1]
+
+Lebensmittel, die der Änderung vom 28. Mai 2025 nicht entsprechen, dürfen noch bis zum 30. Juni 2027 nach bisherigem Recht eingeführt, hergestellt und gekennzeichnet und noch bis zum Abbau der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
+
+[^95d-1]: Eingefügt durch Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 369](https://fedlex.data.admin.ch/eli/oc/2025/369)).
+
 #### Art. 96
 
 **Inkrafttreten**
 
 Diese Verordnung tritt am 1. Mai 2017 in Kraft.
 
-Anhang
+Anhang 1[^t-1]
 
 (Art. 94 Abs. 2)
 
 ## Änderung anderer Erlasse
 
+[^t-1]: Ursprünglich: Anhang.
+
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-…[^annexu1-lvlu1-1]
+…[^annex1-lvlu1-1]
 
-[^annexu1-lvlu1-1]: Die Änderungen können unter [AS 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)konsultiert werden.
+[^annex1-lvlu1-1]: Die Änderungen können unter [AS 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)konsultiert werden.
+
+Anhang 2[^t-2]
+
+(Art. 36 Abs. 1 Bst. j)
+
+## Lebensmittel, bei denen ein Hinweis auf die Herstellungsmethode anzugeben ist
+
+[^t-2]: Eingefügt durch Ziff. III der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 369](https://fedlex.data.admin.ch/eli/oc/2025/369)).
+
+<table>
+<tr><th>Lebensmittel</th><th>Herstellungsmethode</th><th>Hinweis</th></tr>
+<tr><td>Rindfleisch (*Bos taurus*), ganz oder in Stücken, frisch wie auch verarbeitet</td><td>Enthornen ohne Schmerzausschaltung oder Kastration ohne Schmerzausschaltung</td><td>«Mit schmerzverursachenden Eingriffen ohne Schmerzausschaltung produziert.»</td></tr>
+<tr><td>Schweinefleisch, ganz oder in Stücken, frisch wie auch verarbeitet</td><td>Kupieren des Schwanzes, Abklemmung der Zähne oder Kastration ohne Schmerzausschaltung</td><td>«Mit schmerzverursachenden Eingriffen ohne Schmerzausschaltung produziert.»</td></tr>
+<tr><td>Hühner- und Truthühnerfleisch, ganz oder in Stücken, frisch wie auch verarbeitet</td><td>Kupieren des Schnabels ohne Schmerzausschaltung</td><td>«Mit schmerzverursachenden Eingriffen ohne Schmerzausschaltung produziert.»</td></tr>
+<tr><td>Froschschenkel, frisch wie auch verarbeitet</td><td>Abtrennung der Froschschenkel ohne Betäubung</td><td>«Mit schmerzverursachenden Eingriffen ohne Schmerzausschaltung produziert.»</td></tr>
+<tr><td>Magret nach Artikel 1 Ziffer 2 Buchstabe m der Verordnung (EG) Nr. 543/2008[^annex2-lvlu1-1], Stopfleber (*foie gras*) nach Artikel 1 Ziffer 3 der Verordnung (EG) Nr. 543/2008 und Confit von Gänsen und Enten nach Ziffer 5.4.1.1. der Spécification technique n<sup>o</sup> B1‑19‑08 du ministère de l’économie, des finances et de l’emploi de la République française, Préparations de viandes, produits à base de viande de volaille ou de lapin, foies gras de volaille vom Januar 2008[^annex2-lvlu1-2], ganz oder in Stücken, frisch wie auch verarbeitet</td><td>Zwangsfütterung von Gänsen oder Enten</td><td>«Von zwangsernährten Gänsen gewonnen.» bzw. «Von zwangsernährten Enten gewonnen.»</td></tr>
+<tr><td>Kuhmilch, genussfertig</td><td>Enthornen ohne Schmerzausschaltung</td><td>«Mit schmerzverursachenden Eingriffen ohne Schmerzausschaltung produziert.»</td></tr>
+<tr><td>Eier von Haushühnern (*Gallus gallus domesticus*)</td><td>Kupieren des Schnabels ohne Schmerzausschaltung</td><td>«Mit schmerzverursachenden Eingriffen ohne Schmerzausschaltung produziert.»</td></tr>
+</table>
+
+[^annex2-lvlu1-1]: Verordnung (EG) Nr. 543/2008 der Kommission vom 16. Juni 2008 mit Durchführungsvorschriften zur Verordnung (EG) Nr. 1234/2007 des Rates hinsichtlich der Vermarktungsnormen für Geflügelfleisch, ABl. L 157 vom 17.6.2008, S. 46; zuletzt geändert durch Verordnung (EU) Nr. 519/2013 vom 21.2.2013, ABl. L 158 vom 10.6.2013, S. 74.
+[^annex2-lvlu1-2]: Abrufbar unter: www.economie.gouv.fr/daj &gt; Observatoire économique de la commande publique &gt; Liste des guides et recommandations des GEM (en vigueur et archives) &gt; Liste des guides et recommandations GEM en vigueur &gt; GEM – Restauration collective et nutrition &gt; Spécification technique – Préparations de viandes, produits à base de viande de volailles ou de lapins – Foies gras de volaille.

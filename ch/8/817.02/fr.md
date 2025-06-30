@@ -4,11 +4,11 @@ title: Ordonnance du 16 décembre 2016 sur les denrées alimentaires et les obje
 short: ODAlOUs
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/63"
 language: fr
-version: 2024-02-01
+version: 2025-07-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/63/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2017-63-20240201-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/63/20240201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/63/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-63-20250701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/63/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/63/20240201/fr"
 
 (ODAlOUs)
 
-du 16 décembre 2016 (État le 1<sup>er</sup> février 2024)
+du 16 décembre 2016 (État le 1<sup>er</sup> juillet 2025)
 
 Le Conseil fédéral suisse,
 
@@ -749,7 +749,8 @@ Quiconque remet une denrée alimentaire préemballée doit fournir les indicatio
 - f. la provenance des principaux ingrédients, en termes de quantité, de la denrée alimentaire;
 - g. la déclaration nutritionnelle;
 - h. le recours au génie génétique ou à des procédés technologiques particuliers durant la fabrication (par ex. l’irradiation);
-- i. des informations concernant l’usage correct, si son omission ne permet pas d’utiliser la denrée alimentaire conformément à l’usage prévu.
+- i. des informations concernant l’usage correct, si son omission ne permet pas d’utiliser la denrée alimentaire conformément à l’usage prévu;
+- j.[^36-1] pour les denrées alimentaires d’origine animale visées à l’annexe 2 produites selon les méthodes figurant dans ladite annexe: la mention correspondante prévue à l’annexe 2.
 
 <sup>2</sup>
 
@@ -768,6 +769,14 @@ Le DFI règle:
 - c. les limites de la publicité admise.
 
 <sup>4</sup> Il peut prévoir pour certains groupes de denrées alimentaires des dérogations aux al. 1 et 2 ou prescrire des indications complémentaires dans l’étiquetage de certains groupes de denrées alimentaires.
+
+<sup>5</sup> Il établit des listes de pays dont la législation interdit les méthodes visées à l’annexe 2 pour produire les denrées alimentaires visées à l’al. 1, let. j. De telles denrées ne doivent pas être étiquetées avec la mention correspondante prévue à l’annexe 2 lorsqu’elles ont été produites conformément au droit en vigueur du pays concerné.[^36-2]
+
+<sup>6</sup> En dérogation à l’al. 5, il n’établit pas de liste de pays pour le magret, le foie gras et le confit d’oie ou de canard. De telles denrées alimentaires doivent toujours être étiquetées avec la mention correspondante prévue à l’annexe 2.[^36-3]
+
+[^36-1]: Introduite par le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 369](https://fedlex.data.admin.ch/eli/oc/2025/369)).
+[^36-2]: Introduit par le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 369](https://fedlex.data.admin.ch/eli/oc/2025/369)).
+[^36-3]: Introduit par le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 369](https://fedlex.data.admin.ch/eli/oc/2025/369)).
 
 #### Art. 37
 
@@ -838,7 +847,8 @@ Dans chaque cas, il faut cependant indiquer par écrit:
 - a.[^39-3] la provenance de l’animal pourvoyeur de la denrée alimentaire s’il s’agit de la viande d’ongulés domestiqués, de volailles domestiques, de ratites ou de poissons;
 - b. le recours au génie génétique ou à des procédés technologiques particuliers durant la fabrication (art. 36, al. 1, let. h);
 - c. les informations prévues dans l’ordonnance du 26 novembre 2003 sur la déclaration[^39-4];
-- d.[^39-5] pour le pain et les articles de boulangerie fine, sauf les articles de biscuiterie et de biscotterie, entiers ou en morceaux: le pays de production; l’indication par écrit du pays de production n’est pas nécessaire lorsque la provenance de la denrée alimentaire est indiquée conformément à l’art. 48*b* de la loi du 28 août 1992 sur la protection des marques[^39-6].
+- d.[^39-5] pour le pain et les articles de boulangerie fine, sauf les articles de biscuiterie et de biscotterie, entiers ou en morceaux: le pays de production; l’indication par écrit du pays de production n’est pas nécessaire lorsque la provenance de la denrée alimentaire est indiquée conformément à l’art. 48*b* de la loi du 28 août 1992 sur la protection des marques[^39-6];
+- e.[^39-7] la mention correspondante conformément à l’art. 36, al. 1, let. j.
 
 <sup>3</sup>
 
@@ -846,7 +856,7 @@ Le DFI règle:
 
 - a. les modalités selon lesquelles les indications visées aux al. 1 et 2 doivent être fournies;
 - b. à quelles conditions on peut se passer de fournir des indications écrites; l’al. 2 demeure réservé;
-- c.[^39-7] les indications destinées à protéger la santé qui doivent toujours être déclarées par écrit pour les nouvelles sortes de denrées alimentaires visées à l’art. 15, al. 1 et 1<sup>bis</sup>.
+- c.[^39-8] les indications destinées à protéger la santé qui doivent toujours être déclarées par écrit pour les nouvelles sortes de denrées alimentaires visées à l’art. 15, al. 1 et 1<sup>bis</sup>.
 
 [^39-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
 [^39-2]: Introduit par le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
@@ -854,7 +864,8 @@ Le DFI règle:
 [^39-4]: [RS 916.51](https://fedlex.data.admin.ch/eli/cc/2003/738)
 [^39-5]: Introduite par le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
 [^39-6]: [RS 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
-[^39-7]: Introduite par le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^39-7]: Introduite par le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 369](https://fedlex.data.admin.ch/eli/oc/2025/369)).
+[^39-8]: Introduite par le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
 
 #### Art. 40
 
@@ -1757,20 +1768,52 @@ Tant que les lentilles de contact cosmétiques afocales peuvent être commercial
 
 [^95c-1]: Introduit par le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9), [24](https://fedlex.data.admin.ch/eli/oc/2024/24)).
 
+#### Art. 95d
+
+**Disposition transitoire relative à la modification du 28 mai 2025**[^95d-1]
+
+Les denrées alimentaires non conformes à la modification du 28 mai 2025 peuvent encore être importées, fabriquées et étiquetées selon l’ancien droit jusqu’au 30 juin 2027 et remises au consommateur jusqu’à épuisement des stocks.
+
+[^95d-1]: Introduit par le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 369](https://fedlex.data.admin.ch/eli/oc/2025/369)).
+
 #### Art. 96
 
 **Entrée en vigueur**
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> mai 2017.
 
-Annexe
+Annexe 1[^t-1]
 
 (art. 94, al. 2)
 
 ## Modification d’autres actes
 
+[^t-1]: Anciennement annexe.
+
 Les ordonnances mentionnées ci-après sont modifiées comme suit:
 
-…[^annexu1-lvlu1-1]
+…[^annex1-lvlu1-1]
 
-[^annexu1-lvlu1-1]: Les mod. peuvent être consultées au [RO 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63).
+[^annex1-lvlu1-1]: Les mod. peuvent être consultées au [RO 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63).
+
+Annexe 2[^t-2]
+
+(art. 36, al. 1, let. j)
+
+## Denrées alimentaires sur lesquelles une mention de la méthode de production doit être apposée
+
+[^t-2]: Introduite par le ch. III de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 369](https://fedlex.data.admin.ch/eli/oc/2025/369)).
+
+<table>
+<tr><th>Denrées alimentaires</th><th>Méthode de production</th><th>Mention</th></tr>
+<tr><td>Viande de bœuf (*Bos taurus*), entière ou en morceaux, fraîche ou transformée</td><td>Écornage sans anesthésie ou castration sans anesthésie</td><td>«Produit à l’aide de méthodes causant des douleurs, sans anesthésie préalable»</td></tr>
+<tr><td>Viande de porc, entière ou en morceaux, fraîche ou transformée</td><td>Coupe de la queue, cisaillement des dents ou castration sans anesthésie</td><td>«Produit à l’aide de méthodes causant des douleurs, sans anesthésie préalable»</td></tr>
+<tr><td>Viande de poulet et de dinde, entière ou en morceaux, fraîche ou transformée</td><td>Coupe du bec sans anesthésie</td><td>«Produit à l’aide de méthodes causant des douleurs, sans anesthésie préalable»</td></tr>
+<tr><td>Cuisses de grenouilles, fraîches ou transformées</td><td>Sectionnement des cuisses de grenouilles sans étourdissement</td><td>«Produit à l’aide de méthodes causant des douleurs, sans anesthésie préalable»</td></tr>
+<tr><td>Magret visé à l’art. 1, ch. 2, let. m, du règlement (CE) n<sup>o</sup> 543/2008[^annex2-lvlu1-1], foie gras visé à l’art. 1, ch. 3, du règlement (CE) n<sup>o</sup> 543/2008 et confit d’oie ou de canard visé au ch. 5.4.1.1. de la spécification technique n<sup>o</sup> B1‑19‑08 du ministère de l’économie, des finances et de l’emploi de la République française, Préparations de viandes, produits à base de viande de volaille ou de lapin, foies gras de volaille; version de janvier 2008[^annex2-lvlu1-2], entier ou en morceaux, frais ou transformé.</td><td>Gavage d’oies et de canards</td><td>«Issu d’oies gavées» ou «Issu de canards gavés»</td></tr>
+<tr><td>Lait de vache, prêt à la consommation</td><td>Écornage sans anesthésie</td><td>«Produit à l’aide de méthodes causant des douleurs, sans anesthésie préalable»</td></tr>
+<tr><td>Œufs de poules domestiques (*gallus gallus domesticus*)</td><td>Coupe du bec sans anesthésie</td><td>«Produit à l’aide de méthodes causant des douleurs, sans anesthésie préalable»</td></tr>
+</table>
+
+[^annex2-lvlu1-1]: Règlement (CE) n° 543/2008 de la Commission du 16 juin 2008 portant modalités d’application du règlement (CE) n<sup>o</sup> 1234/2007 du Conseil en ce qui concerne les normes de commercialisation pour la viande de volaille, JO L 157 du 17.6.2008, p. 46; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 519/2013 du 21.2.2013, JO L 158 du 10.6.2013, p. 74.
+[^annex2-lvlu1-2]: La spécification technique peut être consultée à l’adresse suivante: [www.economie.gouv.fr/daj](http://www.economie.gouv.fr/daj) &gt; Observatoire économique de la commande publique &gt; Liste des guides et recommandations des GEM (en vigueur et archives) &gt; Liste des guides et recommandations GEM en vigueur &gt; GEM – Restauration collective et nutrition &gt; Spécification technique – Préparations de viandes, produits à base de viande de volailles ou de lapins – Foies gras de volaille.

@@ -4,11 +4,11 @@ title: "Ordinanza del 16 dicembre 2016 sulle derrate alimentari e gli oggetti d'
 short: ODerr
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/63"
 language: it
-version: 2024-02-01
+version: 2025-07-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/63/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2017-63-20240201-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/63/20240201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/63/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2017-63-20250701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/63/20250701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/63/20240201/it"
 
 (ODerr)
 
-del 16 dicembre 2016 (Stato 1° febbraio 2024)
+del 16 dicembre 2016 (Stato 1° luglio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -145,15 +145,15 @@ Fatte salve le definizioni divergenti nella legislazione svizzera sulle derrate 
 - h. articolo 3 della direttiva 2009/48/CE[^2-14].
 
 [^2-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^2-2]: Introdotto dal n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
-[^2-3]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
+[^2-2]: Introdotto dalla cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^2-3]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
 [^2-4]: Regolamento (CE) n. 1223/2009 del Parlamento europeo e del Consiglio, del 30 novembre 2009, sui prodotti cosmetici, GU L 342 del 22.12.2009, pag. 59; modificato da ultimo dal regolamento (UE) 2017/2228, GU L 319 del 4.12.2017, pag. 2.
 [^2-5]: Direttiva 2009/48/CE del Parlamento europeo e del Consiglio, del 18 giugno 2009, sulla sicurezza dei giocattoli, GU L 170 del 30.6.2009, pag. 1; modificata da ultimo dalla direttiva (UE) 2015/2117/UE, GU L 192 dell’1.7.2014, pag. 49.
 [^2-6]: Regolamento (CE) n. 178/2002 del Parlamento europeo e del Consiglio, del 28 gennaio 2002, che stabilisce i principi e i requisiti generali della legislazione alimentare, istituisce l’Autorità europea per la sicurezza alimentare e fissa procedure nel campo della sicurezza alimentare, GU L 31 dell’1.2.2002, pag. 1; modificato da ultimo dal regolamento (CE) n. 652/2014, GU L 189 del 27.6.2014, pag. 1.
 [^2-7]: Regolamento (UE) n. 852/2004 del Parlamento europeo e del Consiglio, del 29 aprile 2004, sull’igiene dei prodotti alimentari, GU L 139 del 30.4.2004, pag. 1; modificato da ultimo dal regolamento (UE) n. 219/2009, GU L 87 del 31.3.2009, pag. 109.
 [^2-8]: Regolamento (UE) n. 853/2004 del Parlamento europeo e del Consiglio, del 29 aprile 2004, che stabilisce norme specifiche in materia di igiene per gli alimenti di origine animale, GU L 139 del 30.4.2004, pag. 55; modificato da ultimo dal regolamento (UE) n. 2016/355, GU L 67 del 12.3.2016, pag. 22.
 [^2-9]: Regolamento (CE) n. 854/2004 del Parlamento europeo e del Consiglio, del 29 aprile 2004, che stabilisce norme specifiche per l’organizzazione di controlli ufficiali sui prodotti di origine animale destinati al consumo umano, GU L 139 del 30.4.2004, pag. 206; modificato da ultimo dal regolamento (UE) n. 2015/2285, GU L 323 del 9.12.2015, pag. 2.
-[^2-10]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
+[^2-10]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
 [^2-11]: Regolamento (UE) 2017/625 del Parlamento europeo e del Consiglio, del 15 marzo 2017, relativo ai controlli ufficiali e alle altre attività ufficiali effettuati per garantire lʼapplicazione della legislazione sugli alimenti e sui mangimi, delle norme sulla salute e sul benessere degli animali, sulla sanità delle piante nonché sui prodotti fitosanitari, recante modifica dei regolamenti (CE) n. 999/2001, (CE) n. 396/2005, (CE) n. 1069/2009, (CE) n. 1107/2009, (UE) n. 1151/2012, (UE) n. 652/2014, (UE) 2016/429 e (UE) 2016/2031 del Parlamento europeo e del Consiglio, dei regolamenti (CE) n. 1/2005 e (CE) n. 1099/2009 del Consiglio e delle direttive 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE e 2008/120/CE del Consiglio, e che abroga i regolamenti (CE) n. 854/2004 e (CE) n. 882/2004 del Parlamento europeo e del Consiglio, le direttive 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE e 97/78/CE del Consiglio e la decisione 92/438/CEE del Consiglio (regolamento sui controlli ufficiali), GU L 95 del 7.4.2017, pag. 1; modificato da ultimo dal regolamento delegato (UE) 2019/2127, GU L 321 del 12.12.2019, pag. 111.
 [^2-12]: Regolamento (CE) n. 282/2008 della Commissione, del 27 marzo 2008, relativo ai materiali e agli oggetti di plastica riciclata destinati al contatto con gli alimenti e che modifica il regolamento (CE) n. 2023/2006, versione della GU L 86 del 28.3.2008, pag. 9; modificato da ultimo dal regolamento (UE) n. 2015/1906, GU L 278 del 23.10.2015, pag. 11.
 [^2-13]: Regolamento (UE) n. 1169/2011 del Parlamento europeo e del Consiglio, del 25 ottobre 2011, relativo alla fornitura di informazioni sugli alimenti ai consumatori, che modifica i regolamenti (CE) n. 1924/2006 e (CE) n. 1925/2006 del Parlamento europeo e del Consiglio e abroga la direttiva 87/250/CEE della Commissione, la direttiva 90/496/CEE del Consiglio, la direttiva 1999/10/CE della Commissione, la direttiva 2000/13/CE del Parlamento europeo e del Consiglio, le direttive 2002/67/CE e 2008/5/CE della Commissione e il regolamento (CE) n. 608/2004 della Commissione; modificato da ultimo dal regolamento (UE) n. 2015/2283, GU L 327 del’11.12.2015, pag. 1.
@@ -201,7 +201,7 @@ L’autorizzazione si estingue se:
 
 <sup>3</sup> L’USAV può revocare un’autorizzazione se le condizioni in base alle quali è stata rilasciata non sono più soddisfatte. Questo è segnatamente il caso se, in base a nuove conoscenze scientifiche, non è possibile garantire la sicurezza della derrata alimentare o dell’oggetto d’uso.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
 
 #### Art. 6
 
@@ -241,7 +241,7 @@ Per valutare se una derrata alimentare è nociva per la salute occorre considera
 
 <sup>4</sup> Il DFI definisce le condizioni per la ridistribuzione di derrate alimentari.[^8-1]
 
-[^8-1]: Introdotto dal n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^8-1]: Introdotto dalla cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
 
 #### Art. 9
 
@@ -334,14 +334,14 @@ Il DFI disciplina:
 
 <sup>4</sup> Può prescrivere requisiti per la presentazione, la confezione e l’imballaggio.
 
-[^12-1]: Introdotto dal n. I dell’O dell’16 apr. 2020, in vigore dal 17 apr. 2020 fino al 16 ott. 2020 ([RU 2020 1243](https://fedlex.data.admin.ch/eli/oc/2020/237)).
-[^12-2]: Introdotto dal n. I dell’O dell’16 apr. 2020, in vigore dal 17 apr. 2020 fino al 16 ott. 2020 ([RU 2020 1243](https://fedlex.data.admin.ch/eli/oc/2020/237)).
+[^12-1]: Introdotto dalla cifra I dell’O dell’16 apr. 2020, in vigore dal 17 apr. 2020 fino al 16 ott. 2020 ([RU 2020 1243](https://fedlex.data.admin.ch/eli/oc/2020/237)).
+[^12-2]: Introdotto dalla cifra I dell’O dell’16 apr. 2020, in vigore dal 17 apr. 2020 fino al 16 ott. 2020 ([RU 2020 1243](https://fedlex.data.admin.ch/eli/oc/2020/237)).
 [^12-3]: [RS 910.12](https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198)
 [^12-4]: [RS 232.112.2](https://fedlex.data.admin.ch/eli/cc/2015/612)
 [^12-5]: [RS 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
-[^12-6]: Introdotto dal n. I dell’O del 29 giu. 2022, in vigore dal 15 lug. 2022 ([RU 2022 396](https://fedlex.data.admin.ch/eli/oc/2022/396)).
-[^12-7]: Introdotto dal n. I dell’O del 29 giu. 2022, in vigore dal 15 lug. 2022 ([RU 2022 396](https://fedlex.data.admin.ch/eli/oc/2022/396)).
-[^12-8]: Introdotto dal n. I dell’O del 29 giu. 2022, in vigore dal 15 lug. 2022 ([RU 2022 396](https://fedlex.data.admin.ch/eli/oc/2022/396)).
+[^12-6]: Introdotto dalla cifra I dell’O del 29 giu. 2022, in vigore dal 15 lug. 2022 ([RU 2022 396](https://fedlex.data.admin.ch/eli/oc/2022/396)).
+[^12-7]: Introdotto dalla cifra I dell’O del 29 giu. 2022, in vigore dal 15 lug. 2022 ([RU 2022 396](https://fedlex.data.admin.ch/eli/oc/2022/396)).
+[^12-8]: Introdotto dalla cifra I dell’O del 29 giu. 2022, in vigore dal 15 lug. 2022 ([RU 2022 396](https://fedlex.data.admin.ch/eli/oc/2022/396)).
 
 #### Art. 13
 
@@ -363,7 +363,7 @@ Le derrate alimentari possono essere unicamente designate tramite la denominazio
 - le eccezioni stabilite dal DFI.[^14-2]
 
 [^14-1]: 2010/791/UE: Decisione della Commissione, del 20 dicembre 2010, che fissa lʼelenco dei prodotti di cui allʼallegato XII, punto III.1, secondo comma, del regolamento (CE) n. 1234/2007 del Consiglio, GU L 336 del 21.12.2010, pag. 55.
-[^14-2]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
+[^14-2]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
 
 ### Sezione 2: Nuovi tipi di derrate alimentari
 
@@ -422,9 +422,9 @@ Non sono considerati nuovi tipi di derrate alimentari:
   - 3\. aromi alimentari secondo le prescrizioni sugli aromi emanate dal DFI sulla base dell’articolo 23,
   - 4\. solventi da estrazione che si prevede di utilizzare per la fabbricazione di derrate alimentari o di ingredienti di derrate alimentari secondo le prescrizioni sui procedimenti tecnologici e gli ausiliari tecnologici nelle derrate alimentari emanate dal DFI sulla base dell’articolo 27 capoverso 4 lettera b.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
-[^15-2]: Abrogata dal n. I dell’O dell’8 dic. 2023, con effetto dal 1° feb. 2024 ([RU 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
-[^15-3]: Introdotto dal n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^15-2]: Abrogata dalla cifra I dell’O dell’8 dic. 2023, con effetto dal 1° feb. 2024 ([RU 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^15-3]: Introdotto dalla cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
 
 #### Art. 16
 
@@ -604,8 +604,8 @@ Il trattamento di erbe aromatiche e spezie secche con radiazioni ionizzanti non 
 
 <sup>5</sup> Il DFI fissa i requisiti per l’irradiazione di derrate alimentari.
 
-[^28-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
-[^28-2]: www.codexalimentarius.org &gt; Codex Texts &gt; Standards &gt; General Standard for irradiated foods CXS 106‑1983, Rev. 1-2003.
+[^28-1]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^28-2]: www.codexalimentarius.org &gt; Codex Texts &gt; Standards &gt; General Standard for irradiated foods CXS 106 ‑1983 , Rev. 1-2003.
 [^28-3]: www.codexalimentarius.org &gt; Codex Texts &gt; Codes of Practice &gt; Code of Practice for Radiation Processing of Food, CXC 19-1979 Revision 200, Editorial correction 2011.
 
 #### Art. 29
@@ -671,7 +671,7 @@ In caso di derrate alimentari che soddisfano le condizioni esposte qui di seguit
 
 <sup>7</sup> Per il resto, la procedura di autorizzazione è disciplinata dal DFI.
 
-[^31-1]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
+[^31-1]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
 [^31-2]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
 [^31-3]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
 [^31-4]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
@@ -749,7 +749,8 @@ Chiunque consegna una derrata alimentare preimballata deve fornire le seguenti i
 - f. la provenienza degli ingredienti quantitativamente più importanti della derrata alimentare;
 - g. la dichiarazione del valore nutritivo;
 - h. l’applicazione di tecniche di modificazione genetica o di procedimenti tecnologici particolari nella fabbricazione (p. es. irradiazione);
-- i. le informazioni sul loro uso corretto, quando la loro omissione non consente al consumatore di fare un uso conforme alla destinazione della derrata alimentare.
+- i. le informazioni sul loro uso corretto, quando la loro omissione non consente al consumatore di fare un uso conforme alla destinazione della derrata alimentare;
+- j.[^36-1] per le derrate alimentari di origine animale di cui all’allegato 2 prodotte mediante i metodi di produzione elencati nell’allegato 2: l’indicazione corrispondente secondo l’allegato 2.
 
 <sup>2</sup>
 
@@ -768,6 +769,14 @@ Il DFI disciplina:
 - c. i limiti dell’ammissibilità della pubblicità.
 
 <sup>4</sup> Per determinate categorie di derrate alimentari può prevedere deroghe alle disposizioni dei capoversi 1 e 2 o prescrivere che determinate categorie di derrate alimentari debbano essere caratterizzate con indicazioni supplementari.
+
+<sup>5</sup> Per le derrate alimentari di cui al capoverso 1 lettera j, pubblica gli elenchi dei Paesi la cui legislazione vieta i metodi di produzione elencati nell’allegato 2. Tali derrate alimentari non devono essere caratterizzate con l’indicazione corrispondente di cui all’allegato 2 se sono state fabbricate secondo il diritto vigente del Paese in questione.[^36-2]
+
+<sup>6</sup> In deroga al capoverso 5, non pubblica gli elenchi dei Paesi per il magret, il foie gras e il confit di oche o anatre. Tali derrate alimentari devono sempre essere caratterizzate con l’indicazione di cui all’allegato 2.[^36-3]
+
+[^36-1]: Introdotta dalla cifra I dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 369](https://fedlex.data.admin.ch/eli/oc/2025/369)).
+[^36-2]: Introdotto dalla cifra I dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 369](https://fedlex.data.admin.ch/eli/oc/2025/369)).
+[^36-3]: Introdotto dalla cifra I dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 369](https://fedlex.data.admin.ch/eli/oc/2025/369)).
 
 #### Art. 37
 
@@ -790,7 +799,7 @@ Occorre indicare che si tratta di OGM nel caso di:
 
 <sup>5</sup> Nello stesso campo visivo dell’indicazione di cui al capoverso 4, deve essere apposta in maniera chiara e facilmente leggibile l’indicazione «Per l’alimentazione degli animali non sono state utilizzate piante geneticamente modificate o prodotti da esse derivati».
 
-[^37-1]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
+[^37-1]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
 
 #### Art. 38
 
@@ -815,8 +824,8 @@ Per cinque anni dalla data del rilascio dell’autorizzazione, i dati scientific
 - b. al momento dell’inoltro della domanda il titolare ha il diritto esclusivo di utilizzo dei dati e delle informazioni; e
 - c. l’indicazione sulla salute non sarebbe stata autorizzata senza la presentazione di questi dati.
 
-[^38-1]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
-[^38-2]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
+[^38-1]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
+[^38-2]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
 
 #### Art. 39
 
@@ -838,7 +847,8 @@ In ogni caso devono essere indicate per scritto:
 - a.[^39-3] nel caso della carne di ungulati addomesticati, pollame domestico, ratiti e pesce: la provenienza dell’animale utilizzato per la produzione della derrata alimentare;
 - b. l’applicazione di tecniche di modificazione genetica o di procedimenti tecnologici particolari nella fabbricazione (art. 36 cpv. 1 lett. h);
 - c. le indicazioni secondo l’ordinanza del 26 novembre 2003[^39-4] sulle dichiarazioni agricole;
-- d.[^39-5] per il pane e i prodotti di panetteria fine, esclusi i prodotti di biscotteria, interi o in pezzi: il Paese di produzione; si può rinunciare all’indicazione del Paese di produzione se viene apportata un’indicazione di provenienza secondo l’articolo 48*b* della legge del 28 agosto 1992[^39-6] sulla protezione dei marchi.
+- d.[^39-5] per il pane e i prodotti di panetteria fine, esclusi i prodotti di biscotteria, interi o in pezzi: il Paese di produzione; si può rinunciare all’indicazione del Paese di produzione se viene apportata un’indicazione di provenienza secondo l’articolo 48*b* della legge del 28 agosto 1992[^39-6] sulla protezione dei marchi;
+- e.[^39-7] l’indicazione corrispondente di cui all’articolo 36 capoverso 1 lettera j.
 
 <sup>3</sup>
 
@@ -846,15 +856,16 @@ Il DFI disciplina:
 
 - a. le modalità delle indicazioni di cui ai capoversi 1 e 2;
 - b. a quali condizioni si può rinunciare alla forma scritta delle indicazioni; è fatto salvo il capoverso 2;
-- c.[^39-7] quali indicazioni per la protezione della salute devono essere fornite sempre per iscritto per i nuovi tipi di derrate alimentari di cui all’articolo 15 capoversi 1 e 1<sup>bis</sup>.
+- c.[^39-8] quali indicazioni per la protezione della salute devono essere fornite sempre per iscritto per i nuovi tipi di derrate alimentari di cui all’articolo 15 capoversi 1 e 1<sup>bis</sup>.
 
-[^39-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
-[^39-2]: Introdotto dal n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
-[^39-3]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
+[^39-1]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^39-2]: Introdotto dalla cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^39-3]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
 [^39-4]: [RS 916.51](https://fedlex.data.admin.ch/eli/cc/2003/738)
-[^39-5]: Introdotta dal n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^39-5]: Introdotta dalla cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
 [^39-6]: [RS 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
-[^39-7]: Introdotta dal n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^39-7]: Introdotta dalla cifra I dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 369](https://fedlex.data.admin.ch/eli/oc/2025/369)).
+[^39-8]: Introdotta dalla cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
 
 #### Art. 40
 
@@ -862,7 +873,7 @@ Il DFI disciplina:
 
 Nel commercio di materie prime, prodotti intermedi, semilavorati e derrate alimentari non destinate a essere consegnate direttamente ai consumatori (commercio intermedio), le indicazioni devono essere tali per cui le derrate alimentari possano essere composte e caratterizzate in conformità alla legge.
 
-[^40-1]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
+[^40-1]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
 
 #### Art. 41
 
@@ -975,7 +986,7 @@ Il DFI disciplina:
 
 <sup>2</sup> Non sono considerati materiali e oggetti quelli consegnati in qualità di articoli d’antiquariato.[^48-1]
 
-[^48-1]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
+[^48-1]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
 
 #### Art. 49
 
@@ -1350,7 +1361,7 @@ La garanzia della buona prassi igienica concerne in particolare:
 - g. la caratterizzazione di materie prime, prodotti intermedi e semilavorati nonché la dichiarazione dei prodotti finali.
 
 [^76-1]: [www.codexalimentarius.org &gt; Codex Texts &gt; Codes of Practice &gt; General Principles of Food Hygiene CXC 1-1969; modificato da ultimo nel 2020](http://www.codexalimentarius.org/).
-[^76-2]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^76-2]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
 
 #### Art. 77
 
@@ -1421,7 +1432,7 @@ Esse devono essere concordate con le cerchie interessate e:
 
 <sup>4</sup> Per le microaziende, esse possono stabilire requisiti semplificati relativi al controllo autonomo.
 
-[^80-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^80-1]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
 [^80-2]: [www.codexalimentarius.org &gt; Codex Texts &gt; Codes of Practice &gt; General Principles of Food Hygiene CXC 1-1969; modificato da ultimo nel 2020.](http://www.codexalimentarius.org/)
 
 ### Sezione 5: Campionatura e analisi
@@ -1436,7 +1447,7 @@ Esse devono essere concordate con le cerchie interessate e:
 
 <sup>3</sup> Il DFI può dichiarare vincolanti determinate procedure di analisi e di campionatura.[^81-1]
 
-[^81-1]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
+[^81-1]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
 
 #### Art. 82
 
@@ -1527,7 +1538,7 @@ Nel caso di acqua potabile e di acqua destinata a entrare in contatto con il cor
 
 [^chap4a-1]
 
-[^chap4a-1]: Introdotto dal n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
+[^chap4a-1]: Introdotto dalla cifra I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
 
 #### Art. 85a
 
@@ -1591,7 +1602,7 @@ Le aziende che fabbricano, trasformano, trattano, depositano o trasportano derra
 
 [^chap5-sec2-1]
 
-[^chap5-sec2-1]: Nuovo testo giusta il n. I dell’O del 28 mar. 2018, in vigore dal 1° mag. 2018 ([RU 2018 1243](https://fedlex.data.admin.ch/eli/oc/2018/199)).
+[^chap5-sec2-1]: Nuovo testo giusta la cifra I dell’O del 28 mar. 2018, in vigore dal 1° mag. 2018 ([RU 2018 1243](https://fedlex.data.admin.ch/eli/oc/2018/199)).
 
 #### Art. 90
 
@@ -1627,7 +1638,7 @@ Alle autorità responsabili dei controlli occorre mettere a disposizione:
 - a. risorse sufficienti in termini di personale e di logistica per lo scarico e la presentazione della spedizione;
 - b. attrezzatura idonea alla campionatura (p. es. mezzi di trasporto o imballaggi particolari), qualora le attrezzature standard non permettano di effettuare un prelievo rappresentativo.
 
-[^90-1]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
+[^90-1]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
 [^90-2]: [RS 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)
 [^90-3]: Cfr. nota a piè di pagina relativa all’art. 2 cpv. 4 lett. e.
 [^90-4]: Regolamento di esecuzione (UE) 2019/1715 della Commissione, del 30 settembre 2019, che stabilisce norme per il funzionamento del sistema per il trattamento delle informazioni per i controlli ufficiali e dei suoi elementi di sistema (il regolamento IMSOC), GU L 261 del 14.10.2019, pag. 37.
@@ -1651,7 +1662,7 @@ L’USAV può emanare disposizioni riguardanti:
 - a. la procedura che deve essere osservata per garantire la rintracciabilità;
 - b. i documenti che devono accompagnare le merci, se le autorità competenti devono prelevare campioni.
 
-[^91-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^91-1]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
 [^91-2]: [RS 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)
 [^91-3]: Regolamento di esecuzione (UE) 2019/1793 della Commissione, del 22 ottobre 2019, relativo all’incremento temporaneo dei controlli ufficiali e delle misure di emergenza che disciplinano l’ingresso nell’Unione di determinate merci provenienti da alcuni paesi terzi, e che attua i regolamenti (UE) 2017/625 e (CE) n. 178/2002 del Parlamento europeo e del Consiglio e abroga i regolamenti (CE) n. 669/2009, (UE) n. 884/2014, (UE) 2015/175, (UE) 2017/186 e (UE) 2018/1660 della Commissione, GU L 277 del 29.10.2019, pag. 89; modificato da ultimo dal regolamento di esecuzione (UE) 2021/1900, GU L 387 del 3.11.2021, pag. 78.
 
@@ -1671,7 +1682,7 @@ Il certificato ufficiale deve:
 
 <sup>3</sup> La campionatura e l’analisi per il certificato ufficiale devono essere eseguite conformemente alla parte II del certificato ufficiale di cui all’allegato IV del regolamento di esecuzione (UE) 2019/1793.
 
-[^91a-1]: Introdotto dal n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^91a-1]: Introdotto dalla cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
 [^91a-2]: Vedi nota a piè di pagina relativa all’art. 91 cpv. 3.
 
 ## Capitolo 6: Delega della competenza legislativa e procedura decisionale
@@ -1700,7 +1711,7 @@ Il DFI prevede quali delle sue prescrizioni amministrative o tecniche possano es
 
 <sup>2</sup> La modifica di altri atti legislativi è disciplinata nell’allegato.
 
-[^94-1]: [[RU 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746); [2006 4909](https://fedlex.data.admin.ch/eli/oc/2006/765); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 47; [2008 789](https://fedlex.data.admin.ch/eli/oc/2008/195), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 8, [5167](https://fedlex.data.admin.ch/eli/oc/2008/722)[6025](https://fedlex.data.admin.ch/eli/oc/2008/833); [2009 1611](https://fedlex.data.admin.ch/eli/oc/2009/233); [2010 4611](https://fedlex.data.admin.ch/eli/oc/2010/668); [2011 5273](https://fedlex.data.admin.ch/eli/oc/2011/761)art. 37, [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)all. 2 n. II 3; [2012 4713](https://fedlex.data.admin.ch/eli/oc/2012/572), [6809](https://fedlex.data.admin.ch/eli/oc/2012/824); [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 7, [3669](https://fedlex.data.admin.ch/eli/oc/2013/684); [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)all. 3 n. II 4, [2073](https://fedlex.data.admin.ch/eli/oc/2014/357)all. 11 n. 3; [2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)all. n. II 2; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)all. n. 5]
+[^94-1]: [[RU 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746); [2006 4909](https://fedlex.data.admin.ch/eli/oc/2006/765); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 47; [2008 789](https://fedlex.data.admin.ch/eli/oc/2008/195), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 8, [5167](https://fedlex.data.admin.ch/eli/oc/2008/722)[6025](https://fedlex.data.admin.ch/eli/oc/2008/833); [2009 1611](https://fedlex.data.admin.ch/eli/oc/2009/233); [2010 4611](https://fedlex.data.admin.ch/eli/oc/2010/668); [2011 5273](https://fedlex.data.admin.ch/eli/oc/2011/761)art. 37, [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)all. 2 cifra II 3; [2012 4713](https://fedlex.data.admin.ch/eli/oc/2012/572), [6809](https://fedlex.data.admin.ch/eli/oc/2012/824); [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)cifra I 7, [3669](https://fedlex.data.admin.ch/eli/oc/2013/684); [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)all. 3 cifra II 4, [2073](https://fedlex.data.admin.ch/eli/oc/2014/357)all. 11 n. 3; [2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)all. cifra II 2; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)all. n. 5]
 
 #### Art. 95
 
@@ -1731,9 +1742,9 @@ Per singoli settori, il DFI può prevedere periodi transitori divergenti:
 
 <sup>5</sup> Le autorizzazioni che secondo il diritto anteriore sono state rilasciate a tempo indeterminato devono essere rinnovate entro il 30 aprile 2021. Si estinguono se entro tale data non è stata presentata una domanda di rinnovo.
 
-[^95-1]: Abrogata dal n. I dell’O del 28 mar. 2018, con effetto dal 1° mag. 2018 ([RU 2018 1243](https://fedlex.data.admin.ch/eli/oc/2018/199)).
-[^95-2]: Introdotto dal n. I dell’O del 28 mar. 2018, in vigore dal 1° mag. 2018 ([RU 2018 1243](https://fedlex.data.admin.ch/eli/oc/2018/199)).
-[^95-3]: Nuovo testo giusta il n. I dell’O del 28 mar. 2018, in vigore dal 1° mag. 2018 ([RU 2018 1243](https://fedlex.data.admin.ch/eli/oc/2018/199)).
+[^95-1]: Abrogata dalla cifra I dell’O del 28 mar. 2018, con effetto dal 1° mag. 2018 ([RU 2018 1243](https://fedlex.data.admin.ch/eli/oc/2018/199)).
+[^95-2]: Introdotto dalla cifra I dell’O del 28 mar. 2018, in vigore dal 1° mag. 2018 ([RU 2018 1243](https://fedlex.data.admin.ch/eli/oc/2018/199)).
+[^95-3]: Nuovo testo giusta la cifra I dell’O del 28 mar. 2018, in vigore dal 1° mag. 2018 ([RU 2018 1243](https://fedlex.data.admin.ch/eli/oc/2018/199)).
 
 #### Art. 95a
 
@@ -1741,7 +1752,7 @@ Per singoli settori, il DFI può prevedere periodi transitori divergenti:
 
 Le derrate alimentari non conformi alla modifica del 27 maggio 2020 possono essere importate e fabbricate secondo il diritto anteriore sino al 30 giugno 2021 e consegnate ai consumatori fino a esaurimento delle scorte.
 
-[^95a-1]: Introdotto dal n. I dell’O del 16 apr. 2020 ([RU 2020 1243](https://fedlex.data.admin.ch/eli/oc/2020/237)). Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
+[^95a-1]: Introdotto dalla cifra I dell’O del 16 apr. 2020 ([RU 2020 1243](https://fedlex.data.admin.ch/eli/oc/2020/237)). Nuovo testo giusta la cifra I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
 
 #### Art. 95b
 
@@ -1760,7 +1771,15 @@ Fintanto che le lenti a contatto cosmetiche afocali possono essere commercializz
 
 <sup>2</sup> Il capoverso 1 non si applica agli articoli 91 e 91*a*.
 
-[^95c-1]: Introdotto dal n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9), [24](https://fedlex.data.admin.ch/eli/oc/2024/24)).
+[^95c-1]: Introdotto dalla cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9), [24](https://fedlex.data.admin.ch/eli/oc/2024/24)).
+
+#### Art. 95d
+
+**Disposizione transitoria della modifica del 28 maggio 2025**[^95d-1]
+
+Le derrate alimentari non conformi alla modifica del 28 maggio 2025 possono essere importate, fabbricate e caratterizzate secondo il diritto anteriore sino al 30 giugno 2027 ed essere consegnate ai consumatori fino a esaurimento delle scorte.
+
+[^95d-1]: Introdotto dalla cifra I dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 369](https://fedlex.data.admin.ch/eli/oc/2025/369)).
 
 #### Art. 96
 
@@ -1768,14 +1787,38 @@ Fintanto che le lenti a contatto cosmetiche afocali possono essere commercializz
 
 La presente ordinanza entra in vigore il 1° maggio 2017.
 
-Allegato
+Allegato 1[^t-1]
 
 (art. 94 cpv. 2)
 
 ## Modifica di altri atti normativi
 
+[^t-1]: Originario all.
+
 Le ordinanze qui appresso sono modificate come segue:
 
-…[^annexu1-lvlu1-1]
+…[^annex1-lvlu1-1]
 
-[^annexu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63).
+[^annex1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63).
+
+Allegato 2[^t-2]
+
+(art. 36 cpv. 1 lett. j)
+
+## Derrate alimentari per le quali deve essere fornita un’indicazione del metodo di produzione
+
+[^t-2]: Introdotto dalla cifra III dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 369](https://fedlex.data.admin.ch/eli/oc/2025/369)).
+
+<table>
+<tr><th>Derrata alimentare</th><th>Metodo di produzione</th><th>Indicazione</th></tr>
+<tr><td>Carne bovina (*Bos taurus*), intera o in pezzi, fresca o trasformata</td><td>Decornazione senza anestesia o castrazione senza anestesia</td><td>«Prodotta con interventi dolorosi senza ricorso all’anestesia.»</td></tr>
+<tr><td>Carne suina, intera o in pezzi, fresca o trasformata</td><td>Accorciamento della coda, resezione dei denti o castrazione senza anestesia</td><td>«Prodotta con interventi dolorosi senza ricorso all’anestesia.»</td></tr>
+<tr><td>Carne di pollo e tacchino, intera o in pezzi, fresca o trasformata</td><td>Taglio del becco senza anestesia</td><td>«Prodotta con interventi dolorosi senza ricorso all’anestesia.»</td></tr>
+<tr><td>Cosce di rana, fresche o trasformate</td><td>Sezionamento di cosce di rana senza stordimento</td><td>«Ottenute con interventi dolorosi senza ricorso all’anestesia.»</td></tr>
+<tr><td>Magret di cui all’articolo 1 numero 2 lettera m del regolamento (CE) n. 543/2008[^annex2-lvlu1-1], foie gras di cui all’articolo 1 numero 3 del regolamento (CE) n. 543/2008 e confit di oche e anatre di cui al punto 5.4.1.1 della Spécification technique n<sup>o</sup> B1‑19‑08 du ministère de l’économie, des finances et de l’emploi, Préparations de viandes, produits à base de viande de volaille ou de lapin, foies gras de volaille del gennaio 2008[^annex2-lvlu1-2], interi o in pezzi, freschi o trasformati</td><td>Alimentazione forzata di oche e anatre</td><td>«Ottenuto da oche alimentate forzatamente.» o «Ottenuto da anatre alimentate forzatamente.»</td></tr>
+<tr><td>Latte vaccino, pronto al consumo</td><td>Decornazione senza anestesia</td><td>«Prodotto con interventi dolorosi senza ricorso all’anestesia.»</td></tr>
+<tr><td>Uova di gallina domestica (*Gallus gallus domesticus*)</td><td>Taglio del becco senza anestesia</td><td>«Prodotte con interventi dolorosi senza ricorso all’anestesia.»</td></tr>
+</table>
+
+[^annex2-lvlu1-1]: Regolamento (CE) n. 543/2008 della Commissione, del 16 giugno 2008, recante modalità di applicazione del regolamento (CE) n. 1234/2007 del Consiglio per quanto riguarda le norme di commercializzazione per le carni di pollame, GU L 157 del 17.6.2008, pag. 46; modificato da ultimo dal regolamento (UE) n. 519/2013 del 21.2.2013, GU L 158 del 10.6.2013, pag. 74.
+[^annex2-lvlu1-2]: Consultabile all’indirizzo: www.economie.gouv.fr/daj &gt; Observatoire économique de la commande publique &gt; Liste des guides et recommandations des GEM (en vigueur et archives) &gt; Liste des guides et recommandations GEM en vigueur &gt; GEM – Restauration collective et nutrition &gt; Spécification technique – Préparations de viandes, produits à base de viande de volailles ou de lapins – Foies gras de volaille.
