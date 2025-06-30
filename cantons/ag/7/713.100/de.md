@@ -4,13 +4,12 @@ number: "713.100"
 title: Gesetz über Raumentwicklung und Bauwesen
 short: "Baugesetz, BauG"
 language: de
-version: 2025-04-01
-valid_until: 2025-06-30
-version_adopted: 2024-04-23
+version: 2025-07-01
+version_adopted: 2024-09-10
 adopted: 1993-01-19
 in_force: 1994-04-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/713.100"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3683/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3784/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3683/pdf_file"
 
 (Baugesetz, BauG)[^t-1]
 
-Vom 19.01.1993 (Stand 01.04.2025)
+Vom 19.01.1993 (Stand 01.07.2025)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -1789,13 +1788,15 @@ beschliesst:
 
 <sup>1</sup> Es sind alle Nachteile zu entschädigen, die dem Enteigneten aus dem Entzug oder der Beschränkung seiner Rechte erwachsen, nämlich:
 
-- a) der Verkehrswert;
+- a) der Verkehrswert; für Kulturland im Geltungsbereich des Bundesgesetzes über das bäuerliche Bodenrecht (BGBB) vom 4. Oktober 1991[^143-1] das 3-Fache des ermittelten Höchstpreises gemäss Art. 66 Abs. 1 BGBB;
 - b) bei einer Teilenteignung ein allfälliger Minderwert des Restes, soweit der Minderwert nicht durch besondere Vorteile aufgewogen wird, die sich aus dem Unternehmen des Enteigners ergeben;
 - c) zusätzliche Nachteile im übrigen Vermögen des Enteigneten, die nach dem gewöhnlichen Lauf der Dinge als Folge der Enteignung eintreten.
 
 <sup>2</sup> Bestehende Dienstbarkeiten, mit Ausnahme der Nutzniessung, und die im Grundbuch vorgemerkten Miet- und Pachtrechte sind bei der Bestimmung des Verkehrswertes mit in Anschlag zu bringen.
 
 <sup>3</sup> Die für andere im Grundbuch vorgemerkten persönlichen Rechte, wie Vorkaufs-, Rückkaufs- und Kaufsrechte, an die persönlich Berechtigten zu leistenden Entschädigungen sind von der Entschädigung an den Grundeigentümer abzuziehen.
+
+[^143-1]: SR [211.412.11](https://db.clex.ch/link/Bund/211.412.11/de)
 
 #### § 144
 
