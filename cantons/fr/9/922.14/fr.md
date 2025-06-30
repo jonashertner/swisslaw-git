@@ -3,13 +3,13 @@ canton: FR
 number: "922.14"
 title: Ordonnance concernant la chasse du sanglier
 language: fr
-version: 2024-07-01
-valid_until: 2025-06-30
-version_adopted: 2024-03-18
+version: 2025-07-01
+valid_until: 2026-05-31
+version_adopted: 2025-05-06
 adopted: 2026-03-17
 in_force: 2026-06-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/922.14"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7993/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8180/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7993/pdf_file"
 
 Chasse du sanglier – O
 
-du 18.03.2024 (version entrée en vigueur le 01.07.2024)
+du 06.05.2025 (version entrée en vigueur le 01.07.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -38,7 +38,7 @@ Arrête:
 
 **But et champ d'application**
 
-<sup>1</sup> La présente ordonnance a pour but d'ouvrir la période de chasse du sanglier au mois de juillet 2024, afin de réduire les dommages causés dans le domaine agricole.
+<sup>1</sup> La présente ordonnance a pour but d'ouvrir la période de chasse du sanglier au mois de juillet 2025, afin de réduire les dommages causés dans le domaine agricole.
 
 <sup>2</sup> Pour le reste, les législations fédérale et cantonale sur la chasse sont applicables.
 
@@ -46,7 +46,7 @@ Arrête:
 
 **Lieux**
 
-<sup>1</sup> La chasse du sanglier a lieu en plaine et en montagne dans les secteurs suivants: 0202, 0701, 0702, 0703, 0704, 0705, 0706, 0801, 0802, 1001, 1002, 1004, 1005, 1101, 1103, 1105, 1301, 1302, 1303, 1304, 1305, 1306, 1401, 1405, 1406, 1501, 1502, 1503 et 1504.
+<sup>1</sup> La chasse du sanglier a lieu en plaine et en montagne dans les secteurs suivants: 0202, 0501, 0503, 0701, 0702, 0703, 0704, 0705, 0706, 0801, 0802, 0803, 1001, 1002, 1004, 1005, 1101, 1103, 1105, 1301, 1302, 1303, 1304, 1305, 1306, 1401, 1405, 1406, 1501, 1502, 1503 et 1504.
 
 <sup>2</sup> La chasse est interdite en forêt ainsi que dans toutes les zones protégées pour les animaux sauvages mentionnées aux articles 29 et 36 de l'ordonnance du 21 juin 2016 concernant la protection des mammifères, des oiseaux sauvages et de leurs biotopes.
 
@@ -78,7 +78,7 @@ Arrête:
 
 <sup>1</sup> La participation à la chasse d'été du sanglier est subordonnée à l'acquisition du permis de base ainsi que d'un permis spécial, moyennant paiement d'une taxe de 50 francs.
 
-<sup>2</sup> Le permis spécial peut être demandé auprès de la préfecture du 15 au 30 juin 2024.
+<sup>2</sup> Le permis spécial peut être demandé auprès de la préfecture du 15 au 30 juin 2025.
 
 #### Art. 7
 
@@ -86,12 +86,12 @@ Arrête:
 
 <sup>1</sup> Le tir d'un sanglier doit être annoncé, au plus tard jusqu'à la fin des horaires de chasse mentionnés à l'article 5 al. 1 et 2, par un appel téléphonique au ou à la garde-faune de la région qui décide et organise si nécessaire le contrôle.
 
-<sup>2</sup> Tout tir doit être annoncé immédiatement au Centre d'engagement et d'alarme de la Police cantonale (CEA, T +41 26 304 17 17).
+<sup>2</sup> Tout tir doit être annoncé immédiatement au Centre d'engagement et d'alarme de la Police cantonale (CEA, T +41 26 347 01 17).
 
 #### Art. 8
 
 **Dispositions pénales**
 
-<sup>1</sup> Constituent des contraventions, au sens de l'article 54 al. 1 let. b et al. 3 LCha, les infractions aux articles 2 à 7 de la présente ordonnance.
+<sup>1</sup> Constituent des contraventions, au sens de l'article 54 al. 1 let. b et 3 [LCha](https://bdlf.fr.ch/data/922.1/fr), les infractions aux articles 2 à 7 de la présente ordonnance.
 
-2024\_025
+2025\_024
