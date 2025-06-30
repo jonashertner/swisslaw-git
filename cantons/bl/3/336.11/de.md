@@ -3,20 +3,19 @@ canton: BL
 number: "336.11"
 title: Verordnung über die Wehrpflichtersatzabgabe
 language: de
-version: 2024-01-01
-valid_until: 2025-06-30
-version_adopted: 2023-08-29
+version: 2025-07-01
+version_adopted: 2025-05-13
 adopted: 2005-09-27
 in_force: 2005-10-01
 url: "https://bl.clex.ch/app/de/texts_of_law/336.11"
-pdf: "https://bl.clex.ch/api/de/versions/3709/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4265/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Wehrpflichtersatzabgabe
 
-Vom 27.09.2005 (Stand 01.01.2024)
+Vom 27.09.2005 (Stand 01.07.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf Artikel 74 Absatz 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1], beschliesst:
 
@@ -67,11 +66,11 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf Artikel 74 Absatz 
 
 **Rekursinstanz**
 
-<sup>1</sup> Rekursinstanz ist das Steuer- und Enteignungsgericht des Kantons Basel-Landschaft (Abteilung Steuergericht).
+<sup>1</sup> Rekursinstanz ist das Kantonsgericht des Kantons Basel-Landschaft (Abteilung Verfassungs- und Verwaltungsrecht).
 
-<sup>2</sup> Die §§ 125 - 130 des Steuergesetzes[^4-1] sind sinngemäss anwendbar.
+<sup>2</sup> § 130 des Steuergesetzes[^4-1] ist sinngemäss anwendbar.
 
-[^4-1]: GS 25.427, SGS 331
+[^4-1]: [SGS 331](https://bl.clex.ch/data/331/de/art130)
 
 #### § 5
 
