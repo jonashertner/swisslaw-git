@@ -3,13 +3,12 @@ canton: BS
 number: "118.400"
 title: Vereinbarung über die Nordwestschweizer Regierungskonferenz
 language: de
-version: 2012-07-01
-valid_until: 2025-06-30
-version_adopted: 2012-06-08
+version: 2025-07-01
+version_adopted: 2025-06-13
 adopted: 2004-06-11
 in_force: 2004-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/118.400"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6612/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6613/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6612/pdf_file"
 
 Regionale Zusammenarbeit
 
-Vom 11. Juni 2004 (Stand 1. Juli 2012)
+Vom 11. Juni 2004 (Stand 1. Juli 2025)
 
 Die Regierungen der Kantone Solothurn, Basel-Stadt, Basel-Landschaft, Aargau und Jura
 
@@ -59,6 +58,8 @@ schliessen folgende Vereinbarung ab:
 
 <sup>3</sup> Die Behandlung von dringenden Fragen erfolgt im Rahmen des Arbeitsausschusses.
 
+<sup>4</sup> Der Arbeitsausschuss kann eine ausserordentliche Plenarkonferenz einberufen oder einen Zirkularbeschluss aller fünf Regierungen anstreben.
+
 #### § 5
 
 <sup>1</sup> Die Plenarkonferenz wählt im Turnus unter den Kantonen Solothurn, Basel-Stadt, Basel-Landschaft, Aargau und Jura ein Regierungsmitglied als Vorsitzenden oder als Vorsitzende. Der stellvertretende Vorsitz wird durch den nachfolgenden Vorsitzkanton wahrgenommen.
@@ -85,7 +86,7 @@ schliessen folgende Vereinbarung ab:
 
 <sup>4</sup> Zur Behandlung einzelner Geschäfte kann der Arbeitsausschuss Arbeitsgruppen oder Beauftragte einsetzen.
 
-<sup>5</sup> Der Vorsitzende wird in den Leitenden Ausschuss der Konferenz der Kantonsregierungen delegiert.
+<sup>5</sup> Der Arbeitsausschuss delegiert eines seiner Mitglieder jeweils für maximal vier Jahre in den Leitenden Ausschuss der Konferenz der Kantonsregierungen.
 
 #### § 8
 
