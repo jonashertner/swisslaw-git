@@ -3,20 +3,20 @@ canton: AG
 number: "421.313"
 title: Verordnung über die Volksschule
 language: de
-version: 2024-11-01
-valid_until: 2025-06-30
-version_adopted: 2024-09-18
+version: 2025-07-01
+valid_until: 2025-07-31
+version_adopted: 2025-05-07
 adopted: 2012-06-27
 in_force: 2013-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/421.313"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3660/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3819/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Volksschule
 
-Vom 27.06.2012 (Stand 01.11.2024)
+Vom 27.06.2012 (Stand 01.07.2025)
 
 Der Regierungsrat des Kantons Aargau,
 
