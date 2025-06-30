@@ -4,7 +4,7 @@ number: "142.21"
 title: "LOI du 07.03.2006 sur l'aide aux requérants d'asile et à certaines catégories d'étrangers (LARA)"
 short: LARA
 language: fr
-version: 2022-01-01
+version: 2025-07-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/142.21?id=8b402f66-4535-47e0-943f-0e314536c811"
 ---
 
@@ -400,22 +400,32 @@ décrète
 
 <sup>1</sup> Les demandeurs d'asile sont en principe hébergés dans des centres d'accueil ou dans des appartements.
 
-<sup>2</sup> En cas d'afflux massif et inattendu de demandeurs d'asile, le département en charge de l'asile peut ordonner l'ouverture d'abris de protection civile afin d'héberger les personnes visées à l'article 2. En principe, les demandeurs d'asile ne doivent pas séjourner plus de six mois dans une telle structure.
+<sup>2</sup> En cas d'afflux massif et inattendu de demandeurs d'asile, afin d'héberger les personnes visées à l'article 2, le département en charge de l'asile peut :
 
-<sup>3</sup> Si les mesures prévues à l'alinéa 2 ne suffisent pas, le département en charge de l'asile peut en outre installer ou construire des centres d'accueils temporaires. Dans ce cas, le permis de construire est délivré par le département en charge de l'aménagement du territoire. Les dispositions de la loi sur l'aménagement du territoire et les constructions relatives au permis de construire sont au surplus applicables.
+- a. faire installer ou construire des centres d'accueil temporaires ;
+- b. ordonner l'ouverture d'abris de protection civile. En principe, les demandeurs d'asile ne doivent pas séjourner plus de six mois dans une telle structure. Les femmes, les mineurs et les personnes atteintes dans leur santé n'y sont en principe pas hébergés.
 
-<sup>4</sup> Dans les cas prévus à l'alinéa 3, le département en charge de l'aménagement du territoire peut, si nécessaire, admettre des dérogations temporaires d'une année au maximum, renouvelables, aux dispositions de la LATC, à ses dispositions d'application et aux règlements communaux concernant :
+<sup>3</sup> Dans le cas prévu à l'alinéa 2 lettre a, le permis de construire est délivré par le département en charge de l'aménagement du territoire. Les dispositions de la loi sur l'aménagement du territoire et les constructions relatives au permis de construire sont au surplus applicables.
+
+<sup>4</sup> Le département en charge de l'aménagement du territoire peut, si nécessaire, admettre des dérogations temporaires aux dispositions de la LATC, à ses dispositions d'application et aux règlements communaux pour une durée de cinq ans pouvant être prolongée une seule fois de trois ans concernant :
 
 - a. l'affectation des bâtiments existants ;
-- b. les normes constructives.
+- b. les normes constructives ;
+- c. l'affectation de la zone, pour autant qu'il s'agisse d'une zone à bâtir au sens de l'article 15 LAT.
+
+<sup>4bis</sup> Le délai absolu de huit ans visé à l'alinéa 4 s'applique dès l'entrée en vigueur de la présente loi. Les demandes de dérogations temporaires pendantes auprès du département en charge de l'aménagement du territoire au moment de l'entrée en vigueur de la présente loi sont traitées selon le nouveau droit. Celles accordées sous l'empire de l'ancienne loi peuvent être renouvelées pour une durée allant jusqu'à trois ans pouvant être prolongée pour une durée maximale cumulée de huit ans.
 
 <sup>5</sup> Les décisions prises en vertu des alinéas 3 et 4 veillent à assurer la sécurité des personnes et la salubrité.
 
 <sup>6</sup> Le département en charge de l'aménagement du territoire délivre le permis d'habiter.
 
-<sup>7</sup> Le département en charge de l'aménagement du territoire consulte au préalable les parties concernées, en particulier les communes.
+<sup>7</sup> L'Etablissement consulte au préalable les parties concernées, en particulier les communes, au sujet des projets de centres d'accueil temporaires.
+
+<sup>7bis</sup> L'Etablissement se coordonne avec les communes concernées lors de la mise en œuvre de l'ouverture de centres d'accueil temporaires.
 
 <sup>8</sup> Les décisions du département en charge de l'aménagement du territoire sont susceptibles de recours. L'effet suspensif est retiré à un éventuel recours.
+
+<sup>9</sup> Les alinéas 3 à 8 s'appliquent également si, à la suite d'un afflux massif et inattendu de demandeurs d'asile, le canton ou des communes se voient contraints d'installer ou de construire des infrastructures scolaires temporaires. Dans ces cas, le préavis positif du département en charge de l'enseignement est requis.
 
 [^sectionSectionI-1]: Modif. 5 du 26.11.2019: Modification Al. 2; entrée en vigueur au 01.01.2022; Introduction Al. 3-8; entrée en vigueur au 01.01.2022 · Modif. 6 du 25.03.2025: Modification Al. 2; entrée en vigueur au 01.07.2025; Introduction Al. 2, a-b; entrée en vigueur au 01.07.2025; Modification Al. 3-4; entrée en vigueur au 01.07.2025; Modification Al. 4, a-b; entrée en vigueur au 01.07.2025; Introduction Al. 4, c; entrée en vigueur au 01.07.2025; Introduction Al. 4bis; entrée en vigueur au 01.07.2025; Modification Al. 7; entrée en vigueur au 01.07.2025; Introduction Al. 7bis,9; entrée en vigueur au 01.07.2025
 
