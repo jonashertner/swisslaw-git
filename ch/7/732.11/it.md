@@ -4,11 +4,11 @@ title: "Ordinanza del 10 dicembre 2004 sull'energia nucleare (OENu)"
 short: OENu
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/68"
 language: it
-version: 2024-07-01
+version: 2025-07-01
 adopted: 2004-12-10
 in_force: 2005-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2005-68-20240701-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2005-68-20250701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20250701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20240701/it"
 
 (OENu)
 
-del 10 dicembre 2004 (Stato 1° luglio 2024)
+del 10 dicembre 2004 (Stato 1° luglio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -64,7 +64,7 @@ Non sono considerati materiali nucleari:
 - b. i materiali grezzi e i prodotti ricavati dai materiali grezzi che non vengono utilizzati per la produzione di energia mediante processi di fissione nucleare, segnatamente schermi di protezione, sonde per strumenti di misura, composti ceramici e leghe;
 - c. i materiali fissili speciali fino a un quantitativo di 15 g nonché i prodotti ricavati dai materiali fissili speciali che non vengono utilizzati per la produzione di energia mediante processi di fissione nucleare, segnatamente sonde per strumenti di misura e altri prodotti finiti dai quali i materiali fissili speciali possono essere recuperati unicamente con un dispendio di mezzi tecnici o economici sproporzionato.
 
-[^1-1]: Nuovo testo giusta l’all. 6 n. II 2 dell’O del 21 mar. 2012 sull’applicazione delle salvaguardie, in vigore dal 1° mag. 2012 ([RU 2012 1703](https://fedlex.data.admin.ch/eli/oc/2012/245)).
+[^1-1]: Nuovo testo giusta l’all. 6 cifra II n. 2 dell’O del 21 mar. 2012 sull’applicazione delle salvaguardie, in vigore dal 1° mag. 2012 ([RU 2012 1703](https://fedlex.data.admin.ch/eli/oc/2012/245)).
 
 #### Art. 2
 
@@ -83,7 +83,7 @@ Non sono considerati impianti nucleari gli impianti in cui vengono ottenuti, pro
 <sup>2</sup> L’Ufficio federale dell’energia (Ufficio federale) accerta se i materiali grezzi adempiono i requisiti di cui al capoverso 1 lettera b.
 
 [^2-1]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
-[^2-2]: Introdotto dal n. I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
+[^2-2]: Introdotto dalla cifra I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
 
 #### Art. 3
 
@@ -151,9 +151,9 @@ Nella progettazione di un impianto nucleare ai sensi dell’articolo 7 lettera c
 <sup>6</sup> Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (Dipartimento) fissa in un’ordinanza le ipotesi specifiche di pericolo e i criteri di valutazione.
 
 [^8-1]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
-[^8-2]: Nuovo testo giusta il n. I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
-[^8-3]: Introdotto dal n. I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
-[^8-4]: Nuovo testo giusta il n. I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
+[^8-2]: Nuovo testo giusta la cifra I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
+[^8-3]: Introdotto dalla cifra I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
+[^8-4]: Nuovo testo giusta la cifra I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
 
 #### Art. 9
 
@@ -217,7 +217,7 @@ L’IFSN è incaricato di disciplinare mediante direttive:
 - a. principi specifici per la progettazione dei depositi in strati geologici profondi;
 - b. i requisiti della prova della sicurezza a lungo termine di tali depositi.[^11-1]
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 280](https://fedlex.data.admin.ch/eli/oc/2024/280)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 280](https://fedlex.data.admin.ch/eli/oc/2024/280)).
 
 #### Art. 12
 
@@ -249,7 +249,7 @@ L’Ufficio federale è competente per il rilascio:
 - b.[^13-2] dell’approvazione di convenzioni sul ritiro di scorie radioattive.
 
 [^13-1]: Introdotta dall’all. 8 n. 1 dell’O del 3 giu. 2016 sul controllo dei beni a duplice impiego, in vigore dal 1° lug. 2016 ([RU 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)).
-[^13-2]: Nuovo testo giusta il n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7107](https://fedlex.data.admin.ch/eli/oc/2017/768)).
+[^13-2]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7107](https://fedlex.data.admin.ch/eli/oc/2017/768)).
 
 #### Art. 14
 
@@ -448,7 +448,7 @@ Deve a tal fine fornire la seguente documentazione:
 
 <sup>3</sup> L’IFSN è incaricato di disciplinare mediante direttive il genere, il contenuto, la forma e il numero di esemplari della necessaria documentazione.[^24-2]
 
-[^24-1]: Abrogata dal n. I dell’O del 1° nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 7107](https://fedlex.data.admin.ch/eli/oc/2017/768)).
+[^24-1]: Abrogata dalla cifra I dell’O del 1° nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 7107](https://fedlex.data.admin.ch/eli/oc/2017/768)).
 [^24-2]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 25
@@ -602,6 +602,17 @@ Il titolare della licenza è tenuto ad allestire programmi sistematici per la ma
 
 <sup>4</sup> Il titolare della licenza deve documentare e valutare periodicamente i risultati della manutenzione. All’occorrenza, deve completare i programmi.
 
+#### Art. 32a
+
+**Controlli di affidabilità**[^32a-1]
+
+<sup>1</sup> I controlli periodici di affidabilità di persone impiegate in funzioni essenziali per la sicurezza interna ed esterna degli impianti nucleari sono disciplinati nell’ordinanza dell’8 novembre 2023[^32a-2] sul controllo di sicurezza relativo alle persone (OCSP).
+
+<sup>2</sup> I costi del controllo sono assunti dal servizio promotore di cui all’articolo 15 capoverso 4 lettera a OCSP.
+
+[^32a-1]: Originario art. 33*a*. Introdotto dall’all. 8 cifra II n. 7 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, in vigore dal 1° gen. 2024 ([RU 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^32a-2]: [RS 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
+
 #### Art. 33
 
 **Valutazioni sistematiche della sicurezza interna ed esterna**
@@ -630,14 +641,13 @@ Deve allestire valutazioni sistematiche della sicurezza esterna nei seguenti set
 
 #### Art. 33a
 
-**Controlli di affidabilità**[^33a-1]
+**Valutazioni sistematiche approfondite della sicurezza per gli impianti nucleari diversi dalle centrali nucleari**[^33a-1]
 
-<sup>1</sup> I controlli periodici di affidabilità di persone impiegate in funzioni essenziali per la sicurezza interna ed esterna degli impianti nucleari sono disciplinati nell’ordinanza dell’8 novembre 2023[^33a-2] sul controllo di sicurezza relativo alle persone (OCSP).
+<sup>1</sup> Il titolare di una licenza d’esercizio per un impianto nucleare diverso da una centrale nucleare, oltre a effettuare le valutazioni sistematiche della sicurezza secondo l’articolo 33 capoverso 1, deve procedere ogni dieci anni a una valutazione sistematica approfondita della sicurezza.
 
-<sup>2</sup> I costi del controllo sono assunti dal servizio promotore di cui all’articolo 15 capoverso 4 lettera a OCSP.
+<sup>2</sup> L’IFSN è incaricato di disciplinare mediante direttive i requisiti dettagliati concernenti la valutazione sistematica approfondita della sicurezza.
 
-[^33a-1]: Introdotto dall’all. 8 n. II 7 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, in vigore dal 1° gen. 2024 ([RU 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
-[^33a-2]: [RS 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
+[^33a-1]: Introdotto dalla cifra I dell’O del 21 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 384](https://fedlex.data.admin.ch/eli/oc/2025/384)).
 
 #### Art. 34
 
@@ -660,7 +670,7 @@ A tale scopo deve:
 
 <sup>5</sup> L’IFSN disciplina mediante direttive i requisiti dettagliati concernenti la VPS. Può prevedere agevolazioni per le centrali nucleari per il periodo successivo alla messa fuori servizio definitiva oppure esonerarle integralmente dall’obbligo di presentare una VPS.
 
-[^34-1]: Nuovo testo giusta il n. I dell’O del 26 apr. 2017, in vigore dal 1° giu. 2017 ([RU 2017 2829](https://fedlex.data.admin.ch/eli/oc/2017/292)).
+[^34-1]: Nuovo testo giusta la cifra I dell’O del 26 apr. 2017, in vigore dal 1° giu. 2017 ([RU 2017 2829](https://fedlex.data.admin.ch/eli/oc/2017/292)).
 
 #### Art. 34a
 
@@ -677,7 +687,7 @@ La prova della sicurezza per l’esercizio a lungo termine contiene segnatamente
 
 <sup>2</sup> L’IFSN disciplina mediante direttive i requisiti dettagliati concernenti la prova della sicurezza per l’esercizio a lungo termine.
 
-[^34a-1]: Introdotto dal n. I dell’O del 26 apr. 2017, in vigore dal 1° giu. 2017 ([RU 2017 2829](https://fedlex.data.admin.ch/eli/oc/2017/292)).
+[^34a-1]: Introdotto dalla cifra I dell’O del 26 apr. 2017, in vigore dal 1° giu. 2017 ([RU 2017 2829](https://fedlex.data.admin.ch/eli/oc/2017/292)).
 
 #### Art. 35
 
@@ -785,7 +795,7 @@ Egli notifica senza indugio all’IFSN i seguenti eventi e riscontri:
 <sup>3</sup> Per ogni evento o riscontro presenta senza indugio all’IFSN un rapporto entro 30 giorni. Il rapporto deve essere classificato.
 
 [^39-1]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
-[^39-2]: Abrogata dal n. I dell’O del 31 mag. 2024, con effetto dal 1° lug. 2024 ([RU 2024 280](https://fedlex.data.admin.ch/eli/oc/2024/280)).
+[^39-2]: Abrogata dalla cifra I dell’O del 31 mag. 2024, con effetto dal 1° lug. 2024 ([RU 2024 280](https://fedlex.data.admin.ch/eli/oc/2024/280)).
 
 #### Art. 40
 
@@ -882,7 +892,7 @@ Il titolare di una licenza d’esercizio deve mettere senza indugio fuori serviz
 
 <sup>3</sup> Il Dipartimento fissa in un’ordinanza la metodica e le condizioni marginali per la verifica dei criteri.
 
-[^44-1]: Nuovo testo giusta il n. I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
+[^44-1]: Nuovo testo giusta la cifra I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
 
 ### Sezione 5: Disattivazione
 
@@ -928,8 +938,8 @@ La decisione di disattivazione disciplina l’obbligo del nullaosta segnatamente
 - e. la revoca di provvedimenti di sicurezza esterna;
 - f. in caso di disattivazione di centrali nucleari, anche lo smontaggio del recipiente in pressione del reattore e delle parti dell’edificio circostanti.
 
-[^47-1]: Nuovo testo giusta il n. I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
-[^47-2]: Nuovo testo giusta il n. I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
+[^47-1]: Nuovo testo giusta la cifra I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
+[^47-2]: Nuovo testo giusta la cifra I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
 
 #### Art. 48
 
@@ -981,7 +991,7 @@ Le scorie radioattive devono venir suddivise in vista del loro smaltimento nelle
 
 Le scorie radioattive possono contenere sostanze chimico-tossiche e chimico-reattive, purché la loro presenza permetta uno smaltimento sicuro.
 
-[^51a-1]: Introdotto dal n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 280](https://fedlex.data.admin.ch/eli/oc/2024/280)).
+[^51a-1]: Introdotto dalla cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 280](https://fedlex.data.admin.ch/eli/oc/2024/280)).
 
 #### Art. 51a<sup>bis</sup>
 
@@ -992,7 +1002,7 @@ Non rientrano nell’obbligo di smaltimento di cui all’articolo 31 LENu:
 - a. le scorie radioattive a bassa attività che sono immesse nell’ambiente conformemente agli articoli 111–116 ORaP[^51abis-2];
 - b. le scorie radioattive che sono destinate allo stoccaggio per il decadimento radioattivo conformemente all’articolo 117 ORaP.
 
-[^51abis-1]: Originario art. 51*a*. Introdotto dal n. I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
+[^51abis-1]: Originario art. 51*a*. Introdotto dalla cifra I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
 [^51abis-2]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
 
 #### Art. 52
@@ -1036,7 +1046,7 @@ Chi è soggetto all’obbligo di smaltimento delle scorie indica nel relativo pr
 
 <sup>3</sup> L’IFSN è incaricato di disciplinare mediante direttive i requisiti dettagliati per il declassamento e per l’obbligo di notifica.[^53-3]
 
-[^53-1]: Nuovo testo giusta il n. I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
+[^53-1]: Nuovo testo giusta la cifra I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
 [^53-2]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 [^53-3]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
@@ -1084,8 +1094,8 @@ L’Ufficio federale è competente per il rilascio:
 <sup>3</sup> Il Dipartimento è competente della conclusione dell’accordo internazionale di cui all’articolo 34 capoverso 3 lettera a LENu in caso di esportazione di scorie a bassa e media attività a scopo di condizionamento.[^55-3]
 
 [^55-1]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
-[^55-2]: Introdotto dal n. I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
-[^55-3]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 765](https://fedlex.data.admin.ch/eli/oc/2023/765)).
+[^55-2]: Introdotto dalla cifra I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
+[^55-3]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 765](https://fedlex.data.admin.ch/eli/oc/2023/765)).
 
 #### Art. 56
 
@@ -1391,7 +1401,7 @@ Le seguenti ordinanze sono abrogate:
 
 [^80-1]: [[RU 1979 972](https://fedlex.data.admin.ch/eli/oc/1979/972_972_972)]
 [^80-2]: [[RU 1989 2476](https://fedlex.data.admin.ch/eli/oc/1989/2476_2476_2476)]
-[^80-3]: [[RU 1984 209](https://fedlex.data.admin.ch/eli/oc/1984/209_209_209); [1987 546](https://fedlex.data.admin.ch/eli/oc/1987/546_546_546), [1484](https://fedlex.data.admin.ch/eli/oc/1987/1484_1484_1484); [1991 1450](https://fedlex.data.admin.ch/eli/oc/1991/1450_1450_1450); [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)all. n. 10; [1994 140](https://fedlex.data.admin.ch/eli/oc/1994/140_140_140); [1995 4959](https://fedlex.data.admin.ch/eli/oc/1995/4959_4959_4959); [1996 208](https://fedlex.data.admin.ch/eli/oc/1996/208_208_208)art. 2 lett. g, [2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)n. I 65; [1997 2128](https://fedlex.data.admin.ch/eli/oc/1997/2128_2128_2128); [2002 349](https://fedlex.data.admin.ch/eli/oc/2002/78)n. I art. 29]
+[^80-3]: [[RU 1984 209](https://fedlex.data.admin.ch/eli/oc/1984/209_209_209); [1987 546](https://fedlex.data.admin.ch/eli/oc/1987/546_546_546), [1484](https://fedlex.data.admin.ch/eli/oc/1987/1484_1484_1484); [1991 1450](https://fedlex.data.admin.ch/eli/oc/1991/1450_1450_1450); [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)all. n. 10; [1994 140](https://fedlex.data.admin.ch/eli/oc/1994/140_140_140); [1995 4959](https://fedlex.data.admin.ch/eli/oc/1995/4959_4959_4959); [1996 208](https://fedlex.data.admin.ch/eli/oc/1996/208_208_208)art. 2 lett. g, [2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)cifra I n. 65; [1997 2128](https://fedlex.data.admin.ch/eli/oc/1997/2128_2128_2128); [2002 349](https://fedlex.data.admin.ch/eli/oc/2002/78)cifra I art. 29]
 [^80-4]: [[RU 1983 283](https://fedlex.data.admin.ch/eli/oc/1983/283_283_283)]
 
 #### Art. 81
@@ -1412,7 +1422,7 @@ Nel definire la portata del riequipaggiamento di impianti nucleari che sono stat
 
 Su richiesta, l’IFSN può prorogare al massimo fino alla fine del 2019 il termine di inoltro della VPS corredata di una prova della sicurezza per l’esercizio a lungo termine ai sensi dell’articolo 34 capoverso 4 in combinato disposto con l’articolo 34 capoverso 3.
 
-[^82a-1]: Introdotto dal n. I dell’O del 26 apr. 2017, in vigore dal 1° giu. 2017 ([RU 2017 2829](https://fedlex.data.admin.ch/eli/oc/2017/292)).
+[^82a-1]: Introdotto dalla cifra I dell’O del 26 apr. 2017, in vigore dal 1° giu. 2017 ([RU 2017 2829](https://fedlex.data.admin.ch/eli/oc/2017/292)).
 
 #### Art. 83
 
@@ -1457,7 +1467,7 @@ Allegato 2[^t-2]
 
 La disposizione delle zone o aree e delle barriere rilevanti per la sicurezza esterna deve avvenire in maniera scaglionata secondo il seguente schema:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20240701/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20250701/it/xml/image/image1.png)
 
 Le diverse barriere di sicurezza esterna assolvono le seguenti funzioni:
 
@@ -1480,9 +1490,9 @@ Il valore di resistenza di una barriera di sicurezza esterna deve sostanzialment
 <tr><th></th><th></th><th>I</th><th>II</th><th>III</th></tr>
 <tr><td>1. Plutonio<sup>a</sup></td><td>Non irradiato<sup>b</sup></td><td>2 kg o più</td><td>meno di 2 kg, ma oltre 500 g</td><td>500 g o meno, ma oltre 15 g</td></tr>
 <tr><td>2. Uranio-235</td><td>Non irradiato<sup>b</sup></td><td></td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>– uranio arricchito con tenore in <sup>235</sup>U del 20 % o più</td><td>5 kg o più</td><td>meno di 5 kg, ma oltre 1 kg</td><td>1 kg o meno, ma oltre 15 g</td></tr>
-<tr><td>[tab]</td><td>– uranio arricchito con tenore in <sup>235</sup>U tra il 10 % e il 20 %</td><td>–</td><td>10 kg o più</td><td>meno di 10 kg, ma oltre 1 kg</td></tr>
-<tr><td>[tab]</td><td>– uranio arricchito con tenore in <sup>235</sup>U superiore al tenore naturale, ma inferiore al 10 %</td><td>–</td><td>–</td><td>10 kg o più</td></tr>
+<tr><td></td><td>– uranio arricchito con tenore in <sup>235</sup>U del 20 % o più</td><td>5 kg o più</td><td>meno di 5 kg, ma oltre 1 kg</td><td>1 kg o meno, ma oltre 15 g</td></tr>
+<tr><td></td><td>– uranio arricchito con tenore in <sup>235</sup>U tra il 10 % e il 20 %</td><td>–</td><td>10 kg o più</td><td>meno di 10 kg, ma oltre 1 kg</td></tr>
+<tr><td></td><td>– uranio arricchito con tenore in <sup>235</sup>U superiore al tenore naturale, ma inferiore al 10 %</td><td>–</td><td>–</td><td>10 kg o più</td></tr>
 <tr><td>3. Uranio-233</td><td>Non irradiato<sup>b</sup></td><td>2 kg o più</td><td>meno di 2 kg, ma oltre 500 g</td><td>500 g o meno, ma oltre 15 g</td></tr>
 <tr><td>4. Combustibile irradiato</td><td></td><td></td><td>Uranio naturale o impoverito, torio o combustibile debolmente arricchito (tenore di prodotto fissile inferiore al 10 %)</td><td></td></tr>
 <tr><td>5. Scorie radioattive</td><td>Vetrificate</td><td></td><td>Altamente radioattive</td><td></td></tr>

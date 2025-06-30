@@ -4,11 +4,11 @@ title: "Ordonnance du 10 décembre 2004 sur l'énergie nucléaire (OENu)"
 short: OENu
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/68"
 language: fr
-version: 2024-07-01
+version: 2025-07-01
 adopted: 2004-12-10
 in_force: 2005-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2005-68-20240701-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2005-68-20250701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20240701/fr"
 
 (OENu)
 
-du 10 décembre 2004 (État le 1<sup>er</sup> juillet 2024)
+du 10 décembre 2004 (État le 1<sup>er</sup> juillet 2025)
 
 Le Conseil fédéral suisse,
 
@@ -602,6 +602,17 @@ Le détenteur de l’autorisation doit élaborer des programmes systématiques d
 
 <sup>4</sup> Le détenteur de l’autorisation doit consigner les résultats de la maintenance et les évaluer régulièrement. Au besoin, il doit compléter les programmes.
 
+#### Art. 32a
+
+**Contrôles de fiabilité**[^32a-1]
+
+<sup>1</sup> Les contrôles de fiabilité périodiques des personnes exerçant des fonctions essentielles pour la sécurité nucléaire et pour la sûreté de l’installation nucléaire sont régis par l’ordonnance du 8 novembre 2023 sur les contrôles de sécurité relatifs aux personnes (OCSP)[^32a-2].
+
+<sup>2</sup> Les coûts du contrôle sont à la charge du service qui demande le contrôle visé à l’art. 15, al. 4, let. a, OCSP.
+
+[^32a-1]: Anciennement art.33*a*. Introduit par l’annexe 8 ch. II 7 de l’O du 8 nov. 2023 sur les contrôles de sécurité relatifs aux personnes, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^32a-2]: [RS 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
+
 #### Art. 33
 
 **Appréciations systématiques de la sécurité et de la sûreté**
@@ -630,14 +641,13 @@ Il doit établir des appréciations systématiques:
 
 #### Art. 33a
 
-**Contrôles de fiabilité**[^33a-1]
+**Appréciations systématiques et approfondies de la sécurité pour les installations nucléaires autres que des centrales nucléaires**[^33a-1]
 
-<sup>1</sup> Les contrôles de fiabilité périodiques des personnes exerçant des fonctions essentielles pour la sécurité nucléaire et pour la sûreté de l’installation nucléaire sont régis par l’ordonnance du 8 novembre 2023 sur les contrôles de sécurité relatifs aux personnes (OCSP)[^33a-2].
+<sup>1</sup> Le détenteur d’une autorisation d’exploiter pour une installation nucléaire autre qu’une centrale nucléaire doit par ailleurs établir une appréciation systématique et approfondie de la sécurité tous les 10 ans en plus des appréciations systématiques de la sécurité visées à l’art. 33, al. 1.
 
-<sup>2</sup> Les coûts du contrôle sont à la charge du service qui demande le contrôle visé à l’art. 15, al. 4, let. a, OCSP.
+<sup>2</sup> L’IFSN est chargée de régler dans des directives les exigences auxquelles doivent répondre les appréciations systématiques et approfondies de la sécurité.
 
-[^33a-1]: Introduit par l’annexe 8 ch. II 7 de l’O du 8 nov. 2023 sur les contrôles de sécurité relatifs aux personnes, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
-[^33a-2]: [RS 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
+[^33a-1]: Introduit par le ch. I de l’O du 21 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 384](https://fedlex.data.admin.ch/eli/oc/2025/384)).
 
 #### Art. 34
 
@@ -1457,7 +1467,7 @@ Annexe 2[^t-2]
 
 Il convient d’aménager des zones et des aires de sûreté ainsi que des barrières de sûreté, échelonnées selon le schéma ci-dessous:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20240701/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20250701/fr/xml/image/image1.png)
 
 Les différentes barrières de sûreté ont les fonctions suivantes:
 
@@ -1480,9 +1490,9 @@ La résistance d’une barrière de sûreté doit être maintenue systématiquem
 <tr><th></th><th></th><th>I</th><th>II</th><th>III</th></tr>
 <tr><td>1. Plutonium <sup>a</sup></td><td>non irradié <sup>b</sup></td><td>2 kg ou plus</td><td>moins de 2 kg, mais plus de 500 g</td><td>500 g ou moins, mais plus de 15 g</td></tr>
 <tr><td>2. Uranium-235</td><td>non irradié <sup>b</sup></td><td></td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>– Uranium enrichi à 20 % U<sup>235</sup> ou plus</td><td>5 kg ou plus</td><td>moins de 5 kg, mais plus de 1 kg</td><td>1 kg ou moins, mais plus de 15 g</td></tr>
+<tr><td></td><td>– Uranium enrichi à 20 % U<sup>235</sup> ou plus</td><td>5 kg ou plus</td><td>moins de 5 kg, mais plus de 1 kg</td><td>1 kg ou moins, mais plus de 15 g</td></tr>
 <tr><td></td><td>– Uranium enrichi à 10 % U<sup>235</sup> et plus, mais à moins de 20 % U<sup>235</sup></td><td>–</td><td>10 kg ou plus</td><td>moins de 10 kg, mais plus de 1 kg</td></tr>
-<tr><td>[tab]</td><td>– Uranium enrichi au-delà de la teneur naturelle, mais à moins de 10 % U<sup>235</sup></td><td>–</td><td>–</td><td>10 kg ou plus</td></tr>
+<tr><td></td><td>– Uranium enrichi au-delà de la teneur naturelle, mais à moins de 10 % U<sup>235</sup></td><td>–</td><td>–</td><td>10 kg ou plus</td></tr>
 <tr><td>3. Uranium-233</td><td>non irradié <sup>b</sup></td><td>2 kg ou plus</td><td>moins de 2 kg mais plus de 500 g</td><td>500 g ou moins, mais plus de 15 g</td></tr>
 <tr><td>4. Combustible irradié</td><td></td><td></td><td>Uranium appauvri ou naturel, thorium ou combustible peu enrichi (moins de 10 % de teneur fissile)</td><td></td></tr>
 <tr><td>5. Déchets radioactifs</td><td>vitrifiés</td><td></td><td>hautement radioactifs</td><td></td></tr>

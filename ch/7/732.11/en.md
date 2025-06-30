@@ -4,11 +4,11 @@ title: Nuclear Energy Ordinance of 10 December 2004 (NEO)
 short: NEO
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/68"
 language: en
-version: 2024-07-01
+version: 2025-07-01
 adopted: 2004-12-10
 in_force: 2005-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20240701/en/xml/fedlex-data-admin-ch-eli-cc-2005-68-20240701-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20240701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20250701/en/xml/fedlex-data-admin-ch-eli-cc-2005-68-20250701-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20250701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (NEO)
 
-of 10 December 2004 (Status as of 1 July 2024)
+of 10 December 2004 (Status as of 1 July 2025)
 
 The Federal Council,
 
@@ -111,7 +111,7 @@ The federal government shall specify in a sectoral plan the objectives and crite
 
 The supervisory authorities are:
 
-- a. the Swiss Federal Nuclear Safety Inspectorate (ENSI) with regard to nuclear safety and security;
+- a. the Swiss Federal Nuclear Safety Inspectorate ( ENSI ) with regard to nuclear safety and security;
 - b. the Federal Office for other areas of enforcement of the NEA.
 
 [^6-1]: Amended by Annex No 12 of the O of 12 Nov. 2008 on the Swiss Federal Nuclear Safety Inspectorate, in force since 1 Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
@@ -246,7 +246,7 @@ An interim storage installation for radioactive waste must be designed to ensure
 
 The Federal Office is responsible for:
 
-- a. issuing licences for handling nuclear materials;
+- issuing licences for handling nuclear materials;
 - a<sup>bis</sup>.[^13-1] issuing licences for the export and mediation of technology relating to nuclear materials;
 - b.[^13-2] approving the agreement concerning the return of radioactive waste.
 
@@ -604,6 +604,17 @@ The licence holder must define systematic programmes for the maintenance of safe
 
 <sup>4</sup> All maintenance and repair work must be documented and the outcome periodically evaluated. Programmes must be supplemented as necessary.
 
+#### Art. 32a
+
+**Reliability assessments**[^32a-1]
+
+<sup>1</sup> The regular reliability assessments on persons who carry out functions that are essential for nuclear safety and the security of the nuclear installation are governed by the Ordinance of 8 November 2023[^32a-2] on Personnel Security Screening (PSSO).
+
+<sup>2</sup> The costs of the assessments are borne by the instigating body in accordance with Article 15 paragraph 4 letter a PSSO.
+
+[^32a-1]: Originally Art. 33*a*. Inserted by Annex 8 No II 7 of the O of 8 Nov. 2023 on Personnel Security Screening, in force since 1 Jan. 2024 ([AS 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^32a-2]: [SR 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
+
 #### Art. 33
 
 **Systematic safety and security assessments**
@@ -612,7 +623,7 @@ The licence holder must define systematic programmes for the maintenance of safe
 
 The licence holder must carry out systematic safety assessments for the following areas:
 
-- a. impacts of modifications to the installation, and of events and findings, on the safety of the installation, and in particular on risk; each risk assessment must incorporate an up-to-date, plant-specific probabilistic safety analysis (PSA);
+- a. impacts of modifications to the installation, and of events and findings, on the safety of the installation, and in particular on risk; each risk assessment must incorporate an up-to-date, plant-specific probabilistic safety analysis ( PSA );
 - b. operational experience feedback from electrical and mechanical equipment important to safety, fuel elements, structures important to safety and water chemistry;
 - c. radiation protection and radioactive waste;
 - d. organisation and personnel;
@@ -632,14 +643,13 @@ The licence holder must carry out systematic security assessments for the follow
 
 #### Art. 33a
 
-**Reliability assessments**[^33a-1]
+**Comprehensive systematic safety assessments for nuclear installations other than nuclear power plants**[^33a-1]
 
-<sup>1</sup> The regular reliability assessments on persons who carry out functions that are essential for nuclear safety and the security of the nuclear installation are governed by the Ordinance of 8 November 2023[^33a-2] on Personnel Security Screening (PSSO).
+<sup>1</sup> The holder of an operating licence for a nuclear installation other than a nuclear power plant must carry out a comprehensive systematic safety assessment every ten years in addition to the systematic safety assessments in accordance with Article 33 paragraph 1.
 
-<sup>2</sup> The costs of the assessments are borne by the instigating body in accordance with Article 15 paragraph 4 letter a PSSO.
+<sup>2</sup> ENSI shall specify the detailed requirements on the comprehensive systematic safety assessment in guidelines.
 
-[^33a-1]: Inserted by Annex 8 No II 7 of the O of 8 Nov. 2023 on Personnel Security Screening, in force since 1 Jan. 2024 ([AS 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
-[^33a-2]: [SR 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
+[^33a-1]: Inserted by No I of the O of 21 May 2025, in force since 1 July 2025 ([AS 2025 384](https://fedlex.data.admin.ch/eli/oc/2025/384)).
 
 #### Art. 34
 
@@ -1459,7 +1469,7 @@ Annex 2[^t-2]
 
 The arrangement of security zones, areas and barriers must be based on the following model:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20240701/en/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20250701/en/xml/image/image1.png)
 
 The various security barriers perform the following functions:
 
@@ -1482,9 +1492,9 @@ The level of resistance of a barrier must be maintained, and for this reason, ap
 <tr><th></th><th></th><th>I</th><th>II</th><th>III</th></tr>
 <tr><td>1. Plutonium <sup>a</sup></td><td>Unirradiated <sup>b</sup></td><td>2 kg or more</td><td>Less than 2 kg but more than 500 g</td><td>500 g or less, but more than 15 g</td></tr>
 <tr><td>2. Uranium-235</td><td>Unirradiated <sup>b</sup></td><td></td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>– uranium enriched to 20% <sup>235</sup>U or more</td><td>5 kg or more</td><td>Less than 5 kg but more than 1 kg</td><td>1 kg or less, but more than 15 g</td></tr>
-<tr><td>[tab]</td><td>– uranium enriched to at least 10% <sup>235</sup>U but to less than 20% <sup>235</sup>U</td><td>–</td><td>10 kg or more</td><td>Less than 10 kg but more than 1 kg</td></tr>
-<tr><td>[tab]</td><td>– uranium enriched above natural content, but to less than 10% <sup>235</sup>U</td><td>–</td><td>–</td><td>10 kg or more</td></tr>
+<tr><td></td><td>– uranium enriched to 20% <sup>235</sup>U or more</td><td>5 kg or more</td><td>Less than 5 kg but more than 1 kg</td><td>1 kg or less, but more than 15 g</td></tr>
+<tr><td></td><td>– uranium enriched to at least 10% <sup>235</sup>U but to less than 20% <sup>235</sup>U</td><td>–</td><td>10 kg or more</td><td>Less than 10 kg but more than 1 kg</td></tr>
+<tr><td></td><td>– uranium enriched above natural content, but to less than 10% <sup>235</sup>U</td><td>–</td><td>–</td><td>10 kg or more</td></tr>
 <tr><td>3. Uranium-233</td><td>Unirradiated <sup>b</sup></td><td>2 kg or more</td><td>Less than 2 kg but more than 500 g</td><td>500 g or less, but more than 15 g</td></tr>
 <tr><td>4. Irradiated fuel</td><td></td><td></td><td>Depleted or natural uranium, thorium or low-enriched fuel (less than 10% fissile content)</td><td></td></tr>
 <tr><td>5. Radioactive waste</td><td>vitrified</td><td></td><td>High-level activity</td><td></td></tr>
@@ -1498,7 +1508,7 @@ Material in this category must be protected against unauthorised removal with ex
 
 *Use and storage* within a highly protected inner area i.e. a protected zone for the type of material defined for category II, access to which is restricted to persons whose integrity has been verified, and which is surveyed by guard personnel who are in close contact with the relevant emergency crews. The aim of the various measures in this connection is to identify and prevent malicious acts unauthorised access and the unauthorised removal of nuclear material.
 
-*Movement of nuclear material* in accordance with special precautionary measures for the described method for the transport of material in categories II and III, and under constant surveillance by accompanying personnel and under conditions that guarantee close contact with the relevant emergency crews.
+*Movement of nuclear material* in accordance with special precautionary measures for the described method for the transport of material in categories II and III , and under constant surveillance by accompanying personnel and under conditions that guarantee close contact with the relevant emergency crews.
 
 ### Category II
 
@@ -1713,7 +1723,7 @@ Annex 5[^t-4]
 <tr><td>Report on radioactive sources</td><td>Report by nuclear installations containing a list of all radioactive sources in the installation. Reports must be submitted by 1 March the following year.</td><td>Calendar year</td></tr>
 <tr><td>Comprehensive safety review report</td><td>Report by nuclear power plants on the periodical safety review, including results and evaluation. To be submitted in accordance with the instructions of ENSI.</td><td>Every 10 years</td></tr>
 <tr><td>Unavailability data of systems and components</td><td>Report by nuclear power plants on the date and duration of unavailability of PSA-relevant components, including description of components and brief description of the cause for the unavailability. Reports must be submitted by 1 March the following year.</td><td>Calendar year</td></tr>
-<tr><td>List of PSA-relevant modifications to the installation</td><td>Report by nuclear power plants with a list of modifications to the installation that could be of relevance to the PSA but have not yet been incorporated into the PSA model. Reports must be submitted by 1 March the following year.</td><td>Calendar year</td></tr>
+<tr><td>List of PSA -relevant modifications to the installation</td><td>Report by nuclear power plants with a list of modifications to the installation that could be of relevance to the PSA but have not yet been incorporated into the PSA model. Reports must be submitted by 1 March the following year.</td><td>Calendar year</td></tr>
 </table>
 
 Annex 6[^t-5]

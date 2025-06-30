@@ -4,11 +4,11 @@ title: Kernenergieverordnung vom 10. Dezember 2004 (KEV)
 short: KEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/68"
 language: de
-version: 2024-07-01
+version: 2025-07-01
 adopted: 2004-12-10
 in_force: 2005-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2005-68-20240701-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2005-68-20250701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20240701/de"
 
 (KEV)
 
-vom 10. Dezember 2004 (Stand am 1. Juli 2024)
+vom 10. Dezember 2004 (Stand am 1. Juli 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -602,6 +602,17 @@ Der Bewilligungsinhaber hat systematische Programme für die Instandhaltung der 
 
 <sup>4</sup> Er hat die Ergebnisse der Instandhaltung zu dokumentieren und periodisch zu bewerten. Nötigenfalls hat er die Programme zu ergänzen.
 
+#### Art. 32a
+
+**Zuverlässigkeitskontrollen**[^32a-1]
+
+<sup>1</sup> Die periodischen Zuverlässigkeitskontrollen von Personen, die Funktionen ausüben, die für die nukleare Sicherheit und die Sicherung der Kernanlage wesentlich sind, sind in der Verordnung vom 8. November 2023[^32a-2] über die Personensicherheitsprüfung (VPSP) geregelt.
+
+<sup>2</sup> Die Kosten für die Prüfung trägt die einleitende Stelle nach Artikel 15 Absatz 4 Buchstabe a VPSP.
+
+[^32a-1]: Ursprünglich: Art. 33*a*. Eingefügt durch Anhang 8 Ziff. II 7 der V vom 8. Nov. 2023 über die Personensicherheitsprüfungen, in Kraft seit 1. Jan. 2024 ([AS 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^32a-2]: [SR 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
+
 #### Art. 33
 
 **Systematische Sicherheits- und Sicherungsbewertungen**
@@ -630,14 +641,13 @@ Er hat systematische Sicherungsbewertungen für die folgenden Gebiete zu erstell
 
 #### Art. 33a
 
-**Zuverlässigkeitskontrollen**[^33a-1]
+**Umfassende systematische Sicherheitsbewertungen für andere Kernanlagen als Kernkraftwerke**[^33a-1]
 
-<sup>1</sup> Die periodischen Zuverlässigkeitskontrollen von Personen, die Funktionen ausüben, die für die nukleare Sicherheit und die Sicherung der Kernanlage wesentlich sind, sind in der Verordnung vom 8. November 2023[^33a-2] über die Personensicherheitsprüfung (VPSP) geregelt.
+<sup>1</sup> Der Inhaber einer Betriebsbewilligung für eine andere Kernanlage als ein Kernkraftwerk hat zusätzlich zu den systematischen Sicherheitsbewertungen nach Artikel 33 Absatz 1 alle zehn Jahre eine umfassende systematische Sicherheitsbewertung zu erstellen.
 
-<sup>2</sup> Die Kosten für die Prüfung trägt die einleitende Stelle nach Artikel 15 Absatz 4 Buchstabe a VPSP.
+<sup>2</sup> Das ENSI wird beauftragt, die detaillierten Anforderungen an die umfassende systematische Sicherheitsbewertung in Richtlinien zu regeln.
 
-[^33a-1]: Eingefügt durch Anhang 8 Ziff. II 7 der V vom 8. Nov. 2023 über die Personensicherheitsprüfungen, in Kraft seit 1. Jan. 2024 ([AS 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
-[^33a-2]: [SR 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
+[^33a-1]: Eingefügt durch Ziff. I der V vom 21. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 384](https://fedlex.data.admin.ch/eli/oc/2025/384)).
 
 #### Art. 34
 
@@ -1457,7 +1467,7 @@ Anhang 2[^t-2]
 
 Die Anordnung der für die Sicherung relevanten Zonen bzw. Areale und Sicherungsschranken hat abgestuft gemäss folgendem Schema zu erfolgen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20240701/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20250701/de/xml/image/image1.png)
 
 Die verschiedenen Sicherungsschranken haben folgende Funktionen:
 
@@ -1480,9 +1490,9 @@ Der Widerstandswert einer Sicherungsschranke muss grundsätzlich aufrechterhalte
 <tr><th></th><th></th><th>I</th><th>II</th><th>III</th></tr>
 <tr><td>1. Plutonium <sup>a</sup> Plutonium Plutonium<sup>a</sup></td><td>unbestrahlt <sup>b</sup></td><td>2 kg oder mehr</td><td>weniger als 2 kg, jedoch mehr als 500 g</td><td>500 g oder weniger, jedoch mehr als 15 g</td></tr>
 <tr><td>2. Uran‑235</td><td>unbestrahlt <sup>b</sup></td><td></td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>– Uran angereichert auf 20 % 235U oder mehr</td><td>5 kg oder mehr</td><td>weniger als 5 kg, jedoch mehr als 1 kg</td><td>1 kg oder weniger, jedoch mehr als 15 g</td></tr>
-<tr><td>[tab]</td><td>– Uran angereichert auf mindestens 10 % 235U, jedoch weniger als 20 % 235U</td><td>–</td><td>10 kg oder mehr</td><td>weniger als 10 kg, jedoch mehr als 1 kg</td></tr>
-<tr><td>[tab]</td><td>– Uran angereichert über den natürlichen Gehalt, jedoch weniger als 10 % 235U</td><td>[tab] –</td><td>[tab] –</td><td>[tab] 10 kg oder mehr</td></tr>
+<tr><td></td><td>– Uran angereichert auf 20 % 235U oder mehr</td><td>5 kg oder mehr</td><td>weniger als 5 kg, jedoch mehr als 1 kg</td><td>1 kg oder weniger, jedoch mehr als 15 g</td></tr>
+<tr><td></td><td>– Uran angereichert auf mindestens 10 % 235U, jedoch weniger als 20 % 235U</td><td>–</td><td>10 kg oder mehr</td><td>weniger als 10 kg, jedoch mehr als 1 kg</td></tr>
+<tr><td></td><td>– Uran angereichert über den natürlichen Gehalt, jedoch weniger als 10 % 235U</td><td>[tab] –</td><td>[tab] –</td><td>[tab] 10 kg oder mehr</td></tr>
 <tr><td>3. Uran‑233</td><td>unbestrahlt <sup>b</sup></td><td>2 kg oder mehr</td><td>weniger als 2 kg, jedoch mehr als 500 g</td><td>500 g oder weniger, jedoch mehr als 15 g</td></tr>
 <tr><td>4. Bestrahlter Brennstoff</td><td></td><td></td><td>abgereichertes oder Natururan, Thorium oder schwach angereicherter Brennstoff (weniger als 10 % spaltbarer Gehalt)</td><td></td></tr>
 <tr><td>5. Radioaktive Abfälle</td><td>verglast</td><td></td><td>hochaktiv</td><td></td></tr>
