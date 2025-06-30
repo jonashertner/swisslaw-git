@@ -4,13 +4,12 @@ number: "110.1"
 title: Loi sur la statistique cantonale
 short: LStat
 language: fr
-version: 2024-03-01
-valid_until: 2025-06-30
-version_adopted: 2023-12-21
+version: 2025-07-01
+version_adopted: 2025-03-26
 adopted: 2006-02-07
 in_force: 2006-05-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/110.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8130/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8193/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Statistique cantonale – L
 
 (LStat)
 
-du 07.02.2006 (version entrée en vigueur le 01.03.2024)
+du 07.02.2006 (version entrée en vigueur le 01.07.2025)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -236,6 +235,8 @@ Décrète:
 
 ## 4 Protection et sécurité des données
 
+### 4.1 Dispositions générales
+
 #### Art. 16
 
 **Secret statistique**
@@ -287,6 +288,44 @@ Décrète:
 <sup>2</sup> Les données se rapportant à des personnes sont notamment stockées de telle sorte qu'elles ne peuvent être consultées, modifiées ou détruites par des personnes non autorisées.
 
 <sup>3</sup> Les listes de noms et d'adresses établies pour la collecte de données ou la coordination de relevés ainsi que les documents d'enquête contenant l'indication des noms de personnes interrogées ne peuvent être conservés; ils sont détruits dès qu'ils ne sont plus indispensables à la réalisation des travaux statistiques, sous réserve de l'article 14 de la présente loi.
+
+### 4.2 Traitement de données à des fins statistiques sur le marché immobilier
+
+#### Art. 18a
+
+**Principe**
+
+<sup>1</sup> Des statistiques portant sur l'état et l'évolution du marché immobilier dans le canton peuvent être produites aux conditions de la présente sous-section.
+
+<sup>2</sup> En vue de la production de ces statistiques, peuvent être traitées les données suivantes concernant les ayants droit de biens immobiliers sis dans le canton:
+
+- a) des données personnelles, au sens de la législation sur la protection des données;
+- b) des données personnelles sensibles, au sens de la législation sur la protection des données, relatives à l'aide sociale matérielle, à des activités religieuses, politiques ou syndicales et à la santé;
+- c) des données fiscales relatives à la valeur locative et au revenu du ménage se rapportant aux logements, fournies par le Service cantonal des contributions.
+
+<sup>3</sup> Sont des ayants droit de biens immobiliers au sens de l'alinéa 2, notamment, les propriétaires et autres titulaires de droits réels, les locataires et les sous-locataires.
+
+<sup>4</sup> Le Conseil d'Etat détermine par voie d'ordonnance:
+
+- a) quelles données personnelles et fiscales peuvent être traitées;
+- b) les modalités du traitement des données;
+- c) l'appariement des données.
+
+#### Art. 18b
+
+**Organismes responsables**
+
+<sup>1</sup> Après consultation des milieux concernés et préavis de la Commission cantonale de la transparence, de la protection des données et de la médiation, le Conseil d'Etat désigne l'organisme responsable du traitement des données mentionnées à l'article 18a al. 2.
+
+<sup>2</sup> Le Conseil d'Etat désigne le ou les organismes responsables de l'appariement de ces données, et le cas échéant lesquelles, conformément aux articles 17a et 17b de la présente loi.
+
+#### Art. 18c
+
+**Financement**
+
+<sup>1</sup> Les organismes responsables au sens de l'article 18b sont financés par l'Etat et les autres parties prenantes bénéficiant des statistiques fournies.
+
+<sup>2</sup> Le Conseil d'Etat fixe l'indemnité représentant la part de l'Etat conformément à la législation sur les subventions.
 
 ## 5 Diffusion et prestations de services
 

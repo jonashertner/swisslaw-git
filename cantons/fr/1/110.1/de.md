@@ -4,13 +4,12 @@ number: "110.1"
 title: Gesetz über die kantonale Statistik
 short: StatG
 language: de
-version: 2024-03-01
-valid_until: 2025-06-30
-version_adopted: 2023-12-21
+version: 2025-07-01
+version_adopted: 2025-03-26
 adopted: 2006-02-07
 in_force: 2006-05-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/110.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/8130/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8193/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Kantonale Statistik – G
 
 (StatG)
 
-vom 07.02.2006 (Fassung in Kraft getreten am 01.03.2024)
+vom 07.02.2006 (Fassung in Kraft getreten am 01.07.2025)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -236,6 +235,8 @@ beschliesst:
 
 ## 4 Datenschutz und Datensicherheit
 
+### 4.1 Allgemeine Bestimmungen
+
 #### Art. 16
 
 **Statistikgeheimnis**
@@ -287,6 +288,44 @@ beschliesst:
 <sup>2</sup> Personendaten sind so aufzubewahren, dass sie durch nicht befugte Personen weder konsultiert noch verändert, noch vernichtet werden können.
 
 <sup>3</sup> Zum Zweck der Datenerhebung oder Koordination von Erhebungen angelegte Namens- und Adresslisten sowie Erhebungsmaterial mit persönlichen Identifikationsnummern dürfen nicht aufbewahrt werden. Sie sind unter Vorbehalt von Artikel 14 dieses Gesetzes zu vernichten, sobald sie für die statistischen Arbeiten nicht mehr unbedingt benötigt werden.
+
+### 4.2 Bearbeiten von Daten für die Immobilienmarktstatistik
+
+#### Art. 18a
+
+**Grundsatz**
+
+<sup>1</sup> Statistiken über den Stand und die Entwicklung des Immobilienmarkts im Kanton können zu den Bedingungen dieses Unterabschnitts erstellt werden.
+
+<sup>2</sup> Im Hinblick auf die Erstellung dieser Statistiken können die folgenden Daten über Anspruchsberechtigte von unbeweglichen Gütern im Kanton Freiburg bearbeitet werden:
+
+- a) Personendaten im Sinne der Datenschutzgesetzgebung;
+- b) besonders schützenswerte Personendaten im Sinne der Datenschutzgesetzgebung zur materiellen Sozialhilfe, zu religiösen, politischen und gewerkschaftlichen Tätigkeiten und zur Gesundheit;
+- c) Steuerdaten zum Mietwert und zum Haushaltseinkommen mit Bezug zur Wohnung, die von der Kantonalen Steuerverwaltung geliefert werden.
+
+<sup>3</sup> Anspruchsberechtigte von unbeweglichen Gütern im Sinne von Absatz 2 sind namentlich die Eigentümerinnen und Eigentümer sowie die anderen Inhaberinnen und Inhaber von dinglichen Rechten, die Mieterinnen und Mieter sowie die Untermieterinnen und Untermieter.
+
+<sup>4</sup> Der Staatsrat legt auf dem Verordnungsweg Folgendes fest:
+
+- a) die Personen- und Steuerdaten, die bearbeitet werden dürfen;
+- b) die Modalitäten der Datenbearbeitung;
+- c) die Verknüpfung der Daten.
+
+#### Art. 18b
+
+**Erhebungsstellen**
+
+<sup>1</sup> Der Staatsrat bezeichnet nach Anhörung der betroffenen Kreise und Stellungnahme der kantonalen Öffentlichkeits-, Datenschutz- und Mediationskommission die Erhebungsstelle, die für die Bearbeitung der Daten nach Artikel 18a Abs. 2 verantwortlich ist.
+
+<sup>2</sup> Der Staatsrat bezeichnet die für die Verknüpfung dieser Daten verantwortlichen Erhebungsstellen und legt gegebenenfalls fest, welche Stelle welche Daten unter Beachtung von Artikel 17a und 17b verknüpfen darf.
+
+#### Art. 18c
+
+**Finanzierung**
+
+<sup>1</sup> Die Erhebungsstellen im Sinne von Artikel 18b werden vom Staat und den anderen Akteuren finanziert, die von den gelieferten Statistiken profitieren.
+
+<sup>2</sup> Der Staatsrat legt gestützt auf die Subventionsgesetzgebung die Entschädigung fest, die dem Anteil des Staats entspricht.
 
 ## 5 Veröffentlichungen und Dienstleistungen
 
