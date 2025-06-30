@@ -4,11 +4,11 @@ title: "Verordnung vom 2. September 2015 über den Schutz des Schweizerwappens u
 short: WSchV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/614"
 language: de
-version: 2022-01-01
+version: 2025-07-01
 adopted: 2015-09-02
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/614/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2015-614-20220101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/614/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/614/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2015-614-20250701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/614/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/614/20220101/de"
 
 (Wappenschutzverordnung, WSchV)
 
-vom 2. September 2015 (Stand am 1. Januar 2022)
+vom 2. September 2015 (Stand am 1. Juli 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -90,31 +90,37 @@ Das IGE erteilt Auskünfte über den Inhalt des Verzeichnisses.
 
 #### Art. 7
 
-**Hilfeleistung des Bundesamts für Zoll und Grenzsicherheit[^7-1]**
+**Hilfeleistung beim Verbringen von Waren ins Zollgebiet oder aus dem Zollgebiet**[^7-1]
 
-Die Hilfeleistung des Bundesamts für Zoll und Grenzsicherheit (BAZG) erstreckt sich auf das Verbringen von Waren, die widerrechtlich mit geschützten öffentlichen Zeichen des In- oder Auslandes gekennzeichnet sind, in das oder aus dem Zollgebiet, einschliesslich der Lagerung solcher Waren in einem Zolllager oder Zollfreilager.
+Die Artikel 7–9 gelten für Hilfeleistungen beim Verbringen von Waren, die widerrechtlich mit geschützten öffentlichen Zeichen des In- oder Auslands gekennzeichnet sind, ins Zollgebiet oder aus dem Zollgebiet, einschliesslich der Lagerung solcher Waren in einem Zolllager oder Zollfreilager.
 
-[^7-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^7-1]: Fassung gemäss Ziff. I 6 der V vom 14. Mai 2025 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 8
 
-**Antrag auf Hilfeleistung des BAZG**
+**Antrag auf Hilfeleistung[^8-1]**
 
 <sup>1</sup> Einen Antrag auf Hilfeleistung können die Berechtigten nach Artikel 20, 21 oder 22 WSchG einreichen.
 
-<sup>2</sup> Anträge sind bei der Oberzolldirektion einzureichen.
+<sup>2</sup> Anträge sind beim Bundesamt für Zoll und Grenzsicherheit (BAZG) einzureichen.[^8-2]
 
-<sup>3</sup> Die Oberzolldirektion entscheidet spätestens 40 Tage nach Erhalt der vollständigen Unterlagen über den Antrag.
+<sup>3</sup> Das BAZG entscheidet spätestens 40 Tage nach Erhalt der Unterlagen über den Antrag, sobald diese dem BAZG vollständig vorliegen.[^8-3]
 
-<sup>4</sup> Der Antrag gilt während zwei Jahren, wenn er nicht für eine kürzere Geltungsdauer gestellt wird. Er kann erneuert werden.
+<sup>4</sup> Der genehmigte Antrag gilt zwei Jahre, wenn er nicht für eine kürzere Geltungsdauer gestellt wird. Er kann erneuert werden.[^8-4]
+
+[^8-1]: Fassung gemäss Ziff. I 6 der V vom 14. Mai 2025 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
+[^8-2]: Fassung gemäss Ziff. I 6 der V vom 14. Mai 2025 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
+[^8-3]: Fassung gemäss Ziff. I 6 der V vom 14. Mai 2025 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
+[^8-4]: Fassung gemäss Ziff. I 6 der V vom 14. Mai 2025 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 9
 
-**Übrige auf die Hilfeleistung des BAZG anwendbare Bestimmungen**
+**Übrige auf die Hilfeleistung anwendbare Bestimmungen**[^9-1]
 
-Für die Hilfeleistung des BAZG sind im Übrigen die Artikel 56–57 der Markenschutzverordnung vom 23. Dezember 1992[^9-1] anwendbar.
+Für die Hilfeleistung sind im Übrigen die Artikel 54*a* und 55–57 der Verordnung vom 23. Dezember 1992[^9-2] über den Schutz von Marken und Herkunftsangaben anwendbar.
 
-[^9-1]: [SR 232.111](https://fedlex.data.admin.ch/eli/cc/1993/296_296_296)
+[^9-1]: Fassung gemäss Ziff. I 6 der V vom 14. Mai 2025 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
+[^9-2]: [SR 232.111](https://fedlex.data.admin.ch/eli/cc/1993/296_296_296)
 
 #### Art. 10
 

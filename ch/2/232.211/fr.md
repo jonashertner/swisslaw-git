@@ -4,11 +4,11 @@ title: "Ordonnance du 2 septembre 2015 sur la protection des armoiries de la Sui
 short: OPAP
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/614"
 language: fr
-version: 2022-01-01
+version: 2025-07-01
 adopted: 2015-09-02
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/614/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-614-20220101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/614/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/614/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2015-614-20250701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/614/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/614/20220101/fr"
 
 (Ordonnance sur la protection des armoiries, OPAP)
 
-du 2 septembre 2015 (État le 1<sup>er</sup> janvier 2022)
+du 2 septembre 2015 (État le 1<sup>er</sup> juillet 2025)
 
 Le Conseil fédéral suisse,
 
@@ -90,31 +90,37 @@ L’IPI donne des renseignements sur le contenu de la liste.
 
 #### Art. 7
 
-**Intervention de l’Office fédéral de la douane et de la sécurité des frontières[^7-1]**
+**Interventions lors de l’introduction de produits sur le territoire douanier ou de leur acheminement hors de celui-ci**[^7-1]
 
-L’Office fédéral de la douane et de la sécurité des frontières (OFDF) est habilité à intervenir en cas d’introduction dans le territoire douanier ou de sortie dudit territoire de marchandises munies illicitement d’un signe public protégé suisse ou étranger, de même qu’en cas d’entreposage de telles marchandises dans un entrepôt douanier ou un dépôt franc.
+Les art. 7 à 9 s’appliquent aux interventions lors de l’introduction sur le territoire douanier ou de l’acheminement hors de celui-ci de produits désignés illicitement par un signe public protégé suisse ou étranger, de même qu’en cas d’entreposage de tels produits dans un entrepôt douanier ou un dépôt franc.
 
-[^7-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^7-1]: Nouvelle teneur selon le ch. I 6 de l'O du 14 mai 2025 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 8
 
-**Demande d’intervention de l’OFDF**
+**Demande d’intervention[^8-1]**
 
 <sup>1</sup> Les ayants droit au sens des art. 20, 21 ou 22 LPAP peuvent présenter une demande d’intervention.
 
-<sup>2</sup> Les demandes doivent être présentées à la Direction générale des douanes.
+<sup>2</sup> Les demandes doivent être présentées à l’Office fédéral de la douane et de la sécurité des frontières (OFDF).[^8-2]
 
-<sup>3</sup> La Direction générale des douanes se prononce sur la demande au plus tard dans les 40 jours ouvrables après réception de tous les documents requis.
+<sup>3</sup> L’OFDF rend sa décision sur la demande au plus tard 40 jours après réception de tous les documents requis.[^8-3]
 
-<sup>4</sup> La demande est valable deux ans, à moins qu’elle ne prévoie une durée de validité plus courte. Elle peut être renouvelée.
+<sup>4</sup> Une fois approuvée, la demande est valable deux ans, à moins qu’elle ne spécifie une durée de validité plus courte. Elle peut être renouvelée.[^8-4]
+
+[^8-1]: Nouvelle teneur selon le ch. I 6 de l'O du 14 mai 2025 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
+[^8-2]: Nouvelle teneur selon le ch. I 6 de l'O du 14 mai 2025 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
+[^8-3]: Nouvelle teneur selon le ch. I 6 de l'O du 14 mai 2025sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
+[^8-4]: Nouvelle teneur selon le ch. I 6 de l'O du 14 mai 2025 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 9
 
-**Autres dispositions applicables à l’intervention de l’OFDF**
+**Autres dispositions applicables aux interventions**[^9-1]
 
-Au demeurant, l’intervention de l’OFDF est régie par les art. 56 à 57 de l’ordonnance du 23 décembre 1992 sur la protection des marques[^9-1].
+Au demeurant, les interventions sont régies par les art. 54*a* et 55 à 57 de l’ordonnance du 23 décembre 1992 sur la protection des marques[^9-2].
 
-[^9-1]: [RS 232.111](https://fedlex.data.admin.ch/eli/cc/1993/296_296_296)
+[^9-1]: Nouvelle teneur selon le ch. I 6 de l'O du 14 mai 2025 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
+[^9-2]: [RS 232.111](https://fedlex.data.admin.ch/eli/cc/1993/296_296_296)
 
 #### Art. 10
 

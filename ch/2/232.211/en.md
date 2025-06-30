@@ -4,11 +4,11 @@ title: "Ordinance of 2 September 2015 on the Protection of the Swiss Coat of Arm
 short: CAPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/614"
 language: en
-version: 2022-01-01
+version: 2025-07-01
 adopted: 2015-09-02
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/614/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2015-614-20220101-en-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/614/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/614/20250701/en/xml/fedlex-data-admin-ch-eli-cc-2015-614-20250701-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/614/20250701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Coat of Arms Protection Ordinance, CAPO)
 
-of 2 September 2015 (Status as of 1 January 2022)
+of 2 September 2015 (Status as of 1 July 2025) 2025 376 (6) [0]
 
 The Federal Council,
 
@@ -92,31 +92,37 @@ The IPI provides information on the content of the list.
 
 #### Art. 7
 
-**Assistance provided by the Federal Office for Customs and Border Security[^7-1]**
+**Assistance in connection with goods being brought into or taken out of the customs territory**[^7-1]
 
-The assistance provided by the Federal Office for Customs and Border Security (FOCBS) extends to the transport of goods that are unlawfully marked with protected public domestic or foreign signs into or out of the customs territory, including the storage of such goods in a customs warehouse or free port.
+Articles 7–9 apply to assistance provided in connection with goods unlawfully marked with protected public domestic or foreign signs being brought into or taken out of the customs territory, including the storage of such goods in a customs warehouse or duty-free warehouse.
 
-[^7-1]: The name of this administrative unit was changed on 1 Jan. 2022 in application of Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). This change has been made throughout the text.
+[^7-1]: Amended by No I 6 of the O of 14 May 2025 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, in force since 1 July 2025 ([AS 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 8
 
-**Request for the assistance of the FOCBS**
+**Application for assistance[^8-1]**
 
 <sup>1</sup> An application for assistance may be submitted by those entitled under Articles 20, 21 or 22 of the CAPA.
 
-<sup>2</sup> Applications must be submitted to the Directorate General of Customs.
+<sup>2</sup> Applications must be submitted to the Federal Office for Customs and Border Security (FOCBS).[^8-2]
 
-<sup>3</sup> The Directorate General of Customs reaches a decision at the latest 40 days after receipt of all required application documents.
+<sup>3</sup> Once the FOCBS has received the application in full, it shall decide on it within 40 days.[^8-3]
 
-<sup>4</sup> The application is valid for two years, unless it is made for a shorter period of validity. It may be renewed.
+<sup>4</sup> The approved application is valid for a period of two years unless a shorter period of validity is requested. It may be renewed.[^8-4]
+
+[^8-1]: Amended by No I 6 of the O of 14 May 2025 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, in force since 1 July 2025 ([AS 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
+[^8-2]: Amended by No I 6 of the O of 14 May 2025 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, in force since 1 July 2025 ([AS 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
+[^8-3]: Amended by No I 6 of the O of 14 May 2025 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, in force since 1 July 2025 ([AS 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
+[^8-4]: Amended by No I 6 of the O of 14 May 2025 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, in force since 1 July 2025 ([AS 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 9
 
-**Other provisions applicable to assistance provided by the FOCBS**
+**Other provisions applicable to assistance**[^9-1]
 
-For assistance provided by the FOCBS, Articles 56–57 of the Trade Mark Protection Ordinance of 23 December 1992[^9-1] also apply.
+Articles 54*a* and 55–57 of the Ordinance of 23 December 1992[^9-2] on the Protection of Trade Marks and Indications of Source also apply to assistance.
 
-[^9-1]: [SR 232.111](https://fedlex.data.admin.ch/eli/cc/1993/296_296_296)
+[^9-1]: Amended by No I 6 of the O of 14 May 2025 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, in force since 1 July 2025 ([AS 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
+[^9-2]: [SR 232.111](https://fedlex.data.admin.ch/eli/cc/1993/296_296_296)
 
 #### Art. 10
 
