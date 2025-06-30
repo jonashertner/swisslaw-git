@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 16. Dezember 2016 über die Höchstgehalte für Pe
 short: VPRH
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/151"
 language: de
-version: 2025-01-01
+version: 2025-07-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/151/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2017-151-20250101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/151/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2017-151-20250701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20250101/de"
 
 (VPRH)
 
-vom 16. Dezember 2016 (Stand am 1. Januar 2025)
+vom 16. Dezember 2016 (Stand am 1. Juli 2025)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -287,6 +287,14 @@ Lebensmittel, die Wirkstoffe enthalten, für die mit der Änderung vom 13. Novem
 
 [^13g-1]: Eingefügt durch Ziff. I der V des BLV vom 13. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 754](https://fedlex.data.admin.ch/eli/oc/2024/754)).
 
+#### Art. 13h
+
+**Übergangsbestimmung zur Änderung vom 2. Juni 2025**[^13h-1]
+
+Lebensmittel, die Wirkstoffe enthalten, für die mit der Änderung vom 2. Juni 2025 ein tieferer Höchstgehalt festgelegt wird, dürfen noch bis zum 1. Januar 2026 mit dem Höchstgehalt nach bisherigem Recht eingeführt und hergestellt und noch bis zum Abbau der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
+
+[^13h-1]: Eingefügt durch Ziff. I der V des BLV vom 2. Juni 2025, in Kraft seit 1. Juli 2025 (AS **202****5** 388).
+
 #### Art. 14
 
 **Inkrafttreten**
@@ -332,8 +340,8 @@ Anhang 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Bereinigt gemäss Ziff. I Abs. 1 der V des BLV vom 30. Juni 2021 ([AS 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)), Ziff. II Abs. 1 der V des BLV vom 26. Sept. 2022 ([AS 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)), Ziff. II der V des BLV vom 31. Mai 2023 ([AS 2023 289](https://fedlex.data.admin.ch/eli/oc/2023/289)), vom 24. Nov. 2023 ([AS 2023 789](https://fedlex.data.admin.ch/eli/oc/2023/789)), Ziff. II Abs. 1 der V des BLV vom 29. Mai 2024 ([AS 2024 247](https://fedlex.data.admin.ch/eli/oc/2024/247)) und vom 13. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 754](https://fedlex.data.admin.ch/eli/oc/2024/754)).
-[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2024/754](https://fedlex.data.admin.ch/eli/oc/2024/754) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Bereinigt gemäss Ziff. I Abs. 1 der V des BLV vom 30. Juni 2021 ([AS 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)), Ziff. II Abs. 1 der V des BLV vom 26. Sept. 2022 ([AS 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)), Ziff. II der V des BLV vom 31. Mai 2023 ([AS 2023 289](https://fedlex.data.admin.ch/eli/oc/2023/289)), vom 24. Nov. 2023 ([AS 2023 789](https://fedlex.data.admin.ch/eli/oc/2023/789)), Ziff. II Abs. 1 der V des BLV vom 29. Mai 2024 ([AS 2024 247](https://fedlex.data.admin.ch/eli/oc/2024/247)), vom 13. Nov. 2024 ([AS 2024 754](https://fedlex.data.admin.ch/eli/oc/2024/754)) und Ziff. II der V des BLV vom 2. Juni 2025, in Kraft seit 1. Juli 2025 ([AS 2025 388](https://fedlex.data.admin.ch/eli/oc/2025/388)).
+[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2025/388](https://fedlex.data.admin.ch/eli/oc/2025/388) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 3[^t-3]
 

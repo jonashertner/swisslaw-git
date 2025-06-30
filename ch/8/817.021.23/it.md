@@ -4,11 +4,11 @@ title: Ordinanza del DFI del 16 dicembre 2016 concernente i livelli massimi per 
 short: OAOVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/151"
 language: it
-version: 2025-01-01
+version: 2025-07-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/151/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2017-151-20250101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/151/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2017-151-20250701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20250701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20250101/it"
 
 (OAOVA)
 
-del 16 dicembre 2016 (Stato 1° gennaio 2025)
+del 16 dicembre 2016 (Stato 1° luglio 2025)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -282,9 +282,17 @@ Le derrate alimentari contenenti le sostanze attive per le quali la modifica del
 
 **Disposizione transitoria della modifica del 13 novembre 2024**[^13g-1]
 
-<sup>1</sup> Le derrate alimentari contenenti le sostanze attive per le quali la modifica del 13 novembre 2024 stabilisce un livello massimo inferiore possono essere importate e fabbricate con il livello massimo secondo il diritto anteriore fino al 1° luglio 2025 ed essere consegnate ai consumatori fino a esaurimento delle scorte.
+Le derrate alimentari contenenti le sostanze attive per le quali la modifica del 13 novembre 2024 stabilisce un livello massimo inferiore possono essere importate e fabbricate con il livello massimo secondo il diritto anteriore fino al 1° luglio 2025 ed essere consegnate ai consumatori fino a esaurimento delle scorte.
 
 [^13g-1]: Introdotto dalla cifra I dell’O dell’USAV del 13 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 754](https://fedlex.data.admin.ch/eli/oc/2024/754)).
+
+#### Art. 13h
+
+**Disposizione transitoria della modifica del 2 giugno 2025**[^13h-1]
+
+Le derrate alimentari contenenti le sostanze attive per le quali la modifica del 2 giugno 2025 stabilisce un livello massimo inferiore possono ancora essere importate e fabbricate con il livello massimo secondo il diritto anteriore fino al 1° gennaio 2026 ed essere consegnate ai consumatori fino a esaurimento delle scorte.
+
+[^13h-1]: Introdotto dalla cifra I dell’O dell’USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 388](https://fedlex.data.admin.ch/eli/oc/2025/388)).
 
 #### Art. 14
 
@@ -331,8 +339,8 @@ Allegato 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nuovo testo giusta la cifra II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Aggiornato dalla cifra I cpv. 1 dell’O dell’USAV del 30 giu. 2021 ([RU 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)), dalla cifra II cpv. 1 dell’O dell’USAV del 26 set. 2022 ([RU 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)), dalla cifra II delle O dell’USAV del 31 mag. 2023 ([RU 2023 289](https://fedlex.data.admin.ch/eli/oc/2023/289)), del 24 nov. 2023 ([RU 2023 789](https://fedlex.data.admin.ch/eli/oc/2023/789)) e dai n. II cpv. 1 delle O dell’USAV del 29 mag. 2024 ([RU 2024 247](https://fedlex.data.admin.ch/eli/oc/2024/247)) e del 13 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 754](https://fedlex.data.admin.ch/eli/oc/2024/754)).
-[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/754](https://fedlex.data.admin.ch/eli/oc/2024/754) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-2]: Nuovo testo giusta la cifra II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Aggiornato dalla cifra I cpv. 1 dell’O dell’USAV del 30 giu. 2021 ([RU 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)), dalla cifra II cpv. 1 dell’O dell’USAV del 26 set. 2022 ([RU 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)), dalla cifra II delle O dell’USAV del 31 mag. 2023 ([RU 2023 289](https://fedlex.data.admin.ch/eli/oc/2023/289)), del 24 nov. 2023 ([RU 2023 789](https://fedlex.data.admin.ch/eli/oc/2023/789)) e dai cifra II cpv. 1 delle O dell’USAV del 29 mag. 2024 ([RU 2024 247](https://fedlex.data.admin.ch/eli/oc/2024/247)), del 13 nov. 2024 ([RU 2024 754](https://fedlex.data.admin.ch/eli/oc/2024/754)) dalla cifra II dell’O dell’USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 388](https://fedlex.data.admin.ch/eli/oc/2025/388)).
+[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/388](https://fedlex.data.admin.ch/eli/oc/2025/388) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando
 
 Allegato 3[^t-3]
 
@@ -340,7 +348,7 @@ Allegato 3[^t-3]
 
 ## Antiparassitari a cui non si applicano livelli massimi per i residui
 
-[^t-3]: Aggiornato dalla cifra II cpv. 2 dell’O del DFI del 27 mag. 2020 ([RU 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)), dalla cifra I cpv. 2 dell’O dell’USAV del 30 giu. 2021 ([RU 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)), dai n. II cpv. 2 delle O dell’USAV del 26 set. 2022 ([RU 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)) e del 29 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 247](https://fedlex.data.admin.ch/eli/oc/2024/247)).
+[^t-3]: Aggiornato dalla cifra II cpv. 2 dell’O del DFI del 27 mag. 2020 ([RU 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)), dalla cifra I cpv. 2 dell’O dell’USAV del 30 giu. 2021 ([RU 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)), dai cifra II cpv. 2 delle O dell’USAV del 26 set. 2022 ([RU 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)) e del 29 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 247](https://fedlex.data.admin.ch/eli/oc/2024/247)).
 
 ### 1 Note esplicative
 

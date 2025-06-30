@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 16 décembre 2016 sur les limites maximales applica
 short: OPOVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/151"
 language: fr
-version: 2025-01-01
+version: 2025-07-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/151/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-151-20250101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/151/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-151-20250701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20250101/fr"
 
 (OPOVA)
 
-du 16 décembre 2016 (État le 1<sup>er</sup> janvier 2025)
+du 16 décembre 2016 (État le 1<sup>er</sup> juillet 2025)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -286,7 +286,15 @@ Les denrées alimentaires contenant des substances actives pour lesquelles une l
 
 Les denrées alimentaires contenant des substances actives pour lesquelles une limite maximale plus faible est fixée par la modification du 13 novembre 2024 peuvent encore être importées et fabriquées dans le respect des limites maximales définies selon l’ancien droit jusqu’au 1<sup>er</sup> juillet 2025 et remises au consommateur jusqu’à épuisement des stocks.
 
-[^13g-1]: Introduit par le ch. I de l’O de l’OSAV du 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 (RO **2024**754).
+[^13g-1]: Introduit par le ch. I de l’O de l’OSAV du 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 754](https://fedlex.data.admin.ch/eli/oc/2024/754)).
+
+#### Art. 13h
+
+**Disposition transitoire relative à la modification du 2 juin 2025**[^13h-1]
+
+Les denrées alimentaires contenant des substances actives pour lesquelles une limite maximale plus faible est fixée par la modification du 2 juin 2025 peuvent encore être importées et fabriquées dans le respect des limites maximales définies selon l’ancien droit jusqu’au 1<sup>er</sup> janvier 2026 et remises au consommateur jusqu’à épuisement des stocks.
+
+[^13h-1]: Introduit par le ch. I de l’O de l’OSAV du 2 juin 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 388](https://fedlex.data.admin.ch/eli/oc/2025/388)).
 
 #### Art. 14
 
@@ -333,8 +341,8 @@ Annexe 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 27 mai 2020 ([RO 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Mise à jour par le ch. I al. 1 de l’O de l’OSAV du 30 juin 2021 ([RO 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)), le ch. II al. 1 de l’O de l’OSAV du 26 sept. 2022 ([RO 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)), le ch. II des O de l’OSAV du 31 mai 2023 ([RO 2023 289](https://fedlex.data.admin.ch/eli/oc/2023/289)), du 24 nov. 2023 ([RO 2023 789](https://fedlex.data.admin.ch/eli/oc/2023/789)), le ch. II al. 1 des O de l’OSAV du 29 mai 2024 ([RO 2024 247](https://fedlex.data.admin.ch/eli/oc/2024/247)) et du 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 754](https://fedlex.data.admin.ch/eli/oc/2024/754)).
-[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/754](https://fedlex.data.admin.ch/eli/oc/2024/754) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 27 mai 2020 ([RO 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Mise à jour par le ch. I al. 1 de l’O de l’OSAV du 30 juin 2021 ([RO 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)), le ch. II al. 1 de l’O de l’OSAV du 26 sept. 2022 ([RO 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)), le ch. II des O de l’OSAV du 31 mai 2023 ([RO 2023 289](https://fedlex.data.admin.ch/eli/oc/2023/289)), du 24 nov. 2023 ([RO 2023 789](https://fedlex.data.admin.ch/eli/oc/2023/789)), le ch. II al. 1 des O de l’OSAV du 29 mai 2024 ([RO 2024 247](https://fedlex.data.admin.ch/eli/oc/2024/247)), du 13 nov. 2024 ([RO 2024 754](https://fedlex.data.admin.ch/eli/oc/2024/754)) et le ch. II de l’O de l’OSAV du 2 juin 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 388](https://fedlex.data.admin.ch/eli/oc/2025/388)).
+[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/388](https://fedlex.data.admin.ch/eli/oc/2025/388) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 3[^t-3]
 
