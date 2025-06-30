@@ -1,0 +1,252 @@
+---
+canton: BE
+number: 105.235.1-5
+title: Vollzugsvereinbarung zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Kantonswechsel der Einwohnergemeinde Moutier betreffend die Sekundarstufe II
+short: Vollzugsvereinbarung Nr. 5
+language: de
+version: 2025-07-01
+valid_until: 2026-04-30
+version_adopted: 2025-05-28
+adopted: 2025-05-28
+in_force: 2025-07-01
+url: "https://www.belex.sites.be.ch/app/de/texts_of_law/105.235.1-5"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3200/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Vollzugsvereinbarung zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Kantonswechsel der Einwohnergemeinde Moutier betreffend die Sekundarstufe II
+
+(Vollzugsvereinbarung Nr. 5)
+
+vom 28.05.2025 (Stand 01.07.2025)
+
+Der Regierungsrat des Kantons Bern und die Regierung des Kantons Jura,
+
+gestützt auf Artikel 12 und 30 des Konkordats vom 14./15. November 2023 zwischen den Kantonen Bern und Jura über den Wechsel der Einwohnergemeinde Moutier zum Kanton Jura (Moutier-Konkordat)[^ingress-1],
+
+vereinbaren:
+
+[^ingress-1]: BSG [105.234-1](https://www.belex.sites.be.ch/data/105.234-1/de)
+
+## 1 Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Gegenstand**
+
+<sup>1</sup> Diese Vereinbarung enthält die Bestimmungen, die im Bereich der Sekundarstufe II die technischen, finanziellen, administrativen und rechtlichen Fragen im Zusammenhang mit dem Kantonswechsel der Einwohnergemeinde Moutier (nachstehend: «Gemeinde Moutier») regeln.
+
+<sup>2</sup> Sie regelt insbesondere die Zulassungskriterien für die Sekundarstufe II sowie die Schulorte der Lernenden aus Moutier und der bernischen Lernenden sowie die Beiträge an die Unterrichtskosten der Kantone Bern und Jura.
+
+#### Art. 2
+
+**Begriffe**
+
+<sup>1</sup> Als «Zeitpunkt des Kantonswechsels» gilt das Datum, ab dem die Gemeinde Moutier zum Kanton Jura gehört, und als «Zeitpunkt des Übertritts» gilt der Schuljahresbeginn nach dem Zeitpunkt des Kantonswechsels.
+
+<sup>2</sup> Die «Ausbildungen auf Sekundarstufe II» können wie folgt definiert werden:
+
+- a als «Übergangsausbildungen»:
+  - 1\. berufsvorbereitende Schuljahre,
+  - 2\. Vorlehren,
+  - 3\. Brückenangebote zur Vorbereitung auf bestimmte Grundbildungen,
+- b als «allgemeine Ausbildungen»:
+  - 1\. gymnasiale Ausbildungen,
+  - 2\. Fachmittelschulbildungsgänge,
+  - 3\. Fachmaturitätsbildungsgänge,
+- c als «berufliche Grundausbildung»: die berufliche Grundausbildung mit oder ohne Berufsmaturität im Rahmen einer anerkannten beruflichen Grundausbildung (BM 1),
+- d als «vollschulische berufliche Grundausbildung»:
+  - 1\. die berufliche Grundausbildung als Vollzeitschule und die Ausbildung in der Berufsfachschule mit oder ohne Berufsmaturität im Rahmen einer anerkannten beruflichen Grundausbildung (BM 1),
+  - 2\. die Berufsmaturität nach dem EFZ (BM 2).
+
+<sup>3</sup> Als «bernische Schülerinnen und Schüler» gelten die in Gemeinden des Kantons Bern lebenden Schülerinnen und Schüler mit Ausnahme jener, die in Moutier wohnen und ihre obligatorische Schulzeit in Moutier absolvieren.
+
+<sup>4</sup> Es gelten
+
+- a als «Lernende aus Moutier» Lernende, die eine berufliche Grundausbildung in einem Unternehmen absolvieren und einen Lehrvertrag mit einem Unternehmen haben, das in der Gemeinde Moutier ansässig ist,
+- b als «Schülerinnen und Schüler aus Moutier» die Schülerinnen und Schüler, die andere Ausbildungen der Sekundarstufe II absolvieren und deren Wohnsitz sich gemäss Artikel 4 Absatz 3 der Vereinbarung vom 30. Juni und 6. Juli 2015 zwischen den Kantonen Bern, Jura und Neuenburg über die Beiträge an die Unterrichtskosten (BEJUNE-Vereinbarung)[^2-1] in der Gemeinde Moutier befindet.
+
+<sup>5</sup> Als «Unternehmen aus Moutier» gelten die in der Gemeinde Moutier ansässigen Lehrbetriebe.
+
+[^2-1]: BSG [439.15-1](https://www.belex.sites.be.ch/data/439.15-1/de)
+
+## 2 Zulassungskriterien für die Sekundarstufe II, Ort des Schulbesuchs und Modalitäten
+
+### 2.1 Allgemeine Bestimmungen
+
+#### Art. 3
+
+**Grundsatz der Kontinuität**
+
+<sup>1</sup> Eine Ausbildung muss grundsätzlich an der Schule abgeschlossen werden, an der sie begonnen wurde, auch im Falle einer Klassenwiederholung.
+
+#### Art. 4
+
+**Anwendung der BEJUNE-Vereinbarung**
+
+<sup>1</sup> Es gelten die Bestimmungen der BEJUNE-Vereinbarung, insbesondere die Sätze der Beiträge an die Unterrichtskosten, sofern in dieser Vereinbarung nichts anderes festgelegt ist.
+
+#### Art. 5
+
+**Unterstützung bei Berufs- und allgemeiner Beratung**
+
+<sup>1</sup> Die Unterstützung bei der Beratung auf Sekundarstufe II fällt grundsätzlich in die Zuständigkeit des Kantons, in dem die Schülerinnen und Schüler bzw. die Lernenden ihren Wohnsitz haben.
+
+#### Art. 6
+
+**Centre de formation professionnelle Berne francophone**
+
+<sup>1</sup> Das in Moutier ansässige französischsprachige Berufsbildungszentrum Centre de formation professionnelle Berne francophone (ceff) ist bis zum Zeitpunkt des Übertritts eine Schule, die dem bernischen Recht unterliegt.
+
+<sup>2</sup> Es unterliegt der bernischen Rechtsordnung, insbesondere in Bezug auf das Unterrichtsangebot, die Stellung des Personals, die Steuerung und die Finanzierung.
+
+### 2.2 Zulassungskriterien für Schülerinnen und Schüler sowie Lernende zur Sekundarstufe II
+
+#### Art. 7
+
+**Zulassungskriterien für die Schülerinnen, Schüler und Lernenden aus Moutier für die Schuljahre 2024/2025, 2025/2026 und 2026/2027**
+
+<sup>1</sup> Für die Entscheidungen über die Zulassung zur Sekundarstufe II für die Schuljahre 2024/2025, 2025/2026 und 2026/2027 müssen die Schülerinnen, Schüler und Lernenden aus Moutier die bernischen schulischen Zulassungskriterien erfüllen, auch wenn sie ihre Ausbildung im Kanton Jura fortsetzen. Diese Entscheidungen fallen in den Zuständigkeitsbereich der bernischen Behörden.
+
+<sup>2</sup> Falls die Aufnahme in den gewählten Ausbildungsgang im Kanton Jura zusätzlich zu den schulischen Zulassungskriterien auch Gegenstand eines Auswahlverfahrens ist, bleiben die Schülerinnen, Schüler und Lernenden aus Moutier verpflichtet, das Auswahlverfahren erfolgreich zu bestehen. Die Zulassung zum Auswahlverfahren für Schülerinnen, Schüler und Lernende aus Moutier erfolgt auf der Grundlage der bernischen Schulaufnahmekriterien. Die zuständige Behörde für die bernischen Schulaufnahmekriterien ist die bernische Behörde. Die Behörde für das Auswahlverfahren ist die zuständige Behörde des Kantons Jura.
+
+<sup>3</sup> Die Lernenden aus Moutier, die die bernische Aufnahmeprüfung für die Berufsmaturität nach dem EFZ (BM 2) vor dem Zeitpunkt des Übertritts bestanden haben, bleiben für eine Dauer von zwei Jahren ab dem Zeitpunkt des Übertritts in den entsprechenden Bildungsgang im Kanton Jura aufgenommen.
+
+#### Art. 8
+
+**Zulassungskriterien für die bernischen Schülerinnen und Schüler ab dem Schuljahr 2027/2028**
+
+<sup>1</sup> Für Zulassungsentscheidungen zur Sekundarstufe II ab dem Schuljahr 2027/2028 müssen bernische Schülerinnen und Schüler gemäss Artikel 4 der Vollzugsvereinbarung vom 20./28. Mai 2025 zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Kantonswechsel der Einwohnergemeinde Moutier betreffend den Volksschulbereich die jurassischen Schulzulassungskriterien erfüllen, auch wenn sie ihre Ausbildung im Kanton Bern fortsetzen.
+
+<sup>2</sup> Der Kanton Bern setzt die jurassische Entscheidung mit der bernischen Entscheidung gleich. Er kann bei Bedarf zusätzliche Aufnahmeprüfungen durchführen. In diesem Fall ist er der zuständige Kanton, und der Rechtsweg unterliegt dem bernischen Recht.
+
+<sup>3</sup> Falls die Aufnahme in den gewählten Bildungsgang im Kanton Bern zusätzlich zu den Zulassungskriterien auch Gegenstand eines Auswahlverfahrens ist, müssen die bernischen Schülerinnen und Schüler weiterhin das Auswahlverfahren erfolgreich bestehen. Für sie sind die jurassischen Schulaufnahmekriterien massgeblich. Beschwerdebehörde gegen die jurassischen Schulaufnahmekriterien ist die zuständige jurassische Behörde. Die Beschwerdebehörde gegen Entscheidungen bezüglich des Auswahlverfahrens ist die zuständige bernische Behörde.
+
+### 2.3 Schulort der Schülerinnen, Schüler und Lernenden aus dem Kanton Bern sowie aus Moutier und Finanzierung
+
+#### Art. 9
+
+**Beginn der Fachausbildungen**
+
+<sup>1</sup> Die Berufsmaturität nach dem EFZ (BM 2) und die Fachmaturitätslehrgänge gelten in Bezug auf die Bestimmung des Schulorts gemäss den Artikeln von Abschnitt 3 dieses Kapitels als eigenständige Ausbildungsgänge.
+
+#### Art. 10
+
+**Beginn der Ausbildung für bernische Schülerinnen und Schüler**
+
+<sup>1</sup> Die bernischen Schülerinnen und Schüler, die zum Zeitpunkt des Kantonswechsels die Sekundarschule in der Gemeinde Moutier besuchen, absolvieren danach grundsätzlich eine Übergangsausbildung, eine allgemeine Ausbildung oder eine vollschulische berufliche Grundausbildung im Kanton Bern.
+
+<sup>2</sup> Sie melden sich für die bernischen Schulen und Bildungsgänge der Sekundarstufe II ihrer Wahl an.
+
+#### Art. 11
+
+**Beginn der Ausbildung im Schuljahr 2024/2025 für Schülerinnen, Schüler und Lernende aus Moutier**
+
+<sup>1</sup> Die Schülerinnen und Schüler aus Moutier, die zu Beginn oder im Laufe des Schuljahres 2024/2025 eine allgemeine Ausbildung, eine Übergangsausbildung oder eine vollschulische berufliche Grundausbildung beginnen, entscheiden frei zwischen den Kantonen Bern und Jura, in welchem Kanton sie ihre Ausbildung absolvieren möchten, wenn diese Ausbildung in beiden Kantonen angeboten wird.
+
+<sup>2</sup> Die Lernenden aus Moutier, die sich für das Schuljahr 2024/2025 für eine berufliche Grundausbildung in einem Lehrbetrieb in Moutier verpflichten und für den schulischen Teil der Ausbildung zwischen den Kantonen Bern und Jura wählen können, entscheiden im Einvernehmen mit ihrem Lehrbetrieb, in welchem Kanton dieser schulische Teil absolviert wird.
+
+<sup>3</sup> Der Kanton Bern verpflichtet sich, dem Kanton Jura bis zum Ende des ersten Semesters des Schuljahres 2025/2026 die Beiträge an die Unterrichtskosten für die von den Absätzen 1 und 2 betroffenen Schülerinnen, Schüler und Lernenden zu zahlen, die sich für eine Ausbildung im Kanton Jura entschieden haben.
+
+<sup>4</sup> Der Kanton Jura verpflichtet sich, dem Kanton Bern ab Beginn des zweiten Semesters 2025/2026 bis zum Ende der begonnenen Ausbildung die Beiträge an die Unterrichtskosten für die von den Absätzen 1 und 2 betroffenen Schülerinnen, Schüler und Lernenden zu zahlen, die sich für eine Ausbildung im Kanton Bern entschieden haben.
+
+#### Art. 12
+
+**Beginn der Ausbildung im Schuljahr 2025/2026 für Schülerinnen, Schüler und Lernende aus Moutier**
+
+<sup>1</sup> Schülerinnen, Schüler und Lernende aus Moutier, die zu Beginn oder während des Schuljahres 2025/2026 eine Ausbildung auf Sekundarstufe II beginnen, absolvieren ihre Ausbildung unter Vorbehalt von Absatz 3 dieses Artikels und Artikel 14 Absatz 1 im Kanton Jura.
+
+<sup>2</sup> Der Kanton Bern verpflichtet sich, dem Kanton Jura bis zum Ende des ersten Semesters des Schuljahres 2025/2026 die Beiträge an die Unterrichtskosten für die von Absatz 1 betroffenen Schülerinnen, Schüler und Lernende zu zahlen.
+
+<sup>3</sup> Aus den in Artikel 3 der BEJUNE-Vereinbarung genannten Gründen kann von dem in Absatz 1 genannten Grundsatz abgewichen werden.
+
+<sup>4</sup> Die in Absatz 3 vorgesehenen Ausnahmen bedürfen der Genehmigung durch die zuständige bernische Behörde. Wird eine Ausnahme gewährt, verpflichtet sich der Kanton Bern, bis zum Ende der Ausbildung der zahlungspflichtige Kanton zu sein.
+
+#### Art. 13
+
+**Beginn der Ausbildung eines zweisprachigen Bildungsgangs im Schuljahr 2025/2026 für Schülerinnen und Schüler aus Moutier**
+
+<sup>1</sup> Eine Bewilligung im Sinne von Artikel 12 Absätze 3 und 4 ist nicht erforderlich für Schülerinnen und Schüler aus Moutier, die zu Beginn oder während des Schuljahres 2025/2026 eine Ausbildung im Rahmen des zweisprachigen Bildungsgangs an der Fachmittelschule bzw. Fachmaturitätsschule Biel beginnen.
+
+<sup>2</sup> Der Kanton Bern verpflichtet sich, bis zum Ende der Ausbildung der in Absatz 1 genannten Schülerinnen und Schüler der zahlungspflichtige Kanton zu sein.
+
+#### Art. 14
+
+**Beginn der gymnasialen Ausbildung in den Schuljahren 2025/2026 und 2026/2027 für Schülerinnen und Schüler aus Moutier**
+
+<sup>1</sup> Die Schülerinnen und Schüler aus Moutier, die zu Beginn oder während der Schuljahre 2025/2026 und 2026/2027 eine gymnasiale Ausbildung beginnen, entscheiden frei zwischen dem Gymnasium Biel und dem Lycée cantonal in Pruntrut, an welcher Schule sie ihre Ausbildung absolvieren wollen.
+
+<sup>2</sup> Der Kanton Bern verpflichtet sich, dem Kanton Jura bis zum Ende des ersten Semesters des Schuljahres 2025/2026 die Beiträge an die Unterrichtskosten für die von Absatz 1 betroffenen Schülerinnen und Schüler zu zahlen, die sich für eine gymnasiale Ausbildung im Kanton Jura entschieden haben.
+
+<sup>3</sup> Der Kanton Jura verpflichtet sich, dem Kanton Bern ab dem Beginn des zweiten Semesters 2025/2026 bis zum Ende der begonnenen Ausbildung die Beiträge an die Unterrichtskosten für die von Absatz 1 betroffenen Schülerinnen und Schüler zu zahlen, die sich für eine gymnasiale Ausbildung im Kanton Bern entschieden haben.
+
+<sup>4</sup> Die Stellung der Schülerinnen und Schüler im 10. HarmoS-Schuljahr, die zum Zeitpunkt des Übertritts den zweisprachigen Bildungsgang der Bieler Gymnasien oder den interkantonalen bilingualen gymnasialen Bildungsgang der Kantone Basel-Landschaft und Jura beginnen möchten, sowie die Finanzierung werden in der Vollzugsvereinbarung vom 20./28. Mai 2025 zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Kantonswechsel der Einwohnergemeinde Moutier betreffend den Volksschulbereich geregelt.
+
+## 3 Aufsicht über die Unternehmen und Betreuung der Lernenden aus Moutier
+
+#### Art. 15
+
+**Aufsicht über die Unternehmen aus Moutier**
+
+<sup>1</sup> Zum Zeitpunkt des Übertritts geht die Aufsicht über die in Moutier ansässigen Lehrbetriebe an die zuständigen jurassischen Behörden über.
+
+#### Art. 16
+
+**Lehr- und Praktikumsverträge**
+
+<sup>1</sup> Die von den Unternehmen aus Moutier abgeschlossenen und vom Kanton Bern genehmigten Lehrverträge bleiben gültig und gelten als mit dem jurassischen Recht vereinbar, vorbehaltlich der zwingenden Bestimmungen des jurassischen Rechts.
+
+<sup>2</sup> Praktikumsverträge, die mit Lehr- oder Ausbildungsverträgen in Verbindung stehen, unterliegen dem Recht, das auf den Lehr- oder Ausbildungsvertrag anwendbar ist, und unterstehen der Aufsicht der Behörde, die für den verknüpften Vertrag zuständig ist. Praktikumsverträge, die von den zuständigen bernischen Behörden genehmigt wurden, gelten als von den zuständigen jurassischen Behörden genehmigt.
+
+#### Art. 17
+
+**Ausbildungsbewilligungen**
+
+<sup>1</sup> Ausbildungsbewilligungen, die vom Kanton Bern vor dem Zeitpunkt des Kantonswechsels an die in Moutier ansässigen Lehrbetriebe ausgestellt wurden, bleiben gültig und gelten als mit dem jurassischen Recht vereinbar, bis sie von der zuständigen jurassischen Behörde erneuert werden, was innerhalb von drei Jahren nach dem Zeitpunkt der Kantonswechsels zu erfolgen hat.
+
+#### Art. 18
+
+**Betreuung der Lernenden aus Moutier**
+
+<sup>1</sup> Ab dem Zeitpunkt des Übertritts werden die Lernenden aus Moutier durch die zuständigen jurassischen Behörden betreut.
+
+## 4 Datenaustausch zwischen den zuständigen Behörden
+
+#### Art. 19
+
+**Datenaustausch bezüglich der Beiträge an die Unterrichtskosten**
+
+<sup>1</sup> Die zuständigen Behörden des forderungsberechtigten Kantons stellen den zuständigen Behörden des leistungspflichtigen Kantons rechtzeitig die Informationen zur Verfügung, die für die Übernahme der Beiträge an die Unterrichtskosten erforderlich sind, wenn nötig in Zusammenarbeit mit den Schülerinnen, Schülern und Lernenden oder ihren gesetzlichen Vertretern.
+
+#### Art. 20
+
+**Datenaustausch bezüglich der Betreuung der Lernenden und der Aufsicht über die Lehrbetriebe**
+
+<sup>1</sup> Die zuständigen bernischen Behörden übermitteln die von den in Moutier ansässigen Lehrbetrieben abgeschlossenen Lehrverträge sowie die Daten der Lernenden an die zuständigen jurassischen Behörden, damit diese die Aufgaben erfüllen können, die ihnen durch die eidgenössische und kantonale Gesetzgebung sowie durch diese Vollzugsvereinbarung übertragen werden.
+
+<sup>2</sup> Die Übermittlung gemäss Absatz 1 erfolgt vor dem Zeitpunkt des Übertritts innerhalb einer Frist, die es den zuständigen jurassischen Behörden ermöglicht, die ihnen übertragenen Aufgaben zu erfüllen.
+
+## 5 Inkrafttreten
+
+#### Art. 21
+
+<sup>1</sup> Diese Verordnung tritt unter Vorbehalt von Absatz 2 am 1. Juli 2025 in Kraft.
+
+<sup>2</sup> Die Artikel 2, 3, 4, 7, 9 und 11 treten rückwirkend auf den 1. Januar 2025 in Kraft.
+
+Bern, 28. Mai 2025 / Delsberg, 20. Mai 2025
+
+Im Namen des Regierungsrates des Kantons Bern
+
+Die Präsidentin: Allemann
+
+Der Staatsschreiber: Auer
+
+Im Namen der Regierung des Kantons Jura
+
+Der Präsident: Courtet
+
+Der Staatsschreiber: Maître
+
+25-045
