@@ -4,13 +4,13 @@ number: "301.111"
 title: Verordnung zum Gesundheitsgesetz
 short: GesV
 language: de
-version: 2023-11-01
-valid_until: 2025-06-30
-version_adopted: 2023-08-30
+version: 2025-07-01
+valid_until: 2025-12-31
+version_adopted: 2025-04-02
 adopted: 2009-11-11
 in_force: 2010-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/301.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3630/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3815/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,17 +19,19 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3630/pdf_file"
 
 (GesV)
 
-Vom 11.11.2009 (Stand 01.11.2023)
+Vom 11.11.2009 (Stand 01.07.2025)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf Art. 8 des Bundesgesetzes über den Schutz vor Gefährdungen durch nichtionisierende Strahlung und Schall (NISSG) vom 16. Juni 2017[^ingress-1], die §§ 2 Abs. 1, 3 Abs. 1 lit. b, 34 Abs. 3, 36a, 37 Abs. 3, 38 Abs. 5, 40 Abs. 3, 40b Abs. 3, 40c Abs. 1, 40d Abs. 4 und 40e Abs. 2 des Gesetzes über die Organisation des Regierungsrates und der kantonalen Verwaltung (Organisationsgesetz) vom 26. März 1985[^ingress-2] und § 57 des Gesundheitsgesetzes (GesG) vom 20. Januar 2009[^ingress-3],
+gestützt auf Art. 8 des Bundesgesetzes über den Schutz vor Gefährdungen durch nichtionisierende Strahlung und Schall (NISSG) vom 16. Juni 2017[^ingress-1], § 91 Abs. 2<sup>bis</sup> der Verfassung des Kantons Aargau (Kantonsverfassung, KV) vom 25. Juni 1980[^ingress-2], § 50 Abs. 2 des Gesetzes über die Verwaltungsrechtspflege (Verwaltungsrechtspflegegesetz, VRPG) vom 4. Dezember 2007[^ingress-3], die §§ 2 Abs. 1, 3 Abs. 1 lit. b, 34 Abs. 3, 36a, 37 Abs. 3, 38 Abs. 5, 40 Abs. 3, 40b Abs. 3, 40c Abs. 1, 40d Abs. 4 und 40e Abs. 2 des Gesetzes über die Organisation des Regierungsrates und der kantonalen Verwaltung (Organisationsgesetz) vom 26. März 1985[^ingress-4] und § 57 des Gesundheitsgesetzes (GesG) vom 20. Januar 2009[^ingress-5],
 
 beschliesst:
 
 [^ingress-1]: SR [814.71](https://db.clex.ch/link/Bund/814.71/de)
-[^ingress-2]: SAR [153.100](https://gesetzessammlungen.ag.ch/data/153.100/de)
-[^ingress-3]: SAR [301.100](https://gesetzessammlungen.ag.ch/data/301.100/de)
+[^ingress-2]: SAR [110.000](https://gesetzessammlungen.ag.ch/data/110.000/de)
+[^ingress-3]: SAR [271.200](https://gesetzessammlungen.ag.ch/data/271.200/de)
+[^ingress-4]: SAR [153.100](https://gesetzessammlungen.ag.ch/data/153.100/de)
+[^ingress-5]: SAR [301.100](https://gesetzessammlungen.ag.ch/data/301.100/de)
 
 ## 1. Allgemeines
 
@@ -66,7 +68,7 @@ beschliesst:
 - m) …
 - n) Anordnungsberechtigte Ärzteschaft im Bereich von fürsorgerischen Unterbringungen (FU-Ärztinnen und -Ärzte),
 - o) Infektionsärztinnen und -ärzte,
-- p) Ärztinnen und Ärzte des koordinierten Sanitätsdienstes (KSD-Ärztinnen und -Ärzte).
+- p) Ärztinnen und Ärzte des koordinierten Sanitätsdienstes (KSD-Ärztinnen und ‑Ärzte).
 
 #### § 3
 
@@ -173,6 +175,15 @@ beschliesst:
 
 <sup>1</sup> Unter Aufsicht der Kantonschemikerin oder des Kantonschemikers vollziehen die Lebensmittelkontrollorgane die ihnen durch das eidgenössische oder kantonale Recht übertragenen Aufgaben.
 
+<sup>2</sup> Die Lebensmittelkontrollorgane vollziehen die Bestimmungen des Bundesgesetzes über Tabakprodukte und elektronische Zigaretten (TabPG) vom 1. Oktober 2021[^11-1]. Insbesondere überprüfen sie die in Art. 25 ff. TabPG und Art. 21 ff. der Verordnung über Tabakprodukte und elektronische Zigaretten (Tabakprodukteverordnung, TabPV) vom 28. August 2024[^11-2] festgehaltenen Pflichten der Unternehmen.
+
+<sup>3</sup> Sie können gestützt auf Art. 37 Abs. 3 TabPG auf Kosten des kontrollierten Betriebs die erforderlichen Massnahmen treffen, um widerrechtliche Zustände zu beseitigen. Namentlich können sie fehlbaren Betrieben bei wiederholten Verstössen gegen die Jugendschutzbestimmungen ein Verkaufsverbot auferlegen. Das Verkaufsverbot darf drei Monate nicht übersteigen.
+
+<sup>4</sup> Die Vollzugsorgane können gestützt auf Art. 43 TabPG Gebühren für die durchgeführten Kontrollen und die getroffenen Massnahmen erheben. Es sei denn, die Kontrollen führen zu keinen Beanstandungen.
+
+[^11-1]: SR [818.32](https://db.clex.ch/link/Bund/818.32/de)
+[^11-2]: SR [818.321](https://db.clex.ch/link/Bund/818.321/de)
+
 #### § 12
 
 **Amtstierärztinnen und Amtstierärzte**
@@ -272,50 +283,43 @@ beschliesst:
 
 **Zuständigkeit**
 
-<sup>1</sup> Das Amt für Verbraucherschutz kontrolliert die Einhaltung der Verkaufsverbote von Tabakwaren gemäss § 37 Abs. 1 und 2 GesG.
+<sup>1</sup> Die Lebensmittelkontrollorgane kontrollieren die Einhaltung der Abgabeverbote gemäss Art. 23 TabPG, Art. 14 Abs. 1 des Bundesgesetzes über Lebensmittel und Gebrauchsgegenstände (Lebensmittelgesetz, LMG) vom 20. Juni 2014[^16-1] und Art. 41 Abs. 1 lit. i des Bundesgesetzes über die gebrannten Wasser (Alkoholgesetz, AlkG) vom 21. Juni 1932[^16-2].
+
+<sup>2</sup> Zur Überprüfung der Abgabeverbote gemäss Absatz 1 können sie Testkäufe gestützt auf Art. 24 TabPG beziehungsweise 14a LMG durchführen oder Dritte damit beauftragen.
+
+<sup>3</sup> Die kommunalen und regionalen Polizeiorgane unterstützen die Lebensmittelkontrollorgane bei der Organisation der Testkäufe.
+
+<sup>4</sup> Die Gemeinden unterstützen die Lebensmittelkontrollorgane bei der Erstellung und Aktualisierung der Verzeichnisse der kontrollpflichtigen Betriebe. Sie können insbesondere fehlbare Betriebe melden und Testkäufe anregen.
+
+[^16-1]: SR [817.0](https://db.clex.ch/link/Bund/817.0/de)
+[^16-2]: SR [680](https://db.clex.ch/link/Bund/680/de)
 
 #### § 17
 
-**Anpreisungsbeschränkung für Tabakwaren**
-
-<sup>1</sup> Am Verkaufspunkt für Tabakwaren ist ein gut sichtbares Schild anzubringen, auf dem in gut lesbarer Schrift darauf hingewiesen wird, dass die Abgabe von Tabakwaren an Kinder und Jugendliche unter 16 Jahren verboten ist.
+**…**
 
 #### § 18
 
 **Rahmenbedingungen für Testkäufe**
 
-<sup>1</sup> Testkäufe zur Kontrolle der Abgabevorschriften für Tabakwaren und alkoholische Getränke an Kinder und Jugendliche haben folgende Rahmenbedingungen einzuhalten:
+<sup>1</sup> Die Lebensmittelkontrollorgane legen die Rahmenbedingungen für die Testkäufe in einem Testkonzept fest und orientieren sich für dessen Inhalt an Art. 36 Abs. 2 TabPV.
 
-- a) Für Testkäufe sind immer zwei Jugendliche einzusetzen, die von mindestens einer erwachsenen Person begleitet und beim Testkauf in geeigneter Weise beobachtet werden.
-- b) Das Alter der Testpersonen hat mindestens 3 Monate unter dem Schutzalter zu liegen. Das Erscheinungsbild der Testpersonen muss altersgemäss sein und darf nicht mit kosmetischen oder andern Mitteln markant verändert werden. Es ist vorgängig fotografisch zu dokumentieren.
-- c) Die Testpersonen dürfen gegenüber der zu überprüfenden Person lediglich ein Kaufinteresse äussern und deren Willensbildung nicht auf andere Weise beeinflussen. Sobald die zu überprüfende Person von den Testpersonen die Vorlage eines Ausweises verlangt beziehungsweise die Abgabe der Tabakwaren oder alkoholischen Getränke verweigert, ist der Testkauf abzubrechen.
-- d) Unmittelbar nach Beendigung des Testkaufs hat die Begleitperson die überprüfte Person über die Durchführung des Tests und über allfällig festgestellte Widerhandlungen gegen § 37 Abs. 1 und 2 GesG zu informieren.
+- a) …
+- b) …
+- c) …
+- d) …
 
 #### § 19
 
-**Testpersonen**
-
-<sup>1</sup> Jugendliche dürfen nur mit schriftlichem Einverständnis ihrer gesetzlichen Vertreter als Testpersonen eingesetzt werden. Die Teilnahme an Testkäufen ist in jedem Falle freiwillig.
-
-<sup>2</sup> Die Jugendlichen sind vor den Testkäufen zu schulen und insbesondere auch über die rechtlichen Grundlagen der Tabak- und Alkoholprävention zu informieren.
-
-<sup>3</sup> Jugendliche dürfen nicht an ihrem Wohnort oder in einer unmittelbar benachbarten Gemeinde für Testkäufe eingesetzt werden. Ihre Identität ist bei den Testkäufen geheim zu halten.
-
-<sup>4</sup> Nach Abschluss der Testkäufe sind die Jugendlichen in geeigneter Weise nachzubetreuen.
+**…**
 
 #### § 20
 
-**Begleitpersonen**
-
-<sup>1</sup> Die Begleitpersonen sind für den Vollzug der Testkäufe verantwortlich. Sie haben namentlich die Pflicht, mögliche Schädigungen der Testpersonen zu verhindern, und schreiten ein, wenn es die Situation erfordert.
-
-<sup>2</sup> Die Begleitpersonen haben den Verlauf und das Ergebnis jedes Testkaufs zu dokumentieren.
+**…**
 
 #### § 21
 
-**Geheimhaltungspflichten**
-
-<sup>1</sup> Wahrnehmungen im Zusammenhang mit Testkäufen sind von allen an den Testkäufen beteiligten Personen geheim zu halten.
+**…**
 
 #### § 22
 
@@ -324,6 +328,8 @@ beschliesst:
 <sup>1</sup> Gegen die gestützt auf § 37 Abs. 1 und 2 GesG ergangenen Verfügungen kann innert 10 Tagen beim Amt für Verbraucherschutz Einsprache erhoben werden.
 
 <sup>2</sup> Gegen Einspracheentscheide des Amts für Verbraucherschutz kann innert 30 Tagen Beschwerde beim Departement Gesundheit und Soziales erhoben werden. Dessen Entscheid ist an das Verwaltungsgericht weiterziehbar.
+
+<sup>3</sup> Gegen verwaltungsrechtliche Massnahmen, welche die Vollzugsorgane gestützt auf diese Verordnung oder Art. 37 TabPG verfügt haben, kann innert 30 Tagen Beschwerde beim Departement Gesundheit und Soziales erhoben werden. Dessen Entscheid ist an das Verwaltungsgericht weiterziehbar.
 
 ### 3.3. Schutz vor Passivrauchen
 
@@ -335,13 +341,13 @@ beschliesst:
 
 #### § 24
 
-**Raucherbetriebe; Bewilligung**
+**Raucherbetriebe und Degustationszonen; Bewilligung**
 
-<sup>1</sup> Das Gesuch um Erteilung einer Bewilligung als Raucherbetrieb gemäss der eidgenössischen Gesetzgebung zum Schutz vor Passivrauchen ist dem Amt schriftlich mit den erforderlichen Angaben und Unterlagen einzureichen. Diese haben zu belegen, dass die Bewilligungsvoraussetzungen erfüllt sind.
+<sup>1</sup> Das Gesuch um Erteilung einer Bewilligung als Raucherbetrieb oder um Einrichtung einer Degustationszone in spezialisierten Verkaufsgeschäften gemäss der eidgenössischen Gesetzgebung zum Schutz vor Passivrauchen ist dem Amt schriftlich mit den erforderlichen Angaben und Unterlagen einzureichen. Diese haben zu belegen, dass die Bewilligungsvoraussetzungen erfüllt sind.
 
 <sup>2</sup> Die Bewilligung wird durch das Amt auf die betriebsleitende Person und auf den Betrieb ausgestellt.
 
-<sup>3</sup> Ein Raucherbetrieb darf erst geführt werden, wenn die Bewilligung vorliegt.
+<sup>3</sup> Ein Raucherbetrieb darf erst geführt oder eine Degustationszone in einem spezialisierten Verkaufsgeschäft eingerichtet werden, wenn die Bewilligung vorliegt.
 
 <sup>4</sup> Veränderungen an den Lüftungsanlagen und den Räumlichkeiten sowie der Wechsel der betriebsleitenden Person erfordern eine neue Bewilligung.
 
@@ -409,7 +415,7 @@ beschliesst:
 - a) praktische Ärztin beziehungsweise praktischer Arzt,
 - b) Allgemeinmedizin,
 - c) Innere Medizin,
-- d) Kinder- und Jugendmedizin inklusive Kinder- und Jugendpsychiatrie und -psychotherapie.
+- d) Kinder- und Jugendmedizin inklusive Kinder- und Jugendpsychiatrie und ‑psychotherapie.
 
 <sup>2</sup> Die finanzielle Unterstützung erfolgt gemäss den Richtlinien des Departements Gesundheit und Soziales sowie nach Massgabe der zur Verfügung stehenden Mittel.
 
