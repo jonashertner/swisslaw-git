@@ -4,11 +4,11 @@ number: "211.1"
 title: Gesetz über die Gerichts- und Behördenorganisation im Zivil- und Strafprozess (GOG)
 short: GOG
 language: de
-version: "2024-01-01"
-nachtrag: "126"
-valid_until: 2025-07-01
+version: "2025-07-01"
+nachtrag: "129"
+valid_until: 2026-01-01
 adopted: 2010-05-10
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-211_1-2010_05_10-2011_01_01-126.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-211_1-2010_05_10-2011_01_01-129.html"
 text: pdf
 ---
 
@@ -50,7 +50,7 @@ Die ZPO, die StPO, die JStPO und dieses Gesetz finden unter Vorbehalt besonderer
 
 **1**
 
-1.10. 24 - 126
+- 1\. 7. 25 - 129
 
 ### 2. Teil: Gerichte
 
@@ -136,9 +136,11 @@ Das Gesetz über die politischen Rechte vom 1. September 2003 (GPR)<sup>6</sup> 
 
 **3**
 
-1.10. 24 - 126 § 10. Das Bezirksgericht wählt nach seiner Gesamterneuerung auf seine Amtsdauer aus seinen Mitgliedern die Präsidentinnen und Präsidenten a. des Arbeitsgerichts,
+- 1\. 7. 25 - 129 § 10. Das Bezirksgericht wählt nach seiner Gesamterneuerung auf seine Amtsdauer aus seinen Mitgliedern die Präsidentinnen und Präsidenten
 
 **Präsidium der Arbeits-, Miet- und Jugendgerichte**
+
+- a. des Arbeitsgerichts,
 
 - b. des Mietgerichts,
 
@@ -234,7 +236,7 @@ Das Bezirksgericht entscheidet erstinstanzlich Streitigkeiten, für die das orde
 
 **5**
 
-1.10. 24 - 126 § 20. <sup>1</sup> Das Bezirksgericht entscheidet als Arbeitsgericht erstinstanzlich:
+- 1\. 7. 25 - 129 § 20. <sup>1</sup> Das Bezirksgericht entscheidet als Arbeitsgericht erstinstanzlich:
 
 **b. Als Arbeitsgericht**
 
@@ -332,9 +334,11 @@ Die Präsidentin oder der Präsident des Jugendgerichts beurteilt als Einzelgeri
 
 **7**
 
-1.10. 24 - 126 § 29. <sup>1</sup> Das Einzelgericht eines Bezirksgerichts im örtlichen Zuständigkeitsbereich der Staatsanwaltschaft, der Jugendanwaltschaft oder der Übertretungsstrafbehörde ist Zwangsmassnahmengericht gemäss StPO<sup>33</sup> und JStPO<sup>34,</sup> <sup>70</sup> a. in Haftverfahren,
+- 1\. 7. 25 - 129 § 29. <sup>1</sup> Das Einzelgericht eines Bezirksgerichts im örtlichen Zuständigkeitsbereich der Staatsanwaltschaft, der Jugendanwaltschaft oder der Übertretungsstrafbehörde ist Zwangsmassnahmengericht gemäss StPO<sup>33</sup> und JStPO<sup>34,</sup> <sup>70</sup>
 
 **c. Zwangsmassnahmengericht**
+
+- a. in Haftverfahren,
 
 - b. im Anwendungsbereich
 
@@ -388,11 +392,13 @@ Die Präsidentin oder der Präsident des Jugendgerichts beurteilt als Einzelgeri
 
 <sup>1</sup> Das Obergericht besteht aus einer vollamtlichen Präsidentin oder einem vollamtlichen Präsidenten sowie vollamtlichen und teilamtlichen Mitgliedern. Diese bilden die Plenarversammlung.
 
-<sup>2</sup> Der Kantonsrat legt nach Anhörung des Obergerichts die gesamten Stellenprozente der Mitglieder fest.
+<sup>2</sup> Wählbar als Mitglied ist, wer ein juristisches Studium gemäss Art. 7 Abs. 1 Bst. a BGFA<sup>40</sup> abgeschlossen hat.<sup>71</sup>
 
-<sup>3</sup> Mit der Wahl setzt er den Beschäftigungsgrad fest.
+<sup>3</sup> Der Kantonsrat legt nach Anhörung des Obergerichts die gesamten Stellenprozente der Mitglieder fest.
 
-<sup>4</sup> Das Obergericht kann den Beschäftigungsgrad einzelner Mitglieder mit deren Einverständnis im Rahmen der gesamten Stellenprozente verändern. Mit dem Ausscheiden eines betroffenen Mitglieds oder mit dem Ablauf der Amtsdauer erlischt die Veränderung.<sup>68</sup>
+<sup>4</sup> Mit der Wahl setzt er den Beschäftigungsgrad fest.
+
+<sup>5</sup> Das Obergericht kann den Beschäftigungsgrad einzelner Mitglieder mit deren Einverständnis im Rahmen der gesamten Stellenprozente verändern. Mit dem Ausscheiden eines betroffenen Mitglieds oder mit dem Ablauf der Amtsdauer erlischt die Veränderung.<sup>68</sup>
 
 **Ersatzmitglieder**
 
@@ -404,17 +410,19 @@ Die Präsidentin oder der Präsident des Jugendgerichts beurteilt als Einzelgeri
 
 <sup>1</sup> Der Kantonsrat legt die Zahl der Handelsrichterinnen und -richter fest.
 
+**9**
+
+- 1\. 7. 25 - 129
+
 <sup>2</sup> Die Kantonsratskommission gemäss Art. 75 Abs. 1 Satz 2 KV<sup>5</sup> schreibt die Stellen öffentlich aus und prüft die Kandidaturen.
 
 <sup>3</sup> . . .<sup>47</sup>
 
-**9**
+**Präsidien**
 
-1.10. 24 - 126 § 37. Die Plenarversammlung wählt nach der Gesamterneuerung für den Rest des Kalenderjahres und je am Jahresende für das folgende Jahr eines seiner Mitglieder als Präsidentin oder Präsidenten sowie die erforderlichen Vizepräsidentinnen und -präsidenten.
+§ 37. Die Plenarversammlung wählt nach der Gesamterneuerung für den Rest des Kalenderjahres und je am Jahresende für das folgende Jahr eines seiner Mitglieder als Präsidentin oder Präsidenten sowie die erforderlichen Vizepräsidentinnen und -präsidenten.
 
 #### § 38
-
-**Präsidien**
 
 **Kammern, Handels- und Zwangsmassnahmengericht**
 
@@ -602,7 +610,7 @@ nach dem Gleichstellungsgesetz
 
 **13**
 
-1.10. 24 - 126
+- 1\. 7. 25 - 129
 
 <sup>2</sup> Das Obergericht wählt auf die Amtsdauer seiner Mitglieder die Mitglieder der Schlichtungsbehörde. Die privaten und öffentlichen Arbeitgebenden und die Verbände unterbreiten dem Obergericht Wahlvorschläge. Sie achten dabei auf eine gleichmässige Vertretung von Frauen und Männern.
 
@@ -710,7 +718,7 @@ Gerichtsübergreifende Justizverwaltungsorgane sind:
 
 **15**
 
-1.10. 24 - 126
+- 1\. 7. 25 - 129
 
 <sup>3</sup> Der Plenarausschuss verhandelt und beschliesst unter dem Vorsitz der Präsidentin, des Präsidenten, der Vizepräsidentin oder des Vizepräsidenten der Verwaltungskommission. Jedes oberste kantonale Gericht muss mit mindestens einem Mitglied vertreten sein. Die Sekretärin oder der Sekretär der Verwaltungskommission führt das Protokoll.
 
@@ -792,7 +800,7 @@ Die gerichtsübergreifenden Justizverwaltungsorgane sind für die Justizverwaltu
 
 **17**
 
-1.10. 24 - 126 § 78. Die Generalsekretärin oder der Generalsekretär des Obergerichts sowie die Leitenden Gerichtsschreiberinnen oder -schreiber sind Stabsstellen des jeweiligen Gerichts. Sie leiten die juristische und die administrative Kanzlei.
+- 1\. 7. 25 - 129 § 78. Die Generalsekretärin oder der Generalsekretär des Obergerichts sowie die Leitenden Gerichtsschreiberinnen oder -schreiber sind Stabsstellen des jeweiligen Gerichts. Sie leiten die juristische und die administrative Kanzlei.
 
 **Stabsstellen**
 
@@ -894,7 +902,9 @@ Die §§ 83 und 84 sind auf Beschwerdeverfahren anwendbar, die auf anderen kanto
 
 **19**
 
-1.10. 24 - 126 2. die Staatsanwaltschaften,
+- 1\. 7. 25 - 129
+
+- 2\. die Staatsanwaltschaften,
 
 - 3\. die Oberstaatsanwaltschaft,
 
@@ -988,7 +998,7 @@ Bussen, die von einer Gemeindebehörde ausgefällt und eingetrieben werden, fall
 
 **21**
 
-1.10. 24 - 126
+- 1\. 7. 25 - 129
 
 <sup>2</sup> Der Kantonsrat setzt die Zahl der Staatsanwältinnen und -anwälte im Kanton fest. Bei der Festlegung der Zahl der in den Bezirken zu wählenden Staatsanwältinnen und -anwälte berücksichtigt er insbesondere a. die Verteilung der erfassten Straftaten auf die Bezirke,
 
@@ -1078,7 +1088,7 @@ Die Oberstaatsanwaltschaft kann Mitarbeitende der Staatsanwaltschaft als Assiste
 
 **23**
 
-1.10. 24 - 126
+- 1\. 7. 25 - 129
 
 <sup>2</sup> Die Leitende Staatsanwältin oder der Leitende Staatsanwalt a. genehmigt Einstellungs-, Nichtanhandnahme- und Sistierungsverfügungen der Staatsanwaltschaft,
 
@@ -1184,7 +1194,7 @@ Der Regierungsrat ernennt die Oberjugendanwältinnen und -anwälte sowie die Lei
 
 **25**
 
-1.10. 24 - 126 § 114. <sup>1</sup> Die Oberjugendanwaltschaft plant, führt und steuert die Jugendstrafverfolgung im Kanton sowie die damit verbundenen Vollzugsaufgaben.
+- 1\. 7. 25 - 129 § 114. <sup>1</sup> Die Oberjugendanwaltschaft plant, führt und steuert die Jugendstrafverfolgung im Kanton sowie die damit verbundenen Vollzugsaufgaben.
 
 **Zuständigkeit**
 
@@ -1270,7 +1280,7 @@ Als Feiertage gelten Neujahrstag, Berchtoldstag (2. Januar), Karfreitag, Ostermo
 
 **27**
 
-1.10. 24 - 126 § 124. Entscheidet das Gericht nicht einstimmig, können die Minderheit sowie die Gerichtsschreiberin oder der Gerichtsschreiber ihre abweichende Meinung mit Begründung ins Protokoll aufnehmen lassen. Diese wird den Parteien mitgeteilt.
+- 1\. 7. 25 - 129 § 124. Entscheidet das Gericht nicht einstimmig, können die Minderheit sowie die Gerichtsschreiberin oder der Gerichtsschreiber ihre abweichende Meinung mit Begründung ins Protokoll aufnehmen lassen. Diese wird den Parteien mitgeteilt.
 
 #### § 125
 
@@ -1356,7 +1366,7 @@ Bild- und Tonaufnahmen innerhalb von Gerichtsgebäuden sowie Aufnahmen von Verfa
 
 **29**
 
-1.10. 24 - 126
+- 1\. 7. 25 - 129
 
 <sup>2</sup> Die Durchführung von Vergleichsverhandlungen kann diesen übertragen werden.
 
@@ -1448,7 +1458,9 @@ Das Einzelgericht gemäss § 24 ist die zuständige Behörde für a. das Vorverf
 
 **31**
 
-1.10. 24 - 126 d. den Verkauf und die Hinterlegung von Frachtgut (Art. 444, 445 und 453 OR),
+- 1\. 7. 25 - 129
+
+- d. den Verkauf und die Hinterlegung von Frachtgut (Art. 444, 445 und 453 OR),
 
 - e. die Hinterlegung der Wechselsumme mangels Vorlegung des Wechsels zur Zahlung (Art. 1032 OR).
 
@@ -1546,7 +1558,7 @@ Die Annahme einer amtlich zugestellten Erklärung darf nicht verweigert werden. 
 
 **33**
 
-1.10. 24 - 126
+- 1\. 7. 25 - 129
 
 <sup>2</sup> Die nationale Rechtshilfe wird von der am Ort der vorzunehmenden Verfahrenshandlung zuständigen Strafbehörde geleistet:
 
@@ -1626,7 +1638,7 @@ Die Protokollführung erfolgt bei den Strafbehörden unter Beizug einer Protokol
 
 **35**
 
-1.10. 24 - 126
+- 1\. 7. 25 - 129
 
 ### D. Parteien und andere Verfahrensbeteiligte
 
@@ -1732,7 +1744,7 @@ Der Regierungsrat erlässt die näheren Bestimmungen über den Vollzug der Unter
 
 **37**
 
-1.10. 24 - 126 § 164. Findet eine Hausdurchsuchung in Abwesenheit der Inhaberin oder des Inhabers der zu durchsuchenden Räume statt, kann der Gemeindeammann als geeignete Person im Sinne von Art. 245 Abs. 2 StPO beigezogen werden.
+- 1\. 7. 25 - 129 § 164. Findet eine Hausdurchsuchung in Abwesenheit der Inhaberin oder des Inhabers der zu durchsuchenden Räume statt, kann der Gemeindeammann als geeignete Person im Sinne von Art. 245 Abs. 2 StPO beigezogen werden.
 
 #### § 165
 
@@ -1814,7 +1826,7 @@ Staatsanwältinnen und -anwälte sowie Jugendanwältinnen und -anwälte, die gem
 
 **39**
 
-1.10. 24 - 126
+- 1\. 7. 25 - 129
 
 ### 5. Abschnitt: Besondere Verfahren gestützt auf das ZGB
 
@@ -1922,7 +1934,7 @@ Zivilverfahren, die bei Inkrafttreten dieses Gesetzes erstinstanzlich rechtshän
 
 **41**
 
-1.10. 24 - 126
+- 1\. 7. 25 - 129
 
 <sup>2</sup> Die Wahl der Beisitzenden für den Rest der laufenden Amtsdauer erfolgt so bald als möglich. Am Bezirksgericht Zürich amten die gewählten Arbeitsrichterinnen und Arbeitsrichter für den Rest der laufenden Amtsdauer.
 
@@ -2054,13 +2066,15 @@ Wer im Zeitpunkt des Inkrafttretens der Änderung vom 30. November 2015 als Mitg
 
 <sup>70</sup> Fassung gemäss G vom 25. September 2023 (OS 78, 463; ABl 2023-03-17). In Kraft seit 1. Januar 2024.
 
+<sup>71</sup> Eingefügt durch Gesetz über die Anpassung der Wählbarkeitsvoraussetzungen für die obersten kantonalen Gerichte vom 25. September 2023 (OS 79, 217). In Kraft seit 1. Juli 2025.
+
 **45**
 
-1.10. 24 - 126
+- 1\. 7. 25 - 129
 
 ## Weitere Fussnoten
 
-- [*] Heute: Art. 6 Abs. 1. 1.10. 24 - 126 11
+- [*] Heute: Art. 6 Abs. 1. 1. 7. 25 - 129 11
 - [1] OS 65, 520.
 - [2] Inkrafttreten: 1. Januar 2011.
 - [3] ABl 2009, 1489.
@@ -2091,4 +2105,4 @@ Wer im Zeitpunkt des Inkrafttretens der Änderung vom 30. November 2015 als Mitg
 - [28] SR 272.
 - [29] SR 281.1.
 - [30] SR 291.
-- [31] SR 311.0. 1.10. 24 - 126 43
+- [31] SR 311.0. 1. 7. 25 - 129 43
