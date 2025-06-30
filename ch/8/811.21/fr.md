@@ -4,11 +4,11 @@ title: Loi fédérale du 30 septembre 2016 sur les professions de la santé (LPS
 short: LPSan
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/16"
 language: fr
-version: 2024-07-01
+version: 2025-07-01
 adopted: 2016-09-30
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/16/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2020-16-20240701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/16/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/16/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2020-16-20250701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/16/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/16/20240701/fr"
 
 (LPSan)[^t-1]
 
-du 30 septembre 2016 (État le 1<sup>er</sup> juillet 2024)
+du 30 septembre 2016 (État le 1<sup>er</sup> juillet 2025)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -480,6 +480,14 @@ Le Conseil fédéral surveille l’exécution de la présente loi.
 
 Le Conseil fédéral édicte les dispositions d’exécution.
 
+#### Art. 32a
+
+**Traités internationaux**[^32a-1]
+
+Le Conseil fédéral peut, dans le champ d’application de la présente loi, conclure des traités internationaux en matière de reconnaissance de diplômes étrangers.
+
+[^32a-1]: Introduit par le ch. I 2 de la LF du 27 sept. 2024 sur la conclusion de traités internationaux en matière de reconnaissance des qualifications professionnelles, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 477](https://fedlex.data.admin.ch/eli/oc/2025/477); [FF 2024 460](https://fedlex.data.admin.ch/eli/fga/2024/460)).
+
 #### Art. 33
 
 **Modification d’autres actes**
@@ -536,6 +544,6 @@ Annexe
 
 Les actes mentionnés ci-après sont modifiés comme suit:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Les mod. peuvent être consultées au [RO 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16).

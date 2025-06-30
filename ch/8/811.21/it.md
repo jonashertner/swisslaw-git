@@ -4,11 +4,11 @@ title: Legge federale del 30 settembre 2016 sulle professioni sanitarie (LPSan)
 short: LPSan
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/16"
 language: it
-version: 2024-07-01
+version: 2025-07-01
 adopted: 2016-09-30
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/16/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2020-16-20240701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/16/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/16/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2020-16-20250701-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/16/20250701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/16/20240701/it"
 
 (LPSan)
 
-del 30 settembre 2016 (Stato 1° luglio 2024)
+del 30 settembre 2016 (Stato 1° luglio 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -373,7 +373,7 @@ Devono essere registrati:
 <sup>4</sup> Il Consiglio federale emana disposizioni più dettagliate sui dati personali contenuti nel registro e sulle relative modalità di trattamento.
 
 [^24-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^24-2]: Nuovo testo del per. giusta l’all. 1 n. II 72 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^24-2]: Nuovo testo del per. giusta l’all. 1 cifra II n. 72 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^24-3]: Nuovo testo giusta l’all. n. 24 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 25
@@ -478,6 +478,14 @@ Il Consiglio federale vigila sull’esecuzione della presente legge.
 
 Il Consiglio federale emana le disposizioni d’esecuzione.
 
+#### Art. 32a
+
+**Trattati internazionali**[^32a-1]
+
+Nel campo d’applicazione della presente legge il Consiglio federale può concludere trattati internazionali sul riconoscimento di titoli di studio esteri.
+
+[^32a-1]: Introdotto dalla cifra I n. 2 della LF del 27 set. 2024 concernente la conclusione di trattati internazionali sul riconoscimento delle qualifiche professionali, in vigore dal 1° lug. 2025 ([RU 2025 477](https://fedlex.data.admin.ch/eli/oc/2025/477); [FF 2024 460](https://fedlex.data.admin.ch/eli/fga/2024/460)).
+
 #### Art. 33
 
 **Modifica di altri atti normativi**
@@ -500,8 +508,8 @@ La modifica di altri atti normativi è disciplinata nell’allegato.
 
 <sup>6</sup> Gli articoli 29 e 30 sono applicabili alle domande presentate durante la loro validità.[^34-3]
 
-[^34-1]: [[RU 2000 948](http://www.admin.ch/ch/d/as/2000/948.pdf)](https://fedlex.data.admin.ch/eli/oc/2000/146), [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)all. cifra II 3, [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225), [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)cifra II 5, [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76)[3437](https://fedlex.data.admin.ch/eli/oc/2008/447)cifra II 18, [2011 5871](https://fedlex.data.admin.ch/eli/oc/2011/812), [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)cifra I 10, [2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)all. cifra I 1
-[^34-2]: [RU 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588), [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171), [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 37, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)cifra I 11, [2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)all. cifra I 2
+[^34-1]: [[RU 2000 948](http://www.admin.ch/ch/d/as/2000/948.pdf)](https://fedlex.data.admin.ch/eli/oc/2000/146), [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)all. cifra II n. 3, [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225), [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)cifra II n. 5, [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76)[3437](https://fedlex.data.admin.ch/eli/oc/2008/447)cifra II n. 18, [2011 5871](https://fedlex.data.admin.ch/eli/oc/2011/812), [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)cifra I n. 10, [2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)all. cifra I n. 1
+[^34-2]: [RU 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588), [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171), [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 37, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)cifra I n. 11, [2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)all. cifra I n. 2
 [^34-3]: In vigore dal 1° lug. 2024 ([RU 2024 216](https://fedlex.data.admin.ch/eli/oc/2024/216)).
 
 #### Art. 35
@@ -535,6 +543,6 @@ Allegato
 
 Gli atti normativi qui appresso sono modificati come segue:
 
-....[^annexu1-lvlu1-1]
+….[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16).

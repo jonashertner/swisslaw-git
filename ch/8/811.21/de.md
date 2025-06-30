@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 30. September 2016 über die Gesundheitsberufe (Gesundh
 short: GesBG
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/16"
 language: de
-version: 2024-07-01
+version: 2025-07-01
 adopted: 2016-09-30
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/16/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2020-16-20240701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/16/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/16/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2020-16-20250701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/16/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/16/20240701/de"
 
 (Gesundheitsberufegesetz, GesBG)
 
-vom 30. September 2016 (Stand am 1. Juli 2024)
+vom 30. September 2016 (Stand am 1. Juli 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -477,6 +477,14 @@ Der Bundesrat beaufsichtigt den Vollzug dieses Gesetzes.
 **Vollzug**
 
 Der Bundesrat erlässt die Ausführungsbestimmungen.
+
+#### Art. 32a
+
+**Internationale Verträge**[^32a-1]
+
+Der Bundesrat kann im Anwendungsbereich dieses Gesetzes internationale Verträge über die Anerkennung von ausländischen Bildungsabschlüssen abschliessen.
+
+[^32a-1]: Eingefügt durch Ziff. I 2 des BG vom 27. Sept. 2024 über den Abschluss internationaler Verträge über die Anerkennung von Berufsqualifikationen, in Kraft seit 1. Juli 2025 ([AS 2025 477](https://fedlex.data.admin.ch/eli/oc/2025/477); [BBl 2024 460](https://fedlex.data.admin.ch/eli/fga/2024/460)).
 
 #### Art. 33
 
