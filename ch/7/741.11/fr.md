@@ -4,11 +4,11 @@ title: Ordonnance du 13 novembre 1962 sur les règles de la circulation routièr
 short: OCR
 eli: "https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420"
 language: fr
-version: 2025-01-01
+version: 2025-07-01
 adopted: 1962-11-13
 in_force: 1963-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20250101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20250701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20250101/fr"
 
 (OCR)[^t-1]
 
-du 13 novembre 1962 (État le 1<sup>er</sup> janvier 2025)
+du 13 novembre 1962 (État le 1<sup>er</sup> juillet 2025)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 10 mars 1975, en vigueur depuis le 1<sup>er</sup> janv. 1976 ([RO 1975 541](https://fedlex.data.admin.ch/eli/oc/1975/541_541_541)).
 
@@ -27,7 +27,7 @@ vu les art. 2, al. 1, let. b, et 2, 9, al. 1<sup>bis</sup>, 2 et 3, 30, al. 1, 3
 
 arrête:
 
-[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 
 ## Introduction
@@ -61,7 +61,7 @@ arrête:
 <sup>\*</sup> Voir par ex. les art. 6 al. 1 et 2, et 47 al. 2.
 
 [^1-1]: Selon le ch. I de l’O du 15 mai 2002, les titres marginaux ont été remplacés par des titres médians, avec effet au 1<sup>er</sup> août 2002 ([RO 2002 1931](https://fedlex.data.admin.ch/eli/oc/2002/288)).
-[^1-2]: [RS 741.21](https://fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961)
+[^1-2]: [RS 741.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8639)
 [^1-3]: Nouvelle teneur selon le ch. I de l’O du 25 janv. 1989, en vigueur depuis le 1<sup>er</sup> mai 1989 ([RO 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
 [^1-4]: Nouvelle teneur selon le ch. I de l’O du 25 janv. 1989, en vigueur depuis le 1<sup>er</sup> mai 1989 ([RO 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
 [^1-5]: Nouvelle teneur selon le ch. I de l’O du 25 janv. 1989, en vigueur depuis le 1<sup>er</sup> mai 1989 ([RO 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
@@ -77,7 +77,7 @@ arrête:
 Les numéros placés entre parenthèses après la désignation de signaux et de marques se rapportent aux figures représentées à l’annexe 2 OSR[^1a-2].
 
 [^1a-1]: Introduit par le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
-[^1a-2]: [RS 741.21](https://fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961)
+[^1a-2]: [RS 741.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8639)
 
 ## Partie 1 Règles de circulation
 
@@ -162,7 +162,7 @@ Il y a influence de l’alcool si le conducteur présente:
 
 [^2a-1]: Introduit par le ch. I de l’O du 29 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4687](https://fedlex.data.admin.ch/eli/oc/2013/825)).
 [^2a-2]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3837](https://fedlex.data.admin.ch/eli/oc/2016/642)).
-[^2a-3]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^2a-3]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^2a-4]: Introduit par le ch. I de l’O du 26 oct. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3837](https://fedlex.data.admin.ch/eli/oc/2016/642)).
 [^2a-5]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2015 2595](https://fedlex.data.admin.ch/eli/oc/2015/492)).
 
@@ -227,7 +227,7 @@ Aux places équipées de ceintures de sécurité, les enfants de moins de douze 
 [^3a-3]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 [^3a-4]: Directive 91/671/CEE du Conseil du 16 décembre 1991 concernant le rapprochement des législations des États membres relatives au port obligatoire de la ceinture de sécurité dans les véhicules de moins de 3,5 tonnes, JO L 373 du 31.12.1991, p. 26; modifiée en dernier lieu par la directive 2014/37/UE, JO L 59 du 28.2.2014, p. 32.
 [^3a-5]: Introduite par le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5129](https://fedlex.data.admin.ch/eli/oc/2016/817)).
-[^3a-6]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^3a-6]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^3a-7]: Nouvelle teneur selon le ch. III de l’O du 9 juin 2023, en vigueur depuis le 15 juil. 2023 ([RO 2023 327](https://fedlex.data.admin.ch/eli/oc/2023/327)).
 [^3a-8]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 
@@ -247,17 +247,20 @@ Sont dispensés de l’obligation de porter le casque:
 - b. les personnes circulant dans l’enceinte d’une entreprise, à condition que leur vitesse n’excède pas 25 km/h;
 - c. les personnes se trouvant dans des cabines fermées;
 - d. les personnes occupant des sièges équipés de ceintures de sécurité;
-- e. les personnes occupant un véhicule dont la vitesse maximale par construction n’excède pas 20 km/h et qui sont éventuellement équipés d’une assistance au pédalage jusqu’à 25 km/h;
+- e.[^3b-2] les personnes circulant avec un véhicule dont la vitesse maximale par construction n’excède pas 20 km/h;
 - f. les conducteurs de cyclomoteurs qui, sur présentation d’un certificat médical, prouvent que le port du casque ne peut leur être imposé;
-- g. les conducteurs d’un fauteuil roulant motorisé (art. 18, let. c, OETV[^3b-2]).
+- g.[^3b-3] les personnes circulant avec un cyclomoteur équipé d’un système de propulsion électrique actif jusqu’à 25 km/h au maximum;
+- h.[^3b-4] les conducteurs d’un fauteuil roulant motorisé.
 
-<sup>3</sup> Sur les motocycles, avec ou sans side-car, les quadricycles légers, les quadricycles et tricycles à moteur ainsi que les cyclomoteurs, le port d’un casque homologué selon les dispositions du règlement CEE-ONU n<sup>o</sup> 22 dans la version figurant à l’annexe 2 OETV est obligatoire. Un casque conforme à la norme SN EN 1077[^3b-3] ou SN EN 1078[^3b-4] suffit sur les véhicules à chenilles; sur les cyclomoteurs, un casque de vélo conforme à la norme EN 1078 suffit.[^3b-5]
+<sup>3</sup> Sur les motocycles, avec ou sans side-car, les quadricycles légers, les quadricycles et tricycles à moteur ainsi que les cyclomoteurs, le port d’un casque homologué selon les dispositions du règlement CEE-ONU n<sup>o</sup> 22 dans la version figurant à l’annexe 2 OETV ou dans une version antérieure de ce règlement figurant dans l’OETV est obligatoire. Un casque conforme à la norme SN EN 1077[^3b-5] ou SN EN 1078[^3b-6] suffit sur les véhicules à chenilles; sur les cyclomoteurs, un casque de vélo conforme à la norme SN EN 1078 est suffisant.[^3b-7]
 
 [^3b-1]: Introduit par le ch. I de l’O du 20 mai 1981 ([RO 1981 507](https://fedlex.data.admin.ch/eli/oc/1981/507_507_507)). Nouvelle teneur selon le ch. I de l’O du 24 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
-[^3b-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^3b-3]: SN EN 1077, 2007, Casques pour skieurs de ski alpin et de surf des neiges. Cette norme peut être obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch).
-[^3b-4]: SN EN 1078, 2013, Casques pour cyclistes et pour utilisateurs de planches à roulettes et de patins à roulettes. Cette norme peut être obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch).
-[^3b-5]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
+[^3b-2]: Nouvelle teneur selon le ch. I de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 26](https://fedlex.data.admin.ch/eli/oc/2025/26)).
+[^3b-3]: Nouvelle teneur selon le ch. I de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 26](https://fedlex.data.admin.ch/eli/oc/2025/26)).
+[^3b-4]: Introduite par le ch. I de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 26](https://fedlex.data.admin.ch/eli/oc/2025/26)).
+[^3b-5]: SN EN 1077, *2007*, Casques pour skieurs de ski alpin et de surf des neiges. Cette norme peut être obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch).
+[^3b-6]: SN EN 1078, *2013*, Casques pour cyclistes et pour utilisateurs de planches à roulettes et de patins à roulettes. Cette norme peut être obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch).
+[^3b-7]: Nouvelle teneur selon le ch. I de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 26](https://fedlex.data.admin.ch/eli/oc/2025/26)).
 
 #### Art. 4
 
@@ -267,7 +270,7 @@ Sont dispensés de l’obligation de porter le casque:
 
 <sup>1</sup> Le conducteur ne doit pas circuler à une vitesse qui l’empêcherait de s’arrêter sur la distance à laquelle porte sa visibilité; lorsque le croisement est malaisé, il doit pouvoir s’arrêter sur la moitié de cette distance.
 
-<sup>2</sup> et <sup>3</sup> …[^4-1]
+<sup>2 et <sup>3</sup></sup> …[^4-1]
 
 <sup>4</sup> …[^4-2]
 
@@ -412,7 +415,7 @@ Lorsque des véhicules automobiles à voies multiples et des cycles utilisent la
 [^8-2]: Nouvelle teneur selon le ch. I de l’O du 25 janv. 1989, en vigueur depuis le 1<sup>er</sup> mai 1989 ([RO 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
 [^8-3]: Nouvelle teneur selon le ch. I de l’O du 15 mai 2002, en vigueur depuis le 1<sup>er</sup> août 2002 ([RO 2002 1931](https://fedlex.data.admin.ch/eli/oc/2002/288)).
 [^8-4]: Nouvelle teneur selon le ch. I de l’O du 25 janv. 1989, en vigueur depuis le 1<sup>er</sup> mai 1989 ([RO 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
-[^8-5]: [RS 741.21](https://fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961)
+[^8-5]: [RS 741.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8639)
 [^8-6]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 [^8-7]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 
@@ -540,7 +543,7 @@ Le conducteur ne dépassera pas un véhicule qui en dépasse un autre, sauf:
 <sup>3</sup> Celui qui, sortant d’une fabrique, d’une cour, d’un garage, d’un chemin rural, d’une piste cyclable, d’une place de stationnement, d’une station d’essence, etc., ou traversant un trottoir, débouche sur une route principale ou secondaire, est tenu d’accorder la priorité aux usagers de cette route. Si l’endroit est sans visibilité, le conducteur doit s’arrêter; au besoin, il doit avoir recours à l’aide d’une tierce personne, qui surveillera la manœuvre.[^15-2]
 
 [^15-1]: Nouvelle teneur selon le ch. I de l’O du 25 janv. 1989, en vigueur depuis le 1<sup>er</sup> mai 1989 ([RO 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
-[^15-2]: Voir toutefois l’art. 74*a* al. 4 OSR ([RS 741.21](https://fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961)).
+[^15-2]: Voir toutefois l’art. 74*a* al. 4 OSR ([RS 741.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8639)).
 
 #### Art. 16
 
@@ -695,7 +698,7 @@ Les facilités de parcage ne peuvent être utilisées que:
 <sup>5</sup> Une carte de stationnement est délivrée aux personnes présentant un handicap moteur significatif, confirmé par un certificat médical et, moyennant justification, aux détenteurs de véhicules utilisés fréquemment pour transporter des personnes à mobilité réduite. La carte de stationnement est délivrée par l’autorité cantonale.
 
 [^20a-1]: Introduit par le ch. I de l’O du 17 août 2005, en vigueur depuis le 1<sup>er</sup> mars 2006 ([RO 2005 4487](https://fedlex.data.admin.ch/eli/oc/2005/581)).
-[^20a-2]: [RS 741.21](https://fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961)
+[^20a-2]: [RS 741.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8639)
 [^20a-3]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2012, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 1821](https://fedlex.data.admin.ch/eli/oc/2012/259)).
 [^20a-4]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2012, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 1821](https://fedlex.data.admin.ch/eli/oc/2012/259)).
 [^20a-5]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2012, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 1821](https://fedlex.data.admin.ch/eli/oc/2012/259)).
@@ -741,13 +744,13 @@ Les feux clignotants avertisseurs (art. 110, al. 1, let. g, OETV) ne peuvent êt
 - a. sur le véhicule à l’arrêt, en complément du signal de panne, ou, s’il s’agit d’un bus scolaire signalé comme tel, pour laisser monter et descendre les écoliers (art. 6, al. 5);
 - b. sur le véhicule en marche, lors d’un ralentissement subit du trafic dû notamment à un accident ou un embouteillage, ou en cas de remorquage sur les autoroutes et semi-autoroutes.[^23-7]
 
-<sup>4</sup> et <sup>5</sup> …[^23-8]
+<sup>4 et <sup>5</sup></sup> …[^23-8]
 
 <sup>6</sup> Le signal de panne doit aussi être placé à l’arrière des véhicules remorqués.
 
 [^23-1]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1977 ([RO 1976 2810](https://fedlex.data.admin.ch/eli/oc/1976/2810_2810_2810)).
 [^23-2]: Nouvelle expression selon le ch. I de l’O du 25 janv. 1989, en vigueur depuis le 1<sup>er</sup> mai 1989 ([RO 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)). Il a été tenu compte de cette mod. dans tout le texte.
-[^23-3]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^23-3]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^23-4]: Nouvelle teneur selon l’annexe 1 ch. II 4 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^23-5]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 [^23-6]: Nouvelle teneur selon l’annexe 1 ch. II 4 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
@@ -843,7 +846,7 @@ L’élève conducteur n’est pas autorisé à transporter de passagers qui ne 
 
 [^28-1]: Nouvelle expression selon le ch. I de l’O du 25 janv. 1989, en vigueur depuis le 1<sup>er</sup> mai 1989 ([RO 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
 [^28-2]: Phrase introduite par le ch. I de l’O du 22 oct. 1997, en vigueur depuis le 1<sup>er</sup> nov. 1997 ([RO 1997 2404](https://fedlex.data.admin.ch/eli/oc/1997/2404_2404_2404)).
-[^28-3]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^28-3]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^28-4]: Nouvelle teneur selon l’annexe 1 ch. II 4 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^28-5]: Nouvelle teneur selon l’art. 36 ch. 1 de l’ACF du 27 août 1969 groupant les disp. administratives prises en application de la loi sur la circulation routière, en vigueur depuis le 1<sup>er</sup> oct. 1969 ([RO 1969 813](https://fedlex.data.admin.ch/eli/oc/1969/793_813_811)).
 
@@ -860,7 +863,7 @@ L’élève conducteur n’est pas autorisé à transporter de passagers qui ne 
 <sup>3</sup> Dès la tombée de la nuit, seuls les signaux optiques sont en principe autorisés. Il n’est permis de donner des signaux acoustiques qu’en cas de danger.
 
 [^29-1]: Nouvelle teneur selon le ch. I de l’O du 25 janv. 1989, en vigueur depuis le 1<sup>er</sup> mai 1989 ([RO 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
-[^29-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^29-2]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^29-3]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 
 #### Art. 30
@@ -1080,7 +1083,7 @@ Il est interdit de dépasser des véhicules par la droite en déboîtant puis en
 
 <sup>1bis</sup> Le parcage des autres véhicules sur le trottoir est interdit, à moins que des signaux ou des marques ne l’autorisent expressément. À défaut d’une telle signalisation, ils ne peuvent s’arrêter sur le trottoir que pour charger ou décharger des marchandises ou pour laisser monter ou descendre des passagers; un espace d’au moins 1 m 50 doit toujours rester libre pour les piétons et les opérations doivent s’effectuer sans délai.[^41-2]
 
-<sup>2</sup> Le conducteur qui doit emprunter le trottoir avec son véhicule observera une prudence accrue à l’égard des piétons et des utilisateurs d’engins assimilés à des véhicules; il leur accordera la priorité.[^41-3]
+<sup>2</sup> Le conducteur qui doit emprunter le trottoir avec son véhicule est tenu de faire preuve d’une prudence particulière à l’égard des piétons, des utilisateurs d’engins assimilés à des véhicules et des autres ayants droit; il doit leur accorder la priorité.[^41-3]
 
 <sup>3</sup> Les bandes longitudinales pour piétons (6.19) marquées sur la chaussée ne peuvent être empruntées par les véhicules que si la circulation des piétons ne s’en trouve pas entravée.[^41-4]
 
@@ -1088,7 +1091,7 @@ Il est interdit de dépasser des véhicules par la droite en déboîtant puis en
 
 [^41-1]: Nouvelle teneur selon le ch. I de l’O du 25 janv. 1989, en vigueur depuis le 1<sup>er</sup> mai 1989 ([RO 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)). Voir aussi les disp. fin. de cette mod. à la fin du texte.
 [^41-2]: Introduit par le ch. I de l’O du 25 janv. 1989, en vigueur depuis le 1<sup>er</sup> mai 1989 ([RO 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)). Voir aussi les disp. fin. de cette mod. à la fin du texte.
-[^41-3]: Nouvelle teneur selon le ch. I de l’O du 15 mai 2002, en vigueur depuis le 1<sup>er</sup> août 2002 ([RO 2002 1931](https://fedlex.data.admin.ch/eli/oc/2002/288)).
+[^41-3]: Nouvelle teneur selon le ch. I de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 26](https://fedlex.data.admin.ch/eli/oc/2025/26)).
 [^41-4]: Nouvelle teneur selon le ch. I de l’O du 25 janv. 1989, en vigueur depuis le 1<sup>er</sup> mai 1989 ([RO 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
 [^41-5]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 
@@ -1136,10 +1139,14 @@ Sur les routes secondaires situées dans les quartiers d’habitation et sur les
 
 <sup>4</sup> Les conducteurs de cyclomoteurs et de vélos-taxis électriques dont la largeur ne dépasse pas 1,00 m doivent se conformer aux prescriptions concernant les cyclistes. Ils doivent également respecter les limitations générales de vitesse et les vitesses maximales signalées.[^42-4]
 
+<sup>5</sup> Là où les conducteurs de cyclomoteurs lourds et de cyclomoteurs rapides ainsi que de vélos-taxis électriques dont la largeur ne dépasse pas 1,00 m sont exemptés de l’obligation d’utiliser les pistes cyclables (art. 64*a*, al. 3, OSR[^42-5]), ils sont autorisés à emprunter la chaussée contiguë.[^42-6]
+
 [^42-1]: Nouvelle teneur selon le ch. I de l’O du 15 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1315](https://fedlex.data.admin.ch/eli/oc/2015/274)).
 [^42-2]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5129](https://fedlex.data.admin.ch/eli/oc/2016/817)).
 [^42-3]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1977 ([RO 1976 2810](https://fedlex.data.admin.ch/eli/oc/1976/2810_2810_2810)).
 [^42-4]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
+[^42-5]: [RS 741.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8639)
+[^42-6]: Introduit par le ch. I de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 26](https://fedlex.data.admin.ch/eli/oc/2025/26)).
 
 #### Art. 43
 
@@ -1445,7 +1452,7 @@ Il est permis d’utiliser les engins assimilés à des véhicules comme moyen d
 [^58-3]: Introduit par le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 [^58-4]: Introduit par le ch. I de l’O du 25 janv. 1989 ([RO 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)). Abrogé par le ch. I de l’O du 20 mai 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 [^58-5]: Introduit par le ch. I de l’O du 7 mars 1994 ([RO 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)). Nouvelle teneur selon le ch. I de l’O du 24 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
-[^58-6]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^58-6]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^58-7]: Introduit par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
 
 #### Art. 59
@@ -1587,22 +1594,28 @@ Sur les véhicules ci-après, les enfants de moins de sept ans doivent être sur
 
 Un cycliste âgé de plus de seize ans peut transporter:
 
-- a. sur un cycle à plusieurs places, autant de personnes qu’il y a de paires de pédales supplémentaires; les enfants ne peuvent être transportés que s’ils peuvent actionner les pédales en étant assis;
-- b. sur un élément remorqué au sens de l’art. 210, al. 5, OETV[^63-2] à un cycle à une ou à deux places, un enfant si celui-ci peut actionner les pédales en étant assis ou une personne handicapée sur un fauteuil roulant;
-- c.[^63-3] sur un cycle spécialement aménagé ou sur un ensemble spécial cycle-fauteuil roulant, une personne handicapée, ou
-- d.[^63-4] sur une remorque pour cycles attelée à un cycle à une ou deux places, ou sur un cycle spécialement aménagé, au maximum deux enfants sur des places assises protégées.
+- a. autant de personnes qu’il y a de places assises; les enfants ne peuvent être transportés que sur des places adaptées à leur taille;
+- b.
+
+  sur un élément remorqué au sens de l’art. 210, al. 5, OETV[^63-2] attelé à un cycle à une ou deux places:
+
+  - 1\. un enfant si celui-ci peut actionner les pédales en étant assis, ou
+  - 2\. une personne handicapée sur un fauteuil roulant;
+
+- c. sur un ensemble spécial cycle-fauteuil roulant, une personne handicapée, ou
+- d. sur une remorque pour cycles attelée à un cycle à une ou deux places, au maximum deux enfants sur des places assises protégées.[^63-3]
 
 <sup>4</sup> Outre les possibilités prévues à l’al. 3, les cyclistes de plus de seize ans peuvent transporter un enfant sur un siège d’enfant offrant toute sécurité. Ce siège doit notamment protéger les jambes de l’enfant et ne pas gêner le cycliste.
 
-<sup>5</sup> …[^63-5]
+<sup>5</sup> Il est interdit de transporter des personnes sur les cycles et les cyclomoteurs dépourvus de place assise pour le conducteur.[^63-4]
 
-<sup>6</sup> Sur les cycles à voies multiples, l’autorité cantonale peut autoriser un nombre de places supérieur à celui des paires de pédales.
+<sup>6</sup> …[^63-5]
 
 [^63-1]: Nouvelle teneur selon le ch. I de l’O du 17 août 2005, en vigueur depuis le 1<sup>er</sup> mars 2006 ([RO 2005 4487](https://fedlex.data.admin.ch/eli/oc/2005/581)).
-[^63-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^63-3]: Nouvelle teneur selon le ch. I de l’O du 15 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1315](https://fedlex.data.admin.ch/eli/oc/2015/274)).
-[^63-4]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4687](https://fedlex.data.admin.ch/eli/oc/2013/825)).
-[^63-5]: Abrogé par le ch. I de l’O du 30 mars 2012, avec effet au 1<sup>er</sup> juil. 2012 ([RO 2012 1821](https://fedlex.data.admin.ch/eli/oc/2012/259)).
+[^63-2]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^63-3]: Nouvelle teneur selon le ch. I de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 26](https://fedlex.data.admin.ch/eli/oc/2025/26)).
+[^63-4]: Nouvelle teneur selon le ch. I de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 26](https://fedlex.data.admin.ch/eli/oc/2025/26)).
+[^63-5]: Abrogé par le ch. I de l’O du 13 déc. 2024, avec effet au 1<sup>er</sup> juil. 2025 ([RO 2025 26](https://fedlex.data.admin.ch/eli/oc/2025/26)).
 
 ### III. Dimensions et poids
 
@@ -1661,7 +1674,7 @@ Un cycliste âgé de plus de seize ans peut transporter:
 [^65-3]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2002, en vigueur depuis le 1<sup>er</sup> déc. 2002 ([RO 2002 3565](https://fedlex.data.admin.ch/eli/oc/2002/534)).
 [^65-4]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2002, en vigueur depuis le 1<sup>er</sup> déc. 2002 ([RO 2002 3565](https://fedlex.data.admin.ch/eli/oc/2002/534)).
 [^65-5]: Introduit par le ch. I de l’O du 5 avr. 2017, en vigueur depuis le 7 mai 2017 ([RO 2017 2649](https://fedlex.data.admin.ch/eli/oc/2017/262)).
-[^65-6]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^65-6]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^65-7]: Introduit par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
 [^65-8]: Introduit par le ch. I de l’O du 17 déc. 2021, en vigueur du 1<sup>er</sup> avr. 2022 au 31 déc. 2030 ([RO 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
 
@@ -1711,9 +1724,9 @@ Le poids effectif des véhicules et des ensembles de véhicules ne doit pas exc�
 
 <sup>1bis</sup> Par transport combiné non accompagné, il faut entendre le transport d’unités de chargement (conteneur, caisse mobile) ou le transfert d’une semi-remorque à partir ou à destination de n’importe quelle gare ferroviaire suisse de transbordement ou à partir ou à destination d’un port suisse, sans que la marchandise transportée change de contenant lors du passage d’un mode de transport à l’autre. Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication peut désigner les gares de transbordement étrangères proches de la frontière assimilées aux gares suisses de même nature. En transport combiné non accompagné, le conducteur doit être porteur d’une pièce justificative appropriée (p. ex. une lettre de voiture établie par l’entreprise ferroviaire).[^67-10]
 
-<sup>1</sup> <sup>ter</sup> Le poids effectif des véhicules visés à l’al. 1, let. b à d et e, et dotés d’une propulsion alternative (art. 9*a,* al. 1, OETV[^67-11]) peut être relevé à hauteur du surplus de poids induit par le système de propulsion alternative, dans la limite de 1 t toutefois ou de 2 t pour les véhicules à propulsion non polluante (art. 9*a*, al. 2, OETV).[^67-12]
+<sup>1<sup>ter</sup></sup> Le poids effectif des véhicules visés à l’al. 1, let. b à d et e, et dotés d’une propulsion alternative (art. 9*a,* al. 1, OETV[^67-11]) peut être relevé à hauteur du surplus de poids induit par le système de propulsion alternative, dans la limite de 1 t toutefois ou de 2 t pour les véhicules à propulsion non polluante (art. 9*a*, al. 2, OETV).[^67-12]
 
-<sup>1</sup> <sup>quater</sup> Le poids effectif des véhicules visés à l’al. 1, let. a, et dotés d’une propulsion alternative (art. *9a,* al. 1, OETV) peut être relevé par rapport aux valeurs indiquées à l’al. 1 et à l’art. 9, al. 1, LCR, à hauteur du surplus de poids induit par le système de propulsion alternative, dans la limite de 1 t toutefois ou de 2 t pour les véhicules à propulsion non polluante (art. 9*a,* al. 2, OETV).[^67-13]
+<sup>1<sup>quater</sup></sup> Le poids effectif des véhicules visés à l’al. 1, let. a, et dotés d’une propulsion alternative (art. *9a,* al. 1, OETV) peut être relevé par rapport aux valeurs indiquées à l’al. 1 et à l’art. 9, al. 1, LCR, à hauteur du surplus de poids induit par le système de propulsion alternative, dans la limite de 1 t toutefois ou de 2 t pour les véhicules à propulsion non polluante (art. 9*a,* al. 2, OETV).[^67-13]
 
 <sup>2</sup> La charge par essieu ne doit pas excéder:
 
@@ -1748,7 +1761,7 @@ Le poids reposant sur les essieux moteurs ne doit pas être inférieur (poids mi
 
 <sup>5</sup> Le poids effectif de la remorque ne doit pas dépasser la charge remorquable inscrite dans le permis de circulation du véhicule tracteur.
 
-<sup>6</sup> et <sup>7</sup> …[^67-22]
+<sup>6 et <sup>7</sup></sup> …[^67-22]
 
 <sup>8</sup> Les charges par essieu autorisées en vertu des al. 2 et 3 peuvent être dépassées de 2 % au maximum, si le poids effectif des véhicules et des ensembles de véhicules visé aux al. 1 et 3 est respecté.[^67-23]
 
@@ -1764,13 +1777,13 @@ Le poids reposant sur les essieux moteurs ne doit pas être inférieur (poids mi
 [^67-8]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 [^67-9]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 [^67-10]: Introduit par le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
-[^67-11]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^67-11]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^67-12]: Introduit par le ch. I de l’O du 5 avr. 2017 ([RO 2017 2649](https://fedlex.data.admin.ch/eli/oc/2017/262)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
 [^67-13]: Introduit par le ch. I de l’O du 17 déc. 2021, en vigueur du 1<sup>er</sup> avr. 2022 au 31 déc. 2030 ([RO 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
 [^67-14]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5129](https://fedlex.data.admin.ch/eli/oc/2016/817)).
-[^67-15]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^67-15]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^67-16]: Introduit par le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
-[^67-17]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^67-17]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^67-18]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
 [^67-19]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
 [^67-20]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
@@ -1905,7 +1918,7 @@ Le chargement ne doit pas dépasser latéralement les véhicules automobiles à 
 [^73-4]: Nouvelle teneur selon le ch. I de l’O du 6 mai 1998, en vigueur depuis le 15 mai 1998 ([RO 1998 1465](https://fedlex.data.admin.ch/eli/oc/1998/1465_1465_1465)).
 [^73-5]: Nouvelle teneur selon le ch. I de l’O du 6 mai 1998, en vigueur depuis le 15 mai 1998 ([RO 1998 1465](https://fedlex.data.admin.ch/eli/oc/1998/1465_1465_1465)).
 [^73-6]: Introduite par le ch. I de l’O du 15 nov. 2000 ([RO 2000 2883](https://fedlex.data.admin.ch/eli/oc/2000/500)). Nouvelle teneur selon le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 28](https://fedlex.data.admin.ch/eli/oc/2024/28)).
-[^73-7]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^73-7]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^73-8]: Nouvelle teneur selon le ch. II de l’O du 19 fév. 1992, en vigueur depuis le 1<sup>er</sup> avr. 1992 ([RO 1992 536](https://fedlex.data.admin.ch/eli/oc/1992/536_536_536)).
 [^73-9]: Nouvelle teneur selon l’annexe 1 ch. II 4 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^73-10]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
@@ -1926,8 +1939,8 @@ Le chargement ne doit pas dépasser latéralement les véhicules automobiles à 
 
 [^74-1]: Nouvelle teneur selon l’art. 72 ch. 2 de l’O du 27 mai 1981 sur la protection des animaux, en vigueur depuis le 1<sup>er</sup> juil. 1981 ([RO 1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572)).
 [^74-2]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
-[^74-3]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^74-4]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^74-3]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^74-4]: [RS 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 [^74-5]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 
 #### Art. 75
@@ -2040,7 +2053,7 @@ Seules des autorisations uniques sont admises pour les dépassements de la large
 <sup>4</sup> L’autorisation peut être retirée en tout temps, notamment si des abus ont été commis, si le véhicule a causé des difficultés dans la circulation ou si les courses autorisées ne sont plus nécessaires.
 
 [^part4-chap2-1]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
-[^78-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^78-1]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^78-2]: Nouvelle teneur selon l’annexe 1 ch. II 4 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^78-3]: Phrase introduite par le ch. I de l’O du 15 nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2883](https://fedlex.data.admin.ch/eli/oc/2000/500)).
 [^78-4]: Phrase introduite par le ch. I de l’O du 3 juil. 2002, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2002 3212](https://fedlex.data.admin.ch/eli/oc/2002/481)).
@@ -2074,7 +2087,7 @@ Lorsque les dimensions et le poids dépassent le maximum légal, les autorisatio
 [^79-1]: Nouvelle teneur selon l’annexe 4 ch. II 5 de l’O du 7 nov. 2007 sur les routes nationales, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
 [^79-2]: Nouvelle teneur selon l’annexe 4 ch. II 5 de l’O du 7 nov. 2007 sur les routes nationales, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
 [^79-3]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
-[^79-4]: [RS 741.272](https://fedlex.data.admin.ch/eli/cc/1992/341_341_341)
+[^79-4]: [RS 741.272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8643)
 [^79-5]: Nouvelle teneur selon le ch. I de l’O du 7 mars 1994, en vigueur depuis le 1<sup>er</sup> avr. 1994 ([RO 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
 [^79-6]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
 [^79-7]: Introduit par le ch. I de l’O du 1<sup>er</sup> juil. 1992 ([RO 1993 1142](https://fedlex.data.admin.ch/eli/oc/1993/1142_1142_1142)). Nouvelle teneur selon l’annexe 4 ch. II 5 de l’O du 7 nov. 2007 sur les routes nationales, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
@@ -2269,7 +2282,7 @@ L’autorité cantonale peut permettre l’emploi industriel d’un véhicule ag
 <sup>4</sup> …[^90-4]
 
 [^90-1]: Nouvelle teneur selon le ch. I de l’O du 7 avr. 1982, en vigueur depuis le 1<sup>er</sup> mai 1982 ([RO 1982 531](https://fedlex.data.admin.ch/eli/oc/1982/531_531_531)).
-[^90-2]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
+[^90-2]: [RS 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
 [^90-3]: Nouvelle teneur selon le ch. I de l’O du 17 août 2005, en vigueur depuis le 1<sup>er</sup> mars 2006 ([RO 2005 4487](https://fedlex.data.admin.ch/eli/oc/2005/581)).
 [^90-4]: Abrogé par le ch. I de l’O du 22 déc. 2023, avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 28](https://fedlex.data.admin.ch/eli/oc/2024/28)).
 
@@ -2300,7 +2313,7 @@ Sont soumis à l’interdiction de circuler le dimanche et de nuit:
 
 [^part5-chap1-1]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 [^91-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4569](https://fedlex.data.admin.ch/eli/oc/2010/654)).
-[^91-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^91-2]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 #### Art. 91a
 
@@ -2335,14 +2348,14 @@ Ne tombent pas sous l’interdiction de circuler le dimanche et de nuit:
 
 [^91a-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4569](https://fedlex.data.admin.ch/eli/oc/2010/654)).
 [^91a-2]: Nouvelle teneur selon l’annexe 2 ch. II 4 de l’O du 29 août 2012 sur la poste, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)).
-[^91a-3]: [RS 783.01](https://fedlex.data.admin.ch/eli/cc/2012/586)
-[^91a-4]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^91a-3]: [RS 783.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9152)
+[^91a-4]: [RS 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
 [^91a-5]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
-[^91a-6]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^91a-6]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
 [^91a-7]: Introduite par le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 [^91a-8]: Introduit par le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 [^91a-9]: Introduite par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
-[^91a-10]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^91a-10]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^91a-11]: Introduite par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
 [^91a-12]: Introduit par le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 
@@ -2371,9 +2384,9 @@ Des autorisations sont octroyées pour les courses suivantes:
 
 [^92-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4569](https://fedlex.data.admin.ch/eli/oc/2010/654)).
 [^92-2]: Nouvelle teneur selon l’annexe 2 ch. II 4 de l’O du 29 août 2012 sur la poste, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)).
-[^92-3]: [RS 783.01](https://fedlex.data.admin.ch/eli/cc/2012/586)
+[^92-3]: [RS 783.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9152)
 [^92-4]: Introduite par l’annexe 2 ch. II 4 de l’O du 29 août 2012 sur la poste, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)).
-[^92-5]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^92-5]: [RS 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
 [^92-6]: Nouvelle teneur selon l’annexe 2 ch. II 4 de l’O du 29 août 2012 sur la poste, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)).
 
 #### Art. 93
@@ -2438,7 +2451,7 @@ Sont admises toutefois, avec l’autorisation des cantons:
 \* En ce qui concerne l’attestation d’assurance, voir les art. 30 et 31 de l’O du 20 nov. 1959 sur l’assurance des véhicules[^95-2].
 
 [^95-1]: Introduit par le ch. I de l’O du 18 déc. 2015, en vigueur du 1<sup>er</sup> avr. 2016 au 31 mars 2026 ([RO 2016 403](https://fedlex.data.admin.ch/eli/oc/2016/61); [2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
-[^95-2]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
+[^95-2]: [RS 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
 
 ### Chapitre 3 Disposition pénale
 
@@ -2502,7 +2515,7 @@ Les systèmes d’information mentionnés contiennent notamment les données sui
 Les véhicules déjà en circulation, qui répondent à la définition du cycle valable avant le 1<sup>er</sup> août 2002 conformément à l’art. 24, al. 1, OETV[^98-2] et satisfont à toutes les exigences techniques requises pour les cycles, peuvent être utilisés comme des cycles jusqu’au 31 décembre 2003, à condition d’être munis d’une vignette pour cycle.
 
 [^98-1]: Abrogé par le ch. I de l’O du 10 juil. 1972 ([RO 1972 1605](https://fedlex.data.admin.ch/eli/oc/1972/1573_1605_1777)). Nouvelle teneur selon le ch. I de l’O du 15 mai 2002, en vigueur depuis le 1<sup>er</sup> août 2002 ([RO 2002 1931](https://fedlex.data.admin.ch/eli/oc/2002/288)).
-[^98-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^98-2]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 #### Art. 98a
 
@@ -2531,9 +2544,9 @@ Les véhicules déjà en circulation, qui répondent à la définition du cycle 
 
 <sup>4</sup> À l’exception des règles de circulation, les ordonnances et arrêtés du Conseil fédéral édictés en application de la loi fédérale du 15 mars 1932 sur la circulation des véhicules automobiles et des cycles restent en vigueur jusqu’à nouvel ordre, dans la mesure où ils ne sont pas contraires à la LCR ainsi qu’aux prescriptions d’exécution de celle-ci. Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication établit une liste des dispositions restant en vigueur.
 
-[^99-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)art. 33 al. 1 et 2, 49 al. 2.
-[^99-2]: [RS **7** 593 611; [RO 1948 519](https://fedlex.data.admin.ch/eli/oc/1948/531_519_478), **1949** II 1595 art. 4, [1959 705](https://fedlex.data.admin.ch/eli/oc/1959/679_705_685)art. 107 al. 3,[1960 1209](https://fedlex.data.admin.ch/eli/oc/1960/1157_1209_1205)art. 28 al. 1 ch. 1 [1365](https://fedlex.data.admin.ch/eli/oc/1960/1308_1365_1365)art. 4 al. 6]
-[^99-3]: [RS **9** 354]
+[^99-1]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)art. 33 al. 1 et 2, 49 al. 2.
+[^99-2]: [[RS 7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8349)593 611; [RO 1948 519](https://fedlex.data.admin.ch/eli/oc/1948/531_519_478), **1949** II 1595 art. 4, [1959 705](https://fedlex.data.admin.ch/eli/oc/1959/679_705_685)art. 107 al. 3,[1960 1209](https://fedlex.data.admin.ch/eli/oc/1960/1157_1209_1205)art. 28 al. 1 ch. 1 [1365](https://fedlex.data.admin.ch/eli/oc/1960/1308_1365_1365)art. 4 al. 6]
+[^99-3]: [[RS 9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10385)354]
 
 ## Dispositions finales de la modification du 25 janvier 1989
 

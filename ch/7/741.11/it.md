@@ -4,11 +4,11 @@ title: Ordinanza del 13 novembre 1962 sulle norme della circolazione stradale (O
 short: ONC
 eli: "https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420"
 language: it
-version: 2025-01-01
+version: 2025-07-01
 adopted: 1962-11-13
 in_force: 1963-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20250101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20250701/it/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20250701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20250701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20250101/it"
 
 (ONC)[^t-1]
 
-del 13 novembre 1962 (Stato 1° gennaio 2025)
+del 13 novembre 1962 (Stato 1° luglio 2025)
 
 [^t-1]: Nuovo testo giusta la cifra I dell’O del 10 mar. 1975, in vigore dal 1° gen. 1976 ([RU 1975 541](https://fedlex.data.admin.ch/eli/oc/1975/541_541_541)).
 
@@ -27,7 +27,7 @@ visti gli articoli 2 capoverso 1 lettera b e 2, 9 capoversi 1<sup>bis</sup>, 2 e
 
 ordina:
 
-[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 [^ingress-2]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2020, in vigore dal 1° gen. 2021 ([RU 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 
 ## Introduzione
@@ -64,7 +64,7 @@ ordina:
 
 [^1-1]: Giusta la cifra I dell’O del 15 mag. 2002, in vigore dal 1° ago. 2002, i titoli marginali sono stati sostituiti da titoli mediani ([RU 2002 1931](https://fedlex.data.admin.ch/eli/oc/2002/288)).
 [^1-2]: Abbreviazione introdotta dalla cifra I dell’O del 25 gen. 1989, in vigore dal 1° mag. 1989 ([RU 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)). Di tale mod. è tenuto conto in tutto il presente testo.
-[^1-3]: [RS 741.21](https://fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961). Ora: l’O sulla segnaletica stradale
+[^1-3]: [RS 741.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8639). Ora: l’O sulla segnaletica stradale
 [^1-4]: Nuovo testo giusta la cifra I dell’O del 25 gen. 1989, in vigore dal 1° mag. 1989 ([RU 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
 [^1-5]: Nuovo testo giusta la cifra I dell’O del 25 gen. 1989, in vigore dal 1° mag. 1989 ([RU 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
 [^1-6]: Nuovo testo giusta la cifra I dell’O del 25 gen. 1989, in vigore dal 1° mag. 1989 ([RU 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
@@ -79,7 +79,7 @@ ordina:
 I numeri tra parentesi che figurano dopo la designazione di un segnale o di una demarcazione si riferiscono alle figure numerate dell’allegato 2 OSStr[^1a-2].
 
 [^1a-1]: Introdotto dalla cifra I dell’O del 20 mag. 2020, in vigore dal 1° gen. 2021 ([RU 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
-[^1a-2]: [RS 741.21](https://fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961)
+[^1a-2]: [RS 741.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8639)
 
 ## Parte prima: Norme per i veicoli
 
@@ -165,7 +165,7 @@ Una persona è sotto l’influsso dell’alcol se:
 [^2a-1]: Introdotto dalla cifra I dell’O del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4687](https://fedlex.data.admin.ch/eli/oc/2013/825)).
 [^2a-2]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3837](https://fedlex.data.admin.ch/eli/oc/2016/642)).
 [^2a-3]: Nuova espressione giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 28](https://fedlex.data.admin.ch/eli/oc/2024/28)). Di tale mod. è tenuto conto in tutto il presente testo.
-[^2a-4]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^2a-4]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^2a-5]: Introdotto dalla cifra I dell’O del 26 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3837](https://fedlex.data.admin.ch/eli/oc/2016/642)).
 [^2a-6]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2595](https://fedlex.data.admin.ch/eli/oc/2015/492)).
 
@@ -233,7 +233,7 @@ Nei posti provvisti di cintura di sicurezza, i fanciulli al di sotto dei 12 anni
 [^3a-4]: Direttiva 91/671/CEE del Consiglio del 16 dicembre 1991 per il ravvicinamento delle legislazioni degli Stati Membri relative all’uso obbligatorio delle cinture di sicurezza sugli autoveicoli di peso inferiore a 3,5 tonnellate. GU L 373 del 31.12.1991, pag. 26; modificata da ultimo dalla direttiva 2014/37/UE della Commissione del 27 febbraio 2014, GU L 59 del 28.02.2014, pag. 32.
 [^3a-5]: Introdotta dalla cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5129](https://fedlex.data.admin.ch/eli/oc/2016/817)).
 [^3a-6]: Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 28](https://fedlex.data.admin.ch/eli/oc/2024/28)).
-[^3a-7]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^3a-7]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^3a-8]: Nuovo testo giusta la cifra III dell’O del 9 giu. 2023, in vigore dal 15 lug. 2023 ([RU 2023 327](https://fedlex.data.admin.ch/eli/oc/2023/327)).
 [^3a-9]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2020, in vigore dal 1° gen. 2021 ([RU 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 
@@ -253,17 +253,20 @@ L’obbligo di portare il casco non è applicabile:
 - b. alle persone che circolano entro perimetri aziendali se la velocità non supera 25 km/h;
 - c. alle persone in cabine chiuse;
 - d. alle persone su sedili provvisti di cinture di sicurezza;
-- e. alle persone su veicoli la cui velocità massima per costruzione è di 20 km/h oppure di 25 km/h in caso di pedalata assistita;
+- e.[^3b-2] alle persone su veicoli con una velocità massima per costruzione fino a 20 km/h;
 - f. ai conducenti di ciclomotori i quali provano mediante certificato medico che non può essere loro imposto di portare il casco di protezione;
-- g. ai conducenti di sedie a rotelle motorizzate (art. 18 lett. c OETV[^3b-2]).
+- g.[^3b-3] alle persone su ciclomotori dotati di propulsione elettrica in grado di raggiungere al massimo 25 km/h;
+- h.[^3b-4] ai conducenti di sedie a rotelle motorizzate.
 
-<sup>3</sup> Sui motoveicoli con o senza carrozzino laterale, sui quadricicli leggeri a motore, quadricicli a motore, veicoli a motore a tre ruote e ciclomotori va indossato un casco di protezione omologato secondo il regolamento UNECE n. 22 nella versione di cui all’allegato 2 OETV. Sui veicoli cingolati è sufficiente un casco omologato secondo la norma SN EN 1077[^3b-3] o SN EN 1078[^3b-4], sui ciclomotori un casco per ciclisti omologato secondo la norma SN EN 1078.[^3b-5]
+<sup>3</sup> Sui motoveicoli con o senza carrozzino laterale, sui quadricicli leggeri a motore, quadricicli a motore, veicoli a motore a tre ruote e ciclomotori va indossato un casco di protezione omologato secondo il regolamento UNECE n. 22 nella versione di cui all’allegato 2 OETV o una versione precedente di tale regolamento riportata nell’OETV. Sui veicoli cingolati è sufficiente un casco omologato secondo la norma SN EN 1077[^3b-5] o SN EN 1078[^3b-6], sui ciclomotori un casco per ciclisti omologato secondo la norma SN EN 1078.[^3b-7]
 
 [^3b-1]: Introdotto dalla cifra I dell’O del 20 mag. 1981 ([RU 1981 507](https://fedlex.data.admin.ch/eli/oc/1981/507_507_507)). Nuovo testo giusta la cifra I dell’O del 24 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
-[^3b-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^3b-3]: SN EN 1077, 2007, Caschi per la pratica dello sci alpino e per lo snowboard. La norma può essere ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^3b-4]: SN EN 1078, 2013, Caschi per ciclisti e per utilizzatori di tavole a rotelle (skateboards) e pattini a rotelle. La norma può essere ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^3b-5]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
+[^3b-2]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 26](https://fedlex.data.admin.ch/eli/oc/2025/26)).
+[^3b-3]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 26](https://fedlex.data.admin.ch/eli/oc/2025/26)).
+[^3b-4]: Introdotta dalla cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 26](https://fedlex.data.admin.ch/eli/oc/2025/26)).
+[^3b-5]: SN EN 1077, *2007*, Caschi per la pratica dello sci alpino e per lo snowboard. La norma può essere ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^3b-6]: SN EN 1078, *2013*, Caschi per ciclisti e per utilizzatori di tavole a rotelle (skateboards) e pattini a rotelle. La norma può essere ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^3b-7]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 26](https://fedlex.data.admin.ch/eli/oc/2025/26)).
 
 #### Art. 4
 
@@ -273,7 +276,7 @@ L’obbligo di portare il casco non è applicabile:
 
 <sup>1</sup> Il conducente deve circolare a una velocità che gli permetta di fermarsi nello spazio visibile; se l’incrocio con altri veicoli è difficile, egli deve poter fermarsi nella metà dello spazio visibile.
 
-<sup>2</sup> e <sup>3</sup> ...[^4-1]
+<sup>2 e <sup>3</sup></sup> ...[^4-1]
 
 <sup>4</sup> ...[^4-2]
 
@@ -416,20 +419,21 @@ Sulle autostrade e semiautostrade la velocità massima è limitata a 100 km/h pe
 
 <sup>4</sup>
 
-Se veicoli a motore a ruote simmetriche e velocipedi utilizzano la medesima corsia, i veicoli a motore devono circolare a sinistra e i velocipedi a destra. I ciclisti possono derogare all’obbligo di circolare a destra:
+Se veicoli a motore pluritraccia[^8-5] e velocipedi utilizzano la medesima corsia, i veicoli a motore devono circolare a sinistra e i velocipedi a destra. I ciclisti possono derogare all’obbligo di circolare a destra:
 
 - a. sulle corsie che permettono di svoltare a sinistra;
-- b. sulle corsie riservate alla svolta a destra sulle quali, a differenza del restante traffico, i velocipedi sono autorizzati dalla demarcazione (art. 74*a* cpv. 7 lett. e OSStr[^8-5]) a proseguire dritto.[^8-6]
+- b. sulle corsie riservate alla svolta a destra sulle quali, a differenza del restante traffico, i velocipedi sono autorizzati dalla demarcazione (art. 74*a* cpv. 7 lett. e OSStr[^8-6]) a proseguire dritto.[^8-7]
 
-<sup>5</sup> Sulle strade a più corsie in una direzione, in caso di interruzione del traffico su una corsia o nei pressi della fine di una corsia, ai veicoli impediti nel proseguimento della loro marcia va consentita l’immissione alternata nella corsia adiacente subito prima del restringimento di carreggiata.[^8-7]
+<sup>5</sup> Sulle strade a più corsie in una direzione, in caso di interruzione del traffico su una corsia o nei pressi della fine di una corsia, ai veicoli impediti nel proseguimento della loro marcia va consentita l’immissione alternata nella corsia adiacente subito prima del restringimento di carreggiata.[^8-8]
 
 [^8-1]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2020, in vigore dal 1° gen. 2021 ([RU 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 [^8-2]: Nuovo testo giusta la cifra I dell’O del 25 gen. 1989, in vigore dal 1° mag. 1989 ([RU 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
 [^8-3]: Nuovo testo giusta la cifra I dell’O del 15 mag. 2002, in vigore dal 1° ago. 2002 ([RU 2002 1931](https://fedlex.data.admin.ch/eli/oc/2002/288)).
 [^8-4]: Nuovo testo giusta la cifra I dell’O del 25 gen. 1989, in vigore dal 1° mag. 1989 ([RU 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
-[^8-5]: [RS 741.21](https://fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961)
-[^8-6]: Nuovo testo giusta la cifra I dell’O del 24 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
-[^8-7]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2020, in vigore dal 1° gen. 2021 ([RU 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
+[^8-5]: Nuova espressione giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 26](https://fedlex.data.admin.ch/eli/oc/2025/26)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^8-6]: [RS 741.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8639)
+[^8-7]: Nuovo testo giusta la cifra I dell’O del 24 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
+[^8-8]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2020, in vigore dal 1° gen. 2021 ([RU 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 
 #### Art. 9
 
@@ -555,7 +559,7 @@ Il conducente non deve sorpassare un veicolo che ne sorpassa un altro, salvo che
 <sup>3</sup> Chi si immette in una strada principale o secondaria uscendo da una fabbrica, da un cortile, da un’autorimessa, da strade dei campi, da ciclopiste, da parcheggi, da stazioni di servizio e simili oppure attraverso un marciapiede deve dare la precedenza ai veicoli che circolano su tali strade. Se questi punti sono senza visuale, il conducente deve fermarsi; se necessario, deve chiedere ad una persona di controllare la manovra.[^15-2]
 
 [^15-1]: Nuovo testo giusta la cifra I dell’O del 25 gen. 1989, in vigore dal 1° mag. 1989 ([RU 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
-[^15-2]: Vedi anche l’art. 74*a* cpv. 4 OSStr ([RS 741.21](https://fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961)).
+[^15-2]: Vedi anche l’art. 74*a* cpv. 4 OSStr ([RS 741.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8639)).
 
 #### Art. 16
 
@@ -707,7 +711,7 @@ Le facilitazioni di parcheggio possono essere fatte valere soltanto:
 <sup>5</sup> Un contrassegno di parcheggio viene rilasciato alle persone che comprovano, mediante certificato medico, una netta riduzione della capacità deambulatoria e ai detentori di veicoli che vengono utilizzati frequentemente e in modo dimostrabile per il trasporto di persone notevolmente disabili. Il contrassegno di parcheggio è rilasciato dall’autorità cantonale.
 
 [^20a-1]: Introdotto dalla cifra I dell’O del 17 ago. 2005, in vigore dal 1° mar. 2006 ([RU 2005 4487](https://fedlex.data.admin.ch/eli/oc/2005/581)).
-[^20a-2]: [RS 741.21](https://fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961)
+[^20a-2]: [RS 741.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8639)
 [^20a-3]: Nuovo testo giusta la cifra I dell’O del 2 mar. 2012, in vigore dal 1° lug. 2012 ([RU 2012 1821](https://fedlex.data.admin.ch/eli/oc/2012/259)).
 [^20a-4]: Nuovo testo giusta la cifra I dell’O del 2 mar. 2012, in vigore dal 1° lug. 2012 ([RU 2012 1821](https://fedlex.data.admin.ch/eli/oc/2012/259)).
 [^20a-5]: Nuovo testo giusta la cifra I dell’O del 2 mar. 2012, in vigore dal 1° lug. 2012 ([RU 2012 1821](https://fedlex.data.admin.ch/eli/oc/2012/259)).
@@ -753,12 +757,12 @@ Le luci di avvertimento lampeggianti (art. 110 cpv. 1 lett. g OETV) possono esse
 - a. sul veicolo fermo, a complemento del segnale di veicolo fermo nonché sugli scuolabus segnalati come tali per permettere agli scolari di salire e scendere (art. 6 cpv. 5);
 - b. sui veicoli in marcia, in caso di rallentamento improvviso del traffico causato segnatamente da un incidente o da un ingorgo oppure in caso di rimorchiatura sulle autostrade e sulle semiautostrade.[^23-6]
 
-<sup>4</sup> e <sup>5</sup> ...[^23-7]
+<sup>4 e <sup>5</sup></sup> ...[^23-7]
 
 <sup>6</sup> Il segnale di veicolo fermo deve pure essere applicato sulla parte posteriore dei veicoli rimorchiati.
 
 [^23-1]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1976, in vigore dal 1° gen. 1977 ([RU 1976 2810](https://fedlex.data.admin.ch/eli/oc/1976/2810_2810_2810)).
-[^23-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^23-2]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^23-3]: Introdotto l’all. 1 cifra II n. 4 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^23-4]: Nuovo testo giusta la cifra I dell’O del 24 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 [^23-5]: Nuovo testo giusta l’all. 1 cifra II n. 4 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
@@ -783,8 +787,8 @@ Le luci di avvertimento lampeggianti (art. 110 cpv. 1 lett. g OETV) possono esse
 
 [^24-1]: Abrogato dalla cifra I dell’O del 24 giu. 2015, con effetto dal 1° gen. 2016 ([RU 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 [^24-2]: Nuovo testo giusta la cifra I dell’O del 24 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
-[^24-3]: Nuovo testo giusta l’all. n. II 2 dell’O del 12 nov. 2003, in vigore dal 14 dic. 2003 ([RU 2003 4289](https://fedlex.data.admin.ch/eli/oc/2003/637)).
-[^24-4]: Abrogato dall’all. n. II 2 dell’O del 12 nov. 2003, con effetto dal 14 dic. 2003 ([RU 2003 4289](https://fedlex.data.admin.ch/eli/oc/2003/637)).
+[^24-3]: Nuovo testo giusta l’all. cifra II n. 2 dell’O del 12 nov. 2003, in vigore dal 14 dic. 2003 ([RU 2003 4289](https://fedlex.data.admin.ch/eli/oc/2003/637)).
+[^24-4]: Abrogato dall’all. cifra II n. 2 dell’O del 12 nov. 2003, con effetto dal 14 dic. 2003 ([RU 2003 4289](https://fedlex.data.admin.ch/eli/oc/2003/637)).
 
 #### Art. 25
 
@@ -856,7 +860,7 @@ Il titolare di una licenza per allievo conducente non può trasportare passegger
 <sup>4</sup> Se il carico dei carri con motore, dei carri di lavoro, dei veicoli a motore agricoli e forestali o dei loro rimorchi copre la visuale, il conducente deve adoperare una paletta indicatrice di direzione (allegato 4 OETV[^28-2]), salvo se il veicolo è provvisto di un apparecchio speciale col quale il conducente può simultaneamente vedere a tergo e segnalare gli spostamenti sulla sinistra, oppure se gli indicatori di direzione lampeggianti sono applicati dietro il convoglio e quelli del veicolo trattore sono visibili.[^28-3] L’uso dell’apparecchio sopraindicato e della paletta non deve mettere in pericolo gli altri utenti della strada.[^28-4]
 
 [^28-1]: Per. introdotto dalla cifra I dell’O del 22 ott. 1997, in vigore dal 1° nov. 1997 ([RU 1997 2404](https://fedlex.data.admin.ch/eli/oc/1997/2404_2404_2404)).
-[^28-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^28-2]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^28-3]: Nuovo testo giusta l’all. 1 cifra II n. 4 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^28-4]: Nuovo testo giusta l’art. 36 n. 1 del DCF del 27 ago. 1969 concernente le disposizioni amministrative per l’esecuzione della LF sulla circolazione stradale, in vigore dal 1° ott. 1969 ([RU 1969 811](https://fedlex.data.admin.ch/eli/oc/1969/793_813_811)).
 
@@ -873,7 +877,7 @@ Il titolare di una licenza per allievo conducente non può trasportare passegger
 <sup>3</sup> Dall’imbrunire in poi possono essere dati soltanto segnali luminosi. Possono essere usati gli avvisatori acustici solo in caso di pericolo.
 
 [^29-1]: Nuovo testo giusta la cifra I dell’O del 25 gen. 1989, in vigore dal 1° mag. 1989 ([RU 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
-[^29-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^29-2]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^29-3]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 
 #### Art. 30
@@ -912,9 +916,9 @@ All’occorrenza, si possono usare i fari di profondità; per quanto possibile, 
 
 ### (art. 41 LCStr)
 
-<sup>1</sup> Sui veicoli a ruote simmetriche in sosta fuori delle località si devono accendere le luci di posizione o le luci di posteggio dal lato del traffico. Sui veicoli sprovvisti di tali luci si devono usare le luci prescritte per il tipo di veicolo in questione.
+<sup>1</sup> Sui veicoli pluritraccia in sosta fuori delle località si devono accendere le luci di posizione o le luci di posteggio dal lato del traffico. Sui veicoli sprovvisti di tali luci si devono usare le luci prescritte per il tipo di veicolo in questione.
 
-<sup>2</sup> Sui veicoli a ruote simmetriche non a motore si deve accendere almeno una luce gialla non abbagliante, applicata dal lato del traffico e visibile da entrambi i sensi di marcia.
+<sup>2</sup> Sui veicoli pluritraccia non a motore si deve accendere almeno una luce gialla non abbagliante, applicata dal lato del traffico e visibile da entrambi i sensi di marcia.
 
 <sup>3</sup> All’interno delle località e sui veicoli la cui larghezza non supera 1,00 m sono sufficienti i catarifrangenti.
 
@@ -1093,7 +1097,7 @@ I conducenti, i passeggeri e gli ausiliari non devono cagionare alcun rumore evi
 
 <sup>1bis</sup> Se non è autorizzato espressamente mediante segnali o demarcazioni, è vietato parcheggiare altri veicoli sul marciapiede. In mancanza di siffatta segnaletica, è possibile parcheggiare sul marciapiede solamente per caricare o scaricare merci oppure per far salire o scendere i passeggeri dai veicoli; deve restare sempre libero uno spazio di almeno 1,50 m per i pedoni. Queste operazioni devono essere svolte nel più breve tempo possibile.[^41-2]
 
-<sup>2</sup> Il conducente che con il suo veicolo deve utilizzare il marciapiede è tenuto a osservare una prudenza particolare verso i pedoni e gli utenti di mezzi simili a veicoli; deve dare loro la precedenza.[^41-3]
+<sup>2</sup> Il conducente che con il suo veicolo deve utilizzare il marciapiede è tenuto a osservare particolare prudenza verso i pedoni, gli utenti di mezzi simili a veicoli e altri aventi diritto; deve dare loro la precedenza.[^41-3]
 
 <sup>3</sup> Le corsie pedonali longitudinali (6.19) demarcate sulla carreggiata possono essere usate dai veicoli solo se il traffico pedonale non ne è ostacolato.[^41-4]
 
@@ -1101,7 +1105,7 @@ I conducenti, i passeggeri e gli ausiliari non devono cagionare alcun rumore evi
 
 [^41-1]: Nuovo testo giusta la cifra I dell’O del 25 gen. 1989, in vigore dal 1° mag. 1989 ([RU 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
 [^41-2]: Introdotto dalla cifra I dell’O del 25 gen. 1989, in vigore dal 1° mag. 1989 ([RU 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
-[^41-3]: Nuovo testo giusta la cifra I dell’O del 5 apr. 2017, in vigore dal 7 mag. 2017 ([RU 2017 2649](https://fedlex.data.admin.ch/eli/oc/2017/262)).
+[^41-3]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 26](https://fedlex.data.admin.ch/eli/oc/2025/26)).
 [^41-4]: Nuovo testo giusta la cifra I dell’O del 25 gen. 1989, in vigore dal 1° mag. 1989 ([RU 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
 [^41-5]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2020, in vigore dal 1° gen. 2021 ([RU 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 
@@ -1151,10 +1155,14 @@ Sulle strade secondarie nei quartieri residenziali oppure sulle strade secondari
 
 <sup>4</sup> I conducenti di ciclomotori e i conducenti di risciò elettrici la cui larghezza non supera 1,00 m devono attenersi alle norme per i ciclisti. Devono inoltre rispettare le velocità massime generali e quelle segnalate.[^42-4]
 
+<sup>5</sup> Qualora siano esclusi dall’obbligo di utilizzare ciclopiste (art. 64*a* cpv. 3 OSStr[^42-5]), i conducenti di ciclomotori pesanti e veloci nonché di risciò elettrici la cui larghezza non supera 1,00 m possono circolare sulla carreggiata adiacente.[^42-6]
+
 [^42-1]: Nuovo testo giusta la cifra I dell’O del del 15 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1315](https://fedlex.data.admin.ch/eli/oc/2015/274)).
 [^42-2]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5129](https://fedlex.data.admin.ch/eli/oc/2016/817)).
 [^42-3]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1976, in vigore dal 1° gen. 1977 ([RU 1976 2810](https://fedlex.data.admin.ch/eli/oc/1976/2810_2810_2810)).
 [^42-4]: Nuovo testo giusta la cifra I dell’O del 17 dic. 2021, in vigore dal 1° apr. 2022 ([RU 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
+[^42-5]: [RS 741.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8639)
+[^42-6]: Introdotto dalla cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 26](https://fedlex.data.admin.ch/eli/oc/2025/26)).
 
 #### Art. 43
 
@@ -1460,7 +1468,7 @@ I mezzi simili a veicoli possono essere impiegati come mezzi di circolazione per
 [^58-3]: Introdotto dalla cifra I dell’O del 20 mag. 2020, in vigore dal 1° gen. 2021 ([RU 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 [^58-4]: Introdotto dalla cifra I dell’O del 25 gen. 1989 ([RU 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)). Abrogato dalla cifra I dell’O del 20 mag. 2020, con effetto dal 1° gen. 2021 ([RU 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 [^58-5]: Introdotto dalla cifra I dell’O del 7 mar. 1994 ([RU 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)). Nuovo testo giusta la cifra I dell’O del 24 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
-[^58-6]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^58-6]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^58-7]: Introdotto dalla cifra I dell’O del 17 dic. 2021, in vigore dal 1° apr. 2022 ([RU 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
 
 #### Art. 59
@@ -1488,7 +1496,7 @@ Il conducente di un veicolo deve evitare di sporcare la carreggiata in qualsiasi
 Gli autoveicoli immatricolati in Svizzera sono sottoposti all’obbligo di manutenzione del sistema antinquinamento (art. 35 OETV). Fanno eccezione:
 
 - a. gli autoveicoli provvisti di un sistema di diagnosi «On Board» riconosciuto (sistema OBD);
-- b. gli autoveicoli equipaggiati di motore ad accensione comandata, il cui genere di costruzione permette velocità massime inferiori a 50 km/h nonché gli autoveicoli pesanti equipaggiati di motore ad accensione comandata;
+- b.[^59a-2] gli autoveicoli equipaggiati di motore ad accensione comandata aventi una velocità massima per costruzione inferiore a 50 km/h nonché gli autoveicoli pesanti equipaggiati di motore ad accensione comandata;
 - c. i carri di lavoro agricoli e forestali;
 - d. gli autoveicoli immatricolati per la prima volta prima del 1° gennaio 1976;
 - e. i veicoli di detentori che beneficiano di privilegi e immunità diplomatiche o consolari.
@@ -1502,26 +1510,25 @@ Un sistema OBD è riconosciuto nel caso dei seguenti autoveicoli:
 - c. autoveicoli pesanti che soddisfano almeno le prescrizioni sui gas di scarico Euro 4 e immatricolati per la prima volta dopo il 30 settembre 2006.
 
 [^59a-1]: Introdotto dalla cifra I dell’O del 13 nov. 1985 ([RU 1985 1841](https://fedlex.data.admin.ch/eli/oc/1985/1841_1841_1841)). Nuovo testo giusta la cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 7085](https://fedlex.data.admin.ch/eli/oc/2012/859)).
+[^59a-2]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 26](https://fedlex.data.admin.ch/eli/oc/2025/26)).
 
 #### Art. 59b
 
-**Intervalli di manutenzione**[^59b-1]
-
-<sup>1</sup>
+[^59b-1]
 
 Il detentore di un veicolo sottoposto all’obbligo di manutenzione del sistema antinquinamento deve fare effettuare un servizio di manutenzione entro i termini seguenti:
 
 - a.
 
-  per gli autoveicoli leggeri equipaggiati di un motore ad accensione comandata e il cui genere di costruzione permette velocità massime di 50 km/h e oltre:
+  per gli autoveicoli leggeri equipaggiati di un motore ad accensione comandata aventi una velocità massima per costruzione pari o superiore a 50 km/h:
 
   - 1\. senza catalizzatore: ogni 12 mesi,
   - 2\. con catalizzatore: ogni 24 mesi;
 
-- b. per gli autoveicoli equipaggiati di un motore ad accensione per compressione e il cui genere di costruzione permette velocità massime di oltre 30 km/h: ogni 24 mesi;
-- c. per gli autoveicoli equipaggiati di un motore ad accensione per compressione e il cui genere di costruzione permette velocità massime di 30 km/h e meno: ogni 48 mesi.
+- b. per gli autoveicoli equipaggiati di un motore ad accensione per compressione aventi una velocità massima per costruzione superiore a 30 km/h: ogni 24 mesi;
+- c. per gli autoveicoli equipaggiati di un motore ad accensione per compressione aventi una velocità massima per costruzione pari o inferiore a 30 km/h: ogni 48 mesi.
 
-[^59b-1]: Introdotto dalla cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 7085](https://fedlex.data.admin.ch/eli/oc/2012/859)).
+[^59b-1]: Introdotto dalla cifra I dell’O del 30 nov. 2012 ([RU 2012 7085](https://fedlex.data.admin.ch/eli/oc/2012/859)). Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 26](https://fedlex.data.admin.ch/eli/oc/2025/26)).
 
 #### Art. 59c
 
@@ -1604,22 +1611,28 @@ Sui seguenti veicoli, i fanciulli fino a 7 anni devono essere sorvegliati da un 
 
 I ciclisti di almeno 16 anni possono trasportare:
 
-- a. sui velocipedi a più posti, tante persone quante sono le paia supplementari di pedali disponibili; i fanciulli possono essere trasportati soltanto se sono in grado di pedalare restando seduti;
-- b. su un elemento rimorchiato ai sensi dell’articolo 210 capoverso 5 OETV[^63-2] collegato a un velocipede a uno o due posti: un fanciullo, se è in grado di pedalare restando seduto, o una persona disabile in una sedia a rotelle;
-- c.[^63-3] su un velocipede appositamente predisposto o su una speciale combinazione velocipede/sedia a rotelle: una persona disabile; oppure
-- d.[^63-4] su un rimorchio per velocipedi collegato a un velocipede a uno o due posti oppure su un velocipede appositamente predisposto: al massimo due fanciulli sistemati su sedili protetti.
+- a. tante persone quanti sono i posti a sedere disponibili; i fanciulli possono essere trasportati soltanto su posti adatti alla loro altezza;
+- b.
+
+  su un elemento rimorchiato ai sensi dell’articolo 210 capoverso 5 OETV[^63-2] collegato a un velocipede a uno o due posti:
+
+  - 1\. un fanciullo, se è in grado di pedalare restando seduto, o
+  - 2\. una persona disabile in sedia a rotelle;
+
+- c. su una speciale combinazione velocipede-sedia a rotelle: una persona disabile; oppure
+- d. su un rimorchio per velocipedi collegato a un velocipede a uno o due posti: al massimo due fanciulli sistemati su sedili protetti.[^63-3]
 
 <sup>4</sup> Oltre alle possibilità di cui nel capoverso 3, i ciclisti di almeno 16 anni possono trasportare un fanciullo su un seggiolino sicuro. Il seggiolino, in particolare, deve proteggere le gambe del fanciullo e non intralciare i movimenti del conducente.
 
-<sup>5</sup> ...[^63-5]
+<sup>5</sup> Su velocipedi e ciclomotori senza sella per il conducente non è consentito trasportare persone. [^63-4]
 
-<sup>6</sup> Sui velocipedi aventi due ruote sul medesimo asse l’autorità cantonale può autorizzare più posti delle paia di pedali a disposizione.
+<sup>6</sup> ...[^63-5]
 
 [^63-1]: Nuovo testo giusta la cifra I dell’O del 17 ago. 2005, in vigore dal 1° mar. 2006 ([RU 2005 4487](https://fedlex.data.admin.ch/eli/oc/2005/581)).
-[^63-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^63-3]: Nuovo testo giusta la cifra I dell’O del del 15 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1315](https://fedlex.data.admin.ch/eli/oc/2015/274)).
-[^63-4]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4687](https://fedlex.data.admin.ch/eli/oc/2013/825)).
-[^63-5]: Abrogato dalla cifra I dell’O del 2 mar. 2012, con effetto dal 1° lug. 2012 ([RU 2012 1821](https://fedlex.data.admin.ch/eli/oc/2012/259)).
+[^63-2]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^63-3]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 26](https://fedlex.data.admin.ch/eli/oc/2025/26)).
+[^63-4]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 26](https://fedlex.data.admin.ch/eli/oc/2025/26)).
+[^63-5]: Abrogato dalla cifra I dell’O del 13 dic. 2024, con effetto dal 1° lug. 2025 ([RU 2025 26](https://fedlex.data.admin.ch/eli/oc/2025/26)).
 
 ### III. Dimensioni e peso
 
@@ -1665,22 +1678,23 @@ I ciclisti di almeno 16 anni possono trasportare:
 
 <sup>2</sup> Nel caso degli autobus snodati e degli altri autobus, compresi gli accessori amovibili quali i box porta-sci, non deve essere superata la lunghezza massima di cui al capoverso 1.[^65-4]
 
-<sup>3</sup> In caso di veicoli specialmente equipaggiati per il trasporto di veicoli a motore con ruote disposte simmetricamente, i dispositivi d’appoggio per mantenere a posto i veicoli trasportati possono superare la lunghezza ammessa al massimo di 1,10 m posteriormente e al massimo di 0,50 m anteriormente nei limiti dello sbalzo ammesso (art. 73 cpv. 3).
+<sup>3</sup> In caso di veicoli specialmente equipaggiati per il trasporto di veicoli a motore pluritraccia[^65-5], i dispositivi d’appoggio per mantenere a posto i veicoli trasportati possono superare la lunghezza ammessa al massimo di 1,10 m posteriormente e al massimo di 0,50 m anteriormente nei limiti dello sbalzo ammesso (art. 73 cpv. 3).
 
-<sup>4</sup> In caso di autoarticolati che trasportano container e contenitori analoghi lunghi 45 piedi nell’ambito del trasporto combinato non accompagnato, la lunghezza ammessa di cui al capoverso 1 lettera e può essere superata, anche a vuoto, al massimo di 0,15 m.[^65-5]
+<sup>4</sup> In caso di autoarticolati che trasportano container e contenitori analoghi lunghi 45 piedi nell’ambito del trasporto combinato non accompagnato, la lunghezza ammessa di cui al capoverso 1 lettera e può essere superata, anche a vuoto, al massimo di 0,15 m.[^65-6]
 
-<sup>5</sup> In caso di veicoli a motore pesanti dotati di cabina del conducente aerodinamica allungata o di serbatoi di idrogeno o batterie per l’alimentazione (art. 94 cpv. 1<sup>ter</sup> OETV[^65-6]) possono essere superate le lunghezze di cui al capoverso 1 lettere a ed e, purché non ne derivi una maggiore capacità di carico e siano rispettate le condizioni relative al percorso circolare di cui all’articolo 65*a*.[^65-7]
+<sup>5</sup> In caso di veicoli a motore pesanti dotati di cabina del conducente aerodinamica allungata o di serbatoi di idrogeno o batterie per l’alimentazione (art. 94 cpv. 1<sup>ter</sup> OETV[^65-7]) possono essere superate le lunghezze di cui al capoverso 1 lettere a ed e, purché non ne derivi una maggiore capacità di carico e siano rispettate le condizioni relative al percorso circolare di cui all’articolo 65*a*.[^65-8]
 
-<sup>6</sup> In caso di autotreni dotati di cabina del conducente aerodinamica allungata o di serbatoi di idrogeno o batterie per l’alimentazione può essere superata la lunghezza di cui al capoverso 1 lettera f e all’articolo 9 capoverso 1 LCStr, purché non ne derivi una maggiore capacità di carico e siano rispettate le condizioni relative al percorso circolare di cui all’articolo 65*a*.[^65-8]
+<sup>6</sup> In caso di autotreni dotati di cabina del conducente aerodinamica allungata o di serbatoi di idrogeno o batterie per l’alimentazione può essere superata la lunghezza di cui al capoverso 1 lettera f e all’articolo 9 capoverso 1 LCStr, purché non ne derivi una maggiore capacità di carico e siano rispettate le condizioni relative al percorso circolare di cui all’articolo 65*a*.[^65-9]
 
 [^65-1]: Nuovo testo giusta l’all. 1 cifra II n. 4 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^65-2]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
 [^65-3]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2002, in vigore dal 1° dic. 2002 ([RU 2002 3565](https://fedlex.data.admin.ch/eli/oc/2002/534)).
 [^65-4]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2002, in vigore dal 1° dic. 2002 ([RU 2002 3565](https://fedlex.data.admin.ch/eli/oc/2002/534)).
-[^65-5]: Introdotto dalla cifra I dell’O del 5 apr. 2017, in vigore dal 7 mag. 2017 ([RU 2017 2649](https://fedlex.data.admin.ch/eli/oc/2017/262)).
-[^65-6]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^65-7]: Introdotto dalla cifra I dell’O del 17 dic. 2021, in vigore dal 1° apr. 2022 ([RU 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
-[^65-8]: Introdotto dalla cifra I dell’O del 17 dic. 2021, in vigore dal 1° apr. 2022 al 31 dic. 2030 ([RU 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
+[^65-5]: Nuova espressione giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 26](https://fedlex.data.admin.ch/eli/oc/2025/26)).
+[^65-6]: Introdotto dalla cifra I dell’O del 5 apr. 2017, in vigore dal 7 mag. 2017 ([RU 2017 2649](https://fedlex.data.admin.ch/eli/oc/2017/262)).
+[^65-7]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^65-8]: Introdotto dalla cifra I dell’O del 17 dic. 2021, in vigore dal 1° apr. 2022 ([RU 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
+[^65-9]: Introdotto dalla cifra I dell’O del 17 dic. 2021, in vigore dal 1° apr. 2022 al 31 dic. 2030 ([RU 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
 
 #### Art. 65a
 
@@ -1728,9 +1742,9 @@ Il peso effettivo dei veicoli e delle combinazioni di veicoli non può superare:
 
 <sup>1bis</sup> Per trasporto combinato non accompagnato si intende il trasporto di unità di carico (container, cassa mobile) o il trasferimento di un semirimorchio da o verso una qualsiasi stazione ferroviaria svizzera di trasbordo oppure da o verso un porto svizzero senza che la merce trasportata cambi di contenitore all’atto del trasbordo da un mezzo di trasporto all’altro. Il DATEC può stabilire quali stazioni di trasbordo estere situate in vicinanza del confine sono equiparate a quelle svizzere. Nel trasporto combinato non accompagnato, il conducente del veicolo deve disporre di un documento giustificativo adeguato (per es. lettera ferroviaria di vettura).[^67-10]
 
-<sup>1</sup> <sup>ter</sup> Il peso effettivo dei veicoli di cui al capoverso 1 lettere b–d ed e a propulsione alternativa (art. 9*a* cpv. 1 OETV[^67-11]) può essere aumentato del peso aggiuntivo necessario per il sistema di propulsione alternativa, ma al massimo di 1 t, e per i veicoli a emissioni zero (art. 9*a* cpv. 2 OETV), al massimo di 2 t.[^67-12]
+<sup>1<sup>ter</sup></sup> Il peso effettivo dei veicoli di cui al capoverso 1 lettere b–d ed e a propulsione alternativa (art. 9*a* cpv. 1 OETV[^67-11]) può essere aumentato del peso aggiuntivo necessario per il sistema di propulsione alternativa, ma al massimo di 1 t, e per i veicoli a emissioni zero (art. 9*a* cpv. 2 OETV), al massimo di 2 t.[^67-12]
 
-<sup>1</sup> <sup>quater</sup> Il peso effettivo dei veicoli di cui al capoverso 1 lettera a a propulsione alternativa (art. 9*a* cpv. 1 OETV) può essere aumentato del peso aggiuntivo necessario per il sistema di propulsione alternativa, ma al massimo di 1 t, e per i veicoli a emissioni zero (art. 9*a* cpv. 2 OETV), al massimo di 2 t rispetto ai valori indicati al capoverso 1 e all’articolo 9 capoverso 1 LCStr.[^67-13]
+<sup>1<sup>quater</sup></sup> Il peso effettivo dei veicoli di cui al capoverso 1 lettera a a propulsione alternativa (art. 9*a* cpv. 1 OETV) può essere aumentato del peso aggiuntivo necessario per il sistema di propulsione alternativa, ma al massimo di 1 t, e per i veicoli a emissioni zero (art. 9*a* cpv. 2 OETV), al massimo di 2 t rispetto ai valori indicati al capoverso 1 e all’articolo 9 capoverso 1 LCStr.[^67-13]
 
 <sup>2</sup> Il carico per asse non può superare:
 
@@ -1765,11 +1779,11 @@ Il peso sugli assi motori deve essere almeno pari al (peso minimo d’aderenza):
 
 <sup>5</sup> Il peso effettivo dei rimorchi non può superare il carico rimorchiabile iscritto nella licenza di circolazione del veicolo trattore.
 
-<sup>6</sup> e <sup>7</sup> ...[^67-23]
+<sup>6 e <sup>7</sup></sup> ...[^67-23]
 
 <sup>8</sup> I carichi per asse autorizzati ai sensi dei capoversi 2 e 3 possono essere superati al massimo del 2 per cento, se è rispettato il peso effettivo dei veicoli e delle combinazioni di veicoli ai sensi dei capoversi 1 e 3.[^67-24]
 
-<sup>9</sup> L’USTRA può emanare istruzioni sui carichi massimi autorizzati per asse e sul peso minimo d’aderenza per i veicoli e i trasporti speciali.[^67-25]
+<sup>9</sup> L’USTRA può emanare istruzioni sui carichi massimi autorizzati per asse e sul peso minimo d’aderenza per i veicoli e i trasporti eccezionali[^67-25].[^67-26]
 
 [^67-1]: Nuovo testo giusta l’all. 1 cifra II n. 4 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^67-2]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
@@ -1781,13 +1795,13 @@ Il peso sugli assi motori deve essere almeno pari al (peso minimo d’aderenza):
 [^67-8]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 [^67-9]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 [^67-10]: Introdotto dalla cifra I dell’O del 30 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
-[^67-11]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^67-11]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^67-12]: Introdotto dalla cifra I dell’O del 5 apr. 2017 ([RU 2017 2649](https://fedlex.data.admin.ch/eli/oc/2017/262)). Nuovo testo giusta la cifra I dell’O del 17 dic. 2021, in vigore dal 1° apr. 2022 al 31 dic. 2030 ([RU 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
 [^67-13]: Introdotto dalla cifra I dell’O del 17 dic. 2021, in vigore dal 1° apr. 2022 al 31 dic. 2030 ([RU 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
 [^67-14]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 [^67-15]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5129](https://fedlex.data.admin.ch/eli/oc/2016/817)).
 [^67-16]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
-[^67-17]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^67-17]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^67-18]: Introdotto dal I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 [^67-19]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
 [^67-20]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
@@ -1795,7 +1809,8 @@ Il peso sugli assi motori deve essere almeno pari al (peso minimo d’aderenza):
 [^67-22]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 [^67-23]: Abrogati dalla cifra I dell’O del 24 giu. 2015, con effetto dal 1° gen. 2016 ([RU 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 [^67-24]: Nuovo testo giusta la cifra I dell’O del 24 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
-[^67-25]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
+[^67-25]: Nuova espr. giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 28](https://fedlex.data.admin.ch/eli/oc/2024/28)). Di tale mod. è tenuto conto in tutto il presente testo.
+[^67-26]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
 
 ### IV. Traino di rimorchi e rimorchiatura
 
@@ -1900,7 +1915,7 @@ Sono applicabili le seguenti eccezioni:
 
 <sup>2</sup>
 
-Il carico non deve sporgere lateralmente dai veicoli a motore a ruote simmetriche e dai rimorchi. Vigono le seguenti eccezioni:[^73-2]
+Il carico non deve sporgere lateralmente dai veicoli a motore pluritraccia e dai rimorchi. Vigono le seguenti eccezioni:[^73-2]
 
 - a.[^73-3] attrezzi sportivi indivisibili di una larghezza massima di 2,55 m trasportati su rimorchi per attrezzi sportivi;
 - b.[^73-4] balle di fieno e di paglia e carichi simili sino a una larghezza di 2.55 m per trasporti agricoli e forestali;
@@ -1922,7 +1937,7 @@ Il carico non deve sporgere lateralmente dai veicoli a motore a ruote simmetrich
 [^73-3]: Nuovo testo giusta la cifra I dell’O del 6 mag. 1998, in vigore dal 15 mag. 1998 ([RU 1998 1465](https://fedlex.data.admin.ch/eli/oc/1998/1465_1465_1465)).
 [^73-4]: Nuovo testo giusta la cifra I dell’O del 6 mag. 1998, in vigore dal 15 mag. 1998 ([RU 1998 1465](https://fedlex.data.admin.ch/eli/oc/1998/1465_1465_1465)).
 [^73-5]: Introdotta dalla cifra I dell’O del 15 nov. 2000 ([RU 2000 2883](https://fedlex.data.admin.ch/eli/oc/2000/500)). Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 28](https://fedlex.data.admin.ch/eli/oc/2024/28)).
-[^73-6]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^73-6]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^73-7]: Nuovo testo giusta la cifra II dell’O del 19 feb. 1992, in vigore dal 1° apr. 1992 ([RU 1992 536](https://fedlex.data.admin.ch/eli/oc/1992/536_536_536)).
 [^73-8]: Nuovo testo giusta l’all. 1 cifra II n. 4 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^73-9]: Nuovo testo giusta la cifra I dell’O del 24 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
@@ -1943,8 +1958,8 @@ Il carico non deve sporgere lateralmente dai veicoli a motore a ruote simmetrich
 
 [^74-1]: Nuovo testo giusta l’art. 72 n. 2 dell’O del 27 mag. 1981 sulla protezione degli animali, in vigore dal 1° lug. 1981 ([RU 1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572)).
 [^74-2]: Nuovo testo giusta la cifra I dell’O del 24 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
-[^74-3]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^74-4]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^74-3]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^74-4]: [RS 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 [^74-5]: Nuovo testo giusta la cifra I dell’O del 24 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 
 #### Art. 75
@@ -2030,13 +2045,9 @@ Non necessita di alcuna autorizzazione il traino dei rimorchi seguenti, se essi 
 [^77-4]: Introdotto dalla cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 [^77-5]: Introdotto dalla cifra I dell’O del 7 mar,. 1994, in vigore dal 1° apr. 1994 ([RU 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
 
-### Capo secondo: Veicoli eccezionali e trasporti speciali
+### Capo secondo: Veicoli e trasporti eccezionali
 
-[^part4-chap2-1]
-
-[^part4-chap2-1]: Nuova espressione giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 28](https://fedlex.data.admin.ch/eli/oc/2024/28)). Di tale mod. è tenuto conto in tutto il presente testo.
-
-(art. 9 cpv. 3, 20 LCStr)[^part4-chap2-2]
+(art. 9 cpv. 3, 20 LCStr)[^part4-chap2-1]
 
 #### Art. 78
 
@@ -2061,8 +2072,8 @@ Per i viaggi in cui sono superati la larghezza, l’altezza o il peso massimi so
 
 <sup>4</sup> Il permesso può essere revocato in qualsiasi tempo, segnatamente se sono stati commessi abusi, se il veicolo ha cagionato difficoltà nella circolazione o se i viaggi autorizzati non sono più necessari.
 
-[^part4-chap2-2]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
-[^78-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^part4-chap2-1]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
+[^78-1]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^78-2]: Nuovo testo giusta l’all. 1 cifra II n. 4 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^78-3]: Per. introdotto dalla cifra I dell’O del 15 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2883](https://fedlex.data.admin.ch/eli/oc/2000/500)).
 [^78-4]: Nuovo testo del per. giusta la cifra I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3212](https://fedlex.data.admin.ch/eli/oc/2002/481)).
@@ -2096,7 +2107,7 @@ Se le dimensioni e il peso legali sono superati, i permessi possono essere rilas
 [^79-1]: Nuovo testo giusta l’all. 4 cifra II n. 5 dell’O del 7 nov. 2007 sulle strade nazionali, in vigore dal 1°gen. 2008 ([RU 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
 [^79-2]: Nuovo testo giusta l’all. 4 cifra II n. 5 dell’O del 7 nov. 2007 sulle strade nazionali, in vigore dal 1°gen. 2008 ([RU 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
 [^79-3]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
-[^79-4]: [RS 741.272](https://fedlex.data.admin.ch/eli/cc/1992/341_341_341)
+[^79-4]: [RS 741.272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8643)
 [^79-5]: Nuovo testo giusta la cifra I dell’O del 7 mar. 1994, in vigore dal 1° apr. 1994 ([RU 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
 [^79-6]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
 [^79-7]: Introdotto dalla cifra I dell’O del 1° lug. 1992 ([RU 1993 1142](https://fedlex.data.admin.ch/eli/oc/1993/1142_1142_1142)). Nuovo testo giusta l’all. 4 cifra II n. 5 dell’O del 7 nov. 2007 sulle strade nazionali, in vigore dal 1°gen. 2008 ([RU 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
@@ -2173,11 +2184,10 @@ Eccezioni alle dimensioni e ai pesi massimi legali (art. 64–67) sono ammesse s
 
 <sup>2</sup> ...[^85-1]
 
-<sup>3</sup> Per motivi impellenti e a condizione di prendere misure di sicurezza sufficienti, i conducenti di veicoli e trasporti eccezionali[^85-2] possono derogare alle norme della circolazione così come agli obblighi indicati mediante segnali o demarcazioni. La disposizione è applicabile per analogia ai relativi veicoli d’accompagnamento nonché ai veicoli adibiti alla costruzione, alla manutenzione e alla pulizia della strada.[^85-3]
+<sup>3</sup> Per motivi impellenti e a condizione di prendere misure di sicurezza sufficienti, i conducenti di veicoli e trasporti eccezionali possono derogare alle norme della circolazione così come agli obblighi indicati mediante segnali o demarcazioni. La disposizione è applicabile per analogia ai relativi veicoli d’accompagnamento nonché ai veicoli adibiti alla costruzione, alla manutenzione e alla pulizia della strada.[^85-2]
 
 [^85-1]: Abrogato dalla cifra I dell’O del 28 mar. 2007, con effetto dal 1° lug. 2007 ([RU 2007 2101](https://fedlex.data.admin.ch/eli/oc/2007/297)).
-[^85-2]: Nuova espr. giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 28](https://fedlex.data.admin.ch/eli/oc/2024/28)). Di tale mod. è tenuto conto in tutto il presente testo.
-[^85-3]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5129](https://fedlex.data.admin.ch/eli/oc/2016/817)).
+[^85-2]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5129](https://fedlex.data.admin.ch/eli/oc/2016/817)).
 
 ### Capo terzo: Veicoli agricoli e forestali
 
@@ -2293,7 +2303,7 @@ L’autorità cantonale può permettere l’uso industriale di un veicolo agrico
 <sup>4</sup> ...[^90-4]
 
 [^90-1]: Nuovo testo giusta la cifra I dell’O del 7 apr. 1982, in vigore dal 1° mag. 1982 ([RU 1982 531](https://fedlex.data.admin.ch/eli/oc/1982/531_531_531)).
-[^90-2]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
+[^90-2]: [RS 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
 [^90-3]: Nuovo testo giusta la cifra I dell’O del 17 ago. 2005, in vigore dal 1° mar. 2006 ([RU 2005 4487](https://fedlex.data.admin.ch/eli/oc/2005/581)).
 [^90-4]: Abrogato dalla cifra I dell’O del 22 dic. 2023, con effetto dal 1° apr. 2024 ([RU 2024 28](https://fedlex.data.admin.ch/eli/oc/2024/28)).
 
@@ -2324,7 +2334,7 @@ Sono assoggettati al divieto di circolare la notte e la domenica:
 
 [^part5-chap1-1]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 [^91-1]: Nuovo testo giusta la cifra I dell’O del 1° ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 4569](https://fedlex.data.admin.ch/eli/oc/2010/654)).
-[^91-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^91-2]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 #### Art. 91a
 
@@ -2359,14 +2369,14 @@ Non sono assoggettati al divieto di circolare la notte e la domenica:
 
 [^91a-1]: Introdotto dalla cifra I dell’O del 1° ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 4569](https://fedlex.data.admin.ch/eli/oc/2010/654)).
 [^91a-2]: Nuovo testo giusta l’all. 2 cifra II n. 4 dell’O del 29 ago. 2012 sulle poste, in vigore dal 1° ott. 2012 ([RU 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)).
-[^91a-3]: [RS 783.01](https://fedlex.data.admin.ch/eli/cc/2012/586)
-[^91a-4]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^91a-3]: [RS 783.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9152)
+[^91a-4]: [RS 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
 [^91a-5]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
-[^91a-6]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^91a-6]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
 [^91a-7]: Introdotta dalla cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 [^91a-8]: Introdotta dalla cifra I dell’O del 20 mag. 2020, in vigore dal 1° gen. 2021 ([RU 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 [^91a-9]: Introdotta dalla cifra I dell’O del 17 dic. 2021, in vigore dal 1° apr. 2022 ([RU 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
-[^91a-10]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^91a-10]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^91a-11]: Introdotta dalla cifra I dell’O del 17 dic. 2021, in vigore dal 1° apr. 2022 ([RU 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
 [^91a-12]: Introdotto dalla cifra I dell’O del 20 mag. 2020, in vigore dal 1° gen. 2021 ([RU 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 
@@ -2384,7 +2394,7 @@ I permessi sono rilasciati per le seguenti corse:
 - a<sup>bis</sup>.[^92-4] per il trasporto di invii postali da parte di fornitori secondo gli articoli 3 capoverso 1 e 8 capoverso 1 OPO oppure di subappaltatori secondo l’articolo 1 lettera b OPO, in quanto tale trasporto sia incluso nell’offerta del servizio universale nel settore dei servizi postali (art. 13 della L del 17 dic. 2010[^92-5] sulle poste);
 - b. per il trasporto di materiale da circo, materiale per fiere e mercati, strumenti d’orchestra, scenari di teatro e simili;
 - c. per corse destinate a lavori di costruzione e manutenzione di strade e ferrovie, come pure di linee industriali come linee elettriche, idriche, di telecomunicazione;
-- d. per spostamenti di veicoli eccezionali e trasporti speciali che ostacolano la circolazione;
+- d. per spostamenti di veicoli e trasporti eccezionali che ostacolano la circolazione;
 - e. in caso di viaggi per manifestazioni, segnatamente per il trasporto di viveri e bevande.
 
 <sup>3</sup> Per altri viaggi oltre a quelli di cui al capoverso 2, i permessi sono rilasciati solamente con il consenso dell’USTRA. Se vi è urgenza, il Cantone può permettere, da sé, un viaggio indispensabile, informandone l’USTRA.
@@ -2395,9 +2405,9 @@ I permessi sono rilasciati per le seguenti corse:
 
 [^92-1]: Nuovo testo giusta la cifra I dell’O del 1° ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 4569](https://fedlex.data.admin.ch/eli/oc/2010/654)).
 [^92-2]: Nuovo testo giusta l’all. 2 cifra II n. 4 dell’O del 29 ago. 2012 sulle poste, in vigore dal 1° ott. 2012 ([RU 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)).
-[^92-3]: [RS 783.01](https://fedlex.data.admin.ch/eli/cc/2012/586)
+[^92-3]: [RS 783.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9152)
 [^92-4]: Introdotta dall’all. 2 cifra II n. 4 dell’O del 29 ago. 2012 sulle poste, in vigore dal 1° ott. 2012 ([RU 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)).
-[^92-5]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^92-5]: [RS 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
 [^92-6]: Nuovo testo giusta l’all. 2 cifra II n. 4 dell’O del 29 ago. 2012 sulle poste, in vigore dal 1° ott. 2012 ([RU 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)).
 
 #### Art. 93
@@ -2525,7 +2535,7 @@ Detti sistemi d’informazione contengono in particolare i seguenti dati:
 I veicoli già in circolazione che corrispondono alla definizione vigente prima del 1° agosto 2002 di velocipede secondo l’articolo 24 capoverso 1 OETV[^98-2] e adempiono tutte le esigenze tecniche dei velocipedi possono essere utilizzati come tali fino al 31 dicembre 2003 se provvisti di un contrassegno per velocipedi.
 
 [^98-1]: Nuovo testo giusta la cifra I dell’O del 15 mag. 2002, in vigore dal 1° ago. 2002 ([RU 2002 1931](https://fedlex.data.admin.ch/eli/oc/2002/288)).
-[^98-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^98-2]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 #### Art. 98a
 
@@ -2554,7 +2564,7 @@ I veicoli già in circolazione che corrispondono alla definizione vigente prima 
 
 <sup>4</sup> Le ordinanze ed i decreti emanati dal Consiglio federale in esecuzione della legge federale del 15 marzo 1932[^99-4] sulla circolazione degli autoveicoli e dei velocipedi restano in vigore, eccettuate le norme di circolazione ivi contenute, se non sono contrarie alla LCStr o alle sue prescrizioni d’esecuzione. Il DATEC allestisce un elenco delle disposizioni ancora in vigore.
 
-[^99-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)art. 33 cpv. 1. e 2 e 49 cpv. 2.
+[^99-1]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)art. 33 cpv. 1. e 2 e 49 cpv. 2.
 [^99-2]: [CS **7** 535, 555; [RU 1948 478](https://fedlex.data.admin.ch/eli/oc/1948/532_520_478); **1949** II 1525 art. 4; [1959 685](https://fedlex.data.admin.ch/eli/oc/1959/679_705_685)art. 107 cpv. 3; [1960 1205](https://fedlex.data.admin.ch/eli/oc/1960/1157_1209_1205)art. 28 cpv. 1 n. 1, [1365](https://fedlex.data.admin.ch/eli/oc/1960/1308_1365_1365)art. 4 cpv. 6]
 [^99-3]: [CS **9** 363]
 [^99-4]: [CS **7** 535, 555; [RU 1948 478](https://fedlex.data.admin.ch/eli/oc/1948/532_520_478); **1949** II 1525 art. 4; [1959 685](https://fedlex.data.admin.ch/eli/oc/1959/679_705_685)art. 107 cpv. 3; [1960 1205](https://fedlex.data.admin.ch/eli/oc/1960/1157_1209_1205)art. 28 cpv. 1 n. 1, [1365](https://fedlex.data.admin.ch/eli/oc/1960/1308_1365_1365)art. 4 cpv. 6]
@@ -2589,7 +2599,7 @@ Ad art. 59a
 
 <sup>4</sup> Per i veicoli messi in circolazione la prima volta tra il 1° luglio 1994 e il 28 febbraio 1995 è possibile rinunciare a una misurazione del fumo in occasione dei controlli successivi dei gas di scarico innanzi la prima messa in circolazione.
 
-[^u2-2]: [[RU 1969 839](https://fedlex.data.admin.ch/eli/oc/1969/821_841_839); [1972 1781](https://fedlex.data.admin.ch/eli/oc/1972/1577_1609_1781); [1975 541](https://fedlex.data.admin.ch/eli/oc/1975/541_541_541)n. II 2; [1976 2611](https://fedlex.data.admin.ch/eli/oc/1976/2611_2611_2611), 2867; [1979 1922](https://fedlex.data.admin.ch/eli/oc/1979/1922_1922_1922); [1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572)art. 72 n. 3; [1982 495](https://fedlex.data.admin.ch/eli/oc/1982/495_495_495), [531](https://fedlex.data.admin.ch/eli/oc/1982/531_531_531)n. II, [1107](https://fedlex.data.admin.ch/eli/oc/1982/1107_1107_1107), [1983 627](https://fedlex.data.admin.ch/eli/oc/1983/627_627_627)art. 88 n. 1; [1984 1338](https://fedlex.data.admin.ch/eli/oc/1984/1338_1338_1338); [1985 608](https://fedlex.data.admin.ch/eli/oc/1985/608_608_608), [620](https://fedlex.data.admin.ch/eli/oc/1985/620_620_620)art. 36 cpv. 1; [1986 1833](https://fedlex.data.admin.ch/eli/oc/1986/1833_1833_1833); [1988 876](https://fedlex.data.admin.ch/eli/oc/1988/__876); [1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)cifra II n. 2, [1195](https://fedlex.data.admin.ch/eli/oc/1989/1195_1195_1195); [1991 78](https://fedlex.data.admin.ch/eli/oc/1991/78_78_78)cifra III; [1992 536](https://fedlex.data.admin.ch/eli/oc/1992/536_536_536); [1993 2062](https://fedlex.data.admin.ch/eli/oc/1993/__2062); [1994 167](https://fedlex.data.admin.ch/eli/oc/1994/167_167_167)cifra II n. 214, cifre I, II n. 816 cifra II n. 3, 1326. [RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)all. 1 cifra I lett. a]. Vedi ora l’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali ([RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)).
+[^u2-2]: [[RU 1969 839](https://fedlex.data.admin.ch/eli/oc/1969/821_841_839); [1972 1781](https://fedlex.data.admin.ch/eli/oc/1972/1577_1609_1781); [1975 541](https://fedlex.data.admin.ch/eli/oc/1975/541_541_541)cifra II n. 2; [1976 2611](https://fedlex.data.admin.ch/eli/oc/1976/2611_2611_2611), 2867; [1979 1922](https://fedlex.data.admin.ch/eli/oc/1979/1922_1922_1922); [1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572)art. 72 n. 3; [1982 495](https://fedlex.data.admin.ch/eli/oc/1982/495_495_495), [531](https://fedlex.data.admin.ch/eli/oc/1982/531_531_531)cifra II, [1107](https://fedlex.data.admin.ch/eli/oc/1982/1107_1107_1107), [1983 627](https://fedlex.data.admin.ch/eli/oc/1983/627_627_627)art. 88 n. 1; [1984 1338](https://fedlex.data.admin.ch/eli/oc/1984/1338_1338_1338); [1985 608](https://fedlex.data.admin.ch/eli/oc/1985/608_608_608), [620](https://fedlex.data.admin.ch/eli/oc/1985/620_620_620)art. 36 cpv. 1; [1986 1833](https://fedlex.data.admin.ch/eli/oc/1986/1833_1833_1833); [1988 876](https://fedlex.data.admin.ch/eli/oc/1988/__876); [1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)cifra II n. 2, [1195](https://fedlex.data.admin.ch/eli/oc/1989/1195_1195_1195); [1991 78](https://fedlex.data.admin.ch/eli/oc/1991/78_78_78)cifra III; [1992 536](https://fedlex.data.admin.ch/eli/oc/1992/536_536_536); [1993 2062](https://fedlex.data.admin.ch/eli/oc/1993/__2062); [1994 167](https://fedlex.data.admin.ch/eli/oc/1994/167_167_167)cifra II n. 214, cifre I, II n. 816 cifra II n. 3, 1326. [RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)all. 1 cifra I lett. a]. Vedi ora l’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali ([RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)).
 
 ## Disposizione finale della modifica del 22 ottobre 1997
 

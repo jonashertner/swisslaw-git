@@ -4,11 +4,11 @@ title: Verkehrsregelnverordnung vom 13. November 1962 (VRV)
 short: VRV
 eli: "https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420"
 language: de
-version: 2025-01-01
+version: 2025-07-01
 adopted: 1962-11-13
 in_force: 1963-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20250101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20250701/de/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20250701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20250101/de"
 
 (VRV)[^t-1]
 
-vom 13. November 1962 (Stand am 1. Januar 2025)
+vom 13. November 1962 (Stand am 1. Juli 2025)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 25. Jan. 1989, in Kraft seit 1. Mai 1989 ([AS 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
 
@@ -27,7 +27,7 @@ gestützt auf die Artikel 2 Absätze 1 Buchstabe b und 2, 9 Absätze 1<sup>bis</
 
 verordnet:
 
-[^ingress-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^ingress-1]: [SR 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 [^ingress-2]: Fassung gemäss Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 
 ## Einleitung
@@ -61,7 +61,7 @@ verordnet:
 <sup>\*</sup> Vgl. z.B. die Art. 6 Abs. 1 und 2, 47 Abs. 2.
 
 [^1-1]: Gemäss Ziff. I der V vom 15. Mai 2002, in Kraft seit 1. Aug. 2002 ([AS 2002 1931](https://fedlex.data.admin.ch/eli/oc/2002/288)) wurden im ganzen Erlass die Randtitel in Sachüberschriften umgewandelt.
-[^1-2]: [SR 741.21](https://fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961)**.** Heute: Signalisationsverordnung
+[^1-2]: [SR 741.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8639)**.** Heute: Signalisationsverordnung
 [^1-3]: Fassung gemäss Ziff. I der V vom 25. Jan. 1989, in Kraft seit 1. Mai 1989 ([AS 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
 [^1-4]: Fassung gemäss Ziff. I der V vom 25. Jan. 1989, in Kraft seit 1. Mai 1989 ([AS 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
 [^1-5]: Fassung gemäss Ziff. I der V vom 25. Jan. 1989, in Kraft seit 1. Mai 1989 ([AS 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
@@ -76,7 +76,7 @@ verordnet:
 Die Ziffern in Klammern nach Bezeichnungen von Signalen und Markierungen beziehen sich auf die Abbildungen in Anhang 2 SSV[^1a-2].
 
 [^1a-1]: Eingefügt durch Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
-[^1a-2]: [SR 741.21](https://fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961)
+[^1a-2]: [SR 741.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8639)
 
 ## 1. Teil: Regeln für den Fahrverkehr
 
@@ -161,7 +161,7 @@ Alkoholeinfluss liegt vor, wenn die Person:
 
 [^2a-1]: Eingefügt durch Ziff. I der V vom 29. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4687](https://fedlex.data.admin.ch/eli/oc/2013/825)).
 [^2a-2]: Fassung gemäss Ziff. I der V vom 26. Okt. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3837](https://fedlex.data.admin.ch/eli/oc/2016/642)).
-[^2a-3]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^2a-3]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^2a-4]: Eingefügt durch Ziff. I der V vom 26. Okt. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3837](https://fedlex.data.admin.ch/eli/oc/2016/642)).
 [^2a-5]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Okt. 2016 ([AS 2015 2595](https://fedlex.data.admin.ch/eli/oc/2015/492)).
 
@@ -227,7 +227,7 @@ Auf Plätzen mit Sicherheitsgurten muss für Kinder unter zwölf Jahren eine gee
 [^3a-3]: Fassung gemäss Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 [^3a-4]: Richtlinie 91/671/EWG des Rates vom 16. Dezember 1991 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über die Gurtanlegepflicht in Kraftfahrzeugen mit einem Gewicht von weniger als 3,5 Tonnen, ABl. L 373 vom 31.12.1991, S. 26; zuletzt geändert durch Richtlinie 2014/37/EU, ABl. L 59 vom 28.02.2014, S. 32.
 [^3a-5]: Eingefügt durch Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5129](https://fedlex.data.admin.ch/eli/oc/2016/817)).
-[^3a-6]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^3a-6]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^3a-7]: Fassung gemäss Ziff. III der V vom 9. Juni 2023, in Kraft seit 15. Juli 2023 ([AS 2023 327](https://fedlex.data.admin.ch/eli/oc/2023/327)).
 [^3a-8]: Fassung gemäss Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 
@@ -247,17 +247,20 @@ Von der Helmtragpflicht sind ausgenommen:
 - b. Personen bei Fahrten im Werkareal, wenn nicht schneller als 25 km/h gefahren wird;
 - c. Personen in geschlossenen Kabinen;
 - d. Personen auf Sitzen, die mit Sicherheitsgurten versehen sind;
-- e. Personen auf Fahrzeugen mit einer bauartbedingten Höchstgeschwindigkeit bis 20 km/h und einer allfälligen Tretunterstützung, die bis maximal 25 km/h wirkt;
+- e.[^3b-2] Personen auf Fahrzeugen mit einer bauartbedingten Höchstgeschwindigkeit bis 20 km/h;
 - f. Führer von Motorfahrrädern, die durch ein ärztliches Zeugnis nachweisen, dass ihnen das Tragen eines Schutzhelmes nicht zugemutet werden kann;
-- g. Führer von motorisierten Rollstühlen (Art. 18 Bst. c VTS[^3b-2]).
+- g.[^3b-3] Personen auf Motorfahrrädern mit elektrischem Antrieb, der bis höchstens 25 km/h wirkt;
+- h.[^3b-4] Führer von motorisierten Rollstühlen.
 
-<sup>3</sup> Auf Motorrädern mit oder ohne Seitenwagen, auf Leicht-, Klein- und dreirädrigen Motorfahrzeugen und auf Motorfahrrädern ist ein Schutzhelm zu tragen, der nach dem UNECE-Reglement Nr. 22 in der Fassung nach Anhang 2 VTS geprüft ist. Auf Raupenfahrzeugen genügt ein Helm, der nach der Norm SN EN 1077[^3b-3] oder SN EN 1078[^3b-4] geprüft ist, auf Motorfahrrädern ein Fahrradhelm, der nach der Norm SN EN 1078 geprüft ist.[^3b-5]
+<sup>3</sup> Auf Motorrädern mit oder ohne Seitenwagen, auf Leicht-, Klein- und dreirädrigen Motorfahrzeugen und auf Motorfahrrädern ist ein Schutzhelm zu tragen, der nach dem UNECE-Reglement Nr. 22 in der Fassungen nach Anhang 2 VTS oder nach einer früheren in der VTS aufgeführten Fassung dieses Reglements geprüft ist. Auf Raupenfahrzeugen genügt ein Helm, der nach der Norm SN EN 1077[^3b-5] oder SN EN 1078[^3b-6] geprüft ist, auf Motorfahrrädern ein Fahrradhelm, der nach der Norm SN EN 1078 geprüft ist.[^3b-7]
 
 [^3b-1]: Eingefügt durch Ziff. I der V vom 20. Mai 1981 ([AS 1981 507](https://fedlex.data.admin.ch/eli/oc/1981/507_507_507)). Fassung gemäss Ziff. I der V vom 24. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
-[^3b-2]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^3b-3]: SN EN 1077, 2007, Helme für alpine Skiläufer und für Snowboarder. Diese Norm kann gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^3b-4]: SN EN 1078, 2013, Helme für Radfahrer und für Benutzer von Skateboards und Rollschuhen. Diese Norm kann gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^3b-5]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
+[^3b-2]: Fassung gemäss Ziff. I der V vom 13. Dez. 2024, in Kraft seit 1. Juli 2025 ([AS 2025 26](https://fedlex.data.admin.ch/eli/oc/2025/26)).
+[^3b-3]: Fassung gemäss Ziff. I der V vom 13. Dez. 2024, in Kraft seit 1. Juli 2025 ([AS 2025 26](https://fedlex.data.admin.ch/eli/oc/2025/26)).
+[^3b-4]: Eingefügt durch Ziff. I der V vom 13. Dez. 2024, in Kraft seit 1. Juli 2025 ([AS 2025 26](https://fedlex.data.admin.ch/eli/oc/2025/26)).
+[^3b-5]: SN EN 1077, *2007*, Helme für alpine Skiläufer und für Snowboarder. Diese Norm kann gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch).
+[^3b-6]: SN EN 1078, *2013*, Helme für Radfahrer und für Benutzer von Skateboards und Rollschuhen. Diese Norm kann gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch).
+[^3b-7]: Fassung gemäss Ziff. I der V vom 13. Dez. 2024, in Kraft seit 1. Juli 2025 ([AS 2025 26](https://fedlex.data.admin.ch/eli/oc/2025/26)).
 
 #### Art. 4
 
@@ -267,7 +270,7 @@ Von der Helmtragpflicht sind ausgenommen:
 
 <sup>1</sup> Der Fahrzeugführer darf nur so schnell fahren, dass er innerhalb der überblickbaren Strecke halten kann; wo das Kreuzen schwierig ist, muss er auf halbe Sichtweite halten können.
 
-<sup>2</sup> und <sup>3</sup> …[^4-1]
+<sup>2 und <sup>3</sup></sup> …[^4-1]
 
 <sup>4</sup> …[^4-2]
 
@@ -317,18 +320,27 @@ Die allgemeine Höchstgeschwindigkeit für Fahrzeuge beträgt unter günstigen S
 
 Die Höchstgeschwindigkeit beträgt:
 
-- a. 80 km/h für
+- a.
+
+  80 km/h für:
+
   - 1\. schwere Motorwagen, ausgenommen schwere Personenwagen,
   - 2\. Anhängerzüge,
   - 3\. Sattelmotorfahrzeuge,
   - 4\. Fahrzeuge mit Spikesreifen;
 
 - b. 60 km/h für gewerbliche Traktoren;
-- c. 40 km/h beim
+- c.
+
+  40 km/h beim:
+
   - 1\. Abschleppen von Fahrzeugen, auch mittels Abschlepprolli oder aufgesattelt; die zuständige Behörde kann in besonderen Fällen höhere Schleppgeschwindigkeiten gestatten, namentlich für feste Abschleppvorrichtungen, welche die Lenkung des geschleppten Fahrzeuges gewährleisten,
   - 2\. Nachziehen eines leeren Abschlepprollis; die zuständige Behörde kann in besonderen Fällen, namentlich für den Einsatz auf Autobahnen und Autostrassen, höhere Geschwindigkeiten gestatten;
 
-- d. 30 km/h
+- d.
+
+  30 km/h:
+
   - 1\. beim Mitführen von land- und forstwirtschaftlichen[^5-2] Anhängern, die nicht immatrikuliert sind,
   - 2\. beim Mitführen von immatrikulierten land- und forstwirtschaftlichen Anhängern, sofern deren Fahrzeugausweis keine höhere Geschwindigkeit zulässt,
   - 3\. für Fahrzeuge mit Metall- oder Vollgummireifen.[^5-3]
@@ -415,7 +427,7 @@ Benützen mehrspurige Motorfahrzeuge und Radfahrer denselben Fahrstreifen, so m�
 [^8-3]: Fassung gemäss Ziff. I der V vom 25. Jan. 1989, in Kraft seit 1. Mai 1989 ([AS 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
 [^8-4]: Fassung gemäss Ziff. I der V vom 15. Mai 2002, in Kraft seit 1. Aug. 2002 ([AS 2002 1931](https://fedlex.data.admin.ch/eli/oc/2002/288)).
 [^8-5]: Fassung des zweiten Satzes gemäss Ziff. I der V vom 25. Jan. 1989, in Kraft seit 1. Mai 1989 ([AS 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
-[^8-6]: [SR 741.21](https://fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961)
+[^8-6]: [SR 741.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8639)
 [^8-7]: Fassung gemäss Ziff. I der V vom 24. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 [^8-8]: Fassung gemäss Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 
@@ -538,7 +550,7 @@ Der Fahrzeugführer darf kein Fahrzeug überholen, das ein anderes Fahrzeug übe
 <sup>3</sup> Wer aus Fabrik‑, Hof- oder Garageausfahrten, aus Feldwegen, Radwegen, Parkplätzen, Tankstellen und dergleichen oder über ein Trottoir auf eine Haupt- oder Nebenstrasse fährt, muss den Benützern dieser Strassen den Vortritt gewähren. Ist die Stelle unübersichtlich, so muss der Fahrzeugführer anhalten; wenn nötig, muss er eine Hilfsperson beiziehen, die das Fahrmanöver überwacht.[^15-2]
 
 [^15-1]: Fassung gemäss Ziff. I der V vom 25. Jan. 1989, in Kraft seit 1. Mai 1989 ([AS 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
-[^15-2]: Siehe jedoch Art. 74*a* Abs. 4 SSV ([SR 741.21](https://fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961)).
+[^15-2]: Siehe jedoch Art. 74*a* Abs. 4 SSV ([SR 741.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8639)).
 
 #### Art. 16
 
@@ -690,7 +702,7 @@ Die Parkierungserleichterungen können nur beansprucht werden:
 <sup>5</sup> Eine Parkkarte wird ausgestellt für Personen, die mittels ärztlichem Zeugnis eine erhebliche Gehbehinderung nachweisen, und für Halter von Fahrzeugen, die nachweislich für den häufigen Transport von erheblich gehbehinderten Personen eingesetzt werden. Die Parkkarte wird durch die kantonale Behörde erteilt.
 
 [^20a-1]: Eingefügt durch Ziff. I der V vom 17. Aug. 2005, in Kraft seit 1. März 2006 ([AS 2005 4487](https://fedlex.data.admin.ch/eli/oc/2005/581)).
-[^20a-2]: [SR 741.21](https://fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961)
+[^20a-2]: [SR 741.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8639)
 [^20a-3]: Fassung gemäss Ziff. I der V vom 2. März 2012, in Kraft seit 1. Juli 2012 ([AS 2012 1821](https://fedlex.data.admin.ch/eli/oc/2012/259)).
 [^20a-4]: Fassung gemäss Ziff. I der V vom 2. März 2012, in Kraft seit 1. Juli 2012 ([AS 2012 1821](https://fedlex.data.admin.ch/eli/oc/2012/259)).
 [^20a-5]: Fassung gemäss Ziff. I der V vom 2. März 2012, in Kraft seit 1. Juli 2012 ([AS 2012 1821](https://fedlex.data.admin.ch/eli/oc/2012/259)).
@@ -736,12 +748,12 @@ Warnblinklichter (Art. 110 Abs. 1 Bst. g VTS) dürfen nur zur Warnung vor Gefahr
 - a. am stehenden Fahrzeug zusätzlich zum Pannensignal sowie am gekennzeichneten Schulbus beim Ein- und Aussteigenlassen der Schüler (Art. 6 Abs. 5);
 - b. am fahrenden Fahrzeug, namentlich vor einer unvermutet auftauchenden Unfallstelle, einem Fahrzeugstau oder auf Autobahnen und Autostrassen beim Abschleppen.[^23-6]
 
-<sup>4</sup> und <sup>5</sup> …[^23-7]
+<sup>4 und <sup>5</sup></sup> …[^23-7]
 
 <sup>6</sup> Das Pannensignal ist auch an der Rückseite abgeschleppter Fahrzeuge anzubringen.
 
 [^23-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 1976, in Kraft seit 1. Jan. 1977 ([AS 1976 2810](https://fedlex.data.admin.ch/eli/oc/1976/2810_2810_2810)).
-[^23-2]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^23-2]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^23-3]: Fassung gemäss Anhang 1 Ziff. II 4 der V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge, in Kraft seit 1. Okt. 1995 ([AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^23-4]: Fassung gemäss Ziff. I der V vom 24. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 [^23-5]: Fassung gemäss Anhang 1 Ziff. II 4 der V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge, in Kraft seit 1. Okt. 1995 ([AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
@@ -838,7 +850,7 @@ Der Inhaber eines Lernfahrausweises darf keine Passagiere mitführen, die nicht 
 <sup>4</sup> Befördern Motorkarren, Arbeitskarren, land- und forstwirtschaftliche Motorfahrzeuge oder ihre Anhänger sichthemmende Ladungen, so hat der Führer eine Winkkelle (Anhang 4 VTS[^28-2]) zu verwenden, sofern nicht das Fahrzeug mit einem besondern Anzeigegerät versehen ist, mit dem der Führer gleichzeitig nach hinten blicken und das Abschwenken nach links anzeigen kann, oder am Ende des Zuges keine Richtungsblinker vorhanden und diejenigen des Zugfahrzeuges nicht sichtbar sind.[^28-3] Durch Kelle oder Anzeigegerät dürfen andere Strassenbenützer nicht gefährdet werden.[^28-4]
 
 [^28-1]: Zweiter Satz eingefügt durch Ziff. I der V vom 22. Okt. 1997, in Kraft seit 1. Nov. 1997 ([AS 1997 2404](https://fedlex.data.admin.ch/eli/oc/1997/2404_2404_2404)).
-[^28-2]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^28-2]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^28-3]: Fassung gemäss Anhang 1 Ziff. II 4 der V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge, in Kraft seit 1. Okt. 1995 ([AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^28-4]: Fassung gemäss Art. 36 Ziff. I des BRB vom 27. Aug. 1969 über administrative Ausführungsbestimmungen zum Strassenverkehrsgesetz, in Kraft seit 1. Okt. 1969 ([AS 1969 793](https://fedlex.data.admin.ch/eli/oc/1969/793_813_811)).
 
@@ -855,7 +867,7 @@ Der Inhaber eines Lernfahrausweises darf keine Passagiere mitführen, die nicht 
 <sup>3</sup> Nach Eintritt der Dunkelheit dürfen nur Lichtsignale gegeben werden. Akustische Warnsignale sind nur in Notfällen zulässig.
 
 [^29-1]: Fassung gemäss Ziff. I der V vom 25. Jan. 1989, in Kraft seit 1. Mai 1989 ([AS 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
-[^29-2]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^29-2]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^29-3]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 
 #### Art. 30
@@ -931,7 +943,7 @@ Fahrzeugführer, Mitfahrende und Hilfspersonen dürfen keinen vermeidbaren Lärm
 - g. Zuschlagen von Wagentüren, Motorhauben, Kofferdeckeln und dergleichen;
 - h. Störungen durch Tonwiedergabegeräte, die im Fahrzeug eingebaut sind oder mitgeführt werden.
 
-[^33-1]: Fassung gemäss Ziff. I der V vom 16. Okt. 2024, in Kraft seit 1. Jan. 2025 (AS **20****24** 607).
+[^33-1]: Fassung gemäss Ziff. I der V vom 16. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 607](https://fedlex.data.admin.ch/eli/oc/2024/607)).
 
 #### Art. 34
 
@@ -1075,7 +1087,7 @@ Das Rechtsüberholen durch Ausschwenken und Wiedereinbiegen ist untersagt. Der F
 
 <sup>1bis</sup> Das Parkieren der anderen Fahrzeuge auf dem Trottoir ist untersagt, sofern es Signale oder Markierungen nicht ausdrücklich zulassen. Ohne eine solche Signalisation dürfen sie auf dem Trottoir nur halten zum Güterumschlag oder zum Ein- und Aussteigenlassen von Personen; für Fussgänger muss stets ein mindestens 1,50 m breiter Raum frei bleiben. Die Ladetätigkeit und das Ein- und Aussteigenlassen ist ohne Verzug zu beenden.[^41-3] [^41-4]
 
-<sup>2</sup> Muss mit einem Fahrzeug das Trottoir benützt werden, so ist der Führer gegenüber den Fussgängern und Benützern von fahrzeugähnlichen Geräten zu besonderer Vorsicht verpflichtet; er hat ihnen den Vortritt zu lassen.[^41-5]
+<sup>2</sup> Muss mit einem Fahrzeug das Trottoir benützt werden, so ist der Führer gegenüber den Fussgängern, Benützern von fahrzeugähnlichen Geräten und weiteren Berechtigten zu besonderer Vorsicht verpflichtet; er hat ihnen den Vortritt zu lassen.[^41-5]
 
 <sup>3</sup> Längsstreifen für Fussgänger (6.19) dürfen von Fahrzeugen nur benützt werden, wenn der Fussgängerverkehr nicht behindert wird.[^41-6]
 
@@ -1085,7 +1097,7 @@ Das Rechtsüberholen durch Ausschwenken und Wiedereinbiegen ist untersagt. Der F
 [^41-2]: Siehe auch die SchlB am Schluss dieser V.
 [^41-3]: Eingefügt durch Ziff. I der V vom 25. Jan. 1989, in Kraft seit 1. Mai 1989 ([AS 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
 [^41-4]: Siehe auch die SchlB am Schluss dieser V.
-[^41-5]: Fassung gemäss Ziff. I der V vom 15. Mai 2002, in Kraft seit 1. Aug. 2002 ([AS 2002 1931](https://fedlex.data.admin.ch/eli/oc/2002/288)).
+[^41-5]: Fassung gemäss Ziff. I der V vom 13. Dez. 2024, in Kraft seit 1. Juli 2025 ([AS 2025 26](https://fedlex.data.admin.ch/eli/oc/2025/26)).
 [^41-6]: Fassung gemäss Ziff. I der V vom 25. Jan. 1989, in Kraft seit 1. Mai 1989 ([AS 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
 [^41-7]: Fassung gemäss Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 
@@ -1133,10 +1145,14 @@ Auf Nebenstrassen in Wohnquartieren oder auf Nebenstrassen, wo der Fahrzeugverke
 
 <sup>4</sup> Die Führer von Motorfahrrädern sowie die Führer von Elektro-Rikschas mit einer Breite bis 1,00 m haben die Vorschriften für Radfahrer zu beachten. Zusätzlich haben sie die allgemeinen und signalisierten Höchstgeschwindigkeiten einzuhalten.[^42-4]
 
+<sup>5</sup> Wo die Führer von schweren und schnellen Motorfahrrädern sowie von Elektro-Rikschas mit einer Breite bis 1,00 m von der Pflicht ausgenommen sind, Radwege zu benützen (Art. 64*a* Abs. 3 SSV[^42-5]), dürfen sie die anliegende Fahrbahn benützen.[^42-6]
+
 [^42-1]: Fassung gemäss Ziff. I der V vom 15. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1315](https://fedlex.data.admin.ch/eli/oc/2015/274)).
 [^42-2]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5129](https://fedlex.data.admin.ch/eli/oc/2016/817)).
 [^42-3]: Fassung gemäss Ziff. I der V vom 22. Dez. 1976, in Kraft seit 1. Jan. 1977 ([AS 1976 2810](https://fedlex.data.admin.ch/eli/oc/1976/2810_2810_2810)).
 [^42-4]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
+[^42-5]: [SR 741.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8639)
+[^42-6]: Eingefügt durch Ziff. I der V vom 13. Dez. 2024, in Kraft seit 1. Juli 2025 ([AS 2025 26](https://fedlex.data.admin.ch/eli/oc/2025/26)).
 
 #### Art. 43
 
@@ -1442,7 +1458,7 @@ Fahrzeugähnliche Geräte dürfen als Verkehrsmittel verwendet werden auf:
 [^58-3]: Eingefügt durch Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 [^58-4]: Eingefügt durch Ziff. I der V vom 25. Jan. 1989 ([AS 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)). Aufgehoben durch Ziff. I der V vom 20. Mai 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 [^58-5]: Eingefügt durch Ziff. I der V vom 7. März 1994 ([AS 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)). Fassung gemäss Ziff. I der V vom 24. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
-[^58-6]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^58-6]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^58-7]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
 
 #### Art. 59
@@ -1584,22 +1600,28 @@ Auf folgenden Fahrzeugen müssen Kinder bis zum vollendeten 7. Altersjahr von ei
 
 Fahrradfahrer über 16 Jahre dürfen mitführen:
 
-- a. auf mehrplätzigen Fahrrädern so viele Personen, wie zusätzliche Pedalpaare vorhanden sind; Kinder dürfen nur mitgeführt werden, wenn sie die Pedale sitzend treten können;
-- b. auf einem Nachlaufteil gemäss Artikel 210 Absatz 5 VTS[^63-2] an ein- und zweiplätzigen Fahrrädern ein Kind, wenn es die Pedale sitzend treten kann, oder eine behinderte Person im Rollstuhl;
-- c.[^63-3] auf einem speziell eingerichteten Fahrrad bzw. einer speziellen Fahrrad-Rollstuhl-Kombination eine behinderte Person; oder
-- d.[^63-4] in einem Fahrradanhänger an ein- und zweiplätzigen Fahrrädern oder auf einem speziell eingerichteten Fahrrad: höchstens zwei Kinder auf geschützten Sitzplätzen.
+- a. so viele Personen, wie Sitzplätze vorhanden sind; Kinder dürfen nur auf Plätzen mitgeführt werden, die für ihre Grösse geeignet sind;
+- b.
+
+  auf einem Nachlaufteil gemäss Artikel 210 Absatz 5 VTS[^63-2] an ein- und zweiplätzigen Fahrrädern:
+
+  - 1\. ein Kind, wenn es die Pedale sitzend treten kann, oder
+  - 2\. eine behinderte Person im Rollstuhl;
+
+- c. auf einer speziellen Fahrrad-Rollstuhl-Kombination: eine behinderte Person; oder
+- d. in einem Fahrradanhänger an ein- und zweiplätzigen Fahrrädern: höchstens zwei Kinder auf geschützten Sitzplätzen.[^63-3]
 
 <sup>4</sup> Fahrradfahrer über 16 Jahre dürfen zusätzlich zu den Möglichkeiten nach Absatz 3 ein Kind auf einem sicheren Kindersitz mitführen. Der Sitz muss namentlich die Beine des Kindes schützen und darf den Radfahrer nicht behindern.
 
-<sup>5</sup> …[^63-5]
+<sup>5</sup> Auf Fahrrädern und Motorfahrrädern ohne Sitzgelegenheit für den Führer oder die Führerin dürfen keine Personen mitgeführt werden.[^63-4]
 
-<sup>6</sup> Auf mehrspurigen Fahrrädern kann die kantonale Behörde mehr Plätze bewilligen als Pedalpaare vorhanden sind.
+<sup>6</sup> …[^63-5]
 
 [^63-1]: Fassung gemäss Ziff. I der V vom 17. Aug. 2005, in Kraft seit 1. März 2006 ([AS 2005 4487](https://fedlex.data.admin.ch/eli/oc/2005/581)).
-[^63-2]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^63-3]: Fassung gemäss Ziff. I der V vom 15. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1315](https://fedlex.data.admin.ch/eli/oc/2015/274)).
-[^63-4]: Fassung gemäss Ziff. I der V vom 29. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4687](https://fedlex.data.admin.ch/eli/oc/2013/825)).
-[^63-5]: Aufgehoben durch Ziff. I der V vom 2. März 2012, mit Wirkung seit 1. Juli 2012 ([AS 2012 1821](https://fedlex.data.admin.ch/eli/oc/2012/259)).
+[^63-2]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^63-3]: Fassung gemäss Ziff. I der V vom 13. Dez. 2024, in Kraft seit 1. Juli 2025 ([AS 2025 26](https://fedlex.data.admin.ch/eli/oc/2025/26)).
+[^63-4]: Fassung gemäss Ziff. I der V vom 13. Dez. 2024, in Kraft seit 1. Juli 2025 ([AS 2025 26](https://fedlex.data.admin.ch/eli/oc/2025/26)).
+[^63-5]: Aufgehoben durch Ziff. I der V vom 13. Dez. 2024, mit Wirkung seit 1. Juli 2025 ([AS 2025 26](https://fedlex.data.admin.ch/eli/oc/2025/26)).
 
 ### III. Masse und Gewichte
 
@@ -1658,7 +1680,7 @@ Fahrradfahrer über 16 Jahre dürfen mitführen:
 [^65-3]: Fassung gemäss Ziff. I der V vom 16. Okt. 2002, in Kraft seit 1. Dez. 2002 ([AS 2002 3565](https://fedlex.data.admin.ch/eli/oc/2002/534)).
 [^65-4]: Fassung gemäss Ziff. I der V vom 16. Okt. 2002, in Kraft seit 1. Dez. 2002 ([AS 2002 3565](https://fedlex.data.admin.ch/eli/oc/2002/534)).
 [^65-5]: Eingefügt durch Ziff. I der V vom 5. April 2017, in Kraft seit 7. Mai 2017 ([AS 2017 2649](https://fedlex.data.admin.ch/eli/oc/2017/262)).
-[^65-6]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^65-6]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^65-7]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
 [^65-8]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft vom 1. April 2022 bis zum 31. Dez. 2030 ([AS 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
 
@@ -1708,9 +1730,9 @@ Das Betriebsgewicht von Fahrzeugen und Fahrzeugkombinationen darf höchstens bet
 
 <sup>1bis</sup> Als unbegleiteter kombinierter Verkehr gilt die Beförderung von Ladebehältern (Container, Wechselaufbau) oder die Überführung eines Sattelanhängers von oder zu einer beliebigen schweizerischen Umladestation der Bahn bzw. von oder zu einem schweizerischen Hafen, ohne dass das Ladegut beim Übergang vom einen zum anderen Verkehrsträger das Transportgefäss wechselt. Das UVEK kann festlegen, welche in Grenznähe liegenden ausländischen Umladestationen den schweizerischen gleichgestellt sind. Der Fahrzeugführer muss im unbegleiteten kombinierten Verkehr ein geeignetes Nachweisdokument (z. B. Frachtbrief der Bahn) mitführen.[^67-10]
 
-<sup>1</sup> <sup>ter</sup> Das Betriebsgewicht von Fahrzeugen nach Absatz 1 Buchstaben b–d und e mit alternativem Antrieb (Art. 9*a* Abs. 1 VTS[^67-11]) darf um das für die alternative Antriebstechnik erforderliche Mehrgewicht, höchstens jedoch 1 t und bei Fahrzeugen mit emissionsfreiem Antrieb (Art. 9*a* Abs. 2 VTS) höchstens 2 t, höher sein.[^67-12]
+<sup>1<sup>ter</sup></sup> Das Betriebsgewicht von Fahrzeugen nach Absatz 1 Buchstaben b–d und e mit alternativem Antrieb (Art. 9*a* Abs. 1 VTS[^67-11]) darf um das für die alternative Antriebstechnik erforderliche Mehrgewicht, höchstens jedoch 1 t und bei Fahrzeugen mit emissionsfreiem Antrieb (Art. 9*a* Abs. 2 VTS) höchstens 2 t, höher sein.[^67-12]
 
-<sup>1</sup> <sup>quater</sup> Das Betriebsgewicht von Fahrzeugen nach Absatz 1 Buchstabe a mit alternativem Antrieb (Art. 9*a* Abs. 1 VTS) darf um das für die alternative Antriebstechnik erforderliche Mehrgewicht, höchstens jedoch 1 t und bei Fahrzeugen mit emissionsfreiem Antrieb (Art. 9*a* Abs. 2 VTS) höchstens 2 t, höher sein als die in Absatz 1 und in Artikel 9 Absatz 1 SVG genannten Werte.[^67-13]
+<sup>1<sup>quater</sup></sup> Das Betriebsgewicht von Fahrzeugen nach Absatz 1 Buchstabe a mit alternativem Antrieb (Art. 9*a* Abs. 1 VTS) darf um das für die alternative Antriebstechnik erforderliche Mehrgewicht, höchstens jedoch 1 t und bei Fahrzeugen mit emissionsfreiem Antrieb (Art. 9*a* Abs. 2 VTS) höchstens 2 t, höher sein als die in Absatz 1 und in Artikel 9 Absatz 1 SVG genannten Werte.[^67-13]
 
 <sup>2</sup> Die Achslasten dürfen höchstens betragen für:
 
@@ -1745,7 +1767,7 @@ Das Gewicht auf den Antriebsachsen muss mindestens betragen (minimales Adhäsion
 
 <sup>5</sup> Das Betriebsgewicht der Anhänger darf die im Fahrzeugausweis des Zugfahrzeuges eingetragene Anhängelast nicht übersteigen.
 
-<sup>6</sup> und <sup>7</sup> …[^67-19]
+<sup>6 und <sup>7</sup></sup> …[^67-19]
 
 <sup>8</sup> Die nach den Absätzen 2 und 3 zulässigen Achslasten dürfen um höchstens 2 Prozent überschritten werden, wenn das Betriebsgewicht der Fahrzeuge und der Fahrzeugkombinationen nach den Absätzen 1 und 3 eingehalten ist.[^67-20]
 
@@ -1761,11 +1783,11 @@ Das Gewicht auf den Antriebsachsen muss mindestens betragen (minimales Adhäsion
 [^67-8]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 [^67-9]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 [^67-10]: Eingefügt durch Ziff. I der V vom 30. Juni 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
-[^67-11]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^67-11]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^67-12]: Eingefügt durch Ziff. I der V vom 5. April 2017 ([AS 2017 2649](https://fedlex.data.admin.ch/eli/oc/2017/262)). Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
 [^67-13]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft vom 1. April 2022 bis zum 31. Dez. 2030 ([AS 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
 [^67-14]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5129](https://fedlex.data.admin.ch/eli/oc/2016/817)).
-[^67-15]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^67-15]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^67-16]: Eingefügt durch Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 [^67-17]: Fassung gemäss Ziff. I der V vom 30. Juni 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
 [^67-18]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
@@ -1899,7 +1921,7 @@ Die Ladung darf mehrspurige Motorfahrzeuge und Anhänger seitlich nicht überrag
 [^73-3]: Fassung gemäss Ziff. I der V vom 6. Mai 1998, in Kraft seit 15. Mai 1998 ([AS 1998 1465](https://fedlex.data.admin.ch/eli/oc/1998/1465_1465_1465)).
 [^73-4]: Fassung gemäss Ziff. I der V vom 6. Mai 1998, in Kraft seit 15. Mai 1998 ([AS 1998 1465](https://fedlex.data.admin.ch/eli/oc/1998/1465_1465_1465)).
 [^73-5]: Eingefügt durch Ziff. I der V vom 15. Nov. 2000 ([AS 2000 2883](https://fedlex.data.admin.ch/eli/oc/2000/500)). Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2024 28](https://fedlex.data.admin.ch/eli/oc/2024/28)).
-[^73-6]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^73-6]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^73-7]: Fassung gemäss Ziff. II der V vom 19. Febr. 1992, in Kraft seit 1. April 1992 ([AS 1992 536](https://fedlex.data.admin.ch/eli/oc/1992/536_536_536)).
 [^73-8]: Fassung gemäss Anhang 1 Ziff. II 4 der V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge, in Kraft seit 1. Okt. 1995 ([AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^73-9]: Fassung gemäss Ziff. I der V vom 24. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
@@ -1920,8 +1942,8 @@ Die Ladung darf mehrspurige Motorfahrzeuge und Anhänger seitlich nicht überrag
 
 [^74-1]: Fassung gemäss Art. 72 Ziff. 2 der Tierschutzverordnung vom 27. Mai 1981, in Kraft seit 1. Juli 1981 ([AS 1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572)).
 [^74-2]: Fassung gemäss Ziff. I der V vom 24. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
-[^74-3]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^74-4]: [SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^74-3]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^74-4]: [SR 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 [^74-5]: Fassung gemäss Ziff. I der V vom 24. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 
 #### Art. 75
@@ -2034,7 +2056,7 @@ Für Fahrten, bei denen Höchstbreite, Höchsthöhe oder Höchstgewicht übersch
 <sup>4</sup> Die Bewilligung kann jederzeit entzogen werden, namentlich wenn sie missbraucht wurde, die Fahrzeuge im Verkehr Schwierigkeiten verursachen oder die bewilligten Fahrten nicht mehr nötig sind.
 
 [^part4-chap2-1]: Fassung gemäss Ziff. I der V vom 30. Juni 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
-[^78-1]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^78-1]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^78-2]: Fassung gemäss Anhang 1 Ziff. II 4 der V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge, in Kraft seit 1. Okt. 1995 ([AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^78-3]: Zweiter Satz eingefügt durch Ziff. I der V vom 15. Nov. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2883](https://fedlex.data.admin.ch/eli/oc/2000/500)).
 [^78-4]: Dritter Satz eingefügt durch Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3212](https://fedlex.data.admin.ch/eli/oc/2002/481)).
@@ -2071,7 +2093,7 @@ Werden die gesetzlichen Masse und Gewichte überschritten, so können die Bewill
 [^79-1]: Fassung gemäss Anhang 4 Ziff. II 5 der Nationalstrassenverordnung vom 7. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
 [^79-2]: Fassung gemäss Anhang 4 Ziff. II 5 der Nationalstrassenverordnung vom 7. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
 [^79-3]: Fassung gemäss Ziff. I der V vom 30. Juni 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
-[^79-4]: [SR 741.272](https://fedlex.data.admin.ch/eli/cc/1992/341_341_341)
+[^79-4]: [SR 741.272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8643)
 [^79-5]: Fassung gemäss Ziff. I der V vom 7. März 1994, in Kraft seit 1. April 1994 ([AS 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
 [^79-6]: Fassung gemäss Ziff. I der V vom 30. Juni 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
 [^79-7]: Eingefügt durch Ziff. I der V vom 1. Juli 1992 ([AS 1993 1142](https://fedlex.data.admin.ch/eli/oc/1993/1142_1142_1142)). Fassung gemäss Anhang 4 Ziff. II 5 der Nationalstrassenverordnung vom 7. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
@@ -2266,7 +2288,7 @@ Die kantonale Behörde kann die gewerbliche Verwendung land- und forstwirtschaft
 <sup>4</sup> …[^90-4]
 
 [^90-1]: Fassung gemäss Ziff. I der V vom 7. April 1982, in Kraft seit 1. Mai 1982 ([AS 1982 531](https://fedlex.data.admin.ch/eli/oc/1982/531_531_531)).
-[^90-2]: [SR 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
+[^90-2]: [SR 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
 [^90-3]: Fassung gemäss Ziff. I der V vom 17. Aug. 2005, in Kraft seit 1. März 2006 ([AS 2005 4487](https://fedlex.data.admin.ch/eli/oc/2005/581)).
 [^90-4]: Aufgehoben durch Ziff. I der V vom 22. Dez. 2023, mit Wirkung seit 1. April 2024 ([AS 2024 28](https://fedlex.data.admin.ch/eli/oc/2024/28)).
 
@@ -2295,7 +2317,7 @@ Unter das Sonntags- und Nachtfahrverbot fallen:
 
 [^part5-chap1-1]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 [^91-1]: Fassung gemäss Ziff. I der V vom 1. Okt. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 4569](https://fedlex.data.admin.ch/eli/oc/2010/654)).
-[^91-2]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^91-2]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 #### Art. 91a
 
@@ -2330,14 +2352,14 @@ Vom Sonntags- und Nachtfahrverbot sind ausgenommen:
 
 [^91a-1]: Eingefügt durch Ziff. I der V vom 1. Okt. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 4569](https://fedlex.data.admin.ch/eli/oc/2010/654)).
 [^91a-2]: Fassung gemäss Anhang 2 Ziff. II 4 der Postverordnung vom 29. Aug. 2012, in Kraft seit 1. Okt. 2012 ([AS 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)).
-[^91a-3]: [SR 783.01](https://fedlex.data.admin.ch/eli/cc/2012/586)
-[^91a-4]: [SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^91a-3]: [SR 783.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9152)
+[^91a-4]: [SR 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
 [^91a-5]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
-[^91a-6]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^91a-6]: [SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
 [^91a-7]: Eingefügt durch Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 [^91a-8]: Eingefügt durch Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 [^91a-9]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
-[^91a-10]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^91a-10]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^91a-11]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
 [^91a-12]: Eingefügt durch Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 
@@ -2366,9 +2388,9 @@ Bewilligungen werden für folgende Fahrten erteilt:
 
 [^92-1]: Fassung gemäss Ziff. I der V vom 1. Okt. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 4569](https://fedlex.data.admin.ch/eli/oc/2010/654)).
 [^92-2]: Fassung gemäss Anhang 2 Ziff. II 4 der Postverordnung vom 29. Aug. 2012, in Kraft seit 1. Okt. 2012 ([AS 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)).
-[^92-3]: [SR 783.01](https://fedlex.data.admin.ch/eli/cc/2012/586)
+[^92-3]: [SR 783.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9152)
 [^92-4]: Eingefügt durch Anhang 2 Ziff. II 4 der Postverordnung vom 29. Aug. 2012, in Kraft seit 1. Okt. 2012 ([AS 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)).
-[^92-5]: [SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^92-5]: [SR 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
 [^92-6]: Fassung gemäss Anhang 2 Ziff. II 4 der Postverordnung vom 29. Aug. 2012, in Kraft seit 1. Okt. 2012 ([AS 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)).
 
 #### Art. 93
@@ -2496,7 +2518,7 @@ Diese Informationssysteme enthalten insbesondere folgende Daten:
 Bereits in Verkehr stehende Fahrzeuge, welche der vor dem 1. August 2002 geltenden Fahrraddefinition nach Artikel 24 Absatz 1 VTS[^98-2] entsprechen und alle technischen Anforderungen an Fahrräder erfüllen, dürfen noch bis zum 31. Dezember 2003 wie Fahrräder verwendet werden, sofern sie eine Fahrradvignette tragen.
 
 [^98-1]: Fassung gemäss Ziff. I der V vom 15. Mai 2002, in Kraft seit 1. Aug. 2002 ([AS 2002 1931](https://fedlex.data.admin.ch/eli/oc/2002/288)).
-[^98-2]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^98-2]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 #### Art. 98a
 
@@ -2557,7 +2579,7 @@ Artikel 41 Absätze 1 und 1<sup>bis</sup> gilt ab 1. Juli 1989.
 
 <sup>4</sup> An Fahrzeugen, die zwischen dem 1. Juli 1994 und dem 28. Februar 1995 erstmals in Verkehr gesetzt werden, kann bei der Abgas-Nachkontrolle vor der ersten Inverkehrsetzung auf eine Rauchmessung verzichtet werden.
 
-[^u2-2]: [[AS 1969 821](https://fedlex.data.admin.ch/eli/oc/1969/821_841_839); [1972 1577](https://fedlex.data.admin.ch/eli/oc/1972/1577_1609_1781), [1748](https://fedlex.data.admin.ch/eli/oc/1972/1748__); [1975 541](https://fedlex.data.admin.ch/eli/oc/1975/541_541_541)Ziff. II 2; [1976 2611](https://fedlex.data.admin.ch/eli/oc/1976/2611_2611_2611); [1979 1922](https://fedlex.data.admin.ch/eli/oc/1979/1922_1922_1922); [1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572)Art. 72 Ziff. 3; [1982 495](https://fedlex.data.admin.ch/eli/oc/1982/495_495_495), [531](https://fedlex.data.admin.ch/eli/oc/1982/531_531_531)Ziff. II; [1983 627](https://fedlex.data.admin.ch/eli/oc/1983/627_627_627)Art. 88 Ziff. 1; [1984 1338](https://fedlex.data.admin.ch/eli/oc/1984/1338_1338_1338); [1985 608](https://fedlex.data.admin.ch/eli/oc/1985/608_608_608); [1986 1833](https://fedlex.data.admin.ch/eli/oc/1986/1833_1833_1833); [1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)Ziff. II 2, [1195](https://fedlex.data.admin.ch/eli/oc/1989/1195_1195_1195); [1991 78](https://fedlex.data.admin.ch/eli/oc/1991/78_78_78)Ziff. III; [1992 536](https://fedlex.data.admin.ch/eli/oc/1992/536_536_536); [1994 167](https://fedlex.data.admin.ch/eli/oc/1994/167_167_167)Ziff. II, [214](https://fedlex.data.admin.ch/eli/oc/1994/214_214_214)Ziff. I und, II 816 Ziff. II 3, 1326. [AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)Anhang 1 Ziff. I Bst. a]. Siehe heute die V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge ([SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)).
+[^u2-2]: [[AS 1969 821](https://fedlex.data.admin.ch/eli/oc/1969/821_841_839); [1972 1577](https://fedlex.data.admin.ch/eli/oc/1972/1577_1609_1781), [1748](https://fedlex.data.admin.ch/eli/oc/1972/1748__); [1975 541](https://fedlex.data.admin.ch/eli/oc/1975/541_541_541)Ziff. II 2; [1976 2611](https://fedlex.data.admin.ch/eli/oc/1976/2611_2611_2611); [1979 1922](https://fedlex.data.admin.ch/eli/oc/1979/1922_1922_1922); [1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572)Art. 72 Ziff. 3; [1982 495](https://fedlex.data.admin.ch/eli/oc/1982/495_495_495), [531](https://fedlex.data.admin.ch/eli/oc/1982/531_531_531)Ziff. II; [1983 627](https://fedlex.data.admin.ch/eli/oc/1983/627_627_627)Art. 88 Ziff. 1; [1984 1338](https://fedlex.data.admin.ch/eli/oc/1984/1338_1338_1338); [1985 608](https://fedlex.data.admin.ch/eli/oc/1985/608_608_608); [1986 1833](https://fedlex.data.admin.ch/eli/oc/1986/1833_1833_1833); [1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)Ziff. II 2, [1195](https://fedlex.data.admin.ch/eli/oc/1989/1195_1195_1195); [1991 78](https://fedlex.data.admin.ch/eli/oc/1991/78_78_78)Ziff. III; [1992 536](https://fedlex.data.admin.ch/eli/oc/1992/536_536_536); [1994 167](https://fedlex.data.admin.ch/eli/oc/1994/167_167_167)Ziff. II, [214](https://fedlex.data.admin.ch/eli/oc/1994/214_214_214)Ziff. I und, II 816 Ziff. II 3, 1326. [AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)Anhang 1 Ziff. I Bst. a]. Siehe heute die V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge ([SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)).
 
 ## Schlussbestimmung der Änderung vom 22. Oktober 1997
 
