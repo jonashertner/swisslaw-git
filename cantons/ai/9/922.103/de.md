@@ -1,25 +1,25 @@
 ---
 canton: AI
 number: "922.103"
-title: Standeskommissionsbeschluss über die Steinwildjagd
-short: StKB Steinwild
+title: Standeskommissionsbeschluss über die Regulierung von Steinböcken
+short: StKB Steinböcke
 language: de
-version: 2024-08-01
-valid_until: 2025-06-30
-version_adopted: 2024-06-18
+version: 2025-07-01
+valid_until: 2026-06-30
+version_adopted: 2025-07-01
 adopted: 2022-02-01
 in_force: 2022-02-08
 url: "https://ai.clex.ch/app/de/texts_of_law/922.103"
-pdf: "https://ai.clex.ch/api/de/versions/2291/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2369/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Standeskommissionsbeschluss über die Steinwildjagd
+# Standeskommissionsbeschluss über die Regulierung von Steinböcken
 
-(StKB Steinwild)
+(StKB Steinböcke)
 
-vom 01.02.2022 (Stand 01.08.2024)
+vom 01.02.2022 (Stand 01.07.2025)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -33,20 +33,20 @@ beschliesst:
 
 **Zweck**
 
-<sup>1</sup> Dieser Beschluss regelt die Zulassung für Jägerinnen und Jäger zur Steinwildjagd, den Ablauf dieser Jagd und die zu erhebenden Gebühren.
+<sup>1</sup> Dieser Beschluss regelt die Zulassung für Jägerinnen und Jäger zur Regulierung von Steinböcken, den Ablauf dieser Jagd und die zu erhebenden Gebühren.
 
 #### Art. 2
 
 **Zulassungsbedingungen**
 
-<sup>1</sup> Zur Steinwildjagd können sich jagdberechtigte Jägerinnen und Jäger anmelden.
+<sup>1</sup> Zur Regulierung von Steinböcken können sich jagdberechtigte Jägerinnen und Jäger anmelden.
 
 <sup>2</sup> Sie müssen zum Zeitpunkt der Anmeldung die folgenden Voraussetzungen erfüllen:
 
 - a) Lösen von mindestens fünf Hochjagdpatenten;
-- b) Abschluss der vorgeschriebenen Haftpflichtversicherung für Jägerinnen und Jäger;
+- b) …
 - c) Teilnahme an einer durch die Jagdverwaltung organisierten Feldbegehung im Alpstein im betreffenden Jagdjahr;
-- d) Keine Ausübung einer Steinwildjagd in den vorangehenden sechs Jahren im Kanton Appenzell I.Rh. Davon ausgenommen sind Bockabschüsse nach Art. 3 dieses Beschlusses.
+- d) …
 
 <sup>3</sup> …
 
@@ -54,11 +54,11 @@ beschliesst:
 
 **Auslosung**
 
-<sup>1</sup> Unter den angemeldeten Jägerinnen und Jägern für die Geissen- und Jungtierjagd wird die Reihenfolge der berechtigten Jägerinnen und Jäger ausgelost. Die zum Abschuss freigegebenen Tiere werden jährlich anhand dieser Liste zugeteilt.
+<sup>1</sup> Unter den angemeldeten Jägerinnen und Jägern wird die Reihenfolge der berechtigten Jägerinnen und Jäger ausgelost. Die zur Regulierung freigegebenen Tiere werden jährlich anhand dieser Liste zugeteilt.
 
-<sup>2</sup> Nach der Auslosung hinzukommende Jägerinnen und Jäger werden der Liste des ersten Jahrs angefügt und erstmals berücksichtigt, wenn alle Jägerinnen und Jäger der Vorjahre die Steinwildjagd ausgeübt haben. Kommen mehrere hinzu, wird unter diesen die Reihenfolge ausgelost.
+<sup>2</sup> Nach der Auslosung hinzukommende Jägerinnen und Jäger werden der Liste des ersten Jahrs angefügt und erstmals berücksichtigt, wenn alle Jägerinnen und Jäger der Vorjahre die Regulierung der Steinböcke ausgeübt haben. Die Reihenfolge erfolgt nach dem Datum der Anmeldung.
 
-<sup>3</sup> Die Zulosung gilt für das fragliche Jahr und kann grundsätzlich nicht nachgeholt werden. Ist eine Teilnahme aus gesundheitlichen Gründen ausgeschlossen, ist eine Verschiebung auf das folgende Jahr möglich, sofern dies der Jagdverwaltung vor dem 1. Oktober schriftlich und unter Einreichung eines Arztzeugnisses mitgeteilt wird. Eine weitere Verschiebung ist nicht möglich.
+<sup>3</sup> Die Zulosung gilt für das fragliche Jahr und kann grundsätzlich nicht nachgeholt werden. Ist eine Teilnahme aus gesundheitlichen Gründen ausgeschlossen, ist eine Verschiebung auf das folgende Jahr möglich, sofern dies der Jagdverwaltung unter Einreichung eines Arztzeugnisses mitgeteilt wird.
 
 #### Art. 4
 
@@ -66,46 +66,42 @@ beschliesst:
 
 <sup>1</sup> Die patentälteste Jägerin oder der patentälteste Jäger darf einen Steinbock erlegen. Hierfür sind die Zulassungsbedingungen nach Art. 2 dieses Erlasses zu erfüllen.
 
-<sup>2</sup> Der Bockabschuss richtet sich nach der Abschussplanung, welche aufgrund der Populationsstruktur erstellt wird. Es besteht kein Anspruch auf den Abschuss eines älteren Bockes.
+<sup>2</sup> Der Bockabschuss richtet sich nach der Abschussplanung, welche aufgrund der Populationsstruktur erstellt wird. Die Liste der patentältesten Jägerin oder des patentältesten Jägers ist dem Amt für Umwelt vom Patentjägerverein Appenzell I.Rh. jährlich bis zum 30. April zu übermitteln. Es besteht kein Anspruch auf den Abschuss eines älteren Bockes.
 
 <sup>3</sup> Bei einem Ausfall einer Jägerin oder eines Jägers kann der Abschuss von der Jagdverwaltung turnusgemäss weitergegeben werden.
 
-## II. Abschussplan und Zuteilung der Abschüsse
+## II. Regulierung von Steinböcken
 
 #### Art. 5
 
-**Abschussplan und Altersklasse**
+**Regulierung von Steinböcken**
 
-<sup>1</sup> Anzahl und Aufteilung der Abschüsse nach Geschlecht und Alter richten sich nach dem "Konzept für einen nachhaltigen Umgang mit dem Steinwild im Alpstein" und dem vom Bundesamt für Umwelt genehmigten, durch die Jagdverwaltung erstellten, Abschussplan.
+<sup>1</sup> Anzahl und Aufteilung der Regulierung nach Geschlecht und Alter richten sich nach der eidgenössischen Jagdverordnung und dem vom Bundesamt für Umwelt genehmigten, durch die Jagdverwaltung erstellten Antrag.
 
 <sup>2</sup> Es gelten folgende Kategorien:
 
 - a) Kitze;
-- b) Jungtiere beiderlei Geschlechts (ein- und zweijährige);
-- c) Nichtsäugende Geissen, dreijährige und älter;
-- d) Böcke, drei- bis fünfjährige;
-- e) Böcke, sechs- bis zehnjährige;
-- f) Böcke, elfjährige und älter.
+- b) ein- und zweijährige Jungtiere beiderlei Geschlechts;
+- c) dreijährige und ältere Geissen;
+- d) drei- bis fünfjährige Böcke;
+- e) sechs- bis zehnjährige Böcke;
+- f) elfjährige und ältere Böcke.
 
 <sup>3</sup> Säugende Geissen und Kitze sind geschützt.
 
+<sup>4</sup> Die Anzahl Jagdberechtigter richtet sich nach dem Antrag auf Regulierung von Steinwild.
+
 #### Art. 6
 
-**Zuteilung der Abschüsse**
+**…**
 
-<sup>1</sup> Die Jagdverwaltung bestimmt jährlich die Anzahl der Jagdberechtigten.
-
-<sup>2</sup> Die Anzahl Jagdberechtigter richtet sich nach der Abschussplanung.
-
-<sup>3</sup> Die Abschussplanung kann aus wichtigen Gründen, beispielsweise wegen Krankheiten, jederzeit angepasst werden.
-
-## III. Vorschriften für die Steinwildjagd
+## III. Vorschriften für die Regulierung von Steinböcken
 
 #### Art. 7
 
 **Jagd- und Schusszeiten**
 
-<sup>1</sup> Die Steinwildjagd findet zwischen dem 1. Oktober und 20. Oktober statt.
+<sup>1</sup> Die Regulierung von Steinböcken findet zwischen dem 15. September und 20. Oktober statt.
 
 <sup>2</sup> An Sonn- und Feiertagen findet keine Jagd statt.
 
@@ -122,6 +118,8 @@ beschliesst:
 <sup>3</sup> Die berechtigten Jägerinnen und Jäger dürfen selbständig jagen. Die Jagdverwaltung kann eine Einteilung in Zweiergruppen vornehmen und ein bestimmtes Gebiet sowie einen bestimmten Abschuss zuteilen.
 
 <sup>4</sup> Erlegte Tiere müssen am Abschusstag der Wildhut gemeldet und innert 24 Stunden zur Vorweisung in die Kühlzelle an der Mettlenstrasse 24 gehängt werden.
+
+<sup>5</sup> Hegeabschüsse werden für die Regulierung von Steinwild nicht angerechnet. Diese Tiere gehen an den Kanton über.
 
 ## IV. Schlusstitel
 
