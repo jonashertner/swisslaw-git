@@ -4,13 +4,13 @@ number: "152.221.121"
 title: "Verordnung über die Organisation und die Aufgaben der Gesundheits-, Sozial- und Integrationsdirektion"
 short: "Organisationsverordnung GSI, OrV GSI"
 language: de
-version: 2025-01-01
-valid_until: 2025-06-30
-version_adopted: 2024-11-20
+version: 2025-07-01
+valid_until: 2026-08-31
+version_adopted: 2024-11-13
 adopted: 2021-06-30
 in_force: 2021-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.221.121"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3093/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3096/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3093/pdf_file"
 
 (Organisationsverordnung GSI, OrV GSI)
 
-vom 30.06.2021 (Stand 01.01.2025)
+vom 30.06.2021 (Stand 01.07.2025)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -80,13 +80,12 @@ beschliesst:
 
 - a–b …
 - c Kantonale Kommission für den schulärztlichen Dienst,
-- d Kantonale Kommission für Gesundheitsförderungs- und Suchtfragen,
+- d …
 - e Kommission für Sozial-, Existenzsicherungs- und Familienpolitik,
-- f Gesundheitskommission,
+- f …
 - g Kantonale Kommission für die Integration der ausländischen Bevölkerung,
 - h Beirat für medizinische Innovationen,
-- i Kommission Psychiatrie.
-- k …
+- i–k …
 
 <sup>2</sup> Der Regierungsrat und die Direktion können nichtständige beratende Kommissionen einsetzen.
 

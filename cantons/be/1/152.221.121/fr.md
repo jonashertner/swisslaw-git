@@ -4,13 +4,13 @@ number: "152.221.121"
 title: "Ordonnance sur l’organisation et les tâches de la Direction de la santé, des affaires sociales et de l’intégration"
 short: "Ordonnance d’organisation DSSI, OO DSSI"
 language: fr
-version: 2025-01-01
-valid_until: 2025-06-30
-version_adopted: 2024-11-20
+version: 2025-07-01
+valid_until: 2026-08-31
+version_adopted: 2024-11-13
 adopted: 2021-06-30
 in_force: 2021-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.221.121"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3093/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3096/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3093/pdf_file"
 
 (Ordonnance d’organisation DSSI, OO DSSI)
 
-du 30.06.2021 (état au 01.01.2025)
+du 30.06.2021 (état au 01.07.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -80,13 +80,12 @@ arrête:
 
 - a–b …
 - c Commission cantonale pour le service médical scolaire,
-- d Commission cantonale de promotion de la santé et de lutte contre les dépendances,
+- d …
 - e Commission pour la politique sociale, la politique de couverture du minimum vital et la politique de la famille,
-- f Commission de la santé,
+- f …
 - g Commission cantonale pour l’intégration de la population étrangère,
 - h Comité consultatif sur les innovations médicales,
-- i Commission des soins psychiatriques.
-- k …
+- i–k …
 
 <sup>2</sup> Le Conseil-exécutif et la Direction peuvent constituer des commissions consultatives non permanentes.
 
