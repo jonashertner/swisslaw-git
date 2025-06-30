@@ -4,11 +4,11 @@ title: "Ordinanza del 1° novembre 2017 sulla promozione della produzione di ele
 short: OPEn
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/766"
 language: it
-version: 2025-03-01
+version: 2025-07-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250301/it/xml/fedlex-data-admin-ch-eli-cc-2017-766-20250301-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20250301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2017-766-20250701-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20250701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20250301/it"
 
 (Ordinanza sulla promozione dell’energia, OPEn)
 
-del 1° novembre 2017 (Stato 1° marzo 2025)
+del 1° novembre 2017 (Stato 1° luglio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -253,7 +253,7 @@ Al sistema di rimunerazione per l’immissione di elettricità possono partecipa
 
 <sup>4</sup> Per i gestori di impianti assoggettati all’imposta secondo gli articoli 10–13 della legge del 12 giugno 2009[^16-1] sull’IVA (LIVA), il premio per l’immissione in rete si riduce del fattore calcolato come segue, in base all’aliquota normale vigente secondo l’articolo 25 capoverso 1 LIVA e arrotondato alla quarta cifra decimale:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250301/it/xml/image/image1.png).[^16-2]
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250701/it/xml/image/image1.png).[^16-2]
 
 [^16-1]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
 [^16-2]: Introdotto dalla cifra I dell’O del 27 feb. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)). Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
@@ -1109,9 +1109,9 @@ L’organo d’esecuzione revoca la garanzia di cui all’articolo 30*e*<sup>nov
 
 **Autorizzazione di inizio anticipato dei lavori**[^32-1]
 
-L’UFE può autorizzare l’inizio anticipato dei lavori negli impianti idroelettrici, a biomassa e geotermici, se attendere la garanzia di principio comporterebbe gravi inconvenienti. L’autorizzazione non dà alcun diritto a un contributo d’investimento.
+L’autorità competente può autorizzare l’inizio anticipato dei lavori negli impianti idroelettrici, a biomassa e geotermici, se attendere la garanzia di principio comporte-rebbe gravi inconvenienti. L’autorizzazione non dà alcun diritto a un contributo d’investimento.
 
-[^32-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^32-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 383](https://fedlex.data.admin.ch/eli/oc/2025/383)).
 
 #### Art. 33
 
@@ -1779,8 +1779,8 @@ L’articolo 30*b*<sup>bis</sup> stabilisce se l’ampliamento o il rinnovamento
 
 Nei seguenti casi il contributo d’investimento è pari al 60 per cento dei costi d’investimento computabili:
 
-- a. nuovi impianti e ampliamenti considerevoli che soddisfano uno dei criteri di rilevanza di cui all’articolo 47 capoverso 1 lettere a–c ed e, purché almeno il 50 per cento dell’ulteriore produzione sia generato nel semestre invernale e tale produzione invernale sia pari ad almeno 5 GWh;
-- b. ampliamenti considerevoli che soddisfano il criterio di rilevanza dell’articolo 47 capoverso 1 lettera d.
+- a. nuovi impianti e ampliamenti considerevoli che soddisfano uno dei criteri di rilevanza di cui all’articolo 30*b*<sup>bis</sup> capoverso 1 lettere a–c ed e, purché almeno il 50 per cento dell’ulteriore produzione sia generato nel semestre invernale e tale produzione invernale sia pari ad almeno 5 GWh;
+- b. ampliamenti considerevoli che soddisfano il criterio di rilevanza dell’articolo 30*b*<sup>bis</sup> capoverso 1 lettera d.[^48-2]
 
 <sup>3</sup>
 
@@ -1796,6 +1796,7 @@ Per i rinnovamenti considerevoli il contributo d’investimento ammonta:
 <sup>6</sup> Negli impianti idroelettrici sul confine il contributo d’investimento calcolato viene ridotto della quota non appartenente alla sovranità svizzera
 
 [^48-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^48-2]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 383](https://fedlex.data.admin.ch/eli/oc/2025/383)).
 
 ### Sezione 2: Ordine di presa in considerazione degli impianti idroelettrici con una potenza massima di 10 MW e lista d’attesa
 
@@ -2402,15 +2403,9 @@ Se sussistono presumibilmente i requisiti per il diritto e vi sono sufficienti r
 
 #### Art. 87h
 
-**Proroga del termine per la messa in esercizio[^87h-1]**
+[^87h-1]
 
-Su richiesta del richiedente, l’organo d’esecuzione può prorogare il termine per la messa in esercizio, se:[^87h-2]
-
-- a. il termine non può essere rispettato per ragioni non imputabili al richiedente; e;
-- b. la richiesta viene presentata prima della scadenza del termine.
-
-[^87h-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
-[^87h-2]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+[^87h-1]: Abrogato dalla cifra I dell’O del 21 mag. 2025, con effetto dal 1° lug. 2025 ([RU 2025 383](https://fedlex.data.admin.ch/eli/oc/2025/383)).
 
 #### Art. 87i
 
@@ -3169,7 +3164,7 @@ Allegato 1.1[^t-1]
 - 2\.4.1 Se la quota destinata alla realizzazione delle opere idrauliche secondo lo stato della tecnica, condotte forzate incluse, è inferiore al 20 per cento dei costi di investimento complessivi del progetto, il diritto al bonus per le opere idrauliche decade. Se tale quota è superiore al 50 per cento, si ha diritto al bonus completo. Per i valori compresi fra il 20 e il 50 per cento viene effettuata un’interpolazione lineare secondo il seguente grafico. Le misure di cui all’articolo 83*a* LPAC[^annex11-lvlu1-lvl2-1] o all’articolo 10 LFSP[^annex11-lvlu1-lvl2-2] non sono computabili ai fini del bonus.
 - 2\.4.2 Le centrali con utilizzo di acqua di dotazione non hanno diritto al bonus per le opere idrauliche. Gli impianti accessori con una potenza superiore a 100 kW hanno diritto al bonus per le opere idrauliche solo fino alla potenza equivalente di 100 kW.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250301/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250701/it/xml/image/image2.png)
 
 - 2\.4.3 Il tasso per il bonus per le opere idrauliche secondo le classi di potenza ammonta dopo il 1° gennaio 2013 a:
 
@@ -3517,7 +3512,7 @@ Allegato 1.4[^t-4]
 
 - 3\.1 Gli impianti geotermici devono presentare, al più tardi dall’inizio del terzo anno civile completo dopo la messa in esercizio, un coefficiente di sfruttamento globale minimo secondo il diagramma seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250301/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250701/it/xml/image/image3.png)
 
 - 3\.2 Il periodo di valutazione rilevante per la determinazione del coefficiente di sfruttamento globale è un anno civile completo; il coefficiente di sfruttamento globale si riferisce all’energia annua misurata alla testa del pozzo con:
 - coefficiente di sfruttamento del calore = calore sfruttato diviso per energia misurata alla testa del pozzo
@@ -3604,7 +3599,7 @@ Allegato 1.5[^t-5]
 
 ## Impianti a biomassa nel sistema di rimunerazione per l’immissione di elettricità
 
-[^t-5]: Aggiornato dalla cifra II delle O del 27 feb. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), del 23 ott. 2019 ([RU 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)) e dalla cifra II cpv. 1 dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+[^t-5]: Aggiornato dalla cifra II delle O del 27 feb. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), del 23 ott. 2019 ([RU 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)), dalla cifra II cpv. 1 dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)) e dalla cifra II dell’O del 21 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 383](https://fedlex.data.admin.ch/eli/oc/2025/383)).
 
 ### 1 Definizione degli impianti
 
@@ -3633,7 +3628,7 @@ Allegato 1.5[^t-5]
   - e. prodotti tessili;
   - f. gas di discarica;
   - g. gas di depurazione, fanghi grezzi degli impianti di depurazione delle acque;
-  - h. carburanti e combustibili biogeni per i quali il plusvalore ecologico è già stato indennizzato con attestati secondo la legislazione sul CO<sub>2</sub>, ad eccezione dell’olio di accensione biogeno utilizzato nelle centrali termo-elettriche a blocco.
+  - h. carburanti e combustibili rinnovabili per i quali il plusvalore ecologico è già stato indennizzato con attestati secondo la legislazione sul CO<sub>2</sub> ad eccezione dell’olio di accensione biogeno utilizzato nelle centrali termo-elettriche a blocco.
 
 - 2\.1.3 Il periodo di valutazione per i requisiti minimi generali è di tre mesi.
 - 2\.2 Requisiti energetici minimi
@@ -3641,7 +3636,7 @@ Allegato 1.5[^t-5]
 - 2\.2.2 Il periodo di valutazione per i requisiti energetici minimi è l’anno civile completo.
 - 2\.2.3 I cicli del vapore, in particolare il ciclo Rankine organico, le turbine a vapore e i motori a vapore, devono raggiungere un coefficiente di sfruttamento energetico globale minimo secondo il diagramma seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250301/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250701/it/xml/image/image4.png)
 
 - Per il calcolo del coefficiente di sfruttamento globale si utilizza il potere calorifico inferiore H<sub>u</sub> del combustibile impiegato.
 - Calcolo del coefficiente di sfruttamento elettrico = la produzione di energia elettrica divisa per la quantità di energia immessa nell’impianto a combustione.
@@ -3653,7 +3648,7 @@ Allegato 1.5[^t-5]
   - a. rendimento elettrico:
   - il modulo di cogenerazione deve raggiungere un rendimento elettrico minimo conformemente al seguente diagramma:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250301/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250701/it/xml/image/image5.png)
 
 - b.
 
@@ -3664,10 +3659,10 @@ Allegato 1.5[^t-5]
 
 - 2\.3 Requisiti ecologici minimi
 - 2\.3.1 Il periodo di valutazione per i requisiti ecologici minimi è di tre mesi.
-- 2\.3.2 I biocarburanti devono soddisfare i requisiti che autorizzerebbero a beneficiare di un’agevolazione fiscale per i biocarburanti secondo l’articolo 12*b* della legge federale del 21 giugno 1996[^annex15-lvlu1-lvl2-1] sull’imposizione degli oli minerali (LIOm)
-- 2\.3.3 Se un biocarburante viene prodotto e impiegato direttamente in loco per la produzione di elettricità, al momento della messa in esercizio dell’impianto occorre un’autorizzazione da parte della Direzione generale delle dogane come azienda di produzione con diritto a un’agevolazione fiscale.
-- 2\.3.4 Se vengono impiegati biocarburanti per l’esercizio di un impianto di produzione di elettricità, al momento dell’assunzione della materia occorre per ciascun carburante da impiegare un numero di prova della Direzione generale delle dogane.
-- 2\.3.5 Se viene acquisito gas biogeno dalla rete di distribuzione del gas naturale, i requisiti ecologici minimi sono considerati soddisfatti se il fornitore prova che la quantità di gas acquisita proviene dalla rete di distribuzione del gas naturale e che è stata interamente cancellata come gas biogeno dal servizio di clearing istituito nel settore pertinente.
+- 2\.3.2 I carburanti rinnovabili devono soddisfare i requisiti che autorizzerebbero a beneficiare di un’agevolazione fiscale per i carburanti rinnovabili secondo l’articolo 12*b* della legge federale del 21 giugno 1996[^annex15-lvlu1-lvl2-1] sull’imposizione degli oli minerali (LIOm).
+- 2\.3.3 Se un carburante rinnovabile viene prodotto e impiegato direttamente in loco per la produzione di elettricità, al momento della messa in esercizio dell’impianto occorre un’autorizzazione da parte dell’Ufficio federale della dogana e della sicurezza dei confini come azienda di produzione con diritto a un’agevolazione fiscale.
+- 2\.3.4 Se vengono impiegati carburanti rinnovabili per l’esercizio di un impianto di produzione di elettricità, al momento dell’assunzione della materia occorre per ciascun carburante da impiegare un numero di prova dell’Ufficio federale della dogana e della sicurezza dei confini.
+- 2\.3.5 Se viene acquisito gas biogeno dalla rete di distribuzione del gas naturale, i requisiti ecologici minimi sono considerati soddisfatti se il fornitore attesta mediante garanzie di origine che la quantità di gas acquisita proviene dalla rete di distribuzione del gas naturale.
 
 [^annex15-lvlu1-lvl2-1]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
 
@@ -3814,7 +3809,7 @@ Allegato 2.1[^t-6]
 
 ## Rimunerazione unica per gli impianti fotovoltaici
 
-[^t-6]: Aggiornato dalla cifra II delle O del 27 feb. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), del 25 nov. 2020 ([RU 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)), del 24 nov. 2021 ([RU 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)), dalla cifra II cpv. 1 dell’O del 23 nov. 2022 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)), dalla cifra II delle O del 17 mar. 2023 ([RU 2023 144](https://fedlex.data.admin.ch/eli/oc/2023/144)), del 29 nov. 2023 ([RU 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)), dalla cifra II cpv. 1 dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)) e dalla correzione del 23 gen. 2025 ([RU 2025 57](https://fedlex.data.admin.ch/eli/oc/2025/57)).
+[^t-6]: Aggiornato dalla cifra II delle O del 27 feb. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), del 25 nov. 2020 ([RU 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)), del 24 nov. 2021 ([RU 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)), dalla cifra II cpv. 1 dell’O del 23 nov. 2022 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)), dalla cifra II delle O del 17 mar. 2023 ([RU 2023 144](https://fedlex.data.admin.ch/eli/oc/2023/144)), del 29 nov. 2023 ([RU 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)), dalla cifra II cpv. 1 dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)), dalla correzione del 23 gen. 2025 ([RU 2025 57](https://fedlex.data.admin.ch/eli/oc/2025/57)) e dalla cifra II dell’O del 21 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 383](https://fedlex.data.admin.ch/eli/oc/2025/383)).
 
 ### 1 Definizione degli impianti
 
@@ -3943,7 +3938,7 @@ Allegato 2.1[^t-6]
   - b. verbale di collaudo con descrizione dettagliata o rapporto di sicurezza conformemente all’articolo 37 OIBT inclusi verbali di misurazione e di verifica;
   - c. eventuali modifiche rispetto alle indicazioni fornite nella domanda;
   - d. certificazione dei dati dell’impianto secondo l’articolo 2 capoverso 2 OGOE[^annex21-lvlu1-lvl4-1];
-  - e. per gli impianti integrati che sono stati messi in esercizio entro il 31 dicembre 2012: fotografie che mostrano il generatore solare durante la costruzione e dopo il completamento e dalle quali si può evincere che si tratta di un impianto integrato ai sensi dell’articolo 6;
+  - e. per gli impianti integrati messi in esercizio entro il 31 dicembre 2012 o a partire dal 1° aprile 2025: fotografie che mostrano il generatore solare durante la costruzione e dopo il completamento e dalle quali si può evincere che si tratta di un impianto integrato ai sensi dell’articolo 6;
   - f. per gli impianti per i quali viene chiesto il bonus per area di parcheggio: fotografie che mostrano che si tratta di un impianto su un’area all’aperto adibita permanentemente al parcheggio.
 
 [^annex21-lvlu1-lvl4-1]: [RS 730.010.1](https://fedlex.data.admin.ch/eli/cc/2017/764)
@@ -4370,15 +4365,13 @@ Allegato 2.4[^t-9]
 <tr><td>III</td><td>1650</td></tr>
 </table>
 
-- [tab]
-
 Allegato 2.5[^t-10]
 
 (art. 87*r e* 87*t*)
 
 ## Contributi d’investimento per la prospezione e lo sfruttamento di serbatoi geotermici
 
-[^t-10]: Introdotto dalla cifra II cpv. 3 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^t-10]: Introdotto dalla cifra II cpv. 3 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)). Aggiornato dalla cifra II dell’O del 21 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 383](https://fedlex.data.admin.ch/eli/oc/2025/383)).
 
 ### 1 Definizioni
 
@@ -4535,7 +4528,12 @@ Allegato 2.5[^t-10]
   - a. da swisstopo nel quadro degli obiettivi della legge del 5 ottobre 2007[^annex25-lvlu1-lvl5-1] sulla geoinformazione e dell’ordinanza del 21 maggio 2008[^annex25-lvlu1-lvl5-2] sulla geologia nazionale;
   - b. dai Cantoni di ubicazione secondo le rispettive regolamentazioni cantonali.
 
-- 5\.3 swisstopo mette a disposizione del pubblico i geodati primari e i geodati primari processati al più tardi entro 24 mesi dalla fine della prospezione ed entro 12 mesi dalla fine dello sfruttamento.
+- 5\.3
+
+  swisstopo mette a disposizione del pubblico i geodati primari e i geodati primari processati scaduti i termini elencati qui di seguito, che decorrono a partire dal rilevamento:
+
+  - a. per la prospezione: 24 mesi;
+  - b. per lo sfruttamento: 12 mesi.
 
 [^annex25-lvlu1-lvl5-1]: [RS 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
 [^annex25-lvlu1-lvl5-2]: [RS 510.624](https://fedlex.data.admin.ch/eli/cc/2008/391)
@@ -4684,7 +4682,7 @@ Allegato 5[^t-14]
 
 ## Contributi alle spese d’esercizio per gli impianti a biomassa
 
-[^t-14]: Introdotto dalla cifra II cpv. 3 dell’O del 23 nov. 2022 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)). Aggiornato dalla cifra II cpv. 1 dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+[^t-14]: Introdotto dalla cifra II cpv. 3 dell’O del 23 nov. 2022 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)). Aggiornato dalla cifra II cpv. 1 dell’O del 20 nov. 2024 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)) e dalla cifra II dell’O del 21 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 383](https://fedlex.data.admin.ch/eli/oc/2025/383))..
 
 ### 1 Definizione degli impianti
 
@@ -4779,7 +4777,7 @@ Allegato 5[^t-14]
 
   Il bonus per lo sfruttamento di calore da impianti di produzione di biogas viene accordato se nel corso di un anno civile:
 
-  - a. per gli impianti che soddisfano i requisiti per il bonus di cui al numero 3.4: almeno il 25 per cento del calore netto viene sfruttato esternamente;
+  - a. per gli impianti che soddisfano i requisiti per il bonus di cui al nume-ro 3.4 o 3.5: almeno il 25 per cento del calore netto viene sfruttato ester-namente;
   - b. per tutti gli altri impianti: almeno il 30 per cento del calore netto viene sfruttato esternamente.
 
 - 3\.6.2 Il bonus per lo sfruttamento del calore è cumulabile con i bonus per biomassa agricola di cui ai numeri 3.4 e 3.5.
@@ -5289,185 +5287,3 @@ Allegato 6.3[^t-17]
   - g. produzione lorda di elettricità e calore in kWh per anno civile prima e dopo l’investimento;
   - h. produzione netta di elettricità e calore nonché calore sfruttato esternamente per anno civile prima e dopo l’investimento;
   - i. data di messa in esercizio prevista.
-
-Indice
-
-Capitolo 1: Disposizioni generali
-
-Capitolo 2: Sistema di rimunerazione per l’immissione di elettricità
-
-Sezione 1: Disposizioni generali
-
-Sezione 2: Commercializzazione diretta e immissione in rete al prezzo di mercato di riferimento
-
-Sezione 3: Ordine di presa in considerazione e lista d’attesa
-
-Sezione 4: Procedura di domanda
-
-Sezione 5: Esercizio in corso, esclusione e uscita
-
-Capitolo 2*a*: Premio di mercato fluttuante
-
-Sezione 1: Disposizioni generali
-
-Sezione 2: Premio di mercato fluttuante per gli impianti idroelettrici
-
-Sezione 3: Premio di mercato fluttuante per gli impianti fotovoltaici
-
-Sezione 4: Premio di mercato fluttuante per gli impianti eolici
-
-Sezione 5: Premio di mercato fluttuante per gli impianti a biomassa
-
-Capitolo 3: Disposizioni generali sui contributi di progettazione, sulla rimunerazione unica e sui contributi d’investimento
-
-Capitolo 3*a*: Contributi di progettazione
-
-Sezione 1: Disposizioni generali
-
-Sezione 2: Ordine di presa in considerazione e lista d’attesa
-
-Sezione 3: Procedura di domanda
-
-Sezione 4: Costi di progettazione computabili
-
-Art. 35*m*
-
-Capitolo 4: Rimunerazione unica per impianti fotovoltaici
-
-Sezione 1: Disposizioni generali
-
-Sezione 2: Ordine di presa in considerazione e lista d’attesa
-
-Sezione 3: Procedura di domanda per gli impianti fotovoltaici di piccole dimensioni
-
-Sezione 4: Procedura di domanda per gli impianti fotovoltaici di grandi dimensioni
-
-Sezione 5**: Aste per la rimunerazione unica**
-
-*Abrogato* Art. 46*b*
-
-Sezione 6: Procedura di domanda per gli impianti di cui all’articolo 71*a* LEne
-
-Sezione 7: Criteri di calcolo
-
-Capitolo 5**: Contributo d’investimento per gli impianti idroelettrici**
-
-Sezione 1**: Disposizioni generali**
-
-Sezione 2: Ordine di presa in considerazione degli impianti idroelettrici con una potenza massima di 10 MW e lista d’attesa
-
-Sezione 3: Ordine di presa in considerazione degli impianti idroelettrici con una potenza superiore ai 10 MW
-
-Sezione 4: Procedura di domanda
-
-Sezione 5: Criteri di calcolo
-
-Capitolo 6: Contributi d’investimento per gli impianti a biomassa
-
-Sezione 1: Requisiti per il diritto
-
-*Abrogato* Art. 67
-
-Sezione 2: Contributo d’investimento
-
-Sezione 3: Ordine di presa in considerazione e lista d’attesa
-
-Sezione 4: Procedura di domanda per gli IIR nonché per i forni per l’incenerimento di fanghi e gli impianti a gas di discarica
-
-Sezione 4*a*: Procedura di domanda per gli impianti di produzione di biogas, le centrali elettriche a legna e gli impianti a gas di depurazione
-
-Sezione 5: Criteri di calcolo per gli IIR nonché per i forni per l’incenerimento di fanghi e gli impianti a gas di discarica
-
-Sezione 5*a*: Criteri di calcolo per gli impianti di produzione di biogas, le centrali elettriche a legna e gli impianti a gas di depurazione
-
-*Abrogato* Art. 86
-
-*Abrogato* Art. 87
-
-Capitolo 6*a*: Contributo d’investimento per gli impianti eolici
-
-Sezione 1: Aliquota
-
-Art. 87*a*
-
-Sezione 2: Ordine di presa in considerazione e lista d’attesa
-
-Sezione 3: Procedura di domanda
-
-Sezione 4: Calcolo del contributo d’investimento
-
-Capitolo 6*b*: Contributi d’investimento per la prospezione e lo sfruttamento di serbatoi geotermici e per nuovi impianti geotermici
-
-Sezione 1: Requisiti per il diritto e aliquote
-
-Sezione 2: Ordine di presa in considerazione e lista d’attesa
-
-Sezione 3: Procedura di domanda
-
-Sezione 4: Criteri di calcolo
-
-Capitolo 7: Premio di mercato per l’elettricità proveniente dagli impianti idroelettrici di grandi dimensioni
-
-Sezione 1: Disposizioni generali
-
-Sezione 2: Premio di mercato e servizio universale
-
-Sezione 3: Procedura di domanda e restituzione
-
-Capitolo 7*a*: Contributi alle spese d’esercizio per gli impianti a biomassa
-
-Sezione 1: Motivo di esclusione e importi del contributo
-
-Sezione 2: Ordine di presa in considerazione e lista d’attesa
-
-Sezione 3: Procedura di domanda
-
-Sezione 4: Esercizio in corso, esclusione e rinuncia
-
-Capitolo 8: Valutazione, pubblicazione, informazioni, trasmissione di dati all’Ufficio federale della dogana e della sicurezza dei confini (UDSC), controllo e provvedimenti
-
-Capitolo 9: Disposizioni finali
-
-*Abrogato* Art. 108
-
-Allegati
-
-Allegato 1.1 Impianti idroelettrici nel sistema di rimunerazione per l’immissione di elettricità
-
-Allegato 1.2 Impianti fotovoltaici nel sistema di rimunerazione per l’immissione di elettricità
-
-Allegato 1.3 Impianti a energia eolica nel sistema di rimunerazione per l’immissione di elettricità
-
-Allegato 1.4 Impianti geotermici nel sistema di rimunerazione per l’immissione di elettricità
-
-Allegato 1.5 Impianti a biomassa nel sistema di rimunerazione per l’immissione di elettricità
-
-Allegato 2.1 Rimunerazione unica per gli impianti fotovoltaici
-
-Allegato 2.2 Contributi di progettazione e contributi d’investimento per gli impianti idroelettrici
-
-Allegato 2.3 Contributi d’investimento per gli impianti a biomassa
-
-Allegato 2.4 Contributi di progettazione e contributi d’investimento per gli impianti eolici
-
-Allegato 2.5 Contributi d’investimento per la prospezione e lo sfruttamento di serbatoi geotermici
-
-Allegato 2.6 Contributi di progettazione e contributi d’investimento per gli impianti geotermici
-
-Allegato 3 Determinazione del costo medio ponderato del capitale
-
-Allegato 4 Calcolo dei costi scoperti
-
-Allegato 5 Contributi alle spese d’esercizio per gli impianti a biomassa
-
-Allegato 6.1
-
-Premio di mercato fluttuante per gli impianti idroelettrici
-
-Allegato 6.2
-
-Premio di mercato fluttuante per gli impianti eolici
-
-Allegato 6.3
-
-Premio di mercato fluttuante per gli impianti a biomassa

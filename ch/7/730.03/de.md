@@ -4,11 +4,11 @@ title: "Verordnung vom 1. November 2017 über die Förderung der Produktion von 
 short: EnFV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/766"
 language: de
-version: 2025-03-01
+version: 2025-07-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250301/de/xml/fedlex-data-admin-ch-eli-cc-2017-766-20250301-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20250301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2017-766-20250701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20250301/de"
 
 (Energieförderungsverordnung, EnFV)
 
-vom 1. November 2017 (Stand am 1. März 2025)
+vom 1. November 2017 (Stand am 1. Juli 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -253,7 +253,7 @@ Am Einspeisevergütungssystem können nur grosse Photovoltaikanlagen teilnehmen.
 
 <sup>4</sup> Die Einspeiseprämie reduziert sich bei Betreibern, die nach den Artikeln 10–13 des Mehrwertsteuergesetzes vom 12. Juni 2009[^16-1] (MWSTG) steuerpflichtig sind, um den Faktor, der gestützt auf den jeweils gültigen Normalsatzes nach Artikel 25 Absatz 1 MWSTG, gerundet auf vier Nachkommastellen, wie folgt berechnet wird:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250301/de/xml/image/image1.png).[^16-2]
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250701/de/xml/image/image1.png).[^16-2]
 
 [^16-1]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
 [^16-2]: Eingefügt durch Ziff. I der V vom 27. Febr. 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)). Fassung gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
@@ -1109,9 +1109,9 @@ Die Vollzugsstelle widerruft die Zusicherung nach Artikel 30*e*<sup>novies</sup>
 
 **Bewilligung des früheren Baubeginns**[^32-1]
 
-Das BFE kann den früheren Baubeginn bei Wasserkraft-, Biomasse- und Geothermieanlagen bewilligen, wenn es mit schwerwiegenden Nachteilen verbunden wäre, die Zusicherung dem Grundsatz nach abzuwarten. Die Bewilligung gibt keinen Anspruch auf einen Investitionsbeitrag.
+Die zuständige Behörde kann den früheren Baubeginn bei Wasserkraft-, Biomasse- und Geothermieanlagen bewilligen, wenn es mit schwerwiegenden Nachteilen verbunden wäre, die Zusicherung dem Grundsatz nach abzuwarten. Die Bewilligung gibt keinen Anspruch auf einen Investitionsbeitrag.
 
-[^32-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^32-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 383](https://fedlex.data.admin.ch/eli/oc/2025/383)).
 
 #### Art. 33
 
@@ -1778,8 +1778,8 @@ Ob die Erweiterung oder die Erneuerung einer Wasserkraftanlage erheblich ist, be
 
 In den folgenden Fällen beträgt der Investitionsbeitrag 60 Prozent der anrechenbaren Investitionskosten:
 
-- a. für Neuanlagen und erhebliche Erweiterungen die unter ein Erheblichkeitskriterium gemäss Artikel 47 Absatz 1 Buchstaben a–c und e fallen, sofern mindestens 50 Prozent der zusätzlichen Produktion im Winterhalbjahr anfallen und diese Winterproduktion mindestens 5 GWh beträgt;
-- b. für erhebliche Erweiterungen, die unter das Erheblichkeitskriterium von Artikel 47 Absatz 1 Buchstabe d fallen.
+- a. für Neuanlagen und erhebliche Erweiterungen, die unter ein Erheblichkeitskriterium gemäss Artikel 30*b*<sup>bis</sup> Absatz 1 Buchstaben a–c und e fallen, sofern mindestens 50 Prozent der zusätzlichen Produktion im Winterhalbjahr anfallen und diese Winterproduktion mindestens 5 GWh beträgt;
+- b. für erhebliche Erweiterungen, die unter das Erheblichkeitskriterium von Artikel 30*b*<sup>bis</sup> Absatz 1 Buchstabe d fallen.[^48-2]
 
 <sup>3</sup>
 
@@ -1795,6 +1795,7 @@ Für erhebliche Erneuerungen beträgt der Investitionsbeitrag:
 <sup>6</sup> Bei Grenzwasserkraftanlagen wird der berechnete Investitionsbeitrag um den nicht-schweizerischen Hoheitsanteil gekürzt.
 
 [^48-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^48-2]: Fassung gemäss Ziff. I der V vom 21. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 383](https://fedlex.data.admin.ch/eli/oc/2025/383)).
 
 ### 2. Abschnitt: Reihenfolge der Berücksichtigung von Wasserkraftanlagen mit einer Leistung von höchstens 10 MW und Warteliste
 
@@ -2401,15 +2402,9 @@ Sind die Anspruchsvoraussetzungen voraussichtlich erfüllt und stehen genügend 
 
 #### Art. 87h
 
-**Erstrecken der Inbetriebnahmefrist[^87h-1]**
+[^87h-1]
 
-Die Vollzugsstelle kann die Frist für die Inbetriebnahme auf Gesuch des Antragstellers erstrecken, wenn:[^87h-2]
-
-- a. die Frist aus Gründen, für die der Antragsteller nicht einzustehen hat, nicht eingehalten werden kann; und
-- b. das Gesuch vor Ablauf der Frist eingereicht wird.
-
-[^87h-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
-[^87h-2]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+[^87h-1]: Aufgehoben durch Ziff. I der V vom 21. Mai 2025, mit Wirkung seit 1. Juli 2025 ([AS 2025 383](https://fedlex.data.admin.ch/eli/oc/2025/383)).
 
 #### Art. 87i
 
@@ -3168,7 +3163,7 @@ Anhang 1.1[^t-1]
 - 2\.4.1 Beträgt der Anteil des nach dem Stand der Technik realisierten Wasserbaus, einschliesslich der Druckleitungen, weniger als 20 Prozent der gesamten Investitionskosten des Projekts, so entfällt der Anspruch auf den Wasserbau-Bonus. Beträgt er mehr als 50 Prozent, so besteht Anspruch auf den vollen Bonus. Zwischen 20 Prozent und 50 Prozent wird er gemäss der unten stehenden Grafik linear interpoliert. Massnahmen nach Artikel 83*a* GSchG[^annex11-lvlu1-lvl2-1] oder nach Artikel 10 BGF[^annex11-lvlu1-lvl2-2] sind für den Bonus nicht anrechenbar.
 - 2\.4.2 Dotierkraftwerke haben keinen Anspruch auf den Wasserbau-Bonus. Nebennutzungsanlagen mit einer Leistung von mehr als 100 kW haben nur bis zur äquivalenten Leistung von 100 kW Anspruch auf den Wasserbau-Bonus.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250301/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250701/de/xml/image/image2.png)
 
 - 2\.4.3 Der Satz für den Wasserbau-Bonus beträgt ab 1. Januar 2013 je Leistungsklasse:
 
@@ -3514,7 +3509,7 @@ Anhang 1.4[^t-4]
 
 - 3\.1 Geothermieanlagen müssen spätestens ab Beginn des dritten vollen Kalenderjahres nach der Inbetriebnahme einen minimalen Gesamtnutzungsgrad respektive Elektrizitätsnutzungsgrad gemäss folgendem Diagramm aufweisen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250301/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250701/de/xml/image/image3.png)
 
 - 3\.2 Die für die Bestimmung des Gesamtnutzungsgrads relevante Beurteilungsperiode ist das ganze Kalenderjahr; der Gesamtnutzungsgrad bezieht sich auf die jährliche Energie am Bohrlochkopf mit:
 - Nutzungsgrad Wärme = genutzte Wärme dividiert durch Energie am Bohrlochkopf
@@ -3601,7 +3596,7 @@ Anhang 1.5[^t-5]
 
 ## Biomasseanlagen im Einspeisevergütungssystem
 
-[^t-5]: Bereinigt gemäss Ziff. II der V vom 23. Okt. 2019 ([AS 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)) und Ziff. II Abs. 1 der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+[^t-5]: Bereinigt gemäss Ziff. II der V vom 23. Okt. 2019 ([AS 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)), Ziff. II Abs. 1 der V vom 20. Nov. 2024 ([AS 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)) und Ziff. II der V vom 21. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 383](https://fedlex.data.admin.ch/eli/oc/2025/383)).
 
 ### 1 Anlagendefinition
 
@@ -3630,7 +3625,7 @@ Anhang 1.5[^t-5]
   - e. Textilien;
   - f. Deponiegas;
   - g. Klärgas, Rohschlamm aus ARA;
-  - h. biogene Treib- und Brennstoffe, für die bereits der ökologische Mehrwert mit Bescheinigungen nach der CO<sub>2</sub>-Gesetzgebung abgegolten wurde, mit Ausnahme von in Blockheizkraftwerken verwendetem biogenem Zündöl.
+  - h. erneuerbare Treib- und Brennstoffe, für die bereits der ökologische Mehrwert mit Bescheinigungen nach der CO<sub>2</sub>-Gesetzgebung abgegolten wurde, mit Ausnahme von in Blockheizkraftwerken verwendetem biogenem Zündöl.
 
 - 2\.1.3 Die Beurteilungsperiode für die allgemeinen Anforderungen beträgt drei Monate.
 - 2\.2 Energetische Mindestanforderungen
@@ -3638,7 +3633,7 @@ Anhang 1.5[^t-5]
 - 2\.2.2 Die Beurteilungsperiode für die energetischen Mindestanforderungen ist das ganze Kalenderjahr.
 - 2\.2.3 Dampfprozesse, insbesondere Organic-Rankine-Cycle, Dampfturbinen und Dampfmotoren müssen einen minimalen Gesamtenergienutzungsgrad gemäss folgendem Diagramm erreichen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250301/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250701/de/xml/image/image4.png)
 
 - Für die Berechnung des Gesamtnutzungsgrades wird der untere Heizwert H<sub>u</sub> des eingesetzten Brennstoffs verwendet.
 - Berechnung:
@@ -3651,7 +3646,7 @@ Anhang 1.5[^t-5]
   - a. elektrischer Wirkungsgrad:
   - Das WKK-Modul muss einen minimalen elektrischen Wirkungsgrad gemäss folgendem Diagramm erreichen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250301/de/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250701/de/xml/image/image5.png)
 
 - b.
 
@@ -3662,10 +3657,10 @@ Anhang 1.5[^t-5]
 
 - 2\.3 Ökologische Mindestanforderungen
 - 2\.3.1 Die Beurteilungsperiode für die ökologischen Mindestanforderungen beträgt drei Monate.
-- 2\.3.2 Biogene Treibstoffe haben die Anforderungen zu erfüllen, die zu einer Steuererleichterung für biogene Treibstoffe gemäss Artikel 12*b* des Mineralölsteuergesetzes vom 21. Juni 1996[^annex15-lvlu1-lvl2-1] berechtigen würden.
-- 2\.3.3 Wird ein biogener Treibstoff hergestellt und direkt vor Ort zur Elektrizitätsproduktion eingesetzt, so muss bei der Inbetriebnahme der Anlage eine Bewilligung als Produktionsbetrieb mit Anrecht auf Steuererleichterung von der Oberzolldirektion vorliegen.
-- 2\.3.4 Werden biogene Treibstoffe für den Antrieb einer Elektrizitätsproduktionsanlage eingesetzt, so muss im Zeitpunkt der Treibstoffannahme für jeden einzusetzenden Treibstoff eine Nachweisnummer der Oberzolldirektion vorliegen.
-- 2\.3.5 Wird biogenes Gas aus dem Erdgasnetz bezogen, so gelten die ökologischen Mindestanforderungen als erfüllt, wenn der Gaslieferant nachweist, dass die bezogene Gasmenge aus dem Erdgasnetz entnommen und vollumfänglich als Biogas aus der von der Gasbranche eingesetzten Clearingstelle ausgebucht worden ist.
+- 2\.3.2 Erneuerbare Treibstoffe haben die Anforderungen zu erfüllen, die zu einer Steuererleichterung für erneuerbare Treibstoffe gemäss Artikel 12*b* des Mineralölsteuergesetzes vom 21. Juni 1996[^annex15-lvlu1-lvl2-1] berechtigen würden.
+- 2\.3.3 Wird ein erneuerbarer Treibstoff hergestellt und direkt vor Ort zur Elektrizitätsproduktion eingesetzt, so muss bei der Inbetriebnahme der Anlage eine Bewilligung als Produktionsbetrieb mit Anrecht auf Steuererleichterung vom Bundesamt für Zoll und Grenzsicherheit vorliegen.
+- 2\.3.4 Werden erneuerbare Treibstoffe für den Antrieb einer Elektrizitätsproduktionsanlage eingesetzt, so muss im Zeitpunkt der Treibstoffannahme für jeden einzusetzenden Treibstoff eine Nachweisnummer des Bundesamts für Zoll und Grenzsicherheit vorliegen.
+- 2\.3.5 Wird biogenes Gas aus dem Erdgasnetz bezogen, so gelten die ökologischen Mindestanforderungen als erfüllt, wenn der Gaslieferant mittels Herkunftsnachweisen belegt, dass die bezogene Gasmenge aus dem Erdgasnetz entnommen wurde.
 
 [^annex15-lvlu1-lvl2-1]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
 
@@ -3812,7 +3807,7 @@ Anhang 2.1[^t-6]
 
 ## Einmalvergütung für Photovoltaikanlagen
 
-[^t-6]: Bereinigt gemäss Ziff. II der V vom 27. Febr. 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), vom 25. Nov. 2020 ([AS 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)), vom 24. Nov. 2021 ([AS 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)), Ziff. II Abs. 1 der V vom 23. Nov. 2022 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)), Ziff. II der V vom 17. März 2023 ([AS 2023 144](https://fedlex.data.admin.ch/eli/oc/2023/144)), vom 29. Nov. 2023 ([AS 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)) und Ziff. II Abs. 1 der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)). Berichtigung vom 23. Jan. 2025 ([AS 2025 57](https://fedlex.data.admin.ch/eli/oc/2025/57)).
+[^t-6]: Bereinigt gemäss Ziff. II der V vom 27. Febr. 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), vom 25. Nov. 2020 ([AS 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)), vom 24. Nov. 2021 ([AS 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)), Ziff. II Abs. 1 der V vom 23. Nov. 2022 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)), Ziff. II der V vom 17. März 2023 ([AS 2023 144](https://fedlex.data.admin.ch/eli/oc/2023/144)), vom 29. Nov. 2023 ([AS 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)), Ziff. II Abs. 1 der V vom 20. Nov. 2024 ([AS 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)), der Berichtigung vom 23. Jan. 2025 ([AS 2025 57](https://fedlex.data.admin.ch/eli/oc/2025/57)) und Ziff. II der V vom 21. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 383](https://fedlex.data.admin.ch/eli/oc/2025/383)).
 
 ### 1 Anlagendefinition
 
@@ -3941,7 +3936,7 @@ Anhang 2.1[^t-6]
   - b. Abnahmeprotokoll mit detaillierter Beschreibung oder Sicherheitsnachweis nach Artikel 37 NIV inklusive Mess- und Prüfprotokolle;
   - c. allfällige Änderungen gegenüber den im Gesuch gemachten Angaben;
   - d. Beglaubigung der Anlagedaten gemäss Artikel 2 Absatz 2 HKSV;
-  - e. für integrierte Anlagen, die bis zum 31. Dezember 2012 in Betrieb genommen wurden: Fotos, die den Solarstromgenerator während des Baus und nach der Fertigstellung zeigen und aus denen ersichtlich wird, dass eine integrierte Anlage nach Artikel 6 vorliegt;
+  - e. für integrierte Anlagen, die bis zum 31. Dezember 2012 oder ab dem 1. April 2025 in Betrieb genommen wurden: Fotos, die den Solarstromgenerator während des Baus und nach der Fertigstellung zeigen und aus denen ersichtlich wird, dass eine integrierte Anlage nach Artikel 6 vorliegt;
   - f. für Anlagen, für die der Parkflächenbonus beantragt wird: Fotos, aus denen ersichtlich wird, dass es sich um eine Anlage über einem dauerhaften, bisher unüberdachten Parkplatzareal handelt.
 
 ### 5 Gesuch und Inbetriebnahmemeldung für Anlagen nach Artikel 71*a* EnG
@@ -4366,15 +4361,13 @@ Anhang 2.4[^t-9]
 <tr><td>III</td><td>1650</td></tr>
 </table>
 
-- [tab]
-
 Anhang 2.5[^t-10]
 
 (Art. 87*r* und 87*t*)
 
 ## Investitionsbeiträge für die Prospektion und die Erschliessung eines Geothermiereservoirs
 
-[^t-10]: Eingefügt durch Ziff. II Abs. 3 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^t-10]: Eingefügt durch Ziff. II Abs. 3 der V vom 23. Nov. 2022 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)). Bereinigt gemäss Ziff. II der V vom 21. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 383](https://fedlex.data.admin.ch/eli/oc/2025/383)).
 
 ### 1 Definitionen
 
@@ -4531,7 +4524,12 @@ Anhang 2.5[^t-10]
   - a. vom swisstopo gemäss den Zielsetzungen des Geoinformationsgesetzes vom 5. Oktober 2007[^annex25-lvlu1-lvl5-1] und der Landesgeologieverordnung vom 21. Mai 2008[^annex25-lvlu1-lvl5-2];
   - b. von den Standortkantonen gemäss den jeweiligen kantonalen Regelungen.
 
-- 5\.3 swisstopo stellt die primären und die prozessierten primären Geodaten innert 24 Monaten nach Abschluss der Prospektion und innert 12 Monaten nach Abschluss der Erschliessung der Öffentlichkeit zur Verfügung.
+- 5\.3
+
+  Das swisstopo stellt die primären und die prozessierten primären Geodaten nach Ablauf der nachfolgend aufgeführten Fristen ab der Erhebung der Öffentlichkeit zur Verfügung:
+
+  - a. bei Prospektion: 24 Monate;
+  - b. bei Erschliessung: 12 Monate.
 
 [^annex25-lvlu1-lvl5-1]: [SR 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
 [^annex25-lvlu1-lvl5-2]: [SR 510.624](https://fedlex.data.admin.ch/eli/cc/2008/391)
@@ -4582,7 +4580,6 @@ Anhang 2.6[^t-11]
   - g. Projektbeschrieb, der aufzeigt, dass sämtliche Voraussetzungen für die Ausrichtung eines Investitionsbeitrags erfüllt werden;
   - h. detaillierte Terminpläne und Kostenschätzungen mit Abweichungen von höchstens 20 Prozent;
   - i. Finanzierungsnachweis für die Bau-, Betriebs- und Rückbauphasen.
-  - [tab]
 
 Anhang 3[^t-12]
 
@@ -4681,7 +4678,7 @@ Anhang 5[^t-14]
 
 ## Betriebskostenbeitrag für Biomasseanlagen
 
-[^t-14]: Eingefügt durch Ziff. II Abs. 3 der V vom 23. Nov. 2022 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+[^t-14]: Eingefügt durch Ziff. II Abs. 3 der V vom 23. Nov. 2022 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 20. Nov. 2024 ([AS 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)) und Ziff. II der V vom 21. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 383](https://fedlex.data.admin.ch/eli/oc/2025/383)).
 
 ### 1 Anlagendefinition
 
@@ -4776,7 +4773,7 @@ Anhang 5[^t-14]
 
   Der Bonus für die Nutzung von Wärme aus Biogasanlagen wird gewährt, wenn während einem Kalenderjahr:
 
-  - a. bei Anlagen, die die Voraussetzungen für den Bonus nach Ziffer 3.4 erfüllen: mindestens 25 Prozent der Nettowärme extern genutzt wird;
+  - a. bei Anlagen, die die Voraussetzungen für den Bonus nach Ziffer 3.4 oder 3.5 erfüllen: mindestens 25 Prozent der Nettowärme extern genutzt wird;
   - b. bei allen anderen Anlagen: mindestens 30 Prozent der Nettowärme extern genutzt wird.
 
 - 3\.6.2 Der Bonus für Wärmenutzung ist kumulierbar mit den Boni für landwirtschaftliche Biomasse nach den Ziffern 3.4 und 3.5.
@@ -4820,7 +4817,6 @@ Anhang 5[^t-14]
   - b. allfällige Änderungen gegenüber Ziffer 5.1, sofern die Anlage bei Gesuchseinreichung noch nicht in Betrieb war;
   - c. Abnahmeprotokoll mit detaillierter Beschreibung oder Sicherheitsnachweis nach Artikel 37 NIV[^annex5-lvlu1-lvl5-1] inklusive Mess- und Prüfprotokollen;
   - d. Beglaubigung der Anlagedaten gemäss Artikel 2 Absatz 2 HKSV[^annex5-lvlu1-lvl5-2].
-  - [tab]
 
 [^annex5-lvlu1-lvl5-1]: [SR 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
 [^annex5-lvlu1-lvl5-2]: [SR 730.010.1](https://fedlex.data.admin.ch/eli/cc/2017/764)
@@ -5287,5 +5283,3 @@ Anhang 6.3[^t-17]
   - g. Brutto-Elektrizitäts- und Wärmeproduktion in kWh pro Kalenderjahr vor und nach der Investition;
   - h. Netto-Elektrizitäts- und Wärmeproduktion sowie extern genutzte Wärme pro Kalenderjahr vor und nach der Investition;
   - i. geplantes Inbetriebnahmedatum.
-  - [tab]
-  - [tab]

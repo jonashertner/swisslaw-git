@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> novembre 2017 sur l'encouragement de la pro
 short: OEneR
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/766"
 language: fr
-version: 2025-03-01
+version: 2025-07-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250301/fr/xml/fedlex-data-admin-ch-eli-cc-2017-766-20250301-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20250301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-766-20250701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20250301/fr"
 
 (OEneR)
 
-du 1<sup>er</sup> novembre 2017 (État le 1<sup>er</sup> mars 2025)
+du 1<sup>er</sup> novembre 2017 (État le 1<sup>er</sup> juillet 2025)
 
 Le Conseil fédéral suisse,
 
@@ -253,7 +253,7 @@ Seules les grandes installations photovoltaïques peuvent participer au système
 
 <sup>4</sup> La prime d’injection est réduite du facteur du taux normal en vigueur fixé à l’art. 25, al. 1, de la loi du 12 juin 2009 sur la TVA (LTVA)[^16-1], arrondi à la quatrième décimale, pour les exploitants assujettis à l’impôt en application des art. 10 à 13 LTVA; le facteur est calculé comme suit:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250301/fr/xml/image/image1.png) .[^16-2]
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250701/fr/xml/image/image1.png) .[^16-2]
 
 [^16-1]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
 [^16-2]: Introduit par le ch. I de l’O du 27 fév. 2019 ([RO 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)). Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
@@ -1109,9 +1109,9 @@ L’organe d’exécution révoque la garantie visée à l’art. 30*e*<sup>novi
 
 **Autorisation d’un début anticipé des travaux**[^32-1]
 
-L’OFEN peut autoriser un début anticipé des travaux pour les installations hydroélectriques, les installations de biomasse et les installations de géothermie lorsque l’attente de la garantie de principe impliquerait de sérieux préjudices. L’autorisation ne donne pas droit à une contribution d’investissement.
+L’autorité compétente peut autoriser un début anticipé des travaux pour les installations hydroélectriques, les installations de biomasse et les installations de géothermie lorsque l’attente de la garantie de principe impliquerait de sérieux préjudices. L’autorisation ne donne pas droit à une contribution d’investissement.
 
-[^32-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^32-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 383](https://fedlex.data.admin.ch/eli/oc/2025/383)).
 
 #### Art. 33
 
@@ -1778,8 +1778,8 @@ L’art. 30*b*<sup>bis</sup> s’applique pour déterminer si l’agrandissement
 
 La contribution d’investissement se monte à 60 % des coûts d’investissement imputables pour:
 
-- a. les nouvelles installations et les agrandissements réputés notables au sens de l’art. 47, al. 1, let. a à c, ou e, pour autant que 50 % au moins de la production supplémentaire soient générés durant le semestre d’hiver et que cette production hivernale atteigne au moins 5 GWh;
-- b. les agrandissements réputés notables au sens de l’art. 47, al. 1, let. d.
+- a. les nouvelles installations et les agrandissements réputés notables au sens de l’art. 30*b*<sup>bis</sup>, al. 1, let. a à c, ou e, pour autant que 50 % au moins de la production supplémentaire soient générés durant le semestre d’hiver et que cette production hivernale atteigne au moins 5 GWh;
+- b. les agrandissements réputés notables au sens de l’art. 30*b*<sup>bis</sup>, al. 1, let. d.[^48-2]
 
 <sup>3</sup>
 
@@ -1795,6 +1795,7 @@ Pour les rénovations notables, la contribution d’investissement s’élève �
 <sup>6</sup> Pour les installations hydroélectriques frontalières, la contribution d’investissement est réduite de la part de souveraineté non suisse.
 
 [^48-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^48-2]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 383](https://fedlex.data.admin.ch/eli/oc/2025/383)).
 
 ### Section 2 Ordre de prise en compte des installations hydroélectriques d’une puissance maximale de 10 MW et liste d’attente
 
@@ -2403,15 +2404,9 @@ Lorsque les conditions d’octroi sont vraisemblablement remplies et que des moy
 
 #### Art. 87h
 
-**Prolongation du délai de mise en service[^87h-1]**
+[^87h-1]
 
-Sur demande du requérant, l’organe d’exécution peut prolonger le délai de mise en service aux conditions suivantes:[^87h-2]
-
-- a. le requérant ne peut pas respecter le délai pour des raisons qui ne lui sont pas imputables;
-- b. la demande est déposée avant l’expiration du délai.
-
-[^87h-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
-[^87h-2]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+[^87h-1]: Abrogé par le ch. I de l’O du 21 mai 2025, avec effet au 1<sup>er</sup> juil. 2025 ([RO 2025 383](https://fedlex.data.admin.ch/eli/oc/2025/383)).
 
 #### Art. 87i
 
@@ -3168,7 +3163,7 @@ Annexe 1.1[^t-1]
 - 2\.4.1 Si la part de l’aménagement des eaux, y compris les conduites sous pression, réalisée selon l’état de la technique est inférieure à 20 % de l’ensemble des coûts d’investissement du projet, il n’existe aucun droit à un bonus d’aménagement des eaux. Si cette part est supérieure à 50 %, le droit au bonus complet est donné. Entre 20 et 50 %, le calcul repose sur une interpolation linéaire selon le graphique ci-dessous. Les mesures visées à l’art. 83*a* LEaux[^annex11-lvlu1-lvl2-1] ou visées à l’art. 10 LFSP[^annex11-lvlu1-lvl2-2] ne sont pas imputables pour le bonus.
 - 2\.4.2 Les centrales de dotation n’ont pas droit au bonus d’aménagement des eaux. Les installations d’exploitation accessoire d’une puissance supérieure à 100 kW n’ont droit au bonus d’aménagement des eaux que pour la part allant jusqu’à une puissance équivalente de 100 kW.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250301/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250701/fr/xml/image/image2.png)
 
 - 2\.4.3 Taux du bonus d’aménagement des eaux par classe de puissance à partir du 1<sup>er</sup> janvier 2013:
 
@@ -3514,7 +3509,7 @@ Annexe 1.4[^t-4]
 
 - 3\.1 Les installations géothermiques doivent présenter le taux d’utilisation global minimal et le taux d’utilisation de l’électricité minimal indiqués dans le graphique suivant au plus tard à compter du début de la troisième année civile complète suivant la mise en service:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250301/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250701/fr/xml/image/image3.png)
 
 - 3\.2 La période d’évaluation déterminante pour établir le taux d’utilisation global est l’année civile complète; le taux d’utilisation global se rapporte à l’énergie mesurée en une année à la tête de forage.
 - Taux d’utilisation de la chaleur = chaleur utilisée divisée par l’énergie à la tête de forage
@@ -3601,7 +3596,7 @@ Annexe 1.5[^t-5]
 
 ## Installations de biomasse dans le système de rétribution de l’injection
 
-[^t-5]: Mise à jour par le ch. II de l’O du 23 oct. 2019 ([RO 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)) et le ch. II al. 1 de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+[^t-5]: Mise à jour par le ch. II de l’O du 23 oct. 2019 ([RO 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)), le ch. II al. 1 de l’O du 20 nov. 2024 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)) et le ch. II de l’O du 21 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 383](https://fedlex.data.admin.ch/eli/oc/2025/383)).
 
 ### 1 Définition des installations
 
@@ -3630,7 +3625,7 @@ Annexe 1.5[^t-5]
   - e. textiles;
   - f. gaz de décharge;
   - g. gaz d’épuration, boues brutes de STEP;
-  - h. carburants et combustibles biogènes dont la plus-value écologique a déjà été rétribuée par la délivrance d’attestations au sens de la législation sur le CO<sub>2</sub>, à l’exception du carburant biogène pour l’allumage utilisé dans des centrales à énergie totale équipée.
+  - h. carburants et combustibles renouvelables dont la plus-value écologique a déjà été rétribuée par la délivrance d’attestations au sens de la législation sur le CO<sub>2</sub>, à l’exception du carburant biogène pour l’allumage utilisé dans des centrales à énergie totale équipée.
 
 - 2\.1.3 La période d’évaluation pour les exigences générales est de trois mois.
 - 2\.2 Exigences énergétiques minimales
@@ -3638,7 +3633,7 @@ Annexe 1.5[^t-5]
 - 2\.2.2 La période d’évaluation pour les exigences énergétiques minimales est l’année civile complète.
 - 2\.2.3 Les cycles vapeur, en particulier les installations ORC (*Organic Rankine Cycle*), les turbines à vapeur et les moteurs à vapeur, doivent présenter un taux d’utilisation énergétique global minimal correspondant au graphique suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250301/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250701/fr/xml/image/image4.png)
 
 - Le calcul du taux d’utilisation énergétique global se rapporte au pouvoir calorifique inférieur H<sub>u</sub> du combustible introduit.
 - Calcul:
@@ -3651,7 +3646,7 @@ Annexe 1.5[^t-5]
   - a. Taux d’efficacité électrique:
   - Le module CCF doit atteindre un taux d’efficacité électrique minimal correspondant au graphique suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250301/fr/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250701/fr/xml/image/image5.png)
 
 - b.
 
@@ -3662,10 +3657,10 @@ Annexe 1.5[^t-5]
 
 - 2\.3 Exigences écologiques minimales
 - 2\.3.1 La période d’évaluation pour les exigences écologiques minimales est de trois mois.
-- 2\.3.2 Les carburants biogènes doivent satisfaire aux exigences donnant droit à un allégement fiscal pour les biocarburants au sens de l’art. 12*b* de la loi du 21 juin 1996 sur l’imposition des huiles minérales[^annex15-lvlu1-lvl2-1].
-- 2\.3.3 En cas de production d’un carburant biogène utilisé directement sur place pour produire de l’électricité, il faut disposer, lors de la mise en service de l’installation, d’une autorisation d’établissement de fabrication avec droit à l’allégement fiscal établie par la Direction générale des douanes.
-- 2\.3.4 Si les carburants biogènes sont utilisés pour la propulsion d’une installation de production d’électricité, il faut disposer, au moment de la réception des carburants, d’un numéro de preuve de la Direction générale des douanes pour chaque carburant utilisé.
-- 2\.3.5 Lorsque du gaz biogène est prélevé sur le réseau de gaz naturel, les exigences écologiques minimales sont considérées comme remplies si le fournisseur de gaz apporte la preuve que le volume de gaz prélevé l’a été sur le réseau de gaz naturel et a été intégralement sorti du compte de l’office de clearing utilisé par l’industrie gazière en tant que biogaz.
+- 2\.3.2 Les carburants renouvelables doivent satisfaire aux exigences donnant droit à un allégement fiscal pour les carburants renouvelables au sens de l’art. 12*b* de la loi du 21 juin 1996 sur l’imposition des huiles minérales[^annex15-lvlu1-lvl2-1].
+- 2\.3.3 En cas de production d’un carburant renouvelable utilisé directement sur place pour produire de l’électricité, il faut disposer, lors de la mise en service de l’installation, d’une autorisation d’établissement de fabrication avec droit à l’allégement fiscal établie par l’Office fédéral de la douane et de la sécurité des frontières.
+- 2\.3.4 Si les carburants renouvelables sont utilisés pour la propulsion d’une installation de production d’électricité, il faut disposer, au moment de la réception des carburants, d’un numéro de preuve de l’Office fédéral de la douane et de la sécurité des frontières pour chaque carburant utilisé.
+- 2\.3.5 Lorsque du gaz biogène est prélevé sur le réseau de gaz naturel, les exigences écologiques minimales sont considérées comme remplies si le fournisseur de gaz apporte la preuve au moyen de garanties d’origine que le volume de gaz prélevé l’a été sur le réseau de gaz naturel.
 
 [^annex15-lvlu1-lvl2-1]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
 
@@ -3812,7 +3807,7 @@ Annexe 2.1[^t-6]
 
 ## Rétribution unique allouée pour les installations photovoltaïques
 
-[^t-6]: Mise à jour par le ch. II des O du 27 fév. 2019 ([RO 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), du 25 nov. 2020 ([RO 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)), du 24 nov. 2021 ([RO 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)), le ch. II al. 1 de l’O du 23 nov. 2022 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)), le ch. II des O du 17 mars 2023 ([RO 2023 144](https://fedlex.data.admin.ch/eli/oc/2023/144)), du 29 nov. 2023 ([RO 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)) et le ch. II al. 1 de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)). Erratum du 23 janv. 2025 ([RO 2025 57](https://fedlex.data.admin.ch/eli/oc/2025/57)).
+[^t-6]: Mise à jour par le ch. II des O du 27 fév. 2019 ([RO 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), du 25 nov. 2020 ([RO 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)), du 24 nov. 2021 ([RO 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)), le ch. II al. 1 de l’O du 23 nov. 2022 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)), le ch. II des O du 17 mars 2023 ([RO 2023 144](https://fedlex.data.admin.ch/eli/oc/2023/144)), du 29 nov. 2023 ([RO 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)) et le ch. II al. 1 de l’O du 20 nov. 2024 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)), l’erratum du 23 janv. 2025 ([RO 2025 57](https://fedlex.data.admin.ch/eli/oc/2025/57)) et le ch. II de l’O du 21 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 383](https://fedlex.data.admin.ch/eli/oc/2025/383)).
 
 ### 1 Définition des installations
 
@@ -3941,7 +3936,7 @@ Annexe 2.1[^t-6]
   - b. procès-verbal de reprise, comprenant un descriptif technique détaillé ou un rapport de sécurité au sens de l’art. 37 OIBT, y compris les procès-verbaux de mesure et de contrôle;
   - c. modifications éventuelles par rapport aux données figurant dans la demande;
   - d. certificat de conformité attestant les données de l’installation conformément à l’art. 2, al. 2, OGOM;
-  - e. pour les installations intégrées mises en service le 31 décembre 2012 au plus tard: des photos du générateur solaire pendant et après la construction permettant de déterminer qu’il s’agit d’une installation intégrée au sens de l’art. 6;
+  - e. pour les installations intégrées mises en service le 31 décembre 2012 au plus tard ou à partir du 1<sup>er</sup> avril 2025: des photos du générateur solaire pendant et après la construction permettant de déterminer qu’il s’agit d’une installation intégrée au sens de l’art. 6;
   - f. pour les installations faisant l’objet d’une demande de bonus pour les places de stationnement: des photos permettant de déterminer qu’il s’agit d’une installation sise sur une aire de stationnement permanente non couverte avant la mise en place de cette installation.
 
 ### 5 Demande et avis de mise en service pour les installations visées à l’art. 71*a* LEne
@@ -4372,7 +4367,7 @@ Annexe 2.5[^t-10]
 
 ## Contribution d’investissement allouée pour la prospection et pour la mise en valeur d’un réservoir géothermique
 
-[^t-10]: Introduite par le ch. II al. 3 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^t-10]: Introduite par le ch. II al. 3 de l’O du 23 nov. 2022 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)). Mise à jour par le ch. II de l’O du 21 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 383](https://fedlex.data.admin.ch/eli/oc/2025/383)).
 
 ### 1 Définitions
 
@@ -4529,7 +4524,12 @@ Annexe 2.5[^t-10]
   - a. swisstopo conformément aux objectifs de la loi du 5 octobre 2007 sur la géoinformation[^annex25-lvlu1-lvl5-1] et de l’ordonnance du 21 mai 2008 sur la géologie nationale[^annex25-lvlu1-lvl5-2];
   - b. les cantons d’implantation en vertu de leur propre réglementation.
 
-- 5\.3 swisstopo met les géodonnées primaires et les géodonnées primaires traitées à la disposition du public au plus tard 24 mois après l’achèvement de la prospection et au plus tard 12 mois après l’achèvement de la mise en valeur.
+- 5\.3
+
+  swisstopo met les géodonnées primaires et les géodonnées primaires traitées à la disposition du public après l’expiration des délais énumérés ci-après, qui commencent à courir à partir du relevé:
+
+  - a. en cas de prospection: 24 mois;
+  - b. en cas de mise en valeur: 12 mois.
 
 [^annex25-lvlu1-lvl5-1]: [RS 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
 [^annex25-lvlu1-lvl5-2]: [RS 510.624](https://fedlex.data.admin.ch/eli/cc/2008/391)
@@ -4678,7 +4678,7 @@ Annexe 5[^t-14]
 
 ## Contribution aux coûts d’exploitation allouée pour les installations de biomasse
 
-[^t-14]: Introduite par le ch. II al. 3 de l’O du 23 nov. 2022 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)). Mise à jour par le ch. II al. 1 de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+[^t-14]: Introduite par le ch. II al. 3 de l’O du 23 nov. 2022 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)). Mise à jour par le ch. II al. 1 de l’O du 20 nov. 2024 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)) et le ch. II de l’O du 21 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 383](https://fedlex.data.admin.ch/eli/oc/2025/383)).
 
 ### 1 Définition des installations
 
@@ -4773,7 +4773,7 @@ Annexe 5[^t-14]
 
   Le bonus pour l’utilisation de la chaleur des installations de biogaz est accordé si, pendant une année civile:
 
-  - a. au moins 25 % de la chaleur nette est utilisée en externe, cette règle s’appliquant aux installations remplissant les conditions du bonus visé au ch. 3.4;
+  - a. au moins 25 % de la chaleur nette est utilisée en externe, cette règle s’appliquant aux installations remplissant les conditions du bonus visé au ch. 3.4 ou 3.5;
   - b. au moins 30 % de la chaleur nette est utilisée en externe, cette règle s’appliquant à toutes les autres installations.
 
 - 3\.6.2 Le bonus pour l’utilisation de la chaleur peut être cumulé avec les bonus pour la biomasse issue de l’agriculture visés aux ch. 3.4 et 3.5.
