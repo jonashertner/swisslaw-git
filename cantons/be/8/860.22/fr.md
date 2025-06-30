@@ -4,13 +4,13 @@ number: "860.22"
 title: "Ordonnance sur les programmes de soutien à l’enfance, à la jeunesse et à la famille"
 short: OEJF
 language: fr
-version: 2025-01-01
-valid_until: 2025-06-30
-version_adopted: 2025-01-10
+version: 2025-07-01
+valid_until: 2025-12-31
+version_adopted: 2025-05-14
 adopted: 2021-11-24
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/860.22"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3130/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3178/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3130/pdf_file"
 
 (OEJF)
 
-du 24.11.2021 (état au 01.01.2025)
+du 24.11.2021 (état au 01.07.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -98,7 +98,7 @@ arrête:
 <sup>2</sup> Est considérée comme régulière au sens de l’alinéa 1 toute offre de prise en charge
 
 - a proposée pendant au minimum deux mois d’affilée par année ou au total 39 semaines par année et
-- b d’une durée de plus de trois heures par jour ou de plus de six heures par semaine, par enfant.
+- b d’une durée de plus de trois heures par jour ou de plus de neuf heures par semaine, par enfant.
 
 <sup>3</sup> Les offres de prise en charge relevant de la LEO ne sont pas soumises au régime de l’autorisation.
 
@@ -432,7 +432,7 @@ arrête:
 <sup>3</sup> L’accueil d’un enfant est considéré comme régulier au sens de l’alinéa 1 s’il
 
 - a a lieu pendant au minimum deux mois d’affilée par année ou au total 39 semaines par année et
-- b dure plus de trois heures par jour ou plus de six heures par semaine.
+- b dure plus de trois heures par jour ou plus de neuf heures par semaine.
 
 #### Art. 27b
 

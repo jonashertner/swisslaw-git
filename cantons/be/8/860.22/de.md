@@ -4,13 +4,13 @@ number: "860.22"
 title: "Verordnung über die Leistungsangebote der Familien-, Kinder- und Jugendförderung"
 short: FKJV
 language: de
-version: 2025-01-01
-valid_until: 2025-06-30
-version_adopted: 2025-01-10
+version: 2025-07-01
+valid_until: 2025-12-31
+version_adopted: 2025-05-14
 adopted: 2021-11-24
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/860.22"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3130/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3178/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3130/pdf_file"
 
 (FKJV)
 
-vom 24.11.2021 (Stand 01.01.2025)
+vom 24.11.2021 (Stand 01.07.2025)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -98,7 +98,7 @@ beschliesst:
 <sup>2</sup> Als regelmässig im Sinne von Absatz 1 gilt ein Betreuungsangebot, das
 
 - a während mindestens zwei Monaten pro Jahr am Stück oder gesamthaft 39 Wochen pro Jahr angeboten wird sowie
-- b einen Umfang pro Kind von mehr als drei Stunden pro Tag oder mehr als sechs Stunden pro Woche hat.
+- b einen Umfang pro Kind von mehr als drei Stunden pro Tag oder mehr als neun Stunden pro Woche hat.
 
 <sup>3</sup> Von der Bewilligungspflicht ausgenommen sind vom Volksschulgesetz erfasste Betreuungsangebote.
 
@@ -432,7 +432,7 @@ beschliesst:
 <sup>3</sup> Als regelmässig im Sinne von Absatz 1 gilt die Betreuung eines Kindes, die
 
 - a während mindestens zwei Monaten pro Jahr am Stück oder gesamthaft 39 Wochen pro Jahr stattfindet und
-- b einen Umfang von mehr als drei Stunden pro Tag oder mehr als sechs Stunden pro Woche hat.
+- b einen Umfang von mehr als drei Stunden pro Tag oder mehr als neun Stunden pro Woche hat.
 
 #### Art. 27b
 
