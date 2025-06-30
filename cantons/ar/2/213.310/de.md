@@ -4,13 +4,12 @@ number: "213.310"
 title: Kantonale Grundbuchverordnung
 short: kGBV
 language: de
-version: 2021-03-01
-valid_until: 2025-06-30
-version_adopted: 2021-02-23
+version: 2025-07-01
+version_adopted: 2025-06-11
 adopted: 2017-12-12
 in_force: 2018-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/213.310"
-pdf: "https://ar.clex.ch/api/de/versions/1356/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1570/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1356/pdf_file"
 
 (kGBV)
 
-vom 12.12.2017 (Stand 01.03.2021)
+vom 12.12.2017 (Stand 01.07.2025)
 
 Der Regierungsrat von Appenzell Ausserrhoden,
 
@@ -144,7 +143,7 @@ verordnet:
 
 <sup>1</sup> Das Departement Inneres und Sicherheit entscheidet, für welche Grundbuchämter der elektronische Geschäftsverkehr zugelassen ist. Es bestimmt die Zustellplattform.
 
-<sup>2</sup> Im elektronischen Geschäftsverkehr sind sämtliche für die Anmeldung erforderlichen Belege elektronisch einzureichen. Papierschuldbriefe sind unter Angabe der elektronischen Referenznummer innert zehn Tagen nachzureichen.
+<sup>2</sup> Im elektronischen Geschäftsverkehr ist die gemischte Einreichung von elektronischen Belegen und solchen in Papierform zulässig.
 
 #### Art. 10
 
@@ -244,7 +243,7 @@ verordnet:
 - c) separate Veräusserungen von kleinen Einheiten im Stockwerkeigentum wie Garagenboxen, Abstellplätze, Bastelräume etc. sowie Wertquotenänderungen bis zu einem Zehntel der bisherigen Quote;
 - d) Landabtretungen für Strassenkorrektionen ohne Gebäude;
 - e) Landumlegungen;
-- f) güter- und erbrechtliche Handänderungen.
+- f) Handänderungen zwischen Ehegatten und eingetragenen Partnern und Partnerinnen sowie zwischen Eltern und Nachkommen.
 
 <sup>2</sup> Die Veröffentlichung umfasst folgende Angaben:
 
@@ -295,10 +294,8 @@ verordnet:
 
 **Datensicherung des Papiergrundbuches**
 
-<sup>1</sup> Gemeinden, welche die Grundbuchführung mittels Informatik noch nicht eingeführt haben, sichern die aufzubewahrenden Teile des Grundbuches alle fünf Jahre auf unveränderbaren Bild- oder Datenträgern. Sie bewahren die Datenträger sicher auf.
+<sup>1–2</sup> …
 
-<sup>2</sup> Während der Einführung des informatisierten Grundbuches erfolgt die Nachführung sowohl auf Papier als auch mittels Informatik.
-
-<sup>3</sup> Die kantonalen Protokolle, die Tagebücher und die auf Papier geführten Hilfsregister werden bei den Gemeinden archiviert.
+<sup>3</sup> Unterlagen zu Grundbucheinrichtungen, die vor Einführung des informatisierten Grundbuches auf Papier geführt wurden, werden bei den Gemeinden archiviert.
 
 Lf. Nr. / Abl. 1349 / 2017, S. 1544
