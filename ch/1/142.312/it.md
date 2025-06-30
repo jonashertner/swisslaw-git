@@ -4,18 +4,18 @@ title: "Ordinanza 2 dell' 11 agosto 1999 sull'asilo relativa alle questioni fina
 short: OAsi 2
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/360"
 language: it
-version: 2024-06-26
+version: 2025-07-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20240626/it/xml/fedlex-data-admin-ch-eli-cc-1999-360-20240626-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20240626/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20250701/it/xml/fedlex-data-admin-ch-eli-cc-1999-360-20250701-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20250701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza 2 sull’asilo relativa alle questioni finanziarie (Ordinanza 2 sull’asilo, OAsi 2)
 
-dell’11 agosto 1999 (Stato 26 giugno 2024)
+dell’11 agosto 1999 (Stato 1° luglio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -35,13 +35,13 @@ La presente ordinanza disciplina la determinazione, la concessione, il conteggio
 
 [^tit2-1]
 
-[^tit2-1]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
+[^tit2-1]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
 
 ### Capitolo 1: Determinazione e concessione dell’aiuto sociale, del soccorso d’emergenza e dei sussidi federali corrispondenti
 
 [^tit2-chap1-1]
 
-[^tit2-chap1-1]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^tit2-chap1-1]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
 
 ### Sezione 1: Disposizioni generali
 
@@ -51,7 +51,7 @@ La presente ordinanza disciplina la determinazione, la concessione, il conteggio
 
 Sono prestazioni d’aiuto sociale e di soccorso d’emergenza rimborsabili giusta l’articolo 88 LAsi le prestazioni assistenziali ai sensi dell’articolo 82 LAsi e dell’articolo 3 della legge federale del 24 giugno 1977[^2-2] sull’assistenza. Sono escluse le prestazioni indennizzate conformemente all’articolo 15 dell’ordinanza del 15 agosto 2018[^2-3] sull’integrazione degli stranieri.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
 [^2-2]: [RS 851.1](https://fedlex.data.admin.ch/eli/cc/1978/221_221_221)
 [^2-3]: [RS 142.205](https://fedlex.data.admin.ch/eli/cc/2018/511)
 
@@ -69,13 +69,18 @@ Fatti salvi gli articoli 82 capoverso 4 e 83*a* LAsi, la determinazione e la con
 
 - a. persone la cui domanda è stata respinta con una decisione di non entrata nel merito passata in giudicato o con una decisione negativa passata in giudicato alle quali è stato fissato un termine di partenza;
 - b. persone oggetto di una procedura secondo l’articolo 111*b* o 111*c* LAsi;
-- c. persone la cui ammissione provvisoria è stata sospesa mediante decisione passata in giudicato.[^3-5]
+- c.[^3-5] persone la cui domanda di concessione della protezione provvisoria è stata respinta con una decisione di non entrata nel merito passata in giudicato o con una decisione negativa passata in giudicato alle quali è stato fissato un termine di partenza;
+- d.[^3-6] persone la cui protezione provvisoria è stata revocata con una decisione passata in giudicato e alle quali è stato fissato un termine di partenza;
+- e.[^3-7] persone la cui ammissione provvisoria è stata soppressa con decisione passata in giudicato e alle quali è stato fissato un termine di partenza.[^3-8]
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
-[^3-2]: Nuovo testo giusta il n. I dell’O del 13 dic. 2013, in vigore dal 1° feb. 2014 ([RU 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)).
-[^3-3]: Nuovo testo del per. giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
-[^3-4]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
-[^3-5]: Nuovo testo giusta il n. I dell’O del 13 dic. 2013, in vigore dal 1° feb. 2014 ([RU 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
+[^3-2]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2013, in vigore dal 1° feb. 2014 ([RU 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)).
+[^3-3]: Nuovo testo del per. giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^3-4]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^3-5]: Nuovo testo giusta la cifra I dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
+[^3-6]: Introdotta dalla cifra I dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
+[^3-7]: Introdotta dalla cifra I dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
+[^3-8]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2013, in vigore dal 1° feb. 2014 ([RU 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)).
 
 #### Art. 4
 
@@ -85,7 +90,7 @@ Fatti salvi gli articoli 82 capoverso 4 e 83*a* LAsi, la determinazione e la con
 
 <sup>2</sup> ...[^4-1]
 
-[^4-1]: Abrogato dal n. I dell’O del 24 ott. 2007, con effetto dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
+[^4-1]: Abrogato dalla cifra I dell’O del 24 ott. 2007, con effetto dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
 
 #### Art. 5
 
@@ -105,12 +110,12 @@ Fatti salvi gli articoli 82 capoverso 4 e 83*a* LAsi, la determinazione e la con
 
 <sup>6</sup> Tutti i pagamenti sono trasferiti esclusivamente sui conti correnti dei Cantoni presso l’Amministrazione federale delle finanze. I rimborsi secondo il diritto in materia di sussidi e i rimborsi dovuti alle riduzioni di cui all’articolo 89*a* capoverso 2 LAsi sono computati unitamente ai versamenti giusta il capoverso 2.[^5-6]
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
 [^5-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^5-3]: Il titolo è stato adattato in applicazione dell’art. 12 cpv. 2 della LF del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2019. Di detta mod. è tenuto conto in tutto il presente testo.
 [^5-4]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2015. Di detta mod. é tenuto conto in tutto il presente testo.
-[^5-5]: Abrogato dal n. I dell’O del 7 dic. 2012, con effetto dal 1° apr. 2013 ([RU 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)).
-[^5-6]: Nuovo testo giusta il n. I dell’O del 13 dic. 2013, in vigore dal 1° feb. 2014 ([RU 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)).
+[^5-5]: Abrogato dalla cifra I dell’O del 7 dic. 2012, con effetto dal 1° apr. 2013 ([RU 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)).
+[^5-6]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2013, in vigore dal 1° feb. 2014 ([RU 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)).
 
 #### Art. 5a
 
@@ -120,7 +125,7 @@ Fatti salvi gli articoli 82 capoverso 4 e 83*a* LAsi, la determinazione e la con
 
 Per la gestione e l’adeguamento delle indennità finanziarie versate dalla Confederazione, i Cantoni possono essere obbligati a rilevare dati all’attenzione della Confederazione.
 
-[^5a-1]: Introdotto dal n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
+[^5a-1]: Introdotto dalla cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
 
 #### Art. 5b
 
@@ -130,7 +135,7 @@ Per la gestione e l’adeguamento delle indennità finanziarie versate dalla Con
 
 Il diritto delle persone ammesse provvisoriamente a una riduzione dei contributi sui premi giusta l’articolo 65 della legge federale del 18 marzo 1994[^5b-2] sull’assicurazione malattie (LAMal) rinasce sette anni dopo l’entrata in Svizzera.
 
-[^5b-1]: Introdotto dal n. I dell’O del 24 ott. 2007 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)). Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^5b-1]: Introdotto dalla cifra I dell’O del 24 ott. 2007 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)). Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 [^5b-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 ### Sezione 2: Assegni per figli
@@ -157,21 +162,21 @@ Gli assegni per figli che sono stati trattenuti sono versati al richiedente l’
 
 <sup>2</sup> Gli assegni per figli che vivono all’estero sono considerati mezzi propri dell’avente diritto ai sensi dell’articolo 81 della LAsi.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
 [^7-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 
 ### Capitolo 2: Contributo speciale prelevato sui valori patrimoniali
 
 [^tit2-chap2-1][^tit2-chap2-2]
 
-[^tit2-chap2-1]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
-[^tit2-chap2-2]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6545](https://fedlex.data.admin.ch/eli/oc/2017/721)).
+[^tit2-chap2-1]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
+[^tit2-chap2-2]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6545](https://fedlex.data.admin.ch/eli/oc/2017/721)).
 
 #### Art. 8 e 9
 
 [^89-1]
 
-[^89-1]: Abrogati dal n. I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6545](https://fedlex.data.admin.ch/eli/oc/2017/721)).
+[^89-1]: Abrogati dalla cifra I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6545](https://fedlex.data.admin.ch/eli/oc/2017/721)).
 
 #### Art. 10
 
@@ -199,8 +204,8 @@ L’assoggettamento al contributo speciale prelevato sui valori patrimoniali ces
 
 <sup>3</sup> L’obbligo di pagare il contributo speciale inizia nuovamente a decorrere, per quanto concerne l’ammontare, con ogni procedura d’asilo.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6545](https://fedlex.data.admin.ch/eli/oc/2017/721)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
-[^10-2]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6545](https://fedlex.data.admin.ch/eli/oc/2017/721)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^10-2]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
 
 #### Art. 11
 
@@ -212,7 +217,7 @@ L’assoggettamento al contributo speciale prelevato sui valori patrimoniali ces
 
 <sup>2</sup> La SEM rilascia su richiesta alla persona soggetta all’obbligo di pagare il contributo speciale o alle competenti autorità cantonali informazioni sull’ammontare del contributo speciale versato. Alla domanda occorre accludere una copia della carta di soggiorno.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6545](https://fedlex.data.admin.ch/eli/oc/2017/721)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6545](https://fedlex.data.admin.ch/eli/oc/2017/721)).
 
 #### Art. 12
 
@@ -234,14 +239,14 @@ Il sistema d’informazione per il contributo speciale contiene i dati seguenti:
 
 <sup>3</sup> Hanno accesso ai dati del sistema d’informazione per il contributo speciale i collaboratori della SEM incaricati della gestione del contributo speciale prelevato sui valori patrimoniali.
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6545](https://fedlex.data.admin.ch/eli/oc/2017/721)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6545](https://fedlex.data.admin.ch/eli/oc/2017/721)).
 [^12-2]: LF del 20 giu. 2003 sul sistema d’informazione per il settore degli stranieri e dell’asilo ([RS 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)).
 
 #### Art. 13 a 15
 
 [^1315-1]
 
-[^1315-1]: Abrogati dal n. I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6545](https://fedlex.data.admin.ch/eli/oc/2017/721)).
+[^1315-1]: Abrogati dalla cifra I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6545](https://fedlex.data.admin.ch/eli/oc/2017/721)).
 
 #### Art. 16
 
@@ -255,15 +260,15 @@ Il sistema d’informazione per il contributo speciale contiene i dati seguenti:
 
 <sup>4</sup> L’importo ai sensi dell’articolo 86 capoverso 3 lettera c LAsi è di 1000 franchi.[^16-3]
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6545](https://fedlex.data.admin.ch/eli/oc/2017/721)).
-[^16-2]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6545](https://fedlex.data.admin.ch/eli/oc/2017/721)).
-[^16-3]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6545](https://fedlex.data.admin.ch/eli/oc/2017/721)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6545](https://fedlex.data.admin.ch/eli/oc/2017/721)).
+[^16-2]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6545](https://fedlex.data.admin.ch/eli/oc/2017/721)).
+[^16-3]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6545](https://fedlex.data.admin.ch/eli/oc/2017/721)).
 
 #### Art. 17
 
 [^17-1]
 
-[^17-1]: Abrogato dal n. I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6545](https://fedlex.data.admin.ch/eli/oc/2017/721)).
+[^17-1]: Abrogato dalla cifra I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6545](https://fedlex.data.admin.ch/eli/oc/2017/721)).
 
 #### Art. 18
 
@@ -279,8 +284,8 @@ Il sistema d’informazione per il contributo speciale contiene i dati seguenti:
 
 <sup>4</sup> ...[^18-2]
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6545](https://fedlex.data.admin.ch/eli/oc/2017/721)).
-[^18-2]: Abrogato dal n. I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6545](https://fedlex.data.admin.ch/eli/oc/2017/721)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6545](https://fedlex.data.admin.ch/eli/oc/2017/721)).
+[^18-2]: Abrogato dalla cifra I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6545](https://fedlex.data.admin.ch/eli/oc/2017/721)).
 
 #### Art. 19
 
@@ -292,7 +297,7 @@ Abrogato
 
 [^tit3-chap1-1]
 
-[^tit3-chap1-1]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
+[^tit3-chap1-1]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
 
 ### Sezione 1: Richiedenti l’asilo, persone ammesse provvisoriamente e persone bisognose di protezione non titolari di un permesso di dimora
 
@@ -302,23 +307,33 @@ Abrogato
 
 ### (art. 88 e 89 LAsi; art. 87 cpv. 1 lett. a e 87 cpv. 3 LStrI)
 
-La Confederazione versa ai Cantoni somme forfettarie globali per la durata della procedura d’asilo, dell’ammissione provvisoria e della concessione della protezione provvisoria. Sono escluse le persone per la durata di una procedura di cui all’articolo 111*c* LAsi. La Confederazione versa tali somme forfettarie a contare dal mese seguente l’attribuzione al Cantone, la data della decisione concernente l’ammissione provvisoria o la concessione della protezione provvisoria, fino alla fine del mese in cui:[^20-2] [^20-3]
+<sup>1</sup>
 
-- a. la decisione di non entrata nel merito o la decisione d’asilo negativa e di allontanamento passa in giudicato;
-- b. la domanda d’asilo è stralciata;
+La Confederazione versa ai Cantoni somme forfettarie globali durante la procedura d’asilo, la procedura per la concessione della protezione provvisoria, l’ammissione provvisoria e la concessione della protezione provvisoria. Sono escluse le persone oggetto di una procedura di cui all’articolo 111*c* LAsi. La Confederazione versa tali somme forfettarie a contare dall’inizio del mese seguente l’attribuzione al Cantone fino alla fine del mese in cui:[^20-2]
+
+- a.[^20-3] sia la decisione di non entrata nel merito o la decisione negativa in materia d’asilo o di concessione della protezione, sia la relativa decisione di allontanamento passano in giudicato;
+- b.[^20-4] la domanda d’asilo o di protezione provvisoria è stralciata;
 - c. la persona ha lasciato definitivamente la Svizzera o è partita senza essere controllata;
-- d.[^20-4] l’ammissione provvisoria ha termine o è revocata con decisione passata in giudicato, ma al massimo per sette anni dall’entrata dopo la quale è stata disposta per la prima volta l’ammissione provvisoria;
-- e. la protezione provvisoria ha termine o è revocata con decisione passata in giudicato, ma al più tardi fino al momento in cui va rilasciato un permesso di dimora giusta l’articolo 74 capoverso 2 LAsi;
-- f.[^20-5] è rilasciato un permesso di dimora o di domicilio in virtù del diritto in materia di stranieri o sono soddisfatte le condizioni di cui all’articolo 42 o 43 capoversi 1, 5 e 6 LStrI[^20-6], di cui all’articolo 3 dell’allegato I dell’Accordo tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone (ALC)[^20-7] oppure di cui all’articolo 3 dell’allegato K appendice 1 della Convenzione istitutiva dell’Associazione europea di libero scambio (AELS)[^20-8] per la pretesa al rilascio di un permesso; se sussiste la pretesa al rilascio di un permesso, la somma forfettaria non è versata per la durata della procedura di rilascio del permesso; in presenza di una decisione cantonale passata in giudicato di rifiuto a rilasciare un permesso di dimora o di domicilio, la Confederazione versa al Cantone su richiesta la somma forfettaria globale retroattivamente fino al massimo al venir meno del motivo di rifiuto.
+- d.[^20-5] l’ammissione provvisoria ha termine o è revocata con decisione passata in giudicato, ma al massimo per sette anni dall’entrata dopo la quale è stata disposta per la prima volta l’ammissione provvisoria;
+- e.[^20-6] la protezione provvisoria ha termine o è revocata o soppressa con decisione passata in giudicato, ma al più tardi fino al momento in cui va rilasciato un permesso di dimora giusta l’articolo 74 capoverso 2 LAsi;
+- f.[^20-7] è rilasciato un permesso di dimora o di domicilio in virtù del diritto in materia di stranieri o sono soddisfatte le condizioni di cui all’articolo 42 o 43 capoversi 1, 5 e 6 LStrI[^20-8], di cui all’articolo 3 dell’allegato I dell’Accordo tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone (ALC)[^20-9] oppure di cui all’articolo 3 dell’allegato K appendice 1 della Convenzione istitutiva dell’Associazione europea di libero scambio (AELS)[^20-10] per la pretesa al rilascio di un permesso; se sussiste la pretesa al rilascio di un permesso, la somma forfettaria non è versata per la durata della procedura di rilascio del permesso; in presenza di una decisione cantonale passata in giudicato di rifiuto a rilasciare un permesso di dimora o di domicilio, la Confederazione versa al Cantone su richiesta la somma forfettaria globale retroattivamente fino al massimo al venir meno del motivo di rifiuto.
+
+<sup>2</sup> Se una persona a cui è stata concessa la protezione provvisoria viene ammessa provvisoriamente in un secondo momento, la durata della concessione della protezione viene interamente computata sulla durata massima dell’obbligo di rimborsare le spese ai sensi del capoverso 1 lettera d.[^20-11]
+
+<sup>3</sup> Se a una persona ammessa provvisoriamente viene concessa in un secondo momento la protezione provvisoria, la durata del suo soggiorno a contare dall’entrata in Svizzera dopo la quale è stata ordinata per la prima volta l’ammissione provvisoria viene interamente computata sulla durata massima dell’obbligo di rimborsare le spese ai sensi del capoverso 1 lettera e.[^20-12]
 
 [^20-1]: Vedi anche le disp. trans. delle mod. del 7 dic. 2012 e del 30 mar. 2022 alla fine del presente testo.
-[^20-2]: Nuovo testo del secondo e del terzo per. giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
-[^20-3]: Nuovo testo giusta il n. I dell’O del 13 dic. 2013, in vigore dal 1° feb. 2014 ([RU 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)).
-[^20-4]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
-[^20-5]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
-[^20-6]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^20-7]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^20-8]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^20-2]: Nuovo testo giusta la cifra I dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
+[^20-3]: Nuovo testo giusta la cifra I dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
+[^20-4]: Nuovo testo giusta la cifra I dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
+[^20-5]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^20-6]: Nuovo testo giusta la cifra I dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
+[^20-7]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^20-8]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^20-9]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^20-10]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^20-11]: Introdotto dalla cifra I dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
+[^20-12]: Introdotto dalla cifra I dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
 
 #### Art. 21
 
@@ -379,14 +394,14 @@ La quota parte per le spese ammonta a:
 </table>
 
 [^22-1]: Vedi anche le disp. fin. delle mod. del 24 ott. 2007, del 12 dic. 2008, del 7 dic. 2012, dell’8 giu. 2018, del 10 apr. 2019 e del 30 mar. 2022 alla fine del presente testo.
-[^22-2]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
-[^22-3]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^22-4]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^22-2]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^22-3]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^22-4]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 [^22-5]: O del DFI del 28 ott. 2016 sui premi medi dell’assicurazione delle cure medico-sanitarie per il calcolo delle prestazioni complementari ([RS 831.309.1](https://fedlex.data.admin.ch/eli/cc/2024/659)).
 [^22-6]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^22-7]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^22-8]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
-[^22-9]: Introdotto dal n. I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1233](https://fedlex.data.admin.ch/eli/oc/2019/235)).
+[^22-7]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^22-8]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^22-9]: Introdotto dalla cifra I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1233](https://fedlex.data.admin.ch/eli/oc/2019/235)).
 
 #### Art. 23
 
@@ -440,20 +455,20 @@ Nella formula s’intende per:
 - ALQ<sub>KT</sub> = tasso di disoccupazione del mese precedente degli stranieri residenti nel Cantone secondo la SECO.
 - NLQ<sub>KT</sub> = quota cantonale del penultimo anno relativa alle persone ammesse provvisoriamente e alle persone bisognose di protezione non titolari di un permesso di dimora, esercitanti un’attività lucrativa nel Cantone retribuita con un salario basso (salario mensile lordo ≤ fr. 600) secondo le informazioni, esaminate dalla SEM, dell’Ufficio centrale di compensazione conformemente all’articolo 93<sup>bis</sup> della legge federale del 20 dicembre 1946[^23-7] su l’assicurazione per la vecchiaia e per i superstiti (LAVS).[^23-8]
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 7 dic. 2012, in vigore dal 1° apr. 2013 ([RU 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)). Vedi anche le disp. trans. delle mod. del 7 dic. 2012, dell’8 giu. 2018 e del 30 mar. 2022 alla fine del presente testo.
-[^23-2]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
-[^23-3]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
-[^23-4]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
-[^23-5]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^23-6]: Introdotto dal n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^23-1]: Nuovo testo giusta la cifra I dell’O del 7 dic. 2012, in vigore dal 1° apr. 2013 ([RU 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)). Vedi anche le disp. trans. delle mod. del 7 dic. 2012, dell’8 giu. 2018 e del 30 mar. 2022 alla fine del presente testo.
+[^23-2]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^23-3]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^23-4]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^23-5]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^23-6]: Introdotto dalla cifra I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
 [^23-7]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^23-8]: Introdotto dal n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^23-8]: Introdotto dalla cifra I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
 
 #### Art. 23a
 
 [^23a-1]
 
-[^23a-1]: Introdotto dal n. I dell’O del 12 dic. 2008 ([RU 2009 235](https://fedlex.data.admin.ch/eli/oc/2009/39)). Abrogato dal n. I dell’O del 7 dic. 2012, con effetto dal 1° apr. 2013 ([RU 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)).
+[^23a-1]: Introdotto dalla cifra I dell’O del 12 dic. 2008 ([RU 2009 235](https://fedlex.data.admin.ch/eli/oc/2009/39)). Abrogato dalla cifra I dell’O del 7 dic. 2012, con effetto dal 1° apr. 2013 ([RU 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)).
 
 ### Sezione 2: Rifugiati, rifugiati ammessi provvisoriamente, apolidi e persone bisognose di protezione titolari di un permesso di dimora
 
@@ -480,18 +495,24 @@ La Confederazione versa ai Cantoni somme forfettarie globali per rifugiati e apo
 
 <sup>3</sup> Per le persone bisognose di protezione titolari di un permesso di dimora, la Confederazione versa ai Cantoni la metà della somma forfettaria globale giusta l’articolo 26 a contare dalla data in cui tali persone hanno diritto, in virtù dell’articolo 74 capoverso 2 LAsi, al rilascio di un permesso di dimora, fino al giorno in cui ottengono un permesso iniziale di domicilio o vi hanno diritto, ma al più tardi fino alla data in cui un tale permesso potrebbe essere rilasciato in virtù dell’articolo 74 capoverso 3 LAsi.
 
-<sup>4</sup> e <sup>5</sup> ...[^24-10]
+<sup>4</sup> Se una persona ammessa provvisoriamente con decisione passata in giudicato viene riconosciuta in un secondo momento come rifugiato o apolide, la durata del suo soggiorno a contare dall’entrata in Svizzera dopo la quale è stata ordinata per la prima volta l’ammissione provvisoria viene interamente computata sulla durata massima dell’obbligo di rimborsare le spese ai sensi del capoverso 1 lettere a–d<sup>bis</sup>.[^24-10]
+
+<sup>5</sup> Se una persona a cui è stata concessa la protezione provvisoria viene riconosciuta in un secondo momento come rifugiato o apolide, la durata della concessione della protezione provvisoria viene interamente computata sulla durata massima dell’obbligo di rimborsare le spese ai sensi del capoverso 1 lettere a–d<sup>bis</sup>.[^24-11]
+
+<sup>6</sup> Se un rifugiato riconosciuto viene riconosciuto in un secondo momento come apolide o se un apolide riconosciuto viene riconosciuto in un secondo momento come rifugiato, la durata del suo soggiorno a contare dalla presentazione della domanda d’asilo o dal riconoscimento della qualità di apolide viene interamente computata sulla durata massima dell’obbligo di rimborsare le spese ai sensi del capoverso 1 lettere a–d<sup>bis</sup>.[^24-12]
 
 [^24-1]: Vedi anche le disp. fin. delle mod. del 7 dic. 2012 e del 30 mar. 2022 alla fine del presente testo.
 [^24-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^24-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^24-4]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^24-5]: Nuovo testo giusta il n. I 3 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^24-5]: Nuovo testo giusta la cifra I n. 3 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 [^24-6]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^24-7]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^24-8]: Nuovo testo giusta il n. I 3 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^24-9]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
-[^24-10]: Abrogati dal n. I dell’O dell’8 giu. 2018, con effetto dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^24-8]: Nuovo testo giusta la cifra I n. 3 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^24-9]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^24-10]: Nuovo testo giusta la cifra I dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
+[^24-11]: Nuovo testo giusta la cifra I dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
+[^24-12]: Introdotto dalla cifra I dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
 
 #### Art. 24a
 
@@ -503,7 +524,7 @@ La Confederazione versa ai Cantoni somme forfettarie globali per rifugiati e apo
 
 <sup>2</sup> L’indennizzo di cui al capoverso 1 che si protrae oltre i cinque anni comprende contributi alle spese per minorenni non accompagnati e persone che, a causa di un grave problema fisico o psichico oppure dell’età avanzata, non sono economicamente autonomi cinque anni dopo la loro entrata in Svizzera.
 
-[^24a-1]: Introdotto dal n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^24a-1]: Introdotto dalla cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 [^24a-2]: Vedi anche le disp. trans. delle mod. dell’8 giu. 2018 e del 30 mar. 2022 alla fine del presente testo.
 
 #### Art. 25
@@ -555,13 +576,13 @@ In caso di cambiamenti sostanziali del mercato immobiliare, la SEM può adeguare
 </table>
 
 [^26-1]: Vedi anche le disp. fin. delle mod. del 24 ott. 2007, del 7 dic. 2012, dell’8 giu. 2018, del 10 apr. 2019 e del 30 mar. 2022 alla fine del presente testo.
-[^26-2]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^26-2]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
 [^26-3]: Correzione del 13 feb. 2018 ([RU 2018 731](https://fedlex.data.admin.ch/eli/oc/2018/92)).
-[^26-4]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^26-4]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 [^26-5]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^26-6]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^26-7]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
-[^26-8]: Introdotto dal n. I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1233](https://fedlex.data.admin.ch/eli/oc/2019/235)).
+[^26-6]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^26-7]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^26-8]: Introdotto dalla cifra I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1233](https://fedlex.data.admin.ch/eli/oc/2019/235)).
 
 #### Art. 27
 
@@ -596,7 +617,7 @@ Nella formula s’intende per:
 - ALQ<sub>KT</sub> = tasso di disoccupazione del mese precedente degli stranieri residenti nel Cantone secondo la SECO.
 - NLQ<sub>KT</sub> = quota cantonale del penultimo anno relativa ai rifugiati, agli apolidi e alle persone bisognose di protezione titolari di un permesso di dimora, esercitanti un’attività lucrativa nel Cantone retribuita con un salario basso (salario mensile lordo &lt; = fr. 600) secondo le informazioni, esaminate dalla SEM, dell’Ufficio centrale di compensazione conformemente all’articolo 93<sup>bis</sup> LAVS[^27-2].
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)). Vedi anche le disp. fin. della mod. del 30 mar. 2022 alla fine del presente testo.
+[^27-1]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)). Vedi anche le disp. fin. della mod. del 30 mar. 2022 alla fine del presente testo.
 [^27-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 27a
@@ -607,7 +628,7 @@ L’importo totale (B) in franchi dovuto dalla Confederazione in base ai dati re
 
 - B = numero di rifugiati di un gruppo presenti il primo giorno del mese x somma forfettaria globale per Cantone secondo l’articolo 26.
 
-[^27a-1]: Introdotto dal n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)). Vedi anche le disp. fin. della mod. del 30 mar. 2022 alla fine del presente testo.
+[^27a-1]: Introdotto dalla cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)). Vedi anche le disp. fin. della mod. del 30 mar. 2022 alla fine del presente testo.
 
 ### Sezione 3: Soccorso d’emergenza
 
@@ -620,19 +641,20 @@ L’importo totale (B) in franchi dovuto dalla Confederazione in base ai dati re
 La Confederazione versa ai Cantoni una somma forfettaria unica per ogni persona:
 
 - a. che è stata sottoposta a una procedura Dublino;
-- b. che è stata sottoposta a una procedura celere;
+- b. che è stata sottoposta a una procedura celere o a una procedura per la concessione della protezione provvisoria;
 - c. che è stata sottoposta a una procedura ampliata; o
-- d. la cui ammissione provvisoria è stata revocata.
+- d. la cui ammissione provvisoria è stata soppressa o la cui protezione provvisoria è stata revocata.
 
 <sup>2</sup>
 
 La somma forfettaria di cui al capoverso 1 è versata per la persona in questione se:
 
-- a. la sua domanda d’asilo è stata oggetto di una decisione di non entrata nel merito giusta l’articolo 31*a* capoversi 1 e 3 LAsi, se la pertinente decisione di non entrata nel merito e di allontanamento è passata in giudicato ed è stato fissato un termine di partenza;
-- b. la sua domanda d’asilo è stata respinta, se la pertinente decisione in materia d’asilo e di allontanamento è passata in giudicato ed è stato fissato un termine di partenza; o
-- c. la sua ammissione provvisoria è stata soppressa mediante decisione passata in giudicato ed è stato fissato un termine di partenza.
+- a. la sua domanda d’asilo o di protezione provvisoria è stata oggetto di una decisione di non entrata nel merito, la pertinente decisione di non entrata nel merito e di allontanamento è passata in giudicato ed è stato fissato un termine di partenza;
+- b. la sua domanda d’asilo o di protezione provvisoria è stata respinta, la pertinente decisione in materia d’asilo o di concessione della protezione provvisoria e di allontanamento è passata in giudicato ed è stato fissato un termine di partenza;
+- c. la sua ammissione provvisoria è stata soppressa con decisione passata in giudicato ed è stato fissato un termine di partenza; o
+- d. la sua protezione provvisoria è stata revocata con decisione passata in giudicato, la relativa decisione di allontanamento è passata in giudicato ed è stato fissato un termine di partenza.
 
-[^28-1]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^28-1]: Nuovo testo giusta la cifra I dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
 
 #### Art. 29
 
@@ -640,13 +662,15 @@ La somma forfettaria di cui al capoverso 1 è versata per la persona in question
 
 <sup>1</sup> La somma forfettaria per il soccorso d’emergenza al termine di una procedura Dublino ammonta a 400 franchi (stato dell’indice: 31 ott. 2018). Si basa su una quota di percezione del 10 per cento, una durata di percezione di 80 giorni e costi giornalieri di 50 franchi.
 
-<sup>2</sup> La somma forfettaria per il soccorso d’emergenza al termine di una procedura celere ammonta a 2013 franchi (stato dell’indice: 31 ott. 2018). Si basa su una quota di percezione del 33 per cento, una durata di percezione di 122 giorni e costi giornalieri di 50 franchi.
+<sup>2</sup> La somma forfettaria per il soccorso d’emergenza al termine di una procedura celere o di una procedura per la concessione della protezione provvisoria ammonta a 2013 franchi (stato dell’indice: 31 ott. 2018). Si basa su una quota di percezione del 33 per cento, una durata di percezione di 122 giorni e costi giornalieri di 50 franchi.[^29-2]
 
-<sup>3</sup> La somma forfettaria per il soccorso d’emergenza al termine di una procedura ampliata o dopo la revoca dell’ammissione provvisoria ammonta a 6006 franchi (stato dell’indice: 31 ott. 2018). Si basa su una quota di percezione del 66 per cento, una durata di percezione di 182 giorni e costi giornalieri di 50 franchi.
+<sup>3</sup> La somma forfettaria per il soccorso d’emergenza al termine di una procedura ampliata o dopo la soppressione dell’ammissione provvisoria o la revoca della protezione provvisoria ammonta a 6006 franchi (stato dell’indice: 31 ott. 2018). Si basa su una quota di percezione del 66 per cento, una durata di percezione di 182 giorni e costi giornalieri di 50 franchi.[^29-3]
 
 <sup>4</sup> La SEM adegua le somme forfettarie per il soccorso d’emergenza all’indice nazionale dei prezzi al consumo alla fine di ogni anno per l’anno civile seguente.
 
-[^29-1]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^29-1]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^29-2]: Nuovo testo giusta la cifra I dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
+[^29-3]: Nuovo testo giusta la cifra I dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
 
 #### Art. 30
 
@@ -668,7 +692,7 @@ La SEM gestisce un sistema d’informazione per il monitoraggio del blocco dell�
 
 <sup>5</sup> Hanno accesso ai dati del sistema d’informazione per il monitoraggio del blocco dell’aiuto sociale i collaboratori della SEM e dei Cantoni che si occupano del monitoraggio.
 
-[^30-1]: Abrogato dal n. I dell’O dell’8 giu. 2018, con effetto dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^30-1]: Abrogato dalla cifra I dell’O dell’8 giu. 2018, con effetto dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 
 #### Art. 30a
 
@@ -688,13 +712,13 @@ La SEM gestisce un sistema d’informazione per il monitoraggio del blocco dell�
 
 <sup>7</sup> Laddove le riserve finanziarie nette sono in calo e costituiscono il 25 per cento o meno dell’importo globale annuale ai sensi del capoverso 2, il Dipartimento federale di giustizia e polizia (DFGP) sottopone al Consiglio federale una proposta volta a fissare un nuovo importo delle somme forfettarie e i loro valori di base secondo l’articolo 29.
 
-[^30a-1]: Introdotto dal n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^30a-1]: Introdotto dalla cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 
 ### Capitolo 2: Spese amministrative
 
 [^tit3-chap2-1]
 
-[^tit3-chap2-1]: Originario avanti l’art. 29. Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
+[^tit3-chap2-1]: Originario avanti l’art. 29. Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
 
 ### (art. 91 cpv. 2<sup>bis</sup> LAsi)
 
@@ -714,10 +738,10 @@ La Confederazione partecipa a tali spese versando ogni anno un sussidio forfetta
 
 <sup>3</sup> L’importo forfettario di cui al capoverso 2 variabile P ammonta a 550 franchi sulla base dell’indice nazionale dei prezzi al consumo (stato: 31 ott. 2018). La SEM lo adegua a tale indice alla fine di ogni anno per l’anno civile seguente.[^31-4]
 
-[^31-1]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
+[^31-1]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
 [^31-2]: [RS 142.311](https://fedlex.data.admin.ch/eli/cc/1999/359)
-[^31-3]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^31-4]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^31-3]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^31-4]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 
 #### Art. 32
 
@@ -821,7 +845,7 @@ Se non è possibile ottenere un rapporto di locazione o d’affitto o un diritto
 
 <sup>3</sup> La SEM può concordare con i Cantoni modalità di rimborso divergenti. Essa fissa le esigenze minime in materia di rimborso.
 
-[^40-1]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
+[^40-1]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
 
 ### Capitolo 4: Altri sussidi
 
@@ -865,17 +889,17 @@ Nella formula si intende per:
 
 <sup>6</sup> Per gli immobili utilizzati solo temporaneamente come centri della Confederazione o come centri speciali della Confederazione per insufficienza delle strutture d’alloggio, il contributo forfettario alle spese per la sicurezza di cui ai capoversi 1 e 2 è versato esclusivamente per la durata d’esercizio.[^41-5]
 
-[^41-1]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^41-1]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 [^41-2]: Vedi anche le disp. trans. delle mod. dell’8 giu. 2018 e del 18 nov. 2020 alla fine del presente testo.
 [^41-3]: Correzione del 21 lug. 2020 ([RU 2020 3343](https://fedlex.data.admin.ch/eli/oc/2020/570)).
-[^41-4]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021([RU 2020 5869](https://fedlex.data.admin.ch/eli/oc/2020/987)).
-[^41-5]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021([RU 2020 5869](https://fedlex.data.admin.ch/eli/oc/2020/987)).
+[^41-4]: Introdotto dalla cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5869](https://fedlex.data.admin.ch/eli/oc/2020/987)).
+[^41-5]: Introdotto dalla cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5869](https://fedlex.data.admin.ch/eli/oc/2020/987)).
 
 #### Art. 42 e 43
 
 [^4243-1]
 
-[^4243-1]: Abrogati dal n. I dell’O del 24 ott. 2007, con effetto dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
+[^4243-1]: Abrogati dalla cifra I dell’O del 24 ott. 2007, con effetto dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
 
 ### Sezione 1*a*: Istituzioni destinate a persone traumatizzate
 
@@ -891,13 +915,13 @@ Nella formula si intende per:
 
 <sup>2</sup> Il sussidio della Confederazione si prefigge in particolare di promuovere l’attività didattica e di ricerca, nonché la garanzia di qualità, nell’ambito dell’assistenza speciale alle persone traumatizzate.[^44-1]
 
-[^44-1]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^44-1]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 
 #### Art. 45
 
 [^45-1]
 
-[^45-1]: Abrogato dal n. I dell’O del 24 ott. 2007, con effetto dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
+[^45-1]: Abrogato dalla cifra I dell’O del 24 ott. 2007, con effetto dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
 
 ### Sezione 2: Preparazione delle decisioni da parte dei Cantoni
 
@@ -911,8 +935,8 @@ Nella formula si intende per:
 
 Nell’ambito delle disposizioni seguenti, il DFGP conclude un contratto scritto con i Cantoni i cui impiegati preparano, sotto la direzione della SEM, le decisioni ai sensi degli articoli 31*a*−40 LAsi.
 
-[^tit3-chap4-sec2-1]: Nuovo testo del rimando giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
-[^46-1]: Nuovo testo giusta il n. I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 915](https://fedlex.data.admin.ch/eli/oc/2020/174)).
+[^tit3-chap4-sec2-1]: Nuovo testo del rimando giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
+[^46-1]: Nuovo testo giusta la cifra I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 915](https://fedlex.data.admin.ch/eli/oc/2020/174)).
 
 #### Art. 47
 
@@ -928,7 +952,7 @@ Nell’ambito delle disposizioni seguenti, il DFGP conclude un contratto scritto
 
 <sup>5</sup> La SEM fornisce ai Cantoni le informazioni necessarie alla preparazione delle decisioni in materia d’asilo e ne disciplina l’utilizzazione.
 
-[^47-1]: Nuova denominazione giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^47-1]: Nuova denominazione giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 48
 
@@ -978,7 +1002,7 @@ In vista della conclusione del contratto, i Cantoni inviano alla SEM i documenti
 
 [^tit3-chap4-sec3-1]
 
-[^tit3-chap4-sec3-1]: Nuovo testo giusta il n. I dell’O del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3991](https://fedlex.data.admin.ch/eli/oc/2020/743)).
+[^tit3-chap4-sec3-1]: Nuovo testo giusta la cifra I dell’O del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3991](https://fedlex.data.admin.ch/eli/oc/2020/743)).
 
 ### (art. 91 cpv. 7, 93 cpv. 1 lett. c e cpv. 2, 113 e 114 LAsi)
 
@@ -1000,11 +1024,11 @@ La SEM può erogare sussidi per:
 
 <sup>3</sup> ...[^51-5]
 
-[^51-1]: Abrogato dal n. I dell’O del 24 ott. 2007, con effetto dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
-[^51-2]: Introdotta dal n. I dell’O del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3991](https://fedlex.data.admin.ch/eli/oc/2020/743)).
-[^51-3]: Introdotta dal n. I dell’O del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3991](https://fedlex.data.admin.ch/eli/oc/2020/743)).
-[^51-4]: Introdotta dal n. I dell’O del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3991](https://fedlex.data.admin.ch/eli/oc/2020/743)).
-[^51-5]: Abrogato dal n. I dell’O del 18 set. 2020, con effetto dal 1° nov. 2020 ([RU 2020 3991](https://fedlex.data.admin.ch/eli/oc/2020/743)).
+[^51-1]: Abrogato dalla cifra I dell’O del 24 ott. 2007, con effetto dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
+[^51-2]: Introdotta dalla cifra I dell’O del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3991](https://fedlex.data.admin.ch/eli/oc/2020/743)).
+[^51-3]: Introdotta dalla cifra I dell’O del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3991](https://fedlex.data.admin.ch/eli/oc/2020/743)).
+[^51-4]: Introdotta dalla cifra I dell’O del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3991](https://fedlex.data.admin.ch/eli/oc/2020/743)).
+[^51-5]: Abrogato dalla cifra I dell’O del 18 set. 2020, con effetto dal 1° nov. 2020 ([RU 2020 3991](https://fedlex.data.admin.ch/eli/oc/2020/743)).
 
 #### Art. 51a
 
@@ -1014,7 +1038,7 @@ La SEM può erogare sussidi per:
 
 <sup>2</sup> La SEM può finanziare integralmente o parzialmente i progetti di cui all’articolo 51 capoverso 2 lettera e.
 
-[^51a-1]: Introdotto dal n. I dell’O del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3991](https://fedlex.data.admin.ch/eli/oc/2020/743)).
+[^51a-1]: Introdotto dalla cifra I dell’O del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3991](https://fedlex.data.admin.ch/eli/oc/2020/743)).
 
 #### Art. 52
 
@@ -1022,13 +1046,13 @@ La SEM può erogare sussidi per:
 
 La SEM esamina la domanda sotto il profilo della necessità, dell’opportunità e dei benefici futuri. Per quanto attiene a domande di sussidi per l’attuazione di progetti o programmi internazionali, la SEM esamina inoltre se è garantita una gestione professionale del progetto.
 
-[^52-1]: Nuovo testo giusta il n. I dell’O del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3991](https://fedlex.data.admin.ch/eli/oc/2020/743)).
+[^52-1]: Nuovo testo giusta la cifra I dell’O del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3991](https://fedlex.data.admin.ch/eli/oc/2020/743)).
 
 ### Sezione 4: Collaborazione internazionale: disposizioni speciali per i crediti d’impegno nel settore della migrazione
 
 [^tit3-chap4-sec4-1]
 
-[^tit3-chap4-sec4-1]: Introdotta dal n. I dell’O del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3991](https://fedlex.data.admin.ch/eli/oc/2020/743)).
+[^tit3-chap4-sec4-1]: Introdotta dalla cifra I dell’O del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3991](https://fedlex.data.admin.ch/eli/oc/2020/743)).
 
 ### (art. 91 cpv. 7, 93 cpv. 1 lett. c e cpv. 2, 113 e 114 LAsi)
 
@@ -1109,10 +1133,10 @@ La Confederazione può assumersi le spese necessarie per l’entrata diretta in 
 - d.[^53-3] persone la cui entrata in Svizzera è autorizzata nel quadro del ricongiungimento familiare di rifugiati riconosciuti giusta l’articolo 51 capoverso 4 LAsi o giusta l’articolo 85*c* capoverso 1 LStrI;
 - e.[^53-4] persone la cui entrata in Svizzera è stata autorizzata perché la loro vita o integrità fisica è seriamente e concretamente minacciata.
 
-[^53-1]: Introdotta dal n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
+[^53-1]: Introdotta dalla cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
 [^53-2]: La correzione del 26 giu. 2024 concerne soltanto il testo francese ([RU 2024 315](https://fedlex.data.admin.ch/eli/oc/2024/315)).
-[^53-3]: Introdotta dal n. I dell’O del 24 ott. 2007 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)). Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 192](https://fedlex.data.admin.ch/eli/oc/2024/192)).
-[^53-4]: Introdotta dall’all. dell’O del 4 set. 2013 ([RU 2013 3065](https://fedlex.data.admin.ch/eli/oc/2013/595)). Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^53-3]: Introdotta dalla cifra I dell’O del 24 ott. 2007 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)). Nuovo testo giusta la cifra I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 192](https://fedlex.data.admin.ch/eli/oc/2024/192)).
+[^53-4]: Introdotta dall’all. dell’O del 4 set. 2013 ([RU 2013 3065](https://fedlex.data.admin.ch/eli/oc/2013/595)). Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 
 #### Art. 53a
 
@@ -1126,7 +1150,7 @@ Nel quadro dell’assegnazione di un luogo di soggiorno all’aeroporto, in un a
 - b. vitto; nonché
 - c. cure mediche e dentarie di base o d’emergenza.
 
-[^53a-1]: Introdotto dal n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
+[^53a-1]: Introdotto dalla cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
 
 ### Sezione 2: Spese di partenza
 
@@ -1138,7 +1162,7 @@ Nel quadro dell’assegnazione di un luogo di soggiorno all’aeroporto, in un a
 
 <sup>2</sup> Soltanto le autorità cantonali preposte alla migrazione o all’aiuto sociale possono chiedere gli indennizzi previsti nel quadro della presente ordinanza.[^54-1]
 
-[^54-1]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^54-1]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 
 #### Art. 55
 
@@ -1148,7 +1172,7 @@ Nel quadro dell’assegnazione di un luogo di soggiorno all’aeroporto, in un a
 
 <sup>2</sup> Lo straniero è tenuto a pagare le spese di partenza con i mezzi di cui dispone. In ogni caso gli è lasciato un importo corrispondente all’indennità di viaggio ai sensi dell’articolo 59*a* capoverso 1.[^55-1]
 
-[^55-1]: Nuovo testo giusta il n. I dell’O del 7 dic. 2012, in vigore dal 1° apr. 2013 ([RU 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)).
+[^55-1]: Nuovo testo giusta la cifra I dell’O del 7 dic. 2012, in vigore dal 1° apr. 2013 ([RU 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)).
 
 #### Art. 56
 
@@ -1160,7 +1184,7 @@ Nel quadro dell’assegnazione di un luogo di soggiorno all’aeroporto, in un a
 
 <sup>3</sup> In ogni caso occorre optare per la variante più vantaggiosa purché essa sia adeguata alle circostanze - in particolare stato di salute, disposizioni applicabili per il transito attraverso Stati terzi e per l’ammissione nel Paese di destinazione.[^56-1]
 
-[^56-1]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^56-1]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 
 #### Art. 57
 
@@ -1171,7 +1195,7 @@ La Confederazione rimborsa:
 - a. le spese per il rilascio dei necessari documenti di viaggio da parte delle rappresentanze consolari estere e le spese per il rilascio di ulteriori documenti necessari all’ottenimento dei documenti di viaggio; è unicamente rimborsato il documento ottenibile più rapidamente;
 - b. le spese di trasporto dello straniero (viaggio con mezzi pubblici in seconda classe) per recarsi dal suo luogo di domicilio alla più vicina rappresentanza consolare competente del pertinente Stato situata sul territorio svizzero, sempre che gli sia richiesto di comparire personalmente.
 
-[^57-1]: Nuovo testo giusta il n. I dell’O del 1° mar. 2006, in vigore dal 1° apr. 2006 ([RU 2006 933](https://fedlex.data.admin.ch/eli/oc/2006/166)).
+[^57-1]: Nuovo testo giusta la cifra I dell’O del 1° mar. 2006, in vigore dal 1° apr. 2006 ([RU 2006 933](https://fedlex.data.admin.ch/eli/oc/2006/166)).
 
 #### Art. 58
 
@@ -1193,7 +1217,7 @@ Per le persone che devono essere accompagnate da una scorta di polizia durante l
 
 <sup>5</sup> Il Cantone può incaricare terzi dell’accompagnamento sociale di cui al capoverso 5.
 
-[^58-1]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^58-1]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 [^58-2]: [RS 364.3](https://fedlex.data.admin.ch/eli/cc/2008/760)
 
 #### Art. 58a
@@ -1204,9 +1228,9 @@ Per le persone che devono essere accompagnate da una scorta di polizia durante l
 
 <sup>2</sup> La Confederazione versa al Cantone competente per l’esecuzione dell’allontanamento un importo forfettario di 300 franchi, se la persona obbligata a partire deve pernottare nella località dell’accertamento dell’identità. Tale importo forfettario comprende la partecipazione alle spese per la carcerazione giusta l’articolo 15 capoverso 1 dell’ordinanza dell’11 agosto 1999[^58a-2] concernente l’esecuzione dell’allontanamento e dell’espulsione di stranieri (OEAE).[^58a-3]
 
-[^58a-1]: Introdotto dal n. I dell’O del 1° mar. 2006, in vigore dal 1° apr. 2006 ([RU 2006 933](https://fedlex.data.admin.ch/eli/oc/2006/166)).
+[^58a-1]: Introdotto dalla cifra I dell’O del 1° mar. 2006, in vigore dal 1° apr. 2006 ([RU 2006 933](https://fedlex.data.admin.ch/eli/oc/2006/166)).
 [^58a-2]: [RS 142.281](https://fedlex.data.admin.ch/eli/cc/1999/357)
-[^58a-3]: Nuovo testo giusta il n. I 5 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^58a-3]: Nuovo testo giusta la cifra I n. 5 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 
 #### Art. 58b
 
@@ -1218,7 +1242,7 @@ Per le persone che devono essere accompagnate da una scorta di polizia durante l
 
 <sup>3</sup> Gli importi forfettari di cui ai capoversi 1 e 2 si basano sull’indice nazionale dei prezzi al consumo (stato: 31 ott. 2018). La SEM adegua gli importi forfettari all’evoluzione di tale indice alla fine di ogni anno per l’anno civile seguente.
 
-[^58b-1]: Introdotto dal n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^58b-1]: Introdotto dalla cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 [^58b-2]: [RS 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
 
 #### Art. 59
@@ -1243,14 +1267,14 @@ La Confederazione rimborsa le spese per:
 
 <sup>5</sup> La SEM disciplina le modalità per quanto riguarda l’ordinazione dei titoli di viaggio e la scelta dell’itinerario.
 
-[^59-1]: Nuovo testo giusta il n. I dell’O del 1° mar. 2006, in vigore dal 1° apr. 2006 ([RU 2006 933](https://fedlex.data.admin.ch/eli/oc/2006/166)).
-[^59-2]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^59-3]: Abrogata dal n. I dell’O del 24 ott. 2007, con effetto dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
-[^59-4]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^59-5]: Nuovo testo giusta il n. I 5 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^59-1]: Nuovo testo giusta la cifra I dell’O del 1° mar. 2006, in vigore dal 1° apr. 2006 ([RU 2006 933](https://fedlex.data.admin.ch/eli/oc/2006/166)).
+[^59-2]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^59-3]: Abrogata dalla cifra I dell’O del 24 ott. 2007, con effetto dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
+[^59-4]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^59-5]: Nuovo testo giusta la cifra I n. 5 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 [^59-6]: [RS 142.281](https://fedlex.data.admin.ch/eli/cc/1999/357)
-[^59-7]: Abrogata dal n. I dell’O del 7 dic. 2012, con effetto dal 1° gen. 2013 ([RU 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)).
-[^59-8]: Abrogato dal n. I dell’O del 24 ott. 2007, con effetto dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
+[^59-7]: Abrogata dalla cifra I dell’O del 7 dic. 2012, con effetto dal 1° gen. 2013 ([RU 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)).
+[^59-8]: Abrogato dalla cifra I dell’O del 24 ott. 2007, con effetto dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
 
 #### Art. 59a
 
@@ -1264,13 +1288,13 @@ La Confederazione rimborsa le spese per:
 
 <sup>3</sup> La SEM versa gli importi forfettari di cui ai capoversi 1, 2 e 2<sup>bis</sup> direttamente alle persone interessate.[^59a-7]
 
-[^59a-1]: Introdotto dal n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
-[^59a-2]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^59a-3]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^59a-1]: Introdotto dalla cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
+[^59a-2]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^59a-3]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 [^59a-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^59a-5]: [RS 142.281](https://fedlex.data.admin.ch/eli/cc/1999/357)
-[^59a-6]: Introdotto dal n. I dell’O del 7 dic. 2012 ([RU 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)). Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^59a-7]: Nuovo testo giusta il n. I dell’O del 7 dic. 2012, in vigore dal 1° apr. 2013 ([RU 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)).
+[^59a-6]: Introdotto dalla cifra I dell’O del 7 dic. 2012 ([RU 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)). Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^59a-7]: Nuovo testo giusta la cifra I dell’O del 7 dic. 2012, in vigore dal 1° apr. 2013 ([RU 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)).
 
 #### Art. 59a<sup>bis</sup>
 
@@ -1299,17 +1323,17 @@ La SEM decide in merito alla concessione dell’importo su proposta del Cantone.
 
 <sup>5</sup> La SEM o i terzi da essa incaricati possono versare l’importo per le spese di partenza negli aeroporti internazionali o nel Paese di destinazione.[^59abis-5]
 
-[^59abis-1]: Introdotto dal n. I dell’O del 7 dic. 2012, in vigore dal 1° apr. 2013 ([RU 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)).
-[^59abis-2]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^59abis-1]: Introdotto dalla cifra I dell’O del 7 dic. 2012, in vigore dal 1° apr. 2013 ([RU 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)).
+[^59abis-2]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 [^59abis-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^59abis-4]: Introdotto dal n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^59abis-5]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^59abis-4]: Introdotto dalla cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^59abis-5]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 
 #### Art. 59a<sup>ter</sup>
 
 [^59ater-1]
 
-[^59ater-1]: Introdotto dal n. I dell’O del 7 dic. 2012 ([RU 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)). Abrogato dal n. I dell’O dell’8 giu. 2018, con effetto dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^59ater-1]: Introdotto dalla cifra I dell’O del 7 dic. 2012 ([RU 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)). Abrogato dalla cifra I dell’O dell’8 giu. 2018, con effetto dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 
 #### Art. 59b
 
@@ -1321,14 +1345,14 @@ La SEM decide in merito alla concessione dell’importo su proposta del Cantone.
 
 <sup>3</sup> Per il trasporto di persone da parte dei Cantoni che, giusta le norme di prestazione delle società di trasporto, può essere effettuato tramite trasporti intercantonali di carcerati ma che ciò nonostante è effettuato sotto scorta di polizia, la SEM non versa l’importo forfettario per la scorta giusta l’articolo 58 capoverso 2 lettera a.
 
-[^59b-1]: Introdotto dal n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
-[^59b-2]: Nuovo testo giusta il n. I dell’O del 30 nov. 2011, in vigore dal 1° gen. 2011 ([RU 2011 6087](https://fedlex.data.admin.ch/eli/oc/2011/841)).
+[^59b-1]: Introdotto dalla cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
+[^59b-2]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2011, in vigore dal 1° gen. 2011 ([RU 2011 6087](https://fedlex.data.admin.ch/eli/oc/2011/841)).
 
 #### Art. 60
 
 [^60-1]
 
-[^60-1]: Abrogato dal n. I dell’O del 1° mar. 2006, con effetto dal 1° apr. 2006 ([RU 2006 933](https://fedlex.data.admin.ch/eli/oc/2006/166)).
+[^60-1]: Abrogato dalla cifra I dell’O del 1° mar. 2006, con effetto dal 1° apr. 2006 ([RU 2006 933](https://fedlex.data.admin.ch/eli/oc/2006/166)).
 
 #### Art. 61
 
@@ -1346,7 +1370,7 @@ La SEM decide in merito alla concessione dell’importo su proposta del Cantone.
 
 ### Sezione 1: Disposizioni generali
 
-[^tit3-chap6-1]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^tit3-chap6-1]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 
 #### Art. 62
 
@@ -1362,7 +1386,7 @@ La SEM decide in merito alla concessione dell’importo su proposta del Cantone.
 
 <sup>5</sup> I beneficiari che non partono o che ritornano in Svizzera sono tenuti a rimborsare gli importi versati dalla Svizzera.
 
-[^62-1]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^62-1]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 
 #### Art. 63
 
@@ -1370,7 +1394,7 @@ La SEM decide in merito alla concessione dell’importo su proposta del Cantone.
 
 Beneficiari delle prestazioni d’aiuto al ritorno sono persone le cui condizioni di residenza sono regolate dalla LAsi o dalle disposizioni sull’ammissione provvisoria della LStrI[^63-2].
 
-[^63-1]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
+[^63-1]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
 [^63-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 
 #### Art. 64
@@ -1402,18 +1426,18 @@ Sono escluse dall’aiuto finanziario al ritorno le persone:[^64-1]
 
 <sup>5</sup> Per motivi specifici legati al Paese il DFGP può escludere per un certo periodo di tempo l’aiuto al ritorno per determinati Stati di origine, di provenienza o Stati terzi.[^64-6]
 
-[^64-1]: Nuovo testo giusta il n. I dell’O del 1° mar. 2006, in vigore dal 1° apr. 2006 ([RU 2006 933](https://fedlex.data.admin.ch/eli/oc/2006/166)).
-[^64-2]: Abrogata dal n. I dell’O del 24 ott. 2007, con effetto dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
-[^64-3]: Introdotta dal n. I dell’O del 1° mar. 2006, in vigore dal 1° apr. 2006 ([RU 2006 933](https://fedlex.data.admin.ch/eli/oc/2006/166)).
-[^64-4]: Abrogato dal n. I dell’O del 1° mar. 2006, con effetto dal 1° apr. 2006 ([RU 2006 933](https://fedlex.data.admin.ch/eli/oc/2006/166)).
-[^64-5]: Abrogato dal n. I dell’O del 1° mar. 2006, con effetto dal 1° apr. 2006 ([RU 2006 933](https://fedlex.data.admin.ch/eli/oc/2006/166)).
-[^64-6]: Introdotto dal n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^64-1]: Nuovo testo giusta la cifra I dell’O del 1° mar. 2006, in vigore dal 1° apr. 2006 ([RU 2006 933](https://fedlex.data.admin.ch/eli/oc/2006/166)).
+[^64-2]: Abrogata dalla cifra I dell’O del 24 ott. 2007, con effetto dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
+[^64-3]: Introdotta dalla cifra I dell’O del 1° mar. 2006, in vigore dal 1° apr. 2006 ([RU 2006 933](https://fedlex.data.admin.ch/eli/oc/2006/166)).
+[^64-4]: Abrogato dalla cifra I dell’O del 1° mar. 2006, con effetto dal 1° apr. 2006 ([RU 2006 933](https://fedlex.data.admin.ch/eli/oc/2006/166)).
+[^64-5]: Abrogato dalla cifra I dell’O del 1° mar. 2006, con effetto dal 1° apr. 2006 ([RU 2006 933](https://fedlex.data.admin.ch/eli/oc/2006/166)).
+[^64-6]: Introdotto dalla cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 
 ### Sezione 2: Consulenza per il ritorno
 
 [^tit3-chap6-sec2-1]
 
-[^tit3-chap6-sec2-1]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
+[^tit3-chap6-sec2-1]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
 
 ### (art. 93*a* LAsi)
 
@@ -1423,7 +1447,7 @@ Sono escluse dall’aiuto finanziario al ritorno le persone:[^64-1]
 
 Abrogato
 
-[^tit3-chap6-sec2-2]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^tit3-chap6-sec2-2]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 
 #### Art. 66
 
@@ -1431,7 +1455,7 @@ Abrogato
 
 I consultori per il ritorno situati nei Cantoni, nei centri della Confederazione[^66-1] e negli aeroporti di Zurigo-Kloten e Ginevra-Cointrin diffondono informazioni in merito al ritorno e all’aiuto in tal senso destinate alle autorità cantonali, alle pertinenti istituzioni private, alle persone del settore dell’asilo nonché alle persone giusta l’articolo 60 LStrI[^66-2]. I consultori per il ritorno forniscono agli interessati consulenze individuali in vista del ritorno.
 
-[^66-1]: Nuova espr. giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^66-1]: Nuova espr. giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 [^66-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 
 #### Art. 67
@@ -1444,7 +1468,7 @@ I consultori per il ritorno situati nei Cantoni, nei centri della Confederazione
 
 <sup>3</sup> La competenza per i consultori per il ritorno situati nei centri della Confederazione e negli aeroporti di Zurigo e Ginevra spetta alla SEM. Essa può delegare tale compito ai consultori cantonali per il ritorno oppure a terzi e disciplinare l’indennizzo delle spese in un accordo con essi.[^67-1]
 
-[^67-1]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^67-1]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 
 #### Art. 68
 
@@ -1481,8 +1505,8 @@ I consultori per il ritorno situati nei Cantoni, nei centri della Confederazione
 
 <sup>7</sup> In caso di considerevole aumento o diminuzione delle domande d’asilo il DFGP può adattare le somme forfettarie di cui ai capoversi 3 e 4.
 
-[^68-1]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^68-2]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^68-1]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^68-2]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 [^68-3]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
 #### Art. 68a
@@ -1497,7 +1521,7 @@ I consultori per il ritorno situati nei Cantoni, nei centri della Confederazione
 
 <sup>4</sup> I Cantoni o terzi possono sottoporre alla SEM progetti che rientrano tra quelli di cui ai capoversi 1 e 2. La SEM si esprime in merito all’utilità del progetto e decide in merito al suo finanziamento.
 
-[^68a-1]: Nuovo testo giusta il n. I dell’O del 7 dic. 2012, in vigore dal 1° apr. 2013 ([RU 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)).
+[^68a-1]: Nuovo testo giusta la cifra I dell’O del 7 dic. 2012, in vigore dal 1° apr. 2013 ([RU 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)).
 
 #### Art. 69 e 70
 
@@ -1507,7 +1531,7 @@ Abrogati
 
 [^tit3-chap6-sec3-1]
 
-[^tit3-chap6-sec3-1]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
+[^tit3-chap6-sec3-1]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
 
 ### (art. 93 cpv. 1 lett. c e cpv. 2 nonché art. 114 LAsi)
 
@@ -1536,9 +1560,9 @@ Sono considerati programmi all’estero anche i provvedimenti adottati nei Paesi
 - b. aiuti ad autorità estere o a enti, segnatamente nell’ambito della procedura d’asilo, dell’informazione, dell’assistenza, della formazione e dell’occupazione nonché dell’alloggio di richiedenti l’asilo o rifugiati;
 - c. cooperazione con autorità estere nel settore del ritorno al fine di agevolare o promuovere il ritorno e il rimpatrio nei Paesi di origine, di provenienza o in Paesi terzi.[^71-2]
 
-[^tit3-chap6-sec3-2]: Nuovo testo giusta il n. I dell’O del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3991](https://fedlex.data.admin.ch/eli/oc/2020/743)).
-[^71-1]: Nuovo testo giusta il n. I dell’O del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3991](https://fedlex.data.admin.ch/eli/oc/2020/743)).
-[^71-2]: Nuovo testo giusta il n. I dell’O del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3991](https://fedlex.data.admin.ch/eli/oc/2020/743)).
+[^tit3-chap6-sec3-2]: Nuovo testo giusta la cifra I dell’O del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3991](https://fedlex.data.admin.ch/eli/oc/2020/743)).
+[^71-1]: Nuovo testo giusta la cifra I dell’O del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3991](https://fedlex.data.admin.ch/eli/oc/2020/743)).
+[^71-2]: Nuovo testo giusta la cifra I dell’O del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3991](https://fedlex.data.admin.ch/eli/oc/2020/743)).
 
 #### Art. 72
 
@@ -1548,13 +1572,13 @@ Sono considerati programmi all’estero anche i provvedimenti adottati nei Paesi
 
 <sup>2</sup> La competenza per la pianificazione e l’attuazione dei programmi di cui all’articolo 71 spetta alla SEM. Può affidare l’esecuzione di questi compiti alla DSC o a terzi.[^72-1]
 
-[^72-1]: Nuovo testo giusta il n. I dell’O del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3991](https://fedlex.data.admin.ch/eli/oc/2020/743)).
+[^72-1]: Nuovo testo giusta la cifra I dell’O del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3991](https://fedlex.data.admin.ch/eli/oc/2020/743)).
 
 ### Sezione 4: Aiuto individuale al ritorno
 
 [^tit3-chap6-sec4-1]
 
-[^tit3-chap6-sec4-1]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
+[^tit3-chap6-sec4-1]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
 
 ### (art. 93 cpv. 1 lett. d LAsi)
 
@@ -1578,10 +1602,10 @@ All’aiuto individuale al ritorno può far capo chiunque abbia comprovatamente 
 
 <sup>5</sup> Nei centri della Confederazione l’aiuto individuale al ritorno e l’aiuto materiale supplementare sono corrisposti in misura decrescente in considerazione della fase procedurale e della durata del soggiorno.[^74-4]
 
-[^74-1]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^74-2]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^74-3]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^74-4]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^74-1]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^74-2]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^74-3]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^74-4]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 
 #### Art. 74a
 
@@ -1591,7 +1615,7 @@ All’aiuto individuale al ritorno può far capo chiunque abbia comprovatamente 
 
 <sup>2</sup> I costi per la partenza e il versamento delle spese di viaggio sono rimborsati dalla SEM indipendentemente dalla concessione dell’aiuto individuale al ritorno giusta l’articolo 59 capoverso 1 lettera a e l’articolo 59*a*.
 
-[^74a-1]: Abrogato dal n. I dell’O del 7 dic. 2012, con effetto dal 1° apr. 2013 ([RU 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)).
+[^74a-1]: Abrogato dalla cifra I dell’O del 7 dic. 2012, con effetto dal 1° apr. 2013 ([RU 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)).
 
 #### Art. 75
 
@@ -1611,7 +1635,7 @@ All’aiuto individuale al ritorno può far capo chiunque abbia comprovatamente 
 
 <sup>2</sup> Non è concesso l’aiuto individuale al ritorno se la persona interessata prosegue il proprio viaggio a destinazione di uno Stato di cui all’articolo 76*a*.
 
-[^76-1]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^76-1]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 
 #### Art. 76a
 
@@ -1626,8 +1650,8 @@ Sono esclusi dall’aiuto individuale al ritorno:[^76a-2]
 
 <sup>2</sup> La SEM può consentire deroghe per persone con esigenze personali, sociali o professionali particolari in termini di reintegrazione nello Stato di destinazione.
 
-[^76a-1]: Introdotto dal n. I dell’O del 7 dic. 2012, in vigore dal 1° apr. 2013 ([RU 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)).
-[^76a-2]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^76a-1]: Introdotto dalla cifra I dell’O del 7 dic. 2012, in vigore dal 1° apr. 2013 ([RU 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)).
+[^76a-2]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 
 #### Art. 77
 
@@ -1635,7 +1659,7 @@ Sono esclusi dall’aiuto individuale al ritorno:[^76a-2]
 
 La SEM decide su domanda dei servizi cantonali competenti o dei terzi incaricati in merito alla concessione dell’aiuto individuale al ritorno.
 
-[^77-1]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^77-1]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 
 #### Art. 78
 
@@ -1643,7 +1667,7 @@ La SEM decide su domanda dei servizi cantonali competenti o dei terzi incaricati
 
 La SEM o i terzi da essa incaricati possono versare sussidi di aiuto individuale al ritorno negli aeroporti internazionali o nel Paese di destinazione.
 
-[^78-1]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^78-1]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 
 ### Capitolo 7: ...
 
@@ -1651,7 +1675,7 @@ La SEM o i terzi da essa incaricati possono versare sussidi di aiuto individuale
 
 [^7980-1]
 
-[^7980-1]: Abrogati dal n. I dell’O dell’8 giu. 2018, con effetto dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^7980-1]: Abrogati dalla cifra I dell’O dell’8 giu. 2018, con effetto dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 
 ## Titolo 4: Disposizioni finali
 
@@ -1705,9 +1729,9 @@ L’ordinanza 2 del 22 maggio 1991[^81-1] sull’asilo è abrogata.
 
 <sup>3</sup> La durata di validità dei seguenti articoli, limitata al 28 settembre 2015[^83-2] secondo il diritto anteriore, è prorogata sino al 28 settembre 2019: articoli 41 e 53 lettere d ed e.[^83-3]
 
-[^83-1]: Nuovo testo giusta il n. I dell’O del 5 giu. 2015, in vigore dal 29 set. 2015 ([RU 2015 2053](https://fedlex.data.admin.ch/eli/oc/2015/382)).
+[^83-1]: Nuovo testo giusta la cifra I dell’O del 5 giu. 2015, in vigore dal 29 set. 2015 ([RU 2015 2053](https://fedlex.data.admin.ch/eli/oc/2015/382)).
 [^83-2]: [RU 2013 3065](https://fedlex.data.admin.ch/eli/oc/2013/595)
-[^83-3]: Introdotto dal n. I dell’O del 5 giu. 2015, in vigore dal 29 set. 2015 ([RU 2015 2053](https://fedlex.data.admin.ch/eli/oc/2015/382)).
+[^83-3]: Introdotto dalla cifra I dell’O del 5 giu. 2015, in vigore dal 29 set. 2015 ([RU 2015 2053](https://fedlex.data.admin.ch/eli/oc/2015/382)).
 
 ## Disposizioni finali della modifica del 24 marzo 2004
 
@@ -1717,7 +1741,7 @@ L’ordinanza 2 del 22 maggio 1991[^81-1] sull’asilo è abrogata.
 
 La Confederazione versa ai Cantoni le somme forfettarie per le spese d’aiuto sociale secondo l’articolo 88 capoverso 1 lettera a della LAsi per le persone oggetto di una decisione di non entrata nel merito ai sensi degli articoli 32–34 e di una decisione d’allontanamento ai sensi dell’articolo 44 della LAsi, passate in giudicato prima dell’entrata in vigore della presente modifica d’ordinanza, fino al massimo alla scadenza del termine di partenza. Se la Confederazione ha garantito ai Cantoni un ulteriore rimborso delle spese d’aiuto sociale nel quadro del sostegno all’esecuzione ai sensi dell’articolo 22*a* della legge federale del 26 marzo 1931[^u1-2] concernente la dimora e il domicilio degli stranieri (LDDS), versa loro le somme forfettarie secondo l’articolo 88 capoverso 1 lettera a della LAsi per nove mesi al massimo dall’entrata in vigore della presente modifica di ordinanza. Questo a condizione che i Cantoni abbiano inoltrato la domanda di sostegno all’esecuzione, compresa l’assunzione delle spese, entro la fine del mese dall’entrata in vigore della presente ordinanza.
 
-[^u1-2]: [CS **1** 117; [RU 1949 225](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225); **1987** 166; **1988** 33; [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 3 cpv. 2; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)n. II 11, [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)n. III; [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146); [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148), [2253](https://fedlex.data.admin.ch/eli/oc/1999/356), [2262](https://fedlex.data.admin.ch/eli/oc/1999/358)all. n. 1; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. IV 2; [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)n. I 1, [701](https://fedlex.data.admin.ch/eli/oc/2002/140)n. I 1, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)all. n. 3; [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. n. II 2; [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 1, [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)n. I 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)all. n. 2; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 n. 1; [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)art. 18 n. 1, [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 3, [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)all. n. 1, [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)all. n. 1; [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)all. n. 1. [RU 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)all. n. I]. Vedi ora: la LF del 16 dic. 2005 sugli stranieri e la loro integrazione ([RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)).
+[^u1-2]: [CS **1** 117; [RU 1949 225](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225); **1987** 166; **1988** 33; [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 3 cpv. 2; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)cifra II n. 11, [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)cifra III; [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146); [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148), [2253](https://fedlex.data.admin.ch/eli/oc/1999/356), [2262](https://fedlex.data.admin.ch/eli/oc/1999/358)all. n. 1; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra IV n. 2; [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)cifra I n. 1, [701](https://fedlex.data.admin.ch/eli/oc/2002/140)cifra I n. 1, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)all. n. 3; [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. cifra II n. 2; [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)cifra I n. 1, [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)cifra I n. 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)all. n. 2; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 n. 1; [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)art. 18 n. 1, [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 3, [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)all. n. 1, [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)all. n. 1; [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)all. n. 1. [RU 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)all. cifra I]. Vedi ora: la LF del 16 dic. 2005 sugli stranieri e la loro integrazione ([RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)).
 
 ## Disposizioni finali della modifica del 3 dicembre 2004
 
@@ -1828,3 +1852,13 @@ Per i centri della Confederazione e i centri speciali della Confederazione tempo
 <sup>1</sup> Il calcolo, la concessione nonché il versamento e il rimborso degli importi forfettarie secondo gli articoli 20–27a prima dell’entrata in vigore della presente modifica d’ordinanza sono retti dal vecchio diritto.
 
 <sup>2</sup> All’entrata in vigore della presente modifica, la SEM adegua gli importi contenuti nelle seguenti disposizioni allo stato dell’indice nazionale dei prezzi al consumo del 31 ottobre 2022: articoli 22 capoversi 1 e 5 nonché 26 capoversi 1 e 5.
+
+## Disposizione transitoria della modifica del 28 maggio 2025
+
+[^u12-1]
+
+[^u12-1]: [RU 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)
+
+<sup>1</sup> Se una persona ammessa provvisoriamente è riconosciuta in un secondo momento come rifugiato o apolide prima dell’entrata in vigore della presente modifica, la somma forfettaria dopo il riconoscimento è corrisposta per la durata dell’obbligo di rimborsare le spese ai sensi dell’articolo 24 capoverso 1 lettere a–d<sup>bis</sup>, ma al massimo fino a che la durata complessiva del rimborso delle spese per la persona interessata raggiunge sette anni.
+
+<sup>2</sup> La durata complessiva del rimborso delle spese viene calcolata a contare dall’entrata in Svizzera dopo la quale è stata ordinata per la prima volta l’ammissione provvisoria.

@@ -4,11 +4,11 @@ title: "Asylverordnung 2 vom 11. August 1999 über Finanzierungsfragen (Asylvero
 short: AsylV 2
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/360"
 language: de
-version: 2024-06-26
+version: 2025-07-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20240626/de/xml/fedlex-data-admin-ch-eli-cc-1999-360-20240626-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20240626/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20250701/de/xml/fedlex-data-admin-ch-eli-cc-1999-360-20250701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20240626/de"
 
 (Asylverordnung 2, AsylV 2)
 
-vom 11. August 1999 (Stand am 26. Juni 2024)
+vom 11. August 1999 (Stand am 1. Juli 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -73,13 +73,18 @@ Vorbehältlich der Artikel 82 Absatz 4 und Artikel 83*a* des AsylG richten sich 
 
 - a. Personen mit einem rechtskräftigen Nichteintretensentscheid oder einem rechtskräftig abgewiesenen Asylgesuch, denen eine Ausreisefrist angesetzt worden ist;
 - b. Personen in einem Verfahren nach Artikel 111*b* oder 111*c* AsylG;
-- c. Personen, deren vorläufige Aufnahme rechtskräftig aufgehoben wurde.[^3-5]
+- c.[^3-5] Personen, mit einem rechtskräftigen Nichteintretensentscheid oder einem rechtskräftig abgewiesenen Gesuch um vorübergehenden Schutz, denen eine Ausreisefrist angesetzt worden ist;
+- d.[^3-6] Personen, deren vorübergehender Schutz rechtskräftig widerrufen wurde und denen eine Ausreisefrist angesetzt worden ist;
+- e.[^3-7] Personen, deren vorläufige Aufnahme rechtskräftig aufgehoben wurde und denen eine Ausreisefrist angesetzt worden ist.[^3-8]
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
 [^3-2]: Fassung gemäss Ziff. I der V vom 13. Dez. 2013, in Kraft seit 1. Febr. 2014 ([AS 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)).
 [^3-3]: Fassung des zweiten Satzes gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
 [^3-4]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
-[^3-5]: Fassung gemäss Ziff. I der V vom 13. Dez. 2013, in Kraft seit 1. Febr. 2014 ([AS 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)).
+[^3-5]: Fassung gemäss Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
+[^3-6]: Eingefügt durch Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
+[^3-7]: Eingefügt durch Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
+[^3-8]: Fassung gemäss Ziff. I der V vom 13. Dez. 2013, in Kraft seit 1. Febr. 2014 ([AS 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)).
 
 #### Art. 4
 
@@ -308,23 +313,33 @@ Aufgehoben
 
 ### (Art. 88 und 89 AsylG; Art. 87 Abs. 1 Bst. a und 87 Abs. 3 AIG)
 
-Der Bund vergütet den Kantonen Globalpauschalen für Personen während der Dauer des Asylverfahrens, der vorläufigen Aufnahme und der vorübergehenden Schutzgewährung. Ausgenommen davon sind Personen während der Dauer eines Verfahrens nach Artikel 111*c* AsylG.[^20-2] Er vergütet diese Pauschalen ab Beginn des Monats, welcher der Zuweisung an einen Kanton, dem Entscheid über die vorläufige Aufnahme oder der Gewährung des vorübergehenden Schutzes folgt, bis und mit dem Ende des Monats, in dem:[^20-3]
+<sup>1</sup>
 
-- a. der Nichteintretens- oder der negative Asyl- und Wegweisungsentscheid rechtskräftig wird;
-- b. das Asylgesuch abgeschrieben wird;
+Der Bund vergütet den Kantonen Globalpauschalen für Personen während des Asylverfahrens, während des Verfahrens zur Gewährung vorübergehenden Schutzes, während der vorläufigen Aufnahme und während der vorübergehenden Schutzgewährung. Ausgenommen davon sind Personen während eines Verfahrens nach Artikel 111*c* AsylG. Er vergütet diese Pauschalen ab Beginn des Monats, welcher der Zuweisung an einen Kanton folgt, bis zum Ende des Monats, in dem:[^20-2]
+
+- a.[^20-3] sowohl der Nichteintretens- oder der negative Asyl- oder Schutzgewährungsentscheid als auch der jeweilige Wegweisungsentscheid rechtskräftig werden;
+- b.[^20-4] das Asylgesuch oder das Gesuch um vorübergehenden Schutz abgeschrieben wird;
 - c. eine Person die Schweiz definitiv verlassen hat oder unkontrolliert abgereist ist;
-- d.[^20-4] die vorläufige Aufnahme erlischt oder rechtskräftig aufgehoben wird, längstens aber während sieben Jahren seit derjenigen Einreise, nach welcher die vorläufige Aufnahme erstmals angeordnet worden ist;
-- e. der vorübergehende Schutz erlischt oder rechtskräftig aufgehoben wird, längstens aber bis zum Zeitpunkt, in dem eine Aufenthaltsbewilligung nach Artikel 74 Absatz 2 des AsylG zu erteilen ist;
-- f.[^20-5] eine ausländerrechtliche Aufenthalts- oder Niederlassungsbewilligung erteilt wird oder nach Artikel 42 oder 43 Absätze 1, 5 und 6 AIG[^20-6] oder nach Artikel 3 des Anhangs I des Abkommens zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit (FZA)[^20-7] oder nach Artikel 3 Anhang K Anlage 1 des Übereinkommens zur Errichtung der Europäischen Freihandelsassoziation (EFTA)[^20-8] ein Anspruch darauf besteht; entsteht ein Anspruch auf Erteilung einer Bewilligung, wird während der Dauer des Bewilligungsverfahrens die Globalpauschale nicht vergütet; liegt ein rechtskräftiger kantonaler Entscheid bezüglich der Verweigerung der Aufenthalts- oder Niederlassungsbewilligung vor, so vergütet der Bund dem Kanton auf Gesuch hin die Globalpauschale rückwirkend bis längstens zum Wegfall des Verweigerungsgrundes.
+- d.[^20-5] die vorläufige Aufnahme erlischt oder rechtskräftig aufgehoben wird, längstens aber während sieben Jahren seit derjenigen Einreise, nach welcher die vorläufige Aufnahme erstmals angeordnet worden ist;
+- e.[^20-6] der vorübergehende Schutz erlischt oder rechtskräftig widerrufen oder aufgehoben wird, längstens aber bis zum Zeitpunkt, in dem eine Aufenthaltsbewilligung nach Artikel 74 Absatz 2 AsylG zu erteilen ist;
+- f.[^20-7] eine ausländerrechtliche Aufenthalts- oder Niederlassungsbewilligung erteilt wird oder nach Artikel 42 oder 43 Absätze 1, 5 und 6 AIG[^20-8] oder nach Artikel 3 des Anhangs I des Abkommens zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit (FZA)[^20-9] oder nach Artikel 3 Anhang K Anlage 1 des Übereinkommens zur Errichtung der Europäischen Freihandelsassoziation (EFTA)[^20-10] ein Anspruch darauf besteht; entsteht ein Anspruch auf Erteilung einer Bewilligung, wird während der Dauer des Bewilligungsverfahrens die Globalpauschale nicht vergütet; liegt ein rechtskräftiger kantonaler Entscheid bezüglich der Verweigerung der Aufenthalts- oder Niederlassungsbewilligung vor, so vergütet der Bund dem Kanton auf Gesuch hin die Globalpauschale rückwirkend bis längstens zum Wegfall des Verweigerungsgrundes.
+
+<sup>2</sup> Wird eine Person, der vorübergehender Schutz gewährt worden ist, zu einem späteren Zeitpunkt vorläufig aufgenommen, so wird die Dauer der Schutzgewährung vollumfänglich an die maximale Dauer der Kostenerstattungspflicht nach Absatz 1 Buchstabe d angerechnet.[^20-11]
+
+<sup>3</sup> Wird einer vorläufig aufgenommenen Person zu einem späteren Zeitpunkt der vorübergehende Schutz gewährt, so wird die Dauer ihres bisherigen Aufenthalts ab dem Zeitpunkt derjenigen Einreise in die Schweiz, nach welcher die vorläufige Aufnahme erstmals angeordnet worden ist, vollumfänglich an die maximale Dauer der Kostenerstattungspflicht nach Absatz 1 Buchstabe e angerechnet.[^20-12]
 
 [^20-1]: Siehe auch die UeB Änd. 7.12.2012 und 30.3.2022 am Ende dieses Textes.
-[^20-2]: Fassung des zweiten Satzes gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
-[^20-3]: Fassung gemäss Ziff. I der V vom 13. Dez. 2013, in Kraft seit 1. Febr. 2014 ([AS 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)).
-[^20-4]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^20-2]: Fassung gemäss Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
+[^20-3]: Fassung gemäss Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
+[^20-4]: Fassung gemäss Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
 [^20-5]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
-[^20-6]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^20-7]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^20-8]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^20-6]: Fassung gemäss Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
+[^20-7]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^20-8]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^20-9]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^20-10]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^20-11]: Eingefügt durch Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
+[^20-12]: Eingefügt durch Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
 
 #### Art. 21
 
@@ -370,7 +385,7 @@ Bei wesentlichen Veränderungen auf dem Liegenschaftsmarkt kann das SEM die kant
 Der Anteil für die Kosten beträgt:
 
 <table>
-<tr><td></td><td>Asylsuchende</td><td>Vorläufig Aufgenommene und Schutzbedürftige ohne Aufenthaltsbewilligung</td></tr>
+<tr><th></th><th>Asylsuchende</th><th>Vorläufig Aufgenommene und Schutzbedürftige ohne Aufenthaltsbewilligung</th></tr>
 <tr><td>Mietkosten</td><td>216.66 CHF</td><td>184.03 CHF</td></tr>
 <tr><td>Übrige Sozialhilfekosten</td><td>617.34 CHF</td><td>526.78 CHF</td></tr>
 <tr><td>Betreuungskosten</td><td>273.90 CHF</td><td>246.98 CHF</td></tr>
@@ -484,7 +499,11 @@ Der Bund vergütet den Kantonen Globalpauschalen für Flüchtlinge und Staatenlo
 
 <sup>3</sup> Der Bund zahlt den Kantonen für Schutzbedürftige mit einer Aufenthaltsbewilligung die Hälfte der Globalpauschale nach Artikel 26 vom Tag an, an dem diese nach Artikel 74 Absatz 2 des AsylG einen Anspruch auf die Erteilung einer Aufenthaltsbewilligung haben, bis und mit dem Tag, an dem sie erstmals eine Niederlassungsbewilligung erhalten oder ein Anspruch darauf besteht, längstens aber bis zum Zeitpunkt, in dem eine solche nach Artikel 74 Absatz 3 des AsylG erteilt werden könnte.
 
-<sup>4</sup> und <sup>5</sup> …[^24-10]
+<sup>4</sup> Wird eine rechtskräftig vorläufig aufgenommene Person zu einem späteren Zeitpunkt als Flüchtling oder staatenlose Person anerkannt, so wird die Dauer ihres bisherigen Aufenthalts ab dem Zeitpunkt derjenigen Einreise in die Schweiz, nach welcher die vorläufige Aufnahme erstmals angeordnet worden ist, vollumfänglich an die maximale Dauer der Kostenerstattungspflicht nach Absatz 1 Buchstaben a–d<sup>bis</sup> angerechnet.[^24-10]
+
+<sup>5</sup> Wird eine Person, der vorübergehender Schutz gewährt worden ist, zu einem späteren Zeitpunkt als Flüchtling oder staatenlose Person anerkannt, so wird die Dauer der Schutzgewährung vollumfänglich an die maximale Dauer der Kostenerstattungspflicht nach Absatz 1 Buchstaben a–d<sup>bis</sup> angerechnet.[^24-11]
+
+<sup>6</sup> Wird ein anerkannter Flüchtling zu einem späteren Zeitpunkt als staatenlose Person anerkannt oder wird eine anerkannte staatenlose Person zu einem späteren Zeitpunkt als Flüchtling anerkannt, so wird die Dauer des bisherigen Aufenthalts ab Einreichung des Asylgesuchs oder ab Anerkennung der Staatenlosigkeit vollumfänglich an die maximale Dauer der Kostenerstattungspflicht nach Absatz 1 Buchstaben a–d<sup>bis</sup> angerechnet.[^24-12]
 
 [^24-1]: Siehe auch die UeB Änd. 7.12.2012 und 30.3.2022 am Ende dieses Textes.
 [^24-2]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
@@ -495,7 +514,9 @@ Der Bund vergütet den Kantonen Globalpauschalen für Flüchtlinge und Staatenlo
 [^24-7]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 [^24-8]: Fassung gemäss Ziff. I 3 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 [^24-9]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
-[^24-10]: Aufgehoben durch Ziff. I der V vom 8. Juni 2018, mit Wirkung seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^24-10]: Fassung gemäss Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
+[^24-11]: Fassung gemäss Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
+[^24-12]: Eingefügt durch Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
 
 #### Art. 24a
 
@@ -622,20 +643,21 @@ Der vom Bund pro Kanton und Monat geschuldete Gesamtbetrag (B) in Franken basier
 
 Der Bund richtet den Kantonen eine einmalige Pauschale aus für jede Person:
 
-- a. die ein Dublin–Verfahren durchlaufen hat;
-- b. die ein beschleunigtes Verfahren durchlaufen hat;
+- a. die ein Dublin-Verfahren durchlaufen hat;
+- b. die ein beschleunigtes Verfahren oder ein Verfahren zur Gewährung vorübergehenden Schutzes durchlaufen hat;
 - c. die ein erweitertes Verfahren durchlaufen hat; oder
-- d. deren vorläufige Aufnahme aufgehoben worden ist.
+- d. deren vorläufige Aufnahme aufgehoben oder deren vorübergehender Schutz widerrufen worden ist.
 
 <sup>2</sup>
 
 Die Pauschale nach Absatz 1 wird für die betreffende Person entrichtet, wenn:
 
-- a. auf deren Asylgesuch nach Artikel 31*a* Absätze 1 und 3 des AsylG nicht eingetreten wurde, wenn der entsprechende Nichteintretens- und Wegweisungsentscheid rechtskräftig geworden ist und ihr eine Ausreisefrist angesetzt worden ist;
-- b. deren Asylgesuch abgewiesen wurde, wenn der entsprechende Asyl- und Wegweisungsentscheid rechtskräftig geworden ist und ihr eine Ausreisefrist angesetzt worden ist; oder
-- c. deren vorläufige Aufnahme rechtskräftig aufgehoben wurde und ihr eine Ausreisefrist angesetzt worden ist.
+- a. auf ihr Asylgesuch oder ihr Gesuch um vorübergehenden Schutz nicht eingetreten wurde, der entsprechende Nichteintretens- und Wegweisungsentscheid rechtskräftig geworden und ihr eine Ausreisefrist angesetzt worden ist;
+- b. ihr Asylgesuch oder ihr Gesuch um vorübergehenden Schutz abgewiesen wurde, der entsprechende Asyl- oder Schutzgewährungs- und Wegweisungsentscheid rechtskräftig geworden und ihr eine Ausreisefrist angesetzt worden ist;
+- c. ihre vorläufige Aufnahme rechtskräftig aufgehoben wurde und ihr eine Ausreisefrist angesetzt worden ist; oder
+- d. ihr vorübergehender Schutz rechtskräftig widerrufen wurde, der entsprechende Wegweisungsentscheid rechtskräftig geworden und ihr eine Ausreisefrist angesetzt worden ist.
 
-[^28-1]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^28-1]: Fassung gemäss Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
 
 #### Art. 29
 
@@ -643,13 +665,15 @@ Die Pauschale nach Absatz 1 wird für die betreffende Person entrichtet, wenn:
 
 <sup>1</sup> Die Nothilfepauschale für Personen nach Abschluss eines Dublin-Verfahrens beträgt 400 Franken (Indexstand: 31. Oktober 2018). Sie basiert auf einer Bezugsquote von 10 Prozent, einer Bezugsdauer von 80 Tagen und Kosten pro Tag in der Höhe von 50 Franken.
 
-<sup>2</sup> Die Nothilfepauschale für Personen nach Abschluss eines beschleunigten Verfahrens beträgt 2013 Franken (Indexstand: 31. Oktober 2018). Sie basiert auf einer Bezugsquote von 33 Prozent, einer Bezugsdauer von 122 Tagen und Kosten pro Tag in der Höhe von 50 Franken.
+<sup>2</sup> Die Nothilfepauschale für Personen nach Abschluss eines beschleunigten Verfahrens oder eines Verfahrens zur Gewährung vorübergehenden Schutzes beträgt 2013 Franken (Indexstand: 31. Oktober 2018). Sie basiert auf einer Bezugsquote von 33 Prozent, einer Bezugsdauer von 122 Tagen und Kosten pro Tag in der Höhe von 50 Franken.[^29-2]
 
-<sup>3</sup> Die Nothilfepauschale für Personen nach Abschluss eines erweiterten Verfahrens und für Personen, deren vorläufige Aufnahme aufgehoben wurde, beträgt 6006 Franken (Indexstand: 31. Oktober 2018). Sie basiert auf einer Bezugsquote von 66 Prozent, einer Bezugsdauer von 182 Tagen und Kosten pro Tag in der Höhe von 50 Franken.
+<sup>3</sup> Die Nothilfepauschale für Personen nach Abschluss eines erweiterten Verfahrens und für Personen, deren vorläufige Aufnahme aufgehoben oder deren vorübergehender Schutz widerrufen wurde, beträgt 6006 Franken (Indexstand: 31. Oktober 2018). Sie basiert auf einer Bezugsquote von 66 Prozent, einer Bezugsdauer von 182 Tagen und Kosten pro Tag in der Höhe von 50 Franken.[^29-3]
 
 <sup>4</sup> Das SEM passt die Nothilfepauschalen jeweils Ende des Jahres für das folgende Kalenderjahr dem Landesindex der Konsumentenpreise an.
 
 [^29-1]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^29-2]: Fassung gemäss Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
+[^29-3]: Fassung gemäss Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
 
 #### Art. 30
 
@@ -1832,3 +1856,13 @@ Für die im Jahre 2019 vorübergehend stillgelegten Zentren des Bundes und beson
 <sup>1</sup> Die Berechnung, die Ausrichtung sowie die Nach- und Rückzahlungen der Pauschalen nach den Artikeln 20‒27*a* für die Zeit vor dem Inkrafttreten dieser Verordnungsänderung richten sich nach altem Recht.
 
 <sup>2</sup> Auf den Zeitpunkt des Inkrafttretens dieser Änderung passt das SEM die in den folgenden Bestimmungen enthaltenen Beträge dem Stand des Landesindexes der Konsumentenpreise vom 31. Oktober 2022 an: Artikel 22 Absätze 1 und 5 und Artikel 26 Absätze 1 und 5.
+
+## Übergangsbestimmung zur Änderung vom 28. Mai 2025
+
+[^u12-1]
+
+[^u12-1]: [AS 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)
+
+<sup>1</sup> Ist die spätere Anerkennung einer vorläufig aufgenommenen Person als Flüchtling oder staatenlose Person vor Inkrafttreten dieser Änderung erfolgt, so wird die Pauschale nach der Anerkennung während der in Artikel 24 Absatz 1 Buchstaben a–d<sup>bis</sup> vorgesehenen Dauer der Kostenerstattungspflicht vergütet, längstens jedoch bis zum Zeitpunkt, an dem die Gesamtdauer der Kostenerstattung für die betroffene Person sieben Jahre erreicht.
+
+<sup>2</sup> Die Gesamtdauer der Kostenerstattung berechnet sich ab dem Zeitpunkt derjenigen Einreise in die Schweiz, nach welcher die vorläufige Aufnahme erstmals angeordnet worden ist.

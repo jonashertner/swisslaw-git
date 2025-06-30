@@ -4,11 +4,11 @@ title: "Ordonnance 2 du 11 août 1999 sur l'asile relative au financement (Ordon
 short: OA 2
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/360"
 language: fr
-version: 2024-06-26
+version: 2025-07-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20240626/fr/xml/fedlex-data-admin-ch-eli-cc-1999-360-20240626-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20240626/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-1999-360-20250701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20240626/fr"
 
 (Ordonnance 2 sur l’asile, OA 2)
 
-du 11 août 1999 (État le 26 juin 2024)
+du 11 août 1999 (État le 1<sup>er</sup> juillet 2025)
 
 Le Conseil fédéral suisse,
 
@@ -71,13 +71,18 @@ Sous réserve des dispositions des art. 82, al. 4, et 83*a* LAsi, la fixation et
 
 - a. les personnes frappées d’une décision de non-entrée en matière exécutoire ou dont la décision d’asile négative est entrée en force et auxquelles un délai de départ a été imparti;
 - b. les personnes faisant l’objet d’une procédure régie par l’art. 111*b* ou 111*c* LAsi;
-- c. les personnes dont la levée de l’admission provisoire est entrée en force.[^3-5]
+- c.[^3-5] les personnes frappées d’une décision de non-entrée en matière exécutoire ou dont la décision négative d’octroi d’une protection provisoire est entrée en force et auxquelles un délai de départ a été imparti;
+- d.[^3-6] les personnes dont la révocation de la protection provisoire est entrée en force et auxquelles un délai de départ a été imparti;
+- e.[^3-7] les personnes dont la levée de l’admission provisoire est entrée en force et auxquelles un délai de départ a été imparti.[^3-8]
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
 [^3-2]: Nouvelle teneur selon le ch. I de l’O du 13 déc. 2013, en vigueur depuis le 1<sup>er</sup> fév. 2014 ([RO 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)).
 [^3-3]: Nouvelle teneur de la phrase selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
 [^3-4]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
-[^3-5]: Nouvelle teneur selon le ch. I de l’O du 13 déc. 2013, en vigueur depuis le 1<sup>er</sup> fév. 2014 ([RO 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)).
+[^3-5]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
+[^3-6]: Introduite par le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
+[^3-7]: Introduite par le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
+[^3-8]: Nouvelle teneur selon le ch. I de l’O du 13 déc. 2013, en vigueur depuis le 1<sup>er</sup> fév. 2014 ([RO 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)).
 
 #### Art. 4
 
@@ -274,16 +279,17 @@ Le système d’information sur la taxe spéciale renferme les données suivante
 
 ### (art. 87, al. 5, LAsi)
 
-<sup>1</sup> Les requérants d’asile, les personnes à protéger sans autorisation de séjour, les personnes admises à titre provisoire, les personnes frappées d’une décision de renvoi et les personnes frappées d’une décision d’expulsion pénale entrée en force qui quittent la Suisse de manière autonome dans les sept mois suivant le dépôt de leur demande d’asile ou de leur demande de protection temporaire peuvent demander au SEM que les valeurs patrimoniales qui leur avaient été retirées leur soient restituées avant leur départ.[^18-1]
+<sup>1</sup> Les requérants d’asile, les personnes à protéger sans autorisation de séjour, les personnes admises à titre provisoire, les personnes frappées d’une décision de renvoi et les personnes frappées d’une décision d’expulsion pénale entrée en force qui quittent la Suisse de manière autonome dans les sept mois suivant le dépôt de leur demande d’asile ou de leur demande de protection provisoire[^18-1] peuvent demander au SEM que les valeurs patrimoniales qui leur avaient été retirées leur soient restituées avant leur départ.[^18-2]
 
 <sup>2</sup> L’al. 1 s’applique également aux personnes admises à titre provisoire qui quittent la Suisse de manière autonome dans les sept mois suivant le dépôt de leur demande d’asile ou le prononcé de l’admission provisoire.
 
 <sup>3</sup> En règle générale, les valeurs patrimoniales saisies ou leur valeur actualisée sont restituées en espèces au moment du départ, à l’aéroport. Sur demande, le montant à restituer peut être viré à l’étranger après le départ.
 
-<sup>4</sup> …[^18-2]
+<sup>4</sup> …[^18-3]
 
-[^18-1]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6545](https://fedlex.data.admin.ch/eli/oc/2017/721)).
-[^18-2]: Abrogé par le ch. I de l’O du 15 nov. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6545](https://fedlex.data.admin.ch/eli/oc/2017/721)).
+[^18-1]: Nouvelle expression selon le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)). Il a été tenu compte de cette mod. dans tout le texte.
+[^18-2]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6545](https://fedlex.data.admin.ch/eli/oc/2017/721)).
+[^18-3]: Abrogé par le ch. I de l’O du 15 nov. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6545](https://fedlex.data.admin.ch/eli/oc/2017/721)).
 
 #### Art. 19
 
@@ -305,22 +311,33 @@ Abrogé
 
 ### (art. 88 et 89 LAsi; art. 87, al.1, let. a, et 87, al. 3, LEI)
 
-La Confédération verse aux cantons des forfaits globaux pour les personnes pendant la durée de la procédure d’asile, de l’admission provisoire ou de la protection temporaire. En sont exclues les personnes pendant la durée d’une procédure qui relève de l’art. 111*c* LAsi. La Confédération verse ce forfait à compter du début du mois qui suit l’attribution de l’intéressé à un canton ou la décision relative à l’octroi de l’admission provisoire ou de la protection temporaire, jusqu’à la fin du mois où:[^20-2]
+<sup>1</sup>
 
-- a. la décision de non-entrée en matière ou la décision négative d’asile assortie d’une décision de renvoi entre en force;
-- b. la demande d’asile est classée;
+La Confédération verse aux cantons des forfaits globaux pour les personnes pendant la procédure d’asile, la procédure d’octroi de la protection provisoire, l’admission provisoire et la protection provisoire. En sont exclues les personnes pendant une procédure qui relève de l’art. 111*c* LAsi. La Confédération verse ces forfaits à compter du début du mois qui suit l’attribution de l’intéressé à un canton, jusqu’à la fin du mois où:[^20-2]
+
+- a.[^20-3] tant la décision de non-entrée en matière ou la décision négative d’asile ou d’octroi d’une protection que la décision de renvoi s’y rapportant entrent en force;
+- b.[^20-4] la demande d’asile ou de protection provisoire est classée;
 - c. l’intéressé quitte définitivement la Suisse ou part sans annoncer son départ aux autorités compétentes;
-- d.[^20-3] l’admission provisoire prend fin ou la décision de lever cette mesure entre en force, mais au plus pendant sept ans à compter de l’entrée de l’intéressé en Suisse à la suite de laquelle l’admission provisoire a été ordonnée pour la première fois;
-- e. la protection temporaire prend fin ou la décision de lever cette mesure entre en force, mais au plus tard jusqu’au moment où une autorisation de séjour doit être délivrée conformément à l’art. 74, al. 2, LAsi;
-- f.[^20-4] une autorisation de séjour ou d’établissement est délivrée en vertu du droit des étrangers ou un droit à l’octroi d’une telle autorisation naît pour l’intéressé conformément à l’art. 42 ou 43, al. 1, 5 et 6, LEI[^20-5] ou à l’art. 3 de l’annexe I, de l’Accord entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes (ALCP)[^20-6] ou encore à l’art. 3 de l’appendice 1 de l’annexe K de la Convention instituant l’Association européenne de libre-échange (AELE)[^20-7]; en présence d’un droit à l’octroi d’une autorisation, le forfait global n’est pas versé pendant la durée de la procédure d’octroi de l’autorisation; si l’autorisation de séjour ou d’établissement est refusée dans le cadre d’une décision cantonale entrée en force, la Confédération verse rétroactivement au canton, sur demande, le forfait global au plus jusqu’à ce que le motif du refus soit devenu caduc.
+- d.[^20-5] l’admission provisoire prend fin ou la décision de lever cette mesure entre en force, mais au plus pendant sept ans à compter de l’entrée de l’intéressé en Suisse à la suite de laquelle l’admission provisoire a été ordonnée pour la première fois;
+- e.[^20-6] la protection provisoire prend fin ou la décision de révoquer ou de lever cette mesure entre en force, mais au plus tard jusqu’au moment où une autorisation de séjour doit être délivrée conformément à l’art. 74, al. 2, LAsi;
+- f.[^20-7] une autorisation de séjour ou d’établissement est délivrée en vertu du droit des étrangers ou un droit à l’octroi d’une telle autorisation naît pour l’intéressé conformément à l’art. 42 ou 43, al. 1, 5 et 6, LEI[^20-8] ou à l’art. 3 de l’annexe I, de l’Accord entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes (ALCP)[^20-9] ou encore à l’art. 3 de l’appendice 1 de l’annexe K de la Convention instituant l’Association européenne de libre-échange (AELE)[^20-10]; en présence d’un droit à l’octroi d’une autorisation, le forfait global n’est pas versé pendant la durée de la procédure d’octroi de l’autorisation; si l’autorisation de séjour ou d’établissement est refusée dans le cadre d’une décision cantonale entrée en force, la Confédération verse rétroactivement au canton, sur demande, le forfait global au plus jusqu’à ce que le motif du refus soit devenu caduc.
+
+<sup>2</sup> Lorsqu’une personne ayant obtenu une protection provisoire est par la suite admise à titre provisoire, la durée maximale de l’obligation de rembourser les frais prévue à l’al. 1, let. d, inclut la durée totale de la protection provisoire.[^20-11]
+
+<sup>3</sup> Lorsqu’une personne admise à titre provisoire obtient par la suite une protection provisoire, la durée maximale de l’obligation de rembourser les frais prévue à l’al. 1, let. e, inclut la durée totale du séjour déjà effectuée à compter de l’entrée de l’intéressé en Suisse à la suite de laquelle l’admission provisoire a été ordonnée pour la première fois.[^20-12]
 
 [^20-1]: Voir aussi les disp. trans. de la mod. du 7 déc. 2012 et du 30 mars 2022 à la fin du texte.
-[^20-2]: Nouvelle teneur des 2<sup>e</sup> et 3<sup>e</sup> phrases selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
-[^20-3]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
-[^20-4]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
-[^20-5]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^20-6]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^20-7]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^20-2]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
+[^20-3]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
+[^20-4]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
+[^20-5]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^20-6]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
+[^20-7]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^20-8]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^20-9]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^20-10]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^20-11]: Introduit par le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
+[^20-12]: Introduit par le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
 
 #### Art. 21
 
@@ -480,7 +497,11 @@ La Confédération verse aux cantons des forfaits globaux pour les réfugiés et
 
 <sup>3</sup> La Confédération verse aux cantons, conformément à l’art. 26, la moitié du forfait global en faveur des personnes à protéger titulaires d’une autorisation de séjour du jour où elles ont droit à une telle autorisation en vertu de l’art. 74, al. 2, LAsi au jour où elles obtiennent pour la première fois une autorisation d’établissement ou qu’elles ont droit à une telle autorisation, mais au plus tard jusqu’au moment où une telle autorisation pourrait être délivrée conformément à l’art. 74, al. 3, LAsi.
 
-<sup>4</sup> et <sup>5</sup> …[^24-10]
+<sup>4</sup> Lorsqu’une personne ayant fait l’objet d’une décision d’admission provisoire exécutoire est par la suite reconnue comme réfugié ou comme apatride, la durée maximale de l’obligation de rembourser les frais prévue à l’al. 1, let. a à d<sup>bis</sup>, inclut la durée totale du séjour déjà effectuée à compter de l’entrée de l’intéressé en Suisse à la suite de laquelle l’admission provisoire a été ordonnée pour la première fois.[^24-10]
+
+<sup>5</sup> Lorsqu’une personne ayant obtenu une protection provisoire est par la suite reconnue comme réfugié ou comme apatride, la durée maximale de l’obligation de rembourser les frais prévue à l’al. 1, let. a à d<sup>bis</sup>, inclut la durée totale de la protection provisoire.[^24-11]
+
+<sup>6</sup> Lorsqu’un réfugié reconnu est par la suite reconnu comme apatride ou qu’un apatride reconnu est par la suite reconnu comme réfugié, la durée maximale de l’obligation de rembourser les frais prévue à l’al. 1, let. a à d<sup>bis</sup>, inclut la durée totale du séjour déjà effectuée à compter de la date du dépôt de sa demande d’asile ou de la reconnaissance de son apatridie.[^24-12]
 
 [^24-1]: Voir aussi les disp. trans. de la mod. du 7 déc. 2012 et du 30 mars 2022 à la fin du texte.
 [^24-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
@@ -491,7 +512,9 @@ La Confédération verse aux cantons des forfaits globaux pour les réfugiés et
 [^24-7]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 [^24-8]: Nouvelle teneur selon le ch. I 3 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 [^24-9]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
-[^24-10]: Abrogés par le ch. I de l’O du 8 juin 2018, avec effet au 1<sup>er</sup> mars 2019 ([RO 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^24-10]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
+[^24-11]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
+[^24-12]: Introduit par le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
 
 #### Art. 24a
 
@@ -619,19 +642,20 @@ Le montant total (B) en francs que la Confédération verse, par canton et par m
 La Confédération verse aux cantons un forfait unique pour chaque personne:
 
 - a. qui a fait l’objet d’une procédure Dublin;
-- b. qui a fait l’objet d’une procédure accélérée;
+- b. qui a fait l’objet d’une procédure accélérée ou d’une procédure d’octroi de la protection provisoire;
 - c. qui a fait l’objet d’une procédure étendue, ou
-- d. dont l’admission provisoire a été levée.
+- d. dont l’admission provisoire a été levée ou la protection provisoire révoquée.
 
 <sup>2</sup>
 
 Le forfait visé à l’al. 1 est versé pour la personne concernée lorsque:
 
-- a. sa demande d’asile a abouti à une non-entrée en matière conformément à l’art. 31*a*, al. 1 et 3, LAsi, lorsque la décision de non-entrée en matière et de renvoi correspondante est entrée en force, et un délai de départ lui a été imparti;
-- b. sa demande d’asile a été rejetée, lorsque la décision d’asile et de renvoi correspondante est entrée en force, et un délai de départ lui a été imparti, ou
-- c. son admission provisoire a été levée, lorsque la décision correspondante est entrée en force, et un délai de départ lui a été imparti.
+- a. sa demande d’asile ou de protection provisoire a abouti à une non-entrée en matière, lorsque la décision de non-entrée en matière et de renvoi correspondante est entrée en force et qu’un délai de départ lui a été imparti;
+- b. sa demande d’asile ou de protection provisoire a été rejetée, lorsque la décision négative correspondante assortie d’une décision de renvoi est entrée en force et qu’un délai de départ lui a été imparti;
+- c. la levée de son admission provisoire est entrée en force et qu’un délai de départ lui a été imparti, ou
+- d. la révocation de sa protection provisoire est entrée en force, lorsque la décision de renvoi correspondante est entrée en force et qu’un délai de départ lui a été imparti.
 
-[^28-1]: Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^28-1]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
 
 #### Art. 29
 
@@ -639,13 +663,15 @@ Le forfait visé à l’al. 1 est versé pour la personne concernée lorsque:
 
 <sup>1</sup> Le forfait d’aide d’urgence destiné aux personnes dont la procédure Dublin est close s’élève à 400 francs (indice au 31 octobre 2018). Il repose sur un taux de bénéficiaires des prestations de 10 %, une durée de perception des prestations de 80 jours et des coûts journaliers de 50 francs.
 
-<sup>2</sup> Le forfait d’aide d’urgence destiné aux personnes dont la procédure accélérée est close s’élève à 2013 francs (indice au 31 octobre 2018). Il repose sur un taux de bénéficiaires des prestations de 33 %, une durée de perception des prestations de 122 jours et des coûts journaliers de 50 francs.
+<sup>2</sup> Le forfait d’aide d’urgence destiné aux personnes dont la procédure accélérée ou la procédure d’octroi de la protection provisoire est close s’élève à 2013 francs (indice au 31 octobre 2018). Il repose sur un taux de bénéficiaires des prestations de 33 %, une durée de perception des prestations de 122 jours et des coûts journaliers de 50 francs.[^29-2]
 
-<sup>3</sup> Le forfait d’aide d’urgence destiné aux personnes dont la procédure étendue est close ou dont l’admission provisoire a été levée s’élève à 6006 francs (indice au 31 octobre 2018). Il repose sur un taux de bénéficiaires des prestations de 66 %, une durée de perception des prestations de 182 jours et des coûts journaliers de 50 francs.
+<sup>3</sup> Le forfait d’aide d’urgence destiné aux personnes dont la procédure étendue est close, dont l’admission provisoire a été levée ou dont la protection provisoire a été révoquée s’élève à 6006 francs (indice au 31 octobre 2018). Il repose sur un taux de bénéficiaires des prestations de 66 %, une durée de perception des prestations de 182 jours et des coûts journaliers de 50 francs.[^29-3]
 
 <sup>4</sup> À la fin de chaque année, le SEM adapte ces forfaits à l’indice suisse des prix à la consommation pour l’année civile suivante.
 
 [^29-1]: Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^29-2]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
+[^29-3]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
 
 #### Art. 30
 
@@ -708,7 +734,7 @@ Le SEM exploite un système d’information sur le suivi concernant la suppressi
 La Confédération participe à ces frais par une contribution forfaitaire annuelle, calculée selon la formule P × G × Y: 100, sachant que:
 
 - P = contribution forfaitaire unique par personne
-- G = nombre de demandes d’asile et nombre de demandes d’octroi de la protection temporaire d’après la banque de données du SEM
+- G = nombre de demandes d’asile et nombre de demandes d’octroi de la protection provisoire d’après la banque de données du SEM
 - Y = clé de répartition proportionnelle à la population conformément à l’art. 21, annexe 3 de l’ordonnance 1 du 11 août 1999 sur l’asile relative à la procédure[^31-2] [^31-3]
 
 <sup>3</sup> La contribution forfaitaire aux termes de l’al. 2 (variable P) s’élève à 550 francs, selon l’indice suisse des prix à la consommation au 31 octobre 2018. Le SEM l’adapte à cet indice à la fin de chaque année pour l’année civile suivante.[^31-4]
@@ -1823,3 +1849,13 @@ Pour les centres de la Confédération et les centres spécifiques de la Conféd
 <sup>1</sup> Le calcul, le versement ainsi que les paiements complémentaires et les remboursements des forfaits visés aux art. 20 à 27*a* concernant la période précédant l’entrée en vigueur de la présente modification sont régis par l’ancien droit.
 
 <sup>2</sup> À l’entrée en vigueur de la présente modification, le SEM adapte les montants fixés dans les dispositions suivantes à l’indice suisse des prix à la consommation au 31 octobre 2022: art. 22, al. 1 et 5, et 26, al. 1 et 5.
+
+## Disposition transitoire relative à la modification du 28 mai 2025
+
+[^u12-1]
+
+[^u12-1]: [RO 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)
+
+<sup>1</sup> Si une personne admise à titre provisoire est par la suite reconnue comme réfugié ou apatride avant l’entrée en vigueur de la présente modification, le forfait est versé après cette reconnaissance pour la durée de l’obligation de rembourser les frais prévue à l’art. 24, al. 1, let. a à d<sup>bis</sup>, mais au plus jusqu’au moment où la durée totale du remboursement des frais pour la personne concernée atteint 7 ans.
+
+<sup>2</sup> La durée totale du remboursement des frais est calculée à partir de l’entrée en Suisse à la suite de laquelle l’admission provisoire a été ordonnée pour la première fois.
