@@ -4,11 +4,11 @@ title: Ordonnance du 19 juin 1995 sur la réception par type des véhicules rout
 short: ORT
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997"
 language: fr
-version: 2025-05-01
+version: 2025-07-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3997_3997_3997-20250501-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20250501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3997_3997_3997-20250701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20250501/fr"
 
 (ORT)
 
-du 19 juin 1995 (État le 1<sup>er</sup> mai 2025)
+du 19 juin 1995 (État le 1<sup>er</sup> juillet 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu les art. 12, 103 et 106 de la loi fédérale du 19 décembre 1958 sur la circ
 
 arrête:
 
-[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
+[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
 
 ## Chapitre 1 Dispositions générales
@@ -38,7 +38,7 @@ arrête:
 
 <sup>2</sup> Dans la mesure où la présente ordonnance n’en dispose pas autrement, les prescriptions de la loi du 12 juin 2009 sur la sécurité des produits[^1-1] s’appliquent à titre complémentaire.[^1-2]
 
-[^1-1]: [RS 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
+[^1-1]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
 [^1-2]: Nouvelle teneur selon le ch. I 4 de l’O du 11 juin 2010 portant adaptation d’O sectorielles dans le domaine de la sécurité des produits, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2749](https://fedlex.data.admin.ch/eli/oc/2010/358)).
 
 #### Art. 2
@@ -121,7 +121,7 @@ Une fiche de données est délivrée en lieu et place d’une réception par typ
 [^4-2]: Introduit par le ch. I de l’O du 2 sept. 1998 ([RO 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)). Abrogé par le ch. I de l’O du 10 juin 2005, avec effet au 1<sup>er</sup> oct. 2005 ([RO 2005 4193](https://fedlex.data.admin.ch/eli/oc/2005/549)).
 [^4-3]: Abrogé par le ch. I de l’O du 10 juin 2005, avec effet au 1<sup>er</sup> oct. 2005 ([RO 2005 4193](https://fedlex.data.admin.ch/eli/oc/2005/549)).
 [^4-4]: Nouvelle teneur selon le ch. I de l’O du 10 juin 2005, en vigueur depuis le 1<sup>er</sup> oct. 2005 ([RO 2005 4193](https://fedlex.data.admin.ch/eli/oc/2005/549)).
-[^4-5]: O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers (OETV) ([RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)).
+[^4-5]: O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers (OETV) ([RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)).
 [^4-6]: Nouvelle teneur selon le ch. I de l’O du 10 juin 2005, en vigueur depuis le 1<sup>er</sup> oct. 2005 ([RO 2005 4193](https://fedlex.data.admin.ch/eli/oc/2005/549)).
 [^4-7]: Introduit par le ch. I de l’O du 29 nov. 2006 ([RO 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)). Nouvelle teneur selon le ch. I de l’O du 15 janv. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
 
@@ -249,7 +249,7 @@ La déclaration de conformité est reconnue lorsque:
 
 Des réceptions délivrées par des États étrangers selon le droit national ou international sont reconnues lorsque les prescriptions appliquées sont équivalentes aux prescriptions suisses[^15-1]. Le requérant doit en apporter la preuve lors de l’inscription.
 
-[^15-1]: OETV du 19 juin 1995 ([RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)), OETV 1 du 19 juin 1995 ([RS 741.412](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8650)), OETV 2 du 19 juin 1995 ([RS 741.413](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8651)), OETV 3 du 2 sept. 1998 ([RS 741.414](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8652)) (voir [RO 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)).
+[^15-1]: OETV du 19 juin 1995 ([RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)), OETV 1 du 19 juin 1995 ([RS 741.412](https://fedlex.data.admin.ch/eli/cc/1995/4145_4145_4145)), OETV 2 du 19 juin 1995 ([RS 741.413](https://fedlex.data.admin.ch/eli/cc/2016/821)), OETV 3 du 2 sept. 1998 ([RS 741.414](https://fedlex.data.admin.ch/eli/cc/2016/822)) (voir [RO 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)).
 
 #### Art. 16
 
@@ -329,7 +329,7 @@ Les services sont reconnus pour une expertise technique selon un plan d’expert
 <sup>8</sup> Le SAS informe l’office fédéral en cas de modification, de suspension ou de retrait d’une accréditation.
 
 [^17a-1]: Introduit par le ch. I de l’O du 15 janv. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
-[^17a-2]: [RS 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
+[^17a-2]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
 
 #### Art. 17b
 
@@ -361,8 +361,8 @@ Son inscription à l’annexe 2 permet sa notification selon:
 <sup>3</sup> Les services qui souhaitent faire l’objet d’une notification doivent présenter une demande de notification à l’office fédéral. Celle-ci peut être déposée en même temps que la demande de reconnaissance.
 
 [^17c-1]: Introduit par le ch. I de l’O du 15 janv. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
-[^17c-2]: [RS 0.946.526.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4341)
-[^17c-3]: [RS 0.741.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2837)
+[^17c-2]: [RS 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
+[^17c-3]: [RS 0.741.411](https://fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468)
 
 #### Art. 17d
 
@@ -402,7 +402,7 @@ Les prescriptions et les documents relatifs aux expertises se fondent sur:
 - c. les instructions basées sur l’OETV et sur la présente ordonnance, ainsi que sur d’autres réglementations officielles concernant les expertises techniques.
 
 [^19-1]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
-[^19-2]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^19-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 
 #### Art. 19a
 
@@ -755,7 +755,7 @@ Est punie de l’amende, pour autant qu’aucune autre disposition pénale plus 
 
 Les art. 98 à 104 de l’ordonnance du 27 octobre 1976 réglant l’admission des personnes et des véhicules à la circulation routière (OAC)[^46-1] sont abrogés.
 
-[^46-1]: [RS 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
+[^46-1]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
 
 #### Art. 47
 
@@ -785,7 +785,7 @@ Annexe 1[^t-1]
 
 ## Véhicules et objets soumis à la réception par type
 
-[^t-1]: Mise à jour selon le ch. II al. 1 de l’O du 2 sept. 1998 ([RO 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)), le ch. II al. 2 de l’O du 6 sept. 2000 ([RO 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)), le ch. I de l’O du 3 juil. 2002 ([RO 2002 3309](https://fedlex.data.admin.ch/eli/oc/2002/487)), le ch. II de l’O du 21 août 2002 ([RO 2002 3310](https://fedlex.data.admin.ch/eli/oc/2002/488)), l’art. 29 al. 2 ch. 5 de l’O du 29 nov. 2002 relative au transport des marchandises dangereuses par route ([RO 2002 4212](https://fedlex.data.admin.ch/eli/oc/2002/685)), le ch. I de l’O du 29 mars 2006 ([RO 2006 1681](https://fedlex.data.admin.ch/eli/oc/2006/263)), le ch. II al. 1 des O du 29 nov. 2006 ([RO 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)) et du 14 oct. 2009 ([RO 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)), le ch. I de l’O du 29 nov. 2013 ([RO 2013 4703](https://fedlex.data.admin.ch/eli/oc/2013/829)), les ch. I et II de l’O du 15 avr. 2015 ([RO 2015 1335](https://fedlex.data.admin.ch/eli/oc/2015/279)), le ch. I de l’O du 16 nov. 2016 ([RO 2016 5213](https://fedlex.data.admin.ch/eli/oc/2016/823)), le ch. II al. 1 de l’O du 21 nov. 2018 ([RO 2019 325](https://fedlex.data.admin.ch/eli/oc/2019/49)) et le ch. III de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
+[^t-1]: Mise à jour selon le ch. II al. 1 de l’O du 2 sept. 1998 ([RO 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)), le ch. II al. 2 de l’O du 6 sept. 2000 ([RO 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)), le ch. I de l’O du 3 juil. 2002 ([RO 2002 3309](https://fedlex.data.admin.ch/eli/oc/2002/487)), le ch. II de l’O du 21 août 2002 ([RO 2002 3310](https://fedlex.data.admin.ch/eli/oc/2002/488)), l’art. 29 al. 2 ch. 5 de l’O du 29 nov. 2002 relative au transport des marchandises dangereuses par route ([RO 2002 4212](https://fedlex.data.admin.ch/eli/oc/2002/685)), le ch. I de l’O du 29 mars 2006 ([RO 2006 1681](https://fedlex.data.admin.ch/eli/oc/2006/263)), le ch. II al. 1 des O du 29 nov. 2006 ([RO 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)) et du 14 oct. 2009 ([RO 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)), le ch. I de l’O du 29 nov. 2013 ([RO 2013 4703](https://fedlex.data.admin.ch/eli/oc/2013/829)), les ch. I et II de l’O du 15 avr. 2015 ([RO 2015 1335](https://fedlex.data.admin.ch/eli/oc/2015/279)), le ch. I de l’O du 16 nov. 2016 ([RO 2016 5213](https://fedlex.data.admin.ch/eli/oc/2016/823)), le ch. II al. 1 de l’O du 21 nov. 2018 ([RO 2019 325](https://fedlex.data.admin.ch/eli/oc/2019/49)), le ch. III de l’O du 22 déc. 2023 ([RO 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)) et le ch. I de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 31](https://fedlex.data.admin.ch/eli/oc/2025/31)).
 
 Sont soumis à la réception par type les véhicules et objets suivants, fabriqués en série:
 
@@ -806,8 +806,8 @@ Sont soumis à la réception par type les véhicules et objets suivants, fabriqu
   - – les cyclomoteurs légers;
   - – les fauteuils roulants à propulsion électrique dont la vitesse maximale n’excède pas 10 km/h.
 
-[^annex1-lvlu1-lvl1-1]: [RS 510.710](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7360)
-[^annex1-lvlu1-lvl1-2]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^annex1-lvlu1-lvl1-1]: [RS 510.710](https://fedlex.data.admin.ch/eli/cc/2004/108)
+[^annex1-lvlu1-lvl1-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 
 ### 2 Systèmes de véhicules, composants de véhicules, éléments d’équipement et dispositifs de protection pour les utilisateurs d’un véhicule (art. 4, al. 7)
 
@@ -825,14 +825,14 @@ Sont soumis à la réception par type les véhicules et objets suivants, fabriqu
 
   Font exception:
 
-  - – les feux, les dynamos et les catadioptres des cycles;
+  - – les feux, les dynamos et les catadioptres des cycles et de leurs remorques;
   - – les lampes de travail;
   - – les enseignes lumineuses des taxis et les lampes permettant de contrôler l’utilisation du taximètre, au sens de l’art. 110, al. 2, let. b, OETV;
   - – les feux orientables des véhicules du service du feu, de la police, du service d’ambulances et de la douane visés à l’art. 110, al. 3, let. a, ch. 5, OETV;
   - – les inscriptions éclairées des véhicules de la police et de la douane, au sens de l’art. 110, al. 3, let. c, OETV;
-  - – les feux de circulation diurne des cyclomoteurs visés à l’art. 18, let. a, OETV;
-  - – les feux jaunes visés aux art. 120*a*, let. a, et 193, al. 1, let. s, OETV;
-  - – les feux et les catadioptres des gyropodes électriques et des cyclomoteurs légers; le ch. 2.2 s’applique aux clignoteurs de direction.
+  - – les feux de circulation diurne des cyclomoteurs rapides visés à l’art. 18, let. a, OETV;
+  - – les feux jaunes visés aux art. 120*a,* let. a, et 193, al. 1, let. s, OETV;
+  - – les feux et les catadioptres des gyropodes électriques, des cyclomoteurs légers et des fauteuils roulants motorisés; le ch. 2.2 s’applique aux clignoteurs de direction.
 
 - 2\.2
 
@@ -869,7 +869,7 @@ Sont soumis à la réception par type les véhicules et objets suivants, fabriqu
   - – les installations de radiocommunication;
   - – les pièces de l’électronique du véhicule ayant une influence sur ses gaz d’échappement, ses émissions sonores ainsi que sur sa puissance et qui ne sont pas conformes au modèle réceptionné pour le type de véhicule concerné.
 
-[^annex1-lvlu1-lvl2-1]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
+[^annex1-lvlu1-lvl2-1]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
 
 Annexe 2[^t-2]
 
@@ -936,7 +936,7 @@ Annexe 3[^t-3]
 <tr><td>6.2</td><td>pour chaque heure ou fraction d’heure supplémentaire</td><td>100.—</td></tr>
 </table>
 
-[^annex3-lvlu1-1]: [RS 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
+[^annex3-lvlu1-1]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
 
 Annexe 4[^t-4]
 

@@ -4,11 +4,11 @@ title: Verordnung vom 19. Juni 1995 über die Typengenehmigung von Strassenfahrz
 short: TGV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997"
 language: de
-version: 2025-05-01
+version: 2025-07-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997/20250501/de/xml/fedlex-data-admin-ch-eli-cc-1995-3997_3997_3997-20250501-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20250501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997/20250701/de/xml/fedlex-data-admin-ch-eli-cc-1995-3997_3997_3997-20250701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20250501/de"
 
 (TGV)
 
-vom 19. Juni 1995 (Stand am 1. Mai 2025)
+vom 19. Juni 1995 (Stand am 1. Juli 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 12, 103 und 106 des Strassenverkehrsgesetzes vom 19. D
 
 verordnet:
 
-[^ingress-1]: [SR 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
+[^ingress-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
 [^ingress-2]: Fassung gemäss Ziff. I der V vom 15. Jan. 2025, in Kraft seit 1. Mai 2025 ([AS 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -38,7 +38,7 @@ verordnet:
 
 <sup>2</sup> Soweit diese Verordnung nichts anderes vorsieht, finden die Vorschriften des Bundesgesetzes vom 12. Juni 2009[^1-1] über die Produktesicherheit ergänzend Anwendung.[^1-2]
 
-[^1-1]: [SR 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
+[^1-1]: [SR 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
 [^1-2]: Fassung gemäss Ziff. I 4 der V vom 11. Juni 2010 zur Bereinigung des sektoriellen Verordnungsrechts im Bereich Produktesicherheit, in Kraft seit 1. Juli 2010 ([AS 2010 2749](https://fedlex.data.admin.ch/eli/oc/2010/358)).
 
 #### Art. 2
@@ -121,7 +121,7 @@ Für Fahrzeuge wird an Stelle einer Typengenehmigung ein Datenblatt erteilt, wen
 [^4-2]: Eingefügt durch Ziff. I der V vom 2. Sept. 1998 ([AS 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)). Aufgehoben durch Ziff. I der V vom 10. Juni 2005, mit Wirkung seit 1. Okt. 2005 ([AS 2005 4193](https://fedlex.data.admin.ch/eli/oc/2005/549)).
 [^4-3]: Aufgehoben durch Ziff. I der V vom 10. Juni 2005, mit Wirkung seit 1. Okt. 2005 ([AS 2005 4193](https://fedlex.data.admin.ch/eli/oc/2005/549)).
 [^4-4]: Fassung gemäss Ziff. I der V vom 10. Juni 2005, in Kraft seit 1. Okt. 2005 ([AS 2005 4193](https://fedlex.data.admin.ch/eli/oc/2005/549)).
-[^4-5]: V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge (VTS – [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)).
+[^4-5]: V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge (VTS – [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)).
 [^4-6]: Fassung gemäss Ziff. I der V vom 10. Juni 2005, in Kraft seit 1. Okt. 2005 ([AS 2005 4193](https://fedlex.data.admin.ch/eli/oc/2005/549)).
 [^4-7]: Eingefügt durch Ziff. I der V vom 29. Nov. 2006 ([AS 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)). Fassung gemäss Ziff. I der V vom 15. Jan. 2025, in Kraft seit 1. Mai 2025 ([AS 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
 
@@ -249,7 +249,7 @@ Die Konformitätserklärung wird anerkannt, wenn:
 
 Genehmigungen, die von ausländischen Staaten nach nationalem oder internationalem Recht erteilt wurden, werden anerkannt, wenn die angewandten Vorschriften den schweizerischen Vorschriften[^15-1] gleichwertig sind. Der Gesuchsteller oder die Gesuchstellerin hat den Nachweis mit der Anmeldung zu erbringen.
 
-[^15-1]: VTS vom 19. Juni 1995 ([SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648); [AS 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)[1465](https://fedlex.data.admin.ch/eli/oc/1998/1465_1465_1465)[2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)), TAFV 1 vom 19. Juni 1995 ([SR 741.412](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8650); [AS 1998 2447](https://fedlex.data.admin.ch/eli/oc/1998/2447_2447_2447)), TAFV 2 vom 19. Juni 1995 ([SR 741.413](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8651); [AS 1998 2475](https://fedlex.data.admin.ch/eli/oc/1998/2475_2475_2475)), TAFV 3 vom 2. September 1998 ([SR 741.414](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8652); [AS 1998 2487](https://fedlex.data.admin.ch/eli/oc/1998/2487_2487_2487)) (siehe [AS 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)).
+[^15-1]: VTS vom 19. Juni 1995 ([SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425); [AS 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)[1465](https://fedlex.data.admin.ch/eli/oc/1998/1465_1465_1465)[2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)), TAFV 1 vom 19. Juni 1995 ([SR 741.412](https://fedlex.data.admin.ch/eli/cc/1995/4145_4145_4145); [AS 1998 2447](https://fedlex.data.admin.ch/eli/oc/1998/2447_2447_2447)), TAFV 2 vom 19. Juni 1995 ([SR 741.413](https://fedlex.data.admin.ch/eli/cc/2016/821); [AS 1998 2475](https://fedlex.data.admin.ch/eli/oc/1998/2475_2475_2475)), TAFV 3 vom 2. September 1998 ([SR 741.414](https://fedlex.data.admin.ch/eli/cc/2016/822); [AS 1998 2487](https://fedlex.data.admin.ch/eli/oc/1998/2487_2487_2487)) (siehe [AS 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)).
 
 #### Art. 16
 
@@ -329,7 +329,7 @@ Für eine technische Prüfung nach Prüfkonzepten (Art. 19*a*) werden Stellen an
 <sup>8</sup> Die SAS informiert das Bundesamt über Anpassung, Suspendierung und Entzug einer Akkreditierung.
 
 [^17a-1]: Eingefügt durch Ziff. I der V vom 15. Jan. 2025, in Kraft seit 1. Mai 2025 ([AS 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
-[^17a-2]: [SR 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
+[^17a-2]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
 
 #### Art. 17b
 
@@ -361,8 +361,8 @@ Der Eintrag in Anhang 2 ermöglicht ihre Notifizierung gemäss:
 <sup>3</sup> Stellen, die sich notifizieren lassen wollen, müssen dem Bundesamt ein Gesuch um Notifizierung einreichen. Dieses kann gleichzeitig mit dem Gesuch um Anerkennung eingereicht werden.
 
 [^17c-1]: Eingefügt durch Ziff. I der V vom 15. Jan. 2025, in Kraft seit 1. Mai 2025 ([AS 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
-[^17c-2]: [SR 0.946.526.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4341)
-[^17c-3]: [SR 0.741.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2837)
+[^17c-2]: [SR 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
+[^17c-3]: [SR 0.741.411](https://fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468)
 
 #### Art. 17d
 
@@ -402,7 +402,7 @@ Die Prüfvorschriften und -unterlagen richten sich nach:
 - c. den auf der VTS und der vorliegenden Verordnung basierenden Weisungen und sonstigen behördlichen Regelungen, welche die technischen Prüfungen betreffen.
 
 [^19-1]: Fassung gemäss Ziff. I der V vom 15. Jan. 2025, in Kraft seit 1. Mai 2025 ([AS 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
-[^19-2]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^19-2]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 
 #### Art. 19a
 
@@ -755,7 +755,7 @@ Mit Busse wird bestraft, sofern keine strengere Strafbestimmung anwendbar ist:[^
 
 Die Artikel 98–104 der Verordnung vom 27. Oktober 1976[^46-1] über die Zulassung von Personen und Fahrzeugen zum Strassenverkehr (VZV) werden aufgehoben.
 
-[^46-1]: [SR 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
+[^46-1]: [SR 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
 
 #### Art. 47
 
@@ -785,7 +785,7 @@ Anhang 1[^t-1]
 
 ## Der Typengenehmigung unterstehende Gegenstände
 
-[^t-1]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 2. Sept. 1998 ([AS 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)), Ziff. II Abs. 2 der V vom 6. Sept. 2000 ([AS 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)), Ziff. I der V vom 3. Juli 2002 ([AS 2002 3309](https://fedlex.data.admin.ch/eli/oc/2002/487)), Ziff. II der V vom 21. Aug. 2002 ([AS 2002 3310](https://fedlex.data.admin.ch/eli/oc/2002/488)), Art. 29 Abs. 2 Ziff. 5 der V vom 29. Nov. 2002 über die Beförderung gefährlicher Güter auf der Strasse ([AS 2002 4212](https://fedlex.data.admin.ch/eli/oc/2002/685)), Ziff. I der V vom 29. März 2006 ([AS 2006 1681](https://fedlex.data.admin.ch/eli/oc/2006/263)), Ziff. II Abs. 1 der V vom 29. Nov. 2006 ([AS 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)), vom 14. Okt. 2009 ([AS 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)), Ziff. I der V vom 29. Nov. 2013 ([AS 2013 4703](https://fedlex.data.admin.ch/eli/oc/2013/829)), Ziff. I und II der V vom 15. April 2015 ([AS 2015 1335](https://fedlex.data.admin.ch/eli/oc/2015/279)), Ziff. I der V vom 16. Nov. 2016 ([AS 2016 5213](https://fedlex.data.admin.ch/eli/oc/2016/823)), Ziff. II Abs. 1 der V vom 21. Nov. 2018 ([AS 2019 325](https://fedlex.data.admin.ch/eli/oc/2019/49)) und Ziff. III der V vom 22. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
+[^t-1]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 2. Sept. 1998 ([AS 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)), Ziff. II Abs. 2 der V vom 6. Sept. 2000 ([AS 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)), Ziff. I der V vom 3. Juli 2002 ([AS 2002 3309](https://fedlex.data.admin.ch/eli/oc/2002/487)), Ziff. II der V vom 21. Aug. 2002 ([AS 2002 3310](https://fedlex.data.admin.ch/eli/oc/2002/488)), Art. 29 Abs. 2 Ziff. 5 der V vom 29. Nov. 2002 über die Beförderung gefährlicher Güter auf der Strasse ([AS 2002 4212](https://fedlex.data.admin.ch/eli/oc/2002/685)), Ziff. I der V vom 29. März 2006 ([AS 2006 1681](https://fedlex.data.admin.ch/eli/oc/2006/263)), Ziff. II Abs. 1 der V vom 29. Nov. 2006 ([AS 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)), vom 14. Okt. 2009 ([AS 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)), Ziff. I der V vom 29. Nov. 2013 ([AS 2013 4703](https://fedlex.data.admin.ch/eli/oc/2013/829)), Ziff. I und II der V vom 15. April 2015 ([AS 2015 1335](https://fedlex.data.admin.ch/eli/oc/2015/279)), Ziff. I der V vom 16. Nov. 2016 ([AS 2016 5213](https://fedlex.data.admin.ch/eli/oc/2016/823)), Ziff. II Abs. 1 der V vom 21. Nov. 2018 ([AS 2019 325](https://fedlex.data.admin.ch/eli/oc/2019/49)), Ziff. III der V vom 22. Dez. 2023 ([AS 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)) und Ziff. I der V vom 13. Dez. 2024, in Kraft seit 1. Juli 2025 ([AS 2025 31](https://fedlex.data.admin.ch/eli/oc/2025/31)).
 
 Es unterstehen folgende serienmässig hergestellte Gegenstände der Typengenehmigung:
 
@@ -806,8 +806,8 @@ Es unterstehen folgende serienmässig hergestellte Gegenstände der Typengenehmi
   - – Leicht-Motorfahrräder;
   - – Rollstühle mit elektrischem Antrieb und einer Höchstgeschwindigkeit bis 10 km/h.
 
-[^annex1-lvlu1-lvl1-1]: [SR 510.710](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7360)
-[^annex1-lvlu1-lvl1-2]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^annex1-lvlu1-lvl1-1]: [SR 510.710](https://fedlex.data.admin.ch/eli/cc/2004/108)
+[^annex1-lvlu1-lvl1-2]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 
 ### 2 Fahrzeugsysteme, Fahrzeugteile, Ausrüstungsgegenstände und Schutzvorrichtungen für Fahrzeugbenützer (Art. 4 Abs. 7)
 
@@ -830,9 +830,9 @@ Es unterstehen folgende serienmässig hergestellte Gegenstände der Typengenehmi
   - – Taxikennlampen und Lichter zur Kontrolle der Taxuhr nach Artikel 110 Absatz 2 Buchstabe b VTS;
   - – Suchlampen von Fahrzeugen der Feuerwehr, Polizei, Sanität und des Zolls nach Artikel 110 Absatz 3 Buchstabe a Ziffer 5 VTS;
   - – beleuchtete Aufschriften der Polizei und des Zolls nach Artikel 110 Absatz 3 Buchstabe c VTS;
-  - – Tagfahrlichter von Motorfahrrädern nach Artikel 18 Buchstabe a VTS;
+  - – Tagfahrlichter von schnellen Motorfahrrädern nach Artikel 18 Buchstabe a VTS;
   - – gelbe Lichter nach den Artikeln 120*a* Buchstabe a und 193 Absatz 1 Buchstabe s VTS;
-  - – Lichter und Rückstrahler für Elektro-Stehroller und Leicht-Motorfahrräder; für Richtungsblinker gilt Ziffer 2.2.
+  - – Lichter und Rückstrahler für Elektro-Stehroller, Leicht-Motorfahrräder und motorisierte Rollstühle; für Richtungsblinker gilt Ziffer 2.2.
 
 - 2\.2
 
@@ -869,7 +869,7 @@ Es unterstehen folgende serienmässig hergestellte Gegenstände der Typengenehmi
   - – Funkanlagen;
   - – Teile der Fahrzeugelektronik, die das Abgas-, Geräusch- oder Leistungsverhalten beeinflussen und nicht der für den Fahrzeugtyp genehmigten Ausführung entsprechen.
 
-[^annex1-lvlu1-lvl2-1]: [SR 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
+[^annex1-lvlu1-lvl2-1]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
 
 Anhang 2[^t-2]
 
@@ -936,7 +936,7 @@ Anhang 3[^t-3]
 <tr><td>6.2</td><td>jede weitere angebrochene Arbeitsstunde</td><td>100.—</td></tr>
 </table>
 
-[^annex3-lvlu1-1]: [SR 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
+[^annex3-lvlu1-1]: [SR 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
 
 Anhang 4[^t-4]
 
