@@ -3,10 +3,9 @@ canton: ZH
 number: "414.251"
 title: Hochschulordnung der Zürcher Hochschule für Angewandte Wissenschaften
 language: de
-nachtrag: "60"
-valid_until: 2025-07-01
+nachtrag: "129"
 adopted: 2025-01-23
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_251-2008_01_25-2008_04_01-060.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_251-2025_01_23-2025_07_01-129.html"
 text: pdf
 ---
 
@@ -14,7 +13,7 @@ text: pdf
 
 # Hochschulordnung der Zürcher Hochschule für Angewandte Wissenschaften
 
-(vom 25. Januar 2008)<sup>1</sup>
+(vom 23. Januar 2025)<sup>1</sup>
 
 Die Hochschulleitung,
 
@@ -22,241 +21,251 @@ gestützt auf § 24 Abs. 2 lit. b des Fachhochschulgesetzes vom 2. April 2007<su
 
 beschliesst:
 
-### 1. Teil: Grundlagen
+### A. Grundlagen
 
 #### § 1
 
-**Geltungsbereich**
+**Geltungsbereich und Zweck**
 
-Die Hochschulordnung gilt für die Zürcher Hochschule für Angewandte Wissenschaften (ZHAW).
+<sup>1</sup> Die Hochschulordnung gilt für die Zürcher Hochschule für Angewandte Wissenschaften (ZHAW).
+
+<sup>2</sup> Sie regelt die Grundsätze der Organisation, der Aufgaben und der Zuständigkeiten innerhalb der Hochschule.
 
 #### § 2
 
-**Freiheit von Lehre und Forschung**
+**Praxisbezug**
 
-Im Rahmen der Vorgaben der Hochschulleitung und der Departementsleitungen gilt die Forschungs- und Lehrfreiheit. Diese ist gegenüber den Organen der ZHAW sowie gegenüber Dritten gewährleistet.
+<sup>1</sup> Lehre, Weiterbildung, Forschung und Dienstleistungen sind praxisbezogen und anwendungsorientiert.
+
+<sup>2</sup> Die Forschung bildet eine unabdingbare Grundlage für die weiteren Leistungsbereiche der ZHAW. Sie generiert neues Wissen und entfaltet ihre Wirkung in der Gesellschaft.
 
 #### § 3
 
-**Ethische Verantwortung**
+**Qualität**
 
-Alle Hochschulangehörigen und Teilnehmenden an Weiterbildungsprogrammen und weiteren Veranstaltungen nehmen ihre ethische Verantwortung wahr.
+<sup>1</sup> Die ZHAW pflegt ein System der Qualitätssicherung und -entwicklung. Es umfasst die Bereiche Leistungen, Ressourcen und Governance.
+
+<sup>2</sup> Die Mitarbeitenden der ZHAW sind angehalten, ihre Arbeit fortlaufend zu reflektieren, zu überprüfen und zu verbessern.
 
 #### § 4
 
-**Qualität**
+**Wissenschaftliche Integrität**
 
-Die Hochschulleitung verpflichtet sich zur Sicherstellung der Qualität und unterstützt deren fortwährende Verbesserung. Zu diesem Zweck verfügt sie unter anderem über ein Qualitätsmanagementsystem.
+<sup>1</sup> Die Hochschulleitung sorgt für die Einhaltung wissenschaftlicher Integrität.
+
+<sup>2</sup> Die Mitarbeitenden, Studierenden und Weiterbildungsteilnehmenden der ZHAW handeln nach den Regeln guter wissenschaftlicher Praxis.
 
 #### § 5
 
-**Immaterialgüter**
+**Besondere Leistungen**
 
-Allfällige Gewinne aus der Verwertung von Rechten an Immaterialgütern werden nach Abzug der angemessenen Gewinnbeteiligung der Erfinderin oder des Erfinders sowie der Urheberin oder des Urhebers dem zuständigen Departement zugewiesen.
-
-### 2. Teil: Leistungsauftrag
-
-#### § 6
-
-**Lehre**
-
-<sup>1</sup> In der Lehre bietet die ZHAW wissenschaftlich fundierte, praxisorientierte Bachelor- und konsekutive Masterstudiengänge an.
+Die ZHAW kann zugunsten der Öffentlichkeit besondere wissenschaftliche und kulturelle Leistungen erbringen, insbesondere im Bereich der offenen Wissenschaft.
 
 **1**
 
-- 1\. 4. 08 - 60
-
-<sup>2</sup> Die Hochschulleitung beschliesst auf Gesuch der Departementsleitungen die Antragstellung auf Schaffung oder Aufhebung von Studiengängen beim Fachhochschulrat.
-
-#### § 7
-
-**Weiterbildung**
-
-Die Hochschule sorgt für ein breites, bedarfsgerechtes Angebot an Weiterbildungsveranstaltungen. In diesen werden wissenschaftliche Kenntnisse und Fähigkeiten praxisnah vermittelt und vertieft.
-
-#### § 8
-
-**Anwendungsorientierte Forschung und Entwicklung, Dienstleistungen**
-
-Die ZHAW erbringt anwendungsorientierte Forschung und Entwicklung sowie Dienstleistungen. Diese sind darauf ausgerichtet, den Wissens- und Technologietransfer in Praxis und Lehre zu unterstützen und zu fördern.
-
-#### § 9
-
-**Kooperationen**
-
-<sup>1</sup> Die ZHAW fördert Kontakte und Zusammenarbeit mit anderen Hochschulen und Institutionen auf nationaler und internationaler Ebene.
-
-<sup>2</sup> Für den Abschluss von Verträgen mit Partnerhochschulen und entsprechenden in- und ausländischen Institutionen aus Wissenschaft, Bildung, Wirtschaft und Gesellschaft, welche mehrere Departemente betreffen, ist die Rektorin oder der Rektor zuständig.
-
-<sup>3</sup> Für den Abschluss von Verträgen mit Partnerhochschulen und entsprechenden in- und ausländischen Institutionen aus Bildung, Wirtschaft und Gesellschaft, die ein einzelnes Departement betreffen, ist das beteiligte Departement zuständig.
-
-#### § 10
+- 1\. 7. 25 - 129 § 6. <sup>1</sup> Die ZHAW pflegt die Kommunikation nach innen und aussen.
 
 **Kommunikation**
 
-Die Rektorin oder der Rektor ist verantwortlich für die Kommunikation auf Stufe Hochschule. Für die fachbereichsorientierte Kommunikation und die Marketingkommunikation liegt die Verantwortung bei den einzelnen Departementen. Die Grundsätze der Kommunikation sind in einem Kommunikationskonzept festgelegt.
+<sup>2</sup> Die Rektorin oder der Rektor ist verantwortlich für die Kommunikation der ZHAW. Sie oder er legt ein Kommunikationskonzept fest, in dem insbesondere die Aufgaben, Kompetenzen und Verantwortlichkeiten der Departemente geregelt werden.
 
-### 3. Teil: Angehörige der Hochschule
+#### § 7
 
-#### § 11
+**Nachhaltigkeit**
 
-**Dozierende und Lehrbeauftragte**
+Die ZHAW nimmt ihre soziale, ökologische und ökonomische Verantwortung wahr und setzt sich für eine nachhaltige Entwicklung ein.
 
-Dozierende und Lehrbeauftragte sind, im Rahmen der von der Hochschulleitung erlassenen Regelungen und des Qualitätsmanagements, verantwortlich für die Qualität in Lehre, Weiterbildung, anwendungsorientierter Forschung und Entwicklung sowie Dienstleistungen.
+#### § 8
 
-#### § 12
+**Hochschulversammlung**
 
-**Mittelbau**
+<sup>1</sup> Die Hochschulversammlung erlässt eine Geschäftsordnung, die von der Hochschulleitung genehmigt wird.
 
-Angehörige des Mittelbaus sind wissenschaftliche Mitarbeitende, wissenschaftliche Mitarbeitende mit besonderen Aufgaben und wissenschaftliche Assistierende. Sie werden für die Forschung und Entwicklung sowie für Dienstleistungen, administrative Aufgaben und für die Lehre eingesetzt.
+<sup>2</sup> Die Geschäftsordnung berücksichtigt folgende vom Fachhochschulrat festgelegten Eckwerte:
 
-#### § 13
+- a. Die Hochschulversammlung besteht aus 40–50 Mitgliedern.
 
-**Personal in Technik und Administration**
+- b. Die Personalkategorien sowie die Departemente, Finanzen & Services und das Rektorat sind gleichwertig entsprechend ihrer Grösse vertreten.
 
-Das administrative und technische Personal unterstützt den Lehr- und Hochschulbetrieb durch seine Dienstleistungen.
+- c. Das Präsidium der Hochschulversammlung kann von einer oder zwei Personen wahrgenommen werden, wobei bei einem Co-Präsidium festzulegen ist, wer die Hochschulversammlung gegen aussen vertritt.
 
-#### § 14
+- d. In das Präsidium können ausschliesslich Mitglieder der Hochschulversammlung gewählt werden, die mit einem Beschäftigungsgrad von mindestens 50% an der ZHAW angestellt sind.
 
-**Anstellung und Führung des Personals**
+<sup>3</sup> Die Rektorin oder der Rektor pflegt eine konstruktive Zusammenarbeit mit der Hochschulversammlung.
 
-<sup>1</sup> Das Auswahl- und Anstellungsverfahren aller Personalkategorien wird durch die Hochschulleitung geregelt. Sie kann diese Aufgabe ganz oder teilweise an die Departemente delegieren. Vorbehalten bleiben die Befugnisse des Fachhochschulrates.
+#### § 9
 
-<sup>2</sup> Die Hochschulleitung erlässt Grundsätze zur Personalführung.
+**Vorschlags- und Beschwerderecht**
 
-<sup>3</sup> Die Aufgaben, Verantwortungen und Pflichten des Personals werden in Rahmenpflichtenheften und Stellenbeschreibungen festgelegt.
+<sup>1</sup> Die Mitarbeitenden und Studierenden der ZHAW haben das Recht, bei der vorgesetzten Stelle oder der Rektorin oder dem Rektor schriftlich Vorschläge oder Beschwerden anzubringen. Sie haben Anspruch auf eine Antwort.
 
-### 4. Teil: Studierende
+<sup>2</sup> Das Beschwerderecht gilt nur, soweit kein ordentliches Rechtsmittel besteht.
 
-#### § 15
+### B. Gliederungseinheiten
 
-**Studierende**
+#### § 10
 
-<sup>1</sup> Studierende an der ZHAW sind immatrikulierte Teilnehmende von Bachelorstudiengängen, konsekutiven Masterstudiengängen und Master of Advanced Studies (MAS).
-
-<sup>2</sup> Auf Gesuch hin stehen Lehrveranstaltungen auch externen Auditorinnen und Auditoren offen.
-
-#### § 16
-
-**Regelung des Studiums**
-
-Einzelheiten zum Studium sind in der Rahmenprüfungsordnung sowie in den Studienordnungen geregelt.
-
-#### § 17
-
-**Disziplinarmassnahmen**
-
-<sup>1</sup> Bei Verstössen von Studierenden und Kursteilnehmenden gegen die für die Hochschule geltenden Bestimmungen oder bei anderen Verstössen gegen die Disziplin können folgende Disziplinarmassnahmen ergriffen werden:
-
-- a. schriftlicher Verweis durch die Departementsleitung,
-
-- b. Androhung des Ausschlusses von einzelnen Lehrveranstaltungen, von Prüfungen oder vom Studium durch die Departementsleitung,
-
-- c. Ausschluss von einzelnen Lehrveranstaltungen, von Prüfungen oder vom Studium durch die Hochschulleitung.
-
-<sup>2</sup> Vor der Anordnung der Disziplinarmassnahmen hat die oder der Studierende bzw. die Kursteilnehmerin oder der Kursteilnehmer das Recht, angehört zu werden.
-
-<sup>3</sup> Für Disziplinarmassnahmen gegenüber den übrigen Angehörigen der ZHAW gilt das kantonale Personalrecht.
-
-**3**
-
-- 1\. 4. 08 - 60
-
-### 5. Teil: Organisation
-
-#### § 18
-
-**Gliederung**
+**Gliederung der Hochschule**
 
 Die ZHAW gliedert sich in a. Rektorat,
 
 - b. Finanzen & Services,
 
-- c. Departement Architektur und Bauwesen,
+- c. Departemente.
+
+#### § 11
+
+**Departemente a. allgemein**
+
+Departemente sind Organisationseinheiten auf der höchsten Gliederungsstufe, die in einem oder mehreren Fachgebieten für die Wahrnehmung des Auftrags der ZHAW in Lehre, Weiterbildung, anwendungsorientierter Forschung und Entwicklung sowie im Dienstleistungsbereich verantwortlich sind.
+
+#### § 12
+
+**b. Bezeichnung**
+
+Die Departemente werden folgendermassen bezeichnet:
+
+- a. Departement Angewandte Linguistik,
+
+- b. Departement Angewandte Psychologie,
+
+- c. Departement Architektur, Gestaltung und Bauingenieurwesen,
 
 - d. Departement Gesundheit,
 
 - e. Departement Life Sciences und Facility Management,
 
-- f. Departement Angewandte Linguistik,
+- f. Departement Soziale Arbeit,
 
-- g. Departement Angewandte Psychologie,
+- g. School of Engineering,
 
-- h. Departement Soziale Arbeit,
+- h. School of Management and Law.
 
-- i. Departement Technik und Informatik,
+#### § 13
 
-- j. Departement Wirtschaft, Management und Recht.
+**c. Struktur und Aufgaben**
+
+Die Departemente a. verfügen über eine auf die Hochschulstrategie abgestimmte Departementsstrategie,
+
+- b. sind für die Einhaltung der von der Rektorin oder dem Rektor definierten Budgetvorgaben sowie für die Qualität in Lehre, Weiterbildung, angewandter Forschung und Entwicklung sowie im Dienstleistungsbereich verantwortlich,
+
+- c. erstellen ein Umsetzungskonzept zu ihrer Qualitätsarbeit,
+
+- d. erlassen eigene Geschäftsordnungen, die von der Rektorin oder dem Rektor genehmigt werden.
+
+#### § 14
+
+**d. Departementsdirektorin oder -direktor**
+
+<sup>1</sup> Die Direktorinnen und Direktoren führen ihr Departement und vertreten es nach aussen.
+
+<sup>2</sup> Die Hochschulleitung erlässt ausführende Bestimmungen.
+
+#### § 15
+
+**e. Departementsleitung**
+
+<sup>1</sup> Die Departementsleitung ist das oberste Gremium und besteht aus der Direktorin oder dem Direktor sowie weiteren Führungspersonen im Departement.
+
+**3**
+
+- 1\. 7. 25 - 129
+
+<sup>2</sup> Aufgaben, Kompetenzen und Verantwortlichkeiten regeln die Geschäftsordnungen der Departemente.
+
+#### § 16
+
+**f. Mitwirkung im Departement**
+
+Die Departemente verfügen über Mitwirkungsorgane für ihre Mitarbeitenden und Studierenden.
+
+#### § 17
+
+**Abteilungen**
+
+Die Departemente können als höchste Gliederungseinheiten Abteilungen schaffen. Sie dienen insbesondere als übergeordnete Einheiten für mehrere Institute.
+
+#### § 18
+
+**Institute a. allgemein**
+
+Institute sind Organisationseinheiten, die in einem oder mehreren thematischen Schwerpunkten in der Regel in den vier Leistungsbereichen tätig sind. Sie können in weitere Untereinheiten gegliedert werden.
 
 #### § 19
 
-**Organe**
+**b. Gründung und Auflösung**
 
-Die Organe der ZHAW sind a. die Rektorin oder der Rektor,
-
-- b. die Hochschulleitung,
-
-- c. die Departementsleiterin oder der Departementsleiter,
-
-- d. die Hochschulversammlung.
+Die Rektorin oder der Rektor stellt auf Antrag der Departementsdirektorin oder des Departementsdirektors dem Fachhochschulrat Antrag auf Genehmigung der Gründung und Auflösung eines Instituts.
 
 #### § 20
 
-**Hochschulleitung**
+**c. Voraussetzungen**
 
-Die Hochschulleitung erlässt:
+<sup>1</sup> Institute verfügen über a. eine eigene Strategie, eingebettet in die Hochschul- und Departementsstrategie, die alle vier Jahre aktualisiert wird,
 
-- a. die Geschäftsordnung,
+- b. einen jährlichen Drittmittelumsatz von mindestens Fr. 500 000 für die Institute der Departemente Angewandte Linguistik, Angewandte Psychologie, Architektur, Gestaltung und Bauingenieurwesen, Gesundheit und Soziale Arbeit,
 
-- b. Ausführungsbestimmungen zu Lehre, Weiterbildung, Forschung und Entwicklung sowie zu Dienstleistungen,
+- c. einen jährlichen Drittmittelumsatz von mindestens Fr. 1 000 000 für die Institute der Departemente Life Sciences und Facility Management, School of Engineering und School of Management and Law,
 
-- c. die Hausordnung.
+- d. eine Mindestgrösse von 1000 Stellenprozenten,
+
+- e. mindestens eine Professur.
+
+<sup>2</sup> Tiefere Schwellenwerte beim Drittmittelumsatz sowie bei den Stellenprozenten sind zu begründen.
 
 #### § 21
 
-**Hochschulversammlung**
+**d. Berichterstattung**
 
-<sup>1</sup> Die Hochschulversammlung besteht aus Delegierten, welche sich zur Hälfte aus Dozierenden und Lehrbeauftragten und zu je einem Viertel aus dem übrigen Hochschulpersonal und den Studierenden zusammensetzen.
+<sup>1</sup> Die unter § 20 Abs. 1 genannten Indikatoren fliessen in ein jährliches Reporting zuhanden des Fachhochschulrates ein.
 
-<sup>2</sup> Der Vorsitz steht einer Vertreterin oder einem Vertreter der Dozierenden und Lehrbeauftragten zu. Im Übrigen konstituiert sich die Hochschulversammlung selbst.
+<sup>2</sup> Für Institute, die einzelne Indikatoren nicht einhalten, legt die Departementsdirektorin oder der Departementsdirektor der Rektorin oder dem Rektor Rechenschaft ab.
 
-<sup>3</sup> Die Hochschulversammlung und die Hochschulleitung arbeiten konstruktiv zusammen. Die Rektorin oder der Rektor orientiert die Hochschulversammlung regelmässig über wichtige Ereignisse und Entwicklungen.
-
-<sup>4</sup> Die Hochschulversammlung erlässt eine Geschäftsordnung, die von der Hochschulleitung zu genehmigen ist.
+<sup>3</sup> Die Leiterin oder der Leiter des Instituts nimmt im Rahmen der Aktualisierung der Institutsstrategien zusammen mit der vorgesetzten Stelle eine Beurteilung der Ausrichtung und Abstimmung der Professuren vor.
 
 #### § 22
 
-**Vorschlags- und Beschwerderecht**
+**Ressorts**
 
-<sup>1</sup> Die Angehörigen der ZHAW haben das Recht, bei der vorgesetzten Stelle oder der Rektorin oder dem Rektor schriftlich Vorschläge anzubringen. Sie haben Anspruch auf eine Antwort.
+<sup>1</sup> Ressorts sind Organisationseinheiten, die ZHAW-weit für die Rahmenbedingungen von Leistungsbereichen oder strategisch wichtigen Themen verantwortlich sind.
 
-<sup>2</sup> Die Angehörigen der ZHAW haben das Recht, bei der oder dem Vorgesetzten oder bei der nächsthöheren Instanz schriftlich oder mündlich Beschwerde anzubringen.
+<sup>2</sup> Ressorts werden von einem Mitglied der Hochschulleitung geleitet.
 
-<sup>3</sup> Das Beschwerderecht gilt nur, soweit kein ordentliches Rechtsmittel besteht.
+<sup>3</sup> Die Hochschulleitung entscheidet über die Schaffung und Aufhebung von Ressorts und regelt die Aufgaben, Kompetenzen und Verantwortlichkeiten in einem Grundauftrag.
 
 #### § 23
 
-**Rekurswesen**
+**Kommissionen**
 
-<sup>1</sup> Gegen Personalentscheide kann bei der Rekurskommission der Zürcher Hochschulen rekurriert werden.
+<sup>1</sup> ZHAW-weite Kommissionen sind in der Regel beratend tätig.
 
-<sup>2</sup> Gegen Entscheide, die Studierende betreffen und an deren Änderung oder Aufhebung sie ein schutzwürdiges Interesse haben, kann bei der Rekurskommission der Zürcher Hochschulen rekurriert werden. Nicht selbstständig anfechtbar sind Leistungsausweise, welche als Erfahrungsnoten dienen. Die Einzelheiten werden in der Rahmenprüfungsordnung geregelt.
+<sup>2</sup> Die Hochschulleitung entscheidet über die Schaffung und Aufhebung von ZHAW-weiten Kommissionen und kann Aufgaben, Kompetenzen und Verantwortlichkeiten an ZHAW-weite Kommissionen delegieren.
 
 #### § 24
 
-**Veranstaltungen**
+**Weitere Organisationseinheiten**
 
-Veranstaltungen auf dem gesamten Areal der ZHAW, die nicht im Zusammenhang mit dem Leistungsauftrag Lehre, Weiterbildung, Forschung und Dienstleistung stehen, sind bewilligungspflichtig. Die Hausordnung regelt die Einzelheiten.
+<sup>1</sup> Die ZHAW kann weitere ZHAW-weite Organisationseinheiten zur Wahrnehmung aktueller Aufgaben schaffen.
 
-### 6. Teil: Schlussbestimmung
+<sup>2</sup> Die Hochschulleitung entscheidet über die Schaffung und Aufhebung, Aufgaben, Kompetenzen und Verantwortlichkeiten dieser Organisationeinheiten.
+
+### C. Schlussbestimmungen
 
 #### § 25
 
 **Inkrafttreten**
 
-Diese Hochschulordnung tritt nach der Genehmigung durch den Fachhochschulrat am 1. April 2008 in Kraft.
+Diese Hochschulordnung tritt nach der Genehmigung durch den Fachhochschulrat am 1. Juli 2025 in Kraft.
+
+#### § 26
+
+**Aufhebung bisherigen Rechts**
+
+<sup>1</sup> Die Hochschulordnung der Zürcher Hochschule für Angewandte Wissenschaften vom 25. Januar 2008 wird auf den Zeitpunkt des Inkrafttretens gemäss § 25 aufgehoben.
+
+<sup>2</sup> Das Institutsreglement ZHAW vom 23. August 2012 wird auf den Zeitpunkt des Inkrafttretens gemäss § 25 aufgehoben.
 
 ## Weitere Fussnoten
 
-- [1] OS 63, 73. Vom Fachhochschulrat genehmigt am 26. Februar 2008.
-- [2] LS 414.10. 1. 4. 08 - 60 5
+- [1] OS 80, 137; Begründung siehe ABl 2025-05-09. Vom Fachhochschulrat genehmigt am 15. April 2025.
+- [2] LS 414.10. 1. 7. 25 - 129 5
