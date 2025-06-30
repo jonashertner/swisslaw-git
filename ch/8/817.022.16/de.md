@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 16. Dezember 2016 betreffend die Information über
 short: LIV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/158"
 language: de
-version: 2025-01-24
+version: 2025-07-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20250124/de/xml/fedlex-data-admin-ch-eli-cc-2017-158-20250124-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/158/20250124/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2017-158-20250701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/158/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/158/20250124/de"
 
 (LIV)
 
-vom 16. Dezember 2016 (Stand am 24. Januar 2025)
+vom 16. Dezember 2016 (Stand am 1. Juli 2025)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -66,11 +66,12 @@ Lebensmittel müssen zum Zeitpunkt der Abgabe an die Konsumentinnen und Konsumen
 - h. Produktionsland von Lebensmitteln (Art. 15);
 - i. Herkunft mengenmässig wichtiger Zutaten von Lebensmitteln (Art. 16);
 - j.[^3-1] spezifische Angaben für Fleisch von Rind, Schwein, Schaf, Ziege und Geflügel (Art. 17);
+- j<sup>bis</sup>.[^3-2] gegebenenfalls dem entsprechenden Hinweis nach Artikel 36 Absatz 1 Buchstabe j LGV;
 - k. Gebrauchsanleitung, sofern es schwierig wäre, das Lebensmittel ohne diese Angabe bestimmungsgemäss zu verwenden;
 - l. Alkoholgehalt bei alkoholischen Getränken mit einem Alkoholgehalt von mehr als 1,2 Volumenprozent (Art. 18);
 - m. Warenlos (Art. 19 und 20);
 - n. Nährwertdeklaration (Art. 21–28);
-- o.[^3-2] Hinweis bei Lebensmitteln, die gentechnisch veränderte Organismen (GVO) sind, GVO enthalten oder aus GVO gewonnen wurden (Art. 8 der Verordnung des EDI vom 27. Mai 2020[^3-3] über gentechnisch veränderte Lebensmittel);
+- o.[^3-3] Hinweis bei Lebensmitteln, die gentechnisch veränderte Organismen (GVO) sind, GVO enthalten oder aus GVO gewonnen wurden (Art. 8 der Verordnung des EDI vom 27. Mai 2020[^3-4] über gentechnisch veränderte Lebensmittel);
 - p. gegebenenfalls das Identitätskennzeichen (Art. 36–38);
 - q. weitere Angaben nach Anhang 2.
 
@@ -93,8 +94,9 @@ Bei Mehrfachpackungen (mehrere gleiche oder verschiedene Produkte, die in einer 
 - b. von aussen für die Konsumentinnen und Konsumenten lesbar sind oder über sie am Verkaufspunkt auf andere Weise informiert wird.
 
 [^3-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
-[^3-2]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
-[^3-3]: [SR 817.022.51](https://fedlex.data.admin.ch/eli/cc/2020/456)
+[^3-2]: Eingefügt durch Ziff. I der V des EDI vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 371](https://fedlex.data.admin.ch/eli/oc/2025/371)).
+[^3-3]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+[^3-4]: [SR 817.022.51](https://fedlex.data.admin.ch/eli/cc/2020/456)
 
 #### Art. 4
 
@@ -114,12 +116,14 @@ Im selben Sichtfeld wie die Sachbezeichnung müssen erscheinen:
 
 - a. der Alkoholgehalt nach Artikel 18;
 - b.[^4-1] die Deklaration betreffend die Anwendung von in der Schweiz verbotener Produktion nach Artikel 3 der Landwirtschaftlichen Deklarationsverordnung vom 26. November 2003[^4-2];
-- c.[^4-3] die Mengenangaben nach den Vorschriften der Mengenangabeverordnung vom 5. September 2012[^4-4].
+- c.[^4-3] die Mengenangaben nach den Vorschriften der Mengenangabeverordnung vom 5. September 2012[^4-4];
+- d.[^4-5] gegebenenfalls der entsprechende Hinweis nach Artikel 36 Absatz 1 Buchstabe j LGV.
 
 [^4-1]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
 [^4-2]: [SR 916.51](https://fedlex.data.admin.ch/eli/cc/2003/738)
 [^4-3]: Eingefügt durch Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
 [^4-4]: [SR 941.204](https://fedlex.data.admin.ch/eli/cc/2012/607)
+[^4-5]: Eingefügt durch Ziff. I der V des EDI vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 371](https://fedlex.data.admin.ch/eli/oc/2025/371)).
 
 #### Art. 5
 
@@ -1033,6 +1037,14 @@ Lebensmittel, die der Änderung vom 8. Dezember 2023 nicht entsprechen, dürfen 
 
 [^45b-1]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 
+#### Art. 45c
+
+**Übergangsbestimmung zur Änderung vom 28. Mai 2025**[^45c-1]
+
+Lebensmittel, die der Änderung vom 28. Mai 2025 nicht entsprechen, dürfen noch bis zum 30. Juni 2027 nach bisherigem Recht eingeführt, hergestellt und gekennzeichnet und noch bis zum Abbau der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
+
+[^45c-1]: Eingefügt durch Ziff. I der V des EDI vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 371](https://fedlex.data.admin.ch/eli/oc/2025/371)).
+
 #### Art. 46
 
 **Inkrafttreten**
@@ -1152,7 +1164,7 @@ Anhang 3
 
 ## Definition der x-Höhe
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20250124/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20250701/de/xml/image/image1.png)
 
 Legende
 

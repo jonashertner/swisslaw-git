@@ -4,11 +4,11 @@ title: Ordinanza del DFI del 16 dicembre 2016 concernente le informazioni sulle 
 short: OID
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/158"
 language: it
-version: 2025-01-24
+version: 2025-07-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20250124/it/xml/fedlex-data-admin-ch-eli-cc-2017-158-20250124-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/158/20250124/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2017-158-20250701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/158/20250701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/158/20250124/it"
 
 (OID)
 
-del 16 dicembre 2016 (Stato 24 gennaio 2025)
+del 16 dicembre 2016 (Stato 1° luglio 2025)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -66,11 +66,12 @@ Al momento della consegna ai consumatori, le derrate alimentari devono essere ca
 - h. il Paese di produzione delle derrate alimentari (art. 15);
 - i. la provenienza degli ingredienti quantitativamente più importanti della derrata alimentare (art. 16);
 - j.[^3-1] indicazioni specifiche per la carne di bovino, suino, ovino, caprino e pollame (art. 17);
+- j<sup>bis</sup>.[^3-2] se necessario, un’indicazione secondo l’articolo 36 capoverso 1 lettera j ODerr;
 - k. le istruzioni per l’uso, qualora la loro omissione renda difficile utilizzare la derrata alimentare conformemente alla sua destinazione;
 - l. il tenore alcolico per bevande con un tenore alcolico superiore all’1,2 per cento in volume (art. 18);
 - m. la partita (art. 19–20);
 - n. la dichiarazione del valore nutritivo (art. 21–28);
-- o.[^3-2] una menzione per le derrate alimentari che sono organismi geneticamente modificati (OGM), contengono OGM o sono state ricavate da OGM (art. 8 dell’ordinanza del DFI del 27 maggio 2020[^3-3] concernente le derrate alimentari geneticamente modificate);
+- o.[^3-3] una menzione per le derrate alimentari che sono organismi geneticamente modificati (OGM), contengono OGM o sono state ricavate da OGM (art. 8 dell’ordinanza del DFI del 27 maggio 2020[^3-4] concernente le derrate alimentari geneticamente modificate);
 - p. se necessario, il marchio di identificazione (art. 36–38);
 - q. ulteriori indicazioni di cui all’allegato 2.
 
@@ -93,8 +94,9 @@ Nel caso di imballaggi multipli (ossia di più prodotti uguali o diversi riuniti
 - b. sono leggibili dall’esterno per i consumatori oppure nel punto di vendita si provvede a informare in altro modo.
 
 [^3-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
-[^3-2]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
-[^3-3]: [RS 817.022.51](https://fedlex.data.admin.ch/eli/cc/2020/456)
+[^3-2]: Introdotta dalla cifra I dell’O del DFI del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 371](https://fedlex.data.admin.ch/eli/oc/2025/371)).
+[^3-3]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+[^3-4]: [RS 817.022.51](https://fedlex.data.admin.ch/eli/cc/2020/456)
 
 #### Art. 4
 
@@ -114,12 +116,14 @@ Nello stesso campo visivo della denominazione specifica devono figurare:
 
 - a. il tenore alcolico secondo l’articolo 18;
 - b.[^4-1] la dichiarazione concernente lʼimpiego di modalità di produzione vietate in Svizzera ai sensi dellʼarticolo 3 dellʼordinanza del 26 novembre 2003[^4-2] sulle dichiarazioni agricole;
-- c.[^4-3] le indicazioni di quantità ai sensi delle prescrizioni dellʼordinanza del 5 settembre 2012[^4-4] sulle indicazioni di quantità.
+- c.[^4-3] le indicazioni di quantità ai sensi delle prescrizioni dellʼordinanza del 5 settembre 2012[^4-4] sulle indicazioni di quantità;
+- d.[^4-5] se necessario le indicazioni secondo l’articolo 36 capoverso 1 lettera j ODerr.
 
 [^4-1]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
 [^4-2]: [RS 916.51](https://fedlex.data.admin.ch/eli/cc/2003/738)
 [^4-3]: Introdotta dalla cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
 [^4-4]: [RS 941.204](https://fedlex.data.admin.ch/eli/cc/2012/607)
+[^4-5]: Introdotta dalla cifra I dell’O del DFI del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 371](https://fedlex.data.admin.ch/eli/oc/2025/371)).
 
 #### Art. 5
 
@@ -1034,6 +1038,14 @@ Le derrate alimentari non conformi alla modifica dell’8 dicembre 2023 possono 
 
 [^45b-1]: Introdotto dalla cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 
+#### Art. 45c
+
+**Disposizione transitoria della modifica del 28 maggio 2025**[^45c-1]
+
+Le derrate alimentari non conformi alla modifica del 28 maggio 2025 possono essere importate, fabbricate e caratterizzate secondo il diritto anteriore sino al 30 giugno 2027 ed essere consegnate ai consumatori fino a esaurimento delle scorte.
+
+[^45c-1]: Introdotto dalla cifra I dell’O del DFI del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 371](https://fedlex.data.admin.ch/eli/oc/2025/371)).
+
 #### Art. 46
 
 **Entrata in vigore**
@@ -1153,7 +1165,7 @@ Allegato 3
 
 ## Definizione di altezza della X
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20250124/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20250701/it/xml/image/image1.png)
 
 Legenda
 
@@ -1417,8 +1429,7 @@ Allegato 8
   - e. aceti,
   - f. sale da cucina,
   - g. sorte di zuccheri allo stato solido,
-    - h. prodotti di confetteria consistenti quasi unicamente in zuccheri con sostanze aromatizzanti o coloranti,
-
+  - h. prodotti di confetteria consistenti quasi unicamente in zuccheri con sostanze aromatizzanti o coloranti,
   - i. gomme da masticare e prodotti analoghi da masticare;
 
 - 1\.5 le indicazioni di cui al numero 1.1 devono essere integrate, se necessario, da una descrizione delle condizioni di conservazione che garantiscono la durata di conservazione indicata.

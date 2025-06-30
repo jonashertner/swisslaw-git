@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 16 décembre 2016 concernant l'information sur les 
 short: OIDAl
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/158"
 language: fr
-version: 2025-01-24
+version: 2025-07-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20250124/fr/xml/fedlex-data-admin-ch-eli-cc-2017-158-20250124-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/158/20250124/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-158-20250701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/158/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/158/20250124/fr"
 
 (OIDAl)
 
-du 16 décembre 2016 (État le 24 janvier 2025)
+du 16 décembre 2016 (État le 1<sup>er</sup> juillet 2025)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -66,11 +66,12 @@ Lors de leur remise au consommateur, les denrées alimentaires doivent être mun
 - h. le pays de production des denrées alimentaires (art. 15);
 - i. l’origine des principaux ingrédients de la denrée alimentaire (art. 16);
 - j.[^3-1] les mentions spécifiques pour les viandes bovine, porcine, ovine, caprine et la volaille (art. 17);
+- j<sup>bis</sup>.[^3-2] le cas échéant, la mention correspondante conformément à l’art. 36, al. 1, let. j, ODAlOUs;
 - k. le mode d’emploi, si son omission ne permet pas d’utiliser la denrée alimentaire conformément à l’usage prévu;
 - l. la teneur en alcool pour les boissons alcooliques titrant plus de 1,2 % vol. (art. 18);
 - m. le lot (art. 19 et 20);
 - n. la déclaration nutritionnelle (art. 21 à 28);
-- o.[^3-2] la mention requise dans le cas des denrées alimentaires qui sont des organismes génétiquement modifiés (OGM), qui contiennent de tels organismes ou qui en sont issus (art. 8 de l’ordonnance du DFI du 27 mai 2020 sur les denrées alimentaires génétiquement modifiées[^3-3]);
+- o.[^3-3] la mention requise dans le cas des denrées alimentaires qui sont des organismes génétiquement modifiés (OGM), qui contiennent de tels organismes ou qui en sont issus (art. 8 de l’ordonnance du DFI du 27 mai 2020 sur les denrées alimentaires génétiquement modifiées[^3-4]);
 - p. le cas échéant, la marque d’identification (art. 36 à 38);
 - q. d’autres mentions selon l’annexe 2.
 
@@ -93,8 +94,9 @@ Si le produit se présente en emballage multiple (emballage permettant de groupe
 - b. sont lisibles à travers l’emballage multiple ou affichées d’une autre manière au point de vente.
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
-[^3-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
-[^3-3]: [RS 817.022.51](https://fedlex.data.admin.ch/eli/cc/2020/456)
+[^3-2]: Introduite par le ch. I de l’O du DFI du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 371](https://fedlex.data.admin.ch/eli/oc/2025/371)).
+[^3-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+[^3-4]: [RS 817.022.51](https://fedlex.data.admin.ch/eli/cc/2020/456)
 
 #### Art. 4
 
@@ -114,12 +116,14 @@ Dans le même champ visuel que la dénomination spécifique doivent figurer:
 
 - a. la teneur en alcool visé à l’art. 18;
 - b.[^4-1] la déclaration relative à l’utilisation de modes de production interdits en Suisse selon l’art. 3 de l’ordonnance agricole du 26 novembre 2003 sur la déclaration[^4-2];
-- c.[^4-3] la mention des quantités selon les prescriptions de l’ordonnance du 5 septembre 2012 sur les déclarations de quantités[^4-4].
+- c.[^4-3] la mention des quantités selon les prescriptions de l’ordonnance du 5 septembre 2012 sur les déclarations de quantités[^4-4];
+- d.[^4-5] le cas échéant, la mention correspondante conformément à l’art. 36, al. 1, let. j, ODAlOUs.
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
 [^4-2]: [RS 916.51](https://fedlex.data.admin.ch/eli/cc/2003/738)
 [^4-3]: Introduite par le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
 [^4-4]: [RS 941.204](https://fedlex.data.admin.ch/eli/cc/2012/607)
+[^4-5]: Introduite par le ch. I de l’O du DFI du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 371](https://fedlex.data.admin.ch/eli/oc/2025/371)).
 
 #### Art. 5
 
@@ -1040,6 +1044,14 @@ Les denrées alimentaires non conformes à la modification du 8 décembre 2023 p
 
 [^45b-1]: Introduit par le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 
+#### Art. 45c
+
+**Disposition transitoire relative à la modification du 28 mai 2025**[^45c-1]
+
+Les denrées alimentaires non conformes à la modification du 28 mai 2025 peuvent encore être importées, fabriquées et étiquetées selon l’ancien droit jusqu’au 30 juin 2027 et remises au consommateur jusqu’à épuisement des stocks.
+
+[^45c-1]: Introduit par le ch. I de l’O du DFI du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 371](https://fedlex.data.admin.ch/eli/oc/2025/371)).
+
 #### Art. 46
 
 **Entrée en vigueur**
@@ -1161,7 +1173,7 @@ Annexe 3
 
 ## Définition de la hauteur d’x
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20250124/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20250701/fr/xml/image/image1.png)
 
 Légende
 
