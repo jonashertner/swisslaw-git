@@ -4,11 +4,11 @@ title: "Ordonnance du 26 avril 1993 sur la protection des topographies de produi
 short: OTo
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1834_1834_1834"
 language: fr
-version: 2022-01-01
+version: 2025-07-01
 adopted: 1993-04-26
 in_force: 1993-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1834_1834_1834/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-1834_1834_1834-20220101-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1834_1834_1834/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1834_1834_1834/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-1993-1834_1834_1834-20250701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1834_1834_1834/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/1834_1834_1834/20220101/fr"
 
 (Ordonnance sur les topographies, OTo)
 
-du 26 avril 1993 (État le 1<sup>er</sup> janvier 2022)
+du 26 avril 1993 (État le 1<sup>er</sup> juillet 2025)
 
 Le Conseil fédéral suisse,
 
@@ -77,9 +77,9 @@ arrête:
 
 **Taxes**[^3-1]
 
-L’ordonnance de l’IPI du 14 juin 2016 sur les taxes[^3-2] s’applique aux taxes prévues par la LTo ou par la présente ordonnance.
+L’ordonnance de l’IPI du 14 juin 2016 sur les taxes (OTa-IPI)[^3-2] s’applique aux taxes prévues par la LTo ou par la présente ordonnance.
 
-[^3-1]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 4827](https://fedlex.data.admin.ch/eli/oc/2017/517)).
+[^3-1]: Nouvelle teneur selon le ch. I 2 de l’O du 14 mai 2025 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 [^3-2]: [RS 232.148](https://fedlex.data.admin.ch/eli/cc/2016/777)
 
 ## Section 2 Procédure de dépôt de la demande d’inscription
@@ -230,81 +230,113 @@ L’IPI établit des extraits du registre.
 
 <sup>2</sup> Les supports de données et les produits semi-conducteurs non réclamés à l’expiration du délai de conservation peuvent être restitués d’office. Lorsqu’il est impossible de trouver l’adresse des ayants droit, ils sont détruits en même temps que les documents.
 
-## Section 4 Intervention de l’OFDF
+## Section 4 Interventions lors de l’introduction de produits semi-conducteurs sur le territoire douanier ou de leur acheminement hors de celui-ci
+
+[^sec4-1]
+
+[^sec4-1]: Nouvelle teneur selon le ch. I 2 de l’O du 14 mai 2025 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 16
 
-**Domaine d’application**[^16-1]
+**Domaine d’application**
 
-L’OFDF est habilité à intervenir en cas d’introduction sur le territoire douanier et de sortie dudit territoire de produits semi-conducteurs lorsqu’il y a lieu de soupçonner que la mise en circulation de ces produits contrevient à la législation suisse sur la protection des topographies de produits semi-conducteurs.
+La présente section s’applique aux interventions lors de l’introduction de produits semi-conducteurs sur le territoire douanier ou de leur acheminement hors de celui-ci lorsqu’il y a lieu de soupçonner que leur mise en circulation contrevient à la législation en vigueur en Suisse sur la protection des topographies de produits semi-conducteurs.
 
-[^16-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2543](https://fedlex.data.admin.ch/eli/oc/2008/363)).
+#### Art. 16a
 
-#### Art. 17
+**Petit envoi**
+
+Un petit envoi est un envoi qui contient trois unités au maximum et dont le poids brut est inférieur à cinq kilogrammes.
+
+#### Art. 16b
 
 **Demande d’intervention**
 
-<sup>1</sup> Le producteur ou le preneur de licence ayant qualité pour agir (requérant) doit présenter la demande d’intervention à la Direction générale des douanes.[^17-1]
+<sup>1</sup> Le producteur ou le preneur de licence ayant qualité pour agir (requérant) doit présenter la demande d’intervention à l’OFDF.
 
-<sup>1bis</sup> La Direction générale des douanes rend sa décision sur la demande au plus tard 40 jours après réception de l’intégralité des pièces justificatives.[^17-2]
+<sup>2</sup> L’OFDF rend sa décision sur la demande au plus tard 40 jours après réception de tous les documents requis.
 
-<sup>2</sup> La demande est valable deux ans à moins qu’elle ait été déposée pour une période plus courte. Elle peut être renouvelée.
+<sup>3</sup> Une fois approuvée, la demande est valable deux ans, à moins qu’elle ne spécifie une durée de validité plus courte. Elle peut être renouvelée.
 
-[^17-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2543](https://fedlex.data.admin.ch/eli/oc/2008/363)).
-[^17-2]: Introduit par le ch. I 2 de l’O du 6 juin 2014 sur la fixation de délais d’ordre dans le domaine de l’Administration fédérale des douanes, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
+#### Art. 17
+
+**Rétention des produits semi-conducteurs**
+
+<sup>1</sup> Lorsque l’OFDF retient des produits semi-conducteurs, il les garde en dépôt contre perception d’un émolument ou il les entrepose chez un tiers aux frais du requérant.
+
+<sup>2</sup> Il communique au requérant le nom et l’adresse du déclarant, du possesseur ou du propriétaire, lui transmet une description précise des produits semi-conducteurs retenus et l’informe de la quantité et de l’expéditeur desdits produits.
+
+<sup>3</sup> S’il s’agit d’un petit envoi et que celui-ci a été détruit dans le cadre de la procédure simplifiée, l’OFDF informe le requérant de la quantité, de la nature et de l’expéditeur des produits semi-conducteurs détruits.
+
+<sup>4</sup> S’il s’avère, avant l’échéance du délai visé à l’art. 77, al. 3 et 4, de la loi du 9 octobre 1992 sur le droit d’auteur (LDA)[^17-1], que le requérant ne pourra pas obtenir de mesures provisionnelles, les produits semi-conducteurs sont libérés sans délai.
+
+[^17-1]: [RS 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
 
 #### Art. 18
 
-**Rétention de produits semi-conducteurs**[^18-1]
+**Délégation de la compétence pour les petits envois**
 
-<sup>1</sup> Lorsque le bureau de douane retient des produits semi-conducteurs, il les garde en dépôt contre perception d’un émolument ou confie cette tâche à un tiers au frais du requérant.
+<sup>1</sup> Lorsqu’il s’agit d’un petit envoi, l’OFDF confie la responsabilité de l’exécution de la procédure à l’IPI et remet les produits semi-conducteurs retenus soit à ce dernier, soit à un tiers désigné par l’IPI pour qu’il les garde en dépôt.
 
-<sup>2</sup> Il transmet au requérant le nom et l’adresse du déclarant, du possesseur ou du propriétaire, une description précise et la quantité des produits semi-conducteurs retenus ainsi que le nom de l’expéditeur en Suisse ou à l’étranger desdits produits.
-
-<sup>3</sup> S’il s’avère, avant l’échéance des délais prévus à l’art. 77, al. 2 et 2<sup>bis</sup> de la loi du 9 octobre 1992 sur le droit d’auteur[^18-2], que le requérant ne pourra pas obtenir des mesures provisionnelles, le bureau de douane restitue les marchandises sans délai.
-
-[^18-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2543](https://fedlex.data.admin.ch/eli/oc/2008/363)).
-[^18-2]: [RS 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
+<sup>2</sup> Si l’IPI est le requérant, l’OFDF reste compétent.
 
 #### Art. 18a
 
-**Échantillons**[^18a-1]
+**Spécimens ou échantillons**
 
-<sup>1</sup> Le requérant peut présenter une demande pour solliciter la remise ou l’envoi d’échantillons à des fins d’examen ou l’inspection des produits semi-conducteurs retenus. Au lieu d’échantillons, l’OFDF peut aussi lui remettre des photographies desdits produits semi-conducteurs si elles lui permettent d’effectuer cet examen.
+<sup>1</sup> Le requérant peut présenter une demande pour solliciter soit la remise ou l’envoi de spécimens ou d’échantillons à des fins d’examen, soit l’inspection des produits semi-conducteurs.
 
-<sup>2</sup> Le requérant peut présenter cette demande à la Direction générale des douanes en même temps que la demande d’intervention ou, pendant la rétention des produits semi-conducteurs, directement au bureau de douane qui retient les produits semi-conducteurs.
+<sup>2</sup> Au lieu de spécimens ou d’échantillons, l’OFDF peut aussi remettre au requérant des photographies des produits semi-conducteurs retenus si elles lui permettent d’effectuer cet examen.
 
-[^18a-1]: Introduit par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2543](https://fedlex.data.admin.ch/eli/oc/2008/363)).
+<sup>3</sup> Le requérant peut présenter cette demande à l’OFDF en même temps que la demande d’intervention ou, pendant que les produits semi-conducteurs sont retenus, directement à l’autorité compétente.
 
 #### Art. 18b
 
-**Protection des secrets de fabrication et d’affaires**[^18b-1]
+**Protection des secrets de fabrication ou d’affaires**
 
-<sup>1</sup> L’OFDF informe le déclarant, le possesseur ou le propriétaire des produits semi-conducteurs de la possibilité de refuser le prélèvement d’échantillons sur présentation d’une demande motivée. Il lui impartit un délai raisonnable pour présenter cette demande.
+<sup>1</sup> Le déclarant, le possesseur ou le propriétaire des produits semi-conducteurs peut demander à l’OFDF de s’opposer au prélèvement de spécimens ou d’échantillons. La demande doit être motivée.
 
-<sup>2</sup> Si l’OFDF autorise le requérant à inspecter les produits semi-conducteurs retenus, il tient compte, pour fixer le moment de l’inspection, de manière appropriée des intérêts du requérant, d’une part, et de ceux du déclarant, du possesseur ou du propriétaire, d’autre part.
+<sup>2</sup> L’OFDF informe le déclarant, le possesseur ou le propriétaire des produits semi-conducteurs de la possibilité prévue à l’al. 1 et lui impartit un délai raisonnable.
 
-[^18b-1]: Introduit par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2543](https://fedlex.data.admin.ch/eli/oc/2008/363)).
+<sup>3</sup> Si l’OFDF autorise le requérant à inspecter les produits semi-conducteurs retenus, il fixe la date en prenant en considération de manière appropriée les intérêts du requérant, d’une part, et ceux du déclarant, du possesseur ou du propriétaire, d’autre part.
 
 #### Art. 18c
 
-**Conservation des moyens de preuve en cas de destruction des produits semi-conducteurs**[^18c-1]
+**Conservation des moyens de preuve en cas de destruction des produits semi-conducteurs**
 
-<sup>1</sup> L’OFDF conserve les échantillons prélevés durant un an à compter de la communication adressée au déclarant, au possesseur ou au propriétaire conformément à l’art. 77, al. 1 de la loi du 9 octobre 1992 sur le droit d’auteur[^18c-2]. Après expiration de ce délai, il invite le déclarant, le possesseur ou le propriétaire à reprendre possession des échantillons ou à supporter les frais pour la poursuite de leur conservation. Si le déclarant, le possesseur ou le propriétaire ne donne pas suite à cette invitation ou s’il ne fait pas connaître sa décision dans les 30 jours, l’OFDF détruit les échantillons.
+<sup>1</sup> L’OFDF conserve les spécimens ou les échantillons prélevés durant un an à compter du moment où il a informé le déclarant, le possesseur ou le propriétaire de la rétention des produits semi-conducteurs. Au terme de ce délai, il invite le déclarant, le possesseur ou le propriétaire à reprendre possession des spécimens ou des échantillons ou à supporter les frais engendrés par leur conservation. Si le déclarant, le possesseur ou le propriétaire ne donne pas suite à cette invitation ou s’il ne fait pas connaître sa décision dans les 30 jours, l’OFDF détruit les spécimens ou les échantillons.
 
-<sup>2</sup> Au lieu de prélever des échantillons, l’OFDF peut faire des photographies des produits semi-conducteurs détruits pour autant que cette mesure permette de garantir la conservation des moyens de preuve.
+<sup>2</sup> Au lieu de prélever des spécimens ou des échantillons, l’OFDF peut faire des photographies des produits semi-conducteurs détruits pour autant que cette mesure permette de garantir la conservation des moyens de preuve.
 
-[^18c-1]: Introduit par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2543](https://fedlex.data.admin.ch/eli/oc/2008/363)).
-[^18c-2]: [RS 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
+#### Art. 18d
+
+**Traitement, communication et conservation des données personnelles ou des données concernant des personnes morales**
+
+<sup>1</sup>
+
+Les autorités chargées de l’exécution des interventions sont autorisées à traiter les données ci-après personnelles ou concernant les personnes morales des personnes concernées par l’introduction de produits semi-conducteurs sur le territoire douanier ou par leur acheminement hors de celui-ci, aux fins visées aux art. 75 à 77*h*<sup>bis</sup> LDA[^18d-1], en particulier en relation avec le traitement de demandes d’intervention, le signalement d’envois suspects, la rétention ou la destruction de produits semi-conducteurs ainsi que le prélèvement ou l’envoi de spécimens ou d’échantillons:
+
+- a. les informations du requérant, de l’expéditeur, du déclarant, du possesseur ou du propriétaire des produits, en particulier son nom et son prénom ou la raison sociale ainsi que l’adresse;
+- b. les indications et documents relatifs aux demandes visées à l’art. 76 LDA;
+- c. les indications et documents relatifs aux produits semi-conducteurs retenus visés à l’art. 77 LDA;
+- d. les indications et documents relatifs à la demande d’intervention, y compris la rétention et la destruction des produits semi-conducteurs ainsi que le prélèvement et l’envoi de spécimens et d’échantillons.
+
+<sup>2</sup> Lorsque l’exécution de la procédure relève de la compétence de l’IPI, l’OFDF lui communique les données requises visées à l’al. 1.
+
+<sup>3</sup> Les autorités chargées de l’exécution des interventions sont autorisées à conserver les données aussi longtemps que l’exige la finalité du traitement, mais au maximum pendant les cinq ans qui suivent l’expiration de la durée de validité de la demande d’intervention ou l’intervention.
+
+[^18d-1]: [RS 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
 
 #### Art. 19
 
-**Émoluments**[^19-1]
+**Émoluments et taxes**
 
-Les émoluments perçus pour l’intervention de l’OFDF sont fixés dans l’ordonnance du 4 avril 2007 sur les émoluments de l’Office fédéral de la douane et de la sécurité des frontières[^19-2].
+<sup>1</sup> Les émoluments perçus pour l’intervention de l’OFDF sont fixés dans l’ordonnance du 4 avril 2007 sur les émoluments de l’Office fédéral de la douane et de la sécurité des frontières[^19-1].
 
-[^19-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 (RO **2 008** 2543).
-[^19-2]: [RS 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
+<sup>2</sup> Lorsque l’exécution de la procédure relève de la compétence de l’IPI, les taxes perçues sont celles qui sont fixées dans l’OTa-IPI[^19-2].
+
+[^19-1]: [RS 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
+[^19-2]: [RS 232.148](https://fedlex.data.admin.ch/eli/cc/2016/777)
 
 ## Section 5 Entrée en vigueur
 

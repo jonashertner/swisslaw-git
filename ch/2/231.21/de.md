@@ -4,11 +4,11 @@ title: "Verordnung vom 26. April 1993 über den Schutz von Topographien von Halb
 short: ToV
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1834_1834_1834"
 language: de
-version: 2022-01-01
+version: 2025-07-01
 adopted: 1993-04-26
 in_force: 1993-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1834_1834_1834/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1993-1834_1834_1834-20220101-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1834_1834_1834/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1834_1834_1834/20250701/de/xml/fedlex-data-admin-ch-eli-cc-1993-1834_1834_1834-20250701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1834_1834_1834/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/1834_1834_1834/20220101/de"
 
 (Topographienverordnung, ToV)
 
-vom 26. April 1993 (Stand am 1. Januar 2022)
+vom 26. April 1993 (Stand am 1. Juli 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -77,9 +77,9 @@ verordnet:
 
 **Gebühren**[^3-1]
 
-Die Gebühren, die nach dem ToG oder nach dieser Verordnung erhoben werden, richten sich nach der Verordnung des IGE vom 14. Juni 2016[^3-2] über Gebühren.
+Die Gebühren, die nach dem ToG oder nach dieser Verordnung erhoben werden, richten sich nach der Verordnung des IGE vom 14. Juni 2016[^3-2] über Gebühren (GebV‑IGE).
 
-[^3-1]: Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4827](https://fedlex.data.admin.ch/eli/oc/2016/773)).
+[^3-1]: Fassung gemäss Ziff. I 2 der V vom 14. Mai 2025 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 [^3-2]: [SR 232.148](https://fedlex.data.admin.ch/eli/cc/2016/777)
 
 ## 2. Abschnitt: Anmeldeverfahren
@@ -230,81 +230,114 @@ Das IGE erstellt Auszüge aus dem Register.
 
 <sup>2</sup> Werden die Datenträger und Halbleitererzeugnisse nach Ablauf der Aufbewahrungsfrist nicht zurückverlangt, kann sie das IGE auch ohne Antrag zurückschicken. Kann die Adresse der Berechtigten nicht ausfindig gemacht werden, so werden die hinterlegten Gegenstände zusammen mit den Akten vernichtet.
 
-## 4. Abschnitt: Hilfeleistung des BAZG
+## 4. Abschnitt: Hilfeleistung beim Verbringen von Halbleitererzeugnissen ins Zollgebiet oder aus dem Zollgebiet
+
+[^sec4-1]
+
+[^sec4-1]: Fassung gemäss Ziff. I 2 der V vom 14. Mai 2025 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 16
 
-**Bereich**[^16-1]
+**Geltungsbereich**
 
-Die Hilfeleistung des BAZG erstreckt sich auf das Verbringen von Halbleitererzeugnissen, bei denen der Verdacht besteht, dass ihre Verbreitung gegen die in der Schweiz geltende Gesetzgebung über den Schutz von Topographien von Halbleitererzeugnissen verstösst, ins oder aus dem Zollgebiet.
+Dieser Abschnitt gilt für Hilfeleistungen beim Verbringen von Halbleitererzeugnissen ins Zollgebiet oder aus dem Zollgebiet, bei denen der Verdacht besteht, dass ihre Verbreitung gegen die in der Schweiz geltende Gesetzgebung über den Schutz von Topographien von Halbleitererzeugnissen verstösst.
 
-[^16-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2543](https://fedlex.data.admin.ch/eli/oc/2008/363)).
+#### Art. 16a
 
-#### Art. 17
+**Kleinsendung**
+
+Als Kleinsendung gilt eine Sendung, die höchstens drei Einheiten enthält und deren Bruttogewicht weniger als fünf Kilogramm beträgt.
+
+#### Art. 16b
 
 **Antrag auf Hilfeleistung**
 
-<sup>1</sup> Die Hersteller und Herstellerinnen oder die klageberechtigten Lizenznehmer und Lizenznehmerinnen (Antragsteller und Antragstellerinnen) müssen den Antrag auf Hilfeleistung bei der Oberzolldirektion stellen.[^17-1]
+<sup>1</sup> Die Hersteller und Herstellerinnen oder die klageberechtigten Lizenznehmer und Lizenznehmerinnen (Antragsteller und Antragstellerinnen) müssen den Antrag auf Hilfeleistung beim BAZG stellen.
 
-<sup>1bis</sup> Die Oberzolldirektion entscheidet spätestens 40 Tage nach Erhalt der vollständigen Unterlagen über den Antrag.[^17-2]
+<sup>2</sup> Das BAZG entscheidet spätestens 40 Tage nach Erhalt der Unterlagen über den Antrag, sobald diese dem BAZG vollständig vorliegen.
 
-<sup>2</sup> Der Antrag gilt während zwei Jahren, wenn er nicht für eine kürzere Geltungsdauer gestellt wird. Er kann erneuert werden.
+<sup>3</sup> Der genehmigte Antrag gilt zwei Jahre, wenn er nicht für eine kürzere Geltungsdauer gestellt wird. Er kann erneuert werden.
 
-[^17-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2543](https://fedlex.data.admin.ch/eli/oc/2008/363)).
-[^17-2]: Eingefügt durch Ziff. I 2 der V vom 6. Juni 2014 über die Ordnungsfristen im Zuständigkeitsbereich der Eidgenössischen Zollverwaltung, in Kraft seit 1. Sept. 2014 ([AS 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
+#### Art. 17
+
+**Zurückbehalten von Halbleitererzeugnissen**
+
+<sup>1</sup> Behält das BAZG Halbleitererzeugnisse zurück, so verwahrt es diese gegen eine Gebühr oder gibt sie auf Kosten des Antragstellers oder der Antragstellerin einer Drittperson zur Verwahrung.
+
+<sup>2</sup> Es teilt dem Antragsteller oder der Antragstellerin Name und Adresse des Anmelders, Besitzers oder Eigentümers oder der Anmelderin, Besitzerin oder Eigentümerin, eine genaue Beschreibung, die Menge sowie den Absender oder die Absenderin der zurückbehaltenen Halbleitererzeugnisse mit.
+
+<sup>3</sup> Handelt es sich um eine Kleinsendung und wurde diese im vereinfachten Verfahren vernichtet, so teilt es dem Antragsteller oder der Antragstellerin die Menge und die Art sowie den Absender oder die Absenderin der vernichteten Halbleitererzeugnisse mit.
+
+<sup>4</sup> Steht schon vor Ablauf der Frist nach Artikel 77 Absatz 3 beziehungsweise 4 des Urheberrechtsgesetzes vom 9. Oktober 1992[^17-1] (URG) fest, dass der Antragsteller oder die Antragstellerin keine vorsorglichen Massnahmen erwirken kann, so werden die Halbleitererzeugnisse sogleich freigegeben.
+
+[^17-1]: [SR 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
 
 #### Art. 18
 
-**Zurückbehalten von Halbleitererzeugnissen**[^18-1]
+**Übertragung der Zuständigkeit bei Kleinsendungen**
 
-<sup>1</sup> Behält die Zollstelle Halbleitererzeugnisse zurück, so verwahrt sie sie gegen Gebühr selbst oder gibt sie auf Kosten des Antragstellers oder der Antragstellerin einer Drittperson in Verwahrung.
+<sup>1</sup> Handelt es sich bei den zurückbehaltenen Halbleitererzeugnissen um eine Kleinsendung, so überträgt das BAZG die Zuständigkeit für den Vollzug des Verfahrens dem IGE und übergibt diesem oder einer von diesem bezeichneten Drittperson die Halbleitererzeugnisse zur Verwahrung.
 
-<sup>2</sup> Sie teilt dem Antragsteller oder der Antragstellerin Name und Adresse der Anmelderin, Besitzerin oder Eigentümerin beziehungsweise des Anmelders, Besitzers oder Eigentümers, eine genaue Beschreibung, die Menge sowie den Absender im In- oder Ausland der zurückbehaltenen Halbleitererzeugnisse mit.
-
-<sup>3</sup> Steht schon vor Ablauf der Frist nach Artikel 77 Absatz 2 beziehungsweise 2<sup>bis</sup> des Urheberrechtsgesetzes vom 9. Oktober 1992[^18-2] fest, dass der Antragsteller oder die Antragstellerin keine vorsorgliche Massnahme erwirken kann, so gibt die Zollstelle die Halbleitererzeugnisse unverzüglich frei.
-
-[^18-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2543](https://fedlex.data.admin.ch/eli/oc/2008/363)).
-[^18-2]: [SR 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
+<sup>2</sup> Ist das IGE der Antragsteller, so bleibt das BAZG zuständig.
 
 #### Art. 18a
 
-**Proben oder Muster**[^18a-1]
+**Proben oder Muster**
 
-<sup>1</sup> Der Antragsteller oder die Antragstellerin kann die Übergabe oder Zusendung von Proben oder Mustern zur Prüfung oder die Besichtigung der Halbleitererzeugnisse beantragen. Anstelle von Proben oder Mustern kann das BAZG dem Antragsteller oder der Antragstellerin auch Fotografien der zurückbehaltenen Halbleitererzeugnisse übergeben, wenn diese eine Prüfung durch den Antragsteller oder die Antragstellerin ermöglichen.
+<sup>1</sup> Der Antragsteller oder die Antragstellerin kann die Übergabe oder Zusendung von Proben oder Mustern zur Prüfung oder die Besichtigung der Halbleitererzeugnisse beantragen.
 
-<sup>2</sup> Der Antrag kann zusammen mit dem Antrag auf Hilfeleistung bei der Oberzolldirektion oder während des Zurückbehaltens der Halbleitererzeugnisse direkt bei der Zollstelle gestellt werden, welche die Halbleitererzeugnisse zurückbehält.
+<sup>2</sup> Das BAZG kann dem Antragsteller oder der Antragstellerin anstelle der Proben oder Muster auch Fotografien der zurückbehaltenen Halbleitererzeugnisse übergeben, wenn diese eine Prüfung ermöglichen.
 
-[^18a-1]: Eingefügt durch Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2543](https://fedlex.data.admin.ch/eli/oc/2008/363)).
+<sup>3</sup> Der Antrag kann zusammen mit dem Antrag auf Hilfeleistung beim BAZG oder, während die Halbleitererzeugnisse zurückbehalten werden, bei der zuständigen Behörde gestellt werden.
 
 #### Art. 18b
 
-**Wahrung von Fabrikations- und Geschäftsgeheimnissen**[^18b-1]
+**Wahrung von Fabrikations- und Geschäftsgeheimnissen**
 
-<sup>1</sup> Das BAZG weist die Anmelderin, Besitzerin oder Eigentümerin beziehungsweise den Anmelder, Besitzer oder Eigentümer der Halbleitererzeugnisse auf die Möglichkeit hin, einen begründeten Antrag auf Verweigerung der Entnahme von Proben oder Mustern zu stellen. Es setzt ihr oder ihm für die Stellung des Antrags eine angemessene Frist.
+<sup>1</sup> Der Anmelder, Besitzer oder Eigentümer oder die Anmelderin, Besitzerin oder Eigentümerin der Halbleitererzeugnisse kann dem BAZG beantragen, die Entnahme von Proben oder Mustern zu verweigern. Der Antrag ist zu begründen.
 
-<sup>2</sup> Gestattet das BAZG dem Antragsteller oder der Antragstellerin die Besichtigung der zurückbehaltenen Halbleitererzeugnisse, so nimmt es bei der Festlegung des Zeitpunkts auf die Interessen des Antragstellers oder der Antragstellerin und der Anmelderin, Besitzerin oder Eigentümerin beziehungsweise des Anmelders, Besitzers oder Eigentümers angemessen Rücksicht.
+<sup>2</sup> Das BAZG informiert den Anmelder, Besitzer oder Eigentümer oder die Anmelderin, Besitzerin oder Eigentümerin der Halbleitererzeugnisse über die Möglichkeit nach Absatz 1 und gewährt ihm oder ihr eine angemessene Frist.
 
-[^18b-1]: Eingefügt durch Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2543](https://fedlex.data.admin.ch/eli/oc/2008/363)).
+<sup>3</sup> Gestattet es dem Antragsteller oder der Antragstellerin, die zurückbehaltenen Halbleitererzeugnisse zu besichtigen, so berücksichtigt es bei der Festlegung des Zeitpunkts angemessen die Interessen des Antragstellers oder der Antragstellerin sowie des Anmelders, Besitzers oder Eigentümers oder der Anmelderin, Besitzerin oder Eigentümerin.
 
 #### Art. 18c
 
-**Aufbewahrung von Beweismitteln bei Vernichtung der Halbleitererzeugnisse**[^18c-1]
+**Aufbewahrung von Beweismitteln bei Vernichtung der Halbleitererzeugnisse**
 
-<sup>1</sup> Das BAZG bewahrt die entnommenen Proben oder Muster während eines Jahres ab der Benachrichtigung der Anmelderin, Besitzerin oder Eigentümerin beziehungsweise des Anmelders, Besitzers oder Eigentümers nach Artikel 77 Absatz 1 des Urheberrechtsgesetzes vom 9. Oktober 1992[^18c-2] auf. Nach Ablauf dieser Frist fordert es die Anmelderin, Besitzerin oder Eigentümerin beziehungsweise den Anmelder, Besitzer oder Eigentümer auf, die Proben oder Muster in ihren beziehungsweise seinen Besitz zu nehmen oder die Kosten der weiteren Aufbewahrung zu tragen. Ist die Anmelderin, Besitzerin oder Eigentümerin beziehungsweise der Anmelder, Besitzer oder Eigentümer dazu nicht bereit oder lässt sie beziehungsweise er sich innerhalb von 30 Tagen nicht vernehmen, so vernichtet das BAZG die Proben oder Muster.
+<sup>1</sup> Das BAZG bewahrt die Proben oder Muster ab dem Zeitpunkt der Mitteilung an den Anmelder, Besitzer oder Eigentümer oder an die Anmelderin, Besitzerin oder Eigentümerin, dass die Halbleitererzeugnisse zurückbehalten werden, ein Jahr auf. Nach Ablauf dieser Frist fordert es den Anmelder, Besitzer oder Eigentümer oder die Anmelderin, Besitzerin oder Eigentümerin auf, die Proben oder Muster in Besitz zu nehmen oder die Kosten der weiteren Aufbewahrung zu tragen. Kommt der Anmelder, Besitzer oder Eigentümer oder die Anmelderin, Besitzerin oder Eigentümerin der Aufforderung nicht nach oder gibt er oder sie innerhalb von 30 Tagen keine Antwort, so vernichtet das BAZG die Proben oder Muster.
 
 <sup>2</sup> Das BAZG kann anstelle der Entnahme von Proben oder Mustern Fotografien der vernichteten Halbleitererzeugnisse erstellen, soweit damit der Zweck der Sicherung von Beweismitteln gewährleistet ist.
 
-[^18c-1]: Eingefügt durch Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2543](https://fedlex.data.admin.ch/eli/oc/2008/363)).
-[^18c-2]: [SR 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
+#### Art. 18d
+
+**Bearbeitung, Bekanntgabe und Aufbewahrung von Personendaten und Daten juristischer Personen**
+
+<sup>1</sup> Die für den Vollzug der Hilfeleistung zuständigen Behörden sind berechtigt, die folgenden Personendaten und Daten juristischer Personen, die Personen betreffen, die am Verbringen von Halbleitererzeugnissen ins Zollgebiet oder aus dem Zollgebiet oder an der Hilfeleistung beteiligt sind, für die Zwecke nach den Artikeln 75–77*h*<sup>bis</sup> URG[^18d-1] zu bearbeiten, insbesondere im Zusammenhang mit der Bearbeitung von Anträgen auf Hilfeleistung, mit der Meldung verdächtiger Sendungen, mit dem Zurückbehalten oder der Vernichtung von Halbleitererzeugnissen sowie mit der Entnahme oder dem Versand von Proben und Mustern:
+
+a. Personalien des Antragstellers, Absenders, Anmelders, Besitzers oder Eigentümers der Halbleitererzeugnisse oder der Antragstellerin, Absenderin, Anmelderin, Besitzerin oder Eigentümerin der Halbleitererzeugnisse, insbesondere dessen oder deren Name und Vorname oder Firma und Adresse;
+
+b. Angaben und Dokumente zu den Anträgen nach Artikel 76 URG;
+
+c. Angaben und Dokumente zu den nach Artikel 77 URG zurückbehaltenen Halbleitererzeugnissen;
+
+d. Angaben und Dokumente zur Hilfeleistung, einschliesslich des Zurückbehaltens und der Vernichtung von Halbleitererzeugnissen sowie der Entnahme und des Versands von Proben und Mustern.
+
+<sup>2</sup> Ist das IGE für den Vollzug des Verfahrens zuständig, so gibt das BAZG diesem die erforderlichen Daten nach Absatz 1 bekannt.
+
+<sup>3</sup> Die zuständigen Behörden dürfen die Daten so lange aufbewahren, wie es der Bearbeitungszweck erfordert, höchstens jedoch fünf Jahre, nachdem die Geltungsdauer eines Antrags auf Hilfeleistung abgelaufen oder die Hilfeleistung erfolgt ist.
+
+[^18d-1]: [SR 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
 
 #### Art. 19
 
-**Gebühren**[^19-1]
+**Gebühren**
 
-Die Gebühren für die Hilfeleistung des BAZG richten sich nach der Verordnung vom 4. April 2007[^19-2] über die Gebühren des Bundesamts für Zoll und Grenzsicherheit.
+<sup>1</sup> Die Gebühren für die Hilfeleistung des BAZG richten sich nach der Verordnung vom 4. April 2007[^19-1] über die Gebühren des Bundesamts für Zoll und Grenzsicherheit.
 
-[^19-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2543](https://fedlex.data.admin.ch/eli/oc/2008/363)).
-[^19-2]: [SR 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
+<sup>2</sup> Ist das IGE für den Vollzug des Verfahrens zuständig, so richten sich die Gebühren nach der GebV-IGE[^19-2].
+
+[^19-1]: [SR 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
+[^19-2]: [SR 232.148](https://fedlex.data.admin.ch/eli/cc/2016/777)
 
 ## 5. Abschnitt: Inkrafttreten
 
