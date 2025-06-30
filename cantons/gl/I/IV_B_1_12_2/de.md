@@ -3,20 +3,19 @@ canton: GL
 number: IV B/1/12/2
 title: Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen
 language: de
-version: 2022-12-01
-valid_until: 2025-06-30
-version_adopted: 2022-11-24
+version: 2025-07-01
+version_adopted: 2025-06-26
 adopted: 1993-02-18
 in_force: 1995-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-B.1.12.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/2579/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2580/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen
 
-Vom 18.02.1993 (Stand 01.12.2022)
+Vom 18.02.1993 (Stand 01.07.2025)
 
 (Beschlossen von der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren)
 
@@ -224,7 +223,7 @@ Vom 18.02.1993 (Stand 01.12.2022)
 
 <sup>1</sup>
 
-- a. Osteopathin und Osteopath mit interkantonalem Diplom GDK
+- a. …
 - b. Diplomierte Logopädin und diplomierter Logopäde (EDK)
 - c. …
 - d. Master of Science FH in Ergotherapie
@@ -234,16 +233,17 @@ Vom 18.02.1993 (Stand 01.12.2022)
 - g. …
 - h. Aktivierungsfachfrau und Aktivierungsfachmann HF
 - i. Biomedizinische Analytikerin und biomedizinischer Analytiker HF
+- i1. Bachelor of Science in Biomedizinischer Labordiagnostik
 - j. Dentalhygienikerin und Deantalhygieniker HF
 - k. Drogistin und Drogist HF
 - l. Radiologiefachfrau und Radiologiefachmann HF
-- l1. Bachelor of Science HES-SO en technique en radiologie médicale
+- l1. Bachelor of Science in Medizinisch-technischer Radiologie
 - m. Fachfrau und Fachmann Operationstechnik HF
 - n. Orthoptistin und Orthoptist HF
 - o. Podologin und Podologe HF
 - p. Rettungssanitäterin und Rettungssanitäter HF
 - q. Medizinische Masseurin und medizinischer Masseur mit eidg. Fachausweis
-- r. Augenoptikerin und Augenoptiker HFP
+- r. …
 - s. Master of Science FH in Pflege / Master of Science in Nursing
 - t. …
 - u. Naturheilpraktikerin und Naturheilpraktiker mit eidgenössischem Diplom
