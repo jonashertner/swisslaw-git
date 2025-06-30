@@ -4,11 +4,11 @@ title: Ordonnance du 23 décembre 1992 sur la protection des marques et des indi
 short: OPM
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/296_296_296"
 language: fr
-version: 2022-01-01
+version: 2025-07-01
 adopted: 1992-12-23
 in_force: 1993-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/296_296_296/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-296_296_296-20220101-fr-xml-16.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/296_296_296/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/296_296_296/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-1993-296_296_296-20250701-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/296_296_296/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/296_296_296/20220101/fr"
 
 (OPM)[^t-1]
 
-du 23 décembre 1992 (État le 1<sup>er</sup> janvier 2022)
+du 23 décembre 1992 (État le 1<sup>er</sup> juillet 2025)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 2 sept. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
 
@@ -27,8 +27,8 @@ vu les art. 35*c*, 38, al. 2, 39, al. 3, 50, al. 1 et 2, 50*d*, al. 2, et 50*e*,
 
 arrête:
 
-[^ingress-1]: [RS 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
-[^ingress-2]: [RS 172.010.31](https://fedlex.data.admin.ch/eli/cc/1995/5050_5050_5050)
+[^ingress-1]: [RS 232.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5961)
+[^ingress-2]: [RS 172.010.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5028)
 [^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 18 août 2021, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
 
 ## Chapitre 1 Dispositions générales
@@ -43,7 +43,7 @@ arrête:
 
 [^1-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 16, al. 3, de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
 [^1-2]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 5158](https://fedlex.data.admin.ch/eli/oc/1995/5158_5158_5158)).
-[^1-3]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^1-3]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 2
 
@@ -83,7 +83,7 @@ Lorsqu’un délai se calcule en mois ou en années, il prend fin le jour du der
 Lorsque le titre de protection litigieux est transféré en cours d’instance, les règles prévues à l’art. 83 du code de procédure civile[^4a-2] s’appliquent par analogie.
 
 [^4a-1]: Introduit par le ch. I de l’O du 18 août 2021, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
-[^4a-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^4a-2]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 #### Art. 5
 
@@ -121,10 +121,10 @@ Lorsque le titre de protection litigieux est transféré en cours d’instance, 
 
 **Taxes**[^7-1]
 
-L’ordonnance de l’IPI du 14 juin 2016 sur les taxes[^7-2] s’applique aux taxes prévues par la LPM ou par la présente ordonnance.
+L’ordonnance de l’IPI du 14 juin 2016 sur les taxes (OTa-IPI)[^7-2] s’applique aux taxes prévues par la LPM ou par la présente ordonnance.
 
-[^7-1]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
-[^7-2]: [RS 232.148](https://fedlex.data.admin.ch/eli/cc/2016/777)
+[^7-1]: Nouvelle teneur selon le ch. I 3 de l’O du 14 mai 2025 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
+[^7-2]: [RS 232.148](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5978)
 
 #### Art. 7a
 
@@ -149,7 +149,7 @@ L’ordonnance de l’IPI du 14 juin 2016 sur les taxes[^7-2] s’applique aux t
 
 <sup>2</sup> Si un dépôt valable quant à sa forme contient toutes les indications requises, l’IPI peut renoncer à exiger la présentation du formulaire.[^8-3]
 
-[^8-1]: [RS 0.232.112.11](https://fedlex.data.admin.ch/eli/cc/2009/150)
+[^8-1]: [RS 0.232.112.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1054)
 [^8-2]: Nouvelle teneur selon le ch. I de l’O du 18 août 2021, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
 [^8-3]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
 
@@ -212,10 +212,10 @@ Le cas échéant, elle doit être complétée par:
 
 **Liste des produits et des services**[^11-1]
 
-Les produits et les services pour lesquels la protection de la marque est revendiquée doivent être désignés en termes précis et munis du numéro de la classe selon l’Arrangement de Nice du 15 juin 1957 concernant la classification internationale des produits et des services[^11-2] (Arrangement de Nice).
+Les produits et les services pour lesquels la protection de la marque est revendiquée doivent être désignés en termes précis et munis du numéro de la classe selon l’Arrangement de Nice du 15 juin 1957 concernant la classification internationale des produits et des services (Arrangement de Nice)[^11-2].
 
 [^11-1]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
-[^11-2]: [RS 0.232.112.7](https://fedlex.data.admin.ch/eli/cc/1962/985_1019_1020)**/.9**
+[^11-2]: [RS 0.232.112.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1061), [0.232.112.8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1062), [0.232.112.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1063)
 
 #### Art. 12
 
@@ -232,7 +232,7 @@ La déclaration de priorité au sens de la Convention de Paris du 20 mars 1883 p
 
 <sup>3</sup> …[^12-2]
 
-[^12-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**/.04**
+[^12-1]: [RS 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027), [0.232.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1028), [0.232.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1029), [0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 [^12-2]: Abrogé par le ch. I de l’O du 2 sept. 2015, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
 
 #### Art. 13
@@ -308,11 +308,12 @@ En cas de requête en poursuite de la procédure d’une demande rejetée pour i
 
 <sup>1</sup> Le déposant doit payer la taxe de dépôt dans un délai fixé par l’IPI.
 
-<sup>2</sup> Lorsque la liste des produits ou des services concernant la marque déposée contient plus de trois classes, le déposant doit payer une surtaxe pour chaque classe supplémentaire. L’IPI détermine le nombre des classes sujettes à une surtaxe selon l’Arrangement de Nice.
+<sup>2</sup> Lorsque la liste des produits ou des services concernant la marque déposée contient plus de trois classes, le déposant doit payer une surtaxe pour chaque classe supplémentaire. L’IPI détermine le nombre des classes sujettes à une surtaxe selon l’Arrangement de Nice[^18-2].
 
 <sup>3</sup> Le déposant doit payer la surtaxe pour les classes supplémentaires dans un délai fixé par l’IPI.
 
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+[^18-2]: [RS 0.232.112.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1061), [0.232.112.8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1062), [0.232.112.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1063)
 
 #### Art. 18a
 
@@ -455,7 +456,7 @@ La demande de radiation d’un enregistrement pour défaut d’usage de la marqu
 
 <sup>2</sup> Si la procédure devient sans objet ou qu’elle est close à la suite d’une transaction ou d’un désistement, l’IPI restitue la moitié de la taxe de radiation. Si les conditions prévues à l’art. 33*b* de la loi fédérale du 20 décembre 1968 sur la procédure administrative (PA)[^24e-1] sont remplies, la taxe est entièrement restituée.[^24e-2]
 
-[^24e-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^24e-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^24e-2]: Nouvelle teneur selon le ch. I de l’O du 18 août 2021, en vigueur depuis le 1<sup>er</sup>er déc. 2021 ([RO 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
 
 ### Section 3 Prolongation de l’enregistrement
@@ -668,23 +669,23 @@ L’enregistrement de la marque comprend:
 - c. le nom et le prénom ou la raison de commerce ainsi que l’adresse du titulaire;
 - d. le cas échéant, le nom et l’adresse du mandataire;
 - e. la reproduction de la marque;
-- f.[^40-1] les produits et les services auxquels la marque est destinée, avec l’indication des classes selon la classification de l’Arrangement de Nice;
+- f.[^40-1] les produits et les services auxquels la marque est destinée, avec l’indication des classes selon la classification de l’Arrangement de Nice[^40-2];
 - g. la date de publication de l’enregistrement;
-- h.[^40-2] des indications concernant le remplacement d’un ancien enregistrement national par un enregistrement international;
-- i.[^40-3] la date de l’enregistrement;
-- k.[^40-4] le numéro de la demande d’enregistrement.
+- h.[^40-3] des indications concernant le remplacement d’un ancien enregistrement national par un enregistrement international;
+- i.[^40-4] la date de l’enregistrement;
+- k.[^40-5] le numéro de la demande d’enregistrement.
 
 <sup>2</sup>
 
-L’enregistrement est, le cas échéant, complété par:[^40-5]
+L’enregistrement est, le cas échéant, complété par:[^40-6]
 
 - a. l’indication de la couleur ou de la combinaison de couleurs revendiquées;
-- b.[^40-6] l’indication «marque tridimensionnelle» ou tout autre indication précisant le type particulier de la marque;
+- b.[^40-7] l’indication «marque tridimensionnelle» ou tout autre indication précisant le type particulier de la marque;
 - c. l’indication «marque imposée»;
 - d. l’indication qu’il s’agit d’une marque de garantie ou d’une marque collective;
-- d<sup>bis</sup>.[^40-7] l’indication qu’il s’agit d’une marque géographique;
+- d<sup>bis</sup>.[^40-8] l’indication qu’il s’agit d’une marque géographique;
 - e. des indications relatives à la revendication de priorité en vertu des art. 7 et 8 LPM;
-- f.[^40-8] …
+- f.[^40-9] …
 
 <sup>3</sup>
 
@@ -694,7 +695,7 @@ Sont en outre inscrits au registre avec la date de publication:
 - b. la révocation totale ou partielle de l’enregistrement;
 - c. la radiation totale ou partielle de l’enregistrement et l’indication du motif de radiation;
 - d. le transfert total ou partiel de la marque;
-- e.[^40-9] l’octroi d’une licence et, le cas échéant, l’indication qu’il s’agit d’une licence exclusive ou d’une licence partielle;
+- e.[^40-10] l’octroi d’une licence et, le cas échéant, l’indication qu’il s’agit d’une licence exclusive ou d’une licence partielle;
 - f. l’usufruit et le droit de gage grevant la marque;
 - g. les restrictions au pouvoir de disposition ordonnées par des tribunaux et des autorités chargées de l’exécution forcée;
 - h. les modifications des indications enregistrées;
@@ -703,14 +704,15 @@ Sont en outre inscrits au registre avec la date de publication:
 <sup>4</sup> L’IPI peut enregistrer d’autres indications d’intérêt public.
 
 [^40-1]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
-[^40-2]: Introduite par le ch. I de l’O du 22 janv. 1997, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
+[^40-2]: [RS 0.232.112.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1061), [0.232.112.8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1062), [0.232.112.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1063)
 [^40-3]: Introduite par le ch. I de l’O du 22 janv. 1997, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
 [^40-4]: Introduite par le ch. I de l’O du 22 janv. 1997, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
-[^40-5]: Nouvelle teneur selon le ch. I de l’O du 8 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2002 ([RO 2002 1119](https://fedlex.data.admin.ch/eli/oc/2002/182)).
+[^40-5]: Introduite par le ch. I de l’O du 22 janv. 1997, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
 [^40-6]: Nouvelle teneur selon le ch. I de l’O du 8 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2002 ([RO 2002 1119](https://fedlex.data.admin.ch/eli/oc/2002/182)).
-[^40-7]: Introduite par le ch. I de l’O du 2 sept. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
-[^40-8]: Abrogée par le ch. I de l’O du 22 janv. 1997, avec effet au 1<sup>er</sup> mai 1997 ([RO 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
-[^40-9]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+[^40-7]: Nouvelle teneur selon le ch. I de l’O du 8 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2002 ([RO 2002 1119](https://fedlex.data.admin.ch/eli/oc/2002/182)).
+[^40-8]: Introduite par le ch. I de l’O du 2 sept. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
+[^40-9]: Abrogée par le ch. I de l’O du 22 janv. 1997, avec effet au 1<sup>er</sup> mai 1997 ([RO 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
+[^40-10]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
 
 #### Art. 40a
 
@@ -795,8 +797,8 @@ L’IPI publie:
 
 <sup>4</sup> La taxe nationale (art. 45, al. 2, LPM) doit être payée sur injonction de l’IPI.[^47-7]
 
-[^47-1]: [RS 0.232.112.3](https://fedlex.data.admin.ch/eli/cc/1970/1689_1694_1693)
-[^47-2]: [RS 0.232.112.4](https://fedlex.data.admin.ch/eli/cc/1997/2350_2350_2350)
+[^47-1]: [RS 0.232.112.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1057)
+[^47-2]: [RS 0.232.112.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1060)
 [^47-3]: Nouvelle teneur selon le ch. I de l’O du 22 janv. 1997, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
 [^47-4]: Nouvelle teneur selon le ch. I de l’O du 18 août 2021, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
 [^47-5]: Introduit par le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
@@ -811,7 +813,7 @@ L’IPI publie:
 
 <sup>2</sup> Lorsque le défaut n’est pas corrigé dans le délai fixé par l’IPI, la demande est rejetée. L’IPI peut exceptionnellement impartir des délais supplémentaires.
 
-[^48-1]: [RS 0.232.112.21](https://fedlex.data.admin.ch/eli/cc/2020/338)
+[^48-1]: [RS 0.232.112.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1056)
 [^48-2]: Nouvelle teneur selon le ch. I de l’O du 22 janv. 1997, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
 
 #### Art. 49
@@ -896,7 +898,7 @@ Le présent chapitre régit l’usage d’une indication de provenance:
 
 <sup>2</sup> Pour les denrées alimentaires, seuls l’ordonnance du 2 septembre 2015 sur l’utilisation des indications de provenance suisses pour les denrées alimentaires[^52a-1] et les art. 52*c* et 52*d* de la présente ordonnance sont applicables.
 
-[^52a-1]: [RS 232.112.1](https://fedlex.data.admin.ch/eli/cc/2015/611)
+[^52a-1]: [RS 232.112.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5965)
 
 #### Art. 52b
 
@@ -1095,7 +1097,7 @@ Les demandes invoquant les motifs de refus visés à l’art. 50*e*, al. 1, LPM 
 
 <sup>4</sup> L’IPI peut inviter les autorités fédérales ou cantonales concernées à donner leur avis.
 
-[^52r-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^52r-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ## Chapitre 7 Signe d’identification du producteur sur les montres et mouvements de montres
 
@@ -1111,82 +1113,111 @@ Les demandes invoquant les motifs de refus visés à l’art. 50*e*, al. 1, LPM 
 
 <sup>5</sup> Les motifs d’exclusion prévus à l’art. 3, al. 1, LPM s’appliquent également aux signes d’identification du producteur.
 
-[^53-1]: [RS 232.119](https://fedlex.data.admin.ch/eli/cc/1971/1908_1915_1915)
+[^53-1]: [RS 232.119](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5970)
 
-## Chapitre 8 Intervention de l’OFDF
+## Chapitre 8 Interventions lors de l’introduction de produits sur le territoire douanier ou de leur acheminement hors de celui-ci
+
+[^chap8-1]
+
+[^chap8-1]: Nouvelle teneur selon le ch. I 3 de l’O du 14 mai 2025 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 54
 
-**Domaine d’application**[^54-1]
+**Domaine d’application**
 
-L’OFDF est habilité à intervenir en cas d’introduction sur le territoire douanier et de sortie dudit territoire de produits munis d’une marque ou d’une indication de provenance illicites.
+Le présent chapitre régit les interventions lors de l’introduction sur le territoire douanier de produits désignés illicitement par une marque ou une indication de provenance ou de l’acheminement de tels produits hors du territoire douanier.
 
-[^54-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2547](https://fedlex.data.admin.ch/eli/oc/2008/364)).
+#### Art. 54a
 
-#### Art. 55
+**Petit envoi**
+
+Un petit envoi est un envoi qui contient trois unités au maximum et dont le poids brut est inférieur à cinq kilogrammes.
+
+#### Art. 54b
 
 **Demande d’intervention**
 
-<sup>1</sup> La demande d’intervention doit être présentée à la Direction générale des douanes par le titulaire d’une marque, le preneur de licence ayant qualité pour agir, l’ayant droit à une indication de provenance ou une partie ayant qualité pour intenter une action en vertu de l’art. 56 LPM (requérant).[^55-1]
+<sup>1</sup> La demande d’intervention doit être présentée à l’OFDF par le titulaire de la marque, le preneur de licence ayant qualité pour agir, l’ayant droit à une indication de provenance ou une partie ayant qualité pour intenter une action en vertu de l’art. 56 LPM (requérant).
 
-<sup>1bis</sup> La Direction générale des douanes rend sa décision sur la demande au plus tard 40 jours après réception de l’intégralité des pièces justificatives.[^55-2]
+<sup>2</sup> L’OFDF rend sa décision sur la demande au plus tard 40 jours après réception de tous les documents requis.
 
-<sup>2</sup> La demande est valable deux ans à moins qu’elle ait été déposée pour une période plus courte. Elle peut être renouvelée.
+<sup>3</sup> Une fois approuvée, la demande est valable deux ans, à moins qu’elle ne spécifie une durée de validité plus courte. Elle peut être renouvelée.
 
-[^55-1]: Nouvelle teneur selon le ch. I de l’O du 2 sept. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
-[^55-2]: Introduit par le ch. I 3 de l’O du 6 juin 2014 sur la fixation de délais d’ordre dans le domaine de l’Administration fédérale des douanes, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
+#### Art. 55
+
+**Rétention des produits**
+
+<sup>1</sup> Lorsque l’OFDF retient des produits, il les garde en dépôt contre perception d’un émolument ou il les entrepose chez un tiers aux frais du requérant.
+
+<sup>2</sup> Il communique au requérant le nom et l’adresse du déclarant, du possesseur ou du propriétaire, lui transmet une description précise des produits retenus et l’informe de la quantité et de l’expéditeur desdits produits.
+
+<sup>3</sup> S’il s’agit d’un petit envoi et que celui-ci a été détruit dans le cadre de la procédure simplifiée, l’OFDF informe le requérant de la quantité, de la nature et de l’expéditeur des produits détruits.
+
+<sup>4</sup> S’il s’avère, avant l’échéance du délai visé à l’art. 72, al. 3 et 4, LPM, que le requérant ne pourra pas obtenir de mesures provisionnelles, les produits sont libérés sans délai.
 
 #### Art. 56
 
-**Rétention**
+**Délégation de la compétence pour les petits envois**
 
-<sup>1</sup> Lorsque le bureau de douane retient des produits, il en assume la garde moyennant le paiement d’une taxe ou confie cette tâche à un tiers au frais du requérant.
+<sup>1</sup> Lorsqu’il s’agit d’un petit envoi, l’OFDF confie la responsabilité de l’exécution de la procédure à l’IPI et remet les produits à ce dernier ou à un tiers désigné par l’IPI pour qu’il les garde en dépôt.
 
-<sup>2</sup> Il transmet au requérant le nom et l’adresse du déclarant, du possesseur ou du propriétaire, une description précise et la quantité des produits retenus ainsi que le nom de l’expéditeur en Suisse ou à l’étranger desdits produits.[^56-1]
-
-<sup>3</sup> Lorsqu’il est établi avant l’échéance des délais prévus à l’art. 72, al. 2 et 3, LPM que le requérant n’est pas à même d’obtenir des mesures provisionnelles, les produits sont libérés.[^56-2]
-
-[^56-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2547](https://fedlex.data.admin.ch/eli/oc/2008/364)).
-[^56-2]: Nouvelle teneur selon le ch. I de l’O du 2 sept. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
+<sup>2</sup> Si l’IPI est le requérant, l’OFDF reste compétent.
 
 #### Art. 56a
 
-**Échantillons**[^56a-1]
+**Spécimens ou échantillons**
 
-<sup>1</sup> Le requérant peut présenter une demande pour solliciter la remise ou l’envoi d’échantillons à des fins d’examen ou l’inspection des produits retenus. Au lieu d’échantillons, l’OFDF peut aussi lui remettre des photographies desdits produits si elles lui permettent d’effectuer cet examen.
+<sup>1</sup> Le requérant peut présenter une demande pour solliciter soit la remise ou l’envoi de spécimens ou d’échantillons à des fins d’examen, soit l’inspection des produits.
 
-<sup>2</sup> Le requérant peut adresser cette demande à la Direction générale des douanes en même temps que la demande d’intervention ou, pendant la rétention des produits, directement au bureau de douane qui retient les produits.
+<sup>2</sup> Au lieu de spécimens ou d’échantillons, l’OFDF peut aussi remettre au requérant des photographies des produits retenus si elles lui permettent d’effectuer cet examen.
 
-[^56a-1]: Introduit par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2547](https://fedlex.data.admin.ch/eli/oc/2008/364)).
+<sup>3</sup> Le requérant peut présenter cette demande à l’OFDF en même temps que la demande d’intervention ou, pendant que les produits sont retenus, directement à l’autorité compétente.
 
 #### Art. 56b
 
-**Protection des secrets de fabrication et d’affaires**[^56b-1]
+**Protection des secrets de fabrication et d’affaires**
 
-<sup>1</sup> L’OFDF informe le déclarant, le possesseur ou le propriétaire des produits de la possibilité de refuser le prélèvement d’échantillons sur présentation d’une demande motivée. Il lui impartit un délai raisonnable pour présenter cette demande.
+<sup>1</sup> Le déclarant, le possesseur ou le propriétaire des produits peut demander à l’OFDF de s’opposer au prélèvement de spécimens ou d’échantillons. La demande doit être motivée.
 
-<sup>2</sup> Si l’OFDF autorise le requérant à inspecter les produits retenus, il tient compte, pour fixer le moment de l’inspection, de manière appropriée des intérêts du requérant, d’une part, et de ceux du déclarant, du possesseur ou du propriétaire, d’autre part.
+<sup>2</sup> L’OFDF informe le déclarant, le possesseur ou le propriétaire des produits de la possibilité prévue à l’al. 1 et lui impartit un délai raisonnable.
 
-[^56b-1]: Introduit par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2547](https://fedlex.data.admin.ch/eli/oc/2008/364)).
+<sup>3</sup> Si l’OFDF autorise le requérant à inspecter les produits retenus, il fixe la date en prenant en considération de manière appropriée les intérêts du requérant, d’une part, et ceux du déclarant, du possesseur ou du propriétaire, d’autre part.
 
 #### Art. 56c
 
-**Conservation des moyens de preuve en cas de destruction des produits**[^56c-1]
+**Conservation des moyens de preuve en cas de destruction des produits**
 
-<sup>1</sup> L’OFDF conserve les échantillons prélevés durant un an à compter de la communication adressée au déclarant, au possesseur ou au propriétaire conformément à l’art. 72, al. 1 LPM. Après expiration de ce délai, il invite le déclarant, le possesseur ou le propriétaire à reprendre possession des échantillons ou à supporter les frais pour la poursuite de leur conservation. Si le déclarant, le possesseur ou le propriétaire ne donne pas suite à cette invitation ou s’il ne fait pas connaître sa décision dans les 30 jours, l’OFDF détruit les échantillons.
+<sup>1</sup> L’OFDF conserve les spécimens ou les échantillons prélevés durant un an à compter du moment où il a informé le déclarant, le possesseur ou le propriétaire de la rétention des produits. Au terme de ce délai, il invite le déclarant, le possesseur ou le propriétaire à reprendre possession des spécimens ou des échantillons ou à supporter les frais engendrés par leur conservation. Si le déclarant, le possesseur ou le propriétaire ne donne pas suite à cette invitation ou s’il ne fait pas connaître sa décision dans les 30 jours, l’OFDF détruit les spécimens ou les échantillons.
 
-<sup>2</sup> Au lieu de prélever des échantillons, l’OFDF peut faire des photographies des produits détruits pour autant que cette mesure permette de garantir la conservation des moyens de preuve.
+<sup>2</sup> Au lieu de prélever des spécimens ou des échantillons, l’OFDF peut faire des photographies des produits pour autant que cette mesure permette de garantir la conservation des moyens de preuve.
 
-[^56c-1]: Introduit par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2547](https://fedlex.data.admin.ch/eli/oc/2008/364)).
+#### Art. 56d
+
+**Traitement, communication et conservation des données personnelles ou des données concernant des personnes morales**
+
+<sup>1</sup>
+
+Les autorités chargées de l’exécution des interventions sont autorisées à traiter les données ci-après personnelles ou concernant les personnes morales des personnes concernées par l’introduction de produits sur le territoire douanier ou par leur acheminement hors de celui-ci, aux fins visées aux art. 70 à 72*i* LPM, en particulier en relation avec le traitement de demandes d’intervention, le signalement d’envois suspects, la rétention ou la destruction de produits ainsi que le prélèvement ou l’envoi de spécimens ou d’échantillons:
+
+- a. les informations du requérant, de l’expéditeur, du déclarant, du possesseur ou du propriétaire des produits, en particulier son nom et son prénom ou la raison sociale ainsi que l’adresse;
+- b. les indications et documents relatifs aux demandes visées à l’art. 71 LPM;
+- c. les indications et documents relatifs aux produits retenus visés à l’art. 72 LPM;
+- d. les indications et documents relatifs à la demande d’intervention, y compris la rétention et la destruction des produits ainsi que le prélèvement et l’envoi de spécimens et d’échantillons.
+
+<sup>2</sup> Lorsque l’exécution de la procédure relève de la compétence de l’IPI, l’OFDF lui communique les données requises visées à l’al. 1.
+
+<sup>3</sup> Les autorités chargées de l’exécution des interventions sont autorisées à conserver les données aussi longtemps que l’exige la finalité du traitement, mais au maximum pendant les cinq ans qui suivent l’expiration de la durée de validité de la demande d’intervention ou l’intervention.
 
 #### Art. 57
 
-**Émoluments**[^57-1]
+**Émoluments et taxes**
 
-Les émoluments perçus pour l’intervention de l’OFDF sont fixés dans l’ordonnance du 4 avril 2007 sur les émoluments de l’Office fédéral de la douane et de la sécurité des frontières[^57-2].
+<sup>1</sup> Les émoluments perçus pour l’intervention de l’OFDF sont fixés dans l’ordonnance du 4 avril 2007 sur les émoluments de l’Office fédéral de la douane et de la sécurité des frontières[^57-1].
 
-[^57-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2547](https://fedlex.data.admin.ch/eli/oc/2008/364)).
-[^57-2]: [RS 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
+<sup>2</sup> Lorsque l’exécution de la procédure relève de la compétence de l’IPI, les taxes perçues sont celles qui sont fixées dans l’Ota-IPI[^57-2].
+
+[^57-1]: [RS 631.035](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7819)
+[^57-2]: [RS 232.148](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5978)
 
 ## Chapitre 9 Dispositions finales
 
@@ -1199,8 +1230,8 @@ Sont abrogés:
 - a. l’ordonnance du 24 avril 1929 sur la protection des marques de fabrique et de commerce (OMF)[^58-1];
 - b. l’arrêté du Conseil fédéral du 4 novembre 1966 relatif à l’exécution de l’Arrangement de Madrid concernant l’enregistrement international des marques de fabrique ou de commerce[^58-2].
 
-[^58-1]: [RS **2** 849; [RO 1951 908](https://fedlex.data.admin.ch/eli/oc/1951/905_908_933), [1959 2164](https://fedlex.data.admin.ch/eli/oc/1959/2100_2164_2193), [1962 1095](https://fedlex.data.admin.ch/eli/oc/1962/1060_1095_1098), [1968 625](https://fedlex.data.admin.ch/eli/oc/1968/601_625_617), [1972 2498](https://fedlex.data.admin.ch/eli/oc/1972/2444_2498_2274), [1977 1989](https://fedlex.data.admin.ch/eli/oc/1977/1989_1989_1989), [1983 1478](https://fedlex.data.admin.ch/eli/oc/1983/1478_1478_1478)ch. III 2, [1986 526](https://fedlex.data.admin.ch/eli/oc/1986/526_526_526)]
-[^58-2]: [[RO 1966 1463](https://fedlex.data.admin.ch/eli/oc/1966/1413_1463_1451), [1973 1839](https://fedlex.data.admin.ch/eli/oc/1973/1839_1839_1839), [1977 1992](https://fedlex.data.admin.ch/eli/oc/1977/1992_1992_1992)]
+[^58-1]: [[RS 2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5701)849; [RO 1951 908](https://fedlex.data.admin.ch/eli/oc/1951/905_908_933); [1959 2164](https://fedlex.data.admin.ch/eli/oc/1959/2100_2164_2193); [1962 1095](https://fedlex.data.admin.ch/eli/oc/1962/1060_1095_1098); [1968 625](https://fedlex.data.admin.ch/eli/oc/1968/601_625_617); [1972 2498](https://fedlex.data.admin.ch/eli/oc/1972/2444_2498_2274); [1977 1989](https://fedlex.data.admin.ch/eli/oc/1977/1989_1989_1989); [1983 1478](https://fedlex.data.admin.ch/eli/oc/1983/1478_1478_1478)ch. III 2; [1986 526](https://fedlex.data.admin.ch/eli/oc/1986/526_526_526)]
+[^58-2]: [[RO 1966 1463](https://fedlex.data.admin.ch/eli/oc/1966/1413_1463_1451); [1973 1839](https://fedlex.data.admin.ch/eli/oc/1973/1839_1839_1839); [1977 1992](https://fedlex.data.admin.ch/eli/oc/1977/1992_1992_1992)]
 
 ### Section 2 Dispositions transitoires
 

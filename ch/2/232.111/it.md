@@ -4,11 +4,11 @@ title: Ordinanza del 23 dicembre 1992 sulla protezione dei marchi e delle indica
 short: OPM
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/296_296_296"
 language: it
-version: 2022-01-01
+version: 2025-07-01
 adopted: 1992-12-23
 in_force: 1993-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/296_296_296/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1993-296_296_296-20220101-it-xml-16.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/296_296_296/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/296_296_296/20250701/it/xml/fedlex-data-admin-ch-eli-cc-1993-296_296_296-20250701-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/296_296_296/20250701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/296_296_296/20220101/it"
 
 (OPM)[^t-1]
 
-del 23 dicembre 1992 (Stato 1° gennaio 2022)
+del 23 dicembre 1992 (Stato 1° luglio 2025)
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
 
 Il Consiglio federale svizzero,
 
@@ -27,9 +27,9 @@ visti gli articoli 35*c*, 38 capoverso 2, 39 capoverso 3, 50 capoversi 1 e 2, 50
 
 ordina:
 
-[^ingress-1]: [RS 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
-[^ingress-2]: [RS 172.010.31](https://fedlex.data.admin.ch/eli/cc/1995/5050_5050_5050)
-[^ingress-3]: Nuovo testo giusta il n. I dell’O del 18 ago. 2021, in vigore dal 1° dic. 2021 ([RU 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
+[^ingress-1]: [RS 232.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5961)
+[^ingress-2]: [RS 172.010.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5028)
+[^ingress-3]: Nuovo testo giusta la cifra I dell’O del 18 ago. 2021, in vigore dal 1° dic. 2021 ([RU 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -41,8 +41,8 @@ ordina:
 
 <sup>2</sup> Gli articoli 70 a 72 LPM e gli articoli 54 a 57 della presente ordinanza sono di competenza dell’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^1-2].
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
-[^1-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+[^1-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 2
 
@@ -50,7 +50,7 @@ ordina:
 
 Se fissato in mesi o anni, il termine scade il giorno dell’ultimo mese che corrisponde per numero al giorno da cui comincia a decorrere. Mancando tale giorno nell’ultimo mese, il termine scade l’ultimo giorno dell’ultimo mese.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O dell’8 mar. 2002, in vigore dal 1° lug. 2002 ([RU 2002 1119](https://fedlex.data.admin.ch/eli/oc/2002/182)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O dell’8 mar. 2002, in vigore dal 1° lug. 2002 ([RU 2002 1119](https://fedlex.data.admin.ch/eli/oc/2002/182)).
 
 #### Art. 3
 
@@ -60,8 +60,8 @@ Se fissato in mesi o anni, il termine scade il giorno dell’ultimo mese che cor
 
 <sup>2</sup> L’IPI[^3-2] può chiedere che i documenti probatori che non sono redatti in una lingua ufficiale siano tradotti e che sia attestata l’esattezza della traduzione; è fatto salvo l’articolo 14 capoverso 3. Se, nonostante l’ingiunzione, la traduzione o l’attes-tazione non è presentata, il documento non è preso in considerazione.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 18 ago. 2021, in vigore dal 1° dic. 2021 ([RU 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
-[^3-2]: Nuova espr. giusta il n. I dell’O del 25 ott. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5158](https://fedlex.data.admin.ch/eli/oc/1995/5158_5158_5158)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 18 ago. 2021, in vigore dal 1° dic. 2021 ([RU 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
+[^3-2]: Nuova espr. giusta la cifra I dell’O del 25 ott. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5158](https://fedlex.data.admin.ch/eli/oc/1995/5158_5158_5158)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 4
 
@@ -73,8 +73,8 @@ Se fissato in mesi o anni, il termine scade il giorno dell’ultimo mese che cor
 
 <sup>3</sup> I capoversi 1 e 2 si applicano parimenti alle domande di registrazione internazionale ai sensi degli articoli 50*d* e 50*e* LPM.[^4-2]
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
-[^4-2]: Introdotto dal n. I dell’O del 18 ago. 2021, in vigore dal 1° dic. 2021 ([RU 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+[^4-2]: Introdotto dalla cifra I dell’O del 18 ago. 2021, in vigore dal 1° dic. 2021 ([RU 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
 
 #### Art. 4a
 
@@ -82,8 +82,8 @@ Se fissato in mesi o anni, il termine scade il giorno dell’ultimo mese che cor
 
 Se il titolo di protezione litigioso è trasferito nel corso della procedura, le regole previste nell’articolo 83 del Codice di procedura civile[^4a-2] si applicano per analogia.
 
-[^4a-1]: Introdotto dal n. I dell’O del 18 ago. 2021, in vigore dal 1° dic. 2021 ([RU 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
-[^4a-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^4a-1]: Introdotto dalla cifra I dell’O del 18 ago. 2021, in vigore dal 1° dic. 2021 ([RU 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
+[^4a-2]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 #### Art. 5
 
@@ -93,7 +93,7 @@ Se il titolo di protezione litigioso è trasferito nel corso della procedura, le
 
 <sup>2</sup> È iscritta quale rappresentante nel registro di cui all’articolo 40 la persona autorizzata dal depositante o dal titolare del marchio a presentare a suo nome tutte le dichiarazioni destinate all’IPI e a ricevere tutte le comunicazioni dell’IPI previste dalla LPM o dalla presente ordinanza. Se nessuna limitazione della procura è esplicitamente comunicata all’IPI, la procura è considerata di portata generale.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
 
 #### Art. 6
 
@@ -105,7 +105,7 @@ Se il titolo di protezione litigioso è trasferito nel corso della procedura, le
 
 <sup>3</sup> La firma sulla domanda di registrazione non è necessaria. L’IPI può designare altri documenti per i quali non è necessaria la firma.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O dell’8 mar. 2002, in vigore dal 1° lug. 2002 ([RU 2002 1119](https://fedlex.data.admin.ch/eli/oc/2002/182)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O dell’8 mar. 2002, in vigore dal 1° lug. 2002 ([RU 2002 1119](https://fedlex.data.admin.ch/eli/oc/2002/182)).
 
 #### Art. 6a
 
@@ -115,16 +115,16 @@ Se il titolo di protezione litigioso è trasferito nel corso della procedura, le
 
 <sup>2</sup> Esso comunica i motivi dei dubbi, dà l’opportunità di prendere posizione e stabilisce un termine per la presentazione delle prove.
 
-[^6a-1]: Introdotto dal n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+[^6a-1]: Introdotto dalla cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
 
 #### Art. 7
 
 **Tasse**[^7-1]
 
-Alle tasse esigibili giusta la LPM o la presente ordinanza si applica l’ordinanza dell’IPI del 14 giugno 2016[^7-2] sulle tasse.
+Alle tasse esigibili giusta la LPM o la presente ordinanza si applica l’ordinanza dell’IPI del 14 giugno 2016[^7-2] sulle tasse (OTa-IPI).
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
-[^7-2]: [RS 232.148](https://fedlex.data.admin.ch/eli/cc/2016/777)
+[^7-1]: Nuovo testo giusta la cifra I n. 3 dell’O del 14 mag. 2025 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in vigore dal 1° lug. 2025 ([RU 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
+[^7-2]: [RS 232.148](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5978)
 
 #### Art. 7a
 
@@ -134,8 +134,8 @@ Alle tasse esigibili giusta la LPM o la presente ordinanza si applica l’ordina
 
 <sup>2</sup> Determina le modalità tecniche e le pubblica in modo adeguato.[^7a-2]
 
-[^7a-1]: Introdotto dal n. I dell’O del 22 gen. 1997, in vigore dal 1° mag. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
-[^7a-2]: Introdotto dal n. II dell’O del 31 mar. 1999 relativa ai brevetti d’invenzione, in vigore dal 1° mag. 1999 ([RU 1999 1443](https://fedlex.data.admin.ch/eli/oc/1999/216)).
+[^7a-1]: Introdotto dalla cifra I dell’O del 22 gen. 1997, in vigore dal 1° mag. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
+[^7a-2]: Introdotto dalla cifra II dell’O del 31 mar. 1999 relativa ai brevetti d’invenzione, in vigore dal 1° mag. 1999 ([RU 1999 1443](https://fedlex.data.admin.ch/eli/oc/1999/216)).
 
 ## Capitolo 2: Registrazione dei marchi
 
@@ -149,9 +149,9 @@ Alle tasse esigibili giusta la LPM o la presente ordinanza si applica l’ordina
 
 <sup>2</sup> Se un deposito formalmente valido comprende tutte le indicazioni richieste, l’IPI può rinunciare a esigere che sia presentato il modulo.[^8-3]
 
-[^8-1]: [RS 0.232.112.11](https://fedlex.data.admin.ch/eli/cc/2009/150)
-[^8-2]: Nuovo testo giusta il n. I dell’O del 18 ago. 2021, in vigore dal 1° dic. 2021 ([RU 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
-[^8-3]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+[^8-1]: [RS 0.232.112.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1054)
+[^8-2]: Nuovo testo giusta la cifra I dell’O del 18 ago. 2021, in vigore dal 1° dic. 2021 ([RU 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
+[^8-3]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
 
 #### Art. 8a
 
@@ -159,7 +159,7 @@ Alle tasse esigibili giusta la LPM o la presente ordinanza si applica l’ordina
 
 Una domanda di registrazione ai sensi dell’articolo 46*a* LPM riceve, quale data di deposito, la data di registrazione della corrispondente registrazione internazionale o quella dell’estensione della protezione alla Svizzera.
 
-[^8a-1]: Introdotto dal n. I dell’O del 22 gen. 1997, in vigore dal 1° mag. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
+[^8a-1]: Introdotto dalla cifra I dell’O del 22 gen. 1997, in vigore dal 1° mag. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
 
 #### Art. 9
 
@@ -171,8 +171,8 @@ La domanda di registrazione contiene:
 
 - a. la richiesta di registrazione del marchio;
 - b. il cognome e il nome o la ragione commerciale nonché l’indirizzo del depositante;
-- c.[^9-1] …
-- d.[^9-2] …
+- c.[^9-1] ...
+- d.[^9-2] ...
 
 <sup>2</sup>
 
@@ -186,13 +186,13 @@ Se del caso, essa deve essere completata con:
 - c<sup>bis</sup>.[^9-6] l’indicazione che si tratta di un marchio geografico;
 - d.[^9-7] una prova di cancellazione della registrazione internazionale e dell’estensione della protezione alla Svizzera. Se è rivendicata la priorità della registrazione internazionale cancellata, non è più necessario un altro documento di priorità.
 
-[^9-1]: Abrogata dal n. I dell’O del 2 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
-[^9-2]: Abrogata dal n. I dell’O dell’8 mar. 2002, con effetto dal 1° lug. 2002 ([RU 2002 1119](https://fedlex.data.admin.ch/eli/oc/2002/182)).
-[^9-3]: Nuovo testo giusta il n. I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2243](https://fedlex.data.admin.ch/eli/oc/2011/307)).
-[^9-4]: Introdotta dal n. I dell’O dell’11 mag. 2011 ([RU 2011 2243](https://fedlex.data.admin.ch/eli/oc/2011/307)). Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
-[^9-5]: Introdotta dal n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
-[^9-6]: Introdotta dal n. I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
-[^9-7]: Introdotta dal n. I dell’O del 22 gen. 1997, in vigore dal 1° mag. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
+[^9-1]: Abrogata dalla cifra I dell’O del 2 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+[^9-2]: Abrogata dalla cifra I dell’O dell’8 mar. 2002, con effetto dal 1° lug. 2002 ([RU 2002 1119](https://fedlex.data.admin.ch/eli/oc/2002/182)).
+[^9-3]: Nuovo testo giusta la cifra I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2243](https://fedlex.data.admin.ch/eli/oc/2011/307)).
+[^9-4]: Introdotta dalla cifra I dell’O dell’11 mag. 2011 ([RU 2011 2243](https://fedlex.data.admin.ch/eli/oc/2011/307)). Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+[^9-5]: Introdotta dalla cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+[^9-6]: Introdotta dalla cifra I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
+[^9-7]: Introdotta dalla cifra I dell’O del 22 gen. 1997, in vigore dal 1° mag. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
 
 #### Art. 10
 
@@ -204,9 +204,9 @@ Se del caso, essa deve essere completata con:
 
 <sup>3</sup> Nel caso di un particolare tipo di marchio, per esempio un marchio tridimensionale, tale particolarità deve essere menzionata nella domanda di registrazione.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O dell’8 mar. 2002, in vigore dal 1° lug. 2002 ([RU 2002 1119](https://fedlex.data.admin.ch/eli/oc/2002/182)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O dell’8 mar. 2002, in vigore dal 1° lug. 2002 ([RU 2002 1119](https://fedlex.data.admin.ch/eli/oc/2002/182)).
 [^10-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^10-3]: Nuovo testo giusta il n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5019](https://fedlex.data.admin.ch/eli/oc/2004/768)).
+[^10-3]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5019](https://fedlex.data.admin.ch/eli/oc/2004/768)).
 
 #### Art. 11
 
@@ -214,8 +214,8 @@ Se del caso, essa deve essere completata con:
 
 I prodotti e i servizi per i quali è richiesta la protezione del marchio devono essere designati con precisione e provvisti del numero della classe conformemente all’Accordo di Nizza del 15 giugno 1957[^11-2] sulla classificazione internazionale dei prodotti e dei servizi ai fini della registrazione dei marchi (Accordo di Nizza).
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
-[^11-2]: [RS 0.232.112.7](https://fedlex.data.admin.ch/eli/cc/1962/985_1019_1020),[0.232.112.8](https://fedlex.data.admin.ch/eli/cc/1970/685_683_684),[0.232.112.9](https://fedlex.data.admin.ch/eli/cc/1986/532_532_532)
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+[^11-2]: [RS 0.232.112.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1061),[0.232.112.8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1062),[0.232.112.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1063)
 
 #### Art. 12
 
@@ -230,10 +230,10 @@ La dichiarazione di priorità in virtù della Convenzione di Parigi del 20 marzo
 
 <sup>2</sup> Il documento di priorità, rilasciato dalle competenti autorità, attesta il primo deposito e indica il numero di deposito o il numero di registrazione del marchio.
 
-<sup>3</sup> …[^12-2]
+<sup>3</sup> ...[^12-2]
 
-[^12-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253),[0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265),[0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127),[0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
-[^12-2]: Abrogato dal n. I dell’O del 2 set. 2015, con effetto dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
+[^12-1]: [RS 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027),[0.232.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1028),[0.232.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1029),[0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
+[^12-2]: Abrogato dalla cifra I dell’O del 2 set. 2015, con effetto dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
 
 #### Art. 13
 
@@ -258,7 +258,7 @@ La dichiarazione di priorità risultante da un’esposizione comprende:
 
 <sup>3</sup> I documenti di priorità possono parimenti essere presentati in lingua inglese.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
 
 #### Art. 14a
 
@@ -266,7 +266,7 @@ La dichiarazione di priorità risultante da un’esposizione comprende:
 
 Per gli invii postali, è considerata data della presentazione il giorno in cui l’invio è stato consegnato alla Posta Svizzera all’indirizzo dell’IPI*.*
 
-[^14a-1]: Introdotto dal n. I dell’O del 18 ott. 2006 ([RU 2006 4479](https://fedlex.data.admin.ch/eli/oc/2006/689)). Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+[^14a-1]: Introdotto dalla cifra I dell’O del 18 ott. 2006 ([RU 2006 4479](https://fedlex.data.admin.ch/eli/oc/2006/689)). Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
 
 #### Art. 15
 
@@ -292,7 +292,7 @@ Se il deposito non soddisfa le condizioni previste nell’articolo 28 capoverso 
 
 <sup>3</sup> Se un difetto non è eliminato entro il termine stabilito, la domanda di registrazione è respinta interamente o parzialmente. L’IPI può eccezionalmente impartire termini supplementari.
 
-[^17-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
+[^17-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
 
 #### Art. 17a
 
@@ -300,8 +300,8 @@ Se il deposito non soddisfa le condizioni previste nell’articolo 28 capoverso 
 
 Per il proseguimento della procedura di una domanda respinta per inosservanza dei termini (art. 41 LPM) deve essere pagata una tassa[^17a-2] per il proseguimento della procedura.
 
-[^17a-1]: Introdotto dal n. I dell’O del 25 ott. 1995 ([RU 1995 5158](https://fedlex.data.admin.ch/eli/oc/1995/5158_5158_5158)). Nuovo testo giusta il n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5019](https://fedlex.data.admin.ch/eli/oc/2004/768)).
-[^17a-2]: Nuova espr. giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)). Di detta mod. è tenuto conto in tutto il presente testo, ad eccezione dell’art. 56 cpv. 1.
+[^17a-1]: Introdotto dalla cifra I dell’O del 25 ott. 1995 ([RU 1995 5158](https://fedlex.data.admin.ch/eli/oc/1995/5158_5158_5158)). Nuovo testo giusta la cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5019](https://fedlex.data.admin.ch/eli/oc/2004/768)).
+[^17a-2]: Nuova espr. giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)). Di detta mod. è tenuto conto in tutto il presente testo, ad eccezione dell’art. 56 cpv. 1.
 
 #### Art. 18
 
@@ -309,11 +309,12 @@ Per il proseguimento della procedura di una domanda respinta per inosservanza de
 
 <sup>1</sup> Il depositante deve pagare la tassa di deposito entro il termine fissato dall’IPI.
 
-<sup>2</sup> Se la lista dei prodotti e dei servizi concernenti il marchio depositato comprende più di tre classi, il depositante deve versare una soprattassa per ogni classe supplementare. L’IPI determina il numero di classi soggette alla soprattassa secondo la suddivisione in classi prevista dall’Accordo di Nizza.
+<sup>2</sup> Se la lista dei prodotti e dei servizi concernenti il marchio depositato comprende più di tre classi, il depositante deve versare una soprattassa per ogni classe supplementare. L’IPI determina il numero di classi soggette alla soprattassa secondo la suddivisione in classi prevista dall’Accordo di Nizza[^18-2].
 
 <sup>3</sup> Il depositante deve pagare la soprattassa per ogni classe supplementare entro il termine fissato dall’IPI.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+[^18-2]: [RS 0.232.112.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1061),[0.232.112.8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1062),[0.232.112.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1063)
 
 #### Art. 18a
 
@@ -323,8 +324,8 @@ Per il proseguimento della procedura di una domanda respinta per inosservanza de
 
 <sup>2</sup> La richiesta è considerata presentata soltanto se, oltre alla tassa di deposito, è stato pagata la tassa per la procedura d’esame accelerata.[^18a-2]
 
-[^18a-1]: Introdotto dal n. I dell’O del 17 set. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2170](https://fedlex.data.admin.ch/eli/oc/1997/2170_2170_2170)).
-[^18a-2]: Nuovo testo giusta il n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5019](https://fedlex.data.admin.ch/eli/oc/2004/768)).
+[^18a-1]: Introdotto dalla cifra I dell’O del 17 set. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2170](https://fedlex.data.admin.ch/eli/oc/1997/2170_2170_2170)).
+[^18a-2]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5019](https://fedlex.data.admin.ch/eli/oc/2004/768)).
 
 #### Art. 19
 
@@ -334,7 +335,7 @@ Per il proseguimento della procedura di una domanda respinta per inosservanza de
 
 <sup>2</sup> L’IPI conferma la registrazione al titolare del marchio. La conferma contiene le indicazioni iscritte nel registro.[^19-1]
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
 
 ### Sezione 2: Procedura di opposizione
 
@@ -350,7 +351,7 @@ L’opposizione deve essere presentata in due esemplari e contenere:
 - d. una dichiarazione che precisi in che misura è fatta opposizione alla registrazione;
 - e. una breve motivazione dell’opposizione.
 
-[^20-1]: Nuovo testo giusta il n. I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2243](https://fedlex.data.admin.ch/eli/oc/2011/307)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2243](https://fedlex.data.admin.ch/eli/oc/2011/307)).
 
 #### Art. 21
 
@@ -360,7 +361,7 @@ L’opposizione deve essere presentata in due esemplari e contenere:
 
 <sup>2</sup> Se il resistente deve designare un recapito in Svizzera è tenuto a indicarlo entro il termine fissato dall’IPI. L’IPI gli assegna questo termine con la comminatoria che sarà escluso dalla procedura se non soddisfa tale obbligo.
 
-[^21-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
+[^21-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
 
 #### Art. 22
 
@@ -374,7 +375,7 @@ L’opposizione deve essere presentata in due esemplari e contenere:
 
 <sup>4</sup> L’IPI può effettuare ulteriori scambi di allegati.
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del 18 ago. 2021, in vigore dal 1° dic. 2021 ([RU 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O del 18 ago. 2021, in vigore dal 1° dic. 2021 ([RU 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
 
 #### Art. 23
 
@@ -388,8 +389,8 @@ L’opposizione deve essere presentata in due esemplari e contenere:
 
 <sup>4</sup> L’IPI può sospendere la procedura d’opposizione se la decisione in merito dipende dall’esito di una procedura di cancellazione per mancato uso, di una procedura civile o di un’altra procedura.[^23-2]
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
-[^23-2]: Introdotto dal n. I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
+[^23-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
+[^23-2]: Introdotto dalla cifra I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
 
 #### Art. 24
 
@@ -399,13 +400,13 @@ L’opposizione deve essere presentata in due esemplari e contenere:
 
 <sup>2</sup> Se una causa diviene priva d’oggetto o è risolta per mezzo di una transazione giudiziale o con il versamento di un’indennità, la metà della tassa d’opposizione è restituita.
 
-[^24-1]: Nuovo testo giusta il n. I dell’O del 14 mar. 2008, in vigore dal 1° lug. 2008 ([RU 2008 1893](https://fedlex.data.admin.ch/eli/oc/2008/276)).
+[^24-1]: Nuovo testo giusta la cifra I dell’O del 14 mar. 2008, in vigore dal 1° lug. 2008 ([RU 2008 1893](https://fedlex.data.admin.ch/eli/oc/2008/276)).
 
 ### Sezione 2*a*: Procedura di cancellazione di una registrazione per mancato uso del marchio
 
 [^chap2-sec2a-1]
 
-[^chap2-sec2a-1]: Introdotta dal n. I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
+[^chap2-sec2a-1]: Introdotta dalla cifra I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
 
 #### Art. 24a
 
@@ -455,8 +456,8 @@ La domanda di cancellazione di una registrazione per mancato uso del marchio dev
 
 <sup>2</sup> Se una causa diviene priva d’oggetto o è risolta per mezzo di una transazione o con il versamento di un’indennità, la metà della tassa della procedura di cancellazione è restituita. Se sono soddisfatte le condizioni di cui all’articolo 33*b* della legge federale del 20 dicembre 1968[^24e-1] sulla procedura amministrativa (PA), la tassa è restituita integralmente.[^24e-2]
 
-[^24e-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^24e-2]: Nuovo testo giusta il n. I dell’O del 18 ago. 2021, in vigore dal 1° dic. 2021 ([RU 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
+[^24e-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^24e-2]: Nuovo testo giusta la cifra I dell’O del 18 ago. 2021, in vigore dal 1° dic. 2021 ([RU 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
 
 ### Sezione 3: Proroga della registrazione
 
@@ -466,7 +467,7 @@ La domanda di cancellazione di una registrazione per mancato uso del marchio dev
 
 Prima della scadenza della durata di validità della registrazione, l’IPI può ricordare al titolare iscritto nel registro, o al suo rappresentante, la data della scadenza e la possibilità di una proroga. L’IPI può inviare tali comunicazioni anche all’estero.
 
-[^25-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4479](https://fedlex.data.admin.ch/eli/oc/2006/689)).
+[^25-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4479](https://fedlex.data.admin.ch/eli/oc/2006/689)).
 
 #### Art. 26
 
@@ -482,11 +483,11 @@ Prima della scadenza della durata di validità della registrazione, l’IPI può
 
 <sup>5</sup> Se il pagamento della tassa di proroga avviene dopo la scadenza della registrazione, deve essere pagata una soprattassa.[^26-5]
 
-[^26-1]: Nuovo testo giusta il n. I dell’O dell’8 mar. 2002, in vigore dal 1° lug. 2002 ([RU 2002 1119](https://fedlex.data.admin.ch/eli/oc/2002/182)).
-[^26-2]: Nuovo testo giusta il n. I dell’O dell’8 mar. 2002, in vigore dal 1° lug. 2002 ([RU 2002 1119](https://fedlex.data.admin.ch/eli/oc/2002/182)).
-[^26-3]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
-[^26-4]: Introdotto dal n. I dell’O del 25 ott. 1995 ([RU 1995 5158](https://fedlex.data.admin.ch/eli/oc/1995/5158_5158_5158)). Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
-[^26-5]: Introdotto dal n. I dell’O del 25 ott. 1995 ([RU 1995 5158](https://fedlex.data.admin.ch/eli/oc/1995/5158_5158_5158)). Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+[^26-1]: Nuovo testo giusta la cifra I dell’O dell’8 mar. 2002, in vigore dal 1° lug. 2002 ([RU 2002 1119](https://fedlex.data.admin.ch/eli/oc/2002/182)).
+[^26-2]: Nuovo testo giusta la cifra I dell’O dell’8 mar. 2002, in vigore dal 1° lug. 2002 ([RU 2002 1119](https://fedlex.data.admin.ch/eli/oc/2002/182)).
+[^26-3]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+[^26-4]: Introdotto dalla cifra I dell’O del 25 ott. 1995 ([RU 1995 5158](https://fedlex.data.admin.ch/eli/oc/1995/5158_5158_5158)). Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+[^26-5]: Introdotto dalla cifra I dell’O del 25 ott. 1995 ([RU 1995 5158](https://fedlex.data.admin.ch/eli/oc/1995/5158_5158_5158)). Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
 
 #### Art. 27
 
@@ -494,7 +495,7 @@ Prima della scadenza della durata di validità della registrazione, l’IPI può
 
 Se è stata presentata una domanda di proroga, ma la registrazione non è prorogata, la tassa di proroga è restituita.
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del 14 mar. 2008, in vigore dal 1° lug. 2008 ([RU 2008 1893](https://fedlex.data.admin.ch/eli/oc/2008/276)).
+[^27-1]: Nuovo testo giusta la cifra I dell’O del 14 mar. 2008, in vigore dal 1° lug. 2008 ([RU 2008 1893](https://fedlex.data.admin.ch/eli/oc/2008/276)).
 
 ### Sezione 4: Modificazione della registrazione
 
@@ -510,10 +511,10 @@ La domanda di registrazione del trasferimento deve essere presentata dal precede
 - b.[^28-1] il cognome e il nome o la ragione commerciale, l’indirizzo dell’acquirente ed eventualmente il suo recapito in Svizzera;
 - c. in caso di trasferimento parziale, l’indicazione dei prodotti o dei servizi per i quali il marchio è stato trasmesso.
 
-<sup>2</sup> …[^28-2]
+<sup>2</sup> ...[^28-2]
 
-[^28-1]: Nuovo testo giusta il n. I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2243](https://fedlex.data.admin.ch/eli/oc/2011/307)).
-[^28-2]: Abrogato dal n. I dell’O del 2 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+[^28-1]: Nuovo testo giusta la cifra I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2243](https://fedlex.data.admin.ch/eli/oc/2011/307)).
+[^28-2]: Abrogato dalla cifra I dell’O del 2 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
 
 #### Art. 29
 
@@ -532,7 +533,7 @@ La domanda di registrazione di una licenza deve essere presentata dal titolare d
 
 <sup>3</sup> Fintanto che è iscritta nel registro una licenza esclusiva, nessun’altra licenza incompatibile con quest’ultima vi è iscritta per il medesimo marchio.[^29-1]
 
-[^29-1]: Introdotto dal n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+[^29-1]: Introdotto dalla cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
 
 #### Art. 30
 
@@ -562,7 +563,7 @@ Su domanda del titolare del marchio, l’IPI cancella il diritto registrato a fa
 
 [^3334-1]
 
-[^3334-1]: Abrogati dal n. I dell’O del 18 ott. 2006, con effetto dal 1° gen. 2007 ([RU 2006 4479](https://fedlex.data.admin.ch/eli/oc/2006/689)).
+[^3334-1]: Abrogati dalla cifra I dell’O del 18 ott. 2006, con effetto dal 1° gen. 2007 ([RU 2006 4479](https://fedlex.data.admin.ch/eli/oc/2006/689)).
 
 ### Sezione 5: Cancellazione della registrazione
 
@@ -572,7 +573,7 @@ Su domanda del titolare del marchio, l’IPI cancella il diritto registrato a fa
 
 La cancellazione completa o parziale della registrazione di un marchio è esente da tasse. Non è esente da tasse la cancellazione per mancato uso di un marchio.
 
-[^35-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
+[^35-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
 
 ## Capitolo 3: Fascicolo e registro dei marchi
 
@@ -594,12 +595,12 @@ Per ogni domanda di registrazione e per ogni registrazione di marchi l’IPI tie
 
 <sup>3</sup> Su domanda, i documenti di prova che contengono segreti di fabbricazione o d’affari sono conservati separatamente. Questo fatto è menzionato nel fascicolo.[^36-3]
 
-<sup>4</sup> …[^36-4]
+<sup>4</sup> ...[^36-4]
 
-[^36-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
-[^36-2]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
-[^36-3]: Nuovo testo giusta il n. I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4479](https://fedlex.data.admin.ch/eli/oc/2006/689)).
-[^36-4]: Introdotto dal n. I dell’O del 22 gen. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)). Abrogato dal n. I dell’O del 3 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2004 5019](https://fedlex.data.admin.ch/eli/oc/2004/768)).
+[^36-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
+[^36-2]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
+[^36-3]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4479](https://fedlex.data.admin.ch/eli/oc/2006/689)).
+[^36-4]: Introdotto dalla cifra I dell’O del 22 gen. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)). Abrogato dalla cifra I dell’O del 3 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2004 5019](https://fedlex.data.admin.ch/eli/oc/2004/768)).
 
 #### Art. 37
 
@@ -621,7 +622,7 @@ Prima della registrazione del marchio, sono autorizzati a consultare il fascicol
 
 <sup>5</sup> Su domanda, la consultazione è autorizzata mediante la consegna di copie.[^37-1]
 
-[^37-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4479](https://fedlex.data.admin.ch/eli/oc/2006/689)).
+[^37-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4479](https://fedlex.data.admin.ch/eli/oc/2006/689)).
 
 #### Art. 38
 
@@ -636,8 +637,8 @@ Le informazioni sono limitate a:
 - a. le indicazioni pubblicate in caso di registrazione del marchio;
 - b. le indicazioni sui motivi del rifiuto di una domanda.[^38-2]
 
-[^38-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4479](https://fedlex.data.admin.ch/eli/oc/2006/689)).
-[^38-2]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
+[^38-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4479](https://fedlex.data.admin.ch/eli/oc/2006/689)).
+[^38-2]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
 
 #### Art. 39
 
@@ -647,10 +648,10 @@ Le informazioni sono limitate a:
 
 <sup>2</sup> Per i documenti relativi a domande ritirate o respinte nonché a registrazioni totalmente revocate (art. 33 LPM), esso conserva l’originale o la copia per cinque anni dal ritiro, dal rigetto o dalla revoca.[^39-1]
 
-<sup>3</sup> …[^39-2]
+<sup>3</sup> ...[^39-2]
 
-[^39-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
-[^39-2]: Introdotto dal n. I dell’O del 22 gen. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)). Abrogato dal n. I dell’O del 3 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2004 5019](https://fedlex.data.admin.ch/eli/oc/2004/768)).
+[^39-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+[^39-2]: Introdotto dalla cifra I dell’O del 22 gen. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)). Abrogato dalla cifra I dell’O del 3 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2004 5019](https://fedlex.data.admin.ch/eli/oc/2004/768)).
 
 ### Sezione 2: Registro dei marchi
 
@@ -667,23 +668,23 @@ La registrazione del marchio comprende:
 - c. il cognome e il nome o la ragione commerciale nonché l’indirizzo del titolare;
 - d. il nome e l’indirizzo dell’eventuale rappresentante;
 - e. la riproduzione del marchio;
-- f.[^40-1] i prodotti e i servizi per i quali il marchio è rivendicato, con l’indicazione delle classi secondo l’Accordo di Nizza;
+- f.[^40-1] i prodotti e i servizi per i quali il marchio è rivendicato, con l’indicazione delle classi secondo l’Accordo di Nizza[^40-2];
 - g. la data di pubblicazione della registrazione.
-- h.[^40-2] i dati riguardanti la sostituzione di una registrazione nazionale precedente con una registrazione internazionale;
-- i.[^40-3] la data della registrazione;
-- k.[^40-4] il numero della domanda di registrazione.
+- h.[^40-3] i dati riguardanti la sostituzione di una registrazione nazionale precedente con una registrazione internazionale;
+- i.[^40-4] la data della registrazione;
+- k.[^40-5] il numero della domanda di registrazione.
 
 <sup>2</sup>
 
-La registrazione è eventualmente completata con:[^40-5]
+La registrazione è eventualmente completata con:[^40-6]
 
 - a. l’indicazione del colore o della combinazione di colori rivendicati;
-- b.[^40-6] la menzione «marchio tridimensionale» o con un’altra indicazione specificante il tipo particolare del marchio;
+- b.[^40-7] la menzione «marchio tridimensionale» o con un’altra indicazione specificante il tipo particolare del marchio;
 - c. l’indicazione «marchio imposto»;
 - d. l’indicazione che si tratta di un marchio di garanzia o di un marchio collettivo;
-- d<sup>bis</sup>.[^40-7] l’indicazione che si tratta di un marchio geografico;
+- d<sup>bis</sup>.[^40-8] l’indicazione che si tratta di un marchio geografico;
 - e. indicazioni relative alla rivendicazione di priorità giusta gli articoli 7 e 8 LPM;
-- f.[^40-8] …
+- f.[^40-9] ...
 
 <sup>3</sup>
 
@@ -693,7 +694,7 @@ Sono inoltre iscritti nel registro con la data di pubblicazione:
 - b. la revoca totale o parziale della registrazione;
 - c. la cancellazione totale o parziale della registrazione e l’indicazione del motivo della cancellazione;
 - d. il trasferimento totale o parziale del marchio;
-- e.[^40-9] il rilascio di una licenza, eventualmente con l’indicazione che si tratta di una licenza esclusiva o di una licenza parziale;
+- e.[^40-10] il rilascio di una licenza, eventualmente con l’indicazione che si tratta di una licenza esclusiva o di una licenza parziale;
 - f. l’usufrutto e il diritto di pegno che gravano sul marchio;
 - g. le limitazioni della facoltà di disporre ordinate da tribunali e da autorità d’esecuzione;
 - h. le modificazioni delle indicazioni registrate;
@@ -701,21 +702,22 @@ Sono inoltre iscritti nel registro con la data di pubblicazione:
 
 <sup>4</sup> L’IPI può registrare altre indicazioni di pubblico interesse.
 
-[^40-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
-[^40-2]: Introdotta dal n. I dell’O del 22 gen. 1997, in vigore dal 1° mag. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
-[^40-3]: Introdotta dal n. I dell’O del 22 gen. 1997, in vigore dal 1° mag. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
-[^40-4]: Introdotta dal n. I dell’O del 22 gen. 1997, in vigore dal 1° mag. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
-[^40-5]: Nuovo testo giusta il n. I dell’O dell’8 mar. 2002, in vigore dal 1° lug. 2002 ([RU 2002 1119](https://fedlex.data.admin.ch/eli/oc/2002/182)).
-[^40-6]: Nuovo testo giusta il n. I dell’O dell’8 mar. 2002, in vigore dal 1° lug. 2002 ([RU 2002 1119](https://fedlex.data.admin.ch/eli/oc/2002/182)).
-[^40-7]: Introdotta dal n. I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
-[^40-8]: Abrogata dal n. I dell’O del 22 gen. 1997, con effetto dal 1° mag. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
-[^40-9]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+[^40-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+[^40-2]: [RS 0.232.112.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1061),[0.232.112.8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1062),[0.232.112.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1063)
+[^40-3]: Introdotta dalla cifra I dell’O del 22 gen. 1997, in vigore dal 1° mag. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
+[^40-4]: Introdotta dalla cifra I dell’O del 22 gen. 1997, in vigore dal 1° mag. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
+[^40-5]: Introdotta dalla cifra I dell’O del 22 gen. 1997, in vigore dal 1° mag. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
+[^40-6]: Nuovo testo giusta la cifra I dell’O dell’8 mar. 2002, in vigore dal 1° lug. 2002 ([RU 2002 1119](https://fedlex.data.admin.ch/eli/oc/2002/182)).
+[^40-7]: Nuovo testo giusta la cifra I dell’O dell’8 mar. 2002, in vigore dal 1° lug. 2002 ([RU 2002 1119](https://fedlex.data.admin.ch/eli/oc/2002/182)).
+[^40-8]: Introdotta dalla cifra I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
+[^40-9]: Abrogata dalla cifra I dell’O del 22 gen. 1997, con effetto dal 1° mag. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
+[^40-10]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
 
 #### Art. 40a
 
 [^40a-1]
 
-[^40a-1]: Introdotto dal n. I dell’O del 22 gen. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)). Abrogato dal n. I dell’O del 3 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2004 5019](https://fedlex.data.admin.ch/eli/oc/2004/768)).
+[^40a-1]: Introdotto dalla cifra I dell’O del 22 gen. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)). Abrogato dalla cifra I dell’O del 3 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2004 5019](https://fedlex.data.admin.ch/eli/oc/2004/768)).
 
 #### Art. 41
 
@@ -725,8 +727,8 @@ Sono inoltre iscritti nel registro con la data di pubblicazione:
 
 <sup>2</sup> L’IPI allestisce estratti del registro.[^41-2]
 
-[^41-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4479](https://fedlex.data.admin.ch/eli/oc/2006/689)).
-[^41-2]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+[^41-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4479](https://fedlex.data.admin.ch/eli/oc/2006/689)).
+[^41-2]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
 
 #### Art. 41a
 
@@ -734,7 +736,7 @@ Sono inoltre iscritti nel registro con la data di pubblicazione:
 
 Su domanda, l’IPI rilascia un documento di priorità relativo a una prima registrazione in Svizzera.
 
-[^41a-1]: Introdotto dal n. I dell’O del 25 ott. 1995 ([RU 1995 5158](https://fedlex.data.admin.ch/eli/oc/1995/5158_5158_5158)). Nuovo testo giusta il n. I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4479](https://fedlex.data.admin.ch/eli/oc/2006/689)).
+[^41a-1]: Introdotto dalla cifra I dell’O del 25 ott. 1995 ([RU 1995 5158](https://fedlex.data.admin.ch/eli/oc/1995/5158_5158_5158)). Nuovo testo giusta la cifra I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4479](https://fedlex.data.admin.ch/eli/oc/2006/689)).
 
 ## Capitolo 4: Pubblicazioni dell’IPI
 
@@ -756,13 +758,13 @@ L’IPI pubblica:
 
 <sup>2</sup> Su domanda e previo rimborso delle spese, l’IPI esegue copie su carta dei dati pubblicati esclusivamente in forma elettronica.
 
-[^43-1]: Nuovo testo giusta il n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5019](https://fedlex.data.admin.ch/eli/oc/2004/768)).
+[^43-1]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5019](https://fedlex.data.admin.ch/eli/oc/2004/768)).
 
 #### Art. 44
 
 [^44-1]
 
-[^44-1]: Abrogato dal n. I dell’O dell’8 mar. 2002, con effetto dal 1° lug. 2002 ([RU 2002 1119](https://fedlex.data.admin.ch/eli/oc/2002/182)).
+[^44-1]: Abrogato dalla cifra I dell’O dell’8 mar. 2002, con effetto dal 1° lug. 2002 ([RU 2002 1119](https://fedlex.data.admin.ch/eli/oc/2002/182)).
 
 ## Capitolo 5: …
 
@@ -770,7 +772,7 @@ L’IPI pubblica:
 
 [^4546-1]
 
-[^4546-1]: Abrogati dal n. I dell’O del 25 ott. 1995, con effetto dal 1° gen. 1996 ([RU 1995 5158](https://fedlex.data.admin.ch/eli/oc/1995/5158_5158_5158)).
+[^4546-1]: Abrogati dalla cifra I dell’O del 25 ott. 1995, con effetto dal 1° gen. 1996 ([RU 1995 5158](https://fedlex.data.admin.ch/eli/oc/1995/5158_5158_5158)).
 
 ## Capitolo 6: Registrazione internazionale dei marchi
 
@@ -790,13 +792,13 @@ L’IPI pubblica:
 
 <sup>4</sup> La tassa nazionale (art. 45 cpv. 2 LPM) deve essere pagata dopo l’ingiunzione dell’IPI.[^47-7]
 
-[^47-1]: [RS 0.232.112.3](https://fedlex.data.admin.ch/eli/cc/1970/1689_1694_1693)
-[^47-2]: [RS 0.232.112.4](https://fedlex.data.admin.ch/eli/cc/1997/2350_2350_2350)
-[^47-3]: Nuovo testo giusta il n. I dell’O del 22 gen. 1997, in vigore dal 1° mag. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
-[^47-4]: Nuovo testo giusta il n. I dell’O del 18 ago. 2021, in vigore dal 1° dic. 2021 ([RU 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
-[^47-5]: Introdotto dal n. I dell’O del 2 dic. 2016 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)). Nuovo testo gista il n. I dell’O del 18 ago. 2021, in vigore dal 1° dic. 2021 ([RU 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
-[^47-6]: Nuovo testo giusta il n. I dell’O del 22 gen. 1997, in vigore dal 1° mag. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
-[^47-7]: Nuovo testo giusta il n. I dell’O del 22 gen. 1997, in vigore dal 1° mag. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
+[^47-1]: [RS 0.232.112.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1057)
+[^47-2]: [RS 0.232.112.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1060)
+[^47-3]: Nuovo testo giusta la cifra I dell’O del 22 gen. 1997, in vigore dal 1° mag. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
+[^47-4]: Nuovo testo giusta la cifra I dell’O del 18 ago. 2021, in vigore dal 1° dic. 2021 ([RU 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
+[^47-5]: Introdotto dalla cifra I dell’O del 2 dic. 2016 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)). Nuovo testo gista la cifra I dell’O del 18 ago. 2021, in vigore dal 1° dic. 2021 ([RU 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
+[^47-6]: Nuovo testo giusta la cifra I dell’O del 22 gen. 1997, in vigore dal 1° mag. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
+[^47-7]: Nuovo testo giusta la cifra I dell’O del 22 gen. 1997, in vigore dal 1° mag. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
 
 #### Art. 48
 
@@ -806,8 +808,8 @@ L’IPI pubblica:
 
 <sup>2</sup> Se il difetto non è eliminato entro il termine stabilito, la domanda è respinta. L’IPI può eccezionalmente impartire termini supplementari.
 
-[^48-1]: [RS 0.232.112.21](https://fedlex.data.admin.ch/eli/cc/2020/338)
-[^48-2]: Nuovo testo giusta il n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5019](https://fedlex.data.admin.ch/eli/oc/2004/768)).
+[^48-1]: [RS 0.232.112.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1056)
+[^48-2]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5019](https://fedlex.data.admin.ch/eli/oc/2004/768)).
 
 #### Art. 49
 
@@ -815,9 +817,9 @@ L’IPI pubblica:
 
 <sup>1</sup> L’IPI tiene un fascicolo per ogni marchio iscritto nel registro internazionale e di cui la Svizzera è il Paese d’origine.
 
-<sup>2</sup> …[^49-1]
+<sup>2</sup> ...[^49-1]
 
-[^49-1]: Introdotto dal n. I dell’O del 22 gen. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)). Abrogato dal n. I dell’O del 3 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2004 5019](https://fedlex.data.admin.ch/eli/oc/2004/768)).
+[^49-1]: Introdotto dalla cifra I dell’O del 22 gen. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)). Abrogato dalla cifra I dell’O del 3 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2004 5019](https://fedlex.data.admin.ch/eli/oc/2004/768)).
 
 ### Sezione 2: Effetto della registrazione internazionale in Svizzera
 
@@ -829,10 +831,10 @@ L’IPI pubblica:
 
 <sup>2</sup> L’IPI tiene un fascicolo che raccoglie lo svolgimento della procedura di opposizione.
 
-<sup>3</sup> …[^50-2]
+<sup>3</sup> ...[^50-2]
 
-[^50-1]: Nuovo testo giusta il n. I dell’O del 18 ago. 2021, in vigore dal 1° dic. 2021 ([RU 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
-[^50-2]: Introdotto dal n. I dell’O del 22 gen. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)). Abrogato dal n. I dell’O del 3 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2004 5019](https://fedlex.data.admin.ch/eli/oc/2004/768)).
+[^50-1]: Nuovo testo giusta la cifra I dell’O del 18 ago. 2021, in vigore dal 1° dic. 2021 ([RU 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
+[^50-2]: Introdotto dalla cifra I dell’O del 22 gen. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)). Abrogato dalla cifra I dell’O del 3 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2004 5019](https://fedlex.data.admin.ch/eli/oc/2004/768)).
 
 #### Art. 50a
 
@@ -843,7 +845,7 @@ La domanda di cancellazione di una registrazione internazionale per mancato uso 
 - a. se è stato notificato un rifiuto provvisorio di protezione del marchio: cinque anni dopo la fine della procedura concernente la protezione in Svizzera;
 - b. se non è stato notificato alcun rifiuto di protezione del marchio: cinque anni dopo la scadenza del termine per la notifica del rifiuto di protezione o cinque anni dopo la notifica della dichiarazione di concessione della protezione.
 
-[^50a-1]: Introdotto dal n. I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
+[^50a-1]: Introdotto dalla cifra I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
 
 #### Art. 51
 
@@ -853,7 +855,7 @@ La domanda di cancellazione di una registrazione internazionale per mancato uso 
 
 <sup>2</sup> Se la registrazione internazionale decade ed è possibile, ai sensi dell’articolo 46*a* LPM, trasformarla in domanda di registrazione, l’IPI può sospendere la decisione in merito all’opposizione fino alla trasformazione.[^51-1]
 
-[^51-1]: Introdotto dal n. I dell’O del 22 gen. 1997, in vigore dal 1° mag. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
+[^51-1]: Introdotto dalla cifra I dell’O del 22 gen. 1997, in vigore dal 1° mag. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
 
 #### Art. 52
 
@@ -868,13 +870,13 @@ Le seguenti regole si applicano ai marchi iscritti nel registro internazionale:
 
 <sup>2</sup> L’IPI non pubblica il rifiuto di protezione né l’invalidazione.
 
-[^52-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
+[^52-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
 
 ## Capitolo 6*a*: Indicazioni di provenienza
 
 [^chap6a-1]
 
-[^chap6a-1]: Introdotto dal n. I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
+[^chap6a-1]: Introdotto dalla cifra I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
 
 ### Sezione 1: Disposizioni comuni
 
@@ -891,7 +893,7 @@ Il presente capitolo regola l’uso delle indicazioni di provenienza:
 
 <sup>2</sup> Per le derrate alimentari valgono l’ordinanza del 2 settembre 2015[^52a-1] sull’utilizzo delle indicazioni di provenienza svizzere per le derrate alimentari e gli articoli 52*c* e 52*d* della presente ordinanza.
 
-[^52a-1]: [RS 232.112.1](https://fedlex.data.admin.ch/eli/cc/2015/611)
+[^52a-1]: [RS 232.112.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5965)
 
 #### Art. 52b
 
@@ -1047,7 +1049,7 @@ Si presume sito dell’amministrazione effettiva ai sensi dell’articolo 49 LPM
 
 [^chap6b-1]
 
-[^chap6b-1]: Introdotta dal n. I dell’O del 18 ago. 2021, in vigore dal 1° dic. 2021 ([RU 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
+[^chap6b-1]: Introdotta dalla cifra I dell’O del 18 ago. 2021, in vigore dal 1° dic. 2021 ([RU 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
 
 ### Sezione 1: Domanda di registrazione internazionale o modificazione della registrazione internazionale di una denominazione d’origine o di un’indicazione geografica svizzera
 
@@ -1090,7 +1092,7 @@ Le domande che invocano i motivi di rifiuto di cui all’articolo 50*e* capovers
 
 <sup>4</sup> L’IPI può invitare le autorità federali o cantonali a esprimere il loro parere.
 
-[^52r-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^52r-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ## Capitolo 7: Contrassegno del produttore su orologi e movimenti d’orologi
 
@@ -1106,83 +1108,111 @@ Le domande che invocano i motivi di rifiuto di cui all’articolo 50*e* capovers
 
 <sup>5</sup> I motivi d’esclusione giusta l’articolo 3 capoverso 1 LPM si applicano parimenti ai contrassegni del produttore.
 
-[^53-1]: [RS 232.119](https://fedlex.data.admin.ch/eli/cc/1971/1908_1915_1915)
+[^53-1]: [RS 232.119](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5970)
 
-## Capitolo 8: Intervento dell’UDSC
+## Capitolo 8: Intervento in caso di introduzione di merce nel territorio doganale o di asportazione di merce dal territorio doganale
+
+[^chap8-1]
+
+[^chap8-1]: Nuovo testo giusta la cifra I n. 3 dell’O del 14 mag. 2025 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in vigore dal 1° lug. 2025 ([RU 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 54
 
-**Campo d’applicazione**[^54-1]
+**Campo d’applicazione**
 
-L’UDSC è abilitata a intervenire in caso di introduzione sul territorio doganale o all’asportazione da esso di merci munite di un marchio o di un’indicazione di provenienza illeciti.
+Il presente capitolo si applica a interventi in caso di introduzione nel territorio doganale o di asportazione dal territorio doganale di merce munita illecitamente di un marchio o di un’indicazione di provenienza.
 
-[^54-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2547](https://fedlex.data.admin.ch/eli/oc/2008/364)).
+#### Art. 54a
 
-#### Art. 55
+**Piccoli invii**
+
+Per piccolo invio si intende un invio che contiene al massimo tre unità e il cui peso lordo è inferiore a cinque chilogrammi.
+
+#### Art. 54b
 
 **Domanda d’intervento**
 
-<sup>1</sup> Il titolare del marchio, il titolare di una licenza legittimato ad agire, l’avente diritto a un’indicazione di provenienza oppure una parte legittimata ad agire in virtù dell’articolo 56 LPM (richiedente) deve presentare la domanda d’intervento alla Direzione generale delle dogane.[^55-1]
+<sup>1</sup> Il titolare del marchio, il titolare di una licenza legittimato ad agire, l’avente diritto a un’indicazione di provenienza oppure una parte legittimata ad agire in virtù dell’articolo 56 LPM (richiedente) deve presentare la domanda d’intervento all’UDSC.
 
-<sup>1bis</sup> La Direzione generale delle dogane decide in merito alla domanda al più tardi entro 40 giorni dalla ricezione della documentazione completa.[^55-2]
+<sup>2</sup> L’UDSC decide in merito alla domanda al più tardi entro 40 giorni dalla ricezione della documentazione, non appena ne dispone integralmente.
 
-<sup>2</sup> La domanda è valevole due anni se non è stata presentata per un periodo più breve. Può essere rinnovata.
+<sup>3</sup> Una volta approvata, la domanda rimane valida per due anni qualora non sia stata presentata per una durata di validità più breve. Può essere rinnovata.
 
-[^55-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
-[^55-2]: Introdotto dal n. I 3 dell’O del 6 giu. 2014 sui termini ordinatori nell’ambito di competenza dell’Ufficio federale della dogana e della sicurezza dei confini, in vigore dal 1° set. 2014 ([RU 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
+#### Art. 55
+
+**Ritenzione della merce**
+
+<sup>1</sup> Se l’UDSC trattiene della merce, la conserva dietro pagamento di un emolumento oppure la affida a terzi per la conservazione a spese del richiedente.
+
+<sup>2</sup> L’UDSC comunica al richiedente il nome e l’indirizzo del dichiarante, detentore o proprietario, una descrizione precisa, la quantità e il nome del mittente della merce ritenuta.
+
+<sup>3</sup> Se si tratta di un piccolo invio distrutto secondo la procedura semplificata, l’UDSC informa il richiedente sulla quantità e sulla natura nonché sul mittente della merce distrutta.
+
+<sup>4</sup> Se, già prima della scadenza del termine giusta l’articolo 72 capoverso 3 o 4 LPM, è chiaro che il richiedente non può ottenere provvedimenti cautelari, la merce è svincolata senza indugio.
 
 #### Art. 56
 
-**Ritenzione**
+**Delega della competenza per i piccoli invii**
 
-<sup>1</sup> Se l’ufficio doganale trattiene dei prodotti, ne assume la custodia dietro pagamento di un emolumento oppure affida tale compito a terzi a spese del richiedente.[^56-1]
+<sup>1</sup> Se la merce ritenuta costituisce un piccolo invio, l’UDSC incarica l’IPI dell’esecuzione della procedura e consegna la merce a quest’ultimo o a un terzo designato dall’IPI affinché la conservi.
 
-<sup>2</sup> Comunica al richiedente il nome e l’indirizzo del depositante, del detentore o del proprietario, una descrizione precisa, la quantità e il nome del mittente in Svizzera o all’estero della merce trattenuta.[^56-2]
-
-<sup>3</sup> Qualora, prima della scadenza dei termini previsti all’articolo 72 capoversi 2 e 3 LPM, risulti che il richiedente non possa ottenere provvedimenti cautelari, i prodotti sono sbloccati immediatamente.[^56-3]
-
-[^56-1]: Nuovo testo giusta il n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5019](https://fedlex.data.admin.ch/eli/oc/2004/768)).
-[^56-2]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2547](https://fedlex.data.admin.ch/eli/oc/2008/364)).
-[^56-3]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
+<sup>2</sup> Se il richiedente è l’IPI, rimane competente l’UDSC.
 
 #### Art. 56a
 
-**Campioni**[^56a-1]
+**Campioni o modelli**
 
-<sup>1</sup> Il richiedente può chiedere la consegna o l’invio di campioni a scopo di esame oppure può chiedere di ispezionare la merce ritenuta. Invece di campioni l’UDSC può trasmettere al richiedente fotografie della merce ritenuta, se queste ne consentono l’esame.
+<sup>1</sup> Il richiedente può chiedere la consegna o l’invio di campioni o modelli a scopo di esame oppure può chiedere di ispezionare la merce ritenuta.
 
-<sup>2</sup> La richiesta può essere presentata insieme alla domanda d’intervento alla Direzione generale delle dogane o, durante la ritenzione della merce, direttamente all’ufficio doganale che trattiene la merce.
+<sup>2</sup> Invece di campioni o modelli, l’UDSC può trasmettere al richiedente fotografie della merce ritenuta, se queste ne consentono l’esame.
 
-[^56a-1]: Introdotto dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2547](https://fedlex.data.admin.ch/eli/oc/2008/364)).
+<sup>3</sup> La richiesta può essere presentata insieme alla domanda d’intervento all’UDSC o, durante la ritenzione della merce, all’autorità competente.
 
 #### Art. 56b
 
-**Tutela dei segreti di fabbricazione e di affari**[^56b-1]
+**Tutela dei segreti di fabbricazione e di affari**
 
-<sup>1</sup> L’UDSC informa il dichiarante, il detentore o il proprietario della merce della possibilità di presentare una richiesta motivata per rifiutare il prelievo di campioni. Per l’inoltro della richiesta essa stabilisce un termine adeguato.
+<sup>1</sup> Il dichiarante, detentore o proprietario della merce può chiedere all’UDSC di rifiutare il prelievo di campioni o modelli. La richiesta va motivata.
 
-<sup>2</sup> Qualora l’UDSC consenta al richiedente di ispezionare la merce ritenuta, per stabilire il momento dell’esame tiene conto in maniera adeguata degli interessi del richiedente e del dichiarante, del detentore o del proprietario.
+<sup>2</sup> L’UDSC informa il dichiarante, detentore o proprietario della merce della possibilità di cui al capoverso 1 e gli concede un termine adeguato.
 
-[^56b-1]: Introdotto dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2547](https://fedlex.data.admin.ch/eli/oc/2008/364)).
+<sup>3</sup> Qualora consenta al richiedente di ispezionare la merce ritenuta, nel determinare il momento dell’ispezione l’UDSC tiene conto in maniera adeguata degli interessi del richiedente da una parte e di quelli del dichiarante, detentore o proprietario dall’altra.
 
 #### Art. 56c
 
-**Conservazione dei mezzi di prova in caso di distruzione della merce**[^56c-1]
+**Conservazione dei mezzi di prova in caso di distruzione della merce**
 
-<sup>1</sup> L’UDSC trattiene i campioni prelevati per un periodo di un anno dalla notifica del dichiarante, del detentore o del proprietario in virtù dell’articolo 72 capoverso 1 LPM. Allo scadere di tale termine l’UDSC invita il depositante, il detentore o il proprietario a prendere in custodia i campioni, oppure ad assumere i costi per la conservazione ulteriore. Qualora il depositante, il detentore o il proprietario non sia disposto a prendere in custodia i campioni oppure ad assumere i costi per la conservazione ulteriore, o se non si esprime entro 30 giorni, l’UDSC distrugge i campioni.
+<sup>1</sup> L’UDSC conserva i campioni o modelli per un anno dal momento in cui comunica la ritenzione della merce al dichiarante, detentore o proprietario. Allo scadere di tale termine l’UDSC invita il dichiarante, detentore o proprietario a riprendere possesso dei campioni o modelli, oppure ad assumere i costi per l’ulteriore conservazione. Se il dichiarante, detentore o proprietario non ottempera all’invito o non fornisce una risposta entro 30 giorni, l’UDSC distrugge i campioni o modelli.
 
-<sup>2</sup> Invece di prelevare campioni esso può fotografare la merce distrutta, a condizione che ciò consenta di garantire la conservazione dei mezzi di prova.
+<sup>2</sup> Invece di prelevare campioni o modelli, l’UDSC può fotografare la merce distrutta, a condizione che ciò consenta di garantire la conservazione dei mezzi di prova.
 
-[^56c-1]: Introdotto dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2547](https://fedlex.data.admin.ch/eli/oc/2008/364)).
+#### Art. 56d
+
+**Trattamento, comunicazione e conservazione di dati personali e di dati concernenti persone giuridiche**
+
+<sup>1</sup>
+
+Le autorità competenti per l’esecuzione dell’intervento sono autorizzate a trattare i seguenti dati, personali e concernenti persone giuridiche, delle persone coinvolte nell’introduzione nel territorio doganale o nell’asportazione dal territorio doganale di merce o nell’intervento, per gli scopi di cui agli articoli 70–72*i* LPM, soprattutto in relazione al trattamento di domande d’intervento, alla notifica di invii sospetti, alla ritenzione o alla distruzione di merce nonché al prelievo o invio di campioni e modelli:
+
+- a. generalità del richiedente, del mittente, del dichiarante, del detentore o del proprietario della merce, segnatamente il cognome e il nome o la ditta e l’indirizzo;
+- b. indicazioni e documenti relativi alle domande d’intervento di cui all’articolo 71 LPM;
+- c. indicazioni e documenti relativi alla merce ritenuta secondo l’articolo 72 LPM;
+- d. indicazioni e documenti relativi all’intervento, inclusi quelli relativi alla ritenzione e alla distruzione di merce nonché al prelievo e all’invio di campioni e modelli.
+
+<sup>2</sup> Se l’IPI è competente per l’esecuzione della procedura, l’UDSC gli comunica i dati necessari di cui al capoverso 1.
+
+<sup>3</sup> Le autorità competenti possono conservare i dati per il periodo necessario allo scopo del trattamento, ma al massimo per cinque anni dopo la scadenza della durata di validità di una domanda d’intervento o dopo l’intervento.
 
 #### Art. 57
 
-**Tasse**[^57-1]
+**Emolumenti e tasse**
 
-Le tasse per l’intervento dell’UDSC sono rette dall’ordinanza del 4 aprile 2007[^57-2] sugli emolumenti dell’Ufficio federale della dogana e della sicurezza dei confini.
+<sup>1</sup> Gli emolumenti per l’intervento dell’UDSC sono retti dall’ordinanza del 4 aprile 2007[^57-1] sugli emolumenti dell’Ufficio federale della dogana e della sicurezza dei confini.
 
-[^57-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2547](https://fedlex.data.admin.ch/eli/oc/2008/364)).
-[^57-2]: [RS 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
+<sup>2</sup> Se l’IPI è competente per l’esecuzione della procedura, le tasse sono rette dalla OTa‑IPI[^57-2].
+
+[^57-1]: [RS 631.035](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7819)
+[^57-2]: [RS 232.148](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5978)
 
 ## Capitolo 9: Disposizioni finali
 
@@ -1222,7 +1252,7 @@ I termini fissati dall’IPI che non sono scaduti il giorno dell’entrata in vi
 
 I prodotti fabbricati prima dell’entrata in vigore della modifica del 2 settembre 2015 possono essere immessi per la prima volta in commercio solo fino al 31 dicembre 2018 con un’indicazione di provenienza secondo il diritto previgente.
 
-[^60a-1]: Introdotto dal n. I dell’O del 18 ott. 2006 ([RU 2006 4479](https://fedlex.data.admin.ch/eli/oc/2006/689)). Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
+[^60a-1]: Introdotto dalla cifra I dell’O del 18 ott. 2006 ([RU 2006 4479](https://fedlex.data.admin.ch/eli/oc/2006/689)). Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
 
 #### Art. 60b
 
@@ -1230,7 +1260,7 @@ I prodotti fabbricati prima dell’entrata in vigore della modifica del 2 settem
 
 L’IPI pubblica nel Foglio federale, fintanto che l’organo di pubblicazione dell’OMPI non è operativo, le registrazioni internazionali di denominazioni d’origine o di indicazioni geografiche per cui è richiesta la protezione sul territorio svizzero.
 
-[^60b-1]: Introdotto dal n. I dell’O del 18 ago. 2021, in vigore dal 1° dic. 2021 ([RU 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
+[^60b-1]: Introdotto dalla cifra I dell’O del 18 ago. 2021, in vigore dal 1° dic. 2021 ([RU 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
 
 ### Sezione 3: Entrata in vigore
 

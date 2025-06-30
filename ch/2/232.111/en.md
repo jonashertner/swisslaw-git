@@ -4,11 +4,11 @@ title: Ordinance of 23 December 1992 on the Protection of Trade Marks and Indica
 short: TmPO
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/296_296_296"
 language: en
-version: 2022-01-01
+version: 2025-07-01
 adopted: 1992-12-23
 in_force: 1993-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/296_296_296/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1993-296_296_296-20220101-en-xml-16.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/296_296_296/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/296_296_296/20250701/en/xml/fedlex-data-admin-ch-eli-cc-1993-296_296_296-20250701-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/296_296_296/20250701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (TmPO)
 
-of 23 December 1992 (Status as of 1 January 2022)
+of 23 December 1992 (Status as of 1 July 2025)
 
 [^t-1]: Amended by No I of the O of 2 Sept. 2015, in force since 1 Jan. 2017 ([AS 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
 
@@ -29,8 +29,8 @@ on the basis of Articles 35*c*, 38 paragraph 2, 39 paragraph 3, 50 paragraphs 1 
 
 ordains:
 
-[^ingress-1]: [SR 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
-[^ingress-2]: [SR 172.010.31](https://fedlex.data.admin.ch/eli/cc/1995/5050_5050_5050)
+[^ingress-1]: [SR 232.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5961)
+[^ingress-2]: [SR 172.010.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5028)
 [^ingress-3]: Amended by No I of the O of 18 Aug. 2021, in force since 1 Dec. 2021 ([AS 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
 
 ## Chapter 1 General Provisions
@@ -45,7 +45,7 @@ ordains:
 
 [^1-1]: The name of this administrative unit was amended in application of Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). This amendment has been made throughout the text.
 [^1-2]: Amended by No I of the O of 25 Oct. 1995, in force since 1 Jan. 1996 ([AS 1995 5158](https://fedlex.data.admin.ch/eli/oc/1995/5158_5158_5158)).
-[^1-3]: The name of this administrative unit was amended in application of Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) on 1 Jan. 2022 ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). This amendment has been made throughout the text.
+[^1-3]: The name of this administrative unit was amended in application of Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) on 1 Jan. 2022 ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). This amendment has been made throughout the text.
 
 #### Art. 2
 
@@ -85,7 +85,7 @@ If a time limit is calculated in months or years, it shall end in the final mont
 If the contested intellectual property right is transferred during the course of pending proceedings, Article 83 of the Civil Procedure Code[^4a-2] applies by analogy.
 
 [^4a-1]: Inserted by No I of the O of 18 Aug. 2021, in force since 1 Dec. 2021 ([AS 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
-[^4a-2]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^4a-2]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 #### Art. 5
 
@@ -123,10 +123,10 @@ If the contested intellectual property right is transferred during the course of
 
 **Fees**[^7-1]
 
-For fees which must be paid in accordance with the TmPA or this Ordinance, the IPI Fee Ordinance of 14 June 2016[^7-2] applies.
+For fees which must be paid in accordance with the TmPA or this Ordinance, the IPI Fee Ordinance of 14 June 2016[^7-2] (IPI-FeeO) applies.
 
-[^7-1]: Amended by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2017 ([AS 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
-[^7-2]: [SR 232.148](https://fedlex.data.admin.ch/eli/cc/2016/777)
+[^7-1]: Amended by No I 3 of the O of 14 May 2025 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, in force since 1 July 2025 ([AS 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
+[^7-2]: [SR 232.148](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5978)
 
 #### Art. 7a
 
@@ -151,7 +151,7 @@ For fees which must be paid in accordance with the TmPA or this Ordinance, the I
 
 <sup>2</sup> If an application that is otherwise formally valid contains all the information required, the IPI may waive the requirement to submit the form.[^8-3]
 
-[^8-1]: [SR 0.232.112.11](https://fedlex.data.admin.ch/eli/cc/2009/150)
+[^8-1]: [SR 0.232.112.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1054)
 [^8-2]: Amended by No I of the O of 18 Aug. 2021, in force since 1 Dec. 2021 ([AS 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
 [^8-3]: Amended by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2017 ([AS 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
 
@@ -216,7 +216,7 @@ The following must be included in the application where applicable:
 The goods and services for which the trade mark is claimed must be precisely named and the class number under the Nice Agreement of 15 June 1957[^11-2] concerning the International Classification of Goods and Services (The Nice Classification) must be provided.
 
 [^11-1]: Amended by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2017 ([AS 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
-[^11-2]: [SR 0.232.112.7](https://fedlex.data.admin.ch/eli/cc/1962/985_1019_1020), [0.232.112.8](https://fedlex.data.admin.ch/eli/cc/1970/685_683_684),[0.232.112.9](https://fedlex.data.admin.ch/eli/cc/1986/532_532_532)
+[^11-2]: [SR 0.232.112.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1061), [0.232.112.8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1062),[0.232.112.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1063)
 
 #### Art. 12
 
@@ -233,7 +233,7 @@ The declaration of priority within the meaning of the Paris Convention of 20 Mar
 
 <sup>3</sup> ...[^12-2]
 
-[^12-1]: [SR 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253),[0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265), [0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127),[0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
+[^12-1]: [SR 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027),[0.232.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1028), [0.232.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1029),[0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 [^12-2]: Repealed by No I of the O of 2 Sept. 2015, with effect from 1 Jan. 2017 ([AS 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
 
 #### Art. 13
@@ -309,11 +309,12 @@ For the further processing of an application which was refused due to failure to
 
 <sup>1</sup> The applicant must pay the filing fee within the time limit set by the IPI.
 
-<sup>2</sup> If the list of goods or services of the filed trade mark includes more than three classes, the applicant must pay a surcharge for each additional class. The IPI shall determine the number of classes subject to a surcharge in accordance with the list of classes under the Nice Agreement.
+<sup>2</sup> If the list of goods or services of the filed trade mark includes more than three classes, the applicant must pay a surcharge for each additional class. The IPI shall determine the number of classes subject to a surcharge in accordance with the list of classes under the Nice Agreement[^18-2].
 
 <sup>3</sup> The class surcharge must be paid within the time limit set by the IPI.
 
 [^18-1]: Amended by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2017 ([AS 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+[^18-2]: [SR 0.232.112.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1061), [0.232.112.8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1062),[0.232.112.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1063)
 
 #### Art. 18a
 
@@ -457,7 +458,7 @@ The request for cancellation of a trade mark registration on the grounds of non-
 
 <sup>2</sup> If a proceeding becomes groundless or is settled or withdrawn, half of the cancellation fee shall be reimbursed. If the requirements under Article 33*b* of the Federal Act on Administrative Procedure of 20 December 1968[^24e-1] (APA) are fulfilled, the fee shall be fully reimbursed.[^24e-2]
 
-[^24e-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^24e-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^24e-2]: Amended by No I of the O of 18 Aug. 2021, in force since 1 Dec. 2021 ([AS 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
 
 ### Section 3 Renewal of the Trade Mark Registration
@@ -704,7 +705,7 @@ In addition to the date of publication, the following shall be entered in the Tr
 <sup>4</sup> The IPI may enter other information of public interest.
 
 [^40-1]: Amended by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2017 ([AS 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
-[^40-2]: [SR 0.232.112.7](https://fedlex.data.admin.ch/eli/cc/1962/985_1019_1020), [0.232.112.8](https://fedlex.data.admin.ch/eli/cc/1970/685_683_684),[0.232.112.9](https://fedlex.data.admin.ch/eli/cc/1986/532_532_532)
+[^40-2]: [SR 0.232.112.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1061), [0.232.112.8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1062),[0.232.112.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1063)
 [^40-3]: Inserted by No I of the O of 22 Jan. 1997, in force since 1 May 1997 ([AS 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
 [^40-4]: Inserted by No I of the O of 22 Jan. 1997, in force since 1 May 1997 ([AS 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
 [^40-5]: Inserted by No I of the O of 22 Jan. 1997, in force since 1 May 1997 ([AS 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
@@ -800,8 +801,8 @@ The IPI shall publish:
 
 <sup>4</sup> The national fee (Article 45 paragraph 2 TmPA) must be paid at the request by the IPI.[^47-7]
 
-[^47-1]: [SR 0.232.112.3](https://fedlex.data.admin.ch/eli/cc/1970/1689_1694_1693)
-[^47-2]: [SR 0.232.112.4](https://fedlex.data.admin.ch/eli/cc/1997/2350_2350_2350)
+[^47-1]: [SR 0.232.112.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1057)
+[^47-2]: [SR 0.232.112.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1060)
 [^47-3]: Amended by No I of the O of 22 Jan. 1997, in force since 1 May 1997 ([AS 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
 [^47-4]: Amended by No I of the O of 18 Aug. 2021, in force since 1 Dec. 2021 ([AS 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
 [^47-5]: Inserted by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2017 ([AS 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
@@ -816,7 +817,7 @@ The IPI shall publish:
 
 <sup>2</sup> If the applicant does not remedy the deficiency within the time limit, the IPI shall refuse the application. The IPI may set further time limits in exceptional cases.
 
-[^48-1]: [SR 0.232.112.21](https://fedlex.data.admin.ch/eli/cc/2020/338)
+[^48-1]: [SR 0.232.112.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1056)
 [^48-2]: Amended by No I of the O of 22 Jan. 1997, in force since 1 May 1997 ([AS 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
 
 #### Art. 49
@@ -901,7 +902,7 @@ This Chapter regulates the use of indications of source for:
 
 <sup>2</sup> For foodstuffs, the Ordinance of 2 September 2015[^52a-1] on the Use of Swiss Indications of Source for Foodstuffs as well as Articles 52*c* and 52*d* of this Ordinance apply.
 
-[^52a-1]: [SR 232.112.1](https://fedlex.data.admin.ch/eli/cc/2015/611)
+[^52a-1]: [SR 232.112.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5965)
 
 #### Art. 52b
 
@@ -1100,7 +1101,7 @@ Applications invoking a ground under Article 50*e* paragraph 1 TmPA and applicat
 
 <sup>4</sup> The IPI may invite the affected federal and cantonal authorities to comment.
 
-[^52r-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^52r-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ## Chapter 7 Producer Identification Marks on Watches and Watch Movements
 
@@ -1116,83 +1117,111 @@ Applications invoking a ground under Article 50*e* paragraph 1 TmPA and applicat
 
 <sup>5</sup> The grounds for refusal under Article 3 paragraph 1 TmPA also apply to producer identification marks.
 
-[^53-1]: [SR 232.119](https://fedlex.data.admin.ch/eli/cc/1971/1908_1915_1915)
+[^53-1]: [SR 232.119](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5970)
 
-## Chapter 8 Assistance provided by the FOCBS
+## Chapter 8 Assistance in connection with Goods being brought into or taken out of the Customs Territory
+
+[^chap8-1]
+
+[^chap8-1]: Amended by No I 3 of the O of 14 May 2025 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, in force since 1 July 2025 ([AS 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 54
 
-**Scope**[^54-1]
+**Scope**
 
-The assistance provided by the FOCBS shall extend to the movement of goods which unlawfully bear a trade mark or an indication of source into or out of the customs territory.
+This chapter applies to assistance where goods are brought into or taken out of the customs territory that unlawfully bear a trade mark or an indication of source.
 
-[^54-1]: Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2547](https://fedlex.data.admin.ch/eli/oc/2008/364)).
+#### Art. 54a
 
-#### Art. 55
+**Small consignment**
+
+A small consignment is a consignment that contains a maximum of three units and has a gross weight of less than five kilogrammes.
+
+#### Art. 54b
 
 **Application for assistance**
 
-<sup>1</sup> The proprietor of the trade mark, the licensee entitled to institute proceedings, the person entitled to use an indication of source or a party (applicant) entitled to institute proceedings under Article 56 TmPA, must submit the application for assistance to the Directorate General of Customs.[^55-1]
+<sup>1</sup> The proprietor of the trade mark, the licensee entitled to institute proceedings, the person entitled to use an indication of source or a party (applicant) entitled to institute proceedings under Article 56 TmPA must submit the application for assistance to the FOCBS.
 
-<sup>1bis</sup> The Directorate General of Customs shall make a decision on the application no later than 40 days after receipt of the complete documentation.[^55-2]
+<sup>2</sup> Once the FOCBS has received the application in full, it shall decide on it within 40 days.
 
-<sup>2</sup> The application is valid for a period of two years unless a shorter period of validity is requested. It may be renewed.
+<sup>3</sup> The approved application is valid for a period of two years unless a shorter period of validity is requested. It may be renewed.
 
-[^55-1]: Amended by No I of the O of 2 Sept. 2015, in force since 1 Jan. 2017 ([AS 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
-[^55-2]: Inserted by No I 3 of the O of 6 June 2014 on Official Processing Times for Matters within the Jurisdiction of the Federal Customs Administration, in force since 1 Sept. 2014 ([AS 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
+#### Art. 55
+
+**Detention of goods**
+
+<sup>1</sup> If the FOCBS detains goods, it shall hold them in safekeeping for a fee or place them in the safekeeping of a third party at the cost of the applicant.
+
+<sup>2</sup> It shall provide the applicant with the name and address of the declarant, holder or owner, a precise description, the quantity, and the sender of the detained goods.
+
+<sup>3</sup> If the consignment is small and it has been destroyed under the simplified procedure, the FOCBS shall inform the applicant of the quantity and type of goods destroyed and the sender.
+
+<sup>4</sup> If it is established prior to the expiry of the time limit under Article 72 paragraph 3 or 4 TmPA that the applicant is unable to obtain preliminary measures, the goods shall be released immediately.
 
 #### Art. 56
 
-**Withholding of goods**
+**Assignment of responsibility for small consignments**
 
-<sup>1</sup> If the customs office withholds goods, it shall retain the goods for a fee or shall place them in the custody of a third party at the cost of the applicant.[^56-1]
+<sup>1</sup> If the detained goods are in a small consignment, the FOCBS shall assign responsibility for carrying out the procedure to the Swiss Federal Institute of Intellectual Property (IPI) and hand the goods over to the IPI or a third party designated by the IPI for safekeeping.
 
-<sup>2</sup> It shall provide the applicant with the name and address of the declarant, holder or owner, a precise description and the quantity, and details of the sender of the withheld goods in Switzerland or abroad.[^56-2]
-
-<sup>3</sup> If it is established prior to the expiry of the time limits under Article 72 paragraphs 2 and 3 TmPA that the applicant is unable to obtain preliminary measures, the goods shall be released immediately.[^56-3]
-
-[^56-1]: Amended by Annex 4 No 3 of the Customs Ordinance of 1 Nov. 2006 in force since 1 May 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^56-2]: Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2547](https://fedlex.data.admin.ch/eli/oc/2008/364)).
-[^56-3]: Amended by No I of the O of 2 Sept. 2015, in force since 1 Jan. 2017 ([AS 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
+<sup>2</sup> If the IPI is the applicant, the FOCBS shall remain responsible.
 
 #### Art. 56a
 
-**Specimens or samples**[^56a-1]
+**Specimens or samples**
 
-<sup>1</sup> The applicant may request that the specimens or samples are handed over or delivered to them for examination or that the items are inspected. Instead of specimens or samples, the FOCBS may provide the applicant with photographs of the withheld goods if this enables the applicant to assess the goods.
+<sup>1</sup> The applicant may request that specimens or samples be handed over or delivered for examination or that the goods be made available for inspection.
 
-<sup>2</sup> The request may be submitted with the application for assistance to the Directorate General of Customs or, while the goods are being withheld, directly to the customs office that is withholding the goods.
+<sup>2</sup> Instead of specimens or samples, the FOCBS may provide the applicant with photographs of the withheld goods if these enable the applicant to assess the goods.
 
-[^56a-1]: Inserted by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2547](https://fedlex.data.admin.ch/eli/oc/2008/364)).
+<sup>3</sup> The request may be submitted with the application for assistance to the Directorate General of Customs or, while the goods are being withheld, directly to the customs office that is withholding the goods.
 
 #### Art. 56b
 
-**Safeguarding of manufacturing and trade secrets**[^56b-1]
+**Safeguarding of manufacturing and trade secrets**
 
-<sup>1</sup> The FOCBS shall inform the declarant, holder or owner of the goods of the possibility of refusing to take specimens or samples on presentation of a reasoned request. It shall set a suitable time limit for him or her to submit the request.
+<sup>1</sup> The declarant, holder or owner of the goods may request the FOCBS to refuse to take specimens or samples. The request must be substantiated.
 
-<sup>2</sup> If the FOCBS permits the applicant to inspect the withheld goods, it shall take appropriate consideration of the interests of the applicant and the declarant or holder or owner when determining the date of inspection.
+<sup>2</sup> The FOCBS shall inform the declarant, holder or owner of the goods of the option stipulated in paragraph 1 and set an appropriate time limit.
 
-[^56b-1]: Inserted by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2547](https://fedlex.data.admin.ch/eli/oc/2008/364)).
+<sup>3</sup> If the FOCBS permits the applicant to inspect the detained goods, it shall take appropriate consideration of the interests of the applicant and the declarant, holder or owner when determining the date of inspection.
 
 #### Art. 56c
 
-**Safekeeping of evidence in the event of destruction of goods**[^56c-1]
+**Safekeeping of evidence in the event of destruction of goods**
 
-<sup>1</sup> The FOCBS shall keep the specimens or samples collected for a period of one year starting from the date of notification of the declarant, right holder or owner in accordance with Article 72 paragraph 1 TmPA. After this time limit expires, it shall request the declarant, holder or owner to take possession of the specimens or samples or bear the costs of their continued safekeeping. If the declarant, holder or owner is not willing to do so or does not respond to this request within 30 days, the FOCBS shall destroy the specimens or samples.
+<sup>1</sup> The FOCBS shall hold the specimens or samples in safekeeping for one year from the date of notifying the declarant, holder or owner that the goods are being detained. After this time limit expires, it shall request the declarant, holder or owner to take possession of the specimens or samples or bear the costs of their continued safekeeping. If the declarant, holder or owner does not comply with the request or does not respond within 30 days, the FOCBS shall destroy the specimens or samples.
 
 <sup>2</sup> Instead of collecting specimens or samples, the FOCBS may take photographs of the destroyed goods, provided this serves the purpose of preserving evidence.
 
-[^56c-1]: Inserted by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2547](https://fedlex.data.admin.ch/eli/oc/2008/364)).
+#### Art. 56d
+
+**Processing, disclosure and storage of personal data and data of legal entities**
+
+<sup>1</sup>
+
+The authorities responsible for providing assistance are authorised to process the following personal data and data of legal entities that concern persons involved in the movement of goods into or out of the customs territory or in the provision of assistance where the said data processing is for the purposes set out in Articles 70–72*i* TmPA, in particular in connection with the processing of applications for assistance, notifications of suspicious consignments, the detention or destruction of goods and the taking or delivery of specimens and samples:
+
+- a. personal details of the applicant, sender, declarant, holder or owner of the goods, in particular their last name and first name or company name and address;
+- b. information and documents relating to the applications in accordance with Article 71 TmPA;
+- c. information and documents relating to the goods detained in accordance with Article 72 TmPA;
+- d. information and documents on assistance, including the detention and destruction of goods and the taking and delivery of specimens and samples.
+
+<sup>2</sup> If the IPI is responsible for carrying out the procedure, the FOCBS shall provide it with the necessary data in accordance with paragraph 1.
+
+<sup>3</sup> The authorities responsible may store the data for as long as required for the purpose of processing, but for no longer than five years after the period of validity of an application for assistance has expired or the assistance has been provided.
 
 #### Art. 57
 
-**Fees**[^57-1]
+**Fees**
 
-The fees for assistance provided by the FOCBS are governed by the Ordinance of 4 April 2007[^57-2] on the Fees charged by the Federal Office for Customs and Border Security.
+<sup>1</sup> The fees for assistance provided by the FOCBS are governed by the Ordinance of 4 April 2007[^57-1] on the Fees charged by the Federal Office for Customs and Border Security.
 
-[^57-1]: Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2547](https://fedlex.data.admin.ch/eli/oc/2008/364)).
-[^57-2]: [SR 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
+<sup>2</sup> If the IPI is responsible for carrying out the procedure, the fees are based on the FeeO-IPI[^57-2].
+
+[^57-1]: [SR 631.035](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7819)
+[^57-2]: [SR 232.148](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5978)
 
 ## Chapter 9 Final Provisions
 

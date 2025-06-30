@@ -4,11 +4,11 @@ title: Verordnung vom 23. Dezember 1992 über den Schutz von Marken und Herkunft
 short: MSchV
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/296_296_296"
 language: de
-version: 2022-01-01
+version: 2025-07-01
 adopted: 1992-12-23
 in_force: 1993-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/296_296_296/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1993-296_296_296-20220101-de-xml-16.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/296_296_296/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/296_296_296/20250701/de/xml/fedlex-data-admin-ch-eli-cc-1993-296_296_296-20250701-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/296_296_296/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/296_296_296/20220101/de"
 
 (MSchV)[^t-1]
 
-vom 23. Dezember 1992 (Stand am 1. Januar 2022)
+vom 23. Dezember 1992 (Stand am 1. Juli 2025)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Jan. 2017 ([AS 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
 
@@ -27,8 +27,8 @@ gestützt auf die Artikel 35*c*, 38 Absatz 2, 39 Absatz 3, 50 Absätze 1 und 2, 
 
 verordnet:
 
-[^ingress-1]: [SR 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
-[^ingress-2]: [SR 172.010.31](https://fedlex.data.admin.ch/eli/cc/1995/5050_5050_5050)
+[^ingress-1]: [SR 232.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5961)
+[^ingress-2]: [SR 172.010.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5028)
 [^ingress-3]: Fassung gemäss Ziff. I der V vom 18. Aug. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -43,7 +43,7 @@ verordnet:
 
 [^1-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
 [^1-2]: Fassung gemäss Ziff. I der V vom 25. Okt. 1995, in Kraft seit 1. Jan. 1996 ([AS 1995 5158](https://fedlex.data.admin.ch/eli/oc/1995/5158_5158_5158)).
-[^1-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^1-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 2
 
@@ -83,7 +83,7 @@ Berechnet sich eine Frist nach Monaten oder Jahren, so endet sie im letzten Mona
 Wird der strittige Schutztitel während eines hängigen Verfahrens veräussert, so ist Artikel 83 der Zivilprozessordnung[^4a-2] sinngemäss anwendbar.
 
 [^4a-1]: Eingefügt durch Ziff. I der V vom 18. Aug. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
-[^4a-2]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^4a-2]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 #### Art. 5
 
@@ -121,10 +121,10 @@ Wird der strittige Schutztitel während eines hängigen Verfahrens veräussert, 
 
 **Gebühren**[^7-1]
 
-Für die Gebühren, die nach dem MSchG oder nach dieser Verordnung zu bezahlen sind, gilt die Verordnung des IGE vom 14. Juni 2016[^7-2] über Gebühren.
+Für die Gebühren, die nach dem MSchG oder nach dieser Verordnung zu bezahlen sind, gilt die Verordnung des IGE vom 14. Juni 2016[^7-2] über Gebühren (GebV-IGE).
 
-[^7-1]: Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
-[^7-2]: [SR 232.148](https://fedlex.data.admin.ch/eli/cc/2016/777)
+[^7-1]: Fassung gemäss Ziff. I 3 der V vom 14. Mai 2025 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
+[^7-2]: [SR 232.148](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5978)
 
 #### Art. 7a
 
@@ -149,7 +149,7 @@ Für die Gebühren, die nach dem MSchG oder nach dieser Verordnung zu bezahlen s
 
 <sup>2</sup> Enthält eine im Übrigen formgültige Hinterlegung alle verlangten Angaben, so kann das IGE auf die Einreichung des Formulars verzichten.[^8-3]
 
-[^8-1]: [SR 0.232.112.11](https://fedlex.data.admin.ch/eli/cc/2009/150)
+[^8-1]: [SR 0.232.112.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1054)
 [^8-2]: Fassung gemäss Ziff. I der V vom 18. Aug. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
 [^8-3]: Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
 
@@ -214,7 +214,7 @@ Es ist gegebenenfalls zu ergänzen mit:
 Die Waren und Dienstleistungen, für welche die Marke beansprucht wird, sind präzise zu bezeichnen und mit der Nummer der Klasse nach dem Abkommen von Nizza vom 15. Juni 1957[^11-2] über die internationale Klassifikation von Waren und Dienstleistungen (Nizzaer Klassifikationsabkommen) zu versehen.
 
 [^11-1]: Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
-[^11-2]: [SR 0.232.112.7](https://fedlex.data.admin.ch/eli/cc/1962/985_1019_1020)**/.9**
+[^11-2]: [SR 0.232.112.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1061), [0.232.112.8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1062), [0.232.112.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1063)
 
 #### Art. 12
 
@@ -231,7 +231,7 @@ Die Erklärung für die Priorität nach der Pariser Verbandsübereinkunft vom 20
 
 <sup>3</sup> …[^12-2]
 
-[^12-1]: [SR 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**/.04**
+[^12-1]: [SR 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027), [0.232.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1028), [0.232.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1029), [0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 [^12-2]: Aufgehoben durch Ziff. I der V vom 2. Sept. 2015, mit Wirkung seit 1. Jan. 2017 ([AS 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
 
 #### Art. 13
@@ -307,11 +307,12 @@ Für die Weiterbehandlung eines wegen Fristversäumnis zurückgewiesenen Gesuchs
 
 <sup>1</sup> Der Hinterleger hat innerhalb einer vom IGE angesetzten Frist die Hinterlegungsgebühr zu bezahlen.
 
-<sup>2</sup> Umfasst das Waren- oder Dienstleistungsverzeichnis der hinterlegten Marke mehr als drei Klassen, so hat der Hinterleger für jede weitere Klasse einen Zuschlag zu entrichten. Das IGE bestimmt die Anzahl der zuschlagspflichtigen Klassen nach der Klasseneinteilung des Nizzaer Klassifikationsabkommen.
+<sup>2</sup> Umfasst das Waren- oder Dienstleistungsverzeichnis der hinterlegten Marke mehr als drei Klassen, so hat der Hinterleger für jede weitere Klasse einen Zuschlag zu entrichten. Das IGE bestimmt die Anzahl der zuschlagspflichtigen Klassen nach der Klasseneinteilung des Nizzaer Klassifikationsabkommen[^18-2].
 
 <sup>3</sup> Der Klassenzuschlag ist innerhalb einer vom IGE angesetzten Frist zu bezahlen.
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+[^18-2]: [SR 0.232.112.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1061), [0.232.112.8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1062), [0.232.112.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1063)
 
 #### Art. 18a
 
@@ -455,7 +456,7 @@ Der Antrag auf Löschung einer Markeneintragung wegen Nichtgebrauchs der Marke i
 
 <sup>2</sup> Wird ein Verfahren gegenstandslos oder wird es durch Vergleich oder Abstand erledigt, so wird die Hälfte der Gebühr für die Löschung zurückerstattet. Sind die Voraussetzungen nach Artikel 33*b* des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^24e-1] (VwVG) erfüllt, so wird die Gebühr vollständig zurückerstattet.[^24e-2]
 
-[^24e-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^24e-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^24e-2]: Fassung gemäss Ziff. I der V vom 18. Aug. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
 
 ### 3. Abschnitt: Verlängerung der Markeneintragung
@@ -702,7 +703,7 @@ Ferner werden im Markenregister, jeweils mit dem Datum der Veröffentlichung, ei
 <sup>4</sup> Das IGE kann weitere Angaben von öffentlichem Interesse eintragen.
 
 [^40-1]: Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
-[^40-2]: [SR 0.232.112.7](https://fedlex.data.admin.ch/eli/cc/1962/985_1019_1020)**/.9**
+[^40-2]: [SR 0.232.112.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1061), [0.232.112.8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1062), [0.232.112.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1063)
 [^40-3]: Eingefügt durch Ziff. I der V vom 22. Jan. 1997, in Kraft seit 1. Mai 1997 ([AS 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
 [^40-4]: Eingefügt durch Ziff. I der V vom 22. Jan. 1997, in Kraft seit 1. Mai 1997 ([AS 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
 [^40-5]: Eingefügt durch Ziff. I der V vom 22. Jan. 1997, in Kraft seit 1. Mai 1997 ([AS 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
@@ -798,8 +799,8 @@ Das IGE veröffentlicht:
 
 <sup>4</sup> Die nationale Gebühr (Art. 45 Abs. 2 MSchG) ist nach Aufforderung durch das IGE zu bezahlen.[^47-7]
 
-[^47-1]: [SR 0.232.112.3](https://fedlex.data.admin.ch/eli/cc/1970/1689_1694_1693)
-[^47-2]: [SR 0.232.112.4](https://fedlex.data.admin.ch/eli/cc/1997/2350_2350_2350)
+[^47-1]: [SR 0.232.112.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1057)
+[^47-2]: [SR 0.232.112.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1060)
 [^47-3]: Fassung gemäss Ziff. I der V vom 22. Jan. 1997, in Kraft seit 1. Mai 1997 ([AS 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
 [^47-4]: Fassung gemäss Ziff. I der V vom 18. Aug. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
 [^47-5]: Eingefügt durch Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
@@ -814,7 +815,7 @@ Das IGE veröffentlicht:
 
 <sup>2</sup> Wird der Mangel nicht fristgerecht behoben, so wird das Gesuch zurückgewiesen. Das IGE kann ausnahmsweise weitere Fristen ansetzen.
 
-[^48-1]: [SR 0.232.112.21](https://fedlex.data.admin.ch/eli/cc/2020/338)
+[^48-1]: [SR 0.232.112.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1056)
 [^48-2]: Fassung gemäss Ziff. I der V vom 22. Jan. 1997, in Kraft seit 1. Mai 1997 ([AS 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
 
 #### Art. 49
@@ -899,7 +900,7 @@ Dieses Kapitel regelt die Verwendung von Herkunftsangaben für:
 
 <sup>2</sup> Für Lebensmittel gelten die Verordnung vom 2. September 2015[^52a-1] über die Verwendung von schweizerischen Herkunftsangaben für Lebensmittel sowie die Artikel 52*c* und 52*d* der vorliegenden Verordnung.
 
-[^52a-1]: [SR 232.112.1](https://fedlex.data.admin.ch/eli/cc/2015/611)
+[^52a-1]: [SR 232.112.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5965)
 
 #### Art. 52b
 
@@ -1098,7 +1099,7 @@ Gesuche, mit denen ein Grund nach Artikel 50*e* Absatz 1 MSchG geltend gemacht w
 
 <sup>4</sup> Das IGE kann die betroffenen Bundes- und Kantonsbehörden zur Stellungnahme einladen.
 
-[^52r-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^52r-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ## 7. Kapitel: Produzentenkennzeichen auf Uhren und Uhrwerken
 
@@ -1114,83 +1115,111 @@ Gesuche, mit denen ein Grund nach Artikel 50*e* Absatz 1 MSchG geltend gemacht w
 
 <sup>5</sup> Die Ausschlussgründe nach Artikel 3 Absatz 1 MSchG gelten auch für Produzentenkennzeichen.
 
-[^53-1]: [SR 232.119](https://fedlex.data.admin.ch/eli/cc/1971/1908_1915_1915)
+[^53-1]: [SR 232.119](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5970)
 
-## 8. Kapitel: Hilfeleistung des BAZG
+## 8. Kapitel: Hilfeleistung beim Verbringen von Waren ins Zollgebiet oder aus dem Zollgebiet
+
+[^chap8-1]
+
+[^chap8-1]: Fassung gemäss Ziff. I 3 der V vom 14. Mai 2025 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 54
 
-**Bereich**[^54-1]
+**Geltungsbereich**
 
-Die Hilfeleistung des BAZG erstreckt sich auf das Verbringen von Waren, die widerrechtlich mit einer Marke oder einer Herkunftsangabe versehen sind, ins oder aus dem Zollgebiet.
+Dieses Kapitel gilt für Hilfeleistungen beim Verbringen von Waren, die widerrechtlich mit einer Marke oder einer Herkunftsangabe versehen sind, ins Zollgebiet oder aus dem Zollgebiet.
 
-[^54-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2547](https://fedlex.data.admin.ch/eli/oc/2008/364)).
+#### Art. 54a
 
-#### Art. 55
+**Kleinsendung**
+
+Als Kleinsendung gilt eine Sendung, die höchstens drei Einheiten enthält und deren Bruttogewicht weniger als fünf Kilogramm beträgt.
+
+#### Art. 54b
 
 **Antrag auf Hilfeleistung**
 
-<sup>1</sup> Der Markeninhaber, der klageberechtigte Lizenznehmer, der an einer Herkunftsangabe Berechtigte oder eine nach Artikel 56 MSchG klageberechtigte Partei (Antragsteller) muss den Antrag auf Hilfeleistung bei der Oberzolldirektion stellen.[^55-1]
+<sup>1</sup> Der Markeninhaber, der klageberechtigte Lizenznehmer, der an einer Herkunftsangabe Berechtigte oder eine nach Artikel 56 MSchG klageberechtigte Partei (Antragsteller) muss den Antrag auf Hilfeleistung beim BAZG stellen.
 
-<sup>1bis</sup> Die Oberzolldirektion entscheidet spätestens 40 Tage nach Erhalt der vollständigen Unterlagen über den Antrag.[^55-2]
+<sup>2</sup> Das BAZG entscheidet spätestens 40 Tage nach Erhalt der Unterlagen über den Antrag, sobald diese dem BAZG vollständig vorliegen.
 
-<sup>2</sup> Der Antrag gilt während zwei Jahren, wenn er nicht für eine kürzere Geltungsdauer gestellt wird. Er kann erneuert werden.
+<sup>3</sup> Der genehmigte Antrag gilt zwei Jahre, wenn er nicht für eine kürzere Geltungsdauer gestellt wird. Er kann erneuert werden.
 
-[^55-1]: Fassung gemäss Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Jan. 2017 ([AS 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
-[^55-2]: Eingefügt durch Ziff. I 3 der V vom 6. Juni 2014 über die Ordnungsfristen im Zuständigkeitsbereich der Eidgenössischen Zollverwaltung, in Kraft seit 1. Sept. 2014 ([AS 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
-
-#### Art. 56
+#### Art. 55
 
 **Zurückbehalten von Waren**
 
-<sup>1</sup> Behält die Zollstelle Waren zurück, so verwahrt sie sie gegen Gebühr selbst oder gibt sie auf Kosten des Antragstellers einer Drittperson in Verwahrung.[^56-1]
+<sup>1</sup> Behält das BAZG Waren zurück, so verwahrt es diese gegen eine Gebühr oder gibt sie auf Kosten des Antragstellers einer Drittperson zur Verwahrung.
 
-<sup>2</sup> Sie teilt dem Antragsteller Name und Adresse des Anmelders, Besitzers oder Eigentümers, eine genaue Beschreibung, die Menge sowie den Absender im In- oder Ausland der zurückbehaltenen Ware mit.[^56-2]
+<sup>2</sup> Es teilt dem Antragsteller Name und Adresse des Anmelders, Besitzers oder Eigentümers, eine genaue Beschreibung, die Menge sowie den Absender der zurückbehaltenen Ware mit.
 
-<sup>3</sup> Steht schon vor Ablauf der Fristen nach Artikel 72 Absätze 2 und 3 MSchG fest, dass der Antragsteller vorsorgliche Massnahmen nicht erwirken kann, so werden die Waren sogleich freigegeben.[^56-3]
+<sup>3</sup> Handelt es sich um eine Kleinsendung und wurde diese im vereinfachten Verfahren vernichtet, so teilt es dem Antragsteller die Menge und die Art sowie den Absender der vernichteten Ware mit.
 
-[^56-1]: Fassung gemäss Anhang 4 Ziff. 3 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^56-2]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2547](https://fedlex.data.admin.ch/eli/oc/2008/364)).
-[^56-3]: Fassung gemäss Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Jan. 2017 ([AS 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
+<sup>4</sup> Steht schon vor Ablauf der Frist nach Artikel 72 Absatz 3 beziehungsweise 4 MSchG fest, dass der Antragsteller keine vorsorglichen Massnahmen erwirken kann, so wird die Ware sogleich freigegeben.
+
+#### Art. 56
+
+**Übertragung der Zuständigkeit bei Kleinsendungen**
+
+<sup>1</sup> Handelt es sich bei der zurückbehaltenen Ware um eine Kleinsendung, so überträgt das BAZG die Zuständigkeit für den Vollzug des Verfahrens dem IGE und übergibt diesem oder einer von diesem bezeichneten Drittperson die Ware zur Verwahrung.
+
+<sup>2</sup> Ist das IGE der Antragsteller, so bleibt das BAZG zuständig.
 
 #### Art. 56a
 
-**Proben oder Muster**[^56a-1]
+**Proben oder Muster**
 
-<sup>1</sup> Der Antragsteller kann die Übergabe oder Zusendung von Proben oder Mustern zur Prüfung oder die Besichtigung der Ware beantragen. Anstelle von Proben oder Mustern kann das BAZG dem Antragsteller auch Fotografien der zurückbehaltenen Ware übergeben, wenn diese eine Prüfung durch den Antragsteller ermöglichen.
+<sup>1</sup> Der Antragsteller kann die Übergabe oder Zusendung von Proben oder Mustern zur Prüfung oder die Besichtigung der Ware beantragen.
 
-<sup>2</sup> Der Antrag kann zusammen mit dem Antrag auf Hilfeleistung bei der Oberzolldirektion oder während des Zurückbehaltens der Ware direkt bei der Zollstelle gestellt werden, welche die Ware zurückbehält.
+<sup>2</sup> Das BAZG kann dem Antragsteller anstelle der Proben oder Muster auch Fotografien der zurückbehaltenen Ware übergeben, wenn diese eine Prüfung ermöglichen.
 
-[^56a-1]: Eingefügt durch Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2547](https://fedlex.data.admin.ch/eli/oc/2008/364)).
+<sup>3</sup> Der Antrag kann zusammen mit dem Antrag auf Hilfeleistung beim BAZG oder, während die Ware zurückbehalten wird, bei der zuständigen Behörde gestellt werden.
 
 #### Art. 56b
 
-**Wahrung von Fabrikations- und Geschäftsgeheimnissen**[^56b-1]
+**Wahrung von Fabrikations- und Geschäftsgeheimnissen**
 
-<sup>1</sup> Das BAZG weist den Anmelder, Besitzer oder Eigentümer der Ware auf die Möglichkeit hin, einen begründeten Antrag auf Verweigerung der Entnahme von Proben oder Mustern zu stellen. Es setzt ihm für die Stellung des Antrags eine angemessene Frist.
+<sup>1</sup> Der Anmelder, Besitzer oder Eigentümer der Ware kann dem BAZG beantragen, die Entnahme von Proben oder Mustern zu verweigern. Der Antrag ist zu begründen.
 
-<sup>2</sup> Gestattet das BAZG dem Antragsteller die Besichtigung der zurückbehaltenen Ware, so nimmt es bei der Festlegung des Zeitpunkts auf die Interessen des Antragstellers und des Anmelders, Besitzers oder Eigentümers angemessen Rücksicht.
+<sup>2</sup> Das BAZG informiert den Anmelder, Besitzer oder Eigentümer der Ware über die Möglichkeit nach Absatz 1 und gewährt ihm eine angemessene Frist.
 
-[^56b-1]: Eingefügt durch Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2547](https://fedlex.data.admin.ch/eli/oc/2008/364)).
+<sup>3</sup> Gestattet es dem Antragsteller, die zurückbehaltene Ware zu besichtigen, so berücksichtigt es bei der Festlegung des Zeitpunkts angemessen die Interessen des Antragstellers sowie des Anmelders, Besitzers oder Eigentümers.
 
 #### Art. 56c
 
-**Aufbewahrung von Beweismitteln bei Vernichtung der Ware**[^56c-1]
+**Aufbewahrung von Beweismitteln bei Vernichtung der Ware**
 
-<sup>1</sup> Das BAZG bewahrt die entnommenen Proben oder Muster während eines Jahres ab der Benachrichtigung des Anmelders, Besitzers oder Eigentümers nach Artikel 72 Absatz 1 MSchG auf. Nach Ablauf dieser Frist fordert es den Anmelder, Besitzer oder Eigentümer auf, die Proben oder Muster in seinen Besitz zu nehmen oder die Kosten der weiteren Aufbewahrung zu tragen. Ist der Anmelder, Besitzer oder Eigentümer dazu nicht bereit oder lässt er sich innerhalb von 30 Tagen nicht vernehmen, so vernichtet das BAZG die Proben oder Muster.
+<sup>1</sup> Das BAZG bewahrt die Proben oder Muster ab dem Zeitpunkt der Mitteilung an den Anmelder, Besitzer oder Eigentümer, dass die Ware zurückbehalten wird, ein Jahr auf. Nach Ablauf dieser Frist fordert es den Anmelder, Besitzer oder Eigentümer auf, die Proben oder Muster in Besitz zu nehmen oder die Kosten der weiteren Aufbewahrung zu tragen. Kommt der Anmelder, Besitzer oder Eigentümer der Aufforderung nicht nach oder gibt er innerhalb von 30 Tagen keine Antwort, so vernichtet das BAZG die Proben oder Muster.
 
 <sup>2</sup> Das BAZG kann anstelle der Entnahme von Proben oder Mustern Fotografien der vernichteten Ware erstellen, soweit damit der Zweck der Sicherung von Beweismitteln gewährleistet ist.
 
-[^56c-1]: Eingefügt durch Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2547](https://fedlex.data.admin.ch/eli/oc/2008/364)).
+#### Art. 56d
+
+**Bearbeitung, Bekanntgabe und Aufbewahrung von Personendaten und Daten juristischer Personen**
+
+<sup>1</sup>
+
+Die für den Vollzug der Hilfeleistung zuständigen Behörden sind berechtigt, die folgenden Personendaten und Daten juristischer Personen, die Personen betreffen, die am Verbringen von Waren ins Zollgebiet oder aus dem Zollgebiet oder an der Hilfeleistung beteiligt sind, für die Zwecke nach den Artikeln 70–72*i* MSchG zu bearbeiten, insbesondere im Zusammenhang mit der Bearbeitung von Anträgen auf Hilfeleistung, mit der Meldung verdächtiger Sendungen, mit dem Zurückbehalten oder der Vernichtung von Waren sowie mit der Entnahme oder dem Versand von Proben und Mustern:
+
+- a. Personalien des Antragstellers, Absenders, Anmelders, Besitzers oder Eigentümers der Ware, insbesondere dessen Name und Vorname oder Firma und Adresse;
+- b. Angaben und Dokumente zu den Anträgen nach Artikel 71 MSchG;
+- c. Angaben und Dokumente zu den nach Artikel 72 MSchG zurückbehaltenen Waren;
+- d. Angaben und Dokumente zur Hilfeleistung, einschliesslich des Zurückbehaltens und der Vernichtung von Waren sowie der Entnahme und des Versands von Proben und Mustern.
+
+<sup>2</sup> Ist das IGE für den Vollzug des Verfahrens zuständig, so gibt das BAZG diesem die erforderlichen Daten nach Absatz 1 bekannt.
+
+<sup>3</sup> Die zuständigen Behörden dürfen die Daten so lange aufbewahren, wie es der Bearbeitungszweck erfordert, höchstens jedoch fünf Jahre, nachdem die Geltungsdauer eines Antrags auf Hilfeleistung abgelaufen oder die Hilfeleistung erfolgt ist.
 
 #### Art. 57
 
-**Gebühren**[^57-1]
+**Gebühren**
 
-Die Gebühren für die Hilfeleistung des BAZG richten sich nach der Verordnung vom 4. April 2007[^57-2] über die Gebühren des Bundesamts für Zoll und Grenzsicherheit.
+<sup>1</sup> Die Gebühren für die Hilfeleistung des BAZG richten sich nach der Verordnung vom 4. April 2007[^57-1] über die Gebühren des Bundesamts für Zoll und Grenzsicherheit.
 
-[^57-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2547](https://fedlex.data.admin.ch/eli/oc/2008/364)).
-[^57-2]: [SR 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
+<sup>2</sup> Ist das IGE für den Vollzug des Verfahrens zuständig, so richten sich die Gebühren nach der GebV-IGE[^57-2].
+
+[^57-1]: [SR 631.035](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7819)
+[^57-2]: [SR 232.148](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5978)
 
 ## 9. Kapitel: Schlussbestimmungen
 
