@@ -4,13 +4,12 @@ number: "741.104"
 title: "Reglement über den Tarif der Gebühren und Kosten im Bereich der Zulassung von Personen und Fahrzeugen zum Strassenverkehr *"
 short: RTarVZV
 language: de
-version: 2024-01-01
-valid_until: 2025-06-30
-version_adopted: 2023-11-22
+version: 2025-07-01
+version_adopted: 2025-04-16
 adopted: 2021-12-15
 in_force: 2022-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/741.104"
-pdf: "https://lex.vs.ch/api/de/versions/3246/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3481/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3246/pdf_file"
 
 (RTarVZV)
 
-vom 15.12.2021 (Stand 01.01.2024)
+vom 15.12.2021 (Stand 01.07.2025)
 
 Der Staatsrat des Kantons Wallis
 
@@ -53,6 +52,8 @@ beschliesst:
 
 - a) Erstellen eines Lernfahrausweises — Fr. 40
 - b) Ausstellen eines Duplikats oder eines neuen Lernfahrausweises nach Verlust, Diebstahl oder infolge anderer Umstände, die einen Ersatz erforderlich machen — Fr. 30
+
+<sup>2</sup> Ein elektronischer Lernfahrausweis wird gratis erteilt, solange ein Lernfahrausweis in Papierformat erforderlich ist. Zu einem späteren Zeitpunkt wird der Preis eines elektronischen Lernfahrausweis zum aktuellen Preis eines Lernfahrausweises in Papierformat in Rechnung gestellt.
 
 #### Art. 3
 

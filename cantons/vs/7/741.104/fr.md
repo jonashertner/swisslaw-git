@@ -4,13 +4,12 @@ number: "741.104"
 title: "Règlement fixant le tarif des émoluments et des frais en matière d'admission des personnes et des véhicules à la circulation routière"
 short: RTarOAC
 language: fr
-version: 2024-01-01
-valid_until: 2025-06-30
-version_adopted: 2023-11-22
+version: 2025-07-01
+version_adopted: 2025-04-16
 adopted: 2021-12-15
 in_force: 2022-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/741.104"
-pdf: "https://lex.vs.ch/api/fr/versions/3246/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3481/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3246/pdf_file"
 
 (RTarOAC)
 
-du 15.12.2021 (état 01.01.2024)
+du 15.12.2021 (état 01.07.2025)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -53,6 +52,8 @@ arrête:
 
 - a) délivrance d'un permis d'élève conducteur — Fr. 40
 - b) établissement d'un duplicata ou d'un nouveau permis d'élève conducteur suite à perte, vol ou toute autre circonstance nécessitant son remplacement — Fr. 30
+
+<sup>2</sup> Un permis d'élève conducteur électronique sera délivré gratuitement tant qu'un permis d'élève conducteur en format papier est nécessaire. Ultérieurement le permis d'élève conducteur électronique sera facturé au prix du format papier actuel.
 
 #### Art. 3
 
