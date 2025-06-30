@@ -3,18 +3,18 @@ sr: "631.035"
 title: Ordinanza del 4 aprile 2007 sugli emolumenti dell’Ufficio federale della dogana e della sicurezza dei confini
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/255"
 language: it
-version: 2022-01-01
+version: 2025-07-01
 adopted: 2007-04-04
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/255/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-255-20220101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/255/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/255/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2007-255-20250701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/255/20250701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sugli emolumenti dell’Ufficio federale della dogana e della sicurezza dei confini
 
-del 4 aprile 2007 (Stato 1° gennaio 2022)
+del 4 aprile 2007 (Stato 1° luglio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -82,13 +82,13 @@ Appendice[^t-1]
 
 ## Tariffa degli emolumenti
 
-[^t-1]: Aggiornato dal n. III 1 dell’O del 30 gen. 2008 ([RU 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)), dal n. I dell’O del 21 mag. 2008 ([RU 2008 2627](https://fedlex.data.admin.ch/eli/oc/2008/370)), dal n. III dell’O dell’8 apr. 2009 ([RU 2009 1569](https://fedlex.data.admin.ch/eli/oc/2009/228)), dall’all. n. 2 dell’O del 23 mag. 2012 sul rilascio di prove dell’origine ([RU 2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)), dall’all. n. 2 dell’O del 27 gen. 2016 ([RU 2016 513](https://fedlex.data.admin.ch/eli/oc/2016/93)) e dal n. II dell’O del 9 mar. 2018, in vigore dal 1° mag. 2018 ([RU 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)).
+[^t-1]: Aggiornato dalla cifra III n. 1 dell’O del 30 gen. 2008 ([RU 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)), dalla cifra I dell’O del 21 mag. 2008 ([RU 2008 2627](https://fedlex.data.admin.ch/eli/oc/2008/370)), dalla cifra III dell’O dell’8 apr. 2009 ([RU 2009 1569](https://fedlex.data.admin.ch/eli/oc/2009/228)), dall’all. n. 2 dell’O del 23 mag. 2012 sul rilascio di prove dell’origine ([RU 2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)), dalla cifra II dell’O del 9 mar. 2018 ([RU 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)) e dalla cifra I dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 360](https://fedlex.data.admin.ch/eli/oc/2025/360)).
 
 <table>
 <tr><th colspan="2">Cifra</th><th>Tassa</th></tr>
 <tr><td colspan="2">1 Emolumenti calcolati secondo la tariffa oraria</td><td></td></tr>
 <tr><td colspan="2">1.1 Un emolumento è riscosso per:</td><td></td></tr>
-<tr><td colspan="2">– operazioni ufficiali fuori dell’area ufficiale, – scorte doganali, sorveglianze e controlli, – la predisposizione o la tenuta di controlli che spettano al contribuente ma che questi non ha eseguito o ha eseguito in modo non conforme alle prescrizioni – rettificazioni e annullamenti, anche nelle procedure con il sistema e-dec Importazione (e-dec) o con il nuovo sistema di transito informatizzato (NCTS), – analisi chimico-tecniche, – domande d’intervento dell’UDSC in materia di proprietà intellettuale (cifra 12)</td><td>[tab]</td></tr>
+<tr><td colspan="2">– operazioni ufficiali fuori dell’area ufficiale, – scorte doganali, sorveglianze e controlli, – la predisposizione o la tenuta di controlli che spettano al contribuente ma che questi non ha eseguito o ha eseguito in modo non conforme alle prescrizioni – rettificazioni e annullamenti, anche nelle procedure con il sistema e-dec Importazione (e-dec) o con il nuovo sistema di transito informatizzato (NCTS), – analisi chimico-tecniche, – domande d’intervento dell’UDSC in materia di proprietà intellettuale (cifra 12)</td><td></td></tr>
 <tr><td></td><td>per ogni impiegato e per quarto d’ora:</td><td></td></tr>
 <tr><td></td><td>a. durante l’orario d’apertura degli uffici</td><td>fr. 22.–</td></tr>
 <tr><td></td><td>b. fuori dell’orario d’apertura degli uffici</td><td>fr. 27.–</td></tr>
@@ -112,7 +112,7 @@ Appendice[^t-1]
 <tr><td>1.331</td><td>per l’annullamento di annunci di transito che sono trattati automaticamente nel sistema NCTS,</td><td></td></tr>
 <tr><td>1.332</td><td>per correzioni e annullamenti effettuati prima della stesura della decisione d’imposizione all’esportazione,</td><td></td></tr>
 <tr><td>1.333</td><td>per correzioni effettuate su ordine dell’ufficio doganale,</td><td></td></tr>
-<tr><td>1.334</td><td>per il trattamento di tutte le liste internazionali e della lista nazionale di casi in sospeso «*Entrate in transito non* *liqui**d**a**te*»;</td><td></td></tr>
+<tr><td>1.334</td><td>per il trattamento di tutte le liste internazionali e della lista nazionale di casi in sospeso «*Entrate in transito non* *liqui**date*»;</td><td></td></tr>
 <tr><td>1.34</td><td>per visite fuori dell’area ufficiale, controlli aziendali e controlli presso speditori/destinatari autorizzati o in depositi doganali aperti su ordine dell’ufficio doganale;</td><td></td></tr>
 <tr><td>1.35</td><td>per l’imposizione durante gli orari d’apertura degli uffici doganali d’esposizione;</td><td></td></tr>
 <tr><td>1.36</td><td>per l’apposizione da parte della dogana di piombi e di contrassegni doganali, secondo la cifra 1.23 (al massimo 20 pezzi per invio);</td><td></td></tr>
@@ -195,10 +195,10 @@ Appendice[^t-1]
 <tr><td>7.11</td><td>il controllo all’atto delle imposizioni effettuate in base a un impegno circa l’uso</td><td>fr. –.15 per 100 kg peso lordo, ma almeno fr. 7.– per invio</td></tr>
 <tr><td>7.12</td><td>l’accettazione di una dichiarazione di garanzia o di una dichiarazione particolare in virtù della legislazione sull’imposizione degli oli minerali</td><td>fr. 100.–</td></tr>
 <tr><td>7.13</td><td>Il trattamento di domande relative alle agevolazioni fiscali per biocarburanti secondo la legislazione sull’imposizione degli oli minerali:</td><td></td></tr>
-<tr><td>[tab]</td><td>a. domande concernenti carburanti secondo l’articolo 12*b* capoverso 2 dell’ordinanza sull’imposizione degli oli minerali:</td><td>[tab]</td></tr>
-<tr><td>[tab]</td><td>– domande per carburanti prodotti esclusivamente a partire da materie prime che figurano nella lista positiva della Direzione generale delle dogane[^annexu1-lvlu1-3]</td><td>fr. 100.–</td></tr>
-<tr><td>[tab]</td><td>– altre domande</td><td>fr. 300.–</td></tr>
-<tr><td>[tab]</td><td>b. domande concernenti altri carburanti</td><td>fr. 1000.–</td></tr>
+<tr><td></td><td>a. domande concernenti carburanti secondo l’articolo 12*b* capoverso 2 dell’ordinanza sull’imposizione degli oli minerali:</td><td></td></tr>
+<tr><td></td><td>– domande per carburanti prodotti esclusivamente a partire da materie prime che figurano nella lista positiva della Direzione generale delle dogane[^annexu1-lvlu1-3]</td><td>fr. 100.–</td></tr>
+<tr><td></td><td>– altre domande</td><td>fr. 300.–</td></tr>
+<tr><td></td><td>b. domande concernenti altri carburanti</td><td>fr. 1000.–</td></tr>
 <tr><td>7.2</td><td>Nessun emolumento è riscosso per:</td><td></td></tr>
 <tr><td>7.21</td><td>merci fruenti di un’agevolazione doganale che sono imposte in base alla designazione dell’impiego nella dichiarazione doganale d’importazione;</td><td></td></tr>
 <tr><td>7.22</td><td>merci fruenti di un’agevolazione doganale e per le quali la riscossione di un emolumento risulterebbe sproporzionata;</td><td></td></tr>
@@ -293,18 +293,20 @@ Appendice[^t-1]
 <tr><td colspan="2">12.14 ogni comunicazione al richiedente, incl. la ritenzione di invii sospetti</td><td>secondo la cifra 1.1 almeno fr. 50.–</td></tr>
 <tr><td colspan="2">12.15 proroga del termine per la ritenzione degli invii sospetti</td><td>fr. 30.– per proroga</td></tr>
 <tr><td colspan="2">12.16 trattazione di una domanda di rifiuto della consegna di campioni</td><td>fr. 100.–</td></tr>
-<tr><td colspan="2">12.17 prelievo e consegna, risp. invio di campioni al richiedente</td><td>secondo la cifra 1.1 almeno fr. 100.–</td></tr>
+<tr><td colspan="2">12.17 prelievo di campioni e modelli e loro consegna o spedizione al richiedente al fine di valutare se vi sia una violazione del diritto della proprietà intellettuale. La merce viene distrutta dall’UDSC dopo la restituzione dei campioni e dei modelli</td><td>secondo la cifra 1.1 almeno fr. 100.–</td></tr>
 <tr><td colspan="2">12.18 elaborazione e invio di immagini digitali al richiedente</td><td>secondo la cifra 1.1 almeno fr. 50.–</td></tr>
 <tr><td colspan="2">12.19 organizzazione di ispezioni e partecipazione del personale delle dogane alle ispezioni</td><td>secondo la cifra 1.1 almeno fr. 100.–</td></tr>
+<tr><td colspan="2">12.2</td><td></td></tr>
 <tr><td colspan="2">12.20 trattazione di un rifiuto di procedere alla distruzione opposto dal depositante, dal detentore o dal proprietario</td><td>fr. 100.–</td></tr>
 <tr><td colspan="2">12.21 la distruzione di merce, risp. la sorveglianza della distruzione, incl. il prelievo di campioni come mezzi di prova</td><td>secondo la cifra 1.1 almeno fr. 50.–</td></tr>
 <tr><td colspan="2">12.22 l’accettazione di fideiussioni (garanzia)</td><td>fr. 30.– per fideiussione</td></tr>
 <tr><td colspan="2">12.23 conservazione della merce ritenuta</td><td>secondo la cifra 4.1</td></tr>
+<tr><td colspan="2">12.24 consegna o spedizione di merci che violano il diritto della proprietà intellettuale al richiedente per scopi informativi e formativi. La merce viene distrutta dal richiedente</td><td>secondo la cifra 1.1 almeno costi di imballaggio e spedizione</td></tr>
 <tr><td colspan="2">12.3 Un emolumento è riscosso presso il depositante, il detentore o il proprietario per:</td><td></td></tr>
 <tr><td colspan="2">12.31 campioni conservati oltre il termine di un anno</td><td>secondo la cifra 4.1</td></tr>
 <tr><td colspan="2">12.4 Non è riscosso alcun emolumento per:</td><td></td></tr>
-<tr><td colspan="2">12.41 comunicazioni a titolari di un diritto senza domanda di intervento</td><td>[tab]</td></tr>
-<tr><td colspan="2">12.42 l’accettazione di una dichiarazione di responsabilità</td><td>[tab]</td></tr>
+<tr><td colspan="2">12.41 comunicazioni a titolari di un diritto senza domanda di intervento</td><td></td></tr>
+<tr><td colspan="2">12.42 l’accettazione di una dichiarazione di responsabilità</td><td></td></tr>
 </table>
 
 [^annexu1-lvlu1-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)

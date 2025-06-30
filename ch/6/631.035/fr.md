@@ -3,18 +3,18 @@ sr: "631.035"
 title: Ordonnance du 4 avril 2007 sur les émoluments de l’Office fédéral de la douane et de la sécurité des frontières
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/255"
 language: fr
-version: 2022-01-01
+version: 2025-07-01
 adopted: 2007-04-04
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/255/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-255-20220101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/255/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/255/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2007-255-20250701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/255/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur les émoluments de l’Office fédéral de la douane et de la sécurité des frontières
 
-du 4 avril 2007 (Etat le 1<sup>er</sup> janvier 2022)[^t-1]
+du 4 avril 2007 (État le 1<sup>er</sup> juillet 2025)[^t-1]
 
 [^t-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
@@ -68,7 +68,7 @@ Les bureaux de douane peuvent, pour de justes motifs, renoncer à percevoir tout
 
 L’ordonnance du 22 août 1984 sur les taxes de l’administration des douanes[^6-1] est abrogée.
 
-[^6-1]: [[RO 1984 960](https://fedlex.data.admin.ch/eli/oc/1984/960_960_960), [2003 1126](https://fedlex.data.admin.ch/eli/oc/2003/193)]
+[^6-1]: [[RO 1984 960](https://fedlex.data.admin.ch/eli/oc/1984/960_960_960); [2003 1126](https://fedlex.data.admin.ch/eli/oc/2003/193)]
 
 #### Art. 7
 
@@ -76,23 +76,23 @@ L’ordonnance du 22 août 1984 sur les taxes de l’administration des douanes[
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> mai 2007.
 
-Annexe*[^t-2]*
+Annexe[^t-2]
 
 (art. 1, al. 2)
 
 ## Tarif des émoluments
 
-[^t-2]: Mise à jour selon le ch. III 1 de l’O du 30 janv. 2008 ([RO 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)), le ch. I de l’O du 21 mai 2008 ([RO 2008 2627](https://fedlex.data.admin.ch/eli/oc/2008/370)), le ch. III de l’O du 8 avr. 2009 ([RO 2009 1569](https://fedlex.data.admin.ch/eli/oc/2009/228)), le ch. 2 de l’annexe à l’O du 23 mai 2012 sur la délivrance des preuves d’origine ([RO 2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)), le ch. 2 de l’annexe à l’O du 27 janv. 2016 ([RO 2016 513](https://fedlex.data.admin.ch/eli/oc/2016/93)) et le ch. II de l’O du 9 mars 2018, en vigueur depuis le 1<sup>er</sup> mai 2018 ([RO 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)).
+[^t-2]: Mise à jour par le ch. III 1 de l’O du 30 janv. 2008 ([RO 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)), le ch. I de l’O du 21 mai 2008 ([RO 2008 2627](https://fedlex.data.admin.ch/eli/oc/2008/370)), le ch. III de l’O du 8 avr. 2009 ([RO 2009 1569](https://fedlex.data.admin.ch/eli/oc/2009/228)), l’annexe ch. 2 de l’O du 23 mai 2012 sur la délivrance des preuves d’origine ([RO 2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)), le ch. II de l’O du 9 mars 2018 ([RO 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)) et le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 360](https://fedlex.data.admin.ch/eli/oc/2025/360)).
 
 <table>
 <tr><th>Chiffre</th><th>Émolument</th></tr>
 <tr><td>1 Émoluments calculés selon le tarif horaire</td><td></td></tr>
 <tr><td>1.1 Un émolument est perçu:</td><td></td></tr>
 <tr><td>– pour les opérations officielles exécutées hors de l’emplacement officiel; – pour les escortes, surveillances et contrôles; – pour la mise en place ou la tenue de contrôles incombant à l’assujetti, mais que celui-ci n’a pas exécutés ou qu’il a exécutés de manière non conforme aux prescriptions; – pour les rectifications et des annulations, y compris dans les procédures avec le système e-dec import (e-dec) ou avec le nouveau système de transit informatisé (NCTS); – pour les analyses chimico-techniques; – pour l’intervention de l’OFDF en matière de propriété intellectuelle (ch. 12)</td><td></td></tr>
-<tr><td>par quart d’heure et par employé:</td><td>[tab]</td></tr>
+<tr><td>par quart d’heure et par employé:</td><td></td></tr>
 <tr><td>a. durant les heures d’ouverture</td><td>22 fr.</td></tr>
 <tr><td>b. en dehors des heures d’ouverture</td><td>27 fr.</td></tr>
-<tr><td>Toute fraction de quart d’heure compte pour un quart d’heure.</td><td>[tab]</td></tr>
+<tr><td>Toute fraction de quart d’heure compte pour un quart d’heure.</td><td></td></tr>
 <tr><td>1.2 Un émolument réduit est perçu:</td><td></td></tr>
 <tr><td>1.21 pour la surveillance ou l’escorte simultanée de plusieurs envois:</td><td></td></tr>
 <tr><td>pour l’ensemble de l’envoi, par quart d’heure et par employé:</td><td></td></tr>
@@ -115,7 +115,7 @@ Annexe*[^t-2]*
 <tr><td>1.331 pour l’annulation des annonces de transit qui sont traitées automatiquement dans le NCTS;</td><td></td></tr>
 <tr><td>1.332 pour les corrections et annulations effectuées avant l’établissement de la décision de taxation-export;</td><td></td></tr>
 <tr><td>1.333 pour les corrections effectuées sur ordre du bureau de douane;</td><td></td></tr>
-<tr><td>1.334 pour le traitement des listes internationales et de la liste nationale des cas en suspens *«E**n**trées en transit non liquidées»*;</td><td></td></tr>
+<tr><td>1.334 pour le traitement des listes internationales et de la liste nationale des cas en suspens *«Entrées en transit non liquidées»*;</td><td></td></tr>
 <tr><td>1.34 pour les vérifications hors de l’emplacement officiel et les contrôles d’entreprises ainsi que les contrôles chez des expéditeurs/destinataires agréés ou dans des entrepôts douaniers ouverts sur ordre du bureau de douane;</td><td></td></tr>
 <tr><td>1.35 pour la taxation durant les heures d’ouverture des bureaux de douane d’expositions;</td><td></td></tr>
 <tr><td>1.36 pour l’apposition, par l’OFDF, de scellés et de marques douanières, selon ch. 1.23 (dont le nombre n’excède pas 20 pièces par envoi);</td><td></td></tr>
@@ -193,7 +193,7 @@ Annexe*[^t-2]*
 <tr><td>7.1 Un émolument est perçu:</td><td></td></tr>
 <tr><td>7.11 pour le contrôle lors de taxations effectuées sur la base d’un engagement d’emploi</td><td>15 ct. par 100 kg brut, min 7 fr. par envoi</td></tr>
 <tr><td>7.12 pour l’approbation d’une déclaration de garantie ou d’une déclaration particulière en vertu de la législation sur l’imposition des huiles minérales</td><td>100 fr.</td></tr>
-<tr><td>7.13 pour le traitement de demandes concernant l’octroi d’allégements fiscaux fondés sur la législation sur l’imposition des huiles minérales aux biocarburants: a. demandes pour carburants fondées sur l’art. 12*b*, al. 2, de la loi sur l’imposition des huiles minérales:</td><td>[tab]</td></tr>
+<tr><td>7.13 pour le traitement de demandes concernant l’octroi d’allégements fiscaux fondés sur la législation sur l’imposition des huiles minérales aux biocarburants: a. demandes pour carburants fondées sur l’art. 12*b*, al. 2, de la loi sur l’imposition des huiles minérales:</td><td></td></tr>
 <tr><td>– demandes pour carburants qui sont fabriqués exclusivement à partir de de matières premières qui figurent dans la liste positive[^annexu1-lvlu1-3] de la Direction générale des douanes</td><td>[tab] 100 fr.</td></tr>
 <tr><td>– autres demandes</td><td>[tab] 300 fr.</td></tr>
 <tr><td>b. demandes pour autres carburants</td><td>[tab] 1000 fr.</td></tr>
@@ -244,22 +244,22 @@ Annexe*[^t-2]*
 <tr><td>9.33 pour les attestations, les authentifications et les duplicata ou la reproduction de documents établis à l’intention d’autorités suisses ou étrangères;</td><td></td></tr>
 <tr><td>9.34 pour les attestations de taxation-UE lors de la première transmission par e-dec.</td><td></td></tr>
 <tr><td>10 Application d’accords internationaux:</td><td></td></tr>
-<tr><td>10.1 Convention du 20 mai 1987 relative à un régime de transit commun**[^annexu1-lvlu1-9]**</td><td></td></tr>
+<tr><td>10.1 Convention du 20 mai 1987 relative à un régime de transit commun[^annexu1-lvlu1-9]</td><td></td></tr>
 <tr><td>10.11 Un émolument est perçu pour:</td><td></td></tr>
 <tr><td>10.111 l’authentification subséquente de documents T2L</td><td>30 fr.</td></tr>
 <tr><td>10.112 pour l’authentification de duplicata de: – documents d’accompagnement (DDA) dans le NCTS; – documents T2L; – listes de chargement; – récépissés; – DDA à titre de duplicata; (impression + timbre du bureau de douane);</td><td>25 fr. par document</td></tr>
 <tr><td>10.113 pour la répartition de DDA dans le NCTS et les documents T2L</td><td>10 fr. par nouveau document</td></tr>
 <tr><td>10.114 pour la décharge subséquente de DDA dans le NCTS en cas d’inobservation de la procédure ou du délai</td><td>émolument selon ch. 1</td></tr>
-<tr><td>10.2 Convention ATA du 6 décembre 1961**[^annexu1-lvlu1-10]**; Convention du 26 juin 1990 relative à l’admission temporaire**[^annexu1-lvlu1-11]**</td><td></td></tr>
+<tr><td>10.2 Convention ATA du 6 décembre 1961[^annexu1-lvlu1-10]; Convention du 26 juin 1990 relative à l’admission temporaire[^annexu1-lvlu1-11]</td><td></td></tr>
 <tr><td>10.21 Un émolument est perçu pour la régularisation des carnets ATA</td><td>5 % des redevances d’entrée min. 20 fr. max. 100 fr.</td></tr>
-<tr><td>10.3 Accords de libre-échange: ordonnance du 23 mai 2012 sur la délivrance des preuves d’origine**[^annexu1-lvlu1-12]**</td><td></td></tr>
+<tr><td>10.3 Accords de libre-échange: ordonnance du 23 mai 2012 sur la délivrance des preuves d’origine[^annexu1-lvlu1-12]</td><td></td></tr>
 <tr><td>10.31 Un émolument est perçu:</td><td></td></tr>
 <tr><td>10.311 pour l’examen préalable du certificat de circulation des marchandises (CCM)</td><td>40 fr.</td></tr>
 <tr><td>10.312 pour le contrôle a posteriori, lorsque la preuve d’origine n’est pas conforme</td><td>émolument selon ch. 1 min. 40 fr.</td></tr>
 <tr><td>10.313 pour l’établissement subséquent de CCM</td><td>40 fr. par CCM</td></tr>
 <tr><td>10.314 pour la répartition de CCM</td><td>25 fr. par nouveau CCM</td></tr>
 <tr><td>10.315 pour l’établissement de duplicata de CCM</td><td>25 fr. par duplicata</td></tr>
-<tr><td>10.4 Système généralisé de préférences (SGP): ordonnance du 30 mars 2011 relative aux règles d’origine**[^annexu1-lvlu1-13]**</td><td></td></tr>
+<tr><td>10.4 Système généralisé de préférences (SGP): ordonnance du 30 mars 2011 relative aux règles d’origine[^annexu1-lvlu1-13]</td><td></td></tr>
 <tr><td>10.41 Un émolument est perçu:</td><td></td></tr>
 <tr><td>10.411 pour l’établissement subséquent de CO</td><td>40 fr. par CO</td></tr>
 <tr><td>10.412 pour la répartition de CO</td><td>25 fr.par nouvelle form.</td></tr>
@@ -291,13 +291,15 @@ Annexe*[^t-2]*
 <tr><td>12.14 pour chaque communication au requérant, y compris la rétention d’envois suspects</td><td>selon ch. 1.1, au min. 50 fr.</td></tr>
 <tr><td>12.15 pour la prolongation du délai de rétention d’envois suspects</td><td>30 fr. par prolongation</td></tr>
 <tr><td>12.16 pour le traitement d’une demande de refus de remise d’échantillons</td><td>100 fr.</td></tr>
-<tr><td>12.17 pour le prélèvement d’échantillons et la remise ou l’envoi au requérant</td><td>selon ch. 1.1, au min. 100 fr.</td></tr>
+<tr><td>12.17 le prélèvement d’échantillons et de modèles et leur remise ou leur envoi au requérant afin d’évaluer s’il existe une violation des droits de la propriété intellectuelle. La marchandise est détruite par l’OFDF après la restitution des échantillons et des modèles</td><td>selon ch. 1.1, au min. 100 fr.</td></tr>
 <tr><td>12.18 pour la prise d’images numériques et l’envoi au requérant</td><td>selon ch. 1.1, au min. 50 fr.</td></tr>
 <tr><td>12.19 pour l’organisation d’inspections et la participation de personnel douanier à des inspections</td><td>selon ch. 1.1, au min. 100 fr.</td></tr>
+<tr><td>12.2</td><td></td></tr>
 <tr><td>12.20 pour le traitement d’un refus du déclarant, du possesseur ou du titulaire de détruire la marchandise</td><td>100 fr.</td></tr>
 <tr><td>12.21 pour la destruction de marchandises ou la surveillance de la destruction, y compris le prélèvement d’échantillons à des fins de preuve</td><td>selon ch. 1.1, au min. 50 fr.</td></tr>
 <tr><td>12.22 pour l’acceptation d’un cautionnement (sûreté)</td><td>30 fr. par cautionnement</td></tr>
 <tr><td>12.23 pour le dépôt de marchandises retenues</td><td>selon ch. 4.1</td></tr>
+<tr><td>12.24 la remise ou l’envoi de marchandises qui violent les droits de propriété intellectuelle au requérant à des fins d’information et de formation. La marchandise est détruite par le requérant</td><td>selon ch. 1.1, au min. frais d’emballage et de port</td></tr>
 <tr><td>12.3 Un émolument est perçu auprès du déclarant, du possesseur ou du propriétaire pour:</td><td></td></tr>
 <tr><td>12.31 les échantillons conservés au-delà du délai d’un an</td><td>selon ch. 4.1</td></tr>
 <tr><td>12.4 Aucun émolument n’est perçu:</td><td></td></tr>
@@ -307,9 +309,9 @@ Annexe*[^t-2]*
 
 [^annexu1-lvlu1-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 [^annexu1-lvlu1-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^annexu1-lvlu1-3]: La liste positive de la Direction générale des douanes peut être téléchargée gratuitement sur Internet à l’adresse suivante: www.bazg.admin.ch &gt; Infos pour entreprises &gt; Impôts et redevances &gt; Importation en Suisse &gt; Impôt sur les huiles minérales &gt; Biocarburants &gt; Preuves écologiques et sociales.
+[^annexu1-lvlu1-3]: La liste positive de la Direction générale des douanes peut être téléchargée gratuitement sur Internet à l’adresse suivante: [www.bazg.admin.ch](http://www.bazg.admin.ch) &gt; Infos pour entreprises &gt; Impôts et redevances &gt; Importation en Suisse &gt; Impôt sur les huiles minérales &gt; Biocarburants &gt; Preuves écologiques et sociales.
 [^annexu1-lvlu1-4]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
-[^annexu1-lvlu1-5]: [[RO 2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)[1134](https://fedlex.data.admin.ch/eli/oc/2000/183), [2001 3086](https://fedlex.data.admin.ch/eli/oc/2001/462), [2002 1480](https://fedlex.data.admin.ch/eli/oc/2002/232), [2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723)annexe ch. II 5, [2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591)annexe ch. 2, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 52, [2006 2673](https://fedlex.data.admin.ch/eli/oc/2006/408)[5379](https://fedlex.data.admin.ch/eli/oc/2006/822)annexe ch. II 5, [2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)annexe ch. 7 [3425](https://fedlex.data.admin.ch/eli/oc/2007/418)annexe ch. 1 [6637](https://fedlex.data.admin.ch/eli/oc/2007/860)annexe ch. II 5 [6827](https://fedlex.data.admin.ch/eli/oc/2007/877). [RO 2009 5203](https://fedlex.data.admin.ch/eli/oc/2009/615)art. 110]. Voir actuellement la LF du 12 juin 2009 régissant la taxe sur la valeur ajoutée, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)).
+[^annexu1-lvlu1-5]: [[RO 2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212), [1134](https://fedlex.data.admin.ch/eli/oc/2000/183); [2001 3086](https://fedlex.data.admin.ch/eli/oc/2001/462); [2002 1480](https://fedlex.data.admin.ch/eli/oc/2002/232); [2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723)annexe ch. II 5; [2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591)annexe ch. 2; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 52; [2006 2673](https://fedlex.data.admin.ch/eli/oc/2006/408), [5379](https://fedlex.data.admin.ch/eli/oc/2006/822)annexe ch. II 5; [2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)annexe ch. 7, [3425](https://fedlex.data.admin.ch/eli/oc/2007/418)annexe ch. 1, [6637](https://fedlex.data.admin.ch/eli/oc/2007/860)annexe ch. II 5, [6827](https://fedlex.data.admin.ch/eli/oc/2007/877). [RO 2009 5203](https://fedlex.data.admin.ch/eli/oc/2009/615)art. 110]. Voir actuellement la LF du 12 juin 2009 régissant la taxe sur la valeur ajoutée, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)).
 [^annexu1-lvlu1-6]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 [^annexu1-lvlu1-7]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 [^annexu1-lvlu1-8]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)

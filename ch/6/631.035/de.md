@@ -3,18 +3,18 @@ sr: "631.035"
 title: Verordnung vom 4. April 2007 über die Gebühren des Bundesamts für Zoll und Grenzsicherheit
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/255"
 language: de
-version: 2022-01-01
+version: 2025-07-01
 adopted: 2007-04-04
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/255/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-255-20220101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/255/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/255/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2007-255-20250701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/255/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Gebühren des Bundesamts für Zoll und Grenzsicherheit
 
-vom 4. April 2007 (Stand am 1. Januar 2022)[^t-1]
+vom 4. April 2007 (Stand am 1. Juli 2025)[^t-1]
 
 [^t-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
@@ -82,7 +82,7 @@ Anhang[^t-2]
 
 ## Gebührentarif
 
-[^t-2]: Bereinigt gemäss Ziff. III 1 der V vom 30. Jan. 2008 ([AS 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)), Ziff. I der V vom 21. Mai 2008 ([AS 2008 2627](https://fedlex.data.admin.ch/eli/oc/2008/370)), Ziff. III der V vom 8. April 2009 über die Ein- und Durchfuhr von Tierprodukten aus Drittstaaten im Luftverkehr ([AS 2009 1569](https://fedlex.data.admin.ch/eli/oc/2009/228)), Anhang Ziff. 2 der V vom 23. Mai 2012 über das Ausstellen von Ursprungsnachweisen ([AS 2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)), Anhang Ziff. 2 der V vom 27. Jan. 2016 ([AS 2016 513](https://fedlex.data.admin.ch/eli/oc/2016/93)) und Ziff. II der V vom 9. März 2018, in Kraft seit 1. Mai 2018 ([AS 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)).
+[^t-2]: Bereinigt gemäss Ziff. III 1 der V vom 30. Jan. 2008 ([AS 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)), Ziff. I der V vom 21. Mai 2008 ([AS 2008 2627](https://fedlex.data.admin.ch/eli/oc/2008/370)), Ziff. III der V vom 8. April 2009 über die Ein- und Durchfuhr von Tierprodukten aus Drittstaaten im Luftverkehr ([AS 2009 1569](https://fedlex.data.admin.ch/eli/oc/2009/228)), Anhang Ziff. 2 der V vom 23. Mai 2012 über das Ausstellen von Ursprungsnachweisen ([AS 2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)), Ziff. II der V vom 9. März 2018 ([AS 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)) und Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 360](https://fedlex.data.admin.ch/eli/oc/2025/360)).
 
 <table>
 <tr><th>Ziffer</th><th>Gebühr</th></tr>
@@ -106,7 +106,6 @@ Anhang[^t-2]
 <tr><td>je Viertelstunde und für jeden Angestellten:</td><td></td></tr>
 <tr><td>a. während der Öffnungszeiten der Zollstelle</td><td>Fr. 11.–</td></tr>
 <tr><td>b. ausserhalb der Öffnungszeiten der Zollstelle</td><td>Fr. 13.50</td></tr>
-<tr><td>[tab]</td><td></td></tr>
 <tr><td>1.3 Keine Gebühr wird erhoben:</td><td></td></tr>
 <tr><td>1.31 für Amtshandlungen, die wegen eines Fehlers des BAZG notwendig sind</td><td></td></tr>
 <tr><td>1.32 für die Veranlagung mit e-dec-Import-System</td><td></td></tr>
@@ -157,7 +156,6 @@ Anhang[^t-2]
 <tr><td>3.22 Voll- und Leerabwiegungen auf Brücken- und Radlastwaagen für von der Zollstelle oder polizeilich angeordnete Gewichtsnachprüfungen, sofern das festgestellte Gewicht nicht beanstandet wird</td><td></td></tr>
 <tr><td>3.23 Abwiegungen auf Hallen- und Rampenwaagen:</td><td></td></tr>
 <tr><td>– durch die anmeldepflichtige Person auf eigene Verantwortung (ohne Zollüberwachung) – im Verkehr mit öffentlichen Transportanstalten – für Kontrollabwiegungen, wenn die Differenz 3 % des angemeldeten Gewichts nicht übersteigt – im nationalen Transitverfahren – im Verfahren der vorübergehenden Verwendung – für Waren im Reise- und Grenzzonenverkehr</td><td></td></tr>
-<tr><td>[tab]</td><td></td></tr>
 <tr><td>3.24 die Benützung von Kranen u. dgl.:</td><td></td></tr>
 <tr><td>– bei der Gestellung – auf Anordnung der Zollstelle</td><td></td></tr>
 <tr><td>4 Benützung von Amtsräumen und ‑plätzen des BAZG für das Abstellen von Waren oder Fahrzeugen</td><td></td></tr>
@@ -207,9 +205,6 @@ Anhang[^t-2]
 <tr><td>7.12 die Entgegennahme einer Verwendungsverpflichtung oder einer besonderen Verpflichtung aufgrund der Mineralölsteuergesetzgebung</td><td>Fr. 100.–</td></tr>
 <tr><td>7.13 die Bearbeitung von Gesuchen betreffend Steuererleichterungen von biogenen Treibstoffen nach der Mineralölsteuergesetzgebung</td><td></td></tr>
 <tr><td>a. Gesuche für Treibstoffe nach Artikel 12*b* Absatz 2 des Mineralölsteuergesetzes:</td><td></td></tr>
-<tr><td>[tab]</td><td></td></tr>
-<tr><td>[tab]</td><td></td></tr>
-<tr><td>[tab]</td><td></td></tr>
 <tr><td>– Gesuche für Treibstoffe, die ausschliesslich aus Rohstoffen, die der Positivliste der Oberzolldirektion[^annexu1-lvlu1-3] entsprechen, hergestellt werden</td><td>Fr. 100.–</td></tr>
 <tr><td>– andere Gesuche</td><td>Fr. 300.–</td></tr>
 <tr><td>b. Gesuche für andere Treibstoffe</td><td>Fr. 1000.–</td></tr>
@@ -315,7 +310,7 @@ Anhang[^t-2]
 <tr><td>12.14 jede Meldung an die Antragstellerin oder den Antragsteller, inkl. das Zurückbehalten verdächtiger Sendungen</td><td>nach Ziffer 1.1, mindestens Fr. 50.–</td></tr>
 <tr><td>12.15 die Verlängerung der Frist für das Zurückbehalten verdächtiger Sendungen</td><td>Fr. 30.– je Verlängerung</td></tr>
 <tr><td>12.16 die Behandlung eines Antrags auf Verweigerung der Übergabe von Proben oder Mustern</td><td>Fr. 100.–</td></tr>
-<tr><td>12.17 die Entnahme und die Übergabe bzw. den Versand von Proben und Mustern an die Antragstellerin oder den Antragsteller</td><td>nach Ziffer 1.1, mindestens Fr. 100.–</td></tr>
+<tr><td>12.17 die Entnahme von Proben und Mustern und deren Übergabe oder Versand an die Antragstellerin oder den Antragsteller zur Beurteilung, ob ein Verstoss gegen das Immaterialgüterrecht vorliegt. Die Vernichtung der Ware erfolgt nach der Rückgabe der Proben und Muster durch das BAZG</td><td>nach Ziffer 1.1, mindestens Fr. 100.–</td></tr>
 <tr><td>12.18 das Erstellen und Versenden von Digitalbildern an die Antragstellerin oder den Antragsteller</td><td>nach Ziffer 1.1, mindestens Fr. 50.–</td></tr>
 <tr><td>12.19 die Organisation von Besichtigungen und die Teilnahme von Zollpersonal an Besichtigungen</td><td>nach Ziffer 1.1, mindestens Fr. 100.–</td></tr>
 <tr><td>12.2</td><td></td></tr>
@@ -323,6 +318,7 @@ Anhang[^t-2]
 <tr><td>12.21 die Vernichtung von Waren bzw. die Überwachung der Vernichtung, inkl. Entnahme von Proben oder Mustern als Beweismittel</td><td>nach Ziffer 1.1, mindestens Fr. 50.–</td></tr>
 <tr><td>12.22 die Annahme einer Bürgschaft (Sicherheitsleistung)</td><td>Fr. 30.– je Bürgschaft</td></tr>
 <tr><td>12.23 das Verwahren zurückbehaltener Waren</td><td>nach Ziffer 4.1</td></tr>
+<tr><td>12.24 die Übergabe oder den Versand von Waren, welche gegen das Immaterialgüterrecht verstossen, an die Antragstellerin oder den Antragssteller zur Verwendung zu Informations- und Schulungszwecken. Die Vernichtung der Ware erfolgt durch die Antragstellerin oder den Antragsteller</td><td>nach Ziffer 1.1, mindestens Verpackungs- und Portokosten</td></tr>
 <tr><td>12.3 Eine Gebühr wird bei der Anmelderin, Besitzerin oder Eigentümerin bzw. beim Anmelder, Besitzer oder Eigentümer erhoben für:</td><td></td></tr>
 <tr><td>12.31 das weitere Verwahren von Proben oder Mustern nach Ablauf eines Jahres</td><td>nach Ziffer 4.1</td></tr>
 <tr><td>12.4 Keine Gebühr wird erhoben für:</td><td></td></tr>
