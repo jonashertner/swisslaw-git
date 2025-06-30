@@ -4,13 +4,12 @@ number: III B/3/1
 title: Gesetz über Beurkundung und Beglaubigung
 short: Beurkundungsgesetz
 language: de
-version: 2023-01-01
-valid_until: 2025-06-30
-version_adopted: 2021-09-05
+version: 2025-07-01
+version_adopted: 2025-05-04
 adopted: 2007-05-06
 in_force: 2008-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/III-B.3.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2353/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2567/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2353/pdf_file"
 
 (Beurkundungsgesetz)
 
-Vom 06.05.2007 (Stand 01.01.2023)
+Vom 06.05.2007 (Stand 01.07.2025)
 
 (Erlassen von der Landsgemeinde am 6. Mai 2007)
 
@@ -59,7 +58,7 @@ Vom 06.05.2007 (Stand 01.01.2023)
 
 **Urkundspersonen**
 
-<sup>1</sup> Die öffentliche Beurkundung ist den Rechtsanwälten sowie kraft ihres Amtes dem Grundbuchverwalter und seinen Stellvertretern sowie den Gemeindeschreibern sowie deren Stellvertretern vorbehalten.
+<sup>1</sup> Die öffentliche Beurkundung ist den Rechtsanwälten sowie dem Grundbuchverwalter und seinen Stellvertretern vorbehalten.
 
 <sup>2</sup> Auf Gesuch hin ernennt die Anwaltskommission nach bestandener Eignungsprüfung die Urkundspersonen. Sie kann Ausweise eines anderen Kantons über die Befähigung von Urkundspersonen anerkennen, sofern Ausbildung und Prüfungen gleichwertig sind und der andere Kanton Gegenrecht hält. Rechtsanwälte können nur dann die Funktion einer Urkundsperson ausüben, wenn sie im Glarner Anwaltsregister eingetragen sind. Vorbehalten bleibt Artikel 38 Absatz 2.
 
@@ -75,7 +74,7 @@ Vom 06.05.2007 (Stand 01.01.2023)
 
 <sup>2</sup> Für Verträge auf Errichtung eines Grundpfandes (Art. 799 ZGB) sind sämtliche Urkundspersonen nach Artikel 4 zuständig.
 
-<sup>3</sup> Die zur öffentlichen Beurkundung zugelassenen Gemeindeschreiber und Gemeindeschreiber-Stellvertreter sind für Grundstückgeschäfte und für Bürgschaftserklärungen zuständig.
+<sup>3</sup> …
 
 ### 2.1. Allgemeine Bestimmungen
 
@@ -273,7 +272,13 @@ Vom 06.05.2007 (Stand 01.01.2023)
 
 **Zuständigkeit**
 
-<sup>1</sup> Für die Vornahme von Beglaubigungen sind die Rechtsanwälte zuständig sowie kraft ihres Amtes der Grundbuchverwalter und seine Stellvertreter, die Gemeindeschreiber und ihre Stellvertreter sowie die von der Staatskanzlei und von den Gerichten bezeichneten Mitarbeiter.
+<sup>1</sup> Für die Vornahme von Beglaubigungen zuständig sind:
+
+- a. die Rechtsanwälte;
+- b. die von den Gerichten, der Staatskanzlei und den Gemeinden bezeichneten Mitarbeiter;
+- c. der Grundbuchverwalter und seine Stellvertreter sowie die vom Grundbuchamt bezeichneten Mitarbeiter;
+- d. die von der Fachstelle Erbschaft bezeichneten Mitarbeiter in Bezug auf Bescheinigungen aus deren Zuständigkeitsbereich;
+- e. die von der Kantonalen Schlichtungsbehörde bezeichneten Mitarbeiter in Bezug auf Bescheinigungen aus deren Zuständigkeitsbereich.
 
 <sup>2</sup> Für Überbeglaubigungen und Apostillen sind die von der Staatskanzlei bezeichneten Mitarbeiter zuständig.
 
@@ -402,7 +407,7 @@ Vom 06.05.2007 (Stand 01.01.2023)
 
 <sup>1</sup> Eine vor dem Inkrafttreten dieses Gesetzes von einer Urkundsperson errichtete Urkunde oder vorgenommene Beglaubigung ist gültig, wenn sie die Voraussetzungen des bisherigen oder des neuen Rechts erfüllt.
 
-<sup>2</sup> Rechtsanwälte, welche im Zeitpunkt der Annahme dieses Gesetzes im Kanton Glarus zur Beurkundung zugelassen sind, sowie der Grundbuchverwalter und seine Stellvertreter, die vor diesem Datum angestellt wurden, haben keine Eignungsprüfung abzulegen und sind zur Beurkundung weiterhin befugt.
+<sup>2</sup> Rechtsanwälte, welche im Zeitpunkt der Annahme dieses Gesetzes im Kanton Glarus zur Beurkundung zugelassen sind, haben keine Eignungsprüfung abzulegen und sind zur Beurkundung weiterhin befugt.
 
 <sup>3</sup> Alle übrigen Urkundspersonen im Sinne von Artikel 4 haben eine Eignungsprüfung abzulegen. Ohne Prüfung erlischt die Beurkundungszulassung spätestens vier Jahre nach Inkrafttreten dieses Gesetzes.
 
