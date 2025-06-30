@@ -4,11 +4,11 @@ title: "Ordonnance du 26 avril 1993 sur le droit d'auteur et les droits voisins 
 short: ODAu
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1821_1821_1821"
 language: fr
-version: 2022-01-01
+version: 2025-07-01
 adopted: 1993-04-26
 in_force: 1993-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1821_1821_1821/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-1821_1821_1821-20220101-fr-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1821_1821_1821/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1821_1821_1821/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-1993-1821_1821_1821-20250701-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1821_1821_1821/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/1821_1821_1821/20220101/fr"
 
 (Ordonnance sur le droit d’auteur, ODAu)
 
-du 26 avril 1993 (État le 1<sup>er</sup> janvier 2022)
+du 26 avril 1993 (État le 1<sup>er</sup> juillet 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,9 +25,9 @@ vu les art. 39*b*, 55, al. 2, et 78 de la loi du 9 octobre 1992 sur le droit d�
 
 arrête:
 
-[^ingress-1]: [RS 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
-[^ingress-2]: [RS 172.010.31](https://fedlex.data.admin.ch/eli/cc/1995/5050_5050_5050)
-[^ingress-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-1]: [RS 231.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5952)
+[^ingress-2]: [RS 172.010.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5028)
+[^ingress-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^ingress-4]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2427](https://fedlex.data.admin.ch/eli/oc/2008/348)).
 
 ## Chapitre 1 Commission arbitrale fédérale pour la gestion de droits d’auteur et de droits voisins
@@ -54,7 +54,7 @@ arrête:
 
 <sup>2</sup> Les membres de la Commission arbitrale sont soumis au secret de fonction.
 
-[^2-1]: **[**[RO 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651), [2000 1157](https://fedlex.data.admin.ch/eli/oc/2000/188), [2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819)ch. II. [RO 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)ch. II 1]. Voir actuellement l’art. 8*a* ss de l’O du 25 nov. 1998 sur l’organisation du gouvernement et de l’administration ([RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)).
+[^2-1]: **[**[RO 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651); [2000 1157](https://fedlex.data.admin.ch/eli/oc/2000/188); [2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819)ch. II. [RO 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)ch. II 1]. Voir actuellement l’art. 8*a* ss de l’O du 25 nov. 1998 sur l’organisation du gouvernement et de l’administration ([RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)).
 [^2-2]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2427](https://fedlex.data.admin.ch/eli/oc/2008/348)).
 
 #### Art. 3
@@ -217,7 +217,7 @@ Les débours de la Commission arbitrale sont facturés séparément. Ils compren
 - c. les frais occasionnés par les travaux que la Commission arbitrale fait exécuter par des tiers;
 - d. les frais de transmission et de communication.
 
-[^16a-1]: [RS 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
+[^16a-1]: [RS 172.041.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5066)
 
 #### Art. 16b
 
@@ -241,7 +241,7 @@ Les taxes et les débours sont exigibles dès la notification de la décision mo
 
 Dans la mesure où la présente ordonnance ne contient pas de règle particulière, les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émoluments[^16d-1] sont applicables.
 
-[^16d-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^16d-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ## Chapitre 1*a* Observatoire des mesures techniques
 
@@ -251,16 +251,11 @@ Dans la mesure où la présente ordonnance ne contient pas de règle particuliè
 
 #### Art. 16e
 
-**Organisation**
+**Organisation**[^16e-1]
 
-<sup>1</sup> L’Institut Fédéral de la Propriété Intellectuelle assume les tâches de l’observatoire au sens de l’art. 39*b*, al. 1, LDA.[^16e-1]
+L’Institut Fédéral de la Propriété Intellectuelle (IPI) exécute les tâches de l’observatoire des mesures techniques conformément à l’art. 39*b*, al. 1, LDA.
 
-<sup>2</sup> et <sup>3</sup> …[^16e-2]
-
-<sup>4</sup> L’observatoire ne prélève pas de taxes pour ses activités.
-
-[^16e-1]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6213](https://fedlex.data.admin.ch/eli/oc/2017/690)).
-[^16e-2]: Abrogés par le ch. I de l’O du 29 sept. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6213](https://fedlex.data.admin.ch/eli/oc/2017/690)).
+[^16e-1]: Nouvelle teneur selon le ch. I 1 de l’O du 14 mai 2025 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 16f
 
@@ -309,85 +304,109 @@ L’utilisation licite d’un logiciel en vertu de l’art. 12, al. 2, LDA compr
 
 [^17a-1]: Introduit par le ch. 3 de l’annexe 2 à l’O du 19 nov. 2003 sur l’égalité pour les handicapés ([RO 2003 4501](https://fedlex.data.admin.ch/eli/oc/2003/668)). Abrogé par le ch. I de l’O du 21 mai 2008, avec effet au 1<sup>er</sup> juil. 2008 ([RO 2008 2427](https://fedlex.data.admin.ch/eli/oc/2008/348)).
 
-## Chapitre 3 Intervention de l’Office fédéral de la douane et de la sécurité des frontières
+## Chapitre 3 Interventions lors de l’introduction de produits sur le territoire douanier ou de leur acheminement hors de celui-ci
 
 [^chap3-1]
 
-[^chap3-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^chap3-1]: Nouvelle teneur selon le ch. I 1 de l’O du 14 mai 2025 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 18
 
-**Domaine d’application**[^18-1]
+**Domaine d’application**
 
-L’Office fédéral de la douane et de la sécurité des frontières (OFDF) est habilité à intervenir en cas d’introduction sur le territoire douanier suisse et de sortie dudit territoire de produits lorsqu’il y a lieu de soupçonner que la mise en circulation de ces produits contrevient à la législation suisse régissant le droit d’auteur ou les droits voisins.
+Le présent chapitre régit les interventions lors de l’introduction de produits sur le territoire douanier ou de leur acheminement hors de celui-ci lorsqu’il y a lieu de soupçonner que leur mise en circulation contrevient à la législation en vigueur en Suisse dans le domaine du droit d’auteur ou des droits voisins.
 
-[^18-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
+#### Art. 18a
 
-#### Art. 19
+**Petit envoi**
+
+Un petit envoi est un envoi qui contient trois unités au maximum et dont le poids brut est inférieur à cinq kilogrammes.
+
+#### Art. 18b
 
 **Demande d’intervention**
 
-<sup>1</sup> Le titulaire des droits d’auteur ou des droits voisins, ou le preneur de licence ayant qualité pour agir (requérant) doit présenter la demande d’intervention à la Direction générale des douanes.[^19-1]
+<sup>1</sup> Le titulaire des droits d’auteur ou des droits voisins, ou le preneur de licence ayant qualité pour agir (requérant), doit présenter la demande d’intervention à l’Office fédéral de la douane et de la sécurité des frontières (OFDF).
 
-<sup>1bis</sup> La Direction générale des douanes douanes rend sa décision sur la demande au plus tard 40 jours après réception de l’intégralité des pièces justificatives.[^19-2]
+<sup>2</sup> L’OFDF rend sa décision sur la demande au plus tard 40 jours après réception de tous les documents requis.
 
-<sup>2</sup> La demande est valable deux ans à moins qu’elle ait été déposée pour une période plus courte. Elle peut être renouvelée.
+<sup>3</sup> Une fois approuvée, la demande est valable deux ans, à moins qu’elle ne spécifie une durée de validité plus courte. Elle peut être renouvelée.
 
-[^19-1]: Nouvelle teneur selon le ch. 1 de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
-[^19-2]: Introduit par le ch. I 1 de l’O du 6 juin 2014 sur la fixation de délais d’ordre dans le domaine de l’Administration fédérale des douanes, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
+#### Art. 19
+
+**Rétention des produits**
+
+<sup>1</sup> Lorsque l’OFDF retient des produits, il les garde en dépôt contre perception d’un émolument ou il les entrepose chez un tiers aux frais du requérant.
+
+<sup>2</sup> Il communique au requérant le nom et l’adresse du déclarant, du possesseur ou du propriétaire, lui transmet une description précise des produits retenus et l’informe de la quantité et de l’expéditeur desdits produits.
+
+<sup>3</sup> S’il s’agit d’un petit envoi et que celui-ci a été détruit dans le cadre de la procédure simplifiée, l’OFDF informe le requérant de la quantité, de la nature et de l’expéditeur des produits détruits.
+
+<sup>4</sup> S’il s’avère, avant l’échéance du délai visé à l’art. 77, al. 3 ou 4, LDA, que le requérant ne pourra pas obtenir de mesures provisionnelles, les produits sont libérés sans délai.
 
 #### Art. 20
 
-**Rétention**
+**Délégation de la compétence pour les petits envois**
 
-<sup>1</sup> Lorsque le bureau de douane retient des produits, il en assume la garde moyennant le paiement d’une taxe ou confie cette tâche à un tiers aux frais du requérant.
+<sup>1</sup> Lorsqu’il s’agit d’un petit envoi, l’OFDF confie la responsabilité de l’exécution de la procédure à l’IPI et remet les produits retenus soit à ce dernier, soit à un tiers désigné par l’IPI pour qu’il les garde en dépôt.
 
-<sup>2</sup> Il transmet au requérant le nom et l’adresse du déclarant, du possesseur ou du propriétaire, une description précise et la quantité des produits retenus ainsi que le nom de l’expéditeur en Suisse ou à l’étranger desdits produits.[^20-1]
-
-<sup>3</sup> Lorsqu’il est établi, avant l’échéance des délais prévus à l’art. 77, al. 2 et 2<sup>bis</sup> [^20-2], LDA, que le requérant n’est pas à même d’obtenir des mesures provisionnelles, les produits sont immédiatement libérés.[^20-3]
-
-[^20-1]: Nouvelle teneur selon le ch. 1 de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
-[^20-2]: Actuellement «al.2 et 3»
-[^20-3]: Nouvelle teneur selon le ch. I de l’O du 17 mai 1995, en vigueur depuis le 1<sup>er</sup> juil. 1995 ([RO 1995 1778](https://fedlex.data.admin.ch/eli/oc/1995/1778_1778_1778)).
+<sup>2</sup> Si l’IPI est le requérant, l’OFDF reste compétent.
 
 #### Art. 20a
 
-**Échantillons**[^20a-1]
+**Spécimens ou échantillons**
 
-<sup>1</sup> Le requérant peut présenter une demande pour solliciter la remise ou l’envoi d’échantillons à des fins d’examen ou l’inspection des produits retenus. Au lieu d’échantillons, l’OFDF peut aussi lui remettre des photographies desdits produits si elles lui permettent d’effectuer cet examen.
+<sup>1</sup> Le requérant peut présenter une demande pour solliciter soit la remise ou l’envoi de spécimens ou d’échantillons à des fins d’examen, soit l’inspection des produits.
 
-<sup>2</sup> Le requérant peut présenter cette demande à la Direction générale des douanes en même temps que la demande d’intervention ou, pendant la rétention des produits, directement au bureau de douane qui retient les produits.
+<sup>2</sup> Au lieu de spécimens ou d’échantillons, l’OFDF peut aussi remettre au requérant des photographies des produits retenus si elles lui permettent d’effectuer cet examen.
 
-[^20a-1]: Introduit par le ch. 1 de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
+<sup>3</sup> Le requérant peut présenter cette demande à l’OFDF en même temps que la demande d’intervention ou, pendant que les produits sont retenus, directement à l’autorité compétente.
 
 #### Art. 20b
 
-**Protection des secrets de fabrication et d’affaires**[^20b-1]
+**Protection des secrets de fabrication ou d’affaires**
 
-<sup>1</sup> L’OFDF informe le déclarant, le possesseur ou le propriétaire des produits de la possibilité de refuser le prélèvement d’échantillons sur présentation d’une demande motivée. Il lui impartit un délai raisonnable pour présenter cette demande.
+<sup>1</sup> Le déclarant, le possesseur ou le propriétaire des produits peut demander à l’OFDF de s’opposer au prélèvement de spécimens ou d’échantillons. La demande doit être motivée.
 
-<sup>2</sup> Si l’OFDF autorise le requérant à inspecter les produits retenus, il tient compte, pour fixer le moment de l’inspection, de manière appropriée des intérêts du requérant, d’une part, et de ceux du déclarant, du possesseur ou du propriétaire, d’autre part.
+<sup>2</sup> L’OFDF informe le déclarant, le possesseur ou le propriétaire des produits de la possibilité prévue à l’al. 1 et lui impartit un délai raisonnable.
 
-[^20b-1]: Introduit par le ch. 1 de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
+<sup>3</sup> Si l’OFDF autorise le requérant à inspecter les produits retenus, il fixe la date en prenant en considération de manière appropriée les intérêts du requérant, d’une part, et ceux du déclarant, du possesseur ou du propriétaire, d’autre part.
 
 #### Art. 20c
 
-**Conservation des moyens de preuve en cas de destruction des produits**[^20c-1]
+**Conservation des moyens de preuve en cas de destruction des produits**
 
-<sup>1</sup> L’OFDF conserve les échantillons prélevés durant un an à compter de la communication adressée au déclarant, au possesseur ou au propriétaire conformément à l’art. 77, al. 1, LDA. Après expiration de ce délai, il invite le déclarant, le possesseur ou le propriétaire à reprendre possession des échantillons ou à supporter les frais pour la poursuite de leur conservation. Si le déclarant, le possesseur ou le propriétaire ne donne pas suite à cette invitation ou s’il ne fait pas connaître sa décision dans les 30 jours, l’OFDF détruit les échantillons.
+<sup>1</sup> L’OFDF conserve les spécimens ou les échantillons prélevés durant un an à compter du moment où il a informé le déclarant, le possesseur ou le propriétaire de la rétention des produits. Au terme de ce délai, il invite le déclarant, le possesseur ou le propriétaire à reprendre possession des spécimens ou des échantillons ou à supporter les frais engendrés par leur conservation. Si le déclarant, le possesseur ou le propriétaire ne donne pas suite à cette invitation ou s’il ne fait pas connaître sa décision dans les 30 jours, l’OFDF détruit les spécimens ou les échantillons.
 
-<sup>2</sup> Au lieu de prélever des échantillons, l’OFDF peut faire des photographies des produits détruits pour autant que cette mesure permette de garantir la conservation des moyens de preuve.
+<sup>2</sup> Au lieu de prélever des spécimens ou des échantillons, l’OFDF peut faire des photographies des produits détruits pour autant que cette mesure permette de garantir la conservation des moyens de preuve.
 
-[^20c-1]: Introduit par le ch. 1 de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
+#### Art. 20d
+
+**Traitement, communication et conservation des données personnelles ou des données concernant des personnes morales**
+
+<sup>1</sup>
+
+Les autorités chargées de l’exécution des interventions sont autorisées à traiter les données ci-après personnelles ou concernant les personnes morales des personnes concernées par l’introduction de produits sur le territoire douanier ou par leur acheminement hors de celui-ci, aux fins visées aux art. 75 à 77*h*<sup>bis</sup> LDA, en particulier en relation avec le traitement de demandes d’intervention, le signalement d’envois suspects, la rétention ou la destruction de produits ainsi que le prélèvement ou l’envoi de spécimens ou d’échantillons:
+
+- a. les informations du requérant, de l’expéditeur, du déclarant, du possesseur ou du propriétaire des produits, en particulier son nom et son prénom ou la raison sociale ainsi que l’adresse;
+- b. les indications et documents relatifs aux demandes visées à l’art. 76 LDA;
+- c. les indications et documents relatifs aux produits retenus visés à l’art. 77 LDA;
+- d. les indications et documents relatifs à la demande d’intervention, y compris la rétention et la destruction des produits ainsi que le prélèvement et l’envoi de spécimens et d’échantillons.
+
+<sup>2</sup> Lorsque l’exécution de la procédure relève de la compétence de l’IPI, l’OFDF lui communique les données requises visées à l’al. 1.
+
+<sup>3</sup> Les autorités chargées de l’exécution des interventions sont autorisées à conserver les données aussi longtemps que l’exige la finalité du traitement, mais au maximum pendant les cinq ans qui suivent l’expiration de la durée de validité de la demande d’intervention ou l’intervention.
 
 #### Art. 21
 
-**Émoluments**[^21-1]
+**Émoluments et taxes**
 
-Les émoluments perçus pour l’intervention de l’OFDF sont fixés dans l’ordonnance du 4 avril 2007 sur les émoluments de l’ Office fédéral de la douane et de la sécurité des frontières[^21-2].
+<sup>1</sup> Les émoluments perçus pour l’intervention de l’OFDF sont fixés dans l’ordonnance du 4 avril 2007 sur les émoluments de l’Office fédéral de la douane et de la sécurité des frontières[^21-1].
 
-[^21-1]: Nouvelle teneur selon le ch. 1 de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
-[^21-2]: [RS 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
+<sup>2</sup> Lorsque l’exécution de la procédure relève de la compétence de l’IPI, les taxes perçues sont celles qui sont fixées dans l’ordonnance de l’IPI du 14 juin 2016 sur les taxes[^21-2].
+
+[^21-1]: [RS 631.035](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7819)
+[^21-2]: [RS 232.148](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5978)
 
 ## Chapitre 4 …
 
@@ -413,7 +432,7 @@ Sont abrogés:
 - b. l’ordonnance du DFJP du 8 avril 1982 concernant l’octroi d’autorisations pour la perception de droits d’auteur[^22-2];
 - c. le règlement du 22 mai 1958 de la Commission arbitrale fédérale en matière de perception de droits d’auteur[^22-3].
 
-[^22-1]: [RS **2** 827; [RO 1956 1802](https://fedlex.data.admin.ch/eli/oc/1956/1692_1802_1813),[1978 1692](https://fedlex.data.admin.ch/eli/oc/1978/1692_1692_1692),[1982 523](https://fedlex.data.admin.ch/eli/oc/1982/523_523_523)]
+[^22-1]: [[RS 2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5701)827; [RO 1956 1802](https://fedlex.data.admin.ch/eli/oc/1956/1692_1802_1813);[1978 1692](https://fedlex.data.admin.ch/eli/oc/1978/1692_1692_1692);[1982 523](https://fedlex.data.admin.ch/eli/oc/1982/523_523_523)]
 [^22-2]: [[RO 1982 525](https://fedlex.data.admin.ch/eli/oc/1982/525_525_525)]
 [^22-3]: [RO **1958** 279]
 

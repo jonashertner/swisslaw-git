@@ -4,11 +4,11 @@ title: "Ordinanza del 26 aprile 1993 sul diritto d'autore e sui diritti di prote
 short: ODAu
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1821_1821_1821"
 language: it
-version: 2022-01-01
+version: 2025-07-01
 adopted: 1993-04-26
 in_force: 1993-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1821_1821_1821/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1993-1821_1821_1821-20220101-it-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1821_1821_1821/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1821_1821_1821/20250701/it/xml/fedlex-data-admin-ch-eli-cc-1993-1821_1821_1821-20250701-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1821_1821_1821/20250701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/1821_1821_1821/20220101/it"
 
 (Ordinanza sul diritto d’autore, ODAu[^t-1])
 
-del 26 aprile 1993 (Stato 1° gennaio 2022)
+del 26 aprile 1993 (Stato 1° luglio 2025)
 
-[^t-1]: RU **1993** 1821 Nuova abbreviazione giusta l’art. 2 let. a dell’O del 10 gen. 1996 che rettifica alcune abbreviazioni di titoli di atti normativi (RU **1996** 208).
+[^t-1]: RU **1993** 1821 Nuova abbreviazione giusta l’art. 2 let. a dell’O del 10 gen. 1996 che rettifica alcune abbreviazioni di titoli di atti normativi, in vigore dal 1° feb. 1996 (RU **1996** 208).
 
 Il Consiglio federale svizzero,
 
@@ -27,10 +27,10 @@ visti gli articoli 39*b*, 55 capoverso 2 e 78 della legge del 9 ottobre 1992[^in
 
 ordina:
 
-[^ingress-1]: [RS 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
-[^ingress-2]: [RS 172.010.31](https://fedlex.data.admin.ch/eli/cc/1995/5050_5050_5050)
-[^ingress-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-4]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2427](https://fedlex.data.admin.ch/eli/oc/2008/348)).
+[^ingress-1]: [RS 231.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5952)
+[^ingress-2]: [RS 172.010.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5028)
+[^ingress-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-4]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2427](https://fedlex.data.admin.ch/eli/oc/2008/348)).
 
 ## Capitolo 1: Commissione arbitrale federale per la gestione dei diritti d’autore e dei diritti affini
 
@@ -56,8 +56,8 @@ ordina:
 
 <sup>2</sup> I membri della Commissione arbitrale devono osservare il segreto d’ufficio.
 
-[^2-1]: [[RU 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651),**2000** 115**7**,[2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819)n.II. [RU 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)n. II 1]. Vedi ora art. 8*a* ss dell’O del 25 nov. 1998 sull’organizzazione del Governo e dell’Amministrazione ([RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)).
-[^2-2]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2427](https://fedlex.data.admin.ch/eli/oc/2008/348)).
+[^2-1]: [[RU 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651),**2000** 115**7**,[2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819)cifra II. [RU 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)cifra II 1]. Vedi ora art. 8*a* ss dell’O del 25 nov. 1998 sull’organizzazione del Governo e dell’Amministrazione ([RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)).
+[^2-2]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2427](https://fedlex.data.admin.ch/eli/oc/2008/348)).
 
 #### Art. 3
 
@@ -87,8 +87,8 @@ Il segretario-giurista assolve segnatamente le seguenti mansioni:
 
 <sup>4</sup> Il segretario-giurista ha voto consultivo nei dibattiti in cui gli è stata affidata la stesura del verbale.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 25 ott. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5152](https://fedlex.data.admin.ch/eli/oc/1995/5152_5152_5152)).
-[^4-2]: Introdotto dal n. I dell’O del 25 ott. 1995 ([RU 1995 5152](https://fedlex.data.admin.ch/eli/oc/1995/5152_5152_5152)). Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2427](https://fedlex.data.admin.ch/eli/oc/2008/348)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 25 ott. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5152](https://fedlex.data.admin.ch/eli/oc/1995/5152_5152_5152)).
+[^4-2]: Introdotto dalla cifra I dell’O del 25 ott. 1995 ([RU 1995 5152](https://fedlex.data.admin.ch/eli/oc/1995/5152_5152_5152)). Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2427](https://fedlex.data.admin.ch/eli/oc/2008/348)).
 
 #### Art. 5
 
@@ -98,7 +98,7 @@ Il segretario-giurista assolve segnatamente le seguenti mansioni:
 
 <sup>2</sup> Essa può pubblicare le sue decisioni in una banca dati o sul suo sito Internet.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2427](https://fedlex.data.admin.ch/eli/oc/2008/348)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2427](https://fedlex.data.admin.ch/eli/oc/2008/348)).
 
 #### Art. 6
 
@@ -112,13 +112,13 @@ La Commissione arbitrale ha sede a Berna.
 
 Per la contabilità, la Commissione arbitrale è considerata un’unità amministrativa del dipartimento. Il dipartimento inserisce nel preventivo le entrate e le uscite della Commissione; i costi del personale e del materiale sono oggetto di due voci apposite.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 25 ott. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5152](https://fedlex.data.admin.ch/eli/oc/1995/5152_5152_5152)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 25 ott. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5152](https://fedlex.data.admin.ch/eli/oc/1995/5152_5152_5152)).
 
 #### Art. 8
 
 [^8-1]
 
-[^8-1]: Abrogato dal n. I dell’O del 25 ott. 1995, con effetto dal 1° gen. 1996 ([RU 1995 5152](https://fedlex.data.admin.ch/eli/oc/1995/5152_5152_5152)).
+[^8-1]: Abrogato dalla cifra I dell’O del 25 ott. 1995, con effetto dal 1° gen. 1996 ([RU 1995 5152](https://fedlex.data.admin.ch/eli/oc/1995/5152_5152_5152)).
 
 ### Sezione 2: Procedura
 
@@ -148,7 +148,7 @@ Per la contabilità, la Commissione arbitrale è considerata un’unità amminis
 
 Le decisioni sono comunicate per circolazione degli atti nella misura in cui le associazioni che rappresentano gli utenti hanno approvato la tariffa e qualora non sia stata presentata una domanda di convocazione di seduta da un membro della Camera arbitrale; le decisioni incidentali sono comunicate per circolazione degli atti.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 25 ott. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5152](https://fedlex.data.admin.ch/eli/oc/1995/5152_5152_5152)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 25 ott. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5152](https://fedlex.data.admin.ch/eli/oc/1995/5152_5152_5152)).
 
 #### Art. 12
 
@@ -194,15 +194,15 @@ Le parti hanno il diritto di essere sentite.
 
 <sup>4</sup> Nella decisione sono indicati i nominativi dei membri della Camera arbitrale nonché del segretario-giurista; il segretario-giurista appone la sua firma accanto a quella del presidente.
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 25 ott. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5152](https://fedlex.data.admin.ch/eli/oc/1995/5152_5152_5152)).
-[^16-2]: Nuovo testo giusta il n. I dell’O del 25 ott. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5152](https://fedlex.data.admin.ch/eli/oc/1995/5152_5152_5152)).
-[^16-3]: Nuovo testo giusta il n. I dell’O del 25 ott. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5152](https://fedlex.data.admin.ch/eli/oc/1995/5152_5152_5152)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 25 ott. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5152](https://fedlex.data.admin.ch/eli/oc/1995/5152_5152_5152)).
+[^16-2]: Nuovo testo giusta la cifra I dell’O del 25 ott. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5152](https://fedlex.data.admin.ch/eli/oc/1995/5152_5152_5152)).
+[^16-3]: Nuovo testo giusta la cifra I dell’O del 25 ott. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5152](https://fedlex.data.admin.ch/eli/oc/1995/5152_5152_5152)).
 
 ### Sezione 3: Tasse
 
 [^chap1-sec3-1]
 
-[^chap1-sec3-1]: Introdotta dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2427](https://fedlex.data.admin.ch/eli/oc/2008/348)).
+[^chap1-sec3-1]: Introdotta dalla cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2427](https://fedlex.data.admin.ch/eli/oc/2008/348)).
 
 #### Art. 16a
 
@@ -219,7 +219,7 @@ Per gli esborsi della Commissione arbitrale è allestito un conteggio separato. 
 - c. i costi per lavori che la Commissione arbitrale fa eseguire a terzi;
 - d. i costi di trasmissione e comunicazione.
 
-[^16a-1]: [RS 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
+[^16a-1]: [RS 172.041.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5066)
 
 #### Art. 16b
 
@@ -243,26 +243,21 @@ Le tasse e gli esborsi sono esigibili a contare dalla notifica della decisione m
 
 Per quanto la presente ordinanza non disponga altrimenti, si applicano le disposizioni dell’ordinanza generale dell’8 settembre 2004[^16d-1] sugli emolumenti.
 
-[^16d-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^16d-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ## Capitolo 1*a*: Osservatorio dei provvedimenti tecnici
 
 [^chap1a-1]
 
-[^chap1a-1]: Introdotto dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2427](https://fedlex.data.admin.ch/eli/oc/2008/348)).
+[^chap1a-1]: Introdotto dalla cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2427](https://fedlex.data.admin.ch/eli/oc/2008/348)).
 
 #### Art. 16e
 
-**Organizzazione**
+**Organizzazione**[^16e-1]
 
-<sup>1</sup> L’Istituto federale della proprietà intellettuale adempie i compiti del servizio secondo l’articolo 39*b* capoverso 1 LDA.[^16e-1]
+L’Istituto Federale della Proprietà Intellettuale (IPI) adempie i compiti del servizio secondo l’articolo 39*b* capoverso 1 LDA.
 
-<sup>2</sup> e <sup>3</sup> ...[^16e-2]
-
-<sup>4</sup> Il servizio non riscuote tasse per le attività svolte.
-
-[^16e-1]: Nuovo testo giusta il n. I dell’O del 29 set. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6213](https://fedlex.data.admin.ch/eli/oc/2017/690)).
-[^16e-2]: Abrogati dal n. I dell’O del 29 set. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6213](https://fedlex.data.admin.ch/eli/oc/2017/690)).
+[^16e-1]: Nuovo testo giusta la cifra I n. 1 dell’O del 14 mag. 2025 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in vigore dal 1° lug. 2025 ([RU 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 16f
 
@@ -276,7 +271,7 @@ Per quanto la presente ordinanza non disponga altrimenti, si applicano le dispos
 
 <sup>4</sup> Per esercitare le sue funzioni, può far capo a persone esterne all’Amministrazione federale; esse sono tenute al segreto.
 
-[^16f-1]: Nuovo testo giusta il n. I dell’O del 29 set. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6213](https://fedlex.data.admin.ch/eli/oc/2017/690)).
+[^16f-1]: Nuovo testo giusta la cifra I dell’O del 29 set. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6213](https://fedlex.data.admin.ch/eli/oc/2017/690)).
 
 #### Art. 16g
 
@@ -309,87 +304,111 @@ L’uso di un programma per computer, ammesso giusta l’articolo 12 capoverso 2
 
 [^17a-1]
 
-[^17a-1]: Introdotto dal n. 3 dell’all. 2 all’O del 19 nov. 2003 sui disabili ([RU 2003 4501](https://fedlex.data.admin.ch/eli/oc/2003/668)). Abrogato dal n. I dell’O del 21 mag. 2008, con effetto dal 1° lug. 2008 ([RU 2008 2427](https://fedlex.data.admin.ch/eli/oc/2008/348)).
+[^17a-1]: Introdotto dal n. 3 dell’all. 2 all’O del 19 nov. 2003 sui disabili ([RU 2003 4501](https://fedlex.data.admin.ch/eli/oc/2003/668)). Abrogato dalla cifra I dell’O del 21 mag. 2008, con effetto dal 1° lug. 2008 ([RU 2008 2427](https://fedlex.data.admin.ch/eli/oc/2008/348)).
 
-## Capitolo 3: Intervento dell’Ufficio federale della dogana e della sicurezza dei confini
+## Capitolo 3: Intervento in caso di introduzione di merci nel territorio doganale o di asportazione di merci dal territorio doganale
 
 [^chap3-1]
 
-[^chap3-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^chap3-1]: Nuovo testo giusta la cifra I n. 1 dell’O del 14 mag. 2025 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in vigore dal 1° lug. 2025 ([RU 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 18
 
-**Campo d’applicazione**[^18-1]
+**Campo d’applicazione**
 
-L’Ufficio federale della dogana e della sicurezza dei confini (UDSC) è abilitato a intervenire in caso di introduzione sul territorio doganale o di asportazione da esso di merci in merito alle quali esiste il sospetto che la loro messa in circolazione violi la legislazione vigente in Svizzera in materia di diritto d’autore o dei diritti di protezione affini.
+Il presente capitolo si applica a interventi in caso di introduzione nel territorio doganale o di asportazione dal territorio doganale di merce in merito alla quale esiste il sospetto che la sua messa in circolazione violi la legislazione vigente in Svizzera in materia di diritto d’autore o di diritti di protezione affini.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
+#### Art. 18a
 
-#### Art. 19
+**Piccoli invii**
+
+Per piccolo invio si intende un invio che contiene al massimo tre unità e il cui peso lordo è inferiore a cinque chilogrammi.
+
+#### Art. 18b
 
 **Domanda d’intervento**
 
-<sup>1</sup> I titolari di diritti d’autore o di diritti di protezione affini o i titolari di una licenza legittimati ad agire (richiedenti) devono presentare la domanda d’intervento alla Direzione generale delle dogane.[^19-1]
+<sup>1</sup> I titolari di diritti d’autore o di diritti di protezione affini o i titolari di una licenza legittimati ad agire (richiedenti) devono presentare la domanda d’intervento all’Ufficio federale della dogana e della sicurezza dei confini (UDSC).
 
-1<sup>bis</sup> La Direzione generale delle dogane decide in merito alla domanda al più tardi entro 40 giorni dalla ricezione della documentazione completa.[^19-2]
+<sup>2</sup> L’UDSC decide in merito alla domanda al più tardi entro 40 giorni dalla ricezione della documentazione, non appena ne dispone integralmente.
 
-<sup>2</sup> La domanda ha effetto per due anni a meno che, all’atto del deposito, sia stata fissata una durata inferiore. La domanda è rinnovabile.
+<sup>3</sup> Una volta approvata, la domanda rimane valida per due anni qualora non sia stata presentata per una durata di validità più breve. Può essere rinnovata.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
-[^19-2]: Introdotto dal n. I 1 dell’O del 6 giu. 2014 sui termini ordinatori nell’ambito di competenza dell’Amministrazione federale delle dogane, in vigore dal 1° set. 2014 ([RU 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
+#### Art. 19
+
+**Ritenzione della merce**
+
+<sup>1</sup> Se l’UDSC trattiene della merce, la conserva dietro pagamento di un emolumento oppure la affida a terzi per la conservazione a spese del richiedente.
+
+<sup>2</sup> L’UDSC comunica al richiedente il nome e l’indirizzo del dichiarante, detentore o proprietario, una descrizione precisa, la quantità e il nome del mittente della merce ritenuta.
+
+<sup>3</sup> Se si tratta di un piccolo invio distrutto secondo la procedura semplificata, l’UDSC informa il richiedente sulla quantità e sulla natura nonché sul mittente della merce distrutta.
+
+<sup>4</sup> Se, già prima della scadenza del termine giusta l’articolo 77 capoverso 3 o 4 LDA, è chiaro che il richiedente non può ottenere provvedimenti cautelari, la merce è svincolata senza indugio.
 
 #### Art. 20
 
-**Ritenzione di prodotti**
+**Delega della competenza per i piccoli invii**
 
-<sup>1</sup> Se l’ufficio doganale trattiene prodotti, ne assume la custodia dietro pagamento di una tassa oppure li affida a terzi, a spese del richiedente.
+<sup>1</sup> Se la merce ritenuta costituisce un piccolo invio, l’UDSC incarica l’IPI dell’esecuzione della procedura e consegna la merce a quest’ultimo o a un terzo designato dall’IPI affinché la conservi.
 
-<sup>2</sup> L’Ufficio doganale comunica al richiedente il nome e l’indirizzo del depositante, del detentore o del proprietario, una descrizione precisa, la quantità e il nome del mittente in Svizzera o all’estero della merce ritenuta.[^20-1]
-
-<sup>3</sup> Qualora fosse stabilito già prima della scadenza del termine previsto all’articolo 77 capoversi 2 e 2<sup>bis</sup> [^20-2] LDA che al richiedente non è concesso ottenere provvedimenti cautelari, i prodotti sono sbloccati immediatamente.[^20-3]
-
-[^20-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
-[^20-2]: Ora: cpv. 2 e 3.
-[^20-3]: Nuovo testo giusta il n. I dell’O del 17 mag. 1995, in vigore dal 1° lug. 1995 ([RU 1995 1778](https://fedlex.data.admin.ch/eli/oc/1995/1778_1778_1778)).
+<sup>2</sup> Se il richiedente è l’IPI, rimane competente l’UDSC.
 
 #### Art. 20a
 
-**Campioni**[^20a-1]
+**Campioni o modelli**
 
-<sup>1</sup> Il richiedente può chiedere la consegna o l’invio di campioni a scopo di esame oppure può chiedere di ispezionare la merce ritenuta. Invece dei campioni può trasmettere al richiedente fotografie della merce ritenuta, se queste ne consentono l’esame.
+<sup>1</sup> Il richiedente può chiedere la consegna o l’invio di campioni o modelli a scopo di esame oppure può chiedere di ispezionare la merce ritenuta.
 
-<sup>2</sup> La richiesta può essere presentata insieme alla domanda d’intervento alla Direzione generale delle dogane o, durante la ritenzione della merce, direttamente all’ufficio doganale che trattiene la merce.
+<sup>2</sup> Invece di campioni o modelli, l’UDSC può trasmettere al richiedente fotografie della merce ritenuta, se queste ne consentono l’esame.
 
-[^20a-1]: Introdotto dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
+<sup>3</sup> La richiesta può essere presentata insieme alla domanda d’intervento all’UDSC o, durante la ritenzione della merce, all’autorità competente.
 
 #### Art. 20b
 
-**Tutela dei segreti di fabbricazione e di affari**[^20b-1]
+**Tutela dei segreti di fabbricazione e di affari**
 
-<sup>1</sup> L’UDSC informa il depositante, il detentore o il proprietario della merce della possibilità di presentare una richiesta motivata per rifiutare il prelievo di campioni. Per l’inoltro della richiesta esso stabilisce un termine adeguato.
+<sup>1</sup> Il dichiarante, detentore o proprietario della merce può chiedere all’UDSC di rifiutare il prelievo di campioni o modelli. La richiesta va motivata.
 
-<sup>2</sup> Qualora l’UDSC consenta al richiedente di ispezionare la merce ritenuta, per stabilire il momento dell’esame tiene conto in maniera adeguata degli interessi del richiedente e del depositante, del detentore o del proprietario.
+<sup>2</sup> L’UDSC informa il dichiarante, detentore o proprietario della merce della possibilità di cui al capoverso 1 e gli concede un termine adeguato.
 
-[^20b-1]: Introdotto dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
+<sup>3</sup> Qualora consenta al richiedente di ispezionare la merce ritenuta, nel determinare il momento dell’ispezione l’UDSC tiene conto in maniera adeguata degli interessi del richiedente da una parte e di quelli del dichiarante, detentore o proprietario dall’altra.
 
 #### Art. 20c
 
-**Conservazione dei mezzi di prova in caso di distruzione della merce**[^20c-1]
+**Conservazione dei mezzi di prova in caso di distruzione della merce**
 
-<sup>1</sup> L’UDSC trattiene i campioni prelevati per un periodo di un anno dalla notifica del depositante, del detentore o del proprietario in virtù dell’articolo 77 capoverso 1 LDA. Allo scadere di tale termine l’UDSC invita il depositante, il detentore o il proprietario a prendere in custodia i campioni, oppure ad assumere i costi per la conservazione ulteriore. Qualora il depositante, il detentore o il proprietario non sia disposto a prendere in custodia i campioni oppure ad assumere i costi per la conservazione ulteriore, o se non si esprime entro 30 giorni, l’UDSC distrugge i campioni.
+<sup>1</sup> L’UDSC conserva i campioni o modelli per un anno dal momento in cui comunica la ritenzione della merce al dichiarante, detentore o proprietario. Allo scadere di tale termine l’UDSC invita il dichiarante, detentore o proprietario a riprendere possesso dei campioni o modelli, oppure ad assumere i costi per l’ulteriore conservazione. Se il dichiarante, detentore o proprietario non ottempera all’invito o non fornisce una risposta entro 30 giorni, l’UDSC distrugge i campioni o modelli.
 
-<sup>2</sup> Invece di prelevare campioni essa può fotografare la merce distrutta, a condizione che ciò consenta di garantire la conservazione dei mezzi di prova.
+<sup>2</sup> Invece di prelevare campioni o modelli, l’UDSC può fotografare la merce distrutta, a condizione che ciò consenta di garantire la conservazione dei mezzi di prova.
 
-[^20c-1]: Introdotto dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
+#### Art. 20d
+
+**Trattamento, comunicazione e conservazione di dati personali e di dati concernenti persone giuridiche**
+
+<sup>1</sup>
+
+Le autorità competenti per l’esecuzione dell’intervento sono autorizzate a trattare i seguenti dati, personali e concernenti persone giuridiche, delle persone coinvolte nell’introduzione nel territorio doganale o nell’asportazione dal territorio doganale di merce o nell’intervento, per gli scopi di cui agli articoli 75–77*h*<sup>bis</sup> LDA, soprattutto in relazione al trattamento di domande d’intervento, alla notifica di invii sospetti, alla ritenzione o alla distruzione di merce nonché al prelievo o invio di campioni e modelli:
+
+- a. generalità del richiedente, del mittente, del dichiarante, del detentore o del proprietario della merce, segnatamente il cognome e il nome o la ditta e l’indirizzo;
+- b. indicazioni e documenti relativi alle domande d’intervento di cui all’articolo 76 LDA;
+- c. indicazioni e documenti relativi alla merce ritenuta secondo l’articolo 77 LDA;
+- d. indicazioni e documenti relativi all’intervento, inclusi quelli relativi alla ritenzione e alla distruzione di merce nonché al prelievo e all’invio di campioni e modelli.
+
+<sup>2</sup> Se l’IPI è competente per l’esecuzione della procedura, l’UDSC gli comunica i dati necessari di cui al capoverso 1.
+
+<sup>3</sup> Le autorità competenti possono conservare i dati per il periodo necessario allo scopo del trattamento, ma al massimo per cinque anni dopo la scadenza della durata di validità di una domanda d’intervento o dopo l’intervento.
 
 #### Art. 21
 
-**Emolumenti**[^21-1]
+**Emolumenti e tasse**
 
-Gli emolumenti per l’intervento dell’UDSC sono retti dall’ordinanza del 4 aprile 2007[^21-2] sugli emolumenti dell’Ufficio federale della dogana e della sicurezza dei confini.
+<sup>1</sup> Gli emolumenti per l’intervento dell’UDSC sono retti dall’ordinanza del 4 aprile 2007[^21-1] sugli emolumenti dell’Ufficio federale della dogana e della sicurezza dei confini.
 
-[^21-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
-[^21-2]: [RS 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
+<sup>2</sup> Se l’IPI è competente per l’esecuzione della procedura, le tasse sono rette dall’ordinanza dell’IPI del 14 giugno 2016[^21-2] sulle tasse.
+
+[^21-1]: [RS 631.035](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7819)
+[^21-2]: [RS 232.148](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5978)
 
 ## Capitolo 4: …
 
@@ -397,7 +416,7 @@ Gli emolumenti per l’intervento dell’UDSC sono retti dall’ordinanza del 4 
 
 [^21a21f-1]
 
-[^21a21f-1]: Introdotto dal n. I dell’O del 25 ott. 1995 ([RU 1995 5152](https://fedlex.data.admin.ch/eli/oc/1995/5152_5152_5152)). Abrogato dal n. I dell’O del 21 mag. 2008, con effetto dal 1° lug. 2008 ([RU 2008 2427](https://fedlex.data.admin.ch/eli/oc/2008/348)).
+[^21a21f-1]: Introdotto dalla cifra I dell’O del 25 ott. 1995 ([RU 1995 5152](https://fedlex.data.admin.ch/eli/oc/1995/5152_5152_5152)). Abrogato dalla cifra I dell’O del 21 mag. 2008, con effetto dal 1° lug. 2008 ([RU 2008 2427](https://fedlex.data.admin.ch/eli/oc/2008/348)).
 
 ## Capitolo 5: Disposizioni finali
 

@@ -4,11 +4,11 @@ title: "Verordnung vom 26. April 1993 über das Urheberrecht und verwandte Schut
 short: URV
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1821_1821_1821"
 language: de
-version: 2022-01-01
+version: 2025-07-01
 adopted: 1993-04-26
 in_force: 1993-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1821_1821_1821/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1993-1821_1821_1821-20220101-de-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1821_1821_1821/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1821_1821_1821/20250701/de/xml/fedlex-data-admin-ch-eli-cc-1993-1821_1821_1821-20250701-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1821_1821_1821/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/1821_1821_1821/20220101/de"
 
 (Urheberrechtsverordnung, URV)
 
-vom 26. April 1993 (Stand am 1. Januar 2022)
+vom 26. April 1993 (Stand am 1. Juli 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,9 +25,9 @@ gestützt auf die Artikel 39*b*, 55 Absatz 2 und 78 des Urheberrechtsgesetzes vo
 
 verordnet:
 
-[^ingress-1]: [SR 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
-[^ingress-2]: [SR 172.010.31](https://fedlex.data.admin.ch/eli/cc/1995/5050_5050_5050)
-[^ingress-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-1]: [SR 231.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5952)
+[^ingress-2]: [SR 172.010.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5028)
+[^ingress-3]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^ingress-4]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2427](https://fedlex.data.admin.ch/eli/oc/2008/348)).
 
 ## 1. Kapitel: Eidgenössische Schiedskommission für die Verwertung von Urheberrechten und verwandten Schutzrechten
@@ -55,7 +55,7 @@ verordnet:
 <sup>2</sup> Die Kommissionsmitglieder unterstehen dem Amtsgeheimnis.
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2427](https://fedlex.data.admin.ch/eli/oc/2008/348)).
-[^2-2]: [[AS 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651), [2000 1157](https://fedlex.data.admin.ch/eli/oc/2000/188), [2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819)Ziff. II. [AS 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)Ziff. II 1]. Siehe heute: Art. 8*a* ff. der Regierungs- und Verwaltungsorganisationsverordnung vom 25. Nov. 1998 ([SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)).
+[^2-2]: [[AS 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651); [2000 1157](https://fedlex.data.admin.ch/eli/oc/2000/188); [2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819)Ziff. II. [AS 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)Ziff. II 1]. Siehe heute: Art. 8*a* ff. der Regierungs- und Verwaltungsorganisationsverordnung vom 25. Nov. 1998 ([SR 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)).
 
 #### Art. 3
 
@@ -217,7 +217,7 @@ Für die Auslagen der Schiedskommission wird gesondert Rechnung gestellt. Als Au
 - c. Kosten für Arbeiten, welche die Schiedskommission durch Dritte ausführen lässt;
 - d. Übermittlungs- und Kommunikationskosten.
 
-[^16a-1]: [SR 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
+[^16a-1]: [SR 172.041.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5066)
 
 #### Art. 16b
 
@@ -241,7 +241,7 @@ Die Gebühren und Auslagen werden mit der Zustellung des schriftlich begründete
 
 Soweit diese Verordnung keine besondere Regelung enthält, gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^16d-1].
 
-[^16d-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^16d-1]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ## 1*a.* Kapitel: Beobachtungsstelle für technische Massnahmen
 
@@ -251,16 +251,11 @@ Soweit diese Verordnung keine besondere Regelung enthält, gelten die Bestimmung
 
 #### Art. 16e
 
-**Organisation**
+**Organisation**[^16e-1]
 
-<sup>1</sup> Das Eidgenössische Institut für Geistiges Eigentum nimmt die Aufgaben der Fachstelle nach Artikel 39*b* Absatz 1 URG wahr.[^16e-1]
+Das Eidgenössische Institut für Geistiges Eigentum (IGE) nimmt die Aufgaben der Fachstelle nach Artikel 39*b* Absatz 1 URG wahr.
 
-<sup>2</sup> und <sup>3</sup> …[^16e-2]
-
-<sup>4</sup> Die Fachstelle erhebt für ihre Tätigkeiten keine Gebühren.
-
-[^16e-1]: Fassung gemäss Ziff. I der V vom 29. Sept. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6213](https://fedlex.data.admin.ch/eli/oc/2017/690)).
-[^16e-2]: Aufgehoben durch Ziff. I der V vom 29. Sept. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6213](https://fedlex.data.admin.ch/eli/oc/2017/690)).
+[^16e-1]: Fassung gemäss Ziff. I 1 der V vom 14. Mai 2025 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 16f
 
@@ -309,86 +304,109 @@ Der nach Artikel 12 Absatz 2 URG zulässige Gebrauch eines Computerprogramms umf
 
 [^17a-1]: Eingefügt durch Anhang 2 Ziff. 3 der Behindertengleichstellungsverordnung vom 19. Nov. 2003 ([AS 2003 4501](https://fedlex.data.admin.ch/eli/oc/2003/668)). Aufgehoben durch Ziff. I der V vom 21. Mai 2008, mit Wirkung seit 1. Juli 2008 ([AS 2008 2427](https://fedlex.data.admin.ch/eli/oc/2008/348)).
 
-## 3. Kapitel: Hilfeleistung des Bundesamts für Zoll und Grenzsicherheit
+## 3. Kapitel: Hilfeleistung beim Verbringen von Waren ins Zollgebiet oder aus dem Zollgebiet
 
 [^chap3-1]
 
-[^chap3-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^chap3-1]: Fassung gemäss Ziff. I 1 der V vom 14. Mai 2025 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 18
 
-**Bereich**[^18-1]
+**Geltungsbereich**
 
-Die Hilfeleistung des Bundesamts für Zoll und Grenzsicherheit (BAZG) erstreckt sich auf das Verbringen von Waren, bei denen der Verdacht besteht, dass ihre Verbreitung gegen die in der Schweiz geltende Gesetzgebung über das Urheberrecht oder die verwandten Schutzrechte verstösst, ins oder aus dem Zollgebiet.
+Dieses Kapitel gilt für Hilfeleistungen beim Verbringen von Waren ins Zollgebiet oder aus dem Zollgebiet, bei denen der Verdacht besteht, dass ihre Verbreitung gegen die in der Schweiz geltende Gesetzgebung über das Urheberrecht oder die verwandten Schutzrechte verstösst.
 
-[^18-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
+#### Art. 18a
 
-#### Art. 19
+**Kleinsendung**
+
+Als Kleinsendung gilt eine Sendung, die höchstens drei Einheiten enthält und deren Bruttogewicht weniger als fünf Kilogramm beträgt.
+
+#### Art. 18b
 
 **Antrag auf Hilfeleistung**
 
-<sup>1</sup> Die Inhaber und Inhaberinnen von Urheber- oder von verwandten Schutzrechten oder die klageberechtigten Lizenznehmer und Lizenznehmerinnen (Antragsteller und Antragstellerinnen) müssen den Antrag auf Hilfeleistung bei der Oberzolldirektion stellen.[^19-1]
+<sup>1</sup> Die Inhaber und Inhaberinnen von Urheber- oder von verwandten Schutzrechten oder die klageberechtigten Lizenznehmer und Lizenznehmerinnen (Antragsteller und Antragstellerinnen) müssen den Antrag auf Hilfeleistung beim Bundesamt für Zoll und Grenzsicherheit (BAZG) stellen.
 
-<sup>1bis</sup> Die Oberzolldirektion entscheidet spätestens 40 Tage nach Erhalt der vollständigen Unterlagen über den Antrag.[^19-2]
+<sup>2</sup> Das BAZG entscheidet spätestens 40 Tage nach Erhalt der Unterlagen über den Antrag, sobald diese dem BAZG vollständig vorliegen.
 
-<sup>2</sup> Der Antrag gilt während zwei Jahren, wenn er nicht für eine kürzere Geltungsdauer gestellt wird. Er kann erneuert werden.
+<sup>3</sup> Der genehmigte Antrag gilt zwei Jahre, wenn er nicht für eine kürzere Geltungsdauer gestellt wird. Er kann erneuert werden.
 
-[^19-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
-[^19-2]: Eingefügt durch Ziff. I 1 der V vom 6. Juni 2014 über die Ordnungsfristen im Zuständigkeitsbereich der Eidgenössischen Zollverwaltung, in Kraft seit 1. Sept. 2014 ([AS 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
-
-#### Art. 20
+#### Art. 19
 
 **Zurückbehalten von Waren**
 
-<sup>1</sup> Behält die Zollstelle Waren zurück, so verwahrt sie diese gegen Gebühr selbst oder gibt sie auf Kosten der Antragsteller oder der Antragstellerinnen einer Drittperson in Verwahrung.[^20-1]
+<sup>1</sup> Behält das BAZG Waren zurück, so verwahrt es diese gegen eine Gebühr oder gibt sie auf Kosten des Antragstellers oder der Antragstellerin einer Drittperson zur Verwahrung.
 
-<sup>2</sup> Sie teilt dem Antragsteller oder der Antragstellerin Name und Adresse der Anmelderin, Besitzerin oder Eigentümerin beziehungsweise des Anmelders, Besitzers oder Eigentümers, eine genaue Beschreibung, die Menge sowie den Absender im In- oder Ausland der zurückbehaltenen Ware mit.[^20-2]
+<sup>2</sup> Es teilt dem Antragsteller oder der Antragstellerin Name und Adresse des Anmelders, Besitzers oder Eigentümers oder der Anmelderin, Besitzerin oder Eigentümerin, eine genaue Beschreibung, die Menge sowie den Absender oder die Absenderin der zurückbehaltenen Ware mit.
 
-<sup>3</sup> Steht schon vor Ablauf der Frist nach Artikel 77 Absatz 2 beziehungsweise Absatz 2<sup>bis</sup> [^20-3] URG fest, dass die Antragsteller oder Antragstellerinnen vorsorgliche Massnahmen nicht erwirken können, so werden die Waren sogleich freigegeben.[^20-4]
+<sup>3</sup> Handelt es sich um eine Kleinsendung und wurde diese im vereinfachten Verfahren vernichtet, so teilt es dem Antragsteller oder der Antragstellerin die Menge und die Art sowie den Absender oder die Absenderin der vernichteten Ware mit.
 
-[^20-1]: Fassung gemäss Anhang 4 Ziff. 1 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^20-2]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
-[^20-3]: Heute: Abs. 2 und 3
-[^20-4]: Fassung gemäss Ziff. I der V vom 17. Mai 1995, in Kraft seit 1. Juli 1995 ([AS 1995 1778](https://fedlex.data.admin.ch/eli/oc/1995/1778_1778_1778)).
+<sup>4</sup> Steht schon vor Ablauf der Frist nach Artikel 77 Absatz 3 beziehungsweise 4 URG fest, dass der Antragsteller oder die Antragstellerin keine vorsorglichen Massnahmen erwirken kann, so wird die Ware sogleich freigegeben.
+
+#### Art. 20
+
+**Übertragung der Zuständigkeit bei Kleinsendungen**
+
+<sup>1</sup> Handelt es sich bei der zurückbehaltenen Ware um eine Kleinsendung, so überträgt das BAZG die Zuständigkeit für den Vollzug des Verfahrens dem IGE und übergibt diesem oder einer von diesem bezeichneten Drittperson die Ware zur Verwahrung.
+
+<sup>2</sup> Ist das IGE der Antragsteller, so bleibt das BAZG zuständig.
 
 #### Art. 20a
 
-**Proben oder Muster**[^20a-1]
+**Proben oder Muster**
 
-<sup>1</sup> Der Antragsteller oder die Antragstellerin kann die Übergabe oder Zusendung von Proben oder Mustern zur Prüfung oder die Besichtigung der Ware beantragen. Anstelle von Proben oder Mustern kann das BAZG dem Antragsteller oder der Antragstellerin auch Fotografien der zurückbehaltenen Ware übergeben, wenn diese eine Prüfung durch den Antragsteller oder die Antragstellerin ermöglichen.
+<sup>1</sup> Der Antragsteller oder die Antragstellerin kann die Übergabe oder Zusendung von Proben oder Mustern zur Prüfung oder die Besichtigung der Ware beantragen.
 
-<sup>2</sup> Der Antrag kann zusammen mit dem Antrag auf Hilfeleistung bei der Oberzolldirektion oder während des Zurückbehaltens der Ware direkt bei der Zollstelle gestellt werden, welche die Ware zurückbehält.
+<sup>2</sup> Das BAZG kann dem Antragsteller oder der Antragstellerin anstelle der Proben oder Muster auch Fotografien der zurückbehaltenen Ware übergeben, wenn diese eine Prüfung ermöglichen.
 
-[^20a-1]: Eingefügt durch Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
+<sup>3</sup> Der Antrag kann zusammen mit dem Antrag auf Hilfeleistung beim BAZG oder, während die Ware zurückbehalten wird, bei der zuständigen Behörde gestellt werden.
 
 #### Art. 20b
 
-**Wahrung von Fabrikations- und Geschäftsgeheimnissen**[^20b-1]
+**Wahrung von Fabrikations- und Geschäftsgeheimnissen**
 
-<sup>1</sup> Das BAZG weist die Anmelderin, Besitzerin oder Eigentümerin beziehungsweise den Anmelder, Besitzer oder Eigentümer der Ware auf die Möglichkeit hin, einen begründeten Antrag auf Verweigerung der Entnahme von Proben oder Mustern zu stellen. Es setzt ihr oder ihm für die Stellung des Antrags eine angemessene Frist.
+<sup>1</sup> Der Anmelder, Besitzer oder Eigentümer oder die Anmelderin, Besitzerin oder Eigentümerin der Ware kann dem BAZG beantragen, die Entnahme von Proben oder Mustern zu verweigern. Der Antrag ist zu begründen.
 
-<sup>2</sup> Gestattet das BAZG dem Antragsteller oder der Antragstellerin die Besichtigung der zurückbehaltenen Ware, so nimmt es bei der Festlegung des Zeitpunkts auf die Interessen des Antragstellers oder der Antragstellerin und der Anmelderin, Besitzerin oder Eigentümerin beziehungsweise des Anmelders, Besitzers oder Eigentümers angemessen Rücksicht.
+<sup>2</sup> Das BAZG informiert den Anmelder, Besitzer oder Eigentümer oder die Anmelderin, Besitzerin oder Eigentümerin der Ware über die Möglichkeit nach Absatz 1 und gewährt ihm oder ihr eine angemessene Frist.
 
-[^20b-1]: Eingefügt durch Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
+<sup>3</sup> Gestattet es dem Antragsteller oder der Antragstellerin, die zurückbehaltene Ware zu besichtigen, so berücksichtigt es bei der Festlegung des Zeitpunkts angemessen die Interessen des Antragstellers oder der Antragstellerin sowie des Anmelders, Besitzers, oder Eigentümers oder der Anmelderin, Besitzerin oder Eigentümerin.
 
 #### Art. 20c
 
-**Aufbewahrung von Beweismitteln bei Vernichtung der Ware**[^20c-1]
+**Aufbewahrung von Beweismitteln bei Vernichtung der Ware**
 
-<sup>1</sup> Das BAZG bewahrt die entnommenen Proben oder Muster während eines Jahres ab der Benachrichtigung der Anmelderin, Besitzerin oder Eigentümerin beziehungsweise des Anmelders, Besitzers oder Eigentümers nach Artikel 77 Absatz 1 URG auf. Nach Ablauf dieser Frist fordert es die Anmelderin, Besitzerin oder Eigentümerin beziehungsweise den Anmelder, Besitzer oder Eigentümer auf, die Proben oder Muster in ihren beziehungsweise seinen Besitz zu nehmen oder die Kosten der weiteren Aufbewahrung zu tragen. Ist die Anmelderin, Besitzerin oder Eigentümerin beziehungsweise der Anmelder, Besitzer oder Eigentümer dazu nicht bereit oder lässt sie beziehungsweise er sich innerhalb von 30 Tagen nicht vernehmen, so vernichtet das BAZG die Proben oder Muster.
+<sup>1</sup> Das BAZG bewahrt die Proben oder Muster ab dem Zeitpunkt der Mitteilung an den Anmelder, Besitzer oder Eigentümer oder die Anmelderin, Besitzerin oder Eigentümerin, dass die Ware zurückbehalten wird, ein Jahr auf. Nach Ablauf dieser Frist fordert es den Anmelder, Besitzer oder Eigentümer oder die Anmelderin, Besitzerin oder Eigentümerin auf, die Proben oder Muster in Besitz zu nehmen oder die Kosten der weiteren Aufbewahrung zu tragen. Kommt der Anmelder, Besitzer oder Eigentümer oder die Anmelderin, Besitzerin oder Eigentümerin der Aufforderung nicht nach oder gibt er oder sie innerhalb von 30 Tagen keine Antwort, so vernichtet das BAZG die Proben oder Muster.
 
 <sup>2</sup> Das BAZG kann anstelle der Entnahme von Proben oder Mustern Fotografien der vernichteten Ware erstellen, soweit damit der Zweck der Sicherung von Beweismitteln gewährleistet ist.
 
-[^20c-1]: Eingefügt durch Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
+#### Art. 20d
+
+**Bearbeitung, Bekanntgabe und Aufbewahrung von Personendaten und Daten juristischer Personen**
+
+<sup>1</sup>
+
+Die für den Vollzug der Hilfeleistung zuständigen Behörden sind berechtigt, die folgenden Personendaten und Daten juristischer Personen, die Personen betreffen, die am Verbringen von Waren ins Zollgebiet oder aus dem Zollgebiet oder an der Hilfeleistung beteiligt sind, für die Zwecke nach den Artikeln 75–77*h**<sup>bis</sup>* URG zu bearbeiten, insbesondere im Zusammenhang mit der Bearbeitung von Anträgen auf Hilfeleistung, mit der Meldung verdächtiger Sendungen, mit dem Zurückbehalten oder der Vernichtung von Waren sowie mit der Entnahme oder dem Versand von Proben und Mustern:
+
+- a. Personalien des Antragstellers, Absenders, Anmelders, Besitzers oder Eigentümers der Ware oder der Antragstellerin, Absenderin, Anmelderin, Besitzerin oder Eigentümerin der Ware, insbesondere dessen oder deren Name und Vorname oder Firma und Adresse;
+- b. Angaben und Dokumente zu den Anträgen nach Artikel 76 URG;
+- c. Angaben und Dokumente zu den nach Artikel 77 URG zurückbehaltenen Waren;
+- d. Angaben und Dokumente zur Hilfeleistung, einschliesslich des Zurückbehaltens und der Vernichtung von Waren sowie der Entnahme und des Versands von Proben und Mustern.
+
+<sup>2</sup> Ist das IGE für den Vollzug des Verfahrens zuständig, so gibt das BAZG diesem die erforderlichen Daten nach Absatz 1 bekannt.
+
+<sup>3</sup> Die zuständigen Behörden dürfen die Daten so lange aufbewahren, wie es der Bearbeitungszweck erfordert, höchstens jedoch fünf Jahre, nachdem die Geltungsdauer eines Antrags auf Hilfeleistung abgelaufen oder die Hilfeleistung erfolgt ist.
 
 #### Art. 21
 
-**Gebühren**[^21-1]
+**Gebühren**
 
-Die Gebühren für die Hilfeleistung des BAZG richten sich nach der Verordnung vom 4. April 2007[^21-2] über die Gebühren des Bundesamts für Zoll und Grenzsicherheit.
+<sup>1</sup> Die Gebühren für die Hilfeleistung des BAZG richten sich nach der Verordnung vom 4. April 2007[^21-1] über die Gebühren des Bundesamts für Zoll und Grenzsicherheit.
 
-[^21-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
-[^21-2]: [SR 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
+<sup>2</sup> Ist das IGE für den Vollzug des Verfahrens zuständig, so richten sich die Gebühren nach der Verordnung des IGE vom 14. Juni 2016[^21-2] über Gebühren.
+
+[^21-1]: [SR 631.035](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7819)
+[^21-2]: [SR 232.148](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5978)
 
 ## 4. Kapitel: …
 

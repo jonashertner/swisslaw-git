@@ -4,11 +4,11 @@ title: "Ordinance of 26 April 1993 on Copyright and Related Rights (Copyright Or
 short: CopO
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1821_1821_1821"
 language: en
-version: 2022-01-01
+version: 2025-07-01
 adopted: 1993-04-26
 in_force: 1993-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1821_1821_1821/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1993-1821_1821_1821-20220101-en-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1821_1821_1821/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1821_1821_1821/20250701/en/xml/fedlex-data-admin-ch-eli-cc-1993-1821_1821_1821-20250701-en-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1821_1821_1821/20250701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Copyright Ordinance, CopO)
 
-of 26 April 1993 (Status as of 1 January 2022)
+of 26 April 1993 (Status as of 1 July 2025)
 
 The Swiss Federal Council,
 
@@ -28,8 +28,8 @@ on the basis of Articles 39*b*, 55 paragraph 2 and 78 of the Copyright Act of 9 
 ordains:
 
 [^ingress-1]: RU **1993** 1821 SR **231.1**
-[^ingress-2]: [SR 172.010.31](https://fedlex.data.admin.ch/eli/cc/1995/5050_5050_5050)
-[^ingress-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-2]: [SR 172.010.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5028)
+[^ingress-3]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^ingress-4]: Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2427](https://fedlex.data.admin.ch/eli/oc/2008/348)).
 
 ## Chapter 1 Federal Arbitration Commission for the Exploitation of Copyrights and Related Rights
@@ -57,7 +57,7 @@ ordains:
 <sup>2</sup> The members of the Commission are bound by official secrecy.
 
 [^2-1]: Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2427](https://fedlex.data.admin.ch/eli/oc/2008/348)).
-[^2-2]: [[AS 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651), [2000 1157](https://fedlex.data.admin.ch/eli/oc/2000/188), [2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819)No II. [AS 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)No II 1]. See now: Art. 8*a* et seq. of the Ordinance of 25 Nov. 1998 on the Organisation of the Government and the Federal Administration ([SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)).
+[^2-2]: [[AS 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651), [2000 1157](https://fedlex.data.admin.ch/eli/oc/2000/188), [2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819)No II. [AS 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)No II 1]. See now: Art. 8*a* et seq. of the Ordinance of 25 Nov. 1998 on the Organisation of the Government and the Federal Administration ([SR 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)).
 
 #### Art. 3
 
@@ -219,7 +219,7 @@ The expenses of the Arbitration Commission shall be invoiced separately. The fol
 - c. costs of work which the Arbitration Commission commissions third parties to carry out;
 - d. transmission and communication costs.
 
-[^16a-1]: [SR 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
+[^16a-1]: [SR 172.041.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5066)
 
 #### Art. 16b
 
@@ -243,7 +243,7 @@ The fees and expenses become due with the service of the reasoned written decisi
 
 In the absence of any specific provision in this Ordinance, the provisions of the General Fees Ordinance of 8 September 2004[^16d-1] apply.
 
-[^16d-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^16d-1]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ## Chapter 1*a.* Monitoring Office for Technological Measures
 
@@ -253,16 +253,11 @@ In the absence of any specific provision in this Ordinance, the provisions of th
 
 #### Art. 16e
 
-**Organisation**
+**Organization**[^16e-1]
 
-<sup>1</sup> The Swiss Federal Institute of Intellectual Property shall carry out the tasks of the monitoring office under Article 39*b* paragraph 1 CopA.[^16e-1]
+The Swiss Federal Institute of Intellectual Property (IPI) shall perform the duties of the specialized agency referred to in Article 39*b*, paragraph 1, of the Copyright Act.
 
-<sup>2</sup> and <sup>3</sup> ...[^16e-2]
-
-<sup>4</sup> The monitoring office does not charge fees for its activities.
-
-[^16e-1]: Amended by No I of the O of 29 Sept. 2017, in force since 1 Jan. 2018 ([AS 2017 6213](https://fedlex.data.admin.ch/eli/oc/2017/690)).
-[^16e-2]: Repealed by No I of the O of 29 Sept. 2017, in effect since 1 Jan. 2018 ([AS 2017 6213](https://fedlex.data.admin.ch/eli/oc/2017/690)).
+[^16e-1]: Amended by No I 1 of the O of 14 May 2025 on the Introduction of a Simplified Procedure for the Destruction of Small Consignments in Intellectual Property Law, with effect from 1 July 2025 ([AS 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 16f
 
@@ -311,92 +306,115 @@ The permitted use of a computer program in accordance with Article 12 paragraph 
 
 [^17a-1]: Inserted by Annex 2 No 3 of the Ordinance on Equality for People with Disabilities of 19 Nov. 2003 ([AS 2003 4501](https://fedlex.data.admin.ch/eli/oc/2003/668)). Repealed by No I of the O of 21 Mar. 2008, with effect from 1 July 2008 ([AS 2008 2427](https://fedlex.data.admin.ch/eli/oc/2008/348)).
 
-## Chapter 3 Assistance provided by the Federal Office for Customs and Border Security
+## Chapter 3 Assistance in the Movement of Goods into or out of the Customs Territory
 
 [^chap3-1]
 
-[^chap3-1]: The name of this administrative unit was amended on 1 Jan. 2022 in application of Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). This amendment has been made throughout the text.
+[^chap3-1]: Amended by No I 1 of the O of 14 May 2025 on the Introduction of a Simplified Procedure for the Destruction of Small Consignments in Intellectual Property Law, with effect from 1 July 2025 ([AS 2025 376](https://fedlex.data.admin.ch/eli/oc/2025/376)).
 
 #### Art. 18
 
-**Scope**[^18-1]
+**Scope**
 
-The assistance provided by the Federal Office for Customs and Border Security (FOCBS) shall extend to the movement of goods into or out of the customs territory if it is suspected that their distribution infringes applicable legislation in Switzerland on copyright and related rights.
+This chapter applies to assistance in the movement of goods into or out of the customs territory where there is a suspicion that their distribution violates the legislation in force in Switzerland regarding copyright or related rights.
 
-[^18-1]: Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
+#### Art. 18a
+
+**Small Consignment**
+
+A small consignment is defined as a shipment containing no more than three items and having a gross weight of less than five kilograms.
+
+#### Art. 18b
+
+**Request for Assistance**
+
+<sup>1</sup> Holders of copyright or related rights, or licensees entitled to bring legal action (applicants), must submit a request for assistance to the Federal Office of Customs and Border Security (FOCBS).
+
+<sup>2</sup> The BAZG shall decide on the application no later than 40 days after receiving the documents, once these have been submitted to the BAZG in full.
+
+<sup>3</sup> The approved application is valid for two years unless it is submitted for a shorter period of validity. It may be renewed.
 
 #### Art. 19
 
-**Application for assistance**
+**Detention of Goods**
 
-<sup>1</sup> The holders of the copyright or related rights or licensees entitled to initiate proceedings (applicants) must submit the application for assistance to the Directorate General of Customs.[^19-1]
+<sup>1</sup> If the BAZG detains goods, it shall store them for a fee or, at the applicant’s expense, entrust them to a third party for safekeeping.
 
-<sup>1bis</sup> The Directorate General of Customs shall make a decision on the application no later than 40 days after receipt of the complete documentation.[^19-2]
+<sup>2</sup> It shall notify the applicant of the name and address of the declarant, holder, or owner, a detailed description, the quantity, and the sender of the detained goods.
 
-<sup>2</sup> The application is valid for a period of two years unless a shorter period of validity is requested. It may be renewed.
+<sup>3</sup> If the goods constitute a small consignment and were destroyed under the simplified procedure, the Office shall notify the applicant of the quantity and type of the destroyed goods, as well as the sender.
 
-[^19-1]: Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
-[^19-2]: Inserted by No I 1 of the Ordinance of 6 June 2014 on Official Processing Times for Matters within the Jurisdiction of the Federal Customs Administration, in force since 1 Sept. 2014 ([AS 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
+<sup>4</sup> If it is already clear before the expiration of the time limit under Article 77(3) or (4) of the Copyright Act (URG) that the applicant cannot obtain precautionary measures, the goods shall be released immediately.
 
 #### Art. 20
 
-**Withholding of goods**
+**Transfer of jurisdiction in the case of small consignments**
 
-<sup>1</sup> If the customs office withholds goods, it shall retain the goods for a fee or shall place them in the custody of a third party at the cost of the applicant.[^20-1]
+<sup>1</sup> If the goods being detained constitute a small consignment, the OFCM shall transfer jurisdiction for the conduct of the proceedings to the IPI and shall hand over the goods to the IPI or to a third party designated by the IPI for safekeeping.
 
-<sup>2</sup> It shall provide the applicant with the name and address of the declarant, holder or owner, a precise description, and details of the quantity and the sender of the goods withheld in Switzerland or abroad.[^20-2]
-
-<sup>3</sup> If it is established prior to the expiry of the time limit under Article 77 paragraph 2 or paragraph 2<sup>bis</sup> [^20-3] CopA that the applicant will be unable to obtain preliminary measures, the goods shall be released immediately.[^20-4]
-
-[^20-1]: Amended by Annex 4 No 1 of the Customs Ordinance of 1 Nov. 2006, in force since 1 May 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^20-2]: Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
-[^20-3]: Now para. 2 and 3.
-[^20-4]: Amended by No I of the O of 17 May 1995, in force since 1 July 1995 ([AS 1995 1778](https://fedlex.data.admin.ch/eli/oc/1995/1778_1778_1778)).
+<sup>2</sup> If the IPI is the applicant, the OFCM shall remain competent.
 
 #### Art. 20a
 
-**Samples**[^20a-1]
+**Samples or specimens**
 
-<sup>1</sup> The applicant may request that samples are handed over or delivered to them for examination or that the goods are inspected. Instead of samples, the FOCBS may provide the applicant with photographs of the goods withheld if this enables the applicant to assess the goods.
+<sup>1</sup> The applicant may request the handover or mailing of samples or specimens for examination or the inspection of the goods.
 
-<sup>2</sup> The request may be submitted with the application for assistance to the Directorate General of Customs or, while the goods are being withheld, directly to the customs office that is withholding the goods.
+<sup>2</sup> The BAZG may also provide the applicant with photographs of the detained goods in lieu of samples or specimens, provided that these allow for an examination.
 
-[^20a-1]: Inserted by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
+<sup>3</sup> The request may be filed together with the request for assistance with the BAZG or, while the goods are being detained, with the competent authority.
 
 #### Art. 20b
 
-**Safeguarding of manufacturing and trade secrets**[^20b-1]
+**Protection of Trade and Business Secrets**
 
-<sup>1</sup> The FOCBS shall inform the declarant, holder or owner of the goods of the possibility of submitting a reasoned request for refusal to take samples. It shall set a suitable time limit for him or her to submit the request.
+<sup>1</sup> The declarant, holder, or owner of the goods may request the BAZG to refuse the taking of samples or specimens. The request must be substantiated.
 
-<sup>2</sup> If the FOCBS permits the applicant to inspect the withheld goods, it shall take appropriate consideration of the interests of the applicant and declarant, holder or owner when determining the date of inspection.
+<sup>2</sup> The BAZG shall inform the declarant, holder, or owner of the goods of the option under paragraph 1 and shall grant him or her a reasonable period of time.
 
-[^20b-1]: Inserted by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
+<sup>3</sup> If the BAZG permits the applicant to inspect the detained goods, it shall, when determining the time, take due account of the interests of the applicant as well as those of the declarant, holder, or owner.
 
 #### Art. 20c
 
-**Safekeeping of evidence in the event of destruction of goods**[^20c-1]
+**Preservation of Evidence in the Event of Destruction of the Goods**
 
-<sup>1</sup> The FOCBS shall keep the samples collected for a period of one year starting from the date of notification of the declarant, holder or owner in accordance with Article 77 paragraph 1 CopA. After this time limit expires, the FOCBS shall request the declarant, holder or owner to take possession of the samples or bear the costs of their continued safekeeping. If the declarant, holder or owner is not willing to do so or does not respond to this request within 30 days, the FOCBS shall destroy the samples.
+<sup>1</sup> The BAZG shall retain the samples or specimens for one year from the date of notification to the applicant, holder, or owner that the goods are being retained. After this period has expired, it shall request the declarant, holder, or owner to take possession of the samples or specimens or to bear the costs of further storage. If the declarant, holder, or owner fails to comply with the request or does not respond within 30 days, the BAZG shall destroy the samples or specimens.
 
-<sup>2</sup> Instead of collecting samples, the FOCBS may take photographs of the destroyed goods, provided this serves the purpose of preserving evidence.
+<sup>2</sup> The BAZG may, instead of taking samples or specimens, take photographs of the destroyed goods, provided that this ensures the purpose of securing evidence.
 
-[^20c-1]: Inserted by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
+#### Art. 20d
+
+**Processing, Disclosure, and Retention of Personal Data and Data of Legal Entities**
+
+<sup>1</sup>
+
+The authorities responsible for the enforcement of mutual assistance are authorized to process the following personal data and data of legal entities concerning persons involved in the movement of goods into or out of the customs territory or in the provision of mutual assistance, for the purposes set forth in Articles 75–77hbis of the Copyright Act, in particular in connection with the processing of requests for assistance, the reporting of suspicious shipments, the detention or destruction of goods, and the removal or dispatch of samples and specimens:
+
+- a. Personal details of the applicant, sender, declarant, holder, or owner of the goods, including their first and last names or company name and address;
+- b. Information and documents relating to applications under Article 76 of the URG;
+- c. Information and documents regarding the goods detained pursuant to Article 77 of the Copyright Act;
+- d. Information and documents regarding assistance, including the detention and destruction of goods as well as the taking and dispatch of samples and specimens.
+
+<sup>2</sup> If the IPI is responsible for conducting the proceedings, the OFC shall provide it with the necessary data pursuant to paragraph 1.
+
+<sup>3</sup> The competent authorities may retain the data for as long as required for the purpose of processing, but for no longer than five years after the expiration of the validity of a request for assistance or after the assistance has been provided.
 
 #### Art. 21
 
-**Fees**[^21-1]
+**Fees**
 
-The fees for assistance provided by the FOCBS are governed by the Ordinance of 4 April 2007[^21-2] on Federal Customs Administration Charges.
+<sup>1</sup> The fees for assistance provided by the BAZG are governed by the Ordinance of 4 April 2007[^21-1] on the Fees of the Federal Office for Customs and Border Security.
 
-[^21-1]: Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2541](https://fedlex.data.admin.ch/eli/oc/2008/362)).
-[^21-2]: [SR 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
+<sup>2</sup> If the IGE is responsible for conducting the proceedings, the fees are governed by the IGE Ordinance of 14 June 2016[^21-2] on Fees.
+
+[^21-1]: [SR 631.035](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7819)
+[^21-2]: [SR 232.148](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5978)
 
 ## Chapter 4 …
 
-#### Art. 21a–21f
+#### Art. 21a
 
-[^21a21f-1]
+***–***21***f*[^21a21f-1]**
 
 [^21a21f-1]: Inserted by No I of the O of 17 May 1995 ([AS 1995 1778](https://fedlex.data.admin.ch/eli/oc/1995/1778_1778_1778)). Repealed by No I of the O of 21 May 2008, with effect from 1 July 2008 ([AS 2008 2427](https://fedlex.data.admin.ch/eli/oc/2008/348)).
 
