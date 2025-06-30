@@ -4,11 +4,11 @@ title: Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)
 short: KVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
 language: de
-version: 2025-01-01
+version: 2025-07-01
 adopted: 1994-03-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20250101-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20250701/de/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20250701-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20250101/de"
 
 (KVG)
 
-vom 18. März 1994 (Stand am 1. Januar 2025)
+vom 18. März 1994 (Stand am 1. Juli 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 34<sup>bis</sup> der Bundesverfassung[^ingress-1],[^ingres
 
 beschliesst:
 
-[^ingress-1]: [BS **1** 3]. Dieser Bestimmung entspricht Artikel 117 der Bundesverfassung vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-1]: [BS **1** 3]. Dieser Bestimmung entspricht Artikel 117 der Bundesverfassung vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 [^ingress-2]: Fassung gemäss Ziff. I 9 des BG vom 8. Okt. 1999, in Kraft seit 1. Juni 2002 ([AS 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [BBl 1999 6128](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
 [^ingress-3]: [BBl 1992 I 93](https://fedlex.data.admin.ch/eli/fga/1992/1_93_77_65)
 
@@ -33,7 +33,7 @@ beschliesst:
 
 [^tit1-1]
 
-[^tit1-1]: Fassung gemäss Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^tit1-1]: Fassung gemäss Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
 
 #### Art. 1
 
@@ -49,16 +49,16 @@ Sie finden keine Anwendung in folgenden Bereichen:
 - d. Streitigkeiten der Versicherer unter sich (Art. 87);
 - e. Verfahren vor dem kantonalen Schiedsgericht (Art. 89).
 
-[^1-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^1-2]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^1-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^1-2]: [SR 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
 [^1-3]: Fassung gemäss Anhang Ziff. 2 des Krankenversicherungsaufsichtsgesetzes vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [BBl 2012 1941](https://fedlex.data.admin.ch/eli/fga/2012/352)).
 [^1-4]: Fassung gemäss Ziff. I der V der BVers vom 21. Juni 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3472](https://fedlex.data.admin.ch/eli/oc/2002/512); [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)).
 
-## 1a*.* Titel: Allgemeine Bestimmungen
+## 1*a**.* Titel: Allgemeine Bestimmungen
 
 [^tit1a-1]
 
-[^tit1a-1]: Eingefügt durch Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^tit1a-1]: Eingefügt durch Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
 
 #### Art. 1a
 
@@ -74,13 +74,13 @@ Die soziale Krankenversicherung gewährt Leistungen bei:
 - b. Unfall (Art. 4 ATSG), soweit dafür keine Unfallversicherung aufkommt;
 - c. Mutterschaft (Art. 5 ATSG).
 
-[^1a-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^1a-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 2
 
 [^2-1]
 
-[^2-1]: Aufgehoben durch Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^2-1]: Aufgehoben durch Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
 
 ## 2. Titel: Obligatorische Krankenpflegeversicherung
 
@@ -105,11 +105,11 @@ Er kann die Versicherungspflicht auf Personen ohne Wohnsitz in der Schweiz ausde
 
 <sup>4</sup> Die Versicherungspflicht wird sistiert für Personen, die während mehr als 60 aufeinander folgenden Tagen dem Bundesgesetz vom 19. Juni 1992[^3-5] über die Militärversicherung (MVG) unterstellt sind. Der Bundesrat regelt das Verfahren.[^3-6]
 
-[^3-1]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^3-1]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 [^3-2]: Fassung gemäss Anhang Ziff. II 11 des Gaststaatgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [BBl 2006 8017](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
-[^3-3]: Fassung gemäss Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
-[^3-4]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^3-5]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^3-3]: Fassung gemäss Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
+[^3-4]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^3-5]: [SR 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 [^3-6]: Eingefügt durch Ziff. I des BG vom 24. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); BBl **1999** 793).
 
 #### Art. 4
@@ -119,11 +119,11 @@ Er kann die Versicherungspflicht auf Personen ohne Wohnsitz in der Schweiz ausde
 Die versicherungspflichtigen Personen können unter den Versicherern, die nach dem KVAG[^4-2] eine Bewilligung zur Durchführung der sozialen Krankenversicherung haben, frei wählen.
 
 [^4-1]: Fassung gemäss Anhang Ziff. 2 des Krankenversicherungsaufsichtsgesetzes vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [BBl 2012 1941](https://fedlex.data.admin.ch/eli/fga/2012/352)).
-[^4-2]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^4-2]: [SR 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
 
 #### Art. 4a
 
-**Wahl des Versicherers für versicherungspflichtige Familienangehörige mit in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich[^4a-2]**[^4a-1]
+**Wahl des Versicherers für versicherungspflichtige Familienangehörige mit Wohnort in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich[^4a-2]**[^4a-1]
 
 Es sind beim selben Versicherer versichert:
 
@@ -203,7 +203,7 @@ Die Kantone informieren über die Versicherungspflicht:
 [^7-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
 [^7-2]: Ausdruck gemäss Ziff. I des BG vom 18. Juni 2021 (Massnahmen zur Kostendämpfung – Paket 1*a*), in Kraft seit 1. Jan. 2022 ([AS 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 [^7-3]: Fassung gemäss Ziff. I des BG vom 24. März 2000, in Kraft seit 1. Okt. 2000 ([AS 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); BBl **1999** 793).
-[^7-4]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^7-4]: [SR 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
 [^7-5]: Fassung gemäss Anhang Ziff. 2 des Krankenversicherungsaufsichtsgesetzes vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [BBl 2012 1941](https://fedlex.data.admin.ch/eli/fga/2012/352)).
 [^7-6]: Eingefügt durch Ziff. I des BG vom 24. März 2000, in Kraft seit 1. Okt. 2000 ([AS 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); BBl **1999** 793).
 [^7-7]: Eingefügt durch Ziff. I des BG vom 24. März 2000 ([AS 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); BBl **1999** 793). Fassung gemäss Anhang Ziff. 2 des Krankenversicherungsaufsichtsgesetzes vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [BBl 2012 1941](https://fedlex.data.admin.ch/eli/fga/2012/352)).
@@ -221,7 +221,7 @@ Die Kantone informieren über die Versicherungspflicht:
 
 <sup>3</sup> Die soziale Krankenversicherung übernimmt die Kosten für die Folgen derjenigen Unfälle, welche vor dem Ruhen der Versicherung bei ihr versichert waren.
 
-[^8-1]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^8-1]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 
 #### Art. 9
 
@@ -237,7 +237,7 @@ Der Versicherer hat die versicherte Person bei ihrem Beitritt zur sozialen Krank
 
 <sup>2</sup> Hat die versicherte Person ihre Pflicht nach Absatz 1 nicht erfüllt, so kann der Versicherer von ihr den Prämienanteil für die Unfalldeckung samt Verzugszinsen seit der Beendigung der Unfalldeckung nach UVG bis zum Zeitpunkt, in dem der Versicherer davon Kenntnis erhält, verlangen. Hat der Arbeitgeber oder die Arbeitslosenversicherung die Pflicht nach Absatz 1 nicht erfüllt, so kann der Versicherer die gleichen Forderungen ihnen gegenüber geltend machen.
 
-[^10-1]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^10-1]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 
 ### 2. Kapitel: Organisation
 
@@ -253,7 +253,7 @@ Der Versicherer hat die versicherte Person bei ihrem Beitritt zur sozialen Krank
 
 [^tit2-chap2-sec1a-1]
 
-[^tit2-chap2-sec1a-1]: Eingefügt durch Ziff. I des BG vom 21. März 2014, in Kraft seit 1. Jan. 2017 ([AS 2014 3345](https://fedlex.data.admin.ch/eli/oc/2014/580); [BBl 2013 7801](https://fedlex.data.admin.ch/eli/fga/2013/1479)[8387](https://fedlex.data.admin.ch/eli/fga/2013/1634)).
+[^tit2-chap2-sec1a-1]: Eingefügt durch Ziff. I des BG vom 21. März 2014, in Kraft seit 1. Jan. 2017 ([AS 2014 3345](https://fedlex.data.admin.ch/eli/oc/2014/580); [BBl 2013 7801](https://fedlex.data.admin.ch/eli/fga/2013/1479), [8387](https://fedlex.data.admin.ch/eli/fga/2013/1634)).
 
 #### Art. 16
 
@@ -269,8 +269,8 @@ Der Versicherer hat die versicherte Person bei ihrem Beitritt zur sozialen Krank
 
 <sup>5</sup> Versicherte, die am 31. Dezember des betreffenden Jahres unter 19 Jahre alt sind (Kinder), sind vom massgebenden Versichertenbestand ausgenommen.[^16-2]
 
-[^16-1]: Fassung gemäss Ziff. I des BG vom 21. März 2014, in Kraft seit 1. Jan. 2017 ([AS 2014 3345](https://fedlex.data.admin.ch/eli/oc/2014/580); [BBl 2013 7801](https://fedlex.data.admin.ch/eli/fga/2013/1479)[8387](https://fedlex.data.admin.ch/eli/fga/2013/1634)).
-[^16-2]: Eingefügt durch Ziff. I des BG vom 17. März 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 1843](https://fedlex.data.admin.ch/eli/oc/2018/276); [BBl 2016 7213](https://fedlex.data.admin.ch/eli/fga/2016/1540)[7943](https://fedlex.data.admin.ch/eli/fga/2016/1716)).
+[^16-1]: Fassung gemäss Ziff. I des BG vom 21. März 2014, in Kraft seit 1. Jan. 2017 ([AS 2014 3345](https://fedlex.data.admin.ch/eli/oc/2014/580); [BBl 2013 7801](https://fedlex.data.admin.ch/eli/fga/2013/1479), [8387](https://fedlex.data.admin.ch/eli/fga/2013/1634)).
+[^16-2]: Eingefügt durch Ziff. I des BG vom 17. März 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 1843](https://fedlex.data.admin.ch/eli/oc/2018/276); [BBl 2016 7213](https://fedlex.data.admin.ch/eli/fga/2016/1540), [7943](https://fedlex.data.admin.ch/eli/fga/2016/1716)).
 
 #### Art. 16a
 
@@ -284,7 +284,7 @@ Der Versicherer hat die versicherte Person bei ihrem Beitritt zur sozialen Krank
 
 <sup>4</sup> Als Erwachsene gelten junge Erwachsene sowie Versicherte, die am 31. Dezember des betreffenden Jahres 26 Jahre und älter sind.
 
-[^16a-1]: Eingefügt durch Ziff. I des BG vom 17. März 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 1843](https://fedlex.data.admin.ch/eli/oc/2018/276); [BBl 2016 7213](https://fedlex.data.admin.ch/eli/fga/2016/1540)[7943](https://fedlex.data.admin.ch/eli/fga/2016/1716)).t
+[^16a-1]: Eingefügt durch Ziff. I des BG vom 17. März 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 1843](https://fedlex.data.admin.ch/eli/oc/2018/276); [BBl 2016 7213](https://fedlex.data.admin.ch/eli/fga/2016/1540), [7943](https://fedlex.data.admin.ch/eli/fga/2016/1716)).
 
 #### Art. 17
 
@@ -296,7 +296,7 @@ Der Versicherer hat die versicherte Person bei ihrem Beitritt zur sozialen Krank
 
 <sup>3</sup> Der Bundesrat kann bei den Indikatoren der Morbidität Ausnahmen für die Berechnung des Risikoausgleichs vorsehen.
 
-[^17-1]: Fassung gemäss Ziff. I des BG vom 21. März 2014, in Kraft seit 1. Jan. 2017 ([AS 2014 3345](https://fedlex.data.admin.ch/eli/oc/2014/580); [BBl 2013 7801](https://fedlex.data.admin.ch/eli/fga/2013/1479)[8387](https://fedlex.data.admin.ch/eli/fga/2013/1634)).
+[^17-1]: Fassung gemäss Ziff. I des BG vom 21. März 2014, in Kraft seit 1. Jan. 2017 ([AS 2014 3345](https://fedlex.data.admin.ch/eli/oc/2014/580); [BBl 2013 7801](https://fedlex.data.admin.ch/eli/fga/2013/1479), [8387](https://fedlex.data.admin.ch/eli/fga/2013/1634)).
 
 #### Art. 17a
 
@@ -314,7 +314,7 @@ Der Bundesrat regelt:
 - b. die Leistung von Schadenersatz;
 - c. die Frist, nach deren Ablauf die gemeinsame Einrichtung eine Neuberechnung des Risikoausgleichs ablehnen darf.
 
-[^17a-1]: Eingefügt durch Ziff. I des BG vom 21. März 2014, in Kraft seit 1. Jan. 2017 ([AS 2014 3345](https://fedlex.data.admin.ch/eli/oc/2014/580); [BBl 2013 7801](https://fedlex.data.admin.ch/eli/fga/2013/1479)[8387](https://fedlex.data.admin.ch/eli/fga/2013/1634)).
+[^17a-1]: Eingefügt durch Ziff. I des BG vom 21. März 2014, in Kraft seit 1. Jan. 2017 ([AS 2014 3345](https://fedlex.data.admin.ch/eli/oc/2014/580); [BBl 2013 7801](https://fedlex.data.admin.ch/eli/fga/2013/1479), [8387](https://fedlex.data.admin.ch/eli/fga/2013/1634)).
 
 ### 2. Abschnitt: Gemeinsame Einrichtung
 
@@ -351,21 +351,21 @@ Der Bundesrat regelt:
 <sup>8</sup> Auf Beschwerden an das Bundesverwaltungsgericht gegen Verfügungen der gemeinsamen Einrichtung nach den Absätzen 2<sup>bis</sup>, 2<sup>ter</sup> und 2<sup>quinquies</sup> ist Artikel 85<sup>bis</sup> Absätze 2 und 3 des Bundesgesetzes vom 20. Dezember 1946[^18-15] über die Alters- und Hinterlassenenversicherung sinngemäss anwendbar.[^18-16]
 
 [^18-1]: Ausdruck gemäss Ziff. I des BG vom 18. Juni 2021 (Massnahmen zur Kostendämpfung – Paket 1*a*), in Kraft seit 1. Jan. 2022 ([AS 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
-[^18-2]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^18-2]: [SR 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
 [^18-3]: Fassung gemäss Anhang Ziff. 2 des Krankenversicherungsaufsichtsgesetzes vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [BBl 2012 1941](https://fedlex.data.admin.ch/eli/fga/2012/352)).
 [^18-4]: Eingefügt durch Ziff. I des BG vom 6. Okt. 2000 ([AS 2002 858](https://fedlex.data.admin.ch/eli/oc/2002/151); [BBl 2000 4083](https://fedlex.data.admin.ch/eli/fga/2000/875)). Fassung gemäss Ziff. I 8 des BG vom 14. Dez. 2001 betreffend die Bestimmungen über die Personenfreizügigkeit im Abk. zur Änd. des Übereink. zur Errichtung der EFTA, in Kraft seit 1. Juni 2002 ([AS 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [BBl 2001 4963](https://fedlex.data.admin.ch/eli/fga/2001/845)).
 [^18-5]: Eingefügt durch Ziff. I des BG vom 6. Okt. 2000 ([AS 2002 858](https://fedlex.data.admin.ch/eli/oc/2002/151); [BBl 2000 4083](https://fedlex.data.admin.ch/eli/fga/2000/875)). Fassung gemäss Ziff. I 8 des BG vom 14. Dez. 2001 betreffend die Bestimmungen über die Personenfreizügigkeit im Abk. zur Änd. des Übereink. zur Errichtung der EFTA, in Kraft seit 1. Juni 2002 ([AS 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [BBl 2001 4963](https://fedlex.data.admin.ch/eli/fga/2001/845)).
 [^18-6]: Eingefügt durch Ziff. I des BG vom 6. Okt. 2000 ([AS 2002 858](https://fedlex.data.admin.ch/eli/oc/2002/151); [BBl 2000 4083](https://fedlex.data.admin.ch/eli/fga/2000/875)). Fassung gemäss Ziff. I 8 des BG vom 14. Dez. 2001 betreffend die Bestimmungen über die Personenfreizügigkeit im Abk. zur Änd. des Übereink. zur Errichtung der EFTA, in Kraft seit 1. Juni 2002 ([AS 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [BBl 2001 4963](https://fedlex.data.admin.ch/eli/fga/2001/845)).
 [^18-7]: Eingefügt durch Ziff. I des BG vom 6. Okt. 2000, in Kraft seit 1. Juni 2002 ([AS 2002 858](https://fedlex.data.admin.ch/eli/oc/2002/151); [BBl 2000 4083](https://fedlex.data.admin.ch/eli/fga/2000/875)).
 [^18-8]: Eingefügt durch Ziff. I des BG vom 6. Okt. 2000, in Kraft seit 1. Juni 2002 ([AS 2002 858](https://fedlex.data.admin.ch/eli/oc/2002/151); [BBl 2000 4083](https://fedlex.data.admin.ch/eli/fga/2000/875)).
-[^18-9]: [SR 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
+[^18-9]: [SR 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
 [^18-10]: Eingefügt durch Ziff. II 1 des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
 [^18-11]: Fassung gemäss Ziff. I des BG vom 24. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); BBl **1999** 793).
 [^18-12]: Eingefügt durch Ziff. I des BG vom 6. Okt. 2000, in Kraft seit 1. Juni 2002 ([AS 2002 858](https://fedlex.data.admin.ch/eli/oc/2002/151); [BBl 2000 4083](https://fedlex.data.admin.ch/eli/fga/2000/875)).
-[^18-13]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^18-14]: Fassung des Satzes gemäss Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
-[^18-15]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^18-16]: Eingefügt durch Anhang Ziff. 110 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188)Art. 1 Bst. b; [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^18-13]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^18-14]: Fassung des Satzes gemäss Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
+[^18-15]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^18-16]: Eingefügt durch Anhang Ziff. 110 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188)Art. 1 Bst. b; [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### 3. Abschnitt: Förderung der Gesundheit
 
@@ -422,7 +422,7 @@ Die Daten sind aggregiert weiterzugeben. Der Bundesrat kann vorsehen, dass die D
 
 [^21a-1]
 
-[^21a-1]: Eingefügt durch Ziff. I des BG vom 18. Dez. 1998 ([AS 1999 2041](https://fedlex.data.admin.ch/eli/oc/1999/319); BBl **1998** 1335 1342). Aufgehoben durch Anhang Ziff. 2 des Krankenversicherungsaufsichtsgesetzes vom 26. Sept. 2014, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [BBl 2012 1941](https://fedlex.data.admin.ch/eli/fga/2012/352)).
+[^21a-1]: Eingefügt durch Ziff. I des BG vom 18. Dez. 1998 ([AS 1999 2041](https://fedlex.data.admin.ch/eli/oc/1999/319); BBl **1998** 1335, 1342). Aufgehoben durch Anhang Ziff. 2 des Krankenversicherungsaufsichtsgesetzes vom 26. Sept. 2014, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [BBl 2012 1941](https://fedlex.data.admin.ch/eli/fga/2012/352)).
 
 #### Art. 22
 
@@ -448,7 +448,7 @@ Die Daten sind aggregiert weiterzugeben. Der Bundesrat kann vorsehen, dass die D
 
 [^23-1]: Fassung gemäss Ziff. I des BG vom 21. Dez. 2007 (Spitalfinanzierung), in Kraft seit 1. Jan. 2009 ([AS 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
 [^23-2]: Fassung gemäss Ziff. I 1 des BG vom 19. März 2021 über die Datenweitergabe der Versicherer in der obligatorischen Krankenpflegeversicherung, in Kraft seit 1. Jan. 2023 ([AS 2022 731](https://fedlex.data.admin.ch/eli/oc/2022/731); [BBl 2019 5397](https://fedlex.data.admin.ch/eli/fga/2019/1903), [5925](https://fedlex.data.admin.ch/eli/fga/2019/2138)).
-[^23-3]: [SR 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^23-3]: [SR 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
 
 ### 3. Kapitel: Leistungen
 
@@ -537,7 +537,7 @@ Die obligatorische Krankenpflegeversicherung leistet einen Beitrag an die Pflege
 [^25a-7]: Eingefügt durch Anhang Ziff. 4 des BG vom 16. Dez. 2022 über die Förderung der Ausbildung im Bereich der Pflege, in Kraft seit 1. Juli 2024 ([AS 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [BBl 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
 [^25a-8]: Eingefügt durch Anhang Ziff. 4 des BG vom 16. Dez. 2022 über die Förderung der Ausbildung im Bereich der Pflege, in Kraft seit 1. Juli 2024 ([AS 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [BBl 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
 [^25a-9]: Eingefügt durch Anhang Ziff. 4 des BG vom 16. Dez. 2022 über die Förderung der Ausbildung im Bereich der Pflege, in Kraft seit 1. Juli 2024 ([AS 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [BBl 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
-[^25a-10]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 2989](https://fedlex.data.admin.ch/eli/oc/2018/457); [BBl 2016 3961](https://fedlex.data.admin.ch/eli/fga/2016/787)[4563](https://fedlex.data.admin.ch/eli/fga/2016/999)).
+[^25a-10]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 2989](https://fedlex.data.admin.ch/eli/oc/2018/457); [BBl 2016 3961](https://fedlex.data.admin.ch/eli/fga/2016/787), [4563](https://fedlex.data.admin.ch/eli/fga/2016/999)).
 
 #### Art. 26
 
@@ -551,8 +551,8 @@ Die obligatorische Krankenpflegeversicherung übernimmt die Kosten für bestimmt
 
 Die obligatorische Krankenpflegeversicherung übernimmt bei Geburtsgebrechen (Art. 3 Abs. 2 ATSG[^27-2]), die nicht durch die Invalidenversicherung gedeckt sind, die Kosten für die gleichen Leistungen wie bei Krankheit.
 
-[^27-1]: Fassung gemäss Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
-[^27-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^27-1]: Fassung gemäss Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
+[^27-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 28
 
@@ -586,8 +586,8 @@ Diese Leistungen umfassen:
 
 Bei straflosem Abbruch einer Schwangerschaft nach Artikel 119 des Strafgesetzbuches[^30-2] übernimmt die obligatorische Krankenpflegeversicherung die Kosten für die gleichen Leistungen wie bei Krankheit.
 
-[^30-1]: Fassung gemäss Ziff. II des BG vom 23. März 2001, in Kraft seit 1. Okt. 2002 ([AS 2002 2989](https://fedlex.data.admin.ch/eli/oc/2002/429); BBl **1998** 3005 5376).
-[^30-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^30-1]: Fassung gemäss Ziff. II des BG vom 23. März 2001, in Kraft seit 1. Okt. 2002 ([AS 2002 2989](https://fedlex.data.admin.ch/eli/oc/2002/429); BBl **1998** 3005, 5376).
+[^30-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 31
 
@@ -702,7 +702,7 @@ Leistungserbringer nach Artikel 35 Absatz 2 Buchstaben a–g, m und n dürfen nu
 <sup>3</sup> Die Zulassung der Organisationen nach Artikel 35 Absatz 2 Buchstabe d<sup>bis</sup> setzt einen kantonalen Leistungsauftrag voraus. Der Kanton legt im Leistungsauftrag insbesondere die zu erbringenden Ausbildungsleistungen fest; er berücksichtigt dabei die Kriterien nach Artikel 3 des Bundesgesetzes vom 16. Dezember 2022[^36a-2] über die Förderung der Ausbildung im Bereich der Pflege und des Ausbildungskonzepts nach Artikel 4 des genannten Gesetzes.[^36a-3]
 
 [^36a-1]: Eingefügt durch Ziff. I des BG vom 24. März 2000 ([AS 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); BBl **1999** 793). Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Zulassung von Leistungserbringern), in Kraft seit 1. Jan. 2022 ([AS 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [BBl 2018 3125](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
-[^36a-2]: [SR 811.22](https://fedlex.data.admin.ch/eli/cc/2024/212)
+[^36a-2]: [SR 811.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9329)
 [^36a-3]: Eingefügt durch Anhang Ziff. 4 des BG vom 16. Dez. 2022 über die Förderung der Ausbildung im Bereich der Pflege, in Kraft vom 1. Juli 2024 bis zum 30. Juni 2032 ([AS 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [BBl 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
 
 #### Art. 37
@@ -731,10 +731,10 @@ Die Kantone können Leistungserbringer nach Artikel 35 Absatz 2 Buchstabe a, die
 <sup>3</sup> Leistungserbringer nach den Absätzen 1, 1<sup>bis</sup> und 2 müssen sich einer zertifizierten Gemeinschaft oder Stammgemeinschaft nach Artikel 11 Buchstabe a des Bundesgesetzes vom 19. Juni 2015[^37-5] über das elektronische Patientendossier (EPDG) anschliessen.[^37-6]
 
 [^37-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Zulassung von Leistungserbringern), in Kraft seit 1. Jan. 2022 ([AS 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [BBl 2018 3125](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
-[^37-2]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^37-2]: [SR 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 [^37-3]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Ausnahmen von der Pflicht einer dreijährigen Tätigkeit), in Kraft vom 18. März 2023 bis zum 31. Dez. 2027 ([AS 2023 134](https://fedlex.data.admin.ch/eli/oc/2023/134); [BBl 2022 3125](https://fedlex.data.admin.ch/eli/fga/2022/3125); [2023 343](https://fedlex.data.admin.ch/eli/fga/2023/343)).
 [^37-4]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Ausnahmen von der Pflicht einer dreijährigen Tätigkeit), in Kraft vom 18. März 2023 bis zum 31. Dez. 2027 ([AS 2023 134](https://fedlex.data.admin.ch/eli/oc/2023/134); [BBl 2022 3125](https://fedlex.data.admin.ch/eli/fga/2022/3125); [2023 343](https://fedlex.data.admin.ch/eli/fga/2023/343)).
-[^37-5]: [SR 816.1](https://fedlex.data.admin.ch/eli/cc/2017/203)
+[^37-5]: [SR 816.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9640)
 [^37-6]: Fassung gemäss Ziff. II des BG vom 15. März 2024 (Übergangsfinanzierung, Einwilligung und Zugriff auf Abfragedienste), in Kraft seit 1. Okt. 2024 ([AS 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [BBl 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
 
 #### Art. 38
@@ -782,8 +782,8 @@ Anstalten oder deren Abteilungen, die der stationären Behandlung akuter Krankhe
 <sup>3</sup> Die Voraussetzungen nach Absatz 1 gelten sinngemäss für Geburtshäuser sowie für Anstalten, Einrichtungen oder ihre Abteilungen, die der Pflege und medizinischen Betreuung sowie der Rehabilitation von Langzeitpatienten und -patientinnen dienen (Pflegeheim).[^39-8]
 
 [^39-1]: Eingefügt durch Art. 25 des BG vom 19. Juni 2015 über das elektronische Patientendossier ([AS 2017 2201](https://fedlex.data.admin.ch/eli/oc/2017/203); [BBl 2013 5321](https://fedlex.data.admin.ch/eli/fga/2013/989)). Fassung gemäss Ziff. II des BG vom 15. März 2024 (Übergangsfinanzierung, Einwilligung und Zugriff auf Abfragedienste), in Kraft seit 1. Okt. 2024 ([AS 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [BBl 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
-[^39-2]: [SR 816.1](https://fedlex.data.admin.ch/eli/cc/2017/203)
-[^39-3]: [SR 811.22](https://fedlex.data.admin.ch/eli/cc/2024/212)
+[^39-2]: [SR 816.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9640)
+[^39-3]: [SR 811.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9329)
 [^39-4]: Eingefügt durch Anhang Ziff. 4 des BG vom 16. Dez. 2022 über die Förderung der Ausbildung im Bereich der Pflege, in Kraft vom 1. Juli 2024 bis zum 30. Juni 2032 ([AS 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [BBl 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
 [^39-5]: Fassung gemäss Ziff. I des BG vom 21. Dez. 2007 (Spitalfinanzierung), in Kraft seit 1. Jan. 2009 ([AS 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
 [^39-6]: Eingefügt durch Ziff. I des BG vom 21. Dez. 2007 (Spitalfinanzierung), in Kraft seit 1. Jan. 2009 ([AS 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
@@ -882,15 +882,15 @@ Medizinische Gründe nach den Absätzen 2 und 3 liegen bei einem Notfall vor ode
 <sup>6</sup> In Abweichung von Artikel 29 Absatz 2 ATSG ist für die Anmeldung von Leistungsansprüchen kein Formular nötig.[^42-10]
 
 [^42-1]: Eingefügt durch Ziff. I des BG vom 8. Okt. 2004 (Gesamtstrategie und Risikoausgleich), in Kraft seit 1. Jan. 2005 ([AS 2005 1071](https://fedlex.data.admin.ch/eli/oc/2005/139); [BBl 2004 4259](https://fedlex.data.admin.ch/eli/fga/2004/706)).
-[^42-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^42-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^42-3]: Dritter Satz eingefügt durch Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 [^42-4]: Fassung gemäss Ziff. I des BG vom 21. Dez. 2007 (Spitalfinanzierung), in Kraft seit 1. Jan. 2009 ([AS 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
 [^42-5]: Fassung des dritten bis fünften Satzes gemäss Ziff. I des BG vom 18. Juni 2021 (Massnahmen zur Kostendämpfung – Paket 1*a*), in Kraft seit 1. Jan. 2022 ([AS 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 [^42-6]: Sechster und siebter Satz eingefügt durch Ziff. I des BG vom 18. Juni 2021 (Massnahmen zur Kostendämpfung – Paket 1*a*), in Kraft seit 1. Jan. 2022 ([AS 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 [^42-7]: Fassung gemäss Ziff. I des BG vom 21. Dez. 2007 (Spitalfinanzierung), in Kraft seit 1. Jan. 2009 ([AS 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
-[^42-8]: Eingefügt durch Ziff. I des BG vom 23. Dez. 2011, in Kraft seit 1. Jan. 2013 ([AS 2012 4085](https://fedlex.data.admin.ch/eli/oc/2012/472); [BBl 2011 7385](https://fedlex.data.admin.ch/eli/fga/2011/1215)[7393](https://fedlex.data.admin.ch/eli/fga/2011/1217)).
-[^42-9]: Fassung gemäss Ziff. I des BG vom 23. Dez. 2011, in Kraft seit 1. Jan. 2013 ([AS 2012 4085](https://fedlex.data.admin.ch/eli/oc/2012/472); [BBl 2011 7385](https://fedlex.data.admin.ch/eli/fga/2011/1215)[7393](https://fedlex.data.admin.ch/eli/fga/2011/1217)).
-[^42-10]: Eingefügt durch Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^42-8]: Eingefügt durch Ziff. I des BG vom 23. Dez. 2011, in Kraft seit 1. Jan. 2013 ([AS 2012 4085](https://fedlex.data.admin.ch/eli/oc/2012/472); [BBl 2011 7385](https://fedlex.data.admin.ch/eli/fga/2011/1215), [7393](https://fedlex.data.admin.ch/eli/fga/2011/1217)).
+[^42-9]: Fassung gemäss Ziff. I des BG vom 23. Dez. 2011, in Kraft seit 1. Jan. 2013 ([AS 2012 4085](https://fedlex.data.admin.ch/eli/oc/2012/472); [BBl 2011 7385](https://fedlex.data.admin.ch/eli/fga/2011/1215), [7393](https://fedlex.data.admin.ch/eli/fga/2011/1217)).
+[^42-10]: Eingefügt durch Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
 
 #### Art. 42a
 
@@ -909,7 +909,7 @@ Medizinische Gründe nach den Absätzen 2 und 3 liegen bei einem Notfall vor ode
 [^42a-1]: Eingefügt durch Ziff. I des BG vom 8. Okt. 2004 (Gesamtstrategie und Risikoausgleich), in Kraft seit 1. Jan. 2005 ([AS 2005 1071](https://fedlex.data.admin.ch/eli/oc/2005/139); [BBl 2004 4259](https://fedlex.data.admin.ch/eli/fga/2004/706)).
 [^42a-2]: Ausdruck gemäss Anhang Ziff. 31 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 [^42a-3]: Fassung des zweiten Satzes gemäss Anhang Ziff. 11 des BG vom 23 Juni 2006 (Neue AHV-Versichertennummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-[^42a-4]: [SR 816.1](https://fedlex.data.admin.ch/eli/cc/2017/203)
+[^42a-4]: [SR 816.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9640)
 [^42a-5]: Eingefügt durch Art. 25 des BG vom 19. Juni 2015 über das elektronische Patientendossier ([AS 2017 2201](https://fedlex.data.admin.ch/eli/oc/2017/203); [BBl 2013 5321](https://fedlex.data.admin.ch/eli/fga/2013/989)). Fassung gemäss Ziff. II des BG vom 15. März 2024 (Übergangsfinanzierung, Einwilligung und Zugriff auf Abfragedienste), in Kraft seit 1. Okt. 2024 ([AS 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [BBl 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
 
 ### 4. Abschnitt: Tarife und Preise
@@ -1110,8 +1110,8 @@ Die Vergütungen nach Absatz 1 dürfen keine Kostenanteile für gemeinwirtschaft
 <sup>8</sup> In Zusammenarbeit mit den Kantonen ordnet der Bundesrat schweizweit Betriebsvergleiche zwischen Spitälern an, insbesondere zu Kosten und medizinischer Ergebnisqualität. Die Spitäler und die Kantone müssen dafür die nötigen Unterlagen liefern. Der Bundesrat veröffentlicht die Betriebsvergleiche.
 
 [^49-1]: Fassung gemäss Ziff. I des BG vom 21. Dez. 2007 (Spitalfinanzierung), in Kraft seit 1. Jan. 2009 ([AS 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
-[^49-2]: Fassung gemäss Ziff. I 3 des BG vom 13. Juni 2008 über die Neuordnung der Pflegefinanzierung, in Kraft seit 1. Jan. 2011 ([AS 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)Ziff. I; [BBl 2005 2033](https://fedlex.data.admin.ch/eli/fga/2005/237)).
-[^49-3]: Siehe auch: die UeB Änd. 22.10.2008 der V vom 22. Juni 1995 über die Krankenversicherung ([SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)).
+[^49-2]: Fassung gemäss Ziff. I 3 des BG vom 13. Juni 2008 über die Neuordnung der Pflegefinanzierung, in Kraft seit 1. Jan. 2011 ([AS 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432), [6847](https://fedlex.data.admin.ch/eli/oc/2009/836)Ziff. I; [BBl 2005 2033](https://fedlex.data.admin.ch/eli/fga/2005/237)).
+[^49-3]: Siehe auch: die UeB Änd. 22.10.2008 der V vom 22. Juni 1995 über die Krankenversicherung ([SR 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)).
 
 #### Art. 49a
 
@@ -1155,7 +1155,7 @@ Die Kantone übernehmen den kantonalen Anteil für folgende Personen:
 
 Beim Aufenthalt in einem Pflegeheim (Art. 39 Abs. 3) vergütet der Versicherer die gleichen Leistungen wie bei ambulanter Krankenpflege nach Artikel 25*a*. Die Absätze 7 und 8 von Artikel 49 sind sinngemäss anwendbar.
 
-[^50-1]: Fassung gemäss Ziff. I 3 des BG vom 13. Juni 2008 über die Neuordnung der Pflegefinanzierung, in Kraft seit 1. Jan. 2011 ([AS 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)Ziff. I; [BBl 2005 2033](https://fedlex.data.admin.ch/eli/fga/2005/237)).
+[^50-1]: Fassung gemäss Ziff. I 3 des BG vom 13. Juni 2008 über die Neuordnung der Pflegefinanzierung, in Kraft seit 1. Jan. 2011 ([AS 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432), [6847](https://fedlex.data.admin.ch/eli/oc/2009/836)Ziff. I; [BBl 2005 2033](https://fedlex.data.admin.ch/eli/fga/2005/237)).
 
 #### Art. 51
 
@@ -1191,8 +1191,8 @@ Nach Anhören der zuständigen Kommissionen und unter Berücksichtigung der Grun
 
 [^52-1]: Fassung gemäss Anhang Ziff. 4 des BG vom 16. Dez. 2022 über die Förderung der Ausbildung im Bereich der Pflege, in Kraft seit 1. Juli 2024 ([AS 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [BBl 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
 [^52-2]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2022 (Massnahmen zur Kostendämpfung – Paket 1*b*), in Kraft seit 1. Jan. 2024 ([AS 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
-[^52-3]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^52-4]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^52-3]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^52-4]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 [^52-5]: Fassung gemäss Anhang Ziff. 4 des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^52-6]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2022 (Massnahmen zur Kostendämpfung – Paket 1*b*), in Kraft seit 1. Jan. 2024 ([AS 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 [^52-7]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 18. Dez. 2020 (Vergütung des Pflegematerials), in Kraft seit 1. Okt. 2021 ([AS 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [BBl 2020 4825](https://fedlex.data.admin.ch/eli/fga/2020/1157)).
@@ -1231,8 +1231,8 @@ Das Beschwerdeverfahren richtet sich nach dem Verwaltungsgerichtsgesetz vom 17. 
 [^53-1]: Fassung gemäss Ziff. I des BG vom 21. Dez. 2007 (Spitalfinanzierung), in Kraft seit 1. Jan. 2009 ([AS 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
 [^53-2]: Fassung gemäss Ziff. IV des BG vom 18. Juni 2021 (Massnahmen zur Kostendämpfung – Paket 1*a*), in Kraft seit 1. Jan. 2023 ([AS 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 [^53-3]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2022 (Massnahmen zur Kostendämpfung – Paket 1*b*), in Kraft seit 1. Jan. 2024 ([AS 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
-[^53-4]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
-[^53-5]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^53-4]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+[^53-5]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ### 5. Abschnitt: Ausserordentliche Massnahmen zur Eindämmung der Kostenentwicklung
 
@@ -1329,8 +1329,8 @@ Der Leistungserbringer muss dem Schuldner der Vergütung die direkten oder indir
 
 <sup>6</sup> Leistungserbringer und Versicherer legen vertraglich eine Methode zur Kontrolle der Wirtschaftlichkeit fest.[^56-2]
 
-[^56-1]: Eingefügt durch Anhang Ziff. 4 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2020 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^56-2]: Eingefügt durch Ziff. I des BG vom 23. Dez. 2011, in Kraft seit 1. Jan. 2013 ([AS 2012 4087](https://fedlex.data.admin.ch/eli/oc/2012/473); [BBl 2011 2519](https://fedlex.data.admin.ch/eli/fga/2011/341)[2529](https://fedlex.data.admin.ch/eli/fga/2011/343)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
+[^56-1]: Eingefügt durch Anhang Ziff. 4 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2020 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280); [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^56-2]: Eingefügt durch Ziff. I des BG vom 23. Dez. 2011, in Kraft seit 1. Jan. 2013 ([AS 2012 4087](https://fedlex.data.admin.ch/eli/oc/2012/473); [BBl 2011 2519](https://fedlex.data.admin.ch/eli/fga/2011/341), [2529](https://fedlex.data.admin.ch/eli/fga/2011/343)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
 
 #### Art. 57
 
@@ -1353,9 +1353,9 @@ Der Leistungserbringer muss dem Schuldner der Vergütung die direkten oder indir
 <sup>8</sup> Die eidgenössischen Dachverbände der Ärzte und Ärztinnen sowie der Versicherer regeln die Weitergabe der Angaben nach Absatz 7 sowie die Weiterbildung und die Stellung der Vertrauensärzte und Vertrauensärztinnen. Können sie sich nicht einigen, so erlässt der Bundesrat die nötigen Vorschriften.
 
 [^57-1]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 19. Juni 2020 (Zulassung von Leistungserbringern), in Kraft seit 1. Jan. 2022 ([AS 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [BBl 2018 3125](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
-[^57-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^57-3]: Fassung des Satzes gemäss Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
-[^57-4]: Fassung gemäss Ziff. I des BG vom 21. Dez. 2007 (Risikoausgleich), in Kraft seit 1. Jan. 2012 ([AS 2009 4755](https://fedlex.data.admin.ch/eli/oc/2009/559)4757; [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
+[^57-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^57-3]: Fassung des Satzes gemäss Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
+[^57-4]: Fassung gemäss Ziff. I des BG vom 21. Dez. 2007 (Risikoausgleich), in Kraft seit 1. Jan. 2012 ([AS 2009 4755](https://fedlex.data.admin.ch/eli/oc/2009/559), 4757; [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
 
 #### Art. 58
 
@@ -1579,7 +1579,7 @@ Die folgenden Behörden können auf die Abfragedienste nach Artikel 14 Absatz 1 
 - b. die für die Aufsicht über die Leistungserbringer nach Artikel 35 Absatz 2 Buchstaben h−k zuständige kantonale Behörde.
 
 [^59abis-1]: Eingefügt durch Ziff. II des BG vom 15. März 2024 (Übergangsfinanzierung, Einwilligung und Zugriff auf Abfragedienste), in Kraft seit 1. Okt. 2024 ([AS 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [BBl 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
-[^59abis-2]: [SR 816.1](https://fedlex.data.admin.ch/eli/cc/2017/203)
+[^59abis-2]: [SR 816.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9640)
 
 ### 4*a*. Kapitel: Pilotprojekte zur Eindämmung der Kostenentwicklung
 
@@ -1648,7 +1648,7 @@ Pilotprojekte, die einen der folgenden Bereiche betreffen, dürfen von Bestimmun
 [^61-3]: Fassung gemäss Ziff. I des BG vom 17. März 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 1843](https://fedlex.data.admin.ch/eli/oc/2018/276); [BBl 2016 7213](https://fedlex.data.admin.ch/eli/fga/2016/1540)[7943](https://fedlex.data.admin.ch/eli/fga/2016/1716)).
 [^61-4]: Eingefügt durch Ziff. I des BG vom 24. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); BBl **1999** 793).
 [^61-5]: Eingefügt durch Ziff. I 9 des BG vom 8. Okt. 1999 zum Abk. zwischen der Schweizerischen Eidgenossenschaft einerseits und der EG sowie ihren Mitgliedstaaten andererseits über die Freizügigkeit ([AS 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [BBl 1999 6128](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)). Fassung gemäss Ziff. I 8 des BG vom 14. Dez. 2001 betreffend die Bestimmungen über die Personenfreizügigkeit im Abk. zur Änd. des Übereink. zur Errichtung der EFTA, in Kraft seit 1. Juni 2002 ([AS 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [BBl 2001 4963](https://fedlex.data.admin.ch/eli/fga/2001/845)).
-[^61-6]: Eingefügt durch Ziff. I des BG vom 18. Dez. 1998 ([AS 1999 2041](https://fedlex.data.admin.ch/eli/oc/1999/319); BBl **1998** 1335 1342). Ursprünglich Abs. 4. Aufgehoben durch Anhang Ziff. 2 des Krankenversicherungsaufsichtsgesetzes vom 26. Sept. 2014, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [BBl 2012 1941](https://fedlex.data.admin.ch/eli/fga/2012/352)).
+[^61-6]: Eingefügt durch Ziff. I des BG vom 18. Dez. 1998 ([AS 1999 2041](https://fedlex.data.admin.ch/eli/oc/1999/319); BBl **1998** 1335, 1342). Ursprünglich Abs. 4. Aufgehoben durch Anhang Ziff. 2 des Krankenversicherungsaufsichtsgesetzes vom 26. Sept. 2014, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [BBl 2012 1941](https://fedlex.data.admin.ch/eli/fga/2012/352)).
 
 #### Art. 61a
 
@@ -1693,7 +1693,7 @@ Der Bundesrat kann weitere Versicherungsformen zulassen, namentlich solche, bei 
 <sup>3</sup> Der Bundesrat regelt die besonderen Versicherungsformen näher. Er legt insbesondere aufgrund versicherungsmässiger Erfordernisse Höchstgrenzen für die Prämienermässigungen und Mindestgrenzen für die Prämienzuschläge fest. Der Risikoausgleich nach den Artikeln 16–17*a* bleibt in jedem Fall vorbehalten.[^62-2]
 
 [^62-1]: Eingefügt durch Ziff. I des BG vom 24. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); BBl **1999** 793). Siehe auch die SchlB dieser Änd. am Ende dieses Textes.
-[^62-2]: Fassung des driten Satzes gemäss Ziff. I des BG vom 21. März 2014, in Kraft seit 1. Jan. 2017 ([AS 2014 3345](https://fedlex.data.admin.ch/eli/oc/2014/580); [BBl 2013 7801](https://fedlex.data.admin.ch/eli/fga/2013/1479)[8387](https://fedlex.data.admin.ch/eli/fga/2013/1634)).
+[^62-2]: Fassung des driten Satzes gemäss Ziff. I des BG vom 21. März 2014, in Kraft seit 1. Jan. 2017 ([AS 2014 3345](https://fedlex.data.admin.ch/eli/oc/2014/580); [BBl 2013 7801](https://fedlex.data.admin.ch/eli/fga/2013/1479), [8387](https://fedlex.data.admin.ch/eli/fga/2013/1634)).
 
 #### Art. 63
 
@@ -1703,8 +1703,8 @@ Der Bundesrat kann weitere Versicherungsformen zulassen, namentlich solche, bei 
 
 <sup>2</sup> Der Bundesrat legt Höchstgrenzen für die Entschädigungen fest.
 
-[^63-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^63-2]: Fassung gemäss Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^63-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^63-2]: Fassung gemäss Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
 
 ### 3. Abschnitt: Kostenbeteiligung
 
@@ -1747,7 +1747,7 @@ Für folgende Leistungen darf der Versicherer keine Kostenbeteiligung erheben:
 
 [^64-1]: Eingefügt durch Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2024 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
 [^64-2]: Eingefügt durch Ziff. I des BG vom 24. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); BBl **1999** 793).
-[^64-3]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. März 2014 ([AS 2014 387](https://fedlex.data.admin.ch/eli/oc/2014/56); [BBl 2013 2459](https://fedlex.data.admin.ch/eli/fga/2013/418)[2469](https://fedlex.data.admin.ch/eli/fga/2013/420)).
+[^64-3]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. März 2014 ([AS 2014 387](https://fedlex.data.admin.ch/eli/oc/2014/56); [BBl 2013 2459](https://fedlex.data.admin.ch/eli/fga/2013/418), [2469](https://fedlex.data.admin.ch/eli/fga/2013/420)).
 [^64-4]: Eingefügt durch Ziff. I des BG vom 24. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); BBl **1999** 793). Siehe auch die SchlB dieser Änd. am Ende dieses Textes.
 
 ### 3*a*. Abschnitt: Nichtbezahlung von Prämien und Kostenbeteiligungen
@@ -1768,33 +1768,37 @@ Für folgende Leistungen darf der Versicherer keine Kostenbeteiligung erheben:
 
 <sup>3</sup> Der Versicherer gibt der zuständigen kantonalen Behörde die betroffenen Versicherten sowie, pro Schuldner und Schuldnerin, den Gesamtbetrag der Forderungen aus der obligatorischen Krankenpflegeversicherung (ausstehende Prämien und Kostenbeteiligungen sowie Verzugszinse und Betreibungskosten) bekannt, die während des berücksichtigten Zeitraumes zur Ausstellung eines Verlustscheines oder eines gleichwertigen Rechtstitels geführt haben. Er ersucht die vom Kanton bezeichnete Revisionsstelle, die Richtigkeit der Daten, die er dem Kanton bekannt gegeben hat, zu bestätigen und übermittelt die Bestätigung dem Kanton.
 
-<sup>4</sup> Der Kanton übernimmt 85 Prozent der Forderungen, die Gegenstand der Bekanntgabe nach Absatz 3 waren.[^64a-5]
+<sup>3bis</sup> Kann der Versicherer bei den Eltern oder dem Elternteil, der die Prämien schuldet, für ein Kind zu den in Absatz 3 erwähnten Forderungen keinen Verlustschein oder keinen gleichwertigen Rechtstitel erwirken, kann er diese Forderungen dem Kanton dennoch bekannt geben.[^64a-5]
 
-<sup>5</sup> Der Versicherer bewahrt die Verlustscheine und die gleichwertigen Rechtstitel bis zur vollständigen Bezahlung der ausstehenden Forderungen auf. Sobald die versicherte Person ihre Schuld vollständig oder teilweise gegenüber dem Versicherer beglichen hat, erstattet dieser 50 Prozent des von der versicherten Person erhaltenen Betrages an den Kanton zurück.
+<sup>4</sup> Der Kanton übernimmt 85 Prozent der Forderungen, die Gegenstand der Bekanntgabe nach den Absätzen 3 und 3<sup>bis</sup> waren. Der Versicherer bewahrt die Verlustscheine und die gleichwertigen Rechtstitel bis zur vollständigen Bezahlung der ausstehenden Forderungen auf. Sobald die Schuld vollständig oder teilweise gegenüber dem Versicherer beglichen ist, erstattet dieser 50 Prozent des erhaltenen Betrages an den Kanton zurück.[^64a-6]
 
-<sup>6</sup> In Abweichung von Artikel 7 kann die säumige versicherte Person den Versicherer nicht wechseln, solange die ausstehenden Prämien, Kostenbeteiligungen, Verzugszinse und Betreibungskosten nicht vollständig bezahlt sind. Kinder können den Versicherer nicht wechseln, wenn solche Ausstände für sie bestehen. Versicherte, die nur Ausstände für ihre Kinder haben, dürfen den Versicherer trotzdem wechseln. Artikel 7 Absätze 3 und 4 bleibt vorbehalten.[^64a-6]
+<sup>5</sup> Übernimmt der Kanton zusätzlich fünf Prozent der Forderungen, die der Versicherer ihm bekannt gegeben hat, so tritt der Versicherer ihm diese Forderungen ab. Der Kanton informiert die versicherte Person über die Abtretung. In diesen Fällen kann die versicherte Person den Versicherer in Abweichung von Absatz 6 wieder wechseln.[^64a-7]
 
-<sup>7</sup> Die Kantone können versicherte Personen, die ihrer Prämienpflicht trotz Betreibung nicht nachkommen, auf einer Liste erfassen, welche nur den Leistungserbringern, der Gemeinde und dem Kanton zugänglich ist. Die Versicherer schieben für diese Versicherten auf Meldung des Kantons die Übernahme der Kosten für Leistungen mit Ausnahme der Notfallbehandlungen auf und erstatten der zuständigen kantonalen Behörde Meldung über den Leistungsaufschub und dessen Aufhebung nach Begleichung der ausstehenden Forderungen. Eine Notfallbehandlung liegt vor, wenn die Behandlung nicht aufgeschoben werden kann. Dies ist der Fall, wenn die versicherte Person ohne sofortige Behandlung gesundheitliche Schäden oder den Tod befürchten muss oder die Gesundheit anderer Personen gefährden kann.[^64a-7]
+<sup>6</sup> In Abweichung von Artikel 7 kann die säumige versicherte Person den Versicherer nicht wechseln, solange die ausstehenden Prämien, Kostenbeteiligungen, Verzugszinse und Betreibungskosten nicht vollständig bezahlt sind. Kinder können den Versicherer nicht wechseln, wenn solche Ausstände für sie bestehen. Versicherte, die nur Ausstände für ihre Kinder haben, dürfen den Versicherer trotzdem wechseln. Artikel 7 Absätze 3 und 4 bleibt vorbehalten.[^64a-8]
 
-<sup>7bis</sup> Versicherte, die volljährig geworden sind, können den Versicherer in Abweichung von Absatz 6 auf das Ende des Kalenderjahres auch wechseln, wenn Prämien, Kostenbeteiligungen, Verzugszinse oder Betreibungskosten aus der Zeit ihrer Minderjährigkeit ausstehen. Bei versicherungspflichtigen Familienangehörigen mit Wohnort in einem Mitgliedstaat der Europäischen Union, in Island, Norwegen oder im Vereinigten Königreich geht Artikel 4*a* vor.[^64a-8]
+<sup>7</sup> Die Kantone können versicherte Personen, die ihrer Prämienpflicht trotz Betreibung nicht nachkommen, auf einer Liste erfassen, welche nur den Leistungserbringern, der Gemeinde und dem Kanton zugänglich ist. Die Versicherer schieben für diese Versicherten auf Meldung des Kantons die Übernahme der Kosten für Leistungen mit Ausnahme der Notfallbehandlungen auf und erstatten der zuständigen kantonalen Behörde Meldung über den Leistungsaufschub und dessen Aufhebung nach Begleichung der ausstehenden Forderungen. Eine Notfallbehandlung liegt vor, wenn die Behandlung nicht aufgeschoben werden kann. Dies ist der Fall, wenn die versicherte Person ohne sofortige Behandlung gesundheitliche Schäden oder den Tod befürchten muss oder die Gesundheit anderer Personen gefährden kann.[^64a-9]
 
-<sup>7ter</sup> Die Kantone und die Versicherer tauschen ihre Daten nach einem einheitlichen Standard aus. Der Bundesrat regelt die Einzelheiten, nachdem er die Kantone und die Versicherer angehört hat.[^64a-9]
+<sup>7bis</sup> Versicherte, die volljährig geworden sind, können den Versicherer in Abweichung von Absatz 6 auf das Ende des Kalenderjahres auch wechseln, wenn Prämien, Kostenbeteiligungen, Verzugszinse oder Betreibungskosten aus der Zeit ihrer Minderjährigkeit ausstehen. Bei versicherungspflichtigen Familienangehörigen mit Wohnort in einem Mitgliedstaat der Europäischen Union, in Island, Norwegen oder im Vereinigten Königreich geht Artikel 4*a* vor.[^64a-10]
 
-<sup>8</sup> Der Bundesrat legt die Aufgaben der Revisionsstelle fest und bezeichnet die einem Verlustschein gleichzusetzenden Rechtstitel. Er regelt zudem die Gebühren für Mahnungen und Zahlungsaufforderungen, die Einzelheiten des Mahn- und Betreibungsverfahrens sowie der Zahlungen der Kantone an die Versicherer.[^64a-10]
+<sup>7ter</sup> Die Kantone und die Versicherer tauschen ihre Daten nach einem einheitlichen Standard aus. Der Bundesrat regelt die Einzelheiten, nachdem er die Kantone und die Versicherer angehört hat.[^64a-11]
 
-<sup>9</sup> Der Bundesrat erlässt Bestimmungen über die Nichtbezahlung von Prämien und Kostenbeteiligungen der versicherungspflichtigen Personen, die in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnen. Ist es nach dem Recht des betreffenden Staates möglich, dass der Versicherer die unbezahlten Prämien und Kostenbeteiligungen einbringt, so kann der Bundesrat die Kantone zur Übernahme von 85 Prozent der Forderungen, die Gegenstand der Bekanntgabe nach Absatz 3 waren, verpflichten. Ist es nach dem Recht des betreffenden Staates nicht möglich, so kann der Bundesrat den Versicherern das Recht gewähren, die Übernahme der Kosten für die Leistungen aufzuschieben.[^64a-11]
+<sup>8</sup> Der Bundesrat legt die Aufgaben der Revisionsstelle fest und bezeichnet die einem Verlustschein gleichzusetzenden Rechtstitel. Er regelt zudem die Gebühren für Mahnungen und Zahlungsaufforderungen, die Einzelheiten des Mahn- und Betreibungsverfahrens sowie der Zahlungen der Kantone an die Versicherer.[^64a-12]
 
-[^64a-1]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2012 ([AS 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [BBl 2009 6617](https://fedlex.data.admin.ch/eli/fga/2009/1165)[6631](https://fedlex.data.admin.ch/eli/fga/2009/1167)).
+<sup>9</sup> Der Bundesrat erlässt Bestimmungen über die Nichtbezahlung von Prämien und Kostenbeteiligungen der versicherungspflichtigen Personen, die in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnen. Ist es nach dem Recht des betreffenden Staates möglich, dass der Versicherer die unbezahlten Prämien und Kostenbeteiligungen einbringt, so kann der Bundesrat die Kantone zur Übernahme von 85 Prozent der Forderungen, die Gegenstand der Bekanntgabe nach Absatz 3 waren, verpflichten. Ist es nach dem Recht des betreffenden Staates nicht möglich, so kann der Bundesrat den Versicherern das Recht gewähren, die Übernahme der Kosten für die Leistungen aufzuschieben.[^64a-13]
+
+[^64a-1]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2012 ([AS 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [BBl 2009 6617](https://fedlex.data.admin.ch/eli/fga/2009/1165), [6631](https://fedlex.data.admin.ch/eli/fga/2009/1167)).
 [^64a-2]: Eingefügt durch Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2024 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
 [^64a-3]: Fassung des zweiten Satzes Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2025 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
 [^64a-4]: Dritter und vierter Satz eingefügt durch Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2025 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
-[^64a-5]: Siehe auch die UeB Änd. 19.3.2010 am Schluss dieses Textes.
-[^64a-6]: Fassung gemäss Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2024 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
-[^64a-7]: Dritter und vierter Satz eingefügt durch Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2024 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
-[^64a-8]: Eingefügt durch Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2024 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)). Fassung gemäss Anhang Ziff. 1 des BB vom 16. Dez. 2022 über die Genehmigung und die Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweiz und dem Vereinigten Königreich, in Kraft seit 1. März 2024 ([AS 2024 74](https://fedlex.data.admin.ch/eli/oc/2024/74); [BBl 2022 1180](https://fedlex.data.admin.ch/eli/fga/2022/1180)).
-[^64a-9]: Eingefügt durch Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2024 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
-[^64a-10]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2024 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
-[^64a-11]: Zweiter und dritter Satz eingefügt durch Ziff. I des BG vom 30. Sept. 2016 (Anpassung von Bestimmungen mit internationalem Bezug), in Kraft seit 1. Jan. 2018 ([AS 2017 6717](https://fedlex.data.admin.ch/eli/oc/2017/748); [BBl 2016 1](https://fedlex.data.admin.ch/eli/fga/2016/1)).
+[^64a-5]: Eingefügt durch Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Juli 2025 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-6]: Fassung gemäss Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Juli 2025 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
+[^64a-7]: Fassung gemäss Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Juli 2025 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-8]: Fassung gemäss Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2024 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-9]: Dritter und vierter Satz eingefügt durch Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2024 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-10]: Eingefügt durch Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2024 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)). Fassung gemäss Anhang Ziff. 1 des BB vom 16. Dez. 2022 über die Genehmigung und die Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweiz und dem Vereinigten Königreich, in Kraft seit 1. März 2024 ([AS 2024 74](https://fedlex.data.admin.ch/eli/oc/2024/74); [BBl 2022 1180](https://fedlex.data.admin.ch/eli/fga/2022/1180)).
+[^64a-11]: Eingefügt durch Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2024 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-12]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2024 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-13]: Zweiter und dritter Satz eingefügt durch Ziff. I des BG vom 30. Sept. 2016 (Anpassung von Bestimmungen mit internationalem Bezug), in Kraft seit 1. Jan. 2018 ([AS 2017 6717](https://fedlex.data.admin.ch/eli/oc/2017/748); [BBl 2016 1](https://fedlex.data.admin.ch/eli/fga/2016/1)).
 
 ### 4. Abschnitt: Prämienverbilligung durch Beiträge der öffentlichen Hand
 
@@ -1819,18 +1823,18 @@ Für folgende Leistungen darf der Versicherer keine Kostenbeteiligung erheben:
 <sup>6</sup> Die Kantone machen dem Bund zur Überprüfung der sozial- und familienpolitischen Ziele anonymisierte Angaben über die begünstigten Versicherten. Der Bundesrat erlässt die notwendigen Vorschriften dazu.[^65-7]
 
 [^65-1]: Fassung gemäss Ziff. I des BG vom 24. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); BBl **1999** 793). Siehe auch die SchlB dieser Änd. am Ende dieses Textes.
-[^65-2]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2012 ([AS 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [BBl 2009 6617](https://fedlex.data.admin.ch/eli/fga/2009/1165)[6631](https://fedlex.data.admin.ch/eli/fga/2009/1167)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
-[^65-3]: Eingefügt durch Ziff. I des BG vom 18. März 2005 (Prämienverbilligung ([AS 2005 3587](https://fedlex.data.admin.ch/eli/oc/2005/523); [BBl 2004 4327](https://fedlex.data.admin.ch/eli/fga/2004/711)). Fassung gemäss Ziff. I des BG vom 17. März 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 1843](https://fedlex.data.admin.ch/eli/oc/2018/276); [BBl 2016 7213](https://fedlex.data.admin.ch/eli/fga/2016/1540)[7943](https://fedlex.data.admin.ch/eli/fga/2016/1716)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
-[^65-4]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2012 ([AS 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [BBl 2009 6617](https://fedlex.data.admin.ch/eli/fga/2009/1165)[6631](https://fedlex.data.admin.ch/eli/fga/2009/1167)).
-[^65-5]: Eingefügt durch Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2012 ([AS 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [BBl 2009 6617](https://fedlex.data.admin.ch/eli/fga/2009/1165)[6631](https://fedlex.data.admin.ch/eli/fga/2009/1167)).
-[^65-6]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2012 ([AS 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [BBl 2009 6617](https://fedlex.data.admin.ch/eli/fga/2009/1165)[6631](https://fedlex.data.admin.ch/eli/fga/2009/1167)).
+[^65-2]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2012 ([AS 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [BBl 2009 6617](https://fedlex.data.admin.ch/eli/fga/2009/1165), [6631](https://fedlex.data.admin.ch/eli/fga/2009/1167)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+[^65-3]: Eingefügt durch Ziff. I des BG vom 18. März 2005 (Prämienverbilligung ([AS 2005 3587](https://fedlex.data.admin.ch/eli/oc/2005/523); [BBl 2004 4327](https://fedlex.data.admin.ch/eli/fga/2004/711)). Fassung gemäss Ziff. I des BG vom 17. März 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 1843](https://fedlex.data.admin.ch/eli/oc/2018/276); [BBl 2016 7213](https://fedlex.data.admin.ch/eli/fga/2016/1540), [7943](https://fedlex.data.admin.ch/eli/fga/2016/1716)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
+[^65-4]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2012 ([AS 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [BBl 2009 6617](https://fedlex.data.admin.ch/eli/fga/2009/1165), [6631](https://fedlex.data.admin.ch/eli/fga/2009/1167)).
+[^65-5]: Eingefügt durch Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2012 ([AS 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [BBl 2009 6617](https://fedlex.data.admin.ch/eli/fga/2009/1165), [6631](https://fedlex.data.admin.ch/eli/fga/2009/1167)).
+[^65-6]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2012 ([AS 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [BBl 2009 6617](https://fedlex.data.admin.ch/eli/fga/2009/1165), [6631](https://fedlex.data.admin.ch/eli/fga/2009/1167)).
 [^65-7]: Fassung gemäss Ziff. I des BG vom 18. März 2005 (Prämienverbilligung), in Kraft seit 1. Jan. 2006 ([AS 2005 3587](https://fedlex.data.admin.ch/eli/oc/2005/523); [BBl 2004 4327](https://fedlex.data.admin.ch/eli/fga/2004/711)).
 
 #### Art. 65a
 
 **Prämienverbilligung durch die Kantone für Versicherte, die in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnen**[^65a-1]
 
-Die Kantone gewähren folgenden Versicherten in bescheidenen wirtschaftlichen Verhältnissen, die in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnen, Prämienverbilligungen:
+Die Kantone gewähren folgenden Versicherten in bescheidenen wirtschaftlichen Verhältnissen, in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnen, Prämienverbilligungen:
 
 - a. den Grenzgängern und Grenzgängerinnen sowie deren Familienangehörigen;
 - b. den Familienangehörigen von Kurzaufenthaltern und ‑aufenthalterinnen, von Aufenthaltern und Aufenthalterinnen und von Niedergelassenen;
@@ -1882,7 +1886,7 @@ Die Taggeldversicherung kann als Kollektivversicherung abgeschlossen werden. Kol
 - b. Arbeitgeberorganisationen und Berufsverbänden für ihre Mitglieder und die Arbeitnehmer und Arbeitnehmerinnen ihrer Mitglieder;
 - c. Arbeitnehmerorganisationen für ihre Mitglieder.
 
-[^67-1]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^67-1]: [SR 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
 [^67-2]: Fassung gemäss Anhang Ziff. 2 des Krankenversicherungsaufsichtsgesetzes vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [BBl 2012 1941](https://fedlex.data.admin.ch/eli/fga/2012/352)).
 
 #### Art. 68
@@ -1948,10 +1952,10 @@ Der neue Versicherer darf keine neuen Vorbehalte anbringen, wenn die versicherte
 <sup>6</sup> Artikel 19 Absatz 2 ATSG kommt nur zur Anwendung, wenn der Arbeitgeber die Taggeldversicherung mitfinanziert hat. Vorbehalten bleiben andere vertragliche Abreden.[^72-6]
 
 [^72-1]: Eingefügt durch Anhang Ziff. 2 des Krankenversicherungsaufsichtsgesetzes vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [BBl 2012 1941](https://fedlex.data.admin.ch/eli/fga/2012/352)).
-[^72-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^72-3]: Fassung gemäss Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
-[^72-4]: Fassung gemäss Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
-[^72-5]: Fassung gemäss Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^72-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^72-3]: Fassung gemäss Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
+[^72-4]: Fassung gemäss Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
+[^72-5]: Fassung gemäss Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
 [^72-6]: Eingefügt durch Ziff. I der V der BVers vom 21. Juni 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)).
 
 #### Art. 73
@@ -1962,8 +1966,8 @@ Der neue Versicherer darf keine neuen Vorbehalte anbringen, wenn die versicherte
 
 <sup>2</sup> Arbeitslose Versicherte haben gegen angemessene Prämienanpassung Anspruch auf Änderung ihrer bisherigen Versicherung in eine Versicherung mit Leistungsbeginn ab dem 31. Tag unter Beibehaltung der bisherigen Taggeldhöhe und ohne Berücksichtigung des Gesundheitszustandes im Zeitpunkt der Änderung.
 
-[^73-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^73-2]: Fassung gemäss Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^73-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^73-2]: Fassung gemäss Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
 
 #### Art. 74
 
@@ -2005,7 +2009,7 @@ Die Versicherer können in der Kollektivversicherung von der Einzelversicherung 
 
 [^tit4-1]
 
-[^tit4-1]: Fassung gemäss Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^tit4-1]: Fassung gemäss Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
 
 #### Art. 78
 
@@ -2043,13 +2047,13 @@ Das Rückgriffsrecht nach Artikel 72 ATSG[^79a-2] gilt sinngemäss:
 <sup>2</sup> Die gemeinsame Einrichtung macht das Rückgriffsrecht für die Kantone nach Absatz 1 Buchstabe b geltend.
 
 [^79a-1]: Eingefügt durch Ziff. I des BG vom 21. Dez. 2007 (Spitalfinanzierung) ([AS 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)). Fassung gemäss Ziff. I des BG vom 30. Sept. 2016 (Anpassung von Bestimmungen mit internationalem Bezug), in Kraft seit 1. Jan. 2019 ([AS 2017 6717](https://fedlex.data.admin.ch/eli/oc/2017/748); [BBl 2016 1](https://fedlex.data.admin.ch/eli/fga/2016/1)).
-[^79a-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^79a-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 ## 5. Titel: Besondere Bestimmungen zum Verfahren und zur Rechtspflege, Strafbestimmungen
 
 [^tit5-1]
 
-[^tit5-1]: Fassung gemäss Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^tit5-1]: Fassung gemäss Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
 
 #### Art. 80
 
@@ -2061,16 +2065,16 @@ Das Rückgriffsrecht nach Artikel 72 ATSG[^79a-2] gilt sinngemäss:
 
 <sup>3</sup> Der Versicherer darf den Erlass einer Verfügung nicht von der Erschöpfung eines internen Instanzenzuges abhängig machen.
 
-[^80-1]: Fassung gemäss Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
-[^80-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^80-3]: Fassung gemäss Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
-[^80-4]: Aufgehoben durch Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^80-1]: Fassung gemäss Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
+[^80-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^80-3]: Fassung gemäss Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
+[^80-4]: Aufgehoben durch Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
 
 #### Art. 81
 
 [^81-1]
 
-[^81-1]: Aufgehoben durch Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^81-1]: Aufgehoben durch Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
 
 #### Art. 82
 
@@ -2082,7 +2086,7 @@ In Abweichung von Artikel 33 ATSG[^82-2] geben die Versicherer den zuständigen 
 - b. die Festsetzung der Prämienverbilligung.
 
 [^82-1]: Fassung gemäss Ziff. I der V der BVers vom 21. Juni 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)).
-[^82-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^82-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^82-3]: Fassung gemäss Anhang Ziff. 6 des BG vom 21. Juni 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [BBl 2018 1607](https://fedlex.data.admin.ch/eli/fga/2018/671)).
 
 #### Art. 82a
@@ -2091,7 +2095,7 @@ In Abweichung von Artikel 33 ATSG[^82-2] geben die Versicherer den zuständigen 
 
 Das BAG kontrolliert, ob die Leistungserbringer Vergünstigungen nach Artikel 56 Absatz 3 Buchstabe b unter Berücksichtigung von Artikel 56 Absatz 3<sup>bis</sup> an den Schuldner der Vergütung und an die Versicherer weitergeben beziehungsweise zur Verbesserung der Qualität der Behandlung einsetzen. Es ist befugt, bei Versicherern und Leistungserbringern sowie deren Lieferanten sämtliche dafür notwendigen Angaben zu erheben und die Weitergabe von Vergünstigungen zu verfügen.
 
-[^82a-1]: Eingefügt durch Anhang Ziff. 4 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2020 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^82a-1]: Eingefügt durch Anhang Ziff. 4 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2020 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280); [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 83
 
@@ -2100,7 +2104,7 @@ Das BAG kontrolliert, ob die Leistungserbringer Vergünstigungen nach Artikel 56
 Die mit der Durchführung, der Kontrolle oder der Beaufsichtigung der Durchführung dieses Gesetzes betrauten Organe sind befugt, die AHV-Nummer nach den Bestimmungen des Bundesgesetzes vom 20. Dezember 1946[^83-2] über die Alters- und Hinterlassenenversicherung für die Erfüllung ihrer gesetzlichen Aufgaben systematisch zu verwenden.
 
 [^83-1]: Fassung gemäss Anhang Ziff. 11 des BG vom 23 Juni 2006 (Neue AHV-Versichertennummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-[^83-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^83-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 84
 
@@ -2123,11 +2127,11 @@ Die mit der Durchführung oder mit der Kontrolle oder Beaufsichtigung der Durchf
 <sup>2</sup> Zur Erfüllung dieser Aufgaben sind sie darüber hinaus befugt, Personendaten, die namentlich die Beurteilung der Gesundheit, der Schwere des physischen oder psychischen Leidens, der Bedürfnisse und der wirtschaftlichen Situation der versicherten Person erlauben, zu bearbeiten oder bearbeiten zu lassen.[^84-7]
 
 [^84-1]: Fassung gemäss Ziff. I des BG vom 23. Juni 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2755](https://fedlex.data.admin.ch/eli/oc/2000/463); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)).
-[^84-2]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^84-2]: [SR 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
 [^84-3]: Fassung gemäss Anhang 1 Ziff. II 82 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^84-4]: Heute: nach Art. 65 und 65*a*.
 [^84-5]: Eingefügt durch Anhang Ziff. 11 des BG vom 23 Juni 2006 (Neue AHV-Versichertennummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-[^84-6]: Eingefügt durch Ziff. I des BG vom 21. Dez. 2007 (Risikoausgleich), in Kraft seit 1. Jan. 2012 ([AS 2009 4755](https://fedlex.data.admin.ch/eli/oc/2009/559)4757; [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
+[^84-6]: Eingefügt durch Ziff. I des BG vom 21. Dez. 2007 (Risikoausgleich), in Kraft seit 1. Jan. 2012 ([AS 2009 4755](https://fedlex.data.admin.ch/eli/oc/2009/559), 4757; [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
 [^84-7]: Eingefügt durch Anhang 1 Ziff. II 82 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 84a
@@ -2178,20 +2182,20 @@ In den übrigen Fällen dürfen Daten in Abweichung von Artikel 33 ATSG an Dritt
 <sup>8</sup> Die Daten werden in der Regel schriftlich und kostenlos bekannt gegeben. Der Bundesrat kann die Erhebung einer Gebühr vorsehen, wenn besonders aufwendige Arbeiten erforderlich sind.
 
 [^84a-1]: Eingefügt durch Ziff. I des BG vom 23. Juni 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2755](https://fedlex.data.admin.ch/eli/oc/2000/463); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)).
-[^84a-2]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
-[^84a-3]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^84a-2]: [SR 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
+[^84a-3]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^84a-4]: Fassung gemäss Anhang Ziff. 2 des Krankenversicherungsaufsichtsgesetzes vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [BBl 2012 1941](https://fedlex.data.admin.ch/eli/fga/2012/352)).
 [^84a-5]: Fassung gemäss Anhang Ziff. 2 des Krankenversicherungsaufsichtsgesetzes vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [BBl 2012 1941](https://fedlex.data.admin.ch/eli/fga/2012/352)).
 [^84a-6]: Eingefügt durch Anhang Ziff. 11 des BG vom 23 Juni 2006 (Neue AHV-Versichertennummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-[^84a-7]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
-[^84a-8]: [SR 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^84a-7]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^84a-8]: [SR 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
 [^84a-9]: Fassung gemäss Ziff. I des BG vom 21. Dez. 2007 (Spitalfinanzierung), in Kraft seit 1. Jan. 2009 ([AS 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
-[^84a-10]: Eingefügt durch Anhang Ziff. 11 des BG vom 23. Dez. 2011 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Fassung gemäss Anhang Ziff. II 17 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^84a-11]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^84a-12]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^84a-10]: Eingefügt durch Anhang Ziff. 11 des BG vom 23. Dez. 2011 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729); [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Fassung gemäss Anhang Ziff. II 17 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^84a-11]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^84a-12]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^84a-13]: Eingefügt durch Anhang Ziff. 28 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), in Kraft seit 1. Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^84a-14]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^84a-15]: Eingefügt durch Anhang Ziff. 11 des BG vom 23. Dez. 2011 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Aufgehoben durch Anhang Ziff. II 17 des Nachrichtendienstgesetzes vom 25. Sept. 2015, mit Wirkung seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^84a-14]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^84a-15]: Eingefügt durch Anhang Ziff. 11 des BG vom 23. Dez. 2011 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729); [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Aufgehoben durch Anhang Ziff. II 17 des Nachrichtendienstgesetzes vom 25. Sept. 2015, mit Wirkung seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 [^84a-16]: Fassung gemäss Ziff. I der V der BVers vom 21. Juni 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)).
 [^84a-17]: Aufgehoben durch Ziff. I der V der BVers vom 21. Juni 2002, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)).
 [^84a-18]: Fassung gemäss Ziff. I der V der BVers vom 21. Juni 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)).
@@ -2204,8 +2208,8 @@ In den übrigen Fällen dürfen Daten in Abweichung von Artikel 33 ATSG an Dritt
 
 Die Versicherer treffen die erforderlichen technischen und organisatorischen Massnahmen zur Sicherstellung des Datenschutzes; sie erstellen insbesondere die gemäss Datenschutzverordnung vom 31. August 2022[^84b-2] notwendigen Bearbeitungsreglemente. Diese werden dem oder der Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten zur Beurteilung vorgelegt und sind öffentlich zugänglich.
 
-[^84b-1]: Eingefügt durch Ziff. I des BG vom 21. Dez. 2007 (Risikoausgleich), in Kraft seit 1. Jan. 2012 ([AS 2009 4755](https://fedlex.data.admin.ch/eli/oc/2009/559)4757; [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
-[^84b-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Sept. 2023 angepasst.
+[^84b-1]: Eingefügt durch Ziff. I des BG vom 21. Dez. 2007 (Risikoausgleich), in Kraft seit 1. Jan. 2012 ([AS 2009 4755](https://fedlex.data.admin.ch/eli/oc/2009/559), 4757; [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
+[^84b-2]: [SR 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Sept. 2023 angepasst.
 
 #### Art. 85
 
@@ -2213,8 +2217,8 @@ Die Versicherer treffen die erforderlichen technischen und organisatorischen Mas
 
 Der Versicherer darf den Erlass eines Einspracheentscheides nicht von der Erschöpfung eines internen Instanzenzuges abhängig machen.
 
-[^85-1]: Fassung gemäss Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
-[^85-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^85-1]: Fassung gemäss Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
+[^85-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 86
 
@@ -2222,8 +2226,8 @@ Der Versicherer darf den Erlass eines Einspracheentscheides nicht von der Ersch�
 
 Die Versicherer dürfen das Recht der Versicherten, Beschwerde bei einem kantonalen Versicherungsgericht zu erheben, nicht von der Erschöpfung eines internen Instanzenzuges abhängig machen.
 
-[^86-1]: Fassung gemäss Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
-[^86-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^86-1]: Fassung gemäss Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
+[^86-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 87
 
@@ -2231,13 +2235,13 @@ Die Versicherer dürfen das Recht der Versicherten, Beschwerde bei einem kantona
 
 Bei Streitigkeiten der Versicherer unter sich ist das Versicherungsgericht desjenigen Kantons zuständig, in dem der beklagte Versicherer seinen Sitz hat.
 
-[^87-1]: Fassung gemäss Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^87-1]: Fassung gemäss Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
 
 #### Art. 88
 
 [^88-1]
 
-[^88-1]: Aufgehoben durch Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrecht , mit Wirkung seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^88-1]: Aufgehoben durch Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrecht , mit Wirkung seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
 
 #### Art. 89
 
@@ -2259,7 +2263,7 @@ Bei Streitigkeiten der Versicherer unter sich ist das Versicherungsgericht desje
 
 [^90-1]
 
-[^90-1]: Aufgehoben durch Anhang Ziff. 110 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188)Art. 1 Bst. b; [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^90-1]: Aufgehoben durch Anhang Ziff. 110 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188)Art. 1 Bst. b; [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 90a
 
@@ -2269,8 +2273,8 @@ Bei Streitigkeiten der Versicherer unter sich ist das Versicherungsgericht desje
 
 <sup>2</sup> Das Bundesverwaltungsgericht beurteilt Beschwerden gegen Beschlüsse der Kantonsregierungen nach Artikel 53.[^90a-3]
 
-[^90a-1]: Eingefügt durch Ziff. I des BG vom 6. Okt. 2000 ([AS 2002 858](https://fedlex.data.admin.ch/eli/oc/2002/151); [BBl 2000 4083](https://fedlex.data.admin.ch/eli/fga/2000/875)). Fassung gemäss Anhang Ziff. 110 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188)Art. 1 Bst. b; [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^90a-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^90a-1]: Eingefügt durch Ziff. I des BG vom 6. Okt. 2000 ([AS 2002 858](https://fedlex.data.admin.ch/eli/oc/2002/151); [BBl 2000 4083](https://fedlex.data.admin.ch/eli/fga/2000/875)). Fassung gemäss Anhang Ziff. 110 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188)Art. 1 Bst. b; [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^90a-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^90a-3]: Eingefügt durch Ziff. I des BG vom 21. Dez. 2007 (Spitalfinanzierung), in Kraft seit 1. Jan. 2009 ([AS 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
 
 #### Art. 91
@@ -2279,8 +2283,8 @@ Bei Streitigkeiten der Versicherer unter sich ist das Versicherungsgericht desje
 
 Gegen Entscheide des kantonalen Schiedsgerichts kann nach Massgabe des Bundesgerichtsgesetzes vom 17. Juni 2005[^91-2] beim Bundesgericht Beschwerde geführt werden.
 
-[^91-1]: Fassung gemäss Anhang Ziff. 110 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188)Art. 1 Bst. b; [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^91-2]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^91-1]: Fassung gemäss Anhang Ziff. 110 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188)Art. 1 Bst. b; [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^91-2]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 92
 
@@ -2297,12 +2301,12 @@ Mit Geldstrafe bis zu 180 Tagessätzen, sofern nicht ein mit einer höheren Stra
 
 <sup>2</sup> In Abweichung von Artikel 79 Absatz 2 ATSG[^92-5] verfolgt und beurteilt das BAG die Widerhandlungen gegen Artikel 56 Absatz 3 Buchstabe b in Verbindung mit Artikel 92 Absatz 1 Buchstabe d.[^92-6]
 
-[^92-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^92-2]: Fassung gemäss Art. 333 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in der Fassung des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+[^92-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^92-2]: Fassung gemäss Art. 333 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)) in der Fassung des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
 [^92-3]: Aufgehoben durch Anhang Ziff. 2 des Krankenversicherungsaufsichtsgesetzes vom 26. Sept. 2014, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [BBl 2012 1941](https://fedlex.data.admin.ch/eli/fga/2012/352)).
 [^92-4]: Eingefügt durch Anhang Ziff. II 8 des Heilmittelgesetzes vom 15. Dez. 2000, in Kraft seit 1. Jan. 2002 ([AS 2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422); BBl **1999** 3453).
-[^92-5]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^92-6]: Eingefügt durch Anhang Ziff. 4 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2020 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^92-5]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^92-6]: Eingefügt durch Anhang Ziff. 4 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2020 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280); [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 93
 
@@ -2326,7 +2330,7 @@ Mit Geldstrafe bis zu 180 Tagessätzen, sofern nicht ein mit einer höheren Stra
 
 [^95-1]
 
-[^95-1]: Aufgehoben durch Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^95-1]: Aufgehoben durch Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
 
 ## 6. Titel: Verhältnis zum europäischen Recht
 
@@ -2361,12 +2365,12 @@ In Bezug auf Personen, für die die Rechtsvorschriften der sozialen Sicherheit d
 <sup>4</sup> Die Ausdrücke «Mitgliedstaaten der Europäischen Union», «Mitgliedstaaten der Europäischen Gemeinschaft», «Staaten der Europäischen Union» und «Staaten der Europäischen Gemeinschaft» im vorliegenden Gesetz bezeichnen die Staaten, für die das Freizügigkeitsabkommen gilt.
 
 [^95a-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016 (Anpassung von Bestimmungen mit internationalem Bezug), in Kraft seit 1. Jan. 2018 ([AS 2017 6717](https://fedlex.data.admin.ch/eli/oc/2017/748); [BBl 2016 1](https://fedlex.data.admin.ch/eli/fga/2016/1)).
-[^95a-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^95a-3]: Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit ([SR 0.831.109.268.1](https://fedlex.data.admin.ch/eli/cc/2012/323)).
-[^95a-4]: Verordnung (EG) Nr. 987/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 zur Festlegung der Modalitäten für die Durchführung der Verordnung (EG) Nr. 883/2004 über die Koordinierung der Systeme der sozialen Sicherheit ([SR 0.831.109.268.11](https://fedlex.data.admin.ch/eli/cc/2012/356)).
-[^95a-5]: Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern; in der jeweils gültigen Fassung des Freizügigkeitsabkommens ([AS 2004 121](https://fedlex.data.admin.ch/eli/oc/2004/11), [2008 4219](https://fedlex.data.admin.ch/eli/oc/2008/604)[4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 4831](https://fedlex.data.admin.ch/eli/oc/2009/573)) bzw. des revidierten EFTA-Übereinkommens.
-[^95a-6]: Verordnung (EWG) Nr. 574/72 des Rates vom 21. März 1972 über die Durchführung der Verordnung (EWG) Nr. 1408/71 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern; in der jeweils gültigen Fassung des Freizügigkeitsabkommens ([AS 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540), [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113)[4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) bzw. des revidierten EFTA-Übereinkommens.
-[^95a-7]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^95a-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^95a-3]: Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit ([SR 0.831.109.268.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3724)).
+[^95a-4]: Verordnung (EG) Nr. 987/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 zur Festlegung der Modalitäten für die Durchführung der Verordnung (EG) Nr. 883/2004 über die Koordinierung der Systeme der sozialen Sicherheit ([SR 0.831.109.268.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3725)).
+[^95a-5]: Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern; in der jeweils gültigen Fassung des Freizügigkeitsabkommens ([AS 2004 121](https://fedlex.data.admin.ch/eli/oc/2004/11); [2008 4219](https://fedlex.data.admin.ch/eli/oc/2008/604), [4273](https://fedlex.data.admin.ch/eli/oc/2008/605); [2009 4831](https://fedlex.data.admin.ch/eli/oc/2009/573)) bzw. des revidierten EFTA-Übereinkommens.
+[^95a-6]: Verordnung (EWG) Nr. 574/72 des Rates vom 21. März 1972 über die Durchführung der Verordnung (EWG) Nr. 1408/71 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern; in der jeweils gültigen Fassung des Freizügigkeitsabkommens ([AS 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540); [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605); [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113), [4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) bzw. des revidierten EFTA-Übereinkommens.
+[^95a-7]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 
 ## 7. Titel: Schlussbestimmungen
 
@@ -2413,8 +2417,8 @@ Der Bundesrat ist mit dem Vollzug dieses Gesetzes beauftragt. Er erlässt die Au
 
 <sup>3</sup> Wird das Vermögen einer aufgelösten Krankenkasse nicht durch Fusion auf einen anderen Versicherer im Sinne von Artikel 11 dieses Gesetzes übertragen, so fällt ein allfälliger Vermögensüberschuss bei privatrechtlich organisierten Krankenkassen in den Insolvenzfonds der gemeinsamen Einrichtung (Art. 18).
 
-[^99-1]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^99-2]: Fassung des dritten Satzes gemäss Anhang Ziff. 12 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^99-1]: [SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^99-2]: Fassung des dritten Satzes gemäss Anhang Ziff. 12 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736), [5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
 #### Art. 100
 
@@ -2446,7 +2450,7 @@ Der Bundesrat ist mit dem Vollzug dieses Gesetzes beauftragt. Er erlässt die Au
 
 <sup>5</sup> Nach bisherigem Recht bestehende Versicherungsverträge mit anderen Versicherern als anerkannten Krankenkassen für Risiken, die nach diesem Gesetz aus der freiwilligen Taggeldversicherung gedeckt werden, können innert eines Jahres nach dessen Inkrafttreten auf Verlangen des Versicherungsnehmers oder der Versicherungsnehmerin dem neuen Recht angepasst werden, wenn der Versicherer die freiwillige Taggeldversicherung nach diesem Gesetz durchführt.
 
-[^102-1]: Siehe heute: das BG vom 17. Dez. 2004 ([SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)).
+[^102-1]: Siehe heute: das BG vom 17. Dez. 2004 ([SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)).
 
 #### Art. 103
 
@@ -2468,13 +2472,13 @@ Der Bundesrat ist mit dem Vollzug dieses Gesetzes beauftragt. Er erlässt die Au
 
 [^104a-1]
 
-[^104a-1]: Eingefügt durch Ziff. I des BG vom 24. März 2000 ([AS 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); BBl **1999** 793). Aufgehoben durch Ziff. I 3 des BG vom 13. Juni 2008 über die Neuordnung der Pflegefinanzierung, mit Wirkung seit 1. Jan. 2011 ([AS 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)Ziff. I; [BBl 2005 2033](https://fedlex.data.admin.ch/eli/fga/2005/237)).
+[^104a-1]: Eingefügt durch Ziff. I des BG vom 24. März 2000 ([AS 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); BBl **1999** 793). Aufgehoben durch Ziff. I 3 des BG vom 13. Juni 2008 über die Neuordnung der Pflegefinanzierung, mit Wirkung seit 1. Jan. 2011 ([AS 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432), [6847](https://fedlex.data.admin.ch/eli/oc/2009/836)Ziff. I; [BBl 2005 2033](https://fedlex.data.admin.ch/eli/fga/2005/237)).
 
 #### Art. 105
 
 [^105-1]
 
-[^105-1]: Aufgehoben durch Ziff. I des BG vom 21. Dez. 2007 (Risikoausgleich), mit Wirkung seit 1. Jan. 2012 ([AS 2009 4755](https://fedlex.data.admin.ch/eli/oc/2009/559)4757; [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
+[^105-1]: Aufgehoben durch Ziff. I des BG vom 21. Dez. 2007 (Risikoausgleich), mit Wirkung seit 1. Jan. 2012 ([AS 2009 4755](https://fedlex.data.admin.ch/eli/oc/2009/559), 4757; [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
 
 #### Art. 105a
 
@@ -2527,19 +2531,19 @@ Datum des Inkrafttretens: 1. Januar 1996[^107-1] Art. 11–14, 18, 61 Abs. 4, 76
 
 [^u2-1]
 
-[^u2-1]: [AS 2004 4375](https://fedlex.data.admin.ch/eli/oc/2004/666); [BBl 2004 4259](https://fedlex.data.admin.ch/eli/fga/2004/706). Aufgehoben durch Ziff. I des BG vom 20. Dez. 2006 (Pflegetarife), mit Wirkung seit 21. Dez. 2006 ([AS 2006 5767](https://fedlex.data.admin.ch/eli/oc/2006/855); [BBl 2006 7555](https://fedlex.data.admin.ch/eli/fga/2006/922)[7563](https://fedlex.data.admin.ch/eli/fga/2006/924)).
+[^u2-1]: [AS 2004 4375](https://fedlex.data.admin.ch/eli/oc/2004/666); [BBl 2004 4259](https://fedlex.data.admin.ch/eli/fga/2004/706). Aufgehoben durch Ziff. I des BG vom 20. Dez. 2006 (Pflegetarife), mit Wirkung seit 21. Dez. 2006 ([AS 2006 5767](https://fedlex.data.admin.ch/eli/oc/2006/855); [BBl 2006 7555](https://fedlex.data.admin.ch/eli/fga/2006/922), [7563](https://fedlex.data.admin.ch/eli/fga/2006/924)).
 
 ## Schlussbestimmungen zur Änderung vom 18. März 2005 (Prämienverbilligung)
 
 [^u3-1]
 
-[^u3-1]: [AS 2005 3587](https://fedlex.data.admin.ch/eli/oc/2005/523); [BBl 2004 4327](https://fedlex.data.admin.ch/eli/fga/2004/711). Aufgehoben durch Ziff. I des BG vom 17. März 2017, mit Wirkung seit 1. Jan. 2019 ([AS 2018 1843](https://fedlex.data.admin.ch/eli/oc/2018/276); [BBl 2016 7213](https://fedlex.data.admin.ch/eli/fga/2016/1540)[7943](https://fedlex.data.admin.ch/eli/fga/2016/1716)).
+[^u3-1]: [AS 2005 3587](https://fedlex.data.admin.ch/eli/oc/2005/523); [BBl 2004 4327](https://fedlex.data.admin.ch/eli/fga/2004/711). Aufgehoben durch Ziff. I des BG vom 17. März 2017, mit Wirkung seit 1. Jan. 2019 ([AS 2018 1843](https://fedlex.data.admin.ch/eli/oc/2018/276); [BBl 2016 7213](https://fedlex.data.admin.ch/eli/fga/2016/1540), [7943](https://fedlex.data.admin.ch/eli/fga/2016/1716)).
 
 ## Übergangsbestimmungen der Änderung vom 20. Dezember 2006 (Pflegetarife)
 
 [^u4-1]
 
-[^u4-1]: [AS 2006 5767](https://fedlex.data.admin.ch/eli/oc/2006/855); [BBl 2006 7555](https://fedlex.data.admin.ch/eli/fga/2006/922)[7563](https://fedlex.data.admin.ch/eli/fga/2006/924). In Kraft bis zum 31. Dez. 2008.
+[^u4-1]: [AS 2006 5767](https://fedlex.data.admin.ch/eli/oc/2006/855); [BBl 2006 7555](https://fedlex.data.admin.ch/eli/fga/2006/922), [7563](https://fedlex.data.admin.ch/eli/fga/2006/924). In Kraft bis zum 31. Dez. 2008.
 
 ## Übergangsbestimmungen zur Änderung vom 21. Dezember 2007 (Spitalfinanzierung)
 
@@ -2566,7 +2570,7 @@ Datum des Inkrafttretens: 1. Januar 1996[^107-1] Art. 11–14, 18, 61 Abs. 4, 76
 
 [^u6-1]
 
-[^u6-1]: [AS 2009 4755](https://fedlex.data.admin.ch/eli/oc/2009/559); [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024). Aufgehoben durch Ziff. I des BG vom 21. März 2014, mit Wirkung seit 1. Jan. 2017 ([AS 2014 3345](https://fedlex.data.admin.ch/eli/oc/2014/580); [BBl 2013 7801](https://fedlex.data.admin.ch/eli/fga/2013/1479)[8387](https://fedlex.data.admin.ch/eli/fga/2013/1634)).
+[^u6-1]: [AS 2009 4755](https://fedlex.data.admin.ch/eli/oc/2009/559); [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024). Aufgehoben durch Ziff. I des BG vom 21. März 2014, mit Wirkung seit 1. Jan. 2017 ([AS 2014 3345](https://fedlex.data.admin.ch/eli/oc/2014/580); [BBl 2013 7801](https://fedlex.data.admin.ch/eli/fga/2013/1479), [8387](https://fedlex.data.admin.ch/eli/fga/2013/1634)).
 
 ## Übergangsbestimmungen zur Änderung vom 13. Juni 2008 (Pflegefinanzierung)
 
@@ -2582,13 +2586,13 @@ Datum des Inkrafttretens: 1. Januar 1996[^107-1] Art. 11–14, 18, 61 Abs. 4, 76
 
 [^u8-1]
 
-[^u8-1]: [AS 2009 5265](https://fedlex.data.admin.ch/eli/oc/2009/618); [BBl 2009 3413](https://fedlex.data.admin.ch/eli/fga/2009/650)[3423](https://fedlex.data.admin.ch/eli/fga/2009/652). In Kraft bis 31. Dez. 2011.
+[^u8-1]: [AS 2009 5265](https://fedlex.data.admin.ch/eli/oc/2009/618); [BBl 2009 3413](https://fedlex.data.admin.ch/eli/fga/2009/650), [3423](https://fedlex.data.admin.ch/eli/fga/2009/652). In Kraft bis 31. Dez. 2011.
 
 ## Übergangsbestimmungen zur Änderung vom 19. März 2010
 
 [^u9-1]
 
-[^u9-1]: [AS 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [BBl 2009 6617](https://fedlex.data.admin.ch/eli/fga/2009/1165)[6631](https://fedlex.data.admin.ch/eli/fga/2009/1167)
+[^u9-1]: [AS 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [BBl 2009 6617](https://fedlex.data.admin.ch/eli/fga/2009/1165), [6631](https://fedlex.data.admin.ch/eli/fga/2009/1167)
 
 <sup>2</sup> Wenn der Kanton die ausstehenden, zum Zeitpunkt des Inkrafttretens dieser Änderung fälligen Prämien und Kostenbeteiligungen, die zur Ausstellung eines Verlustscheins oder eines gleichwertigen Rechtstitels geführt haben, nicht übernimmt, bleiben die Aufschübe der Kostenübernahme für die Leistungen, die gestützt auf bisheriges Recht verfügt wurden, bestehen und die bis zum Inkrafttreten dieser Änderung erbrachten Leistungen werden nicht zurückerstattet. Sobald die versicherte Person die ausstehenden Prämien und Kostenbeteiligungen sowie die Verzugszinse und Betreibungskosten vollständig bezahlt hat, übernimmt der Versicherer die Kosten der erbrachten Leistungen.
 
@@ -2603,7 +2607,7 @@ Datum des Inkrafttretens: 1. Januar 1996[^107-1] Art. 11–14, 18, 61 Abs. 4, 76
 
 [^u10-1]
 
-[^u10-1]: [AS 2012 4087](https://fedlex.data.admin.ch/eli/oc/2012/473); [BBl 2011 2519](https://fedlex.data.admin.ch/eli/fga/2011/341)[2529](https://fedlex.data.admin.ch/eli/fga/2011/343)
+[^u10-1]: [AS 2012 4087](https://fedlex.data.admin.ch/eli/oc/2012/473); [BBl 2011 2519](https://fedlex.data.admin.ch/eli/fga/2011/341), [2529](https://fedlex.data.admin.ch/eli/fga/2011/343)
 
 Für die Leistungserbringer nach Artikel 35 Absatz 2 Buchstabe a legt der Bundesrat die Methode zur Kontrolle der Wirtschaftlichkeit nach Artikel 56 Absatz 6 fest, wenn Versicherer und Leistungserbringer sich nicht innert 12 Monaten nach Inkrafttreten der vorliegenden Änderung vertraglich auf eine Methode geeinigt haben.
 
@@ -2627,13 +2631,13 @@ Für die Leistungserbringer nach Artikel 35 Absatz 2 Buchstabe a legt der Bundes
 
 [^u13-1]
 
-[^u13-1]: [AS 2016 2265](https://fedlex.data.admin.ch/eli/oc/2016/361); [BBl 2016 3515](https://fedlex.data.admin.ch/eli/fga/2016/647)[3525](https://fedlex.data.admin.ch/eli/fga/2016/649). In Kraft bis 30. Juni 2019.
+[^u13-1]: [AS 2016 2265](https://fedlex.data.admin.ch/eli/oc/2016/361); [BBl 2016 3515](https://fedlex.data.admin.ch/eli/fga/2016/647), [3525](https://fedlex.data.admin.ch/eli/fga/2016/649). In Kraft bis 30. Juni 2019.
 
 ## Übergangsbestimmung zur Änderung vom 17. März 2017
 
 [^u14-1]
 
-[^u14-1]: [AS 2018 1843](https://fedlex.data.admin.ch/eli/oc/2018/276); [BBl 2016 7213](https://fedlex.data.admin.ch/eli/fga/2016/1540)[7943](https://fedlex.data.admin.ch/eli/fga/2016/1716)
+[^u14-1]: [AS 2018 1843](https://fedlex.data.admin.ch/eli/oc/2018/276); [BBl 2016 7213](https://fedlex.data.admin.ch/eli/fga/2016/1540), [7943](https://fedlex.data.admin.ch/eli/fga/2016/1716)
 
 Die Kantone setzen das in Artikel 65 Absatz 1<sup>bis</sup> festgelegte System der Prämienverbilligung für Kinder innert zwei Jahren nach Inkrafttreten der Änderung vom 17. März 2017 um.
 
@@ -2641,7 +2645,7 @@ Die Kantone setzen das in Artikel 65 Absatz 1<sup>bis</sup> festgelegte System d
 
 [^u15-1]
 
-[^u15-1]: [AS 2019 1211](https://fedlex.data.admin.ch/eli/oc/2019/226); [BBl 2018 6357](https://fedlex.data.admin.ch/eli/fga/2018/2239)[6741](https://fedlex.data.admin.ch/eli/fga/2018/2378). In Kraft bis 30. Juni 2021.
+[^u15-1]: [AS 2019 1211](https://fedlex.data.admin.ch/eli/oc/2019/226); [BBl 2018 6357](https://fedlex.data.admin.ch/eli/fga/2018/2239), [6741](https://fedlex.data.admin.ch/eli/fga/2018/2378). In Kraft bis 30. Juni 2021.
 
 ## Übergangsbestimmung zur Änderung vom 21. Juni 2019
 
@@ -2683,11 +2687,9 @@ Die Organisation nach Artikel 47*a* ist innerhalb von zwei Jahren nach dem Inkra
 
 [^u20-1]: [AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)
 
-<sup>1</sup> …[^u20-2]
+<sup>1</sup> Übernimmt ein Kanton zusätzlich 3 Prozent einer Forderung, von der er vor dem Inkrafttreten der Änderung vom 18. März 2022 bereits 85 Prozent nach Artikel 64*a* Absatz 4 übernommen hatte, so tritt der Versicherer ihm diese Forderung ab. Der Kanton informiert die versicherte Person über die Abtretung.
 
 <sup>2</sup> Die Artikel 61*a* und 64 Absatz 1<sup>bis</sup> sind auf die Versicherten anzuwenden, die beim Inkrafttreten der Änderung vom 18. März 2022 minderjährig sind. Sie gelten auch für die Prämien, Kostenbeteiligungen, Verzugszinse und Betreibungskosten dieser Versicherten, die vor dem Inkrafttreten unbezahlt waren.
-
-[^u20-2]: Tritt am 1. Juli 2025 in Kraft.
 
 ## Übergangsbestimmung zur Änderung vom 30. September 2022
 

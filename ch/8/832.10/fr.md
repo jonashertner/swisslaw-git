@@ -4,11 +4,11 @@ title: "Loi fédérale du 18 mars 1994 sur l'assurance-maladie (LAMal)"
 short: LAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
 language: fr
-version: 2025-01-01
+version: 2025-07-01
 adopted: 1994-03-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20250101-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20250701-fr-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20250101/fr"
 
 (LAMal)
 
-du 18 mars 1994 (État le 1<sup>er</sup> janvier 2025)
+du 18 mars 1994 (État le 1<sup>er</sup> juillet 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +25,7 @@ vu l’art. 34<sup>bis</sup> de la constitution[^ingress-1],[^ingress-2] vu le m
 
 arrête:
 
-[^ingress-1]: [RS **1** 3]. À la disp. mentionnée correspond actuellement l’art. 117 de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-1]: [[RS 1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4713)3]. À la disp. mentionnée correspond actuellement l’art. 117 de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 [^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 24 mars 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 727).
 [^ingress-3]: [FF 1992 I 77](https://fedlex.data.admin.ch/eli/fga/1992/1_93_77_65)
 
@@ -51,8 +51,8 @@ Elles ne s’appliquent pas aux domaines suivants:
 - d. litiges entre assureurs (art. 87);
 - e. procédure auprès du tribunal arbitral cantonal (art. 89).
 
-[^1-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^1-2]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^1-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^1-2]: [RS 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
 [^1-3]: Nouvelle teneur selon l’annexe ch. 2 de la L du 26 sept. 2014 sur la surveillance de l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [FF 2012 1725](https://fedlex.data.admin.ch/eli/fga/2012/352)).
 [^1-4]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3472](https://fedlex.data.admin.ch/eli/oc/2002/512); [FF 2002 763](https://fedlex.data.admin.ch/eli/fga/2002/114)).
 
@@ -76,7 +76,7 @@ L’assurance-maladie sociale alloue des prestations en cas:
 - b. d’accident (art. 4 LPGA), dans la mesure où aucune assurance-accidents n’en assume la prise en charge;
 - c. de maternité (art. 5 LPGA).
 
-[^1a-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^1a-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 2
 
@@ -107,11 +107,11 @@ Il peut étendre l’obligation de s’assurer à des personnes qui n’ont pas 
 
 <sup>4</sup> L’obligation de s’assurer est suspendue pour les personnes soumises à la loi fédérale du 19 juin 1992 sur l’assurance militaire (LAM)[^3-5] pour plus de 60 jours consécutifs. Le Conseil fédéral règle la procédure.[^3-6]
 
-[^3-1]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^3-1]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 [^3-2]: Nouvelle teneur selon l’annexe ch. II 11 de la LF du 22 juin 2007 sur l’État hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [FF 2006 7603](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
 [^3-3]: Nouvelle teneur selon l’annexe ch. 11 de la LF du 6 oct. 2000 sur la LPGA, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
-[^3-4]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^3-5]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^3-4]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^3-5]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 [^3-6]: Introduit par le ch. I de la LF du 24 mars 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 727).
 
 #### Art. 4
@@ -121,7 +121,7 @@ Il peut étendre l’obligation de s’assurer à des personnes qui n’ont pas 
 Les personnes tenues de s’assurer choisissent librement parmi les assureurs autorisés à pratiquer l’assurance-maladie sociale en vertu de la LSAMal[^4-2].
 
 [^4-1]: Nouvelle teneur selon l’annexe ch. 2 de la L du 26 sept. 2014 sur la surveillance de l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [FF 2012 1725](https://fedlex.data.admin.ch/eli/fga/2012/352)).
-[^4-2]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^4-2]: [RS 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
 
 #### Art. 4a
 
@@ -203,7 +203,7 @@ Les cantons informent sur l’obligation de s’assurer:
 
 [^7-1]: Nouvelle expression selon le ch. I de la LF du 18 juin 2021 (Mesures visant à freiner la hausse des coûts, volet 1*a*), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
 [^7-2]: Nouvelle teneur selon le ch. I de la LF du 24 mars 2000, en vigueur depuis le 1<sup>er</sup> oct. 2000 ([RO 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 727).
-[^7-3]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^7-3]: [RS 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
 [^7-4]: Nouvelle teneur selon l’annexe ch. 2 de la L du 26 sept. 2014 sur la surveillance de l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [FF 2012 1725](https://fedlex.data.admin.ch/eli/fga/2012/352)).
 [^7-5]: Introduit par le ch. I de la LF du 24 mars 2000, en vigueur depuis le 1<sup>er</sup> oct. 2000 ([RO 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 727).
 [^7-6]: Introduit par le ch. I de la LF du 24 mars 2000 ([RO 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 727). Nouvelle teneur selon l’annexe ch. 2 de la L du 26 sept. 2014 sur la surveillance de l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [FF 2012 1725](https://fedlex.data.admin.ch/eli/fga/2012/352)).
@@ -221,7 +221,7 @@ Les cantons informent sur l’obligation de s’assurer:
 
 <sup>3</sup> L’assurance-maladie sociale prend en charge les coûts des suites d’accidents qu’elle assurait avant la suspension de la couverture.
 
-[^8-1]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^8-1]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 
 #### Art. 9
 
@@ -237,7 +237,7 @@ Lors de l’affiliation à l’assurance-maladie sociale, l’assureur doit, par
 
 <sup>2</sup> Si l’assuré n’a pas rempli son obligation conformément à l’al. 1, l’assureur peut exiger le paiement de la part de la prime correspondant à la couverture de l’accident, y compris les intérêts moratoires, pour la période allant de la fin de la couverture au sens de la LAA jusqu’au moment où il en a eu connaissance. Lorsque l’employeur ou l’assurance-chômage n’ont pas rempli leur obligation conformément à l’al. 1, l’assureur peut faire valoir les mêmes prétentions à leur égard.
 
-[^10-1]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^10-1]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 
 ### Chapitre 2 Organisation
 
@@ -351,20 +351,20 @@ Le Conseil fédéral règle:
 <sup>8</sup> L’art. 85<sup>bis</sup>, al. 2 et 3, de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^18-15] s’applique par analogie aux recours formés devant le Tribunal administratif fédéral contre les décisions de l’institution commune fondées sur les al. 2<sup>bis</sup>, 2<sup>ter</sup> et 2<sup>quinquies</sup>.[^18-16]
 
 [^18-1]: Nouvelle expression selon le ch. I de la LF du 18 juin 2021 (Mesures visant à freiner la hausse des coûts, volet 1*a*), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
-[^18-2]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^18-2]: [RS 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
 [^18-3]: Nouvelle teneur selon l’annexe ch. 2 de la L du 26 sept. 2014 sur la surveillance de l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [FF 2012 1725](https://fedlex.data.admin.ch/eli/fga/2012/352)).
 [^18-4]: Introduit par le ch. I de la LF du 6 oct. 2000 ([RO 2002 858](https://fedlex.data.admin.ch/eli/oc/2002/151); [FF 2000 3751](https://fedlex.data.admin.ch/eli/fga/2000/875)). Nouvelle teneur selon le ch. I 8 de la LF du 14 déc. 2001 relative aux disp. concernant la libre circulation des personnes de l’Ac. amendant la Conv. instituant l’AELE, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [FF 2001 4729](https://fedlex.data.admin.ch/eli/fga/2001/845)).
 [^18-5]: Introduit par le ch. I de la LF du 6 oct. 2000 ([RO 2002 858](https://fedlex.data.admin.ch/eli/oc/2002/151); [FF 2000 3751](https://fedlex.data.admin.ch/eli/fga/2000/875)). Nouvelle teneur selon le ch. I 8 de la LF du 14 déc. 2001 relative aux disp. concernant la libre circulation des personnes de l’Ac. amendant la Conv. instituant l’AELE, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [FF 2001 4729](https://fedlex.data.admin.ch/eli/fga/2001/845)).
 [^18-6]: Introduit par le ch. I de la LF du 6 oct. 2000 ([RO 2002 858](https://fedlex.data.admin.ch/eli/oc/2002/151); [FF 2000 3751](https://fedlex.data.admin.ch/eli/fga/2000/875)). Nouvelle teneur selon le ch. I 8 de la LF du 14 déc. 2001 relative aux disp. concernant la libre circulation des personnes de l’Ac. amendant la Conv. instituant l’AELE, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [FF 2001 4729](https://fedlex.data.admin.ch/eli/fga/2001/845)).
 [^18-7]: Introduit par le ch. I de la LF du 6 oct. 2000, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 858](https://fedlex.data.admin.ch/eli/oc/2002/151); [FF 2000 3751](https://fedlex.data.admin.ch/eli/fga/2000/875)).
 [^18-8]: Introduit par le ch. I de la LF du 6 oct. 2000, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 858](https://fedlex.data.admin.ch/eli/oc/2002/151); [FF 2000 3751](https://fedlex.data.admin.ch/eli/fga/2000/875)).
-[^18-9]: [RS 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
+[^18-9]: [RS 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
 [^18-10]: Introduit par le ch. II 1 de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
 [^18-11]: Nouvelle teneur selon le ch. I de la LF du 24 mars 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 727).
 [^18-12]: Introduit par le ch. I de la LF du 6 oct. 2000, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 858](https://fedlex.data.admin.ch/eli/oc/2002/151); [FF 2000 3751](https://fedlex.data.admin.ch/eli/fga/2000/875)).
-[^18-13]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^18-13]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^18-14]: Nouvelle teneur de la phrase selon l’annexe ch. 11 de la LF du 6 oct. 2000 sur la LPGA, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
-[^18-15]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^18-15]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^18-16]: Introduit par l’annexe ch. 110 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### Section 3 Promotion de la santé
@@ -448,7 +448,7 @@ Les données doivent être transmises sous une forme agrégée. Le Conseil féd�
 
 [^23-1]: Nouvelle teneur selon le ch. I de la LF du 21 déc. 2007 (Financement hospitalier), en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
 [^23-2]: Nouvelle teneur selon le ch. I 1 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 731](https://fedlex.data.admin.ch/eli/oc/2022/731); [FF 2019 5177](https://fedlex.data.admin.ch/eli/fga/2019/1903), [5645](https://fedlex.data.admin.ch/eli/fga/2019/2138)).
-[^23-3]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^23-3]: [RS 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
 
 ### Chapitre 3 Prestations
 
@@ -553,7 +553,7 @@ L’assurance obligatoire des soins prend en charge les coûts de certains exame
 En cas d’infirmité congénitale (art. 3, al. 2, LPGA[^27-2]) non couverte par l’assurance-invalidité, l’assurance obligatoire des soins prend en charge les coûts des mêmes prestations qu’en cas de maladie.
 
 [^27-1]: Nouvelle teneur selon l’annexe ch. 11 de la LF du 6 oct. 2000 sur la LPGA, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
-[^27-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^27-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 28
 
@@ -588,7 +588,7 @@ Ces prestations comprennent:
 En cas d’interruption de grossesse non punissable au sens de l’art. 119 du code pénal[^30-2], l’assurance obligatoire des soins prend en charge les coûts des mêmes prestations que pour la maladie.
 
 [^30-1]: Nouvelle teneur selon le ch. II de la LF du 23 mars 2001, en vigueur depuis le 1<sup>er</sup> oct. 2002 ([RO 2002 2989](https://fedlex.data.admin.ch/eli/oc/2002/429); FF **1998** 2629 4734).
-[^30-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^30-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 31
 
@@ -704,7 +704,7 @@ Les fournisseurs de prestations visés à l’art. 35, al. 2, let. a à g, m et 
 <sup>3</sup> L’admission des organisations visées à l’art. 35, al. 2, let. d<sup>bis</sup>, nécessite un mandat de prestations cantonal. Le canton y fixe notamment les prestations de formation requises; il tient compte des critères définis à l’art. 3 de la loi fédérale du 16 décembre 2022 relative à l’encouragement de la formation dans le domaine des soins infirmiers[^36a-2] et du plan de formation visé à l’art. 4 de ladite loi.[^36a-3]
 
 [^36a-1]: Introduit par le ch. I de la LF du 24 mars 2000 ([RO 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 727). Nouvelle teneur selon le ch. I de la LF du 19 juin 2020 (Admission des fournisseurs de prestations), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 3263](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
-[^36a-2]: [RS 811.22](https://fedlex.data.admin.ch/eli/cc/2024/212)
+[^36a-2]: [RS 811.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9329)
 [^36a-3]: Introduit par l’annexe ch. 4 de la LF du 16 déc. 2022 relative à l’encouragement de la formation dans le domaine des soins infirmiers, en vigueur du 1<sup>er</sup> juil. 2024 au 30 juin 2032 ([RO 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
 
 #### Art. 37
@@ -733,10 +733,10 @@ Les cantons peuvent exempter les fournisseurs de prestations visés à l’art. 
 <sup>3</sup> Les fournisseurs de prestations visés aux al. 1, 1<sup>bis</sup> et 2 doivent s’affilier à une communauté ou à une communauté de référence certifiées au sens de l’art. 11, let. a, de la loi fédérale du 19 juin 2015 sur le dossier électronique du patient (LDEP)[^37-5].[^37-6]
 
 [^37-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020 (Admission des fournisseurs de prestations), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 3263](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
-[^37-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^37-2]: [RS 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 [^37-3]: Introduit par le ch. I de la LF du 17 mars 2023 (Exceptions à l’obligation d’avoir exercé pendant trois ans), en vigueur du 18 mars 2023 au 31 déc. 2027 ([RO 2023 134](https://fedlex.data.admin.ch/eli/oc/2023/134); [FF 2022 3125](https://fedlex.data.admin.ch/eli/fga/2022/3125); [2023 343](https://fedlex.data.admin.ch/eli/fga/2023/343)).
 [^37-4]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023 (Exceptions à l’obligation d’avoir exercé pendant trois ans), en vigueur du 18 mars 2023 au 31 déc. 2027 ([RO 2023 134](https://fedlex.data.admin.ch/eli/oc/2023/134); [FF 2022 3125](https://fedlex.data.admin.ch/eli/fga/2022/3125); [2023 343](https://fedlex.data.admin.ch/eli/fga/2023/343)).
-[^37-5]: [RS 816.1](https://fedlex.data.admin.ch/eli/cc/2017/203)
+[^37-5]: [RS 816.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9640)
 [^37-6]: Nouvelle teneur selon le ch. II de la LF du 15 mars 2024 (Financement transitoire, consentement et accès aux services de recherche de données), en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [FF 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
 
 #### Art. 38
@@ -784,8 +784,8 @@ Les établissements et celles de leurs divisions qui servent au traitement hospi
 <sup>3</sup> Les conditions fixées à l’al. 1 s’appliquent par analogie aux maisons de naissance, aux établissements, aux institutions et aux divisions d’établissements ou d’institutions qui prodiguent des soins, une assistance médicale et des mesures de réadaptation à des patients pour une longue durée (établissements médico-sociaux).[^39-8]
 
 [^39-1]: Introduite par l’art. 25 de la LF du 19 juin 2015 sur le dossier électronique du patient ([RO 2017 2201](https://fedlex.data.admin.ch/eli/oc/2017/203); [FF 2013 4747](https://fedlex.data.admin.ch/eli/fga/2013/989)). Nouvelle teneur selon le ch. II de la LF du 15 mars 2024 (Financement transitoire, consentement et accès aux services de recherche de données), en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [FF 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
-[^39-2]: [RS 816.1](https://fedlex.data.admin.ch/eli/cc/2017/203)
-[^39-3]: [RS 811.22](https://fedlex.data.admin.ch/eli/cc/2024/212)
+[^39-2]: [RS 816.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9640)
+[^39-3]: [RS 811.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9329)
 [^39-4]: Introduit par l’annexe ch. 4 de la LF du 16 déc. 2022 relative à l’encouragement de la formation dans le domaine des soins infirmiers, en vigueur du 1<sup>er</sup> juil. 2024 au 30 juin 2032 ([RO 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
 [^39-5]: Nouvelle teneur selon le ch. I de la LF du 21 déc. 2007 (Financement hospitalier), en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
 [^39-6]: Introduit par le ch. I de la LF du 21 déc. 2007 (Financement hospitalier), en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
@@ -884,7 +884,7 @@ Sont réputés raisons médicales au sens des al. 2 et 3 le cas d’urgence et l
 <sup>6</sup> En dérogation à l’art. 29, al. 2, LPGA, aucune formule n’est nécessaire pour faire valoir le droit aux prestations.[^42-10]
 
 [^42-1]: Introduit par le ch. I de la LF du 8 oct. 2004 (Stratégie globale, compensation des risques), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2005 1071](https://fedlex.data.admin.ch/eli/oc/2005/139); [FF 2004 4019](https://fedlex.data.admin.ch/eli/fga/2004/706)).
-[^42-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^42-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^42-3]: Phrase introduite par l’annexe ch. 11 de la LF du 6 oct. 2000 sur la LPGA, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 [^42-4]: Nouvelle teneur selon le ch. I de la LF du 21 déc. 2007 (Financement hospitalier), en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
 [^42-5]: Nouvelle teneur de la 3<sup>e</sup> à la 5<sup>e</sup> phrases selon le ch. I de la LF du 18 juin 2021 (Mesures visant à freiner la hausse des coûts, volet 1*a*), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
@@ -911,7 +911,7 @@ Sont réputés raisons médicales au sens des al. 2 et 3 le cas d’urgence et l
 [^42a-1]: Introduit par le ch. I de la LF du 8 oct. 2004 (Stratégie globale, compensation des risques), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2005 1071](https://fedlex.data.admin.ch/eli/oc/2005/139); [FF 2004 4019](https://fedlex.data.admin.ch/eli/fga/2004/706)).
 [^42a-2]: Nouvelle expression selon l’annexe ch. 31 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
 [^42a-3]: Nouvelle teneur de la phrase selon l’annexe ch. 11 de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007; [RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-[^42a-4]: [RS 816.1](https://fedlex.data.admin.ch/eli/cc/2017/203)
+[^42a-4]: [RS 816.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9640)
 [^42a-5]: Introduit par l’art. 25 de la LF du 19 juin 2015 sur le dossier électronique du patient ([RO 2017 2201](https://fedlex.data.admin.ch/eli/oc/2017/203); [FF 2013 4747](https://fedlex.data.admin.ch/eli/fga/2013/989)). Nouvelle teneur selon le ch. II de la LF du 15 mars 2024 (Financement transitoire, consentement et accès aux services de recherche de données), en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [FF 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
 
 ### Section 4 Tarifs et prix
@@ -1114,7 +1114,7 @@ Les rémunérations au sens de l’al. 1 ne comprennent pas les parts que repré
 
 [^49-1]: Nouvelle teneur selon le ch. I de la LF du 21 déc. 2007 (Financement hospitalier), en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)). Voir aussi les disp. fin. de cette mod. à la fin du texte.
 [^49-2]: Nouvelle teneur selon le ch. I 3 de la LF du 13 juin 2008 sur le nouveau régime de financement des soins, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)ch. I; [FF 2005 1911](https://fedlex.data.admin.ch/eli/fga/2005/237)).
-[^49-3]: Voir aussi l’al. 1 des disp. fin. de la mod. 22 oct. 2008 de l’O sur l’assurance-maladie ([RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)).
+[^49-3]: Voir aussi l’al. 1 des disp. fin. de la mod. 22 oct. 2008 de l’O sur l’assurance-maladie ([RS 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)).
 
 #### Art. 49a
 
@@ -1194,8 +1194,8 @@ Après avoir consulté les commissions compétentes et conformément aux princip
 
 [^52-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 16 déc. 2022 relative à l’encouragement de la formation dans le domaine des soins infirmiers, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
 [^52-2]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2022 (Mesures visant à freiner la hausse des coûts, volet 1*b*), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
-[^52-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^52-4]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^52-3]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^52-4]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 [^52-5]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 19 juin 2020 (Développement continu de l’AI), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2363](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^52-6]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2022 (Mesures visant à freiner la hausse des coûts, volet 1*b*), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 [^52-7]: Nouvelle teneur de la phrase selon le ch. I de la LF du 18 déc. 2020 (Rémunération du matériel de soins), en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [FF 2020 4695](https://fedlex.data.admin.ch/eli/fga/2020/1157)).
@@ -1234,8 +1234,8 @@ La procédure de recours est régie par la loi du 17 juin 2005 sur le Tribunal a
 [^53-1]: Nouvelle teneur selon le ch. I de la LF du 21 déc. 2007 (Financement hospitalier), en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
 [^53-2]: Nouvelle teneur selon le ch. IV de la LF du 18 juin 2021 (Mesure visant à freiner la hausse des coûts, volet 1*a*), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 [^53-3]: Introduit par le ch. I de la LF du 30 sept. 2022 (Mesures visant à freiner la hausse des coûts, volet 1*b*), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
-[^53-4]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
-[^53-5]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^53-4]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+[^53-5]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ### Section 5 Mesures extraordinaires de maîtrise des coûts
 
@@ -1356,7 +1356,7 @@ Le fournisseur de prestations doit répercuter sur le débiteur de la rémunéra
 <sup>8</sup> Les associations faîtières suisses de médecins et d’assureurs règlent la transmission des indications au sens de l’al. 7, la formation continue et le statut des médecins-conseils. Si elles ne peuvent s’entendre, le Conseil fédéral édicte les dispositions nécessaires.
 
 [^57-1]: Nouvelle teneur de la phrase selon le ch. I de la LF du 19 juin 2020 (Admission des fournisseurs de prestations), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 3263](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
-[^57-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^57-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^57-3]: Nouvelle teneur de la phrase selon l’annexe ch. 11 de la LF du 6 oct. 2000 sur la LPGA, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 [^57-4]: Nouvelle teneur selon le ch. I de la LF du 21 déc. 2007 (Compensation des risques), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2009 4755](https://fedlex.data.admin.ch/eli/oc/2009/559); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
 
@@ -1583,7 +1583,7 @@ Les autorités suivantes peuvent accéder aux services de recherche de données 
 - b. dans le cas des fournisseurs de prestations visés à l’art. 35, al. 2, let. h à k, l’autorité cantonale compétente pour leur surveillance.
 
 [^59abis-1]: Introduit par le ch. II de la LF du 15 mars 2024 (Financement transitoire, consentement et accès aux services de recherche de données), en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [FF 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
-[^59abis-2]: [RS 816.1](https://fedlex.data.admin.ch/eli/cc/2017/203)
+[^59abis-2]: [RS 816.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9640)
 
 ### Chapitre 4*a* Projets pilotes visant à maîtriser les coûts
 
@@ -1707,7 +1707,7 @@ Le Conseil fédéral peut autoriser la pratique d’autres formes d’assurance,
 
 <sup>2</sup> Le Conseil fédéral fixe les limites maximales des indemnités.
 
-[^63-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^63-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^63-2]: Nouvelle teneur selon l’annexe ch. 11 de la LF du 6 oct. 2000 sur la LPGA, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 
 ### Section 3 Participation aux coûts
@@ -1772,33 +1772,37 @@ L’assureur ne peut prélever aucune participation aux coûts des prestations s
 
 <sup>3</sup> L’assureur annonce à l’autorité cantonale compétente les débiteurs concernés et, pour chacun, le montant total des créances relevant de l’assurance obligatoire des soins (primes et participations aux coûts arriérées, intérêts moratoires et frais de poursuite) pour lesquelles un acte de défaut de biens ou un titre équivalent a été délivré durant la période considérée. Il demande à l’organe de contrôle désigné par le canton d’attester l’exactitude des données communiquées et transmet cette attestation au canton.
 
-<sup>4</sup> Le canton prend en charge 85 % des créances ayant fait l’objet de l’annonce prévue à l’al. 3.[^64a-5]
+<sup>3bis</sup> Si l’assureur ne peut pas obtenir d’acte de défaut de biens ou de titre équivalent, de la part des parents ou du parent débiteur des primes pour les créances visées à l’al. 3 concernant un enfant il peut tout de même annoncer ces créances au canton.[^64a-5]
 
-<sup>5</sup> L’assureur conserve les actes de défaut de biens et les titres équivalents jusqu’au paiement intégral des créances arriérées. Dès que l’assuré a payé tout ou partie de sa dette à l’assureur, celui-ci rétrocède au canton 50 % du montant versé par l’assuré.
+<sup>4</sup> Le canton prend en charge 85 % des créances ayant fait l’objet de l’annonce prévue aux al. 3 et 3<sup>bis</sup>. L’assureur conserve les actes de défaut de biens et les titres équivalents jusqu’au paiement intégral des créances arriérées. Dès que tout ou partie de la dette est payée à l’assureur, celui-ci rétrocède au canton 50 % du montant versé.[^64a-6]
 
-<sup>6</sup> En dérogation à l’art. 7, l’assuré en retard de paiement ne peut pas changer d’assureur tant que ses arriérés de primes, de participations aux coûts, d’intérêts moratoires et de frais de poursuite ne sont pas payés intégralement. Les enfants ne peuvent pas changer d’assureur s’il existe pour eux de tels arriérés. Les assurés qui n’ont des arriérés que pour leurs enfants peuvent changer d’assureur. L’art. 7, al. 3 et 4, est réservé.[^64a-6]
+<sup>5</sup> Si le canton prend en charge 5 % supplémentaires des créances ayant fait l’objet de l’annonce, l’assureur lui cède ces créances. Le canton informe l’assuré de la cession. Dans ce cas, l’assuré peut de nouveau changer d’assureur en dérogation à l’al. 6.[^64a-7]
 
-<sup>7</sup> Les cantons peuvent tenir une liste des assurés qui ne paient pas leurs primes malgré les poursuites, liste à laquelle n’ont accès que les fournisseurs de prestations, la commune et le canton. Sur notification du canton, l’assureur suspend la prise en charge des prestations fournies à ces assurés, à l’exception de celles relevant de la médecine d’urgence, et avise l’autorité cantonale compétente de la suspension de sa prise en charge et, lorsque les assurés ont acquitté leurs créances, de l’annulation de cette suspension. Une prestation relevant de la médecine d’urgence consiste en une prestation qui ne peut pas être repoussée. C’est le cas lorsque l’assuré, en l’absence d’un traitement immédiat, doit craindre une atteinte à la santé, voire la mort, ou qu’il peut mettre en danger la santé d’autres personnes.[^64a-7]
+<sup>6</sup> En dérogation à l’art. 7, l’assuré en retard de paiement ne peut pas changer d’assureur tant que ses arriérés de primes, de participations aux coûts, d’intérêts moratoires et de frais de poursuite ne sont pas payés intégralement. Les enfants ne peuvent pas changer d’assureur s’il existe pour eux de tels arriérés. Les assurés qui n’ont des arriérés que pour leurs enfants peuvent changer d’assureur. L’art. 7, al. 3 et 4, est réservé.[^64a-8]
 
-<sup>7bis</sup> Les assurés qui deviennent majeurs peuvent changer d’assureur à la fin de l’année civile en dérogation à l’al. 6 même si des arriérés de primes et de participations aux coûts, des intérêts moratoires et des frais de poursuite datant de la période de leur minorité sont impayés. Pour les membres de la famille tenus de s’assurer qui résident dans un État membre de l’Union européenne, en Islande, en Norvège ou au Royaume-Uni, l’art. 4*a* s’applique.[^64a-8]
+<sup>7</sup> Les cantons peuvent tenir une liste des assurés qui ne paient pas leurs primes malgré les poursuites, liste à laquelle n’ont accès que les fournisseurs de prestations, la commune et le canton. Sur notification du canton, l’assureur suspend la prise en charge des prestations fournies à ces assurés, à l’exception de celles relevant de la médecine d’urgence, et avise l’autorité cantonale compétente de la suspension de sa prise en charge et, lorsque les assurés ont acquitté leurs créances, de l’annulation de cette suspension. Une prestation relevant de la médecine d’urgence consiste en une prestation qui ne peut pas être repoussée. C’est le cas lorsque l’assuré, en l’absence d’un traitement immédiat, doit craindre une atteinte à la santé, voire la mort, ou qu’il peut mettre en danger la santé d’autres personnes.[^64a-9]
 
-<sup>7ter</sup> Les cantons et les assureurs échangent leurs données selon une procédure uniforme. Le Conseil fédéral règle les modalités après avoir entendu les cantons et les assureurs.[^64a-9]
+<sup>7bis</sup> Les assurés qui deviennent majeurs peuvent changer d’assureur à la fin de l’année civile en dérogation à l’al. 6 même si des arriérés de primes et de participations aux coûts, des intérêts moratoires et des frais de poursuite datant de la période de leur minorité sont impayés. Pour les membres de la famille tenus de s’assurer qui résident dans un État membre de l’Union européenne, en Islande, en Norvège ou au Royaume-Uni, l’art. 4*a* s’applique.[^64a-10]
 
-<sup>8</sup> Le Conseil fédéral règle les tâches de l’organe de révision et désigne les titres jugés équivalents à un acte de défaut de biens. Il règle également les frais de rappel et de sommation, les modalités de la procédure de sommation et de poursuite ainsi que les modalités des versements des cantons aux assureurs.[^64a-10]
+<sup>7ter</sup> Les cantons et les assureurs échangent leurs données selon une procédure uniforme. Le Conseil fédéral règle les modalités après avoir entendu les cantons et les assureurs.[^64a-11]
 
-<sup>9</sup> Le Conseil fédéral édicte des dispositions sur le non-paiement des primes et des participations aux coûts des personnes tenues de s’assurer qui résident dans un État membre de l’Union européenne, en Islande, en Norvège ou au Royaume-Uni. Si le droit de l’État concerné permet à l’assureur de recouvrer les primes et participations aux coûts impayées, le Conseil fédéral peut obliger les cantons à prendre en charge 85 % des créances ayant fait l’objet de l’annonce visée à l’al. 3. Si le droit de l’État concerné ne le permet pas, le Conseil fédéral peut accorder aux assureurs le droit de suspendre la prise en charge des coûts des prestations.[^64a-11]
+<sup>8</sup> Le Conseil fédéral règle les tâches de l’organe de révision et désigne les titres jugés équivalents à un acte de défaut de biens. Il règle également les frais de rappel et de sommation, les modalités de la procédure de sommation et de poursuite ainsi que les modalités des versements des cantons aux assureurs.[^64a-12]
+
+<sup>9</sup> Le Conseil fédéral édicte des dispositions sur le non-paiement des primes et des participations aux coûts des personnes tenues de s’assurer qui résident dans un État membre de l’Union européenne, en Islande, en Norvège ou au Royaume-Uni. Si le droit de l’État concerné permet à l’assureur de recouvrer les primes et participations aux coûts impayées, le Conseil fédéral peut obliger les cantons à prendre en charge 85 % des créances ayant fait l’objet de l’annonce visée à l’al. 3. Si le droit de l’État concerné ne le permet pas, le Conseil fédéral peut accorder aux assureurs le droit de suspendre la prise en charge des coûts des prestations.[^64a-13]
 
 [^64a-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476), [FF 2009 5973](https://fedlex.data.admin.ch/eli/fga/2009/1165)[5987](https://fedlex.data.admin.ch/eli/fga/2009/1167)).
 [^64a-2]: Introduit par le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
 [^64a-3]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
 [^64a-4]: 3<sup>e</sup> et 4<sup>e</sup> phrases introduites par le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
-[^64a-5]: Voir aussi les dips. trans. de la mod. du 19 mars 2010 à la fin du texte.
-[^64a-6]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
-[^64a-7]: 3<sup>e</sup> et 4<sup>e</sup> phrases introduites par le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
-[^64a-8]: Introduit par le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes) ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)). Nouvelle teneur selon l’annexe ch. 1 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre de la conv. sur la coordination de la sécurité sociale entre la Suisse et le Royaume‑Uni, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 74](https://fedlex.data.admin.ch/eli/oc/2024/74); [FF 2022 1180](https://fedlex.data.admin.ch/eli/fga/2022/1180)).
-[^64a-9]: Introduit par le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
-[^64a-10]: Nouvelle teneur de la phrase selon le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
-[^64a-11]: 2<sup>e</sup> et 3<sup>e</sup> phrases introduites par le ch. I de la LF du 30 sept. 2016 (Adaptation de dispositions à caractère international), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6717](https://fedlex.data.admin.ch/eli/oc/2017/748); [FF 2016 1](https://fedlex.data.admin.ch/eli/fga/2016/1)).
+[^64a-5]: Introduit par le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes), en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-6]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes), en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).Voir aussi les dips. trans. de cette mod. à la fin du texte.
+[^64a-7]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes), en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-8]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-9]: 3<sup>e</sup> et 4<sup>e</sup> phrases introduites par le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-10]: Introduit par le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes) ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)). Nouvelle teneur selon l’annexe ch. 1 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre de la conv. sur la coordination de la sécurité sociale entre la Suisse et le Royaume‑Uni, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 74](https://fedlex.data.admin.ch/eli/oc/2024/74); [FF 2022 1180](https://fedlex.data.admin.ch/eli/fga/2022/1180)).
+[^64a-11]: Introduit par le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-12]: Nouvelle teneur de la phrase selon le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-13]: 2<sup>e</sup> et 3<sup>e</sup> phrases introduites par le ch. I de la LF du 30 sept. 2016 (Adaptation de dispositions à caractère international), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6717](https://fedlex.data.admin.ch/eli/oc/2017/748); [FF 2016 1](https://fedlex.data.admin.ch/eli/fga/2016/1)).
 
 ### Section 4 Réduction des primes par les subsides des pouvoirs publics
 
@@ -1886,7 +1890,7 @@ L’assurance d’indemnités journalières peut être conclue sous la forme d�
 - b. organisations d’employeurs ou des associations professionnelles, pour leurs membres et les travailleurs de leurs membres;
 - c. organisations de travailleurs, pour leurs membres.
 
-[^67-1]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^67-1]: [RS 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
 [^67-2]: Nouvelle teneur selon l’annexe ch. 2 de la L du 26 sept. 2014 sur la surveillance de l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [FF 2012 1725](https://fedlex.data.admin.ch/eli/fga/2012/352)).
 
 #### Art. 68
@@ -1952,7 +1956,7 @@ Le nouvel assureur n’a pas le droit d’instituer de nouvelles réserves si l�
 <sup>6</sup> L’art. 19, al. 2, LPGA n’est applicable que lorsque l’employeur a participé au financement de l’assurance d’indemnités journalières. Sont réservés d’autres arrangements contractuels.[^72-6]
 
 [^72-1]: Introduit par l’annexe ch. 2 de la L du 26 sept. 2014 sur la surveillance de l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [FF 2012 1725](https://fedlex.data.admin.ch/eli/fga/2012/352)).
-[^72-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^72-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^72-3]: Nouvelle teneur selon l’annexe ch. 11 de la LF du 6 oct. 2000 sur la LPGA, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 [^72-4]: Nouvelle teneur selon l’annexe ch. 11 de la LF du 6 oct. 2000 sur la LPGA, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 [^72-5]: Nouvelle teneur selon l’annexe ch. 11 de la LF du 6 oct. 2000 sur la LPGA, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
@@ -1966,7 +1970,7 @@ Le nouvel assureur n’a pas le droit d’instituer de nouvelles réserves si l�
 
 <sup>2</sup> Les chômeurs assurés peuvent prétendre, moyennant une adaptation équitable des primes, à la transformation de leur ancienne assurance en une assurance dont les prestations sont versées dès le 31<sup>e</sup> jour, sous garantie du montant des anciennes indemnités journalières et sans prendre en considération l’état de santé au moment de la transformation.
 
-[^73-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^73-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^73-2]: Nouvelle teneur selon l’annexe ch. 11 de la LF du 6 oct. 2000 sur la LPGA, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 
 #### Art. 74
@@ -2023,7 +2027,7 @@ Le Conseil fédéral peut régler la coordination des indemnités journalières;
 
 L’institution commune, les assurés et les tiers doivent faire valoir leurs prétentions en réparation au sens de l’art. 78 LPGA[^78a-1] auprès de l’assureur, qui statue sur celles-ci par voie de décision.
 
-[^78a-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^78a-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 79
 
@@ -2031,7 +2035,7 @@ L’institution commune, les assurés et les tiers doivent faire valoir leurs pr
 
 La limitation du droit de recours visée à l’art. 75, al. 2, LPGA[^79-1] n’est pas applicable.
 
-[^79-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^79-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 79a
 
@@ -2047,7 +2051,7 @@ Le droit de recours visé à l’art. 72 LPGA[^79a-2] s’applique par analogie:
 <sup>2</sup> L’institution commune fait valoir le droit de recours des cantons visés à l’al. 1, let. b.
 
 [^79a-1]: Introduit par le ch. I de la LF du 21 déc. 2007 (Financement hospitalier) ([RO 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)). Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016 (Adaptation de dispositions à caractère international), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6717](https://fedlex.data.admin.ch/eli/oc/2017/748); [FF 2016 1](https://fedlex.data.admin.ch/eli/fga/2016/1)).
-[^79a-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^79a-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 ## Titre 5 Dispositions particulières sur la procédure et les voies de droit et dispositions pénales
 
@@ -2066,7 +2070,7 @@ Le droit de recours visé à l’art. 72 LPGA[^79a-2] s’applique par analogie:
 <sup>3</sup> Il ne peut subordonner la communication de sa décision à l’obligation d’épuiser la voie interne de recours qu’il a prévue.
 
 [^80-1]: Nouvelle teneur selon l’annexe ch. 11 de la LF du 6 oct. 2000 sur la LPGA, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
-[^80-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^80-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^80-3]: Nouvelle teneur selon l’annexe ch. 11 de la LF du 6 oct. 2000 sur la LPGA, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 [^80-4]: Abrogé par l’annexe ch. 11 de la LF du 6 oct. 2000 sur la LPGA, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 
@@ -2086,7 +2090,7 @@ En dérogation à l’art. 33 LPGA[^82-2], les assureurs fournissent gratuitemen
 - b. la fixation de la réduction des primes.
 
 [^82-1]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 763](https://fedlex.data.admin.ch/eli/fga/2002/114)).
-[^82-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^82-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^82-3]: Nouvelle teneur selon l’annexe ch. 6 de la LF du 21 juin 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1597](https://fedlex.data.admin.ch/eli/fga/2018/671)).
 
 #### Art. 82a
@@ -2104,7 +2108,7 @@ L’OFSP vérifie si les fournisseurs de prestations répercutent les avantages 
 Les organes chargés d’appliquer la présente loi, d’en contrôler ou surveiller l’exécution sont habilités à utiliser systématiquement le numéro AVS pour l’accomplissement de leurs tâches légales, conformément à la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^83-2].
 
 [^83-1]: Nouvelle teneur selon l’annexe ch. 11 de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-[^83-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^83-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 84
 
@@ -2127,7 +2131,7 @@ Les organes chargés d’appliquer la présente loi ou la LSAMal[^84-2] ou d’e
 <sup>2</sup> Pour accomplir ces tâches, ils sont en outre habilités à traiter ou à faire traiter des données personnelles, notamment des données permettant d’évaluer la santé, la gravité de l’affection physique ou psychique, les besoins et la situation économique de la personne assurée.[^84-7]
 
 [^84-1]: Nouvelle teneur selon le ch. I de la LF du 23 juin 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2755](https://fedlex.data.admin.ch/eli/oc/2000/463); [FF 2000 219](https://fedlex.data.admin.ch/eli/fga/2000/99)).
-[^84-2]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^84-2]: [RS 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
 [^84-3]: Nouvelle teneur selon l’annexe 1 ch. II 82 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^84-4]: Actuellement: art. 65 et 65*a*.
 [^84-5]: Introduite par le l’annexe ch. 11 de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
@@ -2182,19 +2186,19 @@ Dans les autres cas, des données peuvent être communiquées à des tiers, en d
 <sup>8</sup> Les données sont communiquées en principe par écrit et gratuitement. Le Conseil fédéral peut prévoir la perception d’émoluments pour les cas nécessitant des travaux particulièrement importants.
 
 [^84a-1]: Introduit par le ch. I de la LF du 23 juin 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2755](https://fedlex.data.admin.ch/eli/oc/2000/463); [FF 2000 219](https://fedlex.data.admin.ch/eli/fga/2000/99)).
-[^84a-2]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
-[^84a-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^84a-2]: [RS 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
+[^84a-3]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^84a-4]: Nouvelle teneur selon l’annexe ch. 2 de la L du 26 sept. 2014 sur la surveillance de l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [FF 2012 1725](https://fedlex.data.admin.ch/eli/fga/2012/352)).
 [^84a-5]: Nouvelle teneur selon l’annexe ch. 2 de la L du 26 sept. 2014 sur la surveillance de l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [FF 2012 1725](https://fedlex.data.admin.ch/eli/fga/2012/352)).
 [^84a-6]: Introduite par l’annexe ch. 11 de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-[^84a-7]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
-[^84a-8]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^84a-7]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^84a-8]: [RS 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
 [^84a-9]: Nouvelle teneur selon le ch. I de la LF du 21 déc. 2007 (Financement hospitalier), en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
 [^84a-10]: Introduite par l’annexe ch. 11 de la LF du 23 déc. 2011 ([RO 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4773](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7147](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Nouvelle teneur selon l’annexe ch. II 17 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^84a-11]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^84a-12]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^84a-11]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^84a-12]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^84a-13]: Introduit par l’annexe ch. 28 de la LF du 19 déc. 2008 (Protection de l’adulte, droit des personnes et droit de la filiation), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6635](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^84a-14]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^84a-14]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^84a-15]: Introduit par l’annexe ch. 11 de la LF du 23 déc. 2011 ([RO 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4773](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7147](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Nouvelle teneur selon l’annexe ch. II 17 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 [^84a-16]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 763](https://fedlex.data.admin.ch/eli/fga/2002/114)).
 [^84a-17]: Abrogé par le ch. I de l’O de l’Ass. féd. du 21 juin 2002, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 763](https://fedlex.data.admin.ch/eli/fga/2002/114)).
@@ -2209,7 +2213,7 @@ Dans les autres cas, des données peuvent être communiquées à des tiers, en d
 Les assureurs prennent les mesures techniques et organisationnelles nécessaires pour garantir la protection des données; ils établissent en particulier les règlements de traitement des données nécessaires conformément à l’ordonnance du 31 août 2022 sur la protection des données[^84b-2]. Ces règlements sont soumis à l’appréciation du préposé fédéral à la protection des données et à la transparence et sont rendus publics.
 
 [^84b-1]: Introduit par le ch. I de la LF du 21 déc. 2007 (Compensation des risques), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2009 4755](https://fedlex.data.admin.ch/eli/oc/2009/559); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
-[^84b-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568).Le renvoi a été adapté en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^84b-2]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994).Le renvoi a été adapté en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 
 #### Art. 85
 
@@ -2218,7 +2222,7 @@ Les assureurs prennent les mesures techniques et organisationnelles nécessaires
 L’assureur ne peut subordonner la communication de sa décision sur opposition à l’obligation d’épuiser une voie interne de recours.
 
 [^85-1]: Nouvelle teneur selon l’annexe ch. 11 de la LF du 6 oct. 2000 sur la LPGA, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
-[^85-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^85-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 86
 
@@ -2227,7 +2231,7 @@ L’assureur ne peut subordonner la communication de sa décision sur opposition
 L’assureur ne peut subordonner le droit de l’assuré de s’adresser au tribunal cantonal des assurances à l’obligation d’épuiser une voie interne de recours.
 
 [^86-1]: Nouvelle teneur selon l’annexe ch. 11 de la LF du 6 oct. 2000 sur la LPGA, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
-[^86-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^86-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 87
 
@@ -2274,7 +2278,7 @@ En cas de litige entre assureurs, le tribunal des assurances du canton du siège
 <sup>2</sup> Le Tribunal administratif fédéral connaît des recours contre les décisions des gouvernements cantonaux visées à l’art. 53.[^90a-3]
 
 [^90a-1]: Introduit par le ch. I de la LF du 6 oct. 2000 ([RO 2002 858](https://fedlex.data.admin.ch/eli/oc/2002/151); [FF 2000 3751](https://fedlex.data.admin.ch/eli/fga/2000/875)). Nouvelle teneur selon l’annexe ch. 110 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^90a-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^90a-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^90a-3]: Introduit par le ch. I de la LF du 21 déc. 2007 (Financement hospitalier), en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
 
 #### Art. 91
@@ -2284,7 +2288,7 @@ En cas de litige entre assureurs, le tribunal des assurances du canton du siège
 Les jugements rendus par le tribunal cantonal arbitral peuvent faire l’objet d’un recours devant le Tribunal fédéral, conformément à la loi du 17 juin 2005 sur le Tribunal fédéral[^91-2].
 
 [^91-1]: Nouvelle teneur selon l’annexe ch. 110 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^91-2]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^91-2]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 92
 
@@ -2302,10 +2306,10 @@ Est puni d’une peine pécuniaire de 180 jours-amende au plus, à moins qu’il
 <sup>2</sup> En dérogation à l’art. 79, al. 2, LPGA[^92-5], l’OFSP poursuit et juge les infractions à l’art. 56, al. 3, let. b en relation avec l’art. 92, al. 1, let. d.[^92-6]
 
 [^92-1]: Nouvelle teneur selon l’art. 333 du code pénal, dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
-[^92-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^92-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^92-3]: Abrogée par l’annexe ch. 2 de la L du 26 sept. 2014 sur la surveillance de l’assurance-maladie, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [FF 2012 1725](https://fedlex.data.admin.ch/eli/fga/2012/352)).
 [^92-4]: Introduit par l’annexe ch. II 8 de la L du 15 déc. 2000 sur les produits thérapeutiques, en vigueur depuis le 1<sup>er</sup> janv. 2002 ([RO 2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422); FF **1999** 3151).
-[^92-5]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^92-5]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^92-6]: Introduit par l’annexe ch. 4 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 93
@@ -2365,12 +2369,12 @@ Pour les personnes qui sont ou qui ont été soumises à la législation sur la 
 <sup>4</sup> Les expressions «États membres de l’Union européenne», «États membres de la Communauté européenne», «États de l’Union européenne» et «États de la Communauté européenne» figurant dans la présente loi désignent les États auxquels s’applique l’accord sur la libre circulation des personnes.
 
 [^95a-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016 (Adaptation de dispositions à caractère international), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6717](https://fedlex.data.admin.ch/eli/oc/2017/748); [FF 2016 1](https://fedlex.data.admin.ch/eli/fga/2016/1)).
-[^95a-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^95a-3]: Règlement (CE) n<sup>o</sup> 883/2004 du Parlement européen et du Conseil du 29 avril 2004 portant sur la coordination des systèmes de sécurité sociale ([RS 0.831.109.268.1](https://fedlex.data.admin.ch/eli/cc/2012/323)).
-[^95a-4]: Règlement (CE) n<sup>o</sup> 987/2009 du Parlement européen et du Conseil du 16 septembre 2009 fixant les modalités d’application du règlement (CE) n<sup>o</sup> 883/2004 portant sur la coordination des systèmes de sécurité sociale ([RS 0.831.109.268.11](https://fedlex.data.admin.ch/eli/cc/2012/356)).
+[^95a-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^95a-3]: Règlement (CE) n<sup>o</sup> 883/2004 du Parlement européen et du Conseil du 29 avril 2004 portant sur la coordination des systèmes de sécurité sociale ([RS 0.831.109.268.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3724)).
+[^95a-4]: Règlement (CE) n<sup>o</sup> 987/2009 du Parlement européen et du Conseil du 16 septembre 2009 fixant les modalités d’application du règlement (CE) n<sup>o</sup> 883/2004 portant sur la coordination des systèmes de sécurité sociale ([RS 0.831.109.268.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3725)).
 [^95a-5]: Règlement (CEE) n<sup>o</sup> 1408/71 du Conseil du 14 juin 1971 relatif à l’application des régimes de sécurité sociale aux travailleurs salariés, aux travailleurs non salariés et aux membres de leur famille qui se déplacent à l’intérieur de la Communauté; dans la dernière version en vigueur selon l’accord sur la libre circulation des personnes ([RO 2004 121](https://fedlex.data.admin.ch/eli/oc/2004/11), [2008 4219](https://fedlex.data.admin.ch/eli/oc/2008/604)[4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 4831](https://fedlex.data.admin.ch/eli/oc/2009/573)) et la convention AELE révisée.
 [^95a-6]: Règlement (CEE) n<sup>o</sup> 574/72 du Conseil du 21 mars 1972 fixant les modalités d’application du règlement (CEE) n<sup>o</sup> 1408/71 relatif à l’application des régimes de sécurité sociale aux travailleurs salariés, aux travailleurs non salariés et aux membres de leur famille qui se déplacent à l’intérieur de la Communauté; dans la dernière version en vigueur selon l’accord sur la libre circulation des personnes ([RO 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540), [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113)[4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) et la convention AELE révisée.
-[^95a-7]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^95a-7]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 
 ## Titre 7 Dispositions finales
 
@@ -2404,7 +2408,7 @@ Le Conseil fédéral est chargé de l’exécution de la présente loi. Il édic
 
 <sup>3</sup> Le Conseil fédéral édicte des dispositions sur la répartition de la fortune existante des caisses-maladie entre les branches d’assurance qu’elles continuent à pratiquer sur la base du nouveau droit.
 
-[^98-1]: [RS **8** 283]
+[^98-1]: [[RS 8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9225)283]
 [^98-2]: Actuellement: art. 61 al. 5 et 76 al. 4.
 
 #### Art. 99
@@ -2417,7 +2421,7 @@ Le Conseil fédéral est chargé de l’exécution de la présente loi. Il édic
 
 <sup>3</sup> Si la fortune d’une caisse dissoute n’est pas transférée, lors d’une fusion, à un autre assureur au sens de l’art. 11, un excédent de fortune éventuel constaté dans les caisses organisées selon le droit privé revient au fonds couvrant les cas d’insolvabilité de l’institution commune (art. 18).
 
-[^99-1]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^99-1]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 [^99-2]: Nouvelle teneur de la phrase selon l’annexe ch. 12 de la LF du 22 juin 2007 sur la surveillance des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
 #### Art. 100
@@ -2450,7 +2454,7 @@ Le Conseil fédéral est chargé de l’exécution de la présente loi. Il édic
 
 <sup>5</sup> Les contrats existant, selon l’ancien droit, avec d’autres assureurs que les caisses reconnues pour des risques couverts par l’assurance facultative d’indemnités journalières selon la présente loi peuvent, dans le délai d’une année dès l’entrée en vigueur de celle-ci, être adaptés au nouveau droit si le preneur d’assurance le demande et si l’assureur pratique l’assurance facultative d’indemnités journalières au sens de la présente loi.
 
-[^102-1]: Voir actuellement la LF du 17 déc. 2004 ([RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)).
+[^102-1]: Voir actuellement la LF du 17 déc. 2004 ([RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)).
 
 #### Art. 103
 
@@ -2691,11 +2695,9 @@ L’organisation visée à l’art. 47*a* doit être instituée dans les deux an
 
 [^u20-1]: [RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)
 
-<sup>1</sup> …[^u20-2]
+<sup>1</sup> Si un canton prend en charge 3 % supplémentaires d’une créance dont il avait déjà pris en charge 85 % avant l’entrée en vigueur de la modification du 18 mars 2022 conformément à l’art. 64*a*, al. 4, l’assureur lui cède cette créance. Le canton informe l’assuré de la cession.
 
 <sup>2</sup> Les art. 61*a* et 64, al. 1<sup>bis</sup>, s’appliquent aux assurés encore mineurs au moment de l’entrée en vigueur de la modification du 18 mars 2022. Ils s’appliquent également pour les primes, participations aux coûts, intérêts moratoires et frais de poursuite non payés de ces assurés au moment de l’entrée en vigueur.
-
-[^u20-2]: En vigueur le 1<sup>er</sup> juil. 2025.
 
 ## Disposition transitoire relative à la modification du 30 septembre 2022
 
@@ -2721,7 +2723,7 @@ Annexe
 
 [^annexu1-lvlu1-lvl1-1]
 
-[^annexu1-lvlu1-lvl1-1]: [RS **8** 283; [RO 1959 888](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876), [1964 961](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981), [1968 66](https://fedlex.data.admin.ch/eli/oc/1968/64_66_65), [1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461)ch. II art. 6 ch. 2,[1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)ch. I 611, [1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836)annexe ch. 4, [1982 196](https://fedlex.data.admin.ch/eli/oc/1982/196_196_196)[1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)annexe ch. 1 [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)art. 114,[1990 1091](https://fedlex.data.admin.ch/eli/oc/1990/1091_1091_1091), [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)ch. II 412, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 37, [1995 511](https://fedlex.data.admin.ch/eli/oc/1995/511_511_511)]
+[^annexu1-lvlu1-lvl1-1]: [[RS 8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9225)283; [RO 1959 888](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876), [1964 961](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981), [1968 66](https://fedlex.data.admin.ch/eli/oc/1968/64_66_65), [1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461)ch. II art. 6 ch. 2,[1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)ch. I 611, [1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836)annexe ch. 4, [1982 196](https://fedlex.data.admin.ch/eli/oc/1982/196_196_196)[1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)annexe ch. 1 [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)art. 114,[1990 1091](https://fedlex.data.admin.ch/eli/oc/1990/1091_1091_1091), [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)ch. II 412, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 37, [1995 511](https://fedlex.data.admin.ch/eli/oc/1995/511_511_511)]
 
 ### 2. à 6.
 
