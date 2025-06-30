@@ -4,10 +4,10 @@ number: "172.110.1"
 title: Organisationsverordnung der Direktion der Justiz und des Innern (JIOV)
 short: JIOV
 language: de
-nachtrag: "121"
-valid_until: 2025-07-01
+version: "2025-07-01"
+nachtrag: "129"
 adopted: 2023-03-10
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_110_1-2023_03_10-2023_07_01-121.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_110_1-2023_03_10-2023_07_01-129.html"
 text: pdf
 ---
 
@@ -60,19 +60,21 @@ verfügt:
 
 - 2\. Fachstelle Integration (FI),
 
-- 3\. Fachstelle Kultur (FK),
+- 3\. Fachstelle Kultur (FK), 4.[^1-1] Fachstelle Religion (FR),
 
-- 4\. Kantonale Opferhilfestelle (KOH).
-
-<sup>2</sup> Die Gliederung richtet sich a. beim Generalsekretariat nach § 8 Abs. 3 und seinem Organisationsreglement,
+- 5\. Kantonale Opferhilfestelle (KOH).
 
 **1**
 
-- 1\. 7. 23 - 121
+- 1\. 7. 25 - 129
+
+<sup>2</sup> Die Gliederung richtet sich a. beim Generalsekretariat nach § 8 Abs. 3 und seinem Organisationsreglement,
 
 - b. bei den Verwaltungseinheiten mit Amtsstruktur nach dem übergeordneten Recht, Anhang 1 und ihrem jeweiligen Organisationsreglement,
 
 - c. bei den weiteren Verwaltungseinheiten nach dem übergeordneten Recht und ihrem jeweiligen Organisationsreglement.
+
+[^1-1]: Eingefügt durch Vfg. vom 8. Mai 2025 (OS 80, 129; ABl 2025-05-16). In Kraft seit 1. Juli 2025.
 
 #### § 2
 
@@ -144,7 +146,7 @@ Der Direktionsvorsteherin oder dem Direktionsvorsteher direkt unterstellt sind:
 
 <sup>1</sup> Die Direktionsassistenz und die ihr unterstellten Personen unterstützen a. die Direktionsvorsteherin oder den Direktionsvorsteher,
 
-- b. die Generalsekretärin oder den Generalsekretär sowie ihre oder seine Stellvertreterinnen und Stellvertreter.
+- b. die Generalsekretärin oder den Generalsekretär sowie ihre oder seine Stellvertreterinnen und Stellvertreter, c.[^7-1] die Leitung des Rechtsdiensts.
 
 <sup>2</sup> Zu ihren Aufgaben gehören insbesondere:
 
@@ -158,43 +160,43 @@ Der Direktionsvorsteherin oder dem Direktionsvorsteher direkt unterstellt sind:
 
 - e. Beratung bei und Kontrolle der Einhaltung von internen Abläufen, die insbesondere die Antragstellung an den Regierungsrat und die Kontaktaufnahme mit der Direktionsvorsteherin oder dem Direktionsvorsteher betreffen,
 
-- f. ihre verwaltungsinterne Vernetzung.
+- f. ihre verwaltungsinterne Vernetzung, g.[^7-1] Sicherstellung des Unterhalts der Sitzungszimmer und der Cafeteria, h.[^7-1] Verwaltung des Büromaterials.
 
 <sup>3</sup> Die Direktionsassistenz und die ihr unterstellten Personen sind administrativ dem Generalsekretariat zugeordnet.
 
-### 2. Abschnitt: Generalsekretariat
+**3**
 
-#### § 8
+- 1\. 7. 25 - 129
+
+[^7-1]: Eingefügt durch Vfg. vom 8. Mai 2025 (OS 80, 129; ABl 2025-05-16). In Kraft seit 1. Juli 2025.
+
+### 2. Abschnitt: Generalsekretariat
 
 **Funktion und Gliederung**
 
-<sup>1</sup> Das Generalsekretariat ist die Stabsstelle der Direktion.
+§ 8.[^h2AbschnittGenera-1] <sup>1</sup> Das Generalsekretariat nimmt die Stabsfunktionen der Direktion wahr.
 
 <sup>2</sup> Es erfüllt die Aufgaben gemäss § 41 Abs. 2 OG RR, §§ 61–64 VOG RR und dieser Verordnung. Es erfüllt zudem die Aufgaben der Direktion, soweit sie keiner anderen Verwaltungseinheit zugewiesen sind.
 
-**3**
-
-- 1\. 7. 23 - 121
-
 <sup>3</sup> Es gliedert sich in:
 
-- a. Stabs- und Rechtsdienst (SRD),
+- a. Rechtsdienst (RD),
 
-- b. Hauptabteilung Digital Solutions (DigiSol),
+- b. Abteilung Business Support & Compliance (BS&C),
 
-- c. Abteilung Finanzen, Controlling und Logistik (FCL),
+- c. Hauptabteilung Digital Solutions (DigiSol),
 
-- d. Abteilung Human Resources (HR),
+- d. Abteilung Planung und Ressourcen (P&R),
 
-- e. Abteilung Kommunikation (KOMM),
+- e. Abteilung Human Resources (HR),
 
-- f. Abteilung Business Support (BS).
+- f. Abteilung Kommunikation (KOMM),
 
-#### § 9
+- g. Stabsstelle Recht Digital (ReDigi).
 
-**Aufgaben a. Stabs- und Rechtsdienst**
+**Rechtsdienst**
 
-Der Stabs- und Rechtsdienst a. unterstützt und berät die Direktionsvorsteherin oder den Direktionsvorsteher insbesondere bei der Leitung der Direktion und der Ausübung der Aufsicht über die Verwaltungseinheiten gemäss § 1 Abs. 1 lit. b und c und die administrativ angegliederten Einheiten sowie bei der Antragstellung an den Regierungsrat,
+§ 9.[^h2AbschnittGenera-1] Der Rechtsdienst a. unterstützt und berät die Direktionsvorsteherin oder den Direktionsvorsteher insbesondere bei der Leitung der Direktion und der Ausübung der Aufsicht über die Verwaltungseinheiten gemäss § 1 Abs. 1 lit. b und c und die administrativ angegliederten Einheiten sowie bei der Antragstellung an den Regierungsrat,
 
 - b. unterstützt und berät das Generalsekretariat, die anderen Verwaltungseinheiten und die administrativ angegliederten Einheiten, insbesondere bei der Antragstellung an den Regierungsrat, bei Rechtsetzungsvorhaben sowie in organisations- und verfahrensrechtlichen Belangen,
 
@@ -208,21 +210,29 @@ Der Stabs- und Rechtsdienst a. unterstützt und berät die Direktionsvorsteherin
 
 - g. vertritt die Direktion und den Regierungsrat vor Rechtsmittelinstanzen in Verfahren, die in den sachlichen Zuständigkeitsbereich der Direktion fallen,
 
-- h. führt den Gesetzgebungsdienst gemäss § 5 der Rechtsetzungsverordnung vom 29. November 2000[^9-1],
+- h. führt den Gesetzgebungsdienst gemäss § 5 der Rechtsetzungsverordnung vom 29. November 2000[^h2AbschnittGenera-2],
 
-- i. ist zuständig für das Kirchenwesen und Religionsfragen nach Massgabe der Spezialgesetzgebung,
+- i. führt die Ablage der geltenden Fassungen der Organisationsreglemente,
 
-- j. berät die für die Sicherstellung der Einhaltung der Vorgaben über den Datenschutz, die Informationsverwaltung und die Informationssicherheit verantwortlichen Personen innerhalb der Direktion und bei den administrativ angegliederten Einheiten in rechtlicher Hinsicht,
+- j. verwaltet die Bibliothek.
 
-- k. führt die Ablage der geltenden Fassungen der Organisationsreglemente,
+**Abteilung Business Support & Compliance**
 
-- l. verwaltet die Bibliothek.
+§ 9 a.[^h2AbschnittGenera-3] Die Abteilung Business Support & Compliance a. berät und unterstützt die Direktionsvorsteherin oder den Direktionsvorsteher, das Generalsekretariat, die anderen Verwaltungseinheiten und die administrativ angegliederten Einheiten zu den Themen Datenschutz und Informationssicherheit, dem Öffentlichkeitsprinzip, Beschaffungswesen, Vertragswesen, den finanziellen Zuständigkeitsregelungen sowie den diesbezüglichen internen Prozessen,
 
-[^9-1]: LS 172.16.
+- b. koordiniert die Bearbeitung von Fragestellungen zu diesen Themen innerhalb der Direktion sowie zwischen der Direktion und Stellen ausserhalb der Direktion,
+
+- c. berät und unterstützt die Direktionsvorsteherin oder den Direktionsvorsteher bei der Sicherstellung der Einhaltung der datenschutzrechtlichen Vorgaben sowie der Vorgaben betreffend Informationssicherheit innerhalb der Direktion,
+
+- d. berät die für die Sicherstellung der Einhaltung der Vorgaben über den Datenschutz, die Informationsverwaltung und die Informationssicherheit verantwortlichen Personen innerhalb der Direktion und bei den administrativ angegliederten Einheiten in rechtlicher Hinsicht.
+
+[^h2AbschnittGenera-1]: Fassung gemäss Vfg. vom 8. Mai 2025 (OS 80, 129; ABl 2025-05-16). In Kraft seit 1. Juli 2025.
+[^h2AbschnittGenera-2]: LS 172.16.
+[^h2AbschnittGenera-3]: Eingefügt durch Vfg. vom 8. Mai 2025 (OS 80, 129; ABl 2025-05-16). In Kraft seit 1. Juli 2025.
 
 #### § 10
 
-**b. Hauptabteilung Digital Solutions**
+**Hauptabteilung Digital Solutions18**
 
 Die Hauptabteilung Digital Solutions a. entwickelt die Informatikstrategie der Direktion,
 
@@ -230,33 +240,33 @@ Die Hauptabteilung Digital Solutions a. entwickelt die Informatikstrategie der D
 
 - c. schliesst nach Zustimmung der Generalsekretärin oder des Generalsekretärs oder der Leiterin oder des Leiters einer anderen Verwaltungseinheit oder einer administrativ angegliederten Einheit Vereinbarungen zur Bereitstellung von Informatikdienstleistungen ab,
 
+**5**
+
+- 1\. 7. 25 - 129
+
 - d. sorgt unter Vorbehalt der Zuständigkeitsbereiche anderer Direktionen oder der Staatskanzlei für die technischen Voraussetzungen, dass die Vorgaben über den Datenschutz, die Informationsverwaltung und die Informationssicherheit innerhalb der Direktion und bei den administrativ angegliederten Einheiten eingehalten werden können.
 
-#### § 11
+**Abteilung Planung und Ressourcen**
 
-**c. Abteilung Finanzen, Controlling und Logistik**
-
-Die Abteilung Finanzen, Controlling und Logistik a. führt und koordiniert die Prozesse gemäss der Gesetzgebung über Controlling und Rechnungslegung,
+§ 11.[^10-1] Die Abteilung Planung und Ressourcen a. führt und koordiniert die Prozesse gemäss der Gesetzgebung über Controlling und Rechnungslegung,
 
 - b. besorgt das Rechnungswesen für das Generalsekretariat und andere Verwaltungseinheiten,
 
-- c. unterstützt und berät das Generalsekretariat, die anderen Verwaltungseinheiten und die administrativ angegliederten Einheiten im Finanzwesen und bei Bauvorhaben,
+- c. unterstützt und berät das Generalsekretariat, die anderen Verwaltungseinheiten und die administrativ angegliederten Einheiten im Finanzwesen, Risikomanagement, Portfoliomanagement und bei Bauvorhaben,
 
-- d. koordiniert die Prozesse des internen Kontrollsystems (IKS) und pflegt die dazugehörige Datenbank,
+- d. koordiniert und pflegt die finanzrelevanten Geschäftsprozesse des internen Kontrollsystems (IKS),
 
 - e. vertritt die Interessen der Direktion als Bestellerin und Nutzerin von Büro- und Betriebsräumlichkeiten.
 
+[^10-1]: Fassung gemäss Vfg. vom 8. Mai 2025 (OS 80, 129; ABl 2025-05-16). In Kraft seit 1. Juli 2025.
+
 #### § 12
 
-**d. Abteilung Human Resources**
+**Abteilung Human Resources18**
 
 Die Abteilung Human Resources a. entwickelt die Personalmanagementstrategie der Direktion und setzt diese um,
 
 - b. legt einheitliche Personalmanagementstandards fest,
-
-**5**
-
-- 1\. 7. 23 - 121
 
 - c. bietet Massnahmen zur Personalentwicklung und Weiterbildungen an,
 
@@ -276,7 +286,7 @@ Die Abteilung Human Resources a. entwickelt die Personalmanagementstrategie der 
 
 #### § 13
 
-**e. Abteilung Kommunikation**
+**Abteilung Kommunikation18**
 
 Die Abteilung Kommunikation a. stellt die Kommunikation der Direktion gegen innen und gegen aussen sicher und bewirtschaftet die Kommunikations- und Informationskanäle der Direktion,
 
@@ -292,17 +302,15 @@ Die Abteilung Kommunikation a. stellt die Kommunikation der Direktion gegen inne
 
 - g. bietet Weiterbildungen und Anlässe für Mitarbeitende an.
 
-#### § 14
+**Stabsstelle Recht Digital**
 
-**f. Abteilung Business Support**
+§ 14.[^13-1] Die Stabsstelle Recht Digital a. unterstützt und berät die Direktionsvorsteherin oder den Direktionsvorsteher, das Generalsekretariat, die anderen Verwaltungseinheiten und die administrativ angegliederten Einheiten bei Querschnittsthemen der digitalen Transformation,
 
-Die Abteilung Business Support a. unterstützt die Generalsekretärin oder den Generalsekretär sowie deren oder dessen Stellvertreterinnen und Stellvertreter in administrativer und technischer Hinsicht, insbesondere bei der Organisation, Koordination und Vorbereitung von Sitzungen und Anlässen,
+- b. fördert die Vernetzung zu diesen Themen innerhalb der Direktion sowie mit den anderen Direktionen und der Staatskanzlei,
 
-- b. unterstützt den Stabs- und Rechtsdienst in administrativer und technischer Hinsicht, insbesondere bei der Verfahrensführung, der Aktenablage, der Archivierung, der Verwaltung der Bibliothek und bei Projekten sowie bei der Organisation, Koordination und Vorbereitung von Sitzungen und Anlässen,
+- c. kann in diesen Bereichen direktionsübergreifende Aufgaben übernehmen.
 
-- c. stellt den Unterhalt der Sitzungszimmer und der Cafeteria sicher,
-
-- d. verwaltet das Büromaterial.
+[^13-1]: Fassung gemäss Vfg. vom 8. Mai 2025 (OS 80, 129; ABl 2025-05-16). In Kraft seit 1. Juli 2025.
 
 ### 3. Abschnitt: Generalsekretariat, andere Verwaltungseinheiten
 
@@ -317,6 +325,10 @@ und administrativ angegliederte Einheiten
 <sup>1</sup> Das Generalsekretariat, die anderen Verwaltungseinheiten und die administrativ angegliederten Einheiten a. erfüllen die ihnen von der Gesetzgebung und dieser Verordnung zugewiesenen Aufgaben,
 
 - b. erledigen Aufträge der Direktionsvorsteherin oder des Direktionsvorstehers,
+
+**7**
+
+- 1\. 7. 25 - 129
 
 - c. bereiten Regierungs- und Direktionsgeschäfte, die ihren Aufgabenbereich betreffen, vor oder wirken an deren Vorbereitung mit.
 
@@ -333,10 +345,6 @@ und administrativ angegliederte Einheiten
 <sup>1</sup> Die Generalsekretärin oder der Generalsekretär sowie die Leiterinnen oder Leiter der anderen Verwaltungseinheiten und der administrativ angegliederten Einheiten erlassen ein Organisationsreglement.
 
 <sup>2</sup> Das Organisationsreglement des Generalsekretariats a. legt unter Vorbehalt des übergeordneten Rechts und von § 8 Abs. 3 die Gliederung und Organisation des Generalsekretariats fest,
-
-**7**
-
-- 1\. 7. 23 - 121
 
 - b. weist unter Vorbehalt des übergeordneten Rechts und von §§ 9–14 Aufgaben des Generalsekretariats den untergeordneten Einheiten des Generalsekretariats zu,
 
@@ -372,6 +380,10 @@ und administrativ angegliederte Einheiten
 
 - h. führt die Dokumente auf, in denen die für die Sicherstellung der Einhaltung der Vorgaben über den Datenschutz, die Informationsverwaltung und die Informationssicherheit innerhalb der Verwaltungseinheit notwendigen Prozesse festgelegt sind.
 
+**9**
+
+- 1\. 7. 25 - 129
+
 <sup>4</sup> Das Organisationsreglement einer administrativ angegliederten Einheit a. legt unter Vorbehalt des übergeordneten Rechts die Gliederung und Organisation der administrativ angegliederten Einheit fest,
 
 - b. weist unter Vorbehalt des übergeordneten Rechts Aufgaben der administrativ angegliederten Einheit den untergeordneten Einheiten der administrativ angegliederten Einheit zu,
@@ -384,19 +396,11 @@ und administrativ angegliederte Einheiten
 
 - f. führt die Dokumente auf, in denen die für die Sicherstellung der Einhaltung der Vorgaben über den Datenschutz, die Informationsverwaltung und die Informationssicherheit innerhalb der administrativ angegliederten Einheit notwendigen Prozesse festgelegt sind.
 
-**9**
-
-- 1\. 7. 23 - 121
-
-<sup>5</sup> Die Generalsekretärin oder der Generalsekretär sowie die Leiterinnen und Leiter der anderen Verwaltungseinheiten und der administrativ angegliederten Einheiten informieren die Direktionsvorsteherin oder den Direktionsvorsteher über Inhalt und Änderungen des Organisationsreglements und übermitteln dem Stabs- und Rechtsdienst des Generalsekretariats die jeweils aktuelle Fassung.
-
-[^16-1]: LS 172.110.11.
-
-#### § 17
+<sup>5</sup> Die Generalsekretärin oder der Generalsekretär sowie die Leiterinnen und Leiter der anderen Verwaltungseinheiten und der administrativ angegliederten Einheiten informieren die Direktionsvorsteherin oder den Direktionsvorsteher über Inhalt und Änderungen des Organisationsreglements und übermitteln dem Rechtsdienst des Generalsekretariats die jeweils aktuelle Fassung.[^16-2]
 
 **Informations- und Genehmigungspflichten**
 
-<sup>1</sup> Die Generalsekretärin oder der Generalsekretär und die Leiterinnen oder Leiter der anderen Verwaltungseinheiten informieren die Direktionsvorsteherin oder den Direktionsvorsteher oder die zuständige Abteilung des Generalsekretariats umgehend über:
+§ 17. <sup>1</sup> Die Generalsekretärin oder der Generalsekretär und die Leiterinnen oder Leiter der anderen Verwaltungseinheiten informieren die Direktionsvorsteherin oder den Direktionsvorsteher oder die zuständige Abteilung des Generalsekretariats umgehend über:
 
 - a. Interviewanfragen und Medienkontakte sowie sonstige Anfragen von Behörden, Institutionen oder Personen ausserhalb der Direktion zu Geschäften von besonderer politischer Bedeutung,
 
@@ -420,6 +424,9 @@ und administrativ angegliederte Einheiten
 
 <sup>3</sup> Die Pflichten gemäss Abs. 1 und lit. b und d obliegen auch den Leiterinnen und Leitern der administrativ angegliederten Einheiten.
 
+[^16-1]: LS 172.110.11.
+[^16-2]: Fassung gemäss Vfg. vom 8. Mai 2025 (OS 80, 129; ABl 2025-05-16). In Kraft seit 1. Juli 2025.
+
 #### § 18
 
 **Ausgabenkompetenzen**
@@ -433,6 +440,10 @@ und administrativ angegliederte Einheiten
 <sup>2</sup> Besondere Bestimmungen, die dem Generalsekretariat, den anderen Verwaltungseinheiten oder den administrativ angegliederten Einheiten weitergehende Ausgabenkompetenzen einräumen, bleiben vorbehalten.
 
 <sup>3</sup> Für den Beschluss über Ausgaben gemäss Abs. 1 lit. a, die mehr als ein Fünftel der Beträge gemäss Anhang 3 betragen, ist die Zweitunterschrift einer Stellvertreterin oder eines Stellvertreters der ausgabenberechtigten Person erforderlich.
+
+**11**
+
+- 1\. 7. 25 - 129
 
 [^18-1]: LS 611.2.
 
@@ -457,10 +468,6 @@ und administrativ angegliederte Einheiten
 - a. die Direktionsvorsteherin oder der Direktionsvorsteher oder Mitarbeitende des Generalsekretariats, insbesondere der Abteilung Kommunikation, zu Sachverhalten und Vorkommnissen von besonderer politischer Bedeutung oder mit erheblichen organisatorischen, personellen oder finanziellen Auswirkungen,
 
 - b. die Verwaltungseinheiten gemäss § 1 Abs. 1 lit. b und c zu den übrigen Sachverhalten und Vorkommnissen aus ihrem Zuständigkeitsbereich.
-
-**11**
-
-- 1\. 7. 23 - 121
 
 <sup>2</sup> Die Mitarbeitenden des Generalsekretariats und die Verwaltungseinheiten gemäss § 1 Abs. 1 lit. b und c nehmen im Zweifelsfall vor Erteilung einer Auskunft Rücksprache mit der Abteilung Kommunikation des Generalsekretariats.
 
@@ -488,7 +495,7 @@ und administrativ angegliederte Einheiten
 
 <sup>2</sup> Das Aufnahmekonzept legt den Inhalt und den Umfang der Aufnahmen, die Mitwirkung des Generalsekretariats, der anderen Verwaltungseinheit oder der administrativ angegliederten Einheit sowie die Vorkehrungen zum Schutz der Persönlichkeitsrechte von Mitarbeitenden und Dritten fest. Es berücksichtigt die Vorgaben der Abteilung Kommunikation des Generalsekretariats.
 
-[^22-1]: LS 170.4. 1. 7. 23 - 121 15
+[^22-1]: LS 170.4.
 
 #### § 23
 
@@ -516,11 +523,13 @@ und administrativ angegliederte Einheiten
 
 <sup>3</sup> Die Generalsekretärin oder der Generalsekretär und die Leiterin oder der Leiter der Abteilung Human Resources informieren die Direktionsvorsteherin oder den Direktionsvorsteher bei wichtigen Personalgeschäften frühzeitig.
 
-#### § 25
+**13**
+
+- 1\. 7. 25 - 129 § 25. Die Mitarbeitenden des Generalsekretariats, der anderen Verwaltungseinheiten und der administrativ angegliederten Einheiten informieren ihre Vorgesetzten
 
 **Information der Vorgesetzten**
 
-Die Mitarbeitenden des Generalsekretariats, der anderen Verwaltungseinheiten und der administrativ angegliederten Einheiten informieren ihre Vorgesetzten a. umgehend über besondere Vorkommnisse in ihrem Aufgabenbereich,
+- a. umgehend über besondere Vorkommnisse in ihrem Aufgabenbereich,
 
 - b. frühzeitig, wenn Entscheidungen anstehen, die
 
@@ -537,10 +546,6 @@ Die Mitarbeitenden des Generalsekretariats, der anderen Verwaltungseinheiten und
 **Führungskonferenz**
 
 <sup>1</sup> Die Führungskonferenz dient der Information und der Vernetzung von Personen mit Leitungsfunktion.
-
-**13**
-
-- 1\. 7. 23 - 121
 
 <sup>2</sup> An der Führungskonferenz nehmen teil:
 
@@ -608,9 +613,7 @@ Die Mitarbeitenden des Generalsekretariats, der anderen Verwaltungseinheiten und
 
 <sup>2</sup> Am Kaderdialog Strafjustiz nehmen teil:
 
-- a. die Direktionsvorsteherin oder der Direktionsvorsteher,
-
-- b. die Generalsekretärin oder der Generalsekretär und eine oder einer ihrer oder seiner Stellvertreterinnen und Stellvertreter,
+- a. die Direktionsvorsteherin oder der Direktionsvorsteher, b.[^30-1] die Generalsekretärin oder der Generalsekretär oder eine oder einer ihrer oder seiner Stellvertreterinnen und Stellvertreter,
 
 - c. die Leiterinnen oder Leiter von Justizvollzug und Wiedereingliederung, der Oberstaatsanwaltschaft, der Oberjugendanwaltschaft und der Kantonalen Opferhilfestelle,
 
@@ -618,27 +621,25 @@ Die Mitarbeitenden des Generalsekretariats, der anderen Verwaltungseinheiten und
 
 - e. weitere Personen nach Bedarf.
 
-#### § 31
+**Dialog Geschäftsfeld Gesellschaft**
 
-**Kaderdialog Gesellschaft**
+§ 31.[^30-1] <sup>1</sup> Das Dialog Geschäftsfeld Gesellschaft (DGG) dient der Koordination der Planung und Steuerung der Aufgabenerfüllung im Bereich der Förderung des gesellschaftlichen Zusammenhalts und der Teilhabe.
 
-<sup>1</sup> Der Kaderdialog Gesellschaft dient der Koordination der Planung und Steuerung der Aufgabenerfüllung im Bereich der Förderung des gesellschaftlichen Zusammenhalts und der Teilhabe.
-
-<sup>2</sup> Am Kaderdialog Gesellschaft nehmen teil:
+<sup>2</sup> Am Dialog Geschäftsfeld Gesellschaft nehmen teil:
 
 - a. die Direktionsvorsteherin oder der Direktionsvorsteher,
 
-- b. die Generalsekretärin oder der Generalsekretär und eine oder einer ihrer oder seiner Stellvertreterinnen und Stellvertreter,
+- b. die Generalsekretärin oder der Generalsekretär oder eine oder einer ihrer oder seiner Stellvertreterinnen und Stellvertreter,
 
-- c. die Leiterinnen oder Leiter der Fachstelle Integration, der Fachstelle Gleichstellung, der Fachstelle Kultur und der Kantonalen Opferhilfestelle,
+- c. die Leiterinnen oder Leiter der Fachstelle Integration, der Fachstelle Gleichstellung, der Fachstelle Kultur, der Fachstelle Religion und der Kantonalen Opferhilfestelle,
 
 - d. weitere Personen nach Bedarf.
 
-#### § 32
+**15**
+
+- 1\. 7. 25 - 129 § 32. <sup>1</sup> Die Kaderdialoge mit den Verwaltungseinheiten gemäss § 1 Abs. 1 lit. b und c oder den administrativ angegliederten Einheiten dienen dem Austausch über die Planung und Steuerung der Aufgabenerfüllung der jeweiligen Einheit.
 
 **Kaderdialoge mit Verwaltungseinheiten oder administrativ angegliederten Einheiten**
-
-<sup>1</sup> Die Kaderdialoge mit den Verwaltungseinheiten gemäss § 1 Abs. 1 lit. b und c oder den administrativ angegliederten Einheiten dienen dem Austausch über die Planung und Steuerung der Aufgabenerfüllung der jeweiligen Einheit.
 
 <sup>2</sup> An den Kaderdialogen nehmen teil:
 
@@ -647,6 +648,8 @@ Die Mitarbeitenden des Generalsekretariats, der anderen Verwaltungseinheiten und
 - b. die Leiterin oder der Leiter der Verwaltungseinheit oder Vertretungen der administrativ angegliederten Einheiten,
 
 - c. weitere Personen nach Bedarf.
+
+[^30-1]: Fassung gemäss Vfg. vom 8. Mai 2025 (OS 80, 129; ABl 2025-05-16). In Kraft seit 1. Juli 2025.
 
 ### Anhang 1: Gliederung der Verwaltungseinheiten mit Amtsstruktur
 
@@ -666,15 +669,17 @@ Die Mitarbeitenden des Generalsekretariats, der anderen Verwaltungseinheiten und
 
 - d. Justizvollzugsanstalt Pöschwies
 
-- e. Massnahmenzentrum Uitikon
+- e. Massnahmenzentrum Uitikon f.[^h1Justizvollzugund-1] Medizinischer Dienst
 
-- f. Psychiatrisch-Psychologischer
+- g. Psychiatrisch-Psychologischer
+
+[^h1Justizvollzugund-1]: Eingefügt durch Vfg. vom 8. Mai 2025 (OS 80, 129; ABl 2025-05-16). In Kraft seit 1. Juli 2025.
 
 ### Dienst
 
-- g. Untersuchungsgefängnisse Zürich
+- h. Untersuchungsgefängnisse Zürich
 
-- h. Vollzugseinrichtungen Zürich
+- i. Vollzugseinrichtungen Zürich
 
 - 2\. Oberstaatsanwaltschaft und Staatsanwaltschaften
 
@@ -696,11 +701,15 @@ II. Schwerpunktkriminalität,
 
 und internationale Rechtshilfe
 
-### Verwaltungseinheit Gliederung
+**Verwaltungseinheit**
+
+### Gliederung
 
 - 3\. Oberjugendanwaltschaft und Jugendanwaltschaften
 
-### (Jugendstrafrechtspflege, JSP)
+**(Jugendstrafrechtspflege,**
+
+### JSP)
 
 - a. Oberjugendanwaltschaft (OJUGA)
 
@@ -708,7 +717,7 @@ und internationale Rechtshilfe
 
 ### I. Zürich-Stadt II. Winterthur III. Unterland IV. See/Oberland V. Limmattal/Albis
 
-- 4\. Gemeindeamt (GAZ)
+**4. Gemeindeamt (GAZ)**
 
 - a. Einbürgerungen
 
@@ -722,7 +731,7 @@ und internationale Rechtshilfe
 
 - f. Zivilstandswesen
 
-- 5\. Handelsregisteramt (HRA)
+**5. Handelsregisteramt (HRA)**
 
 - a. Finanzen und Controlling
 
@@ -730,7 +739,7 @@ und internationale Rechtshilfe
 
 - c. Sachbearbeitung
 
-- 6\. Statistisches Amt (STAT)
+**6. Statistisches Amt (STAT)**
 
 - a. Data Management
 
@@ -742,15 +751,17 @@ und internationale Rechtshilfe
 
 - e. Befragungen und Sozialhilfestatistik
 
-**1. 7. 23 - 121**
+**1. 7. 25 - 129**
 
 **17**
 
-- f. Wahlen und Abstimmungen
+- f. Wahlen und Abstimmungen g.[^hIZürichStadtII-1] Koordinationsstelle Teilhabe
 
 **Verwaltungseinheit**
 
 **Gliederung**
+
+[^hIZürichStadtII-1]: Eingefügt durch Vfg. vom 8. Mai 2025 (OS 80, 129; ABl 2025-05-16). In Kraft seit 1. Juli 2025.
 
 ### Anhang 2: Entscheidbefugnisse im Namen der Direktion
 
@@ -780,7 +791,7 @@ erleichterte Einbürgerung und Wiedereinbürgerung
 
 vom 28. April 2004[^90-1]
 
-**1. 7. 23 - 121**
+**1. 7. 25 - 129**
 
 **19**
 
@@ -814,7 +825,7 @@ vollzugsgesetzes vom 19. Juni
 
 **unbegrenzt unbegrenzt**
 
-2006 (StJVG)[^14_2-1]
+2006 (StJVG)[^14-1]
 
 **1 000 000 200 000**
 
@@ -822,7 +833,7 @@ vollzugsgesetzes vom 19. Juni
 
 gebundene Ausgaben gemäss
 
-[^14_2-1]: LS 331.
+[^14-1]: LS 331.
 
 #### Art. 422
 
@@ -885,7 +896,7 @@ mit Anhang 2 FCV[^156-3]
 
 **21**
 
-- 1\. 7. 23 - 121 einmalig jährlich wiederkehrend bis (in Fr.) bis (in Fr.)
+- 1\. 7. 25 - 129 einmalig jährlich wiederkehrend bis (in Fr.) bis (in Fr.)
 
 **300 000 60 000**
 
@@ -923,9 +934,14 @@ vom 1. September 2003 (GPR)[^60-1] 1 000 000 200 000
 
 **150 000 30 000**
 
-- l. Kantonale im Allgemeinen
+l.[^60-2] Fachstelle Religion
+
+**150 000 30 000**
+
+- m. Kantonale im Allgemeinen
 
 [^60-1]: LS 161.
+[^60-2]: Eingefügt durch Vfg. vom 8. Mai 2025 (OS 80, 129; ABl 2025-05-16). In Kraft seit 1. Juli 2025.
 
 ### Opferhilfestelle
 
@@ -939,11 +955,11 @@ zum Opferhilfegesetz vom 25. Juni
 
 **1 000 000 200 000**
 
-1995[^8_2-1]
+1995[^8-1]
 
 gebundene Ausgaben gemäss
 
-[^8_2-1]: LS 341.
+[^8-1]: LS 341.
 
 #### Art. 16
 
@@ -957,13 +973,13 @@ vom 23. März 2007[^16_2-1]
 
 **150 000 30 000**
 
-- m. Bezirksratspräsidentin im Allgemeinen oder Bezirksratspräsident (einschliesslich Bezirks- gebundene Ausgaben gemäss ratskanzlei) §§ 60 ff. GPR[^16_2-2]
+- n. Bezirksratspräsidentin im Allgemeinen oder Bezirksratspräsident (einschliesslich Bezirks- gebundene Ausgaben gemäss ratskanzlei) §§ 60 ff. GPR[^16_2-2]
 
 **1 000 000 200 000**
 
 **150 000 30 000**
 
-- n. Statthalteramt
+- o. Statthalteramt
 
 [^16_2-1]: SR 312.5.
 [^16_2-2]: LS 161.
