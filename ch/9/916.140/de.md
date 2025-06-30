@@ -3,11 +3,11 @@ sr: "916.140"
 title: Verordnung vom 14. November 2007 über den Rebbau und die Einfuhr von Wein (Weinverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/833"
 language: de
-version: 2025-06-01
+version: 2025-07-01
 adopted: 2007-11-14
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/833/20250601/de/xml/fedlex-data-admin-ch-eli-cc-2007-833-20250601-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20250601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/833/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2007-833-20250701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20250601/de"
 
 (Weinverordnung)
 
-vom 14. November 2007 (Stand am 1. Juni 2025)
+vom 14. November 2007 (Stand am 1. Juli 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -322,6 +322,11 @@ Trauben und Traubenmoste, die für die Verarbeitung zu Wein bestimmt sind, sowie
 
 <sup>2</sup> Traubenposten und Traubenmoste, welche die Anforderungen an einen Tafelwein nicht erfüllen, dürfen weder zu Wein verarbeitet noch als solcher vermarktet werden. Ein Tafelwein, der nicht die entsprechenden Anforderungen erfüllt, kann nicht als solcher vermarktet werden.
 
+<sup>3</sup> Ein Wein mit KUB/AOC kann immer deklassiert werden, auch wenn die Abweichung für Weine mit KUB/AOC, die in den önologischen Verfahren und Behandlungen erwähnt wird, die vom Eidgenössischen Departement des Innern (EDI) gemäss Artikel 14 Absatz 1 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016[^27-1] (LGV) zugelassen sind, angewendet wurde.[^27-2]
+
+[^27-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^27-2]: Eingefügt durch Ziff. II 1 der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 369](https://fedlex.data.admin.ch/eli/oc/2025/369)).
+
 ## 3*a*. Abschnitt: Begriffsbestimmungen und Anforderungen an Schweizer Wein
 
 [^sec3a-1]
@@ -356,10 +361,10 @@ Bei Schweizer Wein, der ohne Anreicherungsprozess gewonnen wird, darf der Gesamt
 
 **Süssung von Schweizer Wein mit kontrollierter Ursprungsbezeichnung**[^27c-1]
 
-Die Süssung von Schweizer Wein mit kontrollierter Ursprungsbezeichnung (KUB/AOC) ist verboten. Die Kantone können die Süssung von Wein mit KUB/AOC zulassen, wenn die Bedingungen nach Anhang 9 der Verordnung des EDI vom 16. Dezember 2016[^27c-2] über Getränke erfüllt sind.
+Die Süssung von Schweizer Wein mit KUB/AOC ist verboten. Die Kantone können die Süssung von Wein mit KUB/AOC zulassen, wenn die vom EDI nach Artikel 14 Absatz 1 LGV[^27c-2] erlassenen Bestimmungen über die Süssung von Wein erfüllt sind.
 
-[^27c-1]: Fassung gemäss Anhang Ziff. 2 der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
-[^27c-2]: [SR 817.022.12](https://fedlex.data.admin.ch/eli/cc/2017/220)
+[^27c-1]: Fassung gemäss Ziff. II 1 der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 369](https://fedlex.data.admin.ch/eli/oc/2025/369)).
+[^27c-2]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 
 #### Art. 27d
 
@@ -404,6 +409,16 @@ Er darf nur mit Schweizer Wein verschnitten werden, wenn die folgenden Vorschrif
 
 <sup>5</sup> Die Absätze 1–4 gelten auch für Schweizer Likörwein.
 
+#### Art. 27e<sup>bis</sup>
+
+**Vollständig oder teilweise entalkoholisierter Wein**[^27ebis-1]
+
+<sup>1</sup> Bei Wein mit KUB/AOC und bei Landwein ist eine vollständige Entalkoholisierung nicht zulässig. Als vollständige Entalkoholisierung gilt ein önologisches Verfahren, das zur Folge hat, dass der Alkoholgehalt des Produkts 0,5 Volumenprozent oder weniger beträgt.
+
+<sup>2</sup> Bei Wein mit KUB/AOC, bei Landwein und bei Tafelwein ist eine teilweise Entalkoholisierung zulässig. Als teilweise Entalkoholisierung gilt ein önologisches Verfahren, das zur Folge hat, dass der Alkoholgehalt des Produkts mehr als 0,5 Volumenprozent beträgt, aber unterhalb des Mindestalkoholgehalts der Kategorie liegt.
+
+[^27ebis-1]: Eingefügt durch Ziff. II 1 der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 369](https://fedlex.data.admin.ch/eli/oc/2025/369)).
+
 ## 3*b*. Abschnitt: Bestimmungen über Schweizer und ausländische Weine, Schaumweine und Likörweine
 
 [^sec3b-1]
@@ -412,9 +427,12 @@ Er darf nur mit Schweizer Wein verschnitten werden, wenn die folgenden Vorschrif
 
 #### Art. 27f
 
-Schweizer und ausländische Weine, Schaumweine und Likörweine müssen bezüglich der Begriffe, der önologischen Verfahren und Behandlungen sowie der Kennzeichnung die Artikel 69–76 und 84–86 der Verordnung des EDI vom 16. Dezember 2016[^27f-1] über Getränke einhalten.
+[^27f-1]
 
-[^27f-1]: [SR 817.022.12](https://fedlex.data.admin.ch/eli/cc/2017/220)
+Schweizer und ausländische Weine, Schaumweine und Likörweine müssen bezüglich der Begriffe, der önologischen Verfahren und Behandlungen sowie der Kennzeichnung die vom EDI nach Artikel 14 Absatz 1 und 36 Absätze 3 und 4 LGV[^27f-2] erlassenen Bestimmungen einhalten.
+
+[^27f-1]: Fassung gemäss Ziff. II 1 der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 369](https://fedlex.data.admin.ch/eli/oc/2025/369)).
+[^27f-2]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 
 ## 4. Abschnitt: Weinlesekontrolle
 
@@ -546,7 +564,7 @@ Sie informieren das BLW nach dessen Vorgaben bis Ende März des auf die Weinlese
 <sup>4</sup> Sie reichen dem BLW bis Ende Januar des auf die Weinlese folgenden Jahres einen Weinlesebericht ein, der sämtliche statistischen Angaben nach der Erhebung für die Rebbau-Statistik enthält.[^30b-4]
 
 [^30b-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
-[^30b-2]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^30b-2]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/2025/318)
 [^30b-3]: Fassung gemäss Anhang 3 Ziff. 24 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 [^30b-4]: Fassung gemäss Anhang 3 Ziff. 24 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 

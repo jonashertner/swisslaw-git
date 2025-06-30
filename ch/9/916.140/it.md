@@ -3,11 +3,11 @@ sr: "916.140"
 title: "Ordinanza del 14 novembre 2007 concernente la viticoltura e l'importazione di vino (Ordinanza sul vino)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/833"
 language: it
-version: 2025-06-01
+version: 2025-07-01
 adopted: 2007-11-14
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/833/20250601/it/xml/fedlex-data-admin-ch-eli-cc-2007-833-20250601-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20250601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/833/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2007-833-20250701-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20250701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20250601/it"
 
 (Ordinanza sul vino)
 
-del 14 novembre 2007 (Stato 1° giugno 2025)
+del 14 novembre 2007 (Stato 1° luglio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -328,7 +328,11 @@ Le uve e i mosti destinati all’elaborazione, come pure i vini classificati in 
 
 <sup>2</sup> Le partite di uva e i mosti che non rispondono alle esigenze relative ai vini da tavola non possono essere trasformate in vino né commercializzate come tali. I vini da tavola che non adempiono le esigenze non possono essere commercializzati come tali.
 
+Un vino classificato come vino DOC può sempre essere declassato a vino di una classe inferiore, anche se è stata applicata la deroga per i vini DOC menzionata nelle pratiche e nei trattamenti enologici consentiti stabiliti dal Dipartimento federale dell’interno (DFI) ai sensi dell’articolo 14 capoverso 1 dell’ordinanza del 16 dicembre 2016[^27-2] sulle derrate alimentari e gli oggetti d’uso (ODerr).[^27-3]
+
 [^27-1]: [RU 2008 3931](https://fedlex.data.admin.ch/eli/oc/2008/528)
+[^27-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^27-3]: Introdotto dalla cifra II n. 1 dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 369](https://fedlex.data.admin.ch/eli/oc/2025/369)).
 
 ## Sezione 3*a* *:* Definizioni ed esigenze relative ai vini svizzeri
 
@@ -366,10 +370,10 @@ Il limite massimo del titolo alcolometrico totale può essere superiore al 15 pe
 
 **Edulcorazione dei vini svizzeri a denominazione di origine controllata**[^27c-1]
 
-L’edulcorazione dei vini svizzeri a denominazione di origine controllata (DOC) è vietata. I Cantoni possono autorizzare l’edulcorazione dei vini DOC se sono adempiute le condizioni secondo l’allegato 9 dell’ordinanza del DFI del 16 dicembre 2016[^27c-2] sulle bevande.
+L’edulcorazione dei vini svizzeri DOC è vietata. I Cantoni possono autorizzare l’edulcorazione dei vini DOC se sono adempiute le condizioni sull’edulcorazione dei vini emanate dal DFI secondo l’articolo 14 capoverso 1 ODerr[^27c-2].
 
-[^27c-1]: Nuovo testo giusta l’all. n. 2 dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
-[^27c-2]: [RS 817.022.12](https://fedlex.data.admin.ch/eli/cc/2017/220)
+[^27c-1]: Nuovo testo giusta la cifra II n. 1 dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 369](https://fedlex.data.admin.ch/eli/oc/2025/369)).
+[^27c-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 
 #### Art. 27d
 
@@ -414,6 +418,16 @@ Possono essere tagliati con vini svizzeri soltanto se sono rispettate le seguent
 
 <sup>5</sup> I capoversi 1–4 sono altresì applicabili al vino liquoroso svizzero.
 
+#### Art. 27e<sup>bis</sup>
+
+**Vino totalmente o parzialmente dealcolizzato**[^27ebis-1]
+
+<sup>1</sup> La dealcolizzazione totale dei vini DOC e dei vini con indicazione geografica tipica non è autorizzata. Per dealcolizzazione totale s’intende una pratica enologica che porta a un titolo alcolometrico volumico effettivo del prodotto pari o inferiore allo 0,5 per cento vol.
+
+<sup>2</sup> La dealcolizzazione parziale dei vini DOC, dei vini con indicazione geografica tipica e dei vini da tavola è autorizzata. Per dealcolizzazione parziale s’intende una pratica enologica che porta a un titolo alcolometrico volumico effettivo del prodotto pari allo 0,5 per cento vol., ma inferiore al titolo alcolometrico volumico effettivo minimo della categoria.
+
+[^27ebis-1]: Introdotto dalla cifra II n. 1 dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 369](https://fedlex.data.admin.ch/eli/oc/2025/369)).
+
 ## Sezione 3*b* *:* Disposizioni concernenti i vini, i vini spumanti e i vini liquorosi svizzeri ed esteri
 
 [^sec3b-1]
@@ -422,9 +436,12 @@ Possono essere tagliati con vini svizzeri soltanto se sono rispettate le seguent
 
 #### Art. 27f
 
-I vini, i vini spumanti e i vini liquorosi svizzeri ed esteri devono soddisfare le disposizioni in materia di definizioni, pratiche e trattamenti enologici e caratterizzazione di cui agli articoli 69–76 e 84–86 dell’ordinanza del DFI del 16 dicembre 2016[^27f-1] sulle bevande.
+[^27f-1]
 
-[^27f-1]: [RS 817.022.12](https://fedlex.data.admin.ch/eli/cc/2017/220)
+I vini, i vini spumanti e i vini liquorosi svizzeri ed esteri devono soddisfare le disposizioni in materia di definizioni, pratiche e trattamenti enologici e caratterizzazione emanate dal DFI secondo gli articoli 14 capoverso 1 e 36 capoversi 3 e 4 ODerr[^27f-2].
+
+[^27f-1]: Nuovo testo giusta la cifra II n. 1 dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 369](https://fedlex.data.admin.ch/eli/oc/2025/369)).
+[^27f-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 
 ## Sezione 4: Controllo della vendemmia
 
@@ -556,7 +573,7 @@ Essi informano l’UFAG, secondo le sue prescrizioni, entro fino marzo dell’an
 <sup>4</sup> Essi presentano all’UFAG, entro fine gennaio dell’anno successivo alla vendemmia, un rapporto della vendemmia che comprende tutti i dati statistici contenuti nella rilevazione per la statistica della viticoltura.[^30b-4]
 
 [^30b-1]: Introdotto dalla cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
-[^30b-2]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^30b-2]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/2025/318)
 [^30b-3]: Nuovo testo giusta l’all. 3 n. 24 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 [^30b-4]: Nuovo testo giusta l’all. 3 n. 24 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
@@ -959,7 +976,7 @@ I vini svizzeri a denominazione di origine controllata (DOC) prodotti con uve de
 
 L’ordinanza del 28 maggio 1997[^49-1] sul controllo del commercio dei vini e l’ordinanza del 7 dicembre 1998[^49-2] sul vino sono abrogate.
 
-[^49-1]: [[RU 1997 1182](https://fedlex.data.admin.ch/eli/oc/1997/1182_1182_1182), [1999 303](https://fedlex.data.admin.ch/eli/oc/1999/35)cifra I n. 9, [2002 1382](https://fedlex.data.admin.ch/eli/oc/2002/214), [2003 1761](https://fedlex.data.admin.ch/eli/oc/2003/264), [2004 4911](https://fedlex.data.admin.ch/eli/oc/2004/739), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 102]
+[^49-1]: [[RU 1997 1182](https://fedlex.data.admin.ch/eli/oc/1997/1182_1182_1182), [1999 303](https://fedlex.data.admin.ch/eli/oc/1999/35)cifra I n. 9, [2002 1382](https://fedlex.data.admin.ch/eli/oc/2002/214), [2003 1761](https://fedlex.data.admin.ch/eli/oc/2003/264), [2004 4911](https://fedlex.data.admin.ch/eli/oc/2004/739), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)cifra II 102]
 [^49-2]: [[RU 1999 86](https://fedlex.data.admin.ch/eli/oc/1999/16); [2002 1097](https://fedlex.data.admin.ch/eli/oc/2002/175); [2003 1757](https://fedlex.data.admin.ch/eli/oc/2003/263), [4915](https://fedlex.data.admin.ch/eli/oc/2003/725); [2005 2159](https://fedlex.data.admin.ch/eli/oc/2005/352); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 53]
 
 #### Art. 50

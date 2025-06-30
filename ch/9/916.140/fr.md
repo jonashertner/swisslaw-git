@@ -3,11 +3,11 @@ sr: "916.140"
 title: "Ordonnance du 14 novembre 2007 sur la viticulture et l'importation de vin (Ordonnance sur le vin)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/833"
 language: fr
-version: 2025-06-01
+version: 2025-07-01
 adopted: 2007-11-14
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/833/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-2007-833-20250601-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20250601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/833/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2007-833-20250701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20250601/fr"
 
 (Ordonnance sur le vin)
 
-du 14 novembre 2007 (État le 1<sup>er</sup> juin 2025)
+du 14 novembre 2007 (État le 1<sup>er</sup> juillet 2025)
 
 Le Conseil fédéral suisse,
 
@@ -324,6 +324,11 @@ Les raisins et les moûts destinés à l’élaboration de vin ainsi que les vin
 
 <sup>2</sup> Les lots de raisins et les moûts qui ne répondent pas aux exigences relatives aux vins de table ne peuvent être transformés en vin ni commercialisés comme tel. Les vins de table qui ne remplissent pas les exigences ne peuvent être commercialisés comme tels.
 
+<sup>3</sup> Un vin bénéficiant d’une AOC peut toujours être déclassé en vin d’une classe inférieure, même si la dérogation pour les vins AOC mentionnée dans les pratiques et traitements œnologiques autorisés fixées par le Département fédéral de l’intérieur (DFI) en vertu de l’art. 14, al. 1, de l’ordonnance du 16 décembre 2016 sur les denrées alimentaires et les objets usuels (ODAlOUs)[^27-1] a été utilisée.[^27-2]
+
+[^27-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^27-2]: Introduit par le ch. II 1 de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 369](https://fedlex.data.admin.ch/eli/oc/2025/369)).
+
 ## Section 3*a* Définitions et exigences relatives aux vins suisses
 
 [^sec3a-1]
@@ -358,10 +363,10 @@ La limite maximale du titre alcoométrique total peut dépasser 15 % vol. pour l
 
 **Édulcoration des vins suisses d’appellation d’origine contrôlée**[^27c-1]
 
-L’édulcoration des vins suisses d’appellation d’origine contrôlée (AOC) est interdite. Les cantons peuvent autoriser l’édulcoration des vins AOC aux conditions fixées à l’annexe 9 de l’ordonnance du DFI du 16 décembre 2016 sur les boissons[^27c-2].
+L’édulcoration des vins suisses AOC est interdite. Les cantons peuvent autoriser l’édulcoration des vins AOC lorsque les conditions relatives à l’édulcoration du vin fixées par le DFI en vertu de l’art. 14, al. 1, ODAlOUs[^27c-2] sont remplies.
 
-[^27c-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
-[^27c-2]: [RS 817.022.12](https://fedlex.data.admin.ch/eli/cc/2017/220)
+[^27c-1]: Nouvelle teneur selon le ch. II 1 de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 369](https://fedlex.data.admin.ch/eli/oc/2025/369)).
+[^27c-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 
 #### Art. 27d
 
@@ -406,6 +411,16 @@ Ils ne peuvent être coupés avec du vin suisse que si les prescriptions suivant
 
 <sup>5</sup> Les al. 1 à 4 sont également applicables aux vins de liqueur suisses.
 
+#### Art. 27e<sup>bis</sup>
+
+**Vins totalement ou partiellement désalcoolisés**[^27ebis-1]
+
+<sup>1</sup> La désalcoolisation totale des vins AOC et des vins de pays n’est pas autorisée. La désalcoolisation totale est une pratique œnologique qui permet d’obtenir un produit dont le titre alcoométrique acquis est inférieur ou égal à 0,5 % vol.
+
+<sup>2</sup> La désalcoolisation partielle des vins AOC, des vins de pays et des vins de table est autorisée. La désalcoolisation partielle est une pratique œnologique qui permet d’obtenir un produit dont le titre alcoométrique acquis est supérieur à 0,5 % vol. mais inférieur au titre alcoométrique acquis minimal fixé pour la catégorie.
+
+[^27ebis-1]: Introduit par le ch. II 1 de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 369](https://fedlex.data.admin.ch/eli/oc/2025/369)).
+
 ## Section 3*b* Dispositions concernant les vins, vins mousseux et vins de liqueur suisses et étrangers
 
 [^sec3b-1]
@@ -414,9 +429,12 @@ Ils ne peuvent être coupés avec du vin suisse que si les prescriptions suivant
 
 #### Art. 27f
 
-Les vins, vins mousseux et vins de liqueur suisses et étrangers doivent respecter, concernant les définitions, pratiques et traitements œnologiques et l’étiquetage, les art. 69 à 76 et 84 à 86 de l’ordonnance du DFI du 16 décembre 2016 sur les boissons[^27f-1].
+[^27f-1]
 
-[^27f-1]: [RS 817.022.12](https://fedlex.data.admin.ch/eli/cc/2017/220)
+Les vins, vins mousseux et vins de liqueur suisses et étrangers doivent respecter, concernant les définitions, les pratiques et traitements œnologiques et l’étiquetage, les dispositions édictées par le DFI en vertu des art. 14, al. 1, et 36, al. 3 et 4, ODAlOUs[^27f-2].
+
+[^27f-1]: Introduit par le ch. II 1 de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 369](https://fedlex.data.admin.ch/eli/oc/2025/369)).
+[^27f-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 
 ## Section 4 Contrôle de la vendange
 
@@ -548,7 +566,7 @@ Ils informent l’OFAG, conformément à ses instructions, pour la fin du mois d
 <sup>4</sup> Ils adressent à l’OFAG, pour la fin du mois de janvier de l’année suivant la vendange, un rapport sur la vendange comprenant toutes les données statistiques contenues dans le relevé pour la statistique viticole.[^30b-4]
 
 [^30b-1]: Introduit par le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
-[^30b-2]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^30b-2]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/2025/318)
 [^30b-3]: Nouvelle teneur selon l’annexe 3 ch. 24 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 [^30b-4]: Nouvelle teneur selon l’annexe 3 ch. 24 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
