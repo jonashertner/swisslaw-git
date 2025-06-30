@@ -4,13 +4,12 @@ number: "842.1"
 title: Einführungsgesetz zum Bundesgesetz über die Fischerei
 short: "Fischereigesetz, kFG"
 language: de
-version: 2024-01-01
-valid_until: 2025-06-30
-version_adopted: 2023-05-31
+version: 2025-07-01
+version_adopted: 2025-02-19
 adopted: 2023-05-31
 in_force: 2024-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/842.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1226/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1389/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1226/pdf_file"
 
 (Fischereigesetz, kFG)
 
-vom 31.05.2023 (Stand 01.01.2024)
+vom 31.05.2023 (Stand 01.07.2025)
 
 Der Landrat von Nidwalden,
 
@@ -565,7 +564,7 @@ beschliesst:
 
 **Anzeigepflicht**
 
-<sup>1</sup> Die Vollzugsinstanzen sind zur Strafanzeige verpflichtet, sofern kein Übertretungstatbestand gemäss Art. 56 betroffen ist.
+<sup>1</sup> Die Vollzugsinstanzen sind zur Strafanzeige verpflichtet, sofern kein Übertretungstatbestand betroffen ist.
 
 #### Art. 55
 
@@ -577,15 +576,7 @@ beschliesst:
 
 #### Art. 56
 
-**Ordnungsbussenverfahren**
-
-<sup>1</sup> Übertretungen können in einem vereinfachten Verfahren mit Ordnungsbussen geahndet werden, wenn es sich um einfache und klar erfassbare Tatbestände handelt.
-
-<sup>2</sup> Die Aufsichtsorgane gemäss Art. 48 sind zuständig, Übertretungen mit Ordnungsbussen zu ahnden.
-
-<sup>3</sup> Für die Bezeichnung der Übertretungstatbestände, die Höhe der Ordnungsbussen, das Verfahren, den Ausschluss des Ordnungsbussenverfahrens sowie die Registrierung gelten die Regelungen gemäss Art. 43 bis 46 des Einführungsgesetz zum Bundesgesetz über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Kantonales Jagdgesetz, kJSG)[^56-1].
-
-[^56-1]: NG 841.1
+**…**
 
 ## 7 Vollzugs- und Übergangsbestimmungen
 
