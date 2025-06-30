@@ -4,11 +4,11 @@ title: Ordinanza del 19 giugno 1995 concernente le esigenze tecniche per i veico
 short: OETV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425"
 language: it
-version: 2025-05-01
+version: 2025-07-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/fedlex-data-admin-ch-eli-cc-1995-4425_4425_4425-20250501-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/fedlex-data-admin-ch-eli-cc-1995-4425_4425_4425-20250701-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it"
 
 (OETV)
 
-del 19 giugno 1995 (Stato 1° maggio 2025)
+del 19 giugno 1995 (Stato 1° luglio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -125,7 +125,7 @@ Per i testi legislativi sono impiegate le abbreviazioni seguenti:[^3-16]
 - w.[^3-46] …
 - x.[^3-47] EN norma europea del Comitato europeo di normazione (CEN).
 
-<sup>4</sup> e <sup>5</sup> …[^3-48]
+<sup>4 e <sup>5</sup></sup> …[^3-48]
 
 [^3-1]: Nuovo testo giusta la cifra I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
 [^3-2]: Nuovo testo giusta la cifra I dell’O del 2 set. 1998, in vigore dal 1° ott. 1998 ([RU 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
@@ -158,7 +158,7 @@ Per i testi legislativi sono impiegate le abbreviazioni seguenti:[^3-16]
 [^3-29]: [RS 741.412](https://fedlex.data.admin.ch/eli/cc/1995/4145_4145_4145)
 [^3-30]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^3-31]: [RS 741.413](https://fedlex.data.admin.ch/eli/cc/2016/821)
-[^3-32]: [[RU 1986 1836](https://fedlex.data.admin.ch/eli/oc/1986/1836_1836_1836), [1987 1168](https://fedlex.data.admin.ch/eli/oc/1987/1168_1168_1168), [1990 1488](https://fedlex.data.admin.ch/eli/oc/1990/1488_1488_1488), [1993 3127](https://fedlex.data.admin.ch/eli/oc/1993/3127_3127_3127), [1994 167](https://fedlex.data.admin.ch/eli/oc/1994/167_167_167)cifra IV, [1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)all. 1 cifra II 7, [1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)art. 1 n. 11. [RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)cifra I n. 76]
+[^3-32]: [[RU 1986 1836](https://fedlex.data.admin.ch/eli/oc/1986/1836_1836_1836), [1987 1168](https://fedlex.data.admin.ch/eli/oc/1987/1168_1168_1168), [1990 1488](https://fedlex.data.admin.ch/eli/oc/1990/1488_1488_1488), [1993 3127](https://fedlex.data.admin.ch/eli/oc/1993/3127_3127_3127), [1994 167](https://fedlex.data.admin.ch/eli/oc/1994/167_167_167)cifra IV, [1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)all. 1 cifra II n. 7, [1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)art. 1 n. 11. [RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)cifra I n. 76]
 [^3-33]: Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 [^3-34]: [RS 930.111](https://fedlex.data.admin.ch/eli/cc/2010/348)
 [^3-35]: [RS 741.435.4](https://fedlex.data.admin.ch/eli/cc/1986/1889_1889_1889)
@@ -569,41 +569,23 @@ Sono «ciclomotori»:
 
 - a.
 
-  i veicoli monotraccia a un posto con una velocità massima per costruzione di 30 km/h, una potenza del motore complessiva di 1,00 kW al massimo e:[^18-2]
+  i «ciclomotori veloci», vale a dire veicoli monotraccia monoposto con una velocità massima per costruzione di 30 km/h in caso di uso del solo motore, una potenza del motore complessiva di al massimo 1,00 kW, un peso totale massimo di 200 kg e:
 
   - 1\. un motore a combustione interna con una cilindrata massima di 50 cm<sup>3</sup>, oppure
-  - 2\.[^18-3] propulsione elettrica nonché una velocità massima di 45 km/h in caso di pedalata assistita;
+  - 2\. propulsione elettrica nonché una velocità massima di 45 km/h in caso di pedalata assistita;
 
 - b.
 
-  i «ciclomotori leggeri», vale a dire veicoli a propulsione elettrica aventi una potenza del motore complessiva di 0,50 kW al massimo e una velocità massima per costruzione di 20 km/h oppure di 25 km/h in caso di pedalata assistita e che:[^18-4]
+  i «ciclomotori leggeri», vale a dire veicoli aventi un peso totale massimo di 250 kg, una potenza del motore complessiva di al massimo 0,50 kW e una propulsione elettrica in grado di raggiungere al massimo:
 
-  - 1\.[^18-5] sono al massimo a due posti,
-  - 2\.[^18-6] sono appositamente predisposti per trasportare una persona disabile,
-  - 3\.[^18-7] sono composti di una combinazione velocipede/sedia a rotelle [^18-8], oppure
-  - 4\.[^18-9] sono appositamente predisposti per trasportare al massimo due fanciulli collocati su sedili protetti;
+  - 1\. 25 km/h per i veicoli con sella per il conducente, o
+  - 2\. 20 km/h per i veicoli senza sella per il conducente;
 
-- c.[^18-10] le «sedie a rotelle motorizzate», vale a dire veicoli progettati per l’impiego da parte di persone motulese, aventi propulsione propria, una velocità massima per costruzione di 30 km/h, una potenza del motore complessiva di al massimo 1,00 kW e una cilindrata massima di 50 cm<sup>3</sup> se dotati di motore a combustione interna;
-- d.[^18-11]
+- c. le «sedie a rotelle motorizzate», vale a dire veicoli progettati per l’impiego da parte di persone disabili dotati di propulsione elettrica, una velocità massima per costruzione di 25 km/h e una potenza del motore complessiva di al massimo 2,00 kW;
+- d. i «monopattini autobilanciati», vale a dire veicoli monoposto, autobilanciati, dotati di propulsione elettrica in grado di raggiungere al massimo 25 km/h, aventi un peso totale massimo di 250 kg e una potenza del motore complessiva di al massimo 2,00 kW, una parte considerevole della quale è impiegata per bilanciare il veicolo;
+- e. i «ciclomotori pesanti», vale a dire veicoli pluritraccia dotati di propulsione elettrica in grado di raggiungere al massimo 25 km/h, aventi un peso totale massimo di 450 kg e una potenza del motore complessiva di al massimo 2,00 kW.
 
-  i «monopattini autobilanciati»[^18-12], vale a dire veicoli monoposto, autobilanciati, a propulsione elettrica e aventi:
-
-  - 1\. una potenza del motore complessiva di 2,00 kW al massimo, una parte considerevole della quale è impiegata per bilanciare il veicolo,
-  - 2\. una velocità massima per costruzione di 20 km/h, e
-  - 3\. una velocità massima di 25 km/h in caso di pedalata assistita.
-
-[^18-1]: Nuovo testo giusta la cifra I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
-[^18-2]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^18-3]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^18-4]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^18-5]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
-[^18-6]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4693](https://fedlex.data.admin.ch/eli/oc/2013/827)).
-[^18-7]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4693](https://fedlex.data.admin.ch/eli/oc/2013/827)).
-[^18-8]: Nuova espr. giusta la cifra I dell’O del 15 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1321](https://fedlex.data.admin.ch/eli/oc/2015/277)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^18-9]: Introdotto dalla cifra I dell’O del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4693](https://fedlex.data.admin.ch/eli/oc/2013/827)).
-[^18-10]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^18-11]: Introdotta dalla cifra I dell’O del 15 apr. 2015 ([RU 2015 1321](https://fedlex.data.admin.ch/eli/oc/2015/277)). Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^18-12]: Nuova espr. giusta la cifra I dell’O del 17 dic. 2021, in vigore dal 1° apr. 2022 ([RU 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
 
 ### Capitolo 4: Veicoli senza motore
 
@@ -741,7 +723,7 @@ Sono equiparati a questi rimorchi:
 
 <sup>2</sup> I «veicoli a trazione animale» sono veicoli senza propulsione propria, comprese le slitte, destinati ad essere trainati da animali.
 
-<sup>3</sup> …[^23-2]
+<sup>3</sup> … [^23-2]
 
 [^23-1]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
 [^23-2]: Abrogato dalla cifra I dell’O del 21 nov. 2018, con effetto dal 1° feb. 2019 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
@@ -1452,7 +1434,7 @@ Una dichiarazione di garanzia giusta il capoverso 2 è riconosciuta se:
 [^41-6]: Introdotto dalla cifra I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
 [^41-7]: Nuovo testo giusta la cifra I dell’O del 17 dic. 2021, in vigore dal 1° apr. 2022 ([RU 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 [^41-8]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
-[^41-9]: Nuova espr. testo giusta la cifra I dell’O del 15 gen. 2025, in vigore dal 1° mag. 2025 ([RU 2025 70](https://fedlex.data.admin.ch/eli/oc/2025/70)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^41-9]: Nuova espr. giusta la cifra I dell’O del 15 gen. 2025, in vigore dal 1° mag. 2025 ([RU 2025 70](https://fedlex.data.admin.ch/eli/oc/2025/70)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^41-10]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^41-11]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 
@@ -1805,8 +1787,8 @@ La capacità di carico degli pneumatici, l’indice di velocità, le combinazion
 <sup>8</sup> I veicoli delle categorie M, N e O aventi una velocità massima per costruzione o ammessa di 80 km/h e oltre devono essere dotati di pneumatici conformi al regolamento (UE) 2019/2144.[^58-7]
 
 [^58-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^58-2]: Introdotta dal I dell’O del 21 nov. 2018, in vigore dal 1° mag. 2019 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
-[^58-3]: Introdotta dal I dell’O del 21 nov. 2018, in vigore dal 1° mag. 2019 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
+[^58-2]: Introdotta dalla cifra I dell’O del 21 nov. 2018, in vigore dal 1° mag. 2019 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
+[^58-3]: Introdotta dalla cifra I dell’O del 21 nov. 2018, in vigore dal 1° mag. 2019 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
 [^58-4]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^58-5]: Introdotto dalla cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^58-6]: Introdotto dalla cifra I dell’O del 10 giu. 2005, in vigore dal 1° ott. 2005 ([RU 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)).
@@ -2020,7 +2002,7 @@ Le porte di accesso ai compartimenti occupati da persone durante la corsa devono
 
 <sup>3</sup> Le porte sulla parete posteriore devono essere munite di un dispositivo di sicurezza che, in caso di apertura involontaria, eviti che sporgano dalle parti esterne fisse del veicolo. Sono eccettuate le porte che, per il carico e lo scarico, possono venirsi a trovare a contatto con la parte laterale esterna del veicolo ed essere bloccate in questa posizione. Le porte di compartimenti adibiti al trasporto di persone devono potersi aprire dall’interno, eccettuato per i veicoli adibiti ai trasporti di polizia.[^71-5]
 
-<sup>4</sup> e <sup>5</sup> …[^71-6]
+<sup>4 e <sup>5</sup></sup> …[^71-6]
 
 [^71-1]: Nuovo testo giusta la cifra I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
 [^71-2]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
@@ -2784,11 +2766,11 @@ L’apparecchio per la registrazione dei dati deve indicare per lo meno durante 
 
 <sup>4</sup> Agli impianti di frenatura di autoveicoli che non appartengono alle categorie M o N o la cui velocità massima non supera 60 km/h si applicano le disposizioni degli articoli 126 a 130.[^103-4]
 
-<sup>5</sup> I veicoli delle categorie M1 e N1 devono essere conformi al regolamento (UE) 2019/2144 oppure offrire un livello di protezione equivalente per quanto riguarda il sistema avanzato di frenata di emergenza, i sistemi antibloccaggio, di con-trollo elettronico della stabilità, di emergenza di mantenimento della corsia, di avviso di disattenzione e stanchezza del conducente, di avviso della distrazione del conducente, di monitoraggio della pressione degli pneumatici e di rilevamento in retromarcia non-ché la protezione da ciberattacchi e da aggiornamenti software non autorizzati. Fanno eccezione i veicoli di costruttori che producono complessivamente non più di 1500 veicoli all’anno delle categorie M1 e N1.[^103-5]
+<sup>5</sup> I veicoli delle categorie M<sub>1</sub> e N<sub>1</sub> devono essere conformi al regolamento (UE) 2019/2144 e al regolamento (UE) 2018/858 oppure offrire un livello di protezione equivalente per quanto riguarda il sistema avanzato di frenata di emergenza, i sistemi antibloccaggio, di assistenza alla frenata, di controllo elettronico della stabilità, di emergenza di mantenimento della corsia, di avviso di disattenzione e stanchezza del conducente, di avviso della distrazione del conducente, di monitoraggio della pressione degli pneumatici e di rilevamento in retromarcia nonché la protezione da ciberattacchi e da aggiornamenti software non autorizzati. Fanno eccezione i veicoli di costruttori che producono complessivamente non più di 1500 veicoli all’anno delle categorie M<sub>1</sub> e N<sub>1</sub>.[^103-5]
 
-<sup>6</sup> I veicoli delle categorie M2, M3, N2 e N3 devono essere conformi al regolamento (UE) 2019/2144 per quanto riguarda i sistemi antibloccaggio, il sistema avanzato di frenata di emergenza, di controllo elettronico della stabilità, di avviso di deviazione dalla corsia, di avviso di disattenzione e stanchezza del conducente, di avviso avanzato della distrazione del conducente, di monitoraggio della pressione degli pneumatici, di rilevamento in retromarcia, di rilevamento angolo cieco e di avviso di collisione con pedoni e ciclisti nonché la protezione da ciberattacchi e aggiornamenti software non autorizzati.[^103-6]
+<sup>6</sup> I veicoli delle categorie M<sub>2</sub>, M<sub>3</sub>, N<sub>2</sub> e N<sub>3</sub> devono essere conformi al regolamento (UE) 2019/2144 e al regolamento (UE) 2018/858 per quanto riguarda il sistema avanzato di frenata di emergenza, i sistemi antibloccaggio, di controllo elettronico della stabilità, di avviso di deviazione dalla corsia, di avviso di disattenzione e stanchezza del conducente, di avviso della distrazione del conducente, di monitoraggio della pressione degli pneumatici, di rilevamento in retromarcia, di rilevamento angolo cieco e di avviso di collisione con pedoni e ciclisti nonché la protezione da ciberattacchi e da aggiornamenti software non autorizzati.[^103-6]
 
-<sup>7</sup> Per i sistemi di cui agli articoli 5–7 e 9 del regolamento (UE) 2019/2144 installati su base volontaria è sufficiente una dichiarazione del costruttore o di un organo di controllo riconosciuto ai sensi dell’articolo 17 capoverso 1 OATV[^103-7] secondo cui le funzioni del sistema sono equivalenti a quelle del regolamento (UE) 2019/2144. Questo vale anche per i sistemi installati su base volontaria, che possono intervenire attivamente sul comportamento di guida del veicolo, riguardanti la protezione da ciberattacchi nonché per i sistemi installati su base volontaria con software modificabile riguardanti la protezione da aggiornamenti software non autorizzati.[^103-8]
+<sup>7</sup> Per i sistemi di cui agli articoli 5–7 e 9 del regolamento (UE) 2019/2144 installati su base volontaria è sufficiente una dichiarazione del costruttore o di un organo di controllo riconosciuto ai sensi dell’articolo 17 capoverso 1 OATV[^103-7] secondo cui le funzioni del sistema sono equivalenti a quelle del regolamento (UE) 2019/2144. Questo vale anche per i sistemi installati su base volontaria che possono intervenire attivamente sul comportamento di guida del veicolo, per quanto riguarda la protezione da ciberattacchi e per quelli installati su base volontaria con software modificabile, per quanto riguarda la protezione da aggiornamenti software non autorizzati ai sensi del regolamento (UE) 2018/858.[^103-8]
 
 <sup>8</sup>
 
@@ -2806,10 +2788,10 @@ Sono ammesse deroghe ai capoversi 5 e 6 in caso di:
 [^103-2]: Introdotto dalla cifra I dell’O del 30 giu. 2004 ([RU 2004 3525](https://fedlex.data.admin.ch/eli/oc/2004/473)). Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^103-3]: Nuovo testo giusta la cifra I dell’O del 2 set. 1998, in vigore dal 1° ott. 1998 ([RU 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
 [^103-4]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3218](https://fedlex.data.admin.ch/eli/oc/2002/485)).
-[^103-5]: Introdotto dalla cifra I dell’O del 2 mar. 2012 ([RU 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)). Nuovo testo giusta la cifra I dell’O del 16 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 608](https://fedlex.data.admin.ch/eli/oc/2024/608)).
-[^103-6]: Introdotto dalla cifra I dell’O del 2 mar. 2012 ([RU 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)). Nuovo testo giusta la cifra I dell’O del 16 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 608](https://fedlex.data.admin.ch/eli/oc/2024/608), [645](https://fedlex.data.admin.ch/eli/oc/2024/645)).
+[^103-5]: Introdotto dalla cifra I dell’O del 2 mar. 2012 ([RU 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)). Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
+[^103-6]: Introdotto dalla cifra I dell’O del 2 mar. 2012 ([RU 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)). Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
 [^103-7]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
-[^103-8]: Introdotto dalla cifra I dell’O del 2 mar. 2012 ([RU 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)). Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
+[^103-8]: Introdotto dalla cifra I dell’O del 2 mar. 2012 ([RU 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)). Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
 [^103-9]: Introdotto dalla cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 [^103-10]: Introdotto dalla cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 
@@ -3321,7 +3303,7 @@ Oltre alle agevolazioni di cui negli articoli 118, 119 e 120, per gli autoveicol
 <tr><td>c.[^121-5] per gli autobus a due piani:</td><td>[tab]</td></tr>
 <tr><td>1. al piano superiore</td><td>1,50 m</td></tr>
 <tr><td>2. al piano inferiore</td><td>1,77 m</td></tr>
-<tr><td>3. al piano inferiore nella parte situata sopra o dietro l’asse posteriore</td><td>[tab] 1,62 m</td></tr>
+<tr><td>3. al piano inferiore nella parte situata sopra o dietro l’asse posteriore</td><td>1,62 m</td></tr>
 <tr><td>d. nei minibus, esclusi gli scuolabus</td><td>[tab] 1,50 m.[^121-6]</td></tr>
 </table>
 
@@ -3367,7 +3349,7 @@ Oltre alle agevolazioni di cui negli articoli 118, 119 e 120, per gli autoveicol
 
 <sup>3</sup> Gli autobus e i minibus devono essere muniti di un’uscita di sicurezza dalle dimensioni utili di almeno 0,60 × 0,43 m. Il numero (n) si determina in base alla formula seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image1.png)
 
 Le porte sono assimilate alle uscite di sicurezza. Le uscite di sicurezza devono essere indicate in modo chiaro ed essere ripartite il più regolarmente possibile sui due lati del veicolo. Esse devono potersi aprire o liberare facilmente e rapidamente; gli strumenti necessari a tale scopo devono essere ben visibili e a portata di mano.[^123-3]
 
@@ -4353,17 +4335,27 @@ Come dispositivi d’illuminazione sono necessari, fissati il più esternamente 
 
 #### Art. 175
 
-**In generale, dimensioni, pesi**[^175-1]
+**In generale, dimensioni, pesi, posti[^175-2]**[^175-1]
 
-<sup>1</sup> Per quanto riguarda le esigenze tecniche, i ciclomotori devono essere conformi soltanto agli articoli 175–181*a*.
+<sup>1</sup> Per quanto riguarda le esigenze tecniche, i ciclomotori devono essere conformi soltanto agli articoli 175–181*b*[^175-3].
 
 <sup>2</sup> La larghezza dei ciclomotori non deve superare 1,00 m. Gli specchi retrovisori che si ripiegano con una pressione moderata possono essere misurati in posizione ripiegata.
 
-<sup>3</sup> I ciclomotori devono disporre di un manubrio largo almeno 0,35 m. Esso non deve ostacolare la guida né la pedalata.
+<sup>3</sup> I ciclomotori senza sella per il conducente devono disporre di un manubrio o di un’asta di sostegno. Non possono avere posti per passeggeri.[^175-4]
 
-<sup>4</sup> Il peso totale non deve superare 200 kg, tranne che per le sedie a rotelle.
+<sup>4</sup> I posti a sedere devono disporre di pedali o poggiapiedi.[^175-5]
+
+<sup>5</sup> Il numero di posti deve essere stabilito in modo da non superare il peso totale ammesso, calcolando 65 kg per passeggero. Per i sedili per fanciulli appositamente predisposti dotati di protezione delle estremità dal contatto con parti mobili del veicolo, schienale e sistema di ritenuta può essere stabilito un peso per passeggero inferiore.[^175-6]
+
+<sup>6</sup> Al fine di consentire l’adeguamento del veicolo a una disabilità del conducente sono ammesse deroghe alle prescrizioni a condizione che la sicurezza stradale e la sicurezza di funzionamento del veicolo non siano compromesse.[^175-7]
 
 [^175-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^175-2]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
+[^175-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° lug. 2025.
+[^175-4]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
+[^175-5]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
+[^175-6]: Introdotto dalla cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
+[^175-7]: Introdotto dalla cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
 
 #### Art. 176
 
@@ -4406,21 +4398,25 @@ Come dispositivi d’illuminazione sono necessari, fissati il più esternamente 
 
 <sup>2</sup> Le ruote devono essere provviste di pneumatici a camera d’aria appropriati o altri pneumatici parimenti elastici; la tela non deve essere visibile.
 
-<sup>3</sup> I ciclomotori devono essere provvisti di due freni efficaci che agiscono uno sulla ruota anteriore e uno su quella posteriore.
+<sup>3</sup> I ciclomotori devono essere provvisti di due freni efficaci che agiscono uno sulla ruota anteriore e uno su quella posteriore. I freni devono arrestare il veicolo in sicurezza e senza farlo deviare dalla traiettoria in qualsiasi condizione operativa, anche da bagnati o in caso di azionamento lungo e ripetuto.[^178-1]
 
 <sup>4</sup> Sui ciclomotori pluritraccia il freno deve agire simultaneamente e in maniera uguale sulle ruote di un asse, a meno che ogni ruota dell’asse non possieda un proprio dispositivo di comando e garantisca da sola l’efficacia di frenatura prescritta per entrambi i freni contemporaneamente, senza che il veicolo devii dalla traiettoria. In questo caso non è necessario alcun freno sul secondo asse. Uno dei freni deve potere essere bloccato meccanicamente ed impedire che il veicolo carico si metta improvvisamente in moto su una salita o una discesa con una pendenza fino al 12 per cento.
 
 <sup>5</sup> L’efficacia dell’impianto di frenatura e la procedura di controllo sono rette dall’allegato 7.
 
-<sup>6</sup> Sono ammesse le protezioni contro le intemperie, ma non le carrozzerie chiuse.
+<sup>6</sup> I ciclomotori con carrozzerie chiuse devono disporre di indicatori di direzione lampeggianti.[^178-2]
 
-<sup>7</sup> Le iscrizioni e i dipinti sui veicoli non devono distrarre eccessivamente l’attenzione degli altri utenti della strada. Non devono avere luce propria né essere illuminati.
+<sup>7</sup> Le iscrizioni e i dipinti sui veicoli non devono distrarre eccessivamente l’attenzione degli altri utenti della strada. Possono essere sia catarifrangenti sia luminescenti, ma non devono avere luce propria né essere illuminati.[^178-3]
+
+[^178-1]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
+[^178-2]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
+[^178-3]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
 
 #### Art. 178a
 
-**Illuminazione, catarifrangenti**
+**Illuminazione, catarifrangenti, indicatori di direzione lampeggianti[^178a-1]**
 
-<sup>1</sup> Sui ciclomotori devono essere montate stabilmente almeno una luce bianca luminosa fissa anteriore e una luce rossa luminosa posteriore. Di notte e con buone condizioni atmosferiche, queste luci non devono abbagliare e devono essere visibili a 100 m di distanza.
+<sup>1</sup> Sui ciclomotori devono essere montate almeno una luce fissa anteriore bianca e una luce fissa posteriore rossa. Le luci non devono abbagliare e, di notte e in buone condizioni atmosferiche, devono essere visibili a 100 m di distanza.[^178a-2]
 
 <sup>2</sup> Sui ciclomotori deve essere montato stabilmente almeno un catarifrangente rivolto verso il retro avente una superficie di almeno 10 cm<sup>2</sup>.
 
@@ -4430,20 +4426,31 @@ Come dispositivi d’illuminazione sono necessari, fissati il più esternamente 
 
 <sup>5</sup> Ai colori dei catarifrangenti e delle luci supplementari si applica l’allegato 10.
 
+<sup>6</sup> Eventuali indicatori di direzione lampeggianti dei ciclomotori devono essere montati stabilmente. Devono soddisfare esigenze almeno equivalenti a quelle previste per gli indicatori di direzione lampeggianti delle motoleggere (art. 79, 140 cpv. 1 lett. c e 2, art. 151 cpv. 1 e all. 10).[^178a-3]
+
+[^178a-1]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
+[^178a-2]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
+[^178a-3]: Introdotto dalla cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
+
 #### Art. 178b
 
 **Altre esigenze**
 
-<sup>1</sup> I ciclomotori devono essere muniti di un campanello dal suono ben udibile; sono vietati altri avvisatori acustici.
+<sup>1</sup> Sui ciclomotori deve essere montato un campanello dal suono ben udibile. Al suo posto è ammesso un avvisatore acustico conforme al regolamento (UE) n. 168/2013 e al regolamento delegato (UE) n. 3/2014 o al regolamento UNECE n. 28. Sono vietati altri avvisatori acustici.[^178b-1]
 
-<sup>2</sup> Sono applicabili per analogia le prescrizioni generali concernenti l’impianto elettrico e la compatibilità elettromagnetica (art. 80).[^178b-1]
+<sup>2</sup> Sono applicabili per analogia le prescrizioni generali concernenti l’impianto elettrico e la compatibilità elettromagnetica (art. 80).[^178b-2]
 
-<sup>3</sup> I ciclomotori con velocità massima per costruzione superiore a 20 km/h oppure con pedalata assistita e velocità superiore a 25 km/h devono essere muniti di un tachimetro situato nel campo visivo del conducente durante la guida. Il tachimetro deve indicare almeno la velocità effettiva. La velocità indicata non può tuttavia superare quella effettiva del 10 per cento più 4 km/h.[^178b-2]
+<sup>3</sup> I ciclomotori il cui dispositivo di propulsione rimane attivo anche oltre 25 km/h devono essere muniti di un tachimetro situato nel campo visivo del conducente durante la marcia. Lo strumento deve indicare almeno la velocità effettiva. La velocità indicata non deve tuttavia superare quella effettiva di oltre il 10 per cento più 4 km/h.[^178b-3]
 
-[^178b-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^178b-2]: Introdotto dalla cifra I dell’O del 17 dic. 2021, in vigore dal 1° apr. 2024 ([RU 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
+[^178b-1]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
+[^178b-2]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^178b-3]: Introdotto dalla cifra I dell’O del 17 dic. 2021 ([RU 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)). Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
 
-### Sezione 2: Disposizioni speciali per ciclomotori di cui all’articolo 18 lettera a
+### Sezione 2: Disposizioni speciali per ciclomotori veloci
+
+[^part3-tit5-chap3-sec2-1]
+
+[^part3-tit5-chap3-sec2-1]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
 
 #### Art. 179
 
@@ -4453,17 +4460,18 @@ Come dispositivi d’illuminazione sono necessari, fissati il più esternamente 
 
 <sup>2</sup> Nei ciclomotori con motore a combustione interna sono autorizzate soltanto le frizioni automatiche combinate con un cambio a una sola marcia, con un sistema di azionamento progressivo o un cambio automatico multiplo. Devono essere costruite in modo tale che sia impossibile far girare il motore a un regime alto quando il veicolo è fermo.
 
-<sup>3</sup> I ciclomotori di cui all’articolo 18 lettera a devono essere muniti di due ruote, una sella e dei pedali. Devono potere essere azionati mediante pedali.
+<sup>3</sup> I ciclomotori veloci devono essere muniti di un manubrio largo almeno 0,35 m, due ruote, una sella e pedali. Devono potere essere azionati mediante pedali.[^179-2]
 
-<sup>4</sup> …[^179-2]
+<sup>4</sup> …[^179-3]
 
 <sup>5</sup> I ciclomotori con motore a combustione interna devono essere muniti di un cavalletto. Questo non deve danneggiare la carreggiata, deve ribaltare all’indietro automaticamente quando il veicolo è rimesso sulle due ruote e rimanere ben fermo in tale posizione.
 
-<sup>6</sup> Per quanto riguarda l’efficacia dell’impianto di frenatura e la procedura di controllo, i ciclomotori che, con pedalata assistita, possono superare 30 km/h devono soddisfare le medesime esigenze valide per le motoleggere di cui all’allegato 7.[^179-3]
+<sup>6</sup> I ciclomotori veloci devono disporre di un freno ad attrito per ogni ruota. Per quanto riguarda l’efficacia dell’impianto di frenatura e la procedura di controllo, i ciclomotori veloci che, con pedalata assistita, possono superare 30 km/h devono soddisfare le medesime esigenze valide per le motoleggere di cui all’allegato 7.[^179-4]
 
 [^179-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^179-2]: Abrogato dalla cifra I dell’O del 16 nov. 2016, con effetto dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^179-3]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^179-2]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
+[^179-3]: Abrogato dalla cifra I dell’O del 16 nov. 2016, con effetto dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^179-4]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
 
 #### Art. 179a
 
@@ -4483,19 +4491,20 @@ Sono inoltre autorizzati i seguenti dispositivi d’illuminazione:
 - a. un faro di profondità;
 - b. una luce di posizione;
 - c. una luce di fermata;
-- d. indicatori di direzione lampeggianti fissati stabilmente di cui all’articolo 140 capoverso 1 lettera c; l’articolo 79 e l’allegato 10 sono applicabili per analogia;
+- d.[^179a-1] indicatori di direzione lampeggianti;
 - e. una luce per illuminare la targa;
-- f. le luci di circolazione diurna.[^179a-1]
+- f. le luci di circolazione diurna.[^179a-2]
 
-<sup>3</sup> I proiettori devono essere conformi al regolamento UNECE n. 113 o alla classe A del regolamento UNECE n. 112, oppure soddisfare requisiti equivalenti.[^179a-2]
+<sup>3</sup> I proiettori devono essere conformi al regolamento UNECE n. 113 o alla classe A del regolamento UNECE n. 112, oppure soddisfare requisiti equivalenti.[^179a-3]
 
-<sup>4</sup> Le luci di coda devono essere conformi al regolamento UNECE n. 50 oppure soddisfare requisiti equivalenti.[^179a-3]
+<sup>4</sup> Le luci di coda devono essere conformi al regolamento UNECE n. 50 oppure soddisfare requisiti equivalenti.[^179a-4]
 
 <sup>5</sup> Altre luci sono vietate.
 
-[^179a-1]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)).
+[^179a-1]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
 [^179a-2]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)).
-[^179a-3]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^179a-3]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)).
+[^179a-4]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 
 #### Art. 179b
 
@@ -4503,9 +4512,9 @@ Sono inoltre autorizzati i seguenti dispositivi d’illuminazione:
 
 <sup>1</sup> Il veicolo deve essere munito esternamente a sinistra di uno specchio retrovisore con una superficie minima di 50 cm<sup>2</sup>.
 
-<sup>2</sup> Al posto del campanello è ammesso un avvisatore acustico conforme al regolamento (UE) n. 168/2013 e al regolamento delegato (UE) n. 3/2014 o al regolamento UNECE n. 28.[^179b-1]
+<sup>2</sup> ...[^179b-1]
 
-[^179b-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^179b-1]: Abrogato dalla cifra I dell’O del 13 dic. 2024, con effetto dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
 
 ### Sezione 3: Disposizioni speciali per ciclomotori leggeri
 
@@ -4513,9 +4522,28 @@ Sono inoltre autorizzati i seguenti dispositivi d’illuminazione:
 
 [^180-1]
 
-Le esigenze cui devono essere conformi gli indicatori di direzione lampeggianti sono rette dall’articolo 179*a* capoverso 2 lettera d.
+<sup>1</sup>
 
-[^180-1]: Nuovo testo giusta la cifra I dell’O del 15 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1321](https://fedlex.data.admin.ch/eli/oc/2015/277)).
+I ciclomotori leggeri con sella per il conducente possono avere in aggiunta i seguenti posti:
+
+- a. un sedile per un passeggero e due sedili per fanciulli secondo l’articolo 175 capoverso 5 secondo periodo; oppure
+- b. quattro sedili per fanciulli secondo l’articolo 175 capoverso 5 secondo periodo.
+
+<sup>2</sup> I ciclomotori leggeri possono essere costituiti da una speciale combinazione velocipede/sedia a rotelle.
+
+<sup>3</sup>
+
+Gli indicatori di direzione lampeggianti dei ciclomotori leggeri con carrozzeria aperta possono, se rimangono ben visibili, divergere dalle esigenze di cui all’allegato 10 numeri 52 e 312 come segue:
+
+- a. sono sufficienti due indicatori montati esternamente a sinistra e a destra del manubrio, ciascuno visibile da davanti e da dietro come un unico dispositivo d’illuminazione;
+- b.
+
+  per la coppia posteriore la distanza prescritta di 0,35 m tra il bordo inferiore delle superfici illuminanti e il suolo può essere ridotta se:
+
+  - 1\. la parte posteriore del veicolo è troppo bassa per il montaggio degli indicatori all’altezza prescritta, e
+  - 2\. è garantita una distanza minima delle superfici illuminanti dal suolo di 0,15 m.
+
+[^180-1]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
 
 ### Sezione 4: Disposizioni speciali per sedie a rotelle motorizzate
 
@@ -4525,20 +4553,20 @@ Le esigenze cui devono essere conformi gli indicatori di direzione lampeggianti 
 
 #### Art. 181
 
-<sup>1</sup> Per quanto riguarda le sedie a rotelle, le deroghe alle prescrizioni al fine di consentire l’adeguamento del veicolo alla disabilità del conducente sono ammesse a condizione che la sicurezza stradale e la sicurezza di funzionamento del veicolo non siano compromesse.
+<sup>1</sup> ...[^181-1]
 
 <sup>2</sup> Le luci sulle sedie a rotelle con un dispositivo di propulsione elettrica e una velocità massima di 10 km/h possono essere amovibili. Devono essere apposte sul veicolo se, in loro assenza, quest’ultimo non potrebbe essere scorto per tempo dagli altri utenti della strada.
 
-<sup>3</sup> Le luci e i catarifrangenti di cui al capoverso 2, fatta eccezione per gli eventuali indicatori di direzione lampeggianti, non devono necessariamente essere omologati.
+<sup>3 e <sup>4</sup></sup> ...[^181-2]
 
-<sup>4</sup> Le esigenze cui devono essere conformi gli indicatori di direzione lampeggianti sono rette dall’articolo 179*a* capoverso 2 lettera d.
+<sup>5</sup> Le sedie a rotelle con propulsione elettrica e una velocità massima per costruzione di 10 km/h possono essere a due posti. Se la velocità massima per costruzione è superiore a 10 km/h è ammesso soltanto un posto.[^181-3]
 
-<sup>5</sup> Le sedie a rotelle con propulsione elettrica e una velocità massima per costruzione di 10 km/h possono essere a due posti. Se la velocità massima per costruzione è superiore a 10 km/h è ammesso soltanto un posto.[^181-1]
+<sup>6</sup> ...[^181-4]
 
-<sup>6</sup> Le sedie a rotelle possono essere dotate di carrozzeria chiusa se dispongono di indicatori di direzione lampeggianti.[^181-2]
-
-[^181-1]: Introdotto dalla cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^181-2]: Introdotto dalla cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^181-1]: Abrogato dalla cifra I dell’O del 13 dic. 2024, con effetto dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
+[^181-2]: Abrogati dalla cifra I dell’O del 13 dic. 2024, con effetto dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
+[^181-3]: Introdotto dalla cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^181-4]: Introdotto dalla cifra I dell’O del 16 nov. 2016 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)). Abrogato dalla cifra I dell’O del 13 dic. 2024, con effetto dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
 
 ### Sezione 5: Disposizioni speciali per monopattini autobilanciati
 
@@ -4561,11 +4589,23 @@ Il freno di servizio può consistere in:
 
 <sup>3</sup> Il freno ausiliario di cui al capoverso 2 lettera b può essere utilizzato come freno di stazionamento. Il dispositivo di sostegno può fungere da freno di stazionamento se è in grado di impedire che il veicolo carico si metta improvvisamente in moto su una salita o una discesa con una pendenza fino al 12 per cento. Per i veicoli a una sola ruota è sufficiente un altro sostegno appropriato, purché soddisfi le stesse condizioni.
 
-<sup>4</sup> Al posto del campanello è ammesso un avvisatore acustico conforme al regolamento (UE) n. 168/2013 e al regolamento delegato (UE) n. 3/2014 o al regolamento UNECE n. 28.[^181a-1]
+<sup>4 e <sup>5</sup></sup> ...[^181a-1]
 
-<sup>5</sup> Non è necessario un manubrio.
+[^181a-1]: Abrogati dalla cifra I dell’O del 13 dic. 2024, con effetto dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
 
-[^181a-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+### Sezione 6: Disposizioni speciali per ciclomotori pesanti
+
+[^part3-tit5-chap3-sec6-1]
+
+[^part3-tit5-chap3-sec6-1]: Introdotta dalla cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
+
+#### Art. 181b
+
+<sup>1</sup> I ciclomotori pesanti devono disporre di un freno ad attrito per ogni ruota.
+
+<sup>2</sup> Sul lato sinistro esterno deve essere montato uno specchio retrovisore con una superficie di almeno 50 cm<sup>2</sup>.
+
+<sup>3</sup> In un punto ben visibile per il conducente devono essere indicati in modo permanente e chiaramente leggibile il numero di posti autorizzati e il carico utile più 75 kg.
 
 ### Titolo sesto: Rimorchi
 
@@ -4967,7 +5007,7 @@ La targa, se non può essere apposta posteriormente, deve essere applicata later
 
 **Agganciamento di sicurezza[^203-1]**
 
-<sup>1</sup> e <sup>2</sup> … [^203-2]
+<sup>1 e <sup>2</sup></sup> … [^203-2]
 
 <sup>3</sup> Per i rimorchi di lavoro trainati da veicoli trattori la cui velocità massima non supera 30 km/h non è necessario un agganciamento di sicurezza conformemente all’articolo 189 capoverso 5.
 
@@ -5120,14 +5160,14 @@ Gli elementi rimorchiati sono considerati rimorchi. Sono elementi rimorchiati:
 - b. i velocipedi per fanciulli, che una volta smontata o sollevata la ruota anteriore, vengono collegati al veicolo di traino mediante un dispositivo di accoppiamento sicuro; oppure
 - c.[^210-4] sedie a rotelle, collegate al veicolo di traino mediante un dispositivo di accoppiamento sicuro.[^210-5]
 
-<sup>6</sup> Non è ammesso un dispositivo di propulsione proprio.[^210-6]
+<sup>6</sup> I rimorchi trainati da velocipedi e ciclomotori possono essere dotati di un proprio dispositivo di propulsione che sviluppa una velocità massima di 6 km/h.[^210-6]
 
 [^210-1]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
 [^210-2]: Nuovo testo giusta la cifra I dell’O del 24 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2473](https://fedlex.data.admin.ch/eli/oc/2015/462)).
 [^210-3]: Abrogato dalla cifra I dell’O del 17 dic. 2021, con effetto dal 1° apr. 2022 ([RU 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 [^210-4]: Nuovo testo giusta la cifra I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)).
 [^210-5]: Introdotto dalla cifra I dell’O del 17 ago. 2005, in vigore dal 1° mar. 2006 ([RU 2005 4515](https://fedlex.data.admin.ch/eli/oc/2005/583)).
-[^210-6]: Introdotto dalla cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
+[^210-6]: Introdotto dalla cifra I dell’O del 22 dic. 2023 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)). Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
 
 ### Sezione 10: Rimorchi a slitta
 
@@ -5217,14 +5257,17 @@ Gli elementi rimorchiati sono considerati rimorchi. Sono elementi rimorchiati:
 
 <sup>1</sup> Il telaio, il manubrio, le forcelle e le ruote devono essere costruiti in modo sufficientemente solido.[^215-2]
 
-<sup>1bis</sup> Le iscrizioni e i dipinti sui veicoli non devono distrarre eccessivamente l’attenzione degli altri utenti della strada. Non devono avere luce propria né essere illuminati.[^215-3]
+<sup>1bis</sup> Le iscrizioni e i dipinti sui veicoli non devono distrarre eccessivamente l’attenzione degli altri utenti della strada. Possono essere sia catarifrangenti sia luminescenti, ma non devono avere luce propria né essere illuminati.[^215-3]
 
-<sup>2</sup> I velocipedi possono avere soltanto un numero di posti pari a quello delle coppie di pedali o di unità meccaniche di propulsione equivalenti. Fanno eccezione i velocipedi appositamente predisposti con al massimo due sedili protetti per fanciulli o con un posto per disabili.[^215-4]
+<sup>2</sup> Tutti i posti a eccezione di uno o di al massimo quattro sedili per fanciulli secondo l’articolo 175 capoverso 5 secondo periodo devono disporre di pedali. Sui velocipedi pluritraccia l’autorità cantonale può autorizzare più posti senza pedali.[^215-4]
+
+<sup>3</sup> I velocipedi senza sella per il conducente devono essere monoposto, disporre di pedali adatti all’uso in piedi e di un dispositivo di guida che consenta al conducente di tenersi e di segnalare con la mano il cambio di direzione in tutta sicurezza.[^215-5]
 
 [^215-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^215-2]: Nuovo testo giusta la cifra I dell’O del 10 giu. 2005, in vigore dal 1° ott. 2005 ([RU 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)).
-[^215-3]: Introdotto dalla cifra I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
-[^215-4]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^215-3]: Introdotto dalla cifra I dell’O del 2 mar. 2012 ([RU 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)). Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
+[^215-4]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
+[^215-5]: Introdotto dalla cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
 
 #### Art. 216
 
@@ -5778,6 +5821,14 @@ I ciclomotori immatricolati per la prima volta prima del 1° aprile 2024 devono 
 [^222s-1]: Introdotto dalla cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 [^222s-2]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
 
+#### Art. 222t
+
+**Disposizione transitoria della modifica del 13 dicembre 2024**[^222t-1]
+
+Le sedie a rotelle motorizzate importate o prodotte in Svizzera fino al 1° luglio 2027 possono essere immatricolate secondo il diritto anteriore.
+
+[^222t-1]: Introdotto dalla cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
+
 #### Art. 223
 
 **Entrata in vigore**
@@ -5799,7 +5850,7 @@ Sono abrogate:
 - c. l’ordinanza del 1° marzo 1982[^annex1-lvlu1-lvlI-3] concernente i gas di scarico degli autoveicoli con motore a benzina (ordinanza sui gas di scarico; OGS);
 - d. l’ordinanza del 22 ottobre 1986[^annex1-lvlu1-lvlI-4] sui gas di scarico degli autoveicoli pesanti (OEA 2).
 
-[^annex1-lvlu1-lvlI-1]: [[RU 1969 839](https://fedlex.data.admin.ch/eli/oc/1969/821_841_839); [1972 1781](https://fedlex.data.admin.ch/eli/oc/1972/1577_1609_1781); [1975 541](https://fedlex.data.admin.ch/eli/oc/1975/541_541_541)cifra II n. 2; [1976 2611](https://fedlex.data.admin.ch/eli/oc/1976/2611_2611_2611); [1979 1922](https://fedlex.data.admin.ch/eli/oc/1979/1922_1922_1922); [1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572)art. 72 n. 3; [1982 495](https://fedlex.data.admin.ch/eli/oc/1982/495_495_495), [531](https://fedlex.data.admin.ch/eli/oc/1982/531_531_531); [1983 627](https://fedlex.data.admin.ch/eli/oc/1983/627_627_627)art. 88 n. 1; [1984 1338](https://fedlex.data.admin.ch/eli/oc/1984/1338_1338_1338); [1985 608](https://fedlex.data.admin.ch/eli/oc/1985/608_608_608); [1986 1833](https://fedlex.data.admin.ch/eli/oc/1986/1833_1833_1833); [1988 876](https://fedlex.data.admin.ch/eli/oc/1988/__876); [1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)cifra II n. 2, [1195](https://fedlex.data.admin.ch/eli/oc/1989/1195_1195_1195); [1991 78](https://fedlex.data.admin.ch/eli/oc/1991/78_78_78)cifra III; [1992 536](https://fedlex.data.admin.ch/eli/oc/1992/536_536_536); [1993 2062](https://fedlex.data.admin.ch/eli/oc/1993/__2062); [1994 167](https://fedlex.data.admin.ch/eli/oc/1994/167_167_167)cifra II, [214](https://fedlex.data.admin.ch/eli/oc/1994/214_214_214)cifra I, II, [816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)cifra II n. 3, [1326](https://fedlex.data.admin.ch/eli/oc/1994/1326_1326_1326)]
+[^annex1-lvlu1-lvlI-1]: [[RU 1969 839](https://fedlex.data.admin.ch/eli/oc/1969/821_841_839); [1972 1781](https://fedlex.data.admin.ch/eli/oc/1972/1577_1609_1781); [1975 541](https://fedlex.data.admin.ch/eli/oc/1975/541_541_541)la cifra II n. 2; **1976** 2611; **1979** 1922; **1981** 572 art. 72 n. 3; **1982** 495, 531; **1983** 627 art. 88 n. 1; **1984** 1338; **1985** 608; **1986** 1833; **1988** 876; **1989** 410 la cifra II n. 2, 1195; **1991** 78 la cifra III; **1992** 536; **1993** 2062; **1994** 167 la cifra II n. 214 la cifra I, II n. 816 la cifra II n. 3, 1326]
 [^annex1-lvlu1-lvlI-2]: [[RU 1975 1763](https://fedlex.data.admin.ch/eli/oc/1975/1763_1763_1763), [1991 2233](https://fedlex.data.admin.ch/eli/oc/1991/2233_2233_2233)]
 [^annex1-lvlu1-lvlI-3]: [[RU 1982 474](https://fedlex.data.admin.ch/eli/oc/1982/474_474_474), [1985 460](https://fedlex.data.admin.ch/eli/oc/1985/460_460_460)cifra II n. 703]
 [^annex1-lvlu1-lvlI-4]: [[RU 1986 1866](https://fedlex.data.admin.ch/eli/oc/1986/1866_1866_1866), [1987 223](https://fedlex.data.admin.ch/eli/oc/1987/223_223_223), [1989 496](https://fedlex.data.admin.ch/eli/oc/1989/496_496_496), [1993 240](https://fedlex.data.admin.ch/eli/oc/1993/240_240_240), [1994 167](https://fedlex.data.admin.ch/eli/oc/1994/167_167_167)cifra V]
@@ -5816,7 +5867,7 @@ Allegato 2[^t-1]
 
 ## Versioni delle regolamentazioni internazionali vincolanti per la Svizzera
 
-[^t-1]: Nuovo testo giusta la cifra II cpv. 1 dell’O del 21 gen. 2015 ([RU 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)). Aggiornato dalla cifra II cpv. 1 delle O del 15 apr. 2015 ([RU 2015 1321](https://fedlex.data.admin.ch/eli/oc/2015/277)), del 16 nov. 2016 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)), dalla cifra I dell’O del 27 giu. 2018 ([RU 2018 2675](https://fedlex.data.admin.ch/eli/oc/2018/389)), dalla cifra II cpv. 1 dell’O del 21 nov. 2018 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)), dalla cifra II delle O del 17 dic. 2021 ([RU 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)), del 9 giu. 2023 ([RU 2023 327](https://fedlex.data.admin.ch/eli/oc/2023/327)), del 22 dic. 2023 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)), dalla cifra I dell’O del DATEC del 2 ago. 2024 ([RU 2024 403](https://fedlex.data.admin.ch/eli/oc/2024/403)) e dall’all. n. 2 dell’O del 13 dic. 2024 sulla guida automatica, in vigore dal 1° mar. 2025 ([RU 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)).
+[^t-1]: Nuovo testo giusta la cifra II cpv. 1 dell’O del 21 gen. 2015 ([RU 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)). Aggiornato dalla cifra II cpv. 1 delle O del 15 apr. 2015 ([RU 2015 1321](https://fedlex.data.admin.ch/eli/oc/2015/277)), del 16 nov. 2016 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)), dalla cifra I dell’O del 27 giu. 2018 ([RU 2018 2675](https://fedlex.data.admin.ch/eli/oc/2018/389)), dalla cifra II cpv. 1 dell’O del 21 nov. 2018 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)), dalla cifra II delle O del 17 dic. 2021 ([RU 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)), del 9 giu. 2023 ([RU 2023 327](https://fedlex.data.admin.ch/eli/oc/2023/327)), del 22 dic. 2023 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)), dalla cifra I dell’O del DATEC del 2 ago. 2024 ([RU 2024 403](https://fedlex.data.admin.ch/eli/oc/2024/403)), dall’all. n. 2 dell’O del 13 dic. 2024 sulla guida automatica ([RU 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)) e dalla cifra II dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
 
 ### 1 Autoveicoli di trasporto e loro rimorchi, trattori agricoli e forestali, motoveicoli, quadricicli leggeri a motore, quadricicli a motore e tricicli a motore, ciclomotori
 
@@ -5834,7 +5885,7 @@ Allegato 2[^t-1]
 <tr><td>Regolamento (UE) n. 2018/858</td><td>Regolamento (UE) 2018/858 del Parlamento europeo e del Consiglio, del 30 maggio 2018, relativo all’omologazione e alla vigilanza del mercato dei veicoli a motore e dei loro rimorchi, nonché dei sistemi, dei componenti e delle entità tecniche indipendenti destinati a tali veicoli che modifica i regolamenti (CE) n. 715/2007 e (CE) n. 595/2009 e abroga la direttiva 2007/46/CE, GU L 151 del 14.6.2018, pag. 1; modificato da ultimo dal regolamento delegato (UE) 2022/2236, GU L 296 del 16.11.2022, pag. 1. Sono escluse le disposizioni sulla vigilanza del mercato, in particolare gli articoli 1 paragrafo 2, 6–11 nonché 13 paragrafo 4.</td></tr>
 <tr><td>Regolamento (UE) n. 2020/683</td><td>Regolamento di esecuzione (UE) 2020/683 della Commissione, del 15 aprile 2020, che attua il regolamento (UE) 2018/858 del Parlamento europeo e del Consiglio per quanto riguarda le prescrizioni amministrative per l’omologazione e la vigilanza del mercato dei veicoli a motore e dei loro rimorchi, nonché dei sistemi, dei componenti e delle entità tecniche indipendenti destinati a tali veicoli, versione della GU L 163 del 26.5.2020, pag. 1; modificato da ultimo dal regolamento di esecuzione (UE) 2022/1362, GU L 205 del 5.8.2022, pag. 145.</td></tr>
 <tr><td>Regolamento (UE) 2020/1812</td><td>Regolamento di esecuzione (UE) 2020/1812 della Commissione, del 1° dicembre 2020, recante norme sullo scambio di dati online e sulla notifica delle omologazioni UE a norma del regolamento (UE) 2018/858 del Parlamento europeo e del Consiglio, versione della GU L 404 del 2.12.2020, pag. 5.</td></tr>
-<tr><td>Regolamento (UE) 2021/133</td><td>Regolamento di esecuzione (UE) 2021/133 della Commissione, del 4 febbraio 2021, che attua il regolamento (UE) 2018/858 del Parlamento europeo e del Consiglio per quanto riguarda il formato e la struttura di base e le modalità di scambio dei dati del certificato di conformità in formato elettronico, versione della GU L 42 del 5.2.2021, pag. 1.</td></tr>
+<tr><td>Regolamento (UE) 2021/133</td><td>Regolamento di esecuzione (UE) 2021/133 della Commissione, del 4 febbraio 2021, che attua il regolamento (UE) 2018/858 del Parlamento europeo e del Consiglio per quanto riguarda il formato e la struttura di base e le modalità di scambio dei dati del certificato di conformità in formato elettronico, GU L 42 del 5.2.2021, pag. 1; modificato dal regolamento di esecuzione (UE) 2024/1061, GU L, 2024/1061, 11.4.2024.</td></tr>
 </table>
 
 ### 112 Normativa UE inclusa negli atti legislativi relativi all’approvazione generale
@@ -5885,18 +5936,20 @@ Allegato 2[^t-1]
 <tr><td>Regolamento (UE) 2015/68</td><td>Regolamento delegato (UE) 2015/68 della Commissione, del 15 ottobre 2014, che integra il regolamento (UE) n. 167/2013 del Parlamento europeo e del Consiglio per quanto concerne le prescrizioni relative alla frenatura dei veicoli ai fini dell’omologazione dei veicoli agricoli e forestali, GU L 17 del 23.1.2015, pag. 1; modificato da ultimo dal regolamento (UE) 2018/828, GU L 140 del 6.6.2018, pag. 5.</td></tr>
 <tr><td>Regolamento (UE) 2015/96</td><td>Regolamento delegato (UE) 2015/96 della Commissione, del 1° ottobre 2014, che integra il regolamento (UE) n. 167/2013 del Parlamento europeo e del Consiglio per quanto riguarda le prescrizioni relative alle prestazioni ambientali e delle unità di propulsione dei veicoli agricoli e forestali, versione della GU L 16 del 23.1.2015, pag. 1.</td></tr>
 <tr><td>Regolamento (UE) 2015/208</td><td>Regolamento delegato (UE) 2015/208 della Commissione, dell’8 dicembre 2014, che integra il regolamento (UE) n. 167/2013 del Parlamento europeo e del Consiglio per quanto riguarda i requisiti sicurezza funzionale del veicolo per l’omologazione dei veicoli agricoli e forestali, GU L 42 del 17.2.2015, pag. 1; modificato da ultimo dal regolamento (UE) 2020/540, GU L 121 del 20.4.2020, pag. 1.</td></tr>
-<tr><td>Regolamento (UE) 2015/758</td><td>Regolamento (UE) 2015/758 del Parlamento europeo e del Consiglio, del 29 aprile 2015, relativo ai requisiti di omologazione per lo sviluppo del sistema eCall di bordo basato sul servizio 112 e che modifica la direttiva 2007/46/CE, GU L 123 del 19.5.2015, pag. 77; modificato dal regolamento (UE) 2017/79, GU L 12 del 17.1.2017, pag. 44.</td></tr>
+<tr><td>Regolamento (UE) 2015/758</td><td>Regolamento (UE) 2015/758 del Parlamento europeo e del Consiglio, del 29 aprile 2015, relativo ai requisiti di omologazione per lo sviluppo del sistema eCall di bordo basato sul servizio 112 e che modifica la direttiva 2007/46/CE, GU L 123 del 19.5.2015, pag. 77; modificato da ultimo dal regolamento delegato (UE) 2024/1180, GU L, 2024/1180, 19.4.2024.</td></tr>
 <tr><td>Regolamento (UE) 2017/78</td><td>Regolamento di esecuzione (UE) 2017/78 della commissione del 15 luglio 2016 che fissa le disposizioni amministrative per l’omologazione CE dei veicoli a motore per quanto riguarda i sistemi eCall di bordo basati sul 112 e condizioni uniformi per l’attuazione del regolamento (UE) 2015/758 del Parlamento europeo e del Consiglio per quanto riguarda la privacy e la protezione dei dati degli utenti di tali sistemi, versione della GU L 12 del 17.1.2017, pag. 26.</td></tr>
 <tr><td>Regolamento (UE) 2017/1151</td><td>Regolamento (UE) 2017/1151 della commissione del 1 giugno 2017 che integra il regolamento (CE) n. 715/2007 del Parlamento europeo e del Consiglio relativo all’omologazione dei veicoli a motore riguardo alle emissioni dai veicoli passeggeri e commerciali leggeri (Euro 5 ed Euro 6) e all’ottenimento di informazioni sulla riparazione e la manutenzione del veicolo, modifica la direttiva 2007/46/CE del Parlamento europeo e del Consiglio, il regolamento (CE) n. 692/2008 della Commissione e il regolamento (UE) n. 1230/2012 della Commissione e abroga il regolamento (CE) n. 692/2008 della Commissione, GU L 175 del 7.7.2017, pag. 1, modificato da ultimo dal regolamento (UE) 2023/443, GU L 66 del 2.3.2023, pag. 1.</td></tr>
 <tr><td>Regolamento (UE) 2017/1347</td><td>Regolamento (UE) 2017/1347 della commissione del 13 luglio 2017 che rettifica la direttiva 2007/46/CE del Parlamento europeo e del Consiglio, il regolamento (UE) n. 582/2011 della Commissione e il regolamento (UE) 2017/1151 della Commissione che integra il regolamento (CE) n. 715/2007 del Parlamento europeo e del Consiglio relativo all’omologazione dei veicoli a motore riguardo alle emissioni dai veicoli passeggeri e commerciali leggeri (Euro 5 ed Euro 6) e all’ottenimento di informazioni sulla riparazione e la manutenzione del veicolo, che modifica la direttiva 2007/46/CE del Parlamento europeo e del Consiglio, i regolamenti della Commissione (CE) n. 692/2008 e (UE) n. 1230/2012 e abroga il regolamento (CE) n. 692/2008, versione della GU L 192 del 24.7.2017, pag. 1</td></tr>
 <tr><td>Regolamento (UE) 2017/2400</td><td>Regolamento (UE) 2017/2400 della Commissione, del 12 dicembre 2017, che attua il regolamento di esecuzione (CE) n. 595/2009 del Parlamento europeo e del Consiglio per quanto riguarda la determinazione delle emissioni di CO<sub>2</sub> e del consumo di carburante dei veicoli pesanti e che modifica la direttiva 2007/46/CE del Parlamento europeo e del Consiglio e il regolamento (UE) n. 582/2001 della Commissione, GU L 349 del 29.12.2017, pag. 1; modificato da ultimo dal regolamento (UE) 2022/1379, GU L 212 del 12.8.2022, pag. 1.</td></tr>
 <tr><td>Regolamento (UE) 2018/985</td><td>Regolamento delegato (UE) 2018/985 della Commissione, del 12 febbraio 2018, che integra il regolamento (UE) n. 167/2013 del Parlamento europeo e del Consiglio per quanto riguarda le prescrizioni relative alle prestazioni ambientali e delle unità di propulsione dei veicoli agricoli e forestali e dei loro motori e che abroga il regolamento delegato (UE) 2015/96 della Commissione, GU L 182 del 18.7.2018, pag. 1; modificato da ultimo dal regolamento delegato (UE) 2022/518, GU L 104 dell’1.4.2022, pag. 56.</td></tr>
 <tr><td>Regolamento (UE) 2019/2144</td><td>Regolamento (UE) 2019/2144 del Parlamento europeo e del Consiglio, del 27 novembre 2019, relativo ai requisiti di omologazione dei veicoli a motore e dei loro rimorchi, nonché di sistemi, componenti ed entità tecniche destinati a tali veicoli, per quanto riguarda la loro sicurezza generale e la protezione degli occupanti dei veicoli e degli altri utenti vulnerabili della strada, che modifica il regolamento (UE) 2018/858 del Parlamento europeo e del Consiglio e abroga i regolamenti (CE) n. 78/2009, (CE) n. 79/2009 e (CE) n. 661/2009 del Parlamento europeo e del Consiglio e i regolamenti (CE) n. 631/2009, (UE) n. 406/2010, (UE) n. 672/2010, (UE) n. 1003/2010, (UE) n. 1005/2010, (UE) n. 1008/2010, (UE) n. 1009/2010, (UE) n. 19/2011, (UE) n. 109/2011, (UE) n. 458/2011, (UE) n. 65/2012, (UE) n. 130/2012,(UE) n. 347/2012, (UE) n. 351/2012, (UE) n. 1230/2012 e (UE) 2015/166 della Commissione, GU L 325 del 16.12.2019, pag. 1; modificato da ultimo dal regolamento delegato (UE) 2023/2590, versione della GU L, 2023/2590, del 22.11.2023.</td></tr>
-<tr><td>Regolamento (UE) 2021/535</td><td>Regolamento di esecuzione (UE) 2021/535 della Commissione, del 31 marzo 2021, recante modalità di applicazione del regolamento (UE) 2019/2144 del Parlamento europeo e del Consiglio per quanto riguarda le procedure e le specifiche tecniche uniformi per l’omologazione di veicoli e di sistemi, componenti ed entità tecniche indipendenti destinati a tali veicoli, relativamente alle caratteristiche costruttive generali e alla sicurezza, versione della GU L 117 del 6.4.2021, pag. 1.</td></tr>
+<tr><td>Regolamento (UE) 2021/535</td><td>Regolamento di esecuzione (UE) 2021/535 della Commissione, del 31 marzo 2021, recante modalità di applicazione del regolamento (UE) 2019/2144 del Parlamento europeo e del Consiglio per quanto riguarda le procedure e le specifiche tecniche uniformi per l’omologazione di veicoli e di sistemi, componenti ed entità tecniche indipendenti destinati a tali veicoli, relativamente alle caratteristiche costruttive generali e alla sicurezza, GU L 117 del 6.4.2021, pag. 1; modificato dal regolamento di esecuzione (UE) 2024/883, GU L, 2024/883, 22.3.2024.</td></tr>
 <tr><td>Regolamento (UE) 2021/646</td><td>Regolamento di esecuzione (UE) 2021/646 della Commissione, del 19 aprile 2021, recante modalità di applicazione del regolamento (UE) 2019/2144 del Parlamento europeo e del Consiglio per quanto riguarda procedure e specifiche tecniche uniformi per l’omologazione di veicoli a motore relativamente ai loro sistemi di emergenza di mantenimento della corsia (ELKS), versione della GU L 133 del 20.4.2021, pag. 31.</td></tr>
 <tr><td>Regolamento (UE) 2022/163</td><td>Regolamento di esecuzione (UE) 2022/163 della Commissione del 7 febbraio 2022 recante modalità di applicazione del regolamento (UE) 2018/858 del Parlamento europeo e del Consiglio per quanto riguarda le prescrizioni funzionali per la vigilanza del mercato di veicoli, sistemi, componenti ed entità tecniche indipendenti, versione della GU L 27 dell’8.2.2022, pag. 1.</td></tr>
 <tr><td>Regolamento (UE) 2022/545</td><td>Regolamento delegato (UE) 2022/545 della Commissione del 26 gennaio 2022 che integra il regolamento (UE) 2019/2144 del Parlamento europeo e del Consiglio stabilendo norme dettagliate sulle procedure di prova e i requisiti tecnici specifici per l’omologazione dei veicoli a motore relativamente ai registratori di dati di evento e per l’omologazione di tali sistemi come entità tecniche, e che ne modifica l’allegato II, versione della GU L 107 del 6.4.2022, pag. 18.</td></tr>
+<tr><td>Regolamento (UE) 2024/1257</td><td>Regolamento (UE) 2024/1257 del Parlamento europeo e del Consiglio, del 24 aprile 2024, sull’omologazione di veicoli a motore e motori, nonché di sistemi, componenti ed entità tecniche indipendenti destinati a tali veicoli, per quanto riguarda le relative emissioni e la durabilità delle batterie (Euro 7), che modifica il regolamento (UE) 2018/858 del Parlamento europeo e del Consiglio, e che abroga i regolamenti (CE) n. 715/2007 e (CE) n. 595/2009 del Parlamento europeo e del Consiglio, il regolamento (UE) n. 582/2011 della Commissione, il regolamento (UE) 2017/1151 della Commissione, il regolamento (UE) 2017/2400 della Commissione e il regolamento di esecuzione (UE) 2022/1362 della Commissione, versione della GU L, 2024/1257, 8.5.2024.</td></tr>
 <tr><td>Regolamento (UE) n. 2022/1426</td><td>Regolamento di esecuzione (UE) 2022/1426 della Commissione, del 5 agosto 2022, recante modalità di applicazione del regolamento (UE) 2019/2144 del Parlamento europeo e del Consiglio per quanto riguarda procedure e specifiche tecniche uniformi per l’omologazione del sistema di guida automatizzata di veicoli completamente automatizzati, GU L 221 del 26.8.2022, pag. 1.</td></tr>
+<tr><td>Regolamento (UE) 2024/1721</td><td>Regolamento di esecuzione (UE) 2024/1721 della Commissione, del 19 giugno 2024, recante modalità di applicazione del regolamento (UE) 2019/2144 del Parlamento europeo e del Consiglio per quanto riguarda i modelli per l’omologazione del sistema di adattamento intelligente della velocità, del sistema di avviso della disattenzione e della stanchezza del conducente, del registratore di dati di evento, dell’interfaccia di installazione di dispositivi di tipo alcolock e del sistema di avviso avanzato di distrazione del conducente, versione della GU L, 2024/1721, 20.6.2024.</td></tr>
 </table>
 
 ### 113 Normativa UE non inclusa negli atti legislativi relativi all’approvazione generale
@@ -5937,7 +5990,7 @@ Allegato 2[^t-1]
 
 <table>
 <tr><th>Regolamento UNECE</th><th colspan="2">Titolo del regolamento con complementi</th></tr>
-<tr><td>Regolamento UNECE n. 0[^annex2-lvlu1-lvl1-lvl12-1]</td><td>Regolamento UNECE n. 0, del 19 luglio 2018, sulle disposizioni uniformi per quanto concerne il sistema di omologazione internazionale dei veicoli completi; modificato dalla serie d’emendamento 05, in vigore dal 5 giugno 2023 (Add.0 Rev.5).</td></tr>
+<tr><td>Regolamento UNECE n. 0[^annex2-lvlu1-lvl1-lvl12-1]</td><td>Regolamento UNECE n. 0, del 19 luglio 2018, sulle disposizioni uniformi relative all’omologazione internazionale di veicoli completi; modificato da ultimo dalla serie d’emendamento 06, in vigore dal 15 giugno 2024 (Add.0 Rev.6).</td></tr>
 <tr><td>Regolamento UNECE n. 1[^annex2-lvlu1-lvl1-lvl12-2]</td><td>Regolamento UNECE n. 1, dell’8 agosto 1960, sulle condizioni uniformi per l’omologazione dei proiettori per veicoli a motore a luce anabbagliante e/o di profondità equipaggiati con lampade della categoria R2 e/o HS1; modificata da ultimo dalla serie d’emendamento 02, in vigore dall’8 settembre 2001 (Add.1 Rev.4 Emend.5).</td></tr>
 <tr><td>Regolamento UNECE n. 3[^annex2-lvlu1-lvl1-lvl12-3]</td><td>Regolamento UNECE n. 3, del 1° novembre 1963, sulle disposizioni uniformi per l’omologazione dei catadiottri dei veicoli a motore e i loro rimorchi; modificato da ultimo dalla serie d’emendamento 03, in vigore dal 15 ottobre 2019 (Add.2 Rev.5).</td></tr>
 <tr><td>Regolamento UNECE n. 4[^annex2-lvlu1-lvl1-lvl12-4]</td><td>Regolamento UNECE n. 4, del 15 aprile 1964, sulle disposizioni uniformi per l’omologazione dei dispositivi d’illuminazione della targa d’immatricolazione posteriore dei veicoli a motore e dei loro rimorchi; modificato da ultimo dalla serie d’emendamento 01, in vigore dal 15 ottobre 2019 (Add.3 Rev.4).</td></tr>
@@ -5946,21 +5999,21 @@ Allegato 2[^t-1]
 <tr><td>Regolamento UNECE n. 7[^annex2-lvlu1-lvl1-lvl12-7]</td><td>Regolamento UNECE n. 7, del 15 ottobre 1967, sulle disposizioni uniformi per l’omologazione relative all’omologazione delle luci di posizione anteriori e posteriori, luci di arresto e delle luci d’ingombro dei veicoli a motore e dei loro rimorchi; modificato da ultimo dalla serie d’emendamento 03, in vigore dal 15 ottobre 2019 (Add.6 Rev.7).</td></tr>
 <tr><td>Regolamento UNECE n. 8[^annex2-lvlu1-lvl1-lvl12-8]</td><td>Regolamento UNECE n. 8, del 15 novembre 1967, sulle condizioni uniformi per l’omologazione di proiettori per veicoli a motore con lampade alogene (lampade H1, H2, H3, HB3, HB4, H7, H8, H9, HIR1, HIR2 e/o H11) per proiettori a luce anabbagliante o proiettori di profondità asimmetrici europei o per entrambi; modificata da ultimo dalla revisione 4, correzione 1, in vigore dal 12 marzo 2003 (Add.7 Rev.4 Corr.1).</td></tr>
 <tr><td>Regolamento UNECE n. 9</td><td>Regolamento UNECE n. 9, del 26 gennaio 1994, sulle disposizioni uniformi per l’omologazione dei veicoli delle categorie L2, L4 e L5 per quanto concerne le emissioni sonore; modificato dalla serie d’emendamento 08, complemento 2, in vigore dall’8 ottobre 2022 (Add.8 Rev.4 Emend.2).</td></tr>
-<tr><td>Regolamento UNECE n. 10[^annex2-lvlu1-lvl1-lvl12-9]</td><td>Regolamento UNECE n. 10, del 1° aprile 1969, sulle disposizioni uniformi per l’omologazione dei veicoli per quanto concerne la compatibilità elettromagnetica; modificato da ultimo dalla serie d’emendamento 06, complemento 2, in vigore dall’8 ottobre 2022 (Add.9 Rev.6 Emend.2).</td></tr>
+<tr><td>Regolamento UNECE n. 10[^annex2-lvlu1-lvl1-lvl12-9]</td><td>Regolamento UNECE n. 10, del 1° aprile 1969, sulle disposizioni uniformi relative all’omologazione dei veicoli per quanto riguarda la compatibilità elettromagnetica; modificato da ultimo dalla serie d’emendamento 06, complemento 3, in vigore dal 22 settembre 2024 (Add.9 Rev.6 Emend.3).</td></tr>
 <tr><td>Regolamento UNECE n. 11</td><td>Regolamento UNECE n. 11, del 1° giugno 1969, sulle disposizioni uniformi per l’omologazione dei veicoli per quanto concerne le chiusure e le cerniere delle porte; modificato da ultimo dalla serie d’emendamento 04, complemento 2, in vigore dal 28 maggio 2019 (Add.10 Rev.3 Emend.2).</td></tr>
 <tr><td>Regolamento UNECE n. 12[^annex2-lvlu1-lvl1-lvl12-10]</td><td>Regolamento UNECE n. 12, del 1° luglio 1969, sulle disposizioni uniformi per l’omologazione dei veicoli a motore per quanto concerne la protezione del conducente dallo sterzo in caso di urti per incidente; modificato da ultimo dalla serie d’emendamento 05, in vigore dal 4 gennaio 2023 (Add.11 Rev.5).</td></tr>
-<tr><td>Regolamento UNECE n. 13[^annex2-lvlu1-lvl1-lvl12-11]</td><td>Regolamento UNECE n. 13, del 1° giugno 1970, sulle disposizioni uniformi per l’omologazione dei veicoli delle categorie M, N e O per quanto concerne i freni; modificato da ultimo dalla serie d’emendamento 12, complemento 2, in vigore dal 5 giugno 2023 (Add.12 Rev.9 Emend.2).</td></tr>
-<tr><td>Regolamento UNECE n. 13-H[^annex2-lvlu1-lvl1-lvl12-12]</td><td>Regolamento UNECE n. 13-H, dell’11 maggio 1998, sulle disposizioni uniformi per l’omologazione delle autovetture per quanto concerne i freni; modificato da ultimo dal complemento 17, in vigore dal 24 settembre 2023 (Add.12H Rev.3 Emend.4).</td></tr>
-<tr><td>Regolamento UNECE n. 14[^annex2-lvlu1-lvl1-lvl12-13]</td><td>Regolamento UNECE n. 14, del 1° aprile 1970, sulle disposizioni uniformi per l’omologazione dei veicoli per quanto concerne gli ancoraggi delle cinture di sicurezza, gli ancoraggi ISOFIX, gli ancoraggi per fissaggio superiore ISOFIX e le posizioni i-Size; modificato da ultimo dalla serie d’emendamento 09, complemento 2, in vigore dal 22 giugno 2022 (Add.13 Rev.7 Emend.2).</td></tr>
-<tr><td>Regolamento UNECE n. 16[^annex2-lvlu1-lvl1-lvl12-14]</td><td>Regolamento UNECE n. 16, del 1° dicembre 1970, sulle disposizioni uniformi relative all’omologazione di: I cinture di sicurezza, sistemi di ritenuta, sistemi di ritenuta per bambini e sistemi di ritenuta per bambini ISOFIX per gli occupanti dei veicoli a motore; II veicoli dotati di cinture di sicurezza, spia cinture di sicurezza, sistemi di ritenuta, sistemi di ritenuta per bambini, sistemi di ritenuta per bambini ISOFIX e sistemi di ritenuta per bambini i-Size; modificato da ultimo dalla serie d’emendamento 08, complemento 3 in vigore dal 22 giugno 2022 (Add.15 Rev.10 Emend.3).</td></tr>
-<tr><td>Regolamento UNECE n. 17[^annex2-lvlu1-lvl1-lvl12-15]</td><td>Regolamento UNECE n. 17, del 1° dicembre 1970, sulle disposizioni uniformi per l’omologazione di veicoli per quanto concerne la resistenza dei sedili e del loro ancoraggio come anche le caratteristiche dei poggiatesta previsti per detti sedili; modificato da ultimo dalla serie d’emendamento 10, in vigore dal 9 giugno 2021 (Add.16 Rev.7).</td></tr>
+<tr><td>Regolamento UNECE n. 13[^annex2-lvlu1-lvl1-lvl12-11]</td><td>Regolamento UNECE n. 13, del 1° giugno 1970, sulle disposizioni uniformi relative all’omologazione dei veicoli delle categorie M, N e O per quanto riguarda i freni; modificato da ultimo dalla serie d’emendamento 13, complemento 1, in vigore dal 22 settembre 2024 (Add.12 Rev.10).</td></tr>
+<tr><td>Regolamento UNECE n. 13-H[^annex2-lvlu1-lvl1-lvl12-12]</td><td>Regolamento UNECE n. 13-H, dell’11 maggio 1998, sulle disposizioni uniformi relative all’omologazione delle autovetture per quanto riguarda i freni; modificato da ultimo dalla serie d’emendamento 01, complemento 4, in vigore dal 4 gennaio 2023 (Add.12H Rev.4 Emend.4).</td></tr>
+<tr><td>Regolamento UNECE n. 14[^annex2-lvlu1-lvl1-lvl12-13]</td><td>Regolamento UNECE n. 14, del 1° aprile 1970, relative all’omologazione dei veicoli per quanto riguarda gli ancoraggi delle cinture di sicurezza, gli ancoraggi ISOFIX, gli ancoraggi per fissaggio superiore ISOFIX e le posizioni i‑Size; modificato da ultimo dalla serie d’emendamento 09, complemento 3, in vigore dal 15 giugno 2024 (Add.13 Rev.7 Emend.3).</td></tr>
+<tr><td>Regolamento UNECE n. 16[^annex2-lvlu1-lvl1-lvl12-14]</td><td>Regolamento UNECE n. 16, del 1° dicembre 1970, sulle disposizioni uniformi relative all’omologazione di: I cinture di sicurezza, sistemi di ritenuta, sistemi di ritenuta per bambini e sistemi di ritenuta per bambini ISOFIX per gli occupanti dei veicoli a motore; II veicoli dotati di cinture di sicurezza, spia cinture di sicurezza, sistemi di ritenuta, sistemi di ritenuta per bambini, sistemi di ritenuta per bambini ISOFIX e sistemi di ritenuta per bambini i‑Size; modificato da ultimo dalla serie d’emendamento 09, in vigore dal 15 giugno 2024 (Add.15 Rev.11).</td></tr>
+<tr><td>Regolamento UNECE n. 17[^annex2-lvlu1-lvl1-lvl12-15]</td><td>Regolamento UNECE n. 17, del 1° dicembre 1970, sulle disposizioni uniformi relative all’omologazione dei veicoli per quanto riguarda la resistenza dei sedili e del loro ancoraggio come anche le caratteristiche dei poggiatesta previsti per detti sedili; modificato da ultimo dalla serie d’emendamento 11, in vigore dal 15 giugno 2024 (Add.16 Rev.8).</td></tr>
 <tr><td>Regolamento UNECE n. 18</td><td>Regolamento UNECE n. 18, del 1° marzo 1971, sulle disposizioni uniformi per l’omologazione di veicoli per quanto concerne i loro dispositivi di protezione contro un impiego non autorizzato; modificato da ultimo dalla serie d’emendamento 03, complemento 4, in vigore dal 30 settembre 2021 (Add.17 Rev.3 Emend.4).</td></tr>
 <tr><td>Regolamento UNECE n. 19[^annex2-lvlu1-lvl1-lvl12-16]</td><td>Regolamento UNECE n. 19, del 1° marzo 1971, sulle disposizioni uniformi per l’omologazione dei proiettori fendinebbia anteriori dei veicoli a motore; modificato da ultimo dalla serie d’emendamento 05, in vigore dal 15 ottobre 2019 (Add.18 Rev.8).</td></tr>
 <tr><td>Regolamento UNECE n. 20[^annex2-lvlu1-lvl1-lvl12-17]</td><td>Regolamento UNECE n. 20, del 1° maggio 1971, sulle condizioni uniformi per l’omologazione di proiettori per veicoli a motore con lampade alogene (lampade H4) per proiettori a luce anabbagliante o proiettori di profondità asimmetrici o per entrambi; modificata da ultimo dalla serie d’emendamento 03, in vigore dal 9 settembre 2001 (Add.19 Rev.3).</td></tr>
 <tr><td>Regolamento UNECE n. 21[^annex2-lvlu1-lvl1-lvl12-18]</td><td>Regolamento UNECE n. 21, del 1° dicembre 1971, sulle disposizioni uniformi per l’omologazione dei veicoli per quanto concerne le loro finiture interne; modificato da ultimo dalla serie d’emendamento 01, complemento 4, in vigore dal 29 maggio 2020 (Add.20 Rev.2 Emend.3).</td></tr>
 <tr><td>Regolamento UNECE n. 22[^annex2-lvlu1-lvl1-lvl12-19]</td><td>Regolamento UNECE n. 22, del 1° giugno 1972, sulle disposizioni uniformi per l’omologazione dei caschi di protezione e delle loro visiere per conducenti e passeggeri di motocicli e ciclomotori; modificato da ultimo dalla serie d’emendamento 06, complemento 2, in vigore dal 4 gennaio 2023 (Add.21 Rev.5 Emend.2).</td></tr>
 <tr><td>Regolamento UNECE n. 23[^annex2-lvlu1-lvl1-lvl12-20]</td><td>Regolamento UNECE n. 23, del 1° dicembre 1971, sulle disposizioni uniformi per l’omologazione dei proiettori di retromarcia e proiettori di manovra dei veicoli a motore e dei loro rimorchi; modificato da ultimo dalla serie d’emendamento 01, in vigore dal 15 ottobre 2019 (Add.22 Rev.5).</td></tr>
-<tr><td>Regolamento UNECE n. 24[^annex2-lvlu1-lvl1-lvl12-21]</td><td>Regolamento UNECE n. 24, del 1° dicembre 1971, sulle disposizioni uniformi per: I l’omologazione dei motori ad accensione per compressione (motori diesel) per quanto concerne l’emissione di materie visibilmente inquinanti; II l’omologazione dei veicoli a motore per quanto concerne il montaggio di un motore ad accensione per compressione (motore diesel) di un tipo approvato; III l’omologazione dei veicoli a motore equipaggiati con un motore ad accensione per compressione (motore diesel) per quanto concerne l’emissione dal motore di materie visibilmente inquinanti; IV la misurazione della potenza di motori ad accensione per compressione (motori diesel); modificato da ultimo dalla serie d’emendamento 03, complemento 9, in vigore dal 5 giugno 2023 (Add.23 Rev.2 Emend.9).</td></tr>
+<tr><td>Regolamento UNECE n. 24[^annex2-lvlu1-lvl1-lvl12-21]</td><td>Regolamento UNECE n. 24, del 1° dicembre 1971, sulle disposizioni uniformi per: I l’omologazione dei motori ad accensione per compressione (motori diesel) per quanto concerne l’emissione di materie visibilmente inquinanti; II l’omologazione dei veicoli a motore per quanto concerne il montaggio di un motore ad accensione per compressione (motore diesel) di un tipo approvato; III l’omologazione dei veicoli a motore equipaggiati con un motore ad accensione per compressione (motore diesel) per quanto concerne l’emissione dal motore di materie visibilmente inquinanti; IV la misurazione della potenza di motori ad accensione per compressione (motori diesel); modificato da ultimo dalla serie d’emendamento 03, complemento 11, in vigore dal 15 giugno 2024 (Add.23 Rev.2 Emend.11).</td></tr>
 <tr><td>Regolamento UNECE n. 25[^annex2-lvlu1-lvl1-lvl12-22]</td><td>Regolamento UNECE n. 25, del 1° marzo 1972, sulle disposizioni uniformi per l’omologazione di poggiatesta incorporati o non incorporati nei sedili dei veicoli; modificato da ultimo dalla serie d’emendamento 04, complemento 1, in vigore dal 15 giugno 2015 (Add.24 Rev.1 Emend.3).</td></tr>
 <tr><td>Regolamento UNECE n. 26</td><td>Regolamento UNECE n. 26, del 1° luglio 1972, sulle disposizioni uniformi per l’omologazione dei veicoli per quanto concerne le loro sporgenze esterne; modificato da ultimo dalla serie d’emendamento 04, in vigore dal 25 settembre 2020 (Add.25 Rev.2).</td></tr>
 <tr><td>Regolamento UNECE n. 27[^annex2-lvlu1-lvl1-lvl12-23]</td><td>Regolamento UNECE n. 27, del 15 settembre 1972, sulle disposizioni uniformi per l’omologazione dei veicoli per quanto concerne l’omologazione di triangoli d’avvertimento; modificato da ultimo dalla serie d’emendamento 05, in vigore dal 15 ottobre 2019 (Add.26 Rev.2 Emend.2).</td></tr>
@@ -5973,23 +6026,23 @@ Allegato 2[^t-1]
 <tr><td>Regolamento UNECE n. 34</td><td>Regolamento UNECE n. 34, del 1° luglio 1975, sulle disposizioni uniformi per l’omologazione di veicoli per quanto concerne la prevenzione dei rischi d’incendio; modificato da ultimo dalla serie d’emendamento 04, in vigore dal 5 giugno 2023 (Add.33 Rev.4).</td></tr>
 <tr><td>Regolamento UNECE n. 35</td><td>Regolamento UNECE n. 35, del 10 novembre 1975, sulle disposizioni uniformi per l’omologazione dei veicoli per quanto concerne la disposizione dei pedali di comando; modificato da ultimo dalla serie d’emendamento 01, in vigore dal 9 giugno 2021 (Add.34 Rev.2).</td></tr>
 <tr><td>Regolamento UNECE n. 36</td><td>Regolamento UNECE n. 36, del 1° marzo 1976, sulle condizioni uniformi per l’omologazione dei veicoli per quanto concerne la costruzione di autobus; modificata da ultimo dalla serie d’emendamento 03, complemento 12, in vigore dal 10 novembre 2007 (Add.35 Rev.3).</td></tr>
-<tr><td>Regolamento UNECE n. 37[^annex2-lvlu1-lvl1-lvl12-30]</td><td>Regolamento UNECE n. 37, del 1° febbraio 1978, sulle disposizioni uniformi per l’omologazione delle lampade utilizzate nei proiettori omologati dei veicoli a motore e dei loro rimorchi; modificato da ultimo dalla serie d’emendamento 03, complemento 48, in vigore dal 22 giugno 2022 (Add.36 Rev.7 Emend.11).</td></tr>
+<tr><td>Regolamento UNECE n. 37[^annex2-lvlu1-lvl1-lvl12-30]</td><td>Regolamento UNECE n. 37, del 1° febbraio 1978, sulle disposizioni uniformi per l’omologazione delle lampade a incandescenza utilizzate nei proiettori omologati dei veicoli a motore e dei loro rimorchi; modificato da ultimo dalla serie d’emendamento 03, complemento 49, in vigore dal 22 settembre 2024 (Add.36 Rev.7 Emend.12).</td></tr>
 <tr><td>Regolamento UNECE n. 38[^annex2-lvlu1-lvl1-lvl12-31]</td><td>Regolamento UNECE n. 38, del 1° agosto 1978, sulle disposizioni uniformi per l’omologazione dei proiettori fendinebbia posteriori per veicoli a motore e loro rimorchi; modificato da ultimo dalla serie d’emendamento 01, in vigore dal 15 ottobre 2019 (Add.37 Rev.4).</td></tr>
 <tr><td>Regolamento UNECE n. 39</td><td>Regolamento UNECE n. 39, del 20 novembre 1978, sulle disposizioni uniformi per l’omologazione dei veicoli per quanto concerne i tachimetri (indicatori di velocità) e il loro montaggio; modificato da ultimo dalla serie d’emendamento 01, complemento 2, in vigore dall’8 ottobre 2022 (Add.38 Rev.2 Emend.2).</td></tr>
-<tr><td>Regolamento UNECE n. 41</td><td>Regolamento UNECE n. 41, del 1° giugno 1980, sulle disposizioni uniformi per l’omologazione dei motoveicoli per quanto concerne le emissioni sonore; modificato da ultimo dalla serie d’emendamento 05, complemento 1, in vigore dal 7 gennaio 2022 (Add.40 Rev.3 Emend.1).</td></tr>
+<tr><td>Regolamento UNECE n. 41</td><td>Regolamento UNECE n. 41, del 1° giugno 1980, sulle disposizioni uniformi per l’omologazione dei motoveicoli per quanto concerne le emissioni sonore; modificato da ultimo dalla serie d’emendamento 05, complemento 1, in vigore dal 5 gennaio 2024 (Add.40 Rev.3 Emend.2).</td></tr>
 <tr><td>Regolamento UNECE n. 42</td><td>Regolamento UNECE n. 42, del 1° giugno 1980, sulle disposizioni uniformi per l’omologazione di veicoli per quanto concerne i dispositivi di protezione (paraurti, ecc.) anteriori e posteriori; modificato da ultimo dal complemento 2, in vigore dal 3 gennaio 2021 (Add.41 Emend.2).</td></tr>
-<tr><td>Regolamento UNECE n. 43</td><td>Regolamento UNECE n. 43, del 15 febbraio 1981, sulle disposizioni uniformi per l’omologazione dei vetri di sicurezza e della loro installazione sui veicoli; modificato da ultimo dalla serie d’emendamento 01, complemento 10, in vigore dal 5 giugno 2023 (Add.42 Rev.4 Emend.6).</td></tr>
+<tr><td>Regolamento UNECE n. 43</td><td>Regolamento UNECE n. 43, del 15 febbraio 1981, sulle disposizioni uniformi per l’omologazione dei vetri di sicurezza e della loro installazione sui veicoli; modificato da ultimo dalla serie d’emendamento 01, complemento 11, in vigore dal 15 giugno 2024 (Add.42 Rev.4 Emend.7).</td></tr>
 <tr><td>Regolamento UNECE n. 44[^annex2-lvlu1-lvl1-lvl12-32]</td><td>Regolamento UNECE n. 44, del 1° febbraio 1981, sulle disposizioni uniformi per l’omologazione dei sistemi di ritenuta per bambini a bordo dei veicoli a motore; modificato da ultimo dalla serie d’emendamento 04, complemento 18, in vigore dal 9 giugno 2021 (Add.43 Rev.3 Emend.11).</td></tr>
-<tr><td>Regolamento UNECE n. 45</td><td>Regolamento UNECE n. 45, del 1° luglio 1981, sulle disposizioni uniformi per l’omologazione degli impianti tergi-proiettori e dei veicoli a motore con impianti tergi-proiettori; modificato da ultimo dalla serie d’emendamento 01, complemento 12, in vigore dal 22 giugno 2022 (Add.44 Rev.2 Emend.6).</td></tr>
-<tr><td>Regolamento UNECE n. 46</td><td>Regolamento UNECE n. 46, del 1° settembre 1981, sulle disposizioni uniformi relative all’omologazione dei dispositivi di visione indiretta e dei veicoli a motore per quanto concerne l’installazione di questi dispositivi; modificato da ultimo dalla serie d’emendamento 05, in vigore dall’8 ottobre 2022 (Add.45 Rev.7).</td></tr>
-<tr><td>Regolamento UNECE n. 48</td><td>Regolamento UNECE n. 48, del 1° gennaio 1982, sulle disposizioni uniformi per l’omologazione dei veicoli per quanto concerne l’installazione dei dispositivi d’illuminazione e di segnalazione luminosa; modificato da ultimo dalla serie d’emendamento 08, complemento 3, in vigore dal 24 settembre 2023 (Add.47 Rev.14 Emend.3).</td></tr>
-<tr><td>Regolamento UNECE n. 49[^annex2-lvlu1-lvl1-lvl12-33]</td><td>Regolamento UNECE n. 49, del 15 aprile 1982, sulle disposizioni uniformi relative ai provvedimenti da prendere per ridurre le emissioni di inquinanti gassosi e di particolato prodotte da motori ad accensione per compressione destinati alla propulsione di veicoli nonché per ridurre le emissioni di inquinanti gassosi prodotte da motori ad accensione comandata destinati alla propulsione di veicoli alimentati con gas naturale o gas di petrolio liquefatto; modificato da ultimo dalla serie d’emendamento 07, complemento 1, in vigore dal 4 gennaio 2023 (Add.48 Rev.8 Emend.1).</td></tr>
+<tr><td>Regolamento UNECE n. 45</td><td>Regolamento UNECE n. 45, del 1° luglio 1981, sulle disposizioni uniformi per l’omologazione degli impianti tergi-proiettori e dei veicoli a motore con impianti tergi-proiettori; modificato da ultimo dalla serie d’emendamento 01, complemento 13, in vigore dal 22 settembre 2024 (Add.44 Rev.2 Emend.7).</td></tr>
+<tr><td>Regolamento UNECE n. 46</td><td>Regolamento UNECE n. 46, del 1° settembre 1981, sulle disposizioni uniformi relative all’omologazione dei dispositivi di visione indiretta e dei veicoli a motore per quanto concerne l’installazione di questi dispositivi; modificato da ultimo dalla serie d’emendamento 06, in vigore dal 22 settembre 2024 (Add.45 Rev.8).</td></tr>
+<tr><td>Regolamento UNECE n. 48</td><td>Regolamento UNECE n. 48, del 1° gennaio 1982, sulle disposizioni uniformi per l’omologazione dei veicoli per quanto concerne l’installazione dei dispositivi d’illuminazione e di segnalazione luminosa; modificato da ultimo dalla serie d’emendamento 09, in vigore dal 22 settembre 2024 (Add.47 Rev.15).</td></tr>
+<tr><td>Regolamento UNECE n. 49[^annex2-lvlu1-lvl1-lvl12-33]</td><td>Regolamento UNECE n. 49, del 15 aprile 1982, sulle disposizioni uniformi relative ai provvedimenti da prendere per ridurre le emissioni di inquinanti gassosi e di particolato prodotte da motori ad accensione per compressione destinati alla propulsione di veicoli nonché per ridurre le emissioni di inquinanti gassosi prodotte da motori ad accensione comandata destinati alla propulsione di veicoli alimentati con gas naturale o gas di petrolio liquefatto; modificato da ultimo dalla serie d’emendamento 07, complemento 2, in vigore dal 5 gennaio 2024 (Add.48 Rev.8 Emend.2).</td></tr>
 <tr><td>Regolamento UNECE n. 50[^annex2-lvlu1-lvl1-lvl12-34]</td><td>Regolamento UNECE n. 50, del 1° giugno 1982, sulle disposizioni uniformi per l’omologazione delle luci di posizione anteriori, delle luci di posizione posteriori, delle luci di arresto, degli indicatori di direzione e dei dispositivi di illuminazione della targa d’immatricolazione posteriore per i veicoli della categoria L; modificato da ultimo dalla serie d’emendamento 01, in vigore dal 15 ottobre 2019 (Add.49 Rev.3 Emend.5).</td></tr>
-<tr><td>Regolamento UNECE n. 51[^annex2-lvlu1-lvl1-lvl12-35]</td><td>Regolamento UNECE n. 51, del 15 luglio 1982, sulle disposizioni uniformi per l’omologazione di veicoli a motore con almeno quattro ruote per quanto concerne le emissioni sonore; modificato da ultimo dalla serie d’emendamento 03, complemento 8, in vigore dal 24 settembre 2023 (Add.50 Rev.3 Emend.8).</td></tr>
+<tr><td>Regolamento UNECE n. 51[^annex2-lvlu1-lvl1-lvl12-35]</td><td>Regolamento UNECE n. 51, del 15 luglio 1982, sulle disposizioni uniformi per l’omologazione di veicoli a motore con almeno quattro ruote per quanto concerne le emissioni sonore; modificato da ultimo dalla serie d’emendamento 03, complemento 9, in vigore dal 5 gennaio 2024 (Add.50 Rev.3 Emend.9).</td></tr>
 <tr><td>Regolamento UNECE n. 52</td><td>Regolamento UNECE n. 52, del 1° novembre 1982, sulle condizioni uniformi sulle caratteristiche di costruzione di minibus e autobus (M<sub>2</sub>, M<sub>3</sub>) per trasporti pubblici con un numero di posti limitato (mass. 23 compreso il conducente); modificata da ultimo dalla serie d’emendamento 01, complemento 9, in vigore dal 10 novembre 2007 (Add.51 Rev.3).</td></tr>
-<tr><td>Regolamento UNECE n. 53</td><td>Regolamento UNECE n. 53, del 1° febbraio 1983, sulle disposizioni uniformi per l’omologazione dei veicoli della categoria L3 (motocicli) per quanto concerne l’installazione dei dispositivi di illuminazione e di segnalazione luminosa; modificato da ultimo dalla serie d’emendamento 03, complemento 4, in vigore dal 24 settembre 2023 (Add.52 Rev.5 Emend.4).</td></tr>
-<tr><td>Regolamento UNECE n. 54[^annex2-lvlu1-lvl1-lvl12-36]</td><td>Regolamento UNECE n. 54, del 1° marzo 1983, sulle disposizioni uniformi per l’omologazione degli pneumatici per veicoli utilitari e loro rimorchi; modificato da ultimo dal complemento 25, in vigore dal 4 gennaio 2023 (Add.53 Rev.3 Emend.7).</td></tr>
-<tr><td>Regolamento UNECE n. 55[^annex2-lvlu1-lvl1-lvl12-37]</td><td>Regolamento UNECE n. 55, del 1° marzo 1983, sulle disposizioni uniformi per l’omologazione dei pezzi meccanici d’agganciamento delle combinazioni di veicoli; modificato da ultimo dalla serie d’emendamento 02, complemento 2, in vigore dal 22 giugno 2022 (Add.54 Rev.3 Emend.2).</td></tr>
+<tr><td>Regolamento UNECE n. 53</td><td>Regolamento UNECE n. 53, del 1° febbraio 1983, sulle disposizioni uniformi per l’omologazione dei veicoli della categoria L3 (motocicli) per quanto concerne l’installazione dei dispositivi di illuminazione e di segnalazione luminosa; modificato da ultimo dalla serie d’emendamento 04, complemento 1, in vigore dal 22 settembre 2024 (Add.52 Rev.6 Emend.1).</td></tr>
+<tr><td>Regolamento UNECE n. 54[^annex2-lvlu1-lvl1-lvl12-36]</td><td>Regolamento UNECE n. 54, del 1° marzo 1983, sulle disposizioni uniformi per l’omologazione degli pneumatici per veicoli commerciali e loro rimorchi; modificato da ultimo dal complemento 26, in vigore dal 5 gennaio 2024 (Add.53 Rev.3 Emend.8).</td></tr>
+<tr><td>Regolamento UNECE n. 55[^annex2-lvlu1-lvl1-lvl12-37]</td><td>Regolamento UNECE n. 55, del 1° marzo 1983, sulle disposizioni uniformi per l’omologazione dei pezzi meccanici d’agganciamento delle combinazioni di veicoli; modificato da ultimo dalla serie d’emendamento 03, in vigore dal 22 settembre 2024 (Add.54 Rev.4).</td></tr>
 <tr><td>Regolamento UNECE n. 56[^annex2-lvlu1-lvl1-lvl12-38]</td><td>Regolamento UNECE n. 56, del 15 giugno 1983, sulle condizioni uniformi per l’omologazione dei proiettori per ciclomotori e veicoli assimilabili; modificata da ultimo dalla serie d’emendamento 01, in vigore dal 12 settembre 2001 (Add.55 Rev.1 Emend.2).</td></tr>
 <tr><td>Regolamento UNECE n. 57[^annex2-lvlu1-lvl1-lvl12-39]</td><td>Regolamento UNECE n. 57, del 15 giugno 1983, sulle condizioni uniformi per l’omologazione dei proiettori per motocicli e veicoli assimilabili; modificata da ultimo dalla serie d’emendamento 02, in vigore dal 12 settembre 2001 (Add.56 Rev.1 Emend.2).</td></tr>
 <tr><td>Regolamento UNECE n. 58[^annex2-lvlu1-lvl1-lvl12-40]</td><td>Regolamento UNECE n. 58, del 1° luglio 1983, sulle disposizioni uniformi relative all’omologazione di: I dispositivi di protezione antincastro posteriore (RUPD); II veicoli per quanto riguarda il montaggio di un RUPD di tipo omologato; III veicoli per quanto riguarda la protezione antincastro posteriore (RUP); modificato da ultimo dalla serie d’emendamento 03, complemento 3 in vigore dal 22 giugno 2022 (Add.57 Rev.3 Emend.3).</td></tr>
@@ -6007,42 +6060,42 @@ Allegato 2[^t-1]
 <tr><td>Regolamento UNECE n. 71</td><td>Regolamento UNECE n. 71, del 1° agosto 1987, sulle condizioni unitarie per l’omologazione di trattori agricoli per quanto concerne il campo di visibilità per il conducente (Add.70).</td></tr>
 <tr><td>Regolamento UNECE n. 72[^annex2-lvlu1-lvl1-lvl12-45]</td><td>Regolamento UNECE n. 72, del 15 febbraio 1988, sulle condizioni uniformi per l’omologazione dei proiettori con lampade alogene (lampade HS<sub>1</sub>) per proiettori a luce anabbagliante asimmetrica e proiettori di profondità per motocicli; modificata da ultimo dalla serie d’emendamento 01, in vigore dal 12 settembre 2001 (Add.71 Emend.3).</td></tr>
 <tr><td>Regolamento UNECE n. 73[^annex2-lvlu1-lvl1-lvl12-46]</td><td>Regolamento UNECE n. 73, del 1° gennaio 1988, sulle disposizioni uniformi per l’omologazione di autoveicoli pesanti, rimorchi e semirimorchi per quanto concerne le protezioni laterali; modificato da ultimo dalla serie d’emendamento 01, complemento 2, in vigore dal 15 ottobre 2019 (Add.72 Rev.1 Emend.2).</td></tr>
-<tr><td>Regolamento UNECE n. 74</td><td>Regolamento UNECE n. 74, del 15 giugno 1988, sulle disposizioni uniformi per l’omologazione dei ciclomotori per quanto concerne l’installazione dei dispositivi di illuminazione e di segnalazione luminosa; modificato da ultimo dalla serie d’emendamento 02, complemento 2, in vigore dal 4 gennaio 2023 (Add.73 Rev.3 Emend.2).</td></tr>
-<tr><td>Regolamento UNECE n. 75</td><td>Regolamento UNECE n. 75, del 1° aprile 1988, sulle disposizioni uniformi per l’omologazione degli pneumatici per motocicli; modificato da ultimo dal complemento 19, in vigore dal 30 settembre 2021 (Add.74 Rev.2 Emend.6).</td></tr>
+<tr><td>Regolamento UNECE n. 74</td><td>Regolamento UNECE n. 74, del 15 giugno 1988, sulle disposizioni uniformi per l’omologazione dei ciclomotori per quanto concerne l’installazione dei dispositivi di illuminazione e di segnalazione luminosa; modificato da ultimo dalla serie d’emendamento 03, in vigore dal 15 giugno 2024 (Add.73 Rev.4).</td></tr>
+<tr><td>Regolamento UNECE n. 75</td><td>Regolamento UNECE n. 75, del 1° aprile 1988, sulle disposizioni uniformi per l’omologazione degli pneumatici per motocicli; modificato da ultimo dal complemento 20, in vigore dal 5 gennaio 2024 (Add.74 Rev.2 Emend.7).</td></tr>
 <tr><td>Regolamento UNECE- n. 76[^annex2-lvlu1-lvl1-lvl12-47]</td><td>Regolamento UNECE n. 76, del 1° luglio 1988, sulle condizioni unitarie per l’omologazione dei proiettori a luce anabbagliante e di profondità per ciclomotori; modificata da ultimo dalla serie d’emendamento 01, in vigore dal 12 settembre 2001 (Add.75 Emend.1).</td></tr>
 <tr><td>Regolamento UNECE n. 77[^annex2-lvlu1-lvl1-lvl12-48]</td><td>Regolamento UNECE n. 77, del 30 settembre 1988, sulle disposizioni uniformi per l’omologazione di luci di posteggio per veicoli a motore; modificato da ultimo dalla serie d’emendamento 01, in vigore dal 15 ottobre 2019 (Add.76 Rev.4).</td></tr>
-<tr><td>Regolamento UNECE n. 78</td><td>Regolamento UNECE n. 78, del 15 ottobre 1988, sulle disposizioni uniformi per l’omologazione dei veicoli della categoria L per quanto concerne i freni; modificato da ultimo dalla serie d’emendamento 05, complemento 2, in vigore dal 24 settembre 2023 (Add.77 Rev.3 Emend.2).</td></tr>
-<tr><td>Regolamento UNECE n. 79[^annex2-lvlu1-lvl1-lvl12-49]</td><td>Regolamento UNECE n. 79, del 1° dicembre 1988, sulle disposizioni uniformi per l’omologazione di veicoli per quanto concerne i dispositivi di sterzo; modificato da ultimo dalla serie d’emendamento 04, complemento 3, in vigore dal 4 gennaio 2023 (Add.78 Rev.5 Emend.3).</td></tr>
+<tr><td>Regolamento UNECE n. 78</td><td>Regolamento UNECE n. 78, del 15 ottobre 1988, sulle disposizioni uniformi relative all’omologazione dei veicoli della categoria L per quanto riguarda i freni; modificato da ultimo dalla serie d’emendamento 06, in vigore dal 5 gennaio 2024 (Add.77 Rev.4).</td></tr>
+<tr><td>Regolamento UNECE n. 79[^annex2-lvlu1-lvl1-lvl12-49]</td><td>Regolamento UNECE n. 79, del 1° dicembre 1988, sulle disposizioni uniformi relative all’omologazione dei veicoli per quanto riguarda i dispositivi di sterzo; modificato da ultimo dalla serie d’emendamento 04, complemento 5, in vigore dal 22 settembre 2024 (Add.78 Rev.5 Emend.5).</td></tr>
 <tr><td>Regolamento UNECE n. 80[^annex2-lvlu1-lvl1-lvl12-50]</td><td>Regolamento UNECE n. 80, del 23 febbraio 1989, sulle disposizioni uniformi per l’omologazione dei sedili degli autobus come anche di questi veicoli per quanto concerne la resistenza dei sedili e dei loro ancoraggi; modificato da ultimo dalla serie d’emendamento 04, in vigore dal 29 maggio 2020 (Add.79 Rev.3).</td></tr>
 <tr><td>Regolamento UNECE n. 81</td><td>Regolamento UNECE n. 81, del 1° marzo 1989, sulle condizioni uniformi per l’omologazione degli specchi retrovisori e dei veicoli a motore a due ruote, con o senza carrozzino laterale, per quanto concerne il montaggio degli specchi retrovisori sul manubrio; modificata da ultimo dal complemento 2, in vigore dal 18 giugno 2007 (Add.80 Emend.2).</td></tr>
 <tr><td>Regolamento UNECE n. 82[^annex2-lvlu1-lvl1-lvl12-51]</td><td>Regolamento UNECE n. 82, del 17 marzo 1989, sulle condizioni uniformi per l’omologazione dei proiettori per ciclomotori equipaggiati di lampade alogene (lampade HS<sub>2</sub>); modificata dalla serie d’emendamento 01, in vigore dal 12 settembre 2001 (Add.81 Emend.1).</td></tr>
-<tr><td>Regolamento UNECE n. 83[^annex2-lvlu1-lvl1-lvl12-52]</td><td>Regolamento UNECE n. 83, del 5 novembre 1989, sulle disposizioni uniformi per l’omologazione dei veicoli per quanto riguarda le emissioni di inquinanti in base al carburante richiesto dal motore; modificato da ultimo dalla serie d’emendamento 07, complemento 15, in vigore dal 5 giugno 2023 (Add.82 Rev.5 Emend.15).</td></tr>
+<tr><td>Regolamento UNECE n. 83[^annex2-lvlu1-lvl1-lvl12-52]</td><td>Regolamento UNECE n. 83, del 5 novembre 1989, sulle disposizioni uniformi relative all’omologazione dei veicoli per quanto riguarda le emissioni di inquinanti in base al carburante richiesto dal motore; modificato da ultimo dalla serie d’emendamento 08, in vigore dal 5 gennaio 2024 (Add.82 Rev.5 Emend.17).</td></tr>
 <tr><td>Regolamento UNECE n. 84[^annex2-lvlu1-lvl1-lvl12-53]</td><td>Regolamento UNECE n. 84, del 15 luglio 1990, sulle condizioni uniformi per l’omologazione di veicoli a motore, equipaggiati di motori a combustione interna, per quanto concerne il consumo di carburante, in vigore dal 15 luglio 1990 (Add.83).</td></tr>
-<tr><td>Regolamento UNECE n. 85[^annex2-lvlu1-lvl1-lvl12-54]</td><td>Regolamento UNECE n. 85, del 15 settembre 1990, sulle disposizioni uniformi per l’omologazione di motori a combustione interna o di sistemi elettrici, destinati alla propulsione di veicoli a motore delle categorie M e N, per quanto concerne la misurazione della potenza effettiva e della potenza massima per trenta minuti dei sistemi elettrici di propulsione; modificato da ultimo dal complemento 11, in vigore dal 4 gennaio 2023 (Add.84 Rev.1 Emend.5).</td></tr>
-<tr><td>Regolamento UNECE n. 86</td><td>Regolamento UNECE n. 86, del 1° agosto 1990, sulle disposizioni uniformi per l’omologazione di veicoli agricoli o forestali per quanto concerne l’installazione dei dispositivi di illuminazione e di segnalazione luminosa; modificato da ultimo dalla serie d’emendamento 02, complemento 1, in vigore dal 4 gennaio 2023 (Add.85 Rev.4 Emend.1).</td></tr>
+<tr><td>Regolamento UNECE n. 85[^annex2-lvlu1-lvl1-lvl12-54]</td><td>Regolamento UNECE n. 85, del 15 settembre 1990, sulle disposizioni uniformi per l’omologazione di motori a combustione interna o di sistemi elettrici, destinati alla propulsione di veicoli a motore delle categorie M e N, per quanto concerne la misurazione della potenza netta e della potenza massima su trenta minuti dei sistemi elettrici di propulsione; modificato da ultimo dal complemento 12, in vigore dal 5 gennaio 2024 (Add.84 Rev.1 Emend.6).</td></tr>
+<tr><td>Regolamento UNECE n. 86</td><td>Regolamento UNECE n. 86, del 1° agosto 1990, sulle disposizioni uniformi per l’omologazione di veicoli agricoli o forestali per quanto concerne l’installazione dei dispositivi di illuminazione e di segnalazione luminosa; modificato da ultimo dalla serie d’emendamento 03, in vigore dal 15 giugno 2024 (Add.85 Rev.5).</td></tr>
 <tr><td>Regolamento UNECE n. 87[^annex2-lvlu1-lvl1-lvl12-55]</td><td>Regolamento UNECE n. 87, del 1° novembre 1990, sulle disposizioni uniformi per l’omologazione delle luci di circolazione diurna per veicoli a motore; modificato da ultimo dalla serie d’emendamento 01, in vigore dal 15 ottobre 2019 (Add.86 Rev.3 Emend.5).</td></tr>
 <tr><td>Regolamento UNECE n. 88[^annex2-lvlu1-lvl1-lvl12-56]</td><td>Regolamento UNECE n. 88, del 10 aprile 1991, sulle condizioni uniformi per l’omologazione degli pneumatici retroriflettenti per veicoli a due ruote; modificata da ultimo dal complemento 1, in vigore dal 18 giugno 2007 (Add.87 Emend.1).</td></tr>
 <tr><td>Regolamento UNECE n. 89</td><td>Regolamento UNECE n. 89, del 1° ottobre 1992, sulle disposizioni uniformi per l’omologazione di: I veicoli, per quanto concerne la limitazione della loro velocità massima; II veicoli, per quanto concerne l’installazione di un dispositivo di limitazione della velocità (DLV) di tipo omologato; III dispositivi limitatori di velocità (DLV); modificato da ultimo dal complemento 3, in vigore dal 29 dicembre 2018 (Add.88 Emend.3).</td></tr>
-<tr><td>Regolamento UNECE n. 90</td><td>Regolamento UNECE n. 90, del 1° novembre 1992, sulle disposizioni uniformi per l’omologazione di insiemi di guarnizioni di ricambio per freni, di guarnizioni per freni a tamburo nonché di dischi e di tamburi per veicoli a motore e relativi rimorchi; modificato da ultimo dalla serie d’emendamento 02, complemento 10, in vigore dal 5 giugno 2023 (Add.89 Rev.3 Emend.10).</td></tr>
+<tr><td>Regolamento UNECE n. 90</td><td>Regolamento UNECE n. 90, del 1° novembre 1992, sulle disposizioni uniformi per l’omologazione di insiemi di guarnizioni di ricambio per freni, di guarnizioni per freni a tamburo nonché di dischi e di tamburi per veicoli a motore e relativi rimorchi; modificato da ultimo dalla serie d’emendamento 02, complemento 11, in vigore dal 15 giugno 2024 (Add.89 Rev.3 Emend.11).</td></tr>
 <tr><td>Regolamento UNECE n. 91[^annex2-lvlu1-lvl1-lvl12-57]</td><td>Regolamento UNECE n. 91, del 15 ottobre 1993, sulle disposizioni uniformi per l’omologazione dei proiettori di posizione laterali per i veicoli a motore e i loro rimorchi; modificato da ultimo dalla serie d’emendamento 01, in vigore dal 15 ottobre 2019 (Add.90 Rev.3 Emend.3).</td></tr>
-<tr><td>Regolamento UNECE n. 92</td><td>Regolamento UNECE n. 92, del 1° novembre 1993, sulle disposizioni uniformi per l’omologazione dei silenziatori di sostituzione non originali per motoveicoli, ciclomotori e veicoli a tre ruote; modificato da ultimo dalla serie d’emendamento 02, in vigore dal 15 ottobre 2019 (Add.91 Rev.1 Emend.3).</td></tr>
+<tr><td>Regolamento UNECE n. 92</td><td>Regolamento UNECE n. 92, del 1° novembre 1993, sulle disposizioni uniformi per l’omologazione dei silenziatori di sostituzione non originali per motoveicoli, ciclomotori e veicoli a tre ruote; modificato da ultimo dalla serie d’emendamento 02, in vigore dal 15 ottobre 2019 (Add.91 Rev.2).</td></tr>
 <tr><td>Regolamento UNECE n. 93</td><td>Regolamento UNECE n. 93, del 27 febbraio 1994, sulle disposizioni uniformi relative all’omologazione di: I dispositivi di protezione antincastro anteriore (FUPD); II veicoli, per quanto riguarda il montaggio di un FUPD di tipo omologato; III veicoli, per quanto riguarda la protezione antincastro anteriore (FUP); modificato dal complemento 1, in vigore dal 9 giugno 2021 (Add.92 Emend.1).</td></tr>
-<tr><td>Regolamento UNECE n. 94</td><td>Regolamento UNECE n. 94, del 1° ottobre 1995, sulle disposizioni uniformi per l’omologazione di veicoli a motore (M1 &lt; 2,5 t) per quanto concerne la protezione degli occupanti in caso di collisione frontale; modificato da ultimo dalla serie d’emendamento 04, complemento 1, in vigore dal 22 giugno 2022 (Add.93 Rev.4 Emend.1).</td></tr>
-<tr><td>Regolamento UNECE n. 95</td><td>Regolamento UNECE n. 95, del 6 luglio 1995, sulle disposizioni uniformi per l’omologazione di veicoli a motore (M1 e N1) per quanto concerne la protezione degli occupanti in caso di collisione laterale; modificato da ultimo dalla serie d’emendamento 05, complemento 2, in vigore dal 22 giugno 2022 (Add.94 Rev.4 Emend.2).</td></tr>
+<tr><td>Regolamento UNECE n. 94</td><td>Regolamento UNECE n. 94, del 1° ottobre 1995, sulle disposizioni uniformi per l’omologazione di veicoli a motore (M1 &lt; 2,5 t) per quanto concerne la protezione degli occupanti in caso di collisione frontale; modificato da ultimo dalla serie d’emendamento 05, in vigore dal 15 giugno 2024 (Add.93 Rev.5).</td></tr>
+<tr><td>Regolamento UNECE n. 95</td><td>Regolamento UNECE n. 95, del 6 luglio 1995, sulle disposizioni uniformi per l’omologazione di veicoli a motore (M1 e N1) per quanto concerne la protezione degli occupanti in caso di collisione laterale; modificato da ultimo dalla serie d’emendamento 06, in vigore dal 15 giugno 2024 (Add.94 Rev.5).</td></tr>
 <tr><td>Regolamento UNECE n. 96</td><td>Regolamento UNECE n. 96, del 15 dicembre 1995, sulle disposizioni uniformi relative all’omologazione di motori per trattori agricoli e forestali nonché per macchine mobili non stradali, per quanto concerne le emissioni di inquinanti prodotte dal motore; modificato da ultimo dalla serie d’emendamento 05, in vigore dal 29 maggio 2018 (Add.95 Rev.4).</td></tr>
 <tr><td>Regolamento UNECE n. 97</td><td>Regolamento UNECE n. 97, del 1° gennaio 1996, sulle disposizioni uniformi per l’omologazione dei sistemi d’allarme per veicoli a motore (SAV) e dei veicoli a motore per quanto concerne i sistemi d’allarme (SA); modificato da ultimo dalla serie d’emendamento 01, complemento 9, in vigore dal 30 settembre 2021 (Add.96 Rev.1 Emend.5).</td></tr>
 <tr><td>Regolamento UNECE n. 98[^annex2-lvlu1-lvl1-lvl12-58]</td><td>Regolamento UNECE n. 98, del 15 aprile 1996, sulle disposizioni uniformi per l’omologazione dei proiettori dei veicoli a motore muniti di sorgenti luminose a scarica; modificato da ultimo dalla serie d’emendamento 02, complemento 2, in vigore dal 30 settembre 2021 (Add.97 Rev.4).</td></tr>
 <tr><td>Regolamento UNECE n. 99[^annex2-lvlu1-lvl1-lvl12-59]</td><td>Regolamento UNECE n. 99, del 15 aprile 1996, sulle disposizioni uniformi per l’omologazione di sorgenti luminose a scarica per proiettori omologati di veicoli a motore; modificato da ultimo dal complemento 14, in vigore dal 28 maggio 2019 (Add.98 Rev.3 Emend.5).</td></tr>
-<tr><td>Regolamento UNECE n. 100[^annex2-lvlu1-lvl1-lvl12-60]</td><td>Regolamento UNECE n. 100, del 23 agosto 1996, sulle disposizioni uniformi per l’omologazione dei veicoli elettrici a batteria per quanto concerne le condizioni applicabili alla costruzione e alla sicurezza funzionale; modificato da ultimo dalla serie d’emendamento 03, complemento 2, in vigore dal 4 gennaio 2023 (Add.99 Rev.3 Emend.2).</td></tr>
-<tr><td>Regolamento UNECE n. 101[^annex2-lvlu1-lvl1-lvl12-61]</td><td>Regolamento UNECE n. 101, del 1° gennaio 1997, sulle disposizioni uniformi per l’omologazione delle automobili con solo motore a combustione interna o con motopropulsore ibrido elettrico per quanto riguarda la misurazione dell’emissione di biossido di carbonio e del consumo di carburante e/o la misurazione del consumo di energia elettrica e dell’autonomia elettrica, e dei veicoli delle categorie M1 e N1 con solo motopropulsore elettrico per quanto riguarda la misurazione del consumo di energia elettrica e dell’autonomia elettrica; modificato da ultimo dalla serie d’emendamento 01, complemento 11, in vigore dal 22 giugno 2022 (Add.100 Rev.3 Emend.10).</td></tr>
+<tr><td>Regolamento UNECE n. 100[^annex2-lvlu1-lvl1-lvl12-60]</td><td>Regolamento UNECE n. 100, del 23 agosto 1996, sulle disposizioni uniformi per l’omologazione dei veicoli elettrici a batteria per quanto concerne le condizioni applicabili alla costruzione e alla sicurezza funzionale; modificato da ultimo dalla serie d’emendamento 03, complemento 3, in vigore dal 15 giugno 2024 (Add.99 Rev.3 Emend.3).</td></tr>
+<tr><td>Regolamento UNECE n. 101[^annex2-lvlu1-lvl1-lvl12-61]</td><td>Regolamento UNECE n. 101, del 1° gennaio 1997, sulle disposizioni uniformi per l’omologazione delle automobili con solo motore a combustione interna o con motopropulsore ibrido elettrico per quanto riguarda la misurazione dell’emissione di biossido di carbonio e del consumo di carburante e/o la misurazione del consumo di energia elettrica e dell’autonomia elettrica, e dei veicoli delle categorie M<sub>1</sub> e N<sub>1</sub> con solo motopropulsore elettrico per quanto riguarda la misurazione del consumo di energia elettrica e dell’autonomia elettrica; modificato da ultimo dalla serie d’emendamento 01, complemento 12, in vigore dal 5 gennaio 2024 (Add.100 Rev.3 Emend.11).</td></tr>
 <tr><td>Regolamento UNECE n. 102[^annex2-lvlu1-lvl1-lvl12-62]</td><td>Regolamento UNECE n. 102, del 13 dicembre 1996, sulle condizioni uniformi per l’omologazione: I di un dispositivo d’agganciamento corto (DAC); II dei veicoli per quanto concerne l’installazione di un tipo omologato di DAC; [tab] (Add.101).</td></tr>
 <tr><td>Regolamento UNECE n. 103[^annex2-lvlu1-lvl1-lvl12-63]</td><td>Regolamento UNECE n. 103, del 23 febbraio 1997, sulle disposizioni uniformi per l’omologazione di dispositivi di ricambio antinquinamento per i veicoli a motore; modificato da ultimo dal complemento 4, in vigore dal 10 giugno 2014 (Add.102 Rev.1 Emend.1).</td></tr>
 <tr><td>Regolamento UNECE n. 104[^annex2-lvlu1-lvl1-lvl12-64]</td><td>Regolamento UNECE n. 104, del 15 gennaio 1998, sulle disposizioni uniformi per l’omologazione delle demarcazioni retroriflettenti per veicoli delle categorie M, N e O; modificato da ultimo dalla serie d’emendamento 01, in vigore dal 15 ottobre 2019 (Add.103 Rev.1 Emend.4).</td></tr>
 <tr><td>Regolamento UNECE n. 105[^annex2-lvlu1-lvl1-lvl12-65]</td><td>Regolamento UNECE n. 105, del 7 maggio 1998, sulle disposizioni uniformi per l’omologazione per veicoli adibiti al trasporto di merci pericolose per quanto concerne le loro caratteristiche particolari di costruzione; modificato da ultimo dalla serie d’emendamento 06, complemento 2, in vigore dal 24 settembre 2023 (Add.104 Rev.3 Emend.2).</td></tr>
-<tr><td>Regolamento UNECE n. 106[^annex2-lvlu1-lvl1-lvl12-66]</td><td>Regolamento UNECE n. 106, del 7 maggio 1998, sulle disposizioni uniformi per l’omologazione degli pneumatici per veicoli agricoli e loro rimorchi; modificato da ultimo dal complemento 20, in vigore dal 4 gennaio 2023 (Add.105 Rev.2 Emend.10).</td></tr>
+<tr><td>Regolamento UNECE n. 106[^annex2-lvlu1-lvl1-lvl12-66]</td><td>Regolamento UNECE n. 106, del 7 maggio 1998, sulle disposizioni uniformi per l’omologazione degli pneumatici per veicoli agricoli e loro rimorchi; modificato da ultimo dal complemento 21, in vigore dal 22 settembre 2024 (Add.105 Rev.2 Emend.11).</td></tr>
 <tr><td>Regolamento UNECE n. 107[^annex2-lvlu1-lvl1-lvl12-67]</td><td>Regolamento UNECE n. 107, del 18 giugno 1998, sulle disposizioni uniformi per l’omologazione dei veicoli delle categorie M2 e M3 per quanto concerne le loro caratteristiche generali di costruzione; modificato da ultimo dalla serie d’emendamento 10, in vigore dall’8 ottobre 2022 (Add.106 Rev.10).</td></tr>
 <tr><td>Regolamento UNECE n. 108[^annex2-lvlu1-lvl1-lvl12-68]</td><td>Regolamento UNECE n. 108, del 23 giugno 1998, sulle disposizioni uniformi relative all’omologazione per la fabbricazione di pneumatici ricostruiti per veicoli a motore e loro rimorchi; modificato da ultimo dal complemento 6, in vigore dall’8 ottobre 2022 (Add.107 Emend.6).</td></tr>
-<tr><td>Regolamento UNECE n. 109[^annex2-lvlu1-lvl1-lvl12-69]</td><td>Regolamento UNECE n. 109, del 23 giugno 1998, sulle disposizioni uniformi relative all’omologazione per la fabbricazione di pneumatici ricostruiti per veicoli utilitari e loro rimorchi; modificato da ultimo dal complemento 11, in vigore dal 4 gennaio 2023 (Add.108 Rev.1 Emend.5).</td></tr>
+<tr><td>Regolamento UNECE n. 109[^annex2-lvlu1-lvl1-lvl12-69]</td><td>Regolamento UNECE n. 109, del 23 giugno 1998, sulle disposizioni uniformi relative all’omologazione per la fabbricazione di pneumatici ricostruiti per veicoli utilitari e loro rimorchi; modificato da ultimo dal complemento 12, in vigore dal 5 gennaio 2024 (Add.108 Rev.1 Emend.6).</td></tr>
 <tr><td>Regolamento UNECE n. 110[^annex2-lvlu1-lvl1-lvl12-70]</td><td>Regolamento UNECE n. 110, del 28 dicembre 2000, sulle disposizioni uniformi per l’omologazione di: I componenti specifici dei veicoli a motore che utilizzano gas naturale compresso (GNC) per il sistema di propulsione; II veicoli per quanto riguarda l’installazione di componenti specifici di tipo omologato per l’utilizzo di gas naturale compresso (GNC) nel sistema di propulsione; modificato da ultimo dalla serie d’emendamento 06, in vigore dal 24 settembre 2023 (Add.109 Rev.8).</td></tr>
 <tr><td>Regolamento UNECE n. 111[^annex2-lvlu1-lvl1-lvl12-71]</td><td>Regolamento UNECE n. 111, del 28 dicembre 2000, sulle condizioni unitarie per l’omologazione dei veicoli-cisterna delle categorie N e O per quanto concerne la sicurezza al travaso; modificata dal complemento 1, in vigore dal 4 aprile 2005 (Add.110 Emend.1).</td></tr>
 <tr><td>Regolamento UNECE n. 112[^annex2-lvlu1-lvl1-lvl12-72]</td><td>Regolamento UNECE n. 112, del 21 settembre 2001, sulle disposizioni uniformi per l’omologazione dei proiettori per veicoli a motore che emettono un fascio di luce anabbagliante asimmetrico, un fascio abbagliante o entrambi, e muniti di lampade a incandescenza e/o di moduli a diodo luminoso (LED); modificato da ultimo dalla serie d’emendamento 02, complemento 1, in vigore dal 29 maggio 2020 (Add.111 Rev.3 Emend.7).</td></tr>
@@ -6050,56 +6103,60 @@ Allegato 2[^t-1]
 <tr><td>Regolamento UNECE n. 114[^annex2-lvlu1-lvl1-lvl12-74]</td><td>Regolamento UNECE n. 114, del 1° febbraio 2003, sulle condizioni unitarie per l’omologazione: I di un modulo airbag per un sistema airbag di ricambio; II di un volante di ricambio munito di modulo airbag di tipo omologato; III di un sistema airbag di ricambio che non è alloggiato nel volante di ricambio; [tab] (Add.113).</td></tr>
 <tr><td>Regolamento UNECE n. 115[^annex2-lvlu1-lvl1-lvl12-75]</td><td>Regolamento UNECE n. 115, del 30 ottobre 2003, sulle disposizioni uniformi per l’omologazione di: I di sistemi specifici di adattamento per gas di petrolio liquefatto (GPL) da impiegare nel sistema di propulsione dei veicoli a motore; II di sistemi specifici di adattamento per gas naturale compresso (GNC) da impiegare nel sistema di propulsione dei veicoli a motore; modificato da ultimo dal complemento 10, in vigore dal 9 giugno 2021 (Add.114 Rev.1 Emend.5).</td></tr>
 <tr><td>Regolamento UNECE n. 116[^annex2-lvlu1-lvl1-lvl12-76]</td><td>Regolamento UNECE n. 116, del 6 aprile 2005, sulle prescrizioni tecniche uniformi riguardo alla protezione dei veicoli a motore contro un impiego non autorizzato; modificato da ultimo dalla serie d’emendamento 01, complemento 1, in vigore dal 24 settembre 2023 (Add.115 Rev.1 Emend.1).</td></tr>
-<tr><td>Regolamento UNECE n. 117[^annex2-lvlu1-lvl1-lvl12-77]</td><td>Regolamento UNECE n. 117, del 6 aprile 2005, sulle disposizioni uniformi per l’omologazione degli pneumatici per quanto concerne le emissioni sonore prodotte dal rotolamento e/o l’aderenza sul bagnato e/o la resistenza al rotolamento; modificato da ultimo dalla serie d’emendamento 04, in vigore dal 24 settembre 2023 (Add.116 Rev.5 Emend.2).</td></tr>
+<tr><td>Regolamento UNECE n. 117[^annex2-lvlu1-lvl1-lvl12-77]</td><td>Regolamento UNECE n. 117, del 6 aprile 2005, sulle disposizioni uniformi per l’omologazione degli pneumatici per quanto concerne le emissioni sonore prodotte dal rotolamento e/o l’aderenza sul bagnato e/o la resistenza al rotolamento; modificato da ultimo dalla serie d’emendamento 04, complemento 1, in vigore dal 5 gennaio 2024 (Add.116 Rev.5 Emend.2).</td></tr>
 <tr><td>Regolamento UNECE n. 118[^annex2-lvlu1-lvl1-lvl12-78]</td><td>Regolamento UNECE n. 118, del 6 aprile 2005, sulle disposizioni uniformi relative al comportamento alla combustione e/o l’impermeabilità a carburanti e lubrificanti dei materiali impiegati nella fabbricazione di talune categorie di veicoli a motore; modificato da ultimo dalla serie d’emendamento 04, complemento 1, in vigore dal 5 giugno 2023 (Add.117 Rev.4 Emend.1).</td></tr>
 <tr><td>Regolamento UNECE n. 119[^annex2-lvlu1-lvl1-lvl12-79]</td><td>Regolamento UNECE n. 119, del 6 aprile 2005, sulle disposizioni uniformi per l’omologazione dei fari di svolta per veicoli a motore; modificato da ultimo dalla serie d’emendamento 02, in vigore dal 15 ottobre 2019 (Add.118 Rev.3).</td></tr>
 <tr><td>Regolamento UNECE n. 120[^annex2-lvlu1-lvl1-lvl12-80]</td><td>Regolamento UNECE n. 120, del 6 aprile 2005, sulle disposizioni uniformi relative all’omologazione di motori a combustione interna per trattori agricoli e forestali nonché per macchine mobili non stradali per quanto concerne la misurazione della potenza effettiva, della coppia effettiva e del consumo specifico di carburante; modificato da ultimo dalla serie d’emendamento 02, in vigore dal 29 dicembre 2018 (Add.119 Rev.2).</td></tr>
 <tr><td>Regolamento UNECE n. 121[^annex2-lvlu1-lvl1-lvl12-81]</td><td>Regolamento UNECE n. 121, del 18 gennaio 2006, sulle disposizioni uniformi relative all’omologazione di veicoli per quanto concerne la collocazione e l’identificazione di comandi manuali, spie e indicatori; modificato da ultimo dalla serie d’emendamento 01, complemento 6, in vigore dal 24 settembre 2023 (Add.120 Rev.2 Emend.5).</td></tr>
-<tr><td>Regolamento UNECE n. 122[^annex2-lvlu1-lvl1-lvl12-82]</td><td>Regolamento UNECE n. 122, del 18 gennaio 2006, sulle disposizioni uniformi relative all’omologazione dei veicoli delle categorie M, N e O dotati di dispositivi di riscaldamento; modificato da ultimo dal complemento 6, in vigore dal 25 settembre 2020 (Add.121 Emend.6).</td></tr>
+<tr><td>Regolamento UNECE n. 122[^annex2-lvlu1-lvl1-lvl12-82]</td><td>Regolamento UNECE n. 122, del 18 gennaio 2006, sulle disposizioni uniformi relative all’omologazione dei veicoli delle categorie M, N e O dotati di dispositivi di riscaldamento; modificato da ultimo dal complemento 7, in vigore dal 15 giugno 2024 (Add.121 Emend.7).</td></tr>
 <tr><td>Regolamento UNECE n. 123[^annex2-lvlu1-lvl1-lvl12-83]</td><td>Regolamento UNECE n. 123, del 2 febbraio 2007, sulle disposizioni uniformi per l’omologazione di sistemi di fari direzionali anteriori (AFS) per autoveicoli; modificato da ultimo dalla serie d’emendamento 02, complemento 2, in vigore dal 30 settembre 2021 (Add.122 Rev.3).</td></tr>
 <tr><td>Regolamento UNECE n. 124[^annex2-lvlu1-lvl1-lvl12-84]</td><td>Regolamento UNECE n. 124, del 2 febbraio 2007, sulle disposizioni uniformi per l’omologazione di ruote per automobili e loro rimorchi; modificato da ultimo dal complemento 3, in vigore dal 7 gennaio 2022 (Add.123 Emend.3).</td></tr>
 <tr><td>Regolamento UNECE n. 125[^annex2-lvlu1-lvl1-lvl12-85]</td><td>Regolamento UNECE n. 125, del 9 novembre 2007, sulle disposizioni uniformi per l’omologazione di veicoli a motore per quanto concerne il campo di visibilità anteriore del conducente; modificato da ultimo dalla serie d’emendamento 02, complemento 3, in vigore dal 24 settembre 2023 (Add.124 Rev.3 Emend.3).</td></tr>
 <tr><td>Regolamento UNECE n. 126[^annex2-lvlu1-lvl1-lvl12-86]</td><td>Regolamento UNECE n. 126, del 9 novembre 2007, sulle condizioni uniformi per l’omologazione di sistemi di separazione installabili per la protezione dei passeggeri da spostamenti di bagagli (Add.125).</td></tr>
-<tr><td>Regolamento UNECE n. 127[^annex2-lvlu1-lvl1-lvl12-87]</td><td>Regolamento UNECE n. 127, del 17 novembre 2012, sulle disposizioni uniformi per l’omologazione di veicoli a motore per quanto concerne le prestazioni in relazione alla sicurezza dei pedoni; modificato da ultimo dalla serie d’emendamento 04, in vigore dal 5 giugno 2023 (Add.126 Rev.4).</td></tr>
-<tr><td>Regolamento UNECE n. 128[^annex2-lvlu1-lvl1-lvl12-88]</td><td>Regolamento UNECE n. 128, del 17 novembre 2012, sulle disposizioni uniformi per l’omologazione di sorgenti luminose LED da utilizzare nelle unità di illuminazione omologate dei veicoli a motore e dei loro rimorchi; modificato da ultimo dal complemento 11, in vigore dal 22 giugno 2022 (Add.127 Emend.11).</td></tr>
-<tr><td>Regolamento UNECE n. 129[^annex2-lvlu1-lvl1-lvl12-89]</td><td>Regolamento UNECE n. 129, del 9 luglio 2013, sulle disposizioni uniformi per l’omologazione dei sistemi avanzati di ritenuta per bambini (ECRS); modificato da ultimo dalla serie d’emendamento 03, complemento 8, in vigore dal 5 giugno 2023 (Add.128 Rev.4 Emend.8).</td></tr>
-<tr><td>Regolamento UNECE n. 130[^annex2-lvlu1-lvl1-lvl12-90]</td><td>Regolamento UNECE n. 130, del 9 luglio 2013, sulle condizioni uniformi per l’omologazione di veicoli a motore per quanto concerne il sistema d’avviso di deviazione dalla corsia (LDWS); modificata dal complemento 1, in vigore dal 8 ottobre 2016 (Add.129 Emend.1).</td></tr>
+<tr><td>Regolamento UNECE n. 127[^annex2-lvlu1-lvl1-lvl12-87]</td><td>Regolamento UNECE n. 127, del 17 novembre 2012, sulle disposizioni uniformi per l’omologazione di veicoli a motore per quanto concerne le prestazioni in relazione alla sicurezza dei pedoni; modificato da ultimo dalla serie d’emendamento 04, complemento 1, in vigore dal 5 gennaio 2024 (Add.126 Rev.4 Emend.1).</td></tr>
+<tr><td>Regolamento UNECE n. 128[^annex2-lvlu1-lvl1-lvl12-88]</td><td>Regolamento UNECE n. 128, del 17 novembre 2012, sulle disposizioni uniformi per l’omologazione di sorgenti luminose LED da utilizzare nelle unità di illuminazione omologate dei veicoli a motore e dei loro rimorchi; modificato da ultimo dal complemento 12, in vigore dal 22 settembre 2024 (Add.127 Emend.12).</td></tr>
+<tr><td>Regolamento UNECE n. 129[^annex2-lvlu1-lvl1-lvl12-89]</td><td>Regolamento UNECE n. 129, del 9 luglio 2013, sulle disposizioni uniformi per l’omologazione dei sistemi avanzati di ritenuta per bambini (ECRS); modificato da ultimo dalla serie d’emendamento 04, in vigore dal 15 giugno 2024 (Add.128 Rev.5).</td></tr>
+<tr><td>Regolamento UNECE n. 130[^annex2-lvlu1-lvl1-lvl12-90]</td><td>Regolamento UNECE n. 130, del 9 luglio 2013, sulle disposizioni uniformi per l’omologazione di veicoli a motore per quanto concerne il sistema d’avviso di deviazione dalla corsia (LDWS); modificato da ultimo dalla serie d’emendamento 01, in vigore dal 22 settembre 2024 (Add.129 Emend.2).</td></tr>
 <tr><td>Regolamento UNECE n. 131[^annex2-lvlu1-lvl1-lvl12-91]</td><td>Regolamento UNECE n. 131, del 9 luglio 2013, sulle disposizioni uniformi per l’omologazione di veicoli a motore per quanto concerne il dispositivo avanzato di frenata d’emergenza (AEBS); modificato da ultimo dalla serie d’emendamento 02, complemento 1, in vigore dal 24 settembre 2023 (Add.130 Rev.2 Emend.1).</td></tr>
 <tr><td>Regolamento UNECE n. 132[^annex2-lvlu1-lvl1-lvl12-92]</td><td>Regolamento UNECE n. 132, del 17 giugno 2014, sulle disposizioni uniformi per l’omologazione dei dispositivi retrofit di controllo delle emissioni (REC) per veicoli commerciali pesanti, trattori agricoli e forestali e macchine mobili non stradali, equipaggiato di motori ad accensione per compressione; modificato dalla serie d’emendamento 01, complemento 1, in vigore dal 28 maggio 2019 (Add.131 Rev.1 Emend.1).</td></tr>
 <tr><td>Regolamento UNECE n. 133[^annex2-lvlu1-lvl1-lvl12-93]</td><td>Regolamento UNECE n. 133, del 17 giugno 2014, sulle disposizioni uniformi per l’omologazione di veicoli a motore per quanto concerne la loro riutilizzabilità, riciclabilità e recuperabilità; modificato dal complemento 1, in vigore dal 22 giugno 2022 (Add.132 Emend.1).</td></tr>
-<tr><td>Regolamento UNECE n. 134[^annex2-lvlu1-lvl1-lvl12-94]</td><td>Regolamento UNECE n. 134, del 15 giugno 2015, sulle disposizioni uniformi per l’omologazione di veicoli a motore e loro componenti per quanto concerne le prestazioni in termini di sicurezza dei veicoli alimentati a idrogeno; modificato da ultimo dalla serie d’emendamento 01, complemento 1, in vigore dal 22 giugno 2022 (Add.133 Rev.1 Emend.1).</td></tr>
-<tr><td>Regolamento UNECE n. 135[^annex2-lvlu1-lvl1-lvl12-95]</td><td>Regolamento UNECE n. 135, del 15 giugno 2015, sulle disposizioni uniformi per l’omologazione di veicoli per quanto concerne il loro comportamento in caso d’urto laterale contro un palo; modificato da ultimo dalla serie d’emendamento 02, in vigore dal 4 gennaio 2023 (Add.134 Rev.1 Emend.4).</td></tr>
+<tr><td>Regolamento UNECE n. 134[^annex2-lvlu1-lvl1-lvl12-94]</td><td>Regolamento UNECE n. 134, del 15 giugno 2015, sulle disposizioni uniformi per l’omologazione di veicoli a motore e loro componenti per quanto riguarda le prestazioni in termini di sicurezza dei veicoli alimentati a idrogeno; modificato da ultimo dalla serie d’emendamento 02, in vigore dal 15 giugno 2024 (Add.133 Rev.2).</td></tr>
+<tr><td>Regolamento UNECE n. 135[^annex2-lvlu1-lvl1-lvl12-95]</td><td>Regolamento UNECE n. 135, del 15 giugno 2015, sulle disposizioni uniformi per l’omologazione di veicoli per quanto concerne il loro comportamento in caso d’urto laterale contro un palo; modificato da ultimo dalla serie d’emendamento 02, complemento 2, in vigore dal 15 giugno 2024 (Add.134 Rev.2 Emend.2).</td></tr>
 <tr><td>Regolamento UNECE n. 136[^annex2-lvlu1-lvl1-lvl12-96]</td><td>Regolamento UNECE n. 136, del 20 gennaio 2016, sulle disposizioni uniformi per l’omologazione dei veicoli della categoria L per quanto concerne i requisiti specifici per il gruppo motopropulsore elettrico; modificato dalla serie d’emendamento 01, in vigore dal 4 gennaio 2023 (Add.135 Rev.1).</td></tr>
-<tr><td>Regolamento UNECE n. 137[^annex2-lvlu1-lvl1-lvl12-97]</td><td>Regolamento UNECE n. 137, del 9 giugno 2016, sulle disposizioni uniformi per l’omologazione delle automobili per quanto concerne la protezione degli occupanti in caso di collisione frontale, con particolare riguardo per i sistemi di ritenuta; modificato da ultimo dalla serie d’emendamento 02, complemento 3, in vigore dal 4 gennaio 2023 (Add.136 Rev.2 Emend.3).</td></tr>
+<tr><td>Regolamento UNECE n. 137[^annex2-lvlu1-lvl1-lvl12-97]</td><td>Regolamento UNECE n. 137, del 9 giugno 2016, sulle disposizioni uniformi per l’omologazione delle automobili per quanto concerne la protezione degli occupanti in caso di collisione frontale, con particolare riguardo per i sistemi di ritenuta; modificato da ultimo dalla serie d’emendamento 03, in vigore dal 15 giugno 2024 (Add.136 Rev.3).</td></tr>
 <tr><td>Regolamento UNECE n. 138[^annex2-lvlu1-lvl1-lvl12-98]</td><td>Regolamento UNECE n. 138, del 5 ottobre 2016, sulle disposizioni uniformi per l’omologazione dei veicoli stradali silenziosi per quanto concerne la loro percepibilità ridotta; modificato da ultimo dalla serie d’emendamento 01, complemento 3, in vigore dal 24 settembre 2023 (Add.137 Rev.1 Emend.3).</td></tr>
 <tr><td>Regolamento UNECE n. 139[^annex2-lvlu1-lvl1-lvl12-99]</td><td>Regolamento UNECE n. 139, del 22 gennaio 2017, sulle disposizioni uniformi relative all’omologazione delle automobili per quanto concerne il dispositivo di assistenza alla frenata (ABS); modificato dal complemento 1, in vigore dal 29 dicembre 2018 (Add.138 Emend.1).</td></tr>
-<tr><td>Regolamento UNECE n. 140[^annex2-lvlu1-lvl1-lvl12-100]</td><td>Regolamento UNECE n. 140, del 22 gennaio 2017, sulle disposizioni uniformi relative all’omologazione delle automobili per quanto concerne i sistemi elettronici di controllo della stabilità (ESC); modificato da ultimo dal complemento 5, in vigore 24 settembre 2023 (Add.139 Emend.5).</td></tr>
+<tr><td>Regolamento UNECE n. 140[^annex2-lvlu1-lvl1-lvl12-100]</td><td>Regolamento UNECE n. 140, del 22 gennaio 2017, sulle disposizioni uniformi relative all’omologazione delle automobili per quanto concerne i sistemi elettronici di controllo della stabilità (ESC); modificato da ultimo dal complemento 6, in vigore dal 22 settembre 2024 (Add.139 Emend.6).</td></tr>
 <tr><td>Regolamento UNECE n. 141[^annex2-lvlu1-lvl1-lvl12-101]</td><td>Regolamento UNECE n. 141, del 22 gennaio 2017, sulle disposizioni uniformi per l’omologazione di veicoli per quanto concerne il sistema di controllo della pressione degli pneumatici; modificato dalla serie d’emendamento 01, complemento 2, in vigore dal 4 gennaio 2023 (Add.140 Rev.1 Emend.2).</td></tr>
 <tr><td>Regolamento UNECE n. 142[^annex2-lvlu1-lvl1-lvl12-102]</td><td>Regolamento UNECE n. 142, del 22 gennaio 2017, sulle disposizioni uniformi per l’omologazione di veicoli a motore per quanto concerne il montaggio degli pneumatici; modificato da ultimo dalla serie d’emendamento 01, complemento 1, in vigore dall’8 ottobre 2022 (Add.141 Rev.1 Emend.1).</td></tr>
 <tr><td>Regolamento UNECE n. 143[^annex2-lvlu1-lvl1-lvl12-103]</td><td>Regolamento UNECE n. 143, del 19 giugno 2017, sulle condizioni uniformi relative all’omologazione di impianti di trasformazione (retrofit) a doppia alimentazione dei motori di veicoli pesanti (HDDF-ERS) da installare su veicoli e motori diesel pesanti; modificato dal complemento 1, in vigore dal 10 febbraio 2018 (Add.142 Emend.1).</td></tr>
 <tr><td>Regolamento UNECE n. 144[^annex2-lvlu1-lvl1-lvl12-104]</td><td>Regolamento UNECE n. 144, del 19 luglio 2018, sulle disposizioni uniformi per l’omologazione dei sistemi automatici di chiamata d’emergenza (AECS); modificato da ultimo dalla serie d’emendamento 01, complemento 1, in vigore dal 9 giugno 2021 (Add.143 Rev.1 Emend.1).</td></tr>
-<tr><td>Regolamento UNECE n. 145[^annex2-lvlu1-lvl1-lvl12-105]</td><td>Regolamento UNECE n. 145, del 19 luglio 2018, sulle disposizioni uniformi per l’omologazione di veicoli per quanto concerne i sistemi di ancoraggio ISOFIX, ancoraggi per fissaggio superiore ISOFIX e posizioni i-Size; modificato dal complemento 2, in vigore dal 4 gennaio 2023 (Add.144 Emend.2).</td></tr>
+<tr><td>Regolamento UNECE n. 145[^annex2-lvlu1-lvl1-lvl12-105]</td><td>Regolamento UNECE n. 145, del 19 luglio 2018, sulle disposizioni uniformi per l’omologazione di veicoli per quanto concerne i sistemi di ancoraggio ISOFIX, ancoraggi per fissaggio superiore ISOFIX e posizioni i‑Size; modificato dalla serie d’emendamento 01, in vigore dal 15 giugno 2024 (Add.144 Rev.1).</td></tr>
 <tr><td>Regolamento UNECE n. 146[^annex2-lvlu1-lvl1-lvl12-106]</td><td>Regolamento UNECE n. 146, del 2 gennaio 2019, sulle disposizioni uniformi per l’omologazione dei veicoli a motore e loro componenti, per quanto concerne la sicurezza dei veicoli alimentati a idrogeno, delle categorie L1, L2, L3, L4 e L5 (Add. 145).</td></tr>
 <tr><td>Regolamento UNECE n. 147[^annex2-lvlu1-lvl1-lvl12-107]</td><td>Regolamento UNECE n. 147, del 2 gennaio 2019, sulle disposizioni uniformi per l’omologazione dei dispositivi di agganciamento meccanici delle combinazioni di veicoli agricoli (Add. 146).</td></tr>
-<tr><td>Regolamento UNECE n. 148[^annex2-lvlu1-lvl1-lvl12-108]</td><td>Regolamento UNECE n. 148, del 15 novembre 2019, sulle disposizioni uniformi per l’omologazione dei dispositivi di segnalazione luminosa per veicoli a motore e relativi rimorchi; modificato da ultimo dalla serie d’emendamento 01, complemento 1, in vigore dal 24 settembre 2023 (Add.147 Rev.1 Emend.5).</td></tr>
-<tr><td>Regolamento UNECE n. 149[^annex2-lvlu1-lvl1-lvl12-109]</td><td>Regolamento UNECE n. 149, del 15 novembre 2019, sulle disposizioni uniformi per l’omologazione di dispositivi e impianti di illuminazione stradale per veicoli a motore; modificato da ultimo dalla serie d’emendamento 01, complemento 1, in vigore dal 24 settembre 2023 (Add.148 Rev.1 Emend.1).</td></tr>
-<tr><td>Regolamento UNECE n. 150[^annex2-lvlu1-lvl1-lvl12-110]</td><td>Regolamento UNECE n. 150, del 15 novembre 2019, sulle disposizioni uniformi per l’omologazione dei dispositivi retroriflettenti per veicoli a motore e relativi rimorchi; modificato da ultimo dalla serie d’emendamento 01, complemento 1, in vigore dal 24 settembre 2023 (Add.149 Rev.1 Emend.1).</td></tr>
+<tr><td>Regolamento UNECE n. 148[^annex2-lvlu1-lvl1-lvl12-108]</td><td>Regolamento UNECE n. 148, del 15 novembre 2019, sulle disposizioni uniformi per l’omologazione dei dispositivi di segnalazione luminosa per veicoli a motore e relativi rimorchi; modificato da ultimo dalla serie d’emendamento 01, complemento 2, in vigore dal 22 settembre 2024 (Add.147 Rev.1 Emend.2).</td></tr>
+<tr><td>Regolamento UNECE n. 149[^annex2-lvlu1-lvl1-lvl12-109]</td><td>Regolamento UNECE n. 149, del 15 novembre 2019, sulle disposizioni uniformi per l’omologazione di dispositivi e impianti di illuminazione stradale per veicoli a motore; modificato da ultimo dalla serie d’emendamento 01, complemento 3, in vigore dal 22 settembre 2024 (Add.148 Rev.1 Emend.3).</td></tr>
+<tr><td>Regolamento UNECE n. 150[^annex2-lvlu1-lvl1-lvl12-110]</td><td>Regolamento UNECE n. 150, del 15 novembre 2019, sulle disposizioni uniformi per l’omologazione dei dispositivi retroriflettenti per veicoli a motore e relativi rimorchi; modificato da ultimo dalla serie d’emendamento 01, complemento 2, in vigore dal 22 settembre 2024 (Add.149 Rev.1 Emend.2).</td></tr>
 <tr><td>Regolamento UNECE n. 151[^annex2-lvlu1-lvl1-lvl12-111]</td><td>Regolamento UNECE n. 151, del 15 novembre 2019, sulle disposizioni uniformi per l’omologazione dei veicoli a motore per quanto riguarda il sistema di monitoraggio dell’angolo cieco per il rilevamento di biciclette; modificato da ultimo dal complemento 4, in vigore dal 5 giugno 2023 (Add.150 Emend.4).</td></tr>
-<tr><td>Regolamento UNECE n. 152[^annex2-lvlu1-lvl1-lvl12-112]</td><td>Regolamento UNECE n. 152, del 23 gennaio 2020, sulle disposizioni uniformi per l’omologazione dei veicoli delle categorie M<sub>1</sub> e N<sub>1</sub> per quanto concerne il sistema avanzato di frenata d’emergenza (AEBS); modificato da ultimo dalla serie d’emendamento 02, complemento 3, in vigore dal 24 settembre 2023 (Add.151 Rev.2 Emend.3).</td></tr>
-<tr><td>Regolamento UNECE n. 153[^annex2-lvlu1-lvl1-lvl12-113]</td><td>Regolamento UNECE n. 153, del 22 gennaio 2021, sulle disposizioni uniformi relative all’omologazione dei veicoli per quanto riguarda l’integrità dell’impianto di alimentazione e la sicurezza del motopropulsore elettrico in caso di tamponamento; modificato dal complemento 2, in vigore dal 22 giugno 2022 (Add.152 Emend.2).</td></tr>
-<tr><td>Regolamento UNECE n. 154[^annex2-lvlu1-lvl1-lvl12-114]</td><td>Regolamento UNECE n. 154, del 22 gennaio 2021, sulle disposizioni uniformi relative all’omologazione di veicoli leggeri per passeggeri e commerciali per quanto riguarda le emissioni di riferimento, le emissioni di biossido di carbonio e il consumo di carburante e/o la misurazione del consumo di energia elettrica e dell’autonomia in modalità elettrica (WLTP); modificato da ultimo dalla serie d’emendamento 03, in vigore dall’8 ottobre 2022 (Add.153 Rev.3).</td></tr>
-<tr><td>Regolamento UNECE n. 155[^annex2-lvlu1-lvl1-lvl12-115]</td><td>Regolamento UNECE n. 155, del 22 gennaio 2021, sulle disposizioni uniformi per l’omologazione dei veicoli per quanto riguarda la cibersicurezza e il relativo sistema di gestione; modificato dal complemento 1, in vigore dall’8 ottobre 2022 (Add.154 Emend.1).</td></tr>
-<tr><td>Regolamento UNECE n. 157[^annex2-lvlu1-lvl1-lvl12-116]</td><td>Regolamento UNECE n. 157, del 22 gennaio 2021, sulle disposizioni uniformi per l’omologazione dei veicoli per quanto riguarda il sistema automatizzato di mantenimento della corsia; modificato dalla serie d’emendamento 01, complemento 1, in vigore dal 24 settembre 2023 (Add.156 Rev.1 Emend.1).</td></tr>
-<tr><td>Regolamento UNECE n. 158</td><td>Regolamento UNECE n. 158, del 10 giugno 2021, sulle disposizioni uniformi relative all’omologazione dei dispositivi di ausilio alla visione in retromarcia e dei veicoli a motore per quanto riguarda il rilevamento, da parte del conducente, di utenti della strada vulnerabili dietro il veicolo; modificato dal complemento 2, in vigore dal 5 giugno 2023 (Add.157 Emend.2).</td></tr>
-<tr><td>Regolamento UNECE n. 159</td><td>Regolamento UNECE n. 159, del 10 giugno 2021, sulle disposizioni uniformi relative all’omologazione dei veicoli a motore per quanto riguarda il sistema di monitoraggio alla partenza del veicolo per il rilevamento di pedoni e ciclisti; modificato dal complemento 2, in vigore dal 5 giugno 2023 (Add.158 Emend.2).</td></tr>
-<tr><td>Regolamento UNECE n. 160</td><td>Regolamento UNECE n. 160, del 30 settembre 2021, sulle disposizioni uniformi relative all’omologazione dei veicoli a motore per quanto riguarda il registratore di dati di evento; modificato da ultimo dalla serie d’emendamento 01, complemento 1, in vigore dall’8 ottobre 2022 (Add.159 Rev.1 Emend.1).</td></tr>
-<tr><td>Regolamento UNECE n. 161</td><td>Regolamento UNECE n. 161, del 30 settembre 2021, sulle disposizioni uniformi riguardanti la protezione dei veicoli a motore contro l’uso non autorizzato e l’omologazione del dispositivo di protezione contro l’uso non autorizzato (mediante un sistema di chiusura); modificato da ultimo dal complemento 3, in vigore dal 5 giugno 2023 (Add.160 Emend.3).</td></tr>
-<tr><td>Regolamento UNECE n. 162</td><td>Regolamento UNECE n. 162, del 30 settembre 2021, sulle disposizioni tecniche uniformi riguardanti l’omologazione degli immobilizzatori e l’omologazione di un veicolo per quanto riguarda il suo immobilizzatore; modificato da ultimo dal complemento 4, in vigore dal 5 giugno 2023 (Add.161 Emend.4).</td></tr>
-<tr><td>Regolamento UNECE n. 163</td><td>Regolamento UNECE n. 163, del 30 settembre 2021, sulle disposizioni uniformi riguardanti l’omologazione dei sistemi di allarme dei veicoli e l’omologazione di un veicolo per quanto riguarda il suo sistema di allarme; modificato dal complemento 2, in vigore dal 5 giugno 2023 (Add.162 Emend.2).</td></tr>
-<tr><td>Regolamento UNECE n. 164</td><td>Regolamento UNECE n. 164, del 14 ottobre 2022, sulle disposizioni uniformi riguardanti l’omologazione degli pneumatici chiodati per quanto riguarda le loro prestazioni sulla neve; modificato dal complemento 1, in vigore dal 24 settembre 2023 (Add.163 Emend.1).</td></tr>
-<tr><td>Regolamento UNECE n. 165</td><td>Regolamento UNECE n. 165, del 19 gennaio 2023, sulle disposizioni uniformi per l’omologazione di sistemi di avviso in retromarcia e di veicoli a motore per quanto riguarda i loro segnali di avviso in retromarcia (Add.164).</td></tr>
-<tr><td>Regolamento UNECE n. 166</td><td>Regolamento UNECE n. 166, dell’8 giugno 2023, sulle disposizioni uniformi per l’omologazione di dispositivi e veicoli a motore per quanto riguarda il rilevamento, da parte del conducente, di utenti della strada vulnerabili in prossimità delle parti frontale e laterali del veicolo (Add.165).</td></tr>
-<tr><td>Regolamento UNECE n. 167</td><td>Regolamento UNECE n. 167, dell’8 giugno 2023, sulle disposizioni uniformi per l’omologazione di veicoli a motore per quanto riguarda la visione diretta (Add.166).</td></tr>
+<tr><td>Regolamento UNECE n. 152[^annex2-lvlu1-lvl1-lvl12-112]</td><td>Regolamento UNECE n. 152, del 23 gennaio 2020, sulle disposizioni uniformi relative all’omologazione dei veicoli a motore per quanto riguarda il sistema avanzato di frenata di emergenza (AEBS) per i veicoli di categoria M<sub>1</sub> e N<sub>1</sub>; modificato da ultimo dalla serie d’emendamento 02, complemento 3, in vigore dal 24 settembre 2023 (Add.151 Rev.2 Emend.3).</td></tr>
+<tr><td>Regolamento UNECE n. 153[^annex2-lvlu1-lvl1-lvl12-113]</td><td>Regolamento UNECE n. 153, del 22 gennaio 2021, sulle disposizioni uniformi relative all’omologazione dei veicoli per quanto riguarda l’integrità dell’impianto di alimentazione e la sicurezza del motopropulsore elettrico in caso di tamponamento; modificato dal complemento 4, in vigore dal 15 giugno 2024 (Add.152 Emend.4).</td></tr>
+<tr><td>Regolamento UNECE n. 154[^annex2-lvlu1-lvl1-lvl12-114]</td><td>Regolamento UNECE n. 154, del 22 gennaio 2021, sulle disposizioni uniformi relative all’omologazione di veicoli leggeri per passeggeri e commerciali per quanto riguarda le emissioni di riferimento, le emissioni di biossido di carbonio e il consumo di carburante e/o la misurazione del consumo di energia elettrica e dell’autonomia in modalità elettrica (WLTP); modificato da ultimo dalla serie d’emendamento 03, complemento 1, in vigore dal 15 giugno 2024 (Add.153 Rev.3 Emend.1).</td></tr>
+<tr><td>Regolamento UNECE n. 155[^annex2-lvlu1-lvl1-lvl12-115]</td><td>Regolamento UNECE n. 155, del 22 gennaio 2021, sulle disposizioni uniformi relative all’omologazione dei veicoli per quanto riguarda la cibersicurezza e il relativo sistema di gestione; modificato dal complemento 2, in vigore dal 5 gennaio 2024 (Add.154 Emend.2).</td></tr>
+<tr><td>Regolamento UNECE n. 157[^annex2-lvlu1-lvl1-lvl12-116]</td><td>Regolamento UNECE n. 157, del 22 gennaio 2021, sulle disposizioni uniformi relative all’omologazione dei veicoli per quanto riguarda il sistema automatizzato di mantenimento della corsia; modificato da ultimo dalla serie d’emendamento 01, complemento 2, in vigore dal 15 giugno 2024 (Add.156 Rev.1 Emend.2).</td></tr>
+<tr><td>Regolamento UNECE n. 158[^annex2-lvlu1-lvl1-lvl12-117]</td><td>Regolamento UNECE n. 158, del 10 giugno 2021, sulle disposizioni uniformi relative all’omologazione dei dispositivi per la retromarcia e dei veicoli a motore per quanto riguarda il rilevamento da parte del conducente della presenza di utenti vulnerabili della strada dietro il veicolo; modificato da ultimo dal complemento 3, in vigore dal 22 settembre 2024 (Add.157 Emend.3).</td></tr>
+<tr><td>Regolamento UNECE n. 159[^annex2-lvlu1-lvl1-lvl12-118]</td><td>Regolamento UNECE n. 159, del 10 giugno 2021, sulle disposizioni uniformi relative all’omologazione dei veicoli a motore per quanto riguarda il sistema di monitoraggio alla partenza del veicolo per il rilevamento di pedoni e ciclisti; modificato da ultimo dal complemento 2, in vigore dal 5 giugno 2023 (Add.158 Emend.2).</td></tr>
+<tr><td>Regolamento UNECE n. 160[^annex2-lvlu1-lvl1-lvl12-119]</td><td>Regolamento UNECE n. 160, del 30 settembre 2021, sulle disposizioni uniformi relative all’omologazione dei veicoli a motore per quanto riguarda il registratore di dati di evento; modificato da ultimo dalla serie d’emendamento 02, in vigore dal 15 giugno 2024 (Add.159 Rev.2).</td></tr>
+<tr><td>Regolamento UNECE n. 161[^annex2-lvlu1-lvl1-lvl12-120]</td><td>Regolamento UNECE n. 161, del 30 settembre 2021, sulle disposizioni uniformi riguardanti la protezione dei veicoli a motore contro l’uso non autorizzato e l’omologazione del dispositivo di protezione contro l’uso non autorizzato (mediante un sistema di chiusura); modificato da ultimo dal complemento 4, in vigore dal 15 giugno 2024 (Add.160 Emend.4).</td></tr>
+<tr><td>Regolamento UNECE n. 162[^annex2-lvlu1-lvl1-lvl12-121]</td><td>Regolamento UNECE n. 162, del 30 settembre 2021, sulle disposizioni tecniche uniformi riguardanti l’omologazione degli immobilizzatori e l’omologazione di un veicolo per quanto riguarda il suo immobilizzatore; modificato da ultimo dal complemento 5, in vigore dal 15 giugno 2024 (Add.161 Emend.5).</td></tr>
+<tr><td>Regolamento UNECE n. 163[^annex2-lvlu1-lvl1-lvl12-122]</td><td>Regolamento UNECE n. 163, del 30 settembre 2021, sulle disposizioni uniformi riguardanti l’omologazione dei sistemi di allarme dei veicoli e l’omologazione di un veicolo per quanto riguarda il suo sistema di allarme; modificato da ultimo dal complemento 2, in vigore dal 5 giugno 2023 (Add.162 Emend.2).</td></tr>
+<tr><td>Regolamento UNECE n. 164[^annex2-lvlu1-lvl1-lvl12-123]</td><td>Regolamento UNECE n. 164, del 14 ottobre 2022, sulle disposizioni uniformi riguardanti l’omologazione degli pneumatici chiodati per quanto riguarda le loro prestazioni sulla neve; modificato dal complemento 1, in vigore dal 24 settembre 2023 (Add.163 Emend.1).</td></tr>
+<tr><td>Regolamento UNECE n. 165[^annex2-lvlu1-lvl1-lvl12-124]</td><td>Regolamento UNECE n. 165, del 19 gennaio 2023, sulle disposizioni uniformi per l’omologazione di sistemi di avviso in retromarcia e di veicoli a motore per quanto riguarda i loro segnali di avviso in retromarcia (Add.164).</td></tr>
+<tr><td>Regolamento UNECE n. 166[^annex2-lvlu1-lvl1-lvl12-125]</td><td>Regolamento UNECE n. 166, dell’8 giugno 2023, sulle disposizioni uniformi per l’omologazione di dispositivi e veicoli a motore per quanto riguarda il rilevamento, da parte del conducente, di utenti della strada vulnerabili in prossimità delle parti frontale e laterali del veicolo (Add.165).</td></tr>
+<tr><td>Regolamento UNECE n. 167[^annex2-lvlu1-lvl1-lvl12-126]</td><td>Regolamento UNECE n. 167, dell’8 giugno 2023, sulle disposizioni uniformi relative all’omologazione dei veicoli a motore per quanto riguarda la visione diretta; modificato dal complemento 1, in vigore dal 22 settembre 2024 (Add.166 Emend.1).</td></tr>
+<tr><td>Regolamento UNECE n. 168</td><td>Regolamento UNECE n. 168, del 26 marzo 2024, sulle disposizioni uniformi relative all’omologazione dei veicoli per passeggeri e commerciali leggeri per quanto riguarda le emissioni reali di guida (RDE) (Add.167).</td></tr>
+<tr><td>Regolamento UNECE n. 169</td><td>Regolamento UNECE n. 169, del 19 giugno 2024, sulle disposizioni uniformi per l’omologazione di registratori di dati di evento (EDR) per i veicoli pesanti (Add.168).</td></tr>
+<tr><td>Regolamento UNECE n. 170</td><td>Regolamento UNECE n. 170, del 19 giugno 2024, sulle disposizioni uniformi per l’omologazione di sistemi di ritenuta per bambini per il trasporto sicuro di bambini su autobus (Add.169).</td></tr>
+<tr><td>Regolamento UNECE n. 171</td><td>Regolamento UNECE n. 171, del 22 settembre 2024, sulle disposizioni uniformi relative all’omologazione dei veicoli per quanto riguarda i sistemi di assistenza alla guida (DCAS) (Add.170).</td></tr>
 </table>
 
 [^annex2-lvlu1-lvl1-lvl12-1]: [RU 2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85)
@@ -6218,6 +6275,16 @@ Allegato 2[^t-1]
 [^annex2-lvlu1-lvl1-lvl12-114]: [RU 2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211)
 [^annex2-lvlu1-lvl1-lvl12-115]: [RU 2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211)
 [^annex2-lvlu1-lvl1-lvl12-116]: [RU 2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211)
+[^annex2-lvlu1-lvl1-lvl12-117]: [RU 2021 911](https://fedlex.data.admin.ch/eli/oc/2021/911)
+[^annex2-lvlu1-lvl1-lvl12-118]: [RU 2021 911](https://fedlex.data.admin.ch/eli/oc/2021/911)
+[^annex2-lvlu1-lvl1-lvl12-119]: [RU 2021 911](https://fedlex.data.admin.ch/eli/oc/2021/911)
+[^annex2-lvlu1-lvl1-lvl12-120]: [RU 2021 911](https://fedlex.data.admin.ch/eli/oc/2021/911)
+[^annex2-lvlu1-lvl1-lvl12-121]: [RU 2021 911](https://fedlex.data.admin.ch/eli/oc/2021/911)
+[^annex2-lvlu1-lvl1-lvl12-122]: [RU 2021 911](https://fedlex.data.admin.ch/eli/oc/2021/911)
+[^annex2-lvlu1-lvl1-lvl12-123]: [RU 2023 384](https://fedlex.data.admin.ch/eli/oc/2023/384)
+[^annex2-lvlu1-lvl1-lvl12-124]: [RU 2023 384](https://fedlex.data.admin.ch/eli/oc/2023/384)
+[^annex2-lvlu1-lvl1-lvl12-125]: [RU 2023 384](https://fedlex.data.admin.ch/eli/oc/2023/384)
+[^annex2-lvlu1-lvl1-lvl12-126]: [RU 2023 384](https://fedlex.data.admin.ch/eli/oc/2023/384)
 
 ### 13 Codici standard dell’OCSE
 
@@ -6238,6 +6305,7 @@ Allegato 2[^t-1]
 
 <table>
 <tr><th>EN n.</th><th colspan="2">Titolo</th></tr>
+<tr><td>EN 12184</td><td>Sedie a rotelle a propulsione elettrica, motorette e loro sistemi di carica – Requisiti e metodi di prova, edizione EN 12184:2022.</td></tr>
 <tr><td>EN 12640</td><td>Sicurezza del carico sui veicoli stradali – Punti di ancoraggio sui veicoli commerciali per il trasporto di merci – Requisiti minimi e prove, edizione EN 12640:2001.</td></tr>
 <tr><td>EN 12642</td><td>Sicurezza del carico di veicoli stradali – Struttura della carrozzeria di veicoli commerciali - Requisiti minimi. Edizione EN 12642:2017.</td></tr>
 <tr><td>EN 1501-1</td><td>Veicoli raccolta rifiuti - Requisiti generali e di sicurezza - Parte 1: veicoli raccolta rifiuti a caricamento posteriore. Edizione EN 1501-1:2011.</td></tr>
@@ -6294,7 +6362,7 @@ Allegato 4[^t-3]
 ### (art. 117 cpv. 2, 62 cpv. 2, 144 cpv. 7 e 195 cpv. 5)
 
 <table>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image2.png)</td><td>Il disco è provvisto di cifre nere su fondo bianco e di un bordo rosso. Può essere retroriflettente.</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image2.png)</td><td>Il disco è provvisto di cifre nere su fondo bianco e di un bordo rosso. Può essere retroriflettente.</td></tr>
 </table>
 
 <table>
@@ -6312,7 +6380,7 @@ Allegato 4[^t-3]
 ### (art. 92 cpv. 2)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image3.png)</td><td>Il fondo è di colore blu, il simbolo è bianco Lato del quadrato 8 cm Altezza del simbolo 6,5 cm Larghezza del simbolo 6,5 cm Larghezza del tratto 0,4 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image3.png)</td><td>Il fondo è di colore blu, il simbolo è bianco Lato del quadrato 8 cm Altezza del simbolo 6,5 cm Larghezza del simbolo 6,5 cm Larghezza del tratto 0,4 cm</td></tr>
 </table>
 
 ### 3 Segnale per veicoli degli audiolesi
@@ -6320,7 +6388,7 @@ Allegato 4[^t-3]
 ### (art. 92 cpv. 2)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image4.png)</td><td>Il fondo del segnale quadrato (lunghezza del lato = 8 cm) è blu, il simbolo è bianco.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image4.png)</td><td>Il fondo del segnale quadrato (lunghezza del lato = 8 cm) è blu, il simbolo è bianco.</td></tr>
 </table>
 
 ### 4 Sigla distintiva di nazionalità svizzera
@@ -6330,7 +6398,7 @@ Allegato 4[^t-3]
 La sigla di nazionalità è composta da due grandi lettere latine «CH». Le lettere, di colore nero, devono essere applicate su un fondo bianco di forma ellittica con l’asse principale orizzontale.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image5.png)</td><td>Dimensioni minime: Altezza dell’ellisse Larghezza dell’ellisse Altezza delle lettere Larghezza delle lettere Larghezza del tratto</td><td>11,5 cm 17,5 cm 8 cm 4 cm 1 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image5.png)</td><td>Dimensioni minime: Altezza dell’ellisse Larghezza dell’ellisse Altezza delle lettere Larghezza delle lettere Larghezza del tratto</td><td>11,5 cm 17,5 cm 8 cm 4 cm 1 cm</td></tr>
 </table>
 
 ### 5 Contrassegno per veicoli a motore adibiti a corse di esercitazione
@@ -6340,7 +6408,7 @@ La sigla di nazionalità è composta da due grandi lettere latine «CH». Le let
 La targhetta quadrata deve essere applicata sul dietro del veicolo, il più verticalmente possibile e in maniera ben visibile. Il fondo della targhetta è blu, la lettera «L» è bianca.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image6.png)</td><td></td><td colspan="2">Dimensioni della targhetta «L» per:</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image6.png)</td><td></td><td colspan="2">Dimensioni della targhetta «L» per:</td></tr>
 <tr><td></td><td></td><td>Veicoli a quattro ruote</td><td>Veicoli a motore a due ruote, tricicli a motore, quadricicli motore e quadricicli leggeri a motore</td></tr>
 <tr><td></td><td>Lato del quadrato</td><td>16,0 cm</td><td>12,0 cm</td></tr>
 <tr><td></td><td>Altezza della «L»</td><td>10,0 cm</td><td>8,0 cm</td></tr>
@@ -6354,14 +6422,14 @@ La targhetta quadrata deve essere applicata sul dietro del veicolo, il più vert
 
 La paletta reca una freccia bianca su fondo rosso, i due colori devono essere di materia retroriflettente.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image7.png)
 
 ### 7 Segnali per trasporto di scolari
 
 ### (art. 123*a* cpv. 2)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image8.png)</td><td>Il fondo della targhetta quadrata con angoli arrotondati è giallo chiaro (giallo selettivo) o giallo (arancione), il simbolo e il bordo sono neri. Il simbolo deve corrispondere al segnale di pericolo 1.23. Lunghezza del lato 40 cm Larghezza del bordo 2 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image8.png)</td><td>Il fondo della targhetta quadrata con angoli arrotondati è giallo chiaro (giallo selettivo) o giallo (arancione), il simbolo e il bordo sono neri. Il simbolo deve corrispondere al segnale di pericolo 1.23. Lunghezza del lato 40 cm Larghezza del bordo 2 cm</td></tr>
 </table>
 
 ### 7*a* Esempi di cartelli d’indicazione concernenti l’obbligo di allacciarsi la cintura di sicurezza
@@ -6369,7 +6437,7 @@ La paletta reca una freccia bianca su fondo rosso, i due colori devono essere di
 ### (art. 3*a* cpv. 3 ONC)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image9.png)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image10.png)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image9.png)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image10.png)</td></tr>
 <tr><td colspan="2">I simboli sono di colore bianco, il fondo è blu.</td></tr>
 </table>
 
@@ -6379,19 +6447,19 @@ La paletta reca una freccia bianca su fondo rosso, i due colori devono essere di
 
 Disposizione I
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image11.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image11.png)
 
 Disposizione II
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image12.png)
 
 Disposizione III
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image13.png)
 
 Disposizione IV
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image14.png)
 
 ### 9 Tavole posteriori di demarcazione per rimorchi e semirimorchi
 
@@ -6399,25 +6467,25 @@ Disposizione IV
 
 Disposizione I
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image15.png)
 
 Disposizione II
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image16.png)
 
 Disposizione III
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image17.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image17.png)
 
 Disposizione IV
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image18.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image18.png)
 
 ### 10 Cartello di demarcazione posteriore per veicoli con una velocità massima di 45 km/h
 
 ### (art. 68 cpv. 4)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image19.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image19.png)
 
 (1) materiale rosso retroriflettente o catarifrangente a forma di prisma (classe 1 e classe 2)
 
@@ -6450,7 +6518,7 @@ Se, per ragioni tecniche o di uso, i cartelli di demarcazione posteriore non pos
 Il segnale deve essere applicato sul davanti e sul dietro del veicolo o della combinazione di veicoli, il più verticalmente possibile e in maniera ben visibile. Il fondo del segnale quadrato è rosso, la lettera «S» è gialla. Le dimensioni minime sono:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image20.png)</td><td>Lato del quadrato: Altezza della «S»: Larghezza della «S»: Larghezza del tratto:</td><td>25 cm <sup>2</sup>/<sub>3</sub> del lato <sup>1</sup>/<sub>2</sub> del lato <sup>1</sup>/<sub>10</sub> del lato</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image20.png)</td><td>Lato del quadrato: Altezza della «S»: Larghezza della «S»: Larghezza del tratto:</td><td>25 cm <sup>2</sup>/<sub>3</sub> del lato <sup>1</sup>/<sub>2</sub> del lato <sup>1</sup>/<sub>10</sub> del lato</td></tr>
 </table>
 
 [^annex4-lvlu1-lvl11-1]: [RS 741.631](https://fedlex.data.admin.ch/eli/cc/2002/475)
@@ -6461,7 +6529,7 @@ Allegato 5[^t-4]
 
 ## Misurazione del fumo, dei gas di scarico e dell’evaporazione
 
-[^t-4]: Aggiornato dalla cifra II delle O del 2 set. 1998 ([RU 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)), del 6 set. 2000 ([RU 2000 2433](https://fedlex.data.admin.ch/eli/oc/2000/389)), del 21 ago. 2002 ([RU 2002 3218](https://fedlex.data.admin.ch/eli/oc/2002/485)), del 16 giu. 2003 ([RU 2003 1819](https://fedlex.data.admin.ch/eli/oc/2003/271)), dalla cifra II cpv. 1 dell’O del 10 giu. 2005 ([RU 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)), dalle cifre II delle O del 28 mar. 2007 ([RU 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)), del 16 gen. 2008 ([RU 2008 355](https://fedlex.data.admin.ch/eli/oc/2008/95)), dalla cifra II cpv. 1 del dell’O del 14 ott. 2009 ([RU 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)), dalla cifra II dell’O del 2 mar. 2012 ([RU 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)), dalla cifra II cpv. 2 dell’O del 21 gen. 2015 ([RU 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)), dalla cifra II cpv. 1 delle O del 16 nov. 2016 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)), del 21 nov. 2018 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)), dalla cifra II delle O del 17 dic. 2021([RU 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)) e del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
+[^t-4]: Aggiornato dalla cifra II delle O del 2 set. 1998 ([RU 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)), del 6 set. 2000 ([RU 2000 2433](https://fedlex.data.admin.ch/eli/oc/2000/389)), del 21 ago. 2002 ([RU 2002 3218](https://fedlex.data.admin.ch/eli/oc/2002/485)), del 16 giu. 2003 ([RU 2003 1819](https://fedlex.data.admin.ch/eli/oc/2003/271)), dalla cifra II cpv. 1 dell’O del 10 giu. 2005 ([RU 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)), dai la cifra II delle O del 28 mar. 2007 ([RU 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)), del 16 gen. 2008 ([RU 2008 355](https://fedlex.data.admin.ch/eli/oc/2008/95)), dalla cifra II cpv. 1 del dell’O del 14 ott. 2009 ([RU 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)), dalla cifra II dell’O del 2 mar. 2012 ([RU 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)), dalla cifra II cpv. 2 dell’O del 21 gen. 2015 ([RU 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)), dalla cifra II cpv. 1 delle O del 16 nov. 2016 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)), del 21 nov. 2018 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)), dalla cifra II delle O del 17 dic. 2021([RU 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)) e del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 
 ### 1 Misurazione del fumo dei motori ad accensione per compressione
 
@@ -6640,7 +6708,7 @@ Figura 1
 
 Posizione del microfono per la misurazione del rumore con il veicolo in marcia
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image21.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image21.png)
 
 ### 34 Posizione dei microfoni
 
@@ -6675,7 +6743,7 @@ Posizione del microfono per la misurazione del rumore con il veicolo in marcia
 - 351\.212 Gli autoveicoli leggeri con cambio di velocità che abbia più di quattro rapporti (tutte le possibilità di marcia avanti) sono controllati in successione sul secondo e terzo rapporto. Devono essere presi in considerazione soltanto i rapporti globali destinati a un’utilizzazione normale su strada. Si fa la media aritmetica dei due livelli sonori rilevati.
 - 351\.213 Gli autoveicoli pesanti, il cui numero totale di rapporti (tutte le possibilità di marcia avanti) è X (compresi i rapporti ottenuti per mezzo di un cambio ausiliario o di un asse con diversi rapporti) sono controllati in successione sui rapporti il cui rango è
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image22.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image22.png)
 
 - è scelto il rapporto immediatamente superiore). È determinante il livello sonoro massimo misurato.
 - 351\.214 Per gli autoveicoli leggeri non sono prese in considerazione le eventuali marce per l’uso fuoristrada (n. 351.215) né per la determinazione del numero dei rapporti né per la scelta di questi ultimi al momento del controllo. Per gli autoveicoli pesanti non sono presi in considerazione, al momento del controllo, i rapporti che non possono essere innestati senza usare la trasmissione ausiliaria o i rapporti che la inseriscono automaticamente (n. 333).
@@ -6749,7 +6817,7 @@ Figura 2
 
 **Disposizione per la misurazione**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image23.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image23.png)
 
 - 422 Condizioni di funzionamento
 - 422\.1 Ad eccezione dei veicoli di cui al numero 422.2, la misurazione del rumore è effettuata ai tre quarti del regime massimo stabilizzato al quale il motore sviluppa la potenza utile massima. Se è impossibile, tecnicamente, effettuare la misurazione, la si farà con il regime ancora stabilizzabile il più vicino al regime prescritto.
@@ -6786,7 +6854,7 @@ Figura 6
 
 **Disposizione per la misurazione**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image24.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image24.png)
 
 - 442 Condizioni di funzionamento
 - 442\.1 Prima di ogni misurazione, l’installazione ad aria compressa viene portata alla pressione di funzionamento massima; la misurazione del rumore è effettuata a motore spento.
@@ -6805,7 +6873,7 @@ Allegato 7[^t-6]
 
 ## Freni Procedura di controllo e prescrizioni concernenti l’efficacia
 
-[^t-6]: Aggiornato dalla cifra II delle O del 2 set. 1998 ([RU 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)), del 6 set. 2000 ([RU 2000 2433](https://fedlex.data.admin.ch/eli/oc/2000/389)), del 21 ago. 2002 ([RU 2002 3218](https://fedlex.data.admin.ch/eli/oc/2002/485)), dalla cifra II cpv. 1 delle O del 10 giu. 2005 ([RU 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)), del 14 ott. 2009 ([RU 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)), dalla cifra II dell’O del 2 mar. 2012 ([RU 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)), dalla cifra II cpv. 2 delle O del 21 gen. 2015 ([RU 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)), del 15 apr. 2015 ([RU 2015 1321](https://fedlex.data.admin.ch/eli/oc/2015/277)), dalla cifra II cpv. 1 delle O del 16 nov. 2016 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)), del 21 nov. 2018 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)), dalle cifre II delle O del 17 dic. 2021 ([RU 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)) e del 15 gen. 2025, in vigore dal 1° mag. 2025 ([RU 2025 70](https://fedlex.data.admin.ch/eli/oc/2025/70)).
+[^t-6]: Aggiornato dalla cifra II delle O del 2 set. 1998 ([RU 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)), del 6 set. 2000 ([RU 2000 2433](https://fedlex.data.admin.ch/eli/oc/2000/389)), del 21 ago. 2002 ([RU 2002 3218](https://fedlex.data.admin.ch/eli/oc/2002/485)), dalla cifra II cpv. 1 delle O del 10 giu. 2005 ([RU 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)), del 14 ott. 2009 ([RU 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)), dalla cifra II dell’O del 2 mar. 2012 ([RU 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)), dalla cifra II cpv. 2 delle O del 21 gen. 2015 ([RU 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)), del 15 apr. 2015 ([RU 2015 1321](https://fedlex.data.admin.ch/eli/oc/2015/277)), dalla cifra II cpv. 1 delle O del 16 nov. 2016 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)), del 21 nov. 2018 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)), dalle cifre II delle O del 17 dic. 2021 ([RU 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)), del 15 gen. 2025 ([RU 2025 70](https://fedlex.data.admin.ch/eli/oc/2025/70)) edel 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
 
 ### 1 Procedura di controllo per veicoli che sottostanno a prescrizioni internazionali
 
@@ -6852,7 +6920,7 @@ Il controllo è eseguito alla velocità indicata per la rispettiva categoria del
 <tr><td>Ruota posteriore</td><td>70 % v<sub>max</sub>, ≤ 80 km/h</td><td></td><td></td><td></td></tr>
 </table>
 
-- *132* *Controllo dell’efficacia*
+- *132* *Controllo* *dell’efficacia*
 - Il controllo dell’efficacia deve avvenire immediatamente dopo. L’efficacia di frenatura non deve essere inferiore al 60 per cento dell’efficacia registrata per la frenata a freddo. Rispetto alle esigenze prescritte per tale frenata, non deve scendere al di sotto dei seguenti valori:
 - 132\.1 Veicoli della categoria M<sub>1</sub>: 75 per cento;
 - 132\.2 Veicoli delle categoria M<sub>2</sub>, M<sub>3</sub>, N, T e C: 80 per cento;
@@ -6889,7 +6957,7 @@ Per quanto riguarda i veicoli della categoria M<sub>1</sub> adibiti a uno scopo 
 
 L’efficacia dei freni può anche essere controllata, in particolare in occasione del controllo successivo, determinando il tasso di frenata conformemente alla seguente formula:
 
-<sup>Tasso di frenata in % =</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image25.png)<sup>× 100</sup>
+<sup>Tasso di frenata in % =</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image25.png)<sup>× 100</sup>
 
 ### 21 Veicoli delle categorie M, N, T e C
 
@@ -7028,7 +7096,7 @@ I controlli dei freni secondo i numeri 211, 212 e 214 sono eseguiti con motore d
 - 311\.1 La decelerazione deve essere raggiunta sia con il veicolo vuoto sia con il veicolo carico su una strada piana e con rivestimento duro asciutto. L’efficacia di frenatura deve essere raggiunta con i freni freddi (temperatura non superiore a 100°C, misurata sui tamburi o sui dischi dei freni). Viene misurata la decelerazione media, definita come diminuzione media della velocità in m/s<sup>2</sup> sul tratto percorso tra il momento in cui è azionato il freno (inclusi i tempi di risposta e di incremento) e il momento in cui il veicolo è immobile. Se un apparecchio di misurazione permette di registrare soltanto la decelerazione massima, questa deve essere almeno del 20 per cento più alta della decelerazione media prescritta.
 - L’efficacia dei freni può essere controllata, in particolare in occasione del controllo successivo, determinando il tasso di frenata conformemente alla seguente formula:
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image26.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image26.png)</sub>
 
 - 311\.2 Velocità di controllo
 - La velocità per il controllo dei freni di servizio ammonta a 50 km/h e per il controllo dei freni ausiliari a 30 km/h. Se un veicolo non raggiunge queste velocità, il controllo viene eseguito alla velocità massima raggiungibile.
@@ -7067,7 +7135,7 @@ I controlli dei freni secondo i numeri 211, 212 e 214 sono eseguiti con motore d
 <tr><td>313*a*.2</td><td>per il freno ausiliario</td><td>1,3</td><td>16</td></tr>
 </table>
 
-- *314* *Rimorchi di lavoro, rimorchi trainati da veicoli trattori con una velocità massima di 30 km/h e rimorchi agricoli e forestali*
+- *314* *Rimorchi di lavoro,* *rimorchi trainati da veicoli trattori con una velocità massima di 30 km/h e rimorchi agricoli e forestali*
 - La decelerazione o la frenata del freno di servizio deve ammontare almeno a:
 
 <table>
@@ -7084,14 +7152,26 @@ I controlli dei freni secondo i numeri 211, 212 e 214 sono eseguiti con motore d
 - Durante il controllo, la pressione non deve superare 6,5 bar nella conduttura dei freni e 7,0 bar nella condotta d’alimentazione.
 - 314\.4 La frenata del dispositivo di frenatura automatica deve, per il veicolo a pieno carico, ammontare almeno al 13,5 per cento.
 - 314\.5 Il freno di stazionamento deve impedire che un rimorchio a pieno carico si metta improvvisamente in moto su una salita o una discesa con una pendenza fino al 18 per cento. Il freno di stazionamento deve poter essere assicurato meccanicamente in modo da non potersi disinserire.
-- *315* *Ciclomotori e velocipedi*
-- La decelerazione del freno di servizio deve ammontare almeno a:
+- *315* *Ciclomotori* *con peso totale ammesso fino a 250 kg, sedie a rotelle motorizzate e velocipedi*
+- 315\.1 La decelerazione del freno di servizio deve ammontare almeno a:
 
 <table>
 <tr><td></td><td></td><td>m/s<sup>2</sup></td></tr>
-<tr><td>315.1</td><td>per entrambi i freni assieme</td><td>3,0</td></tr>
-<tr><td>315.2</td><td>per un freno</td><td>2,0</td></tr>
+<tr><td>315.11</td><td>per entrambi i freni assieme</td><td>3,0</td></tr>
+<tr><td>315.12</td><td>per un freno</td><td>2,0</td></tr>
 </table>
+
+- 315\.2 Per i ciclomotori con velocità massima per costruzione fino a 15 km/h conformi alla norma EN 12184 è sufficiente che soddisfino le esigenze relative ai freni ivi previste.
+- *316* *Ciclomotori* *pesanti*
+- 316\.1 La decelerazione del freno di servizio deve ammontare almeno a:
+
+<table>
+<tr><td></td><td></td><td>m/s<sup>2</sup></td></tr>
+<tr><td>316.11</td><td>per entrambi i freni assieme</td><td>4,4</td></tr>
+<tr><td>316.12</td><td>per un freno</td><td>2,7</td></tr>
+</table>
+
+- 316\.2 Sono riconosciuti anche i controlli secondo le esigenze per le motoleggere pluritraccia (all. 7 n. 23).
 
 ### 32 Efficacia dei freni a caldo
 
@@ -7345,7 +7425,7 @@ La superficie di un posto in piedi deve essere di almeno 0,125 m<sup>2</sup>. Le
 
 - 341 Il numero totale dei posti (N) dev’essere calcolato come segue:
 
-<sup>N = A +</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image27.png)
+<sup>N = A +</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image27.png)
 
 - 342 N = numero totale dei posti
   - A = numero dei posti a sedere
@@ -7367,11 +7447,11 @@ La superficie di un posto in piedi deve essere di almeno 0,125 m<sup>2</sup>. Le
 
 Allegato 10[^t-9]
 
-(art. 73 cpv. 5, 78 cpv. 2, 110 cpv. 1 lett. b n. 4–6 e c nonché 3 lett. c, 119 lett. m, 148 cpv. 2, 178*a* cpv. 5, 179*a* cpv. 2 lett. d, 193 cpv. 1 lett. n–p, 216 cpv. 3 e 4, 217 cpv. 3)
+(art. 73 cpv. 5, 78 cpv. 2, 110 cpv. 1 lett. b n. 4–6 e c nonché 3 lett. c, 119 lett. m, 148 cpv. 2, 178*a* cpv. 5, 179*a* cpv. 2 lett. d, 180 cpv. 3, 193 cpv. 1 lett. n–p, 216 cpv. 3 e 4, 217 cpv. 3)
 
 ## Luci, indicatori di direzione lampeggianti e catarifrangenti
 
-[^t-9]: Aggiornato dalla cifra II delle O del 2 set. 1998 ([RU 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)), del 6 set. 2000 ([RU 2000 2433](https://fedlex.data.admin.ch/eli/oc/2000/389)), del 21 ago. 2002 ([RU 2002 3218](https://fedlex.data.admin.ch/eli/oc/2002/485)), dalla cifra II cpv. 1 dell’O del 10 giu. 2005 ([RU 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)), dalla cifra II delle O del 28 mar. 2007 ([RU 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)), del 2 mar. 2012 ([RU 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)), dalla cifra II cpv. 2 dell’O del 21 gen. 2015 ([RU 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)), dalla cifra II cpv. 1 delle O del 16 nov. 2016 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)), del 21 nov. 2018 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)) e dalla cifra II dell’O del 17 dic. 2021, in vigore dal 1° apr. 2022 ([RU 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
+[^t-9]: Aggiornato dalla cifra II delle O del 2 set. 1998 ([RU 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)), del 6 set. 2000 ([RU 2000 2433](https://fedlex.data.admin.ch/eli/oc/2000/389)), del 21 ago. 2002 ([RU 2002 3218](https://fedlex.data.admin.ch/eli/oc/2002/485)), dalla cifra II cpv. 1 dell’O del 10 giu. 2005 ([RU 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)), dalla cifra II delle O del 28 mar. 2007 ([RU 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)), del 2 mar. 2012 ([RU 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)), dalla cifra II cpv. 2 dell’O del 21 gen. 2015 ([RU 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)), dalla cifra II cpv. 1 delle O del 16 nov. 2016 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)), del 21 nov. 2018 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)), dalle cifre II delle O del 17 dic. 2021 ([RU 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)) e del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
 
 ### 1 Colore
 
@@ -7557,31 +7637,31 @@ Allegato 10[^t-9]
 Schema 1
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image28.png)</td><td>Valido soltanto per i veicoli con lunghezza fino a 4 m, che non appartengono alle categorie M o N.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image28.png)</td><td>Valido soltanto per i veicoli con lunghezza fino a 4 m, che non appartengono alle categorie M o N.</td></tr>
 </table>
 
 Schema II
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image29.png)</td><td>Valido soltanto per i veicoli con lunghezza fino a 6 m</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image29.png)</td><td>Valido soltanto per i veicoli con lunghezza fino a 6 m</td></tr>
 </table>
 
 Schema III
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image30.png)</td><td>Valido soltanto per i veicoli che non appartengono alle categorie M o N. Distanza tra gli indicatori di direzione lampeggianti e la parte frontale del veicolo: 1,80 m al massimo</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image30.png)</td><td>Valido soltanto per i veicoli che non appartengono alle categorie M o N. Distanza tra gli indicatori di direzione lampeggianti e la parte frontale del veicolo: 1,80 m al massimo</td></tr>
 </table>
 
 Schema IV
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image31.png)</td><td>Valido per i veicoli di qualsiasi lunghezza. Distanza tra gli indicatori di direzione lampeggianti laterali e la parte frontale del veicolo: 2,50 m al massimo</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image31.png)</td><td>Valido per i veicoli di qualsiasi lunghezza. Distanza tra gli indicatori di direzione lampeggianti laterali e la parte frontale del veicolo: 2,50 m al massimo</td></tr>
 </table>
 
 Schema V
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image32.png)</td><td>Valido soltanto per i veicoli con lunghezza fino a 6 m. Distanza tra gli indicatori di direzione lampeggianti laterali e la parte frontale del veicolo: 2,50 m al massimo. La superficie luminosa delle luci di ingombro laterali che lampeggiano insieme deve essere almeno di 12,5 cm<sup>2</sup>.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image32.png)</td><td>Valido soltanto per i veicoli con lunghezza fino a 6 m. Distanza tra gli indicatori di direzione lampeggianti laterali e la parte frontale del veicolo: 2,50 m al massimo. La superficie luminosa delle luci di ingombro laterali che lampeggiano insieme deve essere almeno di 12,5 cm<sup>2</sup>.</td></tr>
 </table>
 
 ### 52 Motoveicoli
@@ -7593,7 +7673,7 @@ Schema I
 Schema II
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image33.png)</td><td>Distanza minima tra gli indicatori di direzione lampeggianti: davanti 24 cm dietro 18 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image33.png)</td><td>Distanza minima tra gli indicatori di direzione lampeggianti: davanti 24 cm dietro 18 cm</td></tr>
 </table>
 
 ### 53 Motoveicoli con carrozzino laterale
@@ -7605,19 +7685,19 @@ Schema I
 Schema II
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image36.png)</td><td>Il valore di 5° per l’angolo morto della visibilità dell’indicatore di direzione lampeggiante supplementare laterale rivolto verso il dietro è un limite superiore. Questo valore può essere aumentato a 10° se non possono essere rispettati i 5°. d ≤ 1,80 m</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image36.png)</td><td>Il valore di 5° per l’angolo morto della visibilità dell’indicatore di direzione lampeggiante supplementare laterale rivolto verso il dietro è un limite superiore. Questo valore può essere aumentato a 10° se non possono essere rispettati i 5°. d ≤ 1,80 m</td></tr>
 </table>
 
 Schema III
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image37.png)</td><td>Il valore di 5° per l’angolo morto della visibilità dell’indicatore di direzione lampeggiante supplementare laterale rivolto verso il dietro è un limite superiore. Questo valore può essere aumentato a 10° se non possono essere rispettati i 5°. d ≤ 2,60 m</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image37.png)</td><td>Il valore di 5° per l’angolo morto della visibilità dell’indicatore di direzione lampeggiante supplementare laterale rivolto verso il dietro è un limite superiore. Questo valore può essere aumentato a 10° se non possono essere rispettati i 5°. d ≤ 2,60 m</td></tr>
 </table>
 
 Schema IV
 
 <table>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image38.png)</td><td>Il valore di 10° per la visibilità degli indicatori di direzione lampeggianti anteriori rivolti verso l’interno può essere ridotto a 3 per i veicoli con una larghezza non superiore ovunque a 1,40 m.</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image38.png)</td><td>Il valore di 10° per la visibilità degli indicatori di direzione lampeggianti anteriori rivolti verso l’interno può essere ridotto a 3 per i veicoli con una larghezza non superiore ovunque a 1,40 m.</td></tr>
 </table>
 
 Categorie di indicatori di direzione lampeggiante:
@@ -7629,7 +7709,7 @@ Categorie di indicatori di direzione lampeggiante:
 ### 55 Rimorchi
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image39.png)</td><td>.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image39.png)</td><td>.</td></tr>
 </table>
 
 ### 6 Angolo di visibilità delle luci di posizione, delle luci di coda, delle luci di fermata, delle luci di ingombro e di parcheggio e dei fari fendinebbia di coda
@@ -7639,25 +7719,25 @@ Categorie di indicatori di direzione lampeggiante:
 
 ### 63 Per le luci di posizione e le luci di coda
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image40.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image40.png)
 
 - Per i veicoli delle categorie M<sub>1</sub> e N<sub>1</sub> gli angoli di visibilità orizzontali possono essere ridotti a 45° verso l’esterno, se davanti risp. dietro sono montate luci di ingombro laterali supplementari con una superficie illuminante di almeno 12,5 cm<sup>2</sup>. Per i rimorchi l’angolo di visibilità interno deve essere pari ad almeno 5°.
 
 ### 64 Per le luci di fermata
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image41.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image41.png)
 
 ### 65 Per le luci supplementari di fermata
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image42.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image42.png)
 
 ### 66 Per le luci di parcheggio
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image43.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image43.png)
 
 ### 67 Per i fari fendinebbia di coda
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image44.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image44.png)
 
 ### 7 Regolazione
 
@@ -7668,7 +7748,7 @@ Categorie di indicatori di direzione lampeggiante:
 - 713 La linea orizzontale dello schermo deve avere dal suolo la medesima distanza del filamento del proiettore controllato; la linea verticale deve avere dall’asse longitudinale del veicolo la stessa distanza che il filamento.
 - 714 Per i veicoli il cui montaggio dei dispositivi d’illuminazione è approvato conformemente alle prescrizioni internazionali riconosciute, la regolazione si fonda sulle medesime prescrizioni.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250501/it/xml/image/image45.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image45.png)
 
 ### 72 Fari di profondità
 
@@ -7833,259 +7913,3 @@ Allegato 13[^t-12]
 - 42 Le valutazioni di conformità secondo norme nazionali di Stati esteri possono essere riconosciute se i requisiti sono almeno equivalenti alle prescrizioni di cui ai numeri 1 e 2 e sono disponibili istruzioni per l’installazione e l’uso secondo il numero 3; l’equivalenza deve essere dimostrata dal richiedente.
 
 [^annex13-lvlu1-lvl4-1]: Traduzione ufficiosa del titolo in italiano: Veicoli stradali – Aspetti ergonomici e prestazionali dei sistemi a telecamera e monitor – requisiti e procedure di prova.
-
-## Indice
-
-Parte prima: Disposizioni generali
-
-Titolo primo: Introduzione
-
-Titolo secondo: Classificazione dei veicoli
-
-Capitolo 1: Definizioni
-
-Capitolo 2: Autoveicoli
-
-Capitolo 3: Altri veicoli a motore
-
-Capitolo 4: Veicoli senza motore
-
-Capitolo 5: Veicoli eccezionali
-
-Parte seconda: Esame d’immatricolazione, esame successivo, manutenzione del sistema antinquinamento
-
-Capitolo 1: Esame d’immatricolazione
-
-Capitolo 2: Esami successivi
-
-Capitolo 2*a*: Disposizioni comuni a esami d’immatricolazione ed esami successivi
-
-Capitolo 3: Manutenzione del sistema antinquinamento e controlli successivi
-
-Parte terza: Esigenze tecniche
-
-Titolo primo: Definizioni ed esigenze generali
-
-Capitolo 1: Principio e campo d’applicazione
-
-Capitolo 1*a*: Dimensioni, pesi, identificazione
-
-Capitolo 2: Dispositivo di propulsione, gas di scarico, rumori
-
-Capitolo 3: Trasmissione
-
-Capitolo 4: Assi, sospensione
-
-Capitolo 5: Ruote, pneumatici
-
-Capitolo 6: Dispositivo di guida
-
-Art. 64
-
-Capitolo 7: Freni
-
-Art. 65
-
-Capitolo 8: Carrozzeria, abitacolo
-
-Capitolo 9: Illuminazione
-
-Capitolo 10: Ulteriori esigenze e equipaggiamenti suppletivi
-
-Capitolo 11: Disposizioni speciali
-
-Titolo secondo: Autoveicoli
-
-Capitolo 1: Dimensioni, pesi, identificazione
-
-Capitolo 2: Dispositivo di propulsione, gas di scarico e trasmissione
-
-Capitolo 2*a*: Dispositivi di limitazione della velocità, tachigrafi e apparecchi per la registrazione di dati
-
-Capitolo 3: Freni, sistemi di assistenza e protezione da ciberattacchi
-
-Art. 103
-
-Capitolo 4: Carrozzeria, abitacolo
-
-Capitolo 5: Illuminazione
-
-Capitolo 6: Altre esigenze e equipaggiamento suppletivo
-
-*Abrogato* Art. 113
-
-Capitolo 7: Disposizioni speciali concernenti i singoli generi di autoveicoli
-
-Sezione 1: Autoveicoli con velocità massima limitata
-
-Sezione 2: Autobus (compresi autobus snodati e filobus) e minibus
-
-Sezione 3: Trattori a sella
-
-Sezione 4: Autoveicoli con cisterne o sili
-
-Art. 125
-
-Sezione 5: Autoveicoli di lavoro
-
-Sezione 6: Trattori
-
-Sezione 7: Veicoli cingolati
-
-Titolo terzo: Motoveicoli, quadricicli leggeri a motore, quadricicli a motore e tricicli a motore
-
-Capitolo 1: Dimensioni, pesi, numero di posti, identificazione
-
-Capitolo 2: Dispositivo di propulsione, ruote e pneumatici
-
-Capitolo 3: Carrozzeria, abitacolo, dipinti
-
-Art. 139
-
-Capitolo 4: Illuminazione
-
-Capitolo 5: Altre esigenze ed equipaggiamento suppletivo
-
-Capitolo 6: Disposizioni speciali
-
-Sezione 1: Motoveicoli di cui all’articolo 14 lettera a
-
-Sezione 2: Motoveicoli con carrozzino laterale
-
-Sezione 3: Motoleggere a due ruote
-
-Sezione 4: Motoleggere a più di due ruote e quadricicli leggeri a motore
-
-Sezione 5: Quadricicli a motore e tricicli a motore
-
-Sezione 6: Motoslitte
-
-Art. 160
-
-Titolo quarto: Veicoli a motore agricoli e forestali
-
-Titolo quinto: Altri veicoli a motore
-
-Capitolo 1: Monoassi
-
-Capitolo 2: Carri a mano provvisti di motore
-
-Capitolo 3: Ciclomotori
-
-Sezione 1: Disposizioni comuni
-
-Sezione 2: Disposizioni speciali per ciclomotori di cui all’articolo 18 lettera a
-
-Sezione 3: Disposizioni speciali per ciclomotori leggeri
-
-Art. 180
-
-Sezione 4: Disposizioni speciali per sedie a rotelle motorizzate
-
-Art. 181
-
-Sezione 5: Disposizioni speciali per monopattini autobilanciati
-
-Titolo sesto: Rimorchi
-
-Capitolo 1: Dimensioni, pesi, contrassegno
-
-Capitolo 2: Assi, sospensioni
-
-Art. 186
-
-Capitolo 3: Ruote, pneumatici, dispositivo di guida
-
-Capitolo 4: Freni, sistemi di assistenza e propulsione
-
-Art. 189
-
-Capitolo 5: Carrozzeria, abitacolo
-
-Capitolo 6: Illuminazione
-
-Capitolo 7: Altre esigenze e equipaggiamenti complementari
-
-Art. 195
-
-Capitolo 8: Disposizioni speciali per i singoli generi di rimorchio
-
-Sezione 1: Rimorchi adibiti al trasporto di persone
-
-Art. 196
-
-Sezione 2: Rimorchi fissi
-
-Art. 197
-
-Sezione 3: Rimorchi trainati da motoveicoli, quadricicli leggeri a motore, quadricicli a motore e tricicli a motore
-
-Art. 198
-
-Sezione 4: Rimorchi trainati da monoassi
-
-Art. 199
-
-Sezione 5: Rimorchi di lavoro
-
-Sezione 6: Rimorchi trainati da carri a motore e carri di lavoro
-
-Art. 205
-
-Sezione 7: Rimorchi trainati da trattori
-
-Art. 206
-
-Sezione 8: Rimorchi agricoli e forestali
-
-Sezione 9: Rimorchi trainati da velocipedi e ciclomotori
-
-Art. 210
-
-Sezione 10: Rimorchi a slitta
-
-Art. 210*a*
-
-Titolo settimo: Altri veicoli senza motore
-
-Capitolo 1: Veicoli a trazione animale, carri a mano, carriole e slitte a mano
-
-Capitolo 2: Velocipedi
-
-*Abrogato* Art. 218
-
-Parte quarta: Disposizioni penali e finali
-
-Capitolo 1: Disposizioni penali
-
-Art. 219
-
-Capitolo 2: Disposizioni finali
-
-Allegato 1 Abrogazioni e modifiche del diritto attuale
-
-Allegato 2 Versioni delle regolamentazioni internazionali vincolanti per la Svizzera
-
-Allegato 3
-
-*Abrogato*
-
-Allegato 4 Tavole e segnali
-
-Allegato 5 Misurazione del fumo, dei gas di scarico e dell’evaporazione
-
-Allegato 6 Misurazione del rumore
-
-Allegato 7 Freni. Procedura di controllo e prescrizioni concernenti l’efficacia
-
-Allegato 8 Parti pericolose dei veicoli
-
-Allegato 9 Dimensioni interne dei veicoli, determinazione del numero di posti, calcolo del peso dei bagagli
-
-Allegato 10 Luci, indicatori di direzione lampeggianti e catarifrangenti
-
-Allegato 11 Avvisatori acustici e dispositivi d’allarme
-
-Allegato 12 Avvisatori acustici dei sistemi d’allarme per veicoli
-
-Allegato 13 Sistemi a telecamera e monitor
