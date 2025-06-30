@@ -4,11 +4,11 @@ number: "732.1"
 title: Gesetz betreffend die Elektrizitätswerke des Kantons Zürich (EKZ-Gesetz)
 short: EKZ-Gesetz
 language: de
-version: "2019-07-01"
-nachtrag: "105"
-valid_until: 2025-07-01
+version: "2025-07-01"
+nachtrag: "129"
+valid_until: 2026-02-01
 adopted: 1983-06-19
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-732_1-1983_06_19-1985_10_01-105.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-732_1-1983_06_19-1985_10_01-129.html"
 text: pdf
 ---
 
@@ -73,13 +73,13 @@ Die EKZ fördern im Rahmen ihrer Tätigkeit den sparsamen Umgang mit Energie. Si
 
 **1**
 
-- 1\. 7. 19 - 105 § 8 a.[^5-2] <sup>1</sup> Gegen Anordnungen der Direktion der EKZ kann Rekurs beim Verwaltungsrat erhoben werden.
+- 1\. 7. 25 - 129 § 8 a.[^5-2] <sup>1</sup> Gegen Anordnungen der Direktion der EKZ kann Rekurs beim Verwaltungsrat erhoben werden.
 
 **Rechtsschutz**
 
 <sup>2</sup> Anordnungen des Verwaltungsrates können mit Beschwerde beim Verwaltungsgericht angefochten werden.
 
-[^5-1]: Aufgehoben durch G vom 22. Oktober 2018 (OS 74, 297; ABl 2018-02-02). In Kraft seit 1. Juli 2019. 1. 7. 19 - 105 3
+[^5-1]: Aufgehoben durch G vom 22. Oktober 2018 (OS 74, 297; ABl 2018-02-02). In Kraft seit 1. Juli 2019.
 [^5-2]: Eingefügt durch G über die Anpassung des kantonalen Verwaltungsverfahrensrechts vom 22. März 2010 (OS 65, 390; ABl 2009, 801). In Kraft seit 1. Juli 2010.
 
 #### § 9
@@ -106,10 +106,41 @@ Die EKZ fördern im Rahmen ihrer Tätigkeit den sparsamen Umgang mit Energie. Si
 
 **Beteiligungen**
 
-§ 11. Die EKZ können sich zur Erfüllung ihrer Aufgaben an andern Unternehmungen beteiligen.
+§ 11. <sup>1</sup> Die EKZ können sich zur Erfüllung ihrer Aufgaben an andern Unternehmungen beteiligen.
+
+<sup>2</sup> Sie setzen sich bei der Ausübung der Stimmrechte und bei ihren Beteiligungen dafür ein, dass[^9-3] a. direkte oder indirekte Beteiligungen an der Netzinfrastruktur und an für die Versorgung wichtigen Kraftwerken in der Schweiz grundsätzlich in öffentlicher Hand verbleiben,
+
+- b. sich die gemeinsamen Eignerstrategien der Aktionäre an den Zielsetzungen der Schweizer und der Zürcher Klimapolitik orientieren,
+
+- c. die finanziellen Risiken der Geschäftstätigkeit im Ausland die Ziele gemäss lit. a und b nicht gefährden,
+
+- d. der inländische Anteil an der Stromproduktion jederzeit eine sichere, ausreichende und wirtschaftliches Versorgung mit elektrischer Energie gewährleistet.
+
+**Beteiligung an der Axpo Holding AG a. Aufgaben des Verwaltungsrates**
+
+§ 11 a.[^9-3] <sup>1</sup> Der Verwaltungsrat nimmt die Rechte und Pflichten der EKZ als Aktionärin der Axpo Holding AG wahr.
+
+<sup>2</sup> Er kann mit den anderen Aktionären einen Aktionärbindungsvertrag abschliessen und eine gemeinsame Eignerstrategie festlegen.
+
+**b. Genehmigung durch den Kantonsrat**
+
+§ 11 b.[^9-3] <sup>1</sup> Der Genehmigung durch den Kantonsrat unterstehen:
+
+- a. die Übertragung von Aktien,
+
+- b. Anpassungen der gemeinsamen Eignerstrategie oder des Aktionärbindungsvertrags, die
+
+- 1\. das Stimmrecht des Kantons beschränken,
+
+- 2\. die direkten und indirekten Beteiligungen der Axpo Holding AG an der Netzinfrastruktur und an für die Versorgung wichtigen Kraftwerken in der Schweiz betreffen,
+
+- c. der Verzicht auf die Ausübung des Rechts, angebotene Aktien zu erwerben.
+
+<sup>2</sup> Beschlüsse des Kantonsrates betreffend Abs. 1 lit. a und b unterstehen dem fakultativen Referendum.
 
 [^9-1]: Fassung gemäss G vom 16. April 2007 (OS 62, 261; ABl 2007, 161). In Kraft seit 20. Mai 2007.
 [^9-2]: Fassung gemäss G vom 22. Oktober 2018 (OS 74, 297; ABl 2018-02-02). In Kraft seit 1. Juli 2019.
+[^9-3]: Eingefügt durch G vom 4. Dezember 2023 (OS 80, 154; ABl 2022-04-08). In Kraft seit 1. Juli 2025.
 
 #### § 12
 
@@ -129,7 +160,7 @@ Die Mitglieder des Verwaltungsrates und des Leitenden Ausschusses haften den EKZ
 
 #### § 14
 
-**Inanspruchnahme öffentlichen Eigentums**
+**Inanspruchnahme öffentlichen Eigentums Änderung bisherigen Rechts**
 
 Für die Inanspruchnahme öffentlichen Eigentums von Kanton[^13-1] und Gemeinden durch Übertragungs- und Verteilanlagen sind die EKZ nicht entschädigungspflichtig.
 
@@ -137,8 +168,6 @@ Für die Inanspruchnahme öffentlichen Eigentums von Kanton[^13-1] und Gemeinden
 [^14-2]: Text siehe OS 48, 753.
 
 #### § 15
-
-**Änderung bisherigen Rechts**
 
 Das Gesetz über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz) vom 24. Mai 1959[^14-1] wird wie folgt geändert: . . .[^14-2]
 
@@ -149,6 +178,10 @@ Das Gesetz über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegeg
 <sup>1</sup> Dieses Gesetz untersteht der Volksabstimmung.
 
 <sup>2</sup> Der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens[^16-1]. Auf den gleichen Zeitpunkt wird das Gesetz betreffend die Elektrizitätswerke des Kantons Zürich vom 15. März 1908 aufgehoben.
+
+**3**
+
+- 1\. 7. 25 - 129
 
 [^16-1]: In Kraft seit 1. Oktober 1985 (OS 49, 435).
 
