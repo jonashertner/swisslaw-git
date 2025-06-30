@@ -3,11 +3,11 @@ sr: "0.916.111.311"
 title: Internationales Getreideabkommen von 1995
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/2642_2642_2642"
 language: de
-version: 2023-07-01
+version: 2025-07-01
 adopted: 1994-12-05
 in_force: 1995-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2642_2642_2642/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1996-2642_2642_2642-20230701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/2642_2642_2642/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2642_2642_2642/20250701/de/xml/fedlex-data-admin-ch-eli-cc-1996-2642_2642_2642-20250701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/2642_2642_2642/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -18,7 +18,7 @@ AS **1996** 2642; BBl **1995** IV 1732
 
 Übersetzung
 
-(Stand am 1. Juli 2023)
+(Stand am 1. Juli 2025)
 
 *Präambel*
 
@@ -30,7 +30,7 @@ in der Erwägung, dass das Internationale Weizen-Abkommen von 1986, bestehend au
 
 sind übereingekommen, dass das Internationale Weizen-Abkommen von 1986 auf den neuesten Stand gebracht und in Internationales Getreide-Abkommen von 1995 umbenannt wird, bestehend aus zwei getrennten Rechtsinstrumenten, nämlich:
 
-- a) dem Getreidehandels-Übereinkommen von 1995 und
+- a) dem Getreidehandels-Übereinkommen von 1995, und
 - b) dem Nahrungsmittelhilfe-Übereinkommen von 1995,
 
 und dass jedes dieser beiden Übereinkommen oder gegebenenfalls eines von ihnen den beteiligten Regierungen zur Unterzeichnung und Ratifikation, Annahme oder Genehmigung nach Massgabe ihrer verfassungsrechtlichen oder institutionellen Verfahren vorgelegt wird.
@@ -58,11 +58,11 @@ Vorläufig in Kraft getreten für die Schweiz am 1. Juli 1995
 
 **Zweck**
 
-Zweck dieses Übereinkommens ist es,
+Zweck dieses Übereinkommens ist es:
 
 - a) die Internationale Zusammenarbeit in allen Aspekten des Handels mit Getreide zu fördern, insbesondere soweit diese die Lage des Nahrungsgetreides berühren;
 - b) im Interesse aller Mitglieder, insbesondere der Entwicklungsländer, die Ausweitung des internationalen Getreidehandels zu fördern und hierbei einen möglichst freien Handelsverkehr zu sichern, einschliesslich der Beseitigung von Handelshemmnissen sowie unlauteren und diskriminierenden Praktiken;
-- c) im Interesse aller Mitglieder möglichst weitgehend zur Stabilität der internationalen Getreidemärkte beizutragen, die Sicherheit der Weltversorgung mit Nahrungsmitteln zu erhöhen und zur Entwicklung der Länder beizutragen, deren Wirtschaft in hohem Mass von kommerziellen Getreideverkäufen abhängt, und
+- c) im Interesse aller Mitglieder möglichst weitgehend zur Stabilität der internationalen Getreidemärkte beizutragen, die Sicherheit der Weltversorgung mit Nahrungsmitteln zu erhöhen und zur Entwicklung der Länder beizutragen, deren Wirtschaft in hohem Mass von kommerziellen Getreideverkäufen abhängt; und
 - d) ein Forum für den Informationsaustausch und die Beratung über Besorgnisse der Mitglieder bezüglich des Getreidehandels zu schaffen.
 
 #### Art. 2
@@ -127,8 +127,11 @@ Im Sinne dieses Übereinkommens ist ein Sondergeschäft ein Geschäft, das Bedin
 - b) Verkäufe, bei denen die Regierung des Ausfuhrmitglieds die Mittel für den Kauf von Getreide in Form eines zweckgebundenen Darlehens gewährt;
 - c) Verkäufe gegen Zahlungsmittel des Einfuhrmitglieds, die nicht transferierbar und weder in Zahlungsmittel noch in Waren zur Verwendung im Ausfuhrland konvertierbar oder austauschbar sind;
 - d) Verkäufe aufgrund von Handelsabkommen mit besonderen Zahlungsvereinbarungen, die Verrechnungskonten zum gegenseitigen Ausgleich von Guthaben durch Warenaustausch vorsehen, sofern nicht das beteiligte Ausfuhrmitglied und das beteiligte Einfuhrmitglied vereinbaren, dass der Verkauf als kommerzieller Verkauf gilt;
-- e) Tauschgeschäfte
-  - i) die das Ergebnis staatlicher Einflussnahme sind und bei denen Getreide zu anderen als zu üblichen Weltmarktpreisen ausgetauscht wird oder
+- e)
+
+  Tauschgeschäfte:
+
+  - i) die das Ergebnis staatlicher Einflussnahme sind und bei denen Getreide zu anderen als zu üblichen Weltmarktpreisen ausgetauscht wird, oder
   - ii) die im Rahmen eines staatlichen Kaufprogramms gefördert werden, sofern sich der Getreidekauf nicht aus einem Tauschgeschäft ergibt, bei dem das letzte Bestimmungsland nicht im ursprünglichen Tauschvertrag genannt war;
 
 - f) Getreideschenkungen oder Getreidekäufe, die mit Hilfe zweckgebundener Geldzuwendungen des Ausfuhrmitglieds erfolgen;
@@ -158,10 +161,15 @@ Im Sinne dieses Übereinkommens ist ein Sondergeschäft ein Geschäft, das Bedin
 
 <sup>(2)</sup> Die Mitglieder stellen, soweit möglich, alle vom Rat benötigten Angaben über Angebot und Nachfrage auf dem Getreidesektor zur Verfügung und melden umgehend alle Änderungen in ihrer jeweiligen Getreidepolitik.
 
-<sup>(3)</sup> Für die Zwecke dieses Artikels
+<sup>(3)</sup>
 
-- a) übermitteln die Mitglieder dem Exekutivdirektor über die in kommerziellen Verkäufen und Käufen sowie in Sondergeschäften verwendeten Getreidemengen alle Angaben, die der Rat im Rahmen seiner Zuständigkeit benötigt; dazu gehören
-  - i) in Verbindung mit Sondergeschäften alle betreffenden Einzelheiten, die eine Klassifizierung nach Artikel 5 ermöglichen;
+Für die Zwecke dieses Artikels:
+
+- a)
+
+  übermitteln die Mitglieder dem Exekutivdirektor über die in kommerziellen Verkäufen und Käufen sowie in Sondergeschäften verwendeten Getreidemengen alle Angaben, die der Rat im Rahmen seiner Zuständigkeit benötigt; dazu gehören:
+
+  - i) in Verbindung mit Sondergeschäften alle betreffenden Einzelheiten, die eine Klassifizierung nach Artikel 5 ermöglichen,
   - ii) alle verfügbaren Angaben über Art, Klasse, Gradierung und Qualität des betreffenden Getreides;
 
 - b) übermitteln die Mitglieder, wenn sie Getreide ausführen, dem Exekutivdirektor alle Angaben über ihre Ausfuhrpreise, die der Rat benötigt;
@@ -345,7 +353,9 @@ Der Rat kann jeden Nichtmitgliedstaat und jede zwischenstaatliche Organisation e
 
 <sup>(2)</sup> Die Rechtsstellung, Vorrechte und Immunitäten des Rates im Hoheitsgebiet des Vereinigten Königreichs bestimmen sich weiterhin nach dem am 28. November 1968 in London unterzeichneten Abkommen über den Sitz zwischen der Regierung des Vereinigten Königreichs Grossbritannien und Nordirland und dem Internationalen Weizenrat.
 
-<sup>(3)</sup> Das in Absatz 2 genannte Abkommen ist von diesem Übereinkommen unabhängig. Es endet jedoch
+<sup>(3)</sup>
+
+Das in Absatz 2 genannte Abkommen ist von diesem Übereinkommen unabhängig. Es endet jedoch:
 
 - a) durch Vereinbarung zwischen der Regierung des Vereinigten Königreichs Grossbritannien und Nordirland und dem Rat,
 - b) wenn der Sitz des Rates aus dem Vereinigten Königreich verlegt wird oder
@@ -471,7 +481,7 @@ Stellt der Rat fest, dass ein Mitglied seine Verpflichtungen aus diesem Überein
 
 <sup>(5)</sup> Der Rat notifiziert dem Depositar alle nach Absatz 2 oder 3 getroffenen Massnahmen.
 
-[^33-1]: Verlängert durch den Beschluss des Internationalen Getreiderats vom 13./14. Juni 2005 ([AS 2005 2597](https://fedlex.data.admin.ch/eli/oc/2005/446)) bis zum 30. Juni 2007, durch den Beschluss vom 11. Juni 2007 ([AS 2007 3349](https://fedlex.data.admin.ch/eli/oc/2007/406)) bis zum 30. Juni 2009, durch den Beschluss vom 8. Juni 2009 ([AS 2009 5385](https://fedlex.data.admin.ch/eli/oc/2009/647)) bis zum 30. Juni 2011, durch den Beschluss vom 6. Juni 2011 ([AS 2011 3313](https://fedlex.data.admin.ch/eli/oc/2011/444)) bis zum 30. Juni 2013, durch den Beschluss vom 10./11. Juni 2013 ([AS 2013 2313](https://fedlex.data.admin.ch/eli/oc/2013/483)) bis zum 30. Juni 2015, durch den Beschluss vom 8. Juni 2015 ([AS 2015 2577](https://fedlex.data.admin.ch/eli/oc/2015/486)) bis zum 30. Juni 2017, durch den Beschluss vom 5. Juni 2017 ([AS 2017 3965](https://fedlex.data.admin.ch/eli/oc/2017/468)) bis zum 30. Juni 2019, durch den Beschluss vom 10. Juni 2019 ([AS 2019 3525](https://fedlex.data.admin.ch/eli/oc/2019/647)) bis zum 30. Juni 2021, durch den Beschluss vom 7. Juni 2021 ([AS 2021 557](https://fedlex.data.admin.ch/eli/oc/2021/557)) bis zum 30. Juni 2023 und durch den Beschluss vom 14. Juni 2023 ([AS 2023 540](https://fedlex.data.admin.ch/eli/oc/2023/540)) bis zum 30. Juni 2025.
+[^33-1]: Verlängert durch den Beschluss des Internationalen Getreiderats vom 13./14. Juni 2005 ([AS 2005 2597](https://fedlex.data.admin.ch/eli/oc/2005/446)) bis zum 30. Juni 2007, durch den Beschluss vom 11. Juni 2007 ([AS 2007 3349](https://fedlex.data.admin.ch/eli/oc/2007/406)) bis zum 30. Juni 2009, durch den Beschluss vom 8. Juni 2009 ([AS 2009 5385](https://fedlex.data.admin.ch/eli/oc/2009/647)) bis zum 30. Juni 2011, durch den Beschluss vom 6. Juni 2011 ([AS 2011 3313](https://fedlex.data.admin.ch/eli/oc/2011/444)) bis zum 30. Juni 2013, durch den Beschluss vom 10./11. Juni 2013 ([AS 2013 2313](https://fedlex.data.admin.ch/eli/oc/2013/483)) bis zum 30. Juni 2015, durch den Beschluss vom 8. Juni 2015 ([AS 2015 2577](https://fedlex.data.admin.ch/eli/oc/2015/486)) bis zum 30. Juni 2017, durch den Beschluss vom 5. Juni 2017 ([AS 2017 3965](https://fedlex.data.admin.ch/eli/oc/2017/468)) bis zum 30. Juni 2019, durch den Beschluss vom 10. Juni 2019 ([AS 2019 3525](https://fedlex.data.admin.ch/eli/oc/2019/647)) bis zum 30. Juni 2021, durch den Beschluss vom 7. Juni 2021 ([AS 2021 557](https://fedlex.data.admin.ch/eli/oc/2021/557)) bis zum 30. Juni 2023, durch den Beschluss vom 14. Juni 2023 ([AS 2023 540](https://fedlex.data.admin.ch/eli/oc/2023/540)) bis zum 30. Juni 2025 und durch den Beschluss vom 12. Juni 2025 (AS **202****5** 543) bis zum 30. Juni 2027.
 
 #### Art. 34
 
@@ -628,4 +638,4 @@ Ungarn
 
 Nahrungsmittelhilfe-Übereinkommen von 1999[^t-2]
 
-[^t-2]: [AS 2002 4109](https://fedlex.data.admin.ch/eli/oc/2002/662). An ihrer am 11. Juni 2012 in London abgehaltenen hundertsechsten Tagung haben der Nahrungsmittelhilfe-Ausschuss und die Vertragsstaaten des Nahrungsmittelhilfe-Übereinkommens von 1999 festgestellt, dass das Übereinkommen am 30. Juni 2012 ausläuft und sind übereingekommen, dieses nicht zu verlängern. Es ist daher am 30. Juni 2012 ausser Kraft getreten (siehe [AS 2012 7485](https://fedlex.data.admin.ch/eli/oc/2012/898)). Das Ernährungshilfe-Übereinkommen vom 25. April 2012 ([SR 0.916.111.312](https://fedlex.data.admin.ch/eli/cc/2012/899)) tritt am 1. Jan. 2013 in Kraft.
+[^t-2]: [AS 2002 4109](https://fedlex.data.admin.ch/eli/oc/2002/662). An ihrer am 11. Juni 2012 in London abgehaltenen hundertsechsten Tagung haben der Nahrungsmittelhilfe-Ausschuss und die Vertragsstaaten des Nahrungsmittelhilfe-Übereinkommens von 1999 festgestellt, dass das Übereinkommen am 30. Juni 2012 ausläuft und sind übereingekommen, dieses nicht zu verlängern. Es ist daher am 30. Juni 2012 ausser Kraft getreten (siehe [AS 2012 7485](https://fedlex.data.admin.ch/eli/oc/2012/898)). Das Ernährungshilfe-Übereinkommen vom 25. April 2012 ([SR 0.916.111.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4037)) tritt am 1. Jan. 2013 in Kraft.
