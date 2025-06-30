@@ -4,13 +4,12 @@ number: "152.221.171"
 title: Verordnung über die Organisation und die Aufgaben der Finanzdirektion
 short: Organisationsverordnung FIN; OrV FIN
 language: de
-version: 2023-03-01
-valid_until: 2025-06-30
-version_adopted: 2023-01-11
+version: 2025-07-01
+version_adopted: 2025-05-21
 adopted: 1995-10-18
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.221.171"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2787/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3182/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2787/pdf_file"
 
 (Organisationsverordnung FIN; OrV FIN)
 
-vom 18.10.1995 (Stand 01.03.2023)
+vom 18.10.1995 (Stand 01.07.2025)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -268,7 +267,7 @@ beschliesst:
 
 <sup>2</sup> Es beschafft
 
-- a zentral Leistungen für die ICT-Grundversorgung und für Konzernapplikationen,
+- a zentral Leistungen für die ICT-Grundversorgung,
 - b Betriebsleistungen grundsätzlich bei externen Anbieterinnen und Anbietern, mit Ausnahme des Supports der ersten Ebene.
 
 #### Art. 11b

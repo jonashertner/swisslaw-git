@@ -4,13 +4,12 @@ number: "152.221.171"
 title: "Ordonnance sur l'organisation et les tâches de la Direction des finances"
 short: "Ordonnance d'organisation FIN, OO FIN"
 language: fr
-version: 2023-03-01
-valid_until: 2025-06-30
-version_adopted: 2023-01-11
+version: 2025-07-01
+version_adopted: 2025-05-21
 adopted: 1995-10-18
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.221.171"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2787/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3182/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2787/pdf_file"
 
 (Ordonnance d'organisation FIN, OO FIN)
 
-du 18.10.1995 (état au 01.03.2023)
+du 18.10.1995 (état au 01.07.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -268,7 +267,7 @@ arrête:
 
 <sup>2</sup> Il achète
 
-- a de manière centralisée les prestations pour les services TIC de base et pour les applications de groupe,
+- a de manière centralisée les prestations pour les services TIC de base,
 - b en principe les prestations d'exploitation auprès de prestataires externes, à l'exception de l'assistance de premier niveau.
 
 #### Art. 11b
