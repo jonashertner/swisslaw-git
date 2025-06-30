@@ -4,29 +4,33 @@ title: "Verordnung vom 19. September 2006 zum Strafgesetzbuch, zum Militärstraf
 short: V-StGB-MStG-JStG
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/693"
 language: de
-version: 2019-01-01
+version: 2025-07-01
 adopted: 2006-09-19
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/693/20190101/de/xml/fedlex-data-admin-ch-eli-cc-2006-693-20190101-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/693/20190101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/693/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2006-693-20250701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/693/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung zum Strafgesetzbuch und zum Militärstrafgesetz
+# Verordnung zum Strafgesetzbuch, zum Militärstrafgesetz und zum Jugendstrafgesetz
 
-(V-StGB-MStG)
+(V-StGB-MStG-JStG)[^t-1]
 
-vom 19. September 2006 (Stand am 1. Januar 2019)
+vom 19. September 2006 (Stand am 1. Juli 2025)
+
+[^t-1]: Fassung gemäss Ziff. I der V vom 4. Sept. 2024, in Kraft seit 1. Juli 2025 ([AS 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
 
 Der Schweizerische Bundesrat,
 
-gestützt auf Artikel 387 Absatz 1 Buchstaben a, b und e des Strafgesetzbuches (StGB)[^ingress-1] und auf die Artikel 34*b* Absatz 1 und 47 des Militärstrafgesetzes vom 13. Juni 1927[^ingress-2] (MStG),
+gestützt auf Artikel 387 Absatz 1 Buchstaben a, b und e des Strafgesetzbuches (StGB)[^ingress-1], Artikel 38 des Jugendstrafgesetzes vom 20. Juni 2003[^ingress-2] (JStG) sowie Artikel 34*b* Absatz 1 und 47 des Militärstrafgesetzes vom 13. Juni 1927[^ingress-3] (MStG),[^ingress-4]
 
 verordnet:
 
 [^ingress-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^ingress-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^ingress-2]: [SR 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
+[^ingress-3]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^ingress-4]: Fassung gemäss Ziff. I der V vom 4. Sept. 2024, in Kraft seit 1. Juli 2025 ([AS 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
 
 ## 1. Abschnitt: Gegenstand
 
@@ -36,12 +40,14 @@ Diese Verordnung regelt:
 
 - a. die Zuständigkeit zum Vollzug und die Kostentragung bei Gesamtstrafen, bei Widerruf bedingter Strafen und bei Rückversetzung;
 - b. das Zusammentreffen mehrerer Sanktionen nach dem StGB;
+- b<sup>bis</sup>.[^1-1] das Zusammentreffen von Sanktionen nach dem JStG und dem StGB;
 - c. das Zusammentreffen von Sanktionen aus verschiedenen Kantonen im Vollzug;
-- c<sup>bis</sup>.[^1-1] den Beginn der Dauer der Landesverweisung;
+- c<sup>bis</sup>.[^1-2] den Beginn der Dauer der Landesverweisung;
 - d. Massnahmen bei Anordnung von Fahrverboten sowie Höhe und Verwendung des Arbeitsentgelts Gefangener;
 - e. die sinngemässe Anwendung der Bestimmungen dieser Verordnung auf den Vollzug von Urteilen der Militärgerichte oder des Bundesstrafgerichtes.
 
-[^1-1]: Eingefügt durch Ziff. I 9 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^1-1]: Eingefügt durch Ziff. I der V vom 4. Sept. 2024, in Kraft seit 1. Juli 2025 ([AS 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
+[^1-2]: Eingefügt durch Ziff. I 9 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 
 ## 2. Abschnitt: Gesamtstrafen, Widerruf bedingter Strafen und Rückversetzung: Zuständigkeit zum Vollzug und Kostentragung
 
@@ -57,7 +63,7 @@ Diese Verordnung regelt:
 
 **Widerruf bedingter Strafen und Rückversetzung**
 
-<sup>1</sup> Wird der bedingte Vollzug einer Strafe (Geldstrafe, gemeinnützige Arbeit oder Freiheitsstrafe) widerrufen, ohne dass eine Gesamtstrafe nach Artikel 46 Absatz 1 StGB gebildet wird, so ist der Kanton für den Vollzug der Strafe zuständig, dessen Gericht diese Strafe angeordnet hat.
+<sup>1</sup> Wird der bedingte Vollzug einer Geldstrafe oder Freiheitsstrafe widerrufen, ohne dass eine Gesamtstrafe nach Artikel 46 Absatz 1 StGB gebildet wird, so ist der Kanton für den Vollzug der Strafe zuständig, dessen Gericht diese Strafe angeordnet hat.[^3-1]
 
 <sup>2</sup> Wird die Rückversetzung einer bedingt entlassenen Person in den Strafvollzug angeordnet, ohne dass eine Gesamtstrafe nach Artikel 89 Absatz 6 StGB gebildet wird, so ist der Kanton für den Vollzug der Reststrafe zuständig, der die Freiheitsstrafe bis zur bedingten Entlassung vollzogen hat.
 
@@ -65,13 +71,21 @@ Diese Verordnung regelt:
 
 <sup>4</sup> Die Vollzugskosten werden anteilsmässig auf die beteiligten Kantone verteilt.
 
-## 3. Abschnitt: Zusammentreffen mehrerer Sanktionen im Vollzug
+[^3-1]: Fassung gemäss Ziff. I der V vom 4. Sept. 2024, in Kraft seit 1. Juli 2025 ([AS 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
+
+## 3. Abschnitt: Zusammentreffen mehrerer Sanktionen nach dem Strafgesetzbuch im Vollzug
+
+[^sec3-1]
+
+[^sec3-1]: Fassung gemäss Ziff. I der V vom 4. Sept. 2024, in Kraft seit 1. Juli 2025 ([AS 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
 
 #### Art. 4
 
-**Gleichzeitig vollziehbare Freiheitsstrafen**
+**Gleichzeitig vollziehbare Freiheitsstrafen**[^4-1]
 
-Treffen Freiheitsstrafen im Vollzug zusammen, so sind sie gemeinsam entsprechend ihrer Gesamtdauer nach den Artikeln 76–79 StGB zu vollziehen.
+Treffen Freiheitsstrafen im Vollzug zusammen, so sind sie gemeinsam entsprechend ihrer Gesamtdauer nach den Artikeln 74–89 StGB zu vollziehen.
+
+[^4-1]: Fassung gemäss Ziff. I der V vom 4. Sept. 2024, in Kraft seit 1. Juli 2025 ([AS 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
 
 #### Art. 5
 
@@ -136,21 +150,11 @@ Treffen ambulante Massnahmen nach Artikel 63 StGB mit Freiheitsstrafen im Vollzu
 
 <sup>2</sup> Ob und wie weit die nach Absatz 1 Buchstabe b aufgeschobenen Massnahmen oder Freiheitsstrafen später noch vollstreckt werden sollen, entscheidet das Gericht, das die vollzogene Massnahme oder Freiheitsstrafe angeordnet hat.
 
-#### Art. 11
+#### Art. 11 und 12
 
-**Gleichzeitig vollziehbare gemeinnützige Arbeiten**
+[^1112-1]
 
-<sup>1</sup> Treffen gemeinnützige Arbeiten im Vollzug zusammen, so sind sie gemeinsam zu vollziehen. Die Vollzugsbehörde kann die Fristen nach Artikel 38 oder 107 Absatz 2 StGB angemessen verlängern, wenn insgesamt mehr als 720 beziehungsweise 360 Stunden gemeinnützige Arbeit zu leisten sind.
-
-<sup>2</sup> Über die nachträgliche Umwandlung der gemeinnützigen Arbeit in Geld- oder Freiheitsstrafe nach Artikel 39 StGB oder die Vollstreckung der Busse nach Artikel 107 Absatz 3 StGB entscheidet das Gericht, das die zuerst rechtskräftig gewordene gemeinnützige Arbeit angeordnet hat.
-
-#### Art. 12
-
-**Gleichzeitig vollziehbare gemeinnützige Arbeit und freiheitsentziehende Sanktionen**
-
-<sup>1</sup> Treffen gemeinnützige Arbeiten mit Freiheitsstrafen im Vollzug zusammen, so vollzieht die zuständige Behörde zuerst die dringlichste oder zweckmässigste Strafe.
-
-<sup>2</sup> Treffen gemeinnützige Arbeiten mit stationären Massnahmen nach den Artikeln 59–61 StGB allein oder mit solchen Massnahmen und Freiheitsstrafen im Vollzug zusammen, so geht der Vollzug der Massnahmen dem Vollzug der Strafen voraus. Artikel 9Absatz 1 ist sinngemäss anwendbar.
+[^1112-1]: Aufgehoben durch Ziff. I der V vom 4. Sept. 2024, mit Wirkung seit 1. Juli 2025 ([AS 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
 
 #### Art. 12a
 
@@ -166,32 +170,117 @@ Treffen ambulante Massnahmen nach Artikel 63 StGB mit Freiheitsstrafen im Vollzu
 
 **Gleichzeitig mit einer Landesverweisung vollziehbare Strafen und freiheitsentziehende Massnahmen**[^12b-1]
 
-Trifft eine Landesverweisung mit Strafen oder freiheitsentziehenden Massnahmen im Vollzug zusammen, so ist Artikel 66*c* Absätze 2 und 3 StGB anwendbar.
+Trifft eine Landesverweisung mit Strafen oder freiheitsentziehenden Massnahmen im Vollzug zusammen, so ist Artikel 66c Absätze 2 und 3 StGB anwendbar.
 
 [^12b-1]: Eingefügt durch Ziff. I 9 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 
-## 4. Abschnitt: Zusammentreffen von Sanktionen aus verschiedenen Kantonen im Vollzug
+## 3*a*. Abschnitt: Zusammentreffen von Sanktionen nach dem Jugendstrafgesetz und dem Strafgesetzbuch im Vollzug
+
+[^sec3a-1]
+
+[^sec3a-1]: Eingefügt durch Ziff. I der V vom 4. Sept. 2024, in Kraft seit 1. Juli 2025 ([AS 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
+
+#### Art. 12c
+
+**Gleichzeitig vollziehbare Strafen nach JStG und Freiheitsstrafen nach StGB**
+
+Treffen persönliche Leistungen nach Artikel 23 JStG oder Freiheitsentzüge nach Artikel 25 JStG mit Freiheitsstrafen nach Artikel 40 StGB im Vollzug zusammen, so sind sie nacheinander zu vollziehen.
+
+#### Art. 12d
+
+**Gleichzeitig vollziehbare Schutzmassnahmen nach JStG und therapeutische Massnahmen nach StGB**
+
+<sup>1</sup> Treffen Schutzmassnahmen nach den Artikeln 12–15 JStG mit therapeutischen Massnahmen nach den Artikeln 59–61 und 63 StGB im Vollzug zusammen, so vollzieht die zuständige Behörde die dringlichste oder zweckmässigste Schutzmassnahme oder therapeutische Massnahme. Der Vollzug der anderen Massnahmen wird aufgeschoben.
+
+<sup>2</sup> Erscheinen aufgeschobene Schutzmassnahmen oder therapeutische Massnahmen im Verlaufe des Vollzuges nach Absatz 1 als dringlicher oder zweckmässiger, so ordnen die zuständigen Behörden deren Vollzug an Stelle der bisher vollzogenen Schutzmassnahmen oder therapeutischen Massnahmen an.
+
+<sup>3</sup> Für die Beendigung der vollzogenen und den Vollzug der aufgeschobenen Massnahmen sind die Artikel 19 und 32 Absätze 2–3 JStG sowie die Artikel 62–62*d*, 63*a* und 63*b* StGB sinngemäss anwendbar.
+
+#### Art. 12e
+
+**Gleichzeitig vollziehbare Unterbringungen nach JStG und Freiheitsstrafen nach StGB**
+
+<sup>1</sup> Treffen Unterbringungen nach Artikel 15 JStG mit Freiheitsstrafen nach StGB im Vollzug zusammen, so gehen die Unterbringungen dem Vollzug der Freiheitsstrafen voraus. Der Vollzug der Freiheitsstrafen wird aufgeschoben.
+
+<sup>2</sup> Für die Beendigung der Unterbringungen und den Vollzug der aufgeschobenen Freiheitsstrafen sind die Artikel 19 und 32 Absätze 2–3 JStG sowie die Artikel 62*b* Absatz 3 und 62*c* Absatz 2 StGB sinngemäss anwendbar.
+
+#### Art. 12f
+
+**Gleichzeitig vollziehbare Strafen nach JStG und stationäre therapeutische Massnahmen nach StGB**
+
+<sup>1</sup> Treffen persönliche Leistungen nach Artikel 23 JStG oder Freiheitsentzüge nach Artikel 25 JStG mit stationären therapeutischen Massnahmen nach den Artikeln 59–61 StGB im Vollzug zusammen, so vollzieht die zuständige Behörde die stationären therapeutischen Massnahmen. Der Vollzug der Jugendstrafen wird aufgeschoben.
+
+<sup>2</sup> Für die Beendigung der stationären therapeutischen Massnahmen und den Vollzug der aufgeschobenen Jugendstrafen sind die Artikel 62–62*d* StGB sowie Artikel 32 Absätze 2–3 JStG sinngemäss anwendbar.
+
+#### Art. 12g
+
+**Gleichzeitig vollziehbare ambulante Behandlungen nach JStG und Freiheitsstrafen nach StGB oder gleichzeitig vollziehbare ambulante Behandlungen nach StGB und Freiheitsentzüge nach JStG**
+
+<sup>1</sup>
+
+Treffen ambulante Behandlungen nach Artikel 14 JStG mit Freiheitsstrafen nach StGB im Vollzug zusammen, so vollziehen die zuständigen Behörden:
+
+- a. die Sanktionen gleichzeitig; oder
+- b. die dringlichste oder zweckmässigste Sanktion; der Vollzug der anderen Sanktionen wird aufgeschoben.
+
+<sup>2</sup> Treffen Freiheitsentzüge nach Artikel 25 JStG mit ambulanten Behandlungen nach Artikel 63 StGB zusammen, so gilt Absatz 1 sinngemäss.
+
+<sup>3</sup> Ob und wie weit die nach Absatz 1 oder 2 aufgeschobenen Sanktionen später noch vollzogen werden sollen, richtet sich sinngemäss nach den Artikeln 19 und 32 Absatz 4 JStG sowie den Artikeln 56 Absatz 6 und 63*b* Absatz 1 StGB.
+
+#### Art. 12h
+
+**Gleichzeitig vollziehbare Sanktionen nach JStG und Verwahrungen nach StGB**
+
+<sup>1</sup> Treffen Schutzmassnahmen nach den Artikeln 12–15 JStG oder persönliche Leistungen nach Artikel 23 JStG mit einer Verwahrung nach Artikel 64 Absatz 1 StGB im Vollzug zusammen, so geht die Verwahrung dem Vollzug der übrigen Sanktionen voraus. Der Vollzug der Jugendsanktionen wird aufgeschoben.
+
+<sup>2</sup> Mit Anordnung einer stationären therapeutischen Massnahme nach Artikel 65 Absatz 1 StGB oder der endgültigen Entlassung aus der Verwahrung wegen Bewährung nach Artikel 64*a* Absatz 5 StGB werden aufgeschobene Sanktionen nach JStG aufgehoben.
+
+<sup>3</sup> Treffen Freiheitsentzüge nach Artikel 25 JStG mit einer Verwahrung nach Artikel 64 Absatz 1 StGB im Vollzug zusammen, so geht der Vollzug der Freiheitsentzüge dem Vollzug der Verwahrung voraus.
+
+#### Art. 12i
+
+**Gleichzeitig vollziehbare Unterbringungen oder Strafen nach JStG und Landesverweisungen nach StGB**
+
+<sup>1</sup> Treffen Unterbringungen nach Artikel 15 JStG oder Strafen nach JStG mit einer Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB im Vollzug zusammen, so sind vor dem Vollzug der Landesverweisung die Unterbringungen sowie die unbedingten Strafen oder Strafteile zu vollziehen.
+
+<sup>2</sup> Die Landesverweisung wird vollzogen, sobald die Unterbringung aufgehoben wird oder die verurteilte Person bedingt oder endgültig aus dem Straf- oder Massnahmenvollzug entlassen wird, ohne dass eine Reststrafe zu vollziehen ist oder eine andere solche Schutzmassnahme angeordnet wird.
+
+## 4. Abschnitt: Zusammentreffen von Sanktionen aus verschiedenen Kantonen oder von Sanktionen verschiedener Urteilsbehörden des gleichen Kantons im Vollzug
+
+[^sec4-1]
+
+[^sec4-1]: Fassung gemäss Ziff. I der V vom 4. Sept. 2024, in Kraft seit 1. Juli 2025 ([AS 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
 
 #### Art. 13
 
-**Verständigung der beteiligten Kantone**
+**Verständigung der beteiligten Kantone oder Behörden**[^13-1]
+
+<sup>1</sup>
 
 Wurden die im Vollzug zusammentreffenden Sanktionen durch Urteile verschiedener Kantone angeordnet, so verständigen sich die zuständigen Behörden der Urteilskantone, wenn zu entscheiden ist über:
 
 - a. den Vollzug der dringlichsten oder zweckmässigsten Sanktionen;
 - b. den gleichzeitigen Vollzug von Sanktionen.
 
+<sup>2</sup> Wurden die im Vollzug zusammentreffenden Sanktionen des JStG und des StGB durch Urteile verschiedener Behörden desselben Kantons angeordnet, so gilt Absatz 1 sinngemäss.
+
+[^13-1]: Fassung gemäss Ziff. I der V vom 4. Sept. 2024, in Kraft seit 1. Juli 2025 ([AS 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
+
 #### Art. 14
 
-**Zuständigkeit**
+**Zuständigkeit für den Vollzug beim Zusammentreffen von Sanktionen nach StGB[^14-1]**
 
 Vereinbaren die beteiligten Kantone betreffend die Zuständigkeit für den Vollzug nichts anderes, so ist zuständig:
 
 - a. für den gemeinsamen Vollzug zusammentreffender Freiheitsstrafen (Art. 4): der Kanton, dessen Gericht die längste Einzelstrafe oder Gesamtstrafe (Art. 46 Abs. 1, 62*a* Abs. 2 und 89 Abs. 6 StGB) verhängt hat;
-- b. für den Vollzug von gleichen Massnahmen (Art. 6 Abs. 1 und Art. 8), den gleichzeitigen Vollzug von ungleichen therapeutischen Massnahmen (Art. 6 Abs. 2) oder von ambulanten Massnahmen und Freiheitsstrafen (Art. 10 Abs. 1 Bst. a) oder den gemeinsamen Vollzug von gemeinnützigen Arbeiten (Art. 11): der Kanton, in welchem das zuerst rechtskräftig gewordene Urteil gefällt wurde;
-- c. beim Zusammentreffen von gemeinützigen Arbeiten mit Freiheitsstrafen (Art. 12 Abs. 1): der Kanton, dessen Gericht die als erste zum Vollzug gelangende Sanktion verhängt hat;
+- b.[^14-2] für den Vollzug von gleichen Massnahmen (Art. 6 Abs. 1 und Art. 8), den gleichzeitigen Vollzug von ungleichen therapeutischen Massnahmen (Art. 6 Abs. 2) oder von ambulanten Massnahmen und Freiheitsstrafen (Art. 10 Abs. 1 Bst. a): der Kanton, in welchem das zuerst rechtskräftig gewordene Urteil gefällt wurde;
+- c.[^14-3] …
 - d. in den Fällen von Artikel 6 Absatz 3: der Kanton, der für den Vollzug nach Artikel 6 Absatz 2 zuständig ist;
 - e. in den übrigen Fällen (Art. 6 Abs. 2, Art. 7, 9, 10 Abs. 1 Bst. b): der Kanton, dessen Gericht die zum Vollzug gelangenden Sanktionen verhängt hat.
+
+[^14-1]: Fassung gemäss Ziff. I der V vom 4. Sept. 2024, in Kraft seit 1. Juli 2025 ([AS 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
+[^14-2]: Fassung gemäss Ziff. I der V vom 4. Sept. 2024, in Kraft seit 1. Juli 2025 ([AS 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
+[^14-3]: Aufgehoben durch Ziff. I der V vom 4. Sept. 2024, mit Wirkung seit 1. Juli 2025 ([AS 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
 
 #### Art. 14a
 
@@ -199,11 +288,23 @@ Vereinbaren die beteiligten Kantone betreffend die Zuständigkeit für den Vollz
 
 <sup>1</sup> Trifft eine Landesverweisung mit Strafen oder freiheitsentziehenden Massnahmen aus einem anderen Kanton im Vollzug zusammen, so ist Artikel 66*c* Absätze 2 und 3 StGB anwendbar.
 
-<sup>2</sup> Zuständig für den Vollzug einer Landesverweisung, die mit einer Strafe oder einer freiheitsentziehenden Massnahme aus einem anderen Kanton zusammentrifft, ist der Kanton, der die Landesverweisung angeordnet hat.
+<sup>2</sup> Zuständig für den Vollzug einer Landesverweisung, die mit einer Strafe nach StGB oder JStG oder einer freiheitsentziehenden Massnahme oder Schutzmassnahme nach JStG aus einem anderen Kanton zusammentrifft, ist der Kanton, der die Landesverweisung angeordnet hat.[^14a-2]
 
 <sup>3</sup> Zuständig für den Vollzug von zusammentreffenden Landesverweisungen aus verschiedenen Kantonen ist, sobald die Landesverweisungen gemeinsam zu vollziehen sind, der Kanton, der die später endende Landesverweisung angeordnet hat. Die Kantone können abweichende Vereinbarungen treffen.
 
 [^14a-1]: Eingefügt durch Ziff. I 9 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^14a-2]: Fassung gemäss Ziff. I der V vom 4. Sept. 2024, in Kraft seit 1. Juli 2025 ([AS 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
+
+#### Art. 14b
+
+**Koordination des Vollzugs beim Zusammentreffen von Sanktionen nach JStG und StGB**[^14b-1]
+
+Vereinbaren die beteiligten Behörden des gleichen Kantons oder verschiedener Kantone beim Zusammentreffen folgender Sanktionen betreffend Vollzug nichts anderes (Art. 13), so gilt, dass:
+
+- a. beim Zusammentreffen von Schutzmassnahmen nach JStG und stationären Massnahmen nach StGB (Art. 12*d* Abs. 1) diejenige Massnahme vollzogen wird, die zuerst in Rechtskraft erwachsen ist;
+- b. beim Zusammentreffen von ambulanten Behandlungen nach JStG und Freiheitsstrafen nach StGB oder ambulanten Behandlungen nach StGB und Freiheitsentzügen nach JStG (Art. 12*g*) die Sanktionen gleichzeitig vollzogen werden.
+
+[^14b-1]: Eingefügt durch Ziff. I der V vom 4. Sept. 2024, in Kraft seit 1. Juli 2025 ([AS 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
 
 #### Art. 15
 
@@ -213,21 +314,22 @@ Dem Kanton, der den gemeinsamen Vollzug von Sanktionen übernommen hat, stehen d
 
 #### Art. 16
 
-**Kostentragung**
+**Tragung der Kosten des Vollzugs beim Zusammentreffen von Sanktionen nach StGB**[^16-1]
 
-<sup>1</sup> Die Kosten des Vollzugs von Massnahmen einschliesslich des Vollzugs der Landesverweisung trägt der Kanton, der aufgrund dieser Verordnung oder einer Vereinbarung für den Vollzug zuständig ist.[^16-1]
+<sup>1</sup> Die Kosten des Vollzugs von Massnahmen einschliesslich des Vollzugs der Landesverweisung trägt der Kanton, der aufgrund dieser Verordnung oder einer Vereinbarung für den Vollzug zuständig ist.[^16-2]
 
 <sup>2</sup> Die Kosten des Vollzuges von Strafen werden anteilsmässig auf die beteiligten Kantone verteilt.
 
 <sup>3</sup> Die Kosten des gemeinsamen Verwahrungsvollzuges tragen die beteiligten Kantone zu gleichen Teilen.
 
-[^16-1]: Fassung gemäss Ziff. I 9 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^16-1]: Fassung gemäss Ziff. I der V vom 4. Sept. 2024, in Kraft seit 1. Juli 2025 ([AS 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
+[^16-2]: Fassung gemäss Ziff. I 9 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 
 #### Art. 17
 
-**Einnahmen aus Geldstrafen und Bussen**
+[^17-1]
 
-Kommt beim gemeinsamen Vollzug gemeinnütziger Arbeiten Artikel 11 Absatz 2 zur Anwendung, so werden die Einnahmen aus den Geldstrafen oder Bussen anteilsmässig auf die beteiligten Kantone verteilt.
+[^17-1]: Aufgehoben durch Ziff. I der V vom 4. Sept. 2024, mit Wirkung seit 1. Juli 2025 ([AS 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
 
 ## 4*a*. Abschnitt: Beginn der Dauer der Landesverweisung
 
@@ -281,7 +383,7 @@ Diese Verordnung ist sinngemäss anwendbar auf den Vollzug von Sanktionen, die a
 <sup>3</sup> Besondere Regelungen in andern Bundeserlassen über die Entschädigung der Kantone für diesen Vollzug bleiben vorbehalten.
 
 [^20-1]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
-[^20-2]: [BS **3** 303; [AS 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)Ziff. III 4, [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Anhang Ziff. 2, [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)Art. 88 Ziff. 4, [1979 1170](https://fedlex.data.admin.ch/eli/oc/1979/1170_1170_1170), [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 15 [2465](https://fedlex.data.admin.ch/eli/oc/1992/2465_2465_2465)Anhang Ziff. 2, [1993 1993](https://fedlex.data.admin.ch/eli/oc/1993/1993_1993_1993), [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 7, [2000 505](https://fedlex.data.admin.ch/eli/oc/2000/95)Ziff. I 3 [2719](https://fedlex.data.admin.ch/eli/oc/2000/453)Ziff. II 3 [2725](https://fedlex.data.admin.ch/eli/oc/2000/454)Ziff. II, [2001 118](https://fedlex.data.admin.ch/eli/oc/2001/22)Ziff. I 3 [3071](https://fedlex.data.admin.ch/eli/oc/2001/459)Ziff. II 1 [3096](https://fedlex.data.admin.ch/eli/oc/2001/467)Anhang Ziff. 2 [3308](https://fedlex.data.admin.ch/eli/oc/2001/492), [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)Anhang Ziff. 9, [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 4, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Anhang Ziff. 19, [2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)Anhang Ziff. 10, [2007 6087](https://fedlex.data.admin.ch/eli/oc/2007/811), [2008 1607](https://fedlex.data.admin.ch/eli/oc/2008/232)Anhang Ziff. 1 [4989](https://fedlex.data.admin.ch/eli/oc/2008/698)Anhang 1 Ziff. 6 [5463](https://fedlex.data.admin.ch/eli/oc/2008/759)Anhang Ziff. 3, [2009 6605](https://fedlex.data.admin.ch/eli/oc/2009/821)Anhang Ziff. II 3. [AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)Anhang 1 Ziff. I 1]. Siehe heute: die Strafprozessordnung vom 5. Okt. 2007 ([SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)).
+[^20-2]: [BS **3** 303; [AS 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)Ziff. III 4; [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Anhang Ziff. 2; [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)Art. 88 Ziff. 4; [1979 1170](https://fedlex.data.admin.ch/eli/oc/1979/1170_1170_1170); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 15, [2465](https://fedlex.data.admin.ch/eli/oc/1992/2465_2465_2465)Anhang Ziff. 2; [1993 1993](https://fedlex.data.admin.ch/eli/oc/1993/1993_1993_1993); [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 7; [2000 505](https://fedlex.data.admin.ch/eli/oc/2000/95)Ziff. I 3, [2719](https://fedlex.data.admin.ch/eli/oc/2000/453)Ziff. II 3, [2725](https://fedlex.data.admin.ch/eli/oc/2000/454)Ziff. II; [2001 118](https://fedlex.data.admin.ch/eli/oc/2001/22)Ziff. I 3, [3071](https://fedlex.data.admin.ch/eli/oc/2001/459)Ziff. II 1, [3096](https://fedlex.data.admin.ch/eli/oc/2001/467)Anhang Ziff. 2, [3308](https://fedlex.data.admin.ch/eli/oc/2001/492); [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)Anhang Ziff. 9; [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 4; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Anhang Ziff. 19; [2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)Anhang Ziff. 10; [2007 6087](https://fedlex.data.admin.ch/eli/oc/2007/811); [2008 1607](https://fedlex.data.admin.ch/eli/oc/2008/232)Anhang Ziff. 1, [4989](https://fedlex.data.admin.ch/eli/oc/2008/698)Anhang 1 Ziff. 6, [5463](https://fedlex.data.admin.ch/eli/oc/2008/759)Anhang Ziff. 3; [2009 6605](https://fedlex.data.admin.ch/eli/oc/2009/821)Anhang Ziff. II 3. [AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)Anhang 1 Ziff. I 1]. Siehe heute: die Strafprozessordnung vom 5. Okt. 2007 ([SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)).
 
 ## 7. Abschnitt: Schlussbestimmungen
 
@@ -295,9 +397,9 @@ Folgende Verordnungen werden aufgehoben:
 - 2\. Verordnung (2) vom 6. Dezember 1982[^21-2] zum Schweizerischen Strafgesetzbuch;
 - 3\. Verordnung (3) vom 16. Dezember 1985[^21-3] zum Schweizerischen Strafgesetzbuch.
 
-[^21-1]: [[AS 1973 1841](https://fedlex.data.admin.ch/eli/oc/1973/1841_1841_1841), [1983 1616](https://fedlex.data.admin.ch/eli/oc/1983/1616_1616_1616), [1990 518](https://fedlex.data.admin.ch/eli/oc/1990/518_518_518)]
+[^21-1]: [[AS 1973 1841](https://fedlex.data.admin.ch/eli/oc/1973/1841_1841_1841); [1983 1616](https://fedlex.data.admin.ch/eli/oc/1983/1616_1616_1616); [1990 518](https://fedlex.data.admin.ch/eli/oc/1990/518_518_518)]
 [^21-2]: [[AS 1982 2237](https://fedlex.data.admin.ch/eli/oc/1982/2237_2237_2237)]
-[^21-3]: [[AS 1985 1941](https://fedlex.data.admin.ch/eli/oc/1985/1941_1941_1941), [1990 519](https://fedlex.data.admin.ch/eli/oc/1990/519_519_519), [1995 5273](https://fedlex.data.admin.ch/eli/oc/1995/5273_5273_5273), [1998 882](https://fedlex.data.admin.ch/eli/oc/1998/882_882_882), [2001 3307](https://fedlex.data.admin.ch/eli/oc/2001/491)]
+[^21-3]: [[AS 1985 1941](https://fedlex.data.admin.ch/eli/oc/1985/1941_1941_1941); [1990 519](https://fedlex.data.admin.ch/eli/oc/1990/519_519_519); [1995 5273](https://fedlex.data.admin.ch/eli/oc/1995/5273_5273_5273); [1998 882](https://fedlex.data.admin.ch/eli/oc/1998/882_882_882); [2001 3307](https://fedlex.data.admin.ch/eli/oc/2001/491)]
 
 #### Art. 22
 

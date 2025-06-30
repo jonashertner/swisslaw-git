@@ -4,29 +4,33 @@ title: "Ordonnance du 19 septembre 2006 relative au code pénal, au code pénal 
 short: O-CP-CPM-DPMin
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/693"
 language: fr
-version: 2019-01-01
+version: 2025-07-01
 adopted: 2006-09-19
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/693/20190101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-693-20190101-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/693/20190101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/693/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2006-693-20250701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/693/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance relative au code pénal et au code pénal militaire
+# Ordonnance relative au code pénal, au code pénal militaire et au droit pénal des mineurs
 
-(O-CP-CPM)
+(O-CP-CPM-DPMin)[^t-1]
 
-du 19 septembre 2006 (État le 1<sup>er</sup> janvier 2019)
+du 19 septembre 2006 (État le 1<sup>er</sup> juillet 2025)
+
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du 4 sept. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
 
 Le Conseil fédéral suisse,
 
-vu l’art. 387, al. 1, let. a, b et e, du code pénal (CP)[^ingress-1], vu les art. 34*b*, al. 1, et 47 du code pénal militaire du 13 juin 1927 (CPM)[^ingress-2],
+vu l’art. 387, al. 1, let. a, b et e, du code pénal (CP)[^ingress-1], vu l’art. 38 du droit pénal des mineurs du 20 juin 2003 (DPMin)[^ingress-2], vu les art. 34*b*, al. 1, et 47 du code pénal militaire du 13 juin 1927 (CPM)[^ingress-3],[^ingress-4]
 
 arrête:
 
 [^ingress-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^ingress-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^ingress-2]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
+[^ingress-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^ingress-4]: Nouvelle teneur selon le ch. I de l’O du 4 sept. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
 
 ## Section 1 Objet
 
@@ -36,12 +40,14 @@ La présente ordonnance règle:
 
 - a. la compétence en matière d’exécution et la prise en charge des frais en cas de prononcé de peines d’ensemble, de révocation du sursis et de réintégration;
 - b. le concours de plusieurs sanctions au sens du CP;
+- b<sup>bis</sup>.[^1-1] le concours de sanctions au sens du DPMin et du CP;
 - c. le concours, lors de l’exécution, de sanctions prononcées par des autorités de différents cantons;
-- c<sup>bis</sup>.[^1-1] le début de la durée de l’expulsion;
+- c<sup>bis</sup>.[^1-2] le début de la durée de l’expulsion;
 - d. les mesures à prendre en cas de prononcé d’une interdiction de conduire ainsi que le montant de la rémunération des détenus et l’utilisation qu’ils peuvent en faire;
 - e. l’application par analogie des présentes dispositions à l’exécution des jugements rendus par les tribunaux militaires ou par le Tribunal pénal fédéral.
 
-[^1-1]: Introduite par le ch. I 9 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^1-1]: Introduite par le ch. I de l’O du 4 sept. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
+[^1-2]: Introduite par le ch. I 9 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 
 ## Section 2 Peines d’ensemble, révocation du sursis et réintégration: compétence en matière d’exécution et prise en charge des frais
 
@@ -57,7 +63,7 @@ La présente ordonnance règle:
 
 **Révocationdu sursis et réintégration**
 
-<sup>1</sup> Si le sursis dont est assorti une peine (peine pécuniaire, travail d’intérêt général ou peine privative de liberté) est révoqué sans qu’il y ait fixation d’une peine d’ensemble au sens de l’art. 46, al. 1, CP, le canton dont le tribunal a prononcé la peine est compétent pour l’exécution de celle-ci.
+<sup>1</sup> Si le sursis dont est assorti une peine pécuniaire ou une peine privative de liberté est révoqué sans qu’une peine d’ensemble au sens de l’art. 46, al. 1, CP soit fixée, le canton dont le tribunal a prononcé la peine est compétent pour l’exécution de celle-ci.[^3-1]
 
 <sup>2</sup> Si la réintégration dans l’exécution de la peine d’une personne libérée conditionnellement est ordonnée sans qu’il y ait fixation d’une peine d’ensemble au sens de l’art. 89, al. 6, CP, le canton qui a assuré l’exécution de la peine privative de liberté subie jusqu’a la libération conditionnelle est compétent pour l’exécution du solde de la peine.
 
@@ -65,13 +71,21 @@ La présente ordonnance règle:
 
 <sup>4</sup> Les frais d’exécution sont répartis au prorata entre les cantons concernés.
 
-## Section 3 Concours, lors de l’exécution, de plusieurs sanctions
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 4 sept. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
+
+## Section 3 Concours, lors de l’exécution, de plusieurs sanctions au sens du code pénal
+
+[^sec3-1]
+
+[^sec3-1]: Nouvelle teneur selon le ch. I de l’O du 4 sept. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
 
 #### Art. 4
 
-**Peines privatives de liberté exécutables simultanément**
+**Peines privatives de liberté exécutables simultanément**[^4-1]
 
-Si, lors de l’exécution, il y a concours de plusieurs peines privatives de liberté, elles sont exécutées simultanément, conformément aux art. 76 à 79, CP, leur durée totale étant déterminante.
+Si, lors de l’exécution, il y a concours de plusieurs peines privatives de liberté, elles sont exécutées simultanément, conformément aux art. 74 à 89 CP, leur durée totale étant déterminante.
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 4 sept. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
 
 #### Art. 5
 
@@ -136,21 +150,11 @@ Lorsque, au cours de l’exécution, il y a concours de mesures ambulatoires au 
 
 <sup>2</sup> Le tribunal qui a ordonné la mesure ou la peine qui a été exécutée détermine si et dans quelle mesure il est nécessaire d’exécuter ultérieurement les mesures ou les peines suspendues selon l’al. 1, let. b.
 
-#### Art. 11
+#### Art. 11 et 12
 
-**Travaux d’intérêt général exécutables simultanément**
+[^1112-1]
 
-<sup>1</sup> Lorsque, au cours de l’exécution, il y a concours de travaux d’intérêt général, ceux-ci sont exécutés conjointement. L’autorité d’exécution peut prolonger de manière appropriée les délais fixés aux art. 38 et 107, al. 2, CP, si la durée totale des travaux d’intérêt général excède 720 heures ou 360 heures, respectivement.
-
-<sup>2</sup> Le tribunal qui a ordonné le travail d’intérêt général ayant le premier acquis force exécutoire statue sur la conversion ultérieure de cette sanction en peine pécuniaire ou peine privative de liberté au sens de l’art. 39 CP ou sur l’exécution de l’amende selon l’art. 107, al. 3, CP.
-
-#### Art. 12
-
-**Travaux d’intérêt généralet sanctions privatives de liberté exécutables simultanément**
-
-<sup>1</sup> Lorsque, au cours de l’exécution, il y a concours de travaux d’intérêt général avec des peines privatives de liberté, l’autorité compétente assure en priorité l’exécution de la sanction la plus urgente ou la plus appropriée.
-
-<sup>2</sup> Lorsque, au cours de l’exécution, il y a concours de travaux d’intérêt général avec des mesures thérapeutiques institutionnelles au sens des art. 59 à 61 CP, seules, ou avec de telles mesures et des peines privatives de liberté, l’exécution des mesures précède celle des peines. L’art. 9, al. 1, est applicable par analogie.
+[^1112-1]: Abrogés par le ch. I de l’O du 4 sept. 2024, avec effet au 1<sup>er</sup> juil. 2025 ([RO 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
 
 #### Art. 12a
 
@@ -170,28 +174,113 @@ Lorsque, au cours de l’exécution, il y a concours d’une expulsion avec des 
 
 [^12b-1]: Introduit par le ch. I 9 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 
-## Section 4 Concours, lors de l’exécution, de sanctions prononcées par des autorités de différents cantons
+## Section 3*a* Concours, lors de l’exécution, de sanctions au sens du droit pénal des mineurs et du code pénal
+
+[^sec3a-1]
+
+[^sec3a-1]: Introduite par le ch. I de l’O du 4 sept. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
+
+#### Art. 12c
+
+**Peines au sens du DPMin et peines privatives de liberté au sens du CP exécutables simultanément**
+
+Si, lors de l’exécution, il y a concours de prestations personnelles au sens de l’art. 23 DPMin, ou de privations de liberté au sens de l’art. 25 DPMin, et de peines privatives de liberté au sens de l’art. 40 CP, elles sont exécutées les unes après les autres.
+
+#### Art. 12d
+
+**Mesures de protection au sens du DPMin et mesures thérapeutiques au sens du CP exécutables simultanément**
+
+<sup>1</sup> Si, lors de l’exécution, il y a concours de mesures de protection au sens des art. 12 à 15 DPMin et de mesures thérapeutiques au sens des art. 59 à 61 et 63 CP, l’autorité compétente ordonne l’exécution de la mesure la plus urgente ou la plus appropriée. L’exécution des autres mesures est suspendue.
+
+<sup>2</sup> Si, au cours de l’exécution des mesures au sens de l’al. 1, des mesures de protection ou des mesures thérapeutiques qui ont été suspendues apparaissent plus urgentes ou plus appropriées, les autorités compétentes ordonnent leur exécution en lieu et place des mesures de protection ou des mesures thérapeutiques exécutées jusqu’alors.
+
+<sup>3</sup> Les art. 19 et 32, al. 2 et 3, DPMin et 62 à 62*d,* 63*a* et 63*b* CP s’appliquent par analogie à la fin des mesures déjà exécutées et à l’exécution des mesures qui ont été suspendues.
+
+#### Art. 12e
+
+**Placements au sens du DPMin et peines privatives de liberté au sens du CP exécutables simultanément**
+
+<sup>1</sup> Si, lors de l’exécution, il y a concours de placements au sens de l’art. 15 DPMin et de peines privatives de liberté au sens du CP, l’exécution des placements précède celle des peines privatives de liberté. L’exécution des peines privatives de liberté est suspendue.
+
+<sup>2</sup> Les art. 19 et 32, al. 2 et 3, DPMin et 62*b*, al. 3, et 62*c*, al. 2, CP s’appliquent par analogie à la fin des placements et à l’exécution des peines privatives de liberté qui ont été suspendues.
+
+#### Art. 12f
+
+**Peines au sens du DPMin et mesures thérapeutiques institutionnelles au sens du CP exécutables simultanément**
+
+<sup>1</sup> Si, lors de l’exécution, il y a concours de prestations personnelles au sens de l’art. 23 DPMin, ou de privations de liberté au sens de l’art. 25 DPMin, et de mesures thérapeutiques institutionnelles au sens des art. 59 à 61 CP, l’autorité compétente ordonne l’exécution des mesures thérapeutiques institutionnelles. L’exécution des peines au sens du DPMin est suspendue.
+
+<sup>2</sup> Les art. 62 à *62d* CP et 32, al. 2 et 3, DPMin s’appliquent par analogie à la fin des mesures thérapeutiques institutionnelles et à l’exécution des peines au sens du DPMin qui ont été suspendues.
+
+#### Art. 12g
+
+**Traitements ambulatoires au sens du DPMin et peines privatives de liberté au sens du CP ou traitements ambulatoires au sens du CP et privations de libertés au sens du DPMin exécutables simultanément**
+
+<sup>1</sup>
+
+Lorsque, au cours de l’exécution, il y a concours de mesures ambulatoires au sens de l’art. 14 DPMin et de peines privatives de liberté au sens du CP, les autorités compétentes:
+
+- a. assurent l’exécution simultanée des sanctions, ou
+- b. ordonnent l’exécution de la sanction la plus urgente ou la plus appropriée; l’exécution des autres sanctions est suspendue.
+
+<sup>2</sup> Lorsque, au cours de l’exécution, il y a concours de privations de liberté au sens de l’art. 25 DPMin et de traitements ambulatoires au sens de l’art. 63 CP, l’al. 1 s’applique par analogie.
+
+<sup>3</sup> Les art. 19 et 32, al. 4, DPMin et 56, al. 6, et 63*b*, al. 1, CP s’appliquent par analogie lorsqu’il y a lieu de déterminer si et dans quelle mesure les sanctions dont l’exécution a été suspendue en vertu de l’al. 1 ou 2 doivent encore être exécutées ultérieurement.
+
+#### Art. 12h
+
+**Sanctions au sens du DPMin et internement au sens du CP exécutables simultanément**
+
+<sup>1</sup> Si, lors de l’exécution, il y a concours de mesures de protection au sens des art. 12 à 15 DPMin, ou de prestations personnelles au sens de l’art. 23 DPMin, et d’un internement au sens de l’art. 64, al. 1, CP, l’exécution de l’internement précède celle des autres sanctions. L’exécution des peines au sens du DPMin est suspendue.
+
+<sup>2</sup> Le prononcé d’une mesure thérapeutique institutionnelle au sens de l’art. 65, al. 1, CP ou la libération définitive de l’internement en cas de succès de la mise à l’épreuve conformément à l’art. 64*a*, al. 5, CP met fin aux sanctions au sens du DPMin qui ont été suspendues.
+
+<sup>3</sup> Si, lors de l’exécution, il y a concours de privations de liberté au sens de l’art. 25 DPMin et d’un internement au sens de l’art. 64, al. 1, CP, l’exécution des privations de liberté précède celle de l’internement.
+
+#### Art. 12i
+
+**Placements ou peines au sens du DPMin et expulsion au sens du CP exécutables simultanément**
+
+<sup>1</sup> Si, lors de l’exécution, il y a concours de placements au sens de l’art. 15 DPMin, ou de peines au sens du DPMin, et d’une expulsion au sens de l’art. 66*a* ou 66*a**<sup>bis</sup>* CP, les placements ou les peines ou parties de peines fermes doivent être exécutés avant l’expulsion.
+
+<sup>2</sup> L’expulsion est exécutée dès que le placement est levé ou dès que la personne condamnée est libérée conditionnellement ou définitivement de l’exécution de la peine ou de la mesure, s’il n’y a pas de peine restante à exécuter et qu’aucune autre mesure de protection privative de liberté n’est ordonnée.
+
+## Section 4 Concours, lors de l’exécution, de sanctions prononcées par des autorités de différents cantons ou par différentes autorités de jugement d’un même canton
+
+[^sec4-1]
+
+[^sec4-1]: Nouvelle teneur selon le ch. I de l’O du 4 sept. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
 
 #### Art. 13
 
-**Concertation entre les cantons concernés**
+**Concertation entre les cantons ou autorités concernés**[^13-1]
+
+<sup>1</sup>
 
 Lorsque les sanctions qui sont en concours, lors de l’exécution, ont été infligées par des jugements rendus par des autorités de différents cantons, celles-ci se concertent lorsqu’il s’agit de statuer sur:
 
 - a. l’exécution des sanctions les plus urgentes ou les plus appropriées;
 - b. l’exécution simultanée de plusieurs sanctions.
 
+<sup>2</sup> Lorsque les sanctions au sens du DPMin ou du CP qui sont en concours, lors de l’exécution, ont été infligées par des jugements rendus par différentes autorités d’un même canton, l’al. 1 s’applique par analogie.
+
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du 4 sept. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
+
 #### Art. 14
 
-**Compétence**
+**Compétence en matière d’exécution en cas de concours de sanctions au sens du CP[^14-1]**
 
 Sauf convention contraire des cantons concernés quant à la compétence en matière d’exécution, est compétent:
 
 - a. pour l’exécution conjointe de peines privatives de liberté concomitantes (art. 4): le canton dont le tribunal a prononcé la sanction ou la peine d’ensemble (art. 46, al. 1, 62*a*, al. 2, et 89, al. 6, CP) la plus longue;
-- b. pour l’exécution de mesures identiques (art. 6, al. 1, et art. 8), l’exécution simultanée de mesures thérapeutiques différentes (art. 6, al. 2) ou de mesures ambulatoires et de peines privatives de liberté (art. 10, al. 1, let. a), ou l’exécution conjointe de travaux d’intérêt général (art. 11): le canton dans lequel a été prononcé le jugement entré en force en premier lieu;
-- c. en cas de concours de travaux d’intérêt général et de peines privatives de liberté (art. 12, al. 1): le canton dont le tribunal a prononcé la sanction qui est exécutoire en premier lieu;
+- b.[^14-2] pour l’exécution de mesures identiques (art. 6, al. 1, et 8), l’exécution simultanée de mesures thérapeutiques différentes (art. 6, al. 2) ou de mesures ambulatoires et de peines privatives de liberté (art. 10, al. 1, let. a): le canton dans lequel a été prononcé le jugement entré en force en premier lieu;
+- c.[^14-3] …
 - d. dans les cas visés à l’art. 6, al. 3: le canton qui est compétent pour l’exécution selon l’art. 6, al. 2;
 - e. dans les autres cas (art. 6, al. 2, art. 7, 9 et 10, al. 1, let. b): le canton dont le tribunal a prononcé les sanctions qui sont exécutoires.
+
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 4 sept. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
+[^14-2]: Nouvelle teneur selon le ch. I de l’O du 4 sept. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
+[^14-3]: Abrogée par le ch. I de l’O du 4 sept. 2024, avec effet au 1<sup>er</sup> juil. 2025 ([RO 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
 
 #### Art. 14a
 
@@ -199,11 +288,23 @@ Sauf convention contraire des cantons concernés quant à la compétence en mati
 
 <sup>1</sup> Lorsque, au cours de l’exécution, il y a concours d’une expulsion avec des peines ou des mesures entraînant une privation de liberté ordonnées par un autre canton, l’art. 66*c*, al. 2 et 3, CP s’applique.
 
-<sup>2</sup> Le canton qui a ordonné une expulsion est compétent pour l’exécution de celle-ci lorsqu’elle est concomitante d’une peine ou d’une mesure entraînant une privation de liberté ordonnée par un autre canton.
+<sup>2</sup> Le canton qui a ordonné une expulsion est compétent pour l’exécution de celle-ci lorsqu’elle est concomitante d’une peine au sens du CP ou du DPMin ou d’une mesure entraînant une privation de liberté ou de protection au sens du DPMin ordonnée par un autre canton.[^14a-2]
 
 <sup>3</sup> Le canton qui a ordonné l’expulsion qui expire en dernier, dès lors que des expulsions doivent être exécutées simultanément, est compétent pour l’exécution d’expulsions concomitantes ordonnées par différents cantons. Les cantons peuvent conclure des conventions dérogatoires.
 
 [^14a-1]: Introduit par le ch. I 9 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^14a-2]: Nouvelle teneur selon le ch. I de l’O du 4 sept. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
+
+#### Art. 14b
+
+**Coordination de l’exécution en cas de concours de sanctions au sens du DPMin et du CP**[^14b-1]
+
+Si les autorités concernées d’un même canton ou de cantons différents ne conviennent pas d’autres modalités d’exécution (art. 13) en cas de concours des sanctions ci-après, les dispositions suivantes s’appliquent:
+
+- a. en cas de concours de mesures de protection au sens du DPMin et de mesures institutionnelles au sens du CP (art. 12*d*, al. 1), la mesure entrée en force en premier est exécutée;
+- b. en cas de concours de traitements ambulatoires au sens du DPMin et de peines privatives de liberté au sens du CP ou de traitements ambulatoires au sens du CP et de privations de liberté au sens du DPMin (art. 12*g*), les sanctions sont exécutées simultanément.
+
+[^14b-1]: Introduit par le ch. I de l’O du 4 sept. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
 
 #### Art. 15
 
@@ -213,21 +314,22 @@ Le canton qui assume la responsabilité de l’exécution conjointe de sanctions
 
 #### Art. 16
 
-**Prise en charge des frais**
+**Prise en charge des frais en cas de concours de sanctions au sens du CP[^16-1]**
 
-<sup>1</sup> Les frais d’exécution des mesures, y compris de l’expulsion, sont à la charge du canton qui assume la responsabilité de cette exécution en vertu de la présente ordonnance ou d’une convention.[^16-1]
+<sup>1</sup> Les frais d’exécution des mesures, y compris de l’expulsion, sont à la charge du canton qui assume la responsabilité de cette exécution en vertu de la présente ordonnance ou d’une convention.[^16-2]
 
 <sup>2</sup> Les frais d’exécution des sanctions sont répartis au prorata entre les cantons concernés.
 
 <sup>3</sup> Les frais d’exécution de l’internement sont répartis à parts égales entre les cantons qui l’ont prononcé.
 
-[^16-1]: Nouvelle teneur selon le ch. I 9 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^16-1]: Nouvelle teneur selon le ch. I de l’O du 4 sept. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
+[^16-2]: Nouvelle teneur selon le ch. I 9 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 
 #### Art. 17
 
-**Produit des peines pécuniaires et des amendes**
+[^17-1]
 
-Lorsque, pour l’exécution conjointe de travaux d’intérêt général, il est fait application de l’art. 11, al. 2, le produit des peines pécuniaires ou des amendes est réparti au prorata entre les cantons concernés.
+[^17-1]: Abrogé par le ch. I de l’O du 4 sept. 2024, avec effet au 1<sup>er</sup> juil. 2025 ([RO 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
 
 ## Section 4*a* Début de la durée de l’expulsion
 

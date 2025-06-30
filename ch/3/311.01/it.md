@@ -4,29 +4,33 @@ title: "Ordinanza del 19 settembre 2006 sul Codice penale, sul Codice penale mil
 short: OCP-CPM-DPMin
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/693"
 language: it
-version: 2019-01-01
+version: 2025-07-01
 adopted: 2006-09-19
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/693/20190101/it/xml/fedlex-data-admin-ch-eli-cc-2006-693-20190101-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/693/20190101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/693/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2006-693-20250701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/693/20250701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza sul Codice penale e sul Codice penale militare
+# Ordinanza sul Codice penale, sul Codice penale militare e sul diritto penale minorile
 
-(OCP-CPM)
+(OCP-CPM-DPMin)[^t-1]
 
-del 19 settembre 2006 (Stato 1° gennaio 2019)
+del 19 settembre 2006 (Stato 1° luglio 2025)
+
+[^t-1]: Nuovo testo giusta la cifra I dell’O del 4 set. 2024, in vigore dal 1° lug. 2025 ([RU 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
 
 Il Consiglio federale svizzero,
 
-visto l’articolo 387 capoverso 1 lettere a, b ed e del Codice penale[^ingress-1] (CP); visti gli articoli 34*b* capoverso 1 e 47 del Codice penale militare del 13 giugno 1927[^ingress-2] (CPM),
+visto l’articolo 387 capoverso 1 lettere a, b ed e del Codice penale[^ingress-1] (CP); visto l’articolo 38 del diritto penale minorile del 20 giugno 2003[^ingress-2] (DPMin); visti gli articoli 34*b* capoverso 1 e 47 del Codice penale militare del 13 giugno 1927[^ingress-3] (CPM),[^ingress-4]
 
 ordina:
 
 [^ingress-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^ingress-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^ingress-2]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
+[^ingress-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^ingress-4]: Nuovo testo giusta la cifra I dell’O del 4 set. 2024, in vigore dal 1° lug. 2025 ([RU 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
 
 ## Sezione 1: Oggetto
 
@@ -36,12 +40,14 @@ La presente ordinanza disciplina:
 
 - a. la competenza per l’esecuzione, nonché l’assunzione delle spese in caso di pene uniche, revoca di pene sospese condizionalmente e ripristino dell’esecuzione;
 - b. il concorso di più sanzioni secondo il CP;
+- b<sup>bis</sup>.[^1-1] il concorso di sanzioni secondo il DPMin e il CP;
 - c. il concorso, nell’ambito dell’esecuzione, di sanzioni pronunciate in diversi Cantoni;
-- c<sup>bis</sup>.[^1-1] l’inizio della durata dell’espulsione;
+- c<sup>bis</sup>.[^1-2] l’inizio della durata dell’espulsione;
 - d. le misure da prendere in caso di divieti di condurre, nonché l’ammontare e l’impiego della retribuzione dei detenuti;
 - e. l’applicazione per analogia delle disposizioni della presente ordinanza all’esecuzione di sentenze dei tribunali militari o del Tribunale penale federale.
 
-[^1-1]: Introdotta dalla cifra I n. 9 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^1-1]: Introdotta dalla cifra I dell’O del 4 set. 2024, in vigore dal 1° lug. 2025 ([RU 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
+[^1-2]: Introdotta dalla cifra I n. 9 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 
 ## Sezione 2: Pene uniche, revoca di pene sospese condizionalmente e ripristino dell’esecuzione: competenza per l’esecuzione e assunzione delle spese
 
@@ -57,7 +63,7 @@ La presente ordinanza disciplina:
 
 **Revoca della sospensione condizionale e ripristino dell’esecuzione**
 
-<sup>1</sup> Se viene revocata la sospensione condizionale di una pena (pena pecuniaria, lavoro di pubblica utilità o pena detentiva) senza che venga pronunciata una pena unica secondo l’articolo 46 capoverso 1 CP, l’esecuzione della pena compete al Cantone il cui giudice l’ha ordinata.
+<sup>1</sup> Se viene revocata la sospensione condizionale di una pena pecuniaria o di una pena detentiva senza che venga pronunciata una pena unica secondo l’articolo 46 capoverso 1 CP, l’esecuzione della pena compete al Cantone il cui giudice l’ha ordinata.[^3-1]
 
 <sup>2</sup> Se è disposto il ripristino dell’esecuzione dopo la liberazione condizionale senza che venga pronunciata una pena unica secondo l’articolo 89 capoverso 6 CP, l’esecuzione della pena residua compete al Cantone che ha eseguito la pena detentiva sino al momento della liberazione condizionale.
 
@@ -65,13 +71,21 @@ La presente ordinanza disciplina:
 
 <sup>4</sup> Le spese d’esecuzione sono ripartite proporzionalmente tra i Cantoni interessati.
 
-## Sezione 3: Concorso di più sanzioni nell’ambito dell’esecuzione
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 4 set. 2024, in vigore dal 1° lug. 2025 ([RU 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
+
+## Sezione 3: Concorso, nell’ambito dell’esecuzione, di più sanzioni a tenore del Codice penale
+
+[^sec3-1]
+
+[^sec3-1]: Nuovo testo giusta la cifra I dell’O del 4 set. 2024, in vigore dal 1° lug. 2025 ([RU 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
 
 #### Art. 4
 
-**Pene detentive eseguibili simultaneamente**
+**Pene detentive eseguibili simultaneamente**[^4-1]
 
-Se nell’esecuzione vi è concorso di più pene detentive, le pene sono eseguite congiuntamente conformemente agli articoli 76–79 CP, secondo la loro durata totale.
+Se nell’esecuzione vi è concorso di più pene detentive, le pene sono eseguite congiuntamente conformemente agli articoli 74–89 CP, secondo la loro durata totale.
+
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 4 set. 2024, in vigore dal 1° lug. 2025 ([RU 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
 
 #### Art. 5
 
@@ -136,21 +150,11 @@ Se nell’esecuzione vi è concorso di misure ambulatoriali a tenore dell’arti
 
 <sup>2</sup> Il giudice che ha ordinato la misura o pena detentiva eseguita decide se e in qual misura le misure o pene detentive differite giusta il capoverso 1 lettera b sono ancora eseguite successivamente.
 
-#### Art. 11
+#### Art. 11 e 12
 
-**Lavori di pubblica utilità eseguibili simultaneamente**
+[^1112-1]
 
-<sup>1</sup> Se nell’esecuzione vi è concorso di più lavori di pubblica utilità, tali lavori sono eseguiti congiuntamente. L’autorità d’esecuzione può prorogare in maniera adeguata i termini di cui agli articoli 38 o 107 capoverso 2 CP se complessivamente deve essere prestato un lavoro di pubblica utilità rispettivamente di oltre 720 o 360 ore.
-
-<sup>2</sup> Il giudice che ha ordinato il lavoro di pubblica utilità passato in giudicato per primo decide in merito alla commutazione successiva del lavoro di pubblica utilità in pena pecuniaria o detentiva secondo l’articolo 39 CP o all’esazione della multa secondo l’articolo 107 capoverso 3 CP.
-
-#### Art. 12
-
-**Lavoro di pubblica utilità e sanzioni privative della libertà eseguibili simultaneamente**
-
-<sup>1</sup> Se nell’esecuzione vi è concorso di lavori di pubblica utilità con pene detentive, l’autorità competente esegue prima la pena più urgente o più appropriata.
-
-<sup>2</sup> Se nell’esecuzione vi è concorso di lavori di pubblica utilità con misure stazionarie a tenore degli articoli 59–61 CP o con tali misure e pene detentive, le misure sono eseguite prima delle pene. L’articolo 9 capoverso 1 si applica per analogia.
+[^1112-1]: Introdotto dalla cifra I n. 9 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 
 #### Art. 12a
 
@@ -160,7 +164,7 @@ Se nell’esecuzione vi è concorso di misure ambulatoriali a tenore dell’arti
 
 <sup>2</sup> Se un’espulsione obbligatoria e una non obbligatoria sono eseguite simultaneamente, la sospensione dell’esecuzione è retta dall’articolo 66*d* CP.
 
-[^12a-1]: Introdotto dalla cifra I n. 9 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^12a-1]: Abrogati dalla cifra I dell’O del 4 set. 2024, con effetto dal 1° lug. 2025 ([RU 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489))
 
 #### Art. 12b
 
@@ -170,28 +174,113 @@ All’esecuzione di un’espulsione in concorso con pene o misure privative dell
 
 [^12b-1]: Introdotto dalla cifra I n. 9 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 
-## Sezione 4: Concorso, nell’ambito dell’esecuzione, di sanzioni pronunciate in diversi Cantoni
+## Sezione 3*a*: Concorso, nell’ambito dell’esecuzione, di sanzioni a tenore del diritto penale minorile e del Codice penale
+
+[^sec3a-1]
+
+[^sec3a-1]: Introdotta dalla cifra I dell’O del 4 set. 2024, in vigore dal 1° lug. 2025 ([RU 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
+
+#### Art. 12c
+
+**Pene del DPMin e pene detentive del CP eseguibili simultaneamente**
+
+Se nell’esecuzione vi è concorso di prestazioni personali a tenore dell’articolo 23 DPMin o di privazioni della libertà a tenore dell’articolo 25 DPMin con pene detentive a tenore dell’articolo 40 CP, le pene sono eseguite consecutivamente.
+
+#### Art. 12d
+
+**Misure protettive del DPMin e misure terapeutiche del CP eseguibili simultaneamente**
+
+<sup>1</sup> Se nell’esecuzione vi è concorso di misure protettive a tenore degli articoli 12–15 DPMin con misure terapeutiche a tenore degli articoli 59–61 e 63 CP, l’autorità com-petente esegue la misura protettiva o terapeutica più urgente o più appropriata. L’esecuzione delle altre misure è differita.
+
+<sup>2</sup> Se, nel corso dell’esecuzione secondo il capoverso 1, le misure protettive o terapeu-tiche differite si rivelano più urgenti o più appropriate, le autorità competenti ne ordinano l’esecuzione in vece delle misure protettive o terapeutiche precedentemente disposte.
+
+<sup>3</sup> Gli articoli 19 e 32 capoversi 2 e 3 DPMin nonché 62–62*d*, 63*a* e 63*b* CP si applicano per analogia alla conclusione delle misure eseguite e all’esecuzione delle misure differite.
+
+#### Art. 12e
+
+**Collocamenti del DPMin e pene detentive del CP eseguibili simultaneamente**
+
+<sup>1</sup> Se nell’esecuzione vi è concorso di collocamenti a tenore dell’articolo 15 DPMin con pene detentive a tenore del CP, i collocamenti sono eseguiti prima delle pene detentive. L’esecuzione delle pene detentive è differita.
+
+<sup>2</sup> Gli articoli 19 e 32 capoversi 2 e 3 DPMin nonché 62*b* capoverso 3 e 62*c* capoverso 2 CP si applicano per analogia alla conclusione dei collocamenti e all’esecuzione delle pene detentive differite.
+
+#### Art. 12f
+
+**Pene del DPMin e misure terapeutiche stazionarie del CP eseguibili simultaneamente**
+
+<sup>1</sup> Se nell’esecuzione vi è concorso di prestazioni personali a tenore dell’articolo 23 DPMin o di privazioni della libertà a tenore dell’articolo 25 DPMin con misure terapeutiche stazionarie a tenore degli articoli 59–61 CP, l’autorità competente esegue le misure terapeutiche stazionarie. L’esecuzione delle pene minorili è differita.
+
+<sup>2</sup> Gli articoli 62–62*d* CP e l’articolo 32 capoversi 2 e 3 DPMin si applicano per analogia alla conclusione delle misure terapeutiche stazionarie e all’esecuzione delle pene minorili differite.
+
+#### Art. 12g
+
+**Trattamenti ambulatoriali del DPMin e pene detentive del CP eseguibili simultaneamente o trattamenti ambulatoriali del CP e privazioni della libertà del DPMin eseguibili simultaneamente**
+
+<sup>1</sup>
+
+Se nell’esecuzione vi è concorso di trattamenti ambulatoriali a tenore dell’articolo 14 DPMin con pene detentive a tenore del CP, le autorità competenti eseguono:
+
+- a. le sanzioni simultaneamente; o
+- b. la sanzione più urgente o più appropriata; l’esecuzione delle altre sanzioni è differita.
+
+<sup>2</sup> Se vi è concorso di privazioni della libertà a tenore dell’articolo 25 DPMin con trattamenti ambulatoriali a tenore dell’articolo 63 CP, il capoverso 1 si applica per analogia.
+
+<sup>3</sup> Gli articoli 19 e 32 capoverso 4 DPMin nonché 56 capoverso 6 e 63*b* capoverso 1 CP si applicano per analogia quando occorre stabilire se e in quale misura le sanzioni differite giusta il capoverso 1 o 2 vadano ancora eseguite successivamente.
+
+#### Art. 12h
+
+**Sanzioni del DPMin e internamenti del CP eseguibili simultaneamente**
+
+<sup>1</sup> Se nell’esecuzione vi è concorso di misure protettive a tenore degli articoli 12–15 DPMin o di prestazioni personali a tenore dell’articolo 23 DPMin con un internamento a tenore dell’articolo 64 capoverso 1 CP, l’internamento va eseguito prima delle altre sanzioni. L’esecuzione delle sanzioni per minori è differita.
+
+<sup>2</sup> Una misura terapeutica stazionaria a tenore dell’articolo 65 capoverso 1 CP o la liberazione definitiva dall’internamento grazie al superamento con successo del periodo di prova secondo l’articolo 64*a* capoverso 5 CP comporta la soppressione delle sanzioni differite secondo il DPMin.
+
+<sup>3</sup> Se nell’esecuzione vi è concorso di privazioni della libertà a tenore dell’articolo 25 DPMin con un internamento a tenore dell’articolo 64 capoverso 1 CP, le privazioni della libertà vanno eseguite prima dell’internamento.
+
+#### Art. 12i
+
+**Collocamenti o pene del DPMin ed espulsioni del CP eseguibili simultaneamente**
+
+<sup>1</sup> Se nell’esecuzione vi è concorso di collocamenti a tenore dell’articolo 15 DPMin o di pene a tenore del DPMin con un’espulsione a tenore degli articoli 66*a* o 66*a*<sup>bis</sup> CP, i collocamenti e le pene o le parti delle pene senza condizionale vanno eseguite prima dell’espulsione.
+
+<sup>2</sup> L’espulsione è eseguita non appena il collocamento sia soppresso oppure il condannato sia liberato condizionalmente o definitivamente dall’esecuzione della pena o della misura, se non deve essere eseguita una pena residua o se non è ordinata un’altra misura protettiva.
+
+## Sezione 4: Concorso, nell’ambito dell’esecuzione, di sanzioni pronunciate in diversi Cantoni o di sanzioni pronunciate da diverse autorità giudicanti dello stesso Cantone
+
+[^sec4-1]
+
+[^sec4-1]: Nuovo testo giusta la cifra I dell’O del 4 set. 2024, in vigore dal 1° lug. 2025 ([RU 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
 
 #### Art. 13
 
-**Accordo tra i Cantoni interessati**
+**Accordo tra i Cantoni o le autorità interessati**[^13-1]
 
-Se nell’esecuzione vi è concorso di più sanzioni ordinate da sentenze pronunciate in Cantoni diversi, le autorità competenti dei Cantoni interessati si accordano tra loro, qualora occorra decidere in merito a:
+<sup>1</sup>
+
+Se nell’esecuzione vi è concorso di sanzioni ordinate da sentenze pronunciate in Cantoni diversi, le autorità competenti dei Cantoni interessati si accordano tra loro, se occorre decidere in merito a:
 
 - a. l’esecuzione delle sanzioni più urgenti o più appropriate;
 - b. l’esecuzione simultanea di sanzioni.
 
+<sup>2</sup> Se nell’esecuzione vi è concorso di più sanzioni del DPMin e del CP ordinate da autorità diverse dello stesso Cantone, il capoverso 1 si applica per analogia.
+
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 4 set. 2024, in vigore dal 1° lug. 2025 ([RU 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
+
 #### Art. 14
 
-**Competenza**
+**Competenza per l’esecuzione in caso di concorso di sanzioni del CP[^14-1]**
 
 Se i Cantoni interessati non convengono altrimenti per quanto concerne la competenza per l’esecuzione, è competente:
 
 - a. per l’esecuzione congiunta di pene detentive in concorso tra loro (art. 4): il Cantone il cui giudice ha inflitto la pena singola o unica più lunga (art. 46 cpv. 1, 62*a* cpv. 2 e 89 cpv. 6 CP);
-- b. per l’esecuzione di misure identiche (art. 6 cpv. 1 e art. 8), l’esecuzione simultanea di misure terapeutiche diverse (art. 6 cpv. 2) o di misure ambulatoriali e pene detentive (art. 10 cpv. 1 lett. a) o l’esecuzione congiunta di lavori di pubblica utilità (art. 11): il Cantone in cui è stata pronunciata la sentenza passata in giudicato per prima;
-- c. in caso di concorso di lavori di pubblica utilità con pene detentive (art. 12 cpv. 1): il Cantone il cui giudice ha inflitto la sanzione che giunge ad esecuzione per prima;
+- b.[^14-2] per l’esecuzione di misure identiche (art. 6 cpv. 1 e art. 8), l’esecuzione simultanea di misure terapeutiche diverse (art. 6 cpv. 2) o di misure ambulato-riali e pene detentive (art. 10 cpv. 1 lett. a): il Cantone in cui è stata pronunciata la sentenza passata in giudicato per prima;
+- c.[^14-3] *...*
 - d. nei casi di cui all’articolo 6 capoverso 3: il Cantone cui compete l’esecuzione secondo l’articolo 6 capoverso 2;
 - e. nei casi restanti (art. 6 cpv. 2, art. 7, 9 e 10 cpv. 1 lett. b): il Cantone il cui giudice ha inflitto le sanzioni che giungono ad esecuzione.
+
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 4 set. 2024, in vigore dal 1° lug. 2025 ([RU 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
+[^14-2]: Nuovo testo giusta la cifra I dell’O del 4 set. 2024, in vigore dal 1° lug. 2025 ([RU 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
+[^14-3]: Abrogata dalla cifra I dell’O del 4 set. 2024, con effetto dal 1° lug. 2025 ([RU 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
 
 #### Art. 14a
 
@@ -199,11 +288,23 @@ Se i Cantoni interessati non convengono altrimenti per quanto concerne la compet
 
 <sup>1</sup> All’esecuzione di un’espulsione in concorso con pene o misure privative della libertà pronunciate in un altro Cantone si applica l’articolo 66*c* capoversi 2 e 3 CP.
 
-<sup>2</sup> Per l’esecuzione di un’espulsione in concorso con una pena o una misura privativa della libertà pronunciata in un altro Cantone è competente il Cantone in cui è stata pronunciata l’espulsione.
+<sup>2</sup> Per l’esecuzione di un’espulsione in concorso con una pena a tenore del CP o del DPMin oppure con una misura privativa della libertà o una misura protettiva a tenore del DPMin pronunciata in un altro Cantone è competente il Cantone in cui è stata pronunciata l’espulsione.[^14a-2]
 
 <sup>3</sup> Per l’esecuzione simultanea di espulsioni concorrenti pronunciate in diversi Cantoni è competente il Cantone in cui è stata pronunciata l’espulsione che termina per ultima. I Cantoni possono convenire altrimenti.
 
 [^14a-1]: Introdotto dalla cifra I n. 9 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^14a-2]: Nuovo testo giusta la cifra I dell’O del 4 set. 2024, in vigore dal 1° lug. 2025 ([RU 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
+
+#### Art. 14b
+
+**Coordinamento dell’esecuzione in caso di concorso di sanzioni del DPMin e del CP**[^14b-1]
+
+Se le autorità interessate dello stesso Cantone o di Cantoni diversi non convengono altrimenti per quanto concerne l’esecuzione delle seguenti sanzioni in concorso tra loro (art. 13), vale quanto segue:
+
+- a. in caso di concorso di misure protettive a tenore del DPMin e di misure stazionarie a tenore del CP (art. 12*d* cpv. 1), è eseguita la misura che per prima è passata in giudicato;
+- b. in caso di concorso di trattamenti ambulatoriali a tenore del DPMin e di pene detentive a tenore del CP o trattamenti ambulatoriali a tenore del CP e privazioni della libertà a tenore del DPMin (art. 12*g*), le sanzioni sono eseguite simultaneamente.
+
+[^14b-1]: Introdotto dalla cifra I dell’O del 4 set. 2024, in vigore dal 1° lug. 2025 ([RU 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
 
 #### Art. 15
 
@@ -213,21 +314,22 @@ Al Cantone cui incombe l’esecuzione congiunta delle sanzioni spettano le compe
 
 #### Art. 16
 
-**Assunzione delle spese**
+**Assunzione delle spese di esecuzione in caso di concorso di sanzioni del CP[^16-1]**
 
-<sup>1</sup> Le spese d’esecuzione delle misure, compresa l’esecuzione dell’espulsione, sono assunte dal Cantone cui compete l’esecuzione in virtù della presente ordinanza o di una convenzione.[^16-1]
+<sup>1</sup> Le spese d’esecuzione delle misure, compresa l’esecuzione dell’espulsione, sono assunte dal Cantone cui compete l’esecuzione in virtù della presente ordinanza o di una convenzione.[^16-2]
 
 <sup>2</sup> Le spese d’esecuzione delle pene sono ripartite proporzionalmente tra i Cantoni interessati.
 
 <sup>3</sup> Le spese per l’esecuzione congiunta dell’internamento sono assunte in parti uguali dai Cantoni interessati.
 
-[^16-1]: Nuovo testo giusta la cifra I n. 9 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 4 set. 2024, in vigore dal 1° lug. 2025 ([RU 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
+[^16-2]: Nuovo testo giusta la cifra I n. 9 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 
 #### Art. 17
 
-**Proventi da pene pecuniarie e multe**
+[^17-1]
 
-Se nell’ambito dell’esecuzione congiunta di lavori di pubblica utilità è applicato l’articolo 11 capoverso 2, i proventi delle pene pecuniarie o delle multe sono ripartiti proporzionalmente tra i Cantoni interessati.
+[^17-1]: Abrogato dalla cifra I dell’O del 4 set. 2024, con effetto dal 1° lug. 2025 ([RU 2024 489](https://fedlex.data.admin.ch/eli/oc/2024/489)).
 
 ## Sezione 4*a*: Inizio della durata dell’espulsione
 
@@ -256,8 +358,8 @@ L’autorità competente:
 - c.[^18-3] trasmette al sistema d’informazione sull’ammissione alla circolazione i dati relativi al divieto di condurre.
 
 [^18-1]: [RS 741.58](https://fedlex.data.admin.ch/eli/cc/2018/783)
-[^18-2]: Nuovo testo giusta la cifra II n. 1 dell’all. all’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
-[^18-3]: Nuovo testo giusta la cifra II n. 1 dell’all. all’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^18-2]: Nuovo testo giusta la cifra II 1 dell’all. all’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^18-3]: Nuovo testo giusta la cifra II 1 dell’all. all’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 
 #### Art. 19
 
@@ -281,7 +383,7 @@ La presente ordinanza si applica per analogia all’esecuzione di sanzioni dispo
 <sup>3</sup> Sono fatte salve normative speciali in altri atti federali concernenti l’indennizzo dei Cantoni per tale esecuzione.
 
 [^20-1]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
-[^20-2]: [CS **3** 286; [RU 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)cifra III n. 4, [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)all. n. 2, [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 n. 4, [1979 1170](https://fedlex.data.admin.ch/eli/oc/1979/1170_1170_1170), [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 15 [2465](https://fedlex.data.admin.ch/eli/oc/1992/2465_2465_2465)all. n. 2, [1993 1993](https://fedlex.data.admin.ch/eli/oc/1993/1993_1993_1993), [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 7, [2000 505](https://fedlex.data.admin.ch/eli/oc/2000/95)cifra I n. 3 [2719](https://fedlex.data.admin.ch/eli/oc/2000/453)cifra II n. 3 [2725](https://fedlex.data.admin.ch/eli/oc/2000/454)cifra II, [2001 118](https://fedlex.data.admin.ch/eli/oc/2001/22)cifra I n. 3 [3071](https://fedlex.data.admin.ch/eli/oc/2001/459)cifra II n. 1 [3096](https://fedlex.data.admin.ch/eli/oc/2001/467)all. n. 2 [3308](https://fedlex.data.admin.ch/eli/oc/2001/492), [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)all. n. 9, [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)cifra I n. 4, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)all. n. 19, [2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)all. n. 10, [2007 6087](https://fedlex.data.admin.ch/eli/oc/2007/811), [2008 1607](https://fedlex.data.admin.ch/eli/oc/2008/232)all. n. 1 [4989](https://fedlex.data.admin.ch/eli/oc/2008/698)all. 1 n. 6 [5463](https://fedlex.data.admin.ch/eli/oc/2008/759)all. n. 3, [2009 6605](https://fedlex.data.admin.ch/eli/oc/2009/821)all. cifra II n. 3. [RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)all. 1 n. I 1]. Vedi ora il Codice di procedura penale del 5 ott.. 2007 ([RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)).
+[^20-2]: [CS **3** 286; [RU 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)cifra III n. 4; [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)all. n. 2; [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 n. 4; [1979 1170](https://fedlex.data.admin.ch/eli/oc/1979/1170_1170_1170); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 15, [2465](https://fedlex.data.admin.ch/eli/oc/1992/2465_2465_2465)all. n. 2; [1993 1993](https://fedlex.data.admin.ch/eli/oc/1993/1993_1993_1993); [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 7; [2000 505](https://fedlex.data.admin.ch/eli/oc/2000/95)cifra I n. 3, [2719](https://fedlex.data.admin.ch/eli/oc/2000/453)cifra II n. 3, [2725](https://fedlex.data.admin.ch/eli/oc/2000/454)cifra II; [2001 118](https://fedlex.data.admin.ch/eli/oc/2001/22)cifra I n. 3, [3071](https://fedlex.data.admin.ch/eli/oc/2001/459)cifra II n. 1, [3096](https://fedlex.data.admin.ch/eli/oc/2001/467)all. n. 2, [3308](https://fedlex.data.admin.ch/eli/oc/2001/492); [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)all. n. 9; [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)cifra I n. 4; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)all. n. 19; [2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)all. n. 10; [2007 6087](https://fedlex.data.admin.ch/eli/oc/2007/811); [2008 1607](https://fedlex.data.admin.ch/eli/oc/2008/232)all. n. 1, [4989](https://fedlex.data.admin.ch/eli/oc/2008/698)all. 1 n. 6, [5463](https://fedlex.data.admin.ch/eli/oc/2008/759)all. n. 3; [2009 6605](https://fedlex.data.admin.ch/eli/oc/2009/821)all. cifra II n. 3. [RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)all. 1 cifra I n. 1]. Vedi ora il Codice di procedura penale del 5 ott. 2007 ([RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)).
 
 ## Sezione 7: Disposizioni finali
 
@@ -295,9 +397,9 @@ Le seguenti ordinanze sono abrogate:
 - 2\. ordinanza (2) del 6 dicembre 1982[^21-2] sul Codice penale svizzero (OCP 2);
 - 3\. ordinanza (3) del 16 dicembre 1985[^21-3] sul Codice penale svizzero (OCP 3).
 
-[^21-1]: [[RU 1973 1841](https://fedlex.data.admin.ch/eli/oc/1973/1841_1841_1841), [1983 1616](https://fedlex.data.admin.ch/eli/oc/1983/1616_1616_1616), [1990 518](https://fedlex.data.admin.ch/eli/oc/1990/518_518_518)]
+[^21-1]: [[RU 1973 1841](https://fedlex.data.admin.ch/eli/oc/1973/1841_1841_1841); [1983 1616](https://fedlex.data.admin.ch/eli/oc/1983/1616_1616_1616); [1990 518](https://fedlex.data.admin.ch/eli/oc/1990/518_518_518)]
 [^21-2]: [[RU 1982 2237](https://fedlex.data.admin.ch/eli/oc/1982/2237_2237_2237)]
-[^21-3]: [[RU 1985 1941](https://fedlex.data.admin.ch/eli/oc/1985/1941_1941_1941), [1990 519](https://fedlex.data.admin.ch/eli/oc/1990/519_519_519), [1995 5273](https://fedlex.data.admin.ch/eli/oc/1995/5273_5273_5273), [1998 882](https://fedlex.data.admin.ch/eli/oc/1998/882_882_882), [2001 3307](https://fedlex.data.admin.ch/eli/oc/2001/491)]
+[^21-3]: [[RU 1985 1941](https://fedlex.data.admin.ch/eli/oc/1985/1941_1941_1941); [1990 519](https://fedlex.data.admin.ch/eli/oc/1990/519_519_519); [1995 5273](https://fedlex.data.admin.ch/eli/oc/1995/5273_5273_5273); [1998 882](https://fedlex.data.admin.ch/eli/oc/1998/882_882_882); [2001 3307](https://fedlex.data.admin.ch/eli/oc/2001/491)]
 
 #### Art. 22
 
