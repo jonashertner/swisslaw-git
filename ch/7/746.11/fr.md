@@ -4,11 +4,11 @@ title: "Ordonnance du 26 juin 2019 sur les installations de transport par condui
 short: OITC
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/413"
 language: fr
-version: 2024-01-01
+version: 2025-07-01
 adopted: 2019-06-26
 in_force: 2019-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/413/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2019-413-20240101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/413/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2019-413-20250701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20240101/fr"
 
 (Ordonnance sur les installations de transport par conduites, OITC)
 
-du 26 juin 2019 (État le 1<sup>er</sup> janvier 2024)
+du 26 juin 2019 (État le 1<sup>er</sup> juillet 2025)
 
 Le Conseil fédéral suisse,
 
@@ -54,11 +54,23 @@ La présente ordonnance s’applique intégralement:
 
 #### Art. 3
 
-**Conduites visées à l’art. 1, al. 2, let. a, LITC**
+**Conduites visées à l’art. 1, al. 2, let. a, LITC**[^3-1]
 
-<sup>1</sup> Les conduites visées à l’art. 1, al. 2, let. a, LITC sont des installations dans lesquelles la pression de service maximale admissible est supérieure à 5 bar et dont le diamètre extérieur dépasse 6 cm; les indications de pression se réfèrent à la surpression.
+Les conduites visées à l’art. 1, al. 2, let. a, LITC sont:
 
-<sup>2</sup> Dans le cas des conduites destinées au transport de combustibles ou de carburants liquides, la pression de service maximale admissible conformément à l’al. 1 correspond à la pression maximale possible, y compris les coups de bélier.
+- a. les oléoducs et les gazoducs dans lesquels la pression de service maximale admissible est supérieure à 5 bar et dont le diamètre extérieur dépasse 6 cm;
+- b.
+
+  les hydrogénoducs qui répondent aux conditions suivantes:
+
+  - 1\. leur pression de service maximale admissible est supérieure à 30 bar et leur diamètre extérieur dépasse 6 cm,
+  - 2\. leur pression de service maximale admissible est supérieure à 5 bar et inférieure ou égale à 30 bar et leur diamètre extérieur dépasse 12 cm.
+
+<sup>2</sup> Les indications de pression se réfèrent à la surpression.
+
+<sup>3</sup> Dans le cas des conduites destinées au transport de combustibles ou de carburants liquides, la pression de service maximale admissible conformément à l’al. 1 correspond à la pression maximale possible, y compris les coups de bélier.
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 385](https://fedlex.data.admin.ch/eli/oc/2025/385)).
 
 #### Art. 4
 
@@ -136,12 +148,13 @@ Le rapport technique comprend notamment:
 - d. une description du projet;
 - e. les données techniques des installations de transports par conduites;
 - f. une description du système de protection cathodique;
-- g. une demande et une justification en cas de dérogations en vertu de l’art. 6 de l’ordonnance du 4 avril 2007 concernant les prescriptions de sécurité pour les installations de transport par conduites (OSITC)[^9-1];
+- g.[^9-1] une demande et une justification en cas de dérogations en vertu de l’art. 5 de l’ordonnance du 4 juin 2021 sur la sécurité des installations de transport par conduites (OSITC)[^9-2];
 - h. le calendrier des travaux;
 - i. une description des équipements de télécommunication, de télécommande et de surveillance;
 - j. les mesures à prendre au vu des risques encourus par l’installation au sens de l’art. 10, let. g.
 
-[^9-1]: [RS 746.12](https://fedlex.data.admin.ch/eli/cc/2021/348)
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 385](https://fedlex.data.admin.ch/eli/oc/2025/385)).
+[^9-2]: [RS 746.12](https://fedlex.data.admin.ch/eli/cc/2021/348)
 
 #### Art. 10
 
@@ -379,7 +392,7 @@ Sont considérées comme des modifications techniques mineures:
 
 <sup>2</sup>
 
-Le règlement d’exploitation comprend notamment les informations suivantes sur l’organisation de l’entreprise:
+Il comprend notamment les informations suivantes sur l’organisation de l’entreprise[^26-1]:
 
 - a. l’organigramme;
 - b. les compétences et les responsabilités pour chaque partie de l’installation;
@@ -394,8 +407,8 @@ Il comprend notamment les informations suivantes sur l’exploitation de l’ins
 - b. l’exploitation et la maintenance des stations et des différentes parties de la conduite;
 - c. le cahier des charges pour le contrôle et l’entretien des stations et des conduites;
 - d. l’information des propriétaires fonciers et des communes concernés;
-- e.[^26-1] l’organisation de la réparation des dommages;
-- f. [^26-2] …
+- e.[^26-2] l’organisation de la réparation des dommages;
+- f. [^26-3] …
 - g. le déroulement des travaux de construction effectués par des tiers;
 - h. la liste du matériel de réparation.
 
@@ -409,9 +422,13 @@ Il comprend notamment les informations suivantes sur l’installation de transpo
 - d. la liste des règles spéciales d’exploitation;
 - e. les prescriptions relatives au contrôle et à la maintenance des conduites, du tracé et des installations annexes;
 - f. les prescriptions de sécurité relatives à l’exploitation et à la maintenance de l’installation.
+- g.[^26-4] la documentation des mesures prises pour protéger les installations de transport par conduites contre les cybermenaces (art. 39*a* OSITC[^26-5]).
 
-[^26-1]: Nouvelle teneur selon l’annexe 2 ch. 3 de l’O du 4 juin 2021 concernant les prescriptions de sécurité pour les installations de transport par conduites, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
-[^26-2]: Abrogée par l’annexe 2 ch. 3 de l’O du 4 juin 2021 concernant les prescriptions de sécurité pour les installations de transport par conduites, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
+[^26-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 385](https://fedlex.data.admin.ch/eli/oc/2025/385)).
+[^26-2]: Nouvelle teneur selon l’annexe 2 ch. 3 de l’O du 4 juin 2021 concernant les prescriptions de sécurité pour les installations de transport par conduites, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
+[^26-3]: Abrogée par l’annexe 2 ch. 3 de l’O du 4 juin 2021 concernant les prescriptions de sécurité pour les installations de transport par conduites, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
+[^26-4]: Introduite par le ch. I de l’O du 21 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 385](https://fedlex.data.admin.ch/eli/oc/2025/385)).
+[^26-5]: [RS 746.12](https://fedlex.data.admin.ch/eli/cc/2021/348)
 
 #### Art. 27
 

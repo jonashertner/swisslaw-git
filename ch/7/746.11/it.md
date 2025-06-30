@@ -4,11 +4,11 @@ title: "Ordinanza del 26 giugno 2019 sugli impianti di trasporto in condotta di 
 short: OITC
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/413"
 language: it
-version: 2024-01-01
+version: 2025-07-01
 adopted: 2019-06-26
 in_force: 2019-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/413/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2019-413-20240101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/413/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2019-413-20250701-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20250701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20240101/it"
 
 (Ordinanza sugli impianti di trasporto in condotta, OITC)
 
-del 26 giugno 2019 (Stato 1° gennaio 2024)
+del 26 giugno 2019 (Stato 1° luglio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -35,7 +35,7 @@ ordina:
 
 La presente ordinanza disciplina la costruzione e l’esercizio di impianti di condotte destinati al trasporto di combustibili e carburanti liquidi o gassosi, idrocarburi o miscele di idrocarburi come petrolio greggio, gas naturale, gas di raffineria, distillati del petrolio greggio o residui liquidi provenienti dalla distillazione del petrolio greggio, e di impianti di condotte destinati al trasporto di idrogeno.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 24 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 276](https://fedlex.data.admin.ch/eli/oc/2023/276)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 24 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 276](https://fedlex.data.admin.ch/eli/oc/2023/276)).
 
 #### Art. 2
 
@@ -54,11 +54,25 @@ La presente ordinanza si applica interamente a:
 
 #### Art. 3
 
-**Impianti di trasporto in condotta secondo l’articolo 1 capoverso 2 lettera a LITC**
+**Impianti di trasporto in condotta secondo l’articolo 1 capoverso 2 lettera a LITC**[^3-1]
 
-<sup>1</sup> Sono considerati impianti di trasporto in condotta secondo l’articolo 1 capoverso 2 lettera a LITC gli impianti con una pressione d’esercizio massima autorizzata superiore a 5 bar e un diametro esterno superiore a 6 cm; i valori di pressione indicati vanno intesi quali sovrappressione.
+<sup>1</sup>
 
-<sup>2</sup> Per le condotte destinate al trasporto di combustibili o carburanti liquidi la pressione d’esercizio massima autorizzata secondo il capoverso 1 corrisponde alla pressione massima possibile, inclusi i colpi d’ariete.
+Sono considerati impianti di trasporto in condotta secondo l’articolo 1 capoverso 2 lettera a LITC:
+
+- a. gli oleodotti e i gasdotti con una pressione d’esercizio massima autorizzata superiore a 5 bar e un diametro esterno superiore a 6 cm;
+- b.
+
+  gli idrogenodotti:
+
+  - 1\. con una pressione d’esercizio massima autorizzata superiore a 30 bar e un diametro esterno superiore a 6 cm;
+  - 2\. con una pressione d’esercizio massima autorizzata superiore a 5 bar ma inferiore o uguale a 30 bar e un diametro esterno superiore a 12 cm.
+
+<sup>2</sup> I valori di pressione indicati vanno intesi come valori di sovrappressione.
+
+<sup>3</sup> Per le condotte destinate al trasporto di combustibili o carburanti liquidi la pressione d’esercizio massima autorizzata secondo il capoverso 1 corrisponde alla pressione massima possibile, inclusi i colpi d’ariete.
+
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 385](https://fedlex.data.admin.ch/eli/oc/2025/385)).
 
 #### Art. 4
 
@@ -136,12 +150,13 @@ Il rapporto tecnico comprende in particolare:
 - d. la descrizione del progetto;
 - e. i dati tecnici dell’impianto di trasporto in condotta;
 - f. il progetto di protezione catodica;
-- g. la richiesta e la motivazione di deroghe ai sensi dell’articolo 6 dell’ordinanza del 4 aprile 2007[^9-1] sulle prescrizioni di sicurezza per gli impianti di trasporto in condotta (OSITC);
+- g.[^9-1] la richiesta e la motivazione di deroghe ai sensi dell’articolo 5 dell’ordinanza del 4 giugno 2021[^9-2] sulla sicurezza degli impianti di trasporto in condotta (OSITC);
 - h. lo scadenzario dei lavori;
 - i. il piano dell’impianto di teletrasmissione, del dispositivo di comando a distanza e dei dispositivi di sorveglianza;
 - j. le misure in caso di pericoli per l’impianto secondo l’articolo 10 lettera g.
 
-[^9-1]: [RS 746.12](https://fedlex.data.admin.ch/eli/cc/2021/348)
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 385](https://fedlex.data.admin.ch/eli/oc/2025/385)).
+[^9-2]: [RS 746.12](https://fedlex.data.admin.ch/eli/cc/2021/348)
 
 #### Art. 10
 
@@ -379,7 +394,7 @@ Sono considerate modifiche tecniche esigue:
 
 <sup>2</sup>
 
-Il regolamento d’esercizio comprende in particolare le seguenti indicazioni sull’organizzazione dell’impresa:
+Comprende in particolare le seguenti indicazioni sull’organizzazione dell’impresa:[^26-1]
 
 - a. l’organigramma;
 - b. le competenze e le responsabilità per le singole parti dell’impianto;
@@ -394,8 +409,8 @@ Comprende in particolare le seguenti indicazioni sull’esercizio dell’impiant
 - b. l’esercizio e la manutenzione delle stazioni e dei diversi segmenti della condotta;
 - c. gli elenchi degli obblighi per il controllo e la manutenzione di stazioni e condotte;
 - d. il concetto per l’informazione ai proprietari e ai Comuni interessati;
-- e.[^26-1] l’organizzazione delle riparazioni in caso di avarie;
-- f.[^26-2] ...
+- e.[^26-2] l’organizzazione delle riparazioni in caso di avarie;
+- f.[^26-3] ...
 - g. le procedure in caso di lavori edili eseguiti da terzi;
 - h. l’elenco dei materiali per le riparazioni.
 
@@ -408,10 +423,14 @@ Comprende in particolare le seguenti indicazioni sull’impianto di trasporto in
 - c. l’elenco dei piani validi;
 - d. l’elenco delle regolamentazioni speciali a livello operativo;
 - e. le prescrizioni relative al controllo e alla manutenzione di condotte, tracciati e impianti accessori;
-- f. le disposizioni di sicurezza per l’esercizio e la manutenzione degli impianti.
+- f. le disposizioni di sicurezza per l’esercizio e la manutenzione degli impianti;
+- g.[^26-4] la documentazione delle misure adottate per proteggere dalle ciberminacce gli impianti di trasporto in condotta (art. 39*a* OSITC[^26-5]).
 
-[^26-1]: Nuovo testo giusta l’all. 2 n. 3 dell’O del 4 giu. 2021 sulla sicurezza degli impianti di trasporto in condotta, in vigore dal 1° lug. 2021 ([RU 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
-[^26-2]: Abrogata dall’all. 2 n. 3 dell’O del 4 giu. 2021 sulla sicurezza degli impianti di trasporto in condotta, con effetto dal 1° lug. 2021 ([RU 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
+[^26-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 385](https://fedlex.data.admin.ch/eli/oc/2025/385)).
+[^26-2]: Nuovo testo giusta l’all. 2 n. 3 dell’O del 4 giu. 2021 sulla sicurezza degli impianti di trasporto in condotta, in vigore dal 1° lug. 2021 ([RU 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
+[^26-3]: Abrogata dall’all. 2 n. 3 dell’O del 4 giu. 2021 sulla sicurezza degli impianti di trasporto in condotta, con effetto dal 1° lug. 2021 ([RU 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
+[^26-4]: Introdotta dalla cifra I dell’O del 21 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 385](https://fedlex.data.admin.ch/eli/oc/2025/385)).
+[^26-5]: [RS 746.12](https://fedlex.data.admin.ch/eli/cc/2021/348)
 
 #### Art. 27
 
@@ -531,7 +550,7 @@ Sono considerati lavori di costruzione ai sensi dell’articolo 28 LITC:
 
 L’ordinanza del 2 febbraio 2000[^35-1] sugli impianti di trasporto in condotta è abrogata.
 
-[^35-1]: [[RU 2000 746](https://fedlex.data.admin.ch/eli/oc/2000/125), [2006 4889](https://fedlex.data.admin.ch/eli/oc/2006/762)all. 2 n. 4, [2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)all. n. 4, [2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)III, [2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)all. n. 1]
+[^35-1]: [[RU 2000 746](https://fedlex.data.admin.ch/eli/oc/2000/125); [2006 4889](https://fedlex.data.admin.ch/eli/oc/2006/762)all. 2 n. 4; [2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)all. n. 4; [2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)III; [2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)all. n. 1]
 
 #### Art. 36
 

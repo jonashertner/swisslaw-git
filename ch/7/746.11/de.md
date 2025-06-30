@@ -4,11 +4,11 @@ title: "Verordnung vom 26. Juni 2019 über Rohrleitungsanlagen zur Beförderung 
 short: RLV
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/413"
 language: de
-version: 2024-01-01
+version: 2025-07-01
 adopted: 2019-06-26
 in_force: 2019-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/413/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2019-413-20240101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/413/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2019-413-20250701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20240101/de"
 
 (Rohrleitungsverordnung, RLV)
 
-vom 26. Juni 2019 (Stand am 1. Januar 2024)
+vom 26. Juni 2019 (Stand am 1. Juli 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -54,11 +54,25 @@ Diese Verordnung gilt vollumfänglich für:
 
 #### Art. 3
 
-**Rohrleitungen nach Artikel 1 Absatz 2 Buchstabe a RLG**
+**Rohrleitungen nach Artikel 1 Absatz 2 Buchstabe a RLG**[^3-1]
 
-<sup>1</sup> Als Rohrleitungen nach Artikel 1 Absatz 2 Buchstabe a RLG gelten Rohrleitungsanlagen, bei denen der maximal zulässige Betriebsdruck grösser als 5 bar und der Aussendurchmesser grösser als 6 cm ist; bei den Angaben ist der Druck als Überdruck zu verstehen.
+<sup>1</sup>
 
-<sup>2</sup> Bei Rohrleitungen für den Transport von flüssigen Brenn- oder Treibstoffen gilt als maximal zulässiger Betriebsdruck nach Absatz 1 der maximal mögliche Druck inklusive Druckstoss.
+Als Rohrleitungen nach Artikel 1 Absatz 2 Buchstabe a RLG gelten:
+
+- a. Ölleitungen und Gasleitungen mit einem maximal zulässigen Betriebsdruck grösser als 5 bar und einem Aussendurchmesser grösser als 6 cm;
+- b.
+
+  Wasserstoffleitungen:
+
+  - 1\. mit einem maximal zulässigen Betriebsdruck grösser als 30 bar und einem Aussendurchmesser grösser als 6 cm,
+  - 2\. mit einem maximal zulässigen Betriebsdruck grösser als 5 bar und nicht grösser als 30 bar sowie einem Aussendurchmesser grösser als 12 cm.
+
+<sup>2</sup> Alle Druckangaben sind als Überdruckangaben zu verstehen.
+
+<sup>3</sup> Bei Rohrleitungen für den Transport von flüssigen Brenn- oder Treibstoffen gilt als maximal zulässiger Betriebsdruck nach Absatz 1 der maximal mögliche Druck inklusive Druckstoss.
+
+[^3-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 385](https://fedlex.data.admin.ch/eli/oc/2025/385)).
 
 #### Art. 4
 
@@ -136,12 +150,13 @@ Der technische Bericht umfasst insbesondere:
 - d. die Projektbeschreibung;
 - e. die rohrleitungstechnischen Angaben;
 - f. das Kathodenschutzkonzept;
-- g. den Antrag und die Begründung für Ausnahmeregelungen nach Artikel 6 der Rohrleitungssicherheitsverordnung vom 4. April 2007[^9-1] (RLSV);
+- g.[^9-1] den Antrag und die Begründung für Ausnahmeregelungen nach Artikel 5 der Rohrleitungssicherheitsverordnung vom 4. Juni 2021[^9-2] (RLSV);
 - h. die Terminplanung;
 - i. das Konzept für die Fernmelde- und die Fernsteuerungsanlage sowie für die Überwachungseinrichtungen;
 - j. die Massnahmen aufgrund von Gefährdungen der Anlage nach Artikel 10 Buchstabe g.
 
-[^9-1]: [SR 746.12](https://fedlex.data.admin.ch/eli/cc/2021/348)
+[^9-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 385](https://fedlex.data.admin.ch/eli/oc/2025/385)).
+[^9-2]: [SR 746.12](https://fedlex.data.admin.ch/eli/cc/2021/348)
 
 #### Art. 10
 
@@ -379,7 +394,7 @@ Als geringfügige technische Änderungen gelten:
 
 <sup>2</sup>
 
-Das Betriebsreglement umfasst insbesondere die folgenden Angaben über die Organisation der Unternehmung:
+Es umfasst insbesondere die folgenden Angaben über die Organisation der Unternehmung:[^26-1]
 
 - a. das Organigramm;
 - b. die Zuständigkeiten und die Verantwortlichkeiten für die einzelnen Anlageteile;
@@ -394,8 +409,8 @@ Es umfasst insbesondere die folgenden Angaben über den Betrieb der Anlage:
 - b. den Betrieb und die Instandhaltung der Stationen und der verschiedenen Leitungsabschnitte;
 - c. die Pflichtenhefte für die Kontrolle und den Unterhalt von Stationen und Leitungen;
 - d. das Konzept über die Information der betroffenen Grundeigentümer und Grundeigentümerinnen sowie der betroffenen Gemeinden;
-- e.[^26-1] die Organisation zur Behebung von Schäden;
-- f.[^26-2] …
+- e.[^26-2] die Organisation zur Behebung von Schäden;
+- f.[^26-3] …
 - g. das Vorgehen bei Bauarbeiten Dritter;
 - h. die Liste des Reparaturmaterials.
 
@@ -408,10 +423,14 @@ Es umfasst insbesondere die folgenden Angaben über die Rohrleitungsanlage:
 - c. die Liste der gültigen Planunterlagen;
 - d. die Liste der betrieblichen Sonderregelungen;
 - e. die Vorschriften über die Kontrolle und die Instandhaltung von Leitungen, Trassee und Nebenanlagen;
-- f. die Sicherheitsbestimmungen für den Betrieb und die Instandhaltung der Anlagen.
+- f. die Sicherheitsbestimmungen für den Betrieb und die Instandhaltung der Anlagen;
+- g.[^26-4] die Dokumentation der getroffenen Massnahmen zum Schutz der Rohrleitungsanlagen vor Cyberbedrohungen (Art. 39*a* RLSV[^26-5]).
 
-[^26-1]: Fassung gemäss Anhang 2 Ziff. 3 der Rohrleitungssicherheitsverordnung vom 4. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
-[^26-2]: Aufgehoben durch Anhang 2 Ziff. 3 der Rohrleitungssicherheitsverordnung vom 4. Juni 2021, mit Wirkung seit 1. Juli 2021 ([AS 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
+[^26-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 385](https://fedlex.data.admin.ch/eli/oc/2025/385)).
+[^26-2]: Fassung gemäss Anhang 2 Ziff. 3 der Rohrleitungssicherheitsverordnung vom 4. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
+[^26-3]: Aufgehoben durch Anhang 2 Ziff. 3 der Rohrleitungssicherheitsverordnung vom 4. Juni 2021, mit Wirkung seit 1. Juli 2021 ([AS 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
+[^26-4]: Eingefügt durch Ziff. I der V vom 21. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 385](https://fedlex.data.admin.ch/eli/oc/2025/385)).
+[^26-5]: [SR 746.12](https://fedlex.data.admin.ch/eli/cc/2021/348)
 
 #### Art. 27
 
