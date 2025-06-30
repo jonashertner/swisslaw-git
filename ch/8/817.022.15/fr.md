@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 16 décembre 2016 sur les teneurs maximales en cont
 short: OCont
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/156"
 language: fr
-version: 2024-02-01
+version: 2025-07-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/156/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2017-156-20240201-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/156/20240201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/156/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-156-20250701-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/156/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/156/20240201/fr"
 
 (Ordonnance sur les contaminants, OCont)
 
-du 16 décembre 2016 (État le 1<sup>er</sup> février 2024)
+du 16 décembre 2016 (État le 1<sup>er</sup> juillet 2025)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -25,7 +25,7 @@ vu les art. 10, al. 4, let. e, 81, al. 3, et 95, al. 3, de l’ordonnance du 16 
 
 arrête:
 
-[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
 
 #### Art. 1
@@ -211,6 +211,14 @@ Les denrées alimentaires qui ne satisfont pas aux exigences de la présente ord
 
 [^8b-1]: Introduit par le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)).
 
+#### Art. 8c
+
+**Disposition transitoire relative à la modification du 2 juin 2025**[^8c-1]
+
+Les denrées alimentaires non conformes à la modification du 2 juin 2025 peuvent encore être importées et fabriquées selon l’ancien droit jusqu’au 30 juin 2026 et remises aux consommateurs jusqu’à épuisement des stocks.
+
+[^8c-1]: Introduit par le ch. I de l’O de l’OSAV du 2 juin 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)).
+
 #### Art. 9
 
 **Entrée en vigueur**
@@ -223,7 +231,7 @@ Annexe 1[^t-1]
 
 ## Teneurs maximales en nitrates et en perchlorate dans les denrées alimentaires
 
-[^t-1]: Mise à jour par le ch. II al. 1 de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)).
+[^t-1]: Mise à jour par le ch. II al. 1 de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)) et le ch. II de l’O de l’OSAV du 2 juin 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)).
 
 ### Partie A: remarques
 
@@ -233,7 +241,7 @@ Annexe 1[^t-1]
 
 3 Pour les fruits, légumes et céréales, il est fait référence aux produits répertoriés dans chaque catégorie, tels que définis à l’annexe 1 de l’ordonnance du DFI du 16 décembre 2016 sur les limites maximales applicables aux résidus de pesticides présents dans ou sur les produits d’origine végétale ou animale (OPOVA)[^annex1-lvlu1-partA-1]. La teneur maximale applicable aux fruits ne l’est pas aux fruits à coque.
 
-[^annex1-lvlu1-partA-1]: [RS 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
+[^annex1-lvlu1-partA-1]: [RS 817.021.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9653)
 
 ### Partie B: tableau
 
@@ -255,8 +263,9 @@ Annexe 1[^t-1]
 <tr><td>"</td><td>cucurbitacées</td><td>0,1</td><td></td></tr>
 <tr><td>"</td><td>denrées alimentaires pour bébés destinés aux nourrissons et aux enfants en bas âge</td><td>0,02</td><td>sauf préparations à base de céréales; rapporté à la préparation prête à consommer</td></tr>
 <tr><td>"</td><td>fruits</td><td>0,05</td><td></td></tr>
+<tr><td>"</td><td>haricots (*Phaseolus vulgaris*) non écossés</td><td>0,15</td><td></td></tr>
 <tr><td>"</td><td>infusion de plantes et de fruits</td><td>0,75</td><td>matière sèche</td></tr>
-<tr><td>"</td><td>légumes</td><td>0,05</td><td>sauf légumes-feuilles et fines herbes fraîches, chou frisé et cucurbitacées</td></tr>
+<tr><td>"</td><td>légumes</td><td>0,05</td><td>à l’exclusion des légumes-feuilles et des fines herbes fraîches, du chou frisé, des cucurbitacées et des haricots (*Phaseolus vulgaris*) non écossés</td></tr>
 <tr><td>"</td><td>légumes-feuilles et fines herbes fraîches</td><td>0,5</td><td></td></tr>
 <tr><td>"</td><td>préparations à base de céréales destinés aux nourrissons et enfants en bas âge</td><td>0,01</td><td></td></tr>
 <tr><td>"</td><td>préparations pour nourrissons, préparations de suite et denrées alimentaires destinées à des fins médicales spéciales pour nourrissons et enfants en bas âge</td><td>0,01</td><td>rapporté à la préparation prête à consommer</td></tr>
@@ -269,7 +278,7 @@ Annexe 2[^t-2]
 
 ## Teneurs maximales en mycotoxines dans les denrées alimentaires
 
-[^t-2]: Mise à jour par les ch. II et III de l’O de l’OSAV du 12 mars 2018 ([RO 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), l’erratum du 12 nov. 2019 ([RO 2019 3527](https://fedlex.data.admin.ch/eli/oc/2019/648)), le ch. II al. 1 des O du DFI du 27 mai 2020 ([RO 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)) et du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)).
+[^t-2]: Mise à jour par les ch. II et III de l’O de l’OSAV du 12 mars 2018 ([RO 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), l’erratum du 12 nov. 2019 ([RO 2019 3527](https://fedlex.data.admin.ch/eli/oc/2019/648)), le ch. II al. 1 des O du DFI du 27 mai 2020 ([RO 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)), du 8 déc. 2023 ([RO 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)) et le ch. II de l’O de l’OSAV du 2 juin 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)).
 
 ### Partie A: remarques
 
@@ -277,7 +286,7 @@ Annexe 2[^t-2]
 
 2 Les teneurs maximales en aflatoxines se réfèrent à la partie comestible des arachides et des fruits à coque. Si les arachides et les fruits à coque sont analysés «dans leur coque», le calcul de la teneur en aflatoxines part du principe que l’ensemble de la contamination concerne la partie comestible; cette supposition ne s’applique pas aux noix du Brésil.
 
-3 Si les produits dérivés ou transformés sont uniquement ou presque uniquement issus des fruits à coque respectifs, les teneurs maximales en aflatoxines fixées pour les fruits à coque s’appliquent également aux produits dérivés ou transformés. Dans tous les autres cas, les produits dérivés ou transformés sont soumis à l’art. 4, al. 1 à 3.
+3 Pour les denrées alimentaires composées exclusivement de fruits à coque, ainsi que pour les produits transformés contenant au moins 80 % des fruits à coque concernés, les teneurs maximales fixées pour les fruits à coque correspondants s’appliquent. Dans tous les autres cas, l’art. 4, al. 1 et 2, s’applique.
 
 4 Pour les préparations à base de céréales et les autres aliments pour nourrissons et enfants en bas âge, les teneurs maximales se rapportent à la matière sèche.
 
@@ -321,7 +330,15 @@ Pour les arachides et autres graines oléagineuses destinées à être broyées,
 
 Dans la somme inférieure, la contribution de chaque épimère non quantifié est fixée à zéro.
 
-[^annex2-lvlu1-partA-1]: [RS 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
+12 Pour les denrées alimentaires composées exclusivement de fruits séchés, ainsi que pour les produits transformés contenant au moins 80 % des fruits séchés concernés, les teneurs maximales fixées pour les fruits séchés correspondants s’appliquent. Dans tous les autres cas, l’art. 4, al. 1 et 2, s’applique.
+
+13 Les produits dérivés de céréales non transformées comprennent tous les produits contenant au moins 80 % de produits à base de céréales.
+
+14 Pour les préparations à base de céréales et autres denrées alimentaires pour bébés destinées aux nourrissons et aux enfants en bas âge contenant des céréales ou des produits qui en sont dérivés, on comprend par produits dérivés tous les produits contenant au moins 80 % de ces produits à base de céréales.
+
+15 Pour la somme des toxines T-2 et HT-2, les teneurs maximales se rapportent aux limites inférieures («lower bound»), que l’on calcule en supposant que toutes les valeurs inférieures à la limite de quantification sont égales à zéro.
+
+[^annex2-lvlu1-partA-1]: [RS 817.021.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9653)
 
 ### Partie B: tableau
 
@@ -366,20 +383,24 @@ Dans la somme inférieure, la contribution de chaque épimère non quantifié es
 <tr><td>Alcaloïdes de l’ergot</td><td>gluten de blé</td><td>400 µg/kg</td><td></td></tr>
 <tr><td>"</td><td>orge, blé, épeautre et avoine</td><td>150 µg/kg</td><td>grains destinés au consommateur</td></tr>
 <tr><td>"</td><td>préparations à base de céréales destinés aux nourrissons et enfants en bas âge</td><td>20 µg/kg</td><td></td></tr>
-<tr><td>"</td><td>produits de la mouture de l’orge, du blé, de l’épeautre et de l’avoine</td><td>100 µg/kg</td><td>ayant une teneur en cendres &lt; 900 mg/100 g</td></tr>
+<tr><td>"</td><td>produits de la mouture de blé</td><td>100 µg/kg</td><td>ayant une teneur en cendres &lt; 900 mg/100 g de matière sèche</td></tr>
+<tr><td>"</td><td>produits de la mouture de l’orge, de l’épeautre et de l’avoine</td><td>50 µg/kg</td><td>ayant une teneur en cendres &lt; 900 mg/100 g de matière sèche</td></tr>
 <tr><td>"</td><td>produits de la mouture de l’orge, du blé, de l’épeautre et de l’avoine</td><td>150 µg/kg</td><td>ayant une teneur en cendres ≥ 900 mg/100 g</td></tr>
 <tr><td>"</td><td>produits de la mouture de seigle</td><td>500 µg/kg</td><td></td></tr>
 <tr><td>"</td><td>seigle</td><td>500 µg/kg</td><td>destiné au consommateur</td></tr>
-<tr><td>Déoxynivalénol</td><td>avoine, brute</td><td>1750 µg/kg</td><td></td></tr>
-<tr><td>"</td><td>blé dur, brut</td><td>1750 µg/kg</td><td></td></tr>
-<tr><td>"</td><td>céréales brutes</td><td>1250 µg/kg</td><td>sauf blé dur, avoine et maïs</td></tr>
-<tr><td>"</td><td>céréales destinées à la consommation humaine directe, farine de céréales, son et germes en tant que produit fini mis sur le marché pour la consommation humaine directe</td><td>750 µg/kg</td><td>sauf préparations à base de céréales et aliments pour bébés destinés aux nourrissons et aux enfants en bas âge</td></tr>
-<tr><td>"</td><td>farine et produits de mouture de maïs obtenus par soufflage ou grillage</td><td>1250 µg/kg</td><td>dont la taille des particules est ≤ 500 micromètres, qui ne sont pas destinés à la consommation humaine directe</td></tr>
-<tr><td>"</td><td>maïs brut</td><td>1750 µg/kg</td><td>sauf maïs brut destiné à être transformé par mouture humide</td></tr>
-<tr><td>"</td><td>pain, y compris les petits produits de boulangerie, pâtisseries, biscuits, collations aux céréales et céréales pour petit déjeuner</td><td>500 µg/kg</td><td></td></tr>
-<tr><td>"</td><td>pâtes alimentaires</td><td>750 µg/kg</td><td>sèches, teneur en eau env. 12 %</td></tr>
-<tr><td>"</td><td>préparations à base de céréales et aliments pour bébés destinés aux nourrissons et aux enfants en bas âge</td><td>200 µg/kg</td><td></td></tr>
-<tr><td>"</td><td>produits de mouture de maïs, en gruaux, semoule ou granules</td><td>750 µg/kg</td><td>dont la taille des particules est &gt; 500 micromètres, qui ne sont pas destinés à la consommation humaine directe</td></tr>
+<tr><td>Déoxynivalénol</td><td>avoine non transformée</td><td>1750 µg/kg</td><td>y compris les balles qui ne sont pas consommées</td></tr>
+<tr><td>"</td><td>blé dur non transformé</td><td>1500 µg/kg</td><td></td></tr>
+<tr><td>"</td><td>céréales destinées à la consommation humaine directe, grains de maïs destinés au soufflage et pop-corn</td><td>750 µg/kg</td><td>à l’exclusion du riz</td></tr>
+<tr><td></td><td>céréales non transformées</td><td>1000 µg/kg</td><td>à l’exclusion du blé dur non transformé, du maïs non transformé et de l’avoine non transformée, y compris les balles qui ne sont pas consommées; à l’exclusion du maïs non transformé destiné à être transformé par mouture humide et à l’exclusion du riz</td></tr>
+<tr><td></td><td>denrées alimentaires destinées à des fins médicales spéciales pour les nourrissons et les enfants en bas âge</td><td>150 µg/kg</td><td>à l’exclusion des produits à base de riz (produits dont les seuls ingrédients céréaliers sont le riz ou des produits transformés à partir du riz)</td></tr>
+<tr><td>"</td><td>maïs non transformé</td><td>1500 µg/kg</td><td>à l’exclusion du maïs non transformé destiné à être transformé par mouture humide</td></tr>
+<tr><td>"</td><td>préparations à base de céréales et denrées alimentaires pour bébés destinés aux nourrissons et aux enfants en bas âge</td><td>150 µg/kg</td><td>à l’exclusion des produits à base de riz (produits dont les seuls ingrédients céréaliers sont le riz ou des produits transformés à partir du riz)</td></tr>
+<tr><td>"</td><td>pâtes alimentaires</td><td>600 µg/kg</td><td>pâtes (sèches) dont la teneur en eau avoisine 12 %</td></tr>
+<tr><td>"</td><td>polenta précuite et prête à consommer</td><td>250 µg/kg</td><td></td></tr>
+<tr><td>"</td><td>produits de boulangerie, collations aux céréales et céréales pour petit-déjeuner</td><td>400 µg/kg</td><td>à l’exclusion des produits à base de riz (produits dont les seuls ingrédients céréaliers sont le riz ou des produits transformés à partir du riz); y compris les petits produits de boulangerie</td></tr>
+<tr><td>"</td><td>produits de la mouture de céréales</td><td>600 µg/kg</td><td>à l’exclusion des produits de la mouture de maïs et des produits de la mouture de riz</td></tr>
+<tr><td>"</td><td>produits de la mouture de maïs</td><td>750 µg/kg</td><td>destinés à la consommation humaine directe</td></tr>
+<tr><td>"</td><td>produits de la mouture de maïs</td><td>1000 µg/kg</td><td>non destinés à la consommation humaine directe</td></tr>
 <tr><td>Fumonisines (somme de B<sub>1</sub> et B<sub>2</sub>)</td><td>céréales pour petit déjeuner et collations à base de maïs</td><td>800 µg/kg</td><td></td></tr>
 <tr><td>"</td><td>farine et produits de mouture de maïs obtenus par soufflage ou grillage</td><td>2000 µg/kg</td><td>dont la taille des particules est ≤ 500 micromètres, qui ne sont pas destinés à la consommation humaine directe</td></tr>
 <tr><td>"</td><td>maïs brut</td><td>4000 µg/kg</td><td>sauf maïs brut destiné à être transformé par mouture humide</td></tr>
@@ -429,17 +450,41 @@ Dans la somme inférieure, la contribution de chaque épimère non quantifié es
 <tr><td>"</td><td>jus de pomme et produits à base de morceaux de pomme, y compris la compote et la purée de pommes, destinés aux nourrissons et enfants en bas âge</td><td>10 µg/kg</td><td>étiquetés et vendus comme tels</td></tr>
 <tr><td>"</td><td>produits à base de morceaux de pomme, y compris la compote de pommes et la purée de pommes</td><td>25 µg/kg</td><td>sauf jus de pomme et produits à base de morceaux de pomme destinés aux nourrissons et enfants en bas âge et aliments autres que les préparations à base de céréales destinés aux nourrissons et enfants en bas âge; destinés à la consommation directe</td></tr>
 <tr><td>Sclérotes d’ergot</td><td>céréales</td><td>0,2 g/kg</td><td>brutes; sauf maïs, riz et seigle</td></tr>
-<tr><td>"</td><td>seigle</td><td>0,5 g/kg</td><td>brut</td></tr>
-<tr><td>Zéaralénone</td><td>céréales brutes</td><td>100 µg/kg</td><td>sauf maïs</td></tr>
-<tr><td>"</td><td>céréales et farine de céréales</td><td>75 µg/kg</td><td>pour la consommation humaine directe; y compris son et germes en tant que produit fini mis sur le marché pour la consommation humaine directe; sauf maïs destiné à la consommation humaine directe, collations et céréales pour petit-déjeuner à base de maïs, préparations à base de céréales (sauf préparations à base de maïs) et autres aliments pour nourrissons et enfants en bas âge, denrées alimentaires transformées à base de maïs destinées aux nourrissons et enfants en bas âge, produits de mouture de maïs, en gruaux, semoule ou granules ainsi que farine et produits de mouture de maïs obtenus par soufflage ou grillage</td></tr>
-<tr><td>"</td><td>denrées alimentaires transformées à base de maïs destinées aux nourrissons et enfants en bas âge</td><td>20 µg/kg</td><td></td></tr>
-<tr><td>"</td><td>farine et produits de mouture de maïs obtenus par soufflage ou grillage</td><td>300 µg/kg</td><td>dont la taille des particules est ≤ 500 micromètres, qui ne sont pas destinés à la consommation humaine directe</td></tr>
+<tr><td>"</td><td>seigle</td><td>0,2 g/kg</td><td>non transformé</td></tr>
+<tr><td>Somme des toxines T-2 et HT-2</td><td>avoine</td><td>100 μg/kg</td><td>destinée à la consommation humaine directe</td></tr>
+<tr><td>"</td><td>avoine non transformée</td><td>1250 μg/kg</td><td>y compris les balles qui ne sont pas consommées</td></tr>
+<tr><td></td><td>blé dur</td><td>50 μg/kg</td><td>destiné à la consommation humaine directe</td></tr>
+<tr><td></td><td>blé dur non transformé</td><td>100 μg/kg</td><td></td></tr>
+<tr><td>"</td><td>céréales non transformées</td><td>50 μg/kg</td><td>à l’exclusion de l’orge de malterie et d’autre orge non transformée, du maïs non transformé, du blé dur non transformé et de l’avoine non transformée, y compris les balles qui ne sont pas consommées; à l’exclusion du maïs destiné à être transformé par mouture humide et à l’exclusion du riz</td></tr>
+<tr><td>"</td><td>céréales pour petit-déjeuner constituées d’au moins 50 % de son de céréales, de produits de mouture de grains d’avoine, de produits de mouture de grains de maïs, de grains entiers d’avoine, d’orge, de maïs ou de blé dur, et constituées d’au moins 40 % de produits de mouture de grains d’avoine ou de grains d’avoine entiers</td><td>75 μg/kg</td><td></td></tr>
+<tr><td>"</td><td>céréales pour petit-déjeuner constituées d’au moins 50 % de son de céréales, de produits de mouture de grains d’avoine, de produits de mouture de grains de maïs, de grains entiers d’avoine, d’orge, de maïs ou de blé dur, et constituées de moins de 40 % de produits de mouture de grains d’avoine ou de grains d’avoine entiers</td><td>50 μg/kg</td><td></td></tr>
+<tr><td>"</td><td>collations aux céréales et céréales pour petit‑déjeuner</td><td>20 μg/kg</td><td>à l’exclusion des produits à base de riz (produits dont les seuls ingrédients céréaliers sont le riz ou des produits transformés à partir du riz); à l’exclusion des flocons d’avoine et des céréales pour petit-déjeuner constituées d’au moins 50 % de son de céréales, de produits de la mouture d’avoine, de produits de la mouture de maïs, de grains entiers d’avoine, d’orge, de maïs ou de blé dur, et constituées de moins de 40 % ou d’au moins 40 % de produits de mouture de grains d’avoine ou de grains d’avoine entiers</td></tr>
+<tr><td>"</td><td>denrées alimentaires destinées à des fins médicales spéciales pour les nourrissons et les enfants en bas âge</td><td>10 μg/kg</td><td>à l’exclusion de produits à base de riz (produits dont les seuls ingrédients céréaliers sont le riz ou des produits transformés à partir du riz)</td></tr>
+<tr><td>"</td><td>flocons d’avoine</td><td>100 μg/kg</td><td></td></tr>
+<tr><td>"</td><td>maïs</td><td>50 μg/kg</td><td>destiné à la consommation humaine directe</td></tr>
+<tr><td>"</td><td>maïs non transformé</td><td>100 μg/kg</td><td>à l’exclusion du maïs non transformé destiné à être transformé par mouture humide</td></tr>
+<tr><td>"</td><td>orge</td><td>50 μg/kg</td><td>destiné à la consommation humaine directe</td></tr>
+<tr><td>"</td><td>orge de malterie non transformée</td><td>200 μg/kg</td><td></td></tr>
+<tr><td>"</td><td>orge non transformée</td><td>150 μg/kg</td><td>autres</td></tr>
+<tr><td>"</td><td>pâtes alimentaires</td><td>20 μg/kg</td><td>pâtes (sèches) dont la teneur en eau avoisine 12 %</td></tr>
+<tr><td>"</td><td>préparations à base de céréales et denrées alimentaires pour bébés destinées aux nourrissons et aux enfants en bas âge</td><td>10 μg/kg</td><td>à l’exclusion de produits à base de riz (produits dont les seuls ingrédients céréaliers sont le riz ou des produits transformés à partir du riz)</td></tr>
+<tr><td>"</td><td>produits à base de céréales</td><td>20 μg/kg</td><td>destinés à la consommation humaine directe; à l’exclusion de l’avoine, de l’orge, du maïs et du blé dur destinés à la consommation humaine directe; à l’exclusion du riz</td></tr>
+<tr><td>"</td><td>produits de boulangerie</td><td>20 μg/kg</td><td>autres, à l’exclusion des produits de boulangerie contenant au moins 75 % de produits de mouture d’avoine et à l’exclusion de produits à base de riz (produits dont les seuls ingrédients céréaliers sont le riz ou des produits transformés à partir du riz)</td></tr>
+<tr><td>"</td><td>produits de boulangerie contenant au moins 75 % de produits de mouture d’avoine</td><td>100 μg/kg</td><td>y compris les petits produits de boulangerie</td></tr>
+<tr><td>"</td><td>produits de la mouture de céréales</td><td>20 μg/kg</td><td>à l’exclusion des produits de mouture de l’avoine (y c. le son d’avoine), des sons de céréales autres que l’avoine et des produits de mouture du maïs; à l’exclusion des produits de mouture du riz</td></tr>
+<tr><td>"</td><td>produits de mouture de l’avoine</td><td>100 μg/kg</td><td>y compris le son d’avoine</td></tr>
+<tr><td>"</td><td>produits de la mouture de maïs</td><td>50 μg/kg</td><td></td></tr>
+<tr><td>"</td><td>sons de céréales autres que l’avoine</td><td>50 μg/kg</td><td></td></tr>
+<tr><td>Zéaralénone</td><td>céréales non transformées</td><td>100 µg/kg</td><td>à l’exclusion du maïs non transformé et du riz</td></tr>
+<tr><td>"</td><td>céréales, son et germes de céréales destinés à la consommation humaine directe farine et semoule de céréales</td><td>75 µg/kg</td><td>à l’exclusion du maïs destiné à la consommation humaine directe, des collations et des céréales pour petit-déjeuner; à l’exclusion des produits de mouture de maïs, en gruaux, semoule ou granules, et des autres denrées alimentaires pour bébés destinés aux nourrissons et aux enfants en bas âge; à l’exclusion du riz et des produits à base de riz (produits dont les seuls ingrédients céréaliers sont le riz ou des produits transformés à partir du riz)</td></tr>
+<tr><td>"</td><td>denrées alimentaires à base de maïs transformé destinées aux nourrissons et enfants en bas âge</td><td>20 µg/kg</td><td></td></tr>
+<tr><td>"</td><td>farine et produits de mouture de maïs obtenus par soufflage ou grillage</td><td>300 µg/kg</td><td>dont la taille des particules est ≤ 500 micromètres, et qui ne sont pas destinés à la consommation humaine directe</td></tr>
 <tr><td>"</td><td>huile de maïs</td><td>400 µg/kg</td><td>raffinée</td></tr>
-<tr><td>"</td><td>maïs brut</td><td>350 µg/kg</td><td>sauf maïs brut destiné à être transformé par mouture humide</td></tr>
-<tr><td>"</td><td>maïs, collations et céréales pour petit déjeuner à base de maïs</td><td>100 µg/kg</td><td>destinés à la consommation humaine directe</td></tr>
-<tr><td>"</td><td>pain, pâtisseries, biscuits, collations aux céréales et céréales pour petit déjeuner</td><td>50 µg/kg</td><td>sauf collations au maïs et céréales pour petit déjeuner à base de maïs; y compris les petits produits de boulangerie</td></tr>
-<tr><td>"</td><td>préparations à base de céréales et aliments pour bébés destinés aux nourrissons et aux enfants en bas âge</td><td>20 µg/kg</td><td>sauf préparations à base de maïs</td></tr>
-<tr><td>"</td><td>produits de mouture de maïs, en gruaux, semoule ou granules</td><td>200 µg/kg</td><td>dont la taille des particules est &gt; 500 micromètres, qui ne sont pas destinés à la consommation humaine directe</td></tr>
+<tr><td>"</td><td>maïs destiné à la consommation humaine directe, collations et céréales pour le petit‑déjeuner à base de maïs</td><td>100 µg/kg</td><td></td></tr>
+<tr><td>"</td><td>maïs non transformé</td><td>350 µg/kg</td><td>à l’exclusion du maïs non transformé destiné à être transformé par mouture humide</td></tr>
+<tr><td>"</td><td>pain, pâtisseries, biscuits, collations aux céréales et céréales pour le petit-déjeuner</td><td>50 µg/kg</td><td>à l’exclusion des collations au maïs et des céréales pour petit-déjeuner à base de maïs; à l’exclusion de produits à base de riz (produits dont les seuls ingrédients céréaliers sont le riz ou des produits transformés à partir du riz); y compris les petits produits de boulangerie</td></tr>
+<tr><td>"</td><td>préparations à base de céréales et denrées alimentaires pour bébés destinés aux nourrissons et aux enfants en bas âge</td><td>20 µg/kg</td><td>à l’exclusion des produits à base de riz (produits dont les seuls ingrédients céréaliers sont le riz ou des produits transformés à partir du riz)</td></tr>
+<tr><td>"</td><td>produits de la mouture de maïs, en gruaux, semoule ou granules</td><td>200 µg/kg</td><td>dont la taille des particules est &gt; 500 micromètres, et qui ne sont pas destinés à la consommation humaine directe</td></tr>
 </table>
 
 Annexe 3[^t-3]
@@ -448,7 +493,7 @@ Annexe 3[^t-3]
 
 ## Teneurs maximales en métaux et métalloïdes
 
-[^t-3]: Mise à jour par les ch. II et III de l’O de l’OSAV du 12 mars 2018 ([RO 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), l’erratum du 12 nov. 2019 ([RO 2019 3527](https://fedlex.data.admin.ch/eli/oc/2019/648)), le ch. II al. 1 des O du DFI du 27 mai 2020 ([RO 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)) et du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)).
+[^t-3]: Mise à jour par les ch. II et III de l’O de l’OSAV du 12 mars 2018 ([RO 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), l’erratum du 12 nov. 2019 ([RO 2019 3527](https://fedlex.data.admin.ch/eli/oc/2019/648)), le ch. II al. 1 des O du DFI du 27 mai 2020 ([RO 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)), du 8 déc. 2023 ([RO 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)) et le ch. II de l’O de l’OSAV du 2 juin 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)).
 
 ### Partie A: remarques
 
@@ -468,35 +513,46 @@ Annexe 3[^t-3]
 
 8 Pour les fruits, légumes et céréales, il est fait référence aux produits répertoriés dans chaque catégorie, tels que définis à l’annexe 1 OPOVA[^annex3-lvlu1-partA-1]. La teneur maximale applicable aux fruits ne l’est pas aux fruits à coque.
 
-[^annex3-lvlu1-partA-1]: [RS 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
+9 La teneur maximale ne s’applique pas aux fruits à coque destinés au broyage et au raffinage d’huiles, à condition que les fruits à coque pressés restants ne soient pas mis sur le marché en tant que denrées alimentaires. Si les fruits à coque pressés restants sont mis sur le marché en tant que denrées alimentaires, la teneur maximale s’applique en tenant compte de l’art. 4, al. 1 et 2.
+
+10 La teneur maximale ne s’applique pas aux graines oléagineuses destinées au broyage et au raffinage d’huiles, à condition que les graines oléagineuses pressées restantes ne soient pas mises sur le marché en tant que denrées alimentaires. Si les graines oléagineuses pressées restantes sont mises sur le marché en tant que denrées alimentaires, la teneur maximale s’applique en tenant compte de l’art. 4, al. 1 et 2.
+
+11 Dans le cas des algues marines séchées, la teneur maximale s’applique au produit tel que mis sur le marché. Dans le cas des algues marines fraîches, la teneur maximale s’applique après séparation et lavage de la partie destinée à être consommée. Dans le cas des algues marines fraîches, la teneur maximale s’applique à la matière sèche.
+
+[^annex3-lvlu1-partA-1]: [RS 817.021.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9653)
 
 ### Partie B: tableau
 
 <table>
 <tr><th>1</th><th>2</th><th>3</th><th>4</th></tr>
 <tr><th>Substance</th><th>Denrée alimentaire</th><th>Teneur maximale (mg/kg)</th><th>Remarques</th></tr>
-<tr><td>Arsenic (inorganique)</td><td>algue brune *Sargassum fusiforme (Hizikia fusiformis)*</td><td>35</td><td>rapporté à la matière sèche</td></tr>
+<tr><td>Arsenic (inorganique)</td><td>algue brune *Sargassum* *fusiforme (Hizikia fusiformis)*</td><td>35</td><td>teneur maximale rapportée à la matière sèche</td></tr>
 <tr><td>"</td><td>boissons sans alcool</td><td>0,1</td><td>autres</td></tr>
+<tr><td>"</td><td>boissons sans alcool à base de riz</td><td>0,03</td><td></td></tr>
+<tr><td>"</td><td>cidre sans alcool</td><td>0,2</td><td></td></tr>
 <tr><td>"</td><td>collagène</td><td>1</td><td></td></tr>
-<tr><td>"</td><td>galettes de riz soufflé, feuilles de riz, crackers de riz et gâteaux à la farine de riz</td><td>0,3</td><td></td></tr>
+<tr><td>"</td><td>denrées alimentaires pour bébés destinés aux nourrissons et aux enfants en bas âge</td><td>0,02</td><td></td></tr>
+<tr><td>"</td><td>farine de riz</td><td>0,25</td><td></td></tr>
+<tr><td>"</td><td>galettes de riz soufflé, feuilles de riz, crackers de riz, gâteaux à la farine de riz, flocons de riz et riz soufflé pour le petit-déjeuner</td><td>0,3</td><td></td></tr>
 <tr><td>"</td><td>gélatine</td><td>1</td><td></td></tr>
 <tr><td>"</td><td>graisses et huiles comestibles</td><td>0,1</td><td></td></tr>
-<tr><td>"</td><td>jus de fruits, jus de fruits dilués, nectars de fruits et sirops de fruits</td><td>0,2</td><td></td></tr>
+<tr><td>"</td><td>Jus de fruits, jus de fruits concentrés reconstitués et nectars de fruits</td><td>0,02</td><td></td></tr>
 <tr><td>"</td><td>margarines</td><td>0,1</td><td></td></tr>
 <tr><td>"</td><td>minarines</td><td>0,1</td><td></td></tr>
+<tr><td>"</td><td>préparations pour nourrissons, préparations de suite et denrées alimentaires destinées à des fins médicales spéciales pour les nourrissons et les enfants en bas âge</td><td>0,01</td><td>à l’état liquide</td></tr>
+<tr><td>"</td><td>préparations pour nourrissons, préparations de suite et denrées alimentaires destinées à des fins médicales spéciales pour les nourrissons et les enfants en bas âge</td><td>0,02</td><td>sous forme de poudre</td></tr>
 <tr><td>"</td><td>riz destiné à la production de denrées alimentaires pour les nourrissons et les enfants en bas âge</td><td>0,1</td><td></td></tr>
 <tr><td>"</td><td>riz étuvé ou riz décortiqué</td><td>0,25</td><td></td></tr>
-<tr><td>"</td><td>riz usiné, non étuvé (riz poli ou riz blanc)</td><td>0,2</td><td></td></tr>
-<tr><td>"</td><td>sel comestible</td><td>1</td><td></td></tr>
+<tr><td>"</td><td>riz usiné, non étuvé (riz poli ou riz blanc)</td><td>0,15</td><td></td></tr>
 <tr><td>"</td><td>vermouth et bitter sans alcool</td><td>0,2</td><td></td></tr>
-<tr><td>"</td><td>vin</td><td>0,2</td><td></td></tr>
-<tr><td>"</td><td>cidre sans alcool</td><td>0,2</td><td></td></tr>
-<tr><td>Cadmium</td><td>agrumes</td><td>0,02</td><td></td></tr>
+<tr><td>"</td><td>vins</td><td>0,2</td><td></td></tr>
+<tr><td>Toutes formes d’arsenic (somme de l’As<sup>(III)</sup> et de l’As<sup>(V)</sup>)</td><td>sel comestible</td><td>0,5</td><td></td></tr>
+<tr><td>Cadmium</td><td>*Agaricus bisporus*</td><td>0,05</td><td></td></tr>
+<tr><td>"</td><td>agrumes</td><td>0,02</td><td></td></tr>
 <tr><td>"</td><td>ail</td><td>0,05</td><td></td></tr>
 <tr><td>"</td><td>ananas</td><td>0,02</td><td></td></tr>
 <tr><td>"</td><td>arachides</td><td>0,2</td><td></td></tr>
 <tr><td>"</td><td>aubergines</td><td>0,03</td><td></td></tr>
-<tr><td>"</td><td>pleurotes en forme d’huître</td><td>0,15</td><td></td></tr>
 <tr><td>"</td><td>baies et petits fruits</td><td>0,03</td><td>sauf framboises</td></tr>
 <tr><td>"</td><td>bananes</td><td>0,02</td><td></td></tr>
 <tr><td>"</td><td>betteraves</td><td>0,06</td><td></td></tr>
@@ -507,7 +563,7 @@ Annexe 3[^t-3]
 <tr><td>"</td><td>chair musculaire des poissons suivants: bichique (*Sicyopterus lagocephalus*) maquereau (*Scomber species*) thon (*Thunnus species Euthynnus species*, *Katsuwonus pelamis*)</td><td>0,1</td><td></td></tr>
 <tr><td>"</td><td>chair musculaire des poissons suivants: anchois (espèce *Engraulis*) espadon (*Xiphias gladius*) sardine (*Sardina pilchardus*)</td><td>0,25</td><td></td></tr>
 <tr><td>"</td><td>chair musculaire de poisson</td><td>0,05</td><td>autres</td></tr>
-<tr><td>"</td><td>champignons de couche</td><td>0,05</td><td>sauf pleurotes en forme d’huître et shiitake</td></tr>
+<tr><td>"</td><td>champignons de couche</td><td>0,15</td><td>autres</td></tr>
 <tr><td>"</td><td>champignons sauvages</td><td>0,5</td><td></td></tr>
 <tr><td>"</td><td>chocolat (chocolat au lait) avec &lt; 30 % de matière sèche totale de cacao</td><td>0,1</td><td></td></tr>
 <tr><td>"</td><td>chocolat avec ≥ 30 % et &lt; 50 % de matière sèche totale de cacao</td><td>0,3</td><td></td></tr>
@@ -547,13 +603,14 @@ Annexe 3[^t-3]
 <tr><td>"</td><td>légumes-bulbes</td><td>0,03</td><td>sauf ail</td></tr>
 <tr><td>"</td><td>légumes-feuilles</td><td>0,1</td><td>sauf fines herbes fraîches, plants de moutarde, épinards et feuilles similaires</td></tr>
 <tr><td>"</td><td>légumes-fruits</td><td>0,02</td><td>sauf aubergines</td></tr>
-<tr><td>"</td><td>légumes-racines et légumes-tubercules</td><td>0,1</td><td>sauf céleri-rave, raifort, panais, persils à grosse racine, betteraves, radis, scorsonères, navets, légumes-racines et légumes-tubercules tropicaux</td></tr>
+<tr><td>"</td><td>légumes-racines et légumes-tubercules</td><td>0,1</td><td>à l’exclusion du céleri-rave, du raifort, du panais, des persils à grosse racine, des betteraves, des radis, des scorsonères, des navets, des légumes-racines et des légumes-tubercules tropicaux et des noix tigrées</td></tr>
 <tr><td>"</td><td>légumes-racines et légumes-tubercules tropicaux</td><td>0,05</td><td></td></tr>
 <tr><td>"</td><td>légumineuses</td><td>0,04</td><td></td></tr>
 <tr><td>"</td><td>légumineuses potagères</td><td>0,02</td><td></td></tr>
 <tr><td>"</td><td>mangues</td><td>0,02</td><td></td></tr>
 <tr><td>"</td><td>mollusques bivalves</td><td>1</td><td></td></tr>
 <tr><td>"</td><td>navets</td><td>0,05</td><td></td></tr>
+<tr><td>"</td><td>noix tigrées</td><td>0,1</td><td></td></tr>
 <tr><td>"</td><td>olives de table</td><td>0,02</td><td></td></tr>
 <tr><td>"</td><td>orge</td><td>0,05</td><td></td></tr>
 <tr><td>"</td><td>panais</td><td>0,2</td><td></td></tr>
@@ -576,7 +633,6 @@ Annexe 3[^t-3]
 <tr><td>"</td><td>seigle</td><td>0,05</td><td></td></tr>
 <tr><td>"</td><td>sel comestible</td><td>0,5</td><td></td></tr>
 <tr><td>"</td><td>scorsonères</td><td>0,2</td><td></td></tr>
-<tr><td>"</td><td>shiitake</td><td>0,15</td><td></td></tr>
 <tr><td>"</td><td>son de blé</td><td>0,15</td><td></td></tr>
 <tr><td>"</td><td>viande de bovin, d’ovin, de porc et de volaille</td><td>0,05</td><td>sauf abats</td></tr>
 <tr><td>"</td><td>viande d’équidés</td><td>0,2</td><td>sauf abats</td></tr>
@@ -591,7 +647,7 @@ Annexe 3[^t-3]
 <tr><td>"</td><td>préparations à base de céréales et autres aliments destinés aux nourrissons et aux enfants en bas âge</td><td>50</td><td>en conserves</td></tr>
 <tr><td>"</td><td>préparations pour nourrissons et préparations de suite</td><td>50</td><td>en conserves; y compris les aliments lactés pour nourrissons et le lait de suite</td></tr>
 <tr><td>Mercure</td><td>tous les produits d’origine végétale ou animale selon l’annexe 1 OPOVA</td><td></td><td>les limites maximales pour les composés du mercure prévues par l’annexe 2 OPOVA s’appliquent</td></tr>
-<tr><td>"</td><td>céphalopodes</td><td>0,3</td><td></td></tr>
+<tr><td>"</td><td>céphalopodes</td><td>0,3</td><td>sans viscères</td></tr>
 <tr><td>"</td><td>chair musculaire des poissons suivants: abadèche du Cap (*Genypterus capensis*) abadèche rose (*Genypterus blacodes*) bonite (*Sarda sarda*) brochet (*Esox species*) capelan de Méditerranée (*Trisopterus species*) cardine (*Lepidorhombus species*) dorade rose (*Pagellus bogaraveo*) escolier noir (*Lepidocybium flavobrunneum*) escolier serpent (*Gempylus serpens*) espadon (*Xiphias gladius*) esturgeon (*Acipenser species*) flétan de l’Atlantique (*Hippoglossus species*) grenadier de roche (*Coryphaenoides rupestris*) hoplostète orange (*Hoplostethus atlanticus*) marlin (*Makaira species*) pageot commun (*Pagellus erythrinus*) pageot acarné (*Pagellus acarne*) palomète (*Orcynopsis unicolor*) requins (toutes les espèces) rouget-barbe de roche (*Mullus surmuletus*) rouget de vase (*Mullus barbatus barbatus*) rouvet (*Ruvettus pretiosus*) sabre argenté (*Lepidopus caudatus*) sabre noir (*Aphanopus carbo*) thon (*Thunnus species*, *Euthynnus species*, *Katsuwonus pelamis*) voilier de l’Atlantique (*Istiophorus species*)</td><td>1</td><td></td></tr>
 <tr><td>"</td><td>chair musculaire des poissons suivants: anchois (*Engraulis species*) cabillaud (*Gadus morhua*) carpe (*Cyprinidae*) flet d’Europe (*Platichthys flesus*) hareng de l’Atlantique (*Clupea harengus*) lieu d’Alaska (*Theragra chalcogrammus*) lieu jaune (*Pollachius pollachius*) lieu noir (*Pollachius virens*) limande (*Limanda limanda*) maquereau (*Scomber species*) merlan (*Merlangius merlangus*) pangasius (*Pangasius bocourti*) plie d’Europe (*Pleuronectes platessa*) saumon et truite (*Salmo species* et *Oncorhynchus species*, à l’exclusion de *Salmo trutta*) sardine ou pilchard (*Dussumieria species*, *Sardina species*, *Sardinella species* et *Sardinops species*) silure de verre géant (*Pangasianodon gigas*) silure requin (*Pangasianodon hypothalamus*) sole (*Solea solea*) sprat (*Sprattus sprattus*)</td><td>0,3</td><td></td></tr>
 <tr><td>"</td><td>compléments alimentaires</td><td>0,1</td><td></td></tr>
@@ -601,6 +657,34 @@ Annexe 3[^t-3]
 <tr><td>"</td><td>gastéropodes marins</td><td>0,3</td><td></td></tr>
 <tr><td>"</td><td>produits de la pêche et chair musculaire des poissons</td><td>0,5</td><td>autres</td></tr>
 <tr><td>"</td><td>sel comestible</td><td>0,1</td><td></td></tr>
+<tr><td>Nickel</td><td>algues marines</td><td>30</td><td>à l’exclusion du wakamé (*Undaria pinnatifida*)</td></tr>
+<tr><td>"</td><td>arachides (graines oléagineuses)</td><td>12</td><td></td></tr>
+<tr><td>"</td><td>brassicacées</td><td>0,5</td><td>teneur maximale rapportée au poids à l’état frais</td></tr>
+<tr><td>"</td><td>châtaignes, pignons, noix communes, noix du Brésil et noix de cajou</td><td>10</td><td></td></tr>
+<tr><td>"</td><td>chocolat (chocolat au lait) avec &lt; 30 % de matière sèche totale de cacao</td><td>2,5</td><td></td></tr>
+<tr><td>"</td><td>chocolat avec ≥ 30 % de matière sèche totale de cacao</td><td>7</td><td></td></tr>
+<tr><td>"</td><td>denrées alimentaires pour bébés destinés aux nourrissons et aux enfants en bas âge</td><td>0,5</td><td>à l’exclusion des jus de fruits, des nectars de fruits et des jus de légumes destinés à l’alimentation des bébés</td></tr>
+<tr><td>"</td><td>fèves de soja (graines oléagineuses)</td><td>15</td><td></td></tr>
+<tr><td>"</td><td>fèves de soja/edamame (*Glycine max*)</td><td>6</td><td></td></tr>
+<tr><td>"</td><td>fruits à coque</td><td>3,5</td><td>à l’exclusion des châtaignes, des pignons, des noix communes, des noix du Brésil et des noix de cajou</td></tr>
+<tr><td>"</td><td>graines de tournesol (graines oléagineuses)</td><td>8</td><td></td></tr>
+<tr><td>"</td><td>haricots secs et lupins/fèves de lupins secs</td><td>12</td><td></td></tr>
+<tr><td>"</td><td>herbes fraîches</td><td>1,2</td><td>teneur maximale rapportée au poids à l’état frais</td></tr>
+<tr><td></td><td>jus de fruits et nectars de fruits contenant des jus et nectars de fruits de la passion, de cacao, de baies et de petits fruits, et de l’eau de coco</td><td>1</td><td>y compris les jus de fruits, nectars de fruits et jus de légumes destinés à l’alimentation des bébés</td></tr>
+<tr><td></td><td>jus de fruits, nectars de fruits et jus de légumes</td><td>0,25</td><td>à l’exclusion des jus de fruits et nectars de fruits contenant des jus et nectars de fruits de la passion, de cacao, de baies et de petits fruits, et de l’eau de coco, y compris les jus de fruits, nectars de fruits et jus de légumes destinés à l’alimentation des bébés</td></tr>
+<tr><td>"</td><td>légumes à tiges</td><td>0,4</td><td>teneur maximale rapportée au poids à l’état frais</td></tr>
+<tr><td>"</td><td>légumes-bulbes</td><td>0,9</td><td>teneur maximale rapportée au poids à l’état frais</td></tr>
+<tr><td>"</td><td>légumes-feuilles</td><td>0,5</td><td>à l’exclusion des herbes fraîches, teneur maximale rapportée au poids à l’état frais</td></tr>
+<tr><td>"</td><td>légumes-fruits</td><td>0,4</td><td>teneur maximale rapportée au poids à l’état frais</td></tr>
+<tr><td>"</td><td>légumes-racines et légumes-tubercules</td><td>0,9</td><td>teneur maximale rapportée au poids à l’état frais</td></tr>
+<tr><td>"</td><td>légumineuses</td><td>4</td><td>à l’exclusion des haricots secs et lupins/fèves de lupins secs</td></tr>
+<tr><td>"</td><td>légumineuses potagères</td><td>1</td><td>à l’exclusion des fèves de soja/edamame (*Glycine max*)</td></tr>
+<tr><td>"</td><td>poudre de cacao et poudre de cacao maigre</td><td>15</td><td>mises sur le marché pour le consommateur final ou comme ingrédient dans la poudre de cacao sucrée ou le chocolat en poudre (boisson chocolatée)</td></tr>
+<tr><td>"</td><td>"</td><td>0,1</td><td>à l’état liquide</td></tr>
+<tr><td>"</td><td>"</td><td>0,4</td><td>sous forme de poudre et fabriquées à partir d’isolats de protéines de soja, seuls ou mélangés à des protéines de lait de vache</td></tr>
+<tr><td>"</td><td>préparations à base de céréales destinées aux nourrissons et aux enfants en bas âge</td><td>3</td><td></td></tr>
+<tr><td>"</td><td>préparations pour nourrissons, préparations de suite et denrées alimentaires destinées à des fins médicales spéciales pour les nourrissons et les enfants en bas âge</td><td>0,25</td><td>sous forme de poudre</td></tr>
+<tr><td>"</td><td>wakamé *(Undaria pinnatifida)*</td><td>40</td><td></td></tr>
 <tr><td>Plomb</td><td>abats de bovin et d’ovin</td><td>0,2</td><td></td></tr>
 <tr><td>"</td><td>abats de porc</td><td>0,15</td><td></td></tr>
 <tr><td>"</td><td>abats de volaille</td><td>0,1</td><td></td></tr>
@@ -677,7 +761,7 @@ Annexe 4[^t-4]
 
 ## Teneurs maximales en 3-chloropropanediol (3-MCPD) et esters d’acides gras de glycidol dans les denrées alimentaires
 
-[^t-4]: Mise à jour par le ch. II al. 1 de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)).
+[^t-4]: Mise à jour par le ch. II al. 1 de l’O du DFI du 8 déc. 2023 ([RO 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)) et le ch. II de l’O de l’OSAV du 2 juin 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)).
 
 ### Partie A: remarques
 
@@ -695,8 +779,8 @@ Annexe 4[^t-4]
 <tr><td>Somme du 3‑chloropropanediol (3‑MCPD) et de ses esters d’acides gras</td><td>graisses et huiles comestibles de noix de coco, de maïs, de colza, de tournesol, de soja, de palmiste et huiles d’olive (composées d’huile d’olive raffinée et d’huile d’olive vierge)</td><td>1250</td><td>sauf huiles d’olive vierges, huiles et graisses végétales destinées à la production d’aliments pour bébés et de préparations à base de céréales destinés aux nourrissons et enfants en bas âge; prêtes à être consommées ou destinées à une utilisation comme ingrédient alimentaire; exprimée en 3‑MCPD; la teneur maximale ne s’applique aux mélanges de ces graisses et huiles que si leur composition est un secret d’affaires et que le détenteur de la marchandise ne la connaît pas et n’est pas en mesure de la connaître</td></tr>
 <tr><td>"</td><td>graisses et huiles comestibles d’autres plantes (y compris huiles de grignons d’olive), huiles de poissons et huiles provenant d’autres organismes marins</td><td>2500</td><td>sauf huiles et graisses végétales, huiles de poissons et huiles provenant d’autres organismes marins destinées à la production d’aliments pour bébés et de préparations à base de céréales destinés aux nourrissons et enfants en bas âge; prêtes à être consommées ou destinées à une utilisation comme ingrédient alimentaire; exprimée en 3-MCPD; la teneur maximale ne s’applique aux mélanges de ces graisses et huiles que si leur composition est un secret d’affaires et que le détenteur de la marchandise ne la connaît pas et n’est pas en mesure de la connaître</td></tr>
 <tr><td>"</td><td>huiles et graisses végétales, huiles de poissons et huiles provenant d’autres organismes marins destinées à la production de denrées alimentaires pour bébés et de préparations à base de céréales destinés aux nourrissons et enfants en bas âge</td><td>750</td><td>lorsque le produit est un mélange de différentes huiles ou graisses de même origine botanique ou d’origine différente, la teneur maximale s’applique au mélange; les huiles et les graisses utilisées comme ingrédients du mélange doivent respecter la teneur maximale fixée pour les huiles et les graisses; exprimée en 3‑MCPD</td></tr>
-<tr><td>"</td><td>préparations pour nourrissons, préparations de suite et denrées alimentaires destinées à des fins médicales spéciales pour nourrissons et enfants en bas âge</td><td>125</td><td>en poudre; exprimée en 3‑MCPD</td></tr>
-<tr><td>"</td><td>"</td><td>15</td><td>liquides; exprimée en 3‑MCPD</td></tr>
+<tr><td>"</td><td>préparations pour nourrissons, préparations de suite et denrées alimentaires destinées à des fins médicales spéciales pour les nourrissons et les enfants en bas âge</td><td>80</td><td>sous forme de poudre; teneur maximale exprimée en 3‑MCPD</td></tr>
+<tr><td>"</td><td>"</td><td>12</td><td>sous forme de liquide; teneur maximale exprimée en 3‑MCPD</td></tr>
 <tr><td>3‑MCPD</td><td>protéine végétale hydrolysée</td><td>20</td><td>la teneur maximale se réfère au produit liquide contenant 40 % de matière sèche, ce qui correspond à une teneur maximale de 50 µg/kg de la matière sèche; cette teneur doit être adaptée proportionnellement à la teneur du produit en matière sèche</td></tr>
 <tr><td>"</td><td>sauce au soja</td><td>20</td><td>la teneur maximale se réfère au produit liquide contenant 40 % de matière sèche, ce qui correspond à une teneur maximale de 50 µg/kg de la matière sèche; cette teneur doit être adaptée proportionnellement à la teneur du produit en matière sèche</td></tr>
 </table>
@@ -707,7 +791,7 @@ Annexe 5[^t-5]
 
 ## Teneurs maximales en dioxines et PCB dans les denrées alimentaires
 
-[^t-5]: Mise à jour par le ch. II al. 1 des O du DFI du 27 mai 2020 ([RO 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)) et du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)).
+[^t-5]: Mise à jour par le ch. II al. 1 des O du DFI du 27 mai 2020 ([RO 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)), du 8 déc. 2023 ([RO 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)) et le ch. II de l’O de l’OSAV du 2 juin 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)).
 
 ### Partie A: remarques
 
@@ -719,9 +803,9 @@ Annexe 5[^t-5]
 
 4 Pour le foie de poisson en conserve, la teneur maximale s’applique à la totalité du contenu de la conserve destiné à être consommé.
 
-5 Les teneurs maximales en matières grasses ne concernent pas les denrées alimentaires qui contiennent moins de 2 % de matières grasses. Pour les denrées alimentaires contenant moins de 2 % de matières grasses, la teneur maximale correspond à la teneur maximale rapportée à l’ensemble du produit d’une denrée alimentaire contenant 2 % de matière grasse, qui a été déterminée sur la base de sa teneur en matières grasses, sachant que le calcul est effectué selon la formule suivante:
+5 Pour les viandes et les produits à base de viande, le lait cru et les produits laitiers, ainsi que les œufs et les ovoproduits, la teneur maximale exprimée par rapport aux graisses ne s’applique pas aux denrées alimentaires contenant moins de 2 % de graisses. Dans le cas des denrées alimentaires contenant moins de 2 % de graisses, la teneur maximale est celle s’appliquant au produit. La teneur maximale est calculée au moyen de la formule suivante:
 
-\- Teneur maximale exprimée par rapport à l’ensemble du produit pour les denrées alimentaires contenant moins de 2 % de matières grasses = teneur maximale exprimée par rapport à la part de matières grasses pour la denrée alimentaire en question × 0,02.
+– teneur maximale exprimée par rapport au produit (pour une denrée alimentaire contenant moins de 2 % de graisses) = teneur maximale exprimée par rapport aux graisses (pour cette denrée alimentaire) × 0,02.
 
 6 Les teneurs maximales sont fixées pour les paramètres suivants:
 
@@ -781,9 +865,9 @@ Annexe 5[^t-5]
 <tr><td>"</td><td>lait cru et produits laitiers</td><td>2 pg/g</td><td>rapportée à la matière grasse; y compris matière grasse butyrique</td></tr>
 <tr><td>"</td><td>œufs de volaille et ovoproduits</td><td>2,5 pg/g</td><td>sauf œufs d’oie; rapportée à la matière grasse</td></tr>
 <tr><td>"</td><td>poisson d’eau douce sauvage capturé</td><td>3,5 pg/g</td><td>sauf espèces de poissons diadromes capturées en eau douce, et produits dérivés, rapporté au poids frais</td></tr>
-<tr><td>"</td><td>venaison et produits à base de venaison</td><td>3 pg/g</td><td>sauf abats; rapportée à la matière grasse</td></tr>
 <tr><td>"</td><td>viande d’équidés et produits à base de viande d’équidés</td><td>5 pg/g</td><td>sauf abats; rapportée à la matière grasse</td></tr>
 <tr><td>"</td><td>viande de bovin, d’ovin et de caprin et produits à base de viande de bovin, d’ovin et de caprin</td><td>2,5 pg/g</td><td>sauf abats; rapportée à la matière grasse</td></tr>
+<tr><td>"</td><td>viande de cervidés et produits à base de cervidés</td><td>3 pg/g</td><td>à l’exclusion des abats; teneur maximale rapportée à la matière grasse</td></tr>
 <tr><td>"</td><td>viande de gibier à plumes et produits à base de viande de gibier à plumes</td><td>2 pg/g</td><td>sauf abats; rapportée à la matière grasse</td></tr>
 <tr><td>"</td><td>viande de lapin et produits à base de viande de lapin</td><td>1 pg/g</td><td>sauf abats; rapportée à la matière grasse</td></tr>
 <tr><td>"</td><td>viande de porc et produits à base de viande de porc</td><td>1 pg/g</td><td>sauf abats; rapporté à la matière grasse</td></tr>
@@ -806,8 +890,8 @@ Annexe 5[^t-5]
 <tr><td>"</td><td>lait cru et produits laitiers</td><td>4 pg/g</td><td>rapportée à la matière grasse; y compris matière grasse butyrique</td></tr>
 <tr><td>"</td><td>œufs de volaille et ovoproduits</td><td>5 pg/g</td><td>sauf œufs d’oie; rapportée à la matière grasse</td></tr>
 <tr><td>"</td><td>poisson d’eau douce sauvage capturé</td><td>6,5 pg/g</td><td>sauf espèces de poissons diadromes capturées en eau douce, et produits dérivés, rapporté au poids frais</td></tr>
-<tr><td>"</td><td>venaison et produits à base de venaison</td><td>7,5 pg/g</td><td>sauf abats; rapportée à la matière grasse</td></tr>
 <tr><td>"</td><td>viande de bovin, d’ovin et de caprin et produits à base de viande de bovin, d’ovin et de caprin</td><td>4 pg/g</td><td>sauf abats; rapportée à la matière grasse</td></tr>
+<tr><td></td><td>viande de cervidés et produits à base de cervidés</td><td>7,5 pg/g</td><td>à l’exclusion des abats; teneur maximale rapportée à la matière grasse</td></tr>
 <tr><td>"</td><td>viande de cheval et produits à base de viande de cheval</td><td>10 pg/g</td><td>sauf abats; rapportée à la matière grasse</td></tr>
 <tr><td>"</td><td>viande de gibier à plumes et produits à base de viande de gibier à plumes</td><td>4 pg/g</td><td>sauf abats; rapportée à la matière grasse</td></tr>
 <tr><td>"</td><td>viande de lapin et produits à base de viande de lapin</td><td>1,5 pg/g</td><td>sauf abats; rapportée à la matière grasse</td></tr>
@@ -841,7 +925,7 @@ Annexe 6[^t-6]
 
 ## Teneurs maximales en hydrocarbures aromatiques polycycliques dans les denrées alimentaires
 
-[^t-6]: Mise à jour par le ch. II al. 1 de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)).
+[^t-6]: Mise à jour par le ch. II al. 1 de l’O du DFI du 8 déc. 2023 ([RO 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)) et le ch. II de l’O de l’OSAV du 2 juin 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)).
 
 ### Partie A: remarques
 
@@ -860,7 +944,8 @@ Annexe 6[^t-6]
 <table>
 <tr><th>1</th><th>2</th><th colspan="2">3</th><th colspan="2">4</th></tr>
 <tr><th>Substance</th><th>Denrée alimentaire</th><th colspan="2">Teneur maximale (µg/kg)</th><th colspan="2">Remarques</th></tr>
-<tr><td>Benzo(a)pyrène</td><td>aliments diététiques destinés à des fins médicales spéciales spécifiquement pour les nourrissons</td><td>1</td><td colspan="2"></td></tr>
+<tr><td>Benzo(a)pyrène</td><td>aliments diététiques destinés à des fins médicales spéciales spécifiquement pour les nourrissons</td><td>1</td><td colspan="2">sous forme de poudre</td></tr>
+<tr><td></td><td>"</td><td>1</td><td colspan="2">liquide</td></tr>
 <tr><td>"</td><td>chair musculaire de poissons et produits de la pêche</td><td>2</td><td colspan="2">sauf *sprats*, *sprats* en conserve, mollusques bivalves; fumés</td></tr>
 <tr><td>"</td><td>chips de banane</td><td>2</td><td colspan="2"></td></tr>
 <tr><td>"</td><td>compléments alimentaires contenant des substances végétales</td><td>10</td><td colspan="2">sauf compléments alimentaires contenant des huiles végétales; y compris les compléments alimentaires contenant de la propolis, de la gelée royale, de la spiruline, ou leurs préparations; la teneur maximale porte sur le complément alimentaire tel qu’il est mis en vente</td></tr>
@@ -876,11 +961,13 @@ Annexe 6[^t-6]
 <tr><td>"</td><td>"</td><td>5</td><td colspan="2">frais, réfrigérés ou congelés</td></tr>
 <tr><td>"</td><td>poudres de denrées alimentaires d’origine végétale utilisées pour la préparation de boissons</td><td>10</td><td colspan="2">sauf fèves de cacao et fibres de cacao ainsi que produits dérivés</td></tr>
 <tr><td>"</td><td>préparations à base de céréales et aliments pour bébés destinés aux nourrissons et aux enfants en bas âge</td><td>1</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>préparations pour nourrissons et préparations de suite</td><td>1</td><td colspan="2">y compris aliments lactés pour nourrissons et lait de suite</td></tr>
+<tr><td></td><td>préparations pour nourrissons et préparations de suite</td><td>1</td><td colspan="2">sous forme de poudre</td></tr>
+<tr><td></td><td>"</td><td>1</td><td colspan="2">liquide</td></tr>
 <tr><td>"</td><td>sprats (*Sprattus sprattus*)</td><td>5</td><td colspan="2">y compris sprats en conserve; fumés</td></tr>
 <tr><td>"</td><td>viande ou produits à base de viande</td><td>5</td><td colspan="2">traités à chaud; destinés à la vente au consommateur</td></tr>
 <tr><td>"</td><td>"</td><td>2</td><td colspan="2">fumés</td></tr>
-<tr><td>Somme de benzo(a)pyrène, benz(a)anthracène, benzo(b)fluoranthène et chrysène</td><td>aliments diététiques destinés à des fins médicales spéciales spécifiquement pour les nourrissons</td><td>1</td><td colspan="2"></td></tr>
+<tr><td>Somme de benzo(a)pyrène, benz(a)anthracène, benzo(b)fluoranthène et chrysène</td><td>aliments diététiques destinés à des fins médicales spéciales spécifiquement pour les nourrissons</td><td>1</td><td colspan="2">sous forme de poudre</td></tr>
+<tr><td></td><td>"</td><td>1</td><td colspan="2">liquide</td></tr>
 <tr><td>"</td><td>chair musculaire de poissons et produits de la pêche</td><td>12</td><td colspan="2">sauf *sprats*, *sprats* en conserve, mollusques bivalves; fumés</td></tr>
 <tr><td>"</td><td>chips de banane</td><td>20</td><td colspan="2"></td></tr>
 <tr><td>"</td><td>compléments alimentaires contenant des substances végétales</td><td>50</td><td colspan="2">sauf compléments alimentaires contenant des huiles végétales; y compris les compléments alimentaires contenant de la propolis, de la gelée royale, de la spiruline, ou leurs préparations; la teneur maximale porte sur le complément alimentaire tel qu’il est mis en vente</td></tr>
@@ -896,7 +983,8 @@ Annexe 6[^t-6]
 <tr><td>"</td><td>"</td><td>30</td><td colspan="2">frais, réfrigérés ou congelés</td></tr>
 <tr><td>"</td><td>poudres de denrées alimentaires d’origine végétale utilisées pour la préparation de boissons</td><td>50</td><td colspan="2">sauf fèves de cacao et fibres de cacao ainsi que produits dérivés</td></tr>
 <tr><td>"</td><td>préparations à base de céréales et aliments pour bébés destinés aux nourrissons et aux enfants en bas âge</td><td>1</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>préparations pour nourrissons et préparations de suite</td><td>1</td><td colspan="2">y compris aliments lactés pour nourrissons et lait de suite</td></tr>
+<tr><td></td><td>préparations pour nourrissons et préparations de suite</td><td>1</td><td colspan="2">sous forme de poudre; y compris aliments lactés pour nourrissons et lait de suite</td></tr>
+<tr><td></td><td>"</td><td>1</td><td colspan="2">liquide; y compris aliments lactés pour nourrissons et lait de suite</td></tr>
 <tr><td>"</td><td>*sprats* (*Sprattus sprattus*)</td><td>30</td><td colspan="2">y compris *sprats* en conserve; fumés</td></tr>
 <tr><td>"</td><td>viande ou produits à base de viande</td><td>30</td><td colspan="2">traités à chaud; destinés à la vente au consommateur final</td></tr>
 <tr><td>"</td><td>"</td><td>12</td><td colspan="2">fumés</td></tr>
@@ -927,7 +1015,7 @@ Annexe 8[^t-7]
 
 ## Teneurs maximales en toxines endogènes des plantes
 
-[^t-7]: Mise à jour par le ch. II al. 1 de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)).
+[^t-7]: Mise à jour par le ch. II al. 1 de l’O du DFI du 8 déc. 2023 ([RO 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)) et le ch. II de l’O de l’OSAV du 2 juin 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)).
 
 ### Partie A: remarques
 
@@ -977,9 +1065,11 @@ Annexe 8[^t-7]
 
 4 Pour les fruits, les légumes et les céréales, il est fait référence aux produits mentionnés dans chaque catégorie, tels que définis à l’annexe 1 de l’OPOVA[^annex8-lvlu1-partA-1]. La teneur maximale pour les fruits ne s’applique pas aux fruits à coque.
 
-5 La teneur maximale applicable à l’acide cyanhydrique, dont l’acide cyanhydrique lié dans les glycosides cyanogènes, ne s’applique pas aux graines de lin brutes entières, broyées, moulues, brisées ou concassées ni aux amandes amères non transformées entières, broyées, moulues, brisées ou concassées, et destinées au consommateur et remises en petites quantités lorsque l’avertissement «À utiliser uniquement pour la cuisson et la pâtisserie. Ne pas consommer cru!» apparaît sur l’emballage. Les graines de lin brutes entières, broyées, moulues, brisées ou concassées portant cet avertissement ne doivent pas dépasser la teneur maximale de 250 mg/kg d’acide cyanhydrique.
+5 La teneur maximale applicable à l’acide cyanhydrique, y compris l’acide cyanhydrique lié dans les glycosides cyanogènes, ne s’applique pas aux graines de lin entières, broyées, moulues, brisées ou concassées et aux amandes amères non transformées entières, broyées, moulues, brisées ou concassées destinées au consommateur et remises en petites quantités lorsque l’avertissement «À utiliser uniquement pour la cuisson et la pâtisserie. Ne pas consommer cru!» apparaît sur l’emballage. Ces graines de lin entières, broyées, moulues, brisées ou concassées, remises avec cet avertissement, doivent avoir une teneur maximale en acide cyanhydrique de 250 mg/kg.
 
-[^annex8-lvlu1-partA-1]: [RS 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
+6 En ce qui concerne les préparations à base de céréales et les aliments pour bébés destinées aux nourrissons et aux enfants en bas âge contenant des céréales ou des produits qui en sont dérivés, lesdits produits dérivés désignent les produits contenant au moins 80 % de produits à base de céréales.
+
+[^annex8-lvlu1-partA-1]: [RS 817.021.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9653)
 
 ### Partie B: tableau
 
@@ -987,10 +1077,10 @@ Annexe 8[^t-7]
 <tr><th>1</th><th>2</th><th>3</th><th>4</th></tr>
 <tr><th>Substance</th><th>Denrée alimentaire</th><th>Teneur maximale</th><th>Remarques</th></tr>
 <tr><td>Atropine</td><td>préparations à base de céréales et autres aliments pour nourrissons et enfants en bas âge contenant du millet, du sorgho, du sarrasin, du maïs ou des produits qui en sont dérivés</td><td>1 µg/kg</td><td>rapportée au produit tel qu’il est mis sur le marché</td></tr>
-<tr><td>Acide cyanhydrique, dont l’acide cyanhydrique lié dans les glycosides cyanogènes</td><td>amandes d’abricot</td><td>20 mg/kg</td><td>non transformées entières, broyées, moulues, brisées ou concassées, et destinées au consommateur</td></tr>
+<tr><td>Acide cyanhydrique, y compris l’acide cyanhydrique lié dans les glycosides cyanogènes</td><td>amandes d’abricot</td><td>20 mg/kg</td><td>non transformées entières, broyées, moulues, brisées ou concassées, et destinées au consommateur</td></tr>
 <tr><td>"</td><td>amandes</td><td>35 mg/kg</td><td>non transformées entières, broyées, moulues, brisées ou concassées, et destinées au consommateur</td></tr>
-<tr><td>"</td><td>graines de lin</td><td>250 mg/kg</td><td>brutes entières, broyées, moulues, brisées ou concassées, sauf graines de lin destinées au consommateur</td></tr>
-<tr><td>"</td><td>graines de lin</td><td>150 mg/kg</td><td>brutes entières, broyées, moulues, brisées ou concassées, et destinées au consommateur</td></tr>
+<tr><td>"</td><td>graines de lin</td><td>250 mg/kg</td><td>non transformées, entières, broyées, moulues, brisées ou concassées, à l’exclusion des graines de lin non destinées au consommateur et des graines oléagineuses destinées à être broyées pour la fabrication d’huile végétale raffinée, à condition que les graines oléagineuses pressées restantes ne soient pas mises sur le marché en tant que denrées alimentaires. Si les graines oléagineuses pressées restantes sont mises sur le marché en tant que denrées alimentaires, la teneur maximale s’applique en tenant compte de l’art. 4, al. 1 et 2.</td></tr>
+<tr><td>"</td><td>"</td><td>150 mg/kg</td><td>entières, broyées, moulues, brisées ou concassées et destinées au consommateur</td></tr>
 <tr><td>"</td><td>manioc (racine de manioc)</td><td>50 mg/kg</td><td>frais, épluché</td></tr>
 <tr><td>"</td><td>farine de manioc et farine de tapioca</td><td>10 mg/kg</td><td></td></tr>
 <tr><td>Acide érucique</td><td>huiles et graisses végétales</td><td>20 g/kg</td><td>sauf huile de cameline, huile de moutarde et huile de bourrache; destinées à la consommation directe ou à une utilisation comme ingrédient alimentaire; les teneurs maximales se réfèrent à la teneur en acide érucique des denrées alimentaires; rapportée à leur teneur totale en acides gras dans la phase grasse</td></tr>
@@ -1120,7 +1210,7 @@ Annexe 9[^t-9]
 
 ## Teneurs maximales d’autres contaminants dans les denrées alimentaires
 
-[^t-9]: Mise à jour par le ch. III de l’O de l’OSAV du 12 mars 2018 ([RO 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)) et par le ch. II al. 1 de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
+[^t-9]: Mise à jour par le ch. III de l’O de l’OSAV du 12 mars 2018 ([RO 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), le ch. II al. 1 de l’O du DFI du 27 mai 2020 ([RO 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)) et le ch. II de l’O de l’OSAV du 2 juin 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)).
 
 ### Partie A: remarques
 
@@ -1129,6 +1219,12 @@ Annexe 9[^t-9]
 2 Lorsque le poisson est destiné à être consommé entier, les teneurs maximales s’appliquent au poisson entier.
 
 3 nd = non décelable
+
+4 En ce qui concerne les équivalents de delta-9-tétrahydrocannabinol (Δ<sup>9</sup>-THC), les teneurs maximales se rapportent aux concentrations inférieures, calculées en partant du principe que toutes les valeurs inférieures à la limite de quantification sont égales à 0.
+
+5 La teneur maximale renvoie à la somme du delta-9-tétrahydrocannabinol (Δ<sup>9</sup>-THC) et de l’acide delta-9-tétrahydrocannabinolique (Δ<sup>9</sup>-THCA) exprimée en Δ<sup>9</sup>-THC. Un facteur de 0,877 est appliqué au niveau de Δ<sup>9</sup>-THCA et la teneur maximale se rapporte à la somme de Δ<sup>9</sup>-THC + 0,877 x Δ<sup>9</sup>-THCA (en cas de détermination et de quantification séparée du Δ<sup>9</sup>-THC et du Δ<sup>9</sup>-THCA).
+
+6 Les produits dérivés ou transformés du chènevis sont des produits dérivés ou transformés exclusivement à partir de chènevis (graines de chanvre).
 
 ### Partie B: tableau
 
@@ -1182,16 +1278,10 @@ Annexe 9[^t-9]
 <tr><td>"</td><td>vodka</td><td>10 g/hl</td><td colspan="2">"</td></tr>
 <tr><td>Nitrosamines volatiles</td><td>bière</td><td>0,5 µg/kg</td><td colspan="2">somme</td></tr>
 <tr><td colspan="5">Autres composants d’origine végétale</td></tr>
+<tr><td>Équivalents de delta‑9‑tétrahydrocannabinol (Δ<sup>9</sup>-THC)</td><td>chènevis moulu, chènevis (partiellement) dégraissé et autres produits dérivés ou transformés du chènevis</td><td>3 mg/kg</td><td>à l’exclusion de l’huile de chènevis</td></tr>
+<tr><td>"</td><td>chènevis (graines de chanvre)</td><td>3 mg/kg</td><td></td></tr>
+<tr><td>"</td><td>huile de chènevis</td><td>7,5 mg/kg</td><td></td></tr>
 <tr><td>Morphine</td><td>graines de pavot</td><td>30 mg/kg</td><td>calculé comme base</td></tr>
-<tr><td>Tétrahydrocannabinol, Delta 9-</td><td>articles de petite boulangerie, articles de biscuiterie et de biscotterie</td><td>2 mg/kg</td><td>produits avec ingrédients de chanvre; rapporté à la matière sèche</td></tr>
-<tr><td>"</td><td>boissons alcooliques</td><td>200 µg/kg</td><td>sauf boissons spiritueuses; produits avec ingrédients de chanvre</td></tr>
-<tr><td>"</td><td>boissons sans alcool</td><td>200 µg/kg</td><td>produits avec ingrédients de chanvre; rapporté à la préparation telle que consommée</td></tr>
-<tr><td>"</td><td>boissons spiritueuses</td><td>5 mg/l</td><td>produits avec ingrédients de chanvre; rapporté à l’alcool pur</td></tr>
-<tr><td>"</td><td>denrées alimentaires végétales</td><td>1 mg/kg</td><td>autres; produits avec ingrédients de chanvre; rapporté à la matière sèche</td></tr>
-<tr><td>"</td><td>graines de chanvre</td><td>10 mg/kg</td><td>rapporté à la matière sèche</td></tr>
-<tr><td>"</td><td>huile de graines de chanvre</td><td>20 mg/kg</td><td></td></tr>
-<tr><td>"</td><td>pâtes alimentaires</td><td>2 mg/kg</td><td>produits avec ingrédients de chanvre; rapporté à la matière sèche</td></tr>
-<tr><td>"</td><td>plantes et fruits à infusion</td><td>200 µg/kg</td><td>produits avec ingrédients de chanvre; rapporté à la préparation telle que consommée, 15 g de plantes par kg d’eau, verser de l’eau bouillante et maintenir pendant 30 minutes à plus de 85 °C</td></tr>
 </table>
 
 ### Partie C: méthodes
@@ -1201,7 +1291,7 @@ Annexe 9[^t-9]
 2 Lorsque des denrées alimentaires sont analysées pour déterminer leur teneur en contaminants provenant de la production de gélatine et de collagène, il faut respecter les exigences de la la *Pharmacopoea Europaea*, 10<sup>e</sup> édition (Ph. Eur. 10) de novembre 2018 et le supplément 10.1 à la *Pharmacopoea Europaea* de mars 2019[^annex9-lvlu1-partC-2].
 
 [^annex9-lvlu1-partC-1]: Règlement (CE) n° 2074/2005 de la Commission du 5 décembre 2005 établissant les mesures d’application relatives à certains produits régis par le règlement (CE) n° 853/2004 du Parlement européen et du Conseil et à l’organisation des contrôles officiels prévus par les règlements (CE) n° 854/2004 du Parlement européen et du Conseil et (CE) n° 882/2004 du Parlement européen et du Conseil, portant dérogation au règlement (CE) n° 852/2004 du Parlement européen et du Conseil et modifiant les règlements (CE) n° 853/2004 et (CE) n° 854/2004, JO L 338 du 22.12.2005, p. 27; modifié en dernier lieu par le règlement d’exécution (UE) n° 2019/1139, JO L 180 du 4.7.2019, p. 12
-[^annex9-lvlu1-partC-2]: Les versions originales de la *Pharmacopoea Europaea* sont publiées par le Conseil de l’Europe. L’édition originale française peut être obtenue auprès de l’Office fédéral des constructions et de la logistique (OFCL), Vente des publications fédérales, 3003 Berne, [www.publicationsfederales.admin.ch](https://www.publicationsfederales.admin.ch), aux conditions fixées par l’ordonnance du 19 nov. 2014 sur les émoluments relatifs aux publications (OEmol-Publ; [RS 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)). Jusqu’à la publication de la version allemande, les épreuves des textes en langue allemande peuvent être obtenues auprès de la division Pharmacopée de l’Institut suisse des produits thérapeutiques (Swissmedic).
+[^annex9-lvlu1-partC-2]: Les versions originales de la *Pharmacopoea Europaea* sont publiées par le Conseil de l’Europe. L’édition originale française peut être obtenue auprès de l’Office fédéral des constructions et de la logistique (OFCL), Vente des publications fédérales, 3003 Berne, [www.publicationsfederales.admin.ch](https://www.publicationsfederales.admin.ch), aux conditions fixées par l’ordonnance du 19 nov. 2014 sur les émoluments relatifs aux publications (OEmol-Publ; [RS 172.041.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5069)). Jusqu’à la publication de la version allemande, les épreuves des textes en langue allemande peuvent être obtenues auprès de la division Pharmacopée de l’Institut suisse des produits thérapeutiques (Swissmedic).
 
 Annexe 10[^t-10]
 

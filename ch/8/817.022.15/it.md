@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 16 dicembre 2016 sui tenori massimi di contaminant
 short: OCont
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/156"
 language: it
-version: 2024-02-01
+version: 2025-07-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/156/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2017-156-20240201-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/156/20240201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/156/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2017-156-20250701-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/156/20250701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/156/20240201/it"
 
 (Ordinanza sui contaminanti, OCont)
 
-del 16 dicembre 2016 (Stato 1° febbraio 2024)
+del 16 dicembre 2016 (Stato 1° luglio 2025)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -25,8 +25,8 @@ visti gli articoli 10 capoverso 4 lettera e, 81 capoverso 3 e 95 capoverso 3 del
 
 ordina:
 
-[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^ingress-2]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
+[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+[^ingress-2]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
 
 #### Art. 1
 
@@ -42,7 +42,7 @@ La presente ordinanza disciplina:
 
 <sup>2</sup> Essa non si applica ai contaminanti interamente o parzialmente oggetto di ordinanze specifiche.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
 [^1-2]: Regolamento (Euratom) 2016/52 del Consiglio, del 15 gennaio 2016, che fissa i livelli massimi ammissibili di radioattività per i prodotti alimentari e per gli alimenti per animali a seguito di un incidente nucleare o in qualsiasi altro caso di emergenza radiologica e che abroga il regolamento (Euratom) n. 3954/87 del Consiglio e i regolamenti (Euratom) n. 944/89 e (Euratom) n. 770/90 della Commissione; GU L 13 del 20.1.2016, pag. 2.
 
 #### Art. 1a
@@ -51,7 +51,7 @@ La presente ordinanza disciplina:
 
 I valori indicativi stabiliti nella presente ordinanza non sono considerati valori massimi ai sensi dell’articolo 2 capoverso 2 ODerr.
 
-[^1a-1]: Introdotto dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
+[^1a-1]: Introdotto dalla cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
 
 #### Art. 2
 
@@ -84,13 +84,13 @@ L’USAV determina tenori massimi per:[^2-4]
 - h<sup>bis</sup>.[^2-7] le sostanze perfluoroalchiliche (PFAS) nell’allegato 8*a*;
 - i. ulteriori contaminanti nell’allegato 9.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
-[^2-2]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
-[^2-3]: Abrogata dal n. I dal n. I dell’O del DFI del 27 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
-[^2-4]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
-[^2-5]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)).
-[^2-6]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
-[^2-7]: Introdotta dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
+[^2-2]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
+[^2-3]: Abrogata dalla cifra I dalla cifra I dell’O del DFI del 27 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
+[^2-4]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
+[^2-5]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)).
+[^2-6]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
+[^2-7]: Introdotta dalla cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)).
 
 #### Art. 3
 
@@ -119,7 +119,7 @@ Per le derrate alimentari essiccate, diluite, trasformate o composte da più di 
 
 <sup>4</sup> I capoversi 1–3 si applicano per quanto gli allegati 1–10 non stabiliscano tenori massimi specifici per le derrate alimentari essiccate, diluite, trasformate o composte.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
 
 #### Art. 5
 
@@ -148,7 +148,7 @@ Le aziende alimentari che fabbricano e immettono sul mercato le derrate alimenta
 
 <sup>3</sup> In caso di superamento dei valori indicativi la buona prassi procedurale è considerata inadempiuta. Devono essere adottate le misure correttive necessarie nell’ambito del controllo autonomo.
 
-[^5a-1]: Introdotto dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
+[^5a-1]: Introdotto dalla cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
 
 #### Art. 5b
 
@@ -165,7 +165,7 @@ La deroga di cui al capoverso 2 non si applica alle aziende che:
 - a. esercitano le loro attività nell’ambito di un marchio commerciale o come parte o affiliate di imprese economiche più estese e ramificate; e
 - b. operano su incarico di un’azienda alimentare che fornisce centralmente le derrate alimentari.
 
-[^5b-1]: Introdotto dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
+[^5b-1]: Introdotto dalla cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
 
 #### Art. 6
 
@@ -183,7 +183,7 @@ La deroga di cui al capoverso 2 non si applica alle aziende che:
 
 <sup>2</sup> Le istruzioni sono pubblicate su Internet.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
 
 #### Art. 8
 
@@ -199,7 +199,7 @@ Le derrate alimentari che non soddisfano i requisiti della presente ordinanza po
 
 <sup>2</sup> Le misure da adottare secondo gli articoli 5a e 5b devono essere attuate entro il 30 giugno 2021.
 
-[^8a-1]: Introdotto dal n. I dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)). Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
+[^8a-1]: Introdotto dalla cifra I dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)). Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
 
 #### Art. 8b
 
@@ -209,7 +209,15 @@ Le derrate alimentari che non soddisfano i requisiti della presente ordinanza po
 
 <sup>2</sup> In deroga al capoverso 1, le derrate alimentari che non rispettano i tenori massimi di sostanze perfluoroalchiliche (PFAS) secondo l’allegato 8*a* possono essere importate e fabbricate secondo il diritto anteriore sino al 31 luglio 2024 ed essere consegnate ai consumatori fino a esaurimento delle scorte.
 
-[^8b-1]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)).
+[^8b-1]: Introdotto dalla cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)).
+
+#### Art. 8c
+
+**Disposizione transitoria relativa alla modifica del 2 giugno 2025**[^8c-1]
+
+Le derrate alimentari non conformi alla modifica del 2 giugno 2025 possono ancora essere importate e fabbricate secondo il diritto anteriore sino al 30 giugno 2026 ed essere consegnate ai consumatori fino a esaurimento delle scorte.
+
+[^8c-1]: Introdotto dalla cifra I dell’O del USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391))
 
 #### Art. 9
 
@@ -223,7 +231,7 @@ Allegato 1[^t-1]
 
 ## Tenori massimi di nitrato e perclorato nelle derrate alimentari
 
-[^t-1]: Aggiornato dal n. II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)).
+[^t-1]: Aggiornato dalla cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)) e dalla cifra II dell’O del USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)).
 
 ### *Parte A:* *spiegazioni*
 
@@ -233,7 +241,7 @@ Allegato 1[^t-1]
 
 3 Per la frutta, la verdura e i cereali si fa riferimento ai prodotti elencati nella rispettiva categoria come definiti nell’allegato 1 dell’ordinanza del DFI del 16 dicembre 2016[^annex1-lvlu1-partA-1] concernente i livelli massimi per i residui di antiparassitari nei o sui prodotti di origine vegetale e animale (OAOVA). Il tenore massimo per la frutta non si applica alla frutta con guscio.
 
-[^annex1-lvlu1-partA-1]: [RS 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
+[^annex1-lvlu1-partA-1]: [RS 817.021.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9653)
 
 ### *Parte B:* *tabella*
 
@@ -256,9 +264,10 @@ Allegato 1[^t-1]
 <tr><td>"</td><td>alimenti per lattanti, alimenti di proseguimento e alimenti a fini medici speciali destinati a lattanti e bambini piccoli</td><td>0,01</td><td>riferito alla preparazione pronta al consumo</td></tr>
 <tr><td>"</td><td>cavolo riccio</td><td>0,1</td><td></td></tr>
 <tr><td>"</td><td>cucurbitacee</td><td>0,1</td><td></td></tr>
+<tr><td>"</td><td>fagioli (*Phaseolus vulgaris*) con baccello</td><td>0,15</td><td></td></tr>
 <tr><td>"</td><td>frutta</td><td>0,05</td><td></td></tr>
 <tr><td>"</td><td>ortaggi a foglia ed erbe fresche</td><td>0,5</td><td></td></tr>
-<tr><td>"</td><td>verdura</td><td>0,05</td><td>eccetto verdure a foglia ed erbe fresche, cavolo riccio e cucurbitacee</td></tr>
+<tr><td>"</td><td>verdura</td><td>0,05</td><td>eccetto verdure a foglia ed erbe fresche, cavolo riccio, cucurbitacee e fagioli (*Phaseolus vulgaris*) con baccello</td></tr>
 <tr><td>"</td><td>tè (*Camellia sinensis*)</td><td>0,75</td><td>essiccati</td></tr>
 <tr><td>"</td><td>tè di erbe e di frutti</td><td>0,75</td><td>essiccato</td></tr>
 </table>
@@ -269,7 +278,7 @@ Allegato 2[^t-2]
 
 ## Tenori massimi delle micotossine nelle derrate alimentari
 
-[^t-2]: Aggiornato dal n. II e III dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), dalla correzione del 12 nov. 2019 ([RU 2019 3527](https://fedlex.data.admin.ch/eli/oc/2019/648)), dal n. II cpv. 1 delle O del DFI del 27 mag. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)) e dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)).
+[^t-2]: Aggiornato dalla cifra II e III dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), dalla correzione del 12 nov. 2019 ([RU 2019 3527](https://fedlex.data.admin.ch/eli/oc/2019/648)), dalla cifra II cpv. 1 delle O del DFI del 27 mag. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)), dell’8 dic. 2023 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)) e dalla cifra II dell’O del USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)).
 
 ### *Parte A:* *spiegazioni*
 
@@ -277,7 +286,7 @@ Allegato 2[^t-2]
 
 2 I tenori massimi delle aflatossine si riferiscono alla parte commestibile delle arachidi e della frutta con guscio. Se le arachidi e la frutta con guscio sono analizzati interi, nel calcolo del tenore delle aflatossine si suppone che tutta la contaminazione sia nella parte commestibile, tranne nel caso delle noci del Brasile.
 
-3 Qualora i relativi prodotti derivati o di trasformazione siano derivati o trasformati esclusivamente o quasi esclusivamente a partire dalla frutta con guscio in questione, i tenori massimi delle aflatossine definiti per la corrispondente frutta con guscio si applicano anche ai prodotti derivati o di trasformazione. Negli altri casi, ai prodotti derivati o di trasformazione si applica l’articolo 4 capoversi 1–3.
+3 Nel caso di derrate alimentari costituite da frutta con guscio impiegata come unico ingrediente o nel caso di prodotti di trasformazione costituiti per almeno l’80 % dalla frutta con guscio in questione, i tenori massimi stabiliti per la frutta con guscio si applicano anche a tali prodotti. Negli altri casi si applica l’articolo 4 capoversi 1 e 2.
 
 4 Per gli alimenti a base di cereali e gli altri alimenti destinati ai lattanti e ai bambini piccoli, i tenori massimi si riferiscono alla materia secca.
 
@@ -321,7 +330,15 @@ Per le arachidi e gli altri semi oleosi da sottoporre a pressatura, sono ammesse
 
 Nella somma del limite inferiore il contributo di ciascun epimero non quantificato è fissato a zero.
 
-[^annex2-lvlu1-partA-1]: [RS 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
+12 Nel caso di derrate alimentari costituite da frutta secca impiegata come unico ingrediente o nel caso di prodotti di trasformazione costituiti per almeno l’80 % dalla frutta secca in questione, i tenori massimi stabiliti per la corrispondente frutta secca si applicano anche a tali prodotti. In tutti gli altri casi si applica l’articolo 4 capoversi 1 e 2.
+
+13 Per prodotti derivati da cereali non trasformati si intendono prodotti contenenti almeno l’80 % di prodotti a base di cereali.
+
+14 Nel caso di alimenti a base di cereali e altri alimenti destinati ai lattanti e ai bambini costituiti da cereali o prodotti a base di cereali, i prodotti derivati si riferiscono ai prodotti contenenti almeno l’80 % di tali prodotti a base di cereali.
+
+15 Per la somma delle tossine T-2 e HT-2, i tenori massimi si riferiscono ai limiti inferiori («lower bound»), che sono calcolati ipotizzando che tutti i valori inferiori al limite di quantificazione siano pari a zero.
+
+[^annex2-lvlu1-partA-1]: [RS 817.021.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9653)
 
 ### *Parte B:* *tabella*
 
@@ -366,20 +383,24 @@ Nella somma del limite inferiore il contributo di ciascun epimero non quantifica
 <tr><td>Alcaloidi della *Claviceps* spp.</td><td>alimenti a base di cereali destinati ai lattanti e ai bambini piccoli</td><td>20 µg/kg</td><td></td></tr>
 <tr><td>"</td><td>glutine di frumento</td><td>400 µg/kg</td><td></td></tr>
 <tr><td>"</td><td>orzo, frumento, spelta e avena</td><td>150 µg/kg</td><td>chicchi destinati ai consumatori</td></tr>
-<tr><td>"</td><td>prodotti di macinazione di orzo, frumento, spelta e avena</td><td>100 µg/kg</td><td>con un tenore di ceneri &lt; 900 mg/100 g, fino al 30.6.2024</td></tr>
+<tr><td>"</td><td>prodotti di macinazione di frumento</td><td>100 µg/kg</td><td>con un tenore di ceneri&lt; 900 mg/100 g nella materia secca</td></tr>
+<tr><td>"</td><td>prodotti di macinazione di orzo, spelta e avena</td><td>50 µg/kg</td><td>con un tenore di ceneri&lt; 900 mg/100 g nella materia secca</td></tr>
 <tr><td>"</td><td>prodotti di macinazione di orzo, frumento, spelta e avena</td><td>150 µg/kg</td><td>con un tenore di ceneri ≥ 900 mg/100 g</td></tr>
 <tr><td>"</td><td>prodotti di macinazione di segale</td><td>500 µg/kg</td><td></td></tr>
 <tr><td>"</td><td>segale</td><td>500 µg/kg</td><td>destinata ai consumatori</td></tr>
-<tr><td>Deossinivalenolo</td><td>alimenti a base di cereali e altri alimenti destinati ai lattanti e ai bambini piccoli</td><td>200 µg/kg</td><td></td></tr>
-<tr><td>"</td><td>avena non trasformata</td><td>1750 µg/kg</td><td></td></tr>
-<tr><td>"</td><td>cereali destinati al consumo umano diretto, farina di cereali, crusca e germi come prodotto finito commercializzato per il consumo umano diretto</td><td>750 µg/kg</td><td>eccetto alimenti a base di cereali e gli altri alimenti destinati ai lattanti e ai bambini piccoli</td></tr>
-<tr><td>"</td><td>cereali non trasformati</td><td>1250 µg/kg</td><td>eccetto grano duro, avena e mais</td></tr>
-<tr><td>"</td><td>farina e prodotti della molitura del mais ottenuti per soffiatura o tostatura</td><td>1250 µg/kg</td><td>con una grandezza delle particelle ≤ 500 micrometri, non destinati al consumo umano diretto</td></tr>
-<tr><td>"</td><td>grano duro non trasformato</td><td>1750 µg/kg</td><td></td></tr>
-<tr><td>"</td><td>mais non trasformato</td><td>1750 µg/kg</td><td>eccetto mais non trasformato destinato alla molitura ad umido</td></tr>
-<tr><td>"</td><td>pane, compresi piccoli prodotti da forno, prodotti di pasticceria, biscotteria, merende a base di cereali e cereali da colazione</td><td>500 µg/kg</td><td></td></tr>
-<tr><td>"</td><td>pasta</td><td>750 µg/kg</td><td>secca, contenuto di acqua circa 12 %</td></tr>
-<tr><td>"</td><td>prodotti della molitura del mais sotto forma di semole, semolini e agglomerati in forma di pellet</td><td>750 µg/kg</td><td>con una grandezza delle particelle &gt; 500 micrometri, non destinati al consumo umano diretto</td></tr>
+<tr><td>Deossinivalenolo</td><td>alimenti a base di cereali e altri alimenti destinati ai lattanti e ai bambini</td><td>150 µg/kg</td><td>eccetto prodotti a base di riso (prodotti di cui il riso o i prodotti trasformati a base di riso sono gli unici ingredienti cerealicoli)</td></tr>
+<tr><td></td><td>alimenti a fini medici speciali destinati specificamente ai lattanti e ai bambini</td><td>150 µg/kg</td><td>eccetto prodotti a base di riso (prodotti di cui il riso o i prodotti trasformati a base di riso sono gli unici ingredienti cerealicoli)</td></tr>
+<tr><td>"</td><td>avena, non trasformata</td><td>1750 µg/kg</td><td>compreso tegumento non commestibile</td></tr>
+<tr><td></td><td>cereali, non trasformati</td><td>1000 µg/kg</td><td>eccetto grano duro non trasformato, mais non trasformato e avena non trasformata con tegumento non commestibile; eccetto mais non trasformato destinato alla molitura ad umido e riso</td></tr>
+<tr><td>"</td><td>cereali, popcorn di mais e popcorn destinati al consumo umano diretto</td><td>750 µg/kg</td><td>eccetto riso</td></tr>
+<tr><td>"</td><td>grano duro, non trasformato</td><td>1500 µg/kg</td><td></td></tr>
+<tr><td>"</td><td>mais, non trasformato</td><td>1500 µg/kg</td><td>eccetto mais non trasformato destinato alla molitura ad umido</td></tr>
+<tr><td>"</td><td>pasta</td><td>600 µg/kg</td><td>secca, contenuto di acqua circa 12 %</td></tr>
+<tr><td>"</td><td>polenta precotta pronta per il consumo</td><td>250 µg/kg</td><td></td></tr>
+<tr><td>"</td><td>prodotti da forno, merende a base di cereali e cereali da colazione</td><td>400 µg/kg</td><td>eccetto prodotti a base di riso (prodotti di cui il riso o i prodotti trasformati a base di riso sono gli unici ingredienti cerealicoli); compresi i piccoli prodotti da forno</td></tr>
+<tr><td>"</td><td>prodotti di macinazione di cereali</td><td>600 µg/kg</td><td>eccetto prodotti di macinazione di mais e riso</td></tr>
+<tr><td>"</td><td>prodotti di macinazione di mais</td><td>750 µg/kg</td><td>destinati al consumo umano diretto</td></tr>
+<tr><td>"</td><td>prodotti di macinazione di mais</td><td>1000 µg/kg</td><td>non destinati al consumo umano diretto</td></tr>
 <tr><td>Fumonisine (somma di B<sub>1</sub> e B<sub>2</sub>)</td><td>cereali e altri alimenti a base di mais destinati ai lattanti e ai bambini piccoli</td><td>200 µg/kg</td><td></td></tr>
 <tr><td>"</td><td>cereali da colazione e merende a base di mais</td><td>800 µg/kg</td><td></td></tr>
 <tr><td>"</td><td>farina e prodotti della molitura del mais ottenuti per soffiatura o tostatura</td><td>2000 µg/kg</td><td>con una grandezza delle particelle ≤ 500 micrometri, non destinati al consumo umano diretto</td></tr>
@@ -429,16 +450,40 @@ Nella somma del limite inferiore il contributo di ciascun epimero non quantifica
 <tr><td>"</td><td>succhi di frutta, succhi di frutta concentrati ricostituiti e nettari di frutta</td><td>50 µg/kg</td><td></td></tr>
 <tr><td>"</td><td>succo di mela e prodotti contenenti mele allo stato solido, compresi composta e passato di mele, per lattanti e bambini piccoli</td><td>10 µg/kg</td><td>etichettati e venduti come tali</td></tr>
 <tr><td>Sclerozi della *Claviceps* spp.</td><td>cereali</td><td>0,2 g/kg</td><td>non trasformati; eccetto mais, riso e segale</td></tr>
-<tr><td>"</td><td>segale</td><td>0,5 g/kg</td><td>non trasformata</td></tr>
-<tr><td>Zearalenone</td><td>alimenti a base di cereali e altri alimenti destinati ai lattanti e ai bambini piccoli</td><td>20 µg/kg</td><td>eccetto alimenti a base di mais</td></tr>
-<tr><td>"</td><td>cereali e farina di cereali</td><td>75 µg/kg</td><td>destinati al consumo umano diretto; compresi crusca e germi come prodotto finito commercializzato per il consumo umano diretto; eccetto mais destinato al consumo umano diretto, merende a base di mais e cereali da colazione a base di mais, alimenti a base di cereali (esclusi quelli a base di mais) e altri alimenti destinati ai lattanti e ai bambini piccoli, derrate alimentari trasformate a base di mais destinate ai lattanti e ai bambini piccoli, prodotti della molitura del mais sotto forma di semole, semolini o agglomerati in forma di pellet, nonché farina e prodotti della molitura del mais ottenuti per soffiatura o tostatura</td></tr>
-<tr><td>"</td><td>cereali non trasformati</td><td>100 µg/kg</td><td>diversi dal mais</td></tr>
+<tr><td>"</td><td>segale</td><td>0,2 g/kg</td><td>non trasformata</td></tr>
+<tr><td>Somma delle tossine T-2 e HT‑2</td><td>alimenti a base di cereali e altri alimenti destinati ai lattanti e ai bambini</td><td>10 μg/kg</td><td>eccetto prodotti a base di riso (prodotti di cui il riso o i prodotti trasformati a base di riso sono gli unici ingredienti cerealicoli)</td></tr>
+<tr><td>"</td><td>alimenti a fini medici speciali destinati specificamente ai lattanti e ai bambini</td><td>10 μg/kg</td><td>eccetto prodotti a base di riso (prodotti di cui il riso o i prodotti trasformati a base di riso sono gli unici ingredienti cerealicoli)</td></tr>
+<tr><td></td><td>avena</td><td>100 μg/kg</td><td>destinata al consumo umano diretto</td></tr>
+<tr><td>"</td><td>avena, non trasformata</td><td>1250 μg/kg</td><td>compreso tegumento non commestibile</td></tr>
+<tr><td>"</td><td>cereali da colazione costituiti almeno per il 50 % di crusca di cereali, prodotti di macinazione di chicchi di avena, prodotti di macinazione di chicchi di mais, chicchi di avena integrale, chicchi di orzo, chicchi di mais o chicchi di frumento duro, e costituiti per meno del 40 % di prodotti di macinazione di chicchi di avena e chicchi di avena integrale</td><td>50 μg/kg</td><td></td></tr>
+<tr><td>"</td><td>cereali da colazione costituiti almeno per il 50 % di crusca di cereali, prodotti di macinazione di chicchi di avena, prodotti di macinazione di chicchi di mais, chicchi di avena integrale, chicchi di orzo, chicchi di mais o chicchi di frumento duro, e costituiti almeno per il 40 % di prodotti di macinazione di chicchi di avena e chicchi di avena integrale</td><td>75 μg/kg</td><td></td></tr>
+<tr><td>"</td><td>cereali, non trasformati</td><td>50 μg/kg</td><td>eccetto orzo non trasformato da destinare alla maltazione e altro orzo, mais non trasformato, grano duro non trasformato e avena non trasformata con tegumento non commestibile; eccetto mais destinato alla molitura ad umido e riso</td></tr>
+<tr><td>"</td><td>crusca di cereali diversi dall’avena</td><td>50 μg/kg</td><td></td></tr>
+<tr><td>"</td><td>fiocchi di avena</td><td>100 μg/kg</td><td></td></tr>
+<tr><td>"</td><td>grano duro</td><td>50 μg/kg</td><td>destinata al consumo umano diretto</td></tr>
+<tr><td>"</td><td>grano duro, non trasformato</td><td>100 μg/kg</td><td></td></tr>
+<tr><td>"</td><td>mais</td><td>50 μg/kg</td><td>destinata al consumo umano diretto</td></tr>
+<tr><td>"</td><td>mais, non trasformato</td><td>100 μg/kg</td><td>eccetto mais non trasformato destinato alla molitura ad umido</td></tr>
+<tr><td>"</td><td>merende a base di cereali e cereali da colazione</td><td>20 μg/kg</td><td>eccetto prodotti a base di riso (prodotti di cui il riso o i prodotti trasformati a base di riso sono gli unici ingredienti cerealicoli); eccetto fiocchi di avena, cereali da colazione costituiti almeno per il 50 % di crusca di cereali, prodotti di macinazione di chicchi di avena, prodotti di macinazione di chicchi di mais, chicchi di avena integrale, chicchi di orzo, chicchi di mais o chicchi di frumento duro, e costituiti per meno del 40 % o almeno per il 40 % di prodotti di macinazione di chicchi di avena e chicchi di avena integrale</td></tr>
+<tr><td>"</td><td>orzo</td><td>50 μg/kg</td><td>destinata al consumo umano diretto</td></tr>
+<tr><td>"</td><td>orzo destinato alla maltazione, non trasformato</td><td>200 μg/kg</td><td></td></tr>
+<tr><td>"</td><td>orzo, non trasformato</td><td>150 μg/kg</td><td>altro</td></tr>
+<tr><td>"</td><td>pasta</td><td>20 μg/kg</td><td>secca, contenuto di acqua circa 12 %</td></tr>
+<tr><td>"</td><td>prodotti a base di cereali</td><td>20 μg/kg</td><td>destinati al consumo umano diretto; eccetto avena, orzo, mais e grano duro destinati al consumo umano diretto; eccetto riso</td></tr>
+<tr><td>"</td><td>prodotti da forno</td><td>20 μg/kg</td><td>altri, eccetto prodotti da forno contenenti almeno il 75 % di prodotti di macinazione di avena ed eccetto prodotti a base di riso (prodotti di cui il riso o i prodotti trasformati a base di riso sono gli unici ingredienti cerealicoli)</td></tr>
+<tr><td>"</td><td>prodotti da forno contenenti almeno il 75 % di prodotti di macinazione di avena</td><td>100 μg/kg</td><td>compresi piccoli prodotti da forno</td></tr>
+<tr><td>"</td><td>prodotti di macinazione di avena</td><td>100 μg/kg</td><td>compresa crusca di avena</td></tr>
+<tr><td>"</td><td>prodotti di macinazione di cereali</td><td>20 μg/kg</td><td>eccetto prodotti di macinazione di avena (compresa crusca di avena), crusca di cereali diversi dall’avena e prodotti di macinazione di mais; eccetto prodotti di macinazione di riso</td></tr>
+<tr><td>"</td><td>prodotti di macinazione di mais</td><td>50 μg/kg</td><td></td></tr>
+<tr><td>Zearalenone</td><td>alimenti a base di cereali e altri alimenti destinati ai lattanti e ai bambini</td><td>20 µg/kg</td><td>eccetto prodotti a base di riso (prodotti di cui il riso o i prodotti trasformati a base di riso sono gli unici ingredienti cerealicoli)</td></tr>
+<tr><td>"</td><td>cereali, crusca e germe, destinati al consumo umano diretto farina di cereali e semola</td><td>75 µg/kg</td><td>eccetto mais destinato al consumo umano diretto, merende e cereali da colazione; eccetto prodotti della molitura del mais sotto forma di semole, semolini e agglomerati in forma di pellet ed eccetto altri alimenti destinati ai lattanti e ai bambini piccoli; eccetto riso e prodotti a base di riso (prodotti di cui il riso o i prodotti trasformati a base di riso sono gli unici ingredienti cerealicoli)</td></tr>
+<tr><td>"</td><td>cereali, non trasformati</td><td>100 µg/kg</td><td>eccetto mais non trasformato e riso</td></tr>
 <tr><td>"</td><td>derrate alimentari trasformate a base di mais, destinate ai lattanti e ai bambini piccoli</td><td>20 µg/kg</td><td></td></tr>
 <tr><td>"</td><td>farina e prodotti della molitura del mais ottenuti per soffiatura o tostatura</td><td>300 µg/kg</td><td>con una grandezza delle particelle ≤ 500 micrometri, non destinati al consumo umano diretto</td></tr>
-<tr><td>"</td><td>mais, merende a base di mais e cereali da colazione a base di mais</td><td>100 µg/kg</td><td>destinati al consumo umano diretto</td></tr>
-<tr><td>"</td><td>mais non trasformato</td><td>350 µg/kg</td><td>eccetto mais non trasformato destinato alla molitura ad umido</td></tr>
-<tr><td>"</td><td>olio di mais</td><td>400 µg/kg</td><td>raffinato</td></tr>
-<tr><td>"</td><td>pane, prodotti della pasticceria, biscotteria, merende a base di cereali e cereali da colazione</td><td>50 µg/kg</td><td>eccetto merende a base di mais e cereali da colazione a base di mais; compresi piccoli prodotti da forno</td></tr>
+<tr><td>"</td><td>mais destinato al consumo umano diretto, merende a base di mais e cereali da colazione a base di mais</td><td>100 µg/kg</td><td></td></tr>
+<tr><td>"</td><td>mais, non trasformato</td><td>350 µg/kg</td><td>eccetto mais non trasformato destinato alla molitura ad umido</td></tr>
+<tr><td>"</td><td>olio di mais</td><td>400 µg/kg</td><td>Raffinato</td></tr>
+<tr><td>"</td><td>pane, prodotti della pasticceria, biscotteria, merende a base di cereali e cereali da colazione</td><td>50 µg/kg</td><td>eccetto merende a base di mais e cereali da colazione a base di mais; eccetto prodotti a base di riso (prodotti di cui il riso o i prodotti trasformati a base di riso sono gli unici ingredienti cerealicoli); compresi i piccoli prodotti da forno</td></tr>
 <tr><td>"</td><td>prodotti della molitura del mais sotto forma di semole, semolini e agglomerati in forma di pellet</td><td>200 µg/kg</td><td>con una grandezza delle particelle &gt; 500 micrometri, non destinati al consumo umano diretto</td></tr>
 </table>
 
@@ -448,7 +493,7 @@ Allegato 3[^t-3]
 
 ## Tenori massimi per i metalli e i metalloidi
 
-[^t-3]: Aggiornato dal n. II e III dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), dalla correzione del 12 nov. 2019 ([RU 2019 3527](https://fedlex.data.admin.ch/eli/oc/2019/648)), dal n. II cpv. 1 delle O del DFI del 27 mag. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)) e dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)).
+[^t-3]: Aggiornato dalla cifra II e III dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), dalla correzione del 12 nov. 2019 ([RU 2019 3527](https://fedlex.data.admin.ch/eli/oc/2019/648)), dalla cifra II cpv. 1 delle O del DFI del 27 mag. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)), dell’8 dic. 2023 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)) e dalla cifra II dell’O del USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)).
 
 ### *Parte A:* *spiegazioni*
 
@@ -468,31 +513,43 @@ Allegato 3[^t-3]
 
 8 Per la frutta, la verdura e i cereali si fa riferimento ai prodotti elencati nella rispettiva categoria secondo la definizione di cui all’allegato 1 OAOVA[^annex3-lvlu1-partA-1]. Il tenore massimo per la frutta non si applica alla frutta con guscio.
 
-[^annex3-lvlu1-partA-1]: [RS 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
+9 Il tenore massimo per la frutta con guscio non si applica alla frutta con guscio destinata alla pressatura e alla raffinazione di olio, purché la frutta con guscio pressata restante non sia immessa sul mercato come derrata alimentare. Nel caso in cui la frutta con guscio pressata restante sia immessa sul mercato come derrata alimentare, si applica il tenore massimo, tenendo conto dell’articolo 4 capoversi 1 e 2.
+
+10 Il tenore massimo per i semi oleosi non si applica ai semi oleosi destinati alla pressatura e alla raffinazione di olio, purché i semi oleosi pressati restanti non siano immessi sul mercato come derrate alimentari. Nel caso in cui i semi oleosi pressati restanti siano immessi sul mercato come derrate alimentari, si applica il tenore massimo, tenendo conto dell’articolo 4 capoversi 1 e 2.
+
+11 Per le alghe marine secche, il tenore massimo si applica al prodotto come immesso sul mercato. Per le alghe marine fresche, il tenore massimo si applica dopo il lavaggio e la separazione della parte commestibile. Per le alghe marine fresche, il tenore massimo si applica sulla base della materia secca.
+
+[^annex3-lvlu1-partA-1]: [RS 817.021.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9653)
 
 ### *Parte B:* *tabella*
 
 <table>
 <tr><th>1</th><th>2</th><th>3</th><th>4</th></tr>
 <tr><th>Sostanza</th><th>Derrata alimentare</th><th>Tenore massimo (mg/kg)</th><th>Osservazioni</th></tr>
-<tr><td>Arsenico (inorganico)</td><td>alga bruna *Sargassum fusiforme* (*Hizikia fusiformis*)</td><td>35</td><td>riferito alla materia secca</td></tr>
+<tr><td>Arsenico (inorganico)</td><td>alga bruna *Sargassum fusiforme (Hizikia fusiformis)*</td><td>35</td><td>riferito alla materia secca</td></tr>
+<tr><td>"</td><td>alimenti destinati ai lattanti e ai bambini piccoli</td><td>0,02</td><td></td></tr>
+<tr><td>"</td><td>alimenti per lattanti, alimenti di proseguimento e alimenti a fini medici speciali destinati a lattanti e bambini piccoli</td><td>0,02</td><td>in polvere</td></tr>
+<tr><td>"</td><td>alimenti per lattanti, alimenti di proseguimento e alimenti a fini medici speciali destinati a lattanti e bambini piccoli</td><td>0,01</td><td>liquido</td></tr>
 <tr><td>"</td><td>bevande senz’alcool</td><td>0,1</td><td>altre</td></tr>
-<tr><td>"</td><td>biscotti di riso, gallette di riso, cracker di riso e torte di riso</td><td>0,3</td><td></td></tr>
+<tr><td>"</td><td>bevande senz’alcool a base di riso</td><td>0,03</td><td></td></tr>
+<tr><td>"</td><td>biscotti di riso, gallette di riso, cracker di riso, fiocchi di riso, riso soffiato da colazione e torte di riso e</td><td>0,3</td><td></td></tr>
 <tr><td>"</td><td>collagene</td><td>1</td><td></td></tr>
+<tr><td>"</td><td>farina di riso</td><td>0,25</td><td></td></tr>
 <tr><td>"</td><td>gelatina</td><td>1</td><td></td></tr>
 <tr><td>"</td><td>grassi e oli commestibili</td><td>0,1</td><td></td></tr>
 <tr><td>"</td><td>margarine</td><td>0,1</td><td></td></tr>
 <tr><td>"</td><td>minarina</td><td>0,1</td><td></td></tr>
 <tr><td>"</td><td>riso destinato alla produzione di alimenti per lattanti e bambini piccoli</td><td>0,1</td><td></td></tr>
-<tr><td>"</td><td>riso lavorato non parboiled (riso brillato o bianco)</td><td>0,2</td><td></td></tr>
+<tr><td>"</td><td>riso lavorato non parboiled (riso brillato o bianco)</td><td>0,15</td><td></td></tr>
 <tr><td>"</td><td>riso parboiled o riso semigreggio</td><td>0,25</td><td></td></tr>
-<tr><td>"</td><td>sale commestibile</td><td>1</td><td></td></tr>
 <tr><td>"</td><td>sidro senz’alcool</td><td>0,2</td><td></td></tr>
-<tr><td>"</td><td>succhi di frutta, succhi di frutta diluiti, nettari di frutta e sciroppi di frutta</td><td>0,2</td><td></td></tr>
+<tr><td>"</td><td>succhi di frutta, succhi di frutta concentrati ricostituiti e nettari di frutta</td><td>0,02</td><td></td></tr>
 <tr><td>"</td><td>vermut e bitter senz’alcool</td><td>0,2</td><td></td></tr>
 <tr><td>"</td><td>vino</td><td>0,2</td><td></td></tr>
+<tr><td>Arsenico totale (somma di As<sup>(III)</sup> e As<sup>(V)</sup>)</td><td>sale commestibile</td><td>0,5</td><td></td></tr>
 <tr><td>Cadmio</td><td>aceto di fermentazione e acido acetico commestibile</td><td>0,02</td><td></td></tr>
 <tr><td></td><td>aglio</td><td>0,05</td><td></td></tr>
+<tr><td>"</td><td>*Agaricus bisporus*</td><td>0,05</td><td></td></tr>
 <tr><td>"</td><td>agrumi</td><td>0,02</td><td></td></tr>
 <tr><td>"</td><td>alimenti a base di cereali e altri alimenti destinati ai lattanti e ai bambini piccoli</td><td>0,04</td><td></td></tr>
 <tr><td>"</td><td>alimenti per lattanti e alimenti di proseguimento a base di proteine o di idrolizzati proteici di latte vaccino</td><td>0,01</td><td>in polvere</td></tr>
@@ -517,6 +574,7 @@ Allegato 3[^t-3]
 <tr><td>"</td><td>cioccolato contenente ≥ 30 % e &lt; 50 % di sostanza secca di cacao totale</td><td>0,3</td><td></td></tr>
 <tr><td>"</td><td>cioccolato contenente ≥ 50 % e &lt; 70 % di sostanza secca di cacao totale</td><td>0,8</td><td></td></tr>
 <tr><td>"</td><td>cioccolato contenente ≥ 70 % di sostanza secca di cacao totale</td><td>0,9</td><td></td></tr>
+<tr><td>"</td><td>ciperi dolci</td><td>0,1</td><td></td></tr>
 <tr><td>"</td><td>collagene</td><td>0,5</td><td></td></tr>
 <tr><td>"</td><td>crostacei</td><td>0,5</td><td>muscolo delle appendici e dell’addome</td></tr>
 <tr><td>"</td><td>erbe fresche</td><td>0,2</td><td></td></tr>
@@ -526,9 +584,8 @@ Allegato 3[^t-3]
 <tr><td>"</td><td>frutta a granelli</td><td>0,02</td><td></td></tr>
 <tr><td>"</td><td>frutta a nocciolo</td><td>0,02</td><td></td></tr>
 <tr><td>"</td><td>frutta con guscio</td><td>0,2</td><td>eccetto i pinoli</td></tr>
-<tr><td>"</td><td>funghi coltivati</td><td>0,05</td><td>eccetto fungo ostrica e shiitake</td></tr>
+<tr><td>"</td><td>funghi coltivati</td><td>0,15</td><td>altre</td></tr>
 <tr><td>"</td><td>funghi selvatici</td><td>0,5</td><td></td></tr>
-<tr><td>"</td><td>fungo ostrica</td><td>0,15</td><td></td></tr>
 <tr><td>"</td><td>gelatina</td><td>0,5</td><td></td></tr>
 <tr><td>"</td><td>germi di frumento</td><td>0,2</td><td></td></tr>
 <tr><td>"</td><td>glutine di frumento</td><td>0,15</td><td></td></tr>
@@ -551,7 +608,7 @@ Allegato 3[^t-3]
 <tr><td>"</td><td>ortaggi a bulbo</td><td>0,03</td><td>eccetto aglio</td></tr>
 <tr><td>"</td><td>ortaggi a frutto</td><td>0,02</td><td>eccetto le melanzane</td></tr>
 <tr><td>"</td><td>ortaggi a radice e tubero tropici</td><td>0,05</td><td></td></tr>
-<tr><td>"</td><td>ortaggi a radice e tubero</td><td>0,1</td><td>eccetto sedano rapa, rafano, pastinache, radici di prezzemolo, barbabietola rossa, ramolaccio, salsefrica, rapa, ortaggi a radice e tubero tropici</td></tr>
+<tr><td>"</td><td>ortaggi a radice e tubero</td><td>0,1</td><td>eccetto sedano rapa, rafano, pastinache, radici di prezzemolo, barbabietola rossa, ramolaccio, salsefrica, rapa, ortaggi a radice e tubero tropici e ciperi dolci</td></tr>
 <tr><td>"</td><td>orzo</td><td>0,05</td><td></td></tr>
 <tr><td>"</td><td>papaie</td><td>0,02</td><td></td></tr>
 <tr><td>"</td><td>pastinache</td><td>0,2</td><td></td></tr>
@@ -577,14 +634,13 @@ Allegato 3[^t-3]
 <tr><td>"</td><td>semi di senape</td><td>0,3</td><td></td></tr>
 <tr><td>"</td><td>semi di soia</td><td>0,2</td><td></td></tr>
 <tr><td>"</td><td>semi oleosi</td><td>0,1</td><td>eccetto arachidi, semi di lino, semi di papavero, semi di colza, semi di senape, semi di soia e semi di girasole</td></tr>
-<tr><td>"</td><td>shiitake</td><td>0,15</td><td></td></tr>
 <tr><td>"</td><td>spinaci e simili (foglie)</td><td>0,2</td><td></td></tr>
 <tr><td>"</td><td>verdure a gambo</td><td>0,03</td><td>eccetto porri e sedano</td></tr>
 <tr><td>"</td><td>verdure a foglia</td><td>0,1</td><td>eccetto erbe fresche, piantine di senape, spinaci e simili (foglie)</td></tr>
 <tr><td>Cromo</td><td>collagene</td><td>10</td><td></td></tr>
 <tr><td>"</td><td>gelatina</td><td>10</td><td></td></tr>
 <tr><td>Mercurio</td><td>alimenti per sportivi con un tenore definito di vitamine e sali minerali o altre sostanze rilevanti per sportivi</td><td>0,1</td><td>eccetto le bevande</td></tr>
-<tr><td>"</td><td>cefalopodi</td><td>0,3</td><td></td></tr>
+<tr><td></td><td>cefalopodi</td><td>0,3</td><td>senza visceri</td></tr>
 <tr><td>"</td><td>crostacei</td><td>0,5</td><td>il tenore massimo si applica al muscolo delle appendici e dell’addome</td></tr>
 <tr><td>"</td><td>gasteropodi marini</td><td>0,3</td><td></td></tr>
 <tr><td>"</td><td>granchi e crostacei analoghi *(Brachyura* e *Anomura)*</td><td>0,5</td><td>il tenore massimo si applica al muscolo delle appendici</td></tr>
@@ -594,6 +650,34 @@ Allegato 3[^t-3]
 <tr><td>"</td><td>prodotti della pesca e muscolo di pesce</td><td>0,5</td><td>altri</td></tr>
 <tr><td>"</td><td>sale commestibile</td><td>0,1</td><td></td></tr>
 <tr><td>"</td><td>tutti i prodotti di origine vegetale e animale di cui all’allegato 1 OAOVA</td><td></td><td>si applicano i tenori massimi per i composti di mercurio secondo l’allegato 2 OAOVA.</td></tr>
+<tr><td>Nichel</td><td>alga wakame *(Undaria pinnatifida)*</td><td>40</td><td></td></tr>
+<tr><td>"</td><td>alghe marine</td><td>30</td><td>eccetto alga wakame (*Undaria pinnatifida)*</td></tr>
+<tr><td>"</td><td>alimenti a base di cereali destinati ai lattanti e ai bambini piccoli</td><td>3</td><td></td></tr>
+<tr><td>"</td><td>alimenti destinati ai lattanti e ai bambini piccoli</td><td>0,5</td><td>eccetto succhi di frutta, nettari di frutta e succhi di verdura destinati all’alimentazione per lattanti e bambini piccoli</td></tr>
+<tr><td>"</td><td>alimenti per lattanti, alimenti di proseguimento e alimenti a fini medici speciali destinati a lattanti e bambini piccoli</td><td>0,25</td><td>in polvere</td></tr>
+<tr><td>"</td><td>"</td><td>0,1</td><td>liquido</td></tr>
+<tr><td>"</td><td>arachidi (semi oleosi)</td><td>12</td><td></td></tr>
+<tr><td>"</td><td>cacao in polvere e cacao magro in polvere</td><td>15</td><td>destinati al consumo diretto o a essere utilizzati come ingrediente nel cacao zuccherato in polvere o cioccolato in polvere (bevande al cacao in polvere)</td></tr>
+<tr><td>"</td><td>castagne, noci comuni, noci del Brasile, noci di anacardi e pinoli</td><td>10</td><td></td></tr>
+<tr><td>"</td><td>cavoli</td><td>0,5</td><td>riferito al peso fresco</td></tr>
+<tr><td>"</td><td>cioccolato (cioccolato al latte) contenente &lt; 30 % di sostanza secca di cacao totale</td><td>2,5</td><td></td></tr>
+<tr><td>"</td><td>cioccolato contenente ≥ 30 % di sostanza secca di cacao totale</td><td>7</td><td></td></tr>
+<tr><td></td><td>erbe fresche</td><td>1,2</td><td>riferito al peso fresco</td></tr>
+<tr><td>"</td><td>fagioli secchi e lupini secchi/semi di lupini</td><td>12</td><td></td></tr>
+<tr><td>"</td><td>frutta con guscio</td><td>3,5</td><td>eccetto castagne, pinoli, noci comuni, noci del Brasile e noci di anacardi</td></tr>
+<tr><td>"</td><td>legumi</td><td>4</td><td>eccetto fagioli secchi e lupini secchi/semi di lupini</td></tr>
+<tr><td>"</td><td>leguminose</td><td>1</td><td>eccetto semi di soia/edamame (Glycine max)</td></tr>
+<tr><td>"</td><td>ortaggi a bulbo</td><td>0,9</td><td>riferito al peso fresco</td></tr>
+<tr><td>"</td><td>ortaggi a frutto</td><td>0,4</td><td>riferito al peso fresco</td></tr>
+<tr><td>"</td><td>ortaggi a radice e tubero</td><td>0,9</td><td>riferito al peso fresco</td></tr>
+<tr><td>"</td><td>semi di girasole (semi oleosi)</td><td>8</td><td></td></tr>
+<tr><td>"</td><td>semi di soia (semi oleosi)</td><td>15</td><td></td></tr>
+<tr><td>"</td><td>semi di soia/edamame (*Glycine max*)</td><td>6</td><td></td></tr>
+<tr><td></td><td>succhi di frutta e nettari di frutta contenenti succhi e nettari derivanti da frutti della passione, frutti del cacao, piccoli frutti, bacche e acqua di cocco</td><td>1</td><td>compresi succhi di frutta, nettari di frutta e succhi di verdura destinati all’alimentazione</td></tr>
+<tr><td></td><td>succhi di frutta, nettari di frutta e succhi di verdura</td><td>0,25</td><td>eccetto succhi di frutta e nettari di frutta contenenti succhi e nettari derivanti da frutti della passione, frutti del cacao, piccoli frutti, bacche e acqua di cocco; compresi succhi di frutta, nettari di frutta e succhi di verdura destinati all’alimentazione</td></tr>
+<tr><td>"</td><td>"</td><td>0,4</td><td>in polvere, a base di isolati proteici della soia, soli o mescolati a proteine di latte vaccino</td></tr>
+<tr><td>"</td><td>verdure a foglia</td><td>0,5</td><td>eccetto erbe fresche, riferito al peso fresco</td></tr>
+<tr><td>"</td><td>verdure a gambo</td><td>0,4</td><td>riferito al peso fresco</td></tr>
 <tr><td>Piombo</td><td>aceto di fermentazione</td><td>0,2</td><td></td></tr>
 <tr><td>"</td><td>alimenti a base di cereali e altri alimenti destinati ai lattanti e ai bambini</td><td>0,02</td><td>eccetto le bevande</td></tr>
 <tr><td>"</td><td>alimenti a fini medici speciali destinati specificamente ai lattanti e ai bambini</td><td>0,02</td><td>commercializzati in polvere</td></tr>
@@ -676,7 +760,7 @@ Allegato 4[^t-4]
 
 ## Tenori massimi per il 3-monocloro-1,2-propandiolo (3-MCPD) e i glicidil esteri degli acidi grassi nelle derrate alimentari
 
-[^t-4]: Aggiornato dal n. II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)).
+[^t-4]: Aggiornato dalla cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)) e dalla cifra II dell’O del USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)).
 
 ### *Parte A:* *spiegazioni*
 
@@ -691,8 +775,8 @@ Allegato 4[^t-4]
 <tr><td>"</td><td>"</td><td>6</td><td>in forma liquida; espressi in glicidolo</td></tr>
 <tr><td>"</td><td>oli e grassi vegetali, oli di pesce e oli di altri organismi marini destinati al consumatore o all’uso come ingredienti in derrate alimentari</td><td>1000</td><td>eccetto oli e grassi vegetali, oli di pesce e oli di altri organismi marini destinati alla fabbricazione di alimenti a base di cereali e altri alimenti per lattanti e bambini piccoli; espressi in glicidolo</td></tr>
 <tr><td>"</td><td>oli e grassi vegetali, oli di pesce e oli di altri organismi marini destinati alla fabbricazione di alimenti a base di cereali e altri alimenti per lattanti e bambini piccoli</td><td>500</td><td>espressi in glicidolo</td></tr>
-<tr><td>Somma di 3‑monocloropropandiolo (3‑MCPD) e relativi esteri degli acidi grassi</td><td>alimenti per lattanti, alimenti di proseguimento e alimenti a fini medici speciali destinati a lattanti e bambini piccoli</td><td>125</td><td>in polvere; espressi come 3‑MCPD</td></tr>
-<tr><td>"</td><td>"</td><td>15</td><td>in forma liquida; espressi come 3‑MCPD</td></tr>
+<tr><td>Somma di 3‑monocloropropandiolo (3‑MCPD) e relativi esteri degli acidi grassi</td><td>alimenti per lattanti, alimenti di proseguimento e alimenti a fini medici speciali destinati a lattanti e bambini piccoli</td><td>80</td><td>in polvere; espressi come 3-MCPD</td></tr>
+<tr><td>"</td><td>"</td><td>12</td><td>in forma liquida; espressi come 3-MCPD</td></tr>
 <tr><td>"</td><td>grassi e oli commestibili di cocco, mais, colza, girasole, semi di soia, palmisti e oli di oliva (composti da oli di oliva raffinati e oli di oliva vergini)</td><td>1 250</td><td>eccetto oli di oliva vergini, oli e grassi vegetali destinati alla fabbricazione di alimenti a base di cereali e altri alimenti per lattanti e bambini piccoli; destinati al consumo umano diretto o all’impiego quali ingredienti di derrate alimentari; espressi come 3‑MCPD; il tenore massimo si applica solo alle miscele di questi grassi e oli se la loro composizione è un segreto aziendale e il titolare della merce non lo conosce e non può scoprirlo</td></tr>
 <tr><td>"</td><td>grassi e oli commestibili di altre piante (compresi oli di sansa d’oliva), oli di pesce e oli di altri organismi marini</td><td>2 500</td><td>eccetto oli e grassi vegetali, oli di pesce e oli di altri organismi marini destinati alla fabbricazione di alimenti a base di cereali e altri alimenti per lattanti e bambini piccoli; destinati al consumo umano diretto o all’impiego quali ingredienti di derrate alimentari; espressi come 3‑MCPD; il tenore massimo si applica solo alle miscele di questi grassi e oli se la loro composizione è un segreto aziendale e il titolare della merce non lo conosce e non può scoprirlo</td></tr>
 <tr><td>"</td><td>oli e grassi vegetali, oli di pesce e oli di altri organismi marini destinati alla fabbricazione di alimenti a base di cereali e altri alimenti per lattanti e bambini piccoli</td><td>750</td><td>Se il prodotto è una miscela di diversi oli o grassi di origine botanica identica o diversa, il tenore massimo si applica alla miscela; gli oli e i grassi usati come ingredienti per la miscela devono rispettare il tenore massimo stabilito per l’olio e il grasso; espressi come 3‑MCPD</td></tr>
@@ -706,7 +790,7 @@ Allegato 5[^t-5]
 
 ## Tenori massimi di diossine e PCB nelle derrate alimentari
 
-[^t-5]: Aggiornato dal n. II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)).
+[^t-5]: Aggiornato dalla cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)) e dalla cifra II dell’O del USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)).
 
 ### *Parte A:* *spiegazioni*
 
@@ -718,9 +802,9 @@ Allegato 5[^t-5]
 
 4 Per il fegato di pesce in scatola il tenore massimo si applica all’intero contenuto commestibile della scatola.
 
-5 I tenori massimi espressi in rapporto al grasso non si applicano alle derrate alimentari contenenti &lt; 2 % di grassi. Per le derrate alimentari che contengono meno del 2 % di grassi, il tenore massimo applicabile è il tenore in funzione del prodotto corrispondente al tenore in funzione del prodotto per una derrata alimentare contenente 2 % di grassi, calcolato a partire dal tenore massimo fissato in rapporto al grasso, secondo la seguente formula:
+5 Per quanto concerne la carne e i prodotti a base di carne, il latte crudo e i prodotti lattiero caseari nonché le uova e gli ovoprodotti, i tenori massimi espressi in rapporto al grasso non si applicano alle derrate alimentari contenenti meno del 2 % di grassi. Per le derrate alimentari contenenti meno del 2 % di grassi, il tenore massimo applicabile è il tenore in funzione del prodotto. Questo tenore massimo è calcolato secondo la seguente formula:
 
-\- Tenore massimo espresso in funzione del prodotto per le derrate alimentari contenenti meno del 2 % di grassi = tenore massimo espresso in rapporto al grasso per queste derrate alimentari × 0,02.
+\- tenore massimo espresso in funzione del prodotto per gli alimenti contenenti meno del 2 % di grassi = tenore massimo espresso in rapporto al grasso (per queste derrate alimentari) × 0,02
 
 6 I tenori massimi sono fissati per i seguenti parametri:
 
@@ -750,9 +834,9 @@ Allegato 5[^t-5]
 <tr><td>"</td><td>carne e prodotti a base di carne di selvaggina da penna</td><td>2 pg/g</td><td>eccetto frattaglie; riferito al grasso</td></tr>
 <tr><td>"</td><td>carne e prodotti a base di carne di coniglio</td><td>1 pg/g</td><td>eccetto frattaglie; riferito al grasso</td></tr>
 <tr><td>"</td><td>carne e prodotti a base di carne di equini</td><td>5 pg/g</td><td>eccetto frattaglie; riferito al grasso</td></tr>
-<tr><td>"</td><td>carne e prodotti a base di carne di cervo</td><td>3 pg/g</td><td>eccetto frattaglie; riferito al grasso</td></tr>
-<tr><td>"</td><td>carne e prodotti a base di carne di cinghiale (*Sus scrofa*)</td><td>5 pg/g</td><td>eccetto frattaglie; riferito al grasso</td></tr>
+<tr><td>"</td><td>carne e prodotti di carne a base di cervidi</td><td>3,0 pg/g</td><td>eccetto frattaglie; riferito al grasso</td></tr>
 <tr><td>"</td><td>carne suina e prodotti a base di carne suina</td><td>1 pg/g</td><td>eccetto frattaglie; riferito al grasso</td></tr>
+<tr><td>"</td><td>carne e prodotti a base di carne di cinghiale (*Sus scrofa*)</td><td>5 pg/g</td><td>eccetto frattaglie; riferito al grasso</td></tr>
 <tr><td>"</td><td>derrate alimentari destinate ai lattanti e ai bambini piccoli</td><td>0,1 pg/g</td><td>riferito al peso fresco</td></tr>
 <tr><td>"</td><td>fegato di bovini, caprini, pollame, suini ed equini e prodotti derivati</td><td>0,3 pg/g</td><td>riferito al peso fresco</td></tr>
 <tr><td>"</td><td>fegato di ovini e prodotti derivati</td><td>1,25 pg/g</td><td>riferito al peso fresco</td></tr>
@@ -772,8 +856,8 @@ Allegato 5[^t-5]
 <tr><td>Somma di diossine e dl-PCB (OMS-PCDD/ F-PCB-TEQ)</td><td>carne e prodotti a base di carne di bovini, ovini e caprini</td><td>4 pg/g</td><td>eccetto frattaglie; riferito al grasso</td></tr>
 <tr><td>"</td><td>carne e prodotti a base di carne di coniglio</td><td>1,5 pg/g</td><td>eccetto frattaglie; riferito al grasso</td></tr>
 <tr><td>"</td><td>carne e prodotti a base di carne di equini</td><td>10 pg/g</td><td>eccetto frattaglie; riferito al grasso</td></tr>
-<tr><td>"</td><td>carne e prodotti a base di carne di cervo</td><td>7,5 pg/g</td><td>eccetto frattaglie; riferito al grasso</td></tr>
 <tr><td>"</td><td>carne e prodotti a base di carne di cinghiale (*Sus scrofa*)</td><td>10 pg/g</td><td>eccetto frattaglie; riferito al grasso</td></tr>
+<tr><td>"</td><td>carne e prodotti di carne a base di cervidi</td><td>7.5 pg/g</td><td>eccetto frattaglie; riferito al grasso</td></tr>
 <tr><td>"</td><td>carne di pollame e prodotti a base di carne di pollame</td><td>3 pg/g</td><td>eccetto frattaglie; riferito al grasso</td></tr>
 <tr><td>"</td><td>carne e prodotti a base di carne di selvaggina da penna</td><td>4 pg/g</td><td>eccetto frattaglie; riferito al grasso</td></tr>
 <tr><td>"</td><td>carne suina e prodotti a base di carne suina</td><td>1,25 pg/g</td><td>eccetto frattaglie; riferito al grasso</td></tr>
@@ -821,7 +905,7 @@ Allegato 6[^t-6]
 
 ## Tenori massimi di idrocarburi policiclici aromatici nelle derrate alimentari
 
-[^t-6]: Aggiornato dal n. II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)).
+[^t-6]: Aggiornato dalla cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)) e dalla cifra II dell’O del USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)).
 
 ### *Parte A:* *spiegazioni*
 
@@ -838,48 +922,52 @@ Allegato 6[^t-6]
 ### *Parte B:* *tabella*
 
 <table>
-<tr><th>1</th><th>2</th><th>3</th><th>4</th></tr>
-<tr><th>Sostanza</th><th>Derrata alimentare</th><th>Tenore massimo (µg/kg)</th><th>Osservazioni</th></tr>
-<tr><td>Benzo(a)pirene</td><td>alimenti a base di cereali e altri alimenti destinati ai lattanti e ai bambini piccoli</td><td>1</td><td></td></tr>
-<tr><td>"</td><td>alimenti di origine vegetale in polvere per la preparazione di bevande</td><td>10</td><td>eccetto fave di cacao e fibra di cacao e prodotti da esse derivati</td></tr>
-<tr><td>"</td><td>alimenti dietetici a fini medici speciali destinati specificamente ai lattanti</td><td>1</td><td></td></tr>
-<tr><td>"</td><td>alimenti per lattanti e alimenti di proseguimento</td><td>1</td><td>compresi latte per lattanti e latte di proseguimento</td></tr>
-<tr><td>"</td><td>carne e prodotti a base di carne</td><td>5</td><td>trattati termicamente; per la vendita al consumatore</td></tr>
-<tr><td>"</td><td>"</td><td>2</td><td>affumicati</td></tr>
-<tr><td>Benzo(a)pirene</td><td>chips di banana</td><td>2</td><td></td></tr>
-<tr><td>"</td><td>crostacei</td><td>2</td><td>affumicati; il tenore massimo si applica al muscolo delle appendici e dell’addome</td></tr>
-<tr><td>"</td><td>erbe aromatiche</td><td>10</td><td>essiccate</td></tr>
-<tr><td>"</td><td>fibra di cacao e prodotti derivati dalla fibra di cacao, destinati a essere utilizzati come ingredienti di derrate alimentari</td><td>3</td><td></td></tr>
-<tr><td>"</td><td>granchi e crostacei analoghi *(Brachyura* e *Anomura)*</td><td>2</td><td>affumicati; il tenore massimo si applica al muscolo delle appendici</td></tr>
-<tr><td>"</td><td>integratori alimentari contenenti prodotti vegetali</td><td>10</td><td>eccetto integratori alimentari contenenti oli vegetali; compresi integratori alimentari contenenti propoli, pappa reale o spirulina; compresi loro preparati; il tenore massimo si applica agli integratori alimentari nella forma in cui vengono messi in vendita</td></tr>
-<tr><td>"</td><td>[molluschi bivalvi](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CONSLEG:2006R1881:20140101:IT:HTML)</td><td>6</td><td>affumicati</td></tr>
-<tr><td>"</td><td>"</td><td>5</td><td>freschi, refrigerati o congelati</td></tr>
-<tr><td>"</td><td>muscolo di pesce e prodotti della pesca</td><td>2</td><td>eccetto spratti, spratti in scatola, molluschi bivalvi; affumicati</td></tr>
-<tr><td>"</td><td>oli e grassi destinati al consumo umano diretto o all’utilizzazione quali ingredienti di derrate alimentari</td><td>2</td><td>eccetto burro di cacao e olio di cocco</td></tr>
-<tr><td>"</td><td>olio di cocco</td><td>2</td><td>olio di cocco destinato al consumo diretto nell’alimentazione umana o a essere usato come ingrediente di derrate alimentari</td></tr>
-<tr><td>"</td><td>semi di cacao e prodotti derivati</td><td>5</td><td>eccetto fibra di cacao e prodotti derivati dalla fibra di cacao, destinati a essere utilizzati come ingredienti di derrate alimentari; riferito al grasso</td></tr>
-<tr><td>"</td><td>spezie</td><td>10</td><td>essiccate; eccetto cardamomo e *Capsicum* spp*.* affumicato</td></tr>
-<tr><td>"</td><td>spratti (*Sprattus sprattus*)</td><td>5</td><td>compresi spratti in scatola; affumicati</td></tr>
-<tr><td>Somma di benzo(a)pirene, benzo(a)antracene, benzo(b)fluorantene e crisene</td><td>alimenti a base di cereali e altri alimenti destinati ai lattanti e ai bambini piccoli</td><td>1</td><td></td></tr>
-<tr><td>"</td><td>alimenti di origine vegetale in polvere per la preparazione di bevande</td><td>50</td><td>eccetto fave di cacao e fibra di cacao e prodotti da esse derivati</td></tr>
-<tr><td>"</td><td>alimenti dietetici a fini medici speciali destinati specificamente ai lattanti</td><td>1</td><td></td></tr>
-<tr><td>"</td><td>alimenti per lattanti e alimenti di proseguimento</td><td>1</td><td>compresi latte per lattanti e latte di proseguimento</td></tr>
-<tr><td>"</td><td>carne e prodotti a base di carne</td><td>30</td><td>trattati termicamente; per la vendita al consumatore finale</td></tr>
-<tr><td>"</td><td>"</td><td>12</td><td>affumicati</td></tr>
-<tr><td>"</td><td>chips di banana</td><td>20</td><td></td></tr>
-<tr><td>"</td><td>crostacei</td><td>12</td><td>affumicati; il tenore massimo si applica al muscolo delle appendici e dell’addome</td></tr>
-<tr><td>"</td><td>erbe aromatiche</td><td>50</td><td>essiccate</td></tr>
-<tr><td>"</td><td>fibra di cacao e prodotti derivati dalla fibra di cacao, destinati a essere utilizzati come ingredienti di derrate alimentari</td><td>15</td><td></td></tr>
-<tr><td>"</td><td>granchi e crostacei analoghi *(Brachyura* e *Anomura)*</td><td>12</td><td>affumicati; il tenore massimo si applica al muscolo delle appendici</td></tr>
-<tr><td>"</td><td>integratori alimentari contenenti prodotti vegetali</td><td>50</td><td>eccetto integratori alimentari contenenti oli vegetali; compresi integratori alimentari contenenti propoli, pappa reale o spirulina; compresi loro preparati; il tenore massimo si applica agli integratori alimentari nella forma in cui vengono messi in vendita</td></tr>
-<tr><td>"</td><td>[molluschi bivalvi](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CONSLEG:2006R1881:20140101:IT:HTML)</td><td>35</td><td>affumicati</td></tr>
-<tr><td>"</td><td>"</td><td>30</td><td>freschi, refrigerati o congelati</td></tr>
-<tr><td>Somma di benzo(a)pirene, benzo(a)antracene, benzo(b)fluorantene e crisene</td><td>muscolo di pesce e prodotti della pesca</td><td>12</td><td>eccetto spratti, spratti in scatola, molluschi bivalvi; affumicati</td></tr>
-<tr><td>"</td><td>oli e grassi destinati al consumo umano diretto o all’utilizzazione quali ingredienti di derrate alimentari</td><td>10</td><td>eccetto burro di cacao e olio di cocco</td></tr>
-<tr><td>"</td><td>olio di cocco</td><td>20</td><td>olio di cocco destinato al consumo diretto nell’alimentazione umana o a essere usato come ingrediente di derrate alimentari</td></tr>
-<tr><td>"</td><td>semi di cacao e prodotti derivati</td><td>30</td><td>eccetto fibra di cacao e prodotti derivati dalla fibra di cacao, destinati a essere utilizzati come ingredienti di derrate alimentari; riferito al grasso</td></tr>
-<tr><td>"</td><td>spezie</td><td>50</td><td>essiccate; eccetto cardamomo e Capsicum spp. affumicato</td></tr>
-<tr><td>"</td><td>spratti (*Sprattus sprattus*)</td><td>30</td><td>compresi spratti in scatola; affumicati</td></tr>
+<tr><th>1</th><th>2</th><th>3</th><th colspan="2">4</th></tr>
+<tr><th>Sostanza</th><th>Derrata alimentare</th><th>Tenore massimo (µg/kg)</th><th colspan="2">Osservazioni</th></tr>
+<tr><td>Benzo(a)pirene</td><td>alimenti a base di cereali e altri alimenti destinati ai lattanti e ai bambini piccoli</td><td>1</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>alimenti di origine vegetale in polvere per la preparazione di bevande</td><td>10</td><td colspan="2">eccetto fave di cacao e fibra di cacao e prodotti da esse derivati</td></tr>
+<tr><td>"</td><td>alimenti dietetici a fini medici speciali destinati specificamente ai lattanti</td><td colspan="2">1</td><td colspan="2">in polvere</td></tr>
+<tr><td></td><td>"</td><td colspan="2">1</td><td colspan="2">liquido</td></tr>
+<tr><td></td><td>alimenti per lattanti e alimenti di proseguimento</td><td colspan="2">1</td><td colspan="2">in polvere</td></tr>
+<tr><td></td><td>"</td><td colspan="2">1</td><td colspan="2">liquido</td></tr>
+<tr><td>"</td><td>carne e prodotti a base di carne</td><td>5</td><td colspan="2">trattati termicamente; per la vendita al consumatore</td></tr>
+<tr><td>"</td><td>"</td><td>2</td><td colspan="2">affumicati</td></tr>
+<tr><td>"</td><td>chips di banana</td><td>2</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>crostacei</td><td>2</td><td colspan="2">affumicati; il tenore massimo si applica al muscolo delle appendici e dell’addome</td></tr>
+<tr><td>"</td><td>erbe aromatiche</td><td>10</td><td colspan="2">essiccate</td></tr>
+<tr><td>"</td><td>fibra di cacao e prodotti derivati dalla fibra di cacao, destinati a essere utilizzati come ingredienti di derrate alimentari</td><td>3</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>granchi e crostacei analoghi *(Brachyura* e *Anomura)*</td><td>2</td><td colspan="2">affumicati; il tenore massimo si applica al muscolo delle appendici</td></tr>
+<tr><td>"</td><td>integratori alimentari contenenti prodotti vegetali</td><td>10</td><td colspan="2">eccetto integratori alimentari contenenti oli vegetali; compresi integratori alimentari contenenti propoli, pappa reale o spirulina; compresi loro preparati; il tenore massimo si applica agli integratori alimentari nella forma in cui vengono messi in vendita</td></tr>
+<tr><td>"</td><td>[molluschi bivalvi](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CONSLEG:2006R1881:20140101:IT:HTML)</td><td>6</td><td colspan="2">affumicati</td></tr>
+<tr><td>"</td><td>"</td><td>5</td><td colspan="2">freschi, refrigerati o congelati</td></tr>
+<tr><td>"</td><td>muscolo di pesce e prodotti della pesca</td><td>2</td><td colspan="2">eccetto spratti, spratti in scatola, molluschi bivalvi; affumicati</td></tr>
+<tr><td>"</td><td>oli e grassi destinati al consumo umano diretto o all’utilizzazione quali ingredienti di derrate alimentari</td><td>2</td><td colspan="2">eccetto burro di cacao e olio di cocco</td></tr>
+<tr><td>"</td><td>olio di cocco</td><td>2</td><td colspan="2">olio di cocco destinato al consumo diretto nell’alimentazione umana o a essere usato come ingrediente di derrate alimentari</td></tr>
+<tr><td>"</td><td>semi di cacao e prodotti derivati</td><td>5</td><td colspan="2">eccetto fibra di cacao e prodotti derivati dalla fibra di cacao, destinati a essere utilizzati come ingredienti di derrate alimentari; riferito al grasso</td></tr>
+<tr><td>"</td><td>spezie</td><td>10</td><td colspan="2">essiccate; eccetto cardamomo e *Capsicum* spp*.* affumicato</td></tr>
+<tr><td>"</td><td>spratti (*Sprattus sprattus*)</td><td>5</td><td colspan="2">compresi spratti in scatola; affumicati</td></tr>
+<tr><td>Somma di benzo(a)pirene, benzo(a)antracene, benzo(b)fluorantene e crisene</td><td>alimenti a base di cereali e altri alimenti destinati ai lattanti e ai bambini piccoli</td><td>1</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>alimenti di origine vegetale in polvere per la preparazione di bevande</td><td>50</td><td colspan="2">eccetto fave di cacao e fibra di cacao e prodotti da esse derivati</td></tr>
+<tr><td></td><td>alimenti dietetici a fini medici speciali destinati specificamente ai lattanti</td><td colspan="2">1</td><td colspan="2">in polvere</td></tr>
+<tr><td></td><td>"</td><td colspan="2">1</td><td colspan="2">liquido</td></tr>
+<tr><td></td><td>alimenti per lattanti e alimenti di proseguimento</td><td colspan="2">1</td><td colspan="2">in polvere; compresi latte per lattanti e latte di proseguimento</td></tr>
+<tr><td></td><td>"</td><td colspan="2">1</td><td colspan="2">liquido; compresi latte per lattanti e latte di proseguimento</td></tr>
+<tr><td>"</td><td>carne e prodotti a base di carne</td><td>30</td><td colspan="2">trattati termicamente; per la vendita al consumatore finale</td></tr>
+<tr><td>"</td><td>"</td><td>12</td><td colspan="2">affumicati</td></tr>
+<tr><td>"</td><td>chips di banana</td><td>20</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>crostacei</td><td>12</td><td colspan="2">affumicati; il tenore massimo si applica al muscolo delle appendici e dell’addome</td></tr>
+<tr><td>"</td><td>erbe aromatiche</td><td>50</td><td colspan="2">essiccate</td></tr>
+<tr><td>"</td><td>fibra di cacao e prodotti derivati dalla fibra di cacao, destinati a essere utilizzati come ingredienti di derrate alimentari</td><td>15</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>granchi e crostacei analoghi *(Brachyura* e *Anomura)*</td><td>12</td><td colspan="2">affumicati; il tenore massimo si applica al muscolo delle appendici</td></tr>
+<tr><td>"</td><td>integratori alimentari contenenti prodotti vegetali</td><td>50</td><td colspan="2">eccetto integratori alimentari contenenti oli vegetali; compresi integratori alimentari contenenti propoli, pappa reale o spirulina; compresi loro preparati; il tenore massimo si applica agli integratori alimentari nella forma in cui vengono messi in vendita</td></tr>
+<tr><td>"</td><td>[molluschi bivalvi](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CONSLEG:2006R1881:20140101:IT:HTML)</td><td>35</td><td colspan="2">affumicati</td></tr>
+<tr><td>"</td><td>"</td><td>30</td><td colspan="2">freschi, refrigerati o congelati</td></tr>
+<tr><td>Somma di benzo(a)pirene, benzo(a)antracene, benzo(b)fluorantene e crisene</td><td>muscolo di pesce e prodotti della pesca</td><td>12</td><td colspan="2">eccetto spratti, spratti in scatola, molluschi bivalvi; affumicati</td></tr>
+<tr><td>"</td><td>oli e grassi destinati al consumo umano diretto o all’utilizzazione quali ingredienti di derrate alimentari</td><td>10</td><td colspan="2">eccetto burro di cacao e olio di cocco</td></tr>
+<tr><td>"</td><td>olio di cocco</td><td>20</td><td colspan="2">olio di cocco destinato al consumo diretto nell’alimentazione umana o a essere usato come ingrediente di derrate alimentari</td></tr>
+<tr><td>"</td><td>semi di cacao e prodotti derivati</td><td>30</td><td colspan="2">eccetto fibra di cacao e prodotti derivati dalla fibra di cacao, destinati a essere utilizzati come ingredienti di derrate alimentari; riferito al grasso</td></tr>
+<tr><td>"</td><td>spezie</td><td>50</td><td colspan="2">essiccate; eccetto cardamomo e Capsicum spp. affumicato</td></tr>
+<tr><td>"</td><td>spratti (*Sprattus sprattus*)</td><td>30</td><td colspan="2">compresi spratti in scatola; affumicati</td></tr>
 </table>
 
 Allegato 7
@@ -907,7 +995,7 @@ Allegato 8[^t-7]
 
 ## Tenori massimi di tossine vegetali naturali
 
-[^t-7]: Aggiornato dal n. II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)).
+[^t-7]: Aggiornato dalla cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)) e dalla cifra II dell’O del USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)).
 
 ### *Parte A:* *spiegazioni*
 
@@ -957,9 +1045,11 @@ Allegato 8[^t-7]
 
 4 Per la frutta, la verdura e i cereali si fa riferimento ai prodotti elencati nella rispettiva categoria secondo la definizione di cui all’allegato 1 OAOVA[^annex8-lvlu1-partA-1]. Il tenore massimo per la frutta non si applica alla frutta a guscio.
 
-5 Il tenore massimo per l’acido cianidrico, compreso l’acido cianidrico combinato con glicosidi cianogenetici, non si applica ai semi di lino non trasformati interi, macinati, moliti, frantumati o tritati e alle mandorle amare non trasformate intere, macinate, molite, frantumate o tritate destinate al consumatore in piccole quantità laddove vi è l’avvertenza «Da consumarsi previa cottura. Non consumare crudi!». I semi di lino non trasformati interi, macinati, moliti, frantumati o tritati che presentano l’avvertenza devono rispettare il tenore massimo di 250 mg/kg di acido cianidrico.
+5 Il tenore massimo per l’acido cianidrico, compreso l’acido cianidrico combinato con glicosidi cianogenetici, non si applica ai semi di lino non trasformati interi, macinati, moliti, frantumati o tritati e alle mandorle amare non trasformate intere, macinate, molite, frantumate o tritate destinate al consumatore in piccole quantità laddove vi è l’avvertenza «Da consumarsi previa cottura. Non consumare crudi!». I semi di lino interi, macinati, moliti, frantumati o tritati che presentano l’avvertenza devono rispettare il tenore massimo di 250 mg/kg di acido cianidrico.
 
-[^annex8-lvlu1-partA-1]: [RS 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
+6 Nel caso di alimenti a base di cereali e altri alimenti destinati ai lattanti e ai bambini costituiti da cereali o prodotti a base di cereali, i prodotti derivati si riferiscono ai prodotti contenenti almeno l’80 % di tali prodotti a base di cereali.
+
+[^annex8-lvlu1-partA-1]: [RS 817.021.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9653)
 
 ### *Parte B:* *tabella*
 
@@ -971,8 +1061,8 @@ Allegato 8[^t-7]
 <tr><td>"</td><td>mandorle</td><td>35 mg/kg</td><td>non trasformate intere, macinate, molite, frantumate o tritate destinate al consumatore</td></tr>
 <tr><td>"</td><td>radice di manioca</td><td>50 mg/kg</td><td>fresca, pelata</td></tr>
 <tr><td>"</td><td>semi di albicocca</td><td>20 mg/kg</td><td>non trasformati interi, macinati, moliti, frantumati o tritati destinati al consumatore</td></tr>
-<tr><td>"</td><td>semi di lino</td><td>250 mg/kg</td><td>non trasformati interi, macinati, moliti, frantumati o tritati, eccetto i semi di lino destinati al consumatore</td></tr>
-<tr><td>"</td><td>semi di lino</td><td>150 mg/kg</td><td>non trasformati interi, macinati, moliti, frantumati o tritati destinati al consumatore</td></tr>
+<tr><td>"</td><td>semi di lino</td><td>250 mg/kg</td><td>non trasformati interi, macinati, moliti, frantumati o tritati, eccetto i semi di lino destinati al consumatore ed eccetto semi oleosi da sottoporre a pressatura per la produzione di oli vegetali raffinati, purché i semi oleosi pressati restanti non siano immessi sul mercato come alimenti. Nel caso in cui i semi oleosi pressati restanti siano immessi sul mercato come derrate alimentari, si applica il tenore massimo, tenendo conto dell’articolo 4 capoversi 1 e 2.</td></tr>
+<tr><td>"</td><td>"</td><td>150 mg/kg</td><td>interi, macinati, moliti, frantumati o tritati, destinati ai consumatori</td></tr>
 <tr><td>Acido erucico</td><td>oli e grassi vegetali</td><td>20 g/kg</td><td>eccetto olio di camelina, olio di senape e olio di borragine; destinati al consumo umano diretto o all’impiego quali ingredienti di derrate alimentari; il tenore massimo si riferisce al tenore di acido erucico, calcolato sul tenore totale di acidi grassi nella componente lipidica degli alimenti</td></tr>
 <tr><td>"</td><td>olio di camelina, olio di senape e olio di borragine</td><td>50 g/kg</td><td>se autorizzato dall’autorità competente, il tenore massimo non si applica all’olio di senape prodotto e consumato a livello locale; il tenore massimo si riferisce al tenore di acido erucico, calcolato sul tenore totale di acidi grassi nella componente lipidica degli alimenti</td></tr>
 <tr><td>"</td><td>senape</td><td>35 g/kg</td><td>il tenore massimo si riferisce al tenore di acido erucico; calcolato sul tenore totale di acidi grassi nella componente lipidica degli alimenti</td></tr>
@@ -1010,7 +1100,7 @@ Allegato 8a[^t-8]
 
 ## Tenori massimi per i PFAS
 
-[^t-8]: Introdotto dal n. II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)).
+[^t-8]: Introdotto dalla cifra II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)).
 
 ### *Parte A:* *spiegazioni*
 
@@ -1100,7 +1190,7 @@ Allegato 9[^t-9]
 
 ## Tenori massimi di ulteriori contaminanti nelle derrate alimentari
 
-[^t-9]: Aggiornato dal n. III dell’O dell’USAV del 12 mar. ([RU 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)) e dal n. II cpv. 1 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
+[^t-9]: Aggiornato dalla cifra III dell’O dell’USAV del 12 mar. ([RU 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)) e dalla cifra II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)) e dalla cifra II dell’O del USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 [RU 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)).
 
 ### *Parte A:* *spiegazioni*
 
@@ -1109,6 +1199,12 @@ Allegato 9[^t-9]
 2 Qualora i pesci siano destinati ad essere consumati per intero, il tenore massimo si applica all’intero pesce.
 
 3 nr = non reperibile
+
+4 Per gli equivalenti di delta-9-tetraidrocannabinolo (Δ<sup>9</sup>-THC), i tenori massimi si riferiscono alle concentrazioni dei limiti inferiori («lower bound»), che sono calcolate ipotizzando che tutti i valori inferiori al limite di quantificazione siano pari a zero.
+
+5 I tenori massimi si riferiscono alla somma del delta-9-tetraidrocannabinolo (Δ<sup>9</sup>-THC) e dell’acido delta-9-tetraidrocannabinolico (Δ<sup>9</sup>-THCA), espressa in Δ<sup>9</sup>-THC. Un fattore di 0,877 è applicato al tenore di Δ<sup>9</sup>-THCA e il tenore massimo si riferisce alla somma di Δ<sup>9</sup>-THC + 0,877 x Δ<sup>9</sup>-THCA (nel caso di una determinazione e quantificazione separate di Δ<sup>9</sup>-THC e Δ<sup>9</sup>-THCA).
+
+6 I prodotti derivati/trasformati dai semi di canapa sono prodotti derivati/trasformati esclusivamente dai semi di canapa.
 
 ### *Parte B:* *tabella*
 
@@ -1162,16 +1258,18 @@ Allegato 9[^t-9]
 <tr><td>"</td><td>vodka</td><td>10 g/hl</td><td>"</td></tr>
 <tr><td>Nitrosamine volatili</td><td>birra</td><td>0,5 µg/kg</td><td>somma</td></tr>
 <tr><td colspan="5">Altre sostanze vegetali</td></tr>
+<tr><td>Equivalenti di delta‑9‑tetraidrocannabinolo (Δ<sup>9</sup>-THC)</td><td>olio di semi di canapa</td><td>7,5 mg/kg</td><td></td></tr>
+<tr><td>"</td><td>semi di canapa macinati, semi di canapa (parzialmente) disoleati e altri prodotti derivati/trasformati dai semi di canapa</td><td>3 mg/kg</td><td>eccetto olio di semi di canapa</td></tr>
+<tr><td></td><td>semi di canapa</td><td>3 mg/kg</td><td></td></tr>
+<tr><td>"</td><td>paste alimentari</td><td>2 mg/kg</td><td>prodotti con ingredienti di canapa; riferito alla sostanza secca</td></tr>
+<tr><td>"</td><td>semi di canapa</td><td>10 mg/kg</td><td>riferito alla massa secca</td></tr>
+<tr><td>"</td><td>tè di erbe e di frutti</td><td>200 µg/kg</td><td>prodotti con ingredienti di canapa; riferito alla preparazione pronta al consumo, 15 g di parti di pianta per kg d’acqua, aspergere con acqua bollente e mantenere a una temperatura di 85 °C per 30 minuti</td></tr>
 <tr><td>Morfina</td><td>semi di papavero</td><td>30 mg/kg</td><td>calcolato come base</td></tr>
 <tr><td>Tetraidrocannabinolo, Delta 9-</td><td>articoli di panetteria e di biscotteria</td><td>2 mg/kg</td><td>prodotti con ingredienti di canapa; riferito alla sostanza secca</td></tr>
 <tr><td>"</td><td>bevande alcoliche</td><td>200 µg/kg</td><td>eccetto bevande spiritose; prodotti con ingredienti di canapa</td></tr>
 <tr><td>"</td><td>bevande senz’alcool</td><td>200 µg/kg</td><td>prodotti con ingredienti di canapa; riferito alla preparazione pronta al consumo</td></tr>
 <tr><td>"</td><td>bevande spiritose</td><td>5 mg/kg</td><td>prodotti con ingredienti di canapa; riferito all’alcool puro</td></tr>
 <tr><td>"</td><td>derrate alimentari vegetali</td><td>1 mg/kg</td><td>altre; prodotti con ingredienti di canapa; riferito alla sostanza secca</td></tr>
-<tr><td>Tetraidrocannabinolo, Delta 9-</td><td>olio di semi di canapa</td><td>20 mg/kg</td><td></td></tr>
-<tr><td>"</td><td>paste alimentari</td><td>2 mg/kg</td><td>prodotti con ingredienti di canapa; riferito alla sostanza secca</td></tr>
-<tr><td>"</td><td>semi di canapa</td><td>10 mg/kg</td><td>riferito alla massa secca</td></tr>
-<tr><td>"</td><td>tè di erbe e di frutti</td><td>200 µg/kg</td><td>prodotti con ingredienti di canapa; riferito alla preparazione pronta al consumo, 15 g di parti di pianta per kg d’acqua, aspergere con acqua bollente e mantenere a una temperatura di 85 °C per 30 minuti</td></tr>
 </table>
 
 ### *Parte C:* *metodi*
@@ -1181,7 +1279,7 @@ Allegato 9[^t-9]
 2 Se sono esaminate derrate alimentari per controllarne il tenore di contaminanti derivanti dalla produzione di gelatina e collagene, si applicano i requisiti secondo la *Pharmacopea europea*, 10<sup>a</sup> edizione (Ph. Eur. 10) del novembre 2018[^annex9-lvlu1-partC-2].
 
 [^annex9-lvlu1-partC-1]: Regolamento (CE) n. 2074/2005 della Commissione, del 5 dicembre 2005, recante modalità di attuazione relative a taluni prodotti di cui al regolamento (CE) n. 853/2004 del Parlamento europeo e del Consiglio e all’organizzazione di controlli ufficiali a norma dei regolamenti del Parlamento europeo e del Consiglio (CE) n. 854/2004 e (CE) n. 882/2004, deroga al regolamento (CE) n. 852/2004 del Parlamento europeo e del Consiglio e modifica dei regolamenti (CE) n. 853/2004 e (CE) n. 854/2004, GU L 338 del 22.12.2005, pag. 27; modificato da ultimo dal regolamento di esecuzione (UE) 2019/1139, GU L 180 del 4.7.2019, pag. 12.
-[^annex9-lvlu1-partC-2]: La versione originale della *Pharmacopea europea* è edita dal Consiglio d’Europa. L’edizione originale francese può essere ottenuta presso l’Ufficio federale delle costruzioni e della logistica (UFCL), Vendita pubblicazioni federali, 3003 Berna, [www.pubblicazionifederali.admin.ch](http://www.pubblicazionifederali.admin.ch/), alle condizioni previste dall’ordinanza del 19 nov. 2014 sugli emolumenti per le pubblicazioni. (OEm-Pub; [RS 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)). Fino alla pubblicazione della versione tedesca, le bozze di singoli testi in lingua tedesca sono ottenibili presso la divisione della Farmacopea dell’Istituto svizzero per gli agenti terapeutici (Swissmedic).
+[^annex9-lvlu1-partC-2]: La versione originale della *Pharmacopea europea* è edita dal Consiglio d’Europa. L’edizione originale francese può essere ottenuta presso l’Ufficio federale delle costruzioni e della logistica (UFCL), Vendita pubblicazioni federali, 3003 Berna, [www.pubblicazionifederali.admin.ch](http://www.pubblicazionifederali.admin.ch/), alle condizioni previste dall’ordinanza del 19 nov. 2014 sugli emolumenti per le pubblicazioni. (OEm-Pub; [RS 172.041.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5069)). Fino alla pubblicazione della versione tedesca, le bozze di singoli testi in lingua tedesca sono ottenibili presso la divisione della Farmacopea dell’Istituto svizzero per gli agenti terapeutici (Swissmedic).
 
 Allegato 10[^t-10]
 
@@ -1189,7 +1287,7 @@ Allegato 10[^t-10]
 
 ## Tenori massimi dei radionuclidi a seguito di un incidente nucleare o in qualsiasi altro caso di emergenza radiologica
 
-[^t-10]: Aggiornato dal n. II dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), dalla correzione del 2 ott. 2018 ([RU 2018 3313](https://fedlex.data.admin.ch/eli/oc/2018/534)), dalla correzione del 12 nov. 2019 ([RU 2019 3527](https://fedlex.data.admin.ch/eli/oc/2019/648)) e dal n. II cpv. 1 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
+[^t-10]: Aggiornato dalla cifra II dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), dalla correzione del 2 ott. 2018 ([RU 2018 3313](https://fedlex.data.admin.ch/eli/oc/2018/534)), dalla correzione del 12 nov. 2019 ([RU 2019 3527](https://fedlex.data.admin.ch/eli/oc/2019/648)) e dalla cifra II cpv. 1 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
 
 ### *Parte A:* *spiegazioni*
 
@@ -1273,7 +1371,7 @@ Allegato 11[^t-11]
 
 ## Valori indicativi di contaminanti per la verifica della buona prassi procedurale
 
-[^t-11]: Introdotto dal n. II cpv. 2 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
+[^t-11]: Introdotto dalla cifra II cpv. 2 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
 
 ### *Parte A:* *tabella*
 
