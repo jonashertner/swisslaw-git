@@ -4,11 +4,11 @@ title: "Ordonnance de l'OFAG du 29 novembre 2019 sur les mesures phytosanitaires
 short: OMP-OFAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/757"
 language: fr
-version: 2022-12-15
+version: 2025-07-01
 adopted: 2019-11-29
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/757/20221215/fr/xml/fedlex-data-admin-ch-eli-cc-2019-757-20221215-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/757/20221215/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/757/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2019-757-20250701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/757/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/757/20221215/fr"
 
 (OMP-OFAG)
 
-du 29 novembre 2019 (État le 15 décembre 2022)
+du 29 novembre 2019 (État le 1<sup>er</sup> juillet 2025)
 
 L’Office fédéral de l’agriculture (OFAG),
 
-vu les art. 3, let. b, 22, 23, 31, al. 1, 32 et 36 de l’ordonnance du 31 octobre 2018 sur la santé des végétaux (OSaVé)[^ingress-1],
+vu les art. 3, let. b, 5, al. 2, 16, 22, 23, 31, al. 1, 32, 34 et 36 de l’ordonnance du 31 octobre 2018 sur la santé des végétaux (OSaVé)[^ingress-1],[^ingress-2]
 
 arrête:
 
 [^ingress-1]: [RS 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
+[^ingress-2]: Nouvelle teneur selon le ch. I de l’O de l’OFAG du 26 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 397](https://fedlex.data.admin.ch/eli/oc/2025/397)).
 
 #### Art. 1
 
@@ -66,6 +67,15 @@ Les marchandises en provenance de certains pays tiers pour lesquelles une interd
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O de l’OFAG du 10 juil. 2020, en vigueur depuis le 15 août 2020 ([RO 2020 3371](https://fedlex.data.admin.ch/eli/oc/2020/577)).
 
+#### Art. 5a
+
+**Reconnaissance de mesures équivalentes**[^5a-1]
+
+Les mesures prises par des pays tiers dont il est reconnu qu’elles assurent le même niveau de protection phytosanitaire que le respect des conditions fixées à l’annexe 7 OSaVé-DEFR-DETEC[^5a-2] sont énumérées à l’annexe 6.
+
+[^5a-1]: Introduit par le ch. I de l’O de l’OFAG du 26 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 397](https://fedlex.data.admin.ch/eli/oc/2025/397)).
+[^5a-2]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+
 #### Art. 6
 
 **Abrogation d’un autre acte**
@@ -86,7 +96,7 @@ Annexe 1[^t-1]
 
 ## Correspondances terminologiques et droit applicable
 
-[^t-1]: Mise à jour par le ch. II al. 1 de l’O de l’OFAG du 10 juil. 2020 ([RO 2020 3371](https://fedlex.data.admin.ch/eli/oc/2020/577)), le ch. I des O de l’OFAG du 30 oct. 2020 ([RO 2020 4817](https://fedlex.data.admin.ch/eli/oc/2020/866)) et du 8 nov. 2022, en vigueur depuis le 15 déc. 2022 ([RO 2022 715](https://fedlex.data.admin.ch/eli/oc/2022/715)).
+[^t-1]: Mise à jour par le ch. II al. 1 de l’O de l’OFAG du 10 juil. 2020 ([RO 2020 3371](https://fedlex.data.admin.ch/eli/oc/2020/577)), le ch. I des O de l’OFAG du 30 oct. 2020 ([RO 2020 4817](https://fedlex.data.admin.ch/eli/oc/2020/866)), du 8 nov. 2022 ([RO 2022 715](https://fedlex.data.admin.ch/eli/oc/2022/715)) et le ch. II al. 1 de l’O de l’OFAG du 26 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 397](https://fedlex.data.admin.ch/eli/oc/2025/397), [417](https://fedlex.data.admin.ch/eli/oc/2025/417)).
 
 ### 1 Correspondances terminologiques
 
@@ -133,11 +143,16 @@ Lorsque la présente ordonnance renvoie à des actes juridiques de l’UE qui eu
 <tr><td>Art. 13*a*, al. 1</td><td>Art. 43, al. 1, 46 et 49, al. 1 et 4, OSaVé</td></tr>
 <tr><td>Art. 13*c*, al. 1</td><td>Art. 43, al. 2 à 4, et 64, al. 1, OSaVé</td></tr>
 <tr><td>Art. 13*c*, al. 8</td><td>Art. VI, al. 2, let. e, de la Convention internationale du 6 décembre 1951 sur la protection des végétaux[^annex1-lvlu1-lvl2-2]</td></tr>
-<tr><td>Règlement (UE) 2016/2013 du Parlement européen et du Conseil du 26 octobre 2016 relatif aux mesures de protection contre les organismes nuisibles aux végétaux, modifiant les règlements du Parlement européen et du Conseil (UE) n<sup>o</sup> 228/2013, (UE) n<sup>o</sup> 652/2014 et (UE) n<sup>o</sup> 1143/2014 et abrogeant les directives du Conseil 69/464/CEE, 74/647/CEE, 93/85/CEE, 98/57/CE, 2000/29/CE, 2006/91/CE et 2007/33/CE, JO L 317 du 23.11.2016, p. 4.</td><td>OSaVé</td></tr>
-<tr><td>Art. 9, al 1 et 2</td><td>[tab] Art. 104, al. 1 et 2, let. a, OSaVé</td></tr>
+<tr><td>Règlement (UE) 2016/2031 du Parlement européen et du Conseil du 26 octobre 2016 relatif aux mesures de protection contre les organismes nuisibles aux végétaux, modifiant les règlements du Parlement européen et du Conseil (UE) n<sup>o</sup> 228/2013, (UE) n<sup>o</sup> 652/2014 et (UE) n<sup>o</sup> 1143/2014 et abrogeant les directives du Conseil 69/464/CEE, 74/647/CEE, 93/85/CEE, 98/57/CE, 2000/29/CE, 2006/91/CE et 2007/33/CE, JO L 317 du 23.11.2016, p. 4.</td><td>OSaVé</td></tr>
+<tr><td>Art. 9, al. 1 et 2</td><td>[tab] Art. 104, al. 1 et 2, let. a, OSaVé</td></tr>
 <tr><td>Art. 13</td><td>[tab] Art. 104, al. 2, let. a, OSaVé</td></tr>
+<tr><td>Art. 17</td><td>[tab] Art. 13 OSaVé</td></tr>
+<tr><td>Art. 18</td><td>[tab] Art. 15 OSaVé</td></tr>
+<tr><td>Art. 24</td><td>[tab] Art. 18 OSaVé</td></tr>
+<tr><td>Art. 25</td><td>[tab] Art. 20 OSaVé</td></tr>
 <tr><td>Art. 29</td><td>[tab] Art. 23 OSaVé</td></tr>
 <tr><td>Art. 40, al 1</td><td>[tab] Art. 7, al. 1, OSaVé</td></tr>
+<tr><td>Art. 42, al 1</td><td>[tab] Art. 31, al 1, OSaVé</td></tr>
 <tr><td>Règlement d’exécution (UE) 2019/2072 de la Commission du 28 novembre 2019 établissant des conditions uniformes pour la mise en œuvre du règlement (UE) 2016/2031 du Parlement européen et du Conseil, en ce qui concerne les mesures de protection contre les organismes nuisibles aux végétaux, abrogeant le règlement (CE) n<sup>o</sup> 690/2008 de la Commission et modifiant le règlement d’exécution (UE) 2018/2019 de la Commission, JO L 319 du 10.12.2019, p. 1.</td><td>OSaVé-DEFR-DETEC</td></tr>
 <tr><td>Annexe II</td><td>[tab] Annexe 1 OSaVé-DEFR-DETEC</td></tr>
 <tr><td>Annexe IV</td><td>[tab] Annexe 3 OSaVé-DEFR-DETEC</td></tr>
@@ -159,7 +174,7 @@ Annexe 2[^t-2]
 
 ## Marchandises faisant l’objet d’une dérogation temporaire à l’interdiction d’importation, conditions d’importation et durée de la levée de ladite interdiction
 
-[^t-2]: Mise à jour par le ch. I de l’O de l’OFAG du 8 nov. 2022, en vigueur depuis le 15 déc. 2022 ([RO 2022 715](https://fedlex.data.admin.ch/eli/oc/2022/715)).
+[^t-2]: Mise à jour par le ch. I de l’O de l’OFAG du 8 nov. 2022, ([RO 2022 715](https://fedlex.data.admin.ch/eli/oc/2022/715)) et le ch. II al. 1 de l’O de l’OFAG du 26 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 397](https://fedlex.data.admin.ch/eli/oc/2025/397)).
 
 ### 1 Pommes de terre originaires d’Égypte
 
@@ -190,7 +205,7 @@ La date prévue de l’arrivée d’un envoi de pommes de terre originaires d’
 
 ### 1.5 Durée de la levée de l’interdiction d’importation
 
-La dérogation à l’interdiction d’importation est examinée au plus tard le 31 décembre 2024.
+La dérogation à l’interdiction d’importation est examinée au plus tard le 31 décembre 2026.
 
 Annexe 3[^t-3]
 
@@ -198,103 +213,78 @@ Annexe 3[^t-3]
 
 ## Mesures contre l’introduction et la propagation d’organismes de quarantaine potentiels
 
-[^t-3]: Mise à jour par le ch. I de l’O de l’OFAG du 26 mai 2020 ([RO 2020 1831](https://fedlex.data.admin.ch/eli/oc/2020/370)), le ch. II al. 1 de l’O de l’OFAG du 10 juil. 2020 ([RO 2020 3371](https://fedlex.data.admin.ch/eli/oc/2020/577)), le ch. I de l’O de l’OFAG du 30 oct. 2020 ([RO 2020 4817](https://fedlex.data.admin.ch/eli/oc/2020/866)), le ch. II al. 1 de l’O de l’OFAG du 25 nov. 2021 ([RO 2021 832](https://fedlex.data.admin.ch/eli/oc/2021/832)) et le ch. I de l’O de l’OFAG du 8 nov. 2022, en vigueur depuis le 15 déc. 2022 ([RO 2022 715](https://fedlex.data.admin.ch/eli/oc/2022/715)).
+[^t-3]: Nouvelle teneur selon le ch. II al. 2 de l’O de l’OFAG du 26 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 397](https://fedlex.data.admin.ch/eli/oc/2025/397)).
 
-### 1 …
+### 1 *Epitrix cucumeris* (Harris), *Epitrix papa* sp.n., *Epitrix subcrinita* (Lec.) et *Epitrix tuberis* (Gentner)
 
-### 2 *Epitrix cucumeris* (Harris), *Epitrix similaris* (Gentner), *Epitrix subcrinita* (Lec.) et *Epitrix tuberis* (Gentner)
+### 1.1 Mesures contre l’introduction et la propagation
+
+Les art. 1 à 5 et les annexes I et II de la décision d’exécution 2012/270/UE[^annex3-lvlu1-lvl1-lvl11-1] s’appliquent afin de prévenir l’introduction et la propagation d’*Epitrix cucu**meris* (Harris), d’*Epitrix papa* sp.n., d’*Epitrix subcrinita* (Lec.) et d’*Epitrix tuberis* (Gentner).
+
+[^annex3-lvlu1-lvl1-lvl11-1]: Décision d’exécution 2012/270/UE de la Commission du 16 mai 2012 en ce qui concerne des mesures d’urgence destinées à prévenir l’introduction et la propagation dans l’Union d’*Epitrix cucumeris* (Harris), d’*Epitrix papa* sp.n., d’*Epitrix subcrinita* (Lec.) et d’*Epitrix tuberis* (Gentner), JO L 132 du 23.5.2012, p. 18; modifiée en dernier lieu par la décision d’exécution (UE) 2018/5 de la Commission du 3.1.2018, JO L 2 du 5.1.2018, p. 11.
+
+### 1.2 Dispositions spéciales
+
+- 1\.2.1 Les tubercules de pommes de terre qui remplissent les exigences concernant le transport à l’intérieur de l’UE conformément à la décision d’exécution 2012/270/UE peuvent également être importés en Suisse.
+- 1\.2.2 Le délai fixé par le SPF s’applique en lieu et place du délai figurant à l’art. 4, al. 1, de la décision d’exécution 2012/270/UE. Le SPF communique ce délai aux cantons sous une forme appropriée.
+
+### 2 Escargots du genre *Pomacea* (Perry)
 
 ### 2.1 Mesures contre l’introduction et la propagation
 
-Les art. 1 à 5 de la décision d’exécution (UE) 2012/270[^annex3-lvlu1-lvl2-lvl21-1] et les annexes I et II qui y sont mentionnées s’appliquent afin de prévenir l’introduction et la propagation d’*Epitrix cucu**meris* (Harris), d’*Epitrix similaris* (Gentner), d’*Epitrix subcrinita* (Lec.) et d’*Epitrix tuberis* (Gentner).
+Les art. 1 à 10 et l’annexe du règlement d’exécution (UE) 2024/2013[^annex3-lvlu1-lvl2-lvl21-1] s’appliquent afin de prévenir l’introduction et la propagation des escargots du genre *Pomacea* (Perry).
 
-[^annex3-lvlu1-lvl2-lvl21-1]: Décision d’exécution 2012/270/UE de la Commission du 16 mai 2012 en ce qui concerne des mesures d’urgence destinées à prévenir l’introduction et la propagation dans l’Union d’*Epitrix cucumeris* (Harris), d’*Epitrix similaris* (Gentner), d’*Epitrix subcrinita* (Lec.) et d’*Epitrix tuberis* (Gentner), JO L 132 du 23.5.2012, p. 18; modifiée en dernier lieu par la décision d’exécution (UE) 2018/5 de la Commission du 3.1.2018, JO L 2 du 5.1.2018, p. 11.
+[^annex3-lvlu1-lvl2-lvl21-1]: Règlement d’exécution (UE) 2024/2013 de la Commission du 23 juillet 2024 relatif à des mesures destinées à prévenir l’établissement et la propagation de *Pomacea* (Perry) sur le territoire de l’Union et à l’éradiquer, abrogeant la décision d’exécution 2012/697/UE, version du JO L, 2024/2013, 26.7.2024.
 
 ### 2.2 Dispositions spéciales
 
-- 2\.2.1 Les tubercules de pommes de terre qui remplissent les exigences concernant le transport à l’intérieur de l’UE conformément à la décision d’exécution 2012/270/UE peuvent également être importés en Suisse.
-- 2\.2.2 Le délai fixé par le SPF s’applique en lieu et place du délai figurant à l’art. 4, al. 1, de la décision d’exécution 2012/270/UE. Le SPF communique ce délai aux cantons sous une forme appropriée.
+- 2\.2.1 Les plantes spécifiées qui remplissent les exigences concernant le transport à l’intérieur de l’UE conformément au règlement d’exécution (UE) 2024/2013 peuvent également être importées en Suisse.
+- 2\.2.2 L’autorité compétente mentionnée aux art. 3 à 5 et 7, du règlement d’exécution (UE) 2024/2013 est le service cantonal compétent. Lorsque le soupçon d’infestation ou le constat concerne une entreprise agréée selon l’art. 76 ou 89 OSaVé, l’autorité compétente est le SPF.
+- 2\.2.3 L’établissement de zones délimitées et la levée de celles-ci conformément aux art. 4 et 8 du règlement d’exécution (UE) 2024/2013 sont réalisés avec le concours de l’OFAG.
+- 2\.2.4 Le délai fixé par le SPF s’applique en lieu et place du délai figurant à l’art. 9 du règlement d’exécution (UE) 2024/2013. Le SPF communique ce délai aux cantons sous une forme appropriée.
 
-### 3 Escargots du genre *Pomacea* (Perry)
+### 3 *Meloidogyne graminicola* (Golden & Birchfield)
 
 ### 3.1 Mesures contre l’introduction et la propagation
 
-Les art. 1 à 5 de la décision d’exécution 2012/697/UE[^annex3-lvlu1-lvl3-lvl31-1] et les annexes I et II qui y sont mentionnées s’appliquent afin de prévenir l’introduction et la propagation des escargots du genre *Pomacea* (Perry).
+Les art. 1 à 11 et les annexes 1 et 3 du règlement d’exécution (UE) 2022/1372[^annex3-lvlu1-lvl3-lvl31-1] s’appliquent afin de prévenir l’introduction et la propagation de *Meloidogyne graminicola (Golden & Birchfield*).
 
-[^annex3-lvlu1-lvl3-lvl31-1]: Décision d’exécution 2012/697/UE de la Commission du 8 novembre 2012 relative à des mesures destinées à prévenir l’introduction et la propagation dans l’Union du genre *Pomacea* (Perry), version du JO L 311 du 10.11.2012, p. 14.
+[^annex3-lvlu1-lvl3-lvl31-1]: Règlement d’exécution (UE) 2022/1372 de la Commission du 5 aout 2022 concernant les mesures provisoires visant à prévenir l’entrée, la circulation, la dissémination, la multiplication et la libération de *Meloidogyne graminicola* (Golden et Birchfield), version du JO L 206 du 8.8.2022, p. 16.
 
 ### 3.2 Dispositions spéciales
 
-- 3\.2.1 Les plantes spécifiées qui remplissent les exigences concernant le transport à l’intérieur de l’UE conformément à la décision d’exécution 2012/697/UE peuvent également être importées en Suisse.
-- 3\.2.2 Le délai fixé par le SPF s’applique en lieu et place du délai figurant à l’art. 4, al. 1, de la décision d’exécution 2012/697/UE. Le SPF communique ce délai aux cantons sous une forme appropriée.
+- 3\.2.1 L’établissement de zones délimitées et la levée de celles-ci conformément à l’art. 4 du règlement d’exécution (UE) 2022/1372 sont réalisés avec le concours de l’OFAG.
+- 3\.2.2 Les prescriptions et les délais fixés par le SPF s’appliquent aux rapports au sens de l’art. 8, al. 1 et 2, du règlement d’exécution (UE) 2022/1372. Le SPF communique les prescriptions et les délais aux cantons sous une forme appropriée.
+- 3\.2.3 L’autorité compétente mentionnée à l’art. 10 du règlement d’exécution (UE) 2022/1372 est le SPF.
+- 3\.2.4
 
-### 4 …
+  L’OFAG peut, pour autant que la propagation de *Meloidogyne graminicola* (Golden & Birchfield) puisse être exclue, autoriser sur demande l’importation à des fins:
+
+  - a. de recherche;
+  - b. de diagnostic.
+
+### 4 *Chloridea virescens, Homona magnanima* Dyakonov, *Resseliella citrifrugis* et *Spodoptera ornithogalli*
+
+### 4.1 Mesures contre l’introduction et la propagation
+
+Les art. 1 et 2 et l’annexe 1 du règlement d’exécution (UE) 2022/1941[^annex3-lvlu1-lvl4-lvl41-1] s’appliquent afin de prévenir l’introduction et la propagation de *Chloridea virescens, Homona* magnanima Dyakonov*, Resseliella citrifrugis* et *Spodoptera ornithogalli*.
+
+[^annex3-lvlu1-lvl4-lvl41-1]: Règlement d’exécution (UE) 2022/1941 de la Commission du 13 octobre 2022 relatif à l’interdiction d’introduction, de circulation, de détention, de multiplication ou de libération de certains organismes nuisibles conformément à l’art. 30, par. 1, du règlement (UE) 2016/2031 du Parlement européen et du Conseil, JO L 268 du 14.10.2022, p. 13; modifié en dernier lieu par le règlement d’exécution (UE) 2025/356, JO L, 2025/356, 21.2.2025.
+
+### 4.2 Dispositions spéciales
+
+L’OFAG peut, pour autant que la propagation de *Chloridea virescens, Homona magnanima* Dyakonov*, Resseliella citrifrugis* et *Spodoptera ornithogalli* puisse être exclue, autoriser sur demande l’importation à des fins:
+
+- a. de recherche;
+- b. de diagnostic.
 
 ### 5 Virus du fruit rugueux brun de la tomate (ToBRFV)
 
 ### 5.1 Mesures contre l’introduction et la propagation
 
-Les art. 1 à 10 du règlement d’exécution (UE) 2020/1191[^annex3-lvlu1-lvl5-lvl51-1] s’appliquent afin de prévenir l’introduction et la propagation du virus du fruit rugueux brun de la tomate (ToBRFV).
+Les exigences relatives au virus du fruit rugueux brun de la tomate (ToBRFV) figurant aux annexe IV, parties F et I, et V, parties E et H, du règlement d’exécution (UE) 2019/2072[^annex3-lvlu1-lvl5-lvl51-1] s’appliquent afin de prévenir l’introduction et la propagation du virus du fruit rugueux brun de la tomate (ToBRFV).
 
-[^annex3-lvlu1-lvl5-lvl51-1]: Règlement d’exécution (UE) 2020/1191 de la Commission du 11 août 2020 établissant des mesures destinées à éviter l’introduction et la dissémination du virus du fruit rugueux brun de la tomate dans l’Union et abrogeant la décision d’exécution (UE) 2019/1615, JO L 262 du 12.8.2020, p. 6; modifiée en dernier lieu par le règlement d’exécution (UE) 2021/1809, JO L 365 du 14.10.2021, p. 41.
-
-### 5.2 Dispositions spéciales
-
-- 5\.2.1 Les végétaux et semences spécifiés qui satisfont dans l’UE aux exigences en matière de circulation au sein de l’UE conformément au règlement d’exécution (UE) 2020/1191 peuvent aussi être importés en Suisse.
-- 5\.2.2 L’autorité compétente mentionnée à l’art. 3, al. 1, du règlement d’exécution (UE) 2020/1191 est le service cantonal compétent. Lorsque le soupçon d’infestation ou le constat concerne une entreprise agréée selon l’art. 76 ou 89 de l’OSaVé, le soupçon ou le constat doit être annoncé au SPF.
-- 5\.2.3 Lorsque le service cantonal compétent a connaissance du fait que des végétaux des espèces *Solanum lycopersicum* L. et leurs hybrides ou *Capsicum* spp. sont contaminées par le ToBRFV, il l’annonce sans tarder au SPF.
-- 5\.2.4
-
-  Si, en raison d’un soupçon signalé ou pour d’autres raisons, il y a lieu de présumer que des végétaux des espèces *Solanum lycopersicum* L. et leurs hybrides ou *Capsicum* spp. sont infestés par le ToBRFV, les mesures suivantes doivent être prises:
-
-  - a. mise en quarantaine des cultures concernées, ainsi que des fruits et des graines récoltés dans ces cultures; les fruits de plantes asymptomatiques destinés à la consommation directe ne font pas l’objet d’une mise en quarantaine;
-  - b. mesures d’hygiène, notamment la réglementation des accès (par ex. sas), l’utilisation d’équipements personnels de protection et la désinfection des outils de travail et des locaux dans les parties de l’entreprise potentiellement infestées, d’une part, et les autres parties de l’entreprise, d’autre part.
-
-- 5\.2.5 Si le diagnostic d’un laboratoire désigné par le SPF ne confirme pas la présence de l’infestation supposée visée au ch. 5.2.4, la quarantaine et les mesures d’hygiène sont levées.
-- 5\.2.6
-
-  Les mesures appropriées pour l’éradication de l’organisme nuisible selon l’art. 4 du règlement d’exécution (UE) 2020/1191 comprennent en particulier:
-
-  - a. la destruction de l’intégralité du matériel végétal des espèces *Solanum lycopersicum* L. et leurs hybrides ou *Capsicum* spp*.* qui est infesté ou dont il y a lieu de présumer qu’il est infesté, dans une usine d’incinération des déchets ou au moyen d’une autre procédure fournissant les garanties phytosanitaires requises;
-  - b. la désinfection du site, des appareils et des objets qui sont entrés en contact avec le matériel végétal;
-  - c. l’interdiction de planter ou de cultiver des végétaux des espèces *Solanum lycopersicum* L. et leurs hybrides ou *Capsicum* spp. dans les parties concernées de l’entreprise tant que celles-ci ne sont pas considérées comme assainies.
-
-- 5\.2.7 Dans les entreprises agréées par le SPF pour l’établissement des passeports phytosanitaires, le SPF est responsable de l’édiction des mesures visées aux ch. 5.2.4 et 5.2.6. En ce qui concerne les autres entreprises, ainsi que tous les autres sites tels que les jardins privés, le service cantonal compétent est responsable de l’édiction des mesures visées aux ch. 5.2.4 et 5.2.6.
-- 5\.2.8 Le délai fixé par le SPF s’applique en lieu et place du délai visé à l’art. 5 du règlement d’exécution (UE) 2020/1191. Le SPF communique le délai aux cantons sous une forme appropriée.
-- 5\.2.9 …
-- 5\.2.10
-
-  Le passeport phytosanitaire mentionné aux art. 6 et 7 du règlement d’exécution (UE) 2020/1191 n’est pas requis pour:
-
-  - a. la mise en circulation de plantes et de semences directement auprès de consommateurs finaux qui ne font pas d’usage professionnel ou commercial des marchandises; un passeport phytosanitaire est en revanche nécessaire quand les marchandises ont été commandées par un moyen de communication à distance;
-  - b. des plantes et des semences qui sont importées dans les bagages personnels de voyageurs et qui ne sont pas destinées à un usage professionnel ou commercial.
-
-- 5\.2.11
-
-  L’OFAG peut, pour autant que la propagation du ToBRFV puisse être exclue, autoriser sur demande l’importation à des fins:
-
-  - a. de recherche;
-  - b. de diagnostic.
-
-### 6 Virus de la rosette de la rose
-
-### 6.1 Mesures contre l’introduction et la propagation
-
-Les art. 1 à 5 du règlement d’exécution (UE) 2022/1265[^annex3-lvlu1-lvl6-lvl61-1] s’appliquent afin de prévenir l’introduction et la propagation du virus de la rosette de la rose.
-
-[^annex3-lvlu1-lvl6-lvl61-1]: Règlement d’exécution (UE) 2022/1265 de la Commission du 20 juillet 2022 établissant des mesures destinées à prévenir l’introduction et la propagation sur le territoire de l’Union du virus de la rosette de la rose, version du JO L 192 du 21.7.2022, p. 14.
-
-### 6.2 Dispositions spéciales
-
-- 6\.2.1
-
-  L’OFAG peut, pour autant que la propagation du virus de la rosette de la rose puisse être exclue, autoriser sur demande l’importation à des fins:
-
-  - a. de recherche;
-  - b. de diagnostic.
-
-- 6\.2.2 L’autorité compétente mentionnée à l’art. 4 du règlement d’exécution (UE) 2022/1265 est le service cantonal compétent.
-- 6\.2.3 Le délai fixé par le SPF s’applique en lieu et place du délai figurant à l’art. 4 du règlement d’exécution (UE) 2022/1265. Le SPF communique ce délai aux cantons sous une forme appropriée.
+[^annex3-lvlu1-lvl5-lvl51-1]: Règlement d’exécution (UE) 2019/2072 de la Commission du 28 novembre 2019 établissant des conditions uniformes pour la mise en œuvre du règlement (UE) 2016/2031 du Parlement européen et du Conseil, en ce qui concerne les mesures de protection contre les organismes nuisibles aux végétaux, abrogeant le règlement (CE) n<sup>o</sup> 690/2008 de la Commission et modifiant le règlement d’exécution (UE) 2018/2019 de la Commission, JO L 319 du 10.12.2019, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2024/2970, JO L, 2024/2970, 2.12.2024.
 
 Annexe 4[^t-4]
 
@@ -304,7 +294,7 @@ Annexe 4[^t-4]
 
 [^annex4-lvlu1-1]
 
-[^t-4]: Mise à jour par le ch. I de l’O de l’OFAG du 30 oct. 2020 ([RO 2020 4817](https://fedlex.data.admin.ch/eli/oc/2020/866)), le ch. II al. 1 de l’O de l’OFAG du 25 nov. 2021 ([RO 2021 832](https://fedlex.data.admin.ch/eli/oc/2021/832)) et le ch. I de l’O de l’OFAG du 8 nov. 2022, en vigueur depuis le 15 déc. 2022 ([RO 2022 715](https://fedlex.data.admin.ch/eli/oc/2022/715)).
+[^t-4]: Mise à jour par le ch. I de l’O de l’OFAG du 30 oct. 2020 ([RO 2020 4817](https://fedlex.data.admin.ch/eli/oc/2020/866)), le ch. II al. 1 de l’O de l’OFAG du 25 nov. 2021 ([RO 2021 832](https://fedlex.data.admin.ch/eli/oc/2021/832)), le ch. I de l’O de l’OFAG du 8 nov. 2022 ([RO 2022 715](https://fedlex.data.admin.ch/eli/oc/2022/715)) et le ch. II al. 1 de l’O de l’OFAG du 26 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 397](https://fedlex.data.admin.ch/eli/oc/2025/397)).
 [^annex4-lvlu1-1]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
 
 ### 1 …
@@ -315,7 +305,7 @@ Annexe 4[^t-4]
 
 Les art. 1, 2, al. 1 à 7, 3 à 34 et les annexes 1 à 4 du règlement d’exécution (UE) 2020/1201[^annex4-lvlu1-lvl2-lvl21-1] s’appliquent afin de prévenir l’introduction et la propagation de *Xylella fastidiosa* (Wells et al.).
 
-[^annex4-lvlu1-lvl2-lvl21-1]: Règlement d’exécution (UE) 2020/1201 de la Commission du 14 août 2020 relatif à des mesures visant à prévenir l’introduction et la dissémination dans l’Union de *Xylella fastidiosa* (Wells et al.), JO L 269 du 17.8.2020, p. 2; modifié en dernier lieu par la décision d’exécution (UE) 2021/2130, JO L 432 du 2.12.2021, p. 19.
+[^annex4-lvlu1-lvl2-lvl21-1]: Règlement d’exécution (UE) 2020/1201 de la Commission du 14 août 2020 relatif à des mesures visant à prévenir l’introduction et la dissémination dans l’Union de *Xylella fastidiosa* (Wells et al.), JO L 269 du 17.8.2020, p. 2; modifié en dernier lieu par le règlement d’exécution (UE) 2024/2507, JO L, 2024/2507, 27.9.2024.
 
 ### 2.2 Dispositions spéciales
 
@@ -347,16 +337,18 @@ Les art. 1 à 4, 5 al. 2, 6, 8, 9 et 11 et les annexes I à V du règlement d’
 
 ### 4.1 Mesures contre l’introduction et la propagation
 
-Les art. 1 à 5, 6, al. 1 et 2, et 8 de la décision d’exécution (UE) 2018/638[^annex4-lvlu1-lvl4-lvl41-1] s’appliquent afin de prévenir l’introduction et la propagation de *Spodoptera frugiperda* (Smith).
+Les art. 1 à 12 et les annexes 1 et 2 du règlement d’exécution (UE) 2023/1134[^annex4-lvlu1-lvl4-lvl41-1] s’appliquent afin de prévenir l’introduction et la propagation de *Spodoptera frugiperda* (Smith).
 
-[^annex4-lvlu1-lvl4-lvl41-1]: Décision d’exécution (UE) 2018/638 de la Commission du 23 avril 2018 établissant des mesures d’urgence destinées à éviter l’introduction et la propagation de l’organisme nuisible *Spodoptera frugiperda* (Smith) dans l’Union, JO L 105 du 25.4.2018, p. 31; modifiée en dernier lieu par la décision d’exécution (UE) 2021/869, JO L 191 du 27.5.2021, p. 4.
+[^annex4-lvlu1-lvl4-lvl41-1]: Règlement d’exécution (UE) 2023/1134 de la Commission du 8 June 2023 relatif aux mesures destinées à éviter l’introduction, l’établissement et la propagation de *Spodoptera frugiperda* (Smith) sur le territoire de l’Union, modifiant le règlement d’exécution (UE) 2019/2072 et abrogeant la décision d’exécution (UE) 2018/638, version du JO L 149 du 9.6.2023, p. 62.
 
 ### 4.2 Dispositions spéciales
 
-- 4\.2.1 En Suisse, l’organisme officiel responsable visé aux art. 2, al. 1 à 3, et 6, al. 2, de la décision d’exécution (UE) 2018/638 est le service phytosanitaire cantonal. Font exception les enquêtes dans les entreprises agréées au sens de l’art. 76 OSaVé, qui sont menées par le SPF.
-- 4\.2.2 Aux art. 3 et 5 de la décision d’exécution (UE) 2018/638, on entend par introduction des végétaux spécifiés l’importation dans l’UE ou en Suisse.
-- 4\.2.3 L’organisme officiel responsable visé aux art. 3, let. c, et 5, al. 2, de la décision d’exécution (UE) 2018/638 est l’organisation nationale de protection des végétaux de l’État membre de l’UE dans lequel se trouve le point d’entrée pour les végétaux spécifiés. Dans les cas visés à l’art. 46, al. 2, OSaVé, l’organisme officiel responsable est le SPF.
-- 4\.2.4 Les prescriptions et délais fixés par le SPF s’appliquent aux rapports sur les enquêtes effectuées. Le SPF communique les prescriptions et les délais aux cantons sous une forme appropriée.
+- 4\.2.1 L’autorité compétente mentionnée à l’art. 3, du règlement d’exécution (UE) 2023/1134 est le service cantonal compétent. Si les enquêtes concernent une entreprise agréée au sens de l’art. 76 ou 89 OSaVé ou un point d’entrée frontalier, c’est le SPF qui est compétent.
+- 4\.2.2 L’établissement de zones délimitées et la levée de celles-ci conformément aux art. 5 et 8 du règlement d’exécution (UE) 2023/1134 sont réalisés avec le concours de l’OFAG.
+- 4\.2.3 Les dérogations dans le cadre des mesures d’éradication prévues à l’art. 6 du règlement d’exécution (UE) 2023/1134 nécessitent l’accord de l’OFAG.
+- 4\.2.4 L’autorité compétente mentionnée à l’art. 9, du règlement d’exécution (UE) 2023/1134 est le service cantonal compétent. Font exception les mesures prises dans les entreprises agréées au sens de l’art. 76 OSaVé, qui sont menées par le SPF.
+- 4\.2.5 Les plantes spécifiées qui remplissent les exigences concernant le transport à l’intérieur de l’UE conformément au règlement d’exécution (UE) 2023/1134 peuvent également être importées en Suisse.
+- 4\.2.6 Les prescriptions et les délais fixés par le SPF s’appliquent aux rapports sur les enquêtes effectuées, conformément à l’art. 12 du règlement d’exécution (UE) 2023/1134. Le SPF communique les prescriptions et les délais aux cantons sous une forme appropriée.
 
 ### 5 *Aromia bungii* (Faldermann)
 
@@ -376,11 +368,11 @@ Les art. 1 à 13 de la décision d’exécution (UE) 2018/1503[^annex4-lvlu1-lvl
 
 ### 6 *Clavibacter sepedonicus* (Spieckermann & Kotthoff 1914) Nouioui et al. 2018
 
-### 6.1 Mesures pour empêcher la propagation
+### 6.1 Mesures d’éradication et de prévention de la propagation
 
-Les art. 1 à 8 et les annexes I à VI du règlement d’exécution (UE) 2022/1194[^annex4-lvlu1-lvl6-lvl61-1] s’appliquent afin de prévenir la propagation de *Clavibacter sepedonicus* (Spieckermann & Kotthoff 1914) Nouioui et al. 2018.
+Les art. 1 à 8 et les annexes I à V du règlement d’exécution (UE) 2022/1194[^annex4-lvlu1-lvl6-lvl61-1] s’appliquent afin d’éradiquer *Clavibacter sepedonicus* (Spieckermann & Kotthoff 1914) Nouioui et al. 2018 et de prévenir sa propagation.
 
-[^annex4-lvlu1-lvl6-lvl61-1]: Règlement d’exécution (UE) 2022/1194 de la Commission du 11 juillet 2022 établissant des mesures destinées à éradiquer *Clavibacter sepedonicus* (Spieckermann & Kotthoff 1914) Nouioui et al. 2018 et à prévenir leur propagation, version du JO L 185 du 12.7.2022, p. 47.
+[^annex4-lvlu1-lvl6-lvl61-1]: Règlement d’exécution (UE) 2022/1194 de la Commission du 11 juillet 2022 établissant des mesures destinées à éradiquer *Clavibacter sepedonicus* (Spieckermann & Kotthoff 1914) Nouioui et al. 2018 et à prévenir sa propagation, version du JO L 185 du 12.7.2022, p. 47, modifié en dernier lieu par le règlement d’exécution (UE) 2024/2636, JO L, 2024/2636, 9.10.2024.
 
 ### 6.2 Dispositions spéciales
 
@@ -391,24 +383,31 @@ Les art. 1 à 8 et les annexes I à VI du règlement d’exécution (UE) 2022/11
 
 ### 7 *Globodera pallida* (Stone) Behrens et *Globodera rostochiensis (Wollenweber)* Behrens
 
-### 7.1 Mesures pour empêcher la propagation
+### 7.1 Mesures d’éradication et de prévention de la propagation
 
-Les art. 1 à 13 et les annexes I à V du règlement d’exécution (UE) 2022/1192[^annex4-lvlu1-lvl7-lvl71-1] s’appliquent afin de prévenir la propagation de *Globodera pallida* (Stone) Behrens et *Globodera* *rostochiensis (Wollenweber)* Behrens
+Les art. 1 à 12 et les annexes I à V du règlement d’exécution (UE) 2022/1192[^annex4-lvlu1-lvl7-lvl71-1] s’appliquent afin d’éradiquer *Globodera pallida* (Stone) Behrens et *Globodera* *rostochiensis (Wollenweber)* Behrens et de prévenir leur propagation.
 
-[^annex4-lvlu1-lvl7-lvl71-1]: Règlement d’exécution (UE) 2022/1192 de la Commission du 11 juillet 2022 établissant des mesures destinées à éradiquer *Globodera pallida* (Stone) Behrens et *Globodera* *rostochiensis* (Wollenweber) Behrens et à prévenir leur propagation, version du JO L 185 du 12.7.2022, p. 12.
+[^annex4-lvlu1-lvl7-lvl71-1]: Règlement d’exécution (UE) 2022/1192 de la Commission du 11 juillet 2022 établissant des mesures destinées à éradiquer *Globodera pallida* (Stone) Behrens et *Globodera* *rostochiensis* (Wollenweber) Behrens et à prévenir leur propagation, JO L 185 du 12.7.2022, p. 12; modifié en dernier lieu par le règlement d’execution (UE) 2024/2060, JO L, 2024/2060, 30.7.2024.
 
 ### 7.2 Dispositions spéciales
 
 - 7\.2.1 En Suisse, l’autorité compétente mentionnée aux art. 3 et 5 du règlement d’exécution (UE) 2022/1192 est le SPF.
 - 7\.2.2 Les prescriptions et délais fixés par le SPF s’appliquent aux rapports selon les art. 3 et 6 du règlement d’exécution (UE) 2020/1192. Le SPF communique les prescriptions et les délais aux cantons sous une forme appropriée.
+- 7\.2.3
+
+  Si les organismes nuisibles spécifiés au sens de l’art. 2, par. 1, du règlement d’exécution (UE) 2022/1192 sont détectés sur des surfaces autres que celles visées à l’art. 5, par. 1, les mesures suivantes doivent être prises:
+
+  - – Aucune pomme de terre destinée à la production de tubercules de pommes de terre ne peut être plantée sur les surfaces.
+  - – Les pommes de terre récoltées sur les surfaces et destinées à la transformation industrielle ou au calibrage ne peuvent être livrées qu’à des entreprises de transformation ou de calibrage qui disposent de procédures d’élimination des déchets appropriées et officiellement reconnues (SPF ou service cantonal compétent), afin que l’eau de lavage et la terre de déchet ne présentent aucun risque avéré de propagation des organismes nuisibles spécifiés.
+  - – Toute plante produite sur les surfaces et présentant un risque de propagation des organismes nuisibles spécifiés ne peut être plantée que si elle est soumise à au moins une des mesures énumérées à l’annexe II, point 1, du règlement d’exécution (UE) 2022/1192.
 
 ### 8 *Ralstonia solanacearum* (Smith 1896) Yabuuchi et al. 1996 emend. Safni et al. 2014
 
-### 8.1 Mesures pour empêcher la propagation
+### 8.1 Mesures d’éradication et de prévention de la propagation
 
-Les art. 1 à 7 et les annexes I à VI du règlement d’exécution (UE) 2022/1193[^annex4-lvlu1-lvl8-lvl81-1] s’appliquent afin de prévenir la propagation de *Ralstonia solanacearum* (Smith 1896) Yabuuchi *et al.* 1996 emend. Safni *et al.* 2014.
+Les art. 1 à 7 et les annexes I à VI du règlement d’exécution (UE) 2022/1193[^annex4-lvlu1-lvl8-lvl81-1] s’appliquent afin d’éradiquer *Ralstonia solanacearum* (Smith 1896) Yabuuchi *et al.* 1996 emend. Safni *et al.* 2014 et de prévenir sa propagation.
 
-[^annex4-lvlu1-lvl8-lvl81-1]: Règlement d’exécution (UE) 2022/1193 de la Commission du 11 juillet 2022 établissant des mesures destinées à éradiquer *Ralstonia solanacearum* (Smith 1896) Yabuuchi *et al.* 1996 emend. Safni *et al.* 2014 et à prévenir leur propagation, version du JO L 185 du 12.7.2022, p. 27.
+[^annex4-lvlu1-lvl8-lvl81-1]: Règlement d’exécution (UE) 2022/1193 de la Commission du 11 juillet 2022 établissant des mesures destinées à éradiquer *Ralstonia solanacearum* (Smith 1896) Yabuuchi *et al.* 1996 emend. Safni *et al.* 2014 et à prévenir leur propagation, JO L 185 du 12.7.2022, p. 27; modifié en dernier lieu par le règlement d’exécution (UE) 2024/2632, JO L, 2024/2632, 8.10.2024.
 
 ### 8.2 Dispositions spéciales
 
@@ -418,11 +417,11 @@ Les art. 1 à 7 et les annexes I à VI du règlement d’exécution (UE) 2022/11
 
 ### 9 *Synchytrium endobioticum* (Schilbersky) Percival
 
-### 9.1 Mesures pour empêcher la propagation
+### 9.1 Mesures d’éradication et de prévention de la propagation
 
-Les art. 1 à 9 et les annexes I à IV du règlement d’exécution (UE) 2022/1195[^annex4-lvlu1-lvl9-lvl91-1] s’appliquent afin de prévenir la propagation de *Synchytrium endobioticum* (Schilbersky) Percival
+Les art. 1 à 9 et les annexes I à IV du règlement d’exécution (UE) 2022/1195[^annex4-lvlu1-lvl9-lvl91-1] s’appliquent afin d’éradiquer *Synchytrium endobioticum* (Schilbersky) Percival et de prévenir sa propagation.
 
-[^annex4-lvlu1-lvl9-lvl91-1]: Règlement d’exécution (UE) 2022/1195 de la Commission du 11 juillet 2022 établissant des mesures destinées à éradiquer *Synchytrium endobioticum* (Schilbersky) Percivalet à prévenir leur propagation, version du JO L 185 du 12.7.2022, p. 65.
+[^annex4-lvlu1-lvl9-lvl91-1]: Règlement d’exécution (UE) 2022/1195 de la Commission du 11 juillet 2022 établissant des mesures destinées à éradiquer *Synchytrium endobioticum* (Schilbersky) Percivalet à prévenir sa propagation, JO L 185 du 12.7.2022, p. 65, modifié en dernier lieu par le règlement d’exécution (UE) 2024/2382, JO L, 2024/2382, 9.9.2024.
 
 ### 9.2 Dispositions spéciales
 
@@ -436,86 +435,27 @@ Annexe 5[^t-5]
 
 ## Marchandises en provenance de certains pays tiers pour lesquelles une interdiction d’importer à titre de précaution s’applique en raison d’un risque phytosanitaire élevé
 
-[^t-5]: Introduite par le ch. II al. 2 de l’O de l’OFAG du 10 juil. 2020 ([RO 2020 3371](https://fedlex.data.admin.ch/eli/oc/2020/577)). Nouvelle teneur selon le ch. II al. 2 de l’O de l’OFAG du 25 nov. 2021 ([RO 2021 832](https://fedlex.data.admin.ch/eli/oc/2021/832)). Mise à jour par le ch. I de l’O de l’OFAG du 8 nov. 2022, en vigueur depuis le 15 déc. 2022 ([RO 2022 715](https://fedlex.data.admin.ch/eli/oc/2022/715)).
+[^t-5]: Introduite par le ch. II al. 2 de l’O de l’OFAG du 10 juil. 2020 ([RO 2020 3371](https://fedlex.data.admin.ch/eli/oc/2020/577)). Nouvelle teneur selon le ch. II al. 2 de l’O de l’OFAG du 26 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 397](https://fedlex.data.admin.ch/eli/oc/2025/397)).
 
-### 1 Marchandises pour lesquelles une interdiction d’importer à titre de précaution s’applique
+- 1 Les marchandises pour lesquelles une interdiction d’importer à titre de précaution s’applique sont énumérées dans l’annexe du règlement d’exécution (UE) 2018/2019[^annex5-lvlu1-1].
+- 2 Les marchandises faisant l’objet d’une dérogation à l’interdiction d’importation conformément à l’annexe du règlement d’exécution (UE) 2018/2019 et qui sont énumérées à l’annexe du règlement d’exécution (UE) 2020/1213[^annex5-lvlu1-2] ne font l’objet d’une telle dérogation que si les mesures énumérées dans le règlement d’exécution (UE) 2020/1213 ont été prises.
 
-- **1.1** Végétaux destinés à la plantation, autres que les semences, matériel in vitro et plantes ligneuses destinées à la plantation dont la croissance est inhibée naturellement ou artificiellement, appartenant aux genres ou espèces suivants:
+[^annex5-lvlu1-1]: Règlement d’exécution (UE) 2018/2019 de la Commission du 18 décembre 2018 établissant une liste provisoire de végétaux, produits végétaux ou autres objets à haut risque, au sens de l’art. 42 du règlement (UE) 2016/2031 et une liste des végétaux pour lesquels un certificat phytosanitaire n’est pas exigé pour l’introduction sur le territoire de l’Union, au sens de l’art. 73 dudit règlement, JO L 323 du 19.12.2018, p. 10; modifié en dernier lieu par le règlement d’exécution (UE) 2025/312, JO L, 2025/312, 17.2.2025.
+[^annex5-lvlu1-2]: Règlement d’exécution (UE) 2020/1213 de la Commission du 21 août 2020 concernant les mesures phytosanitaires préalables à l’introduction dans l’Union de certains végétaux, produits végétaux et autres objets ayant été retirés de l’annexe du règlement d’exécution (UE) 2018/2019, JO L 275 du 24.8.2020, p. 5; modifié en dernier lieu par le règlement d’exécution (UE) 2024/2931, JO L, 2024/2931, 28 11. 2024.
 
-<table>
-<tr><th>N<sup>o</sup> du tarif des douanes[^annex5-lvlu1-lvl1-1]</th><th>Désignation du genre ou de l’espèce</th><th>Pays d’origine</th></tr>
-<tr><td>ex 0602</td><td>*Acacia* Mill.</td><td>Tous les pays tiers</td></tr>
-<tr><td>ex 0602</td><td>*Acer* L.; l’interdiction d’importer à titre de précaution ne s’applique pas aux végétaux destinés à la plantation, greffés, exempts de feuilles, dormants, à racines nues, âgés d’un à trois ans, appartenant aux espèces *Acer japonicum* Thunberg, *Acer palmatum* Thunberg et *Acer shirasawanum* Koidzumi et originaires de Nouvelle-Zélande, tant que les exigences visées au ch. 2 sont remplies.</td><td></td></tr>
-<tr><td>ex 0602</td><td>*Albizia Durazz.*; l’interdiction d’importer à titre de précaution ne s’applique pas aux végétaux en dormance d’*Albizia* *julibrissin* Durazzini originaires d’Israël destinées à la plantation, à racines nues, greffées avec un diamètre maximal de 2,5 cm, tant que les exigences visées au ch. 2 sont remplies.</td><td></td></tr>
-<tr><td>ex 0602</td><td>*Alnus* Mill.</td><td></td></tr>
-<tr><td>ex 0602</td><td>*Annona* L.</td><td></td></tr>
-<tr><td>ex 0602</td><td>*Bauhinia* L.</td><td></td></tr>
-<tr><td>ex 0602</td><td>*Berberis* L.</td><td></td></tr>
-<tr><td>ex 0602</td><td>*Betula* L.</td><td></td></tr>
-<tr><td>ex 0602</td><td>*Caesalpinia* L.</td><td></td></tr>
-<tr><td>ex 0602</td><td>*Cassia* L.</td><td></td></tr>
-<tr><td>ex 0602</td><td>*Castanea* Mill.</td><td></td></tr>
-<tr><td>ex 0602</td><td>*Cornus* L.;</td><td></td></tr>
-<tr><td>ex 0602</td><td>*Corylus* L.; l’interdiction d’importer à titre de précaution ne s’applique pas aux végétaux destinés à la plantation aux espèces *Corylus avellana* L. et *Corylus colurna* L. et originaires de Serbie.</td><td></td></tr>
-</table>
+Annexe 6[^t-6]
 
-<table>
-<tr><th>N<sup>o</sup> du tarif des douanes</th><th>Désignation du genre ou de l’espèce</th><th>Pays d’origine</th></tr>
-<tr><td>ex 0602</td><td>*Crataegus* L.</td><td></td></tr>
-<tr><td>ex 0602</td><td>*Diospyros* L.</td><td></td></tr>
-<tr><td>ex 0602</td><td>*Fagus* L.</td><td></td></tr>
-<tr><td>ex 0602</td><td>*Ficus carica* L.; l’interdiction d’importer à titre de précaution ne s’applique pas aux végétaux destinés à la plantation âgés d’un an, sans feuilles, dormants, à racines nues, d’un diamètre maximal de 2 cm à la base de la tige, ni aux boutures racinées âgées d’un an, sans feuilles, de végétaux destinés à la plantation, avec un milieu de culture et d’un diamètre maximal de 1 cm à la base de la tige, originaires d’Israël, tant que les exigences visées au ch. 2 sont satisfaites.</td><td></td></tr>
-<tr><td>ex 0602</td><td>*Fraxinus* L.</td><td></td></tr>
-<tr><td>ex 0602</td><td>*Hamamelis* L.</td><td></td></tr>
-<tr><td>ex 0602</td><td>*Jasminum* L.; l’interdiction d’importer à titre de précaution ne s’applique pas aux boutures non racinées de végétaux de l’espèce *Jasminum polyanthum* Franchet originaires d’Israël destinés à la plantation, tant que les exigences visées au ch. 2 sont satisfaites.</td><td></td></tr>
-<tr><td>ex 0602</td><td>*Juglans* L.; l’interdiction d’importer à titre de précaution ne s’applique pas aux végétaux destinés à la plantation ayant jusqu’à deux ans, de l’espèce *Juglans regia* L.*,* à racines nues, sans feuilles et d’un diamètre maximal de 2 cm à la base de la tige, originaires de Turquie, tant que les exigences visées au ch. 2 sont satisfaites.</td><td></td></tr>
-<tr><td>ex 0602</td><td>*Ligustrum* L.</td><td></td></tr>
-<tr><td>ex 0602</td><td>*Lonicera* L.; l’interdiction d’importer à titre de précaution ne s’applique pas aux végétaux racinés destinés à la plantation, âgés de quatre ans au maximum, avec un milieu de culture, appartenant aux espèces *Lonicera x bella*, *Lonicera caprifolium*, *Lonicera caucasica*, *Lonicera etrusca*, *Lonicera* *fragrantissima*, *Lonicera hellenica*, *Lonicera ligustrina*, *Lonicera* *sempervirens* et *Lonicera tatarica*, et originaires de Turquie**.**</td><td></td></tr>
-<tr><td>ex 0602</td><td>*Malus* Mill.; l’interdiction d’importer à titre de précaution ne s’applique pas aux: – végétaux destinés à la plantation, greffés, exempts de feuilles, dormants, à racines nues, âgés d’un à deux ans, appartenant à l’espèce *Malus domestica* et originaires de Serbie, – végétaux destinés à la plantation, greffés, exempts de feuilles, dormants, à racines nues, âgés de trois ans au maximum, appartenant à l’espèce *Malus domestica* et originaires de Moldavie. – porte-greffes exempts de feuilles, dormants, à racines nues, âgés de trois ans maximum, appartenant à l’espèce *Malus domestica* et originaires d’Ukraine, et – végétaux destinés à la plantation, greffés, exempts de feuilles, dormants, à racines nues, âgés de trois ans maximum, appartenant à l’espèce *Malus domestica* et originaires d’Ukraine.</td><td></td></tr>
-<tr><td>ex 0602</td><td>*Nerium* L.; l’interdiction d’importer à titre de précaution ne s’applique pas aux végétaux destinés à la plantation, ayant jusqu’à quatre ans, de l’espèce *Nerium oleander* L. originaires de Turqui, tant que les exigences visées au ch. 2 sont satisfaites.</td><td></td></tr>
-<tr><td>ex 0602</td><td>*Persea* Mill.; l’interdiction d’importer à titre de précaution ne s’applique pas aux végétaux destinés à la plantation greffés, avec feuilles, racinés, avec un milieu de culture et d’un diamètre maximal de 1 cm à la base de la tige, du genre *Persea* *americana* Mill., ni aux boutures non racinées de végétaux destinés à la plantation, d’un diamètre maximal de 2 cm à la base de la tige, du genre *Persea americana* Mill., originaires d’Israël, tant que les exigences visées au ch. 2 sont satisfaites.</td><td></td></tr>
-<tr><td>ex 0602</td><td>*Populus* L.</td><td></td></tr>
-<tr><td>ex 0602</td><td>*Prunus* L.</td><td></td></tr>
-<tr><td>ex 0602</td><td>*Quercus* L.</td><td></td></tr>
-<tr><td>ex 0602</td><td>*Robinia* L.; l’interdiction d’importer à titre de précaution ne s’applique pas aux végétaux destinées à la plantation, à racines nues, greffées en dormance avec un diamètre maximal de 2,5 cm de *Robinia pseudoacacia* L. originaires d’Israël, et autres que les végétaux ayant jusqu’à sept ans destinés à la plantation de l’espèce *Robinia pseudoacacia* L. d’un diamètre maximal de 25 cm, originaires de Turquie, tant que les exigences visées au ch. 2 sont satisfaites.</td><td></td></tr>
-<tr><td>ex 0602</td><td>*Salix* L.</td><td></td></tr>
-<tr><td>ex 0602</td><td>*Sorbus* L.</td><td></td></tr>
-<tr><td>ex 0602</td><td>*Taxu*s L.</td><td></td></tr>
-<tr><td>ex 0602</td><td>*Tilia* L.</td><td></td></tr>
-<tr><td>ex 0602</td><td>*Ulmu*s L.</td><td></td></tr>
-</table>
+(art. 5*a*)
 
-- **1.2** Végétaux d’*Ullucus tuberosus* appartenant au genre ou à l’espèce ci-dessous et originaires de tous les pays tiers:
+## Mesures de pays tiers qui permettent d’atteindre le même niveau de protection phytosanitaire que le respect des conditions fixées à l’annexe 7 OSaVé-DEFR-DETEC
 
-<table>
-<tr><th>N<sup>o</sup> du tarif des douanes</th><th>Désignation du genre ou de l’espèce</th></tr>
-<tr><td>ex 0601.1090 ex 0601.2091 ex 0601.2099 ex 0714.90</td><td>*Ullucus tuberosus* Loz</td></tr>
-</table>
+[^annex6-lvlu1-1]
 
-- **1.3** Fruits de *Momordica* L. appartenant au genre ou à l’espèce ci-dessous et originaires de pays tiers ou de zones de pays tiers où la présence de *Thrips palmi* Karny est avérée et qui ne disposent pas de mesures d’enrayement efficaces pour cet organisme nuisible:
+[^t-6]: Introduite par le ch. II al. 3 de l’O de l’OFAG du 26 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 397](https://fedlex.data.admin.ch/eli/oc/2025/397)).
+[^annex6-lvlu1-1]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
 
-<table>
-<tr><th>N<sup>o</sup> du tarif des douanes</th><th>Désignation du genre ou de l’espèce</th></tr>
-<tr><td>ex 0709.9999</td><td>*Momordica* L.; l’interdiction d’importer à titre de précaution ne s’applique pas aux fruits de *Momordica charantia* L. originaires du Honduras, du Mexique, du Sri Lanka et de Thaïlande tant que les exigences visées au ch. 2 sont satisfaites.</td></tr>
-</table>
+### 1 Mesures concernant les fruits de *Citrus sinensis* Pers. originaires d’Israël compte tenu des risques liés à *Thaumatotibia leucotreta*
 
-[^annex5-lvlu1-lvl1-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Annexe
+Les mesures prises par Israël concernant les fruits de *Citrus sinensis* Pers. conformément à l’annexe du règlement d’exécution (UE) 2022/1659[^annex6-lvlu1-lvl1-1] sont considérées comme équivalentes au respect des conditions supplémentaires que les fruits doivent remplir selon l’annexe 7, ch. 62.1, let. d, OSaVé-DEFR-DETEC pour l’importation.
 
-### 2 Marchandises pour lesquelles, conformément au ch. 1, l’interdiction d’importer à titre de précaution ne s’applique pas, si les exigences suivantes sont remplies
-
-<table>
-<tr><th>Désignation de la marchandise</th><th>N<sup>o</sup> du tarif des douanes</th><th>Pays d’origine</th><th>Exigences</th></tr>
-<tr><td>1. Végétaux des espèces *Acer japonicum* Thunberg, *Acer palmatum* Thunberg et *Acer shirasawanum* Koidzumi destinés à la plantation, âgés d’un à trois ans, greffés, exempts de feuilles, dormants, à racines nues</td><td>ex 0602.90</td><td>Nouvelle-Zélande</td><td>a. Constatation officielle: i) que les végétaux sont exempts d’*Eotetranychus sexmaculatus;* ii) que les végétaux ont été cultivés en permanence sur un lieu de production qui, avec les sites de production qui y sont rattachés, est enregistré et surveillé par l’organisation nationale de protection des végétaux du pays d’origine; iii) que, depuis le début du cycle de production, le site de production s’est révélé exempt *d’Eotetranychus* *sexmaculatus* lors des inspections officielles auquel il a été soumis à des moments opportuns; que, en cas de suspicion de la présence d*’Eotetranychus sexmaculatus* sur le site de production, des traitements appropriés ont été effectués pour garantir l’absence de cet organisme nuisible; qu’une zone de 100 m de rayon faisant l’objet d’une surveillance à des moments opportuns en vue de détecter la présence d’*Eotetranychus sexmaculatus* a été établie autour du site, et que si la présence de l’organisme nuisible a été constatée sur des végétaux hôtes, ces végétaux ont été arrachés et détruits immédiatement; iv) qu’un système a été mis en place pour garantir que les outils et les machines sont nettoyés de sorte à être exempts de terre et de débris végétaux et désinfectés de sorte à être exempts *d’Eotetranychus sexmaculatus* avant leur introduction sur le site de production; v) que lors de la récolte, les végétaux ont été nettoyés et taillés et qu’ils ont été soumis à une inspection officielle, consistant au minimum en un examen visuel approfondi, en particulier des tiges et des branches des végétaux, visant à confirmer l’absence d’*Eotetranychus sexmaculatus*; vi) qu’immédiatement avant l’exportation, les envois de végétaux ont été soumis à une inspection officielle visant à détecter la présence d’*Eotetranychus sexmaculatus*, en particulier dans les tiges et les branches des végétaux, et que la taille de l’échantillon prélevé aux fins de l’inspection doit être telle qu’elle permet au moins la détection d’un niveau d’infestation de 1 % avec un degré de fiabilité de 99 %. b. Certificats phytosanitaires de ces végétaux comprenant, sous la rubrique «Déclaration supplémentaire»: i) la déclaration suivante: «L’envoi satisfait aux dispositions visées au ch. 2 de l’annexe 5 OMP-OFAG (RS *916.202.1*); ii) la mention des sites de production enregistrés.</td></tr>
-<tr><td>2. Végétaux des espèces *Acer japonicum* Thunberg, *Acer palmatum* Thunberg et *Acer shirasawanum* Koidzumi destinés à la plantation, âgés d’un à trois ans, greffés, exempts de feuilles, dormants, à racines nues</td><td>ex 0602.90</td><td>Nouvelle-Zélande</td><td>a. Constatation officielle: i) que les végétaux sont exempts d’*Oemona hirta* et de *Platypus apicalis;* ii) que les végétaux ont été cultivés en permanence sur un lieu de production qui, avec les sites de production qui y sont rattachés, est enregistré et surveillé par l’organisation nationale de protection des végétaux du pays d’origine; iii) que, depuis le début du cycle de production, le site de production s’est révélé exempt d’*Oemona hirta et de Platypus apicalis* lors des inspections officielles auquel il a été soumis à des moments opportuns; que, en cas de suspicion de la présence d’*Oemona hirta et de Platypus apicalis* sur le site de production, des traitements appropriés ont été effectués pour garantir l’absence de cet organisme nuisible; iv) que lors de la récolte, les végétaux ont été nettoyés et soumis à une inspection officielle visant à confirmer l’absence d*’Oemona hirta* et de *Platypus apicalis*; v) qu’immédiatement avant l’exportation, les envois de végétaux ont été soumis à une inspection officielle visant à détecter la présence d*’Oemona hirta* et de *Platypus apicalis* et que la taille de l’échantillon prélevé aux fins de l’inspection doit être telle qu’elle permet au moins la détection d’un niveau d’infestation de 1 % avec un degré de fiabilité de 99 %. b. Certificats phytosanitaires de ces végétaux comprenant, sous la rubrique «Déclaration supplémentaire»: i) la déclaration suivante: «L’envoi satisfait aux dispositions visées au ch. 2 de l’annexe 5 OMP-OFAG (RS *916.202.1*); ii) la mention des sites de production enregistrés.</td></tr>
-<tr><td>3. Végétaux de l’espèce *Albizia* *julibrissin* Durazzini en dormance destinés à la plantation, racines nues et greffées, avec un diamètre maximal de 2,5 cm</td><td>ex 0602.90</td><td>Israël</td><td>a. Constatation officielle: i) que les végétaux sont exempts d’*Euwallacea* *fornicatus* sensu lato et de *Fusarium euwallaceae*; ii) que les végétaux ont été cultivés en permanence sur un lieu de production qui est enregistré et surveillé par l’organisation nationale de protection des végétaux du pays d’origine; l’enregistrement mentionne les sites de production respectifs sur le lieu de production; iii) que les végétaux satisfont à l’une des exigences suivantes: 1. ils ont un diamètre inférieur à 2 cm à la base de la tige; 2. ils ont été cultivés dans un site qui dispose d’une protection physique complète contre l’introduction d*’Euwallacea fornicatus* sensu lato au moins pendant les six mois précédant l’exportation, qui a été soumis à des inspections officielles à des moments opportuns et qui s’est révélé exempt de l’organisme nuisible, ce qu’ont au minimum confirmé des pièges contrôlés au moins toutes les quatre semaines, y compris immédiatement avant l’expédition, ou 3. ils ont été cultivés dans un site de production qui s’est révélé exempt d*’Euwallacea fornicatus* sensu lato et de *Fusarium euwallaceae* depuis le début du dernier cycle complet de végétation, ce qu’ont au minimum confirmé des pièges dans le cas d*’Euwallacea fornicatus* sensu lato, lors d’inspections officielles effectuées au moins toutes les quatre semaines; en cas de suspicion de la présence de l’un ou l’autre de ces organismes nuisibles sur le site de production, des traitements appropriés ont été effectués pour garantir l’absence de ces organismes nuisibles; une zone de 1 km de rayon faisant l’objet d’une surveillance à des moments opportuns en vue de détecter la présence d*’Euwallacea* *fornicatus* sensu lato et de *Fusarium euwallaceae* a été établie autour du site, tout végétal hôte quel qu’il soit présentant l’un de ces organismes devant être arraché et détruit immédiatement; iv) qu’immédiatement avant l’exportation, les envois de végétaux d’un diamètre de 2 cm ou plus à la base de la tige ont été soumis à une inspection officielle visant à détecter la présence d’organismes nuisibles, en particulier dans les tiges et les rameaux des végétaux, y compris dans l’échantillonnage destructif; la taille de l’échantillon prélevé aux fins de l’inspection doit être telle qu’elle permet au moins la détection d’un niveau d’infestation de 1 % avec un degré de fiabilité de 99 %. b. Certificats phytosanitaires de ces végétaux comprenant, sous la rubrique «Déclaration supplémentaire»: i) la déclaration suivante: «L’envoi satisfait aux dispositions visées au ch. 2 de l’annexe 5 OMP-OFAG (RS *916.202.1*); ii) la mention de l’exigence du point a), ch. iii), ci-dessus qui a été remplie; iii) la mention des sites de production enregistrés.</td></tr>
-<tr><td>4. Végétaux de l’espèce *Albizia* *julibrissin* Durazzini en dormance destinées à la plantation, racines nues et greffées, avec un diamètre maximal de 2,5 cm</td><td>ex 0602.90</td><td>Israël</td><td>a. Constatation officielle: i) que les végétaux sont exempts d*’Aonidiella* *orientalis*; ii) que les végétaux ont été cultivés en permanence sur un lieu de production qui est enregistré et surveillé par l’organisation nationale de protection des végétaux du pays d’origine; l’enregistrement mentionne les sites de production respectifs sur le lieu de production; le lieu de production satisfait aussi à l’une des exigences suivantes: 1. les végétaux ont été cultivés dans un site qui dispose d’une protection physique complète contre l’introduction d*’Aonidiella orientalis* au moins pendant les six mois précédant l’exportation, qui a été soumis à des inspections officielles toutes les trois semaines et qui s’est révélé exempt de l’organisme nuisible, y compris immédiatement avant l’expédition, ou 2. le site de production s’est révélé exempt d*’Aonidiella orientalis* depuis le début du dernier cycle complet de végétation lors des inspections officielles effectuées toutes les trois semaines; en cas de suspicion de la présence de l’organisme nuisible sur le site de production, des traitements appropriés ont été effectués pour garantir l’absence de cet organisme; une zone de 100 m de rayon faisant l’objet d’une surveillance à des moments opportuns en vue de détecter la présence d*’Aonidiella orientalis* a été établie autour du site, tout végétal quel qu’il soit présentant cet organisme devant être arraché et détruit immédiatement; iii) qu’immédiatement avant l’exportation, les envois de végétaux ont été soumis à une inspection officielle visant à détecter la présence d’*Aonidiella* *orientalis*, en particulier dans les tiges et les rameaux des végétaux; la taille de l’échantillon prélevé aux fins de l’inspection doit être telle qu’elle permet au moins la détection d’un niveau d’infestation de 1 % avec un degré de fiabilité de 99 %. b. Certificats phytosanitaires de ces végétaux comprenant, sous la rubrique «Déclaration supplémentaire»: i) la déclaration suivante: «L’envoi satisfait aux dispositions visé au ch. 2 de l’annexe 5 OMP-OFAG (RS *916.202.1*); ii) la mention de l’exigence du point a), ch. ii), ci-dessus qui a été remplie; iii) la mention des sites de production enregistrés.</td></tr>
-<tr><td>4.1 *Ficus carica* L., végétaux destinés à la plantation âgés d’un an, sans feuilles, dormants, à racines nues, d’un diamètre maximal de 2 cm à la base de la tige, et boutures racinées âgées d’un an, sans feuilles, de végétaux destinés à la plantation, avec un milieu de culture et d’un diamètre maximal de 1 cm à la base de la tige</td><td>ex 0602.20 ex 0602.90</td><td>Israël</td><td>a. Constatation officielle: i) que les végétaux sont exempts *d’Aonidiella* *orientalis**,* de *Colletotrichum siamense,* de *Euwallacea fornicatus sensu lato,* de *Hypothenemus* *leprieuri,* d’*Icerya aegyptiaca,* de *Neocosmospora euwallaceae,* de *Neoscytalidium dimidiatum,* de *Nipaecoccus viridis,* d’*Oligonychus mangiferus,* de *Phenacoccus* *solenopsis**,* de *Plicosepalus acaciae,* de *Retithrips* *syriacus**,* de *Russellaspis pustulans,* de *Scirtothrips dorsalis* et de *Spodoptera frugiperda;* ii) que les végétaux ont été cultivés en permanence sur un lieu de production qui, avec les sites de production qui y sont rattachés, est enregistré et surveillé par l’organisation nationale de protection des végétaux du pays d’origine; iii) que les végétaux ont été cultivés en permanence sur un site disposant d’une protection physique contre l’introduction d’*Aonidiella orientalis*, d’*Icerya aegyptiaca*, de *Nipaecoccus viridis*, d’*Oligonychus mangiferus*, de *Phenacoccus solenopsis*, de *Retithrips* *syriacus* et de *Russellaspis pustulans*, qui a été soumis à des inspections officielles tous les 45 jours et qui s’est révélé exempt de tous les organismes nuisibles énumérés au ch. i); que si la présence de tout organisme nuisible figurant au ch. i) a été suspectée sur le site de production, des traitements appropriés ont été utilisés pour garantir son absence; et iv) qu’immédiatement avant l’exportation, les envois de végétaux ont été soumis à une inspection officielle visant à détecter la présence d’*Aonidiella orientalis*, d’*Icerya aegyptiaca*, de *Nipaecoccus viridis*, d’*Oligonychus mangiferus*, de *Phenacoccus solenopsis*, de *Plicosepalus acaciae*, de *Retithrips syriacus* et de *Russellaspis pustulans*, la taille de l’échantillon prélevé aux fins de l’inspection devant être telle qu’elle permet au moins la détection d’un niveau d’infestation de 1 % avec un degré de fiabilité de 99 %, et à une inspection officielle visant à détecter la présence de *Colletotrichum siamense* et de *Neoscytalidium dimidiatum*, y compris en procédant à un échantillonnage aléatoire des végétaux et en testant ceux-ci. b. Certificats phytosanitaires de ces végétaux comprenant, sous la rubrique «Déclaration supplémentaire»: i) la déclaration suivante: «L’envoi satisfait aux dispositions visé au ch. 2 de l’annexe 5 OMP-OFAG (RS *916.202.1*); ii) la mention des sites de production enregistrés.</td></tr>
-<tr><td>5. *Jasminum polyanthum* Franchet, boutures non racinées de végétaux destinés à la plantation</td><td>ex 0602.10</td><td>Israël</td><td>a. Constatation officielle: i) que les végétaux sont exempts de *Scirtothrips* *dorsalis**, d’Aonidiella* *orientalis**,* de *Milviscutulus mangiferae,* de *Paracoccus marginatus,* de *Pulvinaria psidii* et de *Colletotrichum siamense;* ii) que les végétaux ont été cultivés en permanence sur un lieu de production qui, avec les sites de production qui y sont rattachés, est enregistré et surveillé par l’organisation nationale de protection des végétaux du pays d’origine; iii) les végétaux ont été cultivés dans un site disposant d’une protection physique contre l’introduction de *Scirtothrips* *dorsalis,* d*’Aonidiella orientalis*, de *Milviscutulus mangiferae*, de *Paracoccus marginatus* et de *Pulvinaria psidii*; iv) que le site de production a été soumis toutes les trois semaines à des inspections officielles visant à détecter laprésence de *Scirtothrips dorsalis* d*’Aonidiella* *orientalis**,* de *Milviscutulus mangiferae,* de *Paracoccus marginatus*, de *Pulvinaria psidii* et de *Colletotrichum siamense* et qu’il s’est révélé exempt de ces organismes nuisibles; v) qu’immédiatement avant l’exportation, les envois de végétaux ont été soumis à une inspection officielle visant à détecter la présence de *Scirtothrips dorsalis*, d*’Aonidiella orientalis*, de *Milviscutulus mangiferae,* de *Paracoccus marginatus* et de *Pulvinaria psidii*, la taille de l’échantillon prélevé aux fins de l’inspection doit être telle qu’elle permet au moins la détection d’un niveau d’infestation de 1 % avec un degré de fiabilité de 99 %, et à une inspection officielle visant à détecter la présence de *Colletotrichum siamense* y compris en testant les végétaux symptomatiques. b. Certificats phytosanitaires de ces végétaux comprenant, sous la rubrique «Déclaration supplémentaire»: i) la déclaration suivante: «L’envoi satisfait aux dispositions visé au ch. 2 de l’annexe 5 OMP-OFAG (RS *916.202.1*); ii) la mention des sites de production enregistrés.</td></tr>
-<tr><td>5.1 Végétaux de l’espèce *Juglans* *regia* L. ayant jusqu’à deux ans, destinés à la plantation, à racines nues, sans feuilles et d’un diamètre maximal de 2 cm à la base de la tige.</td><td>ex 0602.20</td><td>Turquie</td><td>a. Constatation officielle: i) que les végétaux sont exempts d’*Euzophera* *semifuneralis**, Garella* *musculana* et *Lasiodiplodia pseudotheobromae;* ii) que le site de production s’est révélé exempt d’*Euzophera* *semifuneralis, Garella musculana* et *Lasiodiplodia pseudotheobromae* lors d’inspections officielles effectuées à des moments opportuns, depuis le début du cycle complet de production; iii) qu’un système a été mis en place pour garantir que les outils de greffage et de taille soient désinfectés afin d’être exempts de *Lasiodiplodia pseudotheobromae* avant leur introduction sur chaque site de production, et que les végétaux greffés ou taillés soient soumis à un traitement approprié pour empêcher que *Lasiodiplodia pseudotheobromae*entre par les entailles; iv) qu’immédiatement avant l’exportation, les envois de végétaux ont été soumis à une inspection officielle visant à détecter la présence de *Euzophera semifuneralis* et *Garella musculana*, en particulier dans les tiges et les branches des végétaux, la taille de l’échantillon prélevé aux fins de l’inspection devant être telle qu’elle permet au moins la détection d’un niveau d’infestation de 1 % avecun degré de fiabilité de 99 %, et à une inspection officielle visant à détecter la présence de *Lasiodiplodia pseudotheobromae* y compris en procédant à un échantillonnage aléatoire des végétaux et en testant ceux-ci. b. Certificats phytosanitaires de ces végétaux comprenant, sous la rubrique «Déclaration supplémentaire»: i) la déclaration suivante: «L’envoi satisfait aux dispositions visé au ch. 2 de l’annexe 5 OMP-OFAG (RS *916.202.1*); ii) la mention des sites de production enregistrés.</td></tr>
-<tr><td>5.2 Végétaux *Nerium* *oleander* L., ayant jusqu’à quatre ans, destinés à la plantation.</td><td>ex 0602.90</td><td>Turquie</td><td>a. Constatation officielle: i) que les végétaux sont exempts de *Phenacoccus* *solenopsis*; ii) que le site de production s’est révélé exempt de *Phenacoccus solenopsis* lors d’inspections officielles effectuées à des moments opportuns, depuis le début du cycle de production desvégétaux; iii) qu’immédiatement avant l’exportation, les envois de végétaux ont été soumis à une inspection officielle visant à détecter la présence de *Phenacoccus solenopsis* et que la taille de l’échantillon prélevé aux fins de l’inspection est telle qu’elle permet au moins la détection d’un niveau d’infestation de 1 % avec un degré de fiabilité de 99 %; b. Certificats phytosanitaires de ces végétaux comprenant, sous la rubrique «Déclaration supplémentaire»: i) la déclaration suivante: «L’envoi satisfait aux dispositions visé au ch. 2 de l’annexe 5 OMP-OFAG (RS *916.202.1*); ii) la mention des sites de production enregistrés.</td></tr>
-<tr><td>5.3 *Persea americana* Mill., végétaux destinés à la plantation greffés, avec feuilles, racinés, avec un milieu de culture et d’un diamètre maximal de 1 cm à la base de la tige</td><td>ex 0602.20</td><td>Israël</td><td>a. Constatation officielle: i) que les végétaux sont exempts d’*Aonidiella orientalis,* d’*Aulacaspis tubercularis,* d’*Avocado sunblotch viroid,* de *Bemisia tabaci,* de *Colletotrichum aenigma,* de *Colletotrichum alienum,* de *Colletotrichum fructicola,* de *Colletotrichum perseae,* de *Colletotrichum siamense,* de *Colletotrichum theobromicola,* d’*Euwallacea fornicatus sensu lato,* d’*Icerya aegyptiaca,* de *Lasiodiplodia pseudotheobromae,* de *Maconellicoccus hirsutus,* de *Milviscutulus mangiferae,* de *Neocosmospora euwallaceae,* de *Neoscytalidium dimidiatum,* de *Nipaecoccus viridis,* d’*Oligonychus* *perseae**,* de *Paracoccus* *marginatus**,* de *Penthimiola bella,* de *Pseudococcus* *cryptus**,* de *Pulvinaria psidii,* de *Retithrips syriacus,* de *Scirtothrips dorsalis* et de *Tetraleurodes perseae;* ii) que les végétaux ont été cultivés en permanence sur un lieu de production qui, avec les sites de production qui y sont rattachés, est enregistré et supervisé par l’organisation nationale de protection des végétaux du pays d’origine; iii) que les végétaux ont été cultivés en permanence sur un site disposant d’une protection physique contre l’introduction d’*Aonidiella orientalis*, d’*Aulacaspis* *tubercularis*, d’*Icerya* *aegyptiaca*, de *Maconellicoccus hirsutus*, de *Milvis**cutulus* *mangiferae*, de*Nipaecoccus* *viridis*, d’*Oligonychus perseae*, de *Paracoccus marginatus*, de *Penthimiola bella*, de *Pseudococcus cryptus*, de *Pulvinaria psidii*, de *Retithrips* *syriacus* et de *Tetraleurodes perseae*, qui a été soumis à des inspections officielles tous les 45 jours et qui s’est révélé exempt de tous les organismes nuisibles énumérés au ch. i); que si la présence de tout organisme nuisible figurant au ch. i) a été suspectée sur le site de production, des traitements appropriés ont été utilisés pour garantir son absence; et iv) qu’immédiatement avant l’exportation, les envois de végétaux ont été soumis à une inspection officielle visant à détecter la présence d’*Aonidiella orientalis*, d’*Aulacaspis tubercularis*, d’*Icerya aegyptiaca*, de *Maconellicoccus* *hirsutus*, de *Milviscutulus mangiferae*, de *Nipaecoccus viridis*, d’*Oligonychus perseae*, de *Paracoccus marginatus*, de *Penthimiola bella*, de *Pseudococcus cryptus*, de *Pulvinaria psidii*, de *Retithrips* *syriacus* et de *Tetraleurodes perseae*, la taille de l’échantillon prélevé aux fins de l’inspection devant être telle qu’elle permet au moins la détection d’un niveau d’infestation de 1 % avec un degré de fiabilité de 99 %, et à une inspection officielle visant à détecter la présence d’*Avocado sunblotch viroid*, de *Colletotrichum aenigma*, de *Colletotrichum alienum*, de *Colletotrichum fructicola*, de *Colletotrichum perseae*, de *Colletotrichum siamense*, de *Colletotrichum theobromicola*, de *Lasiodiplodia pseudotheobromae* et de *Neoscytalidium dimidiatum*, y compris en procédant à un échantillonnage aléatoire des végétaux et en testant ceux-ci. b. Certificats phytosanitaires de ces végétaux comprenant, sous la rubrique «Déclaration supplémentaire»: i) la déclaration suivante: «L’envoi satisfait aux dispositions visé au ch. 2 de l’annexe 5 OMP-OFAG (RS *916.202.1*); ii) la mention des sites de production enregistrés.</td></tr>
-<tr><td>5.4 *Persea americana* Mill., boutures non racinées de végétaux destinés à la plantation, d’un diamètre maximal de 2 cm à la base de la tige</td><td>ex 0602.10</td><td>Israël</td><td>a. Constatation officielle: i) que les végétaux sont exempts d’*Aonidiella orientalis,* d’*Aulacaspis tubercularis,* d’*Avocado sunblotch viroid,* de *Colletotrichum* *aenigma**,* de *Colletotrichum alienum,* de *Colletotrichum fructicola,* de *Colletotrichum perseae,* de *Colletotrichum siamense,* de *Colletotrichum theobromicola,* d’*Euwallacea fornicatus sensu lato,* d’*Icerya aegyptiaca,* de *Lasiodiplodia pseudotheobromae,* de *Maconellicoccus hirsutus,* de *Milviscutulus mangiferae,* de *Neocosmospora euwallaceae,* de *Neoscytalidium dimidiatum,* de *Nipaecoccus viridis,* d’*Oligonychus perseae,* de *Paracoccus marginatus,* de *Pseudococcus cryptus,* de *Pulvinaria psidii,* de *Retithrips syriacus* et de *Scirtothrips dorsalis;* ii) que les végétaux ont été cultivés en permanence sur un lieu de production qui, avec les sites de production qui y sont rattachés, est enregistré et supervisé par l’organisation nationale de protection des végétaux du pays d’origine; iii) que les végétaux ont été cultivés en permanence sur un site disposant d’une protection physique contre l’introduction d’*Aonidiella orientalis*, d’Aulacaspis tubercularis, d’Icerya aegyptiaca, de *Maconellicoccus hirsutus*, de *Milviscutulus mangiferae*, de *Nipaecoccus viridis*, d’*Oligonychus* *perseae*, de *Paracoccus* *marginatus*, de *Pseudococcus cryptus*, de *Pulvinaria psidii* et de *Retithrips syriacus*, qui a été soumis à des inspections officielles tous les 45 jours et qui s’est révélé exempt de tous les organismes nuisibles énumérés au ch. i); que si la présence de tout organisme nuisible figurant au ch. i) a été suspectée sur le site de production, des traitements appropriés ont été utilisés pour garantir son absence; et iv) qu’immédiatement avant l’exportation, les envois de végétaux ont été soumis à une inspection officielle visant à détecter la présence d’*Aonidiella orientalis*, d’*Aulacaspis tubercularis*, d’*Icerya aegyptiaca*, de *Maconellicoccus hirsutus*, de *Milviscutulus mangiferae*, de *Nipaecoccus viridis*, d’*Oligonychus perseae*, de *Paracoccus marginatus*, de *Pseudococcus cryptus*, de *Pulvinaria psidii* et de *Retithrips syriacus*, la taille de l’échantillon prélevé aux fins de l’inspection devant être telle qu’elle permet au moins la détection d’un niveau d’infestation de 1 % avec un degré de fiabilité de 99 %, et à une inspection officielle visant à détecter la présence d’*Avocado sunblotch viroid*, de *Colletotrichum aenigma*, de *Colletotrichum alienum*, de *Colletotrichum fructicola*, de *Colletotrichum perseae*, de *Colletotrichum siamense*, de *Colletotrichum theobromicola*, de *Lasiodiplodia pseudotheobromae* et de *Neoscytalidium dimidiatum*, y compris en procédant à un échantillonnage aléatoire des végétaux et en testant ceux-ci. b. Certificats phytosanitaires de ces végétaux comprenant, sous la rubrique «Déclaration supplémentaire»: i) la déclaration suivante: «L’envoi satisfait aux dispositions visé au ch. 2 de l’annexe 5 OMP-OFAG (RS *916.202.1*); ii) la mention des sites de production enregistrés.</td></tr>
-<tr><td>6. Végétaux de l’espèce *Robinia* *pseudoacacia* L. en dormance destinés à la plantation, racines nues et greffées, avec un diamètre maximal de 2,5 cm</td><td>ex 0602.90</td><td>Israël</td><td>a. Constatation officielle: i) que les végétaux sont exempts d’*Euwallacea* *fornicatus* sensu lato et de *Fusarium euwallaceae*; ii) que les végétaux ont été cultivés en permanence sur un lieu de production qui est enregistré et surveillé par l’organisation nationale de protection des végétaux du pays d’origine; l’enregistrement mentionne les sites de production respectifs sur le lieu de production; iii) que les végétaux satisfont à l’une des exigences suivantes: 1. ils ont un diamètre inférieur à 2 cm à la base de la tige; 2. ils ont été cultivés dans un site qui dispose d’une protection physique complète contre l’introduction d*’Euwallacea fornicatus* sensu lato au moins pendant les six mois précédant l’exportation, qui a été soumis à des inspections officielles à des moments opportuns et qui s’est révélé exempt de l’organisme nuisible, ce qu’ont au minimum confirmé des pièges contrôlés au moins toutes les quatre semaines, y compris immédiatement avant l’expédition, ou 3. ils ont été cultivés dans un site de production qui s’est révélé exempt d*’Euwallacea fornicatus* sensu lato et de *Fusarium euwallacea* depuis le début du dernier cycle complet de végétation, ce qu’ont au minimum confirmé des pièges dans le cas d*’Euwallacea fornicatus* sensu lato, lors d’inspections officielles effectuées au moins toutes les quatre semaines; en cas de suspicion de la présence de l’un ou l’autre de ces organismes nuisibles sur le site de production, des traitements appropriés contre ces organismes ont été utilisés pour garantir leur absence; une zone de 1 km de rayon faisant l’objet d’une surveillance à des moments opportuns en vue de détecter la présence d’*Euwallacea fornicatus* sensu lato et de *Fusarium euwallaceae* a été établie autour du site, tout végétal hôte quel qu’il soit présentant l’un de ces organismes devant être arraché et détruit immédiatement; iv) qu’immédiatement avant l’exportation, les envois de végétaux d’un diamètre de 2 cm ou plus à la base de la tige ont été soumis à une inspection officielle visant à détecter la présence d’organismes nuisibles, en particulier dans les tiges et les rameaux des végétaux, y compris dans l’échantillonnage destructif; la taille de l’échantillon prélevé aux fins de l’inspection doit être telle qu’elle permet au moins la détection d’un niveau d’infestation de 1 % avec un degré de fiabilité de 99 %. b. Certificats phytosanitaires de ces végétaux comprenant, sous la rubrique «Déclaration supplémentaire»: i) la déclaration suivante: «L’envoi satisfait aux dispositions visé au ch. 2 de l’annexe 5 OMP-OFAG (RS *916.202.1*); ii) la mention de l’exigence du point a), ch. iii), ci-dessus qui a été remplie; iii) la mention des sites de production enregistrés.</td></tr>
-<tr><td>7. Végétaux de l’espèce *Robinia* *pseudoacacia* L., ayant jusqu’à sept ans, destinés à la plantation, d’un diamètre maximal de 25 cm.</td><td>ex 0602.90</td><td>Turquie</td><td>a. Constatation officielle: i) que les végétaux sont exempts de *Pochazia* *shantungensis**;* ii) que le site de production s’est révélé exempt de *Pochazia shantungensis* lors d’inspections officielles effectuées à des moments opportuns, depuis le début du cycle de production des végétaux; iii) qu’immédiatement avant l’exportation, les envois de végétaux ont été soumis à une inspection officielle visant à détecter la présence de *Pochazia shantungensis* et que la taille de l’échantillon prélevé aux fins de l’inspection est telle qu’elle permet au moins la détection d’un niveau d’infestation de 1 % avec un degré de fiabilité de 99 % pour chaque organisme nuisible. b. Certificats phytosanitaires de ces végétaux comprenant, sous la rubrique «Déclaration supplémentaire»: i) la déclaration suivante: «L’envoi satisfait aux dispositions visé au ch. 2 de l’annexe 5 OMP-OFAG (RS *916.202.1*); ii) la mention des sites de production enregistrés.</td></tr>
-<tr><td>8. Fruits de *Momordica charantia* L</td><td>ex 0709.9999</td><td>Honduras, Mexique, Sri Lanka et Thaïlande</td><td>Constatation officielle que les fruits: a. proviennent d’une zone déclarée exempte de *Thrips palmi* Karny par l’organisation nationale de protection des végétaux dans le pays d’origine conformément à la norme internationale pour les mesures phytosanitaires pertinente, qui est mentionnée sur le certificat phytosanitaire, à la condition que ce statut de zone exempte ait été communiqué à l’avance et par écrit à l’OFAG ou à la Commission européenne par l’organisation nationale de protection des végétaux du pays tiers concerné, ou b. proviennent d’un site de production disposant d’une protection physique contre *Thrips palmi* Karny et, immédiatement avant l’exportation, se sont révélés exempts de cet organisme nuisible et/ou des symptômes liés à sa présence lors d’une inspection officielle d’un échantillon représentatif, défini conformément à la norme internationale NIMP31, et qu’ils ont été manipulés et conditionnés de manière à éviter toute infestation par *Thrips Palmi* Karny après avoir quitté le site de production, et que des informations sur la traçabilité sont incluses dans le certificat phytosanitaire. ou c. qu’ils ont été produits selon une approche systémique efficace visant à garantir l’absence de *Thrips palmi* Karny, qui comprend au moins le respect de toutes les exigences suivantes: i) le site de production: – a été équipé de pièges collants pour détecter *Thrips palmi* Karny tout au long du cycle de production, – a été soumis à des inspections au moins trois fois par semaine et s’est révélé exempt de symptômes et ou de l’organisme nuisible préoccupant, tout au long du cycle de production; en cas de suspicion de la présence de *Thrips palmi* Karny, des traitements appropriés ont été appliqués pour garantir l’absence de cet organisme nuisible, – a été soumis à une lutte efficace contre les mauvaises herbes afin d’éliminer d’autres hôtes de *Thrips palmi* Karny, et ii) les fruits ont fait l’objet de mesures de contrôle des cultures efficaces contre *Thrips palmi* Karny et ces mesures ont été communiquées à l’avance et par écrit à l’OFAG ou à la Commission européenne par l’organisation nationale de protection des végétaux du pays tiers concerné, et iii) les fruits récoltés ont été: – manipulés et transportés vers les établissements de conditionnement de manière à prévenir toute infestation après leur départ du site de production, – brossés et lavés avec de l’eau contenant un désinfectant afin de garantir l’absence de larves ou d’adultes de *Thrips palmi* Karny, – manipulés et emballés de manière à prévenir toute infestation après leur départ de l’entreprise de conditionnement, – immédiatement avant l’exportation, se sont révélés exempts de symptômes de *Thrips palmi* Karny lors d’une inspection officielle d’un échantillon représentatif, défini conformément à la norme internationale NIMP31, iv) des informations sur la traçabilité sont incluses dans le certificat phytosanitaire.</td></tr>
-</table>
+[^annex6-lvlu1-lvl1-1]: Règlement d’exécution (UE) 2022/1659 de la Commission du 27 septembre 2022 relatif à des exigences équivalentes pour l’introduction dans l’Union de fruits de *Citrus sinensis* Pers. en provenance d’Israël au vu des risques présentés par *Thaumatotibia leucotreta*, version du JO L 250 du 28.9.2022, p. 1.
