@@ -3,11 +3,11 @@ sr: "0.232.141.11"
 title: "Règlement d'exécution du 19 juin 1970 du Traité de coopération en matière de brevets"
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/942_941_941"
 language: fr
-version: 2024-07-01
+version: 2025-07-01
 adopted: 1970-06-19
 in_force: 1978-01-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/942_941_941/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-1978-942_941_941-20240701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/942_941_941/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/942_941_941/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-1978-942_941_941-20250701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/942_941_941/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -28,7 +28,7 @@ Entré en vigueur pour la Suisse le 24 janvier 1978
 
 Texte en vigueur à partir du 1<sup>er</sup> juillet 2010[^t-2]
 
-(État le 1<sup>er</sup> juillet 2024)
+(État le 1<sup>er</sup> juillet 2025)
 
 [^t-1]: Art. 1<sup>er</sup> ch. 2 de l’AF du 29 nov. 1976 ([RO 1977 1709](https://fedlex.data.admin.ch/eli/oc/1977/1709_1709_1709))
 [^t-2]: Modifié par l’Assemblée de l’Union internationale de coopération en matière de brevets (Assemblée du PCT) le 14 avril 1978, le 3 oct. 1978, le 1<sup>er</sup> mai 1979, le 16 juin 1980, le 26 sept. 1980, le 3 juil. 1981, le 10 sept. 1982, le 4 oct. 1983, le 3 fév. 1984, le 28 sep. 1984, le 1<sup>er</sup> oct. 1985, le 12 juil. 1991, le 2 oct. 1991, le 29 sept. 1992, le 29 sept. 1993, le 3 oct. 1995, le 1<sup>er</sup> oct. 1997, le 15 sept. 1998, le 29 sept. 1999, le 17 mars 2000, le 3 oct. 2000, le 3 oct. 2001, le 1<sup>er</sup> oct. 2002, le 1<sup>er</sup> oct. 2003, le 5 oct. 2004, le 5 oct. 2005, le 3 oct. 2006, le 12 nov. 2007, le 15 mai 2008, le 29 sept. 2008 et le 1<sup>er</sup> oct. 2009 ([RO 2011 4129](https://fedlex.data.admin.ch/eli/oc/2011/582)).
@@ -1210,10 +1210,10 @@ L’office récepteur n’est pas tenu d’adresser l’invitation selon l’art
 
   Lorsque l’abrégé ou tout texte contenu dans les dessins est déposé dans une langue qui est différente de celle, sous réserve des règles 12.1<sup>bis</sup> et 26.3<sup>ter</sup>.e), de la description et des revendications, l’office récepteur, sauf:
 
-  - i) si une traduction de la demande internationale est exigée en vertu de la règle 12.3.a), ou
+  - i) si une traduction de la demande internationale est exigée en vertu de la règle 12.3.a) dans une langue dans laquelle la demande internationale doit être publiée, ou
   - ii) si l’abrégé ou le texte contenu dans les dessins est rédigé dans la langue dans laquelle la demande internationale doit être publiée,
-  - invite le déposant à remettre une traduction de l’abrégé ou du texte contenu dans les dessins dans la langue dans laquelle la demande internationale doit être publiée. Les règles 26.1, 26.2, 26.3, 26.3*bis*, 26.5 et 29.1 s’appliquent *mutatis mutandis*.
 
+- invite le déposant à remettre une traduction de l’abrégé ou du texte contenu dans les dessins dans la langue dans laquelle la demande internationale doit être publiée. Les règles 26.1, 26.2, 26.3, 26.3<sup>bis</sup>, 26.5 et 29.1 s’appliquent *mutatis* *mutadis*.
 - b) Si, le 1<sup>er</sup> octobre 1997, l’al. a) n’est pas compatible avec la législation nationale appliquée par l’office récepteur, il ne s’applique pas à celui-ci tant qu’il reste incompatible avec ladite législation, à condition que ledit office en informe le 31 décembre 1997 au plus tard le Bureau international. Celui-ci publie à bref délai dans la gazette les renseignements reçus.[^26-subdivu5-2]
 - c) Lorsque la requête n’est pas conforme à la règle 12.1.c), l’office récepteur invite le déposant à déposer une traduction de façon à satisfaire aux exigences énoncées à cette règle. Les règles 3, 26.1, 26.2, 26.5 et 29.1 s’appliquent mutatis mutandis.
 - d) Si, le 1<sup>er</sup> octobre 1997, l’al. c) n’est pas compatible avec la législation nationale appliquée par l’office récepteur, il ne s’applique pas à celui-ci tant qu’il reste incompatible avec ladite législation, à condition que ledit office en informe le 31 décembre 1997 au plus tard le Bureau international. Celui-ci publie à bref délai dans la gazette les renseignements reçus.[^26-subdivu5-3]
@@ -1227,7 +1227,7 @@ L’office récepteur n’est pas tenu d’adresser l’invitation selon l’art
 
 - La règle 12.3.c) à e) s’applique *mutatis mutandis*.
 
-[^26-subdivu5-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 14 juil. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 262](https://fedlex.data.admin.ch/eli/oc/2024/262)). La mod. s’applique à toute demande internationale dont la date de dépôt international intervient le 1<sup>er</sup> juillet 2024 ou une date postérieure.
+[^26-subdivu5-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 17 juil. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 357](https://fedlex.data.admin.ch/eli/oc/2025/357)). La mod. de la règle 26 entre en vigueur le 1<sup>er</sup> juillet 2025 et s’applique à toute demande internationale dont la date de dépôt international est cette date ou une date ultérieure.
 [^26-subdivu5-2]: *Note de l’éditeur*: Ces informations sont aussi publiées sur le site Internet de l’OMPI à l’adresse suivante: [www.wipo.int/pct/fr/texts/reservations/res\_incomp.html](http://www.wipo.int/pct/fr/texts/reservations/res_incomp.html).
 [^26-subdivu5-3]: *Note de l’éditeur*: Ces informations sont aussi publiées sur le site Internet de l’OMPI à l’adresse suivante: [www.wipo.int/pct/fr/texts/reservations/res\_incomp.html](http://www.wipo.int/pct/fr/texts/reservations/res_incomp.html).
 [^26-subdivu5-4]: Introduite par la mod. adoptée par l’Assemblée du PCT le 14 juil. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 262](https://fedlex.data.admin.ch/eli/oc/2024/262)). La mod. s’applique à toute demande internationale dont la date de dépôt international intervient le 1<sup>er</sup> juillet 2024 ou une date postérieure.
@@ -2280,7 +2280,7 @@ L’office désigné ne peut, à moins qu’il puisse raisonnablement douter de 
 
 ### 52.1 Délai
 
-- a) Dans tout État désigné où le traitement ou l’examen de la demande internationale commence sans requête spéciale, le déposant doit, s’il désire exercer le droit accordé par l’art. 28, le faire dans un délai d’un mois à compter de l’accomplissement des actes visés à l’art. 22; toutefois, si la communication visée à la règle 47.1 n’a pas été effectuée à l’expiration du délai applicable selon l’art. 22, il doit exercer ce droit au plus tard quatre mois après la date de cette expiration. Dans les deux cas, le déposant peut exercer ce droit à toute date ultérieure si la législation nationale de cet Etat le permet.
+- a) Dans tout État désigné où le traitement ou l’examen de la demande internationale commence sans requête spéciale, le déposant doit, s’il désire exercer le droit accordé par l’art. 28, le faire dans un délai d’un mois à compter de l’accomplissement des actes visés à l’art. 22; toutefois, si la communication visée à la règle 47.1 n’a pas été effectuée à l’expiration du délai applicable selon l’art. 22, il doit exercer ce droit au plus tard quatre mois après la date de cette expiration. Dans les deux cas, le déposant peut exercer ce droit à toute date ultérieure si la législation nationale de cet État le permet.
 - b) Dans tout État désigné dont la législation nationale prévoit que l’examen ne commence que sur requête spéciale, le délai pendant lequel ou le moment auquel le déposant peut exercer le droit accordé par l’art. 28 est le même que celui qui est prévu par la législation nationale pour le dépôt de modifications en cas d’examen, sur requête spéciale, de demandes nationales, pour autant que ce délai n’expire pas avant l’expiration du délai applicable selon l’al. a) ou que ce moment n’arrive pas avant l’expiration du même délai.
 
 ## Partie C Règles relatives au chap. II du traité
@@ -2808,7 +2808,7 @@ En cas de doute sur la question de savoir quelle est l’invention principale au
 - celle des trois conditions précitées qui est remplie la première étant déterminante.
 - e) Lorsque la déclaration concernant les modifications indique que des modifications sont présentées en vertu de l’art. 34 avec la demande d’examen préliminaire international (règle 53.9.c)) mais qu’en fait aucune modification n’est présentée en vertu de l’art. 34, l’administration chargée de l’examen préliminaire international n’entreprend pas cet examen avant d’avoir reçu les modifications ou avant l’expiration du délai fixé dans l’invitation visée à la règle 60.1.g), celle de ces deux conditions qui est remplie la première étant déterminante.
 
-[^69-subdivu1-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT du 2 oct. 2018, en vigueur depuis le 1<sup>er</sup> juil. 2019 ([RO 2019 1831](https://fedlex.data.admin.ch/eli/oc/2019/342)). Cette mod. entre en vigueur le 1<sup>er</sup> juillet 2019 et s’applique à toute demande internationale à l’égard de laquelle une demande d’examen préliminaire international est présentée à cette date ou à une date postérieure.
+[^69-subdivu1-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT du 2 oct. 2018, en vigueur depuis le 1<sup>er</sup> juil. 2019 ([RO 2019 1831](https://fedlex.data.admin.ch/eli/oc/2019/342)). Cette mod. entre en vigueur le 1<sup>er</sup> juil. 2019 et s’applique à toute demande internationale à l’égard de laquelle une demande d’examen préliminaire international est présentée à cette date ou à une date postérieure.
 
 ### 69.2 Délai pour l’examen préliminaire international
 
@@ -2887,7 +2887,7 @@ Il est indiqué dans le rapport si des modifications ont été faites auprès de
 
 ### 70.12 Mention de certaines irrégularités et d’autres éléments
 
-Si l’administration chargée de l’examen préliminaire international estime qu’au moment où elle prépare le rapport
+Si l’administration chargée de l’examen préliminaire international estime qu’au moment où elle prépare le rapport:
 
 - i) la demande internationale tombe sous le coup de la règle 66.2.a)iii), elle l’indique dans le rapport en motivant son opinion;
 - ii) la demande internationale appelle l’une des observations mentionnées à la règle 66.2.a)v), elle peut l’indiquer dans le rapport et, si elle le fait, elle motive son opinion;
@@ -2944,7 +2944,7 @@ Le rapport et toute annexe sont établis dans la langue de publication de la dem
 [^71-subdivu1-1]
 
 [^71-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 9 oct. 2019, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 3457](https://fedlex.data.admin.ch/eli/oc/2020/598)).
-[^71-subdivu1-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 9 oct. 2019, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 3457](https://fedlex.data.admin.ch/eli/oc/2020/598)). Cette mod. s’applique à tout document reçu ou établi par l’administration chargée de l’examen préliminaire international le 1<sup>er</sup> juillet 2020 ou à une date postérieure.
+[^71-subdivu1-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 9 oct. 2019, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 3457](https://fedlex.data.admin.ch/eli/oc/2020/598)). Cette mod. s’applique à tout document reçu ou établi par l’administration chargée de l’examen préliminaire international le 1<sup>er</sup> juil. 2020 ou à une date postérieure.
 
 - a) L’administration chargée de l’examen préliminaire international transmet, le même jour, au Bureau international et au déposant une copie du rapport d’examen préliminaire international et, le cas échéant, de ses annexes.
 - b) L’administration chargée de l’examen préliminaire international transmet au Bureau international des copies d’autres documents du dossier de l’examen préliminaire international conformément aux instructions administratives.
@@ -3370,15 +3370,25 @@ Toute proposition de modification d’une des dispositions mentionnées aux règ
 
 ### 89<sup>bis</sup>.1 Demandes internationales
 
-- a) Les demandes internationales peuvent, sous réserve des al. b) à e), être déposées et traitées sous forme électronique ou par des moyens électroniques, conformément aux instructions administratives; toutefois, l’office récepteur est tenu de permettre le dépôt des demandes internationales sur papier.
+- a)[^89bis-subdivu1-1] Les demandes internationales peuvent, sous réserve des alinéas b) à e), être déposées et traitées sous forme électronique ou par des moyens électroniques, conformément aux instructions administratives.
 - b) Le présent règlement d’exécution s’applique mutatis mutandis aux demandes internationales déposées sous forme électronique ou par des moyens électroniques, sous réserve de toute disposition particulière des instructions administratives.
 - c) Les instructions administratives énoncent les dispositions et conditions applicables au dépôt et au traitement des demandes internationales qui sont déposées, en tout ou en partie, sous forme électronique ou par des moyens électroniques, y compris les dispositions et conditions applicables en ce qui concerne l’accusé de réception, les procédures relatives à l’attribution d’une date de dépôt international, les conditions matérielles et les conséquences de l’inobservation de ces conditions, la signature des documents, les moyens d’authentification des documents et d’identification des correspondants des offices et des administrations, et les modalités d’application des dispositions de l’art. 12 à l’égard de la copie pour l’office récepteur, de l’exemplaire original et de la copie de recherche, et peuvent prévoir différentes dispositions et conditions pour les demandes internationales déposées dans des langues différentes.
 - d) Aucun office national ou organisation intergouvernementale n’est tenu de recevoir ou de traiter les demandes internationales déposées sous forme électronique ou par des moyens électroniques à moins qu’il ait notifié au Bureau international qu’il est disposé à le faire conformément aux dispositions applicables des instructions administratives. Le Bureau international publie l’information ainsi notifiée dans la gazette.
+- d<sup>bis</sup>)[^89bis-subdivu1-2] Un office national ou une organisation intergouvernementale, autre que le Bureau international, qui a émis une notification en vertu de l’alinéa d) peut notifier au Bureau international qu’il ne recevra des demandes internationales que si elles sont déposées sous forme électronique ou par des moyens électroniques. Le Bureau international publie une notification reçue en vertu du présent alinéa dans la gazette.
+- d<sup>ter</sup>)[^89bis-subdivu1-3] Un office national ou une organisation intergouvernementale qui a émis une notification en vertu de l’alinéa d) et non de l’alinéa d<sup>bis</sup>) peut notifier au Bureau international que toute demande déposée sur papier doit être présentée à nouveau par des moyens électroniques dans un délai de deux mois à compter de la date d’une invitation émanant de l’office ou de l’organisation en question. Si les documents correspondants ne sont pas reçus en temps voulu, la demande internationale est considérée comme retirée et l’office récepteur déclare qu’elle est retirée. Le Bureau international publie une notification reçue en vertu du présent alinéa dans la gazette.
 - e) Aucun office récepteur ayant fait parvenir au Bureau international une notification au sens de l’al. d) ne peut refuser de traiter une demande internationale déposée sous forme électronique ou par des moyens électroniques qui satisfait aux conditions prévues dans les instructions administratives.
+
+[^89bis-subdivu1-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 17 juil. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 357](https://fedlex.data.admin.ch/eli/oc/2025/357)).
+[^89bis-subdivu1-2]: Introduite par la mod. adoptée par l’Assemblée du PCT le 17 juil. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 357](https://fedlex.data.admin.ch/eli/oc/2025/357)).
+[^89bis-subdivu1-3]: Introduite par la mod. adoptée par l’Assemblée du PCT le 17 juil. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 357](https://fedlex.data.admin.ch/eli/oc/2025/357)).
 
 ### 89<sup>bis</sup>.2 Autres documents
 
-La règle 89<sup>bis</sup>.1 s’applique mutatis mutandis à d’autres documents et à la correspondance ayant trait aux demandes internationales.
+[^89bis-subdivu2-1]
+
+[^89bis-subdivu2-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 17 juil. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 357](https://fedlex.data.admin.ch/eli/oc/2025/357)).
+
+La règle 89<sup>bis</sup>.1 s’applique *mutatis mutandis* à d’autres documents et à la correspondance ayant trait aux demandes internationales, étant entendu que, lorsqu’un office national ou une organisation intergouvernementale a émis une notification en vertu de la règle 89<sup>bis</sup>.1.d<sup>ter</sup>), il n’est pas tenu compte des documents ou de la correspondance déposés sur papier qui n’ont pas été soumis à nouveau par des moyens électroniques dans un délai de deux mois à compter de la date d’une invitation correspondante.
 
 ### 89<sup>bis</sup>.3 Communication entre offices
 
@@ -3577,10 +3587,11 @@ Une requête en rectification en vertu de la règle 91.1 doit être présentée 
 - b) Toute lettre du déposant à l’administration chargée de la recherche internationale ou à l’administration chargée de l’examen préliminaire international peut être rédigée dans une langue autre que celle de la demande internationale si ladite administration autorise l’usage de cette langue.
 - c) *[Supprimé]*
 - d)[^92-subdivu2-2] Toute lettre du déposant au Bureau international doit être rédigée en français, en anglais ou dans toute autre langue de publication autorisée par les instructions administratives.
-- e) Toute lettre ou notification du Bureau international au déposant ou à tout office national doit être rédigée en français ou en anglais.
+- e)[^92-subdivu2-3] Toute lettre ou notification du Bureau international au déposant ou à tout office national doit être rédigée en français, en anglais ou dans toute autre langue de publication autorisée par les instructions administratives.
 
 [^92-subdivu2-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 29 sept. 2010, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2011 4311](https://fedlex.data.admin.ch/eli/oc/2011/583)).
 [^92-subdivu2-2]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 14 oct. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 3491](https://fedlex.data.admin.ch/eli/oc/2016/587)). Cette mod s’applique également à la correspondance reçue par le Bureau international le 1<sup>er</sup> juil. 2016 ou après cette date concernant des demandes internationales dont la date de dépôt international est antérieure au 1<sup>er</sup> juil. 2016, dans les conditions prévues lors de la publication des instructions administratives adoptées au titre de cette règle.
+[^92-subdivu2-3]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 17 juil. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 357](https://fedlex.data.admin.ch/eli/oc/2025/357)).
 
 ### 92.3 Expéditions postales effectuées par les offices nationaux et les organisations intergouvernementales
 
@@ -3671,7 +3682,7 @@ Aux fins de la présente règle, les dossiers, copies et registres peuvent être
 - g)[^94-subdivu1-6] Le Bureau international ne permet pas l’accès à tout document contenu dans son dossier qui a été établi uniquement pour un usage interne par le Bureau international.
 
 [^94-subdivu1-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 14 oct. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 3491](https://fedlex.data.admin.ch/eli/oc/2016/587)).
-[^94-subdivu1-2]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 9 oct. 2019, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 3457](https://fedlex.data.admin.ch/eli/oc/2020/598)). Cette mod. s’applique à tout document reçu ou établi par l’administration chargée de l’examen préliminaire international le 1<sup>er</sup> juillet 2020 ou à une date postérieure.
+[^94-subdivu1-2]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 9 oct. 2019, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 3457](https://fedlex.data.admin.ch/eli/oc/2020/598)). Cette mod. s’applique à tout document reçu ou établi par l’administration chargée de l’examen préliminaire international le 1<sup>er</sup> juil. 2020 ou à une date postérieure.
 [^94-subdivu1-3]: Introduite par la mod. adoptée par l’Assemblée du PCT le 14 oct. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 3491](https://fedlex.data.admin.ch/eli/oc/2016/587)).
 [^94-subdivu1-4]: Introduite par la mod. adoptée par l’Assemblée du PCT le 14 oct. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 3491](https://fedlex.data.admin.ch/eli/oc/2016/587)).
 [^94-subdivu1-5]: Introduite par la mod. adoptée par l’Assemblée du PCT le 14 oct. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 3491](https://fedlex.data.admin.ch/eli/oc/2016/587)).
@@ -3745,7 +3756,7 @@ Le montant des taxes visées aux règles 15, 45<sup>bis</sup>.2 et 57 est exprim
 
 [^96-subdivu2-1]
 
-[^96-subdivu2-1]: Introduit par la mod. adoptée par l’Assemblée du PCT le 9 oct. 2019, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 3457](https://fedlex.data.admin.ch/eli/oc/2020/598)). Cette mod. s’applique à toute demande internationale pour laquelle la date à laquelle les taxes sont transférées par l’office percepteur est le 1<sup>er</sup> juillet 2020 ou une date postérieure, y compris les taxes collectées selon la règle 16 applicable en vertu de la règle 45<sup>bis</sup>.3.b).
+[^96-subdivu2-1]: Introduit par la mod. adoptée par l’Assemblée du PCT le 9 oct. 2019, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 3457](https://fedlex.data.admin.ch/eli/oc/2020/598)). Cette mod. s’applique à toute demande internationale pour laquelle la date à laquelle les taxes sont transférées par l’office percepteur est le 1<sup>er</sup> juil. 2020 ou une date postérieure, y compris les taxes collectées selon la règle 16 applicable en vertu de la règle 45<sup>bis</sup>.3.b).
 
 - a) Aux fins de la présente règle, le terme «office» s’entend de l’office récepteur (y compris le Bureau international agissant en tant qu’office récepteur), de l’administration chargée de la recherche internationale, d’une administration indiquée pour la recherche supplémentaire, de l’administration chargée de l’examen préliminaire international ou du Bureau international.
 - b) Lorsque, en vertu du présent règlement d’exécution ou des instructions administratives, une taxe est perçue par un office («office percepteur») au profit d’un autre office («office bénéficiaire»), l’office percepteur notifie à bref délai la réception de cette taxe conformément aux instructions administratives. À la réception de la notification, l’office bénéficiaire procède comme s’il avait reçu la taxe à la date à laquelle la taxe a été reçue par l’office percepteur.
@@ -3766,7 +3777,7 @@ Annexe[^t-3]
 
 <table>
 <tr><th>Réductions</th><th></th></tr>
-<tr><td>4. La taxe internationale de dépôt est réduite du montant suivant si la demande internationale est, conformément aux instructions administratives, déposée:</td><td>[tab]</td></tr>
+<tr><td>4. La taxe internationale de dépôt est réduite du montant suivant si la demande internationale est, conformément aux instructions administratives, déposée:</td><td></td></tr>
 <tr><td>a) sous forme électronique, la requête n’étant pas en format à codage de caractères:</td><td>100 francs suisses</td></tr>
 <tr><td>b) sous forme électronique, la requête étant en format à codage de caractères:</td><td>200 francs suisses</td></tr>
 <tr><td>c) sous forme électronique, la requête, la description, les revendications et l’abrégé étant en format à codage de caractères:</td><td>300 francs suisses</td></tr>

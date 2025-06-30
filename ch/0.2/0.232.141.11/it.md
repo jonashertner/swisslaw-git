@@ -3,11 +3,11 @@ sr: "0.232.141.11"
 title: "Regolamento d'esecuzione del 19 giugno 1970 del Trattato di cooperazione in materia di brevetti"
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/942_941_941"
 language: it
-version: 2024-07-01
+version: 2025-07-01
 adopted: 1970-06-19
 in_force: 1978-01-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/942_941_941/20240701/it/xml/fedlex-data-admin-ch-eli-cc-1978-942_941_941-20240701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/942_941_941/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/942_941_941/20250701/it/xml/fedlex-data-admin-ch-eli-cc-1978-942_941_941-20250701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/942_941_941/20250701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Testo originale
 
 Conchiuso a Washington il 19 giugno 1970 Approvato dall’Assemblea federale il 29 novembre 1976[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 14 settembre 1977 Entrato in vigore per la Svizzera il 24 gennaio 1978 Testo in vigore al 1° luglio 2010[^t-2]
 
-(Stato 1° luglio 2024)
+(Stato 1° luglio 2025)
 
 [^t-1]: Art. 1 n.2 del DF del 29 nov. 1976 ([RU 1977 1709](https://fedlex.data.admin.ch/eli/oc/1977/1709_1709_1709)).
 [^t-2]: Modificato dall’Assemblea dell’Unione internazionale di cooperazione in materia di brevetti (Assemblea del PCT) il 14 apr. 1978, il 3 ott. 1978, il 1° mag. 1979, il 16 giu. 1980, il 26 set. 1980, il 3 lug. 1981, il 10 set. 1982, il 4 ott. 1983, il 3 feb. 1984, il 28 set. 1984, il 1° ott. 1985, il 12 lug. e il 2 ott. 1991, il 29 set. 1992, il 29 set. 1993, il 3 ott. 1995, il 1° ott. 1997, il 15 set. 1998, il 29 set. 1999, il 17 mar. 2000, il 3 ott. 2000, il 3 ott. 2001, il 1° ott. 2002, il 1° ott. 2003, il 5 ott. 2004, il 5 ott. 2005, il 3 ott. 2006, il 12 nov. 2007, il 15 mag. 2008, il 29 set. 2008 ed il 1° ott. 2009 ([RU 2011 4129](https://fedlex.data.admin.ch/eli/oc/2011/582)).
@@ -1141,11 +1141,10 @@ L’Ufficio ricevente non è tenuto ad inviare l’invito secondo l’articolo 1
 
   Allorché l’estratto o qualsiasi testo che figura nei disegni è depositato in una lingua diversa da quella della descrizione e delle rivendicazioni, fatto salvo quanto disposto dalle regole 12.1<sup>bis</sup> e 26.3<sup>ter</sup>.e), l’Ufficio ricevente, eccetto nel caso in cui:
 
-  - i) una traduzione della domanda internazionale sia richiesta in virtù della regola 12.3.a); oppure
+  - i) una traduzione della domanda internazionale sia richiesta in virtù della regola 12.3.a) nella lingua in cui la domanda internazionale deve essere pubblicata, oppure
   - ii) l’estratto o il testo che figura nei disegni sia redatto nella lingua in cui la domanda internazionale deve essere pubblicata,
 
-- invita il depositante a consegnare una traduzione dell’estratto o del testo che figura nei disegni, nella lingua in cui la domanda internazionale deve essere pubblicata.
-- Le regole 26.1, 26.2, 26.3, 26.3<sup>bis</sup>, 26.5 e 29.1 si applicano *mutatis mutandis*.
+- invita il depositante a fornire una traduzione dell’estratto o del testo che figura nei disegni nella lingua in cui la domanda internazionale deve essere pubblicata. Le regole 26.1, 26.2, 26.3, 26.3<sup>bis</sup>, 26.5 e 29.1 si applicano *mutatis* *mutandis*.
 - b) Se, il primo ottobre 1997, il paragrafo a) non è compatibile con la legislazione nazionale applicata dall’Ufficio ricevente, questo paragrafo non si applica a codesto Ufficio ricevente fintantoché esso risulti incompatibile con la suddetta legislazione, a condizione che il suddetto Ufficio ne informi l’Ufficio internazionale entro e non oltre il 31 dicembre 1997. Quest’ultimo pubblica senza indugio nella gazzetta le informazioni ricevute.[^partB-lvlu29-3]
 - c) Allorché la richiesta non è conforme alla regola 12.1.c), l’Ufficio ricevente invita il depositante a depositare una traduzione tale da soddisfare i requisiti esposti in detta regola. Le regole 3, 26.1, 26.2, 26.5 e 29.1 si applicano *mutatis mutandis*.
 - d) Se, alla data del 1° ottobre 1997, il paragrafo c) non è compatibile con la legislazione nazionale applicata dall’Ufficio ricevente, tale paragrafo non si applica all’Ufficio ricevente fintantoché esso risulta incompatibile con la suddetta legislazione, a condizione che il suddetto Ufficio ne informi l’Ufficio internazionale entro e non oltre il 31 dicembre 1997. Quest’ultimo pubblica senza indugio nella gazzetta le informazioni ricevute.
@@ -1170,7 +1169,7 @@ L’Ufficio ricevente decide se il depositante ha presentato la correzione entro
 26.6 *[Soppresso]*
 
 [^partB-lvlu29-1]: Nuovo testo giusta la mod. adottata dall’Assemblea del PCT il 14 lug. 2023, in vigore dal 1° lug. 2024 ([RU 2024 262](https://fedlex.data.admin.ch/eli/oc/2024/262)). Si applica a tutti i termini fissati nel Regolamento che scadono il 1° lug. 2024 o in data successiva.
-[^partB-lvlu29-2]: Nuovo testo giusta la mod. adottata dall’Assemblea del PCT il 14 lug. 2023, in vigore dal 1° lug. 2024 ([RU 2024 262](https://fedlex.data.admin.ch/eli/oc/2024/262)). Si applica a tutti i termini fissati nel Regolamento che scadono il 1° lug. 2024 o in data successiva.
+[^partB-lvlu29-2]: Nuovo testo giusta la mod. adottata dall’Assemblea del PCT il 17 lug. 2024, in vigore dal 1° lug. 2025 ([RU 2025 357](https://fedlex.data.admin.ch/eli/oc/2025/357)). Le mod. della regola 26 entrano in vigore il 1° luglio 2025 e si applicano a ogni domanda internazionale con data di deposito internazionale pari o successiva a detta data.
 [^partB-lvlu29-3]: *Nota dell’editore*: Queste informazioni sono anche pubblicate sul sito web dell’OMPI sotto: [www.wipo.int/pct/fr/texts/reservations/res\_incomp.html](http://www.wipo.int/pct/fr/texts/reservations/res_incomp.html)
 [^partB-lvlu29-4]: Introdotta dalla mod. adottata dall’Assemblea del PCT il 14 lug. 2023, in vigore dal 1° lug. 2024 ([RU 2024 262](https://fedlex.data.admin.ch/eli/oc/2024/262)). Si applica a tutti i termini fissati nel Regolamento che scadono il 1° lug. 2024 o in data successiva.
 
@@ -3206,19 +3205,26 @@ Ogni proposta di modifica di una delle disposizioni menzionate nelle regole 88.1
 
 89<sup>bis</sup>.1 *Domande internazionali*
 
-- a) Le domande internazionali possono, fatti salvi i paragrafi b) a e), essere depositate e trattate sotto forma elettronica o tramite mezzi elettronici, in conformità alle direttive amministrative*;* l’Ufficio ricevente, tuttavia, deve permettere il deposito di domande internazionali su carta.
+- a)[^partF-lvlu1-1] Le domande internazionali possono, fatti salvi i paragrafi b)–e), essere depositate e trattate sotto forma elettronica o tramite mezzi elettronici in conformità alle istruzioni amministrative.
 - b) Il presente Regolamento di esecuzione si applica *mutatis mutandis* alle domande internazionali depositate sotto forma elettronica o tramite mezzi elettronici, fatta salva qualsiasi disposizione speciale delle direttive amministrative.
 - c) Le direttive amministrative elencano le disposizioni e le condizioni applicabili al deposito ed al trattamento delle domande internazionali che sono depositate, nella loro totalità o in parte, sotto forma elettronica o tramite mezzi elettronici, comprese le disposizioni e le condizioni applicabili per ciò che riguarda la ricevuta di ricevimento, le procedure relative all’attribuzione di una data di deposito internazionale, i requisiti formali e le conseguenze dell’inosservanza di tali requisiti, la firma dei documenti, i mezzi di autenticazione dei documenti e di identificazione di parti che comunicano con gli Uffici e con le Amministrazioni, e le modalità di applicazione delle disposizioni dell’articolo 12 in rapporto alla copia per l’Ufficio ricevente, dell’esemplare originale e della copia di ricerca, e possono contemplare disposizioni e condizioni diverse per le domande internazionali depositate in lingue diverse.
 - d) Nessun Ufficio nazionale od organizzazione intergovernativa sono tenuti a ricevere oppure a trattare le domande internazionali depositate sotto forma elettronica o tramite mezzi elettronici a meno che tale Ufficio od organizzazione non abbia notificato all’Ufficio internazionale la propria disponibilità ad agire in tal senso, in conformità alle disposizioni applicabili contemplate nelle istruzioni amministrative. L’Ufficio internazionale pubblica le informazioni così notificate nella gazzetta.
+- d<sup>bis</sup>)[^partF-lvlu1-2] Un Ufficio nazionale od organizzazione intergovernativa, diversa dall’Ufficio internazionale che ha emesso una notifica ai sensi del paragrafo d), può notificare all’Ufficio internazionale che riceverà domande internazionali solo se depositate sotto forma elettronica o tramite mezzi elettronici. L’Ufficio internazionale pubblica nella gazzetta ogni notifica ricevuta ai sensi di questo paragrafo.
+- d<sup>ter</sup>)[^partF-lvlu1-3] Un Ufficio nazionale od organizzazione intergovernativa che ha emesso una notifica in conformità con il paragrafo d) ma non ai sensi del paragrafo d<sup>bis</sup>) può notificare all’Ufficio internazionale che qualsiasi domanda depositata in forma cartacea deve essere ripresentata tramite mezzi elettronici entro due mesi dalla data dell’invito da parte di tale Ufficio od organizzazione. Se tali documenti non sono ricevuti in tempo utile, la domanda internazionale si considera ritirata e l’Ufficio ricevente emette una dichiarazione in tal senso. L’Ufficio internazionale pubblica nella gazzetta ogni notifica ricevuta ai sensi di questo paragrafo.
 - e) Nessun Ufficio ricevente che abbia fatto pervenire all’Ufficio internazionale una notifica ai sensi del paragrafo d) può rifiutarsi di trattare una domanda internazionale depositata sotto forma elettronica o tramite mezzi elettronici la quale soddisfi i requisiti contemplati nelle direttive amministrative.
 
-89<sup>bis</sup>.2 *Altri documenti*
+89<sup>bis</sup>.2[^partF-lvlu1-4] *Altri documenti*
 
-La regola 89<sup>bis</sup>.1 si applica *mutatis mutandis* ad altri documenti ed alla corrispondenza concernente le domande internazionali.
+La regola 89<sup>bis</sup>.1 si applica *mutatis mutandis* ad altri documenti e alla corrispondenza relativi alle domande internazionali tenendo conto che, nel caso in cui un Ufficio nazionale od organizzazione intergovernativa abbia emesso una notifica ai sensi della regola 89<sup>bis</sup>.1.d<sup>ter</sup>), tali documenti o corrispondenza, depositati sotto forma cartacea e non ripresentati tramite mezzi elettronici entro due mesi dalla data dell’invito corrispondente, non saranno tenuti in considerazione.
 
 89<sup>bis</sup>.3 *Trasmissione tra Uffici*
 
 Allorquando il Trattato, il presente Regolamento d’esecuzione oppure le direttive amministrative prevedono che la comunicazione, la notifica o la trasmissione («comunicazione») di una domanda internazionale, di una notifica, di una comunicazione, di corrispondenza o di altro documento debbano essere trasmessi da un Ufficio nazionale o da un’organizzazione intergovernativa ad altro Ufficio o ad altra organizzazione, tale trasmissione può avvenire sotto forma elettronica o tramite mezzi elettronici, qualora il mittente ed il destinatario ne abbiano convenuto.
+
+[^partF-lvlu1-1]: Nuovo testo giusta la mod. adottata dall’Assemblea del PCT il 17 lug. 2024, in vigore dal 1° lug. 2025 ([RU 2025 357](https://fedlex.data.admin.ch/eli/oc/2025/357)).
+[^partF-lvlu1-2]: Introdotta dalla mod. adottata dall’Assemblea del PCT il 17 lug. 2024, in vigore dal 1° lug. 2025 ([RU 2025 357](https://fedlex.data.admin.ch/eli/oc/2025/357)).
+[^partF-lvlu1-3]: Introdotta dalla mod. adottata dall’Assemblea del PCT il 17 lug. 2024, in vigore dal 1° lug. 2025 ([RU 2025 357](https://fedlex.data.admin.ch/eli/oc/2025/357)).
+[^partF-lvlu1-4]: Nuovo testo giusta la mod. adottata dall’Assemblea del PCT il 17 lug. 2024, in vigore dal 1° lug. 2025 ([RU 2025 357](https://fedlex.data.admin.ch/eli/oc/2025/357)).
 
 ### **Regola 89**<sup>ter</sup>Copie sotto forma elettronica di documenti depositati sotto forma cartacea
 
@@ -3406,7 +3412,7 @@ Una richiesta di rettifica ai sensi della regola 91.1 deve essere presentata all
 - b) Ogni lettera che il depositante invia all’Amministrazione incaricata della ricerca internazionale o all’Amministrazione incaricata dell’esame preliminare internazionale può essere redatta in una lingua diversa da quella della domanda internazionale se detta Amministrazione autorizza l’uso di quest’altra lingua.
 - c) *[Soppressa]*
 - d)[^partF-lvlu6-2] Ogni lettera indirizzata dal depositante all’Ufficio internazionale deve essere redatta in francese, inglese o in un’altra lingua di pubblicazione autorizzata dalle istruzioni amministrative.
-- e) Ogni lettera o notifica indirizzata dall’Ufficio internazionale al depositante o a un Ufficio nazionale deve essere redatta in francese o in inglese.
+- e)[^partF-lvlu6-3] Ogni lettera o notifica inviata dall’Ufficio internazionale al depositante o a un Ufficio nazionale deve essere redatta in francese, inglese o in un’altra lingua di pubblicazione nei limiti di quanto consentito dalle istruzioni amministrative.
 
 92.3 *Invii postali fatti dagli Uffici nazionali e dalle organizzazioni intergovernative*
 
@@ -3435,6 +3441,7 @@ Ogni documento o lettera proveniente da un Ufficio nazionale o da un’organizza
 
 [^partF-lvlu6-1]: Nuovo testo giusta la mod. adottata dall’Assemblea del PCT il 29 set. 2010, in vigore dal 1° lug. 2011 ([RU 2011 4311](https://fedlex.data.admin.ch/eli/oc/2011/583)).
 [^partF-lvlu6-2]: Nuovo testo giusta la mod. adottata dall’Assemblea del PCT il 14 ott. 2015, in vigore dal 1° lug. 2016 ([RU 2016 3491](https://fedlex.data.admin.ch/eli/oc/2016/587)). La mod. si applica alla corrispondenza ricevuta dall’Ufficio internazionale il 1° lug. 2016 o in data successiva concernente le domande internazionali la cui data di deposito è antecedente al 1° lug. 2016, nelle condizioni prevista al momento della pubblicazione delle istruzioni amministrative adottate con riferimento a tale regola.
+[^partF-lvlu6-3]: Nuovo testo giusta la mod. adottata dall’Assemblea del PCT il 17 lug. 2024, in vigore dal 1° lug. 2025 ([RU 2025 357](https://fedlex.data.admin.ch/eli/oc/2025/357)).
 
 ### **Regola 92**<sup>bis</sup>Registrazione di cambiamenti relativi a talune indicazioni della richiesta o della domanda di esame preliminare internazionale
 
@@ -3584,7 +3591,7 @@ Allegato[^t-3]
 <tr><td>2. Tassa di trattamento per ricerca supplementare: (regola 45<sup>bis</sup>.2)</td><td>200 franchi svizzeri</td></tr>
 <tr><td>3. Tassa di trattamento: (regola 57.2)</td><td>200 franchi svizzeri</td></tr>
 <tr><th>Riduzioni</th><th></th></tr>
-<tr><td>4. La tassa internazionale di deposito è ridotta del seguente importo se la domanda internazionale, in conformità con le istruzioni amministrative, è depositata:</td><td>[tab]</td></tr>
+<tr><td>4. La tassa internazionale di deposito è ridotta del seguente importo se la domanda internazionale, in conformità con le istruzioni amministrative, è depositata:</td><td></td></tr>
 <tr><td>a) sotto forma elettronica, in cui la richiesta non è in formato con codici di caratteri:</td><td>100 franchi svizzeri</td></tr>
 <tr><td>b) sotto forma elettronica, in cui la richiesta è in formato con codici di caratteri:</td><td>200 franchi svizzeri</td></tr>
 <tr><td>c) sotto forma elettronica, in cui la richiesta, la descrizione, le rivendicazioni e il contenuto sono in formato con codici di caratteri:</td><td>300 franchi svizzeri</td></tr>

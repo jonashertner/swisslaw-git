@@ -3,11 +3,11 @@ sr: "0.232.141.11"
 title: Ausführungsordnung vom 19. Juni 1970 zum Vertrag über die internationale Zusammenarbeit auf dem Gebiet des Patentwesens
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/942_941_941"
 language: de
-version: 2024-07-01
+version: 2025-07-01
 adopted: 1970-06-19
 in_force: 1978-01-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/942_941_941/20240701/de/xml/fedlex-data-admin-ch-eli-cc-1978-942_941_941-20240701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/942_941_941/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/942_941_941/20250701/de/xml/fedlex-data-admin-ch-eli-cc-1978-942_941_941-20250701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/942_941_941/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ Abgeschlossen In Washington am 19. Juni 1970 Von der Bundesversammlung genehmigt
 
 In der ab 1. Juli 2010 geltenden Fassung[^t-3]
 
-(Stand am 1. Juli 2024)
+(Stand am 1. Juli 2025)
 
 [^t-1]: Amtliche deutsche Übersetzung nach Art. 67 Abs. 1 Bst. b des Vertrages. Der nachstehende Wortlaut der Ausführungsordnung weicht in verschiedenen Punkten geringfügig ab von der mit der Botschaft veröffentlichten Fassung (BBl **1976** I 137–275), die noch nicht der bereinigte amtliche Text war. Wie die parlamentarische Redaktionskommission festgestellt hat, sind die Unterschiede rein redaktioneller Natur.
 [^t-2]: Art. 1 Ziff. 2 des BB vom 29. Nov. 1976 ([AS 1977 1709](https://fedlex.data.admin.ch/eli/oc/1977/1709_1709_1709))
@@ -1114,10 +1114,10 @@ Das Anmeldeamt braucht die Aufforderung nach Artikel 14 Absatz 1 Buchstabe b zur
 
   Werden die Zusammenfassung oder Textbestandteile der Zeichnungen in einer anderen Sprache eingereicht als derjenigen – vorbehaltlich der Regeln 12.1<sup>bis</sup> und 26.3<sup>ter</sup> Absatz e – in der die Beschreibung und die Ansprüche abgefasst sind, so fordert das Anmeldeamt den Anmelder auf, eine Übersetzung der Zusammenfassung oder der Textbestandteile der Zeichnungen in der Sprache einzureichen, in der die internationale Anmeldung zu veröffentlichen ist, es sei denn:
 
-  - i) es ist eine Übersetzung der internationalen Anmeldung nach Regel 12.3 Absatz a erforderlich; oder
+  - i) es ist eine Übersetzung der internationalen Anmeldung nach Regel 12.3 Absatz a in die Sprache erforderlich, in der die internationale Anmeldung zu veröffentlichen ist, oder
   - ii) die Zusammenfassung oder die Textbestandteile der Zeichnungen sind in der Sprache abgefasst, in der die internationale Anmeldung zu veröffentlichen ist.
 
-- Die Regeln 26.1, 26.2, 26.3, 26.3<sup>bis</sup>, 26.5 und 29.1 sind entsprechend anzuwenden.
+- Die Regeln 26.1, 26.2, 26.3, 26.3*<sup>bis</sup>*, 26.5 und 29.1 sind entsprechend anzuwenden.
 - b) Ist Absatz a am 1. Oktober 1997 nicht mit dem vom Anmeldeamt anzuwendenden nationalen Recht vereinbar, so gilt er für das Anmeldeamt nicht, solange diese Unvereinbarkeit besteht, sofern dieses Amt das Internationale Büro bis zum 31. Dezember 1997 davon unterrichtet. Diese Mitteilung wird vom Internationalen Büro unverzüglich im Blatt veröffentlicht.[^partB-lvlu29-3]
 - c) Entspricht der Antrag nicht Regel 12.1 Absatz c, so fordert das Anmeldeamt den Anmelder auf, entsprechend dieser Regel eine Übersetzung einzureichen. Die Regeln 3, 26.1, 26.2, 26.5 und 29.1 sind entsprechend anzuwenden.
 - d) Ist Absatz c am 1. Oktober 1997 nicht mit dem vom Anmeldeamt anzuwendenden nationalen Recht vereinbar, so gilt er für das Anmeldeamt nicht, solange diese Unvereinbarkeit besteht, sofern dieses Amt das Internationale Büro bis zum 31. Dezember 1997 davon unterrichtet. Diese Mitteilung wird vom Internationalen Büro unverzüglich im Blatt veröffentlicht.[^partB-lvlu29-4]
@@ -1142,7 +1142,7 @@ Das Anmeldeamt entscheidet, ob die Berichtigung innerhalb der nach Regel 26.2 an
 26.6 [Gestrichen]
 
 [^partB-lvlu29-1]: Fassung gemäss der von der PCT-Versammlung am 14. Juli 2023 angenommenen Änd., in Kraft seit 1. Juli 2024 ([AS 2024 262](https://fedlex.data.admin.ch/eli/oc/2024/262)). Die Änderungen der Regel 26.3 finden Anwendung auf internationale Anmeldungen, deren internationals Anmeldedatum der 1. Juli 2024 oder ein späteres Datum ist.
-[^partB-lvlu29-2]: Fassung gemäss der von der PCT-Versammlung am 14. Juli 2023 angenommenen Änd., in Kraft seit 1. Juli 2024 ([AS 2024 262](https://fedlex.data.admin.ch/eli/oc/2024/262)). Die Änderungen der Regel 26.3<sup>ter</sup> finden Anwendung auf internationale Anmeldungen, deren internationals Anmeldedatum der 1. Juli 2024 oder ein späteres Datum ist.
+[^partB-lvlu29-2]: Fassung gemäss der von der PCT-Versammlung am 17. Juli 2024 angenommenen Änd., in Kraft seit 1. Juli 2025 ([AS 2025 357](https://fedlex.data.admin.ch/eli/oc/2025/357)). Die Änderungen der Regel 26.3<sup>ter</sup> finden Anwendung auf jede internationale Anmeldung, deren internationales Anmeldedatum auf dieses oder ein späteres Datum fällt.
 [^partB-lvlu29-3]: *Anmerkung des Herausgebers:* Diese Information wird auch auf der Internetseite der WIPO unter: [www.wipo.int/pct/de/texts/reservations/res\_incomp.html](http://www.wipo.int/pct/de/texts/reservations/res_incomp.html) veröffentlicht.
 [^partB-lvlu29-4]: *Anmerkung des Herausgebers:* Diese Information wird auch auf der Internetseite der WIPO unter: [www.wipo.int/pct/de/texts/reservations/res\_incomp.html](http://www.wipo.int/pct/de/texts/reservations/res_incomp.html) veröffentlicht.
 [^partB-lvlu29-5]: Eingefügt durch Beschluss der PCT-Versammlung vom 14. Juli 2023, in Kraft seit 1. Juli 2024 ([AS 2024 262](https://fedlex.data.admin.ch/eli/oc/2024/262)). Die Änderungen der Regel 26.3<sup>ter</sup> finden Anwendung auf internationale Anmeldungen, deren internationals Anmeldedatum der 1. Juli 2024 oder ein späteres Datum ist.
@@ -3099,21 +3099,27 @@ Jeder Vorschlag zur Änderung einer der in Regel 88.1 oder 88.3 genannten Bestim
 
 89<sup>bis</sup>.1 Internationale Anmeldungen
 
-- a) Internationale Anmeldungen können vorbehaltlich der Absätze b–e in elektronischer Form oder mit elektronischen Mitteln gemäss den Verwaltungsvorschriften eingereicht und bearbeitet werden mit der Massgabe, dass jedes Anmeldeamt die Einreichung internationaler Anmeldungen auf Papier gestatten muss.
+- a)[^partF-lvlu1-1] Internationale Anmeldungen können vorbehaltlich der Absätze b bis e in elektronischer Form oder mit elektronischen Mitteln gemäss den Verwaltungsvorschriften eingereicht und bearbeitet werden.
 - b) Diese Ausführungsordnung ist auf internationale Anmeldungen, die in elektronischer Form oder mit elektronischen Mitteln eingereicht werden, vorbehaltlich besonderer Bestimmungen in den Verwaltungsvorschriften, entsprechend anzuwenden.
 - c) In den Verwaltungsvorschriften werden die Vorschriften und Erfordernisse für die Einreichung und Bearbeitung internationaler Anmeldungen festgelegt, die ganz oder teilweise in elektronischer Form oder mit elektronischen Mitteln eingereicht werden, einschliesslich, aber nicht begrenzt auf Vorschriften und Erfordernisse betreffend die Empfangsbescheinigung, die Verfahren für die Zuerkennung eines internationalen Anmeldedatums, die Formerfordernisse und die Folgen im Fall einer Nichterfüllung dieser Erfordernisse, die Unterzeichnung von Schriftstücken, die Mittel zur Bescheinigung der Echtheit von Schriftstücken und der Identität von Beteiligten im Schriftverkehr mit den Ämtern und Behörden, und die Durchführung des Artikels 12 im Zusammenhang mit dem Anmeldeamts-, dem Akten- und dem Recherchenexemplar; sie können ferner unterschiedliche Vorschriften und Erfordernisse für in unterschiedlichen Sprachen eingereichte internationale Anmeldungen enthalten.
-- d) Kein nationales Amt und keine zwischenstaatliche Organisation ist verpflichtet, in elektronischer Form oder mit elektronischen Mitteln eingereichte internationale Anmeldungen entgegenzunehmen und zu bearbeiten, es sei denn, dieses Amt oder diese Organisation hat dem Internationalen Büro mitgeteilt, dass es bzw. sie hierzu unter Beachtung der diesbezüglichen Verwaltungsvorschriften bereit ist. Das Internationale Büro veröffentlicht diese Mitteilung im Blatt.[^partF-lvlu1-1]
+- d) Kein nationales Amt und keine zwischenstaatliche Organisation ist verpflichtet, in elektronischer Form oder mit elektronischen Mitteln eingereichte internationale Anmeldungen entgegenzunehmen und zu bearbeiten, es sei denn, dieses Amt oder diese Organisation hat dem Internationalen Büro mitgeteilt, dass es bzw. sie hierzu unter Beachtung der diesbezüglichen Verwaltungsvorschriften bereit ist. Das Internationale Büro veröffentlicht diese Mitteilung im Blatt.[^partF-lvlu1-2]
+- d<sup>bis</sup>)[^partF-lvlu1-3] Ein nationales Amt oder eine zwischenstaatliche Organisation, mit Ausnahme des Internationalen Büros, das beziehungsweise die eine Mitteilung gemäss Absatz d abgegeben hat, kann das Internationale Büro davon in Kenntnis setzen, dass es beziehungsweise sie internationale Anmeldungen nur dann entgegennimmt, wenn sie in elektronischer Form oder mit elektronischen Mitteln eingereicht werden. Das Internationale Büro veröffentlicht eine nach diesem Absatz abgegebene Mitteilung im Blatt.
+- d<sup>ter</sup>)[^partF-lvlu1-4] Ein nationales Amt oder eine zwischenstaatliche Organisation, das beziehungsweise die eine Mitteilung nach Absatz d, aber nicht nach Absatz d<sup>bis</sup> abgegeben hat, kann das Internationale Büro davon in Kenntnis setzen, dass innerhalb von zwei Monaten nach einer entsprechenden Aufforderung durch dieses Amt beziehungsweise diese Organisation alle auf Papier eingereichten Anmeldungen mit elektronischen Mitteln erneut eingereicht werden müssen. Gehen die entsprechenden Schriftstücke nicht fristgerecht ein, so gilt die internationale Anmeldung als zurückgenommen und wird vom Anmeldeamt für zurückgenommen erklärt. Das Internationale Büro veröffentlicht eine nach diesem Absatz abgegebene Mitteilung im Blatt.
 - e) Kein Anmeldeamt, das dem Internationalen Büro eine Mitteilung nach Absatz d zugeleitet hat, darf die Bearbeitung einer in elektronischer Form oder mit elektronischen Mitteln eingereichten internationalen Anmeldung, die den diesbezüglichen Erfordernissen der Verwaltungsvorschriften entspricht, ablehnen.
 
-89<sup>bis</sup>.2 Andere Schriftstücke
+89<sup>bis</sup>.2[^partF-lvlu1-5] Andere Schriftstücke
 
-Regel 89<sup>bis</sup>.1 ist auf andere im Zusammenhang mit internationalen Anmeldungen stehende Unterlagen und Schriftstücke entsprechend anzuwenden.
+Regel 89<sup>bis</sup>.1 ist auf andere im Zusammenhang mit internationalen Anmeldungen stehende Unterlagen und Schriftstücke entsprechend anzuwenden mit der Massgabe, dass in den Fällen, in denen ein nationales Amt oder eine zwischenstaatliche Organisation eine Mitteilung gemäss Regel 89<sup>bis</sup>.1 Absatz d<sup>ter</sup> abgegeben hat, solche Unterlagen und Schriftstücke, die auf Papier eingereicht und nicht innerhalb von zwei Monaten nach einer entsprechenden Aufforderung mit elektronischen Mitteln erneut eingereicht werden, unberücksichtigt bleiben.
 
 89<sup>bis</sup>.3 Übermittlung zwischen Ämtern
 
 Die im Vertrag, in dieser Ausführungsordnung oder in den Verwaltungsvorschriften vorgeschriebene Übermittlung, Zustellung oder Übersendung («Übermittlung») von internationalen Anmeldungen, Mitteilungen, Schriftstücken, Schreiben oder anderen Unterlagen von einem nationalen Amt oder einer zwischenstaatlichen Organisation an ein anderes nationales Amt oder eine andere zwischenstaatliche Organisation kann in elektronischer Form oder mit elektronischen Mitteln erfolgen, wenn Absender und Empfänger dies miteinander vereinbart haben.
 
-[^partF-lvlu1-1]: *Anmerkung des Herausgebers:* Diese Information wird auch auf der Internetseite der WIPO unter: [www.wipo.int/pct/de/texts/reservations/res\_incomp.html](http://www.wipo.int/pct/de/texts/reservations/res_incomp.html) veröffentlicht.
+[^partF-lvlu1-1]: Fassung gemäss der von der PCT-Versammlung am 17. Juli 2024 angenommenen Änd., in Kraft seit 1. Juli 2025 ([AS 2025 357](https://fedlex.data.admin.ch/eli/oc/2025/357)).
+[^partF-lvlu1-2]: *Anmerkung des Herausgebers:* Diese Information wird auch auf der Internetseite der WIPO unter: [www.wipo.int/pct/de/texts/reservations/res\_incomp.html](http://www.wipo.int/pct/de/texts/reservations/res_incomp.html) veröffentlicht.
+[^partF-lvlu1-3]: Eingefügt durch die von der PCT-Versammlung am 17. Juli 2024 angenommenen Änd., in Kraft seit 1. Juli 2025 ([AS 2025 357](https://fedlex.data.admin.ch/eli/oc/2025/357)).
+[^partF-lvlu1-4]: Eingefügt durch die von der PCT-Versammlung am 17. Juli 2024 angenommenen Änd., in Kraft seit 1. Juli 2025 ([AS 2025 357](https://fedlex.data.admin.ch/eli/oc/2025/357)).
+[^partF-lvlu1-5]: Fassung gemäss der von der PCT-Versammlung am 17. Juli 2024 angenommenen Änd., in Kraft seit 1. Juli 2025 ([AS 2025 357](https://fedlex.data.admin.ch/eli/oc/2025/357)).
 
 ### **Regel 89****<sup>ter</sup>**Kopien in elektronischer Form von auf Papier eingereichten Schriftstücken
 
@@ -3125,7 +3131,7 @@ Jedes nationale Amt oder jede zwischenstaatliche Organisation kann vorsehen, das
 
 90.1 Bestellung als Anwalt
 
-- a) Eine Person, die befugt ist, vor dem nationalen Amt, bei dem die internationale Anmeldung eingereicht wird, oder, wenn die internationale Anmeldung beim Internationalen Büro eingereicht wird, in bezug auf die internationale Anmeldung vor dem Internationalen Büro als Anmeldeamt aufzutreten, kann vom Anmelder als Anwalt zu seiner Vertretung vor dem Anmeldeamt, dem Internationalen Büro, der Internationalen Recherchenbehörde, einer für die ergänzende Recherche bestimmten Behörde und der mit der internationalen vorläufigen Prüfung beauftragten Behörde bestellt werden.
+- a) Eine Person, die befugt ist, vor dem nationalen Amt, bei dem die internationale Anmeldung eingereicht wird, oder, wenn die internationale Anmeldung beim Internationalen Büro eingereicht wird, in bezug auf die internationale Anmeldung vor dem Internationalen Büro als Anmeldeamt aufzutreten, kann vom Anmelder als Anwalt zu seiner Vertretung vor dem Anmeldeamt, dem Internationalen Büro, der Internationalen Recherchenbehörde, einer für die ergänzende Recherche bestimmten Behörde und der mit der internationalen
 - b) Eine Person, die befugt ist, vor dem nationalen Amt oder der zwischenstaatlichen Organisation aufzutreten, die als Internationale Recherchenbehörde handelt, kann vom Anmelder als Anwalt zu seiner Vertretung speziell vor dieser Behörde bestellt werden.
 - b<sup>bis</sup>) Eine Person, die befugt ist, vor dem nationalen Amt oder der zwischenstaatlichen Organisation aufzutreten, die als für die ergänzende Recherche bestimmte Behörde handelt, kann vom Anmelder als Anwalt zu seiner Vertretung speziell vor dieser Behörde bestellt werden.
 - c) Eine Person, die befugt ist, vor dem nationalen Amt oder der zwischenstaatlichen Organisation aufzutreten, die als mit der internationalen vorläufigen Prüfung beauftragte Behörde handelt, kann vom Anmelder als Anwalt zu seiner Vertretung speziell vor dieser Behörde bestellt werden.
@@ -3298,7 +3304,7 @@ Ein Antrag auf Berichtigung nach Regel 91.1 muss bei der zuständigen Behörde i
 - b) Jedes Schreiben des Anmelders an die Internationale Recherchenbehörde oder die mit der internationalen vorläufigen Prüfung beauftragte Behörde kann in einer anderen Sprache als der Sprache der internationalen Anmeldung abgefasst sein, wenn diese Behörde den Gebrauch der anderen Sprache zugelassen hat.
 - c) *[Gestrichen]*
 - d)[^partF-lvlu6-2] Jedes Schreiben des Anmelders an das Internationale Büro wird in englischer oder französischer Sprache oder in einer anderen durch die Verwaltungsvorschriften zugelassenen Veröffentlichungssprache abgefasst.
-- e) Jedes Schreiben oder jede Mitteilung des Internationalen Büros an den Anmelder oder an ein nationales Amt wird in englischer oder französischer Sprache abgefasst.
+- e)[^partF-lvlu6-3] Jedes Schreiben oder jede Mitteilung des Internationalen Büros an den Anmelder oder an ein nationales Amt wird in englischer oder französischer Sprache oder in einer anderen durch die Verwaltungsvorschriften zugelassenen Veröffentlichungssprache abgefasst.
 
 92.3 Postversand durch nationale Ämter oder zwischenstaatliche Organisationen
 
@@ -3330,6 +3336,7 @@ Ein Schriftstück oder Schreiben, das von einem nationalen Amt oder einer zwisch
 
 [^partF-lvlu6-1]: Fassung gemäss der von der PCT-Versammlung am 29. Sept. 2010 angenommenen Änd., in Kraft seit 1. Juli 2011 ([AS 2011 4311](https://fedlex.data.admin.ch/eli/oc/2011/583)).
 [^partF-lvlu6-2]: Fassung gemäss der von der PCT-Versammlung am 14. Okt. 2015 angenommenen Änd., in Kraft seit 1. Juli 2016 ([AS 2016 3491](https://fedlex.data.admin.ch/eli/oc/2016/587)). Diese Änd. findet auch Anwendung auf Schriftverkehr, der am 1. Juli 2016 oder zu einem späteren Datum beim Internationalen Büro eingeht und internationale Anmeldungen betrifft, deren internationales Anmeldedatum vor dem 1. Juli 2016 liegt, und zwar in dem Umfang, wie er zur Zeit der Bekanntmachung jeglicher nach dieser Regel erlassenen Verwaltungsvorschriften vorgesehen ist.
+[^partF-lvlu6-3]: Fassung gemäss der von der PCT-Versammlung am 17. Juli 2024 angenommenen Änd., in Kraft seit 1. Juli 2025 ([AS 2025 357](https://fedlex.data.admin.ch/eli/oc/2025/357)).
 
 ### **Regel 92****<sup>bis</sup>**Eintragung von Änderungen bestimmter Angaben im Antrag oder im Antrag auf internationale vorläufige Prüfung
 
@@ -3479,7 +3486,7 @@ Anhang[^t-4]
 <tr><td>2. Bearbeitungsgebühr für die ergänzende Recherche: (Regel 45<sup>bis</sup>.2)</td><td></td><td>200 Schweizer Franken</td></tr>
 <tr><td>3. Bearbeitungsgebühr: (Regel 57.2)</td><td></td><td>200 Schweizer Franken</td></tr>
 <tr><td>Ermässigungen</td><td></td><td></td></tr>
-<tr><td>4. Die internationale Anmeldegebühr ermässigt sich um folgenden Betrag, wenn die internationale Anmeldung in einer der in den Verwaltungsvorschriften vorgesehenen Formen eingereicht wird:</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>4. Die internationale Anmeldegebühr ermässigt sich um folgenden Betrag, wenn die internationale Anmeldung in einer der in den Verwaltungsvorschriften vorgesehenen Formen eingereicht wird:</td><td></td><td></td></tr>
 <tr><td>a) in elektronischer Form, wenn der Antrag nicht zeichenkodiert ist</td><td></td><td>100 Schweizer Franken</td></tr>
 <tr><td>b) in elektronischer Form, wenn der Antrag zeichenkodiert ist:</td><td></td><td>200 Schweizer Franken</td></tr>
 <tr><td>c) in elektronischer Form, wenn Antrag, Beschreibung, Ansprüche und Zusammenfassung zeichenkodiert sind:</td><td></td><td>300 Schweizer Franken</td></tr>
