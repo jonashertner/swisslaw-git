@@ -3,20 +3,19 @@ canton: VS
 number: "540.101"
 title: "Ordonnance concernant l'entretien, le nettoyage et le contrôle des installations recevant du feu ou des fumées"
 language: fr
-version: 2023-07-01
-valid_until: 2025-06-30
-version_adopted: 2023-06-21
+version: 2025-07-01
+version_adopted: 2025-06-18
 adopted: 2001-12-12
 in_force: 2002-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/540.101"
-pdf: "https://lex.vs.ch/api/fr/versions/3224/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3497/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Ordonnance concernant l'entretien, le nettoyage et le contrôle des installations recevant du feu ou des fumées
 
-du 12.12.2001 (état 01.07.2023)
+du 12.12.2001 (état 01.07.2025)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -455,81 +454,81 @@ ordonne:
 
 **Tarif de ramonage**
 
-<sup>1</sup> Pour les travaux effectués dans le cadre du service de ramonage le prix de la minute de travail est fixé à 1.40 francs (TVA non comprise). L'indice de référence est celui de novembre 2022, soit 105.5 (base 100=décembre 2015).
+<sup>1</sup> Pour les travaux effectués dans le cadre du service de ramonage le prix de la minute de travail est fixé à 1,45 francs (TVA non comprise). L'indice de référence est celui de novembre 2024, soit 107.8 (base 105.5=juillet 2024).
 
 <sup>2</sup> La rémunération des différentes interventions est la suivante (TVA non comprise):
 
 <table>
 <tr><th>Pos.</th><th>Libellés</th><th>Minutes</th><th>Francs</th></tr>
-<tr><td>1.1</td><td>Taxe de base (y compris la vérification des cheminées non utilisées)</td><td>17</td><td>23.80</td></tr>
-<tr><td>2.1</td><td>Supplément pour bâtiment hors agglomération</td><td>3</td><td>4.20</td></tr>
-<tr><td>3.1</td><td>Cheminées jusqu'à 3 niveaux</td><td>12</td><td>16.80</td></tr>
-<tr><td>3.2</td><td>Cheminées jusqu'à 5 niveaux</td><td>16</td><td>22.40</td></tr>
-<tr><td>3.3</td><td>Cheminées de plus de 5 niveaux</td><td>20</td><td>28.00</td></tr>
+<tr><td>1.1</td><td>Taxe de base (y compris la vérification des cheminées non utilisées)</td><td>17</td><td>24,65</td></tr>
+<tr><td>2.1</td><td>Supplément pour bâtiment hors agglomération</td><td>3</td><td>4,35</td></tr>
+<tr><td>3.1</td><td>Cheminées jusqu'à 3 niveaux</td><td>12</td><td>17,40</td></tr>
+<tr><td>3.2</td><td>Cheminées jusqu'à 5 niveaux</td><td>16</td><td>23,20</td></tr>
+<tr><td>3.3</td><td>Cheminées de plus de 5 niveaux</td><td>20</td><td>29,00</td></tr>
 <tr><td>3.4</td><td>Cheminées industrielles ou centrale de chauffe</td><td>En régie</td><td></td></tr>
 <tr><td>3.5</td><td>Cheminées pénétrables (Gd. Section avec manteau, borne)</td><td>En régie</td><td></td></tr>
-<tr><td>4.1</td><td>Cheminées de salon jusqu'à 3 niveaux avec foyer et hotte simple</td><td>35</td><td>49.00</td></tr>
-<tr><td>4.2</td><td>Cheminées de salon jusqu'à 5 niveaux avec foyer et hotte simple</td><td>39</td><td>54.60</td></tr>
-<tr><td>4.3</td><td>Cheminées de salon de plus de 5 niveaux avec foyer et hotte simple</td><td>43</td><td>60.20</td></tr>
+<tr><td>4.1</td><td>Cheminées de salon jusqu'à 3 niveaux avec foyer et hotte simple</td><td>35</td><td>50,75</td></tr>
+<tr><td>4.2</td><td>Cheminées de salon jusqu'à 5 niveaux avec foyer et hotte simple</td><td>39</td><td>56,55</td></tr>
+<tr><td>4.3</td><td>Cheminées de salon de plus de 5 niveaux avec foyer et hotte simple</td><td>43</td><td>62,35</td></tr>
 <tr><td>4.4</td><td>Cheminées de salon avec récupérateur</td><td>En régie</td><td></td></tr>
-<tr><td>5.1</td><td>Tuyaux de raccordement de 1 à 5m de longueur</td><td>6</td><td>8.40</td></tr>
-<tr><td>5.2</td><td>Tuyaux de raccordement de 5 à 8m de longueur</td><td>10</td><td>14.00</td></tr>
+<tr><td>5.1</td><td>Tuyaux de raccordement de 1 à 5m de longueur</td><td>6</td><td>8,70</td></tr>
+<tr><td>5.2</td><td>Tuyaux de raccordement de 5 à 8m de longueur</td><td>10</td><td>14,50</td></tr>
 <tr><td>5.3</td><td>Tuyaux de raccordement de 8m et plus</td><td>En régie</td><td></td></tr>
 <tr><td>6.1</td><td>Fourneaux cheminée à bois avec tuyaux</td><td>En régie</td><td></td></tr>
 <tr><td>6.2</td><td>Fourneaux pierre-olaire avec tuyaux</td><td>En régie</td><td></td></tr>
-<tr><td>7.1</td><td>Cuisinière à plaque chauffante 30dm²</td><td>18</td><td>25.20</td></tr>
-<tr><td>7.1.1</td><td>Majoration par tranche de 10dm²</td><td>4</td><td>5.60</td></tr>
-<tr><td>7.1.2</td><td>Majoration pour chauffe-eau et bouilleur intégré</td><td>4</td><td>5.60</td></tr>
-<tr><td>7.1.3</td><td>Majoration pour four à rôtir</td><td>4</td><td>5.60</td></tr>
-<tr><td>7.2</td><td>Cuisinière à trous avec 3 trous de cuisson (sont considérés comme trous de cuisson, le four, le bain-marie amovible ou fixe et les plaques de cuisson)</td><td>10</td><td>14.00</td></tr>
-<tr><td>7.2.1</td><td>Majoration pour chaque trou supplémentaire</td><td>4</td><td>5.60</td></tr>
-<tr><td>7.2.2</td><td>Majoration pour chauffe-eau et bouilleur intégrés</td><td>4</td><td>5.60</td></tr>
-<tr><td>8.1</td><td>Cuisinière à chauffage central jusqu'à 20kW jusqu'à 3 carneaux</td><td>45</td><td>63.00</td></tr>
-<tr><td>8.2</td><td>Cuisinière à chauffage central dès 20.1kW jusqu'à 3 carneaux</td><td>55</td><td>77.00</td></tr>
-<tr><td>8.3</td><td>Majoration pour chaque carneau supplémentaire</td><td>4</td><td>5.60</td></tr>
-<tr><td>8.4</td><td>Majoration pour four à rôtir</td><td>4</td><td>5.60</td></tr>
-<tr><td>9.1</td><td>Fourneaux, à banc, portatifs, en faïence, fours et installations similaires</td><td>12</td><td>16.80</td></tr>
-<tr><td>9.1.1</td><td>Majoration par carneaux supplémentaires (2 carneaux de moins de 50cm chacun représentent 1 carneaux)</td><td>4</td><td>5.60</td></tr>
-<tr><td>9.1.2</td><td>Majoration par chapiteau supplémentaire</td><td>6</td><td>8.40</td></tr>
-<tr><td>10.1</td><td>Fourneaux à mazout jusqu'à 10kW</td><td>20</td><td>28.00</td></tr>
-<tr><td>10.2</td><td>Fourneaux à mazout dès 10.1kW</td><td>25</td><td>35.00</td></tr>
-<tr><td>10.3</td><td>Majoration pour dispositif d'allumage</td><td>5</td><td>7.00</td></tr>
-<tr><td>10.4</td><td>Majoration pour nettoyage de la prise d'air</td><td>10</td><td>14.00</td></tr>
+<tr><td>7.1</td><td>Cuisinière à plaque chauffante 30dm²</td><td>18</td><td>26,10</td></tr>
+<tr><td>7.1.1</td><td>Majoration par tranche de 10dm²</td><td>4</td><td>5.80</td></tr>
+<tr><td>7.1.2</td><td>Majoration pour chauffe-eau et bouilleur intégré</td><td>4</td><td>5,80</td></tr>
+<tr><td>7.1.3</td><td>Majoration pour four à rôtir</td><td>4</td><td>5.80</td></tr>
+<tr><td>7.2</td><td>Cuisinière à trous avec 3 trous de cuisson (sont considérés comme trous de cuisson, le four, le bain-marie amovible ou fixe et les plaques de cuisson)</td><td>10</td><td>14,50</td></tr>
+<tr><td>7.2.1</td><td>Majoration pour chaque trou supplémentaire</td><td>4</td><td>5,80</td></tr>
+<tr><td>7.2.2</td><td>Majoration pour chauffe-eau et bouilleur intégrés</td><td>4</td><td>5,80</td></tr>
+<tr><td>8.1</td><td>Cuisinière à chauffage central jusqu'à 20kW jusqu'à 3 carneaux</td><td>45</td><td>65,25</td></tr>
+<tr><td>8.2</td><td>Cuisinière à chauffage central dès 20.1kW jusqu'à 3 carneaux</td><td>55</td><td>79,75</td></tr>
+<tr><td>8.3</td><td>Majoration pour chaque carneau supplémentaire</td><td>4</td><td>5,80</td></tr>
+<tr><td>8.4</td><td>Majoration pour four à rôtir</td><td>4</td><td>5,80</td></tr>
+<tr><td>9.1</td><td>Fourneaux, à banc, portatifs, en faïence, fours et installations similaires</td><td>12</td><td>17,40</td></tr>
+<tr><td>9.1.1</td><td>Majoration par carneaux supplémentaires (2 carneaux de moins de 50cm chacun représentent 1 carneaux)</td><td>4</td><td>5,80</td></tr>
+<tr><td>9.1.2</td><td>Majoration par chapiteau supplémentaire</td><td>6</td><td>8,70</td></tr>
+<tr><td>10.1</td><td>Fourneaux à mazout jusqu'à 10kW</td><td>20</td><td>29,00</td></tr>
+<tr><td>10.2</td><td>Fourneaux à mazout dès 10.1kW</td><td>25</td><td>36,25</td></tr>
+<tr><td>10.3</td><td>Majoration pour dispositif d'allumage</td><td>5</td><td>7,25</td></tr>
+<tr><td>10.4</td><td>Majoration pour nettoyage de la prise d'air</td><td>10</td><td>14,50</td></tr>
 <tr><td>11.1</td><td>Installations industrielles, artisanales</td><td>En régie</td><td></td></tr>
 <tr><td>12.1</td><td>Majoration pour pénétration de chaudière et travaux pénibles, inspection</td><td>50%</td><td></td></tr>
 <tr><td>13.1</td><td>Installations de chauffage à gaz</td><td>En régie</td><td></td></tr>
 <tr><td>14.1</td><td>Dégoudronnage mécanique ou par brûlage</td><td>En régie</td><td></td></tr>
 <tr><td>15.1</td><td>Contrôle de conformité des installations neuves avant leur mise en service</td><td>En régie</td><td></td></tr>
-<tr><td>16.1</td><td>Indemnité de déplacement (pour intervention hors tournées)</td><td>le km</td><td>1.00</td></tr>
+<tr><td>16.1</td><td>Indemnité de déplacement (pour intervention hors tournées)</td><td>le km</td><td>1,00</td></tr>
 <tr><td>17.1</td><td>Temps de déplacement</td><td>En régie</td><td></td></tr>
 <tr><td>17.2</td><td>Temps de déplacement pour trajet à pied à l'écart de route carrossable</td><td>En régie</td><td></td></tr>
-<tr><td>18.1</td><td>Travaux en régie (l'heure)</td><td>60</td><td>84.00</td></tr>
-<tr><td>18.2</td><td>Travaux en régie (la minute)</td><td>1</td><td>1.40</td></tr>
+<tr><td>18.1</td><td>Travaux en régie (l'heure)</td><td>60</td><td>87,00</td></tr>
+<tr><td>18.2</td><td>Travaux en régie (la minute)</td><td>1</td><td>1,45</td></tr>
 <tr><td>19.1</td><td>Majoration pour travaux de 18h00-20h00 et de 06h00-07h00</td><td>25%</td><td></td></tr>
 <tr><td>19.2</td><td>Majoration pour travaux le samedi et de nuit (20h00-06h00)</td><td>50%</td><td></td></tr>
 <tr><td>19.3</td><td>Majoration pour travaux le dimanche</td><td>100%</td><td></td></tr>
 <tr><td>40.00</td><td>Chauffages centraux avec cheminée et tuyaux jusqu'à 3m inclus. Puissance nominale en kW</td><td></td><td></td></tr>
-<tr><td>40.01</td><td>jusqu'à 30kW</td><td>50</td><td>70.00</td></tr>
-<tr><td>40.02</td><td>de 30.1-40kW</td><td>60</td><td>84.00</td></tr>
-<tr><td>40.03</td><td>de 40.1-50kW</td><td>65</td><td>91.00</td></tr>
-<tr><td>40.04</td><td>de 50.1-60kW</td><td>70</td><td>98.00</td></tr>
-<tr><td>40.05</td><td>de 60.1-70kW</td><td>75</td><td>105.00</td></tr>
-<tr><td>40.06</td><td>de 70.1-80kW</td><td>80</td><td>112.00</td></tr>
-<tr><td>40.07</td><td>de 80.1-90kW</td><td>85</td><td>119.00</td></tr>
-<tr><td>40.08</td><td>de 90.1-100kW</td><td>90</td><td>126.00</td></tr>
-<tr><td>40.09</td><td>de 100.1-150kW</td><td>110</td><td>154.00</td></tr>
-<tr><td>40.10</td><td>de 150.1-200kW</td><td>125</td><td>175.00</td></tr>
-<tr><td>50.01</td><td>de 200.1-250kW</td><td>140</td><td>196.00</td></tr>
-<tr><td>50.02</td><td>de 250.1-300kW</td><td>155</td><td>217.00</td></tr>
-<tr><td>50.03</td><td>de 300.1-350kW</td><td>170</td><td>238.00</td></tr>
-<tr><td>50.04</td><td>de 350.1-400kW</td><td>180</td><td>252.00</td></tr>
-<tr><td>50.05</td><td>de 400.1-450kW</td><td>190</td><td>266.00</td></tr>
-<tr><td>50.06</td><td>de 450.1-500kW</td><td>200</td><td>280.00</td></tr>
-<tr><td>50.07</td><td>de 500.1-600kW</td><td>210</td><td>294.00</td></tr>
-<tr><td>50.08</td><td>de 600.1-700kW</td><td>220</td><td>308.00</td></tr>
-<tr><td>50.09</td><td>de 700.1-800kW</td><td>230</td><td>322.00</td></tr>
-<tr><td>50.10</td><td>de 800.1-900kW</td><td>240</td><td>336.00</td></tr>
-<tr><td>60.01</td><td>de 900.1-1'000kW</td><td>250</td><td>350.00</td></tr>
+<tr><td>40.01</td><td>jusqu'à 30kW</td><td>50</td><td>72,50</td></tr>
+<tr><td>40.02</td><td>de 30.1-40kW</td><td>60</td><td>87,00</td></tr>
+<tr><td>40.03</td><td>de 40.1-50kW</td><td>65</td><td>94,25</td></tr>
+<tr><td>40.04</td><td>de 50.1-60kW</td><td>70</td><td>101,50</td></tr>
+<tr><td>40.05</td><td>de 60.1-70kW</td><td>75</td><td>108,75</td></tr>
+<tr><td>40.06</td><td>de 70.1-80kW</td><td>80</td><td>116,00</td></tr>
+<tr><td>40.07</td><td>de 80.1-90kW</td><td>85</td><td>123,25</td></tr>
+<tr><td>40.08</td><td>de 90.1-100kW</td><td>90</td><td>130,50</td></tr>
+<tr><td>40.09</td><td>de 100.1-150kW</td><td>110</td><td>159,50</td></tr>
+<tr><td>40.10</td><td>de 150.1-200kW</td><td>125</td><td>181,25</td></tr>
+<tr><td>50.01</td><td>de 200.1-250kW</td><td>140</td><td>203,00</td></tr>
+<tr><td>50.02</td><td>de 250.1-300kW</td><td>155</td><td>224,75</td></tr>
+<tr><td>50.03</td><td>de 300.1-350kW</td><td>170</td><td>246,50</td></tr>
+<tr><td>50.04</td><td>de 350.1-400kW</td><td>180</td><td>261,00</td></tr>
+<tr><td>50.05</td><td>de 400.1-450kW</td><td>190</td><td>275,50</td></tr>
+<tr><td>50.06</td><td>de 450.1-500kW</td><td>200</td><td>290,00</td></tr>
+<tr><td>50.07</td><td>de 500.1-600kW</td><td>210</td><td>304,50</td></tr>
+<tr><td>50.08</td><td>de 600.1-700kW</td><td>220</td><td>319,00</td></tr>
+<tr><td>50.09</td><td>de 700.1-800kW</td><td>230</td><td>333,50</td></tr>
+<tr><td>50.10</td><td>de 800.1-900kW</td><td>240</td><td>348,00</td></tr>
+<tr><td>60.01</td><td>de 900.1-1'000kW</td><td>250</td><td>362,50</td></tr>
 <tr><td>60.02</td><td>Pour les installations de plus de 1'000kW</td><td>En régie</td><td></td></tr>
 <tr><td>60.03</td><td>Majoration pour chicanes et aide de combustion</td><td></td><td>10% du prix de nettoyage de la chaudière</td></tr>
 <tr><td>70.01</td><td>Nettoyage alcalin avec évacuation des eaux usées, au maximum</td><td></td><td>50% du prix de nettoyage de la chaudière</td></tr>
@@ -553,11 +552,11 @@ ordonne:
 
 <table>
 <tr><th>Pos.</th><th>Libellés</th><th>Francs</th></tr>
-<tr><td>1.</td><td>Mesure de réception pour chaudières à chargement automatique</td><td>307.15</td></tr>
-<tr><td>2.</td><td>Contrôle périodique pour chaudières à chargement automatique</td><td>280.15</td></tr>
-<tr><td>3..</td><td>Mesure de réception pour chaudières à chargement manuel</td><td>314.15</td></tr>
-<tr><td>4.</td><td>Contrôle périodique pour chaudières à chargement manuel</td><td>287.15</td></tr>
-<tr><td>5.</td><td>Contrôle de combustion pour chauffages de locaux individuels</td><td>266.15</td></tr>
+<tr><td>1.</td><td>Mesure de réception pour chaudières à chargement automatique</td><td>314,15</td></tr>
+<tr><td>2.</td><td>Contrôle périodique pour chaudières à chargement automatique</td><td>286,40</td></tr>
+<tr><td>3..</td><td>Mesure de réception pour chaudières à chargement manuel</td><td>321,40</td></tr>
+<tr><td>4.</td><td>Contrôle périodique pour chaudières à chargement manuel</td><td>293,65</td></tr>
+<tr><td>5.</td><td>Contrôle de combustion pour chauffages de locaux individuels</td><td>271,90</td></tr>
 </table>
 
 RCV BO/Abl. 51/2001

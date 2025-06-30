@@ -3,20 +3,19 @@ canton: VS
 number: "540.101"
 title: "Verordnung betreffend den Unterhalt, die Reinigung und die Kontrolle der Feuerungs- und Rauchabzugsanlagen"
 language: de
-version: 2023-07-01
-valid_until: 2025-06-30
-version_adopted: 2023-06-21
+version: 2025-07-01
+version_adopted: 2025-06-18
 adopted: 2001-12-12
 in_force: 2002-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/540.101"
-pdf: "https://lex.vs.ch/api/de/versions/3224/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3497/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung betreffend den Unterhalt, die Reinigung und die Kontrolle der Feuerungs- und Rauchabzugsanlagen
 
-vom 12.12.2001 (Stand 01.07.2023)
+vom 12.12.2001 (Stand 01.07.2025)
 
 Der Staatsrat des Kantons Wallis
 
@@ -455,86 +454,86 @@ verordnet:
 
 **Kaminfegertarif**
 
-<sup>1</sup> Für die im Rahmen des Kaminfegerdienstes durchgeführten Arbeiten wird der Preis pro Arbeitsminute auf 1.40 Franken (exkl. MWST) festgelegt. Dieser Preis basiert auf dem Index vom November 2022 mit einem Wert von 105.5 Punkten (Basis 100=Dezember 2015).
+<sup>1</sup> Für die im Rahmen des Kaminfegerdienstes durchgeführten Arbeiten wird der Preis pro Arbeitsminute auf 1,45 Franken (exkl. MWST) festgelegt. Dieser Preis basiert auf dem Index vom November 2024 mit einem Wert von 107.8 Punkten (Basis 100=Juli 2024).
 
 <sup>2</sup> Folgende Entschädigungen gelten für die verschiedenen Massnahmen (exkl. MWST):
 
 <table>
 <tr><th>Pos.</th><th>Bezeichnung</th><th>Minuten</th><th>Franken</th></tr>
-<tr><td>1.1</td><td>Grundtaxe (einschliesslich der Überprüfung der nichtbenutzten Kamine)</td><td>17</td><td>23.80</td></tr>
-<tr><td>2.1</td><td>Zuschläge für entlegene Gebäude</td><td>3</td><td>4.20</td></tr>
-<tr><td>3.1</td><td>Kamine bis zu 3 Stockwerken</td><td>12</td><td>16.80</td></tr>
-<tr><td>3.2</td><td>Kamine bis zu 5 Stockwerken</td><td>16</td><td>22.40</td></tr>
-<tr><td>3.3</td><td>Kamine mehr als 5 Stockwerke</td><td>20</td><td>28.00</td></tr>
+<tr><td>1.1</td><td>Grundtaxe (einschliesslich der Überprüfung der nichtbenutzten Kamine)</td><td>17</td><td>24,65</td></tr>
+<tr><td>2.1</td><td>Zuschläge für entlegene Gebäude</td><td>3</td><td>4,35</td></tr>
+<tr><td>3.1</td><td>Kamine bis zu 3 Stockwerken</td><td>12</td><td>17,40</td></tr>
+<tr><td>3.2</td><td>Kamine bis zu 5 Stockwerken</td><td>16</td><td>23,20</td></tr>
+<tr><td>3.3</td><td>Kamine mehr als 5 Stockwerke</td><td>20</td><td>29,00</td></tr>
 <tr><td>3.4</td><td>Industrielle Kamine oder Zentralheizungen</td><td>In Regie</td><td></td></tr>
 <tr><td>3.5</td><td>Steigbare Kamine (Gr. Sektion mit Ummantelung, abgeschlossen)</td><td>In Regie</td><td></td></tr>
-<tr><td>4.1</td><td>Cheminées bis zu 3 Stockwerke, mit Herd und einfachem Rauchfang</td><td>35</td><td>49.00</td></tr>
-<tr><td>4.2</td><td>Cheminées bis zu 5 Stockwerke, mit Herd und einfachem Rauchfang</td><td>39</td><td>54.60</td></tr>
-<tr><td>4.3</td><td>Cheminées mit mehr als 5 Stockwerken, mit Herd und einfachem Rauchfang</td><td>43</td><td>60.20</td></tr>
+<tr><td>4.1</td><td>Cheminées bis zu 3 Stockwerke, mit Herd und einfachem Rauchfang</td><td>35</td><td>50,75</td></tr>
+<tr><td>4.2</td><td>Cheminées bis zu 5 Stockwerke, mit Herd und einfachem Rauchfang</td><td>39</td><td>56,55</td></tr>
+<tr><td>4.3</td><td>Cheminées mit mehr als 5 Stockwerken, mit Herd und einfachem Rauchfang</td><td>43</td><td>62,35</td></tr>
 <tr><td>4.4</td><td>Cheminées mit Wärmespeicher</td><td>In Regie</td><td></td></tr>
-<tr><td>5.1</td><td>Anschlussrohre von 1 bis 5m Länge</td><td>6</td><td>8.40</td></tr>
-<tr><td>5.2</td><td>Anschlussrohre von 5 bis 8m Länge</td><td>10</td><td>14.00</td></tr>
+<tr><td>5.1</td><td>Anschlussrohre von 1 bis 5m Länge</td><td>6</td><td>8,70</td></tr>
+<tr><td>5.2</td><td>Anschlussrohre von 5 bis 8m Länge</td><td>10</td><td>14,50</td></tr>
 <tr><td>5.3</td><td>Anschlussrohre von 8m und mehr</td><td>In Regie</td><td></td></tr>
 <tr><td>6.1</td><td>Holzöfen mit Rohren</td><td>In Regie</td><td></td></tr>
 <tr><td>6.2</td><td>Giltsteinöfen mit Rohren</td><td>In Regie</td><td></td></tr>
-<tr><td>7.1</td><td>Kochherd mit Wärmeplatten 30dm²</td><td>18</td><td>25.20</td></tr>
-<tr><td>7.1.1</td><td>Zuschlag pro 10dm²</td><td>4</td><td>5.60</td></tr>
-<tr><td>7.1.2</td><td>Zuschlag für Warmwasser- und Boilereinbauten</td><td>4</td><td>5.60</td></tr>
-<tr><td>7.1.3</td><td>Zuschlag für Bratöfen</td><td>4</td><td>5.60</td></tr>
-<tr><td>7.2</td><td>Lochherd mit 3 Kochlöchern (als Kochlöcher gelten Bratofen, aushebbare und eingebaute Schiffe und Kochplatten)</td><td>10</td><td>14.00</td></tr>
-<tr><td>7.2.1</td><td>Zuschlag für jedes zusätzliche Loch</td><td>4</td><td>5.60</td></tr>
-<tr><td>7.2.2</td><td>Zuschlag für Warmwasser- und Boilereinbauten</td><td>4</td><td>5.60</td></tr>
-<tr><td>8.1</td><td>Kochherd mit Zentralheizung bis zu 20kW bis zu 3 Zügen</td><td>45</td><td>63.00</td></tr>
-<tr><td>8.2</td><td>Kochherd mit Zentralheizung ab 20.1kW bis zu 3 Zügen</td><td>55</td><td>77.00</td></tr>
-<tr><td>8.3</td><td>Zuschlag für jeden weiteren Zug</td><td>4</td><td>5.60</td></tr>
-<tr><td>8.4</td><td>Zuschlag für Bratofen</td><td>4</td><td>5.60</td></tr>
-<tr><td>9.1</td><td>Heizöfen, Sitzöfen, Tragöfen, Kachelöfen, Backöfen und dergleichen Anlagen</td><td>12</td><td>16.80</td></tr>
-<tr><td>9.1.1</td><td>Zuschlag für jeden weiteren Zug (2 Züge unter je 50cm gelten als 1 Zug)</td><td>4</td><td>5.60</td></tr>
-<tr><td>9.1.2</td><td>Zuschlag für jeden weiteren Aufsatz</td><td>6</td><td>8.40</td></tr>
-<tr><td>10.1</td><td>Ölofen bis 10kW</td><td>20</td><td>28.00</td></tr>
-<tr><td>10.2</td><td>Ölofen ab 10.1kW</td><td>25</td><td>35.00</td></tr>
-<tr><td>10.3</td><td>Zuschlag für Zündung</td><td>5</td><td>7.00</td></tr>
-<tr><td>10.4</td><td>Zuschlag für Reinigung der Luftzufuhr</td><td>10</td><td>14.00</td></tr>
+<tr><td>7.1</td><td>Kochherd mit Wärmeplatten 30dm²</td><td>18</td><td>26,10</td></tr>
+<tr><td>7.1.1</td><td>Zuschlag pro 10dm²</td><td>4</td><td>5,80</td></tr>
+<tr><td>7.1.2</td><td>Zuschlag für Warmwasser- und Boilereinbauten</td><td>4</td><td>5,80</td></tr>
+<tr><td>7.1.3</td><td>Zuschlag für Bratöfen</td><td>4</td><td>5,80</td></tr>
+<tr><td>7.2</td><td>Lochherd mit 3 Kochlöchern (als Kochlöcher gelten Bratofen, aushebbare und eingebaute Schiffe und Kochplatten)</td><td>10</td><td>14,50</td></tr>
+<tr><td>7.2.1</td><td>Zuschlag für jedes zusätzliche Loch</td><td>4</td><td>5,80</td></tr>
+<tr><td>7.2.2</td><td>Zuschlag für Warmwasser- und Boilereinbauten</td><td>4</td><td>5,80</td></tr>
+<tr><td>8.1</td><td>Kochherd mit Zentralheizung bis zu 20kW bis zu 3 Zügen</td><td>45</td><td>65,25</td></tr>
+<tr><td>8.2</td><td>Kochherd mit Zentralheizung ab 20.1kW bis zu 3 Zügen</td><td>55</td><td>79,75</td></tr>
+<tr><td>8.3</td><td>Zuschlag für jeden weiteren Zug</td><td>4</td><td>5,80</td></tr>
+<tr><td>8.4</td><td>Zuschlag für Bratofen</td><td>4</td><td>5,80</td></tr>
+<tr><td>9.1</td><td>Heizöfen, Sitzöfen, Tragöfen, Kachelöfen, Backöfen und dergleichen Anlagen</td><td>12</td><td>17,40</td></tr>
+<tr><td>9.1.1</td><td>Zuschlag für jeden weiteren Zug (2 Züge unter je 50cm gelten als 1 Zug)</td><td>4</td><td>5,80</td></tr>
+<tr><td>9.1.2</td><td>Zuschlag für jeden weiteren Aufsatz</td><td>6</td><td>8,70</td></tr>
+<tr><td>10.1</td><td>Ölofen bis 10kW</td><td>20</td><td>29,00</td></tr>
+<tr><td>10.2</td><td>Ölofen ab 10.1kW</td><td>25</td><td>36,25</td></tr>
+<tr><td>10.3</td><td>Zuschlag für Zündung</td><td>5</td><td>7,25</td></tr>
+<tr><td>10.4</td><td>Zuschlag für Reinigung der Luftzufuhr</td><td>10</td><td>14,50</td></tr>
 <tr><td>11.1</td><td>Industrielle und gewerbliche Einrichtungen</td><td>In Regie</td><td></td></tr>
 <tr><td>12.1</td><td>Zuschlag für Arbeiten im Innern von Heizanlagen, erschwerte Arbeiten, Kontrolle</td><td>50%</td><td></td></tr>
 <tr><td>13.1</td><td>Gasfeuerungen</td><td>In Regie</td><td></td></tr>
 <tr><td>14.1</td><td>Entschlackung mechanisch oder mit Brenner</td><td>In Regie</td><td></td></tr>
 <tr><td>15.1</td><td>Abnahmekontrolle neuer Anlagen vor der Inbetriebnahme</td><td>In Regie</td><td></td></tr>
-<tr><td>16.1</td><td>Reiseentschädigung (für Reinigungen ausserhalb der Reinigungsrunde)</td><td>pro km</td><td>1.00</td></tr>
+<tr><td>16.1</td><td>Reiseentschädigung (für Reinigungen ausserhalb der Reinigungsrunde)</td><td>pro km</td><td>1,00</td></tr>
 <tr><td>17.1</td><td>Reisezeit</td><td>In Regie</td><td></td></tr>
 <tr><td>17.2</td><td>Reisezeit für die Strecke zu Fuss abseits eines befahrbaren Weges</td><td>In Regie</td><td></td></tr>
-<tr><td>18.1</td><td>Arbeiten in Regie (pro Stunde)</td><td>60</td><td>84.00</td></tr>
-<tr><td>18.2</td><td>Arbeiten in Regie (pro Minute)</td><td>1</td><td>1.40</td></tr>
+<tr><td>18.1</td><td>Arbeiten in Regie (pro Stunde)</td><td>60</td><td>87,00</td></tr>
+<tr><td>18.2</td><td>Arbeiten in Regie (pro Minute)</td><td>1</td><td>1,45</td></tr>
 <tr><td>19.1</td><td>Zuschlag für Arbeiten von 18h00-20h00 et de 06h00-07h00</td><td>25%</td><td></td></tr>
 <tr><td>19.2</td><td>Zuschlag für Samstagsarbeiten und Nachtzuschlag (20h00-06h00)</td><td>50%</td><td></td></tr>
 <tr><td>19.3</td><td>Zuschlag für Sonntagsarbeiten</td><td>100%</td><td></td></tr>
 <tr><td>40.00</td><td>Zentralheizungen inklusive Kamin und Verbindungswege bis zu 3m Nennleisung in kW</td><td></td><td></td></tr>
-<tr><td>40.01</td><td>bis zu 30kW</td><td>50</td><td>70.00</td></tr>
-<tr><td>40.02</td><td>von 30.1-40kW</td><td>60</td><td>84.00</td></tr>
-<tr><td>40.03</td><td>von 40.1-50kW</td><td>65</td><td>91.00</td></tr>
-<tr><td>40.04</td><td>von 50.1-60kW</td><td>70</td><td>98.00</td></tr>
-<tr><td>40.05</td><td>von 60.1-70kW</td><td>75</td><td>105.00</td></tr>
-<tr><td>40.06</td><td>von 70.1-80kW</td><td>80</td><td>112.00</td></tr>
-<tr><td>40.07</td><td>von 80.1-90kW</td><td>85</td><td>119.00</td></tr>
-<tr><td>40.08</td><td>von 90.1-100kW</td><td>90</td><td>126.00</td></tr>
-<tr><td>40.09</td><td>von 100.1-150kW</td><td>110</td><td>154.00</td></tr>
-<tr><td>40.10</td><td>von 150.1-200kW</td><td>125</td><td>175.00</td></tr>
-<tr><td>50.01</td><td>von 200.1-250kW</td><td>140</td><td>196.00</td></tr>
-<tr><td>50.02</td><td>von 250.1-300kW</td><td>155</td><td>217.00</td></tr>
-<tr><td>50.03</td><td>von 300.1-350kW</td><td>170</td><td>238.00</td></tr>
-<tr><td>50.04</td><td>von 350.1-400kW</td><td>180</td><td>252.00</td></tr>
-<tr><td>50.05</td><td>von 400.1-450kW</td><td>190</td><td>266.00</td></tr>
-<tr><td>50.06</td><td>von 450.1-500kW</td><td>200</td><td>280.00</td></tr>
-<tr><td>50.07</td><td>von 500.1-600kW</td><td>210</td><td>294.00</td></tr>
-<tr><td>50.08</td><td>von 600.1-700kW</td><td>220</td><td>308.00</td></tr>
-<tr><td>50.09</td><td>von 700.1-800kW</td><td>230</td><td>322.00</td></tr>
-<tr><td>50.10</td><td>von 800.1-900kW</td><td>240</td><td>336.00</td></tr>
-<tr><td>60.01</td><td>von 900.1-1'000kW</td><td>250</td><td>350.00</td></tr>
+<tr><td>40.01</td><td>bis zu 30kW</td><td>50</td><td>72,50</td></tr>
+<tr><td>40.02</td><td>von 30.1-40kW</td><td>60</td><td>87,00</td></tr>
+<tr><td>40.03</td><td>von 40.1-50kW</td><td>65</td><td>94,25</td></tr>
+<tr><td>40.04</td><td>von 50.1-60kW</td><td>70</td><td>101,50</td></tr>
+<tr><td>40.05</td><td>von 60.1-70kW</td><td>75</td><td>108,75</td></tr>
+<tr><td>40.06</td><td>von 70.1-80kW</td><td>80</td><td>116,00</td></tr>
+<tr><td>40.07</td><td>von 80.1-90kW</td><td>85</td><td>123,25</td></tr>
+<tr><td>40.08</td><td>von 90.1-100kW</td><td>90</td><td>130,50</td></tr>
+<tr><td>40.09</td><td>von 100.1-150kW</td><td>110</td><td>159,50</td></tr>
+<tr><td>40.10</td><td>von 150.1-200kW</td><td>125</td><td>181,25</td></tr>
+<tr><td>50.01</td><td>von 200.1-250kW</td><td>140</td><td>203,00</td></tr>
+<tr><td>50.02</td><td>von 250.1-300kW</td><td>155</td><td>224,75</td></tr>
+<tr><td>50.03</td><td>von 300.1-350kW</td><td>170</td><td>246,50</td></tr>
+<tr><td>50.04</td><td>von 350.1-400kW</td><td>180</td><td>261,00</td></tr>
+<tr><td>50.05</td><td>von 400.1-450kW</td><td>190</td><td>275,50</td></tr>
+<tr><td>50.06</td><td>von 450.1-500kW</td><td>200</td><td>290,00</td></tr>
+<tr><td>50.07</td><td>von 500.1-600kW</td><td>210</td><td>304,50</td></tr>
+<tr><td>50.08</td><td>von 600.1-700kW</td><td>220</td><td>319,00</td></tr>
+<tr><td>50.09</td><td>von 700.1-800kW</td><td>230</td><td>333,50</td></tr>
+<tr><td>50.10</td><td>von 800.1-900kW</td><td>240</td><td>348,00</td></tr>
+<tr><td>60.01</td><td>von 900.1-1'000kW</td><td>250</td><td>362,50</td></tr>
 <tr><td>60.02</td><td>Für Einrichtungen über 1'000 kW</td><td>In Regie</td><td></td></tr>
-<tr><td>60.03</td><td>Zuschlag für Einbauten und Verbrennungshilfen</td><td>10% des Preises für die Reinigung der Heizungsanlage</td><td></td></tr>
-<tr><td>70.01</td><td>Alkalische Reinigung mit Abwasserentsorgung, maximal</td><td>50% des Preises für die Reinigung der Heizungsanlage</td><td></td></tr>
-<tr><td>70.02</td><td>Entsorgungsgebühren für den Russ auf eine geordnete Schuttablage</td><td>gemäss Gemeindegebühren</td><td></td></tr>
-<tr><td>70.03</td><td>Kehrichtsackgebühr</td><td>gemäss Gemeindegebühren</td><td></td></tr>
+<tr><td>60.03</td><td>Zuschlag für Einbauten und Verbrennungshilfen</td><td></td><td>10% des Preises für die Reinigung der Heizungsanlage</td></tr>
+<tr><td>70.01</td><td>Alkalische Reinigung mit Abwasserentsorgung, maximal</td><td></td><td>50% des Preises für die Reinigung der Heizungsanlage</td></tr>
+<tr><td>70.02</td><td>Entsorgungsgebühren für den Russ auf eine geordnete Schuttablage</td><td></td><td>gemäss Gemeindegebühren</td></tr>
+<tr><td>70.03</td><td>Kehrichtsackgebühr</td><td></td><td>gemäss Gemeindegebühren</td></tr>
 </table>
 
 ## A3 Anhang 3 zu Artikel 20a
@@ -553,11 +552,11 @@ verordnet:
 
 <table>
 <tr><th>Pos.</th><th>Bezeichnung</th><th>Franken</th></tr>
-<tr><td>1.</td><td>Abnahmemessung für automatische Heizkessel</td><td>307.15</td></tr>
-<tr><td>2.</td><td>Periodische Kontrolle für automatische Heizkessel</td><td>280.15</td></tr>
-<tr><td>3.</td><td>Abnahmemessung für handbeschickte Heizkessel</td><td>314.15</td></tr>
-<tr><td>4.</td><td>Periodische Kontrolle für handbeschickte Heizkessel</td><td>287.15</td></tr>
-<tr><td>5.</td><td>Feuerungskontrolle für Einzelraumfeuerungen</td><td>266.15</td></tr>
+<tr><td>1.</td><td>Abnahmemessung für automatische Heizkessel</td><td>314,15</td></tr>
+<tr><td>2.</td><td>Periodische Kontrolle für automatische Heizkessel</td><td>286,40</td></tr>
+<tr><td>3.</td><td>Abnahmemessung für handbeschickte Heizkessel</td><td>321,40</td></tr>
+<tr><td>4.</td><td>Periodische Kontrolle für handbeschickte Heizkessel</td><td>293,65</td></tr>
+<tr><td>5.</td><td>Feuerungskontrolle für Einzelraumfeuerungen</td><td>271,90</td></tr>
 </table>
 
 CSW BO/Abl. 51/2001
