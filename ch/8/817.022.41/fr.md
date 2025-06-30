@@ -3,11 +3,11 @@ sr: "817.022.41"
 title: Ordonnance du DFI du 16 décembre 2016 sur les arômes et les additifs alimentaires ayant des propriétés aromatisantes utilisés dans ou sur les denrées alimentaires (Ordonnance sur les arômes)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/182"
 language: fr
-version: 2024-02-01
+version: 2025-07-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/182/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2017-182-20240201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/182/20240201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/182/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-182-20250701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/182/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/182/20240201/fr"
 
 (Ordonnance sur les arômes)
 
-du 16 décembre 2016 (État le 1<sup>er</sup> février 2024)
+du 16 décembre 2016 (État le 1<sup>er</sup> juillet 2025)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -303,6 +303,14 @@ Les denrées alimentaires non conformes à la modification du 8 décembre 2023 p
 
 [^11c-1]: Introduit par le ch. I de l’O de l’OSAV du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 828](https://fedlex.data.admin.ch/eli/oc/2023/828)).
 
+#### Art. 11d
+
+**Disposition transitoire relative à la modification du 2 juin 2025**[^11d-1]
+
+Les denrées alimentaires non conformes à la modification du 2 juin 2025 peuvent encore être importées, fabriquées et étiquetées selon l’ancien droit jusqu’au 30 juin 2026 et remises au consommateur jusqu’à épuisement des stocks.
+
+[^11d-1]: Introduit par le ch. I de l’O de l'OSAV du 2 juin 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 393](https://fedlex.data.admin.ch/eli/oc/2025/393)).
+
 #### Art. 12
 
 **Entrée en vigueur**
@@ -372,8 +380,8 @@ Annexe 3[^t-1]
 
 [^annex3-lvlu1-1]
 
-[^t-1]: Nouvelle teneur selon le ch. II al. 1 de l’O de l’OSAV du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 828](https://fedlex.data.admin.ch/eli/oc/2023/828)).
-[^annex3-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/828](https://fedlex.data.admin.ch/eli/oc/2023/828) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-1]: Nouvelle teneur selon le ch. II de l’O de l'OSAV du 2 juin 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 393](https://fedlex.data.admin.ch/eli/oc/2025/393)).
+[^annex3-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/393](https://fedlex.data.admin.ch/eli/oc/2025/393) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 4[^t-2]
 

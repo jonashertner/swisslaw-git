@@ -3,11 +3,11 @@ sr: "817.022.41"
 title: Verordnung des EDI vom 16. Dezember 2016 über Aromen und Lebensmittelzutaten mit Aromaeigenschaften in und auf Lebensmitteln (Aromenverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/182"
 language: de
-version: 2024-02-01
+version: 2025-07-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/182/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2017-182-20240201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/182/20240201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/182/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2017-182-20250701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/182/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/182/20240201/de"
 
 (Aromenverordnung)
 
-vom 16. Dezember 2016 (Stand am 1. Februar 2024)
+vom 16. Dezember 2016 (Stand am 1. Juli 2025)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -303,6 +303,14 @@ Lebensmittel, die der Änderung vom 8. Dezember 2023 nicht entsprechen, dürfen 
 
 [^11c-1]: Eingefügt durch Ziff. I der V des BLV vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 828](https://fedlex.data.admin.ch/eli/oc/2023/828)).
 
+#### Art. 11d
+
+**Übergangsbestimmung zur Änderung vom 2. Juni 2025**[^11d-1]
+
+Lebensmittel, die der Änderung vom 2. Juni 2025 nicht entsprechen, dürfen noch bis zum 30. Juni 2026 nach bisherigem Recht eingeführt, hergestellt und gekennzeichnet und noch bis zum Abbau der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
+
+[^11d-1]: Eingefügt durch Ziff. I der V des BLV vom 2. Juni 2025, in Kraft seit 1. Juli 2025 ([AS 2025 393](https://fedlex.data.admin.ch/eli/oc/2025/393)).
+
 #### Art. 12
 
 **Inkrafttreten**
@@ -372,8 +380,8 @@ Anhang 3[^t-1]
 
 [^annex3-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V des BLV vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 828](https://fedlex.data.admin.ch/eli/oc/2023/828)).
-[^annex3-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2023/828](https://fedlex.data.admin.ch/eli/oc/2023/828) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-1]: Fassung gemäss Ziff. II der V des BLV vom 2. Juni 2025, in Kraft seit 1. Juli 2025 ([AS 2025 393](https://fedlex.data.admin.ch/eli/oc/2025/393)).
+[^annex3-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/393](https://fedlex.data.admin.ch/eli/oc/2025/393) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 4[^t-2]
 

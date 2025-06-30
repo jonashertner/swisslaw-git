@@ -3,11 +3,11 @@ sr: "817.022.41"
 title: Ordinanza del DFI del 16 dicembre 2016 sugli aromi e gli ingredienti alimentari con proprietà aromatizzanti nelle e sulle derrate alimentari (Ordinanza sugli aromi)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/182"
 language: it
-version: 2024-02-01
+version: 2025-07-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/182/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2017-182-20240201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/182/20240201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/182/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2017-182-20250701-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/182/20250701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/182/20240201/it"
 
 (Ordinanza sugli aromi)
 
-del 16 dicembre 2016 (Stato 1° febbraio 2024)
+del 16 dicembre 2016 (Stato 1° luglio 2025)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -176,10 +176,10 @@ In deroga al capoverso 2 lettera a, è ammesso l’uso di sostanze aromatizzanti
 
 <sup>9</sup> Gli aromatizzanti di affumicatura possono essere utilizzati soltanto se sono rispettate le condizioni di fabbricazione ai sensi dell’articolo 5 capoversi 1 e 2 del regolamento (CE) n. 2065/2003[^4-3].[^4-4]
 
-[^4-1]: Abrogata dal n. I dell’O del DFI del 27 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2403](https://fedlex.data.admin.ch/eli/oc/2020/455)).
+[^4-1]: Abrogata dalla cifra I dell’O del DFI del 27 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2403](https://fedlex.data.admin.ch/eli/oc/2020/455)).
 [^4-2]: [RS 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
 [^4-3]: Regolamento (CE) n. 2065/2003 del Parlamento europeo e del Consiglio, del 10 novembre 2003, relativo agli aromatizzanti di affumicatura utilizzati o destinati ad essere utilizzati nei o sui prodotti alimentari, GU L 309 del 26.11.2003, pag. 1.
-[^4-4]: Introdotto dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2403](https://fedlex.data.admin.ch/eli/oc/2020/455)).
+[^4-4]: Introdotto dalla cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2403](https://fedlex.data.admin.ch/eli/oc/2020/455)).
 
 #### Art. 5
 
@@ -281,7 +281,7 @@ Al termine «naturale» riferito ad aromi si applica quanto segue:
 
 Le derrate alimentari che non soddisfano i requisiti della modifica del 12 marzo 2018 possono essere importate e fabbricate secondo il diritto anteriore fino al 30 aprile 2019 ed essere consegnate ai consumatori fino a esaurimento delle scorte.
 
-[^11a-1]: Introdotto dal n. I dell’O dell’USAV del 12 mar. 2018, in vigore dal 1° mag. 2018 ([RU 2018 1549](https://fedlex.data.admin.ch/eli/oc/2018/234)).
+[^11a-1]: Introdotto dalla cifra I dell’O dell’USAV del 12 mar. 2018, in vigore dal 1° mag. 2018 ([RU 2018 1549](https://fedlex.data.admin.ch/eli/oc/2018/234)).
 
 #### Art. 11b
 
@@ -289,7 +289,7 @@ Le derrate alimentari che non soddisfano i requisiti della modifica del 12 marzo
 
 Le derrate alimentari non conformi alla modifica del 27 maggio 2020 possono essere importate e fabbricate secondo il diritto anteriore sino al 30 giugno 2021 ed essere consegnate ai consumatori fino a esaurimento delle scorte. Non si applica un periodo transitorio per le sostanze di cui all’allegato 3 parte B stralciate nell’ambito della presente modifica.
 
-[^11b-1]: Introdotto dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2403](https://fedlex.data.admin.ch/eli/oc/2020/455)).
+[^11b-1]: Introdotto dalla cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2403](https://fedlex.data.admin.ch/eli/oc/2020/455)).
 
 #### Art. 11c
 
@@ -297,7 +297,15 @@ Le derrate alimentari non conformi alla modifica del 27 maggio 2020 possono esse
 
 Le derrate alimentari non conformi alla modifica dell’8 dicembre 2023 possono essere importate, fabbricate e caratterizzate secondo il diritto anteriore sino al 31 gennaio 2025 e consegnate ai consumatori fino a esaurimento delle scorte.
 
-[^11c-1]: Introdotto dal n. I dell’O dell’USAV dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 828](https://fedlex.data.admin.ch/eli/oc/2023/828)).
+[^11c-1]: Introdotto dalla cifra I dell’O dell’USAV dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 828](https://fedlex.data.admin.ch/eli/oc/2023/828)).
+
+#### Art. 11d
+
+**Disposizione transitoria relativa alla modifica del 2 giugno 2025**[^11d-1]
+
+Le derrate alimentari non conformi alla modifica del 2 giugno 2025 possono ancora essere importate, fabbricate e caratterizzate secondo il diritto anteriore sino al 30 giugno 2026 e consegnate ai consumatori fino a esaurimento delle scorte.
+
+[^11d-1]: Introdotto dalla cifra I dell’O dell’USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 393](https://fedlex.data.admin.ch/eli/oc/2025/393)).
 
 #### Art. 12
 
@@ -368,8 +376,8 @@ Allegato 3[^t-1]
 
 [^annex3-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta il n. II cpv. 1 dell’O dell’USAV dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 828](https://fedlex.data.admin.ch/eli/oc/2023/828)).
-[^annex3-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2023/828](https://fedlex.data.admin.ch/eli/oc/2023/828) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando
+[^t-1]: Nuovo testo giusta la cifra II dell’O dell’USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 393](https://fedlex.data.admin.ch/eli/oc/2025/393)).
+[^annex3-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/393](https://fedlex.data.admin.ch/eli/oc/2025/393) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 4[^t-2]
 
@@ -377,7 +385,7 @@ Allegato 4[^t-2]
 
 ## Elenco delle sostanze vietate e quantità massime ammesse
 
-[^t-2]: Aggiornato dal n. II cpv. 2 dell’O dell’USAV dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 828](https://fedlex.data.admin.ch/eli/oc/2023/828)).
+[^t-2]: Aggiornato dalla cifra II cpv. 2 dell’O dell’USAV dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 828](https://fedlex.data.admin.ch/eli/oc/2023/828)).
 
 ### 1 Sostanze che non sono aggiunte nella loro forma originale alle derrate alimentari
 
@@ -461,7 +469,7 @@ Allegato 5[^t-3]
 
 ## Elenco delle materie prime il cui uso nella fabbricazione di aromi e di ingredienti alimentari con proprietà aromatizzanti è vietato o soggetto a restrizioni
 
-[^t-3]: Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2403](https://fedlex.data.admin.ch/eli/oc/2020/455)).
+[^t-3]: Nuovo testo giusta la cifra II cpv. 2 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2403](https://fedlex.data.admin.ch/eli/oc/2020/455)).
 
 ### 1 Materie prime il cui uso nella fabbricazione di aromi e ingredienti alimentari con proprietà aromatizzanti è vietato
 
@@ -489,7 +497,7 @@ Allegato 6[^t-4]
 
 ## Elenco delle derrate alimentari nelle quali non sono ammessi aromi
 
-[^t-4]: Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2403](https://fedlex.data.admin.ch/eli/oc/2020/455)).
+[^t-4]: Nuovo testo giusta la cifra II cpv. 2 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2403](https://fedlex.data.admin.ch/eli/oc/2020/455)).
 
 <table>
 <tr><th>Numero</th><th>Derrata alimentare</th><th>Osservazioni</th></tr>
