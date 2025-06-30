@@ -4,13 +4,12 @@ number: "301.100"
 title: Gesundheitsgesetz
 short: GesG
 language: de
-version: 2024-07-01
-valid_until: 2025-06-30
-version_adopted: 2023-09-19
+version: 2025-07-01
+version_adopted: 2025-01-14
 adopted: 2009-01-20
 in_force: 2010-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/301.100"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3629/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3813/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,13 +18,16 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3629/pdf_file"
 
 (GesG)
 
-Vom 20.01.2009 (Stand 01.07.2024)
+Vom 20.01.2009 (Stand 01.07.2025)
 
 Der Grosse Rat des Kantons Aargau,
 
-gestützt auf § 41 der Kantonsverfassung,
+gestützt auf die Art. 35–38 und 55a des Bundesgesetzes über die Krankenversicherung (KVG) vom 18. März 1994[^ingress-1], die Verordnung über die Festlegung der Höchstzahlen für Ärztinnen und Ärzte im ambulanten Bereich vom 23. Juni 2021[^ingress-2] und § 41 der Kantonsverfassung,
 
 beschliesst:
+
+[^ingress-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
+[^ingress-2]: SR [832.107](https://db.clex.ch/link/Bund/832.107/de)
 
 ## 1. Allgemeines
 
@@ -369,6 +371,34 @@ beschliesst:
 <sup>2</sup> Der Regierungsrat regelt die für die einzelnen Bewilligungen erforderlichen Voraussetzungen und erlässt Ausführungsbestimmungen.
 
 <sup>3</sup> Die §§ 9–12 und 26 gelten sinngemäss.
+
+## 4<sup>bis</sup>. Zulassung zur Abrechnung zulasten der obligatorischen Krankenpflegeversicherung
+
+#### § 27a
+
+**Zulassungsverfahren**
+
+<sup>1</sup> Wer als Leistungserbringerin oder -erbringer im ambulanten Bereich zulasten der obligatorischen Krankenpflegeversicherung (OKP) tätig sein will, bedarf einer Zulassung des zuständigen Departements und untersteht dessen Aufsicht.
+
+<sup>2</sup> Die Voraussetzungen für die Erteilung der Zulassung richten sich nach Bundesrecht.
+
+<sup>3</sup> Die Zulassung kann mit Einschränkungen fachlicher, zeitlicher und räumlicher Art oder mit Auflagen oder Bedingungen verbunden werden, soweit dies für die Sicherung einer qualitativ hochstehenden, wirtschaftlichen und zweckmässigen Leistungserbringung erforderlich ist.
+
+<sup>4</sup> Ungenutzte Zulassungen verfallen zwölf Monate nach Erteilung. Das zuständige Departement entscheidet in begründeten Einzelfällen über Ausnahmen.
+
+<sup>5</sup> Der Regierungsrat regelt durch Verordnung die Einzelheiten der Zulassung und des Zulassungsverfahrens sowie die Meldepflichten der Inhaberinnen und Inhaber einer Zulassung. Er kann besondere Bestimmungen für Praxisübernahmen erlassen.
+
+#### § 27b
+
+**Höchstzahlen bei der Zulassung von Ärztinnen und Ärzten**
+
+<sup>1</sup> Der Regierungsrat legt in einem oder mehreren medizinischen Fachgebieten eine Höchstzahl an Ärztinnen und Ärzten, die im ambulanten Bereich zulasten der OKP Leistungen erbringen, für den gesamten Kanton, für eine oder für mehrere Regionen durch Verordnung fest.
+
+<sup>2</sup> Regionen können aus mehreren Gemeinden, einem Bezirk oder mehreren Bezirken bestehen.
+
+<sup>3</sup> Ist aufgrund der Versorgungssituation davon auszugehen, dass in einem Fachgebiet eine bedarfsgerechte und wirtschaftliche Versorgung nicht gewährleistet ist, kann er nachträglich die Höchstzahl für dieses Fachgebiet anpassen oder aufheben.
+
+<sup>4</sup> Er kann bei Vorliegen der Voraussetzungen gemäss Art. 55a Abs. 6 KVG anordnen, dass keine Ärztin und kein Arzt im betroffenen Fachgebiet eine Tätigkeit zulasten der OKP neu aufnehmen kann.
 
 ## 5. Rechte und Pflichten der Patientinnen und Patienten
 
