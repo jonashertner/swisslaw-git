@@ -4,11 +4,11 @@ title: "Loi fédérale du 20 mars 2009 sur la procédure pénale applicable aux 
 short: PPMin
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/226"
 language: fr
-version: 2024-01-01
+version: 2025-07-01
 adopted: 2009-03-20
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/226/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-226-20240101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/226/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/226/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2010-226-20250701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/226/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/226/20240101/fr"
 
 (Procédure pénale applicable aux mineurs, PPMin)
 
-du 20 mars 2009 (État le 1<sup>er</sup> janvier 2024)
+du 20 mars 2009 (État le 1<sup>er</sup> juillet 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -33,11 +33,12 @@ arrête:
 
 #### Art. 1
 
-**Objet**
+**Objet**[^1-1]
 
-La présente loi régit la poursuite et le jugement des infractions prévues par le droit fédéral commises par des mineurs au sens de l’art. 3, al. 1, du droit pénal des mineurs du 20 juin 2003 (DPMin)[^1-1], ainsi que l’exécution des sanctions prononcées à l’encontre de ceux-ci.
+La présente loi régit la poursuite et le jugement des infractions visées par le droit fédéral et commises par des mineurs au sens de l’art. 3, al. 1, du droit pénal des mineurs du 20 juin 2003 (DPMin)[^1-2], ainsi que l’exécution des sanctions prononcées à l’encontre de ceux-ci, sous réserve de l’art. 3, al. 2, DPMin.
 
-[^1-1]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
+[^1-1]: Nouvelle teneur selon l’annexe 1 ch. 6 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [2024 490](https://fedlex.data.admin.ch/eli/oc/2024/490); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^1-2]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
 
 #### Art. 2
 

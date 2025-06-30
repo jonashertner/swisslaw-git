@@ -4,11 +4,11 @@ title: "Legge federale del 20 marzo 2009 di diritto processuale penale minorile 
 short: PPMin
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/226"
 language: it
-version: 2024-01-01
+version: 2025-07-01
 adopted: 2009-03-20
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/226/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2010-226-20240101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/226/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/226/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2010-226-20250701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/226/20250701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/226/20240101/it"
 
 (Procedura penale minorile, PPMin)
 
-del 20 marzo 2009 (Stato 1° gennaio 2024)
+del 20 marzo 2009 (Stato 1° luglio 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -33,11 +33,12 @@ decreta:
 
 #### Art. 1
 
-**Oggetto**
+**Oggetto**[^1-1]
 
-La presente legge disciplina il perseguimento e il giudizio dei reati previsti dal diritto federale commessi da minori ai sensi dell’articolo 3 capoverso 1 della legge del 20 giugno 2003[^1-1] sul diritto penale minorile (DPMin), nonché l’esecuzione delle relative sanzioni.
+La presente legge disciplina, fatto salvo l’articolo 3 capoverso 2 della legge del 20 giugno 2003[^1-2] sul diritto penale minorile (DPMin), il perseguimento e il giudizio dei reati previsti dal diritto federale commessi da minori ai sensi dell’articolo 3 capoverso 1 DPMin, nonché l’esecuzione delle relative sanzioni.
 
-[^1-1]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
+[^1-1]: Nuovo testo giusta l’all. 1 n. 6 della LF del 17 giu. 2022, in vigore dal 1° lug. 2025 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468), [2024 490](https://fedlex.data.admin.ch/eli/oc/2024/490); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^1-2]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
 
 #### Art. 2
 
@@ -575,11 +576,12 @@ L’autorità giudicante notifica successivamente alle parti una sentenza motiva
 
 **Legittimazione**
 
-<sup>1</sup> Sono legittimati a ricorrere:
+<sup>1</sup>
 
-a. il minore capace di discernimento; e
+Sono legittimati a ricorrere:
 
-b. il suo rappresentante legale o, in sua assenza, l’autorità civile.
+- a. il minore capace di discernimento; e
+- b. il suo rappresentante legale o, in sua assenza, l’autorità civile.
 
 <sup>2</sup> L’autorità che ha sostenuto l’accusa dinanzi al tribunale dei minorenni ha diritto di interporre appello.
 

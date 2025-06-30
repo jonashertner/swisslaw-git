@@ -4,11 +4,11 @@ title: "Schweizerische Jugendstrafprozessordnung vom 20. März 2009 (Jugendstraf
 short: JStPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/226"
 language: de
-version: 2024-01-01
+version: 2025-07-01
 adopted: 2009-03-20
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/226/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2010-226-20240101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/226/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/226/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2010-226-20250701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/226/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/226/20240101/de"
 
 (Jugendstrafprozessordnung, JStPO)
 
-vom 20. März 2009 (Stand am 1. Januar 2024)
+vom 20. März 2009 (Stand am 1. Juli 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -33,11 +33,12 @@ beschliesst:
 
 #### Art. 1
 
-**Gegenstand**
+**Gegenstand**[^1-1]
 
-Dieses Gesetz regelt die Verfolgung und Beurteilung der Straftaten nach Bundesrecht, die von Jugendlichen im Sinne von Artikel 3 Absatz 1 des Jugendstrafgesetzes vom 20. Juni 2003[^1-1] (JStG) verübt worden sind, sowie den Vollzug der gegen sie verhängten Sanktionen.
+Dieses Gesetz regelt, unter Vorbehalt von Artikel 3 Absatz 2 des Jugendstrafgesetzes vom 20. Juni 2003[^1-2] (JStG), die Verfolgung und Beurteilung der Straftaten nach Bundesrecht, die von Jugendlichen im Sinne von Artikel 3 Absatz 1 JStG verübt worden sind, sowie den Vollzug der gegen sie verhängten Sanktionen.
 
-[^1-1]: [SR 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
+[^1-1]: Fassung gemäss Anhang 1 Ziff. 6 des BG vom 17. Juni 2022, in Kraft seit 1. Juli 2025 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468), [2024 490](https://fedlex.data.admin.ch/eli/oc/2024/490); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^1-2]: [SR 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
 
 #### Art. 2
 
