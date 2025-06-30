@@ -3,20 +3,19 @@ canton: BL
 number: "834.400"
 title: Ordnung über die berufliche Vorsorge
 language: de
-version: 2023-01-01
-valid_until: 2025-06-30
-version_adopted: 2022-08-29
+version: 2025-07-01
+version_adopted: 2025-05-23
 adopted: 2012-01-23
 in_force: 2012-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/834.400"
-pdf: "https://bl.clex.ch/api/de/versions/4280/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4283/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ordnung über die berufliche Vorsorge
 
-Vom 23.01.2012 (Stand 01.01.2023)
+Vom 23.01.2012 (Stand 01.07.2025)
 
 Der Verwaltungsrat der BSABB (BVG- und Stiftungsaufsicht beider Basel),
 
