@@ -3,20 +3,20 @@ canton: SG
 number: "331.111"
 title: Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Krankenversicherung
 language: de
-version: 2025-01-01
-valid_until: 2025-06-30
-version_adopted: 2024-12-10
+version: 2025-07-01
+valid_until: 2025-12-31
+version_adopted: 2025-05-13
 adopted: 1995-12-12
 in_force: 1996-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/331.111"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3731/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3784/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Krankenversicherung
 
-vom 12.12.1995 (Stand 01.01.2025)
+vom 12.12.1995 (Stand 01.07.2025)
 
 Landammann und Regierung des Kantons St.Gallen
 
@@ -78,7 +78,7 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Zuständig ist die Kontrollstelle für Krankenversicherung jener politischen Gemeinde, in der die versicherungspflichtige Person ihren zivilrechtlichen Wohnsitz hat.
 
-<sup>2</sup> Für Grenzgänger mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union ist die Kontrollstelle am Arbeitsort der versicherungspflichtigen Person zuständig.
+<sup>2</sup> Für Grenzgängerinnen und Grenzgänger mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union ist die Kontrollstelle am Arbeitsort der versicherungspflichtigen Person zuständig.
 
 <sup>3</sup> Die Kontrollstelle kann Verfügungen mit Wirkung sowohl gegenüber der versicherungspflichtigen Person als auch gegenüber dem Versicherer erlassen.
 
@@ -92,7 +92,7 @@ als Verordnung:[^ingress-2]
 
 **2. der kantonalen Stelle**
 
-<sup>1</sup> Die zuständige kantonale Stelle[^5bis-1] meldet der Kontrollstelle die Grenzgänger mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union.
+<sup>1</sup> Die zuständige kantonale Stelle[^5bis-1] meldet der Kontrollstelle die Grenzgängerinnen und Grenzgänger mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union.
 
 [^5bis-1]: Amt für Wirtschaft.
 
@@ -117,9 +117,9 @@ als Verordnung:[^ingress-2]
 
 **Freiwillige Versicherung**
 
-<sup>1</sup> Wer sich freiwillig der Versicherung unterstellt[^8-1], reicht das Gesuch der Kontrollstelle seines Wohnortes ein.
+<sup>1</sup> Wer sich freiwillig der Versicherung unterstellt[^8-1], reicht das Gesuch der Kontrollstelle am Wohnort ein.
 
-<sup>2</sup> Grenzgänger reichen das Gesuch[^8-2] der Kontrollstelle am Arbeitsort ein.
+<sup>2</sup> Grenzgängerinnen und Grenzgänger reichen das Gesuch[^8-2] der Kontrollstelle am Arbeitsort ein.
 
 [^8-1]: Art. 6 der eidgV über die Krankenversicherung vom 27. Juni 1995, SR [832.102](https://db.clex.ch/link/Bund/832.102/de).
 [^8-2]: Art. 3 der eidgV über die Krankenversicherung vom 27. Juni 1995, SR [832.102](https://db.clex.ch/link/Bund/832.102/de).
@@ -130,7 +130,7 @@ als Verordnung:[^ingress-2]
 
 **Anspruchsberechtigung a) Personen mit Wohnsitz oder Aufenthaltsberechtigung im Kanton**
 
-<sup>1</sup> Massgebend für die Anspruchsberechtigung auf Prämienverbilligung für Personen mit zivilrechtlichem Wohnsitz oder einer fremdenpolizeilichen Bewilligung zum Jahresaufenthalt (Ausweis B) im Kanton sowie für erwerbstätige vorläufig aufgenommene Ausländer (Ausweis F), erwerbstätige Asylsuchende (Ausweis N), erwerbstätige Schutzbedürftige (Ausweis S) und Kurzaufenthalter (Ausweis L) mit einer bewilligten ununterbrochenen Aufenthaltsdauer von wenigstens 365 Tagen sind die persönlichen und familiären Verhältnisse einer Person am 1. Januar des Jahres, für das die Prämienverbilligung beansprucht wird.
+<sup>1</sup> Massgebend für die Anspruchsberechtigung auf Prämienverbilligung für Personen mit zivilrechtlichem Wohnsitz oder einer fremdenpolizeilichen Bewilligung zum Jahresaufenthalt (Ausweis B) im Kanton sowie für erwerbstätige vorläufig aufgenommene Ausländerinnen und Ausländer (Ausweis F), erwerbstätige Asylsuchende (Ausweis N), erwerbstätige Schutzbedürftige (Ausweis S) sowie Kurzaufenthalterinnen und Kurzaufenthalter (Ausweis L) mit einer bewilligten ununterbrochenen Aufenthaltsdauer von wenigstens 365 Tagen sind die persönlichen und familiären Verhältnisse einer Person am 1. Januar des Jahres, für das die Prämienverbilligung beansprucht wird.
 
 <sup>2</sup> …
 
@@ -140,13 +140,13 @@ als Verordnung:[^ingress-2]
 
 #### Art. 9a
 
-**b) Grenzgänger**
+**b) Grenzgängerinnen und Grenzgänger**
 
-<sup>1</sup> Massgebend für Grenzgänger mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union, die am 1. Januar des Jahres, für das die Prämienverbilligung beansprucht wird, in einem Arbeitsverhältnis im Kanton stehen, sind die persönlichen und familiären Verhältnisse am 1. Januar.
+<sup>1</sup> Massgebend für Grenzgängerinnen und Grenzgänger mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union, die am 1. Januar des Jahres, für das die Prämienverbilligung beansprucht wird, in einem Arbeitsverhältnis im Kanton stehen, sind die persönlichen und familiären Verhältnisse am 1. Januar.
 
-<sup>2</sup> Massgebend für Grenzgänger mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union und mit einer Erwerbsaufnahme während des Kalenderjahres in der Schweiz sowie einem Anknüpfungspunkt an den Kanton sind die persönlichen und familiären Verhältnisse zum Zeitpunkt der Antragstellung.
+<sup>2</sup> Massgebend für Grenzgängerinnen und Grenzgänger mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union und mit einer Erwerbsaufnahme während des Kalenderjahres in der Schweiz sowie einem Anknüpfungspunkt an den Kanton sind die persönlichen und familiären Verhältnisse zum Zeitpunkt der Antragstellung.
 
-<sup>3</sup> Der Anspruch der mitversicherten Familienangehörigen von Grenzgängern mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union leitet sich von der Person mit Anbindung an den Kanton ab.
+<sup>3</sup> Der Anspruch der mitversicherten Familienangehörigen von Grenzgängerinnen und Grenzgängern mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union leitet sich von der Person mit Anbindung an den Kanton ab.
 
 #### Art. 10
 
@@ -167,6 +167,8 @@ als Verordnung:[^ingress-2]
 <sup>1</sup> Die Sozialversicherungsanstalt ermittelt im Januar des Bezugsjahres zusammen mit den Steuerbehörden die voraussichtlich anspruchsberechtigten Personen.
 
 <sup>2</sup> Ausgenommen sind Personen nach Art. 22 Abs. 2 dieser Verordnung.
+
+<sup>3</sup> Für Beziehende von finanzieller Sozialhilfe oder von Elternschaftsbeiträgen kann die Sozialversicherungsanstalt auch unterjährig periodische Abgleiche der Daten mit den zuständigen Stellen der politischen Gemeinden vornehmen.
 
 #### Art. 12
 
@@ -231,7 +233,7 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Wurde in den zwei Jahren vor dem Bezugsjahr eine Ausbildung abgeschlossen, gilt das voraussichtliche Bruttoeinkommen des Bezugsjahres zuzüglich 20 Prozent des steuerbaren Vermögens als massgebendes Einkommen. Das Bruttoeinkommen wird zu 75 Prozent angerechnet.
 
-<sup>2</sup> Wurde in den zwei Jahren vor dem Bezugsjahr eine Ausbildung aufgenommen und die Erwerbstätigkeit reduziert oder aufgegeben, gilt das voraussichtliche Bruttoeinkommen des Bezugsjahres zuzüglich 20 Prozent des steuerbaren Vermögens als massgebendes Einkommen. Das Bruttoeinkommen wird zu 75 Prozent angerechnet.
+<sup>2</sup> Wurde in den zwei Jahren vor dem Bezugsjahr eine Ausbildung aufgenommen und das Einkommen reduziert oder kein Einkommen erzielt, gilt das voraussichtliche Bruttoeinkommen des Bezugsjahres zuzüglich 20 Prozent des steuerbaren Vermögens als massgebendes Einkommen. Das Bruttoeinkommen wird zu 75 Prozent angerechnet.
 
 <sup>3</sup> Ist die Veranlagung rechtskräftig, führt die Sozialversicherungsanstalt die Neuberechnung der Prämienverbilligung nach Art. 12 Abs. 2 und Abs. 3 dieses Erlasses durch.
 
@@ -251,7 +253,7 @@ als Verordnung:[^ingress-2]
 
 <sup>4</sup> Die Steuerbehörde stellt die für die Berechnung der Anspruchsberechtigung notwendigen Steuerdaten zur Verfügung.
 
-<sup>5</sup> Das für Grenzgänger mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union ermittelte Einkommen wird in die Kaufkraft des Wohnlandes umgerechnet. Massgebend ist der Index nach Art. 1 der Verordnung des Eidgenössischen Departementes des Innern über die Preisniveauindizes und die Durchschnittsprämien für den Anspruch auf Prämienverbilligung in der Europäischen Union, in Island und in Norwegen[^12bis-2].
+<sup>5</sup> Das für Grenzgängerinnen und Grenzgänger mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union ermittelte Einkommen wird in die Kaufkraft des Wohnlandes umgerechnet. Massgebend ist der Index nach Art. 1 der Verordnung des Eidgenössischen Departementes des Innern über die Preisniveauindizes und die Durchschnittsprämien für den Anspruch auf Prämienverbilligung in der Europäischen Union, in Island und in Norwegen[^12bis-2].
 
 <sup>5<sup>bis</sup></sup> Bei einer nachträglichen Veränderung des massgebenden Einkommens nach Abs. 1 und 2 dieser Bestimmung führt die Sozialversicherungsanstalt die Neuberechnung der Prämienverbilligung auf Basis des veränderten Einkommens durch.
 
@@ -286,15 +288,17 @@ als Verordnung:[^ingress-2]
 
 **c) Kinderabzug**
 
-<sup>1</sup> Für jedes in der Schweiz wohnhafte Kind, für das eine Familienzulage nach dem Bundesgesetz über die Familienzulagen vom 24. März 2006[^14-1] oder nach dem Bundesgesetz über Familienzulagen in der Landwirtschaft vom 20. Juni 1952[^14-2] bezogen wird, vermindert sich das massgebende Einkommen um Fr. 4000.–.
+<sup>1</sup> Für jedes in der Schweiz wohnhafte Kind bis zum vollendeten 18. Altersjahr oder für jede in der Schweiz wohnhafte junge erwachsene Person bis zum vollendeten 25. Altersjahr, für das oder für die eine Familienzulage nach dem Bundesgesetz über die Familienzulagen und Finanzhilfen an Familienorganisationen vom 24. März 2006[^14-1] oder nach dem Bundesgesetz über Familienzulagen in der Landwirtschaft vom 20. Juni 1952[^14-2] bezogen wird, vermindert sich das massgebende Einkommen um Fr. 4000.–.
 
 <sup>2</sup> …
 
-<sup>2<sup>bis</sup></sup> Kinder von unverheirateten Eltern, die einen gemeinsamen Haushalt führen, sind auf dem Anmeldeformular jenes Elternteils aufzuführen, der die Familienzulagen bezieht.
+<sup>2<sup>bis</sup></sup> Kinder oder junge erwachsene Personen von unverheirateten Eltern, die einen gemeinsamen Haushalt führen, sind auf dem Anmeldeformular jenes Elternteils aufzuführen, der die Familienzulagen bezieht.
+
+<sup>2<sup>ter</sup></sup> Junge erwachsene Personen, bei denen der Kanton St.Gallen nicht für die Prämienverbilligung der Eltern oder des Elternteils, der die Familienzulagen bezieht, zuständig ist, stellen eine eigene Anmeldung auf Prämienverbilligung. In diesem Fall wird der antragstellenden Person kein Kinderabzug von Fr. 4000.– nach Abs. 1 dieser Bestimmung gewährt.
 
 <sup>3</sup> …
 
-<sup>4</sup> Für jedes in der Schweiz obligatorisch krankenversicherte nicht schulpflichtige oder in schulischer oder beruflicher Ausbildung stehende Kind bis zum vollendeten 25. Altersjahr einer Grenzgängerin oder eines Grenzgängers mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union, für das in der Schweiz oder in einem Mitgliedstaat der Europäischen Union Familienzulagen bezogen werden, vermindert sich das massgebende Einkommen um Fr. 4000.–.
+<sup>4</sup> Für jedes in der Schweiz obligatorisch krankenversicherte nicht schulpflichtige Kind, in schulischer oder beruflicher Ausbildung stehende Kind oder für jede in der Schweiz obligatorisch krankenversicherte in schulischer oder beruflicher Ausbildung stehende junge erwachsene Personen einer Grenzgängerin oder eines Grenzgängers mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union, für das oder für die in der Schweiz oder in einem Mitgliedstaat der Europäischen Union Familienzulagen bezogen werden, vermindert sich das massgebende Einkommen um Fr. 4000.–.
 
 [^14-1]: SR [836.2](https://db.clex.ch/link/Bund/836.2/de).
 [^14-2]: SR [836.1](https://db.clex.ch/link/Bund/836.1/de).
@@ -368,15 +372,33 @@ als Verordnung:[^ingress-2]
 
 **Anmeldeformular**
 
-<sup>1</sup> Die Sozialversicherungsanstalt stellt der voraussichtlich anspruchsberechtigten Person, die am 1. Januar des Jahres der Prämienverbilligung ihren zivilrechtlichen Wohnsitz oder eine fremdenpolizeiliche Bewilligung zum Jahresaufenthalt (Ausweis B) im Kanton hat, bis 31. Januar ein vorausgefülltes Anmeldeformular zu.
+<sup>1</sup> Die Sozialversicherungsanstalt stellt der voraussichtlich anspruchsberechtigten Person, die am 1. Januar des Jahres der Prämienverbilligung ihren zivilrechtlichen Wohnsitz oder eine fremdenpolizeiliche Bewilligung zum Jahresaufenthalt (Ausweis B) im Kanton hat, bis spätestens 10. Januar einen Zugang zu einem vorausgefüllten elektronischen Anmeldeformular zu.
 
-<sup>2</sup> Kein vorausgefülltes Anmeldeformular erhalten versicherungspflichtige Grenzgänger mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union, erwerbstätige vorläufig aufgenommene Ausländer (Ausweis F), erwerbstätige Asylsuchende (Ausweis N), erwerbstätige Schutzbedürftige (Ausweis S), Kurzaufenthalter (Ausweis L) mit einer bewilligten ununterbrochenen Aufenthaltsdauer von wenigstens 365 Tagen und Personen, die nach Art. 177 des Steuergesetzes vom 9. April 1998[^22-1] nach Ermessen veranlagt werden sowie Personen mit Einkommen und Vermögen Null.
+<sup>2</sup> Keinen Zugang zu einem vorausgefüllten elektronischen Anmeldeformular erhalten versicherungspflichtige Grenzgängerinnen und Grenzgänger mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union, erwerbstätige vorläufig aufgenommene Ausländerinnen und Ausländer (Ausweis F), erwerbstätige Asylsuchende (Ausweis N), erwerbstätige Schutzbedürftige (Ausweis S), Kurzaufenthalterinnen und Kurzaufenthalter (Ausweis L) mit einer bewilligten ununterbrochenen Aufenthaltsdauer von wenigstens 365 Tagen und Personen, die nach Art. 177 des Steuergesetzes vom 9. April 1998[^22-1] nach Ermessen veranlagt werden sowie Personen mit Einkommen und Vermögen Null.
 
-<sup>3</sup> Personen, die kein vorausgefülltes Anmeldeformular erhalten haben, können ein Anmeldeformular bei der Sozialversicherungsanstalt beziehen.
+<sup>3</sup> Personen, die keinen Zugang zu einem vorausgefüllten elektronischen Anmeldeformular erhalten haben, können über die Webseite der Sozialversicherungsanstalt ein Anmeldeformular in elektronischer Form ausfüllen.
+
+<sup>3<sup>bis</sup></sup> Das Anmeldeformular kann auch in Papierform bei der Sozialversicherungsanstalt bezogen werden.
 
 <sup>4</sup> Das Anmeldeformular ist für das Jahr der Prämienverbilligung gültig.
 
 [^22-1]: sGS [811.1](https://www.gesetzessammlung.sg.ch/data/811.1/de).
+
+#### Art. 22a
+
+**Anmeldung junger erwachsener Personen in Ausbildung bis zum vollendeten 25. Altersjahr**
+
+<sup>1</sup> Die Anmeldung nach [Art. 11<sup>bis</sup>](https://www.gesetzessammlung.sg.ch/data/331.11/de/art11bis) des Einführungsgesetzes zur Bundesgesetzgebung über die Krankenversicherung vom 9. November 1995[^22a-1] für eine in Ausbildung stehende junge erwachsene Person bis zum vollendeten 25. Altersjahr erfolgt:
+
+- a) gemeinsam mit der Anmeldung der Eltern, wenn für die Person eine Ausbildungszulage nach dem Bundesgesetz über die Familienzulagen und Finanzhilfen an Familienorganisationen vom 24. März 2006[^22a-2] oder nach dem Bundesgesetz über die Familienzulagen in der Landwirtschaft vom 20. Juni 1952[^22a-3] bezogen wird;
+- b) in anderen Fällen mit einer separaten Anmeldung der in Ausbildung stehenden Person.
+
+<sup>2</sup> Bei einer fristgerecht erfolgten Anmeldung durch die nicht zuständigen Eltern oder die nicht zuständige in Ausbildung stehende Person, bleibt die Anmeldefrist nach [Art. 11<sup>bis</sup>](https://www.gesetzessammlung.sg.ch/data/331.11/de/art11bis) des Einführungsgesetzes zur Bundesgesetzgebung über die Krankenversicherung vom 9. November 1995[^22a-4] gewahrt, wenn die korrekte Anmeldung innert drei Monaten nach der Aufforderung der Sozialversicherungsanstalt nachgeholt wird.
+
+[^22a-1]: sGS [331.11](https://www.gesetzessammlung.sg.ch/data/331.11/de).
+[^22a-2]: SR [836.2](https://db.clex.ch/link/Bund/836.2/de).
+[^22a-3]: SR [836.1](https://db.clex.ch/link/Bund/836.1/de).
+[^22a-4]: sGS [331.11](https://www.gesetzessammlung.sg.ch/data/331.11/de).
 
 #### Art. 23
 
@@ -446,7 +468,7 @@ als Verordnung:[^ingress-2]
 
 **Rückerstattung und Erlass**
 
-<sup>1</sup> Die Rückerstattung einer zu Unrecht bezogenen Prämienverbilligung wird vom Versicherer beim Versicherten geltend gemacht. Die Geltendmachung von Rückerstattungsforderungen durch die Sozialversicherungsanstalt bleibt vorbehalten.
+<sup>1</sup> Die Rückerstattung einer zu Unrecht bezogenen Prämienverbilligung wird vom Versicherer bei der versicherten Person geltend gemacht. Die Geltendmachung von Rückerstattungsforderungen durch die Sozialversicherungsanstalt bleibt vorbehalten.
 
 <sup>2</sup> Die Rückerstattung kann mit Prämienverbilligungsansprüchen verrechnet werden.
 
@@ -529,21 +551,18 @@ als Verordnung:[^ingress-2]
 
 #### Art. 38ter
 
-**Bewirtschaftung der Verlustscheine der Krankenversicherer durch die politische Gemeinde**
-
-<sup>1</sup> Die politische Gemeinde setzt die Betreibung von Verlustscheinen der Krankenversicherer, für die sie Ersatz geleistet hat, fort.
-
-<sup>2</sup> Der Kanton erhält für die durch den Kanton vergüteten Ersatzleistungen die Hälfte des Betreibungserlöses nach Abzug der Betreibungskosten.
-
-<sup>3</sup> Die politische Gemeinde verrechnet den Anteil des Kantons mit ihrer Forderung nach Art. 24<sup>bis</sup> dieser Verordnung.
+**…**
 
 #### Art. 38quater
 
 **Vergütung der ausstehenden Forderungen**
 
-<sup>1</sup> Der Anteil der politischen Gemeinden an der Forderung nach Art. 8h Abs. 3 Bst. b des Einführungsgesetzes zur Bundesgesetzgebung über die Krankenversicherung vom 9. November 1995[^38quater-1] wird nach der neuesten definitiven Statistik der ständigen Wohnbevölkerung per 31. Dezember berechnet.
+<sup>1</sup> Der Anteil der politischen Gemeinden an der Forderung nach Art. 8h Abs. 3 des Einführungsgesetzes zur Bundesgesetzgebung über die Krankenversicherung vom 9. November 1995[^38quater-1] wird nach der neuesten definitiven Statistik der ständigen Wohnbevölkerung jeweils per 31. Dezember berechnet.
+
+<sup>2</sup> Die Sozialversicherungsanstalt vergütet dem Versicherer die Forderungen nach [Art. 8h](https://www.gesetzessammlung.sg.ch/data/331.11/de/art8h) Abs. 1 des Einführungsgesetzes zur Bundesgesetzgebung über die Krankenversicherung vom 9. November 1995[^38quater-2] jährlich.
 
 [^38quater-1]: sGS [331.11](https://www.gesetzessammlung.sg.ch/data/331.11/de).
+[^38quater-2]: sGS [331.11](https://www.gesetzessammlung.sg.ch/data/331.11/de).
 
 #### Art. 38quinquies
 
@@ -565,7 +584,29 @@ als Verordnung:[^ingress-2]
 
 <sup>2</sup> Die Sozialversicherungsanstalt übernimmt die zusätzlichen 5 Prozent der Forderungen, wenn dies von allen politischen Gemeinden verlangt wird. Sie informiert die politischen Gemeinden über die Übernahme.
 
+<sup>3</sup> Kommt es zu einer Übernahme, richtet sich das weitere Verfahren nach Abs. 4 bis 8 dieser Bestimmung.
+
+<sup>4</sup> Der Versicherer tritt die Forderungen an die Sozialversicherungsanstalt ab. Die Information zu den abgetretenen Forderungen erfolgt elektronisch in der von der Sozialversicherungsanstalt vorgegebenen Form.
+
+<sup>5</sup> Die Sozialversicherungsanstalt tritt die vom Versicherer an sie abgetretenen Forderungen innerhalb von 30 Tagen nach deren Abtretung an die zuständige politische Gemeinde oder an eine von dieser bezeichneten Stelle ab. Diese ist zur Übernahme verpflichtet. Zuständig ist die Wohnsitzgemeinde zum Zeitpunkt der Ausstellung des Verlustscheins. Die Information zu den abgetretenen Forderungen erfolgt elektronisch in der von der Sozialversicherungsanstalt vorgegebenen Form.
+
+<sup>6</sup> Die Übermittlung der Verlustscheine durch die Versicherer in schriftlicher oder elektronischer Form erfolgt an die zuständige politische Gemeinde oder an eine von dieser bezeichneten Stelle. Zuständig ist die Wohnsitzgemeinde zum Zeitpunkt der Ausstellung des Verlustscheins.
+
+<sup>7</sup> Die politische Gemeinde informiert die betroffenen Versicherten über die Gläubigerwechsel.
+
+<sup>8</sup> Die Sozialversicherungsanstalt informiert die nach Abs. 5 dieser Bestimmung zuständige politische Gemeinde über vom Versicherer nach [Art. 105k](https://db.clex.ch/link/Bund/832.102/de) Abs. 6 der eidgenössischen Verordnung über die Krankenversicherung vom 27. Juni 1995[^38sexies-2] der Sozialversicherungsanstalt vergütete Beträge. Die Beträge werden von der politischen Gemeinde oder von der von der politischen Gemeinde bezeichneten Stelle vollumfänglich vom Verlustschein oder dem gleichwertigen Rechtstitel abgezogen. Die der Sozialversicherungsanstalt vergüteten Beträge werden von den Forderungen nach [Art. 8h](https://www.gesetzessammlung.sg.ch/data/331.11/de/art8h) Abs. 3 des Einführungsgesetzes zur Bundesgesetzgebung über die Krankenversicherung vom 9. November 1995[^38sexies-3] in Abzug gebracht.
+
 [^38sexies-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
+[^38sexies-2]: SR [832.102](https://db.clex.ch/link/Bund/832.102/de).
+[^38sexies-3]: sGS [331.11](https://www.gesetzessammlung.sg.ch/data/331.11/de).
+
+#### Art. 38septies
+
+**Meldung über Verlustscheine und andere Forderungen**
+
+<sup>1</sup> Der Versicherer übermittelt der zuständigen politischen Gemeinde oder der von dieser bezeichneten Stelle die zur Geltendmachung der an sie abgetretenen Forderungen erforderlichen Informationen und Dokumente nach [Art. 105f](https://db.clex.ch/link/Bund/832.102/de) Abs. 5 Bst. b der eidgenössischen Verordnung über die Krankenversicherung vom 27. Juni 1995[^38septies-1] kostenlos.
+
+[^38septies-1]: SR [832.102](https://db.clex.ch/link/Bund/832.102/de).
 
 ## III. Schlussbestimmungen
 
@@ -603,7 +644,7 @@ als Verordnung:[^ingress-2]
 
 #### Art. 43
 
-**b) Prämienverbilligung für quellensteuerpflichtige ausländische Arbeitnehmer**
+**b) Prämienverbilligung für quellensteuerpflichtige ausländische Arbeitnehmende**
 
 <sup>1</sup> Der Anspruch auf eine Prämienverbilligung für quellensteuerpflichtige Personen mit einer fremdenpolizeilichen Bewilligung zum Jahresaufenthalt richtet sich im Jahr 1996 nach dem nach kantonalem Steuerrecht ermittelten Rein-Einkommen, vermehrt um einen Zehntel des steuerbaren Vermögens, soweit dieses Fr. 200 000.– übersteigt.
 
@@ -654,5 +695,15 @@ als Verordnung:[^ingress-2]
 **Vollzugsbeginn**
 
 <sup>1</sup> Diese Verordnung wird ab 1. Januar 1996 angewendet.
+
+#### Art. 50
+
+**Übergangsbestimmungen zum XXXV. Nachtrag vom 10. September 2024**
+
+<sup>1</sup> Art. 38<sup>ter</sup> dieses Erlasses in der Fassung vor der Aufhebung durch den XXXV. Nachtrag zu diesem Erlass vom 10. September 2024 wird auf Prämien oder Kostenbeteiligungen mit Fälligkeit vor dem 1. Januar 2012 angewendet, für welche die politische Gemeinde Ersatz geleistet hat. Der Anteil des Kantons wird von der politischen Gemeinde jährlich bis zum 15. Dezember mit der Sozialversicherungsanstalt abgerechnet.
+
+<sup>2</sup> Auf Verlangen der zuständigen politischen Gemeinde übernimmt die Sozialversicherungsanstalt zusätzlich 3 Prozent einer Forderung, für die sie nach [Art. 64a](https://db.clex.ch/link/Bund/832.10/de) Abs. 4 des Bundesgesetzes über die Krankenversicherung vom 18. März 1994[^50-1] in der Fassung vor Inkrafttreten der Änderung vom 18. März 2022 bereits 85 Prozent übernommen hat. Der Sozialversicherungsanstalt wird die zusätzliche Forderung durch die politische Gemeinde vergütet, die deren Übernahme verlangt. Die Sozialversicherungsanstalt tritt eine an sie abgetretene Forderung innerhalb von drei Monaten nach der Abtretung durch den Versicherer an die zuständige politische Gemeinde oder an eine von dieser bezeichneten Stelle ab.
+
+[^50-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
 
 nGS 31–8
