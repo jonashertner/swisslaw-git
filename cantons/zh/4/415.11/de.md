@@ -4,11 +4,10 @@ number: "415.11"
 title: Universitätsgesetz (UniG)
 short: UniG
 language: de
-version: "2024-01-01"
-nachtrag: "123"
-valid_until: 2025-07-01
+version: "2025-07-01"
+nachtrag: "129"
 adopted: 1998-03-15
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_11-1998_03_15-1998_10_01-123.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_11-1998_03_15-1998_10_01-129.html"
 text: pdf
 ---
 
@@ -73,7 +72,7 @@ Die Universität trifft Vorkehrungen zur Sicherung der Qualität von Forschung, 
 
 **1**
 
-- 1\. 1. 24 - 123 § 5 a.<sup>34</sup>
+- 1\. 7. 25 - 129 § 5 a.<sup>34</sup>
 
 **Zusammenarbeit im Gesundheitsbereich**
 
@@ -169,7 +168,7 @@ Die Universität trifft Vorkehrungen zur Sicherung der Qualität von Forschung, 
 
 **3**
 
-- 1\. 1. 24 - 123 § 8 a.<sup>32</sup> <sup>1</sup> Die Professorenschaft setzt sich zusammen aus den ordentlichen und ausserordentlichen Professorinnen und Professoren, den Assistenzprofessorinnen und -professoren mit und ohne Anspruch auf Prüfung einer unbefristeten Anstellung (Tenure Track) sowie den Förderungsprofessorinnen und -professoren.
+- 1\. 7. 25 - 129 § 8 a.<sup>32</sup> <sup>1</sup> Die Professorenschaft setzt sich zusammen aus den ordentlichen und ausserordentlichen Professorinnen und Professoren, den Assistenzprofessorinnen und -professoren mit und ohne Anspruch auf Prüfung einer unbefristeten Anstellung (Tenure Track) sowie den Förderungsprofessorinnen und -professoren.
 
 **Professorenschaft**
 
@@ -235,7 +234,7 @@ Die Universität trifft Vorkehrungen zur Sicherung der Qualität von Forschung, 
 
 **5**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 25 - 129
 
 [^12-1]: Aufgehoben durch G vom 24. März 2003 (OS 58, 161; ABl 2002, 1100). In Kraft seit 1. September 2003 (OS 58, 192).
 [^12-2]: Eingefügt durch G vom 24. März 2003 (OS 58, 161; ABl 2002, 1100). In Kraft seit 1. September 2003 (OS 58, 192).
@@ -268,7 +267,7 @@ und -professoren<sup>32</sup>
 
 - c. Entschädigung für Lehrveranstaltungen ausserhalb von Studienprogrammen.
 
-[^hBPrivatdozentinnen-1]: LS 415.24. 1. 1. 24 - 123 19
+[^hBPrivatdozentinnen-1]: LS 415.24.
 
 ### C. Externe Lehrpersonen<sup>32</sup>
 
@@ -320,7 +319,7 @@ und -professoren<sup>32</sup>
 
 **7**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 25 - 129
 
 <sup>2</sup> Die Studiengänge sind so auszugestalten, dass die Studierenden ihr Studium grundsätzlich in der Normalstudiendauer abschliessen können.
 
@@ -405,7 +404,7 @@ und -professoren<sup>32</sup>
 
 **9**
 
-- 1\. 1. 24 - 123 § 24.<sup>33</sup> <sup>1</sup> Die Fakultäten und Institute sind verantwortlich für Forschung, Lehre und Dienstleistungen.
+- 1\. 7. 25 - 129 § 24.<sup>33</sup> <sup>1</sup> Die Fakultäten und Institute sind verantwortlich für Forschung, Lehre und Dienstleistungen.
 
 **Aufgaben der Fakultäten und Institute**
 
@@ -425,7 +424,7 @@ und -professoren<sup>32</sup>
 
 - 1\. Beschluss über das Globalbudget sowie Bewilligung der weiteren Staatsleistungen, 2.[^25-1] Genehmigung des Rechenschaftsberichts,
 
-- 3\. Genehmigung der Vereinbarungen über Hochschulbeiträge und weiterer Konkordate, 4.<sup>36</sup> Genehmigung der Wahl der Präsidentin oder des Präsidenten und der einzelnen Mitglieder des Universitätsrates.
+- 3\. Genehmigung der Vereinbarungen über Hochschulbeiträge und weiterer Konkordate, 4.<sup>36</sup> Genehmigung der Wahl der Präsidentin oder des Präsidenten und der einzelnen Mitglieder des Universitätsrates, 5.<sup>39</sup> Genehmigung der Eigentümerstrategie, 6.<sup>39</sup> Kenntnisnahme des jährlichen Berichts über die Umsetzung der Eigentümerstrategie.
 
 [^25-1]: Fassung gemäss G vom 24. März 2003 (OS 58, 161; ABl 2002, 1100). In Kraft seit 1. September 2003 (OS 58, 192).
 
@@ -439,13 +438,33 @@ und -professoren<sup>32</sup>
 
 - 1\. Verabschiedung des Globalbudgets sowie Antragstellung zu den weiteren Staatsleistungen, 2.[^26-1] Verabschiedung des Rechenschaftsberichts,
 
-- 3\. Abschluss der Vereinbarungen über Hochschulbeiträge und weiterer Konkordate, 4.<sup>36</sup> Wahl der Präsidentin oder des Präsidenten und der weiteren Mitglieder des Universitätsrates sowie Festlegung der Entschädigung.
+- 3\. Abschluss der Vereinbarungen über Hochschulbeiträge und weiterer Konkordate, 4.<sup>36</sup> Wahl der Präsidentin oder des Präsidenten und der weiteren Mitglieder des Universitätsrates sowie Festlegung der Entschädigung, 5.<sup>39</sup> Festlegung der Eigentümerstrategie mit Vorgaben insbesondere betreffend
+
+- a. wissenschaftliche Leistungen,
+
+- b. universitäre Medizin und Zusammenarbeit mit den Trägerschaften gemäss § 6,
+
+- c. Personalpolitik,
+
+- d. Anstaltsorganisation,
+
+- e. Infrastruktur einschliesslich Liegenschaften,
+
+- f. Finanzen,
+
+- g. Risikomanagement,
+
+- h. Berichterstattung und Information.
+
+- i. Zusammenarbeit mit anderen Hochschulen,
+
+- j. Nachhaltigkeit.
 
 <sup>3</sup> Er ist in eigener Kompetenz zuständig für:<sup>37</sup> 1. Erlass der Verordnung über die Zusammenarbeit im Gesundheitsbereich,
 
 - 2\. Genehmigung der Personalverordnung und des Finanzreglements,
 
-- 3\. Anordnung von Zulassungsbeschränkungen.
+- 3\. Anordnung von Zulassungsbeschränkungen, 4.<sup>39</sup> Beschluss des jährlichen Berichts über die Umsetzung der Eigentümerstrategie, 5.<sup>39</sup> Überprüfung der Eigentümerstrategie mindestens alle vier Jahre.
 
 § 27.[^26-2]
 
@@ -476,6 +495,10 @@ Persönlichkeiten aus Wissenschaft, Kultur, Wirtschaft und Politik.
 
 <sup>4</sup> Die Amtsdauer der gewählten Mitglieder beträgt vier Jahre. Wiederwahl ist höchstens zweimal möglich.
 
+**11**
+
+- 1\. 7. 25 - 129
+
 <sup>5</sup> An den Sitzungen des Universitätsrates nehmen eine Vertreterin oder ein Vertreter der für das Gesundheitswesen zuständigen Direktion und ein Mitglied des Spitalrates des Universitätsspitals Zürich sowie die Universitätsleitung mit beratender Stimme teil und haben das Antragsrecht. Die Universitätsleitung regelt den Beizug weiterer Vertreterinnen oder Vertreter der Professorenschaft und der Stände mit beratender Stimme.[^28-1]
 
 **Funktion und Aufgaben**
@@ -490,15 +513,11 @@ Persönlichkeiten aus Wissenschaft, Kultur, Wirtschaft und Politik.
 
 - 3\. Antragstellung betreffend Zulassungsbeschränkungen,
 
-- 4\. Verabschiedung des Rechenschaftsberichts.
+- 4\. Verabschiedung des Rechenschaftsberichts, 5.<sup>39</sup> Verabschiedung des jährlichen Berichts über die Umsetzung der Eigentümerstrategie.
 
 <sup>3</sup> Für die Antragstellung gilt das Organisationsrecht des Regierungsrates.
 
 <sup>4</sup> Der Universitätsrat übt die unmittelbare Aufsicht über die Universität aus.
-
-**11**
-
-- 1\. 1. 24 - 123
 
 <sup>5</sup> Er ist in eigener Kompetenz zuständig für:[^28-2], <sup>33</sup> 1. Erlass der Universitätsordnung und weiterer Verordnungen im gesamtuniversitären Bereich, insbesondere der Rahmenverordnungen über die Habilitation[^28-3] und die Weiterbildung sowie der Rahmeninstitutsverordnung,
 
@@ -510,7 +529,7 @@ Persönlichkeiten aus Wissenschaft, Kultur, Wirtschaft und Politik.
 
 - 5\. Erlass der Rahmenverordnungen für das Studium und der Promotionsverordnungen der Fakultäten,
 
-- 6\. Wahl und Entlassung der Rektorin oder des Rektors, der Prorektorinnen und Prorektoren sowie der Direktorin oder des Direktors Universitäre Medizin, 7.<sup>31</sup> Genehmigung der Anstellung der Verwaltungsdirektorinnen und Verwaltungsdirektoren,
+- 6\. Wahl und Entlassung der Rektorin oder des Rektors, der Prorektorinnen und Prorektoren sowie der Direktorin oder des Direktors Universitäre Medizin, 7.[^28-4] Genehmigung der Anstellung der Verwaltungsdirektorinnen und Verwaltungsdirektoren,
 
 - 8\. Ernennung, Beförderung und Entlassung der ordentlichen und ausserordentlichen Professorinnen und Professoren, der Assistenzprofessorinnen und -professoren mit Tenure Track sowie der Leiterin oder des Leiters der Evaluationsstelle,
 
@@ -529,6 +548,7 @@ Persönlichkeiten aus Wissenschaft, Kultur, Wirtschaft und Politik.
 [^28-1]: Fassung gemäss G über das Universitätsspital Zürich (USZG) vom 19. September 2005 (OS 61, 426; ABl 2003, 126). In Kraft seit 1. Januar 2007.
 [^28-2]: Fassung gemäss G vom 16. November 2015 (OS 73, 131; ABl 2015-04-17). In Kraft seit 1. August 2018.
 [^28-3]: LS 415.23.
+[^28-4]: Fassung gemäss G vom 26. November 2018 (OS 74, 377; ABl 2018-06-01). In Kraft seit 1. August 2019. 1. 7. 25 - 129 21
 
 ### B. Senat, Universitätsleitung, Erweiterte Universitätsleitung
 
@@ -550,7 +570,7 @@ Persönlichkeiten aus Wissenschaft, Kultur, Wirtschaft und Politik.
 
 <sup>1</sup> Die Universitätsleitung setzt sich zusammen aus:
 
-- 1\. der Rektorin oder dem Rektor, 2.[^31-1] den Prorektorinnen und Prorektoren sowie der Direktorin oder dem Direktor Universitäre Medizin, 3.<sup>31</sup> den Verwaltungsdirektorinnen und Verwaltungsdirektoren.
+- 1\. der Rektorin oder dem Rektor, 2.[^31-1] den Prorektorinnen und Prorektoren sowie der Direktorin oder dem Direktor Universitäre Medizin, 3.[^31-2] den Verwaltungsdirektorinnen und Verwaltungsdirektoren.
 
 <sup>2</sup> Die Universitätsleitung ist das operative Leitungsorgan der Universität für den gesamtuniversitären Bereich.
 
@@ -562,7 +582,11 @@ Persönlichkeiten aus Wissenschaft, Kultur, Wirtschaft und Politik.
 
 - 3\. Führung des Finanzhaushalts, 4.<sup>33</sup> Erlass der Institutsordnungen,
 
-- 5\. Führung der Berufungsverhandlungen und Antragstellung auf Ernennung und Beförderung von Professorinnen und Professoren zuhanden des Universitätsrates, 6.<sup>33</sup> Ernennung und Entlassung von Assistenzprofessorinnen und -professoren ohne Tenure Track sowie Verlängerung dieser Assistenzprofessuren, 7.[^31-2] Erstellung des Rechenschaftsberichts zuhanden des Universitätsrates, 8.<sup>38</sup> Sicherstellung der Zusammenarbeit mit den Universitätsspitälern im Bereich der Medizin.
+**13**
+
+- 1\. 7. 25 - 129
+
+- 5\. Führung der Berufungsverhandlungen und Antragstellung auf Ernennung und Beförderung von Professorinnen und Professoren zuhanden des Universitätsrates, 6.<sup>33</sup> Ernennung und Entlassung von Assistenzprofessorinnen und -professoren ohne Tenure Track sowie Verlängerung dieser Assistenzprofessuren, 7.[^31-3] Erstellung des Rechenschaftsberichts zuhanden des Universitätsrates, 8.<sup>38</sup> Sicherstellung der Zusammenarbeit mit den Universitätsspitälern im Bereich der Medizin.
 
 <sup>4</sup> Sie ist für alle universitären Angelegenheiten zuständig, die keinem anderen Organ übertragen sind.
 
@@ -570,7 +594,7 @@ Persönlichkeiten aus Wissenschaft, Kultur, Wirtschaft und Politik.
 
 **Erweiterte Universitätsleitung**
 
-§ 32.[^31-2] <sup>1</sup> Die Erweiterte Universitätsleitung setzt sich zusammen aus:
+§ 32.[^31-3] <sup>1</sup> Die Erweiterte Universitätsleitung setzt sich zusammen aus:
 
 - 1\. der Universitätsleitung,
 
@@ -579,10 +603,6 @@ Persönlichkeiten aus Wissenschaft, Kultur, Wirtschaft und Politik.
 - 3\. den Delegierten der Stände.
 
 <sup>2</sup> An den Sitzungen der Erweiterten Universitätsleitung nehmen die Generalsekretärin oder der Generalsekretär der Universität und die Präsidentin oder der Präsident der Gleichstellungskommission mit beratender Stimme teil. Die Erweiterte Universitätsleitung kann weitere Personen als ständige Teilnehmerinnen und Teilnehmer mit beratender Stimme zu ihren Sitzungen einladen.<sup>33</sup>
-
-**13**
-
-- 1\. 1. 24 - 123
 
 <sup>3</sup> Die Erweiterte Universitätsleitung ist das oberste Organ im akademischen Bereich.
 
@@ -596,7 +616,7 @@ Persönlichkeiten aus Wissenschaft, Kultur, Wirtschaft und Politik.
 
 - 5\. Genehmigung der Studienordnungen, der Verordnungen über Weiterbildungsstudiengänge und über die Titularprofessur sowie der Habilitationsordnungen der Fakultäten,
 
-- 6\. Erlass des Reglements für die Wahl der Delegierten der Stände[^31-3] des wissenschaftlichen Nachwuchses, der fortgeschrittenen Forschenden und Lehrenden sowie des administrativen und technischen Personals in Organe der Universität,
+- 6\. Erlass des Reglements für die Wahl der Delegierten der Stände[^31-4] des wissenschaftlichen Nachwuchses, der fortgeschrittenen Forschenden und Lehrenden sowie des administrativen und technischen Personals in Organe der Universität,
 
 - 7\. Genehmigung der Organisationsreglemente der Fakultäten,
 
@@ -605,8 +625,9 @@ Persönlichkeiten aus Wissenschaft, Kultur, Wirtschaft und Politik.
 - 9\. Wahl der Mitglieder der ständigen Kommissionen der Universität.
 
 [^31-1]: Fassung gemäss G vom 16. November 2015 (OS 73, 131; ABl 2015-04-17). In Kraft seit 1. August 2018.
-[^31-2]: Fassung gemäss G vom 24. März 2003 (OS 58, 161; ABl 2002, 1100). In Kraft seit 1. September 2003 (OS 58, 192).
-[^31-3]: LS 415.111.2.
+[^31-2]: Fassung gemäss G vom 26. November 2018 (OS 74, 377; ABl 2018-06-01). In Kraft seit 1. August 2019. 1. 7. 25 - 129 21
+[^31-3]: Fassung gemäss G vom 24. März 2003 (OS 58, 161; ABl 2002, 1100). In Kraft seit 1. September 2003 (OS 58, 192).
+[^31-4]: LS 415.111.2.
 
 ### C. Fakultäts- und Institutsorgane
 
@@ -631,6 +652,10 @@ Persönlichkeiten aus Wissenschaft, Kultur, Wirtschaft und Politik.
 - 3\. Verabschiedung des Organisationsreglements der Fakultät unter Vorbehalt der Genehmigung durch die Erweiterte Universitätsleitung,
 
 - 4\. Wahl der Dekanin oder des Dekans,
+
+**15**
+
+- 1\. 7. 25 - 129
 
 - 5\. Antragstellung auf Erteilung und Entzug der Venia Legendi, auf Verleihung, Verlängerung und Entzug der Titularprofessur sowie auf Verleihung und Entzug von akademischen Titeln zuhanden der Erweiterten Universitätsleitung,
 
@@ -666,10 +691,6 @@ Persönlichkeiten aus Wissenschaft, Kultur, Wirtschaft und Politik.
 
 <sup>2</sup> Die Institutsordnung regelt die Organisation des Instituts, die Zusammensetzung der Institutsversammlung sowie die Vertretung der Stände.<sup>33</sup>
 
-**15**
-
-- 1\. 1. 24 - 123
-
 ### 6. Teil: Planung und Finanzen
 
 ### A. Planung
@@ -684,27 +705,28 @@ Persönlichkeiten aus Wissenschaft, Kultur, Wirtschaft und Politik.
 
 **Staatsmittel**
 
-§ 39.<sup>30</sup> <sup>1</sup> Der Kanton bewilligt mit einem Globalbudget die Kostenbeiträge für den Betrieb der Universität.
+§ 39.[^hBMittelderUniver-1] <sup>1</sup> Der Kanton bewilligt mit einem Globalbudget die Kostenbeiträge für den Betrieb der Universität.
 
 <sup>2</sup> Der Kanton haftet subsidiär für die Verbindlichkeiten der Universität.
 
 **Bauten a. Grundsatz**
 
-§ 39 a.[^hBMittelderUniver-1] <sup>1</sup> Der Kanton stellt der Universität die Bauten gegen Verrechnung der Kapitalkosten zur Verfügung.
+§ 39 a.[^hBMittelderUniver-2] <sup>1</sup> Der Kanton stellt der Universität die Bauten gegen Verrechnung der Kapitalkosten zur Verfügung.
 
 <sup>2</sup> Der Regierungsrat schliesst mit der Universität eine Vereinbarung über die Anforderungen an die universitären Bauten ab. Die Vereinbarung bedarf der Genehmigung des Kantonsrates.
 
 **b. Planung und Erstellung**
 
-§ 39 b.[^hBMittelderUniver-1] <sup>1</sup> Die Universität erstellt eine langfristige Investitionsplanung.
+§ 39 b.[^hBMittelderUniver-2] <sup>1</sup> Die Universität erstellt eine langfristige Investitionsplanung.
 
 <sup>2</sup> Sie beauftragt in der Regel den Kanton mit der Erstellung von Neu-, Um- und Erweiterungsbauten. Sie schliesst mit dem Kanton eine Vereinbarung über die Zusammenarbeit ab.
 
 **c. Verordnung**
 
-§ 39 c.[^hBMittelderUniver-1] Der Regierungsrat erlässt eine Verordnung über die Grundzüge der Investitionsplanung und der Vereinbarungen sowie über das Verfahren. Die Verordnung bedarf der Genehmigung des Kantonsrates.
+§ 39 c.[^hBMittelderUniver-2] Der Regierungsrat erlässt eine Verordnung über die Grundzüge der Investitionsplanung und der Vereinbarungen sowie über das Verfahren. Die Verordnung bedarf der Genehmigung des Kantonsrates.
 
-[^hBMittelderUniver-1]: Eingefügt durch G vom 14. September 2015 (OS 74, 96; ABl 2014-09-19). In Kraft seit 1. Januar 2019 (ABl 2019-02-01).
+[^hBMittelderUniver-1]: Fassung gemäss G vom 14. September 2015 (OS 74, 96; ABl 2014-09-19). In Kraft seit 1. Januar 2019 (ABl 2019-02-01).
+[^hBMittelderUniver-2]: Eingefügt durch G vom 14. September 2015 (OS 74, 96; ABl 2014-09-19). In Kraft seit 1. Januar 2019 (ABl 2019-02-01).
 
 #### § 40
 
@@ -723,6 +745,10 @@ Persönlichkeiten aus Wissenschaft, Kultur, Wirtschaft und Politik.
 <sup>1</sup> Der Universitätsrat setzt Immatrikulations-, Semester- und Prüfungsgebühren fest. Diese tragen zur Deckung der Kosten bei. Sie sind unter Berücksichtigung der an den anderen schweizerischen Universitäten geltenden Ansätze und unter der Wahrung des gleichen Zugangs aller Personen mit der nötigen Vorbildung zur Universität zu bemessen.
 
 <sup>2</sup> Für Studierende, welche die durch den Universitätsrat festgesetzte Studiendauer ohne wichtigen Grund überschreiten, können die Studiengebühren höchstens bis zu den anrechenbaren Nettokosten erhöht werden.
+
+**17**
+
+- 1\. 7. 25 - 129
 
 <sup>3</sup> Für besondere Kurse und Veranstaltungen können von den Studierenden spezielle Gebühren erhoben werden.
 
@@ -750,15 +776,15 @@ Persönlichkeiten aus Wissenschaft, Kultur, Wirtschaft und Politik.
 
 <sup>2</sup> Die Gebühren dürfen die anrechenbaren Nettokosten nicht übersteigen.
 
-**17**
+[^42-1]: Eingefügt durch G vom 24. März 2003 (OS 58, 161; ABl 2002, 1100). In Kraft seit 1. September 2003 (OS 58, 192).
 
-- 1\. 1. 24 - 123 § 43. <sup>1</sup> Die Universitätsleitung setzt angemessene Gebühren für die Benutzung von Einrichtungen und Räumlichkeiten der Universität fest.
+#### § 43
 
 **Benutzungsgebühren**
 
-<sup>2</sup> Die Höhe der Gebühren kann nach dem Benutzungszweck abgestuft werden. Für wissenschaftliche, kulturelle und ähnliche Veranstaltungen ist eine Reduktion oder ein Erlass der Gebühren vorzusehen.
+<sup>1</sup> Die Universitätsleitung setzt angemessene Gebühren für die Benutzung von Einrichtungen und Räumlichkeiten der Universität fest.
 
-[^42-1]: Eingefügt durch G vom 24. März 2003 (OS 58, 161; ABl 2002, 1100). In Kraft seit 1. September 2003 (OS 58, 192).
+<sup>2</sup> Die Höhe der Gebühren kann nach dem Benutzungszweck abgestuft werden. Für wissenschaftliche, kulturelle und ähnliche Veranstaltungen ist eine Reduktion oder ein Erlass der Gebühren vorzusehen.
 
 ### C. Finanzhaushalt und Rechnungsführung
 
@@ -814,6 +840,10 @@ Die Universität führt eine Kostenrechnung.
 
 § 49. <sup>1</sup> Bis zum Erlass neuer Regelungen gelten die bisherigen Verordnungen und Reglemente weiter.
 
+**19**
+
+- 1\. 7. 25 - 129
+
 <sup>2</sup> Verfahren, welche im Zeitpunkt des Inkrafttretens dieses Gesetzes bei einer nach neuem Recht unzuständigen Behörde hängig sind, werden noch von dieser erledigt. Der Rechtsmittelweg richtet sich nach neuem Recht.
 
 #### § 50
@@ -848,10 +878,6 @@ Dieses Gesetz untersteht der Volksabstimmung. Der Regierungsrat bestimmt den Zei
 
 Bis zum Inkrafttreten des Gesetzes über Controlling und Rechnungslegung vom 9. Januar 2006 gelten die Vorschriften des Finanzhaushaltsgesetzes vom 2. September 1979 und die Ausführungserlasse des Regierungsrates zu diesem Gesetz.
 
-<sup>30</sup> Fassung gemäss G vom 14. September 2015 (OS 74, 96; ABl 2014-09-19). In Kraft seit 1. Januar 2019 (ABl 2019-02-01).
-
-<sup>31</sup> Fassung gemäss G vom 26. November 2018 (OS 74, 377; ABl 2018-06-01). In Kraft seit 1. August 2019.
-
 <sup>32</sup> Eingefügt durch G vom 2. September 2019 (OS 75, 122; ABl 2018-06-15). In Kraft seit 1. April 2020.
 
 <sup>33</sup> Fassung gemäss G vom 2. September 2019 (OS 75, 122; ABl 2018-06-15). In Kraft seit 1. April 2020.
@@ -866,9 +892,7 @@ Bis zum Inkrafttreten des Gesetzes über Controlling und Rechnungslegung vom 9. 
 
 <sup>38</sup> Eingefügt durch G über das Universitätsspital Zürich vom 3. April 2023 (OS 78, 491; ABl 2022-06-03). In Kraft seit 1. Januar 2024.
 
-**21**
-
-- 1\. 1. 24 - 123
+<sup>39</sup> Eingefügt durch G vom 16. September 2024 (OS 80, 145; ABl 2022-10-21). In Kraft seit 1. Juli 2025.
 
 ## Weitere Fussnoten
 
