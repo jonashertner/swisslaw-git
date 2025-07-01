@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Ordonnance du 16 mars 2022 instituant des mesures à l’encontre du Bélarus
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: fr
-version: 2025-06-01
+version: 2025-07-02
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-2022-172-20250601-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20250601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20250702/fr/xml/fedlex-data-admin-ch-eli-cc-2022-172-20250702-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20250702/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Bélarus
 
-du 16 mars 2022 (État le 1<sup>er</sup> juin 2025)
+du 16 mars 2022 (État le 2 juillet 2025)
 
 Le Conseil fédéral suisse,
 
@@ -740,26 +740,29 @@ Il est interdit, pour les personnes et organismes qui fournissent à titre profe
 - b. à des personnes physiques résidant au Bélarus;
 - c. à des personnes morales, entreprises ou entités établies au Bélarus.[^18-2]
 
-<sup>2</sup> Les interdictions prévues aux al. 1 à 1<sup>ter</sup> ne s’appliquent ni aux ressortissants suisses, ni aux ressortissants d’un État membre de l’EEE ou du Royaume-Uni, ni aux personnes physiques titulaires d’un titre de séjour temporaire ou permanent en Suisse, dans un État membre de l’EEE ou au Royaume-Uni.[^18-3]
+<sup>1ter</sup> Il est interdit aux ressortissants bélarussiens et aux personnes physiques résidant au Bélarus d’acquérir directement ou indirectement une personne morale, une entité ou un organisme établi ou constitué selon le droit suisse ou le droit d’un État membre de l’EEE et fournissant les services visés à l’al. 1<sup>bis</sup>, d’en prendre le contrôle direct ou indirect ou d’exercer une nouvelle fonction au sein de ses organes directeurs.[^18-3]
+
+<sup>2</sup> Les interdictions prévues aux al. 1 à 1<sup>ter</sup> ne s’appliquent ni aux ressortissants suisses, ni aux ressortissants d’un État membre de l’EEE ou du Royaume-Uni, ni aux personnes physiques titulaires d’un titre de séjour temporaire ou permanent en Suisse, dans un État membre de l’EEE ou au Royaume-Uni.[^18-4]
 
 <sup>3</sup>
 
-Le SECO peut, après avoir consulté les services compétents du DFAE et du DFF, autoriser des dérogations aux interdictions visées aux al. 1 et 1<sup>bis</sup> si le dépôt ou la fourniture d’un service en lien avec un portefeuille de cryptoactifs, un compte en cryptoactifs et la conservation de cryptoactifs est nécessaire:[^18-4]
+Le SECO peut, après avoir consulté les services compétents du DFAE et du DFF, autoriser des dérogations aux interdictions visées aux al. 1 et 1<sup>bis</sup> si le dépôt ou la fourniture d’un service en lien avec un portefeuille de cryptoactifs, un compte en cryptoactifs et la conservation de cryptoactifs est nécessaire:[^18-5]
 
 - a. à la prévention des cas de rigueur;
 - b. à des fins humanitaires ou à des fins d’évacuation;
 - c. à des activités de la société civile qui promeuvent directement la démocratie, les droits de l’homme ou l’état de droit au Bélarus;
 - d. à l’exercice des activités officielles de représentations diplomatiques ou consulaires ou d’organisations internationales;
 - e. à la sauvegarde d’intérêts suisses;
-- f.[^18-5] au paiement de commissions ou de frais correspondant à la garde ou à la gestion courante d’avoirs ou de ressources économiques gelés, ou
-- g.[^18-6] aux échanges transfrontières non soumis à interdiction de biens et de services entre la Suisse et le Bélarus, entre la Suisse et l’EEE ou entre l’EEE et le Bélarus.
+- f.[^18-6] au paiement de commissions ou de frais correspondant à la garde ou à la gestion courante d’avoirs ou de ressources économiques gelés, ou
+- g.[^18-7] aux échanges transfrontières non soumis à interdiction de biens et de services entre la Suisse et le Bélarus, entre la Suisse et l’EEE ou entre l’EEE et le Bélarus.
 
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 14 mai 2025, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
 [^18-2]: Introduit par le ch. I de l’O du 14 mai 2025, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
-[^18-3]: Nouvelle teneur selon le ch. I de l’O du 14 mai 2025, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
+[^18-3]: Introduit par le ch. I de l’O du 14 mai 2025, en vigueur depuis le 2 juil. 2025 ([RO 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
 [^18-4]: Nouvelle teneur selon le ch. I de l’O du 14 mai 2025, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
-[^18-5]: Introduite par le ch. I de l’O du 14 mai 2025, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
+[^18-5]: Nouvelle teneur selon le ch. I de l’O du 14 mai 2025, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
 [^18-6]: Introduite par le ch. I de l’O du 14 mai 2025, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
+[^18-7]: Introduite par le ch. I de l’O du 14 mai 2025, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
 
 #### Art. 19
 

@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Verordnung vom 16. März 2022 über Massnahmen gegenüber Belarus
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: de
-version: 2025-06-01
+version: 2025-07-02
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20250601/de/xml/fedlex-data-admin-ch-eli-cc-2022-172-20250601-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20250601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20250702/de/xml/fedlex-data-admin-ch-eli-cc-2022-172-20250702-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20250702/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Belarus
 
-vom 16. März 2022 (Stand am 1. Juni 2025)
+vom 16. März 2022 (Stand am 2. Juli 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -742,26 +742,29 @@ Personen und Einrichtungen, die gewerbsmässig Dienstleistungen im Zusammenhang 
 - b. in Belarus ansässige natürliche Personen;
 - c. in Belarus niedergelassene juristische Personen, Unternehmen oder Organisationen.[^18-2]
 
-<sup>2</sup> Die Verbote nach den Absätzen 1–1<sup>ter</sup> gelten nicht für Schweizer Staatsangehörige, Staatsangehörige eines EWR-Mitgliedstaats oder des Vereinigten Königreichs und natürliche Personen, die über einen befristeten oder unbefristeten Aufenthaltstitel der Schweiz, eines EWR-Mitgliedstaats oder des Vereinigten Königreichs verfügen.[^18-3]
+<sup>1ter</sup> Belarussischen Staatsangehörigen oder in Belarus ansässigen natürlichen Personen ist es verboten, direktes oder indirektes Eigentum an einer nach dem Recht der Schweiz oder eines EWR-Mitgliedstaats gegründeten oder eingetragenen juristischen Person, Organisation oder Einrichtung, die die in Absatz 1<sup>bis</sup> genannten Dienstleistungen erbringt, zu erwerben, die juristische Person, Organisation oder Einrichtung direkt oder indirekt neu zu kontrollieren oder eine neue Funktion in ihren Leitungsgremien auszuüben.[^18-3]
+
+<sup>2</sup> Die Verbote nach den Absätzen 1–1<sup>ter</sup> gelten nicht für Schweizer Staatsangehörige, Staatsangehörige eines EWR-Mitgliedstaats oder des Vereinigten Königreichs und natürliche Personen, die über einen befristeten oder unbefristeten Aufenthaltstitel der Schweiz, eines EWR-Mitgliedstaats oder des Vereinigten Königreichs verfügen.[^18-4]
 
 <sup>3</sup>
 
-Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten nach den Absätzen 1 und 1<sup>bis</sup> bewilligen für Einlagen oder die Erbringung von Dienstleistungen im Zusammenhang mit Kryptowallets, Kryptokonten oder der Verwahrung von kryptobasierten Vermögenswerten, die erforderlich sind:[^18-4]
+Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten nach den Absätzen 1 und 1<sup>bis</sup> bewilligen für Einlagen oder die Erbringung von Dienstleistungen im Zusammenhang mit Kryptowallets, Kryptokonten oder der Verwahrung von kryptobasierten Vermögenswerten, die erforderlich sind:[^18-5]
 
 - a. zur Vermeidung von Härtefällen;
 - b. zu humanitären Zwecken oder zu Evakuierungszwecken;
 - c. für zivilgesellschaftliche Aktivitäten, welche die Demokratie, die Menschenrechte oder die Rechtsstaatlichkeit in Belarus unmittelbar fördern;
 - d. zur Erfüllung amtlicher Zwecke von diplomatischen oder konsularischen Vertretungen oder internationalen Organisationen;
 - e. zur Wahrung schweizerischer Interessen;
-- f.[^18-5] zur Bezahlung von Gebühren oder Kosten für die routinemässige Verwahrung oder Verwaltung eingefrorener Gelder oder wirtschaftlicher Ressourcen; oder
-- g.[^18-6] für den nicht verbotenen grenzüberschreitenden Handel mit Gütern und Dienstleistungen zwischen der Schweiz und Belarus, der Schweiz und dem EWR oder dem EWR und Belarus.
+- f.[^18-6] zur Bezahlung von Gebühren oder Kosten für die routinemässige Verwahrung oder Verwaltung eingefrorener Gelder oder wirtschaftlicher Ressourcen; oder
+- g.[^18-7] für den nicht verbotenen grenzüberschreitenden Handel mit Gütern und Dienstleistungen zwischen der Schweiz und Belarus, der Schweiz und dem EWR oder dem EWR und Belarus.
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
 [^18-2]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
-[^18-3]: Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
+[^18-3]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 2. Juli 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
 [^18-4]: Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
-[^18-5]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
+[^18-5]: Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
 [^18-6]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
+[^18-7]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
 
 #### Art. 19
 

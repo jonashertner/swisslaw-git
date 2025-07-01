@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Ordinanza del 16 marzo 2022 che istituisce provvedimenti nei confronti della Bielorussia
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: it
-version: 2025-06-01
+version: 2025-07-02
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20250601/it/xml/fedlex-data-admin-ch-eli-cc-2022-172-20250601-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20250601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20250702/it/xml/fedlex-data-admin-ch-eli-cc-2022-172-20250702-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20250702/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Bielorussia
 
-del 16 marzo 2022 (Stato 1° giugno 2025)
+del 16 marzo 2022 (Stato 2 luglio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -741,26 +741,29 @@ A persone e organismi che prestano a titolo professionale servizi di portafoglio
 - b. a persone fisiche residenti in Bielorussia;
 - c. a persone giuridiche, imprese od organizzazioni stabilite in Bielorussia.[^18-2]
 
-<sup>2</sup> I divieti di cui ai capoversi 1–1<sup>ter</sup> non si applicano ai cittadini svizzeri, ai cittadini di uno Stato membro dello SEE e ai cittadini del Regno Unito nonché alle persone fisiche titolari di un permesso di soggiorno temporaneo o permanente in Svizzera, in uno Stato membro dello SEE o nel Regno Unito.[^18-3]
+<sup>1ter</sup> A cittadini bielorussi o persone fisiche residenti in Bielorussia è vietato acquisire, direttamente o indirettamente, la proprietà o il controllo di una persona giuridica, un’organizzazione o un organismo costituito o registrato secondo il diritto svizzero o secondo il diritto di uno Stato membro dello SEE che fornisce servizi di cui al capoverso 1<sup>bis</sup> oppure assumere una carica nei loro organi direttivi.[^18-3]
+
+<sup>2</sup> I divieti di cui ai capoversi 1–1<sup>ter</sup> non si applicano ai cittadini svizzeri, ai cittadini di uno Stato membro dello SEE e ai cittadini del Regno Unito nonché alle persone fisiche titolari di un permesso di soggiorno temporaneo o permanente in Svizzera, in uno Stato membro dello SEE o nel Regno Unito.[^18-4]
 
 <sup>3</sup>
 
-D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare deroghe ai divieti di cui ai capoversi 1 e 1<sup>bis</sup> se il deposito o la fornitura del servizio di portafoglio, conti o custodia di valori patrimoniali basati su criptovalute sono necessari per:[^18-4]
+D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare deroghe ai divieti di cui ai capoversi 1 e 1<sup>bis</sup> se il deposito o la fornitura del servizio di portafoglio, conti o custodia di valori patrimoniali basati su criptovalute sono necessari per:[^18-5]
 
 - a. prevenire casi di rigore;
 - b. scopi umanitari o scopi di evacuazione;
 - c. attività della società civile che promuovono direttamente la democrazia, i diritti umani o lo Stato di diritto in Bielorussia;
 - d. adempiere gli scopi ufficiali di rappresentanze diplomatiche o consolari o di organizzazioni internazionali;
 - e. tutelare gli interessi svizzeri;
-- f.[^18-5] il pagamento di diritti o di spese connessi alla normale gestione o alla custodia degli averi o delle risorse economiche congelati; oppure
-- g.[^18-6] gli scambi transfrontalieri non vietati di beni e servizi tra la Svizzera e la Bielorussia, tra la Svizzera e lo SEE o tra lo SEE e la Bielorussia.
+- f.[^18-6] il pagamento di diritti o di spese connessi alla normale gestione o alla custodia degli averi o delle risorse economiche congelati; oppure
+- g.[^18-7] gli scambi transfrontalieri non vietati di beni e servizi tra la Svizzera e la Bielorussia, tra la Svizzera e lo SEE o tra lo SEE e la Bielorussia.
 
 [^18-1]: Nuovo testo giusta la cifra I dell’O del 14 mag. 2025, in vigore dal 1° giu. 2025 ([RU 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
 [^18-2]: Introdotto dalla cifra I dell’O del 14 mag. 2025, in vigore dal 1° giu. 2025 ([RU 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
-[^18-3]: Nuovo testo giusta la cifra I dell’O del 14 mag. 2025, in vigore dal 1° giu. 2025 ([RU 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
+[^18-3]: Introdotto dalla cifra I dell’O del 14 mag. 2025, in vigore dal 2 lug. 2025 ([RU 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
 [^18-4]: Nuovo testo giusta la cifra I dell’O del 14 mag. 2025, in vigore dal 1° giu. 2025 ([RU 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
-[^18-5]: Introdotta dalla cifra I dell’O del 14 mag. 2025, in vigore dal 1° giu. 2025 ([RU 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
+[^18-5]: Nuovo testo giusta la cifra I dell’O del 14 mag. 2025, in vigore dal 1° giu. 2025 ([RU 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
 [^18-6]: Introdotta dalla cifra I dell’O del 14 mag. 2025, in vigore dal 1° giu. 2025 ([RU 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
+[^18-7]: Introdotta dalla cifra I dell’O del 14 mag. 2025, in vigore dal 1° giu. 2025 ([RU 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
 
 #### Art. 19
 
