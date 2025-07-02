@@ -3,11 +3,11 @@ sr: "0.747.224.011"
 title: "Übereinkommen vom 9. September 1996 über die Sammlung, Abgabe und Annahme von Abfällen in der Rhein- und Binnenschifffahrt (mit Anlagen)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/630"
 language: de
-version: 2025-01-01
+version: 2025-07-03
 adopted: 1996-09-09
 in_force: 2009-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2009-630-20250101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/630/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20250703/de/xml/fedlex-data-admin-ch-eli-cc-2009-630-20250703-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/630/20250703/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Originaltext
 
 Abgeschlossen in Strassburg am 9. September 1996 Von der Bundesversammlung genehmigt am 19. Dezember 1997[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 16. Juli 1998 In Kraft getreten für die Schweiz am 1. November 2009
 
-(Stand am 1. Januar 2025)
+(Stand am 3. Juli 2025)
 
 [^t-1]: [AS 2009 5291](https://fedlex.data.admin.ch/eli/oc/2009/629)
 
@@ -38,7 +38,7 @@ in dem Wunsch, dass weitere Staaten, deren Binnenwasserstrassen mit denen der Ve
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.631.253.224.1](https://fedlex.data.admin.ch/eli/cc/1959/1101_1139_1135)
+[^ingress-1]: [SR 0.631.253.224.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2194)
 
 ## Allgemeine Bestimmungen
 
@@ -373,7 +373,7 @@ Anlage 2[^t-3]
 
 ## Anwendungsbestimmung
 
-[^t-3]: Bereinigt gemäss Beschluss vom 8. Juni 2010 ([AS 2010 6379](https://fedlex.data.admin.ch/eli/oc/2010/893)), der von den Konferenzen der Vertragsparteien 2011–2022 verabschiedeten Beschlüsse ([AS 2024 295](https://fedlex.data.admin.ch/eli/oc/2024/295)), gemäss den Beschlüssen vom 21. Juni 2023 ([AS 2023 619](https://fedlex.data.admin.ch/eli/oc/2023/619)), vom 12. Dez. 2024 ([AS 2025 38](https://fedlex.data.admin.ch/eli/oc/2025/38)) und vom 27. Juni 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 556](https://fedlex.data.admin.ch/eli/oc/2024/556)).
+[^t-3]: Bereinigt gemäss Beschluss vom 8. Juni 2010 ([AS 2010 6379](https://fedlex.data.admin.ch/eli/oc/2010/893)), der von den Konferenzen der Vertragsparteien 2011–2022 verabschiedeten Beschlüsse ([AS 2024 295](https://fedlex.data.admin.ch/eli/oc/2024/295)), gemäss den Beschlüssen vom 21. Juni 2023 ([AS 2023 619](https://fedlex.data.admin.ch/eli/oc/2023/619)), vom 12. Dez. 2024 ([AS 2025 38](https://fedlex.data.admin.ch/eli/oc/2025/38)), vom 27. Juni 2024 ([AS 2024 556](https://fedlex.data.admin.ch/eli/oc/2024/556)) und vom 3. Juli 2025, in Kraft seit 3. Juli 2025 ([AS 2025 588](https://fedlex.data.admin.ch/eli/oc/2025/588)).
 
 <table>
 <tr><td>Teil A</td><td>Sammlung, Abgabe und Annahme von öl- und fetthaltigen Schiffsbetriebsabfällen</td></tr>
@@ -577,7 +577,7 @@ Die innerstaatlichen Institutionen melden dem Sekretariat der Internationalen Au
 
 <sup>(1)</sup> Der Finanzausgleich nach den Artikeln 4.02 und 4.03 wird für jede innerstaatliche Institution wie folgt ermittelt:
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20250101/de/xml/image/image1.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20250703/de/xml/image/image1.png)</sub>
 
 Darin bedeutet:
 
@@ -603,7 +603,7 @@ erreicht wird, sowie die Beseitigung der Umschlagsrückstände und von Verpackun
 
 Im Sinne dieses Teiles bedeutet der Ausdruck:
 
-- a) «Einheitstransporte»: Transporte, bei denen im Laderaum oder Ladetank des Fahrzeugs ununterbrochen nachweislich das gleiche Ladegut oder ein anderes Ladegut, dessen Beförderung keine vorherige Reinigung des Laderaums oder des Ladetanks erfordert, befördert wird;
+- a) «Einheitstransporte»: Transporte, bei denen während aufeinanderfolgender Fahrten im Laderaum oder Ladetank des Fahrzeugs nachweislich das gleiche Ladegut, dessen Beförderung kein vorheriges Reinigen oder Entgasen des Laderaums oder des Ladetanks erfordert, befördert wird;
 - aa) «kompatible Transporte»: Transporte, bei denen während aufeinanderfolgender Fahrten im Laderaum oder Ladetank des Fahrzeugs nachweislich ein Ladegut befördert wird, dessen Beförderung kein vorheriges Waschen oder Entgasen des Laderaums oder des Ladetanks erfordert;
 - b) «Restladung»: die flüssige Ladung, die nach dem Löschen ohne Einsatz eines Nachlenzsystems im Ladetank und im Leitungssystem verbleibt, sowie Trockenladung, die nach dem Löschen ohne den Einsatz von Besen, Kehrmaschinen oder Vakuumreinigern im Laderaum verbleibt;
 - c) «Ladungsrückstände»: die flüssige Ladung, die nicht durch das Nachlenzsystem aus dem Ladetank und dem Leitungssystem entfernt werden kann, sowie trockene Ladung, die nicht durch den Einsatz von Kehrmaschinen, Besen oder Vakuumreinigern aus dem Laderaum entfernt werden kann;
@@ -659,7 +659,7 @@ Teil B findet unbeschadet:
 
 Fahrzeuge, für die schriftlich nachgewiesen werden kann, dass sie ausserhalb des Geltungsbereichs des CDNI vorschriftsgemäss entgast haben, gelten als entgaste Schiffe im Sinne dieser Verordnung, sofern die Werte des Anhangs III*a* eingehalten werden. Die Konferenz der Vertragsparteien benennt neben der Richtlinie 94/63/EG und dem ADN die Vorschriften, die sie hinsichtlich der Entgasungsbestimmungen als gleichwertig anerkennt.
 
-[^annexu1-lvlu1-chapV-504-1]: [SR 0.747.208](https://fedlex.data.admin.ch/eli/cc/2011/153)
+[^annexu1-lvlu1-chapV-504-1]: [SR 0.747.208](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3024)
 
 ### Kapitel VI Verpflichtungen des Schiffsführers
 
@@ -691,7 +691,7 @@ Die Konferenz der Vertragsparteien prüft diesen Vorschlag und nimmt gegebenenfa
 
 <sup>(5)</sup> Abweichend vom Verbot nach Absatz 1 dürfen Dämpfe freigesetzt werden, wenn dies durch einen unerwarteten Werftaufenthalt oder eine unerwartete Vor-Ort-Reparatur durch eine Werft oder eine andere Fachfirma erforderlich wird und die Dämpfe nicht einer Annahmestelle zugeführt werden können. Hierbei sind die Bestimmungen des Anhangs III*a* A 4 und des Unterabschnitts 7.2.3.7 des ADN[^annexu1-lvlu1-chapVI-601-1] zu beachten.
 
-[^annexu1-lvlu1-chapVI-601-1]: [SR 0.747.208](https://fedlex.data.admin.ch/eli/cc/2011/153)
+[^annexu1-lvlu1-chapVI-601-1]: [SR 0.747.208](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3024)
 
 #### Art. 6.02
 
