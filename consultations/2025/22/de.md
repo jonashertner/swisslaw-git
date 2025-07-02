@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revision Verordnung über die Reduktion der CO2-Emissionen (CO2-Verordnung) per 1. Januar 2026
 document: Vernehmlassungsvorlage
 language: de

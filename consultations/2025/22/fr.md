@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision de l’ordonnance sur la réduction des émissions de CO2 (ordonnance sur le CO2) avec entrée en vigueur le 1er janvier 2026
 document: Projet mis en consultation
 language: fr

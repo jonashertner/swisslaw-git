@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica dell’ordinanza sulla riduzione delle emissioni di CO2 (ordinanza sul CO2) al 1° gennaio 2026
 document: Progetto posto in consultazione
 language: it
