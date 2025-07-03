@@ -4,13 +4,13 @@ number: "44.11"
 title: Reglement über die Stipendien und Studiendarlehen
 short: StiR
 language: de
-version: 2016-09-01
-valid_until: 2025-07-03
-version_adopted: 2016-09-12
+version: 2025-07-04
+valid_until: 2025-08-18
+version_adopted: 2025-07-04
 adopted: 2008-07-08
 in_force: 2008-09-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/44.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6260/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8233/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Stipendien und Studiendarlehen – R
 
 (StiR)
 
-vom 08.07.2008 (Fassung in Kraft getreten am 01.09.2016)
+vom 08.07.2008 (Fassung in Kraft getreten am 04.07.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -240,11 +240,11 @@ beschliesst:
 
 <sup>3</sup> Übersteigt das gesamte Reineinkommen 150'000 Franken (Code 4.910 der Steuerveranlagung), so wird kein Stipendium gewährt.
 
-<sup>4</sup> Die Einkommen anderer unterhaltspflichtiger Personen (Art. 16 Abs. 4) werden nur zu 65 % berücksichtigt.
+<sup>4</sup> Die Einkommen anderer unterhaltspflichtiger Personen (Art. 16 Abs. 4) werden nur zu 70 % berücksichtigt.
 
 <sup>5</sup> Liegt keine Steuerveranlagung vor, so werden die finanziellen Möglichkeiten auf der Grundlage der letzten Lohnausweise oder anderer Einkommensausweise und der Vermögensbescheinigungen berechnet. Die Ergebnisse der endgültigen Steuerveranlagung bleiben vorbehalten.
 
-<sup>6</sup> Sind die Eltern oder andere unterhaltspflichtige Personen der Quellensteuer unterstellt, so dient der Quellensteuerausweis des dem Ausbildungsjahr vorangehenden Jahres als Grundlage für die Ermittlung der finanziellen Möglichkeiten. Von den Bruttoeinkommen werden 65 % angerechnet.
+<sup>6</sup> Sind die Eltern oder andere unterhaltspflichtige Personen der Quellensteuer unterstellt, so dient der Quellensteuerausweis des dem Ausbildungsjahr vorangehenden Jahres als Grundlage für die Berechnung der finanziellen Möglichkeiten. Von den Bruttoeinkommen werden 70 % angerechnet.
 
 <sup>7</sup> Ändert sich die finanzielle Situation der Eltern oder anderer unterhaltspflichtiger Personen erheblich und dauerhaft, so können die finanziellen Möglichkeiten auf der Grundlage des gegenwärtigen Einkommens ermittelt werden. Der Vermögensertrag wird anhand der Steuerveranlagung berechnet.
 
@@ -322,7 +322,7 @@ beschliesst:
 - b) allfälligen Renten und Versicherungsleistungen, abzüglich 10 %; wohnt jedoch die Person in Ausbildung bei ihren Eltern, so werden diese Beträge zum anrechenbaren Einkommen der Eltern hinzugerechnet;
 - c) allfälligen Unterhaltsbeiträgen und Ergänzungsleistungen; wohnt die Person in Ausbildung jedoch bei ihren Eltern, so werden diese Beträge zum anrechenbaren Einkommen der Eltern hinzugerechnet;
 - d) einer minimalen Beteiligung von 2000 Franken für Personen in Ausbildung auf Sekundarstufe II und von 3000 Franken für Personen in Ausbildung auf Tertiärstufe; übersteigt das Einkommen das Doppelte der minimalen Beteiligung, so werden 65 % des Einkommensüberschusses angerechnet und zur minimalen Beteiligung hinzugefügt; die zumutbare minimale Beteiligung der Personen, die eine Ausbildung in Teilzeit oder in Modulen absolvieren, kann angepasst werden;
-- e) 65 % der Bruttoeinkommen der Ehegattin oder des Ehegatten oder der eingetragenen Partnerin oder des eingetragenen Partners.
+- e) 70 % der Bruttoeinkommen der Ehegattin oder des Ehegatten oder der eingetragenen Partnerin oder des eingetragenen Partners.
 
 #### Art. 27
 

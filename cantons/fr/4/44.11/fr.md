@@ -4,13 +4,13 @@ number: "44.11"
 title: "Règlement sur les bourses et les prêts d'études"
 short: RBPE
 language: fr
-version: 2016-09-01
-valid_until: 2025-07-03
-version_adopted: 2016-09-12
+version: 2025-07-04
+valid_until: 2025-08-18
+version_adopted: 2025-07-04
 adopted: 2008-07-08
 in_force: 2008-09-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/44.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6260/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8233/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Bourses et prêts d'études – R
 
 (RBPE)
 
-du 08.07.2008 (version entrée en vigueur le 01.09.2016)
+du 08.07.2008 (version entrée en vigueur le 04.07.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -240,11 +240,11 @@ Arrête:
 
 <sup>3</sup> Au-delà d'un revenu net de 150'000 francs (code 4.910 de l'avis de taxation), aucune bourse n'est accordée.
 
-<sup>4</sup> Les revenus des autres personnes (art. 16 al. 4) légalement tenues à l'entretien de la personne en formation ne sont retenus qu'à raison de 65 %.
+<sup>4</sup> Les revenus des autres personnes (art. 16 al. 4) légalement tenues à l'entretien de la personne en formation ne sont retenus qu'à raison de 70 %.
 
 <sup>5</sup> Si l'avis de taxation n'est pas établi, les possibilités financières sont calculées sur la base des derniers certificats de salaires ou d'autres revenus et des attestations de fortune. Les résultats de la taxation définitive sont réservés.
 
-<sup>6</sup> Pour les parents ou les autres personnes légalement tenues à l'entretien de la personne en formation soumis à l'impôt à la source, le justificatif de l'impôt à la source de l'année qui précède l'année de formation sert de base pour le calcul des possibilités financières. Les revenus bruts sont retenus à raison de 65 %.
+<sup>6</sup> Pour les parents ou les autres personnes légalement tenues à l'entretien de la personne en formation soumis à l'impôt à la source, le justificatif de l'impôt à la source de l'année qui précède l'année de formation sert de base pour le calcul des possibilités financières. Les revenus bruts sont retenus à raison de 70 %.
 
 <sup>7</sup> Lorsqu'un changement majeur et durable survient dans la situation financière des parents ou des autres personnes légalement tenues à l'entretien de la personne en formation, les possibilités financières peuvent être calculées sur la base des revenus actuels. Le produit de la fortune est calculé sur la base de l'avis de taxation.
 
@@ -322,7 +322,7 @@ Arrête:
 - b) les éventuelles rentes et prestations d'assurances, avec une déduction de 10 %. Toutefois, si la personne en formation loge chez ses parents, ces montants sont ajoutés au revenu déterminant des parents;
 - c) les éventuelles pensions alimentaires et prestations complémentaires. Toutefois, si la personne en formation loge chez ses parents, ces montants sont ajoutés au revenu déterminant des parents;
 - d) une participation minimale de 2000 francs pour les personnes en formation secondaire du deuxième degré et de 3000 francs pour les personnes en formation de degré tertiaire. En cas d'un revenu dépassant le double de la participation minimale, 65 % du montant excédentaire sont retenus et ajoutés à la participation minimale. La participation minimale exigible des personnes qui effectuent une formation à temps partiel ou par modules peut être adaptée;
-- e) le cas échéant, les revenus bruts du conjoint ou de la conjointe ou du ou de la partenaire enregistré-e à raison de 65 %.
+- e) le cas échéant, les revenus bruts du conjoint ou de la conjointe ou du ou de la partenaire enregistré-e à raison de 70 %.
 
 #### Art. 27
 
