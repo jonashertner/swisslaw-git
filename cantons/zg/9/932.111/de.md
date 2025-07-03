@@ -1,22 +1,22 @@
 ---
 canton: ZG
 number: "932.111"
-title: Jagdbetriebsvorschriften 2024/2025
+title: Jagdbetriebsvorschriften 2025/2026
 language: de
-version: 2024-06-28
-valid_until: 2025-07-03
-version_adopted: 2024-06-24
+version: 2025-07-04
+valid_until: 2026-07-02
+version_adopted: 2025-06-30
 adopted: 2020-05-27
 in_force: 2020-05-30
 url: "https://bgs.zg.ch/app/de/texts_of_law/932.111"
-pdf: "https://bgs.zg.ch/api/de/versions/2584/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2702/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Jagdbetriebsvorschriften 2024/2025
+# Jagdbetriebsvorschriften 2025/2026
 
-Vom 27. Mai 2020 (Stand 28. Juni 2024)
+Vom 27. Mai 2020 (Stand 4. Juli 2025)
 
 Die Direktion des Innern des Kantons Zug,
 
@@ -34,7 +34,7 @@ beschliesst:
 
 <sup>1</sup> Die Jagdbetriebsvorschriften sorgen für einen ordnungsgemässen Jagdbetrieb und die nachhaltige Nutzung der Wildbestände im Jagdjahr.
 
-<sup>2</sup> Das Jagdjahr dauert vom 1. April 2024 bis zum 31. März 2025.
+<sup>2</sup> Das Jagdjahr dauert vom 1. April 2025 bis zum 31. März 2026.
 
 ## II. Patenterteilung
 
@@ -42,11 +42,11 @@ beschliesst:
 
 **Patentgesuche**
 
-<sup>1</sup> Die Anmeldung zur Jagd erfolgt mit dem offiziellen Gesuchsformular des Amts für Wald und Wild. Gesuche müssen bis spätestens Freitag, 16. August 2024 dem Amt für Wald und Wild vorliegen. Später eingereichte Gesuche können nur in schriftlich begründeten Ausnahmefällen berücksichtigt werden.
+<sup>1</sup> Die Anmeldung zur Jagd erfolgt mit dem offiziellen Gesuchsformular des Amts für Wald und Wild. Gesuche müssen bis spätestens Freitag, 15. August 2025 dem Amt für Wald und Wild vorliegen. Später eingereichte Gesuche können nur in schriftlich begründeten Ausnahmefällen berücksichtigt werden.
 
 <sup>2</sup> Erstgesuche für Gastkarten mit Waffe müssen spätestens drei Arbeitstage vor dem betreffenden Jagdtag eingehen. Für die Hochwildjagd sowie die Passjagd werden keine Gastkarten ausgestellt.
 
-<sup>3</sup> Folgekarten, Gastkarten ohne Waffe sowie Saisonkarten sind bis 16.00 Uhr des Vortags (Montag bis Freitag) beim Amt für Wald und Wild zu bestellen oder können jederzeit online unter [https://zg.ch/jagd](https://zg.ch/jagd) gelöst und direkt ausgedruckt werden.
+<sup>3</sup> Folgekarten und Gastkarten ohne Waffe können jederzeit beim Amt für Wald und Wild online unter [zg.ch/jagd](https://zg.ch/jagd) gelöst und direkt ausgedruckt werden.
 
 #### § 3
 
@@ -62,27 +62,27 @@ beschliesst:
 
 **Hochwildjagd**
 
-<sup>1</sup> Die Jagdausübung auf Rot- und Schwarzwild ist während der Jagdzeit jeweils am Montag, Dienstag, Mittwoch und Samstag erlaubt. Die Jagdzeit dauert vom 1. September 2024 bis und mit 23. September 2024.
+<sup>1</sup> Die Jagdausübung auf Rot-, Gams- und Schwarzwild ist während der Jagdzeit jeweils am Montag, Dienstag, Mittwoch und Samstag erlaubt. Die Jagdzeit dauert vom 1. September 2025 bis und mit 22. September 2025.
 
-<sup>1a</sup> Die Jagdausübung auf Gamswild ist während der Jagdzeit jeweils von Montag bis Samstag erlaubt. Die Jagdzeit dauert vom 1. September 2024 bis und mit 30. September 2024.
+<sup>1a</sup> …
 
-<sup>2</sup> Jagdbare Arten sind Rot-, Dam-, Schwarz- und Gamswild.
+<sup>2</sup> Jagdbare Arten sind Rot-, Dam-, Schwarz- und Gamswild sowie Waschbär und Marderhund.
 
 <sup>3</sup> Bei der Jagd auf Rotwild gelten folgende Vorschriften:
 
-- a) Jagdbar sind geweihtragende Hirsche, Schmaltiere (weibliche Tiere im zweiten Lebensjahr) und nicht laktierende Hirschkühe. Besenderte Tiere, erkennbar an gelben oder roten Ohrmarken und weissem Halsband, dienen einer wissenschaftlichen Studie und sind zu schonen. Der Abschuss eines besenderten Tieres gilt als Irrtumsabschuss.
-- b) Ab dem 16. September 2024 sind zusätzlich Kälber sowie Kalb-Kuhpaare jagdbar (vor dem Abschuss säugender Hirschkühe wird deren Kalb erlegt). Kalb-Kuhpaare müssen am selben Jagdtag erlegt werden.
-- c) Die Bestandesreduktion gilt als ausreichend, wenn mindestens 24 Stück Rotwild erlegt sind. Zur Erreichung des Reduktionsziels oder zur Verbesserung des Geschlechterverhältnisses kann das Amt für Wald und Wild den 24. und 25. September 2024 via Internetseite des Amts für Wald und Wild ([https://zg.ch/jagd](https://zg.ch/jagd)) als Zusatztage freigeben.
+- a) Jagdbar sind geweihtragende Hirsche, Schmaltiere (weibliche Tiere im zweiten Lebensjahr), nicht laktierende Hirschkühe, Kälber sowie Kalb-Kuhpaare (vor dem Abschuss säugender Hirschkühe muss deren Kalb erlegt werden). Kalb-Kuhpaare müssen am selben Jagdtag und im selben zusammenhängenden Jagdgebiet erlegt werden. Besenderte und/oder markierte Tiere, erkennbar an gelb/schwarzen Ohrmarken und gelb/schwarzem Halsband, dienen einer wissenschaftlichen Studie und sind zu schonen. Der Abschuss eines besenderten Tieres gilt als Irrtumsabschuss.
+- b) …
+- c) Die Bestandesreduktion gilt als ausreichend, wenn mindestens 30 Stück Rotwild erlegt sind. Zur Erreichung des Reduktionsziels oder zur Verbesserung des Geschlechterverhältnisses kann das Amt für Wald und Wild den 23. und 24. September 2025 via Internetseite des Amts für Wald und Wild ([zg.ch/jagd](https://zg.ch/jagd)) als Zusatztage freigeben.
 - d) …
-- d1) Zur Verbesserung des Geschlechterverhältnisses (mind. 1:1) der Gesamtstrecke (Stand 14. September 2024) kann das Amt für Wald und Wild für die restlichen Jagdtage geschlechter- und/oder altersspezifische Abschussvorgaben festlegen.
-- e) Zur Erreichung des Reduktionsziels des Rot- und/oder Gamswildes kann das Amt für Wald und Wild den 4. bis und mit 6. November 2024 als Sonderjagd auf Rot- und/oder Gamswild gemäss § 7 der Jagdverordnung[^4-1] freigeben. Die Modalitäten werden in einer Sonderbewilligung geregelt. Berechtigt für die Jagd auf Rotwild sind alle Jägerinnen und Jäger mit einem für die Jagdsaison gültigen Hochwildjagdpatent. Berechtigt für die Jagd auf Gamswild sind alle Jägerinnen und Jäger, welche für die Gamsjagd zugelassen sind.
+- d1) Zur Verbesserung des Geschlechterverhältnisses (mind. 1:1) der Gesamtstrecke (Stand 13. September 2025) kann das Amt für Wald und Wild für die restlichen Jagdtage geschlechter- und/oder altersspezifische Abschussvorgaben festlegen.
+- e) Zur Erreichung des Reduktionsziels des Rot- und/oder Gamswildes kann das Amt für Wald und Wild den 3. bis und mit 5. November 2025 als Sonderjagd auf Rot- und/oder Gamswild gemäss § 7 Jagdverordnung[^4-1] freigeben. Die Modalitäten werden in einer Sonderbewilligung geregelt. Berechtigt für die Jagd auf Rot- und/oder Gamswild sind alle Jägerinnen und Jäger mit einem für die Jagdsaison gültigen Hochwildjagdpatent. Für die Sonderjagd auf Gamswild gelten die Bestimmungen gemäss § 4 Abs. 4 Bst. a.
 
 <sup>4</sup> Bei der Jagd auf Gamswild gelten folgende Vorschriften:
 
-- a) Zur Gamsjagd zugelassen sind Patentjägerinnen und Patentjäger mit einem gültigen Hochwildjagdpatent, welche mindestens zum 10. Mal (inkl. das aktuelle Jahr) das Hochwildjagdpatent gelöst haben. Die Anmeldung hat bis am 30. Juni 2024 mit dem offiziellen Anmeldeformular oder telefonisch beim Sekretariat des Amts für Wald und Wild zu erfolgen. Das Anmeldeformular ist auf der Internetseite des Amts für Wald und Wild ([https://zg.ch/jagd](https://zg.ch/jagd)) aufgeschaltet.
-- b) Unter den Bewerbern werden für den Jagdbezirk 4 fünf Jägerinnen oder Jäger und für den Jagdbezirk 5 weitere acht Jägerinnen oder Jäger (Total 13) für die Gamsjagd beim Amt für Wald und Wild unter Aufsicht eines Mitglieds des Vorstands des Zuger Kantonalen Patentjägervereins am 1. Juli 2024 nach Jagdbezirk ausgelost. Das Los darf weder getauscht noch an Dritte weitergegeben werden. Die Losgewinnerinnen und Losgewinner sind verpflichtet, den allfälligen Abschuss selbst zu tätigen. Die Losgewinnerinnen und Losgewinner mit Jagderfolg dürfen an zukünftigen Verlosungen für die Jagd auf Gamswild nicht mehr teilnehmen.
-- c) Zum Abschuss freigegeben und verlost werden fünf Gämsen im Jagdbezirk 4 und acht Gämsen im Jagdbezirk 5. Laktierende Tiere sind zu schonen.
-- d) Jagdbar sind überjährige, nicht führende Geissen sowie überjährige Böcke bis zum sechsten Lebensjahr.
+- a) Zur Gamsjagd zugelassen sind Patentjägerinnen und Patentjäger mit einem gültigen Hochwildjagdpatent, welche mindestens zum 5. Mal (inkl. das aktuelle Jahr) das Hochwildjagdpatent gelöst haben. Pro Jägerin oder Jäger darf auf der laufenden Jagd maximal 1 Stück Gamswild erlegt werden.
+- b) …
+- c) Zum Abschuss freigegeben werden 20 Gämsen. Die Abschüsse haben gemäss der Jagdplanung nach den Vorgaben für die Jagdbezirke zu erfolgen. Laktierende Tiere sind zu schonen.
+- d) …
 - e) Als Jagdmethoden sind Ansitzjagd oder Pirsch zulässig.
 
 <sup>5</sup> Bei der Jagd auf Schwarzwild gilt folgende Vorschrift:
@@ -97,21 +97,21 @@ beschliesst:
 
 <sup>1</sup> Die Jagdausübung ist jeweils am Montag, Mittwoch und Samstag für folgende jagdbare Arten und Jagdzeiten erlaubt:
 
-- a) Rehwild im Oktober 2024 sowie am 2. und 9. November 2024, wobei laktierende Tiere zu schonen sind;
-- b) Schwarzwild von Oktober 2024 bis 31. Januar 2025, wobei laktierende Tiere zu schonen sind;
-- c) Dachs von Oktober 2024 bis 15. Januar 2025;
-- d) Fuchs, Baummarder, Steinmarder, Waschbär, Marderhund, Rabenkrähe, Saatkrähe, Elster, Eichelhäher, Ringeltaube, Türkentaube, verwilderte Haustaube von Oktober 2024 bis 15. Februar 2025;
-- e) Stockente, Reiherente, Tafelente, Blässhuhn, Kormoran, Nilgans und Rostgans von Oktober 2024 bis 31. Januar 2025.
+- a) Rehwild im Oktober 2025 sowie am 8. und 15. November 2025, wobei laktierende Tiere zu schonen sind;
+- b) Schwarzwild von Oktober 2025 bis 31. Januar 2026, wobei laktierende Tiere zu schonen sind;
+- c) Dachs von Oktober 2025 bis 15. Januar 2026;
+- d) Fuchs, Baummarder, Steinmarder, Waschbär, Marderhund, Rabenkrähe, Saatkrähe, Elster, Eichelhäher, Ringeltaube, Türkentaube, verwilderte Haustaube von Oktober 2025 bis 15. Februar 2026;
+- e) Stockente, Reiherente, Tafelente, Blässhuhn, Kormoran, Nilgans und Rostgans von Oktober 2025 bis 31. Januar 2026.
 
-<sup>2</sup> Zur Erreichung des Jagdkontingents von Rehwild gibt das Amt für Wald und Wild Sondermarken aus und es kann bei Bedarf zur Erfüllung des Abschussziels den 16. und 23. November 2024 via Internetseite des Amts für Wald und Wild ([https://zg.ch/jagd](https://zg.ch/jagd)) als Zusatztage freigeben. Dabei können Jagdbezirke unabhängig vom Jagdplan als Schwerpunkte definiert werden.
+<sup>2</sup> Zur Erreichung des Jagdkontingents von Rehwild gibt das Amt für Wald und Wild Sondermarken aus und es kann bei Bedarf zur Erfüllung des Abschussziels den 22. und 29. November 2025 via Internetseite des Amts für Wald und Wild ([zg.ch/jagd](https://zg.ch/jagd)) als Zusatztage freigeben. Dabei können Jagdbezirke unabhängig vom Jagdplan als Schwerpunkte definiert werden.
 
-<sup>3</sup> Die Zielsetzung der Bestandesreduktion gemäss Jagdplanung ergibt ein Jagdkontingent von 392 Rehen. Die Bestandesreduktion gilt als ausreichend, wenn mindestens 352 Rehe erlegt werden.
+<sup>3</sup> Die Zielsetzung der Bestandesreduktion gemäss Jagdplanung ergibt ein Jagdkontingent von 404 Rehen. Die Bestandesreduktion gilt als ausreichend, wenn mindestens 343 Rehe erlegt werden.
 
 <sup>4</sup> …
 
 <sup>5</sup> Jede Patentinhaberin bzw. Patentinhaber erhält mit dem Patent je eine blaue Bock/Kitz-Marke (Abschussberechtigung für Bock oder Kitz) und eine orange Geiss/Kitz-Marke (Abschussberechtigung für Geiss oder Kitz). Als Kitz werden unterjährige Tiere beider Geschlechter bezeichnet. Ein überjähriges männliches Tier gilt als Bock, ein überjähriges weibliches Tier als Geiss.
 
-<sup>6</sup> Wird ein weibliches und nicht laktierendes Rehwild erlegt und ist dies mittels vollständig und korrekt ausgefüllter Schussmeldekarte oder der Jagd-App beim Amt für Wald und Wild dokumentiert, berechtigt dies vom 1. Oktober 2024 bis zum Ende der Rehwildjagd, jeweils zwischen 08:00 und 11:45 Uhr oder 14:00 und 17:00 Uhr beim Sekretariat des Amts für Wald und Wild, zum Bezug einer Sondermarke.
+<sup>6</sup> Wird ein adultes weibliches und nicht laktierendes Rehwild oder ein Kitz erlegt und ist dies mittels vollständig und korrekt ausgefüllter Schussmeldekarte oder der Jagd-App beim Amt für Wald und Wild dokumentiert, berechtigt dies vom 1. Oktober 2025 bis zum Ende der Rehwildjagd, jeweils zwischen 08:00 und 11:45 Uhr oder 14:00 und 17:00 Uhr beim Sekretariat des Amts für Wald und Wild, zum Bezug einer Sondermarke.
 
 <sup>7</sup> Die Abschussberechtigung mit der Sondermarke entspricht einer grünen Wahlmarke (Abschussberechtigung für Bock oder Geiss oder Kitz). Für jedes weitere ordentlich erlegte, weibliche und nicht laktierende Rehwild kann eine weitere Sondermarke bezogen werden.
 
@@ -121,7 +121,7 @@ beschliesst:
 
 <sup>1</sup> Zur Regulierung des Raubwildbestandes kann auf Gesuch als Zusatz zur Niederwildjagd die Passjagd auf Haarraubwild für maximal zwei Passplätzen bewilligt werden (Sonderbewilligung gemäss § 7 der Jagdverordnung[^6-1]).
 
-<sup>2</sup> Mit Ausnahme der Schontage nach § 14 des Gesetzes über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Jagdgesetz) vom 25. Oktober 1990[^6-2] kann die Passjagd innerhalb der Jagdzeit an allen Wochentagen von Montag bis Samstag sowie während dieser Nächte ausgeübt werden.
+<sup>2</sup> Mit Ausnahme der Schontage nach § 14 des Gesetzes über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Jagdgesetz) vom 25. Oktober 1990[^6-2] kann die Pass- und Fallenjagd innerhalb der Jagdzeit an allen Wochentagen von Montag bis Samstag sowie während dieser Nächte ausgeübt werden.
 
 <sup>3</sup> Das Amt für Wald und Wild prüft und bewilligt die Gesuche. Bewilligte Plätze können anderen Jägerinnen und Jägern, welche die Passjagd gelöst haben, zur Verfügung gestellt werden.
 
@@ -152,11 +152,15 @@ beschliesst:
 
 **Jagdbezirke**
 
-<sup>1</sup> Die Ausdehnung der Siedlungs- und Schongebiete sowie die Jagdbezirksgrenzen werden in der Jagdbetriebskarte des Kantons Zug ausgewiesen und sind unter [https://zg.ch/jagd](https://zg.ch/jagd) einsehbar.
+<sup>1</sup> Die Ausdehnung der Siedlungs- und Schongebiete sowie die Jagdbezirksgrenzen werden in der Jagdbetriebskarte des Kantons Zug ausgewiesen und sind unter [zg.ch/jagd](https://zg.ch/jagd) einsehbar.
 
-<sup>2</sup> Für die Rehwildbejagung ist das Jagdgebiet in Jagdbezirke unterteilt. Pro Jagdbezirk sind die in der Jagdplanung ermittelten Stückzahlen weiblicher und männlicher Tiere zur Bejagung frei. Sobald die entsprechenden Strecken erreicht sind, wird der betreffende Bezirk für die Jagd auf weibliches bzw. männliches Rehwild geschlossen.
+<sup>2</sup> Für die detaillierte Jagdplanung wird der Kanton in sechs Jagdbezirke eingeteilt.
 
-<sup>3</sup> Über die Bejagbarkeit der einzelnen Bezirke gibt die Internetseite des Amts für Wald und Wild ([https://zg.ch/jagd](https://zg.ch/jagd)) und/oder die Jagd-App Auskunft. Die Informationen stehen ab 16:00 Uhr des Vortags zur Verfügung und sind für die Bejagungsmöglichkeiten am folgenden Jagdtag verbindlich.
+<sup>2a</sup> Die Jagdplanung für die Rehwildjagd erfolgt pro Jagdbezirk. Die Abschussvorgaben erfolgen pro Jagdbezirk getrennt nach Anzahl weiblichen und männlichen Tieren. Sobald die entsprechenden Abschüsse erreicht sind, wird der betreffende Bezirk für die Jagd auf weibliches bzw. männliches Rehwild geschlossen.
+
+<sup>2b</sup> Die Jagdplanung für das Gamswildjagd erfolgt pro Jagdbezirk. Die freigegeben Abschüsse erfolgen pro Jagdbezirk getrennt nach Altersklassen sowie weiblichen und männlichen Tieren. Sobald die freigegebenen Abschüsse erreicht sind, wird die Jagd auf die betroffenen Altersklassen für weibliches bzw. männliches Gamswild im jeweiligen Bezirk geschlossen.
+
+<sup>3</sup> Über die Bejagbarkeit der einzelnen Bezirke gibt die Internetseite des Amts für Wald und Wild ([zg.ch/jagd](https://zg.ch/jagd)) und/oder die Jagd-App Auskunft. Die Informationen stehen ab 16:00 Uhr des Vortags zur Verfügung und sind für die Bejagungsmöglichkeiten am folgenden Jagdtag verbindlich.
 
 #### § 10
 
@@ -186,7 +190,7 @@ beschliesst:
 
 <sup>3</sup> …
 
-<sup>4</sup> Alle nicht registrierten Nutzerinnen und Nutzer der Jagd-App müssen Abschüsse von Vögeln auf der Federwildstatistik eintragen. Die Statistik ist bis Ende Februar 2024 dem Amt für Wald und Wild einzureichen, auch wenn keine Abschüsse erfolgten.
+<sup>4</sup> Alle nicht registrierten Nutzerinnen und Nutzer der Jagd-App müssen Abschüsse von Vögeln auf der Federwildstatistik eintragen. Die Statistik ist bis Ende Februar 2026 dem Amt für Wald und Wild einzureichen, auch wenn keine Abschüsse erfolgten.
 
 #### § 12
 
@@ -252,7 +256,7 @@ beschliesst:
 
 <sup>3</sup> Nach Ablauf der ordentlichen Rehwild-Jagdzeit verfallen die bezogenen Marken ersatzlos.
 
-<sup>4</sup> Nicht verwendete Marken müssen bis spätestens Ende November 2024 dem Amt für Wald und Wild zugestellt werden.
+<sup>4</sup> Nicht verwendete Marken müssen bis spätestens Ende November 2025 dem Amt für Wald und Wild zugestellt werden.
 
 #### § 17
 
@@ -262,7 +266,7 @@ beschliesst:
 
 <sup>1a</sup> Die NAORG kann während der Hirsch-/Hochwildjagd sowie der Rehwildjagd über das Telefon der Wildhut 079 289 40 08 aufgeboten werden.
 
-<sup>2</sup> Erfolgreiche Nachsuchen müssen unverzüglich in der Jagd-App oder mit der Schussmeldekarte (gelb/weiss) erfasst werden. Erfolglose Nachsuchen sind mit der Schussmeldekarte «Nachsuche (erfolglos)» (blau) zu erfassen. Schussmeldekarten sind gleichentags per Post dem Amt für Wald und Wild zuzuschicken.
+<sup>2</sup> Erfolgreiche Nachsuchen müssen unverzüglich in der Jagd-App oder mit der Schussmeldekarte (orange/weiss) erfasst werden. Erfolglose Nachsuchen sind in der Jagd-App oder mit der Schussmeldekarte (blau) «Nachsuche (erfolglos)» zu erfassen. Schussmeldekarten sind gleichentags per Post dem Amt für Wald und Wild zuzuschicken.
 
 <sup>3</sup> Zur Erhöhung der Sicherheit müssen bei einer Nachsuche sämtliche beteiligten Personen eine signalfarbene Weste oder Jacke tragen.
 
@@ -301,7 +305,7 @@ beschliesst:
 
 <sup>3</sup> Für Ansprechfehler beim Rehwild gemäss § 15 Abs. 1 Bst. b–e wird eine Gebühr von 50 Franken erhoben.
 
-<sup>4</sup> Für Ansprechfehler beim Schwarzwild gemäss § 15 Abs. 1 Bst. f wird eine Gebühr von 5 Franken pro Kilogramm erhoben.
+<sup>4</sup> Für Ansprechfehler beim Schwarzwild gemäss § 15 Abs. 1 Bst. f wird eine Zusatzgebühr von 5 Franken pro Kilogramm (aufgebrochen mit Haupt) zur ordentlichen Gebühr gemäss § 20 Abs. 16 erhoben.
 
 <sup>5</sup> Für Ansprechfehler beim Rotwild gemäss § 15 Abs. 1 Bst. a wird eine Zusatzgebühr von 5 Franken pro Kilogramm (aufgebrochen mit Haupt) zur ordentlichen Gebühr gemäss § 8 Abs. 1 Bst. a der Jagdverordnung[^20-2] erhoben.
 
@@ -316,7 +320,7 @@ beschliesst:
 
 <sup>9</sup> Eine allfällige Sonderbewilligung zur Erreichung der Reduktionsziele beim Rotwild ist gebührenfrei.
 
-<sup>10</sup> Zur Verbesserung des Geschlechterverhältnisses in der Hirschjagdstrecke werden Abschüsse von Schmaltieren und nicht laktierenden Hirschkühen vom gewichtsabhängigen Gebührenzuschlag gemäss § 8 Abs. 1 Bst. a der Jagdverordnung[^20-3] befreit.
+<sup>10</sup> Zur Verbesserung des Geschlechterverhältnisses in der Hirschjagdstrecke werden Abschüsse von Schmaltieren, nicht laktierenden Hirschkühen und Kalb-Kuhpaaren vom gewichtsabhängigen Gebührenzuschlag gemäss § 8 Abs. 1 Bst. a der Jagdverordnung[^20-3] befreit.
 
 <sup>11</sup> Ausserkantonale Patentbewerberinnen und Patentbewerber bezahlen einen Zuschlag von 100 % der massgebenden Patentgebühren.
 
@@ -324,10 +328,14 @@ beschliesst:
 
 <sup>13</sup> Fehlabschüsse einer Gams werden als Irrtumsabschüsse gemäss § 41 Abs. 1 Bst. c der Jagdverordnung[^20-4] behandelt.
 
-<sup>14</sup> Bei Abgabe am Freitag, 7. März 2025, 17:30 bis 19:00 Uhr, Schlachtanlage Walterswil, werden folgende Umtriebsprämien für auf der Zuger Jagd geschossenen Tiere vergütet:
+<sup>14</sup> Bei Abgabe am Freitag, 6. März 2026, 17:30 bis 19:00 Uhr, Schlachtanlage Walterswil, werden folgende Umtriebsprämien für auf der Zuger Jagd sowie im Rahmen des delegierten Abwehrrechts geschossenen Tiere vergütet:
 
-- a) Pro Fuchslunte (nur Kern): Fr. 10.–
+- a) Pro Fuchslunte: Fr. 10.–
 - b) Pro Krähe: Fr. 5.–
+
+<sup>15</sup> Tiere gemäss Abs. 14, deren Abschüsse mittels Jagd-App erfasst und mit Foto dokumentiert wurden, werden zum Ende des Jagdjahrs ohne Vorzeigepflicht vergütet.
+
+<sup>16</sup> Erfolgreicher Abschuss Schwarzwild: Fr. 3.– pro Kilogramm (aufgebrochen mit Haupt)
 
 [^20-1]: BGS [932.11](https://bgs.zg.ch/data/932.11/de)
 [^20-2]: BGS [932.11](https://bgs.zg.ch/data/932.11/de)
