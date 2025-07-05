@@ -3,11 +3,11 @@ sr: "0.741.411"
 title: "Übereinkommen vom 20. März 1958 der Vereinten Nationen über die Annahme harmonisierter technischer Regelungen für Radfahrzeuge, Ausrüstungsgegenstände und Teile, die in Radfahrzeuge eingebaut oder dafür verwendet werden können, und die Bedingungen für die gegenseitige Anerkennung von Genehmigungen, die nach diesen Regelungen erteilt wurden (mit R und Anhängen)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468"
 language: de
-version: 2025-01-11
+version: 2025-07-06
 adopted: 1958-03-20
 in_force: 1973-08-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20250111/de/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20250111-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20250111/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20250706/de/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20250706-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20250706/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2017** 5085
 
 Abgeschlossen in Genf am 20. März 1958 Geändert am 10. November 1967 Von der Bundesversammlung genehmigt um 15. März 1973[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 29. Juni 1973 In Kraft getreten für die Schweiz am 28. August 1973 Änderungen angenommen am 18. August 1994 In Kraft getreten am 16. Oktober 1995 Änderungen angenommen am 25. September 2015 In Kraft getreten am 14. September 2017
 
-(Stand am 11. Januar 2025)
+(Stand am 6. Juli 2025)
 
 [^t-1]: [AS 1973 1465](https://fedlex.data.admin.ch/eli/oc/1973/1465_1465_1465)
 
@@ -862,7 +862,7 @@ Reglemente[^t-4]
 
 ## Reglement Nr. 0 zum Übereinkommen
 
-[^t-4]: Text und Geltungsbereich der Reglemente werden in der AS nicht veröffentlicht ([AS 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458); [2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444); [2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211), [911](https://fedlex.data.admin.ch/eli/oc/2021/911); [2023 384](https://fedlex.data.admin.ch/eli/oc/2023/384); [2025 62](https://fedlex.data.admin.ch/eli/oc/2025/62)). Der Text kann beim Bundesamt für Strassen, 3003 Bern, bezogen oder auf der Internetseite der Organisation der Vereinten Nationen eingesehen werden: [www.unece.org/un‑regulations-addenda-1958-agreement](http://www.unece.org/un-regulations-addenda-1958-agreement). Der Geltungsbereich ist auf der Internetseite der Organisation der Vereinten Nationen einsehbar: [www.unece.org/status-1958-agreement-and-annexed-regulations](https://unece.org/status-1958-agreement-and-annexed-regulations).
+[^t-4]: Text und Geltungsbereich der Reglemente werden in der AS nicht veröffentlicht ([AS 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458); [2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444); [2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211), [911](https://fedlex.data.admin.ch/eli/oc/2021/911); [2023 384](https://fedlex.data.admin.ch/eli/oc/2023/384); [2025 62](https://fedlex.data.admin.ch/eli/oc/2025/62), [639](https://fedlex.data.admin.ch/eli/oc/2025/639)). Der Text kann beim Bundesamt für Strassen, 3003 Bern, bezogen oder auf der Internetseite der Organisation der Vereinten Nationen eingesehen werden: [www.unece.org/un ‑regulations-addenda-1958-agreement](http://www.unece.org/un-regulations-addenda-1958-agreement). Der Geltungsbereich ist auf der Internetseite der Organisation der Vereinten Nationen einsehbar: [www.unece.org/status-1958-agreement-and-annexed-regulations](https://unece.org/status-1958-agreement-and-annexed-regulations).
 
 Einheitliche Vorschriften hinsichtlich die Internationale Gesamtfahrzeug-Typengenehmigung
 
@@ -1685,3 +1685,27 @@ Angewendet durch die Schweiz seit dem 22. September 2024
 Einheitliche Vorschriften für die Genehmigung von runderneuerten Reifen hinsichtlich ihrer Schneegriffigkeitsleistung und ihrer Einstufung als Traktionsreifen
 
 Angewendet durch die Schweiz seit dem 11. Januar 2025
+
+## Reglement Nr. 173 zum Übereinkommen
+
+Einheitliche Vorschriften für die Genehmigung von Fahrzeugen hinsichtlich des Einbaus von Sicherheitsgurten, Rückhaltesystemen, Kinderrückhaltesystemen, ISOFIX-Kinderrückhaltesystemen und i-Size-Kinderrückhaltesystemen
+
+Angewendet durch die Schweiz seit dem 23. Juni 2025
+
+## Reglement Nr. 174 zum Übereinkommen
+
+Einheitliche Vorschriften für die Genehmigung von Fahrzeugen hinsichtlich Gurtwarnleuchten
+
+Angewendet durch die Schweiz seit dem 6. Juli 2025
+
+## Reglement Nr. 175 zum Übereinkommen
+
+Einheitliche Vorschriften für die Genehmigung von Personenwagen hinsichtlich der Beschleunigungsregelung bei fehlerhafter Pedalbetätigung (ACPE)
+
+Angewendet durch die Schweiz seit dem 23. Juni 2025
+
+## Reglement Nr. 176 zum Übereinkommen
+
+Einheitliche Vorschriften für die Genehmigung eines Fahrzeugtyps hinsichtlich des Sichtfeldassistenten
+
+Angewendet durch die Schweiz seit dem 23. Juni 2025

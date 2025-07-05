@@ -3,11 +3,11 @@ sr: "0.741.411"
 title: "Accord du 20 mars 1958 concernant l'adoption de règlements techniques harmonisé de l'ONU applicables aux véhicules à roues, aux équipements et pièces susceptibles d'être montés ou utilisés sur les véhicules à roues et les conditions de reconnaissance réciproque des homologations délivrées conformément à ces règlements (avec règlements et annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468"
 language: fr
-version: 2025-01-11
+version: 2025-07-06
 adopted: 1958-03-20
 in_force: 1973-08-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20250111/fr/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20250111-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20250111/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20250706/fr/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20250706-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20250706/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclu à Genève le 20 mars 1958 Amendé le 10 novembre 1967 Approuvé par l’Assemblée fédérale le 15 mars 1973[^t-1] Instrument d’adhésion déposé par la Suisse le 29 juin 1973 Entré en vigueur pour la Suisse le 28 août 1973 Amendements adoptés le 18 août 1994 Entrés en vigueur le 16 octobre 1995 Amendements adoptés le 25 septembre 2015 Entrés en vigueur le 14 septembre 2017
 
-(État le 11 janvier 2025)
+(État le 6 juillet 2025)
 
 [^t-1]: [RO 1973 1465](https://fedlex.data.admin.ch/eli/oc/1973/1465_1465_1465)
 
@@ -799,7 +799,7 @@ Champ d’application de l’accord le 23 juin 2023[^t-3]
 <tr><td>Afrique du Sud\*</td><td>18 avril</td><td>2001 A</td><td>17 juin</td><td>2001</td></tr>
 <tr><td>Albanie</td><td>6 septembre</td><td>2011 A</td><td>5 novembre</td><td>2011</td></tr>
 <tr><td>Allemagne\*</td><td>29 novembre</td><td>1965</td><td>28 janvier</td><td>1966</td></tr>
-<tr><td>Andorre<sup>\*</sup></td><td>11 avril</td><td>2023 A</td><td>10 juin</td><td>2023</td></tr>
+<tr><td>Andorre\*</td><td>11 avril</td><td>2023 A</td><td>10 juin</td><td>2023</td></tr>
 <tr><td>Arménie</td><td>1<sup>er</sup> mars</td><td>2018 A</td><td>30 avril</td><td>2018</td></tr>
 <tr><td>Australie\*</td><td>25 février</td><td>2000 A</td><td>25 avril</td><td>2000</td></tr>
 <tr><td>Autriche\*</td><td>12 mars</td><td>1971 A</td><td>11 mai</td><td>1971</td></tr>
@@ -862,7 +862,7 @@ Règlements[^t-4]
 
 ## Règlement n<sup>o</sup> 0 annexé à l’Accord
 
-[^t-4]: Le texte et le champ d’application des règlements suivants ne sont pas publiés au RO ([RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458); [2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444); [2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211), [911](https://fedlex.data.admin.ch/eli/oc/2021/911); [2023 384](https://fedlex.data.admin.ch/eli/oc/2023/384); [2025 62](https://fedlex.data.admin.ch/eli/oc/2025/62)). Le texte peut être obtenu auprès de l’Office fédéral des routes, 3003 Berne, ou consulté sur le site Internet de l’Organisation des Nations Unies: [www.unece.org/un‑regulations‑addenda-1958-agreement](http://www.unece.org/un-regulations-addenda-1958-agreement). Le champ d’application peut être consulté sur le site Internet de l’Organisation des Nations Unies: [www.unece.org/status-1958-agreement-and-annexed-regulations](https://unece.org/status-1958-agreement-and-annexed-regulations).
+[^t-4]: Le texte et le champ d’application des règlements suivants ne sont pas publiés au RO ([RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458); [2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444); [2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211), [911](https://fedlex.data.admin.ch/eli/oc/2021/911); [2023 384](https://fedlex.data.admin.ch/eli/oc/2023/384); [2025 62](https://fedlex.data.admin.ch/eli/oc/2025/62), [639](https://fedlex.data.admin.ch/eli/oc/2025/639)). Le texte peut être obtenu auprès de l’Office fédéral des routes, 3003 Berne, ou consulté sur le site Internet de l’Organisation des Nations Unies: [www.unece.org/un ‑regulations ‑addenda-1958-agreement](http://www.unece.org/un-regulations-addenda-1958-agreement). Le champ d’application peut être consulté sur le site Internet de l’Organisation des Nations Unies: [www.unece.org/status-1958-agreement-and-annexed-regulations](http://www.unece.org/status-1958-agreement-and-annexed-regulations).
 
 Prescriptions uniformes concernant un régime d’homologation de type internationale de l’ensemble du véhicule
 
@@ -1685,3 +1685,27 @@ Mis en application par la Suisse le 22 septembre 2024
 Prescriptions uniformes relatives à l’homologation des pneumatiques rechapés en ce qui concerne l’adhérence sur neige et le classement dans la catégorie des pneumatiques traction
 
 Mis en application par la Suisse le 11 janvier 2025
+
+## Règlement n<sup>o</sup> 173 annexé à l’Accord
+
+Prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne l’installation des ceintures de sécurité, des systèmes de retenue, des systèmes de retenue pour enfants, des systèmes de retenue pour enfants ISOFIX et des systèmes de retenue pour enfants i-Size
+
+Mis en application par la Suisse le 23 juin 2025
+
+## Règlement n<sup>o</sup> 174 annexé à l’Accord
+
+Prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne les témoins de port de ceinture
+
+Mis en application par la Suisse le 6 juillet 2025
+
+## Règlement n<sup>o</sup> 175 annexé à l’Accord
+
+Prescriptions uniformes relatives à l’homologation des voitures particulières en ce qui concerne le contrôle de l’accélération en cas d’erreur de pédale (ACPE)
+
+Mis en application par la Suisse le 23 juin 2025
+
+## Règlement n<sup>o</sup> 176 annexé à l’Accord
+
+Prescriptions uniformes relatives à l’homologation d’un type de véhicule en ce qui concerne l’assistance par affichage dans le champ de vision
+
+Mis en application par la Suisse le 23 juin 2025

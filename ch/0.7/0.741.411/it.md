@@ -3,11 +3,11 @@ sr: "0.741.411"
 title: "Accordo del 20 marzo 1958 concernente l'adozione di regolamenti tecnici armonizzati delle Nazioni Unite per i veicoli a ruote, gli equipaggiamenti e i pezzi che possono essere installati o usati in veicoli a ruote, nonché le condizioni per il riconoscimento reciproco di omologazioni concesse sulla base di tali regolamenti delle Nazioni Unite (con R e All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468"
 language: it
-version: 2025-01-11
+version: 2025-07-06
 adopted: 1958-03-20
 in_force: 1973-08-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20250111/it/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20250111-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20250111/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20250706/it/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20250706-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20250706/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conchiuso a Ginevra il 20 marzo 1958 Emendato il 10 novembre 1967 Approvato dall’Assemblea federale il 15 marzo 1973[^t-1] Istrumento d’adesione depositato dalla Svizzera il 29 giugno 1973 Entrato in vigore per la Svizzera il 28 agosto 1973 Emendamenti adottati il 18 agosto 1994 Entrata in vigore il 16 ottobre 1995 Emendamenti adottati il 25 settembre 2015 Entrata in vigore il 14 settembre 2017
 
-(Stato 11 gennaio 2025)
+(Stato 6 luglio 2025)
 
 [^t-1]: [RU 1973 1465](https://fedlex.data.admin.ch/eli/oc/1973/1465_1465_1465)
 
@@ -862,7 +862,7 @@ Regolamenti[^t-4]
 
 ## Regolamento n. 0 allegato all’accordo
 
-[^t-4]: Il testo e il campo d’applicazione dei regolamenti non sono pubblicati nella RU ([RU 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458); [2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444); [2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211), [911](https://fedlex.data.admin.ch/eli/oc/2021/911); [2023 384](https://fedlex.data.admin.ch/eli/oc/2023/384); [2025 62](https://fedlex.data.admin.ch/eli/oc/2025/62)). Possono essere ottenuto presso l’Ufficio federale delle strade, 3003 Berna oppure consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [www.unece.org/un‑regulations-addenda-1958-agreement](http://www.unece.org/un-regulations-addenda-1958-agreement). Il campo d’applicazione può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [www.unece.org/status-1958-agreement-and-annexed-regulations](https://unece.org/status-1958-agreement-and-annexed-regulations).
+[^t-4]: Il testo e il campo d’applicazione dei regolamenti non sono pubblicati nella RU ([RU 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458); [2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444); [2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211), [911](https://fedlex.data.admin.ch/eli/oc/2021/911); [2023 384](https://fedlex.data.admin.ch/eli/oc/2023/384); [2025 62](https://fedlex.data.admin.ch/eli/oc/2025/62), [639](https://fedlex.data.admin.ch/eli/oc/2025/639)). Possono essere ottenuto presso l’Ufficio federale delle strade, 3003 Berna oppure consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [www.unece.org/un ‑regulations-addenda-1958-agreement](http://www.unece.org/unregulations-addenda-1958-agreement). Il campo d’applicazione può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [www.unece.org/status-1958-agreement-and-annexed-regulations](https://unece.org/status-1958-agreement-and-annexed-regulations).
 
 Prescrizioni uniformi per quanto concerne il systema di omologazione internazionale dei veicoli completi
 
@@ -1679,3 +1679,27 @@ Applicato dalla Svizzera dal 22 settembre 2024
 Disposizioni uniformi relative all’omologazione degli pneumatici ricostruiti per quanto riguarda le prestazioni di aderenza sulla neve e la classificazione come pneumatici da trazione
 
 Applicato dalla Svizzera dall’11 gennaio 2025
+
+## Regolamento n. 173 allegato all’Accordo
+
+Prescrizioni uniformi relative all’omologazione dei veicoli per quanto concerne l’installazione delle cinture di sicurezza, dei sistemi di ritenuta, dei sistemi di ritenuta per bambini, dei sistemi di ritenuta ISOFIX per bambini e dei sistemi di ritenuta i‑Size per bambini
+
+Applicato dalla Svizzera dal 23 giugno 2025
+
+## Regolamento n. 174 allegato all’Accordo
+
+Prescrizioni uniformi relative all’omologazione dei veicoli per quanto concerne i cicalini per le cinture di sicurezza
+
+Applicato dalla Svizzera dal 6 luglio 2025
+
+## Regolamento n. 175 allegato all’Accordo
+
+Prescrizioni uniformi relative all’omologazione delle autovetture per quanto concerne il comando dell’acceleratore in relazione agli errori sul pedale (ACPE)
+
+Applicato dalla Svizzera dal 23 giugno 2025
+
+## Regolamento n. 176 allegato all’Accordo
+
+Prescrizioni uniformi relative all’omologazione di un tipo di veicolo per quanto concerne l’assistente per il campo di visibilità
+
+Applicato dalla Svizzera dal 23 giugno 2025
