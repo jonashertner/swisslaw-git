@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 25. September 2020 über den Datenschutz (Datenschutzge
 short: DSG
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/491"
 language: de
-version: 2025-04-01
+version: 2025-07-07
 adopted: 2020-09-25
 in_force: 2023-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/491/20250401/de/xml/fedlex-data-admin-ch-eli-cc-2022-491-20250401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/491/20250401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/491/20250707/de/xml/fedlex-data-admin-ch-eli-cc-2022-491-20250707-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/491/20250707/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/491/20250401/de"
 
 (Datenschutzgesetz, DSG)
 
-vom 25. September 2020 (Stand am 1. April 2025)
+vom 25. September 2020 (Stand am 7. Juli 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 95 Absatz 1, 97 Absatz 1, 122 Absatz 1 und 173 Absatz 
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)
 
 ## 1. Kapitel: Zweck und Geltungsbereich sowie Aufsichtsbehörde des Bundes
@@ -59,7 +59,7 @@ Es ist nicht anwendbar auf:
 
 <sup>4</sup> Die öffentlichen Register des Privatrechtsverkehrs, insbesondere der Zugang zu diesen Registern und die Rechte der betroffenen Personen, werden durch die Spezialbestimmungen des anwendbaren Bundesrechts geregelt. Enthalten die Spezialbestimmungen keine Regelung, so ist dieses Gesetz anwendbar.
 
-[^2-1]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^2-1]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 
 #### Art. 3
 
@@ -69,8 +69,8 @@ Es ist nicht anwendbar auf:
 
 <sup>2</sup> Für privatrechtliche Ansprüche gilt das Bundesgesetz vom 18. Dezember 1987[^3-1] über das Internationale Privatrecht. Vorbehalten bleiben zudem die Bestimmungen zum räumlichen Geltungsbereich des Strafgesetzbuchs[^3-2].
 
-[^3-1]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
-[^3-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^3-1]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
+[^3-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 4
 
@@ -410,7 +410,7 @@ Die Absätze 1 und 2 gelten nicht, wenn:
 
 <sup>4</sup> Ergeht die automatisierte Einzelentscheidung durch ein Bundesorgan, so muss es die Entscheidung entsprechend kennzeichnen. Absatz 2 ist nicht anwendbar, wenn die betroffene Person nach Artikel 30 Absatz 2 des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^21-1] (VwVG) oder nach einem anderen Bundesgesetz vor dem Entscheid nicht angehört werden muss.
 
-[^21-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^21-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 22
 
@@ -649,7 +649,7 @@ Klagen zum Schutz der Persönlichkeit richten sich nach den Artikeln 28, 28*a* s
 
 <sup>4</sup> Die klagende Partei kann zudem verlangen, dass die Berichtigung, die Löschung oder die Vernichtung, das Verbot der Bearbeitung oder der Bekanntgabe an Dritte, der Bestreitungsvermerk oder das Urteil Dritten mitgeteilt oder veröffentlicht wird.
 
-[^32-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^32-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ## 6. Kapitel: Besondere Bestimmungen zur Datenbearbeitung durch Bundesorgane
 
@@ -740,7 +740,7 @@ Die Bundesorgane lehnen die Bekanntgabe ab, schränken sie ein oder verbinden si
 - a. wesentliche öffentliche Interessen oder offensichtlich schutzwürdige Interessen der betroffenen Person es verlangen; oder
 - b. gesetzliche Geheimhaltungspflichten oder besondere Datenschutzvorschriften es verlangen.
 
-[^36-1]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^36-1]: [SR 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 
 #### Art. 37
 
@@ -770,7 +770,7 @@ Sie vernichten die vom Bundesarchiv als nicht archivwürdig bezeichneten Persone
 - a. diese werden anonymisiert;
 - b. diese müssen zu Beweis- oder Sicherheitszwecken oder zur Wahrung der schutzwürdigen Interessen der betroffenen Person aufbewahrt werden.
 
-[^38-1]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^38-1]: [SR 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 #### Art. 39
 
@@ -827,7 +827,7 @@ Statt die Personendaten zu löschen oder zu vernichten, schränkt das Bundesorga
 
 <sup>6</sup> Das Verfahren richtet sich nach dem VwVG[^41-1]. Die Ausnahmen nach den Artikeln 2 und 3 VwVG sind nicht anwendbar.
 
-[^41-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^41-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 42
 
@@ -835,7 +835,7 @@ Statt die Personendaten zu löschen oder zu vernichten, schränkt das Bundesorga
 
 Ist ein Verfahren betreffend den Zugang zu amtlichen Dokumenten, die Personendaten enthalten, im Sinne des Öffentlichkeitsgesetzes vom 17. Dezember 2004[^42-1] hängig, so kann die betroffene Person in diesem Verfahren diejenigen Rechte geltend machen, die ihr nach Artikel 41 des vorliegenden Gesetzes bezogen auf diejenigen Dokumente zustehen, die Gegenstand des Zugangsverfahrens sind.
 
-[^42-1]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^42-1]: [SR 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 
 ## 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter
 
@@ -859,7 +859,7 @@ Ist ein Verfahren betreffend den Zugang zu amtlichen Dokumenten, die Personendat
 
 <sup>6</sup> Sie oder er untersteht nicht dem Beurteilungssystem nach Artikel 4 Absatz 3 BPG.
 
-[^43-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^43-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 [^43-2]: Zweiter bis vierter Satz eingefügt durch Ziff. I des BG vom 17. Juni 2022 (Arbeitsverhältnis der Leiterin oder des Leiters des Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten), in Kraft seit 1. Sept. 2023 ([AS 2023 231](https://fedlex.data.admin.ch/eli/oc/2023/231); [BBl 2022 345](https://fedlex.data.admin.ch/eli/fga/2022/345), [432](https://fedlex.data.admin.ch/eli/fga/2022/432)).
 [^43-3]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022 (Arbeitsverhältnis der Leiterin oder des Leiters des Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten), in Kraft seit 1. Sept. 2023 ([AS 2023 231](https://fedlex.data.admin.ch/eli/oc/2023/231); [BBl 2022 345](https://fedlex.data.admin.ch/eli/fga/2022/345), [432](https://fedlex.data.admin.ch/eli/fga/2022/432)).
 
@@ -938,7 +938,7 @@ Der EDÖB stellt durch geeignete Kontrollmassnahmen, insbesondere in Bezug auf d
 
 <sup>4</sup> Hat die betroffene Person Anzeige erstattet, so informiert der EDÖB sie über die gestützt darauf unternommenen Schritte und das Ergebnis einer allfälligen Untersuchung.
 
-[^49-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^49-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 50
 
@@ -991,7 +991,7 @@ Er kann namentlich anordnen, dass das Bundesorgan oder die private Person:
 
 <sup>3</sup> Der EDÖB kann Beschwerdeentscheide des Bundesverwaltungsgerichts anfechten.
 
-[^52-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^52-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 53
 
@@ -1065,7 +1065,9 @@ Der EDÖB führt ein Register der Bearbeitungstätigkeiten der Bundesorgane. Das
 
 <sup>1</sup> Der EDÖB erstattet der Bundesversammlung jährlich Bericht über seine Tätigkeit. Er übermittelt ihn gleichzeitig dem Bundesrat. Der Bericht wird veröffentlicht.
 
-<sup>2</sup> In Fällen von allgemeinem Interesse informiert der EDÖB die Öffentlichkeit über seine Feststellungen und Verfügungen.
+<sup>2</sup> In Fällen von allgemeinem Interesse informiert der EDÖB die Öffentlichkeit über seine Feststellungen und Verfügungen.[^57-1]
+
+[^57-1]: Die Berichtigung der RedK der BVers vom 2. Juli 2025, publiziert am 7. Juli 2025 betrifft nur den italienischen Text ([AS 2025 444](https://fedlex.data.admin.ch/eli/oc/2025/444)).
 
 #### Art. 58
 
@@ -1087,7 +1089,7 @@ Der EDÖB nimmt darüber hinaus insbesondere folgende Aufgaben wahr:
 
 <sup>3</sup> Der EDÖB ist befugt, gegenüber den ausländischen Behörden, die für den Datenschutz zuständig sind, zu erklären, dass im Bereich des Datenschutzes in der Schweiz die direkte Zustellung zulässig ist, sofern der Schweiz Gegenrecht gewährt wird.
 
-[^58-1]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^58-1]: [SR 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 
 ### 5. Abschnitt: Gebühren
 
@@ -1161,7 +1163,7 @@ Mit Busse bis zu 250 000 Franken werden private Personen bestraft, die einer Ver
 
 <sup>2</sup> Fällt eine Busse von höchstens 50 000 Franken in Betracht und würde die Ermittlung der nach Artikel 6 VStrR strafbaren Personen Untersuchungsmassnahmen bedingen, die im Hinblick auf die verwirkte Strafe unverhältnismässig wären, so kann die Behörde von einer Verfolgung dieser Personen absehen und an ihrer Stelle den Geschäftsbetrieb (Art. 7 VStrR) zur Bezahlung der Busse verurteilen.
 
-[^64-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^64-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 65
 
@@ -1212,7 +1214,7 @@ Dieses Gesetz gilt nicht für Untersuchungen des EDÖB, die im Zeitpunkt seines 
 
 Für Bundesorgane finden Vorschriften in anderen Bundeserlassen, die sich auf Personendaten beziehen, während fünf Jahren nach Inkrafttreten dieses Gesetzes weiter Anwendung auf Daten juristischer Personen. Insbesondere können Bundesorgane während fünf Jahren nach Inkrafttreten dieses Gesetzes Daten juristischer Personen nach Artikel 57*s* Absätze 1 und 2 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^71-1] weiterhin bekanntgeben, wenn sie gestützt auf eine Rechtsgrundlage zur Bekanntgabe von Personendaten ermächtigt sind.
 
-[^71-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^71-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 72
 

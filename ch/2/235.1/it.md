@@ -4,11 +4,11 @@ title: Legge federale del 25 settembre 2020 sulla protezione dei dati (LPD)
 short: LPD
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/491"
 language: it
-version: 2025-04-01
+version: 2025-07-07
 adopted: 2020-09-25
 in_force: 2023-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/491/20250401/it/xml/fedlex-data-admin-ch-eli-cc-2022-491-20250401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/491/20250401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/491/20250707/it/xml/fedlex-data-admin-ch-eli-cc-2022-491-20250707-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/491/20250707/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/491/20250401/it"
 
 (LPD)
 
-del 25 settembre 2020 (Stato 1° aprile 2025)
+del 25 settembre 2020 (Stato 7 luglio 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visti gli articoli 95 capoverso 1, 97 capoverso 1, 122 capoverso 1 e 173 capover
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)
 
 ## Capitolo 1: Scopo e campo d’applicazione nonché autorità federale di vigilanza
@@ -59,7 +59,7 @@ Non si applica al trattamento di dati personali da parte:
 
 <sup>4</sup> I registri pubblici relativi ai rapporti di diritto privato, in particolare l’accesso a tali registri e i diritti delle persone interessate, sono retti dalle disposizioni speciali del diritto federale applicabile. In assenza di disposizioni speciali si applica la presente legge.
 
-[^2-1]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^2-1]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 
 #### Art. 3
 
@@ -69,8 +69,8 @@ Non si applica al trattamento di dati personali da parte:
 
 <sup>2</sup> Alle pretese di diritto civile si applica la legge federale del 18 dicembre 1987[^3-1] sul diritto internazionale privato. Sono fatte salve inoltre le disposizioni concernenti il campo d’applicazione territoriale del Codice penale[^3-2].
 
-[^3-1]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
-[^3-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^3-1]: [RS 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
+[^3-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 4
 
@@ -410,7 +410,7 @@ I capoversi 1 e 2 non si applicano se:
 
 <sup>4</sup> Se la decisione individuale automatizzata è presa da un organo federale, questi la designa come tale. Il capoverso 2 non si applica nei casi in cui in virtù dell’articolo 30 capoverso 2 della legge federale del 20 dicembre 1968[^21-1] sulla procedura amministrativa (PA) o di un’altra legge federale l’organo federale non è tenuto a sentire la persona interessata prima di prendere la decisione.
 
-[^21-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^21-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 22
 
@@ -649,7 +649,7 @@ Le azioni concernenti la protezione della personalità sono rette dagli articoli
 
 <sup>4</sup> L’attore può inoltre chiedere che siano comunicati a terzi o pubblicati la rettifica, la cancellazione o la distruzione, il divieto di trattamento o di comunicazione a terzi, la menzione del carattere contestato o la sentenza.
 
-[^32-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^32-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ## Capitolo 6: Disposizioni speciali per il trattamento di dati personali da parte di organi federali
 
@@ -740,7 +740,7 @@ Gli organi federali rifiutano o limitano la comunicazione, oppure la vincolano a
 - a. un importante interesse pubblico o un interesse manifestamente degno di protezione della persona interessata; o
 - b. un obbligo legale di serbare il segreto o una disposizione speciale concernente la protezione dei dati.
 
-[^36-1]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^36-1]: [RS 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 
 #### Art. 37
 
@@ -770,7 +770,7 @@ L’organo federale distrugge i dati personali che l’Archivio federale ha desi
 - a. siano resi anonimi;
 - b. debbano essere conservati a titolo di prova, per misura di sicurezza o per salvaguardare un interesse degno di protezione della persona interessata.
 
-[^38-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^38-1]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 #### Art. 39
 
@@ -827,7 +827,7 @@ Invece di cancellare o distruggere i dati personali, l’organo federale ne limi
 
 <sup>6</sup> La procedura è retta dalla PA[^41-1]. Le eccezioni previste dagli articoli 2 e 3 PA non sono applicabili.
 
-[^41-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^41-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 42
 
@@ -835,7 +835,7 @@ Invece di cancellare o distruggere i dati personali, l’organo federale ne limi
 
 Se è in corso una procedura ai sensi della legge del 17 dicembre 2004[^42-1] sulla trasparenza concernente l’accesso a documenti ufficiali che contengono dati personali, la persona interessata può, in tale procedura, far valere i diritti che le spettano in virtù dell’articolo 41 della presente legge in riferimento ai documenti oggetto della procedura di accesso.
 
-[^42-1]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^42-1]: [RS 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 
 ## Capitolo 7: Incaricato federale della protezione dei dati e della trasparenza
 
@@ -859,7 +859,7 @@ Se è in corso una procedura ai sensi della legge del 17 dicembre 2004[^42-1] su
 
 <sup>6</sup> All’Incaricato non si applica il sistema di valutazione di cui all’articolo 4 capoverso 3 LPers.
 
-[^43-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^43-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 [^43-2]: Secondo, terzo e quarto per. introdotti dalla cifra I della LF del 17 giu. 2022 (Rapporto di lavoro del capo dell’Incaricato federale della protezione dei dati e della trasparenza), in vigore dal 1° set. 2023 ([RU 2023 231](https://fedlex.data.admin.ch/eli/oc/2023/231); [FF 2022 345](https://fedlex.data.admin.ch/eli/fga/2022/345), [432](https://fedlex.data.admin.ch/eli/fga/2022/432)).
 [^43-3]: Introdotto dalla cifra I della LF del 17 giu. 2022 (Rapporto di lavoro del capo dell’Incaricato federale della protezione dei dati e della trasparenza), in vigore dal 1° set. 2023 ([RU 2023 231](https://fedlex.data.admin.ch/eli/oc/2023/231); [FF 2022 345](https://fedlex.data.admin.ch/eli/fga/2022/345), [432](https://fedlex.data.admin.ch/eli/fga/2022/432)).
 
@@ -938,7 +938,7 @@ Per mezzo di misure di controllo adeguate, in particolare in riferimento alla si
 
 <sup>4</sup> Se la persona interessata ha sporto denuncia, l’IFPDT la informa sul seguito dato alla denuncia e sull’esito di un’eventuale inchiesta.
 
-[^49-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^49-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 50
 
@@ -991,7 +991,7 @@ L’IFPDT può segnatamente disporre che l’organo federale o il privato:
 
 <sup>3</sup> L’IFPDT può impugnare le decisioni su ricorso pronunciate dal Tribunale amministrativo federale.
 
-[^52-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^52-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 53
 
@@ -1065,7 +1065,9 @@ L’IFPDT tiene un registro delle attività di trattamento degli organi federali
 
 <sup>1</sup> L’IFPDT presenta annualmente all’Assemblea federale un rapporto d’attività. Lo trasmette contemporaneamente al Consiglio federale. Il rapporto è pubblicato.
 
-<sup>2</sup> Nei casi d’interesse generale, l’IFPDT informa il pubblico sui suoi accertamenti e sulle sue raccomandazioni.
+<sup>2</sup> Nei casi d’interesse generale, l’IFPDT informa il pubblico sui suoi accertamenti e sulle sue decisioni.[^57-1]
+
+[^57-1]: Correzione della CdR dell’AF del 2 lug. 2025, pubblicata il 7 lug. 2025 ([RU 2025 444](https://fedlex.data.admin.ch/eli/oc/2025/444)).
 
 #### Art. 58
 
@@ -1087,7 +1089,7 @@ L’IFPDT ha in particolare gli altri compiti seguenti:
 
 <sup>3</sup> L’IFPDT è autorizzato a dichiarare alle autorità estere incaricate della protezione dei dati che, in materia di protezione dei dati, in Svizzera è ammessa la notificazione diretta, sempreché alla Svizzera sia concessa la reciprocità.
 
-[^58-1]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^58-1]: [RS 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 
 ### Sezione 5: Emolumenti
 
@@ -1161,7 +1163,7 @@ A querela di parte sono puniti con la multa fino a 250 000 franchi i privati che
 
 <sup>2</sup> Se la multa applicabile non supera i 50 000 franchi e se la determinazione delle persone punibili secondo l’articolo 6 DPA esige provvedimenti d’inchiesta sproporzionati all’entità della pena, l’autorità può prescindere da un procedimento contro dette persone e, in loro vece, condannare al pagamento della multa l’azienda (art. 7 DPA).
 
-[^64-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^64-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 65
 
@@ -1212,7 +1214,7 @@ La presente legge non si applica alle inchieste dell’IFPDT in corso alla sua e
 
 Per gli organi federali, le disposizioni di altri atti normativi federali che si riferiscono a dati personali continuano ad applicarsi ai dati concernenti persone giuridiche durante cinque anni dall’entrata in vigore della presente legge. Durante tale periodo gli organi federali possono in particolare comunicare dati concernenti persone giuridiche conformemente all’articolo 57*s* capoversi 1 e 2 della legge del 21 marzo 1997[^71-1] sull’organizzazione del Governo e dell’Amministrazione, sempreché vi siano autorizzati in virtù di una base legale.
 
-[^71-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^71-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 72
 

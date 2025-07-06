@@ -4,11 +4,11 @@ title: "Federal Act of 25 September 2020 on Data Protection (Data Protection Act
 short: FADP
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/491"
 language: en
-version: 2025-04-01
+version: 2025-07-07
 adopted: 2020-09-25
 in_force: 2023-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/491/20250401/en/xml/fedlex-data-admin-ch-eli-cc-2022-491-20250401-en-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/491/20250401/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/491/20250707/en/xml/fedlex-data-admin-ch-eli-cc-2022-491-20250707-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/491/20250707/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Data Protection Act, FADP)
 
-of 25 September 2020 (Status as of 1 April 2025)
+of 25 September 2020 (Last amended on 7 July 2025)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -27,7 +27,7 @@ on the basis of Articles 95 paragraph 1, 97 paragraph 1, 122 paragraph 1 and 173
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)
 
 ## Chapter 1 Purpose, Scope of Application and Federal Supervisory Authority
@@ -61,7 +61,7 @@ It does not apply to:
 
 <sup>4</sup> The public registers for private legal transactions, and in particular the access to these registers and the data subject's rights, shall be regulated by the specific provisions of the applicable federal law. If the specific provisions do not contain any rules, this Act applies.
 
-[^2-1]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^2-1]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 
 #### Art. 3
 
@@ -71,8 +71,8 @@ It does not apply to:
 
 <sup>2</sup> For rights under private law, the Federal Act of 18 December 1987[^3-1] on Private International Law applies. In addition, the provisions on the territorial scope of application of the Criminal Code[^3-2] are reserved.
 
-[^3-1]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
-[^3-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^3-1]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
+[^3-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 4
 
@@ -412,7 +412,7 @@ Paragraphs 1 and 2 do not apply if:
 
 <sup>4</sup> If the automated individual decision is issued by a federal body, it must designate the decision accordingly. Paragraph 2 does not apply if, in accordance with Article 30 paragraph 2 of the Administrative Procedure Act of 20 December 1968[^21-1] (APA) or another federal act, the data subject is not entitled to a hearing before the decision is taken.
 
-[^21-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^21-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 22
 
@@ -651,7 +651,7 @@ Actions to protect the personality are governed by the Articles 28, 28*a* and 28
 
 <sup>4</sup> The applicant may also request that any correction, deletion or destruction, prohibition of processing or disclosure to third parties, marking as disputed or judgment be communicated to third parties or be published.
 
-[^32-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^32-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ## Chapter 6 Special Provisions on Data Processing by Federal Bodies
 
@@ -742,7 +742,7 @@ The federal bodies shall refuse or restrict disclosure or make disclosure subjec
 - a. essential public interests or the manifestly legitimate interests of the data subject so require; or
 - b. statutory duties of confidentiality or special data protection regulations so require.
 
-[^36-1]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^36-1]: [SR 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 
 #### Art. 37
 
@@ -772,7 +772,7 @@ They shall destroy personal data that the Federal Archives do not deem to be wor
 - a. the data are anonymised;
 - b. they must be preserved for evidentiary or security purposes or to safeguard the data subject's legitimate interests.
 
-[^38-1]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^38-1]: [SR 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 #### Art. 39
 
@@ -829,7 +829,7 @@ Instead of deleting or destroying the personal data, the federal body shall rest
 
 <sup>6</sup> The procedure is governed by the APA[^41-1]. The exceptions in Articles 2 and 3 APA do not apply.
 
-[^41-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^41-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 42
 
@@ -837,7 +837,7 @@ Instead of deleting or destroying the personal data, the federal body shall rest
 
 Where proceedings relating to access to official documents that contain personal data in accordance with the Freedom of Information Act of 17 December 2004[^42-1] are pending, the data subject may claim those rights in the proceedings that they would have under Article 41 of this Act in relation to the documents that are the subject matter of the access proceedings.
 
-[^42-1]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^42-1]: [SR 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 
 ## Chapter 7 Federal Data Protection and Information Commissioner
 
@@ -861,7 +861,7 @@ Where proceedings relating to access to official documents that contain personal
 
 <sup>6</sup> He or she is is not subject to the system of assessment under Article 4 paragraph 3 FPA.
 
-[^43-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^43-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 [^43-2]: Second to fourth sentences inserted by No I of the FA of 17 June 2022 (Employment Contract for the Head of the FDPIC), in force since 1 Sept. 2023 ([AS 2023 231](https://fedlex.data.admin.ch/eli/oc/2023/231); [BBl 2022 345](https://fedlex.data.admin.ch/eli/fga/2022/345), [432](https://fedlex.data.admin.ch/eli/fga/2022/432)).
 [^43-3]: Inserted by No I of the FA of 17 June 2022 (Employment Contract for the Head of the FDPIC), in force since 1 Sept. 2023 ([AS 2023 231](https://fedlex.data.admin.ch/eli/oc/2023/231); [BBl 2022 345](https://fedlex.data.admin.ch/eli/fga/2022/345), [432](https://fedlex.data.admin.ch/eli/fga/2022/432)).
 
@@ -940,7 +940,7 @@ The FDPIC shall ensure by means of suitable control measures, in particular in r
 
 <sup>4</sup> If the data subject has filed a report, the FDPIC shall inform them about the steps taken in response and the result of any investigation.
 
-[^49-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^49-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 50
 
@@ -993,7 +993,7 @@ It may in particular order that the federal body or the private person:
 
 <sup>3</sup> The FDPIC may contest appeal decisions of the Federal Administrative Court.
 
-[^52-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^52-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 53
 
@@ -1067,7 +1067,9 @@ The FDPIC shall keep a register of the processing activities of federal bodies. 
 
 <sup>1</sup> The FDPIC shall submit a report on his or her activities to the Federal Assembly every year. He or she shall submit the report to the Federal Council at the same time. The report shall be published.
 
-<sup>2</sup> In cases of general interest, the FDPIC shall inform the public about its findings and rulings.
+<sup>2</sup> In cases of general interest, the FDPIC shall inform the public about its findings and rulings.[^57-1]
+
+[^57-1]: The correction by the FA Drafting Committee of 2 July 2025, published on 7 July 2025, concerns the Italian text only ([AS 2025 444](https://fedlex.data.admin.ch/eli/oc/2025/444)).
 
 #### Art. 58
 
@@ -1089,7 +1091,7 @@ The FDPIC shall also carry out the following tasks in particular:
 
 <sup>3</sup> The FDPIC has the power to declare to foreign authorities that are responsible for data protection that direct service is permitted in relation to data protection in Switzerland, provided Switzerland is granted reciprocal rights.
 
-[^58-1]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^58-1]: [SR 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 
 ### Section 5 Fees
 
@@ -1163,7 +1165,7 @@ Any private person who wilfully fails to comply with a ruling issued by the FDPI
 
 <sup>2</sup> If a fine not exceeding 50,000 francs is under consideration and if the identification of the perpetrators in accordance with Article 6 ACLA requires measures that would be disproportionate in view of the potential penalty, the authority may decide not to pursue these persons but instead to order the business to pay the fine (Art. 7 ACLA).
 
-[^64-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^64-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 65
 
@@ -1214,7 +1216,7 @@ This Act does not apply to FDPIC investigations that are ongoing at the time tha
 
 For federal bodies, regulations in other federal legislation that relate to personal data shall continue to apply to the data of legal entities for five years from the date on which this Act come into force. In particular federal bodies may continue to disclose the data of legal entities in accordance with Article 57*s* paragraphs 1 and 2 of the Government and Administration Organisation Act of 21 March 1997[^71-1] for five years from the date on which this Act come into force if there is a legal basis that authorises them to disclose personal data.
 
-[^71-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^71-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 72
 

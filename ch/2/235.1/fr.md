@@ -4,11 +4,11 @@ title: Loi fédérale du 25 septembre 2020 sur la protection des données (LPD)
 short: LPD
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/491"
 language: fr
-version: 2025-04-01
+version: 2025-07-07
 adopted: 2020-09-25
 in_force: 2023-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/491/20250401/fr/xml/fedlex-data-admin-ch-eli-cc-2022-491-20250401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/491/20250401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/491/20250707/fr/xml/fedlex-data-admin-ch-eli-cc-2022-491-20250707-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/491/20250707/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/491/20250401/fr"
 
 (LPD)
 
-du 25 septembre 2020 (État le 1<sup>er</sup> avril 2025)
+du 25 septembre 2020 (État le 7 juillet 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +25,7 @@ vu les art. 95, al. 1, 97, al. 1, 122, al. 1, et 173, al. 2, de la Constitution[
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)
 
 ## Chapitre 1 But, champ d’application et autorité fédérale de surveillance
@@ -59,7 +59,7 @@ Elle ne s’applique pas:
 
 <sup>4</sup> Les registres publics relatifs aux rapports de droit privé, notamment l’accès à ces registres et les droits des personnes concernées, sont régis par les dispositions spéciales du droit fédéral applicable. À défaut la présente loi s’applique.
 
-[^2-1]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^2-1]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 
 #### Art. 3
 
@@ -69,8 +69,8 @@ Elle ne s’applique pas:
 
 <sup>2</sup> Les prétentions de droit privé sont régies par la loi fédérale du 18 décembre 1987 sur le droit international privé[^3-1]. Sont également réservées les dispositions régissant le champ d’application territorial du code pénal[^3-2].
 
-[^3-1]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
-[^3-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^3-1]: [RS 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
+[^3-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 4
 
@@ -410,7 +410,7 @@ Les al. 1 et 2 ne s’appliquent pas dans les cas suivants:
 
 <sup>4</sup> Si la décision individuelle automatisée émane d’un organe fédéral, ce dernier doit la qualifier comme telle. L’al. 2 ne s’applique pas lorsque la personne concernée ne doit pas être entendue avant la décision conformément à l’art. 30, al. 2, de la loi fédérale du 20 décembre 1968 sur la procédure administrative (PA)[^21-1] ou en vertu d’une autre loi fédérale.
 
-[^21-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^21-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 22
 
@@ -539,7 +539,7 @@ Il est au surplus possible de refuser, de restreindre ou de différer la communi
 
 <sup>4</sup> Le responsable du traitement indique le motif pour lequel il refuse, restreint ou diffère la communication des informations.
 
-[^26-1]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^26-1]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 27
 
@@ -651,7 +651,7 @@ Les actions concernant la protection de la personnalité sont régies par les ar
 
 <sup>4</sup> Il peut en outre demander que la rectification, l’effacement ou la destruction des données, l’interdiction du traitement ou de la communication à des tiers, la mention du caractère litigieux ou le jugement soient communiqués à des tiers ou publiés.
 
-[^32-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^32-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ## Chapitre 6 Dispositions particulières pour le traitement de données personnelles par des organes fédéraux
 
@@ -742,7 +742,7 @@ Ils refusent la communication, la restreignent ou l’assortissent de charges:
 - a. si un intérêt public important ou un intérêt digne de protection manifeste de la personne concernée l’exige, ou
 - b. si une obligation légale de garder le secret ou une disposition particulière de protection des données l’exige.
 
-[^36-1]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^36-1]: [RS 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 
 #### Art. 37
 
@@ -772,7 +772,7 @@ Ils détruisent les données personnelles que les Archives fédérales ont dési
 - a. ne soient rendues anonymes;
 - b. ne doivent être conservées à titre de preuve, par mesure de sûreté ou afin de sauvegarder un intérêt digne de protection de la personne concernée.
 
-[^38-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^38-1]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 #### Art. 39
 
@@ -829,7 +829,7 @@ Au lieu d’effacer ou de détruire les données personnelles, l’organe fédé
 
 <sup>6</sup> La procédure est régie par la PA[^41-1]. Les exceptions prévues aux art. 2 et 3 PA ne sont pas applicables.
 
-[^41-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^41-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 42
 
@@ -837,7 +837,7 @@ Au lieu d’effacer ou de détruire les données personnelles, l’organe fédé
 
 Tant que l’accès à des documents officiels contenant des données personnelles fait l’objet d’une procédure au sens de la loi du 17 décembre 2004 sur la transparence[^42-1], la personne concernée peut, dans le cadre de cette procédure, faire valoir les droits que lui confère l’art. 41 de la présente loi concernant les documents qui sont l’objet de la procédure d’accès.
 
-[^42-1]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^42-1]: [RS 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 
 ## Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence
 
@@ -861,7 +861,7 @@ Tant que l’accès à des documents officiels contenant des données personnell
 
 <sup>6</sup> Il n’est pas soumis au système d’évaluation prévu à l’art. 4, al. 3, LPers.
 
-[^43-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^43-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 [^43-2]: 2<sup>e</sup> à 4<sup>e</sup> phrases introduites par le ch. I de la LF du 17 juin 2022 (Rapports de travail du chef du Préposé fédéral à la protection des données et à la transparence), en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 231](https://fedlex.data.admin.ch/eli/oc/2023/231); [FF 2022 345](https://fedlex.data.admin.ch/eli/fga/2022/345), [432](https://fedlex.data.admin.ch/eli/fga/2022/432)).
 [^43-3]: Introduit par le ch. I de la LF du 17 juin 2022 (Rapports de travail du chef du Préposé fédéral à la protection des données et à la transparence), en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 231](https://fedlex.data.admin.ch/eli/oc/2023/231); [FF 2022 345](https://fedlex.data.admin.ch/eli/fga/2022/345), [432](https://fedlex.data.admin.ch/eli/fga/2022/432)).
 
@@ -940,7 +940,7 @@ Le PFPDT s’assure, par des mesures de contrôle appropriées portant notamment
 
 <sup>4</sup> Si la personne concernée est l’auteur de la dénonciation, le PFPDT l’informe des suites données à celle-ci et du résultat d’une éventuelle enquête.
 
-[^49-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^49-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 50
 
@@ -993,7 +993,7 @@ Il peut notamment ordonner à l’organe fédéral ou à la personne privée:
 
 <sup>3</sup> Le PFPDT a qualité pour recourir contre les décisions sur recours du Tribunal administratif fédéral.
 
-[^52-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^52-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 53
 
@@ -1067,7 +1067,9 @@ Le PFPDT tient un registre des activités de traitement des organes fédéraux. 
 
 <sup>1</sup> Le PFPDT remet annuellement un rapport sur son activité à l’Assemblée fédérale. Il transmet simultanément ce rapport au Conseil fédéral. Le rapport est publié.
 
-<sup>2</sup> S’il en va de l’intérêt général, le PFPDT informe le public de ses constatations et de ses décisions.
+<sup>2</sup> S’il en va de l’intérêt général, le PFPDT informe le public de ses constatations et de ses décisions.[^57-1]
+
+[^57-1]: Erratum de la CdR de l'Ass. féd. du 2 juil. 2025, publié le 7 juil. 2025, ne concerne que le texte italien ([RO 2025 444](https://fedlex.data.admin.ch/eli/oc/2025/444)).
 
 #### Art. 58
 
@@ -1089,7 +1091,7 @@ Le PFPDT a notamment les autres tâches suivantes:
 
 <sup>3</sup> Il est autorisé à remettre aux autorités étrangères chargées de la protection des données une déclaration indiquant que, dans le domaine de la protection des données, la Suisse autorise la notification directe sur son territoire si la réciprocité lui est accordée.
 
-[^58-1]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^58-1]: [RS 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 
 ### Section 5 Émoluments
 
@@ -1163,7 +1165,7 @@ Sont punies d’une amende de 250 000 francs au plus les personnes privées qui,
 
 <sup>2</sup> Lorsque l’amende entrant en ligne de compte ne dépasse pas 50 000 francs et que l’enquête rendrait nécessaires à l’égard des personnes punissables selon l’art. 6 DPA des mesures d’instruction hors de proportion avec la peine encourue, l’autorité peut renoncer à poursuivre ces personnes et condamner l’entreprise (art. 7 DPA) au paiement de l’amende à leur place.
 
-[^64-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^64-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 65
 
@@ -1214,7 +1216,7 @@ La présente loi ne s’applique ni aux enquêtes du PFPDT pendantes au moment d
 
 Pour les organes fédéraux, les dispositions d’autres actes de droit fédéral qui font référence à des données personnelles continuent de s’appliquer au traitement des données concernant des personnes morales pendant les cinq ans suivant l’entrée en vigueur de la présente loi. Pendant ce délai, les organes fédéraux peuvent en particulier continuer à communiquer des données concernant des personnes morales selon l’art. 57*s*, al. 1 et 2, de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^71-1] s’il existe une base légale permettant de communiquer des données personnelles.
 
-[^71-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^71-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 72
 
