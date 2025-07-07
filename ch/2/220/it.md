@@ -4,11 +4,11 @@ title: "Legge federale del 30 marzo 1911 di complemento del Codice civile svizze
 short: CO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: it
-version: 2025-01-01
+version: 2025-07-08
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20250101/it/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20250101-it-xml-33.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20250708/it/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20250708-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20250708/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20250101/it"
 
 (Libro quinto: Diritto delle obbligazioni)
 
-del 30 marzo 1911 (Stato 1° gennaio 2025)
+del 30 marzo 1911 (Stato 8 luglio 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -10050,11 +10050,11 @@ Lo statuto può accordare ai partecipanti il diritto di avere un rappresentante 
 
 [^656g-1]: Introdotto dalla cifra I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
-### K. Buoni di partecipazione
+### K. Buoni di godimento
 
 [^part3-tit26-chap1-lvlK-1]
 
-[^part3-tit26-chap1-lvlK-1]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^part3-tit26-chap1-lvlK-1]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)). Correzione della CdR dell’AF del 2 lug. 2025, pubblicata l’8 lug. 2025 ([RU 2025 447](https://fedlex.data.admin.ch/eli/oc/2025/447)).
 
 #### Art. 657
 

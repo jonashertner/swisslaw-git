@@ -4,11 +4,11 @@ title: "Loi fédérale du 30 mars 1911 complétant le Code civil suisse (Livre c
 short: CO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: fr
-version: 2025-01-01
+version: 2025-07-08
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20250101-fr-xml-33.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20250708/fr/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20250708-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20250708/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20250101/fr"
 
 (Livre cinquième: Droit des obligations)
 
-du 30 mars 1911 (État le 1<sup>er</sup> janvier 2025)
+du 30 mars 1911 (État le 8 juillet 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -10067,7 +10067,7 @@ Les statuts peuvent reconnaître aux participants le droit à un représentant a
 
 [^part3-tit26-chap1-lvlK-1]
 
-[^part3-tit26-chap1-lvlK-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746);[2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^part3-tit26-chap1-lvlK-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746);[2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)). Erratum de la CdR de l'Ass. féd. du 2 juil. 2025, publié le 8 juil. 2025, ne concerne que le texte italien ([RO 2025 447](https://fedlex.data.admin.ch/eli/oc/2025/447)).
 
 #### Art. 657
 

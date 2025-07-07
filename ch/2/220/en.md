@@ -4,11 +4,11 @@ title: "Federal Act of 30 March 1911 on the Amendment of the Swiss Civil Code (P
 short: CO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: en
-version: 2025-01-01
+version: 2025-07-08
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20250101/en/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20250101-en-xml-27.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20250101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20250708/en/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20250708-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20250708/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Part Five: The Code of Obligations)
 
-of 30 March 1911 (Status as of 1 January 2025)
+of 30 March 1911 (Status as of 8 July 2025)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -10064,7 +10064,7 @@ The articles of association may grant participation certificate holders the righ
 
 [^part3-tit26-chap1-lvlK-1]
 
-[^part3-tit26-chap1-lvlK-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^part3-tit26-chap1-lvlK-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)). The correction by the FA Drafting Commettee of 2 July 2025, published 8 July 2025 concerns the Italian text only ([AS 2025 447](https://fedlex.data.admin.ch/eli/oc/2025/447)).
 
 #### Art. 657
 

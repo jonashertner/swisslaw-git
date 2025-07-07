@@ -4,11 +4,11 @@ title: "Lescha federala dals 30 da mars 1911 davart la cumplettaziun dal cudesch
 short: DO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: rm
-version: 2025-01-01
+version: 2025-07-08
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20250101/rm/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20250101-rm-xml-17.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20250101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20250708/rm/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20250708-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20250708/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20250101/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-dals 30 da mars 1911 (versiun dal 1. da schaner 2025)
+dals 30 da mars 1911 (versiun dal 8 da fanadur 2025)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -10062,7 +10062,7 @@ Ils statuts pon conceder als participants il dretg d’avair in represchentant e
 
 [^part3-tit26-chap1-lvlK-1]
 
-[^part3-tit26-chap1-lvlK-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^part3-tit26-chap1-lvlK-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)). La rectificaziun da la CdR da la AF dals 2 da fanadur 2025, publitgada ils 8 da fanadur 2025, concerna mo il text talian ([AS 2025 447](https://fedlex.data.admin.ch/eli/oc/2025/447)).
 
 #### Art. 657
 
