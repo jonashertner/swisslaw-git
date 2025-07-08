@@ -3,11 +3,11 @@ sr: "0.360.514.1"
 title: Vertrag vom 15. Dezember 2004 zwischen der Schweizerischen Eidgenossenschaft und dem Fürstentum Liechtenstein über die Zusammenarbeit im Rahmen der schweizerischen Informationssysteme für Fingerabdrücke und DNA-Profile (mit Anlage)
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/322"
 language: de
-version: 2023-07-12
+version: 2025-07-09
 adopted: 2004-12-15
 in_force: 2006-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/322/20230712/de/xml/fedlex-data-admin-ch-eli-cc-2006-322-20230712-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/322/20230712/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/322/20250709/de/xml/fedlex-data-admin-ch-eli-cc-2006-322-20250709-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/322/20250709/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Originaltext
 
 Abgeschlossen am 15. Dezember 2004 Von der Bundesversammlung genehmigt am 16. Dezember 2005[^t-1] Ratifikationsurkunden ausgetauscht am 30. April 2006 In Kraft getreten am 1. Mai 2006
 
-(Stand am 12. Juli 2023)
+(Stand am 9. Juli 2025)
 
 [^t-1]: [AS 2006 2029](https://fedlex.data.admin.ch/eli/oc/2006/321)
 
@@ -40,7 +40,7 @@ im Bestreben, den grenzüberschreitenden Gefahren durch eine enge Sicherheitskoo
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.360.163.1](https://fedlex.data.admin.ch/eli/cc/2017/442)
+[^ingress-1]: [SR 0.360.163.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1478)
 
 ## Kapitel I: Allgemeine Bestimmungen
 
@@ -137,9 +137,11 @@ Sofern die zuständigen schweizerischen Behörden dem schweizerischen Bundesarch
 
 **Kosten**
 
-<sup>(1)</sup> Für die Bereitstellung der Infrastruktur, des Personals, der Datenübermittlung, der Organisation von Aus- und Weiterbildung, die Gewährleistung des Unterhalts und des Supports des automatisierten Fingerabdruck-Identifikationssystems (AFIS) und des DNA-Profil-Informationssystems sowie für den administrativen Aufwand bei der Bearbeitung von Schriftverkehr bezahlt das Fürstentum Liechtenstein der Schweizerischen Eidgenossenschaft eine Jahrespauschale von 30 000 Franken. Die Pauschale kann auf diplomatischem Weg geändert werden.
+<sup>(1)</sup> Für die Bereitstellung der Infrastruktur, des Personals, der Datenübermittlung, der Organisation von Aus- und Weiterbildung, die Gewährleistung des Unterhalts und des Supports des automatisierten Fingerabdruck-Identifikationssystems (AFIS) und des DNA-Profil-Informationssystems sowie für den administrativen Aufwand bei der Bearbeitung von Schriftverkehr bezahlt das Fürstentum Liechtenstein der Schweizerischen Eidgenossenschaft eine Jahrespauschale von 120 000 Franken. Die Pauschale kann auf diplomatischem Weg geändert werden.[^12-1]
 
 <sup>(2)</sup> Weitere Kosten für Leistungen anderer Dienstleister sind nicht Gegenstand dieses Vertrages.
+
+[^12-1]: Fassung gemäss Notenaustausch vom 9. Juli 2025, in Kraft getreten am 9. Juli 2025 ([AS 2025 510](https://fedlex.data.admin.ch/eli/oc/2025/510)).
 
 ## Kapitel II: Besondere Bestimmungen
 
@@ -177,7 +179,7 @@ Für die Abnahme von biometrischen erkennungsdienstlichen Daten, die bei Asylsuc
 
 <sup>(3)</sup> Die Registrierung des Vertrags beim Generalsekretariat der Vereinten Nationen nach Artikel 102 der Charta der Vereinten Nationen[^15-1] wird von schweizerischer Seite wahrgenommen.
 
-[^15-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^15-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 *Zu Urkund dessen* haben die Bevollmächtigten diesen Vertrag mit ihren Unterschriften versehen. Geschehen in Vaduz, in doppelter Ausführung in deutscher Sprache, am 15. Dezember 2004. Für die Schweizerische Eidgenossenschaft: Jean-Luc Vez Für das Fürstentum Liechtenstein: Adrian Hasler
 
@@ -185,13 +187,16 @@ Anlage[^t-2]
 
 ## Liste der schweizerischen Rechtsvorschriften, die nach Artikel 2 dieses Vertrages im Fürstentum Liechtenstein zur Anwendung gelangen:
 
-[^t-2]: Fassung gemäss Notenaustausch vom 12. Juli 2023, in Kraft getreten am 12. Juli 2023 ([AS 2023 388](https://fedlex.data.admin.ch/eli/oc/2023/388)).
+[^t-2]: Fassung gemäss Notenaustausch vom 9. Juli 2025, in Kraft getreten am 9. Juli 2025 ([AS 2025 510](https://fedlex.data.admin.ch/eli/oc/2025/510)).
 
 <table>
 <tr><th>SR Nr.</th><th>Erlass</th><th>AS</th></tr>
-<tr><td>311.0</td><td>Schweizerisches Strafgesetzbuch vom 21. Dezember 1937 *anwendbar* ist Art. 354 Abs. 4</td><td>*54* 757 *2022* 600</td></tr>
-<tr><td>312.0</td><td>Schweizerische Strafprozessordnung vom 5. Oktober 2007 (Strafprozessordnung, StPO) *anwendbar* sind Art. 255 Abs. 1 und 2, 257, 258 und 259 zur DNA-Analyse betr. die Probenahme und die Profilerstellung im Rahmen eines Strafverfahrens im Hinblick auf eine Übermittlung an die schweizerischen Behörden zur weiteren Bearbeitung</td><td>*2010* 1881 *2014* 2055</td></tr>
-<tr><td>363</td><td>Bundesgesetz vom 20. Juni 2003 über die Verwendung von DNA-Profilen im Strafverfahren und zur Identifizierung von unbekannten oder vermissten Personen (DNA-Profil-Gesetz) *anwendbar* sind Art. 2, 3, 6, 8, 9, 9*a* Bst. a, 11 Abs. 1, 2 und 4, Art. 14, 15 Abs. 1, Art. 16 Abs. 1, Abs. 2 Bst. a–d und Abs. 3–7, Art. 17 Abs. 1, Art. 18, 19, 20 Abs. 2, Art. 23 Abs. 1 und Art. 23*a*</td><td>*2004* 5269 *2010* 1573 *2014* 2055 *2022* 537 *2023* 309</td></tr>
-<tr><td>363.1</td><td>Verordnung vom 3. Dezember 2004 über die Verwendung von DNA-Profilen im Strafverfahren und zur Identifizierung von unbekannten oder vermissten Personen (DNA-Profil-Verordnung) *anwendbar* sind Art. 1, 2 Abs. 1, Art. 6, 6*a*, 7, 8, 9, 9*c*, 10, 11, 12 Abs. 1 und 2, Art. 13, 15*a*, 18*a* und Art. 19</td><td>*2004* 5279 *2005* 3337 *2008* 4943 *2014* 3467 *2021* 132 *2022* 568 *2023* 325</td></tr>
-<tr><td>361.3</td><td>Verordnung vom 6. Dezember 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten *anwendbar* sind Art. 2, 8 Abs. 1 Bst. a–c und e, Art. 9, 10, 12, 14, 16 Abs. 1, Art. 18, 22, 23 Abs. 2, 23*a* und Art. 26</td><td>*2014* 4479 *2021* 132 *2022* 568 *2023* 325</td></tr>
+<tr><td>311.0</td><td>Schweizerisches Strafgesetzbuch vom 21. Dezember 1937 *anwendbar* sind Art. 354 Abs. 4, Art. 356 Abs. 2 und 3, Art. 357 Abs. 1, jedoch nur in Bezug auf die Art. 6 und 11 des Beschlusses 2008/615/JI[^annexu1-lvlu1-1], Abs. 2 Bst. a, b und e sowie Abs. 3 Bst. c</td><td>*54* 757 *2022* 600 *2025* 348</td></tr>
+<tr><td>312.0</td><td>Schweizerische Strafprozessordnung vom 5. Oktober 2007 (Strafprozessordnung, StPO) *anwendbar* sind Art. 255 Abs. 1, 1<sup>bis</sup> und 2, 257, 258 und 259 zur DNA‑Analyse betr. die Probenahme und die Profilerstellung im Rahmen eines Strafverfahrens im Hinblick auf eine Übermittlung an die schweizerischen Behörden zur weiteren Bearbeitung</td><td>*2010* 1881 *2014* 2055 *2023* 468</td></tr>
+<tr><td>363</td><td>Bundesgesetz vom 20. Juni 2003 über die Verwendung von DNA-Profilen im Strafverfahren und zur Identifizierung von unbekannten oder vermissten Personen (DNA‑Profil-Gesetz) *anwendbar* sind Art. 2, 3, 6, 8, 9, 9*a* Bst. a, 11 Abs. 1, 2 und 4, Art. 13*a* Abs. 2, 3, 4 Bst. c, Abs. 5 und 6, Art. 14, 15 Abs. 1, Art. 16 Abs. 1, Abs. 2 Bst. a–d und Abs. 3–7, Art. 17 Abs. 1, Art. 18, 19, 20 Abs. 2, Art. 23 Abs. 1 und Art. 23*a*</td><td>*2004* 5269 *2010* 1573 *2014* 2055 *2022* 537 *2023* 309 *2025* 348[^annexu1-lvlu1-2]</td></tr>
+<tr><td>363.1</td><td>Verordnung vom 3. Dezember 2004 über die Verwendung von DNA-Profilen im Strafverfahren und zur Identifizierung von unbekannten oder vermissten Personen (DNA‑Profil-Verordnung) *anwendbar* sind Art. 1, 2 Abs. 1, Art. 6, 6*a*, 7, 8, 9, 9*c*, 10, 11, 12 Abs. 1 und 2, 13, 15*a*, 18*a* und 19</td><td>*2004* 5279 *2005* 3337 *2008* 4943 *2014* 3467 *2021* 132 *2022* 568 *2023* 325</td></tr>
+<tr><td>361.3</td><td>Verordnung vom 6. Dezember 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten *anwendbar* sind Art. 2, 8 Abs. 1 Bst. a–c und e, Art. 9, 10, 12, 14, 16 Abs. 1, Art. 18, 22, 23 Abs. 2, Art. 23*a* und Art. 26</td><td>*2014* 163 *2021* 132 *2022* 568 *2023* 325</td></tr>
 </table>
+
+[^annexu1-lvlu1-1]: Beschluss 2008/615/JI des Rates vom 23. Juni 2008 zur Vertiefung der grenzüberschreitenden Zusammenarbeit, insbesondere zur Bekämpfung des Terrorismus und der grenzüberschreitenden Kriminalität, Fassung gemäss ABl. L 210 vom 6.8.2008, S. 1.
+[^annexu1-lvlu1-2]: Art. 13*a* tritt am 1. Januar 2027 in Kraft.

@@ -3,11 +3,11 @@ sr: "0.360.514.1"
 title: "Accord du 15 décembre 2004 entre la Confédération suisse et la Principauté du Liechtenstein concernant la coopération dans le cadre des systèmes d'information suisses sur les empreintes digitales et les profils d'ADN (avec appendice)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/322"
 language: fr
-version: 2023-07-12
+version: 2025-07-09
 adopted: 2004-12-15
 in_force: 2006-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/322/20230712/fr/xml/fedlex-data-admin-ch-eli-cc-2006-322-20230712-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/322/20230712/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/322/20250709/fr/xml/fedlex-data-admin-ch-eli-cc-2006-322-20250709-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/322/20250709/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instruments de ratification échangés le 30 avril 2006
 
 Entré en vigueur le 1<sup>er</sup> mai 2006
 
-(État le 12 juillet 2023)
+(État le 9 juillet 2025)
 
 [^t-1]: [RO 2006 2029](https://fedlex.data.admin.ch/eli/oc/2006/321)
 
@@ -46,7 +46,7 @@ désireuses de lutter efficacement contre les dangers transfrontières au moyen 
 
 sont convenues des dispositions suivantes:
 
-[^ingress-1]: [RS 0.360.163.1](https://fedlex.data.admin.ch/eli/cc/2017/442)
+[^ingress-1]: [RS 0.360.163.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1478)
 
 ## Chapitre I Dispositions générales
 
@@ -143,9 +143,11 @@ Les autorités suisses ne peuvent proposer ni fournir aux Archives fédérales d
 
 **Coûts**
 
-<sup>(1)</sup> La Principauté du Liechtenstein verse à la Confédération suisse un montant forfaitaire annuel de 30 000 francs à titre de participation aux frais liés à l’infrastructure, au personnel, à la transmission des données, à l’organisation de la formation et du perfectionnement, à l’entretien du matériel et à la gestion du système AFIS et du système d’information fondé sur les profils d’ADN, ainsi qu’aux tâches administratives inhérentes à la correspondance. Ce montant forfaitaire peut être modifié par la voie diplomatique.
+<sup>(1)</sup> La Principauté du Liechtenstein verse à la Confédération suisse un montant forfaitaire annuel de 120 000 francs à titre de participation aux frais liés à l’infrastructure, au personnel, à la transmission des données, à l’organisation de la formation et du perfectionnement, à l’entretien du matériel et à la gestion du système AFIS et du système d’information fondé sur les profils d’ADN, ainsi qu’aux tâches administratives inhérentes à la correspondance. Ce montant forfaitaire peut être modifié par la voie diplomatique.[^12-1]
 
 <sup>(2)</sup> Les autres frais relatifs aux prestations fournies par d’autres prestataires ne font pas l’objet du présent Accord.
+
+[^12-1]: Nouvelle teneur selon l’échange de notes du 9 juil. 2025, en vigueur depuis le 9 juil. 2025 ([RO 2025 510](https://fedlex.data.admin.ch/eli/oc/2025/510)).
 
 ## Chapitre II Dispositions spéciales
 
@@ -183,7 +185,7 @@ Les prélèvements de données signalétiques biométriques de requérants d’a
 
 <sup>(3)</sup> La Partie suisse se chargera de faire enregistrer le présent Accord auprès du Secrétariat général des Nations Unies, conformément à l’art. 102 de la Charte des Nations Unies[^15-1].
 
-[^15-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^15-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 *En foi de quoi,* les plénipotentiaires ont signé le présent Accord. Fait à Vaduz, en deux exemplaires en langue allemande, le 15 décembre 2004. Pour la Confédération suisse: Jean-Luc Vez Pour la Principauté du Liechtenstein: Adrian Hasler
 
@@ -191,13 +193,16 @@ Appendice[^t-2]
 
 ## Liste des dispositions du droit suisse applicables par la Principauté de Liechtenstein en vertu de l’art. 2 du présent Accord:
 
-[^t-2]: Nouvelle teneur selon l’échange de notes du 12 juil. 2023, en vigueur depuis le 12 juil. 2023 ([RO 2023 388](https://fedlex.data.admin.ch/eli/oc/2023/388)).
+[^t-2]: Nouvelle teneur selon l’échange de notes du 9 juil. 2025, en vigueur depuis le 9 juil. 2025 ([RO 2025 510](https://fedlex.data.admin.ch/eli/oc/2025/510)).
 
 <table>
 <tr><th>RS</th><th>Acte</th><th>RO</th></tr>
-<tr><td>311.0</td><td>Code pénal suisse du 21 décembre 1937 *Est applicable* l’art. 354, al. 4</td><td>*54* 781 *2022* 600</td></tr>
-<tr><td>312.0</td><td>Code de procédure pénale suisse du 5 octobre 2007 (code de procédure pénale, CPP) *Sont applicables* les art. 255, al. 1 et 2, 257, 258 et 259 relatifs à l’analyse d’ADN concernant le prélèvement d’échantillons et l’établissement de profils dans le cadre d’une procédure pénale, en vue d’une transmission aux autorités suisses pour traitement</td><td>*2010* 1881 *2014* 2055</td></tr>
-<tr><td>363</td><td>Loi fédérale du 20 juin 2003 sur l’utilisation de profils d’ADN dans les procédures pénales et sur l’identification de personnes inconnues ou disparues (loi sur les profils d’ADN) *Sont applicables* les art. 2, 3, 6, 8, 9, 9*a*, let. a, 11, al. 1, 2 et 4, art. 14, 15, al. 1, art. 16, al. 1, al. 2, let. a à d et al. 3 à 7, art. 17, al. 1, art. 18, 19, 20, al. 2, art. 23, al. 1, et art. 23*a*</td><td>*2004* 5269 *2010* 1573 *2014* 2055 *2022* 537 *2023* 309</td></tr>
-<tr><td>363.1</td><td>Ordonnance du 3 décembre 2004 sur l’utilisation de profils d’ADN dans les procédures pénales et sur l’identification de personnes inconnues ou disparues (ordonnance sur les profils d’ADN) *Sont applicables* les art. 1, 2, al. 1, art. 6, 6*a*, 7, 8, 9, 9c, 10, 11, 12, al. 1 et 2, art. 13, 15*a*, 18*a* et art. 19</td><td>*2004* 5279 *2005* 3337 *2008* 4943 *2014* 3467 *2021* 132 *2022* 568 *2023* 325</td></tr>
-<tr><td>361.3</td><td>Ordonnance du 6 décembre 2013 sur le traitement des données signalétiques biométriques *Sont applicables* les art 2, 8, al. 1, let. a à c et e, art. 9, 10, 12, 14, 16, al. 1, art. 18, 22, 23, al. 2, 23*a* et art. 26</td><td>*2014* 4479 *2021* 132 *2022* 568 *2023* 325</td></tr>
+<tr><td>311.0</td><td>Code pénal suisse du 21 décembre 1937 *Sont applicables* les art. 354, al. 4, 356, al. 2 et 3, 357, al. 1, cependant uniquement en relation avec les art. 6 et 11, al. 2, let. a, b et e, et al. 3, let. c, de la décision 2008/615/JAI[^annexu1-lvlu1-1]</td><td>*54* 781 *2022* 600 *2025* 348</td></tr>
+<tr><td>312.0</td><td>Code de procédure pénale suisse du 5 octobre 2007 (code de procédure pénale, CPP) *Sont applicables* les art. 255, al. 1, 1<sup>bis</sup> et 2, 257, 258 et 259 relatifs à l’analyse d’ADN concernant le prélèvement d’échantillons et l’établissement de profils dans le cadre d’une procédure pénale, en vue d’une transmission aux autorités suisses pour traitement</td><td>*2010* 1881 *2014* 2055 *2023* 468</td></tr>
+<tr><td>363</td><td>Loi fédérale du 20 juin 2003 sur l’utilisation de profils d’ADN dans les procédures pénales et sur l’identification de personnes inconnues ou disparues (loi sur les profils d’ADN) *Sont applicables* les art. 2, 3, 6, 8, 9, 9*a*, let. a, 11, al. 1, 2 et 4, art. 13*a*, al. 2, 3, 4, let. c, et al. 5 et 6, art. 14, 15, al. 1, art. 16, al. 1 et 2, let. a à d, et al. 3 à 7, art. 17, al. 1, art. 18, 19, 20, al. 2, art. 23, al. 1, et art. 23*a*</td><td>*2004* 5269 *2010* 1573 *2014* 2055 *2022* 537 *2023* 309 *2025* 348[^annexu1-lvlu1-2]</td></tr>
+<tr><td>363.1</td><td>Ordonnance du 3 décembre 2004 sur l’utilisation de profils d’ADN dans les procédures pénales et sur l’identification de personnes inconnues ou disparues (ordonnance sur les profils d’ADN) *Sont applicables* les art. 1, 2, al. 1, art. 6, 6*a*, 7, 8, 9, 9*c*, 10, 11, 12, al. 1 et 2, art. 13, 15*a*, 18*a* et art. 19</td><td>*2004* 5279 *2005* 3337 *2008* 4943 *2014* 3467 *2021* 132 *2022* 568 *2023* 325</td></tr>
+<tr><td>361.3</td><td>Ordonnance du 6 décembre 2013 sur le traitement des données signalétiques biométriques *Sont applicables* les art. 2, 8, al. 1, let. a à c et e, art. 9, 10, 12, 14, 16, al. 1, art. 18, 22, 23, al. 2, 23*a* et art. 26</td><td>*2014* 4479 *2021* 132 *2022* 568 *2023* 325</td></tr>
 </table>
+
+[^annexu1-lvlu1-1]: Décision 2008/615/JAI du Conseil du 23 juin 2008 relative à l’approfondissement de la coopération transfrontalière, notamment en vue de lutter contre le terrorisme et la criminalité transfrontalière, JO L 210 du 6.8.2008, p. 1.
+[^annexu1-lvlu1-2]: L’art. 13*a* entre en vigueur le 1<sup>er</sup> janvier 2027.
