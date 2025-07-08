@@ -4,11 +4,11 @@ title: Luftreinhalte-Verordnung vom 16. Dezember 1985 (LRV)
 short: LRV
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/208_208_208"
 language: de
-version: 2024-01-01
+version: 2025-07-09
 adopted: 1985-12-16
 in_force: 1986-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20240101-de-xml-17.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/de/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20250709-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20250709/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20240101/de"
 
 (LRV)
 
-vom 16. Dezember 1985 (Stand am 1. Januar 2024)
+vom 16. Dezember 1985 (Stand am 9. Juli 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 12, 13, 16 und 39 des Bundesgesetzes vom 7. Oktober 19
 
 verordnet:
 
-[^ingress-1]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^ingress-1]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -265,7 +265,7 @@ In der Regel ist die Messung oder Kontrolle unter Vorbehalt abweichender Bestimm
 
 <sup>4</sup> Die gemessenen und errechneten Werte, die verwendeten Messverfahren und die Betriebsbedingungen der Anlage während der Messungen müssen in einem Messbericht festgehalten werden.
 
-[^14-1]: [SR 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^14-1]: [SR 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
 [^14-2]: Fassung gemäss Ziff. I der V vom 11. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
 
 #### Art. 15
@@ -370,7 +370,7 @@ Der Nachweis der Konformität umfasst:
 
 <sup>3</sup> Der Hersteller oder Importeur muss die Konformitätserklärung nach dem Inverkehrbringen der Baumaschine oder des Partikelfiltersystems zehn Jahre lang aufbewahren.
 
-[^19b-1]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^19b-1]: [SR 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 [^19b-2]: Verordnung (EU) Nr. 2016/1628 des Europäischen Parlaments und des Rates vom 14. September 2016 über die Anforderungen in Bezug auf die Emissionsgrenzwerte für gasförmige Schadstoffe und luftverunreinigende Partikel und die Typgenehmigung für Verbrennungsmotoren für nicht für den Strassenverkehr bestimmte mobile Maschinen und Geräte, Fassung gemäss ABl. L 252 vom 16.09.2016, S. 53; ergänzt durch: Delegierte Verordnung (EU) 2017/654 der Kommission vom 19. Dezember 2016, ABl. L 102 vom 13.04.2017, S. 1; Delegierte Verordnung (EU) 2017/655 der Kommission vom 19. Dezember 2016, ABl. L 102 vom 13.04.2017, S. 334; Durchführungsverordnung (EU) 2017/656 der Kommission vom 19. Dezember 2016, ABl. L 102 vom 13.04.2017, S. 364.
 [^19b-3]: Eingefügt durch Ziff. I der V vom 11. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
 [^19b-4]: Fassung gemäss Ziff. I der V vom 14. Okt. 2015, in Kraft seit 16. Nov. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
@@ -417,7 +417,7 @@ Der Nachweis der Konformität umfasst:
 <sup>2</sup> Der Nachweis der Konformität kann auch mit einer Bescheinigung einer Konformitätsbewertungsstelle nach Artikel 18 THG[^20c-2], dass der Typ der Maschine oder des Geräts mit Verbrennungsmotor die Anforderungen von Anhang 4 Ziffer 4 erfüllt (Konformitätsbescheinigung), erbracht werden. Dabei muss der Motor mit der Handelsmarke oder dem Handelsnamen des Herstellers des Motors und dem Namen der Konformitätsbewertungsstelle gekennzeichnet sein.
 
 [^20c-1]: Siehe Fussnote zu Art. 19*b* Abs. 1<sup>bis</sup>.
-[^20c-2]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^20c-2]: [SR 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 ### 5*b*. Abschnitt: …
 
@@ -679,7 +679,7 @@ Das BAFU kontrolliert die Einhaltung der Vorschriften über das Inverkehrbringen
 Das BAFU gibt die minimalen Geodatenmodelle und Darstellungsmodelle für Geobasisdaten nach dieser Verordnung vor, für die es im Anhang 1 der Geoinformationsverordnung vom 21. Mai 2008[^39a-2] als Fachstelle des Bundes bezeichnet ist.
 
 [^39a-1]: Eingefügt durch Anhang 2 Ziff. 8 der V vom 21. Mai 2008 über Geoinformation, in Kraft seit 1. Juli 2008 ([AS 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
-[^39a-2]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^39a-2]: [SR 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 
 ### 2. Abschnitt: Änderung und Aufhebung bisherigen Rechts
 
@@ -993,7 +993,7 @@ Für die Begrenzung der einzelnen Inhaltsstoffe des Staubes gelten die Anforderu
 <tr><td>Thallium</td><td>und seine Verbindungen</td><td colspan="2">Tl</td><td colspan="3">1</td></tr>
 <tr><td>Vanadium</td><td>und seine Verbindungen</td><td colspan="2">V</td><td colspan="3">3</td></tr>
 <tr><td>Zinn</td><td>und seine Verbindungen</td><td colspan="2">Sn</td><td colspan="3">3</td></tr>
-<tr><td colspan="3"><sup>1</sup> Soweit nicht als krebserzeugende Verbindung nach Ziffer 8 erfasst. <sup>2</sup> Soweit leicht löslich.</td><td colspan="2">[tab]</td><td>[tab]</td></tr>
+<tr><td colspan="3"><sup>1</sup> Soweit nicht als krebserzeugende Verbindung nach Ziffer 8 erfasst. <sup>2</sup> Soweit leicht löslich.</td><td colspan="2"></td><td></td></tr>
 </table>
 
 ### 6 Anorganische gas- oder dampfförmige Stoffe
@@ -1053,7 +1053,7 @@ Die Emissionskonzentration eines der in Ziffer 62 aufgeführten Stoffe darf folg
 <sup>6</sup> Für Stoffe, die nach Anhang 1.4 der Chemikalien-Risikoreduktions-Verordnung vom 18. Mai 2005[^annex1-lvlu1-lvl7-lvl71-2] zu einem Abbau der Ozonschicht führen und die nicht in der Tabelle unter Ziffer 72 als Stoffe der Klasse 1 klassiert sind, müssen die Emissionen nach Absatz 1 Buchstabe a begrenzt werden. Vorbehalten bleiben die Bestimmungen von Ziffer 8.
 
 [^annex1-lvlu1-lvl7-lvl71-1]: Als Stoffe mit begründetem Verdacht auf eine krebserzeugende Wirkung gelten insbesondere die in Abschnitt III (krebserzeugende Arbeitsstoffe) in den Kategorien 3–5 der «MAK- und BAT-Werte-Liste» der Deutschen Forschungsgemeinschaft aufgeführten Stoffe. Bezugsquelle: Wiley-VCH Verlag GmbH, D-69469 Weinheim.
-[^annex1-lvlu1-lvl7-lvl71-2]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^annex1-lvlu1-lvl7-lvl71-2]: [SR 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 ### 72 Tabelle der organischen gas-, dampf- oder partikelförmigen Stoffe
 
@@ -1403,7 +1403,7 @@ schaft
 
 <sup>2</sup> Abfälle dürfen in Zementöfen nur verwertet werden, wenn sie nach Artikel 24 der Abfallverordnung vom 4. Dezember 2015[^annex2-lvlu1-lvl1-lvl11-lvl111-1] (VVEA) dazu geeignet sind.
 
-[^annex2-lvlu1-lvl1-lvl11-lvl111-1]: [SR 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
+[^annex2-lvlu1-lvl1-lvl11-lvl111-1]: [SR 814.600](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9574)
 
 ### 111<sup>bis</sup> Bezugsgrösse
 
@@ -1448,7 +1448,7 @@ Die Emissionen von Blei und Zink sowie deren Verbindungen, angegeben als Metalle
 
 Die Emissionen von polychlorierten Dibenzo-p-dioxinen (Dioxine) und Dibenzofuranen (Furane), angegeben als Summenwert der Toxizitätsäquivalente nach EN 1948-1[^annex2-lvlu1-lvl1-lvl11-lvl118-1], dürfen 0,1 ng/m<sup>3</sup> nicht überschreiten.
 
-[^annex2-lvlu1-lvl1-lvl11-lvl118-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex2-lvlu1-lvl1-lvl11-lvl118-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [[www.snv.ch](http://www.snv.ch)](http://www.snv.ch).
 
 ### 119 Überwachung
 
@@ -1744,7 +1744,7 @@ Für die Lagerung sind Festdachtanks mit Schwimmdecke oder Schwimmdachtanks mit 
 
 <sup>4</sup> Die Bestimmungen von Absatz 3 Buchstabe b gelten nicht beim Betanken mit Kleinabgabe-Geräten.
 
-[^annex2-lvlu1-lvl3-lvl33-1]: ISO 13331 Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex2-lvlu1-lvl3-lvl33-1]: ISO 13331 Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [[www.snv.ch](http://www.snv.ch)](http://www.snv.ch).
 
 ### 4 Metalle
 
@@ -1846,7 +1846,7 @@ Die Emissionen von Stickoxiden, angegeben als Stickstoffdioxid, dürfen die Wert
 
 Diagramm:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20240101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/de/xml/image/image1.png)
 
 ### 474 Messungen
 
@@ -1870,7 +1870,7 @@ Die staubförmigen Emissionen dürfen gesamthaft 5 mg/m<sup>3</sup> nicht übers
 
 Die in Elektrolichtbogenöfen entstehenden Emissionen polychlorierter Dibenzo-p-dioxine (Dioxine) und Dibenzofurane (Furane), angegeben als Summenwert der Toxizitätsäquivalente nach EN 1948-1[^annex2-lvlu1-lvl4-lvl48-lvl483-1], dürfen 0.1 ng/m<sup>3</sup> nicht überschreiten.
 
-[^annex2-lvlu1-lvl4-lvl48-lvl483-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex2-lvlu1-lvl4-lvl48-lvl483-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [[www.snv.ch](http://www.snv.ch)](http://www.snv.ch).
 
 ### 5 Landwirtschaft und Lebensmittel
 
@@ -2050,7 +2050,7 @@ Für Anlagen, in denen Güter durch unmittelbare Berührung mit Feuerungsabgasen
 
 <sup>3</sup> Sonderabfälle sind Abfälle, die im Abfallverzeichnis, das nach Artikel 2 der Verordnung vom 22. Juni 2005[^annex2-lvlu1-lvl7-lvl71-lvl711-1] über den Verkehr mit Abfällen (VeVA) erlassen wurde, als Sonderabfälle bezeichnet sind.
 
-[^annex2-lvlu1-lvl7-lvl71-lvl711-1]: [SR 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
+[^annex2-lvlu1-lvl7-lvl71-lvl711-1]: [SR 814.610](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9575)
 
 ### 712 Verhältnis zu Anhang 1
 
@@ -2086,7 +2086,7 @@ Für Anlagen, in denen Güter durch unmittelbare Berührung mit Feuerungsabgasen
 
 <sup>2</sup> Für Anlagen mit einem Gehalt an Stickoxiden (Stickstoffmonoxid und Stickstoffdioxid), angegeben als Stickstoffdioxid, von 1000 mg/m<sup>3</sup> oder mehr im Rohgas, kann die Behörde abweichend von Absatz 1 Buchstabe h einen milderen Emissionsgrenzwert für Ammoniak und Ammoniumverbindungen festlegen.
 
-[^annex2-lvlu1-lvl7-lvl71-lvl714-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex2-lvlu1-lvl7-lvl71-lvl714-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [[www.snv.ch](http://www.snv.ch)](http://www.snv.ch).
 
 ### 715 …
 
@@ -2198,7 +2198,7 @@ Die Emissionen dürfen folgende Werte nicht überschreiten:
 <table>
 <tr><th colspan="2"></th><th></th><th></th><th></th><th colspan="6">Feuerungswärmeleistung</th></tr>
 <tr><th colspan="4"></th><th></th><th>bis 1 MW</th><th>über 1 MW bis 10 MW</th><th colspan="4">über 10 MW</th></tr>
-<tr><td>– Bezugsgrösse:</td><td colspan="4">[tab]</td><td>[tab]</td><td>[tab]</td><td colspan="4">[tab]</td></tr>
+<tr><td>– Bezugsgrösse:</td><td colspan="4"></td><td></td><td></td><td colspan="4"></td></tr>
 <tr><td>Die Grenzwerte beziehen sich auf einen Sauerstoffgehalt im Abgas von</td><td colspan="4">% vol</td><td>13</td><td>11</td><td colspan="4">11</td></tr>
 <tr><td>– Feststoffe insgesamt:</td><td colspan="4">mg/m<sup>3</sup></td><td>20</td><td>20</td><td colspan="4">10</td></tr>
 <tr><td>– Kohlenmonoxid (CO)</td><td colspan="4">mg/m<sup>3</sup></td><td>500</td><td>250</td><td colspan="4">150</td></tr>
@@ -2430,7 +2430,7 @@ Anhang 3[^t-3]
 
 ## Ergänzende und abweichende Emissionsbegrenzungen für Feuerungsanlagen
 
-[^t-3]: Fassung gemäss Ziff. II der V vom 20. Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)). Bereinigt gemäss Ziff. II der V vom 15. Dez. 1997 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), vom 23. Juni 2004 ([AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), vom 4. Juli 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), vom 22. Okt. 2008 ([AS 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)), der V vom 18. Juni 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), vom 14. Okt. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), Ziff. I der V vom 3. März 2017 ([AS 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), Ziff. II der V vom 11. April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)) und Ziff. I der V vom 12. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)) und Ziff. II der V vom 20. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)). Siehe auch die UeB Änd. 11.4.2018 hiervor.
+[^t-3]: Fassung gemäss Ziff. II der V vom 20. Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)). Bereinigt gemäss Ziff. II der V vom 15. Dez. 1997 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), vom 23. Juni 2004 ([AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), vom 4. Juli 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), vom 22. Okt. 2008 ([AS 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)), der V vom 18. Juni 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), vom 14. Okt. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), Ziff. I der V vom 3. März 2017 ([AS 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), Ziff. II der V vom 11. April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), Ziff. I der V vom 12. Febr. 2020 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)), Ziff. II der V vom 20. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)). Die Berichtigung vom 9. Juli 2025 betrifft nur den französischen und italienischen Text ([AS 2025 448](https://fedlex.data.admin.ch/eli/oc/2025/448)). Siehe auch die UeB Änd. 11.4.2018 hiervor.
 
 ### 1 Geltungsbereich
 
@@ -2568,7 +2568,7 @@ Heizöl «Mittel» und «Schwer» dürfen nicht in Anlagen oder betrieblichen Ei
 <tr><td>– Bezugsgrösse: Die Grenzwerte beziehen sich auf einen Sauerstoffgehalt im Abgas von</td><td>% vol</td><td>7</td><td>7</td><td>7</td><td>7</td><td colspan="2">7</td><td colspan="5">6</td></tr>
 <tr><td>– Feststoffe insgesamt:</td><td>mg/m<sup>3</sup></td><td>100</td><td>50</td><td>20</td><td>20</td><td colspan="2">10</td><td colspan="5">10</td></tr>
 <tr><td>– Kohlenmonoxid (CO)</td><td>mg/m<sup>3</sup></td><td>2500</td><td>1000</td><td>1000</td><td>150</td><td colspan="2">150</td><td colspan="5">150</td></tr>
-<tr><td>– Schwefeloxide (SO<sub>x</sub>), angegeben als Schwefeldioxid (SO<sub>2</sub>)</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td colspan="2">[tab]</td><td colspan="5">[tab]</td></tr>
+<tr><td>– Schwefeloxide (SO<sub>x</sub>), angegeben als Schwefeldioxid (SO<sub>2</sub>)</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td></tr>
 <tr><td>– Wirbelschichtfeuerungen</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td>–</td><td>350</td><td colspan="2">350</td><td colspan="5">200</td></tr>
 <tr><td>– andere Feuerungen bei Einsatz von Steinkohle</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td>–</td><td>1300</td><td colspan="2">350</td><td colspan="5">150</td></tr>
 <tr><td>– sonstige Anlagen</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td>–</td><td>1000</td><td colspan="2">350</td><td colspan="5">150</td></tr>
@@ -2641,7 +2641,7 @@ In Feuerungsanlagen mit einer Feuerungswärmeleistung unter 1 MW dürfen nur Koh
 
 <sup>5</sup> Vorbehalten bleiben die besonderen Anforderungen an Feuerungen nach Ziffer 523.
 
-[^annex3-lvlu1-lvl4-lvl42-lvl422-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex3-lvlu1-lvl4-lvl42-lvl422-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [[www.snv.ch](http://www.snv.ch)](http://www.snv.ch).
 
 ### 523 Besondere Anforderungen an Heizkessel
 
@@ -2673,8 +2673,8 @@ In Feuerungsanlagen mit einer Feuerungswärmeleistung unter 1 MW dürfen nur Koh
 
 <sup>6</sup> Bei Einzelraumfeuerungen, die nach Ziffer 22 Buchstabe f nicht periodisch gemessen werden, kontrolliert die Behörde insbesondere Verbrennungsrückstände und den Zustand der Anlage. Sie informiert dabei erstmalig auch über die sachgerechte Bedienung der Anlage sowie über die Verwendung und Lagerung von Brennstoffen.
 
-[^annex3-lvlu1-lvl4-lvl42-lvl524-1]: [SR 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
-[^annex3-lvlu1-lvl4-lvl42-lvl524-2]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex3-lvlu1-lvl4-lvl42-lvl524-1]: [SR 730.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8505)
+[^annex3-lvlu1-lvl4-lvl42-lvl524-2]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [[www.snv.ch](http://www.snv.ch)](http://www.snv.ch).
 
 ### 525 Anforderungen an Staubabscheidesysteme
 
@@ -2755,7 +2755,7 @@ Wird eine Einzelfeuerung abwechselnd mit verschiedenen Brennstoffen betrieben, s
 
 <sup>2</sup> Der Mischgrenzwert wird nach der folgenden Formel berechnet:
 
-G<sub>M</sub> = G<sub>1</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20240101/de/xml/image/image2.png)</sub> + G<sub>2</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20240101/de/xml/image/image3.png)</sub> + …. + G<sub>n</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20240101/de/xml/image/image4.png)</sub>
+G<sub>M</sub> = G<sub>1</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/de/xml/image/image2.png)</sub> + G<sub>2</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/de/xml/image/image3.png)</sub> + …. + G<sub>n</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/de/xml/image/image4.png)</sub>
 
 Dabei bedeuten:
 
@@ -2800,7 +2800,7 @@ Die Bestimmungen dieses Anhanges gelten für Baumaschinen und deren Partikelfilt
 <sup>3</sup> Die Anforderungen nach Absatz 2 gelten als eingehalten, wenn die Baumaschine mit einem Partikelfiltersystem betrieben wird, das die Anforderungen nach Ziffer 32 erfüllt.
 
 [^annex4-lvlu1-lvl3-lvl31-1]: ABl. L 59 vom 27.02.1998, S. 1; zuletzt geändert durch Richtlinie 2012/46/EU, ABl. L 353 vom 06.12.2012, S. 80.
-[^annex4-lvlu1-lvl3-lvl31-2]: UNECE-Reglement Nr. 49 vom 15. April 1982 über einheitliche Vorschriften der zu ergreifenden Massnahmen zur Reduktion der gasförmigen Schadstoffemissionen sowie der Partikelemissionen von Selbstzündungsmotoren zum Antrieb von Fahrzeugen sowie zur Reduktion von gasförmigen Schadstoffemissionen von Fremdzündungsmotoren zum Antrieb von Fahrzeugen, die mit Erdgas oder mit Flüssiggas betrieben werden; zuletzt geändert durch Änderungsserie 04 Ergänzung 8, in Kraft seit 22. Januar 2015, Annex 4C, Particle Number Measurement Test Procedure. Bezugsquelle: www.unece.org. Dieses Reglement kann beim Bundesamt für Umwelt, Worblentalstr. 68, 3063 Ittigen, kostenlos eingesehen werden.
+[^annex4-lvlu1-lvl3-lvl31-2]: UNECE-Reglement Nr. 49 vom 15. April 1982 über einheitliche Vorschriften der zu ergreifenden Massnahmen zur Reduktion der gasförmigen Schadstoffemissionen sowie der Partikelemissionen von Selbstzündungsmotoren zum Antrieb von Fahrzeugen sowie zur Reduktion von gasförmigen Schadstoffemissionen von Fremdzündungsmotoren zum Antrieb von Fahrzeugen, die mit Erdgas oder mit Flüssiggas betrieben werden; zuletzt geändert durch Änderungsserie 04 Ergänzung 8, in Kraft seit 22. Januar 2015, Annex 4C, Particle Number Measurement Test Procedure. Bezugsquelle: [www.unece.org](http://www.unece.org). Dieses Reglement kann beim Bundesamt für Umwelt, Worblentalstr. 68, 3063 Ittigen, kostenlos eingesehen werden.
 [^annex4-lvlu1-lvl3-lvl31-3]: Siehe Fussnote zu Art. 19*b* Abs. 1<sup>bis</sup>.
 
 ### 32 Anforderungen an Partikelfiltersysteme
@@ -2818,8 +2818,8 @@ Die Bestimmungen dieses Anhanges gelten für Baumaschinen und deren Partikelfilt
 
 <sup>2</sup> Die Messverfahren sowie die Prüfabläufe richten sich nach dem anerkannten Stand der Technik, namentlich nach der SN 277206[^annex4-lvlu1-lvl3-lvl32-1] oder nach dem UNECE Reglement Nr. 132[^annex4-lvlu1-lvl3-lvl32-2].
 
-[^annex4-lvlu1-lvl3-lvl32-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^annex4-lvlu1-lvl3-lvl32-2]: UNECE-Reglement Nr. 132 vom 17. Juni 2014 über einheitliche Vorschriften für die Genehmigung von Nachrüst-Abgasreinigungsanlagen (REC) für schwere Nutzfahrzeuge, land- und forstwirtschaftliche Traktoren und für mobile Maschinen und Geräte, ausgerüstet mit Kompressionszündungsmotoren; geändert durch Änderungsserie 01, in Kraft seit 22. Jan. 2015 (Add.131 Rev.1). Bezugsquelle: www. unece.org. Dieses Reglement kann beim Bundesamt für Umwelt, Worblentalstr. 68, 3063 Ittigen, kostenlos eingesehen werden.
+[^annex4-lvlu1-lvl3-lvl32-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
+[^annex4-lvlu1-lvl3-lvl32-2]: UNECE-Reglement Nr. 132 vom 17. Juni 2014 über einheitliche Vorschriften für die Genehmigung von Nachrüst-Abgasreinigungsanlagen (REC) für schwere Nutzfahrzeuge, land- und forstwirtschaftliche Traktoren und für mobile Maschinen und Geräte, ausgerüstet mit Kompressionszündungsmotoren; geändert durch Änderungsserie 01, in Kraft seit 22. Jan. 2015 (Add.131 Rev.1). Bezugsquelle: [www.unece.org](http://www.unece.org). Dieses Reglement kann beim Bundesamt für Umwelt, Worblentalstr. 68, 3063 Ittigen, kostenlos eingesehen werden.
 
 ### 33 Kennzeichnung
 
@@ -2878,7 +2878,7 @@ Anhang 5[^t-5]
 
 <sup>2</sup> Naturbelassenes Pflanzenöl sowie Pflanzenölmethylester, der den Anforderungen der Norm SN EN 14214 (Flüssige Mineralölerzeugnisse – Fettsäure-Methylester (FAME) zur Verwendung in Dieselmotoren und als Heizöl – Anforderungen und Prüfverfahren)[^annex5-lvlu1-lvl1-lvl11-1] entspricht, sind Heizöl «Extra leicht Öko» gleichgestellt.
 
-[^annex5-lvlu1-lvl1-lvl11-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex5-lvlu1-lvl1-lvl11-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 
 ### 11<sup>bis</sup> Schwefelgehalt von Heizölen
 
@@ -2969,8 +2969,8 @@ Holzpellets und -briketts, die als naturbelassenes Holz im Sinne von Ziffer 31 A
 - a. die Holzpellets den Anforderungen der Norm SN EN ISO 17225-2 (Feste Biobrennstoffe - Brennstoffspezifikationen und -klassen - Teil 2: Einteilung von Holzpellets)[^annex5-lvlu1-lvl3-lvl32-1] an die Eigenschaftsklassen A1 oder A2 entsprechen oder von gleichwertiger Qualität sind;
 - b. die Holzbriketts den Anforderungen der Norm SN EN ISO 17225-3 (Feste Biobrennstoffe - Brennstoffspezifikationen und -klassen - Teil 3: Einteilung von Holzbriketts)[^annex5-lvlu1-lvl3-lvl32-2] an die Eigenschaftsklassen A1 oder A2 entsprechen oder von gleichwertiger Qualität sind.
 
-[^annex5-lvlu1-lvl3-lvl32-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^annex5-lvlu1-lvl3-lvl32-2]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex5-lvlu1-lvl3-lvl32-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
+[^annex5-lvlu1-lvl3-lvl32-2]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 
 ### 4 Gasbrennstoffe und Gastreibstoffe
 
@@ -3020,7 +3020,7 @@ In Gasen nach Ziffer 41 Buchstaben a und b darf der Schwefelgehalt den Wert von 
 <tr><td>– Schwefelgehalt</td><td>mg/kg</td><td>–</td><td>10,0</td><td>EN ISO 13032, EN ISO 20846, EN ISO 20884</td></tr>
 <tr><td>– Bleigehalt</td><td>mg/l</td><td>–</td><td>5,0</td><td>EN 237</td></tr>
 <tr><td colspan="5">Hinweise: <sup>a</sup> Die Prüfergebnisse sind nach der Norm EN ISO 4259 «Petroleum products – determination and application of precision data in relation to methods of test» zu beurteilen.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Für die Prüfung massgebende (gemeinsame) Normen: – EN: Norm des Europäischen Komitees für Normung CEN – ISO: Norm der Internationalen Normenorganisation ISO Diese Normen kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.</td></tr>
+<tr><td colspan="5"><sup>b</sup> Für die Prüfung massgebende (gemeinsame) Normen: – EN: Norm des Europäischen Komitees für Normung CEN – ISO: Norm der Internationalen Normenorganisation ISO Diese Normen kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).</td></tr>
 <tr><td colspan="5"><sup>c</sup> Für Normalbenzin muss abweichend von dieser Tabelle die ROZ mindestens 91 und die MOZ mindestens 81 betragen.</td></tr>
 <tr><td colspan="5"><sup>d</sup> Gilt für Benzine, welche vom 1. Mai bis 30. September verbraucht werden.</td></tr>
 <tr><td colspan="5"><sup>e</sup> Andere Monoalkohole und Ether mit einem Siedepunkt nicht höher als 210 °C.</td></tr>
@@ -3050,7 +3050,7 @@ Dieselöl darf gewerbsmässig nur eingeführt oder in Verkehr gebracht werden, w
 <tr><td>– Schwefelgehalt</td><td>mg/kg</td><td>–</td><td>10,0</td><td>EN ISO 20846, EN ISO 20884, EN ISO 13032</td></tr>
 <tr><td colspan="5">Hinweise:</td></tr>
 <tr><td colspan="5"><sup>a</sup> Die Prüfergebnisse sind nach der Norm EN ISO 4259 «Petroleum products – determination and application of precision data in relation to methods of test» zu beurteilen.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Für die Prüfung massgebende (gemeinsame) Normen: – EN: Norm des Europäischen Komitees für Normung CEN – ISO: Norm der Internationalen Normenorganisation ISO Diese Normen kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.</td></tr>
+<tr><td colspan="5"><sup>b</sup> Für die Prüfung massgebende (gemeinsame) Normen: – EN: Norm des Europäischen Komitees für Normung CEN – ISO: Norm der Internationalen Normenorganisation ISO Diese Normen kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).</td></tr>
 <tr><td colspan="5">c Für Winterqualitäten muss die Cetanzahl abweichend von dieser Tabelle mindestens den Anforderungen nach SN EN 590 entsprechen.</td></tr>
 </table>
 
@@ -3199,15 +3199,15 @@ S (µg/m<sup>3</sup>) = S-Wert (vgl. Ziff. 3 und 9)
 
 Diagramm 1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20240101/de/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/de/xml/image/image5.png)
 
 ### Bestimmung des Korrekturfaktors g für Bebauung und Bewuchs
 
 Diagramm 2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20240101/de/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/de/xml/image/image6.png)
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20240101/de/xml/image/image7.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/de/xml/image/image7.png)</sub>
 
 I = Höhe des höchsten massgeblichen Hindernisbereiches (Ziff. 5)
 

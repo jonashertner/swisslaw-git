@@ -4,11 +4,11 @@ title: "Ordinanza del 16 dicembre 1985 contro l'inquinamento atmosferico (OIAt)"
 short: OIAt
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/208_208_208"
 language: it
-version: 2024-01-01
+version: 2025-07-09
 adopted: 1985-12-16
 in_force: 1986-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20240101-it-xml-17.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/it/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20250709-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20250709/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20240101/it"
 
 (OIAt)[^t-1]
 
-del 16 dicembre 1985 (Stato 1° gennaio 2024)
+del 16 dicembre 1985 (Stato 9 luglio 2025)
 
 [^t-1]: [RU 1986 835](https://fedlex.data.admin.ch/eli/oc/1986/835_835_835)
 
@@ -27,7 +27,7 @@ visti gli articoli 12, 13, 16 e 39 della legge del 7 ottobre 1983[^ingress-1] su
 
 ordina:
 
-[^ingress-1]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^ingress-1]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 
 ## Capitolo 1: Disposizioni generali
 
@@ -47,7 +47,7 @@ Essa regola:
 - c. il carico inquinante massimo ammissibile per l’aria (valori limite d’immissione);
 - d. la procedura nel caso in cui le immissioni siano eccessive.
 
-[^1-1]: Introdotta dal n. I dell’O del 20 nov. 1991, in vigore dal 1° feb. 1992 ([RU 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)).
+[^1-1]: Introdotta dalla cifra I dell’O del 20 nov. 1991, in vigore dal 1° feb. 1992 ([RU 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)).
 
 #### Art. 2
 
@@ -84,7 +84,7 @@ Sono considerate eccessive le immissioni che superano uno o più valori limite d
 
 <sup>6</sup> Per messa in commercio s’intende il primo trasferimento o cessione a titolo oneroso o gratuito di un apparecchio o di una macchina per la distribuzione o l’utilizzo in Svizzera. È equiparata alla messa in commercio la prima messa in servizio di apparecchi e macchine nella propria azienda a condizione che non ci sia stata una messa in commercio precedente.[^2-1]
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 18 giu. 2010, in vigore dal 15 lug. 2010 ([RU 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 18 giu. 2010, in vigore dal 15 lug. 2010 ([RU 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)).
 
 ## Capitolo 2: Emissioni
 
@@ -104,7 +104,7 @@ Per i seguenti impianti valgono esigenze completive o derogatorie:
 - b. per gli impianti a combustione: le esigenze secondo l’allegato 3;
 - c.[^3-1] per le macchine di cantiere e i relativi sistemi di filtri antiparticolato secondo l’articolo 19*a*, nonché per le macchine e gli apparecchi con motore a combustione interna secondo l’articolo 20*b*: le esigenze di cui all’allegato 4.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 20 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 20 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 
 #### Art. 4
 
@@ -139,8 +139,8 @@ Sono possibili dal punto di vista tecnico e dell’esercizio i provvedimenti lim
 
 <sup>3</sup> Per i camini industriali vale l’allegato 6. Se la necessaria altezza di costruzione H non può essere realizzata o se il parametro H<sub>o</sub> è superiore a 100 m, l’autorità, a titolo sostitutivo, rende più severe le limitazioni delle emissioni previste negli allegati 1 a 3.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 20 nov. 1991, in vigore dal 1° feb. 1992 ([RU 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)).
-[^6-2]: Nuovo testo giusta il n. I dell’O del 20 nov. 1991, in vigore dal 1° feb. 1992 ([RU 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 1991, in vigore dal 1° feb. 1992 ([RU 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)).
+[^6-2]: Nuovo testo giusta la cifra I dell’O del 20 nov. 1991, in vigore dal 1° feb. 1992 ([RU 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)).
 
 ### Sezione 2: Limitazione delle emissioni degli impianti stazionari esistenti
 
@@ -160,7 +160,7 @@ Le disposizioni sulla limitazione preventiva delle emissioni degli impianti staz
 
 <sup>3</sup> Il titolare può essere dispensato dal risanamento, se si impegna a disattivare l’impianto entro il termine di risanamento.
 
-[^8-1]: Per. 2 introdotto dal n. I dell’O del 20 nov. 1991, in vigore dal 1° feb. 1992 ([RU 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)).
+[^8-1]: Per. 2 introdotto dalla cifra I dell’O del 20 nov. 1991, in vigore dal 1° feb. 1992 ([RU 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)).
 
 #### Art. 9
 
@@ -243,9 +243,9 @@ Fatte salve le disposizioni derogatorie degli allegati 2, 3 e 4, la misurazione 
 
 <sup>4</sup> Per gli impianti dai quali possono uscire emissioni considerevoli, l’autorità ordina la misurazione e la registrazione continue delle emissioni o di un altro parametro d’esercizio che permetta il controllo delle emissioni.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O dell’11 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O dell’11 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
 [^13-2]: Correzione del 16 apr. 2019 ([RU 2019 1225](https://fedlex.data.admin.ch/eli/oc/2019/232))
-[^13-3]: Nuovo testo giusta il n. I dell’O dell’11 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^13-3]: Nuovo testo giusta la cifra I dell’O dell’11 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
 
 #### Art. 13a
 
@@ -255,7 +255,7 @@ Fatte salve le disposizioni derogatorie degli allegati 2, 3 e 4, la misurazione 
 
 <sup>2</sup> L’autorità ha la facoltà di prescindere dalle verifiche periodiche di cui al capoverso 1 se il terzo incaricato esegue solo controlli e misurazioni per cui sono previste procedure di misurazione semplificate.
 
-[^13a-1]: Introdotto dal n. I dell’O dell’11 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^13a-1]: Introdotto dalla cifra I dell’O dell’11 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
 
 #### Art. 14
 
@@ -269,8 +269,8 @@ Fatte salve le disposizioni derogatorie degli allegati 2, 3 e 4, la misurazione 
 
 <sup>4</sup> I valori misurati e quelli calcolati, i metodi di misura utilizzati e le condizioni d’esercizio dell’impianto durante le misurazioni sono consegnati nel verbale di misurazione.
 
-[^14-1]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
-[^14-2]: Nuovo testo giusta il n. I dell’O dell’11 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^14-1]: [RS 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
+[^14-2]: Nuovo testo giusta la cifra I dell’O dell’11 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
 
 #### Art. 15
 
@@ -302,8 +302,8 @@ In caso di misurazione continua delle emissioni, i valori limite sono considerat
 
 <sup>3</sup> L’autorità può stabilire limitazioni meno severe delle emissioni per gli impianti stazionari se è provato che non sono disponibili i prodotti chimici necessari per l’esercizio degli impianti di depurazione dei gas di scarico. Limitazioni meno severe delle emissioni sono escluse per le sostanze altamente tossiche o cancerogene.[^16-2]
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 832](https://fedlex.data.admin.ch/eli/oc/2022/832)).
-[^16-2]: Introdotto dal n. I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 832](https://fedlex.data.admin.ch/eli/oc/2022/832)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 832](https://fedlex.data.admin.ch/eli/oc/2022/832)).
+[^16-2]: Introdotto dalla cifra I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 832](https://fedlex.data.admin.ch/eli/oc/2022/832)).
 
 ### Sezione 4: Emissioni da veicoli e da infrastrutture per i trasporti
 
@@ -329,7 +329,7 @@ Se è accertato o se c’è da aspettarsi che veicoli o infrastrutture per i tra
 
 [^chap2-sec4a-1]
 
-[^chap2-sec4a-1]: Introdotta dal n. I dell’O del 19 set. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)).
+[^chap2-sec4a-1]: Introdotta dalla cifra I dell’O del 19 set. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)).
 
 #### Art. 19a
 
@@ -343,8 +343,8 @@ Se è accertato o se c’è da aspettarsi che veicoli o infrastrutture per i tra
 
 <sup>4</sup> Su domanda, nei casi in cui vengono messe in funzione macchine di cantiere nell’ambito di test o dimostrazioni, l’autorità può accordare deroghe alle esigenze di cui all’allegato 4 numero 3. Le deroghe sono accordate fino a un massimo di dieci giorni.[^19a-2]
 
-[^19a-1]: Abrogato dal n. I dell’O del 20 ott. 2021, con effetto dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
-[^19a-2]: Introdotto dal n. I dell’O del 14 ott. 2015, in vigore dal 16 nov. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
+[^19a-1]: Abrogato dalla cifra I dell’O del 20 ott. 2021, con effetto dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
+[^19a-2]: Introdotto dalla cifra I dell’O del 14 ott. 2015, in vigore dal 16 nov. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
 
 #### Art. 19b
 
@@ -374,10 +374,10 @@ La prova di conformità comprende:
 
 <sup>3</sup> Il fabbricante o l’importatore deve conservare la dichiarazione di conformità per 10 anni dal momento della messa in commercio della macchina di cantiere o del sistema di filtro antiparticolato.
 
-[^19b-1]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^19b-1]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 [^19b-2]: Regolamento (UE) 2016/1628 del Parlamento europeo e del Consiglio, del 14 settembre 2016, relativo alle prescrizioni in materia di limiti di emissione di inquinanti gassosi e particolato inquinante e di omologazione per i motori a combustione interna destinati alle macchine e agli apparecchi mobili non stradali, versione della GU L 252 del 16.09.2016, pag. 53; integrato da: regolamento delegato (UE) 2017/654 della Commissione, del 19 dicembre 2016, GU L 102 del 13.04.2017, pag. 1; regolamento delegato (UE) 2017/655 della Commissione, del 19 dicembre 2016, GU L 102 del 13.04.2017, pag. 334; regolamento di esecuzione (UE) 2017/656 della Commissione, del 19 dicembre 2016, GU L 102 del 13.04.2017, pag. 364.
-[^19b-3]: Introdotto dal n. I dell’O dell’11 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
-[^19b-4]: Nuovo testo giusta il n. I dell’O del 14 ott. 2015, in vigore dal 16 nov. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
+[^19b-3]: Introdotto dalla cifra I dell’O dell’11 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^19b-4]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2015, in vigore dal 16 nov. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
 
 ### Sezione 5: ...
 
@@ -385,19 +385,19 @@ La prova di conformità comprende:
 
 [^20-1]
 
-[^20-1]: Abrogato dal n. I dell’O del 20 ott. 2021, con effetto dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
+[^20-1]: Abrogato dalla cifra I dell’O del 20 ott. 2021, con effetto dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 
 #### Art. 20a
 
 [^20a-1]
 
-[^20a-1]: Introdotto dal n. I dell’O del 23 giu. 2004 ([RU 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)). Abrogato dal n. I dell’O del 20 ott. 2021, con effetto dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
+[^20a-1]: Introdotto dalla cifra I dell’O del 23 giu. 2004 ([RU 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)). Abrogato dalla cifra I dell’O del 20 ott. 2021, con effetto dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 
 ### Sezione 5*a*: Esigenze per le macchine e gli apparecchi con motore a combustione interna
 
 [^chap2-sec5a-1]
 
-[^chap2-sec5a-1]: Introdotta dal n. I dell’O del 18 giu. 2010 ([RU 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)). Nuovo testo giusta il n. I dell’O dell’11 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^chap2-sec5a-1]: Introdotta dalla cifra I dell’O del 18 giu. 2010 ([RU 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)). Nuovo testo giusta la cifra I dell’O dell’11 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
 
 #### Art. 20b
 
@@ -421,7 +421,7 @@ La prova di conformità comprende:
 <sup>2</sup> La prova di conformità può essere fornita anche con un certificato rilasciato da un organismo di valutazione della conformità secondo l’articolo 18 LOTC[^20c-2], che attesti che il tipo di macchina o apparecchio con motore a combustione interna soddisfa le esigenze di cui all’allegato 4 cifra 4 (certificato di conformità). Il motore deve essere contrassegnato con il marchio o la denominazione commerciale del costruttore e il nome dell’organismo di valutazione della conformità.
 
 [^20c-1]: Cfr. nota a piè di pagina relativa all’art. 19*b* cpv. 1<sup>bis</sup>.
-[^20c-2]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^20c-2]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 ### Sezione 5*b*: ...
 
@@ -429,7 +429,7 @@ La prova di conformità comprende:
 
 [^20d20e-1]
 
-[^20d20e-1]: Introdotti dal n. I dell’O dell’11 apr. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)). Abrogati dal n. I dell’O del 20 ott. 2021, con effetto dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
+[^20d20e-1]: Introdotti dalla cifra I dell’O dell’11 apr. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)). Abrogati dalla cifra I dell’O del 20 ott. 2021, con effetto dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 
 ### Sezione 6: Combustibili
 
@@ -449,7 +449,7 @@ Chi importa o offre combustibili a scopo commerciale deve fornire all’acquiren
 
 [^23-1]
 
-[^23-1]: Abrogato dal n. I dell’O del 4 lug. 2007, con effetto dal 1° set. 2007 ([RU 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)).
+[^23-1]: Abrogato dalla cifra I dell’O del 4 lug. 2007, con effetto dal 1° set. 2007 ([RU 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)).
 
 ### Sezione 7: Carburanti
 
@@ -477,7 +477,7 @@ Chi importa o offre carburanti a scopo commerciale deve fornire all’acquirente
 
 [^chap2-sec8-1]
 
-[^chap2-sec8-1]: Introdotta dal n. I dell’O del 20 nov. 1991, in vigore dal 1° feb. 1992 ([RU 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)). Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° mar. 1998 ([RU 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)).
+[^chap2-sec8-1]: Introdotta dalla cifra I dell’O del 20 nov. 1991, in vigore dal 1° feb. 1992 ([RU 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)). Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° mar. 1998 ([RU 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)).
 
 #### Art. 26a
 
@@ -485,7 +485,7 @@ Chi importa o offre carburanti a scopo commerciale deve fornire all’acquirente
 
 I rifiuti possono essere bruciati o sottoposti a decomposizione termica soltanto in impianti secondo l’allegato 2 cifra 7; è fatta eccezione per l’incenerimento di rifiuti secondo l’allegato 2 cifra 11.
 
-[^26a-1]: Nuovo testo giusta il n. I dell’O del 4 lug. 2007, in vigore dal 1° set. 2007 ([RU 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)).
+[^26a-1]: Nuovo testo giusta la cifra I dell’O del 4 lug. 2007, in vigore dal 1° set. 2007 ([RU 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)).
 
 #### Art. 26b
 
@@ -497,7 +497,7 @@ I rifiuti possono essere bruciati o sottoposti a decomposizione termica soltanto
 
 <sup>3</sup> In determinate regioni o determinati periodi l’autorità può limitare o vietare l’incenerimento di rifiuti provenienti da boschi, campi, giardini e orti al di fuori degli impianti se sono prevedibili immissioni eccessive.
 
-[^26b-1]: Introdotto dal n. I dell’O del 4 lug. 2007, in vigore dal 1° set. 2007 ([RU 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)).
+[^26b-1]: Introdotto dalla cifra I dell’O del 4 lug. 2007, in vigore dal 1° set. 2007 ([RU 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)).
 
 ## Capitolo 3: Immissioni
 
@@ -544,7 +544,7 @@ L’autorità allestisce un piano dei provvedimenti giusta l’articolo 44*a* de
 - a. un’infrastruttura per i trasporti;
 - b. più impianti stazionari.
 
-[^31-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° mar. 1998 ([RU 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)).
+[^31-1]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° mar. 1998 ([RU 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)).
 
 #### Art. 32
 
@@ -569,7 +569,7 @@ Sono provvedimenti ai sensi del capoverso 1 lettera c:
 - a. per gli impianti stazionari: termini di risanamento più brevi oppure limitazioni completive o più severe delle emissioni;
 - b. per le infrastrutture per i trasporti: provvedimenti riguardanti la costruzione, l’esercizio, la gestione o la limitazione del traffico.
 
-[^32-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° mar. 1998 ([RU 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)).
+[^32-1]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° mar. 1998 ([RU 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)).
 
 #### Art. 33
 
@@ -581,7 +581,7 @@ Sono provvedimenti ai sensi del capoverso 1 lettera c:
 
 <sup>3</sup> I Cantoni verificano regolarmente l’efficacia dei provvedimenti e, se necessario, adattano i piani dei provvedimenti. Ne informano il pubblico.
 
-[^33-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° mar. 1998 ([RU 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)).
+[^33-1]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° mar. 1998 ([RU 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)).
 
 #### Art. 34
 
@@ -626,12 +626,12 @@ Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle 
 
 <sup>4</sup> La Confederazione esegue i rilevamenti sullo stato e l’evoluzione dell’inquinamento atmosferico sull’insieme del territorio svizzero (art. 39).[^36-6]
 
-[^36-1]: Nuovo testo giusta il n. I dell’O del 20 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
-[^36-2]: Nuovo testo giusta il n. I dell’O del 14 ott. 2015, in vigore dal 16 nov. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
-[^36-3]: Nuovo testo giusta il n. I dell’O del 18 giu. 2010, in vigore dal 15 lug. 2010 ([RU 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)).
-[^36-4]: Nuovo testo giusta il n. II 13 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^36-1]: Nuovo testo giusta la cifra I dell’O del 20 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
+[^36-2]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2015, in vigore dal 16 nov. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
+[^36-3]: Nuovo testo giusta la cifra I dell’O del 18 giu. 2010, in vigore dal 15 lug. 2010 ([RU 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)).
+[^36-4]: Nuovo testo giusta la cifra II 13 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 [^36-5]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
-[^36-6]: Introdotto dal n. I dell’O del 18 giu. 2010, in vigore dal 15 giu. 2010 ([RU 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)).
+[^36-6]: Introdotto dalla cifra I dell’O del 18 giu. 2010, in vigore dal 15 giu. 2010 ([RU 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)).
 
 #### Art. 37
 
@@ -648,10 +648,10 @@ L’UFAM controlla il rispetto delle prescrizioni relative alla messa in commerc
 
 <sup>3</sup> Se gli impianti controllati non sono conformi alle esigenze, l’UFAM ordina i necessari provvedimenti. In casi gravi, può vietare l’ulteriore offerta e messa in commercio degli impianti o esigere l’adeguamento di quelli già in commercio.
 
-[^37-1]: Nuovo testo giusta il n. I dell’O del 18 giu. 2010, in vigore dal 15 lug. 2010 ([RU 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)).
-[^37-2]: Nuovo testo giusta il n. I dell’O del 20 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
-[^37-3]: Nuovo testo giusta il n. I dell’O del 20 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
-[^37-4]: Nuovo testo giusta il n. I dell’O dell’11 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^37-1]: Nuovo testo giusta la cifra I dell’O del 18 giu. 2010, in vigore dal 15 lug. 2010 ([RU 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)).
+[^37-2]: Nuovo testo giusta la cifra I dell’O del 20 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
+[^37-3]: Nuovo testo giusta la cifra I dell’O del 20 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
+[^37-4]: Nuovo testo giusta la cifra I dell’O dell’11 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
 
 #### Art. 38
 
@@ -665,10 +665,10 @@ L’UFAM controlla il rispetto delle prescrizioni relative alla messa in commerc
 
 <sup>4</sup> Se constata che un importatore o un commerciante importa rispettivamente mette in commercio a più riprese combustibili o carburanti che non soddisfano le esigenze di qualità di cui all’allegato 5, l’UFAM notifica il fatto all’autorità cantonale competente per l’azione penale ed eventualmente alle autorità doganali.[^38-4]
 
-[^38-1]: Nuovo testo giusta il n. I dell’O del 23 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)).
-[^38-2]: Nuovo testo giusta il n. I dell’O del 23 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)).
-[^38-3]: Nuovo testo giusta il n. I dell’O del 14 ott. 2015, in vigore dal 16 nov. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
-[^38-4]: Introdotto dal n. I dell’O del 14 ott. 2015, in vigore dal 16 nov. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
+[^38-1]: Nuovo testo giusta la cifra I dell’O del 23 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)).
+[^38-2]: Nuovo testo giusta la cifra I dell’O del 23 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)).
+[^38-3]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2015, in vigore dal 16 nov. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
+[^38-4]: Introdotto dalla cifra I dell’O del 14 ott. 2015, in vigore dal 16 nov. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
 
 #### Art. 39
 
@@ -685,7 +685,7 @@ L’UFAM controlla il rispetto delle prescrizioni relative alla messa in commerc
 L’UFAM stabilisce i modelli di geodati e i modelli di rappresentazione minimi per i geodati di base ai sensi della presente ordinanza per i quali è designato quale servizio specializzato della Confederazione nell’allegato 1 dell’ordinanza del 21 maggio 2008[^39a-2] sulla geoinformazione.
 
 [^39a-1]: Introdotto dall’all. 2 n. 8 dell’O del 21 mag. 2008 sulla geoinformazione, in vigore dal 1° lug. 2008 ([RU 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
-[^39a-2]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^39a-2]: [RS 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 
 ### Sezione 2: Modificazione e abrogazione del diritto vigente
 
@@ -693,7 +693,7 @@ L’UFAM stabilisce i modelli di geodati e i modelli di rappresentazione minimi 
 
 [^40-1]
 
-[^40-1]: Abrogato dal n. IV 30 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^40-1]: Abrogato dalla cifra IV 30 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 #### Art. 41
 
@@ -719,7 +719,7 @@ L’ordinanza del 10 dicembre 1984[^41-1] sulla lotta contro l’inquinamento at
 
 [^42a-1]
 
-[^42a-1]: Introdotto dal n. I dell’O dell’11 apr. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)). Abrogato dal n. I dell’O del 20 ott. 2021, con effetto dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
+[^42a-1]: Introdotto dalla cifra I dell’O dell’11 apr. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)). Abrogato dalla cifra I dell’O del 20 ott. 2021, con effetto dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 
 ### Sezione 4: Entrata in vigore
 
@@ -731,19 +731,19 @@ La presente ordinanza entra in vigore il 1° marzo 1986.
 
 [^u1-1]
 
-[^u1-1]: [RU 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124). Abrogate dal n. IV 30 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^u1-1]: [RU 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124). Abrogate dalla cifra IV 30 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 ## Disposizioni transitorie della modifica del 15 dicembre 1997
 
 [^u2-1]
 
-[^u2-1]: [RU 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223). Abrogate dal n. IV 30 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^u2-1]: [RU 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223). Abrogate dalla cifra IV 30 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 ## Disposizioni transitorie della modifica del 25 agosto 1999
 
 [^u3-1]
 
-[^u3-1]: [RU 1999 2498](https://fedlex.data.admin.ch/eli/oc/1999/386). Abrogate dal n. IV 30 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^u3-1]: [RU 1999 2498](https://fedlex.data.admin.ch/eli/oc/1999/386). Abrogate dalla cifra IV 30 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 ## Disposizioni finali della modifica del 30 aprile 2003
 
@@ -803,7 +803,7 @@ La presente ordinanza entra in vigore il 1° marzo 1986.
 
 [^u8-1]
 
-[^u8-1]: [RU 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395). Abrogate dal n. IV dell’O dell’11 apr. 2018, con effetto dal 1° giu. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^u8-1]: [RU 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395). Abrogate dalla cifra IV dell’O dell’11 apr. 2018, con effetto dal 1° giu. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
 
 ## Disposizioni transitorie concernenti la modifica del 14 ottobre 2015
 
@@ -864,7 +864,7 @@ Allegato 1[^t-2]
 
 ## Limitazione preventiva generale delle emissioni
 
-[^t-2]: Aggiornato dal n. II delle O del 20 nov. 1991 ([RU 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), del 15 dic. 1997 ([RU 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), del 23 giu. 2004 ([RU 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), dal n. II 10 dell’O del 18 mag. 2005 sull’abrogazione e la modifica di ordinanze in relazione con l’entrata in vigore della legge sui prodotti chimici ([RU 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)), dal n. II delle O del 4 lug. 2007 ([RU 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), del 14 ott. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)) e dalla correzione del 30 nov. 2021, in vigore dal 1° gen. 2024 ([RU 2021 789](https://fedlex.data.admin.ch/eli/oc/2021/789)).
+[^t-2]: Aggiornato dalla cifra II delle O del 20 nov. 1991 ([RU 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), del 15 dic. 1997 ([RU 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), del 23 giu. 2004 ([RU 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), dalla cifra II 10 dell’O del 18 mag. 2005 sull’abrogazione e la modifica di ordinanze in relazione con l’entrata in vigore della legge sui prodotti chimici ([RU 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)), dalla cifra II delle O del 4 lug. 2007 ([RU 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), del 14 ott. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)) e dalla correzione del 30 nov. 2021, in vigore dal 1° gen. 2024 ([RU 2021 789](https://fedlex.data.admin.ch/eli/oc/2021/789)).
 
 ### 1 Campo d’applicazione
 
@@ -1059,7 +1059,7 @@ La concentrazione d’emissione di sostanze secondo la cifra 62 non deve superar
 <sup>6</sup> Per le sostanze che, secondo l’allegato 1.4 dell’ordinanza del 18 maggio 2005[^annex1-lvlu1-lvl7-lvl71-2] sulla riduzione dei rischi inerenti ai prodotti chimici, riducono lo strato di ozono e che nella tabella della cifra 72 non figurano come appartenenti alla classe 1, le emissioni devono essere limitate secondo il capoverso 1 lettera a. Restano salve le disposizioni della cifra 8.
 
 [^annex1-lvlu1-lvl7-lvl71-1]: Sono segnatamente considerate sostanze per le quali esiste il sospetto fondato di un effetto cancerogeno le sostanze che figurano nella sezione III (*krebserregende Arbeitsstoffe*) nelle categorie da 3 a 5 della lista «MAK- und BAT-Werte-Liste» della *Deutsche Forschungsgemeinschaft*. Fonte: Wiley-VCH Verlag GmbH, D-69469 Weinheim.
-[^annex1-lvlu1-lvl7-lvl71-2]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^annex1-lvlu1-lvl7-lvl71-2]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 ### 72 Tabella delle sostanze organiche che si presentano sotto forma di gas, vapore o particolato
 
@@ -1292,7 +1292,7 @@ Allegato 2[^t-3]
 
 ## Limitazioni completive o derogatorie delle emissioni degli impianti speciali
 
-[^t-3]: Aggiornato dal n. II dell’O del 20 nov. 1991 ([RU 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), dal n. II dell’O del 15 dic. 1997 ([RU 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), dall’all. n. 5 dell’O del 23 giu. 1999 ([RU 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), dal n. II dell’O del 30 apr. 2003 ([RU 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), dell’all. 3 n. II 5 dell’O del 22 giu. 2005 sul traffico di rifiuti ([RU 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), dal n. II delle O del 4 lug. 2007 ([RU 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), del 18 giu. 2010 ([RU 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), del 14 ott. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), dall’all. 6 n. 7 dell’O del 4 dic. 2015 sui rifiuti ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), dal n. I dell’O del 3 mar. 2017 ([RU 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), dal n. II dell’O dell’11 apr. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), dal n. II dell’O del 20 ott. 2021 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)), dal n. I delle O del 16 nov. 2022 ([RU 2022 777](https://fedlex.data.admin.ch/eli/oc/2022/777)), del 12 feb. 2020 ([RU 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146); [2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)n. III) e dalla correzione del 30 nov. 2021, in vigore dal 1° gen. 2024 ([RU 2021 789](https://fedlex.data.admin.ch/eli/oc/2021/789)). Vedi anche la disp. trans. della mod del 12 feb. 2020 qui avanti.
+[^t-3]: Aggiornato dalla cifra II dell’O del 20 nov. 1991 ([RU 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), dalla cifra II dell’O del 15 dic. 1997 ([RU 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), dall’all. n. 5 dell’O del 23 giu. 1999 ([RU 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), dalla cifra II dell’O del 30 apr. 2003 ([RU 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), dell’all. 3 cifra II 5 dell’O del 22 giu. 2005 sul traffico di rifiuti ([RU 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), dalla cifra II delle O del 4 lug. 2007 ([RU 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), del 18 giu. 2010 ([RU 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), del 14 ott. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), dall’all. 6 n. 7 dell’O del 4 dic. 2015 sui rifiuti ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), dalla cifra I dell’O del 3 mar. 2017 ([RU 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), dalla cifra II dell’O dell’11 apr. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), dalla cifra II dell’O del 20 ott. 2021 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)), dalla cifra I delle O del 16 nov. 2022 ([RU 2022 777](https://fedlex.data.admin.ch/eli/oc/2022/777)), del 12 feb. 2020 ([RU 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146); [2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)cifra III) e dalla correzione del 30 nov. 2021, in vigore dal 1° gen. 2024 ([RU 2021 789](https://fedlex.data.admin.ch/eli/oc/2021/789)). Vedi anche la disp. trans. della mod del 12 feb. 2020 qui avanti.
 
 ### Sommario
 
@@ -1358,7 +1358,7 @@ Allegato 2[^t-3]
 
 <sup>2</sup> I rifiuti possono essere riciclati nei forni per cemento soltanto se vi si prestano secondo l’articolo 24 dell’ordinanza del 4 dicembre 2015[^annex2-lvlu1-lvl1-lvl11-lvl111-1] sui rifiuti (OPSR).
 
-[^annex2-lvlu1-lvl1-lvl11-lvl111-1]: [RS 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
+[^annex2-lvlu1-lvl1-lvl11-lvl111-1]: [RS 814.600](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9574)
 
 ### 111<sup>bis</sup> Grandezze di riferimento
 
@@ -1403,7 +1403,7 @@ La somma delle emissioni di piombo e zinco e dei loro composti, indicati come me
 
 Le emissioni di policlorodibenzo-p-diossine (diossine) e dibenzofurani (furani), espresse come somma degli equivalenti di tossicità secondo EN 1948-1[^annex2-lvlu1-lvl1-lvl11-lvl118-1], non devono superare 0,1 ng/m<sup>3</sup>.
 
-[^annex2-lvlu1-lvl1-lvl11-lvl118-1]: Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex2-lvlu1-lvl1-lvl11-lvl118-1]: Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch .
 
 ### 119 Sorveglianza
 
@@ -1799,7 +1799,7 @@ I valori limite d’emissione si riferiscono ad un tenore di ossigeno nei gas di
 
 Le emissioni di ossidi d’azoto, indicati come diossido d’azoto, non devono superare i valori secondo il diagramma seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20240101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/it/xml/image/image1.png)
 
 ### 474 Misurazioni
 
@@ -1823,7 +1823,7 @@ Le emissioni totali sotto forma di polvere non devono superare 5 mg/m<sup>3</sup
 
 Le emissioni di policloro-dibenzo-p-diossine (diossine) e di policloro dibenzofurano (furani) prodotte dai forni elettrici ad arco, indicate come totale degli equivalenti di tossicità secondo EN 1948-1[^annex2-lvlu1-lvl4-lvl48-lvl483-1], non devono superare 0,1 ng/m<sup>3</sup>.
 
-[^annex2-lvlu1-lvl4-lvl48-lvl483-1]: Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex2-lvlu1-lvl4-lvl48-lvl483-1]: Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch .
 
 ### 5 Agricoltura e generi alimentari
 
@@ -2006,7 +2006,7 @@ Per gli impianti nei quali si lavorano prodotti mettendoli direttamente in conta
 
 <sup>3</sup> Sono considerati rifiuti speciali quelli designati come tali nell’elenco dei rifiuti emanato secondo l’articolo 2 dell’ordinanza del 22 giugno 2005[^annex2-lvlu1-lvl7-lvl71-lvl711-1] sul traffico di rifiuti (OTRif).
 
-[^annex2-lvlu1-lvl7-lvl71-lvl711-1]: [RS 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
+[^annex2-lvlu1-lvl7-lvl71-lvl711-1]: [RS 814.610](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9575)
 
 ### 712 Applicabilità dell’allegato 1
 
@@ -2042,7 +2042,7 @@ Per gli impianti nei quali si lavorano prodotti mettendoli direttamente in conta
 
 <sup>2</sup> Per gli impianti con un tenore di ossidi d’azoto (monossido e diossido), indicati come diossido d’azoto, nel gas grezzo, pari o superiore a 1000 mg/m<sup>3</sup>, l’autorità può stabilire, in deroga al capoverso 1 lettera h, un valore limite d’emissione dell’ammoniaca e dei composti dell’ammoniaca meno severo.
 
-[^annex2-lvlu1-lvl7-lvl71-lvl714-1]: Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex2-lvlu1-lvl7-lvl71-lvl714-1]: Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch .
 
 ### 715 …
 
@@ -2386,7 +2386,7 @@ Allegato 3[^t-4]
 
 ## Limitazioni completive o derogatorie delle emissioni degli impianti a combustione
 
-[^t-4]: Nuovo testo giusta il n. II dell’O del 20 nov. 1991 ([RU 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)). Aggiornato dai n. II delle O del 15 dic. 1997 ([RU 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), del 23 giu. 2004 ([RU 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), del 4 lug. 2007 ([RU 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), del 22 ott. 2008 ([RU 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)), del 18 giu. 2010 ([RU 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), del 14 ott. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), dal n. I dell’O del 3 mar. 2017 ([RU 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)) e dal n. II dell’O dell’11 apr. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), dalla correzione dell’11 dic. 2018 ([RU 2018 4709](https://fedlex.data.admin.ch/eli/oc/2018/748)), dal n. I dell’O del 12 feb. 2020 ([RU 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)) e dal n. II dell’O del 20 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)). Vedi anche le disp. trans. della mod. dell’11 apr. 2018 qui avanti.
+[^t-4]: Nuovo testo giusta la cifra II dell’O del 20 nov. 1991 ([RU 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)). Aggiornato dalla cifra II delle O del 15 dic. 1997 ([RU 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), del 23 giu. 2004 ([RU 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), del 4 lug. 2007 ([RU 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), del 22 ott. 2008 ([RU 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)), del 18 giu. 2010 ([RU 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), del 14 ott. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), dalla cifra I dell’O del 3 mar. 2017 ([RU 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)) e dalla cifra II dell’O dell’11 apr. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), dalla correzione dell’11 dic. 2018 ([RU 2018 4709](https://fedlex.data.admin.ch/eli/oc/2018/748)), dalla cifra I dell’O del 12 feb. 2020 ([RU 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)) e dalla cifra II dell’O del 20 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)) e la correzione del 9 lug. 2025 ([RU 2025 448](https://fedlex.data.admin.ch/eli/oc/2025/448)). Vedi anche le disp. trans. della mod. dell’11 apr. 2018 qui avanti.
 
 ### 1 Campo d’applicazione
 
@@ -2517,7 +2517,7 @@ Gli oli da riscaldamento «medio» e «pesante» non possono essere impiegati ne
 
 <table>
 <tr><th colspan="2"></th><th></th><th colspan="6">Potenza termica</th></tr>
-<tr><th colspan="2"></th><th></th><th>fino a 70 kW</th><th>da 70 kW a 500 kW</th><th>da 500 kW a 1 MW</th><th>da 1 MW a 10 MW</th><th>da 10 MW a 100 MW</th><th>oltre 100 MW</th></tr>
+<tr><th colspan="2"></th><th></th><th>fino a 70 kW</th><th>da più di 70 kW a 500 kW</th><th>da più di 500 kW a 1 MW</th><th>da più di 1 MW a 10 MW</th><th>da più di 10 MW a 100 MW</th><th>oltre 100 MW</th></tr>
 <tr><td colspan="2">Carbone, mattonelle di carbone, coke</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>– Grandezza di riferimento:</td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>i valori limite si riferiscono a un tenore in ossigeno dei gas di scarico del</td><td colspan="2">% vol</td><td>7</td><td>7</td><td>7</td><td>7</td><td>7</td><td>6</td></tr>
@@ -2560,7 +2560,7 @@ Negli impianti a combustione con una potenza termica inferiore a 1 MW possono es
 
 <table>
 <tr><th colspan="2"></th><th></th><th colspan="5">Potenza termica</th></tr>
-<tr><th colspan="2"></th><th></th><th>fino a 70 kW</th><th>da 70 kW a 500 kW</th><th>da 500 kW a 1 MW</th><th>da 1 MW a 10 MW</th><th>oltre 10 MW</th></tr>
+<tr><th colspan="2"></th><th></th><th>fino a 70 kW</th><th>da più di 70 kW a 500 kW</th><th>da più di 500 kW a 1 MW</th><th>da più di 1 MW a 10 MW</th><th>oltre 10 MW</th></tr>
 <tr><td>Legna da ardere</td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>– Grandezza di riferimento:</td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>i valori limite si riferiscono a un tenore in ossigeno nei gas di scarico del</td><td colspan="2">% vol</td><td>13</td><td>13</td><td>13</td><td>11</td><td>11</td></tr>
@@ -2597,7 +2597,7 @@ Negli impianti a combustione con una potenza termica inferiore a 1 MW possono es
 
 <sup>5</sup> Sono salve le esigenze particolari secondo la cifra 523.
 
-[^annex3-lvlu1-lvl5-lvl52-lvl522-1]: Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex3-lvlu1-lvl5-lvl52-lvl522-1]: Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch .
 
 ### 523 Esigenze particolari relative a caldaie
 
@@ -2629,8 +2629,8 @@ Negli impianti a combustione con una potenza termica inferiore a 1 MW possono es
 
 <sup>6</sup> Per gli apparecchi per il riscaldamento d’ambiente locale non sottoposti a misurazioni periodiche conformemente alla cifra 22 lettera f, l’autorità controlla in particolare i residui di combustione e lo stato dell’impianto. La prima volta informa anche in merito all’uso corretto dell’impianto nonché all’impiego e allo stoccaggio del combustibile.
 
-[^annex3-lvlu1-lvl5-lvl52-lvl524-1]: [RS 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
-[^annex3-lvlu1-lvl5-lvl52-lvl524-2]: Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex3-lvlu1-lvl5-lvl52-lvl524-1]: [RS 730.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8505)
+[^annex3-lvlu1-lvl5-lvl52-lvl524-2]: Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch .
 
 ### 525 Esigenze relative ai sistemi di separazione delle polveri
 
@@ -2711,7 +2711,7 @@ Per gli impianti a combustione che possono essere alimentati alternativamente co
 
 <sup>2</sup> Il valore limite di miscela per combustibili misti è calcolato mediante la formula seguente:
 
-G<sub>m</sub> = G<sub>1</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20240101/it/xml/image/image2.png)</sub> + G<sub>2</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20240101/it/xml/image/image3.png)</sub> + … + G<sub>n</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20240101/it/xml/image/image4.png)</sub>
+G<sub>m</sub> = G<sub>1</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/it/xml/image/image2.png)</sub> + G<sub>2</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/it/xml/image/image3.png)</sub> + … + G<sub>n</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/it/xml/image/image4.png)</sub>
 
 dove:
 
@@ -2735,7 +2735,7 @@ Allegato 4[^t-5]
 
 ## Esigenze per le macchine di cantiere e i relativi sistemi di filtri antiparticolato nonché per le macchine e gli apparecchi con motore a combustione interna
 
-[^t-5]: Nuovo testo giusta il n. II dell’O del 23 giu. 2004 ([RU 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)). Aggiornato dai n. II delle O del 4 lug. 2007 ([RU 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), del 19 set. 2008 ([RU 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)) del 22 ott. 2008 ([RU 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)), del 18 giu. 2010 ([RU 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), dai n. I e II dell’O del 14 ott. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), dal n. III 1 dell’O del 22 giu. 2016 ([RU 2016 2479](https://fedlex.data.admin.ch/eli/oc/2016/395)), dal n. II dell’O dell’11 apr. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), dal n. I dell’O del 12 feb. 2020 ([RU 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)) e dal n. II dell’O del 20 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)). Vedi anche le disp. trans. delle mod. del 4 lug. 2007 e del 19 set. 2008 qui avanti.
+[^t-5]: Nuovo testo giusta la cifra II dell’O del 23 giu. 2004 ([RU 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)). Aggiornato dalle cifre II delle O del 4 lug. 2007 ([RU 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), del 19 set. 2008 ([RU 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)) del 22 ott. 2008 ([RU 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)), del 18 giu. 2010 ([RU 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), dalle cifre I e II dell’O del 14 ott. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), dalla cifra III 1 dell’O del 22 giu. 2016 ([RU 2016 2479](https://fedlex.data.admin.ch/eli/oc/2016/395)), dalla cifra II dell’O dell’11 apr. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), dalla cifra I dell’O del 12 feb. 2020 ([RU 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)) e dalla cifra II dell’O del 20 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)). Vedi anche le disp. trans. delle mod. del 4 lug. 2007 e del 19 set. 2008 qui avanti.
 
 ### 1 Campo d’applicazione
 
@@ -2756,7 +2756,7 @@ Le disposizioni del presente allegato si applicano alle macchine di cantiere e a
 <sup>3</sup> Le esigenze di cui al capoverso 2 si considerano soddisfatte se la macchina di cantiere è munita di un sistema di filtro antiparticolato che soddisfa le esigenze di cui al numero 32.
 
 [^annex4-lvlu1-lvl3-lvl31-1]: GU L 059 del 27.02.1998, pag. 1; modificata da ultimo dalla direttiva 2012/46/UE, GU L 353 del 06.12.2012, pag. 80.
-[^annex4-lvlu1-lvl3-lvl31-2]: Regolamento n. 49 della Commissione economica per l’Europa delle Nazioni Unite (UN/ECE) del 15 aprile 1982 - Prescrizioni uniformi relative ai provvedimenti da prendere contro le emissioni di inquinanti gassosi e di particolato prodotte dai motori ad accensione spontanea destinati alla propulsione di veicoli e contro le emissioni di inquinanti gassosi prodotte dai motori ad accensione comandata alimentati con gas naturale o con gas di petrolio liquefatto destinati alla propulsione di veicoli; modificato l’ultima volta dal supplemento 8 alla serie di modifiche 4 in vigore dal 22 gennaio 2015, allegato 4C - Metodo di prova per misurare il numero di particelle. Fonte: www.unece.org. Questo regolamento può essere consultato gratuitamente presso l’Ufficio federale dell’ambiente, Worblentalstrasse 68, 3063 Ittigen.
+[^annex4-lvlu1-lvl3-lvl31-2]: Regolamento n. 49 della Commissione economica per l’Europa delle Nazioni Unite (UN/ECE) del 15 aprile 1982 - Prescrizioni uniformi relative ai provvedimenti da prendere contro le emissioni di inquinanti gassosi e di particolato prodotte dai motori ad accensione spontanea destinati alla propulsione di veicoli e contro le emissioni di inquinanti gassosi prodotte dai motori ad accensione comandata alimentati con gas naturale o con gas di petrolio liquefatto destinati alla propulsione di veicoli; modificato l’ultima volta dal supplemento 8 alla serie di modifiche 4 in vigore dal 22 gennaio 2015, allegato 4C - Metodo di prova per misurare il numero di particelle. Fonte: www.unece.org . Questo regolamento può essere consultato gratuitamente presso l’Ufficio federale dell’ambiente, Worblentalstrasse 68, 3063 Ittigen.
 [^annex4-lvlu1-lvl3-lvl31-3]: Cfr. nota a piè di pagina relativa all’art. 19*b* cpv. 1<sup>bis</sup>.
 
 ### 32 Esigenze per i sistemi di filtro antiparticolato
@@ -2774,8 +2774,8 @@ Le disposizioni del presente allegato si applicano alle macchine di cantiere e a
 
 <sup>2</sup> I metodi di misura e lo svolgimento delle prove sono stabiliti in base allo stato della tecnica riconosciuto, segnatamente secondo la norma SN 277206[^annex4-lvlu1-lvl3-lvl32-1] oppure secondo il regolamento n. 132 UN/ECE[^annex4-lvlu1-lvl3-lvl32-2].
 
-[^annex4-lvlu1-lvl3-lvl32-1]: Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^annex4-lvlu1-lvl3-lvl32-2]: Regolamento n. 132 della Commissione economica per l’Europa delle Nazioni Unite (UN/ECE) del 17 giugno 2014 - Prescrizioni uniformi relative all’omologazione dei dispositivi retrofit di controllo delle emissioni (REC) per veicoli utilitari pesanti, trattori agricoli e forestali nonché macchine e apparecchi mobili, equipaggiati di motori ad accensione e compressione; modificato dalla serie di modifiche 1 in vigore dal 22 gennaio 2015 (add. 131 rev. 1). Fonte: www. unece.org. Questo regolamento può essere consultato gratuitamente presso l’Ufficio federale dell’ambiente, Worblentalstrasse 68, 3063 Ittigen.
+[^annex4-lvlu1-lvl3-lvl32-1]: Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch .
+[^annex4-lvlu1-lvl3-lvl32-2]: Regolamento n. 132 della Commissione economica per l’Europa delle Nazioni Unite (UN/ECE) del 17 giugno 2014 - Prescrizioni uniformi relative all’omologazione dei dispositivi retrofit di controllo delle emissioni (REC) per veicoli utilitari pesanti, trattori agricoli e forestali nonché macchine e apparecchi mobili, equipaggiati di motori ad accensione e compressione; modificato dalla serie di modifiche 1 in vigore dal 22 gennaio 2015 (add. 131 rev. 1). Fonte: www.unece.org . Questo regolamento può essere consultato gratuitamente presso l’Ufficio federale dell’ambiente, Worblentalstrasse 68, 3063 Ittigen.
 
 ### 33 Contrassegno
 
@@ -2824,7 +2824,7 @@ Allegato 5[^t-6]
 
 ## Esigenze in materia di combustibili e carburanti
 
-[^t-6]: Aggiornato giusta il n. II dell’O del 20 nov. 1991 ([RU 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), il n. I dell’O del 25 ago. 1999 ([RU 1999 2498](https://fedlex.data.admin.ch/eli/oc/1999/386)), il n. II delle O del 23 giu. 2004 ([RU 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), del 4 lug. 2007 ([RU 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), del 19 set. 2008 ([RU 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)), del 18 giu. 2010 ([RU 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)) dai n. I e II dell’O del 14 ott. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), dal n. I dell’O del 3 mar. 2017 ([RU 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), dal n. II dell’O dell’11 apr. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)) e dal n. I dell’O del 12 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)). Vedi anche le disp. trans. della mod. del 19 set. 2008 qui avanti.
+[^t-6]: Aggiornato giusta la cifra II dell’O del 20 nov. 1991 ([RU 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), la cifra I dell’O del 25 ago. 1999 ([RU 1999 2498](https://fedlex.data.admin.ch/eli/oc/1999/386)), la cifra II delle O del 23 giu. 2004 ([RU 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), del 4 lug. 2007 ([RU 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), del 19 set. 2008 ([RU 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)), del 18 giu. 2010 ([RU 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)) dalle cifre I e II dell’O del 14 ott. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), dalla cifra I dell’O del 3 mar. 2017 ([RU 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), dalla cifra II dell’O dell’11 apr. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)) e dalla cifra I dell’O del 12 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)). Vedi anche le disp. trans. della mod. del 19 set. 2008 qui avanti.
 
 ### 1 Oli da riscaldamento e altri combustibili liquidi
 
@@ -2834,7 +2834,7 @@ Allegato 5[^t-6]
 
 <sup>2</sup> L’olio vegetale allo stato naturale e il metilestere di olio vegetale che soddisfa i requisiti della norma EN 14214 (Prodotti petroliferi liquidi – Esteri metilici di acidi grassi (FAME) per motori diesel e per impianti di riscaldamento – Requisiti e metodi di prova)[^annex5-lvlu1-lvl1-lvl11-1] sono equiparati all’olio da riscaldamento «extra leggero Eco».
 
-[^annex5-lvlu1-lvl1-lvl11-1]: Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex5-lvlu1-lvl1-lvl11-1]: Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch .
 
 ### 11<sup>bis</sup> Tenore in zolfo degli oli da riscaldamento
 
@@ -2926,8 +2926,8 @@ il pellet adempie i requisiti della norma SN EN ISO 17225-2 (Biocombustibili sol
 
 le mattonelle adempiono i requisiti della norma SN EN ISO 17225-3 (Biocombustibili solidi - Specifiche e classificazione del combustibile - parte 3: Definizione delle classi di bricchette di legno)[^annex5-lvlu1-lvl3-lvl32-2] relativi alle classi di qualità A1 o A2 o sono di qualità equivalente.
 
-[^annex5-lvlu1-lvl3-lvl32-1]: Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^annex5-lvlu1-lvl3-lvl32-2]: Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex5-lvlu1-lvl3-lvl32-1]: Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch .
+[^annex5-lvlu1-lvl3-lvl32-2]: Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch .
 
 ### 4 Combustibili e carburanti gassosi
 
@@ -3020,7 +3020,7 @@ Allegato 6[^t-7]
 
 ## Altezza minima dei camini industriali
 
-[^t-7]: Aggiornato giusta il n. II dell’O del 15 dic. 1997, in vigore dal 1° mar. 1998 ([RU 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)).
+[^t-7]: Aggiornato giusta la cifra II dell’O del 15 dic. 1997, in vigore dal 1° mar. 1998 ([RU 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)).
 
 ### 1 Campo d’applicazione
 
@@ -3158,13 +3158,13 @@ S (µg/m<sup>3</sup>) = valore S (cfr. cifre 3 e 9)
 
 Diagramma 1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20240101/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/it/xml/image/image5.png)
 
 ### Determinazione del fattore di correzione g in zone edificate e boschive
 
 Diagramma 2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20240101/it/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/it/xml/image/image6.png)
 
 I = altezza del più alto fattore d’ostacolo determinante (cifra 5)
 
@@ -3176,7 +3176,7 @@ Allegato 7[^t-8]
 
 ## Valori limite d’immissione
 
-[^t-8]: Nuovo testo giusta il n. II dell’O del 14 ott. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)). Aggiornato dal n. II dell’O dell’11 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^t-8]: Nuovo testo giusta la cifra II dell’O del 14 ott. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)). Aggiornato dalla cifra II dell’O dell’11 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
 
 <table>
 <tr><th>Sostanza nociva</th><th>Valore limite d’immissione</th><th>Definizione statistica</th></tr>

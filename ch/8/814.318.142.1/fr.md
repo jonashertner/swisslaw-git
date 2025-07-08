@@ -4,11 +4,11 @@ title: "Ordonnance du 16 décembre 1985 sur la protection de l'air (OPair)"
 short: OPair
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/208_208_208"
 language: fr
-version: 2024-01-01
+version: 2025-07-09
 adopted: 1985-12-16
 in_force: 1986-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20240101-fr-xml-17.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/fr/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20250709-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20250709/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20240101/fr"
 
 (OPair)
 
-du 16 décembre 1985 (État le 1<sup>er</sup> janvier 2024)
+du 16 décembre 1985 (État le 9 juillet 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu les art. 12, 13, 16 et 39 de la loi du 7 octobre 1983 sur la protection de l�
 
 arrête:
 
-[^ingress-1]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^ingress-1]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 
 ## Chapitre 1 Dispositions générales
 
@@ -265,7 +265,7 @@ En règle générale, la mesure ou le contrôle sera renouvelé comme suit, sous
 
 <sup>4</sup> Les valeurs mesurées et les valeurs calculées, les méthodes utilisées ainsi que les conditions d’exploitation de l’installation pendant les mesures seront consignées dans un rapport.
 
-[^14-1]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^14-1]: [RS 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
 [^14-2]: Nouvelle teneur selon le ch. I de l’O du 11 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
 
 #### Art. 15
@@ -370,7 +370,7 @@ La preuve de conformité comprend les documents suivants:
 
 <sup>3</sup> Le fabricant ou l’importateur doivent conserver la déclaration de conformité pendant dix ans après la mise dans le commerce de la machine de chantier ou du système de filtre à particules.
 
-[^19b-1]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^19b-1]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 [^19b-2]: Règlement (UE) 2016/1628 du Parlement européen et du Conseil du 14 septembre 2016 relatif aux exigences concernant les limites d’émission pour les gaz polluants et les particules polluantes et la réception par type pour les moteurs à combustion interne destinés aux engins mobiles non routiers, JO L 252 du 16.9.2016, p. 53; modifié par le règlement délégué (UE) 2017/654 de la Commission du 19 décembre 2016, JO L 102 du 13.4.2017, p. 1, par le règlement délégué (UE) 2017/655 de la Commission du 19 décembre 2016, JO L 102 du 13.4.2017, p. 334 et par le règlement d’exécution (UE) 2017/656 de la Commission du 19 décembre 2016, JO L 102 du 13.4.2017, p. 364.
 [^19b-3]: Introduit par le ch. I de l’O du 11 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
 [^19b-4]: Nouvelle teneur selon le ch. I de l’O du 14 oct. 2015, en vigueur depuis le 16 nov. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
@@ -417,7 +417,7 @@ La preuve de conformité comprend:
 <sup>2</sup> La preuve de conformité peut aussi être une attestation au sens de l’art. 18 LETC[^20c-2], délivrée par un organisme d’évaluation de la conformité, qui confirme que le type de machine ou d’appareil équipé d’un moteur à combustion remplit les exigences de l’annexe 4, ch. 4 (attestation de conformité). Le moteur doit alors porter la marque ou le nom du fabricant et le nom de l’organisme d’évaluation de conformité.
 
 [^20c-1]: Voir note de bas de page ad art. 19b, al. 1<sup>bis</sup>.
-[^20c-2]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^20c-2]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 ### Section 5*b* …
 
@@ -680,7 +680,7 @@ L’OFEV contrôle le respect des prescriptions sur la mise dans le commerce des
 L’OFEV prescrit les modèles de géodonnées et les modèles de représentation minimaux pour les géodonnées de base visées par la présente ordonnance, lorsqu’il est désigné comme service spécialisé de la Confédération dans l’annexe 1 de l’ordonnance du 21 mai 2008 sur la géoinformation[^39a-2].
 
 [^39a-1]: Introduit par l’annexe 2 ch. 8 de l’O du 21 mai 2008 sur la géoinformation, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
-[^39a-2]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^39a-2]: [RS 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 
 ### Section 2 Modification et abrogation du droit en vigueur
 
@@ -1059,7 +1059,7 @@ La concentration des émissions d’une des substances figurant au ch. 62 ne doi
 <sup>6</sup> Les émissions de substances qui, au sens de l’annexe 1.4 de l’ordonnance du 18 mai 2005 sur la réduction des risques liés aux produits chimiques[^annex1-lvlu1-lvl7-lvl71-2], appauvrissent la couche d’ozone, et qui ne sont pas mentionnées au ch. 72 comme faisant partie de la classe 1, seront limitées selon le l’al. 1, let. a. Les dispositions du ch. 8 sont réservées.
 
 [^annex1-lvlu1-lvl7-lvl71-1]: Par substances dont on a de bonnes raisons de croire qu’elles peuvent être cancérigènes, on entend notamment les substances énumérées à la section III (krebserzeugende Arbeitsstoffe) des catégories 3 à 5 de la liste «MAK- und BAT-Werte-Liste» de la «Deutsche Forschungsgemeinschaft». Commande: Wiley-VCH Verlags GmbH, D‑69469 Weinheim.
-[^annex1-lvlu1-lvl7-lvl71-2]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^annex1-lvlu1-lvl7-lvl71-2]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 ### 72 Tableau des substances organiques sous forme de gaz, de vapeur ou de particules
 
@@ -1353,7 +1353,7 @@ Annexe 2[^t-2]
 
 <sup>2</sup> Les déchets ne peuvent être valorisés dans des fours à ciment que s’ils s’y prêtent selon l’art. 24 de l’ordonnance du 4 décembre 2015 sur les déchets (OLED)[^annex2-lvlu1-lvl1-lvl11-lvl111-1].
 
-[^annex2-lvlu1-lvl1-lvl11-lvl111-1]: [RS 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
+[^annex2-lvlu1-lvl1-lvl11-lvl111-1]: [RS 814.600](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9574)
 
 ### 111<sup>bis</sup> Grandeur de référence
 
@@ -1398,7 +1398,7 @@ Les émissions de plomb et de zinc ainsi que de leurs composés, exprimées en m
 
 Les émissions de polychlorodibenzo-*p*-dioxines (dioxines) et de dibenzofuranes (furanes), exprimées en somme des équivalents de toxicité selon la norme EN 1948‑1[^annex2-lvlu1-lvl1-lvl11-lvl118-1], ne doivent pas dépasser 0,1 ng/m<sup>3</sup>.
 
-[^annex2-lvlu1-lvl1-lvl11-lvl118-1]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^annex2-lvlu1-lvl1-lvl11-lvl118-1]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch/fr/).
 
 ### 119 Surveillance
 
@@ -1694,7 +1694,7 @@ Pour limiter les émissions pendant l’entreposage, on prévoira des réservoir
 
 <sup>4</sup> Les dispositions de l’al. 3, let. b, ne s’appliquent pas au ravitaillement des véhicules à l’aide de petits appareils de distribution.
 
-[^annex2-lvlu1-lvl3-lvl33-1]: ISO 13331 La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^annex2-lvlu1-lvl3-lvl33-1]: ISO 13331 La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch/fr/).
 
 ### 4 Métaux
 
@@ -1794,7 +1794,7 @@ Les valeurs limites d’émission se rapportent à une teneur en oxygène des ef
 
 Les émissions d’oxydes d’azote, exprimées en dioxyde d’azote, ne dépasseront pas les valeurs qui ressortent du diagramme ci-après.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20240101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/fr/xml/image/image1.png)
 
 ### 474 Mesures
 
@@ -1818,7 +1818,7 @@ Les émissions sous forme de poussières ne doivent pas dépasser au total 5 mg/
 
 Les dibenzo-p-dioxines (dioxines) et les dibenzofuranes (furanes) émis par les fours à arc électrique, exprimés en somme des équivalents de toxicité selon la norme EN 1948-1[^annex2-lvlu1-lvl4-lvl48-lvl483-1], ne dépasseront pas 0,1 ng/m<sup>3</sup>.
 
-[^annex2-lvlu1-lvl4-lvl48-lvl483-1]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^annex2-lvlu1-lvl4-lvl48-lvl483-1]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch/fr/).
 
 ### 5 Agriculture et denrées alimentaires
 
@@ -1832,7 +1832,7 @@ Le présent chiffre s’applique aux installations d’élevage traditionnel et 
 
 Lors de la construction d’une installation, il y a lieu de respecter les distances minimales jusqu’à la zone habitée, requises par les règles de l’élevage. Sont notamment considérées comme règles de l’élevage les recommandations de la Station fédérale de recherche d’économie d’entreprise et de génie rural[^annex2-lvlu1-lvl5-lvl51-lvl512-1].
 
-[^annex2-lvlu1-lvl5-lvl51-lvl512-1]: *Source*: Station de recherche Agroscope Reckenholz-Tänikon (ART), 8356 Ettenhausen.
+[^annex2-lvlu1-lvl5-lvl51-lvl512-1]: *Source*: Station de recherche Agroscope Reckenholz-Tänikon ( ART ), 8356 Ettenhausen.
 
 ### 513 Systèmes d’aération
 
@@ -2001,7 +2001,7 @@ Lorsqu’il s’agit d’une installation dans laquelle des produits sont trait�
 
 <sup>3</sup> Sont réputés déchets spéciaux les déchets désignés comme tels dans la liste des déchets établie en vertu de l’art. 2 de l’ordonnance du 22 juin 2005 sur les mouvements de déchets (OMD)[^annex2-lvlu1-lvl7-lvl71-lvl711-1].
 
-[^annex2-lvlu1-lvl7-lvl71-lvl711-1]: [RS 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
+[^annex2-lvlu1-lvl7-lvl71-lvl711-1]: [RS 814.610](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9575)
 
 ### 712 Applicabilité de l’annexe 1
 
@@ -2037,7 +2037,7 @@ Lorsqu’il s’agit d’une installation dans laquelle des produits sont trait�
 
 <sup>2</sup> Pour les installations présentant une teneur en oxydes d’azote (monoxyde et dioxyde), exprimés en dioxyde d’azote, de 1000 mg/m<sup>3</sup> ou plus dans le gaz brut, l’autorité peut, en dérogation de l’al. 1, let. h, fixer une valeur limite d’émission moins sévère pour l’ammoniac et les composés de l’ammonium.
 
-[^annex2-lvlu1-lvl7-lvl71-lvl714-1]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^annex2-lvlu1-lvl7-lvl71-lvl714-1]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch/fr/).
 
 ### 715 …
 
@@ -2380,7 +2380,7 @@ Annexe 3[^t-3]
 
 ## Limitation complémentaire et dérogatoire des émissions pour les installations de combustion
 
-[^t-3]: Nouvelle teneur selon le ch. II de l’O du 20 nov. 1991 ([RO 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)). Mise à jour par le ch. II des O du 15 déc. 1997 ([RO 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), du 23 juin 2004 ([RO 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), du 4 juil. 2007 ([RO 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), du 19 sept. 2008 ([RO 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)), du 22 oct. 2008 ([RO 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)), du 18 juin 2010 ([RO 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), du 14 oct. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), le ch. I de l’O du 3 mars 2017 ([RO 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), le ch. II de l’O du 11 avr. 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), et le ch. I de l’O du 12 fév. 2020 ([RO 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)) et le ch. II de l’O du 20 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)). Voir aussi les disp. trans. de la mod. du 11 avr. 2018 ci-devant.
+[^t-3]: Nouvelle teneur selon le ch. II de l’O du 20 nov. 1991 ([RO 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)). Mise à jour par le ch. II des O du 15 déc. 1997 ([RO 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), du 23 juin 2004 ([RO 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), du 4 juil. 2007 ([RO 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), du 19 sept. 2008 ([RO 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)), du 22 oct. 2008 ([RO 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)), du 18 juin 2010 ([RO 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), du 14 oct. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), le ch. I de l’O du 3 mars 2017 ([RO 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), le ch. II de l’O du 11 avr. 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), le ch. I de l’O du 12 fév. 2020 ([RO 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)), le ch. II de l’O du 20 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)) et l’erratum du 9 juil. 2025 ([RO 2025 448](https://fedlex.data.admin.ch/eli/oc/2025/448)). Voir aussi les disp. trans. de la mod. du 11 avr. 2018 ci-devant.
 
 ### 1 Champ d’application
 
@@ -2510,19 +2510,19 @@ L’huile de chauffage «moyenne» ou «lourde» ne doit pas être utilisée dan
 <sup>1</sup> Les émissions des installations de combustion alimentées au charbon, aux briquettes ou au coke ne dépasseront pas les valeurs suivantes:
 
 <table>
-<tr><th></th><th></th><th colspan="5">Puissance calorifique</th><th colspan="2"></th><th></th><th></th><th></th><th></th></tr>
-<tr><th></th><th></th><th>jusqu’à 70 kW</th><th>de 70 kW à 500 kW</th><th>de 500 kW à 1 MW</th><th>de 1 MW à 10 MW</th><th colspan="2">de 10 MW à 100 MW</th><th colspan="5">plus de 100 MW</th></tr>
-<tr><td>Charbon, briquettes, coke</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td></tr>
-<tr><td>– Grandeur de référence: les valeurs limites se rapportent à une teneur en oxygène des effluents gazeux de</td><td>% vol</td><td>7</td><td>7</td><td>7</td><td>7</td><td colspan="2">7</td><td colspan="5">6</td></tr>
-<tr><td>– Particules solides au total:</td><td>mg/m<sup>3</sup></td><td>100</td><td>50</td><td>20</td><td>20</td><td colspan="2">10</td><td colspan="5">10</td></tr>
-<tr><td>– Monoxyde de carbone (CO)</td><td>mg/m<sup>3</sup></td><td>2500</td><td>1000</td><td>1000</td><td>150</td><td colspan="2">150</td><td colspan="5">150</td></tr>
-<tr><td>– Oxydes de soufre (SO<sub>x</sub>), exprimés en anhydride sulfureux (SO<sub>2</sub>)</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td></tr>
-<tr><td>– foyers à lit fluidisé</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td>–</td><td>350</td><td colspan="2">350</td><td colspan="5">200</td></tr>
-<tr><td>– autres chauffages utilisant de la houille</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td>–</td><td>1300</td><td colspan="2">350</td><td colspan="5">150</td></tr>
-<tr><td>– autres installations</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td>–</td><td>1000</td><td colspan="2">350</td><td colspan="5">150</td></tr>
-<tr><td>– Oxydes d’azote (NO<sub>x</sub>), exprimés en dioxyde d’azote (NO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td>–</td><td>500</td><td colspan="2">200</td><td colspan="5">150</td></tr>
-<tr><td>– Ammoniac et composés de l’ammonium, exprimés en ammoniac<sup>1</sup></td><td>mg/m<sup>3</sup></td><td>30</td><td>30</td><td>30</td><td>30</td><td colspan="2">30</td><td colspan="5">30</td></tr>
-<tr><th colspan="13">Remarques: – Un tiret dans le tableau signifie qu’aucune limitation n’est prescrite ni dans l’annexe 3 ni dans l’annexe 1. <sup>1</sup> Cette limite d’émission n’a de sens que pour les installations de combustion équipées d’un dispositif de dénitrification.</th></tr>
+<tr><th></th><th></th><th colspan="6">Puissance calorifique</th></tr>
+<tr><th></th><th></th><th>jusqu’à 70 kW</th><th>plus de 70 kW à 500 kW</th><th>plus de 500 kW à 1 MW</th><th>plus de 1 MW à 10 MW</th><th>plus de 10 MW à 100 MW</th><th>plus de 100 MW</th></tr>
+<tr><td>Charbon, briquettes, coke</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– Grandeur de référence: les valeurs limites se rapportent à une teneur en oxygène des effluents gazeux de</td><td>% vol</td><td>7</td><td>7</td><td>7</td><td>7</td><td>7</td><td>6</td></tr>
+<tr><td>– Particules solides au total:</td><td>mg/m<sup>3</sup></td><td>100</td><td>50</td><td>20</td><td>20</td><td>10</td><td>10</td></tr>
+<tr><td>– Monoxyde de carbone (CO)</td><td>mg/m<sup>3</sup></td><td>2500</td><td>1000</td><td>1000</td><td>150</td><td>150</td><td>150</td></tr>
+<tr><td>– Oxydes de soufre (SO<sub>x</sub>), exprimés en anhydride sulfureux (SO<sub>2</sub>)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– foyers à lit fluidisé</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td>–</td><td>350</td><td>350</td><td>200</td></tr>
+<tr><td>– autres chauffages utilisant de la houille</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td>–</td><td>1300</td><td>350</td><td>150</td></tr>
+<tr><td>– autres installations</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td>–</td><td>1000</td><td>350</td><td>150</td></tr>
+<tr><td>– Oxydes d’azote (NO<sub>x</sub>), exprimés en dioxyde d’azote (NO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td>–</td><td>500</td><td>200</td><td>150</td></tr>
+<tr><td>– Ammoniac et composés de l’ammonium, exprimés en ammoniac<sup>1</sup></td><td>mg/m<sup>3</sup></td><td>30</td><td>30</td><td>30</td><td>30</td><td>30</td><td>30</td></tr>
+<tr><th colspan="8">Remarques: – Un tiret dans le tableau signifie qu’aucune limitation n’est prescrite ni dans l’annexe 3 ni dans l’annexe 1. <sup>1</sup> Cette limite d’émission n’a de sens que pour les installations de combustion équipées d’un dispositif de dénitrification.</th></tr>
 </table>
 
 <sup>2</sup> L’autorité fixe la limitation préventive des émissions pour les substances inorganiques essentiellement sous forme de poussières ainsi que pour les composés du chlore et du fluor conformément à l’art. 4; l’annexe 1, ch. 5, ainsi que la limitation des émissions fixée pour les composés du chlore et du fluor à l’annexe 1, ch. 6, ne sont pas applicables.
@@ -2552,27 +2552,27 @@ Dans les installations de combustion d’une puissance calorifique inférieure �
 <sup>1</sup> Les émissions des installations de combustion alimentées au bois de chauffage au sens de l’annexe 5, ch. 31, al. 1, ne dépasseront pas les valeurs suivantes:
 
 <table>
-<tr><th></th><th></th><th colspan="3">Puissance calorifique</th><th colspan="2"></th><th></th><th></th><th></th></tr>
-<tr><th></th><th></th><th>jusqu’à 70 kW</th><th>de 70 kW à 500 kW</th><th colspan="2">de 500 kW à 1 MW</th><th colspan="3">de 1 MW à 10 MW</th><th>plus de 10 MW</th></tr>
-<tr><td>Bois de chauffage</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td></tr>
-<tr><td>– Grandeur de référence: les valeurs limites se rapportent à une teneur en oxygène des effluents gazeux de</td><td>% vol</td><td>13</td><td>13</td><td colspan="2">13</td><td colspan="3">11</td><td>11</td></tr>
-<tr><td>– Pour le bois de chauffage au sens de l’annexe 5, ch. 31, al. 1, let. a, b ou d, ch. 1</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td></tr>
-<tr><td>– Pour les fourneaux de chauffage central, les fourneaux individuels et les fours utilisés à des fins commerciales:</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td></tr>
-<tr><td>– Particules solides au total</td><td>mg/m<sup>3</sup></td><td>100</td><td>50</td><td colspan="2">–</td><td colspan="3">–</td><td>–</td></tr>
-<tr><td>– Monoxyde de carbone (CO)</td><td>mg/m<sup>3</sup></td><td>4000</td><td>4000</td><td colspan="2">–</td><td colspan="3">–</td><td>–</td></tr>
-<tr><td>– Pour les chauffages de locaux individuels et les chaudières à chargement manuel:</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td></tr>
-<tr><td>– Particules solides au total</td><td>mg/m<sup>3</sup></td><td>100</td><td>50</td><td colspan="2">–</td><td colspan="3">–</td><td>–</td></tr>
-<tr><td>– Monoxyde de carbone (CO)</td><td>mg/m<sup>3</sup></td><td>2500</td><td>500</td><td colspan="2">–</td><td colspan="3">–</td><td>–</td></tr>
-<tr><td>– Pour les chaudières et les générateurs de vapeur à chargement automatique:</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td></tr>
-<tr><td>– Particules solides au total</td><td>mg/m<sup>3</sup></td><td>50</td><td>50</td><td colspan="2">20</td><td colspan="3">20</td><td>10</td></tr>
-<tr><td>– Monoxyde de carbone (CO)</td><td>mg/m<sup>3</sup></td><td>1000</td><td>500</td><td colspan="2">500</td><td colspan="3">250</td><td>150</td></tr>
-<tr><td>– Pour le bois de chauffage au sens de l’annexe 5, ch. 31, al. 1, let. c ou d, ch. 2</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td></tr>
-<tr><td>– Particules solides au total</td><td>mg/m<sup>3</sup></td><td>50</td><td>50</td><td colspan="2">20</td><td colspan="3">20</td><td>10</td></tr>
-<tr><td>– Monoxyde de carbone (CO)</td><td>mg/m<sup>3</sup></td><td>1000</td><td>500</td><td colspan="2">500</td><td colspan="3">250</td><td>150</td></tr>
-<tr><td>– Oxydes d’azote (NO<sub>x</sub>), exprimés en dioxyde d’azote (NO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td><sup>2</sup></td><td><sup>2</sup></td><td colspan="2"><sup>2</sup></td><td colspan="3"><sup>2</sup></td><td>150</td></tr>
-<tr><td>– Substances organiques sous forme de gaz, exprimées en carbone total</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="3">–</td><td>50</td></tr>
-<tr><td>– Ammoniac et composés de l’ammonium, exprimés en ammoniac</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="3">30</td><td>30</td></tr>
-<tr><th colspan="10">Remarques: – Un tiret dans le tableau signifie qu’aucune limitation n’est prescrite ni dans l’annexe 3 ni dans l’annexe 1. <sup>1</sup> Pour les poêles fixes fabriqués in situ selon la norme SN EN 15544 (Poêles en faïence, poêles en maçonnerie fabriqués in situ – dimensionnement)[^annex3-lvlu1-lvl5-lvl52-lvl522-1], quelle que soit leur puissance calorifique, on se référera aux valeurs limites d’émission applicables aux particules solides et au CO jusqu’à 70 kW. <sup>2</sup> Cf. valeur limite pour l’oxyde d’azote, annexe 1, ch. 6. <sup>3</sup> Cette limite d’émission n’a de sens que pour les installations de combustion équipées d’un dispositif de dénitrification.</th></tr>
+<tr><th></th><th></th><th colspan="5">Puissance calorifique</th></tr>
+<tr><th></th><th></th><th>jusqu’à 70 kW</th><th>plus de 70 kW à 500 kW</th><th>plus de 500 kW à 1 MW</th><th>plus de 1 MW à 10 MW</th><th>plus de 10 MW</th></tr>
+<tr><td>Bois de chauffage</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– Grandeur de référence: les valeurs limites se rapportent à une teneur en oxygène des effluents gazeux de</td><td>% vol</td><td>13</td><td>13</td><td>13</td><td>11</td><td>11</td></tr>
+<tr><td>– Pour le bois de chauffage au sens de l’annexe 5, ch. 31, al. 1, let. a, b ou d, ch. 1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– Pour les fourneaux de chauffage central, les fourneaux individuels et les fours utilisés à des fins commerciales:</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– Particules solides au total</td><td>mg/m<sup>3</sup></td><td>100</td><td>50</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>– Monoxyde de carbone (CO)</td><td>mg/m<sup>3</sup></td><td>4000</td><td>4000</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>– Pour les chauffages de locaux individuels et les chaudières à chargement manuel:</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– Particules solides au total</td><td>mg/m<sup>3</sup></td><td>100</td><td>50</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>– Monoxyde de carbone (CO)</td><td>mg/m<sup>3</sup></td><td>2500</td><td>500</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>– Pour les chaudières et les générateurs de vapeur à chargement automatique:</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– Particules solides au total</td><td>mg/m<sup>3</sup></td><td>50</td><td>50</td><td>20</td><td>20</td><td>10</td></tr>
+<tr><td>– Monoxyde de carbone (CO)</td><td>mg/m<sup>3</sup></td><td>1000</td><td>500</td><td>500</td><td>250</td><td>150</td></tr>
+<tr><td>– Pour le bois de chauffage au sens de l’annexe 5, ch. 31, al. 1, let. c ou d, ch. 2</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– Particules solides au total</td><td>mg/m<sup>3</sup></td><td>50</td><td>50</td><td>20</td><td>20</td><td>10</td></tr>
+<tr><td>– Monoxyde de carbone (CO)</td><td>mg/m<sup>3</sup></td><td>1000</td><td>500</td><td>500</td><td>250</td><td>150</td></tr>
+<tr><td>– Oxydes d’azote (NO<sub>x</sub>), exprimés en dioxyde d’azote (NO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td><sup>2</sup></td><td><sup>2</sup></td><td><sup>2</sup></td><td><sup>2</sup></td><td>150</td></tr>
+<tr><td>– Substances organiques sous forme de gaz, exprimées en carbone total</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td>–</td><td>–</td><td>50</td></tr>
+<tr><td>– Ammoniac et composés de l’ammonium, exprimés en ammoniac</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td>–</td><td>30</td><td>30</td></tr>
+<tr><th colspan="7">Remarques: – Un tiret dans le tableau signifie qu’aucune limitation n’est prescrite ni dans l’annexe 3 ni dans l’annexe 1. <sup>1</sup> Pour les poêles fixes fabriqués in situ selon la norme SN EN 15544 (Poêles en faïence, poêles en maçonnerie fabriqués in situ – dimensionnement)[^annex3-lvlu1-lvl5-lvl52-lvl522-1], quelle que soit leur puissance calorifique, on se référera aux valeurs limites d’émission applicables aux particules solides et au CO jusqu’à 70 kW. <sup>2</sup> Cf. valeur limite pour l’oxyde d’azote, annexe 1, ch. 6. <sup>3</sup> Cette limite d’émission n’a de sens que pour les installations de combustion équipées d’un dispositif de dénitrification.</th></tr>
 </table>
 
 <sup>2</sup> Les émissions d’oxydes de soufre, exprimées en anhydride sulfureux et rapportées à une teneur en oxygène dans les effluents gazeux de 6 %, ne dépasseront pas les valeurs suivantes:
@@ -2589,7 +2589,7 @@ Dans les installations de combustion d’une puissance calorifique inférieure �
 
 <sup>5</sup> Sont réservées les exigences particulières relatives aux installations de combustion au sens du ch. 523.
 
-[^annex3-lvlu1-lvl5-lvl52-lvl522-1]: La norme peut être consultée gratuitement auprès de l’Office fédéral de l’environnement, Worblentalstrasse 68, 3063 Ittigen ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^annex3-lvlu1-lvl5-lvl52-lvl522-1]: La norme peut être consultée gratuitement auprès de l’Office fédéral de l’environnement, Worblentalstrasse 68, 3063 Ittigen ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch/fr/).
 
 ### 523 Exigences spéciales relatives aux chaudières
 
@@ -2621,8 +2621,8 @@ Dans les installations de combustion d’une puissance calorifique inférieure �
 
 <sup>6</sup> Pour les chauffages de locaux individuels ne faisant pas l’objet de mesures périodiques au sens du ch. 22, let. f, l’autorité vérifie en particulier les résidus d’incinération et l’état de l’installation. Lors du premier contrôle, elle fournit également des informations concernant l’exploitation correcte de l’installation ainsi que l’utilisation et le stockage des combustibles.
 
-[^annex3-lvlu1-lvl5-lvl52-lvl524-1]: [RS 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
-[^annex3-lvlu1-lvl5-lvl52-lvl524-2]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^annex3-lvlu1-lvl5-lvl52-lvl524-1]: [RS 730.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8505)
+[^annex3-lvlu1-lvl5-lvl52-lvl524-2]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch/fr/).
 
 ### 525 Exigences applicables aux systèmes de captage des poussières
 
@@ -2703,7 +2703,7 @@ Si une même installation de combustion est alimentée alternativement avec diff
 
 <sup>2</sup> La valeur limite du mélange se calcule selon la formule suivante:
 
-G<sub>m</sub> = G<sub>1</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20240101/fr/xml/image/image2.png)</sub> + G<sub>2</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20240101/fr/xml/image/image3.png)</sub> + ... + G<sub>n</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20240101/fr/xml/image/image4.png)</sub>
+G<sub>m</sub> = G<sub>1</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/fr/xml/image/image2.png)</sub> + G<sub>2</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/fr/xml/image/image3.png)</sub> + ... + G<sub>n</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/fr/xml/image/image4.png)</sub>
 
 Signification:
 
@@ -2744,7 +2744,7 @@ La présente annexe s’applique aux machines de chantier et à leurs systèmes 
 <sup>3</sup> Les exigences selon l’al. 2 sont réputées respectées si la machine de chantier est équipée d’un système de filtre à particules qui répond aux normes selon le ch. 32.
 
 [^annex4-lvlu1-lvl3-lvl31-1]: JO L 059 du 27.2.1998, p. 1, modifiée en dernier lieu par la directive 2012/46/UE, JO L 353 du 6.12.2012, p. 80.
-[^annex4-lvlu1-lvl3-lvl31-2]: Règlement UNECE n<sup>o</sup> 49, du 15 avril 1982, sur les prescriptions uniformes concernant les mesures à prendre pour réduire les émissions de gaz polluants et de particules émises par les moteurs à allumage par compression utilisés pour la propulsion des véhicules et les émissions de gaz polluants émises par les moteurs à allumage commandé fonctionnant au gaz naturel ou au gaz de pétrole liquéfié utilisés pour la propulsion des véhicules; modifié en dernier lieu par la série d’amendements 04, complément 8, en vigueur dès le 22 janvier 2015, annexe 4C, Procédure d’essai de mesure du nombre de particules. Commande: www.unece.org. Le règlement peut être consulté gratuitement auprès de l’Office fédéral de l’environnement, Worblentalstrasse 68, 3063 Ittigen.
+[^annex4-lvlu1-lvl3-lvl31-2]: Règlement UNECE n<sup>o</sup> 49, du 15 avril 1982, sur les prescriptions uniformes concernant les mesures à prendre pour réduire les émissions de gaz polluants et de particules émises par les moteurs à allumage par compression utilisés pour la propulsion des véhicules et les émissions de gaz polluants émises par les moteurs à allumage commandé fonctionnant au gaz naturel ou au gaz de pétrole liquéfié utilisés pour la propulsion des véhicules; modifié en dernier lieu par la série d’amendements 04, complément 8, en vigueur dès le 22 janvier 2015, annexe 4C, Procédure d’essai de mesure du nombre de particules. Commande: [www.unece.org](https://unece.org/fr). Le règlement peut être consulté gratuitement auprès de l’Office fédéral de l’environnement, Worblentalstrasse 68, 3063 Ittigen.
 [^annex4-lvlu1-lvl3-lvl31-3]: Voir note de bas de page ad art. 19*b*, al. 1<sup>bis</sup>.
 
 ### 32 Normes relatives aux systèmes de filtres à particules
@@ -2762,8 +2762,8 @@ La présente annexe s’applique aux machines de chantier et à leurs systèmes 
 
 <sup>2</sup> Les méthodes de mesure ainsi que les procédures d’essai sont définis conformément à l’état reconnu de la technique, notamment à la norme SN 277206[^annex4-lvlu1-lvl3-lvl32-1] ou au règlement UNECE n<sup>o</sup> 132[^annex4-lvlu1-lvl3-lvl32-2].
 
-[^annex4-lvlu1-lvl3-lvl32-1]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
-[^annex4-lvlu1-lvl3-lvl32-2]: Règlement UNECE n<sup>o</sup> 132, du 17 juin 2014, sur les prescriptions uniformes relatives à l’homologation des dispositifs antipollution de mise à niveau (DAM) destinés aux véhicules utilitaires lourds, tracteurs agricoles et forestiers et engins mobiles non routiers à moteurs à allumage par compression; modifié par la série d’amendements 01, en vigueur dès le 22 janvier 2015 (Add. 131 Rév.1). Commande: www. unece.org. Le règlement peut être consulté gratuitement auprès de l’Office fédéral de l’environnement, Worblentalstrasse 68, 3063 Ittigen.
+[^annex4-lvlu1-lvl3-lvl32-1]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch/fr/).
+[^annex4-lvlu1-lvl3-lvl32-2]: Règlement UNECE n<sup>o</sup> 132, du 17 juin 2014, sur les prescriptions uniformes relatives à l’homologation des dispositifs antipollution de mise à niveau (DAM) destinés aux véhicules utilitaires lourds, tracteurs agricoles et forestiers et engins mobiles non routiers à moteurs à allumage par compression; modifié par la série d’amendements 01, en vigueur dès le 22 janvier 2015 (Add. 131 Rév.1). Commande: [www.unece.org](https://www.unece.org/fr). Le règlement peut être consulté gratuitement auprès de l’Office fédéral de l’environnement, Worblentalstrasse 68, 3063 Ittigen.
 
 ### 33 Marquage
 
@@ -2822,7 +2822,7 @@ Annexe 5[^t-5]
 
 <sup>2</sup> L’huile végétale à l’état naturel et l’ester méthylique d’huile végétale satisfaisant aux exigences de la norme SN EN 14214 (Produits pétroliers liquides – esters méthyliques d’acides gras (EMAG) pour moteurs diesel et comme combustible de chauffage – exigences et méthodes d’essai)[^annex5-lvlu1-lvl1-lvl11-1] sont assimilés à l’huile de chauffage «extra-légère Eco».
 
-[^annex5-lvlu1-lvl1-lvl11-1]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^annex5-lvlu1-lvl1-lvl11-1]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch/fr/).
 
 ### 11<sup>bis</sup> Teneur en soufre de l’huile de chauffage
 
@@ -2912,8 +2912,8 @@ Les granulés et les briquettes de bois, réputés bois à l’état naturel au 
 - a. les granulés répondent aux exigences de la norme SN EN ISO 17225-2 (Biocombustibles solides – Classes et spécifications des combustibles – Partie 2: Classes de granulés de bois[^annex5-lvlu1-lvl3-lvl32-1]), posées aux classes de propriétés A1 ou A2, ou sont de qualité équivalente;
 - b. les briquettes répondent aux exigences de la norme SN EN 17225-3 (Biocombustibles solides – Classes et spécifications des combustibles – Partie 3: Classes de briquettes de bois[^annex5-lvlu1-lvl3-lvl32-2]), posées aux classes de propriétés A1 ou A2, ou sont de qualité équivalente.
 
-[^annex5-lvlu1-lvl3-lvl32-1]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
-[^annex5-lvlu1-lvl3-lvl32-2]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^annex5-lvlu1-lvl3-lvl32-1]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch/fr/).
+[^annex5-lvlu1-lvl3-lvl32-2]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch/fr/).
 
 ### 4 Combustibles et carburants gazeux
 
@@ -2966,7 +2966,7 @@ La teneur en soufre des gaz selon le ch. 41, let. a et b, ne dépassera pas 190 
 <tr><td colspan="5"><sup>b</sup> Normes (communes) déterminantes pour les essais:</td></tr>
 <tr><td colspan="5">– EN: norme du Comité européen de normalisation CEN</td></tr>
 <tr><td colspan="5">– ISO: norme de l’Organisation internationale de normalisation ISO</td></tr>
-<tr><td colspan="5">Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.</td></tr>
+<tr><td colspan="5">Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch/fr/).</td></tr>
 <tr><td colspan="5"><sup>c</sup> Pour l’essence normale et en dérogation au tableau, l’indice d’octane recherche doit atteindre au minimum 91, l’indice d’octane moteur au minimum 81.</td></tr>
 <tr><td colspan="5"><sup>d</sup> Applicable à l’essence utilisée du 1<sup>er</sup> mai au 30 septembre.</td></tr>
 <tr><td colspan="5"><sup>e</sup> Autres mono-alcools et éthers dont le point final de distillation n’est pas supérieur à 210 °C.</td></tr>
@@ -2995,7 +2995,7 @@ L’huile diesel ne peut être importée à des fins commerciales ou mise dans l
 <tr><td>– Hydrocarbures aromatiques polycycliques</td><td>% (*m/m*)</td><td>–</td><td>8,0</td><td>EN 12916</td></tr>
 <tr><td>– Teneur en soufre</td><td>mg/kg</td><td>–</td><td>10,0</td><td>EN ISO 20846, EN ISO 20884, EN ISO 13032</td></tr>
 <tr><td colspan="5">Remarques: <sup>a</sup> Les résultats des essais doivent être évalués selon la norme EN ISO 4259 «Petroleum products – determination and application of precision data in relation to methods of test».</td></tr>
-<tr><td colspan="5"><sup>b</sup> Normes (communes) déterminantes pour les essais: – EN: norme du Comité européen de normalisation CEN – ISO: norme de l’Organisation internationale de normalisation ISO Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.</td></tr>
+<tr><td colspan="5"><sup>b</sup> Normes (communes) déterminantes pour les essais: – EN: norme du Comité européen de normalisation CEN – ISO: norme de l’Organisation internationale de normalisation ISO Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch/fr/).</td></tr>
 <tr><td colspan="5"><sup>c</sup> Pour les qualités hivernales et en dérogation au tableau, l’indice de cétane doit satisfaire au moins aux exigences de la norme SN EN 590.</td></tr>
 </table>
 
@@ -3127,13 +3127,13 @@ Si les circonstances le justifient, l’autorité exigera des cheminées plus é
 
 Diagramme 1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20240101/fr/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/fr/xml/image/image5.png)
 
 ### Détermination du facteur de correction g pour les zones de construction et de végétation
 
 Diagramme 2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20240101/fr/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/fr/xml/image/image6.png)
 
 I = hauteur des obstacles déterminants les plus élevés (ch. 5)
 

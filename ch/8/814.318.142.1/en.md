@@ -4,11 +4,11 @@ title: Ordinance of 16 December 1985 on Air Pollution Control (OAPC)
 short: OAPC
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/208_208_208"
 language: en
-version: 2024-01-01
+version: 2025-07-09
 adopted: 1985-12-16
 in_force: 1986-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20240101/en/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20240101-en-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20240101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/en/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20250709-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20250709/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (OAPC)
 
-of 16 December 1985 (Status as of 1 January 2024)
+of 16 December 1985 (Last amended on 9 July 2025)
 
 The Swiss Federal Council,
 
@@ -27,7 +27,7 @@ on the basis of Articles 12, 13, 16 and 39 of the Federal Act of 7 October 1983[
 
 ordains:
 
-[^ingress-1]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^ingress-1]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 
 ## Chapter 1 General Provisions
 
@@ -267,7 +267,7 @@ The measurement or inspection is generally to be repeated as follows, without pr
 
 <sup>4</sup> The measured and calculated values, the measurement methods used and the operating conditions at the installation at the time the measurements were performed shall be recorded in a measurement report.
 
-[^14-1]: [SR 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^14-1]: [SR 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
 [^14-2]: Amended by No I of the O of 11 April 2018, in force since 1 June 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
 
 #### Art. 15
@@ -372,7 +372,7 @@ Proof of conformity comprises:
 
 <sup>3</sup> The manufacturer or importer shall retain the declaration of conformity for ten years after placing the construction machine or particle filter system on the market.
 
-[^19b-1]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^19b-1]: [SR 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 [^19b-2]: Regulation (EU) 2016/1628 of the European Parliament and of the Council of 14 September 2016 on requirements relating to gaseous and particulate pollutant emission limits and type-approval for internal combustion engines for non-road mobile machinery, Amended by OJ L 252 of 16.09.2016, p. 53; supplemented by: Commission Delegated Regulation (EU) 2017/654 of 19 December 2016, OJ L 102 of 13.04.2017, p. 1; Commission Delegated Regulation (EU) 2017/655 of 19 December 2016, OJ L 102 of 13.04.2017, p. 334; Commission Implementing Regulation (EU) 2017/656 of 19 December 2016, OJ L 102 of 13.04.2017, p. 364.
 [^19b-3]: Inserted by No I of the O of 11 April 2018, in force since 1 June 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
 [^19b-4]: Amended by No I of the O of 14 Oct. 2015, in force since 16 Nov. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
@@ -419,7 +419,7 @@ Proof of conformity comprises:
 <sup>2</sup> Conformity may also be proven by means of a certificate issued by a conformity assessment body as specified in Article 18 TBA[^20c-2] to the effect that the type of machine or equipment with internal combustion engine meets the requirements of Annex 4 Number 4 (certificate of conformity). In this case, the engine must bear the trade mark or trade name of the manufacturer of the engine and the name of the conformity assessment body.
 
 [^20c-1]: See footnote to Art. 19*b* para. 1<sup>bis</sup>.
-[^20c-2]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^20c-2]: [SR 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 ### Section 5*b* ...
 
@@ -681,7 +681,7 @@ The FOEN shall monitor compliance with the regulations concerning placing constr
 The FOEN shall specify the minimal geodata models and presentation models for official geodata in accordance with this Ordinance for which it is designated as the competent federal authority in Annex 1 of the Ordinance of 21 May 2008[^39a-2] on Geoinformation.
 
 [^39a-1]: Inserted by Annex 2 No 8 of the O of 21 May 2008 on Geoinformation, in force since 1 July 2008 ([AS 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
-[^39a-2]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^39a-2]: [SR 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 
 ### Section 2 Amendment and Repeal of Existing Legislation
 
@@ -1055,7 +1055,7 @@ The emission concentration of any of the substances listed in Number 62 must not
 <sup>6</sup> Emissions of substances which are classified as ozone depleting substances in Annex 1.4 of the Ordinance of 18 May 2005[^annex1-lvlu1-lvl7-lvl71-2] on Chemical Risk Reduction, but which are not listed as Class 1 substances in the Table under Number 72, must be controlled in accordance with paragraph 1 letter a. This is without prejudice to the provisions of Number 8.
 
 [^annex1-lvlu1-lvl7-lvl71-1]: Substances for which there is good cause to believe that they are carcinogenic means in particular those substances contained in Section III of the «List of MAK and BAT Values» (Maximum Concentrations and Biological Tolerance Values at the Workplace) issued by the German Research Foundation (DFG). Available from: VCH Verlags-AG, Postfach, CH-4020 Basel.
-[^annex1-lvlu1-lvl7-lvl71-2]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^annex1-lvlu1-lvl7-lvl71-2]: [SR 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 ### 72 Table of organic substances in gaseous, vaporous or particulate form
 
@@ -1400,7 +1400,7 @@ Annex 2[^t-2]
 
 <sup>2</sup> Waste may only be used in cement kilns if it is suitable for this purpose in accordance with Article 24 of the Waste Ordinance of 4 December 2015[^annex2-lvlu1-lvl1-lvl11-lvl111-1] (ADWO).
 
-[^annex2-lvlu1-lvl1-lvl11-lvl111-1]: [SR 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
+[^annex2-lvlu1-lvl1-lvl11-lvl111-1]: [SR 814.600](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9574)
 
 ### 111<sup>bis</sup> Reference value
 
@@ -1843,7 +1843,7 @@ Emissions of nitrogen oxides, expressed as nitrogen dioxide, must not exceed the
 
 **Diagram:**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20240101/en/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/en/xml/image/image1.png)
 
 ### 474 Measurements
 
@@ -2050,7 +2050,7 @@ The provisions of Number 81 also apply to installations in which products are tr
 
 <sup>3</sup> *Special waste* means waste classified as special waste in the list issued in accordance with Article 2 of the Ordinance of 22 June 2005[^annex2-lvlu1-lvl7-lvl71-lvl711-1] on Movements of Waste (OMW).
 
-[^annex2-lvlu1-lvl7-lvl71-lvl711-1]: [SR 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
+[^annex2-lvlu1-lvl7-lvl71-lvl711-1]: [SR 814.610](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9575)
 
 ### 712 Relation to Annex 1
 
@@ -2198,7 +2198,7 @@ Emissions must not exceed the following limit values:
 <table>
 <tr><th colspan="2"></th><th></th><th></th><th></th><th colspan="3">Rated thermal input</th></tr>
 <tr><th colspan="4"></th><th></th><th>up to 1 MW</th><th>over 1 MW up to 10 MW</th><th>over 10 MW</th></tr>
-<tr><td>– Reference value:</td><td colspan="4">[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>– Reference value:</td><td colspan="4"></td><td></td><td></td><td></td></tr>
 <tr><td>The limit values are based on a flue gas oxygen content of</td><td colspan="4">% (v/v)</td><td>13</td><td>11</td><td>11</td></tr>
 <tr><td>– Total solids:</td><td colspan="4">mg/m<sup>3</sup></td><td>20</td><td>20</td><td>10</td></tr>
 <tr><td>– Carbon monoxide (CO)</td><td colspan="4">mg/m<sup>3</sup></td><td>500</td><td>250</td><td>150</td></tr>
@@ -2430,7 +2430,7 @@ Emissions of carbon monoxide must not exceed 50 mg/m<sup>3</sup>.
 
 ## Additional or different emission limitation requirements for combustion installations
 
-[^t-3]: Amended by No II of the O of 20 Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)). Revised by No II of the O of 15 Dec. 1997 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), of 23 June 2004 ([AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), of 4 July 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), of 22 Oct. 2008 ([AS 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)), the O of 18 June 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), of 14 Oct. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), No I of the O of 3 March 2017 ([AS 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), No II of the O of 11 April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), No I of the O of 12 Feb. 2020 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)) and No II of the O of 20 Oct. 2021, in force since 1 Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)). See also the transitional provision to the Amendment of 11 April 2018 above.
+[^t-3]: Amended by No II of the O of 20 Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)). Revised by No II of the O of 15 Dec. 1997 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), of 23 June 2004 ([AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), of 4 July 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), of 22 Oct. 2008 ([AS 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)), the O of 18 June 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), of 14 Oct. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), No I of the O of 3 March 2017 ([AS 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), No II of the O of 11 April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), No I of the O of 12 Feb. 2020 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)), No II of the O of 20 Oct. 2021, in force since 1 Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)). The correction of 9 July 2025 relates to the French and Italian texts only ([AS 2025 448](https://fedlex.data.admin.ch/eli/oc/2025/448)). See also the transitional provision to the Amendment of 11 April 2018 above.
 
 ### 1 Scope
 
@@ -2682,7 +2682,7 @@ Hand-stoked boilers with a rated heat output of up to 500 kW must be fitted with
 
 <sup>6</sup> In the case of local space heaters that under Number 22 letter f do not require regular measurements, the authority shall in particular check combustion residues and the condition of the installation. It shall on the first occasion provide information on how to use the installation properly and on how to use and store thermal fuels.
 
-[^annex3-lvlu1-lvl5-lvl52-lvl524-1]: [SR 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
+[^annex3-lvlu1-lvl5-lvl52-lvl524-1]: [SR 730.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8505)
 [^annex3-lvlu1-lvl5-lvl52-lvl524-2]: This standard may be viewed free of charge or obtained for a fee from the Swiss Association for Standardisation, Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
 ### 525 Requirements for dust removal systems
@@ -2765,7 +2765,7 @@ If a single installation operates alternately on different kinds of fuel, the em
 
 <sup>2</sup> The composite limit value is calculated according to the following formula:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20240101/en/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/en/xml/image/image2.png)
 
 where:
 
@@ -3204,15 +3204,15 @@ g (–) = Correction factor for buildings and vegetation
 
 Diagram 1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20240101/en/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/en/xml/image/image3.png)
 
 ### Determination of the correction factor for buildings and vegetation
 
 Diagram 2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20240101/en/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/en/xml/image/image4.png)
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20240101/en/xml/image/image5.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/en/xml/image/image5.png)</sub>
 
 - I = Height of the highest significant obstacle area (Number 5)
 - H<sub>1</sub> = Minimum stack height for flat, obstacle-free terrain (Number 4)
