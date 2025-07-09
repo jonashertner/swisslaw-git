@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Loi fédérale sur les végétaux issus des nouvelles technologies de sélection
 document: Projet mis en consultation
 language: fr

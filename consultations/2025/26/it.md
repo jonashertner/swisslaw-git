@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Legge federale sulle piante ottenute mediante nuove tecnologie di selezione
 document: Progetto posto in consultazione
 language: it

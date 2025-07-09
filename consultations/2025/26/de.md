@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Bundesgesetz über Pflanzen aus neuen Züchtungstechnologien
 document: Vernehmlassungsvorlage
 language: de
