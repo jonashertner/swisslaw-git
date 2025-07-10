@@ -4,13 +4,12 @@ number: "821.1"
 title: Gesetz über das Gesundheitswesen im Kanton Zug
 short: Gesundheitsgesetz; GesG
 language: de
-version: 2020-01-01
-valid_until: 2025-07-10
-version_adopted: 2019-09-26
+version: 2025-07-11
+version_adopted: 2025-05-01
 adopted: 2008-10-30
 in_force: 2009-03-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/821.1"
-pdf: "https://bgs.zg.ch/api/de/versions/2054/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2710/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://bgs.zg.ch/api/de/versions/2054/pdf_file"
 
 (Gesundheitsgesetz; GesG)
 
-Vom 30. Oktober 2008 (Stand 1. Januar 2020)
+Vom 30. Oktober 2008 (Stand 11. Juli 2025)
 
 Der Kantonsrat des Kantons Zug,
 
-gestützt auf § 41 Bst. b der Kantonsverfassung[^ingress-1],
+gestützt auf § 41 Abs. 1 Bst. b der Verfassung des Kantons Zug (Kantonsverfassung, KV) vom 31. Januar 1894[^ingress-1],
 
 beschliesst:
 
@@ -816,29 +815,11 @@ beschliesst:
 
 #### § 66
 
-**Beschwerderecht**
-
-<sup>1</sup> Gegen Verfügungen der gemeindlichen Gesundheitskommission, die gestützt auf dieses Gesetz oder dessen Ausführungserlasse getroffen wurden, kann beim Gemeinderat Beschwerde erhoben werden.
-
-<sup>2</sup> Entscheide des Gemeinderates, der Gesundheitsdirektion, der Ethikkommission und Veranlagungsverfügungen der Berufsverbände im Bereich der Notfalldienst-Ersatzabgaben sowie Verfügungen von Amtsstellen und Amtspersonen, die der Gesundheitsdirektion unterstellt sind, können mit Beschwerde an den Regierungsrat weitergezogen werden.
-
-<sup>3</sup> Das Verfahren richtet sich nach dem Gesetz über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz)[^66-1].
-
-[^66-1]: BGS [162.1](https://bgs.zg.ch/data/162.1/de)
+**…**
 
 #### § 67
 
-**Beschwerderecht bei Zwangsmassnahmen**
-
-<sup>1</sup> Die Patientin oder der Patient, die Vertrauensperson sowie die Kantonsärztin oder der Kantonsarzt können gegen die Anordnung einer Zwangsmassnahme beim Verwaltungsgericht Beschwerde führen. Die Beschwerde ist spätestens 30 Tage nach Beendigung der Zwangsmassnahme einzureichen. Ein aktuelles Rechtsschutzinteresse ist nicht erforderlich.
-
-<sup>2</sup> Der Beschwerde kommt keine aufschiebende Wirkung zu. Die Präsidentin bzw. der Präsident des Verwaltungsgerichts kann der Beschwerde auf Gesuch hin aufschiebende Wirkung erteilen.
-
-<sup>3</sup> Im Übrigen sind die Verfahrensvorschriften über die fürsorgerische Freiheitsentziehung sinngemäss anzuwenden.
-
-<sup>4</sup> Wird eine Zwangsmassnahme im Rahmen einer fürsorgerischen Freiheitsentziehung gemäss den Bestimmungen des Schweizerischen Zivilgesetzbuches[^67-1] angeordnet und ist gegen diese bereits eine Beschwerde beim Verwaltungsgericht hängig, so entscheidet das Verwaltungsgericht über beide Beschwerden in der Regel gleichzeitig.
-
-[^67-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
+**…**
 
 ### 10.2. Strafbestimmung
 
