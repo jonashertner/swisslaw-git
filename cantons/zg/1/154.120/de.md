@@ -3,20 +3,19 @@ canton: ZG
 number: "154.120"
 title: Weisungen zum Vollzug der Parkplatzverordnung
 language: de
-version: 2024-09-01
-valid_until: 2025-07-10
-version_adopted: 2024-07-16
+version: 2025-07-11
+version_adopted: 2025-07-08
 adopted: 2024-07-16
 in_force: 2024-09-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/154.120"
-pdf: "https://bgs.zg.ch/api/de/versions/2597/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2704/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Weisungen zum Vollzug der Parkplatzverordnung
 
-Vom 16. Juli 2024 (Stand 1. September 2024)
+Vom 16. Juli 2024 (Stand 11. Juli 2025)
 
 Die Baudirektion des Kantons Zug,
 
@@ -81,7 +80,7 @@ beschliesst:
 
 - a) Lüssiweg 24, Zug (Kantonschule Zug); Fr. 10.– pro Tag
 - b) Bergackerstrasse 42, Cham (Landwirtschaftliches Bildungszentrum); Fr. 5.– pro Tag
-- c) Lorzenstrasse 4, Cham (Amt für Zivilschutz und Militär); Fr. 5.– pro Tag
+- c) Lorzenstrasse 4, Cham (Amt für Bevölkerungsschutz, Zivilschutz und Militär); Fr. 5.– pro Tag
 - d) Seminarstrasse 12, Menzingen (Kantonsschule Menzingen); Fr. 5.– pro Tag
 
 <sup>2</sup> Die verantwortlichen Organisationseinheiten sind für die Ausgabe der Tageskarten besorgt.
@@ -194,7 +193,7 @@ beschliesst:
 
 <sup>2</sup> Aufgrund der besonderen Gegebenheiten (keine Aussenparkplätze) im gewerblich-industriellen Bildungszentrum Zug (GIBZ) wird vergünstigtes parkieren mit Tageskarten im Parkhaus GIBZ angeboten.
 
-<sup>3</sup> Für Mitarbeitende des Strassenunterhalts, der Zuger Polizei und des Amts für Zivilschutz und Militär auf dem Areal Hinterberg gelten aufgrund besonderer Umstände – namentlich aufgrund der Aufwuchsfähigkeit im Ereignisfall oder in ausserordentlichen Lagen (hohe Einsatzbereitschaft, Schaden- und Winterdienst) und der dezentralen Lage – herabgesetzte Tarife (§ 1 Abs. 5 PPV[^13-1]). Die Gebühren betragen 50% der unter § 2 Abs. 1 Bst. a PPV aufgeführten Tarife.
+<sup>3</sup> Für Mitarbeitende des Strassenunterhalts, der Zuger Polizei und des Amts für Bevölkerungsschutz, Zivilschutz und Militär auf dem Areal Hinterberg gelten aufgrund besonderer Umstände – namentlich aufgrund der Aufwuchsfähigkeit im Ereignisfall oder in ausserordentlichen Lagen (hohe Einsatzbereitschaft, Schaden- und Winterdienst) und der dezentralen Lage – herabgesetzte Tarife (§ 1 Abs. 5 PPV[^13-1]). Die Gebühren betragen 50% der unter § 2 Abs. 1 Bst. a PPV aufgeführten Tarife.
 
 <sup>4</sup> Das Reinigungspersonal parkiert zeitlich beschränkt gratis:
 
