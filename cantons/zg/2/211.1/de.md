@@ -4,13 +4,12 @@ number: "211.1"
 title: Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches für den Kanton Zug
 short: EG ZGB
 language: de
-version: 2022-04-09
-valid_until: 2025-07-10
-version_adopted: 2022-01-27
+version: 2025-07-11
+version_adopted: 2025-05-01
 adopted: 1911-08-17
 in_force: 1912-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/211.1"
-pdf: "https://bgs.zg.ch/api/de/versions/2329/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2709/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2329/pdf_file"
 
 (EG ZGB)
 
-Vom 17. August 1911 (Stand 9. April 2022)
+Vom 17. August 1911 (Stand 11. Juli 2025)
 
 Der Kantonsrat des Kantons Zug,
 
@@ -276,7 +275,7 @@ beschliesst:
 
 <sup>3</sup> Das Amt für Justizvollzug kann für den Vollzug der elektronischen Überwachung die Polizei beiziehen.
 
-<sup>4</sup> Das Amt für Justizvollzug teilt der klagenden Partei Verstösse gegen die angeordneten Verbote gemäss Art. 28b ZGB beziehungsweise gegen die angeordnete Überwachungsmassnahme unverzüglich mit.
+<sup>4</sup> Das Amt für Justizvollzug teilt der klagenden Partei Verstösse gegen die angeordneten Verbote gemäss Art. 28b ZGB beziehungsweise gegen die angeordnete Überwachungsmassnahme unverzüglich mit, wenn die klagende Partei dem Amt den Verdacht auf einen Verstoss meldet.
 
 <sup>5</sup> Die aufgezeichneten Daten über die beteiligten Personen dürfen nur zur Durchsetzung der angeordneten Verbote gemäss Art. 28b ZGB verwendet werden. Das Amt für Justizvollzug stellt sicher, dass die Daten spätestens zwölf Monate nach Abschluss der angeordneten Überwachungsmassnahme gelöscht werden.
 
@@ -574,9 +573,11 @@ beschliesst:
 
 <sup>2</sup> Bei Gefahr in Verzug kann jede Arztperson, die eine Bewilligung zur Berufsausübung im Kanton Zug besitzt, die Unterbringung anordnen.
 
+<sup>2a</sup> Die Arztperson, welche die fürsorgerische Unterbringung anordnet, darf nicht in einem Unterstellungsverhältnis zur ärztlichen Leitung der aufnehmenden Einrichtung stehen.
+
 <sup>3</sup> Die Gültigkeit der ärztlichen Unterbringung ist auf sechs Wochen beschränkt.
 
-<sup>4</sup> Die anordnende Arztperson stellt den Unterbringungsentscheid unverzüglich der Kindes- und Erwachsenenschutzbehörde zu.
+<sup>4</sup> Die anordnende Arztperson stellt den Unterbringungsentscheid unverzüglich der Kindes- und Erwachsenenschutzbehörde zu. Sie ist dieser und bei einer Beschwerde dem Verwaltungsgericht auskunftspflichtig.
 
 #### § 52
 
@@ -654,7 +655,7 @@ beschliesst:
 - b) Beschwerden in den Fällen von Art. 439 ZGB;
 - c) Beschwerden gegen die Anordnung einer Nachbetreuung oder einer ambulanten Massnahme.
 
-<sup>2</sup> Es ist für die Beurteilung örtlich zuständig, wenn die betroffene Person Wohnsitz im Kanton Zug hat oder wenn die Massnahme von einer Arztperson oder Einrichtung im Kanton Zug angeordnet wurde und die betroffene Person sich im Kanton Zug aufhält.
+<sup>2</sup> Es ist für die Beurteilung örtlich zuständig, wenn die Massnahme im Kanton Zug angeordnet wurde.
 
 #### § 59
 
@@ -1305,7 +1306,7 @@ beschliesst:
 
 **Löschung von Grundpfandverschreibungen**
 
-<sup>1</sup> Die Löschung von angeblich nicht mehr zu Recht bestehenden Grundpfandverschreibungen, für welche aber weder eine Löschungsbewilligung noch ein Zahlungsnachweis beigebracht werden kann, wird vom Kantonsgerichtspräsidenten nach vorausgegangener Auskündigung verfügt.
+<sup>1</sup> Die Löschung von angeblich nicht mehr zu Recht bestehenden Grundpfandverschreibungen, für die aber weder eine Löschungsbewilligung noch ein Zahlungsnachweis beigebracht werden kann, wird durch das Kantonsgerichtspräsidium nach vorausgegangener Auskündigung verfügt.
 
 ### 2.5.7. Fahrnispfandrecht
 
