@@ -3,20 +3,19 @@ canton: ZG
 number: "521.811"
 title: Verordnung über den zugerischen Winkelriedfonds
 language: de
-version: 2019-01-01
-valid_until: 2025-07-10
-version_adopted: 2018-05-29
+version: 2025-07-11
+version_adopted: 2025-07-08
 adopted: 1993-12-06
 in_force: 1994-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/521.811"
-pdf: "https://bgs.zg.ch/api/de/versions/1859/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2707/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den zugerischen Winkelriedfonds
 
-Vom 6. Dezember 1993 (Stand 1. Januar 2019)
+Vom 6. Dezember 1993 (Stand 11. Juli 2025)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -61,7 +60,7 @@ beschliesst:
 
 **Höhe der Beiträge**
 
-<sup>1</sup> Das Amt für Zivilschutz und Militär beurteilt die Gesuche nach Konsultation der Sicherheitsdirektion und legt die Höhe der Unterstützungsbeiträge fest.
+<sup>1</sup> Das Amt für Bevölkerungsschutz, Zivilschutz und Militär beurteilt die Gesuche nach Konsultation der Sicherheitsdirektion und legt die Höhe der Unterstützungsbeiträge fest.
 
 <sup>2</sup> Die Unterstützungsbeiträge für Instruktions- und Aktivdienst gemäss § 1 Bst. a und c sind unter Berücksichtigung der ausgewiesenen dauernden oder vorübergehenden Notlage sowie der zur Verfügung stehenden Mittel festzulegen.
 
@@ -81,7 +80,7 @@ beschliesst:
 
 **Unterstützungslimite**
 
-<sup>1</sup> Das Amt für Zivilschutz und Militär kann nur über das frei zur Verfügung stehende Kapital verfügen.
+<sup>1</sup> Das Amt für Bevölkerungsschutz, Zivilschutz und Militär kann nur über das frei zur Verfügung stehende Kapital verfügen.
 
 <sup>2</sup> Das Stiftungskapital von 1 Million Franken darf nur in Fällen eines längeren Aktivdienstes oder einer andern ausserordentlichen Situation und mit Ermächtigung des Regierungsrates angegriffen werden.
 
