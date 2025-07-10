@@ -4,13 +4,12 @@ number: "153.2"
 title: Verordnung betreffend die Organisation und die Zuständigkeiten der Staatsverwaltung des Kantons Zug
 short: "Organisationsverordnung, OV"
 language: de
-version: 2021-02-01
-valid_until: 2025-07-10
-version_adopted: 2021-01-12
+version: 2025-07-11
+version_adopted: 2025-07-08
 adopted: 2018-10-02
 in_force: 2019-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/153.2"
-pdf: "https://bgs.zg.ch/api/de/versions/2208/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2703/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2208/pdf_file"
 
 (Organisationsverordnung, OV)
 
-Vom 2. Oktober 2018 (Stand 1. Februar 2021)
+Vom 2. Oktober 2018 (Stand 11. Juli 2025)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -133,7 +132,7 @@ beschliesst:
 <sup>1</sup> Die Sicherheitsdirektion gliedert sich in folgende Ämter:
 
 - 1\. Direktionssekretariat (SDS);
-- 2\. Amt für Zivilschutz und Militär (AZM);
+- 2\. Amt für Bevölkerungsschutz, Zivilschutz und Militär (ABZM);
 - 3\. Strassenverkehrsamt (STVA);
 - 4\. Zuger Polizei (ZUPO);
 - 5\. Amt für Migration (AFM);
