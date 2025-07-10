@@ -3,13 +3,13 @@ canton: ZG
 number: "711.31"
 title: "Kantonaler Richtplan, Richtplantext"
 language: de
-version: 2024-07-12
-valid_until: 2025-07-10
-version_adopted: 2024-07-11
+version: 2025-07-11
+valid_until: 2025-12-25
+version_adopted: 2025-07-03
 adopted: 1988-09-01
 in_force: 1988-09-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/711.31"
-pdf: "https://bgs.zg.ch/api/de/versions/2697/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2961/pdf_file"
 text: pdf
 ---
 
@@ -17,7 +17,7 @@ text: pdf
 
 # Kantonaler Richtplan Richtplantext
 
-### Kantonsratsbeschlüsse bis: 4. Juli 2024 Vom Bundesrat genehmigt sind Kantonsratsbeschlüsse bis: 4. Juli 2024\* \* ausgenommen Kapitel S 2.1 Siedlungsbegrenzungslinie Unterägeri
+### Kantonsratsbeschlüsse bis: 3. Juli 2025 Vom Bundesrat genehmigt sind Kantonsratsbeschlüsse bis: 3. Juli 2025\* \* ausgenommen Kapitel S 2.1 Siedlungsbegrenzungslinie Unterägeri
 
 Amt für Raum und Verkehr
 
@@ -27,9 +27,9 @@ Herausgeber Baudirektion des Kantons Zug Amt für Raum und Verkehr Aabachstrasse
 
 6300 Zug T +41 41 594 54 80 info.arv@zg.ch
 
-Stand der Nachführung: Kantonsratsbeschlüsse bis: 4. Juli 2024 Vom Bundesrat genehmigt sind Kantonsratsbeschlüsse bis: 4. Juli 2024 (ausgenommen ist das Kapitel S 2.1 Siedlungsbegrenzungslinie Unterägeri)
+Stand der Nachführung: Kantonsratsbeschlüsse bis 3. Juli 2025 Vom Bundesrat genehmigt sind Kantonsratsbeschlüsse bis 3. Juli 2025 (ausgenommen ist das Kapitel S 2.1 Siedlungsbegrenzungslinie Unterägeri)
 
-Erstellt am 20. Mai 2025
+Erstellt am 3. Dezember 2025
 
 ### Vorwort
 
@@ -81,7 +81,7 @@ L 1 Landwirtschaft L 2 Bodenschutz L 3 Weiler L 4 Wald L 5 Naturschutzgebiete un
 
 M Mobilität
 
-**35 35 36 36 43 44**
+**35 35 36 36 44 44**
 
 M 1 Grundsätze zur Mobilität M 2 Flächen- und energieeffiziente Mobilität M 3 Verursachergerechte Finanzierung der Mobilität M 4 Infrastruktur und Erreichbarkeiten M 5 Mobilität und Siedlung M 6 Digitalisierung und Verkehrslenkung E Ver- und Entsorgung, weitere Raumnutzungen
 
@@ -1329,13 +1329,11 @@ Teilkarte M 4.6 2.4 Unter Berücksichtigung der Sachpläne des Bundes findet ein
 
 3.3 Kanton und Gemeinden sorgen für genügend, vorzugsweise überdachte, Velo-Abstellplätze, insbesondere an den Haltestellen des öffentlichen Verkehrs.
 
-3.4 Der Kanton überarbeitet das kantonale Velonetz und integriert dieses bis 2024 in den Richtplan.
-
 - 4\. Fussverkehr 4.1 Kanton und Gemeinden sorgen für sichere und attraktive Fusswege. Neben baulichen Massnahmen sorgen die Gemeinden in Planungen und Bewilligungen für die Durchgängigkeit der Siedlungen für Fussgängerinnen und Fussgänger.
 
 - 5\. Kanton und Gemeinden rüsten ihre Infrastrukturen für den freien Datenaustausch und standardisierte Schnittstellen auf.
 
-Richtplantext Kap. G 8 6. Der Kanton gleicht seine Netze und Infrastrukturen mit den Nachbarkantonen ab. Die grossen Zentren und der Flughafen verfügen über rasche Verbindungen in den Kanton Zug.
+- 6\. Der Kanton gleicht seine Netze und Infrastrukturen mit den Nachbarkantonen ab. Die grossen Zentren und der Flughafen verfügen über rasche Verbindungen in den Kanton Zug. Richtplantext Kap. G 8
 
 - 7\. Der Kanton Zug fördert an guten Umsteigebahnhöfen oder an Autobahnanschlüssen auch ausserkantonale Mobilitätshubs mit schnellen Verbindungen in den Wirtschaftsraum Rotkreuz– Zug–Baar. Er sucht dazu aktiv die frühzeitige Zusammenarbeit mit den Nachbarkantonen.
 
@@ -1369,9 +1367,7 @@ Nr. Vorhaben Stand
 
 2 Neubau Autobahn-Halbanschluss Rotkreuz Festsetzung Süd mit Massnahmen zur Verflüssigung des Verkehrs zwischen Halbanschluss Rotkreuz Süd und Vollanschluss Rotkreuz 2.1 Der Kanton Zug setzt sich für die Sanierung und die Funktionstüchtigkeit des Autobahnanschlusses Küssnacht ein. Die Eröffnung des neuen Autobahn-Halbanschlusses Rotkreuz Süd darf erst nach der Sanierung des Autobahnanschlusses Küssnacht erfolgen.
 
-**auf**
-
-2.2 Der Kanton und die Gemeinde Risch treffen gleichzeitig mit der Realisierung flankierende Massnahmen Kantons-, Gemeinde- und Quartierstrassen zur Minimierung des Zusatzverkehrs durch die verschiedenen Ortsteile sowie zur Verhinderung ortsfremden Durchgangsverkehrs.
+2.2 Der Kanton und die Gemeinde Risch treffen gleichzeitig mit der Realisierung flankierende Massnahmen auf Kantons-, Gemeinde- und Quartierstrassen zur Minimierung des Zusatzverkehrs durch die verschiedenen Ortsteile sowie zur Verhinderung ortsfremden Durchgangsverkehrs.
 
 2.3 Der Kanton bindet den Bund, die betroffenen Gemeinden und die Bevölkerung in den Prozess ein.
 
@@ -1615,13 +1611,53 @@ M 4.8.1 Angebot 1. Der Kanton Zug ist vom Kanton Zürich und vom Bund frühzeiti
 
 - 3\. Der Kanton Zug ist frühzeitig in die Planung einer allfälligen zivilen Mitbenutzung der Militärflugplätze in der deutschsprachigen Schweiz einzubeziehen.
 
-M 4.9 Veloverkehr
+M 4.9 Kantonales Velowegnetz
 
-M 4.9.1 Angebot 1. Die neuen Velostrecken sind räumlich abgestimmt und werden festgesetzt. Sie ergänzen das bestehende Velonetz. Kleinräumige Verschiebungen von Velostrecken, welche das Netz nicht tangieren, brauchen keine Anpassung des Richtplans.
+M 4.9.1 Angebot 1. Das neue Velowegnetz ist räumlich abgestimmt und wird festgesetzt. Kleinräumige Anpassungen, welche die Netzfunktion nicht tangieren, brauchen keine Anpassung des Richtplans.
 
 **Richtplankarte Teilkarten M 4.9**
 
-- 2\. Der Kanton Zug realisiert in Zusammenarbeit mit den Gemeinden das festgesetzte Velonetz etappenweise.
+- 2\. Der Kanton Zug realisiert und vervollständigt in Zusammenarbeit mit den Gemeinden das festgesetzte Velowegnetz etappenweise bis 2042.
+
+- 3\. Das Velowegnetz für den Alltag erschliesst und verbindet Siedlungsgebiete und wichtige Ziele des Alltags direkt und ermöglicht attraktive Reisezeiten. Es verläuft in der Regel auf Asphalt/ Hartbelag und ist möglichst homogen ausgestaltet.
+
+Die Velobahn ermöglicht ein schnelles und unterbrucharmes Fahren. Sie hat den höchsten Ausbaustandard und ist wo immer möglich eigentrassiert. In den Ortszentren ist auf die lokalen städtebaulichen Gegebenheiten Rücksicht zu nehmen.
+
+- 4\. Das Velowegnetz für die Freizeit dient vorwiegend der Erholung und dem Sport. Es erschliesst und verbindet hierfür wichtige Ziele. Es verläuft in der Regel ausserhalb von Siedlungsgebieten in hoher Umgebungsqualität auf befestigtem oder unbefestigtem Untergrund.
+
+M 4.9.2 Vorhaben In folgenden Räumen prüft der Kanton in Zusammenarbeit mit den betroffenen Gemeinden verbesserte Veloführungen. Die Eigentümerschaften sind einzubeziehen.
+
+**Planquadrat**
+
+Nr. Gemeinde Vorhaben
+
+**L 2–O 3**
+
+1 Hünenberg, Risch Rüsshalden–Kantonsgrenze LU
+
+**J 7**
+
+2 Cham Alpenblick II
+
+**H 11**
+
+3 Baar Bahnhof
+
+**K 13–M 13**
+
+4 Baar Obergrüt–Alte Lorzentobelbrücke
+
+**E 15–F 15**
+
+5 Neuheim Neuheim–Sihlbrugg
+
+**O 4**
+
+6 Risch Verbindung Dorfteile
+
+Mit Ausnahme von Nr. 2 und 3 benötigen die definitiven Linienführungen eine Anpassung des
+
+Richtplans.
 
 M 4.10 Kantonales Wanderwegnetz
 
