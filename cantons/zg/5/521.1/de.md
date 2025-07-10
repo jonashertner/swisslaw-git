@@ -3,20 +3,19 @@ canton: ZG
 number: "521.1"
 title: Verordnung über die Militärverwaltung
 language: de
-version: 2020-02-22
-valid_until: 2025-07-10
-version_adopted: 2020-02-18
+version: 2025-07-11
+version_adopted: 2025-07-08
 adopted: 2003-12-02
 in_force: 2004-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/521.1"
-pdf: "https://bgs.zg.ch/api/de/versions/2074/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2705/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Militärverwaltung
 
-Vom 2. Dezember 2003 (Stand 22. Februar 2020)
+Vom 2. Dezember 2003 (Stand 11. Juli 2025)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -42,9 +41,9 @@ beschliesst:
 
 #### § 2
 
-**Amt für Zivilschutz und Militär**
+**Amt für Bevölkerungsschutz, Zivilschutz und Militär**
 
-<sup>1</sup> Das Amt für Zivilschutz und Militär ist die kantonale Militärbehörde.
+<sup>1</sup> Das Amt für Bevölkerungsschutz, Zivilschutz und Militär ist die kantonale Militärbehörde.
 
 <sup>2</sup> Es vollzieht die dem Kanton bundesrechtlich übertragenen Aufgaben und ist Kontaktstelle für die Wehrpflichtigen im Kanton.
 
@@ -58,17 +57,17 @@ beschliesst:
 
 **Disziplinarstrafgewalt**
 
-<sup>1</sup> Dem Amt für Zivilschutz und Militär steht die Disziplinarstrafgewalt im Sinne von Art. 95 Abs. 1 Bst. b und Abs. 2 der Militärstrafverordnung zu. Der Amtsvorsteher oder die -vorsteherin resp. die zur Stellvertretung berechtigte Person unterzeichnet die entsprechenden Entscheide.
+<sup>1</sup> Dem Amt für Bevölkerungsschutz, Zivilschutz und Militär steht die Disziplinarstrafgewalt im Sinne von Art. 95 Abs. 1 Bst. b und Abs. 2 der Militärstrafverordnung zu. Der Amtsvorsteher oder die -vorsteherin resp. die zur Stellvertretung berechtigte Person unterzeichnet die entsprechenden Entscheide.
 
 <sup>2</sup> Das Amt vollzieht die Arreststrafen gemäss Art. 192 Militärstrafgesetz.
 
-<sup>3</sup> Gegen Disziplinarstrafentscheide des Amts für Zivilschutz und Militär kann bei der Sicherheitsdirektion Disziplinarbeschwerde erhoben werden.
+<sup>3</sup> Gegen Disziplinarstrafentscheide des Amts für Bevölkerungsschutz, Zivilschutz und Militär kann bei der Sicherheitsdirektion Disziplinarbeschwerde erhoben werden.
 
 #### § 4
 
 **Pflichten der Einwohnerkontrollen**
 
-<sup>1</sup> Die Einwohnerkontrollen stellen dem Amt für Zivilschutz und Militär die Daten der Stellungspflichtigen und die Mutationsdaten der Wehrpflichtigen elektronisch zur Verfügung.
+<sup>1</sup> Die Einwohnerkontrollen stellen dem Amt für Bevölkerungsschutz, Zivilschutz und Militär die Daten der Stellungspflichtigen und die Mutationsdaten der Wehrpflichtigen elektronisch zur Verfügung.
 
 #### § 5
 
