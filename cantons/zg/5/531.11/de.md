@@ -3,20 +3,19 @@ canton: ZG
 number: "531.11"
 title: Verordnung zum Einführungsgesetz betreffend Zivilschutz
 language: de
-version: 2020-02-01
-valid_until: 2025-07-10
-version_adopted: 2020-01-14
+version: 2025-07-11
+version_adopted: 2025-07-08
 adopted: 2011-06-28
 in_force: 2011-08-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/531.11"
-pdf: "https://bgs.zg.ch/api/de/versions/2068/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2708/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Einführungsgesetz betreffend Zivilschutz
 
-Vom 28. Juni 2011 (Stand 1. Februar 2020)
+Vom 28. Juni 2011 (Stand 11. Juli 2025)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -28,13 +27,13 @@ beschliesst:
 [^ingress-2]: BGS [531.1](https://bgs.zg.ch/data/531.1/de)
 [^ingress-3]: BGS [154.25](https://bgs.zg.ch/data/154.25/de)
 
-## 1. Aufgaben und Zuständigkeiten des Amtes für Zivilschutz und Militär
+## 1. Aufgaben und Zuständigkeiten des Amtes für Bevölkerungsschutz, Zivilschutz und Militär
 
 #### § 1
 
 **Allgemeines**
 
-<sup>1</sup> Das Amt für Zivilschutz und Militär (Amt) vollzieht die Gesetzgebung zum Zivilschutz. Ihm obliegen alle Aufgaben im Zivilschutz, soweit nicht eine andere Instanz von Gesetzes wegen zuständig ist.
+<sup>1</sup> Das Amt für Bevölkerungsschutz, Zivilschutz und Militär (Amt) vollzieht die Gesetzgebung zum Zivilschutz. Ihm obliegen alle Aufgaben im Zivilschutz, soweit nicht eine andere Instanz von Gesetzes wegen zuständig ist.
 
 #### § 2
 
