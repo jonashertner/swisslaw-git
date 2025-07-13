@@ -5,12 +5,12 @@ title: Vollzugsverordnung zum Planungs- und Baugesetz
 short: "Planungs- und Bauverordnung, PBV"
 language: de
 version: 2024-10-01
-valid_until: 2025-09-30
+corrected: 2025-07-14
 version_adopted: 2024-08-27
 adopted: 2014-11-25
 in_force: 2015-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/611.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/1402/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1300/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -27,7 +27,7 @@ gestützt auf Art. 64 Abs. 1 Ziff. 1 der Kantonsverfassung, in Ausführung von A
 
 beschliesst:
 
-[^t-1]: Die mit ►◄ gekennzeichneten §§ treten gemäss NG 611.111 gemeindeweise in Kraft
+[^t-1]: Die mit ►◄ gekennzeichneten §§ treten gemäss NG 611.11 gemeindeweise in Kraft
 [^ingress-1]: NG 611.1
 
 ## 1 Allgemeine Bestimmung
