@@ -1,33 +1,38 @@
 ---
 canton: UR
 number: "40.7219"
-title: Reglement über den Fonds Förderprogramm Energie Uri
+title: REGLEMENT über den Fonds Förderprogramm Energie Uri
 language: de
 version: 2018-10-23
+corrected: 2025-07-15
 version_adopted: 2018-10-23
 adopted: 2018-10-23
 in_force: 2018-10-23
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.7219"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/463/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/315/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über den Fonds Förderprogramm Energie Uri
+# REGLEMENT über den Fonds Förderprogramm Energie Uri
 
-Vom 23.10.2018 (Stand 23.10.2018)
+REGLEMENT über den Fonds Förderprogramm Energie Uri
 
-Der Regierungsrat des Kantons Uri,
+(vom 23. Oktober 2018[^t-1]; Stand am 23. Oktober 2018)
 
-gestützt auf Artikel 16 Absatz 2 des Energiegesetzes des Kantons Uri vom 18. April 1999 (EnG, RB [40.7211](https://rechtsbuch.ur.ch/data/40.7211/de)),
+Der Regierungsrat des Kantons Uri, gestützt auf Artikel 16 Absatz 2 des Energiegesetzes des Kantons Uri vom 18. April 1999 (EnG)[^t-2],
 
 beschliesst:
+
+[^t-1]: AB vom 26. Oktober 2019
+[^t-2]: RB 40.7211
 
 #### Artikel 1
 
 **Gegenstand**
 
-<sup>1</sup> Dieses Reglement vollzieht den Fonds Förderprogramm Energie Uri, der mit dem Regierungsratsbeschluss vom 16. Januar 2018 geschaffen wurde.
+Dieses Reglement vollzieht den Fonds Förderprogramm Energie Uri, der mit dem Regierungsratsbeschluss vom 16. Januar 2018 geschaffen wurde.
 
 #### Artikel 2
 
@@ -45,7 +50,7 @@ beschliesst:
 
 **Zuständigkeit**
 
-<sup>1</sup> Die Zuständigkeit für den Vollzug des Förderprogramms Energie Uri und demzufolge auch die Zuständigkeit für die Verwaltung des Fonds Förderprogramm Energie Uri richtet sich nach Artikel 18 des Energiegesetzes des Kantons Uri.
+Die Zuständigkeit für den Vollzug des Förderprogramms Energie Uri und demzufolge auch die Zuständigkeit für die Verwaltung des Fonds Förderprogramm Energie Uri richtet sich nach Artikel 18 des Energiegesetzes des Kantons Uri.
 
 #### Artikel 4
 
@@ -65,8 +70,8 @@ beschliesst:
 
 #### Artikel 6
 
-**Inkrafttreten**
+**Im Namen des Regierungsrats**
 
-<sup>1</sup> Dieses Reglement tritt am 23. Oktober 2018 in Kraft.
+**Der Landammann: Roger Nager Der Kanzleidirektor: Roman Balli**
 
-AB 26.10.2018
+Inkrafttreten Dieses Reglement tritt am 23. Oktober 2018 in Kraft.
