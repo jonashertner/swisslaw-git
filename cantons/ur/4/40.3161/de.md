@@ -1,29 +1,35 @@
 ---
 canton: UR
 number: "40.3161"
-title: Wildschadenreglement
+title: WILDSCHADENREGLEMENT
 language: de
 version: 2017-03-01
+corrected: 2025-07-15
 version_adopted: 2017-02-07
 adopted: 1995-06-26
 in_force: 1995-08-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.3161"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/461/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/292/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Wildschadenreglement
+# WILDSCHADENREGLEMENT
 
-Vom 26.06.1995 (Stand 01.03.2017)
+WILDSCHADENREGLEMENT
 
-Der Regierungsrat des Kantons Uri,
+(vom 26. Juni 1995[^t-1]; Stand am 1. März 2017)
 
-gestützt auf Artikel 13 Absatz 2 Bundesgesetz über die Jagd und den Schutz wildlebender Säugetiere und Vögel (JSG, SR [922.0](https://db.clex.ch/link/Bund/922.0/de)) und Artikel 33 Jagdverordnung (KJSV, RB [40.3111](https://rechtsbuch.ur.ch/data/40.3111/de)),
+Der Regierungsrat des Kantons Uri, gestützt auf Artikel 13 Absatz 2 Bundesgesetz über die Jagd und den Schutz wildlebender Säugetiere und Vögel (JSG)[^t-2] und Artikel 33 Jagdverordnung (KJSV)[^t-3]
 
 beschliesst:
 
-## 1 Materielle Bestimmungen
+[^t-1]: AB vom 7. Juli 1995
+[^t-2]: SR 922.0
+[^t-3]: RB 40.3111
+
+### 1. Kapitel: MATERIELLE BESTIMMUNGEN
 
 #### Artikel 1
 
@@ -41,40 +47,61 @@ beschliesst:
 
 <sup>1</sup> Vergütbar im Sinne dieses Reglementes sind:
 
-- a) Schäden, die wildlebende Tiere gemäss Bundesgesetz im Wald, auf Wiesen, Weiden, in Kulturen, Gärten, Obstanlagen und an Nutztieren anrichten
-- b) geeignete Schutzmassnahmen zur Verhütung von Wildschäden
-- c) Folgekosten nach Grossraubtierangriffen auf Nutztiere
+- a) Schäden, die wildlebende Tiere gemäss Bundesgesetz im Wald, auf Wiesen, Weiden, in Kulturen, Gärten, Obstanlagen und an Nutztieren anrichten;
+
+- b) geeignete Schutzmassnahmen zur Verhütung von Wildschäden;
+
+- c) Folgekosten nach Grossraubtierangriffen auf Nutztiere.[^2-1]
 
 <sup>2</sup> Nicht vergütbar im Sinne des Reglementes sind:
 
-- a) Personenschäden
-- b) Schäden von Tieren, gegen welche gemäss Artikel 12 Absatz 3 JSG und Artikel 29 KJSV Selbsthilfemassnahmen ergriffen werden dürfen
-- c) alle Schäden, deren Versicherung zumutbar ist
-- d) Sachschäden an anderem als mit der Bodenkultur verbundenem Gut
-- e) Schäden auf Grundeigentum der öffentlichen Hand (Bund, Kanton, Korporation, Gemeinden); Pächter und Nutzniesser von solchem Grundeigentum gelangen jedoch in den Genuss von Vergütungen, wenn sie durch den Wildschaden bzw. die Verhütungsmassnahmen als Nutzungsberechtigte wesentlich betroffen sind
-- f) Schäden an Obstanlagen, Baumschulen, Gärtnereien, Hausgärten, die wegen fehlender oder mangelhafter, zumutbarer Schutzvorkehrungen eintreten
-- g) Schäden an Nutztieren, die in Folge mangelhafter Aufsicht oder mangelhaft gesicherter Räume oder Höfe entstehen
-- h) Schäden, die dadurch mitverursacht sind, dass die Ernte nicht zur rechten Zeit eingebracht worden ist
-- i) Schäden auf Flächen, für die in den letzten zehn Jahren Verhütungsbeiträge ausbezahlt worden sind oder Material ausgehändigt worden ist
-- k) Schäden, die durch Wildkrankheiten verursacht werden
-- l) Schäden zufolge des Jagdbetriebes
-- m) Schäden, die zu spät angemeldet worden sind und deren Umfang und Ursache des Schadens nicht mehr einwandfrei festgestellt werden kann
+- a) Personenschäden;
+
+- b) Schäden von Tieren, gegen welche gemäss Artikel 12 Absatz 3 JSG und Artikel 29 KJSV Selbsthilfemassnahmen ergriffen werden dürfen;
+
+- c) alle Schäden, deren Versicherung zumutbar ist;
+
+- d) Sachschäden an anderem als mit der Bodenkultur verbundenem Gut;
+
+- e) Schäden auf Grundeigentum der öffentlichen Hand (Bund, Kanton, Korporation, Gemeinden); Pächter und Nutzniesser von solchem Grundeigentum gelangen jedoch in den Genuss von Vergütungen, wenn sie durch den Wildschaden bzw. die Verhütungsmassnahmen als Nutzungsberechtigte wesentlich betroffen sind;
+
+- f) Schäden an Obstanlagen, Baumschulen, Gärtnereien, Hausgärten, die wegen fehlender oder mangelhafter, zumutbarer Schutzvorkehrungen eintreten;
+
+- g) Schäden an Nutztieren, die in Folge mangelhafter Aufsicht oder mangelhaft gesicherter Räume oder Höfe entstehen;
+
+- h) Schäden, die dadurch mitverursacht sind, dass die Ernte nicht zur rechten Zeit eingebracht worden ist;
+
+- i) Schäden auf Flächen, für die in den letzten zehn Jahren Verhütungsbeiträge ausbezahlt worden sind oder Material ausgehändigt worden ist;
+
+- k) Schäden, die durch Wildkrankheiten verursacht werden;
+
+- l) Schäden zufolge des Jagdbetriebes;
+
+- m) Schäden, die zu spät angemeldet worden sind und deren Umfang und Ursache des Schadens nicht mehr einwandfrei festgestellt werden kann.
+
+[^2-1]: Eingefügt durch RRB vom 7. Februar 2017, in Kraft gesetzt auf den 1. März 2017 (AB vom 17. Februar 2017).
 
 #### Artikel 3
 
 **Verhütungsmassnahmen**
 
-<sup>1</sup> Vergütungen für Verhütungsmassnahmen richten sich nach folgenden Grundsätzen:
+Vergütungen für Verhütungsmassnahmen richten sich nach folgenden Grundsätzen:
 
-- a) vergütet werden nur von der Wildschadenkommission anerkannte Schutzmassnahmen zur Abwehr von erheblichem Wildschaden an Spezialkulturen, Obstanlagen, Garten, Gartenanlagen, Baumschulen und Wald
-- b) in der Regel werden nur Materialkosten vergütet
-- c) die Höhe des Beitrags richtet sich danach, ob die Massnahme teilweise oder ausschliesslich der Abwehr von Wildschaden dient
-- d) anstelle eines Kostenbeitrages kann auch Material zur Verfügung gestellt werden
-- e) der Unterhalt der Schutzvorrichtungen fällt zulasten des Eigentümers
-- f) die Schutzmassnahmen dürfen zu keinen ernsthaften Verletzungen des Wildes führen
-- g) bei der Anlage von Schutzmassnahmen (Zäunen usw.) sind die Wildwechsel und die Lebensbedingungen des Wildes angemessen zu berücksichtigen. Es ist ausserdem zu vermeiden, dass durch diese Massnahmen (grössere) Wildschäden in der näheren Umgebung entstehen. Aus diesem Grunde darf auch nicht grossflächig abgezäunt werden
+- a) vergütet werden nur von der Wildschadenkommission anerkannte Schutzmassnahmen zur Abwehr von erheblichem Wildschaden an Spezialkulturen, Obstanlagen, Garten, Gartenanlagen, Baumschulen und Wald;
 
-## 2 Mittel, Organisation und Verfahren
+- b) in der Regel werden nur Materialkosten vergütet;
+
+- c) die Höhe des Beitrags richtet sich danach, ob die Massnahme teilweise oder ausschliesslich der Abwehr von Wildschaden dient;
+
+- d) anstelle eines Kostenbeitrages kann auch Material zur Verfügung gestellt werden;
+
+- e) der Unterhalt der Schutzvorrichtungen fällt zulasten des Eigentümers;
+
+- f) die Schutzmassnahmen dürfen zu keinen ernsthaften Verletzungen des Wildes führen;
+
+- g) bei der Anlage von Schutzmassnahmen (Zäunen usw.) sind die Wildwechsel und die Lebensbedingungen des Wildes angemessen zu berücksichtigen. Es ist ausserdem zu vermeiden, dass durch diese Massnahmen (grössere) Wildschäden in der näheren Umgebung entstehen. Aus diesem Grunde darf auch nicht grossflächig abgezäunt werden.
+
+### 2. Kapitel: MITTEL, ORGANISATION UND VERFAHREN
 
 #### Artikel 4
 
@@ -84,7 +111,9 @@ beschliesst:
 
 <sup>2</sup> Reichen die Mittel des Fonds nicht aus, kann der Regierungsrat im Rahmen der vom Landrat genehmigten Kredite weitere Beiträge aus dem Ertrag des Jagdregals in den Fonds abzweigen.
 
-<sup>3</sup> Der Kantonsanteil für die Vergütung von Grossraubtierschäden wird dem Wildschadenfonds aus der allgemeinen Rechnung zurückvergütet.
+<sup>3</sup> Der Kantonsanteil für die Vergütung von Grossraubtierschäden wird dem Wildschadenfonds aus der allgemeinen Rechnung zurückvergütet.[^4-1]
+
+[^4-1]: Eingefügt durch RRB vom 6. Dezember 2016, in Kraft gesetzt auf den 1. Januar 2017 (AB vom 16. Dezember 2016).
 
 #### Artikel 5
 
@@ -100,7 +129,7 @@ beschliesst:
 
 **Gesuche um Beiträge an Verhütungsmassnahmen**
 
-<sup>1</sup> Gesuche um Kostenbeiträge an Verhütungsmassnahmen sind mit dem Kostenvoranschlag an das zuständige Amt[^Artikel6-1] zuhanden der Wildschadenkommission zu richten.
+<sup>1</sup> Gesuche um Kostenbeiträge an Verhütungsmassnahmen sind mit dem Kostenvoranschlag an das zuständige Amt<sup>6</sup> zuhanden der Wildschadenkommission zu richten.
 
 <sup>2</sup> Die Kommission prüft die Voraussetzungen der Beitragsberechtigung, der Notwendigkeit und Tauglichkeit der Schutzeinrichtungen bzw. der Schutzmittel und legt den Kostenbeitrag fest.
 
@@ -108,23 +137,20 @@ beschliesst:
 
 <sup>4</sup> Der Beitrag wird erst ausbezahlt, wenn die Verhütungsmassnahmen ausgeführt worden sind.
 
-[^Artikel6-1]: Amt für Forst und Jagd; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
-
 #### Artikel 7
 
 **Schadenmeldung**
 
-<sup>1</sup> Wildschäden sind schriftlich mit dem Wildschadenformular beim zuständigen Amt[^Artikel7-1] anzumelden. Im Wildschadenformular sind genaue Angaben zu machen über Schadenort, Verursacher und Schadenhöhe. Der Eingang ist zu bestätigen.
+<sup>1</sup> Wildschäden sind schriftlich mit dem Wildschadenformular beim zuständigen Amt[^7-1] anzumelden. Im Wildschadenformular sind genaue Angaben zu machen über Schadenort, Verursacher und Schadenhöhe. Der Eingang ist zu bestätigen.
 
-<sup>2</sup> Schäden an Nutztieren sind unverzüglich beim gebietszuständigen Wildhüter oder Jagdaufseher zu melden und nachher mit einem Wildschadenformular beim zuständigen Amt[^Artikel7-2] anzumelden.
+<sup>2</sup> Schäden an Nutztieren sind unverzüglich beim gebietszuständigen Wildhüter oder Jagdaufseher zu melden und nachher mit einem Wildschadenformular beim zuständigen Amt[^7-2] anzumelden.
 
 <sup>3</sup> Der Schaden darf vor der endgültigen Schätzung nicht verändert werden. Geschlagene oder gerissene Nutztiere sollen nach Möglichkeit vor der Schätzung nicht entfernt werden.
 
-<sup>4</sup> Wildschadenformulare sind beim zuständigen Amt[^Artikel7-3] und bei den Gemeindekanzleien zu beziehen.
+<sup>4</sup> Wildschadenformulare sind beim zuständigen Amt<sup>9</sup> und bei den Gemeindekanzleien zu beziehen.
 
-[^Artikel7-1]: Amt für Forst und Jagd; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
-[^Artikel7-2]: Amt für Forst und Jagd; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
-[^Artikel7-3]: Amt für Forst und Jagd; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^7-1]: Amt für Forst und Jagd, siehe Organisationsreglement (RB 2.3322).
+[^7-2]: Amt für Forst und Jagd, siehe Organisationsreglement (RB 2.3322).
 
 #### Artikel 8
 
@@ -132,13 +158,11 @@ beschliesst:
 
 <sup>1</sup> Schätzungen sind innert acht Tagen seit Eingang der Schadenmeldung durchzuführen.
 
-<sup>2</sup> Die Schadenschätzung ist auf dem Wildschadenformular festzuhalten und dem Geschädigten sowie dem zuständigen Amt[^Artikel8-1] mitzuteilen.
+<sup>2</sup> Die Schadenschätzung ist auf dem Wildschadenformular festzuhalten und dem Geschädigten sowie dem zuständigen Amt<sup>10</sup> mitzuteilen.
 
 <sup>3</sup> Besteht Aussicht, dass sich geschädigte Kulturen erholen können, wird der mutmassliche Schaden festgestellt. Die endgültige Schätzung erfolgt vor der Ernte.
 
 <sup>4</sup> Der Geschädigte ist zur Schätzung immer einzuladen.
-
-[^Artikel8-1]: Amt für Forst und Jagd; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
 
 #### Artikel 9
 
@@ -148,33 +172,31 @@ beschliesst:
 
 <sup>2</sup> Für Schäden an Nutztieren dienen die jeweils geltenden Marktpreise als Berechnungsgrundlage.
 
-<sup>3</sup> Das zuständige Amt[^Artikel9-1] erteilt den Schätzungsorganen Instruktionen über die Schätzung von Wildschäden.
+3 Das zuständige Amt[^9-1] erteilt den Schätzungsorganen Instruktionen über die Schätzung von Wildschäden.
 
-[^Artikel9-1]: Amt für Forst und Jagd; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^9-1]: Amt für Forst und Jagd, siehe Organisationsreglement (RB 2.3322).
 
 #### Artikel 10
 
 **Schätzungsorgane**
 
-<sup>1</sup> Schäden an Kulturen unter 500 Franken werden durch die gebietszuständigen Wildhüter oder Jagdaufseher geschätzt, falls der Schadenforderung nicht ohne weiteres nachzukommen ist.
+<sup>1</sup> Schäden an Kulturen unter Fr. 500.— werden durch die gebietszuständigen Wildhüter oder Jagdaufseher geschätzt, falls der Schadenforderung nicht ohne weiteres nachzukommen ist.
 
-<sup>2</sup> Übersteigt die Schadenforderung 500 Franken, muss der Schaden vom gebietszuständigen Wildhüter oder Jagdaufseher unter Beizug von mindestens einem Mitglied der Wildschadenkommission abgeschätzt werden.
+<sup>2</sup> Übersteigt die Schadenforderung Fr. 500.—, muss der Schaden vom gebietszuständigen Wildhüter oder Jagdaufseher unter Beizug von mindestens einem Mitglied der Wildschadenkommission abgeschätzt werden.
 
-<sup>3</sup> In besonderen Fällen können im Einverständnis mit dem zuständigen Amt[^Artikel10-1] weitere Fachleute für eine Schadenschätzung beigezogen werden.
+<sup>3</sup> In besonderen Fällen können im Einverständnis mit dem zuständigen Amt[^10-1] weitere Fachleute für eine Schadenschätzung beigezogen werden.
 
-[^Artikel10-1]: Amt für Forst und Jagd; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^10-1]: Amt für Forst und Jagd, siehe Organisationsreglement (RB 2.3322).
 
 #### Artikel 11
 
 **Nachschätzung**
 
-<sup>1</sup> Wird bei der Schätzung keine Einigung erzielt, kann der Geschädigte gegen das Schätzungsergebnis innert fünf Tagen beim zuständigen Amt[^Artikel11-1] schriftlich Rekurs erheben und eine zweite Schätzung verlangen. Die Nachschätzung ist innert acht Tagen vorzunehmen.
+<sup>1</sup> Wird bei der Schätzung keine Einigung erzielt, kann der Geschädigte gegen das Schätzungsergebnis innert fünf Tagen beim zuständigen Amt<sup>13</sup> schriftlich Rekurs erheben und eine zweite Schätzung verlangen. Die Nachschätzung ist innert acht Tagen vorzunehmen.
 
 <sup>2</sup> Die Nachschätzung wird durch mindestens zwei Mitglieder der Wildschadenkommission vorgenommen.
 
 <sup>3</sup> Schätzungsorgane aus der ersten Schätzung haben in den Ausstand zu treten.
-
-[^Artikel11-1]: Amt für Forst und Jagd; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
 
 #### Artikel 12
 
@@ -188,34 +210,35 @@ beschliesst:
 
 **Auszahlung Schätzungskosten**
 
-<sup>1</sup> Die Auszahlung der Wildschadenvergütungen erfolgt jährlich durch das zuständige Amt[^Artikel13-1].
+<sup>1</sup> Die Auszahlung der Wildschadenvergütungen erfolgt jährlich durch das zuständige Amt<sup>14</sup>.
 
-<sup>2</sup> Die Schätzungskosten gehen zulasten des Wildschadenfonds. Bei Missbrauch können die Schätzungskosten dem Geschädigten teilweise oder ganz überbunden werden.
+2 Die Schätzungskosten gehen zulasten des Wildschadenfonds. Bei Missbrauch können die Schätzungskosten dem Geschädigten teilweise oder ganz überbunden werden.
 
-[^Artikel13-1]: Amt für Forst und Jagd; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+Artikel 14[^13-1] Entschädigung der Kommission Die Entschädigung der Wildschadenkommission und der Experten richtet sich nach der Nebenamtsverordnung[^13-2].
 
-#### Artikel 14
-
-**Entschädigung der Kommission**
-
-<sup>1</sup> Die Entschädigung der Wildschadenkommission und der Experten richtet sich nach der Nebenamtsverordnung (RB [2.2251](https://rechtsbuch.ur.ch/data/2.2251/de)).
+[^13-1]: Fassung gemäss LRB vom 15. Dezember 1999, in Kraft gesetzt auf den 1. Januar 2001 (AB vom 24. Dezember 1999).
+[^13-2]: RB 2.2251
 
 #### Artikel 15
 
 **Rechtsmittel**
 
-<sup>1</sup> Das Rechtsmittelverfahren richtet sich nach der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)).
+Das Rechtsmittelverfahren richtet sich nach der Verordnung über die Verwaltungsrechtspflege[^15-1].
+
+[^15-1]: RB 2.2345
 
 #### Artikel 16
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Das Wildschadenreglement vom 14. April 1981 wird aufgehoben.
+Das Wildschadenreglement vom 14. April 1981<sup>18</sup> wird aufgehoben.
 
 #### Artikel 17
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Reglement tritt am 1. August 1995 in Kraft.
+Dieses Reglement tritt am 1. August 1995 in Kraft.
 
-AB 07.07.1995
+Im Namen des Regierungsrates
+
+Der Landammann: Alberik Ziegler Der Kanzleidirektor: Dr. Peter Huber
