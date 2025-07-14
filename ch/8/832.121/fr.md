@@ -4,11 +4,11 @@ title: "Ordonnance du 18 novembre 2015 sur la surveillance de l'assurance-maladi
 short: OSAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/840"
 language: fr
-version: 2024-09-01
+version: 2025-07-15
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/840/20240901/fr/xml/fedlex-data-admin-ch-eli-cc-2015-840-20240901-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20240901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/840/20250715/fr/xml/fedlex-data-admin-ch-eli-cc-2015-840-20250715-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20250715/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20240901/fr"
 
 (Ordonnance sur la surveillance de l’assurance-maladie, OSAMal)
 
-du 18 novembre 2015 (État le 1<sup>er</sup> septembre 2024)
+du 18 novembre 2015 (État le 15 juillet 2025)
 
 Le Conseil fédéral suisse,
 
@@ -896,7 +896,7 @@ Les assureurs transmettent régulièrement à l’autorité de surveillance, en 
   - 7\. coûts totaux des prestations rémunérées et participation aux coûts,
   - 8\. pour les assurés qui sont sortis l’une des années antérieures, date de sortie.
 
-<sup>3</sup> Ils fournissent à l’autorité de surveillance toutes les données par voie électronique, qu’il s’agisse de données agrégées ou par assuré. En cas d’adaptation des relevés, ils peuvent en être dispensés par l’autorité de surveillance, à leur demande et pour une période limitée, s’ils ne disposent pas des moyens techniques nécessaires.
+<sup>3</sup> Ils fournissent à l’autorité de surveillance toutes les données par voie électronique, qu’il s’agisse de données agrégées ou par assuré. En cas d’adaptation des relevés, ils peuvent en être dispensés par l’autorité de surveillance, à leur demande et pour une période limitée, s’ils ne disposent pas des moyens techniques nécessaires.[^62a-5]
 
 <sup>4</sup> Les assureurs fournissent à l’autorité de surveillance les données visées à l’al. 3 à leurs frais, de manière exacte et complète et dans les délais impartis.
 
@@ -912,6 +912,7 @@ Les assureurs transmettent régulièrement à l’autorité de surveillance, en 
 [^62a-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^62a-3]: [RS 832.112.1](https://fedlex.data.admin.ch/eli/cc/2016/674)
 [^62a-4]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^62a-5]: Erratum du 15 juil. 2025, ne concerne que le texte italien ([RO 2025 466](https://fedlex.data.admin.ch/eli/oc/2025/466)).
 
 #### Art. 63
 

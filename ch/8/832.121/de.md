@@ -4,11 +4,11 @@ title: "Verordnung vom 18. November 2015 betreffend die Aufsicht über die sozia
 short: KVAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/840"
 language: de
-version: 2024-09-01
+version: 2025-07-15
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/840/20240901/de/xml/fedlex-data-admin-ch-eli-cc-2015-840-20240901-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20240901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/840/20250715/de/xml/fedlex-data-admin-ch-eli-cc-2015-840-20250715-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20250715/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20240901/de"
 
 (Krankenversicherungsaufsichtsverordnung, KVAV)
 
-vom 18. November 2015 (Stand am 1. September 2024)
+vom 18. November 2015 (Stand am 15. Juli 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -894,7 +894,7 @@ Die Versicherer müssen der Aufsichtsbehörde zur Erfüllung der Aufgaben nach A
   - 7\. Gesamtkosten der vergüteten Leistungen und die Kostenbeteiligung,
   - 8\. für Versicherte mit einem Austritt in einem der Vorjahre: Austrittsdatum.
 
-<sup>3</sup> Sie müssen der Aufsichtsbehörde alle Daten, die sie aggregiert oder pro versicherte Person weitergeben müssen, elektronisch zur Verfügung stellen. Die Aufsichtsbehörde kann sie bei Erhebungsanpassungen auf Gesuch hin davon für eine befristete Zeit befreien, wenn ihnen die Lieferung aufgrund fehlender technischer Voraussetzungen nicht möglich ist.
+<sup>3</sup> Sie müssen der Aufsichtsbehörde alle Daten, die sie aggregiert oder pro versicherte Person weitergeben müssen, elektronisch zur Verfügung stellen. Die Aufsichtsbehörde kann sie bei Erhebungsanpassungen auf Gesuch hin davon für eine befristete Zeit befreien, wenn ihnen die Lieferung aufgrund fehlender technischer Voraussetzungen nicht möglich ist.[^62a-5]
 
 <sup>4</sup> Die Versicherer müssen der Aufsichtsbehörde die Daten nach Absatz 3 korrekt, vollständig, fristgerecht und auf eigene Kosten liefern.
 
@@ -910,6 +910,7 @@ Die Versicherer müssen der Aufsichtsbehörde zur Erfüllung der Aufgaben nach A
 [^62a-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^62a-3]: [SR 832.112.1](https://fedlex.data.admin.ch/eli/cc/2016/674)
 [^62a-4]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^62a-5]: Die Berichtigung vom 15. Juli 2025 betrifft nur den italienischen Text ([AS 2025 466](https://fedlex.data.admin.ch/eli/oc/2025/466)).
 
 #### Art. 63
 
@@ -1069,7 +1070,7 @@ Folgende Bestimmungen der Vereinbarung zwischen Santésuisse und Curafutura vom 
 
 ### 1. Verbot der Telefonwerbung bei Personen, die nie bei einem Versicherer versichert waren oder seit längerer Zeit nicht mehr versichert sind (Art. 19*b* Abs. 1 Bst. c KVAG)
 
-[^annex2-lvlu1-1]: Die Vereinbarung kann kostenlos eingesehen werden unter www.santesuisse.ch/fuer-versicherte/dienstleistungen/meldeformular-telefonwerbung und curafutura.ch/themen/krankenversicherung/vermittler/.
+[^annex2-lvlu1-1]: Die Vereinbarung kann kostenlos eingesehen werden unter www.santesuisse.ch/fuer-versicherte/dienstleistungen/meldeformular-telefonwerbung und curafutura.ch/themen/krankenversicherung/vermittler/ .
 
 Ziff. 6 Punkt 4:
 
