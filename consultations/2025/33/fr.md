@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de la Loi fédérale sur des aides financières subsidiaires destinées au sauvetage des entreprises du secteur de l’électricité d’importance systémique (LFiEl)
 document: Projet mis en consultation
 language: fr

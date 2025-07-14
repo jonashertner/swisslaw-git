@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica della Legge federale sugli aiuti finanziari concessi a titolo sussidiario per salvare le imprese di rilevanza sistemica del settore dell’energia elettrica (LAiSE)
 document: Progetto posto in consultazione
 language: it

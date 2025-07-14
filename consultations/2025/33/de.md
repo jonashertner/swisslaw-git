@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Bundesgesetzes über subsidiäre Finanzhilfen zur Rettung systemkritischer Unternehmen der Elektrizitätswirtschaft (FiREG)
 document: Vernehmlassungsvorlage
 language: de
