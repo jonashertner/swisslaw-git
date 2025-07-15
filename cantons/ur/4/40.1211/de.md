@@ -1,32 +1,36 @@
 ---
 canton: UR
 number: "40.1211"
-title: Wasserbaugesetz
+title: WASSERBAUGESETZ
 short: WBG
 language: de
 version: 2008-01-01
+corrected: 2025-07-16
 version_adopted: 2007-11-25
 adopted: 1980-11-30
 in_force: 1981-07-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.1211"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/472/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/274/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Wasserbaugesetz
+# WASSERBAUGESETZ
 
-(WBG)
+WASSERBAUGESETZ (WBG)
 
-Vom 30.11.1980 (Stand 01.01.2008)
+(vom 30. November 1980[^t-1]; Stand am 1. Januar 2008)
 
-Das Volk des Kantons Uri,
-
-gestützt auf Artikel 11, Artikel 35 Absatz 2 und Artikel 48 Absatz 3 Buchstabe a der Kantonsverfassung (RB [1.1101](https://rechtsbuch.ur.ch/data/1.1101/de)), auf das Bundesgesetz vom 22. Juni 1877 über die Wasserbaupolizei (SR [721.10](https://db.clex.ch/link/Bund/721.10/de)) sowie auf das eidgenössische und kantonale Forstpolizeirecht,
+Das Volk des Kantons Uri, gestützt auf Artikel 11, Artikel 35 Absatz 2 und Artikel 48 Absatz 3 Buchstabe a der Kantonsverfassung[^t-2], auf das Bundesgesetz vom 22. Juni 1877 über die Wasserbaupolizei[^t-3] sowie auf das eidgenössische und kantonale Forstpolizeirecht,
 
 beschliesst:
 
-## 1 Allgemeine Bestimmungen
+[^t-1]: AB vom 24. Oktober 1980
+[^t-2]: RB 1.1101
+[^t-3]: SR 721.10
+
+### ALLGEMEINE BESTIMMUNGEN
 
 #### Artikel 1
 
@@ -44,16 +48,20 @@ beschliesst:
 
 <sup>1</sup> Öffentliche Gewässer im Sinne dieses Gesetzes sind:
 
-- a) die zu Staatseigentum erklärten Seen und Flüsse
-- b) alle weiteren oberirdischen, dauernd oder zeitweilig Wasser führenden, fliessenden oder stehenden Gewässer, die als Wildwasser bzw. als deren Quellgebiete im Sinne des Bundesgesetzes über die Wasserbaupolizei gelten
+- 1\. die zu Staatseigentum erklärten Seen und Flüsse,
+
+- 2\. alle weiteren oberirdischen, dauernd oder zeitweilig Wasser führenden, fliessenden oder stehenden Gewässer, die als Wildwasser bzw. als deren Quellgebiete im Sinne des Bundesgesetzes über die Wasserbaupolizei gelten.
 
 <sup>2</sup> Alle übrigen Gewässer gelten für dieses Gesetz als private Gewässer. Die zuständige Direktion erstellt einen Kataster aller privaten Gewässer, dem hinweisender Charakter zukommt.
 
-<sup>3</sup> Natürliche oder künstliche Veränderungen des Laufes oder die streckenweise unterirdische Führung beeinflussen die Rechtsnatur der Gewässer nicht.
+3 Natürliche oder künstliche Veränderungen des Laufes oder die streckenweise unterirdische Führung beeinflussen die Rechtsnatur der Gewässer nicht.
 
-<sup>4</sup> Ist streitig, ob ein Gewässer öffentlicher oder privater Natur sei, entscheidet das Obergericht im Verfahren der verwaltungsrechtlichen Klage nach der Verordnung über die Verwaltungsrechtspflege (RB [2.2345)](https://rechtsbuch.ur.ch/data/2.2345)/de).
+<sup>4</sup> Ist streitig, ob ein Gewässer öffentlicher oder privater Natur sei, entscheidet das Obergericht im Verfahren der verwaltungsrechtlichen Klage nach der Verordnung über die Verwaltungsrechtspflege[^2-1].[^2-2]
 
-## 2 Zustand der Gewässer
+[^2-1]: RB 2.2345
+[^2-2]: Fassung gemäss VA vom 17. Mai 1992, in Kraft gesetzt auf den 1. Juni 1995 (AB vom 12. Mai 1995).
+
+### ZUSTAND DER GEWÄSSER
 
 #### Artikel 3
 
@@ -81,7 +89,7 @@ beschliesst:
 
 <sup>2</sup> An den Gewässern bestehender Bewuchs darf, abgesehen von der ordentlichen Pflege und Nutzung nach wasserbautechnischer Praxis, weder beseitigt noch geschädigt werden. Die zuständige Direktion kann Ausnahmen bewilligen.
 
-## 3 Organisation
+### ORGANISATION
 
 #### Artikel 6
 
@@ -101,21 +109,23 @@ beschliesst:
 
 <sup>2</sup> Die Wuhren sind periodisch zu kontrollieren. Die Ausbau- und Unterhaltspflichtigen sind zur Besichtigung einzuladen. Über das Ergebnis ist dem Regierungsrat und den Gemeinden, gegebenenfalls auch den privaten Ausbau- und Unterhaltspflichtigen, ausführlich zu berichten.
 
-<sup>3</sup> Der Gemeinderat bzw. eine von der Gemeinde bezeichnete Behörde hat Gefahrenherde der zuständigen Direktion[^Artikel7-1] zu melden.
+<sup>3</sup> Der Gemeinderat bzw. eine von der Gemeinde bezeichnete Behörde hat Gefahrenherde der zuständigen Direktion[^7-1] zu melden.[^7-2]
 
-[^Artikel7-1]: Baudirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^7-1]: Baudirektion; siehe Organisationsreglement (RB 2.3322).
+[^7-2]: Fassung gemäss VA vom 25. November 2007, in Kraft gesetzt auf den 1. Januar 2008 (AB vom 19. Oktober 2007).
+[^7-3]: Fassung gemäss VA vom 25. November 2007, in Kraft gesetzt auf den 1. Januar 2008
 
 #### Artikel 8
 
-**Wassergefahr und Überschwemmungen**
+**Wassergefahr und Überschwemmungen**[^7-3]
 
-<sup>1</sup> Bei Wassergefahr und Überschwemmungen haben die Gemeinden, bis zum Eintreffen der zuständigen Organe oder Personen, die sichernden Massnahmen zu treffen. Die Gemeinden haben dafür die nötigen Ressourcen ständig bereitzuhalten (GEFUR)[^Artikel8-1]. Der Kanton ersetzt ihnen die dadurch entstandenen Aufwendungen. Er kann auf die Kostenpflichtigen zurückgreifen.
+Bei Wassergefahr und Überschwemmungen haben die Gemeinden, bis zum Eintreffen der zuständigen Organe oder Personen, die sichernden Massnahmen zu treffen. Die Gemeinden haben dafür die nötigen Ressourcen ständig bereitzuhalten (GEFUR)[^8-1]. Der Kanton ersetzt ihnen die dadurch entstandenen Aufwendungen. Er kann auf die Kostenpflichtigen zurückgreifen.
 
-[^Artikel8-1]: Gemeindeführungsstab.
+[^8-1]: Gemeindeführungsstab
 
-## 4 Wasserbau und Gewässerunterhalt
+### WASSERBAU UND GEWÄSSERUNTERHALT
 
-### 4.1 Begriffe
+### 1. Kapitel: BEGRIFFE
 
 #### Artikel 9
 
@@ -125,19 +135,21 @@ beschliesst:
 
 <sup>2</sup> Ein Gewässerausbau liegt vor:
 
-- a) wenn das bisherige Bett ganz oder zum Teil verlassen oder wesentlich verändert wird
-- b) wenn grössere Verbauungen bzw. Sicherungen der Ufer oder des Bettes vorgenommen oder andere Schutzanlagen erstellt werden
-- c) wenn grössere Wiederherstellungsarbeiten vorgenommen werden
+- 1\. wenn das bisherige Bett ganz oder zum Teil verlassen oder wesentlich verändert wird,
+
+- 2\. wenn grössere Verbauungen bzw. Sicherungen der Ufer oder des Bettes vorgenommen oder andere Schutzanlagen erstellt werden,
+
+- 3\. wenn grössere Wiederherstellungsarbeiten vorgenommen werden.
 
 #### Artikel 10
 
 **Gewässerunterhalt**
 
-<sup>1</sup> Zum Gewässerunterhalt gehören die zur Erhaltung des Bettes, der Ufer und der Schutzanlagen nötigen Arbeiten, insbesondere das Reinigen, Ausräumen oder Ausbaggern des Bettes und der Mündungen, das Schneiden des Uferbewuchses sowie kleinere Wiederherstellungsarbeiten und Ausbesserungen.
+Zum Gewässerunterhalt gehören die zur Erhaltung des Bettes, der Ufer und der Schutzanlagen nötigen Arbeiten, insbesondere das Reinigen, Ausräumen oder Ausbaggern des Bettes und der Mündungen, das Schneiden des Uferbewuchses sowie kleinere Wiederherstellungsarbeiten und Ausbesserungen.
 
-### 4.2 Wasserbau
+### 2. Kapitel: WASSERBAU
 
-### 4.2.1 Öffentliche Gewässer
+### 1. Abschnitt: Öffentliche Gewässer
 
 #### Artikel 11
 
@@ -153,7 +165,7 @@ beschliesst:
 
 <sup>1</sup> Wasserbauprojekte sind im Amtsblatt öffentlich bekanntzumachen und während 30 Tagen in den betreffenden Gemeinden aufzulegen. Vorgesehene Veränderungen des Geländes sind, soweit tunlich und möglich, zu profilieren.
 
-<sup>2</sup> Während der Auflagefrist kann beim Regierungsrat Einsprache erhoben und sofern nicht Bundesrecht anwendbar ist, Entschädigung gefordert werden. Neben den Betroffenen sind die Gemeinden einspracheberechtigt.
+2 Während der Auflagefrist kann beim Regierungsrat Einsprache erhoben und sofern nicht Bundesrecht anwendbar ist, Entschädigung gefordert werden. Neben den Betroffenen sind die Gemeinden einspracheberechtigt.
 
 <sup>3</sup> Der Regierungsrat entscheidet über die Einsprachen und genehmigt die Wasserbauprojekte.
 
@@ -185,21 +197,21 @@ beschliesst:
 
 **Kreditbeschluss des Landrates**
 
-<sup>1</sup> Der Regierungsrat beantragt dem Landrat gestützt auf den vom Volk beschlossenen Rahmenkredit nach Artikel 28 Absatz 1 die für die vorgesehenen Wasserbaumassnahmen erforderlichen Kredite auf dem Budgetweg zu beschliessen. Der entsprechende Beschluss des Landrates ist endgültig.
+Der Regierungsrat beantragt dem Landrat gestützt auf den vom Volk beschlossenen Rahmenkredit nach Artikel 28 Absatz 1 die für die vorgesehenen Wasserbaumassnahmen erforderlichen Kredite auf dem Budgetweg zu beschliessen. Der entsprechende Beschluss des Landrates ist endgültig.
 
 #### Artikel 17
 
 **Durchführung**
 
-<sup>1</sup> Wasserbauprojekte an öffentlichen Gewässern, für die die erforderlichen Zahlungskredite zur Verfügung stehen und die vom Regierungsrat genehmigt sind, werden durch die zuständige Direktion oder mit Bewilligung des Regierungsrates durch die Gemeinde bzw. durch die anderen Bewerber ausgeführt.
+Wasserbauprojekte an öffentlichen Gewässern, für die die erforderlichen Zahlungskredite zur Verfügung stehen und die vom Regierungsrat genehmigt sind, werden durch die zuständige Direktion oder mit Bewilligung des Regierungsrates durch die Gemeinde bzw. durch die anderen Bewerber ausgeführt.
 
-### 4.2.2 Private Gewässer
+### 2. Abschnitt: Private Gewässer
 
 #### Artikel 18
 
 **Zuständigkeit**
 
-<sup>1</sup> Der Ausbau bestehender und der Bau neuer privater Gewässer sind Sache des jeweiligen Verfügungsberechtigten.
+Der Ausbau bestehender und der Bau neuer privater Gewässer sind Sache des jeweiligen Verfügungsberechtigten.
 
 #### Artikel 19
 
@@ -209,27 +221,23 @@ beschliesst:
 
 <sup>2</sup> Sind die vorgesehenen Arbeiten geeignet, das Einzugsgebiet oder das Abflussregime öffentlicher Gewässer oder des Grundwassers zu beeinträchtigen, dürfen sie nur mit Bewilligung des Regierungsrates ausgeführt werden. Dabei sind die Weisungen der zuständigen Direktion zu beachten und die Projekte vom Regierungsrat zu genehmigen.
 
-### 4.3 Gewässerunterhalt
+### 3. Kapitel: GEWÄSSERUNTERHALT
 
-### 4.3.1 Öffentliche Gewässer
+### 1. Abschnitt: Öffentliche Gewässer
 
-#### Artikel 20
+Artikel 20[^h1AbschnittÖffent_2-1] Unterhaltspflicht des Kantons Der Kanton ist verpflichtet, alle öffentlichen Gewässer zu unterhalten.
 
-**Unterhaltspflicht des Kantons**
-
-<sup>1</sup> Der Kanton ist verpflichtet, alle öffentlichen Gewässer zu unterhalten.
+[^h1AbschnittÖffent_2-1]: Fassung gemäss VA vom 25. November 2007, in Kraft gesetzt auf den 1. Januar 2008
+[^h1AbschnittÖffent_2-2]: Aufgehoben durch VA vom 25. November 2007, in Kraft gesetzt auf den 1. Januar 2008 (AB vom 19. Oktober 2007).
 
 #### Artikel 21
 
-**…**
+[^h1AbschnittÖffent_2-2]
 
-#### Artikel 22
+Artikel 22[^21-1] Beschlussfassung Über Unterhaltsarbeiten an öffentlichen Gewässern beschliesst die zuständige Direktion[^21-2] im Rahmen der bewilligten Kredite.
 
-**Beschlussfassung**
-
-<sup>1</sup> Über Unterhaltsarbeiten an öffentlichen Gewässern beschliesst die zuständige Direktion[^Artikel22-1] im Rahmen der bewilligten Kredite.
-
-[^Artikel22-1]: Baudirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^21-1]: Fassung gemäss VA vom 25. November 2007, in Kraft gesetzt auf den 1. Januar 2008
+[^21-2]: Baudirektion; siehe Organisationsreglement (RB 2.3322).
 
 #### Artikel 23
 
@@ -239,45 +247,45 @@ beschliesst:
 
 <sup>2</sup> Bei mehreren Verursachern verteilt die zuständige Direktion die Unterhaltspflicht anteilmässig. Sie berücksichtigt dabei insbesondere die Grösse des geschützten Werkes, die Grösse der abgewendeten Gefahr und den zu erwartenden Nutzen.
 
-### 4.3.2 Private Gewässer
+### 2. Abschnitt: Private Gewässer
 
 #### Artikel 24
 
-**Unterhaltspflicht**
+Unterhaltspflicht Private Gewässer sind von den jeweiligen Verfügungsberechtigten zu unterhalten.
 
-<sup>1</sup> Private Gewässer sind von den jeweiligen Verfügungsberechtigten zu unterhalten.
+### FINANZIELLE BESTIMMUNGEN
 
-## 5 Finanzielle Bestimmungen
-
-### 5.1 Begriffe
+### 1. Kapitel: BEGRIFFE
 
 #### Artikel 25
 
-**Wasserbaukosten**
-
-<sup>1</sup> Als Wasserbaukosten (Artikel 9) gelten die Kosten für die Projektierung, den Landerwerb, die Bauleitung, die Bauausführung und die Anpassungsarbeiten, die notwendig sind, um das Gewässer in den gesetzmässigen Zustand (Artikel 3) zu bringen.
+Wasserbaukosten Als Wasserbaukosten (Artikel 9) gelten die Kosten für die Projektierung, den Landerwerb, die Bauleitung, die Bauausführung und die Anpassungsarbeiten, die notwendig sind, um das Gewässer in den gesetzmässigen Zustand (Artikel 3) zu bringen.
 
 #### Artikel 26
 
 **Gewässerunterhaltskosten**
 
-<sup>1</sup> Als Kosten des Gewässerunterhalts (Artikel 10) gelten die Kosten für jene Aufwendungen, die erforderlich sind, um den gesetzmässigen Zustand eines Gewässers zu erhalten.
+Als Kosten des Gewässerunterhalts (Artikel 10) gelten die Kosten für jene Aufwendungen, die erforderlich sind, um den gesetzmässigen Zustand eines Gewässers zu erhalten.
 
-### 5.2 Kosten des Wasserbaus
+### 2. Kapitel: KOSTEN DES WASSERBAUS
 
-### 5.2.1 Öffentliche Gewässer
+### 1. Abschnitt: Öffentliche Gewässer
 
 #### Artikel 27
 
 **Grundsatz**
 
-<sup>1</sup> Die Kosten der Wasserbauarbeiten an öffentlichen Gewässern werden getragen:
+Die Kosten der Wasserbauarbeiten an öffentlichen Gewässern werden getragen:
 
-- a) vom Kanton
-- b) mit Beiträgen des Bundes
-- c) mit Beiträgen allfälliger Nutzungsberechtigter
-- d) mit Beiträgen besonders bevorteilter Dritter
-- e) mit Beiträgen des Verursachers
+- 1\. vom Kanton,
+
+- 2\. mit Beiträgen des Bundes,
+
+- 3\. mit Beiträgen allfälliger Nutzungsberechtigter,
+
+- 4\. mit Beiträgen besonders bevorteilter Dritter,
+
+- 5\. mit Beiträgen des Verursachers.
 
 #### Artikel 28
 
@@ -291,13 +299,13 @@ beschliesst:
 
 **Beiträge der Nutzungsberechtigten**
 
-<sup>1</sup> Wer die Wasserkraft öffentlicher Gewässer als Hoheitsträger bzw. Eigentümer tatsächlich nutzt oder nutzen lässt, hat dem Kanton zehn Prozent der Wasserzinseinnahmen bzw. bei Eigenbenutzung eine entsprechende Summe als Entgelt für dessen Wasserbaupflichten abzuliefern. Wartegebühren werden den Wasserzinseinnahmen gleichgestellt.
+Wer die Wasserkraft öffentlicher Gewässer als Hoheitsträger bzw. Eigentümer tatsächlich nutzt oder nutzen lässt, hat dem Kanton zehn Prozent der Wasserzinseinnahmen bzw. bei Eigenbenutzung eine entsprechende Summe als Entgelt für dessen Wasserbaupflichten abzuliefern. Wartegebühren werden den Wasserzinseinnahmen gleichgestellt.
 
 #### Artikel 30
 
 **Beiträge besonders bevorteilter Dritter**
 
-<sup>1</sup> Besonders bevorteilte Dritte sollen zu angemessenen Leistungen an die Kosten des Wasserbaues verpflichtet werden. Diese Leistungen werden bemessen nach dem Ausmass des besonderen Vorteils, insbesondere nach der Grösse des geschützten Werkes, nach der Grösse der abgewendeten Gefahr und nach dem zu erwartenden Nutzen.
+1 Besonders bevorteilte Dritte sollen zu angemessenen Leistungen an die Kosten des Wasserbaues verpflichtet werden. Diese Leistungen werden bemessen nach dem Ausmass des besonderen Vorteils, insbesondere nach der Grösse des geschützten Werkes, nach der Grösse der abgewendeten Gefahr und nach dem zu erwartenden Nutzen.
 
 <sup>2</sup> Der Landrat kann in einer besonderen, referendumsfähigen Verordnung vorsehen, dass der Kanton von Dritten, die durch wasserbauliche Massnahmen an öffentlichen Gewässern besonders bevorteilt werden, Perimeterbeiträge zu erheben hat.
 
@@ -309,13 +317,13 @@ beschliesst:
 
 <sup>2</sup> Bei mehreren Verursachern verteilt die zuständige Direktion die Kostenpflicht anteilmässig. Sie berücksichtigt dabei insbesondere die Grösse des geschützten Werkes, die Grösse der abgewendeten Gefahr und den zu erwartenden Nutzen.
 
-### 5.2.2 Private Gewässer
+### 2. Abschnitt: Private Gewässer
 
 #### Artikel 32
 
 **Grundsatz**
 
-<sup>1</sup> Die Kosten wasserbaulicher Massnahmen an privaten Gewässern gehen zu Lasten des jeweiligen Verfügungsberechtigten.
+Die Kosten wasserbaulicher Massnahmen an privaten Gewässern gehen zu Lasten des jeweiligen Verfügungsberechtigten.
 
 #### Artikel 33
 
@@ -323,37 +331,40 @@ beschliesst:
 
 <sup>1</sup> Dienen Wasserbaumassnahmen an privaten Gewässern auch öffentlichen Interessen, kann der Kanton Beiträge gewähren, höchstens jedoch 40 Prozent der massgeblichen Kosten.
 
-<sup>2</sup> In diesem und im Rahmen der bewilligten Kredite bestimmt der Regierungsrat, ob und in welcher Höhe Beiträge zugesprochen werden. Er kann mit den jeweiligen Verfügungsberechtigten Programmvereinbarungen abschliessen.
+<sup>2</sup> In diesem und im Rahmen der bewilligten Kredite bestimmt der Regierungsrat, ob und in welcher Höhe Beiträge zugesprochen werden. Er kann mit den jeweiligen Verfügungsberechtigten Programmvereinbarungen abschliessen.[^33-1]
 
 <sup>3</sup> Allfällige Beiträge der Gemeinden richten sich nach der Gemeindesatzung.
 
-### 5.3 Kosten des Gewässerunterhalts
+[^33-1]: Fassung gemäss VA vom 25. November 2007, in Kraft gesetzt auf den 1. Januar 2008
 
-### 5.3.1 Öffentliche Gewässer
+### 3. Kapitel: KOSTEN DES GEWÄSSERUNTERHALTS
 
-#### Artikel 34
+### 1. Abschnitt: Öffentliche Gewässer
 
-**Grundsatz**
+Artikel 34[^h1AbschnittÖffent_4-1] Grundsatz Die Kosten für den Unterhalt öffentlicher Gewässer werden getragen:
 
-<sup>1</sup> Die Kosten für den Unterhalt öffentlicher Gewässer werden getragen:
+- 1\. vom Bund (Programmvereinbarungen),
 
-- a) vom Bund (Programmvereinbarungen)
-- b) vom Kanton
-- c) mit Beiträgen allfälliger Nutzungsberechtigter
-- d) mit Beiträgen besonders bevorteilter Dritter
-- e) mit Beiträgen des Verursachers
+- 2\. vom Kanton,
+
+- 3\. mit Beiträgen allfälliger Nutzungsberechtigter,
+
+- 4\. mit Beiträgen besonders bevorteilter Dritter,
+
+- 5\. mit Beiträgen des Verursachers.
+
+[^h1AbschnittÖffent_4-1]: Fassung gemäss VA vom 25. November 2007, in Kraft gesetzt auf den 1. Januar 2008 (AB vom 19. Oktober 2007).
+[^h1AbschnittÖffent_4-2]: Aufgehoben durch VA vom 25. November 2007, in Kraft gesetzt auf den 1. Januar 2008 (AB vom 19. Oktober 2007).
 
 #### Artikel 35
 
-**…**
-
-#### Artikel 36
-
-**Beiträge besonders bevorteilter Dritter**
+**Artikel 36[^35-1] Beiträge besonders bevorteilter Dritter**[^h1AbschnittÖffent_4-2]
 
 <sup>1</sup> Besonders bevorteilte Dritte sollen zu angemessenen Leistungen an die Kosten des Gewässerunterhalts verpflichtet werden. Artikel 30 Absatz 1 ist sinngemäss anzuwenden. Der Kanton fordert diese Beiträge ein.
 
 <sup>2</sup> Der Landrat kann in einer besonderen Verordnung vorsehen, dass der Kanton von Dritten, die durch den Unterhalt öffentlicher Gewässer besonders bevorteilt werden, Perimeterbeiträge zu erheben hat.
+
+[^35-1]: Fassung gemäss VA vom 25. November 2007, in Kraft gesetzt auf den 1. Januar 2008
 
 #### Artikel 37
 
@@ -363,19 +374,21 @@ beschliesst:
 
 <sup>2</sup> Artikel 31 Absatz 2 ist anzuwenden.
 
+[^37-1]: Aufgehoben durch VA vom 25. November 2007, in Kraft gesetzt auf den 1. Januar 2008
+
 #### Artikel 38
 
-**…**
+[^37-1]
 
-### 5.3.2 Private Gewässer
+### 2. Abschnitt: Private Gewässer
 
 #### Artikel 39
 
 **Grundsatz**
 
-<sup>1</sup> Die Unterhaltskosten für private Gewässer gehen zu Lasten des jeweiligen Verfügungsberechtigten.
+Die Unterhaltskosten für private Gewässer gehen zu Lasten des jeweiligen Verfügungsberechtigten.
 
-## 6 Wasserbaupolizei
+### WASSERBAUPOLIZEI
 
 #### Artikel 40
 
@@ -401,7 +414,7 @@ beschliesst:
 
 **Verbot der Störung des freien Abflusses**
 
-<sup>1</sup> Es ist untersagt, den freien Abfluss eines öffentlichen Gewässers durch Bauten, Anlagen, Ablagerungen von Material oder sonstwie zu behindern oder zu gefährden.
+Es ist untersagt, den freien Abfluss eines öffentlichen Gewässers durch Bauten, Anlagen, Ablagerungen von Material oder sonstwie zu behindern oder zu gefährden.
 
 #### Artikel 43
 
@@ -423,32 +436,31 @@ beschliesst:
 
 <sup>2</sup> Die zuständige Direktion kann unter Wahrnehmung der öffentlichen Interessen Ausnahmen bewilligen.
 
-## 7 Verwaltungszwang, Verwaltungsstrafe und Rechtsmittel
+### VERWALTUNGSZWANG, VERWALTUNGSSTRAFE UND RECHTS-MITTEL
 
 #### Artikel 45
 
 **Verwaltungszwang**
 
-<sup>1</sup> Wird in irgend einer Weise ein unrechtmässiger Zustand geschaffen oder belassen, namentlich durch bauliche Arbeiten ohne Bewilligung oder in Verletzung einer solchen, so kann die zuständige Direktion die Einstellung der Arbeiten sowie die Entfernung oder Abänderung rechtswidriger Zustände auf Kosten des Fehlbaren anordnen.
+Wird in irgend einer Weise ein unrechtmässiger Zustand geschaffen oder belassen, namentlich durch bauliche Arbeiten ohne Bewilligung oder in Verletzung einer solchen, so kann die zuständige Direktion die Einstellung der Arbeiten sowie die Entfernung oder Abänderung rechtswidriger Zustände auf Kosten des Fehlbaren anordnen.
 
-#### Artikel 46
+Artikel 46[^45-1] Ersatzvornahme
 
-**Ersatzvornahme**
+<sup>1</sup> Durch Verfügung der zuständigen Direktion13 kann der Kanton die einem Privaten nach Massgabe dieses Gesetzes obliegenden Aufgaben auf Kosten des Privaten ganz oder teilweise übernehmen:
 
-<sup>1</sup> Durch Verfügung der zuständigen Direktion[^Artikel46-1] kann der Kanton die einem Privaten nach Massgabe dieses Gesetzes obliegenden Aufgaben auf Kosten des Privaten ganz oder teilweise übernehmen:
+- a) wenn der Private darum ersucht und nach den tatsächlichen Verhältnissen ausserstande ist, die entsprechenden Aufgaben zu erfüllen;
 
-- a) wenn der Private darum ersucht und nach den tatsächlichen Verhältnissen ausserstande ist, die entsprechenden Aufgaben zu erfüllen
-- b) wenn es die Sicherstellung des Werks erfordert und der Private sich weigert, binnen einer vom Regierungsrat festgesetzten Frist die ihm übertragenen Arbeiten auszuführen
+- b) wenn es die Sicherstellung des Werks erfordert und der Private sich weigert, binnen einer vom Regierungsrat festgesetzten Frist die ihm übertragenen Arbeiten auszuführen.
 
 <sup>2</sup> In besonders dringenden Fällen können die versäumten Arbeiten sofort angeordnet werden.
 
-[^Artikel46-1]: Baudirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^45-1]: Fassung gemäss VA vom 25. November 2007, in Kraft gesetzt auf den 1. Januar 2008
 
 #### Artikel 47
 
 **Rückgriffsrecht**
 
-<sup>1</sup> Der Kanton kann für Kosten, die er zu tragen hatte und die auf mangelnden Unterhalt zurückzuführen sind, auf den Unterhaltspflichtigen zurückgreifen.
+Der Kanton kann für Kosten, die er zu tragen hatte und die auf mangelnden Unterhalt zurückzuführen sind, auf den Unterhaltspflichtigen zurückgreifen.
 
 #### Artikel 48
 
@@ -456,12 +468,17 @@ beschliesst:
 
 <sup>1</sup> Sofern nicht abweichende eidgenössische Strafnormen Anwendung finden, wird mit Haft oder Busse bestraft, wer vorsätzlich oder fahrlässig:
 
-- a) den an Gewässern bestehenden Bewuchs widerrechtlich beseitigt oder beschädigt (Artikel 5)[^Artikel48-1]
-- b) sich der Duldungspflicht nach Artikel 40 widerrechtlich entzieht
-- c) die allgemeine Benutzungsregel nach Artikel 41 verletzt
-- d) den freien Abfluss eines Gewässers widerrechtlich stört (Artikel 42)
-- e) die Melde- und Bewilligungspflicht nach Artikel 19, 43 und 44 verletzt
-- f) seine Unterhaltspflicht trotz vorgängiger Mahnung nicht erfüllt
+- 1\. den an Gewässern bestehenden Bewuchs widerrechtlich beseitigt oder beschädigt (Artikel 5),[^48-1]
+
+- 2\. sich der Duldungspflicht nach Artikel 40 widerrechtlich entzieht,
+
+- 3\. die allgemeine Benutzungsregel nach Artikel 41 verletzt,
+
+- 4\. den freien Abfluss eines Gewässers widerrechtlich stört (Artikel 42),
+
+- 5\. die Melde- und Bewilligungspflicht nach Artikel 19, 43 und 44 verletzt,
+
+- 6\. seine Unterhaltspflicht trotz vorgängiger Mahnung nicht erfüllt.
 
 <sup>2</sup> In leichten Fällen kann eine Verwarnung ausgesprochen werden.
 
@@ -469,17 +486,18 @@ beschliesst:
 
 <sup>4</sup> Das Strafverfahren richtet sich nach den Bestimmungen der ordentlichen Strafrechtspflege.
 
-[^Artikel48-1]: Im Amtsblatttext ist durch Versehen der Artikel 4 zitiert.
+[^48-1]: Im Amtsblatttext ist durch Versehen der Artikel 4 zitiert.
 
 #### Artikel 49
 
 **Rechtsmittel**
 
-<sup>1</sup> Das Rechtsmittelverfahren richtet sich nach den Bestimmungen der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)).
-
-<sup>2</sup> …
+<sup>1</sup> Das Rechtsmittelverfahren richtet sich nach den Bestimmungen der Verordnung über die Verwaltungsrechtspflege[^49-1].[^49-2] 2 …23
 
 <sup>3</sup> Die Bestimmungen über das Auflage- und Enteignungsverfahren bleiben vorbehalten.
+
+[^49-1]: RB 2.2345
+[^49-2]: Fassung gemäss LRB vom 23. März 1994, in Kraft gesetzt auf den 1. Juni 1995 (AB vom AB vom 8. April 1994).
 
 #### Artikel 50
 
@@ -493,7 +511,7 @@ beschliesst:
 
 **Vollstreckbarkeit**
 
-<sup>1</sup> Rechtskräftig verfügte Bussen, Kosten, Gebühren und andere Geldleistungen, die sich auf dieses Gesetz oder auf dessen Ausführungserlasse stützen, sind vollstreckbaren Urteilen im Sinne von Artikel 80 des Bundesgesetzes über Schuldbetreibung und Konkurs gleichgestellt.
+Rechtskräftig verfügte Bussen, Kosten, Gebühren und andere Geldleistungen, die sich auf dieses Gesetz oder auf dessen Ausführungserlasse stützen, sind vollstreckbaren Urteilen im Sinne von Artikel 80 des Bundesgesetzes über Schuldbetreibung und Konkurs gleichgestellt.
 
 #### Artikel 52
 
@@ -527,25 +545,30 @@ beschliesst:
 
 **Vorbehalt bestehender Rechtsverhältnisse**
 
-<sup>1</sup> Bestehende Vertrags-, Konzessions- und Reversverhältnisse sowie gemeindeinterne Regelungen werden durch dieses Gesetz nicht berührt.
+Bestehende Vertrags-, Konzessions- und Reversverhältnisse sowie gemeindeinterne Regelungen werden durch dieses Gesetz nicht berührt.
 
 #### Artikel 56
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Mit dem Inkrafttreten dieses Gesetzes werden aufgehoben:
+Mit dem Inkrafttreten dieses Gesetzes werden aufgehoben:
 
-- a) die kantonale Vollziehungsverordnung vom 18. April 1883 zum Bundesgesetz über die Wasserbaupolizei
-- b) die Verordnung vom 24. Januar 1955 über das Wuhrwesen
-- c) die Vollziehungsverordnung vom 17. Juli 1961 zur Verordnung über das Wuhrwesen
-- d) das Landrats-Erkanntnis betreffend Erstellung von Stegen über Flüsse, Bäche oder Abgründe
+- 1\. die kantonale Vollziehungsverordnung vom 18. April 1883 zum Bundesgesetz über die Wasserbaupolizei;
+
+- 2\. die Verordnung vom 24. Januar 1955 über das Wuhrwesen;
+
+- 3\. die Vollziehungsverordnung vom 17. Juli 1961 zur Verordnung über das Wuhrwesen;
+
+- 4\. das Landrats-Erkanntnis betreffend Erstellung von Stegen über Flüsse, Bäche oder Abgründe.
 
 #### Artikel 57
 
 **Inkrafttreten**
 
-<sup>1</sup> Der Regierungsrat bestimmt nach der Annahme durch das Volk und der Genehmigung durch den Bundesrat das Inkrafttreten dieses Gesetzes[^Artikel57-1].
+Der Regierungsrat bestimmt nach der Annahme durch das Volk und der Genehmigung durch den Bundesrat das Inkrafttreten dieses Gesetzes[^57-1].
 
-[^Artikel57-1]: Vom Bundesrat genehmigt am 30. April 1981 und mit RRB vom 3. Juli 1981 rückwirkend in Kraft gesetzt auf den 1. Juli 1981 (AB vom 3. Juli 1981).
+[^57-1]: Vom Bundesrat genehmigt am 30. April 1981 und mit RRB vom 3. Juli 1981 rückwirkend in Kraft gesetzt auf den 1. Juli 1981 (AB vom 3. Juli 1981).
 
-AB 24.10.1980
+## Weitere Fussnoten
+
+- [23] Aufgehoben durch LRB vom 23. März 1994, in Kraft gesetzt auf den 1. Juni 1995 (AB vom 8. April 1994).
