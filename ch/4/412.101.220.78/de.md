@@ -3,18 +3,18 @@ sr: "412.101.220.78"
 title: Verordnung des SBFI vom 6. Juli 2023 über die berufliche Grundbildung Pferdewartin/Pferdewart mit eidgenössischem Berufsattest (EBA)
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/430"
 language: de
-version: 2024-04-01
+version: 2025-07-16
 adopted: 2023-07-06
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/430/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2023-430-20240401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/430/20240401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/430/20250716/de/xml/fedlex-data-admin-ch-eli-cc-2023-430-20250716-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/430/20250716/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Pferdewartin/Pferdewart mit eidgenössischem Berufsattest (EBA)
 
-vom 6. Juli 2023 (Stand am 1. April 2024)
+vom 6. Juli 2023 (Stand am 16. Juli 2025)
 
 <table>
 <tr><td>18123</td><td>Pferdewartin EBA / Pferdewart EBA Gardienne de chevaux AFP / Gardien de chevaux AFP Custode di cavalli CFP</td></tr>
@@ -310,7 +310,12 @@ Im Qualifikationsverfahren mit Abschlussprüfung werden die Handlungskompetenzen
 <tr><td>2</td><td>Umgehen mit Pferden und Bewegen der Pferde Zusammenarbeiten mit Mitarbeitenden und mit der Kundschaft</td><td>40 %</td></tr>
 </table>
 
+- c. Allgemeinbildung: Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 27. April 2006[^17-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.[^17-2]
+
 <sup>2</sup> In jedem Qualifikationsbereich beurteilen mindestens zwei Prüfungsexpertinnen oder -experten die Leistungen.
+
+[^17-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^17-2]: Berichtigung vom 16. Juli 2025 ([AS 2025 467](https://fedlex.data.admin.ch/eli/oc/2025/467)).
 
 #### Art. 18
 

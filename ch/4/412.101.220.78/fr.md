@@ -3,18 +3,18 @@ sr: "412.101.220.78"
 title: Ordonnance du SEFRI du 6 juillet 2023 sur la formation professionnelle initiale de gardienne de chevaux / gardien de chevaux avec attestation fédérale de formation professionnelle (AFP)
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/430"
 language: fr
-version: 2024-04-01
+version: 2025-07-16
 adopted: 2023-07-06
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/430/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2023-430-20240401-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/430/20240401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/430/20250716/fr/xml/fedlex-data-admin-ch-eli-cc-2023-430-20250716-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/430/20250716/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale de gardienne de chevaux / gardien de chevaux avec attestation fédérale de formation professionnelle (AFP)
 
-du 6 juillet 2023 (État le 1<sup>er</sup> avril 2024)
+du 6 juillet 2023 (État le 16 juillet 2025)
 
 <table>
 <tr><td>18123</td><td>Gardienne de chevaux AFP / Gardien de chevaux AFP Pferdewartin EBA / Pferdewart EBA Custode di cavalli CFP</td></tr>
@@ -310,7 +310,12 @@ La procédure de qualification avec examen final porte sur les compétences opé
 <tr><td>2</td><td>Attitude face aux chevaux et travail avec les chevaux Collaboration avec le personnel et la clientèle</td><td>40 %</td></tr>
 </table>
 
+- c. culture générale: ce domaine de qualification est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^17-1].[^17-2]
+
 <sup>2</sup> Dans chaque domaine de qualification, les prestations sont évaluées par au moins 2 experts aux examens.
+
+[^17-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^17-2]: Erratum du 16 juil. 2025 ([RO 2025 467](https://fedlex.data.admin.ch/eli/oc/2025/467)).
 
 #### Art. 18
 

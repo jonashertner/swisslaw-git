@@ -3,18 +3,18 @@ sr: "412.101.220.78"
 title: Ordinanza della SEFRI del 6 luglio 2023 sulla formazione professionale di base Custode di cavalli con certificato federale di formazione pratica (CFP)
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/430"
 language: it
-version: 2024-04-01
+version: 2025-07-16
 adopted: 2023-07-06
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/430/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2023-430-20240401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/430/20240401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/430/20250716/it/xml/fedlex-data-admin-ch-eli-cc-2023-430-20250716-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/430/20250716/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Custode di cavalli con certificato federale di formazione pratica (CFP)
 
-del 6 luglio 2023 (Stato 1° aprile 2024)
+del 6 luglio 2023 (Stato 16 luglio 2025)
 
 <table>
 <tr><td>18123</td><td>Custode di cavalli CFP Pferdewartin EBA / Pferdewart EBA Gardienne de chevaux AFP / Gardien de chevaux AFP</td></tr>
@@ -310,7 +310,12 @@ Nella procedura di qualificazione con esame finale sono esaminate, nel modo sott
 <tr><td>2</td><td>Rapporto con i cavalli e movimento dei cavalli Assistenza ai collaboratori e ai clienti</td><td>40 %</td></tr>
 </table>
 
+- c. cultura generale: a questo campo di qualificazione si applica l’ordinanza della SEFRI del 27 aprile 2006[^17-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.[^17-2]
+
 <sup>2</sup> Per ogni campo di qualificazione la valutazione è effettuata da almeno due periti d’esame.
+
+[^17-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^17-2]: Correzione del 16 lug. 2025 ([RU 2025 467](https://fedlex.data.admin.ch/eli/oc/2025/467)).
 
 #### Art. 18
 
@@ -419,7 +424,7 @@ Essa svolge in particolare i compiti seguenti:
 
 L’ordinanza della SEFRI del 4 novembre 2013[^23-1] sulla formazione professionale di base Custode di cavalli con certificato federale di formazione pratica (CFP) è abrogata.
 
-[^23-1]: [[RU 2013 5387](https://fedlex.data.admin.ch/eli/oc/2013/865); [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)n. I 54 II 54]
+[^23-1]: [[RU 2013 5387](https://fedlex.data.admin.ch/eli/oc/2013/865); [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)cifre I 54, II 54]
 
 #### Art. 24
 
