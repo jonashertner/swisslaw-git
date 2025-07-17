@@ -4,46 +4,56 @@ number: "20.2205"
 title: Pflegeheimliste für den Kanton Uri
 language: de
 version: 2023-10-01
+corrected: 2025-07-18
 version_adopted: 2023-09-13
 adopted: 2023-09-13
 in_force: 2023-10-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.2205"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/486/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/209/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Pflegeheimliste für den Kanton Uri
 
-Vom 13.09.2023 (Stand 01.10.2023)
+Pflegeheimliste für den Kanton Uri
 
-Der Regierungsrat des Kantons Uri,
+(vom 13. September 2023[^t-1]; Stand am 1. Oktober 2023)
 
-gestützt auf Artikel 39 des Bundesgesetzes vom 18. März 1994 über die Krankenversicherung (KVG, SR [832.10](https://db.clex.ch/link/Bund/832.10/de)) und auf Artikel 2 Buchstabe f der kantonalen Verordnung zum Bundesgesetz über die Krankenversicherung vom 15. November 1995 (RB [20.2202](https://rechtsbuch.ur.ch/data/20.2202/de)),
+Der Regierungsrat des Kantons Uri, gestützt auf Artikel 39 des Bundesgesetzes vom 18. März 1994 über die Krankenversicherung (KVG)<sup>2</sup> und auf Artikel 2 Buchstabe f der kantonalen Verordnung zum Bundesgesetz über die Krankenversicherung vom 15. November 1995<sup>3</sup>,
 
 beschliesst:
+
+[^t-1]: AB vom 22. September 2023
 
 #### Artikel 1
 
 **Pflegeheimliste**
 
-<sup>1</sup> Folgende Einrichtungen werden zugelassen, Leistungen gemäss Bundesgesetz über die Krankenversicherung zu erbringen:
+Folgende Einrichtungen werden zugelassen, Leistungen gemäss Bundesgesetz über die Krankenversicherung zu erbringen:
 
-<table>
-<tr><th>Institution</th><th>Leistungsumfang</th><th>max. Anzahl Pflegeplätze</th></tr>
-<tr><td>Alters- und Pflegeheim Gosmergartä, Bürglen</td><td>alle Pflegestufen</td><td>69</td></tr>
-<tr><td>Alters- und Pflegeheim Rosenberg, Altdorf</td><td>alle Pflegestufen</td><td>130</td></tr>
-<tr><td>Alters- und Pflegeheim Rüttigarten, Schattdorf</td><td>alle Pflegestufen</td><td>84</td></tr>
-<tr><td>«Seerose - Begleitet sein im Alter», Flüelen</td><td>alle Pflegestufen</td><td>33</td></tr>
-<tr><td>Betagten- und Pflegeheim Oberes Reusstal, Wassen</td><td>alle Pflegestufen</td><td>42</td></tr>
-<tr><td>«Spannort - Wohnen Begleiten Pflegen», Erstfeld</td><td>alle Pflegestufen</td><td>77</td></tr>
-<tr><td>Seniorenzentrum Ursern, Andermatt</td><td>alle Pflegestufen</td><td>40</td></tr>
-<tr><td>Kantonsspital Uri, Altdorf</td><td>alle Pflegestufen</td><td>1</td></tr>
-<tr><td>Pflegewohngruppe Höfli, Altdorf</td><td>alle Pflegestufen</td><td>33</td></tr>
-<tr><td>Stiftung Pflegezentrum Urnersee, Flüelen</td><td>alle Pflegestufen</td><td>57</td></tr>
-<tr><td>Hospiz Zentralschweiz, Luzern</td><td>Palliative Care, alle Pflegestufen</td><td>1</td></tr>
-<tr><td>Total</td><td></td><td>567</td></tr>
-</table>
+**Leistungsumfang maximale Anzahl**
+
+**Pflegeplätze**
+
+### Institution
+
+**alle Pflegestufen 69**
+
+Alters- und Pflegeheim Gosmergartä, Bürglen Alters- und Pflegeheim Rosenberg, Altdorf Alters- und Pflegeheim Rüttigarten, Schattdorf «Seerose - Begleitet sein im Alter», Flüelen Betagten- und Pflegeheim Oberes Reusstal, Wassen «Spannort - Wohnen Begleiten Pflegen», Erstfeld Seniorenzentrum Ursern, Andermatt Kantonsspital Uri, Altdorf Pflegewohngruppe Höfli, Altdorf Stiftung Pflegezentrum Urnersee, Flüelen Hospiz Zentralschweiz, Luzern
+
+**alle Pflegestufen 130 alle Pflegestufen 84**
+
+**alle Pflegestufen 33 alle Pflegestufen 42**
+
+**alle Pflegestufen 77**
+
+**alle Pflegestufen 40 alle Pflegestufen 1 alle Pflegestufen 33 alle Pflegestufen 57 Palliative Care 1 - alle Pflegestufen**
+
+**567**
+
+### Total
 
 #### Artikel 2
 
@@ -51,28 +61,34 @@ beschliesst:
 
 <sup>1</sup> Für die Einwohnerinnen und Einwohner der Gemeinde Seelisberg sind grundsätzlich auch die Einrichtungen, die sich auf der Pflegeheimliste des Kantons Nidwalden befinden, zur Leistungserbringung zugelassen.
 
-<sup>2</sup> Die Gemeinde Seelisberg hat den Zugang zu den Nidwaldner Einrichtungen mit einer Vereinbarung mit dem Kanton Nidwalden zu regeln.
+2 Die Gemeinde Seelisberg hat den Zugang zu den Nidwaldner Einrichtungen mit einer Vereinbarung mit dem Kanton Nidwalden zu regeln.
 
-<sup>3</sup> Die Wahlmöglichkeit des Leistungserbringers und die Kostenübernahme im Sinne von Artikel 20 des Gesetzes über die Langzeitpflege (RB [20.2231](https://rechtsbuch.ur.ch/data/20.2231/de)) beschränken sich auf die in der Vereinbarung enthaltenen Einrichtungen.
+<sup>3</sup> Die Wahlmöglichkeit des Leistungserbringers und die Kostenübernahme im Sinne von Artikel 20 des Gesetzes über die Langzeitpflege[^2-1] beschränken sich auf die in der Vereinbarung enthaltenen Einrichtungen.
+
+[^2-1]: RB 20.2231
 
 #### Artikel 3
 
 **Rechtsmittelbelehrung**
 
-<sup>1</sup> Gegen diesen Beschluss kann innert 30 Tagen seit der Eröffnung beim Bundesverwaltungsgericht Beschwerde erhoben werden (Artikel 53 Bundesgesetz über die Krankenversicherung).
+<sup>1</sup> Gegen diesen Beschluss kann innert 30 Tagen seit der Eröffnung beim Bundesverwaltungsgericht Beschwerde erhoben werden (Art. 53 Bundesgesetz über die Krankenversicherung).
 
-<sup>2</sup> Das Verfahren richtet sich nach dem Bundesgesetz über das Bundesverwaltungsgericht (SR [173.32](https://db.clex.ch/link/Bund/173.32/de)) und dem Bundesgesetz über das Verwaltungsverfahren (SR [172.021](https://db.clex.ch/link/Bund/172.021/de)).
+<sup>2</sup> Das Verfahren richtet sich nach dem Bundesgesetz über das Bundesverwaltungsgericht[^3-1] und dem Bundesgesetz über das Verwaltungsverfahren<sup>6</sup>.
+
+[^3-1]: SR 173.32
 
 #### Artikel 4
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Die Pflegeheimliste für den Kanton Uri vom 25. August 2020 wird aufgehoben.
+Die Pflegeheimliste für den Kanton Uri vom 25. August 2020<sup>7</sup> wird aufgehoben.
 
 #### Artikel 5
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieser Beschluss tritt per 1. Oktober 2023 in Kraft.
+Dieser Beschluss tritt per 1. Oktober 2023 in Kraft.
 
-AB 22.09.2023
+Im Namen des Regierungsrats
+
+Der Landammann: Urs Janett Der Kanzleidirektor: Roman Balli
