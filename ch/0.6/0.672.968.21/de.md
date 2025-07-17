@@ -3,35 +3,41 @@ sr: "0.672.968.21"
 title: Abkommen vom 13. April 2005 zwischen dem Schweizerischen Bundesrat und dem Ministerrat von Serbien und Montenegro zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen (Version mit Serbien)(mit Prot.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/480"
 language: de
-version: 2011-01-01
+version: 2025-07-18
 adopted: 2005-04-13
 in_force: 2006-05-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/480/20110101/de/xml/fedlex-data-admin-ch-eli-cc-2006-480-20110101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/480/20110101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/480/20250718/de/xml/fedlex-data-admin-ch-eli-cc-2006-480-20250718-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/480/20250718/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Abkommen zwischen dem Schweizerischen Bundesrat und dem Ministerrat von Serbien und Montenegro zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen****
+# Abkommen zwischen dem Schweizerischen Bundesrat und dem Ministerrat von Serbien und Montenegro zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen
 
 AS **2006** 3067; BBl **2005** 5321[^t-1]
 
 Übersetzung
 
-Abgeschlossen am 13. April 2005 Von der Bundesversammlung genehmigt am 7. März 2006[^t-2]
+(Version mit Serbien)
 
-In Kraft getreten durch Notenaustausch am 5. Mai 2006
+Abgeschlossen am 13. April 2005 Von der Bundesversammlung genehmigt am 7. März 2006[^t-2] In Kraft getreten durch Notenaustausch am 5. Mai 2006
 
-(Stand am 1. Januar 2011)
+(Stand am 18. Juli 2025)
 
-[^t-1]: Die Weitergeltung dieses Abk. in den Beziehungen zu Montenegro wurde bestätigt (siehe [AS 2008 1747](https://fedlex.data.admin.ch/eli/oc/2008/254)). Dieses Abk. ist in den Beziehungen zu Kosovo ausser Kraft getreten (siehe [AS 2010 1203](https://fedlex.data.admin.ch/eli/oc/2010/167)).
+[^t-1]: Die Weitergeltung dieses Abk. in den Beziehungen zu Montenegro wurde bestätigt (siehe [AS 2008 1747](https://fedlex.data.admin.ch/eli/oc/2008/254)) und gilt in der urspünglichen Fassung (siehe [SR 0.672.957.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2643)). Dieses Abk. ist in den Beziehungen zu Kosovo ausser Kraft getreten (siehe [AS 2010 1203](https://fedlex.data.admin.ch/eli/oc/2010/167)).
 [^t-2]: [AS 2006 3065](https://fedlex.data.admin.ch/eli/oc/2006/479)
 
-Der Schweizerische Bundesrat und der Ministerrat von Serbien und Montenegro,
+Der Schweizerische Bundesrat und die Regierung der Republik Serbien,
 
-vom Wunsche geleitet, ein Abkommen zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen abzuschliessen,
+vom Wunsch geleitet, ein Abkommen zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen abzuschliessen,
 
-haben Folgendes vereinbart:
+vom Wunsch geleitet, ihre wirtschaftlichen Beziehungen weiterzuentwickeln und die Zusammenarbeit in steuerlichen Angelegenheiten zu vertiefen,
+
+in der Absicht, in Bezug auf die Steuern vom Einkommen und vom Vermögen eine Doppelbesteuerung zu beseitigen, ohne Möglichkeiten zur Nichtbesteuerung oder reduzierten Besteuerung durch Steuerhinterziehung oder -umgehung (unter anderem durch missbräuchliche Gestaltungen mit dem Ziel des Erhalts von in diesem Abkommen vorgesehenen Erleichterungen zum mittelbaren Nutzen von in Drittstaaten ansässigen Personen) zu schaffen,
+
+haben Folgendes vereinbart:[^ingress-1]
+
+[^ingress-1]: Fassung gemäss Art. 1 des Prot. vom 19. Sept. 2023, von der BVers genehmigt am 20. Dez. 2024 und in Kraft seit 18. juli 2025 ([AS 2025 490](https://fedlex.data.admin.ch/eli/oc/2025/490), [489](https://fedlex.data.admin.ch/eli/oc/2025/489); [BBl 2024 1007](https://fedlex.data.admin.ch/eli/fga/2024/1007)).
 
 #### Art. 1
 
@@ -47,7 +53,9 @@ Dieses Abkommen gilt für Personen, die in einem Vertragsstaat oder in beiden Ve
 
 <sup>2.</sup> Als Steuern vom Einkommen und vom Vermögen gelten alle Steuern, die vom Gesamteinkommen, vom Gesamtvermögen oder von Teilen des Einkommens oder des Vermögens erhoben werden, einschliesslich der Steuern vom Gewinn aus der Veräusserung beweglichen oder unbeweglichen Vermögens, der Lohnsummensteuern sowie der Steuern vom Vermögenszuwachs.
 
-<sup>3.</sup> Zu den bestehenden Steuern, für die das Abkommen gilt, gehören insbesondere
+<sup>3.</sup>
+
+Zu den bestehenden Steuern, für die das Abkommen gilt, gehören insbesondere:
 
 - (1)
 
@@ -59,11 +67,8 @@ Dieses Abkommen gilt für Personen, die in einem Vertragsstaat oder in beiden Ve
   - – die Steuer auf Einkünften aus internationalen Transporten
 
 - (im Folgenden als «serbisch-montenegrinische Steuer» bezeichnet);
-- (2)
-
-  in der Schweiz:
-
-  - [tab] die von Bund, Kantonen und Gemeinden erhobenen Steuern
+- (2) in der Schweiz:
+- die von Bund, Kantonen und Gemeinden erhobenen Steuern
   - – vom Einkommen (Gesamteinkommen, Erwerbseinkommen, Vermögensertrag, Geschäftsertrag, Kapitalgewinn und andere Einkünfte); und
   - – vom Vermögen (Gesamtvermögen, bewegliches und unbewegliches Vermögen, Geschäftsvermögen, Kapital und Reserven und andere Vermögensteile)
 
@@ -77,18 +82,20 @@ Dieses Abkommen gilt für Personen, die in einem Vertragsstaat oder in beiden Ve
 
 **Allgemeine Begriffsbestimmungen**
 
-<sup>1.</sup> Im Sinne dieses Abkommens
+<sup>1.</sup>
 
-- (1) bedeutet der Ausdruck «Serbien und Montenegro» die Staatsgemeinschaft von Serbien und Montenegro und umfasst, wenn im geografischen Sinne verwendet, das Festland von Serbien und Montenegro, dessen Binnen- und Territorialgewässer, den darüberliegenden Luftraum sowie den Meeresgrund und den Meeresuntergrund desjenigen Teils des ausserhalb der Hoheitsgewässer liegenden Meeres, in dem Serbien und Montenegro nach eigenem Recht und in Übereinstimmung mit dem Völkerrecht Hoheitsrechte hinsichtlich der Erforschung und Ausbeutung von Bodenschätzen ausübt;
+Im Sinne dieses Abkommens:
+
+- (1) bedeutet der Ausdruck «Serbien und Montenegro»[^3-1] die Staatsgemeinschaft von Serbien und Montenegro und umfasst, wenn im geografischen Sinne verwendet, das Festland von Serbien und Montenegro, dessen Binnen- und Territorialgewässer, den darüberliegenden Luftraum sowie den Meeresgrund und den Meeresuntergrund desjenigen Teils des ausserhalb der Hoheitsgewässer liegenden Meeres, in dem Serbien und Montenegro nach eigenem Recht und in Übereinstimmung mit dem Völkerrecht Hoheitsrechte hinsichtlich der Erforschung und Ausbeutung von Bodenschätzen ausübt;
 - (2) bedeutet der Ausdruck «Schweiz» die Schweizerische Eidgenossenschaft;
 - (3) bedeuten die Ausdrücke «ein Vertragsstaat» und «der andere Vertragsstaat», je nach dem Zusammenhang, Serbien und Montenegro oder die Schweiz;
 - (4) umfasst der Ausdruck «Person» natürliche Personen, Gesellschaften und alle anderen Personenvereinigungen;
 - (5) bedeutet der Ausdruck «Gesellschaft» juristische Personen oder Rechtsträger, die für die Besteuerung wie juristische Personen behandelt werden;
 - (6) bedeuten die Ausdrücke «Unternehmen eines Vertragsstaats» und «Unternehmen des anderen Vertragsstaats», je nachdem, ein Unternehmen, das von einer in einem Vertragsstaat ansässigen Person betrieben wird, oder ein Unternehmen, das von einer im anderen Vertragsstaat ansässigen Person betrieben wird;
-- (7) bedeutet der Ausdruck «internationaler Verkehr» jede Beförderung mit einem Schiff[^3-1], Luft- oder Strassenfahrzeug, das von einem Unternehmen mit tatsächlicher Geschäftsleitung in einem Vertragsstaat betrieben wird, es sei denn, das Schiff, Luft- oder Strassenfahrzeug wird ausschliesslich zwischen Orten im anderen Vertragsstaat betrieben;
+- (7) bedeutet der Ausdruck «internationaler Verkehr» jede Beförderung mit einem Schiff[^3-2], Luft- oder Strassenfahrzeug, das von einem Unternehmen mit tatsächlicher Geschäftsleitung in einem Vertragsstaat betrieben wird, es sei denn, das Schiff, Luft- oder Strassenfahrzeug wird ausschliesslich zwischen Orten im anderen Vertragsstaat betrieben;
 - (8)
 
-  bedeutet der Ausdruck «zuständige Behörde»:
+  bedeutet der Ausdruck «zuständige Behörde»[^3-3]:
 
   - – in Serbien und Montenegro das Ministerium für Internationale Wirtschaftsbeziehungen oder dessen bevollmächtigter Vertreter;
   - – in der Schweiz der Direktor der Eidgenössischen Steuerverwaltung oder sein bevollmächtigter Vertreter;
@@ -102,7 +109,9 @@ Dieses Abkommen gilt für Personen, die in einem Vertragsstaat oder in beiden Ve
 
 <sup>2.</sup> Bei der Anwendung des Abkommens durch einen Vertragsstaat hat jeder im Abkommen nicht definierte Ausdruck die Bedeutung, die ihm im Anwendungszeitpunkt nach dem Recht dieses Staates über die Steuern zukommt, für die das Abkommen gilt, wobei die in der Steuergesetzgebung geltende Bedeutung derjenigen gemäss anderen Gesetzen des gleichen Staates vorgeht.
 
-[^3-1]: Der Begriff wurde in Anwendung von Art. 12 Abs. 1 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) formlos berichtigt. Die Berichtigung wurde im ganzen Erlass vorgenommen.
+[^3-1]: Es besteht Einvernehmen darüber, dass der im Abkommen und im Protokoll zum Abkommen genannte Ausdruck «Serbien und Montenegro» im Rahmen der Beziehungen zwischen der Schweiz und der Republik Serbien die Republik Serbien respektive das Hoheitsgebiet der Republik Serbien bezeichnet ([AS 2025 490](https://fedlex.data.admin.ch/eli/oc/2025/490)Art. 2 erstes Lemma).
+[^3-2]: Der Begriff wurde in Anwendung von Art. 12 Abs. 1 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) formlos berichtigt. Die Berichtigung wurde im ganzen Erlass vorgenommen.
+[^3-3]: Es besteht Einvernehmen darüber, dass der im Abkommen genannte Ausdruck «zuständige Behörde» in Serbien, sofern der Zusammenhang nichts anders erfordert, das Finanzministerium oder dessen bevollmächtigten Vertreter bezeichnet ([AS 2025 490](https://fedlex.data.admin.ch/eli/oc/2025/490)Art. 2 zweites Lemma).
 
 #### Art. 4
 
@@ -185,7 +194,12 @@ Ungeachtet der vorstehenden Bestimmungen dieses Artikels gelten nicht als Betrie
 
 <sup>6.</sup> Bei der Anwendung der vorstehenden Absätze sind die der Betriebsstätte zuzurechnenden Gewinne jedes Jahr auf dieselbe Art zu ermitteln, es sei denn, dass ausreichende Gründe dafür bestehen, anders zu verfahren.
 
-<sup>7.</sup> Gehören zu den Gewinnen Einkünfte, die in anderen Artikeln dieses Abkommens behandelt werden, so werden die Bestimmungen jener Artikel durch die Bestimmungen dieses Artikels nicht berührt.
+<sup>7.</sup> Ein Vertragsstaat darf keine Berichtigung der Gewinne, die einer Betriebsstätte eines Unternehmens eines der Vertragsstaaten zugerechnet werden können, nach Ablauf von fünf Jahren ab dem Ende des Steuerjahres vornehmen, in dem die Gewinne der Betriebsstätte hätten zugerechnet werden können. Dieser Absatz ist nicht anzuwenden im Fall von Betrug oder vorsätzlicher Unterlassung.[^7-1]
+
+<sup>8.</sup> Gehören zu den Gewinnen Einkünfte, die in anderen Artikeln dieses Abkommens behandelt werden, so werden die Bestimmungen jener Artikel durch die Bestimmungen dieses Artikels nicht berührt.[^7-2]
+
+[^7-1]: Eingefügt durch Art. 3 des Prot. vom 19. Sept. 2023, von der BVers genehmigt am 20. Dez. 2024 und in Kraft seit 18. juli 2025 ([AS 2025 490](https://fedlex.data.admin.ch/eli/oc/2025/490), [489](https://fedlex.data.admin.ch/eli/oc/2025/489); [BBl 2024 1007](https://fedlex.data.admin.ch/eli/fga/2024/1007)).
+[^7-2]: Ursprünglich Abs. 7.
 
 #### Art. 8
 
@@ -197,7 +211,7 @@ Ungeachtet der vorstehenden Bestimmungen dieses Artikels gelten nicht als Betrie
 
 <sup>3.</sup> Absatz 1 gilt auch für Gewinne aus der Beteiligung an einem Pool, einer Betriebsgemeinschaft oder einer internationalen Betriebsstelle.
 
-[^8-1]: Der Begriff wurde in Anwendung von Art. 12 Abs. 1 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) formlos berichtigt.
+[^8-1]: Der Begriff wurde in Anwendung von Art. 12 Abs. 1 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) formlos berichtigt.
 
 #### Art. 9
 
@@ -210,9 +224,11 @@ und in diesen Fällen die beiden Unternehmen in ihren kaufmännischen oder finan
 - (1) ein Unternehmen eines Vertragsstaats unmittelbar oder mittelbar an der Geschäftsleitung, der Kontrolle oder dem Kapital eines Unternehmens des anderen Vertragsstaats beteiligt ist, oder
 - (2) dieselben Personen unmittelbar oder mittelbar an der Geschäftsleitung, der Kontrolle oder dem Kapital eines Unternehmens eines Vertragsstaats und eines Unternehmens des anderen Vertragsstaats beteiligt sind
 
-<sup>2.</sup> Werden Gewinne, mit denen ein Unternehmen eines Vertragsstaats in diesem Staat besteuert worden ist, auch den Gewinnen eines Unternehmens des anderen Vertragsstaats zugerechnet und entsprechend besteuert und handelt es sich dabei um Gewinne, die das Unternehmen des anderen Vertragsstaats erzielt hätte, wenn die zwischen den beiden Unternehmen vereinbarten Bedingungen die gleichen gewesen wären, wie sie unabhängige Unternehmen miteinander vereinbaren würden, so können sich die zuständigen Behörden der Vertragsstaaten zur Herbeiführung einer Einigung über die Berichtigung der Gewinne in den beiden Vertragsstaaten konsultieren.
+<sup>2.</sup> Werden in einem Vertragsstaat den Gewinnen eines Unternehmens dieses Staates Gewinne zugerechnet und entsprechend besteuert, mit denen ein Unternehmen des anderen Vertragsstaats in diesem anderen Staat besteuert worden ist, und handelt es sich bei den zugerechneten Gewinnen um solche, die das Unternehmen des erstgenannten Staates erzielt hätte, wenn die zwischen den beiden Unternehmen vereinbarten Bedingungen die gleichen gewesen wären, die unabhängige Unternehmen miteinander vereinbaren würden, so nimmt der andere Staat eine entsprechende Änderung der dort von diesen Gewinnen erhobenen Steuer vor. Bei dieser Änderung sind die übrigen Bestimmungen dieses Abkommens zu berücksichtigen; soweit erforderlich, konsultieren sich die zuständigen Behörden der Vertragsstaaten.[^9-1]
 
 <sup>3.</sup> Ein Vertragsstaat soll die Gewinne eines Unternehmens in den in Absatz 1 genannten Fällen nicht mehr berichtigen, wenn die in seinem internen Recht vorgesehenen Fristen abgelaufen sind, und keinesfalls, wenn seit dem Ende des Jahres, in dem ein Unternehmen dieses Staates die Gewinne, die Gegenstand einer solchen Berichtigung wären, erzielt hätte, mehr als fünf Jahre verflossen sind. Dieser Absatz ist in Fällen von Betrug oder vorsätzlicher Unterlassung nicht anzuwenden.
+
+[^9-1]: Fassung gemäss Art. 4 des Prot. vom 19. Sept. 2023, von der BVers genehmigt am 20. Dez. 2024 und in Kraft seit 18. juli 2025 ([AS 2025 490](https://fedlex.data.admin.ch/eli/oc/2025/490), [489](https://fedlex.data.admin.ch/eli/oc/2025/489); [BBl 2024 1007](https://fedlex.data.admin.ch/eli/fga/2024/1007)).
 
 #### Art. 10
 
@@ -277,9 +293,11 @@ Diese Dividenden können jedoch auch in dem Vertragsstaat, in dem die die Divide
 
 <sup>3.</sup> Gewinne aus der Veräusserung von Schiffen, Luft- oder Strassenfahrzeugen, die im internationalen Verkehr betrieben werden, und von beweglichem Vermögen, das dem Betrieb dieser Schiffe, Luft- oder Strassenfahrzeuge dient, können nur in dem Vertragsstaat besteuert werden, in dem sich der Ort der tatsächlichen Geschäftsleitung des Unternehmens befindet.
 
-<sup>4.</sup> Gewinne aus der Veräusserung von Anteilen am Kapital einer Gesellschaft, deren Vermögen unmittelbar oder mittelbar hauptsächlich aus in einem Vertragsstaat gelegenem unbeweglichem Vermögen besteht, können in diesem Staat besteuert werden.
+<sup>4.</sup> Gewinne, die eine in einem Vertragsstaat ansässige Person aus der Veräusserung von Anteilen oder vergleichbaren Rechten am Kapital einer Gesellschaft bezieht, deren Wert zu mehr als 50 Prozent unmittelbar oder mittelbar auf unbeweglichem Vermögen beruht, das im anderen Vertragsstaat liegt, können im anderen Staat besteuert werden.[^13-1]
 
 <sup>5.</sup> Gewinne aus der Veräusserung des in den Absätzen 1, 2, 3 und 4 nicht genannten Vermögens können nur in dem Vertragsstaat besteuert werden, in dem der Veräusserer ansässig ist.
+
+[^13-1]: Fassung gemäss Art. 5 des Prot. vom 19. Sept. 2023, von der BVers genehmigt am 20. Dez. 2024 und in Kraft seit 18. juli 2025 ([AS 2025 490](https://fedlex.data.admin.ch/eli/oc/2025/490), [489](https://fedlex.data.admin.ch/eli/oc/2025/489); [BBl 2024 1007](https://fedlex.data.admin.ch/eli/fga/2024/1007)).
 
 #### Art. 14
 
@@ -295,7 +313,9 @@ Diese Dividenden können jedoch auch in dem Vertragsstaat, in dem die die Divide
 
 <sup>1.</sup> Vorbehaltlich der Artikel 16, 18 und 19 können Gehälter, Löhne und ähnliche Vergütungen, die eine in einem Vertragsstaat ansässige Person aus unselbständiger Arbeit bezieht, nur in diesem Staat besteuert werden, es sei denn, die Arbeit wird im anderen Vertragsstaat ausgeübt. Wird die Arbeit dort ausgeübt, so können die dafür bezogenen Vergütungen im anderen Staat besteuert werden.
 
-<sup>2.</sup> Ungeachtet des Absatzes 1 können Vergütungen, die eine in einem Vertragsstaat ansässige Person für eine im anderen Vertragsstaat ausgeübte unselbständige Arbeit bezieht, nur im erstgenannten Staat besteuert werden, wenn
+<sup>2.</sup>
+
+Ungeachtet des Absatzes 1 können Vergütungen, die eine in einem Vertragsstaat ansässige Person für eine im anderen Vertragsstaat ausgeübte unselbständige Arbeit bezieht, nur im erstgenannten Staat besteuert werden, wenn:
 
 - (1) der Empfänger sich im anderen Staat insgesamt nicht länger als 183 Tage innerhalb eines Zeitraums von 12 Monaten, der während des betreffenden Steuerjahres beginnt oder endet, aufhält und
 - (2) die Vergütungen von einem Arbeitgeber oder für einen Arbeitgeber gezahlt werden, der nicht im anderen Staat ansässig ist, und
@@ -373,7 +393,7 @@ Vorbehaltlich des Artikels 19 Absatz 2 können Ruhegehälter und ähnliche Verg�
 
 <sup>1.</sup>
 
-Im Falle von Serbien und Montenegro wird die Doppelbesteuerung wie folgt vermieden:
+Im Falle von Serbien und Montenegro[^23-1] wird die Doppelbesteuerung wie folgt vermieden:
 
 - (1) Bezieht eine in Serbien und Montenegro ansässige Person Einkünfte oder hat sie Vermögen und können diese Einkünfte oder dieses Vermögen nach diesem Abkommen in der Schweiz besteuert werden, so rechnet Serbien und Montenegro
   - – auf die vom Einkommen dieser Person zu erhebende Steuer den Betrag an, der der in der Schweiz gezahlten Steuer vom Einkommen entspricht;
@@ -397,6 +417,10 @@ Im Falle der Schweiz wird die Doppelbesteuerung wie folgt vermieden:
 
 - Die Schweiz wird nach den schweizerischen Vorschriften über die Durchführung von zwischenstaatlichen Abkommen des Bundes zur Vermeidung der Doppelbesteuerung die Art der Entlastung bestimmen und das Verfahren ordnen.
 - (3) Eine in der Schweiz ansässige Gesellschaft, die Dividenden von einer in Serbien und Montenegro ansässigen Gesellschaft bezieht, geniesst bei der Erhebung der schweizerischen Steuer auf diesen Dividenden die gleichen Vergünstigungen, die ihr zustehen würden, wenn die die Dividenden zahlende Gesellschaft in der Schweiz ansässig wäre.
+- (4)[^23-2] Ziffer (1) gilt nicht, soweit gemäss den Schweizer Bestimmungen zur Mindestbesteuerung grosser Unternehmensgruppen, die auf der Grundlage der «Global Anti-Base Erosion Model Rules (Pillar Two)» erlassen worden sind, bei einer Person, die im betreffenden Steuerjahr in der Schweiz ansässig ist und in Serbien eine Betriebsstätte besitzt, eine Ergänzungssteuer («Top‑Up Tax») erhoben werden muss.
+
+[^23-1]: Heute: Serbien (siehe Art. 2 erstes Lemma des Prot. vom 19. Sept. 2023, AS 2025 490)
+[^23-2]: Eingefügt durch Art. 6 des Prot. vom 19. Sept. 2023, von der BVers genehmigt am 20. Dez. 2024 und in Kraft seit 18. juli 2025 ([AS 2025 490](https://fedlex.data.admin.ch/eli/oc/2025/490), [489](https://fedlex.data.admin.ch/eli/oc/2025/489); [BBl 2024 1007](https://fedlex.data.admin.ch/eli/fga/2024/1007)).
 
 #### Art. 24
 
@@ -410,7 +434,9 @@ Im Falle der Schweiz wird die Doppelbesteuerung wie folgt vermieden:
 
 <sup>4.</sup> Unternehmen eines Vertragsstaats, deren Kapital ganz oder teilweise unmittelbar oder mittelbar einer im anderen Vertragsstaat ansässigen Person oder mehreren solchen Personen gehört oder ihrer Kontrolle unterliegt, dürfen im erstgenannten Staat keiner Besteuerung oder damit zusammenhängenden Verpflichtung unterworfen werden, die anders oder belastender ist als die Besteuerung und die damit zusammenhängenden Verpflichtungen, denen andere ähnliche Unternehmen des erstgenannten Staates unterworfen sind oder unterworfen werden können.
 
-<sup>5.</sup> Dieser Artikel gilt für die in Artikel 2 genannten Steuern.
+<sup>5.</sup> Dieser Artikel gilt ungeachtet des Artikels 2 für Steuern jeder Art und Bezeichnung.[^24-1]
+
+[^24-1]: Fassung gemäss Art. 7 des Prot. vom 19. Sept. 2023, von der BVers genehmigt am 20. Dez. 2024 und in Kraft seit 18. juli 2025 ([AS 2025 490](https://fedlex.data.admin.ch/eli/oc/2025/490), [489](https://fedlex.data.admin.ch/eli/oc/2025/489); [BBl 2024 1007](https://fedlex.data.admin.ch/eli/fga/2024/1007)).
 
 #### Art. 25
 
@@ -426,11 +452,25 @@ Im Falle der Schweiz wird die Doppelbesteuerung wie folgt vermieden:
 
 #### Art. 26
 
-**Informationsaustausch**
+**Informationsaustausch**[^26-1]
 
-<sup>1.</sup> Die zuständigen Behörden der Vertragsstaaten werden unter sich diejenigen (nach den Steuergesetzgebungen der Vertragsstaaten im Rahmen der normalen Verwaltungspraxis erhältlichen) Auskünfte austauschen, die notwendig sind für die Durchführung dieses Abkommens mit Bezug auf die Gegenstand dieses Abkommens bildenden Steuern. Jede auf diese Weise ausgetauschte Auskunft soll geheim gehalten und niemandem zugänglich gemacht werden, der sich nicht mit der Veranlagung oder dem Bezug der Gegenstand dieses Abkommens bildenden Steuern befasst. Auskünfte, die irgendein Handels-, Geschäfts-, Bank-, gewerbliches oder Berufsgeheimnis oder ein Geschäftsverfahren offenbaren würden, dürfen nicht ausgetauscht werden.
+<sup>1.</sup> Die zuständigen Behörden der Vertragsstaaten tauschen die Informationen aus, die zur Durchführung dieses Abkommens oder zur Anwendung oder Durchsetzung des innerstaatlichen Rechts betreffend Steuern jeder Art und Bezeichnung, die für Rechnung der Vertragsstaaten, ihrer politischen Unterabteilungen oder ihrer lokalen Körperschaften erhoben werden, voraussichtlich erheblich sind, soweit die diesem Recht entsprechende Besteuerung nicht dem Abkommen widerspricht. Der Informationsaustausch ist durch die Artikel 1 und 2 nicht eingeschränkt.
 
-<sup>2.</sup> Die Bestimmungen von Absatz 1 dürfen auf keinen Fall dahin ausgelegt werden, dass sie einem der Vertragsstaaten die Verpflichtung auferlegen, Verwaltungsmassnahmen durchzuführen, die von den Vorschriften oder der Verwaltungspraxis dieses oder des anderen Vertragsstaats abweichen, oder die seiner Souveränität, Sicherheit oder dem Ordre public widersprechen, oder Angaben zu vermitteln, die nicht auf Grund seiner eigenen und auf Grund der Gesetzgebung des ersuchenden Staates beschafft werden können.
+<sup>2.</sup> Alle Informationen, die ein Vertragsstaat nach Absatz 1 erhalten hat, sind ebenso geheim zu halten wie die aufgrund des innerstaatlichen Rechts dieses Staates beschafften Informationen; sie dürfen nur den Personen oder Behörden, einschliesslich der Gerichte und der Verwaltungsbehörden, zugänglich gemacht werden, die mit der Veranlagung oder der Erhebung, mit der Vollstreckung oder der Strafverfolgung oder mit der Entscheidung von Rechtsmitteln hinsichtlich der in Absatz 1 genannten Steuern oder mit der Aufsicht über die vorgenannten Personen oder Behörden befasst sind. Diese Personen oder Behörden dürfen die Informationen nur für diese Zwecke verwenden. Sie können die Informationen in einem öffentlichen Gerichtsverfahren oder in einer Gerichtsentscheidung offenlegen. Ungeachtet der vorstehenden Bestimmungen kann ein Vertragsstaat die erhaltenen Informationen für andere Zwecke verwenden, wenn solche Informationen nach dem Recht beider Staaten für solche andere Zwecke verwendet werden können und die zuständige Behörde des übermittelnden Staates dieser anderen Verwendung zustimmt.
+
+<sup>3.</sup>
+
+Die Absätze 1 und 2 sind nicht so auszulegen, als verpflichteten sie einen Vertragsstaat:
+
+- (1) Verwaltungsmassnahmen durchzuführen, die von den Gesetzen und der Verwaltungspraxis dieses oder des anderen Vertragsstaats abweichen;
+- (2) Informationen zu erteilen, die nach den Gesetzen oder im üblichen Verwaltungsverfahren dieses oder des anderen Vertragsstaats nicht beschafft werden können;
+- (3) Informationen zu erteilen, die ein Handels-, Geschäfts-, Industrie-, Gewerbe- oder Berufsgeheimnis oder ein Geschäftsverfahren offenlegen würden oder deren Erteilung dem Ordre public widersprechen würde.
+
+<sup>4.</sup> Ersucht ein Vertragsstaat um Informationen nach diesem Artikel, so nutzt der andere Vertragsstaat die ihm zur Verfügung stehenden Möglichkeiten zur Beschaffung dieser Informationen, selbst wenn dieser andere Staat sie für seine eigenen steuerlichen Zwecke nicht benötigt. Die im vorhergehenden Satz enthaltene Verpflichtung unterliegt den Beschränkungen nach Absatz 3, die jedoch in keinem Fall so auszulegen sind, dass ein Vertragsstaat die Erteilung von Informationen nur deshalb ablehnen kann, weil er kein innerstaatliches Interesse an solchen Informationen hat.
+
+<sup>5.</sup> Absatz 3 ist in keinem Fall so auszulegen, als könne ein Vertragsstaat die Erteilung von Informationen nur deshalb ablehnen, weil sich die Informationen bei einer Bank, einem sonstigen Finanzinstitut, einem Bevollmächtigten, Beauftragten oder Treuhänder befinden oder weil sie sich auf Eigentumsrechte an einer Person beziehen.
+
+[^26-1]: Fassung gemäss Art. 8 des Prot. vom 19. Sept. 2023, von der BVers genehmigt am 20. Dez. 2024 und in Kraft seit 18. juli 2025 ([AS 2025 490](https://fedlex.data.admin.ch/eli/oc/2025/490), [489](https://fedlex.data.admin.ch/eli/oc/2025/489); [BBl 2024 1007](https://fedlex.data.admin.ch/eli/fga/2024/1007)).
 
 #### Art. 27
 
@@ -438,7 +478,9 @@ Im Falle der Schweiz wird die Doppelbesteuerung wie folgt vermieden:
 
 <sup>1.</sup> Dieses Abkommen berührt nicht die steuerlichen Vorrechte, die den Mitgliedern diplomatischer Missionen und konsularischer Vertretungen nach den allgemeinen Regeln des Völkerrechts oder auf Grund besonderer Vereinbarungen zustehen.
 
-<sup>2.</sup> Ungeachtet des Artikels 4 gilt eine natürliche Person, die Mitglied einer diplomatischen Mission, einer konsularischen Vertretung oder einer ständigen Vertretung eines Vertragsstaats ist, die im anderen Vertragsstaat oder in einem dritten Staat gelegen ist, im Sinne dieses Abkommens als im Entsendestaat ansässig, wenn sie
+<sup>2.</sup>
+
+Ungeachtet des Artikels 4 gilt eine natürliche Person, die Mitglied einer diplomatischen Mission, einer konsularischen Vertretung oder einer ständigen Vertretung eines Vertragsstaats ist, die im anderen Vertragsstaat oder in einem dritten Staat gelegen ist, im Sinne dieses Abkommens als im Entsendestaat ansässig, wenn sie:
 
 - (1) nach dem Völkerrecht im Empfangsstaat mit Einkünften aus Quellen ausserhalb dieses Staates oder mit ausserhalb dieses Staates gelegenem Vermögen nicht steuerpflichtig ist, und
 - (2) im Entsendestaat den gleichen Verpflichtungen bezüglich der Steuer von ihrem gesamten Einkommen oder vom Vermögen unterworfen ist wie in diesem Staat ansässige Personen.
@@ -447,27 +489,39 @@ Im Falle der Schweiz wird die Doppelbesteuerung wie folgt vermieden:
 
 #### Art. 28
 
-**Inkrafttreten**
+**Anspruch auf Vorteile**[^28-1]
+
+Ungeachtet der übrigen Bestimmungen dieses Abkommens wird ein Vorteil nach diesem Abkommen nicht für bestimmte Einkünfte oder Vermögenswerte gewährt, wenn unter Berücksichtigung aller massgeblichen Tatsachen und Umstände die Feststellung gerechtfertigt ist, dass der Erhalt dieses Vorteils einer der Hauptzwecke einer Gestaltung oder Transaktion war, die unmittelbar oder mittelbar zu diesem Vorteil geführt hat, es sei denn, es wird nachgewiesen, dass die Gewährung dieses Vorteils unter diesen Umständen mit dem Ziel und Zweck der einschlägigen Bestimmungen dieses Abkommens im Einklang steht.
+
+[^28-1]: Eingefügt durch Art. 9 des Prot. vom 19. Sept. 2023, von der BVers genehmigt am 20. Dez. 2024 und in Kraft seit 18. juli 2025 ([AS 2025 490](https://fedlex.data.admin.ch/eli/oc/2025/490), [489](https://fedlex.data.admin.ch/eli/oc/2025/489); [BBl 2024 1007](https://fedlex.data.admin.ch/eli/fga/2024/1007)).
+
+#### Art. 29
+
+**Inkrafttreten**[^29-1]
 
 <sup>1.</sup> Jeder Vertragsstaat notifiziert dem anderen Vertragsstaat auf diplomatischem Weg, dass die innerstaatlichen gesetzlichen Erfordernisse für das Inkrafttreten dieses Abkommens erfüllt sind. Das Abkommen tritt am Tage des Empfangs der späteren dieser Notifikationen in Kraft.
 
 <sup>2.</sup> Die Bestimmungen dieses Abkommens finden Anwendung auf Steuern vom Einkommen und vom Vermögen, das in den am oder nach dem 1. Januar des auf das Inkrafttreten des Abkommens folgenden Kalenderjahres beginnenden Steuerjahren erzielt oder gehalten wird.
 
-<sup>3.</sup> Der Notenwechsel vom 4. November und 29. Dezember 1964 zwischen der Sozialistischen Föderativen Republik Jugoslawien und der Schweizerischen Eidgenossenschaft über die Besteuerung von Unternehmen der Schiff- und Luftfahrt[^28-1] tritt ab dem Zeitpunkt, in dem dieses Abkommen Anwendung findet, im bilateralen Verhältnis zwischen Serbien und Montenegro und der Schweiz ausser Kraft.
+<sup>3.</sup> Der Notenwechsel vom 4. November und 29. Dezember 1964 zwischen der Sozialistischen Föderativen Republik Jugoslawien und der Schweizerischen Eidgenossenschaft über die Besteuerung von Unternehmen der Schiff- und Luftfahrt[^29-2] tritt ab dem Zeitpunkt, in dem dieses Abkommen Anwendung findet, im bilateralen Verhältnis zwischen Serbien und Montenegro[^29-3] und der Schweiz ausser Kraft.
 
-[^28-1]: [SR 0.672.981.85](https://fedlex.data.admin.ch/eli/cc/1965/365_373_369)
+[^29-1]: Ursprünglich Art. 28
+[^29-2]: [SR 0.672.981.85](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2695)
+[^29-3]: Heute: Serbien (siehe Art. 2 erstes Lemma des Prot. vom 19. Sept. 2023, AS 2025 490)
 
-#### Art. 29
+#### Art. 30
 
-**Kündigung**
+**Kündigung**[^30-1]
 
 Dieses Abkommen bleibt in Kraft, solange es nicht von einem Vertragsstaat gekündigt wird. Jeder Vertragsstaat kann das Abkommen auf diplomatischem Weg unter Einhaltung einer Frist von mindestens sechs Monaten zum Ende eines Kalenderjahres kündigen. In diesem Fall findet das Abkommen nicht mehr Anwendung auf Steuern vom Einkommen und vom Vermögen, das in den am oder nach dem 1. Januar des auf die Kündigung folgenden Kalenderjahres beginnenden Steuerjahren erzielt oder gehalten wird.
 
+[^30-1]: Ursprünglich Art. 29
+
 *Zu Urkund dessen* haben die hierzu gehörig bevollmächtigten Unterzeichneten dieses Abkommen unterschrieben. Geschehen zu Belgrad am 13. April 2005 im Doppel in französischer, serbischer und englischer Sprache, wobei jeder Wortlaut gleicherweise verbindlich ist. Bei unterschiedlicher Auslegung des französischen und des serbischen Wortlauts soll der englische Wortlaut massgebend sein. Für den Schweizerischen Bundesrat: Wilhelm Meier Für den Ministerrat von Serbien und Montenegro: Predrag Ivanovic
 
-Protokoll
+Protokoll[^t-3]
 
-Der Schweizerische Bundesrat und der Ministerrat von Serbien und Montenegro
+Der Schweizerische Bundesrat und der Ministerrat von Serbien und Montenegro[^t-4]
 
 haben anlässlich der Unterzeichnung zu Belgrad am 13. April 2005 des Abkommens zwischen den beiden Staaten zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen die folgenden, einen integrierenden Bestandteil des Abkommens bildenden Bestimmungen
 
@@ -493,13 +547,34 @@ Es besteht Einvernehmen darüber, dass die in Artikel 2 Absatz 3 Ziffer (1) gena
 
 In Bezug auf Absatz 2 besteht Einvernehmen darüber, dass, solange die Schweiz nach innerstaatlichem Recht auf Lizenzgebühren, die an nichtansässige Personen gezahlt werden, keine Quellensteuer erhebt, diese Bestimmung keine Anwendung findet und Lizenzgebühren nur in dem Staat besteuert werden können, in dem der Nutzungsberechtigte der Lizenzgebühren ansässig ist.
 
-\5. Zu den Artikeln 18 und 19
+\5. Zu Artikel 13
+
+Hinsichtlich des neuen Absatzes 4 besteht Einvernehmen darüber, dass der Ausdruck «vergleichbare Rechte» Beteiligungen an einem Unternehmen einschliesst, das in der Form einer Gesellschaft mit beschränkter Haftung («limited liability company») nach serbischem Recht errichtet worden ist.
+
+\6. Zu den Artikeln 18 und 19
 
 Es besteht Einvernehmen darüber, dass der in den Artikeln 18 und 19 verwendete Ausdruck «Ruhegehälter» nicht nur wiederkehrende Zahlungen, sondern auch Pauschalleistungen umfasst.
 
-\6. Zu Artikel 19
+\7. Zu Artikel 19
 
 Es besteht Einvernehmen darüber, dass die Bestimmungen von Artikel 19 Absatz 1 Ziffern (1) und (2) Anwendung finden auf Gehälter, Löhne und ähnliche Vergütungen, die von Serbien und Montenegro, einer seiner politischen Unterabteilungen oder lokalen Körperschaften an serbisch-montenegrinische Lehrkräfte für in der Schweiz ausgeübte Lehrtätigkeit gezahlt werden.
+
+\8. Zu Artikel 26
+
+- 1) Es besteht Einvernehmen darüber, dass der ersuchende Vertragsstaat ein Begehren um Austausch von Informationen erst dann stellt, wenn er alle in seinem innerstaatlichen Steuerverfahren vorgesehenen üblichen Mittel zur Beschaffung der Informationen ausgeschöpft hat, ausgenommen solche, die zu unverhältnismässigen Schwierigkeiten führen würden.
+- 2)
+
+  Es besteht Einvernehmen darüber, dass die zuständige Behörde des ersuchenden Staates bei der Stellung eines Auskunftsersuchens gemäss Artikel 26 des Abkommens der zuständigen Behörde des ersuchten Staates die nachstehenden Angaben zu liefern hat, um die voraussichtliche Erheblichkeit der ersuchten Informationen aufzuzeigen:
+
+  - (1) die Identität der in eine Überprüfung oder Untersuchung einbezogenen Person;
+  - (2) die Zeitperiode, für welche die Informationen verlangt werden;
+  - (3) eine Beschreibung der verlangten Informationen sowie Angaben hinsichtlich der Form, in der der ersuchende Staat diese Informationen vom ersuchten Staat zu erhalten wünscht;
+  - (4) den Steuerzweck, für den die Informationen verlangt werden;
+  - (5) soweit bekannt, den Namen und die Adresse des mutmasslichen Inhabers der verlangten Informationen.
+
+- 3) Es besteht Einvernehmen darüber, dass der Zweck der Verweisung auf Informationen, die voraussichtlich erheblich sind, darin besteht, einen möglichst weit gehenden Informationsaustausch in Steuerbelangen zu gewährleisten, ohne den Vertragsstaaten zu erlauben, «fishing expeditions» (spekulative Ersuchen, die keinen ersichtlichen Bezug zu einer offenen Untersuchung oder zu einem offenen Verfahren haben) zu betreiben oder um Informationen zu ersuchen, deren Erheblichkeit hinsichtlich der Steuerbelange einer bestimmten steuerpflichtigen Person unwahrscheinlich ist. Es besteht Einvernehmen darüber, dass der Geltungsbereich für den Informationsaustausch nach diesem Abkommen spekulative Auskunftsersuchen, die keinen ersichtlichen Bezug zu einer offenen Untersuchung oder zu einem offenen Verfahren haben, nicht einschliesst. Während Absatz 2 wichtige verfahrenstechnische Anforderungen enthält, die «fishing expeditions» vermeiden sollen, sind die Ziffern 1–5 von Absatz 2 nicht so auszulegen, dass sie einen wirksamen Informationsaustausch behindern.
+- 4) Es besteht Einvernehmen darüber, dass Artikel 26 (Informationsaustausch) die Vertragsstaaten nicht dazu verpflichtet, Informationen auf automatischer oder spontaner Basis auszutauschen. Er verhindert solche Formen des Informationsaustauschs aber auch nicht, wenn dies zwischen den Vertragsstaaten so vereinbart wird.
+- 5) Es besteht Einvernehmen darüber, dass im Fall des Austauschs von Informationen, die im ersuchten Staat geltenden Bestimmungen des Verwaltungsverfahrensrechts über die Rechte der Steuerpflichtigen vorbehalten bleiben. Es besteht im Weiteren Einvernehmen darüber, dass diese Bestimmungen dazu dienen, der steuerpflichtigen Person ein ordnungsgemässes Verfahren zu gewähren, und nicht bezwecken, den Informationsaustausch zu verhindern oder übermässig zu verzögern.
 
 *Zu Urkund dessen* haben die hierzu gehörig bevollmächtigten Unterzeichneten dieses Protokoll unterschrieben.
 
@@ -508,3 +583,15 @@ Geschehen zu Belgrad am 13. April 2005 im Doppel in französischer, serbischer u
 <table>
 <tr><td>Für den Schweizerischen Bundesrat: Wilhelm Meier</td><td>Für den Ministerrat von Serbien und Montenegro: Predrag Ivanovic</td></tr>
 </table>
+
+## Artikel 12 Absätze 2 und 3 des Prot. vom 19. Sept. 2023
+
+[^annexu1-lvlu2-1]
+
+[^t-3]: Bereinigt durch Art. 10 und 11 des Prot. vom 19. Sept. 2023, von der BVers genehmigt am 20. Dez. 2024 und in Kraft seit 18. juli 2025 ([AS 2025 490](https://fedlex.data.admin.ch/eli/oc/2025/490), [489](https://fedlex.data.admin.ch/eli/oc/2025/489); [BBl 2024 1007](https://fedlex.data.admin.ch/eli/fga/2024/1007)).
+[^t-4]: Heute: Serbien (siehe Art. 2 erstes Lemma des Prot. vom 19. Sept. 2023, AS 2025 490)
+[^annexu1-lvlu2-1]: [AS 2025 490](https://fedlex.data.admin.ch/eli/oc/2025/490), [489](https://fedlex.data.admin.ch/eli/oc/2025/489); [BBl 2024 1007](https://fedlex.data.admin.ch/eli/fga/2024/1007)
+
+\2. Dieses Protokoll tritt am Tag des Eingangs der späteren dieser beiden Notifikationen in Kraft und seine Bestimmungen sind hinsichtlich der Steuern vom Einkommen und vom Vermögen auf Steuerjahre anwendbar, die am oder nach dem 1. Januar des auf das Inkrafttreten des Protokolls folgenden Kalenderjahres beginnen.
+
+\3. Ungeachtet von Absatz 2 sind die in den Artikeln 8 und 11 dieses Protokolls vorgesehenen Änderungen zu Artikel 26 (Informationsaustausch) auf Informationen anwendbar, die sich auf Steuerjahre beziehen, die am oder nach dem 1. Januar des auf das Inkrafttreten des Protokolls folgenden Kalenderjahres beginnen.

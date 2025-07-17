@@ -3,36 +3,40 @@ sr: "0.672.968.21"
 title: Convenzione del 13 aprile 2005 tra il Consiglio federale svizzero e il Consiglio dei Ministri della Serbia e Montenegro per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio (Versione con Serbia)(con Prot.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/480"
 language: it
-version: 2011-01-01
+version: 2025-07-18
 adopted: 2005-04-13
 in_force: 2006-05-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/480/20110101/it/xml/fedlex-data-admin-ch-eli-cc-2006-480-20110101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/480/20110101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/480/20250718/it/xml/fedlex-data-admin-ch-eli-cc-2006-480-20250718-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/480/20250718/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Convenzione tra il Consiglio federale svizzero e il Consiglio dei Ministri della Serbia e Montenegro per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio****
+# Convenzione tra il Consiglio federale svizzero e il Consiglio dei Ministri della Serbia e Montenegro per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio
 
 RU **2006** 3067; FF **2005** 4747[^t-1]
 
-Traduzione*[^t-2]*
+Traduzione
 
-Conclusa il 13 aprile 2005 Approvata dall’Assemblea federale il 7 marzo 2006[^t-3]
+(Versione con la Serbia)
+
+Conclusa il 13 aprile 2005 Approvata dall’Assemblea federale il 7 marzo 2006[^t-2]
 
 Entrata in vigore con scambio di note il 5 maggio 2006
 
-(Stato 1° gennaio 2011)
+(Stato 18 luglio 2025)
 
-[^t-1]: La validità della presente Conv. nei rapporti con il Montenegro é stata confermata (vedi [RU 2008 1747](https://fedlex.data.admin.ch/eli/oc/2008/254)). La presente Conv. non é più applicabile nei rapporti del Kosovo (vedi [RU 2010 1203](https://fedlex.data.admin.ch/eli/oc/2010/167)).
-[^t-2]: Il testo originale francese è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
-[^t-3]: [RU 2006 3065](https://fedlex.data.admin.ch/eli/oc/2006/479)
+[^t-1]: La validità della presente Conv. nei rapporti con il Montenegro é stata confermata (vedi [RU 2008 1747](https://fedlex.data.admin.ch/eli/oc/2008/254)) ed è valido nella versione originale (v. [RS 0.672.957.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2643)). La presente Conv. non é più applicabile nei rapporti del Kosovo (v. [RU 2010 1203](https://fedlex.data.admin.ch/eli/oc/2010/167)).
+[^t-2]: [RU 2006 3065](https://fedlex.data.admin.ch/eli/oc/2006/479)
 
-Il Consiglio federale svizzero e il Consiglio dei Ministri della Serbia e Montenegro,
+Il Consiglio federale svizzero e il Governo della Repubblica di Serbia,
 
-animati dal desiderio di concludere una convenzione per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio,
+desiderosi di concludere un Protocollo che modifica la Convenzione tra il Consiglio federale svizzero e il Consiglio dei Ministri della Serbia e Montenegro per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio (di seguito «Convenzione») e il suo Protocollo (di seguito «Protocollo della Convenzione»), firmata a Belgrado il 13 aprile 2005[^ingress-1],
 
-hanno convenuto quanto segue:
+hanno convenuto quanto segue:[^ingress-2]
+
+[^ingress-1]: [RS 0.672.968.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2669)
+[^ingress-2]: Nuovo testo giusta l’art. 1 del Prot del 19 set. 2023, approvato dall’AF il 20 dic. 2024, in vigore dal 18 lug. 2025 ([RU 2025 490](https://fedlex.data.admin.ch/eli/oc/2025/490), [489](https://fedlex.data.admin.ch/eli/oc/2025/489); [FF 2024 1007](https://fedlex.data.admin.ch/eli/fga/2024/1007)).
 
 #### Art. 1
 
@@ -48,7 +52,9 @@ La presente Convenzione si applica alle persone che sono residenti di uno o di e
 
 <sup>2.</sup> Sono considerate imposte sul reddito e sul patrimonio le imposte prelevate sul reddito complessivo, sul patrimonio complessivo o su elementi del reddito o del patrimonio, comprese le imposte sugli utili derivanti dall’alienazione di beni mobili o immobili, le imposte sull’ammontare complessivo degli stipendi e le imposte sulle plusvalenze.
 
-<sup>3.</sup> Le imposte attuali cui si applica la Convenzione sono in particolare
+<sup>3.</sup>
+
+Le imposte attuali cui si applica la Convenzione sono in particolare:
 
 - (1)
 
@@ -60,11 +66,8 @@ La presente Convenzione si applica alle persone che sono residenti di uno o di e
   - – l’imposta sui redditi derivanti dai trasporti internazionali,
 
 - (qui di seguito indicate quali «imposta serbo-montenegrina»);
-- (2)
-
-  per quanto concerne la Svizzera:
-
-  - [tab] le imposte federali, cantonali e comunali
+- (2) per quanto concerne la Svizzera:
+- le imposte federali, cantonali e comunali
   - – sul reddito (reddito complessivo, reddito del lavoro, reddito del patrimonio, utili industriali e commerciali, utili di capitale e altri redditi); e
   - – sul patrimonio (patrimonio complessivo, patrimonio mobiliare e immobiliare, patrimonio industriale e commerciale, capitale e riserve e altri elementi del patrimonio);
 
@@ -82,7 +85,7 @@ La presente Convenzione si applica alle persone che sono residenti di uno o di e
 
 Ai fini della presente Convenzione:
 
-- (1) l’espressione «Serbia e Montenegro» designa l’Unione degli Stati di Serbia e Montenegro e comprende, se usata in senso geografico, il territorio della Serbia e Montenegro, le acque territoriali e le acque interne, lo spazio aereo sovrastante come pure il suolo e il sottosuolo della zona di mare al di fuori dalle acque territoriali, su cui la Serbia e Montenegro secondo la propria legislazione e conformemente al diritto internazionale esercita i propri diritti sovrani ai fini dell’esplorazione e dello sfruttamento delle risorse naturali;
+- (1) l’espressione «Serbia e Montenegro»[^3-1] designa l’Unione degli Stati di Serbia e Montenegro e comprende, se usata in senso geografico, il territorio della Serbia e Montenegro, le acque territoriali e le acque interne, lo spazio aereo sovrastante come pure il suolo e il sottosuolo della zona di mare al di fuori dalle acque territoriali, su cui la Serbia e Montenegro secondo la propria legislazione e conformemente al diritto internazionale esercita i propri diritti sovrani ai fini dell’esplorazione e dello sfruttamento delle risorse naturali;
 - (2) il termine «Svizzera» designa la Confederazione Svizzera;
 - (3) le espressioni «uno Stato contraente» e «l’altro Stato contraente» designano, secondo il contesto, la Serbia e Montenegro o la Svizzera;
 - (4) il termine «persona» comprende le persone fisiche, le società e tutte le altre associazioni di persone;
@@ -91,7 +94,7 @@ Ai fini della presente Convenzione:
 - (7) per «traffico internazionale» s’intende qualsiasi attività di trasporto effettuata per mezzo di una nave, di un aeromobile o di un veicolo stradale da parte di un’impresa la cui sede di direzione effettiva è situata in uno Stato contraente, ad eccezione del caso in cui la nave, l’aeromobile o il veicolo stradale sia utilizzato esclusivamente tra località situate nell’altro Stato contraente;
 - (8)
 
-  l’espressione «autorità competente» designa:
+  l’espressione «autorità competente»[^3-2] designa:
 
   - – per quanto concerne la Serbia e Montenegro, il Ministero per le relazioni economiche internazionali o il suo rappresentante autorizzato,
   - – per quanto concerne la Svizzera, il direttore dell’Amministrazione federale delle contribuzioni o il suo rappresentante autorizzato;
@@ -104,6 +107,9 @@ Ai fini della presente Convenzione:
   - – tutte le persone giuridiche, le società di persone e le altre associazioni costituite conformemente alla legislazione in vigore in uno Stato contraente.
 
 <sup>2.</sup> Per l’applicazione della Convenzione da parte di uno Stato contraente, le espressioni non diversamente definite hanno il significato che ad esse è attribuito nel momento in cui la Convenzione è applicata conformemente alla legislazione di detto Stato relativa alle imposte oggetto della Convenzione, tenuto conto che il senso attribuito a queste espressioni dalla legislazione tributaria di questo Stato prevale sul senso loro attribuito da altre leggi dello stesso Stato.
+
+[^3-1]: L’espressione «Serbia e Montenegro» menzionata nella Convenzione e nel Protocollo della Convenzione designa, nel quadro delle relazioni tra la Svizzera e la Repubblica di Serbia, la Repubblica di Serbia o il territorio della Repubblica di Serbia ([RU 2025 490](https://fedlex.data.admin.ch/eli/oc/2025/490)art. 2, [1](https://fedlex.data.admin.ch/eli/oc/2025/1)° lemma).
+[^3-2]: L’espressione «autorità competente» menzionata nella Convenzione designa, per quanto concerne la Serbia, il Ministero delle finanze o il suo rappresentante autorizzato, a meno che il contesto non richieda una diversa interpretazione ([RU 2025 490](https://fedlex.data.admin.ch/eli/oc/2025/490)art. 2, [2](https://fedlex.data.admin.ch/eli/oc/2025/2)° lemma).
 
 #### Art. 4
 
@@ -186,7 +192,12 @@ Nonostante le precedenti disposizioni del presente articolo non sono considerate
 
 <sup>6.</sup> Ai fini dell’applicazione dei paragrafi precedenti, gli utili da attribuire alla stabile organizzazione sono determinati annualmente con lo stesso metodo, salvo che esistano validi e sufficienti motivi per procedere diversamente.
 
-<sup>7.</sup> Quando gli utili comprendono elementi di reddito considerati separatamente in altri articoli della presente Convenzione, le disposizioni di tali articoli non sono pregiudicate da quelle del presente articolo.
+<sup>7.</sup> Uno Stato contraente non può eseguire una rettifica degli utili attribuibili a una stabile organizzazione di un’impresa di uno Stato contraente decorsi cinque anni dalla fine dell’anno fiscale in cui gli utili sarebbero stati attribuibili alla stabile organizzazione. Le disposizioni del presente paragrafo non sono applicabili in caso di frode, negligenza grave od omissione volontaria.[^7-1]
+
+<sup>8.</sup> Quando gli utili comprendono elementi di reddito considerati separatamente in altri articoli della presente Convenzione, le disposizioni di tali articoli non sono pregiudicate da quelle del presente articolo.[^7-2]
+
+[^7-1]: Introdotto dall’art. 3 del Prot del 19 set. 2023, approvato dall’AF il 20 dic. 2024, in vigore dal 18 lug. 2025 ([RU 2025 490](https://fedlex.data.admin.ch/eli/oc/2025/490), [489](https://fedlex.data.admin.ch/eli/oc/2025/489); [FF 2024 1007](https://fedlex.data.admin.ch/eli/fga/2024/1007)).
+[^7-2]: Originario par. 7.
 
 #### Art. 8
 
@@ -209,9 +220,11 @@ e, nell’uno e nell’altro caso, le due imprese, nelle loro relazioni commerci
 - (1) un’impresa di uno Stato contraente partecipa, direttamente o indirettamente, alla direzione, al controllo o al capitale di un’impresa dell’altro Stato contraente, o
 - (2) le medesime persone partecipano, direttamente o indirettamente, alla direzione, al controllo o al capitale di un’impresa di uno Stato contraente e di un’impresa dell’altro Stato contraente,
 
-<sup>2.</sup> Quando utili in base ai quali un’impresa di uno Stato contraente è stata imposta in questo Stato sono inclusi anche negli utili di un’impresa dell’altro Stato contraente e tassati in conseguenza, e gli utili così inclusi sono utili che sarebbero stati conseguiti dall’impresa dell’altro Stato contraente se le condizioni convenute tra le due imprese fossero state quelle che sarebbero state fissate tra imprese indipendenti, le autorità competenti degli Stati contraenti possono consultarsi in vista di raggiungere un accordo sugli adeguamenti da apportare agli utili nei due Stati contraenti.
+<sup>2.</sup> Quando uno Stato contraente include negli utili di un’impresa di questo Stato, e tassa di conseguenza, utili sui quali un’impresa dell’altro Stato contraente è stata tassata in questo altro Stato e gli utili così inclusi sono utili che sarebbero stati conseguiti dall’impresa del primo Stato se le condizioni convenute tra le due imprese fossero state quelle che sarebbero state fissate tra imprese indipendenti, l’altro Stato procede a una rettifica appropriata dell’ammontare d’imposta prelevato su questi utili. Per determinare la rettifica occorre tener conto delle altre disposizioni della presente Convenzione; se necessario, le autorità competenti degli Stati contraenti si consultano.[^9-1]
 
 <sup>3.</sup> Uno Stato contraente non rettificherà gli utili di un’impresa nei casi previsti dal paragrafo 1 dopo lo spirare dei termini previsti dalla sua legislazione nazionale e, in ogni caso, non dopo lo spirare di cinque anni a partire dalla fine dell’anno in cui gli utili oggetto di tale rettifica sarebbero stati conseguiti da un’impresa di questo Stato. Il presente paragrafo non è applicabile in caso di frode od omissione intenzionale.
+
+[^9-1]: Nuovo testo giusta l’art. 4 del Prot del 19 set. 2023, approvato dall’AF il 20 dic. 2024, in vigore dal 18 lug. 2025 ([RU 2025 490](https://fedlex.data.admin.ch/eli/oc/2025/490), [489](https://fedlex.data.admin.ch/eli/oc/2025/489); [FF 2024 1007](https://fedlex.data.admin.ch/eli/fga/2024/1007)).
 
 #### Art. 10
 
@@ -276,9 +289,11 @@ Tuttavia, tali dividendi sono imponibili anche nello Stato contraente di cui la 
 
 <sup>3.</sup> Gli utili derivanti dall’alienazione di navi, aeromobili o veicoli stradali impiegati nel traffico internazionale e di beni mobili adibiti al loro esercizio sono imponibili soltanto nello Stato contraente in cui è situata la sede della direzione effettiva dell’impresa.
 
-<sup>4.</sup> Gli utili derivanti dall’alienazione di partecipazioni al capitale di un’impresa i cui beni consistono, direttamente o indirettamente, essenzialmente in beni immobili situati in uno Stato contraente sono imponibili in questo Stato contraente.
+<sup>4.</sup> Gli utili che un residente di uno Stato contraente ritrae dall’alienazione di azioni o partecipazioni comparabili, il cui valore supera direttamente o indirettamente il 50 per cento dei beni immobili situati nell’altro Stato contraente, sono imponibili in questo altro Stato.[^13-1]
 
 <sup>5.</sup> Gli utili derivanti dall’alienazione di ogni altro bene diverso da quelli indicati ai paragrafi 1, 2, 3 e 4 sono imponibili soltanto nello Stato contraente di cui l’alienante è residente.
+
+[^13-1]: Nuovo testo giusta l’art. 5 del Prot del 19 set. 2023, approvato dall’AF il 20 dic. 2024, in vigore dal 18 lug. 2025 ([RU 2025 490](https://fedlex.data.admin.ch/eli/oc/2025/490), [489](https://fedlex.data.admin.ch/eli/oc/2025/489); [FF 2024 1007](https://fedlex.data.admin.ch/eli/fga/2024/1007)).
 
 #### Art. 14
 
@@ -374,13 +389,13 @@ Fatte salve le disposizioni dell’articolo 19 paragrafo 2, le pensioni e le alt
 
 <sup>1.</sup>
 
-Per quanto concerne la Serbia e Montenegro, la doppia imposizione è evitata nel modo seguente:
+Per quanto concerne la Serbia e Montenegro[^23-1], la doppia imposizione è evitata nel modo seguente:
 
 - (1) qualora un residente della Serbia e Montenegro ritragga redditi o possieda un patrimonio che, secondo la presente Convenzione, sono imponibili in Svizzera, la Serbia e Montenegro concede,
   - – sull’imposta che preleva sul reddito di detto residente, una deduzione pari all’imposta sul reddito pagata in Svizzera;
   - – sull’imposta che preleva sul patrimonio di detto residente, una deduzione pari all’imposta sul patrimonio pagata in Svizzera.
 
-- [tab] In ambedue i casi, l’ammontare computato non può tuttavia eccedere la frazione dell’imposta sul reddito o sul patrimonio, calcolata prima del computo, corrispondente ai redditi o al patrimonio imponibili in Svizzera.
+- In ambedue i casi, l’ammontare computato non può tuttavia eccedere la frazione dell’imposta sul reddito o sul patrimonio, calcolata prima del computo, corrispondente ai redditi o al patrimonio imponibili in Svizzera.
 - (2) Qualora un residente della Serbia e Montenegro ritragga redditi o possieda un patrimonio che, secondo le disposizioni della presente Convenzione, sono esenti dall’imposta in questo Stato, la Serbia e Montenegro può nondimeno tener conto di questi redditi o di questo patrimonio esenti dall’imposta per determinare l’imposta afferente al rimanente reddito o al rimanente patrimonio di questo residente.
 
 <sup>2.</sup>
@@ -396,8 +411,12 @@ Per quanto concerne la Svizzera, la doppia imposizione è evitata nel modo segue
   - – riduzione forfettaria dell’imposta svizzera; o
   - – esenzione parziale dall’imposta svizzera dei dividendi, degli interessi o dei canoni di cui si tratta, pari almeno all’imposta prelevata in Serbia e Montenegro sull’ammontare lordo dei dividendi, degli interessi o dei canoni.
 
-- [tab] La Svizzera determina il tipo di sgravio applicabile e regola la procedura conformemente alle prescrizioni svizzere sull’applicazione delle convenzioni internazionali stipulate dalla Confederazione Svizzera per evitare le doppie imposizioni.
+- La Svizzera determina il tipo di sgravio applicabile e regola la procedura conformemente alle prescrizioni svizzere sull’applicazione delle convenzioni internazionali stipulate dalla Confederazione Svizzera per evitare le doppie imposizioni.
 - (3) Una società residente della Svizzera che riceve dividendi da una società residente della Serbia e Montenegro fruisce, per quanto concerne la riscossione dell’imposta svizzera afferente a detti dividendi, dei medesimi vantaggi di cui beneficerebbe se la società che paga i dividendi fosse residente della Svizzera.
+- (4)[^23-2] Il numero (1) non si applica nella misura in cui, conformemente alle disposizioni svizzere relative all’imposizione minima dei grandi gruppi di imprese adottate sulla base delle prescrizioni modello GloBE (Global Anti-Base Erosion Model Rules «Pillar Two»), un’imposta integrativa («top‑up tax») deve essere riscossa presso un residente della Svizzera in qualità di stabile organizzazione situata in Serbia per l’anno fiscale in questione.
+
+[^23-1]: Attualmente: Serbia (v. l’art. 2, 1° lemma del Prot del 19 set. 2023, [RU 2025 490](https://fedlex.data.admin.ch/eli/oc/2025/490)).
+[^23-2]: Introdotto dall’art. 6 del Prot del 19 set. 2023, approvato dall’AF il 20 dic. 2024, in vigore dal 18 lug. 2025 ([RU 2025 490](https://fedlex.data.admin.ch/eli/oc/2025/490), [489](https://fedlex.data.admin.ch/eli/oc/2025/489); [FF 2024 1007](https://fedlex.data.admin.ch/eli/fga/2024/1007)).
 
 #### Art 24
 
@@ -411,7 +430,9 @@ Per quanto concerne la Svizzera, la doppia imposizione è evitata nel modo segue
 
 <sup>4.</sup> Le imprese di uno Stato contraente, il cui capitale è, in tutto o in parte, direttamente o indirettamente posseduto o controllato da uno o più residenti dell’altro Stato contraente, non sono assoggettate nel primo Stato ad alcuna imposizione o ad alcun obbligo ad essa relativo, diversi o più onerosi di quelli cui sono o potranno essere assoggettate altre imprese analoghe del primo Stato.
 
-<sup>5.</sup> Le disposizioni del presente articolo si applicano alle imposte di cui all’articolo 2.
+<sup>5.</sup> Le disposizioni del presente articolo si applicano alle imposte di ogni natura e denominazione nonostante le disposizioni dell’articolo 2.[^24-1]
+
+[^24-1]: Nuovo testo giusta l’art. 7 del Prot del 19 set. 2023, approvato dall’AF il 20 dic. 2024, in vigore dal 18 lug. 2025 ([RU 2025 490](https://fedlex.data.admin.ch/eli/oc/2025/490), [489](https://fedlex.data.admin.ch/eli/oc/2025/489); [FF 2024 1007](https://fedlex.data.admin.ch/eli/fga/2024/1007)).
 
 #### Art. 25
 
@@ -427,11 +448,25 @@ Per quanto concerne la Svizzera, la doppia imposizione è evitata nel modo segue
 
 #### Art. 26
 
-**Scambio di informazioni**
+**Scambio di informazioni**[^26-1]
 
-<sup>1.</sup> Le autorità competenti degli Stati contraenti potranno scambiarsi le informazioni (che le legislazioni fiscali degli Stati contraenti permettono di ottenere nel quadro della normale prassi amministrativa) necessarie per l’applicazione delle disposizioni della presente Convenzione relative alle imposte oggetto della presente Convenzione. Le informazioni così scambiate devono essere tenute segrete e potranno essere rivelate soltanto alle persone incaricate dell’accertamento o della riscossione delle imposte alle quali si riferisce la presente Convenzione. Non potranno essere scambiate informazioni suscettibili di rivelare segreti commerciali o d’affari, bancari, industriali o professionali oppure metodi commerciali.
+<sup>1.</sup> Le autorità competenti degli Stati contraenti si scambiano le informazioni verosimilmente rilevanti per l’esecuzione della presente Convenzione oppure per l’applicazione o l’esecuzione della legislazione nazionale relativa alle imposte di ogni natura e denominazione riscosse per conto degli Stati contraenti, delle loro suddivisioni politiche o dei loro enti locali nella misura in cui l’imposizione prevista non è contraria alla Convenzione. Lo scambio di informazioni non è limitato dagli articoli 1 e 2.
 
-<sup>2.</sup> Le disposizioni del paragrafo 1 non potranno in nessun caso essere interpretate nel senso di imporre a uno Stato contraente l’obbligo di adottare misure amministrative in deroga alla regolamentazione o alla prassi amministrativa di uno o dell’altro Stato contraente, ovvero contrarie alla sua sovranità, alla sua sicurezza o all’ordine pubblico oppure di fornire informazioni che non possano essere ottenute in base alla sua legislazione e a quella dello Stato contraente che le chiede.
+<sup>2.</sup> Le informazioni ottenute in virtù del paragrafo 1 da uno Stato contraente sono tenute segrete allo stesso modo di quelle ottenute in applicazione della legislazione di questo Stato e sono accessibili soltanto alle persone o autorità (compresi i tribunali e gli organi amministrativi) incaricate dell’accertamento o della riscossione delle imposte di cui al paragrafo 1, dell’esecuzione o del perseguimento penale relativi a tali imposte, della decisione in merito ai ricorsi concernenti tali imposte o del controllo di quanto precede. Dette persone o autorità possono utilizzare le informazioni unicamente per questi fini. Possono rivelarle nell’ambito di una procedura giudiziaria pubblica o in una decisione giudiziaria. Nonostante le disposizioni precedenti, uno Stato contraente può utilizzare le informazioni ricevute per altri fini, se ciò è previsto dalla legislazione di entrambi gli Stati e se l’autorità competente dello Stato richiesto ne ha approvato l’impiego.
+
+<sup>3.</sup>
+
+Le disposizioni dei paragrafi 1 e 2 non possono essere interpretate nel senso che facciano obbligo a uno Stato contraente di:
+
+- (1) eseguire misure amministrative in deroga alla sua legislazione e alla sua prassi amministrativa o a quelle dell’altro Stato contraente;
+- (2) fornire informazioni che non possono essere ottenute in virtù della sua legislazione o nell’ambito della sua normale prassi amministrativa oppure di quelle dell’altro Stato contraente;
+- (3) fornire informazioni che potrebbero rivelare segreti commerciali o d’affari, industriali o professionali oppure metodi commerciali o informazioni la cui comunicazione sarebbe contraria all’ordine pubblico.
+
+<sup>4.</sup> Qualora uno Stato contraente chieda informazioni ai sensi del presente articolo, l’altro Stato contraente usa i poteri a sua disposizione per ottenerle, anche qualora non gli fossero utili per fini fiscali propri. L’obbligo di cui al periodo precedente è soggetto alle limitazioni previste nel paragrafo 3, che tuttavia non possono essere interpretate in nessun caso come la facoltà di uno Stato contraente di rifiutare la comunicazione di informazioni unicamente perché, per tali informazioni, non sussiste alcun interesse nazionale.
+
+<sup>5.</sup> In nessun caso le disposizioni del paragrafo 3 possono essere interpretate come la facoltà di uno Stato contraente di rifiutare la comunicazione di informazioni unicamente perché tali informazioni sono detenute da una banca, un altro istituto finanziario, un mandatario o una persona operante come agente o fiduciario oppure perché dette informazioni si rifanno ai diritti di proprietà di una persona.
+
+[^26-1]: Nuovo testo giusta l’art. 8 del Prot del 19 set. 2023, approvato dall’AF il 20 dic. 2024, in vigore dal 18 lug. 2025 ([RU 2025 490](https://fedlex.data.admin.ch/eli/oc/2025/490), [489](https://fedlex.data.admin.ch/eli/oc/2025/489); [FF 2024 1007](https://fedlex.data.admin.ch/eli/fga/2024/1007)).
 
 #### Art. 27
 
@@ -450,33 +485,47 @@ Nonostante le disposizioni dell’articolo 4, ogni persona fisica che è membro 
 
 #### Art. 28
 
-**Entrata in vigore**
+**Diritto ai benefici**[^28-1]
+
+Nonostante le altre disposizioni della presente Convenzione, un beneficio ai sensi della presente Convenzione non è concesso in relazione a un elemento di reddito o di patrimonio se è ragionevole concludere, tenuto conto di tutti i fatti e di tutte le circostanze pertinenti, che l’ottenimento di tale beneficio era uno degli scopi principali di qualsiasi accordo, strumento o transazione che ha portato direttamente o indirettamente a tale beneficio, a meno che venga stabilito che la concessione di tale beneficio in dette circostanze sarebbe conforme all’oggetto e allo scopo delle pertinenti disposizioni della presente Convenzione.
+
+[^28-1]: Introdotto dall’art. 9 del Prot del 19 set. 2023, approvato dall’AF il 20 dic. 2024, in vigore dal 18 lug. 2025 ([RU 2025 490](https://fedlex.data.admin.ch/eli/oc/2025/490), [489](https://fedlex.data.admin.ch/eli/oc/2025/489); [FF 2024 1007](https://fedlex.data.admin.ch/eli/fga/2024/1007)).
+
+#### Art. 29
+
+**Entrata in vigore**[^29-1]
 
 <sup>1.</sup> I due Stati contraenti si notificheranno vicendevolmente per via diplomatica che sono adempiuti i presupposti legali interni necessari all’entrata in vigore della presente Convenzione. La Convenzione entra in vigore il giorno in cui perviene l’ultima di queste notificazioni.
 
 <sup>2.</sup> Le disposizioni della presente Convenzione si applicano alle imposte sul reddito e sul patrimonio conseguiti o posseduti negli anni fiscali che iniziano il, o dopo il, 1° gennaio dell’anno civile successivo a quello dell’entrata in vigore della Convenzione.
 
-<sup>3.</sup> Lo scambio di note del 4 novembre e del 29 dicembre 1964[^28-1] tra la Confederazione Svizzera e la Repubblica Socialista Federativa di Jugoslavia concernente l’imposizione delle imprese di navigazione marittima o aerea sarà abrogato, per quanto riguarda le relazioni bilaterali tra la Serbia e Montenegro e la Svizzera, alla data dell’entrata in vigore della presente Convenzione.
+<sup>3.</sup> Lo scambio di note del 4 novembre e del 29 dicembre 1964[^29-2] tra la Confederazione Svizzera e la Repubblica Socialista Federativa di Jugoslavia concernente l’imposizione delle imprese di navigazione marittima o aerea sarà abrogato, per quanto riguarda le relazioni bilaterali tra la Serbia e Montenegro[^29-3] e la Svizzera, alla data dell’entrata in vigore della presente Convenzione.
 
-[^28-1]: [RS 0.672.981.85](https://fedlex.data.admin.ch/eli/cc/1965/365_373_369)
+[^29-1]: Originario art. 28.
+[^29-2]: [RS 0.672.981.85](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2695)
+[^29-3]: Attualmente: Serbia (v. l’art. 2 del Prot del 19 set. 2023, [RU 2025 490](https://fedlex.data.admin.ch/eli/oc/2025/490)).
 
-#### Art. 29
+#### Art. 30
 
-**Disdetta**
+**Disdetta**[^30-1]
 
 La presente Convenzione rimane in vigore sino alla denuncia da parte di uno degli Stati contraenti. Ciascuno Stato contraente può denunciare la Convenzione per via diplomatica con un preavviso minimo di sei mesi, prima della fine di ciascun anno civile. In tal caso la Convenzione cessa di essere applicabile alle imposte sul reddito e sul patrimonio conseguiti o posseduti negli anni fiscali che iniziano il, o dopo il, 1° gennaio dell’anno civile successivo a quello in cui è stata notificata la denuncia.
 
-*In fede di che*, i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato la presente Convenzione. Fatto a Belgrado, il 13 aprile 2005, in duplice esemplare nelle lingue francese, serba e inglese, ciascun testo facente egualmente fede. In caso di divergenza d’interpretazione fra il testo francese e quello serbo, prevale il testo inglese. Per il Consiglio federale svizzero: Per il Consiglio dei Ministri della Serbia e Montenegro: Wilhelm Meier Predrag Ivanovic
+[^30-1]: Originario art. 29.
 
-Il Consiglio federale svizzero e il Consiglio dei Ministri della Serbia e Montenegro
+*In fede di che*, i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato la presente Convenzione. Fatto a Belgrado, il 13 aprile 2005, in duplice esemplare nelle lingue francese, serba e inglese, ciascun testo facente egualmente fede. In caso di divergenza d’interpretazione fra il testo francese e quello serbo, prevale il testo inglese. Per il Consiglio federale svizzero: Wilhelm Meier Per il Consiglio dei Ministri della Serbia e Montenegro: Predrag Ivanovic
+
+Protocollo[^t-3]
+
+Il Consiglio federale svizzero e il Consiglio dei Ministri della Serbia e Montenegro[^t-4]
 
 il 13 aprile 2005, all’atto della firma della Convenzione conclusa a Belgrado fra i due Stati per evitare le doppie imposizioni in materia d’imposte sul reddito e sul patrimonio, hanno convenuto le seguenti disposizioni che formano parte integrante della Convenzione:
 
-**1. Ad articoli 2, 4 e 19**
+\1. Ad articoli 2, 4 e 19
 
 L’espressione «suddivisioni politiche» designa gli Stati membri dell’Unione degli Stati di Serbia e Montenegro.
 
-**2. Ad articolo 7**
+\2. Ad articolo 7
 
 Con riferimento all’articolo 7 paragrafi 1 e 2, resta inteso che, qualora un’impresa di uno Stato contraente venda merci o eserciti un’altra attività nell’altro Stato contraente per mezzo di una stabile organizzazione ivi situata, gli utili di detta stabile organizzazione non sono determinati in base all’importo complessivo conseguito dall’impresa, bensì soltanto in base alla parte dell’importo complessivo attribuibile all’attività effettivamente svolta dalla stabile organizzazione per queste vendite o per quest’altra attività.
 
@@ -484,29 +533,59 @@ Nei casi di contratti di vigilanza, di fornitura, di montaggio o di costruzione 
 
 Gli utili afferenti alla parte del contratto eseguita dalla sede principale dell’impresa sono imponibili soltanto nello Stato di cui quest’impresa è residente.
 
-**3. Ad articolo 8**
+\3. Ad articolo 8
 
 Resta inteso che l’imposta serbo-montenegrina sui redditi derivanti dai trasporti internazionali di cui all’articolo 2 paragrafo 3 numero (1) non è riscossa sugli utili che un’impresa, la cui sede della direzione effettiva è situata in Svizzera, ritrae dall’esercizio in traffico internazionale di navi, aeromobili e veicoli stradali.
 
-**4. Ad articolo 12**
+\4. Ad articolo 12
 
 Con riferimento al paragrafo 2, resta inteso che, fino a quando la Svizzera non trattiene secondo la legislazione nazionale l’imposta alla fonte sui canoni pagati a persone non residenti, questa disposizione non è applicabile e i canoni possono essere tassati esclusivamente nello Stato di cui è residente il beneficiario effettivo dei canoni.
 
-**5. Ad articoli 18 e 19**
+\5. Ad articolo 13
+
+Con riferimento al nuovo paragrafo 4, resta inteso che l’espressione «partecipazioni comparabili» comprende partecipazioni in una società che riveste la forma di una società a garanzia limitata («limited liability company») costituita secondo il diritto serbo.
+
+\6. Ad articoli 18 e 19
 
 Resta inteso che il termine «pensioni» di cui agli articoli 18 e 19 non comprende soltanto pagamenti ricorrenti, ma anche prestazioni forfettarie.
 
-**6. Ad articolo 19**
+\7. Ad articolo 19
 
 Resta inteso che le disposizioni dell’articolo 19 paragrafo 1 numeri (1) e (2) si applicano ai salari, agli stipendi e alle altre rimunerazioni analoghe corrisposti dalla Serbia e Montenegro, da una sua suddivisione politica o da un suo ente locale a insegnanti serbo-montenegrini per l’attività didattica svolta in Svizzera.
+
+\8. Ad articolo 26
+
+- 1) Resta inteso che lo Stato richiedente presenta una domanda di scambio di informazioni soltanto dopo aver esaurito le fonti d’informazione usuali secondo la sua procedura fiscale interna, eccetto quelle che comportano difficoltà sproporzionate.
+- 2)
+
+  Resta inteso che nella domanda di assistenza amministrativa ai sensi dell’articolo 26 le autorità fiscali dello Stato richiedente forniscono le seguenti informazioni alle autorità fiscali dello Stato richiesto:
+
+  - (1) l’identità della persona oggetto di una verifica o di un’inchiesta;
+  - (2) il periodo oggetto della domanda;
+  - (3) una descrizione delle informazioni richieste, nonché indicazioni sulla forma nella quale lo Stato richiedente desidera ricevere tali informazioni dallo Stato richiesto;
+  - (4) lo scopo fiscale per cui le informazioni sono richieste;
+  - (5) se sono noti, il nome e l’indirizzo del detentore presunto delle informazioni richieste.
+
+- 3) Resta inteso che il riferimento alle informazioni «verosimilmente rilevanti» ha lo scopo di garantire uno scambio di informazioni in ambito fiscale il più ampio possibile, senza tuttavia consentire agli Stati contraenti di intraprendere una ricerca generalizzata e indiscriminata di informazioni («fishing expedition»; domande speculative che non possiedono un legame evidente con un’inchiesta o una verifica in corso) o di domandare informazioni la cui rilevanza in merito agli affari fiscali di un determinato contribuente non è verosimile. Resta inteso che il campo di applicazione dello scambio di informazioni in virtù della presente Convenzione non comprende le domande speculative che non possiedono un legame evidente con un’inchiesta o una verifica in corso. Sebbene il paragrafo 2) contenga importanti requisiti procedurali volti a impedire «fishing expeditions», i numeri (1)–(5) del paragrafo 2 devono essere interpretati in modo da non ostacolare uno scambio effettivo di informazioni.
+- 4) Resta inteso che l’articolo 26 (Scambio di informazioni) non impone agli Stati contraenti di procedere a uno scambio di informazioni spontaneo o automatico, ma non esclude nemmeno queste forme di scambio di informazioni se gli Stati contraenti dovessero adottarle.
+- 5) Resta inteso che nel caso di uno scambio di informazioni si applicano le norme di procedura amministrativa relative ai diritti del contribuente in vigore nello Stato richiesto. Resta inoltre inteso che queste norme servono a garantire al contribuente una procedura regolare e non mirano a ostacolare o ritardare indebitamente lo scambio di informazioni.
 
 *In fede di che*, i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato il presente Protocollo.
 
 Fatto a Belgrado, il 13 aprile 2005, in duplice esemplare nelle lingue francese, serba e inglese, ciascun testo facente egualmente fede. In caso di divergenza d’interpretazione fra il testo francese e quello serbo, prevale il testo inglese.
 
 <table>
-<tr><td>Per il Consiglio federale svizzero:</td><td>Per il Consiglio dei Ministri della Serbia e Montenegro:</td></tr>
-<tr><td>Wilhelm Meier</td><td>Predrag Ivanovic</td></tr>
+<tr><td>Per il Consiglio federale svizzero: Wilhelm Meier</td><td>Per il Consiglio dei Ministri della Serbia e Montenegro: Predrag Ivanovic</td></tr>
 </table>
 
-Protocollo
+## Art. 12 cpv. 2 e 3 del Prot. del 19 set. 2023
+
+[^annexu1-lvlu2-1]
+
+[^t-3]: Aggiornato dagli art. 10 e 11 del Prot del 19 set. 2023, approvato dall’AF il 20 dic. 2024, in vigore dal 18 lug. 2025 ([RU 2025 490](https://fedlex.data.admin.ch/eli/oc/2025/490), [489](https://fedlex.data.admin.ch/eli/oc/2025/489); [FF 2024 1007](https://fedlex.data.admin.ch/eli/fga/2024/1007)).
+[^t-4]: Attualmente: Serbia (v. l’art. 2, 1° lemma del Prot del 19 set. 2023, [RU 2025 490](https://fedlex.data.admin.ch/eli/oc/2025/490)).
+[^annexu1-lvlu2-1]: [RU 2025 490](https://fedlex.data.admin.ch/eli/oc/2025/490), [489](https://fedlex.data.admin.ch/eli/oc/2025/489); [FF 2024 1007](https://fedlex.data.admin.ch/eli/fga/2024/1007)
+
+\2. Il presente Protocollo entrerà in vigore alla data di ricezione dell’ultima di queste notifiche e le sue disposizioni si applicano, per quanto riguarda le imposte sul reddito e sul patrimonio, agli anni fiscali che iniziano il 1° gennaio dell’anno civile successivo a quello di entrata in vigore del Protocollo, o dopo tale data.
+
+\3. Nonostante le disposizioni del paragrafo 2, le modifiche effettuate dagli articoli 8 e 11 del presente Protocollo relative all’articolo 26 (Scambio di informazioni) si applicano alle informazioni concernenti gli anni fiscali che iniziano il 1° gennaio dell’anno civile successivo a quello di entrata in vigore del Protocollo, o dopo tale data.
