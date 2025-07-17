@@ -2,28 +2,27 @@
 canton: ZG
 number: "162.12"
 title: Verordnung über die Kosten im Verfahren vor dem Verwaltungsgericht
-short: KostenVO
+short: Kosten VO
 language: de
-version: 2024-10-11
-valid_until: 2025-07-17
-version_adopted: 2023-06-28
+version: 2025-07-18
+version_adopted: 2025-06-10
 adopted: 1977-08-30
 in_force: 1977-08-30
 url: "https://bgs.zg.ch/app/de/texts_of_law/162.12"
-pdf: "https://bgs.zg.ch/api/de/versions/2626/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2714/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Kosten im Verfahren vor dem Verwaltungsgericht
 
-(KostenVO)
+(Kosten VO)
 
-Vom 30. August 1977 (Stand 11. Oktober 2024)
+Vom 30. August 1977 (Stand 18. Juli 2025)
 
 Das Verwaltungsgericht des Kantons Zug,
 
-gestützt auf § 22 Abs. 2 des Gesetzes über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz; VRG) vom 1. April 1976[^ingress-1],
+gestützt auf § 22a Abs. 4 des Gesetzes über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz; VRG) vom 1. April 1976[^ingress-1],
 
 beschliesst:
 
@@ -37,7 +36,7 @@ beschliesst:
 
 <sup>1</sup> Das Verwaltungsgericht erhebt für die Deckung des Verfahrensaufwands und die Kosten des Entscheids eine pauschale Spruchgebühr; diese beträgt Fr. 400.– bis Fr. 15’000.–.
 
-<sup>2</sup> Sie ist nach dem Zeit- und Arbeitsaufwand des Gerichtes, der Wichtigkeit und Schwierigkeit der Sache sowie nach dem Streitwert oder den sonstigen Interessen der Parteien an der Beurteilung der Angelegenheit festzusetzen; soweit in sozialversicherungsrechtlichen Streitigkeiten eine Spruchgebühr erhoben werden darf, sind der Streitwert und die sonstigen Interessen der Parteien an der Beurteilung der Sache erst in zweiter Linie zu berücksichtigen.
+<sup>2</sup> Sie ist nach dem Zeit- und Arbeitsaufwand des Gerichts, der Wichtigkeit und Schwierigkeit der Sache sowie nach dem Streitwert oder den sonstigen Interessen der Parteien an der Beurteilung der Angelegenheit festzusetzen; soweit in sozialversicherungsrechtlichen Streitigkeiten eine Spruchgebühr erhoben werden darf, sind der Streitwert und die sonstigen Interessen der Parteien an der Beurteilung der Sache erst in zweiter Linie zu berücksichtigen.
 
 <sup>3</sup> In ausserordentlichen Fällen setzt das Gericht die Spruchgebühr nach den Bemessungsgrundsätzen des Absatzes 2 fest, ohne an die untere oder obere Bemessungsgrenze gebunden zu sein.
 
@@ -123,7 +122,7 @@ beschliesst:
 
 <sup>3</sup> In ausserordentlichen Fällen setzt das Gericht das Honorar nach den Bemessungsgrundsätzen des Absatzes 2 fest, ohne an die obere Bemessungsgrenze gebunden zu sein.
 
-<sup>4</sup> Das Honorar (inklusive Mehrwertsteuer und Barauslagen) der unentgeltlichen Rechtsbeiständin oder des unentgeltlichen Rechtsbeistandes wird bei patentierten Anwältinnen und Anwälten in der Regel nach einem Stundenansatz von Fr. 220.– berechnet.
+<sup>4</sup> Das Honorar (inklusive Mehrwertsteuer und Barauslagen) der unentgeltlichen Rechtsbeiständin oder des unentgeltlichen Rechtsbeistands wird bei patentierten Anwältinnen und Anwälten in der Regel nach einem Stundenansatz von Fr. 220.– berechnet.
 
 ## 2a. Kanzleigebühren
 
