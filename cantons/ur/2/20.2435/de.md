@@ -1,35 +1,42 @@
 ---
 canton: UR
 number: "20.2435"
-title: Reglement über die Vergütung von Krankheits- und Behinderungskosten bei Ergänzungsleistungen
+title: REGLEMENT über die Vergütung von Krankheits- und Behinderungskosten bei Ergänzungsleistungen
 language: de
 version: 2020-01-01
+corrected: 2025-07-20
 version_adopted: 2019-12-10
 adopted: 2019-12-10
 in_force: 2020-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.2435"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/505/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/228/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über die Vergütung von Krankheits- und Behinderungskosten bei Ergänzungsleistungen
+# REGLEMENT über die Vergütung von Krankheits- und Behinderungskosten bei Ergänzungsleistungen
 
-Vom 10.12.2019 (Stand 01.01.2020)
+REGLEMENT über die Vergütung von Krankheits- und Behinderungskosten bei Ergänzungsleistungen
 
-Der Regierungsrat des Kantons Uri,
+(vom 10. Dezember 2019[^t-1]; Stand am 1. Januar 2020)
 
-gestützt auf Artikel 6 Absatz 1 der Verordnung vom 24. September 2007 über die Ergänzungsleistungen zur AHV/IV (RB [20.2425](https://rechtsbuch.ur.ch/data/20.2425/de)),
+Der Regierungsrat des Kantons Uri, gestützt auf Artikel 6 Absatz 1 der Verordnung vom 24. September 2007 über die Ergänzungsleistungen zur AHV/IV[^t-2],
 
 beschliesst:
 
-## 1 Allgemeine Bestimmungen
+[^t-1]: AB vom 20. Dezember 2019
+[^t-2]: RB 20.2425
+
+### 1. Abschnitt: Allgemeine Bestimmungen
 
 #### Artikel 1
 
 **Gegenstand**
 
-<sup>1</sup> Dieses Reglement bezeichnet die Kosten, die nach Artikel 14 Absatz 1 des Bundesgesetzes über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (ELG, SR [831.30](https://db.clex.ch/link/Bund/831.30/de)) vergütet werden können.
+Dieses Reglement bezeichnet die Kosten, die nach Artikel 14 Absatz 1 des Bundesgesetzes über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (ELG)[^1-1] vergütet werden können.
+
+[^1-1]: SR 831.30
 
 #### Artikel 2
 
@@ -37,27 +44,27 @@ beschliesst:
 
 <sup>1</sup> Tatsächlich angefallene Kosten werden bis zu den Höchstbeträgen nach diesem Reglement vergütet, wenn die Voraussetzungen nach diesem Reglement erfüllt und sie belegt sind.
 
-<sup>2</sup> Kosten gelten in dem Zeitpunkt als entstanden, in dem Versicherte Bedürfnisse nach Artikel 14 Absatz 1 Buchstabe a bis g ELG (SR [831.30](https://db.clex.ch/link/Bund/831.30/de)) beanspruchen. Sie werden dem entsprechenden Kalenderjahr zugerechnet.
+<sup>2</sup> Kosten gelten in dem Zeitpunkt als entstanden, in dem Versicherte Bedürfnisse nach Artikel 14 Absatz 1 Buchstabe a bis g ELG<sup>4</sup> beanspruchen. Sie werden dem entsprechenden Kalenderjahr zugerechnet.
 
-<sup>3</sup> Kosten, die vor Beginn des Anspruchs auf Ergänzungsleistungen oder vor Feststellung eines Einnahmenüberschusses im Sinne von Artikel 14 Absatz 6 ELG (SR [831.30](https://db.clex.ch/link/Bund/831.30/de)) entstanden sind, werden nicht vergütet.
+<sup>3</sup> Kosten, die vor Beginn des Anspruchs auf Ergänzungsleistungen oder vor Feststellung eines Einnahmenüberschusses im Sinne von Artikel 14 Absatz 6 ELG<sup>5</sup> entstanden sind, werden nicht vergütet.
 
 <sup>4</sup> Beginnt der Anspruch auf Ergänzungsleistungen unterjährig, so reduzieren sich die Kostenlimiten in Artikel 6 und Artikel 10 Absatz 3 pro rata.
 
-<sup>5</sup> Im Ausland entstandene Kosten werden vergütet, wo es das Reglement ausdrücklich vorsieht.
+5 Im Ausland entstandene Kosten werden vergütet, wo es das Reglement ausdrücklich vorsieht.
 
-## 2 Heilbehandlungen, Kuren und Transporte
+### 2. Abschnitt: Heilbehandlungen, Kuren und Transporte
 
 #### Artikel 3
 
 **Vorübergehende stationäre Aufenthalte**
 
-<sup>1</sup> Ärztlich angeordnete Rehabilitationsaufenthalte in einer Klinik werden bis zum Höchstbetrag gemäss Artikel 4a Absatz 1 der Verordnung über die Ergänzungsleistungen zur AHV/IV, zuzüglich der Patientenbeteiligung nach Artikel 2 der Verordnung über die Patientenbeteiligung und den Kantonsbeitrag in der Langzeitpflege (RB [20.2332](https://rechtsbuch.ur.ch/data/20.2332/de)), vergütet.
+<sup>1</sup> Ärztlich angeordnete Rehabilitationsaufenthalte in einer Klinik werden bis zum Höchstbetrag gemäss Artikel 4a Absatz 1 der Verordnung über die Ergänzungsleistungen zur AHV/IV, zuzüglich der Patientenbeteiligung nach Artikel 2 der Verordnung über die Patientenbeteiligung und den Kantonsbeitrag in der Langzeitpflege<sup>6</sup>, vergütet.
 
 <sup>2</sup> Ärztlich angeordnete Kuraufenthalte in einem Kurhaus oder Heilbad, die medizinisch betreut sind, werden bis 100 Franken pro Tag und längstens für 21 Tage pro Kalenderjahr vergütet.
 
 <sup>3</sup> Benötigen Versicherte Pflege, und kann diese zu Hause oder im angestammten Heim vorübergehend nicht erbracht werden, so werden die Kosten für den Aufenthalt in einem Pflegeheim bis zum Höchstbetrag nach Absatz 1 und längstens für 90 Tage pro Kalenderjahr vergütet.
 
-<sup>4</sup> Von den Vergütungen nach diesem Artikel wird der Betrag für Verpflegung nach Artikel 11 Absatz 2 der Verordnung über die Alters- und Hinterlasse- nenversicherung (AHVV, SR [831.101](https://db.clex.ch/link/Bund/831.101/de)) abgezogen.
+<sup>4</sup> Von den Vergütungen nach diesem Artikel wird der Betrag für Verpflegung nach Artikel 11 Absatz 2 der Verordnung über die Alters- und Hinterlassenenversicherung (AHVV)<sup>7</sup> abgezogen.
 
 #### Artikel 4
 
@@ -65,13 +72,15 @@ beschliesst:
 
 <sup>1</sup> Kosten werden vergütet für:
 
-- a) Notfalltransporte im In- und Ausland sowie notwendige Verlegungen innerhalb der Schweiz
-- b) Transporte im In- und Ausland zum nächstgelegenen geeigneten medizinischen Behandlungsort
-- c) Transporte zu Facheinrichtungen für Menschen mit Behinderung oder Anbieterinnen und Anbietern von Entlastungsdiensten, die Tagesstrukturen anbieten
+- a) Notfalltransporte im In- und Ausland sowie notwendige Verlegungen innerhalb der Schweiz;
+
+- b) Transporte im In- und Ausland zum nächstgelegenen geeigneten medizinischen Behandlungsort und
+
+- c) Transporte zu Facheinrichtungen für Menschen mit Behinderung oder Anbieterinnen und Anbietern von Entlastungsdiensten, die Tagesstrukturen anbieten.
 
 <sup>2</sup> Vergütet werden die Kosten des öffentlichen Verkehrs, zweite Klasse, oder, wenn Versicherte aus gesundheitlichen Gründen nicht in der Lage sind, den öffentlichen Verkehr zu benützen, 70 Rappen pro gefahrenem Kilometer. Taxikosten werden voll vergütet, wenn Versicherte auf einen Behindertentransport angewiesen sind oder nachweisen, dass sie keinen anderen Fahrdienst organisieren können.
 
-<sup>3</sup> Kosten für Leerfahrten, Fahrbegleitungen und Parkgebühren werden in der Regel nicht vergütet. Die Ausgleichskasse Uri kann in Härtefällen Ausnahmen machen.
+3 Kosten für Leerfahrten, Fahrbegleitungen und Parkgebühren werden in der Regel nicht vergütet. Die Ausgleichskasse Uri kann in Härtefällen Ausnahmen machen.
 
 #### Artikel 5
 
@@ -81,21 +90,21 @@ beschliesst:
 
 <sup>2</sup> Die Höhe der Vergütung richtet sich nach dem Tarif der Unfall-, Militär- und Invalidenversicherung über die Honorierung zahnärztlicher Leistungen und zahntechnischer Arbeiten (UV/MV/IV-Tarif).
 
-<sup>3</sup> Betragen die Kosten einer Zahnbehandlung, einschliesslich Laborkosten, voraussichtlich mehr als 1'500 Franken, so müssen Versicherte der Ausgleichskasse Uri vor der Behandlung einen nach den Tarifpositionen des V/ MV/IV-Tarifs gegliederten Kostenvoranschlag einreichen.
+<sup>3</sup> Betragen die Kosten einer Zahnbehandlung, einschliesslich Laborkosten, voraussichtlich mehr als 1500 Franken, so müssen Versicherte der Ausgleichskasse Uri vor der Behandlung einen nach den Tarifpositionen des V/ MV/IV-Tarifs gegliederten Kostenvoranschlag einreichen.
 
 #### Artikel 6
 
 **Diätnahrungsmittel**
 
-<sup>1</sup> Stellt eine Diät eine aus medizinischer Sicht objektiv notwendige Massnahme zur Heilung, Linderung oder Stabilisierung eines Leidens dar, so werden hierfür ausgewiesene Mehrkosten bis 2'100 Franken pro Jahr an Versicherte, die weder in einem Heim noch in einem Spital leben, vergütet.
+Stellt eine Diät eine aus medizinischer Sicht objektiv notwendige Massnahme zur Heilung, Linderung oder Stabilisierung eines Leidens dar, so werden hierfür ausgewiesene Mehrkosten bis 2100 Franken pro Jahr an Versicherte, die weder in einem Heim noch in einem Spital leben, vergütet.
 
 #### Artikel 7
 
 **Franchisen und Selbstbehalte**
 
-<sup>1</sup> Die Beteiligung der Versicherten an den Krankenversicherungskosten nach Artikel 64 des Bundesgesetzes über die Krankenversicherung (KVG, SR [832.10](https://db.clex.ch/link/Bund/832.10/de)) wird bis 1'000 Franken pro Jahr vergütet.
+Die Beteiligung der Versicherten an den Krankenversicherungskosten nach Artikel 64 des Bundesgesetzes über die Krankenversicherung (KVG)<sup>8</sup> wird bis 1000 Franken pro Jahr vergütet.
 
-## 3 Unterstützungsleistungen zu Hause
+### 3. Abschnitt: Unterstützungsleistungen zu Hause
 
 #### Artikel 8
 
@@ -105,7 +114,7 @@ beschliesst:
 
 <sup>2</sup> Unter Unterstützungsleistungen werden Pflegeleistungen, Haushaltshilfe und Betreuung/Begleitung verstanden.
 
-<sup>3</sup> Art und Ausmass der im Einzelfall benötigten Unterstützungsleistungen klären Fachstellen für die Ausgleichskasse Uri bei Bedarf ab. Bilden mehrere Versicherte zusammen eine Wohngemeinschaft, so wird der individuelle Unterstützungsbedarf unter Berücksichtigung allfälliger Synergien vergütet.
+3 Art und Ausmass der im Einzelfall benötigten Unterstützungsleistungen klären Fachstellen für die Ausgleichskasse Uri bei Bedarf ab. Bilden mehrere Versicherte zusammen eine Wohngemeinschaft, so wird der individuelle Unterstützungsbedarf unter Berücksichtigung allfälliger Synergien vergütet.
 
 <sup>4</sup> Unterstützungsleistungen, die eine Hilflosenentschädigung der AHV, IV oder UV oder der Assistenzbeitrag decken, werden nicht oder nur teilweise vergütet.
 
@@ -115,14 +124,19 @@ beschliesst:
 
 **Pflegeleistungen**
 
-<sup>1</sup> Pflegeleistungen umfassen die Leistungen nach Artikel 7 Absatz 2 Buchstabe c der Krankenpflege-Leistungsverordnung (KLV, SR [832.112.31](https://db.clex.ch/link/Bund/832.112.31/de)).
+<sup>1</sup> Pflegeleistungen umfassen die Leistungen nach Artikel 7 Absatz 2 Buchstabe c der Krankenpflege-Leistungsverordnung (KLV)[^9-1].
 
 <sup>2</sup> Pflegeleistungen werden vergütet, wenn sie erbracht werden von:
 
-- a) im Kanton Uri zugelassenen Organisationen der Krankenpflege und Hilfe zu Hause (Art. 51 der Verordnung über die Krankenversicherung [KVV, SR [832.102](https://db.clex.ch/link/Bund/832.102/de)]) oder
-- b) im Kanton Uri zugelassenen Pflegefachpersonen (Art. 49 KVV (SR [832.102](https://db.clex.ch/link/Bund/832.102/de))
+- a) im Kanton Uri zugelassenen Organisationen der Krankenpflege und Hilfe zu Hause (Art. 51 der Verordnung über die Krankenversicherung [KVV][^9-2] oder
 
-<sup>3</sup> Vergütet wird die Patientenbeteiligung nach Artikel 1 der Verordnung über die Patientenbeteiligung und den Kantonsbeitrag in der Langzeitpflege (RB [20.2332](https://rechtsbuch.ur.ch/data/20.2332/de)).
+- b) im Kanton Uri zugelassenen Pflegefachpersonen (Art. 49 KVV[^9-3].
+
+<sup>3</sup> Vergütet wird die Patientenbeteiligung nach Artikel 1 der Verordnung über die Patientenbeteiligung und den Kantonsbeitrag in der Langzeitpflege<sup>12</sup>.
+
+[^9-1]: SR 832.112.31
+[^9-2]: SR 832.102
+[^9-3]: SR 832.102
 
 #### Artikel 10
 
@@ -132,35 +146,43 @@ beschliesst:
 
 <sup>2</sup> Haushaltshilfe wird vergütet, wenn sie erbracht wird von:
 
-- a) im Kanton Uri zugelassenen Organisationen der Krankenpflege und Hilfe zu Hause (Art. 51 KVV, SR [832.102](https://db.clex.ch/link/Bund/832.102/de))
-- b) Firmen
-- c) Privatpersonen, die mit der versicherten Person weder verwandt/verschwägert sind, noch im gleichen Haushalt wohnen
+- a) im Kanton Uri zugelassenen Organisationen der Krankenpflege und Hilfe zu Hause (Art. 51 KVV<sup>13</sup>);
 
-<sup>3</sup> Haushaltshilfe nach Absatz 2 Buchstabe a und b wird mit 32 Franken pro Stunde, maximal mit 5'800 Franken im Jahr vergütet. Haushaltshilfe nach Absatz 2 Buchstabe c wird mit 25 Franken pro Stunde, maximal mit 4'800 Franken im Jahr vergütet.
+- b) Firmen oder
+
+- c) Privatpersonen, die mit der versicherten Person weder verwandt/verschwägert sind, noch im gleichen Haushalt wohnen.
+
+<sup>3</sup> Haushaltshilfe nach Absatz 2 Buchstabe a und b wird mit 32 Franken pro Stunde, maximal mit 5800 Franken im Jahr vergütet. Haushaltshilfe nach Absatz 2 Buchstabe c wird mit 25 Franken pro Stunde, maximal mit 4800 Franken im Jahr vergütet.
 
 #### Artikel 11
 
-**Betreuung / Begleitung**
+**Betreuung/Begleitung**
 
-<sup>1</sup> Betreuung / Begleitung umfasst alle Leistungen, die auf den Erhalt und die Förderung der Selbstständigkeit und Selbstbestimmung von Versicherten gerichtet sind und die weder Pflegeleistungen im Sinne dieses Reglements noch Haushaltshilfe darstellen (Unterstützung bei der Tagesstrukturierung; Aufforderung, eine Lebensverrichtung vorzunehmen; Förderung sozialer Kontakte).
+<sup>1</sup> Betreuung/Begleitung umfasst alle Leistungen, die auf den Erhalt und die Förderung der Selbstständigkeit und Selbstbestimmung von Versicherten gerichtet sind und die weder Pflegeleistungen im Sinne dieses Reglements noch Haushaltshilfe darstellen (Unterstützung bei der Tagesstrukturierung; Aufforderung, eine Lebensverrichtung vorzunehmen; Förderung sozialer Kontakte).
 
-<sup>2</sup> Betreuung / Begleitung wird nur Versicherten vergütet, die im Sinne der AHV, IV oder UV hilflos sind.
+<sup>2</sup> Betreuung/Begleitung wird nur Versicherten vergütet, die im Sinne der AHV, IV oder UV hilflos sind.
 
-<sup>3</sup> Betreuung / Begleitung wird vergütet, wenn sie erbracht wird von:
+<sup>3</sup> Betreuung/Begleitung wird vergütet, wenn sie erbracht wird von:
 
-- a) angestellten Betreuungspersonen, die mit der versicherten Person weder verwandt oder verschwägert sind noch im gleichen Haushalt wohnen
-- b) Institutionen der Behindertenhilfe, die vom Amt für Soziales anerkannt sind, jedoch nur für begleitetes Wohnen von Menschen mit Behinderung
-- c) Facheinrichtungen für Menschen mit Behinderung
-- d) Anbieterinnen oder Anbietern von Entlastungsdiensten
+- a) angestellten Betreuungspersonen, die mit der versicherten Person weder verwandt oder verschwägert sind noch im gleichen Haushalt wohnen;
 
-<sup>4</sup> Betreuung / Begleitung wird wie folgt vergütet. Für Leistungserbringer nach:
+- b) Institutionen der Behindertenhilfe, die vom Amt für Soziales anerkannt sind, jedoch nur für begleitetes Wohnen von Menschen mit Behinderung;
 
-- a) Absatz 3 Buchstabe a mit 30 Franken pro Stunde für solche ohne, und 45 Franken pro Stunde für solche mit Fachausbildung
-- b) Absatz 3 Buchstabe b mit 90 Franken pro Stunde, maximal mit 360 Franken pro Woche
-- c) Absatz 3 Buchstabe c mit 45 Franken pro Tag, sofern sich die Versicherten mehr als fünf Stunden in der Facheinrichtung aufhalten und für ihre geleistete Arbeit nicht mehr als 50 Franken pro Monat erhalten
-- d) Absatz. 3 Buchstabe d mit 70 Franken pro Tag für solche in einer Facheinrichtung (Tagesheim) und 45 Franken pro Stunde für solche zu Hause
+- c) Facheinrichtungen für Menschen mit Behinderung oder
 
-## 4 Hilfsmittel und Pflegehilfsgeräte
+- d) Anbieterinnen oder Anbietern von Entlastungsdiensten.
+
+<sup>4</sup> Betreuung/Begleitung wird wie folgt vergütet. Für Leistungserbringer nach:
+
+- a) Absatz 3 Buchstabe a mit 30 Franken pro Stunde für solche ohne, und 45 Franken pro Stunde für solche mit Fachausbildung;
+
+- b) Absatz 3 Buchstabe b mit 90 Franken pro Stunde, maximal mit 360 Franken pro Woche;
+
+- c) Absatz 3 Buchstabe c mit 45 Franken pro Tag, sofern sich die Versicherten mehr als fünf Stunden in der Facheinrichtung aufhalten und für ihre geleistete Arbeit nicht mehr als 50 Franken pro Monat erhalten;
+
+- d) Absatz 3 Buchstabe d mit 70 Franken pro Tag für solche in einer Facheinrichtung (Tagesheim) und 45 Franken pro Stunde für solche zu Hause.
+
+### 4. Abschnitt: Hilfsmittel und Pflegehilfsgeräte
 
 #### Artikel 12
 
@@ -168,46 +190,56 @@ beschliesst:
 
 <sup>1</sup> Die Kosten für orthopädische Änderungen und Zurichtungen an Konfektionsschuhen werden vergütet.
 
-<sup>2</sup> Leistet die AHV einen Kostenbeitrag an ein Hilfsmittel, so wird Versicherten zusätzlich ein Drittel dieses Kostenbeitrags vergütet.
+2 Leistet die AHV einen Kostenbeitrag an ein Hilfsmittel, so wird Versicherten zusätzlich ein Drittel dieses Kostenbeitrags vergütet.
 
-<sup>3</sup> Die Pflegehilfsgeräte gemäss Anhang werden vergütet, wenn sie der Pflege von Versicherten zu Hause dienen.
+3 Die Pflegehilfsgeräte gemäss Anhang werden vergütet, wenn sie der Pflege von Versicherten zu Hause dienen.
 
 <sup>4</sup> Reparatur-, Anpassungs-, Erneuerungs- und Gebrauchstrainingskosten werden nach den Vorschriften der Invalidenversicherung vergütet.
 
-## 5 Schlussbestimmungen
+### 5. Abschnitt: Schlussbestimmungen
 
 #### Artikel 13
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Das Reglement vom 26. Oktober 2010 über die Vergütung von Krankheits- und Behinderungskosten bei Ergänzungsleistungen (RB [20.2435](https://rechtsbuch.ur.ch/data/20.2435/de)) wird aufgehoben.
+Das Reglement vom 26. Oktober 2010 über die Vergütung von Krankheits- und Behinderungskosten bei Ergänzungsleistungen<sup>14</sup> wird aufgehoben.
 
 #### Artikel 14
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Reglement ist vom Bund zu genehmigen[^Artikel14-1].
+<sup>1</sup> Dieses Reglement ist vom Bund zu genehmigen[^14-1].
 
 <sup>2</sup> Es tritt am 1. Januar 2020 in Kraft.
 
-[^Artikel14-1]: Vom Bund genehmigt am 11. Februar 2020.
+Im Namen des Regierungsrats
 
-## A1 Anhang 1: Liste der Pflegehilfsgeräte
+Der Landammann: Roger Nager Der Kanzleidirektor: Roman Balli
 
-#### Artikel A1-1
+[^14-1]: Vom Bund genehmigt am 11. Februar 2020
 
-<sup>1</sup> Für die nachfolgenden Hilfsgeräte werden die Anschaffungskosten vergütet:
+### Anhang:
 
-- a) Zusätze zu Sanitäreinrichtungen, sofern Versicherte ohne diesen Behelf allein nicht zur betreffenden Körperhygiene fähig sind
-- b) Nachtstühle
-- c) Inkontinenzschutzmittel
+- Liste der Pflegehilfsgeräte
 
-<sup>2</sup> Für die nachfolgenden Hilfsgeräte werden die Mietkosten vergütet:
+### Anhang I Liste der Pflegehilfsgeräte
 
-- a) Automatische Zusätze zu Sanitäreinrichtungen, sofern Versicherte ohne diesen Behelf allein nicht zur betreffenden Körperhygiene fähig sind
-- b) Krankenheber, sofern ärztlich bescheinigt ist, dass ein Krankenheber für die Hauspflege notwendig ist
-- c) Elektrobetten, sofern ärztlich bescheinigt ist, dass ein Elektrobett für die Hauspflege eine absolute Notwendigkeit darstellt
-- d) Aufzugsständer (Bettgalgen)
-- e) Notrufsysteme bis 1'000 Franken pro Jahr, sofern Versicherte sturzgefährdet sind und ihr Heimeintritt dadurch hinausgezögert werden kann. Bezahlt werden können Miete, Installation und Wartung
+Für die nachfolgenden Hilfsgeräte werden die Anschaffungskosten vergütet:
 
-AB 20.12.2019
+- 1) Zusätze zu Sanitäreinrichtungen, sofern Versicherte ohne diesen Behelf allein nicht zur betreffenden Körperhygiene fähig sind.
+
+- 2) Nachtstühle.
+
+- 3) Inkontinenzschutzmittel.
+
+Für die nachfolgenden Hilfsgeräte werden die Mietkosten vergütet:
+
+- 4) Automatische Zusätze zu Sanitäreinrichtungen, sofern Versicherte ohne diesen Behelf allein nicht zur betreffenden Körperhygiene fähig sind.
+
+- 5) Krankenheber, sofern ärztlich bescheinigt ist, dass ein Krankenheber für die Hauspflege notwendig ist.
+
+- 6) Elektrobetten, sofern ärztlich bescheinigt ist, dass ein Elektrobett für die Hauspflege eine absolute Notwendigkeit darstellt.
+
+- 7) Aufzugsständer (Bettgalgen).
+
+- 8) Notrufsysteme bis 1 000 Franken pro Jahr, sofern Versicherte sturzgefährdet sind und ihr Heimeintritt dadurch hinausgezögert werden kann. Bezahlt werden können Miete, Installation und Wartung.
