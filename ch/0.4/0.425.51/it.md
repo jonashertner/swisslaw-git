@@ -3,11 +3,11 @@ sr: "0.425.51"
 title: Convenzione del 12 marzo 2019 istitutiva dell’Osservatorio Square Kilometre Array
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/54"
 language: it
-version: 2022-01-19
+version: 2025-07-21
 adopted: 2019-03-12
 in_force: 2022-01-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/54/20220119/it/xml/fedlex-data-admin-ch-eli-cc-2022-54-20220119-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/54/20220119/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/54/20250721/it/xml/fedlex-data-admin-ch-eli-cc-2022-54-20250721-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/54/20250721/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Roma il 12 marzo 2019 Strumento di adesione depositato dalla Svizzera il 20 dicembre 2021 Entrata in vigore per la Svizzera il 19 gennaio 2022
 
-(Stato 19 gennaio 2022)
+(Stato 21 luglio 2025)
 
 Gli Stati parte di questa Convenzione,
 
@@ -546,22 +546,27 @@ Lo SKAO deve seguire i principi di sana gestione finanziaria, efficienza, traspa
 
 <sup>2.</sup> Lo SKAO può istituire un fondo per i futuri impegni di spesa associati alla costruzione, al funzionamento, all’aggiornamento e alla dismissione di una o tutte le strutture astronomiche stabilite dallo SKAO. Le passività finanziarie per i Membri e i Membri associati non possono superare gli impegni finanziari come prescritti nel relativo piano di finanziamento, salvo diversamente concordato con il voto unanime del Consiglio.
 
-Campo d’applicazione il 17 gennaio 2022**[^t-1]**
+Campo d’applicazione il 21 luglio 2025[^t-1]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Australia</td><td>28 settembre</td><td>2020</td><td>15 gennaio</td><td>2021</td></tr>
+<tr><td>Canada\*</td><td>15 marzo</td><td>2024 A</td><td>14 aprile</td><td>2024</td></tr>
 <tr><td>Cina</td><td>27 maggio</td><td>2021</td><td>26 giugno</td><td>2021</td></tr>
+<tr><td>Germania</td><td>2 ottobre</td><td>2024 A</td><td>1° novembre</td><td>2024</td></tr>
+<tr><td>India</td><td>4 giugno</td><td>2024</td><td>4 luglio</td><td>2024</td></tr>
 <tr><td>Italia</td><td>30 novembre</td><td>2020</td><td>15 gennaio</td><td>2021</td></tr>
 <tr><td>Paesi Bassi</td><td>31 luglio</td><td>2019</td><td>15 gennaio</td><td>2021</td></tr>
 <tr><td>Portogallo</td><td>26 gennaio</td><td>2021</td><td>25 febbraio</td><td>2021</td></tr>
 <tr><td>Regno Unito</td><td>16 dicembre</td><td>2020</td><td>15 gennaio</td><td>2021</td></tr>
+<tr><td>Spagna\*</td><td>29 luglio</td><td>2024 A</td><td>28 agosto</td><td>2024</td></tr>
 <tr><td>Sudafrica</td><td>29 maggio</td><td>2020</td><td>15 gennaio</td><td>2021</td></tr>
+<tr><td>Svezia</td><td>9 luglio</td><td>2025</td><td>8 agosto</td><td>2025</td></tr>
 <tr><td>Svizzera\*</td><td>20 dicembre</td><td>2021 A</td><td>19 gennaio</td><td>2022</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, ad eccezione di quelle della Svizzera. I testi in inglese si possono consultare sul sito Internet del Governo del Regno Unito: www.gov.uk/government/publications/convention-establishing-the-square-kilometre-array-observatory-rome-1232019 o richiedere alla Direzione del diritto internazionale pubblico (DDIP), Sezione dei trattati internazionali, 3003 Berna. [tab]</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in inglese, può essere consultato sul sito Internet del Governo del Regno Unito: [www.gov.uk/government/publications/convention-establishing-the-square-kilometre-array-observatory-rome-1232019](http://www.gov.uk/government/publications/convention-establishing-the-square-kilometre-array-observatory-rome-1232019) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-1]: Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» al seguente indirizzo: www.fedlex.admin.ch/it/treaty.
+[^t-1]: [RU 2022 54](https://fedlex.data.admin.ch/eli/oc/2022/54); [2025 476](https://fedlex.data.admin.ch/eli/oc/2025/476). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Dichiarazione
 

@@ -3,11 +3,11 @@ sr: "0.425.51"
 title: Abkommen vom 12. März 2019 zur Gründung des Square Kilometre Array Observatory
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/54"
 language: de
-version: 2022-01-19
+version: 2025-07-21
 adopted: 2019-03-12
 in_force: 2022-01-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/54/20220119/de/xml/fedlex-data-admin-ch-eli-cc-2022-54-20220119-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/54/20220119/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/54/20250721/de/xml/fedlex-data-admin-ch-eli-cc-2022-54-20250721-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/54/20250721/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2022** 54
 
 Abgeschlossen in Rom am 12. März 2019 Beitrittsurkunde von der Schweiz hinterlegt am 20. Dezember 2021 In Kraft getreten am für die Schweiz am 19. Januar 2022
 
-(Stand am 19. Januar 2022)
+(Stand am 21. Juli 2025)
 
 Die Parteien dieses Abkommens haben
 
@@ -546,22 +546,27 @@ Das SKAO befolgt bei der Planung und Verwaltung der finanziellen Ressourcen die 
 
 <sup>2.</sup> Das SKAO kann einen Fonds für künftige Verbindlichkeiten im Zusammenhang mit dem Bau, dem Betrieb, der Verbesserung und dem Rückbau einer oder aller vom SKAO zu errichtenden astronomischen Einrichtungen schaffen. Die finanziellen Verbindlichkeiten der Mitglieder und assoziierten Mitglieder dürfen ohne anderslautende einstimmige Genehmigung durch den Beirat die finanziellen Verpflichtungen gemäss dem entsprechenden Finanzierungsplan nicht übersteigen.
 
-Geltungsbereich am 17. Januar 2022**[^t-1]**
+Geltungsbereich am 21. Juli 2025[^t-1]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Australien</td><td>28. September</td><td>2020</td><td>15. Januar</td><td>2021</td></tr>
 <tr><td>China</td><td>27. Mai</td><td>2021</td><td>26. Juni</td><td>2021</td></tr>
+<tr><td>Deutschland</td><td>2. Oktober</td><td>2024 B</td><td>1. November</td><td>2024</td></tr>
+<tr><td>Indien</td><td>4. Juni</td><td>2024</td><td>4. Juli</td><td>2024</td></tr>
 <tr><td>Italien</td><td>30. November</td><td>2020</td><td>15. Januar</td><td>2021</td></tr>
+<tr><td>Kanada\*</td><td>15. März</td><td>2024 B</td><td>14. April</td><td>2024</td></tr>
 <tr><td>Niederlande</td><td>31. Juli</td><td>2019</td><td>15. Januar</td><td>2021</td></tr>
 <tr><td>Portugal</td><td>26. Januar</td><td>2021</td><td>25. Februar</td><td>2021</td></tr>
+<tr><td>Schweden</td><td>9. Juli</td><td>2025</td><td>8. August</td><td>2025</td></tr>
 <tr><td>Schweiz\*</td><td>20. Dezember</td><td>2021 B</td><td>19. Januar</td><td>2022</td></tr>
+<tr><td>Spanien\*</td><td>29. Juli</td><td>2024 B</td><td>28. August</td><td>2024</td></tr>
 <tr><td>Südafrika</td><td>29. Mai</td><td>2020</td><td>15. Januar</td><td>2021</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>16. Dezember</td><td>2020</td><td>15. Januar</td><td>2021</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die englischen Texte können auf der Internetseite der Regierung des Vereinigten Königreichs: www.gov.uk/government/publications/convention-establishing-the-square-kilometre-array-observatory-rome-1232019 eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. [tab]</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die englischen Texte können auf der Internetseite der Regierung des Vereinigten Königreichs: [www.gov.uk/government/publications/convention-establishing-the-square-kilometre-array-observatory-rome-1232019](http://www.gov.uk/government/publications/convention-establishing-the-square-kilometre-array-observatory-rome-1232019) eingesehen oder bei der Direktion für Völkerrecht (DV), Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-1]: Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.
+[^t-1]: [AS 2022 54](https://fedlex.data.admin.ch/eli/oc/2022/54); [2025 476](https://fedlex.data.admin.ch/eli/oc/2025/476). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Erklärung
 

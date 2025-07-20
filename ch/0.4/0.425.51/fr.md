@@ -3,11 +3,11 @@ sr: "0.425.51"
 title: Convention du 12 mars 2019 portant création de la Square Kilometre Array Observatory
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/54"
 language: fr
-version: 2022-01-19
+version: 2025-07-21
 adopted: 2019-03-12
 in_force: 2022-01-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/54/20220119/fr/xml/fedlex-data-admin-ch-eli-cc-2022-54-20220119-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/54/20220119/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/54/20250721/fr/xml/fedlex-data-admin-ch-eli-cc-2022-54-20250721-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/54/20250721/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Traduction
 
 Conclue à Rome le 12 mars 2019 Instrument d’adhésion déposé par la Suisse le 20 décembre 2021 Entrée en vigueur pour la Suisse le 19 janvier 2022
 
-(Etat le 19 janvier 2022)
+(État le 21 juillet 2025)
 
 Les Parties à la présente Convention,
 
@@ -546,25 +546,30 @@ La SKAO respecte les principes de bonne gestion financière, d’efficacité, de
 
 <sup>2.</sup> La SKAO peut établir un fonds dédié aux passifs futurs en lien avec la construction, les opérations, les améliorations ou la mise hors service de toute infrastructure astronomique mise en place par la SKAO. Les passifs financiers des Membres et Membres associés ne doivent pas excéder leurs engagements financiers au titre du programme de financement concerné, à moins que le Conseil n’en décide autrement par un vote à l’unanimité.
 
-Champ d’application le 17 janvier 2022**[^t-1]**
+Champ d’application le 21 juillet 2025[^t-1]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afrique du Sud</td><td>29 mai</td><td>2020</td><td>15 janvier</td><td>2021</td></tr>
+<tr><td>Allemagne</td><td>2 octobre</td><td>2024 A</td><td>1<sup>er</sup> novembre</td><td>2024</td></tr>
 <tr><td>Australie</td><td>28 septembre</td><td>2020</td><td>15 janvier</td><td>2021</td></tr>
+<tr><td>Canada\*</td><td>15 mars</td><td>2024 A</td><td>14 avril</td><td>2024</td></tr>
 <tr><td>Chine</td><td>27 mai</td><td>2021</td><td>26 juin</td><td>2021</td></tr>
+<tr><td>Espagne\*</td><td>29 juillet</td><td>2024 A</td><td>28 août</td><td>2024</td></tr>
+<tr><td>Inde</td><td>4 juin</td><td>2024</td><td>4 juillet</td><td>2024</td></tr>
 <tr><td>Italie</td><td>30 novembre</td><td>2020</td><td>15 janvier</td><td>2021</td></tr>
 <tr><td>Pays-Bas</td><td>31 juillet</td><td>2019</td><td>15 janvier</td><td>2021</td></tr>
 <tr><td>Portugal</td><td>26 janvier</td><td>2021</td><td>25 février</td><td>2021</td></tr>
 <tr><td>Royaume-Uni</td><td>16 décembre</td><td>2020</td><td>15 janvier</td><td>2021</td></tr>
+<tr><td>Suède</td><td>9 juillet</td><td>2025</td><td>8 août</td><td>2025</td></tr>
 <tr><td>Suisse<sup>\*</sup></td><td>20 décembre</td><td>2021 A</td><td>19 janvier</td><td>2022</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en anglais pourront être consultés à l’adresse du site Internet du gouvernement du Royaume-Uni: www.gov.uk/government/publications/convention-establishing-the-square-kilometre-array-observatory-rome-1232019 ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. [tab]</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en anglais pourront être consultés à l’adresse du site Internet du gouvernement du Royaume‑Uni: [www.gov.uk/government/publications/convention-establishing-the-square-kilometre-array-observatory-rome-1232019](http://www.gov.uk/government/publications/convention-establishing-the-square-kilometre-array-observatory-rome-1232019) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-1]: Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty.
+[^t-1]: [RO 2022 54](https://fedlex.data.admin.ch/eli/oc/2022/54); [2025 476](https://fedlex.data.admin.ch/eli/oc/2025/476). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Déclaration
 
 Suisse
 
-La Suisse déclare qu’elle fera usage de la possibilité de ne pas étendre les privilèges et immunités à ses propres ressortissants ou aux résidents permanents telle que prévue à l’art. 7 par. 2 et à l’art. 8 par. 3 de l’Annexe A «Protocole sur les privilèges et immunités de la Square Kilometre Array Observatory» de la Covention.
+La Suisse déclare qu’elle fera usage de la possibilité de ne pas étendre les privilèges et immunités à ses propres ressortissants ou aux résidents permanents telle que prévue à l’art. 7 par. 2 et à l’art. 8 par. 3 de l’Annexe A «Protocole sur les privilèges et immunités de la Square Kilometre Array Observatory» de la Convention.
