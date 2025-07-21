@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnungsänderungen im Bereich des Bundesamts für Energie mit Bundesratsbeschluss im November 2025
 document: Vernehmlassungsvorlage EnV
 language: de

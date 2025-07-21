@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifications d’ordonnances relevant de l’Office fédéral de l’énergie soumises à la décision du Conseil fédéral en novembre 2025
 document: Projet mis en consultation OOSE
 language: fr
