@@ -3,11 +3,11 @@ sr: "0.972.1"
 title: Accordo del 29 maggio 1990 istitutivo della Banca europea per la ricostruzione e lo sviluppo (con All. e lettera)
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1525_1525_1525"
 language: it
-version: 2025-06-26
+version: 2025-07-22
 adopted: 1990-05-29
 in_force: 1991-03-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1525_1525_1525/20250626/it/xml/fedlex-data-admin-ch-eli-cc-1991-1525_1525_1525-20250626-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1525_1525_1525/20250626/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1525_1525_1525/20250722/it/xml/fedlex-data-admin-ch-eli-cc-1991-1525_1525_1525-20250722-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1525_1525_1525/20250722/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1525_1525_1525/20250626/it"
 
 RU **1991** 1525; FF **1990** III 633
 
-Traduzione[^t-1]
+Traduzione
 
-Concluso a Parigi il 29 maggio 1990 Approvato dall’Assemblea federale il 14 dicembre 1990[^t-2] Ratificato dalla Svizzera con strumento depositato il 29 marzo 1991 Entrato in vigore per la Svizzera il 29 marzo 1991
+Concluso a Parigi il 29 maggio 1990 Approvato dall’Assemblea federale il 14 dicembre 1990[^t-1] Ratificato dalla Svizzera con strumento depositato il 29 marzo 1991 Entrato in vigore per la Svizzera il 29 marzo 1991
 
-(Stato 26 giugno 2025)
+(Stato 22 luglio 2025)
 
-[^t-1]: Dai testi originali francese e tedesco.
-[^t-2]: [RU 1991 1524](https://fedlex.data.admin.ch/eli/oc/1991/1524_1524_1524)
+[^t-1]: [RU 1991 1524](https://fedlex.data.admin.ch/eli/oc/1991/1524_1524_1524)
 
 Le Parti contraenti,
 
@@ -45,9 +44,9 @@ convengono di istituire la Banca Europea per la Ricostruzione e lo Sviluppo (in 
 
 **Fine**[^1-1]
 
-Volendo contribuire al progresso economico e alla ricostruzione dei Paesi dell’Europa Centrale e Orientale impegnati ad applicare i principi della democrazia multipartitica, del pluralismo e dell’economia di mercato, fine della Banca è quello di accelerare la transizione verso un’economia aperta e di mercato e di promuovere l’iniziativa privata e imprenditoriale in tali Paesi. Alle medesime condizioni, il fine della Banca può essere applicato anche alla Mongolia e ai Paesi della regione meridionale e orientale del bacino del Mediterraneo, con voto favorevole di almeno due terzi dei Governatori che rappresentano almeno tre quarti del potere di voto totale dei membri. Di conseguenza, qualsiasi riferimento ai «Paesi dell’Europa Centrale e Orientale», a uno o più «Paesi beneficiari» o ai «Paesi membri beneficiari» all’interno del presente Statuto e negli Allegati è valido anche per la Mongolia e per i Paesi della regione meridionale e orientale del bacino del Mediterraneo che soddisfano le condizioni di cui sopra.
+Volendo contribuire al progresso economico e alla ricostruzione dei Paesi dell’Europa Centrale e Orientale impegnati ad applicare i principi della democrazia multipartitica, del pluralismo e dell’economia di mercato, fine della Banca è quello di accelerare la transizione verso un’economia aperta e di mercato e di promuovere l’iniziativa privata e imprenditoriale in tali Paesi. Alle medesime condizioni, il fine della Banca può essere applicato anche: i) alla Mongolia; ii) ai Paesi membri della regione meridionale e orientale del bacino del Mediterraneo e iii) a un numero limitato di Paesi membri dell’Africa subsahariana; in ciascun caso di cui ai punti ii) e iii), come determinato dalla Banca con voto favorevole di almeno due terzi dei Governatori, che rappresentano almeno tre quarti del potere di voto totale dei membri. Di conseguenza, qualsiasi riferimento nel presente Accordo e nei suoi allegati ai ‹Paesi dell’Europa Centrale e Orientale›, a uno o più ‹Paesi beneficiari› o ‹Paesi membri beneficiari› è valido anche per la Mongolia e per i Paesi della regione meridionale e orientale del bacino del Mediterraneo e dell’Africa subsahariana che soddisfano le condizioni di cui sopra.
 
-[^1-1]: Nuovo testo giusta l’emendamento del 30 set. 2011, approvato dall’AF il 7 mar. 2012, in vigore per la Svizzera dal 12 set. 2013 ([RU 2013 3539](https://fedlex.data.admin.ch/eli/oc/2013/663)[3537](https://fedlex.data.admin.ch/eli/oc/2013/662); [FF 2012 623](https://fedlex.data.admin.ch/eli/fga/2012/196)).
+[^1-1]: Nuovo testo giusta la Ris. n. 259 del 18 mag. 2023, approvato dall’AF il 12 mar. 2025, in vigore per la Svizzera dal 22 lug. 2015 ([RU 2025 416](https://fedlex.data.admin.ch/eli/oc/2025/416), [415](https://fedlex.data.admin.ch/eli/oc/2025/415); [FF 2024 2481](https://fedlex.data.admin.ch/eli/fga/2024/2481)).
 
 #### Art. 2
 
@@ -1026,7 +1025,7 @@ Je vous prie de croire, M. le président, à l’assurance de ma plus haute cons
 <tr><td></td><td>Chef de la délégation soviétique Président du Conseil d’administration de la Banque d’Etat d’URSS Victor V. Gerashchenko</td></tr>
 </table>
 
-Campo d’applicazione il 2 marzo 201[^t-3]
+Campo d’applicazione il 2 marzo 201[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -1079,7 +1078,7 @@ Campo d’applicazione il 2 marzo 201[^t-3]
 <tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU, ad eccezione di quelle della Svizzera. I testi francesi, tedeschi e italiani si possono ottenere presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-3]: [RU 1991 1525](https://fedlex.data.admin.ch/eli/oc/1991/1525_1525_1525), [2006 3361](https://fedlex.data.admin.ch/eli/oc/2006/530)e [2016 991](https://fedlex.data.admin.ch/eli/oc/2016/177). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
+[^t-2]: [RU 1991 1525](https://fedlex.data.admin.ch/eli/oc/1991/1525_1525_1525), [2006 3361](https://fedlex.data.admin.ch/eli/oc/2006/530)e [2016 991](https://fedlex.data.admin.ch/eli/oc/2016/177). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Riserve e dichiarazioni
 

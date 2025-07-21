@@ -3,11 +3,11 @@ sr: "0.972.1"
 title: Accord du 29 mai 1990 portant création de la Banque européenne pour la reconstruction et le développement (avec annexes et lettre)
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1525_1525_1525"
 language: fr
-version: 2025-06-26
+version: 2025-07-22
 adopted: 1990-05-29
 in_force: 1991-03-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1525_1525_1525/20250626/fr/xml/fedlex-data-admin-ch-eli-cc-1991-1525_1525_1525-20250626-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1525_1525_1525/20250626/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1525_1525_1525/20250722/fr/xml/fedlex-data-admin-ch-eli-cc-1991-1525_1525_1525-20250722-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1525_1525_1525/20250722/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 29 mars 1991
 
 Entré en vigueur pour la Suisse le 29 mars 1991
 
-(État le 26 juin 2025)
+(État le 22 juillet 2025)
 
 [^t-1]: [RO 1991 1524](https://fedlex.data.admin.ch/eli/oc/1991/1524_1524_1524)
 
@@ -50,9 +50,9 @@ sont convenues d’instituer la Banque européenne pour la reconstruction et le 
 
 **Objet**[^1-1]
 
-L’objet de la Banque est, en contribuant au progrès et à la reconstruction économiques des pays d’Europe centrale et orientale qui s’engagent à respecter et mettent en pratique les principes de la démocratie pluraliste, du pluralisme et de l’économie de marché, de favoriser la transition de leurs économies vers des économies de marché, et d’y promouvoir l’initiative privée et l’esprit d’entreprise. Aux mêmes conditions, l’objet de la Banque peut également être mis en œuvre en Mongolie et dans les pays membres de la partie méridionale et orientale du Bassin méditerranéen comme la Banque en décidera sur vote affirmatif des deux tiers au moins du nombre des gouverneurs, représentant au moins les trois quarts du nombre total des voix attribuées aux Membres. En conséquence, toute référence dans le présent Accord et dans ses annexes aux «pays d’Europe centrale et orientale», à un ou plusieurs «pays bénéficiaires» ou aux «pays membres bénéficiaires» s’applique également à la Mongolie ainsi qu’aux pays de la partie méridionale et orientale du Bassin méditerranéen qui répondent aux conditions énoncées ci-dessus.
+L’objet de la Banque est, en contribuant au progrès et à la reconstruction économiques des pays d’Europe centrale et orientale qui s’engagent à respecter et mettent en pratique les principes de la démocratie pluraliste, du pluralisme et de l’économie de marché, de favoriser la transition de leurs économies vers des économies de marché, et d’y promouvoir l’initiative privée et l’esprit d’entreprise. Aux mêmes conditions, l’objet de la Banque peut également être mis en œuvre (i) en Mongolie; (ii) dans les pays membres de la partie méridionale et orientale du Bassin méditerranéen; et (iii) dans un nombre limité de pays membres d’Afrique subsaharienne; dans chaque cas au titre des points (ii) et (iii) comme la Banque en décidera sur vote affirmatif des deux tiers au moins du nombre des gouverneurs, représentant au moins les trois quarts du nombre total des voix attribuées aux Membres. En conséquence, toute référence dans le présent Accord et dans ses annexes aux ‹pays d’Europe centrale et orientale›, à un ou plusieurs ‹pays bénéficiaires› ou aux ‹pays membres bénéficiaires› s’applique également à la Mongolie ainsi qu’aux pays de la partie méridionale et orientale du Bassin méditerranéen et d’Afrique subsaharienne qui répondent aux conditions énoncées ci-dessus.
 
-[^1-1]: Nouvelle teneur selon l’amend. du 30 sept. 2011, approuvé par l’Ass.féd. le 7 mars 2012, en vigueur pour la Suisse depuis le 12 sept. 2013 ([RO 2013 3539](https://fedlex.data.admin.ch/eli/oc/2013/663)[3537](https://fedlex.data.admin.ch/eli/oc/2013/662); [FF 2012 675](https://fedlex.data.admin.ch/eli/fga/2012/196)).
+[^1-1]: Nouvelle teneur selon la Rés. N<sup>o</sup> 259 du 18 mai 2023, approuvé par l’Ass. féd. le 12 mars 2025, en vigueur pour la Suisse depuis le 22 juil. 2025 ([RO 2025 416](https://fedlex.data.admin.ch/eli/oc/2025/416), [415](https://fedlex.data.admin.ch/eli/oc/2025/415); [FF 2024 2481](https://fedlex.data.admin.ch/eli/fga/2024/2481)).
 
 #### Art. 2
 

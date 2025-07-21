@@ -3,11 +3,11 @@ sr: "0.972.1"
 title: Übereinkommen vom 29. Mai 1990 zur Errichtung der Europäischen Bank für Wiederaufbau und Entwicklung (mit Anlagen und Brief)
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1525_1525_1525"
 language: de
-version: 2025-06-26
+version: 2025-07-22
 adopted: 1990-05-29
 in_force: 1991-03-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1525_1525_1525/20250626/de/xml/fedlex-data-admin-ch-eli-cc-1991-1525_1525_1525-20250626-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1525_1525_1525/20250626/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1525_1525_1525/20250722/de/xml/fedlex-data-admin-ch-eli-cc-1991-1525_1525_1525-20250722-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1525_1525_1525/20250722/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,17 +16,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1525_1525_1525/20250626/de"
 
 AS **1991** 1525; BBl **1990** III 793
 
-Originaltext[^t-1]
+Originaltext
 
 Abgeschlossen in Paris am 29. Mai 1990
 
-Von der Bundesversammlung genehmigt am 14. Dezember 1990
+Von der Bundesversammlung genehmigt am 14. Dezember 1990[^t-1]
 
 Schweizerische Ratifikationsurkunde hinterlegt am 29. März 1991
 
 In Kraft getreten für die Schweiz am 29. März 1991
 
-(Stand am 26. Juni 2025)
+(Stand am 22. Juli 2025)
 
 [^t-1]: [AS 1991 1524](https://fedlex.data.admin.ch/eli/oc/1991/1524_1524_1524)
 
@@ -50,9 +50,9 @@ sind übereingekommen, hiermit die Europäische Bank für Wiederaufbau und Entwi
 
 **Zweck**[^1-1]
 
-Zweck der Bank ist es, durch Unterstützung des wirtschaftlichen Fortschritts und Wiederaufbaus in den mittel- und osteuropäischen Ländern, die sich zu den Grundsätzen der Mehrparteiendemokratie, des Pluralismus und der Marktwirtschaft bekennen und diese anwenden, den Übergang zur offenen Marktwirtschaft zu begünstigen sowie die private und unternehmerische Initiative zu fördern. Zu den gleichen Bedingungen darf der Zweck der Bank auch in der Mongolei und in Mitgliedsländern des südlichen und östlichen Mittelmeerraums verfolgt werden, nachdem mindestens zwei Drittel der Gouverneure, die mindestens drei Viertel der Gesamtstimmenzahl der Mitglieder vertreten, dafür gestimmt haben. Dementsprechend gilt jeder Bezug in diesem Übereinkommen und seinen Anhängen auf ‹mittel- und osteuropäische Länder›, ‹Länder Mittel- und Osteuropas›, ‹Empfängerland (oder ‑länder)›, oder ‹Mitgliedsempfängerland (oder -länder)› auch für die Mongolei und jedes dieser Länder des südlichen und östlichen Mittelmeerraums.
+Zweck der Bank ist es, durch Unterstützung des wirtschaftlichen Fortschritts und Wiederaufbaus in den mittel- und osteuropäischen Ländern, die sich zu den Grundsätzen der Mehrparteiendemokratie, des Pluralismus und der Marktwirtschaft bekennen und diese anwenden, den Übergang zur offenen Marktwirtschaft zu begünstigen sowie die private und unternehmerische Initiative zu fördern. Zu den gleichen Bedingungen darf der Zweck der Bank auch i) in der Mongolei, ii) in Mitgliedsländern des südlichen und östlichen Mittelmeerraums und iii) in einer begrenzten Zahl von Mitgliedsländern Subsahara-Afrikas verfolgt werden; in jedem der unter den Ziffern ii) und iii) genannten Fälle werden diese Länder von der Bank mit Zustimmung von mindestens zwei Dritteln der Gouverneure, die mindestens drei Viertel der Gesamtstimmenzahl der Mitglieder vertreten, bestimmt. Dementsprechend gilt jeder Bezug in diesem Übereinkommen und seinen Anlagen auf ‹mittel- und osteuropäische Länder›, ‹Länder Mittel- und Osteuropas›, ‹Empfängerland› (oder ‹-länder›) oder «Empfängermitgliedsland› (oder ‹-länder›) auch für die Mongolei und jedes dieser Länder des südlichen und östlichen Mittelmeerraums sowie Subsahara-Afrikas.
 
-[^1-1]: Fassung gemäss Änd. vom 30. Sept. 2011, von der BVers genehmigt am 7. März 2012 und in Kraft getreten für die Schweiz am 12. Sept. 2013 ([AS 2013 3539](https://fedlex.data.admin.ch/eli/oc/2013/663), [3537](https://fedlex.data.admin.ch/eli/oc/2013/662); [BBl 2012 827](https://fedlex.data.admin.ch/eli/fga/2012/196)).
+[^1-1]: Fassung gemäss Resolution Nr. 259 vom 18. Mai 2023, von der BVers genehmigt am 12. März 2025 und in Kraft getreten für die Schweiz am 22. Juli 2025 ([AS 2025 416](https://fedlex.data.admin.ch/eli/oc/2025/416), [415](https://fedlex.data.admin.ch/eli/oc/2025/415); [BBl 2024 2481](https://fedlex.data.admin.ch/eli/fga/2024/2481)).
 
 #### Art. 2
 
