@@ -4,11 +4,11 @@ title: "Ordonnance du 2 juillet 2008 sur les armes, les accessoires d'armes et l
 short: OArm
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/767"
 language: fr
-version: 2024-01-01
+version: 2025-07-22
 adopted: 2008-07-02
 in_force: 2008-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-767-20240101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20250722/fr/xml/fedlex-data-admin-ch-eli-cc-2008-767-20250722-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20250722/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20240101/fr"
 
 (Ordonnance sur les armes, OArm)
 
-du 2 juillet 2008 (État le 1<sup>er</sup> janvier 2024)
+du 2 juillet 2008 (État le 22 juillet 2025)
 
 Le Conseil fédéral suisse,
 
@@ -1039,7 +1039,10 @@ Si la carcasse, le boîtier de culasse ou la partie supérieure ou inférieure d
 
 <sup>4</sup> La taille des caractères doit être d’au moins 1,6 mm. L’autorité compétente peut autoriser des exceptions.
 
+<sup>5</sup> La profondeur du marquage doit être d’au moins 0,0762 mm.[^31e-2]
+
 [^31e-1]: Introduit par le ch. I de l’O du 24 juin 2020, en vigueur depuis le 1<sup>er</sup> sept. 2020 ([RO 2020 2955](https://fedlex.data.admin.ch/eli/oc/2020/549)).
+[^31e-2]: Introduit par le ch. I de l’O du 25 juin 2025, en vigueur depuis le 22 juil. 2025 ([RO 2025 427](https://fedlex.data.admin.ch/eli/oc/2025/427)).
 
 #### Art. 31f
 

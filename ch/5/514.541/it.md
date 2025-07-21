@@ -4,11 +4,11 @@ title: "Ordinanza del 2 luglio 2008 sulle armi, gli accessori di armi e le muniz
 short: OArm
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/767"
 language: it
-version: 2024-01-01
+version: 2025-07-22
 adopted: 2008-07-02
 in_force: 2008-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2008-767-20240101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20250722/it/xml/fedlex-data-admin-ch-eli-cc-2008-767-20250722-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20250722/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20240101/it"
 
 (Ordinanza sulle armi, OArm)
 
-del 2 luglio 2008 (Stato 1° gennaio 2024)
+del 2 luglio 2008 (Stato 22 luglio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -1037,7 +1037,10 @@ Se l’impugnatura, il telaio, il castello di culatta oppure la parte superiore 
 
 <sup>4</sup> La dimensione minima dei caratteri è di 1,6 mm. L’autorità competente può autorizzare eccezioni.
 
+<sup>5</sup> La profondità minima del contrassegno è di 0,0762 mm.[^31e-2]
+
 [^31e-1]: Introdotto dal n. I dell’O del 24 giu. 2020, in vigore dal 1° set. 2020 ([RU 2020 2955](https://fedlex.data.admin.ch/eli/oc/2020/549)).
+[^31e-2]: Introdotto dalla cifra I dell’O del 25 giu. 2025, in vigore dal 22 lug. 2025 ([RU 2025 427](https://fedlex.data.admin.ch/eli/oc/2025/427)).
 
 #### Art. 31f
 

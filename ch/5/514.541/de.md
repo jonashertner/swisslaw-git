@@ -4,11 +4,11 @@ title: "Verordnung vom 2. Juli 2008 über Waffen, Waffenzubehör und Munition (W
 short: WV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/767"
 language: de
-version: 2024-01-01
+version: 2025-07-22
 adopted: 2008-07-02
 in_force: 2008-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2008-767-20240101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20250722/de/xml/fedlex-data-admin-ch-eli-cc-2008-767-20250722-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20250722/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20240101/de"
 
 (Waffenverordnung, WV)
 
-vom 2. Juli 2008 (Stand am 1. Januar 2024)
+vom 2. Juli 2008 (Stand am 22. Juli 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -1037,7 +1037,10 @@ Besteht ein Griffstück, ein Rahmen, ein Verschlussgehäuse oder ein Gehäuseobe
 
 <sup>4</sup> Die Schriftgrösse muss mindestens 1,6 mm betragen. Die zuständige Behörde kann Ausnahmen bewilligen.
 
+<sup>5</sup> Die Markierungstiefe muss mindestens 0,0762 mm betragen.[^31e-2]
+
 [^31e-1]: Eingefügt durch Ziff. I der V vom 24. Juni 2020, in Kraft seit 1. Sept. 2020 ([AS 2020 2955](https://fedlex.data.admin.ch/eli/oc/2020/549)).
+[^31e-2]: Eingefügt durch Ziff. I der V vom 25. Juni 2025, in Kraft seit 22. Juli 2025 (AS **202****5** 427).
 
 #### Art. 31f
 
@@ -2005,7 +2008,6 @@ Für die Behandlung von Bewilligungsgesuchen und für das Aufbewahren von beschl
 <tr><td>z<sup>bis</sup>. Vorkehrungen im Zusammenhang mit der Beschlagnahme, der definitiven Einziehung und der Verwertung von Waffen und missbräuchlich getragenen gefährlichen Gegenständen</td><td>maximal 150.—</td></tr>
 <tr><td>z<sup>ter</sup>. Bewilligung für das Verbringen von Feuerwaffen, die nicht nach Artikel 31*a* oder 31*b* markiert sind (Art. 31*d* Abs. 3)</td><td>50.—</td></tr>
 <tr><td>z<sup>quater</sup>. andere Bewilligungen in Zusammenhang mit der Markierung von Feuerwaffen nach Aufwand (Art. 31*d* Abs. 1 und Art. 31*e* Abs. 4)</td><td>maximal 1000.—</td></tr>
-<tr><td>[tab]</td><td></td></tr>
 </table>
 
 Anhang 2[^t-2]
