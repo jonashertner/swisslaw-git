@@ -3,11 +3,11 @@ sr: "0.232.121.42"
 title: Ausführungsordnung vom 30. September 2003 der Genfer Akte (1999) des Haager Abkommens betreffend die internationale Eintragung gewerblicher Muster und Modelle (mit Gebührenverzeichnis)
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/236"
 language: de
-version: 2025-01-01
+version: 2025-07-23
 adopted: 2003-09-30
 in_force: 2004-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/236/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2006-236-20250101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/236/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/236/20250723/de/xml/fedlex-data-admin-ch-eli-cc-2006-236-20250723-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/236/20250723/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ Angenommen von der Versammlung des Haager Verbands am 30. September 2003
 
 In Kraft getreten am 1. April 2004
 
-(Stand am 1. Januar 2025)
+(Stand am 23. Juli 2025)
 
 [^t-1]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 17. Juli 2024, in Kraft seit 1. Jan. 2025 ([AS 2025 422](https://fedlex.data.admin.ch/eli/oc/2025/422)).
 
@@ -252,7 +252,7 @@ Mitteilungen an das Internationale Büro sind in der in den Verwaltungsvorschrif
 
   - i) eine Grundgebühr;
   - ii) eine Standard-Bestimmungsgebühr für jede bestimmte Vertragspartei, die keine Erklärung nach Artikel 7 Absatz 2 oder nach Regel 36 Absatz 1 abgegeben hat;
-  - iii) eine individuelle Bestimmungsgebühr für jede bestimmte Vertragspartei, die eine Erklärung nach Artikel 7 Absatz 2 oder nach Regel 36 Absatz 1 abgegeben hat;
+  - iii)[^chap2-lvlu6-2] eine individuelle Bestimmungsgebühr für jede bestimmte Vertragspartei, die eine Erklärung nach Artikel 7 Absatz 2 abgegeben hat;
   - iv) eine Veröffentlichungsgebühr.
 
 - b) Die Höhe der in den Ziffern i, ii, und iv bezeichneten Gebühren ergibt sich aus dem Gebührenverzeichnis.
@@ -265,6 +265,8 @@ Mitteilungen an das Internationale Büro sind in der in den Verwaltungsvorschrif
 - b) Findet Buchstabe a Anwendung, so wird der Hinweis auf eine individuelle Bestimmungsgebühr in Absatz 1 Ziffer iii als Hinweis auf den ersten Teil der individuellen Bestimmungsgebühr betrachtet.
 - c) Der zweite Teilbetrag der individuellen Bestimmungsgebühr kann nach Wahl des Anmelders entweder unmittelbar an das betreffende Amt oder durch das Internationale Büro entrichtet werden. Wird er unmittelbar an das betreffende Amt entrichtet, so unterrichtet das Amt das Internationale Büro entsprechend und das Internationale Büro trägt diese Mitteilung in das internationale Register ein. Erfolgt die Zahlung durch das Internationale Büro, so trägt das Internationale Büro die Zahlung in das internationale Register ein und unterrichtet das betreffende Amt entsprechend.
 - d) Wird der zweite Teilbetrag der individuellen Bestimmungsgebühr nicht innerhalb der geltenden Frist entrichtet, so unterrichtet das betreffende Amt das Internationale Büro und fordert das Internationale Büro auf, die internationale Eintragung im internationalen Register für die betreffende Vertragspartei zu löschen. Das Internationale Büro handelt entsprechend und unterrichtet den Inhaber hiervon.
+
+[^chap2-lvlu6-2]: Berichtigung vom 23. Juli 2025 ([AS 2025 479](https://fedlex.data.admin.ch/eli/oc/2025/479)).
 
 ### **Regel 13**Einreichung der internationalen Anmeldung durch ein Amt
 
@@ -790,7 +792,7 @@ Gebührenverzeichnis[^t-2]
 
 ## I. Internationale Anmeldungen
 
-[^t-2]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 17. Juli 2024, in Kraft seit 1. Jan. 2025 ([AS 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)).
+[^t-2]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 17. Juli 2024, in Kraft seit 1. Jan. 2025 ([AS 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)). Berichtigung vom 23. Juli 2025 ([AS 2025 479](https://fedlex.data.admin.ch/eli/oc/2025/479)).
 
 <table>
 <tr><th></th><th>Schweizer Franken</th></tr>
@@ -811,18 +813,16 @@ Gebührenverzeichnis[^t-2]
 <tr><td>4.3 Wenn Stufe drei Anwendung findet:</td><td></td></tr>
 <tr><td>4.3.1 Für ein Muster oder ein Modell</td><td>90.–</td></tr>
 <tr><td>4.3.2 Für jedes zusätzliche Muster oder Modell, das in derselben internationalen Anmeldung inbegriffen ist</td><td>50.–</td></tr>
-<tr><td>5. Individuelle Bestimmungsgebühr (der Betrag der individuellen Bestimmungsgebühr wird durch jede betroffene Vertragspartei festgelegt)[^annexu1-lvlI-3]\*</td><td></td></tr>
+<tr><td>5. Individuelle Bestimmungsgebühr (der Betrag der individuellen Bestimmungsgebühr wird durch jede betroffene Vertragspartei festgelegt)[^annexu1-lvlI-3]\*\*\*</td><td></td></tr>
 </table>
 
-[^annexu1-lvlI-1]: \* Bei internationalen Anmeldungen, die von Anmeldern eingereicht werden, deren diesbezügliche Berechtigung ausschliesslich auf einer Verbindung zu einem der am wenigsten entwickelten Länder nach der von den Vereinten Nationen aufgestellten Liste oder zu einer zwischenstaatlichen Organisation, deren Mitgliedstaaten mehrheitlich am wenigsten entwickelte Länder sind, beruht, ermässigen sich die für das Internationale Büro bestimmten Gebühren auf 10 % der vorgeschriebenen Beträge (gerundet auf die nächste ganze Zahl). Diese Ermässigung findet auch Anwendung auf eine internationale Anmeldung, die von einem Anmelder eingereicht wird, dessen diesbezügliche Berechtigung nicht ausschliesslich auf einer Verbindung zu einer solchen zwischenstaatlichen Organisation beruht, vorausgesetzt, dass jede sonstige diesbezügliche Berechtigung des Anmelders auf einer Verbindung zu einer Vertragspartei beruht, die eines der am wenigsten entwickelten Länder ist, oder die, wenn sie nicht eines der am wenigsten entwickelten Länder ist, ein Mitgliedstaat dieser zwischenstaatlichen Organisation ist. Handelt es sich um mehrere Anmelder, so muss jeder diese Kriterien erfüllen. Findet eine solche Gebührenermässigung Anwendung, so beträgt die Grundgebühr 40 Schweizer Franken (für ein Muster oder Modell) und 5 Schweizer Franken (für jedes weitere Muster oder Modell, das in derselben internationalen Anmeldung enthalten ist), die Veröffentlichungsgebühr 2 Schweizer Franken für jede Abbildung und 15 Schweizer Franken für jede Seite ab der zweiten Seite, auf der sich eine oder mehrere Abbildungen befinden, und die Zusatzgebühr 1 Schweizer Franken für jede Gruppe von 5 weiteren Wörtern, wenn die Beschreibung mehr als 100 Wörter umfasst.
+[^annexu1-lvlI-1]: \* Bei internationalen Anmeldungen, die von Anmeldern eingereicht werden, deren diesbezügliche Berechtigung ausschliesslich auf einer Verbindung zu einem der am wenigsten entwickelten Länder nach der von den Vereinten Nationen aufgestellten Liste oder zu einer zwischenstaatlichen Organisation, deren Mitgliedstaaten mehrheitlich am wenigsten entwickelte Länder sind, beruht, ermässigen sich die für das Internationale Büro bestimmten Gebühren auf 10 % der vorgeschriebenen Beträge (gerundet auf die nächste ganze Zahl). Diese Ermässigung findet auch Anwendung auf eine internationale Anmeldung, die von einem Anmelder eingereicht wird, dessen diesbezügliche Berechtigung nicht ausschliesslich auf einer Verbindung zu einer solchen zwischenstaatlichen Organisation beruht, vorausgesetzt, dass jede sonstige diesbezügliche Berechtigung des Anmelders auf einer Verbindung zu einer Vertragspartei beruht, die eines der am wenigsten entwickelten Länder ist, oder die, wenn sie nicht eines der am wenigsten entwickelten Länder ist, ein Mitgliedstaat dieser zwischenstaatlichen Organisation ist und für die internationale Anmeldung ausschliesslich das Abkommen in der Fassung von 1999 massgebend ist. Handelt es sich um mehrere Anmelder, so muss jeder diese Kriterien erfüllen. – Findet eine solche Gebührenermässigung Anwendung, so beträgt die Grundgebühr 40 Schweizer Franken (für ein Muster oder Modell) und 2 Schweizer Franken (für jedes weitere Muster oder Modell, das in derselben internationalen Anmeldung enthalten ist), die Veröffentlichungsgebühr 2 Schweizer Franken für jede Abbildung und 15 Schweizer Franken für jede Seite ab der zweiten Seite, auf der sich eine oder mehrere Abbildungen befinden, und die Zusatzgebühr 1 Schweizer Franken für jede Gruppe von 5 weiteren Wörtern, wenn die Beschreibung mehr als 100 Wörter umfasst.
 [^annexu1-lvlI-2]: <sup>\*\*</sup> Bei internationalen Anmeldungen, die von Anmeldern eingereicht werden, deren diesbezügliche Berechtigung ausschliesslich auf einer Verbindung zu einem der am wenigsten entwickelten Länder nach der von den Vereinten Nationen aufgestellten Liste oder zu einer zwischenstaatlichen Organisation, deren Mitgliedstaaten mehrheitlich am wenigsten entwickelte Länder sind, beruht, ermässigen sich die Standardgebühren auf 10 % der vorgeschriebenen Beträge (gerundet auf die nächste ganze Zahl). Diese Ermässigung findet auch Anwendung auf eine internationale Anmeldung, die von einem Anmelder eingereicht wird, dessen diesbezügliche Berechtigung nicht ausschliesslich auf einer Verbindung zu einer solchen zwischenstaatlichen Organisation beruht, vorausgesetzt, dass jede sonstige diesbezügliche Berechtigung des Anmelders auf einer Verbindung zu einer Vertragspartei beruht, die eines der am wenigsten entwickelten Länder ist, oder die, wenn sie nicht eines der am wenigsten entwickelten Länder ist, ein Mitgliedstaat dieser zwischenstaatlichen Organisation ist. Handelt es sich um mehrere Anmelder, so muss jeder diese Kriterien erfüllen. Findet eine solche Ermässigung Anwendung, so beträgt die Standard-Bestimmungsgebühr 4 Schweizer Franken (für ein Muster oder Modell) und 1 Schweizer Franken (für jedes weitere Muster oder Modell, das in derselben internationalen Anmeldung enthalten ist) bei Stufe eins, 6 Schweizer Franken (für ein Muster oder Modell) und 2 Schweizer Franken (für jedes weitere Muster oder Modell, das in derselben internationalen Anmeldung enthalten ist) bei Stufe zwei und 9 Schweizer Franken (für ein Muster oder Modell) und 5 Schweizer Franken (für jedes weitere Muster oder Modell, das in derselben internationalen Anmeldung enthalten ist) bei Stufe drei.
-[^annexu1-lvlI-3]: <sup>\*</sup> [Anmerkung der WIPO]: Von der Versammlung des Haager Verbands beschlossene Empfehlung: «Vertragsparteien, die eine Erklärung nach Artikel 7 Absatz 2 abgeben oder abgegeben haben, sind aufgefordert, in dieser Erklärung oder einer neuen Erklärung darauf hinzuweisen, dass sich bei internationalen Anmeldungen, die von Anmeldern eingereicht werden, deren diesbezügliche Berechtigung ausschliesslich auf einer Verbindung zu einem der am wenigsten entwickelten Länder nach der von den Vereinten Nationen aufgestellten Liste oder zu einer zwischenstaatlichen Organisation, deren Mitgliedstaaten mehrheitlich am wenigsten entwickelte Länder sind, beruht, die für ihre Bestimmung zu zahlende individuelle Bestimmungsgebühr auf 10 % des normalerweise eingezogenen Betrags ermässigt (gegebenenfalls gerundet auf die nächste ganze Zahl). Des Weiteren sind diese Vertragsparteien aufgefordert, darauf hinzuweisen, dass die Ermässigung auch Anwendung findet auf eine internationale Anmeldung, die von einem Anmelder eingereicht wird, dessen diesbezügliche Berechtigung nicht ausschliesslich auf einer Verbindung zu einer solchen zwischenstaatlichen Organisation beruht, vorausgesetzt, dass jede sonstige diesbezügliche Berechtigung des Anmelders auf einer Verbindung zu einer Vertragspartei beruht, die eines der am wenigsten entwickelten Länder ist, oder die, wenn sie nicht eines der am wenigsten entwickelten Länder ist, ein Mitgliedstaat dieser zwischenstaatlichen Organisation ist.»
+[^annexu1-lvlI-3]: <sup>\*\*\*</sup> [Anmerkung der WIPO]: Von der Versammlung des Haager Verbands beschlossene Empfehlung: «Vertragsparteien, die eine Erklärung nach Artikel 7 Absatz 2 abgeben oder abgegeben haben, sind aufgefordert, in dieser Erklärung oder einer neuen Erklärung darauf hinzuweisen, dass sich bei internationalen Anmeldungen, die von Anmeldern eingereicht werden, deren diesbezügliche Berechtigung ausschliesslich auf einer Verbindung zu einem der am wenigsten entwickelten Länder nach der von den Vereinten Nationen aufgestellten Liste oder zu einer zwischenstaatlichen Organisation, deren Mitgliedstaaten mehrheitlich am wenigsten entwickelte Länder sind, beruht, die für ihre Bestimmung zu zahlende individuelle Bestimmungsgebühr auf 10 % des normalerweise eingezogenen Betrags ermässigt (gegebenenfalls gerundet auf die nächste ganze Zahl). Des Weiteren sind diese Vertragsparteien aufgefordert, darauf hinzuweisen, dass die Ermässigung auch Anwendung findet auf eine internationale Anmeldung, die von einem Anmelder eingereicht wird, dessen diesbezügliche Berechtigung nicht ausschliesslich auf einer Verbindung zu einer solchen zwischenstaatlichen Organisation beruht, vorausgesetzt, dass jede sonstige diesbezügliche Berechtigung des Anmelders auf einer Verbindung zu einer Vertragspartei beruht, die eines der am wenigsten entwickelten Länder ist, oder die, wenn sie nicht eines der am wenigsten entwickelten Länder ist, ein Mitgliedstaat dieser zwischenstaatlichen Organisation ist.»
 
 ## II. [*Gelöscht*]
 
-<table>
-<tr><td>6. [*Gelöscht*]</td><td></td></tr>
-</table>
+\6. [*Gelöscht*]
 
 ## III. Verlängerung einer internationalen Eintragung
 
@@ -842,10 +842,9 @@ Gebührenverzeichnis[^t-2]
 
 ## IV. [*Gelöscht*]
 
-<table>
-<tr><td>11. [*Gelöscht*]</td><td></td></tr>
-<tr><td>12. [*Gelöscht*]</td><td></td></tr>
-</table>
+\11. [*Gelöscht*]
+
+\12. [*Gelöscht*]
 
 ## V. Verschiedene Eintragungen
 
@@ -882,6 +881,4 @@ Gebührenverzeichnis[^t-2]
 
 ## VII. Vom Internationalen Büro erbrachte Dienstleistungen
 
-<table>
-<tr><td>24. Das Internationale Büro ist berechtigt, für die nicht von diesem Gebührenverzeichnis erfassten Dienstleistungen eine Gebühr in einer von ihm selbst festgelegten Höhe zu erheben.</td><td></td></tr>
-</table>
+\24. Das Internationale Büro ist berechtigt, für die nicht von diesem Gebührenverzeichnis erfassten Dienstleistungen eine Gebühr in einer von ihm selbst festgelegten Höhe zu erheben.

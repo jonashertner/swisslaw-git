@@ -3,11 +3,11 @@ sr: "0.232.121.42"
 title: "Regolamento d'esecuzione del 30 settembre 2003 relativo all’Accordo dell’Aja concernente la registrazione internazionale dei disegni e modelli industriali (con tariffe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/236"
 language: it
-version: 2025-01-01
+version: 2025-07-23
 adopted: 2003-09-30
 in_force: 2004-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/236/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2006-236-20250101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/236/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/236/20250723/it/xml/fedlex-data-admin-ch-eli-cc-2006-236-20250723-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/236/20250723/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Adottato dall’Assemblea dell’Unione dell’Aja il 30 settembre 2003 Entrato in vigore il 1° aprile 2004
 
-(Stato 1° gennaio 2025)
+(Stato 23 luglio 2025)
 
 [^t-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 17 lug. 2025, in vigore dal 1° gen. 2025 ([RU 2025 422](https://fedlex.data.admin.ch/eli/oc/2025/422)).
 
@@ -76,7 +76,8 @@ Le comunicazioni indirizzate all’Ufficio internazionale vanno effettuate secon
 - a) La firma di un rappresentante iscritto giusta il capoverso 3) a) sostituisce la firma del depositario o del titolare.
 - b) Salvo nei casi in cui il presente regolamento d’esecuzione esige esplicitamente che una comunicazione sia inviata sia al depositario o al titolare che al rappresentante, l’Ufficio internazionale invia al rappresentante iscritto giusto il capoverso 3) a) ogni comunicazione che, in assenza del rappresentante, dovrebbe essere inviata al depositario o al titolare; ogni comunicazione così inviata a detto rappresentante ha gli stessi effetti come se fosse stata inviata al depositario o al titolare.
 - c) Ogni comunicazione inviata all’Ufficio internazionale dal rappresentante iscritto giusta il capoverso 3) a) ha gli stessi effetti come se fosse stata inviata dal depositario o dal titolare.[^chap1-lvlu3-3]
-  - [tab] 5) [*Cancellazione dell’iscrizione; data alla quale la cancellazione ha effetto*]
+
+\5) [*Cancellazione dell’iscrizione; data alla quale la cancellazione ha effetto*]
 
 - a) Ogni iscrizione effettuata in virtù del capoverso 3) a) è cancellata se la cancellazione è chiesta mediante una comunicazione firmata dal depositario, dal titolare o dal rappresentante. L’Ufficio internazionale cancella d’ufficio l’iscrizione sia quando è costituito un nuovo rappresentante, sia quando è iscritto un cambiamento di titolare e il nuovo titolare della registrazione internazionale non ha costituito un rappresentante.
 - b) La cancellazione ha effetto a partire dalla data in cui l’Ufficio internazionale riceve la relativa comunicazione.
@@ -472,7 +473,8 @@ Le comunicazioni indirizzate all’Ufficio internazionale vanno effettuate secon
 - ii) non adempie, all’occorrenza, le esigenze della regola 18.2) b) iv);
 - iii) non indica, all’occorrenza, né l’autorità competente per evadere la richiesta di riesame o il ricorso né il termine, ragionevole tenuto conto delle circostanze, entro il quale tale richiesta o ricorso deve essere presentato (regola 18.2) b) vi));
 - iv) non indica la data in cui è stato pronunciato il rifiuto (regola 18.2) b) vii)),
-- [tab] l’Ufficio internazionale iscrive ciononostante il rifiuto nel registro internazionale e trasmette al titolare copia della notifica. Se il titolare glielo chiede, l’Ufficio internazionale invita l’Ufficio che ha comunicato il rifiuto a rettificare senza indugio la notifica.
+
+l’Ufficio internazionale iscrive ciononostante il rifiuto nel registro internazionale e trasmette al titolare copia della notifica. Se il titolare glielo chiede, l’Ufficio internazionale invita l’Ufficio che ha comunicato il rifiuto a rettificare senza indugio la notifica.
 
 ### **Regola 20**Invalidazione in parti contraenti designate
 
@@ -783,7 +785,7 @@ Tariffe[^t-2]
 
 ## I. Domande internazionali
 
-[^t-2]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 7 lug. 2024, in vigore dal 1° gen. 2025 ([RU 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)).
+[^t-2]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 7 lug. 2024, in vigore dal 1° gen. 2025 ([RU 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)). Correzione del 23 lug. 2025 ([RU 2025 479](https://fedlex.data.admin.ch/eli/oc/2025/479)).
 
 <table>
 <tr><th></th><th>Franchi svizzeri</th></tr>
@@ -792,8 +794,8 @@ Tariffe[^t-2]
 <tr><td>1.2 Per ogni disegno o modello supplementare compreso nella stessa domanda internazionale</td><td>50.–</td></tr>
 <tr><td>2. Tassa di pubblicazione<sup>\*</sup></td><td></td></tr>
 <tr><td>2.1 Per ogni raffigurazione da pubblicare</td><td>17.–</td></tr>
-<tr><td>2.2 Per ogni pagina supplementare sulla quale sono presentateuna o più raffigurazioni (quando le raffigurazioni sono presentate su carta)</td><td>150.–</td></tr>
-<tr><td>3. Tassa supplementare se la descrizione supera le 100 parole (per parola)<sup>\*</sup></td><td>2.–</td></tr>
+<tr><td>2.2 Per ogni pagina supplementare sulla quale sono presentate una o più raffigurazioni (quando le raffigurazioni sono presentate su carta)</td><td>150.–</td></tr>
+<tr><td>3. Tassa supplementare se la descrizione supera le 100 parole (per ogni parola oltre la centesima)<sup>\*</sup></td><td>2.–</td></tr>
 <tr><td>4. Tassa di designazione standard[^annexu1-lvlI-2]\*\*</td><td></td></tr>
 <tr><td>4.1 Quando si applica il livello uno:</td><td></td></tr>
 <tr><td>4.1.1 Per un disegno o modello</td><td>42.–</td></tr>
@@ -807,7 +809,7 @@ Tariffe[^t-2]
 <tr><td>5. Tassa di designazione individuale (l’importo della tassa di designazione individuale è fissato da ogni parte contraente interessata)[^annexu1-lvlI-3]\*\*\*</td><td></td></tr>
 </table>
 
-[^annexu1-lvlI-1]: <sup>\*</sup> Per le domande internazionali depositate da depositanti il cui diritto a tale riguardo deriva esclusivamente da un legame con un paese della categoria di paesi meno avanzati (PMA), conformemente alla lista allestita dall’Organizzazione delle Nazioni Unite, o a un’organizzazione intergovernativa la cui maggioranza di Stati membri sono PMA, le tasse dovute all’Ufficio internazionale sono ridotte al 10 % dell’importo prescritto (arrotondato al numero intero più vicino). Tale riduzione si applica altresì nei confronti di una domanda internazionale depositata da un depositante il cui diritto a tale riguardo non deriva esclusivamente da un legame con un’organizzazione intergovernativa di questo genere, purché qualsiasi altro diritto del depositante a tale riguardo derivi da un legame con una parte contraente che appartiene alla categoria dei PMA o, se ciò non è il caso, che è uno Stato membro di tale organizzazione intergovernativa. In caso di pluralità di depositanti ognuno di essi deve soddisfare questi criteri. Qualora sia applicata questa riduzione di tassa, la tassa di base ammonta a 40 franchi svizzeri (per un disegno o modello) ed a 5 franchi svizzeri (per ogni disegno o modello supplementare compreso nella stessa domanda internazionale), la tassa di pubblicazione ammonta a 2 franchi svizzeri per ogni raffigurazione ed a 15 franchi svizzeri per ogni pagina in più della prima in cui sono presentate una o più raffigurazioni, e la tassa supplementare quando la descrizione supera le 100 parole ammonta a 1 franco svizzero per ogni gruppo di cinque parole in più della centesima parola.
+[^annexu1-lvlI-1]: <sup>\*</sup> Per le domande internazionali depositate da depositanti il cui diritto a tale riguardo deriva esclusivamente da un legame con un paese della categoria di paesi meno avanzati (PMA), conformemente alla lista allestita dall’Organizzazione delle Nazioni Unite, o a un’organizzazione intergovernativa la cui maggioranza di Stati membri sono PMA, le tasse dovute all’Ufficio internazionale sono ridotte al 10 % dell’importo prescritto (arrotondato al numero intero più vicino). Tale riduzione si applica altresì nei confronti di una domanda internazionale depositata da un depositante il cui diritto a tale riguardo non deriva esclusivamente da un legame con un’organizzazione intergovernativa di questo genere, purché qualsiasi altro diritto del depositante a tale riguardo derivi da un legame con una parte contraente che appartiene alla categoria dei PMA o, se ciò non è il caso, che è uno Stato membro di tale organizzazione intergovernativa, e purché, in tal caso, la domanda internazionale sia retta esclusivamente dall’Atto del 1999. In caso di pluralità di depositanti ognuno di essi deve soddisfare questi criteri. – Qualora sia applicata questa riduzione di tassa, la tassa di base ammonta a 40 franchi svizzeri (per un disegno o modello) e a 2 franchi svizzeri (per ogni disegno o modello supplementare compreso nella stessa domanda internazionale), la tassa di pubblicazione ammonta a 2 franchi svizzeri per ogni raffigurazione e a 15 franchi svizzeri per ogni pagina in più della prima in cui sono presentate una o più raffigurazioni, e la tassa supplementare quando la descrizione supera le 100 parole ammonta a 1 franco svizzero per ogni gruppo di cinque parole in più della centesima parola.
 [^annexu1-lvlI-2]: <sup>\*\*</sup> Per le domande internazionali depositate da depositanti il cui diritto a tale riguardo deriva esclusivamente da un legame con un paese della categoria di paesi meno avanzati (PMA), conformemente alla lista allestita dall’Organizzazione delle Nazioni Unite, o a un’organizzazione intergovernativa la cui maggioranza di Stati membri sono PMA, le tasse standard dovute all’Ufficio internazionale sono ridotte al 10 % dell’importo prescritto (arrotondato al numero intero più vicino). Tale riduzione si applica altresì nei confronti di una domanda internazionale depositata da un depositante il cui diritto a tale riguardo non deriva esclusivamente da un legame con un’organizzazione intergovernativa di questo genere, purché qualsiasi altro diritto del depositante a tale riguardo derivi da un legame con una parte contraente che appartiene alla categoria dei PMA o, se ciò non è il caso, che è uno Stato membro di tale organizzazione intergovernativa. In caso di pluralità di depositanti ognuno di essi deve soddisfare questi criteri. Qualora sia applicata questa riduzione di tassa, la tassa di designazione standard ammonta a 4 franchi svizzeri (per un disegno o modello) ed a 1 franco svizzero (per ogni disegno o modello supplementare compreso nella stessa domanda internazionale) per il livello uno, a 6 franchi svizzeri (per un disegno o modello) ed a 2 franchi svizzeri (per ogni disegno o modello supplementare compreso nella stessa domanda internazionale) per il livello due ed a 9 franchi svizzeri (per un disegno o modello) ed a 5 franchi svizzeri (per ogni disegno o modello supplementare compreso nella stessa domanda internazionale) per il livello tre.
 [^annexu1-lvlI-3]: <sup>\*\*\*</sup> [Nota dell’OMPI]: Raccomandazione adottata dall’Assemblea dell’Unione dell’Aja: «Le parti contraenti che effettuano, o hanno effettuato, la dichiarazione prevista all’articolo 7.2) sono invitate a indicare, in tale dichiarazione o in una nuova dichiarazione, che, per le domande internazionali depositate da depositanti il cui diritto a tale riguardo deriva esclusivamente da un legame con un paese della categoria dei paesi meno avanzati, conformemente alla lista allestita dall’Organizzazione delle Nazioni Unite, o a un’organizzazione intergovernativa la cui maggioranza di Stati membri sono paesi della categoria dei paesi meno avanzati, la tassa individuale da pagare per la loro designazione è ridotta al 10 % dell’importo e normalmente riscosso (arrotondato, all’occorrenza, al numero intero più vicino). Tali parti contraenti sono inoltre invitate a indicare che la riduzione si applica altresì nei confronti di una domanda internazionale depositata da un depositante il cui diritto a tale riguardo non deriva esclusivamente da un legame con un’organizzazione intergovernativa di questo genere, purché qualsiasi altro diritto del depositante a tale riguardo derivi da un legame con una parte contraente che appartiene alla categoria dei paesi meno avanzati o, se ciò non è il caso, che è uno Stato membro di tale organizzazione intergovernativa».
 
@@ -872,4 +874,4 @@ Tariffe[^t-2]
 
 ## VII. Servizi forniti dall’Ufficio internazionale
 
-- 24\. L’Ufficio internazionale è autorizzato a percepire una tassa, di cui lui stesso fissa l’importo, per i servizi che non sono contemplati nel presente tariffario.
+\24. L’Ufficio internazionale è autorizzato a percepire una tassa, di cui lui stesso fissa l’importo, per i servizi che non sono contemplati nel presente tariffario.
