@@ -3,39 +3,37 @@ sr: "0.672.934.91"
 title: "Convenzione del 9 settembre 1966 tra la Confederazione Svizzera e la Repubblica Francese, modificata, intesa ad evitare la doppia imposizione in materia di imposte sul reddito e sulla sostanza nonché a prevenire la frode e l'evasione fiscale (con Protocollo add.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1967/1079_1119_1113"
 language: it
-version: 2016-03-30
+version: 2025-07-24
 adopted: 1966-09-09
 in_force: 1967-07-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/1079_1119_1113/20160330/it/xml/fedlex-data-admin-ch-eli-cc-1967-1079_1119_1113-20160330-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1967/1079_1119_1113/20160330/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/1079_1119_1113/20250724/it/xml/fedlex-data-admin-ch-eli-cc-1967-1079_1119_1113-20250724-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1967/1079_1119_1113/20250724/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Convenzione tra la Confederazione Svizzera e la Repubblica Francese, modificata, intesa ad evitare la doppia imposizione in materia di imposte sul reddito e sulla sostanza nonché a prevenire la frode e l’evasione fiscale
 
-RU **1967** 1113; FF **1966** II 465[^t-1]
+RU **2025** 504[^t-1]
 
 Traduzione
 
 Conchiusa il 9 settembre 1966 Approvata dall’Assemblea federale il 7 giugno 1967[^t-2] Istrumenti di ratificazione scambiati il 26 luglio 1967 Entrata in vigore il 26 luglio 1967
 
-(Stato 30 marzo 2016)
+(Stato 24 luglio 2025)
 
 [^t-1]: Nuovo testo giusta l’art. 11 par. 6 dell’Acc. agg. del 22 lug. 1997, approvato dall’AF il 12 mar. 1998 e in vigore dal 1° ago. 1998 ([RU 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297);[FF 1997 IV 925](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
 [^t-2]: [RU 1967 1111](https://fedlex.data.admin.ch/eli/oc/1967/1077_1117_1111)
 
-*Il Consiglio federale della Confederazione Svizzera* *e* *il Presidente della Repubblica Francese*,
+Il Consiglio federale della Confederazione Svizzera e il Presidente della Repubblica Francese,
 
-animati dal desiderio di evitare la doppia imposizione nel campo delle imposte sul reddito e sulla sostanza hanno deciso di conchiudere una convenzione e
+desiderosi di sviluppare ulteriormente le loro relazioni economiche e di migliorare la cooperazione in materia fiscale;
 
-designato, a tale scopo, loro plenipotenziari:
+nell’intento di concludere una convenzione per evitare la doppia imposizione in materia di imposte sul reddito e sulla sostanza, senza creare opportunità di non imposizione o di ridotta imposizione attraverso l’evasione o l’elusione fiscale (incluse le strategie di abuso dei trattati fiscali [«treaty-shopping»] finalizzate a ottenere i benefici previsti dalla presente Convenzione a beneficio indiretto di residenti in Giurisdizioni terze),
 
-(se ne omettono i nomi)
+hanno convenuto quanto segue:[^ingress-1]
 
-i quali, dopo essersi scambiati i loro pieni poteri, trovatili in buona e debita forma,
-
-hanno convenuto quanto segue:
+[^ingress-1]: Nuovo testo giusta l’art. 1 dell’Acc. agg. del 27 giu. 2023, approvato dall’AF il 14 giu. 2024 e in vigore dal 24 lug. 2025 ([RU 2025 486](https://fedlex.data.admin.ch/eli/oc/2025/486), [504](https://fedlex.data.admin.ch/eli/oc/2025/504);[FF 2023 2744](https://fedlex.data.admin.ch/eli/fga/2023/2744)).
 
 #### Art. 1
 
@@ -49,18 +47,20 @@ La presente convenzione si applica alle persone che sono residenti di uno o di e
 
 La convenzione non si applica, tuttavia, alle imposte riscosse alla fonte su le vincite alle lotterie.
 
-<sup>3.</sup> Le imposte attuali cui si applica la convenzione sono:
+<sup>3.</sup> Le imposte federali, cantonali e comunali
 
-B. Per quanto riguarda la Svizzera:
+Le imposte attuali cui si applica la convenzione sono:
 
-Le imposte federali, cantonali e comunali
+- [tab]
 
-A.[^2-1] In Francia, le imposte considerate nel paragrafo 2 e segnatamente:
+  A.[^2-1] In Francia, le imposte considerate nel paragrafo 2 e segnatamente:
 
-- a) l’imposta sul reddito;
-- b) l’imposta sulle società;
-- c) l’imposta sui salari, retta dalle disposizioni della Convenzione applicabili, secondo i casi, agli utili delle imprese o ai redditi delle professioni indipendenti;
-- d) l’imposta di solidarietà sulla sostanza.
+  - a) l’imposta sul reddito;
+  - b) l’imposta sulle società;
+  - c) l’imposta sui salari, retta dalle disposizioni della Convenzione applicabili, secondo i casi, agli utili delle imprese o ai redditi delle professioni indipendenti;
+  - d) l’imposta di solidarietà sulla sostanza.
+
+- [tab] B. Per quanto riguarda la Svizzera:
 
 - a) sul reddito (reddito complessivo, reddito del lavoro, reddito della sostanza, utili aziendali, profitti da capitali, ecc.);
 - b) su la sostanza (sostanza complessiva, beni mobili e immobili, sostanza aziendale, capitali e riserve, ecc.).
@@ -90,11 +90,12 @@ Ai fini della presente Convenzione, a meno che il contesto non richieda una dive
   l’espressione «autorità competente» designa:
 
   - i) per quanto riguarda la Francia, il ministro incaricato del budget o il suo rappresentante autorizzato,
-  - ii) per quanto riguarda la Svizzera, il direttore dell’Amministrazione federale delle contribuzioni o il suo rappresentante autorizzato.
+  - ii)[^3-2] per quanto riguarda la Svizzera, il capo del Dipartimento federale delle finanze o il suo rappresentante autorizzato.
 
 <sup>2.</sup> Per quanto concerne l’applicazione della Convenzione da parte di uno Stato contraente, i termini o le espressioni non altrimenti definiti hanno il significato che ad essi viene attribuito dalla legislazione di detto Stato relativa alle imposte oggetto della Convenzione, a meno che il contesto non richieda una diversa interpretazione. Il significato attribuito ad un termine o ad un’espressione dal diritto fiscale di detto Stato prevale sul significato attribuito a questo termine o a questa espressione dalle altre branche del diritto di detto Stato.
 
 [^3-1]: Nuovo testo giusta l’art. 2 dell’Acc. agg. del 22 lug. 1997, approvato dall’AF il 12 mar. 1998 e in vigore dal 1° ago. 1998 ([RU 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297);[FF 1997 IV 925](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^3-2]: Nuovo testo giusta l’art. 2 dell’Acc. agg. del 27 giu. 2023, approvato dall’AF il 14 giu. 2024 e in vigore dal 24 lug. 2025 ([RU 2025 486](https://fedlex.data.admin.ch/eli/oc/2025/486), [504](https://fedlex.data.admin.ch/eli/oc/2025/504);[FF 2023 2744](https://fedlex.data.admin.ch/eli/fga/2023/2744)).
 
 #### Art. 4
 
@@ -115,16 +116,18 @@ Quando, in base alla disposizione del paragrafo 1, una persona fisica è conside
 
 L’assoggettamento alle imposte per le quali il domicilio è determinante ha inizio nell’altro Stato a contare dalla stessa data.
 
-5.[^4-1] L’espressione «residente di uno Stato contraente» designa parimenti questo Stato, le sue suddivisioni politiche e i suoi enti locali, come pure le loro persone giuridiche di diritto pubblico.
+<sup>5.</sup> L’espressione «residente di uno Stato contraente» designa parimenti questo Stato, le sue suddivisioni politiche e i suoi enti locali, come pure le loro persone giuridiche di diritto pubblico. [^4-1]
 
-6.[^4-2] Non è considerata residente di uno Stato contraente nel senso del presente articolo:
+<sup>6.</sup>
 
-- a) una persona che, pur rispondendo alla definizione data nei paragrafi 1, 2, 3 e 5[^4-3], qui sopra, beneficia solo in apparenza di redditi, dei quali fruisce in realtà – sia direttamente sia indirettamente per il tramite di altre persone fisiche o giuridiche - una persona che non può essere considerata in proprio residente di detto Stato nel senso del presente articolo;
-- b) una persona fisica che è imponibile in detto Stato soltanto su una base determinata globalmente secondo il valore locativo della o delle abitazioni che ha in questo Stato.
+Non è considerata residente di uno Stato contraente nel senso del presente articolo:
+
+- a) una persona che, pur rispondendo alla definizione data nei paragrafi 1, 2, 3 e 5[^4-2], qui sopra, beneficia solo in apparenza di redditi, dei quali fruisce in realtà – sia direttamente sia indirettamente per il tramite di altre persone fisiche o giuridiche - una persona che non può essere considerata in proprio residente di detto Stato nel senso del presente articolo;
+- b) una persona fisica che è imponibile in detto Stato soltanto su una base determinata globalmente secondo il valore locativo della o delle abitazioni che ha in questo Stato. [^4-3]
 
 [^4-1]: Introdotto dall’art. 3 dell’Acc. agg. del 22 lug. 1997, approvato dall’AF il 12 mar. 1998 e in vigore dal 1° ago. 1998 ([RU 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297);[FF 1997 IV 925](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
-[^4-2]: Originario n. 5
-[^4-3]: Parole giusta l’art. 3 dell’Acc. agg. del 22 lug. 1997, approvato dall’AF il 12 mar. 1998 e in vigore dal 1° ago. 1998 ([RU 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297);[FF 1997 IV 925](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^4-2]: Parole giusta l’art. 3 dell’Acc. agg. del 22 lug. 1997, approvato dall’AF il 12 mar. 1998 e in vigore dal 1° ago. 1998 ([RU 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297);[FF 1997 IV 925](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^4-3]: Originario n. 5
 
 #### Art. 5
 
@@ -164,7 +167,7 @@ Non si considera che vi sia «stabile organizzazione» se:
 
 <sup>8.</sup> Quando, in uno Stato contraente, un cantiere non è aperto direttamente da un imprenditore dell’altro Stato contraente, ma per il tramite di una società semplice del diritto svizzero (se il cantiere è aperto in Svizzera) o di una società di fatto o associazione in partecipazione del diritto francese (se il cantiere è aperto in Francia), alla quale partecipa il detto imprenditore, le disposizioni del paragrafo 8 dell’articolo 7 e del paragrafo 4 dell’articolo 24 si applicano soltanto se si danno le condizioni del paragrafo 2, lettera g, del presente articolo.
 
-[^5-1]: Vedi, tuttavia, l’art. 7 dell’acc. del 27 set. 1984 tra il Consiglio federale svizzero e il Governo della Repubblica francese sul raccordo autostradale tra Bardonnez e Saint-Julien-en-Genevois ([RS 0.725.141](https://fedlex.data.admin.ch/eli/cc/1986/452_452_452)).
+[^5-1]: Vedi, tuttavia, l’art. 7 dell’acc. del 27 set. 1984 tra il Consiglio federale svizzero e il Governo della Repubblica francese sul raccordo autostradale tra Bardonnez e Saint-Julien-en-Genevois ([RS 0.725.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2735)).
 
 #### Art. 6
 
@@ -215,21 +218,27 @@ Quando la proprietà o l’usufrutto di azioni, di quote o di altri diritti in u
 
 <sup>4.</sup> La disposizione del paragrafo 1 si applica parimente agli utili di una impresa derivanti da partecipazioni a un fondo comune («pool»), a un esercizio comune o ad un’organizzazione internazionale d’esercizio.
 
-5.[^8-1] Nonostante le disposizioni dell’articolo 2:
+<sup>5.</sup>
+
+Nonostante le disposizioni dell’articolo 2:
 
 - a) un’impresa che ha la sua sede della direzione effettiva in Svizzera e che esercita aeromobili in traffico internazionale è esente d’ufficio dalla tassa professionale dovuta in Francia in relazione a questo esercizio;
-- b) un’impresa che ha la sua sede della direzione effettiva in Francia e che esercita aeromobili in traffico internazionale è esente da ogni imposta analoga alla tassa professionale francese, dovuta in Svizzera in relazione a questo esercizio
+- b) un’impresa che ha la sua sede della direzione effettiva in Francia e che esercita aeromobili in traffico internazionale è esente da ogni imposta analoga alla tassa professionale francese, dovuta in Svizzera in relazione a questo esercizio.[^8-1]
 
 [^8-1]: Introdotto dall’art. 6 dell’Acc. agg. del 22 lug. 1997, approvato dall’AF il 12 mar. 1998 e in vigore dal 1° ago. 1998 ([RU 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297);[FF 1997 IV 925](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)). Vedi anche l’art. 21 par. 2 dell’Acc. agg. del 22 lug. 1997 alla fine del presente testo.
 
 #### Art. 9
 
-e che nell’uno e nell’altro caso, le due imprese, nelle loro relazioni commerciali o finanziarie, sono vincolate da condizioni accettate o imposte, diverse da quelle che sarebbero state convenute tra imprese indipendenti, gli utili che, senza tali condizioni, sarebbero stati conseguiti da una delle imprese ma che, a causa di dette condizioni, non sono stati conseguiti, possono essere inclusi negli utili di detta impresa e imposti di conseguenza.
+<sup>1.</sup> e che nell’uno e nell’altro caso, le due imprese, nelle loro relazioni commerciali o finanziarie, sono vincolate da condizioni accettate o imposte, diverse da quelle che sarebbero state convenute tra imprese indipendenti, gli utili che, senza tali condizioni, sarebbero stati conseguiti da una delle imprese ma che, a causa di dette condizioni, non sono stati conseguiti, possono essere inclusi negli utili di detta impresa e imposti di conseguenza.
 
 Quando:
 
 - a) un’impresa di uno Stato contraente partecipa, direttamente o indirettamente, alla direzione, al controllo o al capitale di un’impresa dell’altro Stato contraente; o che
 - b) le medesime persone partecipano, direttamente o indirettamente, alla direzione, al controllo o al capitale di un’impresa di uno Stato contraente e di un’impresa dell’altro Stato contraente,
+
+<sup>2.</sup> Quando uno Stato contraente include negli utili di un’impresa di questo Stato, e tassa di conseguenza, utili sui quali un’impresa dell’altro Stato contraente è stata tassata in questo altro Stato e gli utili così inclusi sono utili che sarebbero stati conseguiti dall’impresa del primo Stato se le condizioni convenute tra le due imprese fossero state quelle che sarebbero state fissate tra imprese indipendenti, l’altro Stato procede a una rettifica appropriata dell’ammontare d’imposta prelevato su questi utili. Per determinare la rettifica occorre tener conto delle altre disposizioni della presente Convenzione; se necessario, le autorità competenti degli Stati contraenti si consultano.[^9-1]
+
+[^9-1]: Introdotto dall’art. 3 dell’Acc. agg. del 27 giu. 2023, approvato dall’AF il 14 giu. 2024 e in vigore dal 24 lug. 2025 ([RU 2025 486](https://fedlex.data.admin.ch/eli/oc/2025/486), [504](https://fedlex.data.admin.ch/eli/oc/2025/504);[FF 2023 2744](https://fedlex.data.admin.ch/eli/fga/2023/2744)).
 
 #### Art. 10
 
@@ -277,7 +286,7 @@ Quando:
 [^11-1]: Nuovo testo giusta l’art. 8 dell’Acc. agg. del 22 lug. 1997, approvato dall’AF il 12 mar. 1998 e in vigore dal 1° ago. 1998 ([RU 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297);[FF 1997 IV 925](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
 [^11-2]: Nuovo testo giusta l’art. 1 par. 1 dell’Acc. agg. del 27 ago. 2009, approvato dall’AF il 18 giu. 2010 e in vigore dal 4 nov. 2010 ([RU 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805)[5681](https://fedlex.data.admin.ch/eli/oc/2010/804);[FF 2009 1323](https://fedlex.data.admin.ch/eli/fga/2009/359), [2010 1371](https://fedlex.data.admin.ch/eli/fga/2010/268)).
 [^11-3]: Introdotto dall’art. 1 par. 2 dell’Acc. agg. del 27 ago. 2009, approvato dall’AF il 18 giu. 2010 e in vigore dal 4 nov. 2010 ([RU 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805)[5681](https://fedlex.data.admin.ch/eli/oc/2010/804);[FF 2009 1323](https://fedlex.data.admin.ch/eli/fga/2009/359), [2010 1371](https://fedlex.data.admin.ch/eli/fga/2010/268)).
-[^11-4]: [RS 0.641.926.81](https://fedlex.data.admin.ch/eli/cc/2005/444)
+[^11-4]: [RS 0.641.926.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2471)
 
 #### Art. 12
 
@@ -303,9 +312,9 @@ Quando:
 
 <sup>3.</sup> Ai fini del presente articolo il termine «diritti di licenza» designa i compensi di qualsiasi specie corrisposti per l’uso o la concessione dell’uso di diritti d’autore su opere letterarie, artistiche o scientifiche, comprese le pellicole cinematografiche, di brevetti, marchi di fabbrica o di commercio, disegni o modelli, progetti, formule o processi segreti …[^13-1] e per informazioni concernenti esperienze di carattere industriale, commerciale o scientifico.
 
-4.[^13-2] Le disposizioni dei paragrafi 1 e 2 non si applicano nel caso in cui il beneficiario effettivo dei diritti di licenza, residente di uno Stato contraente, eserciti, nell’altro Stato contraente dal quale provengono i diritti di licenza, sia un’attività commerciale o industriale per mezzo di una stabile organizzazione ivi situata, sia una libera professione o altre attività indipendenti di carattere analogo mediante una base fissa ivi situata ed i diritti o i beni generatori dei diritti di licenza si ricolleghino effettivamente a detta stabile organizzazione o base fissa. In tale ipotesi, trovano applicazione le disposizioni dell’articolo 7 o dell’articolo 16, a seconda dei casi.
+<sup>4.</sup> Le disposizioni dei paragrafi 1 e 2 non si applicano nel caso in cui il beneficiario effettivo dei diritti di licenza, residente di uno Stato contraente, eserciti, nell’altro Stato contraente dal quale provengono i diritti di licenza, sia un’attività commerciale o industriale per mezzo di una stabile organizzazione ivi situata, sia una libera professione o altre attività indipendenti di carattere analogo mediante una base fissa ivi situata ed i diritti o i beni generatori dei diritti di licenza si ricolleghino effettivamente a detta stabile organizzazione o base fissa. In tale ipotesi, trovano applicazione le disposizioni dell’articolo 7 o dell’articolo 16, a seconda dei casi.[^13-2]
 
-5.[^13-3] I diritti di licenza si considerano provenienti da uno Stato contraente quando il debitore è un residente di detto Stato. Tuttavia, quando il debitore dei diritti di licenza, sia esso residente o no di uno Stato contraente, ha in uno Stato contraente una stabile organizzazione o una base fissa per le cui necessità è stato contratto l’obbligo del pagamento dei diritti di licenza e tali diritti di licenza sono a carico della stabile organizzazione o della base fissa, i diritti di licenza stessi si considerano provenienti dallo Stato contraente in cui è situata la stabile organizzazione o la base fissa.
+<sup>5.</sup> I diritti di licenza si considerano provenienti da uno Stato contraente quando il debitore è un residente di detto Stato. Tuttavia, quando il debitore dei diritti di licenza, sia esso residente o no di uno Stato contraente, ha in uno Stato contraente una stabile organizzazione o una base fissa per le cui necessità è stato contratto l’obbligo del pagamento dei diritti di licenza e tali diritti di licenza sono a carico della stabile organizzazione o della base fissa, i diritti di licenza stessi si considerano provenienti dallo Stato contraente in cui è situata la stabile organizzazione o la base fissa.[^13-3]
 
 <sup>6.</sup> Qualora, in conseguenza di particolari relazioni esistenti tra debitore e creditore o tra ciascuno di essi e terze persone, l’ammontare dei diritti di licenza pagati, tenuto conto della prestazione per la quale sono versati, ecceda l’ammontare che sarebbe stato convenuto tra debitore e creditore in assenza di dette relazioni, le disposizioni del presente articolo si applicano soltanto a quest’ultimo ammontare. In tal caso, la parte eccedente dei pagamenti resta imponibile in conformità della legislazione di ciascuno Stato contraente, conto tenuto delle altre disposizioni della presente convenzione.
 
@@ -334,7 +343,7 @@ Il paragrafo 1 del presente articolo non è applicabile se la persona che chiede
 
 <sup>1.</sup> I profitti derivanti dall’alienazione di beni immobili, come definiti al capoverso 1 del paragrafo 2 dell’articolo 6, sono imponibili nello Stato contraente dove detti beni sono situati. …[^15-1]
 
-2.[^15-2] I profitti derivanti dall’alienazione di azioni, di quote o di altri diritti in una società, in un trust o in un’istituzione analoga, il cui attivo o patrimonio è principalmente costituito, direttamente o indirettamente, da beni immobili definiti nel paragrafo 2 dell’articolo 6 e situati in uno Stato contraente oppure di diritti portanti su tali beni sono imponibili in questo Stato. Per quanto concerne l’applicazione di questa disposizione non sono presi in considerazione i beni immobili destinati da questa società alla propria attività industriale, commerciale o agricola oppure all’esercizio da parte della stessa di una libera professione o di altre attività indipendenti di carattere analogo.
+<sup>2.</sup> I profitti derivanti dall’alienazione di azioni, di quote o di altri diritti in una società, in un trust o in un’istituzione analoga, il cui attivo o patrimonio è principalmente costituito, direttamente o indirettamente, da beni immobili definiti nel paragrafo 2 dell’articolo 6 e situati in uno Stato contraente oppure di diritti portanti su tali beni sono imponibili in questo Stato. Per quanto concerne l’applicazione di questa disposizione non sono presi in considerazione i beni immobili destinati da questa società alla propria attività industriale, commerciale o agricola oppure all’esercizio da parte della stessa di una libera professione o di altre attività indipendenti di carattere analogo.[^15-2]
 
 <sup>3.</sup> I profitti derivanti dall’alienazione di beni mobili facenti parte dell’attivo di una stabile organizzazione che un’impresa di uno Stato contraente ha nell’altro Stato contraente, o di beni mobili facenti parte di una sede fissa della quale un residente di uno Stato contraente dispone nell’altro Stato contraente per l’esercizio di una libera professione, compresi i profitti analoghi derivanti dall’alienazione totale di detta stabile organizzazione (unitamente o no alla relativa impresa) o di detta sede fissa, sono imponibili in questo altro Stato. Tuttavia, i profitti derivanti dall’alienazione dei beni mobili considerati nel paragrafo 3 dell’articolo 24 sono imponibili soltanto nello Stato contraente nel quale i beni di cui trattasi sono imponibili secondo le disposizioni di detto articolo.
 
@@ -357,9 +366,7 @@ Il paragrafo 1 del presente articolo non è applicabile se la persona che chiede
 
 <sup>1.</sup> Salve le disposizioni degli articoli da 18 a 21, i salari, gli stipendi e le altre rimunerazioni analoghe che un residente di uno Stato contraente riceve in corrispettivo di un’attività dipendente sono imponibili soltanto in detto Stato, a meno che tale attività non venga svolta nell’altro Stato contraente. In quest’ultimo caso, le rimunerazioni percepite a detto titolo sono imponibili in quest’altro Stato.
 
-<sup>2.</sup> 3.[^17-2] Nonostante le precedenti disposizioni del presente articolo, le rimunerazioni percepite in corrispettivo di un’attività dipendente svolta a bordo di navi, aeromobili o veicoli ferroviari esercitati nel traffico internazionale o a bordo di battelli adibiti alla navigazione interna sono imponibili nello Stato contraente in cui è situata la sede della direzione effettiva dell’impresa.
-
-4.[^17-3] Le disposizioni dell’Accordo dell’11 aprile 1983[^17-4] relativo all’imposizione delle remunerazioni dei lavoratori frontalieri, che fanno parte integrante della presente Convenzione, si applicano nonostante le disposizioni precedenti del presente articolo, ma con riserva delle disposizioni degli articoli 18, 19 e 21.
+<sup>2.</sup>
 
 Nonostante le disposizioni del paragrafo 1, le rimunerazioni che un residente di uno Stato contraente riceve in corrispettivo di un’attività dipendente svolta nell’altro Stato contraente sono imponibili soltanto nel primo Stato se:
 
@@ -367,10 +374,17 @@ Nonostante le disposizioni del paragrafo 1, le rimunerazioni che un residente di
 - b) le rimunerazioni sono pagate da o a nome di un datore di lavoro che non sia residente dell’altro Stato; e
 - c) l’onere delle rimunerazioni non sia sostenuto da una stabile organizzazione o sede fissa che il datore di lavoro ha nell’altro Stato.
 
+<sup>3.</sup> Nonostante le precedenti disposizioni del presente articolo, le rimunerazioni percepite in corrispettivo di un’attività dipendente svolta a bordo di navi, aeromobili o veicoli ferroviari esercitati nel traffico internazionale o a bordo di battelli adibiti alla navigazione interna sono imponibili nello Stato contraente in cui è situata la sede della direzione effettiva dell’impresa.[^17-2]
+
+<sup>4.</sup> Le disposizioni dell’Accordo dell’11 aprile 1983[^17-3] relativo all’imposizione delle remunerazioni dei lavoratori frontalieri, che fanno parte integrante della presente Convenzione, si applicano nonostante le disposizioni precedenti del presente articolo, ma con riserva delle disposizioni degli articoli 18, 19 e 21.[^17-4]
+
+<sup>5.</sup> Le disposizioni del Protocollo addizionale alla presente Convenzione relativo all’esercizio dell’attività dipendente in telelavoro si applicano nonostante le disposizioni del paragrafo 1 del presente articolo, ma con riserva del paragrafo 4.[^17-5]
+
 [^17-1]: Vedi la nota all’art. 5.
 [^17-2]: Nuovo testo giusta l’art. 3 dell’Acc. agg. del 27 ago. 2009, approvato dall’AF il 18 giu. 2010 e in vigore dal 4 nov. 2010 ([RU 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805)[5681](https://fedlex.data.admin.ch/eli/oc/2010/804);[FF 2009 1323](https://fedlex.data.admin.ch/eli/fga/2009/359), [2010 1371](https://fedlex.data.admin.ch/eli/fga/2010/268)).
-[^17-3]: Nuovo testo giusta l’art. 12 dell’Acc. agg. del 22 lug. 1997, approvato dall’AF il 12 mar. 1998 e in vigore dal 1° ago. 1998 ([RU 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297);[FF 1997 IV 925](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
-[^17-4]: FF **1983** II 515; l’Accordo è entrato in vigore il 18 dic. 1986.
+[^17-3]: FF **1983** II 515; l’Accordo è entrato in vigore il 18 dic. 1986.
+[^17-4]: Nuovo testo giusta l’art. 12 dell’Acc. agg. del 22 lug. 1997, approvato dall’AF il 12 mar. 1998 e in vigore dal 1° ago. 1998 ([RU 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297);[FF 1997 IV 925](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^17-5]: Introdotto dall’art. 4 dell’Acc. agg. del 27 giu. 2023, approvato dall’AF il 14 giu. 2024 e in vigore dal 24 lug. 2025 ([RU 2025 486](https://fedlex.data.admin.ch/eli/oc/2025/486), [504](https://fedlex.data.admin.ch/eli/oc/2025/504);[FF 2023 2744](https://fedlex.data.admin.ch/eli/fga/2023/2744)). Vedi anche l’art. 11 par. 3 e 4 dell’Acc. agg. del 27 giu. 2023 alla fine del presente testo.
 
 #### Art. 18
 
@@ -396,7 +410,7 @@ Nonostante le disposizioni del paragrafo 1, le rimunerazioni che un residente di
 
 <sup>1.</sup> Salve le disposizioni dell’articolo 21, le pensioni e le altre rimunerazioni analoghe pagate a un residente di uno Stato contraente a titolo di cessato impiego, sono imponibili soltanto in questo Stato.
 
-2.[^20-1] Nonostante le disposizioni del paragrafo 1, tali pensioni e altre rimunerazioni analoghe sono parimenti imponibili, in ragione della parte non tassata nell’altro Stato contraente, nello Stato contraente da cui provengono, se non sono tassate, in tutto o in parte, nell’altro Stato contraente in virtù della sua legislazione interna.
+<sup>2.</sup> Nonostante le disposizioni del paragrafo 1, tali pensioni e altre rimunerazioni analoghe sono parimenti imponibili, in ragione della parte non tassata nell’altro Stato contraente, nello Stato contraente da cui provengono, se non sono tassate, in tutto o in parte, nell’altro Stato contraente in virtù della sua legislazione interna.[^20-1]
 
 [^20-1]: Introdotto dall’art. 4 par. 2 dell’Acc. agg. del 27 ago. 2009, approvato dall’AF il 18 giu. 2010 e in vigore dal 4 nov. 2010 ([RU 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805)[5681](https://fedlex.data.admin.ch/eli/oc/2010/804);[FF 2009 1323](https://fedlex.data.admin.ch/eli/fga/2009/359), [2010 1371](https://fedlex.data.admin.ch/eli/fga/2010/268)).
 
@@ -404,7 +418,7 @@ Nonostante le disposizioni del paragrafo 1, le rimunerazioni che un residente di
 
 <sup>1.</sup> Le rimunerazioni, comprese le pensioni, pagate da uno Stato contraente o da una suddivisione politica o da un suo ente locale, ovvero da una persona giuridica di diritto pubblico di detto Stato, sia direttamente, sia mediante prelevamento da un fondo speciale, a una persona fisica sua cittadina a titolo di servizi resi presentemente o precedentemente, sono imponibili soltanto nello Stato contraente da dove provengono dette rimunerazioni.
 
-\2. [^21-1] Le disposizioni degli articoli 17, 18, 19 e 20 si applicano ai salari, agli stipendi, alle pensioni e alle altre rimunerazioni analoghe pagate in corrispettivo di servizi resi nell’ambito di un’attività industriale o commerciale esercitata da uno Stato contraente, da una sua suddivisione politica o da un suo ente locale, o da una delle loro persone giuridiche di diritto pubblico.
+<sup>2.</sup> Le disposizioni degli articoli 17, 18, 19 e 20 si applicano ai salari, agli stipendi, alle pensioni e alle altre rimunerazioni analoghe pagate in corrispettivo di servizi resi nell’ambito di un’attività industriale o commerciale esercitata da uno Stato contraente, da una sua suddivisione politica o da un suo ente locale, o da una delle loro persone giuridiche di diritto pubblico.[^21-1]
 
 [^21-1]: Introdotto dall’art. 5 par. 2 dell’Acc. agg. del 27 ago. 2009, approvato dall’AF il 18 giu. 2010 e in vigore dal 4 nov. 2010 ([RU 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805)[5681](https://fedlex.data.admin.ch/eli/oc/2010/804);[FF 2009 1323](https://fedlex.data.admin.ch/eli/fga/2009/359), [2010 1371](https://fedlex.data.admin.ch/eli/fga/2010/268)).
 
@@ -492,32 +506,34 @@ Tale disposizione non può essere interpretata nel senso che faccia obbligo ad u
 
 …[^26-1]
 
-4.[^26-2] A meno che non siano applicabili le disposizioni dell’articolo 9, del paragrafo 5 dell’articolo 12 o del paragrafo 6 dell’articolo 13, gli interessi, i diritti di licenza e le altre spese pagati da un’impresa di uno Stato contraente ad un residente dell’altro Stato contraente sono deducibili, ai fini della determinazione degli utili imponibili di detta impresa, alle stesse condizioni come se fossero stati pagati ad un residente del primo Stato. Allo stesso modo, i debiti di un’impresa di uno Stato contraente verso un residente dell’altro Stato contraente sono deducibili, ai fini della determinazione della sostanza imponibile di detta impresa, alle stesse condizioni come se essi fossero stati contratti verso un residente del primo Stato.
+<sup>4.</sup> A meno che non siano applicabili le disposizioni dell’articolo 9, del paragrafo 5 dell’articolo 12 o del paragrafo 6 dell’articolo 13, gli interessi, i diritti di licenza e le altre spese pagati da un’impresa di uno Stato contraente ad un residente dell’altro Stato contraente sono deducibili, ai fini della determinazione degli utili imponibili di detta impresa, alle stesse condizioni come se fossero stati pagati ad un residente del primo Stato. Allo stesso modo, i debiti di un’impresa di uno Stato contraente verso un residente dell’altro Stato contraente sono deducibili, ai fini della determinazione della sostanza imponibile di detta impresa, alle stesse condizioni come se essi fossero stati contratti verso un residente del primo Stato.[^26-2]
 
-5.[^26-3] Le imprese di uno Stato contraente, il cui capitale è, in tutto o in parte, direttamente o indirettamente, posseduto o controllato da uno o più residenti dell’altro Stato contraente, non sono assoggettate nel primo Stato contraente ad alcuna imposizione od obbligo ad essa inerente, diversi o più onerosi di quelli cui sono o potranno essere assoggettate le altre imprese della stessa natura del primo Stato.
+<sup>5.</sup> Le imprese di uno Stato contraente, il cui capitale è, in tutto o in parte, direttamente o indirettamente, posseduto o controllato da uno o più residenti dell’altro Stato contraente, non sono assoggettate nel primo Stato contraente ad alcuna imposizione od obbligo ad essa inerente, diversi o più onerosi di quelli cui sono o potranno essere assoggettate le altre imprese della stessa natura del primo Stato.[^26-3]
 
-6.[^26-4] Nonostante le disposizioni dell’articolo 2[^26-5], ai fini del presente articolo il termine «imposizione» designa le imposte di ogni genere e denominazione.
+<sup>6.</sup> Nonostante le disposizioni dell’articolo 2[^26-4], ai fini del presente articolo il termine «imposizione» designa le imposte di ogni genere e denominazione.[^26-5]
 
 [^26-1]: Comma soppresso dall’art. 17 par. 1 dell’Acc. agg. del 22 lug. 1997, approvato dall’AF il 12 mar. 1998 e con effetto dal 1° ago. 1998 ([RU 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297);[FF 1997 IV 925](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
 [^26-2]: Introdotto dall’art. 17 par. 2 dell’Acc. agg. del 22 lug. 1997, approvato dall’AF il 12 mar. 1998 e in vigore dal 1° ago. 1998 ([RU 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297);[FF 1997 IV 925](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
 [^26-3]: Originario n. 4
-[^26-4]: Originario n. 5
-[^26-5]: Parole introdotte dall’art. 17 par. 4 dell’Acc. agg. del 22 lug. 1997, approvato dall’AF il 12 mar. 1998 e in vigore dal 1° ago. 1998 ([RU 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297);[FF 1997 IV 925](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^26-4]: Parole introdotte dall’art. 17 par. 4 dell’Acc. agg. del 22 lug. 1997, approvato dall’AF il 12 mar. 1998 e in vigore dal 1° ago. 1998 ([RU 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297);[FF 1997 IV 925](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^26-5]: Originario n. 5
 
 #### Art. 27
 
-1.[^27-1] Quando ritiene che le misure adottate da uno o da entrambi gli Stati contraenti comportano o comporteranno per lei un’imposizione non conforme alla presente Convenzione, una persona può, indipendentemente dai rimedi giuridici previsti dalla legislazione nazionale di detti Stati, sottoporre il suo caso all’autorità competente dello Stato contraente di cui è residente o, se il suo caso rientra nell’ambito del paragrafo 1 dell’articolo 26, a quella dello Stato contraente di cui possiede la cittadinanza. Il caso dovrà essere sottoposto entro i tre anni che seguono la prima notificazione della misura che comporta un’imposizione non conforme alle disposizioni della presente Convenzione.
+<sup>1.</sup> Quando ritiene che le misure adottate da uno o da entrambi gli Stati contraenti comportano o comporteranno per lei un’imposizione non conforme alla presente Convenzione, una persona può, indipendentemente dai mezzi giuridici previsti dalla legislazione nazionale di detti Stati, sottoporre il suo caso all’autorità competente di uno dei due Stati contraenti.[^27-1] Il caso dovrà essere sottoposto entro i tre anni che seguono la prima notificazione della misura che comporta un’imposizione non conforme alle disposizioni della presente Convenzione.[^27-2]
 
 <sup>2.</sup> Detta autorità competente, se il reclamo le appare fondato ed essa stessa non è in grado di trovare una soluzione soddisfacente, si sforzerà di risolvere il caso in via di amichevole composizione con l’autorità competente dell’altro Stato contraente, al fine di evitare un’imposizione non conforme alla convenzione.
 
-<sup>3.</sup> Le autorità competenti degli Stati contraenti si sforzeranno, in via di amichevole composizione, di appianare le difficoltà che potessero sorgere in ordine all’applicazione della convenzione. Esse possono altresì concertarsi al fine di evitare la doppia imposizione nei casi non previsti della convenzione.
+<sup>3.</sup> Le autorità competenti degli Stati contraenti si adoperano per risolvere in via di amichevole composizione le difficoltà o i dubbi inerenti all’interpretazione o all’applicazione della Convenzione.[^27-3] Esse possono altresì concertarsi al fine di evitare la doppia imposizione nei casi non previsti della convenzione.
 
 <sup>4.</sup> Le autorità competenti degli Stati contraenti possono comunicare direttamente fra di loro al fine di pervenire ad un accordo nel senso dei paragrafi precedenti. Se per giungere a detto accordo appare consigliabile uno scambio orale dei rispettivi punti di vista, esso può aver luogo in seno ad una commissione composta di rappresentanti delle autorità competenti degli Stati contraenti.
 
-5.[^27-2] Se, in applicazione del paragrafo 1, un’impresa residente di uno Stato contraente ha presentato all’autorità competente di uno degli Stati contraenti un caso contemplato all’articolo 9 della presente Convenzione o relativo all’esistenza nell’altro Stato contraente di una stabile organizzazione secondo l’articolo 5 della presente Convenzione, o un caso relativo alla ripartizione degli utili tra questa impresa e la sua stabile organizzazione situata nell’altro Stato contraente, e le autorità competenti non hanno raggiunto un accordo per risolvere il caso, in virtù del paragrafo 2, entro i tre anni che seguono la notificazione del caso all’autorità competente di uno degli Stati contraenti, qualsiasi questione irrisolta relativa a questo caso può essere sottoposta ad arbitrato se l’impresa lo richiede. Tuttavia, le questioni irrisolte non sono sottoposte ad arbitrato se una persona direttamente interessata da questo caso ha il diritto, secondo la legislazione interna di uno degli Stati contraenti, di ottenere una decisione giurisdizionale di questo Stato contraente sulle stesse questioni o se questa decisione giurisdizionale è già stata emessa. Il lodo arbitrale vincola i due Stati contraenti e deve essere applicato a prescindere dai termini esistenti nella legislazione interna di questi Stati. Le autorità competenti degli Stati contraenti disciplinano di comune accordo le modalità di applicazione del presente paragrafo.
+<sup>5.</sup> Se, in applicazione del paragrafo 1, un’impresa residente di uno Stato contraente ha presentato all’autorità competente di uno degli Stati contraenti un caso contemplato all’articolo 9 della presente Convenzione o relativo all’esistenza nell’altro Stato contraente di una stabile organizzazione secondo l’articolo 5 della presente Convenzione, o un caso relativo alla ripartizione degli utili tra questa impresa e la sua stabile organizzazione situata nell’altro Stato contraente, e le autorità competenti non hanno raggiunto un accordo per risolvere il caso, in virtù del paragrafo 2, entro i tre anni che seguono la notificazione del caso all’autorità competente di uno degli Stati contraenti, qualsiasi questione irrisolta relativa a questo caso può essere sottoposta ad arbitrato se l’impresa lo richiede. Tuttavia, le questioni irrisolte non sono sottoposte ad arbitrato se una persona direttamente interessata da questo caso ha il diritto, secondo la legislazione interna di uno degli Stati contraenti, di ottenere una decisione giurisdizionale di questo Stato contraente sulle stesse questioni o se questa decisione giurisdizionale è già stata emessa. Il lodo arbitrale vincola i due Stati contraenti e deve essere applicato a prescindere dai termini esistenti nella legislazione interna di questi Stati. Le autorità competenti degli Stati contraenti disciplinano di comune accordo le modalità di applicazione del presente paragrafo.[^27-4]
 
-[^27-1]: Nuovo testo giusta l’art. 18 dell’Acc. agg. del 22 lug. 1997, approvato dall’AF il 12 mar. 1998 e in vigore dal 1° ago. 1998 ([RU 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297);[FF 1997 IV 925](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
-[^27-2]: Introdotto dall’art. 6 dell’Acc. agg. del 27 ago. 2009, approvato dall’AF il 18 giu. 2010 e in vigore dal 4 nov. 2010 ([RU 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805)[5681](https://fedlex.data.admin.ch/eli/oc/2010/804);[FF 2009 1323](https://fedlex.data.admin.ch/eli/fga/2009/359), [2010 1371](https://fedlex.data.admin.ch/eli/fga/2010/268)).
+[^27-1]: Nuovo testo del per. giusta l’art. 5 lett. a dell’Acc. agg. del 27 giu. 2023, approvato dall’AF il 14 giu. 2024 e in vigore dal 24 lug. 2025 ([RU 2025 486](https://fedlex.data.admin.ch/eli/oc/2025/486), [504](https://fedlex.data.admin.ch/eli/oc/2025/504);[FF 2023 2744](https://fedlex.data.admin.ch/eli/fga/2023/2744)).
+[^27-2]: Nuovo testo giusta l’art. 18 dell’Acc. agg. del 22 lug. 1997, approvato dall’AF il 12 mar. 1998 e in vigore dal 1° ago. 1998 ([RU 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297);[FF 1997 IV 925](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^27-3]: Nuovo testo del per. giusta l’art. 5 lett. b dell’Acc. agg. del 27 giu. 2023, approvato dall’AF il 14 giu. 2024 e in vigore dal 24 lug. 2025 ([RU 2025 486](https://fedlex.data.admin.ch/eli/oc/2025/486), [504](https://fedlex.data.admin.ch/eli/oc/2025/504);[FF 2023 2744](https://fedlex.data.admin.ch/eli/fga/2023/2744)).
+[^27-4]: Introdotto dall’art. 6 dell’Acc. agg. del 27 ago. 2009, approvato dall’AF il 18 giu. 2010 e in vigore dal 4 nov. 2010 ([RU 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805)[5681](https://fedlex.data.admin.ch/eli/oc/2010/804);[FF 2009 1323](https://fedlex.data.admin.ch/eli/fga/2009/359), [2010 1371](https://fedlex.data.admin.ch/eli/fga/2010/268)).
 
 #### Art. 28
 
@@ -579,6 +595,27 @@ Gli Stati contraenti si prestano mutua assistenza per la notificazione di atti e
 
 [^28bis-1]: Introdotto dall’art. 8 dell’Acc. agg. del 27 ago. 2009, approvato dall’AF il 18 giu. 2010 e in vigore dal 4 nov. 2010 ([RU 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805)[5681](https://fedlex.data.admin.ch/eli/oc/2010/804);[FF 2009 1323](https://fedlex.data.admin.ch/eli/fga/2009/359), [2010 1371](https://fedlex.data.admin.ch/eli/fga/2010/268)). Vedi anche l’art. 11 par. 4 dell’Acc. agg. del 27 ago. 2009 alla fine del presente testo.
 
+#### Art. 28<sup>ter</sup>
+
+[^28ter-1]
+
+<sup>1.</sup> Ai fini del presente paragrafo, gli Stati contraenti sono tenuti a procedere a uno scambio di informazioni automatico.
+
+Ai fini dell’applicazione dell’articolo 17, lo Stato contraente in cui è situato il datore di lavoro fornisce ogni anno allo Stato di residenza del lavoratore, in formato elettronico e al più tardi entro il 30 novembre dell’anno successivo a quello nel corso del quale sono state versate le rimunerazioni, i dati personali e le informazioni nominative seguenti:
+
+- a) il/i cognome/i e il/i nome/i della persona, la data di nascita, il numero di avviamento postale del suo luogo di residenza e, se disponibile, qualsiasi altro elemento che faciliti l’identificazione della persona (indirizzo, luogo di nascita, stato civile, numero di identificazione fiscale);
+- b) l’anno civile nel corso del quale è stato realizzato il reddito;
+- c) il numero di giorni o la percentuale di telelavoro;
+- d) il totale delle rimunerazioni lorde versate.
+
+<sup>2.</sup> Le condizioni previste dal paragrafo 2 dell’articolo 28 della Convenzione si applicano alle informazioni scambiate secondo il paragrafo 1 del presente articolo.
+
+<sup>3.</sup> L’Amministrazione federale delle contribuzioni svizzera invia le informazioni di cui al paragrafo 1 relative ai lavoratori residenti di Francia direttamente all’amministrazione fiscale francese. L’amministrazione fiscale francese invia le informazioni di cui al paragrafo 1 relative ai lavoratori residenti di Svizzera direttamente all’Amministrazione federale delle contribuzioni svizzera.
+
+<sup>4.</sup> Le autorità competenti degli Stati contraenti disciplinano, di comune intesa, le modalità di applicazione del presente articolo.
+
+[^28ter-1]: Introdotto dall’art. 6 dell’Acc. agg. del 27 giu. 2023, approvato dall’AF il 14 giu. 2024 e in vigore dal 24 lug. 2025 ([RU 2025 486](https://fedlex.data.admin.ch/eli/oc/2025/486), [504](https://fedlex.data.admin.ch/eli/oc/2025/504);[FF 2023 2744](https://fedlex.data.admin.ch/eli/fga/2023/2744)).
+
 #### Art. 29
 
 <sup>1.</sup> Le disposizioni della presente convenzione non pregiudicano i privilegi fiscali di cui fruiscono i funzionari diplomatici e consolari in virtù di norme generali del diritto internazionale o di disposizioni di accordi particolari.
@@ -588,6 +625,14 @@ Gli Stati contraenti si prestano mutua assistenza per la notificazione di atti e
 <sup>3.</sup> Ai fini della convenzione, i membri di una rappresentanza diplomatica o consolare di uno Stato contraente accreditata presso l’altro Stato contraente o presso uno Stato terzo, e che hanno la cittadinanza dello Stato accreditante, sono considerati residenti dello Stato accreditante qualora vi siano assoggettati ai medesimi obblighi, quanto alle imposte sul reddito e sulla sostanza, dei residenti di detto Stato.
 
 <sup>4.</sup> La convenzione non si applica alle organizzazioni internazionali o ai loro organi o funzionari, nè ai membri di una rappresentanza diplomatica o consolare di uno Stato terzo che si trovano bensì sul territorio di uno Stato contraente, ma non sono trattati come residenti nell’uno o nell’altro Stato contraente, quanto alle imposte sul reddito e sulla sostanza.
+
+#### Art. 29<sup>bis</sup>
+
+[^29bis-1]
+
+Nonostante le altre disposizioni della presente Convenzione, un beneficio ai sensi della presente Convenzione non è concesso in relazione a un elemento di reddito o sostanza se è ragionevole concludere, tenuto conto di tutti i fatti e di tutte le circostanze pertinenti, che l’ottenimento di tale beneficio era uno degli scopi principali di qualsiasi accordo, strumento o transazione che ha portato direttamente o indirettamente a tale beneficio, a meno che sia stabilito che la concessione di tale beneficio in dette circostanze sarebbe conforme all’oggetto e allo scopo delle pertinenti disposizioni della presente Convenzione.
+
+[^29bis-1]: Introdotto dall’art. 7 dell’Acc. agg. del 27 giu. 2023, approvato dall’AF il 14 giu. 2024 e in vigore dal 24 lug. 2025 ([RU 2025 486](https://fedlex.data.admin.ch/eli/oc/2025/486), [504](https://fedlex.data.admin.ch/eli/oc/2025/504);[FF 2023 2744](https://fedlex.data.admin.ch/eli/fga/2023/2744)).
 
 #### Art. 30
 
@@ -617,8 +662,8 @@ Essa entrerà in vigore dopo lo scambio degli strumenti di ratificazione e le su
 
 <sup>3.</sup> È abrogata la convenzione conchiusa a Parigi il 31 dicembre 1953[^32-1] tra la Confederazione Svizzera e la Repubblica Francese, intesa ad evitare i casi di doppia imposizione in materia di imposte sul reddito e sulla sostanza; essa cessa di avere effetto per le imposte alle quali si applica la presente convenzione in conformità del paragrafo 2. Tuttavia, le disposizioni della convenzione precitata restano in vigore, nella misura in cui vi sia fatto riferimento, per l’applicazione della convenzione conchiusa a Parigi il 31 dicembre 1953[^32-2] tra la Confederazione Svizzera e la Repubblica Francese, intesa ad evitare i casi di doppia imposizione in materia d’imposte sulle successioni.
 
-[^32-1]: [RU 1955 119](https://fedlex.data.admin.ch/eli/oc/1955/111_115_119). Per le disposizioni ancora in vigore vedi [RS 0.672.934.92](https://fedlex.data.admin.ch/eli/cc/1955/128_132_136)in fine.
-[^32-2]: [RS 0.672.934.92](https://fedlex.data.admin.ch/eli/cc/1955/128_132_136)
+[^32-1]: [RU 1955 119](https://fedlex.data.admin.ch/eli/oc/1955/111_115_119). Per le disposizioni ancora in vigore vedi [RS 0.672.934.92](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2590)in fine.
+[^32-2]: [[RU 1955 119](https://fedlex.data.admin.ch/eli/oc/1955/111_115_119), [2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298). [RU 2014 3387](https://fedlex.data.admin.ch/eli/oc/2014/587)]
 
 #### Art. 33
 
@@ -684,18 +729,47 @@ Le norme di procedura amministrativa relative ai diritti del contribuente si app
 
 Resta inteso che, sulla base dell’articolo 28 della Convenzione, gli Stati contraenti non sono tenuti a procedere a uno scambio di informazioni spontaneo o automatico.
 
+XII. Resta inteso che l’articolo 28<sup>ter</sup> della Convenzione si applica anche ai redditi contemplati dall’Accordo dell’11 aprile 1983 relativo all’imposizione delle remunerazioni dei lavoratori frontalieri.
+
+XIII. Resta inteso che le disposizioni della Convenzione non impediscono allo Stato contraente di attuare le disposizioni della legislazione interna relative all’imposizione minima dei gruppi di imprese, emanate sulla base delle norme antierosione della base imponibile a livello mondiale (secondo pilastro) elaborate dall’Inclusive Framework dell’Organizzazione per la cooperazione e lo sviluppo economici.
+
 Fatto a Parigi, il 9 settembre 1966, in due esemplari.
 
 <table>
 <tr><td>Per la Confederazione Svizzera: Claude Caillat</td><td>Per il Presidente della Repubblica Francese: Gilbert de Chambrun</td></tr>
 </table>
 
-## Articolo 21 paragrafo 2 dell’Accordo aggiuntivo del 22 luglio 1997
+## Protocollo addizionale alla Convenzione relativo all’esercizio dell’attività dipendente in telelavoro
 
 [^annexu1-lvlu2-1]
 
-[^t-3]: Aggiornato dall’art. 20 dell’Acc. agg. del 22 lug. 1997, approvato dall’AF il 12 mar. 1998 ([RU 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297);[FF 1997 IV 925](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)), dagli art. 9 e 10 dell’Acc. agg. del 27 ago. 2009, approvato dall’AF il 18 giu. 2010 ([RU 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805)[5681](https://fedlex.data.admin.ch/eli/oc/2010/804);[FF 2009 1323](https://fedlex.data.admin.ch/eli/fga/2009/359), [2010 1371](https://fedlex.data.admin.ch/eli/fga/2010/268)) e dall’art. 1 dell’Acc. del 25 giu. 2014, approvato dall’AF il 23 dic. 2011, in vigore con scambio di note il 30 mar. 2016 ([RU 2016 1195](https://fedlex.data.admin.ch/eli/oc/2016/228)[1193](https://fedlex.data.admin.ch/eli/oc/2016/227); [FF 2011 3419](https://fedlex.data.admin.ch/eli/fga/2011/546)).
-[^annexu1-lvlu2-1]: [RU 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298); [FF 1997 IV 925](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)
+[^t-3]: Aggiornato dall’art. 20 dell’Acc. agg. del 22 lug. 1997, approvato dall’AF il 12 mar. 1998 ([RU 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297);[FF 1997 IV 925](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)), dagli art. 9 e 10 dell’Acc. agg. del 27 ago. 2009, approvato dall’AF il 18 giu. 2010 ([RU 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805)[5681](https://fedlex.data.admin.ch/eli/oc/2010/804);[FF 2009 1323](https://fedlex.data.admin.ch/eli/fga/2009/359), [2010 1371](https://fedlex.data.admin.ch/eli/fga/2010/268)), dall’art. 1 dell’Acc. del 25 giu. 2014, approvato dall’AF il 23 dic. 2011 ([RU 2016 1195](https://fedlex.data.admin.ch/eli/oc/2016/228)[1193](https://fedlex.data.admin.ch/eli/oc/2016/227); [FF 2011 3419](https://fedlex.data.admin.ch/eli/fga/2011/546)) e dagli art. 8 e 9 dell’Acc. agg. del 27 giu. 2023, approvato dall’AF il 14 giu. 2024 e in vigore dal 24 lug. 2025 ([RU 2025 486](https://fedlex.data.admin.ch/eli/oc/2025/486), [504](https://fedlex.data.admin.ch/eli/oc/2025/504);[FF 2023 2744](https://fedlex.data.admin.ch/eli/fga/2023/2744)).
+[^annexu1-lvlu2-1]: Introdotto dall’art. 10 dell’Acc. agg. del 27 giu. 2023, approvato dall’AF il 14 giu. 2024 e in vigore dal 24 lug. 2025 ([RU 2025 486](https://fedlex.data.admin.ch/eli/oc/2025/486), [504](https://fedlex.data.admin.ch/eli/oc/2025/504);[FF 2023 2744](https://fedlex.data.admin.ch/eli/fga/2023/2744)). Vedi anche l’art. 11 par. 3 e 4 dell’Acc. agg. del 27 giu. 2023 alla fine del presente testo.
+
+1.
+
+- a) Ai fini dell’applicazione del paragrafo 5 dell’articolo 17, le attività esercitate in telelavoro dallo Stato di residenza del lavoratore per conto di un datore di lavoro situato nell’altro Stato contraente sono considerate come svolte presso tale datore di lavoro in detto altro Stato se tali attività non superano il 40 per cento del tempo di lavoro per anno civile.
+- b) Lo Stato contraente che ha il diritto di tassare i redditi conformemente alla lettera a) versa allo Stato di residenza del lavoratore una compensazione pari al 40 per cento delle imposte dovute sulle rimunerazioni versate per le attività esercitate in telelavoro dallo Stato di residenza.
+- c) Nonostante le disposizioni della lettera b), se un residente di Francia esercita le sue attività in telelavoro per conto di un datore di lavoro situato nel Cantone di Ginevra, per la quota di telelavoro compresa tra il 15 e il 40 per cento del tempo di lavoro per anno civile la compensazione è pari al 40 per cento delle imposte dovute sulle rimunerazioni versate per le attività esercitate in telelavoro dallo Stato di residenza.
+- d) Al di sopra del limite previsto dalla lettera a), le disposizioni dei paragrafi 1–3 dell’articolo 17 della Convenzione si applicano dal primo giorno di telelavoro. In questi casi, la compensazione prevista in applicazione delle lettere b) e c) non è dovuta.
+
+\2. Nella determinazione della compensazione secondo le lettere b) e c) del paragrafo 1, le ulteriori modifiche dell’ammontare delle imposte dovute sulle rimunerazioni versate per le attività esercitate in telelavoro dallo Stato di residenza sono prese in considerazione nell’anno in cui è avvenuta la correzione.
+
+\3. Ai fini dell’applicazione del presente Protocollo, l’espressione «attività esercitate in telelavoro dallo Stato di residenza» designa qualsiasi forma di organizzazione del lavoro in cui un lavoro che avrebbe potuto essere svolto anche nei locali del datore di lavoro è svolto da un lavoratore nel proprio Stato di residenza, a distanza e al di fuori dei locali del datore di lavoro, per conto di quest’ultimo, conformemente agli accordi contrattuali tra il lavoratore e il datore di lavoro, utilizzando le tecnologie dell’informazione e della comunicazione. Questa espressione include anche gli impieghi temporanei svolti dal lavoratore per conto di tale datore di lavoro nello Stato di residenza o in uno Stato terzo, purché la loro durata cumulata non ecceda i 10 giorni all’anno.
+
+\4. L’espressione «imposte dovute sulle rimunerazioni versate per le attività esercitate in telelavoro dallo Stato di residenza» ai sensi dei paragrafi 1 e 2 del presente Protocollo designa le imposte sul reddito di cui all’articolo 2 della Convenzione afferenti alle rimunerazioni provenienti dalle attività esercitate in telelavoro dal lavoratore dallo Stato di residenza per conto di un datore di lavoro situato nell’altro Stato contraente.
+
+\5. L’ammontare della compensazione previsto dal paragrafo 1 deve essere trasferito dall’autorità competente di ciascuno Stato a quella dell’altro Stato al più tardi entro il 30 giugno dell’anno successivo a quello nel corso del quale le rimunerazioni sono state versate. Ciascuno Stato contraente paga la compensazione nella propria unità monetaria al più tardi entro tale data.
+
+\6. Il presente Protocollo si applica con riserva dell’imposizione effettiva dei redditi interessati nello Stato che dispone del diritto di tassarli conformemente all’articolo 17 della Convenzione e al presente Protocollo.
+
+\7. Le autorità competenti stabiliscono di comune accordo, nel quadro di una procedura amichevole, le misure amministrative necessarie all’applicazione delle disposizioni del presente Protocollo.
+
+## Articolo 21 paragrafo 2 dell’Accordo aggiuntivo del 22 luglio 1997
+
+[^annexu1-lvlu3-1]
+
+[^annexu1-lvlu3-1]: [RU 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 925](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)
 
 \2. Le disposizioni dell’Accordo aggiuntivo si applicheranno:
 
@@ -705,9 +779,9 @@ Fatto a Parigi, il 9 settembre 1966, in due esemplari.
 
 ## Articolo 11 paragrafi 2–4 dell’Accordo aggiuntivo del 27 agosto 2009
 
-[^annexu1-lvlu3-1]
+[^annexu1-lvlu4-1]
 
-[^annexu1-lvlu3-1]: [RU 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805); [FF 2009 1323](https://fedlex.data.admin.ch/eli/fga/2009/359), [2010 1371](https://fedlex.data.admin.ch/eli/fga/2010/268)
+[^annexu1-lvlu4-1]: [RU 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805)[5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [FF 2009 1323](https://fedlex.data.admin.ch/eli/fga/2009/359), [2010 1371](https://fedlex.data.admin.ch/eli/fga/2010/268)
 
 \2. Le disposizioni dell’Accordo aggiuntivo si applicano, per quanto concerne le imposte sul reddito, ai redditi afferenti, secondo i casi, ad ogni anno civile o a ogni esercizio che inizia dopo l’anno civile nel corso del quale l’Accordo aggiuntivo è entrato in vigore.
 
@@ -717,10 +791,30 @@ Fatto a Parigi, il 9 settembre 1966, in due esemplari.
 
 ## Articolo 2 paragrafi 2 e 3 dell’Accordo del 25 giugno 2014
 
-[^annexu1-lvlu4-1]
+[^annexu1-lvlu5-1]
 
-[^annexu1-lvlu4-1]: [RU 2016 1195](https://fedlex.data.admin.ch/eli/oc/2016/228)[1193](https://fedlex.data.admin.ch/eli/oc/2016/227); [FF 2011 3419](https://fedlex.data.admin.ch/eli/fga/2011/546)
+[^annexu1-lvlu5-1]: [RU 2016 1195](https://fedlex.data.admin.ch/eli/oc/2016/228)[1193](https://fedlex.data.admin.ch/eli/oc/2016/227); [FF 2011 3419](https://fedlex.data.admin.ch/eli/fga/2011/546)
 
 \2. Il presente Accordo è applicabile alle domande di scambio di informazioni concernenti qualsiasi anno civile o esercizio a partire dal 1° gennaio 2010.
 
 \3. Nonostante le disposizioni del paragrafo 2, il paragrafo 1 dell’articolo 1 del presente Accordo è applicabile alle domande di scambio di informazioni relative a fatti avvenuti a partire dal 1° febbraio 2013.
+
+## Articolo 11 paragrafi 2–6 dell’Accordo del 27 giugno 2023
+
+[^annexu1-lvlu6-1]
+
+[^annexu1-lvlu6-1]: [RU 2025 486](https://fedlex.data.admin.ch/eli/oc/2025/486), [504](https://fedlex.data.admin.ch/eli/oc/2025/504); [FF 2023 2744](https://fedlex.data.admin.ch/eli/fga/2023/2744)
+
+\2. Le disposizioni del presente Accordo aggiuntivo si applicheranno nei due Stati:
+
+- a) per quanto concerne le imposte riscosse mediante ritenuta alla fonte, agli ammontari imponibili dopo l’anno civile nel corso del quale il presente Accordo aggiuntivo è entrato in vigore;
+- b) per quanto concerne le imposte sui redditi che non sono riscosse mediante ritenuta alla fonte, ai redditi afferenti, secondo i casi, ad ogni anno civile o a ogni esercizio che inizia dopo l’anno civile nel corso del quale il presente Accordo aggiuntivo è entrato in vigore;
+- c) per quanto concerne le altre imposte, alle imposizioni il cui fatto generatore interverrà dopo l’anno civile nel corso del quale il presente Accordo aggiuntivo è entrato in vigore.
+
+\3. Nonostante le disposizioni del paragrafo 2, le disposizioni degli articoli 4 e 10 del presente Accordo aggiuntivo si applicano alle rimunerazioni versate a partire dal 1° gennaio 2023.
+
+\4. Nonostante le disposizioni del paragrafo 3, per il periodo compreso tra il 1° gennaio 2023 e il 31 dicembre dell’anno di entrata in vigore del presente Accordo aggiuntivo, la Svizzera versa alla Francia, al più tardi entro il 30 giugno dell’anno successivo a quello nel corso del quale il presente Accordo aggiuntivo è entrato in vigore, un ammontare in franchi svizzeri corrispondente al 2,3 per cento dell’imposta dovuta sulle rimunerazioni versate per un’attività dipendente ai residenti di Francia, per ogni anno civile compreso nel suddetto periodo e in luogo della compensazione prevista dalle lettere b) e c) del paragrafo 1 del Protocollo addizionale alla Convenzione relativo all’esercizio dell’attività dipendente in telelavoro. Questo ammontare è calcolato proporzionalmente alla durata di applicazione dell’Accordo amichevole del 22 dicembre 2022 concluso tra le autorità competenti della Svizzera e della Francia concernente le disposizioni applicabili ai redditi secondo il paragrafo 1 dell’articolo 17 della Convenzione. Resta inteso che questo ammontare è calcolato al netto e tiene conto della compensazione dovuta dalla Francia alla Svizzera per tale periodo conformemente alla lettera b) del paragrafo 1 del Protocollo addizionale alla Convenzione relativo all’esercizio dell’attività dipendente in telelavoro.
+
+\5. Il presente Accordo aggiuntivo resta in vigore fintantoché la Convenzione è applicabile.
+
+\6. In caso di denuncia della Convenzione, resta inteso che ciascuno Stato contraente verserà all’altro Stato, al più tardi entro il 30 giugno dell’anno successivo, le compensazioni previste dal paragrafo 1 del Protocollo addizionale alla Convenzione relativo all’esercizio dell’attività dipendente in telelavoro afferenti all’anno per la fine del quale la denuncia è stata notificata.

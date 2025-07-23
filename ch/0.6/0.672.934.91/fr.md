@@ -3,11 +3,11 @@ sr: "0.672.934.91"
 title: "Convention du 9 septembre 1966 entre la Suisse et la France en vue d'éliminer les doubles impositions en matière d'impôts sur le revenu et sur la fortune et de prévenir la fraude et l'évasion fiscale (avec prot. add.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1967/1079_1119_1113"
 language: fr
-version: 2016-03-30
+version: 2025-07-24
 adopted: 1966-09-09
 in_force: 1967-07-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/1079_1119_1113/20160330/fr/xml/fedlex-data-admin-ch-eli-cc-1967-1079_1119_1113-20160330-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1967/1079_1119_1113/20160330/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/1079_1119_1113/20250724/fr/xml/fedlex-data-admin-ch-eli-cc-1967-1079_1119_1113-20250724-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1967/1079_1119_1113/20250724/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,20 +20,20 @@ Texte original
 
 Conclue le 9 septembre 1966 Approuvée par l’Assemblée fédérale le 7 juin 1967[^t-2] Instruments de ratification échangés le 26 juillet 1967 Entrée en vigueur le 26 juillet 1967
 
-(État le 30 mars 2016)
+(État le 24 juillet 2025)
 
-[^t-1]: Nouvelle teneur selon l’art. 11 par. 6 de l’Avenant du 27 août 2009, approuvé par l’Ass. féd. le 18 juin 2010 et en vigueur depuis le 4 nov. 2010 ([RO 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805)[5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [FF 2009 1389](https://fedlex.data.admin.ch/eli/fga/2009/359), [2010 1409](https://fedlex.data.admin.ch/eli/fga/2010/268)).
+[^t-1]: Nouvelle teneur selon l’art. 11 par. 6 de l’Avenant du 27 août 2009, approuvé par l’Ass. féd. le 18 juin 2010 et en vigueur depuis le 4 nov. 2010 ([RO 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805), [5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [FF 2009 1389](https://fedlex.data.admin.ch/eli/fga/2009/359); [2010 1409](https://fedlex.data.admin.ch/eli/fga/2010/268)).
 [^t-2]: [RO 1967 1117](https://fedlex.data.admin.ch/eli/oc/1967/1077_1117_1111)
 
 Le Conseil fédéral de la Confédération suisse et le Président de la République française,
 
-désireux d’éviter les doubles impositions en matière d’impôts sur le revenu et sur la fortune, ont décidé de conclure une convention et ont nommé à cet effet comme plénipotentiaires:
+soucieux de promouvoir leurs relations économiques et d’améliorer leur coopération en matière fiscale,
 
-(Suivent les noms des plénipotentiaires)
+entendant conclure une Convention pour l’élimination de la double imposition en matière d’impôts sur le revenu et sur la fortune sans créer de possibilités de non-imposition ou d’imposition réduite par l’évasion ou la fraude fiscale (y compris par des mécanismes de chalandage fiscal destinés à obtenir les allégements prévus dans la présente Convention au bénéfice indirect de résidents d’États tiers),
 
-lesquels, après s’être communiqué leurs pleins pouvoirs reconnus en bonne et due forme,
+sont convenus de ce qui suit:[^ingress-1]
 
-sont convenus des dispositions suivantes:
+[^ingress-1]: Nouvelle teneur selon l’art. 1 de l’Avenant du 27 juin 2023, approuvé par l’Ass. féd. le 14 juin 2024 et en vigueur depuis le 24 juil. 2025 ([RO 2025 486](https://fedlex.data.admin.ch/eli/oc/2025/486), [504](https://fedlex.data.admin.ch/eli/oc/2025/504); [FF 2023 2744](https://fedlex.data.admin.ch/eli/fga/2023/2744)).
 
 #### Art. 1
 
@@ -67,7 +67,7 @@ Les impôts actuels auxquels s’applique la convention sont:
 
 <sup>4.</sup> La convention s’appliquera aussi aux impôts futurs de nature identique ou analogue qui s’ajouteraient aux impôts actuels ou qui les remplaceraient. Les autorités compétentes des États contractants se communiqueront, à la fin de chaque année, les modifications apportées à leurs législations fiscales respectives.
 
-[^2-1]: Nouvelle teneur selon l’art. 1 de l’Avenant du 22 juillet 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^2-1]: Nouvelle teneur selon l’art. 1 de l’Avenant du 22 juil. 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
 
 #### Art. 3
 
@@ -90,11 +90,12 @@ Au sens de la présente convention, à moins que le contexte n’exige une inter
   l’expression «autorité compétente» désigne:
 
   - i) dans le cas de la France, le ministre chargé du budget ou son représentant autorisé;
-  - ii) dans le cas de la Suisse, le directeur de l’administration fédérale des contributions ou son représentant autorisé.
+  - ii)[^3-2] dans le cas de la Suisse, le chef du Département fédéral des finances ou son représentant autorisé.
 
 <sup>2.</sup> Pour l’application de la convention par un État contractant, tout terme ou expression qui n’y est pas défini a le sens que lui attribue le droit de cet État concernant les impôts auxquels s’applique la convention, à moins que le contexte n’exige une interprétation différente. Le sens attribué à un terme ou expression par le droit fiscal de cet État prévaut sur le sens attribué à ce terme ou expression par les autres branches du droit de cet État.
 
-[^3-1]: Nouvelle teneur selon l’art. 2 de l’Avenant du 22 juillet 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^3-1]: Nouvelle teneur selon l’art. 2 de l’Avenant du 22 juil. 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^3-2]: Nouvelle teneur selon l’art. 2 de l’Avenant du 27 juin 2023, approuvé par l’Ass. féd. le 14 juin 2024 et en vigueur depuis le 24 juil. 2025 ([RO 2025 486](https://fedlex.data.admin.ch/eli/oc/2025/486), [504](https://fedlex.data.admin.ch/eli/oc/2025/504); [FF 2023 2744](https://fedlex.data.admin.ch/eli/fga/2023/2744)).
 
 #### Art. 4
 
@@ -115,16 +116,18 @@ Lorsque, selon la disposition du paragraphe 1, une personne physique est consid�
 
 L’assujettissement aux impôts pour lesquels le domicile fait règle commence dans l’autre État à compter de la même date.
 
-5.[^4-1] L’expression «résident d’un État contractant» désigne également cet État, ses subdivisions politiques et ses collectivités locales, ainsi que leurs personnes morales de droit public.
+<sup>5.</sup> L’expression «résident d’un État contractant» désigne également cet État, ses subdivisions politiques et ses collectivités locales, ainsi que leurs personnes morales de droit public.[^4-1]
 
-6.[^4-2] N’est pas considérée comme résident d’un État contractant au sens du présent article:
+<sup>6.</sup>
 
-- a) Une personne qui, bien que répondant à la définition des par. 1, 2, 3 et 5[^4-3] ci-dessus, n’est que le bénéficiaire apparent des revenus, lesdits revenus bénéficiant en réalité – soit directement, soit indirectement par l’intermédiaire d’autres personnes physiques ou morales – à une personne qui ne peut être regardée elle-même comme un résident dudit État au sens du présent article;
-- b) Une personne physique qui n’est imposable dans cet État que sur une base forfaitaire déterminée d’après la valeur locative de la ou des résidences qu’elle possède sur le territoire de cet État.
+N’est pas considérée comme résident d’un État contractant au sens du présent article:
 
-[^4-1]: Introduit par l’art. 3 de l’Avenant du 22 juillet 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
-[^4-2]: Anciennement par. 5.
-[^4-3]: Nouveaux mots selon l’art. 3 de l’Avenant du 22 juillet 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+- a) Une personne qui, bien que répondant à la définition des par. 1, 2, 3 et 5[^4-2] ci-dessus, n’est que le bénéficiaire apparent des revenus, lesdits revenus bénéficiant en réalité – soit directement, soit indirectement par l’intermédiaire d’autres personnes physiques ou morales – à une personne qui ne peut être regardée elle-même comme un résident dudit État au sens du présent article;
+- b) Une personne physique qui n’est imposable dans cet État que sur une base forfaitaire déterminée d’après la valeur locative de la ou des résidences qu’elle possède sur le territoire de cet État.[^4-3]
+
+[^4-1]: Introduit par l’art. 3 de l’Avenant du 22 juil. 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^4-2]: Nouveaux mots selon l’art. 3 de l’Avenant du 22 juil. 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^4-3]: Anciennement par. 5.
 
 #### Art. 5
 
@@ -164,7 +167,7 @@ On ne considère pas qu’il y a établissement stable si:
 
 <sup>8.</sup> Dans le cas où un chantier, dans un État contractant, n’est pas ouvert directement par un entrepreneur de l’autre État contractant mais par l’intermédiaire d’une société simple de droit suisse (si le chantier est ouvert en Suisse) ou d’une société de fait ou association en participation du droit français (si le chantier est ouvert en France) à laquelle ledit entrepreneur participe, les dispositions du par. 8 de l’art. 7 et du par. 4 de l’art. 24 ne s’appliquent que si les conditions du par. 2, let. *g*, du présent article sont remplies.
 
-[^5-1]: Voir toutefois l’art. 7 de l’ac. du 27 sept. 1984 entre la Suisse et la France relatif au raccordement des autoroutes entre Bardonnex et Saint-Julien-en-Genevois ([RS 0.725.141](https://fedlex.data.admin.ch/eli/cc/1986/452_452_452)).
+[^5-1]: Voir toutefois l’art. 7 de l’ac. du 27 sept. 1984 entre la Suisse et la France relatif au raccordement des autoroutes entre Bardonnex et Saint-Julien-en-Genevois ([RS 0.725.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2735)).
 
 #### Art. 6
 
@@ -178,8 +181,8 @@ Si la propriété ou l’usufruit d’actions, parts ou autres droits dans une s
 
 <sup>4.</sup> Les dispositions des par. 1 et 3 s’appliquent également aux revenus provenant des biens immobiliers d’une entreprise ainsi qu’aux revenus des biens immobiliers servant à l’exercice d’une profession libérale.
 
-[^6-1]: Mots introduits par l’art. 4 par. 1 de l’Avenant du 22 juillet 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
-[^6-2]: Nouvelle teneur du par. selon l’art. 4 par. 2 de l’Avenant du 22 juillet 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^6-1]: Mots introduits par l’art. 4 par. 1 de l’Avenant du 22 juil. 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^6-2]: Nouvelle teneur du par. selon l’art. 4 par. 2 de l’Avenant du 22 juil. 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
 
 #### Art. 7
 
@@ -202,8 +205,8 @@ Si la propriété ou l’usufruit d’actions, parts ou autres droits dans une s
 <sup>8.</sup> Les revenus provenant de participations à des entreprises constituées sous forme de sociétés simples, de sociétés de fait, de sociétés en nom collectif ou de sociétés en commandite simple, ainsi que les revenus provenant de droits dans des associations en participation ou des sociétés civiles du droit français, si celles-ci sont soumises au régime fiscal des sociétés de personnes sont imposables dans l’État contractant où les entreprises en question ont un établissement stable. Cette disposition ne fait pas obstacle, en ce qui concerne les revenus provenant de participations sous forme de commandite à des sociétés en commandite simple à l’application des dispositions …[^7-3] de l’art. 11 de la convention.
 
 [^7-1]: Voir la note à l’art. 5.
-[^7-2]: Nouvelle teneur du membre de phrase selon l’art. 5 par. 1 de l’Avenant du 22 juillet 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
-[^7-3]: Mots supprimés par l’art. 5 par. 2 de l’Avenant du 22 juillet 1997, approuvé par l’Ass. féd. le 12 mars 1998 et avec effet au 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)). ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^7-2]: Nouvelle teneur du membre de phrase selon l’art. 5 par. 1 de l’Avenant du 22 juil. 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^7-3]: Mots supprimés par l’art. 5 par. 2 de l’Avenant du 22 juil. 1997, approuvé par l’Ass. féd. le 12 mars 1998 et avec effet au 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
 
 #### Art. 8
 
@@ -215,27 +218,33 @@ Si la propriété ou l’usufruit d’actions, parts ou autres droits dans une s
 
 <sup>4.</sup> Les dispositions du par. 1 s’appliquent également aux bénéfices d’une entreprise provenant d’un pool, d’une exploitation en commun ou d’un organisme international d’exploitation.
 
-5.[^8-1] Nonobstant les dispositions de l’art. 2:
+<sup>5.</sup>
+
+Nonobstant les dispositions de l’art. 2:
 
 - a) une entreprise qui a son siège de direction effective en Suisse et qui exploite des aéronefs en trafic international est dégrevée d’office de la taxe professionnelle due en France à raison de cette exploitation;
-- b) une entreprise qui a son siège de direction effective en France et qui exploite des aéronefs en trafic international est exonérée de tout impôt analogue à la taxe professionnelle française, dû en Suisse à raison de cette exploitation.
+- b) une entreprise qui a son siège de direction effective en France et qui exploite des aéronefs en trafic international est exonérée de tout impôt analogue à la taxe professionnelle française, dû en Suisse à raison de cette exploitation.[^8-1]
 
-[^8-1]: Introduit par l’art. 6 de l’Avenant du 22 juillet 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)). Voir aussi l’art. 21 par. 2 let. c dudit avenant, à la fin du présent texte.
+[^8-1]: Introduit par l’art. 6 de l’Avenant du 22 juil. 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)). Voir aussi l’art. 21 par. 2 let. c dudit avenant, à la fin du présent texte.
 
 #### Art. 9
 
-Lorsque
+<sup>1.</sup> et que, dans l’un et l’autre cas, les deux entreprises sont, dans leurs relations commerciales ou financières, liées par des conditions acceptées ou imposées, qui diffèrent de celles qui seraient conclues entre des entreprises indépendantes, les bénéfices qui, sans ces conditions, auraient été obtenus par l’une des entreprises mais n’ont pu l’être en fait à cause de ces conditions, peuvent être inclus dans les bénéfices de cette entreprise et imposés en conséquence.
 
-et que, dans l’un et l’autre cas, les deux entreprises sont, dans leurs relations commerciales ou financières, liées par des conditions acceptées ou imposées, qui diffèrent de celles qui seraient conclues entre des entreprises indépendantes, les bénéfices qui, sans ces conditions, auraient été obtenus par l’une des entreprises mais n’ont pu l’être en fait à cause de ces conditions, peuvent être inclus dans les bénéfices de cette entreprise et imposés en conséquence.
+Lorsque:
 
 - a) Une entreprise d’un État contractant participe directement ou indirectement à la direction, au contrôle ou au capital d’une entreprise de l’autre État contractant, ou que
 - b) Les mêmes personnes participent directement ou indirectement à la direction, au contrôle ou au capital d’une entreprise d’un État contractant et d’une entreprise de l’autre État contractant,
+
+<sup>2.</sup> Lorsqu’un État contractant inclut dans les bénéfices d’une entreprise de cet État contractant – et impose en conséquence – des bénéfices sur lesquels une entreprise de l’autre État contractant a été imposée dans cet autre État contractant, et que les bénéfices ainsi inclus sont des bénéfices qui auraient été réalisés par l’entreprise du premier État contractant si les conditions convenues entre les deux entreprises avaient été celles qui auraient été convenues entre des entreprises indépendantes, l’autre État contractant procède à un ajustement approprié du montant de l’impôt qui y a été perçu sur ces bénéfices. Pour déterminer cet ajustement, il est tenu compte des autres dispositions de la présente Convention et, si c’est nécessaire, les autorités compétentes des États contractants se consultent.[^9-1]
+
+[^9-1]: Introduit par l’art. 3 de l’Avenant du 27 juin 2023, approuvé par l’Ass. féd. le 14 juin 2024 et en vigueur depuis le 24 juil. 2025 ([RO 2025 486](https://fedlex.data.admin.ch/eli/oc/2025/486), [504](https://fedlex.data.admin.ch/eli/oc/2025/504); [FF 2023 2744](https://fedlex.data.admin.ch/eli/fga/2023/2744)).
 
 #### Art. 10
 
 [^10-1]
 
-[^10-1]: Abrogé par l’art. 7 de l’Avenant du 22 juillet 1997, approuvé par l’Ass. féd. le 12 mars 1998 et avec effet au 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^10-1]: Abrogé par l’art. 7 de l’Avenant du 22 juil. 1997, approuvé par l’Ass. féd. le 12 mars 1998 et avec effet au 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
 
 #### Art. 11
 
@@ -273,10 +282,10 @@ et que, dans l’un et l’autre cas, les deux entreprises sont, dans leurs rela
 
 <sup>7.</sup> Lorsqu’une société qui est un résident d’un État contractant tire des bénéfices ou des revenus de l’autre État contractant, cet autre État ne peut percevoir aucun impôt sur les dividendes payés par la société, sauf dans la mesure où ces dividendes sont payés à un résident de cet autre État ou dans la mesure où la participation génératrice des dividendes se rattache effectivement à un établissement stable ou à une base fixe situés dans cet autre État, ni prélever aucun impôt, au titre de l’imposition des bénéfices non distribués, sur les bénéfices non distribués de la société, même si les dividendes payés ou les bénéfices non distribués consistent en tout ou en partie en bénéfices ou revenus provenant de cet autre État.
 
-[^11-1]: Nouvelle teneur selon l’art. 8 de l’Avenant du 22 juillet 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
-[^11-2]: Nouvelle teneur selon l’art. 1 par. 1 de l’Avenant du 27 août 2009, approuvé par l’Ass. féd. le 18 juin 2010 et en vigueur depuis le 4 nov. 2010 ([RO 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805)[5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [FF 2009 1389](https://fedlex.data.admin.ch/eli/fga/2009/359), [2010 1409](https://fedlex.data.admin.ch/eli/fga/2010/268)).
-[^11-3]: Introduit par l’art. 1 par. 2 de l’Avenant du 27 août 2009, approuvé par l’Ass. féd. le 18 juin 2010 et en vigueur depuis le 4 nov. 2010 ([RO 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805)[5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [FF 2009 1389](https://fedlex.data.admin.ch/eli/fga/2009/359), [2010 1409](https://fedlex.data.admin.ch/eli/fga/2010/268)).
-[^11-4]: [RS 0.641.926.81](https://fedlex.data.admin.ch/eli/cc/2005/444)
+[^11-1]: Nouvelle teneur selon l’art. 8 de l’Avenant du 22 juil. 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^11-2]: Nouvelle teneur selon l’art. 1 par. 1 de l’Avenant du 27 août 2009, approuvé par l’Ass. féd. le 18 juin 2010 et en vigueur depuis le 4 nov. 2010 ([RO 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805), [5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [FF 2009 1389](https://fedlex.data.admin.ch/eli/fga/2009/359); [2010 1409](https://fedlex.data.admin.ch/eli/fga/2010/268)).
+[^11-3]: Introduit par l’art. 1 par. 2 de l’Avenant du 27 août 2009, approuvé par l’Ass. féd. le 18 juin 2010 et en vigueur depuis le 4 nov. 2010 ([RO 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805), [5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [FF 2009 1389](https://fedlex.data.admin.ch/eli/fga/2009/359); [2010 1409](https://fedlex.data.admin.ch/eli/fga/2010/268)).
+[^11-4]: [RS 0.641.926.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2471)
 
 #### Art. 12
 
@@ -292,7 +301,7 @@ et que, dans l’un et l’autre cas, les deux entreprises sont, dans leurs rela
 
 <sup>5.</sup> Lorsque, en raison de relations spéciales existant entre le débiteur et le bénéficiaire effectif ou que l’un et l’autre entretiennent avec de tierces personnes, le montant des intérêts, compte tenu de la créance pour laquelle ils sont payés, excède celui dont seraient convenus le débiteur et le bénéficiaire effectif en l’absence de pareilles relations, les dispositions du présent article ne s’appliquent qu’à ce dernier montant. Dans ce cas, la partie excédentaire des paiements reste imposable selon la législation de chaque État contractant et compte tenu des autres dispositions de la présente convention.
 
-[^12-1]: Nouvelle teneur selon l’art. 9 de l’Avenant du 22 juillet 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^12-1]: Nouvelle teneur selon l’art. 9 de l’Avenant du 22 juil. 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
 
 #### Art. 13
 
@@ -302,15 +311,15 @@ et que, dans l’un et l’autre cas, les deux entreprises sont, dans leurs rela
 
 <sup>3.</sup> Le terme «redevances» employé dans le présent article désigne les rémunérations de toute nature payées pour l’usage ou la concession de l’usage d’un droit d’auteur sur une oeuvre littéraire, artistique ou scientifique, y compris les films cinématographiques, d’un brevet, d’une marque de fabrique ou de commerce, d’un dessin ou d’un modèle, d’un plan, d’une formule ou d’un procédé secrets, …[^13-1] et pour des informations ayant trait à une expérience acquise dans le domaine industriel, commercial ou scientifique.
 
-4.[^13-2] Les dispositions des par. 1 et 2 ne s’appliquent pas lorsque le bénéficiaire effectif des redevances, résident d’un État contractant, exerce dans l’autre État contractant d’où proviennent les redevances, soit une activité industrielle ou commerciale par l’intermédiaire d’un établissement stable qui y est situé, soit une profession libérale ou d’autres activités indépendantes de caractère analogue au moyen d’une base fixe qui y est située, et que le droit ou le bien générateur des redevances s’y rattache effectivement. Dans ce cas, les dispositions de l’art. 7 ou de l’art. 16, suivant les cas, sont applicables.
+<sup>4.</sup> Les dispositions des par. 1 et 2 ne s’appliquent pas lorsque le bénéficiaire effectif des redevances, résident d’un État contractant, exerce dans l’autre État contractant d’où proviennent les redevances, soit une activité industrielle ou commerciale par l’intermédiaire d’un établissement stable qui y est situé, soit une profession libérale ou d’autres activités indépendantes de caractère analogue au moyen d’une base fixe qui y est située, et que le droit ou le bien générateur des redevances s’y rattache effectivement. Dans ce cas, les dispositions de l’art. 7 ou de l’art. 16, suivant les cas, sont applicables.[^13-2]
 
-5.[^13-3] Les redevances sont considérées comme provenant d’un État contractant lorsque le débiteur est un résident de cet État. Toutefois, lorsque le débiteur des redevances, qu’il soit ou non un résident d’un État contractant a, dans un État contractant, un établissement stable, ou une base fixe, pour lequel l’obligation donnant lieu au paiement des redevances a été contractée et qui supporte la charge de ces redevances, celles-ci sont considérées comme provenant de l’État où l’établissement stable, ou la base fixe, est situé.
+<sup>5.</sup> Les redevances sont considérées comme provenant d’un État contractant lorsque le débiteur est un résident de cet État. Toutefois, lorsque le débiteur des redevances, qu’il soit ou non un résident d’un État contractant a, dans un État contractant, un établissement stable, ou une base fixe, pour lequel l’obligation donnant lieu au paiement des redevances a été contractée et qui supporte la charge de ces redevances, celles-ci sont considérées comme provenant de l’État où l’établissement stable, ou la base fixe, est situé.[^13-3]
 
 <sup>6.</sup> Si, par suite de relations spéciales existant entre le débiteur et le créancier ou que l’un et l’autre entretiennent avec de tierces personnes, le montant des redevances payées, compte tenu de la prestation pour laquelle elles sont versées, excède celui dont seraient convenus le débiteur et le créancier en l’absence de pareilles relations, les dispositions du présent article ne s’appliquent qu’à ce dernier montant. En ce cas, la partie excédentaire des paiements reste imposable conformément à la législation de chaque État contractant et compte tenu des autres dispositions de la présente convention.
 
-[^13-1]: Mots supprimés par l’art. 10 de l’Avenant du 22 juillet 1997, approuvé par l’Ass. féd. le 12 mars 1998 et avec effet au 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
-[^13-2]: Nouvelle teneur selon l’art. 10 de l’Avenant du 22 juillet 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
-[^13-3]: Nouvelle teneur selon l’art. 10 de l’Avenant du 22 juillet 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^13-1]: Mots supprimés par l’art. 10 de l’Avenant du 22 juil. 1997, approuvé par l’Ass. féd. le 12 mars 1998 et avec effet au 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^13-2]: Nouvelle teneur selon l’art. 10 de l’Avenant du 22 juil. 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^13-3]: Nouvelle teneur selon l’art. 10 de l’Avenant du 22 juil. 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
 
 #### Art. 14
 
@@ -327,13 +336,13 @@ Les stipulations du par. 1 du présent article ne sont pas applicables lorsque l
 
 <sup>3.</sup> Les dispositions du par. 1 du présent article ne sont pas applicables lorsqu’est demandé le bénéfice de l’avantage prévu à l’art. 11, par. 2, b) i).
 
-[^14-1]: Nouvelle teneur selon l’art. 2 de l’Avenant du 27 août 2009, approuvé par l’Ass. féd. le 18 juin 2010 et en vigueur depuis le 4 nov. 2010 ([RO 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805)[5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [FF 2009 1389](https://fedlex.data.admin.ch/eli/fga/2009/359), [2010 1409](https://fedlex.data.admin.ch/eli/fga/2010/268)).
+[^14-1]: Nouvelle teneur selon l’art. 2 de l’Avenant du 27 août 2009, approuvé par l’Ass. féd. le 18 juin 2010 et en vigueur depuis le 4 nov. 2010 ([RO 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805), [5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [FF 2009 1389](https://fedlex.data.admin.ch/eli/fga/2009/359); [2010 1409](https://fedlex.data.admin.ch/eli/fga/2010/268)).
 
 #### Art. 15
 
 <sup>1.</sup> Les gains provenant de l’aliénation des biens immobiliers, tels qu’ils sont définis à l’al. 1 du par. 2 de l’art. 6, sont imposables dans l’État contractant où ces biens sont situés. …[^15-1]
 
-2.[^15-2] Les gains provenant de l’aliénation d’actions, parts ou d’autres droits dans une société, une fiducie ou une institution comparable, dont l’actif ou le patrimoine est principalement constitué, directement ou indirectement, de biens immobiliers définis au par. 2 de l’art. 6 et situés dans un État contractant ou de droits portant sur de tels biens sont imposables dans cet État. Pour l’application de cette disposition, ne sont pas pris en considération les biens immobiliers affectés par cette société à sa propre exploitation industrielle, commerciale ou agricole ou à l’exercice par elle d’une profession libérale ou d’autres activités indépendantes de caractère analogue.
+<sup>2.</sup> Les gains provenant de l’aliénation d’actions, parts ou d’autres droits dans une société, une fiducie ou une institution comparable, dont l’actif ou le patrimoine est principalement constitué, directement ou indirectement, de biens immobiliers définis au par. 2 de l’art. 6 et situés dans un État contractant ou de droits portant sur de tels biens sont imposables dans cet État. Pour l’application de cette disposition, ne sont pas pris en considération les biens immobiliers affectés par cette société à sa propre exploitation industrielle, commerciale ou agricole ou à l’exercice par elle d’une profession libérale ou d’autres activités indépendantes de caractère analogue.[^15-2]
 
 <sup>3.</sup> Les gains provenant de l’aliénation de biens mobiliers faisant partie de l’actif d’un établissement stable qu’une entreprise d’un État contractant a dans l’autre État contractant, ou de biens mobiliers constitutifs d’une base fixe dont dispose un résident d’un État contractant dans l’autre État contractant pour l’exercice d’une profession libérale, y compris de tels gains provenant de l’aliénation globale de cet établissement stable (seul ou avec l’ensemble de l’entreprise), ou de cette base fixe, sont imposables dans cet autre État. Toutefois, les gains provenant de l’aliénation des biens mobiliers visés au par. 3 de l’art. 24 ne sont imposables que dans l’État contractant où les biens en question eux-mêmes sont imposables en vertu dudit article.
 
@@ -341,8 +350,8 @@ Les stipulations du par. 1 du présent article ne sont pas applicables lorsque l
 
 <sup>5.</sup> Les gains provenant de l’aliénation de tous biens autres que ceux qui sont mentionnés aux par. 1, 2 et 3 ne sont imposables que dans l’État dont le cédant est un résident.
 
-[^15-1]: Phrase abrogée par l’art. 11 de l’Avenant du 22 juillet 1997, approuvé par l’Ass. féd. le 12 mars 1998 et avec effet au 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
-[^15-2]: Nouvelle teneur selon l’art. 11 de l’Avenant du 22 juillet 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^15-1]: Phrase abrogée par l’art. 11 de l’Avenant du 22 juil. 1997, approuvé par l’Ass. féd. le 12 mars 1998 et avec effet au 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^15-2]: Nouvelle teneur selon l’art. 11 de l’Avenant du 22 juil. 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
 
 #### Art. 16
 
@@ -356,20 +365,25 @@ Les stipulations du par. 1 du présent article ne sont pas applicables lorsque l
 
 <sup>1.</sup> Sous réserve des dispositions des art. 18 à 21, les salaires, traitements et autres rémunérations similaires qu’un résident d’un État contractant reçoit au titre d’un emploi salarié ne sont imposables que dans cet État, à moins que l’emploi ne soit exercé dans l’autre État contractant. Si l’emploi y est exercé, les rémunérations reçues à ce titre sont imposables dans cet autre État.
 
-<sup>2.</sup> 3.[^17-2] Nonobstant les dispositions précédentes du présent article, les rémunérations reçues au titre d’un emploi salarié exercé à bord d’un navire, d’un aéronef ou d’un véhicule ferroviaire exploités en trafic international ou à bord d’un bateau servant à la navigation intérieure, sont imposables dans l’État contractant où le siège de direction effective de l’entreprise est situé.
-
-4.[^17-3] Les dispositions de l’accord du 11 avril 1983 relatif à l’imposition des rémunérations des travailleurs frontaliers[^17-4], qui font partie intégrante de la présente convention, s’appliquent nonobstant les dispositions précédentes du présent article, mais sous réserve des dispositions des art. 18, 19 et 21.
+<sup>2.</sup>
 
 Nonobstant les dispositions du par. 1, les rémunérations qu’un résident d’un État contractant reçoit au titre d’un emploi salarié exercé dans l’autre État contractant ne sont imposables que dans le premier État si:
 
-- a) Le bénéficiaire séjourne dans l’autre État pendant une période ou des périodes n’excédant pas au total 183 jours au cours de l’année fiscale considérée;
-- b) Les rémunérations sont payées par un employeur ou au nom d’un employeur qui n’est pas résident de l’autre État, et
-- c) La charge des rémunérations n’est pas supportée par un établissement stable ou une base fixe que l’employeur a dans l’autre État.
+- a) le bénéficiaire séjourne dans l’autre État pendant une période ou des périodes n’excédant pas au total 183 jours au cours de l’année fiscale considérée;
+- b) les rémunérations sont payées par un employeur ou au nom d’un employeur qui n’est pas résident de l’autre État, et
+- c) la charge des rémunérations n’est pas supportée par un établissement stable ou une base fixe que l’employeur a dans l’autre État.
+
+<sup>3.</sup> Nonobstant les dispositions précédentes du présent article, les rémunérations reçues au titre d’un emploi salarié exercé à bord d’un navire, d’un aéronef ou d’un véhicule ferroviaire exploités en trafic international ou à bord d’un bateau servant à la navigation intérieure, sont imposables dans l’État contractant où le siège de direction effective de l’entreprise est situé.[^17-2]
+
+<sup>4.</sup> Les dispositions de l’accord du 11 avril 1983 relatif à l’imposition des rémunérations des travailleurs frontaliers[^17-3], qui font partie intégrante de la présente convention, s’appliquent nonobstant les dispositions précédentes du présent article, mais sous réserve des dispositions des art. 18, 19 et 21.[^17-4]
+
+<sup>5.</sup> Les dispositions du protocole additionnel à la Convention relatif à l’exercice de l’emploi salarié en télétravail s’appliquent nonobstant les dispositions du par. 1 du présent article, mais sous réserve du par. 4.[^17-5]
 
 [^17-1]: Voir la note à l’art. 5.
-[^17-2]: Nouvelle teneur selon l’art. 3 de l’Avenant du 27 août 2009, approuvé par l’Ass. féd. le 18 juin 2010 et en vigueur depuis le 4 nov. 2010 ([RO 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805)[5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [FF 2009 1389](https://fedlex.data.admin.ch/eli/fga/2009/359), [2010 1409](https://fedlex.data.admin.ch/eli/fga/2010/268)).
-[^17-3]: Nouvelle teneur selon l’art. 12 de l’Avenant du 22 juillet 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
-[^17-4]: FF **1983** II 559; l’accord est entré en vigueur le 18 déc. 1986.
+[^17-2]: Nouvelle teneur selon l’art. 3 de l’Avenant du 27 août 2009, approuvé par l’Ass. féd. le 18 juin 2010 et en vigueur depuis le 4 nov. 2010 ([RO 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805), [5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [FF 2009 1389](https://fedlex.data.admin.ch/eli/fga/2009/359); [2010 1409](https://fedlex.data.admin.ch/eli/fga/2010/268)).
+[^17-3]: FF **1983** II 559; l’accord est entré en vigueur le 18 déc. 1986.
+[^17-4]: Nouvelle teneur selon l’art. 12 de l’Avenant du 22 juil. 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^17-5]: Introduit par l’art. 4 de l’Avenant du 27 juin 2023, approuvé par l’Ass. féd. le 14 juin 2024 et en vigueur depuis le 24 juil. 2025 ([RO 2025 486](https://fedlex.data.admin.ch/eli/oc/2025/486), [504](https://fedlex.data.admin.ch/eli/oc/2025/504); [FF 2023 2744](https://fedlex.data.admin.ch/eli/fga/2023/2744)). Voir aussi l’art. 11 par. 3 et 4 dudit avenant, à la fin du présent texte.
 
 #### Art. 18
 
@@ -389,23 +403,23 @@ Nonobstant les dispositions du par. 1, les rémunérations qu’un résident d�
 
 <sup>4.</sup> Les dispositions du par. 2 ne s’appliquent pas aux revenus d’activités qu’un résident d’un État contractant, artiste ou sportif, exerce personnellement et en cette qualité dans l’autre État contractant lorsque ces revenus sont attribués non pas à l’artiste ou au sportif lui-même mais à une autre personne et que cette autre personne est financée principalement par des fonds publics de cet État, de ses subdivisions politiques ou de ses collectivités locales, ou de leurs personnes morales de droit public.
 
-[^19-1]: Nouvelle teneur selon l’art. 13 de l’Avenant du 22 juillet 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^19-1]: Nouvelle teneur selon l’art. 13 de l’Avenant du 22 juil. 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
 
 #### Art. 20
 
 <sup>1.</sup> Sous réserve des dispositions de l’art. 21, les pensions et autres rémunérations similaires, versées à un résident d’un État contractant au titre d’un emploi antérieur, ne sont imposables que dans cet État.
 
-2.[^20-1] Nonobstant les dispositions du par. 1, ces pensions et autres rémunérations similaires sont également imposables, dans la limite de la fraction non imposée dans l’autre État contractant, dans l’État contractant d’où elles proviennent, si elles ne sont pas imposées, en tout ou partie, dans l’autre État contractant en vertu de son droit interne.
+<sup>2.</sup> Nonobstant les dispositions du par. 1, ces pensions et autres rémunérations similaires sont également imposables, dans la limite de la fraction non imposée dans l’autre État contractant, dans l’État contractant d’où elles proviennent, si elles ne sont pas imposées, en tout ou partie, dans l’autre État contractant en vertu de son droit interne.[^20-1]
 
-[^20-1]: Introduit par l’art. 4 par. 2 de l’Avenant du 27 août 2009, approuvé par l’Ass. féd. le 18 juin 2010 et en vigueur depuis le 4 nov. 2010 ([RO 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805)[5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [FF 2009 1389](https://fedlex.data.admin.ch/eli/fga/2009/359), [2010 1409](https://fedlex.data.admin.ch/eli/fga/2010/268)).
+[^20-1]: Introduit par l’art. 4 par. 2 de l’Avenant du 27 août 2009, approuvé par l’Ass. féd. le 18 juin 2010 et en vigueur depuis le 4 nov. 2010 ([RO 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805), [5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [FF 2009 1389](https://fedlex.data.admin.ch/eli/fga/2009/359); [2010 1409](https://fedlex.data.admin.ch/eli/fga/2010/268)).
 
 #### Art. 21
 
 <sup>1.</sup> Les rémunérations, y compris les pensions, versées par un État contractant ou l’une de ses subdivisions politiques ou collectivités locales, ou par une personne morale du droit public de cet État, soit directement soit par prélèvement sur un fonds spécial, à une personne physique possédant la nationalité de cet État, au titre de services rendus actuellement ou antérieurement, ne sont imposables que dans l’État contractant d’où proviennent ces rémunérations.
 
-2.[^21-1] Les dispositions des art. 17, 18, 19 et 20 s’appliquent aux salaires, traitements, pensions et autres rémunérations similaires payés au titre de services rendus dans le cadre d’une activité industrielle ou commerciale exercée par un État contractant ou l’une de ses subdivisions politiques ou collectivités locales, ou par une de leurs personnes morales de droit public.
+<sup>2.</sup> Les dispositions des art. 17, 18, 19 et 20 s’appliquent aux salaires, traitements, pensions et autres rémunérations similaires payés au titre de services rendus dans le cadre d’une activité industrielle ou commerciale exercée par un État contractant ou l’une de ses subdivisions politiques ou collectivités locales, ou par une de leurs personnes morales de droit public.[^21-1]
 
-[^21-1]: Introduit par l’art. 5 par. 2 de l’Avenant du 27 août 2009, approuvé par l’Ass. féd. le 18 juin 2010 et en vigueur depuis le 4 nov. 2010 ([RO 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805)[5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [FF 2009 1389](https://fedlex.data.admin.ch/eli/fga/2009/359), [2010 1409](https://fedlex.data.admin.ch/eli/fga/2010/268)).
+[^21-1]: Introduit par l’art. 5 par. 2 de l’Avenant du 27 août 2009, approuvé par l’Ass. féd. le 18 juin 2010 et en vigueur depuis le 4 nov. 2010 ([RO 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805), [5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [FF 2009 1389](https://fedlex.data.admin.ch/eli/fga/2009/359); [2010 1409](https://fedlex.data.admin.ch/eli/fga/2010/268)).
 
 #### Art. 22
 
@@ -419,7 +433,7 @@ Les sommes qu’un étudiant ou un stagiaire qui est, ou qui était auparavant, 
 
 <sup>2.</sup> Les dispositions du par. 1 ne s’appliquent pas aux revenus autres que les revenus provenant de biens immobiliers tels qu’ils sont définis au par. 2 de l’art. 6, lorsque le bénéficiaire effectif de tels revenus, résident d’un État contractant, exerce dans l’autre État contractant, soit une activité industrielle ou commerciale par l’intermédiaire d’un établissement stable qui y est situé, soit une profession libérale ou d’autres activités indépendantes de caractère analogue au moyen d’une base fixe qui y est située, et que le droit ou le bien générateur des revenus s’y rattache effectivement. Dans ce cas, les dispositions de l’art. 7 ou de l’art. 16, suivant les cas, sont applicables.
 
-[^23-1]: Nouvelle teneur selon l’art. 14 de l’Avenant du 22 juillet 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^23-1]: Nouvelle teneur selon l’art. 14 de l’Avenant du 22 juil. 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
 
 #### Art. 24
 
@@ -439,8 +453,8 @@ La fortune constituée par des actions, parts ou autres droits dans une sociét�
 
 <sup>7.</sup> Tous les autres éléments de la fortune d’un résident d’un État contractant ne sont imposables que dans cet État.
 
-[^24-1]: Phrase abrogée par l’art. 15 de l’Avenant du 22 juillet 1997, approuvé par l’Ass. féd. le 12 mars 1998 et avec effet au 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
-[^24-2]: Al. introduit par l’art. 15 de l’Avenant du 22 juillet 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^24-1]: Phrase abrogée par l’art. 15 de l’Avenant du 22 juil. 1997, approuvé par l’Ass. féd. le 12 mars 1998 et avec effet au 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^24-2]: Al. introduit par l’art. 15 de l’Avenant du 22 juil. 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
 
 #### Art. 25
 
@@ -472,8 +486,8 @@ B. En ce qui concerne la Suisse:
   - b) En une réduction forfaitaire de l’impôt suisse, ou
   - c) En une exemption partielle des revenus en question de l’impôt suisse, mais au moins en une déduction de l’impôt payé en France du montant brut des revenus reçus de France.
 
-[^25-1]: Nouvelle teneur selon l’art. 16 par. 1 de l’Avenant du 22 juillet 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
-[^25-2]: Phrase introduite par l’art. 16 par. 2 de l’Avenant du 22 juillet 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^25-1]: Nouvelle teneur selon l’art. 16 par. 1 de l’Avenant du 22 juil. 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^25-2]: Phrase introduite par l’art. 16 par. 2 de l’Avenant du 22 juil. 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
 
 #### Art. 26
 
@@ -494,32 +508,34 @@ Cette disposition ne peut être interprétée comme obligeant un État contracta
 
 …[^26-1]
 
-4.[^26-2] À moins que les dispositions de l’art. 9, du par. 5 de l’art. 12 ou du par. 6 de l’art. 13 ne soient applicables, les intérêts, redevances et autres dépenses payés par une entreprise d’un État contractant à un résident de l’autre État contractant sont déductibles, pour la détermination des bénéfices imposables de cette entreprise, dans les mêmes conditions que s’ils avaient été payés à un résident du premier État. De même, les dettes d’une entreprise d’un État contractant envers un résident de l’autre État contractant sont déductibles, pour la détermination de la fortune imposable de cette entreprise, dans les mêmes conditions que si elles avaient été contractées envers un résident du premier État.
+<sup>4.</sup> À moins que les dispositions de l’art. 9, du par. 5 de l’art. 12 ou du par. 6 de l’art. 13 ne soient applicables, les intérêts, redevances et autres dépenses payés par une entreprise d’un État contractant à un résident de l’autre État contractant sont déductibles, pour la détermination des bénéfices imposables de cette entreprise, dans les mêmes conditions que s’ils avaient été payés à un résident du premier État. De même, les dettes d’une entreprise d’un État contractant envers un résident de l’autre État contractant sont déductibles, pour la détermination de la fortune imposable de cette entreprise, dans les mêmes conditions que si elles avaient été contractées envers un résident du premier État.[^26-2]
 
-5.[^26-3] Les entreprises d’un État contractant, dont le capital est en totalité ou en partie, directement ou indirectement, détenu ou contrôlé par un ou plusieurs résidents de l’autre État contractant, ne sont soumises dans le premier État contractant à aucune imposition ou obligation y relative, qui est autre ou plus lourde que celle à laquelle sont ou pourront être assujetties les autres entreprises de même nature de ce premier État.
+<sup>5.</sup> Les entreprises d’un État contractant, dont le capital est en totalité ou en partie, directement ou indirectement, détenu ou contrôlé par un ou plusieurs résidents de l’autre État contractant, ne sont soumises dans le premier État contractant à aucune imposition ou obligation y relative, qui est autre ou plus lourde que celle à laquelle sont ou pourront être assujetties les autres entreprises de même nature de ce premier État.[^26-3]
 
-6.[^26-4] Nonobstant les dispositions de l’art. 2[^26-5], le terme «imposition» désigne dans le présent article les impôts de toute nature ou dénomination.
+<sup>6.</sup> Nonobstant les dispositions de l’art. 2[^26-4], le terme «imposition» désigne dans le présent article les impôts de toute nature ou dénomination.[^26-5]
 
-[^26-1]: Al. supprimé par l’art. 17 par. 1 de l’Avenant du 22 juillet 1997, approuvé par l’Ass. féd. le 12 mars 1998 et avec effet au 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
-[^26-2]: Introduit par l’art. 17 par. 2 de l’Avenant du 22 juillet 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^26-1]: Al. supprimé par l’art. 17 par. 1 de l’Avenant du 22 juil. 1997, approuvé par l’Ass. féd. le 12 mars 1998 et avec effet au 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^26-2]: Introduit par l’art. 17 par. 2 de l’Avenant du 22 juil. 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
 [^26-3]: Anciennement par. 4.
-[^26-4]: Anciennement par. 5.
-[^26-5]: Mots introduits par l’art. 17 par. 4 de l’Avenant du 22 juillet 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^26-4]: Mots introduits par l’art. 17 par. 4 de l’Avenant du 22 juil. 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^26-5]: Anciennement par. 5.
 
 #### Art. 27
 
-1.[^27-1] Lorsqu’une personne estime que les mesures prises par un État contractant ou par les deux États contractants entraînent ou entraîneront pour elle une imposition non conforme aux dispositions de la présente convention, elle peut, indépendamment des recours prévus par le droit interne de ces États, soumettre son cas à l’autorité compétente de l’État contractant dont elle est un résident ou, si son cas relève du par. 1 de l’art. 26, à celle de l’État contractant dont elle possède la nationalité. Le cas doit être soumis dans les trois ans qui suivent la première notification de la mesure qui entraîne une imposition non conforme aux dispositions de la convention.
+<sup>1.</sup> Lorsqu’une personne estime que les mesures prises par un État contractant ou par les deux États contractants entraînent ou entraîneront pour elle une imposition non conforme aux dispositions de la présente Convention, elle peut, indépendamment des recours prévus par le droit interne de ces États, soumettre son cas à l’autorité compétente de l’un ou l’autre des États contractants.[^27-1] Le cas doit être soumis dans les trois ans qui suivent la première notification de la mesure qui entraîne une imposition non conforme aux dispositions de la convention.[^27-2]
 
 <sup>2.</sup> Ces autorités compétentes s’efforceront, si la réclamation leur paraît fondée et si elles ne sont pas elles-mêmes en mesure d’apporter une solution satisfaisante, de régler la question par voie d’accord amiable avec les autorités compétentes de l’autre État contractant, en vue d’éviter une imposition non conforme à la convention.
 
-<sup>3.</sup> Les autorités compétentes des États contractants s’efforcent par voie d’accord amiable, de résoudre les difficultés auxquelles l’application de la convention peut donner lieu. Elles peuvent aussi se concerter en vue d’éviter la double imposition dans les cas non prévus par la convention.
+<sup>3.</sup> Les autorités compétentes des États contractants s’efforcent, par voie d’accord amiable, de résoudre les difficultés ou de dissiper les doutes auxquels peuvent donner lieu l’interprétation ou l’application de la Convention.[^27-3] Elles peuvent aussi se concerter en vue d’éviter la double imposition dans les cas non prévus par la convention.
 
 <sup>4.</sup> Les autorités compétentes des États contractants peuvent communiquer directement entre elles en vue de parvenir à un accord comme il est indiqué aux paragraphes précédents. Si des échanges de vues oraux semblent devoir faciliter cet accord, ces échanges de vues peuvent avoir lieu au sein d’une commission composée de représentants des autorités compétentes des États contractants.
 
-5.[^27-2] Lorsqu’une entreprise résidente d’un État contractant a présenté à l’autorité compétente de l’un des États contractants, en application du par. 1, un cas relevant de l’art. 9 de la présente Convention ou portant sur l’existence d’un établissement stable, au sens de l’art. 5 de la présente Convention, dans l’autre État contractant ou afférent à la répartition des profits entre cette entreprise et son établissement stable situé dans l’autre État contractant, et que les autorités compétentes ont été dans l’incapacité d’arriver à un accord pour résoudre ce cas, en vertu du par. 2, dans les trois ans suivant la soumission du cas à l’autorité compétente de l’un des États contractants, toute question non résolue posée par ce cas peut être soumise à un arbitrage si l’entreprise le demande. Cependant, les questions non résolues ne doivent pas être soumises à un arbitrage si toute personne directement concernée par ce cas est encore en droit, selon la législation interne de l’un des États contractants, d’obtenir une décision juridictionnelle de cet État contractant sur les mêmes questions, ou si une telle décision juridictionnelle a déjà été rendue. La décision d’arbitrage lie les deux États contractants et doit être appliquée nonobstant tout délai existant dans le droit interne de ces États. Les autorités compétentes des États contractants prévoient d’un commun accord les modalités d’application du présent paragraphe.
+<sup>5.</sup> Lorsqu’une entreprise résidente d’un État contractant a présenté à l’autorité compétente de l’un des États contractants, en application du par. 1, un cas relevant de l’art. 9 de la présente Convention ou portant sur l’existence d’un établissement stable, au sens de l’art. 5 de la présente Convention, dans l’autre État contractant ou afférent à la répartition des profits entre cette entreprise et son établissement stable situé dans l’autre État contractant, et que les autorités compétentes ont été dans l’incapacité d’arriver à un accord pour résoudre ce cas, en vertu du par. 2, dans les trois ans suivant la soumission du cas à l’autorité compétente de l’un des États contractants, toute question non résolue posée par ce cas peut être soumise à un arbitrage si l’entreprise le demande. Cependant, les questions non résolues ne doivent pas être soumises à un arbitrage si toute personne directement concernée par ce cas est encore en droit, selon la législation interne de l’un des États contractants, d’obtenir une décision juridictionnelle de cet État contractant sur les mêmes questions, ou si une telle décision juridictionnelle a déjà été rendue. La décision d’arbitrage lie les deux États contractants et doit être appliquée nonobstant tout délai existant dans le droit interne de ces États. Les autorités compétentes des États contractants prévoient d’un commun accord les modalités d’application du présent paragraphe.[^27-4]
 
-[^27-1]: Nouvelle teneur selon l’art. 18 de l’Avenant du 22 juillet 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
-[^27-2]: Introduit par l’art. 6 de l’Avenant du 27 août 2009, approuvé par l’Ass. féd. le 18 juin 2010 et en vigueur depuis le 4 nov. 2010 ([RO 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805)[5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [FF 2009 1389](https://fedlex.data.admin.ch/eli/fga/2009/359), [2010 1409](https://fedlex.data.admin.ch/eli/fga/2010/268)).
+[^27-1]: Nouvelle teneur selon l’art. 5 let. a de l’Avenant du 27 juin 2023, approuvé par l’Ass. féd. le 14 juin 2024 et en vigueur depuis le 24 juil. 2025 ([RO 2025 486](https://fedlex.data.admin.ch/eli/oc/2025/486), [504](https://fedlex.data.admin.ch/eli/oc/2025/504); [FF 2023 2744](https://fedlex.data.admin.ch/eli/fga/2023/2744)).
+[^27-2]: Nouvelle teneur selon l’art. 18 de l’Avenant du 22 juil. 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^27-3]: Nouvelle teneur selon l’art. 5 let. b de l’Avenant du 27 juin 2023, approuvé par l’Ass. féd. le 14 juin 2024 et en vigueur depuis le 24 juil. 2025 ([RO 2025 486](https://fedlex.data.admin.ch/eli/oc/2025/486), [504](https://fedlex.data.admin.ch/eli/oc/2025/504); [FF 2023 2744](https://fedlex.data.admin.ch/eli/fga/2023/2744)).
+[^27-4]: Introduit par l’art. 6 de l’Avenant du 27 août 2009, approuvé par l’Ass. féd. le 18 juin 2010 et en vigueur depuis le 4 nov. 2010 ([RO 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805), [5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [FF 2009 1389](https://fedlex.data.admin.ch/eli/fga/2009/359); [2010 1409](https://fedlex.data.admin.ch/eli/fga/2010/268)).
 
 #### Art. 28
 
@@ -541,7 +557,7 @@ Les dispositions des par. 1 et 2 ne peuvent en aucun cas être interprétées co
 
 <sup>5.</sup> En aucun cas les dispositions du par. 3 ne peuvent être interprétées comme permettant à un État contractant de refuser de communiquer des renseignements uniquement parce que ceux-ci sont détenus par une banque, un autre établissement financier, un mandataire ou une personne agissant en tant qu’agent ou fiduciaire ou parce que ces renseignements se rattachent aux droits de propriété d’une personne. Aux fins de l’obtention des renseignements mentionnés dans le présent paragraphe, nonobstant le par. 3 ou toute disposition contraire du droit interne, les autorités fiscales de l’État contractant requis disposent ainsi des pouvoirs de procédure qui leur permettent d’obtenir les renseignements visés par le présent paragraphe.
 
-[^28-1]: Nouvelle teneur selon l’art. 7 de l’Avenant du 27 août 2009, approuvé par l’Ass. féd. le 18 juin 2010 et en vigueur depuis le 4 nov. 2010 ([RO 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805)[5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [FF 2009 1389](https://fedlex.data.admin.ch/eli/fga/2009/359), [2010 1409](https://fedlex.data.admin.ch/eli/fga/2010/268)).
+[^28-1]: Nouvelle teneur selon l’art. 7 de l’Avenant du 27 août 2009, approuvé par l’Ass. féd. le 18 juin 2010 et en vigueur depuis le 4 nov. 2010 ([RO 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805), [5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [FF 2009 1389](https://fedlex.data.admin.ch/eli/fga/2009/359); [2010 1409](https://fedlex.data.admin.ch/eli/fga/2010/268)).
 
 #### Art. 28<sup>bis</sup>
 
@@ -579,7 +595,28 @@ Les États contractants se prêtent mutuellement assistance pour la notification
 
 <sup>5.</sup> Les autorités compétentes des États règlent d’un commun accord les modalités d’application du présent article.
 
-[^28bis-1]: Introduit par l’art. 8 de l’Avenant du 27 août 2009, approuvé par l’Ass. féd. le 18 juin 2010 et en vigueur depuis le 4 nov. 2010 ([RO 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805)[5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [FF 2009 1389](https://fedlex.data.admin.ch/eli/fga/2009/359), [2010 1409](https://fedlex.data.admin.ch/eli/fga/2010/268)). Voir aussi l’art. 11 par. 4 dudit avenant, à la fin du présent texte.
+[^28bis-1]: Introduit par l’art. 8 de l’Avenant du 27 août 2009, approuvé par l’Ass. féd. le 18 juin 2010 et en vigueur depuis le 4 nov. 2010 ([RO 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805), [5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [FF 2009 1389](https://fedlex.data.admin.ch/eli/fga/2009/359); [2010 1409](https://fedlex.data.admin.ch/eli/fga/2010/268)). Voir aussi l’art. 11 par. 4 dudit avenant, à la fin du présent texte.
+
+#### Art. 28<sup>ter</sup>
+
+[^28ter-1]
+
+<sup>1.</sup> Les États contractants sont tenus, pour les besoins du présent paragraphe, de procéder à un échange de renseignements automatique.
+
+Pour l’application de l’art. 17, l’État contractant dans lequel l’employeur est situé fournit chaque année à l’État de résidence du salarié, en format électronique et au plus tard le 30 novembre de l’année suivant celle au cours de laquelle les rémunérations ont été versées, les renseignements individuels et nominatifs suivants:
+
+- a) les nom(s) et prénom(s) de la personne, la date de naissance, le code postal de son lieu de résidence et, si disponible, tout autre élément de nature à faciliter l’identification de la personne (adresse, lieu de naissance, état-civil, n<sup>o</sup> d’identification fiscale);
+- b) l’année civile au cours de laquelle le revenu est réalisé;
+- c) le nombre de jours ou le pourcentage de télétravail;
+- d) le montant de la masse totale des rémunérations brutes versées.
+
+<sup>2.</sup> Les conditions prévues au par. 2 de l’art. 28 de la Convention s’appliquent aux renseignements échangés conformément au par. 1 du présent article.
+
+<sup>3.</sup> L’Administration fédérale des contributions suisse envoie les renseignements visés au par. 1 concernant les salariés résidents de France directement à l’Administration fiscale française. L’Administration fiscale française envoie les renseignements visés au par. 1 concernant les salariés résidents de Suisse directement à l’Administration fédérale des contributions suisse.
+
+<sup>4.</sup> Les autorités compétentes des États contractants règlent par accord amiable les modalités d’application du présent article.
+
+[^28ter-1]: Introduit par l’art. 6 de l’Avenant du 27 juin 2023, approuvé par l’Ass. féd. le 14 juin 2024 et en vigueur depuis le 24 juil. 2025 ([RO 2025 486](https://fedlex.data.admin.ch/eli/oc/2025/486), [504](https://fedlex.data.admin.ch/eli/oc/2025/504); [FF 2023 2744](https://fedlex.data.admin.ch/eli/fga/2023/2744)).
 
 #### Art. 29
 
@@ -591,6 +628,14 @@ Les États contractants se prêtent mutuellement assistance pour la notification
 
 <sup>4.</sup> La convention ne s’applique pas aux organisations internationales, à leurs organes ou à leurs fonctionnaires, ni aux personnes qui sont membres d’une mission diplomatique ou consulaire d’un État tiers, lorsqu’ils se trouvent sur le territoire d’un État contractant et ne sont pas traités comme des résidents dans l’un ou l’autre État contractant en matière d’impôts sur le revenu et sur la fortune.
 
+#### Art. 29<sup>bis</sup>
+
+[^29bis-1]
+
+Nonobstant les autres dispositions de la présente Convention, un avantage au titre de celle-ci ne sera pas accordé au titre d’un élément de revenu ou de fortune s’il est raisonnable de conclure, compte tenu de l’ensemble des faits et circonstances propres à la situation, que l’octroi de cet avantage était l’un des objets principaux d’un montage ou d’une transaction ayant permis, directement ou indirectement, de l’obtenir, à moins qu’il soit établi que l’octroi de cet avantage dans ces circonstances serait conforme à l’objet et au but des dispositions pertinentes de la présente Convention.
+
+[^29bis-1]: Introduit par l’art. 7 de l’Avenant du 27 juin 2023, approuvé par l’Ass. féd. le 14 juin 2024 et en vigueur depuis le 24 juil. 2025 ([RO 2025 486](https://fedlex.data.admin.ch/eli/oc/2025/486), [504](https://fedlex.data.admin.ch/eli/oc/2025/504); [FF 2023 2744](https://fedlex.data.admin.ch/eli/fga/2023/2744)).
+
 #### Art. 30
 
 <sup>1.</sup> La présente convention peut être étendue, telle quelle ou avec les modifications nécessaires aux Territoires d’outre-mer de la République française qui perçoivent des impôts de caractère analogue à ceux auxquels s’applique la présente convention. Une telle extension prend effet à partir de la date, avec les modifications et dans les conditions, y compris les conditions relatives à la cessation d’application, qui sont fixées d’un commun accord entre les États contractants par échange de notes diplomatiques ou selon toute autre procédure conforme à leurs dispositions constitutionnelles.
@@ -601,9 +646,9 @@ Les États contractants se prêtent mutuellement assistance pour la notification
 
 <sup>1.</sup> Les autorités compétentes des États contractants déterminent les modalités d’application de la présente convention. Elles s’entendront en particulier sur la procédure de dégrèvement prévue aux art. 11 à 14.
 
-2.[^31-1] Pour obtenir dans un État contractant les avantages prévus par la présente convention, les résidents de l’autre État contractant doivent, à moins que les autorités compétentes en disposent autrement, présenter un formulaire d’attestation de résidence indiquant en particulier la nature ainsi que le montant ou la valeur des revenus ou de la fortune concernés, et comportant la certification des services fiscaux de cet autre État.
+<sup>2.</sup> Pour obtenir dans un État contractant les avantages prévus par la présente convention, les résidents de l’autre État contractant doivent, à moins que les autorités compétentes en disposent autrement, présenter un formulaire d’attestation de résidence indiquant en particulier la nature ainsi que le montant ou la valeur des revenus ou de la fortune concernés, et comportant la certification des services fiscaux de cet autre État.[^31-1]
 
-[^31-1]: Introduit par l’art. 19 de l’Avenant du 22 juillet 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^31-1]: Introduit par l’art. 19 de l’Avenant du 22 juil. 1997, approuvé par l’Ass. féd. le 12 mars 1998 et en vigueur depuis le 1<sup>er</sup> août 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
 
 #### Art. 32
 
@@ -617,10 +662,10 @@ Elle entrera en vigueur dès l’échange des instruments de ratification et ses
 - b) Aux autres impôts français établis au titre de l’année 1967;
 - c) Aux autres impôts suisses perçus pour l’année 1967.
 
-<sup>3.</sup> La convention conclue à Paris le 31 décembre 1953[^32-1] entre la Confédération suisse et la République française en vue d’éviter les doubles impositions en matière d’impôts sur le revenu et sur la fortune est abrogée et cesse ses effets pour les impôts auxquels est applicable la présente convention conformément au par. 2. Toutefois, les dispositions de la convention précitée demeurent en vigueur, dans la mesure où il y est fait référence, pour l’application de la convention conclue à Paris le 31 décembre 1953[^32-2] entre la Confédération suisse et la République française en vue d’éviter les doubles impositions en matière d’impôts sur les successions.
+<sup>3.</sup> La convention conclue à Paris le 31 décembre 1953 entre la Confédération suisse et la République française en vue d’éviter les doubles impositions en matière d’impôts sur le revenu et sur la fortune[^32-1] est abrogée et cesse ses effets pour les impôts auxquels est applicable la présente convention conformément au par. 2. Toutefois, les dispositions de la convention précitée demeurent en vigueur, dans la mesure où il y est fait référence, pour l’application de la convention conclue à Paris le 31 décembre 1953 entre la Confédération suisse et la République française en vue d’éviter les doubles impositions en matière d’impôts sur les successions[^32-2].
 
-[^32-1]: [RO 1955 115](https://fedlex.data.admin.ch/eli/oc/1955/111_115_119). Pour les dispositions encore en vigueur, voir [RS 0.672.934.92](https://fedlex.data.admin.ch/eli/cc/1955/128_132_136)in fine.
-[^32-2]: [RS 0.672.934.92](https://fedlex.data.admin.ch/eli/cc/1955/128_132_136)
+[^32-1]: [RO 1955 115](https://fedlex.data.admin.ch/eli/oc/1955/111_115_119). Pour les dispositions encore en vigueur après cette date, voir [RO 1955 132](https://fedlex.data.admin.ch/eli/oc/1955/128_132_136)in fine.
+[^32-2]: [[RO 1955 132](https://fedlex.data.admin.ch/eli/oc/1955/128_132_136); [2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298). [RO 2014 3387](https://fedlex.data.admin.ch/eli/oc/2014/587)]
 
 #### Art. 33
 
@@ -686,18 +731,47 @@ Les règles de procédure administratives relatives aux droits du contribuable s
 
 Il est entendu que les États contractants ne sont pas tenus, sur la base de l’art. 28 de la Convention, de procéder à un échange de renseignements spontané ou automatique.
 
+XII. Il est entendu que l’art. 28<sup>ter</sup> de la Convention s’applique également aux revenus couverts par l’accord du 11 avril 1983 relatif à l’imposition des rémunérations des travailleurs frontaliers.
+
+XIII. Il est entendu que les dispositions de la Convention n’empêchent pas les États contractants de mettre en œuvre les dispositions de droit interne relatives à l’imposition minimale des groupes d’entreprises, prises sur le fondement des règles globales de lutte contre l’érosion de la base d’imposition (pilier deux) élaborées par le Cadre inclusif de l’Organisation de coopération et de développement économiques.
+
 Fait en deux exemplaires à Paris, le neuf septembre mil neuf cent soixante six.
 
 <table>
 <tr><td>Pour le Conseil fédéral suisse: Claude Caillat</td><td>Pour le Président de la République française: Gilbert de Chambrun</td></tr>
 </table>
 
-## Art. 21, par. 2 de l’Avenant du 22 juillet 1997
+## Protocole additionnel à la Convention relatif à l’exercice de l’emploi salarié en télétravail
 
 [^annexu1-lvlu2-1]
 
-[^t-3]: Mise à jour selon l’art. 20 de l’Avenant du 22 juillet 1997, approuvé par l’Ass. féd. le 12 mars 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)), les art. 9 et 10 de l’Avenant du 27 août 2009, approuvé par l’Ass. féd. le 18 juin 2010 ([RO 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805)[5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [FF 2009 1389](https://fedlex.data.admin.ch/eli/fga/2009/359), [2010 1409](https://fedlex.data.admin.ch/eli/fga/2010/268)) et l’art. 1 de l’Ac. du 25 juin 2014, approuvé par l’Ass. féd. le 23 déc. 2011, en vigueur par échange de notes le 30 mars 2016 ([RO 2016 1195](https://fedlex.data.admin.ch/eli/oc/2016/228)[1193](https://fedlex.data.admin.ch/eli/oc/2016/227); [FF 2011 3519](https://fedlex.data.admin.ch/eli/fga/2011/546)).
-[^annexu1-lvlu2-1]: [RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)
+[^t-3]: Mise à jour par l’art. 20 de l’Avenant du 22 juil. 1997, approuvé par l’Ass. féd. le 12 mars 1998 ([RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)), les art. 9 et 10 de l’Avenant du 27 août 2009, approuvé par l’Ass. féd. le 18 juin 2010 ([RO 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805), [5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [FF 2009 1389](https://fedlex.data.admin.ch/eli/fga/2009/359); [2010 1409](https://fedlex.data.admin.ch/eli/fga/2010/268)) et l’art. 1 de l’Ac. du 25 juin 2014, approuvé par l’Ass. féd. le 23 déc. 2011 ([RO 2016 1195](https://fedlex.data.admin.ch/eli/oc/2016/228), [1193](https://fedlex.data.admin.ch/eli/oc/2016/227); [FF 2011 3519](https://fedlex.data.admin.ch/eli/fga/2011/546)) et les art. 8 et 9 de l’Avenant du 27 juin 2023, approuvé par l’Ass. féd. le 14 juin 2024 et en vigueur depuis le 24 juil. 2025 ([RO 2025 486](https://fedlex.data.admin.ch/eli/oc/2025/486), [504](https://fedlex.data.admin.ch/eli/oc/2025/504); [FF 2023 2744](https://fedlex.data.admin.ch/eli/fga/2023/2744)).
+[^annexu1-lvlu2-1]: Introduit par l’art. 10 de l’Avenant du 27 juin 2023, approuvé par l’Ass. féd. le 14 juin 2024 et en vigueur depuis le 24 juil. 2025 ([RO 2025 486](https://fedlex.data.admin.ch/eli/oc/2025/486), [504](https://fedlex.data.admin.ch/eli/oc/2025/504); [FF 2023 2744](https://fedlex.data.admin.ch/eli/fga/2023/2744)). Voir aussi l’art. 11 par. 3 et 4 dudit avenant, à la fin du présent texte.
+
+1.
+
+- a) Pour l’application du par. 5 de l’art. 17, les activités exercées en télétravail depuis l’État de résidence du salarié pour le compte d’un employeur situé dans l’autre État contractant sont considérées effectuées auprès de cet employeur dans cet autre État dans la limite de 40 % du temps de travail par année civile.
+- b) L’État contractant qui dispose du droit d’imposer les revenus conformément au a) paie à l’État dans lequel réside le salarié une compensation fixée à 40 % des impôts dus sur les rémunérations versées à raison des activités exercées en télétravail depuis l’État de résidence.
+- c) Nonobstant les dispositions du b), lorsqu’un résident de France exerce ses activités en télétravail pour le compte d’un employeur situé dans le canton de Genève, la compensation est fixée à 40 % des impôts dus sur les rémunérations versées à raison des activités exercées en télétravail depuis l’État de résidence, pour la seule fraction de télétravail comprise entre 15 % et 40 % du temps de travail par année civile.
+- d) Au-delà de la limite prévue au a), les dispositions des par. 1 à 3 de l’art. 17 de la Convention s’appliquent, dès le premier jour de télétravail. Dans ce cas, la compensation prévue en application des b) et c) n’est pas due.
+
+\2. S’agissant de la détermination du montant de la compensation telle que définie aux b) et c) du par. 1, les modifications ultérieures du montant des impôts dus sur les rémunérations versées à raison des activités exercées en télétravail depuis l’État de résidence sont prises en compte au titre de l’année durant laquelle la correction est intervenue.
+
+\3. Pour l’application du présent protocole, l’expression «activités exercées en télétravail depuis l’État de résidence» désigne toute forme d’organisation du travail dans laquelle un travail, qui aurait également pu être réalisé dans les locaux de l’employeur, est effectué par un salarié dans son État de résidence, à distance et en dehors des locaux de l’employeur, pour le compte de celui-ci, conformément aux dispositions contractuelles liant l’employé et l’employeur, en utilisant les technologies de l’information et de la communication. Cette expression inclut également les missions temporaires exercées par le salarié pour le compte de cet employeur dans l’État de résidence ou dans un État tiers, pour autant que leur durée cumulée n’excède pas 10 jours par année.
+
+\4. L’expression «impôts dus sur les rémunérations versées à raison des activités exercées en télétravail depuis l’État de résidence», au sens des par. 1 et 2 du présent protocole, désigne les impôts sur le revenu visés à l’art. 2 de la Convention et afférents aux rémunérations provenant des activités exercées en télétravail par le salarié depuis l’État de résidence pour le compte d’un employeur situé dans l’autre État contractant.
+
+\5. Le montant de compensation prévu au par. 1 doit être transmis par l’autorité compétente de chaque État à celle de l’autre État au plus tard le 30 juin de l’année suivant celle au cours de laquelle les rémunérations ont été versées. Chacun des États paie la compensation dans son unité monétaire au plus tard à cette même date.
+
+\6. Le présent protocole s’applique sous réserve de l’imposition effective des revenus concernés dans l’État qui dispose du droit de les imposer conformément à l’art. 17 de la Convention et au présent protocole.
+
+\7. Les autorités compétentes arrêtent d’un commun accord les mesures administratives nécessaires pour l’application des dispositions du présent protocole par voie de procédure amiable.
+
+## Art. 21, par. 2 de l’Avenant du 22 juillet 1997
+
+[^annexu1-lvlu3-1]
+
+[^annexu1-lvlu3-1]: [RO 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [FF 1997 IV 1025](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)
 
 \2. Les dispositions de l’Avenant s’appliqueront:
 
@@ -707,9 +781,9 @@ Fait en deux exemplaires à Paris, le neuf septembre mil neuf cent soixante six.
 
 ## Art. 11, par. 2 à 4 de l’Avenant du 27 août 2009
 
-[^annexu1-lvlu3-1]
+[^annexu1-lvlu4-1]
 
-[^annexu1-lvlu3-1]: [RO 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805); [FF 2009 1389](https://fedlex.data.admin.ch/eli/fga/2009/359), [2010 1409](https://fedlex.data.admin.ch/eli/fga/2010/268)
+[^annexu1-lvlu4-1]: [RO 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805), [5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [FF 2009 1389](https://fedlex.data.admin.ch/eli/fga/2009/359); [2010 1409](https://fedlex.data.admin.ch/eli/fga/2010/268)
 
 \2. Les dispositions de l’Avenant s’appliquent, en ce qui concerne les impôts sur le revenu, aux revenus afférents, suivant les cas, à toute année civile ou tout exercice commençant après l’année civile au cours de laquelle l’Avenant est entré en vigueur.
 
@@ -719,10 +793,30 @@ Fait en deux exemplaires à Paris, le neuf septembre mil neuf cent soixante six.
 
 ## Art. 2, par. 2 et 3, de l’Accord du 25 juin 2014
 
-[^annexu1-lvlu4-1]
+[^annexu1-lvlu5-1]
 
-[^annexu1-lvlu4-1]: [RO 2016 1195](https://fedlex.data.admin.ch/eli/oc/2016/228)[1193](https://fedlex.data.admin.ch/eli/oc/2016/227); [FF 2011 3519](https://fedlex.data.admin.ch/eli/fga/2011/546)
+[^annexu1-lvlu5-1]: [RO 2016 1195](https://fedlex.data.admin.ch/eli/oc/2016/228), [1193](https://fedlex.data.admin.ch/eli/oc/2016/227); [FF 2011 3519](https://fedlex.data.admin.ch/eli/fga/2011/546)
 
 \2. Le présent Accord est applicable aux demandes d’échange de renseignements concernant toute année civile ou tout exercice commençant à compter du 1<sup>er</sup> janvier 2010.
 
-\3. Nonobstant les dispositions du par. 2, le 1 de l’art. 1 du présent Accord est applicable aux demandes d’échange de renseignements relatives à des faits survenus pour toute période commençant à compter du 1<sup>er</sup> février 2013
+\3. Nonobstant les dispositions du par. 2, le 1 de l’art. 1 du présent Accord est applicable aux demandes d’échange de renseignements relatives à des faits survenus pour toute période commençant à compter du 1<sup>er</sup> février 2013.
+
+## Art. 11, par. 2 à 6, de l’Avenant du 27 juin 2023
+
+[^annexu1-lvlu6-1]
+
+[^annexu1-lvlu6-1]: [RO 2025 486](https://fedlex.data.admin.ch/eli/oc/2025/486), [504](https://fedlex.data.admin.ch/eli/oc/2025/504); [FF 2023 2744](https://fedlex.data.admin.ch/eli/fga/2023/2744)
+
+\2. Les dispositions du présent avenant s’appliquent dans les deux États:
+
+- a) en ce qui concerne les impôts perçus par voie de retenue à la source, aux sommes imposables après l’année civile au cours de laquelle le présent avenant entre en vigueur;
+- b) en ce qui concerne les impôts sur le revenu qui ne sont pas perçus par voie de retenue à la source, aux revenus afférents, suivant les cas, à toute année civile ou tout exercice commençant après l’année civile au cours de laquelle le présent avenant entre en vigueur;
+- c) en ce qui concerne les autres impôts, aux impositions dont le fait générateur intervient après l’année civile au cours de laquelle le présent avenant entre en vigueur.
+
+\3. Nonobstant les dispositions du par. 2, les dispositions des art. 4 et 10 du présent avenant s’appliquent aux rémunérations payées à compter du 1<sup>er</sup> janvier 2023.
+
+\4. Nonobstant le par. 3, et s’agissant de la période comprise entre le 1<sup>er</sup> janvier 2023 et le 31 décembre de l’année de l’entrée en vigueur du présent avenant, la Suisse verse à la France, au plus tard le 30 juin de l’année suivant celle au cours de laquelle le présent avenant entre en vigueur, un montant, en francs suisses, correspondant à 2,3 % de l’impôt dû sur les rémunérations versées au titre d’un emploi salarié à des résidents de France, pour chaque année civile comprise dans la période précitée, en lieu et place de la compensation prévue aux b) et c) du par. 1 du protocole additionnel à la Convention relatif à l’exercice de l’emploi salarié en télétravail. Ce montant est calculé au prorata de la durée d’application de l’Accord amiable du 22 décembre 2022 conclu entre les autorités compétentes de la Suisse et de la France concernant les dispositions applicables aux revenus visés au 1 de l’art. 17 de la Convention. Il est entendu que ce montant est calculé net et prend en compte la compensation due par la France à la Suisse, au titre de cette même période, en vertu du b) du par. 1 du protocole additionnel à la Convention relatif à l’exercice de l’emploi salarié en télétravail.
+
+\5. Le présent avenant demeure en vigueur aussi longtemps que la Convention.
+
+\6. En cas de dénonciation de la Convention, il est entendu que chaque État contractant versera à l’autre, au plus tard le 30 juin de l’année subséquente, les compensations prévues au par. 1 du protocole additionnel à la Convention relatif à l’exercice de l’emploi salarié en télétravail afférentes à l’année pour la fin de laquelle la dénonciation aura été notifiée.

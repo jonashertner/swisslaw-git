@@ -3,11 +3,11 @@ sr: "0.672.934.91"
 title: Abkommen vom 9. September 1966 zwischen der Schweiz und Frankreich zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen und zur Vermeidung von Steuerbetrug und Steuerflucht (mit Zusatzprotokoll)
 eli: "https://fedlex.data.admin.ch/eli/cc/1967/1079_1119_1113"
 language: de
-version: 2016-03-30
+version: 2025-07-24
 adopted: 1966-09-09
 in_force: 1967-07-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/1079_1119_1113/20160330/de/xml/fedlex-data-admin-ch-eli-cc-1967-1079_1119_1113-20160330-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1967/1079_1119_1113/20160330/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/1079_1119_1113/20250724/de/xml/fedlex-data-admin-ch-eli-cc-1967-1079_1119_1113-20250724-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1967/1079_1119_1113/20250724/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,20 +20,20 @@ AS **1967** 1079; BBl **1966** II 577[^t-1]
 
 Abgeschlossen am 9. September 1966 Von der Bundesversammlung genehmigt am 7. Juni 1967[^t-2] Ratifikationsurkunden ausgetauscht am 26. Juli 1967 In Kraft getreten am 26. Juli 1967
 
-(Stand am 30. März 2016)
+(Stand am 24. Juli 2025)
 
-[^t-1]: Fassung gemäss Art. 11 Abs. 6 des Zusatzabk. vom 27. Aug. 2009, von der BVers genehmigt am 18. Juni 2010 und in Kraft seit 4. Nov. 2010 ([AS 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805)[5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [BBl 2009 1631](https://fedlex.data.admin.ch/eli/fga/2009/359), [2010 1541](https://fedlex.data.admin.ch/eli/fga/2010/268)).
+[^t-1]: Fassung gemäss Art. 11 Abs. 6 des Zusatzabk. vom 27. Aug. 2009, von der BVers genehmigt am 18. Juni 2010 und in Kraft seit 4. Nov. 2010 ([AS 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805), [5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [BBl 2009 1631](https://fedlex.data.admin.ch/eli/fga/2009/359); [2010 1541](https://fedlex.data.admin.ch/eli/fga/2010/268)).
 [^t-2]: [AS 1967 1077](https://fedlex.data.admin.ch/eli/oc/1967/1077_1117_1111)
 
 Der Bundesrat der Schweizerischen Eidgenossenschaft und der Präsident der Französischen Republik,
 
-vom Wunsche geleitet, die Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen zu vermeiden, haben die Vereinbarung eines Abkommens beschlossen und zu diesem Zwecke zu ihren Bevollmächtigten ernannt:
+vom Wunsch geleitet, ihre wirtschaftlichen Beziehungen weiterzuentwickeln und ihre Zusammenarbeit in steuerlichen Angelegenheiten zu vertiefen,
 
-(Es folgen die Namen der Bevollmächtigten)
+in der Absicht, ein Abkommen zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen abzuschliessen, ohne Möglichkeiten zur Nichtbesteuerung oder reduzierten Besteuerung durch Steuerhinterziehung oder -umgehung (unter anderem durch missbräuchliche Gestaltungen mit dem Ziel des Erhalts von in diesem Abkommen vorgesehenen Erleichterungen zum mittelbaren Nutzen von in Drittstaaten ansässigen Personen) zu schaffen,
 
-die nach Austausch ihrer in guter und gehöriger Form befundenen Vollmachten
+haben Folgendes vereinbart:[^ingress-1]
 
-folgendes vereinbart haben:
+[^ingress-1]: Fassung gemäss Art. 1 des Zusatzabk. vom 27. Juni 2023, von der BVers genehmigt am 14. Juni 2024 und in Kraft seit 24. Juli 2025 ([AS 2025 486](https://fedlex.data.admin.ch/eli/oc/2025/486), [504](https://fedlex.data.admin.ch/eli/oc/2025/504); [BBl 2023 2744](https://fedlex.data.admin.ch/eli/fga/2023/2744)).
 
 #### Art. 1
 
@@ -65,7 +65,7 @@ Das Abkommen gilt aber nicht für die an der Quelle erhobenen Steuern von Lotter
 
 <sup>4.</sup> Das Abkommen gilt auch für alle Steuern gleicher oder ähnlicher Art, die künftig neben den zurzeit bestehenden Steuern oder an deren Stelle erhoben werden. Die zuständigen Behörden der Vertragsstaaten teilen einander am Ende eines jeden Jahres die in ihren Steuergesetzen eingetretenen Änderungen mit.
 
-[^2-1]: Fassung gemäss Art. 1 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^2-1]: Fassung gemäss Art. 1 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
 
 #### Art. 3
 
@@ -83,14 +83,18 @@ Im Sinne dieses Abkommens, wenn der Zusammenhang nichts anderes erfordert:
 - f) bedeutet der Ausdruck «Gesellschaft» juristische Personen und Rechtsträger, die für die Besteuerung wie juristische Personen behandelt werden;
 - g) bedeuten die Ausdrücke «Unternehmen eines Vertragsstaats» und «Unternehmen des anderen Vertragsstaats», je nachdem, ein Unternehmen, das von einer in einem Vertragsstaat ansässigen Person betrieben wird, oder ein Unternehmen, das von einer im anderen Vertragsstaat ansässigen Person betrieben wird;
 - h) bedeutet der Ausdruck «internationaler Verkehr» jede Beförderung mit einem Schiff[^3-2] oder Luftfahrzeug, das von einem Unternehmen mit tatsächlicher Geschäftsleitung in einem Vertragsstaat betrieben wird, es sei denn, das Schiff oder Luftfahrzeug wird ausschliesslich zwischen Orten im anderen Vertragsstaat betrieben;
-  - i) bedeutet der Ausdruck «zuständige Behörde»:
+- i)
+
+  bedeutet der Ausdruck «zuständige Behörde»:
+
   - i) in Frankreich den Minister für das Budget oder seinen bevollmächtigten Vertreter;
-  - ii) in der Schweiz den Direktor der Eidgenössischen Steuerverwaltung oder seinen bevollmächtigten Vertreter.
+  - ii)[^3-3] in der Schweiz den Vorsteher des Eidgenössischen Finanzdepartements oder seinen bevollmächtigten Vertreter.
 
 <sup>2.</sup> Bei der Anwendung des Abkommens durch einen Vertragsstaat hat, wenn der Zusammenhang nichts anderes erfordert, jeder im Abkommen nicht definierte Ausdruck die Bedeutung, die ihm im Anwendungszeitraum nach dem Recht dieses Staates über die Steuern zukommt, für die das Abkommen gilt. Die Bedeutung nach dem in diesem Staat anzuwendenden Steuerrecht hat den Vorrang vor einer Bedeutung, die der Ausdruck nach anderem Recht dieses Staates hat.
 
-[^3-1]: Fassung gemäss Art. 2 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
-[^3-2]: Der Begriff wurde in Anwendung von Art. 12 Abs. 1 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) formlos berichtigt. Die Berichtigung wurde im ganzen Erlass vorgenommen.
+[^3-1]: Fassung gemäss Art. 2 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^3-2]: Der Begriff wurde in Anwendung von Art. 12 Abs. 1 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) formlos berichtigt. Die Berichtigung wurde im ganzen Erlass vorgenommen.
+[^3-3]: Fassung gemäss Art. 2 des Zusatzabk. vom 27. Juni 2023, von der BVers genehmigt am 14. Juni 2024 und in Kraft seit 24. Juli 2025 ([AS 2025 486](https://fedlex.data.admin.ch/eli/oc/2025/486), [504](https://fedlex.data.admin.ch/eli/oc/2025/504); [BBl 2023 2744](https://fedlex.data.admin.ch/eli/fga/2023/2744)).
 
 #### Art. 4
 
@@ -111,16 +115,18 @@ Ist nach Absatz 1 eine natürliche Person in beiden Vertragsstaaten ansässig, s
 
 Im anderen Staat beginnt die Steuerpflicht, soweit sie an den Wohnsitz anknüpft, vom gleichen Zeitpunkt an.
 
-5.[^4-1] Der Ausdruck ‹eine in einem Vertragsstaat ansässige Person› umfasst ebenfalls diesen Staat, seine politischen Unterabteilungen und seine lokalen Gebietskörperschaften wie auch ihre juristischen Personen öffentlichen Rechts.
+<sup>5.</sup> Der Ausdruck ‹eine in einem Vertragsstaat ansässige Person› umfasst ebenfalls diesen Staat, seine politischen Unterabteilungen und seine lokalen Gebietskörperschaften wie auch ihre juristischen Personen öffentlichen Rechts.[^4-1]
 
-6.[^4-2] Nicht als im Sinne dieses Artikels in einem Vertragsstaat ansässig gilt:
+<sup>6.</sup>
 
-- a) eine Person, auf die zwar die in den Absätzen 1, 2, 3 und 5[^4-3] enthaltene Umschreibung zutrifft, die aber nur der scheinbare Empfänger der Einkünfte ist, während diese Einkünfte in Wirklichkeit – unmittelbar oder mittelbar über andere natürliche oder juristische Personen – einer Person zugute kommen, die selbst nicht als im Sinne dieses Artikels in diesem Staat ansässig gilt;
-- b) eine natürliche Person, die in diesem Staat nur auf einer pauschalen Grundlage besteuert wird, die nach dem Mietwert der Wohnstätte oder der Wohnstätten bemessen wird, über die sie in diesem Staat verfügt.
+Nicht als im Sinne dieses Artikels in einem Vertragsstaat ansässig gilt:
 
-[^4-1]: Eingefügt durch Art. 3 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
-[^4-2]: Ursprünglich Abs. 5
-[^4-3]: Worte gemäss Art. 3 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+- a) eine Person, auf die zwar die in den Absätzen 1, 2, 3 und 5[^4-2] enthaltene Umschreibung zutrifft, die aber nur der scheinbare Empfänger der Einkünfte ist, während diese Einkünfte in Wirklichkeit – unmittelbar oder mittelbar über andere natürliche oder juristische Personen – einer Person zugute kommen, die selbst nicht als im Sinne dieses Artikels in diesem Staat ansässig gilt;
+- b) eine natürliche Person, die in diesem Staat nur auf einer pauschalen Grundlage besteuert wird, die nach dem Mietwert der Wohnstätte oder der Wohnstätten bemessen wird, über die sie in diesem Staat verfügt.[^4-3]
+
+[^4-1]: Eingefügt durch Art. 3 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^4-2]: Worte gemäss Art. 3 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^4-3]: Ursprünglich Abs. 5.
 
 #### Art. 5
 
@@ -160,7 +166,7 @@ Als Betriebsstätten gelten nicht:
 
 <sup>8.</sup> Wird eine Baustelle in einem Vertragsstaat nicht unmittelbar von einem Unternehmer des anderen Vertragsstaates eröffnet, sondern durch eine einfache Gesellschaft des schweizerischen Rechts (bei Baustellen in der Schweiz) oder eine «société de fait» oder «association en participation» des französischen Rechts (bei Baustellen in Frankreich), an der der genannte Unternehmer beteiligt ist, so gelten die Bestimmungen des Artikels 7 Absatz 8 und des Artikels 24 Absatz 4 nur, wenn die Bestimmungen des Absatzes 2 Buchstabe g dieses Artikels erfüllt sind.
 
-[^5-1]: Siehe jedoch Art. 7 des Abk. vom 27. Sept. 1984 zwischen dem Schweizerischen Bundes-rat und der Regierung der Französischen Republik über den Autobahnzusammenschluss zwischen Bardonnex (Genf) und Saint-Julien-en-Genevois (Hochsavoyen) (SR **0****.****725.141**).
+[^5-1]: Siehe jedoch Art. 7 des Abk. vom 27. Sept. 1984 zwischen dem Schweizerischen Bundes-rat und der Regierung der Französischen Republik über den Autobahnzusammenschluss zwischen Bardonnex (Genf) und Saint-Julien-en-Genevois (Hochsavoyen) ([SR 0.725.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2735)).
 
 #### Art. 6
 
@@ -174,8 +180,8 @@ Wenn das Eigentum oder Nutzniessungsrecht an Aktien, Anteilen oder an anderen Re
 
 <sup>4.</sup> Die Absätze 1 und 3 gelten auch für Einkünfte aus unbeweglichem Vermögen eines Unternehmens und für Einkünfte aus unbeweglichem Vermögen, das der Ausübung eines freien Berufes dient.
 
-[^6-1]: Worte eingefügt durch Art. 4 Abs. 1 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
-[^6-2]: Fassung gemäss Art. 4 Abs. 2 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^6-1]: Worte eingefügt durch Art. 4 Abs. 1 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^6-2]: Fassung gemäss Art. 4 Abs. 2 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
 
 #### Art. 7
 
@@ -198,8 +204,8 @@ Wenn das Eigentum oder Nutzniessungsrecht an Aktien, Anteilen oder an anderen Re
 <sup>8.</sup> Einkünfte aus Beteiligungen an Unternehmen, die in der Form von einfachen Gesellschaften, von «sociétés de fait» oder von Kollektiv- oder Kommanditgesellschaften errichtet sind, ferner die Einkünfte aus Beteiligungen an «associations en participation» oder «sociétés civiles» des französischen Rechts, sofern diese Vereinigungen der für Personengesellschaften geltenden Steuerordnung unterstehen, können in dem Vertragsstaat besteuert werden, in dem die in Rede stehenden Unternehmen eine Betriebsstätte unterhalten. Diese Bestimmung steht, soweit es sich um Beteiligungen in Form von Kommanditeinlagen in Kommanditgesellschaften handelt, der Anwendung …[^7-3] des Artikels 11 des Abkommens nicht entgegen.
 
 [^7-1]: Siehe Note zu Art. 5.
-[^7-2]: Worte eingefügt durch Art. 5 Abs. 1 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
-[^7-3]: Worte gestrichen durch Art. 5 Abs. 2 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und mit Wirkung seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^7-2]: Worte eingefügt durch Art. 5 Abs. 1 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^7-3]: Worte gestrichen durch Art. 5 Abs. 2 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und mit Wirkung seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
 
 #### Art. 8
 
@@ -211,27 +217,33 @@ Wenn das Eigentum oder Nutzniessungsrecht an Aktien, Anteilen oder an anderen Re
 
 <sup>4.</sup> Absatz 1 gilt auch für Gewinne aus der Beteiligung an einem Pool, an einer gemeinsamen Betriebsorganisation oder an einer internationalen Betriebskörperschaft.
 
-5.[^8-1] Ungeachtet des Artikels 2:
+<sup>5.</sup>
+
+Ungeachtet des Artikels 2:
 
 - a) wird ein Unternehmen, dessen Ort der tatsächlichen Geschäftsleitung sich in der Schweiz befindet und das Luftfahrzeuge im internationalen Verkehr betreibt, von Amtes wegen von der auf Grund dieses Betriebs in Frankreich geschuldeten Gewerbesteuer (‹taxe professionnelle›) befreit;
-- b) wird ein Unternehmen, dessen Ort der tatsächlichen Geschäftsleitung sich in Frankreich befindet und das Luftfahrzeuge im internationalen Verkehr betreibt, von jeder auf Grund dieses Betriebs in der Schweiz analog zur französischen Gewerbesteuer (‹taxe professionnelle›) geschuldeten Steuer befreit.
+- b) wird ein Unternehmen, dessen Ort der tatsächlichen Geschäftsleitung sich in Frankreich befindet und das Luftfahrzeuge im internationalen Verkehr betreibt, von jeder auf Grund dieses Betriebs in der Schweiz analog zur französischen Gewerbesteuer (‹taxe professionnelle›) geschuldeten Steuer befreit.[^8-1]
 
-[^8-1]: Eingefügt durch Art. 6 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)). Siehe auch Art. 21 Abs. 2 Bst. c dieses Zusatzabk. am Schluss des Textes.
+[^8-1]: Eingefügt durch Art. 6 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)). Siehe auch Art. 21 Abs. 2 Bst. c dieses Zusatzabk. am Schluss des Textes.
 
 #### Art. 9
 
-Wenn
+<sup>1.</sup> und in diesen Fällen zwischen den beiden Unternehmen hinsichtlich ihrer kaufmännischen oder finanziellen Beziehungen Bedingungen vereinbart oder auferlegt werden, die von denen abweichen, die unabhängige Unternehmen miteinander vereinbaren würden, so dürfen die Gewinne, die eines der Unternehmen ohne diese Bedingungen erzielt hätte, wegen dieser Bedingungen aber nicht erzielt hat, den Gewinnen dieses Unternehmens zugerechnet und entsprechend besteuert werden.
 
-und in diesen Fällen zwischen den beiden Unternehmen hinsichtlich ihrer kaufmännischen oder finanziellen Beziehungen Bedingungen vereinbart oder auferlegt werden, die von denen abweichen, die unabhängige Unternehmen miteinander vereinbaren würden, so dürfen die Gewinne, die eines der Unternehmen ohne diese Bedingungen erzielt hätte, wegen dieser Bedingungen aber nicht erzielt hat, den Gewinnen dieses Unternehmens zugerechnet und entsprechend besteuert werden.
+Wenn:
 
-- a) ein Unternehmen eines Vertragsstaates unmittelbar oder mittelbar an der Geschäftsleitung, der Kontrolle oder am Kapital eines Unternehmens des anderen Vertragsstaates beteiligt ist, oder
+- a) ein Unternehmen eines Vertragsstaates unmittelbar oder mittelbar an der Geschäftsleitung, der Kontrolle oder am Kapital eines Unternehmens des anderen Vertragsstaates beteiligt ist; oder
 - b) dieselben Personen unmittelbar oder mittelbar an der Geschäftsleitung, der Kontrolle oder am Kapital eines Unternehmens eines Vertragsstaates und eines Unternehmens des anderen Vertragsstaates beteiligt sind,
+
+<sup>2.</sup> Werden in einem Vertragsstaat den Gewinnen eines Unternehmens dieses Staates Gewinne zugerechnet und entsprechend besteuert, mit denen ein Unternehmen des anderen Vertragsstaats in diesem Staat besteuert worden ist, und handelt es sich bei den zugerechneten Gewinnen um solche, die das Unternehmen des erstgenannten Staates erzielt hätte, wenn die zwischen den beiden Unternehmen vereinbarten Bedingungen die gleichen gewesen wären, die unabhängige Unternehmen miteinander vereinbaren würden, so nimmt der andere Staat eine entsprechende Änderung der dort von diesen Gewinnen erhobenen Steuer vor. Bei dieser Änderung sind die übrigen Bestimmungen dieses Abkommens zu berücksichtigen; soweit erforderlich, konsultieren sich die zuständigen Behörden der Vertragsstaaten.[^9-1]
+
+[^9-1]: Eingefügt durch Art. 3 des Zusatzabk. vom 27. Juni 2023, von der BVers genehmigt am 14. Juni 2024 und in Kraft seit 24. Juli 2025 ([AS 2025 486](https://fedlex.data.admin.ch/eli/oc/2025/486), [504](https://fedlex.data.admin.ch/eli/oc/2025/504); [BBl 2023 2744](https://fedlex.data.admin.ch/eli/fga/2023/2744)).
 
 #### Art. 10
 
 [^10-1]
 
-[^10-1]: Aufgehoben durch Art. 7 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und mit Wirkung seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^10-1]: Aufgehoben durch Art. 7 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und mit Wirkung seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
 
 #### Art. 11
 
@@ -242,7 +254,7 @@ und in diesen Fällen zwischen den beiden Unternehmen hinsichtlich ihrer kaufmä
 - 2\. a) Die unter Absatz 1 fallenden Dividenden können auch in dem Vertragsstaat, aus dem sie stammen, nach dem Recht dieses Staates besteuert werden; die Steuer darf aber, wenn der Nutzungsberechtigte der Dividenden eine im anderen Vertragsstaat ansässige Person ist, 15 vom Hundert des Bruttobetrags der Dividenden nicht übersteigen.
 - b) i) Die unter Absatz 1 fallenden Dividenden, die von einer in einem Vertragsstaat ansässigen Gesellschaft an eine im anderen Vertragsstaat ansässige Gesellschaft gezahlt werden, die die Nutzungsberechtigte der Dividenden ist und die unmittelbar oder mittelbar über mindestens 10 vom Hundert des Kapitals der ersten Gesellschaft verfügt, können jedoch nur im anderen Vertragsstaat besteuert werden.
   - ii)[^11-2] Die Befreiung von der Quellensteuer gemäss i) ist nicht anwendbar, wenn die ausgeschütteten Dividenden einer juristischen Person zufliessen, die unmittelbar oder mittelbar von Personen beherrscht wird, die nicht in einem der beiden Vertragsstaaten ansässig sind, es sei denn, diese juristische Person lege dar, dass die Beteiligungsrechte nicht hauptsächlich auf die in den Bestimmungen von i) gebotenen Vorteile abzielen.
-  - [tab] iii)[^11-3] Wird jedoch die Befreiung von der Quellensteuer gestützt auf Artikel 15 Absatz 1 des Abkommens vom 26. Oktober 2004[^11-4] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über Regelungen, die den in der Richtlinie 2003/48/EG des Rates im Bereich der Besteuerung von Zinserträgen festgelegten Regelungen gleichwertig sind, beansprucht, so sind die Bestimmungen von Ziffer ii) nur anwendbar, wenn die juristische Person unmittelbar oder mittelbar von Personen beherrscht wird, die nicht in einem Mitgliedstaat der Europäischen Gemeinschaft ansässig sind.
+  - iii)[^11-3] Wird jedoch die Befreiung von der Quellensteuer gestützt auf Artikel 15 Absatz 1 des Abkommens vom 26. Oktober 2004[^11-4] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über Regelungen, die den in der Richtlinie 2003/48/EG des Rates im Bereich der Besteuerung von Zinserträgen festgelegten Regelungen gleichwertig sind, beansprucht, so sind die Bestimmungen von Ziffer ii) nur anwendbar, wenn die juristische Person unmittelbar oder mittelbar von Personen beherrscht wird, die nicht in einem Mitgliedstaat der Europäischen Gemeinschaft ansässig sind.
 
 - c) Dieser Absatz berührt nicht die Besteuerung der Gesellschaft in bezug auf die Gewinne, aus denen die Dividenden bezahlt werden.
 - 3\. a) Eine in der Schweiz ansässige Person, die von einer in Frankreich ansässigen Gesellschaft gezahlte Dividenden bezieht, deren Nutzungsberechtigter sie ist und die zu einer Steuergutschrift (‹avoir fiscal›) berechtigten, falls sie von einer in Frankreich ansässigen Person bezogen würden, hat, vorbehältlich des Steuerabzugs gemäss Absatz 2 a), Anspruch auf eine Vergütung von der französischen Staatskasse in Höhe der Steuergutschrift (‹avoir fiscal›).
@@ -270,10 +282,10 @@ und in diesen Fällen zwischen den beiden Unternehmen hinsichtlich ihrer kaufmä
 
 <sup>7.</sup> Bezieht eine in einem Vertragsstaat ansässige Gesellschaft Gewinne oder Einkünfte aus dem anderen Vertragsstaat, so darf dieser andere Staat weder die von der Gesellschaft gezahlten Dividenden besteuern, es sei denn, dass diese Dividenden an eine im anderen Staat ansässige Person gezahlt werden oder dass die Beteiligung, für die die Dividenden gezahlt werden, tatsächlich zu einer im anderen Staat gelegenen Betriebsstätte oder festen Einrichtung gehört, noch Gewinne der Gesellschaft einer Steuer für nichtausgeschüttete Gewinne unterwerfen, selbst wenn die gezahlten Dividenden oder die nichtausgeschütteten Gewinne ganz oder teilweise aus im anderen Staat erzielten Gewinnen oder Einkünften bestehen.
 
-[^11-1]: Fassung gemäss Art. 8 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
-[^11-2]: Fassung gemäss Art. 1 Abs. 1 des Zusatzabk. vom 27. Aug. 2009, von der BVers genehmigt am 18. Juni 2010 und in Kraft seit 4. Nov. 2010 ([AS 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805)[5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [BBl 2009 1631](https://fedlex.data.admin.ch/eli/fga/2009/359), [2010 1541](https://fedlex.data.admin.ch/eli/fga/2010/268)).
-[^11-3]: Eingefügt durch Art. 1 Abs. 2 des Zusatzabk. vom 27. Aug. 2009, von der BVers genehmigt am 18. Juni 2010 und in Kraft seit 4. Nov. 2010 ([AS 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805)[5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [BBl 2009 1631](https://fedlex.data.admin.ch/eli/fga/2009/359), [2010 1541](https://fedlex.data.admin.ch/eli/fga/2010/268)).
-[^11-4]: [SR 0.641.926.81](https://fedlex.data.admin.ch/eli/cc/2005/444)
+[^11-1]: Fassung gemäss Art. 8 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^11-2]: Fassung gemäss Art. 1 Abs. 1 des Zusatzabk. vom 27. Aug. 2009, von der BVers genehmigt am 18. Juni 2010 und in Kraft seit 4. Nov. 2010 ([AS 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805), [5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [BBl 2009 1631](https://fedlex.data.admin.ch/eli/fga/2009/359); [2010 1541](https://fedlex.data.admin.ch/eli/fga/2010/268)).
+[^11-3]: Eingefügt durch Art. 1 Abs. 2 des Zusatzabk. vom 27. Aug. 2009, von der BVers genehmigt am 18. Juni 2010 und in Kraft seit 4. Nov. 2010 ([AS 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805), [5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [BBl 2009 1631](https://fedlex.data.admin.ch/eli/fga/2009/359); [2010 1541](https://fedlex.data.admin.ch/eli/fga/2010/268)).
+[^11-4]: [SR 0.641.926.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2471)
 
 #### Art. 12
 
@@ -289,7 +301,7 @@ und in diesen Fällen zwischen den beiden Unternehmen hinsichtlich ihrer kaufmä
 
 <sup>5.</sup> Bestehen zwischen dem Schuldner und dem Nutzungsberechtigten oder zwischen jedem von ihnen und einem Dritten besondere Beziehungen und übersteigen deshalb die Zinsen, gemessen an der zugrundeliegenden Forderung, den Betrag, den Schuldner und Nutzungsberechtigter ohne diese Beziehungen vereinbart hätten, so wird dieser Artikel nur auf den letzteren Betrag angewendet. In diesem Fall kann der übersteigende Betrag nach dem Recht eines jeden Vertragsstaats und unter Berücksichtigung der anderen Bestimmungen dieses Abkommens besteuert werden.
 
-[^12-1]: Fassung gemäss Art. 9 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^12-1]: Fassung gemäss Art. 9 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
 
 #### Art. 13
 
@@ -299,15 +311,15 @@ und in diesen Fällen zwischen den beiden Unternehmen hinsichtlich ihrer kaufmä
 
 <sup>3.</sup> Der in diesem Artikel verwendete Ausdruck «Lizenzgebühren» bedeutet Vergütungen jeder Art, die für die Benutzung oder für das Recht auf Benutzung von Urheberrechten an literarischen, künstlerischen oder wissenschaftlichen Werken, einschliesslich kinematographischer Filme, von Patenten, Marken, Mustern oder Modellen, Plänen, geheimen Formeln oder Verfahren …[^13-1] oder für die Mitteilung gewerblicher, kaufmännischer oder wissenschaftlicher Erfahrungen gezahlt werden.
 
-4.[^13-2] Die Absätze 1 und 2 sind nicht anzuwenden, wenn der in einem Vertragsstaat ansässige Nutzungsberechtigte im anderen Vertragsstaat, aus dem die Lizenzgebühren stammen, eine gewerbliche Tätigkeit durch eine dort gelegene Betriebsstätte, einen freien Beruf oder andere selbständige Arbeiten gleicher Art durch eine dort gelegene feste Einrichtung ausübt und die Rechte oder Vermögenswerte, für die die Lizenzgebühren gezahlt werden, tatsächlich zu dieser Betriebsstätte oder festen Einrichtung gehören. In diesem Fall ist Artikel 7 beziehungsweise Artikel 16 anzuwenden.
+<sup>4.</sup> Die Absätze 1 und 2 sind nicht anzuwenden, wenn der in einem Vertragsstaat ansässige Nutzungsberechtigte im anderen Vertragsstaat, aus dem die Lizenzgebühren stammen, eine gewerbliche Tätigkeit durch eine dort gelegene Betriebsstätte, einen freien Beruf oder andere selbständige Arbeiten gleicher Art durch eine dort gelegene feste Einrichtung ausübt und die Rechte oder Vermögenswerte, für die die Lizenzgebühren gezahlt werden, tatsächlich zu dieser Betriebsstätte oder festen Einrichtung gehören. In diesem Fall ist Artikel 7 beziehungsweise Artikel 16 anzuwenden.[^13-2]
 
-5.[^13-3] Lizenzgebühren gelten dann als aus einem Vertragsstaat stammend, wenn der Schuldner eine in diesem Staat ansässige Person ist. Hat aber der Schuldner der Lizenzgebühren, ohne Rücksicht darauf, ob er in einem Vertragsstaat ansässig ist oder nicht, in einem Vertragsstaat eine Betriebsstätte oder eine feste Einrichtung, mit der die Verpflichtung zur Zahlung der Lizenzgebühren zusammenhängt, und trägt die Betriebsstätte oder die feste Einrichtung die Lizenzgebühren, so gelten die Lizenzgebühren als aus dem Staat stammend, in dem die Betriebsstätte oder feste Einrichtung liegt.
+<sup>5.</sup> Lizenzgebühren gelten dann als aus einem Vertragsstaat stammend, wenn der Schuldner eine in diesem Staat ansässige Person ist. Hat aber der Schuldner der Lizenzgebühren, ohne Rücksicht darauf, ob er in einem Vertragsstaat ansässig ist oder nicht, in einem Vertragsstaat eine Betriebsstätte oder eine feste Einrichtung, mit der die Verpflichtung zur Zahlung der Lizenzgebühren zusammenhängt, und trägt die Betriebsstätte oder die feste Einrichtung die Lizenzgebühren, so gelten die Lizenzgebühren als aus dem Staat stammend, in dem die Betriebsstätte oder feste Einrichtung liegt.[^13-3]
 
 <sup>6.</sup> Bestehen zwischen Schuldner und Gläubiger oder zwischen jedem von ihnen und einem Dritten besondere Beziehungen und übersteigen deshalb die gezahlten Lizenzgebühren, gemessen an der zugrundeliegenden Leistung, den Betrag, den Schuldner und Gläubiger ohne diese Beziehungen vereinbart hätten, so wird dieser Artikel nur auf diesen letzten Betrag angewendet. In diesem Fall kann der übersteigende Betrag nach dem Recht jedes Vertragsstaates und unter Berücksichtigung der anderen Bestimmungen dieses Abkommens besteuert werden.
 
-[^13-1]: Worte gestrichen durch Art. 10 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und mit Wirkung seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
-[^13-2]: Fassung gemäss Art. 10 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
-[^13-3]: Fassung gemäss Art. 10 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^13-1]: Worte gestrichen durch Art. 10 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und mit Wirkung seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^13-2]: Fassung gemäss Art. 10 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^13-3]: Fassung gemäss Art. 10 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
 
 #### Art. 14
 
@@ -324,13 +336,13 @@ Absatz 1 ist nicht anwendbar, wenn die Person, welche die Abkommensvorteile bean
 
 <sup>3.</sup> Absatz 1 ist nicht anwendbar, wenn die Vorteile nach Artikel 11 Absatz 2 Buchstabe b) Ziffer i) beansprucht werden.
 
-[^14-1]: Fassung gemäss Art. 2 des Zusatzabk. vom 27. Aug. 2009, von der BVers genehmigt am 18. Juni 2010 und in Kraft seit 4. Nov. 2010 ([AS 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805)[5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [BBl 2009 1631](https://fedlex.data.admin.ch/eli/fga/2009/359), [2010 1541](https://fedlex.data.admin.ch/eli/fga/2010/268)).
+[^14-1]: Fassung gemäss Art. 2 des Zusatzabk. vom 27. Aug. 2009, von der BVers genehmigt am 18. Juni 2010 und in Kraft seit 4. Nov. 2010 ([AS 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805), [5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [BBl 2009 1631](https://fedlex.data.admin.ch/eli/fga/2009/359); [2010 1541](https://fedlex.data.admin.ch/eli/fga/2010/268)).
 
 #### Art. 15
 
 <sup>1.</sup> Gewinne aus der Veräusserung unbeweglichen Vermögens im Sinne des Artikels 6 Absatz 2 Unterabsatz 1 können in dem Vertragsstaat besteuert werden, in dem dieses Vermögen liegt. …[^15-1]
 
-2.[^15-2] Gewinne aus der Veräusserung von Aktien, Anteilen oder anderen Rechten einer Gesellschaft, einer Treuhandschaft oder einer vergleichbaren Einrichtung, deren Aktiven oder Besitz in einem Vertragsstaat liegen und sich hauptsächlich, unmittelbar oder mittelbar, aus unbeweglichem Vermögen im Sinne von Artikel 6 Absatz 2 oder aus Rechten über solche Vermögenswerte zusammensetzen, können in diesem Staat besteuert werden. Unbewegliches Vermögen, das von dieser Gesellschaft für den eigenen gewerblichen oder landwirtschaftlichen Betrieb oder für die Ausübung eines freien Berufes oder anderer selbständiger Arbeiten gleicher Art verwendet wird, fällt nicht in den Anwendungsbereich dieser Bestimmung.
+<sup>2.</sup> Gewinne aus der Veräusserung von Aktien, Anteilen oder anderen Rechten einer Gesellschaft, einer Treuhandschaft oder einer vergleichbaren Einrichtung, deren Aktiven oder Besitz in einem Vertragsstaat liegen und sich hauptsächlich, unmittelbar oder mittelbar, aus unbeweglichem Vermögen im Sinne von Artikel 6 Absatz 2 oder aus Rechten über solche Vermögenswerte zusammensetzen, können in diesem Staat besteuert werden. Unbewegliches Vermögen, das von dieser Gesellschaft für den eigenen gewerblichen oder landwirtschaftlichen Betrieb oder für die Ausübung eines freien Berufes oder anderer selbständiger Arbeiten gleicher Art verwendet wird, fällt nicht in den Anwendungsbereich dieser Bestimmung.[^15-2]
 
 <sup>3.</sup> Gewinne aus der Veräusserung beweglichen Vermögens, das Betriebsvermögen einer Betriebsstätte darstellt, die ein Unternehmen eines Vertragsstaates in dem anderen Vertragsstaat hat, oder das zu einer festen Einrichtung gehört, über die eine in einem Vertragsstaat ansässige Person für die Ausübung eines freien Berufes in dem anderen Vertragsstaat verfügt, einschliesslich derartiger Gewinne, die bei der Veräusserung einer solchen Betriebsstätte (allein oder zusammen mit dem übrigen Unternehmen) oder einer solchen festen Einrichtung erzielt werden, können in dem anderen Staat besteuert werden. Jedoch können Gewinne aus der Veräusserung des in Artikel 24 Absatz 3 genannten beweglichen Vermögens nur in dem Vertragsstaat besteuert werden, in dem dieses bewegliche Vermögen nach dem angeführten Artikel besteuert werden kann.
 
@@ -338,8 +350,8 @@ Absatz 1 ist nicht anwendbar, wenn die Person, welche die Abkommensvorteile bean
 
 <sup>5.</sup> Gewinne aus der Veräusserung des in den Absätzen 1, 2 und 3 nicht genannten Vermögens können nur in dem Staat besteuert werden, in dem der Veräusserer ansässig ist.
 
-[^15-1]: Satz aufgehoben durch Art. 11 des Zusatzabk. vom 22. Juli 1997, von der BVers ge-nehmigt am 12. März 1998 und mit Wirkung seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
-[^15-2]: Fassung gemäss Art. 11 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^15-1]: Satz aufgehoben durch Art. 11 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und mit Wirkung seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^15-2]: Fassung gemäss Art. 11 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
 
 #### Art. 16
 
@@ -355,18 +367,21 @@ Absatz 1 ist nicht anwendbar, wenn die Person, welche die Abkommensvorteile bean
 
 <sup>2.</sup> Ungeachtet des Absatzes 1 können Vergütungen, die eine in einem Vertragsstaat ansässige Person für eine in dem anderen Vertragsstaat ausgeübte unselbständige Arbeit bezieht, nur in dem erstgenannten Staat besteuert werden, wenn
 
-3.[^17-2] Ungeachtet der vorstehenden Bestimmungen dieses Artikels können Vergütungen für unselbständige Arbeit, die an Bord eines Schiffes, eines Luftfahrzeugs oder einer Eisenbahn im internationalen Verkehr oder an Bord eines Schiffes, das der Binnenschifffahrt dient, ausgeübt wird, in dem Vertragsstaat besteuert werden, in dem sich der Ort der tatsächlichen Geschäftsleitung des Unternehmens befindet.
-
-4.[^17-3] Ungeachtet der vorstehenden Bestimmungen dieses Artikels, aber unter Vorbehalt der Artikel 18, 19 und 21, bleiben die integrierenden Bestandteil des Abkommens bildenden Bestimmungen der Vereinbarung betreffend die Besteuerung der Erwerbseinkünfte von Grenzgängern vom 11. April 1983[^17-4] anwendbar.
-
 - a) der Empfänger sich in dem anderen Staat insgesamt nicht länger als 183 Tage während des betreffenden Steuerjahres aufhält,
 - b) die Vergütungen von einem Arbeitgeber oder für einen Arbeitgeber gezahlt werden, der nicht in dem anderen Staat ansässig ist, und
 - c) die Vergütungen nicht von einer Betriebsstätte oder einer festen Einrichtung getragen werden, die der Arbeitgeber in dem anderen Staat hat.
 
+<sup>3.</sup> Ungeachtet der vorstehenden Bestimmungen dieses Artikels können Vergütungen für unselbständige Arbeit, die an Bord eines Schiffes, eines Luftfahrzeugs oder einer Eisenbahn im internationalen Verkehr oder an Bord eines Schiffes, das der Binnenschifffahrt dient, ausgeübt wird, in dem Vertragsstaat besteuert werden, in dem sich der Ort der tatsächlichen Geschäftsleitung des Unternehmens befindet.[^17-2]
+
+<sup>4.</sup> Ungeachtet der vorstehenden Bestimmungen dieses Artikels, aber unter Vorbehalt der Artikel 18, 19 und 21, bleiben die integrierenden Bestandteil des Abkommens bildenden Bestimmungen der Vereinbarung betreffend die Besteuerung der Erwerbseinkünfte von Grenzgängern vom 11. April 1983[^17-3] anwendbar.[^17-4]
+
+<sup>5.</sup> Die Bestimmungen des Zusatzprotokolls zum Abkommen über die Ausübung unselbständiger Erwerbstätigkeit in Form von Telearbeit gelten ungeachtet der Bestimmungen von Absatz 1 dieses Artikels, jedoch unter Vorbehalt von Absatz 4.[^17-5]
+
 [^17-1]: Siehe Note zu Art. 5.
-[^17-2]: Fassung gemäss Art. 3 des Zusatzabk. vom 27. Aug. 2009, von der BVers genehmigt am 18. Juni 2010 und in Kraft seit 4. Nov. 2010 ([AS 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805)[5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [BBl 2009 1631](https://fedlex.data.admin.ch/eli/fga/2009/359), [2010 1541](https://fedlex.data.admin.ch/eli/fga/2010/268)).
-[^17-3]: Fassung gemäss Art. 12 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
-[^17-4]: BBl **1983** II 535; die Vereinb. ist am 18. Dez. 1986 in Kraft getreten.
+[^17-2]: Fassung gemäss Art. 3 des Zusatzabk. vom 27. Aug. 2009, von der BVers genehmigt am 18. Juni 2010 und in Kraft seit 4. Nov. 2010 ([AS 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805), [5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [BBl 2009 1631](https://fedlex.data.admin.ch/eli/fga/2009/359); [2010 1541](https://fedlex.data.admin.ch/eli/fga/2010/268)).
+[^17-3]: BBl **1983** II 535; die Vereinb. ist am 18. Dez. 1986 in Kraft getreten.
+[^17-4]: Fassung gemäss Art. 12 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^17-5]: Eingefügt durch Art. 4 des Zusatzabk. vom 27. Juni 2023, von der BVers genehmigt am 14. Juni 2024 und in Kraft seit 24. Juli 2025 ([AS 2025 486](https://fedlex.data.admin.ch/eli/oc/2025/486), [504](https://fedlex.data.admin.ch/eli/oc/2025/504); [BBl 2023 2744](https://fedlex.data.admin.ch/eli/fga/2023/2744)). Siehe auch Art. 11 Abs. 3 und 4 dieses Zusatzabk. am Schluss des Textes.
 
 #### Art. 18
 
@@ -386,23 +401,23 @@ Absatz 1 ist nicht anwendbar, wenn die Person, welche die Abkommensvorteile bean
 
 <sup>4.</sup> Absatz 2 gilt nicht für Einkünfte aus Tätigkeiten, die eine in einem Vertragsstaat ansässige Person, Künstler oder Sportler, in dieser Eigenschaft persönlich im anderen Vertragsstaat ausübt, wenn diese Einkünfte nicht dem Künstler oder Sportler selbst, sondern einer anderen Person zufliessen und diese andere Person in erheblichem Umfang aus öffentlichen Mitteln dieses Staates, seiner politischen Unterabteilungen oder lokalen Körperschaften oder ihrer juristischen Personen öffentlichen Rechts finanziert wird.
 
-[^19-1]: Fassung gemäss Art. 13 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^19-1]: Fassung gemäss Art. 13 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
 
 #### Art. 20
 
-\1. Vorbehältlich des Artikels 21 können Ruhegehälter und ähnliche Vergütungen, die einer in einem Vertragsstaat ansässigen Person für frühere unselbständige Arbeit gezahlt werden, nur in diesem Staat besteuert werden.
+<sup>1.</sup> Vorbehältlich des Artikels 21 können Ruhegehälter und ähnliche Vergütungen, die einer in einem Vertragsstaat ansässigen Person für frühere unselbständige Arbeit gezahlt werden, nur in diesem Staat besteuert werden.
 
-2.[^20-1] Ungeachtet der Bestimmungen von Absatz 1 sind die Ruhegehälter und andere ähnliche Vergütungen auch im Vertragsstaat, aus dem sie stammen, insoweit steuerbar, als sie im anderen Vertragsstaat nach dessen innerstaatlichem Recht vollumfänglich oder teilweise steuerfrei sind.
+<sup>2.</sup> Ungeachtet der Bestimmungen von Absatz 1 sind die Ruhegehälter und andere ähnliche Vergütungen auch im Vertragsstaat, aus dem sie stammen, insoweit steuerbar, als sie im anderen Vertragsstaat nach dessen innerstaatlichem Recht vollumfänglich oder teilweise steuerfrei sind.[^20-1]
 
-[^20-1]: Fassung gemäss Art. 4 Abs. 2 des Zusatzabk. vom 27. Aug. 2009, von der BVers genehmigt am 18. Juni 2010 und in Kraft seit 4. Nov. 2010 ([AS 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805)[5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [BBl 2009 1631](https://fedlex.data.admin.ch/eli/fga/2009/359), [2010 1541](https://fedlex.data.admin.ch/eli/fga/2010/268)).
+[^20-1]: Fassung gemäss Art. 4 Abs. 2 des Zusatzabk. vom 27. Aug. 2009, von der BVers genehmigt am 18. Juni 2010 und in Kraft seit 4. Nov. 2010 ([AS 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805), [5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [BBl 2009 1631](https://fedlex.data.admin.ch/eli/fga/2009/359); [2010 1541](https://fedlex.data.admin.ch/eli/fga/2010/268)).
 
 #### Art. 21
 
 <sup>1.</sup> Vergütungen, einschliesslich der Ruhegehälter, die von einem Vertragsstaat, ei-ner seiner politischen Unterabteilungen oder lokalen Körperschaften, oder von einer juristischen Person des öffentlichen Rechts dieses Staates unmittelbar oder aus einem Sondervermögen an eine natürliche Person, welche die Staatsangehörigkeit dieses Staates besitzt, für gegenwärtig oder früher erbrachte Dienste gezahlt werden, können nur in dem Vertragsstaat besteuert werden, aus dem diese Vergütungen stammen.
 
-2.[^21-1] Auf Gehälter, Löhne, Ruhegehälter und weitere ähnliche Vergütungen für Dienstleistungen, die im Zusammenhang mit einer industriellen oder gewerblichen Tätigkeit eines Vertragsstaats oder einer seiner politischen Unterabteilungen oder lokalen Körperschaften oder einer juristischen Person des öffentlichen Rechts dieses Staates erbracht werden, sind die Artikel 17, 18, 19 und 20 anwendbar.
+<sup>2.</sup> Auf Gehälter, Löhne, Ruhegehälter und weitere ähnliche Vergütungen für Dienstleistungen, die im Zusammenhang mit einer industriellen oder gewerblichen Tätigkeit eines Vertragsstaats oder einer seiner politischen Unterabteilungen oder lokalen Körperschaften oder einer juristischen Person des öffentlichen Rechts dieses Staates erbracht werden, sind die Artikel 17, 18, 19 und 20 anwendbar.[^21-1]
 
-[^21-1]: Fassung gemäss Art. 5 Abs. 2 des Zusatzabk. vom 27. Aug. 2009, von der BVers genehmigt am 18. Juni 2010 und in Kraft seit 4. Nov. 2010 ([AS 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805)[5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [BBl 2009 1631](https://fedlex.data.admin.ch/eli/fga/2009/359), [2010 1541](https://fedlex.data.admin.ch/eli/fga/2010/268)).
+[^21-1]: Fassung gemäss Art. 5 Abs. 2 des Zusatzabk. vom 27. Aug. 2009, von der BVers genehmigt am 18. Juni 2010 und in Kraft seit 4. Nov. 2010 ([AS 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805), [5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [BBl 2009 1631](https://fedlex.data.admin.ch/eli/fga/2009/359); [2010 1541](https://fedlex.data.admin.ch/eli/fga/2010/268)).
 
 #### Art. 22
 
@@ -416,7 +431,7 @@ Zahlungen, die ein Student oder Lehrling, der in einem Vertragsstaat ansässig i
 
 <sup>2.</sup> Absatz 1 ist auf andere Einkünfte als solche aus unbeweglichem Vermögen im Sinne von Artikel 6 Absatz 2 nicht anzuwenden, wenn der in einem Vertragsstaat ansässige Empfänger im anderen Vertragsstaat eine gewerbliche Tätigkeit durch eine dort gelegene Betriebsstätte, einen freien Beruf oder andere selbständige Arbeiten gleicher Art durch eine dort gelegene feste Einrichtung ausübt und die Rechte oder Vermögenswerte, für die die Einkünfte gezahlt werden, tatsächlich zu dieser Betriebsstätte oder festen Einrichtung gehören. In diesem Fall ist Artikel 7 beziehungsweise Artikel 16 anzuwenden.
 
-[^23-1]: Fassung gemäss Art. 14 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^23-1]: Fassung gemäss Art. 14 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
 
 #### Art. 24
 
@@ -436,8 +451,8 @@ Das Vermögen, das sich aus Aktien, Anteilen oder anderen Rechten einer Gesellsc
 
 <sup>7.</sup> Alle anderen Vermögensteile einer in einem Vertragsstaat ansässigen Person können nur in diesem Staat besteuert werden.
 
-[^24-1]: Satz aufgehoben durch Art. 15 des Zusatzabk. vom 22. Juli 1997, von der BVers ge-nehmigt am 12. März 1998 und mit Wirkung seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
-[^24-2]: Eingefügt durch Art. 15 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^24-1]: Satz aufgehoben durch Art. 15 des Zusatzabk. vom 22. Juli 1997, von der BVers ge-nehmigt am 12. März 1998 und mit Wirkung seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^24-2]: Eingefügt durch Art. 15 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
 
 #### Art. 25
 
@@ -447,7 +462,7 @@ Es besteht Einverständnis darüber, dass die Doppelbesteuerung auf folgende Wei
 
 [^25-subdivu2-1]
 
-[^25-subdivu2-1]: Fassung gemäss Art. 16 Abs. 1 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^25-subdivu2-1]: Fassung gemäss Art. 16 Abs. 1 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
 
 <sup>1.</sup>
 
@@ -469,7 +484,7 @@ Ungeachtet aller anderen Bestimmungen dieses Abkommens können Einkünfte, die n
 - Die Entlastung besteht jedoch im Abzug der in Frankreich erhobenen Steuer vom Bruttobetrag der in Rede stehenden aus Frankreich bezogenen Einkünfte, wenn der in der Schweiz ansässige Empfänger gemäss Artikel 14 die in den Artikeln 11 bis 13 vorgesehene Begrenzung der französischen Steuer von den Dividenden, Zinsen und Lizenzgebühren nicht beanspruchen kann.
 - Die Schweiz wird gemäss den Vorschriften über die Durchführung von zwischenstaatlichen Abkommen des Bundes zur Vermeidung der Doppelbesteuerung die Art der Entlastung bestimmen und das Verfahren ordnen.
 
-[^25-subdivu3-1]: Satz eingefügt durch Art. 16 Abs. 2 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^25-subdivu3-1]: Satz eingefügt durch Art. 16 Abs. 2 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
 
 #### Art. 26
 
@@ -490,32 +505,34 @@ Diese Bestimmung ist nicht so auszulegen, als verpflichte sie einen Vertragsstaa
 
 …[^26-1]
 
-4.[^26-2] Sofern nicht Artikel 9, Artikel 12 Absatz 5 oder Artikel 13 Absatz 6 anzuwenden ist, sind Zinsen, Lizenzgebühren und andere Entgelte, die ein Unternehmen eines Vertragsstaates an eine im anderen Vertragsstaat ansässige Person zahlt, bei der Ermittlung der steuerpflichtigen Gewinne dieses Unternehmens unter den gleichen Bedingungen wie Zahlungen an eine im erstgenannten Staat ansässige Person zum Abzug zuzulassen. Dementsprechend sind Schulden, die ein Unternehmen eines Vertragsstaats gegenüber einer im anderen Vertragsstaat ansässigen Person hat, bei der Ermittlung des steuerpflichtigen Vermögens dieses Unternehmens unter den gleichen Bedingungen wie Schulden gegenüber einer im erstgenannten Staat ansässigen Person zum Abzug zuzulassen.
+<sup>4.</sup> Sofern nicht Artikel 9, Artikel 12 Absatz 5 oder Artikel 13 Absatz 6 anzuwenden ist, sind Zinsen, Lizenzgebühren und andere Entgelte, die ein Unternehmen eines Vertragsstaates an eine im anderen Vertragsstaat ansässige Person zahlt, bei der Ermittlung der steuerpflichtigen Gewinne dieses Unternehmens unter den gleichen Bedingungen wie Zahlungen an eine im erstgenannten Staat ansässige Person zum Abzug zuzulassen. Dementsprechend sind Schulden, die ein Unternehmen eines Vertragsstaats gegenüber einer im anderen Vertragsstaat ansässigen Person hat, bei der Ermittlung des steuerpflichtigen Vermögens dieses Unternehmens unter den gleichen Bedingungen wie Schulden gegenüber einer im erstgenannten Staat ansässigen Person zum Abzug zuzulassen.[^26-2]
 
-5.[^26-3] Die Unternehmen eines Vertragsstaates, deren Kapital ganz oder teilweise, unmittelbar oder mittelbar, einer in dem anderen Vertragsstaat ansässigen Person oder mehreren solchen Personen gehört oder ihrer Kontrolle unterliegt, dürfen in dem erstgenannten Vertragsstaat weder einer Besteuerung noch einer damit zusammenhängenden Verpflichtung unterworfen werden, die anders oder belastender sind als die Besteuerung und die damit zusammenhängenden Verpflichtungen, denen andere ähnliche Unternehmen des erstgenannten Staates unterworfen sind oder unterworfen werden können.
+<sup>5.</sup> Die Unternehmen eines Vertragsstaates, deren Kapital ganz oder teilweise, unmittelbar oder mittelbar, einer in dem anderen Vertragsstaat ansässigen Person oder mehreren solchen Personen gehört oder ihrer Kontrolle unterliegt, dürfen in dem erstgenannten Vertragsstaat weder einer Besteuerung noch einer damit zusammenhängenden Verpflichtung unterworfen werden, die anders oder belastender sind als die Besteuerung und die damit zusammenhängenden Verpflichtungen, denen andere ähnliche Unternehmen des erstgenannten Staates unterworfen sind oder unterworfen werden können.[^26-3]
 
-6.[^26-4] Ungeachtet des Artikels 2[^26-5] bedeutet in diesem Artikel der Ausdruck «Besteuerung» Steuern jeder Art und Bezeichnung.
+<sup>6.</sup> Ungeachtet des Artikels 2[^26-4] bedeutet in diesem Artikel der Ausdruck «Besteuerung» Steuern jeder Art und Bezeichnung.[^26-5]
 
-[^26-1]: Abs. aufgehoben durch Art. 17 Abs. 1 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und mit Wirkung seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
-[^26-2]: Eingefügt durch Art. 17 Abs. 2 des Zusatzabk. vom 22. Juli 1997, von der BVers ge-nehmigt am 12. März 1998 und in, in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^26-1]: Abs. aufgehoben durch Art. 17 Abs. 1 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und mit Wirkung seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^26-2]: Eingefügt durch Art. 17 Abs. 2 des Zusatzabk. vom 22. Juli 1997, von der BVers ge-nehmigt am 12. März 1998 und in, in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
 [^26-3]: Ursprünglich Abs. 4.
-[^26-4]: Ursprünglich Abs. 5.
-[^26-5]: Worte eingefügt durch Art. 17 Abs. 4 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^26-4]: Worte eingefügt durch Art. 17 Abs. 4 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^26-5]: Ursprünglich Abs. 5.
 
 #### Art. 27
 
-1.[^27-1] Ist eine Person der Auffassung, dass Massnahmen eines Vertragsstaates oder beider Vertragsstaaten für sie zu einer Besteuerung führen oder führen werden, die diesem Abkommen nicht entspricht, so kann sie unbeschadet der nach dem innerstaatlichen Recht dieser Staaten vorgesehenen Rechtsmittel ihren Fall der zuständigen Behörde des Vertragsstaates, in dem sie ansässig ist, oder, sofern ihr Fall von Artikel 26 Absatz 1 erfasst wird, der zuständigen Behörde des Vertragsstaates unterbreiten, dessen Staatsangehöriger sie ist. Der Fall muss innerhalb von drei Jahren nach der ersten Mitteilung der Massnahme unterbreitet werden, die zu einer dem Abkommen nicht entsprechenden Besteuerung führt.
+<sup>1.</sup> Ist eine Person der Auffassung, dass die Massnahmen eines oder beider Vertragsstaaten für sie zu einer Besteuerung führen oder führen werden, die diesem Abkommen nicht entspricht, so kann sie ungeachtet der nach dem innerstaatlichen Recht dieser Staaten vorgesehenen Rechtsmittel ihren Fall der zuständigen Behörde eines der beiden Vertragsstaaten unterbreiten.[^27-1] Der Fall muss innerhalb von drei Jahren nach der ersten Mitteilung der Massnahme unterbreitet werden, die zu einer dem Abkommen nicht entsprechenden Besteuerung führt.[^27-2]
 
 <sup>2.</sup> Halten diese zuständigen Behörden die Einwendung für begründet und sind sie selbst nicht in der Lage, eine befriedigende Lösung herbeizuführen, so werden sie sich bemühen, den Fall durch Verständigung mit den zuständigen Behörden des anderen Vertragsstaates so zu regeln, dass eine dem Abkommen nicht entsprechende Besteuerung vermieden wird.
 
-<sup>3.</sup> Die zuständigen Behörden der Vertragsstaaten werden sich bemühen, Schwierigkeiten, die bei der Anwendung des Abkommens entstehen, in gegenseitigem Einvernehmen zu beseitigen. Sie können auch gemeinsam darüber beraten, wie eine Doppelbesteuerung in Fällen, die in dem Abkommen nicht behandelt sind, vermieden werden kann.
+<sup>3.</sup> Die zuständigen Behörden der Vertragsstaaten bemühen sich, Schwierigkeiten oder Zweifel, die bei der Auslegung oder Anwendung des Abkommens entstehen, in gegenseitigem Einvernehmen zu beseitigen.[^27-3] Sie können auch gemeinsam darüber beraten, wie eine Doppelbesteuerung in Fällen, die in dem Abkommen nicht behandelt sind, vermieden werden kann.
 
 <sup>4.</sup> Die zuständigen Behörden der Vertragsstaaten können zur Herbeiführung einer Einigung im Sinne der vorstehenden Absätze unmittelbar miteinander verkehren. Erscheint ein mündlicher Meinungsaustausch für die Herbeiführung der Einigung zweckmässig, so kann ein solcher Meinungsaustausch in einer Kommission durchgeführt werden, die aus Vertretern der zuständigen Behörden der Vertragsstaaten besteht.
 
-5.[^27-2] Hat ein in einem Vertragsstaat ansässiges Unternehmen aufgrund von Absatz 1 der zuständigen Behörde eines der beiden Vertragsstaaten einen Fall unterbreitet, der Artikel 9 dieses Abkommens oder die Begründung einer Betriebsstätte gemäss Artikel 5 dieses Abkommens im anderen Vertragsstaat oder die Verteilung der Gewinne zwischen diesem Unternehmen und seiner im anderen Vertragsstaat unterhaltenen Betriebsstätte betrifft, und gelangen die zuständigen Behörden innerhalb einer Frist von drei Jahren seit dem Zeitpunkt, in der der Fall nach Absatz 2 der zuständigen Behörde eines der beiden Vertragsstaaten unterbreitet worden ist, nicht zu einem Einvernehmen über die Beseitigung der Doppelbesteuerung, so kann jede ungelöste Frage im Zusammenhang mit diesem Fall einem Schiedsgericht unterbreitet werden, sofern dies vom Unternehmen verlangt wird. Die ungelösten Fragen dürfen jedoch nicht dem Schiedsgericht unterbreitet werden, wenn irgendeine unmittelbar davon betroffene Person noch von den im innerstaatlichen Recht der Vertragsstaaten vorgesehenen Rechtsbehelfen Gebrauch machen und darüber einen gerichtlichen Entscheid erlangen kann oder wenn ein solcher Entscheid bereits gefällt wurde. Die Entscheidung des Schiedsgerichts ist für beide Vertragsstaaten bindend und ist ungeachtet der nach innerstaatlichem Recht dieser Staaten geltenden Fristen umzusetzen. Die zuständigen Behörden beider Vertragsstaaten regeln im gegenseitigen Einvernehmen die Durchführung dieses Absatzes.
+<sup>5.</sup> Hat ein in einem Vertragsstaat ansässiges Unternehmen aufgrund von Absatz 1 der zuständigen Behörde eines der beiden Vertragsstaaten einen Fall unterbreitet, der Artikel 9 dieses Abkommens oder die Begründung einer Betriebsstätte gemäss Artikel 5 dieses Abkommens im anderen Vertragsstaat oder die Verteilung der Gewinne zwischen diesem Unternehmen und seiner im anderen Vertragsstaat unterhaltenen Betriebsstätte betrifft, und gelangen die zuständigen Behörden innerhalb einer Frist von drei Jahren seit dem Zeitpunkt, in der der Fall nach Absatz 2 der zuständigen Behörde eines der beiden Vertragsstaaten unterbreitet worden ist, nicht zu einem Einvernehmen über die Beseitigung der Doppelbesteuerung, so kann jede ungelöste Frage im Zusammenhang mit diesem Fall einem Schiedsgericht unterbreitet werden, sofern dies vom Unternehmen verlangt wird. Die ungelösten Fragen dürfen jedoch nicht dem Schiedsgericht unterbreitet werden, wenn irgendeine unmittelbar davon betroffene Person noch von den im innerstaatlichen Recht der Vertragsstaaten vorgesehenen Rechtsbehelfen Gebrauch machen und darüber einen gerichtlichen Entscheid erlangen kann oder wenn ein solcher Entscheid bereits gefällt wurde. Die Entscheidung des Schiedsgerichts ist für beide Vertragsstaaten bindend und ist ungeachtet der nach innerstaatlichem Recht dieser Staaten geltenden Fristen umzusetzen. Die zuständigen Behörden beider Vertragsstaaten regeln im gegenseitigen Einvernehmen die Durchführung dieses Absatzes.[^27-4]
 
-[^27-1]: Fassung gemäss Art. 18 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
-[^27-2]: Eingefügt durch Art. 6 des Zusatzabk. vom 27. Aug. 2009, von der BVers genehmigt am 18. Juni 2010 und in Kraft seit 4. Nov. 2010 ([AS 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805)[5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [BBl 2009 1631](https://fedlex.data.admin.ch/eli/fga/2009/359), [2010 1541](https://fedlex.data.admin.ch/eli/fga/2010/268)).
+[^27-1]: Fassung gemäss Art. 5 Bst. a des Zusatzabk. vom 27. Juni 2023, von der BVers genehmigt am 14. Juni 2024 und in Kraft seit 24. Juli 2025 ([AS 2025 486](https://fedlex.data.admin.ch/eli/oc/2025/486), [504](https://fedlex.data.admin.ch/eli/oc/2025/504); [BBl 2023 2744](https://fedlex.data.admin.ch/eli/fga/2023/2744)).
+[^27-2]: Fassung gemäss Art. 18 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^27-3]: Fassung gemäss Art. 5 Bst. b des Zusatzabk. vom 27. Juni 2023, von der BVers genehmigt am 14. Juni 2024 und in Kraft seit 24. Juli 2025 ([AS 2025 486](https://fedlex.data.admin.ch/eli/oc/2025/486), [504](https://fedlex.data.admin.ch/eli/oc/2025/504); [BBl 2023 2744](https://fedlex.data.admin.ch/eli/fga/2023/2744)).
+[^27-4]: Eingefügt durch Art. 6 des Zusatzabk. vom 27. Aug. 2009, von der BVers genehmigt am 18. Juni 2010 und in Kraft seit 4. Nov. 2010 ([AS 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805), [5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [BBl 2009 1631](https://fedlex.data.admin.ch/eli/fga/2009/359); [2010 1541](https://fedlex.data.admin.ch/eli/fga/2010/268)).
 
 #### Art. 28
 
@@ -537,7 +554,7 @@ Die Absätze 1 und 2 sind nicht so auszulegen, als verpflichteten sie einen Vert
 
 <sup>5.</sup> Absatz 3 ist in keinem Fall so auszulegen, als erlaube er einem Vertragsstaat, die Erteilung von Informationen nur deshalb abzulehnen, weil sich die Informationen bei einer Bank, einem sonstigen Finanzinstitut, einem Bevollmächtigten, Beauftragten oder Treuhänder befinden oder weil sie sich auf Beteiligungen an einer Person beziehen. Ungeachtet des Absatzes 3 oder entgegenstehender Bestimmungen des innerstaatlichen Rechts verfügen die Steuerbehörden des ersuchten Vertragsstaats über die Befugnis, die Offenlegung der in diesem Absatz genannten Informationen durchzusetzen.
 
-[^28-1]: Fassung gemäss Art. 7 des Zusatzabk. vom 27. Aug. 2009, von der BVers genehmigt am 18. Juni 2010 und in Kraft seit 4. Nov. 2010 ([AS 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805)[5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [BBl 2009 1631](https://fedlex.data.admin.ch/eli/fga/2009/359), [2010 1541](https://fedlex.data.admin.ch/eli/fga/2010/268)).
+[^28-1]: Fassung gemäss Art. 7 des Zusatzabk. vom 27. Aug. 2009, von der BVers genehmigt am 18. Juni 2010 und in Kraft seit 4. Nov. 2010 ([AS 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805), [5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [BBl 2009 1631](https://fedlex.data.admin.ch/eli/fga/2009/359); [2010 1541](https://fedlex.data.admin.ch/eli/fga/2010/268)).
 
 #### Art. 28<sup>bis</sup>
 
@@ -575,7 +592,28 @@ Die Vertragsstaaten gewähren einander Unterstützung bei der Zustellung von amt
 
 <sup>5.</sup> Die zuständigen Behörden beider Vertragsstaaten regeln im gegenseitigen Einvernehmen die Durchführung dieses Artikels.
 
-[^28bis-1]: Eingefügt durch Art. 8 des Zusatzabk. vom 27. Aug. 2009, von der BVers genehmigt am 18. Juni 2010 und in Kraft seit 4. Nov. 2010 ([AS 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805)[5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [BBl 2009 1631](https://fedlex.data.admin.ch/eli/fga/2009/359), [2010 1541](https://fedlex.data.admin.ch/eli/fga/2010/268)). Siehe auch Art. 11 Abs. 4 dieses Zusatzabk. am Schluss des Textes.
+[^28bis-1]: Eingefügt durch Art. 8 des Zusatzabk. vom 27. Aug. 2009, von der BVers genehmigt am 18. Juni 2010 und in Kraft seit 4. Nov. 2010 ([AS 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805), [5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [BBl 2009 1631](https://fedlex.data.admin.ch/eli/fga/2009/359); [2010 1541](https://fedlex.data.admin.ch/eli/fga/2010/268)). Siehe auch Art. 11 Abs. 4 dieses Zusatzabk. am Schluss des Textes.
+
+#### Art. 28<sup>ter</sup>
+
+[^28ter-1]
+
+<sup>1.</sup> Die Vertragsstaaten sind verpflichtet, für die Zwecke dieses Absatzes Informationen auf automatischer Basis auszutauschen.
+
+Für die Anwendung von Artikel 17 liefert der Vertragsstaat, in dem der Arbeitgeber ansässig ist, dem Ansässigkeitsstaat des Arbeitnehmers in elektronischer Form und bis spätestens zum 30. November des Jahres, das auf das Jahr folgt, in dem die Vergütungen ausbezahlt wurden, die folgenden Informationen in individualisierter Form:
+
+- a) Name(n) und Vorname(n) der Person, Geburtsdatum, Postleitzahl des Wohnortes und, sofern verfügbar, weitere Angaben, welche die Identifikation der Person erleichtern (Adresse, Geburtsort, Zivilstand, Steuernummer);
+- b) Kalenderjahr, in dem das Einkommen erzielt wurde;
+- c) Anzahl Telearbeitstage oder Telearbeitsquote in Prozent;
+- d) Gesamtbetrag der ausbezahlten Bruttovergütungen.
+
+<sup>2.</sup> Die in Artikel 28 Absatz 2 des Abkommens vorgesehenen Bedingungen gelten für die Informationen, die nach Absatz 1 dieses Artikels ausgetauscht werden.
+
+<sup>3.</sup> Die Eidgenössische Steuerverwaltung schickt die in Absatz 1 genannten Informationen betreffend in Frankreich ansässige Arbeitnehmer direkt an die französische Steuerverwaltung. Die französische Steuerverwaltung schickt die in Absatz 1 genannten Informationen betreffend in der Schweiz ansässige Arbeitnehmer direkt an die Eidgenössische Steuerverwaltung.
+
+<sup>4.</sup> Die zuständigen Behörden beider Vertragsstaaten regeln im gegenseitigen Einvernehmen die Durchführung dieses Artikels.
+
+[^28ter-1]: Eingefügt durch Art. 6 des Zusatzabk. vom 27. Juni 2023, von der BVers genehmigt am 14. Juni 2024 und in Kraft seit 24. Juli 2025 ([AS 2025 486](https://fedlex.data.admin.ch/eli/oc/2025/486), [504](https://fedlex.data.admin.ch/eli/oc/2025/504); [BBl 2023 2744](https://fedlex.data.admin.ch/eli/fga/2023/2744)).
 
 #### Art. 29
 
@@ -586,6 +624,14 @@ Die Vertragsstaaten gewähren einander Unterstützung bei der Zustellung von amt
 <sup>3.</sup> Bei Anwendung des Abkommens gelten die Angehörigen einer diplomatischen oder konsularischen Vertretung, die ein Vertragsstaat im anderen Vertragsstaat oder in einem dritten Staat unterhält, als im Entsendestaat ansässig, wenn sie die Staatsangehörigkeit des Entsendestaates besitzen und dort zu den Steuern vom Einkommen und vom Vermögen wie in diesem Staat ansässige Personen herangezogen werden.
 
 <sup>4.</sup> Das Abkommen gilt nicht für zwischenstaatliche Organisationen, ihre Organe oder Beamten sowie nicht für Angehörige diplomatischer oder konsularischer Vertretungen eines dritten Staates, die in einem Vertragsstaat anwesend sind, aber in keinem der beiden Vertragsstaaten für Zwecke der Steuern vom Einkommen und vom Vermögen als dort ansässig behandelt werden.
+
+#### Art. 29<sup>bis</sup>
+
+[^29bis-1]
+
+Ungeachtet der übrigen Bestimmungen dieses Abkommens wird ein Vorteil nach diesem Abkommen nicht für bestimmte Einkünfte oder Vermögenswerte gewährt, wenn unter Berücksichtigung aller massgeblichen Tatsachen und Umstände die Feststellung gerechtfertigt ist, dass der Erhalt dieses Vorteils einer der Hauptzwecke einer Gestaltung oder Transaktion war, die unmittelbar oder mittelbar zu diesem Vorteil geführt hat, es sei denn, es wird nachgewiesen, dass die Gewährung dieses Vorteils unter diesen Umständen mit dem Ziel und Zweck der einschlägigen Bestimmungen dieses Abkommens im Einklang steht.
+
+[^29bis-1]: Eingefügt durch Art. 7 des Zusatzabk. vom 27. Juni 2023, von der BVers genehmigt am 14. Juni 2024 und in Kraft seit 24. Juli 2025 ([AS 2025 486](https://fedlex.data.admin.ch/eli/oc/2025/486), [504](https://fedlex.data.admin.ch/eli/oc/2025/504); [BBl 2023 2744](https://fedlex.data.admin.ch/eli/fga/2023/2744)).
 
 #### Art. 30
 
@@ -599,7 +645,7 @@ Die Vertragsstaaten gewähren einander Unterstützung bei der Zustellung von amt
 
 2.[^31-1] Um in einem Vertragsstaat die in diesem Abkommen vorgesehenen Vorteile zu erlangen, haben die im anderen Vertragsstaat ansässigen Personen, sofern die zuständigen Behörden nichts anderes anordnen, eine Wohnsitzbescheinigung vorzuweisen, die insbesondere Aufschluss über die Art wie auch den Betrag oder den Wert der Einkünfte oder des Vermögens gibt und eine Bestätigung der Steuerbehörden des anderen Staates aufweist.
 
-[^31-1]: Eingefügt durch Art. 19 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
+[^31-1]: Eingefügt durch Art. 19 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 und in Kraft seit 1. Aug. 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)).
 
 #### Art. 32
 
@@ -615,8 +661,8 @@ Es tritt mit dem Austausch der Ratifikationsurkunden in Kraft, und seine Bestimm
 
 <sup>3.</sup> Das am 31. Dezember 1953[^32-1] in Paris unterzeichnete Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Französischen Republik zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen wird aufgehoben und tritt für die Steuern ausser Kraft, auf die dieses Abkommen gemäss Absatz 2 Anwendung findet. Die Bestimmungen des erwähnten Abkommens bleiben jedoch in Kraft für die Anwendung des am 31. Dezember 1953[^32-2] in Paris unterzeichneten Abkommens zwischen der Schweizerischen Eidgenossenschaft und der Französischen Republik zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Erbschaftssteuern, soweit darin auf diese Bestimmungen verwiesen wird.
 
-[^32-1]: [AS 1955 111](https://fedlex.data.admin.ch/eli/oc/1955/111_115_119). Für die noch anwendbaren Bestimmungen siehe [SR 0.672.934.92](https://fedlex.data.admin.ch/eli/cc/1955/128_132_136)am Ende.
-[^32-2]: [SR 0.672.934.92](https://fedlex.data.admin.ch/eli/cc/1955/128_132_136)
+[^32-1]: [AS 1955 111](https://fedlex.data.admin.ch/eli/oc/1955/111_115_119). Für die noch anwendbaren Bestimmungen siehe AS **1955** 132 am Ende.
+[^32-2]: [AS **1955** 132; [2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298). [AS 2014 3387](https://fedlex.data.admin.ch/eli/oc/2014/587)]
 
 #### Art. 33
 
@@ -682,18 +728,47 @@ Die im ersuchten Staat geltenden Bestimmungen des Verwaltungsverfahrensrechts ü
 
 Es besteht Einvernehmen darüber, dass Artikel 28 dieses Abkommens die Vertragsstaaten nicht dazu verpflichtet, Informationen auf einer spontanen oder automatischen Basis auszutauschen.
 
+XII. Es besteht Einvernehmen darüber, dass Artikel 28<sup>ter</sup> des Abkommens auch für Einkünfte gilt, die unter die Vereinbarung vom 11. April 1983 über die Besteuerung der Erwerbseinkünfte von Grenzgängern fallen.
+
+XIII. Es besteht Einvernehmen darüber, dass die Bestimmungen des Abkommens die Vertragsstaaten nicht daran hindern, die innerstaatlichen Rechtsvorschriften zur Mindestbesteuerung von Unternehmensgruppen umzusetzen, die auf der Grundlage der vom Inclusive Framework der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung ausgearbeiteten ‹Global Anti-Base Erosion Model Rules (Pillar Two)› erlassen wurden.
+
 Ausgefertigt in doppelter Urschrift, in Paris, am 9. September tausendneunhundertsechsundsechzig.
 
 <table>
 <tr><td>Für den Schweizerischen Bundesrat: Claude Caillat</td><td>Für den Präsidenten der Französischen Republik: Gilbert de Chambrun</td></tr>
 </table>
 
-## Artikel 21 Absatz 2 des Zusatzabkommens vom 22. Juli 1997
+## Zusatzprotokoll zum Abkommen über die Ausübung unselbständiger Erwerbstätigkeit in Form von Telearbeit
 
 [^annexu1-lvlu2-1]
 
-[^t-3]: Bereinigt gemäss Art. 20 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298)[1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)), Art. 9 und 10 des Zusatzabk. vom 27. Aug. 2009, von der BVers genehmigt am 18. Juni 2010 ([AS 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805)[5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [BBl 2009 1631](https://fedlex.data.admin.ch/eli/fga/2009/359), [2010 1541](https://fedlex.data.admin.ch/eli/fga/2010/268)) und gemäss Art. 1 der Vereinb. vom 25. Juni 2014, von der BVers genehmigt am 23. Dez. 2011 und in Kraft seit 30. März 2016 ([AS 2016 1195](https://fedlex.data.admin.ch/eli/oc/2016/228)[1193](https://fedlex.data.admin.ch/eli/oc/2016/227); [BBl 2011 3749](https://fedlex.data.admin.ch/eli/fga/2011/546)).
-[^annexu1-lvlu2-1]: [AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)
+[^t-3]: Bereinigt gemäss Art. 20 des Zusatzabk. vom 22. Juli 1997, von der BVers genehmigt am 12. März 1998 ([AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298), [1935](https://fedlex.data.admin.ch/eli/oc/2000/297); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)), Art. 9 und 10 des Zusatzabk. vom 27. Aug. 2009, von der BVers genehmigt am 18. Juni 2010 ([AS 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805), [5681](https://fedlex.data.admin.ch/eli/oc/2010/804); [BBl 2009 1631](https://fedlex.data.admin.ch/eli/fga/2009/359); [2010 1541](https://fedlex.data.admin.ch/eli/fga/2010/268)) und gemäss Art. 1 der Vereinb. vom 25. Juni 2014, von der BVers genehmigt am 23. Dez. 2011 ([AS 2016 1195](https://fedlex.data.admin.ch/eli/oc/2016/228), [1193](https://fedlex.data.admin.ch/eli/oc/2016/227); [BBl 2011 3749](https://fedlex.data.admin.ch/eli/fga/2011/546)) und Art. 8 und 9 des Zusatzabk. vom 27. Juni 2023, von der BVers genehmigt am 14. Juni 2024 und in Kraft seit 24. Juli 2025 ([AS 2025 486](https://fedlex.data.admin.ch/eli/oc/2025/486), [504](https://fedlex.data.admin.ch/eli/oc/2025/504); [BBl 2023 2744](https://fedlex.data.admin.ch/eli/fga/2023/2744)).
+[^annexu1-lvlu2-1]: Eingefügt durch Art. 10 des Zusatzabk. vom 27. Juni 2023, von der BVers genehmigt am 14. Juni 2024 und in Kraft seit 24. Juli 2025 ([AS 2025 486](https://fedlex.data.admin.ch/eli/oc/2025/486), [504](https://fedlex.data.admin.ch/eli/oc/2025/504); [BBl 2023 2744](https://fedlex.data.admin.ch/eli/fga/2023/2744)). Siehe auch Art. 11 Abs. 4 dieses Zusatzabk. am Schluss des Textes.
+
+1.
+
+- a) Für die Anwendung von Artikel 17 Absatz 5 gilt die vom Ansässigkeitsstaat aus ausgeübte Tätigkeit in Form von Telearbeit eines Arbeitnehmers für einen im anderen Vertragsstaat ansässigen Arbeitgeber als beim Arbeitgeber im anderen Staat verrichtet, sofern die Tätigkeit in Form von Telearbeit 40 Prozent der Arbeitszeit pro Kalenderjahr nicht übersteigt.
+- b) Der Vertragsstaat, der das Recht hat, Einkünfte nach Buchstabe a) zu besteuern, zahlt dem Ansässigkeitsstaat des Arbeitnehmers einen Ausgleich in der Höhe von 40 Prozent der geschuldeten Steuern, die auf den Vergütungen für die vom Ansässigkeitsstaat aus ausgeübte Tätigkeit in Form von Telearbeit anfallen.
+- c) Ungeachtet der Bestimmungen von Buchstabe b) beträgt der Ausgleich bei einer in Frankreich ansässigen Person, die ihre Tätigkeit für einen im Kanton Genf ansässigen Arbeitgeber in Form von Telearbeit ausübt, nur für den Teil der Telearbeit, der zwischen 15 und 40 Prozent der Arbeitszeit pro Kalenderjahr liegt, 40 Prozent der geschuldeten Steuern, die auf den Vergütungen für die vom Ansässigkeitsstaat aus ausgeübte Tätigkeit in Form von Telearbeit anfallen.
+- d) Oberhalb der in Buchstabe a) vorgesehenen Grenze gelten die Bestimmungen von Artikel 17 Absätze 1–3 des Abkommens vom ersten Telearbeitstag an. In diesem Fall fällt der in Anwendung der Buchstaben b) und c) vorgesehene Ausgleich nicht an.
+
+\2. Bei der Festlegung des Ausgleichsbetrags nach Absatz 1 Buchstaben b) und c) werden spätere Änderungen des Betrags der Steuern, die auf den Vergütungen für die vom Ansässigkeitsstaat aus ausgeübte Tätigkeit in Form von Telearbeit anfallen, im Jahr berücksichtigt, in dem die jeweilige Korrektur vorgenommen wurde.
+
+\3. Für die Anwendung dieses Protokolls bezeichnet der Ausdruck «vom Ansässigkeitsstaat aus ausgeübte Tätigkeit in Form von Telearbeit» jede Form von Arbeitsorganisation, bei der eine Arbeit, die auch in einer Arbeitsstätte des Arbeitgebers hätte ausgeübt werden können, vom Arbeitnehmer in seinem Ansässigkeitsstaat, aus der Ferne und ausserhalb einer Arbeitsstätte des Arbeitgebers für ebendiesen Arbeitgeber gemäss den vertraglichen Vereinbarungen zwischen Arbeitnehmer und Arbeitgeber mithilfe von Informations- und Kommunikationstechnologie verrichtet wird. Dieser Ausdruck schliesst auch temporäre Einsätze des Arbeitnehmers für ebendiesen Arbeitgeber im Ansässigkeitsstaat oder in einem Drittstaat mit ein, sofern die Gesamtdauer dieser Einsätze nicht mehr als zehn Tage pro Jahr beträgt.
+
+\4. Der Ausdruck «Steuern, die auf den Vergütungen für die vom Ansässigkeitsstaat aus ausgeübte Tätigkeit in Form von Telearbeit anfallen» im Sinne der Absätze 1 und 2 dieses Protokolls bezeichnet die Einkommenssteuern nach Artikel 2 des Abkommens, die auf Vergütungen für eine Tätigkeit erhoben werden, die vom Arbeitnehmer von seinem Ansässigkeitsstaat aus in Form von Telearbeit für einen Arbeitgeber ausgeübt wird, der im anderen Vertragsstaat ansässig ist.
+
+\5. Der in Absatz 1 vorgesehene Ausgleichsbetrag muss bis spätestens zum 30. Juni des Jahres, das auf das Jahr folgt, in dem die Vergütungen ausbezahlt wurden, von der zuständigen Behörde des einen Staates an die zuständige Behörde des anderen Staates überwiesen werden. Jeder Staat zahlt den Ausgleich in seiner Währungseinheit bis spätestens zu ebendiesem Datum.
+
+\6. Dieses Protokoll gilt unter Vorbehalt der effektiven Besteuerung der betreffenden Einkünfte in jenem Staat, der das Recht hat, diese gemäss Artikel 17 des Abkommens und diesem Protokoll zu besteuern.
+
+\7. Die zuständigen Behörden legen im Rahmen eines Verständigungsverfahrens in gegenseitigem Einvernehmen die notwendigen Verwaltungsmassnahmen für die Durchführung der Bestimmungen dieses Protokolls fest.
+
+## Artikel 21 Absatz 2 des Zusatzabkommens vom 22. Juli 1997
+
+[^annexu1-lvlu3-1]
+
+[^annexu1-lvlu3-1]: [AS 2000 1936](https://fedlex.data.admin.ch/eli/oc/2000/298); [BBl 1997 IV 1141](https://fedlex.data.admin.ch/eli/fga/1997/4_1141_1025_925)
 
 \2. Die Bestimmungen des Zusatzabkommens finden Anwendung:
 
@@ -703,9 +778,9 @@ Ausgefertigt in doppelter Urschrift, in Paris, am 9. September tausendneunhunder
 
 ## Artikel 11 Absätze 2–4 des Zusatzabkommens vom 27. August 2009
 
-[^annexu1-lvlu3-1]
+[^annexu1-lvlu4-1]
 
-[^annexu1-lvlu3-1]: [AS 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805); [BBl 2009 1631](https://fedlex.data.admin.ch/eli/fga/2009/359), [2010 1541](https://fedlex.data.admin.ch/eli/fga/2010/268)
+[^annexu1-lvlu4-1]: [AS 2010 5683](https://fedlex.data.admin.ch/eli/oc/2010/805), 1935; [BBl 2009 1631](https://fedlex.data.admin.ch/eli/fga/2009/359); [2010 1541](https://fedlex.data.admin.ch/eli/fga/2010/268)
 
 \2. Die Bestimmungen des Zusatzabkommens finden hinsichtlich der Einkommenssteuer, entsprechend dem jeweiligen Sachverhalt, Anwendung auf die betreffenden Einkünfte der Kalender- oder Geschäftsjahre, die dem Kalenderjahr folgen, in dem das Zusatzabkommen in Kraft getreten ist.
 
@@ -715,10 +790,30 @@ Ausgefertigt in doppelter Urschrift, in Paris, am 9. September tausendneunhunder
 
 ## Artikel 2 Absätze 2 und 3 der Vereinbarung vom 25. Juni 2014
 
-[^annexu1-lvlu4-1]
+[^annexu1-lvlu5-1]
 
-[^annexu1-lvlu4-1]: [AS 2016 1195](https://fedlex.data.admin.ch/eli/oc/2016/228)[1193](https://fedlex.data.admin.ch/eli/oc/2016/227); [BBl 2011 3749](https://fedlex.data.admin.ch/eli/fga/2011/546)
+[^annexu1-lvlu5-1]: [AS 2016 1195](https://fedlex.data.admin.ch/eli/oc/2016/228), [1193](https://fedlex.data.admin.ch/eli/oc/2016/227); [BBl 2011 3749](https://fedlex.data.admin.ch/eli/fga/2011/546)
 
 \2. Die vorliegende Vereinbarung findet Anwendung auf die Informationsbegehren betreffend Kalender- oder Geschäftsjahre, die ab dem 1. Januar 2010 beginnen.
 
 \3. Ungeachtet der Bestimmungen von Absatz 2 findet Artikel 1 Absatz 1 der vorliegenden Vereinbarung Anwendung auf Informationsbegehren über Sachverhalte, welche Zeitperioden ab dem 1. Februar 2013 betreffen.
+
+## Artikel 11 Absätze 2–6 des Zusatzabkommens vom 27. Juni 2023
+
+[^annexu1-lvlu6-1]
+
+[^annexu1-lvlu6-1]: [AS 2025 486](https://fedlex.data.admin.ch/eli/oc/2025/486), [504](https://fedlex.data.admin.ch/eli/oc/2025/504); [BBl 2023 2744](https://fedlex.data.admin.ch/eli/fga/2023/2744)
+
+\2. Die Bestimmungen dieses Zusatzabkommens gelten in beiden Staaten:
+
+- a) für die auf dem Abzugswege an der Quelle erhobenen Steuern auf steuerbare Beträge nach Ablauf des Kalenderjahres, in dem dieses Zusatzabkommen in Kraft tritt;
+- b) für Einkommenssteuern, die nicht auf dem Abzugswege an der Quelle erhoben werden, auf Einkommen, die, je nach dem Zusammenhang, auf Kalender- oder Geschäftsjahre entfallen, die nach Ablauf des Kalenderjahres beginnen, in dem dieses Zusatzabkommen in Kraft tritt;
+- c) für die übrigen Steuern bei Besteuerungen, die nach Ablauf des Kalenderjahres, in dem dieses Zusatzabkommen in Kraft tritt, vorgenommen werden.
+
+\3. Ungeachtet von Absatz 2 gelten die Bestimmungen der Artikel 4 und 10 dieses Zusatzabkommens für ab dem 1. Januar 2023 ausbezahlte Vergütungen.
+
+\4. Ungeachtet von Absatz 3 überweist die Schweiz Frankreich anstelle des in Absatz 1 Buchstaben b) und c) des Zusatzprotokolls zum Abkommen über die Ausübung unselbständiger Erwerbstätigkeit in Form von Telearbeit vorgesehenen Ausgleichs für jedes Kalenderjahr, das zwischen dem 1. Januar 2023 und dem 31. Dezember des Jahres des Inkrafttretens dieses Zusatzabkommens fällt, bis spätestens zum 30. Juni des Jahres, das auf das Jahr des Inkrafttretens dieses Zusatzabkommens folgt, einen Betrag in Schweizer Franken in der Höhe von 2,3 Prozent der Steuern auf den in Frankreich ansässigen Arbeitnehmern für unselbständige Erwerbstätigkeit ausbezahlten Vergütungen. Dieser Betrag wird entsprechend der Anwendungsdauer der zwischen den zuständigen Behörden der Schweiz und Frankreichs getroffenen Verständigungsvereinbarung vom 22. Dezember 2022 über die auf Einkünfte im Sinne von Artikel 17 Absatz 1 des Abkommens anwendbaren Bestimmungen berechnet. Es besteht Einvernehmen darüber, dass dieser Betrag netto berechnet ist und der Ausgleich, zu dem Frankreich während ebendieses Zeitraums der Schweiz gegenüber gemäss Absatz 1 Buchstabe b) des Zusatzprotokolls zum Abkommen über die Ausübung unselbständiger Erwerbstätigkeit in Form von Telearbeit verpflichtet wäre, dabei berücksichtigt ist.
+
+\5. Dieses Zusatzabkommen bleibt so lange in Kraft wie das Abkommen.
+
+\6. Wird das Abkommen gekündigt, so besteht Einvernehmen darüber, dass jeder Vertragsstaat dem anderen bis spätestens zum 30. Juni des folgenden Jahres die in Absatz 1 des Zusatzprotokolls zum Abkommen über die Ausübung unselbständiger Erwerbstätigkeit in Form von Telearbeit vorgesehenen Ausgleichszahlungen für das Jahr überweist, auf dessen Ende die Kündigung ausgesprochen worden ist.
