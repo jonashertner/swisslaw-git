@@ -3,28 +3,28 @@ sr: "0.730.0"
 title: "Vertrag vom 17. Dezember 1994 über die Energiecharta (mit Anlagen, Beschlüssen und Schlussakte)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734"
 language: de
-version: 2024-12-03
+version: 2025-07-24
 adopted: 1994-12-17
 in_force: 1998-04-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734/20241203/de/xml/fedlex-data-admin-ch-eli-cc-1998-2734_2734_2734-20241203-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2734_2734_2734/20241203/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734/20250724/de/xml/fedlex-data-admin-ch-eli-cc-1998-2734_2734_2734-20250724-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2734_2734_2734/20250724/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Vertrag über die Energiecharta
 
-AS **1998** 2734
+AS **1998** 2734; BBl **1995** III 937
 
 Originaltext
 
 Abgeschlossen in Lissabon am 17. Dezember 1994 Von der Bundesversammlung genehmigt am 14. Dezember 1995[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 19. September 1996 In Kraft getreten für die Schweiz am 16. April 1998
 
-(Stand am 3. Dezember 2024)
+(Stand am 24. Juli 2025)
 
 [^t-1]: [AS 1998 2733](https://fedlex.data.admin.ch/eli/oc/1998/2733_2733_2733)
 
-Präambel
+*Präambel*
 
 Die Vertragsparteien dieses Vertrags,
 
@@ -54,7 +54,7 @@ ferner im Hinblick auf den Vertrag über die Nichtverbreitung von Kernwaffen[^in
 
 in Anerkennung der Notwendigkeit einer höchst effizienten Aufsuchung, Produktion, Umwandlung, Speicherung, Beförderung, Verteilung und Nutzung von Energie;
 
-eingedenk des Rahmenübereinkommens der Vereinten Nationen über Klimaänderungen[^ingress-6], des Übereinkommens über weiträumige grenzüberschreitende Luftverunreinigung[^ingress-7] und seiner Protokolle sowie anderer internationaler Umweltübereinkünfte mit energiebezogenen Aspekten und
+eingedenk des Rahmenübereinkommens der Vereinten Nationen über Klimaänderungen[^ingress-6], des Übereinkommens über weiträumige grenzüberschreitende Luftverunreinigung[^ingress-7] und seiner Protokolle sowie anderer internationaler Umweltübereinkünfte mit energiebezogenen Aspekten; und
 
 in der Erkenntnis, dass Massnahmen zum Schutz der Umwelt, einschliesslich der Stilllegung energietechnischer Anlagen und der Abfallentsorgung, sowie international vereinbarte Ziele und Kriterien für diesen Zweck immer grössere Dringlichkeit erlangen –
 
@@ -80,41 +80,50 @@ Im Sinne dieses Vertrags:
 - 2\. bedeutet «Vertragspartei» einen Staat oder eine Organisation der regionalen Wirtschaftsintegration, die zugestimmt haben, durch diesen Vertrag gebunden zu sein und für die der Vertrag in Kraft ist;
 - 3\. bedeutet «Organisation der regionalen Wirtschaftsintegration» eine Organisation, die von Staaten gebildet wird, welche ihr die Zuständigkeit für eine Reihe bestimmter unter diesen Vertrag fallender Angelegenheiten übertragen haben, einschliesslich der Befugnis, in diesen Angelegenheiten für sie bindende Entscheidungen zu treffen;
 - 4\.[^1-1] bedeutet «Energieerzeugnisse» die auf der Grundlage des Harmonisierten Systems der Weltzollorganisation und der Kombinierten Nomenklatur der Europäischen Gemeinschaften in Anlage EM I oder Anlage EM II aufgenommenen Positionen;
-- 4a.[^1-2] bedeutet «energiebezogene Ausrüstung» die auf der Grundlage des Harmonisierten Systems der Weltzollorganisation in Anlage EQ I oder Anlage EQ II aufgenommenen Positionen
+- 4a.[^1-2] bedeutet «energiebezogene Ausrüstung» die auf der Grundlage des Harmonisierten Systems der Weltzollorganisation in Anlage EQ I oder Anlage EQ II aufgenommenen Positionen;
 - 5\. bedeutet «Wirtschaftstätigkeit im Energiebereich» eine Wirtschaftstätigkeit betreffend die Aufsuchung, Gewinnung, Veredelung, Produktion, Lagerung, Beförderung über Land, Übertragung, Verteilung sowie den Handel und die Vermarktung oder den Verkauf von Primärenergieträgern und Energieerzeugnissen mit Ausnahme derjenigen, die in Anlage NI enthalten sind, oder betreffend die Verteilung von Wärme auf mehrere Abnahmestellen;
 - 6\.
 
   bedeutet «Investition» jede Art von Vermögenswert, der einem Investor unmittelbar oder mittelbar gehört oder von ihm kontrolliert wird und folgendes einschliesst:
 
-  - a) materielle und immaterielle Vermögensgegenstände, bewegliche und unbewegliche Sachen sowie Eigentumsrechte jeder Art wie Pachtverträge, Hypotheken und Pfandrechte;
-  - b) eine Gesellschaft oder ein gewerbliches Unternehmen oder Anteilsrechte, Aktien oder sonstige Formen der Kapitalbeteiligung an einer Gesellschaft oder einem gewerblichen Unternehmen, Schuldverschreibungen und sonstige Verbindlichkeiten einer Gesellschaft oder eines gewerblichen Unternehmens;
-  - c) Geldforderungen und Ansprüche auf vertraglich begründete Leistungen, die einen wirtschaftlichen Wert haben und mit einer Investition zusammenhängen;
-  - d) geistiges Eigentum;
-  - e) Erträge;
+  - a) materielle und immaterielle Vermögensgegenstände, bewegliche und unbewegliche Sachen sowie Eigentumsrechte jeder Art wie Pachtverträge, Hypotheken und Pfandrechte,
+  - b) eine Gesellschaft oder ein gewerbliches Unternehmen oder Anteilsrechte, Aktien oder sonstige Formen der Kapitalbeteiligung an einer Gesellschaft oder einem gewerblichen Unternehmen, Schuldverschreibungen und sonstige Verbindlichkeiten einer Gesellschaft oder eines gewerblichen Unternehmens,
+  - c) Geldforderungen und Ansprüche auf vertraglich begründete Leistungen, die einen wirtschaftlichen Wert haben und mit einer Investition zusammenhängen,
+  - d) geistiges Eigentum,
+  - e) Erträge,
   - f) jedes kraft Gesetzes oder Vertrags verliehene Recht oder jede kraft Gesetzes erteilte Lizenz und Genehmigung zur Ausübung von Wirtschaftstätigkeiten im Energiebereich.
 
-- Eine Änderung der Form, in der Vermögenswerte angelegt werden, ändert nichts an ihrem Wesen als Investition; der Begriff «Investition» schliesst alle Investitionen ein, die bis zu dem Tag, an oder nach dem späteren der Tage vorgenommen sind oder werden, an denen der Vertrag für die Vertragspartei des Investors, der die Investition vornimmt, oder für die Vertragspartei, in deren Gebiet die Investition vorgenommen wird, in Kraft tritt (im folgenden als «Tag des Inkrafttretens» bezeichnet); der Vertrag gilt jedoch nur für Angelegenheiten, die sich auf solche Investitionen nach dem Tag des Inkrafttretens auswirken.
+- Eine Änderung der Form, in der Vermögenswerte angelegt werden, ändert nichts an ihrem Wesen als Investition; der Begriff «Investition» schliesst alle Investitionen ein, die bis zu dem Tag, an oder nach dem späteren der Tage vorgenommen sind oder werden, an denen der Vertrag für die Vertragspartei des Investors, der die Investition vornimmt, oder für die Vertragspartei, in deren Gebiet die Investition vorgenommen wird, in Kraft tritt (im Folgenden als «Tag des Inkrafttretens» bezeichnet); der Vertrag gilt jedoch nur für Angelegenheiten, die sich auf solche Investitionen nach dem Tag des Inkrafttretens auswirken.
 - «Investition» bezieht sich auf jede Investition im Zusammenhang mit einer Wirtschaftstätigkeit im Energiebereich und auf Investitionen oder Klassen von Investitionen, die von einer Vertragspartei in ihrem Gebiet als «Charta-Effizienzvorhaben» bezeichnet und als solche dem Sekretariat notifiziert werden;
-- 7\. bedeutet «Investor»
-  - a) in Bezug auf eine Vertragspartei
-    - i) eine natürliche Person, welche die Staatsangehörigkeit oder Staatsbürgerschaft nach den Rechtsvorschriften dieser Vertragspartei besitzt oder dort ihren ständigen Aufenthalt hat;
-    - ii) eine Gesellschaft oder eine andere Organisation, die in Übereinstimmung mit den in dieser Vertragspartei geltenden Rechtsvorschriften gegründet ist;
+- 7\.
+
+  bedeutet «Investor»:
+
+  - a)
+
+    in Bezug auf eine Vertragspartei:
+
+    - i) eine natürliche Person, welche die Staatsangehörigkeit oder Staatsbürgerschaft nach den Rechtsvorschriften dieser Vertragspartei besitzt oder dort ihren ständigen Aufenthalt hat,
+    - ii) eine Gesellschaft oder eine andere Organisation, die in Übereinstimmung mit den in dieser Vertragspartei geltenden Rechtsvorschriften gegründet ist,
 
   - b) in Bezug auf einen «dritten Staat» eine natürliche Person, eine Gesellschaft oder eine andere Organisation, welche die unter Buchstabe a für eine Vertragspartei angegebenen Voraussetzungen sinngemäss erfüllt;
 
 - 8\. bedeutet «Investitionen vornehmen» oder «Vornahme von Investitionen» das Tätigen neuer Investitionen, den vollständigen oder teilweisen Erwerb vorhandener Investitionen oder die Verlagerung in andere Bereiche der Investitionstätigkeit;
 - 9\. bedeutet «Erträge» die aus einer Investition herrührenden oder mit ihr zusammenhängenden Beträge, unabhängig von der Form, in der sie gezahlt werden, einschliesslich Gewinne, Dividenden, Zinsen, Kapitalzuwächse, Lizenzentgelte, Entgelt für die Betriebsleitung, technische Hilfe oder sonstige Entgelte und Sachleistungen;
-- 10\. bedeutet «Gebiet» in Bezug auf einen Staat, der Vertragspartei ist,
+- 10\.
+
+  bedeutet «Gebiet» in Bezug auf einen Staat, der Vertragspartei ist:
+
   - a) das Hoheitsgebiet unter seiner Souveränität, wobei davon ausgegangen wird, dass das Hoheitsgebiet das Land, die inneren Gewässer und das Küstenmeer umfasst, und
   - b) vorbehaltlich des internationalen Seerechts und im Einklang mit diesem das Meer, den Meeresboden und seinen Untergrund, über welche die Vertragspartei souveräne Rechte und Hoheitsbefugnisse ausübt.
 
 - In Bezug auf eine Organisation der regionalen Wirtschaftsintegration, die Vertragspartei ist, bedeutet «Gebiet» die einzelnen Gebiete der Mitgliedstaaten dieser Organisation entsprechend den in dem Übereinkommen zur Gründung der Organisation enthaltenen Bestimmungen;
-- 11.[^1-3] a) bedeutet «WTO» die durch das Übereinkommen zur Errichtung der Welthandelsorganisation errichtete Welthandelsorganisation;
-  - b) bedeutet «WTO-Übereinkommen» das Übereinkommen zur Errichtung der Welthandelsorganisation, seine Anhänge und die dazugehörigen Beschlüsse, Erklärungen und Vereinbarungen in der jeweils zuletzt berichtigten, ergänzten oder geänderten Fassung;
-  - c) bedeutet «GATT 1994» das Allgemeine Zoll- und Handelsabkommen, das in Anhang 1A des Übereinkommens zur Errichtung der Welthandelsorganisation enthalten ist, in der jeweils zuletzt berichtigten, ergänzten oder geänderten Fassung.
+- 11.[^1-3] a) bedeutet «WTO» die durch das Übereinkommen zur Errichtung der Welthandelsorganisation errichtete Welthandelsorganisation,
+  - b) bedeutet «WTO-Übereinkommen» das Übereinkommen zur Errichtung der Welthandelsorganisation, seine Anhänge und die dazugehörigen Beschlüsse, Erklärungen und Vereinbarungen in der jeweils zuletzt berichtigten, ergänzten oder geänderten Fassung,
+  - c) bedeutet «GATT 1994» das Allgemeine Zoll- und Handelsabkommen, das in Anhang 1A des Übereinkommens zur Errichtung der Welthandelsorganisation enthalten ist, in der jeweils zuletzt berichtigten, ergänzten oder geänderten Fassung;
 
 - 12\. schliesst «geistiges Eigentum» Urheberrechte und verwandte Rechte, Marken, geographische Angaben, gewerbliche Muster, Patente, Layout-Designs integrierter Schaltkreise und den Schutz nicht offen gelegter Informationen ein;
-- 13. a) bedeutet «Energiechartaprotokoll» oder «Protokoll» einen Vertrag, dessen Aushandlung die Chartakonferenz genehmigt und dessen Wortlaut sie angenommen hat und den zwei oder mehr Vertragsparteien geschlossen haben, um die Bestimmungen dieses Vertrags in Bezug auf jeden Tätigkeitsbereich oder jede Tätigkeitsart, die unter diesen Vertrag fallen, oder die unter Titel III der Charta genannten Bereiche der Zusammenarbeit zu vervollständigen, zu ergänzen, auszudehnen oder zu erweitern;
+- 13. a) bedeutet «Energiechartaprotokoll» oder «Protokoll» einen Vertrag, dessen Aushandlung die Chartakonferenz genehmigt und dessen Wortlaut sie angenommen hat und den zwei oder mehr Vertragsparteien geschlossen haben, um die Bestimmungen dieses Vertrags in Bezug auf jeden Tätigkeitsbereich oder jede Tätigkeitsart, die unter diesen Vertrag fallen, oder die unter Titel III der Charta genannten Bereiche der Zusammenarbeit zu vervollständigen, zu ergänzen, auszudehnen oder zu erweitern,
   - b) bedeutet «Energiechartaerklärung» oder «Erklärung» ein nicht bindendes Rechtsinstrument, dessen Aushandlung die Chartakonferenz genehmigt und dessen Wortlaut sie gebilligt hat und das von zwei oder mehr Vertragsparteien zur Ergänzung oder Vervollständigung dieses Vertrags geschlossen wurde;
 
 - 14\. bedeutet «frei konvertierbare Währung» eine Währung, die in erheblichem Umfang an den internationalen Devisenmärkten gehandelt und in erheblichem Umfang bei internationalen Transaktionen verwendet wird.
@@ -154,19 +163,22 @@ Dieser Vertrag beeinträchtigt nicht zwischen einzelnen Vertragsparteien, die Mi
 
 <sup>(1)</sup> Eine Vertragspartei wendet handelsbezogene Investitionsmassnahmen nicht an, die mit Artikel III oder XI des GATT 1994[^5-1] unvereinbar sind; dieses gilt unbeschadet der Rechte und Pflichten der Vertragspartei aus dem WTO-Übereinkommen sowie Artikel 29.
 
-<sup>(2)</sup> Solche Massnahmen schliessen jede Investitionsmassnahme ein, die aufgrund inländischer Rechtsvorschriften oder aufgrund von Verwaltungsentscheidungen zwingend vorgeschrieben oder durchsetzbar oder deren Einhaltung zur Erlangung eines Vorteils notwendig ist und derzufolge
+<sup>(2)</sup>
 
-- a) ein Unternehmen Waren inländischen Ursprungs oder inländischer Herkunft kaufen oder verwenden muss, wobei bestimmte Waren, eine Warenmenge oder ein Warenwert oder ein Anteil an der Menge oder dem Wert seiner einheimischen Produktion vorgeschrieben sein können, oder
-- b) der Kauf oder die Verwendung eingeführter Waren durch ein Unternehmen auf einen Umfang beschränkt wird, der sich nach der Menge oder dem Wert einheimischer Waren, die es ausführt, richtet oder die
+Solche Massnahmen schliessen jede Investitionsmassnahme ein, die aufgrund inländischer Rechtsvorschriften oder aufgrund von Verwaltungsentscheidungen zwingend vorgeschrieben oder durchsetzbar oder deren Einhaltung zur Erlangung eines Vorteils notwendig ist und derzufolge:
+
+- a) ein Unternehmen Waren inländischen Ursprungs oder inländischer Herkunft kaufen oder verwenden muss, wobei bestimmte Waren, eine Warenmenge oder ein Warenwert oder ein Anteil an der Menge oder dem Wert seiner einheimischen Produktion vorgeschrieben sein können; oder
+- b) der Kauf oder die Verwendung eingeführter Waren durch ein Unternehmen auf einen Umfang beschränkt wird, der sich nach der Menge oder dem Wert einheimischer Waren, die es ausführt, richtet;
+- oder die:
 - c) die Einfuhr von Waren durch ein Unternehmen, die bei dessen einheimischer Produktion verwendet werden oder diese Produktion betreffen, sei es generell oder auf einen Umfang beschränkt, der sich nach der Menge oder dem Wert der von dem Unternehmen ausgeführten einheimischen Produktion richtet;
-- d) die Einfuhr von Waren durch ein Unternehmen, die bei dessen einheimischer Produktion verwendet werden oder diese Produktion betreffen, durch Beschränkung des Zugangs zu Devisen auf einen Betrag beschränkt, der sich nach den dem Unternehmen anzurechnenden Devisenzuflüssen richtet, oder
+- d) die Einfuhr von Waren durch ein Unternehmen, die bei dessen einheimischer Produktion verwendet werden oder diese Produktion betreffen, durch Beschränkung des Zugangs zu Devisen auf einen Betrag beschränkt, der sich nach den dem Unternehmen anzurechnenden Devisenzuflüssen richtet; oder
 - e) die Ausfuhr oder den Verkauf zur Ausfuhr von Waren durch ein Unternehmen beschränkt, wobei bestimmte Waren, eine Warenmenge oder ein Warenwert oder ein Anteil an der Menge oder dem Wert seiner einheimischen Produktion vorgeschrieben sein können.
 
 <sup>(3)</sup> Absatz 1 ist nicht so auszulegen, als werde eine Vertragspartei daran gehindert, die in Absatz 2 Buchstaben a und c beschriebenen handelsbezogenen Investitionsmassnahmen als Voraussetzung für die Berechtigung zu Ausfuhrförderung, Auslandshilfe, öffentlicher Beschaffung oder Präferenzprogramme für Zölle oder Kontingente anzuwenden.
 
 <sup>(4)</sup> Ungeachtet des Absatzes 1 kann eine Vertragspartei handelsbezogene Investitionsmassnahmen, die mehr als 180 Tage in Kraft waren, bevor die Vertragspartei diesen Vertrag unterzeichnet hat, vorbehaltlich der Bestimmungen über Notifikationen und Übergangsbestimmungen in Anlage TRM, vorläufig beibehalten.
 
-[^5-1]: Zahl eingefügt druch Art. 2 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^5-1]: Zahl eingefügt durch Art. 2 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 #### Art. 6
 
@@ -205,18 +217,20 @@ Die Vertragsparteien ermutigen die zuständigen Stellen zur Zusammenarbeit in fo
 
 <sup>(4)</sup> Kann der Transit von Primärenergieträgern und Energieerzeugnissen nicht zu marktüblichen Bedingungen mit Hilfe von Energiebeförderungseinrichtungen erreicht werden, so legen die Vertragsparteien der Schaffung neuer Kapazitäten keine Hindernisse in den Weg, sofern anwendbare Rechtsvorschriften, die mit Absatz 1 vereinbar sind, nichts anderes bestimmen.
 
-<sup>(5)</sup> Eine Vertragspartei, durch deren Gebiet Primärenergieträger und Energieerzeugnisse im Transit geleitet werden können, ist nicht verpflichtet,
-
-wenn sie den anderen beteiligten Vertragsparteien nachweist, dass dies die Sicherheit oder Effizienz ihrer Energienetze einschliesslich der Versorgungssicherheit gefährden würde.
+<sup>(5)</sup> wenn sie den anderen beteiligten Vertragsparteien nachweist, dass dies die Sicherheit oder Effizienz ihrer Energienetze einschliesslich der Versorgungssicherheit gefährden würde.
 
 Vorbehaltlich der Absätze 6 und 7 sichern die Vertragsparteien den seit langem bestehenden Fluss von Primärenergieträgern und Energieerzeugnissen zu, von und zwischen den Gebieten anderer Vertragsparteien.
 
-- a) den Bau oder die Änderung von Energiebeförderungseinrichtungen zu gestatten oder
+Eine Vertragspartei, durch deren Gebiet Primärenergieträger und Energieerzeugnisse im Transit geleitet werden können, ist nicht verpflichtet:
+
+- a) den Bau oder die Änderung von Energiebeförderungseinrichtungen zu gestatten; oder
 - b) einen neuen oder zusätzlichen Transit durch bestehende Energiebeförderungseinrichtungen zu gestatten,
 
 <sup>(6)</sup> Eine Vertragspartei, durch deren Gebiet der Transit von Primärenergieträgern und Energieerzeugnissen verläuft, darf im Fall einer Streitigkeit über eine Frage im Zusammenhang mit diesem Transit den Transit weder unterbrechen noch verringern, und sie darf nicht einer ihrer Aufsicht unterstehenden Stelle gestatten oder eine ihrer Gerichtsbarkeit unterstehende Stelle auffordern, den vorhandenen Fluss der Primärenergieträger und Energieerzeugnisse zu unterbrechen oder zu verringern, bevor das in Absatz 7 vorgesehene Streitbeilegungsverfahren abgeschlossen ist, es sei denn, dies ist in einem privatrechtlichen Vertrag oder einer anderen Vereinbarung über den Transit ausdrücklich vorgesehen oder nach Massgabe der Entscheidung des Schlichters erlaubt.
 
-<sup>(7)</sup> Folgende Bestimmungen finden auf eine in Absatz 6 beschriebene Streitigkeit Anwendung, jedoch erst, nachdem alle einschlägigen vertraglichen oder sonstigen Mittel der Streitbeilegung erschöpft sind, die zuvor zwischen den Vertragsparteien, die Streitparteien sind, oder zwischen einem in Absatz 6 genannten Rechtsträger und einem Rechtsträger einer anderen Vertragspartei, die Streitparteien sind, vereinbart wurden.
+<sup>(7)</sup>
+
+Folgende Bestimmungen finden auf eine in Absatz 6 beschriebene Streitigkeit Anwendung, jedoch erst, nachdem alle einschlägigen vertraglichen oder sonstigen Mittel der Streitbeilegung erschöpft sind, die zuvor zwischen den Vertragsparteien, die Streitparteien sind, oder zwischen einem in Absatz 6 genannten Rechtsträger und einem Rechtsträger einer anderen Vertragspartei, die Streitparteien sind, vereinbart wurden:
 
 - a) Eine Vertragspartei, die Streitpartei ist, kann die Streitigkeit an den Generalsekretär in einer Notifikation verweisen, in der die strittigen Fragen zusammengefasst sind. Der Generalsekretär unterrichtet alle Vertragsparteien von der Notifikation.
 - b) Binnen 30 Tagen nach Eingang dieser Notifikation bestellt der Generalsekretär in Konsultation mit den Streitparteien und den anderen betroffenen Vertragsparteien einen Schlichter. Dieser muss über Erfahrung in den strittigen Angelegenheiten verfügen und darf weder Staatsangehöriger oder Bürger einer Streitpartei oder einer der anderen betroffenen Vertragsparteien sein noch in einer von ihnen seinen ständigen Aufenthalt haben.
@@ -229,9 +243,14 @@ Vorbehaltlich der Absätze 6 und 7 sichern die Vertragsparteien den seit langem 
 
 <sup>(9)</sup> Dieser Artikel ist nicht so auszulegen, als verpflichte er eine Vertragspartei, die nicht über eine bestimmte Art von Energiebeförderungseinrichtungen für den Transit verfügt, aufgrund dieses Artikels Massnahmen in Bezug auf diese Art der Einrichtung zu treffen. Diese Vertragspartei ist jedoch verpflichtet, Absatz 4 einzuhalten.
 
-<sup>(10)</sup> Im Sinne dieses Artikels
+<sup>(10)</sup>
 
-- a) bedeutet «Transit»
+Im Sinne dieses Artikels:
+
+- a)
+
+  bedeutet «Transit»:
+
   - i) die Beförderung durch das Gebiet einer Vertragspartei oder zu oder aus Hafenanlagen in ihrem Gebiet zum Be- und Entladen von Primärenergieträgern und Energieerzeugnissen, die ihren Ursprung im Gebiet eines anderen Staates und ihre Bestimmung im Gebiet eines dritten Staates haben, solange entweder der andere Staat oder der dritte Staat Vertragspartei ist,
   - ii) die Beförderung durch das Gebiet einer Vertragspartei von Primärenergieträgern und Energieerzeugnissen, die ihren Ursprung im Gebiet einer anderen Vertragspartei und ihre Bestimmung im Gebiet dieser anderen Vertragspartei haben, sofern die beiden beteiligten Vertragsparteien nichts anderes beschliessen und ihren Beschluss gemeinsam in die Anlage N eintragen. Die beiden Vertragsparteien können ihre Eintragung in Anlage N löschen, indem sie diese Absicht dem Sekretariat in einer gemeinsamen schriftlichen Notifikation mitteilen; dieses leitet die Notifikation an alle übrigen Vertragsparteien weiter. Die Löschung wird vier Wochen nach der ersten Notifikation wirksam;
 
@@ -255,10 +274,15 @@ Vorbehaltlich der Absätze 6 und 7 sichern die Vertragsparteien den seit langem 
 
 <sup>(3)</sup> Die Vertragsparteien bemühen sich, bei der Durchführung von Programmen für die Wirtschaftstätigkeit im Energiebereich, die darauf abzielen, die wirtschaftliche Stabilität und das Investitionsklima in den Vertragsparteien zu verbessern, gegebenenfalls die Tätigkeit massgeblicher internationaler Finanzinstitutionen anzuregen und deren Sachkenntnis zu nutzen.
 
-<sup>(4)</sup> Dieser Artikel hindert nicht daran,
+<sup>(4)</sup>
 
-- a) dass Finanzinstitutionen nach marktwirtschaftlichen Grundsätzen und unter Berücksichtigung der Aufsichtsvorschriften ihre eigenen Kredit- oder Emissionspraktiken anwenden oder
-- b) dass eine Vertragspartei
+Dieser Artikel hindert nicht daran:
+
+- a) dass Finanzinstitutionen nach marktwirtschaftlichen Grundsätzen und unter Berücksichtigung der Aufsichtsvorschriften ihre eigenen Kredit- oder Emissionspraktiken anwenden; oder
+- b)
+
+  dass eine Vertragspartei:
+
   - i) aufsichtsrechtlich begründete Massnahmen trifft, einschliesslich solcher zum Schutz von Investoren, Verbrauchern, Einlegern, Versicherungsnehmern oder Personen, denen ein Finanzdienstleister eine Treuepflicht schuldet, oder
   - ii) Massnahmen trifft, die die Integrität und Stabilität ihres Finanzsystems und ihrer Kapitalmärkte sicherstellen.
 
@@ -276,7 +300,9 @@ Vorbehaltlich der Absätze 6 und 7 sichern die Vertragsparteien den seit langem 
 
 <sup>(4)</sup> Ein Zusatzvertrag verpflichtet vorbehaltlich der darin festzulegenden Bedingungen jede seiner Vertragsparteien, Investoren anderer Vertragsparteien hinsichtlich der Vornahme von Investitionen in ihrem Gebiet die in Absatz 3 beschriebene Behandlung zu gewähren. Dieser Zusatzvertrag liegt für die Staaten und Organisationen der regionalen Wirtschaftsintegration, die den vorliegenden Vertrag unterzeichnet haben oder ihm beigetreten sind, zur Unterzeichnung auf. Die Verhandlungen über den Zusatzvertrag beginnen spätestens am 1. Januar 1995 mit dem Ziel, ihn bis zum 1. Januar 1998 abzuschliessen.
 
-<sup>(5)</sup> Jede Vertragspartei ist in Bezug auf die Vornahme von Investitionen in ihrem Gebiet bestrebt,
+<sup>(5)</sup>
+
+Jede Vertragspartei ist in Bezug auf die Vornahme von Investitionen in ihrem Gebiet bestrebt:
 
 - a) die Ausnahmen von der in Absatz 3 beschriebenen Behandlung auf ein Mindestmass zu beschränken;
 - b) die bestehenden Beschränkungen für Investoren anderer Vertragsparteien fortschreitend abzubauen.
@@ -295,10 +321,10 @@ Hinsichtlich des Buchstabens b kann die Überprüfung durch die Chartakonferenz 
 
 Jeder Staat oder jede Organisation der regionalen Wirtschaftsintegration, die diesen Vertrag unterzeichnen oder ihm beitreten, übermitteln dem Sekretariat an dem Tag, an dem sie den Vertrag unterzeichnen oder ihre Beitrittsurkunde hinterlegen, einen Bericht, in dem alle Gesetze, sonstigen Rechtsvorschriften oder anderen Massnahmen zusammengefasst sind, die sich auf folgendes beziehen:
 
-- a) die Ausnahmen zu Absatz 2 oder
+- a) die Ausnahmen zu Absatz 2; oder
 - b) die in Absatz 8 bezeichneten Programme.
 
-<sup>(10)</sup> Ungeachtet aller anderen Bestimmungen dieses Artikels findet die in den Absätzen 3 und 7 beschriebene Behandlung auf den Schutz des geistigen Eigentums keine Anwendung; statt dessen wird die Behandlung angewandt, die in den entsprechenden Bestimmungen der anwendbaren internationalen Übereinkünfte zum Schutz der Rechte des geistigen Eigentums vorgeschrieben ist, deren Vertragsparteien die betreffenden Vertragsparteien des vorliegenden Vertrags sind.
+<sup>(10)</sup> Ungeachtet aller anderen Bestimmungen dieses Artikels findet die in den Absätzen 3 und 7 beschriebene Behandlung auf den Schutz des geistigen Eigentums keine Anwendung; stattdessen wird die Behandlung angewandt, die in den entsprechenden Bestimmungen der anwendbaren internationalen Übereinkünfte zum Schutz der Rechte des geistigen Eigentums vorgeschrieben ist, deren Vertragsparteien die betreffenden Vertragsparteien des vorliegenden Vertrags sind.
 
 <sup>(11)</sup> Für die Zwecke des Artikels 26 gilt die Anwendung einer in Artikel 5 Absätze 1 und 2 beschriebenen handelsbezogenen Investitionsmassnahme durch eine Vertragspartei auf die Investition eines Investors einer anderen Vertragspartei, die zum Zeitpunkt einer solchen Anwendung besteht, vorbehaltlich des Artikels 5 Absätze 3 und 4 als Verletzung einer Verpflichtung der erstgenannten Vertragspartei aus diesem Teil.
 
@@ -318,26 +344,26 @@ Jeder Staat oder jede Organisation der regionalen Wirtschaftsintegration, die di
 
 <sup>(1)</sup> Sofern nicht Artikel 13 Anwendung findet, wird einem Investor einer Vertragspartei, der in Bezug auf eine Investition im Gebiet einer anderen Vertragspartei infolge von Krieg oder einer anderen bewaffneten Auseinandersetzung, nationalem Notstand, Unruhen oder einem ähnlichen Ereignis im Gebiet dieser anderen Vertragspartei Verluste erleidet, von dieser Vertragspartei bei der Rückerstattung, Abfindung, Entschädigung oder sonstigen Regelung die günstigste Behandlung gewährt, die diese Vertragspartei jedem anderen Investor, sei es ihrem eigenen Investor oder dem Investor einer anderen Vertragspartei oder sei es dem Investor eines dritten Staates zuteil werden lässt.
 
-<sup>(2)</sup> Unbeschadet des Absatzes 1 erhält der Investor einer Vertragspartei, der in einem in Absatz 1 genannten Fall im Gebiet einer anderen Vertragspartei wegen
+<sup>(2)</sup> Verluste erleidet, eine Rückerstattung oder Entschädigung, die in jedem Fall umgehend, wertentsprechend und tatsächlich verwertbar sein muss.
 
-Verluste erleidet, eine Rückerstattung oder Entschädigung, die in jedem Fall umgehend, wertentsprechend und tatsächlich verwertbar sein muss.
+Unbeschadet des Absatzes 1 erhält der Investor einer Vertragspartei, der in einem in Absatz 1 genannten Fall im Gebiet einer anderen Vertragspartei wegen:
 
-- a) vollständiger oder teilweiser Beschlagnahme seiner Investition durch die Streitkräfte oder Behörden dieser Vertragspartei oder
+- a) vollständiger oder teilweiser Beschlagnahme seiner Investition durch die Streitkräfte oder Behörden dieser Vertragspartei; oder
 - b) vollständiger oder teilweiser Zerstörung seiner Investition durch die Streitkräfte oder Behörden dieser Vertragspartei, welche unter den gegebenen Umständen nicht erforderlich war,
 
 #### Art. 13
 
 **Enteignung**
 
-<sup>(1)</sup> Investitionen von Investoren einer Vertragspartei im Gebiet einer anderen Vertragspartei dürfen nicht verstaatlicht, enteignet oder einer Massnahme gleicher Wirkung wie Verstaatlichung oder Enteignung (im folgenden als «Enteignung» bezeichnet) unterworfen werden; davon ausgenommen sind Enteignungen, die
-
-Die Höhe der Entschädigung muss dem angemessenen Marktwert der enteigneten Investition entsprechen, den sie unmittelbar vor dem sich auf den Wert der Investition auswirkenden Bekannt werden der Enteignung oder bevorstehenden Enteignung hatte (im folgenden als «Bewertungszeitpunkt» bezeichnet).
+<sup>(1)</sup> Die Höhe der Entschädigung muss dem angemessenen Marktwert der enteigneten Investition entsprechen, den sie unmittelbar vor dem sich auf den Wert der Investition auswirkenden bekannt werden der Enteignung oder bevorstehenden Enteignung hatte (im Folgenden als «Bewertungszeitpunkt» bezeichnet).
 
 Dieser angemessene Marktwert wird auf Antrag des Investors in einer frei konvertierbaren Währung auf der Grundlage des zum Bewertungszeitpunkt am Markt geltenden Wechselkurses der betreffenden Währung angegeben. Die Entschädigung umfasst auch Zinsen zu einem marktgerechten, handelsüblichen Zinssatz für die Zeit vom Tag der Enteignung bis zum Tag der Zahlung.
 
-- a) im öffentlichen Interesse liegen
-- b) nicht diskriminierend sind,
-- c) nach den rechtsstaatlichen Grundsätzen erfolgen und
+Investitionen von Investoren einer Vertragspartei im Gebiet einer anderen Vertragspartei dürfen nicht verstaatlicht, enteignet oder einer Massnahme gleicher Wirkung wie Verstaatlichung oder Enteignung (im Folgenden als «Enteignung» bezeichnet) unterworfen werden; davon ausgenommen sind Enteignungen, die:
+
+- a) im öffentlichen Interesse liegen;
+- b) nicht diskriminierend sind;
+- c) nach den rechtsstaatlichen Grundsätzen erfolgen; und
 - d) mit einer umgehenden, wertentsprechenden und tatsächlich verwertbaren Entschädigung einhergehen.
 
 <sup>(2)</sup> Der betroffene Investor hat das Recht, nach den Gesetzen der die Enteignung vornehmenden Vertragspartei, seinen Fall, die Bewertung seiner Investition und die Entschädigungszahlung von einem Gericht oder einer anderen zuständigen und unabhängigen Behörde dieser Vertragspartei im Einklang mit den in Absatz 1 aufgestellten Grundsätzen umgehend überprüfen zu lassen.
@@ -348,14 +374,16 @@ Dieser angemessene Marktwert wird auf Antrag des Investors in einer frei konvert
 
 **Transfers im Zusammenhang mit Investitionen**
 
-<sup>(1)</sup> Jede Vertragspartei gewährleistet in Bezug auf Investitionen in ihrem Gebiet von Investoren einer anderen Vertragspartei die Freiheit des Transfers in ihr Gebiet und aus ihrem Gebiet einschliesslich des Transfers
+<sup>(1)</sup>
+
+Jede Vertragspartei gewährleistet in Bezug auf Investitionen in ihrem Gebiet von Investoren einer anderen Vertragspartei die Freiheit des Transfers in ihr Gebiet und aus ihrem Gebiet einschliesslich des Transfers:
 
 - a) des Gründungskapitals und jedes weiteren Kapitals zur Aufrechterhaltung und Entwicklung einer Investition;
 - b) der Erträge;
 - c) der Zahlungen im Rahmen eines Vertrags, einschliesslich der Tilgung von Kapital und aufgelaufenen Zinsen aufgrund eines Darlehensvertrags;
 - d) der nicht ausgegebenen Einkünfte und sonstigen Vergütungen des Personals, das im Zusammenhang mit der Investition aus dem Ausland angeworben wurde;
 - e) der Erlöse aus dem Verkauf oder der Liquidation einer Investition oder eines Teiles derselben;
-- f) der Zahlungen infolge der Beilegung einer Streitigkeit und
+- f) der Zahlungen infolge der Beilegung einer Streitigkeit; und
 - g) der Entschädigungszahlungen nach den Artikeln 12 und 13.
 
 <sup>(2)</sup> Transfers nach Absatz 1 erfolgen unverzüglich und (ausser im Falle eines Ertrags in Naturalien) in einer frei konvertierbaren Währung.
@@ -374,16 +402,16 @@ Dieser angemessene Marktwert wird auf Antrag des Investors in einer frei konvert
 
 <sup>(1)</sup>
 
-Leistet eine Vertragspartei oder die von ihr bestimmte Stelle (im folgenden als «entschädigende Partei» bezeichnet) eine Zahlung aufgrund einer Entschädigungsverpflichtung oder Garantie für eine Investition eines Investors (im folgenden als «entschädigte Partei» bezeichnet) im Gebiet einer anderen Vertragspartei (im folgenden als «gastgebende Partei» bezeichnet), so erkennt die gastgebende Partei folgendes an:
+Leistet eine Vertragspartei oder die von ihr bestimmte Stelle (im Folgenden als «entschädigende Partei» bezeichnet) eine Zahlung aufgrund einer Entschädigungsverpflichtung oder Garantie für eine Investition eines Investors (im Folgenden als «entschädigte Partei» bezeichnet) im Gebiet einer anderen Vertragspartei (im Folgenden als «gastgebende Partei» bezeichnet), so erkennt die gastgebende Partei folgendes an:
 
-- a) die Abtretung aller Rechte und Ansprüche an die entschädigende Partei in Bezug auf eine solche Investition und
+- a) die Abtretung aller Rechte und Ansprüche an die entschädigende Partei in Bezug auf eine solche Investition; und
 - b) das Recht der entschädigenden Partei, alle diese Rechte auszuüben und diese Ansprüche aufgrund der Übertragung durchzusetzen.
 
-<sup>(2)</sup> Die entschädigende Partei hat unter allen Umständen Anspruch auf
+<sup>(2)</sup> welche die entschädigte Partei aufgrund dieses Vertrags in Bezug auf die betreffende Investition zu erhalten berechtigt war.
 
-welche die entschädigte Partei aufgrund dieses Vertrags in Bezug auf die betreffende Investition zu erhalten berechtigt war.
+Die entschädigende Partei hat unter allen Umständen Anspruch auf:
 
-- a) dieselbe Behandlung in Bezug auf die Rechte und Ansprüche, die sie aufgrund der Abtretung nach Absatz 1 erworben hat, und
+- a) dieselbe Behandlung in Bezug auf die Rechte und Ansprüche, die sie aufgrund der Abtretung nach Absatz 1 erworben hat; und
 - b) dieselben Zahlungen aufgrund solcher Rechte und Ansprüche,
 
 <sup>(3)</sup> In einem Verfahren nach Artikel 26 darf eine Vertragspartei nicht als Einwand, als Gegenforderung, als Ausgleichsforderung oder mit irgendeiner anderen Begründung geltend machen, dass eine Abfindung oder eine sonstige Entschädigung für den gesamten behaupteten Schaden oder einen Teil davon im Zuge eines Versicherungs- oder Garantievertrags geleistet wurde oder geleistet werden wird.
@@ -392,11 +420,11 @@ welche die entschädigte Partei aufgrund dieses Vertrags in Bezug auf die betref
 
 **Beziehung zu anderen Übereinkünften**
 
-Haben zwei oder mehr Vertragsparteien früher eine internationale Übereinkunft geschlossen oder schliessen sie später eine solche Übereinkunft, deren Bestimmungen die in Teil III oder V dieses Vertrags behandelten Angelegenheiten betreffen,
-
 soweit eine derartige Bestimmung für den Investor oder die Investition günstiger ist.
 
-- 1\. so darf Teil III oder V dieses Vertrags nicht so ausgelegt werden, als weiche er von Bestimmungen der anderen Übereinkunft oder von dem Recht auf diesbezügliche Streitbeilegung aufgrund der Übereinkunft ab, und
+Haben zwei oder mehr Vertragsparteien früher eine internationale Übereinkunft geschlossen oder schliessen sie später eine solche Übereinkunft, deren Bestimmungen die in Teil III oder V dieses Vertrags behandelten Angelegenheiten betreffen:
+
+- 1\. so darf Teil III oder V dieses Vertrags nicht so ausgelegt werden, als weiche er von Bestimmungen der anderen Übereinkunft oder von dem Recht auf diesbezügliche Streitbeilegung aufgrund der Übereinkunft ab; und
 - 2\. so darf keine Bestimmung der anderen Übereinkunft so ausgelegt werden, als weiche sie von einer Bestimmung in Teil III oder V dieses Vertrags oder von dem Recht auf diesbezügliche Streitbeilegung aufgrund dieses Vertrags ab,
 
 #### Art. 17
@@ -406,10 +434,13 @@ soweit eine derartige Bestimmung für den Investor oder die Investition günstig
 Jede Vertragspartei behält sich das Recht vor, die Vorteile aus diesem Teil gegenüber folgenden zu verweigern:
 
 - 1\. einer juristischen Person, wenn Staatsbürger oder Staatsangehörige eines dritten Staates Eigentümer dieser juristischen Person sind oder diese kontrollieren und wenn diese juristische Person keine nennenswerte Geschäftstätigkeit im Gebiet der Vertragspartei ausübt, in der sie gegründet wurde;
-- 2\. einer Investition, wenn die verweigernde Vertragspartei feststellt, dass es sich um die Investition eines Investors eines dritten Staates handelt, mit dem oder hinsichtlich dessen die verweigernde Vertragspartei
-  - a) keine diplomatischen Beziehungen unterhält oder
+- 2\.
+
+  einer Investition, wenn die verweigernde Vertragspartei feststellt, dass es sich um die Investition eines Investors eines dritten Staates handelt, mit dem oder hinsichtlich dessen die verweigernde Vertragspartei:
+
+  - a) keine diplomatischen Beziehungen unterhält, oder
   - b) Massnahmen beschliesst oder beibehält,
-    - i) die Transaktionen mit Investoren jenes Staates verbieten oder
+    - i) die Transaktionen mit Investoren jenes Staates verbieten, oder
     - ii) die verletzt oder umgangen würden, falls die Vorteile aus diesem Teil den Investoren jenes Staates oder ihren Investitionen gewährt würden.
 
 ## Teil IV Andere Bestimmungen
@@ -430,7 +461,9 @@ Jede Vertragspartei behält sich das Recht vor, die Vorteile aus diesem Teil geg
 
 **Umweltaspekte**
 
-<sup>(1)</sup> Jede Vertragspartei ist in dem Bemühen um eine nachhaltige Entwicklung und unter Berücksichtigung ihrer Verpflichtungen aus internationalen Übereinkünften betreffend die Umwelt, deren Vertragspartei sie ist, bestrebt, schädliche Umweltauswirkungen, die innerhalb oder ausserhalb ihres Gebiets durch alle Vorgänge innerhalb des Energiekreislaufs in ihrem Gebiet entstehen, auf wirtschaftlich effiziente Weise auf ein Mindestmass zu beschränken und dabei die Sicherheit angemessen zu berücksichtigen. Dabei handeln die Vertragsparteien kostengünstig. In ihren politischen Ausrichtungen und ihren Handlungen ist jede Vertragspartei bestrebt, eine Schädigung der Umwelt durch Vorsorgemassnahmen zu verhüten oder auf ein Mindestmass zu beschränken. Die Vertragsparteien kommen überein, dass grundsätzlich der Verursacher die Kosten der Verschmutzung, einschliesslich der grenzüberschreitenden Verschmutzung, zu tragen hat, wobei das öffentliche Interesse gebührend berücksichtigt wird und Investitionen in den Energiekreislauf oder der internationale Handel nicht verzerrt werden dürfen. Die Vertragsparteien werden daher
+<sup>(1)</sup>
+
+Jede Vertragspartei ist in dem Bemühen um eine nachhaltige Entwicklung und unter Berücksichtigung ihrer Verpflichtungen aus internationalen Übereinkünften betreffend die Umwelt, deren Vertragspartei sie ist, bestrebt, schädliche Umweltauswirkungen, die innerhalb oder ausserhalb ihres Gebiets durch alle Vorgänge innerhalb des Energiekreislaufs in ihrem Gebiet entstehen, auf wirtschaftlich effiziente Weise auf ein Mindestmass zu beschränken und dabei die Sicherheit angemessen zu berücksichtigen. Dabei handeln die Vertragsparteien kostengünstig. In ihren politischen Ausrichtungen und ihren Handlungen ist jede Vertragspartei bestrebt, eine Schädigung der Umwelt durch Vorsorgemassnahmen zu verhüten oder auf ein Mindestmass zu beschränken. Die Vertragsparteien kommen überein, dass grundsätzlich der Verursacher die Kosten der Verschmutzung, einschliesslich der grenzüberschreitenden Verschmutzung, zu tragen hat, wobei das öffentliche Interesse gebührend berücksichtigt wird und Investitionen in den Energiekreislauf oder der internationale Handel nicht verzerrt werden dürfen. Die Vertragsparteien werden daher:
 
 - a) bei der Ausarbeitung und Umsetzung ihrer Energiepolitik Umweltüberlegungen berücksichtigen;
 - b) eine marktorientierte Preisbildung und eine umfassendere Einbeziehung von Umweltkosten und -nutzen im gesamten Energiekreislauf fördern;
@@ -446,7 +479,9 @@ Jede Vertragspartei behält sich das Recht vor, die Vorteile aus diesem Teil geg
 
 <sup>(2)</sup> Auf Ersuchen einer oder mehrerer Vertragsparteien werden Streitigkeiten über die Anwendung oder Auslegung von Bestimmungen dieses Artikels, sofern es für die Prüfung solcher Streitigkeiten keine anderen geeigneten internationalen Foren gibt, von der Chartakonferenz überprüft, die sich um eine Lösung bemüht.
 
-<sup>(3)</sup> Im Sinne dieses Artikels
+<sup>(3)</sup>
+
+Im Sinne dieses Artikels:
 
 - a) bedeutet «Energiekreislauf» die gesamte Energiekette, einschliesslich der Tätigkeiten im Zusammenhang mit der Erkundung, Aufsuchung, Produktion, Umwandlung, Lagerung, Beförderung, Verteilung und des Verbrauchs der verschiedenen Energieformen, der Abfallbehandlung und -entsorgung sowie der Ausserbetriebnahme, Stilllegung oder Beendigung dieser Tätigkeiten bei gleichzeitiger Beschränkung der schädlichen Umweltauswirkungen auf ein Mindestmass;
 - b) bedeutet «Umweltauswirkung» eine von einer gegebenen Tätigkeit ausgehende Wirkung auf die Umwelt, einschliesslich der menschlichen Gesundheit und Sicherheit, der Pflanzen- und Tierwelt, des Bodens, der Luft, des Wassers, des Klimas, der Landschaft und der historischen Denkmäler oder sonstiger Bauten oder die Wechselwirkungen zwischen diesen Faktoren; der Begriff umfasst auch Wirkungen auf das Kulturerbe oder auf wirtschaftlich-soziale Verhältnisse, die sich aus Veränderungen dieser Faktoren ergeben;
@@ -471,14 +506,18 @@ Jede Vertragspartei behält sich das Recht vor, die Vorteile aus diesem Teil geg
 
 <sup>(1)</sup> Sofern in diesem Artikel nichts anderes vorgesehen ist, begründet dieser Vertrag keine Rechte oder Verpflichtungen in Bezug auf steuerliche Massnahmen der Vertragsparteien. Bei Widersprüchlichkeiten zwischen diesem Artikel und einer anderen Bestimmung des Vertrags ist dieser Artikel insoweit massgebend.
 
-<sup>(2)</sup> Artikel 7 Absatz 3 findet auf steuerliche Massnahmen mit Ausnahme der Steuern vom Einkommen oder vom Vermögen Anwendung; diese Bestimmung gilt jedoch nicht für
+<sup>(2)</sup>
 
-- a) eine Vergünstigung, die von einer Vertragspartei aufgrund der steuerlichen Bestimmungen eines Übereinkommens, eines Abkommens oder einer Vereinbarung nach Absatz 7 Buchstabe a Ziffer ii gewährt wird, oder
+Artikel 7 Absatz 3 findet auf steuerliche Massnahmen mit Ausnahme der Steuern vom Einkommen oder vom Vermögen Anwendung; diese Bestimmung gilt jedoch nicht für:
+
+- a) eine Vergünstigung, die von einer Vertragspartei aufgrund der steuerlichen Bestimmungen eines Übereinkommens, eines Abkommens oder einer Vereinbarung nach Absatz 7 Buchstabe a Ziffer ii gewährt wird; oder
 - b) eine steuerliche Massnahme, die eine wirksame Steuereinziehung sicherstellen soll, es sei denn, die Massnahme einer Vertragspartei diskriminiert willkürlich Primärenergieträger und Energieerzeugnisse mit Ursprung in einem Gebiet einer anderen Vertragspartei oder Bestimmung für ein solches Gebiet oder schränkt die aufgrund des Artikels 7 Absatz 3 gewährten Vorteile willkürlich ein.
 
-<sup>(3)</sup> Artikel 10 Absätze 2 und 7 finden auf steuerliche Massnahmen der Vertragsparteien Anwendung, mit Ausnahme der Steuern vom Einkommen oder vom Vermögen; diese Bestimmungen gelten jedoch nicht für
+<sup>(3)</sup>
 
-- a) die Auferlegung von Verpflichtungen zur Meistbegünstigung in Bezug auf Vergünstigungen, die von einer Vertragspartei aufgrund der Steuerbestimmungen in einem in Absatz 7 Buchstabe a Ziffer ii beschriebenen Übereinkommen, Abkommen oder einer dort genannten Vereinbarung gewährt werden oder sich aus der Mitgliedschaft in einer Organisation der regionalen Wirtschaftsintegration ergeben, oder
+Artikel 10 Absätze 2 und 7 finden auf steuerliche Massnahmen der Vertragsparteien Anwendung, mit Ausnahme der Steuern vom Einkommen oder vom Vermögen; diese Bestimmungen gelten jedoch nicht für:
+
+- a) die Auferlegung von Verpflichtungen zur Meistbegünstigung in Bezug auf Vergünstigungen, die von einer Vertragspartei aufgrund der Steuerbestimmungen in einem in Absatz 7 Buchstabe a Ziffer ii beschriebenen Übereinkommen, Abkommen oder einer dort genannten Vereinbarung gewährt werden oder sich aus der Mitgliedschaft in einer Organisation der regionalen Wirtschaftsintegration ergeben; oder
 - b) eine steuerliche Massnahme zur Sicherstellung der wirksamen Erhebung von Steuern, es sei denn, die Massnahme diskriminiert willkürlich einen Investor einer anderen Vertragspartei oder schränkt die aufgrund der Investitionsbestimmungen dieses Vertrags gewährten Vergünstigungen willkürlich ein.
 
 <sup>(4)</sup> Artikel 29 Absätze 2–8[^21-1] gilt für steuerliche Massnahmen, die nicht das Einkommen oder das Vermögen betreffen.
@@ -495,13 +534,15 @@ Jede Vertragspartei behält sich das Recht vor, die Vorteile aus diesem Teil geg
 
 <sup>(6)</sup> Artikel 14 schränkt das Recht einer Vertragspartei, eine Steuer durch Abzug an der Quelle oder auf andere Weise aufzuerlegen oder einzuziehen, nicht ein.
 
-<sup>(7)</sup> Im Sinne dieses Artikels
+<sup>(7)</sup>
+
+Im Sinne dieses Artikels:
 
 - a)
 
   umfasst der Begriff «steuerliche Massnahme» folgendes:
 
-  - i) jede Steuerbestimmung nach dem innerstaatlichen Recht der Vertragspartei, eines ihrer politischen Teilgebiete oder einer ihrer örtlichen Behörden und
+  - i) jede Steuerbestimmung nach dem innerstaatlichen Recht der Vertragspartei, eines ihrer politischen Teilgebiete oder einer ihrer örtlichen Behörden, und
   - ii) jede Steuerbestimmung eines Abkommens zur Vermeidung der Doppelbesteuerung und einer internationalen Übereinkunft oder sonstigen Vereinbarung, durch welche die Vertragspartei gebunden ist.
 
 - b) Als Steuern vom Einkommen oder vom Vermögen gelten alle Steuern, die vom Gesamteinkommen, vom Gesamtvermögen oder von Teilen des Einkommens oder des Vermögens erhoben werden, einschliesslich der Steuern vom Gewinn aus der Veräusserung von Vermögen, der Steuern von Nachlässen, Erbschaften und Schenkungen oder im wesentlichen ähnlichen Steuern, der Lohnsummensteuern sowie der Steuern vom Vermögenszuwachs.
@@ -538,34 +579,44 @@ Jede Vertragspartei behält sich das Recht vor, die Vorteile aus diesem Teil geg
 
 <sup>(1)</sup> Dieser Artikel findet keine Anwendung auf die Artikel 12, 13 und 29.
 
-<sup>(2)</sup> Die Bestimmungen dieses Vertrags mit Ausnahme
+<sup>(2)</sup>
 
-- a) derjenigen in Absatz 1 und
-- b) in Bezug auf Ziffer i, derjenigen in Teil III dieses Vertrags
+Die Bestimmungen dieses Vertrags mit Ausnahme:
+
+- a) derjenigen in Absatz 1; und
+- b) in Bezug auf Ziffer i, derjenigen in Teil III dieses Vertrags:
 - hindern eine Vertragspartei nicht daran, eine Massnahme zu beschliessen oder durchzusetzen,
   - i) die zum Schutz des Lebens und der Gesundheit von Menschen, Tieren oder Pflanzen notwendig ist,
   - ii) die für den Erwerb oder die Verteilung von Primärenergieträgern und Energieerzeugnissen bei knapper Versorgung aus Gründen wesentlich ist, auf welche die betreffende Vertragspartei keinen Einfluss hat, sofern diese Massnahme den Grundsätzen entspricht,
-    - A) dass alle anderen Vertragsparteien Anspruch auf einen gerechten Anteil an der internationalen Versorgung mit solchen Primärenergieträgern und Energieerzeugnissen haben und
+    - A) dass alle anderen Vertragsparteien Anspruch auf einen gerechten Anteil an der internationalen Versorgung mit solchen Primärenergieträgern und Energieerzeugnissen haben, und
     - B) dass jede derartige Massnahme, die mit diesem Vertrag nicht im Einklang steht, eingestellt wird, sobald die Voraussetzungen, die sie veranlasst haben, nicht mehr vorhanden sind, oder
 
-  - iii) die Investoren, die Ureinwohner oder sozial oder wirtschaftlich benachteiligte Einzelpersonen oder Gruppen sind, oder deren Investitionen begünstigen soll und dem Sekretariat als solche notifiziert wurden, wenn diese Massnahme
-    - A) keine erhebliche Auswirkung auf die Wirtschaft der betreffenden Vertragspartei hat und
+  - iii)
+
+    die Investoren, die Ureinwohner oder sozial oder wirtschaftlich benachteiligte Einzelpersonen oder Gruppen sind, oder deren Investitionen begünstigen soll und dem Sekretariat als solche notifiziert wurden, wenn diese Massnahme:
+
+    - A) keine erhebliche Auswirkung auf die Wirtschaft der betreffenden Vertragspartei hat, und
     - B) keine Diskriminierung zwischen den Investoren einer anderen Vertragspartei und den Investoren der betreffenden Vertragspartei darstellt, die nicht zu den Personen zählen, für welche die Massnahme beabsichtigt ist;
 
 - allerdings darf eine solche Massnahme nicht eine verschleierte Beschränkung der Wirtschaftstätigkeit im Energiebereich oder eine willkürliche oder ungerechtfertigte Diskriminierung zwischen Vertragsparteien oder zwischen Investoren oder anderen Beteiligten von Vertragsparteien darstellen. Die Massnahmen müssen ordnungsgemäss begründet sein und dürfen die Vergünstigungen, die von einer oder mehreren anderen Vertragsparteien zu Recht aus diesem Vertrag erwartet werden dürfen, nicht zunichte machen oder in grösserem Masse beeinträchtigen, als zur Erfüllung des angegebenen Zwecks unbedingt notwendig ist.
 
-<sup>(3)</sup> Die Bestimmungen dieses Vertrags mit Ausnahme derjenigen in Absatz 1 dürfen nicht so ausgelegt werden, als hinderten sie eine Vertragspartei daran, Massnahmen zu treffen, die sie für notwendig hält
+<sup>(3)</sup> Diese Massnahme darf keine verschleierte Einschränkung des Transits sein.
 
-Diese Massnahme darf keine verschleierte Einschränkung des Transits sein.
+Die Bestimmungen dieses Vertrags mit Ausnahme derjenigen in Absatz 1 dürfen nicht so ausgelegt werden, als hinderten sie eine Vertragspartei daran, Massnahmen zu treffen, die sie für notwendig hält:
 
-- a) zum Schutz ihrer wesentlichen Sicherheitsinteressen einschliesslich derjenigen,
-  - i) welche die Versorgung einer militärischen Einrichtung mit Primärenergieträgern und Energieerzeugnissen betreffen oder
+- a)
+
+  zum Schutz ihrer wesentlichen Sicherheitsinteressen einschliesslich derjenigen:
+
+  - i) welche die Versorgung einer militärischen Einrichtung mit Primärenergieträgern und Energieerzeugnissen betreffen, oder
   - ii) welche in Zeiten eines Krieges, eines bewaffneten Konflikts oder einer anderen Notlage in den internationalen Beziehungen getroffen werden;
 
-- b) im Zusammenhang mit der Durchführung der innerstaatlichen Politik der Beachtung der Nichtverbreitung von Kernwaffen oder anderen Kernsprengstoffen, oder die nötig sind, um ihre Verpflichtungen aus dem Vertrag über die Nichtverbreitung von Kernwaffen, den Richtlinien der Gruppe der Nuklearlieferländer und sonstige internationale Nichtverbreitungsverpflichtungen oder -absprachen im Nuklearbereich zu erfüllen oder
+- b) im Zusammenhang mit der Durchführung der innerstaatlichen Politik der Beachtung der Nichtverbreitung von Kernwaffen oder anderen Kernsprengstoffen, oder die nötig sind, um ihre Verpflichtungen aus dem Vertrag über die Nichtverbreitung von Kernwaffen, den Richtlinien der Gruppe der Nuklearlieferländer und sonstige internationale Nichtverbreitungsverpflichtungen oder -absprachen im Nuklearbereich zu erfüllen; oder
 - c) zur Aufrechterhaltung der öffentlichen Ordnung.
 
-<sup>(4)</sup> Die Bestimmungen dieses Vertrags über die Gewährung der Meistbegünstigung dürfen eine Vertragspartei nicht dazu verpflichten, auf die Investoren einer anderen Vertragspartei eine Vorzugsbehandlung zu erstrecken,
+<sup>(4)</sup>
+
+Die Bestimmungen dieses Vertrags über die Gewährung der Meistbegünstigung dürfen eine Vertragspartei nicht dazu verpflichten, auf die Investoren einer anderen Vertragspartei eine Vorzugsbehandlung zu erstrecken:
 
 - a) die aus der Mitgliedschaft der Vertragspartei in einer Freihandelszone oder einer Zollunion herrührt;
 - b) die aufgrund einer zweiseitigen oder mehrseitigen Übereinkunft über die wirtschaftliche Zusammenarbeit zwischen Staaten gewährt wird, welche die ehemalige Union der Sozialistischen Sowjetrepubliken bildeten, solange deren wechselseitigen Wirtschaftsbeziehungen nicht auf eine endgültige Grundlage gestellt sind.
@@ -574,7 +625,7 @@ Diese Massnahme darf keine verschleierte Einschränkung des Transits sein.
 
 **Übereinkünfte über die Wirtschaftsintegration**
 
-<sup>(1)</sup> Dieser Vertrag ist nicht so auszulegen, als verpflichte er eine Vertragspartei, die Vertragspartei einer Übereinkunft über die Wirtschaftsintegration (im folgenden als «EIA» bezeichnet) ist, einer anderen Vertragspartei, die nicht Vertragspartei dieser EIA ist, im Wege der Meistbegünstigungsbehandlung eine Vorzugsbehandlung einzuräumen, die zwischen den Vertragsparteien der EIA gilt, weil sie Vertragsparteien dieser EIA sind.
+<sup>(1)</sup> Dieser Vertrag ist nicht so auszulegen, als verpflichte er eine Vertragspartei, die Vertragspartei einer Übereinkunft über die Wirtschaftsintegration (im Folgenden als «EIA» bezeichnet) ist, einer anderen Vertragspartei, die nicht Vertragspartei dieser EIA ist, im Wege der Meistbegünstigungsbehandlung eine Vorzugsbehandlung einzuräumen, die zwischen den Vertragsparteien der EIA gilt, weil sie Vertragsparteien dieser EIA sind.
 
 <sup>(2)</sup> Im Sinne des Absatzes 1 bedeutet «EIA» eine Übereinkunft, die unter anderem den Handel und die Investitionen erheblich liberalisiert, indem im wesentlichen jede Diskriminierung zwischen oder unter den Vertragsparteien durch die Beseitigung vorhandener diskriminierender Massnahmen und/oder durch das Verbot neuer oder weiterer diskriminierender Massnahmen entweder bei Inkrafttreten der Übereinkunft oder innerhalb einer angemessenen Frist abgeschafft oder beseitigt sein muss.
 
@@ -593,7 +644,7 @@ Diese Massnahme darf keine verschleierte Einschränkung des Transits sein.
 Können solche Streitigkeiten nicht innerhalb von drei Monaten nach dem Zeitpunkt, zu dem eine der Streitparteien um eine gütliche Beilegung ersucht hat, nach Absatz 1 beigelegt werden, so kann der Investor als Streitpartei die Streitigkeit auf folgende Weise beilegen lassen:
 
 - a) durch die Zivil- oder Verwaltungsgerichte der an der Streitigkeit beteiligten Vertragspartei;
-- b) im Einklang mit einem anwendbaren, zuvor vereinbarten Streitbeilegungsverfahren oder
+- b) im Einklang mit einem anwendbaren, zuvor vereinbarten Streitbeilegungsverfahren; oder
 - c) im Einklang mit den folgenden Absätzen.
 - (3) a) Vorbehaltlich nur der Buchstaben b und c erteilt jede Vertragspartei hiermit ihre uneingeschränkte Zustimmung, eine Streitigkeit einem internationalen Schieds- oder Vergleichsverfahren in Übereinstimmung mit diesem Artikel zu unterwerfen.
 - b) i) Die in Anlage ID aufgeführten Vertragsparteien erteilen ihre uneingeschränkte Zustimmung nicht, wenn der Investor die Streitigkeit zuvor bereits nach Absatz 2 Buchstabe a oder b vorgelegt hat.
@@ -605,14 +656,17 @@ Können solche Streitigkeiten nicht innerhalb von drei Monaten nach dem Zeitpunk
 
 Beabsichtigt ein Investor, die Streitigkeit einer Beilegung nach Absatz 2 Buchstabe c zu unterwerfen, so hat er ferner schriftlich seine Zustimmung zu erteilen, damit die Streitigkeit folgenden Stellen vorgelegt werden kann:
 
-- a) i) dem Internationalen Zentrum zur Beilegung von Investitionsstreitigkeiten, das im Rahmen des am 18. März 1965 in Washington zur Unterzeichnung aufgelegten Übereinkommens zur Beilegung von Investitionsstreitigkeiten zwischen Staaten und Angehörigen anderer Staaten[^26-1] (im folgenden als «ICSID-Übereinkommen» bezeichnet) errichtet wurde, falls sowohl die Vertragspartei des Investors als auch die an der Streitigkeit beteiligte Vertragspartei Vertragsparteien des ICSID-Übereinkommens sind, oder
-  - ii) dem Internationalen Zentrum zur Beilegung von Investitionsstreitigkeiten, das im Rahmen des unter Buchstabe a Ziffer i genannten Übereinkommens nach den Regeln über die Zusatzeinrichtung für die Abwicklung von Klagen durch das Sekretariat des Zentrums (im folgenden als «Regeln für die Zusatzeinrichtung» bezeichnet) errichtet wurde, falls die Vertragspartei des Investors oder die an der Streitigkeit beteiligte Vertragspartei, aber nicht beide, Vertragspartei des ICSID-Übereinkommens ist,
+- a) i) dem Internationalen Zentrum zur Beilegung von Investitionsstreitigkeiten, das im Rahmen des am 18. März 1965 in Washington zur Unterzeichnung aufgelegten Übereinkommens zur Beilegung von Investitionsstreitigkeiten zwischen Staaten und Angehörigen anderer Staaten[^26-1] (im Folgenden als «ICSID-Übereinkommen» bezeichnet) errichtet wurde, falls sowohl die Vertragspartei des Investors als auch die an der Streitigkeit beteiligte Vertragspartei Vertragsparteien des ICSID-Übereinkommens sind, oder
+  - ii) dem Internationalen Zentrum zur Beilegung von Investitionsstreitigkeiten, das im Rahmen des unter Buchstabe a Ziffer i genannten Übereinkommens nach den Regeln über die Zusatzeinrichtung für die Abwicklung von Klagen durch das Sekretariat des Zentrums (im Folgenden als «Regeln für die Zusatzeinrichtung» bezeichnet) errichtet wurde, falls die Vertragspartei des Investors oder die an der Streitigkeit beteiligte Vertragspartei, aber nicht beide, Vertragspartei des ICSID-Übereinkommens ist;
 
-- b) einem Einzelschiedsrichter oder einem Ad-hoc-Schiedsgericht, das nach der Schiedsordnung der Kommission der Vereinten Nationen für internationales Handelsrecht (im folgenden als «UNCITRAL» bezeichnet) gebildet wird, oder
+- b) einem Einzelschiedsrichter oder einem Ad-hoc-Schiedsgericht, das nach der Schiedsordnung der Kommission der Vereinten Nationen für internationales Handelsrecht (im Folgenden als «UNCITRAL» bezeichnet) gebildet wird; oder
 - c) einem Schiedsverfahren im Rahmen des Instituts für Schiedsverfahren der Stockholmer Handelskammer.
-- (5) a) Die Zustimmung nach Absatz 3 zusammen mit der schriftlichen Zustimmung des Investors nach Absatz 4 wird so angesehen, als erfülle sie das Erfordernis
+- (5) a)
+
+  Die Zustimmung nach Absatz 3 zusammen mit der schriftlichen Zustimmung des Investors nach Absatz 4 wird so angesehen, als erfülle sie das Erfordernis:
+
   - i) der schriftlichen Zustimmung der Streitparteien im Sinne des Kapitels II des ICSID-Übereinkommens und im Sinne der Regeln für die Zusatzeinrichtung,
-  - ii) einer «schriftlichen Vereinbarung» im Sinne des Artikels II des am 10. Juni 1958 in New York beschlossenen Übereinkommens der Vereinten Nationen über die Anerkennung und Vollstreckung ausländischer Schiedssprüche[^26-2] (im Folgenden als «New-Yorker-Übereinkommen» bezeichnet) und
+  - ii) einer «schriftlichen Vereinbarung» im Sinne des Artikels II des am 10. Juni 1958 in New York beschlossenen Übereinkommens der Vereinten Nationen über die Anerkennung und Vollstreckung ausländischer Schiedssprüche[^26-2] (im Folgenden als «New-Yorker-Übereinkommen» bezeichnet), und
   - iii) einer «schriftlichen Einverständniserklärung der Vertragsparteien» im Sinne des Artikels 1 der UNCITRAL-Schiedsordnung.
 
 - b) Ein Schiedsverfahren nach diesem Artikel findet auf Ersuchen einer der Streitparteien in einem Staat statt, der Vertragspartei des New-Yorker-Übereinkommens ist. Ansprüche, die Gegenstand eines Schiedsverfahrens nach diesem Artikel sind, gelten als aus einer Handelssache oder Transaktion im Sinne des Artikels I jenes Übereinkommens entstanden.
@@ -668,7 +722,7 @@ Eine Streitigkeit zwischen Vertragsparteien über die Anwendung oder Auslegung d
 Änderungen dieser bei oder im Zusammenhang mit der Einfuhr oder Ausfuhr erhobenen Zölle oder sonstigen Abgaben sind dem Sekretariat zu notifizieren; dieses unterrichtet die Vertragsparteien.
 
 - (2) a) Der Handel mit Energieerzeugnissen und energiebezogener Ausrüstung zwischen Vertragsparteien, von denen mindestens eine nicht Mitglied der WTO ist, wird vorbehaltlich des Buchstaben b und der in Anlage W vorgesehenen Ausnahmen und Regeln durch das WTO-Übereinkommen geregelt, wie es in der Praxis von den Mitgliedern der WTO untereinander auf Energieerzeugnisse und energiebezogene Ausrüstung angewandt wird, als seien alle Vertragsparteien Mitglieder der WTO.
-- b) Der Handel einer Vertragspartei, die zu den Nachfolgestaaten der Union der Sozialistischen Sowjetrepubliken gehört, kann statt dessen vorbehaltlich der Anlage TFU bis zum 1. Dezember 1999 oder bis zur Zulassung dieser Vertragspartei zur WTO, wenn dies der frühere Zeitpunkt ist, durch eine Übereinkunft zwischen zwei oder mehr dieser Staaten geregelt werden.
+- b) Der Handel einer Vertragspartei, die zu den Nachfolgestaaten der Union der Sozialistischen Sowjetrepubliken gehört, kann stattdessen vorbehaltlich der Anlage TFU bis zum 1. Dezember 1999 oder bis zur Zulassung dieser Vertragspartei zur WTO, wenn dies der frühere Zeitpunkt ist, durch eine Übereinkunft zwischen zwei oder mehr dieser Staaten geregelt werden.
 - (3) a) Die Unterzeichner dieses Vertrags sowie die Staaten und die Organisationen für regionale wirtschaftliche Integration, die diesem Vertrag vor dem 24. April 1998 beitreten, übergeben dem Sekretariat bei der Unterzeichnung oder bei der Hinterlegung ihrer Beitrittsurkunde eine Liste sämtlicher Zölle und sonstigen Abgaben, die bei oder im Zusammenhang mit der Einfuhr oder Ausfuhr auf Energieerzeugnisse erhoben werden, und notifizieren damit die am Tag der Unterzeichnung oder Hinterlegung geltenden Zoll- und Abgabensätze. Die Unterzeichner dieses Vertrags sowie die Staaten und die Organisationen für regionale wirtschaftliche Integration, die diesem Vertrag vor dem 24. April 1998 beitreten, übergeben dem Sekretariat bei der Unterzeichnung oder bei der Hinterlegung ihrer Beitrittsurkunde eine Liste sämtlicher Zölle und sonstigen Abgaben, die bei oder im Zusammenhang mit der Einfuhr oder Ausfuhr auf energiebezogene Ausrüstung erhoben werden, und notifizieren damit die am Tag der Unterzeichnung oder Hinterlegung geltenden Zoll- und Abgabensätze.
 - b) Die Staaten und die Organisationen für regionale wirtschaftliche Integration, die diesem Vertrag am oder nach dem 24. April 1998 beitreten, übergeben dem Sekretariat bei der Hinterlegung ihrer Beitrittsurkunde eine Liste sämtlicher Zölle und sonstigen Abgaben, die bei oder im Zusammenhang mit der Einfuhr oder Ausfuhr auf Energieerzeugnisse und energiebezogene Ausrüstung erhoben werden, und notifizieren damit die am Tag der Hinterlegung geltenden Zoll- und Abgabensätze.
 
@@ -683,21 +737,21 @@ Die Vertragsparteien bemühen sich, die bei oder im Zusammenhang mit der Einfuhr
 
 Eine Vertragspartei darf die Zölle und sonstigen Abgaben über die in Absatz 4 angegebenen Sätze hinaus nur erhöhen:
 
-- a) sofern dies bei den bei oder im Zusammenhang mit der Einfuhr erhobenen Zöllen und sonstigen Abgaben mit den geltenden Bestimmungen des WTO-Übereinkommens mit Ausnahme der in Anlage W aufgeführten Bestimmungen des WTO-Übereinkommens vereinbar ist oder
+- a) sofern dies bei den bei oder im Zusammenhang mit der Einfuhr erhobenen Zöllen und sonstigen Abgaben mit den geltenden Bestimmungen des WTO-Übereinkommens mit Ausnahme der in Anlage W aufgeführten Bestimmungen des WTO-Übereinkommens vereinbar ist; oder
 - b) sofern sie ihren Vorschlag für die Erhöhung dem Sekretariat soweit wie nach ihrem Gesetzgebungsverfahren praktisch möglich notifiziert, anderen interessierten Vertragsparteien hinreichend Gelegenheit zur Konsultation über den Vorschlag gegeben und die von diesen erhobenen Vorstellungen geprüft hat.
 
 <sup>(6)</sup> Im Handel zwischen Vertragsparteien, von denen mindestens eine nicht Mitglied der WTO ist, erhöht eine solche Vertragspartei die bei oder im Zusammenhang mit der Einfuhr oder Ausfuhr auf die in Anlage EM II aufgeführten Energieerzeugnisse oder die in Anlage EQ II aufgeführte energiebezogene Ausrüstung erhobenen Zölle und sonstigen Abgaben nicht über den niedrigsten Satz hinaus, der an dem Tag gilt, an dem die Chartakonferenz beschliesst, die betreffende Ware in die einschlägige Anlage aufzunehmen.
 
-Eine Vertragspartei darf die Zölle und sonstigen Abgaben über diesen Satz hinaus nur erhöhen,
+Eine Vertragspartei darf die Zölle und sonstigen Abgaben über diesen Satz hinaus nur erhöhen:
 
-- a) sofern dies bei den bei oder im Zusammenhang mit der Einfuhr erhobenen Zöllen und sonstigen Abgaben mit den geltenden Bestimmungen des WTO-Übereinkommens mit Ausnahme der in Anlage W aufgeführten Bestimmungen des WTO-Übereinkommens vereinbar ist oder
+- a) sofern dies bei den bei oder im Zusammenhang mit der Einfuhr erhobenen Zöllen und sonstigen Abgaben mit den geltenden Bestimmungen des WTO-Übereinkommens mit Ausnahme der in Anlage W aufgeführten Bestimmungen des WTO-Übereinkommens vereinbar ist; oder
 - b) sofern die Chartakonferenz in an anderer Stelle in diesem Vertrag nicht geregelten Ausnahmefällen beschliesst, die Vertragspartei von der ihr durch diesen Absatz auferlegten Verpflichtung zu befreien und der Erhöhung eines Zolls unter den von ihr auferlegten Bedingungen zuzustimmen.
 
 <sup>(7)</sup> Abweichend von Absatz 6 erhöhen im Falle der in Anlage EM II aufgeführten Energieerzeugnisse die in Anlage BR aufgeführten Vertragsparteien und im Falle der in Anlage EQ II aufgeführten energiebezogenen Ausrüstung die in Anlage BRQ aufgeführten Vertragsparteien die Zölle und sonstigen Abgaben in dem in Absatz 6 genannten Handel nicht über die sich aus ihren Verpflichtungen im Rahmen des WTO-Übereinkommens oder dessen für sie geltenden Bestimmungen ergebenden Sätze hinaus.
 
 <sup>(8)</sup> Auf die sonstigen Zölle und Abgaben, die bei oder im Zusammenhang mit der Einfuhr oder Ausfuhr auf Energieerzeugnisse oder energiebezogene Ausrüstung erhoben werden, findet die Vereinbarung zur Auslegung des Artikels II Absatz 1 Buchstabe b GATT 1994 in der Fassung der Anlage W Anwendung.
 
-<sup>(9)</sup> Anlage D findet jedoch keine Anwendung auf Streitigkeiten zwischen Vertragsparteien, die im wesentlichen im Rahmen einer Übereinkunft entstehen,
+<sup>(9)</sup>
 
 Anlage D findet Anwendung:
 
@@ -705,7 +759,9 @@ Anlage D findet Anwendung:
 - b) auf Streitigkeiten über die Anwendung einer Massnahme durch eine andere Vertragspartei, durch die nach Ansicht einer Vertragspartei ein ihr aus diesem Artikel unmittelbar oder mittelbar erwachsender Vorteil zunichte gemacht oder verringert wird, ohne Rücksicht auf ihre Vereinbarkeit mit diesem Artikel; und
 - c) sofern die an der Streitigkeit beteiligten Vertragsparteien nichts anderes vereinbaren, auf Streitigkeiten zwischen Vertragsparteien, von denen mindestens eine nicht Mitglied der WTO ist, über die Einhaltung des Artikels 5.
 
-- i) die nach Absatz 2 Buchstabe b und Anlage TFU notifiziert worden ist und deren übrigen Anforderungen gerecht wird, oder
+Anlage D findet jedoch keine Anwendung auf Streitigkeiten zwischen Vertragsparteien, die im wesentlichen im Rahmen einer Übereinkunft entstehen:
+
+- i) die nach Absatz 2 Buchstabe b und Anlage TFU notifiziert worden ist und deren übrigen Anforderungen gerecht wird; oder
 - ii) durch die eine Freihandelszone oder eine Zollunion im Sinne des Artikels XXIV GATT 1994 errichtet wird.
 
 [^29-1]: Fassung gemäss Art. 1 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
@@ -748,14 +804,18 @@ Artikel 22 Absätze 1 und 3.
 
 <sup>(3)</sup> Die anwendbaren Bestimmungen, die Etappen bis zur vollständigen Durchführung jeder von ihnen, die zu treffenden Massnahmen und der Zeitpunkt oder ausnahmsweise der Umstand, bis zu dem jede Etappe abzuschliessen und jede Massnahme zu treffen ist, werden für jede Vertragspartei, die Übergangsvereinbarungen geltend macht, in Anlage T aufgeführt. Jede dieser Vertragsparteien ergreift die angegebene Massnahme zu dem Zeitpunkt, der für die jeweilige Bestimmung und Etappe in Anlage T festgelegt ist. Vertragsparteien, die nach Absatz 1 die vollständige Erfüllung ihrer Verpflichtungen zeitweilig ausgesetzt haben, verpflichten sich, die entsprechenden Verpflichtungen bis zum 1. Juli 2001 vollständig zu erfüllen. Hält eine Vertragspartei es aufgrund aussergewöhnlicher Umstände für notwendig, eine Verlängerung dieser zeitweiligen Aussetzung oder die Aufnahme einer weiteren bis dahin in Anlage T nicht aufgeführten zeitweiligen Aussetzung zu beantragen, so wird der Beschluss über diesen Antrag auf Änderung der Anlage T von der Chartakonferenz gefasst.
 
-<sup>(4)</sup> Eine Vertragspartei, die Übergangsvereinbarungen geltend gemacht hat, notifiziert dem Sekretariat mindestens einmal in zwölf Monaten
+<sup>(4)</sup>
+
+Eine Vertragspartei, die Übergangsvereinbarungen geltend gemacht hat, notifiziert dem Sekretariat mindestens einmal in zwölf Monaten:
 
 - a) die Durchführung einer in Anlage T aufgeführten Massnahme und ihre allgemeinen Fortschritte im Hinblick auf die vollständige Erfüllung ihrer Verpflichtungen;
 - b) die von ihr innerhalb der nächsten zwölf Monate erwarteten Fortschritte im Hinblick auf die vollständige Erfüllung ihrer Verpflichtungen, jedes von ihr vorausgesehene Problem und ihre Vorschläge zu dessen Überwindung;
 - c) das Bedürfnis einer technischen Hilfe, um den Abschluss der Etappen nach Anlage T, die für die vollständige Durchführung dieses Vertrags erforderlich sind, zu erleichtern, oder das unter Buchstabe b festgestellte Problem zu überwinden sowie andere notwendige marktorientierte Reformen und die Modernisierung ihres Energiebereichs zu fördern;
 - d) jedes mögliche Bedürfnis, einen Antrag von der in Absatz 3 genannten Art zu stellen.
 
-<sup>(5)</sup> Das Sekretariat
+<sup>(5)</sup>
+
+Das Sekretariat:
 
 - a) leitet die Notifikationen nach Absatz 4 an alle Vertragsparteien weiter;
 - b) leitet Bedürfnisse und Angebote betreffend technische Hilfe nach Absatz 2 und Absatz 4 Buchstabe c weiter und fördert tatkräftig die Abstimmung zwischen den Bedürfnissen und Angeboten, wobei es sich, soweit zweckmässig, auf vorhandene Regelungen in anderen internationalen Organisationen stützt;
@@ -1077,7 +1137,7 @@ Liste der Vertragsparteien, die ihre Zölle und sonstigen Abgaben nicht über di
 
 \16. Anlage D
 
-Einstweilige Bestimmun)gen über die Beilegung von Handelsstreitigkeiten
+Einstweilige Bestimmungen über die Beilegung von Handelsstreitigkeiten
 
 \17. Anlage B
 
@@ -1113,7 +1173,7 @@ Liste der Unterzeichner, welche die Verpflichtungen zur vorläufigen Anwendung a
 <tr><td></td><td>27.04</td><td colspan="2">Koks und Schwelkoks, aus Steinkohle, Braunkohle oder Torf, auch agglomeriert; Retortenkohle</td></tr>
 <tr><td></td><td>27.05</td><td colspan="2">Steinkohlengas, Wassergas, Generatorgas, Schwachgas und ähnliche Gase, ausgenommen Erdgas und andere gasförmige Kohlenwasserstoffe</td></tr>
 <tr><td></td><td>27.06</td><td colspan="2">Teer aus Steinkohle, aus Braunkohle oder aus Torf und andere Mineralteere, auch entwässert oder teilweise destilliert, einschliesslich rekonstituierte Teere</td></tr>
-<tr><td></td><td>27.07</td><td colspan="2">Öle und andere Erzeugnisse der Destillation des Hochtemperatur-Steinkohlenteers; ähnliche Erzeugnisse, in denen das Gewicht der aromatischen Bestandteile grösser ist als das Gewicht der nichtaromatischen Bestandteile (z. B. Benzol, Tulol, Xylol, Naphtalin, andere Mischungen aromatischer Kohlenwasserstoffe, Phenole, Kreosotöle und andere)</td></tr>
+<tr><td></td><td>27.07</td><td colspan="2">Öle und andere Erzeugnisse der Destillation des Hochtemperatur-Steinkohlenteers; ähnliche Erzeugnisse, in denen das Gewicht der aromatischen Bestandteile grösser ist als das Gewicht der nichtaromatischen Bestandteile (z. B. Benzol, Tulol, Xylol, Naphthalin, andere Mischungen aromatischer Kohlenwasserstoffe, Phenole, Kreosotöle und andere)</td></tr>
 <tr><td></td><td>27.08</td><td colspan="2">Pech und Pechkoks aus Steinkohlenteer oder anderen Mineralteeren</td></tr>
 <tr><td></td><td>27.09</td><td colspan="2">Erdöl und Öl aus bituminösen Mineralien, roh</td></tr>
 <tr><td></td><td>27.10</td><td colspan="2">Erdöl und Öl aus bituminösen Mineralien, ausgenommen rohe Öle</td></tr>
@@ -1178,7 +1238,7 @@ In dieser Anlage bedeutet «Ex», dass die Warenbezeichnung nicht alle Waren der
 <tr><td></td><td></td><td></td><td>– Teile für Öl- und Gasbohrplattformen</td></tr>
 <tr><td></td><td>Ex 73.09</td><td colspan="2">Sammelbehälter, Fässer, Bottiche und ähnliche Behälter, aus Eisen oder Stahl, für Stoffe aller Art (ausgenommen verdichtete oder verflüssigte Gase), mit einem Fassungsvermögen von mehr als 300 l, ohne mechanische oder wärmetechnische Einrichtungen, auch mit Innenauskleidung oder Wärmeschutzverkleidung:</td></tr>
 <tr><td></td><td></td><td>Ex 7309.00</td><td>– für flüssige Stoffe:</td></tr>
-<tr><td></td><td></td><td></td><td>– mit einem Fassungsvermögen von mehr als 1.000.000 l, für [tab] strategische Ölreserven konstruiert</td></tr>
+<tr><td></td><td></td><td></td><td>– mit einem Fassungsvermögen von mehr als 1.000.000 l, für strategische Ölreserven konstruiert</td></tr>
 <tr><td></td><td></td><td></td><td>– mit Wärmeschutzverkleidung</td></tr>
 <tr><td></td><td>Ex 73.11</td><td colspan="2">Behälter aus Eisen oder Stahl, für verdichtete oder verflüssigte Gase:</td></tr>
 <tr><td></td><td></td><td></td><td>– mit einem Fassungsvermögen von mehr als 1.000 l</td></tr>
@@ -1340,7 +1400,7 @@ In dieser Anlage bedeutet «Ex», dass die Warenbezeichnung nicht alle Waren der
 <tr><td></td><td>Ex 85.44</td><td colspan="2">Isolierte (auch lackisolierte oder elektrolytisch oxidierte) Drähte, Kabel (einschliesslich Koaxialkabel) und andere isolierte elektrische Leiter, auch mit Anschlussstücken; Kabel aus optischen, einzeln umhüllten Fasern, auch elektrische Leiter enthaltend oder mit Anschlussstücken versehen:</td></tr>
 <tr><td></td><td></td><td>8544.60</td><td>– andere elektrische Leiter, für eine Spannung von mehr als 1.000 V</td></tr>
 <tr><td></td><td></td><td>8544.70</td><td>– Kabel aus optischen Fasern</td></tr>
-<tr><td></td><td>Ex 85.45</td><td colspan="2">Kohleelektroden, Kohlebürsten, Lampenkohlen, Batterie- und Elementekohlen und andere Waren für elektrotechnische Zwecke, aus Graphit oder anderem Kohlenstoff, auch in Verbindung mit Metall:</td></tr>
+<tr><td></td><td>Ex 85.45</td><td colspan="2">Kohleelektroden, Kohlebürsten, Lampenkohlen, Batterie- und Elementekohlen und andere Waren für elektrotechnische Zwecke, aus Grafit oder anderem Kohlenstoff, auch in Verbindung mit Metall:</td></tr>
 <tr><td></td><td></td><td>8545.20</td><td>– Kohlebürsten</td></tr>
 <tr><td></td><td>85.46</td><td colspan="2">Elektrische Isolatoren aus Stoffen aller Art</td></tr>
 <tr><td></td><td>85.47</td><td colspan="2">Isolierteile, ganz aus Isolierstoffen oder nur mit in die Masse eingepressten einfachen Metallteilen zum Befestigen (z. B. mit eingepressten Hülsen mit Innengewinde), für elektrische Maschinen, Apparate, Geräte oder Installationen, ausgenommen Isolatoren der Position 85.46; Isolierrohre und Verbindungsstücke dazu, aus unedlen Metallen, mit Innenisolierung</td></tr>
@@ -1433,7 +1493,7 @@ In dieser Anlage bedeutet «Ex», dass die Warenbezeichnung nicht alle Waren der
 (nach Art. 1 Abs. 5)
 
 <table>
-<tr><td>27.07</td><td>Öle und andere Erzeugnisse der Destillation des Hochtemperatur-Steinkohlenteers; ähnliche Erzeugnisse, in denen das Gewicht der aromatischen Bestandteile grösser ist als das Gewicht der nichtaromatischen Bestandteile (z.B. Benzol, Toluol, Xylol, Naphtalin, andere Mischungen aromatischer Kohlenwasserstoffe, Phenole, Kreosotöle und andere)</td></tr>
+<tr><td>27.07</td><td>Öle und andere Erzeugnisse der Destillation des Hochtemperatur-Steinkohlenteers; ähnliche Erzeugnisse, in denen das Gewicht der aromatischen Bestandteile grösser ist als das Gewicht der nichtaromatischen Bestandteile (z.B. Benzol, Toluol, Xylol, Naphthalin, andere Mischungen aromatischer Kohlenwasserstoffe, Phenole, Kreosotöle und andere)</td></tr>
 <tr><td>44.01.10</td><td>Brennholz in Form von Rundlingen, Scheiten, Zweigen, Reisigbündeln und ähnlichen Formen</td></tr>
 <tr><td>44.02</td><td>Holzkohle (einschliesslich Kohle aus Schalen oder Nüssen), auch zusammengepresst</td></tr>
 </table>
@@ -1446,32 +1506,32 @@ In dieser Anlage bedeutet «Ex», dass die Warenbezeichnung nicht alle Waren der
 
 (nach Art. 5 Abs. 4)
 
-(1) Jede Vertragspartei notifiziert dem Sekretariat alle handelsbezogenen Investitionsmassnahmen, die sie anwendet und die mit den Bestimmungen des Artikels 5 nicht in Einklang stehen, binnen
+(1) Jede Vertragspartei notifiziert dem Sekretariat alle handelsbezogenen Investitionsmassnahmen, die sie anwendet und die mit den Bestimmungen des Artikels 5 nicht in Einklang stehen, binnen:
 
-- a) 90 Tagen nach Inkrafttreten dieses Vertrags, wenn die Vertragspartei Mitglied der WTO ist, oder
+- a) 90 Tagen nach Inkrafttreten dieses Vertrags, wenn die Vertragspartei Mitglied der WTO ist; oder
 - b) 12 Monate nach Inkrafttreten dieses Vertrages, wenn die Vertragspartei nicht Mitglied der WTO ist.
 
 Handelsbezogene Investitionsmassnahmen mit allgemeinem oder besonderem Anwendungsbereich sind zusammen mit ihren Hauptmerkmalen zu notifizieren.
 
 (2) Im Falle von handelsbezogenen Investitionsmassnahmen, die nach Ermessen angewandt werden, ist jede besondere Anwendung zu notifizieren. Informationen, die berechtigte wirtschaftliche Interessen einzelner Unternehmen berühren, brauchen nicht offen gelegt zu werden.
 
-(3) Jede Vertragspartei hebt alle nach Absatz 1 notifizierten handelsbezogenen Investitionsmassnahmen auf, und zwar binnen
+(3) Jede Vertragspartei hebt alle nach Absatz 1 notifizierten handelsbezogenen Investitionsmassnahmen auf, und zwar binnen:
 
-- a) 2 Jahren nach Inkrafttreten dieses Vertrags, wenn die Vertragspartei Mit- glied der WTO ist, oder
+- a) 2 Jahren nach Inkrafttreten dieses Vertrags, wenn die Vertragspartei Mit- glied der WTO ist; oder
 - b) 3 Jahren nach Inkrafttreten dieses Vertrags, wenn die Vertragspartei nicht Mitglied der WTO ist.
 
 (4) Während des in Absatz 3 genannten Zeitraums ändert eine Vertragspartei die Bedingungen für von ihr nach Absatz 1 notifizierte handelsbezogene Investitionsmassnahmen gegenüber den zum Zeitpunkt des Inkrafttretens dieses Vertrages geltenden Bedingungen nicht dergestalt, dass der Grad der Unvereinbarkeit mit Artikel 5 dieses Vertrags erhöht wird.
 
-(5) Ungeachtet des Absatzes 4 kann eine Vertragspartei, um bestehende Unternehmen, für die eine nach Absatz 1 notifizierte handelsbezogene Investitionsmassnahme gilt, nicht zu benachteiligen, während der Übergangszeit die gleiche handelsbezogene Investitionsmassnahme auf eine neue Investition anwenden,
+(5) Ungeachtet des Absatzes 4 kann eine Vertragspartei, um bestehende Unternehmen, für die eine nach Absatz 1 notifizierte handelsbezogene Investitionsmassnahme gilt, nicht zu benachteiligen, während der Übergangszeit die gleiche handelsbezogene Investitionsmassnahme auf eine neue Investition anwenden:
 
-- a) wenn es sich bei den Waren der betreffenden Investition und denen der bestehenden Unternehmen um gleichartige Waren handelt und
+- a) wenn es sich bei den Waren der betreffenden Investition und denen der bestehenden Unternehmen um gleichartige Waren handelt; und
 - b) wenn eine solche Anwendung notwendig ist, um eine Verzerrung der Wettbewerbsbedingungen zwischen der neuen Investition und den bestehenden Unternehmen zu vermeiden.
 
 Alle solchen für neue Investitionen geltenden handelsbezogenen Investitionsmassnahmen werden dem Sekretariat notifiziert. Die Bedingungen für solche handelsbezogenen Investitionsmassnahmen müssen in ihren Auswirkungen auf die Wettbewerbsfähigkeit den für die bestehenden Unternehmen geltenden Bedingungen entsprechen und zur gleichen Zeit auslaufen.
 
-(6) Tritt ein Staat oder eine Organisation der regionalen Wirtschaftsintegration diesem Vertrag nach dessen Inkrafttreten bei,
+(6) Tritt ein Staat oder eine Organisation der regionalen Wirtschaftsintegration diesem Vertrag nach dessen Inkrafttreten bei:
 
-- a) so ist die in den Absätzen 1 und 2 genannte Notifikation zu dem späteren der nach Absatz 1 anwendbaren Zeitpunkte oder zum Zeitpunkt der Hinterlegung der Beitrittsurkunde vorzunehmen und
+- a) so ist die in den Absätzen 1 und 2 genannte Notifikation zu dem späteren der nach Absatz 1 anwendbaren Zeitpunkte oder zum Zeitpunkt der Hinterlegung der Beitrittsurkunde vorzunehmen; und
 - b) so gilt als Ende der Auslaufphase der spätere der nach Absatz 3 geltenden Zeitpunkte oder der Zeitpunkt, zu dem der Vertrag für den Staat oder die Organisation der regionalen Wirtschaftsintegration in Kraft tritt.
 
 \7. Anlage N[^t-9]
@@ -1572,19 +1632,19 @@ Alle solchen für neue Investitionen geltenden handelsbezogenen Investitionsmass
 
 (nach Art. 27 Abs. 3 Bst. i)
 
-Teil I
+### Teil I
 
 \1. Kanada
 
 \2. Australien
 
-Teil II
+### Teil II
 
-(1) Falls das Gericht in einem Schiedsspruch feststellt, dass eine Massnahme einer regionalen oder örtlichen Regierungs- oder Verwaltungsstelle einer Vertragspartei (im folgenden als «verantwortliche Partei» bezeichnet) einer Bestimmung dieses Vertrags zuwiderläuft, trifft die verantwortliche Partei geeignete ihr zur Verfügung stehende Abhilfemassnahmen, um die Einhaltung des Vertrags bezüglich der Massnahme zu gewährleisten.
+(1) Falls das Gericht in einem Schiedsspruch feststellt, dass eine Massnahme einer regionalen oder örtlichen Regierungs- oder Verwaltungsstelle einer Vertragspartei (im Folgenden als «verantwortliche Partei» bezeichnet) einer Bestimmung dieses Vertrags zuwiderläuft, trifft die verantwortliche Partei geeignete ihr zur Verfügung stehende Abhilfemassnahmen, um die Einhaltung des Vertrags bezüglich der Massnahme zu gewährleisten.
 
 (2) Die verantwortliche Partei notifiziert dem Sekretariat binnen 30 Tagen, nachdem der Schiedsspruch ergangen ist, in schriftlicher Form die von ihr beabsichtigten Schritte zur Einhaltung des Vertrags hinsichtlich der Massnahme. Das Sekretariat legt die Notifikation zum frühestmöglichen Zeitpunkt der Charta-Konferenz vor, und zwar spätestens auf der Tagung der Konferenz, die dem Eingang der Notifikation folgt. Ist es praktisch unmöglich, die Einhaltung des Vertrags sogleich zu gewährleisten, so wird der verantwortlichen Partei hierfür eine angemessene Frist eingeräumt. Die Frist wird von beiden Streitparteien vereinbart. Kommt eine solche Vereinbarung nicht zustande, so schlägt die verantwortliche Partei der Charta-Konferenz eine geeignete Frist zur Genehmigung vor.
 
-(3) Kommt die verantwortliche Partei innerhalb der angemessenen Frist der Einhaltung des Vertrags hinsichtlich der Massnahme nicht nach, so bemüht sie sich auf Antrag der anderen an der Streitigkeit beteiligten Vertragspartei (im folgenden als «geschädigte Partei» bezeichnet) um eine Verständigung mit der geschädigten Partei über eine angemessene Entschädigung, um die Streitigkeit damit zur beiderseitigen Zufriedenheit beizulegen.
+(3) Kommt die verantwortliche Partei innerhalb der angemessenen Frist der Einhaltung des Vertrags hinsichtlich der Massnahme nicht nach, so bemüht sie sich auf Antrag der anderen an der Streitigkeit beteiligten Vertragspartei (im Folgenden als «geschädigte Partei» bezeichnet) um eine Verständigung mit der geschädigten Partei über eine angemessene Entschädigung, um die Streitigkeit damit zur beiderseitigen Zufriedenheit beizulegen.
 
 (4) Ist binnen 20 Tagen nach Antragstellung seitens der geschädigten Partei eine angemessene Entschädigung nicht vereinbart worden, so kann die geschädigte Partei mit Genehmigung der Charta-Konferenz gegenüber der verantwortlichen Partei den Teil ihrer Pflichten aus diesem Vertrag aussetzen, den sie mit den durch die in Frage stehende Massnahme versagten Pflichten für gleichwertig hält, und zwar so lange, bis die Vertragsparteien sich über eine Lösung ihrer Streitigkeit geeinigt haben oder bis die dem Vertrag zuwiderlaufende Massnahme mit dem Vertrag in Einklang gebracht worden ist.
 
@@ -1686,9 +1746,9 @@ Folgende Bestimmungen des WTO-Übereinkommens finden nach Artikel 29 Absatz 2 Bu
 
 <table>
 <tr><td></td><td>1.3</td><td>Allgemeine Bestimmungen</td></tr>
-<tr><td></td><td>10.5</td><td>das Wort «Industrieland-»; die Worte , «französischer oder spanischer» werden durch die Worte «oder russischer» ersetzt</td></tr>
+<tr><td></td><td>10.5</td><td>das Wort «Industrieland-»; die Worte «französischer oder spanischer» werden durch die Worte «oder russischer» ersetzt</td></tr>
 <tr><td></td><td>10.6</td><td>Satzteil «und lenkt die Aufmerksamkeit der Entwicklungsland-Mitglieder auf alle Notifikationen, die Waren von besonderem Interesse für sie betreffen»</td></tr>
-<tr><td></td><td>10.9</td><td>Information über technische Vorschriften, Normen und Konformitätsbewertungsverfahren (Sprachen</td></tr>
+<tr><td></td><td>10.9</td><td>Information über technische Vorschriften, Normen und Konformitätsbewertungsverfahren (Sprachen)</td></tr>
 <tr><td></td><td>11.</td><td>Technische Unterstützung für andere Mitglieder</td></tr>
 <tr><td></td><td>12.</td><td>Besondere und differenzierte Behandlung von Entwicklungsland-Mitgliedern</td></tr>
 <tr><td></td><td>13.</td><td>Ausschuss «Technische Handelshemmnisse»</td></tr>
@@ -1912,15 +1972,15 @@ Folgende Bestimmungen des WTO-Übereinkommens finden nach Artikel 29 Absatz 2 Bu
 
 (1) Jede in Artikel 29 Absatz 2 Buchstabe b genannte Übereinkunft wird in schriftlicher Form dem Sekretariat notifiziert, und zwar von allen oder im Namen aller Vertragsparteien einer solchen Übereinkunft, die den vorliegenden Vertrag unterzeichnen oder ihm beitreten:
 
-- a) für eine Übereinkunft, die drei Monate nach dem Tag in Kraft ist, an dem die erste jener Vertragsparteien einer solchen Übereinkunft den vorliegenden Vertrag unterzeichnet oder ihre Beitrittsurkunde dazu hinterlegt hat, spätestens sechs Monate nach dem Zeitpunkt dieser Unterzeichnung oder Hinterlegung, und
-- b) für eine Übereinkunft, die nach dem unter Buchstabe a genannten Zeitpunkt in Kraft tritt, rechtzeitig vor ihrem Inkrafttreten für andere Staaten oder Organisationen der regionalen Wirtschaftsintegration, die den Vertrag unterzeichnet haben oder ihm beigetreten sind (im folgenden als «interessierte Parteien» bezeichnet), damit diese ausreichend Gelegenheit haben, die Übereinkunft zu prüfen und gegenüber den Vertragsparteien einer solchen Übereinkunft und der Chartakonferenz Stellungnahmen abzugeben, bevor sie in Kraft tritt.
+- a) für eine Übereinkunft, die drei Monate nach dem Tag in Kraft ist, an dem die erste jener Vertragsparteien einer solchen Übereinkunft den vorliegenden Vertrag unterzeichnet oder ihre Beitrittsurkunde dazu hinterlegt hat, spätestens sechs Monate nach dem Zeitpunkt dieser Unterzeichnung oder Hinterlegung; und
+- b) für eine Übereinkunft, die nach dem unter Buchstabe a genannten Zeitpunkt in Kraft tritt, rechtzeitig vor ihrem Inkrafttreten für andere Staaten oder Organisationen der regionalen Wirtschaftsintegration, die den Vertrag unterzeichnet haben oder ihm beigetreten sind (im Folgenden als «interessierte Parteien» bezeichnet), damit diese ausreichend Gelegenheit haben, die Übereinkunft zu prüfen und gegenüber den Vertragsparteien einer solchen Übereinkunft und der Chartakonferenz Stellungnahmen abzugeben, bevor sie in Kraft tritt.
 
-(2) Die Notifikation umfasst
+(2) Die Notifikation umfasst:
 
 - a) Kopien des ursprünglichen Wortlauts der Übereinkunft in allen Sprachen, in denen sie unterzeichnet worden ist;
 - b) unter Bezugnahme auf die Positionen in Anlage EM I eine Beschreibung der speziellen Primärenergieträger und Energieerzeugnisse, auf die sie Anwendung findet;
 - c) eine Erläuterung (getrennt für jede einschlägige Bestimmung des WTO-Übereinkommens, die durch Artikel 29 Absatz 2 Buchstabe a anwendbar werden) der Umstände, die es den Vertragsparteien einer solchen Übereinkunft unmöglich oder undurchführbar machen, der betreffenden Bestimmung in vollem Umfang zu entsprechen;
-- d) die speziellen Massnahmen, die von jeder Vertragspartei einer solchen Übereinkunft zu beschliessen sind, um den unter Buchstabe c genannten Umständen zu begegnen, und
+- d) die speziellen Massnahmen, die von jeder Vertragspartei einer solchen Übereinkunft zu beschliessen sind, um den unter Buchstabe c genannten Umständen zu begegnen; und
 - e) eine Beschreibung der Programme der Vertragsparteien einer solchen Übereinkunft zur fortschreitenden Verringerung und schliesslichen Beseitigung der nichtkonformen Bestimmungen der Übereinkunft.
 
 (3) Die Vertragsparteien einer nach Absatz 1 notifizierten Übereinkunft geben den interessierten Parteien hinreichend Gelegenheit zu Konsultationen mit ihnen über die betreffende Übereinkunft, und sie ziehen deren Stellungnahmen in Betracht. Auf Ersuchen einer der interessierten Parteien wird die Übereinkunft von der Chartakonferenz geprüft; diese kann Empfehlungen dazu beschliessen.
@@ -1955,7 +2015,7 @@ Folgende Bestimmungen des WTO-Übereinkommens finden nach Artikel 29 Absatz 2 Bu
 
 nach Art. 29 Abs. 9
 
-- (1) a) In ihren Beziehungen untereinander bemühen sich die Vertragsparteien nach Kräften, durch Zusammenarbeit und Konsultationen zu einer allseits zufrieden stellenden Lösung von Streitigkeiten über bestehende Massnahmen zu gelangen, welche die Einhaltung der Bestimmungen über den Handel nach Artikel 5 oder 29 erheblich beeinträchtigen könnten, sowie über Massnahmen, die einen einer Vertragspartei aus den nach Artikel 29 anwendbaren Bestimmungen über den Handel unmittelbar oder mittelbar erwachsenden Vorteil zunichte machen oder verringern könnten, sowie über Massnahmen, die einen einer Vertragspartei aus den nach Artikel 29 anwendbaren Bestimmungen über den Handel unmittelbar oder mittelbar erwachsenden Vorteil zunichte machen oder verringern könnten
+- (1) a) In ihren Beziehungen untereinander bemühen sich die Vertragsparteien nach Kräften, durch Zusammenarbeit und Konsultationen zu einer allseits zufrieden stellenden Lösung von Streitigkeiten über bestehende Massnahmen zu gelangen, welche die Einhaltung der Bestimmungen über den Handel nach Artikel 5 oder 29 erheblich beeinträchtigen könnten, sowie über Massnahmen, die einen einer Vertragspartei aus den nach Artikel 29 anwendbaren Bestimmungen über den Handel unmittelbar oder mittelbar erwachsenden Vorteil zunichte machen oder verringern könnten, sowie über Massnahmen, die einen einer Vertragspartei aus den nach Artikel 29 anwendbaren Bestimmungen über den Handel unmittelbar oder mittelbar erwachsenden Vorteil zunichte machen oder verringern könnten.
 - b) Eine Vertragspartei kann jede andere Vertragspartei schriftlich um Konsultationen über jede bestehende Massnahme der anderen Vertragspartei ersuchen, die ihrer Ansicht nach die Einhaltung der Bestimmungen über den Handel nach Artikel 5 oder 29 erheblich beeinträchtigen könnte, sowie über jede Massnahme, die einen einer Vertragspartei aus den nach Artikel 29 anwendbaren Bestimmungen über den Handel unmittelbar oder mittelbar erwachsenden Vorteil zunichte machen oder verringern könnte. Eine Vertragspartei, die um Konsultationen ersucht, bezeichnet die beanstandete Massnahme so ausführlich wie möglich und nennt die ihrer Ansicht nach massgeblichen Bestimmungen des Artikels 5 oder 29 und des WTO-Übereinkommens. Das Konsultationsersuchen aufgrund dieses Absatzes ist dem Sekretariat zu notifizieren, das die Vertragsparteien regelmässig von den notifizierten Konsultationsersuchen unterrichtet.
 - c) Eine Vertragspartei behandelt vertrauliche oder gesetzlich geschützte Informationen, die als solche gekennzeichnet und in einem schriftlichen Ersuchen enthalten sind oder in Beantwortung eines schriftlichen Ersuchens eingehen oder die ihr im Verlauf von Konsultationen zur Kenntnis gelangen, in der gleichen Weise, wie sie von der Vertragspartei, welche die Informationen liefert, behandelt werden.
 - d) Bei der Suche nach der Lösung von Angelegenheiten, die sich nach Ansicht einer Vertragspartei auf die Einhaltung der auf den Handel anwendbaren Bestimmungen des Artikels 5 oder 29 zwischen ihr und einer anderen Vertragspartei auswirken oder einen ihr aus den nach Artikel 29 anwendbaren Bestimmungen über den Handel unmittelbar oder mittelbar erwachsenden Vorteil zunichte machen oder verringern, bemühen sich die an Konsultationen oder an einer anderen Streitbeilegung beteiligten Vertragsparteien nach Kräften, eine Lösung zu vermeiden, die den Handel einer anderen Vertragspartei beeinträchtigt.
@@ -2341,7 +2401,7 @@ Geschehen zu Lissabon am 17. Dezember 1994.
 
 Die im Zusammenhang mit der Annahme dieser Änderung angenommenen Beschlüsse sind Bestandteil des Vertrags über die Energiecharta.
 
-Geltungsbereich am 11. April 2024[^t-22]
+Geltungsbereich am 24. Juli 2025[^t-22]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -2352,10 +2412,7 @@ Geltungsbereich am 11. April 2024[^t-22]
 <tr><td>Belgien</td><td>8. Mai</td><td>1998</td><td>6. August</td><td>1998</td></tr>
 <tr><td>Bosnien und Herzegowina</td><td>17. Mai</td><td>2001</td><td>16. August</td><td>2001</td></tr>
 <tr><td>Bulgarien</td><td>15. November</td><td>1996</td><td>16. April</td><td>1998</td></tr>
-<tr><td>Dänemark</td><td>16. Dezember</td><td>1997</td><td>16. April</td><td>1998</td></tr>
 <tr><td>Estland</td><td>4. Mai</td><td>1998</td><td>2. August</td><td>1998</td></tr>
-<tr><td>Europäische Atomgemeinschaft (Euratom)</td><td>16. Dezember</td><td>1997</td><td>16. April</td><td>1998</td></tr>
-<tr><td>Europäische Union (EU)</td><td>16. Dezember</td><td>1997</td><td>16. April</td><td>1998</td></tr>
 <tr><td>Finnland</td><td>16. Dezember</td><td>1997</td><td>16. April</td><td>1998</td></tr>
 <tr><td>Georgien</td><td>12. Juli</td><td>1995</td><td>16. April</td><td>1998</td></tr>
 <tr><td>Griechenland</td><td>4. September</td><td>1997</td><td>16. April</td><td>1998</td></tr>
@@ -2374,14 +2431,12 @@ Geltungsbereich am 11. April 2024[^t-22]
 <tr><td>Moldau</td><td>22. Juni</td><td>1996</td><td>16. April</td><td>1998</td></tr>
 <tr><td>Mongolei</td><td>19. November</td><td>1999 B</td><td>17. Februar</td><td>2000</td></tr>
 <tr><td>Montenegro</td><td>8. September</td><td>2015 B</td><td>7. Dezember</td><td>2015</td></tr>
-<tr><td>Niederlande</td><td>16. Dezember</td><td>1997</td><td>16. April</td><td>1998</td></tr>
 <tr><td>Nordmazedonien</td><td>27. März</td><td>1998 B</td><td>25. Juni</td><td>1998</td></tr>
 <tr><td>Österreich</td><td>16. Dezember</td><td>1997</td><td>16. April</td><td>1998</td></tr>
 <tr><td>Rumänien</td><td>12. August</td><td>1997</td><td>16. April</td><td>1998</td></tr>
 <tr><td>Schweden</td><td>16. Dezember</td><td>1997</td><td>16. April</td><td>1998</td></tr>
 <tr><td>Schweiz</td><td>19. September</td><td>1996</td><td>16. April</td><td>1998</td></tr>
 <tr><td>Slowakei</td><td>16. Oktober</td><td>1995</td><td>16. April</td><td>1998</td></tr>
-<tr><td>Spanien</td><td>16. Dezember</td><td>1997</td><td>16. April</td><td>1998</td></tr>
 <tr><td>Tadschikistan</td><td>25. Juni</td><td>1997</td><td>16. April</td><td>1998</td></tr>
 <tr><td>Tschechische Republik</td><td>17. Juni</td><td>1996</td><td>16. April</td><td>1998</td></tr>
 <tr><td>Türkei</td><td>5. April</td><td>2001</td><td>4. Juli</td><td>2001</td></tr>
@@ -2389,10 +2444,7 @@ Geltungsbereich am 11. April 2024[^t-22]
 <tr><td>Ukraine</td><td>29. Oktober</td><td>1998</td><td>27. Januar</td><td>1999</td></tr>
 <tr><td>Ungarn</td><td>8. April</td><td>1998</td><td>7. Juli</td><td>1998</td></tr>
 <tr><td>Usbekistan</td><td>12. März</td><td>1996</td><td>16. April</td><td>1998</td></tr>
-<tr><td>Vereinigtes Königreich</td><td>16. Dezember</td><td>1997</td><td>16. April</td><td>1998</td></tr>
-<tr><td>[tab] Insel Man</td><td>16. Dezember</td><td>1997</td><td>16. April</td><td>1998</td></tr>
-<tr><td>[tab] Jersey</td><td>16. Dezember</td><td>1997</td><td>16. April</td><td>1998</td></tr>
 <tr><td>Zypern</td><td>16. Januar</td><td>1998</td><td>16. April</td><td>1998</td></tr>
 </table>
 
-[^t-22]: [AS 1998 2734](https://fedlex.data.admin.ch/eli/oc/1998/2734_2734_2734); [2002 3837](https://fedlex.data.admin.ch/eli/oc/2002/588); [2006 4645](https://fedlex.data.admin.ch/eli/oc/2006/703); [2024 158](https://fedlex.data.admin.ch/eli/oc/2024/158). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)
+[^t-22]: [AS 1998 2734](https://fedlex.data.admin.ch/eli/oc/1998/2734_2734_2734); [2002 3837](https://fedlex.data.admin.ch/eli/oc/2002/588); [2006 4645](https://fedlex.data.admin.ch/eli/oc/2006/703); [2024 158](https://fedlex.data.admin.ch/eli/oc/2024/158); [2025 482](https://fedlex.data.admin.ch/eli/oc/2025/482). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

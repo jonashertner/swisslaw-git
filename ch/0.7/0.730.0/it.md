@@ -3,26 +3,28 @@ sr: "0.730.0"
 title: "Trattato del 17 dicembre 1994 sulla Carta dell'energia (con allegati, decisioni e atto finale)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734"
 language: it
-version: 2024-12-03
+version: 2025-07-24
 adopted: 1994-12-17
 in_force: 1998-04-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734/20241203/it/xml/fedlex-data-admin-ch-eli-cc-1998-2734_2734_2734-20241203-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2734_2734_2734/20241203/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734/20250724/it/xml/fedlex-data-admin-ch-eli-cc-1998-2734_2734_2734-20250724-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2734_2734_2734/20250724/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Trattato sulla Carta dell’energia
 
+RU **1998** 2734; FF **1995** III 833
+
 Testo originale
 
 Concluso a Lisbona il 17 dicembre 1994 Approvato dall’Assemblea federale il 14 dicembre 1995[^t-1] Ratificato dalla Svizzera con strumento depositato il 19 settembre 1996 Entrato in vigore per la Svizzera il 16 aprile 1998
 
-(Stato 3 dicembre 2024)
+(Stato 24 luglio 2025)
 
-[^t-1]: RU **1998** 2734 RU **1998** 2733
+[^t-1]: [RU 1998 2733](https://fedlex.data.admin.ch/eli/oc/1998/2733_2733_2733)
 
-Preambolo,
+*Preambolo,*
 
 Le Parti contraenti del presente Trattato,
 
@@ -78,7 +80,7 @@ Si applicano, nel presente Trattato, le seguenti definizioni:
 - 2) «Parte contraente»: uno Stato o un’organizzazione regionale di integrazione economica che hanno accettato di essere vincolati dal presente Trattato e per cui il Trattato è in vigore.
 - 3) «Organizzazione regionale di integrazione economica»: un’organizzazione costituita da Stati cui essi hanno trasferito competenze su determinate materie, alcune delle quali sono disciplinate dal presente Trattato, compresa la facoltà di adottare decisioni per essi vincolanti relativamente a dette materie.
 - 4)[^1-1] «Materiali e prodotti energetici», sulla base del sistema armonizzato dell’Organizzazione mondiale delle dogane e della nomenclatura combinata delle Comunità europee, le voci che figurano negli allegati EM I o EM II.
-- [tab] 4<sup>bis</sup>)[^1-2] «Attrezzature del settore energetico», sulla base del sistema armonizzato dell’Organizzazione mondiale delle dogane e della nomenclatura combinata delle Comunità europee, le voci che figurano negli allegati EQ I o EQ II.
+- 4<sup>bis</sup>)[^1-2] «Attrezzature del settore energetico», sulla base del sistema armonizzato dell’Organizzazione mondiale delle dogane e della nomenclatura combinata delle Comunità europee, le voci che figurano negli allegati EQ I o EQ II.
 - 5) «Attività economica nel settore dell’energia»: un’attività economica riguardante le attività di esplorazione, estrazione, raffinazione, produzione, immagazzinamento, trasporto terrestre, trasmissione, distribuzione, commercio, marketing o vendita di materiali e prodotti energetici, tranne quelli di cui all’allegato Nl o riguardanti la distribuzione del calore ad una pluralità di immobili.
 - 6)
 
@@ -1057,79 +1059,79 @@ Fatto a Lisbona il giorno diciassette del mese di dicembre dell’anno millenove
 
 Indice degli allegati[^t-2]
 
-**1. Allegato EM I**
+\1. Allegato EM I
 
 Materiali e prodotti energetici
 
-**2. Allegato EM II**
+\2. Allegato EM II
 
 Materiali e prodotti energetici
 
-**3. Allegato EQ I**
+\3. Allegato EQ I
 
 Elenco delle attrezzature del settore energetico
 
-**4. Allegato EQ II**
+\4. Allegato EQ II
 
 Elenco delle attrezzature del settore energetico
 
-**5. Allegato NI**
+\5. Allegato NI
 
 Materiali e prodotti energetici non ricompresi nella definizione di «attività economica nel settore dell’energia»
 
-**6. Allegato TRM**
+\6. Allegato TRM
 
 Notifica e soppressione (TRIM)
 
-**7. Allegato N**
+\7. Allegato N
 
 Elenco delle Parti contraenti che chiedono almeno 3 aree distinte interessate ad un transito
 
-**8. Allegato VC**
+\8. Allegato VC
 
 Elenco delle Parti contraenti che hanno assunto impegni volontari vincolanti con riferimento all’articolo 10, paragrafo 3
 
-**9. Allegato ID**
+\9. Allegato ID
 
 Elenco delle Parti contraenti che non consentono ad un investitore di sottoporre la stessa controversia all’arbitrato internazionale in una fase successiva, ai sensi dell’articolo 26
 
-**10. Allegato IA**
+\10. Allegato IA
 
 Elenco delle Parti contraenti che non consentono ad un investitore o parte contraente di sottoporre ad arbitrato internazionale una controversia riguardante l’ultima frase dell’articolo 10, paragrafo 1
 
-**11. Allegato P**
+\11. Allegato P
 
 Procedura speciale per le controversie a livello territoriale
 
-**12. Allegato W**
+\12. Allegato W
 
 Eccezioni e norme che disciplinano l’applicazione delle disposizioni dell’accordo OMC
 
-**13. Allegato TFU**
+\13. Allegato TFU
 
 Disposizioni riguardanti gli accordi commerciali tra Stati che erano parti costituenti dell’ex Unione delle Repubbliche socialiste sovietiche
 
-**14. Allegato BR**
+\14. Allegato BR
 
 Elenco delle parti contraenti che non possono aumentare i dazi doganali o gli altri oneri oltre il livello risultante dai loro impegni o da disposizioni loro applicabili ai sensi dell’accordo OMC
 
-**15. Allegato BRQ**
+\15. Allegato BRQ
 
 Elenco delle parti contraenti che non possono aumentare i dazi doganali o gli altri oneri oltre il livello risultante dai loro impegni o da disposizioni loro applicabili ai sensi dell’accordo OMC
 
-**16. Allegato D**
+\16. Allegato D
 
 Disposizioni transitorie per la risoluzione di controversie commerciali
 
-**17. Allegato B**
+\17. Allegato B
 
 Formula per la ripartizione dei costi della carta
 
-**18. Allegato PA**
+\18. Allegato PA
 
 Elenco dei firmatari che non accettano l’obbligo di applicazione provvisoria dell’articolo 45, paragrafo 3, lettera b)
 
-**19. Allegato T**
+\19. Allegato T
 
 Misure transitorie delle Parti contraenti
 
@@ -1609,7 +1611,7 @@ Qualsiasi misura relativa agli investimenti che incide sugli scambi commerciali,
 
 [^t-13]: Originario all. n. 8
 
-(ai sensi dell’articolo 27, paragrafo 3, punto i))
+(ai sensi dell’articolo 27, paragrafo 3, punto i)
 
 ### Parte I
 
@@ -2387,7 +2389,7 @@ Fatto a Lisbona il diciassettesimo giorno del mese di dicembre dell’anno mille
 
 Le decisioni adottate in relazione all’adozione della presente modifica costituiscono parte integrante del trattato sulla Carta dell’energia.
 
-Campo d’applicazione l’11 aprile 2024[^t-22]
+Campo d’applicazione il 24 luglio 2025[^t-22]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -2401,9 +2403,7 @@ Campo d’applicazione l’11 aprile 2024[^t-22]
 <tr><td>Bulgaria</td><td>15 novembre</td><td>1996</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Ceca, Repubblica</td><td>17 giugno</td><td>1996</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Cipro</td><td>16 gennaio</td><td>1998</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td>Comunità Europea dell’Energia Atomica (Euratom)</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Croazia</td><td>9 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td>Danimarca</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Estonia</td><td>4 maggio</td><td>1998</td><td>2 agosto</td><td>1998</td></tr>
 <tr><td>Finlandia</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Georgia</td><td>12 luglio</td><td>1995</td><td>16 aprile</td><td>1998</td></tr>
@@ -2422,13 +2422,8 @@ Campo d’applicazione l’11 aprile 2024[^t-22]
 <tr><td>Moldova</td><td>22 giugno</td><td>1996</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Mongolia</td><td>19 novembre</td><td>1999 A</td><td>17 febbraio</td><td>2000</td></tr>
 <tr><td>Montenegro</td><td>8 settembre</td><td>2015 A</td><td>7 dicembre</td><td>2015</td></tr>
-<tr><td>Paesi Bassi</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td>Regno Unito</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td>Isola di Man</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td>Jersey</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Romania</td><td>12 agosto</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Slovacchia</td><td>16 ottobre</td><td>1995</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td>Spagna</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Svezia</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Svizzera</td><td>19 settembre</td><td>1996</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Tagikistan</td><td>25 giugno</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
@@ -2436,9 +2431,8 @@ Campo d’applicazione l’11 aprile 2024[^t-22]
 <tr><td>Turkmenistan</td><td>17 luglio</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Ucraina</td><td>29 ottobre</td><td>1998</td><td>27 gennaio</td><td>1999</td></tr>
 <tr><td>Ungheria</td><td>8 aprile</td><td>1998</td><td>7 luglio</td><td>1998</td></tr>
-<tr><td>Unione europea (UE)</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Uzbekistan</td><td>12 marzo</td><td>1996</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Yemen</td><td>31 ottobre</td><td>2018 A</td><td>29 gennaio</td><td>2019</td></tr>
 </table>
 
-[^t-22]: [RU 1998 2734](https://fedlex.data.admin.ch/eli/oc/1998/2734_2734_2734); [2002 3837](https://fedlex.data.admin.ch/eli/oc/2002/588); [2006 4645](https://fedlex.data.admin.ch/eli/oc/2006/703); [2024 158](https://fedlex.data.admin.ch/eli/oc/2024/158). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
+[^t-22]: [RU 1998 2734](https://fedlex.data.admin.ch/eli/oc/1998/2734_2734_2734); [2002 3837](https://fedlex.data.admin.ch/eli/oc/2002/588); [2006 4645](https://fedlex.data.admin.ch/eli/oc/2006/703); [2024 158](https://fedlex.data.admin.ch/eli/oc/2024/158); [2025 482](https://fedlex.data.admin.ch/eli/oc/2025/482). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)

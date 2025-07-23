@@ -3,11 +3,11 @@ sr: "0.730.0"
 title: "Traité du 17 décembre 1994 sur la Charte de l'énergie (avec annexes, décisions et acte final)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734"
 language: fr
-version: 2024-12-03
+version: 2025-07-24
 adopted: 1994-12-17
 in_force: 1998-04-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734/20241203/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2734_2734_2734-20241203-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2734_2734_2734/20241203/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734/20250724/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2734_2734_2734-20250724-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2734_2734_2734/20250724/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclu à Lisbonne le 17 décembre 1994 Approuvé par l’Assemblée fédérale le 14 décembre 1995[^t-1] Instrument de ratification déposé par la Suisse le 19 septembre 1996 Entré en vigueur pour la Suisse le 16 avril 1998
 
-(État le 3 décembre 2024)
+(État le 24 juillet 2025)
 
 [^t-1]: [RO 1998 2733](https://fedlex.data.admin.ch/eli/oc/1998/2733_2733_2733)
 
@@ -2357,7 +2357,7 @@ Fait à Lisbonne, le 17 décembre 1994.
 
 Les décisions adoptées en liaison avec l’adoption de la présente modification font partie intégrante du traité sur la Charte de l’énergie.
 
-Champ d’application le 11 avril 2024[^t-21]
+Champ d’application le 24 juillet 2025[^t-21]
 
 <table>
 <tr><th>États parties</th><th colspan="2">Ratification Adhésion (A)</th><th colspan="2">Entrée en vigueur</th></tr>
@@ -2370,10 +2370,7 @@ Champ d’application le 11 avril 2024[^t-21]
 <tr><td>Bosnie et Herzégovine</td><td>17 mai</td><td>2001</td><td>16 août</td><td>2001</td></tr>
 <tr><td>Bulgarie</td><td>15 novembre</td><td>1996</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Chypre</td><td>16 janvier</td><td>1998</td><td>16 avril</td><td>1998</td></tr>
-<tr><td>Communauté européenne de l’énergie atomique (Euratom)</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Croatie</td><td>9 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
-<tr><td>Danemark</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
-<tr><td>Espagne</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Estonie</td><td>4 mai</td><td>1998</td><td>2 août</td><td>1998</td></tr>
 <tr><td>Finlande</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Géorgie</td><td>12 juillet</td><td>1995</td><td>16 avril</td><td>1998</td></tr>
@@ -2394,12 +2391,8 @@ Champ d’application le 11 avril 2024[^t-21]
 <tr><td>Mongolie</td><td>19 novembre</td><td>1999 A</td><td>17 février</td><td>2000</td></tr>
 <tr><td>Monténégro</td><td>8 septembre</td><td>2015 A</td><td>7 décembre</td><td>2015</td></tr>
 <tr><td>Ouzbékistan</td><td>12 mars</td><td>1996</td><td>16 avril</td><td>1998</td></tr>
-<tr><td>Pays-Bas</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>République tchèque</td><td>17 juin</td><td>1996</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Roumanie</td><td>12 août</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
-<tr><td>Royaume-Uni</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
-<tr><td>Île de Man</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
-<tr><td>Jersey</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Slovaquie</td><td>16 octobre</td><td>1995</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Suède</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Suisse</td><td>19 septembre</td><td>1996</td><td>16 avril</td><td>1998</td></tr>
@@ -2407,8 +2400,7 @@ Champ d’application le 11 avril 2024[^t-21]
 <tr><td>Turkménistan</td><td>17 juillet</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Turquie</td><td>5 avril</td><td>2001</td><td>4 juillet</td><td>2001</td></tr>
 <tr><td>Ukraine</td><td>29 octobre</td><td>1998</td><td>27 janvier</td><td>1999</td></tr>
-<tr><td>Union européenne (UE)</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Yémen</td><td>31 octobre</td><td>2018 A</td><td>29 janvier</td><td>2019</td></tr>
 </table>
 
-[^t-21]: [RO 1998 2734](https://fedlex.data.admin.ch/eli/oc/1998/2734_2734_2734); [2002 3837](https://fedlex.data.admin.ch/eli/oc/2002/588); [2006 4645](https://fedlex.data.admin.ch/eli/oc/2006/703); [2024 158](https://fedlex.data.admin.ch/eli/oc/2024/158). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
+[^t-21]: [RO 1998 2734](https://fedlex.data.admin.ch/eli/oc/1998/2734_2734_2734); [2002 3837](https://fedlex.data.admin.ch/eli/oc/2002/588); [2006 4645](https://fedlex.data.admin.ch/eli/oc/2006/703); [2024 158](https://fedlex.data.admin.ch/eli/oc/2024/158); [2025 482](https://fedlex.data.admin.ch/eli/oc/2025/482). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
