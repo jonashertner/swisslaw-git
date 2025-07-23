@@ -3,11 +3,11 @@ sr: "0.730.01"
 title: Energiechartaprotokoll vom 17. Dezember 1994 über Energieeffizienz und damit verbundene Umweltaspekte
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2816_2816_2816"
 language: de
-version: 2024-04-11
+version: 2025-07-24
 adopted: 1994-12-17
 in_force: 1998-04-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2816_2816_2816/20240411/de/xml/fedlex-data-admin-ch-eli-cc-1998-2816_2816_2816-20240411-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2816_2816_2816/20240411/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2816_2816_2816/20250724/de/xml/fedlex-data-admin-ch-eli-cc-1998-2816_2816_2816-20250724-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2816_2816_2816/20250724/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1998** 2816
 
 Abgeschlossen in Lissabon am 17. Dezember 1994 Von der Bundesversammlung genehmigt am 14. Dezember 1995[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 19. September 1996 In Kraft getreten für die Schweiz am 16. April 1998
 
-(Stand am 11. April 2024)
+(Stand am 24. Juli 2025)
 
 [^t-1]: [AS 1998 2815](https://fedlex.data.admin.ch/eli/oc/1998/2815_2815_2815)
 
@@ -58,17 +58,19 @@ sind wie folgt übereingekommen:
 
 <sup>(1)</sup> Dieses Protokoll legt Grundsätze für die Politik zur Förderung der Energieeffizienz als wesentliche Energiequelle und zur hieraus folgenden Verringerung schädlicher Umwelteinflüsse von Energiesystemen fest. Des Weiteren dient es als Orientierung für die Entwicklung von Energieeffizienzprogrammen, nennt Bereiche der Zusammenarbeit und schafft einen Rahmen für die Entwicklung gemeinsamer und koordinierter Massnahmen. Diese Massnahmen können die Erkundung, Aufsuchung, Produktion, Umwandlung, Lagerung, Beförderung, Verteilung und den Verbrauch von Energie in allen Wirtschaftszweigen einschliessen.
 
-<sup>(2)</sup> Die Ziele dieses Protokolls sind
+<sup>(2)</sup>
+
+Die Ziele dieses Protokolls sind:
 
 - a) die Förderung der Effizienzpolitik im Einklang mit nachhaltiger Entwicklung;
-- b) die Schaffung von Rahmenbedingungen, die Produzenten und Verbraucher dazu bewegen, Energie so sparsam, effizient und umweltfreundlich wie möglich zu nutzen, insbesondere durch die Schaffung effizienter Energiemärkte und eine umfassendere Einbeziehung von Umweltkosten und -nutzen, und
+- b) die Schaffung von Rahmenbedingungen, die Produzenten und Verbraucher dazu bewegen, Energie so sparsam, effizient und umweltfreundlich wie möglich zu nutzen, insbesondere durch die Schaffung effizienter Energiemärkte und eine umfassendere Einbeziehung von Umweltkosten und -nutzen; und
 - c) die Förderung der Zusammenarbeit auf dem Gebiet der Energieeffizienz.
 
 #### Art. 2
 
 **Begriffsbestimmungen**
 
-Im Sinne dieses Protokolls
+Im Sinne dieses Protokolls:
 
 - 1\. bedeutet «Charta» die im Abschlussdokument der Haager Konferenz über die Europäische Energiecharta angenommene Europäische Energiecharta, das am 17. Dezember 1991 in Den Haag unterzeichnet wurde; die Unterzeichnung des Abschlussdokuments gilt als Unterzeichnung der Charta;
 - 2\. bedeutet «Vertragspartei» einen Staat oder eine Organisation der regionalen Wirtschaftsintegration, die zugestimmt haben, durch dieses Protokoll gebunden zu sein und für die das Protokoll in Kraft ist;
@@ -96,7 +98,7 @@ Die Vertragsparteien erarbeiten Energieeffizienzpolitiken und angemessene rechtl
 - b) den Abbau von Hemmnissen, die der effizienten Nutzung von Energie entgegenstehen, um auf diese Weise Investitionen anzuregen;
 - c) Mechanismen zur Finanzierung von Energieeffizienzinitiativen;
 - d) Bildung und Bewusstseinsbildung;
-- e) Verbreitung und Transfer von Technologien und
+- e) Verbreitung und Transfer von Technologien; und
 - f) Transparenz gesetzlicher und verwaltungsrechtlicher Rahmenbedingungen.
 
 <sup>(3)</sup> Die Vertragsparteien sind bestrebt, im gesamten Energiekreislauf den vollen Nutzen der Energieeffizienz zu erreichen. Zu diesem Zweck werden sie nach bestem Vermögen kostengünstige und wirtschaftlich effiziente Energieeffizienzpolitiken und gemeinsame und koordinierte Massnahmen ausarbeiten und umsetzen, wobei sie Umweltaspekten gebührend Rechnung tragen.
@@ -202,7 +204,7 @@ Beschlüsse über Haushaltsfragen werden mit der qualifizierten Mehrheit der Ver
 
 Für Beschlüsse ist Einstimmigkeit der auf der Sitzung der Chartakonferenz anwesenden und abstimmenden Vertragsparteien in folgenden Angelegenheiten erforderlich:
 
-- a) Annahme von Änderungen dieses Protokolls und
+- a) Annahme von Änderungen dieses Protokolls; und
 - b) Genehmigung von Beitritten zu diesem Protokoll nach Artikel 16.
 
 <sup>(2)</sup> Im Sinne dieses Artikels bedeutet «anwesende und abstimmende Vertragsparteien» die Anwesenden und mit Ja oder Nein stimmenden Vertragsparteien dieses Protokolls; die Chartakonferenz kann allerdings eine Geschäftsordnung beschliessen, wonach die Vertragsparteien solche Beschlüsse auch auf dem Korrespondenzweg fassen können.
@@ -386,7 +388,7 @@ Finanzierung:
 - – Gemeinschaftsunternehmen (Joint-Ventures);
 - – Mitfinanzierung.
 
-Geltungsbereich am 11. April 2024[^t-2]
+Geltungsbereich am 24. Juli 2025[^t-2]
 
 <table>
 <tr><th colspan="2">Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th colspan="2"></th><th>Inkrafttreten</th><th></th></tr>
@@ -397,9 +399,6 @@ Geltungsbereich am 11. April 2024[^t-2]
 <tr><td colspan="2">Belgien</td><td>8. Mai</td><td colspan="2">1998</td><td>7. Juni</td><td>1998</td></tr>
 <tr><td colspan="2">Bosnien und Herzegowina</td><td>17. Mai</td><td colspan="2">2001</td><td>16. August</td><td>2001</td></tr>
 <tr><td colspan="2">Bulgarien</td><td>15. November</td><td colspan="2">1996</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="2">Dänemark</td><td>16. Dezember</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="2">Europäische Atomgemeinschaft (Euratom)</td><td>16. Dezember</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="2">Europäische Union (EU)</td><td>16. Dezember</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
 <tr><td colspan="2">Estland</td><td>4. Mai</td><td colspan="2">1998</td><td>3. Juni</td><td>1998</td></tr>
 <tr><td colspan="2">Finnland</td><td>16. Dezember</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
 <tr><td colspan="2">Georgien</td><td>27. April</td><td colspan="2">2004</td><td>27. Mai</td><td>2004</td></tr>
@@ -417,14 +416,12 @@ Geltungsbereich am 11. April 2024[^t-2]
 <tr><td colspan="2">Moldau</td><td>22. Juni</td><td colspan="2">1996</td><td>16. April</td><td>1998</td></tr>
 <tr><td colspan="2">Mongolei</td><td>19. November</td><td colspan="2">1999 B</td><td>19. März</td><td>2000</td></tr>
 <tr><td colspan="2">Montenegro</td><td>10. November</td><td colspan="2">2015 B</td><td>10. Dezember</td><td>2015</td></tr>
-<tr><td colspan="2">Niederlande</td><td>16. Dezember</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
 <tr><td colspan="2">Nordmazedonien</td><td>1. September</td><td colspan="2">1998 B</td><td>1. Oktober</td><td>1998</td></tr>
 <tr><td colspan="2">Österreich</td><td>16. Dezember</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
 <tr><td colspan="2">Rumänien</td><td>12. August</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
 <tr><td colspan="2">Schweden</td><td>16. Dezember</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
 <tr><td colspan="2">Schweiz</td><td>19. September</td><td colspan="2">1996</td><td>16. April</td><td>1998</td></tr>
 <tr><td colspan="2">Slowakei</td><td>16. Oktober</td><td colspan="2">1995</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="2">Spanien</td><td>16. Dezember</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
 <tr><td colspan="2">Tadschikistan</td><td>25. Juni</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
 <tr><td colspan="2">Tschechische Republik</td><td>28. Mai</td><td colspan="2">1996</td><td>16. April</td><td>1998</td></tr>
 <tr><td colspan="2">Türkei</td><td>5. April</td><td colspan="2">2001</td><td>4. Juli</td><td>2001</td></tr>
@@ -432,10 +429,7 @@ Geltungsbereich am 11. April 2024[^t-2]
 <tr><td colspan="2">Ukraine</td><td>29. Oktober</td><td colspan="2">1998</td><td>27. Januar</td><td>1999</td></tr>
 <tr><td colspan="2">Ungarn</td><td>8. April</td><td colspan="2">1998</td><td>7. Juli</td><td>1998</td></tr>
 <tr><td colspan="2">Usbekistan</td><td>12. März</td><td colspan="2">1996</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="2">Vereinigtes Königreich</td><td>16. Dezember</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="2">[tab] Insel Man</td><td>16. Dezember</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="2">[tab] Jersey</td><td>16. Dezember</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
 <tr><td colspan="2">Zypern</td><td>15. April</td><td colspan="2">1998</td><td>15. Mai</td><td>1998</td></tr>
 </table>
 
-[^t-2]: [AS 1998 2816](https://fedlex.data.admin.ch/eli/oc/1998/2816_2816_2816); [2002 2756](https://fedlex.data.admin.ch/eli/oc/2002/403); [2006 4453](https://fedlex.data.admin.ch/eli/oc/2006/682); [2024 159](https://fedlex.data.admin.ch/eli/oc/2024/159). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)
+[^t-2]: [AS 1998 2816](https://fedlex.data.admin.ch/eli/oc/1998/2816_2816_2816); [2002 2756](https://fedlex.data.admin.ch/eli/oc/2002/403); [2006 4453](https://fedlex.data.admin.ch/eli/oc/2006/682); [2024 159](https://fedlex.data.admin.ch/eli/oc/2024/159); [2025 483](https://fedlex.data.admin.ch/eli/oc/2025/483). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

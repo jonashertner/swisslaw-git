@@ -3,11 +3,11 @@ sr: "0.730.01"
 title: "Protocollo del 17 dicembre 1994 della Carta dell'energia sull'efficienza energetica e sugli aspetti ambientali correlati"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2816_2816_2816"
 language: it
-version: 2024-04-11
+version: 2025-07-24
 adopted: 1994-12-17
 in_force: 1998-04-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2816_2816_2816/20240411/it/xml/fedlex-data-admin-ch-eli-cc-1998-2816_2816_2816-20240411-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2816_2816_2816/20240411/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2816_2816_2816/20250724/it/xml/fedlex-data-admin-ch-eli-cc-1998-2816_2816_2816-20250724-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2816_2816_2816/20250724/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ RU **1998** 2816
 
 Concluso a Lisbona il 17 dicembre 1994 Approvato dall’Assemblea federale il 14 dicembre 1995[^t-1] Ratificato dalla Svizzera con strumento depositato il 19 settembre 1996 Entrato in vigore per la Svizzera il 16 aprile 1998
 
-(Stato 11 aprile 2024)
+(Stato 24 luglio 2025)
 
 [^t-1]: [RU 1998 2815](https://fedlex.data.admin.ch/eli/oc/1998/2815_2815_2815)
 
@@ -390,7 +390,7 @@ Finanziamento:
 - – joint ventures;
 - – cofinanziamento.
 
-Campo d’applicazione l’11 aprile 2024[^t-2]
+Campo d’applicazione il 24 luglio 2025[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -403,9 +403,7 @@ Campo d’applicazione l’11 aprile 2024[^t-2]
 <tr><td>Bosnia e Erzegovina</td><td>17 maggio</td><td>2001</td><td>16 agosto</td><td>2001</td></tr>
 <tr><td>Bulgaria</td><td>15 novembre</td><td>1996</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Cipro</td><td>15 aprile</td><td>1998</td><td>15 maggio</td><td>1998</td></tr>
-<tr><td>Comunità Europea dell’Energia Atomica (Euratom)</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Croazia</td><td>15 settembre</td><td>1998</td><td>15 ottobre</td><td>1998</td></tr>
-<tr><td>Danimarca</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Estonia</td><td>4 maggio</td><td>1998</td><td>3 giugno</td><td>1998</td></tr>
 <tr><td>Finlandia</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Georgia</td><td>27 aprile</td><td>2004</td><td>27 maggio</td><td>2004</td></tr>
@@ -423,14 +421,9 @@ Campo d’applicazione l’11 aprile 2024[^t-2]
 <tr><td>Moldova</td><td>22 giugno</td><td>1996</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Mongolia</td><td>19 novembre</td><td>1999 A</td><td>19 marzo</td><td>2000</td></tr>
 <tr><td>Montenegro</td><td>10 novembre</td><td>2015 A</td><td>10 dicembre</td><td>2015</td></tr>
-<tr><td>Paesi Bassi</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td>Regno Unito</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td>Isola di Man</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td>Jersey</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Repubblica Ceca</td><td>28 maggio</td><td>1996</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Romania</td><td>12 agosto</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Slovacchia</td><td>16 ottobre</td><td>1995</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td>Spagna</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Svezia</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Svizzera</td><td>19 settembre</td><td>1996</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Tagikistan</td><td>25 giugno</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
@@ -438,8 +431,7 @@ Campo d’applicazione l’11 aprile 2024[^t-2]
 <tr><td>Turkmenistan</td><td>17 luglio</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Ucraina</td><td>29 ottobre</td><td>1998</td><td>27 gennaio</td><td>1999</td></tr>
 <tr><td>Ungheria</td><td>8 aprile</td><td>1998</td><td>7 luglio</td><td>1998</td></tr>
-<tr><td>Unione Europea (UE)</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Uzbekistan</td><td>12 marzo</td><td>1996</td><td>16 aprile</td><td>1998</td></tr>
 </table>
 
-[^t-2]: [RU 1998 2816](https://fedlex.data.admin.ch/eli/oc/1998/2816_2816_2816); [2002 2756](https://fedlex.data.admin.ch/eli/oc/2002/403); [2006 4453](https://fedlex.data.admin.ch/eli/oc/2006/682); [2024 159](https://fedlex.data.admin.ch/eli/oc/2024/159). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
+[^t-2]: [RU 1998 2816](https://fedlex.data.admin.ch/eli/oc/1998/2816_2816_2816); [2002 2756](https://fedlex.data.admin.ch/eli/oc/2002/403); [2006 4453](https://fedlex.data.admin.ch/eli/oc/2006/682); [2024 159](https://fedlex.data.admin.ch/eli/oc/2024/159); [2025 483](https://fedlex.data.admin.ch/eli/oc/2025/483). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
