@@ -1,35 +1,39 @@
 ---
 canton: UR
 number: "10.2935"
-title: Verordnung über die Anerkennung privater universitärer Hochschulen
+title: VERORDNUNG über die Anerkennung privater universitärer Hochschulen
 language: de
 version: 2007-01-01
+corrected: 2025-07-30
 version_adopted: 2006-06-14
 adopted: 2003-06-18
 in_force: 2003-09-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.2935"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/568/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/343/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung über die Anerkennung privater universitärer Hochschulen
+# VERORDNUNG über die Anerkennung privater universitärer Hochschulen
 
-Vom 18.06.2003 (Stand 01.01.2007)
+VERORDNUNG über die Anerkennung privater universitärer Hochschulen
 
-Der Landrat des Kantons Uri,
+(vom 18. Juni 2003[^t-1]; Stand am 1. Januar 2007)
 
-gestützt auf Artikel 90 Absatz 2 der Kantonsverfassung (RB [1.1101](https://rechtsbuch.ur.ch/data/1.1101/de)),
+Der Landrat des Kantons Uri, gestützt auf Artikel 90 Absatz 2 der Kantonsverfassung<sup>2</sup>,
 
 beschliesst:
 
-## 1 Allgemeine Bestimmungen
+[^t-1]: AB vom 4. Juli 2003
+
+### 1. Abschnitt: Allgemeine Bestimmungen
 
 #### Artikel 1
 
 **Gegenstand**
 
-<sup>1</sup> Diese Verordnung regelt die staatliche Anerkennung von privaten universitären Hochschulen mit Sitz im Kanton Uri.
+Diese Verordnung regelt die staatliche Anerkennung von privaten universitären Hochschulen mit Sitz im Kanton Uri.
 
 #### Artikel 2
 
@@ -43,25 +47,31 @@ beschliesst:
 
 **Aufsicht**
 
-<sup>1</sup> Der Erziehungsrat beaufsichtigt die staatlich anerkannten universitären Hochschulen.
+Der Erziehungsrat beaufsichtigt die staatlich anerkannten universitären Hochschulen.
 
-## 2 Anerkennung
+### 2. Abschnitt: Anerkennung
 
 #### Artikel 4
 
-**Voraussetzungen**
+Voraussetzungen Der Erziehungsrat kann universitäre Hochschulen und deren Studiengänge staatlich anerkennen, wenn die Schule:
 
-<sup>1</sup> Der Erziehungsrat kann universitäre Hochschulen und deren Studiengänge staatlich anerkennen, wenn die Schule:
+- a) die Qualität nach schweizerischem und internationalem Standard gewährleistet;
 
-- a) die Qualität nach schweizerischem und internationalem Standard gewährleistet
-- b) sicherstellt, dass die Qualität des Unterrichts, der Forschung, der Dienstleistung und der Publikationen regelmässig überprüft wird
-- c) sich erfolgreich akkreditiert hat
-- d) die ethische Verantwortung gewährleistet und sich der christlich-abendländischen Kultur und den demokratischen Grundsätzen verpflichtet
-- e) bereit ist, mit anderen Institutionen im Hochschulbereich zusammenzuarbeiten
-- f) bereit ist, einen Beitrag zur Stärkung des wirtschaftlichen und gesellschaftlichen Lebens im Kanton Uri zu leisten
-- g) klare und ausreichende rechtliche und organisatorische Strukturen aufweist
-- h) ausreichende finanzielle Sicherheiten nachweist
-- i) bereit ist, regelmässig über ihre Tätigkeit zu berichten
+- b) sicherstellt, dass die Qualität des Unterrichts, der Forschung, der Dienstleistung und der Publikationen regelmässig überprüft wird;
+
+- c) sich erfolgreich akkreditiert hat;
+
+- d) die ethische Verantwortung gewährleistet und sich der christlich-abendländischen Kultur und den demokratischen Grundsätzen verpflichtet;
+
+- e) bereit ist, mit anderen Institutionen im Hochschulbereich zusammenzuarbeiten;
+
+- f) bereit ist, einen Beitrag zur Stärkung des wirtschaftlichen und gesellschaftlichen Lebens im Kanton Uri zu leisten;
+
+- g) klare und ausreichende rechtliche und organisatorische Strukturen aufweist;
+
+- h) ausreichende finanzielle Sicherheiten nachweist;
+
+- i) bereit ist, regelmässig über ihre Tätigkeit zu berichten.
 
 #### Artikel 5
 
@@ -73,9 +83,7 @@ beschliesst:
 
 #### Artikel 6
 
-**Provisorische Anerkennung**
-
-<sup>1</sup> Bei universitären Hochschulen, die den Lehrbetrieb noch nicht oder nur teilweise aufgenommen haben, kann eine provisorische Anerkennung erteilt werden. Diese ist zeitlich zu befristen.
+Provisorische Anerkennung Bei universitären Hochschulen, die den Lehrbetrieb noch nicht oder nur teilweise aufgenommen haben, kann eine provisorische Anerkennung erteilt werden. Diese ist zeitlich zu befristen.
 
 #### Artikel 7
 
@@ -85,13 +93,13 @@ beschliesst:
 
 <sup>2</sup> Der Entzug der Anerkennung ist im Amtsblatt des Kantons Uri zu veröffentlichen.
 
-## 3 Pflichten der anerkannten universitären Hochschule
+### 3. Abschnitt: Pflichten der anerkannten universitären Hochschule
 
 #### Artikel 8
 
 **Freiheit von Lehre und Forschung**
 
-<sup>1</sup> Die staatlich anerkannte universitäre Hochschule hat die Freiheit von Lehre und Forschung im Rahmen der Anerkennungsvoraussetzungen zu gewährleisten.
+Die staatlich anerkannte universitäre Hochschule hat die Freiheit von Lehre und Forschung im Rahmen der Anerkennungsvoraussetzungen zu gewährleisten.
 
 #### Artikel 9
 
@@ -103,15 +111,13 @@ beschliesst:
 
 #### Artikel 10
 
-**Beitrag zum wirtschaftlichen und gesellschaftlichen Leben**
-
-<sup>1</sup> Die staatlich anerkannte universitäre Hochschule leistet einen Beitrag zum wirtschaftlichen und gesellschaftlichen Leben im Kanton Uri, indem sie Bildungsangebote, Forschung und Dienstleistungen für Privatpersonen und Unternehmen auch im Kanton Uri anbietet.
+Beitrag zum wirtschaftlichen und gesellschaftlichen Leben Die staatlich anerkannte universitäre Hochschule leistet einen Beitrag zum wirtschaftlichen und gesellschaftlichen Leben im Kanton Uri, indem sie Bildungsangebote, Forschung und Dienstleistungen für Privatpersonen und Unternehmen auch im Kanton Uri anbietet.
 
 #### Artikel 11
 
 **Wissenschaftliche Publikationen**
 
-<sup>1</sup> Die staatlich anerkannte universitäre Hochschule publiziert regelmässig ihre Arbeitsresultate in Lehre und Forschung.
+Die staatlich anerkannte universitäre Hochschule publiziert regelmässig ihre Arbeitsresultate in Lehre und Forschung.
 
 #### Artikel 12
 
@@ -119,59 +125,63 @@ beschliesst:
 
 <sup>1</sup> Die staatlich anerkannte universitäre Hochschule dokumentiert in einem jährlichen Bericht ihre Tätigkeit.
 
-<sup>2</sup> Der Bericht ist dem Erziehungsrat zur Kenntnis zu bringen. Dieser kann ergänzende Berichte verlangen.
+2 Der Bericht ist dem Erziehungsrat zur Kenntnis zu bringen. Dieser kann
+
+ergänzende Berichte verlangen.
 
 #### Artikel 13
 
 **Verleihung von Titeln**
 
-<sup>1</sup> Die staatlich anerkannte universitäre Hochschule darf nur jene Titel verleihen, die vom Erziehungsrat bewilligt worden sind.
+Die staatlich anerkannte universitäre Hochschule darf nur jene Titel verleihen, die vom Erziehungsrat bewilligt worden sind.
 
-## 4 Schlussbestimmungen
+### 4. Abschnitt: Schlussbestimmungen
 
 #### Artikel 14
 
 **Rechtsanspruch**
 
-<sup>1</sup> Diese Verordnung gibt keinen Rechtsanspruch auf Beiträge des Kantons.
+Diese Verordnung gibt keinen Rechtsanspruch auf Beiträge des Kantons.
 
 #### Artikel 15
 
 **Strafbestimmung**
 
-<sup>1</sup> Mit Busse bis zu zehntausend Franken wird bestraft, wer:
+<sup>1</sup> Mit Busse[^15-1] bis zu zehntausend Franken wird bestraft, wer:
 
-- a) ohne Anerkennung sich als staatlich anerkannte universitäre Hochschule ausgibt
-- b) als staatlich anerkannte universitäre Hochschule Titel verleiht, die vom Erziehungsrat nicht bewilligt sind
+- a) ohne Anerkennung sich als staatlich anerkannte universitäre Hochschule ausgibt;
 
-<sup>2</sup> Das Verfahren richtet sich nach der Strafprozessverordnung[^Artikel15-1].
+- b) als staatlich anerkannte universitäre Hochschule Titel verleiht, die vom Erziehungsrat nicht bewilligt sind.
 
-[^Artikel15-1]: Richtig: Strafprozessordnung.
+<sup>2</sup> Das Verfahren richtet sich nach der Strafprozessverordnung[^15-2].
+
+[^15-1]: Fassung gemäss LRB vom 14. Juni 2006, in Kraft gesetzt auf den 1. Januar 2007 (AB vom 7. Juli 2006).
+[^15-2]: Richtig: Strafprozessordnung (RB 3.9222 )
 
 #### Artikel 16
 
 **Rechtsmittel**
 
-<sup>1</sup> Verfügungen nach dieser Verordnung können nach den Bestimmungen der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)) angefochten werden.
+Verfügungen nach dieser Verordnung können nach den Bestimmungen der Verordnung über die Verwaltungsrechtspflege<sup>5</sup> angefochten werden.
 
 #### Artikel 17
 
 **Gebühren**
 
-<sup>1</sup> Die Gebühren für Verfügungen nach dieser Verordnung richten sich nach der Gebührenverordnung (RB [3.2512](https://rechtsbuch.ur.ch/data/3.2512/de)).
+Die Gebühren für Verfügungen nach dieser Verordnung richten sich nach der Gebührenverordnung<sup>6</sup>.
 
 #### Artikel 18
 
 **Vollzug**
 
-<sup>1</sup> Der Regierungsrat vollzieht diese Verordnung, soweit sie nichts anderes bestimmt.
+Der Regierungsrat vollzieht diese Verordnung, soweit sie nichts anderes bestimmt.
 
-#### Artikel 19
-
-**Inkraftsetzung**
+**Artikel 19 Inkraftsetzung**
 
 <sup>1</sup> Diese Verordnung untersteht dem fakultativen Referendum.
 
-<sup>2</sup> Sie tritt auf den 1. September 2003 in Kraft.
+**Im Namen des Landrates**
 
-AB 04.07.2003
+**Der Präsident: Paul Bennet Der Kanzleidirektor: Dr. Peter Huber**
+
+<sup>2</sup> Sie tritt auf den 1. September 2003 in Kraft.
