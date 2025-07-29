@@ -1,27 +1,31 @@
 ---
 canton: UR
 number: "10.1617"
-title: Reglement über die Entschädigung bei unzumutbarem Schulweg im Rahmen des sonderpädagogischen Angebots
+title: REGLEMENT über die Entschädigung bei unzumutbarem Schulweg im Rahmen des sonderpädagogischen Angebots
 language: de
 version: 2009-01-01
+corrected: 2025-07-30
 version_adopted: 2008-12-16
 adopted: 2008-12-16
 in_force: 2009-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.1617"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/551/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/325/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über die Entschädigung bei unzumutbarem Schulweg im Rahmen des sonderpädagogischen Angebots
+# REGLEMENT über die Entschädigung bei unzumutbarem Schulweg im Rahmen des sonderpädagogischen Angebots
 
-Vom 16.12.2008 (Stand 01.01.2009)
+REGLEMENT über die Entschädigung bei unzumutbarem Schulweg im Rahmen des sonderpädagogischen Angebots
 
-Der Regierungsrat des Kantons Uri,
+(vom 16. Dezember 2008[^t-1]; Stand am 1. Januar 2009)
 
-gestützt auf Artikel 12 der Verordnung vom 24. September 2007 über das sonderpädagogische Angebot im Kanton Uri (RB [10.1611](https://rechtsbuch.ur.ch/data/10.1611/de)),
+Der Regierungsrat des Kantons Uri, gestützt auf Artikel 12 der Verordnung vom 24. September 2007 über das sonderpädagogische Angebot im Kanton Uri<sup>2</sup>,
 
 beschliesst:
+
+[^t-1]: AB vom 9. Januar 2009
 
 #### Artikel 1
 
@@ -47,7 +51,7 @@ beschliesst:
 
 <sup>1</sup> Entschädigt werden die Kosten des öffentlichen Verkehrsmittels.
 
-<sup>2</sup> Kann der Weg nicht mit öffentlichen Verkehrsmitteln zurückgelegt werden, wird pro Kilometer eine Entschädigung von 0.70 Franken ausgerichtet.
+<sup>2</sup> Kann der Weg nicht mit öffentlichen Verkehrsmitteln zurückgelegt werden, wird pro Kilometer eine Entschädigung von 70 Rappen ausgerichtet.
 
 #### Artikel 4
 
@@ -61,12 +65,14 @@ beschliesst:
 
 **Rechtsschutz**
 
-<sup>1</sup> Der Rechtsschutz richtet sich nach dem Schulgesetz (RB [10.1111](https://rechtsbuch.ur.ch/data/10.1111/de)).
+Der Rechtsschutz richtet sich nach dem Schulgesetz<sup>3</sup>.
 
 #### Artikel 6
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Reglement tritt am 1. Januar 2009 in Kraft.
+Dieses Reglement tritt am 1. Januar 2009 in Kraft.
 
-AB 09.01.2009
+Im Namen des Regierungsrats
+
+Der Landammann: Isidor Baumann Der Kanzleidirektor: Dr. Peter Huber
