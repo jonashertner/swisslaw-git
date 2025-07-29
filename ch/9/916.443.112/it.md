@@ -3,18 +3,18 @@ sr: "916.443.112"
 title: Ordinanza dell’USAV del 17 luglio 2025 che istituisce misure in relazione alla dermatite nodulare contagiosa (Lumpy skin disease)
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/471"
 language: it
-version: 2025-07-18
+version: 2025-07-30
 adopted: 2025-07-17
 in_force: 2025-07-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20250718/it/xml/fedlex-data-admin-ch-eli-cc-2025-471-20250718-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20250718/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20250730/it/xml/fedlex-data-admin-ch-eli-cc-2025-471-20250730-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20250730/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’USAV che istituisce misure in relazione alla dermatite nodulare contagiosa (Lumpy skin disease)
 
-del 17 luglio 2025 (Stato 18 luglio 2025)
+del 17 luglio 2025 (Stato 30 luglio 2025)
 
 L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV),
 
@@ -257,13 +257,18 @@ Allegato 1
 
 Il presente allegato non contiene alcuna iscrizione.
 
-Allegato 2
+Allegato 2[^t-1]
 
 (art. 2)
 
 ## Zone di sorveglianza
 
+[^t-1]: Nuovo testo giusta la cifra I dell’O dell’ USAV del 28 lug. 2025, in vigore dal 30 lug. 2025 ([RU 2025 485](https://fedlex.data.admin.ch/eli/oc/2025/485))
+
 Sono considerate zone di sorveglianza:
 
-- ‒ il Cantone di Ginevra;
-- ‒ i seguenti Comuni del Cantone di Vaud: Bogis-Bossey, Chavannes-des-Bois, Chavannes-de-Bogis, Commugny, Coppet, Founex, Mies, Tannay.
+- – il Cantone di Ginevra;
+- – i seguenti Comuni del Cantone di Vaud: Bogis-Bossey, Chavannes-des-Bois, Chavannes-de-Bogis, Commugny, Coppet, Founex, Mies, Tannay;
+- – i territori evidenziati in grigio sulla mappa sottostante facenti parte dei seguenti Comuni del Cantone del Vallese: Champéry, Val‑d’Illiez, Finhaut, Martigny-Combe, Orsières, Salvan, Trient.
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20250730/it/xml/image/image1.png)

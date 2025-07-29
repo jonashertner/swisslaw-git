@@ -3,18 +3,18 @@ sr: "916.443.112"
 title: Verordnung des BLV vom 17. Juli 2025 über Massnahmen im Zusammenhang mit der Dermatitis nodularis (Lumpy Skin Disease)​
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/471"
 language: de
-version: 2025-07-18
+version: 2025-07-30
 adopted: 2025-07-17
 in_force: 2025-07-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20250718/de/xml/fedlex-data-admin-ch-eli-cc-2025-471-20250718-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20250718/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20250730/de/xml/fedlex-data-admin-ch-eli-cc-2025-471-20250730-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20250730/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BLV über Massnahmen im Zusammenhang mit der Dermatitis nodularis (Lumpy Skin Disease)
 
-vom 17. Juli 2025 (Stand am 18. Juli 2025)
+vom 17. Juli 2025 (Stand am 30. Juli 2025)
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
 
@@ -257,13 +257,18 @@ Anhang 1
 
 Dieser Anhang enthält keine Einträge.
 
-Anhang 2
+Anhang 2[^t-1]
 
 (Art. 2)
 
 ## Überwachungszonen
 
+[^t-1]: Fassung gemäss Ziff. I der V des BLV vom 28. Juli 2025, in Kraft seit 30. Juli 2025 ([AS 2025 485](https://fedlex.data.admin.ch/eli/oc/2025/485)).
+
 Als Überwachungszonen gelten:
 
-- ‒ der Kanton Genf;
-- ‒ folgende Gemeinden des Kantons Waadt: Bogis-Bossey, Chavannes-des-Bois, Chavannes-de-Bogis, Commugny, Coppet, Founex, Mies, Tannay.
+- – der Kanton Genf;
+- – folgende Gemeinden des Kantons Waadt: Bogis-Bossey, Chavannes-des-Bois, Chavannes-de-Bogis, Commugny, Coppet, Founex, Mies, Tannay;
+- – die auf der nachstehenden Karte grau markierten Teilgebiete der folgenden Gemeinden des Kantons Wallis: Champéry, Val‑d’Illiez, Finhaut, Martigny-Combe, Orsières, Salvan, Trient.
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20250730/de/xml/image/image1.png)
