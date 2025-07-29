@@ -1,39 +1,43 @@
 ---
 canton: UR
 number: "10.2420"
-title: Reglement über die Aufnahme in das Gymnasium an der Kantonalen Mittelschule Uri
+title: REGLEMENT über die Aufnahme in das Gymnasium an der Kantonalen Mittelschule Uri
 language: de
 version: 2012-08-01
+corrected: 2025-07-30
 version_adopted: 2012-03-15
 adopted: 2012-03-15
 in_force: 2012-08-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.2420"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/561/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/335/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über die Aufnahme in das Gymnasium an der Kantonalen Mittelschule Uri
+# REGLEMENT über die Aufnahme in das Gymnasium an der Kantonalen Mittelschule Uri
 
-Vom 15.03.2012 (Stand 01.08.2012)
+REGLEMENT über die Aufnahme in das Gymnasium an der Kantonalen Mittelschule Uri
 
-Der Mittelschulrat,
+(vom 15. März 2012[^t-1]; Stand am 1. August 2012)
 
-gestützt auf Artikel 17 Absatz 2 der Mittelschulverordnung vom 5. April 2000 (RB [10.2401](https://rechtsbuch.ur.ch/data/10.2401/de)),
+Der Mittelschulrat, gestützt auf Artikel 17 Absatz 2 der Mittelschulverordnung vom 5. April 2000<sup>2</sup>,
 
 beschliesst:
+
+[^t-1]: AB vom 4. Mai 2012
 
 #### Artikel 1
 
 **Zweck, Geltungsbereich**
 
-<sup>1</sup> Dieses Reglement regelt die Aufnahme der Schülerinnen und Schüler in das Gymnasium, die nicht aufgrund des Übertrittsreglements (RB [10.1711](https://rechtsbuch.ur.ch/data/10.1711/de)) aus der Primarschule oder der Oberstufe in das Gymnasium eintreten.
+Dieses Reglement regelt die Aufnahme der Schülerinnen und Schüler in das Gymnasium, die nicht aufgrund des Übertrittsreglements<sup>3</sup> aus der Primarschule oder der Oberstufe in das Gymnasium eintreten.
 
 #### Artikel 2
 
 **Aufnahme aus ausserkantonalen Schulen**
 
-<sup>1</sup> Schülerinnen und Schüler aus einer anderen Maturitätsschule mit schweizerisch anerkannter Matura werden im Promotionsstand der abgebenden Schule in das Gymnasium aufgenommen.
+Schülerinnen und Schüler aus einer anderen Maturitätsschule mit schweizerisch anerkannter Matura werden im Promotionsstand der abgebenden Schule in das Gymnasium aufgenommen.
 
 #### Artikel 3
 
@@ -59,12 +63,14 @@ beschliesst:
 
 **Rechtsschutz**
 
-<sup>1</sup> Der Rechtsschutz richtet sich sinngemäss nach den Bestimmungen des Schulgesetzes (RB [10.1111](https://rechtsbuch.ur.ch/data/10.1111/de)) und der Schulverordnung (RB [10.1115](https://rechtsbuch.ur.ch/data/10.1115/de)).
+Der Rechtsschutz richtet sich sinngemäss nach den Bestimmungen des Schulgesetzes<sup>4</sup> und der Schulverordnung<sup>5</sup>.
 
 #### Artikel 6
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Reglement tritt am 1. August 2012 in Kraft.
+Dieses Reglement tritt am 1. August 2012 in Kraft.
 
-AB 04.05.2012
+Im Namen des Mittelschulrats
+
+Der Präsident: Josef Arnold Der Rektor: Ivo Frey
