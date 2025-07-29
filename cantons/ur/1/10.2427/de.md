@@ -1,46 +1,49 @@
 ---
 canton: UR
 number: "10.2427"
-title: Reglement über die Abschlussprüfungen der Fachmaturität Pädagogik
+title: REGLEMENT über die Abschlussprüfungen der Fachmaturität Pädagogik
 short: FMP-Abschlussprüfungsreglement
 language: de
 version: 2008-12-01
+corrected: 2025-07-30
 version_adopted: 2008-11-28
 adopted: 2008-11-28
 in_force: 2008-12-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.2427"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/563/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/337/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über die Abschlussprüfungen der Fachmaturität Pädagogik
+# REGLEMENT über die Abschlussprüfungen der Fachmaturität Pädagogik
 
-(FMP-Abschlussprüfungsreglement)
+REGLEMENT über die Abschlussprüfungen der Fachmaturität Pädagogik (FMP-Abschlussprüfungsreglement)
 
-Vom 28.11.2008 (Stand 01.12.2008)
+(vom 28. November 2008[^t-1]; Stand am 1. Dezember 2008)
 
-Der Mittelschulrat,
-
-gestützt auf Artikel 27 Buchstabe b der Verordnung vom 5. April 2000 über die Kantonale Mittelschule Uri (Mittelschulverordnung, RB [10.2401](https://rechtsbuch.ur.ch/data/10.2401/de)) und in Ausführung des Reglements der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) vom 12. Juni 2003 über die Anerkennung der Abschlüsse von Fachmittelschulen und der Richtlinien der EDK vom 30. April 2007 für die Umsetzung der Fachmaturität im Berufsfeld Pädagogik,
+Der Mittelschulrat, gestützt auf Artikel 27 Buchstabe b der Verordnung vom 5. April 2000 über die Kantonale Mittelschule Uri (Mittelschulverordnung)[^t-2] und in Ausführung des Reglements der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) vom 12. Juni 2003 über die Anerkennung der Abschlüsse von Fachmittelschulen und der Richtlinien der EDK vom 30. April 2007 für die Umsetzung der Fachmaturität im Berufsfeld Pädagogik,
 
 beschliesst:
 
-## 1 Allgemeine Bestimmungen
+[^t-1]: AB vom 19. Dezember 2008
+[^t-2]: RB 10.2401
+
+### 1. Abschnitt: Allgemeine Bestimmungen
 
 #### Artikel 1
 
 **Gegenstand**
 
-<sup>1</sup> Dieses Reglement regelt die Abschlussprüfungen, welche die Schülerinnen und Schüler des Fachmaturitätslehrgangs Pädagogik (FMP-Lehrgang) an der Kantonalen Mittelschule Uri (Mittelschule) abzulegen haben.
+Dieses Reglement regelt die Abschlussprüfungen, welche die Schülerinnen und Schüler des Fachmaturitätslehrgangs Pädagogik (FMP-Lehrgang) an der Kantonalen Mittelschule Uri (Mittelschule) abzulegen haben.
 
 #### Artikel 2
 
 **Zweck**
 
-<sup>1</sup> Der Zweck der Abschlussprüfungen ist, die Eignung der Kandidatinnen und Kandidaten für die Zulassung an eine Pädagogische Hochschule festzustellen.
+Der Zweck der Abschlussprüfungen ist, die Eignung der Kandidatinnen und Kandidaten für die Zulassung an eine Pädagogische Hochschule festzustellen.
 
-## 2 Organisation
+### 2. Abschnitt: Organisation
 
 #### Artikel 3
 
@@ -48,21 +51,23 @@ beschliesst:
 
 <sup>1</sup> Prüfungsbehörde ist die Prüfungskommission des FMP-Lehrgangs.
 
-<sup>2</sup> Der Mittelschulrat wählt die Prüfungskommission. Sie besteht aus der Präsidentin oder dem Präsidenten und höchstens acht weiteren Mitgliedern.
+2 Der Mittelschulrat wählt die Prüfungskommission. Sie besteht aus der Präsidentin oder dem Präsidenten und höchstens acht weiteren Mitgliedern.
 
 <sup>3</sup> Die Prüfungskommission beaufsichtigt die Durchführung der Abschlussprüfungen.
 
 <sup>4</sup> Sie hat insbesondere folgende Aufgaben:
 
-- a) Expertentätigkeit bei den Abschlussprüfungen
-- b) endgültiger Entscheid über den Ausstand von Expertinnen und Experten
-- c) Entscheid über Sanktionen bei Unregelmässigkeiten
+- a) Expertentätigkeit bei den Abschlussprüfungen;
+
+- b) endgültiger Entscheid über den Ausstand von Expertinnen und Experten;
+
+- c) Entscheid über Sanktionen bei Unregelmässigkeiten.
 
 #### Artikel 4
 
 **Prüfungsleitung**
 
-<sup>1</sup> Die Prüfungsleitung obliegt dem Rektorat der Mittelschule. Es kann seine Aufgaben an seine Stellvertretung delegieren.
+Die Prüfungsleitung obliegt dem Rektorat der Mittelschule. Es kann seine Aufgaben an seine Stellvertretung delegieren.
 
 #### Artikel 5
 
@@ -78,47 +83,47 @@ beschliesst:
 
 **Prüfungszeitpunkt**
 
-<sup>1</sup> Die Abschlussprüfungen finden nach Abschluss des halbjährigen FMP-Lehrgangs statt.
+Die Abschlussprüfungen finden nach Abschluss des halbjährigen FMP-Lehrgangs statt.
 
-## 3 Ausschreibung, Zulassung und Anmeldung
+### 3. Abschnitt: Ausschreibung, Zulassung und Anmeldung
 
 #### Artikel 7
 
 **Ausschreibung**
 
-<sup>1</sup> Die Prüfungskommission schreibt die Abschlussprüfungen im Amtsblatt aus. Sie nennt in der Ausschreibung die Daten der schriftlichen und mündlichen Abschlussprüfungen, die Prüfungsgebühr, die Anmeldestelle und die Anmeldefrist.
+Die Prüfungskommission schreibt die Abschlussprüfungen im Amtsblatt aus. Sie nennt in der Ausschreibung die Daten der schriftlichen und mündlichen Abschlussprüfungen, die Prüfungsgebühr, die Anmeldestelle und die Anmeldefrist.
 
 #### Artikel 8
 
 **Zulassung**
 
-<sup>1</sup> Zu den Abschlussprüfungen wird zugelassen, wer eine Fachmittelschule erfolgreich abgeschlossen und den FMP-Lehrgang an der Mittelschule besucht hat.
+Zu den Abschlussprüfungen wird zugelassen, wer eine Fachmittelschule erfolgreich abgeschlossen und den FMP-Lehrgang an der Mittelschule besucht hat.
 
 #### Artikel 9
 
 **Anmeldung**
 
-<sup>1</sup> Die Anmeldung zu den Abschlussprüfungen ist innerhalb der von der Prüfungskommission festgesetzten Frist mit dem offiziellen Anmeldeformular beim Rektoratssekretariat der Mittelschule einzureichen.
+Die Anmeldung zu den Abschlussprüfungen ist innerhalb der von der Prüfungskommission festgesetzten Frist mit dem offiziellen Anmeldeformular beim Rektoratssekretariat der Mittelschule einzureichen.
 
 #### Artikel 10
 
 **Prüfungsgebühr**
 
-<sup>1</sup> Es wird keine Prüfungsgebühr verlangt.
+Es wird keine Prüfungsgebühr verlangt.
 
-## 4 Durchführung
+### 4. Abschnitt: Durchführung
 
 #### Artikel 11
 
 **Prüfungsplan**
 
-<sup>1</sup> Die Durchführung der Abschlussprüfungen richtet sich nach dem in Zusammenarbeit mit den übrigen Zentralschweizer Fachmittelschulen erstellten Prüfungsplan.
+Die Durchführung der Abschlussprüfungen richtet sich nach dem in Zusammenarbeit mit den übrigen Zentralschweizer Fachmittelschulen erstellten Prüfungsplan.
 
 #### Artikel 12
 
 **Hilfsmittel**
 
-<sup>1</sup> Die Prüfungskommission bestimmt auf Antrag der Examinierenden die erlaubten Hilfsmittel.
+Die Prüfungskommission bestimmt auf Antrag der Examinierenden die erlaubten Hilfsmittel.
 
 #### Artikel 13
 
@@ -130,19 +135,23 @@ beschliesst:
 
 <sup>3</sup> Die Prüfungsleitung macht die Kandidatinnen und Kandidaten vor Beginn der Abschlussprüfungen auf diese Bestimmung aufmerksam.
 
-## 5 Prüfungsfächer und Prüfungsstoff
+### 5. Abschnitt: Prüfungsfächer und Prüfungsstoff
 
 #### Artikel 14
 
 **Prüfungsfächer**
 
-<sup>1</sup> Die Abschlussprüfungen des FMP-Lehrgangs umfassen fünf Fächer:
+Die Abschlussprüfungen des FMP-Lehrgangs umfassen fünf Fächer:
 
-- a) Deutsch
-- b) Englisch
-- c) Mathematik
-- d) Naturwissenschaften: Biologie, Chemie und Physik
-- e) Sozialwissenschaften: Geografie und Geschichte
+- a) Deutsch;
+
+- b) Englisch;
+
+- c) Mathematik;
+
+- d) Naturwissenschaften: Biologie, Chemie und Physik;
+
+- e) Sozialwissenschaften: Geografie und Geschichte.
 
 #### Artikel 15
 
@@ -150,8 +159,9 @@ beschliesst:
 
 <sup>1</sup> Schriftlich und mündlich wird geprüft:
 
-- a) im Fach Deutsch
-- b) im Fach Englisch
+- a) im Fach Deutsch;
+
+- b) im Fach Englisch.
 
 <sup>2</sup> In den Fächern Mathematik und Naturwissenschaften wird nur schriftlich geprüft.
 
@@ -161,9 +171,9 @@ beschliesst:
 
 **Prüfungsstoff**
 
-<sup>1</sup> Prüfungsstoff ist im Wesentlichen der Unterrichtsstoff des FMP-Lehrgangs.
+Prüfungsstoff ist im Wesentlichen der Unterrichtsstoff des FMP-Lehrgangs.
 
-## 6 Schriftliche Prüfungen
+### 6. Abschnitt: Schriftliche Prüfungen
 
 #### Artikel 17
 
@@ -177,11 +187,15 @@ beschliesst:
 
 **Prüfungsdauer**
 
-<sup>1</sup> Die schriftlichen Prüfungen dauern:
+Die schriftlichen Prüfungen dauern:
 
-- a) in den Fächern Deutsch und Mathematik je 180 Minuten
-- b) im Fach Englisch 150 Minuten
-- c) im Fach Naturwissenschaften 180 Minuten, davon 90 Minuten in Biologie und je 45 Minuten in Chemie und Physik
+- a) in den Fächern Deutsch und Mathematik je 180 Minuten;
+
+- b) im Fach Englisch 150 Minuten;
+
+- c) im Fach Naturwissenschaften 180 Minuten, davon 90 Minuten in Biologie
+
+und je 45 Minuten in Chemie und Physik.
 
 #### Artikel 19
 
@@ -193,24 +207,25 @@ beschliesst:
 
 <sup>3</sup> Das Rektorat der Mittelschule bestimmt die Aufsichtspersonen.
 
-## 7 Mündliche Prüfungen
+### 7. Abschnitt: Mündliche Prüfungen
 
 #### Artikel 20
 
 **Prüfungsabnahme**
 
-<sup>1</sup> Die mündlichen Prüfungen werden von den Examinierenden im Beisein von mindestens einem Mitglied der Prüfungskommission als Expertin oder Experte abgenommen.
+Die mündlichen Prüfungen werden von den Examinierenden im Beisein von mindestens einem Mitglied der Prüfungskommission als Expertin oder Experte abgenommen.
 
 #### Artikel 21
 
 **Prüfungsdauer**
 
-<sup>1</sup> Die mündlichen Prüfungen dauern:
+Die mündlichen Prüfungen dauern:
 
-- a) in den Fächern Deutsch und Englisch je 15 Minuten
-- b) im Fach Sozialwissenschaften 30 Minuten, davon je 15 Minuten in Geografie und Geschichte
+- a) in den Fächern Deutsch und Englisch je 15 Minuten;
 
-## 8 Fachmaturitätsarbeit
+- b) im Fach Sozialwissenschaften 30 Minuten, davon je 15 Minuten in Geografie und Geschichte.
+
+### 8. Abschnitt: Fachmaturitätsarbeit
 
 #### Artikel 22
 
@@ -220,7 +235,7 @@ beschliesst:
 
 <sup>3</sup> Die Schulleitung erlässt dazu Ausführungsbestimmungen.
 
-## 9 Benotung
+### 9. Abschnitt: Benotung
 
 #### Artikel 23
 
@@ -228,7 +243,7 @@ beschliesst:
 
 <sup>1</sup> Die Prüfungen werden mit Noten von 6 bis 1 bewertet.
 
-<sup>2</sup> Das Ergebnis der schriftlichen und mündlichen Prüfungen sowie der Fachmaturitätsarbeit wird in ganzen oder halben Noten ausgedrückt.
+2 Das Ergebnis der schriftlichen und mündlichen Prüfungen sowie der Fachmaturitätsarbeit wird in ganzen oder halben Noten ausgedrückt.
 
 <sup>3</sup> Durchschnittsnoten aus schriftlichen und mündlichen Noten werden mathematisch auf halbe oder ganze Noten gerundet.
 
@@ -238,7 +253,9 @@ beschliesst:
 
 #### Artikel 24
 
-**Bewertung: schriftliche Prüfungen**
+**Bewertung**
+
+- a) schriftliche Prüfungen
 
 <sup>1</sup> Die schriftlichen Prüfungen werden von den Examinierenden korrigiert und bewertet.
 
@@ -248,9 +265,9 @@ beschliesst:
 
 <sup>4</sup> Können sich die Examinierenden und die Prüfungskommission über die Bewertung nicht einigen, entscheidet das Mittel. Das Mittel wird mathematisch auf die nächste halbe oder ganze Note gerundet.
 
-#### Artikel 25
+#### Artikel 25 b
 
-**Bewertung: mündliche Prüfungen**
+**) mündliche Prüfungen**
 
 <sup>1</sup> Die Examinierenden führen die mündlichen Prüfungen durch. Sie schlagen den Expertinnen und Experten die Bewertung vor.
 
@@ -258,13 +275,11 @@ beschliesst:
 
 <sup>3</sup> Die Expertinnen und Experten führen über den Verlauf der mündlichen Prüfungen ein Protokoll.
 
-## 10 Noten des Fachmaturitätsausweises Pädagogik (FMP-Ausweis)
+### 10. Abschnitt: Noten des Fachmaturitätsausweises Pädagogik (FMP-Ausweis)
 
 #### Artikel 26
 
-**Notenskala**
-
-<sup>1</sup> Die Leistungen in den für die Erteilung des FMP-Ausweises massgeblichen Fächern werden mit ganzen und halben Noten ausgedrückt. 6 ist die höchste, 1 die tiefste Note. Noten unter 4 stehen für ungenügende Leistungen.
+Notenskala Die Leistungen in den für die Erteilung des FMP-Ausweises massgeblichen Fächern werden mit ganzen und halben Noten ausgedrückt. 6 ist die höchste, 1 die tiefste Note. Noten unter 4 stehen für ungenügende Leistungen.
 
 #### Artikel 27
 
@@ -274,31 +289,35 @@ beschliesst:
 
 <sup>2</sup> Für die Fächer, die schriftlich oder mündlich geprüft werden, gilt die Note der schriftlichen (in ganzen oder halben Noten) oder mündlichen Prüfung (in ganzen oder halben Noten).
 
-## 11 Erteilung des FMP-Ausweises
+### 11. Abschnitt: Erteilung des FMP-Ausweises
 
 #### Artikel 28
 
-**Fächer des Fachmaturitätsausweises Pädagogik**
+Fächer des Fachmaturitätsausweises Pädagogik Für die Erteilung des FMP-Ausweises sind die Noten in sechs Fächern massgebend, nämlich:
 
-<sup>1</sup> Für die Erteilung des FMP-Ausweises sind die Noten in sechs Fächern massgebend, nämlich:
+- a) Deutsch;
 
-- a) Deutsch
-- b) Englisch
-- c) Mathematik
-- d) Naturwissenschaften
-- e) Sozialwissenschaften
-- f) Fachmaturitätsarbeit
+- b) Englisch;
+
+- c) Mathematik;
+
+- d) Naturwissenschaften;
+
+- e) Sozialwissenschaften;
+
+- f) Fachmaturitätsarbeit.
 
 #### Artikel 29
 
-**Bestehensnorm**
+Bestehensnorm Der FMP-Ausweis wird erteilt, wenn gleichzeitig:
 
-<sup>1</sup> Der FMP-Ausweis wird erteilt, wenn gleichzeitig:
+- a) der Durchschnitt der Noten in den sechs Fächern nach Artikel 28 mindestens 4,0 erreicht;
 
-- a) der Durchschnitt der Noten in den sechs Fächern nach Artikel 28 mindestens 4.0 erreicht
-- b) nicht mehr als zwei Noten in den sechs Fächern nach Artikel 28 ungenügend sind
-- c) die Summe der Notenabweichungen von 4.0 nach unten nicht mehr als 1.0 Punkte beträgt, sowie
-- d) die Note der Fachmaturitätsarbeit mindestens eine 4.0 ist
+- b) nicht mehr als zwei Noten in den sechs Fächern nach Artikel 28 ungenügend sind, und
+
+- c) die Summe der Notenabweichungen von 4,0 nach unten nicht mehr als 1,0 Punkte beträgt, sowie;
+
+- d) die Note der Fachmaturitätsarbeit mindestens eine 4,0 ist.
 
 #### Artikel 30
 
@@ -314,21 +333,25 @@ beschliesst:
 
 **FMP-Ausweis**
 
-<sup>1</sup> Der FMP-Ausweis enthält:
+Der FMP-Ausweis enthält:
 
-- a) die Bezeichnung «Kanton Uri», den Namen der Schule und den Vermerk «gesamtschweizerisch anerkannter Fachmaturitätsausweis Pädagogik»
-- b) die persönlichen Angaben zur Inhaberin oder zum Inhaber
-- c) die Noten in den fünf Fächern nach Artikel 28 Buchstabe a bis e
-- d) das Thema und die Note der Fachmaturitätsarbeit
-- e) die Unterschrift der Bildungsdirektorin oder des Bildungsdirektors und der Rektorin oder des Rektors der Mittelschule
+- a) die Bezeichnung «Kanton Uri», den Namen der Schule und den Vermerk «gesamtschweizerisch anerkannter Fachmaturitätsausweis Pädagogik»;
+
+- b) die persönlichen Angaben zur Inhaberin oder zum Inhaber;
+
+- c) die Noten in den fünf Fächern nach Artikel 28 Buchstabe a bis e;
+
+- d) das Thema und die Note der Fachmaturitätsarbeit;
+
+- e) die Unterschrift der Bildungsdirektorin oder des Bildungsdirektors und der Rektorin oder des Rektors der Mittelschule.
 
 #### Artikel 32
 
 **Aufbewahrung der Prüfungsakten**
 
-<sup>1</sup> Die Mittelschule bewahrt die Akten der Abschlussprüfungen während zehn Jahren im Schularchiv auf.
+Die Mittelschule bewahrt die Akten der Abschlussprüfungen während zehn Jahren im Schularchiv auf.
 
-## 12 Rechtsmittel und Inkrafttreten
+### 12. Abschnitt: Rechtsmittel und Inkrafttreten
 
 #### Artikel 33
 
@@ -338,12 +361,16 @@ beschliesst:
 
 <sup>2</sup> Verfügungen und Entscheide der Prüfungskommission können innert 20 Tagen seit der Eröffnung mit Verwaltungsbeschwerde beim Erziehungsrat angefochten werden.
 
-<sup>3</sup> Das Verfahren richtet sich nach der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)).
+3 Das Verfahren richtet sich nach der Verordnung über die Verwaltungsrechtspflege[^33-1].
+
+[^33-1]: RB 2.2345
 
 #### Artikel 34
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Reglement tritt rückwirkend auf den 1. Dezember 2008 in Kraft.
+Dieses Reglement tritt rückwirkend auf den 1. Dezember 2008 in Kraft.
 
-AB 19.12.2008
+Im Namen des Mittelschulrats
+
+Der Präsident: Josef Arnold Der Rektor: Dr. Ivo Frey
