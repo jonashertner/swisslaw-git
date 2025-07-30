@@ -1,27 +1,32 @@
 ---
 canton: UR
 number: "10.5113"
-title: Reglement über den Schutz der Flach- und Übergangsmoore «Brunnen» und «Fliesmatt» inkl. Moorlehrpfad in der Gemeinde Andermatt
+title: REGLEMENT über den Schutz der Flach- und Übergangsmoore «Brunnen» und «Fliesmatt» inkl. Moorlehrpfad in der Gemeinde Andermatt
 language: de
 version: 2000-03-01
+corrected: 2025-07-31
 version_adopted: 2000-01-18
 adopted: 2000-01-18
 in_force: 2000-03-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.5113"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/580/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/354/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über den Schutz der Flach- und Übergangsmoore «Brunnen» und «Fliesmatt» inkl. Moorlehrpfad in der Gemeinde Andermatt
+# REGLEMENT über den Schutz der Flach- und Übergangsmoore «Brunnen» und «Fliesmatt» inkl. Moorlehrpfad in der Gemeinde Andermatt
 
-Vom 18.01.2000 (Stand 01.03.2000)
+REGLEMENT über den Schutz der Flach- und Übergangsmoore «Brunnen» und «Fliesmatt» inkl. Moorlehrpfad in der Gemeinde Andermatt
 
-Der Regierungsrat des Kantons Uri,
+(vom 18. Januar 2000[^t-1]; Stand am 1. März 2000)
 
-gestützt auf Artikel 18b des Bundesgesetzes über den Natur- und Heimatschutz (NHG, SR [451](https://db.clex.ch/link/Bund/451/de)) und Artikel 10 Absatz 1 des Gesetzes vom 18. Oktober 1987 über den Natur- und Heimatschutz (RB [10.5101](https://rechtsbuch.ur.ch/data/10.5101/de)),
+Der Regierungsrat des Kantons Uri, gestützt auf Artikel 18b des Bundesgesetzes über den Natur- und Heimatschutz (NHG)<sup>2</sup> und Artikel 10 Absatz 1 des Gesetzes vom 18. Oktober 1987 über den Natur- und Heimatschutz[^t-2],
 
 beschliesst:
+
+[^t-1]: AB vom 28. Januar 2000
+[^t-2]: RB 10.5101
 
 #### Artikel 1
 
@@ -35,25 +40,29 @@ beschliesst:
 
 **Schutzobjekte**
 
-<sup>1</sup> Das Gebiet Brunnen / Fliesmatt südlich Mariahilf wird unter Schutz gestellt. Betroffen sind nur Liegenschaften im Besitz der Korporation Ursern.
+<sup>1</sup> Das Gebiet Brunnen/Fliesmatt südlich Mariahilf wird unter Schutz gestellt. Betroffen sind nur Liegenschaften im Besitz der Korporation Ursern.
 
 <sup>2</sup> Die Lage sowie Abgrenzung des Schutzgebietes ergeben sich aus dem Plan im Anhang, der Bestandteil dieses Reglements ist.
 
 #### Artikel 3
 
-**Schutzzonen: Gliederung**
+**Schutzzonen**
+
+- a) Gliederung
 
 <sup>1</sup> Das Schutzgebiet wird in folgende Zonen gegliedert:
 
-- a) Zone I: Naturschutzzone I
-- b) Zone II: Naturschutzzone II
-- c) Zone III: Naturschutzumgebungszone
+- a) Zone I Naturschutzzone I
+
+- b) Zone II Naturschutzzone II
+
+- c) Zone III Naturschutzumgebungszone
 
 <sup>2</sup> Die Schutzzonenzuweisung ergibt sich aus dem Plan im Anhang.
 
-#### Artikel 4
+#### Artikel 4 b
 
-**Schutzzonen: Zweck**
+**) Zweck**
 
 <sup>1</sup> Die Zonen I und II bezwecken die ungeschmälerte Erhaltung der Moorvegetation mit ihren speziellen Pflanzengesellschaften und Tiergemeinschaften. Die Zone I bezweckt zudem die Regeneration der durch die Beweidung bereits geschädigten Flächen.
 
@@ -65,35 +74,52 @@ beschliesst:
 
 <sup>1</sup> Verboten sind in den Schutzzonen gemäss Artikel 3 alle Massnahmen und Einrichtungen, die:
 
-- a) das Schutzobjekt beeinträchtigen können
-- b) die Schutzziele gefährden können
-- c) Pflanzen und Tiere beeinträchtigen können
-- d) die natürlichen Verhältnisse nachteilig verändern können
-- e) im Landschaftsbild störend in Erscheinung treten
+- a) das Schutzobjekt beeinträchtigen können;
+
+- b) die Schutzziele gefährden können;
+
+- c) Pflanzen und Tiere beeinträchtigen können;
+
+- d) die natürlichen Verhältnisse nachteilig verändern können;
+
+- e) im Landschaftsbild störend in Erscheinung treten.
 
 <sup>2</sup> Insbesondere ist verboten:
 
-- a) Hunde frei laufen zu lassen
-- b) wild lebende Tiere zu töten, zu verletzen, zu fangen oder zu stören, ausgenommen bleiben die bewilligte Jagd und Fischerei
-- c) wild lebende Pflanzen zu pflücken, auszugraben oder zu zerstören
-- d) nicht einheimische Tiere und standortfremde Pflanzen anzusiedeln
-- e) Feuer anzufachen
-- f) zu lagern, zu zelten und zu campieren
-- g) Abfälle jeglicher Art liegen zu lassen
+- a) Hunde frei laufen zu lassen;
+
+- b) wild lebende Tiere zu töten, zu verletzen, zu fangen oder zu stören, ausgenommen bleiben die bewilligte Jagd und Fischerei;
+
+- c) wild lebende Pflanzen zu pflücken, auszugraben oder zu zerstören;
+
+- d) nicht einheimische Tiere und standortfremde Pflanzen anzusiedeln;
+
+- e) Feuer anzufachen;
+
+- f) zu lagern, zu zelten und zu campieren;
+
+- g) Abfälle jeglicher Art liegen zu lassen.
 
 #### Artikel 6
 
-**Schutzbestimmungen für die Naturschutzzone I (Zone I)**
+Schutzbestimmungen für die Naturschutzzone I (Zone I) In der Naturschutzzone I ist es zusätzlich zu den Verboten nach Artikel 5 untersagt:
 
-<sup>1</sup> In der Naturschutzzone I ist es zusätzlich zu den Verboten nach Artikel 5 untersagt:
+- a) die Verwendung von Pflanzenbehandlungsmitteln gemäss Anhang 4.3 der Stoffverordnung[^6-1] sowie die Verwendung von Düngern und diesen gleichgestellten Erzeugnissen gemäss Anhang 4.5 der Stoffverordnung[^6-2];
 
-- a) die Verwendung von Pflanzenbehandlungsmitteln gemäss Anhang 4.3 der Stoffverordnung (SR [814.013](https://db.clex.ch/link/Bund/814.013/de)) sowie die Verwendung von Düngern und diesen gleichgestellten Erzeugnissen gemäss Anhang 4.5 der Stoffverordnung (SR [814.013](https://db.clex.ch/link/Bund/814.013/de))
-- b) Bauten und Anlagen aller Art zu errichten, sofern sie nicht den Schutzzielen dienen
-- c) Gelände zu verändern, insbesondere Material abzulagern, abzugraben und zu entnehmen
-- d) zu entwässern
-- e) das Gebiet zu befahren und zu betreten, es sei denn, die Abteilung Natur- und Landschaftsschutz habe dies zu Pflege- und Nutzungszwecken bewilligt
-- f) Tiere durchzutreiben und weiden zu lassen
-- g) zu bewässern
+- b) Bauten und Anlagen aller Art zu errichten, sofern sie nicht den Schutzzielen dienen;
+
+- c) Gelände zu verändern, insbesondere Material abzulagern, abzugraben und zu entnehmen;
+
+- d) zu entwässern;
+
+- e) das Gebiet zu befahren und zu betreten, es sei denn, die Abteilung Natur- und Landschaftsschutz habe dies zu Pflege- und Nutzungszwecken bewilligt;
+
+- f) Tiere durchzutreiben und weiden zu lassen;
+
+- g) zu bewässern.
+
+[^6-1]: SR 814.013
+[^6-2]: SR 814.013
 
 #### Artikel 7
 
@@ -101,26 +127,29 @@ beschliesst:
 
 <sup>1</sup> In der Naturschutzzone II ist es zusätzlich zu den Verboten nach Artikel 5 untersagt:
 
-- a) die Verwendung von Pflanzenbehandlungsmitteln gemäss Anhang 4.3 der Stoffverordnung (SR [814.013](https://db.clex.ch/link/Bund/814.013/de)) sowie die Verwendung von Düngern und diesen gleichgestellten Erzeugnissen gemäss Anhang 4.5 der Stoffverordnung (SR [814.013](https://db.clex.ch/link/Bund/814.013/de))
-- b) Bauten und Anlagen aller Art zu errichten, sofern sie nicht den Schutzzielen dienen
-- c) Gelände zu verändern, insbesondere Material abzulagern, abzugraben und zu entnehmen
-- d) zu entwässern
-- e) das Gebiet ausserhalb des im Plan gemäss Anhang als Wanderweg bezeichneten Weges zu betreten; vorbehalten bleibt das Betreten und Befahren zur Pflege und Nutzung durch den Grundeigentümer oder Bewirtschafter im bisherigen Rahmen
-- f) zu bewässern
+- a) die Verwendung von Pflanzenbehandlungsmitteln gemäss Anhang 4.3 der Stoffverordnung<sup>6</sup> sowie die Verwendung von Düngern und diesen gleichgestellten Erzeugnissen gemäss Anhang 4.5 der Stoffverordnung<sup>7</sup>;
+
+- b) Bauten und Anlagen aller Art zu errichten, sofern sie nicht den Schutzzielen dienen;
+
+- c) Gelände zu verändern, insbesondere Material abzulagern, abzugraben und zu entnehmen;
+
+- d) zu entwässern;
+
+- e) das Gebiet ausserhalb des im Plan gemäss Anhang als Wanderweg bezeichneten Weges zu betreten; vorbehalten bleibt das Betreten und Befahren zur Pflege und Nutzung durch den Grundeigentümer oder Bewirtschafter im bisherigen Rahmen;
+
+- f) zu bewässern.
 
 <sup>2</sup> Der Alpauftrieb sowie der freie Weidgang sind im bisherigen Umfang zulässig.
 
 #### Artikel 8
 
-**Schutzbestimmungen für die Naturschutzumgebungszone (Zone III)**
-
-<sup>1</sup> In der Zone III gelten keine zusätzlichen Verbote zu Artikel 5. Das Errichten von Bauten und Anlagen sowie Geländeveränderungen sind grundsätzlich möglich, dürfen aber die Flachmoore nicht beeinträchtigen. Eine dem Pflanzenbestand angepasste Düngung mit Mist ist gestattet, mit Ausnahme von Riedgebieten und Mooren, in Zwergstrauchheiden und an Oberflächengewässern.
+Schutzbestimmungen für die Naturschutzumgebungszone (Zone III) In der Zone III gelten keine zusätzlichen Verbote zu Artikel 5. Das Errichten von Bauten und Anlagen sowie Geländeveränderungen sind grundsätzlich möglich, dürfen aber die Flachmoore nicht beeinträchtigen. Eine dem Pflanzenbestand angepasste Düngung mit Mist ist gestattet, mit Ausnahme von Riedgebieten und Mooren, in Zwergstrauchheiden und an Oberflächengewässern.
 
 #### Artikel 9
 
 **Gewährleistung bestehender Nutzungsrechte**
 
-<sup>1</sup> Die bisherige vertraglich bzw. grundbuchamtlich gesicherte Nutzung des Korporationsbodens durch die Luftseilbahn Andermatt-Gemsstock AG, die Dorfschützengesellschaft Andermatt sowie allfälliger Rechtsnachfolger bleibt gewährleistet, sofern sie dem mit diesem Reglement verfolgten Schutzziel nicht zuwider läuft.
+Die bisherige vertraglich bzw. grundbuchamtlich gesicherte Nutzung des Korporationsbodens durch die Luftseilbahn Andermatt-Gemsstock AG, die Dorfschützengesellschaft Andermatt sowie allfälliger Rechtsnachfolger bleibt gewährleistet, sofern sie dem mit diesem Reglement verfolgten Schutzziel nicht zuwider läuft.
 
 #### Artikel 10
 
@@ -128,8 +157,9 @@ beschliesst:
 
 <sup>1</sup> Das Schutzgebiet ist durch eine fachgerechte Nutzung durch den Grundeigentümer oder den Bewirtschafter wie folgt zu pflegen:
 
-- a) Die Moorvegetation in der Zone I und II ist in Absprache mit der Abteilung Natur- und Landschaftsschutz zu pflegen
-- b) Die Zone I ist auf Kosten des Kantons Uri einzuzäunen. Der Zaun ist jeweils rechtzeitig vor dem Viehauftrieb im Frühjahr aufzustellen und vor dem Wintereinbruch wieder zu entfernen
+- a) Die Moorvegetation in der Zone I und II ist in Absprache mit der Abteilung Natur- und Landschaftsschutz zu pflegen.
+
+- b) Die Zone I ist auf Kosten des Kantons Uri einzuzäunen. Der Zaun ist jeweils rechtzeitig vor dem Viehauftrieb im Frühjahr aufzustellen und vor dem Wintereinbruch wieder zu entfernen.
 
 <sup>2</sup> Die Kosten für die Gestaltungsmassnahmen und Massnahmen zur Information sowie den laufenden Unterhalt gehen zu Lasten des Kantons Uri.
 
@@ -151,20 +181,24 @@ beschliesst:
 
 **Strafbestimmungen**
 
-<sup>1</sup> Wer die Vorschriften nach Artikel 6, Artikel 7, Artikel 8, Artikel 9 und Artikel 10 verletzt, wird nach Artikel 34 des Gesetzes über den Natur- und Heimatschutz (RB [10.5101](https://rechtsbuch.ur.ch/data/10.5101/de)) mit Busse bis zu 5'000 Franken bestraft.
+<sup>1</sup> Wer die Vorschriften nach Artikel 6, Artikel 7, Artikel 8, Artikel 9 und Artikel 10 verletzt, wird nach Artikel 34 des Gesetzes über den Natur- und Heimatschutz[^12-1] mit Busse bis zu 5'000 Franken bestraft.
 
 <sup>2</sup> Der ursprüngliche Zustand ist auf Kosten des Schuldigen wieder herzustellen.
+
+[^12-1]: RB 10.5101
 
 #### Artikel 13
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Reglement tritt am 1. März 2000 in Kraft.
+Dieses Reglement tritt am 1. März 2000 in Kraft.
 
-## A1 Anhang 1: Schutzzonenplan Flachmoore Brunnen / Fliesmatt
+Im Namen des Regierungsrates
 
-#### Artikel A1-1
+Der Landammann: Peter Mattli Der Kanzleidirektor: Dr. Peter Huber
 
-<sup>1</sup> Schutzzonenplan Flachmoore Brunnen / Fliesmatt:
+### Anhang:
 
-AB 28.01.2000
+- Schutzzonenplan
+
+### Anhang Schutzzonenplan
