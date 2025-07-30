@@ -3,11 +3,11 @@ sr: "196.127.27"
 title: Verordnung vom 7. März 2025 über die Sperrung von Vermögenswerten im Zusammenhang mit Syrien (Syrien-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/157"
 language: de
-version: 2025-03-07
+version: 2025-07-31
 adopted: 2025-03-07
 in_force: 2025-03-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/157/20250307/de/xml/fedlex-data-admin-ch-eli-cc-2025-157-20250307-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/157/20250307/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/157/20250731/de/xml/fedlex-data-admin-ch-eli-cc-2025-157-20250731-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/157/20250731/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2025/157/20250307/de"
 
 (Syrien-Verordnung)
 
-vom 7. März 2025 (Stand am 7. März 2025)
+vom 7. März 2025 (Stand am 31. Juli 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -54,11 +54,13 @@ Wenn der Vollzug der Sperrung Massnahmen bedarf, wie etwa einer entsprechenden A
 
 Diese Verordnung tritt am 7. März 2025 um 18 Uhr in Kraft und gilt bis zum 6. März 2029.
 
-Anhang
+Anhang[^t-1]
 
 (Art. 1 und 3 Abs. 1 und 2)
 
 ## Ausländische politisch exponierte Personen und ihnen nahestehende Personen, deren Vermögenswerte nach Artikel 1 gesperrt sind
+
+[^t-1]: Bereinigt gemäss Ziff. I der V des EDA vom 30. Juli 2025, in Kraft seit 31. Juli 2025 um 18 Uhr ([AS 2025 487](https://fedlex.data.admin.ch/eli/oc/2025/487)).
 
 <table>
 <tr><th>Nr.</th><th>Name</th><th>Geburtsdatum</th><th>Beschreibung</th></tr>
@@ -79,4 +81,5 @@ Anhang
 <tr><td>15</td><td>AL‑ASSAD Soumer *Somar*</td><td>xx.02.1972 *(genaues* *Datum* *unbekannt)*</td><td>Cousin von Bashar al-Assad; Bruder von Siwar al-Assad und Duraid Rifaat al-Assad; Sohn von Rifaat al‑Assad; ehemaliger Miteigentümer des Arab News Network (ANN).</td></tr>
 <tr><td>16</td><td>AL‑ASSAD Siwar</td><td>29.04.1975</td><td>Cousin von Bashar al-Assad; Bruder von Soumer al‑Assad und Duraid Rifaat al-Assad; Sohn von Rifaat al‑Assad; ehemaliger Miteigentümer, Gründer und Präsident des Arab News Network (ANN); Vizepräsident der United Nationals Democratic Alliance.</td></tr>
 <tr><td>17</td><td>KHADDAM Jamel Abdul Halim *Jamal Abdel*</td><td>Datum unbekannt</td><td>Sohn des ehemaligen Vizepräsidenten von Syrien Abdel Halim Khaddam (1984–2005).</td></tr>
+<tr><td>18</td><td>KHADDAM Abdel Halim Bin Jamal</td><td>26.06.1985</td><td>Enkel des ehemaligen Vizepräsidenten von Syrien Abdel Halim Khaddam (1984–2005).</td></tr>
 </table>

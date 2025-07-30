@@ -3,11 +3,11 @@ sr: "196.127.27"
 title: Ordonnance du 7 mars 2025 de blocage de valeurs patrimoniales dans le contexte de la République de Syrie (O-Syrie)
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/157"
 language: fr
-version: 2025-03-07
+version: 2025-07-31
 adopted: 2025-03-07
 in_force: 2025-03-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/157/20250307/fr/xml/fedlex-data-admin-ch-eli-cc-2025-157-20250307-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/157/20250307/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/157/20250731/fr/xml/fedlex-data-admin-ch-eli-cc-2025-157-20250731-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/157/20250731/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2025/157/20250307/fr"
 
 (O-Syrie)
 
-du 7 mars 2025 (État le 7 mars 2025)
+du 7 mars 2025 (État le 31 juillet 2025)
 
 Le Conseil fédéral suisse,
 
@@ -54,11 +54,13 @@ Si la mise en œuvre du blocage nécessite des mesures telles qu’une mention c
 
 La présente ordonnance entre en vigueur le 7 mars 2025 à 18 heures et a effet jusqu’au 6 mars 2029.
 
-Annexe
+Annexe[^t-1]
 
 (art. 1 et 3, al. 1 et 2)
 
 ## Personnes politiquement exposées à l’étranger et proches dont les valeurs patrimoniales font l’objet d’un blocage en vertu de l’art. 1
+
+[^t-1]: Mise à jour par le ch. I de l’O du DFAE du 30 juil. 2025, en vigueur depuis le 31 juil. 2025 à 18 heures ([RO 2025 487](https://fedlex.data.admin.ch/eli/oc/2025/487)).
 
 <table>
 <tr><th>#</th><th>Nom</th><th>Date de naissance</th><th>Description</th></tr>
@@ -79,4 +81,5 @@ Annexe
 <tr><td>15</td><td>AL‑ASSAD Soumer *Somar*</td><td>xx.02.1972 *(date exacte inconnue)*</td><td>Cousin de Bashar al-Assad; frère de Siwar al‑Assad et Duraid Rifaat al-Assad; fils de Rifaat al‑Assad; ancien copropriétaire de *Arab News Network*.</td></tr>
 <tr><td>16</td><td>AL‑ASSAD Siwar</td><td>29.04.1975</td><td>Cousin de Bashar al-Assad; frère de Soumer al‑Assad et Duraid Rifaat al-Assad; fils de Rifaat al‑Assad; ancien copropriétaire, fondateur et président de Arab News Network; vice-président de United Nationals Democratic Alliance.</td></tr>
 <tr><td>17</td><td>KHADDAM Jamel Abdul Halim *Jamal Abdel*</td><td>Date inconnue</td><td>Fils de l’ancien vice-président de la Syrie Abdel Halim Khaddam (1984–2005).</td></tr>
+<tr><td>18</td><td>KHADDAM Abdel Halim Bin Jamal</td><td>26.06.1985</td><td>Petit-fils de l’ancien vice-président de la Syrie Abdel Halim Khaddam (1984–2005).</td></tr>
 </table>
