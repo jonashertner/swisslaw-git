@@ -1,32 +1,34 @@
 ---
 canton: UR
 number: "10.7111"
-title: Gesetz über die Förderung von Kindern und Jugendlichen im Kanton Uri
+title: GESETZ über die Förderung von Kindern und Jugendlichen im Kanton Uri
 short: "Kantonales Kinder- und Jugendförderungsgesetz, KKJFG"
 language: de
 version: 2017-01-01
+corrected: 2025-07-31
 version_adopted: 2016-09-25
 adopted: 2016-09-25
 in_force: 2017-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.7111"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/598/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/370/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über die Förderung von Kindern und Jugendlichen im Kanton Uri
+# GESETZ über die Förderung von Kindern und Jugendlichen im Kanton Uri
 
-(Kantonales Kinder- und Jugendförderungsgesetz, KKJFG)
+GESETZ über die Förderung von Kindern und Jugendlichen im Kanton Uri (Kantonales Kinder- und Jugendförderungsgesetz, KKJFG)
 
-Vom 25.09.2016 (Stand 01.01.2017)
+(vom 25. September 2016[^t-1]; Stand am 1. Januar 2017)
 
-Das Volk des Kantons Uri,
-
-gestützt auf Artikel 90 Absatz 1 der Kantonsverfassung (RB [1.1101](https://rechtsbuch.ur.ch/data/1.1101/de)),
+Das Volk des Kantons Uri, gestützt auf Artikel 90 Absatz 1 der Kantonsverfassung,
 
 beschliesst:
 
-## 1 Allgemeine Bestimmungen
+[^t-1]: AB vom 5. Februar 2016
+
+### 1. Abschnitt: Allgemeine Bestimmungen
 
 #### Artikel 1
 
@@ -48,20 +50,25 @@ beschliesst:
 
 **Begriffe**
 
-<sup>1</sup> In diesem Gesetz bedeuten:
+In diesem Gesetz bedeuten:
 
-- a) Kinder und Jugendliche: Personen von Geburt bis zum erreichten 25. Altersjahr
-- b) Ausserschulische Arbeit: verbandliche und offene Arbeit mit Kindern und Jugendlichen, die örtlich und zeitlich ausserhalb der Schule geleistet wird
-- c) Erziehungsberechtigte: Eltern und andere Personen, die nach Massgabe des Schweizerischen Zivilgesetzbuchs (SR [210](https://db.clex.ch/link/Bund/210/de)) die Verantwortung für die Erziehung des Kindes und des Jugendlichen tragen
-- d) Andere Trägerschaften: Kirchgemeinden und deren Organe, Vereine, Organisationen und Gruppierungen, die ausserschulische Arbeit für Kinder und Jugendliche leisten
+- a) Kinder und Jugendliche: Personen von Geburt bis zum erreichten 25. Altersjahr;
 
-## 2 Grundsätze
+- b) Ausserschulische Arbeit: verbandliche und offene Arbeit mit Kindern und Jugendlichen, die örtlich und zeitlich ausserhalb der Schule geleistet wird;
+
+- c) Erziehungsberechtigte: Eltern und andere Personen, die nach Massgabe des Schweizerischen Zivilgesetzbuchs[^3-1] die Verantwortung für die Erziehung des Kindes und des Jugendlichen tragen;
+
+- d) Andere Trägerschaften: Kirchgemeinden und deren Organe, Vereine, Organisationen und Gruppierungen, die ausserschulische Arbeit für Kinder und Jugendliche leisten.
+
+[^3-1]: SR 210
+
+### 2. Abschnitt: Grundsätze
 
 #### Artikel 4
 
 **Verantwortung der Erziehungsberechtigten**
 
-<sup>1</sup> Die Erziehungsberechtigten sind verantwortlich für das Wohl und die Entwicklung ihrer Kinder und Jugendlichen. Sie sorgen für deren Erziehung, Unterhalt sowie Schutz und nehmen die Verantwortung wahr, die ihnen von Gesetzes wegen zukommt.
+Die Erziehungsberechtigten sind verantwortlich für das Wohl und die Entwicklung ihrer Kinder und Jugendlichen. Sie sorgen für deren Erziehung, Unterhalt sowie Schutz und nehmen die Verantwortung wahr, die ihnen von Gesetzes wegen zukommt.
 
 #### Artikel 5
 
@@ -73,42 +80,45 @@ beschliesst:
 
 #### Artikel 6
 
-**Berücksichtigung der Anliegen der Kinder und Jugendlichen**
-
-<sup>1</sup> Der Kanton und die Gemeinden berücksichtigen bei ihren Tätigkeiten die Anliegen der Kinder und Jugendlichen.
+Berücksichtigung der Anliegen der Kinder und Jugendlichen Der Kanton und die Gemeinden berücksichtigen bei ihren Tätigkeiten die Anliegen der Kinder und Jugendlichen.
 
 #### Artikel 7
 
 **Subsidiarität**
 
-<sup>1</sup> Die Kinder- und Jugendförderung des Kantons und der Einwohnergemeinden tritt da ein, wo es zur Entwicklung der Kinder und Jugendlichen zu selbstständigen und sozial verantwortlichen Personen einer besonderen Unterstützung und Förderung bedarf.
+Die Kinder- und Jugendförderung des Kantons und der Einwohnergemeinden tritt da ein, wo es zur Entwicklung der Kinder und Jugendlichen zu selbstständigen und sozial verantwortlichen Personen einer besonderen Unterstützung und Förderung bedarf.
 
 #### Artikel 8
 
 **Zusammenarbeit**
 
-<sup>1</sup> Alle Beteiligten in der Kinder- und Jugendförderung, insbesondere die Erziehungsberechtigten, der Kanton, die Gemeinden und andere Trägerschaften, arbeiten im Rahmen ihrer Verantwortlichkeiten aktiv zusammen.
+Alle Beteiligten in der Kinder- und Jugendförderung, insbesondere die Erziehungsberechtigten, der Kanton, die Gemeinden und andere Trägerschaften, arbeiten im Rahmen ihrer Verantwortlichkeiten aktiv zusammen.
 
-## 3 Aufgaben des Kantons
+### 3. Abschnitt: Aufgaben des Kantons
 
 #### Artikel 9
 
 **Kinder- und Jugendkommission**
 
-<sup>1</sup> Der Regierungsrat wählt eine Kinder- und Jugendkommission.
+Der Regierungsrat wählt eine Kinder- und Jugendkommission.
 
 #### Artikel 10
 
 **Fachstelle für Kinder- und Jugendförderung**
 
-<sup>1</sup> Der Kanton führt eine Fachstelle für Kinder- und Jugendförderung. Diese nimmt insbesondere folgende Aufgaben wahr:
+Der Kanton führt eine Fachstelle für Kinder- und Jugendförderung. Diese nimmt insbesondere folgende Aufgaben wahr:
 
-- a) Erarbeitung von Grundlagen
-- b) Beratung von Gemeinden und anderen Trägerschaften
-- c) Information der Gemeinden
-- d) Sicherstellung der Koordination auf kantonaler Ebene
-- e) Vertretung des Kantons in interkantonalen und nationalen Gremien
-- f) Bearbeitung von Gesuchen für Beiträge
+- a) Erarbeitung von Grundlagen;
+
+- b) Beratung von Gemeinden und anderen Trägerschaften;
+
+- c) Information der Gemeinden;
+
+- d) Sicherstellung der Koordination auf kantonaler Ebene;
+
+- e) Vertretung des Kantons in interkantonalen und nationalen Gremien;
+
+- f) Bearbeitung von Gesuchen für Beiträge.
 
 #### Artikel 11
 
@@ -118,11 +128,15 @@ beschliesst:
 
 <sup>2</sup> Die Fachstelle betreibt Öffentlichkeitsarbeit und wirkt bei Präventionsveranstaltungen mit. Sie nimmt bei Verdacht auf Gefährdung des Kindeswohls im Rahmen von freiwilligen Massnahmen insbesondere folgende Aufgaben wahr:
 
-- a) Beratung von Eltern und Bezugspersonen
-- b) Begleitung von Kindern und Jugendlichen
-- c) Koordination von Massnahmen und Handlungsabläufen unter den Beteiligten
-- d) Information, Beratung und Begleitung von Behörden, Institutionen und Organisationen
-- e) Durchführung von Kriseninterventionen in Notfällen
+- a) Beratung von Eltern und Bezugspersonen;
+
+- b) Begleitung von Kindern und Jugendlichen;
+
+- c) Koordination von Massnahmen und Handlungsabläufen unter den Beteiligten;
+
+- d) Information, Beratung und Begleitung von Behörden, Institutionen und Organisationen;
+
+- e) Durchführung von Kriseninterventionen in Notfällen.
 
 <sup>3</sup> Der Regierungsrat setzt zur Unterstützung der Fachstelle eine Kindesschutzgruppe ein.
 
@@ -140,56 +154,65 @@ beschliesst:
 
 **Mitwirkung auf kantonaler Ebene**
 
-<sup>1</sup> Der Kanton fördert die Mitwirkung der Kinder und Jugendlichen auf kantonaler Ebene.
+Der Kanton fördert die Mitwirkung der Kinder und Jugendlichen auf kantonaler Ebene.
 
 #### Artikel 14
 
 **Beiträge**
 
-<sup>1</sup> Der Kanton kann einmalige oder wiederkehrende Beiträge zugunsten der Kinder- und Jugendförderung gewähren. Beiträge sind namentlich möglich für:
+Der Kanton kann einmalige oder wiederkehrende Beiträge zugunsten der Kinder- und Jugendförderung gewähren. Beiträge sind namentlich möglich für:
 
-- a) kantonal tätige Verbände und Institutionen
-- b) regional ausgerichtete offene Jugendarbeit
-- c) gemeindeübergreifende Projekte
-- d) Projekte in einzelnen Gemeinden, sofern sich die Gemeinde mindestens im selben Umfang wie der Kanton am Projekt beteiligt
+- a) kantonal tätige Verbände und Institutionen;
 
-## 4 Aufgaben der Einwohnergemeinden
+- b) regional ausgerichtete offene Jugendarbeit;
+
+- c) gemeindeübergreifende Projekte;
+
+- d) Projekte in einzelnen Gemeinden, sofern sich die Gemeinde mindestens im selben Umfang wie der Kanton am Projekt beteiligt.
+
+### 4. Abschnitt: Aufgaben der Einwohnergemeinden
 
 #### Artikel 15
 
 **Verantwortliche Stelle**
 
-<sup>1</sup> Die Gemeinden bezeichnen eine Stelle, welche für die Kinder- und Jugendförderung innerhalb der Gemeinde verantwortlich ist. Die verantwortliche Stelle übernimmt insbesondere folgende Aufgaben:
+Die Gemeinden bezeichnen eine Stelle, welche für die Kinder- und Jugendförderung innerhalb der Gemeinde verantwortlich ist. Die verantwortliche Stelle übernimmt insbesondere folgende Aufgaben:
 
-- a) Kontaktstelle zum Kanton und zu anderen Gemeinden
-- b) Sicherstellung der Vernetzung und Koordination der Aktivitäten innerhalb der Gemeinde
-- c) Förderung der Zusammenarbeit innerhalb der Gemeinde
-- d) Beratung von Kindern und Jugendlichen und anderen Trägerschaften bei der Umsetzung von Projekten in der Gemeinde
-- e) Bearbeitung von Beitragsgesuchen
+- a) Kontaktstelle zum Kanton und zu anderen Gemeinden;
+
+- b) Sicherstellung der Vernetzung und Koordination der Aktivitäten innerhalb der Gemeinde;
+
+- c) Förderung der Zusammenarbeit innerhalb der Gemeinde;
+
+- d) Beratung von Kindern und Jugendlichen und anderen Trägerschaften bei der Umsetzung von Projekten in der Gemeinde;
+
+- e) Bearbeitung von Beitragsgesuchen.
 
 #### Artikel 16
 
 **Freizeitangebote**
 
-<sup>1</sup> Die Gemeinden fördern im Rahmen ihrer finanziellen Möglichkeiten Freizeitangebote für Kinder und Jugendliche. Sie stellen Jugendlichen bei entsprechendem Bedarf nach Möglichkeit geeignete Räumlichkeiten zur Verfügung.
+Die Gemeinden fördern im Rahmen ihrer finanziellen Möglichkeiten Freizeitangebote für Kinder und Jugendliche. Sie stellen Jugendlichen bei entsprechendem Bedarf nach Möglichkeit geeignete Räumlichkeiten zur Verfügung.
 
 #### Artikel 17
 
 **Mitwirkung auf Ebene Gemeinde**
 
-<sup>1</sup> Die Gemeinden fördern die Mitwirkung von Kindern und Jugendlichen auf kommunaler Ebene.
+Die Gemeinden fördern die Mitwirkung von Kindern und Jugendlichen auf kommunaler Ebene.
 
 #### Artikel 18
 
 **Beiträge**
 
-<sup>1</sup> Die Gemeinden können einmalige oder wiederkehrende Beiträge zugunsten der Kinder- und Jugendförderung gewähren. Beiträge sind namentlich möglich für:
+Die Gemeinden können einmalige oder wiederkehrende Beiträge zugunsten der Kinder- und Jugendförderung gewähren. Beiträge sind namentlich möglich für:
 
-- a) kommunal oder kantonal tätige Verbände und Institutionen
-- b) kommunal oder regional ausgerichtete offene Jugendarbeit
-- c) kommunale oder gemeindeübergreifende Projekte
+- a) kommunal oder kantonal tätige Verbände und Institutionen;
 
-## 5 Finanzielle Bestimmungen
+- b) kommunal oder regional ausgerichtete offene Jugendarbeit;
+
+- c) kommunale oder gemeindeübergreifende Projekte.
+
+### 5. Abschnitt: Finanzielle Bestimmungen
 
 #### Artikel 19
 
@@ -197,20 +220,22 @@ beschliesst:
 
 <sup>1</sup> Die Ausgaben nach diesem Gesetz richten sich nach den ordentlichen Finanzkompetenzen der Kantonsverfassung.
 
-<sup>2</sup> Beiträge gemäss Artikel 14 können auch aus Mitteln des Lotteriefonds bestritten werden.
+2 Beiträge gemäss Artikel 14 können auch aus Mitteln des Lotteriefonds bestritten werden.
 
-## 6 Schlussbestimmungen
+### 6. Abschnitt: Schlussbestimmungen
 
 #### Artikel 20
 
 **Vollzug**
 
-<sup>1</sup> Der Regierungsrat vollzieht dieses Gesetz. Er kann dazu ergänzende Ausführungsbestimmungen erlassen.
+Der Regierungsrat vollzieht dieses Gesetz. Er kann dazu ergänzende Ausführungsbestimmungen erlassen.
 
 #### Artikel 21
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Gesetz unterliegt der Volksabstimmung. Es tritt am 1. Januar 2017 in Kraft.
+Dieses Gesetz unterliegt der Volksabstimmung. Es tritt am 1. Januar 2017 in Kraft.
 
-AB 05.02.2016
+Im Namen des Volkes
+
+Frau Landammann: Dr. Heidi Z’graggen Der Kanzleidirektor: Roman Balli
