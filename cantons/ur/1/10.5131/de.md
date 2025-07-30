@@ -1,27 +1,32 @@
 ---
 canton: UR
 number: "10.5131"
-title: Reglement über den Schutz wildwachsender Pilze
+title: REGLEMENT über den Schutz wildwachsender Pilze
 language: de
 version: 2007-05-01
+corrected: 2025-07-31
 version_adopted: 2007-04-17
 adopted: 1993-07-05
 in_force: 1993-08-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.5131"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/591/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/365/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über den Schutz wildwachsender Pilze
+# REGLEMENT über den Schutz wildwachsender Pilze
 
-Vom 05.07.1993 (Stand 01.05.2007)
+REGLEMENT über den Schutz wildwachsender Pilze
 
-Der Regierungsrat des Kantons Uri,
+(vom 5. Juli 1993[^t-1]; Stand am 1. Mai 2007)
 
-gestützt auf Artikel 27 Absatz 2 des Gesetzes vom 18. Oktober 1987 über den Natur- und Heimatschutz (RB [10.5101](https://rechtsbuch.ur.ch/data/10.5101/de)),
+Der Regierungsrat des Kantons Uri, gestützt auf Artikel 27 Absatz 2 des Gesetzes vom 18. Oktober 1987 über den Natur- und Heimatschutz[^t-2],
 
 beschliesst:
+
+[^t-1]: AB vom 16. Juli 1993
+[^t-2]: RB 10.5101
 
 #### Artikel 1
 
@@ -35,19 +40,28 @@ beschliesst:
 
 **Schonzeiten**
 
-<sup>1</sup> …
+<sup>1</sup> ...[^2-1]
 
 <sup>2</sup> Morcheln vor dem 1. April zu sammeln ist verboten.
 
+[^2-1]: Aufgehoben durch RRB vom 17. April 2007, in Kraft gesetzt auf den 1. Mai 2007 (AB vom 27. April 2007).
+[^2-2]: Fassung gemäss RRB vom 20. März 1995, in Kraft gesetzt auf den 1. April 1995 (AB vom 24. März 1995).
+
 #### Artikel 3
 
-**Mengenbeschränkungen**
+[^2-2]
 
-<sup>1</sup> Eine Person darf pro Tag höchstens folgende Mengen sammeln:
+Mengenbeschränkungen Eine Person darf pro Tag höchstens folgende Mengen sammeln:
 
-- a) Morcheln: — 0.5 kg
-- b) Eierschwämme (Pfifferlinge): — 2.0 kg
-- c) übrige Pilzarten: — 3.0 kg
+**0,5 kg**
+
+- a) Morcheln
+
+- b) Eierschwämme (Pfif- 2,0 kg ferlinge)
+
+**3,0 kg**
+
+- c) übrige Pilzarten
 
 #### Artikel 4
 
@@ -55,10 +69,13 @@ beschliesst:
 
 <sup>1</sup> Es ist verboten:
 
-- a) wildwachsende Pilze gewerbsmässig oder im Rahmen organisierter Veranstaltungen zu sammeln
-- b) Hilfsgeräte wie Rechen und Hacken sowie Funkgeräte beim Pilzsammeln zu verwenden
-- c) dem Sammler unbekannte sowie nicht ausgewachsene Pilze zu pflücken
-- d) Pilze mutwillig zu zerstören
+- a) wildwachsende Pilze gewerbsmässig oder im Rahmen organisierter Veranstaltungen zu sammeln;
+
+- b) Hilfsgeräte wie Rechen und Hacken sowie Funkgeräte beim Pilzsammeln zu verwenden;
+
+- c) dem Sammler unbekannte sowie nicht ausgewachsene Pilze zu pflücken;
+
+- d) Pilze mutwillig zu zerstören.
 
 <sup>2</sup> Für das Sammeln zu wissenschaftlichen sowie zu Lehr- und Heilzwecken kann die Volkswirtschaftsdirektion Ausnahmen von diesem Verbot bewilligen.
 
@@ -74,12 +91,16 @@ beschliesst:
 
 **Strafen**
 
-<sup>1</sup> Wer den Bestimmungen dieses Reglementes vorsätzlich oder grobfahrlässig zuwiderhandelt, wird nach Artikel 34 des Gesetzes über den Natur- und Heimatschutz (RB [10.5101](https://rechtsbuch.ur.ch/data/10.5101/de)) mit Busse bis zu 5'000 Franken bestraft.
+Wer den Bestimmungen dieses Reglementes vorsätzlich oder grobfahrlässig zuwiderhandelt, wird nach Artikel 34 des Gesetzes über den Natur- und Heimatschutz[^6-1] mit Busse bis zu 5 000 Franken bestraft.
+
+[^6-1]: RB 10.5101
 
 #### Artikel 7
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Reglement tritt am 1. August 1993 in Kraft.
+**Im Namen des Regierungsrates**
 
-AB 16.07.1993
+**Der Landammann: Dr. Hansruedi Stadler Der Kanzleidirektor: Dr. Peter Huber**
+
+Dieses Reglement tritt am 1. August 1993 in Kraft.
