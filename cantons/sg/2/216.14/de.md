@@ -3,20 +3,19 @@ canton: SG
 number: "216.14"
 title: Studienordnung der Pädagogischen Hochschule St.Gallen
 language: de
-version: 2023-09-01
-valid_until: 2025-07-31
-version_adopted: 2022-12-08
+version: 2025-08-01
+version_adopted: 2025-06-12
 adopted: 2008-04-11
 in_force: 2007-09-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/216.14"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3481/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3789/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Studienordnung der Pädagogischen Hochschule St.Gallen
 
-vom 11.04.2008 (Stand 01.09.2023)
+vom 11.04.2008 (Stand 01.08.2025)
 
 Der Rat der Pädagogischen Hochschule des Kantons St.Gallen
 
@@ -45,8 +44,8 @@ als Studienordnung:[^ingress-2]
 
 <sup>1</sup> Die PHSG bietet folgende Studiengänge zur Lehrperson der Volksschule an:
 
-- a) Bachelor für Kindergarten und Primarschule Unterstufe (Diplomtyp A);
-- b) Bachelor für Primarschule Unter- und Mittelstufe (Diplomtyp B);
+- a) Bachelor für die Primarstufe Schuljahre 1 bis 5 (Diplomtyp A);
+- b) Bachelor für die Primarstufe Schuljahre 3 bis 8 (Diplomtyp B);
 - c) Bachelor-/Master für die Sekundarstufe I, phil. I;
 - d) Bachelor-/Master für die Sekundarstufe I, phil. II.
 
@@ -57,7 +56,7 @@ als Studienordnung:[^ingress-2]
 
 <sup>2</sup> Sie bietet den Studiengang zur Lehrperson der Sekundarstufe I nach Abs.1 dieser Bestimmung integriert oder konsekutiv an.
 
-<sup>3</sup> Die PHSG kann zur Erweiterung der Unterrichtsberechtigung oder zur Nachqualifikation amtierender Lehrpersonen Teilstudien für die Zielstufen nach Abs. 1 dieser Bestimmung anbieten.
+<sup>3</sup> Die PHSG kann zur Erweiterung der Unterrichtsberechtigung oder zur Nachqualifikation von Lehrpersonen Teilstudien für die Zielstufen nach Abs. 1 dieser Bestimmung anbieten.
 
 #### Art. 2bis
 
@@ -65,11 +64,12 @@ als Studienordnung:[^ingress-2]
 
 <sup>1</sup> Die PHSG kann folgende Studiengänge zur Lehrperson der Berufsbildung anbieten:
 
-- a) Studiengang zur Lehrperson für allgemeinbildenden Unterricht;
-- b) Studiengang zur Lehrperson für berufskundlichen Unterricht;
-- c) Studiengang zur Lehrperson an höheren Fachschulen;
-- d) Studiengang für Berufsbildnerinnen und Berufsbildner in überbetrieblichen Kursen und Lehrwerkstätten im Hauptberuf;
-- e) Studiengang zur Lehrperson für Sportunterricht in der beruflichen Grundbildung.
+- a) Studiengang zur Lehrperson für Allgemeinbildung;
+- b) Studiengang zur Lehrperson für Berufskunde;
+- c) Studiengang zur Lehrperson an Höheren Fachschulen;
+- d) Studiengang für Berufsbildnerinnen und Berufsbildner in überbetrieblichen Kursen und Lehrwerkstätten;
+- e) Studiengang zur Lehrperson für Sportunterricht in der beruflichen Grundbildung;
+- f) Studiengang zur Lehrperson für Fächer in der Berufsmaturität.
 
 #### Art. 2ter
 
@@ -98,7 +98,7 @@ als Studienordnung:[^ingress-2]
 <sup>2</sup> Die Zulassung zu einem Master-Studiengang setzt einen Bachelorabschluss oder einen gleichwertigen Hochschulabschluss voraus. Vorbehalten bleibt die Voraussetzung eines fachwissenschaftlichen Masterabschlusses für den kombinierten Master nach Art. 1 Abs. 1<sup>bis</sup> Bst. b dieses Erlasses.
 
 [^3-1]: Art. 23 GPHSG, sGS [216.0](https://www.gesetzessammlung.sg.ch/data/216.0/de).
-[^3-2]: Verordnung über die Zulassung von Bewerberinnen und Bewerbern ohne eine gymnasiale Maturität zum Studiengang Kindergarten- und Primarstufe der Pädagogischen Hochschule des Kantons St.Gallen vom 23. Oktober 2007, sGS [216.12](https://www.gesetzessammlung.sg.ch/data/216.12/de).
+[^3-2]: Verordnung über die Zulassung von Bewerberinnen und Bewerbern ohne eine gymnasiale Maturität zum Studium an der Pädagogischen Hochschule St.Gallen vom 11. August 2015, sGS [216.12](https://www.gesetzessammlung.sg.ch/data/216.12/de).
 
 #### Art. 4
 
@@ -141,7 +141,7 @@ als Studienordnung:[^ingress-2]
 
 **Abschluss**
 
-<sup>1</sup> Das erste Studienjahr des Bachelor-Studiengangs wird mit einer Zwischenprüfung abgeschlossen. Bestandteil der Zwischenprüfung ist die Überprüfung der Eignung der Studierenden für den Lehrberuf.
+<sup>1</sup> Das erste Studienjahr des Bachelor-Studiengangs wird mit einer Zwischenprüfung sowie der Überprüfung der Eignung der Studierenden für den Lehrberuf abgeschlossen.
 
 <sup>2</sup> Der Abschluss des Bachelor- und Masterstudiengangs richtet sich nach Abschnitt II Ziff. 4 dieses Erlasses.
 
@@ -244,12 +244,13 @@ als Studienordnung:[^ingress-2]
 
 #### Art. 16
 
-**b) Bachelorabschluss Studiengänge Kindergarten und Primarschule**
+**b) Bachelorabschluss Studiengänge Primarstufe**
 
 <sup>1</sup> Der Bachelorabschluss setzt voraus, dass:
 
 - a) die vorgeschriebene Anzahl ECTS-Punkte erworben ist;
 - b) …
+- b<sup>bis</sup>) die vorgeschriebenen Module bestanden sind;
 - c) die Bachelorarbeit angenommen ist.
 
 #### Art. 17
@@ -259,6 +260,7 @@ als Studienordnung:[^ingress-2]
 <sup>1</sup> Der Bachelorabschluss setzt voraus, dass:
 
 - a) die vorgeschriebene Anzahl ECTS-Punkte erworben ist;
+- a<sup>bis</sup>) die vorgeschriebenen Module bestanden sind;
 - b) die Bachelorarbeit angenommen ist.
 
 #### Art. 18
@@ -268,8 +270,9 @@ als Studienordnung:[^ingress-2]
 <sup>1</sup> Der Masterabschluss setzt voraus, dass:
 
 - a) die vorgeschriebene Anzahl ECTS-Punkte erworben ist;
-- b) das Schlusspraktikum bestanden ist;
+- b) …
 - c) …
+- c<sup>bis</sup>) die vorgeschriebenen Module bestanden sind;
 - d) die Masterarbeit angenommen ist.
 
 #### Art. 19
@@ -284,7 +287,7 @@ als Studienordnung:[^ingress-2]
 
 <sup>1</sup> Die Erteilung eines st.gallischen Lehrdiploms setzt voraus:
 
-- a) für den Kindergarten und die Primarschule: einen Bachelorabschluss in einem der Studiengänge nach Art. 2 Abs. 1 Bst. a oder b dieses Erlasses;
+- a) für die Primarstufe: einen Bachelorabschluss in einem der Studiengänge nach Art. 2 Abs. 1 Bst. a oder b dieses Erlasses;
 - b) für die Sekundarstufe I: einen Masterabschluss in einem der Studiengänge nach Art. 2 Abs. 1 Bst. c oder d oder nach Art. 2 Abs. 1<sup>bis</sup> Bst. a dieses Erlasses;
 - c) für die Sekundarstufe I und Maturitätsschulen: einen Masterabschluss im Studiengang nach Art. 2 Abs. 1<sup>bis</sup> Bst. b dieses Erlasses.
 
@@ -296,36 +299,36 @@ als Studienordnung:[^ingress-2]
 
 <sup>1</sup> Die Studiengänge zur Lehrperson der Berufsbildung richten sich nach den Vorgaben des Bundes für die Ausbildung von Berufsbildungsverantwortlichen[^20bis-1].
 
-<sup>2</sup> Sie setzen insbesondere vorhandene Rahmenlehrpläne des Bundes um.
+<sup>2</sup> Sie setzen insbesondere die gültigen Rahmenlehrpläne für Berufsbildungsverantwortliche des Bundes um.
 
 [^20bis-1]: Art. 46 des Bundesgesetzes über die Berufsbildung (SR [410.10](https://db.clex.ch/link/Bund/410.10/de); abgekürzt BBG) bzw. Art. 40 bis 49 der eidg V über die Berufsbildung (SR [412.101](https://db.clex.ch/link/Bund/412.101/de); abgekürzt BBV).
 
 #### Art. 20ter
 
-**Ausbildungsreglement**
+**Ausbildungsreglemente**
 
-<sup>1</sup> Der Rat der Hochschule erlässt ein Ausbildungsreglement.
+<sup>1</sup> Der Rat der Hochschule erlässt Ausbildungsreglemente.
 
-<sup>2</sup> Es regelt insbesondere:
+<sup>2</sup> Diese regeln insbesondere:
 
 - a) Zulassung und Aufnahmeverfahren;
 - b) Anrechnung von Vorkenntnissen;
 - c) Umfang, Aufbau und Inhalt der Studiengänge;
 - d) Module sowie weitere zu erbringende Leistungen mit den zugehörigen ECTS-Punkten;
-- e) Prüfungen und Abschluss.
+- e) Leistungsüberprüfungen und Abschluss.
 
-<sup>3</sup> Das Aufnahmereglement nach Art. 4 dieses Erlasses wird sachgemäss angewendet, soweit das Ausbildungsreglement nach Abs. 1 dieser Bestimmung keine besonderen Regelungen enthält.
+<sup>3</sup> Das Aufnahmereglement nach Art. 4 dieses Erlasses wird sachgemäss angewendet, soweit die Ausbildungsreglemente nach Abs. 1 dieser Bestimmung keine besonderen Regelungen enthalten.
 
 ## IV. Akademische Titel
 
 #### Art. 21
 
-**Lehrperson der Volksschule a) Bachelorabschluss Studiengänge Kindergarten- und Primarstufe**
+**Lehrperson der Volksschule a) Bachelorabschluss Studiengänge Primarstufe**
 
 <sup>1</sup> Mit Abschluss der Studiengänge nach Art. 2 Abs. 1 Bst. a und b dieses Erlasses werden folgende akademische Titel[^21-1] und Diplomtitel[^21-2] verliehen:
 
-- a) Lehrperson für Kindergarten und Primarschule Unterstufe (Diplomtyp A): «Bachelor of Arts PHSG in Primary Education» und Lehrdiplom für die Primarstufe 1–5 (EDK);
-- b) Lehrperson für Primarschule Unter- und Mittelstufe (Diplomtyp B): «Bachelor of Arts PHSG in Primary Education» und Lehrdiplom für die Primarstufe 3–8 (EDK).
+- a) Lehrperson für die Primarstufe Schuljahre 1 bis 5 (Diplomtyp A): «Bachelor of Arts in Primary Education» und Lehrdiplom für die Schuljahre 1–5 der Primarstufe (EDK);
+- b) Lehrperson für die Primarstufe Schuljahre 3 bis 8 (Diplomtyp B): «Bachelor of Arts in Primary Education» und Lehrdiplom für die Schuljahre 3–8 der Primarstufe (EDK).
 
 [^21-1]: Art. 18 Abs. 2 des Reglements über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen vom 28. März 2019 der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK), EDK-Erlasssammlung 4.2.2.10.
 [^21-2]: Art. 18 Abs. 1 des Reglements über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen vom 28. März 2019 der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK), EDK-Erlasssammlung 4.2.2.10.
@@ -336,8 +339,8 @@ als Studienordnung:[^ingress-2]
 
 <sup>1</sup> Mit Abschluss der Studiengänge nach Art. 2 Abs. 1 Bst. c und d dieses Erlasses werden auf Bachelorstufe folgende akademische Titel verliehen:[^22-1]
 
-- a) Lehrperson für die Sekundarstufe I, phil. I: «Bachelor of Arts PHSG in Secondary Education»;
-- b) Lehrperson für die Sekundarstufe I, phil. II: «Bachelor of Science PHSG in Secondary Education».
+- a) Lehrperson für die Sekundarstufe I, phil. I: «Bachelor of Arts in Secondary Education»;
+- b) Lehrperson für die Sekundarstufe I, phil. II: «Bachelor of Science in Secondary Education».
 
 <sup>2</sup> Auf der Urkunde wird der folgende Zusatz angebracht: «Der vorliegende akademische Titel beinhaltet keine Lehrbefähigung.»[^22-2]
 
@@ -350,13 +353,13 @@ als Studienordnung:[^ingress-2]
 
 <sup>1</sup> Mit Abschluss der Studiengänge nach Art. 2 Abs. 1 Bst. c und d dieses Erlasses werden auf Masterstufe folgende akademische Titel[^23-1] und Diplomtitel[^23-2] verliehen:
 
-- a) Lehrperson für die Sekundarstufe I, phil. I: «Master of Arts PHSG in Secondary Education» und Lehrdiplom für die Sekundarstufe I;
-- b) Lehrperson für die Sekundarstufe I, phil. II: «Master of Science PHSG in Secondary Education» und Lehrdiplom für die Sekundarstufe I.
+- a) Lehrperson für die Sekundarstufe I, phil. I: «Master of Arts in Secondary Education» und Lehrdiplom für die Sekundarstufe I (EDK);
+- b) Lehrperson für die Sekundarstufe I, phil. II: «Master of Science in Secondary Education» und Lehrdiplom für die Sekundarstufe I (EDK).
 
 <sup>2</sup> Mit Abschluss der Studiengänge nach Art. 2 Abs. 1<sup>bis</sup> Bst. a und b dieses Erlasses werden auf Masterstufe folgende akademische Titel[^23-3] und Diplomtitel[^23-4] verliehen:
 
-- a) Lehrperson für die Sekundarstufe I: «Master of Arts PHSG in Secondary Education» und Lehrdiplom für die Sekundarstufe I;
-- b) Lehrperson für die Sekundarstufe I und Maturitätsschulen: «Master of Arts PHSG in Secondary Education» und Lehrdiplom für die Sekundarstufe I und Maturitätsschulen.
+- a) Lehrperson für die Sekundarstufe I: «Master of Arts in Secondary Education» und Lehrdiplom für die Sekundarstufe I (EDK);
+- b) Lehrperson für die Sekundarstufe I und Maturitätsschulen: «Master of Arts in Secondary Education» und Lehrdiplom für die Sekundarstufe I und Maturitätsschulen (EDK).
 
 [^23-1]: Art. 18 Abs. 2 des Reglements über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen vom 28. März 2019 der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK), EDK-Erlasssammlung 4.2.2.10.
 [^23-2]: Art. 18 Abs. 1 des Reglements über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen vom 28. März 2019 der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK), EDK-Erlasssammlung 4.2.2.10.
