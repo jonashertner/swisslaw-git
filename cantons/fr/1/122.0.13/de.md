@@ -3,13 +3,13 @@ canton: FR
 number: "122.0.13"
 title: Verordnung zur Bezeichnung der Verwaltungseinheiten der Direktionen des Staatsrats und der Staatskanzlei
 language: de
-version: 2025-02-01
-valid_until: 2025-07-31
-version_adopted: 2025-01-07
+version: 2025-08-01
+valid_until: 2026-05-31
+version_adopted: 2025-06-17
 adopted: 2002-07-09
 in_force: 2003-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.0.13"
-pdf: "https://bdlf.fr.ch/api/de/versions/8131/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8216/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/8131/pdf_file"
 
 Verwaltungseinheiten der Direktionen und der Staatskanzlei – V
 
-vom 09.07.2002 (Fassung in Kraft getreten am 01.02.2025)
+vom 09.07.2002 (Fassung in Kraft getreten am 01.08.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -49,7 +49,7 @@ beschliesst:
 <sup>2</sup> Folgende Einheiten sind ihr administrativ zugewiesen:
 
 - a) die Universität (Uni);
-- b) die Pädagogische Hochschule (PH);
+- b) …
 - c) …
 - d) …
 - e) die Kantonale Lehrmittelverwaltung (KLV).

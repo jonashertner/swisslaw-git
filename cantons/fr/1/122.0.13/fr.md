@@ -3,13 +3,13 @@ canton: FR
 number: "122.0.13"
 title: "Ordonnance désignant les unités administratives des Directions du Conseil d'Etat et de la Chancellerie d'Etat"
 language: fr
-version: 2025-02-01
-valid_until: 2025-07-31
-version_adopted: 2025-01-07
+version: 2025-08-01
+valid_until: 2026-05-31
+version_adopted: 2025-06-17
 adopted: 2002-07-09
 in_force: 2003-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.0.13"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8131/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8216/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/8131/pdf_file"
 
 Unités administratives des Directions et de la Chancellerie – O
 
-du 09.07.2002 (version entrée en vigueur le 01.02.2025)
+du 09.07.2002 (version entrée en vigueur le 01.08.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -49,7 +49,7 @@ Arrête:
 <sup>2</sup> Lui sont rattachées administrativement les unités suivantes:
 
 - a) l'Université (Uni);
-- b) la Haute Ecole pédagogique (HEP);
+- b) …
 - c) …
 - d) …
 - e) l'Office cantonal du matériel scolaire (OCMS).
