@@ -4,11 +4,11 @@ title: "Ordinance of 26 August 1998 on the Remediation of Polluted Sites (Contam
 short: CSO
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261"
 language: en
-version: 2024-07-01
+version: 2025-08-01
 adopted: 1998-08-26
 in_force: 1998-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20240701/en/xml/fedlex-data-admin-ch-eli-cc-1998-2261_2261_2261-20240701-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2261_2261_2261/20240701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20250801/en/xml/fedlex-data-admin-ch-eli-cc-1998-2261_2261_2261-20250801-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2261_2261_2261/20250801/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Contaminated Sites Ordinance, CSO)
 
-of 26 August 1998 (Status as of 1 July 2024)
+of 26 August 1998 (Status as of 1 August 2025)
 
 The Swiss Federal Council,
 
@@ -27,7 +27,7 @@ based on Article 32*c* paragraph 1 second sentence and Article 39 paragraph 1 of
 
 ordains:
 
-[^ingress-1]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^ingress-1]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 
 ## Section 1 General Provisions
 
@@ -195,7 +195,7 @@ A polluted site is deemed to be in need of remediation to protect the groundwate
 [^9-2]: Inserted by No I of the O of 9 May 2012, in force since 1 Aug. 2012 ([AS 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)).
 [^9-3]: Amended by No I of the O of 22 March 2017, in force since 1 May 2017 ([AS 2017 2589](https://fedlex.data.admin.ch/eli/oc/2017/246)).
 [^9-4]: Amended by Annex 5 No 5 of the O on the Protection of Waters of 28 Oct. 1998, in force since 1 Jan. 1999 ([AS 1998 2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)).
-[^9-5]: In accordance with Article 29 para. 1 let. A of the O on the Protection of Waters of 28 Oct. 1998 ([SR 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)).
+[^9-5]: In accordance with Article 29 para. 1 let. A of the O on the Protection of Waters of 28 Oct. 1998 ([SR 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)).
 [^9-6]: Amended by Annex 5 No 5 of the O on the Protection of Waters of 28 Oct. 1998, in force since 1 Jan. 1999 ([AS 1998 2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)).
 
 #### Art. 10
@@ -240,7 +240,7 @@ For the protection of surface waters, a polluted site is deemed to be in need of
 <sup>2</sup> Soil that is not in need of remediation in accordance with paragraph 1 despite being polluted sites or parts thereof, and the impacts of polluted sites on soil are assessed in accordance with the Ordinance of 1 July 1998[^12-2] on the Pollution of Soil.
 
 [^12-1]: Amended by Annex No II 2 of the O of 26 Sept. 2008 on the Charge for the Remediation of Contaminated Sites, in force since 1 Jan. 2009 ([AS 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)).
-[^12-2]: [SR 814.12](https://fedlex.data.admin.ch/eli/cc/1998/1854_1854_1854)
+[^12-2]: [SR 814.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9475)
 
 #### Art. 13
 
@@ -362,7 +362,7 @@ By way of exception and with the consent of the Federal Office for the Environme
 - b. it is proven that the reinstated excavated material will not cause harmful effects or nuisances or there is no real danger that such effects may arise; and
 - c. the location is monitored over the long term.[^18-2]
 
-[^18-1]: [SR 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
+[^18-1]: [SR 814.600](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9574)
 [^18-2]: Inserted by No I of the O of 31 May 2024, in force since 1 July 2024 ([AS 2024 253](https://fedlex.data.admin.ch/eli/oc/2024/253)).
 
 #### Art. 19
@@ -447,7 +447,7 @@ In preparing guidelines for implementing this Ordinance, the FOEN shall collabor
 The FOEN shall specify the minimum geodata models and representation models for geographical base data in accordance with this Ordinance for which the Federal Office is designated as the specialist authority at federal level in Annex 1 to the Geoinformation Ordinance of 21 May 2008[^25a-2].
 
 [^25a-1]: Inserted by Annex 2 No 11 of the O of 21 May 2008 on Geoinformation, in force since 1 July 2008 ([AS 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
-[^25a-2]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^25a-2]: [SR 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 
 #### Art. 26
 
@@ -475,7 +475,7 @@ Annex 1[^t-1]
 
 ## Concentration values for assessing the impact of polluted sites on ground and surface waters
 
-[^t-1]: Revised by Annex No II 2 of the O of 26 Sept. 2008 on the Charge for the Remediation of Contaminated Sites ([AS 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)), No II of the O of 9 May 2012 ([AS 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)) and of 22 March 2017, in force since 1 May 2017 ([AS 2017 2589](https://fedlex.data.admin.ch/eli/oc/2017/246)).
+[^t-1]: Revised by Annex No II 2 of the O of 26 Sept. 2008 on the Charge for the Remediation of Contaminated Sites ([AS 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)), No II of the O of 9 May 2012 ([AS 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)), of 22 March 2017 ([AS 2017 2589](https://fedlex.data.admin.ch/eli/oc/2017/246)) and No I of the O of 25 June 2025, in force since 1 Aug. 2025 ([AS 2025 455](https://fedlex.data.admin.ch/eli/oc/2025/455)).
 
 <sup>1</sup> In assessing the impact of polluted sites on waters, the concentration values in the following table apply. Where no concentration values are given in the table for potential water pollutants which are polluting a site, the authority shall specify a value on a case by case basis with the consent of the FOEN and according to the provisions of the legislation on waters protection.
 
@@ -497,7 +497,7 @@ Annex 1[^t-1]
 <tr><th>Substance</th><th>Concentration value</th></tr>
 <tr><td>Inorganic substances</td><td></td></tr>
 <tr><td>Antimony</td><td>0.01 mg Sb/l</td></tr>
-<tr><td>Arsenic</td><td>0.05 mg As/l</td></tr>
+<tr><td>Arsenic</td><td>0.01 mg As/l</td></tr>
 <tr><td>Lead</td><td>0.05 mg Pb/l</td></tr>
 <tr><td>Cadmium</td><td>0.005 mg Cd/l</td></tr>
 <tr><td>Chromium (VI)</td><td>0.02 mg CrVI/l</td></tr>
@@ -521,17 +521,17 @@ Annex 1[^t-1]
 <tr><td>– 4-aniline chloride</td><td>0.1 mg/l</td></tr>
 <tr><td>Halogenated hydrocarbons</td><td></td></tr>
 <tr><td>– 1,2-Dibromoethane (EDB)</td><td>0.05 μg/l<sup>a</sup></td></tr>
-<tr><td>– 1,1-Dichloroethane\*</td><td>3 mg/l</td></tr>
+<tr><td>– 1,1-Dichloroethene\*</td><td>2 mg/l</td></tr>
 <tr><td>– 1,2-Dichloroethane (EDC)\*</td><td>0.003 mg/l</td></tr>
 <tr><td>– 1,1-Dichloroethene\*</td><td>0.03 mg/l</td></tr>
 <tr><td>– 1,2-Dichloroethene (cis and trans)\*</td><td>0.05 mg/l</td></tr>
-<tr><td>– Dichloromethane (methylene chloride, DCM)\*</td><td>0.02 mg/l</td></tr>
+<tr><td>– Dichloromethane (methylene chloride, DCM)\*</td><td>0.2 mg/l</td></tr>
 <tr><td>– 1,2-Dichloropropane\*</td><td>0.005 mg/l</td></tr>
 <tr><td>– 1,1,2,2-Tetrachloroethane</td><td>0.001 mg/l</td></tr>
 <tr><td>– Tetrachloroethene (PERC)</td><td>0.04 mg/l</td></tr>
 <tr><td>– Tetrachloromethane (carbon tetrachloride)\*</td><td>0.002 mg/l</td></tr>
 <tr><td>– 1,1,1-Trichloroethane\*</td><td>2 mg/l</td></tr>
-<tr><td>– Trichloroethene (TCE)\*</td><td>0.07 mg/l</td></tr>
+<tr><td>– Trichloroethene (TCE)\*</td><td>0.01 mg/l</td></tr>
 <tr><td>– Trichloromethane (chloroform)\*</td><td>0.04 mg/l</td></tr>
 <tr><td>– Vinyl chloride\*</td><td>0.5 μg/l</td></tr>
 <tr><td>– Chlorobenzene</td><td>0.7 mg/l</td></tr>
@@ -543,7 +543,7 @@ Annex 1[^t-1]
 <tr><td>Monocyclic aromatic hydrocarbons (BTEX)</td><td></td></tr>
 <tr><td>– Benzene\*</td><td>0.01 mg/l</td></tr>
 <tr><td>– Toluene</td><td>7 mg/l</td></tr>
-<tr><td>– Ethylbenzene</td><td>3 mg/l</td></tr>
+<tr><td>– Ethylbenzene</td><td>0.8 mg/l</td></tr>
 <tr><td>– Xylenes</td><td>10 mg/l</td></tr>
 <tr><td>Nitro compounds</td><td></td></tr>
 <tr><td>– 2,4-Dinitrophenol</td><td>0.05 mg/l</td></tr>
@@ -561,15 +561,15 @@ Annex 1[^t-1]
 <tr><td>Polycyclic aromatic hydrocarbons (PAK)</td><td></td></tr>
 <tr><td>– Acenaphthene</td><td>2 mg/l</td></tr>
 <tr><td>– Anthracene</td><td>10 mg/l<sup>c</sup></td></tr>
-<tr><td>– Benz[a]anthracene</td><td>0.5 μg/l</td></tr>
-<tr><td>– Benzo[b]fluoranthene</td><td>0.5 μg/l</td></tr>
-<tr><td>– Benzo[k]fluoranthene</td><td>0.005 mg/l</td></tr>
-<tr><td>– Benzo[a]pyrene</td><td>0.05 μg/l</td></tr>
-<tr><td>– Chrysene</td><td>0.05 mg/l</td></tr>
-<tr><td>– Dibenz[a,h]anthracene</td><td>0.05 μg/l</td></tr>
+<tr><td>– Benz[a]anthracene</td><td>4 μg/l</td></tr>
+<tr><td>– Benzo[b]fluoranthene</td><td>4 μg/l</td></tr>
+<tr><td>– Benzo[k]fluoranthene</td><td>0.04 mg/l</td></tr>
+<tr><td>– Benzo[a]pyrene</td><td>0.4 μg/l</td></tr>
+<tr><td>– Chrysene</td><td>0.4 mg/l</td></tr>
+<tr><td>– Dibenz[a,h]anthracene</td><td>0.4 μg/l</td></tr>
 <tr><td>– Fluoranthene</td><td>1 mg/l<sup>3</sup></td></tr>
 <tr><td>– Fluorene</td><td>1 mg/l</td></tr>
-<tr><td>– Indeno[1,2,3-cd]pyrene</td><td>0.5 μg/l<sup>3</sup></td></tr>
+<tr><td>– Indeno[1,2,3-cd]pyrene</td><td>4μg/l<sup>3</sup></td></tr>
 <tr><td>– Naphthalene</td><td>1 mg/l</td></tr>
 <tr><td>– Pyrene</td><td>1 mg/l<sup>3</sup></td></tr>
 <tr><td colspan="2"><sup>a</sup> Detection threshold</td></tr>
@@ -633,7 +633,7 @@ Annex 2
 <tr><td>– Naphthalene</td><td>10 ml/m<sup>3</sup></td></tr>
 </table>
 
-[^annex2-lvlu1-1]: [SR 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^annex2-lvlu1-1]: [SR 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
 
 Annex 3[^t-2]
 

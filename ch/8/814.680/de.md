@@ -4,11 +4,11 @@ title: "Verordnung vom 26. August 1998 über die Sanierung von belasteten Stando
 short: AltlV
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261"
 language: de
-version: 2024-07-01
+version: 2025-08-01
 adopted: 1998-08-26
 in_force: 1998-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20240701/de/xml/fedlex-data-admin-ch-eli-cc-1998-2261_2261_2261-20240701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2261_2261_2261/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20250801/de/xml/fedlex-data-admin-ch-eli-cc-1998-2261_2261_2261-20250801-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2261_2261_2261/20250801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2261_2261_2261/20240701/de"
 
 (Altlasten-Verordnung, AltlV)
 
-vom 26. August 1998 (Stand am 1. Juli 2024)
+vom 26. August 1998 (Stand am 1. August 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 32*c* Absatz 1 zweiter Satz und 39 Absatz 1 des Umweltschu
 
 verordnet:
 
-[^ingress-1]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^ingress-1]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -193,7 +193,7 @@ Ein belasteter Standort ist hinsichtlich des Schutzes des Grundwassers sanierung
 [^9-2]: Eingefügt durch Ziff. I der V vom 9. Mai 2012, in Kraft seit 1. Aug. 2012 ([AS 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)).
 [^9-3]: Fassung gemäss Ziff. I der V vom 22. März 2017, in Kraft seit 1. Mai 2017 ([AS 2017 2589](https://fedlex.data.admin.ch/eli/oc/2017/246)).
 [^9-4]: Fassung gemäss Anhang 5 Ziff. 5 der Gewässerschutzverordnung vom 28. Okt. 1998, in Kraft seit 1. Jan. 1999 ([AS 1998 2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)).
-[^9-5]: Nach Art. 29 Abs. 1 Bst. a der Gewässerschutzverordnung vom 28. Okt. 1998 ([SR 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)).
+[^9-5]: Nach Art. 29 Abs. 1 Bst. a der Gewässerschutzverordnung vom 28. Okt. 1998 ([SR 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)).
 [^9-6]: Fassung gemäss Anhang 5 Ziff. 5 der Gewässerschutzverordnung vom 28. Okt. 1998, in Kraft seit 1. Jan. 1999 ([AS 1998 2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)).
 
 #### Art. 10
@@ -238,7 +238,7 @@ Ein belasteter Standort ist hinsichtlich des Schutzes oberirdischer Gewässer sa
 <sup>2</sup> Böden, die nach Absatz 1 nicht sanierungsbedürftig sind, obwohl sie belastete Standorte oder Teile davon sind, und Einwirkungen von belasteten Standorten auf Böden werden gemäss der Verordnung vom 1. Juli 1998[^12-2] über Belastungen des Bodens beurteilt.
 
 [^12-1]: Fassung gemäss Anhang Ziff. II 2 der V vom 26. Sept. 2008 über die Abgabe zur Sanierung von Altlasten, in Kraft seit 1. Jan. 2009 ([AS 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)).
-[^12-2]: [SR 814.12](https://fedlex.data.admin.ch/eli/cc/1998/1854_1854_1854)
+[^12-2]: [SR 814.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9475)
 
 #### Art. 13
 
@@ -360,7 +360,7 @@ Die Behörde kann ausnahmsweise und mit Zustimmung des Bundesamts für Umwelt (B
 - b. nachgewiesen ist, dass das wiedereingebaute Aushubmaterial nicht zu schädlichen oder lästigen Einwirkungen führt oder nicht die konkrete Gefahr besteht, dass solche Einwirkungen entstehen; und
 - c. der Standort langfristig überwacht wird.[^18-2]
 
-[^18-1]: [SR 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
+[^18-1]: [SR 814.600](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9574)
 [^18-2]: Eingefügt durch Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 253](https://fedlex.data.admin.ch/eli/oc/2024/253)).
 
 #### Art. 19
@@ -445,7 +445,7 @@ Bei der Erarbeitung von Richtlinien zur Anwendung dieser Verordnung arbeitet das
 Das BAFU gibt die minimalen Geodatenmodelle und Darstellungsmodelle für Geobasisdaten nach dieser Verordnung vor, für die es im Anhang 1 der Geoinformationsverordnung vom 21. Mai 2008[^25a-2] als Fachstelle des Bundes bezeichnet ist.
 
 [^25a-1]: Eingefügt durch Anhang 2 Ziff. 11 der V vom 21. Mai 2008 über Geoinformation, in Kraft seit 1. Juli 2008 ([AS 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
-[^25a-2]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^25a-2]: [SR 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 
 #### Art. 26
 
@@ -473,7 +473,7 @@ Anhang 1[^t-1]
 
 ## Konzentrationswerte für die Beurteilung der Einwirkungen von belasteten Standorten auf die Gewässer
 
-[^t-1]: Bereinigt gemäss Anhang Ziff. II 2 der V vom 26. Sept. 2008 über die Abgabe zur Sanierung von Altlasten ([AS 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)), Ziff. II der V vom 9. Mai 2012 ([AS 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)) und vom 22. März 2017, in Kraft seit 1. Mai 2017 ([AS 2017 2589](https://fedlex.data.admin.ch/eli/oc/2017/246)).
+[^t-1]: Bereinigt gemäss Anhang Ziff. II 2 der V vom 26. Sept. 2008 über die Abgabe zur Sanierung von Altlasten ([AS 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)), Ziff. II der V vom 9. Mai 2012 ([AS 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)), vom 22. März 2017 ([AS 2017 2589](https://fedlex.data.admin.ch/eli/oc/2017/246)) und Ziff. I der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 455](https://fedlex.data.admin.ch/eli/oc/2025/455)).
 
 <sup>1</sup> Für die Beurteilung der Einwirkungen von belasteten Standorten auf die Gewässer gelten die Konzentrationswerte der nachfolgenden Tabelle. Sind für Stoffe, die Gewässer verunreinigen können und mit denen ein Standort belastet ist, keine Konzentrationswerte festgelegt, so legt die Behörde solche mit Zustimmung des BAFU im Einzelfall nach den Vorschriften der Gewässerschutzgesetzgebung fest.
 
@@ -495,7 +495,7 @@ Anhang 1[^t-1]
 <tr><th>Stoff</th><th>Konzentrationswert</th></tr>
 <tr><td>*Anorganika*</td><td></td></tr>
 <tr><td>Antimon</td><td>0.01 mg Sb/l</td></tr>
-<tr><td>Arsen</td><td>0.05 mg As/l</td></tr>
+<tr><td>Arsen</td><td>0.01 mg As/l</td></tr>
 <tr><td>Blei</td><td>0.05 mg Pb/l</td></tr>
 <tr><td>Cadmium</td><td>0.005 mg Cd/l</td></tr>
 <tr><td>Chrom (VI)</td><td>0.02 mg CrVI/l</td></tr>
@@ -521,15 +521,15 @@ Anhang 1[^t-1]
 <tr><td>– 1,2-Dibromethan (EDB)</td><td>0.05 µg/l<sup>a</sup></td></tr>
 <tr><td>– 1,1-Dichlorethan\*</td><td>3 mg/l</td></tr>
 <tr><td>– 1,2-Dichlorethan (EDC)\*</td><td>0.003 mg/l</td></tr>
-<tr><td>– 1,1-Dichlorethen\*</td><td>0.03 mg/l</td></tr>
+<tr><td>– 1,1-Dichlorethen\*</td><td>2 mg/l</td></tr>
 <tr><td>– 1,2-Dichlorethene\*</td><td>0.05 mg/l</td></tr>
-<tr><td>– Dichlormethan (Methylenchlorid, DCM)\*</td><td>0.02 mg/l</td></tr>
+<tr><td>– Dichlormethan (Methylenchlorid, DCM)\*</td><td>0.2 mg/l</td></tr>
 <tr><td>– 1,2-Dichlorpropan\*</td><td>0.005 mg/l</td></tr>
 <tr><td>– 1,1,2,2-Tetrachlorethan</td><td>0.001 mg/l</td></tr>
 <tr><td>– Tetrachlorethen (Per)</td><td>[tab] 0.04 mg/l</td></tr>
 <tr><td>– Tetrachlormethan (Tetrachlorkohlenstoff)\*</td><td>[tab] 0.002 mg/l</td></tr>
 <tr><td>– 1,1,1-Trichlorethan\*</td><td>[tab] 2 mg/l</td></tr>
-<tr><td>– Trichlorethen (Tri)\*</td><td>[tab] 0.07 mg/l</td></tr>
+<tr><td>– Trichlorethen (Tri)\*</td><td>[tab] 0.01 mg/l</td></tr>
 <tr><td>– Trichlormethan (Chloroform)\*</td><td>[tab] 0.04 mg/l</td></tr>
 <tr><td>– Vinylchlorid\*</td><td>[tab] 0.5 µg/l</td></tr>
 <tr><td>– Chlorbenzol</td><td>[tab] 0.7 mg/l</td></tr>
@@ -541,7 +541,7 @@ Anhang 1[^t-1]
 <tr><td>Monocyclische aromatische Kohlenwasserstoffe (BTEX)</td><td></td></tr>
 <tr><td>– Benzol\*</td><td>0.01 mg/l</td></tr>
 <tr><td>– Toluol</td><td>7 mg/l</td></tr>
-<tr><td>– Ethylbenzol</td><td>3 mg/l</td></tr>
+<tr><td>– Ethylbenzol</td><td>0.8 mg/l</td></tr>
 <tr><td>– Xylole</td><td>10 mg/l</td></tr>
 <tr><td>Nitroverbindungen</td><td></td></tr>
 <tr><td>– 2,4-Dinitrophenol</td><td>0.05 mg/l</td></tr>
@@ -559,15 +559,15 @@ Anhang 1[^t-1]
 <tr><td>Polycyclische aromatische Kohlenwasserstoffe (PAK)</td><td></td></tr>
 <tr><td>– Acenaphthen</td><td>2 mg/l</td></tr>
 <tr><td>– Anthracen</td><td>10 mg/l<sup>c</sup></td></tr>
-<tr><td>– Benz(a)anthracen</td><td>0.5 µg/l</td></tr>
-<tr><td>– Benzo(b)fluoranthen</td><td>0.5 µg/l</td></tr>
-<tr><td>– Benzo(k)fluoranthen</td><td>0.005 mg/l</td></tr>
-<tr><td>– Benzo(a)pyren</td><td>0.05 µg/l</td></tr>
-<tr><td>– Chrysen</td><td>0.05 mg/l</td></tr>
-<tr><td>– Dibenz(ah)anthracen</td><td>0.05 µg/l</td></tr>
+<tr><td>– Benz(a)anthracen</td><td>4 µg/l</td></tr>
+<tr><td>– Benzo(b)fluoranthen</td><td>4 µg/l</td></tr>
+<tr><td>– Benzo(k)fluoranthen</td><td>0.04 mg/l</td></tr>
+<tr><td>– Benzo(a)pyren</td><td>0.4 µg/l</td></tr>
+<tr><td>– Chrysen</td><td>0.4 mg/l</td></tr>
+<tr><td>– Dibenz(ah)anthracen</td><td>0.4 µg/l</td></tr>
 <tr><td>– Fluoranthen</td><td>1 mg/l<sup>c</sup></td></tr>
 <tr><td>– Fluoren</td><td>1 mg/l</td></tr>
-<tr><td>– Indeno(1,2,3-cd)pyren</td><td>0.5 µg/l<sup>c</sup></td></tr>
+<tr><td>– Indeno(1,2,3-cd)pyren</td><td>4 µg/l<sup>c</sup></td></tr>
 <tr><td>– Naphthalin</td><td>1 mg/l</td></tr>
 <tr><td>– Pyren</td><td>1 mg/l<sup>c</sup></td></tr>
 <tr><td colspan="2"><sup>a</sup> Bestimmungsgrenze <sup>b</sup> PCB: die Summe der 6 Einzelisomere 28, 52, 101, 138, 153 und 180 multipliziert mit dem Faktor 4,3 darf den Konzentrationswert nicht überschreiten. <sup>c</sup> In diesen Konzentrationen im Eluat normalerweise nicht feststellbar. \* Wird nach Absatz 4 beurteilt. \*\* Gilt nur für oberirdische Gewässer.</td></tr>
@@ -627,7 +627,7 @@ Anhang 2
 <tr><td>– Naphthalin</td><td>[tab] 10 ml/m3</td></tr>
 </table>
 
-[^annex2-lvlu1-1]: [SR 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^annex2-lvlu1-1]: [SR 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
 
 Anhang 3[^t-2]
 

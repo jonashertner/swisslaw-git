@@ -4,11 +4,11 @@ title: "Ordonnance du 26 août 1998 sur l'assainissement des sites pollués (Ord
 short: OSites
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261"
 language: fr
-version: 2024-07-01
+version: 2025-08-01
 adopted: 1998-08-26
 in_force: 1998-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2261_2261_2261-20240701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2261_2261_2261/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20250801/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2261_2261_2261-20250801-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2261_2261_2261/20250801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2261_2261_2261/20240701/fr"
 
 (Ordonnance sur les sites contaminés, OSites[^t-1])
 
-du 26 août 1998 (État le 1<sup>er</sup> juillet 2024)
+du 26 août 1998 (État le 1<sup>er</sup> août 2025)
 
 [^t-1]: [RO 1998 2828](https://fedlex.data.admin.ch/eli/oc/1998/2828_2828_2828)
 
@@ -27,7 +27,7 @@ vu les art. 32*c*, al. 1, deuxième phrase, et 39, al. 1, de la loi du 7 octobre
 
 arrête:
 
-[^ingress-1]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^ingress-1]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 
 ## Section 1 Dispositions générales
 
@@ -197,7 +197,7 @@ Un site pollué nécessite un assainissement du point de vue de la protection de
 [^9-2]: Introduit par le ch. I de l’O du 9 mai 2012, en vigueur depuis le 1<sup>er</sup> août 2012 ([RO 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)).
 [^9-3]: Nouvelle teneur selon le ch. I de l’O du 22 mars 2017, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 2589](https://fedlex.data.admin.ch/eli/oc/2017/246)).
 [^9-4]: Nouvelle teneur selon le ch. 5 de l’annexe 5 de l’O du 28 oct. 1998 sur la protection des eaux, en vigueur depuis le 1<sup>er</sup> janv. 1999 ([RO 1998 2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)).
-[^9-5]: Conformément à l’art. 29 al. 1 let. a de l’O du 28 oct. 1998 sur la protection des eaux ([RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)).
+[^9-5]: Conformément à l’art. 29 al. 1 let. a de l’O du 28 oct. 1998 sur la protection des eaux ([RS 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)).
 [^9-6]: Nouvelle teneur selon le l’annexe 5 ch. 5 de l’O du 28 oct. 1998 sur la protection des eaux, en vigueur depuis le 1<sup>er</sup> janv. 1999 ([RO 1998 2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)).
 
 #### Art. 10
@@ -242,7 +242,7 @@ Un site pollué nécessite un assainissement du point de vue de la protection de
 <sup>2</sup> Les sols qui ne nécessitent pas un assainissement au sens de l’al. 1, même s’ils constituent un site pollué ou une partie de site pollué, et les atteintes portées aux sols par les sites pollués sont évalués selon l’ordonnance du 1<sup>er</sup> juillet 1998 sur les atteintes portées aux sols[^12-2].
 
 [^12-1]: Nouvelle teneur selon l’annexe ch. II 2 de l’O du 26 sept. 2008 relative à la taxe pour l’assainissement des sites contaminés, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)).
-[^12-2]: [RS 814.12](https://fedlex.data.admin.ch/eli/cc/1998/1854_1854_1854)
+[^12-2]: [RS 814.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9475)
 
 #### Art. 13
 
@@ -364,7 +364,7 @@ Dans des cas exceptionnels, elle peut, avec l’accord de l’Office fédéral d
 - b. s’il est prouvé que les matériaux d’excavation remis en place n’engendrent pas d’atteintes nuisibles ou incommodantes et qu’il n’existe pas de danger concret que de telles atteintes apparaissent, et
 - c. si le site est surveillé à long terme.[^18-2]
 
-[^18-1]: [RS 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
+[^18-1]: [RS 814.600](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9574)
 [^18-2]: Introduit par le ch. I de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 253](https://fedlex.data.admin.ch/eli/oc/2024/253)).
 
 #### Art. 19
@@ -449,7 +449,7 @@ Pour élaborer des directives concernant l’application de la présente ordonna
 L’OFEV prescrit les modèles de géodonnées et les modèles de représentation minimaux pour les géodonnées de base visées par la présente ordonnance, lorsqu’il est désigné comme service spécialisé de la Confédération dans l’annexe 1 de l’ordonnance du 21 mai 2008 sur la géoinformation[^25a-2].
 
 [^25a-1]: Introduit par l’annexe 2 ch. 11 de l’O du 21 mai 2008 sur la géoinformation, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
-[^25a-2]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^25a-2]: [RS 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 
 #### Art. 26
 
@@ -477,7 +477,7 @@ Annexe 1[^t-2]
 
 ## Valeurs de concentration pour l’évaluation des atteintes portées aux eaux par les sites pollués
 
-[^t-2]: Mise à jour par l’annexe ch. II 2 de l’O du 26 sept. 2008 relative à la taxe pour l’assainissement des sites contaminés ([RO 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)), le ch. II des O du 9 mai 2012 ([RO 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)) et du 22 mars 2017, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 2589](https://fedlex.data.admin.ch/eli/oc/2017/246)).
+[^t-2]: Mise à jour par l’annexe ch. II 2 de l’O du 26 sept. 2008 relative à la taxe pour l’assainissement des sites contaminés ([RO 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)), le ch. II des O du 9 mai 2012 ([RO 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)), du 22 mars 2017 ([RO 2017 2589](https://fedlex.data.admin.ch/eli/oc/2017/246)) et le ch. I de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 455](https://fedlex.data.admin.ch/eli/oc/2025/455)).
 
 <sup>1</sup> Pour évaluer les atteintes portées aux eaux par les sites pollués, on se basera sur les valeurs de concentration indiquées dans le tableau ci-après. Si aucune valeur de concentration n’a été déterminée pour certaines substances pouvant polluer les eaux et se trouvant sur un site, l’autorité fixe les valeurs requises au cas par cas en accord avec l’OFEV, selon les prescriptions de la législation sur la protection des eaux.
 
@@ -499,7 +499,7 @@ Annexe 1[^t-2]
 <tr><th>Substance</th><th>Valeur de concentration</th></tr>
 <tr><td>Substances inorganiques</td><td></td></tr>
 <tr><td>Antimoine</td><td>0,01 mg Sb/l</td></tr>
-<tr><td>Arsenic</td><td>0,05 mg As/l</td></tr>
+<tr><td>Arsenic</td><td>0,01 mg As/l</td></tr>
 <tr><td>Plomb</td><td>0,05 mg Pb/l</td></tr>
 <tr><td>Cadmium</td><td>0,005 mg Cd/l</td></tr>
 <tr><td>Chrome (VI)</td><td>0,02 mg Cr<sup>VI</sup>/l</td></tr>
@@ -524,15 +524,15 @@ Annexe 1[^t-2]
 <tr><td>– 1,2-dibrométhane (EDB)</td><td>0,05 µg/l <sup>a</sup></td></tr>
 <tr><td>– 1,1-dichloréthane\*</td><td>3 mg/l</td></tr>
 <tr><td>– 1,2-dichloréthane (EDC)\*</td><td>0,003 mg/l</td></tr>
-<tr><td>– 1,1-dichloréthène\*</td><td>0,03 mg/l</td></tr>
+<tr><td>– 1,1-dichloréthène\*</td><td>2 mg/l</td></tr>
 <tr><td>– 1,2-dichloréthènes\*</td><td>0,05 mg/l</td></tr>
-<tr><td>– Dichlorométhane (chlorure de méthylène, DCM)\*</td><td>0,02 mg/l</td></tr>
+<tr><td>– Dichlorométhane (chlorure de méthylène, DCM)\*</td><td>0,2 mg/l</td></tr>
 <tr><td>– 1,2-dichloropropane\*</td><td>0,005 mg/l</td></tr>
 <tr><td>– 1,1,2,2-tétrachloréthane</td><td>0,001 mg/l</td></tr>
 <tr><td>– Tétrachloréthène (Per)</td><td>0,04 mg/l</td></tr>
 <tr><td>– Tétrachlorométhane (tétrachlorure de carbone)\*</td><td>0,002 mg/l</td></tr>
 <tr><td>– 1,1,1-trichloréthane\*</td><td>2 mg/l</td></tr>
-<tr><td>– Trichloréthène (Tri)\*</td><td>0,07 mg/l</td></tr>
+<tr><td>– Trichloréthène (Tri)\*</td><td>0,01 mg/l</td></tr>
 <tr><td>– Trichlorméthane (chloroforme)\*</td><td>0,04 mg/l</td></tr>
 <tr><td>– Chlorure de vinyle\*</td><td>0,5 µg/l</td></tr>
 <tr><td>– Chlorobenzène</td><td>0,7 mg/l</td></tr>
@@ -544,7 +544,7 @@ Annexe 1[^t-2]
 <tr><td>Hydrocarbures aromatiques monocycliques (BTEX)</td><td></td></tr>
 <tr><td>– Benzène\*</td><td>0,01 mg/l</td></tr>
 <tr><td>– Toluène</td><td>7 mg/l</td></tr>
-<tr><td>– Ethylbenzène</td><td>3 mg/l</td></tr>
+<tr><td>– Éthylbenzène</td><td>0,8 mg/l</td></tr>
 <tr><td>– Xylènes</td><td>10 mg/l</td></tr>
 <tr><td>Composés nitrés</td><td></td></tr>
 <tr><td>– 2,4-dinitrophénol</td><td>0,05 mg/l</td></tr>
@@ -562,15 +562,15 @@ Annexe 1[^t-2]
 <tr><td>Hydrocarbures aromatiques polycycliques (HAP)</td><td></td></tr>
 <tr><td>– Acénaphthène</td><td>2 mg/l</td></tr>
 <tr><td>– Anthracène</td><td>10 mg/l <sup>c</sup></td></tr>
-<tr><td>– Benz(a)anthracène</td><td>0,5 µg/l</td></tr>
-<tr><td>– Benzo(b)fluoranthène</td><td>0,5 µg/l</td></tr>
-<tr><td>– Benzo(k)fluoranthène</td><td>0,005 mg/l</td></tr>
-<tr><td>– Benzo(a)pyrène</td><td>0,05 µg/l</td></tr>
-<tr><td>– Chrysène</td><td>0,05 mg/l</td></tr>
-<tr><td>– Dibenz(a)anthracène</td><td>0,05 µg/l</td></tr>
+<tr><td>– Benz(a)anthracène</td><td>4 µg/l</td></tr>
+<tr><td>– Benzo(b)fluoranthène</td><td>4 µg/l</td></tr>
+<tr><td>– Benzo(k)fluoranthène</td><td>0,04 mg/l</td></tr>
+<tr><td>– Benzo(a)pyrène</td><td>0,4 µg/l</td></tr>
+<tr><td>– Chrysène</td><td>0,4 mg/l</td></tr>
+<tr><td>– Dibenz(a)anthracène</td><td>0,4 µg/l</td></tr>
 <tr><td>– Fluoranthène</td><td>1 mg/l <sup>c</sup></td></tr>
 <tr><td>– Fluorène</td><td>1 mg/l</td></tr>
-<tr><td>– Indéno(1,2,3-cd)pyrène</td><td>0,5 µg/l <sup>c</sup></td></tr>
+<tr><td>– Indéno(1,2,3-cd)pyrène</td><td>4 µg/l <sup>c</sup></td></tr>
 <tr><td>– Naphtalène</td><td>1 mg/l</td></tr>
 <tr><td>– Pyrène</td><td>1 mg/l <sup>c</sup></td></tr>
 <tr><td colspan="2"><sup>a.</sup> Seuil de quantification <sup>b.</sup> PCB: la somme des 6 isomères 28, 52, 101, 138, 153 et 180 multipliée par 4.3 ne doit pas dépasser la valeur de concentration. <sup>c.</sup> En principe indécelable dans le lixiviat à de telles concentrations. \* Évalué selon l’al. 4 \*\* Ne s’ applique qu’aux eaux de surface.</td></tr>
@@ -630,7 +630,7 @@ Annexe 2
 <tr><td>– Naphtalène</td><td>10 ml/m<sup>3</sup></td></tr>
 </table>
 
-[^annex2-lvlu1-1]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^annex2-lvlu1-1]: [RS 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
 
 Annexe 3[^t-3]
 
