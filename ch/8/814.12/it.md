@@ -4,11 +4,11 @@ title: Ordinanza del 1° luglio 1998 contro il deterioramento del suolo (O suolo
 short: O suolo
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/1854_1854_1854"
 language: it
-version: 2016-04-12
+version: 2025-08-01
 adopted: 1998-07-01
 in_force: 1998-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1854_1854_1854/20160412/it/xml/fedlex-data-admin-ch-eli-cc-1998-1854_1854_1854-20160412-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/1854_1854_1854/20160412/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1854_1854_1854/20250801/it/xml/fedlex-data-admin-ch-eli-cc-1998-1854_1854_1854-20250801-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/1854_1854_1854/20250801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/1854_1854_1854/20160412/it"
 
 (O suolo)
 
-del 1° luglio 1998 (Stato 12 aprile 2016)
+del 1° luglio 1998 (Stato 1° agosto 2025)
 
 Il Consiglio federale svizzero,
 
@@ -36,9 +36,11 @@ ordina:
 Per conservare a lungo termine la fertilità del suolo, la presente ordinanza disciplina:
 
 - a. l’osservazione, la sorveglianza e la valutazione del deterioramento chimico, biologico e fisico del suolo;
-- b. le misure atte a prevenire il costipamento e l’erosione persistente del suolo;
+- b.[^1-1] le misure atte a prevenire il costipamento a lungo termine e l’erosione del suolo;
 - c. le misure d’utilizzazione del suolo asportato;
 - d. le ulteriori misure che i Cantoni prendono in caso di suoli deteriorati (art. 34 LPAmb).
+
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 452](https://fedlex.data.admin.ch/eli/oc/2025/452)).
 
 #### Art. 2
 
@@ -48,21 +50,24 @@ Per conservare a lungo termine la fertilità del suolo, la presente ordinanza di
 
 Il suolo è fertile quando:
 
-- a.[^2-1] possiede una biocenosi biologicamente attiva, una struttura, una composizione e uno spessore tipici per la sua posizione nonché una capacità di decomposizione intatta;
+- a.[^2-1] possiede una diversità, una biomassa e un’attività degli organismi, una sostanza organica, una struttura, una composizione e uno spessore tipici per la sua ubicazione nonché una capacità di decomposizione intatta;
 - b. permette la crescita e lo sviluppo normali o influenzati dall’uomo di piante e associazioni vegetali, naturali o coltivate, e non pregiudica le loro caratteristiche;
 - c. permette una produzione vegetale di buona qualità che non mette in pericolo la salute dell’uomo e degli animali;
 - d. non mette in pericolo la salute dell’uomo e degli animali che lo ingeriscono direttamente.
 
 <sup>2</sup> È considerato deterioramento chimico del suolo il deterioramento derivante da sostanze naturali o artificiali (sostanze nocive).
 
-<sup>3</sup> È considerato deterioramento biologico del suolo il deterioramento derivante in particolare da organismi geneticamente modificati, patogeni o alloctoni.[^2-2]
+<sup>3</sup> È considerato deterioramento biologico del suolo il deterioramento derivante da cambiamenti negativi a lungo termine della diversità, della biomassa o dell’attività degli organismi del suolo, dovuti in particolare a organismi geneticamente modificati, patogeni o alloctoni.[^2-2]
 
 <sup>4</sup> Sono considerate deterioramento fisico del suolo le modificazioni della struttura, della conformazione o dello spessore del suolo derivanti da interventi dell’uomo.
 
+<sup>4bis</sup> È considerata sostanza organica del suolo qualsiasi sostanza animale, vegetale o microbica viva o morta che viene degradata o trasformata attraverso processi biologici o chimici nel suolo.[^2-3]
+
 <sup>5</sup> Per determinate forme di utilizzazione i valori di guardia indicano il deterioramento del suolo che, in caso di superamento, secondo le attuali conoscenze scientifiche e l’esperienza, può presentare un pericolo concreto per l’uomo, gli animali o le piante. Tali valori servono a valutare se è necessario limitare l’utilizzazione del suolo ai sensi dell’articolo 34 capoverso 2 LPAmb.
 
-[^2-1]: Nuovo testo giusta il n. 6 dell’all. 6 all’O del 4 dic. 2015 sui rifiuti, in vigore dal 1° gen. 2016 ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)).
-[^2-2]: Nuovo testo giusta il n. 9 dell’all. 5 all’O del 9 mag. 2012 sull’impiego confinato, in vigore dal 1° giu. 2012 ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 452](https://fedlex.data.admin.ch/eli/oc/2025/452)).
+[^2-2]: Nuovo testo giusta la cifra I dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 452](https://fedlex.data.admin.ch/eli/oc/2025/452)).
+[^2-3]: Introdotto dalla cifra I dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 452](https://fedlex.data.admin.ch/eli/oc/2025/452)).
 
 ## Sezione 2: Osservazione, sorveglianza e valutazione del deterioramento del suolo
 
@@ -70,21 +75,26 @@ Il suolo è fertile quando:
 
 **Osservazione da parte della Confederazione**
 
-<sup>1</sup> L’Ufficio federale dell’ambiente (UFAM)[^3-1] gestisce in collaborazione con l’Ufficio federale dell’agricoltura (UFAG) una rete nazionale di osservazione del deterioramento del suolo (NABO).
+<sup>1</sup> L’Ufficio federale dell’ambiente (UFAM) gestisce una rete nazionale di osservazione del deterioramento del suolo (NABO) in collaborazione con l’Ufficio federale dell’agricoltura (UFAG).[^3-1]
 
-<sup>2</sup> L’UFAM informa i Cantoni sui risultati dell’osservazione e li pubblica.
+<sup>2</sup> L’Ufficio federale dell’ambiente (UFAM)[^3-2] informa i Cantoni sui risultati dell’osservazione e li pubblica.
 
-[^3-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 452](https://fedlex.data.admin.ch/eli/oc/2025/452)).
+[^3-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 4
 
-**Osservazione da parte dei Cantoni**
+**Carte indicative e sorveglianza da parte dei Cantoni**[^4-1]
 
-<sup>1</sup> Se è accertato o se si deve temere che il deterioramento del suolo pregiudichi la fertilità in determinate regioni, i Cantoni provvedono affinché in tali regioni si proceda alla sorveglianza.
+<sup>1</sup> Se è accertato o è altamente probabile che in determinate regioni il suolo sia deteriorato, i Cantoni elaborano e aggiornano delle carte indicative. Tali carte contengono almeno informazioni sull’ubicazione, il tipo e l’entità del deterioramento del suolo.
 
-<sup>2</sup> L’UFAM provvede in collaborazione con l’Ufficio federale dell’agricoltura (UFAG) alla creazione delle basi tecniche necessarie alla sorveglianza del deterioramento del suolo e offre consulenza tecnica ai Cantoni.
+<sup>2</sup> Se è accertato o è probabile che in determinate regioni il deterioramento del suolo ne pregiudichi la fertilità, i Cantoni provvedono affinché in tali regioni si proceda a una sorveglianza del deterioramento del suolo.
 
-<sup>3</sup> I Cantoni comunicano all’UFAM i risultati della sorveglianza e li pubblicano.
+<sup>3</sup> L’UFAM provvede, in collaborazione con l’UFAG, a mettere a disposizione le basi tecniche necessarie all’elaborazione e all’aggiornamento delle carte indicative nonché alla sorveglianza del deterioramento del suolo e offre consulenza ai Cantoni.
+
+<sup>4</sup> I Cantoni comunicano all’UFAM i risultati della sorveglianza e li pubblicano.
+
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 452](https://fedlex.data.admin.ch/eli/oc/2025/452)).
 
 #### Art. 5
 
@@ -92,11 +102,21 @@ Il suolo è fertile quando:
 
 <sup>1</sup> La Confederazione e i Cantoni valutano il deterioramento del suolo sulla base dei valori indicativi, di guardia e di risanamento stabiliti negli allegati.
 
-<sup>2</sup> In mancanza di valori indicativi, viene valutato caso per caso sulla base dei criteri che figurano nell’articolo 2 capoverso 1, se la fertilità del suolo è garantita a lungo termine.
+<sup>2</sup> In mancanza di un valore indicativo per una sostanza che deteriora un suolo e che può pregiudicarne la fertilità a lungo termine, d’intesa con l’UFAM il Cantone ne stabilisce uno nel singolo caso sulla base dei criteri di cui all’articolo 2 capoverso 1.[^5-1]
 
-<sup>3</sup> In mancanza di valori di guardia o di risanamento per determinate forme di utilizzazione del suolo, viene valutato caso per caso se il deterioramento del suolo presenta un pericolo concreto per la salute dell’uomo, degli animali o delle piante. L’UFAM offre consulenza tecnica ai Cantoni.
+<sup>3</sup> In mancanza di valori di guardia o di risanamento per una sostanza che deteriora un suolo e che, se utilizzata in un determinato modo, può mettere in pericolo la salute dell’uomo, degli animali o delle piante, d’intesa con l’UFAM il Cantone stabilisce tali valori nel singolo caso.[^5-2]
 
-## Sezione 3: Prevenzione del costipamento e dell’erosione persistente del suolo; utilizzazione del suolo asportato
+<sup>4</sup> L’UFAM tiene un elenco dei valori stabiliti nei singoli casi di cui ai capoversi 2 e 3 e informa i Cantoni in merito.[^5-3]
+
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 452](https://fedlex.data.admin.ch/eli/oc/2025/452)).
+[^5-2]: Nuovo testo giusta la cifra I dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 452](https://fedlex.data.admin.ch/eli/oc/2025/452)).
+[^5-3]: Introdotto dalla cifra I dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 452](https://fedlex.data.admin.ch/eli/oc/2025/452)).
+
+## Sezione 3: Prevenzione del costipamento a lungo termine e dell’erosione del suolo; utilizzazione del suolo asportato
+
+[^sec3-1]
+
+[^sec3-1]: Nuovo testo giusta la cifra I dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 452](https://fedlex.data.admin.ch/eli/oc/2025/452)).
 
 #### Art. 6
 
@@ -185,7 +205,7 @@ Quando per conservare la fertilità del suolo, oltre alle misure complementari c
 
 <sup>3</sup> L’UFAM stabilisce i modelli di geodati e i modelli di rappresentazione minimi per i geodati di base ai sensi della presente ordinanza per i quali è designato quale servizio specializzato della Confederazione nell’allegato 1 dell’ordinanza del 21 maggio 2008[^13-2] sulla geoinformazione.[^13-3]
 
-[^13-1]: Nuovo testo giusta il n. II 11 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^13-1]: Nuovo testo giusta la cifra II n. 11 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 [^13-2]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
 [^13-3]: Introdotto dal n. 6 dell’all. 2 all’O del 21 mag. 2008 sulla geoinformazione, in vigore dal 1° lug. 2008 ([RU 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
 
@@ -195,7 +215,7 @@ Quando per conservare la fertilità del suolo, oltre alle misure complementari c
 
 L’ordinanza del 9 giugno 1986[^14-1] concernente le sostanze nocive nel suolo è abrogata.
 
-[^14-1]: [[RU 1986 1147](https://fedlex.data.admin.ch/eli/oc/1986/1147_1147_1147), [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)n. I 26]
+[^14-1]: [[RU 1986 1147](https://fedlex.data.admin.ch/eli/oc/1986/1147_1147_1147), [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)cifra I n. 26]
 
 #### Art. 15
 
@@ -203,18 +223,20 @@ L’ordinanza del 9 giugno 1986[^14-1] concernente le sostanze nocive nel suolo 
 
 La presente ordinanza entra in vigore il 1° ottobre 1998.
 
-Allegato 1
+Allegato 1[^t-1]
 
 (art. 5 cpv. 1)
 
 ## Valori indicativi, di guardia e di risanamento relativi a sostanze nocive inorganiche nel suolo
+
+[^t-1]: Aggiornato dalla cifra I dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 452](https://fedlex.data.admin.ch/eli/oc/2025/452)).
 
 ### 1 Valori indicativi, di guardia e di risanamento
 
 ### 11 Valori indicativi
 
 <table>
-<tr><th>Sostanza nociva</th><th colspan="2">Tenore (mg/kg SS per i suoli con fino al 15 % di humus, mg/dm3 per i suoli con più del 15 % di humus)</th></tr>
+<tr><th>Sostanza nociva</th><th colspan="2">Tenore (mg/kg SS per i suoli con un tenore di humus inferiore o pari al 15 %, mg/dm3 per i suoli con un tenore di humus superiore al 15 %)</th></tr>
 <tr><th></th><th>Tenore totale</th><th>Tenore frazione solubile</th></tr>
 <tr><td>Cromo (Cr)</td><td>50</td><td>–</td></tr>
 <tr><td>Nichel (Ni)</td><td>50</td><td>0,2</td></tr>
@@ -231,7 +253,7 @@ Allegato 1
 ### 12 Valori di guardia
 
 <table>
-<tr><th colspan="2">Utilizzazione</th><th colspan="7">Tenore (mg/kg SS per i suoli con fino al 15 % di humus, mg/dm<sup>3</sup> per i suoli con più del 15 % di humus)</th><th>Profondità di prelievo (in cm)</th></tr>
+<tr><th colspan="2">Utilizzazione</th><th colspan="7">Tenore (mg/kg SS per i suoli con un tenore di humus inferiore o pari al 15 %, mg/dm<sup>3</sup> per i suoli con un tenore di humus superiore al 15 %)</th><th>Profondità di prelievo (in cm)</th></tr>
 <tr><th colspan="2"></th><th colspan="2">Piombo (Pb)</th><th colspan="3">Cadmio (Cd)</th><th colspan="2">Rame (Cu)</th><th></th></tr>
 <tr><th colspan="2"></th><th>t</th><th>s</th><th>t</th><th colspan="2">s</th><th>t</th><th>s</th><th></th></tr>
 <tr><td colspan="2">Colture alimentari</td><td>200</td><td>–</td><td>2</td><td colspan="2">0,02</td><td>–</td><td>–</td><td>0–20</td></tr>
@@ -244,11 +266,11 @@ Allegato 1
 ### 13 Valori di risanamento
 
 <table>
-<tr><th>Categorie di utilizzazione</th><th colspan="10">Tenore (mg/kg SS per i suoli con fino al 15 % di humus, mg/dm<sup>3</sup> per i suoli con più del 15 % di humus)</th><th>Profondità di prelievo (in cm)</th></tr>
+<tr><th>Categorie di utilizzazione</th><th colspan="10">Tenore (mg/kg SS per i suoli con un tenore di humus inferiore o pari al 15 %, mg/dm<sup>3</sup> per i suoli con un tenore di humus superiore al 15 %)</th><th>Profondità di prelievo (in cm)</th></tr>
 <tr><th></th><th colspan="3">Piombo (Pb)</th><th colspan="2">Cadmio (Cd)</th><th colspan="3">Rame (Cu)</th><th colspan="2">Zinco (Zn)</th><th></th></tr>
 <tr><th></th><th colspan="2">t</th><th>s</th><th>t</th><th>s</th><th>t</th><th colspan="2">s</th><th>t</th><th>s</th><th></th></tr>
 <tr><td>Agricoltura, orticoltura e giardinaggio</td><td colspan="2">2000</td><td>–</td><td>30</td><td>0,1</td><td>1000</td><td colspan="2">4</td><td>2000</td><td>5</td><td>0–20</td></tr>
-<tr><td>Orticoltura e giardinaggio per il proprio fabbisogno</td><td colspan="2">1000</td><td>–</td><td>20</td><td>0,1</td><td>1000</td><td colspan="2">4</td><td>2000</td><td>5</td><td>0–20</td></tr>
+<tr><td>Orti e giardini privati</td><td colspan="2">1000</td><td>–</td><td>20</td><td>0,1</td><td>1000</td><td colspan="2">4</td><td>2000</td><td>5</td><td>0–20</td></tr>
 <tr><td>Aree di gioco per bambini</td><td colspan="2">1000</td><td>–</td><td>20</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>0–5</td></tr>
 <tr><td colspan="2">SS = sostanza secca</td><td colspan="6">s = tenore frazione solubile</td><td colspan="4">t = tenore totale</td></tr>
 </table>
@@ -276,37 +298,37 @@ Allegato 1
 
 <sup>6</sup> Nel caso di suoli con più del 15 per cento di humus, per la conversione dei tenori di sostanze nocive da mg/kg di sostanza secca in mg/dm<sup>3</sup> occorre moltiplicare il tenore in mg/kg di sostanza secca per la densità apparente.
 
-Allegato 2[^t-1]
+Allegato 2[^t-2]
 
 (art. 5 cpv. 1)
 
 ## Valori indicativi, di guardia e di risanamento relativi a sostanze nocive organiche nel suolo
 
-[^t-1]: Correzione del 12 apr. 2016 ([RU 2016 1149](https://fedlex.data.admin.ch/eli/oc/2016/213)).
+[^t-2]: Correzione del 12 apr. 2016 ([RU 2016 1149](https://fedlex.data.admin.ch/eli/oc/2016/213)). Aggiornato dalla cifra I, II dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 452](https://fedlex.data.admin.ch/eli/oc/2025/452)).
 
 ### 1 Valori indicativi, di guardia e di risanamento
 
-### 11 Valori per diossine (PCDD) efuraní (PCDF)
+### 11 Valori per diossine (PCDD), furani (PCDF) e PCB diossina‑simili (dl-PCB)
 
 <table>
-<tr><th>Valori</th><th colspan="2">Tenori di PCDD/F\* (ng I-TEQ/kg SS per suoli con fino al 15 % di humus, ng I-TEQ/dm<sup>3</sup> per suoli con più del 15 % di humus)</th><th>Profondità di prelievo (in cm)</th></tr>
+<tr><th>Valori</th><th colspan="2">Tenori di PCDD/F e dl-PCB<sup>1</sup> (ng TEQ/kg SS per suoli con un tenore di humus inferiore o pari al 15 %, ng TEQ/dm³ per suoli con un tenore di humus superiore al 15 %)</th><th>Profondità di prelievo (in cm)</th></tr>
 <tr><td>Valore indicativo</td><td colspan="2">5</td><td>0–20</td></tr>
 <tr><td>Valori di guardia</td><td colspan="2"></td><td></td></tr>
-<tr><td>Utilizzazioni con possibile assunzione diretta\*\* di terra</td><td colspan="2">20</td><td>0–5</td></tr>
+<tr><td>Utilizzazioni con possibile assunzione diretta<sup>2</sup> di terra</td><td colspan="2">20</td><td>0–5</td></tr>
 <tr><td>Colture alimentari</td><td colspan="2">20</td><td>0–20</td></tr>
 <tr><td>Colture foraggere</td><td colspan="2">20</td><td>0–20</td></tr>
 <tr><td>Valori di risanamento</td><td colspan="2"></td><td></td></tr>
 <tr><td>Aree di gioco per bambini</td><td colspan="2">100</td><td>0–5</td></tr>
-<tr><td>Orti e giardini per il proprio fabbisogno</td><td colspan="2">100</td><td>0–20</td></tr>
+<tr><td>Orti e giardini privati</td><td colspan="2">100</td><td>0–20</td></tr>
 <tr><td>Agricoltura, orticoltura e giardinaggio</td><td colspan="2">1000</td><td>0–20</td></tr>
-<tr><td colspan="2">I-TEQ= Equivalente di tossicità internazionale</td><td colspan="2">SS = sostanza secca</td></tr>
-<tr><td colspan="4">\* PCDD/F = Somma delle Dibenzo-*p*-diossine policlorurate e dei Dibenzofurani policlorurati \*\* per via orale, cutanea o per inalazione</td></tr>
+<tr><td colspan="2">TEQ = equivalente di tossicità</td><td colspan="2">[tab] SS = sostanza secca</td></tr>
+<tr><td colspan="4"><sup>1</sup> Σ29 congeneri di dibenzo-p-diossine policlorurate (PCDD), dibenzo-furani policlorurati (PCDF) e bifenili policlurati diossina-simili (dl-PCB) secondo le raccomandazioni dell’Organizzazione mondiale della sanità (OMS) del 2022 (WHO<sub>2022</sub>). Riferimento: Michael DeVito et al. (2024) The 2022 world health organization reevaluation of human and mammalian toxic equivalency factors for polychlorinated dioxins, dibenzofurans and biphenyls. *Regulatory Toxicology and Pharmacology* 146 (2024) 105525. L’articolo può essere consultato gratuitamente presso le biblioteche di numerose università e scuole universitarie professionali come pure presso le biblioteche dei Politecnici federali di Zurigo e di Losanna all’indirizzo https://doi.org/10.1016/j.yrtph.2023.105525. <sup>2</sup> per via orale, cutanea o per inalazione</td></tr>
 </table>
 
-### 12 Valori per gli idrocarburi aromatici policiclici (PAK)
+### 12 Valori per gli idrocarburi aromatici policiclici (PAH)
 
 <table>
-<tr><th>Valori</th><th colspan="2">PAK (mg/kg SS per i suoli con fino al 15 % di humus, mg/dm3 per i suoli con più del 15 % di humus)</th><th>Profondità di prelievo (in cm)</th></tr>
+<tr><th>Valori</th><th colspan="2">PAH (mg/kg SS per i suoli con un tenore di humus inferiore o pari al 15 %, mg/dm3 per i suoli con un tenore di humus superiore al 15 %)</th><th>Profondità di prelievo (in cm)</th></tr>
 <tr><th></th><th>Somma dei 16 singoli composti\*</th><th>Benzo(a)pirene</th><th></th></tr>
 <tr><td>Valore indicativo</td><td>1</td><td>0,2</td><td>0–20</td></tr>
 <tr><td>Valori di guardia</td><td></td><td></td><td></td></tr>
@@ -314,25 +336,25 @@ Allegato 2[^t-1]
 <tr><td>Colture alimentari</td><td>20</td><td>2</td><td>0–20</td></tr>
 <tr><td>Valori di risanamento</td><td></td><td></td><td></td></tr>
 <tr><td>Aree di gioco per bambini</td><td>100</td><td>10</td><td>0–5</td></tr>
-<tr><td>Orti e giardini per il proprio fabbisogno</td><td>100</td><td>10</td><td>0–20</td></tr>
+<tr><td>Orti e giardini privati</td><td>100</td><td>10</td><td>0–20</td></tr>
 <tr><td colspan="4">SS = sostanza secca</td></tr>
-<tr><td colspan="4">\* I valori di valutazione valgono per la somma dei seguenti 16 composti PAK dell’EPA (Priority pollutants list): *Naftalina, Acenaftilene, Acenaftene, Fluorene, Fenantrene, Antracene, Fluorantene, Pirene, Benzo(a)antracene, Crisene, Benzo(b)fluorantene, Benzo(k)fluorantene, Benzo(a)pirene, Indeno(1,2,3c,d)pirene, Dibenz(a,h)antracene e Benzo(g,h,i)perilene* \*\* per via orale, cutanea e per inalazione</td></tr>
+<tr><td colspan="4">\* I valori di valutazione valgono per la somma dei seguenti 16 composti PAH dell’EPA (Priority pollutants list): *Naftalina, Acenaftilene, Acenaftene, Fluorene, Fenantrene, Antracene, Fluorantene, Pirene, Benzo(a)antracene, Crisene, Benzo(b)fluorantene, Benzo(k)fluorantene, Benzo(a)pirene, Indeno(1,2,3c,d)pirene, Dibenz(a,h)antracene e Benzo(g,h,i)perilene* \*\* per via orale, cutanea e per inalazione</td></tr>
 </table>
 
-### 13 Valori per i Bifenili policlorurati (PCB)
+### 13 Valori per bifenili policlorurati (PCB)
 
 <table>
-<tr><th>Valori</th><th>Tenori di PCB\* (mg/kg SS per suoli con fino al 15 % di humus mg/dm<sup>3</sup> per suoli con più del 15 % di humus)</th><th>Profondità di prelievo (in cm)</th></tr>
+<tr><th>Valori</th><th>Tenori di PCB<sup>1</sup> (mg/kg SS per suoli con un tenore di humus inferiore o pari al 15 %, mg/dm³ per suoli con un tenore di humus superiore al 15 %)</th><th>Profondità di prelievo (in cm)</th></tr>
 <tr><td>Valori di guardia</td><td></td><td></td></tr>
-<tr><td>Utilizzazioni con possibile assunzione diretta\*\* di terra</td><td>0,1</td><td>0–5</td></tr>
+<tr><td>Utilizzazioni con possibile assunzione diretta<sup>2</sup> di terra</td><td>0,1</td><td>0–5</td></tr>
 <tr><td>Colture alimentari</td><td>0,2</td><td>0–20</td></tr>
 <tr><td>Colture foraggere</td><td>0,2</td><td>0–20</td></tr>
 <tr><td>Valori di risanamento</td><td></td><td></td></tr>
 <tr><td>Aree di gioco per bambini</td><td>1</td><td>0–5</td></tr>
-<tr><td>Orti e giardini per il proprio fabbisogno</td><td>1</td><td>0–20</td></tr>
+<tr><td>Orti e giardini privati</td><td>1</td><td>0–20</td></tr>
 <tr><td>Agricoltura, orticoltura e giardinaggio</td><td>3</td><td>0–20</td></tr>
-<tr><td colspan="3">SS = sostanza secca</td></tr>
-<tr><td colspan="3">\* Somma dei 7 isomeri secondo l’IRMM (Institute for Reference Materials and Measurements) IUPAC‑n. *28, 52, 101, 118, 138, 153, 180* \*\* per via orale, cutanea o per inalazione</td></tr>
+<tr><td>SS = sostanza secca</td><td></td><td></td></tr>
+<tr><td colspan="3"><sup>1</sup> Somma dei sei congeneri, n. IUPAC 28, 52, 101, 138, 153, 180 <sup>2</sup> per via orale, cutanea o per inalazione</td></tr>
 </table>
 
 ### 2 Determinazione e valutazione del tenore di sostanze nocive
@@ -343,7 +365,7 @@ Allegato 2[^t-1]
 
 <sup>3</sup> Se possibile, le sostanze nocive organiche vanno estratte completamente (tenore totale). L’Ufficio federale emana raccomandazioni sulla preparazione dei campioni e sulla loro analisi.
 
-<sup>4</sup> Nel caso di suoli con più del 15 per cento di humus, per la conversione dei tenori di sostanze nocive da mg/kg di sostanza secca in mg/dm<sup>3</sup> occorre moltiplicare il tenore in mg/kg di sostanza secca per la densità apparente.
+<sup>4</sup> Nel caso di suoli con un tenore di humus superiore al 15 per cento, per convertire il tenore di sostanze nocive da ng TEQ/kg di sostanza secca in ng TEQ/dm³ o da mg/kg di sostanza secca in mg/dm³ occorre moltiplicare il tenore in peso per la densità apparente.
 
 Allegato 3
 

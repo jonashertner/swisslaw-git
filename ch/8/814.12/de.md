@@ -4,11 +4,11 @@ title: Verordnung vom 1. Juli 1998 über Belastungen des Bodens (VBBo)
 short: VBBo
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/1854_1854_1854"
 language: de
-version: 2016-04-12
+version: 2025-08-01
 adopted: 1998-07-01
 in_force: 1998-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1854_1854_1854/20160412/de/xml/fedlex-data-admin-ch-eli-cc-1998-1854_1854_1854-20160412-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/1854_1854_1854/20160412/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1854_1854_1854/20250801/de/xml/fedlex-data-admin-ch-eli-cc-1998-1854_1854_1854-20250801-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/1854_1854_1854/20250801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/1854_1854_1854/20160412/de"
 
 (VBBo)
 
-vom 1. Juli 1998 (Stand am 12. April 2016)
+vom 1. Juli 1998 (Stand am 1. August 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -36,11 +36,12 @@ verordnet:
 Zur langfristigen Erhaltung der Bodenfruchtbarkeit regelt diese Verordnung:
 
 - a. die Beobachtung, Überwachung und Beurteilung der chemischen, biologischen und physikalischen Belastung von Böden;
-- b. die Massnahmen zur Vermeidung nachhaltiger Bodenverdichtung und -erosion;
-- c.[^1-1] die Massnahmen beim Umgang mit abgetragenem Boden;
+- b.[^1-1] die Massnahmen zur Vermeidung langfristiger Bodenverdichtung und -erosion;
+- c.[^1-2] die Massnahmen beim Umgang mit abgetragenem Boden;
 - d. die weitergehenden Massnahmen der Kantone bei belasteten Böden (Art. 34 USG).
 
-[^1-1]: Fassung gemäss Anhang 6 Ziff. 6 der Abfallverordnung vom 4. Dez. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)).
+[^1-1]: Fassung gemäss Ziff. I der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 452](https://fedlex.data.admin.ch/eli/oc/2025/452)).
+[^1-2]: Fassung gemäss Anhang 6 Ziff. 6 der Abfallverordnung vom 4. Dez. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)).
 
 #### Art. 2
 
@@ -50,21 +51,24 @@ Zur langfristigen Erhaltung der Bodenfruchtbarkeit regelt diese Verordnung:
 
 Boden gilt als fruchtbar, wenn:
 
-- a.[^2-1] die biologisch aktive Lebensgemeinschaft, die Bodenstruktur, der Bodenaufbau und die Mächtigkeit für seinen Standort typisch sind und er eine ungestörte Abbaufähigkeit aufweist;
+- a.[^2-1] die Vielfalt, Biomasse und Aktivität der Bodenorganismen, die organische Bodensubstanz, die Bodenstruktur, der Bodenaufbau und die Mächtigkeit für seinen Standort typisch sind und er eine ungestörte Abbaufähigkeit aufweist;
 - b. natürliche und vom Menschen beeinflusste Pflanzen und Pflanzengesellschaften ungestört wachsen und sich entwickeln können und ihre charakteristischen Eigenschaften nicht beeinträchtigt werden;
 - c. die pflanzlichen Erzeugnisse eine gute Qualität aufweisen und die Gesundheit von Menschen und Tieren nicht gefährden;
 - d. Menschen und Tiere, die ihn direkt aufnehmen, nicht gefährdet werden.
 
 <sup>2</sup> Chemische Bodenbelastungen sind Belastungen des Bodens durch natürliche oder künstliche Stoffe (Schadstoffe).
 
-<sup>3</sup> Biologische Bodenbelastungen sind Belastungen des Bodens, insbesondere durch gentechnisch veränderte, pathogene oder gebietsfremde Organismen.[^2-2]
+<sup>3</sup> Biologische Bodenbelastungen sind Belastungen des Bodens durch langfristige negative Veränderungen der Vielfalt, Biomasse oder Aktivität der Bodenorganismen, insbesondere durch gentechnisch veränderte, pathogene oder gebietsfremde Organismen.[^2-2]
 
 <sup>4</sup> Physikalische Bodenbelastungen sind Belastungen des Bodens durch künstliche Veränderungen der Struktur, des Aufbaus oder der Mächtigkeit des Bodens.
 
+<sup>4bis</sup> Organische Bodensubstanz ist jede lebende oder tote tierische, pflanzliche oder mikrobielle Substanz, welche durch biologische oder chemische Prozesse im Boden ab- oder umgebaut wird.[^2-3]
+
 <sup>5</sup> Prüfwerte geben für bestimmte Nutzungsarten Belastungen des Bodens an, bei deren Überschreitung nach dem Stand der Wissenschaft und der Erfahrung Menschen, Tiere oder Pflanzen konkret gefährdet werden können. Sie dienen der Beurteilung, ob Einschränkungen der Nutzung des Bodens nach Artikel 34 Absatz 2 USG nötig sind.
 
-[^2-1]: Fassung gemäss Anhang 6 Ziff. 6 der Abfallverordnung vom 4. Dez. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)).
-[^2-2]: Fassung gemäss Anhang 5 Ziff. 9 der Einschliessungsverordnung vom 9. Mai 2012, in Kraft seit 1. Juni 2012 ([AS 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
+[^2-1]: Fassung gemäss Ziff. I der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 452](https://fedlex.data.admin.ch/eli/oc/2025/452)).
+[^2-2]: Fassung gemäss Ziff. I der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 452](https://fedlex.data.admin.ch/eli/oc/2025/452)).
+[^2-3]: Eingefügt durch Ziff. I der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 452](https://fedlex.data.admin.ch/eli/oc/2025/452)).
 
 ## 2. Abschnitt: Beobachtung, Überwachung und Beurteilung von Bodenbelastungen
 
@@ -72,21 +76,26 @@ Boden gilt als fruchtbar, wenn:
 
 **Beobachtung der Bodenbelastung durch den Bund**
 
-<sup>1</sup> Das Bundesamt für Umwelt (BAFU)[^3-1] betreibt in Zusammenarbeit mit dem Bundesamt für Landwirtschaft (BLW) ein nationales Referenznetz zur Beobachtung der Belastungen des Bodens (NABO).
+<sup>1</sup> Das Bundesamt für Umwelt (BAFU) betreibt in Zusammenarbeit mit dem Bundesamt für Landwirtschaft (BLW) ein nationales Referenznetz zur Beobachtung der Belastungen des Bodens (NABO).[^3-1]
 
-<sup>2</sup> Das BAFU informiert die Kantone über die Ergebnisse der Beobachtung und veröffentlicht sie.
+<sup>2</sup> Das BAFU[^3-2] informiert die Kantone über die Ergebnisse der Beobachtung und veröffentlicht sie.
 
-[^3-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
+[^3-1]: Fassung gemäss Ziff. I der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 452](https://fedlex.data.admin.ch/eli/oc/2025/452)).
+[^3-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 4
 
-**Überwachung der Bodenbelastung durch die Kantone**
+**Hinweiskarten und Überwachung der Bodenbelastungen durch die Kantone**[^4-1]
 
-<sup>1</sup> Steht fest oder ist zu erwarten, dass in bestimmten Gebieten Belastungen des Bodens die Bodenfruchtbarkeit gefährden, so sorgen die Kantone dort für eine Überwachung der Bodenbelastung.
+<sup>1</sup> Steht fest oder ist mit grosser Wahrscheinlichkeit zu erwarten, dass in bestimmten Gebieten Belastungen des Bodens bestehen, so erstellen und aktualisieren die Kantone hierüber Hinweiskarten. Diese Karten enthalten mindestens Angaben über Lage, Art und Ausmass der Bodenbelastungen.
 
-<sup>2</sup> Das BAFU sorgt in Zusammenarbeit mit dem BLW für die Beschaffung der fachlichen Grundlagen, die für die Überwachung der Bodenbelastung nötig sind, und berät die Kantone.
+<sup>2</sup> Steht fest oder ist zu erwarten, dass in bestimmten Gebieten Belastungen des Bodens die Bodenfruchtbarkeit gefährden, so sorgen die Kantone dort für eine Überwachung der Bodenbelastung.
 
-<sup>3</sup> Die Kantone teilen die Ergebnisse der Überwachung dem BAFU mit und veröffentlichen sie.
+<sup>3</sup> Das BAFU sorgt in Zusammenarbeit mit dem BLW für die Beschaffung der fachlichen Grundlagen, die für die Erstellung und Aktualisierung der Hinweiskarten und die Überwachung der Bodenbelastung nötig sind, und berät die Kantone.
+
+<sup>4</sup> Die Kantone teilen die Ergebnisse der Überwachung dem BAFU mit und veröffentlichen sie.
+
+[^4-1]: Fassung gemäss Ziff. I der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 452](https://fedlex.data.admin.ch/eli/oc/2025/452)).
 
 #### Art. 5
 
@@ -94,25 +103,31 @@ Boden gilt als fruchtbar, wenn:
 
 <sup>1</sup> Bund und Kantone beurteilen die Bodenbelastung anhand der in den Anhängen festgelegten Richt-, Prüf- und Sanierungswerte.
 
-<sup>2</sup> Fehlen Richtwerte, so wird anhand der Kriterien in Artikel 2 Absatz 1 im Einzelfall beurteilt, ob die Fruchtbarkeit des Bodens langfristig gewährleistet ist.
+<sup>2</sup> Fehlt für einen Stoff, mit dem ein Boden belastet ist und der die Bodenfruchtbarkeit langfristig gefährden kann, ein Richtwert, so legt der Kanton einen solchen anhand der Kriterien in Artikel 2 Absatz 1 mit Zustimmung des BAFU im Einzelfall fest.[^5-1]
 
-<sup>3</sup> Fehlen für bestimmte Nutzungen Prüf- oder Sanierungswerte, so wird im Einzelfall beurteilt, ob die Bodenbelastung die Gesundheit von Menschen, Tieren oder Pflanzen konkret gefährdet. Das BAFU sorgt für die Beratung der Kantone.
+<sup>3</sup> Fehlen für einen Stoff, mit dem ein Boden belastet ist und der bei einer bestimmten Nutzung die Gesundheit von Menschen, Tieren oder Pflanzen gefährden kann, Prüf- oder Sanierungswerte, so legt der Kanton solche mit Zustimmung des BAFU im Einzelfall fest.[^5-2]
 
-## 3. Abschnitt: Vermeidung nachhaltiger Bodenverdichtung und -erosion; Umgang mit abgetragenem Boden
+<sup>4</sup> Das BAFU führt eine Liste über die nach den Absätzen 2 und 3 in Einzelfällen festgelegten Werte und informiert die Kantone hierüber.[^5-3]
+
+[^5-1]: Fassung gemäss Ziff. I der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 452](https://fedlex.data.admin.ch/eli/oc/2025/452)).
+[^5-2]: Fassung gemäss Ziff. I der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 452](https://fedlex.data.admin.ch/eli/oc/2025/452)).
+[^5-3]: Eingefügt durch Ziff. I der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 452](https://fedlex.data.admin.ch/eli/oc/2025/452)).
+
+## 3. Abschnitt: Vermeidung langfristiger Bodenverdichtung und -erosion; Umgang mit abgetragenem Boden
 
 [^sec3-1]
 
-[^sec3-1]: Fassung gemäss Anhang 6 Ziff. 6 der Abfallverordnung vom 4. Dez. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)).
+[^sec3-1]: Fassung gemäss Ziff. I der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 452](https://fedlex.data.admin.ch/eli/oc/2025/452)).
 
 #### Art. 6
 
 **Vermeidung von Bodenverdichtung und -erosion**
 
-<sup>1</sup> Wer Anlagen erstellt, den Boden bewirtschaftet oder anders beansprucht, muss unter Berücksichtigung der physikalischen Eigenschaften und der Feuchtigkeit des Bodens Fahrzeuge, Maschinen und Geräte so auswählen und einsetzen, dass Verdichtungen und andere Strukturveränderungen des Bodens vermieden werden, welche die Bodenfruchtbarkeit langfristig gefährden.[^6-1]
+<sup>1</sup> Wer Anlagen erstellt, den Boden bewirtschaftet oder anders beansprucht, muss unter Berücksichtigung der physikalischen Eigenschaften und der Feuchtigkeit des Bodens Fahrzeuge, Maschinen und Geräte so auswählen und einsetzen, dass Verdichtungen und andere Strukturveränderungen des Bodens, welche die Bodenfruchtbarkeit langfristig gefährden, vermieden werden.[^6-1]
 
 <sup>2</sup> Wer Terrainveränderungen vornimmt oder den Boden bewirtschaftet, muss mit geeigneter Bau- und Bewirtschaftungsweise, insbesondere durch erosionshemmende Bau- oder Anbautechnik, Fruchtfolge und Flurgestaltung, dafür sorgen, dass die Bodenfruchtbarkeit nicht durch Erosion langfristig gefährdet wird. Sind dazu gemeinsame Massnahmen mehrerer Betriebe nötig, so ordnet der Kanton diese an, insbesondere bei der Erosion durch konzentrierten Oberflächenabfluss (Talwegerosion).
 
-[^6-1]: Fassung gemäss Anhang 6 Ziff. 6 der Abfallverordnung vom 4. Dez. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)).
+[^6-1]: Fassung gemäss Ziff. I der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 452](https://fedlex.data.admin.ch/eli/oc/2025/452)).
 
 #### Art. 7
 
@@ -201,7 +216,7 @@ Wenn zur Erhaltung der Bodenfruchtbarkeit neben den weitergehenden kantonalen Ma
 
 Die Verordnung vom 9. Juni 1986[^14-1] über Schadstoffe im Boden wird aufgehoben.
 
-[^14-1]: [[AS 1986 1147](https://fedlex.data.admin.ch/eli/oc/1986/1147_1147_1147), [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)Ziff. I 26]
+[^14-1]: [[AS 1986 1147](https://fedlex.data.admin.ch/eli/oc/1986/1147_1147_1147); [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)Ziff. I 26]
 
 #### Art. 15
 
@@ -231,7 +246,7 @@ Anhang 1
 <tr><td>Quecksilber (Hg)</td><td>0,5</td><td>–</td></tr>
 <tr><td>Blei (Pb)</td><td>50</td><td>–</td></tr>
 <tr><td>Fluor (F)</td><td>700</td><td>20</td></tr>
-<tr><td>TS = Trockensubstanz</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>TS = Trockensubstanz</td><td></td><td></td></tr>
 </table>
 
 ### 12 Prüfwerte
@@ -288,14 +303,14 @@ Anhang 2[^t-1]
 
 ## Richt-, Prüf- und Sanierungswerte für organische Schadstoffe im Boden
 
-[^t-1]: Die Berichtigung vom 12. April 2016 betrifft nur den italienischen Text ([AS 2016 1149](https://fedlex.data.admin.ch/eli/oc/2016/213)).
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 452](https://fedlex.data.admin.ch/eli/oc/2025/452)).
 
 ### 1 Richt-, Prüf- und Sanierungswerte
 
-### 11 Werte für Dioxine (PCDD) und Furane (PCDF)
+### 11 Werte für Dioxine (PCDD), Furane (PCDF) und dioxin-ähnliche PCB (dl-PCB)
 
 <table>
-<tr><th>Werte</th><th colspan="2">PCDD/F-Gehalte<sup>1</sup> (ng I-TEQ/kg TS für Böden bis 15 % Humus, ng I-TEQ/dm<sup>3</sup> für Böden über 15 % Humus)</th><th>Probenahmetiefe (in cm)</th></tr>
+<tr><th>Werte</th><th colspan="2">PCDD/F und dl-PCB-Gehalte<sup>1</sup> (ng TEQ/kg TS für Böden bis 15 % Humus, ng TEQ/dm<sup>3</sup> für Böden über 15 % Humus)</th><th>Probenahmetiefe (in cm)</th></tr>
 <tr><td>Richtwert</td><td colspan="2">5</td><td>0–20</td></tr>
 <tr><td>Prüfwerte</td><td colspan="2"></td><td></td></tr>
 <tr><td>Nutzungen mit möglicher direkter<sup>2</sup> Bodenaufnahme</td><td colspan="2">20</td><td>0–5</td></tr>
@@ -305,8 +320,8 @@ Anhang 2[^t-1]
 <tr><td>Kinderspielplätze</td><td colspan="2">100</td><td>0–5</td></tr>
 <tr><td>Haus- und Familiengärten</td><td colspan="2">100</td><td>0–20</td></tr>
 <tr><td>Landwirtschaft und Gartenbau</td><td colspan="2">1000</td><td>0–20</td></tr>
-<tr><td colspan="2">I-TEQ= Internationale Toxizitätsäquivalente</td><td colspan="2">[tab] TS= Trockensubstanz</td></tr>
-<tr><td colspan="4"><sup>1</sup> PCDD/F = Summe der polychlorierten Dibenzo-*p*-dioxine und polychlorierten Dibenzofurane <sup>2</sup> oral, inhalativ, dermal</td></tr>
+<tr><td colspan="2">TEQ= Toxizitätsäquivalente</td><td colspan="2">[tab] TS= Trockensubstanz</td></tr>
+<tr><td colspan="4"><sup>1</sup> Σ29 Kongenere der polychlorierten Dibenzo-p-Dioxine (PCDD), polychlorierten Dibenzo-Furane (PCDF) und dioxinähnlichen polychlorierten Biphenyle (dl-PCB) gemäss Empfehlung der Weltgesundheitsorganisation WHO im Jahr 2022 (WHO<sub>2022</sub>). Referenz: Michael DeVito et al. (2024) The 2022 world health organization reevaluation of human and mammalian toxic equivalency factors for polychlorinated dioxins, dibenzofurans and biphenyls. *Regulatory Toxicology and Pharmacology* 146 (2024) 105525. Dieser Artikel kann in den Bibliotheken vieler Universitäten, Fachhochschulen sowie den ETHZ- und EPFL-Bibliotheken kostenlos eingesehen und unter https://doi.org/10.1016/j.yrtph.2023.105525 aufgerufen werden. <sup>2</sup> oral, inhalativ, dermal</td></tr>
 </table>
 
 ### 12 Werte für polyzyklische aromatische Kohlenwasserstoffe (PAK)
@@ -337,8 +352,8 @@ Anhang 2[^t-1]
 <tr><td>Kinderspielplätze</td><td>1</td><td>0–5</td></tr>
 <tr><td>Haus- und Familiengärten</td><td>1</td><td>0–20</td></tr>
 <tr><td>Landwirtschaft und Gartenbau</td><td>3</td><td>0–20</td></tr>
-<tr><td>TS= Trockensubstanz</td><td>[tab]</td><td>[tab]</td></tr>
-<tr><td colspan="3"><sup>1</sup> Summe der 7 Kongeneren gemäss IRMM (Institute for Reference Materials and Measurements), IUPAC‑Nr. 28, 52, 101, 118, 138, 153, 180 <sup>2</sup> oral, inhalativ, dermal</td></tr>
+<tr><td colspan="3">TS= Trockensubstanz</td></tr>
+<tr><td colspan="3"><sup>1</sup> Summe der 6 Kongenere, IUPAC-Nr. 28, 52, 101, 138, 153, 180 <sup>2</sup> oral, inhalativ, dermal</td></tr>
 </table>
 
 ### 2 Ermittlung und Beurteilung der Schadstoffgehalte
@@ -349,7 +364,7 @@ Anhang 2[^t-1]
 
 <sup>3</sup> Die organischen Schadstoffe werden möglichst vollständig extrahiert (Totalgehalte). Das Bundesamt erlässt Empfehlungen zur Probenaufbereitung und Analyse.
 
-<sup>4</sup> Für die Umrechnung von ng I-TEQ/kg Trockensubstanz in ng I-TEQ/dm<sup>3</sup> bzw. von mg/kg Trockensubstanz in mg/dm<sup>3</sup> der Schadstoffgehalte in Böden mit einem Humusgehalt über 15 Prozent werden die gewichtsbezogenen Gehalte mit dem Trockenraumgewicht multipliziert.
+<sup>4</sup> Für die Umrechnung von ng TEQ/kg Trockensubstanz in ng TEQ/dm<sup>3</sup> bzw. von mg/kg Trockensubstanz in mg/dm<sup>3</sup> der Schadstoffgehalte in Böden mit einem Humusgehalt über 15 Prozent werden die gewichtsbezogenen Gehalte mit dem Trockenraumgewicht multipliziert.
 
 Anhang 3
 

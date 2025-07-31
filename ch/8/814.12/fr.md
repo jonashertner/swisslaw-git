@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> juillet 1998 sur les atteintes portées aux
 short: Osol
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/1854_1854_1854"
 language: fr
-version: 2016-04-12
+version: 2025-08-01
 adopted: 1998-07-01
 in_force: 1998-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1854_1854_1854/20160412/fr/xml/fedlex-data-admin-ch-eli-cc-1998-1854_1854_1854-20160412-fr-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/1854_1854_1854/20160412/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1854_1854_1854/20250801/fr/xml/fedlex-data-admin-ch-eli-cc-1998-1854_1854_1854-20250801-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/1854_1854_1854/20250801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/1854_1854_1854/20160412/fr"
 
 (OSol)
 
-du 1<sup>er</sup> juillet 1998 (État le 12 avril 2016)
+du 1<sup>er</sup> juillet 1998 (État le 1<sup>er</sup> août 2025)
 
 Le Conseil fédéral suisse,
 
@@ -40,7 +40,7 @@ Afin de garantir à long terme la fertilité du sol, la présente ordonnance ré
 - c.[^1-1] les mesures à prendre pour le maniement des matériaux terreux issus du décapage du sol;
 - d. les mesures supplémentaires que les cantons prennent pour des sols atteints (art. 34 LPE).
 
-[^1-1]: Nouvelle teneur selon le ch. 6 de l’annexe 6 à l’O du 4 déc. 2015 sur les déchets, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)).
+[^1-1]: Nouvelle teneur selon l’annexe 6 ch. 6 de l’O du 4 déc. 2015 sur les déchets, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)).
 
 #### Art. 2
 
@@ -50,21 +50,24 @@ Afin de garantir à long terme la fertilité du sol, la présente ordonnance ré
 
 Le sol est considéré comme fertile:
 
-- a.[^2-1] s’il présente, pour sa station, une biocénose biologiquement active, une structure, une succession et une épaisseur typiques et qu’il dispose d’une capacité de décomposition intacte;
+- a.[^2-1] si la diversité, la biomasse et l’activité des organismes vivants du sol, sa teneur en matière organique, sa structure ainsi que la succession et l’épaisseur de ses horizons sont typiques pour la station et qu’il dispose d’une capacité de décomposition intacte;
 - b. s’il permet aux plantes et aux associations végétales naturelles ou cultivées de croître et de se développer normalement et ne nuit pas à leurs propriétés;
 - c. si les fourrages et les denrées végétales qu’il fournit sont de bonne qualité et ne menacent pas la santé de l’homme et des animaux;
 - d. si son ingestion ou inhalation ne menace pas la santé de l’homme et des animaux.
 
 <sup>2</sup> On entend par atteintes chimiques aux sols les atteintes portées aux sols par des substances naturelles ou artificielles (polluants).
 
-<sup>3</sup> On entend par atteintes biologiques aux sols les atteintes portées aux sols par des organismes, en particulier par des organismes génétiquement modifiés, pathogènes ou exotiques.[^2-2]
+<sup>3</sup> On entend par atteintes biologiques aux sols les atteintes aux sols résultant de modifications négatives et persistantes de la diversité, de la biomasse ou de l’activité des organismes vivants du sol, causées en particulier par des organismes génétiquement modifiés, pathogènes ou exotiques.[^2-2]
 
 <sup>4</sup> On entend par atteintes physiques aux sols les atteintes à la structure, à la succession des couches pédologiques ou à l’épaisseur des sols résultant d’interventions humaines.
 
+<sup>4bis</sup> On entend par matière organique des sols toute matière animale, végétale ou microbienne, morte ou vivante, décomposée ou transformée par des processus biologiques ou chimiques.[^2-3]
+
 <sup>5</sup> Les seuils d’investigation indiquent, pour une utilisation donnée, le niveau d’atteinte à partir duquel, selon l’état des connaissances, la santé de l’homme, des animaux et des plantes peut être menacée. Ils servent à évaluer s’il est nécessaire de restreindre l’utilisation d’un sol au sens de l’art. 34, al. 2, LPE.
 
-[^2-1]: Nouvelle teneur selon le ch. 6 de l’annexe 6 à l’O du 4 déc. 2015 sur les déchets, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)).
-[^2-2]: Nouvelle teneur selon le ch. 9 de l’annexe V à l’O du 9 mai 2012 sur l’utilisation confinée, en vigueur depuis le 1<sup>er</sup> juin 2012 ([RO 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 452](https://fedlex.data.admin.ch/eli/oc/2025/452)).
+[^2-2]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 452](https://fedlex.data.admin.ch/eli/oc/2025/452)).
+[^2-3]: Introduit par le ch. I de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 452](https://fedlex.data.admin.ch/eli/oc/2025/452)).
 
 ## Section 2 Observation, surveillance et évaluation des atteintes portées aux sols
 
@@ -72,37 +75,48 @@ Le sol est considéré comme fertile:
 
 **Observation par la Confédération des atteintes portées aux sols**
 
-<sup>1</sup> L’Office fédéral de l’environnement (OFEV)[^3-1] gère en collaboration avec l’Office fédéral de l’agriculture (OFAG) un réseau national de référence pour l’observation des atteintes portées aux sols (NABO).
+<sup>1</sup> L’Office fédéral de l’environnement (OFEV) gère en collaboration avec l’Office fédéral de l’agriculture (OFAG) un réseau national de référence pour l’observation des atteintes portées aux sols (NABO).[^3-1]
 
-<sup>2</sup> L’OFEV informe les cantons et publie les résultats.
+<sup>2</sup> L’OFEV[^3-2] informe les cantons et publie les résultats.
 
-[^3-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 à l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 452](https://fedlex.data.admin.ch/eli/oc/2025/452)).
+[^3-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 à l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 4
 
-**Surveillance par les cantons des atteintes portées aux sols**
+**Cartes indicatives et surveillance par les cantons des atteintes portées aux sols**[^4-1]
 
-<sup>1</sup> Les cantons pourvoient à la surveillance des sols dans les régions où il est établi ou dans les régions où l’on peut craindre que des atteintes portées aux sols ne menacent leur fertilité.
+<sup>1</sup> Les cantons élaborent et actualisent des cartes indicatives pour les régions où il est établi ou pour celles où il est très probable que des atteintes ont été portées aux sols. Ces cartes contiennent au moins des données sur l’endroit, le type et l’ampleur des atteintes portées aux sols.
 
-<sup>2</sup> L’OFEV veille, avec l’OFAG, à ce que les cantons puissent disposer des bases techniques nécessaires à la surveillance des sols et conseille les cantons.
+<sup>2</sup> Les cantons pourvoient à la surveillance des sols dans les régions où il est établi ou dans celles où il est possible que des atteintes portées aux sols menacent la fertilité de ces derniers.
 
-<sup>3</sup> Les cantons informent l’OFEV des résultats de leur surveillance et les publient.
+<sup>3</sup> L’OFEV veille, avec l’OFAG, à ce que les cantons puissent disposer des bases techniques nécessaires à l’élaboration et à l’actualisation des cartes indicatives ainsi qu’à la surveillance des sols et conseille les cantons.
+
+<sup>4</sup> Les cantons informent l’OFEV des résultats de leur surveillance et les publient.
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 452](https://fedlex.data.admin.ch/eli/oc/2025/452)).
 
 #### Art. 5
 
-**Evaluation des atteintes portées aux sols**
+**Évaluation des atteintes portées aux sols**
 
 <sup>1</sup> La Confédération et les cantons évaluent les atteintes portées aux sols en se fondant sur les valeurs indicatives, les seuils d’investigation et les valeurs d’assainissement qui figurent dans les annexes à la présente ordonnance.
 
-<sup>2</sup> Si l’on ne dispose pas de valeurs indicatives, il convient d’évaluer, au cas par cas, si la fertilité du sol est assurée à long terme sur la base des critères énumérés à l’art. 2, al. 1.
+<sup>2</sup> Si l’on ne dispose pas d’une valeur indicative pour une substance qui porte atteinte à un sol et peut à long terme en menacer la fertilité, le canton définit une valeur au cas par cas en accord avec l’OFEV, sur la base des critères mentionnés à l’art. 2, al. 1.[^5-1]
 
-<sup>3</sup> Si l’on ne dispose pas de seuils d’investigation ou de valeurs d’assainissement pour un type donné d’utilisation du sol, il convient d’évaluer, au cas par cas, si l’atteinte portée à un sol menace la santé de l’homme, des animaux et des plantes. L’OFEV conseille les cantons.
+<sup>3</sup> Si l’on ne dispose pas de seuils d’investigation ou de valeurs d’assainissement pour une substance qui porte atteinte à un sol et peut menacer la santé de l’homme, des animaux et des plantes dans le cadre d’un type donné d’utilisation du sol, le canton définit des seuils ou des valeurs au cas par cas en accord avec l’OFEV.[^5-2]
+
+<sup>4</sup> L’OFEV tient une liste des seuils et des valeurs définis en vertu des al. 2 et 3 et en informe les cantons.[^5-3]
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 452](https://fedlex.data.admin.ch/eli/oc/2025/452)).
+[^5-2]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 452](https://fedlex.data.admin.ch/eli/oc/2025/452)).
+[^5-3]: Introduit par le ch. I de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 452](https://fedlex.data.admin.ch/eli/oc/2025/452)).
 
 ## Section 3 Prévention des compactions persistantes et de l’érosion; maniement des matériaux terreux issus du décapage du sol
 
 [^sec3-1]
 
-[^sec3-1]: Nouvelle teneur selon le ch. 6 de l’annexe 6 à l’O du 4 déc. 2015 sur les déchets, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)).
+[^sec3-1]: Nouvelle teneur selon l’annexe 6 ch. 6 de l’O du 4 déc. 2015 sur les déchets, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)).
 
 #### Art. 6
 
@@ -112,7 +126,7 @@ Le sol est considéré comme fertile:
 
 <sup>2</sup> Quiconque procède à des modifications des sols ou exploite un sol doit veiller, par des techniques de génie rural et d’exploitation appropriées, telles qu’un aménagement antiérosif des parcelles et des techniques culturales antiérosives, une rotation des cultures et des soles culturales adaptées, à prévenir l’érosion qui pourrait menacer la fertilité du sol à long terme. Si la protection du sol contre l’érosion exige des mesures communes à plusieurs exploitations, le canton rend ces mesures obligatoires; en particulier en cas d’érosion causée par les eaux de ruissellement concentrées (érosion des thalweg).
 
-[^6-1]: Nouvelle teneur selon le ch. 6 de l’annexe 6 à l’O du 4 déc. 2015 sur les déchets, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)).
+[^6-1]: Nouvelle teneur selon l’annexe 6 ch. 6 de l’O du 4 déc. 2015 sur les déchets, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)).
 
 #### Art. 7
 
@@ -127,7 +141,7 @@ Si des matériaux terreux issus du décapage de la couche supérieure et de la c
 - a. la fertilité du sol en place et celle du sol reconstitué ou intégré ne soient que provisoirement perturbées par des atteintes physiques;
 - b. le sol en place ne subisse pas d’atteintes chimiques et biologiques supplémentaires.
 
-[^7-1]: Nouvelle teneur selon le ch. 6 de l’annexe 6 à l’O du 4 déc. 2015 sur les déchets, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)).
+[^7-1]: Nouvelle teneur selon l’annexe 6 ch. 6 de l’O du 4 déc. 2015 sur les déchets, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)).
 
 ## Section 4 Mesures complémentaires pour les sols menacés ou dégradés
 
@@ -193,7 +207,7 @@ Si, pour maintenir la fertilité du sol, le renforcement des prescriptions féd�
 
 [^13-1]: Nouvelle teneur selon le ch. II 11 à l’O du 2 fév. 2000 relative à la loi fédérale sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 [^13-2]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
-[^13-3]: Introduit par le ch. 6 de l’annexe 2 à l’O du 21 mai 2008 sur la géoinformation, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
+[^13-3]: Introduit par l’annexe 2 ch. 6 de l’O du 21 mai 2008 sur la géoinformation, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
 
 #### Art. 14
 
@@ -287,14 +301,14 @@ Annexe 2[^t-1]
 
 ## Valeurs indicatives, seuils d’investigation et valeurs d’assainissement pour les substances organiques dans les sols
 
-[^t-1]: Erratum du 12 avr. 2016, ne concerne que le texte italien ([RO 2016 1149](https://fedlex.data.admin.ch/eli/oc/2016/213)).
+[^t-1]: Mise à jour par le ch. II de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 452](https://fedlex.data.admin.ch/eli/oc/2025/452)).
 
 ### 1 Valeurs indicatives, seuils d’investigation et valeurs d’assainissement
 
-### 11 Valeurs pour les dioxines (PCDD) et les furanes (PCDF)
+### 11 Valeurs pour les dioxines (PCDD), les furanes (PCDF) et les PCB de type dioxine (dl-PCB)
 
 <table>
-<tr><th>Valeurs</th><th>PCDD/PCDF<sup>1</sup> (en ng I-TEQ/kg de matière sèche de sol pour les sols jusqu’à 15 % de matière organique et en ng/dm<sup>3</sup> pour les sols au-dessus de 15 % de matière organique)</th><th>Profondeur de prélèvement (cm)</th></tr>
+<tr><th>Valeurs</th><th>PCDD, PCDF et dl-PCB<sup>1</sup> (en ng TEQ/kg de matière sèche de sol pour les sols jusqu’à 15 % de matière organique et en ng TEQ/dm<sup>3</sup> pour les sols au-dessus de 15 % de matière organique)</th><th>Profondeur de prélèvement (cm)</th></tr>
 <tr><td>Valeur indicative</td><td>5</td><td>0–20</td></tr>
 <tr><td>Seuils d’investigation</td><td></td><td></td></tr>
 <tr><td>Risque par ingestion<sup>2</sup></td><td>20</td><td>0–5</td></tr>
@@ -304,9 +318,8 @@ Annexe 2[^t-1]
 <tr><td>Places de jeux</td><td>100</td><td>0–5</td></tr>
 <tr><td>Jardins privés et familiaux</td><td>100</td><td>0–20</td></tr>
 <tr><td>Agriculture et horticulture</td><td>1000</td><td>0–20</td></tr>
-<tr><td colspan="3">I-TEQ = équivalents de toxicité</td></tr>
-<tr><td colspan="3"><sup>1</sup> PCDD/PCDF = somme des polychlorodibenzoparadioxines et des polychlorodibenzofuranes</td></tr>
-<tr><td colspan="3"><sup>2</sup> Risque d’ingestion par voie orale, par voie dermale ou par inhalation</td></tr>
+<tr><td colspan="3">TEQ = équivalents de toxicité</td></tr>
+<tr><td colspan="3"><sup>1</sup> Somme des 29 congénères des polychlorodibenzoparadioxines (PCDD), des polychlorodibenzofuranes (PCDF) et des polychlorobiphényles de type dioxine (dl-PCB) selon les recommandations de l’Organisation mondiale de la santé (OMS) de 2022 (OMS<sub>2022</sub>). Référence: Michael DeVito et al. (2024) The 2022 world health organization reevaluation of human and mammalian toxic equivalency factors for polychlorinated dioxins, dibenzofurans and biphenyls. *Regulatory Toxicology and Pharmacology* 146 (2024) 105525. Cet article peut être consulté gratuitement à la bibliothèque de nombreuses universités et hautes écoles spécialisées, à celles de l’EPF Zurich et de l’EPF Lausanne ainsi que sur le site https://doi.org/10.1016/j.yrtph.2023.105525. <sup>2</sup> Risque d’ingestion par voie orale, par voie dermale ou par inhalation</td></tr>
 </table>
 
 ### 12 Valeurs pour les hydrocarbures aromatiques polycycliques (PAH)
@@ -337,8 +350,7 @@ Annexe 2[^t-1]
 <tr><td>Places de jeux</td><td>1</td><td>0–5</td></tr>
 <tr><td>Jardins privés et familiaux</td><td>1</td><td>0–20</td></tr>
 <tr><td>Agriculture et horticulture</td><td>3</td><td>0–20</td></tr>
-<tr><td colspan="3"><sup>1</sup> Somme des 7 isomères selon la liste de l’IRMM (Institute for Reference Materials and Measurements), IUPAC‑n<sup>o</sup> 28, 52, 101, 118, 138, 153, 180</td></tr>
-<tr><td colspan="3"><sup>2</sup> Risque d’ingestion par voie orale, par voie dermale ou par inhalation</td></tr>
+<tr><td colspan="3"><sup>1</sup> Somme des 6 congénères, n<sup>os</sup> IUPAC 28, 52, 101, 138, 153, 180 <sup>2</sup> Risque d’ingestion par voie orale, par voie dermale ou par inhalation</td></tr>
 </table>
 
 ### 2 Détermination et évaluation de la teneur en polluants
@@ -349,7 +361,7 @@ Annexe 2[^t-1]
 
 <sup>3</sup> Dans la mesure du possible, on tentera d’extraire la totalité des polluants organiques (teneur totale). L’office fédéral édicte des recommandations pour la préparation des échantillons et l’analyse.
 
-<sup>4</sup> Pour les sols ayant une teneur en matière organique supérieure à 15 pour cent, la transformation de la teneur en polluants de ng I-TEQ/kg de matière sèche (MS) en ng/dm<sup>3</sup> sera effectuée en multipliant la teneur ng I-TEQ/kg MS par la densité apparente, et pour la teneur en mg/kg MS en mg/dm<sup>3</sup> en multipliant la teneur en mg/kg MS par la densité apparente.
+<sup>4</sup> Pour les sols ayant une teneur en matière organique supérieure à 15 %, la transformation de la teneur en polluants de ng TEQ/kg de matière sèche (MS) en ng TEQ/dm<sup>3</sup> sera effectuée en multipliant la teneur ng TEQ/kg MS par la densité apparente, et pour la teneur en mg/kg MS en mg/dm<sup>3</sup> en multipliant la teneur en mg/kg MS par la densité apparente.
 
 Annexe 3
 
@@ -364,10 +376,10 @@ Annexe 3
 ### 1 Valeurs indicatives
 
 <table>
-<tr><th>Epaisseur des sols (où peuvent pousser les racines)</th><th>Erosion moyenne<sup>1</sup> (en t de matière sèche de sol/ha et par an)</th></tr>
+<tr><th>Épaisseur des sols (où peuvent pousser les racines)</th><th>Érosion moyenne<sup>1</sup> (en t de matière sèche de sol/ha et par an)</th></tr>
 <tr><td>Jusqu’à et y compris 70 cm</td><td>2</td></tr>
 <tr><td>Plus de 70 cm</td><td>4</td></tr>
-<tr><td colspan="2"><sup>1</sup> Erosion moyenne = somme de l’érosion en nappe et de l’érosion linéaire de la parcelle</td></tr>
+<tr><td colspan="2"><sup>1</sup> Érosion moyenne = somme de l’érosion en nappe et de l’érosion linéaire de la parcelle</td></tr>
 </table>
 
 ### 2 Détermination de l’érosion pour les terres assolées
