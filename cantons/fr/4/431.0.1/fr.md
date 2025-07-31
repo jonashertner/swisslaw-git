@@ -4,13 +4,12 @@ number: "431.0.1"
 title: "Loi sur l'Université"
 short: LUni
 language: fr
-version: 2023-09-01
-valid_until: 2025-07-31
+version: 2025-08-01
 version_adopted: 2023-06-29
 adopted: 1997-11-19
 in_force: 1998-04-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/431.0.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7938/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8553/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Université – L
 
 (LUni)
 
-du 19.11.1997 (version entrée en vigueur le 01.09.2023)
+du 19.11.1997 (version entrée en vigueur le 01.08.2025)
 
 Le Grand Conseil du canton de Fribourg[^ingress-1]
 
@@ -55,6 +54,7 @@ Décrète:
 - b) concourt par la recherche et une diffusion adéquate des résultats de celle-ci à faire progresser les connaissances scientifiques;
 - c) veille à la relève scientifique;
 - d) contribue à la formation continue.
+- e) assure la formation initiale et continue des enseignants et enseignantes et leur fournit des prestations de service.
 
 <sup>2</sup> L'Université encourage la coopération et l'interdisciplinarité dans la recherche et l'enseignement ainsi que la réflexion sur les conditions et les conséquences de la recherche scientifique.
 
@@ -218,9 +218,12 @@ Décrète:
 
 <sup>1</sup> Est puni-e de l'amende celui ou celle qui porte un titre protégé au sens de la présente loi sans être titulaire du grade correspondant.
 
-<sup>2</sup> La poursuite et le jugement de ces contraventions ont lieu conformément au code de procédure pénale. Pour le surplus, les dispositions de la législation spéciale sont applicables.
+<sup>2</sup> La poursuite et le jugement de ces contraventions ont lieu conformément au code de procédure pénale[^11b-1]. Pour le surplus, les dispositions de la législation spéciale sont applicables.
 
-<sup>3</sup> Les dispositions du code pénal suisse sont réservées.
+<sup>3</sup> Les dispositions du code pénal suisse[^11b-2] sont réservées.
+
+[^11b-1]: RS [312.0](https://db.clex.ch/link/Bund/312.0/fr)
+[^11b-2]: RS [311.0](https://db.clex.ch/link/Bund/311.0/fr)
 
 #### Art. 11c
 
@@ -242,13 +245,17 @@ Décrète:
 
 <sup>2</sup> Pour qu'il soit tenu compte des particularités liées à la gestion de l'Université, les compétences suivantes attribuées au Conseil d'Etat sont exercées par le Rectorat:
 
-- a) la gestion des compétences professionnelles du personnel (art. 19 LPers);
-- b) l'encouragement aux inventions du personnel (art. 23 LPers);
-- c) les modalités de la mise au concours des emplois (art. 25 LPers).
+- a) la gestion des compétences professionnelles du personnel (art. 19 LPers[^11d-1]);
+- b) l'encouragement aux inventions du personnel (art. 23 LPers[^11d-2]);
+- c) les modalités de la mise au concours des emplois (art. 25 LPers[^11d-3]).
 
 <sup>3</sup> Le règlement adopté par l'Université concernant le personnel est soumis à l'approbation du Conseil d'Etat.
 
 <sup>4</sup> La gestion du personnel est assumée par une unité centralisée de l'Université.
+
+[^11d-1]: RSF [122.70.1](https://bdlf.fr.ch/data/122.70.1/fr)
+[^11d-2]: RSF [122.70.1](https://bdlf.fr.ch/data/122.70.1/fr)
+[^11d-3]: RSF [122.70.1](https://bdlf.fr.ch/data/122.70.1/fr)
 
 ## 2 Communauté universitaire
 
@@ -497,7 +504,7 @@ Décrète:
 
 **Rectorat – Composition**
 
-<sup>1</sup> Le Rectorat comprend le recteur ainsi que deux à quatre vice-recteurs. Le nombre des vice-recteurs est fixé par les statuts de l'Université.
+<sup>1</sup> Le Rectorat comprend le recteur ou la rectrice ainsi que deux à cinq vice-recteurs et vice-rectrices. Le nombre des vice-recteurs et vice-rectrices est fixé par les statuts de l'Université.
 
 <sup>2</sup> En règle générale, le recteur ou la rectrice est choisi-e parmi les membres du corps professoral. Il ou elle est élu-e pour cinq ans et est rééligible. Il ou elle est libéré-e entièrement ou partiellement de ses tâches d'enseignement et de recherche.
 
@@ -684,9 +691,12 @@ Décrète:
 
 <sup>2</sup> Elle est composée d'un président ou d'une présidente, d'un vice-président ou d'une vice-présidente, de six assesseur-e-s et de six suppléants ou suppléantes des assesseur-e-s, qui sont élus par le Grand Conseil sur le préavis du Conseil de la magistrature.
 
-<sup>3</sup> Le président ou la présidente, le vice-président ou la vice-présidente sont choisis parmi les juges professionnels au sens de la loi sur la justice; les autres membres de la Commission doivent être titulaires d'une licence ou d'un master. Les juges professionnels doivent soit être titulaires du brevet d'avocat, soit être titulaires d'une licence ou d'un master en droit. Ils doivent faire preuve de connaissances pratiques suffisantes pour l'exercice de la fonction.
+<sup>3</sup> Le président ou la présidente, le vice-président ou la vice-présidente sont choisis parmi les juges professionnels au sens de la loi sur la justice[^47b-1]; les autres membres de la Commission doivent être titulaires d'une licence ou d'un master. Les juges professionnels doivent soit être titulaires du brevet d'avocat, soit être titulaires d'une licence ou d'un master en droit. Ils doivent faire preuve de connaissances pratiques suffisantes pour l'exercice de la fonction.
 
-<sup>4</sup> Pour le surplus, les dispositions de la loi sur la justice relatives à la fonction de juge sont applicables par analogie aux membres de la Commission.
+<sup>4</sup> Pour le surplus, les dispositions de la loi sur la justice[^47b-2] relatives à la fonction de juge sont applicables par analogie aux membres de la Commission.
+
+[^47b-1]: RSF [130.1](https://bdlf.fr.ch/data/130.1/fr)
+[^47b-2]: RSF [130.1](https://bdlf.fr.ch/data/130.1/fr)
 
 #### Art. 47c
 
@@ -694,7 +704,9 @@ Décrète:
 
 <sup>1</sup> La Commission connaît des recours contre les décisions prises en dernière instance par le Rectorat, par une faculté, par une autre unité d'enseignement et de recherche, par une commission universitaire ou par un organe d'un corps universitaire; l'article 35 al. 1 let. d ch. 2 ainsi que la législation sur le personnel de l'Etat sont réservés.
 
-<sup>2</sup> Les décisions de la Commission sont sujettes à recours au Tribunal cantonal, conformément au code de procédure et de juridiction administrative.
+<sup>2</sup> Les décisions de la Commission sont sujettes à recours au Tribunal cantonal, conformément au code de procédure et de juridiction administrative[^47c-1].
+
+[^47c-1]: RSF [150.1](https://bdlf.fr.ch/data/150.1/fr)
 
 #### Art. 47d
 
@@ -702,7 +714,7 @@ Décrète:
 
 <sup>1</sup> Pour siéger, la Commission est composée du président ou de la présidente ou du vice-président ou de la vice-présidente et de quatre assesseur-e-s désignés par lui ou elle.
 
-<sup>2</sup> Elle est indépendante dans l'exercice de ses attributions et placée sous la surveillance du Conseil de la magistrature; les dispositions de la loi sur la justice relatives à la surveillance s'appliquent par analogie.
+<sup>2</sup> Elle est indépendante dans l'exercice de ses attributions et placée sous la surveillance du Conseil de la magistrature; les dispositions de la loi sur la justice[^47d-1] relatives à la surveillance s'appliquent par analogie.
 
 <sup>3</sup> La Commission tient séance autant de fois que nécessaire. Elle peut décider par voie de circulation, sauf si l'un de ses membres s'y oppose.
 
@@ -710,17 +722,21 @@ Décrète:
 
 <sup>5</sup> Le Conseil d'Etat précise au besoin l'organisation et le fonctionnement de la Commission.
 
+[^47d-1]: RSF [130.1](https://bdlf.fr.ch/data/130.1/fr)
+
 #### Art. 47e
 
 **Procédure**
 
-<sup>1</sup> La procédure devant la Commission est régie par le code de procédure et de juridiction administrative.
+<sup>1</sup> La procédure devant la Commission est régie par le code de procédure et de juridiction administrative[^47e-1].
 
 <sup>2</sup> Elle est gratuite; toutefois, un émolument global d'un montant maximal de 500 francs peut être mis à la charge du recourant ou de la recourante qui succombe:
 
 - a) si ce dernier ou cette dernière a occasionné des frais supplémentaires par sa faute;
 - b) en cas de procédure téméraire, abusive ou introduite à la légère;
 - c) si le recours a causé un travail excessif à la Commission.
+
+[^47e-1]: RSF [150.1](https://bdlf.fr.ch/data/150.1/fr)
 
 ## 4 Dispositions finales
 
@@ -748,6 +764,12 @@ Décrète:
 #### Art. 50a
 
 <sup>1</sup> L'Université détermine les dispositions transitoires internes nécessaires au regroupement de la formation à l'enseignement, découlant de la modification du 29 juin 2023 (ROF 2023\_059)
+
+#### Art. 50b
+
+<sup>1</sup> Les étudiants et étudiantes ayant débuté leur formation à la Haute Ecole pédagogique Fribourg poursuivent leur formation au sein de l'Université.
+
+<sup>2</sup> Les décisions prises sous le régime de la loi sur la Haute Ecole pédagogique Fribourg sont contestables selon les voies de droit prévues par cette législation.
 
 #### Art. 51
 

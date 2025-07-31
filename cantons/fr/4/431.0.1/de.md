@@ -4,13 +4,12 @@ number: "431.0.1"
 title: Gesetz über die Universität
 short: UniG
 language: de
-version: 2023-09-01
-valid_until: 2025-07-31
+version: 2025-08-01
 version_adopted: 2023-06-29
 adopted: 1997-11-19
 in_force: 1998-04-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/431.0.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7938/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8553/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Universität – G
 
 (UniG)
 
-vom 19.11.1997 (Fassung in Kraft getreten am 01.09.2023)
+vom 19.11.1997 (Fassung in Kraft getreten am 01.08.2025)
 
 Der Grosse Rat des Kantons Freiburg[^ingress-1]
 
@@ -55,6 +54,7 @@ beschliesst:
 - b) Sie trägt mit Hilfe der Forschung und einer angemessenen Verbreitung der Resultate dazu bei, die wissenschaftlichen Erkenntnisse zu mehren.
 - c) Sie sorgt für wissenschaftlichen Nachwuchs.
 - d) Sie trägt zur Weiterbildung bei.
+- e) Sie sorgt für die Aus- und Weiterbildung von Lehrerinnen und Lehrern und erbringt Dienstleistungen für sie.
 
 <sup>2</sup> Die Universität fördert die Zusammenarbeit und die Interdisziplinarität in Forschung und Lehre sowie das Nachdenken über die Bedingungen und Folgen der wissenschaftlichen Forschung.
 
@@ -218,9 +218,12 @@ beschliesst:
 
 <sup>1</sup> Wer einen nach diesem Gesetz geschützten Titel trägt, ohne Inhaberin oder Inhaber des entsprechenden Grades zu sein, wird mit Busse bestraft.
 
-<sup>2</sup> Die Verfolgung und die Beurteilung dieser Übertretungen werden durch die Strafprozessordnung geregelt. Im Übrigen gelten die Bestimmungen der Spezialgesetzgebung.
+<sup>2</sup> Die Verfolgung und die Beurteilung dieser Übertretungen werden durch die Strafprozessordnung[^11b-1] geregelt. Im Übrigen gelten die Bestimmungen der Spezialgesetzgebung.
 
-<sup>3</sup> Die Bestimmungen des schweizerischen Strafgesetzbuches bleiben vorbehalten.
+<sup>3</sup> Die Bestimmungen des schweizerischen Strafgesetzbuches[^11b-2] bleiben vorbehalten.
+
+[^11b-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^11b-2]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
 
 #### Art. 11c
 
@@ -242,13 +245,17 @@ beschliesst:
 
 <sup>2</sup> Um den Besonderheiten in der Führung und Verwaltung der Universität Rechnung zu tragen, werden die folgenden Zuständigkeiten des Staatsrats vom Rektorat ausgeübt:
 
-- a) das Personalförderungssystem (Art. 19 StPG);
-- b) die Förderung von Erfindungen und Vorschlägen des Personals (Art. 23 StPG);
-- c) die Modalitäten der Ausschreibung offener Stellen (Art. 25 StPG).
+- a) das Personalförderungssystem (Art. 19 StPG[^11d-1]);
+- b) die Förderung von Erfindungen und Vorschlägen des Personals (Art. 23 StPG[^11d-2]);
+- c) die Modalitäten der Ausschreibung offener Stellen (Art. 25 StPG[^11d-3]).
 
 <sup>3</sup> Das von der Universität erlassene Personalreglement bedarf der Genehmigung durch den Staatsrat.
 
 <sup>4</sup> Die Personalbewirtschaftung wird von einer Zentraleinheit der Universität wahrgenommen.
+
+[^11d-1]: SGF [122.70.1](https://bdlf.fr.ch/data/122.70.1/de)
+[^11d-2]: SGF [122.70.1](https://bdlf.fr.ch/data/122.70.1/de)
+[^11d-3]: SGF [122.70.1](https://bdlf.fr.ch/data/122.70.1/de)
 
 ## 2 Universitätsgemeinschaft
 
@@ -497,7 +504,7 @@ beschliesst:
 
 **Rektorat – Zusammensetzung**
 
-<sup>1</sup> Dem Rektorat gehören der Rektor und zwei bis vier Vizerektoren an. Die Statuten der Universität bestimmen die Anzahl der Vizerektoren.
+<sup>1</sup> Dem Rektorat gehören die Rektorin oder der Rektor und zwei bis fünf Vizerektorinnen und Vizerektoren an. Die Statuten der Universität bestimmen die Anzahl der Vizerektorinnen und Vizerektoren.
 
 <sup>2</sup> In der Regel wird die Rektorin oder der Rektor aus der Professorenschaft gewählt. Sie oder er wird für fünf Jahre gewählt und ist wiederwählbar. Sie oder er wird von ihren oder seinen Lehr- und Forschungsaufgaben vollständig oder teilweise befreit.
 
@@ -684,9 +691,12 @@ beschliesst:
 
 <sup>2</sup> Die Rekurskommission besteht aus einer Präsidentin oder einem Präsidenten, einer Vizepräsidentin oder einem Vizepräsidenten, sechs Beisitzerinnen oder Beisitzern und sechs Ersatzbeisitzerinnen oder -beisitzern, die vom Grossen Rat auf Antrag des Justizrats gewählt werden.
 
-<sup>3</sup> Die Präsidentin oder der Präsident, die Vizepräsidentin oder der Vizepräsident werden aus dem Kreis der Berufsrichterinnen und Berufsrichter im Sinne des Justizgesetzes gewählt; die übrigen Mitglieder der Kommission müssen im Besitz eines Lizentiats oder Masters sein. Die Berufsrichterinnen und Berufsrichter müssen entweder im Besitz eines Anwaltspatentes oder eines Lizentiates oder Masters der Rechtswissenschaften sein und genügende praktische Kenntnisse zur Ausübung des Amtes nachweisen.
+<sup>3</sup> Die Präsidentin oder der Präsident, die Vizepräsidentin oder der Vizepräsident werden aus dem Kreis der Berufsrichterinnen und Berufsrichter im Sinne des Justizgesetzes[^47b-1] gewählt; die übrigen Mitglieder der Kommission müssen im Besitz eines Lizentiats oder Masters sein. Die Berufsrichterinnen und Berufsrichter müssen entweder im Besitz eines Anwaltspatentes oder eines Lizentiates oder Masters der Rechtswissenschaften sein und genügende praktische Kenntnisse zur Ausübung des Amtes nachweisen.
 
-<sup>4</sup> Im Übrigen gelten die Bestimmungen des Justizgesetzes über das Amt der Richterin oder des Richters sinngemäss für die Mitglieder der Kommission.
+<sup>4</sup> Im Übrigen gelten die Bestimmungen des Justizgesetzes[^47b-2] über das Amt der Richterin oder des Richters sinngemäss für die Mitglieder der Kommission.
+
+[^47b-1]: SGF [130.1](https://bdlf.fr.ch/data/130.1/de)
+[^47b-2]: SGF [130.1](https://bdlf.fr.ch/data/130.1/de)
 
 #### Art. 47c
 
@@ -694,7 +704,9 @@ beschliesst:
 
 <sup>1</sup> Die Rekurskommission entscheidet über Beschwerden gegen letztinstanzliche Entscheide des Rektorats, einer Fakultät, einer anderen Lehr- und Forschungseinheit, einer universitären Kommission oder eines Organs einer universitären Körperschaft; Artikel 35 Abs. 1 Bst. d Ziff. 2 und die Gesetzgebung über das Staatspersonal bleiben vorbehalten.
 
-<sup>2</sup> Entscheide der Rekurskommission können nach dem Gesetz über die Verwaltungsrechtspflege mit Beschwerde an das Kantonsgericht angefochten werden.
+<sup>2</sup> Entscheide der Rekurskommission können nach dem Gesetz über die Verwaltungsrechtspflege[^47c-1] mit Beschwerde an das Kantonsgericht angefochten werden.
+
+[^47c-1]: SGF [150.1](https://bdlf.fr.ch/data/150.1/de)
 
 #### Art. 47d
 
@@ -702,7 +714,7 @@ beschliesst:
 
 <sup>1</sup> Die Kommission tagt unter dem Vorsitz der Präsidentin oder des Präsidenten oder der Vizepräsidentin oder des Vizepräsidenten mit vier von ihr oder ihm bestimmten Beisitzerinnen oder Beisitzern.
 
-<sup>2</sup> Die Rekurskommission ist in der Ausübung ihrer Zuständigkeiten unabhängig und untersteht der Aufsicht durch den Justizrat; die Bestimmungen des Justizgesetzes zur Aufsicht gelten sinngemäss.
+<sup>2</sup> Die Rekurskommission ist in der Ausübung ihrer Zuständigkeiten unabhängig und untersteht der Aufsicht durch den Justizrat; die Bestimmungen des Justizgesetzes[^47d-1] zur Aufsicht gelten sinngemäss.
 
 <sup>3</sup> Die Kommission tagt so oft wie notwendig. Sie kann auf dem Zirkulationsweg entscheiden, sofern kein Mitglied sich dem widersetzt.
 
@@ -710,17 +722,21 @@ beschliesst:
 
 <sup>5</sup> Der Staatsrat erlässt nach Bedarf Bestimmungen über die Organisation und Arbeitsweise der Kommission.
 
+[^47d-1]: SGF [130.1](https://bdlf.fr.ch/data/130.1/de)
+
 #### Art. 47e
 
 **Verfahren**
 
-<sup>1</sup> Das Verfahren vor der Kommission richtet sich nach dem Gesetz über die Verwaltungsrechtspflege.
+<sup>1</sup> Das Verfahren vor der Kommission richtet sich nach dem Gesetz über die Verwaltungsrechtspflege[^47e-1].
 
 <sup>2</sup> Es ist unentgeltlich; der unterliegenden Beschwerdeführerin oder dem unterliegenden Beschwerdeführer kann jedoch für das Verfahren vor der Rekurskommission eine Pauschalgebühr von höchstens 500 Franken auferlegt werden, wenn:
 
 - a) durch ihr oder sein Verschulden Mehrkosten entstanden sind;
 - b) sie oder er mutwillig, missbräuchlich oder leichtfertig ein Verfahren eingeleitet hat;
 - c) der Rekurskommission durch die Beschwerde ein übermässiger Aufwand entstanden ist.
+
+[^47e-1]: SGF [130.1](https://bdlf.fr.ch/data/130.1/de)
 
 ## 4 Schlussbestimmungen
 
@@ -748,6 +764,12 @@ beschliesst:
 #### Art. 50a
 
 <sup>1</sup> Die Universität legt die für die Zusammenführung der Lehrpersonenausbildung notwendigen internen Übergangsbestimmungen zur Änderung vom 29. Juni 2023 (ASF 2023\_059) fest.
+
+#### Art. 50b
+
+<sup>1</sup> Studierende, die ihre Ausbildung an der Pädagogischen Hochschule Freiburg begonnen haben, setzen ihre Ausbildung an der Universität fort.
+
+<sup>2</sup> Die unter dem Gesetz über die Pädagogische Hochschule Freiburg getroffenen Entscheide sind nach den in dieser Gesetzgebung vorgesehenen Rechtsmitteln anfechtbar.
 
 #### Art. 51
 
