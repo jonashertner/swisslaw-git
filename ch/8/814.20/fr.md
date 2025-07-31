@@ -4,11 +4,11 @@ title: Loi fédérale du 24 janvier 1991 sur la protection des eaux (LEaux)
 short: LEaux
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860"
 language: fr
-version: 2023-02-01
+version: 2025-08-01
 adopted: 1991-01-24
 in_force: 1992-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860/20230201/fr/xml/fedlex-data-admin-ch-eli-cc-1992-1860_1860_1860-20230201-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/20230201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860/20250801/fr/xml/fedlex-data-admin-ch-eli-cc-1992-1860_1860_1860-20250801-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/20250801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/20230201/fr"
 
 (LEaux)
 
-du 24 janvier 1991 (État le 1<sup>er</sup> février 2023)
+du 24 janvier 1991 (État le 1<sup>er</sup> août 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +25,7 @@ vu l’art. 76, al. 2 et 3, de la Constitution[^ingress-1],[^ingress-2] vu le me
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nouvelle teneur selon le ch. II 2 de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4887](https://fedlex.data.admin.ch/eli/fga/2009/947)).
 [^ingress-3]: [FF 1987 II 1081](https://fedlex.data.admin.ch/eli/fga/1987/2_1061_1081_905)
 
@@ -83,9 +83,11 @@ Au sens de la présente loi, on entend par:
 - i. *débit permanent*: un débit Q<sub>347</sub> supérieur à zéro.
 - k. *débit résiduel*: le débit d’un cours d’eau qui subsiste après un ou plusieurs prélèvements.
 - l. *débit de dotation*: la quantité d’eau nécessaire au maintien d’un débit résiduel déterminé après un prélèvement.
-- m.[^4-1] *revitalisation*: le rétablissement, par des travaux de construction, des fonctions naturelles d’eaux superficielles endiguées, corrigées, couvertes ou mises sous terre.
+- m.[^4-1] *revitalisation*: le rétablissement, par des travaux de construction, des fonctions naturelles d’eaux superficielles endiguées, corrigées, couvertes ou mises sous terre;
+- n.[^4-2] *entretien des eaux:* les mesures régulières ou consécutives à un événement dommageable nécessaires à la sauvegarde et au rétablissement des fonctions naturelles des eaux ainsi qu’au maintien de la protection contre les crues.
 
 [^4-1]: Introduite par le ch. I de la LF du 11 déc. 2009 (Renaturation), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7307](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7343](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
+[^4-2]: Introduite par l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 #### Art. 5
 
@@ -251,7 +253,7 @@ Le Conseil fédéral peut autoriser des exceptions aux exigences concernant la s
 <sup>8</sup> Une unité de gros bétail-fumure correspond à la production annuelle moyenne d’engrais de ferme d’une vache de 600 kg.
 
 [^14-1]: Nouvelle teneur selon l’annexe ch. 6 de la LF du 22 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1857](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^14-2]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^14-2]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 [^14-3]: Nouvelle teneur selon l’annexe ch. 6 de la LF du 22 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1857](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 [^14-4]: Nouvelle teneur selon l’annexe ch. 6 de la LF du 22 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1857](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
@@ -425,27 +427,19 @@ Le prélèvement peut être autorisé si:
 
 <sup>1</sup> Lorsque des prélèvements sont opérés dans des cours d’eau à débit permanent, le débit résiduel doit atteindre au moins:
 
-Pour un débit Q<sub>347</sub> inférieur ou égal à 60 l/s 50 l/s
-
-plus, par tranche de 10 l/s 8 l/s
-
-Pour un débit Q<sub>347</sub> de 160 l/s 130 l/s
-
-plus, par tranche de 10 l/s 4,4 l/s
-
-Pour un débit Q<sub>347</sub> de 500 l/s 280 l/s
-
-plus, par tranche de 100 l/s 31 l/s
-
-Pour un débit Q<sub>347</sub> de 2500 l/s 900 l/s
-
-plus, par tranche de 100 l/s 21,3 l/s
-
-Pour un débit Q<sub>347</sub> de 10 000 l/s 2 500 l/s
-
-plus, par tranche de 1000 l/s 150 l/s
-
-Pour un débit Q<sub>347</sub> égal ou supérieur à 60 000 l/s 10 000 l/s
+<table>
+<tr><td>pour un débit Q<sub>347</sub> inférieur ou égal à 60 l/s</td><td>50 l/s</td></tr>
+<tr><td>plus, par tranche de 10 l/s</td><td>8 l/s</td></tr>
+<tr><td>pour un débit Q<sub>347</sub> de 160 l/s</td><td>130 l/s</td></tr>
+<tr><td>plus, par tranche de 10 l/s</td><td>4,4 l/s</td></tr>
+<tr><td>pour un débit Q<sub>347</sub> de 500 l/s</td><td>280 l/s</td></tr>
+<tr><td>plus, par tranche de 100 l/s</td><td>31 l/s</td></tr>
+<tr><td>pour un débit Q<sub>347</sub> de 2500 l/s</td><td>900 l/s</td></tr>
+<tr><td>plus, par tranche de 100 l/s</td><td>21,3 l/s</td></tr>
+<tr><td>pour un débit Q<sub>347</sub> de 10 000 l/s</td><td>2 500 l/s</td></tr>
+<tr><td>plus, par tranche de 1000 l/s</td><td>150 l/s</td></tr>
+<tr><td>pour un débit Q<sub>347</sub> égal ou supérieur à 60 000 l/s</td><td>10 000 l/s</td></tr>
+</table>
 
 <sup>2</sup>
 
@@ -551,38 +545,37 @@ Les cantons déterminent, après consultation des milieux concernés, l’espace
 <sup>3</sup> Les cantons veillent à ce que les plans directeurs et les plans d’affectation prennent en compte l’espace réservé aux eaux et à ce que celui-ci soit aménagé et exploité de manière extensive. L’espace réservé aux eaux n’est pas considéré comme surface d’assolement. La disparition de surfaces d’assolement est compensée conformément aux plans sectoriels de la Confédération visés à l’art. 13 de la loi du 22 juin 1979 sur l’aménagement du territoire[^36a-2].
 
 [^36a-1]: Introduit par le ch. I de la LF du 11 déc. 2009 (Renaturation), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7307](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7343](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
-[^36a-2]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^36a-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 37
 
-**Endiguements et corrections de cours d’eau**
+**Interventions dans les eaux superficielles**[^37-1]
 
 <sup>1</sup>
 
-Les cours d’eau ne peuvent être endigués ou corrigés que si ces interventions:
+Les eaux superficielles ne peuvent être endiguées et corrigées que si ces interventions:
 
-- a.[^37-1] s’imposent pour protéger des personnes ou des biens importants (art. 3, al. 2, de la loi fédérale du 21 juin 1991 sur l’aménagement des cours d’eau[^37-2]);
+- a. s’imposent dans le cadre de la protection contre les crues (art. 3, al. 1 à 3, de la loi du 21 juin 1991 sur l’aménagement des cours d’eau[^37-2]);
 - b. sont nécessaires à l’aménagement de voies navigables ou à l’utilisation de forces hydrauliques dans l’intérêt public;
-- b<sup>bis</sup>.[^37-3] sont nécessaires pour aménager une décharge qui ne peut être réalisée qu’à l’endroit prévu et sur laquelle seront stockés exclusivement des matériaux d’excavation et des déblais de découverte et de percement non pollués;
-- c. permettent d’améliorer au sens de la présente loi l’état d’un cours d’eau déjà endigué ou corrigé.
+- c. sont nécessaires pour aménager une décharge qui ne peut être réalisée qu’à l’endroit prévu et dans laquelle seront stockés exclusivement des matériaux d’excavation et de percement non pollués, ou
+- d. permettent d’améliorer au sens de la présente loi l’état d’eaux superficielles déjà endiguées ou corrigées.
 
-<sup>2</sup>
+<sup>2</sup> Lors d’interventions dans les eaux superficielles, le tracé naturel de ces dernières est autant que possible respecté ou rétabli.
 
-Lors de ces interventions, le tracé naturel des cours d’eau doit autant que possible être respecté ou rétabli. Les eaux et l’espace réservé aux eaux doivent être aménagés de façon à ce que:[^37-4]
+<sup>3</sup>
 
-- a.[^37-5] ils puissent accueillir une faune et une flore diversifiées;
-- b. les interactions entre eaux superficielles et eaux souterraines soient maintenues autant que possible;
-- c. une végétation adaptée à la station puisse croître sur les rives.
+Les eaux superficielles et l’espace réservé aux eaux sont aménagés et entretenus de façon:
 
-<sup>3</sup> Dans les zones bâties, l’autorité peut autoriser des exceptions à l’al. 2.
+- a. qu’ils puissent accueillir une faune et une flore diversifiées;
+- b. que les interactions entre eaux superficielles et eaux souterraines soient maintenues autant que possible;
+- c. qu’une végétation adaptée à la station puisse croître sur les rives.
 
-<sup>4</sup> L’al. 2 s’applique par analogie à la création de cours d’eau artificiels.
+<sup>4</sup> Dans les zones bâties, l’autorité peut autoriser des exceptions aux al. 2 et 3.
 
-[^37-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2013, en vigueur depuis le 1<sup>er</sup> août 2013 ([RO 2013 2339](https://fedlex.data.admin.ch/eli/oc/2013/491); [FF 2012 8687](https://fedlex.data.admin.ch/eli/fga/2012/1729)[8695](https://fedlex.data.admin.ch/eli/fga/2012/1731)).
-[^37-2]: [RS 721.100](https://fedlex.data.admin.ch/eli/cc/1993/234_234_234)
-[^37-3]: Introduit par le ch. I de la LF du 22 mars 2013, en vigueur depuis le 1<sup>er</sup> août 2013 ([RO 2013 2339](https://fedlex.data.admin.ch/eli/oc/2013/491); [FF 2012 8687](https://fedlex.data.admin.ch/eli/fga/2012/1729)[8695](https://fedlex.data.admin.ch/eli/fga/2012/1731)).
-[^37-4]: Nouvelle teneur selon le ch. I de la LF du 11 déc. 2009 (Renaturation), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7307](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7343](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
-[^37-5]: Nouvelle teneur selon le ch. I de la LF du 11 déc. 2009 (Renaturation), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7307](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7343](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
+<sup>5</sup> Les al. 2 et 3 s’appliquent par analogie à la création d’eaux artificielles, à la remise en état d’ouvrages de protection détériorés lors d’un événement dommageable et à leur renforcement.
+
+[^37-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
+[^37-2]: [RS 721.100](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8402)
 
 #### Art. 38
 
@@ -609,7 +602,7 @@ L’autorité peut autoriser des exceptions pour:
 <sup>2</sup> Les cantons planifient les revitalisations et en établissent le calendrier. Ils veillent à ce que les plans directeurs et les plans d’affectation prennent en compte cette planification. La disparition de surfaces d’assolement est compensée conformément aux plans sectoriels de la Confédération visés à l’art. 13 de la loi du 22 juin 1979 sur l’aménagement du territoire[^38a-2].
 
 [^38a-1]: Introduit par le ch. I de la LF du 11 déc. 2009 (Renaturation), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7307](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7343](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
-[^38a-2]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^38a-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 39
 
@@ -780,7 +773,7 @@ Le Conseil fédéral règle la coordination:
 
 [^48-1]: Nouvelle teneur selon le ch I 15 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
 [^48-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
-[^48-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^48-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ### Section 3 Dispositions spéciales d’exécution
 
@@ -835,7 +828,7 @@ Pour l’exécution des art. 14 et 27, les cantons veillent à ce que les exploi
 
 L’autorité peut obtenir par voie de contrainte l’exécution des mesures qu’elle a ordonnées. Lorsque le droit cantonal ne comporte pas de prescriptions en la matière ou que ses prescriptions sont moins sévères, l’art. 41 de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^53-1] est applicable.
 
-[^53-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^53-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 54
 
@@ -1034,8 +1027,8 @@ Dans les limites des crédits approuvés, la Confédération alloue des indemnit
 <sup>4</sup> L’Office fédéral de l’agriculture alloue les indemnités sous la forme de contributions globales, sur la base de conventions-programmes qui sont conclues avec les cantons pour chaque secteur dans lequel les mesures doivent être prises. Il consulte l’Office fédéral de l’environnement pour juger si les programmes prévus garantissent une protection des eaux adéquate. Les cantons allouent les indemnités aux ayants droit.[^62a-6]
 
 [^62a-1]: Introduit par l’annexe ch. 6 de la LF du 29 avril 1998 sur l’agriculture, en vigueur depuis le 1<sup>er</sup> janv. 1999 ([RO 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033); [FF 1996 IV 1](https://fedlex.data.admin.ch/eli/fga/1996/4_1_1_1)).
-[^62a-2]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^62a-3]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^62a-2]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^62a-3]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 [^62a-4]: Nouvelle teneur selon le ch. II 23 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^62a-5]: Abrogé par le ch. II 23 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^62a-6]: Nouvelle teneur selon le ch. II 23 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
@@ -1050,12 +1043,15 @@ Dans les limites des crédits approuvés, la Confédération alloue des indemnit
 
 <sup>3</sup> Le montant des indemnités est fixé en fonction de l’importance des mesures pour le rétablissement des fonctions naturelles des eaux et en fonction de leur efficacité.
 
+<sup>3bis</sup> Dans le cadre des projets de revitalisation, l’aménagement des tronçons de l’espace réservé aux eaux conformément à l’art. 37, al. 3, doit être financé par le projet durant les cinq premières années.[^62b-2]
+
 <sup>4</sup> Aucune contribution n’est versée pour le démantèlement d’une installation auquel le détenteur est tenu de procéder.
 
-<sup>5</sup> Les exploitants de l’espace réservé aux eaux sont indemnisés selon la loi du 29 avril 1998 sur l’agriculture[^62b-2] pour l’exploitation extensive de leurs surfaces. Le budget et le plafond des dépenses agricoles sont augmentés en conséquence.
+<sup>5</sup> Les exploitants de l’espace réservé aux eaux sont indemnisés selon la loi du 29 avril 1998 sur l’agriculture[^62b-3] pour l’exploitation extensive de leurs surfaces. Le budget et le plafond des dépenses agricoles sont augmentés en conséquence.
 
 [^62b-1]: Introduit par le ch. I de la LF du 11 déc. 2009 (Renaturation), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7307](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7343](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
-[^62b-2]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^62b-2]: Introduit par l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
+[^62b-3]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 #### Art. 62c
 
@@ -1118,7 +1114,7 @@ La Confédération peut accorder une garantie contre les risques relatifs aux in
 [^65-1]: Nouvelle teneur selon le ch. I de la LF du 20 juin 1997, en vigueur depuis le 1<sup>er</sup> nov. 1997 ([RO 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [FF 1996 IV 1213](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
 [^65-2]: Nouvelle expression selon l’annexe ch. 8 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 [^65-3]: Nouvelle teneur selon le ch. II 23 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^65-4]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^65-4]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 66
 
@@ -1173,7 +1169,7 @@ La procédure de recours est régie par les dispositions générales de la proc�
 <sup>5</sup> Toute surface exploitée dans l’espace réservé aux eaux reste, dans la mesure du possible, en possession de l’agriculteur. Elle est considérée comme une surface de promotion de la biodiversité.[^68-4]
 
 [^68-1]: Nouvelle teneur selon le ch. I de la LF du 11 déc. 2009 (Renaturation), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7307](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7343](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
-[^68-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^68-2]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^68-3]: Nouvelle teneur selon l’annexe ch. 18 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 [^68-4]: Nouvelle teneur selon l’annexe ch. 6 de la LF du 22 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1857](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
@@ -1234,7 +1230,7 @@ Sera puni d’une amende de 20 000 francs au plus celui qui, intentionnellement:
 
 Lorsqu’une infraction à la présente loi tombe simultanément sous le coup des dispositions pénales de celle-ci et de l’art. 234 du code pénal suisse[^72-1], seule cette dernière disposition est applicable. Pour le reste, les dispositions pénales de la présente loi s’appliquent concurremment avec celles du code pénal suisse.
 
-[^72-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^72-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 73
 
@@ -1242,7 +1238,7 @@ Lorsqu’une infraction à la présente loi tombe simultanément sous le coup de
 
 Les art. 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^73-1] s’appliquent par analogie aux actes punissables en vertu de la présente loi.
 
-[^73-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^73-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Titre 6 Dispositions finales
 
@@ -1300,7 +1296,7 @@ Les cantons fixent dans chaque cas, selon l’urgence de la situation, les déla
 
 <sup>3</sup> Lorsque l’autorité ordonne des mesures d’assainissement supplémentaires dans une zone répertoriée au sens de l’al. 2 et que de petites centrales hydroélectriques ou d’autres installations situées sur des cours d’eau et présentant de la valeur du point de vue de la protection du patrimoine sont concernées, elle met en balance les intérêts de la protection du patrimoine et de la protection des zones répertoriées.[^80-2]
 
-[^80-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^80-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^80-2]: Introduit par le ch. I de la LF du 11 déc. 2009 (Renaturation), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7307](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7343](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
 
 #### Art. 81
@@ -1340,7 +1336,7 @@ Les cantons dressent l’inventaire des prélèvements d’eau existants défini
 
 <sup>3</sup> Les mesures prévues à l’al. 2 doivent avoir été arrêtées avant le début des travaux de construction des installations destinées au prélèvement.
 
-[^83-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^83-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### Section 2<sup>bis</sup> Éclusées et régime de charriage
 
@@ -1364,7 +1360,7 @@ Les détenteurs de centrales hydroélectriques existantes et d’autres installa
 
 <sup>3</sup> Ils présentent tous les quatre ans à la Confédération un rapport sur les mesures mises en œuvre.
 
-[^83b-1]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^83b-1]: [RS 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
 
 ### Section 3 …
 

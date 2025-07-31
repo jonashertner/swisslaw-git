@@ -4,11 +4,11 @@ title: "Lescha federala dals 24 da schaner 1991 davart la protecziun da las auas
 short: LPAuas
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860"
 language: rm
-version: 2023-02-01
+version: 2025-08-01
 adopted: 1991-01-24
 in_force: 1992-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860/20230201/rm/xml/fedlex-data-admin-ch-eli-cc-1992-1860_1860_1860-20230201-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/20230201/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860/20250801/rm/xml/fedlex-data-admin-ch-eli-cc-1992-1860_1860_1860-20250801-rm-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/20250801/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha davart la protecziun da las auas, LPAuas)
 
-dals 24 da schaner 1991 (versiun dal 1. da favrer 2023)
+dals 24 da schaner 1991 (versiun dal 1. d'avust 2025)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -27,7 +27,7 @@ sa basond sin l’artitgel 76 alineas 2 e 3 da la Constituziun federala[^ingress
 
 concluda:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Versiun tenor la cifra II 2 da la LF dals 19 da mars 2010, en vigur dapi il 1. d’avust 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
 [^ingress-3]: [BBl 1987 II 1061](https://fedlex.data.admin.ch/eli/fga/1987/2_1061_1081_905)
 
@@ -85,9 +85,11 @@ En questa lescha signifitgan las suandantas noziuns il sequent:
 - i. *Deflussiun permanenta*: quantitad da deflussiun Q<sub>347</sub> ch’è pli gronda che nulla.
 - k. *Quantitad d’aua restanta*: quantitad da deflussiun d’ina aua currenta che resta suenter ina u pliras prelevaziuns d’aua.
 - l. *Quantitad d’aua da dotaziun*: quantitad d’aua ch’è necessaria per garantir ina tscherta quantitad d’aua restanta en cas d’ina prelevaziun d’aua.
-- m.[^4-1] *Revitalisaziun*: restabiliment da las funcziuns natiralas d’ina aua sur terra, ch’era vegnida messa en rempars, curregida, cuvrida u chanalisada, cun agid da mesiras architectonicas.
+- m.[^4-1] *Revitalisaziun*: restabiliment da las funcziuns natiralas d’ina aua sur terra, ch’era vegnida messa en rempars, curregida, cuvrida u chanalisada, cun agid da mesiras architectonicas;
+- n.[^4-2] *mantegniment da las auas:* mesiras ch’èn necessarias regularmain u suenter eveniments cun donns per mantegnair e restabilir las funcziuns natiralas da las auas sco er per mantegnair la protecziun cunter aua gronda.
 
 [^4-1]: Integrà tras la cifra I da la LF dals 11 da dec. 2009 (renatiralisaziun), en vigur dapi il 1. da schan. 2011 ([AS 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [BBl 2008 8043](https://fedlex.data.admin.ch/eli/fga/2008/1366)[8079](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
+[^4-2]: Integrà tras la cifra 4 da l’agiunta da la LF dals 15 da mars 2024, en vigur dapi il 1. d’avust 2025 ([AS 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [BBl 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 #### Art. 5
 
@@ -253,7 +255,7 @@ Il Cussegl federal po prevair excepziuns da las pretensiuns envers la surfatscha
 <sup>8</sup> Cun envernanta da ladim è manegiada la quantitad media annuala da puschina e da grascha che vegn producida d’ina vatga da 600 kg.
 
 [^14-1]: Versiun tenor la cifra 6 da l’agiunta da la LF dals 22 da mars 2013, en vigur dapi il 1. da schan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^14-2]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^14-2]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 [^14-3]: Versiun tenor la cifra 6 da l’agiunta da la LF dals 22 da mars 2013, en vigur dapi il 1. da schan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 15
@@ -544,37 +546,37 @@ Suenter avair consultà ils circuls pertutgads fixeschan ils chantuns il basegn 
 <sup>3</sup> Ils chantuns procuran ch’il spazi d’auas vegnia resguardà en la planisaziun directiva ed en la planisaziun d’utilisaziun e ch’el vegnia furmà e cultivà en moda extensiva. Il spazi d’auas na vala betg sco surfatscha cun culturas alternantas. Ina perdita da surfatschas cun culturas alternantas vegn cumpensada tenor las prescripziuns da la planisaziun secturiala da la Confederaziun confurm a l’artitgel 13 da la Lescha dals 22 da zercladur 1979[^36a-2] davart la planisaziun dal territori.
 
 [^36a-1]: Integrà tras la cifra I da la LF dals 11 da dec. 2009 (renatiralisaziun), en vigur dapi il 1. da schan. 2011 ([AS 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [BBl 2008 8043](https://fedlex.data.admin.ch/eli/fga/2008/1366)[8079](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
-[^36a-2]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^36a-2]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 37
 
-**Construir rempars e curreger auas currentas**
+**Intervenziuns en auas sur terra**[^37-1]
 
 <sup>1</sup>
 
-Auas currentas dastgan mo vegnir messas en rempars u curregidas:
+Auas sur terra dastgan mo vegnir messas en rempars e curregidas:
 
-- a.[^37-1] sche la protecziun d’umans e da valurs materialas considerablas pretenda quai (art. 3 al. 2 da la Lescha federala dals 21 da zercladur 1991[^37-2] davart la correcziun dals curs d’aua);
+- a. sche la protecziun cunter aua gronda pretenda quai (art. 3 al. 1−3 da la Lescha dals 21 da zercladur 1991[^37-2] davart la correcziun dals curs d’aua);
 - b. sche quai è necessari per far navigabels curs d’aua u per utilisar las forzas idraulicas en l’interess public;
-- b<sup>bis</sup>.[^37-3] sche quai è necessari per endrizzar ina deponia che po vegnir endrizzada mo al lieu previs e sin la quala i vegn deponì mo material da stgavament, da rumida e d’exchavaziun nunsmerdà;
-- c. sch’il stadi d’ina aua ch’è gia messa en rempars u curregida po vegnir meglierà en il senn da questa lescha.
+- c. sche quai è necessari per endrizzar ina deponia che po vegnir endrizzada mo al lieu previs e sin la quala i vegn deponì mo material da stgavament e d’exchavaziun nunsmerdà; u
+- d. sch’il stadi d’ina aua sur terra ch’è gia messa en rempars u curregida, po vegnir meglierà en il senn da questa lescha.
 
-<sup>2</sup>
+<sup>2</sup> Sch’i vegnan fatgas intervenziuns en auas sur terra, sto il decurs natiral da quellas vegnir mantegnì u restabilì tant sco pussaivel.
 
-En il rom da questas intervenziuns sto il curs natiral da l’aua sche pussaivel vegnir mantegnì u restabilì. Las auas ed il spazi d’auas ston vegnir furmads uschia:[^37-4]
+<sup>3</sup>
+
+Las auas sur terra ed il spazi d’auas ston vegnir concepids e mantegnids da maniera:
 
 - a. ch’els pon servir sco biotops per ina fauna e flora multifara;
-- b. che las interacziuns tranter las auas sur e sut terra vegnan mantegnidas per gronda part;
+- b. che las interacziuns tranter las auas sur e sut terra vegnan mantegnidas uschè bain sco pussaivel;
 - c. che la vegetaziun da las rivas po sa sviluppar confurm al lieu.
 
-<sup>3</sup> En territoris surbajegiads po l’autoritad permetter excepziuns da l’alinea 2.
+<sup>4</sup> En territoris surbajegiads po l’autoritad permetter excepziuns dals alineas 2 e 3.
 
-<sup>4</sup> Per stgaffir auas currentas artifizialas vala l’alinea 2 tenor il senn.
+<sup>5</sup> Per stgaffir auas artifizialas sco er per reparar e rinforzar ovras da protecziun existentas suenter eveniments da donns valan ils alineas 2 e 3 tenor il senn.
 
-[^37-1]: Versiun tenor la cifra I da la LF dals 22 da mars 2013, en vigur dapi il 1. d’avust 2013 ([AS 2013 2339](https://fedlex.data.admin.ch/eli/oc/2013/491); [BBl 2012 9407](https://fedlex.data.admin.ch/eli/fga/2012/1729)[9415](https://fedlex.data.admin.ch/eli/fga/2012/1731)).
-[^37-2]: [SR 721.100](https://fedlex.data.admin.ch/eli/cc/1993/234_234_234)
-[^37-3]: Integrà tras la cifra I da la LF dals 22 da mars 2013, en vigur dapi il 1. d’avust 2013 ([AS 2013 2339](https://fedlex.data.admin.ch/eli/oc/2013/491); [BBl 2012 9407](https://fedlex.data.admin.ch/eli/fga/2012/1729)[9415](https://fedlex.data.admin.ch/eli/fga/2012/1731)).
-[^37-4]: Versiun tenor la cifra I da la LF dals 11 da dec. 2009 (renatiralisaziun), en vigur dapi il 1. da schan. 2011 ([AS 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [BBl 2008 8043](https://fedlex.data.admin.ch/eli/fga/2008/1366)[8079](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
+[^37-1]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 15 da mars 2024, en vigur dapi il 1. d’avust 2025 ([AS 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [BBl 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
+[^37-2]: [SR 721.100](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8402)
 
 #### Art. 38
 
@@ -601,7 +603,7 @@ L’autoritad po permetter excepziuns per:
 <sup>2</sup> Els planiseschan las revitalisaziuns e fixeschan in urari per realisar quellas. Els procuran che questa planisaziun vegnia resguardada en la planisaziun directiva ed en la planisaziun d’utilisaziun. Ina perdita da surfatschas cun culturas alternantas vegn cumpensada tenor las prescripziuns da la planisaziun secturiala da la Confederaziun confurm a l’artitgel 13 da la Lescha dals 22 da zercladur 1979[^38a-2] davart la planisaziun dal territori.
 
 [^38a-1]: Integrà tras la cifra I da la LF dals 11 da dec. 2009 (renatiralisaziun), en vigur dapi il 1. da schan. 2011 ([AS 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [BBl 2008 8043](https://fedlex.data.admin.ch/eli/fga/2008/1366)[8079](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
-[^38a-2]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^38a-2]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 39
 
@@ -773,7 +775,7 @@ Il Cussegl federal regla la coordinaziun:
 [^48-1]: Versiun tenor la cifra I 15 da la LF dals 18 da zer. 1999 davart la coordinaziun e la simplificaziun da las proceduras da decisiun, en vigur dapi il 1. da schan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 [^48-2]: La designaziun da l’unitad administrativa è vegnida adattada applitgond l’art. 16 al. 3 da l’Ordinaziun dals 17 da nov. 2004 davart las publicaziuns uffizialas ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 [^48-3]: Noziun tenor la cifra 5 da l’agiunta da la LF dals 21 da mars 2003 davart la tecnica genetica, en vigur dapi il 1. da schan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)). Questa midada è resguardada en l’entir decret.
-[^48-4]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^48-4]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ### 3. secziun Disposiziuns spezialas davart l’execuziun
 
@@ -828,7 +830,7 @@ Per exequir ils artitgels 14 e 27 procuran ils chantuns ch’i vegnia endrizzada
 
 Las autoritads pon far valair per forza las mesiras ch’ellas han ordinà. Sch’il dretg chantunal na cuntegna naginas prescripziuns u naginas prescripziuns pli severas, è applitgabel en la procedura chantunala l’artitgel 41 da la Lescha federala dals 20 da december 1968[^53-1] davart la procedura administrativa.
 
-[^53-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^53-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 54
 
@@ -1027,8 +1029,8 @@ En il rom dals credits deliberads indemnisescha la Confederaziun mesiras da l’
 <sup>4</sup> L’Uffizi federal d’agricultura conceda las indemnisaziuns sco contribuziuns globalas sin basa da cunvegnas da program che vegnan fatgas cun ils chantuns per mintga territori, nua ch’igl èn necessarias mesiras. Per giuditgar, sch’ils programs garanteschan ina protecziun adequata da las auas, consultescha el l’Uffizi federal d’ambient. Ils chantuns repartan las indemnisaziuns als singuls posts che han il dretg da survegnir talas.[^62a-6]
 
 [^62a-1]: Integrà tras la cifra 6 da l’agiunta da la Lescha d’agricultura dals 29 d’avr. 1998, en vigur dapi il 1. da schan. 1999 ([AS 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033); [BBl 1996 IV 1](https://fedlex.data.admin.ch/eli/fga/1996/4_1_1_1)).
-[^62a-2]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^62a-3]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^62a-2]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^62a-3]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 [^62a-4]: Versiun tenor la cifra II 23 da la LF dals 6 d’oct. 2006 davart la refurma da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns (NGF), en vigur dapi il 1. da schan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^62a-5]: Abolì tras la cifra II 23 da la LF dals 6 d’oct. 2006 davart la refurma da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns (NGF), cun effect dapi il 1. da schan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^62a-6]: Versiun tenor la cifra II 23 da la LF dals 6 d’oct. 2006 davart la refurma da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns (NGF), en vigur dapi il 1. da schan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
@@ -1043,12 +1045,15 @@ En il rom dals credits deliberads indemnisescha la Confederaziun mesiras da l’
 
 <sup>3</sup> L’import da las indemnisaziuns sa drizza tenor l’impurtanza da las mesiras per restabilir las funcziuns natiralas da las auas sco er tenor l’efficacitad da las mesiras.
 
+<sup>3bis</sup> En cas da projects da revitalisaziun sto la concepziun dals trajects dals spazis d’aua tenor l’artitgel 37 alinea 3 vegnir finanziada durant ils emprims 5 onns en il rom dal project.[^62b-2]
+
 <sup>4</sup> Sch’il possessur è obligà da renatiralisar in stabiliment, na survegn el naginas contribuziuns.
 
-<sup>5</sup> Ils cultivaturs dal spazi d’auas vegnan indemnisads tenor la Lescha d’agricultura dals 29 d’avrigl 1998[^62b-2] per l’utilisaziun extensiva da lur surfatschas. Il preventiv d’agricultura sco er il rom da pajament correspundent vegnan auzads per quest intent.
+<sup>5</sup> Ils cultivaturs dal spazi d’auas vegnan indemnisads tenor la Lescha d’agricultura dals 29 d’avrigl 1998[^62b-3] per l’utilisaziun extensiva da lur surfatschas. Il preventiv d’agricultura sco er il rom da pajament correspundent vegnan auzads per quest intent.
 
 [^62b-1]: Integrà tras la cifra I da la LF dals 11 da dec. 2009 (renatiralisaziun), en vigur dapi il 1. da schan. 2011 ([AS 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [BBl 2008 8043](https://fedlex.data.admin.ch/eli/fga/2008/1366)[8079](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
-[^62b-2]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^62b-2]: Integrà tras la cifra 4 da l’agiunta da la LF dals 15 da mars 2024, en vigur dapi il 1. d’avust 2025 ([AS 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [BBl 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
+[^62b-3]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 #### Art. 62c
 
@@ -1111,7 +1116,7 @@ La Confederaziun po surpigliar ina garanzia cunter las ristgas tar stabiliments 
 [^65-1]: Versiun tenor la cifra I da la LF dals 20 da zer. 1997, en vigur dapi il 1. da nov. 1997 ([AS 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [BBl 1996 IV 1217](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
 [^65-2]: Expressiun tenor la cifra 8 da l’agiunta da la LF dals 19 da mars 2021, en vigur dapi il 1. da schan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 [^65-3]: Versiun tenor la cifra II 23 da la LF dals 6 d’oct. 2006 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns (NGF), en vigur dapi il 1. da schan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^65-4]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^65-4]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 66
 
@@ -1166,7 +1171,7 @@ La procedura da recurs sa drizza tenor las disposiziuns generalas da la giurisdi
 <sup>5</sup> Las surfatschas dal spazi d’auas che vegnan utilisadas restan sche pussaivel en possess dals purs. Ellas valan sco surfatschas per promover la biodiversitad.[^68-4]
 
 [^68-1]: Versiun tenor la cifra I da la LF dals 11 da dec. 2009 (renatiralisaziun), en vigur dapi il 1. da schan. 2011 ([AS 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [BBl 2008 8043](https://fedlex.data.admin.ch/eli/fga/2008/1366)[8079](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
-[^68-2]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^68-2]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^68-3]: Versiun tenor la cifra 18 da l’agiunta da la LF dals 19 da zer. 2020, en vigur dapi il 1. da schan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 [^68-4]: Versiun tenor la cifra 6 da l’agiunta da la LF dals 22 da mars 2013, en vigur dapi il 1. da schan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
@@ -1227,7 +1232,7 @@ Cun ina multa fin a 20 000 francs vegn chastià, tgi che cuntrafa sapientivamain
 
 Sch’ina cuntravenziun cunter questa lescha ademplescha a medem temp il causal da l’artitgel 234 dal Cudesch penal[^72-1], è applitgabla mo questa disposiziun. Dal rest vegnan applitgadas ultra da las disposiziuns penalas dal Cudesch penal er quellas da questa lescha.
 
-[^72-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^72-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 73
 
@@ -1235,7 +1240,7 @@ Sch’ina cuntravenziun cunter questa lescha ademplescha a medem temp il causal 
 
 Ils artitgels 6 e 7 da la Lescha federala dals 22 da mars 1974[^73-1] davart il dretg penal administrativ valan confurm al senn per acts chastiabels tenor questa lescha.
 
-[^73-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^73-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## 6. titel Disposiziuns finalas
 
@@ -1293,7 +1298,7 @@ Ils chantuns fixeschan il termin per adattar la capacitad d’installaziuns per 
 
 <sup>3</sup> Sche l’ordinaziun da mesiras da sanaziun supplementaras en territoris inventarisads tenor l’alinea 2 pertutga ovras idraulicas pitschnas u auters stabiliments ch’èn situads per lung d’auas currentas e che han ina valur per la tgira da monuments, cumpareglia l’autoritad ils interess da la protecziun da monuments cun quels da la protecziun da las zonas inventarisadas.[^80-2]
 
-[^80-1]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^80-1]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^80-2]: Integrà tras la cifra I da la LF dals 11 da dec. 2009 (renatiralisaziun), en vigur dapi il 1. da schan. 2011 ([AS 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [BBl 2008 8043](https://fedlex.data.admin.ch/eli/fga/2008/1366)[8079](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
 
 #### Art. 81
@@ -1333,7 +1338,7 @@ Ils chantuns fan in inventari da las prelevaziuns d’aua existentas tenor l’a
 
 <sup>3</sup> L’autoritad ordinescha las mesiras il pli tard avant che las lavurs da construcziun per ils stabiliments da prelevaziun d’aua cumenzan.
 
-[^83-1]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^83-1]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### 2<sup>bis</sup>. secziun Midadas da la deflussiun da l’aua e bilantscha da gera
 
@@ -1357,7 +1362,7 @@ Ils possessurs d’ovras idraulicas existentas e d’auters stabiliments per lun
 
 <sup>3</sup> Els rapportan mintga 4 onns a la Confederaziun davart las mesiras realisadas.
 
-[^83b-1]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^83b-1]: [SR 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
 
 ### 3. secziun ...
 

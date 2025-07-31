@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 24. Januar 1991 über den Schutz der Gewässer (Gewäss
 short: GSchG
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860"
 language: de
-version: 2023-02-01
+version: 2025-08-01
 adopted: 1991-01-24
 in_force: 1992-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860/20230201/de/xml/fedlex-data-admin-ch-eli-cc-1992-1860_1860_1860-20230201-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/20230201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860/20250801/de/xml/fedlex-data-admin-ch-eli-cc-1992-1860_1860_1860-20250801-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/20250801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/20230201/de"
 
 (Gewässerschutzgesetz, GSchG)
 
-vom 24. Januar 1991 (Stand am 1. Februar 2023)
+vom 24. Januar 1991 (Stand am 1. August 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 76 Absätze 2 und 3 der Bundesverfassung[^ingress-1],[^ing
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Fassung gemäss Ziff. II 2 des BG vom 19. März 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
 [^ingress-3]: [BBl 1987 II 1061](https://fedlex.data.admin.ch/eli/fga/1987/2_1061_1081_905)
 
@@ -83,9 +83,11 @@ In diesem Gesetz bedeuten:
 - i. *Ständige Wasserführung*: Abflussmenge Q<sub>347</sub>, die grösser als Null ist;
 - k. *Restwassermenge*: Abflussmenge eines Fliessgewässers, die nach einer oder mehreren Entnahmen von Wasser verbleibt;
 - l. *Dotierwassermenge*: Wassermenge, die zur Sicherstellung einer bestimm-ten Restwassermenge bei der Wasserentnahme im Gewässer belassen wird;
-- m.[^4-1] *Revitalisierung*: Wiederherstellung der natürlichen Funktionen eines verbauten, korrigierten, überdeckten oder eingedolten oberirdischen Gewässers mit baulichen Massnahmen.
+- m.[^4-1] *Revitalisierung*: Wiederherstellung der natürlichen Funktionen eines verbauten, korrigierten, überdeckten oder eingedolten oberirdischen Gewässers mit baulichen Massnahmen;
+- n.[^4-2] *Gewässerunterhalt**:* Regelmässig oder nach Schadenereignissen erforderliche Massnahmen für den Erhalt und die Wiederherstellung der natürlichen Funktionen der Gewässer und für den Erhalt des Hochwasserschutzes.
 
 [^4-1]: Eingefügt durch Ziff. I des BG vom 11. Dez. 2009 (Renaturierung), in Kraft seit 1. Jan. 2011 ([AS 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [BBl 2008 8043](https://fedlex.data.admin.ch/eli/fga/2008/1366)[8079](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
+[^4-2]: Eingefügt durch Anhang Ziff. 4 des BG vom 15. März 2024, in Kraft seit 1. Aug. 2025 ([AS 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [BBl 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 #### Art. 5
 
@@ -251,7 +253,7 @@ Der Bundesrat kann Ausnahmen von den Anforderungen an die Nutzfläche vorsehen f
 <sup>8</sup> Eine Düngergrossvieheinheit entspricht dem durchschnittlichen jährlichen Anfall von Gülle und Mist einer 600 kg schweren Kuh.
 
 [^14-1]: Fassung gemäss Anhang Ziff. 6 des BG vom 22. März 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^14-2]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^14-2]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 [^14-3]: Fassung gemäss Anhang Ziff. 6 des BG vom 22. März 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 15
@@ -426,7 +428,7 @@ Die Entnahme kann bewilligt werden, wenn:
 
 <table>
 <tr><td>bis 60 l/s Abflussmenge Q<sub>347</sub></td><td>50 l/s</td><td></td></tr>
-<tr><td>und für je weitere 10 l/s Abflussmenge Q<sub>347</sub></td><td>8 l/s</td><td></td></tr>
+<tr><td>und für je weitere 10 l/s Abflussmenge Q<sub>347</sub></td><td>8 l/s</td><td>mehr,</td></tr>
 <tr><td>für 160 l/s Abflussmenge Q<sub>347</sub></td><td>130 l/s</td><td></td></tr>
 <tr><td>und für je weitere 10 l/s Abflussmenge Q<sub>347</sub></td><td>4,4 l/s</td><td>mehr,</td></tr>
 <tr><td>für 500 l/s Abflussmenge Q<sub>347</sub></td><td>280 l/s</td><td></td></tr>
@@ -542,37 +544,37 @@ Die Kantone legen nach Anhörung der betroffenen Kreise den Raumbedarf der oberi
 <sup>3</sup> Die Kantone sorgen dafür, dass der Gewässerraum bei der Richt- und Nutzungsplanung berücksichtigt sowie extensiv gestaltet und bewirtschaftet wird. Der Gewässerraum gilt nicht als Fruchtfolgefläche. Für einen Verlust an Fruchtfolgeflächen ist nach den Vorgaben der Sachplanung des Bundes nach Artikel 13 des Raumplanungsgesetzes vom 22. Juni 1979[^36a-2] Ersatz zu leisten.
 
 [^36a-1]: Eingefügt durch Ziff. I des BG vom 11. Dez. 2009 (Renaturierung), in Kraft seit 1. Jan. 2011 ([AS 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [BBl 2008 8043](https://fedlex.data.admin.ch/eli/fga/2008/1366)[8079](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
-[^36a-2]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^36a-2]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 37
 
-**Verbauung und Korrektion von Fliessgewässern**
+**Eingriffe in oberirdische Gewässer**[^37-1]
 
 <sup>1</sup>
 
-Fliessgewässer dürfen nur verbaut oder korrigiert werden, wenn:
+Oberirdische Gewässer dürfen nur verbaut und korrigiert werden, wenn:
 
-- a.[^37-1] der Schutz von Menschen oder erheblichen Sachwerten es erfordert (Art. 3 Abs. 2 des BG vom 21. Juni 1991[^37-2] über den Wasserbau);
+- a. der Hochwasserschutz es erfordert (Art. 3 Abs. 1−3 des Wasserbaugesetzes vom 21. Juni 1991[^37-2]);
 - b. es für die Schiffbarmachung oder für eine im öffentlichen Interesse liegende Nutzung der Wasserkraft nötig ist;
-- b<sup>bis</sup>.[^37-3] es für die Errichtung einer Deponie nötig ist, die nur am vorgesehenen Standort errichtet werden kann und auf der ausschliesslich unverschmutztes Aushub-, Abraum- und Ausbruchmaterial abgelagert wird;
-- c. dadurch der Zustand eines bereits verbauten oder korrigierten Gewässers im Sinn dieses Gesetzes verbessert werden kann.
+- c. es für die Errichtung einer Deponie nötig ist, die nur am vorgesehenen Standort errichtet werden kann und auf der ausschliesslich unverschmutztes Aushub- und Ausbruchmaterial abgelagert wird; oder
+- d. dadurch der Zustand eines bereits verbauten oder korrigierten oberirdischen Gewässers im Sinn dieses Gesetzes verbessert werden kann.
 
-<sup>2</sup>
+<sup>2</sup> Bei Eingriffen in das oberirdische Gewässer muss dessen natürlicher Verlauf möglichst beibehalten oder wiederhergestellt werden.
 
-Dabei muss der natürliche Verlauf des Gewässers möglichst beibehalten oder wiederhergestellt werden. Gewässer und Gewässerraum müssen so gestaltet werden, dass:[^37-4]
+<sup>3</sup>
+
+Oberirdische Gewässer und Gewässerraum müssen so gestaltet und unterhalten werden, dass:
 
 - a. sie einer vielfältigen Tier- und Pflanzenwelt als Lebensraum dienen können;
-- b. die Wechselwirkungen zwischen ober- und unterirdischem Gewässer weitgehend erhalten bleiben;
+- b. die Wechselwirkungen zwischen ober- und unterirdischen Gewässern so weit als möglich erhalten bleiben;
 - c. eine standortgerechte Ufervegetation gedeihen kann.
 
-<sup>3</sup> In überbauten Gebieten kann die Behörde Ausnahmen von Absatz 2 bewilligen.
+<sup>4</sup> In überbauten Gebieten kann die Behörde Ausnahmen von den Absätzen 2 und 3 bewilligen.
 
-<sup>4</sup> Für die Schaffung künstlicher Fliessgewässer gilt Absatz 2 sinngemäss.
+<sup>5</sup> Für die Schaffung künstlicher Gewässer, die Instandstellung und die Verstärkung bestehender Schutzbauten nach Schadenereignissen gelten die Absätze 2 und 3 sinngemäss.
 
-[^37-1]: Fassung gemäss Ziff. I des BG vom 22. März 2013, in Kraft seit 1. Aug. 2013 ([AS 2013 2339](https://fedlex.data.admin.ch/eli/oc/2013/491); [BBl 2012 9407](https://fedlex.data.admin.ch/eli/fga/2012/1729)[9415](https://fedlex.data.admin.ch/eli/fga/2012/1731)).
-[^37-2]: [SR 721.100](https://fedlex.data.admin.ch/eli/cc/1993/234_234_234)
-[^37-3]: Eingefügt durch Ziff. I des BG vom 22. März 2013, in Kraft seit 1. Aug. 2013 ([AS 2013 2339](https://fedlex.data.admin.ch/eli/oc/2013/491); [BBl 2012 9407](https://fedlex.data.admin.ch/eli/fga/2012/1729)[9415](https://fedlex.data.admin.ch/eli/fga/2012/1731)).
-[^37-4]: Fassung gemäss Ziff. I des BG vom 11. Dez. 2009 (Renaturierung), in Kraft seit 1. Jan. 2011 ([AS 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [BBl 2008 8043](https://fedlex.data.admin.ch/eli/fga/2008/1366)[8079](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
+[^37-1]: Fassung gemäss Anhang Ziff. 4 des BG vom 15. März 2024, in Kraft seit 1. Aug. 2025 ([AS 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [BBl 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
+[^37-2]: [SR 721.100](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8402)
 
 #### Art. 38
 
@@ -599,7 +601,7 @@ Die Behörde kann Ausnahmen bewilligen für:
 <sup>2</sup> Sie planen die Revitalisierungen und legen den Zeitplan dafür fest. Sie sorgen dafür, dass diese Planung bei der Richt- und Nutzungsplanung berücksichtigt wird. Für einen Verlust an Fruchtfolgeflächen ist nach den Vorgaben der Sachplanung des Bundes nach Artikel 13 des Raumplanungsgesetzes vom 22. Juni 1979[^38a-2] Ersatz zu leisten.
 
 [^38a-1]: Eingefügt durch Ziff. I des BG vom 11. Dez. 2009 (Renaturierung), in Kraft seit 1. Jan. 2011 ([AS 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [BBl 2008 8043](https://fedlex.data.admin.ch/eli/fga/2008/1366)[8079](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
-[^38a-2]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^38a-2]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 39
 
@@ -771,7 +773,7 @@ Der Bundesrat regelt die Koordination:
 [^48-1]: Fassung gemäss Ziff. I 15 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 [^48-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
 [^48-3]: Ausdruck gemäss Anhang Ziff. 5 des Gentechnikgesetzes vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)). Diese Änd. ist im ganzen Erlass berücksichtigt.
-[^48-4]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^48-4]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ### 3. Abschnitt: Besondere Bestimmungen über den Vollzug
 
@@ -826,7 +828,7 @@ Die Kantone sorgen dafür, dass zum Vollzug der Artikel 14 und 27 eine Beratung 
 
 Die Behörden können die von ihnen angeordneten Massnahmen zwangsweise durchsetzen. Soweit das kantonale Recht keine oder keine strengeren Vorschriften enthält, ist im kantonalen Verfahren Artikel 41 des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^53-1] anwendbar.
 
-[^53-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^53-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 54
 
@@ -1025,8 +1027,8 @@ Der Bund leistet im Rahmen der bewilligten Kredite Abgeltungen an Massnahmen der
 <sup>4</sup> Das Bundesamt für Landwirtschaft gewährt die Abgeltungen als globale Beiträge auf der Grundlage von Programmvereinbarungen, die mit den Kantonen für jedes Gebiet abgeschlossen werden, in dem Massnahmen erforderlich sind. Für die Beurteilung, ob die Programme einen sachgemässen Gewässerschutz gewährleisten, hört es das Bundesamt für Umwelt an. Die Kantone sprechen die Abgeltungen den einzelnen Anspruchsberechtigten zu.[^62a-6]
 
 [^62a-1]: Eingefügt durch Anhang Ziff. 6 des Landwirtschaftsgesetzes vom 29. April 1998, in Kraft seit. 1. Jan. 1999 ([AS 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033); [BBl 1996 IV 1](https://fedlex.data.admin.ch/eli/fga/1996/4_1_1_1)).
-[^62a-2]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^62a-3]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^62a-2]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^62a-3]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 [^62a-4]: Fassung gemäss Ziff. II 23 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^62a-5]: Aufgehoben durch Ziff. II 23 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), mit Wirkung seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^62a-6]: Fassung gemäss Ziff. II 23 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
@@ -1041,12 +1043,15 @@ Der Bund leistet im Rahmen der bewilligten Kredite Abgeltungen an Massnahmen der
 
 <sup>3</sup> Die Höhe der Abgeltungen richtet sich nach der Bedeutung der Massnahmen für die Wiederherstellung der natürlichen Funktionen der Gewässer sowie nach der Wirksamkeit der Massnahmen.
 
+<sup>3bis</sup> Bei Revitalisierungsprojekten ist die Gestaltung der Gewässerraumabschnitte nach Artikel 37 Absatz 3 in den ersten fünf Jahren über das Projekt zu finanzieren.[^62b-2]
+
 <sup>4</sup> Keine Beiträge werden an den Rückbau einer Anlage geleistet, wenn der Inhaber dazu verpflichtet ist.
 
-<sup>5</sup> Den Bewirtschaftern des Gewässerraums werden die Abgeltungen gemäss Landwirtschaftsgesetz vom 29. April 1998[^62b-2] für die extensive Nutzung ihrer Flächen entrichtet. Das Landwirtschaftsbudget sowie der entsprechende Zahlungsrahmen werden zu diesem Zweck aufgestockt.
+<sup>5</sup> Den Bewirtschaftern des Gewässerraums werden die Abgeltungen gemäss Landwirtschaftsgesetz vom 29. April 1998[^62b-3] für die extensive Nutzung ihrer Flächen entrichtet. Das Landwirtschaftsbudget sowie der entsprechende Zahlungsrahmen werden zu diesem Zweck aufgestockt.
 
 [^62b-1]: Eingefügt durch Ziff. I des BG vom 11. Dez. 2009 (Renaturierung), in Kraft seit 1. Jan. 2011 ([AS 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [BBl 2008 8043](https://fedlex.data.admin.ch/eli/fga/2008/1366)[8079](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
-[^62b-2]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^62b-2]: Eingefügt durch Anhang Ziff. 4 des BG vom 15. März 2024, in Kraft seit 1. Aug. 2025 ([AS 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [BBl 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
+[^62b-3]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 #### Art. 62c
 
@@ -1109,7 +1114,7 @@ Der Bund kann für Erfolg versprechende neuartige Anlagen und Einrichtungen eine
 [^65-1]: Fassung gemäss Ziff. I des BG vom 20. Juni 1997, in Kraft seit 1. Nov. 1997 ([AS 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [BBl 1996 IV 1217](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
 [^65-2]: Ausdruck gemäss Anhang Ziff. 8 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 [^65-3]: Fassung gemäss Ziff. II 23 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^65-4]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^65-4]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 66
 
@@ -1164,7 +1169,7 @@ Das Beschwerdeverfahren richtet sich nach den allgemeinen Bestimmungen über die
 <sup>5</sup> Die genutzten Flächen des Gewässerraums bleiben soweit wie möglich im Besitz der Landwirte. Sie gelten als Biodiversitätsförderflächen.[^68-4]
 
 [^68-1]: Fassung gemäss Ziff. I des BG vom 11. Dez. 2009 (Renaturierung), in Kraft seit 1. Jan. 2011 ([AS 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [BBl 2008 8043](https://fedlex.data.admin.ch/eli/fga/2008/1366)[8079](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
-[^68-2]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^68-2]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^68-3]: Fassung gemäss Anhang Ziff. 18 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 [^68-4]: Fassung gemäss Anhang Ziff. 6 des BG vom 22. März 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
@@ -1225,7 +1230,7 @@ Mit Busse bis zu 20 000 Franken wird bestraft, wer vorsätzlich:[^71-1]
 
 Erfüllt eine Widerhandlung gegen dieses Gesetz gleichzeitig den Tatbestand von Artikel 234 des Strafgesetzbuches[^72-1], so ist nur diese Bestimmung anwendbar. Im übrigen finden die Strafbestimmungen des vorliegenden Gesetzes neben denjenigen des Strafgesetzbuches Anwendung.
 
-[^72-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^72-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 73
 
@@ -1233,7 +1238,7 @@ Erfüllt eine Widerhandlung gegen dieses Gesetz gleichzeitig den Tatbestand von 
 
 Die Artikel 6 und 7 des Verwaltungsstrafrechtsgesetzes vom 22. März 1974[^73-1] gelten sinngemäss für strafbare Handlungen nach diesem Gesetz.
 
-[^73-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^73-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## 6. Titel: Schlussbestimmungen
 
@@ -1291,7 +1296,7 @@ Die Kantone legen die Frist zur Anpassung der Kapazität von Lagereinrichtungen 
 
 <sup>3</sup> Sind von der Anordnung weitergehender Sanierungsmassnahmen in inventarisierten Gebieten nach Absatz 2 Kleinwasserkraftwerke oder andere Anlagen an Fliessgewässern, die einen denkmalschützerischen Wert aufweisen, betroffen, so wägt die Behörde zwischen den Interessen des Denkmal- und des Inventarschutzes ab.[^80-2]
 
-[^80-1]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^80-1]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^80-2]: Eingefügt durch Ziff. I des BG vom 11. Dez. 2009 (Renaturierung), in Kraft seit 1. Jan. 2011 ([AS 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [BBl 2008 8043](https://fedlex.data.admin.ch/eli/fga/2008/1366)[8079](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
 
 #### Art. 81
@@ -1331,7 +1336,7 @@ Die Kantone erstellen ein Inventar der bestehenden Wasserentnahmen nach Artikel 
 
 <sup>3</sup> Die Behörde ordnet die Massnahmen spätestens vor dem Beginn der Bauarbeiten für die Anlagen zur Wasserentnahme an.
 
-[^83-1]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^83-1]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### 2<sup>bis</sup>. Abschnitt: Schwall und Sunk sowie Geschiebehaushalt
 
@@ -1355,7 +1360,7 @@ Die Inhaber bestehender Wasserkraftwerke und anderer Anlagen an Gewässern sind 
 
 <sup>3</sup> Sie erstatten dem Bund alle vier Jahre Bericht über die durchgeführten Massnahmen.
 
-[^83b-1]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^83b-1]: [SR 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
 
 ### 3. Abschnitt: …
 

@@ -4,11 +4,11 @@ title: Legge federale del 24 gennaio 1991 sulla protezione delle acque (LPAc)
 short: LPAc
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860"
 language: it
-version: 2023-02-01
+version: 2025-08-01
 adopted: 1991-01-24
 in_force: 1992-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860/20230201/it/xml/fedlex-data-admin-ch-eli-cc-1992-1860_1860_1860-20230201-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/20230201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860/20250801/it/xml/fedlex-data-admin-ch-eli-cc-1992-1860_1860_1860-20250801-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/20250801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/20230201/it"
 
 (LPAc)
 
-del 24 gennaio 1991 (Stato 1° febbraio 2023)
+del 24 gennaio 1991 (Stato 1° agosto 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,8 +25,8 @@ visto l’articolo 76 capoversi 2 e 3 della Costituzione federale[^ingress-1];[^
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Nuovo testo giusta il n. II 2 della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: Nuovo testo giusta la cifra II n. 2 della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)).
 [^ingress-3]: [FF 1987 II 905](https://fedlex.data.admin.ch/eli/fga/1987/2_1061_1081_905)
 
 ## Titolo primo: Disposizioni generali
@@ -64,7 +64,7 @@ Ognuno è tenuto ad usare tutta la diligenza richiesta dalle circostanze al fine
 
 I costi delle misure prese secondo la presente legge sono sostenuti da chi ne è la causa.
 
-[^3a-1]: Introdotto dal n. I della LF del 20 giu. 1997, in vigore dal 1° nov. 1997 ([RU 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [FF 1996 IV 1041](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
+[^3a-1]: Introdotto dalla cifra I della LF del 20 giu. 1997, in vigore dal 1° nov. 1997 ([RU 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [FF 1996 IV 1041](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
 
 #### Art. 4
 
@@ -83,9 +83,11 @@ Ai sensi della presente legge si intendono per:
 - i. *deflusso permanente*: una portata Q<sub>347</sub> superiore a zero;
 - k. *deflusso residuale*: il deflusso che rimane di un corso d’acqua dopo uno o più prelievi;
 - l. *portata di dotazione*: la portata indispensabile per assicurare un determinato deflusso residuale in caso di prelievo;
-- m.[^4-1] *rivitalizzazione*: il ripristino, con misure di natura edile, delle funzioni naturali di acque superficiali arginate, corrette, coperte o messe in galleria.
+- m.[^4-1] *rivitalizzazione*: il ripristino, con misure di natura edile, delle funzioni naturali di acque superficiali arginate, corrette, coperte o messe in galleria;
+- n.[^4-2] *manutenzione delle acque**:* provvedimenti ricorrenti o necessari a seguito di eventi dannosi per preservare e ripristinare le funzioni naturali delle acque nonché per garantire la protezione contro le piene.
 
-[^4-1]: Introdotta dal n. I della LF dell’11 dic. 2009 (Rinaturazione), in vigore dal 1° gen. 2011 ([RU 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7033](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7069](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
+[^4-1]: Introdotta dalla cifra I della LF dell’11 dic. 2009 (Rinaturazione), in vigore dal 1° gen. 2011 ([RU 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7033](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7069](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
+[^4-2]: Introdotta dall’all. n. 4 della LF del 15 mar. 2024, in vigore dal 1° ago. 2025 ([RU 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 #### Art. 5
 
@@ -117,8 +119,8 @@ In quanto lo esigano la difesa integrata o situazioni d’emergenza, il Consigli
 
 <sup>3</sup> I Cantoni provvedono a una pianificazione comunale e, se necessario, a una pianificazione regionale dello smaltimento delle acque di scarico.[^7-2]
 
-[^7-1]: Nuovo testo giusta il n. I 3 della LF del 21 dic. 2007 sulla soppressione e la semplificazione delle procedure d’autorizzazione, in vigore dal 1° giu. 2008 ([RU 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [FF 2007 309](https://fedlex.data.admin.ch/eli/fga/2007/50)).
-[^7-2]: Introdotto dal n. I della LF del 20 giu. 1997, in vigore dal 1° nov. 1997 ([RU 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [FF 1996 IV 1041](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
+[^7-1]: Nuovo testo giusta la cifra I n. 3 della LF del 21 dic. 2007 sulla soppressione e la semplificazione delle procedure d’autorizzazione, in vigore dal 1° giu. 2008 ([RU 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [FF 2007 309](https://fedlex.data.admin.ch/eli/fga/2007/50)).
+[^7-2]: Introdotto dalla cifra I della LF del 20 giu. 1997, in vigore dal 1° nov. 1997 ([RU 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [FF 1996 IV 1041](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
 
 #### Art. 8
 
@@ -153,10 +155,10 @@ L’omologazione dei prodotti fitosanitari o biocidi (pesticidi) è verificata s
 
 <sup>6</sup> Se l’adozione di una misura secondo il capoverso 5 pregiudicherebbe fortemente l’approvvigionamento indigeno in importanti colture agricole, il Consiglio federale può, per un periodo limitato, prescindere dalla revoca.[^9-4]
 
-[^9-1]: Introdotto dal n. I 2 della LF del 19 mar. 2021 (Modifica della legge sui prodotti chimici, della legge federale sulla protezione delle acque e della legge sull’agricoltura), in vigore dal 1° feb. 2023 ([RU 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 2](https://fedlex.data.admin.ch/eli/oc/2023/2); [FF 2020 5759](https://fedlex.data.admin.ch/eli/fga/2020/1667), [5967](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
-[^9-2]: Introdotto dal n. I 2 della LF del 19 mar. 2021 (Modifica della legge sui prodotti chimici, della legge federale sulla protezione delle acque e della legge sull’agricoltura), in vigore dal 1° feb. 2023 ([RU 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 2](https://fedlex.data.admin.ch/eli/oc/2023/2); [FF 2020 5759](https://fedlex.data.admin.ch/eli/fga/2020/1667), [5967](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
-[^9-3]: Introdotto dal n. I 2 della LF del 19 mar. 2021 (Modifica della legge sui prodotti chimici, della legge federale sulla protezione delle acque e della legge sull’agricoltura), in vigore dal 1° feb. 2023 ([RU 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 2](https://fedlex.data.admin.ch/eli/oc/2023/2); [FF 2020 5759](https://fedlex.data.admin.ch/eli/fga/2020/1667), [5967](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
-[^9-4]: Introdotto dal n. I 2 della LF del 19 mar. 2021 (Modifica della legge sui prodotti chimici, della legge federale sulla protezione delle acque e della legge sull’agricoltura), in vigore dal 1° feb. 2023 ([RU 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 2](https://fedlex.data.admin.ch/eli/oc/2023/2); [FF 2020 5759](https://fedlex.data.admin.ch/eli/fga/2020/1667), [5967](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+[^9-1]: Introdotto dalla cifra I n. 2 della LF del 19 mar. 2021 (Modifica della legge sui prodotti chimici, della legge federale sulla protezione delle acque e della legge sull’agricoltura), in vigore dal 1° feb. 2023 ([RU 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 2](https://fedlex.data.admin.ch/eli/oc/2023/2); [FF 2020 5759](https://fedlex.data.admin.ch/eli/fga/2020/1667), [5967](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+[^9-2]: Introdotto dalla cifra I n. 2 della LF del 19 mar. 2021 (Modifica della legge sui prodotti chimici, della legge federale sulla protezione delle acque e della legge sull’agricoltura), in vigore dal 1° feb. 2023 ([RU 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 2](https://fedlex.data.admin.ch/eli/oc/2023/2); [FF 2020 5759](https://fedlex.data.admin.ch/eli/fga/2020/1667), [5967](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+[^9-3]: Introdotto dalla cifra I n. 2 della LF del 19 mar. 2021 (Modifica della legge sui prodotti chimici, della legge federale sulla protezione delle acque e della legge sull’agricoltura), in vigore dal 1° feb. 2023 ([RU 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 2](https://fedlex.data.admin.ch/eli/oc/2023/2); [FF 2020 5759](https://fedlex.data.admin.ch/eli/fga/2020/1667), [5967](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+[^9-4]: Introdotto dalla cifra I n. 2 della LF del 19 mar. 2021 (Modifica della legge sui prodotti chimici, della legge federale sulla protezione delle acque e della legge sull’agricoltura), in vigore dal 1° feb. 2023 ([RU 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 2](https://fedlex.data.admin.ch/eli/oc/2023/2); [FF 2020 5759](https://fedlex.data.admin.ch/eli/fga/2020/1667), [5967](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
 
 ### Sezione 2: Trattamento delle acque di scarico e sfruttamento del concime di fattoria
 
@@ -179,8 +181,8 @@ I Cantoni provvedono alla costruzione di canalizzazioni pubbliche e di stazioni 
 
 <sup>4</sup> ...[^10-2]
 
-[^10-1]: Introdotto dal n. I della LF del 20 giu. 1997, in vigore dal 1° nov. 1997 ([RU 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [FF 1996 IV 1041](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
-[^10-2]: Abrogato dal n. I della LF del 20 giu. 1997, con effetto dal 1° nov. 1997 ([RU 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [FF 1996 IV 1041](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
+[^10-1]: Introdotto dalla cifra I della LF del 20 giu. 1997, in vigore dal 1° nov. 1997 ([RU 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [FF 1996 IV 1041](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
+[^10-2]: Abrogato dalla cifra I della LF del 20 giu. 1997, con effetto dal 1° nov. 1997 ([RU 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [FF 1996 IV 1041](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
 
 #### Art. 11
 
@@ -251,7 +253,7 @@ Il Consiglio federale può prevedere eccezioni alle esigenze relative alla super
 <sup>8</sup> Un’unità di bestiame grosso-letame corrisponde alla quantità media annua di colaticcio e di letame prodotta da una vacca di 600 chilogrammi.
 
 [^14-1]: Nuovo testo giusta l’all. n. 6 della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^14-2]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^14-2]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 [^14-3]: Nuovo testo giusta l’all. n. 6 della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 15
@@ -262,7 +264,7 @@ Il Consiglio federale può prevedere eccezioni alle esigenze relative alla super
 
 <sup>2</sup> L’autorità cantonale assicura il controllo periodico degli impianti.
 
-[^15-1]: Nuovo testo giusta il n. I della LF del 24 mar. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4287](https://fedlex.data.admin.ch/eli/oc/2006/656); [FF 2005 835](https://fedlex.data.admin.ch/eli/fga/2005/114)).
+[^15-1]: Nuovo testo giusta la cifra I della LF del 24 mar. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4287](https://fedlex.data.admin.ch/eli/oc/2006/656); [FF 2005 835](https://fedlex.data.admin.ch/eli/fga/2005/114)).
 [^15-2]: Nuovo testo giusta l’all. n. 6 della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 16
@@ -307,7 +309,7 @@ Il permesso di costruzione o di trasformazione di un edificio può essere conces
 
 <sup>2</sup> La costruzione e la modificazione di edifici e impianti come pure l’esecuzione di lavori di scavo, di sterro e simili nei settori particolarmente minacciati necessitano di un’autorizzazione cantonale qualora costituiscano un potenziale pericolo per le acque.[^19-1]
 
-[^19-1]: Nuovo testo giusta il n. I della LF del 24 mar. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4287](https://fedlex.data.admin.ch/eli/oc/2006/656); [FF 2005 835](https://fedlex.data.admin.ch/eli/fga/2005/114)).
+[^19-1]: Nuovo testo giusta la cifra I della LF del 24 mar. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4287](https://fedlex.data.admin.ch/eli/oc/2006/656); [FF 2005 835](https://fedlex.data.admin.ch/eli/fga/2005/114)).
 
 #### Art. 20
 
@@ -351,13 +353,13 @@ Il proprietario di una captazione d’acqua sotterranea deve:
 
 <sup>7</sup> I capoversi 2–5 non si applicano agli impianti non pericolosi per le acque o con un esiguo potenziale di pericolo.
 
-[^22-1]: Nuovo testo giusta il n. I della LF del 24 mar. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4287](https://fedlex.data.admin.ch/eli/oc/2006/656); [FF 2005 835](https://fedlex.data.admin.ch/eli/fga/2005/114)).
+[^22-1]: Nuovo testo giusta la cifra I della LF del 24 mar. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4287](https://fedlex.data.admin.ch/eli/oc/2006/656); [FF 2005 835](https://fedlex.data.admin.ch/eli/fga/2005/114)).
 
 #### Art. 23
 
 [^23-1]
 
-[^23-1]: Abrogato dal n. I della LF del 24 mar. 2006, con effetto dal 1° gen. 2007 ([RU 2006 4287](https://fedlex.data.admin.ch/eli/oc/2006/656); [FF 2005 835](https://fedlex.data.admin.ch/eli/fga/2005/114)).
+[^23-1]: Abrogato dalla cifra I della LF del 24 mar. 2006, con effetto dal 1° gen. 2007 ([RU 2006 4287](https://fedlex.data.admin.ch/eli/oc/2006/656); [FF 2005 835](https://fedlex.data.admin.ch/eli/fga/2005/114)).
 
 #### Art. 24
 
@@ -375,7 +377,7 @@ Gli articoli 22 e 24 si applicano per analogia alle sostanze che, in contatto co
 
 [^26-1]
 
-[^26-1]: Abrogato dal n. I della LF del 24 mar. 2006, con effetto dal 1° gen. 2007 ([RU 2006 4287](https://fedlex.data.admin.ch/eli/oc/2006/656); [FF 2005 835](https://fedlex.data.admin.ch/eli/fga/2005/114)).
+[^26-1]: Abrogato dalla cifra I della LF del 24 mar. 2006, con effetto dal 1° gen. 2007 ([RU 2006 4287](https://fedlex.data.admin.ch/eli/oc/2006/656); [FF 2005 835](https://fedlex.data.admin.ch/eli/fga/2005/114)).
 
 ### Sezione 6: Sfruttamento del suolo e provvedimenti concernenti le acque
 
@@ -389,7 +391,7 @@ Gli articoli 22 e 24 si applicano per analogia alle sostanze che, in contatto co
 
 <sup>2</sup> Il Consiglio federale può emanare le prescrizioni necessarie.
 
-[^27-1]: Introdotto dal n. I 2 della LF del 19 mar. 2021 (Modifica della legge sui prodotti chimici, della legge federale sulla protezione delle acque e della legge sull’agricoltura), in vigore dal 1° feb. 2023 ([RU 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 2](https://fedlex.data.admin.ch/eli/oc/2023/2); [FF 2020 5759](https://fedlex.data.admin.ch/eli/fga/2020/1667), [5967](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+[^27-1]: Introdotto dalla cifra I n. 2 della LF del 19 mar. 2021 (Modifica della legge sui prodotti chimici, della legge federale sulla protezione delle acque e della legge sull’agricoltura), in vigore dal 1° feb. 2023 ([RU 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 2](https://fedlex.data.admin.ch/eli/oc/2023/2); [FF 2020 5759](https://fedlex.data.admin.ch/eli/fga/2020/1667), [5967](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
 
 #### Art. 28
 
@@ -424,27 +426,19 @@ Il prelievo può essere autorizzato se:
 
 <sup>1</sup> In caso di prelievi da corsi d’acqua con deflusso permanente il deflusso residuale deve essere almeno di:
 
-per una portata Q<sub>347</sub> fino a 60 l/s 50 l/s
-
-per ogni 10 l/s in più di portata più 8 l/s
-
-per una portata Q<sub>347</sub> di 160 l/s 130 l/s
-
-per ogni 10 l/s in più di portata più 4,4 l/s
-
-per una portata Q<sub>347</sub> di 500 l/s 280 l/s
-
-per ogni 100 l/s in più di portata più 31 l/s
-
-per una portata Q<sub>347</sub> di 2500 l/s 900 l/s
-
-per ogni 100 l/s in più di portata più 21,3 l/s
-
-per una portata Q<sub>347</sub> di 10 000 l/s 2 500 l/s
-
-per ogni 1000 l/s in più di portata più 150 l/s
-
-per una portata Q<sub>347</sub> pari o superiore a 60 000 l/s 10 000 l/s
+<table>
+<tr><td>per una portata Q<sub>347</sub> fino a 60 l/s</td><td></td><td>50 l/s</td></tr>
+<tr><td>per ogni 10 l/s in più di portata</td><td>più</td><td>8 l/s</td></tr>
+<tr><td>per una portata Q<sub>347</sub> di 160 l/s</td><td></td><td>130 l/s</td></tr>
+<tr><td>per ogni 10 l/s in più di portata</td><td>più</td><td>4,4 l/s</td></tr>
+<tr><td>per una portata Q<sub>347</sub> di 500 l/s</td><td></td><td>280 l/s</td></tr>
+<tr><td>per ogni 100 l/s in più di portata</td><td>più</td><td>31 l/s</td></tr>
+<tr><td>per una portata Q<sub>347</sub> di 2500 l/s</td><td></td><td>900 l/s</td></tr>
+<tr><td>per ogni 100 l/s in più di portata</td><td>più</td><td>21,3 l/s</td></tr>
+<tr><td>per una portata Q<sub>347</sub> di 10 000 l/s</td><td></td><td>2 500 l/s</td></tr>
+<tr><td>per ogni 1000 l/s in più di portata</td><td>più</td><td>150 l/s</td></tr>
+<tr><td>per una portata Q<sub>347</sub> pari o superiore a 60 000 l/s</td><td></td><td>10 000 l/s</td></tr>
+</table>
 
 <sup>2</sup>
 
@@ -468,8 +462,8 @@ I Cantoni possono autorizzare deflussi minimi inferiori:
 - c. nell’ambito di una pianificazione per la protezione e l’utilizzazione del territorio di una regione limitata e topograficamente coerente, a condizione di una corrispettiva compensazione con provvedimenti adeguati, come la rinuncia ad un altro prelievo d’acqua nella stessa regione. La pianificazione surriferita dev’essere sottoposta al Consiglio federale per approvazione;
 - d. in casi di emergenza, per prelievi limitati nel tempo e destinati in particolare all’approvvigionamento con acqua potabile, allo spegnimento di incendi o all’irrigazione agricola.
 
-[^32-1]: Nuovo testo giusta il n. I della LF dell’11 dic. 2009(Rinaturazione), in vigore dal 1° gen. 2011 ([RU 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7033](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7069](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
-[^32-2]: Introdotta dal n. I della LF dell’11 dic. 2009 (Rinaturazione), in vigore dal 1° gen. 2011 ([RU 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7033](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7069](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
+[^32-1]: Nuovo testo giusta la cifra I della LF dell’11 dic. 2009(Rinaturazione), in vigore dal 1° gen. 2011 ([RU 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7033](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7069](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
+[^32-2]: Introdotta dalla cifra I della LF dell’11 dic. 2009 (Rinaturazione), in vigore dal 1° gen. 2011 ([RU 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7033](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7069](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
 
 #### Art. 33
 
@@ -531,7 +525,7 @@ Quando prelievi effettuati da laghi o da falde freatiche influiscono sensibilmen
 
 [^tit2-chap3-1]
 
-[^tit2-chap3-1]: Nuovo testo giusta il n. I della LF dell’11 dic. 2009 (Rinaturazione), in vigore dal 1° gen. 2011 ([RU 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7033](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7069](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
+[^tit2-chap3-1]: Nuovo testo giusta la cifra I della LF dell’11 dic. 2009 (Rinaturazione), in vigore dal 1° gen. 2011 ([RU 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7033](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7069](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
 
 #### Art. 36a
 
@@ -549,38 +543,38 @@ Previa consultazione degli ambienti interessati, i Cantoni determinano lo spazio
 
 <sup>3</sup> I Cantoni provvedono affinché lo spazio riservato alle acque sia preso in considerazione nei piani direttori e di utilizzazione e sia sistemato e sfruttato in modo estensivo. Lo spazio riservato alle acque non è considerato superficie per l’avvicendamento delle colture. La perdita di superfici per l’avvicendamento delle colture va compensata secondo quanto previsto nei piani settoriali della Confederazione di cui all’articolo 13 della legge del 22 giugno 1979[^36a-2] sulla pianificazione del territorio.
 
-[^36a-1]: Introdotto dal n. I della LF dell’11 dic. 2009 (Rinaturazione), in vigore dal 1° gen. 2011 ([RU 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7033](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7069](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
-[^36a-2]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^36a-1]: Introdotto dalla cifra I della LF dell’11 dic. 2009 (Rinaturazione), in vigore dal 1° gen. 2011 ([RU 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7033](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7069](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
+[^36a-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 37
 
-**Arginatura e correzione dei corsi d’acqua**
+**Interventi nelle acque superficiali**[^37-1]
 
 <sup>1</sup>
 
-I corsi d’acqua possono essere arginati o corretti solo se:
+Le acque superficiali possono essere arginate e corrette solo se:
 
-- a.[^37-1] la protezione dell’uomo o di beni materiali importanti lo esige (art. 3 cpv. 2 della LF del 21 giu. 1991[^37-2] sulla sistemazione dei corsi d’acqua);
-- b. l’arginatura o la correzione è necessaria per rendere navigabile o per sfruttare nel pubblico interesse le forze idriche;
-- b<sup>bis</sup>.[^37-3] l’arginatura o la correzione è necessaria per realizzare una discarica che può essere ubicata soltanto nel luogo previsto e nella quale viene depositato esclusivamente materiale di scavo e di sgombero non inquinato;
-- c. in tal modo si migliora ai sensi della presente legge un corso d’acqua già arginato o corretto.
+- a. lo esige la protezione contro le piene (art. 3 cpv. 1−3 della legge federale del 21 giugno 1991[^37-2] sulla sistemazione dei corsi d’acqua);
+- b. è necessario per la navigabilità o per sfruttare nel pubblico interesse le forze idriche;
+- c. è necessario per realizzare una discarica che può essere ubicata soltanto nel luogo previsto e nella quale viene depositato esclusivamente materiale di scavo e di sgombero non inquinato; oppure
+- d. in tal modo si migliorano ai sensi della presente legge acque superficiali già arginate o corrette.
 
-<sup>2</sup>
+<sup>2</sup> Gli interventi sui corsi d’acqua superficiali devono per quanto possibile rispettare o ricostituire il tracciato naturale.
 
-Nell’ambito dell’arginatura o correzione, il tracciato naturale del corso d’acqua dev’essere per quanto possibile rispettato o ricostituito. Il corso d’acqua e lo spazio riservato alle acque devono essere sistemati in modo da:[^37-4]
+<sup>3</sup>
 
-- a. poter servire da biotopo ad una fauna e ad una flora diversificate;
-- b. conservare in larga misura le interazioni fra le acque superficiali e quelle sotterranee;
+Le acque superficiali e lo spazio riservato alle acque devono essere sistemati e sottoposti a manutenzione in modo da:
+
+- a. offrire un biotopo a una fauna e a una flora diversificate;
+- b. conservare per quanto possibile le interazioni fra le acque superficiali e quelle sotterranee;
 - c. permettere lo sviluppo di una vegetazione ripuale consona al luogo.
 
-<sup>3</sup> Nelle zone edificate, l’autorità può autorizzare deroghe al capoverso 2.
+<sup>4</sup> Nelle zone edificate, l’autorità può autorizzare deroghe ai capoversi 2 e 3.
 
-<sup>4</sup> Il capoverso 2 è applicabile per analogia alla costruzione di corsi d’acqua artificiali.
+<sup>5</sup> I capoversi 2 e 3 sono applicabili per analogia alla creazione di corpi idrici artificiali, nonché al ripristino e al rafforzamento, a seguito di eventi dannosi, di opere di protezione esistenti.
 
-[^37-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° ago. 2013 ([RU 2013 2339](https://fedlex.data.admin.ch/eli/oc/2013/491); [FF 2012 8271](https://fedlex.data.admin.ch/eli/fga/2012/1729)[8279](https://fedlex.data.admin.ch/eli/fga/2012/1731)).
-[^37-2]: [RS 721.100](https://fedlex.data.admin.ch/eli/cc/1993/234_234_234)
-[^37-3]: Introdotta dal n. I della LF del 22 mar. 2013, in vigore dal 1° ago. 2013 ([RU 2013 2339](https://fedlex.data.admin.ch/eli/oc/2013/491); [FF 2012 8271](https://fedlex.data.admin.ch/eli/fga/2012/1729)[8279](https://fedlex.data.admin.ch/eli/fga/2012/1731)).
-[^37-4]: Nuovo testo giusta il n. I della LF dell’11 dic. 2009 (Rinaturazione), in vigore dal 1° gen. 2011 ([RU 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7033](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7069](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
+[^37-1]: Nuovo testo giusta l’all. n. 4 della LF del 15 mar. 2024, in vigore dal 1° ago. 2025 ([RU 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
+[^37-2]: [RS 721.100](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8402)
 
 #### Art. 38
 
@@ -606,8 +600,8 @@ L’autorità può autorizzare deroghe per:
 
 <sup>2</sup> I Cantoni pianificano le rivitalizzazioni e ne stabiliscono lo scadenzario. Provvedono affinché tale pianificazione sia presa in considerazione nei piani direttori e di utilizzazione. La perdita di superfici per l’avvicendamento delle colture va compensata secondo quanto previsto nei piani settoriali della Confederazione di cui all’articolo 13 della legge del 22 giugno 1979[^38a-2] sulla pianificazione del territorio.
 
-[^38a-1]: Introdotto dal n. I della LF dell’11 dic. 2009 (Rinaturazione), in vigore dal 1° gen. 2011 ([RU 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7033](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7069](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
-[^38a-2]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^38a-1]: Introdotto dalla cifra I della LF dell’11 dic. 2009 (Rinaturazione), in vigore dal 1° gen. 2011 ([RU 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7033](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7069](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
+[^38a-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 39
 
@@ -644,7 +638,7 @@ Le misure sono definite in base ai seguenti criteri:
 
 <sup>4</sup> I bacini di compensazione costruiti in applicazione del capoverso 1 possono essere utilizzati ai fini dell’accumulazione per pompaggio senza modifica della concessione.
 
-[^39a-1]: Introdotto dal n. I della LF dell’11 dic. 2009 (Rinaturazione), in vigore dal 1° gen. 2011 ([RU 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7033](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7069](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
+[^39a-1]: Introdotto dalla cifra I della LF dell’11 dic. 2009 (Rinaturazione), in vigore dal 1° gen. 2011 ([RU 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7033](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7069](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
 
 #### Art. 40
 
@@ -706,7 +700,7 @@ Le misure sono definite in base ai seguenti criteri:
 
 <sup>3</sup> Nel bacino imbrifero del corso d’acqua interessato le misure sono armonizzate previa consultazione dei detentori degli impianti in questione.
 
-[^43a-1]: Introdotto dal n. I della LF dell’11 dic. 2009 (Rinaturazione), in vigore dal 1° gen. 2011 ([RU 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7033](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7069](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
+[^43a-1]: Introdotto dalla cifra I della LF dell’11 dic. 2009 (Rinaturazione), in vigore dal 1° gen. 2011 ([RU 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7033](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7069](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
 
 #### Art. 44
 
@@ -728,7 +722,7 @@ L’autorizzazione non può essere concessa se i lavori sono eseguiti:
 
 [^tit3-1]
 
-[^tit3-1]: Nuovo testo giusta il n. I della LF del 20 giu. 1997, in vigore dal 1° nov. 1997 ([RU 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [FF 1996 IV 1041](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
+[^tit3-1]: Nuovo testo giusta la cifra I della LF del 20 giu. 1997, in vigore dal 1° nov. 1997 ([RU 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [FF 1996 IV 1041](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
 
 ### Capitolo 1: Esecuzione
 
@@ -776,9 +770,9 @@ Il Consiglio federale disciplina il coordinamento:
 
 <sup>4</sup> Il Consiglio federale determina quali dati, rilevati su sostanze in base ad altre leggi federali, devono essere messi a disposizione dall’Ufficio federale.
 
-[^48-1]: Nuovo testo giusta il n. I 15 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^48-1]: Nuovo testo giusta la cifra I n. 15 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 [^48-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali (RO **2004** 4937). Di detta mod. è tenuto conto in tutto il presente testo.
-[^48-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^48-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ### Sezione 3: Disposizioni esecutive speciali
 
@@ -833,7 +827,7 @@ I Cantoni provvedono affinché sia assicurata una consulenza per l’esecuzione 
 
 Le autorità possono imporre coattivamente l’esecuzione dei provvedimenti da loro ordinati. Qualora la legislazione cantonale non preveda prescrizioni in materia, o non preveda prescrizioni più severe, nella procedura cantonale è applicabile l’articolo 41 della legge federale del 20 dicembre 1968[^53-1] sulla procedura amministrativa.
 
-[^53-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^53-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 54
 
@@ -904,7 +898,7 @@ Prima di autorizzare qualsiasi intervento con effetti sulle acque in prossimità
 
 [^tit3-chap3-1]
 
-[^tit3-chap3-1]: Introdotto dal n. I della LF del 20 giu. 1997, in vigore dal 1° nov. 1997 ([RU 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [FF 1996 IV 1041](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
+[^tit3-chap3-1]: Introdotto dalla cifra I della LF del 20 giu. 1997, in vigore dal 1° nov. 1997 ([RU 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [FF 1996 IV 1041](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
 
 #### Art. 60a
 
@@ -925,7 +919,7 @@ I Cantoni provvedono affinché i costi di costruzione, esercizio, manutenzione, 
 
 <sup>4</sup> Le basi per il calcolo delle tasse sono a disposizione del pubblico.
 
-[^60a-1]: Introdotto dal n. I della LF del 21 mar. 2014, in vigore dal 1° gen. 2016 ([RU 2014 3327](https://fedlex.data.admin.ch/eli/oc/2014/574); [FF 2013 4767](https://fedlex.data.admin.ch/eli/fga/2013/1031)).
+[^60a-1]: Introdotto dalla cifra I della LF del 21 mar. 2014, in vigore dal 1° gen. 2016 ([RU 2014 3327](https://fedlex.data.admin.ch/eli/oc/2014/574); [FF 2013 4767](https://fedlex.data.admin.ch/eli/fga/2013/1031)).
 
 #### Art. 60b
 
@@ -941,7 +935,7 @@ I Cantoni provvedono affinché i costi di costruzione, esercizio, manutenzione, 
 
 <sup>5</sup> I detentori delle stazioni accollano la tassa a chi ha reso necessarie le misure.
 
-[^60b-1]: Introdotto dal n. I della LF del 21 mar. 2014, in vigore dal 1° gen. 2016 ([RU 2014 3327](https://fedlex.data.admin.ch/eli/oc/2014/574); [FF 2013 4767](https://fedlex.data.admin.ch/eli/fga/2013/1031)).
+[^60b-1]: Introdotto dalla cifra I della LF del 21 mar. 2014, in vigore dal 1° gen. 2016 ([RU 2014 3327](https://fedlex.data.admin.ch/eli/oc/2014/574); [FF 2013 4767](https://fedlex.data.admin.ch/eli/fga/2013/1031)).
 
 ### Capitolo 4: Promovimento
 
@@ -962,8 +956,8 @@ Entro i limiti dei crediti stanziati e sulla base di accordi di programma, la Co
 
 <sup>2</sup> Le indennità sono stabilite in funzione della quantità di azoto eliminato mediante i provvedimenti di cui al capoverso 1.
 
-[^61-1]: Nuovo testo giusta il n. II 23 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^61-2]: Nuovo testo giusta il n. I della LF del 21 mar. 2014, in vigore dal 1° gen. 2016 ([RU 2014 3327](https://fedlex.data.admin.ch/eli/oc/2014/574); [FF 2013 4767](https://fedlex.data.admin.ch/eli/fga/2013/1031)).
+[^61-1]: Nuovo testo giusta la cifra II n. 23 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^61-2]: Nuovo testo giusta la cifra I della LF del 21 mar. 2014, in vigore dal 1° gen. 2016 ([RU 2014 3327](https://fedlex.data.admin.ch/eli/oc/2014/574); [FF 2013 4767](https://fedlex.data.admin.ch/eli/fga/2013/1031)).
 
 #### Art. 61a
 
@@ -980,7 +974,7 @@ Entro i limiti dei crediti stanziati e dei mezzi disponibili, la Confederazione 
 
 <sup>3</sup> Le indennità ammontano al 75 per cento dei costi computabili.
 
-[^61a-1]: Introdotto dal n. I della LF del 21 mar. 2014, in vigore dal 1° gen. 2016 ([RU 2014 3327](https://fedlex.data.admin.ch/eli/oc/2014/574); [FF 2013 4767](https://fedlex.data.admin.ch/eli/fga/2013/1031)).
+[^61a-1]: Introdotto dalla cifra I della LF del 21 mar. 2014, in vigore dal 1° gen. 2016 ([RU 2014 3327](https://fedlex.data.admin.ch/eli/oc/2014/574); [FF 2013 4767](https://fedlex.data.admin.ch/eli/fga/2013/1031)).
 
 #### Art. 62
 
@@ -1008,10 +1002,10 @@ Le indennità ammontano:
 - a. al 25 per cento dei costi computabili per gli impianti, le installazioni e le apparecchiature giusta i capoversi 1 e 2;
 - b.[^62-4] …
 
-[^62-1]: Nuovo testo giusta il n. I della LF del 20 giu. 1997, in vigore dal 1° nov. 1997 ([RU 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [FF 1996 IV 1041](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
-[^62-2]: Introdotto dal n. I della LF dell’8 ott. 2004, in vigore dal 1° ott. 2006 ([RU 2006 3859](https://fedlex.data.admin.ch/eli/oc/2006/575); [FF 2003 6957](https://fedlex.data.admin.ch/eli/fga/2003/1353)[6977](https://fedlex.data.admin.ch/eli/fga/2003/1355)).
-[^62-3]: <sup>¶</sup>Abrogato dal n. II 33 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
-[^62-4]: <sup>¶</sup>Abrogata dal n. II 33 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^62-1]: Nuovo testo giusta la cifra I della LF del 20 giu. 1997, in vigore dal 1° nov. 1997 ([RU 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [FF 1996 IV 1041](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
+[^62-2]: Introdotto dalla cifra I della LF dell’8 ott. 2004, in vigore dal 1° ott. 2006 ([RU 2006 3859](https://fedlex.data.admin.ch/eli/oc/2006/575); [FF 2003 6957](https://fedlex.data.admin.ch/eli/fga/2003/1353)[6977](https://fedlex.data.admin.ch/eli/fga/2003/1355)).
+[^62-3]: Abrogato dalla cifra II n. 33 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^62-4]: Abrogata dalla cifra II n. 33 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 #### Art. 62a
 
@@ -1032,11 +1026,11 @@ Entro i limiti dei crediti stanziati, la Confederazione assegna indennità per p
 <sup>4</sup> L’Ufficio federale dell’agricoltura accorda le indennità come contributi globali sulla base di accordi di programma conclusi con i Cantoni per ogni zona in cui sono necessari provvedimenti. Per valutare se i programmi previsti assicurano un’adeguata protezione delle acque, consulta l’Ufficio federale. I Cantoni attribuiscono le indennità ai singoli aventi diritto.[^62a-6]
 
 [^62a-1]: Introdotto dall’all. n. 6 della LF del 29 apr. 1998 sull’agricoltura, in vigore dal 1° gen. 1999 ([RU 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033); [FF 1996 IV 1](https://fedlex.data.admin.ch/eli/fga/1996/4_1_1_1)).
-[^62a-2]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^62a-3]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^62a-4]: Nuovo testo giusta il n. II 23 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^62a-5]: Abrogato dal n. II 23 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^62a-6]: Nuovo testo giusta il n. II 23 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^62a-2]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^62a-3]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^62a-4]: Nuovo testo giusta la cifra II n. 23 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^62a-5]: Abrogato dalla cifra II n. 23 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^62a-6]: Nuovo testo giusta la cifra II n. 23 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 #### Art. 62b
 
@@ -1048,12 +1042,15 @@ Entro i limiti dei crediti stanziati, la Confederazione assegna indennità per p
 
 <sup>3</sup> Le indennità sono stabilite in funzione dell’importanza delle misure ai fini del ripristino delle funzioni naturali delle acque, nonché dell’efficacia delle misure stesse.
 
+<sup>3bis</sup> In caso di progetti di rivitalizzazione, la sistemazione dei tratti dello spazio riservato alle acque secondo l’articolo 37 capoverso 3 è finanziata nel quadro del progetto durante i primi cinque anni.[^62b-2]
+
 <sup>4</sup> Non sono versati contributi per lo smantellamento di impianti al quale il detentore è tenuto a procedere.
 
-<sup>5</sup> Chi sfrutta lo spazio riservato alle acque è indennizzato secondo la legge del 29 aprile 1998[^62b-2] sull’agricoltura per lo sfruttamento estensivo delle proprie superfici. Il preventivo agricolo e il relativo limite di spesa sono aumentati a tal fine.
+<sup>5</sup> Chi sfrutta lo spazio riservato alle acque è indennizzato secondo la legge del 29 aprile 1998[^62b-3] sull’agricoltura per lo sfruttamento estensivo delle proprie superfici. Il preventivo agricolo e il relativo limite di spesa sono aumentati a tal fine.
 
-[^62b-1]: Introdotto dal n. I della LF dell’11 dic. 2009 (Rinaturazione), in vigore dal 1° gen. 2011 ([RU 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7033](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7069](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
-[^62b-2]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^62b-1]: Introdotto dalla cifra I della LF dell’11 dic. 2009 (Rinaturazione), in vigore dal 1° gen. 2011 ([RU 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7033](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7069](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
+[^62b-2]: Introdotto dall’all. n. 4 della LF del 15 mar. 2024, in vigore dal 1° ago. 2025 ([RU 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
+[^62b-3]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 #### Art. 62c
 
@@ -1063,7 +1060,7 @@ Entro i limiti dei crediti stanziati, la Confederazione assegna indennità per p
 
 <sup>2</sup> Le indennità ammontano al 35 per cento dei costi computabili.
 
-[^62c-1]: Introdotto dal n. I della LF dell’11 dic. 2009 (Rinaturazione), in vigore dal 1° gen. 2011 ([RU 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7033](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7069](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
+[^62c-1]: Introdotto dalla cifra I della LF dell’11 dic. 2009 (Rinaturazione), in vigore dal 1° gen. 2011 ([RU 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7033](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7069](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
 
 #### Art. 63
 
@@ -1071,7 +1068,7 @@ Entro i limiti dei crediti stanziati, la Confederazione assegna indennità per p
 
 Le indennità sono assegnate soltanto se la soluzione prevista risponde a una pianificazione efficace, garantisce una protezione adeguata delle acque, è conforme allo stato della tecnica ed è economica.
 
-[^63-1]: Nuovo testo giusta il n. I della LF del 20 giu. 1997, in vigore dal 1° nov. 1997 ([RU 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [FF 1996 IV 1041](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
+[^63-1]: Nuovo testo giusta la cifra I della LF del 20 giu. 1997, in vigore dal 1° nov. 1997 ([RU 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [FF 1996 IV 1041](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
 
 #### Art. 64
 
@@ -1090,10 +1087,10 @@ Entro i limiti dei crediti stanziati, essa può sostenere mediante indennità e 
 
 <sup>4</sup> Le prestazioni della Confederazione ammontano al massimo al 40 per cento dei costi.[^64-4]
 
-[^64-1]: Nuovo testo giusta il n. II 23 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^64-1]: Nuovo testo giusta la cifra II n. 23 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^64-2]: Nuovo testo giusta l’all. n. 32 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
-[^64-3]: Nuovo testo giusta il n. II 23 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^64-4]: Nuovo testo giusta il n. I della LF del 20 giu. 1997, in vigore dal 1° nov. 1997 ([RU 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [FF 1996 IV 1041](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
+[^64-3]: Nuovo testo giusta la cifra II n. 23 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^64-4]: Nuovo testo giusta la cifra I della LF del 20 giu. 1997, in vigore dal 1° nov. 1997 ([RU 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [FF 1996 IV 1041](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
 
 #### Art. 64a
 
@@ -1101,7 +1098,7 @@ Entro i limiti dei crediti stanziati, essa può sostenere mediante indennità e 
 
 La Confederazione può assumere una garanzia contro i rischi per gli impianti, le installazioni e le apparecchiature promettenti e innovativi. La garanzia non deve superare il 60 per cento dei costi computabili.
 
-[^64a-1]: Introdotto dal n. I della LF del 20 giu. 1997, in vigore dal 1° nov. 1997 ([RU 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [FF 1996 IV 1041](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
+[^64a-1]: Introdotto dalla cifra I della LF del 20 giu. 1997, in vigore dal 1° nov. 1997 ([RU 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [FF 1996 IV 1041](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
 
 #### Art. 65
 
@@ -1113,10 +1110,10 @@ La Confederazione può assumere una garanzia contro i rischi per gli impianti, l
 
 <sup>3</sup> Essa stanzia un credito d’impegno pluriennale fino a concorrenza del quale la Confederazione può assumere garanzie contro i rischi giusta l’articolo 64*a.*
 
-[^65-1]: Nuovo testo giusta il n. I della LF del 20 giu. 1997, in vigore dal 1° nov. 1997 ([RU 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [FF 1996 IV 1041](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
+[^65-1]: Nuovo testo giusta la cifra I della LF del 20 giu. 1997, in vigore dal 1° nov. 1997 ([RU 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [FF 1996 IV 1041](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
 [^65-2]: Nuova espr. giusta l’all. n. 8 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 333](https://fedlex.data.admin.ch/eli/fga/2020/18)).
-[^65-3]: Nuovo testo giusta il n. II 23 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^65-4]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^65-3]: Nuovo testo giusta la cifra II n. 23 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^65-4]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 66
 
@@ -1153,7 +1150,7 @@ La procedura di ricorso è retta dalle disposizioni generali sull’amministrazi
 
 <sup>2</sup> …[^67a-2]
 
-[^67a-1]: Introdotto dal n. I 15 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^67a-1]: Introdotto dalla cifra I n. 15 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 [^67a-2]: Abrogato dall’all. n. 92 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 68
@@ -1170,8 +1167,8 @@ La procedura di ricorso è retta dalle disposizioni generali sull’amministrazi
 
 <sup>5</sup> Le superfici sfruttate dello spazio riservato alle acque restano per quanto possibile in possesso degli agricoltori. Sono considerate superfici per la promozione della biodiversità.[^68-4]
 
-[^68-1]: Nuovo testo giusta il n. I della LF dell’11 dic. 2009 (Rinaturazione), in vigore dal 1° gen. 2011 ([RU 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7033](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7069](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
-[^68-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^68-1]: Nuovo testo giusta la cifra I della LF dell’11 dic. 2009 (Rinaturazione), in vigore dal 1° gen. 2011 ([RU 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7033](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7069](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
+[^68-2]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^68-3]: Nuovo testo giusta l’all. n. 18 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 [^68-4]: Nuovo testo giusta l’all. n. 6 della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
@@ -1203,8 +1200,8 @@ La procedura di ricorso è retta dalle disposizioni generali sull’amministrazi
 
 <sup>2</sup> Se l’autore ha agito per negligenza, la pena è una pena pecuniaria fino a 180 aliquote giornaliere.[^70-2]
 
-[^70-1]: Nuovo testo giusta il n. II 2 della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)).
-[^70-2]: Nuovo testo giusta il n. II 2 della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^70-1]: Nuovo testo giusta la cifra II n. 2 della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^70-2]: Nuovo testo giusta la cifra II n. 2 della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)).
 
 #### Art. 71
 
@@ -1223,8 +1220,8 @@ La procedura di ricorso è retta dalle disposizioni generali sull’amministrazi
 
 <sup>4</sup> …[^71-2]
 
-[^71-1]: Nuovo testo giusta il n. II 2 della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)).
-[^71-2]: Abrogato dal n. II 2 della LF del 19 mar. 2010, con effetto dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^71-1]: Nuovo testo giusta la cifra II n. 2 della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^71-2]: Abrogato dalla cifra II n. 2 della LF del 19 mar. 2010, con effetto dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)).
 
 #### Art. 72
 
@@ -1232,7 +1229,7 @@ La procedura di ricorso è retta dalle disposizioni generali sull’amministrazi
 
 Se un’infrazione alla presente legge adempie contemporaneamente la fattispecie dell’articolo 234 del Codice penale svizzero[^72-1], soltanto quest’ultima disposizione è applicabile. Del rimanente, le disposizioni penali della presente legge si applicano accanto a quelle del Codice penale svizzero.
 
-[^72-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^72-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 73
 
@@ -1240,7 +1237,7 @@ Se un’infrazione alla presente legge adempie contemporaneamente la fattispecie
 
 Gli articoli 6 e 7 della legge federale del 22 marzo 1974[^73-1] sul diritto penale amministrativo sono applicabili per analogia ai reati secondo la presente legge.
 
-[^73-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^73-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Titolo sesto: Disposizioni finali
 
@@ -1252,7 +1249,7 @@ Gli articoli 6 e 7 della legge federale del 22 marzo 1974[^73-1] sul diritto pen
 
 La legge federale dell’8 ottobre 1971[^74-1] contro l’inquinamento delle acque è abrogata.
 
-[^74-1]: [[RU 1972 1120](https://fedlex.data.admin.ch/eli/oc/1972/950_958_1120); [1979 1573](https://fedlex.data.admin.ch/eli/oc/1979/1573_1573_1573)art.38; **1980** 1796; **1982** 1961; **1984** 1122 art. 66 n. 3; **1985** 600 n. I 51; **1991** 362 n. II 402, 857 all. n. 19; **1992** 288 all. n. 32. [RU 1992 1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860)art. 74]
+[^74-1]: [[RU 1972 1120](https://fedlex.data.admin.ch/eli/oc/1972/950_958_1120); [1979 1573](https://fedlex.data.admin.ch/eli/oc/1979/1573_1573_1573)art.38; **1980** 1796; **1982** 1961; **1984** 1122 art. 66 n. 3; **1985** 600 cifra I n. 51; **1991** 362 cifra II n. 402, 857 all. n. 19; **1992** 288 all. n. 32. [RU 1992 1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860)art. 74]
 
 #### Art. 75
 
@@ -1284,7 +1281,7 @@ I Cantoni stabiliscono il termine per l’adattamento della capacità degli impi
 
 [^7879-1]
 
-[^7879-1]: <sup>¶</sup>Abrogati dal n. II 33 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^7879-1]: <sup>¶</sup>Abrogati dalla cifra II n. 33 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 ### Sezione 2: Prelievi di acqua
 
@@ -1298,8 +1295,8 @@ I Cantoni stabiliscono il termine per l’adattamento della capacità degli impi
 
 <sup>3</sup> Qualora la disposizione di misure di risanamento supplementari nelle zone inventariate secondo il capoverso 2 concerna piccole centrali idroelettriche, o altri impianti situati lungo corsi d’acqua, che presentano un valore sotto il profilo della protezione dei monumenti, l’autorità pondera gli interessi della protezione dei monumenti e quelli della protezione delle zone inventariate.[^80-2]
 
-[^80-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
-[^80-2]: Introdotto dal n. I della LF dell’11 dic. 2009 (Rinaturazione), in vigore dal 1° gen. 2011 ([RU 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7033](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7069](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
+[^80-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
+[^80-2]: Introdotto dalla cifra I della LF dell’11 dic. 2009 (Rinaturazione), in vigore dal 1° gen. 2011 ([RU 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7033](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7069](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
 
 #### Art. 81
 
@@ -1309,7 +1306,7 @@ I Cantoni stabiliscono il termine per l’adattamento della capacità degli impi
 
 <sup>2</sup> Essa provvede affinché le misure di risanamento siano concluse entro la fine del 2012.[^81-1]
 
-[^81-1]: Nuovo testo giusta il n. I 11 della LF del 19 dic. 2003 sul programma di sgravio 2003, in vigore dal 1° dic. 2005 ([RU 2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200); [FF 2003 4857](https://fedlex.data.admin.ch/eli/fga/2003/887)).
+[^81-1]: Nuovo testo giusta la cifra I n. 11 della LF del 19 dic. 2003 sul programma di sgravio 2003, in vigore dal 1° dic. 2005 ([RU 2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200); [FF 2003 4857](https://fedlex.data.admin.ch/eli/fga/2003/887)).
 
 #### Art. 82
 
@@ -1338,13 +1335,13 @@ I Cantoni compilano l’inventario dei prelievi d’acqua esistenti definiti nel
 
 <sup>3</sup> L’autorità ordina le misure al più tardi prima dell’inizio dei lavori di costruzione degli impianti destinati al prelievo d’acqua.
 
-[^83-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^83-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### Sezione 2<sup>bis</sup>: Deflussi discontinui e bilancio in materiale detritico
 
 [^tit6-chap2-sec2bis-1]
 
-[^tit6-chap2-sec2bis-1]: Introdotta dal n. I della LF dell’11 dic. 2009 (Rinaturazione), in vigore dal 1° gen. 2011 ([RU 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7033](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7069](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
+[^tit6-chap2-sec2bis-1]: Introdotta dalla cifra I della LF dell’11 dic. 2009 (Rinaturazione), in vigore dal 1° gen. 2011 ([RU 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7033](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7069](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
 
 #### Art. 83a
 
@@ -1362,7 +1359,7 @@ I detentori delle centrali idroelettriche esistenti e degli altri impianti esist
 
 <sup>3</sup> Ogni quattro anni presentano alla Confederazione un rapporto sulle misure attuate.
 
-[^83b-1]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^83b-1]: [RS 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
 
 ### Sezione 3: ...
 
@@ -1370,7 +1367,7 @@ I detentori delle centrali idroelettriche esistenti e degli altri impianti esist
 
 [^84-1]
 
-[^84-1]: Abrogato dal n. I della LF del 21 mar. 2014, con effetto dal 1° gen. 2016 ([RU 2014 3327](https://fedlex.data.admin.ch/eli/oc/2014/574); [FF 2013 4767](https://fedlex.data.admin.ch/eli/fga/2013/1031)).
+[^84-1]: Abrogato dalla cifra I della LF del 21 mar. 2014, con effetto dal 1° gen. 2016 ([RU 2014 3327](https://fedlex.data.admin.ch/eli/oc/2014/574); [FF 2013 4767](https://fedlex.data.admin.ch/eli/fga/2013/1031)).
 
 ### Capitolo 3: Referendum e entrata in vigore
 

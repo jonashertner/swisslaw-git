@@ -4,11 +4,11 @@ title: "Federal Act of 24 January 1991 on the Protection of Waters (Waters Prote
 short: WPA
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860"
 language: en
-version: 2023-02-01
+version: 2025-08-01
 adopted: 1991-01-24
 in_force: 1992-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860/20230201/en/xml/fedlex-data-admin-ch-eli-cc-1992-1860_1860_1860-20230201-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/20230201/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860/20250801/en/xml/fedlex-data-admin-ch-eli-cc-1992-1860_1860_1860-20250801-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/20250801/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Waters Protection Act, WPA)
 
-of 24 January 1991 (Status as of 1 February 2023)
+of 24 January 1991 (Status as of 1 August 2025)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -27,7 +27,7 @@ based on Article 76 paragraphs 2 and 3 of the Federal Constitution[^ingress-1],[
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Amended by No II 2 of the FA of 19 March 2010, in force since 1 Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
 [^ingress-3]: [BBl 1987 II 1061](https://fedlex.data.admin.ch/eli/fga/1987/2_1061_1081_905)
 
@@ -74,20 +74,22 @@ Anyone who causes measures to be taken under this Act must bear the costs.
 
 In this Act:
 
-- a. *surface waters*: means water bodies and their beds including the bottoms and banks, together with the fauna and flora living there;
-- b. *underground waters*: means groundwater (including spring water), aquifer, lower and upper confining beds;
-- c. *detrimental effects:* means pollution and any other intervention which harms the character or function of water;
-- d. *pollution:* means any detrimental physical, chemical or biological change in the nature of water;
-- e. *waste water:* means water which has been altered by domestic, industrial, commercial, agricultural or other uses, as well as that which flows with such water in sewers, and precipitation water flowing off built-up or sealed area;
-- f. *polluted waste water:* means waste water which may pollute waters into which it flows;
-- g. *farm manure:* means liquid manure, stable manure stemming from animal husbandry as well as liquids emitted by fodder silo;
-- h. *flow rate Q**<sub>347</sub>**:* means the flow rate which, averaged over ten years, is reached or exceeded on an average of 347 days per year and which is not substantially affected by damming, withdrawal or supply of wate;
-- i. *permanent flow:* means a flow rate Q<sub>347</sub> which is greater than zero;
-- k. *residual flow:* means the flow rate of a watercourse which remains after one or several withdrawals of water;
-- l. *required water endowment:* means the amount of water required to ensure the maintenance of a particular residual flow after withdrawal of water;
-- m.[^4-1] *rehabilitation:* means the re-establishment by means of civil engineering of the natural functions of channelled, straightened, covered or culverted surface waters.
+- a. *surface waters* means water bodies and their beds including the bottoms and banks, together with the fauna and flora living there;
+- b. *underground waters* means groundwater (including spring water), aquifer, lower and upper confining beds;
+- c. *detrimental effects* means pollution and any other operation which harms the character or function of a water;
+- d. *pollution* means any detrimental physical, chemical or biological change in the nature of water;
+- e. *wastewater* means water which has been altered by domestic, industrial, commercial, agricultural or other uses, as well as that which flows with such water in sewers, and precipitation water flowing off built-up or sealed area;
+- f. *polluted wastewater* means wastewater which may pollute waters into which it flows;
+- g. *farm manure* means liquid manure, stable manure stemming from animal husbandry as well as liquids emitted by fodder silo;
+- h. *flow rate Q**<sub>347</sub>* means the flow rate which, averaged over ten years, is reached or exceeded on an average of 347 days per year and which is not substantially affected by damming, withdrawal or supply of wate;
+- i. *permanent flow* means a flow rate Q<sub>347</sub> which is greater than zero;
+- k. *residual flow* means the flow rate of a watercourse which remains after one or several withdrawals of water;
+- l. *required water endowment* means the amount of water required to ensure the maintenance of a particular residual flow after withdrawal of water;
+- m.[^4-1] *rehabilitation* means the re-establishment by means of civil engineering of the natural functions of channelled, straightened, covered or culverted surface waters;
+- n.[^4-2] *waters maintenance* means measures taken regularly or as required after damaging events to maintain or restore the natural functions of waters and to maintain flood protection.
 
 [^4-1]: Inserted by No I of the FA of 11 Dec. 2009 (Restoration), in force since 1 Jan. 2011 ([AS 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [BBl 2008 8043](https://fedlex.data.admin.ch/eli/fga/2008/1366)[8079](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
+[^4-2]: Inserted by Annex No 4 of the FA of 15 March 2024, in force since 1 Aug. 2025 ([AS 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [BBl 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 #### Art. 5
 
@@ -111,11 +113,11 @@ If required in the interests of national defence or in the event of emergencies,
 
 #### Art. 7
 
-**Disposal of waste water**
+**Disposal of wastewater**
 
-<sup>1</sup> Polluted waste water must be treated. It may only be discharged or infiltrated into a body of water with the authorisation of the cantonal authority.
+<sup>1</sup> Polluted wastewater must be treated. It may only be discharged or infiltrated into a body of water with the authorisation of the cantonal authority.
 
-<sup>2</sup> Non-polluted waste water must be discharged by infiltration according to the instructions of the cantonal authority. If local conditions do not permit this, such non-polluted water may be discharged into surface waters; in this case retention measures must be taken if possible so as to ensure a steady discharge in the event of high inflow. The discharge of water that is not shown on a communal drainage plan approved by the canton requires the consent of the cantonal authority.[^7-1]
+<sup>2</sup> Non-polluted wastewater must be discharged by infiltration according to the instructions of the cantonal authority. If local conditions do not permit this, such non-polluted water may be discharged into surface waters; in this case retention measures must be taken if possible so as to ensure a steady discharge in the event of high inflow. The discharge of water that is not shown on a communal drainage plan approved by the canton requires the consent of the cantonal authority.[^7-1]
 
 <sup>3</sup> The cantons shall arrange the drawing up of communal and, if required, regional drainage plans.[^7-2]
 
@@ -138,9 +140,9 @@ If required in the interests of national defence or in the event of emergencies,
 
 It shall enact regulations on:
 
-- a. the discharge of waste water into bodies of water;
-- b. the infiltration of waste water;
-- c. substances which may according to the method of their use enter into water and which, by reason of their properties or the quantities used, risk polluting waters or impairing the operation of waste water treatment plants.
+- a. the discharge of wastewater into bodies of water;
+- b. the infiltration of wastewater;
+- c. substances which may according to the method of their use enter into water and which, by reason of their properties or the quantities used, risk polluting waters or impairing the operation of wastewater treatment plants.
 
 <sup>3</sup>
 
@@ -160,35 +162,35 @@ An authorisation for plant protection products and biocidal products (pesticides
 [^9-3]: Inserted by No I 2 of the FA of 19 March 2021 (Amendment of the Chemicals Act, the Waters Protection Act and the Agriculture Act), in force since 1 Feb. 2023 ([AS 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 2](https://fedlex.data.admin.ch/eli/oc/2023/2); [BBl 2020 6523](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6785](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
 [^9-4]: Inserted by No I 2 of the FA of 19 March 2021 (Amendment of the Chemicals Act, the Waters Protection Act and the Agriculture Act), in force since 1 Feb. 2023 ([AS 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 2](https://fedlex.data.admin.ch/eli/oc/2023/2); [BBl 2020 6523](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6785](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
 
-### Section 2 Treatment of Waste Water and Use of Farm Manure
+### Section 2 Treatment of Wastewater and Use of Farm Manure
 
 #### Art. 10
 
-**Public sewers and central waste water treatment plants**
+**Public sewers and central wastewater treatment plants**
 
 <sup>1</sup>
 
-The cantons shall be responsible for the construction of public sewers and central plants for the treatment of polluted waste water:
+The cantons shall be responsible for the construction of public sewers and central plants for the treatment of polluted wastewater:
 
 - a. from building zones;
-- b. from existing groups of buildings outside building zones for which the special procedures for the disposal of waste water (Art. 13) provide insufficient protection for waters or are not economically viable.
+- b. from existing groups of buildings outside building zones for which the special procedures for the disposal of wastewater (Art. 13) provide insufficient protection for waters or are not economically viable.
 
 <sup>1bis</sup> They shall ensure that these plants are operated economically.[^10-1]
 
-<sup>2</sup> In isolated or sparsely inhabited regions, polluted waste water must be treated by systems other than central waste water treatment plants provided that the protection of surface and underground waters is guaranteed.
+<sup>2</sup> In isolated or sparsely inhabited regions, polluted wastewater must be treated by systems other than central wastewater treatment plants provided that the protection of surface and underground waters is guaranteed.
 
 <sup>3</sup> If private sewers also serve the public interest, their status is equal to that of public sewers.
 
-<sup>4</sup> …[^10-2]
+<sup>4</sup> ...[^10-2]
 
 [^10-1]: Inserted by No I of the Federal Act of 20 June 1997, in force since 1 Nov. 1997 ([AS 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [BBl 1996 IV 1217](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
 [^10-2]: Repealed by No I of the FA of 20 June 1997, with effect from 1 Nov. 1997 ([AS 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [BBl 1996 IV 1217](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
 
 #### Art. 11
 
-**Duty to connect to sewers and to accept polluted waste water**
+**Duty to connect to sewers and to accept polluted wastewater**
 
-<sup>1</sup> Polluted waste water which originates in an area served by public sewers shall be discharged into such sewers.
+<sup>1</sup> Polluted wastewater which originates in an area served by public sewers shall be discharged into such sewers.
 
 <sup>2</sup>
 
@@ -198,32 +200,32 @@ The areas served by public sewers shall include:
 - b. other zones as soon as they are connected to the public sewers (Art. 10 para. 1, let. b);
 - c. other zones where connection to the public sewers is expedient and reasonable.
 
-<sup>3</sup> The person responsible for the sewers is obliged to accept waste water and convey it to the appropriate central waste water treatment plant.
+<sup>3</sup> The person responsible for the sewers is obliged to accept wastewater and convey it to the appropriate central wastewater treatment plant.
 
 #### Art. 12
 
 **Special cases in areas covered by public sewers**
 
-<sup>1</sup> Those responsible for waste water which does not meet the requirements laid down for discharge into the drainage system must subject such waste water to pre-treatment. Such pre-treatment shall be regulated by the cantons.
+<sup>1</sup> Those responsible for wastewater which does not meet the requirements laid down for discharge into the drainage system must subject such wastewater to pre-treatment. Such pre-treatment shall be regulated by the cantons.
 
-<sup>2</sup> The cantonal authorities shall decide on the appropriate way to dispose of waste water which is not suited for treatment by a central water treatment plant.
+<sup>2</sup> The cantonal authorities shall decide on the appropriate way to dispose of wastewater which is not suited for treatment by a central water treatment plant.
 
-<sup>3</sup> Non-polluted waste water with permanent flow shall not be passed through a central waste water treatment plant either directly or indirectly. The cantonal authorities may authorise exceptions to this rule.
+<sup>3</sup> Non-polluted wastewater with permanent flow shall not be passed through a central wastewater treatment plant either directly or indirectly. The cantonal authorities may authorise exceptions to this rule.
 
 <sup>4</sup>
 
-In a farm comprising a substantial stock of cattle or pigs, domestic waste water may be used agriculturally together with the liquid manure (Art. 14) provided that:
+In a farm comprising a substantial stock of cattle or pigs, domestic wastewater may be used agriculturally together with the liquid manure (Art. 14) provided that:
 
 - a. residential or industrial buildings and their adjoining land are situated in an area classified as an agricultural zone or the communal authority is taking the necessary measures, particularly in the field of area planning, to classify the buildings and their adjoining land in an agricultural zone;
-- b. storage capacity is sufficient for domestic waste water too and the waste water is used on land which is either owned or leased by the farm in question.
+- b. storage capacity is sufficient for domestic wastewater too and the wastewater is used on land which is either owned or leased by the farm in question.
 
-<sup>5</sup> If the residential or industrial buildings and their adjoining land in accordance with Art. 4 are not allocated to an agricultural zone within five years, domestic waste water must be discharged into the public sewers.
+<sup>5</sup> If the residential or industrial buildings and their adjoining land in accordance with Art. 4 are not allocated to an agricultural zone within five years, domestic wastewater must be discharged into the public sewers.
 
 #### Art. 13
 
-**Special procedures for the disposal of waste water**
+**Special procedures for the disposal of wastewater**
 
-<sup>1</sup> Outside areas covered by public sewers, waste water shall be disposed of by state-of-the art methods.
+<sup>1</sup> Outside areas covered by public sewers, wastewater shall be disposed of by state-of-the art methods.
 
 <sup>2</sup> The cantons shall ensure that water quality requirements are respected.
 
@@ -253,14 +255,14 @@ The Federal Council may authorise exceptions to the requirements for agricultura
 <sup>8</sup> One livestock unit of manure corresponds to the average annual production of liquid and solid manure by one cow weighing 600 kg.
 
 [^14-1]: Amended by Annex No 6 of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^14-2]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^14-2]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 [^14-3]: Amended by Annex No 6 of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 15
 
 **Construction and inspection of installations and equipment[^15-1]**
 
-<sup>1</sup> The persons responsible for waste water treatment plants, storage facilities and technical processing plants for farm manure and liquid digestate as well as of raw fodder silos shall ensure that these are used, serviced and maintained in an appropriate manner.[^15-2] The correct functioning of waste water treatment plants and processing plants for farm manure must be checked at regular intervals.
+<sup>1</sup> The persons responsible for wastewater treatment plants, storage facilities and technical processing plants for farm manure and liquid digestate as well as of raw fodder silos shall ensure that these are used, serviced and maintained in an appropriate manner.[^15-2] The correct functioning of wastewater treatment plants and processing plants for farm manure must be checked at regular intervals.
 
 <sup>2</sup> The cantonal authorities shall ensure that such installations are inspected periodically.
 
@@ -269,17 +271,17 @@ The Federal Council may authorise exceptions to the requirements for agricultura
 
 #### Art. 16
 
-**Federal Council regulations on waste water treatment and the inspection of installations**
+**Federal Council regulations on wastewater treatment and the inspection of installations**
 
 The Federal Council shall lay down the requirements for:
 
 - a. discharge into sewers;
 - b. special releases from production processes;
-- c. residues from waste water treatment plants, their recovery and disposal;
+- c. residues from wastewater treatment plants, their recovery and disposal;
 - d. the inspection of installations and equipment;
-- e. the use of waste water issuing from the processing of farm manure.
+- e. the use of wastewater issuing from the processing of farm manure.
 
-### Section 3 Technical Waste Water Requirements for the Granting of Building Permits
+### Section 3 Technical Wastewater Requirements for the Granting of Building Permits
 
 #### Art. 17
 
@@ -287,15 +289,15 @@ The Federal Council shall lay down the requirements for:
 
 Building permits for new buildings and building alterations shall be granted only if:
 
-- a. in areas served by public sewers, polluted waste water is discharged into the sewers (Art. 11 para. 1) or used for agricultural purposes (Art. 12 para. 4);
-- b. outside areas served by public sewers, the appropriate disposal of polluted waste water is ensured through special procedures (Art. 13 para 1); the cantonal water protection agency shall be consulted to this effect;
-- c. there is a guarantee that waste water which is unsuitable for treatment by a central waste water treatment plant may be disposed of in an appropriate manner (Art. 12 para. 2).
+- a. in areas served by public sewers, polluted wastewater is discharged into the sewers (Art. 11 para. 1) or used for agricultural purposes (Art. 12 para. 4);
+- b. outside areas served by public sewers, the appropriate disposal of polluted wastewater is ensured through special procedures (Art. 13 para 1); the cantonal water protection agency shall be consulted to this effect;
+- c. there is a guarantee that wastewater which is unsuitable for treatment by a central wastewater treatment plant may be disposed of in an appropriate manner (Art. 12 para. 2).
 
 #### Art. 18
 
 **Exceptions**
 
-<sup>1</sup> In the case of small buildings and installations in an area served by public sewers but which for overriding reasons cannot be immediately connected to such sewers, a building permit may be granted where it is possible to provide the connection in the short term and that in the meantime the waste water may be disposed of in another satisfactory manner. Before the authority grants a building permit in such circumstances, it shall consult with the cantonal water protection agency.
+<sup>1</sup> In the case of small buildings and installations in an area served by public sewers but which for overriding reasons cannot be immediately connected to such sewers, a building permit may be granted where it is possible to provide the connection in the short term and that in the meantime the wastewater may be disposed of in another satisfactory manner. Before the authority grants a building permit in such circumstances, it shall consult with the cantonal water protection agency.
 
 <sup>2</sup> The Federal Council may define the exceptions in greater detail.
 
@@ -444,7 +446,7 @@ Such withdrawal may be permitted provided that:
 
 The minimum residual flow calculated according to paragraph 1 above shall be increased if the following requirements are not complied with and cannot be complied with as a result of other measures:
 
-- a. The prescribed water quality of the surface waters must be maintained in spite of the water withdrawal and existing waste water discharges.
+- a. The prescribed water quality of the surface waters must be maintained in spite of the water withdrawal and existing wastewater discharges.
 - b. Groundwater resources must continue to be replenished such that the drinking water supply dependent on them remains available to the required extent and the water balance of soils used for agriculture is not substantially impaired.
 - c. Rare habitats and biocoenoses which depend directly or indirectly on the type and size of a body of water must either be maintained or where possible be replaced by others of a similar value unless overriding reasons prevent this.
 - d. The depth of water necessary for free fish migration must be maintained.
@@ -544,37 +546,37 @@ The cantons, after hearing the parties concerned, shall stipulate the spatial re
 <sup>3</sup> The cantons shall ensure that that space provided for waters is taken into account in structure and land use planning and that it is developed and exploited extensively. The space provided for waters does not constitute arable land. In the event of a loss of arable land, this must be compensated for as specified in the federal sectoral plan in accordance with Article 13 of the Spatial Planning Act of 22 June 1979[^36a-2].
 
 [^36a-1]: Inserted by No I of the FA of 11 Dec. 2009 (Restoration), in force since 1 Jan. 2011 ([AS 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [BBl 2008 8043](https://fedlex.data.admin.ch/eli/fga/2008/1366)[8079](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
-[^36a-2]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^36a-2]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 37
 
-**The artificial reinforcement and correction of watercourses**
+**Operations on surface waters**[^37-1]
 
 <sup>1</sup>
 
-Watercourses may be channelled or straightened only provided that:
+Surface waters may only be channelled or straightened if:
 
-- a.[^37-1] the protection of persons or substantial material values requires it (Art. 3 para. 2, of the Federal Act of 21 June 1991[^37-2] on Hydraulic Engineering);
-- b. it is necessary for the provision of navigable passage or for the use of hydropower in the public interest;
-- b<sup>bis</sup>.[^37-3] it is necessary for the construction of a landfill that can only be constructed at the planned location and in which only unpolluted excavation material, quarried material or spoil is deposited;
-- c. the condition of an already channelled or straightened watercourse may be improved in terms of this Act.
+- a. it is necessary for flood protection (Art. 3 paras 1−3 of the Hydraulic Engineering Act of 21 June 1991[^37-2]);
+- b. it is necessary for the provision of a navigable passage or for the use of hydropower that is in the public interest;
+- c. it is necessary for the construction of a landfill that can only be constructed at the planned location and in which only unpolluted excavation material or spoil is deposited; or
+- d. the condition of an already channelled or straightened body of surface water can be improved in terms of this Act.
 
-<sup>2</sup>
+<sup>2</sup> In the event of operations on surface waters, the natural course of the body of water must as far as possible be preserved or restored.
 
-The natural course of the body of water must wherever possible be preserved or restored. Waters and the space provided for waters must be developed in such a manner that:[^37-4]
+<sup>3</sup>
 
-- a. they provide habitat for diversified fauna and flora;
+Surface waters and the space provided for waters must be developed and maintained in such a manner that:
+
+- a. they provide a habitat for diversified fauna and flora;
 - b. the interactions between surface and underground waters are maintained to the greatest extent possible;
 - c. vegetation suited to the location may grow on the banks.
 
-<sup>3</sup> In built-up areas, the authorities may permit exceptions to paragraph 2.
+<sup>4</sup> In built-up areas, the authorities may permit exceptions to paragraphs 2 and 3.
 
-<sup>4</sup> Paragraph 2 also applies by analogy to the creation of artificial watercourses.
+<sup>5</sup> Paragraphs 2 and 3 also apply by analogy to the creation of artificial waters, and to the repair and reinforcement of existing protective structures following damaging events.
 
-[^37-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Aug. 2013 ([AS 2013 2339](https://fedlex.data.admin.ch/eli/oc/2013/491); [BBl 2012 9407](https://fedlex.data.admin.ch/eli/fga/2012/1729)[9415](https://fedlex.data.admin.ch/eli/fga/2012/1731)).
-[^37-2]: [SR 721.100](https://fedlex.data.admin.ch/eli/cc/1993/234_234_234)
-[^37-3]: Inserted by No I of the FA of 22 March 2013, in force since 1 Aug. 2013 ([AS 2013 2339](https://fedlex.data.admin.ch/eli/oc/2013/491); [BBl 2012 9407](https://fedlex.data.admin.ch/eli/fga/2012/1729)[9415](https://fedlex.data.admin.ch/eli/fga/2012/1731)).
-[^37-4]: Amended by No I of the FA of 11 Dec. 2009 (Restoration), in force since 1 Jan. 2011 ([AS 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [BBl 2008 8043](https://fedlex.data.admin.ch/eli/fga/2008/1366)[8079](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
+[^37-1]: Amended by Annex No 4 of the FA of 15 March 2024, in force since 1 Aug. 2025 ([AS 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [BBl 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
+[^37-2]: [SR 721.100](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8402)
 
 #### Art. 38
 
@@ -601,7 +603,7 @@ The authorities may permit exceptions for:
 <sup>2</sup> They shall plan the rehabilitation measures and specify the time schedule therefor. They shall ensure that these plans are taken into account in the structure and land use planning. In the event of a loss of arable land, this must be compensated for as specified in the federal sectoral plan in accordance with Article 13 of the Spatial Planning Act of 22 June 1979[^38a-2].
 
 [^38a-1]: Inserted by No I of the FA of 11 Dec. 2009 (Restoration), in force since 1 Jan. 2011 ([AS 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [BBl 2008 8043](https://fedlex.data.admin.ch/eli/fga/2008/1366)[8079](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
-[^38a-2]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^38a-2]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 39
 
@@ -664,7 +666,7 @@ The measures are determined by:
 
 <sup>1</sup> If water is withdrawn from or discharged into a natural lake, the stratification and flow conditions in the lake may not be substantially modified, and no water-level fluctuations potentially harmful to the riparian zone may be allowed to occur.
 
-<sup>2</sup> In the case of watercourses, the type and location of the discharge of fresh water or waste water must be selected in such a way that as little artificial reinforcement and correction as possible is required.
+<sup>2</sup> In the case of watercourses, the type and location of the discharge of fresh water or wastewater must be selected in such a way that as little artificial reinforcement and correction as possible is required.
 
 #### Art. 43
 
@@ -773,7 +775,7 @@ The Federal Council shall regulate co-ordination:
 [^48-1]: Amended by No I 15 of the FA of 18 June 1999 on the Coordination and Simplification of Decision-making Procedures, in force since 1 Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 [^48-2]: The name of this administrative unit was changed in application of Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 [^48-3]: Expression in accordance with Annex No 5 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)). This amendment has been taken into account throughout the text.
-[^48-4]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^48-4]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ### Section 3 Special Enforcement Provisions
 
@@ -828,7 +830,7 @@ The cantons shall ensure that an advisory service be set up for the enforcement 
 
 The authorities may implement the measures enacted by them by means of enforcement orders. Insofar as cantonal law either contains no regulations or does not contain stricter regulations, Article 41 of the Administrative Procedure Act of 20 December 1968[^53-1] applies to cantonal procedures.
 
-[^53-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^53-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 54
 
@@ -903,20 +905,20 @@ Before an authority issues a permit for an operation which may have an effect on
 
 #### Art. 60a
 
-**Cantonal waste water charges[^60a-1]**
+**Cantonal wastewater charges[^60a-1]**
 
 <sup>1</sup>
 
-The cantons shall ensure that the costs of the construction, operation, maintenance, improvement and replacement of waste water treatment plants that serve the public interest are passed on to the persons responsible for the production of the waste water through fees or other charges. In organising the charges, the following factors in particular shall be taken into account:
+The cantons shall ensure that the costs of the construction, operation, maintenance, improvement and replacement of wastewater treatment plants that serve the public interest are passed on to the persons responsible for the production of the wastewater through fees or other charges. In organising the charges, the following factors in particular shall be taken into account:
 
-- a. the nature and volume of the waste water produced;
+- a. the nature and volume of the wastewater produced;
 - b. the depreciation required to preserve the value of the installations;
 - c. the interest;
 - d. the planned investment requirements for maintenance, improvements and replacements, for adaptation to statutory requirements and for operational optimisation.
 
-<sup>2</sup> If imposing cost-covering charges that comply with the polluter pays principle jeopardises the environmentally compatible disposal of waste water, disposal may be financed differently to the extent required.
+<sup>2</sup> If imposing cost-covering charges that comply with the polluter pays principle jeopardises the environmentally compatible disposal of wastewater, disposal may be financed differently to the extent required.
 
-<sup>3</sup> The persons responsible for the waste water treatment plants must form the required financial reserves.
+<sup>3</sup> The persons responsible for the wastewater treatment plants must form the required financial reserves.
 
 <sup>4</sup> The principles for calculating the charges shall be made public.
 
@@ -924,17 +926,17 @@ The cantons shall ensure that the costs of the construction, operation, maintena
 
 #### Art. 60b
 
-**Federal waste water charge**[^60b-1]
+**Federal wastewater charge**[^60b-1]
 
-<sup>1</sup> The Confederation shall collect from the persons responsible for central waste water treatment plants a charge to finance the payment for measures to remove organic trace substances in accordance with Article 61*a*, including the Confederation’s implementation costs.
+<sup>1</sup> The Confederation shall collect from the persons responsible for central wastewater treatment plants a charge to finance the payment for measures to remove organic trace substances in accordance with Article 61*a*, including the Confederation’s implementation costs.
 
-<sup>2</sup> Persons responsible for central waste water treatment plants who have taken measures under Article 61*a* and submitted the related final account for the investment made by 30 September in any calendar year are exempted from paying the charge from the following calendar year onwards.
+<sup>2</sup> Persons responsible for central wastewater treatment plants who have taken measures under Article 61*a* and submitted the related final account for the investment made by 30 September in any calendar year are exempted from paying the charge from the following calendar year onwards.
 
-<sup>3</sup> The level of the charge is based on the number of residents connected to the waste water treatment plant. The annual charge rate amounts to a maximum of 9 francs per resident.
+<sup>3</sup> The level of the charge is based on the number of residents connected to the wastewater treatment plant. The annual charge rate amounts to a maximum of 9 francs per resident.
 
 <sup>4</sup> The Federal Council shall determine the charge rate based on the anticipated costs and regulate the procedure for collecting the charge. The charge shall cease to apply by 31 December 2040 at the latest.
 
-<sup>5</sup> The persons responsible for the plants shall pass on the charge to the persons responsible for producing the waste water.
+<sup>5</sup> The persons responsible for the plants shall pass on the charge to the persons responsible for producing the wastewater.
 
 [^60b-1]: Inserted by No I of the FA of 21 March 2014, in force since 1 Jan. 2016 ([AS 2014 3327](https://fedlex.data.admin.ch/eli/oc/2014/574); [BBl 2013 5549](https://fedlex.data.admin.ch/eli/fga/2013/1031)).
 
@@ -946,34 +948,34 @@ The cantons shall ensure that the costs of the construction, operation, maintena
 
 #### Art. 61
 
-**Nitrogen removal in waste water treatment plants[^61-2]**[^61-1]
+**Nitrogen removal in wastewater treatment plants[^61-2]**[^61-1]
 
 <sup>1</sup>
 
-Within the limits of the approved credits and on the basis of programme agreements, the Confederation shall grant the cantons global compensatory payments for the construction and procurement of:
+Within the limits of the approved credits and on the basis of programme agreements, the Confederation shall make global compensatory payments to the cantons for the construction and procurement of:
 
-- a. installations and equipment for nitrogen removal at central waste water treatment plants provided they serve to fulfil agreements under international law or decisions of international organisations that have the aim of maintaining the quality of waters outside Switzerland;
+- a. installations and equipment for nitrogen removal at central wastewater treatment plants provided they serve to fulfil agreements under international law or decisions of international organisations that have the aim of maintaining the quality of waters outside Switzerland;
 - b. sewers that are constructed instead of installations and equipment in accordance with letter a.
 
-<sup>2</sup> The level of the compensatory payments is determined by the volume of nitrogen that is removed by means of the measures mentioned in paragraph 1.
+<sup>2</sup> The amount of the compensatory payments is determined by the volume of nitrogen that is removed by means of the measures mentioned in paragraph 1.
 
 [^61-1]: Amended by No II 23 of the FA of 6 Oct. 2006 on the New System of Financial Equalisation and Division of Tasks between the Confederation and the Cantons (NFEA), in force since 1 Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^61-2]: Amended by No I of the FA of 21 March 2014, in force since 1 Jan. 2016 ([AS 2014 3327](https://fedlex.data.admin.ch/eli/oc/2014/574); [BBl 2013 5549](https://fedlex.data.admin.ch/eli/fga/2013/1031)).
 
 #### Art. 61a
 
-**Removal of organic trace substances in waste water plants**[^61a-1]
+**Removal of organic trace substances in wastewater plants**[^61a-1]
 
 <sup>1</sup>
 
-Within the limits of the approved credits and the available resources, the Confederation shall grant the cantons global compensatory payments for the construction and procurement of:
+Within the limits of the approved credits and the available resources, the Confederation shall make global compensatory payments to the cantons for the construction and procurement of:
 
-- a. installations and equipment for removing organic trace substances at central waste water treatment plants where they are required to comply with the regulations on discharging waste water into bodies of water;
+- a. installations and equipment for removing organic trace substances at central wastewater treatment plants where they are required to comply with the regulations on discharging wastewater into bodies of water;
 - b. sewers that are constructed instead of installations and equipment in accordance with letter a.
 
 <sup>2</sup> The compensatory payments are made if the construction or procurement of the installations, equipment or sewers was begun after 1 January 2012 and within 20 years of the entry into force of the amendment to this Act of 21 March 2014.
 
-<sup>3</sup> The payments amount to 75 per cent of the attributable costs.
+<sup>3</sup> The payments amount to 75 per cent of the allowable costs.
 
 [^61a-1]: Inserted by No I of the FA of 21 March 2014, in force since 1 Jan. 2016 ([AS 2014 3327](https://fedlex.data.admin.ch/eli/oc/2014/574); [BBl 2013 5549](https://fedlex.data.admin.ch/eli/fga/2013/1031)).
 
@@ -981,9 +983,9 @@ Within the limits of the approved credits and the available resources, the Confe
 
 **Waste disposal installations**[^62-1]
 
-<sup>1</sup> Within the limits of the approved credits, the Confederation shall grant the cantons compensatory payments for the construction and procurement of installations and equipment for the disposal of special waste, provided such installations and equipment are of benefit to Switzerland as a whole.
+<sup>1</sup> Within the limits of the approved credits, the Confederation shall make compensatory payments to the cantons for the construction and procurement of installations and equipment for the disposal of special waste, provided such installations and equipment are of benefit to Switzerland as a whole.
 
-<sup>2</sup> Within the limits of the approved credits, the Confederation shall grant the cantons with low or medium financial capacity compensatory payments for the construction and procurement of installations and equipment for the treatment or recovery of municipal waste provided the first instance decision on the construction of the installation was taken before 1 November 1997. The Federal Council may extend this deadline for regions that do not have the required capacities to 31 October 1999 at the latest if the circumstances so require.
+<sup>2</sup> Within the limits of the approved credits, the Confederation shall make compensatory payments to cantons with low or medium financial capacity for the construction and procurement of installations and equipment for the treatment or recovery of municipal waste provided the first instance decision on the construction of the installation was taken before 1 November 1997. The Federal Council may extend this deadline for regions that do not have the required capacities to 31 October 1999 at the latest if the circumstances so require.
 
 <sup>2bis</sup>
 
@@ -1000,7 +1002,7 @@ The right to federal contributions in accordance with paragraph 2 continues if:
 
 The compensatory payments shall amount to:
 
-- a. 25 per cent of the attributable costs for installations and equipment in accordance with paragraphs 1 and 2;
+- a. 25 per cent of the allowable costs for installations and equipment in accordance with paragraphs 1 and 2;
 - b.[^62-4] …
 
 [^62-1]: Amended by No I of the FA of 20 June 1997, in force since 1 Nov. 1997 ([AS 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [BBl 1996 IV 1217](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)). See also the Final Provision on this Amendment at the end of this text.
@@ -1014,21 +1016,21 @@ The compensatory payments shall amount to:
 
 <sup>1</sup>
 
-Within the limits of the approved credits, the Confederation shall grant compensatory payments for measures in agriculture to prevent washing away or leaching of substances if:
+Within the limits of the approved credits, the Confederation shall make compensatory payments for measures in agriculture to prevent washing away or leaching of substances if:
 
 - a. the measures are necessary to fulfil the requirements relating to water quality of surface and underground waters;
 - b. the canton concerned has designated the areas in which the measures are required and coordinated the measures required;
 - c. the measures are not economically viable.
 
-<sup>2</sup> The level of the compensatory payments is determined by the nature and volume of the substances that are to be prevented from washing away or leaching, and by the costs of the measures that are not covered by contributions under the Agriculture Act of 29 April 1998[^62a-2] or the Federal Act of 1 July 1966[^62a-3] on Nature and Cultural Heritage.[^62a-4]
+<sup>2</sup> The amount of the compensatory payments is determined by the nature and volume of the substances that are to be prevented from washing away or leaching, and by the costs of the measures that are not covered by contributions under the Agriculture Act of 29 April 1998[^62a-2] or the Federal Act of 1 July 1966[^62a-3] on Nature and Cultural Heritage.[^62a-4]
 
 <sup>3</sup> …[^62a-5]
 
-<sup>4</sup> The Federal Office for Agriculture shall grant the compensatory payments as global contributions on the basis of programme agreements entered into with the cantons for each area in which the measures are required. In order to assess whether the programmes guarantee the required protection of waters, it shall consult the Federal Office for the Environment. The cantons shall allocate the compensatory payments to the individuals entitled.[^62a-6]
+<sup>4</sup> The Federal Office for Agriculture shall make the compensatory payments as global contributions on the basis of programme agreements entered into with the cantons for each area in which the measures are required. In order to assess whether the programmes guarantee the required protection of waters, it shall consult the Federal Office for the Environment. The cantons shall allocate the compensatory payments to the individuals entitled.[^62a-6]
 
 [^62a-1]: Inserted by Annex No 6 of the Agriculture Act of 29 April 1998, in force since 1 Jan. 1999 ([AS 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033); [BBl 1996 IV 1](https://fedlex.data.admin.ch/eli/fga/1996/4_1_1_1)).
-[^62a-2]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^62a-3]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^62a-2]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^62a-3]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 [^62a-4]: Amended by No II 23 of the FA of 6 Oct. 2006 on the New System of Financial Equalisation and Division of Tasks between the Confederation and the Cantons (NFEA), in force since 1 Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^62a-5]: Repealed by No II 23 of the FA of 6 Oct. 2006 on the New System of Financial Equalisation and Division of Tasks between the Confederation and the Cantons (NFEA), with effect from 1 Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^62a-6]: Amended by No II 23 of the FA of 6 Oct. 2006 on the New System of Financial Equalisation and Division of Tasks between the Confederation and the Cantons (NFEA), in force since 1 Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
@@ -1037,34 +1039,37 @@ Within the limits of the approved credits, the Confederation shall grant compens
 
 **Rehabilitation of waters**[^62b-1]
 
-<sup>1</sup> The Confederation shall, within the limits of the approved credits and on the basis of programme agreements, grant the cantons compensatory payments in the form of global contributions to the planning and implementation of measures for the rehabilitation of waters.
+<sup>1</sup> The Confederation shall, within the limits of the approved credits and on the basis of programme agreements, make compensatory payments to the cantons in the form of global contributions to the planning and implementation of measures for the rehabilitation of waters.
 
-<sup>2</sup> In the case of especially complex projects, the cantons may be granted the compensatory payments on a case-by-case basis.
+<sup>2</sup> In the case of especially complex projects, the cantons may receive the compensatory payments on a case-by-case basis.
 
-<sup>3</sup> The level of the compensatory payments is determined by the relevance of the measures for the re-establishment of the natural functions of the waters as well as by the effectiveness of the measures.
+<sup>3</sup> The amount of the compensatory payments is determined by the relevance of the measures for the re-establishment of the natural functions of the waters and by the effectiveness of the measures.
 
-<sup>4</sup> No contributions shall be granted for the dismantling of an installation if the person responsible for it is obliged to dismantle it.
+<sup>3bis</sup> In rehabilitation projects, the development of sections of space provided for waters in accordance with Article 37 paragraph 3 must be financed from the project budget during the first five years.[^62b-2]
 
-<sup>5</sup> The managers of the space provided for waters shall be granted compensatory payments in accordance with the Agriculture Act of 29 April 1998[^62b-2] for the extensive use of their lands. The agriculture budget as well as the related spending ceilings shall be increased for this purpose.
+<sup>4</sup> No contributions shall be paid for the dismantling of an installation if the person responsible for it is obliged to dismantle it.
+
+<sup>5</sup> The managers of the space provided for waters shall receive compensatory payments in accordance with the Agriculture Act of 29 April 1998[^62b-3] for the extensive use of their lands. The agriculture budget as well as the related spending ceilings shall be increased for this purpose.
 
 [^62b-1]: Inserted by No I of the FA of 11 Dec. 2009 (Restoration), in force since 1 Jan. 2011 ([AS 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [BBl 2008 8043](https://fedlex.data.admin.ch/eli/fga/2008/1366)[8079](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
-[^62b-2]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^62b-2]: Inserted by Annex No 4 of the FA of 15 March 2024, in force since 1 Aug. 2025 ([AS 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [BBl 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
+[^62b-3]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 #### Art. 62c
 
 **Planning the remediation of hydropeaking and of the bed load budget**[^62c-1]
 
-<sup>1</sup> The Confederation shall within the limits of the approved credits grant the cantons compensatory payments for planning in accordance with Article 83*b*, provided the plans are submitted to the Confederation by 31 December 2014.
+<sup>1</sup> The Confederation shall within the limits of the approved credits make compensatory payments to the cantons for planning in accordance with Article 83*b*, provided the plans are submitted to the Confederation by 31 December 2014.
 
-<sup>2</sup> The compensatory payments shall amount to 35 per cent of the attributable costs.
+<sup>2</sup> The compensatory payments shall amount to 35 per cent of the allowable costs.
 
 [^62c-1]: Inserted by No I of the FA of 11 Dec. 2009 (Restoration), in force since 1 Jan. 2011 ([AS 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [BBl 2008 8043](https://fedlex.data.admin.ch/eli/fga/2008/1366)[8079](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
 
 #### Art. 63
 
-**General requirements for the granting of compensatory payments**[^63-1]
+**General requirements for making compensatory payments**[^63-1]
 
-Compensatory payments shall be granted only if the intended solution is based on appropriate plans, guarantees appropriate protection of the waters, corresponds to the state of the art and is economically feasible.
+Compensatory payments shall be made only if the intended solution is based on appropriate plans, guarantees appropriate protection of the waters, corresponds to the state of the art and is economically feasible.
 
 [^63-1]: Amended by No I of the FA of 20 June 1997, in force since 1 Nov. 1997 ([AS 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [BBl 1996 IV 1217](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
 
@@ -1072,7 +1077,7 @@ Compensatory payments shall be granted only if the intended solution is based on
 
 **Provision of fundamentals, training and information**
 
-<sup>1</sup> Within the limits of the approved credits, the Confederation may grant the cantons compensatory payments for ascertaining the causes of inadequate water quality in an important body of water with a view to remedial measures.[^64-1]
+<sup>1</sup> Within the limits of the approved credits, the Confederation may make compensatory payments to the cantons for ascertaining the causes of inadequate water quality in an important body of water with a view to remedial measures.[^64-1]
 
 <sup>2</sup> It may provide financial assistance for the basic and continuing education and training of specialists and for the provision of information to the public.[^64-2]
 
@@ -1094,7 +1099,7 @@ Within the limits of the approved credits, it may provide support for the prepar
 
 **Risk guarantee**[^64a-1]
 
-The Confederation may provide a risk guarantee in respect of promising new installations and equipment. This may not exceed 60 per cent of the attributable costs.
+The Confederation may provide a risk guarantee in respect of promising new installations and equipment. This may not exceed 60 per cent of the allowable costs.
 
 [^64a-1]: Inserted by No I of the FA of 20 June 1997, in force since 1 Nov. 1997 ([AS 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [BBl 1996 IV 1217](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
 
@@ -1104,14 +1109,14 @@ The Confederation may provide a risk guarantee in respect of promising new insta
 
 <sup>1</sup> The Federal Assembly shall approve by a simple federal decree a temporary guarantee credit[^65-2] to ensure the payment of contributions.[^65-3]
 
-<sup>2</sup> It shall approve by simple federal decree for successive four year periods the resources for the payment of compensatory payments that have been guaranteed in principle in application of Article 13 paragraph 6 of the Subsidies Act of 5 October 1990[^65-4].
+<sup>2</sup> It shall approve by simple federal decree for successive four-year periods the resources for making compensatory payments that have been guaranteed in principle in application of Article 13 paragraph 6 of the Subsidies Act of 5 October 1990[^65-4].
 
 <sup>3</sup> It shall approve by means of a multi-year guarantee credit the maximum amount for risk guarantee provided by the Confederation under Article 64*a*.
 
 [^65-1]: Amended by No I of the FA of 20 June 1997, in force since 1 Nov. 1997 ([AS 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [BBl 1996 IV 1217](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
 [^65-2]: Term in accordance with Annex No 8 of the FA of 19 March 2021, in force since 1 Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 [^65-3]: Amended by No II 23 of the FA of 6 Oct. 2006 on the New System of Financial Equalisation and Division of Tasks between the Confederation and the Cantons (NFEA), in force since 1 Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^65-4]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^65-4]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 66
 
@@ -1121,7 +1126,7 @@ The Confederation may provide a risk guarantee in respect of promising new insta
 
 <sup>2</sup> The Confederation’s right to bring claims prescribes three years after the date on which it learned of its claim and in any event ten years after the date on which the right first arose.[^66-1]
 
-<sup>3</sup> If the recipient has committed a criminal offence through his or her conduct, the right to a refund prescribes at the earliest when the right to prosecute the offence prescribes. If the right to prosecute is no longer liable to prescription because a first instance criminal judgment has been issued, the right prescribes at the earliest three years after notice of the judgment is given.[^66-2]
+<sup>3</sup> If the recipient has committed a criminal offence through their conduct, the right to a refund prescribes at the earliest when the right to prosecute the offence prescribes. If the right to prosecute is no longer liable to prescription because a first instance criminal judgment has been issued, the right prescribes at the earliest three years after notice of the judgment is given.[^66-2]
 
 [^66-1]: Amended by Annex No 18 of the FA of 15 June 2018 (Revision of the Law on Prescription), in force since 1 Jan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 [^66-2]: Inserted by Annex No 18 of the FA of 15 June 2018 (Revision of the Law on Prescription), in force since 1 Jan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
@@ -1166,7 +1171,7 @@ The appeal procedure is governed by the general provisions on the administration
 <sup>5</sup> The surfaces in the space provided for waters that are exploited shall wherever possible remain in the possession of the farmers. They are deemed to be areas reserved for promoting biodiversity.[^68-4]
 
 [^68-1]: Amended by No I of the FA of 11 Dec. 2009 (Restoration), in force since 1 Jan. 2011 ([AS 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [BBl 2008 8043](https://fedlex.data.admin.ch/eli/fga/2008/1366)[8079](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
-[^68-2]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^68-2]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^68-3]: Amended by Annex No 18 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 [^68-4]: Amended by Annex No 6 of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
@@ -1188,8 +1193,8 @@ The appeal procedure is governed by the general provisions on the administration
 
 The penalty shall be a custodial sentence of up to three years or a monetary penalty for any person who wilfully:[^70-1]
 
-- a. unlawfully discharges into waters substances which may pollute water directly or indirectly, allows them to infiltrate or stores or spreads them outside waters in such a way as to create a water pollution risk (Art. 6);
-- b. in his or her capacity as the person responsible for an installation which contains liquids which may pollute water does not take the steps in terms of structures and equipment required by this Act or does not keep these in working condition and thereby pollutes water or creates a pollution risk (Art. 22);
+- a. unlawfully discharges into waters substances which may pollute water directly or indirectly, allows them to infiltrate waters or stores or spreads them outside waters in such a way as to create a water pollution risk (Art. 6);
+- b. in their capacity as the person responsible for an installation which contains liquids which may pollute water does not take the steps in terms of structures and equipment required by this Act or does not keep these in working condition and thereby pollutes water or creates a pollution risk (Art. 22);
 - c. does not maintain the required water endowment laid down by the authorities or does not take the required measures for water protection below a point of withdrawal (Art. 35);
 - d. unlawfully artificially reinforces or unlawfully corrects watercourses (Art. 37);
 - e. covers or culverts a watercourse without a permit or contrary to the conditions of such a permit (Art. 38);
@@ -1210,7 +1215,7 @@ The penalty shall be a custodial sentence of up to three years or a monetary pen
 The penalty shall be a fine of up to 20,000 francs for any person who wilfully:[^71-1]
 
 - a. contravenes this Act in any other way;
-- b. contravenes an individual order that is communicated to him and includes a specific reference to the penalties mentioned in this Article.
+- b. contravenes an individual order that is communicated to them and includes a specific reference to the penalties mentioned in this Article.
 
 <sup>2</sup> In cases of negligence, the penalty shall be a fine.
 
@@ -1227,15 +1232,15 @@ The penalty shall be a fine of up to 20,000 francs for any person who wilfully:[
 
 Where a violation of this Act also constitutes an offence under Article 234 of the Swiss Criminal Code[^72-1], only the latter provision applies. In all other cases, the criminal provisions of this Act apply concomitantly with those of the Criminal Code.
 
-[^72-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^72-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 73
 
 **Application of administrative criminal law**
 
-Articles 6 and 7 of the Federal Act of 22 March 1974[^73-1] on Administrative Criminal Law shall apply by analogy to offences under this Act.
+Articles 6 and 7 of the Federal Act of 22 March 1974[^73-1] on Administrative Criminal Law applies by analogy to offences under this Act.
 
-[^73-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^73-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Title 6 Final Provisions
 
@@ -1259,13 +1264,13 @@ The Federal Act of 8 October 1971[^74-1] on the Protection of Waters against Pol
 
 ### Chapter 2 Transitional Provisions
 
-### Section 1 Disposal of Non-polluted Waste Water, Manure Storage Facilities and Flotsam at Dams
+### Section 1 Disposal of Non-polluted Wastewater, Manure Storage Facilities and Flotsam at Dams
 
 #### Art. 76
 
-**Disposal of non-polluted waste water**[^76-1]
+**Disposal of non-polluted wastewater**[^76-1]
 
-The cantons shall ensure that at the latest 15 years after this Act comes into force the operation of any water treatment plant is no longer impaired by permanent flows of non-polluted waste water (Art. 12 para. 3).
+The cantons shall ensure that at the latest 15 years after this Act comes into force the operation of any water treatment plant is no longer impaired by permanent flows of non-polluted wastewater (Art. 12 para. 3).
 
 [^76-1]: The correction of 8 Sept. 2015 made by the DrC concerns the French text only ([AS 2015 3021](https://fedlex.data.admin.ch/eli/oc/2015/569)).
 
@@ -1293,7 +1298,7 @@ The cantonal authorities shall lay down the transitional period for the adjustme
 
 <sup>3</sup> If small hydro-electric power plants or other installations on waters of historic value are affected by the order for more extensive remediation measures in areas listed in inventories in terms of paragraph 2, the authority shall weigh up the interests of the protection of cultural heritage versus that of the listed areas.[^80-2]
 
-[^80-1]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^80-1]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^80-2]: Inserted by No I of the FA of 11 Dec. 2009 (Restoration), in force since 1 Jan. 2011 ([AS 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [BBl 2008 8043](https://fedlex.data.admin.ch/eli/fga/2008/1366)[8079](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
 
 #### Art. 81
@@ -1319,7 +1324,7 @@ The cantons shall establish an inventory of existing water withdrawals according
 - c. the required water endowment;
 - d. the legal situation.
 
-<sup>2</sup> They shall evaluate the water withdrawals listed in the inventory and adjudicate whether and to what extent remediation is necessary. Their findings shall take the form of a report. As far as possible this shall include the time-spans over which remediation must be completed.
+<sup>2</sup> They shall evaluate the water withdrawals listed in the inventory and adjudicate whether and to what extent remediation is necessary. Their findings shall take the form of a report. As far as possible this shall include the timespans over which remediation must be completed.
 
 <sup>3</sup> They shall present their inventories to the federal authority within two years and their report within five years after this Act comes into force.
 
@@ -1333,7 +1338,7 @@ The cantons shall establish an inventory of existing water withdrawals according
 
 <sup>3</sup> The authorities shall require such measures to be taken at the latest before the commencement of the building work for the water withdrawal installation in question.
 
-[^83-1]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^83-1]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### Section 2<sup>bis</sup> Hydropeaking and Bed Load Budget
 
@@ -1357,7 +1362,7 @@ The persons responsible for existing hydropower plants and of other installation
 
 <sup>3</sup> They shall report to the Confederation every four years on the measures that have been implemented.
 
-[^83b-1]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^83b-1]: [SR 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
 
 ### Section 3 …
 
