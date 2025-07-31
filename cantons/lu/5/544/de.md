@@ -4,13 +4,13 @@ number: "544"
 title: "Verordnung über die Schul- und Studiengelder sowie die Gebühren an kantonalen Schulen, privaten Berufsfachschulen und den Hochschulen des Kantons Luzern"
 short: Schulgeldverordnung
 language: de
-version: 2024-08-01
-valid_until: 2025-07-31
-version_adopted: 2024-05-03
+version: 2025-08-01
+valid_until: 2026-07-31
+version_adopted: 2025-02-11
 adopted: 2015-03-03
 in_force: 2015-07-01
 url: "https://srl.lu.ch/app/de/texts_of_law/544"
-pdf: "https://srl.lu.ch/api/de/versions/4241/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4512/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4241/pdf_file"
 
 (Schulgeldverordnung)
 
-vom 03.03.2015 (Stand 01.08.2024)
+vom 03.03.2015 (Stand 01.08.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -59,6 +59,8 @@ beschliesst:
 
 <sup>3</sup> Es werden folgende Studiengebühren für Kooperationsstudiengänge mit anderen Hochschulen erhoben: Diese Gebühren entsprechen den ordentlichen Studiengebühren gemäss Absatz 2. Zur Angleichung der Studiengebühren an jene der Kooperationspartner kann der Regierungsrat abweichende Gebühren festlegen.
 
+<sup>3<sup>bis</sup></sup> Bei Abmeldung vom Studium bis zum 15. Oktober im Herbstsemester oder bis zum 15. März im Frühjahrssemester können geleistete Studiengebühren zurückerstattet werden.
+
 <sup>4</sup> Von den Hörerinnen und Hörern wird pro Semesterwochenstunde eine Gebühr von 150 Franken erhoben (max. Fr. 800.– pro Semester).
 
 <sup>5</sup> Die Gebühren für Weiterbildungsangebote werden je nach Dauer und Umfang vom Rektorat im Rahmen von 300 bis 45 000 Franken festgelegt, wobei weitgehende Kostendeckung zu erreichen ist.
@@ -83,7 +85,7 @@ beschliesst:
 
 <sup>3</sup> Es werden pro Semester folgende Studiengebühren erhoben:
 
-- a. Studierende mit Wohnsitz im Kanton Luzern oder in einem Vereinbarungskanton (Studierende, welche nur noch eine Projektarbeit Fachdidaktik oder eine Bachelor- oder Masterarbeit abgeben oder Abschlussprüfungen wiederholen müssen, ohne Module zu besuchen: Fr. 340.–). — Fr. 695.–
+- a. Studierende mit Wohnsitz im Kanton Luzern oder in einem Vereinbarungskanton (Studierende, welche nur noch eine Projektarbeit Fachdidaktik oder eine Bachelor- oder Masterarbeit abgeben oder Abschlussprüfungen wiederholen müssen, ohne Module zu besuchen: Fr. 360.–). — Fr. 720.–
 - a.<sup>bis</sup> Gaststudierenden, die den Unterricht ausserhalb eines Austauschprogramms besuchen, wird nebst der allgemeinen Anmeldegebühr eine Gebühr von 150 Franken pro ECTS-Punkt auferlegt.
 - b. Den übrigen Studierenden oder solchen, welche ein Drittstudium absolvieren, wird nebst der allgemeinen Studiengebühr eine Gebühr auferlegt, welche dem Beitrag der Vereinbarungskantone entspricht.
 - c. Instrumental- oder Gesangsunterricht pro Lektion von 45 Minuten (bei anderer Lektionsdauer im Verhältnis; exkl. allfällige Instrumentenmiete):
@@ -101,7 +103,7 @@ beschliesst:
 
 <sup>4</sup> Von den Hörerinnen und Hörern wird pro Semesterwochenstunde eine Gebühr von 150 Franken erhoben.
 
-<sup>5</sup> Die Gebühren für Weiterbildungsangebote werden je nach Dauer und Umfang von der Prorektorin oder vom Prorektor Weiterbildung im Rahmen von 50 bis 60 000 Franken festgelegt, wobei weitgehende Kostendeckung zu erreichen ist.
+<sup>5</sup> Die Gebühren für Weiterbildungsangebote werden je nach Dauer und Umfang von der Prorektorin oder vom Prorektor Weiterbildung und Dienstleistungen im Rahmen von 50 bis 60 000 Franken festgelegt, wobei weitgehende Kostendeckung zu erreichen ist.
 
 <sup>6</sup> Bei Kooperationsstudiengängen können je nach anwendbarem Recht auch die Studiengebühren sowie weitere Abgaben der Kooperationspartner zur Anwendung kommen.
 
@@ -111,7 +113,7 @@ beschliesst:
 
 <sup>1</sup> Es werden an Gymnasien folgende Gebühren und Schulgelder erhoben:
 
-- a. Gebühr für Aufnahmeverfahren für Musik und Tanz in Sport- und Musikklassen — Fr. 170.–
+- a. Gebühr für Aufnahmeverfahren für Talentklassen — bis Fr. 180.–
 - b. Schulgelder pro Schuljahr:
   - 1\. Lernende mit Wohnsitz im Kanton Luzern oder in einem Vereinbarungskanton, nach erfülltem 9. Schuljahr — Fr. 465.–
   - 2\. Den übrigen Lernenden wird nebst dem allgemeinen Schulgeld eine Gebühr auferlegt, welche dem Beitrag der Vereinbarungskantone entspricht.
@@ -124,7 +126,8 @@ beschliesst:
   - 4\.2. …
   - 4\.3. …
   - 5\. …
-  - 6\. Mahlzeitenbeiträge (hauswirtschaftlicher Unterricht), pro Jahreskurs — Fr. 140.–
+  - 6\. Mahlzeitenbeiträge (hauswirtschaftlicher Unterricht), pro Jahreskurs — Fr. 90.–
+- c. In Talentklassen kann für die schulische Talentförderung eine Gebühr von höchstens 650 Franken pro Schuljahr erhoben werden.
 
 <sup>2</sup> Es werden an der Maturitätsschule für Erwachsene folgende Gebühren und Schulgelder erhoben:
 
@@ -155,7 +158,7 @@ beschliesst:
 - b. Den übrigen Lernenden wird nebst dem allgemeinen Schulgeld eine Gebühr auferlegt, welche dem Beitrag der Vereinbarungskantone entspricht.
 - c. …
 - d. …
-- e. Vorbereitungskurs auf die Aufnahmeprüfung Berufsmaturität Fachklasse Grafik — Fr. 150.–
+- e. …
 - f. Grundlagenkurs Grafik — Fr. 580.–
 
 <sup>3</sup> Es werden für Schulmaterial für Lernende der Fachklasse Grafik folgende Gebühren erhoben:
@@ -172,8 +175,8 @@ beschliesst:
 <sup>2</sup> Es werden pro Woche folgende Gebühren für Unterkunft und Verpflegung erhoben:
 
 - a. intern — Fr. 185.–
-- b. extern für Lernende (Mittagessen) — Fr. 55.–
-- c. extern für Berufsleute (Mittagessen) — Fr. 80.–
+- b. extern für Lernende (Mittagessen) — Fr. 60.–
+- c. extern für Berufsleute (Mittagessen) — Fr. 85.–
 
 #### § 6
 
@@ -305,7 +308,7 @@ beschliesst:
 
 **Wohnsitz**
 
-<sup>1</sup> Als Wohnsitz im Sinn dieser Verordnung gilt bei mündigen Lernenden und Studierenden der stipendienrechtliche Wohnsitz, bei unmündigen Lernenden und Studierenden der zivilrechtliche Wohnsitz der gesetzlichen Vertreterinnen und Vertreter. Als Wohnsitz gilt auch ein unter der Schulgeldverordnung für das Schuljahr 2007/2008 begründeter Wohnsitz.
+<sup>1</sup> Als Wohnsitz im Sinn dieser Verordnung gilt bei mündigen Lernenden und Studierenden der stipendienrechtliche Wohnsitz, bei unmündigen Lernenden und Studierenden der zivilrechtliche Wohnsitz der gesetzlichen Vertreterinnen und Vertreter.
 
 #### § 13
 
@@ -328,9 +331,9 @@ beschliesst:
 
 #### § 15
 
-**Benützungsgebühren und Beiträge zur Schadendeckung**
+**Benützungsgebühren**
 
-<sup>1</sup> Die Schulleitungen sind ermächtigt, von Lernenden, Studierenden und Auszubildenden einen Beitrag von höchstens 50 Franken pro Jahr zur Deckung von Schäden aus Diebstählen und Entwendungen in den Schulgebäuden, aus Beschädigungen von Brillen im Turn- und Sportbetrieb, aus Verlusten der Schulbibliothek sowie für allfällige Benützungsgebühren zu erheben.
+<sup>1</sup> Die Schulleitungen sind ermächtigt, von Lernenden, Studierenden und Auszubildenden einen pauschalen Beitrag von höchstens 60 Franken pro Jahr, bei den Hochschulen von höchstens 100 Franken pro Jahr, für die zusätzliche Benützung der Schulinfrastruktur, für allgemeine Lizenzen sowie für weitere Dienstleistungen zu erheben.
 
 #### § 16
 
@@ -360,7 +363,7 @@ beschliesst:
 
 **Erlass und Teilzahlung**
 
-<sup>1</sup> In Härtefällen können die Rektorate der Universität Luzern und der Pädagogischen Hochschule Luzern Zahlungspflichtigen das Schul- und Studiengeld ganz oder teilweise erlassen oder Teilzahlungen bewilligen. Bei den übrigen Schulen liegt diese Kompetenz bei Zahlungspflichtigen mit Wohnsitz im Kanton Luzern bei den Schulleitungen, bei ausserkantonalen Zahlungspflichtigen beim Bildungs- und Kulturdepartement. Werden Sozialhilfe, Stipendien oder Studiendarlehen bezogen, ist ein Erlass ausgeschlossen. Gebühren für Aufnahmeverfahren können nicht erlassen werden.
+<sup>1</sup> In Härtefällen können die Rektorate der Universität Luzern und der Pädagogischen Hochschule Luzern Zahlungspflichtigen das Schul- und Studiengeld ganz oder teilweise erlassen oder Teilzahlungen bewilligen. Bei den übrigen Schulen liegt diese Kompetenz bei Zahlungspflichtigen mit Wohnsitz im Kanton Luzern bei den Schulleitungen, bei ausserkantonalen Zahlungspflichtigen bei der zuständigen Dienststelle. Werden Sozialhilfe, Stipendien oder Studiendarlehen bezogen, ist ein Erlass ausgeschlossen. Gebühren für Aufnahmeverfahren können nicht erlassen werden.
 
 #### § 21
 
@@ -372,7 +375,7 @@ beschliesst:
 
 **Gebühr für Mehraufwand**
 
-<sup>1</sup> Die Schulleitungen und die schulischen Dienste können von Lernenden, Studierenden und anderen Leistungsnachfragenden für schuldhaft verursachten Mehraufwand eine Gebühr von höchstens 50 Franken erheben, sofern dies im Voraus schriftlich angekündigt wurde.
+<sup>1</sup> Die Schulleitungen und die schulischen Dienste können von Lernenden, Studierenden und anderen Leistungsnachfragenden für schuldhaft verursachten Mehraufwand eine Gebühr von höchstens 100 Franken erheben, sofern dies im Voraus schriftlich angekündigt wurde.
 
 ## 4 Schlussbestimmungen
 
