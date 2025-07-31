@@ -4,13 +4,12 @@ number: "314.11"
 title: Vollzugsverordnung zum Gesetz über die kantonale Mittelschule
 short: "Mittelschulverordnung, MSV"
 language: de
-version: 2022-01-01
-valid_until: 2025-07-31
-version_adopted: 2021-11-16
+version: 2025-08-01
+version_adopted: 2025-03-25
 adopted: 2007-06-12
 in_force: 2007-08-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/314.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/930/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1371/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/930/pdf_file"
 
 (Mittelschulverordnung, MSV)
 
-vom 12.06.2007 (Stand 01.01.2022)
+vom 12.06.2007 (Stand 01.08.2025)
 
 Der Regierungsrat von Nidwalden,
 
@@ -781,7 +780,7 @@ beschliesst:
 
 <sup>2</sup> Diese Untersuchung umfasst eine Bestandsaufnahme und zwei Röntgenbilder. Die Schülerinnen und Schüler erhalten für die Untersuchung einen Gutschein, welcher bei einer Zahnarztpraxis ihrer Wahl binnen 6 Monaten eingelöst werden kann.
 
-<sup>3</sup> Die Untersuchung in der Praxis wird je Schülerin und Schüler mit 74.10 Taxpunkten entschädigt; der Wert eines Taxpunktes beträgt Fr. 1.–.
+<sup>3</sup> Die Untersuchung in der Praxis wird je Schülerin und Schüler mit 87.20 Taxpunkten entschädigt; der Wert eines Taxpunktes beträgt Fr. 1.–.
 
 ## 8 Erwachsenenbildung
 
