@@ -4,13 +4,13 @@ number: "411.012"
 title: Landesschulkommissionsbeschluss zum Schulgesetz
 short: LSKB SchG
 language: de
-version: 2024-01-01
-valid_until: 2025-07-31
-version_adopted: 2024-02-01
+version: 2025-08-01
+valid_until: 2026-02-28
+version_adopted: 2025-02-06
 adopted: 2005-05-18
 in_force: 2005-08-01
 url: "https://ai.clex.ch/app/de/texts_of_law/411.012"
-pdf: "https://ai.clex.ch/api/de/versions/2258/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2376/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2258/pdf_file"
 
 (LSKB SchG)
 
-vom 18.05.2005 (Stand 01.01.2024)
+vom 18.05.2005 (Stand 01.08.2025)
 
 Die Landesschulkommission des Kantons Appenzell I.Rh.,
 
@@ -1583,5 +1583,79 @@ Sorgfaltspflicht:
 **…**
 
 ## A2.
+
+## A3. Anhang 3: Neuausrichtung Zyklus 1
+
+#### Art. A3-1
+
+**Geltungsbereich und anwendbares Recht**
+
+<sup>1</sup> Die Bestimmungen dieses Anhangs gelten für:
+
+- a) die Schulgemeinden des inneren Landesteils;
+- b) den Kindergarten sowie die erste und zweite Primarklasse.
+
+<sup>2</sup> Soweit dieser Anhang keine Regelung enthält, werden für den Schulversuch die Bestimmungen des Schulgesetzes vom 25. April 2004 (SchG) samt Ausführungserlassen angewendet.
+
+### A3-I Schulorganisation
+
+#### Art. A3-2
+
+**Wahl Schulmodell**
+
+<sup>1</sup> Die Schulgemeinden führen den Kindergarten sowie die erste und zweite Primarklasse im Rahmen des Schulversuchs ab dem Schuljahr 2026/27 wahlweise:
+
+- a) als Basisstufe;
+- b) als Modell Kindergarten 3+.
+
+<sup>2</sup> Unabhängig vom gewählten Schulmodell setzen die Schulgemeinden ab dem Schuljahr 2025/2026 Fachpersonen für Schulische Heilpädagogik ein. Art. 22d dieses Beschlusses gilt sinngemäss.
+
+#### Art. A3-3
+
+**Integrative Schulmodelle im Zyklus 1**
+
+<sup>1</sup> Auf der Basisstufe werden Schüler vom Kindergarten bis zur zweiten Primarstufe gemeinsam unterrichtet. Die Basisstufe dauert je nach Entwicklungs- und Lernstand des Schülers zwischen drei und fünf Jahren.
+
+<sup>2</sup> Für den Besuch der Basisstufe werden unabhängig von der tatsächlichen Dauer drei Jahre an die Schulpflicht nach Art. 19 Abs. 1 SchG angerechnet, wobei ein Jahr für den Kindergarten und zwei Jahre für die Primarschule gezählt werden.
+
+<sup>3</sup> Im Modell Kindergarten 3+ wird das dritte Kindergartenjahr nach Art. 19 Abs. 3 SchG nicht an die Schulpflicht angerechnet.
+
+#### Art. A3-4
+
+**Gruppen- und Klassengrösse**
+
+<sup>1</sup> Die Grösse einer Basisstufenklasse umfasst mindestens 16 bis höchstens 25 Schüler.
+
+<sup>2</sup> Die Gruppengrösse des dritten Kindergartenjahrs umfasst höchstens acht Kinder.
+
+<sup>3</sup> Über Ausnahmen entscheidet die Landesschulkommission.
+
+### A3.II Finanzen
+
+#### Art. A3-5
+
+**Kostenausweis**
+
+<sup>1</sup> Die Personalkosten der Schulischen Heilpädagogik, die der Schulgemeinde aus der Führung der Basisstufe oder des Modells Kindergarten 3+ entstehen, sind getrennt auszuweisen.
+
+#### Art. A3-6
+
+**Kantonaler Grundbeitrag**
+
+<sup>1</sup> Der Kanton entrichtet für den Schulversuch einen Beitrag von 30% an die Personalkosten (Löhne und Sozialleistungen) der Schulischen Heilpädagogik.
+
+#### Art. A3-7
+
+**Berichterstattung und Nachfolgeregelung**
+
+<sup>1</sup> Das Departement sorgt für eine angemessene Auswertung des Schulversuchs und erstattet der Landesschulkommission spätestens innert sieben Jah-ren seit Inkrafttreten dieses Anhangs Bericht zu den Ergebnissen.
+
+<sup>2</sup> Auf Antrag der Landesschulkommission bereitet das Departement gestützt auf die Berichterstattung die erforderlichen Anpassungen der Schulgesetzgebung vor.
+
+#### Art. A3-8
+
+**Befristung**
+
+<sup>1</sup> Der Anhang wird längstens bis 31. Juli 2033 angewendet.
 
 cGS -
