@@ -4,13 +4,12 @@ number: "414.300"
 title: Studienreglement über die Studiengänge Höhere Fachschule (HF) Kindheitspädagogik und Arbeitsagogische Leitung der Fachhochschule Westschweiz Valais-Wallis
 short: Reglement HF Soziales
 language: de
-version: 2022-09-01
-valid_until: 2025-07-31
-version_adopted: 2023-03-08
+version: 2025-08-01
+version_adopted: 2025-06-18
 adopted: 2022-05-11
 in_force: 2022-08-01
 url: "https://lex.vs.ch/app/de/texts_of_law/414.300"
-pdf: "https://lex.vs.ch/api/de/versions/3196/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3501/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3196/pdf_file"
 
 (Reglement HF Soziales)
 
-vom 11.05.2022 (Stand 01.09.2022)
+vom 11.05.2022 (Stand 01.08.2025)
 
 Der Staatsrat des Kantons Wallis
 
@@ -47,9 +46,9 @@ verordnet:[^ingress-1]
 
 **Anwendungsbereich**
 
-<sup>1</sup> Das vorliegende Reglement legt die Rahmenbestimmungen für die Ausbildungen fest, die zu den von der Fachhochschule Westschweiz Valais-Wallis (nachfolgend: HES-SO Valais-Wallis) verliehenen Titeln "diplomierte Kindheitspädagoge HF" und "diplomierte Leiter Arbeitsagogik HF" führen. Für die Organisation der Ausbildungen ist der Fachbereich Soziale Arbeit (nachfolgend: Schule) verantwortlich.
+<sup>1</sup> Das vorliegende Reglement legt die Rahmenbestimmungen für die Ausbildungen fest, die zu den von der Fachhochschule Westschweiz Valais-Wallis (nachfolgend: HES-SO Valais/Wallis) verliehenen Titeln "diplomierte Kindheitspädagoge HF" und "diplomierte Leiter Arbeitsagogik HF" führen. Für die Organisation der Ausbildungen ist der Fachbereich Soziale Arbeit (nachfolgend: Schule) verantwortlich.
 
-<sup>2</sup> Es gilt für alle Studierenden und Kandidaten der HES-SO Valais-Wallis, die einen Ausbildungstitel der HF-Studiengänge "Kindheitspädagogik HF" oder "Leiter Arbeitsagogik HF" anstreben.
+<sup>2</sup> Es gilt für alle Studierenden und Kandidaten der HES-SO Valais/Wallis, die einen Ausbildungstitel der HF-Studiengänge "Kindheitspädagogik HF" oder "Leiter Arbeitsagogik HF" anstreben.
 
 <sup>3</sup> Es regelt insbesondere die Organisation der Ausbildungen, die Promotion und die Rechtsmittelwege.
 
@@ -71,8 +70,8 @@ verordnet:[^ingress-1]
 
 <sup>1</sup> Es werden 2 Ausbildungsmodalitäten angeboten:
 
-- a) berufsbegleitende Ausbildung (dual): sie umfasst die theoretische und die praktische Ausbildung. Der Studierende absolviert die praktische Ausbildung in einer beruflichen Tätigkeit des entsprechenden Berufs mit einem Pensum von mindestens 50 Prozent;
-- b) Vollzeitausbildung (mit Praktika): sie umfasst die theoretische und die praktische Ausbildung. Die praktische Ausbildung ist in 3 Praktika organisiert, die im entsprechenden Beruf absolviert werden und ein Modul bilden.
+- a) duale Ausbildung (berufsbegleitend): sie umfasst die theoretische und die praktische Ausbildung. Der Studierende absolviert die praktische Ausbildung in einer beruflichen Tätigkeit des entsprechenden Berufs mit einem Pensum von mindestens 50 Prozent;
+- b) Ausbildung mit integrierten Praktika (Vollzeitausbildung): sie umfasst die theoretische und die praktische Ausbildung. Die praktische Ausbildung ist in 3 Praktika organisiert, die im entsprechenden Beruf absolviert werden.
 
 <sup>2</sup> Die Ausbildungen dauern:
 
@@ -95,7 +94,7 @@ verordnet:[^ingress-1]
 
 **Qualität**
 
-<sup>1</sup> Die HF-Studiengänge wenden das Qualitätssystem der HES-SO Valais-Wallis an.
+<sup>1</sup> Die HF-Studiengänge wenden das Qualitätssystem der HES-SO Valais/Wallis an.
 
 ## 2 Zulassung
 
@@ -125,24 +124,25 @@ verordnet:[^ingress-1]
 
 **Module**
 
-<sup>1</sup> Die Ausbildungen umfassen Module für den Unterricht, die praktische Ausbildung und ein Modul für die Abschlussqualifikation.
+<sup>1</sup> Die Ausbildungen umfassen Module für den Unterricht und die praktische Ausbildung.
 
 <sup>2</sup> Für jedes Modul wird eine vom Studiengangsleiter validierte Beschreibung erstellt, die den Studierenden spätestens zu Beginn des Moduls mitgeteilt wird.
 
 <sup>3</sup> Eine Modulbeschreibung enthält mindestens:
 
-- a) die angestrebten Kompetenzen und Prozesse,
-- b) die pädagogischen Ziele und Modalitäten,
-- c) die Lehrinhalte,
-- d) das Semester, in dem das Modul stattfindet und die Dauer des Moduls,
-- e) die Anforderung, dass das Modul besucht werden muss,
-- f) die Modalitäten der Bewertung und Validierung,
-- g) die Modalitäten der Nachprüfungen, sofern diese vorgesehen sind,
-- h) die Modalitäten der Wiederholung.
+- a) die angestrebten Kompetenzen und Prozesse;
+- b) die pädagogischen Ziele und Modalitäten;
+- c) die Lehrinhalte;
+- d) das Semester, in dem das Modul stattfindet und die Dauer des Moduls;
+- e) die Anforderung, dass das Modul besucht werden muss;
+- f) die Voraussetzungen, um an der Evaluation teilnehmen zu können;
+- g) die Modalitäten der Bewertung und Validierung;
+- h) die Modalitäten der Nachprüfungen, sofern diese vorgesehen sind;
+- i) die Modalitäten der Wiederholung.
 
-<sup>4</sup> Die Module können für beide Studiengänge gemeinsam sein.
+<sup>4</sup> Module können für beide Studiengänge gemeinsam sein.
 
-<sup>5</sup> Ausnahmsweise kann die Schuldirektion nach der Veröffentlichung über eine Änderung der Modulbeschreibungen entscheiden. In diesem Fall sorgt sie für die Mitteilung an die Studierenden.
+<sup>5</sup> Ausnahmsweise kann die Schuldirektion nach der Veröffentlichung über eine Änderung der Modulbeschreibungen entscheiden. In diesem Fall garantiert sie die Mitteilung an die Studierenden.
 
 #### Art. 9
 
@@ -150,7 +150,7 @@ verordnet:[^ingress-1]
 
 <sup>1</sup> Die Berufspraxis wird durch die geltenden Bestimmungen der Schule (nachfolgend: Bestimmungen) und seine 2 Vertragsstufen geregelt:
 
-- a) die Vereinbarung mit der Partnerinstitution der Berufspraxis, welche die Unterschriften der Direktion der Partnerinstitution, des Praxisausbildners, des Studierenden und der Schuldirektion erfordert;
+- a) die Vereinbarung mit der Partnerinstitution der Berufspraxis, welche die Unterschriften der Direktion der Partnerinstitution und der Schuldirektion erfordert;
 - b) die pädagogische Dreiervereinbahrung, die die Unterschriften des Praxisausbildners, des Studierenden und des Studiengangleiters der Schule erfordert.
 
 <sup>2</sup> Die Praxisausbildungsperioden werden grundsätzlich in den Institutionen absolviert, die sich dem System angeschlossen haben.
@@ -165,7 +165,7 @@ verordnet:[^ingress-1]
 
 <sup>1</sup> Der Studienkalender legt insbesondere den Beginn und die Dauer des Jahres fest und wird vom Direktionsrat der Schule verabschiedet.
 
-## 4 Bewertung, Promotion und Zertifizierung
+## 4 Bewertung, Promotion, abschliessendes Qualifikationsverfahren und Diplomierung
 
 #### Art. 11
 
@@ -196,11 +196,11 @@ verordnet:[^ingress-1]
 
 **Nachprüfung**
 
-<sup>1</sup> Ein Modul, bei dem die Bewertung der Evaluation F lautet, ist Gegenstand einer Nachprüfung, sofern diese in der Modulbeschreibung explizit vorgesehen ist.
+<sup>1</sup> Ein Modul, bei dem die Bewertung der Evaluation F oder nicht erfüllt lautet, ist Gegenstand einer Nachprüfung, sofern diese in der Modulbeschreibung explizit vorgesehen ist.
 
 <sup>2</sup> Die Modalitäten der Nachprüfung (Zusatzprüfung oder Zusatzarbeit) werden in der Modulbeschreibung präzisiert.
 
-<sup>3</sup> Ein Studierender, der eine Nachprüfung erfolgreich absolviert, erhält für das Modul die Bewertung E.
+<sup>3</sup> Ein Studierender, der eine Nachprüfung erfolgreich absolviert, erhält für das Modul die Bewertung E oder erfüllt.
 
 <sup>4</sup> Wenn die Ergebnisse der Nachprüfung ungenügend sind, kann der Studierende das Modul unter den in der Modulbeschreibung genannten Bedingungen wiederholen.
 
@@ -232,14 +232,27 @@ verordnet:[^ingress-1]
 
 <sup>1</sup> Um von einem Jahr zum anderen promoviert zu werden, muss der Studierende in den Modulen die Bewertung "erfüllt" oder ein Ergebnis zwischen A und E erhalten haben.
 
+#### Art. 16a
+
+**Abschliessendes Qualifikationsverfahren**
+
+<sup>1</sup> Das abschliessende Qualifikationsverfahren umfasst drei Evaluationen, die mit zwei Modulen verknüpft sind:
+
+- a) das letzte Modul der Berufspraxis;
+- b) das Modul für die Diplomarbeit und das Fachgespräch.
+
+<sup>2</sup> Die Schule erlässt ein Ausführungsreglement mit den Bestimmungen über das abschliessende Qualifikationsverfahren.
+
 #### Art. 17
 
 **Titel**
 
-<sup>1</sup> Der Studierende, der alle Module und die Berufspraxis in der vorgegebenen Zeit bestanden hat, erhält den Titel, der im RLP seines Studiengangs festgelegt ist, d. h:
+<sup>1</sup> Der Studierende, der alle Module, die Berufspraxis und das abschliessende Qualifikationsverfahren in der vorgegebenen Zeit bestanden hat, erhält den Titel, der im RLP seines Studiengangs festgelegt ist, d. h:
 
 - a) "dipl. Kindheitspädagogin HF", "dipl. Kindheitspädagoge HF;
 - b) "dipl. Leiterin Arbeitsagogik HF", "dipl. Leiter Arbeitsagogik HF".
+
+<sup>2</sup> Die Schule beachtet die Empfehlungen und Richtlinien des SBFI zur Gestaltung von Diplomen und Diplomzusätzen.
 
 ## 5 Rechte und Pflichten der Studierenden
 
@@ -247,9 +260,9 @@ verordnet:[^ingress-1]
 
 **Besuch der Ausbildung und Kurzurlaub**
 
-<sup>1</sup> Die Anforderungen bezüglich den Besuch der Ausbildung sind in den Modulbeschreibungen festgehalten.
+<sup>1</sup> Für jedes Modul wird mindestens 80 Prozent Präsenzzeit vorgeschrieben.
 
-<sup>2</sup> Bei einer Abwesenheit von mehr als 3 aufeinanderfolgenden Tagen aus gesundheitlichen Gründen, muss der Studierende innerhalb von 7 Tagen nach Beginn des Ausfalls ein ärztliches Zeugnis vorlegen.
+<sup>2</sup> Ab der 2. aufeinanderfolgenden Woche Abwesenheit vom Unterricht ist der Studierende verpflichtet, innerhalb von 7 Tagen nach Beginn der Abwesenheit ein ärztliches Zeugnis vorzulegen.
 
 <sup>3</sup> Ein ordnungsgemäss begründeter Kurzurlaub kann in Ausnahmefällen durch den Studiengangsleiter bewilligt werden.
 
@@ -291,7 +304,7 @@ verordnet:[^ingress-1]
 
 **Studiengebühr**
 
-<sup>1</sup> Die Studiengebühr wird auf 500 Franken pro Semester festgesetzt.
+<sup>1</sup> Die Studiengebühr wird auf 700 Franken pro Semester festgesetzt.
 
 <sup>2</sup> Die Studiengebühr wird nicht zurückerstattet.
 
@@ -330,7 +343,7 @@ verordnet:[^ingress-1]
 
 <sup>2</sup> Der Verband wird gegebenenfalls bei Entscheidungen, die das Studium und das Leben an der Schule betreffen, in geeigneter Weise konsultiert.
 
-<sup>3</sup> Der Verband organisiert sich selbst und arbeitet autonom. Seine Beziehungen zur Schule werden in einer Zusammenarbeitsvereinbarung geregelt.
+<sup>3</sup> Der Verband organisiert sich selbst und arbeitet autonom.
 
 #### Art. 26
 
@@ -352,7 +365,7 @@ verordnet:[^ingress-1]
 
 **Betrug**
 
-<sup>1</sup> Jeder Betrug einschliesslich Plagiat oder Betrugsversuch insbesondere bei den Evaluationsarbeiten, den Prüfungen und der abschliessenden Qualifikationsarbeit führt zum Nichterwerb des Moduls oder sogar zur Ungültigkeit des Titels und kann mit einer der in Artikel 29 vorgesehenen Sanktionen geahndet werden.
+<sup>1</sup> Jeder Betrug einschliesslich Plagiat oder Betrugsversuch insbesondere bei den Evaluationsarbeiten, den Prüfungen und der abschliessenden Qualifikationverfahren führt zum Nichterwerb des Moduls oder sogar zur Ungültigkeit des Titels und kann mit einer der in Artikel 29 vorgesehenen Sanktionen geahndet werden.
 
 <sup>2</sup> Die Verwendung falscher Titel, Zertifikate oder falscher Informationen durch die Studierenden führt zur Annullierung früherer Entscheidungen und zum Ausschluss aus dem Studiengang.
 
@@ -387,7 +400,7 @@ verordnet:[^ingress-1]
 
 <sup>3</sup> Jedes abgebrochene Modul ist Gegenstand einer Benotung.
 
-<sup>4</sup> Ein Studierender, der seine Ausbildung abgebrochen hat, kann diese ohne Karenzfristen wiederaufnehmen, unter Vorbehalt des Entscheids gemäss Artikel 32 Absatz 2 und des erfolgreichen Abschlusses des gesamten Zulassungsverfahrens. Im Falle einer Zulassung kann der Studierende einen Antrag auf Anerkennung von Studienleistungen gemäss den im spezifischen Reglement beschriebenen Modalitäten stellen.
+<sup>4</sup> Ein Studierender, der seine Ausbildung abgebrochen hat, kann diese ohne Karenzfristen wiederaufnehmen, unter Vorbehalt des Entscheids gemäss Artikel 31 Absatz 2 und des erfolgreichen Abschlusses des gesamten Zulassungsverfahrens. Im Falle einer Zulassung kann der Studierende einen Antrag auf Anerkennung von Studienleistungen gemäss den im Ausführungsreglement zur Zulassung beschriebenen Modalitäten stellen.
 
 #### Art. 31
 

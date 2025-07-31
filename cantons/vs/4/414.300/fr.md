@@ -4,13 +4,12 @@ number: "414.300"
 title: "Règlement d'études concernant les filières école supérieure (ES) éducation de l’enfance et maîtrise socioprofessionnelle de la Haute Ecole Spécialisée de Suisse occidentale Valais-Wallis"
 short: Règlement ES Social
 language: fr
-version: 2022-09-01
-valid_until: 2025-07-31
-version_adopted: 2023-03-08
+version: 2025-08-01
+version_adopted: 2025-06-18
 adopted: 2022-05-11
 in_force: 2022-08-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/414.300"
-pdf: "https://lex.vs.ch/api/fr/versions/3196/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3501/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3196/pdf_file"
 
 (Règlement ES Social)
 
-du 11.05.2022 (état 01.09.2022)
+du 11.05.2022 (état 01.08.2025)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -47,9 +46,9 @@ ordonne:[^ingress-1]
 
 **Champ d'application**
 
-<sup>1</sup> Le présent règlement fixe les dispositions cadres relatives aux formations menant aux titres de "Educateur de l’enfance diplômé ES" et "Maître socioprofessionnel diplômé ES" délivrés par la Haute Ecole Spécialisée de Suisse occidentale Valais-Wallis (ci-après: HES-SO Valais-Wallis). L’organisation des formations est sous la responsabilité du Domaine Travail Social (ci-après: école).
+<sup>1</sup> Le présent règlement fixe les dispositions cadres relatives aux formations menant aux titres de "Educateur de l’enfance diplômé ES" et "Maître socioprofessionnel diplômé ES" dispensées par la Haute Ecole Spécialisée de Suisse occidentale Valais-Wallis (ci-après: HES-SO Valais/Wallis). L’organisation des formations est sous la responsabilité du Domaine Travail Social (ci-après: école).
 
-<sup>2</sup> Il s’applique à tout étudiant et candidat à la HES-SO Valais-Wallis visant un titre de la formation des filières ES "Education de l’enfance" ou "Maîtrise socioprofessionnelle".
+<sup>2</sup> Il s’applique à tout étudiant et candidat à la HES-SO Valais/Wallis visant un titre de la formation des filières ES "Education de l’enfance" ou "Maîtrise socioprofessionnelle".
 
 <sup>3</sup> Il règle notamment l’organisation des formations, la promotion et les voies de droit.
 
@@ -71,8 +70,8 @@ ordonne:[^ingress-1]
 
 <sup>1</sup> Deux modalités de formation sont proposées:
 
-- a) formation en cours d’emploi (dual): elle inclut la formation théorique et la formation pratique. L’étudiant effectue la formation pratique dans une activité professionnelle de la profession correspondante à un taux de 50 pour cent minimum;
-- b) formation à plein temps (avec stages): elle inclut la formation théorique et la formation pratique. La formation pratique est organisée en 3 stages effectués dans la profession correspondante et formant un module.
+- a) formation dual (en cours d’emploi): elle inclut la formation théorique et la formation pratique. L’étudiant effectue la formation pratique dans une activité professionnelle de la profession correspondante à un taux de 50 pour cent minimum;
+- b) formation avec stages Intégrés (à plein temps): elle inclut la formation théorique et la formation pratique. La formation pratique est organisée en 3 stages effectués dans la profession correspondante.
 
 <sup>2</sup> Les formations durent:
 
@@ -95,7 +94,7 @@ ordonne:[^ingress-1]
 
 **Qualité**
 
-<sup>1</sup> Les filières ES appliquent le système qualité de la HES-SO Valais-Wallis.
+<sup>1</sup> Les filières ES appliquent le système qualité de la HES-SO Valais/Wallis.
 
 ## 2 Admission
 
@@ -125,7 +124,7 @@ ordonne:[^ingress-1]
 
 **Modules**
 
-<sup>1</sup> Les formations comprennent des modules d’enseignement, de formation pratique et un module de qualification finale.
+<sup>1</sup> Les formations comprennent des modules d’enseignement et de formation pratique.
 
 <sup>2</sup> Chaque module fait l’objet d’un descriptif validé par le responsable de filière et est communiqué aux étudiants au plus tard au début du module.
 
@@ -136,13 +135,14 @@ ordonne:[^ingress-1]
 - c) les contenus d’enseignement;
 - d) le semestre durant lequel le module se déroule et la durée du module;
 - e) l’exigence de fréquentation de module;
-- f) les modalités d’évaluation et de validation;
-- g) les modalités de remédiation quand elle est prévue;
-- h) les modalités de répétition.
+- f) les conditions nécessaires pour pouvoir se présenter à l'évaluation;
+- g) les modalités d’évaluation et de validation;
+- h) les modalités de remédiation quand elle est prévue;
+- i) les modalités de répétition.
 
-<sup>4</sup> Les modules peuvent être communs aux deux filières.
+<sup>4</sup> Des modules peuvent être communs aux deux filières.
 
-<sup>5</sup> De manière exceptionnelle, la direction de l’école peut statuer sur une modification des descriptifs de modules après publication. Le cas échéant, elle assure la communication aux étudiants.
+<sup>5</sup> De manière exceptionnelle, la direction de l’école peut statuer sur une modification des descriptifs de modules après publication. Le cas échéant, elle garantit la communication aux étudiants.
 
 #### Art. 9
 
@@ -150,7 +150,7 @@ ordonne:[^ingress-1]
 
 <sup>1</sup> La pratique professionnelle est régie par le dispositif de l’école (ci-après: dispositif) et ses 2 niveaux contractuels:
 
-- a) la convention avec l’institution partenaire de pratique professionnelle, nécessitant les signatures de la direction de l’institution partenaire, du formateur à la pratique professionnelle, de l’étudiant et de la direction de l’école;
+- a) la convention avec l’institution partenaire de pratique professionnelle, nécessitant les signatures de la direction de l’institution partenaire et de la direction de l’école;
 - b) le contrat pédagogique tripartite, nécessitant les signatures du formateur à la pratique professionnelle, de l’étudiant et du responsable de filière de l’école.
 
 <sup>2</sup> Les périodes de pratique professionnelle s’effectuent en principe dans les institutions qui ont adhéré au dispositif.
@@ -165,7 +165,7 @@ ordonne:[^ingress-1]
 
 <sup>1</sup> Le calendrier d’études fixe notamment le début et la durée de l’année, il est adopté par le Conseil de direction de l’école.
 
-## 4 Evaluation, promotion et certification
+## 4 Evaluation, promotion, procédure de qualification finale et diplomation
 
 #### Art. 11
 
@@ -196,11 +196,11 @@ ordonne:[^ingress-1]
 
 **Remédiation**
 
-<sup>1</sup> Un module pour lequel l’appréciation de l’évaluation est F fait l’objet d’une remédiation pour autant que celle-ci soit explicitement prévue dans le descriptif de module.
+<sup>1</sup> Un module pour lequel l’appréciation de l’évaluation est F ou non-acquis fait l’objet d’une remédiation pour autant que celle-ci soit explicitement prévue dans le descriptif de module.
 
 <sup>2</sup> Les modalités de remédiation (examen complémentaire ou travail additionnel) sont précisées dans le descriptif de module.
 
-<sup>3</sup> Un étudiant qui réussit une remédiation obtient l’appréciation E au module.
+<sup>3</sup> Un étudiant qui réussit une remédiation obtient l’appréciation E ou acquis au module.
 
 <sup>4</sup> Lorsque les résultats de la remédiation sont insuffisants, l’étudiant peut répéter le module aux conditions précisées dans le descriptif de module.
 
@@ -232,14 +232,27 @@ ordonne:[^ingress-1]
 
 <sup>1</sup> Pour être promu d’une année à l’autre, l’étudiant doit avoir obtenu la mention "acquis" ou un résultat compris entre A et E aux modules.
 
+#### Art. 16a
+
+**Procédure de qualification finale**
+
+<sup>1</sup> La procédure de qualification finale comprend trois évaluations liées à deux modules:
+
+- a) le dernier module de pratique professionnelle;
+- b) le module de travail de diplôme et d’entretien professionnel.
+
+<sup>2</sup> L’école arrête, dans un règlement d’application, les dispositions relatives à la procédure de qualification finale.
+
 #### Art. 17
 
 **Titres**
 
-<sup>1</sup> L’étudiant ayant réussi l’ensemble des modules et la pratique professionnelle dans le temps imparti obtient le titre formalisé par le PEC de sa filière, à savoir:
+<sup>1</sup> L’étudiant ayant réussi l’ensemble des modules, la pratique professionnelle et la procédure de qualification finale dans le temps imparti obtient le titre formalisé par le PEC de sa filière, à savoir:
 
 - a) "Educatrice de l’enfance, diplômée ES", "Educateur de l’enfance, diplômé ES";
 - b) "Maîtresse socioprofessionnelle, diplômée ES", "Maître socioprofessionnel, diplômé ES".
+
+<sup>2</sup> L’école respecte les recommandations et directives du SEFRI concernant la conception des diplômes et des suppléments aux diplômes.
 
 ## 5 Droits et devoirs de l’étudiant
 
@@ -247,9 +260,9 @@ ordonne:[^ingress-1]
 
 **Fréquentation de la formation et congé de courte durée**
 
-<sup>1</sup> Les exigences liées à la fréquentation de la formation sont précisées dans les descriptifs de modules.
+<sup>1</sup> La fréquentation de la formation est au moins de 80 pour cent pour chaque module.
 
-<sup>2</sup> En cas d’absence de plus de 3 jours consécutifs pour raison de santé, l’étudiant est tenu de présenter un certificat médical dans les 7 jours suivants le début de l’arrêt.
+<sup>2</sup> Dès la 2<sup>e</sup> semaine consécutive d'absence aux cours, l’étudiant est tenu de présenter un certificat médical dans les 7 jours suivants le début de l’arrêt.
 
 <sup>3</sup> Les congés dûment motivés de courte durée peuvent être accordés dans des cas exceptionnels par le responsable de filière.
 
@@ -291,7 +304,7 @@ ordonne:[^ingress-1]
 
 **Taxe d'études**
 
-<sup>1</sup> Le montant de la taxe d'études est fixé à 500 francs par semestre.
+<sup>1</sup> Le montant de la taxe d'études est fixé à 700 francs par semestre.
 
 <sup>2</sup> La taxe d'études ne fait pas l'objet de remboursement.
 
@@ -332,7 +345,7 @@ ordonne:[^ingress-1]
 
 <sup>2</sup> Cas échéant, l’association est consultée de manière appropriée au sujet des décisions concernant les études et la vie à l'école.
 
-<sup>3</sup> L’association s’organise et fonctionne de manière autonome. Ses rapports avec l’école font l’objet d’une convention de collaboration.
+<sup>3</sup> L’association s’organise et fonctionne de manière autonome.
 
 #### Art. 26
 
@@ -354,7 +367,7 @@ ordonne:[^ingress-1]
 
 **Fraude**
 
-<sup>1</sup> Toute fraude y compris le plagiat ou la tentative de fraude notamment dans les travaux d’évaluation, les examens et le travail de qualification finale, entraîne la non-acquisition du module, voire l’invalidation du titre et peut faire l’objet d’une des sanctions prévues à l’article 29.
+<sup>1</sup> Toute fraude y compris le plagiat ou la tentative de fraude notamment dans les travaux d’évaluation, les examens et la procédure de qualification finale, entraîne la non-acquisition du module, voire l’invalidation du titre et peut faire l’objet d’une des sanctions prévues à l’article 29.
 
 <sup>2</sup> L’usage de faux titres, de certificats ou de fausses informations par les étudiants entraîne l’annulation des décisions antérieures et l’exclusion de la filière.
 
@@ -389,7 +402,7 @@ ordonne:[^ingress-1]
 
 <sup>3</sup> Tout module abandonné fait l’objet d’une notation.
 
-<sup>4</sup> Un étudiant ayant abandonné sa formation peut la recommencer, sans délais de carence, sous réserve de la décision relative à l’article 31 alinéa 2 et de la réussite du processus d’admission complet. En cas d’admission, l’étudiant peut faire une demande de validation d’acquis selon les modalités décrites dans le règlement spécifique.
+<sup>4</sup> Un étudiant ayant abandonné sa formation peut la recommencer, sans délais de carence, sous réserve de la décision relative à l’article 31 alinéa 2 et de la réussite du processus d’admission complet. En cas d’admission, l’étudiant peut faire une demande de reconnaissance d’acquis selon les modalités décrites dans le règlement d'application d'admission.
 
 #### Art. 31
 
