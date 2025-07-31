@@ -3,41 +3,39 @@ canton: SH
 number: "411.101"
 title: Verordnung des Erziehungsrates betreffend die Schulordnung der Primar- und Orientierungsschulen des Kantons Schaffhausen
 language: de
-version: 2023-08-01
-corrected: 2024-06-04
-version_adopted: 2022-12-14
+version: 2025-08-01
+version_adopted: 2025-05-14
 adopted: 1988-03-31
 in_force: 1988-04-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/411.101"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/115/pdf_file"
-text: pdf
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/1990/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung des Erziehungsrates betreffend die Schulordnung der Primar- und Orientierungsschulen des Kantons Schaffhausen
 
-vom 31. März 1988
+Vom 31.03.1988 (Stand 01.08.2025)
 
 Der Erziehungsrat des Kantons Schaffhausen,
 
-gestützt auf Art. 25 des Schulgesetzes vom 27. April 1981 <sup>1)</sup>,
+gestützt auf Art. 25 des Schulgesetzes vom 27. April 1981[^ingress-1],
 
-verordnet:
+beschliesst:
+
+[^ingress-1]: SHR [410.100](https://rechtsbuch.sh.ch/data/410.100/de).
 
 #### § 1
 
-<sup>18)</sup>
-
 **Zweck**
 
-Die Schulordnung bezweckt die Regelung eines geordneten Schulbetriebs in Zusammenarbeit zwischen Schulbehörde bzw. Schulleitung, Lehrern, Schülern und Erziehungsberechtigten.
+<sup>1</sup> Die Schulordnung bezweckt die Regelung eines geordneten Schulbetriebs in Zusammenarbeit zwischen Schulbehörde bzw. Schulleitung, Lehrern, Schülern und Erziehungsberechtigten.
 
 #### § 2
 
 **Geltungsbereich**
 
-Die Schüler unterstehen während der Zeit des Unterrichts, während Schulveranstaltungen, auf dem Schulareal und auf dem Schulweg der Ordnungsbefugnis der Schule (Art. 25 Abs. 1 Schulgesetz).
+<sup>1</sup> Die Schüler unterstehen während der Zeit des Unterrichts, während Schulveranstaltungen, auf dem Schulareal und auf dem Schulweg der Ordnungsbefugnis der Schule (Art. 25 Abs. 1 Schulgesetz).
 
 #### § 3
 
@@ -51,15 +49,13 @@ Die Schüler unterstehen während der Zeit des Unterrichts, während Schulverans
 
 **Haftung für Sachbeschädigungen**
 
-Für Sachbeschädigungen innerhalb der Schulanlagen haftet der Schüler gemäss den gesetzlichen Bestimmungen über die Haftung aus unerlaubter Handlung (Art. 41 ff. OR).
-
-Amtsblatt 1988, S. 291; Rechtsbuch 1964, Nr. 72.
+<sup>1</sup> Für Sachbeschädigungen innerhalb der Schulanlagen haftet der Schüler gemäss den gesetzlichen Bestimmungen über die Haftung aus unerlaubter Handlung (Art. 41 ff. OR).
 
 #### § 5
 
 **Rauch-, Alkohol- und Drogenverbot**
 
-In den Schulgebäuden, auf dem Schulareal und während Schulveranstaltungen ist den Schülern das Rauchen und der Konsum von Alkohol und Drogen untersagt.
+<sup>1</sup> In den Schulgebäuden, auf dem Schulareal und während Schulveranstaltungen ist den Schülern das Rauchen und der Konsum von Alkohol und Drogen untersagt.
 
 #### § 6
 
@@ -69,7 +65,7 @@ In den Schulgebäuden, auf dem Schulareal und während Schulveranstaltungen ist 
 
 <sup>2</sup> Verantwortlich für das Verhalten der Schüler ausserhalb der Schule, insbesondere auch auf dem Schulweg, sind die Inhaber der elterlichen Gewalt.
 
-<sup>3</sup> Die Schulbehörden bzw. Schulleitungen können für das Verhalten der Schüler auf dem Schulweg Weisungen erlassen. <sup>18)</sup>
+<sup>3</sup> Die Schulbehörden bzw. Schulleitungen können für das Verhalten der Schüler auf dem Schulweg Weisungen erlassen.
 
 #### § 7
 
@@ -77,35 +73,25 @@ In den Schulgebäuden, auf dem Schulareal und während Schulveranstaltungen ist 
 
 <sup>1</sup> Können Schwierigkeiten mit Schülern nicht im Gespräch gelöst werden, stehen dem Lehrer vor allem folgende Massnahmen zur Verfügung:
 
-- a) Zurechtweisung;
+- a) Zurechtweisung
+- b) Wegweisen während der Unterrichtsstunde
+- c) Anordnung einer Zusatzarbeit, die möglichst in Beziehung zum Verhalten des Schülers steht
+- d) Zusatzarbeit in der unterrichtsfreien Zeit unter Aufsicht
+- e) Aussprache mit den Erziehungsberechtigten
+- f) Schriftlicher Verweis zuhanden der Erziehungsberechtigten
+- g) Mitteilung und Antrag an die Schulbehörde bzw. Schulleitung
+- h) …
 
-- b) Wegweisen während der Unterrichtsstunde;
+<sup>2</sup> Der Schulbehörde bzw. Schulleitung stehen vor allem folgende Massnahmen zur Verfügung:
 
-- c) Anordnung einer Zusatzarbeit, die möglichst in Beziehung zum Verhalten des Schülers steht;
-
-- d) Zusatzarbeit in der unterrichtsfreien Zeit unter Aufsicht;
-
-- e) Aussprache mit den Erziehungsberechtigten;
-
-- f) Schriftlicher Verweis zuhanden der Erziehungsberechtigten;
-
-- g) Mitteilung und Antrag an die Schulbehörde bzw. Schulleitung; <sup>18)</sup>
-
-- h) <sup>3)</sup>
-
-<sup>2</sup> Der Schulbehörde bzw. Schulleitung stehen vor allem folgende Massnahmen zur Verfügung: <sup>19)</sup> a) Aussprache zwischen einer Vertretung der Schulbehörde bzw. Schulleitung, den Erziehungsberechtigten, dem Lehrer und gegebenenfalls dem Schüler; <sup>18)</sup> b) Mündlicher oder schriftlicher Verweis zuhanden der Erziehungsberechtigten;
-
-- c) Versetzung des Schülers in eine andere Klasse;
-
-- d) Wegweisung vom fakultativen Unterricht, wenn das fehlbare Verhalten damit im Zusammenhang steht;
-
-- e) Anordnung einer Sonderschulung;
-
-- f) vorübergehende Suspendierung von Schülern vom Unterricht für die Dauer von längstens acht Wochen unter gleichzeitiger Anordnung einer geeigneten Ersatzlösung für den ausfallenden Unterricht;<sup>4)</sup>
-
-- g) Androhung eines Antrags an den Erziehungsrat auf vorzeitigen Ausschluss aus der Schulpflicht; <sup>14)</sup>
-
-- h) Antrag an den Erziehungsrat auf vorzeitigen Ausschluss aus der Schulpflicht. <sup>14)</sup>
+- a) Aussprache zwischen einer Vertretung der Schulbehörde bzw. Schulleitung, den Erziehungsberechtigten, dem Lehrer und gegebenenfalls dem Schüler
+- b) Mündlicher oder schriftlicher Verweis zuhanden der Erziehungsberechtigten
+- c) Versetzung des Schülers in eine andere Klasse
+- d) Wegweisung vom fakultativen Unterricht, wenn das fehlbare Verhalten damit im Zusammenhang steht
+- e) Anordnung einer Sonderschulung
+- f) vorübergehende Suspendierung von Schülern vom Unterricht für die Dauer von längstens acht Wochen unter gleichzeitiger Anordnung einer geeigneten Ersatzlösung für den ausfallenden Unterricht
+- g) Androhung eines Antrags an den Erziehungsrat auf vorzeitigen Ausschluss aus der Schulpflicht
+- h) Antrag an den Erziehungsrat auf vorzeitigen Ausschluss aus der Schulpflicht
 
 #### § 8
 
@@ -113,25 +99,21 @@ In den Schulgebäuden, auf dem Schulareal und während Schulveranstaltungen ist 
 
 <sup>1</sup> Alle Massnahmen sind dem Alter und der Reife des Schülers anzupassen und sollen erzieherisch sinnvoll sein.
 
-<sup>2</sup> Schwierige Fälle sind mit den Erziehungsberechtigten zu besprechen und wenn notwendig von der Abteilung Schulische Abklärung und Beratung oder vom kantonalen Kinder- und Jugendpsychiatrischen Dienst beurteilen zu lassen. <sup>14)</sup>
+<sup>2</sup> Schwierige Fälle sind mit den Erziehungsberechtigten zu besprechen und wenn notwendig von der Abteilung Schulische Abklärung und Beratung oder vom kantonalen Kinder- und Jugendpsychiatrischen Dienst beurteilen zu lassen.
 
-<sup>3</sup> Ein vorzeitiger Ausschluss aus der Schulpflicht kann von der Schulbehörde bzw. Schulleitung beim Erziehungsrat nur beantragt werden, sofern das Verhalten des Schülers über längere Zeit untragbar gewesen ist, weniger weitgehende Massnahmen zu keinem Erfolg geführt haben und auch ein schriftlicher Bericht der Abteilung Schulische Abklärung und Beratung oder des kantonalen Kinder- und Jugendpsychiatrischen Dienstes oder einer ähnlichen Fachstelle vorliegt. <sup>18)</sup>
+<sup>3</sup> Ein vorzeitiger Ausschluss aus der Schulpflicht kann von der Schulbehörde bzw. Schulleitung beim Erziehungsrat nur beantragt werden, sofern das Verhalten des Schülers über längere Zeit untragbar gewesen ist, weniger weitgehende Massnahmen zu keinem Erfolg geführt haben und auch ein schriftlicher Bericht der Abteilung Schulische Abklärung und Beratung oder des kantonalen Kinder- und Jugendpsychiatrischen Dienstes oder einer ähnlichen Fachstelle vorliegt.
 
 #### § 8a
 
-<sup>15)</sup>
+**Entlassung aus der Schulpflicht**
 
-**Entlassung aus der Schulpflicht 15)**
-
-Auf Gesuch der Erziehungsberechtigten entscheidet der Erziehungsrat, ob ein Schüler freiwillig aus der Schulpflicht entlassen werden kann, weil der weitere Verbleib in der Schule eine übertriebene Härte bedeuten würde.
+<sup>1</sup> Auf Gesuch der Erziehungsberechtigten entscheidet der Erziehungsrat, ob ein Schüler freiwillig aus der Schulpflicht entlassen werden kann, weil der weitere Verbleib in der Schule eine übertriebene Härte bedeuten würde.
 
 #### § 8b
 
-<sup>15)</sup>
+**Unaufschiebbare Massnahmen**
 
-**Unaufschiebbare Massnahmen 15)**
-
-Vor dem Ergreifen von unaufschiebbaren Massnahmen zum Schutz des Schulbetriebs, welche sehr zurückhaltend anzuwenden sind, ist das Erziehungsdepartement angemessen mit einzubeziehen.
+<sup>1</sup> Vor dem Ergreifen von unaufschiebbaren Massnahmen zum Schutz des Schulbetriebs, welche sehr zurückhaltend anzuwenden sind, ist das Erziehungsdepartement angemessen mit einzubeziehen.
 
 #### § 9
 
@@ -155,13 +137,13 @@ Vor dem Ergreifen von unaufschiebbaren Massnahmen zum Schutz des Schulbetriebs, 
 
 <sup>1</sup> Der Lehrer hat den Erziehungsberechtigten für Auskunft und Beratung zur Verfügung zu stehen.
 
-<sup>2</sup> Die Erziehungsberechtigten können mit Anliegen oder Beschwerden an den Klassenlehrer, den Schulvorsteher oder an die Schulbehörde bzw. Schulleitung gelangen. <sup>18)</sup>
+<sup>2</sup> Die Erziehungsberechtigten können mit Anliegen oder Beschwerden an den Klassenlehrer, den Schulvorsteher oder an die Schulbehörde bzw. Schulleitung gelangen.
 
 #### § 12
 
 **Verantwortung der Erziehungsberechtigten für den Schulbesuch**
 
-Die Erziehungsberechtigten sind für den regelmässigen Schulbesuch der Kinder verantwortlich. Diese Verpflichtung gilt auch für Wahlfachunterricht sowie für den Besuch des zehnten Schuljahres.
+<sup>1</sup> Die Erziehungsberechtigten sind für den regelmässigen Schulbesuch der Kinder verantwortlich. Diese Verpflichtung gilt auch für Wahlfachunterricht sowie für den Besuch des zehnten Schuljahres.
 
 #### § 13
 
@@ -169,33 +151,29 @@ Die Erziehungsberechtigten sind für den regelmässigen Schulbesuch der Kinder v
 
 <sup>1</sup> Jeder versäumte halbe Schultag gilt als eine Absenz. Ein angebrochener Halbtag, an dem eine oder mehrere Lektionen versäumt werden, gilt ebenfalls als eine Absenz.
 
-<sup>2</sup> ... <sup>8)</sup>
+<sup>2</sup> …
 
-<sup>3</sup> Jeder Lehrer führt eine schriftliche Kontrolle über die Absenzen der Schüler. <sup>6)</sup>
+<sup>3</sup> Jeder Lehrer führt eine schriftliche Kontrolle über die Absenzen der Schüler.
 
 #### § 14
 
-<sup>9)</sup>
-
 **Voraussehbare Schulversäumnisse**
 
-<sup>1</sup> Für voraussehbare, begründete Schulversäumnisse bis auf die Dauer von zwei Tagen ist vorbehältlich von § 14a Abs. 1 in Einzelfällen vorher die Erlaubnis des Klassenlehrers einzuholen. Betrifft das voraussehbare Versäumnis Schüler aus mehreren Klassen oder wird ein längeres Fernbleiben beantragt, ist die Bewilligung der Schulbehörde bzw. Schulleitung erforderlich. <sup>18)</sup>
+<sup>1</sup> Für voraussehbare, begründete Schulversäumnisse bis auf die Dauer von zwei Tagen ist vorbehältlich von § 14a Abs. 1 in Einzelfällen vorher die Erlaubnis des Klassenlehrers einzuholen. Betrifft das voraussehbare Versäumnis Schüler aus mehreren Klassen oder wird ein längeres Fernbleiben beantragt, ist die Bewilligung der Schulbehörde bzw. Schulleitung erforderlich.
 
-<sup>2</sup> Gesuche um Ferienverlängerung werden grundsätzlich nicht bewilligt. Fälle gemäss § 14a Abs. 1 sowie zwingende Ausnahmen, über welche die Schulbehörde bzw. Schulleitung entscheidet, bleiben vorbehalten. <sup>18)</sup>
+<sup>2</sup> Gesuche um Ferienverlängerung werden grundsätzlich nicht bewilligt. Fälle gemäss § 14a Abs. 1 sowie zwingende Ausnahmen, über welche die Schulbehörde bzw. Schulleitung entscheidet, bleiben vorbehalten.
 
-<sup>3</sup> ... <sup>10)</sup>
+<sup>3</sup> …
 
 <sup>4</sup> Bewilligte voraussehbare Schulversäumnisse und solche nach § 14a Abs. 1 gelten als entschuldigte Absenzen.
 
-<sup>5</sup> Abgelehnte Gesuche um Schulabsenzen sind mit einem Hinweis auf Art. 292 des Strafgesetzbuches zu versehen, wonach mit Busse bestraft wird, wer einer an ihn erlassenen Verfügung nicht Folge leistet. <sup>15)</sup>
+<sup>5</sup> Abgelehnte Gesuche um Schulabsenzen sind mit einem Hinweis auf Art. 292 des Strafgesetzbuches zu versehen, wonach mit Busse bestraft wird, wer einer an ihn erlassenen Verfügung nicht Folge leistet.
 
 #### § 14a
 
-<sup>11)</sup>
-
 **Jokertage**
 
-<sup>1</sup> Auf schriftliche Anmeldung der Erziehungsberechtigten hin hat jedes Kind, ohne Begründung, Anspruch auf zwanzig freie Halbtage im ersten Jahr des Kindergartens, zehn freie Halbtage im zweiten Jahr des Kindergartens sowie vier freie Halbtage pro Schuljahr in der Primar- und Orientierungsschule. Die Beanspruchung dieser Jokertage ist der Kindergärtnerin bzw. dem Klassenlehrer spätestens drei Schultage vor Antritt der freien Tage oder Halbtage zu melden. <sup>20)</sup>
+<sup>1</sup> Auf schriftliche Anmeldung der Erziehungsberechtigten hin hat jedes Kind, ohne Begründung, Anspruch auf zwanzig freie Halbtage im ersten Jahr des Kindergartens, zehn freie Halbtage im zweiten Jahr des Kindergartens sowie vier freie Halbtage pro Schuljahr in der Primar- und Orientierungsschule. Die Beanspruchung dieser Jokertage ist der Kindergärtnerin bzw. dem Klassenlehrer spätestens drei Schultage vor Antritt der freien Tage oder Halbtage zu melden.
 
 <sup>2</sup> Während Schulanlässen gemäss Semester- oder Jahresprogramm der Schule können keine Jokertage eingesetzt werden.
 
@@ -211,8 +189,6 @@ Die Erziehungsberechtigten sind für den regelmässigen Schulbesuch der Kinder v
 
 #### § 16
 
-<sup>18)</sup>
-
 **Dispensationen**
 
 <sup>1</sup> Über die Dispensation eines Schülers vom gesamten Unterricht befindet die Schulbehörde bzw. Schulleitung auf Gesuch hin bei Vorliegen eines ärztlichen Zeugnisses oder anderer stichhaltiger Gründe.
@@ -221,23 +197,27 @@ Die Erziehungsberechtigten sind für den regelmässigen Schulbesuch der Kinder v
 
 <sup>3</sup> Über die Dispensation eines Schülers von einzelnen Lektionen oder Fächern im Zusammenhang mit einer Entlastung für Leistungssportler befindet die Schulbehörde bzw. Schulleitung auf Gesuch hin nach Abklärung und auf Antrag des Turninspektorates.
 
+<sup>4</sup> Schülerinnen und Schüler, die am Förderprogramm «Junge Talente Musik» teilnehmen, haben nach Rücksprache mit der Schulbehörde bzw. Schulleitung Anrecht auf
+
+- a) wiederkehrende Dispensationen im Umfang von zwei Wochenlektionen;
+- b) partielle Dispensationen insbesondere für Konzerte, Projekte, Wettbewerbe oder individuelles Üben für wichtige Vorspiele.
+
 #### § 17
 
 **Massnahmen gegen Schüler**
 
-Liegt der Grund für eine unentschuldigte Absenz beim Schüler, so ist nach § 7 und 8 vorzugehen.
+<sup>1</sup> Liegt der Grund für eine unentschuldigte Absenz beim Schüler, so ist nach § 7 und 8 vorzugehen.
 
 #### § 18
 
 **Massnahmen gegen Erziehungsberechtigte**
 
-<sup>14)</sup>
+<sup>1</sup> Für Erziehungsberechtigte, die für unentschuldigte Absenzen von Schülern ein Verschulden oder Mitverschulden tragen, oder die unentschuldigt nicht an angeordneten Gesprächen oder Elternveranstaltungen teilnehmen, kann die Schulbehörde bzw. Schulleitung je nach den Umständen und der Schwere des Verschuldens eine der folgenden Massnahmen treffen:
 
-<sup>1</sup> Für Erziehungsberechtigte, die für unentschuldigte Absenzen von Schülern ein Verschulden oder Mitverschulden tragen, oder die unentschuldigt nicht an angeordneten Gesprächen oder Elternveranstaltungen teilnehmen, kann die Schulbehörde bzw. Schulleitung je nach den Umständen und der Schwere des Verschuldens eine der folgenden Massnahmen treffen: <sup>18)</sup> a) Ordnungsbusse von Fr. 50.-- für jeden unentschuldigten Schulhalbtag und jedes unentschuldigte Nichterscheinen zu obligatorischen Gesprächen oder obligatorischen Elternveranstaltungen;
+- a) Ordnungsbusse von Fr. 50.00 für jeden unentschuldigten Schulhalbtag und jedes unentschuldigte Nichterscheinen zu obligatorischen Gesprächen oder obligatorischen Elternveranstaltungen
+- b) …
 
-- b) … <sup>16)</sup>
-
-<sup>2</sup> Eine Busse ist spätestens ab dem zehnten aufeinanderfolgenden unentschuldigten Schulhalbtag auszufällen; die Schulbehörde bzw. Schulleitung erlässt die Bussenverfügung sofort und versieht diese mit einem Hinweis auf Art. 292 des Strafgesetzbuches, wonach mit Busse bestraft wird, wer einer an ihn erlassenen Verfügung auch nach erfolgter Zustellung nicht Folge leistet. <sup>18)</sup>
+<sup>2</sup> Eine Busse ist spätestens ab dem zehnten aufeinanderfolgenden unentschuldigten Schulhalbtag auszufällen; die Schulbehörde bzw. Schulleitung erlässt die Bussenverfügung sofort und versieht diese mit einem Hinweis auf Art. 292 des Strafgesetzbuches, wonach mit Busse bestraft wird, wer einer an ihn erlassenen Verfügung auch nach erfolgter Zustellung nicht Folge leistet.
 
 <sup>3</sup> Verfügungen, welche mit einem Hinweis auf Art. 292 des Strafgesetzbuches versehen werden, gelten als schwere Fälle im Sinne von Art. 25 Abs. 3 des Schulgesetzes.
 
@@ -253,7 +233,7 @@ Liegt der Grund für eine unentschuldigte Absenz beim Schüler, so ist nach § 7
 
 **Ausführungsbestimmungen**
 
-<sup>1</sup> Die Schulbehörden bzw. Schulleitungen haben im Rahmen der Bestimmungen dieser Schulordnung für ihre Schulhäuser Schulhausordnungen zu erlassen. <sup>18)</sup> Darin sind insbesondere die notwendigen Bestimmungen betreffend die geordnete Benützung der Schulräumlichkeiten und Aussenanlagen sowie den Schutz der Benützer (feuerpolizeiliche Anweisungen usw.) zu regeln.
+<sup>1</sup> Die Schulbehörden bzw. Schulleitungen haben im Rahmen der Bestimmungen dieser Schulordnung für ihre Schulhäuser Schulhausordnungen zu erlassen. Darin sind insbesondere die notwendigen Bestimmungen betreffend die geordnete Benützung der Schulräumlichkeiten und Aussenanlagen sowie den Schutz der Benützer (feuerpolizeiliche Anweisungen usw.) zu regeln.
 
 <sup>2</sup> Der Unterhalt und die ausserschulische Benützung der Schulräumlichkeiten und Aussenanlagen werden von den Gemeindebehörden geregelt.
 
@@ -261,40 +241,19 @@ Liegt der Grund für eine unentschuldigte Absenz beim Schüler, so ist nach § 7
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Verordnung tritt auf Beginn des Schuljahres 1988/89 in Kraft. Sie ist im Amtsblatt zu veröffentlichen <sup>2)</sup> und in die kantonale Gesetzessammlung aufzunehmen.
+<sup>1</sup> Diese Verordnung tritt auf Beginn des Schuljahres 1988/89 in Kraft. Sie ist im Amtsblatt zu veröffentlichen[^21-1] und in die kantonale Gesetzessammlung aufzunehmen.
 
 <sup>2</sup> Mit dem Inkrafttreten dieser Verordnung werden aufgehoben:
 
-- a) die Schulordnung für die Elementar-, Real- und obligatorischen Fortbildungsschulen des Kantons Schaffhausen vom 4. März 1976;
+- a) die Schulordnung für die Elementar-, Real- und obligatorischen Fortbildungsschulen des Kantons Schaffhausen vom 4. März 1976
+- b) die Verordnung des Erziehungsrates vom 16. Oktober 1978 über das Verhalten der Schüler ausserhalb der Schule
 
-- b) die Verordnung des Erziehungsrates vom 16. Oktober 1978 über das Verhalten der Schüler ausserhalb der Schule.
+[^21-1]: Amtsblatt 1988, S. 291.
 
-Fussnoten:
+#### § T1
 
-- 1) SHR 410.100.
+**Übergangsbestimmung zur Änderung vom 7. Mai 2003 (§ 13 Abs. 2)**
 
-- 2) Amtsblatt 1988, S. 291.
+<sup>1</sup> § 13 Abs. 2 der Schulordnung bleibt weiterhin anwendbar für Schülerinnen und Schüler, welche im Sommer des Jahres 2003 eine 2. oder höhere Klasse der Orientierungsschule beginnen.
 
-- 3) Aufgehoben durch ERB vom 5. Juli 2000, in Kraft getreten am 1. August 2000 (Amtsblatt 2000, S. 946).
-
-- 4) Fassung gemäss ERB vom 5. Juli 2000, in Kraft getreten am 1. August 2000 (Amtsblatt 2000, S. 946).
-
-- 6) Eingefügt durch ERB vom 24. April 2002, in Kraft getreten am 1. August 2002 (Amtsblatt 2002, S. 671).
-
-- 8) Aufgehoben durch ERB vom 7. Mai 2003, in Kraft getreten am 1. August 2003 (Amtsblatt 2003, S. 757). § 13 Abs. 2 bleibt weiterhin anwendbar für Schülerinnen und Schüler, welche im Sommer des Jahres 2003 eine 2. oder höhere Klasse der Orientierungsschule beginnen.
-
-- 9) Fassung gemäss ERB vom 9. November 2005, in Kraft getreten am 1. Dezember 2005 (Amtsblatt 2005, S. 1563).
-
-- 10) Aufgehoben durch ERB vom 9. November 2005, in Kraft getreten am 1. Dezember 2005 (Amtsblatt 2005, S. 1563).
-
-- 11) Eingefügt durch ERB vom 9. November 2005, in Kraft getreten am 1. Dezember 2005 (Amtsblatt 2005, S. 1563).
-
-- 14) Fassung gemäss ERB vom 25. Juni 2014, in Kraft getreten am 1. August 2014 (Amtsblatt 2014, S. 966).
-
-- 15) Eingefügt durch ERB vom 25. Juni 2014, in Kraft getreten am 1. August 2014 (Amtsblatt 2014, S. 966).
-
-- 18) Fassung gemäss ERB vom 24. Mai 2017, in Kraft getreten am 1. August 2017 (Amtsblatt 2017, S. 1003).
-
-- 19) Fassung gemäss ERB vom 27. Juni 2018, in Kraft getreten am 1. August 2018 (Amtsblatt 2018, S. 1152).
-
-- 20) Fassung gemäss ERB vom 14. Dezember 2022, in Kraft getreten am 1. August 2023 (Amtsblatt 2022, S. 2378).
+Abl. 1988, S. 291
