@@ -4,13 +4,13 @@ number: "435.111.1"
 title: "Ordonnance de Direction sur la formation professionnelle, la formation continue et l'orientation professionnelle"
 short: ODFOP
 language: fr
-version: 2024-08-01
-valid_until: 2025-07-31
-version_adopted: 2024-05-22
+version: 2025-08-01
+valid_until: 2026-01-31
+version_adopted: 2025-06-12
 adopted: 2006-04-06
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/435.111.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3038/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3202/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3038/pdf_file"
 
 (ODFOP)
 
-du 06.04.2006 (état au 01.08.2024)
+du 06.04.2006 (état au 01.08.2025)
 
 La Direction de l’instruction publique du canton de Berne,
 
@@ -436,7 +436,7 @@ arrête:
 
 **Offre**
 
-<sup>1</sup> Les écoles professionnelles peuvent proposer un cours CGE pendant la formation professionnelle initiale. Aucun cours CGE n'est proposé pour la formation professionnelle initiale menant au certificat fédéral de capacité (CFC) d'employé de commerce/employée de commerce (profil E).
+<sup>1</sup> Les écoles professionnelles peuvent proposer un cours CGE pendant la formation professionnelle initiale. Il n'est pas proposé de cours CGE pour la formation professionnelle initiale d'employée de commerce/employé de commerce CFC.
 
 <sup>2</sup> Dans la première et la deuxième langues nationales, en anglais et en mathématiques, l'enseignement est basé sur le programme scolaire du plan d'études pour le degré secondaire I correspondant au niveau «Sekundarschule» pour la partie germanophone du canton ou au niveau B pour la partie francophone du canton.
 
@@ -704,27 +704,13 @@ arrête:
 
 <sup>1</sup> …
 
-<sup>1a</sup> L'examen d'admission porte sur les disciplines suivantes et la durée des épreuves est fixée comme suit:
+<sup>1a</sup> L'examen d'admission est régi par les articles 37 à 42. Les dispositions régissant l'admission à la MP orientation Economie et services, type «économie», s'appliquent.
 
-<table>
-<tr><th>Discipline</th><th>Durée de l'examen écrit</th><th>Durée de l'examen oral</th></tr>
-<tr><td>Première langue nationale</td><td>75 minutes</td><td>-</td></tr>
-<tr><td>Deuxième langue nationale</td><td>45 minutes</td><td>5 minutes</td></tr>
-<tr><td>Anglais</td><td>45 minutes</td><td>-</td></tr>
-<tr><td>Mathématiques</td><td>75 minutes</td><td>-</td></tr>
-</table>
-
-<sup>1b</sup> La note attribuée pour la deuxième langue nationale correspond à la moyenne des évaluations obtenues à l'examen écrit et à l'examen oral. Les deux examens ont la même pondération.
-
-<sup>2</sup> L'examen d'admission est réussi si la moyenne de toutes les notes d'examen s'élève au moins à 4,0.
-
-<sup>3</sup> La pondération des notes est régie par les dispositions relatives à l'admission en MP orientation Economie et services, type «économie».
+<sup>1b–3</sup> …
 
 #### Art. 33o
 
-**Programmes d’examen**
-
-<sup>1</sup> Les programmes concernant l’examen d’admission et l’examen d’aptitude se fondent sur le niveau Sekundarschule du plan d’études pour le degré secondaire I et sont publiés au début de l’année scolaire dans la Feuille officielle scolaire.
+**…**
 
 #### Art. 33p
 
@@ -817,7 +803,7 @@ arrête:
 
 <sup>4</sup> L'admission à la MP orientation Arts visuels et arts appliqués suppose la réussite d'un examen d'aptitude.
 
-<sup>5</sup> Les personnes qui effectuent un second apprentissage peuvent être admises sans examen en MP 1 lorsqu'elles remplissent les conditions pour une admission sans examen à la MP 2 fixées à l'article 46.
+<sup>5</sup> Les personnes qui effectuent un second apprentissage peuvent être admises sans examen en MP 1 lorsqu'elles remplissent les conditions pour une admission sans examen à la MP 2 fixées aux articles 46 et 46a.
 
 #### Art. 35a
 
@@ -860,7 +846,7 @@ arrête:
 
 **Admission sans examen pour les élèves issus d’écoles privées**
 
-<sup>1</sup> L’organe compétent d’une école privée peut recommander des élèves pour l’admission sans examen à une EMP, si les conditions énoncées à l’article 35 sont remplies.
+<sup>1</sup> L’organe compétent d’une école privée peut recommander des élèves pour l’admission sans examen à une EMP, si les conditions énoncées à l’article 35, 35a ou 35b sont remplies.
 
 <sup>2</sup> Au moment de l’évaluation, l’élève doit avoir fréquenté l’école privée concernée pendant au moins les trois derniers semestres.
 
@@ -951,6 +937,8 @@ arrête:
 
 <sup>2</sup> Les candidats et les candidates domiciliés en dehors du canton et qui, dans leur canton de résidence, remplissent les conditions d'admission en MP sont admis sans examen.
 
+<sup>3</sup> Les candidats et les candidates domiciliés dans le canton de Berne qui fréquentent un établissement public de la scolarité obligatoire dans un autre canton et qui remplissent les conditions d'admission en MP dans ce canton sont admis dans le canton de Berne sans examen. Si le canton de Berne prévoit des examens d'aptitude, l'admission requiert aussi le passage et la réussite de ceux-ci.
+
 #### Art. 45
 
 **Admission**
@@ -972,15 +960,39 @@ arrête:
 
 #### Art. 46
 
-**Admission sans examen**
+**Admission sans examen 1. MP 2 orientation Economie et services, type «économie»**
 
-<sup>1</sup> Est admis sans examen en MP orientation Economie et services, type «économie» quiconque obtient une moyenne d'au moins 4,8 au cinquième semestre de la formation professionnelle initiale menant au CFC d'employé de commerce/employée de commerce (profil E) en tenant compte des branches suivantes: allemand, français, anglais et économie et société (compte double). La note du quatrième semestre compte si une langue n'est plus enseignée au cinquième semestre.
+<sup>1</sup> Est admis sans examen en MP 2 orientation Economie et services, type «économie» quiconque termine la formation professionnelle initiale d'employée de commerce/employé de commerce CFC avec succès et obtient une moyenne d'au moins 5,0 aux notes semestrielles.
 
-<sup>2</sup> Est admis sans examen en MP 2 d'une autre orientation quiconque possède une attestation de cours CGE ou remplit les conditions énoncées à l'alinéa 1. L'examen d'aptitude pour la MP orientation Arts visuels et arts appliqués est réservé.
+<sup>2</sup> Sont déterminantes
 
-<sup>3</sup> L'admission sans examen en MP 2 est possible dans les trois ans suivant l'obtention de l'autorisation correspondante.
+- a toutes les notes semestrielles obtenues dans les domaines de compétences opérationnelles, dans l'option et dans le domaine à choix durant la formation professionnelle initiale CFC ou
+- b toutes les notes semestrielles obtenues dans les domaines de compétences opérationnelles, dans l'option et dans le domaine à choix, pour autant qu'elles soient connues au 15 février.
 
-<sup>4</sup> Pour les groupes de professions apparentés, la direction d'école statue par voie de décision sur l'admission sans examen et sur les branches à examiner.
+<sup>3</sup> L'admission conformément à l'alinéa 1 et à l'alinéa 2, lettre a est valable pour un délai de trois ans à compter de la fin de la formation professionnelle initiale sanctionnée par un CFC.
+
+<sup>4</sup> L'admission conformément à l'alinéa 1 et à l'alinéa 2, lettre b n'est valable que pour la prochaine date d'admission possible.
+
+#### Art. 46a
+
+**2. Autres orientations de la MP 2**
+
+<sup>1</sup> Est admis sans examen en MP 2 d'une autre orientation quiconque
+
+- a termine avec succès la formation professionnelle initiale sanctionnée par un CFC et possède une attestation de cours CGE ou
+- b remplit les conditions d'admission définies à l'article 46.
+
+<sup>2</sup> Pour l'admission en MP 2 orientation Arts visuels et arts appliqués, le passage d'un examen d’aptitude est réservé.
+
+<sup>3</sup> L'admission conformément à l'alinéa 1, lettre a est valable pour un délai de trois ans à compter de la fin de la formation professionnelle initiale sanctionnée par un CFC.
+
+<sup>4</sup> La durée de validité d'une admission conformément à l'alinéa 1, lettre b est régie par l'article 46.
+
+#### Art. 46b
+
+**Inscription à l'examen d'admission**
+
+<sup>1</sup> Les personnes qui ne peuvent pas être admises sans examen peuvent s'inscrire à l'examen d'admission.
 
 #### Art. 47
 
@@ -991,20 +1003,22 @@ arrête:
 <sup>2</sup> L'admission en MP 2 suppose la réussite d'un examen d'admission dans les branches suivantes, avec la pondération suivante:
 
 <table>
-<tr><th>Orientation de MP</th><th>1<sup>re</sup> langue nationale</th><th>2<sup>e</sup> langue nationale</th><th>Anglais</th><th>Mathématiques</th><th>Economie et société</th></tr>
-<tr><td>Technique, architecture et sciences de la vie</td><td>1</td><td>1</td><td>1</td><td>3</td><td>–</td></tr>
-<tr><td>Nature, paysage et alimentation</td><td>1</td><td>1</td><td>1</td><td>2</td><td>–</td></tr>
-<tr><td>Economie et services, type économie</td><td>1</td><td>1</td><td>1</td><td>–</td><td>2</td></tr>
-<tr><td>Economie et services, type services</td><td>1</td><td>1</td><td>1</td><td>2</td><td>–</td></tr>
-<tr><td>Arts visuels et arts appliqués</td><td>1</td><td>1</td><td>1</td><td>2</td><td>–</td></tr>
-<tr><td>Santé et social</td><td>1</td><td>1</td><td>1</td><td>2</td><td>–</td></tr>
+<tr><th>Orientation de MP</th><th>1<sup>re</sup> langue nationale</th><th>2<sup>e</sup> langue nationale</th><th>Anglais</th><th>Mathématiques</th></tr>
+<tr><td>Technique, architecture et sciences de la vie</td><td>1</td><td>1</td><td>1</td><td>3</td></tr>
+<tr><td>Nature, paysage et alimentation</td><td>1</td><td>1</td><td>1</td><td>2</td></tr>
+<tr><td>Economie et services, type économie</td><td>1</td><td>1</td><td>1</td><td>2</td></tr>
+<tr><td>Economie et services, type services</td><td>1</td><td>1</td><td>1</td><td>2</td></tr>
+<tr><td>Arts visuels et arts appliqués</td><td>1</td><td>1</td><td>1</td><td>2</td></tr>
+<tr><td>Santé et social</td><td>1</td><td>1</td><td>1</td><td>2</td></tr>
 </table>
 
-<sup>3</sup> L’examen d’admission est régi par l’article 42.
+<sup>3</sup> La réussite à l’examen d’admission est régie par l’article 42.
+
+<sup>3a</sup> Le résultat de l'examen d'admission permet à la candidate ou au candidat d'être admis dans les deux années qui suivent.
 
 <sup>4</sup> Les candidates et les candidates qui ne résident pas en Suisse depuis plus de dix ans et qui n’ont pas commencé à suivre l’enseignement dans la deuxième langue nationale avant la première année du degré secondaire I peuvent être dispensés de l’examen d’admission en deuxième langue nationale.
 
-<sup>5</sup> Le programme d’examen se fonde sur l’article 38. Pour la MP orientation Economie et services, type «économie», il se fonde sur les compétences requises pour valider la formation initiale d’employé de commerce/employée de commerce (profil E).
+<sup>5</sup> Le programme d’examen est régi par l’article 38.
 
 #### Art. 47a
 

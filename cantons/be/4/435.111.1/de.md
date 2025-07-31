@@ -4,13 +4,13 @@ number: "435.111.1"
 title: "Direktionsverordnung über die Berufsbildung, die Weiterbildung und die Berufsberatung"
 short: BerDV
 language: de
-version: 2024-08-01
-valid_until: 2025-07-31
-version_adopted: 2024-05-22
+version: 2025-08-01
+valid_until: 2026-01-31
+version_adopted: 2025-06-12
 adopted: 2006-04-06
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/435.111.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3038/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3202/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3038/pdf_file"
 
 (BerDV)
 
-vom 06.04.2006 (Stand 01.08.2024)
+vom 06.04.2006 (Stand 01.08.2025)
 
 Die Erziehungsdirektion des Kantons Bern,
 
@@ -436,7 +436,7 @@ beschliesst:
 
 **Angebot**
 
-<sup>1</sup> Die Berufsfachschulen können während der Grundbildung EA-Kurse anbieten. In der Grundbildung zum EFZ Kaufleute (E-Profil) gibt es keine EA-Kurse.
+<sup>1</sup> Die Berufsfachschulen können während der Grundbildung EA-Kurse anbieten. In der Grundbildung Kauffrau/Kaufmann EFZ gibt es keine EA-Kurse.
 
 <sup>2</sup> In den Fächern erste und zweite Landessprache, Englisch und Mathematik wird der Stoff des Lehrplans für die Sekundarstufe I auf Sekundarschulniveau im deutschsprachigen Kantonsteil bzw. Niveau B im französischsprachigen Kantonsteil unterrichtet.
 
@@ -704,27 +704,13 @@ beschliesst:
 
 <sup>1</sup> …
 
-<sup>1a</sup> Die Aufnahmeprüfung umfasst folgende Fächer über die folgende Dauer:
+<sup>1a</sup> Die Aufnahmeprüfung richtet sich nach Artikel 37 bis 42. Es gelten die Regelungen für die Aufnahme in die BM-Ausrichtung Wirtschaft und Dienstleistungen, Typ Wirtschaft.
 
-<table>
-<tr><th>Fach</th><th>Prüfungsdauer schriftlich</th><th>Prüfungsdauer mündlich</th></tr>
-<tr><td>Erste Landessprache</td><td>75 Minuten</td><td>-</td></tr>
-<tr><td>Zweite Landessprache</td><td>45 Minuten</td><td>5 Minuten</td></tr>
-<tr><td>Englisch</td><td>45 Minuten</td><td>-</td></tr>
-<tr><td>Mathematik</td><td>75 Minuten</td><td>-</td></tr>
-</table>
-
-<sup>1b</sup> Die Note in der zweiten Landessprache entspricht dem Durchschnitt der Bewertungen der schriftlichen und mündlichen Prüfung. Die beiden Prüfungsteile werden gleich gewichtet.
-
-<sup>2</sup> Die Aufnahmeprüfung ist bestanden, wenn der Durchschnitt aller Prüfungsnoten mindestens 4,0 beträgt.
-
-<sup>3</sup> Die Notengewichtung richtet sich nach den Bestimmungen für die Aufnahme in die BM-Ausrichtung Wirtschaft und Dienstleistungen, Typ Wirtschaft.
+<sup>1b–3</sup> …
 
 #### Art. 33o
 
-**Prüfungsstoff**
-
-<sup>1</sup> Der Prüfungsstoff für die Aufnahme- und die Eignungsprüfung richtet sich nach dem Sekundarschulniveau des Lehrplans für die Sekundarstufe I. Er wird zu Beginn des Schuljahres im Amtlichen Schulblatt bekannt gegeben.
+**…**
 
 #### Art. 33p
 
@@ -817,7 +803,7 @@ beschliesst:
 
 <sup>4</sup> Für die Aufnahme in die BM-Ausrichtung Gestaltung und Kunst muss eine Eignungsprüfung bestanden werden.
 
-<sup>5</sup> Wer eine Zweitlehre absolviert, kann prüfungsfrei in eine BM 1 aufgenommen werden, wenn die Voraussetzungen für eine prüfungsfreie Aufnahme in eine BM 2 nach Artikel 46 erfüllt sind.
+<sup>5</sup> Wer eine Zweitlehre absolviert, kann prüfungsfrei in eine BM 1 aufgenommen werden, wenn die Voraussetzungen für eine prüfungsfreie Aufnahme in eine BM 2 nach Artikel 46 und 46a erfüllt sind.
 
 #### Art. 35a
 
@@ -951,6 +937,8 @@ beschliesst:
 
 <sup>2</sup> Kandidatinnen und Kandidaten mit ausserkantonalem Wohnsitz, die in ihrem Wohnsitzkanton die Zulassungsbedingungen für einen Eintritt in eine BM erfüllen, werden ohne Prüfung aufgenommen.
 
+<sup>3</sup> Kandidatinnen und Kandidaten mit Wohnsitz im Kanton Bern, die in einem anderen Kanton eine öffentliche Volksschule besuchen und in diesem Kanton die Zulassungsbedingungen für einen Eintritt in eine BM erfüllen, werden im Kanton Bern ohne Prüfung aufgenommen. Sieht der Kanton Bern Eignungsprüfungen vor, müssen diese zusätzlich abgelegt und bestanden werden.
+
 #### Art. 45
 
 **Aufnahme**
@@ -972,15 +960,39 @@ beschliesst:
 
 #### Art. 46
 
-**Prüfungsfreie Aufnahme**
+**Prüfungsfreie Aufnahme 1. BM 2-Ausrichtung Wirtschaft und Dienstleistungen, Typ Wirtschaft**
 
-<sup>1</sup> In eine BM-Ausrichtung Wirtschaft und Dienstleistungen, Typ Wirtschaft, wird prüfungsfrei aufgenommen, wer im fünften Semester der Grundbildung zum EFZ Kaufleute (E-Profil) in den Fächern Deutsch, Französisch, Englisch sowie Wirtschaft und Gesellschaft (zählt doppelt) einen Durchschnitt von mindestens 4,8 aufweist. Wird eine Sprache im fünften Semester nicht mehr unterrichtet, so zählt die Note des vierten Semesters.
+<sup>1</sup> In eine BM 2-Ausrichtung Wirtschaft und Dienstleistungen, Typ Wirtschaft, wird prüfungsfrei aufgenommen, wer die Grundbildung Kauffrau/Kaufmann EFZ erfolgreich abschliesst und einen Durchschnitt der Semesternoten von mindestens 5,0 aufweist.
 
-<sup>2</sup> In eine BM 2 der übrigen Typen wird prüfungsfrei aufgenommen, wer ein EA-Zertifikat besitzt oder die Bedingungen gemäss Absatz 1 erfüllt. Vorbehalten bleibt die Eignungsprüfung für die BM-Ausrichtung Gestaltung und Kunst.
+<sup>2</sup> Massgebend sind
 
-<sup>3</sup> Die prüfungsfreie Aufnahme ist innerhalb von drei Jahren ab Erwerb der Berechtigung zum prüfungsfreien Eintritt möglich.
+- a alle Semesternoten der Handlungskompetenzbereiche, der Option und des Wahlpflichtbereichs während der beruflichen Grundbildung EFZ oder
+- b alle Semesternoten der Handlungskompetenzbereiche, der Option und des Wahlpflichtbereichs, soweit sie bis am 15. Februar vorhanden sind.
 
-<sup>4</sup> Die Schulleitung entscheidet bei verwandten Berufsgruppen mit Verfügung über die prüfungsfreie Aufnahme und die zu prüfenden Fächer.
+<sup>3</sup> Die Aufnahme gemäss Absatz 1 und Absatz 2 Buchstabe a gilt für einen Aufnahmezeitpunkt innerhalb von drei Jahren nach dem Abschluss der Grundbildung EFZ.
+
+<sup>4</sup> Die Aufnahme gemäss Absatz 1 und Absatz 2 Buchstabe b gilt nur für den nächstmöglichen Aufnahmezeitpunkt.
+
+#### Art. 46a
+
+**2. BM 2 übrige Ausrichtungen**
+
+<sup>1</sup> In eine BM 2 der übrigen Ausrichtungen wird prüfungsfrei aufgenommen, wer
+
+- a die berufliche Grundbildung erfolgreich mit einem EFZ abschliesst und ein EA-Zertifikat besitzt oder
+- b die Aufnahmebedingungen gemäss Artikel 46 erfüllt.
+
+<sup>2</sup> Für die Aufnahme in eine BM 2-Ausrichtung Gestaltung und Kunst bleibt die Eignungsprüfung vorbehalten.
+
+<sup>3</sup> Die Aufnahme gemäss Absatz 1 Buchstabe a gilt für einen Aufnahmezeitpunkt innerhalb von drei Jahren nach dem Abschluss der Grundbildung EFZ.
+
+<sup>4</sup> Die Geltungsdauer einer Aufnahme gemäss Absatz 1 Buchstabe b richtet sich nach Artikel 46.
+
+#### Art. 46b
+
+**Anmeldung Aufnahmeprüfung**
+
+<sup>1</sup> Wer nicht prüfungsfrei aufgenommen werden kann, kann sich zur Aufnahmeprüfung anmelden.
 
 #### Art. 47
 
@@ -991,20 +1003,22 @@ beschliesst:
 <sup>2</sup> Die Aufnahme in eine BM 2 erfolgt mit einer Aufnahmeprüfung in den folgenden Fächern und mit folgender Gewichtung:
 
 <table>
-<tr><th>BM-Ausrichtung</th><th>1. Landessprache</th><th>2. Landessprache</th><th>Englisch</th><th>Mathematik</th><th>Wirtschaft und Gesellschaft</th></tr>
-<tr><td>Technik, Architektur, Life Sciences</td><td>1</td><td>1</td><td>1</td><td>3</td><td>–</td></tr>
-<tr><td>Natur, Landschaft und Lebensmittel</td><td>1</td><td>1</td><td>1</td><td>2</td><td>–</td></tr>
-<tr><td>Wirtschaft und Dienstleistungen Typ Wirtschaft</td><td>1</td><td>1</td><td>1</td><td>–</td><td>2</td></tr>
-<tr><td>Wirtschaft und Dienstleistungen Typ Dienstleistungen</td><td>1</td><td>1</td><td>1</td><td>2</td><td>–</td></tr>
-<tr><td>Gestaltung und Kunst</td><td>1</td><td>1</td><td>1</td><td>2</td><td>–</td></tr>
-<tr><td>Gesundheit und Soziales</td><td>1</td><td>1</td><td>1</td><td>2</td><td>–</td></tr>
+<tr><th>BM-Ausrichtung</th><th>1. Landessprache</th><th>2. Landessprache</th><th>Englisch</th><th>Mathematik</th></tr>
+<tr><td>Technik, Architektur, Life Sciences</td><td>1</td><td>1</td><td>1</td><td>3</td></tr>
+<tr><td>Natur, Landschaft und Lebensmittel</td><td>1</td><td>1</td><td>1</td><td>2</td></tr>
+<tr><td>Wirtschaft und Dienstleistungen Typ Wirtschaft</td><td>1</td><td>1</td><td>1</td><td>2</td></tr>
+<tr><td>Wirtschaft und Dienstleistungen Typ Dienstleistungen</td><td>1</td><td>1</td><td>1</td><td>2</td></tr>
+<tr><td>Gestaltung und Kunst</td><td>1</td><td>1</td><td>1</td><td>2</td></tr>
+<tr><td>Gesundheit und Soziales</td><td>1</td><td>1</td><td>1</td><td>2</td></tr>
 </table>
 
-<sup>3</sup> Für die Aufnahmeprüfung gilt Artikel 42.
+<sup>3</sup> Das Bestehen der Aufnahmeprüfung richtet sich nach Artikel 42.
+
+<sup>3a</sup> Das Ergebnis der Aufnahmeprüfung gilt für eine Aufnahme in den folgenden zwei Jahren.
 
 <sup>4</sup> Kandidatinnen und Kandidaten, die nicht länger als zehn Jahre in der Schweiz leben und den Unterricht in der zweiten Landessprache nicht vor dem ersten Schuljahr der Sekundarstufe I besucht haben, können von der Aufnahmeprüfung in der zweiten Landessprache dispensiert werden.
 
-<sup>5</sup> Für den Prüfungsstoff gilt grundsätzlich Artikel 38. Bei der BM-Ausrichtung Wirtschaft und Dienstleistungen, Typ Wirtschaft, richtet sich der Prüfungsstoff nach den Kompetenzen, die für den Abschluss in der Grundbildung zum EFZ Kaufleute (E-Profil) erforderlich sind.
+<sup>5</sup> Für den Prüfungsstoff gilt grundsätzlich Artikel 38.
 
 #### Art. 47a
 
