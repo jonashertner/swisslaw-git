@@ -3,13 +3,12 @@ canton: FR
 number: "122.72.21"
 title: "Ordonnance relative à la classification des fonctions du personnel de l'Etat"
 language: fr
-version: 2024-12-01
-valid_until: 2025-07-31
-version_adopted: 2024-12-10
+version: 2025-08-01
+version_adopted: 2025-06-17
 adopted: 2022-11-29
 in_force: 2023-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.72.21"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8095/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8300/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/8095/pdf_file"
 
 Personnel de l'Etat, classification des fonctions – O
 
-du 29.11.2022 (version entrée en vigueur le 01.12.2024)
+du 29.11.2022 (version entrée en vigueur le 01.08.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -80,7 +79,9 @@ Arrête:
 
 **Modification de la classification**
 
-<sup>1</sup> Les modifications de la classification telle qu'elle résulte du tableau de classification et des directives adoptées par le Conseil d'Etat sont soumises à la procédure prévue par le RECF.
+<sup>1</sup> Les modifications de la classification telle qu'elle résulte du tableau de classification et des directives adoptées par le Conseil d'Etat sont soumises à la procédure prévue par le RECF[^7-1].
+
+[^7-1]: RSF [122.72.22](https://bdlf.fr.ch/data/122.72.22/fr)
 
 ## A1 ANNEXE 1 – Classification des fonctions: explications préliminaires
 
@@ -111,7 +112,7 @@ Arrête:
   - 3 30 Ecoles professionnelles (EP)
   - 3 35 Ecoles supérieures (ES)
   - 3 40 Hautes écoles spécialisées (HEG-FR, HETS-FR, HEIA-FR, HEdS-FR)
-  - 3 45 Haute Ecole pédagogique Fribourg (HEP-PH FR)
+  - 3 45 …
   - 3 50 Ecoles du degré secondaire supérieur (DSS)
   - 3 60 Consultant/e/s – Inspectorat scolaire
   - 3 70 Conservatoire de Fribourg (COF)
@@ -182,10 +183,6 @@ Arrête:
 **HEG-FR** Haute Ecole de gestion Fribourg
 
 **HEIA-FR** Haute Ecole d'ingénierie et d'architecture Fribourg
-
-**HEP** Haute Ecole pédagogique
-
-**HEP-PH FR** Haute Ecole pédagogique Fribourg
 
 **HES** Hautes écoles spécialisées
 
@@ -564,21 +561,11 @@ Arrête:
 
 [^A218-1]: Voir le règlement de la HES-SO//FR sur l'accès à la fonction de professeur‑e HES ordinaire pour le corps professoral de la Haute Ecole spécialisée de Suisse occidentale//Fribourg (HES-SO//FR).
 
-### 3 45 Haute Ecole pédagogique Fribourg (HEP-PH FR)
+### 3 45
 
 #### Art. A2-19
 
-<sup>1</sup> La classification des fonctions du personnel de l'Etat du domaine «Enseignement» est la suivante pour le sous-domaine «Haute Ecole pédagogique Fribourg (HEP-PH FR)»:
-
-<table>
-<tr><th>Codes</th><th>Fonctions</th><th>Classes</th><th>Statut</th></tr>
-<tr><td>3 45 080</td><td>Doyen/ne HEP</td><td>28–29</td><td></td></tr>
-<tr><td>3 45 110</td><td>Chargé/e de cours HEP</td><td>23–25</td><td></td></tr>
-<tr><td>3 45 130</td><td>Maître/sse d'enseignement HEP</td><td>25</td><td></td></tr>
-<tr><td>3 45 150</td><td>Professeur/e HEP assistant/e</td><td>25</td><td></td></tr>
-<tr><td>3 45 170</td><td>Professeur/e HEP associé/e</td><td>26–27</td><td></td></tr>
-<tr><td>3 45 190</td><td>Professeur/e HEP ordinaire</td><td>28</td><td></td></tr>
-</table>
+**…**
 
 ### 3 50 Ecoles du degré secondaire supérieur (DSS)
 

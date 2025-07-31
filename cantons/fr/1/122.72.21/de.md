@@ -3,13 +3,12 @@ canton: FR
 number: "122.72.21"
 title: Verordnung über die Einreihung der Funktionen des Staatspersonals
 language: de
-version: 2024-12-01
-valid_until: 2025-07-31
-version_adopted: 2024-12-10
+version: 2025-08-01
+version_adopted: 2025-06-17
 adopted: 2022-11-29
 in_force: 2023-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.72.21"
-pdf: "https://bdlf.fr.ch/api/de/versions/8095/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8300/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/8095/pdf_file"
 
 Staatspersonal, Einreihung der Funktionen – V
 
-vom 29.11.2022 (Fassung in Kraft getreten am 01.12.2024)
+vom 29.11.2022 (Fassung in Kraft getreten am 01.08.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -80,7 +79,9 @@ beschliesst:
 
 **Änderung der Einreihung**
 
-<sup>1</sup> Für Änderungen der Einreihung gemäss Einreihungsverzeichnis und den vom Staatsrat genehmigten Richtlinien ist das Verfahren gemäss BEFR anwendbar.
+<sup>1</sup> Für Änderungen der Einreihung gemäss Einreihungsverzeichnis und den vom Staatsrat genehmigten Richtlinien ist das Verfahren gemäss BEFR[^7-1] anwendbar.
+
+[^7-1]: SGF [122.72.22](https://bdlf.fr.ch/data/122.72.22/de)
 
 ## A1 ANHANG 1 – Einreihung der Funktionen: Erläuterungen
 
@@ -111,7 +112,7 @@ beschliesst:
   - 3 30 Berufsfachschulen
   - 3 35 Höhere Fachschulen (HF)
   - 3 40 Fachhochschulen (HSW-FR, HSA-FR, HTA-FR, HfG-FR)
-  - 3 45 Pädagogische Hochschule Freiburg (HEP-PH FR)
+  - 3 45 …
   - 3 50 Mittelschulen
   - 3 60 Berater/innen – Schulinspektorat
   - 3 70 Konservatorium Freiburg (KF)
@@ -167,8 +168,6 @@ beschliesst:
 
 **H** Harmonisierung der obligatorischen Schule (HarmoS)
 
-**HEP-PH FR** Pädagogische Hochschule Freiburg
-
 **HES-SO//FR** Fachhochschule Westschweiz//Freiburg
 
 **HF** Höhere Fachschulen
@@ -198,8 +197,6 @@ beschliesst:
 **NDS** Nachdiplomstudium
 
 **OS** Orientierungsschule
-
-**PH** Pädagogische Hochschule
 
 **Pol SiAss** Polizeiliche Sicherheitsassistentin/Polizeilicher Sicherheitsassistent
 
@@ -562,21 +559,11 @@ beschliesst:
 
 [^A218-1]: Siehe Reglement der HES-SO//FR über den Zugang zur Funktion Ordentliche Professorin/Ordentlicher Professor FH für den Lehrkörper der Fachhochschule Westschweiz//Freiburg (HES-SO//FR).
 
-### 3 45 Pädagogische Hochschule Freiburg (HEP-PH FR)
+### 3 45
 
 #### Art. A2-19
 
-<sup>1</sup> Die Einreihung der Funktionen des Staatspersonals des Bereichs «Unterrichtswesen» für den Unterbereich «Pädagogische Hochschule Freiburg (HEP-PH-FR)»:
-
-<table>
-<tr><th>Kodierungen</th><th>Funktionen</th><th>Klassen</th><th>Status</th></tr>
-<tr><td>3 45 080</td><td>Abteilungsleiter/in PH</td><td>28–29</td><td></td></tr>
-<tr><td>3 45 110</td><td>Lehrbeauftragte/r PH</td><td>23–25</td><td></td></tr>
-<tr><td>3 45 130</td><td>Dozent/in PH</td><td>25</td><td></td></tr>
-<tr><td>3 45 150</td><td>Assistenzprofessor/in PH</td><td>25</td><td></td></tr>
-<tr><td>3 45 170</td><td>Assoziierte Professorin/Assoziierter Professor PH</td><td>26–27</td><td></td></tr>
-<tr><td>3 45 190</td><td>Ordentliche Professorin/Ordentlicher Professor PH</td><td>28</td><td></td></tr>
-</table>
+**…**
 
 ### 3 50 Mittelschulen
 
