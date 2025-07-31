@@ -4,13 +4,13 @@ number: "740.025"
 title: "Ordinanza relativa all'esercizio della caccia"
 short: "Prescrizioni per l'esercizio della caccia; PEC"
 language: it
-version: 2024-08-01
-valid_until: 2025-07-31
-version_adopted: 2024-06-25
+version: 2025-08-01
+valid_until: 2026-07-31
+version_adopted: 2025-07-01
 adopted: 2023-06-27
 in_force: 2023-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/740.025"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3447/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3562/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3447/pdf_file"
 
 (Prescrizioni per l'esercizio della caccia; PEC)
 
-del 27.06.2023 (stato 01.08.2024)
+del 27.06.2023 (stato 01.08.2025)
 
 emanata dal Governo il 27 giugno 2023
 
@@ -44,6 +44,8 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1], l'art. 19, l'ar
 **Documenti**
 
 <sup>1</sup> Il cacciatore è tenuto a portare con sé i seguenti documenti durante l'esercizio della caccia: libretto di licenza di caccia, licenza di caccia ed elenco degli abbattimenti.
+
+<sup>2</sup> Se si utilizza un silenziatore è necessario portare con sé l'autorizzazione eccezionale prevista dal diritto sulle armi.
 
 #### Art. 3
 
@@ -77,6 +79,8 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1], l'art. 19, l'ar
 
 <sup>3</sup> Durante l'esercizio della caccia bassa è vietato portare con sé e utilizzare visori termici. Fa eccezione l'esercizio della caccia notturna conformemente all'articolo 84.
 
+<sup>4</sup> Durante l'esercizio della caccia è permesso portare con sé e utilizzare silenziatori, a condizione che si disponga dell'autorizzazione eccezionale conformemente al diritto federale.
+
 #### Art. 7
 
 **5. Distanze di tiro**
@@ -88,6 +92,8 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1], l'art. 19, l'ar
 **Accesso alla zona di caccia 1. Prima dell'inizio della caccia e dopo un'interruzione della caccia**
 
 <sup>1</sup> Il giorno prima dell'inizio della caccia e il giorno prima della ripresa della caccia dopo un'interruzione è permesso utilizzare veicoli a motore per recarsi nella zona di caccia. In questi giorni è permesso recarsi in assetto di caccia negli alloggi, a piedi o con veicoli a motore, a partire dalle ore 12.00. I veicoli a motore devono essere portati in un parcheggio autorizzato la sera stessa. Sono fatte salve le disposizioni particolari per la caccia speciale (art. 64).
+
+<sup>2</sup> Il giorno della Festa federale di preghiera non è necessario lasciare la zona di caccia.
 
 #### Art. 9
 
@@ -113,18 +119,18 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1], l'art. 19, l'ar
 
 <sup>3</sup> I seguenti parcheggi sono esclusi dal divieto di parcheggio:
 
-- a) distretto di caccia I: passo del Lucomagno (300 m a nord della diga); Medel/Lucmagn (ponte Fuorns); Laus (Hettas); Surrein (poligono di tiro alla lepre); S. Benedetg (vecchia cappella); Schlans (al di sopra del villaggio); Dardin (scuola);
-- b) distretto di caccia II: Zervreila (parcheggio ristorante); Lunschania (parcheggio strada cantonale, galleria Schöntobel); Peiden (Peiden Bad); Arezen (Fatscha); Valendas (Oberdutjen); Valendas (Bild); Ilanz (Tischinas); Ilanz (Mulin da Pitasch); Ruschein (punto 1229); Vattiz (Davos Munts);
+- a) distretto di caccia I: passo del Lucomagno (2'704'797/1'160'972); Medel/Lucmagn (ponte Fuorns); Laus (Hettas); Surrein (poligono di tiro alla lepre); S. Benedetg (vecchia cappella); Schlans (al di sopra del villaggio); Dardin (scuola);
+- b) distretto di caccia II: Zervreila (parcheggio ristorante); Lunschania (parcheggio strada cantonale, galleria Schöntobel); Peiden (Peiden Bad); Arezen (Fatscha); Valendas (Oberdutjen); Valendas (Bild); Ilanz (Tischinas); Ilanz (Mulin da Pitasch); Ruschein (punto 1229); Vattiz (Davos Munts); Obersaxen (Hanschahüs, 2'723'219/1'178'166);
 - c) distretto di caccia III: Safien-Camana (Bir Saga, punto 1643); Safien-Egschi (presso la diga Egschi); Safien-Neukirch (Treuschbach); Safien-Acla; Ausserglas; Präz (inizio sentiero per l'alpe Präz); Rongellen (Eggawald); Thusis (altana da caccia Übernolla); Sils i.D. (ex stazione FR); Scharans (presso il poligono di tiro); Pignia (Vitali); Wergenstein (Lavanos); Avers-Juppa (parcheggio pony lift); solo durante la caccia alta: Scharans (strada forestale verso l'alte Schin, punto 995)[^11-1]; Sils i.D. (Versasca); Andeer (Parsagna); Ferrera (Plan Davains);
 - d) distretto di caccia IV: San Bernardino (Du Lac); San Bernardino (cantina Toscano, campeggio); Mesocco (parcheggio presso lo svincolo A13 Mesocco-sud); Sorte; Soazza (ponte di Vigna, 2'736'680/1'134'075); gli ultimi quattro giorni della caccia alta: Rossa (Valbella, 2'730'170/1'140'517); Rossa (Alp de Cascinarsa, 2'728'817/1'137'679); Mesocco (Siu Sot, 2'738'665/1'137'914); Mesocco (Panieru, 2'738'604/1'140'333); Arvigo (Zanella, 2'727'583/1'127'624); Soazza (Bec, 2'735'050/1'134'870); San Vittore (Folcetta, 2'727'751/1'124'339); Lostallo (La Pala 2'737'534/1'131'096); Lostallo (2'736'800/1'129'900); Roveredo (diga Roggiasca, 2'733'470/1'118'259); Roveredo (Vif, bivio Monti di Laura, 2'730'548/1'119'820); Braggio (Motta della vacca, 2'730'128/1'130'173); S. Maria i.C. (Bedolì, 2'731'554/1'126'723); S. Maria i.C. (Viderla, 2'732'260/1'127'141);
 - e) distretto di caccia V: Davos Dischma (parcheggio cava di ghiaia Chintsch Hus); Davos Frauenkirch (parcheggio centrale Sandachere); Davos Monstein (parcheggio Schmelzoboden); Jenisberg; (parcheggio strada per Jenisberg); Filisur (parcheggio piazzale deposito legname Frevgias – diramazione strada per Sela); Bergün (parcheggio strada per Latsch captazione d'acqua ALK);
 - f) distretto di caccia VI: Lantsch/Lenz (parcheggio Biathlon Arena); Vaz/Obervaz (parcheggio all'altezza di Sporz); Solis (parcheggio stazione di Solis); Obersolis (parcheggio piazzale deposito legname strada per Mutten, prima del portale nord della galleria Muttnertobel); Mutten (parcheggio Stafel); Cunter (parcheggio silo per il sale Burvagn); Rona-Mulegns (parcheggio diramazione Nascharegnas); Marmorera (parcheggio galleria artificiale Lai da Marmorera); Bivio (parcheggio Tua Sportanlagen AG); Bivio (parcheggio strada dello Julier, La Veduta);
-- g) distretto di caccia VII: Bever (parcheggio discarica, punto 1693); Pontresina (Seiler);
+- g) distretto di caccia VII: Bever (parcheggio discarica, punto 1693); Chapella (parcheggio Tulait);
 - h) distretto di caccia VIII-1: Maloja (Capolago, 2'774'205/1'142'362), Maloja (Kulm, 2'773'481/1'140'946); Bondo (Crot Alt, 2'762'593/1'133'428);
 - i) distretto di caccia VIII-2: La Rösa; Sfazù; Pozzolascio (parcheggio ristorante); Cologna (diramazione Cansumè – Balegna); Privilasco (diramazione Cavaglia – Cadera); Somaino (diramazione Curvera – Mulinell); Miralago (2'805'090/1'128'060);
-- j) distretto di caccia IX: Zernez (discarica Tantermozza); Ardez (diramazione Sur En – Val Sampuoir);
+- j) distretto di caccia IX: Zernez (discarica Tantermozza); Ardez (diramazione Sur En – Val Sampuoir); Fuldera Daint (diramazione Via Alp Sadra);
 - k) distretto di caccia X: S-charl (parcheggio); Sent (Kurhaus Val Sinestra); Tarasp (Nairs Chasa Carola); Tarasp (Sguendel Sura); Fimbertal (parcheggio presso il confine di Stato)[^11-2]; San Niclà (parcheggio per cacciatori); Bargia (svincolo Ramosch est); Ramosch (Ruinas Serviezel); Sclamischot (parcheggio del poligono); Tschlin (Zavranza); parcheggio Vinadi; parcheggio Pfandshof;
-- l) distretto di caccia XI: Ascharina (parcheggio locanda Bellawiese); St. Antönien (parcheggio P4, Sand); Gadenstätt (fermata dell'autobus); Pany (stazione a valle impianto di risalita); Fideris (Strahlegg); Fideris (Schwinbodä); Jenaz (in der Au); Furna (Börtji); Furna ("Sattlerparkplatz"); Grüsch (pista di ghiaccio); Seewis (parcheggio Ganda); Schiers (cava di ghiaia Schraubach); Pusserein (Ober Pusserein); Schuders (parcheggio inizio villaggio); Conters (Eierloch); Klosters Dorf, strada per Schlappin Ober Ganda;
+- l) distretto di caccia XI: Ascharina (parcheggio locanda Bellawiese); St. Antönien (parcheggio P4, Sand); Gadenstätt (fermata dell'autobus); Pany (stazione a valle impianto di risalita); Fideris (Strahlegg); Fideris (Schwinbodä); Jenaz (in der Au); Furna (Börtji); Furna ("Sattlerparkplatz"); Grüsch (pista di ghiaccio); Seewis (parcheggio Ganda); Fanas (parcheggio poligono di tiro 300 metri, Solcs); Schiers (cava di ghiaia Schraubach); Pusserein (Ober Pusserein); Schuders (parcheggio inizio villaggio); Conters (Eierloch); Klosters Dorf (strada per Schlappin Ober Ganda);
 - m) distretto di caccia XII: Coira (impianto della protezione civile Meiersboden); Langwies (parcheggio comunale centro di manutenzione); Churwalden (Passugg, deviazione Polenweg); Mastrils (Saga); Bonaduz (Bot Mulins); Domat/Ems (Saletg); Domat/Ems (campo da golf); Felsberg (Hinder d'Wingert); Trin (Coma); gli ultimi quattro giorni della caccia alta: Bonaduz (Sigl Ault all'altezza della deviazione Scardanal – Sculms, 2'746'166/1'184'816).
 
 [^11-1]: Può essere utilizzata gratuitamente con veicoli a motore per l'esercizio della caccia alta.
@@ -154,7 +160,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1], l'art. 19, l'ar
 
 **Controllo degli abbattimenti 1. Registrazione nell'elenco degli abbattimenti**
 
-<sup>1</sup> La selvaggina abbattuta sia legalmente sia illegalmente deve essere registrata in maniera completa con una penna a sfera nell'elenco ufficiale degli abbattimenti subito dopo l'abbattimento. Per ciascun abbattimento occorre indicare obbligatoriamente la specie, il sesso, la località più vicina, il nome locale, l'altitudine sul livello del mare e il numero del settore di rilevamento. Gli uccelli possono essere registrati al termine della giornata di caccia a condizione che il numero di abbattimenti non sia limitato per la relativa specie di uccelli.
+<sup>1</sup> La selvaggina abbattuta sia legalmente sia illegalmente deve essere registrata in maniera completa con una penna a sfera nell'elenco ufficiale degli abbattimenti o nell'elenco degli abbattimenti digitale subito dopo l'abbattimento. Per ciascun abbattimento occorre indicare obbligatoriamente la specie, il sesso, la località più vicina, il nome locale, l'altitudine sul livello del mare e il numero del settore di rilevamento. Gli uccelli possono essere registrati al termine della giornata di caccia a condizione che il numero di abbattimenti non sia limitato per la relativa specie di uccelli.
 
 <sup>2</sup> Prima di consegnare l'elenco degli abbattimenti il cacciatore deve confermare con la propria firma la correttezza delle indicazioni fornite.
 
@@ -188,7 +194,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1], l'art. 19, l'ar
 
 **Ricerca e consegna dei verbali di ricerca**
 
-<sup>1</sup> Le ricerche devono sempre essere notificate all'organo di vigilanza della caccia competente. Durante la caccia bassa, speciale e d'agguato l'organo di vigilanza della caccia deve essere informato prima dell'intervento del cane da traccia.
+<sup>1</sup> Le ricerche devono sempre essere notificate all'organo di vigilanza della caccia competente. Durante la caccia bassa, speciale e d'agguato l'organo di vigilanza della caccia deve essere informato prima dell'intervento di un conduttore e del suo cane da traccia.
 
 <sup>2</sup> I verbali di ricerca debitamente compilati devono essere consegnati al competente guardiano della selvaggina capodistretto entro sette giorni dalla fine del relativo tipo di caccia.
 
@@ -236,7 +242,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1], l'art. 19, l'ar
 
 <sup>2</sup> Chi trova od osserva selvaggina marcata con collare, marche auricolari o anelli deve comunicarlo agli organi di vigilanza della caccia.
 
-<sup>3</sup> Per l'invio della marca unitamente alla mandibola viene versato un premio pari a 20 franchi.
+<sup>3</sup> Per l'invio della marca auricolare unitamente alla mandibola di selvaggina rinvenuta morta viene versato un premio pari a 20 franchi.
 
 #### Art. 25
 
@@ -258,11 +264,11 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1], l'art. 19, l'ar
 
 **Periodi di caccia**
 
-<sup>1</sup> La caccia alta 2024 si svolge in due fasi. Essa dura dal 2 all'8 settembre 2024 compreso nonché dal 16 al 29 settembre 2024 compreso. Dal 9 al 15 settembre 2024 compreso la caccia è interrotta.
+<sup>1</sup> La caccia alta 2025 si svolge in due fasi. Essa dura dal 1° al 7 settembre 2025 compreso nonché dal 16 al 30 settembre 2025 compreso. Dall'8 al 15 settembre 2025 compreso nonché il 21 settembre 2025, giorno della Festa federale di preghiera, la caccia è interrotta.
 
 <sup>2</sup> Cervi, caprioli, cinghiali, marmotte, volpi, tassi, procioni e cani procioni possono essere cacciati durante l'intero periodo di caccia.
 
-<sup>3</sup> La caccia al camoscio è ammessa dal 2 all'8 settembre 2024 compreso e dal 16 al 25 settembre 2024 compreso. Nel distretto di caccia I Vorderrhein al di sopra del limite altimetrico vigente le femmine di camoscio possono essere cacciate solo fino al 21 settembre 2024 compreso.
+<sup>3</sup> I camosci possono essere cacciati dal 1° al 7 settembre 2025 compreso e dal 16 al 26 settembre 2025 compreso. Nel distretto di caccia I Vorderrhein al di sopra della curva altimetrica vigente le femmine di camoscio possono essere cacciate solo fino al 22 settembre 2025 compreso.
 
 #### Art. 28
 
@@ -270,9 +276,9 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1], l'art. 19, l'ar
 
 <sup>1</sup> Valgono i seguenti orari di tiro:
 
-- a) dal 2 all'8 settembre 2024 compreso dalle ore 6.00 alle ore 20.30;
-- b) dal 16 al 26 settembre 2024 compreso dalle ore 6.30 alle ore 20.00;
-- c) dal 27 al 29 settembre 2024 compreso dalle ore 6.30 alle ore 19.45.
+- a) dal 1° al 7 settembre 2025 compreso dalle ore 6.00 alle ore 20.30;
+- b) dal 16 al 26 settembre 2025 compreso dalle ore 6.30 alle ore 20.00;
+- c) dal 27 al 30 settembre 2025 compreso dalle ore 6.30 alle ore 19.45.
 
 ### 2.2. Cervi
 
@@ -292,7 +298,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1], l'art. 19, l'ar
 
 <sup>1</sup> Durante l'intero periodo di caccia alta tutti i cervi con corona su una o su ambedue le aste devono essere presentati agli organi di vigilanza della caccia allo stato fresco indipendentemente dalla lunghezza d'asta.
 
-<sup>2</sup> Dal 5 al 7 settembre 2024 compreso è cacciabile anche il cervo con corona su ambedue le aste con una lunghezza d'asta di 60 cm e più. Nel corso di queste giornate ogni cacciatore può abbattere al massimo un cervo con corona su una o su ambedue le aste con una lunghezza d'asta di 60 cm e più.
+<sup>2</sup> Dal 4 al 6 settembre 2025 compreso è cacciabile anche il cervo con corona su ambedue le aste con una lunghezza d'asta di 60 cm e più. Nel corso di queste giornate ogni cacciatore può abbattere al massimo un cervo con corona su una o su ambedue le aste con una lunghezza d'asta di 60 cm e più.
 
 <sup>3</sup> Un cervo con corona su ambedue le aste è ritenuto tale quando su ambedue le aste presenta tre o più punte sopra il mediano. Un cervo con corona su una sola asta è ritenuto tale quando una delle aste presenta tre o più punte sopra il mediano.
 
@@ -308,7 +314,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1], l'art. 19, l'ar
 
 <sup>2</sup> Per valutare la cacciabilità di fusoni fa stato l'asta più corta.
 
-<sup>3</sup> Dal 28 al 29 settembre 2024 compreso la caccia al fusone è ammessa indipendentemente dalla lunghezza d'asta, con un contingente complessivo di un fusone per cacciatore.
+<sup>3</sup> Il 29 e il 30 settembre 2025 ogni cacciatore può abbattere un fusone con aste più lunghe degli orecchi. Fanno eccezione le misure di regolazione nelle zone di protezione della selvaggina conformemente all'allegato 2 lettera a, lettera b e lettera c. In questi giorni tutti i fusoni devono essere presentati allo stato fresco agli organi di vigilanza della caccia.
 
 #### Art. 32
 
@@ -322,7 +328,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1], l'art. 19, l'ar
 
 <sup>4</sup> Se l'inizio e la fine delle "fasce cuscinetto" vengono marcati, ciò avviene con segni di colore rosso (parte chiusa) e blu (parte aperta).
 
-<sup>5</sup> Per abbattimenti in bandite federali fanno stato le disposizioni particolari di cui all'allegato 2 lettera f.
+<sup>5</sup> Per abbattimenti in bandite federali fanno stato le disposizioni particolari di cui all'allegato 2 lettera e.
 
 #### Art. 33
 
@@ -366,8 +372,8 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1], l'art. 19, l'ar
 
 <sup>1</sup> Possono essere abbattuti:
 
-- a) i maschi di capriolo con trofeo palcuto o superiore (con numero di punte sia pari sia dispari) con un'altezza d'asta di almeno 16 cm;
-- b) i forcuti e i fusoni, con un'altezza d'asta inferiore a 16 cm;
+- a) i maschi di capriolo con trofeo palcuto o superiore (con numero di punte sia pari sia dispari) con aste di almeno 16 cm;
+- b) i forcuti e i fusoni, con aste inferiori a 16 cm;
 - c) femmine non allattanti di capriolo.
 
 <sup>2</sup> Durante gli ultimi quattro giorni della caccia alta, nelle regioni previste a tale scopo (allegato 6) ogni cacciatore può abbattere un piccolo di capriolo nel quadro del contingente del capriolo. Le femmine, le femmine sottili e i piccoli di capriolo abbattuti devono essere presentati allo stato fresco agli organi di vigilanza della caccia.
@@ -378,7 +384,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1], l'art. 19, l'ar
 
 **Valutazione della cacciabilità dei maschi di capriolo**
 
-<sup>1</sup> L'altezza delle aste viene misurata dal margine inferiore della rosa sulla parte esterna, al centro, in linea retta fino alla punta.
+<sup>1</sup> Il metro a nastro viene posizionato sul margine inferiore della rosa sulla parte esterna, al centro. La misurazione viene effettuata lungo il lato esterno dell'asta fino all'apice del vertice. Fa stato la misura più lunga dell'asta.
 
 <sup>2</sup> Per la valutazione della cacciabilità dei forcuti e dei fusoni fa stato l'asta più corta.
 
@@ -408,28 +414,30 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1], l'art. 19, l'ar
 
 #### Art. 42
 
-**Curve altimetriche per la caccia al camoscio**
+**Curve altimetriche e restrizioni per la caccia al camoscio**
 
 <sup>1</sup> Le disposizioni riguardanti la caccia al camoscio e il computo al contingente del camoscio si conformano e si differenziano secondo le curve altimetriche conformemente all'allegato 5.
 
 <sup>2</sup> Per camosci di un anno e femmine di camoscio di due anni al di sopra delle curve altimetriche valgono le restrizioni conformemente all'allegato 6.
 
+<sup>3</sup> Per le femmine di camoscio, nel distretto di caccia I fanno stato le restrizioni conformemente all'allegato 6.
+
 #### Art. 42a
 
 **Zone con interventi venatori particolari**
 
-<sup>1</sup> Per evitare danni causati dalla selvaggina nei boschi di protezione, in diverse zone sono previsti interventi venatori particolari (allegato 5 lett. f e lett. j). Vengono stabilite le seguenti disposizioni:
+<sup>1</sup> Per evitare danni causati dalla selvaggina nei boschi di protezione, in diverse zone sono previsti interventi venatori particolari (allegato 5). Vengono stabilite le seguenti disposizioni:
 
 - a) Comune di Sumvitg, Uaul Puzzastg — 5 camosci
 - b) Comuni di Rhäzüns e di Cazis , Prau Pign – Plattawald — 8 camosci
-- c) Comune di Medel-Lucmagn, Stagias – Muota Pigniel — nessun limite altimetrico
-- d) Comune di Bergün Filisur, Falein – Cuolm da Latsch — nessun limite altimetrico
-- e) Comune di Surses, Tussagn – Battagliang — nessun limite altimetrico
-- f) Comune di Surses, Tarvisch – Tscharnoz — nessun limite altimetrico
+- c) Comune di Medel-Lucmagn, Stagias – Muota Pigniel — nessuna curva altimetrica
+- d) Comune di Bergün Filisur, Falein – Cuolm da Latsch — nessuna curva altimetrica
+- e) Comune di Surses, Tussagn – Battagliang — nessuna curva altimetrica
+- f) Comune di Surses, Tarvisch – Tscharnoz — nessuna curva altimetrica
 
 <sup>2</sup> Se gli abbattimenti minimi non vengono raggiunti durante la caccia alta ovvero se la caccia viene esercitata in misura insufficiente, gli abbattimenti mancanti vengono effettuati dagli organi di vigilanza della caccia.
 
-<sup>3</sup> L'allegato 5 elenca i limiti altimetrici, le prescrizioni valide nelle zone con interventi venatori particolari e nelle zone problematiche sotto il profilo forestale nonché le zone con una durata prolungata della caccia al camoscio.
+<sup>3</sup> L'allegato 5 riporta la curva altimetrica, le prescrizioni valide nelle zone con interventi venatori particolari e nelle zone problematiche sotto il profilo forestale nonché le zone con una durata prolungata della caccia al camoscio.
 
 ### 2.3.3. Contingenti
 
@@ -511,11 +519,13 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1], l'art. 19, l'ar
 
 <sup>2</sup> I permessi d'ospite possono essere acquistati presso gli uffici di rilascio delle licenze. Informazioni dettagliate riguardo all'acquisto di un permesso d'ospite sono contenute nell'allegato 7.
 
+<sup>3</sup> Le prestazioni acquisite con il permesso d'ospite non possono essere utilizzate a scopi commerciali.
+
 #### Art. 52
 
 **Indumenti dal colore segnaletico**
 
-<sup>1</sup> Per tutti i cacciatori durante la caccia alta è obbligatorio indossare gilè fluorescenti, giacche fluorescenti o cappelli dal colore segnaletico durante battute di caccia, durante ricerche nonché nelle parti delle zone di protezione della selvaggina aperte secondo l'allegato 2 lettera a e lettera b. Una fascia sul cappello non è sufficiente.
+<sup>1</sup> Per tutti i cacciatori durante la caccia alta è obbligatorio indossare gilè fluorescenti, giacche fluorescenti o cappelli dal colore acceso durante battute di caccia, durante ricerche nonché nelle parti delle zone di protezione della selvaggina aperte secondo l'allegato 2 lettera a. Una fascia sul cappello non è sufficiente.
 
 #### Art. 53
 
@@ -531,7 +541,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1], l'art. 19, l'ar
 
 <sup>2</sup> Gli animali abbattuti possono essere presentati durante la caccia alta. In questo caso i trofei e le mandibole di questi animali non devono più essere consegnati.
 
-<sup>3</sup> Dopo la caccia alta le mandibole complete di cervi, caprioli e camosci abbattuti nonché i trofei di caprioli e camosci abbattuti devono essere presentati preparati e ben puliti all'organo di vigilanza della caccia competente per il luogo di abbattimento nel periodo dal 21 ottobre al 1° novembre 2024.
+<sup>3</sup> Dopo la caccia alta le mandibole complete di cervi, caprioli e camosci abbattuti nonché i trofei di caprioli e camosci abbattuti devono essere presentati preparati e ben puliti all'organo di vigilanza della caccia competente per il luogo di abbattimento nel periodo dal 20 al 31 ottobre 2025.
 
 <sup>4</sup> In questo periodo l'Ufficio organizza dei posti di accettazione regionali. Luoghi e orari vengono resi noti dall'Ufficio.
 
@@ -559,7 +569,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1], l'art. 19, l'ar
 
 **Periodo e durata delle cacce**
 
-<sup>1</sup> Le cacce speciali al cervo, al capriolo e al cinghiale hanno luogo nel periodo tra il 2 novembre e il 18 dicembre 2024. All'interno di una regione l'inizio, l'interruzione e la fine possono essere scaglionati a seconda della zona. Se necessario il Dipartimento può disporre la caccia speciale al cinghiale in modo limitato alle superfici agricole in aggiunta dal 1° luglio al 31 agosto.
+<sup>1</sup> Le cacce speciali al cervo, al capriolo e al cinghiale hanno luogo nel periodo tra il 1° novembre e il 20 dicembre 2025. All'interno di una regione l'inizio, l'interruzione e la fine possono essere scaglionati a seconda della zona. Se necessario il Dipartimento può disporre la caccia speciale al cinghiale in modo limitato alle superfici agricole in aggiunta dal 1° luglio al 31 agosto.
 
 <sup>2</sup> La caccia inizia di mercoledì o di sabato. Per il cervo e per il capriolo essa termina con l'adempimento del piano di abbattimento. Eventualmente la caccia può essere conclusa già dopo un solo giorno. In singole regioni il Dipartimento può disporre la caccia speciale al cinghiale indipendentemente dall'adempimento dei piani di abbattimento per cervi e caprioli.
 
@@ -571,9 +581,9 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1], l'art. 19, l'ar
 
 <sup>1</sup> Le cacce si svolgono di mercoledì, di sabato e di domenica. Gli orari di tiro vengono stabiliti come segue:
 
-- a) dal 2 al 15 novembre 2024 dalle ore 06.30 alle ore 14.00;
-- b) dal 16 al 30 novembre 2024 dalle ore 06.45 alle ore 14.00;
-- c) dal 1° al 18 dicembre 2024 dalle ore 07.00 alle ore 14.00.
+- a) dal 1° al 15 novembre 2025 dalle ore 06.45 alle ore 14.00;
+- b) dal 16 al 30 novembre 2025 dalle ore 07.00 alle ore 14.00;
+- c) dal 1° al 20 dicembre 2025 dalle ore 07.15 alle ore 14.00.
 - d) …
 
 #### Art. 58
@@ -592,7 +602,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1], l'art. 19, l'ar
 
 <sup>6</sup> Durante la caccia speciale, nelle macroregioni Surselva e Grigioni centrale come pure nelle regioni Dreibündenstein, Heinzenberg, Hinterrhein e Schanfigg i cacciatori sono autorizzati a cacciare unicamente in una determinata parte della regione. All'atto dell'annuncio devono indicare la parte di regione preferita:
 
-- a) regione di caccia al cervo Surselva: distretto di caccia I Sursassiala, I Sutsassiala, II nord o II sud;
+- a) regione di caccia al cervo Surselva: distretto di caccia I Sursassiala, I Sutsassiala, II sud (settori A10–A14, A18 senza il Comune di Safiental, A19, A20) e II nord (settori A15–A20);
 - b) regione di caccia al cervo Heinzenberg: area Nolla (compresi gli alpi Verdus e Carnusa del settore C06), area Safien (compreso il settore C06 senza gli alpi Verdus e Carnusa) oppure area Bonaduz;
 - c) regione di caccia al cervo Dreibündenstein: area Domleschg nord, Domleschg sud o area Coira – Ems – Churwalden;
 - d) regione di caccia al cervo Hinterrhein: area Schams oppure regione parziale Rheinwald/Ferrera – Avers;
@@ -657,7 +667,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1], l'art. 19, l'ar
 
 <sup>3</sup> Il transito su strade forestali al fine di esercitare la caccia speciale è ammesso senza autorizzazione in analogia a quanto previsto per l'utilizzo per scopi di economia forestale.
 
-<sup>4</sup> Se un cacciatore fa uso di mezzi di trasporto a motore per rientrare a casa oppure per il trasporto della preda, in caso di ripresa della caccia esso può utilizzarli solo in conformità alle disposizioni valide per la caccia alta ordinaria.
+<sup>4</sup> Per trasportare selvaggina abbattuta o per lasciare la zona di caccia, il cacciatore può utilizzare mezzi di trasporto a motore anche al di fuori degli orari previsti a tale scopo. Se successivamente la caccia viene ripresa, i viaggi sono ammessi solo conformemente alle disposizioni speciali per l'utilizzo di veicoli a motore.
 
 <sup>5</sup> Gli animali abbattuti devono essere registrati senza indugio nell'elenco degli abbattimenti. Quest'ultimo deve essere inviato per posta A Plus entro il 27 dicembre dell'anno civile in corso (data del timbro postale) all'ufficio di rilascio delle licenze presso il quale la licenza è stata acquistata.
 
@@ -731,7 +741,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1], l'art. 19, l'ar
 
 <sup>1</sup> Al termine della caccia alta per ciascuna regione viene stabilito il numero necessario di abbattimenti per raggiungere l'obiettivo, che viene confrontato con il numero di capi abbattuti. I capi mancanti devono essere abbattuti durante la caccia speciale. Le regioni di caccia al capriolo corrispondono a quelle di caccia al cervo conformemente all'allegato 4.
 
-<sup>2</sup> I piani di abbattimento per le singole regioni e le singole aree vengono determinati in base al numero di capi abbattuti durante la caccia alta in modo tale che la quota di femmine di capriolo e di piccoli di capriolo si attesti di norma tra il 50 e il 65 per cento di tutti i caprioli abbattuti. La percentuale di femmine di capriolo e di piccoli di capriolo richiesta aumenta se il numero di maschi di capriolo abbattuti si avvicina o supera il numero massimo degli abbattimenti registrato nel corso degli ultimi 25 anni. In sede di determinazione del piano degli abbattimenti si tiene conto delle differenze regionali per quanto concerne la pressione venatoria esercitata sul maschio di capriolo. Nelle zone con danni causati dalla selvaggina il piano degli abbattimenti può essere aumentato ulteriormente al fine di intensificare la pressione venatoria e attuato a livello regionale sotto forma di interventi venatori particolari.
+<sup>2</sup> I piani di abbattimento per le singole regioni e le singole aree vengono determinati in base al numero di capi abbattuti durante la caccia alta in modo tale che la quota di femmine di capriolo e di piccoli di capriolo si attesti di norma tra il 50 e il 65 per cento di tutti i caprioli abbattuti. La percentuale di femmine di capriolo e di piccoli di capriolo richiesta aumenta se il numero di maschi di capriolo abbattuti si avvicina o supera il numero massimo degli abbattimenti registrato dal 1991. In sede di determinazione del piano degli abbattimenti si tiene conto delle differenze regionali per quanto concerne la pressione venatoria esercitata sul maschio di capriolo. Nelle zone con danni causati dalla selvaggina il piano degli abbattimenti può essere aumentato ulteriormente al fine di intensificare la pressione venatoria e attuato a livello regionale sotto forma di interventi venatori particolari.
 
 #### Art. 71
 
@@ -781,13 +791,13 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1], l'art. 19, l'ar
 
 **Periodi di caccia e orari di tiro**
 
-<sup>1</sup> La caccia allo stambecco si svolge nel periodo dal 5 ottobre all'8 novembre compreso. In alcune colonie è prevista un'ammissione scaglionata oppure la caccia viene interrotta per diversi giorni.
+<sup>1</sup> La caccia allo stambecco si svolge nel periodo dal 4 ottobre al 7 novembre compreso. In alcune colonie è prevista un'ammissione scaglionata oppure la caccia viene interrotta per diversi giorni.
 
 <sup>2</sup> Valgono i seguenti orari di tiro:
 
-- a) dal 5 al 15 ottobre 2024 dalle ore 07.00 alle ore 19.30;
-- b) dal 16 al 28 ottobre 2024 dalle ore 07.15 alle ore 19.00;
-- c) dal 29 ottobre all'8 novembre 2024 dalle ore 06.30 alle ore 17.30.
+- a) dal 4 al 15 ottobre 2025 dalle ore 07.00 alle ore 19.30;
+- b) dal 16 al 25 ottobre 2025 dalle ore 07.15 alle ore 19.00;
+- c) dal 26 ottobre al 7 novembre 2025 dalle ore 06.45 alle ore 17.30.
 
 #### Art. 77
 
@@ -799,19 +809,13 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1], l'art. 19, l'ar
 
 #### Art. 77a
 
-**Iscrizione**
-
-<sup>1</sup> I presupposti per l'iscrizione alla caccia allo stambecco ordinaria sono disciplinati nell'articolo 6 dell'ordinanza cantonale sugli stambecchi[^77a-1].
-
-<sup>2</sup> Fa eccezione l'iscrizione alla caccia alle femmine di stambecco a scopo regolativo in singole zone. Per la partecipazione si presuppone che il cacciatore abbia già esercitato almeno una volta la caccia allo stambecco.
-
-[^77a-1]: CSC [740.330](https://www.gr-lex.gr.ch/data/740.330/it)
+**…**
 
 #### Art. 78
 
 **Piano degli abbattimenti**
 
-<sup>1</sup> Il piano degli abbattimenti stabilisce il numero di maschi e di femmine di stambecco che deve essere prelevato dall'effettivo per ciascuna colonia di stambecchi. Per i maschi di stambecco il piano è ripartito in aggiunta secondo classi d'età. L'allegato 8 contiene il piano degli abbattimenti per il 2024.
+<sup>1</sup> Il piano degli abbattimenti stabilisce il numero di maschi e di femmine di stambecco che deve essere prelevato dall'effettivo per ciascuna colonia di stambecchi. Per i maschi di stambecco il piano è ripartito in aggiunta secondo classi d'età. L'allegato 8 contiene il piano degli abbattimenti per il 2025.
 
 #### Art. 79
 
@@ -849,10 +853,10 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1], l'art. 19, l'ar
 
 <sup>2</sup> Valgono i seguenti orari di tiro:
 
-- a) dal 1° al 15 ottobre 2024 dalle ore 07.00 alle ore 19.30;
-- b) dal 16 al 28 ottobre 2024 dalle ore 07.15 alle ore 19.00;
-- c) dal 29 ottobre al 15 novembre 2024 dalle ore 06.30 alle ore 17.30;
-- d) dal 16 al 30 novembre 2024 dalle ore 06.45 alle ore 17.30.
+- a) dal 1° al 15 ottobre 2025 dalle ore 07.00 alle ore 19.30;
+- b) dal 16 al 25 ottobre 2025 dalle ore 07.15 alle ore 19.00;
+- c) dal 26 ottobre al 15 novembre 2025 dalle ore 06.45 alle ore 17.30;
+- d) dal 16 al 30 novembre 2025 dalle ore 07.00 alle ore 17.30.
 
 #### Art. 83
 
@@ -864,7 +868,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1], l'art. 19, l'ar
 
 **Limitazioni locali**
 
-<sup>1</sup> Dal 10 ottobre al 24 ottobre 2024 compreso volpi, tassi, martore e faine nonché procioni, cani procioni e topi muschiati sono cacciabili senza limitazioni temporali nei distretti di caccia I, II, III, V, VI, X, XI e XII.
+<sup>1</sup> Dal 1° al 14 ottobre 2025 compreso volpi, tassi, martore e faine nonché procioni, cani procioni e topi muschiati sono cacciabili senza limitazioni temporali nei distretti di caccia I, II, III, V, VI, X, XI e XII per evitare danni causati dalla selvaggina all'agricoltura.
 
 <sup>2</sup> I distretti di caccia corrispondono alla ripartizione di cui all'allegato 4.
 
@@ -880,7 +884,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1], l'art. 19, l'ar
 
 **Elenco degli abbattimenti**
 
-<sup>1</sup> Per le lepri, le faine, le martore e gli uccelli abbattuti è obbligatorio indicare correttamente la specie (lepre comune o lepre bianca, faina o martora, fagiano di monte o pernice bianca, germano reale). L'indicazione non corretta della specie nell'elenco degli abbattimenti è punita con una multa disciplinare conformemente all'allegato 1.
+<sup>1</sup> Per le lepri, le faine, le martore e gli uccelli abbattuti è obbligatorio indicare correttamente la specie (lepre comune o lepre bianca, martora o faina, fagiano di monte o pernice bianca, germano reale). L'indicazione non corretta della specie nell'elenco degli abbattimenti è punita con una multa disciplinare conformemente all'allegato 1.
 
 ### 5.2. Lepri
 
@@ -888,7 +892,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1], l'art. 19, l'ar
 
 **Limitazione temporale, contingente**
 
-<sup>1</sup> La lepre non può essere cacciata dal 21 novembre al 30 novembre 2024 compreso.
+<sup>1</sup> La lepre non può essere cacciata dal 21 novembre al 30 novembre 2025 compreso.
 
 <sup>2</sup> Ogni cacciatore può abbattere in totale otto lepri, tuttavia al massimo due lepri nel corso della stessa giornata.
 
@@ -944,7 +948,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1], l'art. 19, l'ar
 
 **Periodi di caccia e orari di tiro**
 
-<sup>1</sup> La caccia d'agguato dura dal 1° novembre 2024 al 28 febbraio 2025 compreso, con una sospensione per Natale (dal 24 dicembre al 26 dicembre compreso). L'esercizio della caccia d'agguato è permesso dalle ore 17.30 alle ore 06.30.
+<sup>1</sup> La caccia d'agguato dura dal 1° novembre 2025 al 28 febbraio 2026 compreso, con una sospensione per Natale (dal 24 dicembre al 26 dicembre compreso). L'esercizio della caccia d'agguato è permesso dalle ore 17.30 alle ore 6.30.
 
 #### Art. 93
 
@@ -956,7 +960,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1], l'art. 19, l'ar
 
 **Selvaggina cacciabile, limitazione temporale e locale**
 
-<sup>1</sup> Sono cacciabili: volpi (fino al 28 febbraio 2025), tassi (fino al 15 gennaio 2025), martore e faine (fino al 15 febbraio 2025), cani procioni, procioni e topi muschiati (fino al 28 febbraio 2025).
+<sup>1</sup> Sono cacciabili: volpi (fino al 28 febbraio 2026), tassi (fino al 15 gennaio 2026), martore e faine (fino al 15 febbraio 2026), cani procioni, procioni e topi muschiati (fino al 28 febbraio 2026).
 
 <sup>2</sup> Nelle zone di riposo per la selvaggina delimitate con effetto esecutivo la caccia d'agguato è vietata. In zone con regolare presenza del lupo gli organi di vigilanza della caccia possono revocare o vietare posti di appostamento per la caccia d'agguato se non viene mantenuta una distanza adeguata dagli insediamenti.
 
@@ -984,7 +988,9 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1], l'art. 19, l'ar
 
 <sup>1</sup> La caccia d'agguato può essere esercitata solo da case, stalle o altre strutture stabili (baracche di legno e simili). Per la caccia d'agguato è permesso l'uso di veicoli a motore e di funivie.
 
-<sup>2</sup> È obbligatorio indicare la specie dei mustelidi abbattuti (faina o martora). L'indicazione non corretta della specie nell'elenco degli abbattimenti è punita con una multa disciplinare conformemente all'allegato 1.
+<sup>2</sup> È obbligatorio indicare la specie dei mustelidi abbattuti (martora o faina). L'indicazione non corretta della specie nell'elenco degli abbattimenti è punita con una multa disciplinare conformemente all'allegato 1.
+
+<sup>3</sup> In caso di conflitti con grandi predatori o di utilizzo di esche non ammesse, l'autorizzazione precedentemente rilasciata per un luogo di appostamento può essere revocata in ogni momento.
 
 ## 7. Disposizioni finali
 
