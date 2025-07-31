@@ -3,24 +3,23 @@ canton: OW
 number: "412.112"
 title: Ausführungsbestimmungen über die Stundentafel für die Volksschule
 language: de
-version: 2017-08-01
-valid_until: 2025-07-31
-version_adopted: 2015-09-01
+version: 2025-08-01
+version_adopted: 2024-06-18
 adopted: 2024-06-18
 in_force: 2025-08-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/412.112"
-pdf: "http://gdb.ow.ch/api/de/versions/1000/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1876/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Stundentafel für die Volksschule
 
-vom 01.09.2015 (Stand 01.08.2017)
+vom 18.06.2024 (Stand 01.08.2025)
 
 Der Regierungsrat des Kantons Obwalden,
 
-gestützt auf Artikel 91 und Art. 121 Absatz 3 Buchstabe c des Bildungsgesetzes vom 16. März 2006[^ingress-1],
+gestützt auf Artikel 121 Absatz 3 Buchstabe c des Bildungsgesetzes vom 16. März 2006[^ingress-1],
 
 beschliesst:
 
@@ -30,30 +29,32 @@ beschliesst:
 
 **Stundentafel für die Volksschule**
 
-<sup>1</sup> Für die Volksschule gilt die Stundentafel gemäss Anhang. Sie bestehen aus der Teilstundentafel für den Kindergarten und die Primarschule (Anhang 1) sowie der Teilstundentafel für die Orientierungsschule (Anhang 2).
+<sup>1</sup> Diese Ausführungsbestimmungen regeln die Stundentafel für die Volksschule. Es gibt eine Stundentafel für den Kindergarten und die Primarschule (Anhang 1) sowie eine Stundentafel für die Orientierungsschule (Anhang 2).
 
 #### Art. 2
 
-**Vollzugsrichtlinien**
+**Umsetzung**
 
-<sup>1</sup> Das Bildungs- und Kulturdepartement kann die notwendigen Vollzugsrichtlinien erlassen, insbesondere zu den einzelnen Fächern, zu den Wahlfächern, zur Unterrichtszeit und -organisation, zur Stundenplangestaltung, zu den Dispensationen und zur musikalischen Grundschulung.
+<sup>1</sup> Die Vorgaben der Stundentafel können mit pädagogisch begründeten, offenen Unterrichtsformen in Jahreslektionen umgesetzt werden.
 
 #### Art. 3
 
 **Übergangsbestimmungen**
 
-<sup>1</sup> Das Bildungs- und Kulturdepartement hat für Schülerinnen und Schüler, die im Schuljahr 2017/18 die 6. Primarschule oder die 1. Orientierungsschule besuchen, Vollzugsrichtlinien für das Tastaturschreiben zu erlassen.
+<sup>1</sup> Die Änderungen in der Stundentafel für die Volksschule werden wie folgt eingeführt:
 
-#### Art. 4
+- a. auf das Schuljahr 2025/2026: Erhöhung um je eine Lektion im Fach Mathematik in der 3. Klasse der Primarschule und im Fach Deutsch in der 4. Klasse der Primarschule sowie Reduktion um zwei Lektionen im Fach Wirtschaft, Arbeit, Haushalt in der 1. Klasse der Orientierungsschule;
+- b. auf das Schuljahr 2027/2028: Erhöhung um zwei Lektionen im Fach Wirtschaft, Arbeit, Haushalt sowie Reduktion der Anzahl der zu wählenden Lektionen im Wahlpflichtbereich von acht auf sechs in der 3. Klasse der Orientierungsschule;
+- c. auf das Schuljahr 2029/2030: Reduktion um eine Lektion im Fach Mathematik in der 1. Klasse der Orientierungsschule.
 
-**Wirkungsüberprüfung**
+**Information zum Erlass**
 
-<sup>1</sup> Das Bildungs- und Kulturdepartement hat die Stundentafel für die Volksschule fünf Jahre nach Inkraftsetzung, d.h. im Schuljahr 2022/23, auf ihre Wirksamkeit zu überprüfen und dem Regierungsrat anschliessend Bericht zu erstatten und allenfalls Anträge zu unterbreiten.
+Ursprüngliche Fundstelle: OGS 2024, 12
 
-**Informationen zum Erlass**
+Ursprüngliches Inkrafttreten: 1. August 2025
 
-Ursprüngliche Fundstelle: OGS 2015, 45, OGS 2015, 47
+Aufgehobener Erlass:
 
-Ursprüngliches Inkrafttreten: 1. August 2015
+AB über die Stundentafel für die Volksschule vom 1. September 2015 (OGS 2015, 45 und 47)
 
-OGS 2015, 45 und 47
+OGS 2024, 12
