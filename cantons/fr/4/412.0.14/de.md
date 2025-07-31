@@ -3,13 +3,12 @@ canton: FR
 number: "412.0.14"
 title: Reglement über die Passerelle Berufsmaturität / Fachmaturität – universitäre Hochschulen
 language: de
-version: 2022-02-01
-valid_until: 2025-07-31
-version_adopted: 2022-03-04
+version: 2025-08-01
+version_adopted: 2025-06-23
 adopted: 2011-12-13
 in_force: 2012-04-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/412.0.14"
-pdf: "https://bdlf.fr.ch/api/de/versions/7290/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8514/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7290/pdf_file"
 
 Passerelle Berufsmaturität - universitäre Hochschulen – R
 
-vom 13.12.2011 (Fassung in Kraft getreten am 01.02.2022)
+vom 13.12.2011 (Fassung in Kraft getreten am 01.08.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -118,7 +117,9 @@ beschliesst:
 
 **Aufsicht**
 
-<sup>1</sup> Die Prüfungsaufsicht, insbesondere was die Prüfungskommission sowie die Kantonale Prüfungskommission der Sekundarstufe 2 betrifft, erfolgt nach den Bestimmungen des Reglements vom 17. September 2001 über die Maturitätsprüfungen (MPR).
+<sup>1</sup> Die Prüfungsaufsicht, insbesondere was die Prüfungskommission sowie die Kantonale Prüfungskommission der Sekundarstufe 2 betrifft, erfolgt nach den Bestimmungen des Reglements vom 17. September 2001 über die Maturitätsprüfungen (MPR)[^10-1].
+
+[^10-1]: SGF [412.1.31](https://bdlf.fr.ch/data/412.1.31/de)
 
 #### Art. 11
 
@@ -350,13 +351,13 @@ beschliesst:
 
 <sup>1</sup> Gegen die Verweigerung des Zeugnisses und den Ausschluss von den Prüfungen kann innert fünf Tagen nach Mitteilung der Resultate bei der Präsidentin oder beim Präsidenten der Prüfungskommission Einsprache erhoben werden. Diese Einsprache muss schriftlich erfolgen und begründet werden.
 
-<sup>2</sup> Der Prüfungsausschuss fällt seinen neuen Entscheid innerhalb von zwanzig Tagen, sofern keine besonderen Umstände vorliegen, von denen die Einsprecherin oder der Einsprecher benachrichtigt werden muss.
+<sup>2</sup> Abgesehen von besonderen Umständen, die der Einsprecherin oder dem Einsprecher mitgeteilt werden müssen, fällt die Präsidentin oder der Präsident der Prüfungskommission innerhalb von 20 Tagen einen neuen Entscheid und hört vorgängig die beteiligten Examinatorinnen und Examinatoren sowie Expertinnen und Experten an.
 
 #### Art. 36
 
 **Beschwerde**
 
-<sup>1</sup> Gegen den Einspracheentscheid des Prüfungsausschusses kann innert zehn Tagen ab Mitteilung bei der Direktion Beschwerde eingereicht werden.
+<sup>1</sup> Gegen den Einspracheentscheid der Präsidentin oder des Präsidenten der Prüfungskommission kann innert zehn Tagen ab Mitteilung bei der Direktion Beschwerde eingereicht werden.
 
 <sup>2</sup> Gegen den Entscheid der Direktion kann innert dreissig Tagen ab Mitteilung mit Beschwerde beim Kantonsgericht Beschwerde erhoben werden.
 

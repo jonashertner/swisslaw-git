@@ -3,13 +3,12 @@ canton: FR
 number: "412.0.14"
 title: Règlement concernant la passerelle de la maturité professionnelle ou spécialisée aux hautes écoles universitaires
 language: fr
-version: 2022-02-01
-valid_until: 2025-07-31
-version_adopted: 2022-03-04
+version: 2025-08-01
+version_adopted: 2025-06-23
 adopted: 2011-12-13
 in_force: 2012-04-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/412.0.14"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7290/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8514/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7290/pdf_file"
 
 Passerelle de la maturité professionnelle aux hautes écoles universitaires – R
 
-du 13.12.2011 (version entrée en vigueur le 01.02.2022)
+du 13.12.2011 (version entrée en vigueur le 01.08.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -118,7 +117,9 @@ Arrête:
 
 **Surveillance**
 
-<sup>1</sup> La surveillance de l'examen, en ce qui concerne le jury des examens et la Commission cantonale des examens de l'enseignement secondaire du deuxième degré, se fait conformément aux dispositions du règlement du 17 septembre 2001 concernant les examens de maturité gymnasiale (REMG).
+<sup>1</sup> La surveillance de l'examen, en ce qui concerne le jury des examens et la Commission cantonale des examens de l'enseignement secondaire du deuxième degré, se fait conformément aux dispositions du règlement du 17 septembre 2001 concernant les examens de maturité gymnasiale (REMG)[^10-1].
+
+[^10-1]: RSF [412.1.31](https://bdlf.fr.ch/data/412.1.31/fr)
 
 #### Art. 11
 
@@ -350,13 +351,13 @@ Arrête:
 
 <sup>1</sup> Le refus du certificat et l'exclusion de la session peuvent faire l'objet d'une réclamation écrite et motivée adressée à la présidence du jury, dans un délai de cinq jours dès la communication des résultats.
 
-<sup>2</sup> A moins de circonstances spéciales, dont le réclamant doit être avisé, le bureau des examens rend sa nouvelle décision dans un délai de vingt jours, après avoir consulté les examinateurs ou examinatrices et les experts ou expertes concernés.
+<sup>2</sup> A moins de circonstances spéciales, dont le réclamant doit être avisé, le président ou la présidente du jury rend sa nouvelle décision dans un délai de vingt jours, après avoir consulté les examinateurs ou examinatrices et les experts ou expertes concernés.
 
 #### Art. 36
 
 **Recours**
 
-<sup>1</sup> La décision sur réclamation du bureau des examens peut, dans les dix jours dès sa communication, faire l'objet d'un recours à la Direction.
+<sup>1</sup> La décision sur réclamation du président ou de la présidente du jury peut, dans les dix jours dès sa communication, faire l'objet d'un recours à la Direction.
 
 <sup>2</sup> La décision de la Direction peut, dans les trente jours dès sa communication, faire l'objet d'un recours au Tribunal cantonal.
 
