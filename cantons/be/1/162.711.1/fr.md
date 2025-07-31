@@ -4,13 +4,13 @@ number: "162.711.1"
 title: Règlement d’organisation du Ministère public
 short: RO MP
 language: fr
-version: 2024-01-01
-valid_until: 2025-07-31
-version_adopted: 2023-11-07
+version: 2025-08-01
+valid_until: 2025-11-30
+version_adopted: 2025-05-05
 adopted: 2010-10-15
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/162.711.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2963/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3203/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2963/pdf_file"
 
 (RO MP)
 
-du 15.10.2010 (état au 01.01.2024)
+du 15.10.2010 (état au 01.08.2025)
 
 Le Parquet général du canton de Berne,
 
@@ -281,7 +281,7 @@ arrête:
 
 **Procureurs et procureures en chef**
 
-<sup>1</sup> Chaque ministère public régional ou cantonal est dirigé par un procureur ou une procureure en chef. Le Parquet général les nomme après avoir entendu la conférence des procureurs et procureures régionaux ou cantonaux.
+<sup>1</sup> Chaque ministère public régional ou cantonal est dirigé par un procureur ou une procureure en chef. Il ou elle est nommée par le Parquet général, qui peut entendre à cet effet la conférence des procureurs et procureures régionaux ou cantonaux.
 
 <sup>2</sup> Les procureurs et procureures en chef sont responsables de par la loi du professionnalisme et de l’efficacité de la poursuite pénale dans le domaine qui relève de leur compétence à raison du lieu et de la matière. Ils ou elles représentent leur ministère public vis-à-vis de tiers.
 
@@ -313,7 +313,7 @@ arrête:
 
 **Procureurs suppléants en chef et procureures suppléantes en chef**
 
-<sup>1</sup> Chaque procureur ou procureure en chef a un ou deux suppléants ou suppléantes, en fonction de la taille et des spécificités, de nature linguistique notamment. Le Parquet général les nomme après avoir entendu la conférence des procureurs et procureures régionaux ou cantonaux.
+<sup>1</sup> Chaque procureur ou procureure en chef a un ou deux suppléants ou suppléantes, en fonction de la taille et des spécificités, de nature linguistique notamment. Ils et elles sont nommés par le Parquet général, qui peut entendre à cet effet la conférence des procureurs et procureures régionaux ou cantonaux.
 
 <sup>2</sup> Ceux-ci assurent la direction en cas d’empêchement.
 

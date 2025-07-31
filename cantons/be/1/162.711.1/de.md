@@ -4,13 +4,13 @@ number: "162.711.1"
 title: Organisationsreglement der Staatsanwaltschaft
 short: OrR StAw
 language: de
-version: 2024-01-01
-valid_until: 2025-07-31
-version_adopted: 2023-11-07
+version: 2025-08-01
+valid_until: 2025-11-30
+version_adopted: 2025-05-05
 adopted: 2010-10-15
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/162.711.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2963/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3203/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2963/pdf_file"
 
 (OrR StAw)
 
-vom 15.10.2010 (Stand 01.01.2024)
+vom 15.10.2010 (Stand 01.08.2025)
 
 Die Generalstaatsanwaltschaft des Kantons Bern,
 
@@ -281,7 +281,7 @@ beschliesst:
 
 **Leitende Staatsanwältinnen und Staatsanwälte**
 
-<sup>1</sup> Jede regionale oder kantonale Staatsanwaltschaft steht unter der Leitung einer leitenden Staatsanwältin oder eines leitenden Staatsanwalts. Die Generalstaatsanwaltschaft ernennt sie nach Anhörung der Konferenz der regionalen oder der kantonalen Staatsanwältinnen und Staatsanwälte.
+<sup>1</sup> Jede regionale oder kantonale Staatsanwaltschaft steht unter der Leitung einer leitenden Staatsanwältin oder eines leitenden Staatsanwalts. Diese oder dieser wird von der Generalstaatsanwaltschaft ernannt, die dazu die Konferenz der regionalen oder der kantonalen Staatsanwältinnen und Staatsanwälte anhören kann.
 
 <sup>2</sup> Die leitenden Staatsanwältinnen und Staatsanwälte sind von Gesetzes wegen verantwortlich für die fachgerechte und effiziente Strafverfolgung in ihrem örtlichen und sachlichen Zuständigkeitsbereich und vertreten ihre Staatsanwaltschaft nach aussen.
 
@@ -313,7 +313,7 @@ beschliesst:
 
 **Stellvertretende leitende Staatsanwältinnen und Staatsanwälte**
 
-<sup>1</sup> Jede leitende Staatsanwältin und jeder leitende Staatsanwalt hat je nach Grösse und Besonderheiten, insbesondere sprachlicher Art, eine, einen oder zwei Stellvertreterinnen oder Stellvertreter. Die Generalstaatsanwaltschaft ernennt diese nach Anhörung der Konferenz der regionalen oder der kantonalen Staatsanwältinnen und Staatsanwälte.
+<sup>1</sup> Jede leitende Staatsanwältin und jeder leitende Staatsanwalt hat je nach Grösse und Besonderheiten, insbesondere sprachlicher Art, eine, einen oder zwei Stellvertreterinnen oder Stellvertreter. Diese werden von der Generalstaatsanwaltschaft ernannt, die dazu die Konferenz der regionalen oder der kantonalen Staatsanwältinnen und Staatsanwälte anhören kann.
 
 <sup>2</sup> Sie nehmen die Leitung im Verhinderungsfall wahr.
 
