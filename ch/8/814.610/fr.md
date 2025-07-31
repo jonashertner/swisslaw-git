@@ -4,20 +4,20 @@ title: Ordonnance du 22 juin 2005 sur les mouvements de déchets (OMoD)
 short: OMoD
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/551"
 language: fr
-version: 2020-01-01
+version: 2025-08-01
 adopted: 2005-06-22
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/551/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-551-20200101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/551/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/551/20250801/fr/xml/fedlex-data-admin-ch-eli-cc-2005-551-20250801-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/551/20250801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur les mouvements de déchets
 
-(OMoD**[^t-1]**)
+(OMoD[^t-1])
 
-du 22 juin 2005 (Etat le 1<sup>er</sup> janvier 2020)
+du 22 juin 2005 (État le 1<sup>er</sup> août 2025)
 
 [^t-1]: [RO 2005 4423](https://fedlex.data.admin.ch/eli/oc/2005/569)
 
@@ -192,9 +192,10 @@ Sont exemptés de cette obligation:
 - b. les entreprises qui réceptionnent uniquement des piles ou des accumulateurs qu’elles sont tenues de reprendre aux termes de l’annexe 2.15 de l’ordonnance du 18 mai 2005 sur la réduction des risques liés aux produits chimiques[^8-1] et qui se bornent à les stocker provisoirement;
 - c. les entreprises qui se bornent à stocker provisoirement d’autres déchets soumis à contrôle qu’elles sont tenues de reprendre en vertu d’autres prescriptions ou qu’elles reprennent dans le cadre d’un accord sectoriel reconnu par l’autorité cantonale;
 - d. les entreprises qui reprennent des ménages, en tant que déchets, les produits qu’elles vendent au détail, et qui se bornent à les stocker provisoirement;
-- e. les postes de collecte désignés par les autorités, qui réceptionnent uniquement des huiles moteur, des huiles alimentaires, des tubes fluorescents ou des piles (à l’exception des accumulateurs au plomb) ou d’autres déchets soumis à contrôle et qui se bornent à les stocker provisoirement.
+- e.[^8-2] les postes de collecte désignés par les autorités qui réceptionnent uniquement des huiles moteur, des huiles alimentaires, des tubes fluorescents, des piles portables ou d’autres déchets soumis à contrôle et qui se bornent à les stocker provisoirement.
 
 [^8-1]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^8-2]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 454](https://fedlex.data.admin.ch/eli/oc/2025/454)).
 
 #### Art. 9
 
@@ -279,7 +280,7 @@ Toute entreprise d’élimination qui réceptionne d’autres déchets soumis à
 [^12-4]: Nouvelle teneur selon le ch. I de l’O du 23 mars 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1117](https://fedlex.data.admin.ch/eli/oc/2016/207)).
 [^12-5]: Nouvelle teneur selon le ch. I de l’O du 23 mars 2016, en vigueur depuis le 1er juil. 2016 ([RO 2016 1117](https://fedlex.data.admin.ch/eli/oc/2016/207)).
 
-### Section 3 Transport de déchets nécessitant un document de suivi****
+### Section 3 Transport de déchets nécessitant un document de suivi
 
 [^chap2-sec3-1]
 
@@ -343,6 +344,8 @@ Sont considérés comme des déchets au sens de la Convention de Bâle:
 
 <sup>1</sup> Quiconque exporte des déchets doit disposer d’une autorisation de l’OFEV.[^15-1]
 
+<sup>1bis</sup> En dérogation à l’al. 1, les cantons peuvent prévoir que leurs autorités sont compétentes pour l’octroi de l’autorisation d’exporter des matériaux d’excavation et de percement non pollués provenant de leurs territoires respectifs vers des zones frontalières. Dans ce cas, la procédure cantonale d’autorisation est réglée par analogie aux art. 15 à 21.[^15-2]
+
 <sup>2</sup>
 
 Aucune autorisation n’est requise pour exporter des déchets:
@@ -354,14 +357,15 @@ Aucune autorisation n’est requise pour exporter des déchets:
   - 1\. dans un pays membre de l’OCDE ou de l’UE, si ces déchets figurent sur la liste verte de la Décision du Conseil de l’OCDE et ne sont pas des déchets au sens de l’art. 14, al. 3, ou
   - 2\. dans un pays non membre de l’OCDE ou de l’UE, si ces déchets figurent dans l’annexe IX de la Convention de Bâle et ne sont pas des déchets au sens de l’art. 14, al. 3;
 
-- b. dans un pays membre de l’OCDE ou de l’UE, s’il s’agit d’échantillons de déchets exportés pour vérifier les possibilités techniques de leur élimination; il n’est permis d’exporter que le nombre d’échantillons nécessaire et aucun ne doit peser plus de 25 kg.[^15-2]
+- b. dans un pays membre de l’OCDE ou de l’UE, s’il s’agit d’échantillons de déchets exportés pour vérifier les possibilités techniques de leur élimination; il n’est permis d’exporter que le nombre d’échantillons nécessaire et aucun ne doit peser plus de 25 kg.[^15-3]
 
 <sup>3</sup> Le DETEC définit dans une ordonnance les procédés d’élimination considérés comme une valorisation; il se fonde sur la Convention de Bâle.
 
 <sup>4</sup> L’exportateur ne peut effectuer une exportation de déchets non soumise à autorisation au sens de l’al. 2 que s’il s’est procuré au préalable des documents attestant que la valorisation prévue est respectueuse de l’environnement. Il est tenu de conserver les documents pendant un an au moins à compter de la date d’exportation.
 
 [^15-1]: Nouvelle teneur selon le ch. I de l’O du 23 mars 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1117](https://fedlex.data.admin.ch/eli/oc/2016/207)).
-[^15-2]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2013, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 193](https://fedlex.data.admin.ch/eli/oc/2014/28)).
+[^15-2]: Introduit par le ch. I de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 454](https://fedlex.data.admin.ch/eli/oc/2025/454)).
+[^15-3]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2013, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 193](https://fedlex.data.admin.ch/eli/oc/2014/28)).
 
 #### Art. 16
 
@@ -396,27 +400,35 @@ L’OFEV autorise l’exportation:
 
   si les déchets ci-après ne peuvent pas être éliminés en Suisse ou si leur exportation est régie par un accord passé dans le cadre d’une collaboration régionale transfrontière:
 
-  - 1\. les déchets urbains et les déchets de composition analogue provenant des entreprises,
+  - 1\.[^17-3] les déchets combustibles collectés en mélange et provenant des ménages et des entreprises tels que les ordures et les déchets encombrants, de même que leurs fractions traitées devant faire l’objet d’une valorisation énergie,
   - 2\. les mâchefers provenant d’installations où sont incinérés des déchets urbains ou des déchets de composition analogue,
   - 3\. les déchets de la voirie et des stations publiques d’épuration des eaux usées,
-  - 4\. les déchets de chantier combustibles non triés;
+  - 4\.[^17-4] les déchets de chantier combustibles non triés, de même que leurs fractions traitées devant faire l’objet d’une valorisation énergie,
+  - 5\.[^17-5] les biodéchets collectés séparément et provenant des ménages ainsi que les déchets végétaux issus de l’entretien de jardins et de parcs par des entreprises; sont exceptés les déchets de bois;
 
-- d.[^17-3]
+- d.[^17-6]
 
   si les déchets ne sont pas exportés en vue d’être stockés définitivement dans une décharge; font exception à cette disposition:
 
   - 1\. les déchets exportés dans le cadre d’une collaboration régionale transfrontière régie par un contrat,
-  - 2\. les mâchefers d’incinération de déchets urbains importés dont la reprise a été requise dans la demande d’importation,
+  - 2\.[^17-7] les mâchefers d’incinération de déchets combustibles collectés en mélange et importés provenant des ménages et des entreprises, tels les ordures et les déchets encombrants, dont la reprise a été requise dans la demande d’importation, de même que leurs fractions traitées devant faire l’objet d’une valorisation énergie,
+  - 2<sup>bis</sup>.[^17-8] les mâchefers d’incinération de déchets de chantier combustibles non triés et importés dont la reprise a été requise dans la demande d’importation, de même que leurs fractions traitées devant faire l’objet d’une valorisation énergie,
   - 3\. les déchets destinés à être mis en décharge souterraine,
-  - 4\. les matériaux d’excavation et déblais de découverte et de percement non pollués destinés à être stockés dans des décharges des zones frontalières;
+  - 4\.[^17-9] les matériaux d’excavation et de percement non pollués destinés à être stockés dans des décharges des zones frontalières;
 
 - e. s’il a reçu l’accord du pays d’importation et des pays de transit requis par la Convention de Bâle et la Décision du Conseil de l’OCDE;
-- f.[^17-4] si une garantie financière suffisante au sens de l’art. 20 a été fournie.
+- f.[^17-10] si une garantie financière suffisante au sens de l’art. 20 a été fournie.
 
 [^17-1]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6259](https://fedlex.data.admin.ch/eli/oc/2009/764)).
 [^17-2]: Nouvelle teneur selon l’annexe 6 ch. 8 de l’O du 4 déc. 2015 sur les déchets, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)).
-[^17-3]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2013, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 193](https://fedlex.data.admin.ch/eli/oc/2014/28)).
-[^17-4]: Introduite par le ch. I de l’O du 18 déc. 2013, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 193](https://fedlex.data.admin.ch/eli/oc/2014/28)).
+[^17-3]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 454](https://fedlex.data.admin.ch/eli/oc/2025/454)).
+[^17-4]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 454](https://fedlex.data.admin.ch/eli/oc/2025/454)).
+[^17-5]: Introduit par le ch. I de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 454](https://fedlex.data.admin.ch/eli/oc/2025/454)).
+[^17-6]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2013, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 193](https://fedlex.data.admin.ch/eli/oc/2014/28)).
+[^17-7]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 454](https://fedlex.data.admin.ch/eli/oc/2025/454)).
+[^17-8]: Introduit par le ch. I de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 454](https://fedlex.data.admin.ch/eli/oc/2025/454)).
+[^17-9]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 454](https://fedlex.data.admin.ch/eli/oc/2025/454)).
+[^17-10]: Introduite par le ch. I de l’O du 18 déc. 2013, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 193](https://fedlex.data.admin.ch/eli/oc/2014/28)).
 
 #### Art. 18
 
@@ -556,7 +568,7 @@ Si l’importation de déchets prévue n’est soumise à contrôle que selon le
 
 **Contrôle lors du transit**
 
-<sup>1</sup> Le transit de déchets par la Suisse n’est admis que si ce transit a été notifié à l’OFEV et que celui-ci ne l’a pas interdit dans les 30 jours après que l’autorité compétente du pays d’importation a accusé réception du formulaire de notification.[^29-1]
+<sup>1</sup> Le transit de déchets par la Suisse n’est admis que s’il a été notifié à l’OFEV et que celui-ci ne l’a pas interdit dans les cinq jours après que l’autorité compétente du pays d’importation a accusé réception du formulaire de notification.[^29-1]
 
 <sup>1bis</sup>
 
@@ -574,7 +586,7 @@ Il interdit le transit des déchets lorsque des indices donnent à penser:
 - a. que l’élimination prévue peut présenter un danger pour l’environnement, ou
 - b. qu’il s’agit d’un trafic illicite au sens de l’art. 9, al. 1, de la Convention de Bâle.
 
-[^29-1]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6259](https://fedlex.data.admin.ch/eli/oc/2009/764)).
+[^29-1]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 454](https://fedlex.data.admin.ch/eli/oc/2025/454)).
 [^29-2]: Introduit par le ch. I de l’O du 11 nov. 2009 ([RO 2009 6259](https://fedlex.data.admin.ch/eli/oc/2009/764)). Nouvelle teneur selon le ch. I de l’O du 23 mars 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1117](https://fedlex.data.admin.ch/eli/oc/2016/207)).
 
 #### Art. 30
@@ -583,7 +595,7 @@ Il interdit le transit des déchets lorsque des indices donnent à penser:
 
 [^30-1]: Abrogé par le ch. I de l’O du 23 mars 2016, avec effet au 1<sup>er</sup> juil. 2016 ([RO 2016 1117](https://fedlex.data.admin.ch/eli/oc/2016/207)).
 
-### Section 5 Formulaires de notification, documents de suivi et étiquetage****
+### Section 5 Formulaires de notification, documents de suivi et étiquetage
 
 [^chap3-sec5-1]
 
@@ -598,7 +610,7 @@ Il interdit le transit des déchets lorsque des indices donnent à penser:
 L’exportation, l’importation et le transit de déchets requièrent, sous réserve des dispositions de l’al. 7, l’utilisation des formulaires de notification et des documents de suivi internationaux établis en vertu des actes législatifs suivants:[^31-1]
 
 - a. la Convention de Bâle;
-- b.[^31-2] l'appendice 8 de la Décision du Conseil de l’OCDE, ou
+- b.[^31-2] l’appendice 8 de la Décision du Conseil de l’OCDE, ou
 - c.[^31-3] annexes IA et IB du règlement (CE) n<sup>o</sup> 1013/2006[^31-4].
 
 <sup>2</sup> L’OFEV met à disposition les formulaires de notification et les documents de suivi[^31-5] de la Convention de Bâle et de la Décision du Conseil de l’OCDE dans une banque de données électronique.[^31-6]
@@ -643,8 +655,8 @@ Aucun document de suivi n’est nécessaire pour:
 
 [^31-1]: Nouvelle teneur selon le ch. I de l’O du 23 mars 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1117](https://fedlex.data.admin.ch/eli/oc/2016/207)).
 [^31-2]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6259](https://fedlex.data.admin.ch/eli/oc/2009/764)).
-[^31-3]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2013, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 193](https://fedlex.data.admin.ch/eli/oc/2014/28)).
-[^31-4]: Règlement (CE) n<sup>o</sup> 1013/2006 du Parlement européen et du Conseil du 14 juin 2006 concernant les transferts de déchets, JO L 190 du 12.7.2006, p. 1; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 255/2013 , JO L 79 du 21.03.2013, p. 19.
+[^31-3]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 454](https://fedlex.data.admin.ch/eli/oc/2025/454)).
+[^31-4]: Règlement (CE) n<sup>o</sup> 1013/2006 du Parlement européen et du Conseil du 14 juin 2006 concernant les transferts de déchets, JO L 190 du 12.7.2006, p. 1; modifié en dernier lieu par le règlement délégué (UE) 2020/2174, JO L 433 du 22.12.2020, p. 19.
 [^31-5]: Traduction adaptée en application de l’art. 12 al. 1 de la loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 [^31-6]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6259](https://fedlex.data.admin.ch/eli/oc/2009/764)).
 [^31-7]: Nouvelle teneur selon le ch. I de l’O du 23 mars 2016, en vigueur depuis le 1<sup>er</sup> juil. 2017 ([RO 2016 1117](https://fedlex.data.admin.ch/eli/oc/2016/207)).
@@ -663,11 +675,12 @@ Aucun document de suivi n’est nécessaire pour:
 
 <sup>2</sup> Les déchets spéciaux destinés à être exportés doivent, pour leur transport en Suisse, être étiquetés au sens de l’art. 7.
 
-<sup>3</sup> La responsabilité de l’étiquetage incombe:
+<sup>3</sup>
 
-a. pour l’exportation: à l’exportateur;
+La responsabilité de l’étiquetage incombe:
 
-b. pour l’importation: à l’entreprise d’élimination située en Suisse.
+- a. pour l’exportation: à l’exportateur;
+- b. pour l’importation: à l’entreprise d’élimination située en Suisse.
 
 <sup>4</sup> Avant de transporter des déchets spéciaux en Suisse, le transporteur doit s’assurer que ces déchets sont dûment étiquetés.
 
@@ -727,6 +740,14 @@ Quiconque organise, à partir de la Suisse, des mouvements de déchets spéciaux
 <sup>2</sup> L’OFEV informe les autorités compétentes des pays concernés et le Secrétariat de la Convention de Bâle s’il constate qu’un mouvement devant franchir une frontière nationale est un trafic illicite au sens de l’art. 9, al. 1, de la Convention de Bâle.
 
 ## Chapitre 4 Exécution
+
+#### Art. 36a
+
+**Autorité compétente et correspondant pour la Convention de Bâle**[^36a-1]
+
+L’OFEV est l’autorité compétente et le correspondant au sens de l’art. 5 de la Convention de Bâle.
+
+[^36a-1]: Introduit par le ch. I de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 454](https://fedlex.data.admin.ch/eli/oc/2025/454)).
 
 #### Art. 37
 
@@ -864,7 +885,7 @@ Les autorisations suivantes délivrées avant l’entrée en vigueur de la prés
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2006.
 
-Annexe 1*[^t-2]*
+Annexe 1[^t-2]
 
 (art. 6, al. 1, 11, al. 2, 13, al. 1 et 2)
 
@@ -963,7 +984,7 @@ Annexe 1*[^t-2]*
 - 3\.4 Le transporteur note les indications requises sur cette copie papier et la signe.
 - 3\.5 L’entreprise d’élimination doit signer la copie papier que lui remet le transporteur et la conserver durant cinq ans au moins.
 
-Annexe 2*[^t-3]*
+Annexe 2[^t-3]
 
 (art. 16, al. 1, let. b, 23, al. 1, let. g)
 

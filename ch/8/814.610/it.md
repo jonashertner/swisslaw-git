@@ -4,11 +4,11 @@ title: Ordinanza del 22 giugno 2005 sul traffico di rifiuti (OTRif)
 short: OTRif
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/551"
 language: it
-version: 2020-01-01
+version: 2025-08-01
 adopted: 2005-06-22
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/551/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2005-551-20200101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/551/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/551/20250801/it/xml/fedlex-data-admin-ch-eli-cc-2005-551-20250801-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/551/20250801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/551/20200101/it"
 
 (OTRif)
 
-del 22 giugno 2005 (Stato 1° gennaio 2020)
+del 22 giugno 2005 (Stato 1° agosto 2025)
 
 Il Consiglio federale svizzero,
 
@@ -185,15 +185,17 @@ Le aziende fornitrici devono apporre sugli imballaggi adibiti al trasporto di ri
 
 <sup>2</sup>
 
-Sono esentate dall’obbligo d’autorizzazione:
+Sono esentati dall’obbligo d’autorizzazione:[^8-1]
 
 - a. le imprese che si limitano a raccogliere o a trasportare rifiuti speciali o altri rifiuti soggetti a controllo;
-- b. le imprese che ricevono esclusivamente pile o accumulatori che sono tenute a riprendere secondo l’allegato 2.15 dell’ordinanza del 18 maggio 2005[^8-1] sulla riduzione dei rischi inerenti ai prodotti chimici e che si limitano a depositare in modo provvisorio tali pile o accumulatori;
+- b. le imprese che ricevono esclusivamente pile o accumulatori che sono tenute a riprendere secondo l’allegato 2.15 dell’ordinanza del 18 maggio 2005[^8-2] sulla riduzione dei rischi inerenti ai prodotti chimici e che si limitano a depositare in modo provvisorio tali pile o accumulatori;
 - c. le imprese che si limitano a depositare in modo provvisorio altri rifiuti soggetti a controllo che sono tenute a riprendere in virtù di altre prescrizioni o che li riprendono nell’ambito di un accordo settoriale riconosciuto dall’autorità cantonale;
 - d. le imprese che riprendono come rifiuti dalle economie domestiche i prodotti che forniscono nella vendita al minuto e che si limitano a depositarli in modo provvisorio;
-- e. i posti di raccolta designati dalle autorità, che ricevono esclusivamente e si limitano a depositare in modo provvisorio oli per motori, oli commestibili, tubi fluorescenti o pile (esclusi gli accumulatori al piombo) oppure altri rifiuti soggetti a controllo.
+- e.[^8-3] i posti di raccolta designati dalle autorità, che ricevono esclusivamente e si limitano a depositare in modo provvisorio oli per motori, oli commestibili, tubi fluorescenti, pile portatili oppure altri rifiuti soggetti a controllo.
 
-[^8-1]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 454](https://fedlex.data.admin.ch/eli/oc/2025/454)).
+[^8-2]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^8-3]: Nuovo testo giusta la cifra I dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 454](https://fedlex.data.admin.ch/eli/oc/2025/454)).
 
 #### Art. 9
 
@@ -341,6 +343,8 @@ Sono considerati rifiuti secondo la Convenzione di Basilea:
 
 <sup>1</sup> Chi esporta rifiuti necessita di un’autorizzazione dell’UFAM.[^15-1]
 
+<sup>1bis</sup> I Cantoni possono prevedere che, in deroga al capoverso 1, le autorità cantonali siano competenti per il rilascio dell’autorizzazione all’esportazione di materiale di scavo e di sgombero non inquinato dal loro Cantone nella regione di confine. In tal caso, gli articoli 15–21 si applicano per analogia alla procedura di autorizzazione cantonale.[^15-2]
+
 <sup>2</sup>
 
 Non necessita di un’autorizzazione chi esporta rifiuti:
@@ -352,14 +356,15 @@ Non necessita di un’autorizzazione chi esporta rifiuti:
   - 1\. in uno Stato membro dell’OCSE o dell’UE se sono rifiuti secondo la lista verde dei rifiuti della decisione del Consiglio dell’OCSE e non rifiuti secondo l’articolo 14 capoverso 3, o
   - 2\. in uno Stato che non è membro dell’OCSE o dell’UE se sono rifiuti secondo l’allegato IX della Convenzione di Basilea e non rifiuti secondo l’articolo 14 capoverso 3;
 
-- b. in uno Stato membro dell’OCSE o dell’UE se si tratta di campioni di rifiuti esportati per verificare le possibilità tecniche di smaltimento; è consentita soltanto l’esportazione della quantità di campioni necessaria e i singoli campioni non possono superare 25 kg.[^15-2]
+- b. in uno Stato membro dell’OCSE o dell’UE se si tratta di campioni di rifiuti esportati per verificare le possibilità tecniche di smaltimento; è consentita soltanto l’esportazione della quantità di campioni necessaria e i singoli campioni non possono superare 25 kg.[^15-3]
 
 <sup>3</sup> Il DATEC stabilisce in un’ordinanza i metodi di smaltimento che vengono considerati come riciclaggio; a tal fine si basa sulla Convenzione di Basilea.
 
 <sup>4</sup> L’esportatore può effettuare un’esportazione non soggetta ad autorizzazione secondo il capoverso 2 soltanto se si è previamente procurato i documenti dai quali risulta che il riciclaggio previsto è rispettoso dell’ambiente. L’esportatore deve conservare i documenti per almeno un anno a decorrere dalla data d’esportazione.
 
 [^15-1]: Nuovo testo giusta la cifra I dell’O del 23 mar. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1117](https://fedlex.data.admin.ch/eli/oc/2016/207)).
-[^15-2]: Nuovo testo giusta la cifra I dell’O del 18 dic. 2013, in vigore dal 1° mag. 2014 ([RU 2014 193](https://fedlex.data.admin.ch/eli/oc/2014/28)).
+[^15-2]: Introdotto dalla cifra I dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 454](https://fedlex.data.admin.ch/eli/oc/2025/454)).
+[^15-3]: Nuovo testo giusta la cifra I dell’O del 18 dic. 2013, in vigore dal 1° mag. 2014 ([RU 2014 193](https://fedlex.data.admin.ch/eli/oc/2014/28)).
 
 #### Art. 16
 
@@ -394,26 +399,33 @@ L’UFAM autorizza l’esportazione se:
 
   lo smaltimento dei rifiuti indicati qui di seguito non è possibile in Svizzera oppure ne è prevista l’esportazione nell’ambito di una collaborazione regionale transfrontaliera disciplinata contrattualmente:
 
-  - 1\. rifiuti urbani e rifiuti di composizione analoga provenienti da imprese,
+  - 1\.[^17-3] rifiuti combustibili non raccolti separatamente provenienti dalle economie domestiche e dalle imprese, come rifiuti solidi urbani e rifiuti ingombranti, nonché le relative frazioni trattate e da sottoporre a valorizzazione energetica,
   - 2\. scorie provenienti da impianti in cui vengono inceneriti rifiuti urbani o rifiuti di composizione analoga,
   - 3\. rifiuti provenienti dalla manutenzione pubblica delle strade e dagli impianti pubblici di depurazione delle acque di scarico,
-  - 4\. rifiuti edili combustibili non selezionati;
+  - 4\.[^17-4] rifiuti edili combustibili non selezionati e relative frazioni trattate e da sottoporre a valorizzazione energetica,
+  - 5\.[^17-5] rifiuti biogeni raccolti separatamente provenienti dalle economie domestiche come pure scarti vegetali provenienti dalla manutenzione di giardini e parchi da parte di imprese; sono fatti salvi i rifiuti di legno;
 
 - d.
 
   i rifiuti non sono esportati per essere conferiti in discarica; è eccettuata l’esportazione di:
 
   - 1\. rifiuti nell’ambito di una collaborazione regionale transfrontaliera disciplinata contrattualmente,
-  - 2\. scorie dell’incenerimento dei rifiuti provenienti da rifiuti urbani importati la cui ripresa è stata richiesta nella domanda di importazione,
+  - 2\.[^17-6] scorie dell’incenerimento dei rifiuti provenienti da rifiuti combustibili, importati e non raccolti separatamente provenienti dalle economie domestiche e dalle imprese, come rifiuti solidi urbani e rifiuti ingombranti, nonché le relative frazioni trattate e da sottoporre a valorizzazione energetica, la cui ripresa è stata richiesta nella domanda di importazione,
+  - 2<sup>bis</sup>.[^17-7] scorie dell’incenerimento di rifiuti edili importati, combustibili e non selezionati nonché le relative frazioni trattate e da sottoporre a valorizzazione energetica, la cui ripresa è stata richiesta nella domanda di importazione,
   - 3\. rifiuti destinati a una discarica sotterranea,
   - 4\. materiale di scavo e di sgombero non inquinato destinato a una discarica nella regione di confine;
 
 - e. sono stati rilasciati i consensi dello Stato importatore e degli Stati di transito necessari secondo la Convenzione di Basilea e la decisione OCSE;
-- f.[^17-3] è fornita una sufficiente garanzia finanziaria secondo l’articolo 20.
+- f.[^17-8] è fornita una sufficiente garanzia finanziaria secondo l’articolo 20.
 
 [^17-1]: Nuovo testo giusta la cifra I dell’O dell’11 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6259](https://fedlex.data.admin.ch/eli/oc/2009/764)).
 [^17-2]: Nuovo testo giusta l’all. 6 n. 8 dell’O del 4 dic. 2015 sui rifiuti, in vigore dal 1° gen. 2016 ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)).
-[^17-3]: Introdotta dalla cifra I dell’O del 18 dic. 2013, in vigore dal 1° mag. 2014 ([RU 2014 193](https://fedlex.data.admin.ch/eli/oc/2014/28)).
+[^17-3]: Nuovo testo giusta la cifra I dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 454](https://fedlex.data.admin.ch/eli/oc/2025/454)).
+[^17-4]: Nuovo testo giusta la cifra I dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 454](https://fedlex.data.admin.ch/eli/oc/2025/454)).
+[^17-5]: Introdotto dalla cifra I dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 454](https://fedlex.data.admin.ch/eli/oc/2025/454)).
+[^17-6]: Nuovo testo giusta la cifra I dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 454](https://fedlex.data.admin.ch/eli/oc/2025/454)).
+[^17-7]: Introdotto dalla cifra I dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 454](https://fedlex.data.admin.ch/eli/oc/2025/454)).
+[^17-8]: Introdotta dalla cifra I dell’O del 18 dic. 2013, in vigore dal 1° mag. 2014 ([RU 2014 193](https://fedlex.data.admin.ch/eli/oc/2014/28)).
 
 #### Art. 18
 
@@ -552,7 +564,7 @@ Se l’importazione di rifiuti è soggetta a un controllo soltanto secondo il di
 
 **Controllo al momento del transito**
 
-<sup>1</sup> I rifiuti possono transitare dalla Svizzera soltanto se il transito è stato notificato all’UFAM e se questi non lo ha vietato entro 30 giorni dalla conferma dell’avvenuta ricezione del modulo di notifica da parte dell’autorità competente dello Stato importatore.[^29-1]
+<sup>1</sup> I rifiuti possono transitare dalla Svizzera soltanto se il transito è stato notificato all’UFAM e se questi non lo ha vietato entro 5 giorni dalla conferma dell’avvenuta ricezione del modulo di notifica da parte dell’autorità competente dello Stato importatore.[^29-1]
 
 <sup>1bis</sup>
 
@@ -570,7 +582,7 @@ Vieta il transito dei rifiuti se vi sono motivi per ritenere che:
 - a. il previsto smaltimento dei rifiuti può rappresentare un pericolo per l’ambiente; o
 - b. si tratta di un traffico illecito secondo l’articolo 9 paragrafo 1 della Convenzione di Basilea.
 
-[^29-1]: Nuovo testo giusta la cifra I dell’O dell’11 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6259](https://fedlex.data.admin.ch/eli/oc/2009/764)).
+[^29-1]: Nuovo testo giusta la cifra I dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 454](https://fedlex.data.admin.ch/eli/oc/2025/454)).
 [^29-2]: Introdotto dalla cifra I dell’O del 11 nov. 2009 ([RU 2009 6259](https://fedlex.data.admin.ch/eli/oc/2009/764)). Nuovo testo giusta la cifra I dell’O del 23 mar. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1117](https://fedlex.data.admin.ch/eli/oc/2016/207)).
 
 #### Art. 30
@@ -639,8 +651,8 @@ I moduli di accompagnamento non sono necessari per:
 
 [^31-1]: Nuovo testo giusta la cifra I dell’O del 23 mar. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1117](https://fedlex.data.admin.ch/eli/oc/2016/207)).
 [^31-2]: Nuovo testo giusta la cifra I dell’O dell’11 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6259](https://fedlex.data.admin.ch/eli/oc/2009/764)).
-[^31-3]: Nuovo testo giusta la cifra I dell’O del 18 dic. 2013, in vigore dal 1° mag. 2014 ([RU 2014 193](https://fedlex.data.admin.ch/eli/oc/2014/28)).
-[^31-4]: Regolamento (CE) n. 1013/2006 del Parlamento europeo e del Consiglio, del 14 giu. 2006, relativo alle spedizioni di rifiuti, GU L 190 del 12.7.2006, pag. 1; modificato da ultimo dal regolamento (UE) n. 255/2013, GU L 79 del 21.03.2013, pag. 19.
+[^31-3]: Nuovo testo giusta la cifra I dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 454](https://fedlex.data.admin.ch/eli/oc/2025/454)).
+[^31-4]: Regolamento (CE) n. 1013/2006 del Parlamento europeo e del Consiglio, del 14 giugno 2006, relativo alle spedizioni di rifiuti, GU L 190 del 12.7.2006, pag. 1; modificato da ultimo dal regolamento (UE) n. 2020/2174, GU L 433 del 22.12.2020, pag. 19.
 [^31-5]: Nuovo testo giusta la cifra I dell’O dell’11 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6259](https://fedlex.data.admin.ch/eli/oc/2009/764)).
 [^31-6]: Nuovo testo giusta la cifra I dell’O del 23 mar. 2016, in vigore dal 1° lug. 2017 ([RU 2016 1117](https://fedlex.data.admin.ch/eli/oc/2016/207)).
 [^31-7]: Nuovo testo giusta la cifra I dell’O del 23 mar. 2016, in vigore dal 1° lug. 2017 ([RU 2016 1117](https://fedlex.data.admin.ch/eli/oc/2016/207)).
@@ -723,6 +735,14 @@ Chi, dalla Svizzera, organizza il traffico di rifiuti speciali tra Stati terzi o
 <sup>2</sup> L’UFAM informa le autorità competenti all’estero e il segretariato della Convenzione di Basilea se accerta che un traffico previsto che attraversa un confine nazionale è un traffico illecito secondo l’articolo 9 paragrafo 1 della Convenzione di Basilea.
 
 ## Capitolo 4: Esecuzione
+
+#### Art. 36a
+
+**Autorità competente e corrispondente per la Convenzione di Basilea**[^36a-1]
+
+L’UFAM è l’autorità competente e il corrispondente di cui all’articolo 5 della Convenzione di Basilea.
+
+[^36a-1]: Introdotto dalla cifra I dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 454](https://fedlex.data.admin.ch/eli/oc/2025/454)).
 
 #### Art. 37
 
@@ -912,9 +932,9 @@ Allegato 1[^t-1]
 - 1\.6 Se la protezione delle persone, dell’ambiente o delle cose richiede una procedura urgente, i moduli di accompagnamento possono essere emessi successivamente.
 - 1\.7 L’UFAM stabilisce la forma dei moduli di accompagnamento[^annex1-lvlu1-lvl1-1].
 
-### 2 Deroghe
-
 [^annex1-lvlu1-lvl1-1]: Moduli prestampati possono essere richiesti presso l’Ufficio federale delle costruzioni e della logistica, Vendita di pubblicazioni federali, 3003 Berna.
+
+### 2 Deroghe
 
 - 2\.1
 
@@ -999,7 +1019,7 @@ II
 
 Le ordinanze qui appresso sono modificate come segue:
 
-…[^annex3-lvlu1-2]
+...[^annex3-lvlu1-2]
 
 [^annex3-lvlu1-1]: [[RU 1987 55](https://fedlex.data.admin.ch/eli/oc/1987/55_55_55); **1991** 196 art. 47 n. 1, [1981](https://fedlex.data.admin.ch/eli/oc/1991/1981_1981_1981)cifra II 1; [1992 1749](https://fedlex.data.admin.ch/eli/oc/1992/1749_1749_1749)cifra II 5; [1995 5505](https://fedlex.data.admin.ch/eli/oc/1995/5505_5505_5505)cifra II 1; [1996 903](https://fedlex.data.admin.ch/eli/oc/1996/903_903_903); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)cifra II 12]
 [^annex3-lvlu1-2]: Le mod. possono essere consultate alla [RU 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551).

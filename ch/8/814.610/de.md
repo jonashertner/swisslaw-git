@@ -4,11 +4,11 @@ title: Verordnung vom 22. Juni 2005 über den Verkehr mit Abfällen (VeVA)
 short: VeVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/551"
 language: de
-version: 2020-01-01
+version: 2025-08-01
 adopted: 2005-06-22
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/551/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2005-551-20200101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/551/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/551/20250801/de/xml/fedlex-data-admin-ch-eli-cc-2005-551-20250801-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/551/20250801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,11 +17,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/551/20200101/de"
 
 (VeVA)
 
-vom 22. Juni 2005 (Stand am 1. Januar 2020)
+vom 22. Juni 2005 (Stand am 1. August 2025)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 30*b* Absatz 1, 30*f* Absätze 1–3, 30*g* Absatz 1, 39 Absatz 1 und 46 Absatz 2 des Umweltschutzgesetzes vom 7. Oktober 1983[^ingress-1] (USG), in Ausführung des Basler Übereinkommens vom 22. März 1989[^ingress-2] über die Kontrolle der grenzüberschreitenden Verbringung gefährlicher Abfälle und ihrer Entsorgung (Basler Übereinkommen) und des OECD-Ratsbeschlusses C(2001)107/FINAL vom 14. Juni 2001[^ingress-3] betreffend die Änderung des Ratsbeschlusses C(92)39/FINAL vom 30. März 1992 über die Kontrolle grenzüberschreitender Verbringungen von Abfällen, die zur Verwertung bestimmt sind (OECD-Ratsbeschluss),[^ingress-4]
+gestützt auf die Artikel 30*b* Absatz 1, 30*f* Absätze 1–3, 30*g* Absatz 1, 39 Absatz 1 und 46 Absatz 2 des Umweltschutzgesetzes vom 7. Oktober 1983[^ingress-1] ( USG ), in Ausführung des Basler Übereinkommens vom 22. März 1989[^ingress-2] über die Kontrolle der grenzüberschreitenden Verbringung gefährlicher Abfälle und ihrer Entsorgung (Basler Übereinkommen) und des OECD-Ratsbeschlusses C(2001)107/FINAL vom 14. Juni 2001[^ingress-3] betreffend die Änderung des Ratsbeschlusses C(92)39/FINAL vom 30. März 1992 über die Kontrolle grenzüberschreitender Verbringungen von Abfällen, die zur Verwertung bestimmt sind (OECD-Ratsbeschluss),[^ingress-4]
 
 verordnet:
 
@@ -131,7 +131,8 @@ Die kantonale Behörde kann Abgeberbetrieben für die regelmässige Übergabe gr
 - a. dies nicht zu dem Zweck geschieht, dass die Abfälle durch die Herabsetzung des Schadstoffgehalts unter weniger strenge Vorschriften fallen;
 - b. dies aus betrieblichen Gründen sinnvoll ist; und
 - c. dadurch die Umwelt nicht stärker belastet wird.
-- [tab] <sup>4</sup> Entsorgungsunternehmen dürfen Sonderabfälle für die Übergabe vermischen oder verdünnen, wenn dies nicht zu dem Zweck geschieht, dass die Abfälle durch die Herabsetzung des Schadstoffgehalts unter weniger strenge Vorschriften fallen.
+
+<sup>4</sup> Entsorgungsunternehmen dürfen Sonderabfälle für die Übergabe vermischen oder verdünnen, wenn dies nicht zu dem Zweck geschieht, dass die Abfälle durch die Herabsetzung des Schadstoffgehalts unter weniger strenge Vorschriften fallen.
 
 <sup>5</sup> Für das Vermischen und Verdünnen von anderen kontrollpflichtigen Abfällen gelten die Vorschriften der Abfallverordnung vom 4. Dezember 2015[^5-1].[^5-2]
 
@@ -170,7 +171,8 @@ Abgeberbetriebe müssen Verpackungen für den Transport von Sonderabfällen mit 
 - a. mit den Aufschriften «Sonderabfälle», «déchets spéciaux» und «rifiuti speciali»;
 - b. mit dem Abfallcode oder der Bezeichnung der Abfälle nach dem Abfallverzeichnis;
 - c. mit der Nummer des Begleitscheins.
-- [tab] <sup>2</sup> Die Kennzeichnung ist nicht erforderlich, wenn die Sonderabfälle ohne Begleitscheine übergeben werden dürfen.
+
+<sup>2</sup> Die Kennzeichnung ist nicht erforderlich, wenn die Sonderabfälle ohne Begleitscheine übergeben werden dürfen.
 
 ### 2. Abschnitt: Entgegennahme von Abfällen
 
@@ -188,9 +190,10 @@ Von der Bewilligungspflicht ausgenommen sind:
 - b. Unternehmen, die ausschliesslich Batterien oder Akkumulatoren entgegennehmen, zu deren Rücknahme sie nach Anhang 2.15 der Chemikalien-Risikoreduktions-Verordnung vom 18. Mai 2005[^8-1] verpflichtet sind und die diese Batterien oder Akkumulatoren lediglich zwischenlagern;
 - c. Unternehmen, die andere kontrollpflichtige Abfälle, die sie auf Grund anderer Vorschriften zurücknehmen müssen oder im Rahmen einer von der kantonalen Behörde anerkannten Branchenvereinbarung zurücknehmen, lediglich zwischenlagern;
 - d. Unternehmen, die Produkte, die sie im Kleinverkauf abgeben, von Haushalten als Abfälle zurücknehmen und lediglich zwischenlagern;
-- e. von Behörden bezeichnete Sammelstellen, die ausschliesslich Motorenöl, Speiseöl, Leuchtstoffröhren oder Batterien (mit Ausnahme von Bleiakkumulatoren) oder andere kontrollpflichtige Abfälle entgegennehmen und lediglich zwischenlagern.
+- e.[^8-2] von Behörden bezeichnete Sammelstellen, die ausschliesslich Motorenöl, Speiseöl, Leuchtstoffröhren, Gerätebatterien oder andere kontrollpflichtige Abfälle entgegennehmen und lediglich zwischenlagern.
 
 [^8-1]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^8-2]: Fassung gemäss Ziff. I der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 454](https://fedlex.data.admin.ch/eli/oc/2025/454)).
 
 #### Art. 9
 
@@ -216,7 +219,8 @@ Sie legt in der Bewilligung insbesondere fest:
 - a. welche Abfälle entgegengenommen werden dürfen;
 - b. wie die Abfälle entsorgt werden;
 - c. welche Auflagen für die umweltverträgliche Entsorgung der Abfälle einzuhalten sind, insbesondere Mengenbeschränkungen, Einsatz bestimmter Anlagen und Einrichtungen, Beizug von Fachleuten.
-- [tab] <sup>3</sup> Sie erteilt die Bewilligung für höchstens 5 Jahre.
+
+<sup>3</sup> Sie erteilt die Bewilligung für höchstens 5 Jahre.
 
 <sup>4</sup> Sie trägt die Angaben nach Absatz 2 Buchstaben a und b in die Datenbank des Bundesamts für Umwelt (BAFU) (Art. 41 Abs. 1) ein*.*[^10-1]
 
@@ -273,7 +277,7 @@ Entsorgungsunternehmen, die andere kontrollpflichtige Abfälle ohne Begleitschei
 [^12-3]: Fassung gemäss Ziff. I der V vom 23. März 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1117](https://fedlex.data.admin.ch/eli/oc/2016/207)).
 [^12-4]: Fassung gemäss Ziff. I der V vom 23. März 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1117](https://fedlex.data.admin.ch/eli/oc/2016/207)).
 
-### 3. Abschnitt: Transport von Abfällen mit Begleitscheinpflicht****
+### 3. Abschnitt: Transport von Abfällen mit Begleitscheinpflicht
 
 [^chap2-sec3-1]
 
@@ -337,6 +341,8 @@ Als Abfälle nach dem Basler Übereinkommen gelten:
 
 <sup>1</sup> Wer Abfälle ausführt, benötigt eine Bewilligung des BAFU.[^15-1]
 
+<sup>1bis</sup> Die Kantone können vorsehen, dass in Abweichung von Absatz 1 die kantonalen Behörden für die Erteilung der Bewilligung für die Ausfuhr von unverschmutztem Aushub- und Ausbruchsmaterial aus ihrem Kanton ins grenznahe Ausland zuständig sind. In diesem Fall gelten die Artikel 15–21 für das kantonale Bewilligungsverfahren sinngemäss. [^15-2]
+
 <sup>2</sup>
 
 Keine Bewilligung benötigt, wer Abfälle ausführt:
@@ -348,14 +354,15 @@ Keine Bewilligung benötigt, wer Abfälle ausführt:
   - 1\. in einen Mitgliedstaat der OECD oder der EU, wenn es Abfälle nach der grünen Abfallliste des OECD-Ratsbeschlusses und nicht Abfälle nach Artikel 14 Absatz 3 sind, oder
   - 2\. in einen Staat, der nicht Mitglied der OECD oder der EU ist, wenn es Abfälle nach Anlage IX des Basler Übereinkommens und nicht Abfälle nach Artikel 14 Absatz 3 sind;
 
-- b. in einen Mitgliedstaat der OECD oder der EU, wenn es sich um Proben von Abfällen handelt und diese ausgeführt werden, um die technische Möglichkeit ihrer Entsorgung abzuklären; es dürfen nur so viele Abfallproben wie nötig ausgeführt werden und eine Probe darf höchstens 25 kg wiegen.[^15-2]
+- b. in einen Mitgliedstaat der OECD oder der EU, wenn es sich um Proben von Abfällen handelt und diese ausgeführt werden, um die technische Möglichkeit ihrer Entsorgung abzuklären; es dürfen nur so viele Abfallproben wie nötig ausgeführt werden und eine Probe darf höchstens 25 kg wiegen.[^15-3]
 
 <sup>3</sup> Das UVEK legt in einer Verordnung fest, welche Entsorgungsverfahren als Verwertung gelten; es orientiert sich dabei am Basler Übereinkommen.
 
 <sup>4</sup> Der Exporteur darf einen bewilligungsfreien Export nach Absatz 2 nur dann durchführen, wenn er sich vorgängig Unterlagen beschafft hat, aus denen hervorgeht, dass die geplante Verwertung umweltverträglich ist. Der Exporteur muss die Unterlagen mindestens ein Jahr über das Datum der Ausfuhr hinaus aufbewahren.
 
 [^15-1]: Fassung gemäss Ziff. I der V vom 23. März 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1117](https://fedlex.data.admin.ch/eli/oc/2016/207)).
-[^15-2]: Fassung gemäss Ziff. I der V vom 18. Dez. 2013, in Kraft seit 1. Mai 2014 ([AS 2014 193](https://fedlex.data.admin.ch/eli/oc/2014/28)).
+[^15-2]: Eingefügt durch Ziff. I der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 454](https://fedlex.data.admin.ch/eli/oc/2025/454)).
+[^15-3]: Fassung gemäss Ziff. I der V vom 18. Dez. 2013, in Kraft seit 1. Mai 2014 ([AS 2014 193](https://fedlex.data.admin.ch/eli/oc/2014/28)).
 
 #### Art. 16
 
@@ -390,26 +397,34 @@ Das BAFU bewilligt die Ausfuhr, wenn:
 
   für die folgenden Abfälle die Entsorgung in der Schweiz nicht möglich ist oder die Ausfuhr im Rahmen einer vertraglich vereinbarten regionalen grenzüberschreitenden Zusammenarbeit vorgesehen ist:
 
-  - 1\. Siedlungsabfälle und Abfälle vergleichbarer Zusammensetzung aus Unternehmen,
+  - 1\.[^17-3] gemischt gesammelte, brennbare Abfälle aus Haushalten und Unternehmen, wie Kehricht und Sperrgut, sowie deren behandelte und energetisch zu verwertende Anteile,
   - 2\. Schlacke aus Anlagen, in denen Siedlungsabfälle oder Abfälle vergleichbarer Zusammensetzung verbrannt werden,
   - 3\. Abfälle aus dem öffentlichen Strassenunterhalt und der öffentlichen Abwasserreinigung,
-  - 4\. brennbare, vermischte Bauabfälle;
+  - 4\.[^17-4] brennbare, vermischte Bauabfälle und deren behandelte und energetisch zu verwertende Anteile,
+  - 5\.[^17-5] separat gesammelte biogene Abfälle aus Haushalten sowie pflanzliche Abfälle aus dem Unterhalt von Gärten und Pärken durch Unternehmen; davon ausgenommen sind Holzabfälle;
 
 - d.
 
   die Abfälle nicht zum Zweck der Ablagerung auf einer Deponie ausgeführt werden; ausgenommen ist die Ausfuhr von:
 
   - 1\. Abfällen im Rahmen einer vertraglich vereinbarten regionalen grenzüberschreitenden Zusammenarbeit,
-  - 2\. Kehrichtschlacke aus importierten Siedlungsabfällen, für welche die Rücknahme im Gesuch zur Einfuhr beantragt wurde,
+  - 2\.[^17-6] Kehrichtschlacke aus importierten, gemischt gesammelten, brennbaren Abfällen aus Haushalten und Unternehmen, wie Kehricht und Sperrgut, sowie deren behandelte und energetisch zu verwertende Anteile, für welche die Rücknahme im Gesuch zur Einfuhr beantragt wurde,
+  - 2<sup>bis</sup>.[^17-7] Kehrichtschlacke aus importierten, brennbaren, vermischten Bauabfällen sowie deren behandelte und energetisch zu verwertende Anteile, für welche die Rücknahme im Gesuch zur Einfuhr beantragt wurde,
   - 3\. Abfällen zur Ablagerung in einer Untertagedeponie,
-  - 4\. unverschmutztem Aushub-, Abraum- und Ausbruchmaterial zur Ablagerung auf Deponien im grenznahen Ausland;
+  - 4\.[^17-8] unverschmutztem Aushub- und Ausbruchmaterial zur Ablagerung auf Deponien im grenznahen Ausland;
 
 - e. die Zustimmungen des Einfuhrstaates und der Durchfuhrstaaten vorliegen, die nach dem Basler Übereinkommen und dem OECD-Ratsbeschluss erforderlich sind;
-- f.[^17-3] eine ausreichende Sicherheitsleistung nach Artikel 20 erbracht ist.
+- f.[^17-9] eine ausreichende Sicherheitsleistung nach Artikel 20 erbracht ist.
 
 [^17-1]: Fassung gemäss Ziff. I der V vom 11. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6259](https://fedlex.data.admin.ch/eli/oc/2009/764)).
 [^17-2]: Fassung gemäss Anhang 6 Ziff. 8 der Abfallverordnung vom 4. Dez. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)).
-[^17-3]: Eingefügt durch Ziff. I der V vom 18. Dez. 2013, in Kraft seit 1. Mai 2014 ([AS 2014 193](https://fedlex.data.admin.ch/eli/oc/2014/28)).
+[^17-3]: Fassung gemäss Ziff. I der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 454](https://fedlex.data.admin.ch/eli/oc/2025/454)).
+[^17-4]: Fassung gemäss Ziff. I der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 454](https://fedlex.data.admin.ch/eli/oc/2025/454)).
+[^17-5]: Eingefügt durch Ziff. I der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 454](https://fedlex.data.admin.ch/eli/oc/2025/454)).
+[^17-6]: Fassung gemäss Ziff. I der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 454](https://fedlex.data.admin.ch/eli/oc/2025/454)).
+[^17-7]: Eingefügt durch Ziff. I der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 454](https://fedlex.data.admin.ch/eli/oc/2025/454)).
+[^17-8]: Fassung gemäss Ziff. I der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 454](https://fedlex.data.admin.ch/eli/oc/2025/454)).
+[^17-9]: Eingefügt durch Ziff. I der V vom 18. Dez. 2013, in Kraft seit 1. Mai 2014 ([AS 2014 193](https://fedlex.data.admin.ch/eli/oc/2014/28)).
 
 #### Art. 18
 
@@ -548,7 +563,7 @@ Unterliegt die Einfuhr von Abfällen nur nach schweizerischem Recht einer Kontro
 
 **Kontrolle bei der Durchfuhr**
 
-<sup>1</sup> Abfälle dürfen nur durch die Schweiz durchgeführt werden, wenn die Durchfuhr dem BAFU notifiziert worden ist und dieses die Durchfuhr nicht innert 30 Tagen, nachdem die zuständige Behörde des Einfuhrstaates den Empfang des Notifizierungsbogens bestätigt hat, verboten hat.[^29-1]
+<sup>1</sup> Abfälle dürfen nur durch die Schweiz durchgeführt werden, wenn die Durchfuhr dem BAFU notifiziert worden ist und dieses die Durchfuhr nicht innert 5 Tagen, nachdem die zuständige Behörde des Einfuhrstaates den Empfang des Notifizierungsbogens bestätigt hat, verboten hat.[^29-1]
 
 <sup>1bis</sup>
 
@@ -566,7 +581,7 @@ Es verbietet die Durchfuhr, wenn Anhaltspunkte dafür bestehen, dass:
 - a. die vorgesehene Entsorgung der Abfälle die Umwelt gefährden kann; oder
 - b. ein unerlaubter Verkehr nach Artikel 9 Absatz 1 des Basler Übereinkommens vorliegt.
 
-[^29-1]: Fassung gemäss Ziff. I der V vom 11. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6259](https://fedlex.data.admin.ch/eli/oc/2009/764)).
+[^29-1]: Fassung gemäss Ziff. I der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 454](https://fedlex.data.admin.ch/eli/oc/2025/454)).
 [^29-2]: Eingefügt durch Ziff. I der V vom 11. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6259](https://fedlex.data.admin.ch/eli/oc/2009/764)). Fassung gemäss Ziff. I der V vom 23. März 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1117](https://fedlex.data.admin.ch/eli/oc/2016/207)).
 
 #### Art. 30
@@ -575,7 +590,7 @@ Es verbietet die Durchfuhr, wenn Anhaltspunkte dafür bestehen, dass:
 
 [^30-1]: Aufgehoben durch Ziff. I der V vom 23. März 2016, mit Wirkung seit 1. Juli 2016 ([AS 2016 1117](https://fedlex.data.admin.ch/eli/oc/2016/207)).
 
-### 5. Abschnitt: Notifizierungsbögen, Begleitscheine und Kennzeichnung****
+### 5. Abschnitt: Notifizierungsbögen, Begleitscheine und Kennzeichnung
 
 [^chap3-sec5-1]
 
@@ -635,8 +650,8 @@ Keine Begleitscheine sind notwendig für:
 
 [^31-1]: Fassung gemäss Ziff. I der V vom 23. März 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1117](https://fedlex.data.admin.ch/eli/oc/2016/207)).
 [^31-2]: Fassung gemäss Ziff. I der V vom 11. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6259](https://fedlex.data.admin.ch/eli/oc/2009/764)).
-[^31-3]: Fassung gemäss Ziff. I der V vom 18. Dez. 2013, in Kraft seit 1. Mai 2014 ([AS 2014 193](https://fedlex.data.admin.ch/eli/oc/2014/28)).
-[^31-4]: Verordnung (EG) Nr. 1013/2006 des Europäischen Parlaments und des Rates vom 14. Juni 2006 über die Verbringung von Abfällen, ABl. L 190 vom 12.7.2006, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 255/2013, ABI. L 79 vom 21.03.2013, S. 19.
+[^31-3]: Fassung gemäss Ziff. I der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 454](https://fedlex.data.admin.ch/eli/oc/2025/454)).
+[^31-4]: Verordnung (EG) Nr. 1013/2006 des Europäischen Parlaments und des Rates vom 14. Juni 2006 über die Verbringung von Abfällen, ABI. L 190 vom 12.7.2006, S. 1; zuletzt geändert durch Delegierte Verordnung (EU) 2020/2174, ABl. L 433 vom 22.12.2020, S. 19.
 [^31-5]: Fassung gemäss Ziff. I der V vom 23. März 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1117](https://fedlex.data.admin.ch/eli/oc/2016/207)).
 [^31-6]: Fassung gemäss Ziff. I der V vom 23. März 2016, in Kraft seit 1. Juli 2017 ([AS 2016 1117](https://fedlex.data.admin.ch/eli/oc/2016/207)).
 [^31-7]: Fassung gemäss Ziff. I der V vom 23. März 2016, in Kraft seit 1. Juli 2017 ([AS 2016 1117](https://fedlex.data.admin.ch/eli/oc/2016/207)).
@@ -660,7 +675,8 @@ Für die Kennzeichnung muss sorgen:
 
 - a. bei der Ausfuhr: der Exporteur;
 - b. bei der Einfuhr: das Entsorgungsunternehmen in der Schweiz.
-- [tab] <sup>4</sup> Der Transporteur muss sich für den Transport auf schweizerischem Gebiet vergewissern, dass die Sonderabfälle gekennzeichnet sind.
+
+<sup>4</sup> Der Transporteur muss sich für den Transport auf schweizerischem Gebiet vergewissern, dass die Sonderabfälle gekennzeichnet sind.
 
 ### 6. Abschnitt: Rücknahme
 
@@ -719,6 +735,14 @@ Wer von der Schweiz aus den Verkehr mit Sonderabfällen zwischen Drittstaaten or
 
 ## 4. Kapitel: Vollzug
 
+#### Art. 36a
+
+**Für das Basler Übereinkommen zuständige Behörde und Anlaufstelle**[^36a-1]
+
+Das BAFU ist die zuständige Behörde und Anlaufstelle nach Artikel 5 des Basler Übereinkommens.
+
+[^36a-1]: Eingefügt durch Ziff. I der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 454](https://fedlex.data.admin.ch/eli/oc/2025/454)).
+
 #### Art. 37
 
 **Vollzug durch die Kantone und den Bund**
@@ -737,7 +761,7 @@ Die Kantone vollziehen diese Verordnung, soweit diese den Vollzug nicht dem Bund
 
 **Vollzugshilfen**[^39-1]
 
-<sup>1</sup> Das BAFU erarbeitet die Vollzugshilfen zur Anwendung dieser Verordnung. Es arbeitet dabei eng mit anderen betroffenen Stellen des Bundes, den Kantonen und den betroffenen Organisationen der Wirtschaft zusammen.
+Das BAFU erarbeitet die Vollzugshilfen zur Anwendung dieser Verordnung. Es arbeitet dabei eng mit anderen betroffenen Stellen des Bundes, den Kantonen und den betroffenen Organisationen der Wirtschaft zusammen.
 
 [^39-1]: Fassung gemäss Ziff. I der V vom 11. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6259](https://fedlex.data.admin.ch/eli/oc/2009/764)).
 
@@ -855,7 +879,7 @@ Folgende Bewilligungen, die vor Inkrafttreten dieser Verordnung erteilt worden s
 
 Diese Verordnung tritt am 1. Januar 2006 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 6 Abs. 1, 11 Abs. 2, 13 Abs. 1 und 2)
 
@@ -954,7 +978,7 @@ Anhang 1*[^t-1]*
 - 3\.4 Der Transporteur macht seine Angaben auf diesem Ausdruck und unterschreibt ihn.
 - 3\.5 Das Entsorgungsunternehmen muss den Ausdruck, den ihm der Transporteur übergibt, unterschreiben und während mindestens 5 Jahren aufbewahren.
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 16 Abs. 1 Bst. b und 23 Abs. 1 Bst. g)
 
@@ -996,5 +1020,5 @@ Die nachstehenden Verordnungen werden wie folgt geändert:
 
 …[^annex3-lvlu1-2]
 
-[^annex3-lvlu1-1]: [[AS 1987 55](https://fedlex.data.admin.ch/eli/oc/1987/55_55_55), [1991 169](https://fedlex.data.admin.ch/eli/oc/1991/169_169_169)Art. 47 Ziff. 1 [1981](https://fedlex.data.admin.ch/eli/oc/1991/1981_1981_1981)Ziff. II 1,[1992 1749](https://fedlex.data.admin.ch/eli/oc/1992/1749_1749_1749)Ziff. II 5,[1995 5505](https://fedlex.data.admin.ch/eli/oc/1995/5505_5505_5505)Ziff. II 1,[1996 903](https://fedlex.data.admin.ch/eli/oc/1996/903_903_903),[2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 12]
+[^annex3-lvlu1-1]: [[AS 1987 55](https://fedlex.data.admin.ch/eli/oc/1987/55_55_55); [1991 169](https://fedlex.data.admin.ch/eli/oc/1991/169_169_169)Art. 47 Ziff. 1, [1981](https://fedlex.data.admin.ch/eli/oc/1991/1981_1981_1981)Ziff. II 1;[1992 1749](https://fedlex.data.admin.ch/eli/oc/1992/1749_1749_1749)Ziff. II 5;[1995 5505](https://fedlex.data.admin.ch/eli/oc/1995/5505_5505_5505)Ziff. II 1;[1996 903](https://fedlex.data.admin.ch/eli/oc/1996/903_903_903);[2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 12]
 [^annex3-lvlu1-2]: Die Änderungen können unter [AS 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)konsultiert werden.
