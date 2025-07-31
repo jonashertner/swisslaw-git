@@ -3,20 +3,20 @@ canton: SO
 number: "131.3"
 title: Verzeichnis der solothurnischen Gemeinden
 language: de
-version: 2025-01-01
-valid_until: 2025-07-31
-version_adopted: 2024-09-11
+version: 2025-08-01
+valid_until: 2025-12-31
+version_adopted: 2025-12-17
 adopted: 1997-10-28
 in_force: 1997-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/131.3"
-pdf: "https://bgs.so.ch/api/de/versions/5501/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5627/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verzeichnis der solothurnischen Gemeinden
 
-Vom 28.10.1997 (Stand 01.01.2025)
+Vom 28.10.1997 (Stand 01.08.2025)
 
 Der Kantonsrat von Solothurn
 
@@ -492,7 +492,7 @@ beschliesst:
   - 2\. Fulenbach (Fulenbach)
   - 3\. Gäu (Egerkingen, Gunzgen, Härkingen, Neuendorf, Niederbuchsiten, Oberbuchsiten, Wolfwil)
   - 4\. Oensingen-Kestenholz (Kestenholz, Oensingen)
-  - 5\. Olten (Boningen, Dulliken, Hauenstein-Ifenthal, Hägendorf, Kappel, Olten, Rickenbach, Starrkirch-Wil, Trimbach, Walterswil, Wangen bei Olten, Winznau, Wisen)
+  - 5\. Region Olten (Boningen, Dulliken, Hauenstein-Ifenthal, Hägendorf, Kappel, Olten, Rickenbach, Starrkirch-Wil, Trimbach, Walterswil, Wangen bei Olten, Winznau, Wisen)
   - 6\. Niederamt (Däniken, Eppenberg-Wöschnau, Gretzenbach, Lostorf, Niedergösgen, Obergösgen, Schönenwerd, Stüsslingen)
   - 7\. Kienberg (Kienberg)
 - f) Bezirk Dorneck
