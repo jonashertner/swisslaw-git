@@ -4,13 +4,12 @@ number: "221"
 title: Einführungsgesetz zur Schweizerischen Zivilprozessordnung
 short: EG ZPO
 language: de
-version: 2019-01-01
-valid_until: 2025-07-31
-version_adopted: 2018-05-17
+version: 2025-08-01
+version_adopted: 2025-03-27
 adopted: 2010-09-23
 in_force: 2011-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/221"
-pdf: "https://bl.clex.ch/api/de/versions/3930/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4302/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3930/pdf_file"
 
 (EG ZPO)
 
-Vom 23.09.2010 (Stand 01.01.2019)
+Vom 23.09.2010 (Stand 01.08.2025)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -40,39 +39,66 @@ beschliesst:[^ingress-2]
 
 ## 2 Zuständigkeiten
 
-### 2.1 Schlichtungsversuche
+### 2.1 Schlichtungsbehörden
 
 #### § 2
 
-**Schlichtungsversuche**
+**Schlichtungsbehörden**
 
 <sup>1</sup> Zuständig für Schlichtungsversuche sind:
 
 - a. die Friedensrichterinnen und Friedensrichter im ordentlichen und im vereinfachten Verfahren, soweit es sich nicht um Streitigkeiten gemäss den Bst. b–e handelt;
 - b. die Schlichtungsstelle für Diskriminierungsstreitigkeiten im Erwerbsleben bei Streitigkeiten nach dem Gleichstellungsgesetz;
-- c. die Zivilkreisgerichtspräsidien bei familien- und erbrechtlichen Streitigkeiten;
-- d. die Schlichtungsstelle für Mietangelegenheiten bei Streitigkeiten aus Miete und Pacht von unbeweglichen Sachen;
-- e. die Zivilkreisgerichtspräsidien bei arbeitsrechtlichen Streitigkeiten.
+- c. …
+- d. die Schlichtungsstelle für Mietangelegenheiten bei Streitigkeiten:
+  - 1\. aus Miete von unbeweglichen Sachen;
+  - 2\. aus Pacht betreffend Rebgrundstücke unter 10 Aren;
+  - 3\. aus Pacht betreffend landwirtschaftliche Grundstücke ohne Gebäude und unter 25 Aren;
+- e. die Zivilkreisgerichtspräsidien bei familien-, erb- und arbeitsrechtlichen Streitigkeiten.
 
 ### 2.2 Zivilkreisgerichte
 
 #### § 3
 
-**Zivilkreisgerichtspräsidien**
+**Zivilkreisgerichtspräsidium**
 
-<sup>1</sup> Die Zivilkreisgerichtspräsidien beurteilen alle Fälle, für die das vereinfachte oder das summarische Verfahren zur Anwendung gelangen. Vorbehalten bleiben summarische Verfahren, die vom Kantonsgericht, Abteilung Zivilrecht, als einziger kantonaler Instanz zu beurteilen sind.
+<sup>1</sup> Das zuständige Zivilkreisgerichtspräsidium beurteilt alle Fälle, für die das vereinfachte oder das summarische Verfahren zur Anwendung gelangt. Vorbehalten bleiben:
 
-<sup>2</sup> Die Zivilkreisgerichtspräsidien beurteilen ferner die Scheidung, die Trennung und die Auflösung einer eingetragenen Partnerschaft auf gemeinsames Begehren bei umfassender Einigung. Diese Zuständigkeit gilt auch für die Abänderung und die Ergänzung auf gemeinsames Begehren bei umfassender Einigung.
+- a. vereinfachte oder summarische Verfahren, die vom Kantonsgericht, Abteilung Zivilrecht, als einziger kantonaler Instanz zu beurteilen sind;
+- b. Vollstreckungen gemäss Art. 335 ff. ZPO[^3-1] von Entscheiden, die in die Zuständigkeit des Kantonsgerichts, Abteilung Zivilrecht, als einziger kantonaler Instanz fallen;
+- c. vereinfachte Verfahren, die von der Dreierkammer des zuständigen Zivilkreisgerichts zu beurteilen sind:
+  - 1\. bei strittiger Scheidungsfolge gemäss Art. 288 Abs. 2 ZPO[^3-2];
+  - 2\. bei nicht feststehendem Scheidungsgrund oder ausgebliebener Einigung gemäss Art. 291 Abs. 3 ZPO[^3-3];
+  - 3\. für streitige Änderungsverfahren gemäss Art. 284 Abs. 3 ZPO[^3-4].
 
-<sup>3</sup> Im Verfahren vor dem Zivilkreisgericht entscheiden die Zivilkreisgerichtspräsidien über die Wiederherstellung.
+<sup>2</sup> Das zuständige Zivilkreisgerichtspräsidium beurteilt auf gemeinsames Begehren bei umfassender Einigung:
+
+- a. die Scheidung;
+- b. die Trennung;
+- c. die Abänderung und die Ergänzung eines Entscheids betreffend Scheidung und Trennung.
+
+<sup>3</sup> Im Verfahren vor dem Zivilkreisgericht entscheidet das zuständige Zivilkreisgerichtspräsidium über die Wiederherstellung.
+
+[^3-1]: [SR 272](https://db.clex.ch/link/Bund/272/de)
+[^3-2]: [SR 272](https://db.clex.ch/link/Bund/272/de)
+[^3-3]: [SR 272](https://db.clex.ch/link/Bund/272/de)
+[^3-4]: [SR 272](https://db.clex.ch/link/Bund/272/de)
 
 #### § 4
 
-**Dreierkammern der Zivilkreisgerichte**
+**Dreierkammer des Zivilkreisgerichts**
 
-<sup>1</sup> Die Dreierkammern der Zivilkreisgerichte beurteilen alle Fälle, die nicht in die Zuständigkeit der Zivilkreisgerichtspräsidien oder in die Zuständigkeit des Kantonsgerichts, Abteilung Zivilrecht, als einziger kantonaler Instanz fallen.
+<sup>1</sup> Die Dreierkammer des zuständigen Zivilkreisgerichts beurteilt alle Fälle, die nicht in die Zuständigkeit des Zivilkreisgerichtspräsidiums oder in die Zuständigkeit des Kantonsgerichts, Abteilung Zivilrecht, als einziger kantonaler Instanz fallen.
 
 <sup>2</sup> In familienrechtlichen Fällen sind nach Möglichkeit beide Geschlechter vertreten.
+
+<sup>3</sup> Die Dreierkammer des Zivilkreisgerichts kann ihren Entscheid im Zirkulationsverfahren treffen:
+
+- a. bei versäumter Klageantwort gemäss Art. 223 Abs. 2 ZPO[^4-1];
+- b. wenn die Parteien auf eine Hauptverhandlung verzichten gemäss Art. 233 ZPO[^4-2].
+
+[^4-1]: [SR 272](https://db.clex.ch/link/Bund/272/de)
+[^4-2]: [SR 272](https://db.clex.ch/link/Bund/272/de)
 
 ### 2.3 Kantonsgericht, Abteilung Zivilrecht
 
@@ -83,13 +109,15 @@ beschliesst:[^ingress-2]
 <sup>1</sup> Das Präsidium der Abteilung Zivilrecht des Kantonsgerichts beurteilt:
 
 - a. Berufungen gegen Entscheide der Präsidien der Zivilkreisgerichte, die im summarischen Verfahren ergangen sind;
-- b. Beschwerden gegen Entscheide der Präsidien der Zivilkreisgerichte, der Friedensrichterinnen und Friedensrichter, der Schlichtungsstelle für Diskriminierungsstreitigkeiten im Erwerbsleben bei Streitigkeiten nach dem Gleichstellungsgesetz sowie der Schlichtungsstelle für Mietangelegenheiten bei Streitigkeiten aus Miete und Pacht von unbeweglichen Sachen;
-- c. Streitigkeiten, die in die Zuständigkeit des Kantongerichts, Abteilung Zivilrecht, als einziger kantonaler Instanz fallen, in denen das summarische Verfahren zur Anwendung gelangt;
-- d. die Wiederherstellung im Verfahren vor Kantonsgericht.
+- b. Beschwerden gegen Entscheide der Präsidien der Zivilkreisgerichte und der Schlichtungsbehörden;
+- c. Streitigkeiten, die in die Zuständigkeit des Kantongerichts, Abteilung Zivilrecht, als einziger kantonaler Instanz fallen, in denen das summarische oder das vereinfachte Verfahren zur Anwendung gelangt;
+- d. die Wiederherstellung im Verfahren vor Kantonsgericht;
+- e. Vollstreckungen von Entscheiden gemäss Art. 335 ff. ZPO[^5-1], die in die Zuständigkeit des Kantonsgerichts, Abteilung Zivilrecht, als einziger kantonaler Instanz fallen.
 
-<sup>2</sup> Das Präsidium der Abteilung Zivilrecht des Kantonsgerichts ist zuständig gemäss Art. 356 Abs. 2 ZPO[^5-1].
+<sup>2</sup> Das Präsidium der Abteilung Zivilrecht des Kantonsgerichts ist zuständig gemäss Art. 356 Abs. 2 ZPO[^5-2].
 
 [^5-1]: [SR 272](https://db.clex.ch/link/Bund/272/de)
+[^5-2]: [SR 272](https://db.clex.ch/link/Bund/272/de)
 
 #### § 6
 
@@ -100,6 +128,7 @@ beschliesst:[^ingress-2]
 - a. Streitigkeiten, in denen der Bundesgesetzgeber eine einzige kantonale Instanz vorschreibt, sofern diese nicht in die Zuständigkeit des Präsidiums fallen;
 - b. Fälle, in denen sich die Prozessparteien auf direkte Anrufung des oberen Gerichts geeinigt haben;
 - c. Berufungen gegen Entscheide der Präsidien der Zivilkreisgerichte, sofern diese nicht in die Zuständigkeit des Präsidiums fallen;
+- c<sup>bis</sup>. Berufungen gegen Entscheide der Schlichtungsbehörden;
 - d. Berufungen gegen Entscheide der Dreierkammern der Zivilkreisgerichte;
 - e. Beschwerden gegen Entscheide der Dreierkammern der Zivilkreisgerichte;
 - f. …
@@ -108,6 +137,8 @@ beschliesst:[^ingress-2]
 <sup>2</sup> Streitigkeiten gemäss § 5 Abs. 1 Bst. a und b sind auf Antrag einer Partei durch die Dreierkammer der Abteilung Zivilrecht des Kantonsgerichts zu beurteilen. Der Antrag ist spätestens mit der ersten Rechtsschrift einzureichen.
 
 <sup>3</sup> Die Dreierkammer der Abteilung Zivilrecht des Kantonsgerichts ist zuständig gemäss Art. 356 Abs. 1 ZPO[^6-1].
+
+<sup>4</sup> Die Dreierkammer der Abteilung Zivilrecht des Kantonsgerichts kann ihre Entscheide im Zirkulationsverfahren treffen.
 
 [^6-1]: [SR 272](https://db.clex.ch/link/Bund/272/de)
 
@@ -119,19 +150,27 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Das Präsidium des mit einem Fall befassten Gerichts ist zuständig für die Prozessleitung.
 
-<sup>2</sup> Die Friedensrichterinnen und Friedensrichter sind in ihrem Zuständigkeitsbereich für die Prozessleitung zuständig.
+<sup>2</sup> Die Schlichtungsbehörden sind in ihrem Zuständigkeitsbereich für die Prozessleitung zuständig.
 
 <sup>3</sup> Im Rahmen der Prozessleitung ist auf die Möglichkeit der Mediation hinzuweisen.
 
-<sup>4</sup> Das Präsidium des mit einem Fall befassten Gerichts ist zuständig für die Abschreibung eines Verfahrens bei Beendigung ohne Entscheid sowie für Nicht-Eintretens-Entscheide bei offensichtlichem Fehlen einer Prozessvoraussetzung.
+<sup>4</sup> Das Präsidium des mit einem Fall befassten Gerichts ist zuständig für die Abschreibung eines Verfahrens bei Beendigung ohne Sachentscheid sowie für Nichteintretensentscheide bei offensichtlichem Fehlen einer Prozessvoraussetzung.
 
-## 4 Vollstreckung
+#### § 7a
+
+**Parteivertretung**
+
+<sup>1</sup> Die Parteivertretung richtet sich nach § 4 Abs. 1 Anwaltsgesetz[^7a-1].
+
+[^7a-1]: [SGS 178](https://bl.clex.ch/data/178/de/art4)
+
+## 4 Vollzug von vollstreckbaren Entscheiden und öffentlichen Urkunden
 
 #### § 8
 
-**Vollstreckung von Entscheiden und öffentlichen Urkunden**
+**Vollzug von vollstreckbaren Entscheiden und öffentlichen Urkunden**
 
-<sup>1</sup> Die Sicherheitsdirektion ist zuständig für die Vollstreckung von Entscheiden und öffentlichen Urkunden.
+<sup>1</sup> Die Vollzugsbehörde Zivil- und Verwaltungsrecht ist zuständig für die Vollstreckung von Entscheiden und öffentlichen Urkunden.
 
 ## 5 Änderung und Aufhebung bisherigen Rechts
 
