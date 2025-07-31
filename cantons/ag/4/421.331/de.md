@@ -4,13 +4,13 @@ number: "421.331"
 title: Verordnung über die Förderung von Kindern und Jugendlichen mit besonderen schulischen Bedürfnissen
 short: V Förderung bei besonderen schulischen Bedürfnissen
 language: de
-version: 2022-01-01
-valid_until: 2025-07-31
-version_adopted: 2021-04-07
+version: 2025-08-01
+valid_until: 2026-07-31
+version_adopted: 2025-06-18
 adopted: 2000-06-28
 in_force: 2000-10-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/421.331"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3717/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3831/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3717/pdf_file"
 
 (V Förderung bei besonderen schulischen Bedürfnissen)
 
-Vom 28.06.2000 (Stand 01.01.2022)
+Vom 28.06.2000 (Stand 01.08.2025)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -265,7 +265,7 @@ beschliesst:
 
 **Zweck**
 
-<sup>1</sup> Schülerinnen und Schüler mit disziplinarischen oder sozialen Auffälligkeiten erhalten in Spezialklassen die Möglichkeit, ihre schulische Situation zu verbessern, damit sie nach rund 20 Wochen wieder in ihre Herkunftsschule oder eine andere Regelklasse zurückkehren und ihre Grundausbildung abschliessen können.
+<sup>1</sup> Schülerinnen und Schüler, deren Integration in die Regelschule einen ordnungsgemässen Schulbetrieb überdurchschnittlich stark belastet, erhalten in Spezialklassen vorübergehend eine auf ihre Bedürfnisse angepasste und abgestimmte Schulung, damit sie nach rund 20 Wochen bis maximal einem Schuljahr wieder in ihre Herkunftsschule oder eine andere Regelklasse zurückkehren oder einer Sonderschule zugewiesen werden können.
 
 #### § 34b
 
@@ -275,7 +275,7 @@ beschliesst:
 
 - a) Gesamtbericht der Schulleitung und der Klassenlehrperson zur aktuellen Lage mit einer Liste der bisher getroffenen Massnahmen, mit den laufenden oder geplanten therapeutischen oder medizinischen Behandlungen, mit den erzielten Wirkungen und mit einer Absichtserklärung zur Wiederaufnahme;
 - b) Bericht des Schulpsychologischen Dienstes zu den Auffälligkeiten, zu den möglichen Ursachen und zum Veränderungspotential;
-- c) schriftliche Erklärung der Eltern zur Kooperationsbereitschaft und Übernahme eines Elternbeitrags für die Verpflegung ihres Kindes im Rahmen der Tagesschule.
+- c) schriftliche Erklärung der Eltern zur Kooperationsbereitschaft sowie Übernahme eines Elternbeitrags für die Verpflegung ihres Kindes, falls die Beschulung im Rahmen einer Tagesschule erfolgt.
 
 <sup>2</sup> Er hat vorgängig beim Departement Bildung, Kultur und Sport die Zustimmung zur beabsichtigten Zuweisung einzuholen.
 
@@ -283,15 +283,19 @@ beschliesst:
 
 **Organisation**
 
-<sup>1</sup> Spezialklassen werden regional als Tagesschulen geführt, die bei der Gestaltung der Tagesstruktur auf die Mitarbeit und Mitverantwortung der Schülerinnen und Schüler aufbaut.
+<sup>1</sup> Spezialklassen werden regional geführt. Sie können als Tagesschulen organisiert werden.
 
-<sup>2</sup> Zeugnis und Promotionsentscheide bleiben in der Zuständigkeit der betreffenden Lehrpersonen und Instanzen der Herkunftsschule. Basis bildet der Lernbericht der Lehrpersonen der Spezialklasse.
+<sup>1<sup>bis</sup></sup> Tagesschulen können bei der Gestaltung der Tagesstruktur auf die Mitarbeit und Mitverantwortung der Schülerinnen und Schüler aufbauen.
+
+<sup>2</sup> Zeugnis und Promotionsentscheide bleiben in der Zuständigkeit der betreffenden Lehrpersonen und Instanzen der Herkunftsschule. Basis der Beurteilung bildet der Lernbericht der Lehrpersonen der Spezialklasse.
 
 #### § 34d
 
 **Unterricht**
 
-<sup>1</sup> Der Unterricht umfasst die Kernfächer gemäss Lehrplan des jeweiligen Schuljahrs der Schülerin oder des Schülers. Erweiterungsfächer werden soweit möglich angeboten.
+<sup>1</sup> Der Unterricht umfasst die Kernfächer gemäss Lehrplan der jeweiligen Regelklasse der einzelnen Schülerinnen und Schüler. Erweiterungsfächer werden soweit möglich angeboten.
+
+<sup>1<sup>bis</sup></sup> Bei Schülerinnen und Schülern mit ausgewiesenem Sonderschulungsbedarf stehen die individuelle Förderung und die dem Sonderschulungsbedarf entsprechende schulische Begleitung im Zentrum.
 
 <sup>2</sup> Für Jugendliche ab vollendetem 14. Altersjahr dürfen Kooperationslösungen mit dem lokalen Gewerbe vereinbart werden.
 
@@ -299,7 +303,7 @@ beschliesst:
 
 **Wiedereingliederung**
 
-<sup>1</sup> Die Wiedereingliederung in die Herkunftsschule erfolgt nach rund 20 Wochen auf der Grundlage eines Austrittsgesprächs.
+<sup>1</sup> Die Wiedereingliederung in die Herkunftsschule oder in eine andere Regelklasse beziehungsweise die Zuweisung in eine Sonderschule erfolgt in der Regel nach rund 20 Wochen bis maximal einem Schuljahr auf der Grundlage einer Standortbestimmung.
 
 ## 7. Übergangs- und Schlussbestimmungen
 
