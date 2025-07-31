@@ -4,13 +4,12 @@ number: "823.1"
 title: Gesetz zur Reinhaltung der Luft
 short: "Lufthygienegesetz, LHG"
 language: de
-version: 2021-04-01
-valid_until: 2025-07-31
-version_adopted: 2021-02-17
+version: 2025-08-01
+version_adopted: 2023-03-08
 adopted: 1989-11-16
 in_force: 1990-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/823.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2174/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2952/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,16 +18,18 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2174/pdf_file"
 
 (Lufthygienegesetz, LHG)
 
-vom 16.11.1989 (Stand 01.04.2021)
+vom 16.11.1989 (Stand 01.08.2025)
 
 Der Grosse Rat des Kantons Bern,
 
-gestützt auf Artikel 36 des Bundesgesetzes vom 7. Oktober 1983 über den Umweltschutz (USG)[^ingress-1] sowie Artikel 35 der Eidgenössischen Luftreinhalte-Verordnung vom 16. Dezember 1985 (LRV)[^ingress-2], auf Antrag des Regierungsrates,
+gestützt auf Artikel 36 des Bundesgesetzes vom 7. Oktober 1983 über den Umweltschutz (Umweltschutzgesetz, USG)[^ingress-1] und Artikel 35 der eidgenössischen Luftreinhalte-Verordnung vom 16. Dezember 1985 (LRV)[^ingress-2],
+
+auf Antrag des Regierungsrates,
 
 beschliesst:
 
-[^ingress-1]: SR 814.01
-[^ingress-2]: SR 814.318.142.1
+[^ingress-1]: SR [814.01](https://db.clex.ch/link/Bund/814.01/de)
+[^ingress-2]: SR [814.318.142.1](https://db.clex.ch/link/Bund/814.318.142.1/de)
 
 ## 1 Geltungsbereich
 
@@ -38,30 +39,18 @@ beschliesst:
 
 ## 2 Ergänzendes kantonales Recht
 
-#### Art. 2
+#### Art. 2–3
 
-**Grundsatz**
-
-<sup>1</sup> Tätigkeiten im Freien dürfen weder schädliche noch lästige Luftverunreinigungen verursachen.
-
-<sup>2</sup> Luftverunreinigungen sind lästig, wenn sie das Wohlbefinden von Menschen in unzumutbarem Ausmass stören.
-
-#### Art. 3
-
-**Landwirtschaftsbetriebe**
-
-<sup>1</sup> Die normale Geruchsbildung, wie sie bei einer gebräuchlichen und ordentlichen Führung eines herkömmlichen Landwirtschaftsbetriebs entsteht, gilt nicht als lästig.
-
-<sup>2</sup> Bei der Düngung sind die örtlichen Gegebenheiten zu berücksichtigen und der Zeitpunkt so zu wählen, dass lästige Einwirkungen unterbleiben.
+**…**
 
 #### Art. 4
 
 **Verbrennen von Abfällen im Freien**
 
-<sup>1</sup> Die Gemeinden können die Vorschriften nach Artikel 30c USG[^4-1] und Artikel 26a LRV[^4-2] über das Verbrennen von Abfällen im Freien verschärfen oder das Verbrennen von Abfällen im Freien ganz verbieten.
+<sup>1</sup> Die Gemeinden können die Vorschriften nach Artikel 30c USG[^4-1] und Artikel 26b LRV[^4-2] über das Verbrennen von natürlichen Wald-, Feld- und Gartenabfällen im Freien verschärfen oder das Verbrennen dieser Abfälle im Freien ganz verbieten.
 
-[^4-1]: SR 814.01
-[^4-2]: SR 814.818.142.1
+[^4-1]: SR [814.01](https://db.clex.ch/link/Bund/814.01/de)
+[^4-2]: SR [814.318.142.1](https://db.clex.ch/link/Bund/814.318.142.1/de)
 
 #### Art. 5
 
@@ -69,7 +58,7 @@ beschliesst:
 
 #### Art. 6
 
-**3. Brände zu Übungszwecken**
+**Brände zu Übungszwecken**
 
 <sup>1</sup> Brände zu Übungs- und Vorführzwecken sind im Freien unter Vorbehalt der Verwendung von Brennstoffen nach Anhang 5 LRV[^6-1] gestattet; verboten ist die Verwendung von Heizöl «Mittel» oder «Schwer».
 
@@ -125,11 +114,9 @@ beschliesst:
 
 <sup>1</sup> Die Gemeinden
 
-- a kontrollieren Feuerungsanlagen mit Heizöl «Extra leicht» und Gas mit einer Feuerungswärmeleistung bis zu einem Megawatt gemäss LRV[^10-1],
-- b vollziehen Artikel 2–6 dieses Gesetzes,
+- a …
+- b vollziehen die Artikel 4 und 6,
 - c sind für den Vollzug zuständig, soweit Aufgaben gemäss Artikel 8 an sie delegiert werden.
-
-[^10-1]: SR 814.318.142.1
 
 #### Art. 11
 
@@ -142,6 +129,33 @@ beschliesst:
 **Bewilligungsverfahren**
 
 <sup>1</sup> Die zuständigen Bewilligungsbehörden haben dafür zu sorgen, dass die Vorschriften zur Reinhaltung der Luft in den bestehenden Bewilligungsverfahren berücksichtigt werden.
+
+## 3a Datenschutz
+
+#### Art. 12a
+
+**Videoaufnahmen von Emissionsquellen**
+
+<sup>1</sup> Die Vollzugsbehörden können im Einzelfall und befristet Videoaufnahmen von Emissionen aus Anlagen, die unter dieses Gesetz fallen, anfertigen, sofern der Sachverhalt nicht anders ermittelt werden kann.
+
+<sup>2</sup> Nicht benötigte Aufzeichnungen sind spätestens drei Monate nach ihrer Erstellung zu löschen.
+
+#### Art. 12b
+
+**Datenbekanntgabe**
+
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion gibt klima- und energierelevante Daten von Anlagen, die unter dieses Gesetz fallen, insbesondere von Anlagen in Gebäuden einschliesslich Standort, bekannt an
+
+- a die mit dem Vollzug des eidgenössischen Gebäude- und Wohnungsregisters betrauten Behörden,
+- b kommunale, kantonale und eidgenössische Vollzugsorgane, die diese zur Erfüllung ihrer gesetzlichen Aufgaben im Klima- oder Energiebereich benötigen.
+
+<sup>2</sup> Sie kann Daten gemäss Absatz 1 an Dritte bekannt geben, die sie im öffentlichen Interesse im Klima- oder Energiebereich verwenden. Ausgeschlossen ist die Datenbekanntgabe für politische Zwecke und zu Werbezwecken.
+
+#### Art. 12c
+
+**Abrufverfahren**
+
+<sup>1</sup> Zur Erfüllung der sich aus diesem Gesetz ergebenden Aufgaben stehen der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion Daten des Grundbuchs zum Eigentum, zu Dienstbarkeiten und zur Grundstücksbeschreibung im Abrufverfahren zur Verfügung.
 
 ## 4 Kosten, Steuerungsinstrumente und Finanzierung
 
@@ -218,25 +232,35 @@ beschliesst:
 
 ## 5 Rechtspflege und Strafbestimmungen
 
+#### Art. 20a
+
+**Einsprache**
+
+<sup>1</sup> Gegen Verfügungen, die gestützt auf dieses Gesetz erlassen werden, kann innert 30 Tagen seit der Eröffnung bei der verfügenden Behörde Einsprache erhoben werden.
+
+<sup>2</sup> Das Einspracheverfahren ist kostenlos.
+
+<sup>3</sup> Im Übrigen gilt das Gesetz vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^20a-1].
+
+[^20a-1]: BSG [155.21](https://www.belex.sites.be.ch/data/155.21/de)
+
 #### Art. 21
 
 **Beschwerde**
 
-<sup>1</sup> Gegen Verfügungen der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion und der Gemeinde kann innert 30 Tagen seit der Eröffnung schriftlich und begründet bei der Wirtschafts-, Energie- und Umweltdirektion Beschwerde erhoben werden.
+<sup>1</sup> Gegen Einspracheverfügungen gemäss Artikel 20a Absatz 1 kann innert 30 Tagen seit der Eröffnung bei der Wirtschafts-, Energie- und Umweltdirektion Beschwerde erhoben werden.
 
 <sup>2</sup> …
 
-<sup>3</sup> Im Übrigen gilt das Gesetz vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^21-1].
-
-[^21-1]: BSG 155.21
+<sup>3</sup> Im Übrigen gilt das VRPG.
 
 #### Art. 22
 
 **Strafen**
 
-<sup>1</sup> Wer vorsätzlich den Artikeln 2–6 dieses Gesetzes oder den gestützt darauf erlassenen Verfügungen zuwiderhandelt, wird mit Busse bestraft.
+<sup>1</sup> Wer vorsätzlich den Artikeln 4 und 6 oder den gestützt darauf erlassenen Verfügungen zuwiderhandelt, wird mit Busse bestraft.
 
-<sup>2</sup> Im übrigen gelten die Strafbestimmungen der Artikel 60–62 USG[^22-1].
+<sup>2</sup> Im Übrigen gelten die Strafbestimmungen der Artikel 60 bis 62 USG[^22-1].
 
 [^22-1]: SR 814.01
 

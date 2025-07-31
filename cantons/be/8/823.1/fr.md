@@ -4,13 +4,12 @@ number: "823.1"
 title: "Loi sur la protection de l'air *"
 short: LPAir
 language: fr
-version: 2021-04-01
-valid_until: 2025-07-31
-version_adopted: 2021-02-17
+version: 2025-08-01
+version_adopted: 2023-03-08
 adopted: 1989-11-16
 in_force: 1990-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/823.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2174/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2952/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,18 +18,18 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2174/pdf_file"
 
 (LPAir)
 
-du 16.11.1989 (état au 01.04.2021)
+du 16.11.1989 (état au 01.08.2025)
 
 Le Grand Conseil du canton de Berne,
 
-vu l'article 36 de la loi du 7 octobre 1983 sur la protection de l'environnement[^ingress-1] (LPE) et l'article 35 de l'ordonnance fédérale du 16 décembre 1985 sur la protection de l'air[^ingress-2] (OPair),
+vu l'article 36 de la loi fédérale du 7 octobre 1983 sur la protection de l'environnement (loi sur la protection de l'environnement, LPE)[^ingress-1] et l'article 35 de l'ordonnance fédérale du 16 décembre 1985 sur la protection de l'air (OPair)[^ingress-2],
 
 sur proposition du Conseil-exécutif,
 
 arrête:
 
-[^ingress-1]: RS 814.01
-[^ingress-2]: RS 814.318.142.1
+[^ingress-1]: RS [814.01](https://db.clex.ch/link/Bund/814.01/fr)
+[^ingress-2]: RS [814.318.142.1](https://db.clex.ch/link/Bund/814.318.142.1/fr)
 
 ## 1 Champ d'application
 
@@ -40,30 +39,18 @@ arrête:
 
 ## 2 Prescriptions complémentaires de droit cantonal
 
-#### Art. 2
+#### Art. 2–3
 
-**Principe**
-
-<sup>1</sup> Les activités en plein air ne doivent pas provoquer de pollution atmosphérique nuisible ou incommodante.
-
-<sup>2</sup> La pollution atmosphérique est incommodante lorsqu'elle gêne exagérément le bien-être de l'homme.
-
-#### Art. 3
-
-**Exploitations agricoles**
-
-<sup>1</sup> Les odeurs qui émanent normalement d'une exploitation agricole, qui est gérée selon les règles et les usages, ne sont pas réputées incommodantes.
-
-<sup>2</sup> Lors de la fumure, il convient de tenir compte des particularités locales et de choisir un moment qui permet d'éviter des effets incommodants.
+**…**
 
 #### Art. 4
 
 **Incinération de déchets en plein air**
 
-<sup>1</sup> Les communes peuvent édicter des prescriptions plus strictes que celles des articles 30c LPE[^4-1] et 26a OPair[^4-2] sur l'incinération des déchets en plein air, ou interdire totalement ce type d'incinération.
+<sup>1</sup> Les communes peuvent édicter des prescriptions plus strictes que celles des articles 30c LPE[^4-1] et 26b OPair[^4-2] sur l'incinération en plein air des déchets naturels provenant des forêts, des champs et des jardins, ou interdire totalement ce type d'incinération.
 
-[^4-1]: RS 814.01
-[^4-2]: RS 814.318.142.1
+[^4-1]: RS [814.01](https://db.clex.ch/link/Bund/814.01/fr)
+[^4-2]: RS [814.318.142.1](https://db.clex.ch/link/Bund/814.318.142.1/fr)
 
 #### Art. 5
 
@@ -71,7 +58,7 @@ arrête:
 
 #### Art. 6
 
-**3. Feux aux fins d'exercice**
+**Feux aux fins d'exercice**
 
 <sup>1</sup> Il est permis de faire du feu en plein air aux fins d'exercice et de démonstration, à condition d'employer des combustibles au sens de l'annexe 5 OPair[^6-1]; il est interdit d'employer de l'huile de chauffage «moyenne» ou «lourde».
 
@@ -127,11 +114,9 @@ arrête:
 
 <sup>1</sup> Les communes
 
-- a contrôlent les foyers alimentés à l'huile de chauffage «extra-légère» et au gaz dont la puissance calorifique ne dépasse pas un mégawatt selon l'OPair[^10-1];
-- b exécutent les articles 2 à 6 de la présente loi;
+- a …
+- b exécutent les articles 4 et 6;
 - c sont chargées de l'exécution si des tâches au sens de l'article 8 leur sont déléguées.
-
-[^10-1]: RS 814.318.142.1
 
 #### Art. 11
 
@@ -144,6 +129,33 @@ arrête:
 **Procédure d'octroi d'autorisation**
 
 <sup>1</sup> Les autorités compétentes pour délivrer des autorisations doivent veiller à ce que les prescriptions sur la protection de l'air soient respectées dans les procédures d'octroi des autorisations.
+
+## 3a Protection des données
+
+#### Art. 12a
+
+**Enregistrements vidéo de sources d'émission**
+
+<sup>1</sup> Si les faits ne peuvent pas être établis autrement, les autorités d'exécution peuvent effectuer au cas par cas et pour une durée limitée des enregistrements vidéo d'émissions provenant d'installations qui relèvent de la présente loi.
+
+<sup>2</sup> Les vidéos inutilisées doivent être supprimées au plus tard trois mois après l'enregistrement.
+
+#### Art. 12b
+
+**Communication des données**
+
+<sup>1</sup> Le service compétent de la Direction de l'économie, de l'énergie et de l'environnement communique les données ayant trait au climat et à l'énergie, site compris, des installations qui relèvent de la présente loi, notamment de celles situées à l'intérieur de bâtiments
+
+- a aux autorités chargées de gérer le Registre fédéral des bâtiments et des logements;
+- b aux organes d'exécution communaux, cantonaux et fédéraux qui en ont besoin pour accomplir les tâches qui leur incombent en vertu de la législation en matière de climat ou d'énergie.
+
+<sup>2</sup> Il peut communiquer des données au sens de l'alinéa 1 à des tiers qui les utilisent dans l'intérêt public dans le domaine du climat ou de l'énergie. La communication de données à des fins politiques ou publicitaires est exclue.
+
+#### Art. 12c
+
+**Procédure d'appel**
+
+<sup>1</sup> Pour accomplir les tâches que lui impartit la présente loi, le service compétent de la Direction de l'économie, de l'énergie et de l'environnement peut consulter les données du registre foncier sur les propriétés, les servitudes et l'état descriptif des immeubles par une procédure d'appel.
 
 ## 4 Frais, instruments d'incitation et financement
 
@@ -220,23 +232,33 @@ arrête:
 
 ## 5 Voies de droit et dispositions pénales
 
+#### Art. 20a
+
+**Opposition**
+
+<sup>1</sup> Les décisions rendues en vertu de la présente loi peuvent, dans les 30 jours à compter de leur notification, faire l’objet d’une opposition auprès de l’autorité qui a rendu la décision.
+
+<sup>2</sup> La procédure d'opposition est gratuite.
+
+<sup>3</sup> Au surplus, la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^20a-1] est applicable.
+
+[^20a-1]: RSB [155.21](https://www.belex.sites.be.ch/data/155.21/fr)
+
 #### Art. 21
 
 **Recours**
 
-<sup>1</sup> Les décisions rendues par le service compétent de la Direction de l’économie, de l’énergie et de l’environnement et la commune peuvent, dans les 30 jours à compter de leur notification, faire l'objet d'un recours écrit et motivé devant la Direction de l’économie, de l’énergie et de l’environnement.
+<sup>1</sup> Les décisions sur opposition rendues en vertu de l'article 20a, alinéa 1 peuvent, dans les 30 jours à compter de leur notification, faire l'objet d'un recours devant la Direction de l’économie, de l’énergie et de l’environnement.
 
 <sup>2</sup> …
 
-<sup>3</sup> Au surplus, la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^21-1] est applicable.
-
-[^21-1]: RSB 155.21
+<sup>3</sup> Au surplus, la LPJA est applicable.
 
 #### Art. 22
 
 **Peines**
 
-<sup>1</sup> Celui qui contrevient intentionnellement aux articles 2 à 6 de la présente loi ou aux décisions rendues en vertu de ces dispositions est passible de l'amende.
+<sup>1</sup> Quiconque contrevient intentionnellement aux articles 4 ou 6 de la présente loi ou aux décisions rendues en vertu de ces dispositions est passible de l'amende.
 
 <sup>2</sup> Au surplus, les dispositions pénales des articles 60 à 62 LPE[^22-1] sont applicables.
 
