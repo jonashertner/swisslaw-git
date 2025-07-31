@@ -4,13 +4,13 @@ number: "422.211"
 title: Verordnung über die Berufs- und Weiterbildung
 short: VBW
 language: de
-version: 2025-01-01
-valid_until: 2025-07-31
-version_adopted: 2024-09-11
+version: 2025-08-01
+valid_until: 2025-12-31
+version_adopted: 2025-05-21
 adopted: 2007-11-07
 in_force: 2008-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/422.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3658/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3822/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3658/pdf_file"
 
 (VBW)
 
-Vom 07.11.2007 (Stand 01.01.2025)
+Vom 07.11.2007 (Stand 01.08.2025)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf die §§ 4 Abs. 3, 5 Abs. 3, 5a Abs. 2, 5b Abs. 2, 9 Abs. 3, 10 Abs. 1, 11 Abs. 3, 16 Abs. 2 und 4, 22 Abs. 3, 23 Abs. 3, 35 Abs. 1, 36 Abs. 3, 37, 40 Abs. 3, 45 Abs. 2, 46 Abs. 2, 47 Abs. 2, 48 Abs. 1 und 2, 49 Abs. 5 und 6, 50 Abs. 3, 51 Abs. 2, 52 Abs. 2, 54 Abs. 5, 57 Abs. 3, 58, 60 Abs. 3, 62 Abs. 2 und 63 Abs. 3 des Gesetzes über die Berufs- und Weiterbildung (GBW) vom 6. März 2007[^ingress-1], § 9 Abs. 1 des Gesetzes über die Organisation des Regierungsrates und der kantonalen Verwaltung (Organisationsgesetz) vom 26. März 1985[^ingress-2] sowie die §§ 4 Abs. 3 und 6 des Dekrets über Spesen, Sitzungsgelder und übrige Entschädigungen vom 14. März 2000[^ingress-3],
+gestützt auf die §§ 4 Abs. 3, 5 Abs. 3, 5a Abs. 2, 5b Abs. 2, 9 Abs. 3, 10 Abs. 1, 11 Abs. 3, 16 Abs. 2 und 4, 17b Abs. 2, 18 Abs. 2, 18a Abs. 2, 22 Abs. 3, 23 Abs. 3, 35 Abs. 1, 36 Abs. 3, 37, 40 Abs. 3, 46 Abs. 2, 47 Abs. 2, 48 Abs. 1 und 2, 49 Abs. 5 und 6, 50 Abs. 3, 51 Abs. 2, 52 Abs. 2, 54 Abs. 5, 57 Abs. 3, 58, 60 Abs. 3, 62 Abs. 2 und 63 Abs. 3 des Gesetzes über die Berufs- und Weiterbildung (GBW) vom 6. März 2007[^ingress-1], § 9 Abs. 1 des Gesetzes über die Organisation des Regierungsrates und der kantonalen Verwaltung (Organisationsgesetz) vom 26. März 1985[^ingress-2] sowie die §§ 4 Abs. 3 und 6 des Dekrets über Spesen, Sitzungsgelder und übrige Entschädigungen vom 14. März 2000[^ingress-3],
 
 beschliesst:
 
@@ -83,9 +83,7 @@ beschliesst:
 
 #### § 6
 
-**Amortisationsverlauf**
-
-<sup>1</sup> …
+**…**
 
 #### § 7
 
@@ -112,16 +110,16 @@ beschliesst:
 
 #### § 7b
 
-**Verfügungsbefugnisse von Anbietern der schulischen Bildung**
+**Verfügungsbefugnisse von Anbietenden der schulischen Bildung**
 
-<sup>1</sup> Die öffentlichen Berufsfachschulen und Lehrwerkstätten können zur Wahrnehmung ihrer Aufgaben nach der Leistungsvereinbarung Verfügungen erlassen, insbesondere:
+<sup>1</sup> Die öffentlichen Berufsfachschulen und Lehrwerkstätten können zur Wahrnehmung ihrer Aufgaben nach dem Leistungsvertrag Verfügungen erlassen, insbesondere:
 
 - a) Aufnahmeentscheide,
 - b) Promotionsentscheide,
 - c) Entscheide über Disziplinarmassnahmen,
 - d) Entscheide betreffend Gebühren und Auslagen.
 
-<sup>2</sup> Die anerkannten öffentlichen und privaten höheren Fachschulen können zur Wahrnehmung ihrer Aufgaben nach der Leistungsvereinbarung Verfügungen erlassen, insbesondere:
+<sup>2</sup> Die anerkannten öffentlichen und privaten höheren Fachschulen können zur Wahrnehmung ihrer Aufgaben nach dem Leistungsvertrag Verfügungen erlassen, insbesondere:
 
 - a) Entscheide gemäss Absatz 1,
 - b) Entscheide über die Erteilung von Diplomen.
@@ -159,9 +157,9 @@ beschliesst:
 
 #### § 11
 
-**Anerkennung von Kursen für Berufsbildnerinnen und Berufsbildnern in Lehrbetrieben**
+**Anerkennung von Kursen für Berufsbildnerinnen und Berufsbildnern von Anbietenden der Bildung in beruflicher Praxis**
 
-<sup>1</sup> Der Kanton anerkennt Kurse von Institutionen, welche die bundesrechtlichen Vorschriften und den Lehrplan, Ausgabe 2016, der Schweizerischen Berufsbildungsämter-Konferenz (SBBK)[^11-1] erfüllen. Dem Gesuch an die Abteilung Berufsbildung und Mittelschule sind Kursprogramm, Kursinhalte, Kurskalkulation und Qualitätskonzept beizulegen.
+<sup>1</sup> Der Kanton anerkennt Kurse von Institutionen, welche die bundesrechtlichen Vorschriften und den Lehrplan, Ausgabe 2019, der Schweizerischen Berufsbildungsämter-Konferenz (SBBK)[^11-1] erfüllen. Dem Gesuch an die Abteilung Berufsbildung und Mittelschule sind Kursprogramm, Kursinhalte, Kurskalkulation und Qualitätskonzept beizulegen.
 
 [^11-1]: Der Lehrplan ist veröffentlicht unter [www.klbb.berufsbildung.ch](http://www.klbb.berufsbildung.ch). Er kann bei der Abteilung Berufsbildung und Mittelschule des Departements Bildung, Kultur und Sport bezogen werden.
 
@@ -177,8 +175,19 @@ beschliesst:
 
 - a) Auskünfte und Unterlagen verlangen,
 - b) Mahnungen und Weisungen erlassen,
-- c) die Revision auf die Prüfung bestimmter Sachverhalte auf die Einhaltung gesetzlicher Bestimmungen und der Leistungsvereinbarung ausdehnen,
+- b<sup>bis</sup>) externe Evaluationen anordnen,
+- c) die Revision auf die Prüfung bestimmter Sachverhalte auf die Einhaltung gesetzlicher Bestimmungen und des Leistungsvertrags ausdehnen,
 - d) Massnahmen zur Wiederherstellung des rechtmässigen Zustands anordnen.
+
+#### § 11b
+
+**Berufszuteilungsplanung**
+
+<sup>1</sup> In der Berufszuteilungsplanung gemäss § 14 GBW bezeichnet der Regierungsrat die öffentlichen Berufsfachschulen und legt insbesondere die Zuteilung der beruflichen Grundbildungen und die Berufsmaturitätsrichtungen fest.
+
+<sup>2</sup> Die Abteilung Berufsbildung und Mittelschule publiziert die Berufszuteilungsplanung[^11b-1] und informiert die Berufsfachschulen über Änderungen.
+
+[^11b-1]: Die Berufszuteilungsplanung ist veröffentlicht unter [www.ag.ch/berufszuteilungsplanung](http://www.ag.ch/berufszuteilungsplanung). Sie kann zudem bei der Abteilung Berufsbildung und Mittelschule des Departements Bildung, Kultur und Sport bezogen werden.
 
 #### § 12
 
@@ -186,19 +195,73 @@ beschliesst:
 
 <sup>1</sup> Für die Abteilungsgrössen in der beruflichen Grundbildung gelten folgende Vorgaben:
 
-- a) Abteilungen mit dem Ziel Berufsattest: mindestens 6, höchstens 18 Lernende,
-- b) Abteilungen mit dem Ziel eidgenössisches Fähigkeitszeugnis: mindestens 6, höchstens 24 Lernende,
-- c) Abteilungen mit dem Ziel Berufsmaturität: mindestens 8, höchstens 24 Lernende.
+- a) Abteilungen mit dem Ziel Berufsattest: mindestens 6 Lernende,
+- b) Abteilungen mit dem Ziel eidgenössisches Fähigkeitszeugnis: mindestens 6 Lernende,
+- c) Abteilungen mit dem Ziel Berufsmaturität: mindestens 8 Lernende.
 
-<sup>2</sup> Abteilungen gemäss Absatz 1 lit. a können ab einer Anzahl von 19 Lernenden geteilt werden. Die übrigen Abteilungen können ab einer Anzahl von 25 Lernenden geteilt werden.
+<sup>2</sup> Abteilungen gemäss Absatz 1 lit. a können ab einer Anzahl von 12 Lernenden geteilt werden. Die übrigen Abteilungen können ab einer Anzahl von 25 Lernenden geteilt werden.
 
 <sup>3</sup> Aus wichtigen Gründen kann die Abteilung Berufsbildung und Mittelschule Ausnahmen bewilligen.
 
 <sup>4</sup> Für die Bildung der Abteilungen ist die Anzahl Lernende in der zweiten Schulwoche massgebend. Die Anzahl Abteilungen bleibt grundsätzlich während des ganzen Schuljahrs unverändert.
 
+#### § 12a
+
+**Integrationsvorlehre a) Zielgruppen**
+
+<sup>1</sup> Die Integrationsvorlehre (INVOL) ist ein Brückenangebot, das branchenspezifisch auf den Einstieg in eine berufliche Grundbildung vorbereitet.
+
+<sup>2</sup> Das Brückenangebot richtet sich an folgende Zielgruppen von Erwachsenen zwischen in der Regel dem vollendeten 21. und 40. Altersjahr, die wesentliche Teile oder die gesamte obligatorische Schulzeit nicht in der Schweiz absolvierten:
+
+- a) anerkannte und vorläufig aufgenommene Flüchtlinge, vorläufig aufgenommene Personen und Personen mit asylrechtlichem Schutzstatus S,
+- b) Personen aus EU- und EFTA-Staaten sowie Drittstaaten.
+
+#### § 12b
+
+**b) Rahmenbedingungen**
+
+<sup>1</sup> Die INVOL dauert ein Jahr und findet an den Lernorten der beruflichen Grundbildung statt.
+
+<sup>2</sup> Sie kann in beruflichen Grundbildungen absolviert werden, in denen nationale oder kantonale Kompetenzprofile der Organisationen der Arbeitswelt bestehen, die vom Staatssekretariat für Migration (SEM) genehmigt wurden.
+
+<sup>3</sup> Zwischen Lernenden und Ausbildungsbetrieben wird ein Ausbildungsvertrag abgeschlossen. Der Ausbildungsvertrag bedarf der Genehmigung der Abteilung Berufsbildung und Mittelschule.
+
+<sup>4</sup> Nach Abschluss der Integrationsvorlehre erhalten Lernende eine schriftliche Kompetenzeinschätzung.
+
+#### § 12c
+
+**c) vorgelagerte Massnahmen**
+
+<sup>1</sup> Der Kanton stellt für Jugendliche und Erwachsene zwischen in der Regel dem vollendeten 16. und 40. Altersjahr, die wesentliche Teile oder die gesamte obligatorische Schulzeit nicht in der Schweiz absolvierten, vorgelagerte Massnahmen im Rahmen des Programms INVOL zur Verfügung:
+
+- a) Erhebung von Grundkompetenzen, insbesondere von Deutschkenntnissen,
+- b) Berufs-, Studien- und Laufbahnberatung,
+- c) Sprach-, Grundkompetenz- und Integrationsvorbereitungskurse.
+
+<sup>2</sup> Das Amt für Migration und Integration Kanton Aargau (MIKA) ist zuständig für die Zielgruppe gemäss § 12a Abs. 2 lit. a, die Abteilung Berufsbildung und Mittelschule für die Zielgruppe gemäss § 12a Abs. 2 lit. b.
+
+<sup>3</sup> Die Abteilung Berufsbildung und Mittelschule überträgt mittels Leistungsvertrag die Aufgaben gemäss Absatz 1 lit. a und b an geeignete Dritte.
+
+<sup>4</sup> Sie entscheidet über Art und Umfang von Kostengutsprachen für Kurse gemäss Absatz 1 lit. c, wenn
+
+- a) eine schriftliche Empfehlung eines beauftragten Dritten aufgrund einer Beratung oder Abklärung gemäss Absatz 1 lit. a oder b vorliegt und
+- b) der Kursanbietende über eine schweizerische Zertifizierung als Weiterbildungsinstitution verfügt und seine Kurse wirtschaftlich erbringt.
+
 #### § 13
 
 **…**
+
+#### § 13a
+
+**Frei-, Fach- und Stützkurse**
+
+<sup>1</sup> Ist eine lernende Person im Hinblick auf eine erfolgreiche Absolvierung der Berufsfachschule auf Stützkurse angewiesen, kann die Berufsfachschule im Einvernehmen mit dem Anbietenden der Bildung in beruflicher Praxis und der lernenden Person den Besuch von Stützkursen oder vergleichbaren Angeboten anordnen.
+
+<sup>2</sup> Der Besuch von Stützkursen oder vergleichbaren Angeboten ist unentgeltlich.
+
+<sup>3</sup> Die Berufsfachschulen verfügen über ein Angebot an eigenen Stützkursen oder vergleichbarer Angebote in den Bereichen Allgemeinbildung und Berufskenntnisse.
+
+<sup>4</sup> Sie bieten zudem Fach- und Freikurse nach Bedarf an.
 
 #### § 14
 
@@ -227,15 +290,15 @@ beschliesst:
 
 **Disziplinarmassnahmen**
 
-<sup>1</sup> Neben den in § 22 GBW geregelten Disziplinarmassnahmen stehen der Schulleitung folgende Disziplinarbefugnisse zu:
+<sup>1</sup> Neben den in § 22 GBW geregelten Disziplinarmassnahmen stehen der Schulleitung und der Kursleitung überbetrieblicher Kurse folgende Disziplinarbefugnisse zu:
 
 - a) schriftlicher Verweis,
-- b) Bussen bis zum Höchstbetrag von Fr. 20.– pro Lektion für unentschuldigte Absenzen sowie von bis zu Fr. 100.– für weitere Verstösse gegen Disziplinartatbestände, die in der Schulordnung ausdrücklich mit Busse in bestimmter Höhe bedroht sind,
+- b) Bussen bis zum Höchstbetrag von Fr. 20.– pro Lektion für unentschuldigte Absenzen sowie von bis zu Fr. 100.– für weitere Verstösse gegen Disziplinartatbestände, die in der Schul- oder Kursordnung ausdrücklich mit Busse in bestimmter Höhe bedroht sind,
 - c) Verpflichtung zu einer erzieherisch sinnvollen Tätigkeit von höchstens 8 Stunden pro Woche während der Freizeit,
-- d) vorbeugender Ausschluss von besonderen Schulveranstaltungen, wie insbesondere Lagern oder Projektwochen,
-- e) schriftliche Androhung der Wegweisung von der Schule.
+- d) vorbeugender Ausschluss von besonderen Veranstaltungen, wie insbesondere Lagern oder Projektwochen,
+- e) schriftliche Androhung der Wegweisung von der Schule oder den überbetrieblichen Kursen.
 
-<sup>2</sup> Den Lehrpersonen stehen insbesondere folgende Disziplinarbefugnisse zu:
+<sup>2</sup> Den Lehrpersonen sowie den Kursinstruktorinnen und -instruktoren überbetrieblicher Kurse stehen insbesondere folgende Disziplinarbefugnisse zu:
 
 - a) Ermahnung,
 - b) schriftliche Arbeit,
@@ -254,7 +317,7 @@ beschliesst:
 
 #### § 18
 
-**Zusammensetzung, Organisation und Wahl des Schulvorstands**
+**Schulvorstand a) Wahl, Zusammensetzung und Organisation**
 
 <sup>1</sup> Der Träger der Berufsfachschule bestimmt Zusammensetzung und Organisation des Schulvorstands und wählt die Vorstandsmitglieder.
 
@@ -264,14 +327,14 @@ beschliesst:
 
 #### § 19
 
-**Aufgaben des Schulvorstands**
+**b) Aufgaben**
 
 <sup>1</sup> Neben den Aufgaben gemäss § 17 GBW ist der Schulvorstand zuständig für
 
 - a) den Erlass ergänzender Vorschriften über Organisation und Betrieb der Schule, namentlich das Absenzen- und Urlaubswesen,
 - b) die Beschlussfassung über das Budget, die Festlegung der Gemeindebeiträge und die Genehmigung der von der Kontrollstelle geprüften Rechnung,
 - c) den Antrag an den Träger der Berufsfachschule auf Beschaffung von Schulräumen sowie die Stellungnahme zu Bau- und Mietvorhaben,
-- d) den Abschluss von Leistungsvereinbarungen,
+- d) den Abschluss von Leistungsverträgen,
 - e) die Beschaffung und den Unterhalt der notwendigen Schuleinrichtungen.
 
 <sup>2</sup> Der Schulvorstand kann die Kompetenzen des Personalwesens ganz oder teilweise an die Schulleitung delegieren.
@@ -320,7 +383,7 @@ beschliesst:
 
 <sup>1</sup> Die Abteilung Berufsbildung und Mittelschule kann zwecks Besprechung wichtiger Fragen, insbesondere von Vollzugsfragen, die Schulvorstandspräsidentinnen und Schulvorstandspräsidenten zu Sitzungen und Konferenzen einberufen.
 
-### 2.3. Lernende mit besonderen bildungsrelevanten Bedürfnissen und schulärztlicher Dienst
+### 2.3. Lernende mit besonderen bildungsrelevanten Bedürfnissen oder Begabungen sowie schulärztlicher Dienst
 
 #### § 25
 
@@ -364,7 +427,7 @@ beschliesst:
 
 #### § 27
 
-**Fachpersonen für fachkundige individuelle Begleitung**
+**Fachpersonen für fachkundige individuelle Begleitung a) Grundsatz**
 
 <sup>1</sup> Jede Berufsfachschule stellt für die fachkundige individuelle Begleitung (FIB) ihren Lernenden eine oder mehrere Fachpersonen zur Verfügung.
 
@@ -372,7 +435,7 @@ beschliesst:
 
 #### § 27a
 
-**Angebot**
+**b) Angebot**
 
 <sup>1</sup> Die für die FIB zuständigen Fachpersonen erstellen auf Anfrage der einzelnen Lernenden, eines Anbietenden der Bildung in beruflicher Praxis, einer Lehrperson oder einer erziehungsberechtigten Person eine allgemeine Situationsanalyse.
 
@@ -386,11 +449,76 @@ beschliesst:
 
 #### § 27b
 
-**Kosten**
+**c) Kosten**
 
 <sup>1</sup> Die allgemeine Situationsanalyse gemäss § 27a Abs. 1 ist für alle Lernenden unentgeltlich.
 
 <sup>2</sup> Die fachkundige individuelle Begleitung gemäss § 27a Abs. 2 ist für Lernende in der zweijährigen beruflichen Grundbildung mit Berufsattest unentgeltlich. Von anderen Lernenden können die Berufsfachschulen einen Kostenbeitrag von höchstens Fr. 40.– pro Stunde verlangen.
+
+#### § 27c
+
+**Begabtenförderung a) Allgemeines**
+
+<sup>1</sup> Berufsfachschulen und Anbietende von überbetrieblichen Kursen fördern und unterstützen Lernende mit besonderen Begabungen.
+
+#### § 27d
+
+**b) Musik**
+
+<sup>1</sup> Lernende können an der Musikschule ihrer Wohngemeinde unentgeltlich eine Lektion Instrumentalunterricht oder Sologesang pro Woche beziehen, wenn sie bereits während der Volksschule Begabtenförderung am entsprechenden Instrument oder im Sologesang erhielten oder seither eine besondere musikalische Begabung entwickelten.
+
+<sup>2</sup> Bei Vorliegen wichtiger Gründe können Lernende auch eine auswärtige Musikschule besuchen. Wichtige Gründe sind insbesondere:
+
+- a) Instrument oder Sologesang mit Begabtenförderung wird an der Musikschule der Wohngemeinde nicht angeboten,
+- b) zeitliche Verfügbarkeit der Lernenden aufgrund schulischer oder betrieblicher Verpflichtungen oder zurückzulegender Fahrten.
+
+<sup>3</sup> Die Abteilung Berufsbildung und Mittelschule entscheidet auf Antrag der Musikschule der Wohngemeinde über die Kostengutsprache gemäss § 70b.
+
+#### § 27e
+
+**c) Leistungssport mit innerkantonalem Schulbesuch**
+
+<sup>1</sup> Zur Absolvierung einer Sportlehre, die auf die Vereinbarkeit von Berufslehre und Leistungssport ausgerichtet ist, müssen folgende Zulassungsbedingungen erfüllt sein:
+
+- a) Swiss Olympic Talent Card Regional oder National oder Kaderzugehörigkeit des nationalen Sportverbands,
+- b) Trainingsumfang von durchschnittlich mindestens 10 Stunden pro Woche.
+
+<sup>2</sup> Zwischen Lernenden, Anbietenden der Bildung in beruflicher Praxis und Berufsfachschulen wird ein Zusatzvertrag zum Lehrvertrag abgeschlossen, der insbesondere regeln kann:
+
+- a) Arbeitszeitentlastung im Lehrbetrieb, die flexibel aufgrund der Trainings- und Wettkampfbedürfnisse bezogen werden kann,
+- b) Dispensation von Unterrichtslektionen an der Berufsfachschule,
+- c) Auflagen an schulische und betriebliche Leistungen sowie Verhalten der Lernenden,
+- d) auflösende Bedingungen, die zur Aufhebung des Zusatzvertrags führen.
+
+<sup>3</sup> Die Koordinationspersonen für Leistungssport an den Berufsfachschulen koordinieren und vermitteln kantonsweit zwischen Lernenden, Berufsfachschulen, Anbietenden der Bildung in beruflicher Praxis und den Sportverbänden. Die Aufgaben der Koordinationspersonen für Leistungssport werden mittels Leistungsvertrag zwischen dem Departement Bildung, Kultur und Sport und der Berufsfachschule festgelegt.
+
+#### § 27f
+
+**d) Leistungssport mit ausserkantonalem Schulbesuch**
+
+<sup>1</sup> Leistungssportlerinnen und Leistungssportler in aargauischen Lehrverhältnissen werden auf Gesuch hin einer öffentlichen, ausserkantonalen Berufsfachschule zugewiesen, wenn folgende Bedingungen erfüllt sind:
+
+- a) mindestens Swiss Olympic Talent Card Regional,
+- b) Trainingsumfang von durchschnittlich mindestens 10 Stunden pro Woche,
+- c) zeitliche Verfügbarkeit aufgrund schulischer oder betrieblicher Verpflichtungen oder zurückzulegender Fahrten.
+
+<sup>2</sup> Absatz 1 gilt sinngemäss für Lernende in Lehrgängen zur eidgenössischen Berufsmaturität für gelernte Berufsleute (BM II) mit stipendienrechtlichem Wohnsitz im Kanton Aargau gemäss Art. 4 Abs. 2 und 3 der Interkantonalen Vereinbarung über die Beiträge an die Ausbildungskosten in der beruflichen Grundbildung (Berufsfachschulvereinbarung, BFSV) vom 22. Juni 2006[^27f-1].
+
+<sup>3</sup> Zwischen Lernenden und Anbietenden der Bildung in beruflicher Praxis wird ein Zusatzvertrag zum Lehrvertrag gemäss § 27e Abs. 2 abgeschlossen.
+
+[^27f-1]: SAR [400.562](https://gesetzessammlungen.ag.ch/data/400.562/de)
+
+#### § 27g
+
+**e) schulische oder berufliche Fähigkeiten**
+
+<sup>1</sup> Berufsfachschulen und Anbietende von überbetrieblichen Kursen fördern Lernende mit besonderen schulischen oder beruflichen Fähigkeiten.
+
+<sup>2</sup> Die Begabungsförderung erfolgt
+
+- a) im Rahmen des Unterrichts,
+- b) durch Anreicherung des Unterrichtsangebots, insbesondere mit Freikursen,
+- c) durch Unterstützung bei der Teilnahme an nationalen oder internationalen Berufsmeisterschaften.
 
 #### § 28
 
@@ -432,9 +560,25 @@ beschliesst:
 
 <sup>1</sup> Die Gesamtleitung der Qualifikationsverfahren obliegt der Abteilung Berufsbildung und Mittelschule.
 
-<sup>2</sup> Sie kann die Durchführung des betrieblichen Qualifikationsverfahrens Dritten übertragen.
+<sup>2</sup> Sie kann die Durchführung des betrieblichen Qualifikationsverfahrens Dritten (Prüfungsorganisationen) übertragen.
 
-<sup>3</sup> Für die Organisation der schulischen Qualifikationen sind die Schulleitungen der jeweiligen Schulen beziehungsweise die von den Schulen beauftragten Prüfungsleitungen zuständig.
+<sup>2<sup>bis</sup></sup> Die Abteilung Berufsbildung und Mittelschule legt die Pflichtenhefte fest für die Prüfungsorganisationen, die Chefexpertinnen und -experten sowie die Expertinnen und Experten.
+
+<sup>3</sup> Für die Organisation der schulischen Qualifikationen sind die Schulleitungen der jeweiligen Schulen beziehungsweise die von den Schulen Beauftragten (Prüfungsleitung) zuständig.
+
+<sup>4</sup> Die Prüfungsorganisationen und die Prüfungsleitungen der Schulen erlassen jeweils Prüfungsordnungen, die folgende Themen beinhalten und regeln:
+
+- a) Hinweise und Vorgehen zum Nachteilsausgleich gemäss § 26a,
+- b) Vorgehen im Verhinderungsfall oder bei Abbruch der Prüfung aus wichtigen Gründen,
+- c) organisatorische Rahmenbedingungen der Prüfungen, insbesondere betreffend
+  - 1\. Ort und Räumlichkeiten,
+  - 2\. Zutritt,
+  - 3\. Einrichtung des Prüfungsarbeitsplatzes,
+  - 4\. Vorgehen bei Verspätungen,
+- d) zulässige Hilfsmittel, Materialien, Werkzeuge und Geräte pro Prüfungsteil,
+- e) Informationen zu den Folgen von Verstössen gegen die Prüfungsordnung,
+- f) Vorgehen bei Beanstandungen von Kandidatinnen und Kandidaten,
+- g) Hinweise zur Akteneinsicht und zum Rechtsmittel.
 
 #### § 35
 
@@ -448,29 +592,38 @@ beschliesst:
 
 #### § 36
 
-**Nichterscheinen zur Prüfung und unredliches Verhalten**
+**…**
 
-<sup>1</sup> Das Qualifikationsverfahren kann in folgenden Fällen in Bezug auf die betroffenen Prüfungsteile oder bei groben Verstössen auch in Bezug auf die ganze Prüfung als nicht bestanden erklärt werden:
+#### § 36a
 
-- a) unentschuldigtes Nichterscheinen zur Prüfung,
-- b) Abgabe von Plagiaten,
-- c) Verstoss gegen die Prüfungsordnung.
+**Verstösse gegen die Prüfungsordnung und Nichterscheinen zur Prüfung**
 
-<sup>2</sup> Bei geringfügigen Verstössen gegen die Prüfungsordnung entscheiden die mit der Durchführung des Qualifikationsverfahrens Beauftragten im Einzelfall über das weitere Vorgehen.
+<sup>1</sup> Verstösse gegen die Prüfungsordnung werden geahndet. In den folgenden Fällen gelten die betroffenen Prüfungsteile als nicht bestanden:
 
-<sup>3</sup> Das Qualifikationsverfahren kann frühestens beim nächsten ordentlichen Prüfungstermin wiederholt werden.
+- a) verspätete Abgabe von schriftlichen Arbeiten ohne wichtige Gründe,
+- b) Abgabe von Plagiaten oder von anderweitig nicht selbständig erarbeiteten schriftlichen Arbeiten,
+- c) Begehen unredlicher Handlungen oder Verschaffung unerlaubter Vorteile an Prüfungen, namentlich durch die Verwendung unerlaubter Hilfsmittel oder durch Kommunikation mit Dritten,
+- d) Verstoss gegen Anweisungen der Prüfungsleitung.
+
+<sup>2</sup> Ein Prüfungsteil gilt ebenso als nicht bestanden, wenn er ohne wichtige Gründe nicht angetreten oder abgebrochen wird.
+
+<sup>3</sup> Geringfügige Verstösse gemäss Absatz 1 führen zu einem angemessenen Notenabzug im betroffenen Prüfungsteil.
+
+<sup>4</sup> Schwerwiegende Verstösse gemäss Absatz 1 führen zum Nichtbestehen des gesamten Qualifikationsverfahrens.
+
+<sup>5</sup> Die nicht bestandenen Prüfungsteile beziehungsweise das gesamte Qualifikationsverfahren können frühestens beim nächsten ordentlichen Prüfungstermin wiederholt werden.
 
 #### § 37
 
 **Plagiate**
 
-<sup>1</sup> Die Schulleitung kann Abschlussarbeiten auf korrekte und vollständige Angabe der Quellen überprüfen. Die anonymisierten Abschlussarbeiten können dazu vervielfältigt, in einer geschlossenen Datenbank gespeichert und einer anderen Schulleitung zum direkten Vergleich mit einer Arbeit ihrer Lernenden herausgegeben werden.
+<sup>1</sup> Die Prüfungsleitung der jeweiligen Schule kann Abschlussarbeiten auf korrekte und vollständige Angabe der Quellen überprüfen. Die anonymisierten Abschlussarbeiten können dazu vervielfältigt, in einer geschlossenen Datenbank gespeichert und einer anderen Prüfungsleitung zum direkten Vergleich mit einer Arbeit ihrer Lernenden herausgegeben werden.
 
 #### § 38
 
 **Information der Kandidatinnen und Kandidaten**
 
-<sup>1</sup> Die Kandidatinnen und Kandidaten sind vor Beginn des Qualifikationsverfahrens durch die Berufsfachschule schriftlich auf die Folgen des unentschuldigten Nichterscheinens zur Prüfung und des unredlichen Verhaltens aufmerksam zu machen.
+<sup>1</sup> Die Kandidatinnen und Kandidaten des Qualifikationsverfahrens werden spätestens mit dem Prüfungsaufgebot schriftlich durch die Prüfungsorganisation und die Prüfungsleitung der jeweiligen Schule über die Prüfungsordnung gemäss § 34 Abs. 4 informiert.
 
 #### § 39
 
@@ -482,7 +635,7 @@ beschliesst:
 
 **Überwachung**
 
-<sup>1</sup> Die Prüfungsleitungen und Berufsinspektorinnen beziehungsweise Berufsinspektoren haben Zutritt zu den Prüfungen.
+<sup>1</sup> Die Chefexpertinnen und -experten, die Prüfungsleitungen der Schulen und die Berufsinspektorinnen und -inspektoren haben Zutritt zu den Prüfungen.
 
 <sup>2</sup> Aus wichtigen Gründen, namentlich bei Befangenheit, kann die Abteilung für Berufsbildung und Mittelschule Expertinnen und Experten vom Einsatz bei den Qualifikationsverfahren ausschliessen.
 
@@ -496,7 +649,9 @@ beschliesst:
 
 **Qualifikationsentscheid**
 
-<sup>1</sup> Die mit der Durchführung des Qualifikationsverfahrens Beauftragten melden alle erfassten Noten der Abteilung Berufsbildung und Mittelschule, die über Bestehen oder Nichtbestehen entscheidet.
+<sup>1</sup> Die Chefexpertinnen und -experten sowie die Prüfungsleitungen der Schulen melden der Abteilung Berufsbildung und Mittelschule alle erfassten Noten, Verstösse gegen die Prüfungsordnung und das Nichterscheinen zu Prüfungen gemäss § 36a.
+
+<sup>1<sup>bis</sup></sup> Die Abteilung Berufsbildung und Mittelschule entscheidet über das Bestehen oder Nichtbestehen des Qualifikationsverfahrens sowie über allfällige Notenabzüge gemäss § 36a.
 
 <sup>2</sup> …
 
@@ -531,6 +686,16 @@ beschliesst:
 
 <sup>1</sup> Die Abteilung Berufsbildung und Mittelschule stellt die Ausweise in der Regel den Anbietenden der Bildung in beruflicher Praxis zu.
 
+<sup>2</sup> Die Abgabe kann an Diplomfeiern der Lernenden durch die jeweilige Prüfungsorganisation oder Berufsfachschule erfolgen. Diese informieren die Abteilung Berufsbildung und Mittelschule mindestens 6 Monate im Voraus.
+
+#### § 44a
+
+**Aufbewahrung**
+
+<sup>1</sup> Die Abteilung Berufsbildung und Mittelschule bewahrt die Ausweise der beruflichen Grundbildung und die Notenausweise während 50 Jahren nach ihrer Ausstellung derart auf, dass bei Bedarf jederzeit Duplikate erstellt werden können.
+
+<sup>2</sup> Die elektronische Aufbewahrung ist zulässig, wenn wirksame technische und organisatorische Massnahmen getroffen werden, um die Authentizität, Integrität, Verfügbarkeit und Lesbarkeit der Dokumente sicherzustellen.
+
 #### § 45
 
 **Diplome an höheren Fachschulen**
@@ -539,7 +704,7 @@ beschliesst:
 
 ## 4. Finanzierung
 
-### 4.1. Allgemeines
+### 4.1.
 
 #### § 46
 
@@ -593,7 +758,7 @@ beschliesst:
 
 **Rückbehalt von Pauschalbeiträgen**
 
-<sup>1</sup> Der Kanton kann seine Pauschalbeiträge an die betreffende Berufsfachschule ganz oder teilweise zurückbehalten, bis diese die gesetzlichen oder in der Leistungsvereinbarung festgelegten Pflichten ordnungsgemäss erfüllt hat.
+<sup>1</sup> Der Kanton kann seine Pauschalbeiträge an die betreffende Berufsfachschule ganz oder teilweise zurückbehalten, bis diese die gesetzlichen oder im Leistungsvertrag festgelegten Pflichten ordnungsgemäss erfüllt hat.
 
 ### 4.2.2. Kantonsbeitrag an aargauische Schulen für ausserkantonale Lernende
 
@@ -675,7 +840,7 @@ beschliesst:
 
 <sup>1</sup> Die Höhe der Beiträge für nicht vom Kanton geführte Lehrwerkstätten im Kanton Aargau wird unter Berücksichtigung der zumutbaren Eigenleistung festgelegt.
 
-<sup>2</sup> Bestehen keine Leistungsvereinbarungen mit ausserkantonalen Lehrwerkstätten, kann der Kanton auf Gesuch hin Beiträge gewähren, wenn ein ausgewiesenes Bedürfnis besteht.
+<sup>2</sup> Bestehen keine Leistungsverträge mit ausserkantonalen Lehrwerkstätten, kann der Kanton auf Gesuch hin Beiträge gewähren, wenn ein ausgewiesenes Bedürfnis besteht.
 
 #### § 62
 
@@ -683,11 +848,13 @@ beschliesst:
 
 <sup>1</sup> Der Kanton leistet den Anbietenden von überbetrieblichen Kursen und vergleichbaren Angeboten Beiträge gemäss den in der interkantonalen Berufsfachschulvereinbarung[^62-1] festgelegten Tarifen.
 
-<sup>1<sup>bis</sup></sup> Die Kantonsbeiträge werden auf 120 % der in Absatz 1 genannten Tarife erhöht, wenn eine Leistungsvereinbarung gemäss § 58 GBW vorliegt und die Kantonsbeiträge zusammen mit den Beiträgen der Lehrbetriebe die Vollkosten der überbetrieblichen Kurse und vergleichbarer Angebote nicht übersteigen.
+<sup>1<sup>bis</sup></sup> Die Kantonsbeiträge werden auf 120 % der in Absatz 1 genannten Tarife erhöht, wenn ein Leistungsvertrag gemäss § 58 GBW vorliegt und die Kantonsbeiträge zusammen mit den Beiträgen der Anbietenden der Bildung in beruflicher Praxis die Vollkosten der überbetrieblichen Kurse und vergleichbarer Angebote nicht übersteigen.
 
-<sup>2</sup> Die Anbietenden der beruflichen Praxis übernehmen die Kosten pro Lernende beziehungsweise Lernenden, welche nach Abzug der Kantonsbeiträge und weiterer Einnahmen verbleiben.
+<sup>2</sup> Die Anbietenden der Bildung in beruflicher Praxis übernehmen die Kosten pro Lernende beziehungsweise Lernenden, die nach Abzug der Kantonsbeiträge und weiterer Einnahmen verbleiben.
 
 <sup>3</sup> Lernende ohne Lehrverhältnis übernehmen die Kosten, welche nach Abzug der Kantonsbeiträge und weiterer Einnahmen verbleiben, selbst. Bei obligatorischen überbetrieblichen Kursen und vergleichbaren Angeboten leistet der Kanton Beiträge gemäss Absatz 1.
+
+<sup>3<sup>bis</sup></sup> Absenzen von Lernenden in überbetrieblichen Kursen und vergleichbaren Angeboten haben keinen Einfluss auf die Kostenverteilung.
 
 <sup>4</sup> Die Anbietenden von überbetrieblichen Kursen und vergleichbaren Angeboten verfügen den Beitrag gemäss Absatz 2 oder 3, wenn Anbietende der beruflichen Praxis oder Lernende ohne Lehrverhältnis dies verlangen oder den Beitrag nicht bezahlen.
 
@@ -695,9 +862,9 @@ beschliesst:
 
 #### § 63
 
-**Bildung von Berufsbildnerinnen und Berufsbildnern in Lehrbetrieben**
+**Bildung von Berufsbildnerinnen und Berufsbildnern von Anbietenden der Bildung in beruflicher Praxis**
 
-<sup>1</sup> Institutionen, die Kurse gemäss § 11 oder Kurse, die von mindestens einem anderen Kanton anerkannt sind, anbieten, werden jährlich mit Fr. 100.– pro aargauische Kursteilnehmerin beziehungsweise aargauischen Kursteilnehmer entschädigt.
+<sup>1</sup> Institutionen, die Kurse gemäss § 11 oder Kurse, die von mindestens einem anderen Kanton anerkannt sind, anbieten, werden jährlich mit Fr. 75.– pro aargauische Kursteilnehmerin beziehungsweise aargauischen Kursteilnehmer entschädigt.
 
 ### 4.2.5. Expertinnen und Experten
 
@@ -773,7 +940,7 @@ beschliesst:
 
 [^70-1]: SAR [165.171](https://gesetzessammlungen.ag.ch/data/165.171/de)
 
-### 4.2.6. Übrige Kosten
+### 4.2.6. Kosten der Begabtenförderung und übrige Kosten
 
 #### § 70a
 
@@ -781,21 +948,63 @@ beschliesst:
 
 <sup>1</sup> Der Kanton übernimmt die Kosten von Prüfungen, die von einer Institution zentral erstellt wurden und von dieser zu beziehen sind.
 
+#### § 70b
+
+**Begabtenförderung a) Musik**
+
+<sup>1</sup> Der Kanton übernimmt die Elternbeiträge der Musikschule der Wohngemeinde von Lernenden, welche die Voraussetzungen gemäss § 27d Abs. 1 erfüllen.
+
+<sup>2</sup> Die Elternbeiträge dürfen gemäss Art. 12a des Bundesgesetzes über die Kulturförderung (Kulturförderungsgesetz, KFG) vom 11. Dezember 2009[^70b-1] nicht mehr als zwei Drittel des Erwachsenentarifs betragen.
+
+<sup>3</sup> Bei Vorliegen wichtiger Gründe gemäss § 27d Abs. 2 übernimmt der Kanton beim Besuch einer auswärtigen Musikschule auch den Gemeindeanteil.
+
+[^70b-1]: SR [442.1](https://db.clex.ch/link/Bund/442.1/de)
+
+#### § 70c
+
+**b) Leistungssport**
+
+<sup>1</sup> Der Kanton erteilt für Lernende mit stipendienrechtlichem Wohnsitz im Kanton Aargau gemäss Art. 4 Abs. 2 und 3 BFSV Kostengutsprache zum Besuch einer ausserkantonalen, schulisch organisierten Grundbildung oder eines ausserkantonalen Lehrgangs zur eidgenössischen Berufsmaturität für gelernte Berufsleute (BM II) eines privaten Anbietenden, wenn folgende Kriterien erfüllt sind:
+
+- a) mindestens Swiss Olympic Talent Card National,
+- b) Trainingsumfang von durchschnittlich mindestens 10 Stunden pro Woche,
+- c) Swiss Olympic Label-Schule.
+
+<sup>2</sup> Lernende ohne Swiss Olympic Talent Card National oder höher müssen die Voraussetzungen gemäss Absatz 1 lit. b und c sowie zusätzlich folgende Voraussetzungen erfüllen:
+
+- a) Swiss Olympic Talent Card Regional und nach der Kaderstruktur des nationalen Sportverbands werden im jeweiligen Alter noch keine Talent Card National oder höher vergeben oder
+- b) Swiss Olympic Talent Card Regional und keine Trainingsmöglichkeiten auf Stufe Leistungssport im Kanton Aargau oder
+- c) in der jeweiligen Sportart werden keine Swiss Olympic Talent Cards vergeben und
+- d) Empfehlung des nationalen Sportverbands.
+
+<sup>3</sup> Der Kanton übernimmt beim Besuch
+
+- a) eines privaten Anbietenden der schulischen Bildung höchstens die Beiträge gemäss BFSV für eine Vollzeitschule,
+- b) eines Anbietenden in einem Kanton, der nicht der BFSV beigetreten ist, den Tarif des jeweiligen Kantons für eine Vollzeitschule.
+
+<sup>4</sup> Lernende eines Lehrgangs zur eidgenössischen Berufsmaturität für gelernte Berufsleute (BM II) müssen die Aufnahmebedingungen des Kantons Aargau gemäss § 2 und den §§ 5–10 der Verordnung über die Berufsmaturität an Berufsfachschulen (V Berufsmaturität BFS) vom 7. November 2007[^70c-1] erfüllen.
+
+[^70c-1]: SAR [422.251](https://gesetzessammlungen.ag.ch/data/422.251/de)
+
 ### 4.3. Infrastruktur
 
-### 4.3.1. Grosszyklische Sanierungen sowie Neu- und Umbauten
+### 4.3.1. Grosszyklische Sanierungen sowie Neu- und Umbauten nichtkantonaler Berufsfachschulen
 
 #### § 71
 
 **Verfahren**
 
-<sup>1</sup> Vor der Ausarbeitung von Projekten für grosszyklische Sanierungen sowie für Neu- und Umbauten sind das Raumprogramm und bei Neubauten zusätzlich der Standort vom Regierungsrat zu genehmigen.
+<sup>1</sup> Die gemäss § 15 GBW bezeichneten Berufsfachschulen mit nichtkantonaler Trägerschaft (nichtkantonale Berufsfachschulen) haben vor der Ausarbeitung von Projekten für grosszyklische Sanierungen sowie für Neu- und Umbauten beim Regierungsrat um Genehmigung des Bauvorhabens und des Raumprogramms sowie bei Neubauten zusätzlich des Standorts zu ersuchen. Sie haben insbesondere einen Bedürfnis- und Wirtschaftlichkeitsnachweis beizubringen.
 
-<sup>2</sup> Vor Ausführung der Bauten sind die Genehmigung des Projekts und die Zusicherung des approximativen Kantonsbeitrags einzuholen. Die Beitragszusicherung ist auf zwei Jahre befristet und kann auf Gesuch hin erneuert werden.
+<sup>2</sup> Nichtkantonale Berufsfachschulen haben vor Ausführung der Bauten bei der für die Kreditbewilligung zuständigen Instanz gemäss § 28 des Gesetzes über die wirkungsorientierte Steuerung von Aufgaben und Finanzen (GAF) vom 5. Juni 2012[^71-1] und § 54 Abs. 6 GBW um Genehmigung des Bauprojekts sowie um Zusicherung des approximativen Kantonsbeitrags zu ersuchen. Die Beitragszusicherung ist auf zwei Jahre befristet und kann auf Gesuch hin erneuert werden.
+
+<sup>2<sup>bis</sup></sup> Das Departement Bildung, Kultur und Sport genehmigt Projekte gemäss Absatz 1 und sichert den approximativen Kantonsbeitrag gemäss Absatz 2 zu, sofern kein Verpflichtungskredit gemäss den §§ 24–28 GAF erforderlich ist.
 
 <sup>3</sup> Nach Bauvollendung überprüfen die Abteilung Immobilien Aargau den baulichen Zustand sowie die Bauabrechnung und die Abteilung Berufsbildung und Mittelschule die Belegungssituation.
 
 <sup>4</sup> Nach Vorliegen dieser Prüfungsergebnisse legt das Departement Bildung, Kultur und Sport in Zusammenarbeit mit dem Departement Finanzen und Ressourcen fest, welche Kosten definitiv angerechnet werden.
+
+[^71-1]: SAR [612.300](https://gesetzessammlungen.ag.ch/data/612.300/de)
 
 #### § 72
 
@@ -960,11 +1169,13 @@ beschliesst:
 
 **Publikation und Inkrafttreten**
 
-<sup>1</sup> Diese Verordnung ist in der Gesetzessammlung zu publizieren. Sie tritt mit Ausnahme von § 18 Abs. 2 am 1. Januar 2008 in Kraft.
+<sup>1</sup> Diese Verordnung ist in der Gesetzessammlung zu publizieren.
 
-<sup>2</sup> § 18 Abs. 2 tritt am 1. August 2010 in Kraft. Bis dahin gilt das bisherige Recht.
+<sup>2</sup> …
 
 <sup>3</sup> Die §§ 80b und 80c sind befristet bis 31. Dezember 2028.
+
+<sup>4</sup> § 12c ist befristet bis 31. Dezember 2027.
 
 Aarau, 7. November 2007
 
