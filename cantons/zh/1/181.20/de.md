@@ -3,11 +3,10 @@ canton: ZH
 number: "181.20"
 title: Verordnung über die Wahl der Kirchensynode (Synodalwahlverordnung)
 language: de
-version: "2013-10-01"
-nachtrag: "82"
-valid_until: 2025-08-01
+version: "2025-08-01"
+nachtrag: "130"
 adopted: 2010-03-16
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_20-2010_03_16-2010_07_01-082.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_20-2010_03_16-2010_07_01-130.html"
 text: pdf
 ---
 
@@ -42,13 +41,12 @@ Diese Verordnung regelt das Verfahren für die Wahl der Kirchensynode.
 
 <sup>2</sup> Der Kirchenrat kann die Aufgabe der Wahlleitung der zuständigen Stelle des Kantons übertragen.
 
-[^2-1]: LS 161.
-
-#### § 3
-
 **Wahlkreise a. Einteilung**
 
-Die Wahlen in die Kirchensynode erfolgen in den Wahlkreisen, die gemäss dem Gesetz über die politischen Rechte[^2-1] für die Kantonsratswahlen bestehen.
+§ 3.[^2-1] Die Wahlen in die Kirchensynode erfolgen unter Berücksichtigung der Grenzen der kirchlichen Bezirke in den Wahlkreisen, die gemäss dem Gesetz über die politischen Rechte[^2-2] für die Kantonsratswahlen bestehen.
+
+[^2-1]: Fassung gemäss B vom 25. März 2025 (OS 80, 159; ABl 2025-03-28). In Kraft seit 1. August 2025 (ABl 2025-05-23). 1.10. 25 - 130 9
+[^2-2]: LS 161.
 
 #### § 4
 
@@ -78,7 +76,7 @@ Die Mitgliedschaft in der Kirchensynode ist unvereinbar mit:
 
 **1**
 
-- 1\. 10. 13 - 82 § 7. <sup>1</sup> Tritt eine Unvereinbarkeit ein, teilt die betroffene Person dem Kirchenrat binnen fünf Tagen nach Mitteilung der Wahl oder nach Eintritt des Unvereinbarkeitsgrundes mit, für welches Amt sie sich entschieden hat.
+1.10. 25 - 130 § 7. <sup>1</sup> Tritt eine Unvereinbarkeit ein, teilt die betroffene Person dem Kirchenrat binnen fünf Tagen nach Mitteilung der Wahl oder nach Eintritt des Unvereinbarkeitsgrundes mit, für welches Amt sie sich entschieden hat.
 
 **b. Verfahren**
 
@@ -98,21 +96,34 @@ Die Mitgliedschaft in der Kirchensynode ist unvereinbar mit:
 
 ### 2. Abschnitt: Anordnung der Wahlen
 
-#### § 9
-
 **Anordnung**
 
-<sup>1</sup> Der Kirchenrat ordnet die Erneuerungswahlen und Ersatzwahlen in die Kirchensynode unter Berücksichtigung der kantonalen Wahl- und Abstimmungstermine an.
+§ 9.[^h2AbschnittAnordn-1] <sup>1</sup> Der Kirchenrat ordnet die Erneuerungswahlen und Ersatzwahlen in die Kirchensynode unter Berücksichtigung der kantonalen Wahl- und Abstimmungstermine an.
 
-<sup>2</sup> Die Anordnung wird mindestens sieben Wochen vor dem Wahltag amtlich veröffentlicht.
+<sup>2</sup> Die Anordnung der Wahl wird mindestens zwölf Wochen vor dem Wahltag amtlich veröffentlicht.
 
-[^9-1]: LS 161.
+<sup>3</sup> Sie umfasst insbesondere:
+
+- a. den Gegenstand der Wahl,
+
+- b. den Wahltag,
+
+- c. den Ort und die Frist zur Einreichung von Wahlvorschlägen,
+
+- d. das Datum für den zweiten Wahlgang sowie den Ort und die Frist zum Rückzug von bestehenden Wahlvorschlägen oder zur Einreichung von neuen Wahlvorschlägen gemäss § 23.
+
+[^h2AbschnittAnordn-1]: Fassung gemäss B vom 25. März 2025 (OS 80, 159; ABl 2025-03-28). In Kraft seit 1. August 2025 (ABl 2025-05-23). 1.10. 25 - 130 9
+[^h2AbschnittAnordn-2]: LS 161.
 
 #### § 10
 
 **Wahlunterlagen**
 
-Die Bestimmungen des Gesetzes über die politischen Rechte[^9-1] über die Wahlunterlagen sind subsidiär anwendbar.
+<sup>1</sup> Die Bestimmungen des Gesetzes über die politischen Rechte[^h2AbschnittAnordn-2] über die Wahlunterlagen sind subsidiär anwendbar.
+
+<sup>2</sup> Wird ein Beiblatt verwendet, wird auf diesem darauf hingewiesen, dass das Beiblatt nicht als Wahlzettel verwendet werden darf und die Stimme auch anderen wahlfähigen Personen gegeben werden kann.[^10-1]
+
+[^10-1]: Eingefügt durch B vom 25. März 2025 (OS 80, 159; ABl 2025-03-28). In Kraft seit 1. August 2025 (ABl 2025-05-23).
 
 ### 3. Abschnitt: Vorverfahren
 
@@ -130,9 +141,11 @@ Die Bestimmungen des Gesetzes über die politischen Rechte[^9-1] über die Wahlu
 
 <sup>2</sup> Jede Person darf höchstens auf einem Wahlvorschlag und dort nur einmal genannt sein.
 
-<sup>3</sup> Vorgeschlagene erklären auf dem entsprechenden Wahlvorschlag unterschriftlich, ob sie als Pfarrerin, Pfarrer, Angestellte oder Angestellter im Dienste einer Kirchgemeinde oder der Landeskirche stehen. § 13.[^11-1] <sup>1</sup> Auf dem Wahlvorschlag wird für jede vorgeschlagene Person aufgeführt:
+<sup>3</sup> Vorgeschlagene erklären auf dem entsprechenden Wahlvorschlag unterschriftlich, ob sie als Pfarrerin, Pfarrer, Angestellte oder Angestellter im Dienste einer Kirchgemeinde oder der Landeskirche stehen.
 
 **c. Gestaltung**
+
+§ 13.[^11-1] <sup>1</sup> Auf dem Wahlvorschlag wird für jede vorgeschlagene Person aufgeführt:
 
 - a. Name, Vorname und Geschlecht,
 
@@ -162,6 +175,10 @@ Die Bestimmungen des Gesetzes über die politischen Rechte[^9-1] über die Wahlu
 
 <sup>2</sup> Jede Person darf nur einen Wahlvorschlag unterzeichnen. Die Unterzeichnung kann nicht zurückgezogen werden.
 
+**3**
+
+1.10. 25 - 130
+
 <sup>3</sup> Bezeichnen die Unterzeichnenden eines Wahlvorschlages keine zur Vertretung ermächtigte Person, so gilt die erstunterzeichnende Person und, wenn diese verhindert ist, die zweitunterzeichnende Person als berechtigt, den Wahlvorschlag zurückzuziehen oder andere Erklärungen abzugeben.
 
 [^14-1]: LS 181.10.
@@ -177,19 +194,19 @@ Die Bestimmungen des Gesetzes über die politischen Rechte[^9-1] über die Wahlu
 
 <sup>3</sup> Weist ein Wahlvorschlag auch nach der Verbesserung zu viele Namen auf, werden die Überzähligen von unten nach oben gestrichen.
 
-**3**
+[^15-1]: Fassung gemäss B vom 12. März 2013 (OS 68, 306; ABl 2013-04-26). In Kraft seit 1. Oktober 2013.
 
-- 1\. 10. 13 - 82 § 16. <sup>1</sup> Der Kirchenrat veröffentlicht die Namen der vorgeschlagenen Personen geordnet nach Wahlkreisen und in alphabetischer Reihenfolge amtlich und setzt eine Frist von sieben Tagen an, binnen welcher frühere Wahlvorschläge geändert oder zurückgezogen oder neue Wahlvorschläge eingereicht werden können.[^15-1]
+#### § 16
 
 **f. Zweite Frist**
+
+<sup>1</sup> Der Kirchenrat veröffentlicht die Namen der vorgeschlagenen Personen geordnet nach Wahlkreisen und in alphabetischer Reihenfolge amtlich und setzt eine Frist von sieben Tagen an, binnen welcher frühere Wahlvorschläge geändert oder zurückgezogen oder neue Wahlvorschläge eingereicht werden können.[^15-1]
 
 <sup>2</sup> Nach Ablauf der zweiten Frist können die Wahlvorschläge nicht mehr verändert werden.
 
 <sup>3</sup> Der Kirchenrat prüft auch die definitiven Wahlvorschläge.
 
 <sup>4</sup> Die Namen der definitiv Vorgeschlagenen werden amtlich veröffentlicht.
-
-[^15-1]: Fassung gemäss B vom 12. März 2013 (OS 68, 306; ABl 2013-04-26). In Kraft seit 1. Oktober 2013.
 
 #### § 17
 
@@ -219,18 +236,19 @@ Die Bestimmungen des Gesetzes über die politischen Rechte[^9-1] über die Wahlu
 
 - d. Beruf, e.[^18-1] die Angaben gemäss § 13 Abs. 1 lit. f sowie § 13 Abs. 2 und 4 dieser Verordnung.
 
-<sup>3</sup> Sind mehr Personen zur Wahl vorgeschlagen, als Sitze zu besetzen sind, wird ein leerer Wahlzettel verwendet und dazu ein Beiblatt verschickt, auf dem die Vorgeschlagenen in alphabetischer Reihenfolge sowie die allfällige Bezeichnung des Wahlvorschlages gemäss § 13 Abs. 4 dieser Verordnung aufgeführt sind. Das Beiblatt ist so zu gestalten, dass eine Verwechslung mit dem amtlichen Wahlzettel ausgeschlossen werden kann.
+<sup>3</sup> Sind mehr Personen zur Wahl vorgeschlagen, als Sitze zu besetzen sind, wird ein leerer Wahlzettel mit einem Beiblatt verwendet. Die Namen der Vorgeschlagenen werden mit einer allfälligen Bezeichnung des Wahlvorschlages gemäss § 13 Abs. 4 ergänzt.[^18-2]
 
 <sup>4</sup> Die Stimmberechtigten erhalten eine Wahlanleitung.
 
 [^18-1]: Fassung gemäss B vom 12. März 2013 (OS 68, 306; ABl 2013-04-26). In Kraft seit 1. Oktober 2013.
-[^18-2]: LS 161.1.
+[^18-2]: Fassung gemäss B vom 25. März 2025 (OS 80, 159; ABl 2025-03-28). In Kraft seit 1. August 2025 (ABl 2025-05-23). 1.10. 25 - 130 9
+[^18-3]: LS 161.1.
 
 #### § 19
 
 **Stimmabgabe, Auswertung der Wahlzettel, Ermittlung des Wahlergebnisses**
 
-Auf die Stimmabgabe, die Auswertung der Wahlzettel und die Ermittlung des Wahlergebnisses sind die Bestimmungen des Gesetzes und der Verordnung über die politischen Rechte[^18-2] subsidiär anwendbar.
+Auf die Stimmabgabe, die Auswertung der Wahlzettel und die Ermittlung des Wahlergebnisses sind die Bestimmungen des Gesetzes und der Verordnung über die politischen Rechte[^18-3] subsidiär anwendbar.
 
 #### § 20
 
@@ -246,11 +264,11 @@ Auf die Stimmabgabe, die Auswertung der Wahlzettel und die Ermittlung des Wahler
 
 <sup>2</sup> Er veröffentlicht das Ergebnis der Wahl mit der entsprechenden Rechtsmittelbelehrung amtlich.
 
-#### § 21
+**5**
+
+1.10. 25 - 130 § 21. <sup>1</sup> Ist nach Ablauf der Frist gemäss § 20 Abs. 1 lit. b dieser Verordnung die Vorschrift von Art. 210 Abs. 3 KO nicht eingehalten, wonach die Mehrheit der Vertreterinnen und Vertreter eines Wahlkreises nicht als Pfarrerinnen, Pfarrer oder Angestellte im Dienst einer Kirchgemeinde oder der Landeskirche stehen darf, wird wie folgt verfahren:
 
 **Quorum**
-
-<sup>1</sup> Ist nach Ablauf der Frist gemäss § 20 Abs. 1 lit. b dieser Verordnung die Vorschrift von Art. 210 Abs. 3 KO nicht eingehalten, wonach die Mehrheit der Vertreterinnen und Vertreter eines Wahlkreises nicht als Pfarrerinnen, Pfarrer oder Angestellte im Dienst einer Kirchgemeinde oder der Landeskirche stehen darf, wird wie folgt verfahren:
 
 - a. Haben weniger oder gleich viele Personen das absolute Mehr erreicht, als Sitze zu besetzen sind, so ist die Wahl jener Pfarrerinnen, Pfarrer und Angestellten, die im Dienst einer Kirchgemeinde oder der Landeskirche stehen, mit den tiefsten Stimmenzahlen ungültig.
 
@@ -260,25 +278,16 @@ Auf die Stimmabgabe, die Auswertung der Wahlzettel und die Ermittlung des Wahler
 
 **Nicht besetzte Stellen**
 
-§ 22.[^21-1] <sup>1</sup> Lehnt eine Person die Wahl ab, so gilt diejenige Person als gewählt, die in diesem Wahlkreis unter den gewählten, aber als überzählig ausgeschiedenen Personen das beste Resultat erzielt hat.
+§ 22.[^20-1] <sup>1</sup> Lehnt eine Person die Wahl ab, so gilt diejenige Person als gewählt, die in diesem Wahlkreis unter den gewählten, aber als überzählig ausgeschiedenen Personen das beste Resultat erzielt hat.
 
 <sup>2</sup> Kann ein Sitz nicht besetzt werden, findet ein zweiter Wahlgang statt.
 
-**5**
-
-- 1\. 10. 13 - 82 § 23. Beim zweiten Wahlgang gelten die Vorschriften für den ersten Wahlgang mit folgenden Abweichungen und Besonderheiten:
-
 **Zweiter Wahlgang**
 
-- a. Die Anordnung des zweiten Wahlganges wird mindestens 22 Tage vor dem Wahlgang amtlich veröffentlicht.
+§ 23.[^20-2] Auf den zweiten Wahlgang sind die Bestimmungen des Gesetzes über die politischen Rechte über den zweiten Wahlgang subsidiär anwendbar. Bis 30 Tage nach der amtlichen Publikation der Ergebnisse des ersten Wahlganges können gültige Wahlvorschläge zurückgezogen oder neue Wahlvorschläge eingereicht werden.
 
-- b. Das Vorverfahren gemäss §§ 11–17 dieser Verordnung findet nicht statt. Die stille Wahl ist ausgeschlossen. Die Stimmberechtigten erhalten einen leeren Wahlzettel.
-
-- c. Es können auch Personen gewählt werden, die im ersten Wahlgang nicht zur Wahl standen.
-
-- d. Entscheidend ist das relative Mehr.
-
-[^21-1]: Fassung gemäss B vom 12. März 2013 (OS 68, 306; ABl 2013-04-26). In Kraft seit 1. Oktober 2013.
+[^20-1]: Fassung gemäss B vom 12. März 2013 (OS 68, 306; ABl 2013-04-26). In Kraft seit 1. Oktober 2013.
+[^20-2]: Fassung gemäss B vom 25. März 2025 (OS 80, 159; ABl 2025-03-28). In Kraft seit 1. August 2025 (ABl 2025-05-23). 1.10. 25 - 130 9
 
 #### § 24
 
@@ -312,15 +321,15 @@ Auf die Stimmabgabe, die Auswertung der Wahlzettel und die Ermittlung des Wahler
 
 <sup>1</sup> Der Kirchenrat erklärt die Vorgeschlagenen als gewählt, wenn a. gleich viele oder weniger Personen vorgeschlagen wurden, als Sitze zu besetzen sind, und b. die zunächst Vorgeschlagenen mit den definitiv Vorgeschlagenen übereinstimmen.
 
-<sup>2</sup> Für die nicht besetzten Sitze wird ein Wahlgang mit einem leeren Wahlzettel durchgeführt.
-
-#### § 28
+<sup>2</sup> Für die nicht besetzten Sitze wird ein Wahlgang mit einem leeren Wahlzettel und einem Beiblatt durchgeführt.[^27-1]
 
 **d. Erwahrung**
 
-<sup>1</sup> Nach Abschluss des Wahlverfahrens erstattet der Kirchenrat der Kirchensynode Antrag und Bericht. Der Bericht enthält das Ergebnis der Wahl.
+§ 28. <sup>1</sup> Nach Abschluss des Wahlverfahrens erstattet der Kirchenrat der Kirchensynode Antrag und Bericht. Der Bericht enthält das Ergebnis der Wahl.
 
 <sup>2</sup> Die Kirchensynode entscheidet über die gegen die Wahl erhobenen Rechtsmittel und erwahrt das Ergebnis der Wahl.
+
+[^27-1]: Fassung gemäss B vom 25. März 2025 (OS 80, 159; ABl 2025-03-28). In Kraft seit 1. August 2025 (ABl 2025-05-23). 1.10. 25 - 130 9
 
 ### 5. Abschnitt: Rechtsschutz
 
@@ -330,11 +339,11 @@ Auf die Stimmabgabe, die Auswertung der Wahlzettel und die Ermittlung des Wahler
 
 Mit Stimmrechtsrekurs an die Kirchensynode können Handlungen und Unterlassungen des Kirchenrates und der von ihm gemäss § 2 Abs. 2 dieser Verordnung beauftragten Stelle angefochten werden, welche die Stimmberechtigung von Mitgliedern der Landeskirche im Rahmen der Wahl der Kirchensynode oder die Durchführung der Wahl der Kirchensynode betreffen.
 
-#### § 30
+**7**
+
+1.10. 25 - 130 § 30. Zum Rekurs berechtigt sind:
 
 **Legitimation**
-
-Zum Rekurs berechtigt sind:
 
 - a. die Stimmberechtigten des betreffenden Wahlkreises und die Kandidierenden,
 
@@ -372,10 +381,6 @@ Zum Rekurs berechtigt sind:
 
 Rekurskosten werden nur dann erhoben, wenn der Rekurs offensichtlich aussichtslos ist.
 
-**7**
-
-- 1\. 10. 13 - 82
-
 ### 6. Abschnitt: Schluss- und Übergangsbestimmungen
 
 #### § 35
@@ -390,12 +395,16 @@ Dieser Verordnung widersprechende Verordnungen, Richtlinien, Weisungen und Besch
 
 § 37.[^35-2] . . .[^35-1]
 
-<sup>2</sup> Im Zeitpunkt des Inkrafttretens dieser Verordnung und ihrer Änderungen laufende Ersatzwahlen werden nach bisherigem Recht zu Ende geführt.[^35-3]
+<sup>2</sup> Im Zeitpunkt des Inkrafttretens dieser Verordnung und ihrer Änderungen laufende Ersatzwahlen werden nach bisherigem Recht zu Ende geführt.[^35-3] § 38. Diese Verordnung tritt am 1. Juli 2010 in Kraft.
 
 **Inkrafttreten**
-
-§ 38. Diese Verordnung tritt am 1. Juli 2010 in Kraft.
 
 [^35-1]: Aufgehoben durch B vom 12. März 2013 (OS 68, 306; ABl 2013-04-26). In Kraft seit 1. Oktober 2013.
 [^35-2]: OS 65, 172.
 [^35-3]: Fassung gemäss B vom 12. März 2013 (OS 68, 306; ABl 2013-04-26). In Kraft seit 1. Oktober 2013.
+
+### Übergangsbestimmung zur Änderung vom 25. März 2025
+
+(OS 80, 159)
+
+Auf Ersatzwahlen, die binnen dreier Monate nach dem Inkrafttreten dieser Verordnungsänderung durchgeführt werden, ist das bisherige Recht anwendbar.
