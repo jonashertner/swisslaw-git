@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 22. Dezember 1916 über die Nutzbarmachung der Wasserkr
 short: WRG
 eli: "https://fedlex.data.admin.ch/eli/cc/33/189_191_191"
 language: de
-version: 2023-01-01
+version: 2025-08-01
 adopted: 1916-12-22
 in_force: 1918-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/33/189_191_191/20230101/de/xml/fedlex-data-admin-ch-eli-cc-33-189_191_191-20230101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/33/189_191_191/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/33/189_191_191/20250801/de/xml/fedlex-data-admin-ch-eli-cc-33-189_191_191-20250801-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/33/189_191_191/20250801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/33/189_191_191/20230101/de"
 
 (Wasserrechtsgesetz, WRG)[^t-1]
 
-vom 22. Dezember 1916 (Stand am 1. Januar 2023)
+vom 22. Dezember 1916 (Stand am 1. August 2025)
 
 [^t-1]: Eingefügt durch Ziff. I des BG vom 13. Dez. 1996, in Kraft seit 1. Mai 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
@@ -27,7 +27,7 @@ gestützt auf die Artikel 76 und 81 der Bundesverfassung[^ingress-1],[^ingress-2
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Fassung gemäss Ziff. I des BG vom 22. März 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3099](https://fedlex.data.admin.ch/eli/oc/2019/569); [BBl 2018 3419](https://fedlex.data.admin.ch/eli/fga/2018/1340)).
 [^ingress-3]: [BBl 1912 II 669](https://fedlex.data.admin.ch/eli/fga/1912/2_669_815_), [1916 III 411](https://fedlex.data.admin.ch/eli/fga/1916/3_411__)
 
@@ -265,11 +265,12 @@ Der Bund ist berechtigt, den Abfluss der Seen und der unter seiner Mitwirkung ge
 
 <sup>1</sup> Zur Nutzbarmachung der Privatgewässer oder der öffentlichen Gewässer kraft Privatrechts der Uferanstösser (Art. 2 Abs. 2) bedarf es der Erlaubnis der zuständigen kantonalen Behörde.
 
-<sup>2</sup> Die Behörde wacht darüber, dass die wasserbaupolizeilichen Vorschriften des Bundes und der Kantone beobachtet und dass bestehende Nutzungsrechte nicht verletzt werden.
+<sup>2</sup> Die kantonale Behörde wacht darüber, dass die eidgenössischen und kantonalen Vorschriften in den Bereichen Hochwasserschutz und Wasserbaupolizei beobachtet und dass bestehende Nutzungsrechte nicht verletzt werden.[^17-1]
 
-<sup>3</sup> Die Artikel 5, 7*a*, 8 und 11 sowie der zweite Abschnitt gelten sinngemäss.[^17-1]
+<sup>3</sup> Die Artikel 5, 7*a*, 8 und 11 sowie der zweite Abschnitt gelten sinngemäss.[^17-2]
 
-[^17-1]: Fassung gemäss Ziff. I des BG vom 13. Dez. 1996, in Kraft seit 1. Mai 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^17-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 15. März 2024, in Kraft seit 1. Aug. 2025 ([AS 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [BBl 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
+[^17-2]: Fassung gemäss Ziff. I des BG vom 13. Dez. 1996, in Kraft seit 1. Mai 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### II. Besteuerung der Wasserkraftwerke
 
@@ -309,19 +310,24 @@ Erhebt der Kanton von Wasserkraftwerken, die aufgrund eines privatrechtlichen Ve
 
 ### A. Aufsicht der Behörden
 
-### I. Wahrung der Wasserbaupolizei
+### I. Wahrung des Hochwasserschutzes und der Wasserbaupolizei
+
+[^chap2-lvlA-lvlI-1]
+
+[^chap2-lvlA-lvlI-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 15. März 2024, in Kraft seit 1. Aug. 2025 ([AS 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [BBl 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 #### Art. 21
 
 [^21-1]
 
-<sup>1</sup> Die Wasserkraftwerke sollen den wasserbaupolizeilichen Vorschriften des Bundes und der Kantone entsprechen.
+<sup>1</sup> Die Wasserkraftwerke müssen den eidgenössischen und kantonalen Vorschriften in den Bereichen Hochwasserschutz und Wasserbaupolizei entsprechen.[^21-2]
 
 <sup>2</sup> Vor Beginn der Bauten sind die Pläne der Wasserkraftwerke unter Ansetzung einer angemessenen Einsprachefrist öffentlich bekanntzumachen.
 
 <sup>3</sup> Werden Wasserkraftwerke an Gewässern erstellt, die mit Hilfe von Bundessubventionen korrigiert worden sind, so bedürfen sie der vorherigen Genehmigung des Departementes.
 
 [^21-1]: Fassung gemäss Ziff. I des BG vom 13. Dez. 1996, in Kraft seit 1. Mai 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^21-2]: Fassung gemäss Anhang Ziff. 2 des BG vom 15. März 2024, in Kraft seit 1. Aug. 2025 ([AS 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [BBl 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 ### II. Wahrung der Schönheit der Landschaft
 
@@ -377,7 +383,7 @@ Die Schiffbarmachung folgender Gewässerstrecken einschliesslich der wesentliche
 Für die Schiffbarmachung der Gewässer nach Artikel 24 Absatz 2 erstellt der Bund einen Sachplan nach dem Raumplanungsgesetz vom 22. Juni 1979[^25-2]. Die raumplanerische Umsetzung erfolgt über den kantonalen Richtplan nach diesem Gesetz.
 
 [^25-1]: Fassung gemäss Ziff. I des BG vom 13. Dez. 1996, in Kraft seit 1. Mai 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
-[^25-2]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^25-2]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 ### 3. Massnahmen bei Wasserkraftwerken
 
@@ -430,7 +436,7 @@ Für die Schiffbarmachung der Gewässer nach Artikel 24 Absatz 2 erstellt der Bu
 <sup>4</sup> Die im Gewässerschutzgesetz vom 24. Januar 1991[^29-2] vorgesehenen Erhebungen bleiben vorbehalten.
 
 [^29-1]: Fassung gemäss Ziff. I des BG vom 13. Dez. 1996, in Kraft seit 1. Mai 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
-[^29-2]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^29-2]: [SR 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
 
 ### 2. Statistiken und Untersuchungen
 
@@ -456,7 +462,11 @@ Er führt Untersuchungen durch:
 
 #### Art. 30
 
-Die Wasserwerkbesitzer und Uferanstösser sind verpflichtet, den mit der Wasserbau-, der Fischerei- und Schifffahrtspolizei sowie mit hydrometrischen Arbeiten betrauten kantonalen und eidgenössischen Beamten den Zutritt zu gestatten.
+[^30-1]
+
+Die Wasserwerkbesitzer und Uferanstösser sind verpflichtet, den mit der Wasserbau- und Schifffahrtspolizei, der Fischereiaufsicht, dem Hochwasserschutz sowie mit hydrometrischen Arbeiten betrauten zuständigen Behörden den Zutritt zu gestatten.
+
+[^30-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 15. März 2024, in Kraft seit 1. Aug. 2025 ([AS 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [BBl 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 ### VIII. Wasserrechtsverzeichnis
 
@@ -663,7 +673,7 @@ Durch die Konzession werden die Privatrechte Dritter und die früheren Konzessio
 
 [^46-1]: Fassung gemäss Ziff. I des BG vom 13. Dez. 1996, in Kraft seit 1. Mai 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 [^46-2]: Fassung gemäss Ziff. I 6 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. März 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
-[^46-3]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^46-3]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^46-4]: Eingefügt durch Ziff. I 6 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. März 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 
 ### *b.* Anwendbares Recht
@@ -675,7 +685,7 @@ Durch die Konzession werden die Privatrechte Dritter und die früheren Konzessio
 Das Enteignungsverfahren und die Entschädigungspflicht richten sich nach dem EntG[^47-2]; abweichende Bestimmungen des vorliegenden Gesetzes bleiben vorbehalten.
 
 [^47-1]: Fassung gemäss Ziff. I 6 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. März 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
-[^47-2]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^47-2]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### E. Pflichten des Konzessionärs
 
@@ -746,7 +756,7 @@ Bei Wasserkraftwerken, für die ein Investitionsbeitrag nach Artikel 26 des Ener
 <sup>2</sup> Die Ermässigungen gelten auch für die besonderen Steuern nach Artikel 49 Absatz 2.
 
 [^50a-1]: Eingefügt durch Ziff. I des BG vom 22. März 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3099](https://fedlex.data.admin.ch/eli/oc/2019/569); [BBl 2018 3419](https://fedlex.data.admin.ch/eli/fga/2018/1340)).
-[^50a-2]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^50a-2]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 
 ### c. Berechnung des höchstzulässigen Wasserzinses
 
@@ -888,8 +898,8 @@ Die Konzession wird für höchstens 80 Jahre von der Eröffnung des Betriebes an
 <sup>5</sup> Als Ausgangszustand im Sinne von Artikel 10*b* Absatz 2 Buchstabe a des Umweltschutzgesetzes vom 7. Oktober 1983[^58a-2] gilt für die Festlegung von Schutz-, Wiederherstellungs- und Ersatzmassnahmen nach dem Bundesgesetz vom 1. Juli 1966[^58a-3] über den Natur- und Heimatschutz der Zustand im Zeitpunkt der Gesuchseinreichung.[^58a-4]
 
 [^58a-1]: Eingefügt durch Ziff. I des BG vom 13. Dez. 1996, in Kraft seit 1. Mai 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
-[^58a-2]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^58a-3]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^58a-2]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^58a-3]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 [^58a-4]: Eingefügt durch Ziff. I des BG vom 20. Dez. 2019, in Kraft seit 1. Juli 2020 ([AS 2020 2049](https://fedlex.data.admin.ch/eli/oc/2020/400); [BBl 2019 5575](https://fedlex.data.admin.ch/eli/fga/2019/1934)[5809](https://fedlex.data.admin.ch/eli/fga/2019/2068)).
 
 ### H. Aufnahme in das Grundbuch
@@ -948,8 +958,8 @@ Die auf wenigstens 30 Jahre verliehenen Wasserrechte können als selbständige u
 <sup>4</sup> Kantonale Bewilligungen und Pläne sind nicht erforderlich. Das kantonale Recht ist zu berücksichtigen, soweit es den Konzessionär in der Erfüllung seiner Aufgaben nicht unverhältnismässig einschränkt.
 
 [^62-1]: Fassung gemäss Ziff. I 6 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. März 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
-[^62-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^62-3]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^62-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^62-3]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^62-4]: Fassung gemäss Anhang Ziff. 8 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 [^62-5]: Eingefügt durch Ziff. I 1 des BG vom 23. Dez. 2011, in Kraft seit 1. Jul 2012 ([AS 2012 3229](https://fedlex.data.admin.ch/eli/oc/2012/369); [BBl 2011 2901](https://fedlex.data.admin.ch/eli/fga/2011/426)[3907](https://fedlex.data.admin.ch/eli/fga/2011/598)).
 
@@ -1013,9 +1023,9 @@ Das Konzessionsgesuch ist mit den erforderlichen Unterlagen beim Bundesamt einzu
 <sup>3</sup> Die betroffenen Gemeinden wahren ihre Interessen mit Einsprache.
 
 [^62e-1]: Eingefügt durch Ziff. I 6 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. März 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
-[^62e-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^62e-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^62e-3]: Fassung gemäss Anhang Ziff. 8 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
-[^62e-4]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^62e-4]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^62e-5]: Fassung gemäss Anhang Ziff. 8 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
 ### f. Bereinigung in der Bundesverwaltung
@@ -1027,7 +1037,7 @@ Das Konzessionsgesuch ist mit den erforderlichen Unterlagen beim Bundesamt einzu
 Das Bereinigungsverfahren in der Bundesverwaltung richtet sich nach Artikel 62*b* des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^62f-2].
 
 [^62f-1]: Eingefügt durch Ziff. I 6 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. März 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
-[^62f-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^62f-2]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ### 3. Entscheid
 
@@ -1078,7 +1088,7 @@ Das vereinfachte Verfahren wird angewendet bei:
 <sup>3</sup> Der Präsident der Schätzungskommission kann gestützt auf einen vollstreckbaren Konzessionsentscheid die vorzeitige Besitzeinweisung bewilligen. Dabei wird vermutet, dass dem Enteigner ohne die vorzeitige Besitzeinweisung bedeutende Nachteile entstünden. Im Übrigen gilt Artikel 76 EntG.
 
 [^62i-1]: Eingefügt durch Ziff. I 6 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. März 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
-[^62i-2]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^62i-2]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^62i-3]: Fassung gemäss Anhang Ziff. 8 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 [^62i-4]: Aufgehoben durch Anhang Ziff. 8 des BG vom 19. Juni 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 

@@ -4,11 +4,11 @@ title: "Legge federale del 22 dicembre 1916 sull'utilizzazione delle forze idric
 short: LUFI
 eli: "https://fedlex.data.admin.ch/eli/cc/33/189_191_191"
 language: it
-version: 2023-01-01
+version: 2025-08-01
 adopted: 1916-12-22
 in_force: 1918-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/33/189_191_191/20230101/it/xml/fedlex-data-admin-ch-eli-cc-33-189_191_191-20230101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/33/189_191_191/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/33/189_191_191/20250801/it/xml/fedlex-data-admin-ch-eli-cc-33-189_191_191-20250801-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/33/189_191_191/20250801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,10 +17,10 @@ url: "https://www.fedlex.admin.ch/eli/cc/33/189_191_191/20230101/it"
 
 (Legge sulle forze idriche, LUFI[^t-2])[^t-1]
 
-del 22 dicembre 1916 (Stato 1° gennaio 2023)
+del 22 dicembre 1916 (Stato 1° agosto 2025)
 
-[^t-1]: Nuovo tit. giusta il n. I della LF dell’8 ott. 1976, in vigore dal 1° gen. 1977 ([RU 1977 171](https://fedlex.data.admin.ch/eli/oc/1977/171_171_171); [FF 1975 II 2083](https://fedlex.data.admin.ch/eli/fga/1975/2_2138_2140_2083)). Per questa mod. alle locuzioni «forze idrauliche» e «forza idraulica» sono sostituite le locuzioni «forze idriche» e «forza idrica».
-[^t-2]: Abbreviazione introdotta dal n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^t-1]: Nuovo tit. giusta della LF dell’8 ott. 1976, in vigore dal 1° gen. 1977 ([RU 1977 171](https://fedlex.data.admin.ch/eli/oc/1977/171_171_171); [FF 1975 II 2083](https://fedlex.data.admin.ch/eli/fga/1975/2_2138_2140_2083)). Per questa mod. alle locuzioni «forze idrauliche» e «forza idraulica» sono sostituite le locuzioni «forze idriche» e «forza idrica».
+[^t-2]: Abbreviazione introdotta dalla cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -28,8 +28,8 @@ visti gli articoli 76 e 81 della Costituzione federale[^ingress-1],[^ingress-2] 
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3099](https://fedlex.data.admin.ch/eli/oc/2019/569); [FF 2018 2877](https://fedlex.data.admin.ch/eli/fga/2018/1340)).
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3099](https://fedlex.data.admin.ch/eli/oc/2019/569); [FF 2018 2877](https://fedlex.data.admin.ch/eli/fga/2018/1340)).
 
 ## Capo I. Del Diritto di disposizione
 
@@ -84,7 +84,7 @@ decreta:
 <sup>3</sup> L’Ufficio federale dell’energia[^5-1](Ufficio federale) è autorizzato a esaminare se i piani degli impianti progettati assicurano nel loro insieme l’utilizzazione razionale delle forze idriche.[^5-2]
 
 [^5-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
-[^5-2]: Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^5-2]: Nuovo testo giusta la cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### 2. Per corsi d’acqua nel territorio di più Cantoni
 
@@ -97,8 +97,8 @@ decreta:
 <sup>3</sup> Quando l’impianto idraulico progettato, per il mutamento del corso d’acqua o per l’occupazione del suolo, alterasse in modo rilevante e sproporzionato le condizioni di residenza o i mezzi d’esistenza della popolazione di un Cantone, il Dipartimento non accorderà la concessione se non col consenso del Cantone stesso.[^6-3]
 
 [^6-1]: Nuova denominazione giusta il DCF non pubblicato del 19 dic. 1997.
-[^6-2]: Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
-[^6-3]: Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^6-2]: Nuovo testo giusta la cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^6-3]: Nuovo testo giusta la cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### 3. Per corsi d’acqua internazionali
 
@@ -120,7 +120,7 @@ Per l’utilizzazione delle forze idriche delle sezioni di corsi d’acqua che t
 
 <sup>3</sup> Le autorità competenti decidono d’intesa con gli enti pubblici aventi il diritto di disporre delle acque e i Cantoni.
 
-[^7-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3099](https://fedlex.data.admin.ch/eli/oc/2019/569); [FF 2018 2877](https://fedlex.data.admin.ch/eli/fga/2018/1340)).
+[^7-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3099](https://fedlex.data.admin.ch/eli/oc/2019/569); [FF 2018 2877](https://fedlex.data.admin.ch/eli/fga/2018/1340)).
 
 ### 3<sup>bis</sup>. Per lo sfruttamento di bacini d’accumulazione
 
@@ -132,7 +132,7 @@ Per l’utilizzazione delle forze idriche delle sezioni di corsi d’acqua che t
 
 <sup>2</sup> Se questi provvedimenti pregiudicano diritti acquisiti, l’indennità prevista dall’articolo 43 capoverso 2 è a carico dell’ente pubblico titolare del diritto di disposizione.
 
-[^7a-1]: Introdotto dal n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^7a-1]: Introdotto dalla cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### 4. Esportazione d’acqua o di forza all’estero
 
@@ -144,8 +144,8 @@ Per l’utilizzazione delle forze idriche delle sezioni di corsi d’acqua che t
 
 <sup>3</sup> L’autorizzazione è accordata per un tempo determinato e alle condizioni da fissare dal Dipartimento, ma può essere sempre revocata per ragioni d’interesse pubblico, verso pagamento di un’indennità. L’indennità è stabilita in base all’atto d’autorizzazione oppure secondo equità se questo non reca nessuna disposizione in proposito.[^8-2]
 
-[^8-1]: Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
-[^8-2]: Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^8-1]: Nuovo testo giusta la cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^8-2]: Nuovo testo giusta la cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### 5. Derivazione da un Cantone in un altro
 
@@ -155,7 +155,7 @@ Per l’utilizzazione delle forze idriche delle sezioni di corsi d’acqua che t
 
 <sup>2</sup> In caso di contestazione decide il Dipartimento.[^9-1]
 
-[^9-1]: Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^9-1]: Nuovo testo giusta la cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### 6. Limitazione contrattuale della zona di distribuzione
 
@@ -165,7 +165,7 @@ Per l’utilizzazione delle forze idriche delle sezioni di corsi d’acqua che t
 
 <sup>2</sup> Le prescrizioni del presente articolo sono applicabili per analogia ai mediatori.
 
-[^10-1]: Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^10-1]: Nuovo testo giusta la cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### 7. Corsi d’acqua non utilizzati
 
@@ -175,7 +175,7 @@ Per l’utilizzazione delle forze idriche delle sezioni di corsi d’acqua che t
 
 <sup>2</sup> Contro la decisione del Governo cantonale è ammesso il ricorso al Dipartimento entro il termine di 30 giorni.[^11-1]
 
-[^11-1]: Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^11-1]: Nuovo testo giusta la cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### 8. Appropriazione per scopi della Confederazione
 
@@ -191,8 +191,8 @@ Per l’utilizzazione delle forze idriche delle sezioni di corsi d’acqua che t
 
 <sup>3</sup> Se la Confederazione non ha ancora modo d’impiegare la forza idrica acquistata, le è data facoltà di cedere nel frattempo a un terzo l’esercizio del diritto di utilizzazione.
 
-[^12-1]: Nuovo testo giusta il n. I della LF del 21 giu. 1985, in vigore dal 1° gen. 1986 ([RU 1985 1839](https://fedlex.data.admin.ch/eli/oc/1985/1839_1839_1839); [FF 1984 III 1401](https://fedlex.data.admin.ch/eli/fga/1984/3_1441_1445_1401)).
-[^12-2]: Introdotto dal n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^12-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 1985, in vigore dal 1° gen. 1986 ([RU 1985 1839](https://fedlex.data.admin.ch/eli/oc/1985/1839_1839_1839); [FF 1984 III 1401](https://fedlex.data.admin.ch/eli/fga/1984/3_1441_1445_1401)).
+[^12-2]: Introdotto dalla cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### b. Risarcimento alla comunità
 
@@ -224,9 +224,9 @@ Per l’utilizzazione delle forze idriche delle sezioni di corsi d’acqua che t
 
 <sup>4</sup> ...[^14-4]
 
-[^14-1]: Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
-[^14-2]: Introdotto dal n. I della LF del 21 dic. 1967, in vigore dal 1° lug. 1968 ([RU 1968 757](https://fedlex.data.admin.ch/eli/oc/1968/801_841_757); [FF 1967 I 701](https://fedlex.data.admin.ch/eli/fga/1967/1_1025_1037_701)).
-[^14-3]: Introdotto dal n. I della LF del 21 dic. 1967, in vigore dal 1° lug. 1968 ([RU 1968 757](https://fedlex.data.admin.ch/eli/oc/1968/801_841_757); [FF 1967 I 701](https://fedlex.data.admin.ch/eli/fga/1967/1_1025_1037_701)).
+[^14-1]: Nuovo testo giusta la cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^14-2]: Introdotto dalla cifra I della LF del 21 dic. 1967, in vigore dal 1° lug. 1968 ([RU 1968 757](https://fedlex.data.admin.ch/eli/oc/1968/801_841_757); [FF 1967 I 701](https://fedlex.data.admin.ch/eli/fga/1967/1_1025_1037_701)).
+[^14-3]: Introdotto dalla cifra I della LF del 21 dic. 1967, in vigore dal 1° lug. 1968 ([RU 1968 757](https://fedlex.data.admin.ch/eli/oc/1968/801_841_757); [FF 1967 I 701](https://fedlex.data.admin.ch/eli/fga/1967/1_1025_1037_701)).
 [^14-4]: Abrogato dall’all. n. 29 della LF del 4 ott. 1991, con effetto dal 1° gen. 1994 ([RU 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 877](https://fedlex.data.admin.ch/eli/oc/1993/877_877_877)art. 2 cpv. 1; [FF 1991 II 413](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
 
 ### 9. Regolarizzazione dei corsi di acqua
@@ -259,11 +259,12 @@ La Confederazione ha il diritto di regolare il deflusso dei laghi e dei bacini d
 
 <sup>1</sup> Per utilizzare i corsi d’acqua privati o i corsi d’acqua pubblici in virtù del diritto privato dei rivieraschi (art. 2 cpv. 2), è necessario il permesso dell’autorità cantonale competente.
 
-<sup>2</sup> L’autorità invigila che siano osservate le prescrizioni federali e cantonali sulla polizia delle acque e che non siano lesi i diritti di utilizzazione esistenti.
+<sup>2</sup> L’autorità cantonale vigila affinché siano osservate le prescrizioni della Confederazione e dei Cantoni sulla protezione contro le piene e sulla polizia delle acque e che non siano lesi i diritti di utilizzazione esistenti.[^17-1]
 
-<sup>3</sup> Gli articoli 5, 7*a*, 8, 11 e il capo II della presente legge sono applicabili per analogia.[^17-1]
+<sup>3</sup> Gli articoli 5, 7*a*, 8, 11 e il capo II della presente legge sono applicabili per analogia.[^17-2]
 
-[^17-1]: Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^17-1]: Nuovo testo giusta l’all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° ago. 2025 ([RU 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
+[^17-2]: Nuovo testo giusta la cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### II. Imposizione degli impianti idraulici
 
@@ -281,7 +282,7 @@ Se il Cantone riscuote da impianti idraulici stabiliti in virtù di un diritto p
 
 <sup>2</sup> Quando l’espropriazione è fatta dalla Confederazione, sono sempre applicabili il diritto federale sull’espropriazione e l’articolo 12 capoverso 1<sup>bis</sup>.
 
-[^19-1]: Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^19-1]: Nuovo testo giusta la cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### IV. Compenso per perdita d’imposte
 
@@ -291,23 +292,28 @@ Se il Cantone riscuote da impianti idraulici stabiliti in virtù di un diritto p
 
 <sup>2</sup> La Confederazione deve inoltre versare al Cantone, a titolo di compenso per la perdita di imposte cantonali, comunali e altre, un’indennità di 11 franchi per anno e chilowatt lordo dell’impianto costruito; le disposizioni dell’articolo 14 sono applicabili per analogia.[^20-1]
 
-[^20-1]: Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^20-1]: Nuovo testo giusta la cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ## Capo II. Utilizzazione dei corsi d’acqua
 
 ### A. Vigilanza delle autorità
 
-### I. Polizia delle acque
+[^chap2-lvlA-1]
+
+[^chap2-lvlA-1]: Nuovo testo giusta l’all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° ago. 2025 ([RU 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
+
+### I. Protezione contro le piene e polizia delle acque
 
 #### Art. 21
 
-<sup>1</sup> Gli impianti idraulici devono corrispondere alle prescrizioni della Confederazione e dei Cantoni sulla polizia delle acque.
+<sup>1</sup> Gli impianti idraulici devono corrispondere alle prescrizioni della Confederazione e dei Cantoni sulla protezione contro le piene e sulla polizia delle acque.[^21-1]
 
 <sup>2</sup> Prima dell’inizio dei lavori, devono essere pubblicati i piani degli impianti, fissando un adeguato termine per le opposizioni.
 
-<sup>3</sup> Gli impianti idraulici da costruirsi su corsi d’acqua la cui correzione sia stata eseguita mediante sussidi federali devono essere prima approvati dal Dipartimento.[^21-1]
+<sup>3</sup> Gli impianti idraulici da costruirsi su corsi d’acqua la cui correzione sia stata eseguita mediante sussidi federali devono essere prima approvati dal Dipartimento.[^21-2]
 
-[^21-1]: Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^21-1]: Nuovo testo giusta l’all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° ago. 2025 ([RU 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
+[^21-2]: Nuovo testo giusta la cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### II. Bellezza del paesaggio
 
@@ -324,7 +330,7 @@ Se il Cantone riscuote da impianti idraulici stabiliti in virtù di un diritto p
 <sup>5</sup> Il Consiglio federale disciplina le modalità di indennizzo.[^22-3]
 
 [^22-1]: Introdotto dall’art. 75 n. 6 della LF del 24 gen. 1991 sulla protezione delle acque, in vigore dal 1° nov. 1992 ([RU 1992 1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860); [FF 1987 II 905](https://fedlex.data.admin.ch/eli/fga/1987/2_1061_1081_905)).
-[^22-2]: Introdotto dall’art. 75 n. 6 della LF del 24 gen. 1991 sulla protezione delle acque ([RU 1992 1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860); [FF 1987 II 905](https://fedlex.data.admin.ch/eli/fga/1987/2_1061_1081_905)). Abrogato dal n. II 15 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^22-2]: Introdotto dall’art. 75 n. 6 della LF del 24 gen. 1991 sulla protezione delle acque ([RU 1992 1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860); [FF 1987 II 905](https://fedlex.data.admin.ch/eli/fga/1987/2_1061_1081_905)). Abrogato dalla cifra II 15 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^22-3]: Introdotto dall’art. 75 n. 6 della LF del 24 gen. 1991 sulla protezione delle acque, in vigore dal 1° nov. 1992 ([RU 1992 1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860); [FF 1987 II 905](https://fedlex.data.admin.ch/eli/fga/1987/2_1061_1081_905)).
 
 ### III. Pesca
@@ -352,7 +358,7 @@ I possessori degli impianti idraulici hanno l’obbligo di costruire opere adatt
 
 <sup>3</sup> Negli altri casi i Cantoni determinano, conformemente alla legislazione sulla navigazione interna, in che misura le acque sono navigabili e quali impianti essi mettono a disposizione o autorizzano a tal fine.
 
-[^24-1]: Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^24-1]: Nuovo testo giusta la cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### 2. Pianificazione in vista della protezione del tracciato delle idrovie
 
@@ -362,8 +368,8 @@ I possessori degli impianti idraulici hanno l’obbligo di costruire opere adatt
 
 Per rendere navigabili i corsi d’acqua, conformemente all’articolo 24 capoverso 2, la Confederazione allestisce un piano settoriale secondo la legge federale del 22 giugno 1979[^25-2] sulla pianificazione del territorio. I piani direttori cantonali ne tengono conto conformemente alla legge summenzionata.
 
-[^25-1]: Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
-[^25-2]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^25-1]: Nuovo testo giusta la cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^25-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 ### 3. Navigazione presso impianti idraulici
 
@@ -375,7 +381,7 @@ Per rendere navigabili i corsi d’acqua, conformemente all’articolo 24 capove
 
 <sup>2</sup> Gli aventi diritto all’utilizzazione hanno l’obbligo di cedere l’acqua necessaria all’alimentazione delle chiuse. Se questo obbligo provoca limitazioni nell’utilizzazione oltre i limiti fissati nella concessione, è versata un’indennità. In caso di mancato accordo tra le parti, la concessione deve essere limitata nella relativa misura mediante espropriazione.
 
-[^26-1]: Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^26-1]: Nuovo testo giusta la cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### 4. Decisione di sistemare le sezioni di corsi d’acqua
 
@@ -387,7 +393,7 @@ Per rendere navigabili i corsi d’acqua, conformemente all’articolo 24 capove
 
 <sup>2</sup> Nessun trattato internazionale in materia può essere approvato prima dell’entrata in vigore del decreto federale.
 
-[^27-1]: Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^27-1]: Nuovo testo giusta la cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### V. Flottazione
 
@@ -415,8 +421,8 @@ Per rendere navigabili i corsi d’acqua, conformemente all’articolo 24 capove
 
 <sup>4</sup> Sono salvi i rilevamenti previsti dalla legge federale del 24 gennaio 1991[^29-2] sulla protezione delle acque.
 
-[^29-1]: Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
-[^29-2]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^29-1]: Nuovo testo giusta la cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^29-2]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
 
 ### 2. Statistiche e ricerche
 
@@ -436,13 +442,17 @@ Essa svolge ricerche per:
 
 <sup>3</sup> Essa rende disponibili i risultati in forma adeguata.
 
-[^29a-1]: Introdotto dal n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^29a-1]: Introdotto dalla cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### VII. Accesso delle autorità
 
 #### Art. 30
 
-I possessori d’impianti idraulici e i rivieraschi hanno l’obbligo di concedere libero accesso ai funzionari cantonali e federali cui è affidata la polizia delle acque, della pesca e della navigazione nonché il servizio idrometrico.
+[^30-1]
+
+I possessori d’impianti idraulici e i rivieraschi hanno l’obbligo di concedere libero accesso alle autorità competenti cui è affidata la polizia delle acque e della navigazione, la sorveglianza della pesca, la protezione contro le piene nonché il servizio idrometrico.
+
+[^30-1]: Nuovo testo giusta l’all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° ago. 2025 ([RU 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 ### VIII. Registro dei diritti d’acqua
 
@@ -452,7 +462,7 @@ I possessori d’impianti idraulici e i rivieraschi hanno l’obbligo di concede
 
 <sup>2</sup> Il Dipartimento emana le prescrizioni necessarie sulla formazione e la tenuta di questo registro.[^31-1]
 
-[^31-1]: Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^31-1]: Nuovo testo giusta la cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### B. Rapporti degli utenti fra loro
 
@@ -468,8 +478,8 @@ I possessori d’impianti idraulici e i rivieraschi hanno l’obbligo di concede
 
 <sup>3</sup> Se colla conservazione dei diritti esistenti, non si possono equamente conciliare gl’interessi degli utenti, l’autorità competente può, a richiesta, limitare l’esercizio di singoli utenti contro un’indennità da pagarsi da quelli fra loro che vengono a essere avvantaggiati. L’indennità fissata dall’autorità cantonale può essere impugnata in virtù del diritto cantonale davanti a un’autorità giudiziaria.[^32-2]
 
-[^32-1]: Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
-[^32-2]: Nuovo testo del per. giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^32-1]: Nuovo testo giusta la cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^32-2]: Nuovo testo del per. giusta la cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### b*.* Obbligo di contributo
 
@@ -481,7 +491,7 @@ I possessori d’impianti idraulici e i rivieraschi hanno l’obbligo di concede
 
 <sup>3</sup> L’autorità competente può, quando le circostanze lo giustifichino, ordinare in ogni tempo la costituzione di una società cooperativa di tutti gl’interessati.
 
-[^33-1]: Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^33-1]: Nuovo testo giusta la cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### II. Costituzione di società
 
@@ -503,7 +513,7 @@ Gli utenti di un corso d’acqua o di una sezione di corso d’acqua possono cos
 
 <sup>3</sup> Altre contestazioni che sorgessero fra i soci della cooperativa saranno decise dai tribunali ordinari.
 
-[^35-1]: Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^35-1]: Nuovo testo giusta la cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### 2. Obbligatoria
 
@@ -517,7 +527,7 @@ Gli utenti di un corso d’acqua o di una sezione di corso d’acqua possono cos
 
 <sup>3</sup> Se, dopo la costituzione della società, viene accordato un diritto d’utilizzazione, il nuovo utente può dall’autorità competente essere obbligato ad aderire alla società e a pagare una congrua tassa d’entrata.
 
-[^36-1]: Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^36-1]: Nuovo testo giusta la cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### b*.* Statuto
 
@@ -545,8 +555,8 @@ Gli utenti di un corso d’acqua o di una sezione di corso d’acqua possono cos
 
 <sup>3</sup> Il Dipartimento dà inoltre la concessione dei diritti d’acqua sulle sezioni che toccano la frontiera nazionale.[^38-2]
 
-[^38-1]: Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
-[^38-2]: Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^38-1]: Nuovo testo giusta la cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^38-2]: Nuovo testo giusta la cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### B. Interesse pubblico
 
@@ -562,9 +572,9 @@ Nella sua decisione l’autorità tien conto dell’utilità pubblica, della mig
 
 <sup>1</sup> La concessione è data ad una determinata persona fisica o morale o ad una comunità di persone.
 
-<sup>2</sup> a <sup>4</sup> ...[^40-1]
+<sup>2 a <sup>4</sup></sup> ...[^40-1]
 
-[^40-1]: Abrogati dal n. I della LF del 13 dic. 1996, con effetto dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^40-1]: Abrogati dalla cifra I della LF del 13 dic. 1996, con effetto dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### II. In caso di più concorrenti
 
@@ -582,7 +592,7 @@ Fra più concorrenti sarà data la preferenza a quello la cui impresa serve in p
 
 <sup>3</sup> ...[^42-1]
 
-[^42-1]: Abrogato dal n. I della LF del 13 dic. 1996, con effetto dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^42-1]: Abrogato dalla cifra I della LF del 13 dic. 1996, con effetto dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### D. Del diritto di utilizzazione
 
@@ -633,10 +643,10 @@ La concessione non vulnera i diritti privati dei terzi né le concessioni anteri
 
 <sup>4</sup> Se la concessione è data dal Dipartimento, al richiedente spetta il diritto di espropriazione secondo la legge federale del 20 giugno 1930[^46-3] sull’espropriazione (LEspr).[^46-4]
 
-[^46-1]: Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
-[^46-2]: Nuovo testo giusta il n. I 6 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
-[^46-3]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
-[^46-4]: Introdotto dal n. I 6 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^46-1]: Nuovo testo giusta la cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^46-2]: Nuovo testo giusta la cifra I 6 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^46-3]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
+[^46-4]: Introdotto dalla cifra I 6 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 ### b*.* Diritto applicabile
 
@@ -646,8 +656,8 @@ La concessione non vulnera i diritti privati dei terzi né le concessioni anteri
 
 La procedura di espropriazione e l’obbligo di indennizzo sono regolati dalla LEspr[^47-2]; sono fatte salve eventuali disposizioni derogatorie della presente legge.
 
-[^47-1]: Nuovo testo giusta il n. I 6 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
-[^47-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^47-1]: Nuovo testo giusta la cifra I 6 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^47-2]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### E. Obblighi del concessionario
 
@@ -663,7 +673,7 @@ La procedura di espropriazione e l’obbligo di indennizzo sono regolati dalla L
 
 <sup>3</sup> Ove si pretendano dal richiedente prestazioni che ostacolino essenzialmente l’utilizzazione delle forze idriche, il Dipartimento può, dopo aver sentito il Cantone, determinare le prestazioni massime che si possono imporre al richiedente oltre il canone annuo e le tasse.[^48-1] Esso può riservare l’aumento delle prestazioni quando le circostanze venissero a mutare essenzialmente a favore del concessionario.
 
-[^48-1]: Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^48-1]: Nuovo testo giusta la cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### 2. Tasse e canone annuo
 
@@ -683,9 +693,9 @@ La procedura di espropriazione e l’obbligo di indennizzo sono regolati dalla L
 
 <sup>4</sup> Gli impianti idraulici con una potenza sino a 1 MW sono esenti dal pagamento del canone annuo. Per quelli con una potenza tra 1 e 2 MW è ammesso tutt’al più un aumento lineare sino all’aliquota massima fissata nel capoverso 1.
 
-[^49-1]: Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
-[^49-2]: Nuovo testo giusta il n. II della LF del 21 ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
-[^49-3]: Introdotto dal n. I 1 della LF del 18 giu. 2010 ([RU 2010 5061](https://fedlex.data.admin.ch/eli/oc/2010/727); [FF 2009 969](https://fedlex.data.admin.ch/eli/fga/2009/267)[995](https://fedlex.data.admin.ch/eli/fga/2009/269), [2010 305](https://fedlex.data.admin.ch/eli/fga/2010/91)). Nuovo testo giusta il n. II della LF del 21 ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^49-1]: Nuovo testo giusta la cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^49-2]: Nuovo testo giusta la cifra II della LF del 21 ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^49-3]: Introdotto dalla cifra I 1 della LF del 18 giu. 2010 ([RU 2010 5061](https://fedlex.data.admin.ch/eli/oc/2010/727); [FF 2009 969](https://fedlex.data.admin.ch/eli/fga/2009/267)[995](https://fedlex.data.admin.ch/eli/fga/2009/269), [2010 305](https://fedlex.data.admin.ch/eli/fga/2010/91)). Nuovo testo giusta la cifra II della LF del 21 ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 ### b*.* Riduzione durante il periodo di costruzione
 
@@ -710,14 +720,14 @@ Agli impianti idroelettrici per i quali è versato un contributo d’investiment
 
 <sup>2</sup> Le riduzioni valgono anche per le imposte speciali di cui all’articolo 49 capoverso 2.
 
-[^50a-1]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3099](https://fedlex.data.admin.ch/eli/oc/2019/569); [FF 2018 2877](https://fedlex.data.admin.ch/eli/fga/2018/1340)).
-[^50a-2]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^50a-1]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3099](https://fedlex.data.admin.ch/eli/oc/2019/569); [FF 2018 2877](https://fedlex.data.admin.ch/eli/fga/2018/1340)).
+[^50a-2]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 
 ### c. Calcolo del canone massimo consentito
 
 [^chap3-lvlE-lvlI-lvl2-lvlc-1]
 
-[^chap3-lvlE-lvlI-lvl2-lvlc-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3099](https://fedlex.data.admin.ch/eli/oc/2019/569); [FF 2018 2877](https://fedlex.data.admin.ch/eli/fga/2018/1340)).
+[^chap3-lvlE-lvlI-lvl2-lvlc-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3099](https://fedlex.data.admin.ch/eli/oc/2019/569); [FF 2018 2877](https://fedlex.data.admin.ch/eli/fga/2018/1340)).
 
 #### Art. 51
 
@@ -729,7 +739,7 @@ Agli impianti idroelettrici per i quali è versato un contributo d’investiment
 
 <sup>4</sup> Il Consiglio federale emanerà disposizioni più precise per il calcolo.
 
-[^51-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3099](https://fedlex.data.admin.ch/eli/oc/2019/569); [FF 2018 2877](https://fedlex.data.admin.ch/eli/fga/2018/1340)).
+[^51-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3099](https://fedlex.data.admin.ch/eli/oc/2019/569); [FF 2018 2877](https://fedlex.data.admin.ch/eli/fga/2018/1340)).
 
 ### 3. Concessioni accordate dal Consiglio federale
 
@@ -739,7 +749,7 @@ Agli impianti idroelettrici per i quali è versato un contributo d’investiment
 
 Se la concessione è data dal Dipartimento, questo fissa, dopo aver sentito i Cantoni interessati e tenendo equamente conto delle loro legislazioni, le prestazioni che sono loro dovute.
 
-[^52-1]: Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^52-1]: Nuovo testo giusta la cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### 4. Emolumenti in caso di concessioni federali
 
@@ -749,7 +759,7 @@ Se la concessione è data dal Dipartimento, questo fissa, dopo aver sentito i Ca
 
 La Confederazione preleva emolumenti per la sorveglianza esercitata sugli impianti idraulici internazionali e per coprire le spese amministrative causate dall’applicazione della presente legge.
 
-[^52a-1]: Introdotto dal n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^52a-1]: Introdotto dalla cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### II. In forza della legge
 
@@ -781,7 +791,7 @@ Ciascun atto di concessione deve indicare:
 - k. il futuro degli impianti al termine della concessione;
 - l. il futuro di eventuali prestazioni d’indennità dovute ad altri concessionari al termine della loro concessione.
 
-[^54-1]: Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^54-1]: Nuovo testo giusta la cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### II. Disposizioni facoltative
 
@@ -795,7 +805,7 @@ Le concessioni possono contenere anche altre disposizioni oltre quelle prescritt
 - d. sulle tariffe per la vendita della forza prodotta, sulla forza da cedersi gratuitamente o a prezzi di favore, sul ribasso dei prezzi della corrente in caso di aumento del reddito, sulla fornitura di forza pei bisogni di una regione;
 - e.[^55-1] ...
 
-[^55-1]: Abrogata dal n. I della LF del 13 dic. 1996, con effetto dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^55-1]: Abrogata dalla cifra I della LF del 13 dic. 1996, con effetto dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### III. Contabilità
 
@@ -821,7 +831,7 @@ Il Consiglio federale può, nei limiti della presente legge, stabilire per le co
 
 La concessione ha una durata di ottant’anni al massimo, contando dall’apertura dell’esercizio. È fatto salvo l’articolo 58*a* capoverso 2.
 
-[^58-1]: Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^58-1]: Nuovo testo giusta la cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### G<sup>bis</sup>. Rinnovo della concessione
 
@@ -839,10 +849,10 @@ La concessione ha una durata di ottant’anni al massimo, contando dall’apertu
 
 <sup>5</sup> Per la definizione di misure di protezione, di ripristino e di sostituzione secondo la legge federale del 1° luglio 1966[^58a-2] sulla protezione della natura e del paesaggio, lo stato iniziale ai sensi dell’articolo 10*b* capoverso 2 lettera a della legge del 7 ottobre 1983[^58a-3] sulla protezione dell’ambiente corrisponde allo stato al momento della presentazione della domanda.[^58a-4]
 
-[^58a-1]: Introdotto dal n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
-[^58a-2]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^58a-3]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^58a-4]: Introdotto dal n. I della LF del 20 dic. 2019, in vigore dal 1° lug. 2020 ([RU 2020 2049](https://fedlex.data.admin.ch/eli/oc/2020/400); [FF 2019 4663](https://fedlex.data.admin.ch/eli/fga/2019/1934)[4823](https://fedlex.data.admin.ch/eli/fga/2019/2068)).
+[^58a-1]: Introdotto dalla cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^58a-2]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^58a-3]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^58a-4]: Introdotto dalla cifra I della LF del 20 dic. 2019, in vigore dal 1° lug. 2020 ([RU 2020 2049](https://fedlex.data.admin.ch/eli/oc/2020/400); [FF 2019 4663](https://fedlex.data.admin.ch/eli/fga/2019/1934)[4823](https://fedlex.data.admin.ch/eli/fga/2019/2068)).
 
 ### H. Inscrizione nel registro fondiario
 
@@ -868,8 +878,8 @@ Le concessioni accordate per trent’anni almeno possono essere inscritte nel re
 
 <sup>4</sup> Il Consiglio federale può emanare altre disposizioni sulla procedura da seguirsi.
 
-[^60-1]: Introdotto dal n. I 1 della LF del 23 dic. 2011, in vigore dal 1° lug. 2012 ([RU 2012 3229](https://fedlex.data.admin.ch/eli/oc/2012/369); [FF 2011 2641](https://fedlex.data.admin.ch/eli/fga/2011/426)[3551](https://fedlex.data.admin.ch/eli/fga/2011/598)).
-[^60-2]: Introdotto dall’all. n. II 5 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^60-1]: Introdotto dalla cifra I 1 della LF del 23 dic. 2011, in vigore dal 1° lug. 2012 ([RU 2012 3229](https://fedlex.data.admin.ch/eli/oc/2012/369); [FF 2011 2641](https://fedlex.data.admin.ch/eli/fga/2011/426)[3551](https://fedlex.data.admin.ch/eli/fga/2011/598)).
+[^60-2]: Introdotto dall’all. cifra II n. 5 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 
 ### II. Corsi d’acqua intercantonali
 
@@ -879,7 +889,7 @@ Le concessioni accordate per trent’anni almeno possono essere inscritte nel re
 
 <sup>2</sup> In caso di contestazione decide il Dipartimento.[^61-1]
 
-[^61-1]: Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^61-1]: Nuovo testo giusta la cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### III. Concessioni federali
 
@@ -899,11 +909,11 @@ Le concessioni accordate per trent’anni almeno possono essere inscritte nel re
 
 <sup>4</sup> Non è necessaria alcuna autorizzazione o piano del diritto cantonale. Va tenuto conto del diritto cantonale per quanto esso non limiti in modo sproporzionato l’adempimento dei compiti del concessionario.
 
-[^62-1]: Nuovo testo giusta il n. I 6 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
-[^62-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^62-3]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^62-1]: Nuovo testo giusta la cifra I 6 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^62-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^62-3]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^62-4]: Nuovo testo giusta l’all. n. 8 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
-[^62-5]: Introdotto dal n. I 1 della LF del 23 dic. 2011, in vigore dal 1° lug. 2012 ([RU 2012 3229](https://fedlex.data.admin.ch/eli/oc/2012/369); [FF 2011 2641](https://fedlex.data.admin.ch/eli/fga/2011/426)[3551](https://fedlex.data.admin.ch/eli/fga/2011/598)).
+[^62-5]: Introdotto dalla cifra I 1 della LF del 23 dic. 2011, in vigore dal 1° lug. 2012 ([RU 2012 3229](https://fedlex.data.admin.ch/eli/oc/2012/369); [FF 2011 2641](https://fedlex.data.admin.ch/eli/fga/2011/426)[3551](https://fedlex.data.admin.ch/eli/fga/2011/598)).
 
 ### 2. Procedura ordinaria
 
@@ -915,7 +925,7 @@ Le concessioni accordate per trent’anni almeno possono essere inscritte nel re
 
 La domanda di approvazione dei piani va presentata con la documentazione necessaria all’Ufficio federale. Questo esamina se la documentazione è completa e, se del caso, chiede di completarla.
 
-[^62a-1]: Introdotto dal n. I 6 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^62a-1]: Introdotto dalla cifra I 6 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 ### b. Picchettamento
 
@@ -927,7 +937,7 @@ La domanda di approvazione dei piani va presentata con la documentazione necessa
 
 <sup>2</sup> Le obiezioni contro il picchettamento o l’indicazione dei profili devono essere presentate subito, al più tardi però entro il termine di deposito dei piani, presso l’Ufficio federale.
 
-[^62b-1]: Introdotto dal n. I 6 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^62b-1]: Introdotto dalla cifra I 6 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 ### c. Consultazione, pubblicazione e deposito dei piani
 
@@ -941,7 +951,7 @@ La domanda di approvazione dei piani va presentata con la documentazione necessa
 
 <sup>3</sup> ...[^62c-2]
 
-[^62c-1]: Introdotto dal n. I 6 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^62c-1]: Introdotto dalla cifra I 6 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 [^62c-2]: Abrogato dall’all. n. 8 della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
 ### d. ...
@@ -950,7 +960,7 @@ La domanda di approvazione dei piani va presentata con la documentazione necessa
 
 [^62d-1]
 
-[^62d-1]: Introdotto dal n. I 6 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029). Abrogato dall’all. n. 8 della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+[^62d-1]: Introdotto dalla cifra I 6 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029). Abrogato dall’all. n. 8 della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
 ### e. Opposizione
 
@@ -964,10 +974,10 @@ La domanda di approvazione dei piani va presentata con la documentazione necessa
 
 <sup>3</sup> I Comuni salvaguardano i loro interessi mediante opposizione.
 
-[^62e-1]: Introdotto dal n. I 6 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
-[^62e-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^62e-1]: Introdotto dalla cifra I 6 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^62e-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^62e-3]: Nuovo testo giusta l’all. n. 8 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
-[^62e-4]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^62e-4]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^62e-5]: Nuovo testo giusta l’all. n. 8 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
 ### f. Eliminazione delle divergenze nell’Amministra-zione federale
@@ -978,8 +988,8 @@ La domanda di approvazione dei piani va presentata con la documentazione necessa
 
 La procedura di eliminazione delle divergenze nell’Amministrazione federale è disciplinata dall’articolo 62*b* della legge federale del 20 marzo 1997[^62f-2] sull’organizzazione del Governo e dell’Amministrazione.
 
-[^62f-1]: Introdotto dal n. I 6 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
-[^62f-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^62f-1]: Introdotto dalla cifra I 6 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^62f-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ### 3. Decisione
 
@@ -989,7 +999,7 @@ La procedura di eliminazione delle divergenze nell’Amministrazione federale è
 
 Con il rilascio della concessione il Dipartimento decide simultaneamente anche circa le opposizioni relative al diritto di espropriazione.
 
-[^62g-1]: Introdotto dal n. I 6 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^62g-1]: Introdotto dalla cifra I 6 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 ### 4. Procedura semplificata
 
@@ -1011,7 +1021,7 @@ La procedura semplificata è applicata a:
 
 <sup>4</sup> Per il rimanente si applicano le disposizioni della procedura ordinaria. In caso di dubbio è eseguita la procedura ordinaria.
 
-[^62h-1]: Introdotto dal n. I 6 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^62h-1]: Introdotto dalla cifra I 6 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 ### 5. Procedura di conciliazione e di stima; immissione in possesso anticipata
 
@@ -1029,8 +1039,8 @@ La procedura semplificata è applicata a:
 
 <sup>3</sup> Il presidente della Commissione di stima può, sulla base di una decisione esecutiva di concessione, autorizzare l’immissione in possesso anticipata. Si presume che, senza l’immissione in possesso anticipata, l’espropriante subirebbe un significativo pregiudizio. Per il rimanente si applica l’articolo 76 LEspr.
 
-[^62i-1]: Introdotto dal n. I 6 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
-[^62i-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^62i-1]: Introdotto dalla cifra I 6 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^62i-2]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^62i-3]: Nuovo testo giusta l’all. n. 8 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 [^62i-4]: Abrogato dall’all. n. 8 della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
@@ -1044,7 +1054,7 @@ La procedura semplificata è applicata a:
 
 <sup>2</sup> Se al momento dell’approvazione dei piani non vi è un’autorizzazione passata in giudicato del Cantone interessato, il Dipartimento può designare un sito per il deposito temporaneo e stabilire le condizioni e gli oneri connessi al suo uso. In tal caso si applicano le disposizioni procedurali della presente legge. Il Cantone designa entro cinque anni i siti per l’eliminazione dei materiali.
 
-[^62k-1]: Introdotto dal n. I 6 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^62k-1]: Introdotto dalla cifra I 6 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 ### K. Fine della concessione
 
@@ -1062,7 +1072,7 @@ La procedura semplificata è applicata a:
 
 <sup>4</sup> L’articolo 67 capoverso 4 è applicabile per analogia.
 
-[^63-1]: Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^63-1]: Nuovo testo giusta la cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### II. In seguito a estinzione
 
@@ -1112,8 +1122,8 @@ In caso di riversione degli impianti, e sempreché l’atto di concessione non d
 
 <sup>5</sup> L’ente pubblico avente il diritto di riversione può, con il consenso del concessionario, conferire il valore del diritto di riversione come quota di partecipazione nell’impresa esistente. Può anche utilizzarlo in altro modo, nell’interesse pubblico.[^67-2]
 
-[^67-1]: Introdotto dal n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
-[^67-2]: Introdotto dal n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^67-1]: Introdotto dalla cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^67-2]: Introdotto dalla cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### b*.* Corsi d’acqua intercantonali
 
@@ -1123,7 +1133,7 @@ In caso di riversione degli impianti, e sempreché l’atto di concessione non d
 
 <sup>2</sup> Se i Cantoni non riescono a mettersi d’accordo sull’utilizzazione ulteriore e sulla parte che spetta a ciascuno di essi, decide il Dipartimento (art. 6).[^68-1]
 
-[^68-1]: Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^68-1]: Nuovo testo giusta la cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### 3. In seguito a scadenza del termine, a decadenza o a rinuncia
 
@@ -1143,7 +1153,7 @@ In caso di riversione degli impianti, e sempreché l’atto di concessione non d
 
 Negli ultimi dieci anni prima della scadenza della concessione, il concessionario deve intraprendere, contro piena indennità, tutti i lavori di trasformazione, in particolare di modernizzazione e ampliamento dell’impianto, prescritti dall’autorità concedente, o che ha accordato l’approvazione, in vista del trasferimento dell’impianto a un altro gestore.
 
-[^69a-1]: Introdotto dal n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^69a-1]: Introdotto dalla cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### L. Contestazioni
 
@@ -1187,7 +1197,7 @@ Le contestazioni che sorgessero fra il concessionario e altri utenti circa la po
 
 Il Dipartimento nomina una commissione incaricata di studiare le questioni d’ordine generale o particolari attinenti all’economia idrica e di fornirgli il suo parere in proposito; le competenze e l’organizzazione di questa commissione sono determinate con regolamento.
 
-[^73-1]: Nuovo testo giusta l’all. n. II 4 della LF del 22 mar. 2002 concernente l’adeguamento di disposizioni organizzative del diritto federale, in vigore dal 1° feb. 2003 ([RU 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [FF 2001 3431](https://fedlex.data.admin.ch/eli/fga/2001/686)).
+[^73-1]: Nuovo testo giusta l’all. cifra II n. 4 della LF del 22 mar. 2002 concernente l’adeguamento di disposizioni organizzative del diritto federale, in vigore dal 1° feb. 2003 ([RU 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [FF 2001 3431](https://fedlex.data.admin.ch/eli/fga/2001/686)).
 
 ### B. Disposizioni transitorie
 
@@ -1207,9 +1217,9 @@ Il Dipartimento nomina una commissione incaricata di studiare le questioni d’o
 
 <sup>5</sup> ...[^74-4]
 
-[^74-1]: Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
-[^74-2]: Abrogato dal n. I della LF del 13 dic. 1996, con effetto dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
-[^74-3]: Introdotto dal n. I della LF dell’8 ott. 1976 ([RU 1977 171](https://fedlex.data.admin.ch/eli/oc/1977/171_171_171); [FF 1975 II 2083](https://fedlex.data.admin.ch/eli/fga/1975/2_2138_2140_2083)). Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^74-1]: Nuovo testo giusta la cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^74-2]: Abrogato dalla cifra I della LF del 13 dic. 1996, con effetto dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^74-3]: Introdotto dalla cifra I della LF dell’8 ott. 1976 ([RU 1977 171](https://fedlex.data.admin.ch/eli/oc/1977/171_171_171); [FF 1975 II 2083](https://fedlex.data.admin.ch/eli/fga/1975/2_2138_2140_2083)). Nuovo testo giusta la cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 [^74-4]: Disp. trans. priva d’oggetto.
 
 ### II. Misure esecutive dei Cantoni
@@ -1235,7 +1245,7 @@ Le norme procedurali previgenti si applicano:
 - c. alle domande di costruzione per impianti necessari all’esercizio di una concessione rilasciata secondo il diritto previgente, qualora siano inoltrate entro dieci anni dall’entrata in vigore della presente legge;
 - d. ai ricorsi pendenti.
 
-[^75a-1]: Introdotto dal n. I 6 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^75a-1]: Introdotto dalla cifra I 6 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 #### Art. 76
 

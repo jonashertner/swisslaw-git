@@ -4,11 +4,11 @@ title: "Lescha federala dals 22 da december 1916 davart l'utilisaziun da las for
 short: LDA
 eli: "https://fedlex.data.admin.ch/eli/cc/33/189_191_191"
 language: rm
-version: 2023-01-01
+version: 2025-08-01
 adopted: 1916-12-22
 in_force: 1918-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/33/189_191_191/20230101/rm/xml/fedlex-data-admin-ch-eli-cc-33-189_191_191-20230101-rm-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/33/189_191_191/20230101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/33/189_191_191/20250801/rm/xml/fedlex-data-admin-ch-eli-cc-33-189_191_191-20250801-rm-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/33/189_191_191/20250801/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha davart il dretg da las auas, LDA)[^t-1]
 
-dals 22 da december 1916 (versiun dal 1. da schaner 2023)
+dals 22 da december 1916 (versiun dal 1. d’avust 2025)
 
 [^t-1]: Integrà tras la cifra I da la LF dals 13 da dec. 1996, en vigur dapi il 1. da matg 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
@@ -29,7 +29,7 @@ sa basond sin ils artitgels 76 ed 81 da la Constituziun federala[^ingress-1],[^i
 
 concluda:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Versiun tenor la cifra I da la LF dals 22 da mars 2019, en vigur dapi il 1. da schan. 2020 ([AS 2019 3099](https://fedlex.data.admin.ch/eli/oc/2019/569); [BBl 2018 3419](https://fedlex.data.admin.ch/eli/fga/2018/1340)).
 [^ingress-3]: [BBl 1912 II 669](https://fedlex.data.admin.ch/eli/fga/1912/2_669_815_), [1916 III 411](https://fedlex.data.admin.ch/eli/fga/1916/3_411__)
 
@@ -267,11 +267,12 @@ La Confederaziun è autorisada da regular la deflussiun dals lais e dals batschi
 
 <sup>1</sup> Per utilisar las auas privatas u las auas publicas en virtid dal dretg privat dals cunfinants da las rivas (art. 2 al. 2) dovri la permissiun da l’autoritad chantunala cumpetenta.
 
-<sup>2</sup> L’autoritad controllescha che las prescripziuns federalas e chantunalas davart la polizia da construcziuns idraulicas vegnian observadas e ch’ils dretgs d’utilisaziun existents na vegnian betg violads.
+<sup>2</sup> L’autoritad chantunala controllescha, che las prescripziuns federalas e chantunalas en il secturs da la protecziun cunter aua gronda e da la polizia da las auas vegnian observadas e ch’ils dretgs d’utilisaziun existents na vegnian betg violads.[^17-1]
 
-<sup>3</sup> Ils artitgels 5, 7*a*, 8 ed 11 sco er il segund chapitel valan tenor il senn.[^17-1]
+<sup>3</sup> Ils artitgels 5, 7*a*, 8 ed 11 sco er il segund chapitel valan tenor il senn.[^17-2]
 
-[^17-1]: Versiun tenor la cifra I da la LF dals 13 da dec. 1996, en vigur dapi il 1. da matg 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^17-1]: Versiun tenor la cifra 2 da l’agiunta da la LF dals 15 da mars 2024, en vigur dapi il 1. d’avust 2025 ([AS 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [BBl 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
+[^17-2]: Versiun tenor la cifra I da la LF dals 13 da dec. 1996, en vigur dapi il 1. da matg 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### II. Taxaziun da las ovras idraulicas
 
@@ -311,19 +312,24 @@ Sch’il chantun incassescha ina taxa statala speziala sin l’energia electrica
 
 ### A. Surveglianza da las autoritads
 
-### I. Protecziun da la polizia da construcziuns idraulicas
+### I. Observanza da la protecziun cunter aua gronda e da la polizia da las auas
+
+[^chap2-lvlA-lvlI-1]
+
+[^chap2-lvlA-lvlI-1]: Versiun tenor la cifra 2 da l’agiunta da la LF dals 15 da mars 2024, en vigur dapi il 1. d’avust 2025 ([AS 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [BBl 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 #### Art. 21
 
 [^21-1]
 
-<sup>1</sup> Las ovras idraulicas duain correspunder a las prescripziuns federalas e chantunalas davart la polizia da construcziuns idraulicas.
+<sup>1</sup> Las ovras idraulicas ston correspunder a las prescripziuns federalas e chantunalas en il secturs da la protecziun cunter aua gronda e da la polizia da las auas.[^21-2]
 
 <sup>2</sup> Avant il cumenzament da las lavurs ston ils plans da las ovras idraulicas vegnir publitgads uffizialmain, fixond in termin da protesta adequat.
 
 <sup>3</sup> Avant che pudair construir ovras idraulicas en auas ch’eran vegnidas curregidas cun agid da subvenziuns federalas, ston quellas vegnir approvadas dal departament.
 
 [^21-1]: Versiun tenor la cifra I da la LF dals 13 da dec. 1996, en vigur dapi il 1. da matg 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^21-2]: Versiun tenor la cifra 2 da l’agiunta da la LF dals 15 da mars 2024, en vigur dapi il 1. d’avust 2025 ([AS 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [BBl 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 ### II. Protecziun da la bellezza da la cuntrada
 
@@ -379,7 +385,7 @@ Resalvada è la pussaivladad da render navigabels ils suandants trajects d’aua
 Per render navigabels ils trajects tenor l’artitgel 24 alinea 2 elavura la Confederaziun in plan secturial tenor la Lescha federala dals 22 da zercladur 1979[^25-2] davart la planisaziun dal territori. Ils plans directivs chantunals tegnan quint da quest plan tenor la lescha menziunada.
 
 [^25-1]: Versiun tenor la cifra I da la LF dals 13 da dec. 1996, en vigur dapi il 1. da matg 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
-[^25-2]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^25-2]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 ### 3. Mesiras en cas d’ovras idraulicas
 
@@ -432,7 +438,7 @@ Per render navigabels ils trajects tenor l’artitgel 24 alinea 2 elavura la Con
 <sup>4</sup> Las retschertgas previsas en la Lescha federala dals 24 schaner 1991[^29-2] davart la protecziun da las auas restan resalvadas.
 
 [^29-1]: Versiun tenor la cifra I da la LF dals 13 da dec. 1996, en vigur dapi il 1. da matg 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
-[^29-2]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^29-2]: [SR 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
 
 ### 2. Statisticas e retschertgas
 
@@ -458,7 +464,11 @@ Ella fa retschertgas per:
 
 #### Art. 30
 
-Ils possessurs d’ovras idraulicas ed ils cunfinants da las rivas èn obligads da dar liber access als funcziunaris chantunals e federals che adempleschan incumbensas da la polizia da construcziuns idraulicas, da pestga e da navigaziun sco er lavurs idrometricas.
+[^30-1]
+
+Ils possessurs d’ovras idraulicas ed ils cunfinants da las rivas èn obligads da dar liber access a las autoritads cumpetentas ch’èn incumbensadas cun la polizia da las auas, cun la polizia da la navigaziun, cun la surveglianza da pestga, cun la protecziun cunter aua gronda sco er cun lavurs idrometricas.
+
+[^30-1]: Versiun tenor la cifra 2 da l’agiunta da la LF dals 15 da mars 2024, en vigur dapi il 1. d’avust 2025 ([AS 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [BBl 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 ### VIII. Register dals dretgs da las auas
 
@@ -580,7 +590,7 @@ L’autoritad resguarda en sia decisiun il bainstar public, l’utilisaziun econ
 
 <sup>1</sup> La concessiun vegn surdada per ina tscherta persuna natirala u giuridica u per ina societad da persunas.
 
-<sup>2</sup> a <sup>4</sup> ...[^40-2]
+<sup>2 a <sup>4</sup></sup> ...[^40-2]
 
 [^40-1]: Versiun tenor la cifra I da la LF dals 13 da dec. 1996, en vigur dapi il 1. da matg 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 [^40-2]: Abolì tras la cifra I da la LF dals 13 da dec. 1996, cun effect dapi il 1. da matg 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
@@ -626,7 +636,7 @@ En cas da plirs concurrents vegn preferì quel, dal qual l’interpresa serva pl
 
 <sup>1</sup> Sch’il concessiunari vegn restrenschì duraivlamain en l’utilisaziun da sia forza idraulica tras lavurs publicas che midan il curs d’aua e sch’el na po betg – u mo cun custs sproporziunadamain gronds – evitar la perdita cun adattar sia ovra al curs d’aua midà, ha el il dretg d’ina indemnisaziun.[^44-1] Sin sia dumonda fixescha l’autoritad, che lascha far las lavurs, l’indemnisaziun.[^44-2]
 
-<sup>2</sup> Sche la construcziun u la gestiun d’ina ovra idraulica vegn engrevgiada u interrutta temporarmain tras construcziuns da correcziun u tras autras lavurs da la polizia da construcziuns idraulicas, n’ha il concessiunari nagin dretg d’ina indemnisaziun, nun che las lavurs vegnian retardadas nunnecessariamain.[^44-3]
+<sup>2</sup> Sche la construcziun u la gestiun d’ina ovra idraulica vegn engrevgiada u interrutta temporarmain tras construcziuns da correcziun u tras autras lavurs da la polizia da las auas, n’ha il concessiunari nagin dretg d’ina indemnisaziun, nun che las lavurs vegnian retardadas nunnecessariamain.[^44-3]
 
 <sup>3</sup> ...[^44-4]
 
@@ -665,7 +675,7 @@ Tras la concessiun na vegnan betg pertutgads ils dretgs privats da terzas persun
 
 [^46-1]: Versiun tenor la cifra I da la LF dals 13 da dec. 1996, en vigur dapi il 1. da matg 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 [^46-2]: Versiun tenor la cifra I 6 da la LF dals 18 da zer. 1999 davart la coordinaziun e la simplificaziun da las proceduras da decisiun, en vigur dapi il 1. da mars 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
-[^46-3]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^46-3]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^46-4]: Integrà tras la cifra I 6 da la LF dals 18 da zer. 1999 davart la coordinaziun e la simplificaziun da las proceduras da decisiun, en vigur dapi il 1. da mars 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 
 ### b. Dretg applitgabel
@@ -677,7 +687,7 @@ Tras la concessiun na vegnan betg pertutgads ils dretgs privats da terzas persun
 La procedura d’expropriaziun e l’obligaziun d’indemnisaziun sa drizzan tenor la LExpr[^47-2]; disposiziuns divergentas da la lescha qua avant maun restan resalvadas.
 
 [^47-1]: Versiun tenor la cifra I 6 da la LF dals 18 da zer. 1999 davart la coordinaziun e la simplificaziun da las proceduras da decisiun, en vigur dapi il 1. da mars 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
-[^47-2]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^47-2]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### E. Obligaziuns dal concessiunari
 
@@ -748,7 +758,7 @@ En cas d’ovras idraulicas, per las qualas vegn pajada ina contribuziun d’inv
 <sup>2</sup> Las reducziuns valan er per las taglias spezialas tenor l’artitgel 49 alinea 2.
 
 [^50a-1]: Integrà tras la cifra I da la LF dals 22 da mars 2019, en vigur dapi il 1. da schan. 2020 ([AS 2019 3099](https://fedlex.data.admin.ch/eli/oc/2019/569); [BBl 2018 3419](https://fedlex.data.admin.ch/eli/fga/2018/1340)).
-[^50a-2]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^50a-2]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 
 ### c. Calculaziun dal tschains d’aua maximal
 
@@ -890,8 +900,8 @@ La concessiun vegn surdada per maximalmain 80 onns a partir da l’avertura da l
 <sup>5</sup> Sco stadi da partenza en il senn da l’artitgel 10*b* alinea 2 litera a da la Lescha dals 7 d’october 1983[^58a-2] davart la protecziun da l’ambient per determinar mesiras da protecziun, da restabiliment e da cumpensaziun tenor la Lescha federala dal 1. da fanadur 1966[^58a-3] davart la protecziun da la natira e da la patria vala il stadi il mument da l’inoltraziun da la dumonda.[^58a-4]
 
 [^58a-1]: Integrà tras la cifra I da la LF dals 13 da dec. 1996, en vigur dapi il 1. da matg 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
-[^58a-2]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^58a-3]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^58a-2]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^58a-3]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 [^58a-4]: Integrà tras la cifra I da la LF dals 20 da dec. 2019, en vigur dapi il 1. da fan. 2020 ([AS 2020 2049](https://fedlex.data.admin.ch/eli/oc/2020/400); [BBl 2019 5575](https://fedlex.data.admin.ch/eli/fga/2019/1934)[5809](https://fedlex.data.admin.ch/eli/fga/2019/2068)).
 
 ### H. Inscripziun en il register funsil
@@ -950,8 +960,8 @@ Ils dretgs da las auas concedids per almain 30 onns pon vegnir inscrits en il re
 <sup>4</sup> Permissiuns chantunalas e plans chantunals n’èn betg necessaris. Il dretg chantunal sto vegnir resguardà, uschenavant ch’el na restrenscha betg sproporziunadamain il concessiunari en l’adempliment da sias incumbensas.
 
 [^62-1]: Versiun tenor la cifra I 6 da la LF dals 18 da zer. 1999 davart la coordinaziun e la simplificaziun da las proceduras da decisiun, en vigur dapi il 1. da mars 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
-[^62-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^62-3]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^62-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^62-3]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^62-4]: Versiun tenor la cifra 8 da l’agiunta da la LF dals 19 da zer. 2020, en vigur dapi il 1. da schan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 [^62-5]: Integrà tras cifra I 1 da la LF dals 23 da dec. 2011, en vigur dapi il 1. da fan. 2012 ([AS 2012 3229](https://fedlex.data.admin.ch/eli/oc/2012/369); [BBl 2011 2901](https://fedlex.data.admin.ch/eli/fga/2011/426)[3907](https://fedlex.data.admin.ch/eli/fga/2011/598)).
 
@@ -1015,9 +1025,9 @@ La dumonda da concessiun sto vegnir inoltrada cun ils documents necessaris a l�
 <sup>3</sup> Las vischnancas pertutgadas mantegnan lur interess cun far protesta.
 
 [^62e-1]: Integrà tras la cifra I 6 da la LF dals 18 da zer. 1999 davart la coordinaziun e la simplificaziun da las proceduras da decisiun, en vigur dapi il 1. da mars 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
-[^62e-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^62e-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^62e-3]: Versiun tenor la cifra 8 da l’agiunta da la LF dals 19 da zer. 2020, en vigur dapi il 1. da schan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
-[^62e-4]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^62e-4]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^62e-5]: Versiun tenor la cifra 8 da l’agiunta da la LF dals 19 da zer. 2020, en vigur dapi il 1. da schan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
 ### f. Rectificaziun tar l’administraziun federala
@@ -1029,7 +1039,7 @@ La dumonda da concessiun sto vegnir inoltrada cun ils documents necessaris a l�
 La procedura da rectificaziun tar l’administraziun federala sa drizza tenor l’artitgel 62*b* da la Lescha dals 21 da mars 1997[^62f-2] davart l’organisaziun da la regenza e da l’administraziun.
 
 [^62f-1]: Integrà tras la cifra I 6 da la LF dals 18 da zer. 1999 davart la coordinaziun e la simplificaziun da las proceduras da decisiun, en vigur dapi il 1. da mars 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
-[^62f-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^62f-2]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ### 3. Decisiun
 
@@ -1080,7 +1090,7 @@ La procedura simplifitgada vegn applitgada tar:
 <sup>3</sup> Sa basond sin ina decisiun da concessiun executabla po il president da la cumissiun da stimaziun permetter l’enviament anticipà en il possess. En quest connex vegni presumà ch’i resultian dischavantatgs essenzials a l’expropriant, sche l’enviament anticipà en il possess n’ha betg lieu. Dal rest vala l’artitgel 76 LExpr.
 
 [^62i-1]: Integrà tras la cifra I 6 da la LF dals 18 da zer. 1999 davart la coordinaziun e la simplificaziun da las proceduras da decisiun, en vigur dapi il 1. da mars 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
-[^62i-2]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^62i-2]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^62i-3]: Versiun tenor la cifra 8 da l’agiunta da la LF dals 19 da zer. 2020, en vigur dapi il 1. da schan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 [^62i-4]: Abolì tras la cifra 8 da l’agiunta da la LF dals 19 da zer. 2020, cun effect dapi il 1. da schan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
@@ -1157,6 +1167,8 @@ Sche la concessiun na dispona betg insatge auter, è il concessiunari, dal qual 
 
 #### Art. 67
 
+[^67-1]
+
 <sup>1</sup>
 
 En cas dal return da las ovras idraulicas ha la communitad concedenta – nun che la concessiun fixeschia insatge auter – il dretg:
@@ -1168,12 +1180,13 @@ En cas dal return da las ovras idraulicas ha la communitad concedenta – nun ch
 
 <sup>3</sup> Il concessiunari è obligà da mantegnair en funcziun ils stabiliments ed ils indrizs ch’èn suttamess al dretg da return.
 
-<sup>4</sup> Investiziuns da modernisaziun e d’engrondiment vegnan indemnisadas al concessiunari il mument dal return, sch’el ha fatg la modernisaziun u l’engrondiment en enclegientscha cun la communitad che ha dà la concessiun. L’indemnisaziun correspunda maximalmain a la valur restanta da l’investiziun, resguardond l’amortisaziun usitada en la branscha e la midada da la valur monetara.[^67-1]
+<sup>4</sup> Investiziuns da modernisaziun e d’engrondiment vegnan indemnisadas al concessiunari il mument dal return, sch’el ha fatg la modernisaziun u l’engrondiment en enclegientscha cun la communitad che ha dà la concessiun. L’indemnisaziun correspunda maximalmain a la valur restanta da l’investiziun, resguardond l’amortisaziun usitada en la branscha e la midada da la valur monetara.[^67-2]
 
-<sup>5</sup> La communitad che ha surdà la concessiun po apportar la valur dal dretg da return en l’interpresa existenta sco quota da participaziun, sch’il concessiunari è perencletg cun quai. Ella po duvrar il dretg da return er en in’autra moda che stat en l’interess public.[^67-2]
+<sup>5</sup> La communitad che ha surdà la concessiun po apportar la valur dal dretg da return en l’interpresa existenta sco quota da participaziun, sch’il concessiunari è perencletg cun quai. Ella po duvrar il dretg da return er en in’autra moda che stat en l’interess public.[^67-3]
 
-[^67-1]: Integrà tras la cifra I da la LF dals 13 da dec. 1996, en vigur dapi il 1. da matg 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^67-1]: Versiun tenor la cifra I da la LF dals 13 da dec. 1996, en vigur dapi il 1. da matg 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 [^67-2]: Integrà tras la cifra I da la LF dals 13 da dec. 1996, en vigur dapi il 1. da matg 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^67-3]: Integrà tras la cifra I da la LF dals 13 da dec. 1996, en vigur dapi il 1. da matg 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### b. En cas d’auas situadas sin il territori da plirs chantuns
 

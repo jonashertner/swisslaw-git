@@ -4,11 +4,11 @@ title: "Loi fédérale du 22 décembre 1916 sur l'utilisation des forces hydraul
 short: LFH
 eli: "https://fedlex.data.admin.ch/eli/cc/33/189_191_191"
 language: fr
-version: 2023-01-01
+version: 2025-08-01
 adopted: 1916-12-22
 in_force: 1918-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/33/189_191_191/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-33-189_191_191-20230101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/33/189_191_191/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/33/189_191_191/20250801/fr/xml/fedlex-data-admin-ch-eli-cc-33-189_191_191-20250801-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/33/189_191_191/20250801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/33/189_191_191/20230101/fr"
 
 (Loi sur les forces hydrauliques[^t-1], LFH[^t-2])
 
-du 22 décembre 1916 (État le 1<sup>er</sup> janvier 2023)
+du 22 décembre 1916 (État le 1<sup>er</sup> août 2025)
 
 [^t-1]: Introduit par le ch. I 1 de la LF du 18 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5061](https://fedlex.data.admin.ch/eli/oc/2010/727); [FF 2009 1019](https://fedlex.data.admin.ch/eli/fga/2009/267), [1045](https://fedlex.data.admin.ch/eli/fga/2009/269); [2010 321](https://fedlex.data.admin.ch/eli/fga/2010/91)).
 [^t-2]: Introduite par le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
@@ -28,7 +28,7 @@ vu les art. 76 et 81 de la Constitution[^ingress-1],[^ingress-2] vu le message d
 
 décrète:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3099](https://fedlex.data.admin.ch/eli/oc/2019/569); [FF 2018 3539](https://fedlex.data.admin.ch/eli/fga/2018/1340)).
 [^ingress-3]: [FF 1912 II 815](https://fedlex.data.admin.ch/eli/fga/1912/2_669_815_), [1916 III 459](https://fedlex.data.admin.ch/eli/fga/1916/3__459_)
 
@@ -260,11 +260,12 @@ La Confédération a le droit de régler le débit des lacs et des bassins d’a
 
 <sup>1</sup> L’utilisation des cours d’eau privés, ou l’utilisation des cours d’eau publics en vertu d’un droit privé des riverains (art. 2, al. 2) est subordonnée à l’autorisation du canton.
 
-<sup>2</sup> L’autorité cantonale veille à ce que les prescriptions fédérales et cantonales sur la police des eaux soient observées et à ce que les droits d’utilisation existants ne soient pas lésés.
+<sup>2</sup> L’autorité cantonale veille à ce que les dispositions fédérales et cantonales sur la protection contre les crues et la police des eaux soient observées et à ce que les droits d’utilisation existants ne soient pas lésés.[^17-1]
 
-<sup>3</sup> Les art. 5, 7*a*, 8 et 11 et le chap. II sont applicables par analogie.[^17-1]
+<sup>3</sup> Les art. 5, 7*a*, 8 et 11 et le chap. II sont applicables par analogie.[^17-2]
 
-[^17-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^17-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
+[^17-2]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### II. Imposition des usines
 
@@ -296,19 +297,24 @@ Si le canton perçoit un impôt spécial sur l’énergie produite par des usine
 
 ## Chapitre II De l’utilisation des cours d’eau
 
-### A. Droit de surveillance des autorités
+### I. Protection contre les crues et police des eaux
 
-### I. Police des eaux
+[^chap2-lvlI-1]
+
+[^chap2-lvlI-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 #### Art. 21
 
-<sup>1</sup> Les usines hydrauliques doivent être établies conformément aux prescriptions fédérales et cantonales sur la police des eaux.
+A. Droit de surveillance des autorités
+
+<sup>1</sup> Les usines hydrauliques doivent être établies conformément aux dispositions fédérales et cantonales sur la protection contre les crues et la police des eaux.[^21-1]
 
 <sup>2</sup> Avant le commencement des travaux, les plans des usines sont soumis à une enquête publique avec délai d’opposition convenable.
 
-<sup>3</sup> Sur les cours d’eau corrigés à l’aide de subventions fédérales, l’établissement des usines est subordonné à l’autorisation du département.[^21-1]
+<sup>3</sup> Sur les cours d’eau corrigés à l’aide de subventions fédérales, l’établissement des usines est subordonné à l’autorisation du département.[^21-2]
 
-[^21-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^21-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
+[^21-2]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### II. Protection des sites
 
@@ -364,7 +370,7 @@ La possibilité d’aménager les sections de cours d’eau suivantes pour la na
 Dans la perspective d’aménager, pour la navigation, les cours d’eau cités à l’art. 24, al. 2, la Confédération établit un plan sectoriel selon la loi fédérale du 22 juin 1979 sur l’aménagement du territoire[^25-2]. Les plans directeurs cantonaux en tiennent compte conformément à la loi susmentionnée.
 
 [^25-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
-[^25-2]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^25-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 ### 3. Aménagements pour la navigation aux abords des usines hydrauliques
 
@@ -417,7 +423,7 @@ Dans la perspective d’aménager, pour la navigation, les cours d’eau cités 
 <sup>4</sup> Les relevés prévus par la loi fédérale du 24 janvier 1991[^29-2] sur la protection des eaux demeurent réservés.
 
 [^29-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
-[^29-2]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^29-2]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
 
 ### 2. Statistiques et recherches
 
@@ -443,7 +449,11 @@ Elle effectue des recherches:
 
 #### Art. 30
 
-Les usiniers et les riverains sont tenus d’accorder le libre accès de leurs installations aux fonctionnaires cantonaux et fédéraux qui assurent la police des eaux, de la pêche et de la navigation, ainsi que le service hydrométrique.
+[^30-1]
+
+Les usiniers et les riverains sont tenus d’accorder le libre accès de leurs installations aux autorités qui assurent la police des eaux et de la navigation, la surveillance de la pêche ainsi que la protection contre les crues et le service hydrométrique.
+
+[^30-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 ### VIII. Registre des droits d’eau
 
@@ -563,7 +573,7 @@ En statuant sur les demandes de concession, l’autorité tient compte de l’in
 
 <sup>1</sup> La concession est accordée à une personne physique ou morale nominalement désignée ou à une communauté de personnes.
 
-<sup>2</sup> à <sup>4</sup> …[^40-1]
+<sup>2 à <sup>4</sup></sup> …[^40-1]
 
 [^40-1]: Abrogés par le ch. I de la LF du 13 déc. 1996, avec effet au 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
@@ -636,7 +646,7 @@ La concession ne porte pas atteinte aux droits privés des tiers ou aux concessi
 
 [^46-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 [^46-2]: Nouvelle teneur selon le ch. I 6 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
-[^46-3]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^46-3]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^46-4]: Introduit par le le ch. I 6 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
 
 ### b. Droit applicable
@@ -648,7 +658,7 @@ La concession ne porte pas atteinte aux droits privés des tiers ou aux concessi
 La procédure d’expropriation et l’indemnisation sont régies par la LEx[^47-2]; les dispositions contraires fixées dans la présente loi sont réservées.
 
 [^47-1]: Nouvelle teneur selon le ch. I 6 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
-[^47-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^47-2]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### E. Obligations du concessionnaire
 
@@ -713,7 +723,7 @@ Les réductions suivantes s’appliquent aux aménagements hydro-électriques po
 <sup>2</sup> Les réductions s’appliquent aussi aux impôts spéciaux mentionnés à l’art. 49, al. 2.
 
 [^50a-1]: Introduit par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3099](https://fedlex.data.admin.ch/eli/oc/2019/569); [FF 2018 3539](https://fedlex.data.admin.ch/eli/fga/2018/1340)).
-[^50a-2]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^50a-2]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 
 ### c. Calcul de la redevance maximum exigible
 
@@ -842,8 +852,8 @@ La durée de la concession est de quatre-vingts ans au plus, à compter de la mi
 <sup>5</sup> L’état initial au sens de l’art. 10*b*, al. 2, let. a, de la loi du 7 octobre 1983 sur la protection de l’environnement[^58a-2] à prendre en considération pour définir des mesures de protection, de reconstitution et de remplacement selon la loi fédérale du 1<sup>er</sup> juillet 1966 sur la protection de la nature et du paysage[^58a-3] est l’état existant au moment du dépôt de la demande.[^58a-4]
 
 [^58a-1]: Introduit par le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
-[^58a-2]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^58a-3]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^58a-2]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^58a-3]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 [^58a-4]: Introduit par le ch. I de la LF du 20 déc. 2019, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2049](https://fedlex.data.admin.ch/eli/oc/2020/400); [FF 2019 5361](https://fedlex.data.admin.ch/eli/fga/2019/1934)[5571](https://fedlex.data.admin.ch/eli/fga/2019/2068)).
 
 ### H. Immatriculation au registre foncier
@@ -902,8 +912,8 @@ Les concessions octroyées pour trente ans au moins peuvent être immatriculées
 <sup>4</sup> Aucune autorisation ni aucun plan relevant du droit cantonal ne sont requis. Le droit cantonal est pris en compte dans la mesure où il n’entrave pas de manière disproportionnée l’accomplissement des tâches du concessionnaire.
 
 [^62-1]: Nouvelle teneur selon le ch. I 6 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
-[^62-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^62-3]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^62-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^62-3]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^62-4]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 [^62-5]: Introduit par le ch. I 1 de la LF du 23 déc. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 3229](https://fedlex.data.admin.ch/eli/oc/2012/369); [FF 2011 2711](https://fedlex.data.admin.ch/eli/fga/2011/426)[3659](https://fedlex.data.admin.ch/eli/fga/2011/598)).
 
@@ -967,9 +977,9 @@ La demande de concession doit être adressée avec les documents requis à l’o
 <sup>3</sup> Les communes font valoir leurs droits par voie d’opposition.
 
 [^62e-1]: Introduit par le le ch. I 6 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
-[^62e-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^62e-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^62e-3]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
-[^62e-4]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^62e-4]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^62e-5]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
 ### f. élimination des divergences au sein de l’administration fédérale
@@ -981,7 +991,7 @@ La demande de concession doit être adressée avec les documents requis à l’o
 La procédure d’élimination des divergences au sein de l’administration fédérale est régie par l’art. 62*b* de la loi fédérale du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^62f-2].
 
 [^62f-1]: Introduit par le le ch. I 6 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
-[^62f-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^62f-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ### 3. Décision
 
@@ -1032,7 +1042,7 @@ La procédure simplifiée s’applique:
 <sup>3</sup> Le président de la commission d’estimation peut autoriser l’envoi en possession anticipé lorsque la décision d’octroi de la concession est exécutoire. L’expropriant est présumé subir un préjudice sérieux s’il ne bénéficie pas de l’entrée en possession anticipée. Au surplus, l’art. 76 LEx est applicable.
 
 [^62i-1]: Introduit par le le ch. I 6 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
-[^62i-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^62i-2]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^62i-3]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 [^62i-4]: Abrogé par l’annexe ch. 8 de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
