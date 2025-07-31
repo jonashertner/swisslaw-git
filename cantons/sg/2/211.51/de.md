@@ -4,13 +4,12 @@ number: "211.51"
 title: Stipendienverordnung
 short: StipV
 language: de
-version: 2023-08-01
-valid_until: 2025-07-31
-version_adopted: 2023-05-09
+version: 2025-08-01
+version_adopted: 2020-06-30
 adopted: 2003-05-13
 in_force: 2003-08-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/211.51"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3518/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3804/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3518/pdf_file"
 
 (StipV)
 
-vom 13.05.2003 (Stand 01.08.2023)
+vom 13.05.2003 (Stand 01.08.2025)
 
 Die Regierung des Kantons St.Gallen
 
@@ -226,11 +225,7 @@ als Verordnung:[^ingress-2]
 
 #### Art. 20a
 
-**2. schulisch organisierte berufliche Grundbildung privater Anbieter[^20a-1]**
-
-<sup>1</sup> Der gesuchstellenden Person, die eine schulisch organisierte berufliche Grundbildung mit Beginn im Schuljahr 2020/2021 bei einem privaten Anbieter absolviert, wird je Ausbildungsjahr ein Zuschlag von Fr. 2'000.– angerechnet.
-
-[^20a-1]: In Vollzug ab 1. August 2020 bis 31. Juli 2025.
+**…**
 
 #### Art. 21
 
