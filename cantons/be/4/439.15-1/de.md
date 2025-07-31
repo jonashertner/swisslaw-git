@@ -4,13 +4,12 @@ number: 439.15-1
 title: "Vereinbarung zwischen den Kantonen Bern, Jura und Neuenburg über die Beiträge an die Unterrichtskosten"
 short: BEJUNE-Vereinbarung
 language: de
-version: 2024-08-01
-valid_until: 2025-07-31
-version_adopted: 2024-05-31
+version: 2025-08-01
+version_adopted: 2025-06-24
 adopted: 2015-07-01
 in_force: 2015-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/439.15-1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3181/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3204/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3181/pdf_file"
 
 (BEJUNE-Vereinbarung)
 
-vom 01.07.2015 (Stand 01.08.2024)
+vom 01.07.2015 (Stand 01.08.2025)
 
 Der Regierungsrat des Kantons Bern, der Staatsrat des Kantons Neuenburg, die Regierung des Kantons Jura,
 
@@ -317,6 +316,24 @@ Sie ist auch auf Internet verfügbar unter: [http://www.bkd.be.ch](http://www.bk
 #### Art. A1-9
 
 <sup>1</sup> Die Änderung vom 31. Mai 2024 des Anhangs zur BEJUNE-Vereinbarung wird nur in Form eines Verweises veröffentlicht.
+
+Sie kann bei folgender Stelle bezogen werden:
+
+Bildungs- und Kulturdirektion des Kantons Bern
+
+Mittelschul- und Berufsbildungsamt
+
+Kasernenstrasse 27
+
+Postfach
+
+3000 Bern 22
+
+Sie ist auch auf Internet verfügbar unter: [http://www.bkd.be.ch](http://www.bkd.be.ch) &gt; E-Services & Dienstleistungen &gt; Finanzierung ausserkantonaler Schulbesuch &gt; Ausserkantonaler Schulbesuch Gymnasium und Fachmittelschule &gt; BEJUNE-Vereinbarung
+
+#### Art. A1-10
+
+<sup>1</sup> Die Änderung vom 10./12./24. Juni 2025 des Anhangs zur BEJUNE-Vereinbarung wird nur in Form eines Verweises veröffentlicht.
 
 Sie kann bei folgender Stelle bezogen werden:
 
