@@ -3,20 +3,19 @@ canton: AR
 number: "861.4"
 title: Kaminfegertarif
 language: de
-version: 2023-07-01
-valid_until: 2025-07-31
-version_adopted: 2023-06-20
+version: 2025-08-01
+version_adopted: 2025-06-24
 adopted: 2007-01-23
 in_force: 2007-05-01
 url: "https://ar.clex.ch/app/de/texts_of_law/861.4"
-pdf: "https://ar.clex.ch/api/de/versions/1475/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1572/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kaminfegertarif
 
-vom 23.01.2007 (Stand 01.07.2023)
+vom 23.01.2007 (Stand 01.08.2025)
 
 Der Regierungsrat von Appenzell Ausserrhoden,
 
