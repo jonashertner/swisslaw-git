@@ -3,20 +3,19 @@ canton: LU
 number: 542a
 title: Studien- und Prüfungsordnung für die Bachelor- und Masterstufe der Kultur- und Sozialwissenschaftlichen Fakultät der Universität Luzern
 language: de
-version: 2024-08-01
-valid_until: 2025-07-31
-version_adopted: 2024-03-27
+version: 2025-08-01
+version_adopted: 2025-06-25
 adopted: 2016-06-29
 in_force: 2016-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/542a"
-pdf: "https://srl.lu.ch/api/de/versions/4222/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4509/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Studien- und Prüfungsordnung für die Bachelor- und Masterstufe der Kultur- und Sozialwissenschaftlichen Fakultät der Universität Luzern
 
-vom 29.06.2016 (Stand 01.08.2024)
+vom 29.06.2016 (Stand 01.08.2025)
 
 Der Universitätsrat der Universität Luzern,
 
@@ -164,7 +163,7 @@ beschliesst:
 
 **Umfang**
 
-<sup>1</sup> Die Bachelorstudiengänge gliedern sich in eine Assessmentstufe und ein Hauptstudium.
+<sup>1</sup> Die Bachelorstudiengänge gliedern sich in ein Grundstudium und ein Hauptstudium.
 
 <sup>2</sup> Während eines Bachelorstudiengangs mit der Regelstudienzeit von sechs Semestern (bei Vollzeitstudium) sind mindestens 180 Credits zu erwerben.
 
@@ -358,19 +357,21 @@ beschliesst:
 
 <sup>3</sup> Eine Wiederholung einer nicht bestandenen Seminarveranstaltung ist möglich, sofern diese zu einem späteren Zeitpunkt noch einmal angeboten wird. Falls sie nicht angeboten wird, kann sie durch eine äquivalente Seminarveranstaltung, d. h. im Sinne der jeweiligen Wegleitungen, ersetzt werden.
 
-<sup>4</sup> Bei interfakultären Studiengängen gelten in der Regel die Regelungen derjenigen Fakultät, welche die Lehrveranstaltung anbietet.
+<sup>4</sup> Für die Leistungserbringung von Studienleistungen anderer Fakultäten gelten die Regelungen derjenigen Fakultät, welche die Lehrveranstaltung anbietet.
 
 #### § 35
 
 **Studienausschluss**
 
-<sup>1</sup> Die Anzahl der Credits für Studienleistungen, die im Wiederholungsversuch nicht bestanden wurden oder aufgrund von Handlungen, die unter § 38 fallen, als nicht bestanden gewertet wurden, darf die Summe von 7 nicht übersteigen. Darin eingeschlossen sind auch die Credits, die als Auflagen und Bedingungen im Zusammenhang mit der Zulassung zum Masterstudium vergeben werden. Werden die 7 Credits überschritten, erfolgt der endgültige Ausschluss aus der betreffenden Studienrichtung, den betreffenden Studienrichtungen bzw. dem betreffenden Studiengang.
+<sup>1</sup> Die Anzahl der Credits für Studienleistungen in einem Fach, die im Wiederholungsversuch nicht bestanden wurden oder aufgrund von Handlungen, die unter § 38 fallen, als nicht bestanden gewertet wurden, darf die Summe von 7 nicht übersteigen. Darin eingeschlossen sind auch die Credits, die als Auflagen und Bedingungen im Zusammenhang mit der Zulassung zum Masterstudium vergeben werden. Werden die 7 Credits überschritten, erfolgt der endgültige Ausschluss aus dem betreffenden Fach.
 
 <sup>1<sup>bis</sup></sup> Bei einem Studienausschluss ist ein Weiterstudium an der Universität Luzern in der betroffenen Fachrichtung bzw. in den betroffenen Fachrichtungen weder im Major noch im Minor möglich.
 
+<sup>1<sup>ter</sup></sup> Studienleistungen anderer Fakultäten der Universität Luzern, die gemäss Wegleitung dem Bereich der freien Studienleistungen zugeordnet sind, sind von der Ausschlussregelung gemäss Absatz 1 ausgenommen.
+
 <sup>2</sup> Weitere Gründe für einen Studienausschluss sind in den §§ 38 und 42 geregelt.
 
-<sup>3</sup> Bei interfakultären Studiengängen können abweichende Ausschlussregelungen in den Wegleitungen festgelegt werden.
+<sup>3</sup> Bei integrierten und interfakultären Studiengängen können abweichende Ausschlussregelungen in den Wegleitungen festgelegt werden.
 
 #### § 36
 
@@ -401,7 +402,7 @@ beschliesst:
 
 <sup>1</sup> Wird eine Studienleistung nicht in allen Teilen selbständig erbracht oder werden verwendete kreative Leistungen Dritter oder die Verwendung anderer Werkzeuge nicht oder nicht ausreichend kenntlich gemacht, wird sie als endgültig nicht bestanden mit der Note «1» gewertet. Auch anderweitige Täuschungen im Rahmen des Studiums können vom Prüfungsausschuss geahndet werden.
 
-<sup>2</sup> Bei wiederholter Unkorrektheit oder schwerer Zuwiderhandlung wird die Kandidatin oder der Kandidat von der betreffenden Studienrichtung oder den betreffenden Studienrichtungen endgültig ausgeschlossen.
+<sup>2</sup> Bei wiederholter Unkorrektheit oder schwerer Zuwiderhandlung wird die Kandidatin oder der Kandidat vom betreffenden Fach endgültig ausgeschlossen.
 
 <sup>3</sup> Wird die Täuschung erst nach Beendigung des Studiums bekannt, kann der verliehene Grad entzogen werden.
 
@@ -413,7 +414,7 @@ beschliesst:
 
 **Orientierungsgespräch**
 
-<sup>1</sup> Funktion: Das Orientierungsgespräch bildet den Abschluss der Assessmentstufe im Bachelorstudium und soll die Studierenden hinsichtlich ihrer Eignung zum Studium orientieren.
+<sup>1</sup> Funktion: Das Orientierungsgespräch bildet den Abschluss des Grundstudiums auf Bachelorstufe und soll die Studierenden hinsichtlich ihrer Eignung zum Studium orientieren.
 
 <sup>2</sup> Modalitäten:
 
@@ -451,15 +452,15 @@ beschliesst:
 - b. die mündliche Prüfung nach dem zweiten Versuch erneut nicht bestanden ist, oder
 - c. die schriftliche Prüfung nach dem zweiten Versuch erneut nicht bestanden ist.
 
-<sup>3</sup> Das Nichtbestehen des Abschlussverfahrens hat zur Folge, dass die Kandidatin oder der Kandidat in der betreffenden Studienrichtung oder den betreffenden Studienrichtungen endgültig ausgeschlossen wird.
+<sup>3</sup> Das Nichtbestehen des Abschlussverfahrens hat zur Folge, dass die Kandidatin oder der Kandidat vom betreffenden Fach endgültig ausgeschlossen wird.
 
 #### § 43
 
 **Prüferinnen und Prüfer**
 
-<sup>1</sup> Bachelor- und Masterprüfungen werden durch Professorinnen und Professoren oder durch Dozentinnen und Dozenten der Fakultät mit Habilitation oder äquivalentem Abschluss sowie bei Bachelorprüfungen auch von Promovierten abgenommen.
+<sup>1</sup> Bachelor- und Masterprüfungen werden durch Professorinnen und Professoren oder durch Dozentinnen und Dozenten der Fakultät mit Promotion oder höherer Qualifikation abgenommen.
 
-<sup>2</sup> Andere Dozentinnen und Dozenten mit Promotion oder höherer Qualifikation können auf begründeten Antrag generell durch die Fakultätsversammlung oder im Einzelfall durch den Prüfungsausschuss zur Abnahme von Masterprüfungen ermächtigt werden.
+<sup>2</sup> Andere Dozentinnen und Dozenten können in begründeten Fällen von der Dekanin oder vom Dekan zur Abnahme und Bewertung von Bachelor- und Masterprüfungen ermächtigt werden.
 
 <sup>3</sup> Die Prüferinnen und Prüfer setzen die Prüfungsnoten fest. Bei mündlichen Prüfungen sprechen sie sich mit den Beisitzerinnen oder Beisitzern ab.
 
@@ -477,11 +478,11 @@ beschliesst:
 
 **Gutachterinnen und Gutachter**
 
-<sup>1</sup> Als Gutachterinnen bzw. Gutachter für Bachelorarbeiten kommen prüfungsberechtigte Professorinnen und Professoren sowie Dozentinnen und Dozenten der Fakultät mit Habilitation, bzw. äquivalentem Abschluss, oder Promotion in Frage.
+<sup>1</sup> Als Gutachterinnen oder Gutachter für Bachelorarbeiten kommen prüfungsberechtigte Professorinnen und Professoren sowie Dozentinnen und Dozenten der Fakultät mit Promotion oder höherer Qualifikation in Frage.
 
-<sup>2</sup> Als Gutachterinnen bzw. Gutachter für Masterarbeiten kommen prüfungsberechtigte Professorinnen und Professoren sowie Dozentinnen und Dozenten der Fakultät mit Habilitation oder äquivalentem Abschluss in Frage.
+<sup>2</sup> Als Gutachterinnen oder Gutachter für Masterarbeiten kommen prüfungsberechtigte Professorinnen und Professoren sowie Dozentinnen und Dozenten mit Habilitation oder höherer Qualifikation in Frage. Mindestens eine Gutachterin oder ein Gutachter muss der Fakultät angehören.
 
-<sup>3</sup> Andere Dozentinnen und Dozenten können auf begründeten Antrag generell durch die Fakultätsversammlung oder im Einzelfall durch den Prüfungsausschuss zur Übernahme von Gutachten zu Abschlussarbeiten ermächtigt werden.
+<sup>3</sup> Andere Dozentinnen und Dozenten können in begründeten Fällen von der Dekanin oder vom Dekan zur Übernahme von Gutachten zu Abschlussarbeiten ermächtigt werden.
 
 ## 8 Studienabschluss
 
@@ -491,7 +492,7 @@ beschliesst:
 
 <sup>1</sup> Bachelorabschluss:
 
-- a. Bei den Fächerstudiengängen sowie den integrierten Studiengängen Kulturwissenschaften und Gesellschafts- und Kommunikationswissenschaften errechnet sich die Gesamtnote wie folgt:
+- a. Bei den Fächerstudiengängen sowie dem integrierten Studiengang Kulturwissenschaften errechnet sich die Gesamtnote wie folgt:
   - 1\. sechs benotete Seminararbeiten, jeweils einfach gewichtet: 6/20
   - 2\. Bachelorarbeit, zehnfach gewichtet: 10/20
   - 3\. mündliche Bachelorprüfung, zweifach gewichtet: 2/20
@@ -501,6 +502,13 @@ beschliesst:
   - 2\. Bachelorarbeit, elffach gewichtet: 11/20
   - 3\. mündliche Bachelorprüfung, zweifach gewichtet: 2/20
   - 4\. schriftliche oder zweite mündliche Bachelorprüfung, zweifach gewichtet: 2/20
+- a<sup>ter</sup> Beim integrierten Studiengang Gesellschafts- und Kommunikationswissenschaften errechnet sich die Gesamtnote wie folgt:
+  - 1\. vier benotete Seminararbeiten, jeweils einfach gewichtet: 4/20
+  - 2\. eine benotete Seminararbeit zum Forschungsseminar, zweifach gewichtet: 2/20
+  - 3, der Durchschnitt aller benoteten Pflichtvorlesungen, zweifach gewichtet: 2/20
+  - 4\. Bachelorarbeit, achtfach gewichtet: 8/20
+  - 5\. mündliche Bachelorprüfung (Verteidigung), zweifach gewichtet: 2/20
+  - 6\. schriftliche Bachelorprüfung, zweifach gewichtet: 2/20
 - b. Sind extern erbrachte Studienleistungen anzurechnen, legt der Prüfungsausschuss die Zusammensetzung der Gesamtnote fest.
 - b<sup>bis</sup>. Wird bei einem Fächerstudiengang der Major mit einem externen Minor ergänzt, so errechnet sich die Gesamtnote wie folgt:
   - 1\. vier benotete Seminararbeiten, jeweils einfach gewichtet: 4/20
@@ -524,7 +532,7 @@ beschliesst:
   - 1\. zwei benotete Masterseminararbeiten, jeweils zweifach gewichtet: 4/20
   - 2\. eine benotete Forschungsarbeit, zweifach gewichtet: 2/20
   - 3\. Masterarbeit, zehnfach gewichtet: 10/20
-  - 4\. mündliche Masterprüfung, vierfach gewichtet: 4/20
+  - 4\. mündliche Masterprüfung (Verteidigung), vierfach gewichtet: 4/20
 - b<sup>bis</sup>. …
 - b<sup>ter</sup>. Beim integrierten Studiengang Global Studies errechnet sich die Gesamtnote wie folgt, je nach Schwerpunktfächern und den Angaben auf dem Anmeldeformular zum Masterabschlussverfahren:
   - 1\. Beide Schwerpunktfächer sind Fächer der KSF:
@@ -567,7 +575,7 @@ beschliesst:
   - 1\. zwei benotete Masterseminararbeiten, jeweils dreifach gewichtet: 6/20
   - 2\. Masterarbeit, zehnfach gewichtet: 10/20
   - 3\. mündliche Masterprüfung (Verteidigung), vierfach gewichtet: 4/20
-- d<sup>quater</sup>. Beim integrierten Studiengang Climate Politics, Economics, and Law errechnet sich die Gesamtnote nach dem Durchschnitt der nach Credits gewichteten erbrachten benoteten Studienleistungen der folgenden Teile, wobei die Berechnung des Notenschnitts exakt erfolgt. Das Ergebnis wird auf zwei Nachkommastellen gerundet:
+- d<sup>quater</sup>. Beim integrierten Studiengang Climate Politics, Economics and Law errechnet sich die Gesamtnote nach dem Durchschnitt der nach Credits gewichteten erbrachten benoteten Studienleistungen der folgenden Teile, wobei die Berechnung des Notenschnitts exakt erfolgt. Das Ergebnis wird auf zwei Nachkommastellen gerundet:
   - 1\. alle im Grundlagenteil erbrachten benoteten Studienleistungen
   - 2\. alle im Vertiefungsteil erbrachten benoteten Studienleistungen
   - 3\. Masterarbeit
@@ -578,7 +586,7 @@ beschliesst:
   - 2\. Masterarbeit, zehnfach gewichtet: 10/21
   - 3\. mündliche Masterprüfung, vierfach gewichtet: 4/21
   - 4\. Note externer Minor, dreifach gewichtet: 3/21
-- e<sup>ter</sup>. Wird der Minor im Umfang von 30 Credits an der Fakultät studiert, so errechnet sich die Note für das Abschlusszeugnis wie folgt:
+- e<sup>ter</sup>. Wird nur der Minor im Umfang von 30 Credits an der Fakultät studiert, so errechnet sich die Note für das Abschlusszeugnis wie folgt:
   - 1\. eine benotete Masterseminararbeit, einfach gewichtet: 1/3
   - 2\. schriftliche Masterprüfung, zweifach gewichtet: 2/3
 - f. Sind extern erbrachte Studienleistungen anzurechnen, legt der Prüfungsausschuss die Zusammensetzung der Gesamtnote fest.
@@ -642,25 +650,25 @@ beschliesst:
 
 <sup>1</sup> Die Studien- und Prüfungsordnung der Fakultät II für Kultur- und Sozialwissenschaften der Universität Luzern vom 26. Januar 2011[^52-1] wird aufgehoben.
 
-[^52-1]: G 2011 113 (SRL Nr. 542a)
+[^52-1]: G 2011 113 (SRL Nr. [542a](https://srl.lu.ch/data/542a/de))
 
 #### § 53
 
 **Übergangsbestimmungen**
 
-<sup>1</sup> Diese Studien- und Prüfungsordnung gilt für alle Studierenden, die ihr Studium bis und mit Frühjahrssemester 2012 begonnen haben.
+<sup>1</sup> Diese Studien- und Prüfungsordnung gilt unter Vorbehalt von Absatz 3 und 4 für alle Studiengänge.
 
 <sup>2</sup> …
 
 <sup>3</sup> Zwischen dem Herbstsemester 2012 und dem Frühjahrssemester 2016 begonnene Studien werden bis und mit Ende Frühjahrssemester 2026 unter den Bestimmungen der Studien- und Prüfungsordnung der Fakultät für Kultur- und Sozialwissenschaften vom 26. Januar 2011, inklusive Änderungen vom 25. April 2012, unter Vorbehalt von Absatz 4<sup>quater</sup>, weitergeführt und beendet. Ab Herbstsemester 2026 erfolgt ein automatischer Übertritt in die dannzumal aktuellste Studien- und Prüfungsordnung.
 
-<sup>4</sup> Zwischen dem Herbstsemester 2016 und dem Frühjahrssemester 2024 begonnene Studien werden unter den Bestimmungen der Studien- und Prüfungsordnung für die Bachelor- und Masterstufe der Kultur- und Sozialwissenschaftlichen Fakultät in der Fassung vom 29. Juni 2016, inklusive Änderungen vom 28. Juni 2017, 25. April 2018, 27. März 2019, 11. Mai 2020, 6. Juli 2020 und 30. Juni 2022, unter Vorbehalt von Absatz 4<sup>quater</sup>, weitergeführt und beendet.
+<sup>4</sup> Zwischen dem Herbstsemester 2016 und dem Frühjahrssemester 2025 begonnene Studien werden unter den Bestimmungen der Studien- und Prüfungsordnung für die Bachelor- und Masterstufe der Kultur- und Sozialwissenschaftlichen Fakultät in der Fassung vom 29. Juni 2016, inklusive Änderungen vom 28. Juni 2017, 25. April 2018, 27. März 2019, 11. Mai 2020, 6. Juli 2020, 30. Juni 2022 und 27. März 2024, unter Vorbehalt von Absatz 4<sup>quater</sup>, weitergeführt und beendet.
 
 <sup>4<sup>bis</sup></sup> …
 
 <sup>4<sup>ter</sup></sup> …
 
-<sup>4<sup>quater</sup></sup> § 2, § 4, § 7, § 8, § 11, § 18, § 19, § 23, § 27, § 30, § 34, § 36, § 38 und § 46 Absatz 1a<sup>bis</sup> dieser Studien- und Prüfungsordnung gelten für sämtliche Studierenden, unabhängig vom Beginn der Studien.
+<sup>4<sup>quater</sup></sup> § 2, § 4, § 7, § 8, § 11, § 18, § 19, § 23, § 27, § 30, § 34, § 35, § 36, § 38, § 43, § 45 und § 46 Absatz 1a<sup>bis</sup> dieser Studien- und Prüfungsordnung gelten für sämtliche Studierenden, unabhängig vom Beginn der Studien.
 
 <sup>5</sup> Teilzeitstudierenden können Ausnahmen erlaubt werden.
 
