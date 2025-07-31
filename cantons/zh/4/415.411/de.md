@@ -4,10 +4,10 @@ number: "415.411"
 title: Organisationsreglement der Rechtswissenschaftlichen Fakultät der Universität Zürich (OrgR RWF)
 short: OrgR RWF
 language: de
-nachtrag: "121"
-valid_until: 2025-08-01
+version: "2025-08-01"
+nachtrag: "130"
 adopted: 2022-10-26
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_411-2022_10_26-2023_02_01-121.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_411-2022_10_26-2023_02_01-130.html"
 text: pdf
 ---
 
@@ -45,13 +45,13 @@ Dieses Reglement regelt gestützt auf das Universitätsgesetz und die Universit�
 
 - 2\. schlanke Strukturen und flexible Prozesse zur effizienten Erfüllung von Führungs- und Verwaltungsaufgaben unter grösstmöglicher Entlastung der Fakultätsmitglieder zugunsten von Forschung und Lehre,
 
-- 3\. Transparenz sowie situations- und personengerechte Zuordnung der Aufgaben, Kompetenzen und Verantwortlichkeiten.
+- 3\. Transparenz sowie situations- und personengerechte Zuordnung der Aufgaben, Kompetenzen und Verantwortlichkeiten, 4.[^2-1] sach- und zeitgerechte sowie zielgruppenspezifische Kommunikation auf allen Ebenen.
 
 <sup>2</sup> Bei der Mittelverteilung wird der Lehr- und Prüfungsleistung sowie fakultären Führungsaufgaben Rechnung getragen.
 
 **1**
 
-- 1\. 4. 23 - 120 § 3. Die Organe der Fakultät sind:
+1.10. 25 - 130 § 3. Die Organe der Fakultät sind:
 
 **Organe**
 
@@ -62,6 +62,8 @@ Dieses Reglement regelt gestützt auf das Universitätsgesetz und die Universit�
 - 3\. der Fakultätsvorstand,
 
 - 4\. die Dekanin oder der Dekan.
+
+[^2-1]: Eingefügt durch B vom 2. Oktober 2024 (OS 80, 169; ABl 2025-05-16). In Kraft seit 1. August 2025.
 
 #### § 4
 
@@ -99,17 +101,17 @@ Die folgenden Organisationseinheiten sind der Fakultät administrativ-organisato
 
 Die Fakultätsverwaltung ist in die folgenden Verwaltungseinheiten gegliedert:
 
-- 1\. Dekanat,
+- 1\. Dekanat, 2.[^6-1] Vizedekanat,
 
-- 2\. Studiendekanat,
+- 3\. Studiendekanat,
 
-- 3\. Prodekanat Forschung und Nachwuchsförderung,
+- 4\. Prodekanat Forschung und Nachwuchsförderung,
 
-- 4\. Prodekanat Aussenbeziehungen,
-
-- 5\. Prodekanat Ressourcen,
+- 5\. Prodekanat Aussenbeziehungen,
 
 - 6\. Rechtsstelle.
+
+[^6-1]: Eingefügt durch B vom 2. Oktober 2024 (OS 80, 169; ABl 2025-05-16). In Kraft seit 1. August 2025.
 
 ### 2. Abschnitt: Organe der Fakultät
 
@@ -123,9 +125,11 @@ Die Fakultätsverwaltung ist in die folgenden Verwaltungseinheiten gegliedert:
 
 <sup>2</sup> Dazu kommen drei Delegierte jedes Standes.
 
-<sup>3</sup> An der Fakultätsversammlung nehmen die Geschäftsleiterinnen oder Geschäftsleiter des Dekanats und des Prodekanats Ressourcen sowie die Leiterinnen oder Leiter des Studiendekanats und der Rechtsstelle mit beratender Stimme teil.
+<sup>3</sup> An der Fakultätsversammlung nehmen die Geschäftsleiterin oder der Geschäftsleiter des Dekanats sowie die Leiterinnen und Leiter des Vizedekanats, des Studiendekanats und der Rechtsstelle mit beratender Stimme teil.[^7-1]
 
 <sup>4</sup> Die Fakultätsversammlung kann weitere Personen, die ihr nicht angehören, mit beratender Stimme an ihren Sitzungen teilnehmen lassen.
+
+[^7-1]: Fassung gemäss B vom 2. Oktober 2024 (OS 80, 169; ABl 2025-05-16). In Kraft seit 1. August 2025.
 
 #### § 8
 
@@ -157,9 +161,7 @@ Die Fakultätsverwaltung ist in die folgenden Verwaltungseinheiten gegliedert:
 
 <sup>3</sup> Sie ist abschliessend zuständig für:
 
-- 1\. die Strategieentwicklung der Fakultät,
-
-- 2\. die Wahl der Dekanin oder des Dekans sowie der Prodekaninnen und Prodekane,
+- 1\. die Strategieentwicklung der Fakultät, 2.[^8-1] die Wahl der Dekanin oder des Dekans, der Vizedekanin oder des Vizedekans sowie der Prodekaninnen und Prodekane,
 
 - 3\. die Verleihung akademischer Titel und Grade nach Massgabe der Rahmenverordnungen für das Studium,
 
@@ -171,9 +173,7 @@ Die Fakultätsverwaltung ist in die folgenden Verwaltungseinheiten gegliedert:
 
 **3**
 
-- 1\. 4. 23 - 120
-
-- 7\. die Regelung der Weiterbildung,
+1.10. 25 - 130 7. die Regelung der Weiterbildung,
 
 - 8\. die Entsendung von Mitgliedern in gesamt- und ausseruniversitäre Ämter und Kommissionen,
 
@@ -184,6 +184,8 @@ Die Fakultätsverwaltung ist in die folgenden Verwaltungseinheiten gegliedert:
 - 11\. die Genehmigung von Lehranstellungen und weiterer Entschädigungen für Lehrtätigkeit.
 
 <sup>4</sup> Sie kann ihre Aufgaben im Einzelfall delegieren, soweit dies das übergeordnete Recht zulässt.
+
+[^8-1]: Fassung gemäss B vom 2. Oktober 2024 (OS 80, 169; ABl 2025-05-16). In Kraft seit 1. August 2025.
 
 ### B. Fakultätsausschuss
 
@@ -211,25 +213,25 @@ Die Fakultätsverwaltung ist in die folgenden Verwaltungseinheiten gegliedert:
 
 ### C. Fakultätsvorstand sowie Dekanin oder Dekan
 
-#### § 11
-
 **Zusammensetzung des Fakultätsvorstands**
 
-<sup>1</sup> Der Fakultätsvorstand setzt sich zusammen aus:
+§ 11.[^hCFakultätsvorstand-1] <sup>1</sup> Der Fakultätsvorstand setzt sich zusammen aus:
 
 - 1\. der Dekanin oder dem Dekan,
 
-- 2\. der Studiendekanin oder dem Studiendekan (Prodekanin oder Prodekan Lehre),
+- 2\. der Vizedekanin oder dem Vizedekan,
 
-- 3\. der Prodekanin oder dem Prodekan Forschung und Nachwuchsförderung,
+- 3\. der Studiendekanin oder dem Studiendekan (Prodekanin oder Prodekan Lehre),
 
-- 4\. der Prodekanin oder dem Prodekan Aussenbeziehungen,
+- 4\. der Prodekanin oder dem Prodekan Forschung und Nachwuchsförderung,
 
-- 5\. der Prodekanin oder dem Prodekan Ressourcen.
+- 5\. der Prodekanin oder dem Prodekan Aussenbeziehungen,
 
-<sup>2</sup> Die Geschäftsleiterinnen oder Geschäftsleiter des Dekanats und des Prodekanats Ressourcen sowie die Leiterin oder der Leiter des Studiendekanats und der Rechtsstelle nehmen grundsätzlich an den Sitzungen des Fakultätsvorstands teil, soweit Geschäfte aus ihrem Bereich betroffen sind. Sie haben beratende Stimme.
+<sup>2</sup> Die Geschäftsleiterin oder der Geschäftsleiter des Dekanats sowie die Leiterinnen und Leiter des Vizedekanats, des Studiendekanats und der Rechtsstelle nehmen grundsätzlich an den Sitzungen des Fakultätsvorstands teil. Sie haben beratende Stimme.
 
 <sup>3</sup> Der Fakultätsvorstand kann weitere Personen mit beratender Stimme an seinen Sitzungen teilnehmen lassen.
+
+[^hCFakultätsvorstand-1]: Fassung gemäss B vom 2. Oktober 2024 (OS 80, 169; ABl 2025-05-16). In Kraft seit 1. August 2025.
 
 #### § 12
 
@@ -237,7 +239,7 @@ Die Fakultätsverwaltung ist in die folgenden Verwaltungseinheiten gegliedert:
 
 <sup>1</sup> Die Mitglieder des Fakultätsvorstands werden von der Fakultätsversammlung auf eine Amtsdauer von vier Jahren gewählt.
 
-<sup>2</sup> Zur Sicherstellung der Kontinuität werden gestaffelte Amtszeiten angestrebt.
+<sup>2</sup> Es wird angestrebt, die Dekanin oder den Dekan und die Vizedekanin oder den Vizedekan gleichzeitig und mit parallel laufenden Amtszeiten zu wählen.[^12-1]
 
 <sup>3</sup> Für die Vorbereitung der Wahl der Mitglieder des Fakultätsvorstands setzt die Fakultätsversammlung eine Findungskommission ein.
 
@@ -249,15 +251,13 @@ Die Fakultätsverwaltung ist in die folgenden Verwaltungseinheiten gegliedert:
 
 <sup>7</sup> Die Fakultätsversammlung regelt das Findungsverfahren.
 
-#### § 13
+**Aufgaben des Fakultätsvorstands**
 
-**Aufgaben**
-
-<sup>1</sup> Dem Fakultätsvorstand obliegt die Vorbereitung der Strategieentwicklung sowie der Entwicklungs- und Finanzplanung der Fakultät zuhanden der Fakultätsversammlung.
+§ 13.[^12-1] <sup>1</sup> Dem Fakultätsvorstand obliegt die Vorbereitung der Strategieentwicklung sowie der Entwicklungs- und Finanzplanung der Fakultät zuhanden der Fakultätsversammlung.
 
 <sup>2</sup> Er verabschiedet zuhanden der Universitätsleitung das Fakultätsbudget.
 
-<sup>3</sup> Er ist zuständig für:
+<sup>3</sup> Er ist unter Vorbehalt der spezifischen Aufgaben einzelner Vorstandsmitglieder zuständig für:
 
 - 1\. die Zuweisung von Ressourcen an die Organisations- und Verwaltungseinheiten,
 
@@ -267,11 +267,9 @@ Die Fakultätsverwaltung ist in die folgenden Verwaltungseinheiten gegliedert:
 
 - 4\. die Verwaltung der finanziellen Mittel der Fakultät,
 
-- 5\. die Förderung des Nachwuchses und der Gleichstellung der Geschlechter,
-
 **5**
 
-- 1\. 4. 23 - 120
+1.10. 25 - 130 5. die Förderung des Nachwuchses und der Gleichstellung der Geschlechter,
 
 - 6\. die Pflege der Aussenbeziehungen,
 
@@ -279,29 +277,33 @@ Die Fakultätsverwaltung ist in die folgenden Verwaltungseinheiten gegliedert:
 
 - 8\. die Aufsicht über das Lehr- und Weiterbildungsangebot,
 
-- 9\. die Gewährleistung der Beratung der Studierenden in Fragen der Studiengestaltung,
+- 9\. die Gewährleistung der Beratung der Studierenden in Fragen der Studiengestaltung, 10.[^12-2]
 
-- 10\. die Anstellung der Geschäftsleitung des Prodekanats Ressourcen sowie der Leitungen des Studiendekanats und der Rechtsstelle,
+<sup>4</sup> Er ist zudem zuständig für:
 
-- 11\. die Antragstellung an die Universitätsleitung betreffend Einsetzung von Berufungskommissionen gemäss § 10 Abs. 4 UniO.
+- 1\. die Anstellung der Leitungen des Vizedekanats, des Studiendekanats und der Rechtsstelle,
 
-#### § 14
+- 2\. die Antragstellung an die Universitätsleitung betreffend Einsetzung von Berufungskommissionen gemäss § 10 Abs. 4 UniO,
+
+- 3\. die Förderung des Nachwuchses und der gelebten Kultur der Chancengleichheit.
 
 **Zusammenarbeit**
 
-<sup>1</sup> Der Fakultätsvorstand erfüllt seine Aufgaben in kollegialer Zusammenarbeit und regelt die Aufgabenverteilung.
+§ 14.[^12-1] <sup>1</sup> Der Fakultätsvorstand erfüllt seine Aufgaben in kollegialer Zusammenarbeit und regelt die Aufgabenverteilung.
 
-<sup>2</sup> Die einzelnen Aufgaben des Fakultätsvorstands werden nach dem Konsensprinzip gestützt auf §§ 15–19 unter den Mitgliedern verteilt. Der Bereich Weiterbildung wird einem Fakultätsvorstandsmitglied zugeteilt. Kommt kein Konsens zustande, entscheidet die Dekanin oder der Dekan nach § 75 Abs. 2 UniO.
+<sup>2</sup> Die Aufgaben der Dekanin oder des Dekans teilt der Fakultätsvorstand auf Antrag der Dekanin oder des Dekans zwischen der Dekanin oder dem Dekan und der Vizedekanin oder dem Vizedekan auf.
 
-<sup>3</sup> Wichtige Geschäfte werden gemeinsam beraten und entschieden.
+<sup>3</sup> Die weiteren Aufgaben des Fakultätsvorstands werden nach dem Konsensprinzip auf der Grundlage von §§ 16–18 unter den Mitgliedern verteilt.
 
-#### § 15
+<sup>4</sup> Der Bereich Weiterbildung wird einem Fakultätsvorstandsmitglied zugeteilt. Kommt kein Konsens über die Zuteilung zustande, entscheidet gestützt auf § 75 Abs. 2 UniO die Dekanin oder der Dekan.
+
+<sup>5</sup> Wichtige Geschäfte werden gemeinsam beraten und entschieden.
 
 **Dekanin oder Dekan**
 
-<sup>1</sup> Der Dekanin oder dem Dekan obliegen die Leitung der Fakultät und die Aufsicht über die Organisations- und Verwaltungseinheiten der Fakultät.
+§ 15.[^12-1] <sup>1</sup> Der Dekanin oder dem Dekan obliegen die Leitung der Fakultät und die Aufsicht über die Organisations- und Verwaltungseinheiten der Fakultät.
 
-<sup>2</sup> Sie oder er erfüllt die ihr oder ihm zugewiesenen Aufgaben gemäss Universitätsgesetz, Universitätsordnung der Universität Zürich, Personalverordnung der Universität Zürich[^15-1] und Finanzhandbuch der Universität Zürich.
+<sup>2</sup> Sie oder er erfüllt die ihr oder ihm zugewiesenen Aufgaben gemäss Universitätsgesetz, Universitätsordnung der Universität Zürich, Personalverordnung der Universität Zürich[^12-3] und Finanzhandbuch der Universität Zürich.
 
 <sup>3</sup> Sie oder er ist insbesondere zuständig für:
 
@@ -329,19 +331,49 @@ Die Fakultätsverwaltung ist in die folgenden Verwaltungseinheiten gegliedert:
 
 <sup>5</sup> Ihr oder ihm obliegt die Führungsverantwortung gegenüber den Professorinnen und Professoren im Rahmen der universitären Vorgaben.
 
-<sup>6</sup> Sie oder er hat die Aufsicht über die Tätigkeit der Prodekaninnen und Prodekane, der Geschäftsleiterin oder des Geschäftsleiters des Dekanats sowie der Leiterin oder des Leiters der Rechtsstelle.
+<sup>6</sup> Sie oder er hat die Aufsicht über die Tätigkeit der Vizedekanin oder des Vizedekans sowie der Prodekaninnen und Prodekane.
 
-<sup>7</sup> Sie oder er ist für alle Angelegenheiten zuständig, die keinem anderen Organ übertragen sind.
+<sup>7</sup> Ihr oder ihm obliegt zudem die akademische Leitung des Dekanats und der Rechtsstelle:
 
-<sup>8</sup> Sie oder er kann Aufgaben delegieren, soweit dies das übergeordnete Recht zulässt.
+- 1\. Sie oder er ist insbesondere zuständig für die Entwicklung und Umsetzung der Strategien des Dekanats und der Rechtsstelle,
 
-[^15-1]: LS 415.21.
+- 2\. sie oder er hat die Aufsicht über die Tätigkeit der Geschäftsleiterin oder des Geschäftsleiters des Dekanats sowie der Leiterin oder des Leiters der Rechtsstelle.
 
-#### § 16
+<sup>8</sup> Sie oder er ist für alle Angelegenheiten zuständig, die keinem anderen Organ übertragen sind.
+
+<sup>9</sup> Sie oder er kann Aufgaben delegieren, soweit dies das übergeordnete Recht zulässt.
+
+**Vizedekanin oder Vizedekan**
+
+§ 15 a.[^12-4] <sup>1</sup> Die Vizedekanin oder der Vizedekan unterstützt die Dekanin oder den Dekan bei der Leitung der Fakultät und der Aufsicht über die Organisations- und Verwaltungseinheiten der Fakultät.
+
+<sup>2</sup> Sie oder er ist insbesondere zuständig für die ihr oder ihm gestützt auf § 14 Abs. 2 zugewiesenen Aufgaben gemäss § 15 Abs. 1–4.
+
+<sup>3</sup> Sie oder er ist in der Regel zuständig für:
+
+- 1\. die akademische Berichterstattung,
+
+- 2\. den Jahresbericht,
+
+- 3\. die Leitung von Evaluationsverfahren.
+
+**7**
+
+1.10. 25 - 130
+
+<sup>4</sup> Ihr oder ihm obliegt die akademische Leitung des Vizedekanats:
+
+- 1\. Sie oder er ist insbesondere zuständig für die Entwicklung und Umsetzung der Strategien der dem Vizedekanat zugewiesenen Bereiche,
+
+- 2\. sie oder er hat die Aufsicht über die Tätigkeit der Leiterin oder des Leiters des Vizedekanats.
+
+<sup>5</sup> Sie oder er vertritt die Fakultät in den Gremien der Universität in den ihr oder ihm zugewiesenen Aufgabenbereichen.
+
+<sup>6</sup> Sie oder er ist insbesondere Ansprechperson in Bezug auf die Bibliothek der Universität Zürich im Bereich Recht sowie Mitglied des Bibliotheksboards der Bibliothek der Universität Zürich.
 
 **Studiendekanin oder Studiendekan**
 
-<sup>1</sup> Der Studiendekanin oder dem Studiendekan obliegt die Leitung des Studiendekanats.
+§ 16.[^12-1] <sup>1</sup> Der Studiendekanin oder dem Studiendekan obliegt die akademische Leitung des Studiendekanats.
 
 <sup>2</sup> Sie oder er ist zuständig für Lehre und Studium auf Stufe der Fakultät.
 
@@ -349,7 +381,9 @@ Die Fakultätsverwaltung ist in die folgenden Verwaltungseinheiten gegliedert:
 
 - 1\. die Entwicklung und Umsetzung der Strategien in den Bereichen Lehre und Studium,
 
-- 2\. den reibungslosen Prozessablauf sowie die Qualitätssicherung in den Bereichen Lehre und Studium einschliesslich Prüfungswesen.
+- 2\. die Aufsicht über das Lehrangebot,
+
+- 3\. die Gewährleistung der Beratung der Studierenden in Fragen der Studiengestaltung.
 
 <sup>4</sup> Sie oder er leitet die Kommissionen Lehre.
 
@@ -359,11 +393,9 @@ Die Fakultätsverwaltung ist in die folgenden Verwaltungseinheiten gegliedert:
 
 <sup>7</sup> Sie oder er hat die Aufsicht über die Tätigkeit der Leiterin oder des Leiters des Studiendekanats.
 
-#### § 17
-
 **Prodekanin oder Prodekan Forschung und Nachwuchsförderung**
 
-<sup>1</sup> Der Prodekanin oder dem Prodekan Forschung und Nachwuchsförderung obliegt die Leitung des Prodekanats Forschung und Nachwuchsförderung.
+§ 17.[^12-1] <sup>1</sup> Der Prodekanin oder dem Prodekan Forschung und Nachwuchsförderung obliegt die akademische und operative Leitung des Prodekanats Forschung und Nachwuchsförderung.
 
 <sup>2</sup> Sie oder er ist zuständig für die Betreuung und Entwicklung der Forschung und Nachwuchsförderung auf Stufe der Fakultät.
 
@@ -371,21 +403,22 @@ Die Fakultätsverwaltung ist in die folgenden Verwaltungseinheiten gegliedert:
 
 - 1\. die Entwicklung und Umsetzung der Strategien in den Bereichen Forschung und Nachwuchsförderung,
 
-- 2\. die Unterstützung und Förderung der Nachwuchskräfte an der Rechtswissenschaftlichen Fakultät.
+- 2\. die Unterstützung und Förderung der Forschung und der Nachwuchskräfte an der Rechtswissenschaftlichen Fakultät.
 
 <sup>4</sup> Sie oder er leitet die Kommission Forschung und Nachwuchsförderung.
 
-**7**
-
-- 1\. 4. 23 - 120
-
 <sup>5</sup> Sie oder er vertritt die Fakultät in den Gremien der Universität für Forschung und Nachwuchsförderung.
+
+[^12-1]: Fassung gemäss B vom 2. Oktober 2024 (OS 80, 169; ABl 2025-05-16). In Kraft seit 1. August 2025.
+[^12-2]: Aufgehoben durch B vom 2. Oktober 2024 (OS 80, 169; ABl 2025-05-16). In Kraft seit 1. August 2025.
+[^12-3]: LS 415.21.
+[^12-4]: Eingefügt durch B vom 2. Oktober 2024 (OS 80, 169; ABl 2025-05-16). In Kraft seit 1. August 2025.
 
 #### § 18
 
 **Prodekanin oder Prodekan Aussenbeziehungen**
 
-<sup>1</sup> Der Prodekanin oder dem Prodekan Aussenbeziehungen obliegt die Leitung des Prodekanats Aussenbeziehungen.
+<sup>1</sup> Der Prodekanin oder dem Prodekan Aussenbeziehungen obliegt die akademische und operative Leitung des Prodekanats Aussenbeziehungen.[^12-1]
 
 <sup>2</sup> Sie oder er ist zuständig für die Pflege und Entwicklung der Aussenbeziehungen auf Stufe der Fakultät.
 
@@ -399,45 +432,39 @@ Die Fakultätsverwaltung ist in die folgenden Verwaltungseinheiten gegliedert:
 
 <sup>5</sup> Sie oder er vertritt die Fakultät in den Gremien der Universität für Aussenbeziehungen.
 
-#### § 19
-
-**Prodekanin oder Prodekan Ressourcen**
-
-<sup>1</sup> Der Prodekanin oder dem Prodekan Ressourcen obliegt die Leitung des Prodekanats Ressourcen.
-
-<sup>2</sup> Sie oder er ist zuständig für Personelles (ohne Professorenschaft), das operative Finanzwesen, Infrastruktur und Logistik, das IT-Management sowie das operative Projektportfolio- und Prozessmanagement.
-
-<sup>3</sup> Sie oder er ist Ansprechperson in Bezug auf die Bibliothek der Universität Zürich im Bereich Recht.
-
-<sup>4</sup> Sie oder er ist Mitglied des Bibliotheksboards der Bibliothek der Universität Zürich und vertritt die Fakultät in den weiteren Gremien der Universität in ihrem oder seinem Aufgabenbereich.
-
-<sup>5</sup> Sie oder er hat die Aufsicht über die Tätigkeit der Geschäftsleiterin oder des Geschäftsleiters des Prodekanats Ressourcen.
-
-#### § 20
+§ 19.[^18-1]
 
 **Zuständigkeit für Weiterbildung**
 
-<sup>1</sup> Das für den Bereich Weiterbildung zuständige Fakultätsvorstandsmitglied ist verantwortlich für die Weiterbildung auf Stufe der Fakultät.
+§ 20. <sup>1</sup> Das für den Bereich Weiterbildung zuständige Fakultätsvorstandsmitglied ist verantwortlich für die Weiterbildung auf Stufe der Fakultät.
 
 <sup>2</sup> Sie oder er ist insbesondere zuständig für:
 
 - 1\. die Entwicklung und Umsetzung der Strategien im Bereich Weiterbildung,
 
-- 2\. die Qualitätssicherung und die Kontaktpflege im Bereich Weiterbildung.
+- 2\. die Qualitätssicherung und die Kontaktpflege im Bereich Weiterbildung, 3.[^18-2] die Aufsicht über das Weiterbildungsangebot.
 
 <sup>3</sup> Sie oder er leitet die Kommission Weiterbildung.
 
 <sup>4</sup> Sie oder er vertritt die Fakultät in den Gremien der Universität für Weiterbildung.
 
-#### § 21
-
 **Stellvertretung**
 
-<sup>1</sup> Ist die Dekanin oder der Dekan an der Amtsausübung verhindert, wird sie oder er durch eine Prodekanin oder einen Prodekan vertreten.
+§ 21.[^18-3] <sup>1</sup> Die Dekanin oder der Dekan und die Vizedekanin oder der Vizedekan vertreten sich gegenseitig.
 
-<sup>2</sup> Sind auch die Prodekaninnen oder Prodekane verhindert, erfolgt die Vertretung durch die Altdekaninnen oder -dekane in rückwärts gerichteter Reihenfolge.
+<sup>2</sup> Sind die Dekanin oder der Dekan und die Vizedekanin oder der Vizedekan an der Amtsausübung verhindert, werden sie durch eine Prodekanin oder einen Prodekan vertreten.
 
-<sup>3</sup> Der Fakultätsvorstand regelt die Stellvertretung der Prodekaninnen und Prodekane.
+**9**
+
+1.10. 25 - 130
+
+<sup>3</sup> Sind auch die Prodekaninnen oder Prodekane verhindert, erfolgt die Vertretung durch die Altdekaninnen oder -dekane in rückwärts gerichteter Reihenfolge.
+
+<sup>4</sup> Der Fakultätsvorstand regelt die Stellvertretung der Prodekaninnen und Prodekane.
+
+[^18-1]: Aufgehoben durch B vom 2. Oktober 2024 (OS 80, 169; ABl 2025-05-16). In Kraft seit 1. August 2025.
+[^18-2]: Eingefügt durch B vom 2. Oktober 2024 (OS 80, 169; ABl 2025-05-16). In Kraft seit 1. August 2025.
+[^18-3]: Fassung gemäss B vom 2. Oktober 2024 (OS 80, 169; ABl 2025-05-16). In Kraft seit 1. August 2025.
 
 #### § 22
 
@@ -487,10 +514,6 @@ Der Fakultätsvorstand kann einzelne Aufgaben delegieren.
 
 <sup>4</sup> Die Kommissionen organisieren sich selbst.
 
-**9**
-
-- 1\. 4. 23 - 120
-
 ### E. Vertretung in ausserfakultären Gremien
 
 #### § 25
@@ -499,9 +522,11 @@ Der Fakultätsvorstand kann einzelne Aufgaben delegieren.
 
 <sup>1</sup> Die Vertreterinnen und Vertreter der Fakultät in ausserfakultären Gremien orientieren sich bei ihrer Gremienarbeit an den Interessen der Fakultät.
 
-<sup>2</sup> Sie sind gegenüber der Dekanin oder dem Dekan auf Verlangen berichterstattungspflichtig.
+<sup>2</sup> Sie sind gegenüber dem Fakultätsvorstand auf Verlangen berichterstattungspflichtig.[^25-1]
 
 <sup>3</sup> Vorbehalten bleiben die Erfordernisse des Persönlichkeits- und Datenschutzes sowie allfällige weitere Geheimhaltungspflichten.
+
+[^25-1]: Fassung gemäss B vom 2. Oktober 2024 (OS 80, 169; ABl 2025-05-16). In Kraft seit 1. August 2025.
 
 ### 3. Abschnitt: Fachgruppen
 
@@ -539,7 +564,9 @@ Den Fachgruppen obliegen insbesondere folgende Aufgabenbereiche:
 
 - 5\. Kontaktpflege mit den Titularprofessorinnen und -professoren sowie Privatdozentinnen und -dozenten,
 
-- 6\. Einsatz und Überwachung der personellen und anderen Ressourcen der Fachgruppe,
+**11**
+
+1.10. 25 - 130 6. Einsatz und Überwachung der personellen und anderen Ressourcen der Fachgruppe,
 
 - 7\. Delegation von Mitgliedern der Fachgruppe in fakultäre Gremien,
 
@@ -553,31 +580,45 @@ Den Fachgruppen obliegen insbesondere folgende Aufgabenbereiche:
 
 <sup>1</sup> Das Dekanat unterstützt die Dekanin oder den Dekan sowie die übrigen Fakultätsorgane bei der Erfüllung ihrer Aufgaben.
 
-<sup>2</sup> Ihm obliegen insbesondere:
+<sup>2</sup> Ihm obliegen insbesondere:[^29-1] 1. die organisatorische und administrative Unterstützung der Organe der Fakultät,
 
-- 1\. die organisatorische und administrative Unterstützung der Organe der Fakultät,
+- 2\. das strategische Controlling auf Fakultätsstufe: die Koordination der Entwicklung und Umsetzung der fakultären Strategie sowie der Entwicklungs- und Finanzplanung sowie das Projektportfolio- und Prozessmanagement der Fakultät,
 
-- 2\. das strategische Controlling auf Fakultätsstufe: die Koordination der Entwicklung und Umsetzung der fakultären Strategie sowie der Entwicklungs- und Finanzplanung,
+- 3\. das finanzielle Controlling der Eigen- und Drittmittel: Insbesondere Koordination und operative Durchführung von Finanzplanung, Budgetierung, Budgetkontrolle und Jahresabschluss der Fakultät,
 
-- 3\. das finanzielle Controlling in Zusammenarbeit mit dem Prodekanat Ressourcen: Koordination von Finanzplanung, Budgetierung, Budgetkontrolle und Jahresabschluss der Fakultät,
-
-- 4\. die Bewirtschaftung des Finanzbudgets der Fakultät auf Stufe Betriebsergebnis 3,
+- 4\. die Führung der operativen Finanzgeschäfte der Fakultät (Eigen- und Drittmittel): Rechnungswesen (Kreditoren, Debitoren und Spesen),
 
 - 5\. die administrative Betreuung der Berufungs- und Beförderungsverfahren sowie weiterer Professurengeschäfte,
 
 - 6\. die administrative Betreuung der Habilitationsverfahren,
 
-- 7\. die Organisation von Fakultätsanlässen,
+- 7\. das Personalmanagement der Fakultät auf Stufe Betriebsergebnis 2, inklusive Fallführung und Beratung für sämtliche Personalgeschäfte (Eigen- wie Drittmittel) mit Ausnahme arbeitgeberseitiger Kündigungen,
 
-- 8\. die Unterstützung der Kommunikation der Dekanin oder des Dekans,
+- 8\. das Flächen- und Belegungsmanagement sowie der Betrieb und Unterhalt der Gebäude und Räumlichkeiten der Fakultät,
 
-- 9\. das Alumniwesen.
+- 9\. das IT-Management und die IT- Sicherheit,
 
-#### § 30
+- 10\. die Organisation von Fakultätsanlässen,
+
+- 11\. die Unterstützung der Kommunikation der Dekanin oder des Dekans,
+
+- 12\. das Alumniwesen.
+
+<sup>3</sup> Die Geschäftsleiterin oder der Geschäftsleiter des Dekanats leitet das Dekanat operativ und ist insbesondere für den reibungslosen Prozessablauf und die Qualitätssicherung der dem Dekanat zugewiesenen Aufgaben verantwortlich.
+
+<sup>4</sup> Darüber hinaus obliegt ihr oder ihm in kollegialer Zusammenarbeit mit den Leiterinnen oder Leitern der Prodekanate und der Rechtsstelle die Gesamtkoordination der Aufgaben der Fakultätsverwaltung.
+
+**Vizedekanat**
+
+§ 29 a.[^29-2] <sup>1</sup> Das Vizedekanat unterstützt die Vizedekanin oder den Vizedekan bei der Erfüllung ihrer oder seiner Aufgaben.
+
+<sup>2</sup> Ihm obliegen insbesondere die gestützt auf § 14 Abs. 2 zugewiesenen Aufgaben gemäss § 29 Abs. 2.
+
+<sup>3</sup> Die Leiterin oder der Leiter des Vizedekanats leitet das Vizedekanat operativ und ist insbesondere für den reibungslosen Prozessablauf und die Qualitätssicherung der dem Vizedekanat zugewiesenen Aufgaben verantwortlich.
 
 **Studiendekanat**
 
-<sup>1</sup> Das Studiendekanat stellt den Lehr- und Studienbetrieb sicher.
+§ 30.[^29-1] <sup>1</sup> Das Studiendekanat stellt den Lehr- und Studienbetrieb sicher.
 
 <sup>2</sup> Ihm obliegen insbesondere:
 
@@ -585,15 +626,20 @@ Den Fachgruppen obliegen insbesondere folgende Aufgabenbereiche:
 
 - 2\. die Planung und Organisation der Prüfungen,
 
-- 3\. die Studienberatung.
+- 3\. die Studienberatung sowie insbesondere die Gewährleistung der Beratung der Studierenden in Fragen der Studiengestaltung.
 
 <sup>3</sup> Es unterstützt die Studiendekanin oder den Studiendekan bei der Erfüllung ihrer oder seiner Aufgaben.
 
-**11**
+<sup>4</sup> Die Leiterin oder der Leiter des Studiendekanats leitet das Studiendekanat operativ und ist insbesondere für den reibungslosen Prozessablauf und die Qualitätssicherung der dem Studiendekanat zugewiesenen Aufgaben verantwortlich.
 
-- 1\. 4. 23 - 120 § 31. <sup>1</sup> Das Prodekanat Forschung und Nachwuchsförderung leistet Unterstützung bei der Planung und Durchführung von Forschungsprojekten an der Fakultät und unterstützt Nachwuchskräfte der Fakultät bei der Planung und Durchführung von wissenschaftlichen Aktivitäten.
+[^29-1]: Fassung gemäss B vom 2. Oktober 2024 (OS 80, 169; ABl 2025-05-16). In Kraft seit 1. August 2025.
+[^29-2]: Eingefügt durch B vom 2. Oktober 2024 (OS 80, 169; ABl 2025-05-16). In Kraft seit 1. August 2025.
+
+#### § 31
 
 **Prodekanat Forschung und Nachwuchsförderung**
+
+<sup>1</sup> Das Prodekanat Forschung und Nachwuchsförderung leistet Unterstützung bei der Planung und Durchführung von Forschungsprojekten an der Fakultät und unterstützt Nachwuchskräfte der Fakultät bei der Planung und Durchführung von wissenschaftlichen Aktivitäten.
 
 <sup>2</sup> Es unterstützt die Prodekanin oder den Prodekan Forschung und Nachwuchsförderung bei der Erfüllung ihrer oder seiner Aufgaben.
 
@@ -603,33 +649,17 @@ Den Fachgruppen obliegen insbesondere folgende Aufgabenbereiche:
 
 <sup>1</sup> Das Prodekanat Aussenbeziehungen entwickelt Strategien für die Beziehungen zu rechtswissenschaftlichen Einrichtungen für Lehre und Forschung und pflegt Beziehungen zu wissenschaftlichen Partnerinstitutionen im In- und Ausland.
 
+**13**
+
+1.10. 25 - 130
+
 <sup>2</sup> Es unterstützt die Prodekanin oder den Prodekan Aussenbeziehungen bei der Erfüllung ihrer oder seiner Aufgaben.
 
-#### § 33
-
-**Prodekanat Ressourcen**
-
-<sup>1</sup> Dem Prodekanat Ressourcen obliegen insbesondere:
-
-- 1\. die Fallführung und Beratung für sämtliche Personalgeschäfte (Eigenwie Drittmittel, ohne Professorenschaft) mit Ausnahme arbeitgeberseitiger Kündigungen,
-
-- 2\. die Führung der operativen Finanzgeschäfte der Fakultät (Eigen- und Drittmittel): Rechnungswesen (Kreditoren, Debitoren und Spesen), operative Durchführung der Budgetierung und des Reportings sowie Erstellen der Jahresabschlüsse zuhanden des Dekanats,
-
-- 3\. die Beratung und Unterstützung der Lehrstühle und Verwaltungseinheiten bei Budgetfragen und bei der finanziellen Führung ihrer Verantwortungsbereiche,
-
-- 4\. das Flächen- und Belegungsmanagement sowie der Betrieb und Unterhalt der Gebäude und Räumlichkeiten der Fakultät,
-
-- 5\. das IT-Management und die IT-Sicherheit,
-
-- 6\. das operative Projektportfolio- und Prozessmanagement der Fakultät.
-
-<sup>2</sup> Es unterstützt die Prodekanin oder den Prodekan Ressourcen bei der Erfüllung ihrer oder seiner Aufgaben.
-
-#### § 34
+§ 33.[^32-1]
 
 **Rechtsstelle**
 
-<sup>1</sup> Die Rechtsstelle ist zuständig für die rechtlichen Belange der Fakultät.
+§ 34. <sup>1</sup> Die Rechtsstelle ist zuständig für die rechtlichen Belange der Fakultät.
 
 <sup>2</sup> Ihr obliegen insbesondere:
 
@@ -640,6 +670,11 @@ Den Fachgruppen obliegen insbesondere folgende Aufgabenbereiche:
 - 3\. die Ausarbeitung von Stellungnahmen im Rahmen von Vernehmlassungen der Universitätsorgane.
 
 <sup>3</sup> Sie unterstützt die Dekanin oder den Dekan sowie die übrigen Fakultätsorgane in rechtlichen Angelegenheiten.
+
+<sup>4</sup> Die Leiterin oder der Leiter der Rechtsstelle leitet die Rechtsstelle operativ und ist insbesondere für den reibungslosen Prozessablauf und die Qualitätssicherung der der Rechtsstelle zugewiesenen Aufgaben verantwortlich.[^32-2]
+
+[^32-1]: Aufgehoben durch B vom 2. Oktober 2024 (OS 80, 169; ABl 2025-05-16). In Kraft seit 1. August 2025.
+[^32-2]: Eingefügt durch B vom 2. Oktober 2024 (OS 80, 169; ABl 2025-05-16). In Kraft seit 1. August 2025.
 
 ### 5. Abschnitt: Verfahrensvorschriften
 
@@ -694,10 +729,6 @@ Den Fachgruppen obliegen insbesondere folgende Aufgabenbereiche:
 
 - 3\. bei Habilitationen sowie bei der Ernennung von Titularprofessorinnen und -professoren auf Professorinnen und Professoren sowie Habilitierte.
 
-**13**
-
-- 1\. 4. 23 - 120
-
 <sup>2</sup> Die Teilnahme an Beratungen und Abstimmungen über Ehrenpromotionen ist auf Professorinnen und Professoren beschränkt.
 
 #### § 40
@@ -728,11 +759,11 @@ Den Fachgruppen obliegen insbesondere folgende Aufgabenbereiche:
 
 <sup>5</sup> Zu den Wahlverfahren kann der Fakultätsvorstand einen Leitfaden erlassen.
 
-#### § 42
+**15**
+
+1.10. 25 - 130 § 42. <sup>1</sup> Die Vorsitzenden können Geschäfte einem Zirkulationsverfahren unterstellen, soweit dies im Einklang mit übergeordnetem Recht steht. Dieses kann auf elektronischem Weg durchgeführt werden.
 
 **Zirkularbeschlüsse**
-
-<sup>1</sup> Die Vorsitzenden können Geschäfte einem Zirkulationsverfahren unterstellen, soweit dies im Einklang mit übergeordnetem Recht steht. Dieses kann auf elektronischem Weg durchgeführt werden.
 
 <sup>2</sup> Bei Geschäften von Organen der Fakultät sowie von Berufungs- und Beförderungskommissionen kann jedes Mitglied innert dreier Arbeitstage nach Ankündigung eines Zirkulationsverfahrens der oder dem Vorsitzenden mitteilen, dass es die Behandlung des Geschäfts an einer Sitzung wünscht. In diesem Fall wird das Zirkulationsverfahren abgebrochen und das Geschäft für eine Sitzung traktandiert.
 
@@ -750,13 +781,11 @@ Den Fachgruppen obliegen insbesondere folgende Aufgabenbereiche:
 
 <sup>2</sup> Sie oder er kann diese Zuständigkeit für einzelne Bereiche delegieren.
 
-<sup>3</sup> In ihren Verantwortungsbereichen sind die Prodekaninnen und Prodekane in Abstimmung mit der Dekanin oder dem Dekan für die Kommunikation zuständig.
-
-#### § 44
+<sup>3</sup> In ihren Verantwortungsbereichen sind die Vizedekanin oder der Vizedekan sowie die Prodekaninnen und Prodekane in Abstimmung mit der Dekanin oder dem Dekan für die Kommunikation zuständig.[^43-1]
 
 **Geheimhaltung**
 
-<sup>1</sup> Der Geheimhaltungspflicht unterstehen:
+§ 44. <sup>1</sup> Der Geheimhaltungspflicht unterstehen:
 
 - 1\. Berufung, Beförderung und Entlassung von Professorinnen und Professoren,
 
@@ -778,6 +807,8 @@ Den Fachgruppen obliegen insbesondere folgende Aufgabenbereiche:
 
 <sup>5</sup> Die Geheimhaltungspflicht entfällt, wenn dies im Interesse der Fakultät oder Universität angezeigt ist oder zur Verfolgung sonstiger berechtigter Interessen erforderlich ist.
 
+[^43-1]: Fassung gemäss B vom 2. Oktober 2024 (OS 80, 169; ABl 2025-05-16). In Kraft seit 1. August 2025.
+
 #### § 45
 
 **Information**
@@ -786,15 +817,15 @@ Den Fachgruppen obliegen insbesondere folgende Aufgabenbereiche:
 
 <sup>2</sup> Unter den gleichen Voraussetzungen darf sie oder er andere Personen ermächtigen, Informationen weiterzugeben.
 
-**15**
-
-- 1\. 4. 23 - 120
-
 <sup>3</sup> Die Delegierten der Stände haben das Recht, die Angehörigen ihres jeweiligen Standes mündlich oder schriftlich über die in den Fakultätsgremien zu beratenden Traktanden sowie über die gefällten und protokollierten Beschlüsse zu orientieren. Dabei dürfen sie, vorbehältlich der Schweigepflicht, die Stimmenverhältnisse, die wesentlichen Anträge und die während der Sitzung vertretenen hauptsächlichen Ansichten, aber keine Personen oder Namen nennen.
 
 <sup>4</sup> In Angelegenheiten von Ernennungen, Beförderungen und Lehranstellungen dürfen die Delegierten der Stände über die Anträge der Fakultätsgremien an die oberen Instanzen sowie über ihre eigenen, in den Sitzungen der Fakultätsgremien gestellten Anträge und geäusserten Meinungen orientieren. Vorbehalten bleiben Beschlüsse der Fakultätsgremien über Beschränkungen der Information mit Rücksicht auf Persönlichkeitsrechte der Betroffenen.
 
-### 7. Abschnitt: Schlussbestimmungen
+[^45-1]: Fassung gemäss B vom 2. Oktober 2024 (OS 80, 169; ABl 2025-05-16). In Kraft seit 1. August 2025.
+
+### 7. Abschnitt: Schluss- und Übergangsbestimmungen
+
+[^45-1]
 
 #### § 46
 
@@ -803,3 +834,19 @@ Den Fachgruppen obliegen insbesondere folgende Aufgabenbereiche:
 <sup>1</sup> Dieses Organisationsreglement tritt nach der Genehmigung durch die Erweiterte Universitätsleitung am 1. Februar 2023 in Kraft.
 
 <sup>2</sup> Es ersetzt das Organisationsregelement der Rechtswissenschaftlichen Fakultät der Universität Zürich vom 3. Juli 2018.
+
+**Übergangsbestimmung**
+
+§ 47.[^46-1] <sup>1</sup> Mit der Aufhebung des Prodekanats Ressourcen endet gleichzeitig und abweichend von der bisherigen Regelung die Amtszeit des vor Inkrafttreten der Änderung vom 2. Oktober 2024 gewählten Prodekans Ressourcen.
+
+**17**
+
+1.10. 25 - 130
+
+<sup>2</sup> Die Amtszeit der auf der Grundlage der Änderung vom 2. Oktober 2024 erstmals gewählten Vizedekanin oder des erstmals gewählten Vizedekans gemäss § 15 a beginnt am 1. August 2025 und endet, abweichend von der regulären Amtsdauer gemäss § 12 Abs. 1, zeitgleich mit der Amtszeit des zum Zeitpunkt der Änderung amtierenden Dekans.
+
+<sup>3</sup> Die Aufgaben des Prodekanats Ressourcen werden zum 1. August 2025 gestützt auf § 14 Abs. 2 in Verbindung mit §§ 15 und 15 a sowie 29 und 29 a vom Dekanat und Vizedekanat übernommen.
+
+<sup>4</sup> Die Stelle der Geschäftsleiterin oder des Geschäftsleiters des Prodekanats Ressourcen wird mit dem Inkrafttreten der Änderung vom 2. Oktober 2024 aufgehoben und in die neu geschaffene Stelle der Leitung des Vizedekanats gemäss § 29 a Abs. 3 überführt.
+
+[^46-1]: Eingefügt durch B vom 2. Oktober 2024 (OS 80, 169; ABl 2025-05-16). In Kraft seit 1. August 2025.
