@@ -4,13 +4,12 @@ number: "922.11"
 title: Ordonnance concernant la chasse
 short: OCha
 language: fr
-version: 2024-07-01
-valid_until: 2025-07-31
-version_adopted: 2024-06-18
+version: 2025-08-01
+version_adopted: 2025-07-04
 adopted: 2016-06-06
 in_force: 2016-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/922.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8030/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8258/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Chasse – O
 
 (OCha)
 
-du 06.06.2016 (version entrée en vigueur le 01.07.2024)
+du 06.06.2016 (version entrée en vigueur le 01.08.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -217,7 +216,7 @@ Arrête:
 
 **Principe**
 
-<sup>1</sup> L'obtention d'un permis de chasse général est subordonnée à l'accomplissement de l'épreuve obligatoire de tir dans l'année qui précède la date de délivrance du permis.
+<sup>1</sup> L'obtention d'un permis de chasse général est subordonnée à l'accomplissement de l'épreuve obligatoire de tir dans l'année de délivrance du permis.
 
 <sup>2</sup> L'alinéa 1 ne s'applique pas à la prise d'un permis de chasse général sans port d'arme.
 
@@ -352,7 +351,7 @@ Arrête:
 - e) dans les bâtiments, les jardins, les parcs d'agrément et les pépinières situées hors des forêts, sauf accord du ou de la propriétaire ou celui de l'exploitant ou de l'exploitante;
 - f) dans les vignes et les vergers avant la fin de la récolte;
 - g) sur les bassins de rétention des autoroutes;
-- h) sur les étangs des places de golf, sauf accord du ou de la propriétaire ou celui de l'exploitant ou de l'exploitante.
+- h) sur les étangs des places de golf, sauf accord du ou de la propriétaire ou celui de l'exploitant ou de l'exploitante;
 - i) à moins de 200 mètres de rayon des extrémités des passages à faune supérieurs.
 
 <sup>2</sup> Tout tir est interdit là où il peut mettre en danger des personnes ou des animaux domestiques ou causer des dommages aux biens d'autrui, notamment:
@@ -440,7 +439,8 @@ Arrête:
 - c) la poursuite, en dehors des heures de chasse, de la piste d'un animal dont la chasse est ouverte;
 - d) l'usage de moyens artificiels destinés à déloger ou à attirer les animaux, à l'exception des formes (oiseaux en matière synthétique ou autre) qui sont soit des canards pour la chasse aux oiseaux d'eau, soit des appeaux de corneilles et des appeaux de rapaces nocturnes pour la chasse des corneilles noires;
 - e) l'usage de pétards ou le tir de coups de feu pour déloger les animaux;
-- f) le déterrage des animaux, sauf pour rechercher les chiens; le creusage des terriers n'est cependant permis qu'avec l'accord du ou de la propriétaire ou celui de l'exploitant ou de l'exploitante du terrain.
+- f) le déterrage des animaux, sauf pour rechercher les chiens; le creusage des terriers n'est cependant permis qu'avec l'accord du ou de la propriétaire ou celui de l'exploitant ou de l'exploitante du terrain;
+- g) l'emploi de balles pour la chasse aux oiseaux.
 
 <sup>2</sup> L'usage de sources lumineuses artificielles, d'appareils de vision nocturne, d'appareils reproducteurs de son ou d'autres moyens électroniques pour chasser est interdit.
 
@@ -607,6 +607,10 @@ Arrête:
 
 <sup>7</sup> Il est interdit de pratiquer la chasse au terrier avec plus d'un chien par terrier.
 
+<sup>8</sup> Lorsqu'une couche de neige de plus 15 centimètres d'épaisseur recouvre le sol, il est interdit de laisser courir les chiens librement et ceux-ci doivent impérativement être tenus en laisse[^43-1].
+
+[^43-1]: Cet alinéa étant soumis à l'approbation de l'autorité fédérale compétente, il n'entre en vigueur qu'au moment de la publication de l'approbation, soit le 19.09.2025.
+
 #### Art. 44
 
 **Chiens de chasse – Animaux blessés ou tués par un chien**
@@ -645,7 +649,7 @@ Arrête:
 
 <sup>1</sup> Le conducteur ou la conductrice de chien de rouge peut circuler sur une route ou un chemin normalement interdit aux chasseurs et chasseuses:
 
-- a) le jour qui précède l'ouverture de la chasse, pour se rendre au chalet où il ou elle loge;
+- a) dans les territoires de montagne, le jour qui précède l'ouverture de la chasse, pour se rendre au chalet où il ou elle loge;
 - b) lorsqu'il ou elle doit intervenir avec son chien;
 - c) pour quitter définitivement le chalet et regagner son domicile.
 
@@ -837,7 +841,7 @@ Arrête:
 
 <sup>1</sup> Le permis C confère à son ou sa titulaire le droit de tirer, dans les territoires ouverts à la chasse (montagne et plaine), le cerf, à l'exception de la biche suitée.
 
-<sup>2</sup> Le cerf peut être chassé durant la période fixée dans l'ordonnance annuelle concernant la planification de la chasse (art. 56), cette période devant se situer entre le 1<sup>er</sup> octobre et le 30 novembre.
+<sup>2</sup> Le cerf peut être chassé durant la période fixée dans l'ordonnance annuelle concernant la planification de la chasse (art. 56), cette période devant se situer entre le lundi du Jeûne fédéral et le 15 décembre.
 
 <sup>3</sup> Les taxes supplémentaires suivantes, dont le Service pourvoit à l'encaissement, sont dues par les chasseurs et chasseuses qui abattent un cerf:
 
@@ -938,7 +942,8 @@ Arrête:
 - a) les bécasses des bois, du 1<sup>er</sup> novembre au 14 décembre; il est interdit de tirer plus de deux bécasses par jour (dix au maximum durant toute la période de chasse);
   - 1\. …
   - 2\. …
-- b) les canards colverts, les sarcelles d'hiver et les cormorans, du lundi du Jeûne fédéral au 31 janvier.
+- b) les canards colverts et les sarcelles d'hiver, du lundi du Jeûne fédéral au 31 janvier;
+- c) les cormorans, du 1<sup>er</sup> septembre à la fin février.
 
 <sup>2</sup> Le gibier d'eau peut être tiré:
 
@@ -977,17 +982,19 @@ Arrête:
 
 <sup>1</sup> Tout animal sur lequel le chasseur ou la chasseuse a tiré doit être recherché partout.
 
-<sup>2</sup> Les chasseurs et chasseuses qui recherchent un animal blessé qui s'est enfui dans un lieu où la chasse est interdite doivent l'y poursuivre, après avoir demandé l'accord du ou de la garde-faune.
+<sup>2</sup> …
 
 <sup>3</sup> Si l'animal ne tombe pas sur place, le chasseur ou la chasseuse doit:
 
 - a) marquer immédiatement après le tir et de façon claire, le lieu où il ou elle se trouvait personnellement, l'emplacement de l'animal tiré et la direction de fuite de ce dernier;
 - b) faire appel à un conducteur ou une conductrice de chien de rouge;
-- c) en cas de recherche négative, en informer le jour même dès qu'il ou elle quitte l'emplacement le ou la garde-faune de la région, durant les heures de chasse mais au plus tard dans les quatre heures qui suivent le tir.
+- c) pour une recherche dans un lieu où la chasse est interdite, demander l'accord préalable du ou de la garde-faune.
 
 <sup>3<sup>bis</sup></sup> …
 
 <sup>4</sup> …
+
+<sup>5</sup> En cas de recherche négative, le chasseur ou la chasseuse doit, dès qu'il ou elle quitte l'emplacement, en informer le ou la garde-faune de la région, ceci durant les heures de chasse mais au plus tard dans les quatre heures qui suivent le tir.
 
 #### Art. 71
 
@@ -1021,7 +1028,7 @@ Arrête:
 
 **Carnet de contrôle et de statistique**
 
-<sup>1</sup> Sur le terrain de chasse et avant tout déplacement d'un animal de quelque espèce que ce soit, le chasseur ou la chasseuse doit inscrire de façon indélébile dans son carnet de contrôle et de statistique le nom de l'espèce, la date à laquelle l'animal a été abattu ainsi que le secteur de faune où il a été abattu.
+<sup>1</sup> Sur le terrain de chasse et avant tout déplacement d'un animal de quelque espèce que ce soit, le chasseur ou la chasseuse doit inscrire de façon indélébile dans son carnet de contrôle et de statistique le code de la catégorie, la date à laquelle l'animal a été abattu ainsi que le lieu-dit et le secteur de faune où il a été abattu.
 
 #### Art. 75
 
@@ -1040,15 +1047,15 @@ Arrête:
 
 **Présentation, modification, perte et restitution des documents**
 
-<sup>1</sup> Les personnes autorisées à chasser sont tenues de présenter en tout temps, sur réquisition d'un ou d'une garde-faune, les animaux tirés, le permis de chasse, les marques de contrôle, le carnet de contrôle et de statistique ainsi que, le cas échéant, la formule de contrôle remplie pour l'animal tiré.
+<sup>1</sup> Les personnes autorisées à chasser sont tenues de présenter en tout temps, sur réquisition d'un agent ou d'une agente de la police de la faune, les animaux tirés, le permis de chasse, les marques de contrôle, le carnet de contrôle et de statistique ainsi que, le cas échéant, la formule de contrôle remplie pour l'animal tiré.
 
 <sup>2</sup> Il est interdit de modifier ou de transformer de quelque façon que ce soit les marques de contrôle et le carnet de contrôle et de statistique ainsi que d'en utiliser des copies.
 
 <sup>3</sup> En cas de perte, les marques et les carnets sont remplacés par le Service, contre paiement d'un émolument administratif de 10 francs pour chaque marque et 50 francs pour le carnet.
 
-<sup>4</sup> Le carnet de contrôle et de statistique doit être restitué à la préfecture qui l'a délivré, le 1<sup>er</sup> mars suivant au plus tard. Si ce carnet n'est pas restitué en temps voulu ou s'il contient des indications manifestement incomplètes ou fausses, le montant déposé lors de sa délivrance n'est pas restitué à son ou sa titulaire mais versé au fonds de la faune.
+<sup>4</sup> Le carnet de contrôle et de statistique doit être restitué à la préfecture qui l'a délivré, le 15 mars suivant au plus tard. Si ce carnet n'est pas restitué en temps voulu ou s'il contient des indications manifestement incomplètes ou fausses, le montant déposé lors de sa délivrance n'est pas restitué à son ou sa titulaire mais versé au fonds de la faune.
 
-<sup>5</sup> Les marques de contrôle inutilisées doivent être restituées à la préfecture qui les a délivrées, le 1<sup>er</sup> mars suivant au plus tard.
+<sup>5</sup> Les marques de contrôle inutilisées doivent être restituées à la préfecture qui les a délivrées, le 15 mars suivant au plus tard.
 
 #### Art. 77
 
@@ -1166,7 +1173,7 @@ Arrête:
 
 **Contraventions**
 
-<sup>1</sup> Constituent des contraventions, au sens de l'article 54 al. 1 let. b et al. 3 LCha, les infractions aux dispositions suivantes de la présente ordonnance: articles 22 à 25, 27 à 29, 31 al. 2 et 2a, 32 à 34, 36, 37, 41, 42 al. 1 à 4, 43 al. 4, 45 à 47, 64 al. 4, 65 al. 3 et 4, 66, 70 al. 1 et 2, 75, 76 al. 1 à 4, 77 al. 2, 78 et 79.
+<sup>1</sup> Constituent des contraventions, au sens de l'article 54 al. 1 let. b et al. 3 LCha, les infractions aux dispositions suivantes de la présente ordonnance: articles 22 à 25, 27 à 29, 31 al. 2 et 2a, 32 à 34, 36, 37, 41, 42 al. 1 à 4, 43 al. 4, 45 à 47, 64 al. 4, 65 al. 3 et 4, 66, 75, 76 al. 1 à 4, 77 al. 2, 78 et 79.
 
 <sup>2</sup> Les infractions à la présente ordonnance que la législation cantonale sur les amendes d'ordre sanctionne par l'amende d'ordre demeurent réservées.
 
@@ -1194,7 +1201,7 @@ Arrête:
 
 **Disposition transitoire relative à la modification du 28 juin 2022**
 
-<sup>1</sup> L'utilisation des munitions contenant du plomb au sens des articles 34 al. 3 et 35 al. 3 est autorisée pour la chasse jusqu'à la saison 2026-2027, à l'exception de la chasse aux oiseaux d'eau.
+<sup>1</sup> L'utilisation des munitions contenant du plomb au sens des articles 34 al. 3 et 35 al. 3 est autorisée pour la chasse jusqu'au 1<sup>er</sup> janvier 2030, à l'exception de la chasse aux oiseaux d'eau.
 
 #### Art. 89
 
@@ -1229,5 +1236,17 @@ Arrête:
 **Entrée en vigueur**
 
 <sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> juillet 2016.
+
+**Approbation fédérale**
+
+—
+
+L'article 43 al. 8 de la présente ordonnance a été
+
+approuvé par le Département fédéral de l'environnement, des transports, de
+
+l'énergie et de la communication (DETEC) le 9 septembre 2025.
+
+([ROF INFO 2025-38](https://bdlf.fr.ch/app/fr/change_documents/5650)).
 
 2016\_085

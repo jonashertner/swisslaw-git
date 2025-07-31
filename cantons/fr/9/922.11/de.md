@@ -4,13 +4,12 @@ number: "922.11"
 title: Jagdverordnung
 short: JaV
 language: de
-version: 2024-07-01
-valid_until: 2025-07-31
-version_adopted: 2024-06-18
+version: 2025-08-01
+version_adopted: 2025-07-04
 adopted: 2016-06-06
 in_force: 2016-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/922.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/8030/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8258/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Jagdverordnung
 
 (JaV)
 
-vom 06.06.2016 (Fassung in Kraft getreten am 01.07.2024)
+vom 06.06.2016 (Fassung in Kraft getreten am 01.08.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -217,7 +216,7 @@ beschliesst:
 
 **Grundsatz**
 
-<sup>1</sup> Wer ein allgemeines Jagdpatent erlangen will, muss innerhalb der 12 Monate vor der Ausstellung des Patents die obligatorische Schiessprüfung absolviert haben.
+<sup>1</sup> Wer ein allgemeines Jagdpatent erlangen will, muss im Jahr der Ausstellung des Patents die obligatorische Schiessprüfung absolviert haben.
 
 <sup>2</sup> Absatz 1 gilt nicht für den Bezug eines allgemeinen Jagdpatents ohne Berechtigung zum Tragen einer Waffe.
 
@@ -352,7 +351,7 @@ beschliesst:
 - e) in den Gebäuden, Gärten, Parks und Baumschulen ausserhalb des Waldes, ausser mit Zustimmung der Eigentümerin oder des Eigentümers oder der Bewirtschafterin oder des Bewirtschafters;
 - f) in den Rebbergen und Obstgärten vor Abschluss der Ernte;
 - g) auf den Rückhaltebecken der Autobahn;
-- h) auf den Teichen der Golfplätze, ausser mit der Zustimmung der Eigentümerin oder des Eigentümers oder der Betreiberin oder des Betreibers.
+- h) auf den Teichen der Golfplätze, ausser mit der Zustimmung der Eigentümerin oder des Eigentümers oder der Betreiberin oder des Betreibers;
 - i) in einem Umkreis von weniger als 200 m ab den Enden von Wildtierüberführungen.
 
 <sup>2</sup> Wo Personen oder Haustiere gefährdet werden können oder Schäden an Gütern Dritter möglich sind, ist jegliches Schiessen verboten, insbesondere:
@@ -440,7 +439,8 @@ beschliesst:
 - c) die Verfolgung der Spur eines jagdbaren Tiers ausserhalb der Jagdzeiten;
 - d) die Verwendung von künstlichen Mitteln zur Vertreibung oder Anlockung von Tieren, mit Ausnahme von künstlichen Lockvögeln (aus Kunststoff oder anderen Stoffen), die entweder Enten, für die Jagd auf Wasservögel, oder aber Krähen oder Hütten-Nachtgreifvögel für die Jagd auf die Rabenkrähen darstellen;
 - e) die Verwendung von Knallkörpern oder die Abgabe von Schüssen zur Vertreibung der Tiere;
-- f) das Ausgraben von Tieren, mit Ausnahme für die Nachsuche der Hunde; das Ausgraben darf aber nur mit Zustimmung der Grundeigentümerin oder des Grundeigentümers oder der Bewirtschafterin oder des Bewirtschafters erfolgen.
+- f) das Ausgraben von Tieren, mit Ausnahme für die Nachsuche der Hunde; das Ausgraben darf aber nur mit Zustimmung der Grundeigentümerin oder des Grundeigentümers oder der Bewirtschafterin oder des Bewirtschafters erfolgen;
+- g) die Verwendung von Kugelpatronen bei der Vogeljagd.
 
 <sup>2</sup> Die Verwendung von künstlichen Lichtquellen, Nachtsichtgeräten, Tonwiedergabegeräten oder anderen elektronischen Hilfsmitteln ist verboten.
 
@@ -607,6 +607,10 @@ beschliesst:
 
 <sup>7</sup> Die Baujagd mit mehr als einem Hund pro Bau ist verboten.
 
+<sup>8</sup> Wenn eine mehr als 15 cm dicke Schneedecke den Boden bedeckt, ist es verboten, Hunde frei laufen zu lassen; sie müssen unbedingt an der Leine gehalten werden[^43-1].
+
+[^43-1]: Dieser Absatz bedarf der Genehmigung durch die zuständige Bundesbehörde und tritt erst mit der Veröffentlichung der Genehmigung am 19.09.2025 in Kraft.
+
 #### Art. 44
 
 **Jagdhunde – Von einem Hund verletzte oder getötete Tiere**
@@ -645,7 +649,7 @@ beschliesst:
 
 <sup>1</sup> Die Schweisshundeführerinnen oder -führer dürfen die für Jägerinnen und Jäger gesperrten Strassen und Wege befahren:
 
-- a) um am Tag vor der Eröffnung der Jagd zur Hütte zu fahren, in der sie vorübergehend wohnen;
+- a) in den Gebirgsgegenden, um am Tag vor der Eröffnung der Jagd zur Hütte zu fahren, in der sie vorübergehend wohnen;
 - b) wenn sie mit ihrem Hund im Einsatz sind;
 - c) wenn sie die Hütte endgültig verlassen und zu ihrem Wohnort zurückkehren.
 
@@ -837,7 +841,7 @@ beschliesst:
 
 <sup>1</sup> Das Patent C berechtigt die Inhaberin oder den Inhaber, in den für die Jagd offenen Gebieten (Gebirge und Flachland) den Hirsch (mit Ausnahme der führenden Hirschkuh) zu erlegen.
 
-<sup>2</sup> Der Hirsch darf während des Zeitraums gemäss der jährlichen Verordnung über die Planung der Jagd (Art. 56) gejagt werden, der zwischen dem 1. Oktober und 30. November liegen muss.
+<sup>2</sup> Der Hirsch darf während des Zeitraums gemäss der jährlichen Verordnung über die Planung der Jagd (Art. 56) gejagt werden, der zwischen dem Montag nach dem eidgenössischen Buss- und Bettag und dem 15. Dezember liegen muss.
 
 <sup>3</sup> Jägerinnen und Jäger, die einen Hirsch erlegen, müssen folgende Zusatztaxen, die vom Amt einkassiert werden, entrichten:
 
@@ -938,7 +942,8 @@ beschliesst:
 - a) Waldschnepfen, vom 1. November bis 14. Dezember; es ist verboten, mehr als zwei Schnepfen pro Tag zu erlegen (maximal zehn während der gesamten Jagdsaison);
   - 1\. …
   - 2\. …
-- b) Stockenten, Krickenten und Kormorane, vom Montag des eidgenössischen Buss- und Bettages bis zum 31. Januar.
+- b) Stockenten und Krickenten, vom Montag des eidgenössischen Buss- und Bettages bis zum 31. Januar;
+- c) Kormorane, vom 1. September bis Ende Februar.
 
 <sup>2</sup> Wasserwild darf erlegt werden:
 
@@ -977,17 +982,19 @@ beschliesst:
 
 <sup>1</sup> Jedes beschossene Tier muss nachgesucht werden.
 
-<sup>2</sup> Jägerinnen und Jäger, die ein verletztes Tier suchen, das in ein Gebiet geflüchtet ist, wo nicht gejagt werden darf, müssen ihm nachfolgen, nachdem sie Zustimmung der Wildhüterin-Fischereiaufseherin oder des Wildhüters-Fischereiaufsehers eingeholt haben.
+<sup>2</sup> …
 
 <sup>3</sup> Liegt das beschossene Tier nicht im Feuer, so muss die Jägerin oder der Jäger:
 
 - a) sofort nach dem Schuss ihren oder seinen Standort, den Standort des Tiers und dessen Fluchtrichtung deutlich kennzeichnen;
 - b) eine Schweisshundeführerin oder einen Schweisshundeführer beiziehen;
-- c) wenn die Nachsuche ergebnislos bleibt, gleichentags, sobald sie oder er den Standort verlässt, die Wildhüterin-Fischereiaufseherin oder den Wildhüter-Fischereiaufseher der Region, während der Jagdzeiten, aber spätestens innerhalb von vier Stunden nach dem Schuss, informieren.
+- c) für eine Suche an einem Ort, wo nicht gejagt werden darf, zuvor die Zustimmung der Wildhüterin-Fischereiaufseherin oder des Wildhüters-Fischereiaufsehers einholen.
 
 <sup>3<sup>bis</sup></sup> …
 
 <sup>4</sup> …
+
+<sup>5</sup> Wenn die Nachsuche ergebnislos bleibt, muss die Jägerin oder der Jäger während der Jagdzeiten, spätestens jedoch innerhalb von vier Stunden nach der Schussabgabe, die Wildhüterin-Fischereiaufseherin oder den Wildhüter-Fischereiaufseher der Region informieren, sobald sie oder er den Standort verlässt.
 
 #### Art. 71
 
@@ -1021,7 +1028,7 @@ beschliesst:
 
 **Kontroll- und Statistikheft**
 
-<sup>1</sup> Die Jägerin oder der Jäger muss noch im Jagdgebiet und bevor sie oder er ein Tier irgendeiner Art verschiebt, die Tierart sowie den Abschusstag und den Wildsektor, in dem das Tier erlegt wurde, in ihrem oder seinem Kontroll- und Statistikheft unauslöschlich eintragen.
+<sup>1</sup> Die Jägerin oder der Jäger muss noch im Jagdgebiet und bevor sie oder er ein Tier irgendeiner Art verschiebt, den Code der Kategorie, den Abschusstag sowie den Ortsnamen und den Wildsektor, in dem das Tier erlegt wurde, in ihrem oder seinem Kontroll- und Statistikheft unauslöschlich eintragen.
 
 #### Art. 75
 
@@ -1040,15 +1047,15 @@ beschliesst:
 
 **Vorweisung, Änderung, Verlust und Rückgabe der Unterlagen**
 
-<sup>1</sup> Die zur Ausübung der Jagd berechtigten Personen müssen auf Verlangen einer Wildhüterin-Fischereiaufseherin oder eines Wildhüters-Fischereiaufsehers jederzeit die erlegten Tiere, das Jagdpatent, die Kontrollmarken, das Kontroll- und Statistikheft und gegebenenfalls das ausgefüllte Kontrollformular für das erlegte Tier vorweisen.
+<sup>1</sup> Die zur Ausübung der Jagd berechtigten Personen müssen auf Verlangen einer Beamtin oder eines Beamten der Wildhut jederzeit die erlegten Tiere, das Jagdpatent, die Kontrollmarken, das Kontroll- und Statistikheft und gegebenenfalls das ausgefüllte Kontrollformular für das erlegte Tier vorweisen.
 
 <sup>2</sup> Es ist verboten, die Kontrollmarken oder das Kontroll- und Statistikheft in irgendeiner Weise zu ändern oder Kopien davon zu verwenden.
 
 <sup>3</sup> Im Falle eines Verlusts werden die Kontrollmarken und die Hefte gegen Bezahlung einer Verwaltungsgebühr von 10 Franken für jede Marke und 50 Franken für jedes Heft vom Amt ersetzt.
 
-<sup>4</sup> Das Kontroll- und Statistikheft muss spätestens am folgenden 1. März dem Oberamt zurückgegeben werden, von dem es ausgestellt wurde. Wird das Kontroll- und Statistikheft nicht fristgerecht zurückgegeben oder enthält es offensichtlich unvollständige oder falsche Angaben, so wird das bei der Ausstellung entrichtete Depotgeld der Inhaberin oder dem Inhaber nicht zurückerstattet, sondern dem Fonds für das Wild überwiesen.
+<sup>4</sup> Das Kontroll- und Statistikheft muss spätestens am folgenden 15. März dem Oberamt zurückgegeben werden, von dem es ausgestellt wurde. Wird das Kontroll- und Statistikheft nicht fristgerecht zurückgegeben oder enthält es offensichtlich unvollständige oder falsche Angaben, so wird das bei der Ausstellung entrichtete Depotgeld der Inhaberin oder dem Inhaber nicht zurückerstattet, sondern dem Fonds für das Wild überwiesen.
 
-<sup>5</sup> Nicht gebrauchte Kontrollmarken müssen spätestens am folgenden 1. März dem Oberamt zurückgegeben werden, das sie ausgehändigt hat.
+<sup>5</sup> Nicht gebrauchte Kontrollmarken müssen spätestens am folgenden 15. März dem Oberamt zurückgegeben werden, das sie ausgehändigt hat.
 
 #### Art. 77
 
@@ -1166,7 +1173,7 @@ beschliesst:
 
 **Übertretungen**
 
-<sup>1</sup> Als Übertretungen im Sinne von Artikel 54 Abs. 1 Bst. b und Abs. 3 JaG gelten Widerhandlungen gegen die Bestimmungen folgender Artikel dieser Verordnung: Artikel 22–25, 27–29, 31 Abs. 2 und 2a, 32–34, 36, 37, 41, 42 Abs. 1–4, 43 Abs. 4, 45–47, 64 Abs. 4, 65 Abs. 3 und 4, 66, 70 Abs. 1 und 2, 75, 76 Abs. 1–4, 77 Abs. 2, 78 und 79.
+<sup>1</sup> Als Übertretungen im Sinne von Artikel 54 Abs. 1 Bst. b und Abs. 3 JaG gelten Widerhandlungen gegen die Bestimmungen folgender Artikel dieser Verordnung: Artikel 22–25, 27–29, 31 Abs. 2 und 2a, 32–34, 36, 37, 41, 42 Abs. 1–4, 43 Abs. 4, 45–47, 64 Abs. 4, 65 Abs. 3 und 4, 66, 75, 76 Abs. 1–4, 77 Abs. 2, 78 und 79.
 
 <sup>2</sup> Widerhandlungen gegen diese Verordnung, die gemäss kantonaler Ordnungsbussengesetzgebung mit Ordnungsbusse bestraft werden, bleiben vorbehalten.
 
@@ -1194,7 +1201,7 @@ beschliesst:
 
 **Übergangsbestimmung zur Änderung vom 28. Juni 2022.**
 
-<sup>1</sup> Die Verwendung von bleihaltiger Munition im Sinne der Artikel 34 Abs. 3 und 35 Abs. 3 ist für die Jagd bis zur Saison 2026-2027 erlaubt, mit Ausnahme der Jagd auf Wasservögel.
+<sup>1</sup> Die Verwendung von bleihaltiger Munition im Sinne der Artikel 34 Abs. 3 und 35 Abs. 3 ist für die Jagd bis 1. Januar 2030 erlaubt, mit Ausnahme der Jagd auf Wasservögel.
 
 #### Art. 89
 
@@ -1229,5 +1236,15 @@ beschliesst:
 **Inkrafttreten**
 
 <sup>1</sup> Diese Verordnung tritt am 1. Juli 2016 in Kraft.
+
+**Genehmigung durch den Bund**
+
+—
+
+Der Artikel 43 Abs. 8 dieser Verordnung wurde am
+
+\19. September 2025 vom das Eidgenössische Departement für Umwelt, Verkehr,
+
+Energie und Kommunikation (UVEK) genehmigt ([ASF INFO 2025-38](https://bdlf.fr.ch/app/de/change_documents/5650)).
 
 2016\_085
