@@ -4,13 +4,12 @@ number: 516a
 title: Studienreglement über die Ausbildung der Pädagogischen Hochschule Luzern
 short: PH-Ausbildungsreglement
 language: de
-version: 2023-08-01
-valid_until: 2025-07-31
-version_adopted: 2023-04-27
+version: 2025-08-01
+version_adopted: 2025-05-22
 adopted: 2013-09-20
 in_force: 2013-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/516a"
-pdf: "https://srl.lu.ch/api/de/versions/4114/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4511/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4114/pdf_file"
 
 (PH-Ausbildungsreglement)
 
-vom 20.09.2013 (Stand 01.08.2023)
+vom 20.09.2013 (Stand 01.08.2025)
 
 Der Rektor der Pädagogischen Hochschule Luzern,
 
@@ -129,10 +128,12 @@ beschliesst:
 
 - a. einen universitären Lizentiats-, Master-, oder Bachelorabschluss in der entsprechenden Studienrichtung sowie fachwissenschaftliche und fachdidaktische Studienleistungen im Umfang von mindestens 60 ECTS-Punkten im Fach der entsprechenden Studienrichtung oder
 - b. bei Bewerberinnen und Bewerbern, welche einen Bachelorabschluss in Primary Education oder in Secondary Education oder einen universitären Bachelorabschluss in Erziehungswissenschaften vorweisen:
-  - 1\. für die Studienrichtung Geschichtsdidaktik und öffentliche Geschichtsvermittlung fachwissenschaftliche und fachdidaktische Studienleistungen im Umfang von mindestens 36 ECTS-Punkten im Fach der entsprechenden Studienrichtung oder
+  - 1\. für die Studienrichtung Geschichtsdidaktik und Public History fachwissenschaftliche und fachdidaktische Studienleistungen im Umfang von mindestens 36 ECTS-Punkten im Fach der entsprechenden Studienrichtung.
   - 2\. …
 
 <sup>2</sup> Bewerberinnen und Bewerber ohne Abschluss gemäss Absatz 1 können aufgenommen werden, wenn sie einen gleichwertigen und anerkannten Abschluss vorweisen.
+
+<sup>3</sup> Führt die PH Luzern den Studiengang Fachdidaktik in Kooperation mit anderen anerkannten Hochschulen durch, können deren Aufnahmevoraussetzungen als anwendbar erklärt werden.
 
 #### Art. 8
 
@@ -231,7 +232,7 @@ beschliesst:
 - a. der ungerundete Durchschnitt der Noten aller Fachbereiche mindestens 4,0 beträgt,
 - b. höchstens zwei Noten der Fachbereiche unter 4,0 liegen,
 - c. die Summe der Notenabweichungen aller Fachbereiche von 4,0 nach unten nicht mehr als 1 Punkt beträgt,
-- d. die Fachbereiche Deutsch und Französisch oder Englisch je mit mindestens der Note 4,0 bewertet wurden und
+- d. der Fachbereich Deutsch mit mindestens der Note 4,0 bewertet wurde und
 - e. die Vertiefungsarbeit im erweiterten Aufnahmeverfahren für die Sekundarstufe I mit mindestens der Note 4,0 bewertet wurde.
 
 <sup>1<sup>bis</sup></sup> Die Aufnahmeprüfung «sur dossier» ist bestanden, wenn das Bewerbungsdossier, die Einzelarbeit und die Prüfungsgespräche mit «erfüllt» bewertet wurden.
@@ -261,7 +262,7 @@ beschliesst:
 
 <sup>2</sup> Die Regelstudiendauer beträgt für die Studiengänge Kindergarten/Unterstufe, Primarstufe und für das berufsbegleitende Studium im Studiengang Schulische Heilpädagogik je sechs Semester, für den Studiengang Sekundarstufe I neun Semester sowie für den Studiengang Sekundarstufe II - gymnasiale Bildung zwei Semester. Das Studium muss spätestens ein Jahr nach Ablauf der doppelten Regelstudiendauer beendet sein. Studierende, welche das Studium bis dahin nicht beendet haben, werden von der PH Luzern ausgeschlossen. Aus wichtigen Gründen kann eine Verlängerung des Studiums bewilligt werden.
 
-<sup>3</sup> Für den Studiengang Fachdidaktik beträgt die Regelstudiendauer in der Studienrichtung Geschichtsdidaktik und öffentliche Geschichtsvermittlung drei Semester und in der Studienrichtung Natur, Mensch, Gesellschaft und Nachhaltige Entwicklung vier Semester. Das Studium muss spätestens ein Jahr nach Ablauf der doppelten Regelstudiendauer beendet sein. Studierende, welche das Studium bis dahin nicht beendet haben, werden aus dem Studiengang ausgeschlossen. Aus wichtigen Gründen kann eine Verlängerung des Studiums bewilligt werden.
+<sup>3</sup> Für den Studiengang Fachdidaktik beträgt die Regelstudiendauer vier Semester. Das Studium muss spätestens ein Jahr nach Ablauf der doppelten Regelstudiendauer beendet sein. Studierende, welche das Studium bis dahin nicht beendet haben, werden aus dem Studiengang ausgeschlossen. Aus wichtigen Gründen kann eine Verlängerung des Studiums bewilligt werden.
 
 #### Art. 17
 
@@ -405,7 +406,7 @@ beschliesst:
 
 <sup>8</sup> Die Abschlussprüfung im Studiengang Schulische Heilpädagogik besteht aus
 
-- a. einer Prüfung in den Studienbereichen «Bildungs- und Sozialwissenschaften» oder «Fachwissenschaften und Fachdidaktiken»,
+- a. einer Prüfung in den Studienbereichen «Bildungs- und Sozialwissenschaften» und «Fachwissenschaften und Fachdidaktiken»,
 - b. …
 - c. einer Prüfung im Studienbereich «Berufsstudien» und
 - d. der Masterarbeit.
@@ -449,7 +450,7 @@ beschliesst:
 
 <sup>1<sup>quater</sup></sup> Die Erteilung des Diploms im Studiengang Fachdidaktik setzt voraus:
 
-- a. in der Studienrichtung Geschichtsdidaktik und öffentliche Geschichtsvermittlung: nachgewiesene fachwissenschaftliche und fachdidaktische Studienleistungen im Fach der entsprechenden Studienrichtung im Umfang von mindestens 60 ECTS-Punkten.
+- a. in der Studienrichtung Geschichtsdidaktik und Public History: nachgewiesene fachwissenschaftliche und fachdidaktische Studienleistungen im Fach der entsprechenden Studienrichtung im Umfang von mindestens 60 ECTS-Punkten.
 - b. in der Studienrichtung Natur, Mensch, Gesellschaft und Nachhaltige Entwicklung: nachgewiesene fachwissenschaftliche und fachdidaktische Studienleistungen im Fach der entsprechenden Studienrichtung im Umfang von mindestens 90 ECTS-Punkten.
 
 <sup>2</sup> Der Titel, der mit dem Diplom für EDK-anerkannte Studiengänge verliehen wird, richtet sich nach den massgebenden Anerkennungsreglementen und nach dem Titelreglement[^30-1] der EDK. Der Titel, der mit dem Diplom für die übrigen Studiengänge verliehen wird, wird in den Ausführungsbestimmungen festgelegt.
@@ -585,6 +586,14 @@ beschliesst:
 <sup>1</sup> Die Studiengangsleiterin oder der Studiengangsleiter ist befugt, die Disziplinarmassnahmen gemäss Artikel 40 Absatz 1a bis d zu erteilen.
 
 <sup>2</sup> Der Prorektorin oder dem Prorektor Ausbildung stehen alle Disziplinarkompetenzen zu.
+
+#### Art. 41a
+
+**Anwendbarkeit auf erweitertes Aufnahmeverfahren**
+
+<sup>1</sup> Die Bestimmungen zum Disziplinarwesen gelten sinngemäss für Bewerberinnen und Bewerber im erweiterten Aufnahmeverfahren.
+
+<sup>2</sup> Der Leiterin oder dem Leiter erweitertes Aufnahmeverfahren stehen die gleichen Disziplinarkompetenzen zu wie einer Studiengangsleiterin oder einem Studiengangsleiter.
 
 ## 6 Schlussbestimmungen
 
