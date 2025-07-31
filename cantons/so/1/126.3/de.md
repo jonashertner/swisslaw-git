@@ -4,13 +4,13 @@ number: "126.3"
 title: Gesamtarbeitsvertrag
 short: GAV
 language: de
-version: 2025-07-01
-valid_until: 2025-07-31
-version_adopted: 2024-12-17
+version: 2025-08-01
+valid_until: 2025-08-31
+version_adopted: 2025-07-01
 adopted: 2004-10-25
 in_force: 2005-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/126.3"
-pdf: "https://bgs.so.ch/api/de/versions/5543/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5557/pdf_file"
 text: pdf
 ---
 
@@ -18,7 +18,7 @@ text: pdf
 
 # Gesamtarbeitsvertrag (GAV)
 
-vom 25. Oktober 2004 (Stand 1. Juli 2025)
+vom 25. Oktober 2004 (Stand 1. August 2025)
 
 zwischen dem Kanton Solothurn vertreten durch den Regierungsrat
 
@@ -574,17 +574,22 @@ Das Anstellungsverhältnis endet durch:
 
 <sup>1</sup> Während der Probezeit kann das Anstellungsverhältnis beidseitig jederzeit mit einer Kündigungsfrist von einem Monat gekündigt werden. Die Anstellungsbehörde hat die Kündigung zu begründen.
 
-<sup>2</sup> Die Frist für die Kündigung des Anstellungsverhältnisses nach Ablauf der Probezeit beträgt beidseitig drei Monate. Vorbehalten bleibt Absatz 5.
+<sup>2</sup> Die Frist für die Kündigung des Anstellungsverhältnisses nach Ablauf der
+
+### Probezeit beträgt beidseitig drei Monate. Vorbehalten bleiben Absatz 5
+
+und 8.[^hProbezeitbeträgtbe-1]
 
 <sup>3</sup> Bei befristeten Anstellungsverhältnissen bis zu einem Jahr beträgt die Kündigungsfrist beidseitig einen Monat.
 
 <sup>4</sup> Bei einer Kündigung gemäss § 42 Absatz 4 Buchstabe a und d beträgt die
 
-[^41-1]: § 41 Absatz 4 Fassung vom 25. Juni 2018.
+[^hProbezeitbeträgtbe-1]: § 41 Absatz 2 Fassung vom 1. Juli 2025.
+[^hProbezeitbeträgtbe-2]: § 41 Absatz 4 Fassung vom 25. Juni 2018.
 
 ### Kündigungsfrist für den Arbeitgeber sechs Monate.
 
-[^41-1]
+[^hProbezeitbeträgtbe-2]
 
 <sup>5</sup> Im Anstellungsvertrag kann eine längere Kündigungsfrist vereinbart werden. Sie darf sechs Monate nicht übersteigen.
 
@@ -594,7 +599,12 @@ Das Anstellungsverhältnis endet durch:
 
 sionsfrist beträgt drei Monate.
 
-<sup>7</sup> Die Kündigung wird – mit Ausnahme der Kündigung während der Probezeit – auf Ende eines Monats ausgesprochen. Sie hat beiderseits schriftlich zu erfolgen.
+<sup>7</sup> Die Kündigung wird – mit Ausnahme der Kündigung während der Probezeit und mit Ausnahme von § 41 Absatz 8 GAV – auf Ende eines Monats ausgesprochen. Sie hat beiderseits schriftlich zu erfolgen.[^hAmtsperiodeausdem-1]
+
+<sup>8</sup> Im Falle von Mutterschaft kann die Arbeitnehmerin das Anstellungsverhältnis auf das Ende des Mutterschaftsurlaubs kündigen. Die Kündigungsfrist beträgt diesfalls zwei Monate.[^hAmtsperiodeausdem-2]
+
+[^hAmtsperiodeausdem-1]: § 41 Absatz 7 Fassung vom 1. Juli 2025.
+[^hAmtsperiodeausdem-2]: § 41 Absatz 8 eingefügt am 1. Juli 2025.
 
 #### § 42
 
@@ -706,13 +716,15 @@ verlängern, falls die Umstände dies rechtfertigen.
 
 <sup>4</sup> Zuständig zur Auflösung ist:
 
-- a) der Kantonsrat gegenüber Mitgliedern des Regierungsrates oder der letztinstanzlichen kantonalen Gerichte, gegenüber dem Staatsschreiber oder der Staatsschreiberin sowie gegenüber dem Ratssekretär oder der Ratssekretärin;
+- a) der Kantonsrat gegenüber Mitgliedern des Regierungsrates oder der letztinstanzlichen kantonalen Gerichte sowie gegenüber dem Ratssekretär; oder der Ratssekretärin;[^hAnstellungsbehörded-1]
 
 - b) der Regierungsrat gegenüber allen übrigen Arbeitnehmenden; er kann diese Kompetenz an die Anstellungsbehörde delegieren;
 
 - c) die kommunale Anstellungsbehörde gegenüber ihren Arbeitnehmenden, die dem GAV unterstehen.
 
 <sup>5</sup> Die Rechtsfolgen der ungerechtfertigten fristlosen Auflösung richten sich nach § 52 GAV.
+
+[^hAnstellungsbehörded-1]: § 46 Absatz 4 Buchstabe a Fassung vom 17. Dezember 2024.
 
 #### § 47
 
@@ -811,7 +823,9 @@ des Beamtenverhältnisses (§ 33 StPG)
 
 <sup>1</sup> Wird eine Stelle aufgehoben und kann kein anderer Arbeitsbereich zugewiesen werden oder wird das Anstellungsverhältnis eines Beamten oder einer Beamtin nicht erneuert, kann der Regierungsrat eine Abgangsentschädigung von höchstens einem Jahreslohn zusprechen, die in der Regel wie folgt bestimmt wird:
 
-- a) Die Abgangsentschädigung entspricht nach fünf Dienstjahren einem Monatslohn. Für jedes zusätzliche Dienstjahr wird die Abgangsentschädigung um einen Monatslohn erhöht. Die Zahl der Dienstjahre entspricht der Anstellungsdauer. Bei der Berechnung der Dienstjahre werden Zeiten nicht mitgerechnet, während denen das Anstellungsverhältnis mehr als 3 Monate mit unbezahltem Urlaub unterbrochen war.
+**a)**
+
+Die Abgangsentschädigung entspricht nach fünf Dienstjahren einem Monatslohn. Für jedes zusätzliche Dienstjahr wird die Abgangsentschädigung um einen Monatslohn erhöht. Die Zahl der Dienstjahre entspricht der Anstellungsdauer. Bei der Berechnung der Dienstjahre werden Zeiten nicht mitgerechnet, während denen das Anstellungsverhältnis mehr als 3 Monate mit unbezahltem Urlaub unterbrochen war.
 
 - b) Unterbricht ein Vater oder eine Mutter wegen der Kindererziehung die Anstellung beim Arbeitgeber, werden die Jahre der Kinderbetreuung bis zum vollendeten sechsten Altersjahr ganz und bis zum vollendeten zehnten Altersjahr zur Hälfte als Dienstjahre angerechnet. Es können höchstens zehn Dienstjahre angerechnet werden.
 
@@ -1554,7 +1568,9 @@ Arbeitsfreie Tage, welche in die Ferien fallen, dürfen nachbezogen werden, wenn
 
 <sup>1</sup> Urlaube bewilligt der Amtschef oder die Amtschefin.
 
-<sup>2</sup> Der Amtschef oder die Amtschefin führt eine Urlaubskontrolle. 3.1. Bezahlter Urlaub
+<sup>2</sup> Der Amtschef oder die Amtschefin führt eine Urlaubskontrolle.
+
+3.1. Bezahlter Urlaub
 
 #### § 114
 
@@ -2220,7 +2236,9 @@ Die Entschädigung für die Gesprächstaxen wird mit besonderem Formular geltend
 
 167<sup>quinquies</sup>. Entschädigungspflicht
 
-<sup>1</sup> Die Entschädigung für Privatfahrten mit persönlich zugeteilten Fahrzeugen beträgt pro Kilometer 45 Rappen. Für die privaten Fahrten ist zudem auf eigene Kosten eine Vollkaskoversicherung abzuschliessen.
+<sup>1</sup> Für Privatfahrten mit persönlich zugeteilten Fahrzeugen haben Mitarbeitende eine Entschädigung zu entrichten. Bei Erhalt des Fahrzeugs können sie zwischen den folgenden zwei Möglichkeiten wählen:[^167-4] a) effektive Entschädigung von 45 Rappen pro gefahrenen Kilometer;[^167-2] b) monatlicher Pauschalbetrag, welcher basierend auf dem Kaufpreises Fahrzeuges (exklusive Mehrwertsteuer und exklusive allfälliger im Kaufpreis inbegriffener, vom Lieferanten separat auszuweisender Service- und Unterhaltsleistungen) und gemäss den Bestimmungen der Verordnung des EFD über den Abzug der Berufskosten unselbstständig Erwerbstätiger bei der direkten Bundessteuer (SR 642.118.1) in ihrer jeweils aktuellen Fassung berechnet wird.[^167-5]
+
+<sup>1bis</sup> Die Kosten für Versicherungen (ausgenommen die Kosten der Vollkaskoversicherung gemäss Abs. 3), Betriebs- und Servicearbeiten, neue Bereifungen etc. sowie für Treibstoff/Strom sind in der Entschädigung inbegriffen. Die Mitarbeitenden haben den Treibstoff/Strom für Privatfahrten während Ferien sowie während zusammenhängender Urlaubs- und Kompensationstage selbst zu bezahlen.[^167-6] 1<sup>ter</sup> Für die privaten Fahrten haben Mitarbeitende auf eigene Kosten eine Vollkaskoversicherung abzuschliessen.[^167-7]
 
 <sup>2</sup> Die Entschädigung für Privatfahrten mit Poolfahrzeugen beträgt pro Kilometer 60 Rappen. Die Kosten für Schäden auf privaten Fahrten sowie allfällige Selbstbehalte bei Beanspruchung der vom Kanton abgeschlossenen Haftpflichtversicherung hat der Fahrzeugführer oder die Fahrzeugführerin voll zu übernehmen.
 
@@ -2235,8 +2253,12 @@ Die Entschädigung für die Gesprächstaxen wird mit besonderem Formular geltend
 3.1. Bezahlter Urlaub
 
 [^167-1]: Kapitel 2.4. §§ 167bis-167sexies eingefügt am 12. März 2007.
-[^167-2]: § 164 Absatz 1 Fassung vom 24. Oktober 2022.
+[^167-2]: § 167quinquies Absatz 1 Buchstabe a eingefügt am 1. Juli 2025.
 [^167-3]: § 167ter Absatz 4 eingefügt am 30. August 2022.
+[^167-4]: § 167quinquies Absatz 1 Fassung vom 1. Juli 2025.
+[^167-5]: § 167quinquies Absatz 1 Buchstabe b eingefügt am 1. Juli 2025.
+[^167-6]: § 167quinquies Absatz 1bis eingefügt am 1. Juli 2025.
+[^167-7]: § 167quinquies Absatz 1ter eingefügt am 1. Juli 2025.
 
 #### § 168
 
@@ -2569,13 +2591,13 @@ satzgesetz, EOG, SR 834.1) geltend machen.[^hAbsatz1Buchstabeb-1]
 
 <sup>2ter</sup> Bei Hospitalisierung des Neugeborenen verlängert sich der Mutterschaftsurlaub um die verlängerte Dauer der Ausrichtung der Mutterschaftsentschädigung.[^hAbsatz1Buchstabeb-2]
 
-<sup>3</sup> Der Anspruch auf bezahlten Mutterschaftsurlaub erlischt in jedem Fall am Ende des Anstellungsverhältnisses.
+<sup>3</sup> Der Anspruch auf bezahlten Mutterschaftsurlaub erlischt in jedem Fall am Ende des Anstellungsverhältnisses. Befristete Anstellungsverhältnisse von Arbeitnehmerinnen, welche sich im Zeitpunkt des Ablaufs der Befristung im Mutterschaftsurlaub befinden, verlängern sich bis zum Ende des Mutterschafsurlaubs.[^hAbsatz1Buchstabeb-3]
 
 <sup>4</sup> Bei wechselndem Beschäftigungsgrad (Stundenlohn) richtet sich der Lohn während des Urlaubs nach dem Durchschnittslohn in den 12 Monaten vor Beginn des Urlaubs.
 
 <sup>5</sup> Wechselt die Arbeitnehmende während des Mutterschaftsurlaubs die Stelle, so dauert dieser an, sofern der Stellenwechsel ohne Unterbruch und innerhalb des Geltungsbereichs dieses GAV stattfindet.
 
-§ 190<sup>bis</sup>.[^hAbsatz1Buchstabeb-3] Anspruch bei Vaterschaft
+§ 190<sup>bis</sup>.[^hAbsatz1Buchstabeb-4] Anspruch bei Vaterschaft
 
 <sup>1</sup> Der rechtliche Vater hat Anspruch auf einen bezahlten Vaterschaftsurlaub von 10 Arbeitstagen.
 
@@ -2583,12 +2605,13 @@ satzgesetz, EOG, SR 834.1) geltend machen.[^hAbsatz1Buchstabeb-1]
 
 [^hAbsatz1Buchstabeb-1]: § 190 Absatz 2bis Fassung vom 26. September 2023.
 [^hAbsatz1Buchstabeb-2]: § 190 Absatz 2ter eingefügt am 26. September 2023.
-[^hAbsatz1Buchstabeb-3]: § 190bis eingefügt am 15. Dezember 2020.
-[^hAbsatz1Buchstabeb-4]: § 190bis Absatz 2 Fassung vom 26. September 2023.
+[^hAbsatz1Buchstabeb-3]: § 190 Absatz 3 Fassung vom 1. Juli 2025.
+[^hAbsatz1Buchstabeb-4]: § 190bis eingefügt am 15. Dezember 2020.
+[^hAbsatz1Buchstabeb-5]: § 190bis Absatz 2 Fassung vom 26. September 2023.
 
 ### EOG, SR 834.1) geltend machen.
 
-[^hAbsatz1Buchstabeb-4]
+[^hAbsatz1Buchstabeb-5]
 
 <sup>3</sup> Der Anspruch auf bezahlten Vaterschaftsurlaub endet:
 
@@ -4830,7 +4853,7 @@ Vertrag begründet.
 
 <sup>1</sup> Die Kündigung ist grundsätzlich nur auf Ende eines Schuljahres möglich. Erfolgt die Kündigung infolge Pensionierung, kann sie auch auf Ende eines Schulhalbjahres erklärt werden.
 
-<sup>1bis</sup> Im Fall von Mutterschaft ist die Kündigung auf das Ende des Mutterschaftsurlaubs möglich.
+<sup>1bis</sup> …[^339-1]
 
 <sup>2</sup> Liegen wichtige Gründe vor, kann die Anstellungsbehörde einer Lehrperson die Kündigung auch auf einen anderen Zeitpunkt gestatten.
 
@@ -4840,7 +4863,10 @@ Vertrag begründet.
 
 - b) vier Monate vor Ende eines Schuljahres, wenn das Anstellungsverhältnis für mehr als ein Jahr eingegangen ist.
 
-- c) zwei Monate vor Ende des Mutterschaftsurlaubes.
+- c) …[^339-2]
+
+[^339-1]: § 339 Absatz 1bis aufgehoben am 1. Juli 2025.
+[^339-2]: § 339 Absatz 3 Buchstabe c aufgehoben am 1. Juli 2025.
 
 ### E. Inhalt des Anstellungsverhältnisses
 
@@ -5421,6 +5447,12 @@ Altrechtliche Diplome in Logopädie
 
 Lehrbeauf- Hochschuldiplom oder kantonales Kindergärtne- 15 tragte rinnendiplom Hochschulstudium ohne Abschluss oder Studie- 12 rende Berufsausbildung oder Maturität
 
+**12**
+
+**9**
+
+**4 …3)**
+
 **9**
 
 \*Altrechtliche Diplome bzw. Patente, die formal als Teiläquivalent (Voraussetzung für die Verwendung des geschützten Titels), jedoch nicht als akademisches Äquivalent gelten.
@@ -5438,35 +5470,29 @@ Lehrbeauf- Hochschuldiplom oder kantonales Kindergärtne- 15 tragte rinnendiplom
 [^384-11]: EDK Rechtssammlung 4.2.2.3.
 [^384-12]: § 384 Absatz 5 Kategorie «Lehrbeauftragte» Fassung vom 4. Juli 2023.
 [^384-13]: EDK Rechtssammlung 4.2.2.5.
-[^384-14]: § 385 Fassung vom 20. Juni 2011.
+[^384-14]: § 385 Fassung vom 3. Dezember 2024.
 
 #### § 385
 
-**12**[^384-14]
+**Einreihung der Stellvertretenden**[^384-14]
 
-**9**
+<sup>1</sup> Stellvertretende werden wie Lehrpersonen beziehungsweise wie Lehrbeauftragte eingereiht.[^385-1] a) …[^385-2] b) …[^385-3] c) …[^385-4]
 
-**4 …3)**
+<sup>2</sup> …[^385-5]
 
-**Einreihung der Stellvertretenden**
+- a. …[^385-6]
 
-<sup>1</sup> Stellvertreterinnen und Stellvertreter in der Volksschule werden wie folgt entschädigt:[^385-1] a) Stellvertreterinnen und Stellvertreter, welche als Lehrpersonen oder Lehrbeauftragte bei der Anstellungsbehörde angestellt sind, werden für die Stellvertretungslektionen mit dem Grundlohn und dem Erfahrungszuschlag der ordentlichen Anstellung entschädigt.
-
-- b) Stellvertreterinnen und Stellvertreter, welche nicht als Lehrpersonen oder Lehrbeauftragte bei der Anstellungsbehörde angestellt sind, werden für die Stellvertretungslektionen nach einem altersabhängigen Tarifsystem entschädigt. Die Tarife werden vom Volksschulamt festgelegt (§ 5 Abs. 3 PRV).
-
-- c) Lehrpersonen und Lehrbeauftragte, welche nach Erreichen der Altersgrenze (§ 49 GAV) als Stellvertretende eingesetzt werden, werden für die Stellvertretungslektionen mit dem Grundlohn und dem Erfahrungszuschlag im Zeitpunkt, in welchem sie das 65. Altersjahrs vollendet hatten, entschädigt.
-
-<sup>2</sup> Hat eine Stellvertretung an der gleichen Stelle mindestens ein Schulhalbjahr oder 19 Schulwochen gedauert, so ist der stellvertretenden Person rückwirkend ab Beginn der Vertretung der Lohn auszurichten, der ihr als Lehrperson beziehungsweise Lehrbeauftragte oder Lehrbeauftragter zustünde.
-
-- a. …[^385-2]
-
-[^385-1]: § 385 Absatz 1 Fassung vom 20. November 2023.
-[^385-2]: Titel aufgehoben am 20. Juni 2011.
-[^385-3]: §§ 386 – 392 aufgehoben am 20. Juni 2011.
+[^385-1]: § 385 Absatz 1 Fassung vom 3. Dezember 2024.
+[^385-2]: § 385 Absatz 1 Buchstabe a aufgehoben am 3. Dezember 2024.
+[^385-3]: § 385 Absatz 1 Buchstabe b aufgehoben am 3. Dezember 2024
+[^385-4]: § 385 Absatz 1 Buchstabe c aufgehoben am 3. Dezember 2024.
+[^385-5]: § 385 Absatz 2 aufgehoben am 3. Dezember 2024.
+[^385-6]: Titel aufgehoben am 20. Juni 2011.
+[^385-7]: §§ 386 – 392 aufgehoben am 20. Juni 2011.
 
 #### §§ 386
 
-**– 392. ...[^385-3]**
+**– 392. ...[^385-7]**
 
 - b. …[^386-1]
 
@@ -5630,9 +5656,11 @@ Der Besondere Teil Mittelschule regelt die Abweichungen und Ergänzungen gegenü
 
 reichen.
 
-<sup>1bis</sup> Im Fall von Mutterschaft ist die Kündigung auf das Ende des Mutterschaftsurlaubs möglich. Die Kündigung ist spätestens zwei Monate vor Ende des Mutterschaftsurlaubes einzureichen.
+<sup>1bis</sup> …[^hKündigungistspätes-1]
 
 <sup>2</sup> Die Schulleitung kann bei Vorliegen wichtiger Gründe eine ausserordentliche Kündigung bewilligen.
+
+[^hKündigungistspätes-1]: § 405 Absatz 1bis aufgehoben am 1. Juli 2025.
 
 ### D. Inhalt des Anstellungsverhältnisses
 
@@ -6250,13 +6278,16 @@ Der Besondere Teil Berufsschule regelt die Abweichungen und Ergänzungen gegenü
 
 <sup>1</sup> Die Kündigung ist grundsätzlich nur auf Ende eines Schulhalbjahres möglich.
 
-<sup>1bis</sup> Im Fall von Mutterschaft ist die Kündigung auf das Ende des Mutterschaftsurlaubs möglich.
+<sup>1bis</sup> …[^hBerufsbildungGBB-1]
 
 <sup>2</sup> Liegen wichtige Gründe vor, kann die Kündigung auch auf einen andern Zeitpunkt erfolgen.
 
 <sup>3</sup> Die Kündigungsfrist beträgt vier Monate.
 
-<sup>4</sup> Die Kündigungsfrist im Fall von Absatz <sup>1bis</sup> Mutterschaft beträgt zwei Monate.
+<sup>4</sup> …[^hBerufsbildungGBB-2]
+
+[^hBerufsbildungGBB-1]: § 455 Absatz 1bis aufgehoben am 1. Juli 2025.
+[^hBerufsbildungGBB-2]: § 455 Absatz 4 aufgehoben am 1. Juli 2025.
 
 ### D. Inhalt des Anstellungsverhältnisses
 
@@ -7095,7 +7126,13 @@ Inkrafttreten GAV am 1. Januar 2005 (§ 21).[^520-1]
 
 - 1\. April 2025 am 1. Januar 2025;
 
-- 17\. Dezember 2024 (Die Änderungen von §§ 199, 239 und 329<sup>bis</sup> ) am 1. Juli 2025;
+- 3\. Dezember 2024 am 1. August 2025;
+
+- 17\. Dezember 2024 (§§ 199, 239 und 329<sup>bis</sup>) am 1. Juli 2025;
+
+(§ 46) am 1. August 2025;
+
+- 1\. Juli 2025 am 1. August 2025.
 
 [^520-1]: Titel XI aufgehoben am 8. Juni 2010.
 
