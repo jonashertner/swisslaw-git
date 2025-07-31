@@ -4,13 +4,12 @@ number: "131"
 title: Gesetz über die Organisation und die Geschäftsführung des Landrats
 short: Landratsgesetz
 language: de
-version: 2023-01-01
-valid_until: 2025-07-31
-version_adopted: 2022-06-30
+version: 2025-08-01
+version_adopted: 2025-03-27
 adopted: 1994-11-21
 in_force: 1995-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/131"
-pdf: "https://bl.clex.ch/api/de/versions/3452/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4303/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3452/pdf_file"
 
 (Landratsgesetz)
 
-Vom 21.11.1994 (Stand 01.01.2023)
+Vom 21.11.1994 (Stand 01.08.2025)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -781,9 +780,22 @@ beschliesst[^ingress-2]:
 
 <sup>2</sup> Der Landrat kann der Geschäftsprüfungskommission weitere Aufgaben übertragen.
 
-<sup>3</sup> Die Geschäftsprüfungskommission kann vom Regierungsrat, vom Kantonsgericht, von der Ombudsperson und von der Aufsichtsstelle Datenschutz besondere Berichte anfordern.
+<sup>3</sup> Die Geschäftsprüfungskommission:
 
-<sup>4</sup> Die Geschäftsprüfungskommission kann jederzeit von allen Behörden und Amtsstellen Auskünfte und Einsicht in die Akten verlangen.
+- a. kann vom Regierungsrat, vom Kantonsgericht, von der Landeskanzlei, von der Ombudsstelle, von der Finanzkontrolle und von der Aufsichtsstelle Datenschutz besondere Berichte anfordern;
+- b. kann direkt von allen Behörden und Amtsstellen mündliche oder schriftliche Auskünfte einholen sowie Akten einverlangen oder einsehen;
+- c. kann Personen, die bei Behörden nach Bst. a tätig sind, auch nach dem Ausscheiden aus dem Dienstverhältnis, befragen und von ihnen Informationen entgegennehmen sowie mündliche oder schriftliche Auskünfte einholen;
+- d. orientiert die Direktionsvorsteherin oder den Direktionsvorsteher, das Präsidium des Kantonsgerichts, die Landschreiberin oder den Landschreiber, die Ombudsperson, die Vorsteherin oder den Vorsteher der Finanzkontrolle oder die Leitung der Aufsichtsstelle Datenschutz rechtzeitig über ihre diesbezüglichen Tätigkeiten;
+- e. informiert die Betroffenen über ihre Rechte und Pflichten.
+
+<sup>3<sup>bis</sup></sup> Befragte Personen:
+
+- a. sind verpflichtet, der Geschäftsprüfungskommission über Wahrnehmungen, die sie in Ausübung ihrer Arbeit gemacht haben, vollständig Auskunft zu erteilen und ihr alle Akten zu nennen, die den Gegenstand der Untersuchung betreffen;
+- b. können auf Aussagen verzichten, die sie strafrechtlich belasten könnten;
+- c. dürfen aufgrund ihrer Äusserungen gegenüber der Geschäftsprüfungskommission keine Nachteile erleiden;
+- d. können sich von einer vorgesetzten Stelle zur Befragung durch die Geschäftsprüfungskommission begleiten lassen.
+
+<sup>4</sup> Führt die Geschäftsprüfungskommission Untersuchungen gemäss Abs. 1 Bst. c durch, so ist § 68 analog anwendbar.
 
 <sup>5</sup> Der Landrat legt die Mitgliederzahl in der Geschäftsordnung fest.
 
@@ -824,7 +836,7 @@ beschliesst[^ingress-2]:
 
 <sup>3</sup> Der Landrat kann der Finanzkommission weitere Aufgaben übertragen.
 
-<sup>4</sup> Die Finanzkommission kann jederzeit von allen Behörden und Amtsstellen Auskünfte und Einsicht in die Akten verlangen.
+<sup>4</sup> Die Finanzkommission hat die gleichen Auskunfts- und Einsichtsrechte wie die Geschäftsprüfungskommission (§ 61 Abst. 3, 3<sup>bis</sup> und 4).
 
 <sup>5</sup> Der Landrat legt die Mitgliederzahl in der Geschäftsordnung fest.
 
@@ -855,7 +867,7 @@ beschliesst[^ingress-2]:
 - d. Sachverständige beiziehen;
 - e. Augenscheine durchführen.
 
-<sup>3</sup> Die befragten Personen sind verpflichtet, der PUK über Wahrnehmungen, die sie kraft ihres Amts oder in Ausübung ihres Dienstes gemacht haben, vollständig Auskunft zu erteilen und ihr alle Akten zu nennen, die den Gegenstand der Untersuchung betreffen.
+<sup>3</sup> Die befragten Personen sind verpflichtet, der PUK über Wahrnehmungen, die sie kraft ihres Amts oder in Ausübung ihres Diensts gemacht haben, vollständig Auskunft zu erteilen und ihr alle Akten zu nennen, die den Gegenstand der Untersuchung betreffen. Ihnen dürfen aufgrund ihrer Äusserungen gegenüber der PUK keine Nachteile erwachsen.
 
 #### § 65
 
