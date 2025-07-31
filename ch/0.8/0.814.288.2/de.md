@@ -3,11 +3,11 @@ sr: "0.814.288.2"
 title: "Protokoll von 1978 zu den Internationalen Übereinkommen von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe, vom 17. Februar 1978 (mit Anlagen)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652"
 language: de
-version: 2024-11-20
+version: 2025-08-01
 adopted: 1978-02-17
 in_force: 1988-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652/20241120/de/xml/fedlex-data-admin-ch-eli-cc-1988-1652_1652_1652-20241120-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1652_1652_1652/20241120/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652/20250801/de/xml/fedlex-data-admin-ch-eli-cc-1988-1652_1652_1652-20250801-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1652_1652_1652/20250801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1988** 1652; BBl **1986** II 717
 
 Abgeschlossen in London am 17. Februar 1978 Von der Bundesversammlung genehmigt am 9. März 1987[^t-1] Schweizerische Beitrittsurkunde hinterlegt am 15. Dezember 1987 In Kraft getreten für die Schweiz am 15. März 1988
 
-(Stand am 20. November 2024)
+(Stand am 1. August 2025)
 
 [^t-1]: Art. 3 Bst. a des BB vom 17. Feb. 1978 ([AS 1988 1240](https://fedlex.data.admin.ch/eli/oc/1988/1240_1240_1240))
 
@@ -53,7 +53,7 @@ Die Vertragsparteien dieses Protokolls verpflichten sich, folgenden Bestimmungen
 
 <sup>3.</sup> Jede Bezugnahme auf dieses Protokoll stellt gleichzeitig eine Bezugnahme auf seine Anlage dar.
 
-[^I-1]: Diese Anlage und ihre Änderungen sind in der AS nicht veröffentlicht ([AS 1989 636](https://fedlex.data.admin.ch/eli/oc/1989/636_636_636); [1993 2522](https://fedlex.data.admin.ch/eli/oc/1993/2522_2522_2522); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618)). Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrts-Organisation (IMO): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx) eingesehen werden. Die französischen Texte sowie eine konsolidierte englische Version können beim Schweizerischen Seeschifffahrtsamt, Elisabethenstrasse 31, 4010 Basel eingesehen werden.
+[^I-1]: Diese Anlage und ihre Änderungen sind in der AS nicht veröffentlicht ([AS 1989 636](https://fedlex.data.admin.ch/eli/oc/1989/636_636_636); [1993 2522](https://fedlex.data.admin.ch/eli/oc/1993/2522_2522_2522); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618); [2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286)). Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrts-Organisation (IMO): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx) eingesehen werden. Dort werden sie in den Resolutionen des zuständigen IMO-Komitees jeweils nachgeführt. Der französische Text sowie eine konsolidierte englische Version können beim Schweizerischen Seeschifffahrtsamt, Elisabethenstrasse 33, 4010 Basel, eingesehen werden
 
 #### Art. II
 
@@ -77,7 +77,9 @@ Der Wortlaut des Artikels 11 Absatz 1 Buchstabe b des Übereinkommens wird durch
 
 **Unterzeichnung, Ratifikation, Annahme, Genehmigung und Beitritt**
 
-<sup>1.</sup> Dieses Protokoll liegt vom 1. Juni 1978 bis zum 31. Mai 1979 am Sitz der Organisation zur Unterzeichnung und danach zum Beitritt auf. Staaten können Vertragsparteien des Protokolls werden,
+<sup>1.</sup>
+
+Dieses Protokoll liegt vom 1. Juni 1978 bis zum 31. Mai 1979 am Sitz der Organisation zur Unterzeichnung und danach zum Beitritt auf. Staaten können Vertragsparteien des Protokolls werden:
 
 - a) indem sie es ohne Vorbehalt der Ratifikation, Annahme oder Genehmigung unterzeichnen,
 - b) indem sie es vorbehaltlich der Ratifikation, Annahme oder Genehmigung unterzeichnen und später ratifizieren, annehmen oder genehmigen oder
@@ -117,7 +119,9 @@ Die in Artikel 16 des Übereinkommens für Änderungen der Artikel, einer Anlage
 
 <sup>1.</sup> Dieses Protokoll wird beim Generalsekretär der Organisation (im folgenden als «Depositar» bezeichnet) hinterlegt.
 
-<sup>2.</sup> Der Depositar
+<sup>2.</sup>
+
+Der Depositar:
 
 - a) unterrichtet alle Staaten, die dieses Protokoll unterzeichnet haben oder ihm beigetreten sind,
   - i) von jeder neuen Unterzeichnung oder Hinterlegung einer Ratifikations‑, Annahme‑, Genehmigungs- oder Beitrittsurkunde unter Angabe des Zeitpunkts;
@@ -140,6 +144,8 @@ Dieses Protokoll ist in einer Urschrift in englischer, französischer, russische
 *Zu Urkund dessen* haben die von ihren Regierungen hierzu gehörig befugten Unterzeichneten dieses Protokoll unterschrieben. Geschehen zu London am 17. Februar 1978. (Es folgen die Unterschriften)
 
 Internationales Übereinkommen von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe
+
+Abgeschlossen in London am 2. November 1973
 
 Die Vertragsparteien des Übereinkommens,
 
@@ -192,7 +198,9 @@ Im Sinne dieses Übereinkommens haben, soweit nicht ausdrücklich etwas anderes 
 
 **Anwendung**
 
-<sup>1.</sup> Dieses Übereinkommen gilt für
+<sup>1.</sup>
+
+Dieses Übereinkommen gilt für:
 
 - a) Schiffe, die berechtigt sind, die Flagge einer Vertragspartei zu führen, sowie
 - b) Schiffe, die nicht berechtigt sind, die Flagge einer Vertragspartei zu führen, die jedoch unter der Hoheitsgewalt einer Vertragspartei betrieben werden.
@@ -207,7 +215,9 @@ Im Sinne dieses Übereinkommens haben, soweit nicht ausdrücklich etwas anderes 
 
 <sup>1.</sup> Jeder Verstoss gegen die Vorschriften dieses Übereinkommens ist verboten und wird im Recht der für das betreffende Schiff zuständigen Verwaltung unter Strafe gestellt, gleichviel wo der Verstoss begangen wird. Wird die Verwaltung von einem derartigen Verstoss unterrichtet und ist sie überzeugt, dass ausreichende Beweise vorliegen, um ein Verfahren wegen des angeblichen Verstosses einzuleiten, so veranlasst sie, dass ein solches Verfahren so bald wie möglich nach ihrem Recht eingeleitet wird.
 
-<sup>2.</sup> Jeder Verstoss gegen die Vorschriften dieses Übereinkommens im Hoheitsbereich einer Vertragspartei ist verboten und wird im Recht der betreffenden Vertragspartei unter Strafe gestellt. Sobald ein derartiger Verstoss begangen wird, wird die betreffende Vertragspartei
+<sup>2.</sup>
+
+Jeder Verstoss gegen die Vorschriften dieses Übereinkommens im Hoheitsbereich einer Vertragspartei ist verboten und wird im Recht der betreffenden Vertragspartei unter Strafe gestellt. Sobald ein derartiger Verstoss begangen wird, wird die betreffende Vertragspartei:
 
 - a) entweder veranlassen, dass ein Verfahren nach ihrem Recht eingeleitet wird, oder
 - b) der für das Schiff zuständigen Verwaltung alle in ihrem Besitz befindlichen Informationen und Beweise dafür vorlegen, dass ein Verstoss begangen worden ist.
@@ -256,12 +266,16 @@ Im Sinne dieses Übereinkommens haben, soweit nicht ausdrücklich etwas anderes 
 
 <sup>1.</sup> Eine Meldung über ein Ereignis ist unverzüglich so ausführlich wie möglich nach Protokoll I zu machen.
 
-<sup>2.</sup> Jede Vertragspartei
+<sup>2.</sup>
+
+Jede Vertragspartei:
 
 - a) trifft alle erforderlichen Vorkehrungen, damit eine zuständige Person oder Stelle alle Meldungen über Ereignisse entgegennimmt und bearbeitet, und
 - b) teilt der Organisation derartige Vorkehrungen in allen Einzelheiten zur Weiterleitung an die anderen Vertragsparteien und Mitgliedstaaten der Organisation mit.
 
-<sup>3.</sup> Sobald eine Vertragspartei eine Meldung nach diesem Artikel erhält, übermittelt sie dieselbe unverzüglich
+<sup>3.</sup>
+
+Sobald eine Vertragspartei eine Meldung nach diesem Artikel erhält, übermittelt sie dieselbe unverzüglich:
 
 - a) der für das beteiligte Schiff zuständigen Verwaltung und
 - b) jedem anderen etwa betroffenen Staat.
@@ -315,7 +329,9 @@ Die Vertragsparteien verpflichten sich, der Organisation folgendes zu übermitte
 
 **Unterzeichnung, Ratifikation, Annahme, Genehmigung und Beitritt**
 
-<sup>1.</sup> Dieses Übereinkommen liegt vom 15. Januar 1974 bis zum 31. Dezember 1974 am Sitz der Organisation zur Unterzeichnung und danach zum Beitritt auf. Staaten können Vertragsparteien dieses Übereinkommens werden,
+<sup>1.</sup>
+
+Dieses Übereinkommen liegt vom 15. Januar 1974 bis zum 31. Dezember 1974 am Sitz der Organisation zur Unterzeichnung und danach zum Beitritt auf. Staaten können Vertragsparteien dieses Übereinkommens werden:
 
 - a) indem sie es ohne Vorbehalt der Ratifikation, Annahme oder Genehmigung unterzeichnen,
 - b) indem sie es vorbehaltlich der Ratifikation, Annahme oder Genehmigung unterzeichnen und später ratifizieren, annehmen oder genehmigen oder
@@ -411,7 +427,7 @@ Die Vertragsparteien verpflichten sich, der Organisation folgendes zu übermitte
 
 **Förderung der technischen Zusammenarbeit**
 
-Die Vertragsparteien fördern in Konsultation mit der Organisation und sonstigen internationalen Gremien unter Mitwirkung des Exekutivdirektors des Umweltprogramms der Vereinten Nationen und in Koordination mit ihm die Unterstützung derjenigen Vertragsparteien, die um die technische Hilfe ersuchen
+Die Vertragsparteien fördern in Konsultation mit der Organisation und sonstigen internationalen Gremien unter Mitwirkung des Exekutivdirektors des Umweltprogramms der Vereinten Nationen und in Koordination mit ihm die Unterstützung derjenigen Vertragsparteien, die um die technische Hilfe ersuchen:
 
 - a) für die Ausbildung wissenschaftlichen und technischen Personals;
 - b) für die Lieferung der erforderlichen Auffang‑ und Überwachungsausrüstung und ‑anlagen;
@@ -456,7 +472,7 @@ Geschehen zu London am 2. November 1973.
 
 [^annexu1-lvlu2-1]: Fassung gemäss der Resolution des Ausschusses für den Schutz der Meereswelt der Internationalen Seeschiffahrts‑Organisation vom 5. Dez. 1985 ([AS 1989 492](https://fedlex.data.admin.ch/eli/oc/1989/492_492_492)).
 
-### Bestimmungen über Meldungen von Ereignissen in Verbindung mit Schadstoffen
+**Bestimmungen über Meldungen von Ereignissen in Verbindung** **mit Schadstoffen**
 
 (nach Art. 8 des Übereinkommens)
 
@@ -488,7 +504,7 @@ Geschehen zu London am 2. November 1973.
 
 **Inhalt der Meldung**
 
-Die Meldungen müssen in jedem Fall umfassen
+Die Meldungen müssen in jedem Fall umfassen:
 
 - a) die genaue Bezeichnung der beteiligten Schiffe;
 - b) Zeitpunkt, Art und Ort des Ereignisses;
@@ -499,7 +515,7 @@ Die Meldungen müssen in jedem Fall umfassen
 
 **Zusätzliche Meldung**
 
-Jeder, der nach diesem Protokoll verpflichtet ist, eine Meldung zu machen, hat nach Möglichkeit
+Jeder, der nach diesem Protokoll verpflichtet ist, eine Meldung zu machen, hat nach Möglichkeit:
 
 - a) die ursprüngliche Meldung nach Bedarf zu ergänzen und Informationen über weitere Entwicklungen zur Verfügung zu stellen und
 - b) den Ersuchen betroffener Staaten um zusätzliche Informationen so vollständig wie möglich zu entsprechen.
@@ -514,7 +530,7 @@ Jeder, der nach diesem Protokoll verpflichtet ist, eine Meldung zu machen, hat n
 
 ## Protokoll II
 
-### Schiedsverfahren
+**Schiedsverfahren**
 
 (nach Artikel 10 des Übereinkommens)
 
@@ -564,7 +580,9 @@ Jedes nach diesem Protokoll errichtete Schiedsgericht gibt sich eine Verfahrenso
 
 <sup>1.</sup> Entscheidungen des Gerichts, die sein Verfahren und seinen Tagungsort oder eine ihm vorgelegte Frage betreffen, bedürfen der Stimmenmehrheit der Mitglieder; die Abwesenheit oder Stimmenthaltung eines Mitglieds des Gerichts, für dessen Ernennung die Parteien verantwortlich waren, stellt kein Hindernis für Entscheidungen des Gerichts dar. Bei Stimmengleichheit gibt die Stimme des Obmanns den Ausschlag.
 
-<sup>2.</sup> Die Parteien erleichtern die Arbeit des Gerichts und werden insbesondere nach Massgabe ihrer Rechtsvorschriften und unter Einsatz aller verfügbaren Mittel
+<sup>2.</sup>
+
+Die Parteien erleichtern die Arbeit des Gerichts und werden insbesondere nach Massgabe ihrer Rechtsvorschriften und unter Einsatz aller verfügbaren Mittel:
 
 - a) dem Gericht die erforderlichen Unterlagen und Auskünfte liefern;
 - b) dem Gericht die Möglichkeit geben, ihr Hoheitsgebiet zu betreten, Zeugen oder Sachverständige zu hören und Ortsbesichtigungen vorzunehmen.
@@ -759,4 +777,4 @@ Geltungsbereich am 20. November 2024[^t-3]
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Diese Informationen sowie jene über die Annahme der fakultativen Anlagen I–VI durch die Vertragsstaaten können in englischer Sprache auf der Internetseite der Internationalen Seeschifffahrtsorganisation (IMO): [www.imo.org/fr](https://www.imo.org/fr) &gt; Qui nous sommes &gt; Conventions &gt; État des conventions &gt; Status Book eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. [tab]</td></tr>
 </table>
 
-[^t-3]: AS **202****4** 689. Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-3]: [AS 2024 689](https://fedlex.data.admin.ch/eli/oc/2024/689). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

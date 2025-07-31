@@ -3,11 +3,11 @@ sr: "0.814.288.2"
 title: "Protocollo del 1978 relativo alla Convenzione internazionale del 1973 per la prevenzione dell'inquinamento da parte delle navi, del 17 febbraio 1978 (con allegati)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652"
 language: it
-version: 2024-11-20
+version: 2025-08-01
 adopted: 1978-02-17
 in_force: 1988-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652/20241120/it/xml/fedlex-data-admin-ch-eli-cc-1988-1652_1652_1652-20241120-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1652_1652_1652/20241120/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652/20250801/it/xml/fedlex-data-admin-ch-eli-cc-1988-1652_1652_1652-20250801-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1652_1652_1652/20250801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso a Londra il 17 febbraio 1978 Approvato dall’Assemblea federale il 9 marzo 1987[^t-1] Strumento d’adesione depositato dalla Svizzera il 15 dicembre 1987 Entrato in vigore per la Svizzera il 15 marzo 1988
 
-(Stato 20 novembre 2024)
+(Stato 1° agosto 2025)
 
 [^t-1]: Art. 3 lett. a del DF del 17 feb. 1978 ([RU 1988 1240](https://fedlex.data.admin.ch/eli/oc/1988/1240_1240_1240)).
 
@@ -53,7 +53,7 @@ Le Parti contraenti del presente Protocollo si impegnano a dare effetto:
 
 <sup>3.</sup> Qualsiasi riferimento al presente Protocollo costituisce al tempo stesso riferimento anche al suo Annesso.
 
-[^I-1]: Questo all. e i suoi emendamenti, non sono pubblicati nella RU ([RU 1989 636](https://fedlex.data.admin.ch/eli/oc/1989/636_636_636); [1993 2522](https://fedlex.data.admin.ch/eli/oc/1993/2522_2522_2522); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618)). Può essere consultato in inglese sul sito Internet dell’Organizzazione marittima internazionale (OMI): [https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Il testo in francese e una versione consolidata in inglese sono disponibili per la consultazione presso l’Ufficio svizzero della navigazione marittima, Elisabethenstrasse 31, 4010 Basilea.
+[^I-1]: Questo all. e i suoi emendamenti, non sono pubblicati nella RU ([RU 1989 636](https://fedlex.data.admin.ch/eli/oc/1989/636_636_636); [1993 2522](https://fedlex.data.admin.ch/eli/oc/1993/2522_2522_2522); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618); [2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286)). Può essere consultato in inglese sul sito Internet dell’Organizzazione marittima internazionale (OMI): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Lì viene aggiornato nelle risoluzioni del comitato competente dell’OMI. Il testo in francese e una versione consolidata in inglese sono disponibili per la consultazione presso l’Ufficio svizzero della navigazione marittima, Elisabethenstrasse 33, 4010 Basilea.
 
 #### Art. II
 
@@ -144,11 +144,9 @@ Il Depositario deve:
 
 Il presente Protocollo viene redatto in originale unico nelle lingue inglese, francese, russa e spagnola, ogni testo essendo ugualmente autentico. Saranno preparate, e depositate con l’originale firmato, traduzioni ufficiali nelle lingue araba, tedesca, italiana e giapponese.
 
-*In fede di che,* i sottoscritti, debitamente a ciò autorizzati dai rispettivi governi, hanno firmato il presente Protocollo. Fatto a Londra il 7 febbraio 1978.
+*In fede di che,* i sottoscritti, debitamente a ciò autorizzati dai rispettivi governi, hanno firmato il presente Protocollo. Fatto a Londra il 7 febbraio 1978. (Seguono le firme)
 
-(Seguono le firme)
-
-Convenzione internazionale del 1973 per la prevenzione dell’inquinamento causato da navi
+Conclusa a Londra il 2 novembre 1973
 
 Le Parti della Convenzione,
 
@@ -534,6 +532,8 @@ Le Parti facilitano i lavori del tribunale; a tale fine, conformemente alla loro
 <sup>1.</sup> Il tribunale pronuncia la propria sentenza entro un termine di cinque mesi a partire dalla data della propria costituzione, a meno che non decida, in caso di necessità, di prorogare tale termine per un ulteriore periodo di tempo non superiore a tre mesi. La sentenza del tribunale viene motivata. Essa è definitiva e inappellabile e viene comunicata al Segretario generale dell’Organizzazione. Le Parti devono uniformarvisi senza indugio.
 
 <sup>2.</sup> Ogni controversia che potrebbe sorgere fra le Parti sull’interpretazione o sull’esecuzione di una sentenza, può essere sottoposta dalla Parte più diligente al giudizio del tribunale che l’ha resa o, se quest’ultimo non può esserne investito, di un tribunale costituito a tale scopo nello stesso modo del primo.
+
+Convenzione internazionale del 1973 per la prevenzione dell’inquinamento causato da navi
 
 [^t-2]: [RS 0.814.288.1](https://fedlex.data.admin.ch/eli/cc/1966/1200_1242_1232)
 [^t-3]: Questi all. e i loro emendamenti, non sono pubblicati nella RU (vedi [RU 1989 866](https://fedlex.data.admin.ch/eli/oc/1989/866_866_866), [1990 1366](https://fedlex.data.admin.ch/eli/oc/1990/1366_1366_1366), [1991 2077](https://fedlex.data.admin.ch/eli/oc/1991/2077_2077_2077), [1992 937](https://fedlex.data.admin.ch/eli/oc/1992/937_937_937), [1996 943](https://fedlex.data.admin.ch/eli/oc/1996/943_943_943), [2003 3229](https://fedlex.data.admin.ch/eli/oc/2003/436), [2013 5525](https://fedlex.data.admin.ch/eli/oc/2013/887); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618)). Possono essere consultati in inglese sul sito Internet dell’Organizzazione marittima internazionale (OMI): [https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Il testo in francese e una versione consolidata in inglese sono disponibili per la consultazione presso l’Ufficio svizzero della navigazione marittima, Elisabethenstrasse 31, 4010 Basilea.
