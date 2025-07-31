@@ -1,25 +1,24 @@
 ---
 canton: GR
 number: "421.010"
-title: Verordnung zum Schulgesetz
-short: Schulverordnung
+title: Verordnung zum Volksschulgesetz
+short: "Volksschulverordnung, VSV"
 language: de
-version: 2022-08-01
-corrected: 2025-04-02
-version_adopted: 2022-06-21
+version: 2025-08-01
+version_adopted: 2025-04-15
 adopted: 2012-09-25
 in_force: 2013-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/421.010"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3253/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3563/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung zum Schulgesetz
+# Verordnung zum Volksschulgesetz
 
-(Schulverordnung)
+(Volksschulverordnung, VSV)
 
-Vom 25.09.2012 (Stand 01.08.2022)
+Vom 25.09.2012 (Stand 01.08.2025)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1] und Art. 97 des Gesetzes für die Volksschulen des Kantons Graubünden (Schulgesetz)[^ingress-2]
 
@@ -40,7 +39,7 @@ von der Regierung erlassen am 25. September 2012
 
 **Schulgeld**
 
-<sup>1</sup> Das Schulgeld und die Transportkosten bei vertraglicher Zusammenarbeit gemäss Artikel 5 des Schulgesetzes übernimmt die Wohngemeinde, sofern die Schulträgerschaft keine andere Regelung trifft. Eine Kostenbeteiligung der Erziehungsberechtigten ist nicht zulässig.
+<sup>1</sup> Das Schulgeld und die Transportkosten bei vertraglicher Zusammenarbeit gemäss Artikel 5 des Volksschulgesetzes übernimmt die Wohngemeinde, sofern die Schulträgerschaft keine andere Regelung trifft. Eine Kostenbeteiligung der Erziehungsberechtigten ist nicht zulässig.
 
 <sup>2</sup> Das Schulgeld umfasst maximal die Vollkosten pro Schülerin und Schüler der entsprechenden Stufe.
 
@@ -58,9 +57,7 @@ von der Regierung erlassen am 25. September 2012
 
 #### Art. 4
 
-**Eintritt und Besuch Kindergartenstufe**
-
-<sup>1</sup> Der Eintritt in die Kindergartenstufe erfolgt auf Beginn des Schuljahres. Der Kindergarten ist regelmässig zu besuchen.
+**…**
 
 #### Art. 5
 
@@ -90,25 +87,25 @@ von der Regierung erlassen am 25. September 2012
 
 #### Art. 7
 
-**Vorverlegung und Aufschub Eintritt in Kindergarten**
+**Vorverlegung und Aufschub Eintritt in Kindergartenstufe**
 
 <sup>1</sup> Schulträgerschaften können auch Kinder in die Kindergartenstufe aufnehmen, die bis zum 31. Dezember des laufenden Kalenderjahres das vierte Altersjahr erfüllen.
 
-<sup>2</sup> Der Schulrat kann den Besuch des Kindergartens nach Anhören der Erziehungsberechtigten um ein Jahr aufschieben, sofern ein schulpsychologisches Gutachten bescheinigt, dass die Voraussetzungen für den Kindergarteneintritt gemäss Entwicklungsstand nicht erfüllt sind und eine Sonderschulung ausser Betracht fällt.
+<sup>2</sup> Der Schulrat kann den Besuch der Kindergartenstufe nach Anhören der Erziehungsberechtigten um ein Jahr aufschieben, sofern die Voraussetzungen für den Eintritt gemäss Entwicklungsstand nicht erfüllt sind. Der Schulpsychologische Dienst kann beigezogen werden.
 
 #### Art. 8
 
 **Vorverlegung und Aufschub Eintritt in Primarstufe**
 
-<sup>1</sup> Der Schulrat kann die Bewilligung zum vorzeitigen Schuleintritt auf Gesuch hin erteilen, sofern ein schulpsychologisches Gutachten vorliegt und gegen eine Zulassung zur Schule keine Bedenken bestehen.
+<sup>1</sup> Der Schulrat kann die Bewilligung zum vorzeitigen Eintritt in die Primarstufe auf Gesuch der Erziehungsberechtigten erteilen, sofern gegen einen Eintritt in die Primarstufe keine Bedenken bestehen. Der Schulpsychologische Dienst kann beigezogen werden.
 
-<sup>2</sup> Der Schulrat kann Kinder nach Anhören der Erziehungsberechtigten in der Schulpflicht zurückstellen, sofern ein schulpsychologisches Gutachten bescheinigt, dass die Voraussetzungen für den Schuleintritt gemäss Entwicklungsstand nicht erfüllt sind und eine Sonderschulung ausser Betracht fällt.
+<sup>2</sup> Der Schulrat kann den Eintritt in die Primarstufe nach Anhören der Erziehungsberechtigten um ein Jahr aufschieben, sofern die Voraussetzungen für den Eintritt gemäss Entwicklungsstand nicht erfüllt sind. Der Schulpsychologische Dienst kann beigezogen werden.
 
 #### Art. 9
 
 **Nachobligatorischer Schulbesuch**
 
-<sup>1</sup> Schülerinnen und Schülern, welche die neunjährige Schulpflicht erfüllt, die Sekundarstufe I aber noch nicht abgeschlossen haben, kann der Schulrat auf Gesuch der Erziehungsberechtigten den Besuch weiterer Schuljahre bewilligen.
+<sup>1</sup> Schülerinnen und Schülern, welche die elfjährige Schulpflicht erfüllt, die Sekundarstufe I aber noch nicht abgeschlossen haben, kann der Schulrat auf Gesuch der Erziehungsberechtigten den Besuch weiterer Schuljahre bewilligen.
 
 <sup>2</sup> Wer trotz Mahnung und Orientierung der Erziehungsberechtigten mangelnden Arbeitseinsatz zeigt oder sich nicht an die Schulordnung hält, kann vom Schulrat ausgeschlossen werden.
 
@@ -116,7 +113,7 @@ von der Regierung erlassen am 25. September 2012
 
 **Vorzeitige Entlassung**
 
-<sup>1</sup> Auf Gesuch der Erziehungsberechtigten kann der Schulrat eine Entlassung aus der Schulpflicht frühestens nach acht obligatorischen Schuljahren beschliessen, sofern eine andere schulische oder eine ausserschulische Ausbildung gewährleistet ist.
+<sup>1</sup> Auf Gesuch der Erziehungsberechtigten kann der Schulrat eine Entlassung aus der Schulpflicht frühestens nach zehn obligatorischen Schuljahren beschliessen, sofern eine andere schulische oder eine ausserschulische Ausbildung gewährleistet ist.
 
 <sup>2</sup> Das Amt entscheidet über weitere Ausnahmen und erlässt Vollzugsbestimmungen zu Zeitpunkt und Verfahren einer vorzeitigen Entlassung.
 
@@ -129,7 +126,7 @@ von der Regierung erlassen am 25. September 2012
 - a) der Weg besonders lang oder gefährlich ist;
 - b) eine Behinderung vorliegt, welche die Bewältigung des Weges ohne Transport erheblich beeinträchtigt.
 
-### 2.3. Privatschulen und Privatunterricht
+### 2.3. Privatschulen, Privatunterricht und Spitalschulen
 
 #### Art. 12
 
@@ -144,6 +141,16 @@ von der Regierung erlassen am 25. September 2012
 <sup>1</sup> Wenn der Privatunterricht oder der Unterricht an Privatschulen den gesetzlichen und lehrplanmässigen Anforderungen oder den Auflagen nicht entspricht, kann das Departement den Übertritt in die öffentliche Schule verfügen.
 
 <sup>2</sup> Die Regierung kann die Schliessung von Privatschulen verfügen, sofern diese die gesetzlichen Bestimmungen oder Auflagen nicht erfüllen.
+
+#### Art. 13a
+
+**Spitalschulen, Leistungsauftrag und Finanzierung**
+
+<sup>1</sup> Das Departement kann den bezeichneten Spitälern und Kliniken, welche die Vorgaben des Volksschulgesetzes sinngemäss erfüllen, einen Leistungsauftrag erteilen. Grundlage bildet ein vom Amt genehmigtes Schulkonzept.
+
+<sup>2</sup> Der Leistungsauftrag erstreckt sich in der Regel über vier Jahre. Dieser regelt insbesondere die Art, Qualität und Quantität des Angebots, die Qualifikation des Lehrpersonals, die Überprüfung der in Rechnung gestellten Leistungen und die Grundsätze der Leistungsabgeltung.
+
+<sup>3</sup> Als anrechenbare Restkosten gelten nur diejenigen Kosten, die in unmittelbarem Zusammenhang mit der Spitalbeschulung stehen, für eine zweckdienliche Durchführung notwendig sind und im Rahmen einer zweckmässigen und wirtschaftlichen Betriebsorganisation und Betriebsführung tatsächlich anfallen.
 
 ## 3. Organisation der Schule
 
@@ -219,10 +226,15 @@ von der Regierung erlassen am 25. September 2012
 - a) 20 Schülerinnen und Schüler bei einer einklassigen Abteilung;
 - b) 16 Schülerinnen und Schüler bei einer zwei- oder dreiklassigen Abteilung.
 
-<sup>5</sup> Eine Handarbeits- und Hauswirtschaftsabteilung darf in der Regel nicht mehr zählen als:
+<sup>5</sup> Eine Abteilung im Fach Textiles und Technisches Gestalten sowie der Hauswirtschaftsbereich im Fach Wirtschaft, Arbeit, Haushalt darf in der Regel nicht mehr zählen als:
 
 - a) 14 Schülerinnen und Schüler bei einer einklassigen Abteilung;
 - b) 12 Schülerinnen und Schüler bei einer mehrklassigen Abteilung.
+
+<sup>6</sup> Die separative Schulungs- und Förderform im niederschwelligen Bereich darf in der Regel nicht mehr zählen als:
+
+- a) 12 Schülerinnen und Schüler bei einer einklassigen Abteilung;
+- b) 10 Schülerinnen und Schüler bei einer mehrklassigen Abteilung.
 
 #### Art. 20
 
@@ -234,6 +246,7 @@ von der Regierung erlassen am 25. September 2012
 - b) Primarschule: 5 Schülerinnen und Schüler
 - c) Realschule: 7 Schülerinnen und Schüler
 - d) Sekundarschule: 10 Schülerinnen und Schüler
+- e) separative Schulungs- und Förderform im niederschwelligen Bereich: 5 Schülerinnen und Schüler
 
 <sup>2</sup> Die Sekundarstufe I muss gesamthaft mindestens 17 Schülerinnen und Schüler umfassen.
 
@@ -253,9 +266,9 @@ von der Regierung erlassen am 25. September 2012
 
 #### Art. 23
 
-**Lektionen pro Halbtag Primarstufe**
+**Lektionen pro Halbtag Kindergarten- und Primarstufe**
 
-<sup>1</sup> Je Halbtag sind auf der Primarstufe in der Regel höchstens vier Lektionen zulässig.
+<sup>1</sup> Je Halbtag sind auf der Kindergarten- und Primarstufe in der Regel höchstens vier Lektionen zulässig.
 
 <sup>1<sup>bis</sup></sup> In begründeten Fällen können die Schulträgerschaften maximal fünf Lektionen je Halbtag vorsehen.
 
@@ -311,11 +324,11 @@ von der Regierung erlassen am 25. September 2012
 
 **Lehrmittel**
 
-<sup>1</sup> Über die Herausgabe oder Neubearbeitung eines Lehrmittels beschliesst die Regierung.
+<sup>1</sup> Über die Herausgabe, Neubearbeitung oder Neuauflage eines Lehrmittels beschliesst die gemäss der Finanzhaushaltsgesetzgebung zuständige Behörde.
 
-<sup>2</sup> Für Lehrmittel, welche voraussichtlich von weniger als 500 Schülerinnen und Schülern benutzt werden, können kostengünstigere Lösungen realisiert werden.
+<sup>2</sup> …
 
-<sup>3</sup> Die unveränderte Neuauflage von Lehrmitteln verfügt das Amt.
+<sup>3</sup> …
 
 <sup>4</sup> Das Amt bestimmt den Abgabepreis der Lehrmittel.
 
@@ -461,17 +474,15 @@ von der Regierung erlassen am 25. September 2012
 
 **Schulungs- und Förderformen**
 
-<sup>1</sup> Als integrativ gilt jene Schulungs- und Förderform, bei der der Hauptteil des Unterrichts in der Regelklasse stattfindet.
+<sup>1</sup> Als integrativ gilt jene Schulungs- und Förderform, bei der der Unterricht in der Regelklasse stattfindet.
 
-<sup>2</sup> Als teilintegrativ gilt jene Schulungs- und Förderform, bei der einzelne Einheiten des Unterrichts in Form von Gruppen- oder Einzelunterricht ausserhalb der Regelklasse stattfinden.
+<sup>2</sup> Als teilintegrativ gilt jene Schulungs- und Förderform, bei der ein Teil des Unterrichts in Form von Gruppen- oder Einzelunterricht ausserhalb der Regelklasse stattfindet.
 
-<sup>3</sup> Als separativ gilt jene Schulungs- und Förderform, bei der der Hauptteil des Unterrichts ausserhalb der Regelklasse stattfindet.
+<sup>3</sup> Als separativ gilt jene Schulungs- und Förderform, bei der der Unterricht in einer Abteilung ausserhalb der Regelklasse stattfindet.
 
 #### Art. 46
 
-**Gewährleistung des niederschwelligen sonderpädagogischen Angebots**
-
-<sup>1</sup> Zur Gewährleistung der niederschwelligen Massnahmen, insbesondere der Förderung der Prävention, sind die Schulträgerschaften gehalten, auf Kindergarten- und Primarstufe pro Abteilung während mindestens zwei Unterrichtseinheiten pro Woche eine heilpädagogische Fachperson in der Klasse einzusetzen.
+**…**
 
 #### Art. 47
 
@@ -586,7 +597,18 @@ von der Regierung erlassen am 25. September 2012
 
 <sup>1</sup> Lehrpersonen mit einem Vollpensum wird ab dem 55. Altersjahr eine Altersentlastung von zwei Unterrichtseinheiten und ab dem 60. Altersjahr von drei Unterrichtseinheiten pro Woche gewährt. Die Altersentlastung wird ab Beginn des Schuljahres gewährt, in dem die Lehrperson das 55. beziehungsweise 60. Altersjahr erfüllt.
 
+<sup>1<sup>bis</sup></sup> Für Lehrpersonen mit einem Pensum von mindestens 65 Prozent reduziert sich der Anspruch auf Altersentlastung gemäss Absatz 1 anteilsmässig. Die zu gewährende Altersentlastung ist im Verhältnis zum Anstellungsgrad zu berechnen.
+
 <sup>2</sup> Die Altersentlastung gilt auch für Lehrpersonen, die bei mehreren Schulträgerschaften angestellt sind.
+
+<sup>3</sup> Die Altersentlastung kann wie folgt gewährt werden:
+
+- a) als Pensenreduktion;
+- b) in Form von Urlaub;
+- c) als Gutschrift in die Pensenbuchhaltung;
+- d) als Vergütung.
+
+<sup>4</sup> Die Gewährungsmöglichkeiten gemäss Absatz 3 können kombiniert werden.
 
 #### Art. 60
 
@@ -600,7 +622,7 @@ von der Regierung erlassen am 25. September 2012
 
 **Mindestlohnstufenanstieg**
 
-<sup>1</sup> Nach dem Einstiegslohn folgen 21 jährliche Lohnstufen. Die ersten drei Lohnstufen betragen je 4, die nächsten neun je 3, die nächsten sechs je 2 und die letzten drei je 1 Prozent der ersten Lohnstufe.
+<sup>1</sup> Nach dem Einstiegslohn folgen 21 jährliche Lohnstufen. Die ersten vier Lohnstufen betragen je 3, die nächsten vierzehn je 2,5 und die letzten drei je 2 Prozent der ersten Lohnstufe. In begründeten Fällen kann von einem Lohnstufenanstieg abgesehen werden.
 
 <sup>2</sup> Die Schulträgerschaften können auch eine Regelung betreffend Lohnentwicklung analog dem kantonalen Personalrecht festlegen.
 
@@ -612,7 +634,7 @@ von der Regierung erlassen am 25. September 2012
 
 **…**
 
-### 6.2. Beiträge des Kantons und der Schulträgerschaften
+### 6.2. Beiträge des Kantons, der Schulträgerschaften und der Erziehungsberechtigten
 
 #### Art. 63
 
@@ -664,6 +686,12 @@ von der Regierung erlassen am 25. September 2012
 **Gemeinde- und Elternbeiträge Sonderschulung**
 
 <sup>1</sup> Die Kostenbeteiligung der Schulträgerschaften beträgt 21 Franken pro Kalendertag. Die Kostenbeteiligung der Erziehungsberechtigten für die Verpflegung und Betreuung beträgt bei interner Sonderschulung 10 Franken und bei externer Sonderschulung 5 Franken pro Aufenthaltstag.
+
+#### Art. 68a
+
+**Beiträge der Erziehungsberechtigten**
+
+<sup>1</sup> Die Kostenbeteiligung der Erziehungsberechtigten an Schulreisen, Klassenlagern, Projektwochen sowie Exkursionen beträgt maximal 16 Franken pro Tag.
 
 #### Art. 69
 

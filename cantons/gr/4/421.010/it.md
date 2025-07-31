@@ -1,25 +1,24 @@
 ---
 canton: GR
 number: "421.010"
-title: Ordinanza relativa alla legge scolastica
-short: Ordinanza scolastica
+title: "Ordinanza relativa alla legge sulle scuole popolari *"
+short: "Ordinanza sulle scuole popolari, OSP"
 language: it
-version: 2022-08-01
-corrected: 2025-04-02
-version_adopted: 2022-06-21
+version: 2025-08-01
+version_adopted: 2025-04-15
 adopted: 2012-09-25
 in_force: 2013-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/421.010"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3253/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3563/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
-# Ordinanza relativa alla legge scolastica
+# Ordinanza relativa alla legge sulle scuole popolari
 
-(Ordinanza scolastica)
+(Ordinanza sulle scuole popolari, OSP)
 
-del 25.09.2012 (stato 01.08.2022)
+del 25.09.2012 (stato 01.08.2025)
 
 emanata dal Governo il 25 settembre 2012
 
@@ -40,7 +39,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 97 dell
 
 **Tassa scolastica**
 
-<sup>1</sup> La tassa scolastica e costi di trasporto in caso di collaborazione su base contrattuale conformemente all'articolo 5 della legge scolastica sono assunti dal comune di domicilio, se l'ente scolastico non ha adottato una regolamentazione diversa. Non è ammessa una partecipazione ai costi dei titolari dell'autorità parentale.
+<sup>1</sup> La tassa scolastica e i costi di trasporto in caso di collaborazione su base contrattuale conformemente all'articolo 5 della legge sulle scuole popolari sono assunti dal comune di domicilio, se l'ente scolastico non ha adottato una regolamentazione diversa. Non è ammessa una partecipazione ai costi dei titolari dell'autorità parentale.
 
 <sup>2</sup> La tassa scolastica ammonta al massimo ai costi complessivi per allievo del corrispondente grado.
 
@@ -58,9 +57,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 97 dell
 
 #### Art. 4
 
-**Ammissione e frequenza della scuola dell'infanzia**
-
-<sup>1</sup> L'ammissione alla scuola dell'infanzia avviene per l'inizio dell'anno scolastico. La scuola dell'infanzia va frequentata regolarmente.
+**…**
 
 #### Art. 5
 
@@ -94,21 +91,21 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 97 dell
 
 <sup>1</sup> Gli enti scolastici possono ammettere alla scuola dell'infanzia anche bambini che compiranno il quarto anno d'età entro il 31 dicembre dell'anno civile in corso.
 
-<sup>2</sup> Dopo aver sentito i titolari dell'autorità parentale, il consiglio scolastico può differire di un anno la frequenza della scuola dell'infanzia, se una perizia psicoscolastica attesta che secondo lo stato di sviluppo le condizioni per un accesso alla scuola dell'infanzia non sono soddisfatte e che un'istruzione scolastica speciale non entra in considerazione.
+<sup>2</sup> Dopo aver sentito i titolari dell'autorità parentale, il consiglio scolastico può differire di un anno la frequenza della scuola dell'infanzia, se secondo lo stato di sviluppo le condizioni per un accesso non sono soddisfatte. È possibile coinvolgere il Servizio psicologico scolastico.
 
 #### Art. 8
 
 **Anticipazione e differimento dell'accesso al grado elementare**
 
-<sup>1</sup> Su richiesta, il consiglio scolastico può rilasciare l'autorizzazione per l'accesso anticipato alla scuola, se è data una perizia psicoscolastica e se non esistono dubbi riguardo a un'ammissione alla scuola.
+<sup>1</sup> Su domanda dei titolari dell'autorità parentale, il consiglio scolastico può rilasciare l'autorizzazione per l'accesso anticipato al grado elementare, se non esistono dubbi riguardo a un accesso al grado elementare. È possibile coinvolgere il Servizio psicologico scolastico.
 
-<sup>2</sup> Dopo aver sentito i detentori dell'autorità parentale, il consiglio scolastico può differire l'inizio dell'obbligo scolastico, se una perizia psicoscolastica attesta che secondo lo stato di sviluppo le condizioni per un accesso alla scuola non sono soddisfatte e che un'istruzione scolastica speciale non entra in considerazione.
+<sup>2</sup> Dopo aver sentito i titolari dell'autorità parentale, il consiglio scolastico può differire di un anno l'accesso al grado elementare, se secondo lo stato di sviluppo le condizioni per un accesso non sono soddisfatte. È possibile coinvolgere il Servizio psicologico scolastico.
 
 #### Art. 9
 
 **Frequenza scolastica postobbligatoria**
 
-<sup>1</sup> Su domanda dei titolari dell'autorità parentale, il consiglio scolastico può autorizzare gli allievi che hanno completato i nove anni di scuola dell'obbligo, ma che non hanno ancora concluso il grado secondario I a frequentare altri anni di scuola.
+<sup>1</sup> Su domanda dei titolari dell'autorità parentale, il consiglio scolastico può autorizzare gli allievi che hanno completato gli undici anni di scuola dell'obbligo, ma che non hanno ancora concluso il grado secondario I, a frequentare altri anni di scuola.
 
 <sup>2</sup> Il consiglio scolastico può escludere gli allievi che, nonostante siano stati diffidati e i rispettivi titolari dell'autorità parentale informati, mostrano un impegno insufficiente o non si attengono al regolamento della scuola.
 
@@ -116,7 +113,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 97 dell
 
 **Proscioglimento anticipato**
 
-<sup>1</sup> Su richiesta dei titolari dell'autorità parentale, il consiglio scolastico può decidere un proscioglimento anticipato dall'obbligo scolastico al più presto dopo otto anni di scuola obbligatoria, se è garantita un'altra formazione scolastica o extrascolastica.
+<sup>1</sup> Su domanda dei titolari dell'autorità parentale, il consiglio scolastico può decidere un proscioglimento anticipato dall'obbligo scolastico al più presto dopo dieci anni di scuola obbligatoria, se è garantita un'altra formazione scolastica o extrascolastica.
 
 <sup>2</sup> L'Ufficio decide in merito a ulteriori eccezioni ed emana disposizioni d'esecuzione relative al momento e alla procedura da seguire in caso di proscioglimento anticipato.
 
@@ -129,7 +126,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 97 dell
 - a) la strada è particolarmente lunga o pericolosa;
 - b) vi è un handicap che pregiudica in misura considerevole la possibilità di percorrere la strada senza un mezzo di trasporto.
 
-### 2.3. Scuole private e insegnamento privato
+### 2.3. Scuole private, insegnamento privato e scuole all'interno di ospedali
 
 #### Art. 12
 
@@ -144,6 +141,16 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 97 dell
 <sup>1</sup> Se l'insegnamento privato o l'insegnamento presso scuole private non corrisponde ai requisiti legali e del programma didattico oppure non rispetta le condizioni, il Dipartimento può decidere il passaggio alla scuola pubblica.
 
 <sup>2</sup> Il Governo può decidere la chiusura di scuole private se queste non soddisfano le disposizioni legali o le condizioni poste.
+
+#### Art. 13a
+
+**Scuole all'interno di ospedali, mandato di prestazioni e finanziamento**
+
+<sup>1</sup> Il Dipartimento può conferire un mandato di prestazioni agli ospedali e alle cliniche designati che soddisfano per analogia le direttive della legge sulle scuole popolari. La base è costituita da un piano per le scuole approvato dall'Ufficio.
+
+<sup>2</sup> Il mandato di prestazioni ha di norma una validità di quattro anni. Esso disciplina in particolare il tipo, la qualità e la quantità dell'offerta, le qualifiche del personale, la verifica delle prestazioni fatturate e i principi per l'indennizzo delle prestazioni.
+
+<sup>3</sup> Sono considerati costi residui computabili soltanto i costi direttamente correlati all'istruzione scolastica all'interno di un ospedale necessari per il suo corretto svolgimento e che risultano effettivamente nel quadro di un'organizzazione e di una gestione opportune ed economiche dell'attività.
 
 ## 3. Organizzazione della scuola
 
@@ -219,10 +226,15 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 97 dell
 - a) 20 allievi in una sezione monoclasse;
 - b) 16 allievi in una sezione di due o tre classi.
 
-<sup>5</sup> Una sezione di attività artigianali e tessili e di economia domestica non può di norma contare più di:
+<sup>5</sup> Una sezione della materia arti tessili e tecniche nonché il settore economia domestica della materia economia, lavoro ed economia domestica non possono di norma contare più di:
 
 - a) 14 allievi in una sezione monoclasse;
 - b) 12 allievi in una sezione pluriclasse.
+
+<sup>6</sup> La forma di istruzione e di sostegno separativa nel settore a bassa soglia non può di norma contare più di:
+
+- a) 12 allievi in una sezione monoclasse;
+- b) 10 allievi in una sezione pluriclasse.
 
 #### Art. 20
 
@@ -234,6 +246,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 97 dell
 - b) Scuola elementare: 5 allievi
 - c) Scuola di avviamento pratico: 7 allievi
 - d) Scuola secondaria: 10 allievi
+- e) forma di istruzione e di sostegno separativa nel settore a bassa soglia: 5 allievi
 
 <sup>2</sup> Il grado secondario I deve contare complessivamente almeno 17 allievi.
 
@@ -253,9 +266,9 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 97 dell
 
 #### Art. 23
 
-**Lezioni per mezza giornata nel grado elementare**
+**Lezioni per mezza giornata nella scuola dell'infanzia e nel grado elementare**
 
-<sup>1</sup> Nel grado elementare sono ammesse di regola al massimo quattro lezioni per mezza giornata.
+<sup>1</sup> Nella scuola dell'infanzia e nel grado elementare sono ammesse di regola al massimo quattro lezioni per mezza giornata.
 
 <sup>1<sup>bis</sup></sup> In casi motivati gli enti scolastici possono prevedere un massimo di cinque lezioni per mezza giornata.
 
@@ -311,11 +324,11 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 97 dell
 
 **Materiale didattico**
 
-<sup>1</sup> Il Governo decide in merito all'edizione o alla rielaborazione di materiale didattico.
+<sup>1</sup> L'autorità competente secondo la legislazione sulla gestione finanziaria decide in merito all'edizione, alla rielaborazione o alla riedizione di materiale didattico.
 
-<sup>2</sup> Per il materiale didattico che sarà presumibilmente utilizzato da meno di 500 allievi possono essere realizzate soluzioni più economiche.
+<sup>2</sup> …
 
-<sup>3</sup> La riedizione senza modifiche di materiale didattico viene decisa dall'Ufficio.
+<sup>3</sup> …
 
 <sup>4</sup> L'Ufficio fissa il prezzo di vendita del materiale didattico.
 
@@ -461,17 +474,15 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 97 dell
 
 **Forme di istruzione e di sostegno**
 
-<sup>1</sup> È considerata integrativa ogni forma di istruzione e di sostegno nella quale la parte principale dell'insegnamento si svolge nella classe regolare.
+<sup>1</sup> È considerata integrativa ogni forma di istruzione e di sostegno nella quale l'insegnamento si svolge nella classe regolare.
 
-<sup>2</sup> Sono considerate parzialmente integrative le forme di istruzione e di sostegno nelle quali singole unità d'insegnamento si svolgono fuori della classe regolare in forma di lezioni di gruppo o individuali.
+<sup>2</sup> Sono considerate parzialmente integrative le forme di istruzione e di sostegno nelle quali una parte dell'insegnamento si svolge al di fuori della classe regolare in forma di lezioni di gruppo o individuali.
 
-<sup>3</sup> È considerata separativa ogni forma di istruzione e di sostegno nella quale la parte principale delle lezioni si svolge fuori della classe regolare.
+<sup>3</sup> È considerata separativa ogni forma di istruzione e di sostegno nella quale l'insegnamento si svolge in una sezione al di fuori della classe regolare.
 
 #### Art. 46
 
-**Garanzia dell'offerta di pedagogia specializzata a bassa soglia**
-
-<sup>1</sup> Allo scopo di garantire i provvedimenti a bassa soglia, in particolare la promozione della prevenzione, gli enti scolastici sono tenuti a impiegare in classe, a livello di scuola dell'infanzia e di scuola elementare, un pedagogista specializzato per almeno due unità d'insegnamento settimanali per sezione.
+**…**
 
 #### Art. 47
 
@@ -586,7 +597,18 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 97 dell
 
 <sup>1</sup> Agli insegnanti assunti a tempo pieno viene concesso uno sgravio per anzianità di due unità d'insegnamento settimanali a partire dal 55° anno d'età e di tre unità d'insegnamento settimanali a partire dal 60° anno d'età. Lo sgravio per anzianità viene concesso dall'inizio dell'anno scolastico in cui l'insegnante compie 55 rispettivamente 60 anni.
 
+<sup>1<sup>bis</sup></sup> Per gli insegnanti con un volume d'impiego pari almeno al 65 per cento il diritto allo sgravio per anzianità conformemente al capoverso 1 si riduce proporzionalmente. Lo sgravio per anzianità da concedere deve essere calcolato in rapporto al grado d'impiego.
+
 <sup>2</sup> Lo sgravio per anzianità vale anche per gli insegnanti impiegati presso diversi enti scolastici.
+
+<sup>3</sup> Lo sgravio per anzianità può essere concesso come segue:
+
+- a) quale riduzione del volume d'impiego;
+- b) sotto forma di congedo;
+- c) quale accredito nella contabilità del volume d'impiego;
+- d) quale rimunerazione.
+
+<sup>4</sup> Le possibilità conformemente al capoverso 3 possono essere combinate.
 
 #### Art. 60
 
@@ -600,7 +622,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 97 dell
 
 **Scatto minimo per anzianità di servizio**
 
-<sup>1</sup> Allo stipendio iniziale seguono 21 scatti annuali per anzianità di servizio. I primi tre scatti per anzianità di servizio ammontano ciascuno al 4 per cento, i successivi nove ciascuno al 3 per cento, i successivi sei ciascuno al 2 per cento e gli ultimi tre ciascuno all'1 per cento dello stipendio iniziale.
+<sup>1</sup> Allo stipendio iniziale seguono 21 scatti annuali per anzianità di servizio. I primi quattro scatti per anzianità di servizio ammontano al 3 per cento ciascuno, i successivi quattordici al 2,5 per cento ciascuno e gli ultimi tre al 2 per cento ciascuno dello stipendio iniziale. In casi motivati si può prescindere da uno scatto per anzianità di servizio.
 
 <sup>2</sup> Gli enti scolastici possono anche stabilire per lo sviluppo degli stipendi una regolamentazione analoga a quella del diritto cantonale sul personale.
 
@@ -612,7 +634,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 97 dell
 
 **…**
 
-### 6.2. Contributi del Cantone e degli enti scolastici
+### 6.2. Contributi del Cantone, degli enti scolastici e dei titolari dell'autorità parentale
 
 #### Art. 63
 
@@ -664,6 +686,12 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 97 dell
 **Contributi del comune e dei genitori per l'istruzione scolastica speciale**
 
 <sup>1</sup> La partecipazione ai costi degli enti scolastici ammonta a 21 franchi per giorno di calendario. La partecipazione ai costi dei titolari dell'autorità parentale per il vitto e l'assistenza ammonta in caso di istruzione scolastica speciale in internato a 10 franchi e in caso di istruzione scolastica speciale in esternato a 5 franchi per giorno di permanenza.
+
+#### Art. 68a
+
+**Contributi dei titolari dell'autorità parentale**
+
+<sup>1</sup> La partecipazione ai costi da parte dei titolari dell'autorità parentale per gite scolastiche, campi scuola, settimane di progetto nonché escursioni ammonta ad al massimo 16 franchi al giorno.
 
 #### Art. 69
 
