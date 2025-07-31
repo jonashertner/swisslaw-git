@@ -3,20 +3,19 @@ canton: GL
 number: IV B/11/6
 title: Weisung zur Schulzahnpflege
 language: de
-version: 2016-08-01
-valid_until: 2025-07-31
-version_adopted: 2016-12-20
+version: 2025-08-01
+version_adopted: 2025-06-30
 adopted: 2012-06-26
 in_force: 2012-08-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-B.11.6"
-pdf: "https://gesetze.gl.ch/api/de/versions/1920/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2577/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Weisung zur Schulzahnpflege
 
-Vom 26.06.2012 (Stand 01.08.2016)
+Vom 26.06.2012 (Stand 01.08.2025)
 
 (Erlassen vom Departement Finanzen und Gesundheit am 26. Juni 2012)
 
@@ -34,17 +33,17 @@ Vom 26.06.2012 (Stand 01.08.2016)
 
 **Prophylaxe**
 
-<sup>1</sup> Die Genossenschaft Schulzahnklinik beschäftigt Zahnpflegepersonal zur Erbringung der Prophylaxeleistungen in den Schulen.
+<sup>1</sup> …
 
 <sup>2</sup> Die Prophylaxebesuche der Schulklassen finden statt:
 
-- a. im Kindergarten dreimal;
-- b. in der Unter- und Mittelstufe zweimal;
-- c. in der ersten Oberstufe einmal pro Schuljahr.
+- a. im Kindergarten dreimal pro Schuljahr;
+- b. in der Unterstufe zweimal pro Schuljahr;
+- c. in der Mittelstufe einmal pro Schuljahr.
 
 <sup>3</sup> Ein Prophylaxebesuch pro Schulklasse dauert höchstens eine Lektion.
 
-<sup>4</sup> In den Oberstufen findet die altersgerechte Aufklärung über die Körper- und Gebisshygiene gemäss Lehrplan statt. Die Schulen sind frei, die Genossenschaft Schulzahnklinik mit zusätzlichen Lektionen zu beauftragen.
+<sup>4</sup> In den Oberstufen findet die altersgerechte Aufklärung über die Körper- und Gebisshygiene gemäss Lehrplan statt.
 
 #### Art. 3
 
@@ -52,13 +51,11 @@ Vom 26.06.2012 (Stand 01.08.2016)
 
 <sup>1</sup> Die Ergebnisse der zahnärztlichen Untersuchung sind von der Schulzahnärztin oder vom Schulzahnarzt zu dokumentieren und den Erziehungsberechtigten mitzuteilen.
 
-<sup>2</sup> Zahnhefte können von Schulzahnärztinnen oder Schulzahnärzten bei der Genossenschaft Schulzahnklinik kostenlos bezogen werden. Eine elektronische Dokumentationsvorlage steht auf der Internetseite der Hauptabteilung Gesundheit zur Verfügung.
-
-<sup>3</sup> Die Erziehungsberechtigten haben die Dokumentation aufzubewahren und für die Folgeuntersuchungen den Lernenden mitzugeben.
+<sup>2–3</sup> …
 
 <sup>4</sup> Feststellungen über Gebrechen, Krankheiten oder anderweitige gesundheitsschädigende Vorkommnisse teilen Schulzahnärztin oder Schulzahnarzt den Erziehungsberechtigten mit; diese sind einzuladen, entsprechende Massnahmen zu ergreifen.
 
-<sup>5</sup> Vor dem Austritt aus der obligatorischen Schulzeit wird die Dokumentation den Lernenden übergeben.
+<sup>5</sup> …
 
 #### Art. 4
 
@@ -66,9 +63,7 @@ Vom 26.06.2012 (Stand 01.08.2016)
 
 <sup>1</sup> Zur Berechnung der Vergütung werden pro Lernende oder Lernenden 9,5 Taxpunkte mit einem Taxpunktwert von 3,20 Franken multipliziert.
 
-<sup>2</sup> Die Prophylaxeleistungen sowie die Herstellung und Verteilung der Zahnhefte durch die Genossenschaft Schulzahnklinik werden pauschal mit 25 000 Franken pro Schuljahr vergütet.
-
-<sup>3–4</sup> …
+<sup>2–4</sup> …
 
 #### Art. 5–6
 
