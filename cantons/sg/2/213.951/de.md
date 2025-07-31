@@ -3,20 +3,20 @@ canton: SG
 number: "213.951"
 title: Verordnung über die Anerkennung und Finanzierung von privaten Sonderschulen (Sonderschulverordnung)
 language: de
-version: 2023-05-01
-valid_until: 2025-07-31
-version_adopted: 2023-03-28
+version: 2025-08-01
+valid_until: 2025-09-30
+version_adopted: 2026-09-01
 adopted: 2015-02-03
 in_force: 2015-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/213.951"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3482/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3932/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Anerkennung und Finanzierung von privaten Sonderschulen (Sonderschulverordnung)
 
-vom 03.02.2015 (Stand 01.05.2023)
+vom 03.02.2015 (Stand 01.08.2025)
 
 Die Regierung des Kantons St.Gallen erlässt
 
@@ -33,7 +33,7 @@ als Verordnung:[^ingress-2]
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung regelt die Anerkennung von privaten Sonderschulen und die Finanzierung der von ihnen erbrachten Leistungen.
+<sup>1</sup> Diese Verordnung regelt die Anerkennung von privaten Sonderschulen und die Finanzierung der von ihnen erbrachten Leistungen sowie die Ausrichtung von Kantonsbeiträgen an die Volksschulträger für die Beschulung von Schülerinnen und Schülern, für die der Besuch einer Sonderschule verfügt wurde, aber kein entsprechender Platz in einer anerkannten Sonderschule zur Verfügung steht.
 
 <sup>2</sup> Sie wird sachgemäss auf die Anerkennung und Finanzierung von Durchführungsstellen der heilpädagogischen Frühförderung sowie der behinderungsspezifischen Beratung und Unterstützung angewendet.
 
@@ -242,9 +242,13 @@ als Verordnung:[^ingress-2]
 
 #### Art. 20a
 
+**…**
+
+#### Art. 20b
+
 **Bereitstellung von zusätzlichen Sonderschulplätzen**
 
-<sup>1</sup> Erfordert die Nachfrage die Bereitstellung von zusätzlichen Sonderschulplätzen, kann der Kanton der Sonderschule zusätzlich zu den Pauschalen nach Art. [22](https://www.gesetzessammlung.sg.ch/data/213.951/de/art22) dieses Erlasses einmalig die zur Gewährleistung eines ausreichenden Grundschulunterrichts pädagogisch und betrieblich nötigen Anschaffungen vergüten.
+<sup>1</sup> Erfordert die Nachfrage die Bereitstellung von zusätzlichen Sonderschulplätzen, kann der Kanton der Sonderschule zusätzlich zu den Pauschalen nach [Art. 22](https://www.gesetzessammlung.sg.ch/data/213.951/de/art22) dieses Erlasses einmalig die zur Gewährleistung eines ausreichenden Grundschulunterrichts pädagogisch und betrieblich nötigen Anschaffungen vergüten.
 
 <sup>2</sup> Ein Beitrag des Kantons an die Anschaffungen nach Abs. 1 dieser Bestimmung setzt voraus, dass der Betriebsfonds der Sonderschule in der Bilanz der letzten Jahresrechnung zehn Prozent des kumulierten Betrags aus den Pauschalen Schule, Wohnen und Transport des vorangegangenen Kalenderjahres unterschreitet.
 
@@ -254,7 +258,7 @@ als Verordnung:[^ingress-2]
 
 - a) Grobkonzept für die Kapazitätserweiterung;
 - b) Bezeichnung der pädagogisch und betrieblich nötigen Anschaffungen;
-- c) Kostenvoranschlag für die geplanten Anschaffungen.
+- c) c) Kostenvoranschlag für die geplanten Anschaffungen.
 
 #### Art. 21
 
@@ -455,6 +459,21 @@ als Verordnung:[^ingress-2]
 **[^39-1]**
 
 [^39-1]: Die Aufhebung bisherigen Rechts wird nicht aufgeführt.
+
+## III<sup>bis</sup>. Kantonsbeiträge an Volksschulträger für Beschulung im Einzelfall
+
+#### Art. 39a
+
+**Kantonsbeitrag**
+
+<sup>1</sup> Das Bildungsdepartement leistet dem Volksschulträger jährlich einen Kantonsbeitrag an die Kosten für die Beschulung von Schülerinnen und Schüler, für die der Besuch einer Sonderschule verfügt wurde, aber kein entsprechender Platz in einer anerkannten Sonderschule zur Verfügung steht, wenn:
+
+- a) ein Gutachten der zentralen Abklärungsstelle nach [Art. 36<sup>bis</sup>](https://www.gesetzessammlung.sg.ch/data/213.1/de/art36bis) des Volksschulgesetzes vom 13. Januar 1983[^39a-1] den Sonderschulbedarf festgestellt hat;
+- b) die Kosten der vom Volksschulträger getroffenen Massnahmen zur Beschulung im Einzelfall nachgewiesen und die Massnahmen pädagogisch sinnvoll sind.
+
+<sup>2</sup> Der Kantonsbeitrag beträgt Fr. 15'000.– je Schülerin und Schüler.
+
+[^39a-1]: sGS [213.1](https://www.gesetzessammlung.sg.ch/data/213.1/de).
 
 ## IV. Schlussbestimmungen
 
