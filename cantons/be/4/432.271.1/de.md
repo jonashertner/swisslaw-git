@@ -4,13 +4,12 @@ number: "432.271.1"
 title: Verordnung über die einfachen sonderpädagogischen und unterstützenden Massnahmen im Regelschulangebot
 short: VMR
 language: de
-version: 2023-01-01
-valid_until: 2025-07-31
-version_adopted: 2022-11-16
+version: 2025-08-01
+version_adopted: 2024-12-11
 adopted: 2007-09-19
 in_force: 2008-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/432.271.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2730/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3107/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2730/pdf_file"
 
 (VMR)
 
-vom 19.09.2007 (Stand 01.01.2023)
+vom 19.09.2007 (Stand 01.08.2025)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -149,7 +148,7 @@ beschliesst:
 
 #### Art. 8
 
-**Formen, Organisation und Definition von besonderen Klassen**
+**Formen und Organisation**
 
 <sup>1</sup> Besondere Klassen sind
 
@@ -158,9 +157,7 @@ beschliesst:
 
 <sup>2</sup> Sie sind in Bezug auf die Regelklassen kooperativ und durchlässig zu organisieren.
 
-<sup>3</sup> Eine besondere Klasse gilt für die Berechtigung des Bezugs der Klassenlehrerlektion und für die Berechnung des Lastenausgleichs dann als Klasse, wenn Schülerinnen und Schüler in dieser durchschnittlich mindestens 16 Wochenlektionen belegen.
-
-<sup>4</sup> Bei der Durchschnittsberechnung nach Absatz 3 werden Schülerinnen und Schüler mit weniger als acht Wochenlektionen nicht berücksichtigt.
+<sup>3–4</sup> …
 
 #### Art. 9
 

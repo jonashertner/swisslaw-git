@@ -4,13 +4,12 @@ number: "432.271.1"
 title: "Ordonnance régissant les mesures de pédagogie spécialisée ordinaires et les mesures de soutien relevant de l'offre ordinaire de l'école obligatoire *"
 short: OMO
 language: fr
-version: 2023-01-01
-valid_until: 2025-07-31
-version_adopted: 2022-11-16
+version: 2025-08-01
+version_adopted: 2024-12-11
 adopted: 2007-09-19
 in_force: 2008-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/432.271.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2730/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3107/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2730/pdf_file"
 
 (OMO)
 
-du 19.09.2007 (état au 01.01.2023)
+du 19.09.2007 (état au 01.08.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -149,7 +148,7 @@ arrête:
 
 #### Art. 8
 
-**Formes, organisation et définition des classes spéciales**
+**Formes et organisation**
 
 <sup>1</sup> On entend par classes spéciales
 
@@ -158,9 +157,7 @@ arrête:
 
 <sup>2</sup> Elles sont organisées de manière à assurer la coopération et la perméabilité avec les classes ordinaires.
 
-<sup>3</sup> Une classe spéciale est reconnue comme classe pour l’octroi d’une leçon au maître de classe et pour le calcul de la compensation des charges si les élèves de cette classe suivent au moins seize leçons hebdomadaires en moyenne.
-
-<sup>4</sup> Les élèves qui suivent moins de huit leçons hebdomadaires ne sont pas pris en compte dans le calcul de la moyenne selon l’alinéa 3.
+<sup>3–4</sup> …
 
 #### Art. 9
 
