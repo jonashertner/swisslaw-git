@@ -4,13 +4,12 @@ number: "231.31"
 title: Ergänzende Verordnung über das Arbeitsverhältnis der Lehrpersonen an Berufs- und Weiterbildungszentren
 short: EVA-BS
 language: de
-version: 2023-08-01
-valid_until: 2025-07-31
-version_adopted: 2023-05-16
+version: 2025-08-01
+version_adopted: 2024-05-07
 adopted: 2015-03-24
 in_force: 2016-08-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/231.31"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3510/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3646/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3510/pdf_file"
 
 (EVA-BS)
 
-vom 24.03.2015 (Stand 01.08.2023)
+vom 24.03.2015 (Stand 01.08.2025)
 
 Die Regierung des Kantons St.Gallen
 
@@ -157,7 +156,8 @@ als Verordnung:[^ingress-2]
 <sup>2</sup> Der Unterricht je Jahreswochenlektion wird im Lehrauftrag angerechnet mit:
 
 - a) in Laufbahn A: 3,76 Prozent;
-- b) in den Laufbahnen B und E: 3,48 Prozent;
+- a<sup>bis</sup>) in Laufbahn B: 3,62 Prozent;
+- b) in Laufbahn E: 3,48 Prozent;
 - c) in den Laufbahnen C, D und F: 3,36 Prozent.
 
 #### Art. 13
