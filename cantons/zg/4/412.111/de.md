@@ -4,13 +4,12 @@ number: "412.111"
 title: Verordnung zum Schulgesetz
 short: Schulverordnung; SchulV
 language: de
-version: 2024-08-01
-valid_until: 2025-07-31
-version_adopted: 2024-06-04
+version: 2025-08-01
+version_adopted: 2025-07-01
 adopted: 1992-07-07
 in_force: 1992-08-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/412.111"
-pdf: "https://bgs.zg.ch/api/de/versions/2579/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2701/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,15 +18,15 @@ pdf: "https://bgs.zg.ch/api/de/versions/2579/pdf_file"
 
 (Schulverordnung; SchulV)
 
-Vom 7. Juli 1992 (Stand 1. August 2024)
+Vom 7. Juli 1992 (Stand 1. August 2025)
 
 Der Regierungsrat des Kantons Zug,
 
-in Vollziehung des Schulgesetzes (SchulG) vom 27. September 1990[^ingress-1],
+gestützt auf § 47 Abs. 1 Bst. d der Verfassung des Kantons Zug (Kantonsverfassung, KV) vom 31. Januar 1894[^ingress-1],
 
 beschliesst:
 
-[^ingress-1]: GS 412.11
+[^ingress-1]: BGS [111.1](https://bgs.zg.ch/data/111.1/de)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -383,6 +382,51 @@ beschliesst:
 
 <sup>2</sup> Die fachtechnische Aufsicht über den schulzahnärztlichen Dienst liegt bei der Gesundheitsdirektion.
 
+### 3.3. Schulergänzende Betreuung
+
+#### § 17b
+
+**Modulare Betreuungsangebote während der Schulwochen**
+
+<sup>1</sup> Die Gemeinden stellen die schulergänzende Betreuung wie folgt sicher:
+
+- a) von 7.00 Uhr bis Schulbeginn;
+- b) über den Mittag, wobei das Mittagessen nicht inbegriffen sein muss;
+- c) am Nachmittag bis 18.00 Uhr, wobei die Hausaufgabenbetreuung integriert ist.
+
+#### § 17c
+
+**Betreuung während der Weihnachtsferien und Feiertage**
+
+<sup>1</sup> Während der Weihnachtsferien und an Feiertagen findet keine schulergänzende Betreuung statt.
+
+#### § 17d
+
+**Qualitätsvorgaben und Aufsicht**
+
+<sup>1</sup> Bezüglich der Qualitätsvorgaben und der Aufsicht gelten die Bestimmungen der Verordnung zum Gesetz über die familienergänzende Kinderbetreuung (Kinderbetreuungsverordnung, KiBeV) vom 14. November 2006[^17d-1] und des entsprechenden Anhangs[^17d-2].
+
+[^17d-1]: BGS [213.42](https://bgs.zg.ch/data/213.42/de)
+[^17d-2]: BGS [213.42-A1](https://bgs.zg.ch/data/213.42-A1/de)
+
+#### § 17e
+
+**Pauschalen**
+
+<sup>1</sup> Der Kanton beteiligt sich mit folgenden Pauschalbeiträgen an den Kosten der Gemeinden für die schulergänzende Betreuung:
+
+- a) Stundenpauschale für die Morgen-, Mittags oder Nachmittagsbetreuung während der Schulwochen: 3.33 Franken pro Schülerin oder Schüler;
+- b) Tagespauschale für die Betreuung während der Schulferien: 36.67 Franken pro Schülerin oder Schüler;
+- c) Pauschalen für die integrative Sonderschulung: Stundenpauschale von 6.67 Franken pro Schülerin oder Schüler; Tagespauschale während der Schulferien von 73.37 Franken pro Schülerin oder Schüler.
+
+<sup>2</sup> Die Pauschalen entsprechen einem Stand von 105,2 Indexpunkten (September 2024; Dezember 2010 = 100) des Landesindexes der Konsumentenpreise.
+
+<sup>3</sup> Die Gemeinden können die Höhe des Elternbeitrags für die schulergänzende Betreuung von Regelschülerinnen und -schülern sowie von integrativ beschulten Sonderschülerinnen und -schülern festlegen.
+
+<sup>4</sup> Die Direktion für Bildung und Kultur zahlt den Gemeinden jährlich die Pauschalen aufgrund der von den Gemeinden gemeldeten Anzahl von Betreuungsstunden während der Schulwochen sowie von Betreuungstagen während der Schulferien.
+
+<sup>5</sup> Die Direktion für Bildung und Kultur prüft periodisch die Korrektheit der gemeldeten Anzahl von Betreuungsstunden. Sie ist berechtigt, die für die Kontrolltätigkeit notwendigen Unterlagen von den zuständigen Abteilungen der Gemeinden einzuverlangen.
+
 ## 4. Kantonale Schuldienste
 
 #### § 18
@@ -658,38 +702,18 @@ beschliesst:
 
 <sup>1</sup> Die Direktion für Bildung und Kultur entscheidet über die Gewährung von Kantonsbeiträgen im Rahmen des vom Kantonsrat beschlossenen Budgetkredits.
 
-## 11. Übergangs- und Schlussbestimmungen
+## 11.
 
 #### § 39
 
-**Aufgehobene Erlasse**
-
-<sup>1</sup> Auf den Zeitpunkt des Inkrafttretens dieser Verordnung werden folgende Erlasse aufgehoben:
-
-- a) die Verordnung II zum Schulgesetz (Schulanlagen und Schulmobiliar) vom 28. April 1970[^39-1];
-- b) die Verordnung VIII zum Schulgesetz (Kindergarten) vom 16. August 1979[^39-2];
-- c) das Reglement über den schulärztlichen Dienst an den Schulen im Kanton Zug vom 29. März 1966[^39-3];
-- d) die Verordnung über die Schulzahnpflege und den Schulzahnarzt-Dienst vom 8. Juli 1986[^39-4];
-- e) die Vollziehungsverordnung betreffend Beiträge an ausserkantonale höhere Schulen vom 29. August 1978[^39-5].
-
-[^39-1]: GS 19, 739
-[^39-2]: GS 21, 315
-[^39-3]: GS 19, 145
-[^39-4]: GS 22, 773
-[^39-5]: GS 21, 151
+**…**
 
 #### § 40
 
-**Übergangsbestimmungen**
-
-<sup>1</sup> …
-
-<sup>2</sup> …
+**…**
 
 #### § 41
 
-**Inkrafttreten**
-
-<sup>1</sup> Diese Verordnung tritt auf den 1. August 1992 in Kraft.
+**…**
 
 GS 24, 55
