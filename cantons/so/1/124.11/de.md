@@ -4,13 +4,12 @@ number: "124.11"
 title: Gesetz über den Rechtsschutz in Verwaltungssachen
 short: Verwaltungsrechtspflegegesetz
 language: de
-version: 2023-01-01
-valid_until: 2025-07-31
-version_adopted: 2022-06-28
+version: 2025-08-01
+version_adopted: 2024-03-27
 adopted: 1970-11-15
 in_force: 1971-04-01
 url: "https://bgs.so.ch/app/de/texts_of_law/124.11"
-pdf: "https://bgs.so.ch/api/de/versions/5262/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5523/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5262/pdf_file"
 
 (Verwaltungsrechtspflegegesetz)
 
-Vom 15.11.1970 (Stand 01.01.2023)
+Vom 15.11.1970 (Stand 01.08.2025)
 
 Der Kantonsrat von Solothurn
 
@@ -654,9 +653,7 @@ beschliesst:
 
 #### § 59
 
-**VIII. Aufbewahrung von Akten**
-
-<sup>1</sup> Die Akten der Verwaltungsprozesse und Beschwerdeentscheide werden von der betreffenden Verwaltungsgerichtsbehörde aufbewahrt.
+**…**
 
 ### 4.4. Verwaltungsgerichtliche Klage
 
