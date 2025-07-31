@@ -3,20 +3,19 @@ canton: VS
 number: "411.101"
 title: Reglement betreffend Urlaube und die im Rahmen der obligatorischen Schulpflicht anwendbaren Disziplinarmassnahmen
 language: de
-version: 2021-08-01
-corrected: 2021-09-06
-version_adopted: 2021-09-01
+version: 2025-08-01
+version_adopted: 2025-08-20
 adopted: 2004-07-14
 in_force: 2004-08-01
 url: "https://lex.vs.ch/app/de/texts_of_law/411.101"
-pdf: "https://lex.vs.ch/api/de/versions/2803/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3506/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement betreffend Urlaube und die im Rahmen der obligatorischen Schulpflicht anwendbaren Disziplinarmassnahmen
 
-vom 14.07.2004 (Stand 01.08.2021)
+vom 14.07.2004 (Stand 01.08.2025)
 
 Der Staatsrat des Kantons Wallis
 
@@ -94,7 +93,7 @@ beschliesst:
 
 <sup>1</sup> Sofern nicht berechtige Gründe oder Verhinderungen vorliegen, sind alle Schüler verpflichtet, an den von der Schule organisierten Ausflügen und Anlässen teilzunehmen.
 
-<sup>2</sup> Für Ausflüge, die länger als einen Tag dauern, und /oder je nach Art und Kosten der Aktivitäten ist die Zustimmung der Eltern notwendig.
+<sup>2</sup> Bei Reisen von mehr als einem Tag und/oder je nach Art der geplanten Aktivität muss das Einverständnis der Eltern eingeholt werden.
 
 #### Art. 8
 
@@ -106,10 +105,12 @@ beschliesst:
 - b) zu rauchen;
 - c) Betäubungsmittel im Sinne der einschlägigen Gesetzesbestimmungen zu besitzen, zu verkaufen, zu verteilen oder zu konsumieren;
 - d) Publikationen, deren Inhalt von den einschlägigen Gesetzesbestimmungen verboten ist, zu besitzen oder zu verteilen;
-- e) Gefährliche Gegenstände und gefährliche Produkte zu besitzen;
-- f) Mobiltelefone im Klassenzimmer zu benützen.
+- e) Waffen oder Nachbildungen von Waffen, gefährliche Gegenstände und gefährliche Produkte zu besitzen;
+- f) während der Unterrichtszeit Mobiltelefone oder andere elektronische Geräte für private Zwecke zu benutzen, vorbehaltlich Absatz 3 dieses Artikels. Dieses Verbot gilt auf dem gesamten Schulgelände (u.a. Klassenzimmer, Schulhof, Sanitäranlagen und Turnhallen). Es gilt auch während der Pausen, in der Zeit vor Unterrichtsbeginn und nach Unterrichtsende sowie bei Schulausflügen oder -veranstaltungen.
 
 <sup>2</sup> Die Nichteinhaltung dieser Verbote ist immer strafbar.
+
+<sup>3</sup> Was Mobiltelefone und private elektronische Geräte betrifft, so können die Lehrpersonen deren Nutzung für bestimmte Unterrichtseinheiten im Rahmen der Umsetzung des Lehrplans gestatten. Bei wichtigen persönlichen Gründen ist die Zustimmung der Schuldirektion erforderlich.
 
 ## 3 Dispensen, Urlaube und Absenzen
 

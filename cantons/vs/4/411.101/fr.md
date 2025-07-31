@@ -3,20 +3,19 @@ canton: VS
 number: "411.101"
 title: Règlement concernant les congés et les mesures disciplinaires applicables dans les limites de la scolarité obligatoire
 language: fr
-version: 2021-08-01
-corrected: 2021-09-06
-version_adopted: 2021-09-01
+version: 2025-08-01
+version_adopted: 2025-08-20
 adopted: 2004-07-14
 in_force: 2004-08-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/411.101"
-pdf: "https://lex.vs.ch/api/fr/versions/2803/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3506/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Règlement concernant les congés et les mesures disciplinaires applicables dans les limites de la scolarité obligatoire
 
-du 14.07.2004 (état 01.08.2021)
+du 14.07.2004 (état 01.08.2025)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -94,7 +93,7 @@ arrête:
 
 <sup>1</sup> Sauf motifs ou empêchements dûment justifiés, tous les élèves sont tenus de prendre part aux excursions et manifestations organisées par l'école.
 
-<sup>2</sup> Pour un déplacement de plus d'un jour et/ou selon la nature et le coût des activités prévues, l'accord des parents est nécessaire.
+<sup>2</sup> Pour un déplacement de plus d'un jour et/ou selon la nature de l'activité prévue, l'accord des parents est nécessaire.
 
 #### Art. 8
 
@@ -106,10 +105,12 @@ arrête:
 - b) de fumer;
 - c) de notamment détenir, vendre, distribuer ou consommer des stupéfiants au sens des dispositions spécifiques;
 - d) de détenir ou de distribuer des publications dont le contenu est prohibé par les dispositions spécifiques en la matière;
-- e) de détenir des objets et des produits dangereux;
-- f) d'utiliser un téléphone portable en classe.
+- e) de détenir des armes ou des répliques d’armes, des objets et des produits dangereux;
+- f) d'utiliser un téléphone portable ou tout autre appareil électronique à des fins privées durant le temps d'enseignement, sous réserve de l’alinéa 3 du présent article. Cette interdiction s’applique dans l’ensemble du périmètre de l’établissement scolaire (notamment les classes, cours d’école, locaux sanitaires, salles de sport). Elle s'applique également durant les pauses, durant les périodes précédant le début des cours et celles suivant la fin des cours, ainsi que lors de sorties ou d'événements scolaires.
 
 <sup>2</sup> La violation de ces interdictions est toujours motif de sanction.
+
+<sup>3</sup> Concernant les téléphones portables et les appareils électroniques privés, les enseignants peuvent autoriser leur utilisation pour certaines séquences pédagogiques dans le cadre de la mise en œuvre du plan d’études. Pour des raisons personnelles importantes, l’accord de la direction est requis.
 
 ## 3 Dispenses, congés et absences
 
