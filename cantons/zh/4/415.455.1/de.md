@@ -4,11 +4,10 @@ number: "415.455.1"
 title: Rahmenverordnung über die Bachelor- und Masterstudiengänge an der Philosophischen Fakultät der Universität Zürich (RVO PhF)
 short: RVO PhF
 language: de
-version: "2022-08-01"
-nachtrag: "117"
-valid_until: 2025-08-01
+version: "2025-08-01"
+nachtrag: "129"
 adopted: 2018-08-27
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_455_1-2018_08_27-2019_08_01-117.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_455_1-2018_08_27-2019_08_01-129.html"
 text: pdf
 ---
 
@@ -51,21 +50,21 @@ Einzelheiten werden in der Studienordnung geregelt.
 
 <sup>2</sup> In allen anderen Bereichen gelten die Bestimmungen der das jeweilige Modul oder das jeweilige Minor-Studienprogramm anbietenden Fakultät.
 
-#### § 4
-
 **Studienangebot**
 
-<sup>1</sup> Die Fakultät bietet folgende Bachelorstudiengänge im Umfang von 180 ECTS Credits an:
+§ 4.[^3-1] <sup>1</sup> Die Fakultät bietet folgende Bachelorstudiengänge im Umfang von 180 ECTS Credits an:
 
 - Bachelor of Arts,
 
 - Bachelor of Arts in Sozialwissenschaften,
 
-- Bachelor of Science in Psychologie.
+- Bachelor of Science in Psychologie,
+
+- Bachelor of Science in Computerlinguistik.
 
 **1**
 
-- 1\. 7. 22 - 117
+- 1\. 7. 25 - 129
 
 <sup>2</sup> Die Fakultät bietet auf Bachelorstufe Liberal Arts Options im Umfang von 30 ECTS Credits für Studierende anderer Fakultäten an.
 
@@ -75,19 +74,23 @@ Einzelheiten werden in der Studienordnung geregelt.
 
 - Master of Arts in Sozialwissenschaften,
 
-- Master of Science in Psychologie.
+- Master of Science in Psychologie,
 
-#### § 5
+- Master of Science in Computerlinguistik,
+
+- Master of Science in Evolutionary Language Science.
 
 **Bezeichnung und Abschlüsse**
 
-<sup>1</sup> Die Fakultät verleiht für einen erfolgreich abgeschlossenen Bachelorstudiengang Grade mit folgenden Bezeichnungen:
+§ 5.[^3-1] <sup>1</sup> Die Fakultät verleiht für einen erfolgreich abgeschlossenen Bachelorstudiengang Grade mit folgenden Bezeichnungen:
 
 - Bachelor of Arts UZH,
 
 - Bachelor of Arts UZH in Sozialwissenschaften,
 
-- Bachelor of Science UZH in Psychologie.
+- Bachelor of Science UZH in Psychologie,
+
+- Bachelor of Science UZH in Computerlinguistik.
 
 <sup>2</sup> Die Fakultät verleiht für einen erfolgreich abgeschlossenen Masterstudiengang Grade mit folgenden Bezeichnungen:
 
@@ -95,7 +98,11 @@ Einzelheiten werden in der Studienordnung geregelt.
 
 - Master of Arts UZH in Sozialwissenschaften,
 
-- Master of Science UZH in Psychologie.
+- Master of Science UZH in Psychologie,
+
+- Master of Science UZH in Computerlinguistik,
+
+- Master of Science UZH in Evolutionary Language Science.
 
 <sup>3</sup> Die Grade werden wie folgt abgekürzt:
 
@@ -105,9 +112,13 @@ Einzelheiten werden in der Studienordnung geregelt.
 
 - Bachelor of Arts UZH in Sozialwissenschaften BA UZH
 
-**BSc UZH MA UZH**
+**BSc UZH**
 
 - Bachelor of Science UZH in Psychologie
+
+- Bachelor of Science UZH in Computerlinguistik BSc UZH
+
+**MA UZH**
 
 - Master of Arts UZH
 
@@ -116,6 +127,14 @@ Einzelheiten werden in der Studienordnung geregelt.
 **MSc UZH**
 
 - Master of Science UZH in Psychologie
+
+- Master of Science UZH in Computerlinguistik MSc UZH
+
+**MSc UZH**
+
+- Master of Science UZH in Evolutionary Language Science
+
+[^3-1]: Fassung gemäss URB vom 16. September 2024 (OS 80, 32; ABl 2024-12-20). In Kraft seit 1. August 2025. 1. 7. 25 - 129 15
 
 ### B. Allgemeines zum Studium
 
@@ -165,6 +184,10 @@ Für die Zulassung zu den Studiengängen ist die Verordnung über die Zulassung 
 
 <sup>2</sup> Die Sprache der Lehrveranstaltungen auf Masterstufe ist grundsätzlich Deutsch oder Englisch. Einzelne Lehrveranstaltungen können in anderen Sprachen erfolgen.
 
+**3**
+
+- 1\. 7. 25 - 129
+
 <sup>3</sup> Die Lehrveranstaltungen in den philologischen Studienprogrammen können in der entsprechenden Sprache stattfinden.
 
 <sup>4</sup> Die Leistungsnachweise werden grundsätzlich in denjenigen Sprachen durchgeführt und erbracht, in der die betreffenden Module durchgeführt werden.
@@ -178,10 +201,6 @@ Für die Zulassung zu den Studiengängen ist die Verordnung über die Zulassung 
 <sup>1</sup> Die Urheberrechte an studentischen Arbeiten gehören grundsätzlich den Studierenden.
 
 <sup>2</sup> Die Studierenden treten der UZH mit Einreichung einer Arbeit das Urheberrecht ab, soweit es für Verwaltungshandlungen wie Plagiatserkennung oder Archivierung notwendig ist.
-
-**3**
-
-- 1\. 7. 22 - 117
 
 <sup>3</sup> Die Studierenden sind verpflichtet, vor der Veröffentlichung einer Arbeit die Programmdirektorin oder den Programmdirektor zu informieren.
 
@@ -259,6 +278,10 @@ Die Programmdirektorin oder der Programmdirektor bestimmt für sämtliche Module
 
 <sup>4</sup> Die dem Modul zugewiesene Anzahl von ECTS Credits wird immer vollständig vergeben, eine anteilige Vergabe ist nicht zulässig.
 
+**5**
+
+- 1\. 7. 25 - 129
+
 ### 3. Abschnitt: Leistungsnachweise, endgültige Abweisung und Sperre
 
 ### A. Leistungsnachweise
@@ -283,11 +306,11 @@ Leistungsnachweise sind insbesondere:
 
 - Nachweis von im Rahmen einer E-Learning-Veranstaltung erbrachten Studienleistungen.
 
-**5**
-
-- 1\. 7. 22 - 117 § 23. <sup>1</sup> Die Modalitäten der Erbringung eines bestimmten Leistungsnachweises werden für alle Studierenden einheitlich festgelegt. Die Studienordnung kann besondere Regelungen für bestimmte Kategorien von Studierenden vorsehen.
+#### § 23
 
 **Organisation und Modalitäten der Leistungsnachweise**
+
+<sup>1</sup> Die Modalitäten der Erbringung eines bestimmten Leistungsnachweises werden für alle Studierenden einheitlich festgelegt. Die Studienordnung kann besondere Regelungen für bestimmte Kategorien von Studierenden vorsehen.
 
 <sup>2</sup> Bei Leistungsnachweisen in Form einer mündlichen Prüfung ist eine Beisitzerin oder ein Beisitzer anwesend, die oder der über einen Studienabschluss mindestens auf Masterstufe verfügt. Es ist ein Protokoll zu führen.
 
@@ -353,11 +376,11 @@ Leistungsnachweise sind insbesondere:
 
 <sup>2</sup> Substitutionen sind im Rahmen des in der Studienordnung definierten Bereichs möglich.
 
-#### § 30
+**7**
+
+- 1\. 7. 25 - 129 § 30. <sup>1</sup> Unlauteres Verhalten liegt bei der Vornahme von Betrugshandlungen oder Unredlichkeiten vor. Dazu gehören insbesondere das Mitbringen oder die Verwendung unerlaubter Hilfsmittel, die unerlaubte Kommunikation mit Dritten, das Einreichen eines Plagiats oder einer schriftlichen Prüfung oder Arbeit, die nicht selbstständig verfasst wurde.
 
 **Unlauteres Verhalten**
-
-<sup>1</sup> Unlauteres Verhalten liegt bei der Vornahme von Betrugshandlungen oder Unredlichkeiten vor. Dazu gehören insbesondere das Mitbringen oder die Verwendung unerlaubter Hilfsmittel, die unerlaubte Kommunikation mit Dritten, das Einreichen eines Plagiats oder einer schriftlichen Prüfung oder Arbeit, die nicht selbstständig verfasst wurde.
 
 <sup>2</sup> Liegt unlauteres Verhalten gemäss Abs. 1 vor, erklärt die Studiendekanin oder der Studiendekan den Leistungsnachweis für nicht bestanden und einen ausgestellten Leistungsausweis für ungültig. Bereits verliehene Grade werden durch die Studiendekanin oder den Studiendekan aberkannt. Sämtliche Dokumente, die nach dem unlauteren Verhalten ausgestellt wurden, werden eingezogen.
 
@@ -365,13 +388,13 @@ Leistungsnachweise sind insbesondere:
 
 <sup>4</sup> Zur Verhinderung unlauteren Verhaltens kann die Programmdirektorin oder der Programmdirektor vorgängig geeignete Massnahmen treffen.
 
-**7**
-
-- 1\. 7. 22 - 117 § 31. Zur Sicherstellung der Geheimhaltung der Prüfungsfragen können die Herausgabe der Prüfungsunterlagen eingeschränkt oder verweigert, die Herstellung von Kopien oder Abschriften untersagt und die Dauer der Einsichtnahme beschränkt werden.
-
-#### § 32
+#### § 31
 
 **Akteneinsicht in Prüfungsunterlagen**
+
+Zur Sicherstellung der Geheimhaltung der Prüfungsfragen können die Herausgabe der Prüfungsunterlagen eingeschränkt oder verweigert, die Herstellung von Kopien oder Abschriften untersagt und die Dauer der Einsichtnahme beschränkt werden.
+
+#### § 32
 
 **Leistungsausweis**
 
@@ -443,15 +466,15 @@ Bachelorstudierende, die mindestens 120 ECTS Credits erworben haben, können Mas
 
 Die Masterstudiengänge vermitteln den Studierenden vertiefte fachliche Kenntnisse und die Fähigkeit zum selbstständigen wissenschaftlichen und praktischen Arbeiten.
 
-[^39-1]: LS 415.31.
+**9**
 
-#### § 40
+- 1\. 7. 25 - 129 § 40. <sup>1</sup> Die Studienprogramme der Masterstufe sind entweder konsekutiv oder spezialisiert. Es gelten die entsprechenden Bestimmungen der VZS[^39-1].
 
 **Konsekutive und spezialisierte Masterprogramme**
 
-<sup>1</sup> Die Studienprogramme der Masterstufe sind entweder konsekutiv oder spezialisiert. Es gelten die entsprechenden Bestimmungen der VZS[^39-1].
-
 <sup>2</sup> Die Studienordnung regelt die spezifischen Zulassungsvoraussetzungen der spezialisierten Masterstudienprogramme.
+
+[^39-1]: LS 415.31.
 
 #### § 41
 
@@ -467,11 +490,11 @@ Die Masterstudiengänge vermitteln den Studierenden vertiefte fachliche Kenntnis
 
 <sup>3</sup> Die Studienordnung legt das Angebot und die Kombinationsmöglichkeiten sowie die möglichen Schwerpunkte der Studienprogramme fest.
 
-**9**
-
-- 1\. 7. 22 - 117 § 42. <sup>1</sup> Während des Masterstudiengangs ist im Major-Studienprogramm eine Masterarbeit im Umfang von 30 ECTS Credits zu verfassen. Die Masterarbeit gilt als Pflichtmodul und wird benotet.
+#### § 42
 
 **Masterarbeit**
+
+<sup>1</sup> Während des Masterstudiengangs ist im Major-Studienprogramm eine Masterarbeit im Umfang von 30 ECTS Credits zu verfassen. Die Masterarbeit gilt als Pflichtmodul und wird benotet.
 
 <sup>2</sup> Die Masterarbeit ist in deutscher oder englischer Sprache zu verfassen. Die Studienordnung kann Ausnahmen vorsehen.
 
@@ -537,6 +560,10 @@ Gleiche oder inhaltlich ähnliche Module bzw. Studienleistungen können nicht me
 
 <sup>4</sup> Wenn gemäss Abs. 3 nicht alle Module angerechnet werden können, werden bei Modulen, die im gleichen Semester absolviert wurden, die von den Studierenden bezeichneten Module an den Studienabschluss angerechnet.
 
+**11**
+
+- 1\. 7. 25 - 129
+
 ### D. Studienabschluss
 
 #### § 48
@@ -555,11 +582,11 @@ Gleiche oder inhaltlich ähnliche Module bzw. Studienleistungen können nicht me
 
 <sup>2</sup> Die Verleihung des Grades erfolgt durch die Aushändigung der unterzeichneten Diplomurkunde.
 
-**11**
-
-- 1\. 7. 22 - 117 § 50. <sup>1</sup> Der Mastergrad wird durch die Fakultät verliehen, wenn nach Massgabe der Rahmenverordnung und der Studienordnung 120 ECTS Credits erworben worden sind. Davon muss mindestens die Hälfte der für das Major-Studienprogramm / Mono-Studienprogramm erforderlichen Studienleistungen (in ECTS Credits) an der Philosophischen Fakultät der UZH erbracht worden sein.
+#### § 50
 
 **Verleihung des Mastergrades**
+
+<sup>1</sup> Der Mastergrad wird durch die Fakultät verliehen, wenn nach Massgabe der Rahmenverordnung und der Studienordnung 120 ECTS Credits erworben worden sind. Davon muss mindestens die Hälfte der für das Major-Studienprogramm / Mono-Studienprogramm erforderlichen Studienleistungen (in ECTS Credits) an der Philosophischen Fakultät der UZH erbracht worden sein.
 
 <sup>2</sup> Die Verleihung des Grades erfolgt durch die Aushändigung der unterzeichneten Diplomurkunde.
 
@@ -615,6 +642,10 @@ Das Diploma Supplement ist eine standardisierte Erläuterung des Studienabschlus
 
 <sup>2</sup> Für den Rekurs zuständig ist die Rekurskommission der Zürcher Hochschulen.
 
+**13**
+
+- 1\. 7. 25 - 129
+
 ### 6. Abschnitt: Übergangsbestimmungen
 
 #### § 57
@@ -631,11 +662,11 @@ Das Diploma Supplement ist eine standardisierte Erläuterung des Studienabschlus
 
 <sup>2</sup> In Einzelfällen kann die Fakultät zugunsten der Studierenden auf die Überführung in Studienprogramme nach dieser RVO verzichten und den weiteren Verlauf des Studiums sowie die Modalitäten in allgemeiner Form festlegen oder in individuellen Studienvereinbarungen mit den Studierenden festhalten.
 
-**13**
-
-- 1\. 7. 22 - 117 § 58. <sup>1</sup> Jede Überführung aus auslaufenden Studienprogrammen erfolgt in vergleichbare oder ähnliche Studienprogramme, die sich inhaltlich und umfangmässig eignen.
+#### § 58
 
 **Überführung in Studienprogramme nach dieser RVO**
+
+<sup>1</sup> Jede Überführung aus auslaufenden Studienprogrammen erfolgt in vergleichbare oder ähnliche Studienprogramme, die sich inhaltlich und umfangmässig eignen.
 
 <sup>2</sup> Die Überführung aus einzelnen auslaufenden Studienprogrammen in eines oder zwei Studienprogramme sowie die Zusammenfassung oder Aufteilung mehrerer auslaufender Studienprogramme in ein oder zwei Studienprogramme gemäss dieser RVO sind zulässig.
 
