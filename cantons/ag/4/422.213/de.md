@@ -4,13 +4,13 @@ number: "422.213"
 title: Verordnung über die Allgemeinbildung in der beruflichen Grundbildung
 short: V ABU
 language: de
-version: 2022-08-01
-valid_until: 2025-07-31
-version_adopted: 2021-12-15
+version: 2025-08-01
+valid_until: 2026-07-31
+version_adopted: 2025-05-21
 adopted: 2021-12-15
 in_force: 2022-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/422.213"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3156/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3823/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3156/pdf_file"
 
 (V ABU)
 
-Vom 15.12.2021 (Stand 01.08.2022)
+Vom 15.12.2021 (Stand 01.08.2025)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf § 91 Abs. 2<sup>bis</sup> lit. a der Kantonsverfassung und die §§ 16 Abs. 4 und 35 Abs. 1 und 3 des Gesetzes über die Berufs- und Weiterbildung (GBW) vom 6. März 2007[^ingress-1],
+gestützt auf die §§ 16 Abs. 4, 17b Abs. 2 und 35 Abs. 1 und 3 des Gesetzes über die Berufs- und Weiterbildung (GBW) vom 6. März 2007[^ingress-1],
 
 beschliesst:
 
