@@ -4,11 +4,11 @@ title: Ordonnance du 30 novembre 1992 sur les forêts (OFo)
 short: OFo
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538"
 language: fr
-version: 2025-01-01
+version: 2025-08-01
 adopted: 1992-11-30
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1992-2538_2538_2538-20250101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2538_2538_2538/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538/20250801/fr/xml/fedlex-data-admin-ch-eli-cc-1992-2538_2538_2538-20250801-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2538_2538_2538/20250801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1992/2538_2538_2538/20250101/fr"
 
 (OFo)
 
-du 30 novembre 1992 (État le 1<sup>er</sup> janvier 2025)
+du 30 novembre 1992 (État le 1<sup>er</sup> août 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,8 +25,8 @@ vu l’art. 49 de la loi du 4 octobre 1991 sur les forêts (LFo)[^ingress-1], vu
 
 arrête:
 
-[^ingress-1]: [RS 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
-[^ingress-2]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^ingress-1]: [RS 921.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10958)
+[^ingress-2]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 
 ## Chapitre 1 Définition de la forêt
 
@@ -83,7 +83,7 @@ Ne sont pas considérées comme défrichement:
 - a. l’affectation du sol forestier à des constructions et installations forestières, de même qu’à des petites constructions et installations non forestières;
 - b. l’attribution de forêt à une zone de protection au sens de l’art. 17 de la loi fédérale du 22 juin 1979 sur l’aménagement du territoire (LAT)[^4-1], si le but de la protection est compatible avec la conservation de la forêt.
 
-[^4-1]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^4-1]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 5
 
@@ -183,10 +183,10 @@ Sont de grande valeur paysagère en particulier:
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du 14 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
 [^9-2]: Nouvelle teneur selon le ch. I de l’O du 14 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
-[^9-3]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^9-4]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
-[^9-5]: [[RO 1977 1962](https://fedlex.data.admin.ch/eli/oc/1977/1962_1962_1962), [1983 1942](https://fedlex.data.admin.ch/eli/oc/1983/1942_1942_1942), [1996 3264](https://fedlex.data.admin.ch/eli/oc/1996/3264_3264_3264), [1998 788](https://fedlex.data.admin.ch/eli/oc/1998/788_788_788), [2010 1593](https://fedlex.data.admin.ch/eli/oc/2010/227)annexe ch. 2. [RO 2017 2815](https://fedlex.data.admin.ch/eli/oc/2017/290)art. 11]. Voir actuellement l’O du 29 mars 2017 ([RS 451.11](https://fedlex.data.admin.ch/eli/cc/2017/290)).
-[^9-6]: [RS **1** 3; [RO 1988 352](https://fedlex.data.admin.ch/eli/oc/1988/352_352_352)]. Voir actuellement l’art. 78, al. 5 de la Cst. du 18 avril 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^9-3]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^9-4]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
+[^9-5]: [[RO 1977 1962](https://fedlex.data.admin.ch/eli/oc/1977/1962_1962_1962), [1983 1942](https://fedlex.data.admin.ch/eli/oc/1983/1942_1942_1942), [1996 3264](https://fedlex.data.admin.ch/eli/oc/1996/3264_3264_3264), [1998 788](https://fedlex.data.admin.ch/eli/oc/1998/788_788_788), [2010 1593](https://fedlex.data.admin.ch/eli/oc/2010/227)annexe ch. 2. [RO 2017 2815](https://fedlex.data.admin.ch/eli/oc/2017/290)art. 11]. Voir actuellement l’O du 29 mars 2017 ([RS 451.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7168)).
+[^9-6]: [[RS 1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4713)3; [RO 1988 352](https://fedlex.data.admin.ch/eli/oc/1988/352_352_352)]. Voir actuellement l’art. 78, al. 5 de la Cst. du 18 avril 1999 ([RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 
 #### Art. 9a
 
@@ -295,7 +295,7 @@ L’autorisation est délivrée si:
 <sup>3</sup> Le droit fédéral et le droit cantonal peuvent poser d’autres conditions.
 
 [^13a-1]: Introduit par le ch. I de l’O du 14 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
-[^13a-2]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^13a-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 [^13a-3]: Nouvelle teneur selon le ch.I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> juillet 2021 ([RO 2021 294](https://fedlex.data.admin.ch/eli/oc/2021/294)).
 
 #### Art. 14
@@ -309,63 +309,102 @@ L’autorisation est délivrée si:
 <sup>2</sup> Des autorisations exceptionnelles pour construire en forêt de petites constructions ou installations non forestières, au sens de l’art. 24 LAT, ne peuvent être délivrées qu’en accord avec l’autorité forestière cantonale compétente.
 
 [^14-1]: Introduit par le ch. I de l’O du 14 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
-[^14-2]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^14-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 ## Chapitre 3 Protection contre les catastrophes naturelles
 
 #### Art. 15
 
-**Documents de base**
+**Gestion des risques liés aux catastrophes naturelles**[^15-1]
 
-<sup>1</sup>
+<sup>1</sup> Les cantons réduisent les risques liés aux catastrophes naturelles à un niveau supportable et les limitent à long terme, en réalisant et en évaluant les études de base nécessaires, puis en planifiant et en mettant en œuvre les mesures appropriées de manière intégrale. Ils tiennent compte en particulier des effets des changements climatiques et de l’évolution de l’utilisation du territoire.
 
-Les cantons établissent les documents de base pour la protection contre les catastrophes naturelles. Ils:
+<sup>2</sup> La planification intégrale doit être assurée avec la participation des milieux concernés; elle doit viser une combinaison optimale de mesures et inclure une pesée des intérêts, en particulier de ceux de la gestion des forêts, de la protection de la nature et du paysage, de l’aménagement des eaux, de l’agriculture et de l’aménagement du territoire.
 
-- a. dressent des inventaires répertoriant les ouvrages et les installations importants pour la protection contre les catastrophes naturelles (cadastre des ouvrages de protection);
-- b. documentent les sinistres (cadastre des événements) et analysent en cas de besoin les sinistres d’une certaine gravité;
-- c. élaborent des cartes des dangers et des plans d’urgence en cas de sinistre et les tiennent à jour.[^15-1]
-
-<sup>2</sup> Lors de l’établissement des documents de base, les cantons tiennent compte des travaux exécutés par les services spécialisés de la Confédération et de ses directives techniques.
-
-<sup>3</sup> Ils tiennent compte des documents de base lors de toute activité ayant des effets sur l’organisation du territoire, en particulier dans l’établissement des plans directeurs et d’affectation.
-
-<sup>4</sup> Sur demande, ils mettent les documents de base à la disposition de l’OFEV et les rendent accessibles au public sous une forme adaptée.[^15-2]
-
-[^15-1]: Nouvelle teneur selon le ch. I 5 de l’O du 28 janv. 2015 sur les adaptations d’O dans le domaine de l’environnement, liées en particulier aux conventions-programmes à conclure pour la période allant de 2016 à 2019, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)).
-[^15-2]: Introduit par le ch. I 21 de l’O du 7 nov. 2007 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)). Nouvelle teneur selon l’annexe 2 ch. 13 de l’O du 21 mai 2008 sur la géoinformation, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
+[^15-1]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 25 juin 2025 sur l’aménagement des cours d’eau, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
 
 #### Art. 16
 
-**Services d’alerte**
-
-<sup>1</sup> Dans les endroits où la protection de la population et de valeurs matérielles considérables l’exige, les cantons instituent des services d’alerte. Ils pourvoient à l’aménagement et à l’exploitation des stations de mesure et des systèmes d’information nécessaires.
-
-<sup>2</sup> Lors de la mise sur pied et de l’exploitation des services d’alerte, les cantons tiennent compte des travaux exécutés par les services spécialisés de la Confédération et de ses directives techniques.
-
-<sup>3</sup> Ils veillent à ce que les données des stations de mesure et des systèmes d’information soient mises à la disposition de l’OFEV si celui-ci en fait la demande et soient rendues accessibles au public sous une forme adaptée.[^16-1]
-
-[^16-1]: Introduit par le ch. I 21 de l’O du 7 nov. 2007 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)). Nouvelle teneur selon l’annexe 2 ch. 13 de l’O du 21 mai 2008 sur la géoinformation, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
-
-#### Art. 17
-
-**Sécurité des territoires dangereux**
-
-### (art. 19)
+**Études de base**[^16-1]
 
 <sup>1</sup>
 
-La sécurité des territoires dangereux comprend:
+L’OFEV réalise les études de base qui présentent un intérêt national en matière de protection contre les catastrophes naturelles. À cet effet:
 
-- a. des mesures sylvicoles;
-- b. des constructions pour empêcher les dégâts d’avalanches et exceptionnellement l’aménagement d’installations pour le déclenchement préventif d’avalanches;
-- c. des mesures concomitantes dans le lit des torrents, liées à la conservation des forêts (endiguement forestier);
-- d. des travaux contre les glissements de terrain et le ravinement, les drainages nécessaires et la protection contre l’érosion;
-- e. des travaux de défense et ouvrages de réception contre les chutes de pierres et de rochers, ainsi qu’à titre exceptionnel le minage préventif de matériaux risquant de tomber;
-- f. le transfert, dans des endroits sûrs, de constructions et d’installations menacées.
+- a. il effectue les relevés en rapport avec la protection contre les catastrophes naturelles;
+- b. il tient un inventaire des mesures qui sont soutenues financièrement par la Confédération;
+- c. il analyse les événements;
+- d. il établit des vues d’ensemble.
 
-<sup>2</sup> Les travaux doivent être combinés, dans la mesure du possible, avec des mesures d’ingénierie biologiques et sylvicoles.
+<sup>2</sup>
 
-<sup>3</sup> Les cantons veillent à une planification intégrale; celle-ci tiendra compte en particulier des intérêts de la gestion forestière, de la protection de la nature et du paysage, de la construction hydraulique, de l’agriculture et de l’aménagement du territoire.
+Les cantons réalisent les études de base relatives à la protection contre les catastrophes naturelles sur leur territoire. À cet effet:
+
+- a. ils documentent et analysent les événements;
+- b. ils documentent et évaluent les ouvrages de protection;
+- c. ils tiennent un cadastre des événements et des ouvrages de protection;
+- d. ils relèvent les dangers et les risques;
+- e. ils établissent des évaluations des dangers et des vues d’ensemble des risques;
+- f. ils établissent des planifications globales et si nécessaire d’autres planifications supérieures.
+
+<sup>3</sup> Ils désignent les zones dangereuses.
+
+<sup>4</sup> Ils tiennent compte des études de base et des aides à l’exécution réalisées par la Confédération.
+
+<sup>5</sup> Ils remettent périodiquement à l’OFEV les vues d’ensemble des risques et les planifications globales conformément aux prescriptions.
+
+<sup>6</sup> Ils mettent gratuitement les études de base à la disposition de tous.
+
+[^16-1]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 25 juin 2025 sur l’aménagement des cours d’eau, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
+
+#### Art. 17
+
+**Mesures d’aménagement du territoire**[^17-1]
+
+<sup>1</sup>
+
+Les cantons tiennent compte des zones dangereuses et des risques dans les plans directeurs et les plans d’affectation ainsi que dans les autres activités ayant des effets sur l’organisation du territoire. Dans les zones dangereuses, ils veillent en particulier:
+
+- a. à limiter les risques lors du classement en zone à bâtir, de l’augmentation du degré d’utilisation d’une zone ou du changement d’affectation d’une zone, ainsi que lors de l’octroi d’autorisations de construire des constructions ou des installations;
+- b. à réduire les risques non supportables moyennant le changement d’affectation de la zone, le déclassement partiel ou total de la zone ou le déplacement des constructions et des installations menacées vers des lieux sûrs.
+
+<sup>2</sup> Ils prévoient, dans les plans directeurs et les plans d’affectation, des espaces libres où des catastrophes naturelles peuvent se produire, afin de protéger d’autres zones. Dans les espaces libres, le risque doit être limité par le type et le degré de l’affectation.
+
+[^17-1]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 25 juin 2025 sur l’aménagement des cours d’eau, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
+
+#### Art. 17a
+
+**Mesures d’organisation**[^17a-1]
+
+Les cantons prennent des mesures d’organisation propres à sauver des vies humaines et à limiter l’étendue des dommages en cas de sinistre. À cet effet:
+
+- a. ils s’assurent que des plans d’intervention sont établis, exercés et connus des organes de conduite et des services d’intervention civiles;
+- b. ils s’assurent que les organes de conduite et les services d’intervention civiles bénéficient de conseils spécialisés lors de leur préparation ainsi que lors de la gestion de catastrophes naturelles;
+- c. ils mettent en place et exploitent les dispositifs d’alerte nécessaires pour protéger les zones bâties et les voies de communication contre les catastrophes naturelles;
+- d. ils prennent des dispositions techniques propres à soutenir les services d’intervention lors de la gestion de catastrophes naturelles.
+
+[^17a-1]: Introduit par l’annexe ch. 4 de l’O du 25 juin 2025 sur l’aménagement des cours d’eau, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
+
+#### Art. 17b
+
+**Mesures biologiques et techniques et espaces de délestage**[^17b-1]
+
+<sup>1</sup>
+
+Les cantons prennent des mesures biologiques et techniques visant à réduire et à limiter les risques liés aux catastrophes naturelles. Font partie de ces mesures:
+
+- a. la délimitation de forêts de protection et la création et le traitement de jeunes peuplements ayant une fonction protectrice;
+- b. les mesures sylvicoles;
+- c. les constructions visant à prévenir les dégâts d’avalanches ainsi que l’aménagement d’installations pour le déclenchement préventif d’avalanches;
+- d. les travaux de défense et ouvrages de réception contre les chutes de pierres et les éboulements, ainsi que le minage préventif de matériaux risquant de tomber;
+- e. les travaux contre les glissements de terrain et le ravinement, les drainages nécessaires et la protection contre l’érosion;
+- f. des mesures concomitantes dans le lit des torrents, liées à la conservation des forêts (endiguement forestier).
+
+<sup>2</sup> Ils conçoivent les nouveaux ouvrages et installations de protection de sorte qu’ils soient robustes. Ils contrôlent la capacité de surcharge des ouvrages et des installations existants ainsi que la sécurité des systèmes de protection et les adaptent si nécessaire.
+
+<sup>3</sup> Ils désignent des espaces de délestage donnant droit à des dédommagements, où les catastrophes naturelles sont dirigées et écoulées par des mesures de protection, de sorte que ces espaces soient plus fréquemment ou plus fortement affectés, afin de protéger d’autres zones.
+
+[^17b-1]: Introduit par l’annexe ch. 4 de l’O du 25 juin 2025 sur l’aménagement des cours d’eau, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
 
 ## Chapitre 4 Entretien et exploitation de la forêt
 
@@ -484,7 +523,7 @@ L’autorisation est délivrée si:
 
 <sup>3</sup> Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication[^22-3] (DETEC[^22-4]) édicte des prescriptions sur l’établissement de documents d’exportation du matériel forestier de reproduction.
 
-[^22-1]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^22-1]: [RS 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
 [^22-2]: Introduit par l’art. 51 ch. 3 de l’O du 28 fév. 2001 sur la protection des végétaux, ([RO 2001 1191](https://fedlex.data.admin.ch/eli/oc/2001/174)). Nouvelle teneur selon l’annexe 5 ch. 16 de l’O du 10 sept. 2008 sur la dissémination dans l’environnement, en vigueur depuis le 1<sup>er</sup> oct. 2008 ([RO 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)).
 [^22-3]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 [^22-4]: Nouvelle expression selon le ch. I 5 de l’O du 28 janv. 2015 sur les adaptations d’O dans le domaine de l’environnement, liées en particulier aux conventions-programmes à conclure pour la période allant de 2016 à 2019, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)). Il a été tenu compte de cette mod. dans tout le texte.
@@ -518,7 +557,7 @@ L’autorisation est délivrée si:
 L’utilisation exceptionnelle en forêt de substances dangereuses pour l’environnement est régie par l’ordonnance du 18 mai 2005 sur la réduction des risques liés aux produits chimiques[^25-2].
 
 [^25-1]: Nouvelle teneur selon le ch. II 21 de l’O du 18 mai 2005 sur l’abrogation et la mod. du droit en vigueur du fait de la L sur les produits chimiques, en vigueur depuis le 1<sup>er</sup> août 2005 ([RO 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)).
-[^25-2]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^25-2]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 #### Art. 26 et 27
 
@@ -544,7 +583,7 @@ Sont réputés dégâts aux forêts les dégâts qui mettent gravement en danger
 <sup>2</sup> La surveillance des organismes nuisibles particulièrement dangereux et la lutte contre ces organismes sont régies par les dispositions de l’ordonnance du 31 octobre 2018 sur la santé des végétaux[^28-2].[^28-3]
 
 [^28-1]: Nouvelle teneur selon le ch. I de l’O du 17 août 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
-[^28-2]: [RS 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
+[^28-2]: [RS 916.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10651)
 [^28-3]: Nouvelle teneur selon l’annexe 8 ch. 7 de l’O du 31 oct. 2018 sur la santé des végétaux, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
 
 #### Art. 29
@@ -640,7 +679,7 @@ Les cantons veillent:
 <sup>2</sup> L’OFEV doit être entendu avant l’édiction ou l’adoption de prescriptions sur la formation du personnel forestier telle qu’elle est définie aux art. 19, al. 1, 28, al. 2, et 29, al. 3, de la loi du 13 décembre 2002 sur la formation professionnelle (LFPr)[^33-2].
 
 [^33-1]: Nouvelle teneur selon l’annexe ch. II 2 de l’O du 19 nov. 2003 sur la formation professionnelle, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 5047](https://fedlex.data.admin.ch/eli/oc/2003/748)).
-[^33-2]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^33-2]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 
 #### Art. 34
 
@@ -758,11 +797,35 @@ Les aides financières et les indemnités de la Confédération ne sont allouée
 
 **Coûts imputables**[^38a-1]
 
-<sup>1</sup> Pour le versement des indemnités visées aux art. 39, al. 1 et 2, et 40, al. 1, let. c, seuls sont imputables les coûts effectifs et directement nécessaires à l’accomplissement adéquat de la tâche qui donne droit à des indemnités. En font partie les coûts de l’étude de projet, de l’acquisition de terrain et de l’exécution des travaux ainsi que du bornage.
+<sup>1</sup> Pour le versement des indemnités, seuls sont imputables les coûts effectifs et directement nécessaires à l’accomplissement adéquat de la tâche qui donne droit à des indemnités.
 
-<sup>2</sup> Les taxes et les impôts en particulier ne sont pas imputables ni les coûts qui peuvent être mis à la charge des tiers qui, de manière déterminante, sont bénéficiaires ou responsables de dégâts.
+<sup>2</sup>
 
-[^38a-1]: Introduit par le ch. I 5 de l’O du 28 janv. 2015 sur les adaptations d’O dans le domaine de l’environnement, liées en particulier aux conventions-programmes à conclure pour la période allant de 2016 à 2019, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)).
+Pour le versement des indemnités visées aux art. 39, al. 1 et 2, et 40, al. 1, let. c, sont imputables les coûts:
+
+- a. de la réalisation des études de base et de la planification des mesures;
+- b. de l’exécution et de la mise en œuvre;
+- c. de l’acquisition de terrain, de l’établissement de servitudes ainsi que de l’expropriation formelle et matérielle;
+- d. du bornage.
+
+<sup>3</sup>
+
+Ne sont pas imputables au titre des indemnités visées à l’art. 39, al. 1 et 2, en particulier:
+
+- a. les taxes perçues;
+- b. les coûts qui peuvent être mis à la charge des responsables de dégâts;
+- c. les coûts des plus-values importantes générées par les mesures, indépendamment de la protection contre les catastrophes naturelles;
+- d. les coûts des mesures qui apportent aux routes nationales une amélioration en matière de protection contre les catastrophes naturelles et qui sont déjà pris en charge par l’Office fédéral des routes en vertu de sa participation aux coûts;
+- e. les dépenses administratives.
+
+<sup>4</sup>
+
+Ne sont pas imputables au titre des indemnités visées à l’art. 40, al. 1, let. c, et al. 3, en particulier:
+
+- a. les taxes perçues;
+- b. les coûts qui peuvent être mis à la charge des tiers qui, de manière déterminante, sont bénéficiaires ou responsables de dégâts.
+
+[^38a-1]: Introduit par le ch. I 5 de l’O du 28 janv. 2015 sur les adaptations d’O dans le domaine de l’environnement, liées en particulier aux conventions-programmes à conclure pour la période allant de 2016 à 2019 ([RO 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)). Nouvelle teneur selon l’annexe ch. 4 de l’O du 25 juin 2025 sur l’aménagement des cours d’eau, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
 
 ### Section 2 Mesures
 
@@ -770,14 +833,12 @@ Les aides financières et les indemnités de la Confédération ne sont allouée
 
 **Protection contre les catastrophes naturelles**[^39-1]
 
-### (art. 36)
-
 <sup>1</sup>
 
-Les indemnités pour les mesures et l’établissement des documents de base sur les dangers sont en règle générale allouées sous forme globale. Le montant des indemnités globales est négocié entre l’office et le canton concerné et est fonction:
+Les indemnités pour les études de base et les mesures sont allouées sous forme globale, sous réserve de l’al. 2. Le montant des indemnités globales est défini par l’OFEV et le canton concerné dans le cadre des conventions-programmes et est fonction:
 
-- a. des dangers potentiels et des risques de dommages;
-- b. de l’ampleur et de la qualité des mesures ainsi que de leur planification.
+- a. du risque lié aux catastrophes naturelles;
+- b. de l’ampleur, de l’effet et de la qualité des mesures.
 
 <sup>2</sup>
 
@@ -788,31 +849,35 @@ Les indemnités peuvent être allouées au cas par cas lorsque les mesures:
 - c. requièrent dans une mesure particulière une évaluation complexe ou spécifique par des experts en raison des variantes possibles ou pour d’autres motifs; ou
 - d. n’étaient pas prévisibles.
 
-<sup>3</sup>
+<sup>3</sup> La contribution aux coûts imputables inhérents aux études de base est de 50 %.
 
-La contribution au financement des mesures visées à l’al. 2 est comprise entre 35 et 45 % des coûts et est fonction:
+<sup>4</sup>
 
-- a. des dangers potentiels et des risques de dommages;
-- b. du degré de prise en compte effective des risques;
-- c. de l’ampleur et de la qualité des mesures ainsi que de leur planification.
+La contribution au financement des mesures est comprise entre 35 et 45 % des coûts et est fonction:
 
-<sup>4</sup> Si un canton assume des charges considérables en raison de mesures de protection extraordinaires, notamment à la suite de dommages dus à des intempéries, la contribution visée à l’al. 3 pourra être exceptionnellement relevée à 65 % au plus du coût des mesures.
+- a. du degré de mise en œuvre des études de base;
+- b. de l’ampleur, de l’effet et de la qualité des mesures.
 
 <sup>5</sup>
 
+Si un canton assume des charges considérables en raison de mesures de protection extraordinaires contre les catastrophes naturelles, notamment à la suite de dommages dus à des intempéries, la contribution visée à l’al. 4 peut être exceptionnellement relevée de 20 points de pourcentage au plus. Le montant est fonction:
+
+- a. de la nécessité des mesures à la suite d’une situation extraordinaire;
+- b. de la charge financière considérable incombant au canton concerné en lien avec les mesures de protection contre les dangers naturels;
+- c. de la vue d’ensemble de la planification.
+
+<sup>6</sup>
+
 Aucune indemnité n’est allouée pour:
 
-- a.[^39-2]
+- a. les mesures visant à protéger des bâtiments et des installations qui ont été construits dans des zones déjà définies comme dangereuses ou réputées dangereuses sans être liés impérativement à ces emplacements;
+- b. les mesures visant à protéger des bâtiments et des installations touristiques telles que téléphériques, remontées mécaniques, pistes de ski ou sentiers pédestres qui se trouvent en dehors des zones bâties;
+- c. la mise en œuvre des études de base et des mesures dans les plans directeurs et les plans d’affectation ainsi que dans les autres activités ayant des effets sur l’organisation du territoire;
+- d. l’exploitation de dispositions techniques facilitant les interventions d’urgence ainsi que les dépenses des organes de conduite et des forces d’intervention civiles couvertes par leur mission de base;
+- e. l’exploitation de mesures techniques;
+- f. l’élaboration de guides et de lignes directrices cantonaux.
 
-  des mesures visant à protéger des bâtiments et des installations qui ont été construits:
-
-  - 1\. dans des zones alors déjà définies comme dangereuses ou réputées dangereuses, et
-  - 2\. sans être alors liés impérativement à cet emplacement;
-
-- b. des mesures visant à protéger des bâtiments et des installations touristiques telles que téléphériques, remontées mécaniques, pistes de ski ou sentiers pédestres qui se trouvent en dehors des zones habitées.
-
-[^39-1]: Nouvelle teneur selon le ch. I 3 de l’O du 2 fév. 2011 (Développement des conventions-programmes dans le domaine de l’environnement), en vigueur depuis le 1<sup>er</sup> mars 2011 ([RO 2011 649](https://fedlex.data.admin.ch/eli/oc/2011/103)).
-[^39-2]: Nouvelle teneur selon le ch. I 5 de l’O du 28 janv. 2015 sur les adaptations d’O dans le domaine de l’environnement, liées en particulier aux conventions-programmes à conclure pour la période allant de 2016 à 2019, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)).
+[^39-1]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 25 juin 2025 sur l’aménagement des cours d’eau, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
 
 #### Art. 40
 
@@ -1054,7 +1119,7 @@ L’OFEV retient tout ou partie des paiements échelonnés, pendant la durée du
 
 <sup>4</sup> Si le canton n’exécute pas correctement la prestation malgré l’injonction de l’OFEV ou s’il ne renonce pas à la désaffectation ou ne l’annule pas, la restitution est régie par les art. 28 et 29 de la loi du 5 octobre 1990 sur les subventions (LSu)[^50-1].
 
-[^50-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^50-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ### Section 4 Procédure pour l’octroi d’indemnités ou d’aides financières au cas par cas
 
@@ -1088,7 +1153,7 @@ L’OFEV retient tout ou partie des paiements échelonnés, pendant la durée du
 
 <sup>4</sup> Si le canton ne renonce pas à la désaffectation ou ne n’annule pas, la restitution est régie par l’art. 29 LSu.
 
-[^53-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^53-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 54
 
@@ -1124,7 +1189,7 @@ Des crédits d’investissement seront alloués si:
 <sup>6</sup> …[^60-3]
 
 [^60-1]: [[RO 1962 1315](https://fedlex.data.admin.ch/eli/oc/1962/1273_1315_1323), [1967 812](https://fedlex.data.admin.ch/eli/oc/1967/_812_), [1972 2749](https://fedlex.data.admin.ch/eli/oc/1972/2699_2749_2532), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)ch. I 961, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)ch. II 52 [857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)appendice ch. 27, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 47 [2104](https://fedlex.data.admin.ch/eli/oc/1992/2104_2104_2104). [RO 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)annexe let. f]
-[^60-2]: [[RO 1975 392](https://fedlex.data.admin.ch/eli/oc/1975/392_392_392), [1980 1798](https://fedlex.data.admin.ch/eli/oc/1980/1798_1798_1798), [1985 387](https://fedlex.data.admin.ch/eli/oc/1985/387_387_387), [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)appendice ch. 24, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 43. [RO 1997 2995](https://fedlex.data.admin.ch/eli/oc/1997/2995_2995_2995)art. 25]. Voir actuellement la LF du 6 oct. 2006 sur la politique régionale ([RS 901.0](https://fedlex.data.admin.ch/eli/cc/2007/136)**)**.
+[^60-2]: [[RO 1975 392](https://fedlex.data.admin.ch/eli/oc/1975/392_392_392), [1980 1798](https://fedlex.data.admin.ch/eli/oc/1980/1798_1798_1798), [1985 387](https://fedlex.data.admin.ch/eli/oc/1985/387_387_387), [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)appendice ch. 24, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 43. [RO 1997 2995](https://fedlex.data.admin.ch/eli/oc/1997/2995_2995_2995)art. 25]. Voir actuellement la LF du 6 oct. 2006 sur la politique régionale ([RS 901.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10387)**)**.
 [^60-3]: Abrogé par le ch. I 21 de l’O du 7 nov. 2007 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 61
@@ -1238,7 +1303,7 @@ Le remboursement commence:
 L’OFEV prescrit les modèles de géodonnées et les modèles de représentation minimaux pour les géodonnées de base visées par la présente ordonnance, lorsqu’il est désigné comme service spécialisé de la Confédération dans l’annexe 1 de l’ordonnance du 21 mai 2008 sur la géoinformation[^66a-2].
 
 [^66a-1]: Introduit par l’annexe 2 ch. 13 de l’O du 21 mai 2008 sur la géoinformation, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
-[^66a-2]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^66a-2]: [RS 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 
 ### Section 2 Abrogation et modification du droit en vigueur
 
@@ -1277,6 +1342,14 @@ Sont abrogés:
 <sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1993, à l’exception des art. 60 à 64 et 67, let. f.
 
 <sup>2</sup> Les art. 60 à 64 et 67, let. f, entrent en vigueur le 1<sup>er</sup> janvier 1994.
+
+#### Art. 70
+
+**Dispositions transitoires**[^70-1]
+
+Les cantons remettent à l’OFEV les vues d’ensemble des risques et les planifications globales visées à l’art. 16, al. 2, let. e et f, pour la première fois d’ici au 1<sup>er</sup> décembre 2031.
+
+[^70-1]: Introduit par l’annexe ch. 4 de l’O du 25 juin 2025 sur l’aménagement des cours d’eau, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
 
 ## Disposition transitoire de la modification du 2 février 2000
 

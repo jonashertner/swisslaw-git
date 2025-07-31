@@ -4,11 +4,11 @@ title: Ordinanza del 30 novembre 1992 sulle foreste (Ofo)
 short: OFo
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538"
 language: it
-version: 2025-01-01
+version: 2025-08-01
 adopted: 1992-11-30
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1992-2538_2538_2538-20250101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2538_2538_2538/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538/20250801/it/xml/fedlex-data-admin-ch-eli-cc-1992-2538_2538_2538-20250801-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2538_2538_2538/20250801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1992/2538_2538_2538/20250101/it"
 
 (OFo)
 
-del 30 novembre 1992 (Stato 1° gennaio 2025)
+del 30 novembre 1992 (Stato 1° agosto 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,8 +25,8 @@ visti l’articolo 49 della legge federale del 4 ottobre 1991[^ingress-1] sulle 
 
 ordina:
 
-[^ingress-1]: [RS 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
-[^ingress-2]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^ingress-1]: [RS 921.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10958)
+[^ingress-2]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 
 ## Capitolo 1: Definizioni
 
@@ -81,7 +81,7 @@ Non si considera dissodamento:
 - a. l’impiego del suolo boschivo per edifici ed impianti forestali, nonché per piccoli edifici e piccoli impianti non forestali;
 - b. l’attribuzione di una foresta a zona protetta conformemente all’articolo 17 della legge del 22 giugno 1979[^4-1] sulla pianificazione del territorio(LPT), se lo scopo della protezione è in sintonia con la conservazione della foresta.
 
-[^4-1]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^4-1]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 5
 
@@ -93,9 +93,9 @@ Non si considera dissodamento:
 
 <sup>3</sup> L’Ufficio federale dell’ambiente[^5-2] (UFAM[^5-3]) emana direttive concernenti il contenuto di una domanda di dissodamento.
 
-[^5-1]: Nuovo testo giusta il n. II 17 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani), in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^5-1]: Nuovo testo giusta la cifra II n. 17 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani), in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 [^5-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
-[^5-3]: Nuova espr. giusta n. I 5 dell’O del 28 gen. 2015 che adegua ordinanze nel settore ambientale, legate in particolare agli accordi programmatici per il periodo 2016–2019, in vigore dal 1° gen. 2016 ([RU 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)). Di detta mod.è stato tenuto conto in tutto il presente testo.
+[^5-3]: Nuova espr. giusta cifra I n. 5 dell’O del 28 gen. 2015 che adegua ordinanze nel settore ambientale, legate in particolare agli accordi programmatici per il periodo 2016–2019, in vigore dal 1° gen. 2016 ([RU 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)). Di detta mod.è stato tenuto conto in tutto il presente testo.
 
 #### Art. 6
 
@@ -110,7 +110,7 @@ Per il calcolo della superficie di dissodamento, determinante per l’obbligo di
 - a. chiesti nella domanda di dissodamento;
 - b. eseguiti per la stessa opera durante i 15 anni precedenti la domanda, o che possono essere ancora eseguiti.
 
-[^6-1]: Nuovo testo giusta il n. II 17 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^6-1]: Nuovo testo giusta la cifra II n. 17 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
 #### Art. 7
 
@@ -128,7 +128,7 @@ La decisione di dissodamento si pronuncia su:
 
 <sup>2</sup> L’UFAM tiene una statistica dei dissodamenti autorizzati dalla Confederazione e dai Cantoni. I Cantoni mettono a disposizione dell’UFAM i dati necessari.[^7-1]
 
-[^7-1]: Introdotto dal n. II 17 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani), in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^7-1]: Introdotto dalla cifra II n. 17 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani), in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
 #### Art. 8
 
@@ -144,7 +144,7 @@ La decisione di dissodamento si pronuncia su:
 
 <sup>3</sup> Le estensioni boschive spontanee e le superfici rimboschite volontariamente che non costituiscono ancora foresta possono essere riconosciute quale compenso in natura.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
 
 #### Art. 8a
 
@@ -154,7 +154,7 @@ La decisione di dissodamento si pronuncia su:
 
 Dopo aver consultato l’UFAM, i Cantoni designano le zone con superficie forestale in crescita. La delimitazione di tali zone si basa sui rilevamenti effettuati dalla Confederazione e dai Cantoni, si attiene in linea di principio alle unità topografiche e tiene conto dell’insediamento e dell’utilizzazione.
 
-[^8a-1]: Introdotto dal n. I dell’O del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
+[^8a-1]: Introdotto dalla cifra I dell’O del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
 
 #### Art. 9
 
@@ -179,11 +179,11 @@ Sono di pregio paesistico particolare segnatamente:
 - b. le zone palustri di particolare bellezza e d’importanza nazionale ai sensi dell’articolo 24<sup>sexies</sup> capoverso 5 della Costituzione federale[^9-5];
 - c. i territori delimitati come zone protette ai sensi dell’articolo 17 LPT.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
-[^9-2]: Nuovo testo giusta il n. I dell’O del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
-[^9-3]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^9-4]: [[RU 1977 1962](https://fedlex.data.admin.ch/eli/oc/1977/1962_1962_1962), [1983 1942](https://fedlex.data.admin.ch/eli/oc/1983/1942_1942_1942), [1996 3264](https://fedlex.data.admin.ch/eli/oc/1996/3264_3264_3264), [1998 788](https://fedlex.data.admin.ch/eli/oc/1998/788_788_788), [2010 1593](https://fedlex.data.admin.ch/eli/oc/2010/227)all. n. 2. [RU 2017 2815](https://fedlex.data.admin.ch/eli/oc/2017/290)art. 11]. Vedi ora l’O del 29 mar. 2017 ([RS 451.11](https://fedlex.data.admin.ch/eli/cc/2017/290)).
-[^9-5]: [CS **1** 3; [RU 1988 352](https://fedlex.data.admin.ch/eli/oc/1988/352_352_352)]. Questa disp. corrisponde ora all’art. 78 cpv. 5 della Cost. federale del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
+[^9-2]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
+[^9-3]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^9-4]: [[RU 1977 1962](https://fedlex.data.admin.ch/eli/oc/1977/1962_1962_1962), [1983 1942](https://fedlex.data.admin.ch/eli/oc/1983/1942_1942_1942), [1996 3264](https://fedlex.data.admin.ch/eli/oc/1996/3264_3264_3264), [1998 788](https://fedlex.data.admin.ch/eli/oc/1998/788_788_788), [2010 1593](https://fedlex.data.admin.ch/eli/oc/2010/227)all. n. 2. [RU 2017 2815](https://fedlex.data.admin.ch/eli/oc/2017/290)art. 11]. Vedi ora l’O del 29 mar. 2017 ([RS 451.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7168)).
+[^9-5]: [CS **1** 3; [RU 1988 352](https://fedlex.data.admin.ch/eli/oc/1988/352_352_352)]. Questa disp. corrisponde ora all’art. 78 cpv. 5 della Cost. federale del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 
 #### Art. 9a
 
@@ -193,13 +193,13 @@ Sono di pregio paesistico particolare segnatamente:
 
 In caso di progetti volti a garantire la protezione contro le piene e la rivitalizzazione delle acque è possibile rinunciare al rimboschimento compensativo, in particolare per le aree che non possono più essere ricoperte da foresta.
 
-[^9a-1]: Introdotto dal n. I dell’O del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
+[^9a-1]: Introdotto dalla cifra I dell’O del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
 
 #### Art. 10
 
 [^10-1]
 
-[^10-1]: Abrogato dal n. I dell’O del 14 giu. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
+[^10-1]: Abrogato dalla cifra I dell’O del 14 giu. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
 
 #### Art. 11
 
@@ -215,14 +215,14 @@ Su indicazione dell’autorità competente secondo l’articolo 6 capoverso 1 LF
 <sup>2</sup> I Cantoni sorvegliano tutti i provvedimenti compensativi e ne comunicano la realizzazione all’UFAM.
 
 [^11-1]: [RU 1993 706](https://fedlex.data.admin.ch/eli/oc/1993/706_706_706)
-[^11-2]: Nuovo testo giusta il n. I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
-[^11-3]: Nuovo testo giusta il n. I dell’O del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
+[^11-2]: Nuovo testo giusta la cifra I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
+[^11-3]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
 
 ### Sezione 2: Accertamento del carattere forestale
 
 [^chap2-sec2-1]
 
-[^chap2-sec2-1]: Nuovo testo giusta il n. I dell’O del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
+[^chap2-sec2-1]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
 
 #### Art. 12
 
@@ -234,7 +234,7 @@ Su indicazione dell’autorità competente secondo l’articolo 6 capoverso 1 LF
 
 <sup>2</sup> La decisione di accertamento indica in un piano l’ubicazione e l’estensione della foresta come pure l’ubicazione dei fondi interessati.
 
-[^12-1]: Introdotta dal n. I dell’O del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
+[^12-1]: Introdotta dalla cifra I dell’O del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
 
 #### Art. 12a
 
@@ -244,7 +244,7 @@ Su indicazione dell’autorità competente secondo l’articolo 6 capoverso 1 LF
 
 Il Cantone designa nel piano direttore cantonale le zone nelle quali intende impedire l’incremento della foresta.
 
-[^12a-1]: Introdotto dal n. I dell’O del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
+[^12a-1]: Introdotto dalla cifra I dell’O del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
 
 ### Sezione 3: Circolazione di veicoli a motore
 
@@ -266,13 +266,13 @@ I veicoli a motore possono circolare su strade forestali a scopo di:
 
 <sup>3</sup> Le manifestazioni con veicoli a motore su strade forestali e nel resto della foresta sono vietate.
 
-[^13-1]: Nuovo testo giusta il n. II 61 dell’O del 1° dic. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)).
+[^13-1]: Nuovo testo giusta la cifra II n. 61 dell’O del 1° dic. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)).
 
 ### Sezione 4: Edifici e impianti in foresta
 
 [^chap2-sec4-1]
 
-[^chap2-sec4-1]: Nuovo testo giusta il n. I dell’O del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
+[^chap2-sec4-1]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
 
 #### Art. 13a
 
@@ -292,9 +292,9 @@ L’autorizzazione è rilasciata solo se:
 
 <sup>3</sup> Sono fatte salve le altre condizioni previste dal diritto federale e cantonale.
 
-[^13a-1]: Introdotto dal n. I dell’O del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
-[^13a-2]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
-[^13a-3]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 294](https://fedlex.data.admin.ch/eli/oc/2021/294)).
+[^13a-1]: Introdotto dalla cifra I dell’O del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
+[^13a-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
+[^13a-3]: Nuovo testo giusta la cifra I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 294](https://fedlex.data.admin.ch/eli/oc/2021/294)).
 
 #### Art. 14
 
@@ -306,63 +306,102 @@ L’autorizzazione è rilasciata solo se:
 
 <sup>2</sup> Le autorizzazioni eccezionali per piccoli edifici o piccoli impianti non forestali in foresta ai sensi dell’articolo 24 LPT possono essere rilasciate solo d’intesa con l’autorità forestale cantonale competente.
 
-[^14-1]: Introdotta dal n. I dell’O del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
+[^14-1]: Introdotta dalla cifra I dell’O del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
 
 ## Capitolo 3: Protezione dalle catastrofi naturali
 
 #### Art. 15
 
-**Documenti di base**
+**Gestione dei rischi legati a catastrofi naturali**[^15-1]
 
-<sup>1</sup>
+<sup>1</sup> I Cantoni riducono i rischi legati a catastrofi naturali a un livello accettabile e li limitano nel lungo termine, rilevando e valutando i dati di base necessari nonché pianificando i provvedimenti in modo integrale e attuandoli; in tale ambito, prendono segnatamente in considerazione le conseguenze dei cambiamenti climatici e l’evoluzione dell’utilizzo del territorio.
 
-I Cantoni elaborano i documenti di base per la protezione dalle catastrofi naturali. Essi:
+<sup>2</sup> Nella pianificazione integrale occorre coinvolgere le cerchie interessate, combinare i provvedimenti in maniera ottimale e ponderare gli interessi, in particolare quelli connessi alla gestione delle foreste, alla protezione della natura e del paesaggio, alla sistemazione dei corsi d’acqua, all’agricoltura e alla pianificazione del territorio.
 
-- a. tengono inventari riguardanti opere e installazioni importanti per la protezione dalle catastrofi naturali (catasto delle opere di protezione);
-- b. documentano gli eventi dannosi (catasto degli eventi) e, se necessario, analizzano gli eventi dannosi di maggiore entità;
-- c. allestiscono carte dei pericoli e pianificazioni d’emergenza in caso di eventi dannosi e le aggiornano periodicamente.[^15-1]
-
-<sup>2</sup> Nell’elaborazione dei documenti di base, i Cantoni tengono conto dei lavori svolti dai servizi specializzati della Confederazione e delle loro direttive tecniche.
-
-<sup>3</sup> I Cantoni tengono conto dei documenti di base in ogni attività d’incidenza territoriale, segnatamente nella pianificazione direttrice e d’utilizzazione.
-
-<sup>4</sup> Su richiesta, i Cantoni mettono i documenti di base a disposizione dell’UFAM e li rendono accessibili al pubblico in forma adeguata..[^15-2]
-
-[^15-1]: Nuovo testo giusta il n. I 5 dell’O del 28 gen. 2015 che adegua ordinanze nel settore ambientale, legate in particolare agli accordi programmatici per il periodo 2016–2019, in vigore dal 1° gen. 2016 ([RU 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)).
-[^15-2]: Introdotto dal n. I 21 dell’O del 7 nov. 2007 sulla nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)). Nuovo testo giusta l’all. 2 n. 13 dell’O del 21 mag. 2008 sulla geoinformazione, in vigore dal 1° lug. 2008 ([RU 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
+[^15-1]: Nuovo testo giusta l’all. n. 4 dell’O del 25 giu. 2025 sulla sistemazione dei corsi d’acqua, in vigore dal 1° ago. 2025 ([RU 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
 
 #### Art. 16
 
-**Servizi di preallarme**
-
-<sup>1</sup> Se la protezione della vita umana o di beni materiali considerevoli lo esige, i Cantoni istituiscono servizi di preallarme. Essi provvedono all’allestimento e alla gestione delle pertinenti stazioni di misurazione e sistemi d’informazione.
-
-<sup>2</sup> Nell’istituzione e nella gestione dei servizi di preallarme, i Cantoni tengono conto dei lavori svolti dai servizi specializzati della Confederazione e delle loro direttive tecniche.
-
-<sup>3</sup> I Cantoni provvedono affinché i dati delle stazioni di misurazione e dei sistemi d’informazione siano messi a disposizione dell’UFAM, se quest’ultimo li richiede, e resi accessibili al pubblico in forma adeguata.[^16-1]
-
-[^16-1]: Introdotto dal n. I 21 dell’O del 7 nov. 2007 sulla nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)). Nuovo testo giusta l’all. 2 n. 13 dell’O del 21 mag. 2008 sulla geoinformazione, in vigore dal 1° lug. 2008 ([RU 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
-
-#### Art. 17
-
-**Premunizione di zone soggette a catastrofi naturali**
-
-### (art. 19 LFo)
+**Dati di base**[^16-1]
 
 <sup>1</sup>
 
-La premunizione di zone soggette a catastrofi naturali comprende:
+L’UFAM elabora i dati di base di interesse nazionale per la protezione dalle catastrofi naturali. A tale scopo:
 
-- a. provvedimenti selvicolturali;
-- b. provvedimenti edilizi per impedire danni causati da valanghe e, eccezionalmente, l’istallazione d’impianti per lo stacco preventivo di valanghe;
-- c. provvedimenti concomitanti negli alvei, in relazione alla conservazione della foresta (sistemazione idraulico-forestale);
-- d. opere contro frane e scoscendimenti di terreno, corrispondenti drenaggi nonché provvedimenti di protezione contro l’erosione;
-- e. opere contro la caduta di pietre o massi, incluse le opere di contenimento ed eccezionalmente il brillamento preventivo di materiale pericolante;
-- f. spostamento d’edifici ed impianti minacciati in luoghi sicuri.
+- a. rileva i dati riguardanti la protezione dalle catastrofi naturali;
+- d. tiene un inventario delle misure cofinanziate dalla Confederazione;
+- c. analizza gli eventi;
+- d. allestisce panoramiche.
 
-<sup>2</sup> I lavori vanno combinati possibilmente con provvedimenti selvicolturali e di bioingegneria.
+<sup>2</sup>
 
-<sup>3</sup> I Cantoni provvedono ad assicurare una pianificazione integrale che tenga conto segnatamente degli interessi di gestione della foresta, di protezione della natura e del paesaggio, della sistemazione dei corsi d’acqua, dell’agricoltura e della pianificazione del territorio.
+I Cantoni elaborano i dati di base per la protezione dalle catastrofi naturali sul loro territorio. A tale scopo:
+
+- a. documentano e analizzano gli eventi;
+- b. documentano e valutano le opere di protezione;
+- c. tengono un catasto degli eventi e delle opere di protezione;
+- d. registrano pericoli e rischi;
+- e. allestiscono valutazioni dei pericoli e panoramiche dei rischi;
+- f. allestiscono pianificazioni globali e, se del caso, pianificazioni di livello superiore.
+
+<sup>3</sup> Designano le zone di pericolo.
+
+<sup>4</sup> Tengono conto dei dati di base rilevati dalla Confederazione e dei suoi aiuti all’esecuzione.
+
+<sup>5</sup> Presentano periodicamente all’UFAM le panoramiche dei rischi e le pianificazioni globali conformemente alle disposizioni.
+
+[^16-1]: Nuovo testo giusta l’all. n. 4 dell’O del 25 giu. 2025 sulla sistemazione dei corsi d’acqua, in vigore dal 1° ago. 2025 ([RU 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
+
+### <sup>6</sup> Mettono gratuitamente a disposizione di tutti gli interessati i dati di base elaborati.
+
+#### Art. 17
+
+**Provvedimenti di pianificazione del territorio**[^17-1]
+
+<sup>1</sup>
+
+I Cantoni tengono conto delle zone di pericolo e dei rischi nei piani direttori e di utilizzazione nonché nelle altre attività d’incidenza territoriale. Nelle zone di pericolo, assicurano in particolare:
+
+- a. una limitazione dei rischi in caso di azzonamenti, aumento della densità edificatoria e cambiamento di destinazione di una zona, come pure nel rilascio di permessi di costruzione per edifici e impianti;
+- b. una riduzione dei rischi inaccettabili attraverso il cambiamento di destinazione di una zona, la diminuzione della densità edificatoria e il dezonamento o lo spostamento in luoghi sicuri di costruzioni e impianti minacciati.
+
+<sup>2</sup> Nei loro piani direttori e di utilizzazione, definiscono gli spazi liberi in cui possono verificarsi catastrofi naturali, in modo da proteggere altre zone. Negli spazi liberi il rischio deve essere limitato attraverso il tipo e il grado di utilizzazione.
+
+[^17-1]: Nuovo testo giusta l’all. n. 4 dell’O del 25 giu. 2025 sulla sistemazione dei corsi d’acqua , in vigore dal 1° ago. 2025 ([RU 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
+
+#### Art. 17a
+
+**Provvedimenti organizzativi**[^17a-1]
+
+I Cantoni adottano provvedimenti organizzativi per salvare vite umane e limitare l’entità dei danni in caso di evento. A tale scopo:
+
+- a. assicurano che vengano allestiti i piani d’intervento, che gli organi di condotta e le forze d’intervento civili li conoscano, e che si tengano le relative esercitazioni;
+- b. assicurano che gli organi di condotta e le forze d’intervento civili ricevano una consulenza specializzata per la preparazione e la gestione di catastrofi naturali;
+- c. allestiscono e gestiscono i dispositivi di allarme necessari a proteggere gli insediamenti e le vie di comunicazione da catastrofi naturali;
+- d. adottano provvedimenti tecnici per supportare le forze d’intervento nella gestione di catastrofi naturali.
+
+[^17a-1]: Introdotto dall’all. n. 4 dell’O del 25 giu. 2025 sulla sistemazione dei corsi d’acqua, in vigore dal 1° ago. 2025 ([RU 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
+
+#### Art. 17b
+
+**Provvedimenti biologici e tecnici e aree di ritenzione**[^17b-1]
+
+<sup>1</sup>
+
+I Cantoni adottano provvedimenti biologici e tecnici per limitare il rischio di catastrofi naturali. Questi provvedimenti comprendono:
+
+- a. la delimitazione della foresta di protezione e la realizzazione di foreste con funzione protettiva nonché la cura dei popolamenti giovani;
+- b. provvedimenti selvicolturali;
+- c. provvedimenti edilizi per prevenire danni causati da valanghe e installazione di impianti per lo stacco preventivo di valanghe;
+- d. opere contro la caduta di sassi o massi, incluse le opere di contenimento, e lo sgombero di materiale pericolante;
+- e. opere contro frane e scoscendimenti di terreno, corrispondenti drenaggi nonché provvedimenti di protezione contro l’erosione;
+- f. provvedimenti concomitanti negli alvei, in relazione alla conservazione della foresta (opere forestali per la correzione dei torrenti).
+
+<sup>2</sup> Progettano nuove opere e impianti di protezione resistenti. Verificano la capacità di sovraccarico e la sicurezza del sistema di opere e impianti di protezione esistenti, adeguandole se necessario.
+
+<sup>3</sup> Designano aree di ritenzione che danno diritto a indennità, nelle quali, mediante provvedimenti di protezione, le catastrofi naturali vengono convogliate e fatte defluire, in modo da caricare tali aree con maggiore frequenza o intensità e proteggere così altre zone.
+
+[^17b-1]: Introdotto dall’all. n. 4 dell’O del 25 giu. 2025 sulla sistemazione dei corsi d’acqua, in vigore dal 1° ago. 2025 ([RU 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
 
 ## Capitolo 4: Cura ed utilizzazione della foresta
 
@@ -394,10 +433,9 @@ Nel caso di pianificazioni d’importanza sovraziendale, i Cantoni provvedono af
 - a. sia informata sugli scopi e sul decorso della pianificazione;
 - b. possa partecipare adeguatamente;
 - c. possa prenderne visione.
+- [tab] <sup>4</sup> Nei loro piani direttori, i Cantoni tengono conto dei risultati d’incidenza territoriale della pianificazione forestale.[^18-1]
 
-<sup>4</sup> Nei loro piani direttori, i Cantoni tengono conto dei risultati d’incidenza territoriale della pianificazione forestale.[^18-1]
-
-[^18-1]: Introdotto dal n. I 5 dell’O del 28 gen. 2015 che adegua ordinanze nel settore ambientale, legate in particolare agli accordi programmatici per il periodo 2016–2019, in vigore dal 1° mar. 2015 ([RU 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)).
+[^18-1]: Introdotto dalla cifra I n. 5 dell’O del 28 gen. 2015 che adegua ordinanze nel settore ambientale, legate in particolare agli accordi programmatici per il periodo 2016–2019, in vigore dal 1° mar. 2015 ([RU 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)).
 
 #### Art. 19
 
@@ -425,7 +463,7 @@ Sono provvedimenti di dirado e di ringiovanimento:
 
 <sup>4</sup> Le cure minime per mantenere la funzione protettiva consistono in misure che si limitano ad assicurare durevolmente la continuità del popolamento; il legname viene lasciato o usato sul posto se ciò non arreca pericolo.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 
 #### Art. 20
 
@@ -481,9 +519,9 @@ L’autorizzazione è rilasciata se:
 
 <sup>3</sup> Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC)[^22-3] emana disposizioni concernenti la stesura di documenti d’esportazione di materiale di riproduzione forestale.
 
-[^22-1]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^22-1]: [RS 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
 [^22-2]: Introdotto dall’art. 51 n. 3 dell’O del 28 feb. 2001 sulla protezione dei vegetali ([RU 2001 1191](https://fedlex.data.admin.ch/eli/oc/2001/174)). Nuovo testo giusta l’all. 5 n. 16 dell’O del 10 set. 2008 sull’emissione deliberata nell’ambiente, in vigore dal 1° ott. 2008 ([RU 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)).
-[^22-3]: Nuova espr. giusta n. I 5 dell’O del 28 gen. 2015 che adegua ordinanze nel settore ambientale, legate in particolare agli accordi programmatici per il periodo 2016–2019, in vigore dal 1° gen. 2016 ([RU 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)). Di detta mod.è stato tenuto conto in tutto il presente testo.
+[^22-3]: Nuova espr. giusta cifra I n. 5 dell’O del 28 gen. 2015 che adegua ordinanze nel settore ambientale, legate in particolare agli accordi programmatici per il periodo 2016–2019, in vigore dal 1° gen. 2016 ([RU 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)). Di detta mod.è stato tenuto conto in tutto il presente testo.
 
 #### Art. 23
 
@@ -513,14 +551,14 @@ L’autorizzazione è rilasciata se:
 
 L’impiego eccezionale di sostanze pericolose per l’ambiente nelle foreste è retto dall’ordinanza del 18 maggio 2005[^25-2] sulla riduzione dei rischi inerenti ai prodotti chimici.
 
-[^25-1]: Nuovo testo giusta il n. II 21 dell’O del 18 mag. 2005 sull’abrogazione e la modifica di ordinanze in relazione con l’entrata in vigore della L sui prodotti chimici, in vigore dal 1° ago. 2005 ([RU 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)).
-[^25-2]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^25-1]: Nuovo testo giusta la cifra II n. 21 dell’O del 18 mag. 2005 sull’abrogazione e la modifica di ordinanze in relazione con l’entrata in vigore della L sui prodotti chimici, in vigore dal 1° ago. 2005 ([RU 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)).
+[^25-2]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 #### Art. 26 e 27
 
 [^2627-1]
 
-[^2627-1]: Abrogati dal n. II 21 dell’O del 18 mag. 2005 sull’abrogazione e la modifica di ordinanze in relazione con l’entrata in vigore della L sui prodotti chimici, con effetto dal 1° ago. 2005 ([RU 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)).
+[^2627-1]: Abrogati dalla cifra II n. 21 dell’O del 18 mag. 2005 sull’abrogazione e la modifica di ordinanze in relazione con l’entrata in vigore della L sui prodotti chimici, con effetto dal 1° ago. 2005 ([RU 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)).
 
 ### Sezione 4: Prevenzione e riparazione dei danni alla foresta
 
@@ -539,8 +577,8 @@ Per danni alla foresta si intendono danni che possono mettere in grave pericolo 
 
 <sup>2</sup> La vigilanza e la lotta contro gli organismi nocivi particolarmente pericolosi è disciplinata dall’ordinanza del 31 ottobre 2018[^28-2] sulla salute dei vegetali.[^28-3]
 
-[^28-1]: Nuovo testo giusta il n. I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
-[^28-2]: [RS 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
+[^28-1]: Nuovo testo giusta la cifra I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
+[^28-2]: [RS 916.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10651)
 [^28-3]: Nuovo testo giusta l’all. 8 n. 7 dell’O del 31 ott. 2018 sulla protezione dei vegetali da organismi nocivi particolarmente pericolosi, in vigore dal 1° gen. 2020 ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
 
 #### Art. 29
@@ -555,7 +593,7 @@ I Cantoni provvedono a prevenire e a riparare i danni alla foresta in particolar
 - b. provvedimenti per la riduzione del carico fisico sul suolo;
 - c. provvedimenti di vigilanza e di lotta contro gli organismi nocivi allo scopo di eliminarli, di contenerli o di limitare i danni.
 
-[^29-1]: Nuovo testo giusta il n. I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
+[^29-1]: Nuovo testo giusta la cifra I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 
 #### Art. 30
 
@@ -573,7 +611,7 @@ L’Istituto federale di ricerca per la foresta, la neve e il paesaggio (FNP) ad
 - b. informa sulla comparsa di organismi nocivi o di altri fattori che possono mettere in pericolo la foresta;
 - c. presta consulenza in materia di protezione della foresta ai servizi specializzati federali e cantonali.
 
-[^30-1]: Nuovo testo giusta il n. I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
+[^30-1]: Nuovo testo giusta la cifra I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 
 ### Sezione 5: Danni causati dalla selvaggina
 
@@ -587,7 +625,7 @@ L’Istituto federale di ricerca per la foresta, la neve e il paesaggio (FNP) ad
 
 <sup>3</sup> Il piano di prevenzione costituisce parte integrante della pianificazione forestale.
 
-[^31-1]: Nuovo testo giusta il n. I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
+[^31-1]: Nuovo testo giusta la cifra I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 
 ## Capitolo 5: Formazione e documenti di base
 
@@ -599,7 +637,7 @@ L’Istituto federale di ricerca per la foresta, la neve e il paesaggio (FNP) ad
 
 [^chap5-sec1-1]
 
-[^chap5-sec1-1]: Nuovo testo giusta il n. I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2018 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
+[^chap5-sec1-1]: Nuovo testo giusta la cifra I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2018 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 
 #### Art. 32
 
@@ -617,7 +655,7 @@ I Cantoni offrono un numero sufficiente di posti per la formazione continua sul 
 - b. promuovere le competenze dirigenziali e le conoscenze amministrative;
 - c. essere certificata da un attestato che provi le competenze e le conoscenze acquisite.
 
-[^32-1]: Nuovo testo giusta il n. I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2018 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
+[^32-1]: Nuovo testo giusta la cifra I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2018 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 
 #### Art. 33
 
@@ -634,8 +672,8 @@ I Cantoni curano:
 
 <sup>2</sup> Prima dell’emanazione o dell’approvazione di prescrizioni sulla formazione dei forestali ai sensi degli articoli 19 capoverso 1, 28 capoverso 2 e 29 capoverso 3 della legge del 13 dicembre 2002[^33-2] sulla formazione professionale è consultato l’UFAM.
 
-[^33-1]: Nuovo testo giusta l’all. n. II 2 dell’O del 19 nov. 2003 sulla formazione professionale, in vigore dal 1° gen. 2004 ([RU 2003 5047](https://fedlex.data.admin.ch/eli/oc/2003/748)).
-[^33-2]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^33-1]: Nuovo testo giusta l’all. cifra II n. 2 dell’O del 19 nov. 2003 sulla formazione professionale, in vigore dal 1° gen. 2004 ([RU 2003 5047](https://fedlex.data.admin.ch/eli/oc/2003/748)).
+[^33-2]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 
 #### Art. 34
 
@@ -647,7 +685,7 @@ I Cantoni curano:
 
 <sup>2</sup> I corsi riconosciuti dalla Confederazione devono riguardare le conoscenze di base sulla sicurezza sul lavoro, in particolare sull’abbattimento, la sramatura, la depezzatura e l’esbosco a regola d’arte e in sicurezza di alberi e tronchi d’alberi; devono avere una durata di almeno dieci giorni.
 
-[^34-1]: Nuovo testo giusta il n. I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
+[^34-1]: Nuovo testo giusta la cifra I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 
 #### Art. 35
 
@@ -659,7 +697,7 @@ I Cantoni curano:
 
 <sup>2</sup> L’UFAM gestisce un servizio centrale di coordinazione e documentazione per la formazione forestale.
 
-[^35-1]: Abrogato dal n. I 7.4 dell’O del 9 nov. 2011 (verifica delle commissioni extraparlamentari), con effetto dal 1° gen. 2012 ([RU 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
+[^35-1]: Abrogato dalla cifra I n. 7.4 dell’O del 9 nov. 2011 (verifica delle commissioni extraparlamentari), con effetto dal 1° gen. 2012 ([RU 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
 
 ### Sezione 2: ...
 
@@ -667,7 +705,7 @@ I Cantoni curano:
 
 [^3637-1]
 
-[^3637-1]: Abrogati dal n. I dell’O del 17 ago. 2016, con effetto dal 1° gen. 2018 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
+[^3637-1]: Abrogati dalla cifra I dell’O del 17 ago. 2016, con effetto dal 1° gen. 2018 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 
 ### Sezione 3: Rilevamenti
 
@@ -694,13 +732,13 @@ In collaborazione con l’FNP, rileva:
 
 <sup>4</sup> L’UFAM informa le autorità e la popolazione in merito ai rilevamenti.
 
-[^37a-1]: Nuovo testo giusta il n. I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
+[^37a-1]: Nuovo testo giusta la cifra I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 
 ### Sezione 4: Promozione del legno
 
 [^chap5-sec4-1]
 
-[^chap5-sec4-1]: Introdotta dal n. I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
+[^chap5-sec4-1]: Introdotta dalla cifra I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 
 #### Art. 37b
 
@@ -728,13 +766,13 @@ In collaborazione con l’FNP, rileva:
 
 [^chap6-1]
 
-[^chap6-1]: Nuovo testo giusta il n. I 21 dell’O del 7 nov. 2007 sulla nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni, in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^chap6-1]: Nuovo testo giusta la cifra I n. 21 dell’O del 7 nov. 2007 sulla nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni, in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 ### Sezione 1: Disposizioni generali
 
 [^chap6-sec1-1]
 
-[^chap6-sec1-1]: Nuovo testo giusta il n. I 5 dell’O del 28 gen. 2015 che adegua ordinanze nel settore ambientale, legate in particolare agli accordi programmatici per il periodo 2016–2019, in vigore dal 1° gen. 2016 ([RU 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)).
+[^chap6-sec1-1]: Nuovo testo giusta la cifra I n. 5 dell’O del 28 gen. 2015 che adegua ordinanze nel settore ambientale, legate in particolare agli accordi programmatici per il periodo 2016–2019, in vigore dal 1° gen. 2016 ([RU 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)).
 
 (art. 35 LFo)
 
@@ -753,11 +791,35 @@ Gli aiuti finanziari e le indennità della Confederazione sono accordati soltant
 
 **Costi computabili**[^38a-1]
 
-<sup>1</sup> Per le indennità di cui all’articolo 39 capoversi 1 e 2 e all’articolo 40 capoverso 1 lettera c sono computabili unicamente i costi effettivamente sostenuti e strettamente necessari per adempiere in modo adeguato il compito sussidiabile. Vi rientrano le spese per la progettazione, l’acquisto del terreno, l’esecuzione e la terminazione.
+<sup>1</sup> Per le indennità sono imputabili soltanto i costi effettivamente sostenuti e strettamente necessari per adempiere in modo adeguato il compito sussidiabile.
 
-<sup>2</sup> Non sono computabili in particolare le tasse e le imposte nonché i costi che possono essere addossati a terzi che, in modo determinante, sono usufruttuari o responsabili di danni.
+<sup>2</sup>
 
-[^38a-1]: Introdotto dal n. I 5 dell’O del 28 gen. 2015 che adegua ordinanze nel settore ambientale, legate in particolare agli accordi programmatici per il periodo 2016–2019, in vigore dal 1° gen. 2016 ([RU 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)).
+Per le indennità di cui agli articoli 39 capoversi 1 e 2 e 40 capoverso 1 lettera c, sono computabili i costi relativi a:
+
+- a. l’elaborazione dei dati di base e la pianificazione dei provvedimenti;
+- b. l’esecuzione e l’attuazione;
+- c. l’acquisto di terreni, le servitù nonché l’espropriazione formale e materiale;
+- d. la terminazione.
+
+<sup>3</sup>
+
+Non sono imputabili per le indennità di cui all’articolo 39 capoversi 1 e 2 in particolare:
+
+- a. gli emolumenti dovuti;
+- b. i costi che possono essere trasferiti ai responsabili dei danni;
+- c. i costi per la creazione di valori aggiunti rilevanti che derivano dalle misure, indipendentemente dalla protezione da catastrofi naturali;
+- d. i costi per i provvedimenti che apportano alle strade nazionali un miglioramento della protezione contro le piene e che sono già coperti dalla partecipazione ai costi dell’Ufficio federale delle strade;
+- e. i costi per le spese amministrative.
+
+<sup>4</sup>
+
+Non sono computabili per le indennità di cui all’articolo 40 capoverso 1 lettera c e capoverso 3 in particolare:
+
+- a. gli emolumenti dovuti;
+- b. i costi che possono essere trasferiti a terzi che, in modo determinante, sono beneficiari o responsabili dei danni.
+
+[^38a-1]: Introdotto dalla cifra I n. 5 dell’O del 28 gen. 2015 che adegua ordinanze nel settore ambientale, legate in particolare agli accordi programmatici per il periodo 2016–2019 ([RU 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)). Nuovo testo giusta l’all. n. 4 dell’O del 25 giu. 2025 sulla sistemazione dei corsi d’acqua, in vigore dal 1° ago. 2025 ([RU 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
 
 ### Sezione 2: Provvedimenti
 
@@ -765,49 +827,51 @@ Gli aiuti finanziari e le indennità della Confederazione sono accordati soltant
 
 **Protezione da catastrofi naturali**[^39-1]
 
-### (art. 36 LFo)
-
 <sup>1</sup>
 
-Le indennità per i provvedimenti e per l’allestimento dei documenti di base sui pericoli sono di norma accordate globalmente. L’ammontare delle indennità globali è negoziato tra l’UFAM e il Cantone interessato ed è stabilito in base:
+Le indennità per l’acquisizione di dati di base e per i provvedimenti sono accordate globalmente fatta eccezione per il capoverso 2. L’ammontare delle indennità globali è stabilito tra l’UFAM e il Cantone interessato nel quadro degli accordi programmatici in base a:
 
-- a. al potenziale di pericolo e di danno;
-- b. all’entità e alla qualità dei provvedimenti e della pianificazione.
+- a. il rischio di catastrofi naturali;
+- b. l’entità, l’efficacia e la qualità dei provvedimenti.
 
 <sup>2</sup>
 
 Le indennità possono essere accordate nel singolo caso se i provvedimenti:
 
 - a. interessano più di un Cantone;
-- b. riguardano zone protette od oggetti registrati in inventari nazionali;
+- b. riguardano zone protette od oggetti iscritti in inventari nazionali;
 - c. richiedono una valutazione tecnica particolarmente complessa o specifica a causa delle possibili alternative o per altri motivi; oppure
 - d. non erano prevedibili.
 
-<sup>3</sup>
+<sup>3</sup> Il contributo per i costi computabili dell’acquisizione di dati di base è del 50 per cento.
 
-I contributi ai costi dei provvedimenti secondo il capoverso 2 sono compresi tra il 35 e il 45 per cento e sono stabiliti in base:
+<sup>4</sup>
 
-- a. al potenziale di pericolo e di danno;
-- b. al grado di attuazione di un esame completo dei rischi;
-- c. all’entità e alla qualità dei provvedimenti e della pianificazione.
+Il contributo per i costi dei provvedimenti è compreso tra il 35 e il 45 per cento ed è stabilito in funzione di:
 
-<sup>4</sup> Qualora un Cantone debba adottare provvedimenti di protezione straordinari e particolarmente onerosi, segnatamente in seguito a danni causati dal maltempo, il contributo della Confederazione secondo il capoverso 3 può, in via eccezionale, essere aumentato sino a un massimo del 65 per cento dei costi dei provvedimenti.
+- a. il grado di attuazione dei dati di base;
+- b. l’entità, l’efficacia e la qualità dei provvedimenti.
 
 <sup>5</sup>
 
+Qualora un Cantone debba adottare provvedimenti di protezione straordinari e particolarmente onerosi contro le catastrofi naturali, segnatamente in seguito a danni causati dal maltempo, il contributo di cui al capoverso 4 può, in via eccezionale, essere aumentato del 20 per cento. Il contributo è stabilito in base a:
+
+- a. la necessità dei provvedimenti a seguito di una situazione straordinaria;
+- b. il notevole onere finanziario a carico del Cantone interessato in relazione ai provvedimenti di protezione contro i pericoli naturali;
+- c. la visione d’insieme della pianificazione.
+
+<sup>6</sup>
+
 Non è accordata alcuna indennità per:
 
-- a.[^39-2]
+- a. provvedimenti volti a proteggere opere e impianti che al momento della loro realizzazione sono stati edificati in zone di pericolo già designate o in aree notoriamente pericolose e che non erano necessariamente vincolati a tale ubicazione;
+- b. provvedimenti volti a proteggere costruzioni e impianti turistici come teleferiche, sciovie, piste da sci o sentieri che si trovano al di fuori degli insediamenti;
+- c. l’attuazione dei dati di base e dei provvedimenti nei piani direttori e di utilizzazione nonché nelle altre attività d’incidenza territoriale;
+- d. l’esercizio di provvedimenti tecnici per interventi d’emergenza e le spese di organi di condotta e forze d’intervento coperte dal mandato di base;
+- e. l’esercizio di provvedimenti tecnici;
+- f. l’elaborazione di strumenti di lavoro, direttive e linee guida cantonali.
 
-  provvedimenti necessari per proteggere costruzioni e impianti che al momento della loro realizzazione:
-
-  - 1\. sono stati edificati in zone già delimitate quali pericolose o in regioni notoriamente pericolose, e
-  - 2\. non erano necessariamente legati a tale ubicazione;
-
-- b. provvedimenti volti a proteggere costruzioni e impianti turistici come teleferiche, sciovie, piste da sci e sentieri che si trovano al di fuori degli insediamenti.
-
-[^39-1]: Nuovo testo giusta il n. I 3 dell’O del 2 feb. 2011 (adeguamento allo sviluppo degli accordi programmatici nel settore ambientale), in vigore dal 1° mar. 2011 ([RU 2011 649](https://fedlex.data.admin.ch/eli/oc/2011/103)).
-[^39-2]: Nuovo testo giusta il n. I 5 dell’O del 28 gen. 2015 che adegua ordinanze nel settore ambientale, legate in particolare agli accordi programmatici per il periodo 2016–2019, in vigore dal 1° gen. 2016 ([RU 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)).
+[^39-1]: Nuovo testo giusta l’all. n. 4 dell’O del 25 giu. 2025 sulla sistemazione dei corsi d’acqua, in vigore dal 1° ago. 2025 ([RU 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
 
 #### Art. 40
 
@@ -828,11 +892,11 @@ L’ammontare delle indennità globali destinate a provvedimenti necessari per g
 
 <sup>3</sup> Il contributo, accordato tramite decisione formale, ai progetti scaturiti da eventi naturali eccezionali ammonta al massimo al 40 per cento dei costi ed è stabilito in base al capoverso 1 lettere a, c e d.[^40-5]
 
-[^40-1]: Nuovo testo giusta il n. I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
-[^40-2]: Nuovo testo giusta il n. I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
-[^40-3]: Nuovo testo giusta il n. I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
-[^40-4]: Nuovo testo giusta il n. I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
-[^40-5]: Introdotta dal n. I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
+[^40-1]: Nuovo testo giusta la cifra I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
+[^40-2]: Nuovo testo giusta la cifra I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
+[^40-3]: Nuovo testo giusta la cifra I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
+[^40-4]: Nuovo testo giusta la cifra I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
+[^40-5]: Introdotta dalla cifra I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 
 #### Art. 40a
 
@@ -852,7 +916,7 @@ L’ammontare delle indennità globali destinate a provvedimenti per la prevenzi
 
 <sup>3</sup> Le indennità possono essere accordate singolarmente se i provvedimenti non erano prevedibili e sono particolarmente onerosi. Il contributo ammonta al massimo al 40 per cento dei costi ed è stabilito in base al capoverso 1 lettere a e c.
 
-[^40a-1]: Introdotto dal n. I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
+[^40a-1]: Introdotto dalla cifra I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
 
 #### Art. 40b
 
@@ -868,7 +932,7 @@ L’ammontare delle indennità globali destinate a provvedimenti per la prevenzi
 
 <sup>4</sup> La Confederazione rimborsa ai Cantoni, nel quadro delle indennità globali di cui all’articolo 40*a*, dal 35 al 50 per cento delle spese cagionate dal versamento delle indennità.
 
-[^40b-1]: Introdotto dal n. I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
+[^40b-1]: Introdotto dalla cifra I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 
 #### Art. 41
 
@@ -896,16 +960,16 @@ L’ammontare degli aiuti finanziari globali destinati a provvedimenti che contr
 
 <sup>4</sup> ...[^41-4]
 
-[^41-1]: Nuovo testo giusta il n. I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
-[^41-2]: Abrogata dal n. I dell’O del 17 ago. 2016, con effetto dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
-[^41-3]: Nuovo testo giusta il n. I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
-[^41-4]: Abrogato dal n. I dell’O del 17 ago. 2016, con effetto dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
+[^41-1]: Nuovo testo giusta la cifra I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
+[^41-2]: Abrogata dalla cifra I dell’O del 17 ago. 2016, con effetto dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
+[^41-3]: Nuovo testo giusta la cifra I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
+[^41-4]: Abrogato dalla cifra I dell’O del 17 ago. 2016, con effetto dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 
 #### Art. 42
 
 [^42-1]
 
-[^42-1]: Abrogato dal n. I dell’O del 17 ago. 2016, con effetto dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
+[^42-1]: Abrogato dalla cifra I dell’O del 17 ago. 2016, con effetto dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 
 #### Art. 43
 
@@ -944,18 +1008,18 @@ Gli aiuti finanziari globali per il miglioramento delle condizioni di gestione d
 
 <sup>5</sup> Gli aiuti finanziari globali per la produzione di materiale di riproduzione forestale sono accordati solo se è stato presentato un progetto di costruzione o un piano di gestione approvato dal Cantone, corredato di preventivo e garanzia del finanziamento.[^43-12]
 
-[^43-1]: Nuovo testo giusta il n. I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
-[^43-2]: Nuovo testo giusta il n. I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
-[^43-3]: Nuovo testo giusta il n. I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
-[^43-4]: Nuovo testo giusta il n. I 5 dell’O del 28 gen. 2015 che adegua ordinanze nel settore ambientale, legate in particolare agli accordi programmatici per il periodo 2016–2019, in vigore dal 1° gen. 2016 ([RU 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)).
-[^43-5]: Introdotta dal n. I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
-[^43-6]: Introdotta dal n. I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
-[^43-7]: Introdotta dal n. I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
-[^43-8]: Introdotta dal n. I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
-[^43-9]: Introdotta dal n. I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
-[^43-10]: Introdotta dal n. I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
-[^43-11]: Introdotto dal n. I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
-[^43-12]: Introdotto dal n. I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
+[^43-1]: Nuovo testo giusta la cifra I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
+[^43-2]: Nuovo testo giusta la cifra I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
+[^43-3]: Nuovo testo giusta la cifra I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
+[^43-4]: Nuovo testo giusta la cifra I n. 5 dell’O del 28 gen. 2015 che adegua ordinanze nel settore ambientale, legate in particolare agli accordi programmatici per il periodo 2016–2019, in vigore dal 1° gen. 2016 ([RU 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)).
+[^43-5]: Introdotta dalla cifra I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
+[^43-6]: Introdotta dalla cifra I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
+[^43-7]: Introdotta dalla cifra I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
+[^43-8]: Introdotta dalla cifra I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
+[^43-9]: Introdotta dalla cifra I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
+[^43-10]: Introdotta dalla cifra I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
+[^43-11]: Introdotto dalla cifra I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
+[^43-12]: Introdotto dalla cifra I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 
 #### Art. 44
 
@@ -971,8 +1035,8 @@ Gli aiuti finanziari globali per il miglioramento delle condizioni di gestione d
 
 <sup>4</sup> ...[^44-2]
 
-[^44-1]: Abrogato dal n. I dell’O del 17 ago. 2016, con effetto dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
-[^44-2]: Abrogato dal n. I dell’O del 17 ago. 2016, con effetto dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
+[^44-1]: Abrogato dalla cifra I dell’O del 17 ago. 2016, con effetto dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
+[^44-2]: Abrogato dalla cifra I dell’O del 17 ago. 2016, con effetto dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 
 #### Art. 45
 
@@ -1057,7 +1121,7 @@ L’UFAM sospende totalmente o in parte i pagamenti rateali nel corso del progra
 
 <sup>4</sup> Se le lacune non sono colmate o la sottrazione allo scopo non cessa o non è annullata, la restituzione è retta dagli articoli 28 e 29 della legge del 5 ottobre 1990[^50-1] sui sussidi (LSu).
 
-[^50-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^50-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ### Sezione 4: Procedura per la concessione di indennità o aiuti finanziari nel singolo caso
 
@@ -1091,7 +1155,7 @@ L’UFAM sospende totalmente o in parte i pagamenti rateali nel corso del progra
 
 <sup>4</sup> Se la sottrazione allo scopo non cessa o non è annullata, la restituzione è retta dall’articolo 29 LSu.
 
-[^53-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^53-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 54
 
@@ -1126,9 +1190,9 @@ Crediti d’investimento sono concessi se:
 
 <sup>6</sup> ...[^60-3]
 
-[^60-1]: [[RU 1962 1323](https://fedlex.data.admin.ch/eli/oc/1962/1273_1315_1323); [1967 806](https://fedlex.data.admin.ch/eli/oc/1967/768_811_806); [1972 2532](https://fedlex.data.admin.ch/eli/oc/1972/2699_2749_2532); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)n. I 961; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)n. II 52, [857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 27; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 47, [2104](https://fedlex.data.admin.ch/eli/oc/1992/2104_2104_2104). [RU 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)all. lett. f]
-[^60-2]: [[RU 1975 392](https://fedlex.data.admin.ch/eli/oc/1975/392_392_392), [1980 1798](https://fedlex.data.admin.ch/eli/oc/1980/1798_1798_1798), [1985 387](https://fedlex.data.admin.ch/eli/oc/1985/387_387_387), [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 24, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 43. [RU 1997 2995](https://fedlex.data.admin.ch/eli/oc/1997/2995_2995_2995)art. 25]. Vedi ora: la LF del 6 ott. 2006 sulla politica regionale ([RS 901.0](https://fedlex.data.admin.ch/eli/cc/2007/136))
-[^60-3]: Abrogato dal n. I 21 dell’O del 7 nov. 2007 sulla nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni, con effetto dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^60-1]: [[RU 1962 1323](https://fedlex.data.admin.ch/eli/oc/1962/1273_1315_1323); [1967 806](https://fedlex.data.admin.ch/eli/oc/1967/768_811_806); [1972 2532](https://fedlex.data.admin.ch/eli/oc/1972/2699_2749_2532); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)cifra I n. 961; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)cifra II n. 52, [857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 27; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 47, [2104](https://fedlex.data.admin.ch/eli/oc/1992/2104_2104_2104). [RU 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)all. lett. f]
+[^60-2]: [[RU 1975 392](https://fedlex.data.admin.ch/eli/oc/1975/392_392_392), [1980 1798](https://fedlex.data.admin.ch/eli/oc/1980/1798_1798_1798), [1985 387](https://fedlex.data.admin.ch/eli/oc/1985/387_387_387), [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 24, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 43. [RU 1997 2995](https://fedlex.data.admin.ch/eli/oc/1997/2995_2995_2995)art. 25]. Vedi ora: la LF del 6 ott. 2006 sulla politica regionale ([RS 901.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10387))
+[^60-3]: Abrogato dalla cifra I n. 21 dell’O del 7 nov. 2007 sulla nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni, con effetto dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 61
 
@@ -1140,7 +1204,7 @@ Crediti d’investimento sono concessi se:
 
 <sup>3</sup> I mezzi a disposizione sono ripartiti in base al fabbisogno.[^61-1]
 
-[^61-1]: Nuovo testo giusta il n. I 21 dell’O del 7 nov. 2007 sulla nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni, in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^61-1]: Nuovo testo giusta la cifra I n. 21 dell’O del 7 nov. 2007 sulla nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni, in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 62
 
@@ -1179,7 +1243,7 @@ I crediti d’investimento sono concessi:
 
 <sup>3</sup> Non si concedono mutui inferiori a franchi 10.000.–.
 
-[^63-1]: Nuovo testo giusta il n. I 21 dell’O del 7 nov. 2007 sulla nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni, in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^63-1]: Nuovo testo giusta la cifra I n. 21 dell’O del 7 nov. 2007 sulla nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni, in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 64
 
@@ -1204,7 +1268,7 @@ Il rimborso inizia:
 
 <sup>6</sup> Il rimborso di crediti o rate d’ammortamento esigibili sono addebitati di un interesse moratorio del 5 per cento.
 
-[^64-1]: Abrogato dal n. I 21 dell’O del 7 nov. 2007 sulla nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni, con effetto dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^64-1]: Abrogato dalla cifra I n. 21 dell’O del 7 nov. 2007 sulla nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni, con effetto dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 ## Capitolo 8: Disposizioni finali
 
@@ -1220,7 +1284,7 @@ Il rimborso inizia:
 
 <sup>2</sup> Nell’applicare altre leggi federali, accordi internazionali o decisioni internazionali concernenti punti disciplinati dalla presente ordinanza, le autorità federali eseguono in tal ambito anche la presente ordinanza. La collaborazione dell’UFAM e dei Cantoni è retta dall’articolo 49 capoverso 2 LFo; sono salve le disposizioni legali sull’obbligo di tutela del segreto.[^65-1]
 
-[^65-1]: Introdotto dal n. II 17 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani), in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^65-1]: Introdotto dalla cifra II n. 17 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani), in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
 #### Art. 66
 
@@ -1232,7 +1296,7 @@ Il rimborso inizia:
 
 <sup>2</sup> Essi comunicano all’UFAM le disposizioni e le decisioni in merito ai dissodamenti.[^66-1]
 
-[^66-1]: Introdotto dal n. II 17 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani), in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^66-1]: Introdotto dalla cifra II n. 17 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani), in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
 #### Art. 66a
 
@@ -1241,7 +1305,7 @@ Il rimborso inizia:
 L’UFAM stabilisce i modelli di geodati e i modelli di rappresentazione minimi per i geodati di base ai sensi della presente ordinanza per i quali è designato quale servizio specializzato della Confederazione nell’allegato 1 dell’ordinanza del 21 maggio 2008[^66a-2] sulla geoinformazione.
 
 [^66a-1]: Introdotto dall’all. 2 n. 13 dell’O del 21 mag. 2008 sulla geoinformazione, in vigore dal 1° lug. 2008 ([RU 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
-[^66a-2]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^66a-2]: [RS 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 
 ### Sezione 2: Diritto previgente; abrogazione e modificazione
 
@@ -1258,11 +1322,11 @@ Sono abrogati:
 - e. il decreto del Consiglio federale del 16 ottobre 1956[^67-5] concernente la provenienza e l’utilizzazione delle sementi forestali e delle piante forestali;
 - f. l’ordinanza del 22 giugno 1970[^67-6] sui crediti forestali d’investimento nelle regioni di montagna.
 
-[^67-1]: [[RU 1965 862](https://fedlex.data.admin.ch/eli/oc/1965/861_869_862); **1971** 1192; **1977** n. I 18.1; [1985 670](https://fedlex.data.admin.ch/eli/oc/1985/670_670_670)n. I 3, [685](https://fedlex.data.admin.ch/eli/oc/1985/685_685_685)n. I 6, [2022](https://fedlex.data.admin.ch/eli/oc/1985/2022_2022_2022)]
+[^67-1]: [[RU 1965 862](https://fedlex.data.admin.ch/eli/oc/1965/861_869_862); **1971** 1192; **1977** cifra I n. 18.1; **1985** 670 cifra I n. 3, 685 cifra I n. 6, 2022]
 [^67-2]: [[RU 1973 964](https://fedlex.data.admin.ch/eli/oc/1973/964_964_964), [1987 608](https://fedlex.data.admin.ch/eli/oc/1987/608_608_608)art. 16 cpv. 1 lett. e]
-[^67-3]: [[RU 1988 2057](https://fedlex.data.admin.ch/eli/oc/1988/2057_2057_2057)[1990 874](https://fedlex.data.admin.ch/eli/oc/1990/874_874_874)n. I, II]
-[^67-4]: [[RU 1956 1317](https://fedlex.data.admin.ch/eli/oc/1956/1220_1303_1317), **1959** 1680, [1977 2325](https://fedlex.data.admin.ch/eli/oc/1977/2325_2325_2325)n. I 19, [1986 1254](https://fedlex.data.admin.ch/eli/oc/1986/1254_1254_1254)art. 70 n. 3, **1987** 2538, [1989 1124](https://fedlex.data.admin.ch/eli/oc/1989/1124_1124_1124)art. 2 n. 2, [1992 1749](https://fedlex.data.admin.ch/eli/oc/1992/1749_1749_1749)n. II 4. [RU 1993 104](https://fedlex.data.admin.ch/eli/oc/1993/104_104_104)art. 42 lett. a]
-[^67-5]: [[RU 1956 1325](https://fedlex.data.admin.ch/eli/oc/1956/1227_1311_1325), **1959** 1682, [1975 402](https://fedlex.data.admin.ch/eli/oc/1975/402_402_402)n. I 15, **1987** 2538]
+[^67-3]: [[RU 1988 2057](https://fedlex.data.admin.ch/eli/oc/1988/2057_2057_2057)[1990 874](https://fedlex.data.admin.ch/eli/oc/1990/874_874_874)cifra I, II]
+[^67-4]: [[RU 1956 1317](https://fedlex.data.admin.ch/eli/oc/1956/1220_1303_1317), **1959** 1680, [1977 2325](https://fedlex.data.admin.ch/eli/oc/1977/2325_2325_2325)cifra I n. 19, [1986 1254](https://fedlex.data.admin.ch/eli/oc/1986/1254_1254_1254)art. 70 n. 3, **1987** 2538, [1989 1124](https://fedlex.data.admin.ch/eli/oc/1989/1124_1124_1124)art. 2 n. 2, [1992 1749](https://fedlex.data.admin.ch/eli/oc/1992/1749_1749_1749)cifra II n. 4. [RU 1993 104](https://fedlex.data.admin.ch/eli/oc/1993/104_104_104)art. 42 lett. a]
+[^67-5]: [[RU 1956 1325](https://fedlex.data.admin.ch/eli/oc/1956/1227_1311_1325), **1959** 1682, [1975 402](https://fedlex.data.admin.ch/eli/oc/1975/402_402_402)cifra I n. 15, **1987** 2538]
 [^67-6]: [[RU 1970 764](https://fedlex.data.admin.ch/eli/oc/1970/765_764_764), [1978 1819](https://fedlex.data.admin.ch/eli/oc/1978/1819_1819_1819)]
 
 #### Art. 68
@@ -1280,6 +1344,14 @@ Sono abrogati:
 <sup>1</sup> La presente ordinanza entra in vigore il 1° gennaio 1993, ad eccezione degli articoli 60 a 64 e 67 lettera f.
 
 <sup>2</sup> Gli articoli 60 a 64 e 67 lettera f entrano in vigore il 1° gennaio 1994.
+
+#### Art. 70
+
+**Disposizione transitoria**[^70-1]
+
+I Cantoni presentano per la prima volta all’UFAM entro il 1° dicembre 2031 le panoramiche dei rischi e le pianificazioni globali ai sensi dell’articolo 16 capoverso 2 lettere e ed f.
+
+[^70-1]: Introdotto dall’all. n. 4 dell’O del 25 giu. 2025 sulla sistemazione dei corsi d’acqua, in vigore dal 1° ago. 2025 ([RU 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
 
 ## Disposizione transitoria della modifica del 2 febbraio 2000
 
@@ -1299,9 +1371,9 @@ Le domande di dissodamento per le opere di competenza cantonale, pendenti il 1°
 
 <sup>2</sup> L’ammontare degli aiuti finanziari per le strutture di raccordo adattate o ripristinate prima del 31 dicembre 2024 può essere stabilito in base all’entità e alla qualità dei provvedimenti invece che secondo i criteri di cui all’articolo 43 capoverso 1 lettera j.[^u2-3]
 
-[^u2-2]: Nuovo testo giusta il n. I 2 dell’O del 31 mag. 2024 che adegua ordinanze in materia ambientale all’ulteriore sviluppo degli accordi programmatici del periodo programmatico 2025–2028, in vigore dal 1° gen. 2025 ([RU 2024 252](https://fedlex.data.admin.ch/eli/oc/2024/252)).
-[^u2-3]: Nuovo testo giusta il n. I 2 dell’O del 17 apr. 2019 che adegua ordinanze in materia ambientale all’ulteriore sviluppo degli accordi programmatici del periodo programmatico 2020–2024, in vigore dal 1° gen. 2020 ([RU 2019 1487](https://fedlex.data.admin.ch/eli/oc/2019/286)).
+[^u2-2]: Nuovo testo giusta la cifra I n. 2 dell’O del 31 mag. 2024 che adegua ordinanze in materia ambientale all’ulteriore sviluppo degli accordi programmatici del periodo programmatico 2025–2028, in vigore dal 1° gen. 2025 ([RU 2024 252](https://fedlex.data.admin.ch/eli/oc/2024/252)).
+[^u2-3]: Nuovo testo giusta la cifra I n. 2 dell’O del 17 apr. 2019 che adegua ordinanze in materia ambientale all’ulteriore sviluppo degli accordi programmatici del periodo programmatico 2020–2024, in vigore dal 1° gen. 2020 ([RU 2019 1487](https://fedlex.data.admin.ch/eli/oc/2019/286)).
 
 Allegato[^t-1]
 
-[^t-1]: Abrogato dal n. I 21 dell’O del 7 nov. 2007 sulla nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni, con effetto dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^t-1]: Abrogato dalla cifra I n. 21 dell’O del 7 nov. 2007 sulla nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni, con effetto dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).

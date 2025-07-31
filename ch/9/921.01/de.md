@@ -4,11 +4,11 @@ title: "Verordnung vom 30. November 1992 über den Wald (Waldverordnung, WaV)"
 short: WaV
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538"
 language: de
-version: 2025-01-01
+version: 2025-08-01
 adopted: 1992-11-30
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1992-2538_2538_2538-20250101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2538_2538_2538/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538/20250801/de/xml/fedlex-data-admin-ch-eli-cc-1992-2538_2538_2538-20250801-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2538_2538_2538/20250801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1992/2538_2538_2538/20250101/de"
 
 (Waldverordnung, WaV)
 
-vom 30. November 1992 (Stand am 1. Januar 2025)
+vom 30. November 1992 (Stand am 1. August 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf Artikel 49 des Waldgesetzes vom 4. Oktober 1991[^ingress-1] (WaG) 
 
 verordnet:
 
-[^ingress-1]: [SR 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
-[^ingress-2]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^ingress-1]: [SR 921.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10958)
+[^ingress-2]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 
 ## 1. Kapitel: Begriff des Waldes
 
@@ -79,7 +79,7 @@ Nicht als Rodung gilt:
 - a. die Beanspruchung von Waldboden für forstliche Bauten und Anlagen sowie für nichtforstliche Kleinbauten und -anlagen;
 - b. die Zuweisung von Wald in eine Schutzzone nach Artikel 17 des Raumplanungsgesetzes vom 22. Juni 1979[^4-1] (RPG), sofern das Schutzziel mit der Walderhaltung in Einklang steht.
 
-[^4-1]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^4-1]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 5
 
@@ -181,10 +181,10 @@ Landschaftlich wertvoll sind insbesondere:
 
 [^9-1]: Fassung gemäss Ziff. I der V vom 14. Juni 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
 [^9-2]: Fassung gemäss Ziff. I der V vom 14. Juni 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
-[^9-3]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^9-4]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
-[^9-5]: [[AS 1977 1962](https://fedlex.data.admin.ch/eli/oc/1977/1962_1962_1962), [1983 1942](https://fedlex.data.admin.ch/eli/oc/1983/1942_1942_1942), [1996 3264](https://fedlex.data.admin.ch/eli/oc/1996/3264_3264_3264), [1998 788](https://fedlex.data.admin.ch/eli/oc/1998/788_788_788), [2010 1593](https://fedlex.data.admin.ch/eli/oc/2010/227)Anhang Ziff. 2. [AS 2017 2815](https://fedlex.data.admin.ch/eli/oc/2017/290)Art. 11]. Siehe heute: die V vom 29. März 2017 ([SR 451.11](https://fedlex.data.admin.ch/eli/cc/2017/290)).
-[^9-6]: [BS **1** 3; [AS 1988 352](https://fedlex.data.admin.ch/eli/oc/1988/352_352_352)]. Der genannten Bestimmung entspricht heute Art. 78 Abs. 5 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^9-3]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^9-4]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
+[^9-5]: [[AS 1977 1962](https://fedlex.data.admin.ch/eli/oc/1977/1962_1962_1962), [1983 1942](https://fedlex.data.admin.ch/eli/oc/1983/1942_1942_1942), [1996 3264](https://fedlex.data.admin.ch/eli/oc/1996/3264_3264_3264), [1998 788](https://fedlex.data.admin.ch/eli/oc/1998/788_788_788), [2010 1593](https://fedlex.data.admin.ch/eli/oc/2010/227)Anhang Ziff. 2. [AS 2017 2815](https://fedlex.data.admin.ch/eli/oc/2017/290)Art. 11]. Siehe heute: die V vom 29. März 2017 ([SR 451.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7168)).
+[^9-6]: [BS **1** 3; [AS 1988 352](https://fedlex.data.admin.ch/eli/oc/1988/352_352_352)]. Der genannten Bestimmung entspricht heute Art. 78 Abs. 5 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 
 #### Art. 9a
 
@@ -295,7 +295,7 @@ Voraussetzung einer Bewilligung ist, dass:
 <sup>3</sup> Die übrigen Voraussetzungen des Bundesrechts und des kantonalen Rechts bleiben vorbehalten.
 
 [^13a-1]: Eingefügt durch Ziff. I der V vom 14. Juni 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
-[^13a-2]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^13a-2]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 [^13a-3]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 294](https://fedlex.data.admin.ch/eli/oc/2021/294)).
 
 #### Art. 14
@@ -311,63 +311,102 @@ Voraussetzung einer Bewilligung ist, dass:
 <sup>2</sup> Ausnahmebewilligungen für nichtforstliche Kleinbauten oder -anlagen im Wald nach Artikel 24 RPG dürfen nur im Einvernehmen mit der zuständigen kantonalen Forstbehörde erteilt werden.
 
 [^14-1]: Eingefügt durch Ziff. I der V vom 14. Juni 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
-[^14-2]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^14-2]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 ## 3. Kapitel: Schutz vor Naturereignissen
 
 #### Art. 15
 
-**Grundlagen**
+**Umgang mit Risiken von Naturereignissen**[^15-1]
 
-<sup>1</sup>
+<sup>1</sup> Die Kantone reduzieren die Risiken von Naturereignissen auf ein tragbares Mass und begrenzen sie langfristig, indem sie die erforderlichen Grundlagen erheben und bewerten sowie Massnahmen integral planen und umsetzen. Sie berücksichtigen dabei namentlich die Folgen des Klimawandels und die Entwicklung der Raumnutzung.
 
-Die Kantone erarbeiten die Grundlagen für den Schutz vor Naturereignissen. Sie:
+<sup>2</sup> Bei der integralen Planung sind die betroffenen Kreise zu beteiligen, die Massnahmen optimal zu kombinieren und die Interessen abzuwägen, insbesondere die Interessen der Bewirtschaftung des Waldes, des Natur- und Landschaftsschutzes, des Wasserbaus, der Landwirtschaft und der Raumplanung.
 
-- a. führen Inventare über Bauten und Anlagen, die für den Schutz vor Naturereignissen von Bedeutung sind (Schutzbautenkataster);
-- b. dokumentieren Schadenereignisse (Ereigniskataster) und analysieren, soweit erforderlich, grössere Schadenereignisse;
-- c. erstellen Gefahrenkarten und, für den Ereignisfall, Notfallplanungen und führen diese periodisch nach.[^15-1]
-
-<sup>2</sup> Bei der Erarbeitung der Grundlagen berücksichtigen sie die von den Fachstellen des Bundes durchgeführten Arbeiten und aufgestellten technischen Richtlinien.
-
-<sup>3</sup> Die Kantone berücksichtigen die Grundlagen bei allen raumwirksamen Tätigkeiten, insbesondere in der Richt- und Nutzungsplanung.
-
-<sup>4</sup> Sie stellen die Grundlagen dem BAFU auf Verlangen zur Verfügung und machen sie der Öffentlichkeit in geeigneter Form zugänglich.[^15-2]
-
-[^15-1]: Fassung gemäss Ziff. I 5 der V vom 28. Jan. 2015 über Anpassungen des Verordnungsrechts im Umweltbereich, insbesondere hinsichtlich der Programmvereinbarungen für die Programmperiode 2016–2019, in Kraft seit 1. Jan. 2016 ([AS 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)).
-[^15-2]: Eingefügt durch Ziff. I 21 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzaus-gleichs und der Aufgabenteilung zwischen Bund und Kantonen ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)). Fassung gemäss Anhang 2 Ziff. 13 der V vom 21. Mai 2008 über Geoinformation, in Kraft seit 1. Juli 2008 ([AS 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
+[^15-1]: Fassung gemäss Anhang Ziff. 4 der Wasserbauverordnung vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
 
 #### Art. 16
 
-**Frühwarndienste**
-
-<sup>1</sup> Wo es der Schutz von Menschen oder erheblichen Sachwerten erfordert, errichten die Kantone Frühwarndienste. Sie sorgen für den Aufbau sowie den Betrieb der dazugehörigen Messstellen und Informationssysteme.
-
-<sup>2</sup> Bei der Errichtung und beim Betrieb der Frühwarndienste berücksichtigen sie die von den Fachstellen des Bundes durchgeführten Arbeiten und aufgestellten technischen Richtlinien.
-
-<sup>3</sup> Sie sorgen dafür, dass die Daten der Messstellen und Informationssysteme dem BAFU auf Verlangen zur Verfügung gestellt und der Öffentlichkeit in geeigneter Form zugänglich gemacht werden.[^16-1]
-
-[^16-1]: Eingefügt durch Ziff. I 21 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzaus-gleichs und der Aufgabenteilung zwischen Bund und Kantonen ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)). Fassung gemäss Anhang 2 Ziff. 13 der V vom 21. Mai 2008 über Geoinformation, in Kraft seit 1. Juli 2008 ([AS 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
-
-#### Art. 17
-
-**Sicherung von Gefahrengebieten**
-
-### (Art. 19 WaG)
+**Grundlagen**[^16-1]
 
 <sup>1</sup>
 
-Die Sicherung von Gefahrengebieten umfasst:
+Das BAFU erarbeitet die Grundlagen von gesamtschweizerischem Interesse für den Schutz vor Naturereignissen. Zu diesem Zweck:
 
-- a. waldbauliche Massnahmen;
-- b. bauliche Massnahmen zur Verhinderung von Lawinenschäden und ausnahmsweise die Erstellung von Anlagen zur vorsorglichen Auslösung von Lawinen;
-- c. begleitende Massnahmen im Gerinne, die mit der Walderhaltung im Zusammenhang stehen (forstlicher Bachverbau);
-- d. den Rutschhang- und Rüfenverbau, entsprechende Entwässerungen sowie den Erosionsschutz;
-- e. Steinschlag- und Felssturzverbauungen, Auffangwerke sowie ausnahmsweise die vorsorgliche Auslösung von absturzgefährdetem Material;
-- f. die Verlegung gefährdeter Bauten und Anlagen an sichere Orte.
+- a. führt es Erhebungen durch über die Belange des Schutzes vor Naturereignissen;
+- b. führt es ein Inventar über die vom Bund mitfinanzierten Massnahmen;
+- c. analysiert es Ereignisse;
+- d. erstellt es Übersichten.
 
-<sup>2</sup> Die Arbeiten sind wenn möglich mit ingenieurbiologischen und waldbaulichen Massnahmen zu kombinieren.
+<sup>2</sup>
 
-<sup>3</sup> Die Kantone sorgen für eine integrale Planung; diese berücksichtigt insbesondere die Interessen der Bewirtschaftung des Waldes, des Natur- und Landschaftsschutzes, des Wasserbaus, der Landwirtschaft und der Raumplanung.
+Die Kantone erarbeiten die Grundlagen für den Schutz vor Naturereignissen auf ihrem Kantonsgebiet. Zu diesem Zweck:
+
+- a. dokumentieren und analysieren sie die Ereignisse;
+- b. dokumentieren und beurteilen sie die Schutzbauten;
+- c. führen sie einen Kataster der Ereignisse und der Schutzbauten;
+- d. erfassen sie die Gefahren und Risiken;
+- e. erstellen sie Gefahrenbeurteilungen und Risikoübersichten;
+- f. erstellen sie Gesamtplanungen und bei Bedarf weitere übergeordnete Planungen.
+
+<sup>3</sup> Sie bezeichnen die Gefahrengebiete.
+
+<sup>4</sup> Sie berücksichtigen die vom Bund erhobenen Grundlagen und seine Vollzugshilfen.
+
+<sup>5</sup> Sie reichen die Risikoübersichten und Gesamtplanungen periodisch gemäss den Vorgaben beim BAFU ein.
+
+<sup>6</sup> Sie stellen die erarbeiteten Grundlagen allen Interessierten unentgeltlich zur Verfügung.
+
+[^16-1]: Fassung gemäss Anhang Ziff. 4 der Wasserbauverordnung vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
+
+#### Art. 17
+
+**Raumplanerische Massnahmen**[^17-1]
+
+<sup>1</sup>
+
+Die Kantone berücksichtigen die Gefahrengebiete und die Risiken in der Richt- und Nutzungsplanung sowie bei ihren übrigen raumwirksamen Tätigkeiten. Sie stellen in den Gefahrengebieten sicher, dass insbesondere:
+
+- a. bei Ein-, Auf- und Umzonungen und der Erteilung von Baubewilligungen für Bauten und Anlagen die Risiken begrenzt werden;
+- b. durch Um-, Ab- und Auszonungen oder Verlegung von gefährdeten Bauten und Anlagen an sichere Orte untragbare Risiken reduziert werden.
+
+<sup>2</sup> Sie legen in der Richt- und Nutzungsplanung Freihalteräume fest, in welchen sich Naturereignisse ereignen können, um so andere Gebiete zu schützen. In den Freihalteräumen ist das Risiko durch die Art und das Mass der Nutzung zu begrenzen.
+
+[^17-1]: Fassung gemäss Anhang Ziff. 4 der Wasserbauverordnung vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
+
+#### Art. 17a
+
+**Organisatorische Massnahmen**[^17a-1]
+
+Die Kantone ergreifen organisatorische Massnahmen, um im Ereignisfall Menschenleben zu retten und das Schadensausmass zu begrenzen. Zu diesem Zweck:
+
+- a. stellen sie sicher, dass die Einsatzpläne erstellt, eingeübt und den zivilen Führungs- und Einsatzkräften bekannt sind;
+- b. stellen sie sicher, dass die zivilen Führungs- und Einsatzkräfte bei der Vorbereitung und Bewältigung von Naturereignissen fachlich beraten werden;
+- c. bauen sie Warneinrichtungen auf, die zur Sicherung von Siedlungen und Verkehrswegen vor Naturereignissen erforderlich sind, und betreiben sie;
+- d. treffen sie technische Vorkehrungen zur Unterstützung der Einsatzkräfte bei der Bewältigung von Naturereignissen.
+
+[^17a-1]: Eingefügt durch Anhang Ziff. 4 der Wasserbauverordnung vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
+
+#### Art. 17b
+
+**Biologische und technische Massnahmen sowie Entlastungsräume**[^17b-1]
+
+<sup>1</sup>
+
+Die Kantone ergreifen biologische und technische Massnahmen, um das Risiko vor Naturereignissen zu begrenzen. Zu diesen Massnahmen gehören:
+
+- a. die Ausscheidung von Schutzwald und die Schaffung von Wald mit Schutzfunktion einschliesslich der entsprechenden Jungwaldpflege;
+- b. waldbauliche Massnahmen;
+- c. bauliche Massnahmen zur Verhinderung von Lawinenschäden und die Errichtung von Anlagen zur vorsorglichen Lawinenauslösung;
+- d. Steinschlag- und Felssturzverbauungen und Auffangwerke sowie die Räumung von absturzgefährdetem Material;
+- e. der Rutschhang- und Rüfenverbau, entsprechende Entwässerungen sowie der Erosionsschutz;
+- f. begleitende Massnahmen im Gerinne, die mit der Walderhaltung im Zusammenhang stehen (forstlicher Bachverbau).
+
+<sup>2</sup> Sie gestalten neue Schutzbauten und -anlagen robust. Bestehende Schutzbauten und -anlagen überprüfen sie auf ihre Überlastbarkeit und Systemsicherheit und passen diese bei Bedarf an.
+
+<sup>3</sup> Sie bezeichnen entschädigungsberechtige Entlastungsräume, in welche Naturereignisse durch Schutzmassnahmen so ein- und durchgeleitet werden, dass diese Räume häufiger oder intensiver belastet werden, um damit andere Gebiete zu schützen.
+
+[^17b-1]: Eingefügt durch Anhang Ziff. 4 der Wasserbauverordnung vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
 
 ## 4. Kapitel: Pflege und Nutzung des Waldes
 
@@ -486,7 +525,7 @@ Die Bewilligung wird erteilt, wenn:
 
 <sup>3</sup> Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation[^22-3] (UVEK[^22-4]) erlässt Vorschriften über das Ausstellen von Ausfuhrdokumenten für forstliches Vermehrungsgut.
 
-[^22-1]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^22-1]: [SR 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
 [^22-2]: Eingefügt durch Art. 51 Ziff. 3 der Pflanzenschutzverordnung vom 28. Febr. 2001 ([AS 2001 1191](https://fedlex.data.admin.ch/eli/oc/2001/174)). Fassung gemäss Anhang 5 Ziff. 16 der Freisetzungsverordnung vom 10. Sept. 2008, in Kraft seit 1. Okt. 2008 ([AS 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)).
 [^22-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
 [^22-4]: Ausdruck gemäss Ziff. I 5 der V vom 28. Jan. 2015 über Anpassungen des Verordnungsrechts im Umweltbereich, insbesondere hinsichtlich der Programmvereinbarungen für die Programmperiode 2016–2019, in Kraft seit 1. Jan. 2016 ([AS 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)). Die Anpassung wurde im ganzen Erlass berücksichtigt.
@@ -520,7 +559,7 @@ Die Bewilligung wird erteilt, wenn:
 Die ausnahmsweise Verwendung von umweltgefährdenden Stoffen im Wald richtet sich nach der Chemikalien-Risikoreduktions-Verordnung vom 18. Mai 2005[^25-2].
 
 [^25-1]: Fassung gemäss Ziff. II 21 der V vom 18. Mai 2005 über die Aufhebung und Änderung von Verordnungen im Zusammenhang mit dem Inkrafttreten des Chemikaliengesetzes, in Kraft seit 1. Aug. 2005 ([AS 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)).
-[^25-2]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^25-2]: [SR 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 #### Art. 26 und 27
 
@@ -546,7 +585,7 @@ Als Waldschäden gelten Schäden, die den Wald in seinen Funktionen erheblich ge
 <sup>2</sup> Die Überwachung und Bekämpfung besonders gefährlicher Schadorganismen richtet sich nach den Bestimmungen der Pflanzengesundheitsverordnung vom 31. Oktober 2018[^28-2].[^28-3]
 
 [^28-1]: Fassung gemäss Ziff. I der V vom 17. Aug. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
-[^28-2]: [SR 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
+[^28-2]: [SR 916.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10651)
 [^28-3]: Fassung gemäss Anhang 8 Ziff. 7 der Pflanzengesundheitsverordnung vom 31. Okt. 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
 
 #### Art. 29
@@ -637,7 +676,7 @@ Die Kantone sorgen:
 <sup>2</sup> Vor dem Erlass beziehungsweise der Genehmigung von Vorschriften im Bereich der forstlichen Ausbildung nach den Artikeln 19 Absatz 1, 28 Absatz 2 und 29 Absatz 3 des Berufsbildungsgesetzes vom 13. Dezember 2002[^33-2] (BBG) wird das BAFU angehört.
 
 [^33-1]: Fassung gemäss Anhang Ziff. II 2 der Berufsbildungsverordnung vom 19. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 5047](https://fedlex.data.admin.ch/eli/oc/2003/748)).
-[^33-2]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^33-2]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 
 #### Art. 34
 
@@ -759,11 +798,35 @@ Finanzhilfen und Abgeltungen des Bundes werden nur gewährt, wenn:
 
 **Anrechenbare Kosten**[^38a-1]
 
-<sup>1</sup> Für Abgeltungen nach den Artikeln 39 Absätze 1 und 2 und 40 Absatz 1 Buchstabe c sind nur Kosten anrechenbar, die tatsächlich entstanden sind und unmittelbar für die zweckmässige Erfüllung der beitragsberechtigten Aufgabe erforderlich sind. Dazu gehören die Kosten für die Projektierung, den Landerwerb und die Ausführung sowie die Vermarkungskosten.
+<sup>1</sup> Für Abgeltungen sind nur Kosten anrechenbar, die tatsächlich entstanden sind und unmittelbar für die zweckmässige Erfüllung der beitragsberechtigten Aufgabe erforderlich sind.
 
-<sup>2</sup> Nicht anrechenbar sind insbesondere Gebühren und Steuern sowie Kosten, die auf Dritte, die massgebliche Nutzniesser oder Schadenverursacher sind, überwälzt werden können.
+<sup>2</sup>
 
-[^38a-1]: Eingefügt durch Ziff. I 5 V vom 28. Jan. 2015 über Anpassungen des Verordnungsrechts im Umweltbereich, insbesondere hinsichtlich der Programmvereinbarungen für die Programmperiode 2016–2019, in Kraft seit 1. Jan. 2016 ([AS 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)).
+Für Abgeltungen nach den Artikeln 39 Absätze 1 und 2 und 40 Absatz 1 Buchstabe c sind anrechenbar die Kosten für:
+
+- a. die Grundlagenerarbeitung und die Massnahmenplanung;
+- b. die Ausführung und Umsetzung;
+- c. den Landerwerb, die Dienstbarkeiten sowie für die formelle und materielle Enteignung;
+- d. die Vermarkung.
+
+<sup>3</sup>
+
+Nicht anrechenbar an Abgeltungen nach Artikel 39 Absätze 1 und 2 sind insbesondere:
+
+- a. anfallende Gebühren;
+- b. Kosten, die auf Schadenverursacher überwälzt werden können;
+- c. Kosten für die Schaffung erheblicher Mehrwerte, die unabhängig vom Schutz vor Naturereignissen durch die Massnahmen entstehen;
+- d. Kosten für Massnahmen, die den Nationalstrassen eine Verbesserung des Schutzes vor Naturgefahren bringen und die durch die Kostenbeteiligung des Bundesamtes für Strassen bereits gedeckt sind;
+- e. Kosten für administrative Aufwendungen.
+
+<sup>4</sup>
+
+Nicht anrechenbar an Abgeltungen nach Artikel 40 Absatz 1 Buchstabe c und Absatz 3 sind insbesondere:
+
+- a. anfallende Gebühren;
+- b. Kosten, die auf Dritte, die massgebliche Nutzniesser oder Schadenverursacher sind, überwälzt werden können.
+
+[^38a-1]: Eingefügt durch Ziff. I 5 V vom 28. Jan. 2015 über Anpassungen des Verordnungsrechts im Umweltbereich, insbesondere hinsichtlich der Programmvereinbarungen für die Programmperiode 2016–2019 ([AS 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)). Fassung gemäss Anhang Ziff. 4 der Wasserbauverordnung vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
 
 ### 2. Abschnitt: Massnahmen
 
@@ -771,14 +834,12 @@ Finanzhilfen und Abgeltungen des Bundes werden nur gewährt, wenn:
 
 **Schutz vor Naturereignissen**[^39-1]
 
-### (Art. 36 WaG)
-
 <sup>1</sup>
 
-Abgeltungen an die Massnahmen und die Erstellung von Gefahrengrundlagen werden in der Regel global gewährt. Die Höhe der globalen Abgeltungen wird zwischen dem BAFU und dem betroffenen Kanton ausgehandelt und richtet sich nach:
+Abgeltungen für die Grundlagenbeschaffung und die Massnahmen werden mit Ausnahme von Absatz 2 global gewährt. Die Höhe der globalen Abgeltungen wird zwischen dem BAFU und dem betroffenen Kanton in Programmvereinbarungen festgelegt und richtet sich nach:
 
-- a. dem Gefahren- und Schadenpotenzial;
-- b. dem Umfang und der Qualität der Massnahmen sowie von deren Planung.
+- a. dem Risiko von Naturereignissen;
+- b. dem Umfang, der Wirkung und der Qualität der Massnahmen.
 
 <sup>2</sup>
 
@@ -789,31 +850,35 @@ Abgeltungen können einzeln gewährt werden, wenn die Massnahmen:
 - c. wegen der möglichen Alternativen oder aus anderen Gründen in besonderem Mass eine komplexe oder spezielle fachliche Beurteilung erfordern; oder
 - d. unvorhersehbar waren.
 
-<sup>3</sup>
+<sup>3</sup> Der Beitrag an die anrechenbaren Kosten der Grundlagenbeschaffung beträgt 50 Prozent.
 
-Der Beitrag an die Kosten der Massnahmen nach Absatz 2 beträgt zwischen 35 und 45 Prozent und richtet sich nach:
+<sup>4</sup>
 
-- a. dem Gefahren- und Schadenpotenzial;
-- b. dem Grad der Umsetzung einer umfassenden Risikobetrachtung;
-- c. dem Umfang und der Qualität der Massnahmen sowie von deren Planung.
+Der Beitrag an die Kosten der Massnahmen beträgt zwischen 35 und 45 Prozent und richtet sich nach:
 
-<sup>4</sup> Wird ein Kanton durch ausserordentliche Schutzmassnahmen, namentlich nach Unwetterschäden, erheblich belastet, so kann der Beitrag nach Absatz 3 ausnahmsweise auf höchstens 65 Prozent der Kosten der Massnahmen erhöht werden.
+- a. dem Grad der Umsetzung der Grundlagen;
+- b. dem Umfang, der Wirkung und der Qualität der Massnahmen.
 
 <sup>5</sup>
 
-Keine Abgeltungen werden gewährt an:
+Der Beitrag nach Absatz 4 kann ausnahmsweise um bis zu 20 Prozent erhöht werden, sofern ein Kanton durch ausserordentliche Schutzmassnahmen gegen Naturereignisse, die namentlich nach Unwetterschäden ergriffen werden, erheblich belastet wird. Der Beitrag richtet sich nach:
 
-- a.[^39-2]
+- a. der Notwendigkeit der Massnahmen als Folge einer ausserordentlichen Situation;
+- b. der erheblichen finanziellen Belastung des betroffenen Kantons durch Schutzmassnahmen gegen Naturgefahren;
+- c. der Gesamtsicht der Planung.
 
-  Massnahmen zum Schutz von Bauten und Anlagen, die zum Zeitpunkt der Errichtung:
+<sup>6</sup>
 
-  - 1\. in bereits ausgeschiedenen Gefahrenzonen oder bekannten Gefahrengebieten erstellt wurden, und
-  - 2\. nicht zwingend an diesen Standort gebunden waren;
+Keine Abgeltungen werden gewährt für:
 
-- b. Massnahmen zum Schutz touristischer Bauten und Anlagen wie Seilbahnen, Skilifte, Skipisten oder Wanderwege, die sich ausserhalb des Siedlungsgebietes befinden.
+- a. Massnahmen zum Schutz von Bauten und Anlagen, die zum Zeitpunkt der Errichtung in bereits ausgeschiedenen Gefahrenzonen oder bekannten Gefahrengebieten erstellt wurden, und nicht zwingend an diesen Standort gebunden waren;
+- b. Massnahmen zum Schutz touristischer Bauten und Anlagen wie Seilbahnen, Skilifte, Skipisten oder Wanderwege, die sich ausserhalb des Siedlungsgebietes befinden;
+- c. die Umsetzung der Grundlagen und Massnahmen in der Richt- und Nutzungsplanung sowie in den übrigen raumwirksamen Tätigkeiten;
+- d. den Betrieb von technischen Vorkehrungen für Notfalleinsätze sowie die durch den Grundauftrag abgedeckten Aufwendungen der Führungs- und Einsatzkräfte;
+- e. den Betrieb von technischen Massnahmen;
+- f. die Erarbeitung von kantonalen Arbeitshilfen, Richt- und Leitlinien.
 
-[^39-1]: Fassung gemäss Ziff. I 3 der V vom 2. Febr. 2011 (Weiterentwicklung der Programmvereinbarungen im Umweltbereich), in Kraft seit 1. März 2011 ([AS 2011 649](https://fedlex.data.admin.ch/eli/oc/2011/103)).
-[^39-2]: Fassung gemäss Ziff. I 5 V vom 28. Jan. 2015 über Anpassungen des Verordnungsrechts im Umweltbereich, insbesondere hinsichtlich der Programmvereinbarungen für die Programmperiode 2016–2019, in Kraft seit 1. Jan. 2016 ([AS 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)).
+[^39-1]: Fassung gemäss Anhang Ziff. 4 der Wasserbauverordnung vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
 
 #### Art. 40
 
@@ -1056,7 +1121,7 @@ Das BAFU hält die Tranchenzahlungen während der Programmdauer ganz oder teilwe
 
 <sup>4</sup> Werden die Mängel nicht behoben oder wird die Zweckentfremdung nicht unterlassen oder nicht rückgängig gemacht, so richtet sich die Rückforderung nach den Artikeln 28 und 29 des Subventionsgesetzes vom 5. Oktober 1990[^50-1] (SuG).
 
-[^50-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^50-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ### 4. Abschnitt: Verfahren bei der Gewährung von Abgeltungen oder Finanzhilfen im Einzelfall
 
@@ -1090,7 +1155,7 @@ Das BAFU hält die Tranchenzahlungen während der Programmdauer ganz oder teilwe
 
 <sup>4</sup> Wird die Zweckentfremdung nicht unterlassen oder nicht rückgängig gemacht, so richtet sich die Rückforderung nach Artikel 29 SuG.
 
-[^53-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^53-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 54
 
@@ -1126,7 +1191,7 @@ Investitionskredite werden gewährt, wenn:
 <sup>6</sup> …[^60-3]
 
 [^60-1]: [[AS 1962 1273](https://fedlex.data.admin.ch/eli/oc/1962/1273_1315_1323); [1972 2699](https://fedlex.data.admin.ch/eli/oc/1972/2699_2749_2532); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)Ziff. I, 961, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 52, [857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 27; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 47, [2104](https://fedlex.data.admin.ch/eli/oc/1992/2104_2104_2104). [AS 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Bst. f]
-[^60-2]: [[AS 1975 392](https://fedlex.data.admin.ch/eli/oc/1975/392_392_392), [1980 1798](https://fedlex.data.admin.ch/eli/oc/1980/1798_1798_1798), [1985 387](https://fedlex.data.admin.ch/eli/oc/1985/387_387_387), [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 24, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 43. [AS 1997 2995](https://fedlex.data.admin.ch/eli/oc/1997/2995_2995_2995)Art. 25]. Siehe heute: das BG vom 6. Okt. 2006 über Regionalpolitik ([SR 901.0](https://fedlex.data.admin.ch/eli/cc/2007/136)).
+[^60-2]: [[AS 1975 392](https://fedlex.data.admin.ch/eli/oc/1975/392_392_392), [1980 1798](https://fedlex.data.admin.ch/eli/oc/1980/1798_1798_1798), [1985 387](https://fedlex.data.admin.ch/eli/oc/1985/387_387_387), [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 24, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 43. [AS 1997 2995](https://fedlex.data.admin.ch/eli/oc/1997/2995_2995_2995)Art. 25]. Siehe heute: das BG vom 6. Okt. 2006 über Regionalpolitik ([SR 901.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10387)).
 [^60-3]: Aufgehoben durch Ziff. I 21 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen, mit Wirkung seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 61
@@ -1240,7 +1305,7 @@ Die Rückzahlung beginnt:
 Das BAFU gibt die minimalen Geodatenmodelle und Darstellungsmodelle für Geobasisdaten nach dieser Verordnung vor, für die es im Anhang 1 der Geoinformationsverordnung vom 21. Mai 2008[^66a-2] als Fachstelle des Bundes bezeichnet ist.
 
 [^66a-1]: Eingefügt durch Anhang 2 Ziff. 13 der V vom 21. Mai 2008 über Geoinformation, in Kraft seit 1. Juli 2008 ([AS 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
-[^66a-2]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^66a-2]: [SR 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 
 ### 2. Abschnitt: Aufhebung und Änderung bisherigen Rechts
 
@@ -1279,6 +1344,14 @@ Es werden aufgehoben:
 <sup>1</sup> Diese Verordnung tritt mit Ausnahme der Artikel 60–64 und 67 Buchstabe f am 1. Januar 1993 in Kraft.
 
 <sup>2</sup> Die Artikel 60–64 und 67 Buchstabe f treten am 1. Januar 1994 in Kraft.
+
+#### Art. 70
+
+**Übergangsbestimmung**[^70-1]
+
+Die Kantone reichen dem BAFU die Risikoübersichten und die Gesamtplanungen gemäss Artikel 16 Absatz 2 Buchstaben e und f bis zum 1. Dezember 2031 erstmals ein.
+
+[^70-1]: Eingefügt durch Anhang Ziff. 4 der Wasserbauverordnung vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
 
 ## Übergangsbestimmung der Änderung vom 2. Februar 2000
 

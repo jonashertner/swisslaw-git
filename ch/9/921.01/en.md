@@ -4,11 +4,11 @@ title: "Ordinance of 30 November 1992 on Forest (Forest Ordinance, ForO)"
 short: ForO
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538"
 language: en
-version: 2025-01-01
+version: 2025-08-01
 adopted: 1992-11-30
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538/20250101/en/xml/fedlex-data-admin-ch-eli-cc-1992-2538_2538_2538-20250101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2538_2538_2538/20250101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538/20250801/en/xml/fedlex-data-admin-ch-eli-cc-1992-2538_2538_2538-20250801-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2538_2538_2538/20250801/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Forest Ordinance, ForO)
 
-of 30 November 1992 (Status as of 1 January 2025)
+of 30 November 1992 (Status as of 1 August 2025)
 
 The Swiss Federal Council,
 
@@ -27,8 +27,8 @@ on the basis of Article 49 of the Forest Act of 4 October 1991[^ingress-1] (ForA
 
 ordains:
 
-[^ingress-1]: [SR 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
-[^ingress-2]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^ingress-1]: [SR 921.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10958)
+[^ingress-2]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 
 ## Chapter 1 Definition of Forest
 
@@ -81,7 +81,7 @@ The following are not defined as deforestation:
 - a. the use of forest land for forestry buildings and installations and for small structures and installations not used for forestry purposes;
 - b. the allocation of forest to a protection zone in accordance with Article 17 of the Spatial Planning Act of 22 June 1979[^4-1] (SPA), if the protection objective is compatible with forest conservation.
 
-[^4-1]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^4-1]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 5
 
@@ -183,10 +183,10 @@ Areas of particular landscape value are, in particular:
 
 [^9-1]: Amended by No I of the O of 14 June 2013, in force since 1 July 2013 ([AS 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
 [^9-2]: Amended by No I of the O of 14 June 2013, in force since 1 July 2013 ([AS 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
-[^9-3]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^9-4]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
-[^9-5]: [[AS 1977 1962](https://fedlex.data.admin.ch/eli/oc/1977/1962_1962_1962), [1983 1942](https://fedlex.data.admin.ch/eli/oc/1983/1942_1942_1942), [1996 3264](https://fedlex.data.admin.ch/eli/oc/1996/3264_3264_3264), [1998 788](https://fedlex.data.admin.ch/eli/oc/1998/788_788_788), [2010 1593](https://fedlex.data.admin.ch/eli/oc/2010/227)Annex No 2. [AS 2017 2815](https://fedlex.data.admin.ch/eli/oc/2017/290)Art. 11]. See now: the O of 29 Mrch 2017 ([SR 451.11](https://fedlex.data.admin.ch/eli/cc/2017/290)).
-[^9-6]: [BS **1** 3; [AS 1988 352](https://fedlex.data.admin.ch/eli/oc/1988/352_352_352)]. The specified provision now corresponds to Art. 78 para. 5 of the Federal Constitution of the Swiss Confederation of 18 April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^9-3]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^9-4]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
+[^9-5]: [[AS 1977 1962](https://fedlex.data.admin.ch/eli/oc/1977/1962_1962_1962), [1983 1942](https://fedlex.data.admin.ch/eli/oc/1983/1942_1942_1942), [1996 3264](https://fedlex.data.admin.ch/eli/oc/1996/3264_3264_3264), [1998 788](https://fedlex.data.admin.ch/eli/oc/1998/788_788_788), [2010 1593](https://fedlex.data.admin.ch/eli/oc/2010/227)Annex No 2. [AS 2017 2815](https://fedlex.data.admin.ch/eli/oc/2017/290)Art. 11]. See now: the O of 29 Mrch 2017 ([SR 451.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7168)).
+[^9-6]: [BS **1** 3; [AS 1988 352](https://fedlex.data.admin.ch/eli/oc/1988/352_352_352)]. The specified provision now corresponds to Art. 78 para. 5 of the Federal Constitution of the Swiss Confederation of 18 April 1999 ([SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 
 #### Art. 9a
 
@@ -297,7 +297,7 @@ A requirement for permission is that:
 <sup>3</sup> Other requirements under federal or cantonal law also apply.
 
 [^13a-1]: Inserted by No I of the O of 14 June 2013, in force since 1 July 2013 ([AS 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
-[^13a-2]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^13a-2]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 [^13a-3]: Amended by No I of the O of 12 May 2021, in force since 1 July 2021 ([AS 2021 294](https://fedlex.data.admin.ch/eli/oc/2021/294)).
 
 #### Art. 14
@@ -313,63 +313,102 @@ A requirement for permission is that:
 <sup>2</sup> Exceptional permission for the construction of small structures and installations in the forest that are not used for forestry purposes in accordance with Article 24 SPA may only be granted in agreement with the competent cantonal forestry authority.
 
 [^14-1]: Inserted by No I of the O of 14 June 2013, in force since 1 July 2013 ([AS 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
-[^14-2]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^14-2]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 ## Chapter 3 Protection against Natural Events
 
 #### Art. 15
 
-**Basic documentation**
+**Dealing with risks from natural events**[^15-1]
 
-<sup>1</sup>
+<sup>1</sup> The cantons shall reduce the risks from natural events to an acceptable level and limit such risks in the long term by compiling and evaluating the required basic data and planning and implementing measures in an integrated manner. In doing so, they shall in particular take account of the consequences of climate change and changes in the use of space.
 
-The cantons shall compile the basic documentation required for protection. They shall:
+<sup>2</sup> Integrated planning must involve the relevant parties, combine measures in an optimal way and balance interests, in particular those relating to forest management, nature and landscape protection, hydraulic engineering, agriculture and spatial planning.
 
-- a. keep inventories of buildings and installations that that are of relevance in providing protection against natural events (protective structure register);
-- b. document events causing damage (event register) and analyse, if required, larger events causing damage;
-- c. prepare hazard maps and emergency plans for potential events, and update these regularly.[^15-1]
-
-<sup>2</sup> When compiling this basic documentation, they shall take into account the work carried out by specialist federal agencies and their technical guidelines.
-
-<sup>3</sup> The cantons shall take account of this documentation in all their activities with a spatial impact, in particular structural and land-use planning.
-
-<sup>4</sup> They shall make this documentation available to the FOEN on request and make then accessible to the general public in a suitable form.[^15-2]
-
-[^15-1]: Amended by No I 5 of the O of 28 Jan. 2015 on the Amendment of Ordinance Law on the Environment, in particular with regard to the programme agreements for the Programme Period 2016–2019, in force since 1 Jan. 2016 ([AS 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)).
-[^15-2]: Inserted by No I 21 of the O of 7 Nov. 2007 on the New System of Financial Equalisation and Division of Tasks between the Confederation and the Cantons ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)). Amended by Annex 2 No 13 of the O of 21 May 2008 on Geoinformation, in force since 1 July 2008 ([AS 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
+[^15-1]: Amended by Annex No 4 of the Hydraulic Engineering Ordinance of 25 June 2025, in force since 1 Aug. 2025 ([AS 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
 
 #### Art. 16
 
-**Early warning services**
-
-<sup>1</sup> Where necessary for the protection of human life and significant material assets, the cantons shall set up early warning services. They shall ensure the development and operation of the related monitoring stations and information systems.
-
-<sup>2</sup> When setting up and operating the early warning services, they shall take into account the work carried out by specialist federal agencies and their technical guidelines.
-
-<sup>3</sup> They shall ensure that the data from the monitoring stations and information systems are made available to the FOEN on request, and are made accessible to the general public in a suitable form.[^16-1]
-
-[^16-1]: Inserted by No I 21 of the O of 7 Nov. 2007 on the New System of Financial Equalisation and Division of Tasks between the Confederation and the Cantons ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)). Amended by Annex 2 No 13 of the O of 21 May 2008 on Geoinformation, in force since 1 July 2008 ([AS 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
-
-#### Art. 17
-
-**Securing of hazard areas**
-
-### (Art. 19 ForA)
+**Basic data**[^16-1]
 
 <sup>1</sup>
 
-The securing of hazard areas includes:
+The FOEN shall compile basic data of national interest on protection against natural events. To this end, it shall:
 
-- a. silvicultural measures;
-- b. structural measures for the prevention of damage due to avalanches, as well as, in exceptional cases, the erection of installations for preventive avalanche release;
-- c. accompanying measures in torrents channels which are linked to forest conservation (torrent control works in forests);
-- d. landslide and gully control structures, the corresponding drainage works and erosion protection;
-- e. rockfall and rock avalanche control structures, retention structures, as well as, in exceptional cases, the preventive release of material at risk of falling;
-- f. the removal to a safe location of buildings and installations at risk.
+- a. conduct surveys on matters relevant to protection against natural events;
+- b. keep an inventory on the measures to which the Confederation contributes funding;
+- c. analyse events;
+- d. prepare reports.
 
-<sup>2</sup> The works shall if possible be combined with biological engineering and silvicultural measures.
+<sup>2</sup>
 
-<sup>3</sup> The cantons shall ensure that planning is integrated; in particular, the planning shall balance the interests of forest management, nature and landscape protection, hydraulic engineering, agriculture and spatial planning.
+The cantons shall compile the basic data on protection against natural events on their cantonal territory. To this end, they shall:
+
+- a. document and analyse events;
+- b. document and assess protective structures;
+- c. keep a register of events and protective structures;
+- d. record the hazards and risks;
+- e. prepare hazard assessments and risk maps;
+- f. prepare overall plans and, if need be, other higher-level plans.
+
+<sup>3</sup> They shall designate the hazard areas.
+
+<sup>4</sup> They shall take account of the basic data compiled by the Confederation and its guides on implementation.
+
+<sup>5</sup> They shall submit the risk maps and overall plans regularly in accordance with requirements to the FOEN.
+
+<sup>6</sup> They shall make the compiled basic data available to all interested parties free of charge.
+
+[^16-1]: Amended by Annex No 4 of the Hydraulic Engineering Ordinance of 25 June 2025, in force since 1 Aug. 2025 ([AS 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
+
+#### Art. 17
+
+**Spatial planning measures**[^17-1]
+
+<sup>1</sup>
+
+The cantons shall take account of the hazard areas and the risks in their structural and land-use plans and in their other activities with a spatial impact. They shall in particular ensure in hazard areas that:
+
+- a. risks are limited when zoning, upzoning and rezoning and when granting permission for the construction of buildings and installations;
+- b. unacceptable risks are reduced by rezoning, downzoning and dezoning or by moving buildings and installations at risk to safer locations.
+
+<sup>2</sup> They shall designate buffer zones in the structural and land-use plans in which natural events may be allowed to occur in order to protect other areas. In buffer zones, the risk shall be reduced by limiting the form and extent of use.
+
+[^17-1]: Amended by Annex No 4 of the Hydraulic Engineering Ordinance of 25 June 2025, in force since 1 Aug. 2025 ([AS 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
+
+#### Art. 17a
+
+**Organisational measures**[^17a-1]
+
+The cantons shall take organisational measures in order to save human life and to limit damage in the case of an event. To this end, they shall:
+
+- a. ensure that the operations plans are prepared, practised and familiar to the civilian command staff and emergency services;
+- b. ensure that the civilian command staff and emergency services receive specialist advice on preparing for and dealing with natural events;
+- c. install and operate the warning systems that are required to ensure the safety of residential areas and transport routes in the case of a natural event;
+- d. take the technical measures required to support the emergency services in dealing with natural events.
+
+[^17a-1]: Inserted byAnnex No 4 of the Hydraulic Engineering Ordinance of 25 June 2025, in force since 1 Aug. 2025 ([AS 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
+
+#### Art. 17b
+
+**Biological and technical measures and buffer zones**[^17b-1]
+
+<sup>1</sup>
+
+The cantons shall take biological and technical measures to limit the risk of natural events. These measures shall include:
+
+- a. designating protective forest and creating forest with special protective functions and related young forest maintenance;
+- b. silvicultural measures;
+- c. structural measures to prevent avalanche damage and the construction of installations for triggering avalanches as a precautionary measure;
+- d. rockfall and rockslide barriers and catchment structures, as well as the removal of material at risk of falling;
+- e. reinforcement of unstable slopes and gullies and related drainage and erosion protection;
+- f. accompanying forest-conservation-related measures in stream channels (stream control works in forests).
+
+<sup>2</sup> They shall design new protective structures and installations to be robust. They shall assess existing protective structures and installations with regard to their overload capacity and systemic safety and modify them if necessary.
+
+<sup>3</sup> They shall designate buffer zones eligible for compensation, into which natural events are channelled and directed by protective measures in such a way that these areas are exposed more frequently or intensely in order to protect other areas.
+
+[^17b-1]: Inserted byAnnex No 4 of the Hydraulic Engineering Ordinance of 25 June 2025, in force since 1 Aug. 2025 ([AS 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
 
 ## Chapter 4 Maintenance and Use of the Forest
 
@@ -396,7 +435,7 @@ The cantons shall issue regulations for the planning of forest management. These
 
 <sup>3</sup>
 
-In the case of interoperational planning, the cantons shall ensure that the population:
+In the case of inter-operational planning, the cantons shall ensure that the population:
 
 - a. is informed of the goals and progress of the planning;
 - b. may be involved in a suitable manner;
@@ -488,7 +527,7 @@ The authorisation is granted if:
 
 <sup>3</sup> The Federal Department of the Environment, Transport, Energy and Communications[^22-3] (DETEC[^22-4]) shall enact regulations on the issuing of export documents for forest reproductive material.
 
-[^22-1]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^22-1]: [SR 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
 [^22-2]: Inserted by Art. 51 No 3 of the Plant Protection Ordinance of 28 Feb. 2001 ([AS 2001 1191](https://fedlex.data.admin.ch/eli/oc/2001/174)). Amended by Annex 5 No 16 of the Release Ordinance of 10 Sept. 2008, in force since 1 Oct. 2008 ([AS 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)).
 [^22-3]: The designation of the administrative entity was amended according to Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 [^22-4]: Name in accordance with No I 5 of the O of 28 Jan. 2015 on the Amendment of Ordinance Law on the Environment, in particular with regard to the programme agreements for the Programme Period 2016–2019, in force since 1 Jan. 2016 ([AS 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)). This change has been made throughout the text.
@@ -522,7 +561,7 @@ The authorisation is granted if:
 The exceptional use of environmentally hazardous substances in the forest is governed by the Ordinance on Chemical Risk Reduction of 18 May 2005[^25-2].
 
 [^25-1]: Amended by No II 21 of the O of 18 May 2005 on the Repeal and Amendment of Ordinances in connection with the Commencement of the Chemicals Act, in force since 1 Aug. 2005 ([AS 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)).
-[^25-2]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^25-2]: [SR 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 #### Art. 26 and 27
 
@@ -548,7 +587,7 @@ Forest damage is damage that poses a considerable threat to the function of the 
 <sup>2</sup> Particularly harmful organisms shall be monitored and controlled in accordance with the provisions of the Plant Health Ordinance of 30 October 2018[^28-2].[^28-3]
 
 [^28-1]: Amended by No I of the O of 17 Aug. 2016, in force since 1 Jan. 2017 ([AS 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
-[^28-2]: [SR 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
+[^28-2]: [SR 916.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10651)
 [^28-3]: Amended by Annex 8 No 7 of the Plant Health Ordinance of 31 Oct. 2018, in force since 1 Jan. 2020 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
 
 #### Art. 29
@@ -559,9 +598,9 @@ Forest damage is damage that poses a considerable threat to the function of the 
 
 The cantons shall take measures to prevent and remediate forest damage, in particular:
 
-- a. technical and silvicultural measures to prevent and combat fire;
-- b. measures to reduce the physical load applied to the soil;
-- c. measures to monitor and combat harmful organisms with the aim of eradicating or curbing them or restricting the damage they cause.
+- technical and silvicultural measures to prevent and combat fire;
+- measures to reduce the physical load applied to the soil;
+- measures to monitor and combat harmful organisms with the aim of eradicating or curbing them or restricting the damage they cause.
 
 [^29-1]: Amended by No I of the O of 17 Aug. 2016, in force since 1 Jan. 2017 ([AS 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 
@@ -639,7 +678,7 @@ The cantons shall provide:
 <sup>2</sup> In accordance with Articles 19 paragraph 1, 28 paragraph 2 and 29 paragraph 3 of the Vocational and Professional Education and Training Act of 13 December 2002[^33-2] (VPETA), the enactment or approval of regulations in the field of forestry education and training shall be subject to a hearing of the FOEN.
 
 [^33-1]: Amended by Annex No II 2 of the Vocational and Professional Education and Training Ordinance of 19 Nov. 2003, in force since 1 Jan. 2004 ([AS 2003 5047](https://fedlex.data.admin.ch/eli/oc/2003/748)).
-[^33-2]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^33-2]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 
 #### Art. 34
 
@@ -726,7 +765,7 @@ In cooperation with the WSL, it surveys:
 
 <sup>1</sup> In the planning, construction and operation of federal buildings and installations the use of timber and timber products shall be promoted.
 
-<sup>2</sup> The sustainability of timber and timber products shall be assessed in accordance with existing guidelines and recommendations such as those issued by the Coordination Coordination Group for Construction and Property Services.
+<sup>2</sup> The sustainability of timber and timber products shall be assessed in accordance with existing guidelines and recommendations such as those issued by the Coordination Group for Construction and Property Services.
 
 ## Chapter 6 Financial Assistance (excluding Investment Credits) and Compensatory Payments
 
@@ -744,7 +783,7 @@ In cooperation with the WSL, it surveys:
 
 #### Art. 38
 
-**General precondition for awarding federal aid**
+**General precondition for awarding federal assistance**
 
 ### (Art. 35 para. 2 ForA)
 
@@ -759,13 +798,37 @@ Financial assistance and compensatory payments are only provided by the Confeder
 
 #### Art. 38a
 
-**Attributable costs**[^38a-1]
+**Allowable costs**[^38a-1]
 
-<sup>1</sup> For compensatory payments under Articles 39 paragraph 1 and 2 and 40 paragraph 1 letter c, costs are attributable only if they are in fact incurred and are directly required for the proper fulfilment of the task for which a contribution is due. They include the costs of planning, acquisition of land and implementation, as well as marking costs.
+<sup>1</sup> In order to receive compensatory payments, costs are allowable only if they are actually incurred and are directly required for the proper fulfilment of the task for which a contribution is due.
 
-- [tab] <sup>2</sup> Not attributable are in particular charges and taxes and costs that can be passed on to third parties who are significant beneficiaries or originators of damage.
+<sup>2</sup>
 
-[^38a-1]: Inserted by No 1 5 of the O of 28 Jan. 2015 on the Amendment of Ordinance Law on the Environment, in particular with regard to the programme agreements for the Programme Period 2016–2019, in force since 1 Jan. 2016 ([AS 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)).
+The costs of the following are allowable for compensatory payments pursuant to Articles 39 paragraphs 1 and 2 and 40 paragraph 1 letter c:
+
+- a. compiling the basic data and planning measures;
+- b. implementing measures;
+- c. acquiring land, easements and formal and de facto expropriation;
+- d. marking.
+
+<sup>3</sup>
+
+The following in particular are not allowable with regard to compensatory payments pursuant to Article 39 paragraphs 1 and 2:
+
+- a. any fees incurred;
+- b. costs that can be passed on to the person responsible for the cost being incurred;
+- c. the cost of creating significant added value that is generated independently of the protection against natural events provided by the measures;
+- d. the cost of measures that improve the protection of national roads against natural events and are already covered by the contribution to costs from the Federal Roads Office;
+- e. administrative costs.
+
+<sup>4</sup>
+
+The following in particular are not allowable with regard to compensatory payments pursuant to Article 40 paragraph 1 letter c and paragraph 3:
+
+- a. any fees incurred;
+- b. costs that can be passed on to third parties who are significant beneficiaries or responsible to a significant extent for the cost being incurred.
+
+[^38a-1]: Inserted by No 1 5 of the O of 28 Jan. 2015 on the Amendment of Ordinance Law on the Environment, in particular with regard to the programme agreements for the Programme Period 2016–2019 ([AS 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)). Amended by Annex No 4 of the Hydraulic Engineering Ordinance of 25 June 2025, in force since 1 Aug. 2025 ([AS 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
 
 ### Section 2 Measures
 
@@ -773,49 +836,51 @@ Financial assistance and compensatory payments are only provided by the Confeder
 
 **Protection against natural events**[^39-1]
 
-### (Art. 36 ForA)
-
 <sup>1</sup>
 
-Compensatory payments for the measures and the compilation of basic documentation on natural events are normally allocated on a global basis. The level of the global compensatory payments is negotiated between the FOEN and the canton concerned and is based on:
+Compensatory payments for compiling basic data and for the measures, with the exception of payments under paragraph 2, are allocated on a global basis. The level of the global compensatory payments shall be specified by the FOEN and the canton concerned in programme agreements and is based on:
 
-- a. the hazard and damage potential;
-- b. the scope and the quality of the measures and of their planning.
+- a. the risk of natural events;
+- b. the extent, impact and quality of the measures.
 
 <sup>2</sup>
 
-Compensatory payments may be awarded on a case by case basis, if the measures:
+Compensatory payments may be awarded on a case-by-case basis if the measures:
 
 - a. have a supracantonal dimension;
 - b. concern protected areas or objects listed in national inventories;
 - c. require particularly complex or expert assessment due to the possible alternatives or for other reasons; or
-- d. were unforeseeable.
+- d. were an unforeseeable necessity.
 
-<sup>3</sup>
+<sup>3</sup> The contribution to the allowable costs of compiling basic data amounts to 50 per cent.
 
-The contribution to the costs of the measures in accordance with paragraph 2 amounts to 35 to 45 per cent of the cost of the measures and is based on:
+<sup>4</sup>
 
-- a. the hazard and damage potential;
-- b. the degree of implementation of a comprehensive risk assessment;
-- c. the scope and the quality of the measures and of their planning.
+The contribution to the allowable costs of measures amounts to between 35 and 45 per cent and is dependent on:
 
-<sup>4</sup> If a canton incurs considerable expenses due to exceptional protective measures, in particular following damage caused by bad weather, the contribution under paragraph 3 may be increased exceptionally to a maximum of 65 per cent of the cost of the measures.
+- a. the work involved in compiling the basic data;
+- b. the extent, impact and quality of the measures.
 
 <sup>5</sup>
 
-No compensatory payments are awarded for:
+The contribution pursuant to paragraph 4 may in exceptional cases be increased by up to 20 per cent if a canton incurs substantial costs for exceptional protective measures against natural events, in particular those taken following damage caused by bad weather. The contribution depends on:
 
-- a.[^39-2]
+- a. the necessity of the measures as a consequence of the extraordinary situation;
+- b. the substantial financial burden on the canton concerned caused by taking protective measures against natural hazards;
+- c. the plan in its entirety.
 
-  measures required for the protection of buildings and installations which at the time of construction:
+<sup>6</sup>
 
-  - 1\. were in already designated hazard zones or known hazard areas, and
-  - 2\. are not necessarily attached to that location;
+No compensatory payments shall be made for:
 
-- b. measures for the protection of tourist buildings and installations, such as cableways, ski lifts, ski runs or hiking trails, that are situated outside of the inhabited area.
+- measures required to protect buildings and installations which at the time of construction were in already designated hazard zones or known hazard areas and are not necessarily attached to that location;
+- b. measures to protect tourist buildings and installations, such as cableways, ski lifts, ski runs or hiking trails, that are situated outside of the inhabited area;
+- c. compiling data and implementing measures in the structural and land-use plans and in other activities with a spatial impact;
+- d. making technical arrangements for emergency operations and expenditure on management staff and emergency services that is covered by their basic mandate;
+- e. taking technical measures;
+- f. drawing up cantonal working aids, directives and guidelines.
 
-[^39-1]: Amended by No I 3 of the O of 2 Feb. 2011 (Development of Programme Agreements in the Environment Sector), in force since 1 March 2011 ([AS 2011 649](https://fedlex.data.admin.ch/eli/oc/2011/103)).
-[^39-2]: Amended by No 1 5 of the O of 28 Jan. 2015 on the Amendment of Ordinance Law on the Environment, in particular with regard to the programme agreements for the Programme Period 2016–2019, in force since 1 Jan. 2016 ([AS 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)).
+[^39-1]: Amended by Annex No 4 of the Hydraulic Engineering Ordinance of 25 June 2025, in force since 1 Aug. 2025 ([AS 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
 
 #### Art. 40
 
@@ -846,7 +911,7 @@ The level of the global compensatory payments awarded for measures required to e
 
 <sup>1</sup>
 
-The amount of global financial assistance for measures to prevent and mitigate forest damage outside the protective forest is determined by:
+The level of the global compensatory payments for measures to prevent and mitigate forest damage outside the protective forest is determined by:
 
 - a. the degree of threat to forest functions;
 - b. the number of hectares over which measures are taken;
@@ -854,7 +919,7 @@ The amount of global financial assistance for measures to prevent and mitigate f
 
 <sup>2</sup> The FOEN and the cantons concerned shall negotiate the amount.
 
-<sup>3</sup> Financial assistance may be awarded in individual cases in which the measures were unforeseeable and particularly costly. The amount shall not exceed 40 per cent of the costs and is determined in accordance with paragraph 1 letters a and c.
+<sup>3</sup> Compensatory payments may be made in individual cases in which the measures were unforeseeable and particularly costly. The amount shall not exceed 40 per cent of the costs and is determined in accordance with paragraph 1 letters a and c.
 
 [^40a-1]: Inserted by No I of the O of 17 Aug. 2016, in force since 1 Jan. 2017 ([AS 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)). See also the transitional provisions to these amendments at the end of this text.
 
@@ -864,13 +929,13 @@ The amount of global financial assistance for measures to prevent and mitigate f
 
 ### (Art. 37*b* ForA)
 
-<sup>1</sup> Compensation may be paid in cases of hardship if individuals are particularly badly effected and cannot be expected to meet the cost of the damage themselves.
+<sup>1</sup> Compensation may be paid in cases of hardship if individuals are particularly badly affected and cannot be expected to meet the cost of the damage themselves.
 
 <sup>2</sup> Applications for compensation are to be submitted, with reasons given, once the damage has been ascertained but no later than one year after the measures have been put in place by the competent cantonal authorities.
 
 <sup>3</sup> No compensation is paid for loss of yield or immaterial damage.
 
-<sup>4</sup> The Confederation shall reimburse the cantons between 35 and 50 per cent of the cost of compensation payments in accordance with the provision on global financial assistance in Article 40*a.*
+<sup>4</sup> The Confederation shall reimburse the cantons between 35 and 50 per cent of the cost of compensation in accordance with the provision on global compensatory payments in Article 40*a.*
 
 [^40b-1]: Inserted by No I of the O of 17 Aug. 2016, in force since 1 Jan. 2017 ([AS 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 
@@ -886,7 +951,7 @@ The amount of global financial assistance for measures to prevent and mitigate f
 
 The level of global financial assistance for measures that contribute to the maintenance and improvement of the biological diversity of the forest is based on:
 
-- a. the number of hectares of forest reserves that are to be designated and maintained;
+- the number of hectares of forest reserves that are to be designated and maintained;
 - [tab] b.[^41-2] ...
 - c. the number of hectares of habitats to be maintained, in particular the forest margins, which provide habitat connectivity;
 - d. the extent and quality of the measures for the promotion of animal and plant species, the conservation of which is a matter of priority for biological diversity;
@@ -919,7 +984,7 @@ The level of global financial assistance for measures that contribute to the mai
 
 <sup>1</sup>
 
-The level of global financial assistance for measures improve the cost-effectiveness of forest management is determined:
+The level of global financial assistance for measures to improve the cost-effectiveness of forest management is determined as follows:
 
 - a.[^43-2] for cantonal planning bases: by the size of the forest area in the canton and the size of forest area included in the plan or an impact assessment;
 - b.[^43-3] for the improvement of management conditions in forestry operations: by the scale and quality of the optimisation measures planned and implemented by the canton;
@@ -1058,9 +1123,9 @@ The FOEN shall withhold the instalment payments during the programme in full or 
 
 <sup>4</sup> If the defects are not rectified or the non-intended use is not stopped or reversed, the recovery of the payments made is governed by Articles 28 and 29 of the Subsidies Act of 5 October 1990[^50-1].
 
-[^50-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^50-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
-### Section 4 Procedure for Granting Compensatory Payments or Financial Assistance in Specific Cases
+### Section 4 Procedure for Providing Compensatory Payments or Financial Assistance in Specific Cases
 
 #### Art. 51
 
@@ -1092,7 +1157,7 @@ The FOEN shall withhold the instalment payments during the programme in full or 
 
 <sup>4</sup> If the non-intended use is not stopped or reversed, the recovery of the payments made is governed by Articles 28 and 29 of the Subsidies Act of 5 October 1990.
 
-[^53-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^53-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 54
 
@@ -1128,7 +1193,7 @@ Investment credits shall be granted if:
 <sup>6</sup> ...[^60-3]
 
 [^60-1]: [[AS 1962 1273](https://fedlex.data.admin.ch/eli/oc/1962/1273_1315_1323), [1972 2699](https://fedlex.data.admin.ch/eli/oc/1972/2699_2749_2532), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)No I 961, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)No II 52 [857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Annex No 27, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 47 [2104](https://fedlex.data.admin.ch/eli/oc/1992/2104_2104_2104). [AS 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Annex let. f]
-[^60-2]: [[AS 1975 392](https://fedlex.data.admin.ch/eli/oc/1975/392_392_392), [1980 1798](https://fedlex.data.admin.ch/eli/oc/1980/1798_1798_1798), [1985 387](https://fedlex.data.admin.ch/eli/oc/1985/387_387_387), [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Annex No 24, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 43. [AS 1997 2995](https://fedlex.data.admin.ch/eli/oc/1997/2995_2995_2995)Art. 25]. See now: the FA of 6 Oct. 2006 on Regional Policy ([SR 901.0](https://fedlex.data.admin.ch/eli/cc/2007/136)).
+[^60-2]: [[AS 1975 392](https://fedlex.data.admin.ch/eli/oc/1975/392_392_392), [1980 1798](https://fedlex.data.admin.ch/eli/oc/1980/1798_1798_1798), [1985 387](https://fedlex.data.admin.ch/eli/oc/1985/387_387_387), [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Annex No 24, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 43. [AS 1997 2995](https://fedlex.data.admin.ch/eli/oc/1997/2995_2995_2995)Art. 25]. See now: the FA of 6 Oct. 2006 on Regional Policy ([SR 901.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10387)).
 [^60-3]: Repealed by No I 21 of the O of 7 Nov. 2007 on the New System of Financial Equalisation and Division of Tasks between the Confederation and the Cantons, with effect from 1 Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 61
@@ -1242,7 +1307,7 @@ Repayment begins:
 The FOEN shall determine the minimum geodata models and modelling for geobasis data in accordance with this Ordinance for which it is designated the competent federal authority in Annex 1 to the Ordinance on Geoinformation of 21 May 2008[^66a-2].
 
 [^66a-1]: Inserted by Annex 2 No 13 of the O of 21 May 2008 on Geoinformation, in force since 1 July 2008 ([AS 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
-[^66a-2]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^66a-2]: [SR 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 
 ### Section 2 Repeal and Amendment of Current Legislation
 
@@ -1282,6 +1347,14 @@ The following are repealed:
 
 <sup>2</sup> Articles 60–64 and 67 letter f come into force on 1 January 1994.
 
+#### Art. 70
+
+**Transitional provision**[^70-1]
+
+The cantons shall submit the risk maps and overall plans in accordance with Article 16 paragraph 2 letters e and f to the FOEN for the first time by 1 December 2031.
+
+[^70-1]: Inserted by Annex No 4 of the Hydraulic Engineering Ordinance of 25 June 2025, in force since 1 Aug. 2025 ([AS 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
+
 ## Transitional Provision to the Amendment of 2 February 2000
 
 [^u1-1]
@@ -1296,7 +1369,7 @@ Deforestation applications for works that are the responsibility of the cantons 
 
 [^u2-1]: [AS 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)
 
-<sup>1</sup> Instead of the criteria stated in Article 40*a* paragraph 1, the amount of financial assistance awarded for measures to deal with forest damage outside the protective forest carried out before 31 December 2028 may be assessed according to the scope and quality of the measures.[^u2-2]
+<sup>1</sup> Instead of the criteria stated in Article 40*a* paragraph 1, the amount of the compensatory payments made for measures to deal with forest damage outside the protective forest carried out before 31 December 2028 may be assessed according to the scope and quality of the measures.[^u2-2]
 
 <sup>2</sup> Instead of the criteria stated in Article 43 paragraph 1 letter j, the amount of financial assistance awarded for public infrastructure facilities adapted or reconstituted before 31 December 2024 may be assessed according to the scope and quality of the measures.[^u2-3]
 
