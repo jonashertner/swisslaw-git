@@ -4,13 +4,12 @@ number: IV B/11/1
 title: Verordnung über die Gesundheitspflege und die Zahnpflege während der obligatorischen Schulzeit
 short: Schulgesundheits- und -zahnpflegeverordnung; SGZV
 language: de
-version: 2022-01-01
-valid_until: 2025-07-31
-version_adopted: 2021-12-21
+version: 2025-08-01
+version_adopted: 2025-07-03
 adopted: 2012-06-26
 in_force: 2012-08-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-B.11.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2267/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2576/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2267/pdf_file"
 
 (Schulgesundheits- und -zahnpflegeverordnung; SGZV)
 
-Vom 26.06.2012 (Stand 01.01.2022)
+Vom 26.06.2012 (Stand 01.08.2025)
 
 Der Regierungsrat,
 
@@ -68,9 +67,10 @@ verordnet:
 <sup>1</sup> Die Kantonsärztin oder der Kantonsarzt
 
 - a. sorgt für die Koordination der Leistungen der Gesundheitspflege;
-- b. ist Ansprechperson gegenüber der Genossenschaft für die Leistungen der Zahnpflege;
+- b. …
 - c. berät Schulbehörden sowie Schulärztinnen und Schulärzte in der Gesundheitsförderung, Prävention und Gesundheitserziehung;
 - d. …
+- e. beauftragt die für die Durchführung der Prophylaxe notwendige Anzahl Zahnpflegeinstruktorinnen und -instruktoren. Sie bzw. er sorgt für eine adäquate Aus- und Weiterbildung der Zahnpflegeinstruktorinnen und -instruktoren.
 
 #### Art. 6
 
@@ -86,9 +86,9 @@ verordnet:
 
 #### Art. 7
 
-**Genossenschaft Schulzahnklinik**
+**Zahnpflegeinstruktorinnen und -instruktoren**
 
-<sup>1</sup> Die Genossenschaft Schulzahnklinik ist die Ansprechpartnerin des Kantons in Fragen der Zahnpflege und führt die Prophylaxe durch.
+<sup>1</sup> Zahnpflegeinstruktorinnen und -instruktoren führen die Prophylaxe (Art. 10) durch.
 
 ## 3. Gesundheitspflege
 
@@ -165,7 +165,7 @@ verordnet:
 
 <sup>2</sup> Die Abrechnung der Leistungen gemäss den Artikeln 8, 10 und 11 erfolgt auf Grundlage der Angaben gemäss Artikel 12 Absatz 4 im zweiten Semester des Schuljahres. Hierfür erlässt das Departement eine Tarifliste; sie wird dem Regierungsrat zur Genehmigung unterbreitet.
 
-<sup>3</sup> Die Hauptabteilung Gesundheit vergütet die Leistungen bis zum 30. Juli des Schuljahres auf die schweizerische Zahladresse der Schulärztin oder des Schularztes, der Schulzahnärztin oder des Schulzahnarztes bzw. der Genossenschaft.
+<sup>3</sup> Die Hauptabteilung Gesundheit vergütet die Leistungen bis zum 30. Juli des Schuljahres auf die schweizerische Zahladresse der Schulärztin oder des Schularztes, der Schulzahnärztin oder des Schulzahnarztes.
 
 ## 7. Schlussbestimmungen
 
