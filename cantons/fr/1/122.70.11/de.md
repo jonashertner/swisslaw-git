@@ -4,13 +4,13 @@ number: "122.70.11"
 title: Reglement über das Staatspersonal
 short: StPR
 language: de
-version: 2022-01-01
-valid_until: 2025-07-31
-version_adopted: 2021-12-14
+version: 2025-08-01
+valid_until: 2025-12-31
+version_adopted: 2025-06-17
 adopted: 2002-12-17
 in_force: 2003-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.70.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7027/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8223/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Staatspersonal – R
 
 (StPR)
 
-vom 17.12.2002 (Fassung in Kraft getreten am 01.01.2022)
+vom 17.12.2002 (Fassung in Kraft getreten am 01.08.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -64,7 +64,7 @@ beschliesst:
 - i) Kantonale Sozialversicherungsanstalt;
 - j) Pensionskasse des Staatspersonals;
 - k) Fachhochschule Westschweiz//Freiburg;
-- l) Pädagogische Hochschule Freiburg.
+- l) …
 - m) Kantonale Anstalt für die aktive Bodenpolitik.
 
 ## 2 Allgemeine Zuständigkeitsordnung
@@ -86,7 +86,7 @@ beschliesst:
 - g) die Verwalterin oder der Verwalter der Staatsreben für das Betriebspersonal der Staatsreben;
 - h) die Chefin oder der Chef der Kantonalen Steuerverwaltung für das für weniger als zwei Jahre angestellte Personal für die Datenerfassung und -ablage;
 - i) die Chefin oder der Chef des Amtes für Archäologie für das für weniger als zwei Jahre angestellte Personal für Ausgrabungsarbeiten;
-- j) die Primarschulleiterinnen und Primarschulleiter, die Schuldirektorinnen und Schuldirektoren sowie die Abteilungsleiterinnen und Abteilungsleiter der Pädagogischen Hochschule für das für weniger als ein Jahr angestellte Lehrpersonal;
+- j) die Schuldirektorinnen und Schuldirektoren für das für weniger als ein Jahr angestellte Lehrpersonal;
 - k) die Dienstchefinnen und Dienstchefs, die aufgrund von Artikel 9 Abs. 3 StPG Anstellungsbefugnis haben.
 
 <sup>2</sup> Die Spezialgesetze bleiben im Übrigen vorbehalten.

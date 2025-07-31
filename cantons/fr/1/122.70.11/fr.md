@@ -4,13 +4,13 @@ number: "122.70.11"
 title: "Règlement du personnel de l'Etat"
 short: RPers
 language: fr
-version: 2022-01-01
-valid_until: 2025-07-31
-version_adopted: 2021-12-14
+version: 2025-08-01
+valid_until: 2025-12-31
+version_adopted: 2025-06-17
 adopted: 2002-12-17
 in_force: 2003-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.70.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7027/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8223/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Personnel de l'Etat – R
 
 (RPers)
 
-du 17.12.2002 (version entrée en vigueur le 01.01.2022)
+du 17.12.2002 (version entrée en vigueur le 01.08.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -64,7 +64,7 @@ Arrête:
 - i) l'Etablissement cantonal des assurances sociales;
 - j) la Caisse de prévoyance du personnel de l'Etat;
 - k) la Haute Ecole spécialisée de Suisse occidentale//Fribourg;
-- l) la Haute Ecole pédagogique Fribourg;
+- l) …
 - m) l'Etablissement cantonal de promotion foncière.
 
 ## 2 Régime général des attributions
@@ -86,7 +86,7 @@ Arrête:
 - g) l'administrateur ou l'administratrice des vignes pour le personnel d'exploitation des domaines viticoles;
 - h) le chef ou la cheffe du Service cantonal des contributions pour le personnel engagé pour une durée inférieure à deux ans, effectuant de la saisie et du classement;
 - i) le chef ou la cheffe du Service archéologique pour le personnel engagé pour une durée inférieure à deux ans, rattaché aux travaux de fouilles;
-- j) les responsables d'établissement primaire, les directeurs et directrices d'écoles ainsi que les doyens et doyennes de la Haute Ecole pédagogique pour le personnel enseignant engagé pour une période inférieure à un an;
+- j) les directeurs et directrices d'écoles pour le personnel enseignant engagé pour une période inférieure à un an;
 - k) les chefs ou cheffes de service délégataires de la compétence d'engagement en vertu de l'article 9 al. 3 LPers.
 
 <sup>2</sup> Les lois spéciales sont en outre réservées.
