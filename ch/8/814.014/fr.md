@@ -4,11 +4,11 @@ title: "Ordonnance du 3 juin 2005 sur les émoluments de l'Office fédéral de l
 short: OEmol-OFEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/449"
 language: fr
-version: 2025-06-23
+version: 2025-08-01
 adopted: 2005-06-03
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/449/20250623/fr/xml/fedlex-data-admin-ch-eli-cc-2005-449-20250623-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/449/20250623/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/449/20250801/fr/xml/fedlex-data-admin-ch-eli-cc-2005-449-20250801-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/449/20250801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/449/20250623/fr"
 
 (Ordonnance sur les émoluments de l’OFEV, OEmol-OFEV)[^t-1]
 
-du 3 juin 2005 (État le 23 juin 2025)
+du 3 juin 2005 (État le 1<sup>er</sup> août 2025)
 
 [^t-1]: Nouvelle teneur selon l’annexe 2 ch. 5 de l’O du 22 nov. 2006 sur les émoluments de l’OFEN, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4889](https://fedlex.data.admin.ch/eli/oc/2006/762)).
 
@@ -144,7 +144,7 @@ Annexe[^t-2]
 
 ## Taux d’émoluments fixes et tarif-cadre
 
-[^t-2]: Mise à jour par l’annexe 3 ch. II 3 de l’O du 22 juin 2005 sur les mouvements de déchets ([RO 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), l’annexe 2 ch. 5 de l’O du 22 nov. 2006 sur les émoluments de l’OFEN ([RO 2006 4889](https://fedlex.data.admin.ch/eli/oc/2006/762), [2007 2267](https://fedlex.data.admin.ch/eli/oc/2007/318)), l’annexe 5 ch. 4 de l’O du 10 sept. 2008 sur la dissémination dans l’environnement ([RO 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)), l’annexe 5 ch. 8 de l’O du 9 mai 2012 ([RO 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)), l’annexe ch. II 1 de l’O du 18 nov. 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers ([RO 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)), le ch. I 1 de l’O du 1<sup>er</sup> mai 2019 ([RO 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)), le ch. I de l’O du 27 sept. 2019 ([RO 2019 3129](https://fedlex.data.admin.ch/eli/oc/2019/577)), le ch. III de l’O du 13 nov. 2019 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)), l’annexe 3 ch. 1 de l’O du 12 mai 2021 sur le commerce de bois ([RO 2021 306](https://fedlex.data.admin.ch/eli/oc/2021/306)) et l’art. 10 ch. 2 de l’O du 2 avr. 2025 concernant la mise sur le marché de combustibles et carburants renouvelables ou à faible taux d’émission, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 250](https://fedlex.data.admin.ch/eli/oc/2025/250)). Erratum du 23 juin 2025 ([RO 2025 414](https://fedlex.data.admin.ch/eli/oc/2025/414)).
+[^t-2]: Mise à jour par l’annexe 3 ch. II 3 de l’O du 22 juin 2005 sur les mouvements de déchets ([RO 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), l’annexe 2 ch. 5 de l’O du 22 nov. 2006 sur les émoluments de l’OFEN ([RO 2006 4889](https://fedlex.data.admin.ch/eli/oc/2006/762), [2007 2267](https://fedlex.data.admin.ch/eli/oc/2007/318)), l’annexe 5 ch. 4 de l’O du 10 sept. 2008 sur la dissémination dans l’environnement ([RO 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)), l’annexe 5 ch. 8 de l’O du 9 mai 2012 ([RO 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)), l’annexe ch. II 1 de l’O du 18 nov. 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers ([RO 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)), le ch. I 1 de l’O du 1<sup>er</sup> mai 2019 ([RO 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)), le ch. I de l’O du 27 sept. 2019 ([RO 2019 3129](https://fedlex.data.admin.ch/eli/oc/2019/577)), le ch. III de l’O du 13 nov. 2019 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)), l’annexe 3 ch. 1 de l’O du 12 mai 2021 sur le commerce de bois ([RO 2021 306](https://fedlex.data.admin.ch/eli/oc/2021/306)) et l’art. 10 ch. 2 de l’O du 2 avr. 2025 concernant la mise sur le marché de combustibles et carburants renouvelables ou à faible taux d’émission ([RO 2025 250](https://fedlex.data.admin.ch/eli/oc/2025/250)), l'erratum du 23 juin 2025 ([RO 2025 414](https://fedlex.data.admin.ch/eli/oc/2025/414)) et l’annexe ch. 2 de l’O du 25 juin 2025 sur l’aménagement des cours d’eau, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
 
 <table>
 <tr><th></th><th>francs</th></tr>
@@ -213,7 +213,7 @@ Annexe[^t-2]
 <tr><td>5. Autorisations selon l’ordonnance du 29 février 1988 sur la chasse[^annexu1-lvlu1-17]</td><td>500</td></tr>
 <tr><td>6. Autorisation pour l’introduction de poissons et d’écrevisses étrangers au pays ou à la région selon l’ordonnance du 24 novembre 1993 relative à la loi fédérale sur la pêche[^annexu1-lvlu1-18]</td><td>500</td></tr>
 <tr><td>7. Séances d’information et de formation continue, par personne et par jour</td><td>200</td></tr>
-<tr><td>8. Travaux administratifs dans le domaine de l’hydrologie (art. 57 de la LF du 24 janv. 1991 sur la protection des eaux[^annexu1-lvlu1-19], art. 13 de la LF du 21 juin 1991 sur l’aménagement des cours d’eau[^annexu1-lvlu1-20] et art. 26 de l’O du 2 nov. 1994 sur l’aménagement des cours d’eau[^annexu1-lvlu1-21]):</td><td></td></tr>
+<tr><td>8. Travaux administratifs dans le domaine de l’hydrologie (art. 57 de la LF du 24 janv. 1991 sur la protection des eaux[^annexu1-lvlu1-19], art. 13 de la LF du 21 juin 1991 sur l’aménagement des cours d’eau[^annexu1-lvlu1-20] et art. 19 de l’O du 25 juin 2025 sur l’aménagement des cours d’eau[^annexu1-lvlu1-21]):</td><td></td></tr>
 <tr><td>8.1 Fourniture de données directement de stations de mesure</td><td></td></tr>
 <tr><td>8.1.1 Installation d’annonce en cas de crue (unique)</td><td></td></tr>
 <tr><td>– lorsqu’un appareil d’annonce existe déjà</td><td>500</td></tr>

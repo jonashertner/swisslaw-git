@@ -4,11 +4,11 @@ title: "Ordinanza del 3 giugno 2005 sugli emolumenti dell'Ufficio federale dell'
 short: OE-UFAM
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/449"
 language: it
-version: 2025-06-23
+version: 2025-08-01
 adopted: 2005-06-03
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/449/20250623/it/xml/fedlex-data-admin-ch-eli-cc-2005-449-20250623-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/449/20250623/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/449/20250801/it/xml/fedlex-data-admin-ch-eli-cc-2005-449-20250801-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/449/20250801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/449/20250623/it"
 
 (Ordinanza sugli emolumenti dell’UFAM; OE-UFAM)[^t-1]
 
-del 3 giugno 2005 (Stato 23 giugno 2025)
+del 3 giugno 2005 (Stato 1° agosto 2025)
 
 [^t-1]: Nuovo testo giusta l’all. 2 n. 5 dell’O del 22 nov. 2006 sugli emolumenti dell’UFE, in vigore dal 1° gen. 2007 ([RU 2006 4889](https://fedlex.data.admin.ch/eli/oc/2006/762)).
 
@@ -146,10 +146,10 @@ Allegato[^t-2]
 
 ## Aliquote fisse degli emolumenti e quadro tariffario
 
-[^t-2]: Aggiornato dall’all. 3 cifra II 3 dell’O del 22 giu. 2005 sul traffico di rifiuti ([RU 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), dall’all. 2 n. 5 dell’O del 22 nov. 2006 sugli emolumenti dell’UFE (**2006** 4889, **2007** 2267), dall’all. 5 n. 4 dell’O del 10 set. 2008 sull’emissione deliberata nell’ambiente ([RU 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)), dalle cifre II delle O dell’11 mar. 2011 ([RU 2011 1063](https://fedlex.data.admin.ch/eli/oc/2011/156)), dall’all. cifra II 1 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)), dalla cifra I 1 dell’O del 1° mag. 2019 ([RU 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)), dalla cifra I dell’O del 27 set. 2019 ([RU 2019 3129](https://fedlex.data.admin.ch/eli/oc/2019/577)), dalla cifra III dell’O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)), dall’all. 3 n. 1 dell’O del 12 mag. 2021 sul commercio di legno ([RU 2021 306](https://fedlex.data.admin.ch/eli/oc/2021/306)) e dall’art. 10 n. 2 dell’O del 2 apr. 2025 sull’immissione in commercio di combustibili e carburanti rinnovabili o a basso tenore di emissioni, in vigore dal 1° mag. 2025 ([RU 2025 250](https://fedlex.data.admin.ch/eli/oc/2025/250)). Correzione del 23 giu. 2025 ([RU 2025 414](https://fedlex.data.admin.ch/eli/oc/2025/414)).
+[^t-2]: Aggiornato dall’all. 3 cifra II 3 dell’O del 22 giu. 2005 sul traffico di rifiuti ([RU 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), dall’all. 2 n. 5 dell’O del 22 nov. 2006 sugli emolumenti dell’UFE (**2006** 4889, **2007** 2267), dall’all. 5 n. 4 dell’O del 10 set. 2008 sull’emissione deliberata nell’ambiente ([RU 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)), dalle cifre II delle O dell’11 mar. 2011 ([RU 2011 1063](https://fedlex.data.admin.ch/eli/oc/2011/156)), dall’all. cifra II 1 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)), dalla cifra I 1 dell’O del 1° mag. 2019 ([RU 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)), dalla cifra I dell’O del 27 set. 2019 ([RU 2019 3129](https://fedlex.data.admin.ch/eli/oc/2019/577)), dalla cifra III dell’O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)), dall’all. 3 n. 1 dell’O del 12 mag. 2021 sul commercio di legno ([RU 2021 306](https://fedlex.data.admin.ch/eli/oc/2021/306)), dall’art. 10 n. 2 dell’O del 2 apr. 2025 sull’immissione in commercio di combustibili e carburanti rinnovabili o a basso tenore di emissioni ([RU 2025 250](https://fedlex.data.admin.ch/eli/oc/2025/250)), dalla correzione del 23 giu. 2025 ([RU 2025 414](https://fedlex.data.admin.ch/eli/oc/2025/414)) e dall’all n. 2 dell’O del 25 giu. 2025 sulla sistemazione dei corsi d’acqua, in vigore dal 1° ago. 2025 ([RU 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
 
 <table>
-<tr><th colspan="2"></th><th>franchi</th></tr>
+<tr><th colspan="2"></th><th>Franchi</th></tr>
 <tr><td colspan="2">1. Pareri in caso di consultazione e approvazioni</td><td></td></tr>
 <tr><td colspan="2">Per pareri e approvazioni secondo gli atti normativi sotto elencati valgono le aliquote e i quadri tariffari seguenti:</td><td></td></tr>
 <tr><td colspan="2">a. pareri che richiedono poco dispendio</td><td>200</td></tr>
@@ -215,7 +215,7 @@ Allegato[^t-2]
 <tr><td colspan="2">5. Autorizzazioni secondo l’ordinanza del 29 febbraio 1988[^annexu1-lvlu1-17] sulla caccia</td><td>500</td></tr>
 <tr><td colspan="2">6. Autorizzazione per l’introduzione di pesci e gamberi non indigeni secondo l’ordinanza del 24 novembre 1993[^annexu1-lvlu1-18] relativa alla legge federale sulla pesca</td><td>500</td></tr>
 <tr><td colspan="2">7. Sedute di informazione e di perfezionamento, per persona e per giorno</td><td>200</td></tr>
-<tr><td colspan="2">8. Atti amministrativi nel settore dell’idrologia (art. 57 della LF del 24 gen. 1991[^annexu1-lvlu1-19] sulla protezione delle acque, art. 13 della LF del 21 giu. 1991[^annexu1-lvlu1-20] sulla sistemazione dei corsi d’acqua e art. 26 dell’O del 2 nov. 1994[^annexu1-lvlu1-21] sulla sistemazione dei corsi d’acqua):</td><td></td></tr>
+<tr><td colspan="2">8. Prestazioni in ambito idrologico (art. 57 della legge federale del 24 gen. 1991[^annexu1-lvlu1-19] sulla protezione delle acque, art. 13 della legge federale del 21 giu. 1991[^annexu1-lvlu1-20] sulla sistemazione dei corsi d’acqua e art. 19 dell’ordinanza del 25 giu. 2025[^annexu1-lvlu1-21] sulla sistemazione dei corsi d’acqua):</td><td></td></tr>
 <tr><td colspan="2">8.1 Invio diretto di dati dalle stazioni di misura</td><td></td></tr>
 <tr><td colspan="2">8.1.1 Installazione del sistema di avvertimento di piena (*una tantum*)</td><td></td></tr>
 <tr><td colspan="2">– se l’apparecchiatura è disponibile</td><td>500</td></tr>
