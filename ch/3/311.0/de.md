@@ -4,18 +4,18 @@ title: Schweizerisches Strafgesetzbuch vom 21. Dezember 1937
 short: StGB
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: de
-version: 2025-01-01
+version: 2025-08-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20250101/de/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20250101-de-xml-25.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20250801/de/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20250801-de-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20250801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Schweizerisches Strafgesetzbuch
 
-vom 21. Dezember 1937 (Stand am 1. Januar 2025)
+vom 21. Dezember 1937 (Stand am 1. August 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -23,7 +23,7 @@ gestützt auf Artikel 123 Absätze 1 und 3 der Bundesverfassung[^ingress-1],[^in
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2011 in Kraft seit 1. Juli 2012 ([AS 2012 2575](https://fedlex.data.admin.ch/eli/oc/2012/310); [BBl 2010 5651](https://fedlex.data.admin.ch/eli/fga/2010/992)[5677](https://fedlex.data.admin.ch/eli/fga/2010/994)).
 [^ingress-3]: [BBl 1918 IV 1](https://fedlex.data.admin.ch/eli/fga/1918/4_1_1_1)
 
@@ -70,7 +70,7 @@ Ist ein Täter auf Ersuchen der schweizerischen Behörde im Ausland verfolgt wor
 
 <sup>4</sup> Hat der auf Ersuchen der schweizerischen Behörde im Ausland verfolgte Täter die Strafe im Ausland nicht oder nur teilweise verbüsst, so wird in der Schweiz die Strafe oder deren Rest vollzogen. Das Gericht entscheidet, ob eine im Ausland nicht oder nur teilweise vollzogene Massnahme in der Schweiz durchzuführen oder fortzusetzen ist.
 
-[^3-1]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^3-1]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 
 ### Verbrechen oder Vergehen im Ausland gegen den Staat
 
@@ -109,7 +109,7 @@ Der Täter wird, unter Vorbehalt eines krassen Verstosses gegen die Grundsätze 
 [^5-1]: Fassung gemäss Ziff. I 1 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^5-2]: Eingefügt durch Anhang Ziff. 1 des BB vom 27. Sept. 2013 (Lanzarote-Konvention), in Kraft seit 1. Juli 2014 ([AS 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [BBl 2012 7571](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
 [^5-3]: Fassung gemäss Anhang Ziff. 1 des BB vom 27. Sept. 2013 (Lanzarote-Konvention), in Kraft seit 1. Juli 2014 ([AS 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [BBl 2012 7571](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
-[^5-4]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^5-4]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 
 ### Gemäss staatsvertraglicher Verpflichtung verfolgte Auslandtaten
 
@@ -133,7 +133,7 @@ Der Täter wird, unter Vorbehalt eines krassen Verstosses gegen die Grundsätze 
 
 <sup>4</sup> Ist der Täter wegen der Tat im Ausland verurteilt worden und wurde die Strafe im Ausland nur teilweise vollzogen, so rechnet ihm das Gericht den vollzogenen Teil auf die auszusprechende Strafe an. Das Gericht entscheidet, ob eine im Ausland angeordnete, dort aber nur teilweise vollzogene Massnahme fortzusetzen oder auf die in der Schweiz ausgesprochene Strafe anzurechnen ist.
 
-[^6-1]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^6-1]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 
 ### Andere Auslandtaten
 
@@ -165,7 +165,7 @@ Der Täter wird, unter Vorbehalt eines krassen Verstosses gegen die Grundsätze 
 
 <sup>5</sup> Ist der Täter wegen der Tat im Ausland verurteilt worden und wurde die Strafe im Ausland nur teilweise vollzogen, so rechnet ihm das Gericht den vollzogenen Teil auf die auszusprechende Strafe an. Das Gericht entscheidet, ob eine im Ausland angeordnete, aber dort nur teilweise vollzogene Massnahme fortzusetzen oder auf die in der Schweiz ausgesprochene Strafe anzurechnen ist.
 
-[^7-1]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^7-1]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 
 ### Begehungsort
 
@@ -183,7 +183,7 @@ Der Täter wird, unter Vorbehalt eines krassen Verstosses gegen die Grundsätze 
 
 <sup>2</sup> Für Personen, welche zum Zeitpunkt der Tat das 18. Altersjahr noch nicht vollendet haben, bleiben die Vorschriften des Jugendstrafgesetzes vom 20. Juni 2003[^9-1] (JStG) vorbehalten. Sind gleichzeitig eine vor und eine nach der Vollendung des 18. Altersjahres begangene Tat zu beurteilen, so ist Artikel 3 Absatz 2 JStG anwendbar.[^9-2]
 
-[^9-1]: [SR 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
+[^9-1]: [SR 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207)
 [^9-2]: Fassung gemäss Art. 44 Ziff. 1 des Jugendstrafgesetzes vom 20. Juni 2003, in Kraft seit 1. Jan. 2007 ([AS 2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551); BBl **1999** 1979).
 
 ### Zweiter Titel: Strafbarkeit
@@ -378,7 +378,7 @@ Absatz 1 gilt nicht, wenn das Gericht[^28a-1] feststellt, dass:
 
 [^28a-1]: Ausdruck gemäss Ziff. I 1 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 [^28a-2]: Fassung gemäss Anhang Ziff. II 2 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^28a-3]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^28a-3]: [SR 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
 
 ### 7. Vertretungsverhältnisse
 
@@ -1131,7 +1131,7 @@ Die zuständige Behörde trifft die Entscheide nach Absatz 1 gestützt auf:
 <sup>2</sup> Ergibt sich bei einem Verurteilten während des Vollzuges der Freiheitsstrafe aufgrund neuer Tatsachen oder Beweismittel, dass die Voraussetzungen der Verwahrung gegeben sind und im Zeitpunkt der Verurteilung bereits bestanden haben, ohne dass das Gericht davon Kenntnis haben konnte, so kann das Gericht die Verwahrung nachträglich anordnen. Zuständigkeit und Verfahren bestimmen sich nach den Regeln, die für die Revision (Art. 410−415 der Strafprozessordnung[^65-2]) gelten.[^65-3] [^65-4]
 
 [^65-1]: Fassung gemäss Ziff. I des BG vom 21. Dez. 2007 (Lebenslängliche Verwahrung extrem gefährlicher Straftäter), in Kraft seit 1. Aug. 2008 ([AS 2008 2961](https://fedlex.data.admin.ch/eli/oc/2008/413); [BBl 2006 889](https://fedlex.data.admin.ch/eli/fga/2006/104)).
-[^65-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^65-2]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 [^65-3]: Fassung des zweiten Satzes gemäss Anhang 1 Ziff. 4 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 [^65-4]: Eingefügt durch Ziff. I des BG vom 24. März 2006 (Korrekturen am Sanktions- und Strafregisterrecht), in Kraft seit 1. Jan. 2007 ([AS 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [BBl 2005 4689](https://fedlex.data.admin.ch/eli/fga/2005/735)).
 
@@ -1186,17 +1186,17 @@ Das Gericht verweist den Ausländer, der wegen einer der folgenden strafbaren Ha
 [^66a-2]: Fassung gemäss Ziff. I 1 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^66a-3]: Fassung gemäss Ziff. I 1 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^66a-4]: Fassung gemäss Ziff. I 1 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^66a-5]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^66a-5]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^66a-6]: Fassung gemäss Ziff. I 1 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^66a-7]: Fassung gemäss Ziff. I 1 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^66a-8]: Fassung gemäss Ziff. I 1 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^66a-9]: Fassung gemäss Ziff. I 1 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^66a-10]: Fassung gemäss Anhang Ziff. II 2 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^66a-11]: [SR 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180), [0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205), [0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226), [0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
-[^66a-12]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^66a-13]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^66a-11]: [SR 0.518.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1960), [0.518.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1964), [0.518.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1966), [0.518.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1967)
+[^66a-12]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^66a-13]: [SR 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
 [^66a-14]: Eingefügt durch Anhang Ziff. II 2 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^66a-15]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^66a-15]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 
 ### b. Nicht obligatorische Landesverweisung
 
@@ -1255,7 +1255,7 @@ Der Vollzug der obligatorischen Landesverweisung nach Artikel 66*a* kann nur auf
 
 [^66d-1]: Eingefügt durch Ziff. I 1 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
 [^66d-2]: Die Berichtigung vom 21. Juni 2017, veröffentlicht am 11. Juli 2017 betrifft nur den französischen Text ([AS 2017 3695](https://fedlex.data.admin.ch/eli/oc/2017/423)).
-[^66d-3]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^66d-3]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 ### 2. Tätigkeitsverbot, Kontakt-und Rayonverbot.
 
@@ -1771,7 +1771,7 @@ Dem Gefangenen ist bei Eignung nach Möglichkeit Gelegenheit zu einer seinen Fä
 <sup>7</sup> Vorbehalten bleiben Artikel 36 des Wiener Übereinkommens vom 24. April 1963[^84-2] über konsularische Beziehungen sowie andere für die Schweiz verbindliche völkerrechtliche Regeln über den Besuchs- und Briefverkehr.
 
 [^84-1]: Eingefügt durch Ziff. I des BG vom 21. Dez. 2007 (Lebenslängliche Verwahrung extrem gefährlicher Straftäter), in Kraft seit 1. Aug. 2008 ([AS 2008 2961](https://fedlex.data.admin.ch/eli/oc/2008/413); [BBl 2006 889](https://fedlex.data.admin.ch/eli/fga/2006/104)).
-[^84-2]: [SR 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
+[^84-2]: [SR 0.191.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/492)
 
 ### Kontrollen und Untersuchungen
 
@@ -1911,7 +1911,7 @@ Opfer und Angehörige des Opfers im Sinne von Artikel 1 Absätze 1 und 2 des Opf
 <sup>4</sup> Heisst die Vollzugsbehörde ein Gesuch gut, so macht sie die informationsberechtigte Person auf die Vertraulichkeit der bekannt gegebenen Informationen aufmerksam. Personen, die Anspruch auf Opferhilfe nach dem OHG haben, sind gegenüber der beratenden Person einer Beratungsstelle nach Artikel 9 OHG nicht zur Vertraulichkeit verpflichtet.
 
 [^92a-1]: Eingefügt durch Ziff. I 1 des BG vom 26. Sept. 2014 über das Informationsrecht des Opfers, in Kraft seit 1. Jan. 2016 ([AS 2015 1623](https://fedlex.data.admin.ch/eli/oc/2015/321); [BBl 2014 889](https://fedlex.data.admin.ch/eli/fga/2014/136)[913](https://fedlex.data.admin.ch/eli/fga/2014/138)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
-[^92a-2]: [SR 312.5](https://fedlex.data.admin.ch/eli/cc/2008/232)
+[^92a-2]: [SR 312.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6225)
 
 ### Fünfter Titel: Bewährungshilfe, Weisungen und freiwillige soziale Betreuung
 
@@ -2138,7 +2138,7 @@ Die Bestimmungen des Ersten Teils gelten mit den nachfolgenden Änderungen auch 
 
 [^108-1]
 
-[^108-1]: Dieser Art. bleibt aus gesetzestechnischen Gründen leer. Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG – [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^108-1]: Dieser Art. bleibt aus gesetzestechnischen Gründen leer. Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG – [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 ### Verjährung
 
@@ -2779,7 +2779,7 @@ Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer als Mi
 <sup>4</sup> Für die Berechnung der Geldstrafe ist das Gericht nicht an die maximale Höhe des Tagessatzes (Art. 34 Abs. 2 erster Satz) gebunden; die Geldstrafe darf jedoch das Sechsfache der Jahresvergütung, die im Zeitpunkt der Tat mit der betroffenen Gesellschaft vereinbart ist, nicht übersteigen.
 
 [^154-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109), [110](https://fedlex.data.admin.ch/eli/oc/2022/110); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^154-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^154-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^154-3]: Berichtigung der RedK der BVers vom 22. Nov. 2023, publiziert am 6. Dez. 2023 ([AS 2023 739](https://fedlex.data.admin.ch/eli/oc/2023/739)).
 
 ### Warenfälschung
@@ -2945,7 +2945,7 @@ Dem Gläubiger, der den Schuldner zu leichtsinnigem Schuldenmachen, unverhältni
 
 Der Schuldner, der die ihm gesetzlich obliegende Pflicht zur ordnungsmässigen Führung und Aufbewahrung von Geschäftsbüchern oder zur Aufstellung einer Bilanz verletzt, so dass sein Vermögensstand nicht oder nicht vollständig ersichtlich ist, wird, wenn über ihn der Konkurs eröffnet oder in einer gemäss Artikel 43 des Bundesgesetzes vom 11. April 1889[^166-1] über Schuldbetreibung- und Konkurs (SchKG) erfolgten Pfändung gegen ihn ein Verlustschein ausgestellt worden ist, mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 
-[^166-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^166-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### Bevorzugung eines Gläubigers
 
@@ -4323,7 +4323,7 @@ Mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe wird bestraft, wer:
 <sup>5</sup> Strafbar ist auch, wer die Tat im Ausland begeht, wenn die Organisation ihre verbrecherische Tätigkeit ganz oder teilweise in der Schweiz ausübt oder auszuüben beabsichtigt. Artikel 7 Absätze 4 und 5 sind anwendbar.
 
 [^260ter-1]: Eingefügt durch Ziff. I des BG vom 18. März 1994 ([AS 1994 1614](https://fedlex.data.admin.ch/eli/oc/1994/1614_1614_1614); [BBl 1993 III 277](https://fedlex.data.admin.ch/eli/fga/1993/3_277_269_193)). Fassung gemäss Anhang Ziff. II 2 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^260ter-2]: [SR 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180), [0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205), [0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226), [0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
+[^260ter-2]: [SR 0.518.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1960), [0.518.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1964), [0.518.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1966), [0.518.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1967)
 
 ### Gefährdung der öffentlichen Sicherheit mit Waffen
 
@@ -4533,7 +4533,7 @@ Mit Freiheitsstrafe nicht unter fünf Jahren wird bestraft, wer im Zusammenhang 
 
 <sup>4</sup> In weniger schweren Fällen nach Absatz 1 Buchstaben c–g kann auf Freiheitsstrafe nicht unter einem Jahr erkannt werden.
 
-[^264c-1]: Genfer Abk. vom 12. Aug. 1949 zur Verbesserung des Loses der Verwundeten und Kran-ken der bewaffneten Kräfte im Felde (GA I), [SR 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180); Genfer Abk. vom 12. Aug. 1949 zur Verbesserung des Loses der Verwundeten, Kranken und Schiffbrüchigen der bewaffneten Kräfte zur See (GA II), [SR 0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205); Genfer Abk. vom 12. Aug. 1949 über die Behandlung der Kriegsgefangenen (GA III), [SR 0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226); Genfer Abk. vom 12. Aug. 1949 über den Schutz von Zivilpersonen in Kriegszeiten (GA IV), [SR 0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297).
+[^264c-1]: Genfer Abk. vom 12. Aug. 1949 zur Verbesserung des Loses der Verwundeten und Kran-ken der bewaffneten Kräfte im Felde (GA I), [SR 0.518.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1960); Genfer Abk. vom 12. Aug. 1949 zur Verbesserung des Loses der Verwundeten, Kranken und Schiffbrüchigen der bewaffneten Kräfte zur See (GA II), [SR 0.518.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1964); Genfer Abk. vom 12. Aug. 1949 über die Behandlung der Kriegsgefangenen (GA III), [SR 0.518.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1966); Genfer Abk. vom 12. Aug. 1949 über den Schutz von Zivilpersonen in Kriegszeiten (GA IV), [SR 0.518.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1967).
 
 ### 3. Andere Kriegsverbrechen
 
@@ -4555,7 +4555,7 @@ Mit Freiheitsstrafe nicht unter drei Jahren wird bestraft, wer im Zusammenhang m
 
 <sup>3</sup> In weniger schweren Fällen kann auf Freiheitsstrafe nicht unter einem Jahr erkannt werden.
 
-[^264d-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^264d-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 ### b. Ungerechtfertigte medizinische Behandlung, Verletzung der sexuellen Selbstbestimmung und der Menschenwürde
 
@@ -4688,14 +4688,14 @@ Die Verfolgung von Taten nach dem zwölften Titel<sup>bis</sup>, dem zwölften T
 - g. Artikel 16 des Patentgerichtsgesetzes vom 20. März 2009[^264n-7];
 - h. Artikel 50 des Strafbehördenorganisationsgesetzes vom 19. März 2010[^264n-8].
 
-[^264n-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^264n-2]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
-[^264n-3]: [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
-[^264n-4]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^264n-5]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
-[^264n-6]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
-[^264n-7]: [SR 173.41](https://fedlex.data.admin.ch/eli/cc/2010/72)
-[^264n-8]: [SR 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
+[^264n-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^264n-2]: [SR 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
+[^264n-3]: [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
+[^264n-4]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^264n-5]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
+[^264n-6]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+[^264n-7]: [SR 173.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5632)
+[^264n-8]: [SR 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
 
 ### Dreizehnter Titel: Verbrechen und Vergehen gegen den Staat und die Landesverteidigung
 
@@ -4715,8 +4715,8 @@ schweizerisches Gebiet von der Eidgenossenschaft oder Gebiet von einem Kanton ab
 
 wird mit Freiheitsstrafe nicht unter einem Jahr[^265-3] bestraft.
 
-[^265-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^265-2]: [SR 131.211](https://fedlex.data.admin.ch/eli/cc/2006/14_fga)**/131.235**
+[^265-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^265-2]: [SR 131.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4780)**/131.235**
 [^265-3]: Ausdruck gemäss Ziff. II 1 Abs. 11 des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979). Diese Änd. wurde im ganzen zweiten Buch berücksichtigt.
 
 ### Angriffe auf die Unabhängigkeit der Eidgenossenschaft
@@ -4869,8 +4869,8 @@ In schweren Fällen ist die Strafe Freiheitsstrafe nicht unter einem Jahr.[^274-
 Wer eine Handlung vornimmt, die darauf gerichtet ist, die verfassungsmässige Ordnung der Eidgenossenschaft[^275-2] oder der Kantone[^275-3] rechtswidrig zu stören oder zu ändern, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
 
 [^275-1]: Fassung gemäss Ziff. I des BG vom 5. Okt. 1950, in Kraft seit 5. Jan. 1951 ([AS 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1); BBl **1949** 1 1249).
-[^275-2]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^275-3]: [SR 131.211](https://fedlex.data.admin.ch/eli/cc/2006/14_fga)**/131.235**
+[^275-2]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^275-3]: [SR 131.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4780)**/131.235**
 
 #### Art. 275<sup>bis</sup> und 275<sup>ter</sup>
 
@@ -5005,10 +5005,10 @@ Der Teilnehmer, der Gewalt an Personen verübt, wird mit Freiheitsstrafe von dre
 Der Teilnehmer, der Gewalt an Sachen verübt, wird mit Freiheitsstrafe von drei Monaten bis zu drei Jahren oder Geldstrafe nicht unter 90 Tagessätzen bestraft.[^285-7]
 
 [^285-1]: Fassung gemäss Ziff. I 1 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^285-2]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^285-3]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
-[^285-4]: [[AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)[6019](https://fedlex.data.admin.ch/eli/oc/2009/737), [2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656)Ziff. I 5, [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375). [AS 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328)Anhang Ziff. I 1]. Siehe heute: das BG vom 25 Sept. 2015 ([SR 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)).
-[^285-5]: [SR 745.2](https://fedlex.data.admin.ch/eli/cc/2011/565)
+[^285-2]: [SR 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^285-3]: [SR 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
+[^285-4]: [[AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)[6019](https://fedlex.data.admin.ch/eli/oc/2009/737), [2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656)Ziff. I 5, [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375). [AS 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328)Anhang Ziff. I 1]. Siehe heute: das BG vom 25 Sept. 2015 ([SR 742.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8823)).
+[^285-5]: [SR 745.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8894)
 [^285-6]: Fassung des zweiten Abs. gemäss Art. 11 Abs. 2 des BG vom 18. Juni 2010 über die Sicherheitsorgane der Transportunternehmen im öffentlichen Verkehr, in Kraft seit 1. Okt. 2011 ([AS 2011 3961](https://fedlex.data.admin.ch/eli/oc/2011/565); [BBl 2010 891](https://fedlex.data.admin.ch/eli/fga/2010/156)[915](https://fedlex.data.admin.ch/eli/fga/2010/158)).
 [^285-7]: Fassung gemäss Ziff. I 1 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
@@ -5023,10 +5023,10 @@ Wer eine Behörde, ein Mitglied einer Behörde oder einen Beamten an einer Handl
 Als Beamte gelten auch Angestellte von Unternehmen nach dem Eisenbahngesetz vom 20. Dezember 1957[^286-2], dem Personenbeförderungsgesetz vom 20. März 2009[^286-3] und dem Gütertransportgesetz vom 19. Dezember 2008[^286-4] sowie Angestellte der nach dem Bundesgesetz vom 18. Juni 2010[^286-5] über die Sicherheitsorgane der Transportunternehmen im öffentlichen Verkehr mit Bewilligung des Bundesamts für Verkehr beauftragten Organisationen.[^286-6]
 
 [^286-1]: Fassung gemäss Ziff. II 5 des BG vom 20. März 2009 über die Bahnreform 2, in Kraft seit 1. Jan. 2010 ([AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [BBl 2005 2415](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2681](https://fedlex.data.admin.ch/eli/fga/2007/425)).
-[^286-2]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^286-3]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
-[^286-4]: [[AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)[6019](https://fedlex.data.admin.ch/eli/oc/2009/737), [2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656)Ziff. I 5, [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375). [AS 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328)Anhang Ziff. I 1]. Siehe heute: das BG vom 25 Sept. 2015 ([SR 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)).
-[^286-5]: [SR 745.2](https://fedlex.data.admin.ch/eli/cc/2011/565)
+[^286-2]: [SR 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^286-3]: [SR 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
+[^286-4]: [[AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)[6019](https://fedlex.data.admin.ch/eli/oc/2009/737), [2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656)Ziff. I 5, [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375). [AS 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328)Anhang Ziff. I 1]. Siehe heute: das BG vom 25 Sept. 2015 ([SR 742.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8823)).
+[^286-5]: [SR 745.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8894)
 [^286-6]: Fassung gemäss Art. 11 Abs. 2 des BG vom 18. Juni 2010 über die Sicherheitsorgane der Transportunternehmen im öffentlichen Verkehr, in Kraft seit 1. Okt. 2011 ([AS 2011 3961](https://fedlex.data.admin.ch/eli/oc/2011/565); [BBl 2010 891](https://fedlex.data.admin.ch/eli/fga/2010/156)[915](https://fedlex.data.admin.ch/eli/fga/2010/158)).
 
 ### Amtsanmassung
@@ -5091,8 +5091,8 @@ Wer der von einer zuständigen Behörde oder einem zuständigen Beamten unter Hi
 <sup>2</sup> Wer mit einer oder mehreren bestimmten Personen oder mit Personen einer bestimmten Gruppe Kontakt aufnimmt oder sich ihnen nähert, wer sich an bestimmten Orten aufhält, obwohl ihm dies durch ein Kontakt- und Rayonverbot nach Artikel 67*b*, nach Artikel 50*b* MStG oder nach Artikel 16*a* JStG untersagt ist, wird mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe bestraft.
 
 [^294-1]: Fassung gemäss Ziff. I 1 des BG vom 13. Dez. 2013 über das Tätigkeitsverbot und das Kontakt- und Rayonverbot, in Kraft seit 1. Jan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
-[^294-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^294-3]: [SR 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
+[^294-2]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^294-3]: [SR 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207)
 
 ### Missachtung von Bewährungshilfe oder Weisungen
 
@@ -5249,8 +5249,8 @@ Ein schwerer Fall liegt insbesondere vor, wenn der Täter:
 
 [^305bis-1]: Eingefügt durch Ziff. I des BG vom 23. März 1990, in Kraft seit 1. Aug. 1990 ([AS 1990 1077](https://fedlex.data.admin.ch/eli/oc/1990/1077_1077_1077); [BBl 1989 II 1061](https://fedlex.data.admin.ch/eli/fga/1989/2_1061_961_837)).
 [^305bis-2]: Fassung gemäss Ziff. I 4 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^305bis-3]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
-[^305bis-4]: [SR 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
+[^305bis-3]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^305bis-4]: [SR 642.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8202)
 [^305bis-5]: Eingefügt durch Ziff. I 4 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
 [^305bis-6]: Fassung gemäss Ziff. I 1 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^305bis-7]: Fassung gemäss Anhang Ziff. II 2 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
@@ -5425,10 +5425,10 @@ werden mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
 <sup>3</sup> Wer im Rahmen des Bundesgesetzes vom 23. Dezember 2011[^317bis-5] über den ausserprozessualen Zeugenschutz Urkunden herstellt, verändert oder gebraucht, ist nicht nach den Artikeln 251, 252, 255 und 317 strafbar.[^317bis-6]
 
 [^317bis-1]: Eingefügt durch Art. 24 Ziff. 1 des BG vom 20. Juni 2003 über die verdeckte Ermittlung ([AS 2004 1409](https://fedlex.data.admin.ch/eli/oc/2004/177); BBl **1998** 4241). Fassung gemäss Anhang Ziff. 3 des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-[^317bis-2]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^317bis-2]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 [^317bis-3]: Fassung gemäss Anhang Ziff. II 2 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^317bis-4]: Fassung gemäss Anhang Ziff. II 5 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^317bis-5]: [SR 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
+[^317bis-5]: [SR 312.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6221)
 [^317bis-6]: Eingefügt durch Anhang Ziff. 3 des BG vom 23. Dez. 2011 über den ausserprozessualen Zeugenschutz, in Kraft seit 1. Jan. 2013 ([AS 2012 6715](https://fedlex.data.admin.ch/eli/oc/2012/814); [BBl 2011 1](https://fedlex.data.admin.ch/eli/fga/2011/1)).
 
 ### Falsches ärztliches Zeugnis
@@ -5478,7 +5478,7 @@ Die Verletzung des Berufsgeheimnisses ist auch nach Beendigung der Berufsausübu
 
 <sup>3.</sup> Vorbehalten bleiben die eidgenössischen und kantonalen Bestimmungen über die Melde- und Mitwirkungsrechte, über die Zeugnispflicht und über die Auskunftspflicht gegenüber einer Behörde.[^321-3]
 
-[^321-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^321-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^321-2]: Fassung gemäss Anhang Ziff. 1 des Gesundheitsberufegesetzes vom 30. Sept. 2016, in Kraft seit 1. Febr. 2020 ([AS 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [BBl 2015 8715](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
 [^321-3]: Fassung gemäss Anhang Ziff. 1 des BG vom 15. Dez. 2017 (Kindesschutz), in Kraft seit 1. Jan. 2019 ([AS 2018 2947](https://fedlex.data.admin.ch/eli/oc/2018/450); [BBl 2015 3431](https://fedlex.data.admin.ch/eli/fga/2015/838)).
 
@@ -5493,7 +5493,7 @@ Die Verletzung des Berufsgeheimnisses ist auch nach Beendigung der Berufsausübu
 <sup>2</sup> Berufsgeheimnisse dürfen für die Forschung zu Krankheiten des Menschen sowie zu Aufbau und Funktion des menschlichen Körpers offenbart werden, wenn die Voraussetzungen nach Artikel 34 des Humanforschungsgesetzes vom 30. September 2011 erfüllt sind und die zuständige Ethikkommission die Offenbarung bewilligt hat.
 
 [^321bis-1]: Eingefügt durch Anhang Ziff. 4 des BG vom 19. Juni 1992 über den Datenschutz, ([AS 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945); [BBl 1988 II 413](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)). Fassung gemäss Anhang Ziff. 2 des Humanforschungsgesetzes vom 30. Sept. 2011, in Kraft seit 1. Jan. 2014 ([AS 2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617); [BBl 2009 8045](https://fedlex.data.admin.ch/eli/fga/2009/1423)).
-[^321bis-2]: [SR 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
+[^321bis-2]: [SR 810.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9248)
 
 ### Verletzung des Post- und Fernmeldegeheimnisses
 
@@ -5668,7 +5668,7 @@ Mit Busse wird bestraft:
 <sup>5.</sup> der Schuldner, der während des Konkursverfahrens nicht zur Verfügung der Konkursverwaltung steht, wenn er dieser Pflicht nicht durch besondere Erlaubnis enthoben wurde (Art. 229 Abs. 1 SchKG).
 
 [^323-1]: Fassung gemäss Anhang Ziff. 8 des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^323-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^323-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^323-3]: Fassung gemäss Ziff. I 1 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^323-4]: Fassung gemäss Ziff. I 1 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
@@ -5691,7 +5691,7 @@ Mit Busse wird bestraft:
 <sup>5.</sup> der Dritte, der seine Auskunfts- und Herausgabepflichten nach den Artikeln 57*a* Absatz 1, 91 Absatz 4, 163 Absatz 2, 222 Absatz 4 und 341 Absatz 1 SchKG verletzt.[^324-3]
 
 [^324-1]: Fassung gemäss Anhang Ziff. 8 des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^324-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^324-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^324-3]: Fassung gemäss Ziff. I 1 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Ordnungswidrige Führung der Geschäftsbücher
@@ -5716,7 +5716,7 @@ Mit Busse wird bestraft, wer vorsätzlich:
 - b. der Pflicht zur Führung und Aufbewahrung der Berichte über Zahlungen an staatliche Stellen gemäss Artikel 964*h* OR nicht nachkommt.
 
 [^325bis-1]: Eingefügt durch Ziff. III 2 des BG vom 19. Juni 2020 (Indirekter Gegenvorschlag zur Volksinitiative «Für verantwortungsvolle Unternehmen – zum Schutz von Mensch und Umwelt»), in Kraft seit 1. Jan. 2022 ([AS 2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^325bis-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^325bis-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Verletzung anderer Berichtspflichten
 
@@ -5734,7 +5734,7 @@ Mit Busse bis zu 100 000 Franken wird bestraft, wer vorsätzlich:
 <sup>2</sup> Wer fahrlässig handelt, wird mit Busse bis zu 50 000 Franken bestraft.
 
 [^325ter-1]: Eingefügt durch Ziff. III 2 des BG vom 19. Juni 2020 (Indirekter Gegenvorschlag zur Volksinitiative «Für verantwortungsvolle Unternehmen – zum Schutz von Mensch und Umwelt»), in Kraft seit 1. Jan. 2022 ([AS 2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^325ter-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^325ter-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Widerhandlungen gegen die Bestimmungen zum Schutz der Mieter von Wohn- und Geschäftsräumen
 
@@ -5751,7 +5751,7 @@ wer Mietzinse oder sonstige Forderungen nach einem gescheiterten Einigungsversuc
 wird auf Antrag des Mieters mit Busse bestraft.
 
 [^325quater-1]: Ursprünglich: Artikel 325<sup>bis</sup>. Eingefügt durch Ziff. II Art. 4 des BG vom 15. Dez. 1989 über die Änderung des OR (Miete und Pacht) ([AS 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802); [BBl 1985 I 1389](https://fedlex.data.admin.ch/eli/fga/1985/1_1389_1369_1201), SchlB zu den Tit. VIII und VIII<sup>bis</sup>). Fassung gemäss Ziff. III 2 des BG vom 19. Juni 2020 (Indirekter Gegenvorschlag zur Volksinitiative «Für verantwortungsvolle Unternehmen – zum Schutz von Mensch und Umwelt»), in Kraft seit 1. Jan. 2022 ([AS 2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^325quater-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^325quater-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Anwendung auf juristische Personen, Handelsgesellschaften und Einzelfirmen
 
@@ -5803,7 +5803,7 @@ wer für einen im Handelsregister nicht eingetragenen ausländischen Rechtsträg
 wird mit Busse[^326ter-2] bestraft.
 
 [^326ter-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 1994 ([AS 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [BBl 1991 II 969](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)). Fassung gemäss Anhang Ziff. 5 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^326ter-2]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 2 ParlG – [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^326ter-2]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 2 ParlG – [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 ### Unwahre Auskunft durch eine Personalvorsorgeeinrichtung
 
@@ -5824,7 +5824,7 @@ Wer als Organ einer Personalvorsorgeeinrichtung gesetzlich verpflichtet ist, Beg
 Wer vorsätzlich den Pflichten nach Artikel 697*j* Absätze 1–4 oder Artikel 790*a* Absätze 1–4 des Obligationenrechts (OR)[^327-2] zur Meldung der an den Aktien oder Stammanteilen wirtschaftlich berechtigten Person nicht nachkommt, wird mit Busse bestraft.
 
 [^327-1]: Fassung gemäss Ziff. I 2 des BG vom 21. Juni 2019 zur Umsetzung von Empfehlungen des Globalen Forums über Transparenz und Informationsaustausch für Steuerzwecke, in Kraft seit 1. Nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
-[^327-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^327-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Verletzung der gesellschaftsrechtlichen Pflichten zur Führung von Verzeichnissen
 
@@ -5840,8 +5840,8 @@ Mit Busse wird bestraft, wer vorsätzlich eines der folgenden Verzeichnisse nich
 - d. bei einer Investmentgesellschaft mit variablem Kapital (Art. 36 des Kollektivanlagengesetzes vom 23. Juni 2006[^327a-3]): das Aktienbuch über die Unternehmeraktionärinnen und Unternehmeraktionäre oder das Verzeichnis der Personen, die an den Aktien der Unternehmeraktionärinnen und -aktionäre wirtschaftlich berechtigt sind, nach Artikel 46 Absatz 3 des Kollektivanlagengesetzes vom 23. Juni 2006.
 
 [^327a-1]: Eingefügt durch Ziff. I 2 des BG vom 21. Juni 2019 zur Umsetzung von Empfehlungen des Globalen Forums über Transparenz und Informationsaustausch für Steuerzwecke, in Kraft seit 1. Nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
-[^327a-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^327a-3]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^327a-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^327a-3]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 ### Verletzung gesetzlicher Pflichten von Vereinen
 
@@ -5852,7 +5852,7 @@ Mit Busse wird bestraft, wer vorsätzlich eines der folgenden Verzeichnisse nich
 Wer vorsätzlich die Pflichten von Vereinen nach den Artikeln 61*a* und 69 Absatz 2 des Zivilgesetzbuches[^327b-2] verletzt, wird mit Busse bestraft.
 
 [^327b-1]: Eingefügt durch Anhang 1 Ziff. 2 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^327b-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^327b-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 328
 
@@ -5928,7 +5928,7 @@ In den anderen Bundesgesetzen werden ersetzt:
 
 <sup>7</sup> Die in andern Bundesgesetzen unter Strafe gestellten Übertretungen sind strafbar, auch wenn sie fahrlässig begangen werden, sofern nicht nach dem Sinne der Vorschrift nur die vorsätzliche Begehung mit Strafe bedroht ist.
 
-[^333-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^333-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^333-2]: Aufgehoben durch Ziff. I 5 des BG vom 17. Dez. 2021 über die Anpassung des Nebenstrafrechts an das geänderte Sanktionenrecht, mit Wirkung seit 1. Juli 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^333-3]: Eingefügt durch Ziff. I 1 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
@@ -5988,7 +5988,7 @@ Die zuständigen Bundesbehörden dürfen Personendaten nur bekannt geben, wenn d
 - b. die betroffene Person ihre Personendaten allgemein zugänglich gemacht und die Bekanntgabe nicht ausdrücklich untersagt hat.
 
 [^349a-1]: Eingefügt durch Ziff. II 2 des BG vom 28. Sept. 2018 über die Umsetzung der Richtlinie (EU) 2016/680 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten zum Zwecke der Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder der Strafvollstreckung, in Kraft seit 1. März 2019 ([AS 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^349a-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^349a-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^349a-3]: Fassung gemäss Anhang 1 Ziff. II 26 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### b. Gleichbehandlung
@@ -6130,7 +6130,7 @@ Die betroffene Person kann vom EDÖB verlangen, dass er prüft, ob allfällige D
 <sup>5</sup> Die Mitteilung nach Absatz 3 lautet stets gleich und wird nicht begründet. Sie kann nicht angefochten werden.
 
 [^349g-1]: Eingefügt durch Ziff. II 2 des BG vom 28. Sept. 2018 über die Umsetzung der Richtlinie (EU) 2016/680 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten zum Zwecke der Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder der Strafvollstreckung, in Kraft seit 1. März 2019 ([AS 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^349g-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^349g-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^349g-3]: Fassung gemäss Anhang 1 Ziff. II 26 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^349g-4]: Fassung gemäss Anhang 1 Ziff. II 26 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
@@ -6149,7 +6149,7 @@ Die betroffene Person kann vom EDÖB verlangen, dass er prüft, ob allfällige D
 <sup>4</sup> Ferner gelten die Artikel 50 und 51 DSG.[^349h-4]
 
 [^349h-1]: Eingefügt durch Ziff. II 2 des BG vom 28. Sept. 2018 über die Umsetzung der Richtlinie (EU) 2016/680 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten zum Zwecke der Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder der Strafvollstreckung, in Kraft seit 1. März 2019 ([AS 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^349h-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^349h-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^349h-3]: Fassung gemäss Anhang 1 Ziff. II 26 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^349h-4]: Fassung gemäss Anhang 1 Ziff. II 26 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
@@ -6197,8 +6197,8 @@ Die betroffene Person kann vom EDÖB verlangen, dass er prüft, ob allfällige D
 
 <sup>3</sup> Das Bundesamt für Polizei kann den Zentralbüros anderer Staaten Informationen direkt vermitteln, wenn der Empfängerstaat den datenschutzrechtlichen Vorschriften von INTERPOL untersteht.
 
-[^352-1]: [SR 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
-[^352-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^352-1]: [SR 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
+[^352-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^352-3]: Fassung gemäss Anhang 1 Ziff. II 26 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### d. Finanzhilfen und Abgeltungen
@@ -6246,13 +6246,13 @@ Die Daten dürfen verwendet werden:
 <sup>6</sup> Das SEM oder das Bundesamt für Polizei (fedpol) können die Daten zwecks Ausschreibungen im Schengener Informationssystem (SIS) in einem automatisierten Verfahren in den nationalen Teil des Schengener Informationssystems (N-SIS) und das SIS überführen.[^354-12]
 
 [^354-1]: Fassung gemäss Anhang 1 Ziff. 3 des Strafregistergesetzes vom 17. Juni 2016, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
-[^354-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) angepasst.
+[^354-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) angepasst.
 [^354-3]: Fassung gemäss Anhang 2 Ziff. 1 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 23. Jan. 2023 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^354-4]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
-[^354-5]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^354-6]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^354-7]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^354-8]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^354-4]: [SR 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
+[^354-5]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^354-6]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^354-7]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^354-8]: [SR 363](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6319)
 [^354-9]: Fassung gemäss Anhang 1 Ziff. 1 des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 [^354-10]: Fassung gemäss Anhang 2 Ziff. 1 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 23. Jan. 2023 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 [^354-11]: Fassung gemäss Anhang 2 Ziff. 1 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 23. Jan. 2023 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
@@ -6288,7 +6288,7 @@ Die Daten dürfen verwendet werden:
 
 [^355a-1]: Eingefügt durch Art. 2 des BB vom 7. Okt. 2005 über die Genehmigung und die Umsetzung des Abk. zwischen der Schweiz und dem Europol, in Kraft seit 1. April 2006 ([AS 2006 1017](https://fedlex.data.admin.ch/eli/oc/2006/180); [BBl 2005 983](https://fedlex.data.admin.ch/eli/fga/2005/131)).
 [^355a-2]: Fassung gemäss Anhang 2 Ziff. 1 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 1. Sept. 2023 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^355a-3]: [SR 0.362.2](https://fedlex.data.admin.ch/eli/cc/2006/181)
+[^355a-3]: [SR 0.362.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1510)
 [^355a-4]: Eingefügt durch Ziff. II 2 des BG vom 28. Sept. 2018 über die Umsetzung der Richtlinie (EU) 2016/680 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten zum Zwecke der Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder der Strafvollstreckung, in Kraft seit 1. März 2019 ([AS 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### b. Mandatserweiterung
@@ -6304,7 +6304,7 @@ Die Daten dürfen verwendet werden:
 Der Bundesrat wird ermächtigt, mit Europol im Rahmen von Artikel 3 Absatz 3 des Abkommens vom 24. September 2004[^355b-2] zwischen der Schweizerischen Eidgenossenschaft und dem Europäischen Polizeiamt Änderungen des Mandatsbereichs zu vereinbaren.
 
 [^355b-1]: Eingefügt durch Art. 2 des BB vom 7. Okt. 2005 über die Genehmigung und die Umsetzung des Abk. zwischen der Schweiz und dem Europol, in Kraft seit 1. April 2006 ([AS 2006 1017](https://fedlex.data.admin.ch/eli/oc/2006/180); [BBl 2005 983](https://fedlex.data.admin.ch/eli/fga/2005/131)).
-[^355b-2]: [SR 0.362.2](https://fedlex.data.admin.ch/eli/cc/2006/181)
+[^355b-2]: [SR 0.362.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1510)
 
 ### 5<sup>bis</sup>. Zusammenarbeit im Rahmen der Schengen Assoziierungsabkommen.
 
@@ -6317,7 +6317,7 @@ Der Bundesrat wird ermächtigt, mit Europol im Rahmen von Artikel 3 Absatz 3 des
 Die Polizeiorgane des Bundes und der Kantone vollziehen die Bestimmungen der Schengen-Assoziierungsabkommen[^355c-2] nach Massgabe des innerstaatlichen Rechts.
 
 [^355c-1]: Eingefügt durch Art. 3 Ziff. 4 des BB vom 17. Dez. 2004 über die Genehmigung und die Umsetzung der bilateralen Abkommen zwischen der Schweiz und der EU über die Assoziierung an Schengen und an Dublin, in Kraft seit 1. Juni 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[2179](https://fedlex.data.admin.ch/eli/oc/2008/318)[2227](https://fedlex.data.admin.ch/eli/oc/2008/324); [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
-[^355c-2]: Abk. vom 26. Okt. 2004 zwischen der Schweizerischen Eidgenossenschaft, der Europäi-schen Union und der Europäischen Gemeinschaft über die Assoziierung dieses Staates bei der Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands ([SR 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)); Abk. vom 28. April 2005 zwischen der Schweizerischen Eidgenossenschaft und dem Kö-nigreich Dänemark über die Begründung von Rechten und Pflichten zwischen diesen bei-den Staaten hinsichtlich der Schengener Zusammenarbeit ([SR 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)); Übereink. vom 17. Dez. 2004 zwischen der Schweizerischen Eidgenossenschaft, der Republik Island und dem Königreich Norwegen über die Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands und über die Kriterien und Verfahren zur Bestimmung des zustän- digen Staates für die Prüfung eines in der Schweiz, in Island oder in Norwegen gestellten Asylantrags ([SR 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)); Prot. vom 28. Febr. 2008 zwischen der Schweizerischen Eid-genossenschaft, der Europäischen Union, der Europäischen Gemeinschaft und dem Für-stentum Liechtenstein über den Beitritt des Fürstentums Liechtenstein zum Abkommen zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union und der Europäischen Gemeinschaft über die Assoziierung der Schweizerischen Eidgenossenschaft bei der Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands ([SR 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)).
+[^355c-2]: Abk. vom 26. Okt. 2004 zwischen der Schweizerischen Eidgenossenschaft, der Europäi-schen Union und der Europäischen Gemeinschaft über die Assoziierung dieses Staates bei der Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands ([SR 0.362.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1513)); Abk. vom 28. April 2005 zwischen der Schweizerischen Eidgenossenschaft und dem Kö-nigreich Dänemark über die Begründung von Rechten und Pflichten zwischen diesen bei-den Staaten hinsichtlich der Schengener Zusammenarbeit ([SR 0.362.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1520)); Übereink. vom 17. Dez. 2004 zwischen der Schweizerischen Eidgenossenschaft, der Republik Island und dem Königreich Norwegen über die Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands und über die Kriterien und Verfahren zur Bestimmung des zustän- digen Staates für die Prüfung eines in der Schweiz, in Island oder in Norwegen gestellten Asylantrags ([SR 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)); Prot. vom 28. Febr. 2008 zwischen der Schweizerischen Eid-genossenschaft, der Europäischen Union, der Europäischen Gemeinschaft und dem Für-stentum Liechtenstein über den Beitritt des Fürstentums Liechtenstein zum Abkommen zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union und der Europäischen Gemeinschaft über die Assoziierung der Schweizerischen Eidgenossenschaft bei der Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands ([SR 0.362.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1514)).
 
 ### 5<sup>ter</sup>. …
 
@@ -6346,11 +6346,63 @@ Die Polizeiorgane des Bundes und der Kantone vollziehen die Bestimmungen der Sch
 
 [^355f355g-1]: Eingefügt durch Ziff. 4 des BG vom 19. März 2010 über die Umsetzung des Rahmenbe-schlusses 2008/977/JI über den Schutz von Personendaten im Rahmen der polizeilichen und justiziellen Zusammenarbeit in Strafsachen ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464); [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)). Aufgehoben durch Ziff. II 2 des BG vom 28. Sept. 2018 über die Umsetzung der Richtlinie (EU) 2016/680 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten zum Zwecke der Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder der Strafvollstreckung, mit Wirkung seit 1. März 2019 ([AS 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
-#### Art. 356–361
+### 5<sup>quinquies</sup>. Zusammenarbeit im Rahmen des Abkommens zur Beteiligung an Prüm
 
-[^356361-1]
+### a. Abgleich von daktyloskopischen Daten sowie Fahrzeug- und Fahrzeughalterdaten
 
-[^356361-1]: Aufgehoben durch Anhang 1 Ziff. II 8 der Strafprozessordnung vom 5. Okt. 2007, mit Wirkung seit 1. Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+#### Art. 356
+
+[^356-1]
+
+<sup>1</sup> Der Bund und die Kantone unterstützen mittels Abgleich von Informationssystemen, die daktyloskopische Daten, Fahrzeug- und Fahrzeughalterdaten enthalten, und mittels des Austauschs von Informationen die teilnehmenden Staaten insbesondere bei der Bekämpfung des Terrorismus und der grenzüberschreitenden Kriminalität.
+
+<sup>2</sup> Die nationalen Kontaktstellen der teilnehmenden Staaten können nach Artikel 9 Absatz 1 des Beschlusses 2008/615/JI[^356-2] im Einzelfall zur Verhinderung und Verfolgung von Straftaten, daktyloskopische Daten mit den Fundstellendatensätzen in den Informationssystemen der Schweiz abgleichen.
+
+<sup>3</sup> Zur Verfolgung strafbarer Handlungen nimmt die nationale Kontaktstelle nach Artikel 357 Absatz 1 aufgrund eines Antrags den Abgleich mit den daktyloskopischen Daten in den Informationssystemen der Vertragsstaaten vor.
+
+[^356-1]: Fassung gemäss Anhang Ziff. 3 des BB vom 1. Okt. 2021 über die Genehmigung und die Umsetzung des Abkommens zwischen der Schweiz und der EU zur Vertiefung der grenzüberschreitenden Zusammenarbeit (Prümer Zusammenarbeit) und des Eurodac-Protokolls zwischen der Schweiz, der EU und dem Fürstentum Liechtenstein betreffend den Zugang zu Eurodac für Gefahrenabwehr- und Strafverfolgungszwecke, in Kraft seit 1. Aug. 2025 ([AS 2025 348](https://fedlex.data.admin.ch/eli/oc/2025/348), [401](https://fedlex.data.admin.ch/eli/oc/2025/401); [BBl 2021 738](https://fedlex.data.admin.ch/eli/fga/2021/738)).
+[^356-2]: Beschluss 2008/615/JI des Rates vom 23. Juni 2008 zur Vertiefung der grenzüberschreitenden Zusammenarbeit, insbesondere zur Bekämpfung des Terrorismus und der grenzüberschreitenden Kriminalität, Fassung gemäss ABl. L 210 vom 6.8.2008, S. 1.
+
+### b. Nationale Kontaktstellen
+
+#### Art. 357
+
+[^357-1]
+
+<sup>1</sup> Fedpol ist die nationale Kontaktstelle für den Austausch von daktyloskopischen Daten und Personendaten nach den Artikeln 6, 11, 15 sowie 16 Absatz 3 des Beschlusses 2008/615/JI[^357-2].
+
+<sup>2</sup>
+
+Als Kontaktstelle nimmt fedpol namentlich folgende Aufgaben wahr:
+
+- a. Es nimmt den Abgleich mit den daktyloskopischen Daten vor, die im Informationssystem anderer teilnehmender Staaten enthalten sind.
+- b. Es überprüft Treffer, die aufgrund eines Abgleichs der Schweiz im Informationssystem für Fingerabdrücke eines teilnehmenden Staates erzielt worden sind.
+- c. Es übermittelt dem abfragenden teilnehmenden Staat auf Ersuchen die personenbezogenen Daten und, soweit dies nach schweizerischem Recht vorgesehen ist, weitere verfügbare Angaben gemäss Artikel 10 des Beschlusses 2008/615/JI.
+- d. Es übermittelt auf Ersuchen oder von sich aus personenbezogene und nicht personenbezogene Daten gemäss den Artikeln 13 und 14 (Grossveranstaltungen) sowie 16 (Verhinderung terroristischer Straftaten) des Beschlusses 2008/615/JI.
+- e. Es legt maximale Abrufkapazitäten für daktyloskopische Daten fest.
+
+<sup>3</sup>
+
+Die folgenden Behörden können im Rahmen ihrer gesetzlichen Aufgaben einen Abgleich gemäss Absatz 2 beantragen:
+
+- a. fedpol;
+- b. Bundesanwaltschaft;
+- c. die kantonalen Polizei- und Strafverfolgungsbehörden.
+
+<sup>4</sup> Das Bundesamt für Strassen ist die nationale Kontaktstelle für den Austausch von Daten über Eigentümer oder Halter von Fahrzeugen sowie von Fahrzeugdaten nach Artikel 12 Absatz 2 des Beschlusses 2008/615/JI. Als Kontaktstelle gewährt das ASTRA dem ersuchenden Vertragsstaat Zugang auf die Fahrzeug- und Fahrzeughalterdaten im Subsystem IVZ-Fahrzeuge zu den Zwecken nach Artikel 12 Absatz 1 des Beschlusses 2008/615/JI. Der Zugang zu den Daten erfolgt gemäss Artikel 15 sowie Kapitel 3 des Anhangs des Beschlusses 2008/616/JI[^357-3].
+
+<sup>5</sup> Als terroristische Straftaten im Sinne von Artikel 16 des Beschlusses 2008/615/JI gelten die in Artikel 111j Absatz 6 Buchstabe a des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005[^357-4] genannten Verbrechen und Vergehen.
+
+[^357-1]: Fassung gemäss Anhang Ziff. 3 des BB vom 1. Okt. 2021 über die Genehmigung und die Umsetzung des Abkommens zwischen der Schweiz und der EU zur Vertiefung der grenzüberschreitenden Zusammenarbeit (Prümer Zusammenarbeit) und des Eurodac-Protokolls zwischen der Schweiz, der EU und dem Fürstentum Liechtenstein betreffend den Zugang zu Eurodac für Gefahrenabwehr- und Strafverfolgungszwecke, in Kraft seit 1. Aug. 2025 ([AS 2025 348](https://fedlex.data.admin.ch/eli/oc/2025/348), [401](https://fedlex.data.admin.ch/eli/oc/2025/401); [BBl 2021 738](https://fedlex.data.admin.ch/eli/fga/2021/738)).
+[^357-2]: Siehe Fussnote zu Art. 356 Abs. 2.
+[^357-3]: Beschluss 2008/616/JI des Rates vom 23. Juni 2008 zur Durchführung des Beschlusses 2008/615/JI zur Vertiefung der grenzüberschreitenden Zusammenarbeit, insbesondere zur Bekämpfung des Terrorismus und der grenzüberschreitenden Kriminalität, ABl. L 210 vom 6.8.2008, S. 12.
+[^357-4]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+
+#### Art. 358–361
+
+[^358361-1]
+
+[^358361-1]: Aufgehoben durch Anhang 1 Ziff. II 8 der Strafprozessordnung vom 5. Okt. 2007, mit Wirkung seit 1. Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 ### 6. Mitteilung bei Pornografie
 
@@ -6437,7 +6489,7 @@ Die auf Grund des Strafrechts des Bundes oder der Kantone ergangenen rechtskräf
 <sup>4</sup> Vorbehalten sind die Bestimmungen des Bundesgesetzes vom 19. März 2004[^374-2] über die Teilung eingezogener Vermögenswerte.[^374-3]
 
 [^374-1]: Fassung gemäss Ziff. II 2 des BG vom 17. März 2017 (Schaffung einer Berufungskammer am Bundesstrafgericht), in Kraft seit 1. Jan. 2019 ([AS 2017 5769](https://fedlex.data.admin.ch/eli/oc/2017/624); [BBl 2013 7109](https://fedlex.data.admin.ch/eli/fga/2013/1333), [2016 6199](https://fedlex.data.admin.ch/eli/fga/2016/1190)).
-[^374-2]: [SR 312.4](https://fedlex.data.admin.ch/eli/cc/2004/468)
+[^374-2]: [SR 312.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6224)
 [^374-3]: Eingefügt durch Anhang Ziff. 1 des BG vom 19. März 2004 über die Teilung eingezogener Vermögenswerte, in Kraft seit 1. Aug. 2004 ([AS 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468); [BBl 2002 441](https://fedlex.data.admin.ch/eli/fga/2002/69)).
 
 ### 3. Gemeinnützige Arbeit
@@ -6529,8 +6581,8 @@ Der Verurteilte wird in angemessener Weise an den Kosten des Vollzugs beteiligt:
 
 <sup>3</sup> Für den Rückgriff auf die Mitglieder der anordnenden Behörde ist das kantonale Recht beziehungsweise das Verantwortlichkeitsgesetz vom 14. März 1958[^380a-2] massgebend.
 
-[^380a-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^380a-2]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^380a-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^380a-2]: [SR 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 ### Achter Titel: Begnadigung, Amnestie, Wiederaufnahme des Verfahrens
 

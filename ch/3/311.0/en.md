@@ -4,11 +4,11 @@ title: Swiss Criminal Code of 21 December 1937
 short: SCC
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: en
-version: 2025-01-01
+version: 2025-08-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20250101/en/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20250101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20250101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20250801/en/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20250801-en-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20250801/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20250101/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 21 December 1937 (Status as of 1 January 2025)
+of 21 December 1937 (Status as of 1 August 2025)
 
 The Federal Assembly the Swiss Confederation,
 
@@ -25,7 +25,7 @@ based on Article 123 paragraphs 1 and 3 of the Federal Constitution[^ingress-1],
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Amended by No I of the FA of 30 Sept. 2011 in force since 1 July 2012 ([AS 2012 2575](https://fedlex.data.admin.ch/eli/oc/2012/310); [BBl 2010 5651](https://fedlex.data.admin.ch/eli/fga/2010/992)[5677](https://fedlex.data.admin.ch/eli/fga/2010/994)).
 [^ingress-3]: [BBl 1918 IV 1](https://fedlex.data.admin.ch/eli/fga/1918/4_1_1_1)
 
@@ -65,14 +65,14 @@ A penalty or measure may only be imposed for an act that has been expressly decl
 
 <sup>3</sup>
 
-If the person concerned has been prosecuted in a foreign country at the request of the Swiss authorities, then unless the offence involves a gross violation of the principles of the Federal Constitution or the Convention from 4 November 1950[^3-1] for the protection of Human Rights and Fundamental Freedoms (ECHR), he is not prosecuted in Switzerland for the same offence if:
+If the person concerned has been prosecuted in a foreign country at the request of the Swiss authorities, then unless the offence involves a gross violation of the principles of the Federal Constitution or the Convention from 4 November 1950[^3-1] for the protection of Human Rights and Fundamental Freedoms (ECHR), the person shall not be prosecuted in Switzerland for the same offence if:
 
-- a. the foreign court has acquitted him and the judgment has taken full legal effect;
-- b. the penalty to which he had been sentenced in the foreign country has been served, remitted or become time-barred.
+- a. they have been acquitted by the foreign court and the judgment has taken full legal effect;
+- b. the penalty to which they have been sentenced in the foreign country has been served, remitted or become time barred.
 
 <sup>4</sup> If the person prosecuted abroad at the request of the Swiss authorities has not served the sentence or has only served it in part, the whole sentence or the remainder shall be served in Switzerland. The court decides whether a measure that has not been executed abroad or has only been served in part must be executed or continued in Switzerland.
 
-[^3-1]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^3-1]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 
 ### Felonies or misdemeanours against the state committed abroad
 
@@ -104,14 +104,14 @@ This Code also applies to any person who is in Switzerland, is not being extradi
 Unless the offence involves a gross violation of the principles of the Federal Constitution and the ECHR[^5-4], the person concerned is not liable to further prosecution in Switzerland for the offence if:
 
 - a. he has been acquitted of the offence abroad in a legally binding judgment;
-- b. the sentence that was imposed abroad has been served, remitted, or become time-barred.
+- b. the sentence that was imposed abroad has been served, remitted, or become time barred.
 
 <sup>3</sup> If the person concerned has been convicted of the offence abroad and if the sentence imposed abroad has been partly served, the court shall take the part served into account in the sentence to be imposed. The court decides whether a measure ordered abroad but only partly executed there must be continued or taken into account in the sentence imposed in Switzerland.
 
 [^5-1]: Amended by No I 1 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, in force since 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^5-2]: Inserted by Annex No 1 of the FedD of 27 Sept. 2013 (Lanzarote Convention), in force since 1 July 2014 ([AS 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [BBl 2012 7571](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
 [^5-3]: Amended by Annex No 1 of the FedD of 27 Sept. 2013 (Lanzarote Convention), in force since 1 July 2014 ([AS 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [BBl 2012 7571](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
-[^5-4]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^5-4]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 
 ### Offences committed abroad prosecuted in terms of an international obligation
 
@@ -124,18 +124,18 @@ Any person who commits a felony or misdemeanour abroad that Switzerland is oblig
 - a. the act is also liable to prosecution at the place of commission or no criminal law jurisdiction applies at the place of commission; and
 - b. the person concerned remains in Switzerland and is not extradited to the foreign country.
 
-<sup>2</sup> The court determines the sentence so that overall the person concerned is not treated more severely than would have been the case under the law at the place of commission.
+<sup>2</sup> The court determines the sentence so that overall, the person concerned is not treated more severely than would have been the case under the law at the place of commission.
 
 <sup>3</sup>
 
 Unless the offence involves a gross violation of the principles of the Federal Constitution and of the ECHR[^6-1], the person concerned is not liable to further prosecution in Switzerland if:
 
 - a. he has been acquitted of the offence abroad in a legally binding judgment;
-- b. the sentence that was imposed abroad has been served, remitted, or become time-barred.
+- b. the sentence that was imposed abroad has been served, remitted, or become time barred.
 
 <sup>4</sup> If the person concerned has been convicted of the offence abroad and if the sentence imposed abroad has been partly served, the court shall take the part served into account in the sentence to be imposed. The court decides whether a measure ordered abroad but only partly executed there must be continued or taken into account in the sentence imposed in Switzerland.
 
-[^6-1]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^6-1]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 
 ### Other offences committed abroad
 
@@ -145,7 +145,7 @@ Unless the offence involves a gross violation of the principles of the Federal C
 
 Any person who commits a felony or misdemeanour abroad where the requirements of Articles 4, 5 or 6 are not fulfilled is subject to this Code if:
 
-- a. the offence is also liable to prosecution at the place of commission or the place of commission is not subject to criminal law jurisdiction;
+- a. the offence is also liable to prosecution at the place of commission, or the place of commission is not subject to criminal law jurisdiction;
 - b. the person concerned is in Switzerland or is extradited to Switzerland due to the offence; and
 - c. under Swiss law extradition is permitted for the offence, but the person concerned is not being extradited.
 
@@ -156,18 +156,18 @@ If the person concerned is not Swiss and if the felony or misdemeanour was not c
 - a. the request for extradition was refused for a reason unrelated to the nature of the offence; or
 - b. the offender has committed a particularly serious felony that is proscribed by the international community.
 
-<sup>3</sup> The court shall determine the sentence so that overall the person concerned is not treated more severely than would have been the case under the law at the place of commission.
+<sup>3</sup> The court shall determine the sentence so that overall, the person concerned is not treated more severely than would have been the case under the law at the place of commission.
 
 <sup>4</sup>
 
 Unless the offence involves a gross violation of the principles of the Federal Constitution and the ECHR[^7-1], the person concerned is not liable to further prosecution in Switzerland for the offence if:
 
 - a. he has been acquitted of the offence abroad in a legally binding judgment;
-- b. the sentence that was imposed abroad has been served, remitted, or become time-barred.
+- b. the sentence that was imposed abroad has been served, remitted, or become time barred.
 
 <sup>5</sup> If the person concerned has been convicted of the offence abroad and if the sentence imposed abroad has been partly served, the court shall take the part served into account in the sentence to be imposed. The court decides whether a measure ordered abroad but only partly executed there must be continued or taken into account in the sentence imposed in Switzerland.
 
-[^7-1]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^7-1]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 
 ### Place of commission
 
@@ -175,7 +175,7 @@ Unless the offence involves a gross violation of the principles of the Federal C
 
 <sup>1</sup> A felony or misdemeanour is considered to be committed at the place where the person concerned commits it or unlawfully omits to act, and at the place where the offence has taken effect
 
-<sup>2</sup> An attempted offence is considered to be committed at the place where the person concerned attempted it and at the place where he intended the offence to take effect.
+<sup>2</sup> An attempted offence is considered to be committed at the place where the person concerned attempted it and at the place where they intended the offence to take effect.
 
 ### 4. Personal scope of application
 
@@ -185,7 +185,7 @@ Unless the offence involves a gross violation of the principles of the Federal C
 
 <sup>2</sup> For persons who have not attained the age of 18 at the time of the offence, the provisions of the Juvenile Criminal Law Act of 20 June 2003[^9-1] (JCLA) are reserved. Where an offence committed before and after attaining the age of 18 must be judged, Article 3 paragraph 2 JCLA applies.[^9-2]
 
-[^9-1]: [SR 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
+[^9-1]: [SR 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207)
 [^9-2]: Amended by Art. 44 No 1 of the Juvenile Criminal Law Act of 20 June 2003, in force since 1 Jan. 2007 ([AS 2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551); BBl **1999** 1979).
 
 ### Title Two: Criminal Liability
@@ -210,14 +210,14 @@ Unless the offence involves a gross violation of the principles of the Federal C
 
 <sup>2</sup>
 
-A person fails to comply with a duty to act if he does not prevent a legal interest protected under criminal law from being exposed to danger or from being harmed even though, due to his legal position, he has a duty to do so, in particular on the basis of:
+A person fails to comply with a duty to act if they do not prevent a legal interest protected under criminal law from being exposed to danger or from being harmed even though, due to their legal position, they have a duty to do so, in particular on the basis of:
 
 - a. the law;
 - b. a contract;
 - c. a risk-bearing community entered into voluntarily; or
 - d. the creation of a risk.
 
-<sup>3</sup> Any person who fails to comply with a duty to act shall be liable to prosecution only if, on the basis of the elements of the offence concerned, his conduct is, in the circumstances, as culpable as it would have been had he actively committed the offence.
+<sup>3</sup> Any person who fails to comply with a duty to act shall be liable to prosecution only if, on the basis of the elements of the offence concerned, their conduct is, in the circumstances, as culpable as it would have been had they actively committed the offence.
 
 <sup>4</sup> The court may reduce the sentence.
 
@@ -227,11 +227,11 @@ A person fails to comply with a duty to act if he does not prevent a legal inter
 
 #### Art. 12
 
-<sup>1</sup> Unless the law expressly provides otherwise, a person is only liable to prosecution for a felony or misdemeanour if he commits it wilfully.
+<sup>1</sup> Unless the law expressly provides otherwise, a person is only liable to prosecution for a felony or misdemeanour if they commit it wilfully.
 
-<sup>2</sup> A person commits a felony or misdemeanour wilfully if he carries out the act in the knowledge of what he is doing and in accordance with his will. A person acts wilfully as soon as he regards the realisation of the act as being possible and accepts this.
+<sup>2</sup> A person commits a felony or misdemeanour wilfully if that person carries out the act in the knowledge of what they are doing and in accordance with their will. A person acts wilfully as soon as they regard the realisation of the act as being possible and accept this.
 
-<sup>3</sup> A person commits a felony or misdemeanour through negligence if he fails to consider or disregards the consequences of his conduct due to a culpable lack of care. A lack of care is culpable if the person fails to exercise the care that is incumbent on him in the circumstances and commensurate with his personal capabilities.
+<sup>3</sup> A person commits a felony or misdemeanour through negligence if that person fails to consider or disregards the consequences of their conduct due to a culpable lack of care. A lack of care is culpable if the person fails to exercise the care that is incumbent on them in the circumstances and commensurate with their personal capabilities.
 
 ### Error of fact
 
@@ -239,7 +239,7 @@ A person fails to comply with a duty to act if he does not prevent a legal inter
 
 <sup>1</sup> If the person concerned acts under an erroneous belief as to the circumstances, the court shall judge the act according to the circumstances as the offender believed them to be.
 
-<sup>2</sup> If the person concerned could have avoided the error had he exercised due care, he shall be liable to prosecution for his negligent act provided the negligent commission of the act is an offence.
+<sup>2</sup> If the person concerned could have avoided the error had they exercised due care, they shall be liable to prosecution for their negligent act provided the negligent commission of the act is an offence.
 
 ### 3. Lawful acts and guilt
 
@@ -259,35 +259,35 @@ If any person is unlawfully attacked or threatened with imminent attack, the per
 
 #### Art. 16
 
-<sup>1</sup> If a person in defending himself exceeds the limits of self-defence as defined in Article 15 and in doing so commits an offence, the court shall reduce the sentence.
+<sup>1</sup> If a person in defending themselves exceeds the limits of self-defence as defined in Article 15 and in doing so commits an offence, the court shall reduce the sentence.
 
-<sup>2</sup> If a person in defending himself exceeds the limits of self-defence as a result of excusable excitement or panic in reaction to the attack, he does not commit an offence.
+<sup>2</sup> If a person in defending themselves exceeds the limits of self-defence as a result of excusable excitement or panic in reaction to the attack, they do not commit an offence.
 
 ### Legitimate act in a situation of necessity
 
 #### Art. 17
 
-Any person who carries out an act that carries a criminal penalty in order to save a legal interest of his own or of another from immediate and not otherwise avertable danger, acts lawfully if by doing so he safeguards interests of higher value.
+Any person who carries out an act that carries a criminal penalty in order to save a legal interest of their own or of another from immediate and not otherwise avertable danger, acts lawfully if by doing so they safeguard interests of higher value.
 
 ### Mitigatory act in a situation of necessity
 
 #### Art. 18
 
-<sup>1</sup> Any person who carries out an act that carries a criminal penalty in order to save himself or another from immediate and not otherwise avertable danger to life or limb, freedom, honour, property or other interests of high value shall receive a reduced penalty if he could reasonably have been expected to abandon the endangered interest.
+<sup>1</sup> Any person who carries out an act that carries a criminal penalty in order to save themselves or another from immediate and not otherwise avertable danger to life or limb, freedom, honour, property or other interests of high value shall receive a reduced penalty if they could reasonably have been expected to abandon the endangered interest.
 
-<sup>2</sup> If the person concerned could not have been reasonably expected to abandon the endangered interest, he does not commit an offence.
+<sup>2</sup> If the person concerned could not have been reasonably expected to abandon the endangered interest, they do not commit an offence.
 
 ### Absence of legal responsibility due to a mental disorder and diminished responsibility
 
 #### Art. 19
 
-<sup>1</sup> If the person concerned was unable at the time of the act to appreciate that his act was wrong or to act in accordance with this appreciation of the act, he is not liable to a penalty.
+<sup>1</sup> If the person concerned was unable at the time of the act to appreciate that their act was wrong or to act in accordance with this appreciation of the act, they are not liable to a penalty.
 
-<sup>2</sup> If the person concerned was only partially able at the time of the act to appreciate that his act was wrong or to act in accordance with this appreciation of the act, the court shall reduce the sentence.
+<sup>2</sup> If the person concerned was only partially able at the time of the act to appreciate that their act was wrong or to act in accordance with this appreciation of the act, the court shall reduce the sentence.
 
 <sup>3</sup> Measures in accordance with Articles 59–61, 63, 64, 67, 67*b* and 67*e* may, however, be taken.[^19-1]
 
-<sup>4</sup> If it was possible for the person concerned to avoid his state of mental incapacity or diminished responsibility and had he done so to foresee the act that may be committed in that state, paragraphs 1–3 do not apply.
+<sup>4</sup> If it was possible for the person concerned to avoid their own state of mental incapacity or diminished responsibility and if they had done so to foresee the act that may be committed in that state, paragraphs 1–3 do not apply.
 
 [^19-1]: Amended by No I 1 of the FA of 13 Dec. 2013 on Activity Prohibition Orders and Contact Prohibition and Exclusion Orders, in force since 1 Jan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 
@@ -301,7 +301,7 @@ If there are serious grounds for believing that the accused may not be legally r
 
 #### Art. 21
 
-Any person who is not and cannot be aware that, by carrying out an act, he is acting unlawfully, does not commit an offence. If the error was avoidable, the court shall reduce the sentence.
+Any person who is not and cannot be aware that, by carrying out an act, they are acting unlawfully, does not commit an offence. If the error was avoidable, the court shall reduce the sentence.
 
 ### 4. Attempts
 
@@ -317,9 +317,9 @@ Any person who is not and cannot be aware that, by carrying out an act, he is ac
 
 #### Art. 23
 
-<sup>1</sup> If the person concerned of his own accord does not complete the criminal act or if he assists in preventing the completion of the act, the court may reduce the sentence or waive any penalty.
+<sup>1</sup> If the person concerned of their own accord does not complete the criminal act or if they assist in preventing the completion of the act, the court may reduce the sentence or waive any penalty.
 
-<sup>2</sup> If two or more persons carry out or participate in a criminal act, the court may reduce the sentence or waive any penalty in respect of any person concerned who, of his own accord, assists in preventing the completion of the act.
+<sup>2</sup> If two or more persons carry out or participate in a criminal act, the court may reduce the sentence or waive any penalty in respect of any person concerned who, of their own accord, assists in preventing the completion of the act.
 
 <sup>3</sup> The court may also reduce the sentence or waive any penalty in respect of a person who withdraws from carrying out or participating in a criminal act if the withdrawal of the person concerned would have prevented the completion of the act had it not remained uncompleted for other reasons.
 
@@ -359,9 +359,9 @@ Special personal conditions, characteristics and circumstances that increase, re
 
 <sup>1</sup> If an offence is committed and completed through publication in a medium, then, subject to the following provisions, only the author shall be liable to prosecution.
 
-<sup>2</sup> If the author cannot be identified or if he cannot be brought to court in Switzerland, then the editor responsible in accordance with Article 322<sup>bis</sup> shall be liable to prosecution. If there is no responsible editor, then the person responsible for publication in accordance with Article 322<sup>bis</sup> shall be liable for prosecution.
+<sup>2</sup> If the author cannot be identified or cannot be brought to court in Switzerland, then the editor responsible in accordance with Article 322<sup>bis</sup> shall be liable to prosecution. If there is no responsible editor, then the person responsible for publication in accordance with Article 322<sup>bis</sup> shall be liable for prosecution.
 
-<sup>3</sup> If the publication has taken place without the knowledge or against the will of the author, then the editor or, in his absence, the person responsible for publication shall be liable to prosecution as the offender.
+<sup>3</sup> If the publication has taken place without the knowledge or against the will of the author, then the editor or, in the editor’s absence, the person responsible for publication shall be liable to prosecution as the offender.
 
 <sup>4</sup> The accurate reporting of public talks and official communications from a public authority may not be made subject to prosecution.
 
@@ -380,7 +380,7 @@ Paragraph 1 does not apply if the court[^28a-1] holds that:
 
 [^28a-1]: Term in accordance with No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)). This change has been made in the provisions specified in the AS.
 [^28a-2]: Amended by Annex No II 2 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^28a-3]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^28a-3]: [SR 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
 
 ### 7. Agency relationships
 
@@ -390,7 +390,7 @@ A special obligation, the violation of which establishes or increases criminal l
 
 - a. as a governing officer or as a member of a governing officer of a legal entity;
 - b. as a partner;
-- c. as an employee with independent decision-making authority in his field of activity within a legal entity, a company or a sole proprietorship[^29-2]; or
+- c. as an employee with independent decision-making authority in their field of activity within a legal entity, a company or a sole proprietorship[^29-2]; or
 - d. without being a governing officer, member of a governing officer, partner or employee, as the de facto manager.
 
 [^29-1]: Footnote relevant to German text only.
@@ -404,13 +404,13 @@ A special obligation, the violation of which establishes or increases criminal l
 
 <sup>1</sup> If an act shall be liable to prosecution only if a complaint is filed, any person who suffers harm due to the act may request that the person responsible be prosecuted.
 
-<sup>2</sup> If the person suffering harm does not have the legal capacity to act, his legal representative is entitled to file a complaint. If he is under guardianship or subject to a general deputyship, the adult protection authority is also entitled to file a complaint.[^30-1]
+<sup>2</sup> If the person suffering harm does not have the legal capacity to act, that person’s legal representative is entitled to file a complaint. If the person is under guardianship or subject to a general deputyship, the adult protection authority is also entitled to file a complaint.[^30-1]
 
-<sup>3</sup> If the person suffering harm is a minor or if he is subject to a general deputyship, he is entitled to file a complaint if he is capable of judgement.[^30-2]
+<sup>3</sup> If the person suffering harm is a minor or if they are subject to a general deputyship, the person is entitled to file a complaint if they are capable of judgement.[^30-2]
 
-<sup>4</sup> If the person suffering harm dies without filing the criminal complaint or without expressly waiving his right to file the criminal complaint, his next of kin are entitled to file the complaint.
+<sup>4</sup> If the person suffering harm dies without filing the criminal complaint or without expressly waiving their right to file the criminal complaint, the person’s next of kin are entitled to file the complaint.
 
-<sup>5</sup> If an entitled person expressly waives his right to file a complaint, his waiver is final.
+<sup>5</sup> If an entitled person expressly waives their right to file a complaint, their waiver is final.
 
 [^30-1]: Second sentence amended by Annex No 14 of the FA of 19 Dec. 2008 (Adult Protection, Law of Persons and Law of Children), in force since 1 Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 [^30-2]: Amended by Annex No 14 of the FA of 19 Dec. 2008 (Adult Protection, Law of Persons and Law of Children), in force since 1 Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
@@ -433,11 +433,11 @@ If an entitled person files a complaint against one person who participated in t
 
 <sup>1</sup> The person entitled to file a complaint may withdraw the complaint at any time before notice is given of the judgment of the second cantonal instance.
 
-<sup>2</sup> Any person who has withdrawn his complaint may not file it again.
+<sup>2</sup> Any person who has withdrawn their complaint may not file it again.
 
-<sup>3</sup> If the entitled person withdraws his complaint against one suspect, the withdrawal applies to all suspects.
+<sup>3</sup> If the entitled person withdraws their complaint against one suspect, the withdrawal applies to all suspects.
 
-<sup>4</sup> If a suspect objects to the withdrawal of the complaint against him, the withdrawal does not apply to him.
+<sup>4</sup> If a suspect objects to the withdrawal of a complaint against them, the withdrawal does not apply to them.
 
 ### Title Three: Sentences and Measures
 
@@ -457,7 +457,7 @@ If an entitled person files a complaint against one person who participated in t
 
 <sup>1</sup> Unless the law provides otherwise, a monetary penalty amounts to a minimum of three and a maximum of 180 daily penalty units.[^34-1] The court decides on the number according to the culpability of the offender.
 
-<sup>2</sup> A daily penalty unit normally amounts to a minimum of 30 francs and a maximum of 3000 francs.[^34-2] The court may reduce the value of the daily penalty unit to 10 francs if the offender’s personal or financial circumstances so require.[^34-3] It may decide on a value in excess of the maximum value of the daily penalty unit if the law so permits. It decides on the value of the daily penalty unit according to the personal and financial circumstances of the offender at the time of conviction, and in particular according to his income and capital, living expenses, any maintenance or support obligations and the minimum subsistence level.[^34-4]
+<sup>2</sup> A daily penalty unit normally amounts to a minimum of 30 francs and a maximum of 3000 francs.[^34-2] The court may reduce the value of the daily penalty unit to 10 francs if the offender’s personal or financial circumstances so require.[^34-3] It may decide on a value in excess of the maximum value of the daily penalty unit if the law so permits. It decides on the value of the daily penalty unit according to the personal and financial circumstances of the offender at the time of conviction, and in particular according to their income and capital, living expenses, any maintenance or support obligations and the minimum subsistence level.[^34-4]
 
 <sup>3</sup> The authorities of the Confederation, the cantons and the communes shall provide the information required to determine the daily penalty unit.
 
@@ -488,11 +488,11 @@ If an entitled person files a complaint against one person who participated in t
 
 <sup>2</sup> If the monetary penalty has been imposed by an administrative authority, the court decides on the alternative custodial sentence.
 
-<sup>3–5</sup> ...[^36-1]
+<sup>3–5</sup> …[^36-1]
 
 [^36-1]: Repealed by No I 1 of the FA of 19 June 2015 (Amendments to the Law of Criminal Sanctions), with effect from 1 Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
-### 2. ...
+### 2. …
 
 #### Art. 37–39
 
@@ -543,7 +543,7 @@ The court may impose a custodial sentence instead of a monetary penalty if:
 
 <sup>2</sup> If the offender received a suspended or unsuspended custodial sentence of more than six months within the five years prior to the offence, the sentence may only be suspended where the circumstances are especially favourable.[^42-2]
 
-<sup>3</sup> The suspension of the execution of a sentence may also be refused if the offender has failed to make a reasonable effort to compensate for any loss or damage he may have caused.
+<sup>3</sup> The suspension of the execution of a sentence may also be refused if the offender has failed to make a reasonable effort to compensate for any loss or damage they may have caused.
 
 <sup>4</sup> A suspended sentence may be combined with a fine in accordance with Article 106.[^42-3]
 
@@ -594,7 +594,7 @@ If the offender is of good conduct until the expiry of the probationary period, 
 
 #### Art. 46
 
-<sup>1</sup> If the offender commits a felony or misdemeanour during the probationary period and if it therefore must be expected that he will commit further offences, the court shall revoke the suspended sentence or the suspended part of the sentence. If the revoked sentence and the new sentence are of the same type, they shall form a cumulative sentence in analogous application of Article 49.[^46-1]
+<sup>1</sup> If the offender commits a felony or misdemeanour during the probationary period and if it therefore must be expected that they will commit further offences, the court shall revoke the suspended sentence or the suspended part of the sentence. If the revoked sentence and the new sentence are of the same type, they shall form a cumulative sentence in analogous application of Article 49.[^46-1]
 
 <sup>2</sup> If it is not expected that the offender will commit further offences, the court shall not revoke the suspended sentence. It may admonish the offender or extend the probationary period by up to one half of the duration specified in the judgment. The court may order probation assistance and impose conduct orders for the duration of the extended probationary period. If the extension begins after the expiry of the probationary period, the extended period begins on the day that it is ordered.
 
@@ -612,7 +612,7 @@ If the offender is of good conduct until the expiry of the probationary period, 
 
 #### Art. 47
 
-<sup>1</sup> The court determines the sentence according to the culpability of the offender. It takes account of the previous conduct and the personal circumstances of the offender as well as the effect that the sentence will have on his life.
+<sup>1</sup> The court determines the sentence according to the culpability of the offender. It takes account of the previous conduct and the personal circumstances of the offender as well as the effect that the sentence will have on the offender’s life.
 
 <sup>2</sup> Culpability is assessed according to the seriousness of the damage or danger to the legal interest concerned, the reprehensibility of the conduct, the offender's motives and aims, and the extent to which the offender, in view of the personal and external circumstances, could have avoided causing the danger or damage.
 
@@ -630,12 +630,12 @@ The court shall reduce the sentence if:
 
   - 1\. for honourable motives,
   - 2\. while in serious distress,
-  - 3\. while of the view that he was under serious threat,
-  - 4\. at the behest of a person whom he was duty bound to obey or on whom he was dependent;
+  - 3\. while of the view that they were under serious threat,
+  - 4\. at the behest of a person whom they were duty bound to obey or on whom they were dependent;
 
 - b. the offender was seriously provoked by the conduct of the person suffering injury;
 - c. the offender acted in a state of extreme emotion that was excusable in the circumstances or while under serious psychological stress;
-- d. the offender has shown genuine remorse, and in particular has made reparation for the injury, damage or loss caused, insofar as this may reasonably be expected of him;
+- d. the offender has shown genuine remorse, and in particular has made reparation for the injury, damage or loss caused, insofar as this may reasonably be expected of them;
 - e. the need for punishment has been substantially reduced due to the time that has elapsed since the offence and the offender has been of good conduct in this period.
 
 ### Effect
@@ -652,7 +652,7 @@ The court shall reduce the sentence if:
 
 <sup>1</sup> If the offender, by committing one or more offences, has fulfilled the requirements for two or more penalties of the same form, the court shall impose the sentence for the most serious offence at an appropriately increased level. It may not, however, increase the maximum level of the sentence by more than half, and it is bound by the statutory maximum for that form of penalty.
 
-<sup>2</sup> If the court must pass sentence on an offence that the offender committed before he was sentenced for a different offence, it shall determine the supplementary penalty so that the offender is not more severely punished than he would have been had the sentences been imposed at the same time.
+<sup>2</sup> If the court must pass sentence on an offence that the offender committed before they were sentenced for a different offence, it shall determine the supplementary penalty so that the offender is not more severely punished than they would have been had the sentences been imposed at the same time.
 
 <sup>3</sup> If the offender committed one or more offences before reaching the age of 18, the court shall determine the cumulative sentence in accordance with paragraphs 1 and 2 such that it is not more severe than it would have been had sentences been imposed separately.
 
@@ -686,7 +686,7 @@ When determining the sentence, the court shall take account of any time spent on
 
 #### Art. 52
 
-The competent authority shall refrain from prosecuting the offender, bringing him to court or punishing him if the level of culpability and consequences of the offence are negligible.
+The competent authority shall refrain from prosecuting the offender, bringing them to court or punishing them if the level of culpability and consequences of the offence are negligible.
 
 ### Reparation
 
@@ -694,7 +694,7 @@ The competent authority shall refrain from prosecuting the offender, bringing hi
 
 [^53-1]
 
-If the offender has made reparation for the loss, damage or injury or made every reasonable effort to right the wrong that he has caused, the competent authority shall refrain from prosecuting him, bringing him to court or punishing him if:
+If the offender has made reparation for the loss, damage or injury or made every reasonable effort to right the wrong that they have caused, the competent authority shall refrain from prosecuting them, bringing them to court or punishing them if:
 
 - a. a suspended custodial sentence not exceeding one year, a suspended monetary penalty or a fine are suitable as a penalty;
 - b. the interest in prosecution of the general public and of the persons harmed are negligible; and
@@ -702,11 +702,11 @@ If the offender has made reparation for the loss, damage or injury or made every
 
 [^53-1]: Amended by No I 1 of the FA of 14 Dec. 2018 on the Amendment of Reparation Arrangements, in force since 1 July 2019 ([AS 2019 1809](https://fedlex.data.admin.ch/eli/oc/2019/336); [BBl 2018 3757](https://fedlex.data.admin.ch/eli/fga/2018/1409)[4925](https://fedlex.data.admin.ch/eli/fga/2018/1707)).
 
-### Effect on the offender of his act
+### Effect on the offender of their act
 
 #### Art. 54
 
-If the offender is so seriously affected by the immediate consequences of his act that a penalty would be inappropriate, the responsible authorities shall refrain from prosecuting him, bringing him to court or punishing him.
+If the offender is so seriously affected by the immediate consequences of their act that a penalty would be inappropriate, the responsible authorities shall refrain from prosecuting them, bringing them to court or punishing them.
 
 ### 2. General provisions
 
@@ -740,7 +740,7 @@ In a case of common assault (Art. 123 no 2 para. 3–5), repeated acts of aggres
   - 2\. is the registered partner of the offender and the offence was committed during the registered partnership or within a year of its dissolution, or
   - 3\. is the hetero- or homosexual partner of the offender or the ex-partner of the offender if they have been separated for less than a year; and
 
-- b.[^55a-4] the victim or, if he or she lacks legal capacity, his or her legal representative requests this to be done; and
+- b.[^55a-4] the victim or, if they lack legal capacity, their legal representative requests this to be done; and
 - c.[^55a-5] suspension appears appropriate in order to stabilise or improve the victim’s situation.
 
 <sup>2</sup> The public prosecutor or the court may during the period of suspension require the accused to attend a course on violence prevention. The public prosecutor or the court shall notify the authority or organisation competent under cantonal law for matters relating to domestic violence about the measures taken.[^55a-6]
@@ -750,10 +750,10 @@ In a case of common assault (Art. 123 no 2 para. 3–5), repeated acts of aggres
 Suspension is not permitted if:
 
 - a. the accused has been convicted of a felony or misdemeanour against life and limb, against liberty, or against sexual integrity;
-- b. he or she has received a sentence or been made subject to a measure; and
+- b. the accused has received a sentence or been made subject to a measure; and
 - c. the victim of the offence is a person listed in paragraph 1 letter a.[^55a-7]
 
-<sup>4</sup> Suspension is limited to six months. The public prosecutor or the court shall resume the proceedings if the victim or, if he or she lacks legal capacity, his or her legal representative requests this to be done or it transpires that the suspension has neither stabilised nor improved the victim’s situation.[^55a-8]
+<sup>4</sup> Suspension is limited to six months. The public prosecutor or the court shall resume the proceedings if the victim or, if they lack legal capacity, their legal representative requests this to be done or it transpires that the suspension has neither stabilised nor improved the victim’s situation.[^55a-8]
 
 <sup>5</sup> Before the suspension ends, the public prosecutor or the court shall conduct an assessment. If the victim’s situation has stabilised or improved, it shall order the abandonment of the proceedings.[^55a-9]
 
@@ -780,7 +780,7 @@ Suspension is not permitted if:
 A measure is ordered if:
 
 - a. a penalty alone is not sufficient to counter the risk of further offending by the offender;
-- b. the offender requires treatment or treatment is required in the interest of public safety; and
+- b. the offender requires treatment, or treatment is required in the interest of public safety; and
 - c. the requirements of Articles 59–61, 63 or 64 are fulfilled.
 
 <sup>2</sup> The ordering of a measure requires that the related intervention in the personal rights of the offender is not unreasonable in view of the probability and seriousness of additional offences.
@@ -793,9 +793,9 @@ In ordering a measure under Articles 59–61, 63 and 64 and in modifying the san
 - b. the nature and the probability of possible additional offences; and
 - c. the ways in which the measure may be implemented.
 
-<sup>4</sup> If the offender has committed an offence in terms of Article 64 paragraph 1, the assessment must be conducted by an expert who has neither treated the offender before nor been responsible in any other way for his care.
+<sup>4</sup> If the offender has committed an offence in terms of Article 64 paragraph 1, the assessment must be conducted by an expert who has neither treated the offender before nor been responsible in any other way for the offender’s care.
 
-<sup>4bis</sup> If consideration is given to ordering lifelong incarceration in accordance with Article 64 paragraph 1<sup>bis</sup>, the court shall base its decision on reports from at least two experienced specialists who are independent of each other and who have neither treated the offender nor been responsible in any other way for his care.[^56-1]
+<sup>4bis</sup> If consideration is given to ordering lifelong incarceration in accordance with Article 64 paragraph 1<sup>bis</sup>, the court shall base its decision on reports from at least two experienced specialists who are independent of each other and who have neither treated the offender nor been responsible in any other way for the offender’s care.[^56-1]
 
 <sup>5</sup> Normally the court only orders a measure if a suitable institution is available.
 
@@ -817,7 +817,7 @@ In ordering a measure under Articles 59–61, 63 and 64 and in modifying the san
 
 <sup>1</sup> If the requirements for both a penalty and a measure are fulfilled, the court shall order both sanctions.
 
-<sup>2</sup> The implementation of a measure under Articles 59–61 takes precedence over a custodial sentence that is imposed at the same time or which is executed through revocation of a suspended sentence or recall to custody. Likewise, the reactivation of the execution of a measure in accordance with Article 62*a* takes precedence over a cumulative sentence imposed at the same time.
+<sup>2</sup> The implementation of a measure under Articles 59–61 takes precedence over a custodial sentence that is imposed at the same time, or which is executed through revocation of a suspended sentence or recall to custody. Likewise, the reactivation of the execution of a measure in accordance with Article 62*a* takes precedence over a cumulative sentence imposed at the same time.
 
 <sup>3</sup> The deprivation of liberty associated with the measure must be taken into account in determining the penalty.
 
@@ -825,7 +825,7 @@ In ordering a measure under Articles 59–61, 63 and 64 and in modifying the san
 
 #### Art. 58
 
-<sup>1</sup> ...[^58-1]
+<sup>1</sup> …[^58-1]
 
 <sup>2</sup> The therapeutic institutions in terms of Articles 59–61 must be managed separately from penal institutions.
 
@@ -841,14 +841,14 @@ In ordering a measure under Articles 59–61, 63 and 64 and in modifying the san
 
 If the offender is suffering from a serious mental disorder, the court may order in-patient treatment if:
 
-- a. the offender's mental disorder was a factor in a felony or misdemeanour that he committed; and
-- b. it is expected that the measure will reduce the risk of further offences being committed in which his mental disorder is a factor.
+- a. the offender's mental disorder was a factor in a felony or misdemeanour that they committed; and
+- b. it is expected that the measure will reduce the risk of further offences being committed in which the offender’s mental disorder is a factor.
 
 <sup>2</sup> The in-patient treatment is carried out in an appropriate psychiatric institution or therapeutic institution.
 
-<sup>3</sup> If there is a risk of the offender absconding or committing further offences, he shall be treated in a secure institution. He may also be treated in a penal institution in accordance with Article 76 paragraph 2, provided it is guaranteed that the required therapeutic treatment can be provided by specialist staff.[^59-1]
+<sup>3</sup> If there is a risk of the offender absconding or committing further offences, the offender shall be treated in a secure institution. They may also be treated in a penal institution in accordance with Article 76 paragraph 2, provided it is guaranteed that the required therapeutic treatment can be provided by specialist staff.[^59-1]
 
-<sup>4</sup> The deprivation of liberty associated with in-patient treatment normally amounts to a maximum of five years. If the requirements for parole have not yet been fulfilled after five years and if it is expected that the measure will reduce the risk of further felonies or misdemeanours being committed in which his mental disorder is a factor, the court may at the request of the executive authority order the extension of the measure for a maximum of five years in any case.
+<sup>4</sup> The deprivation of liberty associated with in-patient treatment normally amounts to a maximum of five years. If the requirements for parole have not yet been fulfilled after five years and if it is expected that the measure will reduce the risk of further felonies or misdemeanours being committed in which the offender’s mental disorder is a factor, the court may at the request of the executive authority order the extension of the measure for a maximum of five years in any case.
 
 [^59-1]: Amended by No I of the FA of 24 March 2006 (Revision of the Law on Sanctions and the Register of Convictions), in force since 1 Jan. 2007 ([AS 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550)3544; [BBl 2005 4689](https://fedlex.data.admin.ch/eli/fga/2005/735)).
 
@@ -860,14 +860,14 @@ If the offender is suffering from a serious mental disorder, the court may order
 
 If the offender is dependent on addictive substances or in any other way dependent, the court may order in-patient treatment if:
 
-- a. the offender's dependence was a factor in the felony or misdemeanour that he committed; and
-- b. it is expected that treatment will reduce the risk of further offences being committed in which his dependence is a factor.
+- a. the offender's dependence was a factor in the felony or misdemeanour that they committed; and
+- b. it is expected that treatment will reduce the risk of further offences being committed in which the offender’s dependence is a factor.
 
 <sup>2</sup> The court shall take account of the offender's request for and readiness to undergo treatment.
 
-<sup>3</sup> The treatment is carried out in a specialised institution or, if necessary, in a psychiatric hospital. It must be adjusted to the special needs of the offender and the state of his health.
+<sup>3</sup> The treatment is carried out in a specialised institution or, if necessary, in a psychiatric hospital. It must be adjusted to the offender’s special needs and state of health.
 
-<sup>4</sup> The deprivation of liberty associated with in-patient treatment shall normally amount to a maximum of three years. If the requirements for parole have not yet been fulfilled after three years and if it is expected that the measure will reduce the risk of further felonies or misdemeanours being committed in which his dependence is a factor, the court may at the request of the executive authority on one occasion only order the extension of the measure for a maximum of one further year. In the event of an extension and the recall to custody following parole, the deprivation of liberty associated with the measure may not exceed a maximum of six years.
+<sup>4</sup> The deprivation of liberty associated with in-patient treatment shall normally amount to a maximum of three years. If the requirements for parole have not yet been fulfilled after three years and if it is expected that the measure will reduce the risk of further felonies or misdemeanours being committed in which the offender’s dependence is a factor, the court may at the request of the executive authority on one occasion only order the extension of the measure for a maximum of one further year. In the event of an extension and the recall to custody following parole, the deprivation of liberty associated with the measure may not exceed a maximum of six years.
 
 ### Measures for young adults
 
@@ -875,24 +875,24 @@ If the offender is dependent on addictive substances or in any other way depende
 
 <sup>1</sup>
 
-If the offender was under 25 years of age at the time of the offence and if he is suffering from a serious developmental disorder, the court may commit him to an institution for young adults if:
+If the offender was under 25 years of age at the time of the offence and if they are suffering from a serious developmental disorder, the court may commit them to an institution for young adults if:
 
-- a. the offender's developmental disorder was a factor in the felony or misdemeanour that he committed; and
-- b. it is expected that the measure will reduce the risk of further offences being committed in which his developmental disorder is a factor.
+- a. the offender's developmental disorder was a factor in the felony or misdemeanour that they committed; and
+- b. it is expected that the measure will reduce the risk of further offences being committed in which the offender’s developmental disorder is a factor.
 
 <sup>2</sup> Institutions for young adults must be managed separately from other institutions and facilities under this Code.
 
-<sup>3</sup> The offender should be taught the skills needed to live independently and without further offending. In particular, he should be encouraged to undergo basic and advanced vocational and professional training.
+<sup>3</sup> The offender should be taught the skills needed to live independently and without further offending. In particular, they should be encouraged to undergo basic and advanced vocational and professional training.
 
 <sup>4</sup> The deprivation of liberty associated with the measure amounts to a maximum of four years. In the event of the recall to custody following release on parole, it may not exceed a maximum of six years. The measure must be revoked when the offender reaches the age of 30.
 
-<sup>5</sup> If the offender was convicted of an offence committed before he was 18 years of age, the measure may be implemented in an institution for minors.
+<sup>5</sup> If the offender was convicted of an offence committed before reaching 18 years of age, the measure may be implemented in an institution for minors.
 
 ### Parole
 
 #### Art. 62
 
-<sup>1</sup> The offender is released on parole from undergoing an in-patient measure as soon as his condition justifies his being given the liberty to prove himself.
+<sup>1</sup> The offender is released on parole from undergoing an in-patient measure as soon as their condition justifies their being given the liberty to prove themselves.
 
 <sup>2</sup> In the case of release on parole from a measure under Article 59, the probationary period amounts to one to five years, and in the case of release on parole from a measure under Articles 60 and 61, from one to three years.
 
@@ -917,13 +917,13 @@ If on expiry of the probationary period, a continuation of the out-patient treat
 
 If a person released on parole commits an offence during the probationary period and thus demonstrates that the risk that the measure was intended to reduce is still present, the court assessing the new offence may, after consulting the executive authority:
 
-- a. order his recall to custody;
+- a. order that person’s recall to custody;
 - b. revoke the measure and, provided the relevant requirements are fulfilled, order a new measure; or
 - c. revoke the measure and, provided the relevant requirements are fulfilled, order the execution of a custodial sentence.
 
 <sup>2</sup> If as a result of the new offence the requirements for an unsuspended custodial sentence are fulfilled and if this sentence runs concurrently with a custodial sentence that has been suspended to give precedence to the measure, the court shall impose a cumulative sentence in application of Article 49.
 
-<sup>3</sup> If as a result of the conduct of the person released on parole during the probationary period there is a serious expectation that he could commit an offence in terms of Article 64 paragraph 1, the court that ordered the measure may, at the request of the executive authority, order a recall to custody.
+<sup>3</sup> If as a result of the conduct of the person released on parole during the probationary period there is a serious expectation that the person could commit an offence in terms of Article 64 paragraph 1, the court that ordered the measure may, at the request of the executive authority, order a recall to custody.
 
 <sup>4</sup> For a measure under Article 59, the recall to custody is for a maximum period of five years, and for measures under Articles 60 and 61 for a maximum period of two years.
 
@@ -942,7 +942,7 @@ If the court decides against a recall to custody or a new measure, it may:
 
 #### Art. 62b
 
-<sup>1</sup> If the person released on parole successfully completes the probationary period, he is granted final release.
+<sup>1</sup> If the person released on parole successfully completes the probationary period, they shall be granted final release.
 
 <sup>2</sup> The offender is granted final release if the maximum duration of a measure under Articles 60 and 61 is reached and the requirements for the parole apply.
 
@@ -962,13 +962,13 @@ A measure is terminated, if:
 
 <sup>2</sup> If the deprivation of liberty associated with the measure is for a shorter period than the suspended custodial sentence, the remainder of the sentence is executed. If the requirements for parole or a suspended custodial sentence apply in relation to the remainder of the sentence, execution of the sentence is suspended.
 
-<sup>3</sup> Instead of ordering the execution of the sentence, the court may order another measure if it is to be expected that such a measure will reduce the risk of the offender committing further felonies and misdemeanours in which his condition is a factor.
+<sup>3</sup> Instead of ordering the execution of the sentence, the court may order another measure if it is to be expected that such a measure will reduce the risk of the offender committing further felonies and misdemeanours in which their condition is a factor.
 
-<sup>4</sup> If there is a serious expectation that if a measure ordered in respect of an offence in terms of Article 64 paragraph 1 is terminated, the offender will commit further such offences, the court may at the request of the executive authority order his indefinite incarceration.
+<sup>4</sup> If there is a serious expectation that if a measure ordered in respect of an offence in terms of Article 64 paragraph 1 is terminated, the offender will commit further such offences, the court may at the request of the executive authority order the offender’s indefinite incarceration.
 
 <sup>5</sup> If the competent authority regards an adult protection measure to be appropriate on the termination of the measure, it shall inform the adult protection authority of this.[^62c-1]
 
-<sup>6</sup> Furthermore, the court may terminate an in-patient therapeutic measure before or during its implementation and order another in-patient therapeutic measure in its place if it is expected that the new measure has a significantly better chance of reducing the risk of the offender committing further felonies and misdemeanours in which his condition is a factor.
+<sup>6</sup> Furthermore, the court may terminate an in-patient therapeutic measure before or during its implementation and order another in-patient therapeutic measure in its place if it is expected that the new measure has a significantly better chance of reducing the risk of the offender committing further felonies and misdemeanours in which their condition is a factor.
 
 [^62c-1]: Amended by Annex No 14 of the FA of 19 Dec. 2008 (Adult Protection, Law of Persons and Law of Children), in force since 1 Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
@@ -976,7 +976,7 @@ A measure is terminated, if:
 
 #### Art. 62d
 
-<sup>1</sup> The competent authority shall on request or *ex officio* consider whether and when the offender should be released on parole from the implementation of the measure or whether the measure should be terminated. It makes a decision on such matters at least once each year. It shall first grant a hearing to the offender and obtain a report from the governing body of the relevant institution.
+<sup>1</sup> The competent authority shall on request or *ex officio* consider whether and when the offender should be released on parole from the implementation of the measure or whether the measure should be terminated. It shall decide on such matters at least once each year. It shall first grant a hearing to the offender and obtain a report from the governing body of the relevant institution.
 
 <sup>2</sup> If the offender committed an offence in terms of Article 64 paragraph 1, the competent authority shall reach its decision on the basis of the expert opinion of an independent specialist and after hearing a committee comprising representatives of the prosecution services, the execution authorities and one or more psychiatrists. The specialists and psychiatrists concerned must not be those responsible for the treatment or care of the offender.
 
@@ -988,10 +988,10 @@ A measure is terminated, if:
 
 <sup>1</sup>
 
-If the offender is suffering from a serious mental disorder or if he is dependent on addictive substances or in any other way, the court may order that he receive out-patient rather than in-patient treatment if:
+If the offender is suffering from a serious mental disorder or if they are dependent on addictive substances or in any other way, the court may order that they receive out-patient rather than in-patient treatment if:
 
-- a. the offender commits an offence in which his condition is a factor; and
-- b. it is expected that the measure will reduce the risk of further offences being committed in which his condition is a factor.
+- a. the offender commits an offence in which their condition is a factor; and
+- b. it is expected that the measure will reduce the risk of further offences being committed in which the offender’s condition is a factor.
 
 <sup>2</sup> The court may defer the execution of an unsuspended custodial sentence imposed at the same time, a suspended custodial sentence due for execution following revocation of suspension and the remainder of a sentence due for execution following a recall to custody to give precedence to out-patient treatment in order to take account of the form of the treatment. It may order probation assistance and issue conduct orders for the duration the treatment.
 
@@ -1015,7 +1015,7 @@ The out-patient treatment is terminated by the competent authority if:
 
 <sup>3</sup> If the offender commits a further offence during the out-patient treatment and thus demonstrates that this form of treatment will probably be unsuccessful in averting the risk offences being committed in which the condition of the offender is a factor, the unsuccessful treatment shall be terminated by order of the court assessing the new offence.
 
-<sup>4</sup> If the offender fails to comply with the conditions of probation assistance or if he disregards the conduct orders, Article 95 paragraphs 3–5 applies.
+<sup>4</sup> If the offender fails to comply with the conditions of probation assistance or if they disregard the conduct orders, Article 95 paragraphs 3–5 applies.
 
 ### Execution of the suspended custodial sentence
 
@@ -1029,7 +1029,7 @@ The out-patient treatment is terminated by the competent authority if:
 
 <sup>4</sup> The court decides on the extent to which the deprivation of liberty associated with the out-patient treatment is taken into account in determining the custodial sentence. If the requirements for parole or a suspended custodial sentence apply in relation to the remainder of the sentence, execution of the sentence is suspended.
 
-<sup>5</sup> Instead of the execution of the sentence the court may order an in-patient therapeutic measure under Articles 59–61 if it is to be expected that this will reduce the risk of the offender committing further felonies or misdemeanours in which his condition is a factor.
+<sup>5</sup> Instead of the execution of the sentence the court may order an in-patient therapeutic measure under Articles 59–61 if it is to be expected that this will reduce the risk of the offender committing further felonies or misdemeanours in which their condition is a factor.
 
 ### 4. Indefinite incarceration
 
@@ -1039,9 +1039,9 @@ The out-patient treatment is terminated by the competent authority if:
 
 <sup>1</sup>
 
-The court shall order indefinite incarceration if the offender has committed murder, intentional homicide, serious assault, rape, robbery, hostage taking, arson, endangering life or another offence that carries a maximum sentence of five or more years by which he has caused or intended to cause serious detriment to the physical, psychological or sexual integrity of another person, and if:[^64-1]
+The court shall order indefinite incarceration if the offender has committed murder, intentional homicide, serious assault, rape, robbery, hostage taking, arson, endangering life or another offence that carries a maximum sentence of five or more years by which the offender has caused or intended to cause serious detriment to the physical, psychological or sexual integrity of another person, and if:[^64-1]
 
-- a. due to the personality traits of the offender, the circumstances of the offence and his general personal circumstances, it is seriously expected that he will commit further offences of the same type; or
+- a. due to the offender’s personality traits and general personal circumstances and the circumstances of the offence, it is seriously expected that they will commit further offences of the same type; or
 - b. due to a permanent or long-term mental disorder of considerable gravity that was a factor in the offence, it is seriously expected that the offender will commit further offences of the same type and the ordering of a measure in accordance with Article 59 does not promise any success.
 
 <sup>1bis</sup>
@@ -1068,15 +1068,15 @@ The court shall order lifelong incarceration if the offender has committed murde
 
 #### Art. 64a
 
-<sup>1</sup> The offender is released on parole from indefinite incarceration in accordance with Article 64 paragraph 1 as soon as it is expected that he will be of good behaviour when at liberty.[^64a-1] The probationary period amounts to two to five years. For the duration of the probationary period, probation assistance may be ordered and conduct orders may be imposed.
+<sup>1</sup> The offender shall be released on parole from indefinite incarceration in accordance with Article 64 paragraph 1 as soon as it is expected that they will be of good behaviour when at liberty.[^64a-1] The probationary period amounts to two to five years. For the duration of the probationary period, probation assistance may be ordered and conduct orders may be imposed.
 
 <sup>2</sup> If on expiry of the probationary period a continuation of the probation assistance or the conduct orders is considered to be necessary in order to reduce the risk of further offences in terms of Article 64 paragraph 1, the court may at the request of the executive authority extend the probationary period by a further two to five years.
 
-<sup>3</sup> If due to his conduct during the probationary period, it is seriously expected that the offender may commit further offences in terms of Article 64 paragraph 1, the court at the request of the executive authority shall order his recall to custody.
+<sup>3</sup> If due to the offender’s conduct during the probationary period, it is seriously expected that the offender may commit further offences in terms of Article 64 paragraph 1, the court at the request of the executive authority shall order their recall to custody.
 
 <sup>4</sup> If the offender when released on parole fails to comply with the conditions of probation assistance or disregards the conduct orders, Article 95 paragraphs 3–5 applies.
 
-<sup>5</sup> If the offender when released on parole is of good behaviour until the expiry of the probationary period, he is granted final release.
+<sup>5</sup> If the offender when released on parole is of good behaviour until the expiry of the probationary period, they shall be granted final release.
 
 [^64a-1]: Amended by No I of the FA of 21 Dec. 2007 (Indefinite Incarceration of Extremely Dangerous Offenders), in force since 1 Aug. 2008 ([AS 2008 2961](https://fedlex.data.admin.ch/eli/oc/2008/413)2964; [BBl 2006 889](https://fedlex.data.admin.ch/eli/fga/2006/104)).
 
@@ -1110,15 +1110,15 @@ The competent authority makes its decisions in terms of paragraph 1 based on:
 
 [^64c-1]
 
-<sup>1</sup> In cases of lifelong incarceration under Article 64 paragraph 1<sup>bis</sup> the competent authority shall consider *ex officio* or on application whether there are any new scientific findings that lead to the expectation that the offender can be treated so that he will no longer pose a risk to the public. It decides on the basis of a report from the Federal Commission for the Assessment of the Treatability of Offenders subject to Lifelong Incarceration.
+<sup>1</sup> In cases of lifelong incarceration under Article 64 paragraph 1<sup>bis</sup> the competent authority shall consider *ex officio* or on application whether there are any new scientific findings that lead to the expectation that the offender can be treated so that they will no longer pose a risk to the public. It decides on the basis of a report from the Federal Commission for the Assessment of the Treatability of Offenders subject to Lifelong Incarceration.
 
-<sup>2</sup> If the competent authority concludes that the offender can be treated, it shall offer him the option of treatment. Treatment is carried out in a secure institution. Until the order imposing lifelong incarceration has been revoked in accordance with paragraph 3, the provisions on the execution of lifelong incarceration continue to apply.
+<sup>2</sup> If the competent authority concludes that the offender can be treated, it shall offer them the option of treatment. Treatment is carried out in a secure institution. Until the order imposing lifelong incarceration has been revoked in accordance with paragraph 3, the provisions on the execution of lifelong incarceration continue to apply.
 
-<sup>3</sup> If the treatment demonstrates that the risk posed by the offender has been considerably reduced and may be reduced to the extent that he no longer poses a risk to the public, the court shall revoke the order imposing lifelong incarceration and order an in-patient therapeutic measure in accordance with Articles 59–61 in a secure institution.
+<sup>3</sup> If the treatment demonstrates that the risk posed by the offender has been considerably reduced and may be reduced to the extent that they no longer pose a risk to the public, the court shall revoke the order imposing lifelong incarceration and order an in-patient therapeutic measure in accordance with Articles 59–61 in a secure institution.
 
-<sup>4</sup> The court may grant the offender parole from lifelong incarceration if he no longer poses a risk to the public due to old age, serious illness or on other grounds. Parole is governed by Article 64*a*.
+<sup>4</sup> The court may grant the offender parole from lifelong incarceration if they no longer pose a risk to the public due to old age, serious illness or on other grounds. Parole is governed by Article 64*a*.
 
-<sup>5</sup> The court that ordered lifelong incarceration is responsible for deciding whether parole should be granted. It bases its decision on reports from at least two experienced specialists who are independent of each other and who have neither treated the offender nor been responsible in any other way for his care.
+<sup>5</sup> The court that ordered lifelong incarceration is responsible for deciding whether parole should be granted. It bases its decision on reports from at least two experienced specialists who are independent of each other and who have neither treated the offender nor been responsible in any other way for their care.
 
 <sup>6</sup> Paragraphs 1 and 2 also apply during the execution of the custodial sentence that precedes lifelong incarceration. Lifelong incarceration shall be revoked in accordance with paragraph 3 at the earliest when the offender has served two thirds of a specific custodial sentence or 15 years of a life sentence.
 
@@ -1133,7 +1133,7 @@ The competent authority makes its decisions in terms of paragraph 1 based on:
 <sup>2</sup> If during the execution of the custodial sentence, new information or evidence comes to light to the effect that the requirements for indefinite incarceration are fulfilled and already applied at the time of conviction although the court could not have had knowledge of this, the court may order indefinite incarceration retrospectively. Jurisdiction and procedure are determined by the rules that apply to a review (Arts 410−415 Criminal Procedure Code[^65-2]).[^65-3] [^65-4]
 
 [^65-1]: Amended by No I of the FA of 21 Dec. 2007 (Indefinite Incarceration of Extremely Dangerous Offenders), in force since 1 Aug. 2008 ([AS 2008 2961](https://fedlex.data.admin.ch/eli/oc/2008/413)2964; [BBl 2006 889](https://fedlex.data.admin.ch/eli/fga/2006/104)).
-[^65-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^65-2]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 [^65-3]: Second sentence amended by Annex 1 No 4 of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 [^65-4]: Inserted by No I of the FA of 24 March 2006 (Revision of the Law on Sanctions and the Register of Convictions), in force since 1 Jan. 2007 ([AS 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550)3544; [BBl 2005 4689](https://fedlex.data.admin.ch/eli/fga/2005/735)).
 
@@ -1143,9 +1143,9 @@ The competent authority makes its decisions in terms of paragraph 1 based on:
 
 #### Art. 66
 
-<sup>1</sup> If there is the risk that a person will commit a felony or misdemeanour that he has threatened to commit, or if a person convicted of a felony or of a misdemeanour indicates the clear intention to repeat the offence, the court may, at the request of the person threatened, obtain a promise from the offender that he will not commit the offence and require him to deposit appropriate security therefor.
+<sup>1</sup> If there is the risk that a person will commit a felony or misdemeanour that they have threatened to commit, or if a person convicted of a felony or of a misdemeanour indicates the clear intention to repeat the offence, the court may, at the request of the person threatened, obtain a promise from the offender that they will not commit the offence and require them to deposit appropriate security therefor.
 
-<sup>2</sup> If he refuses to make the promise, or fails to deposit the security within the specified period, the court may require him to make the promise or deposit the security by imposing a period of detention for security reasons. The period of detention for security reasons may not be for more than two months. It is executed in the same way as a short custodial sentence (Art. 79[^66-1]).
+<sup>2</sup> If the offender refuses to make the promise or fails to deposit the security within the specified period, the court may require them to make the promise or deposit the security by imposing a period of detention for security reasons. The period of detention for security reasons may not be for more than two months. It is executed in the same way as a short custodial sentence (Art. 79[^66-1]).
 
 <sup>3</sup> If the offender commits the felony or the misdemeanour within two years of depositing the security, the security is forfeited to the State. If no offence is committed, the security is returned.
 
@@ -1168,7 +1168,7 @@ The court shall expel foreign nationals from Switzerland for a period of 5–15 
 - c.[^66a-3] aggravated misappropriation (Art. 138 no 2), aggravated theft (Art. 139 no 3), robbery (Art. 140), fraud for commercial gain (Art. 146 para. 2), computer fraud for commercial gain (Art. 147 para. 2), misuse of a cheque card or credit card for commercial gain (Art. 148 para. 2), aggravated extortion (Art. 156 para. 2–4), profiteering for commercial gain (Art. 157 no 2), handling stolen goods for commercial gain (Art. 160 no 2);
 - d. theft (Art. 139) in conjunction with unlawful entry (Art. 186);
 - e. fraud (Art. 146 para. 1) related to social insurance or social assistance, unlawful claims for social insurance or social assistance benefits (Art. 148*a* para. 1);
-- f.[^66a-4] fraud (Art. 146 para. 1), fraud in relation to administrative services and charges (Art. 14 para. 1–3 of the Federal Act of 22 March 1974[^66a-5] on Administrative Criminal Law) or tax fraud, misappropriation of taxes deducted at source or any other offence related to public charges that carries a maximum penalty of a one-year custodial sentence or more;
+- f.[^66a-4] fraud (Art. 146 para. 1), fraud in relation to administrative services and charges (Art. 14 para. 1–3 of the Federal Act of 22 March 1974[^66a-5] on Administrative Criminal Law) or tax fraud, misappropriation of taxes deducted at source, or any other offence related to public charges that carries a maximum penalty of a one-year custodial sentence or more;
 - g. forced marriage, forced registered partnership (Art. 181*a*), trafficking in human beings (Art. 182), false imprisonment and abduction (Art. 183), aggravated false imprisonment and abduction (Art. 184), hostage taking (Art. 185);
 - h.[^66a-6] sexual acts with children (Art. 187 nos 1 and 1<sup>bis</sup>), sexual acts with dependent persons (Art. 188), indecent assault (Art. 189 paras 2 and 3), rape (Art. 190), sexual acts with persons incapable of proper judgement or resistance (Art. 191), exploitation of a person in a position of need or of dependency (Art. 193), deception as to the sexual character of an act (Art. 193*a*), encouraging prostitution (Art. 195), pornography (Art. 197 para. 4 second sentence);
 - i.[^66a-7] arson (Art. 221 para. 1 and 2), wilfully causing an explosion (Art. 223 para. 1 no 1), misuse of explosives and toxic gases with criminal intent (Art. 224 para. 1), wilfully causing danger without criminal intent (Art. 225 para. 1), manufacture, concealment and transport of explosives and toxic gases (Art. 226), causing danger by means of nuclear energy, radioactivity and ionising radiation (Art. 226<sup>bis</sup>), preparatory offences (Art. 226<sup>ter</sup>), wilfully causing a flood or collapse (Art. 227 para. 1 no 1), criminal damage to electrical installations, and hydraulic or protective structures (Art. 228 no 1 para. 1), breach of construction regulations (Art. 229 para. 1), removal or non-installation of safety devices (Art. 230 Ziff. 1);
@@ -1177,7 +1177,7 @@ The court shall expel foreign nationals from Switzerland for a period of 5–15 
 - l.[^66a-10] acts preparatory to the commission of an offence (Art. 260<sup>bis</sup> para. 1 and 3), participation in or support for a criminal or terrorist organisation (Art. 260<sup>ter</sup>), endangering public safety with weapons (Art. 260<sup>quater</sup>), financing terrorism (Art. 260<sup>quinquies</sup>) or recruiting, training and travelling with a view to committing a terrorist offence (Art. 260<sup>sexies</sup>);
 - m.<sup>.</sup> genocide (Art. 264), felonies against humanity (Art. 264*a*), serious violations of the Geneva Conventions of 12 August 1949[^66a-11] (Art. 264*c*), other war crimes (Art. 264*d*–264*h*);
 - n. wilful violations of Article 116 paragraph 3 or Article 118 paragraph 3 of the Foreign Nationals Act of 16 December 2005[^66a-12];
-- o. violation of Article 19 paragraph 2 or 20 paragraph 2 of the Narcotics Act of 3 October 1951[^66a-13] (NarcA);
+- o. violation of Articles 19 paragraph 2 or 20 paragraph 2 of the Narcotics Act of 3 October 1951[^66a-13] (NarcA);
 - p.[^66a-14] violation of Article 74 paragraph 4 of the Intelligence Service Act of 25 September 2015[^66a-15] (IntelSA).
 
 <sup>2</sup> The court may by way of exception refrain from ordering expulsion if it would cause serious personal hardship to the foreign national concerned and the public interest in expulsion does not outweigh the private interest of the foreign national in remaining in Switzerland. In such cases, account must be taken of the special position of foreign nationals who were born or have grown up in Switzerland.
@@ -1188,17 +1188,17 @@ The court shall expel foreign nationals from Switzerland for a period of 5–15 
 [^66a-2]: Amended by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^66a-3]: Amended by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^66a-4]: Amended by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^66a-5]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^66a-5]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^66a-6]: Amended by No I 1 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, in force since 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^66a-7]: Amended by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^66a-8]: Amended by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^66a-9]: Amended by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^66a-10]: Amended by Annex No II 2 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^66a-11]: [SR 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180), [0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205), [0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226), [0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
-[^66a-12]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^66a-13]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^66a-11]: [SR 0.518.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1960), [0.518.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1964), [0.518.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1966), [0.518.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1967)
+[^66a-12]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^66a-13]: [SR 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
 [^66a-14]: Inserted by Annex No II 2 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^66a-15]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^66a-15]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 
 ### b. Non-mandatory expulsion
 
@@ -1206,7 +1206,7 @@ The court shall expel foreign nationals from Switzerland for a period of 5–15 
 
 [^66abis-1]
 
-The court may expel a foreign national from Switzerland for 3–15 years if he is convicted and sentenced or made subject to a measure under Articles 59–61 or 64 for a felony or misdemeanour that is not listed in Article 66*a*.
+The court may expel a foreign national from Switzerland for 3–15 years if that person is convicted and sentenced or made subject to a measure under Articles 59–61 or 64 for a felony or misdemeanour that is not listed in Article 66*a*.
 
 [^66abis-1]: Inserted by No I 1 of the FA of 20 March 2015 (Implementation of Art. 121 para. 3–6 Federal Constitution on the expulsion of foreign nationals convicted of certain criminal offences), in force since 1 Oct. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
 
@@ -1234,7 +1234,7 @@ The court may expel a foreign national from Switzerland for 3–15 years if he i
 
 <sup>3</sup> The expulsion order is enforced as soon as the offender is conditionally or finally released from the execution of criminal penalties or measures or the custodial measure is revoked, provided that the remainder of sentence need not be executed and no other such measure has been ordered.
 
-<sup>4</sup> If a person subject to an expulsion order is transferred to his home country for the execution of criminal penalties or measures, the expulsion order applies on such transfer.
+<sup>4</sup> If a person subject to an expulsion order is transferred to their home country for the execution of criminal penalties or measures, the expulsion order applies on such transfer.
 
 <sup>5</sup> The duration of expulsion is calculated from the day on which the offender leaves Switzerland.
 
@@ -1250,14 +1250,14 @@ The court may expel a foreign national from Switzerland for 3–15 years if he i
 
 The enforcement of a mandatory expulsion order under Article 66*a* may only be deferred if:[^66d-2]
 
-- a. the person concerned is recognised by Switzerland as a refugee and, if expelled, his life or his freedom would be endangered due to his race, religion, nationality, affiliation to a specific social group or his political views; the foregoing does not apply to a refugee who may not invoke the ban on refoulement under Article 5 paragraph 2 of the Asylum Act of 26 June 1998[^66d-3];
+- a. the person concerned is recognised by Switzerland as a refugee and, if expelled, their life or freedom would be endangered due to their race, religion, nationality, affiliation to a specific social group or their political views; the foregoing does not apply to a refugee who may not invoke the ban on refoulement under Article 5 paragraph 2 of the Asylum Act of 26 June 1998[^66d-3];
 - b. expulsion would violate other mandatory provisions of international law.
 
-<sup>2</sup> In reaching its decision, the competent cantonal authority must assume that expulsion to a state deemed safe by the Federal Council in accordance with Article 6*a* paragraph 2 of the Asylum Act of 26 June 1998 does not violate Article 25 paragraphs 2 and 3 of the Federal Constitution.
+<sup>2</sup> In reaching its decision, the competent cantonal authority must reasonably believe that expulsion to a state deemed safe by the Federal Council in accordance with Article 6*a* paragraph 2 of the Asylum Act of 26 June 1998 does not violate Article 25 paragraphs 2 and 3 of the Federal Constitution.
 
 [^66d-1]: Inserted by No I 1 of the FA of 20 March 2015 (Implementation of Art. 121 para. 3–6 Federal Constitution on the expulsion of foreign nationals convicted of certain criminal offences), in force since 1 Oct. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
 [^66d-2]: The correction of 21 June 2017, published on 11 July 2017 relates to the French text only ([AS 2017 3695](https://fedlex.data.admin.ch/eli/oc/2017/423)).
-[^66d-3]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^66d-3]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 ### 2. Prohibition from carrying on an activity, contact prohibition and exclusion order
 
@@ -1267,15 +1267,15 @@ The enforcement of a mandatory expulsion order under Article 66*a* may only be d
 
 [^67-1]
 
-<sup>1</sup> If a person has committed a felony or misdemeanour while carrying on a professional activity or an organised non-professional activity, and has as a result received a custodial sentence in excess of six months, and if there is a risk that he will abuse his activity in order to commit a further felony or misdemeanour, the court may prohibit him totally or partially from carrying on this activity or comparable activities for a period of six months to five years.[^67-2]
+<sup>1</sup> If a person has committed a felony or misdemeanour while carrying on a professional activity or an organised non-professional activity, and has as a result received a custodial sentence in excess of six months, and if there is a risk that they will exploit their activity in order to commit a further felony or misdemeanour, the court may prohibit the person concerned totally or partially from carrying on this activity or comparable activities for a period of six months to five years.[^67-2]
 
-<sup>2</sup> If a person has committed a felony or misdemeanour against a minor or another especially vulnerable person and if there is a risk that in carrying on a professional activity or an organised non-professional activity that involves regular contact with any minors or with other especially vulnerable persons he will commit further offences of this nature, the court may prohibit him from carrying on the activity concerned for one to ten years.
+<sup>2</sup> If a person has committed a felony or misdemeanour against a minor or another especially vulnerable person and if there is a risk that in carrying on a professional activity or an organised non-professional activity that involves regular contact with any minors or with other especially vulnerable persons the person will commit further offences of this nature, the court may prohibit them from carrying on the activity concerned for one to ten years.
 
 <sup>2bis</sup> The court may impose a lifelong prohibition order under paragraph 2 if is anticipated that the offender will still represent a danger after the period of ten years. At the request of the executive authority, it may extend a prohibition order that is limited in time in terms of paragraph 2 by a maximum of five years on any one occasion if this is deemed necessary to prevent the offender from committing further felonies and misdemeanours of the type that led to the prohibition order.[^67-3]
 
 <sup>3</sup>
 
-If a person receives a sentence or is made subject to a measure under Articles 59–61, 63 or 64 for any of the following offences, the court shall prohibit him for the rest of his life from carrying on any professional activity or organised non-professional activity that involves regular contact with any minors:
+If a person receives a sentence or is made subject to a measure under Articles 59–61, 63 or 64 for any of the following offences, the court shall prohibit that person for the rest of their life from carrying on any professional activity or organised non-professional activity that involves regular contact with any minors:
 
 - a. trafficking in human beings (Art. 182) where the offence was committed for the purpose of the sexual exploitation of a minor;
 - b. sexual acts with children (Art. 187), sexual acts with dependent persons (Art. 188) or sexual acts with minors against payment (Art. 196);
@@ -1289,7 +1289,7 @@ If a person receives a sentence or is made subject to a measure under Articles 5
 
 <sup>4</sup>
 
-If a person receives a sentence or is made subject to a measure under Articles 59–61, 63 or 64 for any of the following offences, the court shall prohibit him from carrying on any professional activity or organised non-professional activity that involves regular contact with especially vulnerable adult persons, as well as any professional activity or organised non-professional activity in the health sector that involves direct contact with patients:
+If a person receives a sentence or is made subject to a measure under Articles 59–61, 63 or 64 for any of the following offences, the court shall prohibit them from carrying on any professional activity or organised non-professional activity that involves regular contact with especially vulnerable adult persons, as well as any professional activity or organised non-professional activity in the health sector that involves direct contact with patients:
 
 - a.
 
@@ -1316,7 +1316,7 @@ By way of exception, the court may choose not to impose a prohibition order unde
 
 <sup>6</sup> The court may order probation assistance for the duration of the prohibition orders.[^67-11]
 
-<sup>7</sup> ...[^67-12]
+<sup>7</sup> …[^67-12]
 
 [^67-1]: Amended by No I 1 of the FA of 13 Dec. 2013 on Activity Prohibition Orders and Contact Prohibition and Exclusion Orders, in force since 1 Jan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 [^67-2]: Amended by No I 1 of the FA of 19 June 2015 (Amendments to the Law of Criminal Sanctions), in force since 1 Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
@@ -1339,9 +1339,9 @@ By way of exception, the court may choose not to impose a prohibition order unde
 
 <sup>1</sup> Professional activities within the meaning of Article 67 are activities in exercise of a principal or secondary profession or trade or of a commercial enterprise. Organised non-professional activities are activities that are not or not primarily carried on for pecuniary gain and which are carried on in the context of an association or other organisation.
 
-<sup>2</sup> The prohibition from carrying on an activity under Article 67 includes activities that the offender carries on on a self-employed basis, as a governing officer of a legal entity or commercial enterprise or in another capacity that must be recorded in the commercial register, or as the agent or representative of another person or which he arranges to be carried on by a person dependent on his instructions.[^67a-2]
+<sup>2</sup> The prohibition from carrying on an activity under Article 67 includes activities that the offender carries on on a self-employed basis, as a governing officer of a legal entity or commercial enterprise or in another capacity that must be recorded in the commercial register, or as the agent or representative of another person or which the offender arranges to be carried on by a person dependent on their instructions.[^67a-2]
 
-<sup>3</sup> If there is a risk that the offender will also misuse his activity in order to commit offences if he is subject to the orders and control of a superior or supervisor, he shall be totally prohibited from carrying on the activity.
+<sup>3</sup> If there is a risk that the offender will also exploit their activity in order to commit offences if they are subject to the orders and control of a superior or supervisor, the offender shall be totally prohibited from carrying on the activity.
 
 <sup>4</sup> Prohibition orders under Article 67 paragraphs 3 and 4 always apply to the entire activity.
 
@@ -1378,7 +1378,7 @@ The following are deemed to be activities with regular contact with minors or wi
 
 [^67b-1]
 
-<sup>1</sup> If a person has committed a felony or misdemeanour against one or more specific persons or against persons in a specific group, and if there is a risk that he will commit further felonies or misdemeanours in the event of having contact with such persons, the court may impose a contact prohibition and exclusion order of up to five years.
+<sup>1</sup> If a person has committed a felony or misdemeanour against one or more specific persons or against persons in a specific group, and if there is a risk that the person concerned will commit further felonies or misdemeanours in the event of having contact with such persons, the court may impose a contact prohibition and exclusion order of up to five years.
 
 <sup>2</sup>
 
@@ -1418,14 +1418,14 @@ The offender may apply to the competent authority for a modification of the cond
 
 - a. in the case of a prohibition order under Article 67 paragraph 1 or under Article 67*b*: after the order has been in force for two years;
 - b. in the case of a limited prohibition order under Article 67 paragraph 2: after half of the term of the prohibition order, provided the order has been in force for at least three years;
-- c.[^67c-2] ...
+- c.[^67c-2] …
 - d.[^67c-3] in the case of a lifelong prohibition order under Article 67 paragraph 2<sup>bis</sup>: after the order has been in force for ten years.
 
 <sup>6</sup> If it is considered unlikely that the offender will commit any further felonies or misdemeanours by misusing an activity or by having contact with specific persons of a specific group to and the offender has provided reasonable compensation for the loss, damage or injury caused, the competent authority shall revoke the prohibition order in cases falling under paragraph 4 or 5.
 
 <sup>6bis</sup> Prohibition orders under Article 67 paragraphs 3 or 4 may not revoked.[^67c-4]
 
-<sup>7</sup> If the offender breaches an activity prohibition order or a contact prohibition and exclusion order or if he fails to comply with the associated probation assistance, or if such assistance cannot be provided or is no longer required, the competent authority shall submit a report to the court or the executive authority. The court or the executive authority may revoke or make a new order for probation assistance.
+<sup>7</sup> If the offender breaches an activity prohibition order or a contact prohibition and exclusion order or if they fail to comply with the associated probation assistance, or if such assistance cannot be provided or is no longer required, the competent authority shall submit a report to the court or the executive authority. The court or the executive authority may revoke or make a new order for probation assistance.
 
 <sup>7bis</sup> The executive authority may order probation assistance for the entire duration of the prohibition from carrying on an activity or the contact and exclusion order.[^67c-5]
 
@@ -1457,7 +1457,7 @@ The offender may apply to the competent authority for a modification of the cond
 
 [^67e-1]
 
-If the offender has used a motor vehicle in order to commit a felony or misdemeanour and where there is a risk of re-offending, the court, in addition to imposing a sentence or measure under Articles 59–64, may order that the offender forfeit his provisional or full driving licence for a period of between one month and five years.
+If the offender has used a motor vehicle in order to commit a felony or misdemeanour and where there is a risk of re-offending, the court, in addition to imposing a sentence or measure under Articles 59–64, may order that the offender forfeit their provisional or full driving licence for a period of between one month and five years.
 
 [^67e-1]: Originally: Art. 67*b*.
 
@@ -1497,7 +1497,7 @@ If the offender has used a motor vehicle in order to commit a felony or misdemea
 
 <sup>1</sup> The court shall order the forfeiture of assets that have been acquired through the commission of an offence or that are intended to be used in the commission of an offence or as payment therefor, unless the assets are passed on to the person harmed for the purpose of restoring the prior lawful position.
 
-<sup>2</sup> Forfeiture is not permitted if a third party has acquired the assets in ignorance of the grounds for forfeiture, provided he has paid a consideration of equal value therefor or forfeiture would cause him to endure disproportionate hardship.
+<sup>2</sup> Forfeiture is not permitted if a third party has acquired the assets in ignorance of the grounds for forfeiture, provided they have paid a consideration of equal value therefor or forfeiture would cause them to endure disproportionate hardship.
 
 <sup>3</sup> The right to order forfeiture is limited to seven years; if, however, the prosecution of the offence is subject to a longer limitation period, this period also applies to the right to order forfeiture.
 
@@ -1509,7 +1509,7 @@ If the offender has used a motor vehicle in order to commit a felony or misdemea
 
 #### Art. 71
 
-<sup>1</sup> If the assets subject to forfeiture are no longer available, the court may uphold a claim for compensation by the State in respect of a sum of equivalent value, which claim may be enforced against a third party only if he is not excluded by Article 70 paragraph 2.
+<sup>1</sup> If the assets subject to forfeiture are no longer available, the court may uphold a claim for compensation by the State in respect of a sum of equivalent value, which claim may be enforced against a third party only if this is not excluded by Article 70 paragraph 2.
 
 <sup>2</sup> The court may dismiss an equivalent claim in its entirety or in part if the claim is likely to be unrecoverable or if the claim would seriously hinder the rehabilitation of the person concerned.
 
@@ -1533,14 +1533,14 @@ The court shall order the forfeiture of all assets that are subject to the power
 
 <sup>1</sup>
 
-If as a result of a felony or misdemeanour a person has suffered harm and is not entitled to benefits under an insurance policy, and if it is anticipated that the offender will not pay damages or satisfaction, the court shall award the person harmed, at his request, a sum of money up to the amount of damages or satisfaction set by a court or agreed in a settlement with the person harmed and obtained from:
+If as a result of a felony or misdemeanour a person has suffered harm and is not entitled to benefits under an insurance policy, and if it is anticipated that the offender will not pay damages or satisfaction, the court shall award the person harmed, at that person’s request, a sum of money up to the amount of damages or satisfaction set by a court or agreed in a settlement with the person harmed and obtained from:
 
 - a. the monetary penalty or fine paid by the offender;
 - b. objects and assets that have been forfeited, or the proceeds of their sale after deduction of expenses;
 - c. compensatory claims;
 - d. the amount of the good behaviour bond.
 
-<sup>2</sup> The court may order such an award only if the person harmed assigns the corresponding element of his claim to the State.
+<sup>2</sup> The court may order such an award only if the person harmed assigns the corresponding element of their claim to the State.
 
 <sup>3</sup> The cantons shall provide a simple and quick procedure for cases where their courts are not entitled to make an award of this nature in a criminal judgment.
 
@@ -1560,7 +1560,7 @@ The human dignity of the prison inmates or of the inmates of an institution for 
 
 <sup>1</sup> The execution of sentences must encourage an improvement in the social behaviour of the prison inmates, and in particular their ability to live their lives without offending again. The conditions under which sentences are executed must correspond as far as possible with those of normal life, guarantee the supervision of the prison inmates, counteract the harmful consequences of the deprivation of liberty and take appropriate account of the need to protect the general public, the institution staff and other inmates.
 
-<sup>2</sup> ...[^75-1]
+<sup>2</sup> …[^75-1]
 
 <sup>3</sup> The institution rules shall provide that a sentence management plan be drawn up in consultation with the prison inmate. This plan in particular contains details of the supervision offered, the opportunities to work and receive basic or advanced training, making reparation, relations with the outside world and preparations for release.
 
@@ -1570,10 +1570,10 @@ The human dignity of the prison inmates or of the inmates of an institution for 
 
 <sup>6</sup>
 
-If the prison inmate is released on parole or granted final release and it subsequently comes to light that on his release he was subject to another executable judgment imposing a custodial sentence, execution of that custodial sentence is waived if:
+If the prison inmate is released on parole or granted final release and it subsequently comes to light that on their release, they were subject to another executable judgment imposing a custodial sentence, execution of that custodial sentence is waived if:
 
 - a. it was not executed concurrently with the other custodial sentence for a reason within the control of the executive authorities;
-- b. the prison inmate was able to assume in good faith that on his release he was not subject to another executable judgment imposing a custodial sentence; and
+- b. the prison inmate was able to assume in good faith that on their release they were not subject to another executable judgment imposing a custodial sentence; and
 - c. the reintegration of the prison inmates would be prejudiced.
 
 [^75-1]: Repealed by Annex 1 No II 8 of the Criminal Procedure Code of 5 Oct. 2007, with effect from 1 Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
@@ -1588,8 +1588,8 @@ If the prison inmate is released on parole or granted final release and it subse
 
 The Commission under Article 62*d* paragraph 2 shall with a view to a transfer to an open penal institution and the authorisation of a relaxation in the execution of the sentence assess the danger to the community of the offender if:
 
-- a. he has committed a felony in terms of Article 64 paragraph 1; and
-- b. the executive authority cannot satisfactorily answer the question of whether he is a danger to other prison inmates.
+- a. they have committed a felony in terms of Article 64 paragraph 1; and
+- b. the executive authority cannot satisfactorily answer the question of whether they are a danger to other prison inmates.
 
 <sup>2</sup> Relaxation of the execution of the sentence involves easing the regime for the deprivation of liberty, in particular by means of a transfer to an open institution, the granting of release on temporary licence, the authorisation of day release employment or of external accommodation and the granting of parole.
 
@@ -1603,23 +1603,23 @@ The Commission under Article 62*d* paragraph 2 shall with a view to a transfer t
 
 <sup>1</sup> Custodial sentences are executed in a secure or open penal institution.
 
-<sup>2</sup> The prison inmate shall be admitted to a secure penal institution or to the secure section of an open penal institution if there is a risk that that he will abscond or it is expected that he will commit further offences.
+<sup>2</sup> Prison inmates shall be admitted to a secure penal institution or to the secure section of an open penal institution if there is a risk that that they will abscond, or it is expected that they will commit further offences.
 
 ### Normal execution
 
 #### Art. 77
 
-The prison inmate normally spends his working, rest and leisure time in the institution.
+Prison inmates normally spend their working, rest and leisure time in the institution.
 
 ### Day release employment and external accommodation
 
 #### Art. 77a
 
-<sup>1</sup> The custodial sentence is executed in the form of day release employment if the prison inmate has served part of the custodial sentence, normally a minimum one half, and it is not expected that he will abscond or commit further offences.
+<sup>1</sup> The custodial sentence is executed in the form of day release employment if the prison inmate has served part of the custodial sentence, normally a minimum one half, and it is not expected that they will abscond or commit further offences.
 
-<sup>2</sup> In day release employment, the prison inmate works outside the institution and spends his rest and leisure time in the institution. The change to day release employment normally takes place following an appropriate period spent in an open institution or the open section of a secure institution. Work outside the institution may also include housework and caring for children.
+<sup>2</sup> In day release employment, prison inmates work outside the institution and spends their rest and leisure time in the institution. The change to day release employment normally takes place following an appropriate period spent in an open institution or the open section of a secure institution. Work outside the institution may also include housework and caring for children.
 
-<sup>3</sup> If the prison inmate proves himself to be of good behaviour in day release employment, the further execution of the sentence takes the form of external accommodation and day release employment. Here the prison inmate lives and works outside the institution, but remains under the supervision of the executive authority.
+<sup>3</sup> Where prison inmates prove to be of good behaviour in day release employment, the further execution of the sentence takes the form of external accommodation and day release employment. Here the prison inmates live and work outside the institution but remain under the supervision of the executive authority.
 
 ### Semi-detention
 
@@ -1634,11 +1634,11 @@ At the offender’s request, a custodial sentence of no more than 12 months or t
 - a. it is not anticipated that the offender will abscond or commit further offences; and
 - b. the offender does regulated work or training or is similarly occupied for at least 20 hours a week.
 
-<sup>2</sup> The prison inmate works, is trained or similarly occupied outside the institution and spends his rest and leisure time in the institution.
+<sup>2</sup> Prison inmates shall work, be trained or similarly occupied outside the institution and spend their rest and leisure time in the institution.
 
 <sup>3</sup> Semi-detention may be served in a special section of a remand centre provided the offender is guaranteed the required supervision.
 
-<sup>4</sup> If the offender no longer meets the authorisation requirements or if he fails to comply with the conditions of semi-detention imposed by the executive authority despite being warned to do so, the custodial sentence shall be served in the normal manner.
+<sup>4</sup> If the offender no longer meets the authorisation requirements or if they fail to comply with the conditions of semi-detention imposed by the executive authority despite being warned to do so, the custodial sentence shall be served in the normal manner.
 
 [^77b-1]: Amended by No I 1 of the FA of 19 June 2015 (Amendments to the Law of Criminal Sanctions), in force since 1 Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
@@ -1732,48 +1732,48 @@ A departure from the rules governing the execution of sentences in favour of the
 
 #### Art. 81
 
-<sup>1</sup> The prison inmate is obliged to work. Wherever possible, the work should be appropriate to his skills, education and training and his interests.
+<sup>1</sup> Prison inmates are obliged to work. Wherever possible, the work should be appropriate to their skills, education and training and their interests.
 
-<sup>2</sup> If he consents to do so, the prison inmate may work for a private employer.
+<sup>2</sup> If they consent to do so, prison inmates may work for a private employer.
 
 ### Basic and advanced training
 
 #### Art. 82
 
-Where he shows the required aptitude and the possibility exists, the prison inmate is given the opportunity to undergo basic and advanced training appropriate to his skills.
+Where they show the required aptitude and the possibility exists, prison inmates shall be given the opportunity to undergo basic and advanced training appropriate to their skills.
 
 ### Wages
 
 #### Art. 83
 
-<sup>1</sup> The prison inmate receives a wage for his work based on his performance and according to the circumstances.
+<sup>1</sup> Prison inmates shall receive a wage for their work based on their performance and according to the circumstances.
 
-<sup>2</sup> The prison inmate may freely dispose of only part of his wage while serving his sentence. The remaining part is withheld until the inmate has been released. The wage may neither be pledged, seized nor included in an insolvent estate. Any assignment or pledge of the wage is null and void.
+<sup>2</sup> Prison inmate may freely dispose of only part of their wage while serving their sentences. The remaining part is withheld until they have been released. The wage may neither be pledged, seized nor included in an insolvent estate. Any assignment or pledge of the wage is null and void.
 
-<sup>3</sup> If the prison inmate participates in basic or advanced training instead of work in accordance with his sentence management plan, he receives appropriate remuneration.
+<sup>3</sup> If prison inmates participate in basic or advanced training instead of work in accordance with their sentence management plan, they shall receive appropriate remuneration.
 
 ### Relations with the outside world
 
 #### Art. 84
 
-<sup>1</sup> The prison inmate has the right to receive visitors and to cultivate contacts with persons outside the institution. Contact with close relatives and friends shall be facilitated.
+<sup>1</sup> Prison inmates have the right to receive visitors and to cultivate contacts with persons outside the institution. Contact with close relatives and friends shall be facilitated.
 
 <sup>2</sup> Contact may be monitored and for the preservation of order and security in the penal institution it may be restricted or prohibited. The monitoring of visits is not permitted without the knowledge of those concerned. The foregoing does not apply to procedural measures in order to secure evidence for the purposes of a prosecution.
 
-<sup>3</sup> Clerics, doctors, attorneys, notaries and guardians as well as persons with comparable duties may be permitted to communicate freely with the prison inmates subject to the general institution rules.
+<sup>3</sup> Clerics, doctors, attorneys, notaries and guardians as well as persons with comparable duties may be permitted to communicate freely with prison inmates subject to the general institution rules.
 
 <sup>4</sup> Contact with defence attorneys must be permitted. Visits from the defence attorney may be supervised but conversations may not be listened in on. Inspecting the content of correspondence and attorneys' documents is not permitted. Contact with attorneys may be prohibited by the competent authority in the event of abuse.
 
 <sup>5</sup> Communications with the supervisory authorities may not be monitored.
 
-<sup>6</sup> The prison inmate shall be granted release on temporary licence to an appropriate extent in order to cultivate relations with the outside world, prepare for his release or where there are special circumstances, provided his conduct in custody does not preclude this and there is no risk that he will abscond or commit further offences.
+<sup>6</sup> Prison inmates shall be granted release on temporary licence to an appropriate extent in order to cultivate relations with the outside world, prepare for their release or where there are special circumstances, provided their conduct in custody does not preclude this and there is no risk that they will abscond or commit further offences.
 
 <sup>6bis</sup> Offenders subject to indefinite incarceration are not granted release on temporary licence or other relaxations of the execution of the sentence during the sentence served prior to incarceration.[^84-1]
 
 <sup>7</sup> Article 36 of the Vienna Convention of 24 April 1963[^84-2] on Consular Relations and other regulations under international law on visits and correspondence that are binding on Switzerland are reserved.
 
 [^84-1]: Inserted by No I of the FA of 21 Dec. 2007 (Indefinite Incarceration of Extremely Dangerous Offenders), in force since 1 Aug. 2008 ([AS 2008 2961](https://fedlex.data.admin.ch/eli/oc/2008/413)2964; [BBl 2006 889](https://fedlex.data.admin.ch/eli/fga/2006/104)).
-[^84-2]: [SR 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
+[^84-2]: [SR 0.191.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/492)
 
 ### Searches and inspections
 
@@ -1781,7 +1781,7 @@ Where he shows the required aptitude and the possibility exists, the prison inma
 
 <sup>1</sup> The personal effects and the accommodation of the prison inmate may be searched in the interests of maintaining order and security in the penal institution.
 
-<sup>2</sup> A prison inmate who is suspected of concealing unpermitted articles about his person or in his body, may be subjected to a body search. The search must be conducted by a person of the same gender. If the removal of clothing is required, this must be carried out in the absence of other prison inmates. Searches of body cavities must be carried out by a doctor or other medically qualified staff.
+<sup>2</sup> Prison inmates who are suspected of concealing unpermitted articles about their person or in their body, may be subjected to a body search. The search must be conducted by a person of the same gender. If the removal of clothing is required, this must be carried out in the absence of other prison inmates. Searches of body cavities must be carried out by a doctor or other medically qualified staff.
 
 ### Parole
 
@@ -1789,13 +1789,13 @@ Where he shows the required aptitude and the possibility exists, the prison inma
 
 #### Art. 86
 
-<sup>1</sup> If the prison inmate has served two thirds of his sentence, provided this amounts to at least three months, he shall be released on parole by the competent authority if this is justified by his conduct while in custody and it is not expected that he will commit further felonies or misdemeanours.
+<sup>1</sup> When prison inmates have served two thirds of their sentence, provided this amounts to at least three months, they shall be released on parole by the competent authority if this is justified by their conduct while in custody and it is not expected that they will commit further felonies or misdemeanours.
 
-<sup>2</sup> The competent authority shall assess *ex officio* whether the inmate may be released on parole. It shall obtain a report from the institution board. The prison inmate shall be granted a hearing.
+<sup>2</sup> The competent authority shall assess *ex officio* whether inmates may be released on parole. It shall obtain a report from the institution board. The prison inmates shall be granted a hearing.
 
 <sup>3</sup> If parole is refused, the competent authority must reassess the question of whether parole may be granted at least once each year.
 
-<sup>4</sup> If the prison inmate has served half of his sentence, provided this amounts to at least three months, he may be released on parole by way of exception, if exceptional personal circumstances justify this.
+<sup>4</sup> Where prison inmates have served half of their sentence, provided this amounts to at least three months, they may be released on parole by way of exception, if exceptional personal circumstances justify this.
 
 <sup>5</sup> In the case of persons serving a life sentence, parole under paragraph 1 is possible at the earliest after 15 years, and under paragraph 4 at the earliest after ten years.
 
@@ -1803,7 +1803,7 @@ Where he shows the required aptitude and the possibility exists, the prison inma
 
 #### Art. 87
 
-<sup>1</sup> A person released on parole is made subject to a probationary period of a duration that corresponds to the remainder of his sentence. The period however amounts to at least one year and no more than five years.
+<sup>1</sup> A person released on parole shall be subject to a probationary period of a duration that corresponds to the remainder of their sentence. The period however amounts to at least one year and no more than five years.
 
 <sup>2</sup> The executive authority shall normally order probation assistance for the duration of the probationary period. It may impose conduct orders on the person released on parole.
 
@@ -1813,13 +1813,13 @@ Where he shows the required aptitude and the possibility exists, the prison inma
 
 #### Art. 88
 
-If the person released on parole is of good behaviour throughout the probationary period, he is granted final release.
+If the person released on parole is of good behaviour throughout the probationary period, they shall be granted final release.
 
 ### d. Breach of probation
 
 #### Art. 89
 
-<sup>1</sup> If a person released on parole commits a felony or misdemeanour during the probationary period, the court judging the new offence shall order his recall to custody.
+<sup>1</sup> If a person released on parole commits a felony or misdemeanour during the probationary period, the court judging the new offence shall order the person’s recall to custody.
 
 <sup>2</sup> If, despite the commission of a felony or misdemeanour during the probationary period, it is not expected that the offender will commit further offences, the court shall dispense with a recall to custody. It may admonish the offender and extend the probationary period by no more than half of the period originally fixed by the competent authority. If the extension is ordered after the expiry of the original probationary period, it begins on the day on which it is ordered. The provisions on probation assistance and conduct orders apply (Art. 93–95).
 
@@ -1827,7 +1827,7 @@ If the person released on parole is of good behaviour throughout the probationar
 
 <sup>4</sup> A recall to custody may not be ordered if three years have elapsed since the expiry of the probationary period.
 
-<sup>5</sup> Any period of time spent on remand that the offender has served during the recall to custody proceedings is taken into account in the remainder of his sentence.
+<sup>5</sup> Any period spent on remand that the offender has served during the recall to custody proceedings is taken into account in the remainder of their sentence.
 
 <sup>6</sup> If the requirements for an unsuspended custodial sentence are fulfilled due to the new offence and if this coincides with the remainder of the sentence that must be executed by the recall to custody, the court shall impose a cumulative sentence in application of Article 49 a. The rules on parole again apply to this sentence. If only the remainder of the sentence is executed, Article 86 paragraphs 1–4 applies.
 
@@ -1846,11 +1846,11 @@ A person subject to the execution of a measure under Articles 59–61, may only 
 - c. as a disciplinary sanction;
 - d.[^90-1] to prevent other prison inmates from being influenced by ideas that may encourage them to carry out terrorist activities, provided there is specific evidence of such an influence.
 
-<sup>2</sup> At the start of the execution of the measure, a sentence management plan is drawn up in consultation with the inmate or his legal representative. This includes in particular details of the treatment of the inmate's mental disorder, dependence or developmental disorder and on measures to prevent the endangerment of others.
+<sup>2</sup> At the start of the execution of the measure, a sentence management plan is drawn up in consultation with the inmate or their legal representative. This includes in particular details of the treatment of the inmate's mental disorder, dependence or developmental disorder and on measures to prevent the endangerment of others.
 
 <sup>2bis</sup> Measures under Articles 59–61 and 64 may be executed in the form of external accommodation and day release employment if there is a justified opinion that this will significantly contribute to the aim of the measure being achieved, and if there is no risk that the inmate will abscond or will commit further offences. Article 77*a* paragraphs 2 and 3 applies by analogy.[^90-2]
 
-<sup>3</sup> If the inmate is able to work, he is required to work to the extent that his in-patient treatment or care requires or permits. Articles 81–83 apply in an analogous manner.
+<sup>3</sup> If the inmate is able to work, they shall be required to work to the extent that their in-patient treatment or care requires or permits. Articles 81–83 apply in an analogous manner.
 
 <sup>4</sup> Article 84 applies by analogy to the relations of the inmates of an institution for the execution of measures with the outside world, unless additional restrictions are required for reasons relating to the in-patient treatment.
 
@@ -1904,7 +1904,7 @@ The execution of sentences and measures may be interrupted for good cause.
 Victims and relatives of victims as defined in Article 1 paragraphs 1 and 2 of the Victim Support Act of 23 March 2007[^92a-2] (VSA) and third parties who have a legitimate interest may make a written request to the executive authority for the following information:
 
 - a. the time of execution of the sentence or measure imposed on the offender, institution responsible for execution, the form of execution if it differs from normal, interruptions and relaxations in the sentence or measure, (Art. 75*a* para. 2), parole and final release, and the reactivation of the execution of a sentence or measure;
-- b. immediate notification of the escape of an offender and of his or her recapture.
+- b. immediate notification of the escape of an offender and of their recapture.
 
 <sup>2</sup> The executive authority decides on the request after consulting the offender.
 
@@ -1913,7 +1913,7 @@ Victims and relatives of victims as defined in Article 1 paragraphs 1 and 2 of t
 <sup>4</sup> If the executive authority approves a request, it shall advise the person entitled to information of the confidentiality of the information disclosed. Persons entitled to victim support under the VSA are not required to maintain confidentiality in their dealings with a counsellor at a counselling service under Article 9 VSA.
 
 [^92a-1]: Inserted by No I 1 of the FA of 26 Sept. 2014 on Victims’ Right to Information, in force since 1 Jan. 2016 ([AS 2015 1623](https://fedlex.data.admin.ch/eli/oc/2015/321); [BBl 2014 889](https://fedlex.data.admin.ch/eli/fga/2014/136)[913](https://fedlex.data.admin.ch/eli/fga/2014/138)). See also the transitional provision to this amendment at the end of the text.
-[^92a-2]: [SR 312.5](https://fedlex.data.admin.ch/eli/cc/2008/232)
+[^92a-2]: [SR 312.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6225)
 
 ### Title Five: Probation Assistance, Conduct Orders and Voluntary Social Supervision
 
@@ -1943,7 +1943,7 @@ Victims and relatives of victims as defined in Article 1 paragraphs 1 and 2 of t
 
 #### Art. 95
 
-<sup>1</sup> Prior to making their decision on probation assistance and conduct orders, the court and the executive authority may obtain a report from the authority responsible for supervising the probation assistance and the conduct orders or for enforcing activity prohibition orders or contact prohibition and exclusion orders.[^95-1] The person concerned may state his opinion on the report. Differences of opinion must be recorded in the report.
+<sup>1</sup> Prior to making their decision on probation assistance and conduct orders, the court and the executive authority may obtain a report from the authority responsible for supervising the probation assistance and the conduct orders or for enforcing activity prohibition orders or contact prohibition and exclusion orders.[^95-1] The person concerned may state their opinion on the report. Differences of opinion must be recorded in the report.
 
 <sup>2</sup> The ordering of probation assistance and conduct orders must be noted and justified in the judgment or the decision.
 
@@ -2067,7 +2067,7 @@ There is no statute of limitations for the offences of:
 
 <sup>2</sup> If the offence committed falls under Articles 260<sup>ter</sup>, 260<sup>quinquies</sup>, 305<sup>bis</sup>, 322<sup>ter</sup>, 322<sup>quinquies</sup>, 322<sup>septies</sup> paragraph 1 or 322<sup>octies</sup>, the undertaking is penalised irrespective of the criminal liability of any natural persons, provided the undertaking has failed to take all the reasonable organisational measures that are required in order to prevent such an offence.[^102-1]
 
-<sup>3</sup> The court assesses the fine in particular in accordance with the seriousness of the offence, the seriousness of the organisational inadequacies and of the loss or damage caused, and based on the economic ability of the undertaking to pay the fine.
+<sup>3</sup> The court assesses the fine in particular in accordance with the seriousness of the offence, the seriousness of the organisational inadequacies and of the loss or damage caused and based on the economic ability of the undertaking to pay the fine.
 
 <sup>4</sup>
 
@@ -2122,7 +2122,7 @@ The provisions of the First Part also apply to contraventions, subject to the fo
 
 <sup>2</sup> In its judgment, the court shall impose an alternative custodial sentence of at least one day and a maximum of three months for the event that the fine is wilfully not paid.
 
-<sup>3</sup> The court determines the fine and the alternative custodial sentence based on the offender's circumstances so that the offender receives the sentence that is commensurate with his culpable conduct.
+<sup>3</sup> The court determines the fine and the alternative custodial sentence based on the offender's circumstances so that the offender receives the sentence that is commensurate with their culpable conduct.
 
 <sup>4</sup> On retrospective payment of the fine, the offender is released from the alternative custodial sentence.
 
@@ -2140,7 +2140,7 @@ The provisions of the First Part also apply to contraventions, subject to the fo
 
 [^108-1]
 
-[^108-1]: This Article contains no provisions for technical drafting reasons. Corrected by the Drafting Committee of the Federal Assembly (Art. 58 para. 1 ParlA; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^108-1]: This Article contains no provisions for technical drafting reasons. Corrected by the Drafting Committee of the Federal Assembly (Art. 58 para. 1 ParlA; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 ### Limitation
 
@@ -2152,7 +2152,7 @@ The right to prosecute and to execute a sentence is subject to a limitation peri
 
 #### Art. 110
 
-<sup>1</sup> *Close relatives* of a person are his or her spouse, registered partner, relatives of direct lineage, full siblings and half siblings, adoptive parents, adoptive siblings and adoptive children.[^110-1]
+<sup>1</sup> *Close relatives* of a person are that person’s spouse, registered partner, relatives of direct lineage, full siblings and half siblings, adoptive parents, adoptive siblings and adoptive children.[^110-1]
 
 <sup>2</sup> *Family members* are persons who live in the same household.
 
@@ -2232,7 +2232,7 @@ Any person who for selfish motives incites or assists another to commit or attem
 
 [^116-1]
 
-If a mother kills her child either during delivery or while she is under the influence of the effects of giving birth, sa custodial sentence not exceeding three years or a monetary penalty shall be imposed.
+If a mother kills her child either during delivery or while she is under the influence of the effects of giving birth, a custodial sentence not exceeding three years or a monetary penalty shall be imposed.
 
 [^116-1]: Amended by No I of the FA of 23 June 1989, in force since 1 Jan. 1990 ([AS 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449)2456; [BBl 1985 II 1009](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
 
@@ -2270,7 +2270,7 @@ Any person who causes the death of another through negligence or recklessness sh
 
 <sup>1</sup> The termination of a pregnancy is exempt from penalty in the event that the termination is, in the judgment of a physician, necessary in order to be able to prevent the pregnant woman from sustaining serious physical injury or serious psychological distress. The risk must be greater the more advanced the pregnancy is.
 
-<sup>2</sup> The termination of a pregnancy is likewise exempt from penalty if, at the written request of a pregnant woman, who claims that she is in a state of distress, it is performed within twelve weeks of the start of the pregnant woman’s last period by a physician who is licensed to practise his profession. The physician must have a detailed consultation with the woman prior to the termination and provide her with appropriate counselling.
+<sup>2</sup> The termination of a pregnancy is likewise exempt from penalty if, at the written request of a pregnant woman, who claims that she is in a state of distress, it is performed within twelve weeks of the start of the pregnant woman’s last period by a physician who is licensed to practise their profession. The physician must have a detailed consultation with the woman prior to the termination and provide her with appropriate counselling.
 
 <sup>3</sup> If the woman is incapable of judgement, the consent of her legal representative is required.
 
@@ -2286,7 +2286,7 @@ Any person who causes the death of another through negligence or recklessness sh
 
 [^120-1]
 
-<sup>1</sup>
+<sup>1</sup> shall be liable to a fine[^120-2].
 
 Any physician who terminates a pregnancy in terms of Article 119 paragraph 2 and who fails, prior to the procedure:
 
@@ -2299,8 +2299,7 @@ Any physician who terminates a pregnancy in terms of Article 119 paragraph 2 and
   - 2\. a list of associations and agencies that offer moral and material support, and
   - 3\. information on the possibility of having the child adopted;
 
-- c. to satisfy himself that a pregnant woman under 16 years of age has been in contact with a counselling agency specialised in dealing with young people.
-- [tab] shall be liable to a fine[^120-2].
+- c. to personally ensure that a pregnant woman under 16 years of age has been in contact with a counselling agency specialised in dealing with young people.
 
 <sup>2</sup> Any physician who fails to report the termination of a pregnancy to the competent authority in accordance with Article 119 paragraph 5 shall be liable to the same penalty.
 
@@ -2343,15 +2342,15 @@ Any person who wilfully:
 
 <sup>2.</sup> The offender shall be prosecuted *ex officio*,[^123-4]
 
-if he uses poison, a weapon or a dangerous object,
+if they use poison, a weapon or a dangerous object,
 
-if he commits the act on a person, and in particular on a child, who is unable to defend himself, or is under his protection or in his care.
+if they commit the act on a person, and in particular on a child, who is unable to defend themselves, or is under their protection or in their care.
 
-if he is the spouse of the victim and the act was committed during the marriage or up to one year after divorce,[^123-5]
+if they are the spouse of the victim and the act was committed during the marriage or up to one year after divorce,[^123-5]
 
-if he is the registered partner of the victim and the offence was committed during the period of the registered partnership or up to a year after its dissolution,[^123-6] or
+if they are the registered partner of the victim and the offence was committed during the period of the registered partnership or up to a year after its dissolution,[^123-6] or
 
-if he is the heterosexual or homosexual partner of the victim provided they have at any time cohabited and the act was committed at that time or up to one year after separation.[^123-7]
+if they are the heterosexual or homosexual partner of the victim provided they have at any time cohabited, and the act was committed at that time or up to one year after separation.[^123-7]
 
 [^123-1]: Amended by No I of the FA of 23 June 1989, in force since 1 Jan. 1990 ([AS 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449)2456; [BBl 1985 II 1009](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
 [^123-2]: Second paragraph repealed by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, with effect from 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
@@ -2392,12 +2391,12 @@ if he is the heterosexual or homosexual partner of the victim provided they have
 
 <sup>2</sup>
 
-The offender is prosecuted *ex officio* if he commits the offence repeatedly:
+The offender is prosecuted *ex officio* if they commit the offence repeatedly:
 
-- a. on a person under his protection or in his care, and in particular on a child;
-- b. on his spouse during the marriage or up to a year after divorce; or
-- b<sup>bis</sup>.[^126-1] on his registered partner during the period of the registered partnership or up to a year after its dissolution; or
-- c. on his heterosexual or homosexual partner provided they have at any time cohabited and the act was committed at that time or up to one year after separation.[^126-2]
+- a. on a person under their protection or in their care, and in particular on a child;
+- b. on their spouse during the marriage or up to a year after divorce; or
+- b<sup>bis</sup>.[^126-1] on their registered partner during the period of the registered partnership or up to a year after its dissolution; or
+- c. on their heterosexual or homosexual partner provided they have at any time cohabited, and the act was committed at that time or up to one year after separation.[^126-2]
 
 [^126-1]: Inserted by Annex No 18 of the Same-Sex Partnership Act of 18 June 2004, in force since 1 Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^126-2]: Inserted by No I of the FA of 23 June 1989 ([AS 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [BBl 1985 II 1009](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)). Amended by No I of the FA of 3 Oct. 2003 (Prosecution of Offences within Marriage or Registered Partnerships), in force since 1 April 2004 ([AS 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176)1407; [BBl 2003 1909](https://fedlex.data.admin.ch/eli/fga/2003/226)[1937](https://fedlex.data.admin.ch/eli/fga/2003/228)).
@@ -2410,7 +2409,7 @@ The offender is prosecuted *ex officio* if he commits the offence repeatedly:
 
 [^127-1]
 
-Any person who exposes a helpless person under his protection or care to a life-threatening danger or to a serious and immediate danger to health, or abandons the person to such a danger shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
+Any person who exposes a helpless person under their protection or care to a life-threatening danger or to a serious and immediate danger to health or abandons the person to such a danger shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
 [^127-1]: Amended by No I of the FA of 23 June 1989, in force since 1 Jan. 1990 ([AS 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449)2456; [BBl 1985 II 1009](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
 
@@ -2420,7 +2419,7 @@ Any person who exposes a helpless person under his protection or care to a life-
 
 [^128-1]
 
-Any person who fails to offer aid to another whom he has injured or to another who is in immediate life-threatening danger, in circumstances where the person either could reasonably have been expected to offer aid,
+Any person who fails to offer aid to another whom they have injured or to another who is in immediate life-threatening danger, in circumstances where the person either could reasonably have been expected to offer aid,
 
 any person who prevents or hinders others from offering aid,
 
@@ -2513,13 +2512,13 @@ Any person who administers or makes available for consumption to children under 
 
 #### Art. 137
 
-<sup>1.</sup> Any person who for his own or for another's unlawful gain appropriates moveable property which belongs to another shall be liable, unless the special requirements of Articles 138-140 apply, to a custodial sentence not exceeding three years or to a monetary penalty.
+<sup>1.</sup> Any person who for their own or for another's unlawful gain appropriates moveable property which belongs to another shall be liable, unless the special requirements of Articles 138-140 apply, to a custodial sentence not exceeding three years or to a monetary penalty.
 
-<sup>2.</sup> If the offender has found the property or if the property has inadvertently come into his possession,
+<sup>2.</sup> If the offender has found the property or if the property has inadvertently come into their possession,
 
-if he does not act for financial gain or
+if they do not act for financial gain or
 
-if he acts only to the detriment of a relative or family member,
+if they act only to the detriment of a relative or family member,
 
 the offence shall only be prosecuted on complaint.
 
@@ -2527,15 +2526,15 @@ the offence shall only be prosecuted on complaint.
 
 #### Art. 138
 
-<sup>1.</sup> Any person who for his own or another's unlawful gain appropriates moveable property belonging to another but entrusted to him,
+<sup>1.</sup> Any person who for their own or another's unlawful gain appropriates moveable property belonging to another but entrusted to him,
 
-any person who makes unlawful use of financial assets entrusted to him for his own or another's benefit,
+any person who makes unlawful use of financial assets entrusted to them for their own or another's benefit,
 
 shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
 Misappropriation to the detriment of a relative or family member is prosecuted only on complaint.
 
-<sup>2.</sup> Any person who commits the foregoing offence in his capacity as a member of a public authority, or as a public official, guardian, adviser, professional asset manager, or in the practice of a profession or a trade or the execution of a commercial transaction for which he has been authorised by a public authority, shall be liable to a custodial sentence not exceeding ten years or to a monetary penalty.[^138-1]
+<sup>2.</sup> Any person who commits the foregoing offence in their capacity as a member of a public authority, or as a public official, guardian, adviser, professional asset manager, or in the practice of a profession or a trade or the execution of a commercial transaction for which they have been authorised by a public authority shall be liable to a custodial sentence not exceeding ten years or to a monetary penalty.[^138-1]
 
 [^138-1]: Term in accordance with No II 1 para. 8 of the FA of 13 Dec. 2002, in force since 1 Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)3535; BBl **1999** 1979). This amendment has been taken into account throughout the Second Book.
 
@@ -2543,18 +2542,18 @@ Misappropriation to the detriment of a relative or family member is prosecuted o
 
 #### Art. 139
 
-<sup>1.</sup> Any person who for his own or for another's unlawful gain, appropriates moveable property belonging to another person with the object of permanently depriving the owner of it shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
+<sup>1.</sup> Any person who for their own or for another's unlawful gain, appropriates moveable property belonging to another person with the object of permanently depriving the owner of it shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
 <sup>2.</sup> …[^139-1]
 
 <sup>3.</sup>
 
-The offender shall be liable to a custodial sentence of at least six months and no more than ten years if he:
+The offender shall be liable to a custodial sentence of at least six months and no more than ten years if they:
 
-- a. steals for commercial gain;
-- b. commits theft as a member of a group that has been formed for the purpose of carrying out repeated acts of robbery or theft;
-- c. carries a firearm or other dangerous weapon for the purpose of committing theft or causes an explosion; or
-- d. otherwise reveals a particular danger due to the manner in which he commits the theft.[^139-2]
+- a. steal for commercial gain;
+- b. commit theft as a member of a group that has been formed for the purpose of carrying out repeated acts of robbery or theft;
+- c. carry a firearm or other dangerous weapon for the purpose of committing theft, or cause an explosion; or
+- d. otherwise reveal that they pose a particular danger due to the manner in which they commit the theft.[^139-2]
 
 <sup>4.</sup> Theft to the detriment of a relative or family member shall be prosecuted only on complaint.
 
@@ -2569,13 +2568,13 @@ The offender shall be liable to a custodial sentence of at least six months and 
 
 Any person who, when caught in the act of committing theft, commits any of the coercive acts mentioned in the foregoing paragraph in order to retain the stolen property shall be liable the same penalties.
 
-<sup>2.</sup> The offender shall be liable to a custodial sentence of not less than one year[^140-2] if he carries with him a firearm or other dangerous weapon for the purpose of committing robbery.
+<sup>2.</sup> The offender shall be liable to a custodial sentence of not less than one year[^140-2] if they carry with them a firearm or other dangerous weapon for the purpose of committing robbery.
 
 <sup>3.</sup> The offender shall be liable to a custodial sentence of not less than two years,
 
-if he commits robbery as a member of a group that has been formed for the purpose of carrying out repeated acts of robbery or theft,
+if they commit robbery as a member of a group that has been formed for the purpose of carrying out repeated acts of robbery or theft,
 
-or if he represents a particular danger in any other way due to the manner in which he commits robbery.
+or if they pose a particular danger in any other way due to the manner in which they commit robbery.
 
 <sup>4.</sup> The penalty is a custodial sentence of not less than five years, if the offender endangers the life of the victim, commits a serious assault on the victim or otherwise treats the victim with cruelty.
 
@@ -2592,7 +2591,7 @@ Any person who takes moveable property from the person entitled to it to the ser
 
 #### Art. 141<sup>bis</sup>
 
-Any person who for his own or another's benefit unlawfully uses financial assets that have inadvertently come into his possession shall be liable on complaint to a custodial sentence not exceeding three years or to a monetary penalty.
+Any person who for their own or another's benefit unlawfully uses financial assets that have inadvertently come into their possession shall be liable on complaint to a custodial sentence not exceeding three years or to a monetary penalty.
 
 ### Unlawful abstraction of energy
 
@@ -2600,15 +2599,15 @@ Any person who for his own or another's benefit unlawfully uses financial assets
 
 <sup>1</sup> Any person who unlawfully obtains energy from an installation that serves to exploit natural power, and in particular an electrical installation shall be liable on complaint to a custodial sentence not exceeding three years or to a monetary penalty.
 
-<sup>2</sup> If the offender acts for his own or for another's unlawful gain, a custodial sentence not exceeding five years or to monetary penalty shall be imposed.
+<sup>2</sup> If the offender acts for their own or for another's unlawful gain, a custodial sentence not exceeding five years or to monetary penalty shall be imposed.
 
 ### Data theft
 
 #### Art. 143
 
-<sup>1</sup> Any person who for his own or for another's unlawful gain obtains for himself or another data that is stored or transmitted electronically or in some similar manner and which is not intended for him and has been specially secured to prevent his access shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
+<sup>1</sup> Any person who for their own or for another's unlawful gain obtains for themselves or another data that are stored or transmitted electronically or in some similar manner and which are not intended for them and have been specially secured to prevent their access shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
-<sup>2</sup> The unauthorised obtaining of data to the detriment of a relative or family member is prosecuted only on complaint.
+<sup>2</sup> The theft of data to the detriment of a relative or family member is prosecuted only on complaint.
 
 ### Unauthorised access to a data processing system
 
@@ -2616,9 +2615,9 @@ Any person who for his own or another's benefit unlawfully uses financial assets
 
 [^143bis-1]
 
-<sup>1</sup> Any person who obtains unauthorised access by means of data transmission equipment to a data processing system that has been specially secured to prevent his access shall be liable on complaint to a custodial sentence not exceeding three years or to a monetary penalty.
+<sup>1</sup> Any person who obtains unauthorised access by means of data transmission equipment to a data processing system that has been specially secured to prevent their access shall be liable on complaint to a custodial sentence not exceeding three years or to a monetary penalty.
 
-<sup>2</sup> Any person who markets or makes accessible passwords, programs or other data that he knows or must assume are intended to be used to commit an offence under paragraph 1 shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
+<sup>2</sup> Any person who markets or makes accessible passwords, programs or other data that they know or must reasonably believe are intended to be used to commit an offence under paragraph 1 shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
 [^143bis-1]: Amended by Art. 2 No 1 of the FedD of 18 March 2011 (Council of Europe Convention on Cybercrime), in force since 1 Jan. 2012 ([AS 2011 6293](https://fedlex.data.admin.ch/eli/oc/2011/887); [BBl 2010 4697](https://fedlex.data.admin.ch/eli/fga/2010/813)).
 
@@ -2628,7 +2627,7 @@ Any person who for his own or another's benefit unlawfully uses financial assets
 
 <sup>1</sup> Any person who damages, destroys or renders unusable property belonging to another or in respect of which another has a right of use shall be liable on complaint to a custodial sentence not exceeding three years or to a monetary penalty.
 
-<sup>2</sup> If the offender has committed criminal damage in the course of a public riot, he shall be prosecuted *ex officio*.
+<sup>2</sup> If the offender has committed criminal damage in the course of a public riot, they shall be prosecuted *ex officio*.
 
 <sup>3</sup> If the offender has caused major damage, a custodial sentence not exceeding five years or a monetary penalty shall be imposed. The offence is prosecuted *ex officio*.[^144-1]
 
@@ -2642,7 +2641,7 @@ Any person who for his own or another's benefit unlawfully uses financial assets
 
 If the offender has caused major damage, a custodial sentence not exceeding five years or a monetary penalty shall be imposed. The offence is prosecuted *ex officio*.[^144bis-1]
 
-<sup>2.</sup> Any person who manufactures, imports, markets, advertises, offers or otherwise makes accessible programs that he knows or must assume will be used for the purposes described in paragraph 1 above, or provides instructions on the manufacture of such programs shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
+<sup>2.</sup> Any person who manufactures, imports, markets, advertises, offers or otherwise makes accessible programs that they know or must reasonably believe will be used for the purposes described in paragraph 1 above, or provides instructions on the manufacture of such programs shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
 If the offender acts for commercial gain, a custodial sentence of from six months to ten years shall be imposed.[^144bis-2]
 
@@ -2653,13 +2652,13 @@ If the offender acts for commercial gain, a custodial sentence of from six month
 
 #### Art. 145
 
-Any debtor who, with the intention of causing loss to his creditors, appropriates, uses without authority, damages, destroys, reduces the value of or renders unusable property subject to a pledge or lien shall be liable on complaint to a custodial sentence not exceeding three years or to a monetary penalty.
+Any debtor who, with the intention of causing loss to their creditors, appropriates, uses without authority, damages, destroys, reduces the value of or renders unusable property subject to a pledge or lien shall be liable on complaint to a custodial sentence not exceeding three years or to a monetary penalty.
 
 ### Fraud
 
 #### Art. 146
 
-<sup>1</sup> Any person who with a view to securing an unlawful gain for himself or another wilfully induces an erroneous belief in another person by false pretences or concealment of the truth, or wilfully reinforces an erroneous belief, and thus causes that person to act to the prejudice of his or another's financial interests, shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
+<sup>1</sup> Any person who with a view to securing an unlawful gain for themselves or another wilfully induces an erroneous belief in another person by false pretences or concealment of the truth, or wilfully reinforces an erroneous belief, and thus causes that person to act to the prejudice of their own or another's financial interests, shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
 <sup>2</sup> If the offender acts for commercial gain, a custodial sentence of from six months to ten years shall be imposed.[^146-1]
 
@@ -2671,7 +2670,7 @@ Any debtor who, with the intention of causing loss to his creditors, appropriate
 
 #### Art. 147
 
-<sup>1</sup> Any person who with a view to his own or another's unlawful gain, by the incorrect, incomplete or unauthorised use of data, or in a similar way, influences the electronic or similar processing or transmission of data and as a result causes the transfer of financial assets, thus occasioning loss to another, or immediately thereafter conceals such a transfer shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
+<sup>1</sup> Any person who with a view to their own or another's unlawful gain, by the incorrect, incomplete or unauthorised use of data, or in a similar way, influences the electronic or similar processing or transmission of data and as a result causes the transfer of financial assets, thus occasioning loss to another, or immediately thereafter conceals such a transfer shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
 <sup>2</sup> If the offender acts for commercial gain, a custodial sentence of from six months to ten years shall be imposed.[^147-1]
 
@@ -2683,7 +2682,7 @@ Any debtor who, with the intention of causing loss to his creditors, appropriate
 
 #### Art. 148
 
-<sup>1</sup> Any person who with a view to obtaining services of a financial value and although incapable of making or unwilling to make payment uses a cheque card or credit card or similar means of payment that has been entrusted to him by the issuer thereof and thus causes loss to the issuer, shall be liable, provided the issuer and the contracting enterprise have taken reasonable measures in order to prevent the abuse of the card, to a custodial sentence not exceeding five years or to a monetary penalty.
+<sup>1</sup> Any person who with a view to obtaining services of a financial value and although incapable of making or unwilling to make payment uses a cheque card or credit card or similar means of payment that has been entrusted to them by the issuer thereof and thus causes loss to the issuer, shall be liable, provided the issuer and the contracting enterprise have taken reasonable measures in order to prevent the abuse of the card, to a custodial sentence not exceeding five years or to a monetary penalty.
 
 <sup>2</sup> If the offender acts for commercial gain, a custodial sentence of from six months to ten years shall be imposed.[^148-1]
 
@@ -2695,7 +2694,7 @@ Any debtor who, with the intention of causing loss to his creditors, appropriate
 
 [^148a-1]
 
-<sup>1</sup> Any person who misleads a another by providing false or incomplete information, failing to disclose information or in any other way or who compounds an existing error so that he or an associate obtains social insurance or social assistance benefits to which he or his associate is not entitled shall be liable to a custodial sentence not exceeding one year or to monetary penalty.
+<sup>1</sup> Any person who misleads a another by providing false or incomplete information, failing to disclose information or in any other way or who compounds an existing error so that they or an associate obtain social insurance or social assistance benefits to which they or their associate are not entitled shall be liable to a custodial sentence not exceeding one year or to monetary penalty.
 
 <sup>2</sup> In minor cases, the penalty is a fine.
 
@@ -2738,7 +2737,7 @@ shall be liable on complaint to a custodial sentence not exceeding three years o
 
 #### Art. 151
 
-Any person who without a view to gain, by making representations or suppressing information, wilfully misleads another or wilfully reinforces an erroneous belief with the result that the person in error acts in such a way that he or another incurs a financial loss shall be liable on complaint to a custodial sentence not exceeding three years or to a monetary penalty.
+Any person who without a view to gain, by making representations or suppressing information, wilfully misleads another or wilfully reinforces an erroneous belief with the result that the person in error acts in such a way that they or another incur a financial loss shall be liable on complaint to a custodial sentence not exceeding three years or to a monetary penalty.
 
 ### False statements about commercial business
 
@@ -2746,7 +2745,7 @@ Any person who without a view to gain, by making representations or suppressing 
 
 Any person who, whether as founder, proprietor, partner with unlimited liability, authorised representative or member of the management board or the board of directors, or as an auditor or liquidator of a trading company, a co-operative or any other enterprise which carries on commercial business,
 
-makes or causes to be made to all the company members, partners or co-operative members, or to the participants in any other commercial enterprise a false or incomplete statement of substantial significance by means of a public announcement or notice, report or presentation that could cause another to dispose of his own assets in such a way that he sustains financial loss,
+makes or causes to be made to all the company members, partners or co-operative members, or to the participants in any other commercial enterprise a false or incomplete statement of substantial significance by means of a public announcement or notice, report or presentation that could cause another to dispose of their own assets in such a way that that other person sustains financial loss,
 
 shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
@@ -2779,12 +2778,12 @@ Any person who, as a member of the board of directors of a company whose shares 
   - 3\. the general meeting from being able to vote on the remuneration that the board of directors has determined for itself, the executive board and the board of advisors (Art. 698 para. 3 no 4 CO),
   - 4\. the shareholders or their representatives from being able to exercise their rights by electronic means (Art. 689*c* para. 6 CO).
 
-<sup>3</sup> If the perpetrator merely accepts the possibility that an offence under paragraph 1 or 2 may be committed, he or she shall not be liable to prosecution under these provisions.
+<sup>3</sup> If the perpetrator merely accepts the possibility that an offence under paragraph 1 or 2 may be committed, they shall not be liable to prosecution under these provisions.
 
 <sup>4</sup> In calculating the monetary penalty, the court shall not be bound by the maximum value of a daily penalty unit (Art. 34 para. 2 first sentence); however, the monetary penalty may not exceed six times the annual remuneration agreed with the company concerned at the time of the offence.
 
 [^154-1]: Amended by Annex No 5 of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109), [110](https://fedlex.data.admin.ch/eli/oc/2022/110); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^154-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^154-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^154-3]: Correction by the Federal Assembly Drafting Committee of 22 Nov. 2023, published on 6 Dec. 2023 ([AS 2023 739](https://fedlex.data.admin.ch/eli/oc/2023/739)).
 
 ### Counterfeiting of goods
@@ -2807,13 +2806,13 @@ shall be liable, provided the act is not subject to a more severe penalty under 
 
 #### Art. 156
 
-<sup>1.</sup> Any person who, with a view to securing an unlawful gain for himself or for another, induces another person by using violence or the threat of seriously detrimental consequences to behave in such a way that he or another sustains financial loss shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
+<sup>1.</sup> Any person who, with a view to securing an unlawful gain for themselves or for another, induces another person by using violence or the threat of seriously detrimental consequences to behave in such a way that they or another sustain financial loss shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
-<sup>2.</sup> If the offender acts for commercial gain, or if he repeatedly commits the offence against the same person, a custodial sentence of from six months to ten years shall be imposed.[^156-1]
+<sup>2.</sup> If the offender acts for commercial gain, or if they repeatedly commit the offence against the same person, a custodial sentence of from six months to ten years shall be imposed.[^156-1]
 
-<sup>3.</sup> If the offender uses violence against another or if he threatens another with an immediate danger to life and limb, a penalty in accordance with Article 140 hereof shall be imposed.
+<sup>3.</sup> If the offender uses violence against another or if they threaten another with an immediate danger to life and limb, a penalty in accordance with Article 140 hereof shall be imposed.
 
-<sup>4.</sup> If the offender threatens to endanger the life and limb of a large number of persons or to cause serious damage to property in which there is a substantial public interest, he shall be liable to a custodial sentence of not less than one year[^156-2].
+<sup>4.</sup> If the offender threatens to endanger the life and limb of a large number of persons or to cause serious damage to property in which there is a substantial public interest, they shall be liable to a custodial sentence of not less than one year[^156-2].
 
 [^156-1]: Amended by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^156-2]: Term in accordance with No II 1 para. 12 of the FA of 13 Dec. 2002, in force since 1 Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)3535; BBl **1999** 1979). This amendment has been taken into account throughout the Second Book.
@@ -2822,7 +2821,7 @@ shall be liable, provided the act is not subject to a more severe penalty under 
 
 #### Art. 157
 
-<sup>1.</sup> Any person who for his own or another's financial gain or the promise of such gain, exploits the position of need, the dependence, the weakness of mind or character, the inexperience, or the foolishness of another person to obtain a payment or service which is clearly disproportionate to the consideration given in return,
+<sup>1.</sup> Any person who for their own or another's financial gain or the promise of such gain, exploits the position of need, the dependence, the weakness of mind or character, the inexperience, or the foolishness of another person to obtain a payment or service which is clearly disproportionate to the consideration given in return,
 
 any person who acquires a debt originating from an act of profiteering and sells or enforces the same,
 
@@ -2836,13 +2835,13 @@ shall be liable to a custodial sentence not exceeding five years or to a monetar
 
 #### Art. 158
 
-<sup>1.</sup> Any person who by law, an official order, a legal transaction or authorisation granted to him, has been entrusted with the management of the property of another or the supervision of such management, and in the course of and in breach of his duties causes or permits that other person to sustain financial loss shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
+<sup>1.</sup> Any person who by law, an official order, a legal transaction or authorisation granted to them, has been entrusted with the management of the property of another or the supervision of such management, and in the course of and in breach of their duties causes or permits that other person to sustain financial loss shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
-Any person who acts in the same manner in his capacity as the manager of a business but without specific instructions shall be liable to the same penalty.
+Any person who acts in the same manner in their capacity as the manager of a business but without specific instructions shall be liable to the same penalty.
 
-If the offender acts with a view to securing an unlawful financial gain for himself or another, a custodial sentence not exceeding five years or to monetary penalty shall be imposed.[^158-1]
+If the offender acts with a view to securing an unlawful financial gain for themselves or another, a custodial sentence not exceeding five years or to monetary penalty shall be imposed.[^158-1]
 
-<sup>2.</sup> Any person who, with a view to securing an unlawful gain for himself or another, abuses the authority granted to him by statute, an official order or a legal transaction to act on behalf of another and as a result causes that other person to sustain financial loss shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
+<sup>2.</sup> Any person who, with a view to securing an unlawful gain for themselves or another, abuses the authority granted to them by statute, an official order or a legal transaction to act on behalf of another and as a result causes that other person to sustain financial loss shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
 <sup>3.</sup> Criminal mismanagement to the detriment of a relative or family member is prosecuted only on complaint.
 
@@ -2852,13 +2851,13 @@ If the offender acts with a view to securing an unlawful financial gain for hims
 
 #### Art. 159
 
-Any employer who breaches his obligation to make use of a deduction from an employee's salary for the payment of taxes, duties, insurance premiums or contributions or in any other way for the benefit of the employee and thus causes loss to the employee shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
+Any employer who breaches the obligation to make use of a deduction from an employee's salary for the payment of taxes, duties, insurance premiums or contributions or in any other way for the benefit of the employee and thus causes loss to the employee shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
 ### Handling stolen goods
 
 #### Art. 160
 
-<sup>1.</sup> Any person who takes possession of, accepts as a gift or as the subject of a pledge, conceals, or assists in the disposal of goods which he knows or must assume have been acquired by way of an offence against property shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
+<sup>1.</sup> Any person who takes possession of, accepts as a gift or as the subject of a pledge, conceals, or assists in the disposal of goods which they know or must reasonably believe have been acquired by way of an offence against property shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
 The offender shall be liable to the penalty applicable to the original offence if that penalty is reduced.
 
@@ -2884,9 +2883,9 @@ If the original offence is prosecuted only on complaint, the handling of stolen 
 
 #### Art. 162
 
-Any person who betrays a manufacturing or trade secret that he is under a statutory or contractual duty contract not to reveal,
+Any person who betrays a manufacturing or trade secret that they are under a statutory or contractual duty contract not to reveal,
 
-any person who exploits for himself or another such a betrayal,
+any person who exploits for their own or for another’s advantage such a betrayal,
 
 shall be liable on complaint to a custodial sentence not exceeding three years or to a monetary penalty.
 
@@ -2896,7 +2895,7 @@ shall be liable on complaint to a custodial sentence not exceeding three years o
 
 #### Art. 163
 
-<sup>1.</sup> Any debtor who fictitiously reduces his assets to the prejudice of his creditors, and in particular
+<sup>1.</sup> Any debtor who fictitiously reduces their assets to the prejudice of their creditors, and in particular
 
 disposes of or conceals assets,
 
@@ -2904,7 +2903,7 @@ creates fictitious debts,
 
 accepts fictitious claims as valid or arranges for the enforcement of such claims,
 
-shall be liable, if bankruptcy proceedings are commenced against him or a certificate of unsatisfied claims has been issued in his respect, to a custodial sentence not exceeding five years or to a monetary penalty.
+shall be liable, if bankruptcy proceedings are commenced against them or an unpaid debt certificate has been issued in their respect, to a custodial sentence not exceeding five years or to a monetary penalty.
 
 <sup>2.</sup> Subject to the same requirements, any third party who carries out any of the foregoing acts to the prejudice of creditors shall be liable a custodial sentence not exceeding three years or to a monetary penalty.
 
@@ -2912,7 +2911,7 @@ shall be liable, if bankruptcy proceedings are commenced against him or a certif
 
 #### Art. 164
 
-<sup>1.</sup> Any debtor who reduces his assets to the detriment of his creditors by
+<sup>1.</sup> Any debtor who reduces their assets to the detriment of their creditors by
 
 damaging, destroying or reducing the value of any assets or rendering them unusable,
 
@@ -2920,7 +2919,7 @@ disposing of any assets for no consideration or for a consideration that is clea
 
 or by waiving, without material grounds, any rights which may accrue thereon or by renouncing rights for no consideration,
 
-shall be liable, if bankruptcy proceedings are commenced against him or a certificate of unsatisfied claims has been issued in his respect, to a custodial sentence not exceeding five years or to a monetary penalty.
+shall be liable, if bankruptcy proceedings are commenced against them or an unpaid debt certificate has been issued in their respect, to a custodial sentence not exceeding five years or to a monetary penalty.
 
 <sup>2.</sup> Subject to the same requirements, any third party who carries out any of the foregoing acts to the prejudice of creditors shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
@@ -2928,19 +2927,19 @@ shall be liable, if bankruptcy proceedings are commenced against him or a certif
 
 #### Art. 165
 
-<sup>1.</sup> Any debtor who in a manner other than that in Article 164 through mismanagement, in particular through inadequate capital provision, excessive expenditure, hazardous speculation, the negligent granting or use of credit, the squandering of assets or gross negligence in the exercise of his profession or the management of his assets,
+<sup>1.</sup> Any debtor who in a manner other than that in Article 164 through mismanagement, in particular through inadequate capital provision, excessive expenditure, hazardous speculation, the negligent granting or use of credit, the squandering of assets or gross negligence in the exercise of their profession or the management of their assets,
 
-causes or aggravates his excessive indebtedness, causes his insolvency or, in the knowledge that he is unable to pay, prejudices his financial situation,
+causes or aggravates their excessive indebtedness, causes their own insolvency or, in the knowledge that they are unable to pay, prejudices their own financial situation,
 
-shall be liable, if bankruptcy proceedings are commenced against him or a certificate of unsatisfied claims is issued in his respect, to a custodial sentence not exceeding five years or to a monetary penalty.
+shall be liable, if bankruptcy proceedings are commenced against them or an unpaid debt certificate is issued in their respect, to a custodial sentence not exceeding five years or to a monetary penalty.
 
-1<sup>bis</sup>. If the debtor receives official support to avert imminent over-indebtedness or insolvency, he shall be liable to the same penalty.[^165-1]
+1<sup>bis</sup>. If the debtor receives official support to avert imminent over-indebtedness or insolvency, they shall be liable to the same penalty.[^165-1]
 
-<sup>2.</sup> Any debtor whose assets have been seized is prosecuted solely on the complaint of a creditor who has obtained a certificate of unsatisfied claims against him.
+<sup>2.</sup> Any debtor whose assets have been seized shall be prosecuted solely on the complaint of a creditor who has obtained an unpaid debt certificate against them.
 
-The complaint must be filed within three months of receipt of the certificate of unsatisfied claims.
+The complaint must be filed within three months of receipt of the unpaid debt certificate.
 
-Any creditor who has induced a debtor to incur irresponsible debts, unreasonable expenditure or to enter into hazardously speculative transactions, or who has exploited the debtor usuriously, is barred from filing a complaint.
+Any creditor who has induced a debtor to incur irresponsible debts, unreasonable expenditure or to enter into hazardously speculative transactions, or who has exploited the debtor usuriously, shall be barred from filing a complaint.
 
 [^165-1]: Inserted by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
@@ -2948,15 +2947,15 @@ Any creditor who has induced a debtor to incur irresponsible debts, unreasonable
 
 #### Art. 166
 
-Any debtor who fails to comply with a statutory obligation to which he is subject to keep and preserve business accounts or draw up a balance sheet, with the result that his financial position is not or not fully ascertainable, shall be liable, if bankruptcy proceedings are commenced against him or a certificate of unsatisfied claims has been issued in his respect following a seizure of assets in accordance with Article 43 of the Federal Act of 11 April 1889[^166-1] on Debt Enforcement and Bankruptcy (DEBA), to a custodial sentence not exceeding three years or to a monetary penalty.
+Any debtor who fails to comply with a statutory obligation to which they are subject to keep and preserve business accounts or to draw up a balance sheet, with the result that their financial position is not or not fully ascertainable, shall be liable, if they are declared bankrupt or an unpaid debt certificate has been issued in their respect following distraint in accordance with Article 43 of the Federal Act of 11 April 1889[^166-1] on Debt Enforcement and Bankruptcy (DEBA), to a custodial sentence not exceeding three years or to a monetary penalty.
 
-[^166-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^166-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### Undue preference to creditors
 
 #### Art. 167
 
-Any debtor who, in the knowledge of his inability to pay and with a view to showing preference to some of his creditors to the prejudice of others, acts in order to achieve such an aim, and in particular pays debts that are not due for payment, pays due debts in a way that differs from the normal methods, or provides security for a debt from his own means when he is not obliged to do so, shall be liable, if bankruptcy proceedings are commenced against him or a certificate of unsatisfied claims has been issued in his respect, to a custodial sentence not exceeding three years or to a monetary penalty.
+Any debtor who, in the knowledge of their inability to pay and with a view to showing preference to some of their creditors to the prejudice of others, acts in order to achieve such an aim, and in particular pays debts that are not due for payment, pays due debts in a way that differs from the normal methods, or provides security for a debt from their own means when they are not obliged to do so, shall be liable, if they are declared bankrupt or an unpaid debt certificate has been issued in their respect, to a custodial sentence not exceeding three years or to a monetary penalty.
 
 ### Subornation in enforcement proceedings
 
@@ -2968,8 +2967,8 @@ shall be liable to a custodial sentence not exceeding three years or to a moneta
 
 Any person who:
 
-- a. gives or promises a creditor or his representative special advantages in order to obtain his vote at the creditors' meeting or on the creditors' committee, or to obtain his consent to or rejection of a judicial composition agreement;
-- b. gives or promises the administrator in bankruptcy, a member of the bankruptcy administration, the Commissioner, or the liquidator special advantages in order to influence his decisions;
+- a. gives or promises a creditor or their representative special advantages in order to obtain their vote at the creditors' meeting or on the creditors' committee, or to obtain the creditor’s consent to or rejection of a judicial composition agreement;
+- b. gives or promises the administrator in bankruptcy, a member of the bankruptcy administration, the administrator, or the liquidator special advantages in order to influence their decisions;
 - c. causes another to give or promise advantages specified in letter a or b,
 
 [^168-1]: Amended by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
@@ -2978,11 +2977,11 @@ Any person who:
 
 #### Art. 169
 
-Any person who without proper authority and to the prejudice of his creditors disposes of an asset
+Any person who without proper authority and to the prejudice of their creditors disposes of an asset
 
-that has been officially seized or attached,
+that has been officially distrained or attached,
 
-that has been officially recorded in debt recovery, bankruptcy or retention proceedings, or
+that has been officially recorded in debt enforcement, bankruptcy or retention proceedings, or
 
 that forms part of property that has been ceded in a liquidation settlement
 
@@ -2994,7 +2993,7 @@ shall be liable to a custodial sentence not exceeding three years or to a moneta
 
 #### Art. 170
 
-Any debtor who misleads his creditors, the Commissioner, or the debt collection authorities, in particular by false accounting or drawing up a false balance sheet, in order to obtain a moratorium of debt enforcement or the approval of a judicial composition agreement,
+Any debtor who misleads their creditors, the administrator, or the debt enforcement authorities, in particular by false accounting or drawing up a false balance sheet, in order to obtain a composition moratorium or the approval of a judicial composition agreement,
 
 any third party who acts in the foregoing manner for the benefit of the debtor,
 
@@ -3062,13 +3061,13 @@ any person who disseminates such accusations or suspicions,
 
 shall be liable on complaint to a monetary penalty.[^173-2]
 
-<sup>2.</sup> If the accused proves that the statement made or disseminated by him corresponds to the truth or that he had substantial grounds to hold an honest belief that it was true, he is not liable to a penalty.
+<sup>2.</sup> If the accused proves that the statement that they made or disseminated corresponds to the truth or that they had substantial grounds to hold an honest belief that it was true, they shall not be liable to a penalty.
 
 <sup>3.</sup> The accused is not permitted to lead evidence in support of and is criminally liable for statements that are made or disseminated with the primary intention of accusing someone of disreputable conduct without there being any public interest or any other justified cause, and particularly where such statements refer to a person’s private or family life.
 
-<sup>4.</sup> If the offender recants his statement, the court may impose a more lenient penalty or no penalty at all.
+<sup>4.</sup> If the offender recants their statement, the court may impose a more lenient penalty or no penalty at all.
 
-<sup>5.</sup> If the accused is unable to prove the truth of his statement, or if it is shown to be untrue, or if the accused recants his statement, the court must state this in its judgment or in another document.
+<sup>5.</sup> If the accused is unable to prove the truth of their statement, or if it is shown to be untrue, or if the accused recants their statement, the court must state this in its judgment or in another document.
 
 [^173-1]: Amended by No I of the FA of 5 Oct. 1950, in force since 5 Jan. 1951 ([AS 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1)16; [BBl 1949 I 1249](https://fedlex.data.admin.ch/eli/fga/1949/1_1249_1233_613)).
 [^173-2]: Penalties revised by No II 1 of the FA of 19 June 2015 (Amendment to the Law on Criminal Sanctions), in force since 1 Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
@@ -3077,7 +3076,7 @@ shall be liable on complaint to a monetary penalty.[^173-2]
 
 #### Art. 174
 
-<sup>1.</sup> A person in addressing a third party, and knowing his allegations to be untrue, makes an accusation against or casts suspicion on another of dishonourable conduct, or of other conduct that shall be liable to damage another's reputation,
+<sup>1.</sup> Any person who, in addressing a third party and knowing their allegations to be untrue, makes an accusation against or casts suspicion on another of dishonourable conduct, or of other conduct that is liable to damage another's reputation,
 
 any person who disseminates such accusations or suspicions, knowing them to be untrue,
 
@@ -3085,7 +3084,7 @@ shall be liable on complaint to a custodial sentence not exceeding three years o
 
 <sup>2.</sup> If the offender has acted systematically to undermine the good reputation of another, a custodial sentence of from one month to three years or a monetary penalty of not less than 30 daily penalty units shall be imposed.[^174-1]
 
-<sup>3.</sup> If the offender recants his statement before the court on the grounds that it is untrue, the court may impose a more lenient penalty. The court must provide the person harmed with a document confirming the recantation.
+<sup>3.</sup> If the offender recants their statement before the court on the grounds that it is untrue, the court may impose a more lenient penalty. The court must provide the person harmed with a document confirming the recantation.
 
 [^174-1]: Amended by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
@@ -3138,7 +3137,7 @@ Verbal defamation, whether wilful or not, is regarded as the equivalent of defam
 
 Any person who without authority opens a sealed document or sealed mail in order to obtain knowledge of its content,
 
-any person who disseminates or makes use of information he has obtained by opening a sealed document or sealed mail that was not intended for him,
+any person who disseminates or makes use of information that they have obtained by opening a sealed document or sealed mail that was not intended for them,
 
 shall be liable on complaint to a fine.
 
@@ -3150,9 +3149,9 @@ shall be liable on complaint to a fine.
 
 Any person who by using a listening device and without the permission of all those participating, listens in on a private conversation between other persons, or records such a conversation on a recording device,
 
-any person who makes use of information that he knows or must assume has come to his knowledge as the result of an offence under the above paragraph or makes such information known to a third party,
+any person who makes use of information that they know or must reasonably believe has come to their knowledge as the result of an offence under the above paragraph or makes such information known to a third party,
 
-any person who stores or allows a third party access to a recording that he knows or must assume has been made as the result of an offence under paragraph 1 above,
+any person who stores or allows a third party access to a recording that they know or must reasonably believe has been made as the result of an offence under paragraph 1 above,
 
 shall be liable on complaint to a custodial sentence not exceeding three years or to a monetary penalty.
 
@@ -3166,7 +3165,7 @@ shall be liable on complaint to a custodial sentence not exceeding three years o
 
 Any person who, as a participant in a private conversation, records the conversation on a recording device without the permission of the other participants,
 
-any person who stores or makes use of a recording or makes the recording available to a third party when he knows or must assume that the recording has been made as the result of an offence under paragraph 1 above
+any person who stores or makes use of a recording or makes the recording available to a third party when they know or must reasonably believe that the recording has been made as the result of an offence under paragraph 1 above
 
 shall be liable on complaint to a custodial sentence not exceeding one year or to a monetary penalty.
 
@@ -3180,9 +3179,9 @@ shall be liable on complaint to a custodial sentence not exceeding one year or t
 
 Any person who observes with a recording device or records with an image-carrying device information from the secret domain of another or information which is not automatically accessible from the private domain of another,
 
-any person who makes use of information or makes information known to a third party, which he knows or must assume has been produced as a result of an offence under paragraph 1 above,
+any person who makes use of information or makes information known to a third party, which they know or must reasonably believe has been produced as a result of an offence under paragraph 1 above,
 
-any person who stores or allows a third party access to a recording that he knows or must assume has been made as the result of an offence under paragraph 1 above,
+any person who stores or allows a third party access to a recording that they know or must reasonably believe has been made as the result of an offence under paragraph 1 above,
 
 shall be liable on complaint to a custodial sentence not exceeding three years or to a monetary penalty.
 
@@ -3196,7 +3195,7 @@ shall be liable on complaint to a custodial sentence not exceeding three years o
 
 <sup>1</sup> are not liable to a penalty under Article 179<sup>bis</sup> paragraph 1 or Article 179<sup>ter</sup> paragraph 1.
 
-Persons who as participants in the conversation or subscribers to a participating line record calls:
+Persons who, as participants in a conversation or subscribers to a participating line, record calls:
 
 - a. to the emergency, rescue or security services; or
 - b. in the course of business that have orders, assignments, reservations and similar transactions as their subject matter.
@@ -3218,7 +3217,7 @@ Persons who as participants in the conversation or subscribers to a participatin
 
 shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
-<sup>2.</sup> If the offender acts on behalf of a third party, that third party shall be liable to the same penalty as the offender provided he was aware that the offence was being committed and failed to use his best efforts to prevent the commission of the offence.
+<sup>2.</sup> If the offender acts on behalf of a third party, that third party shall be liable to the same penalty as the offender provided the third party was aware that the offence was being committed and failed to use their best efforts to prevent the commission of the offence.
 
 If the third party is a legal entity, a general or limited partnership or a sole proprietorship[^179sexies-2], paragraph 1 above applies to those persons who acted or should have acted on behalf of that entity.
 
@@ -3264,7 +3263,7 @@ Any person who without authorisation obtains personal data that are particularly
 
 [^179decies-1]
 
-Any person who uses the identity of another person without his or her consent in order to harm that person or in order to obtain an unlawful advantage for himself or herself or another shall be liable on complaint to a custodial sentence not exceeding one year or to a monetary penalty.
+Any person who uses the identity of another person without that person’s consent in order to harm that person or in order to obtain an unlawful advantage for themselves or another shall be liable on complaint to a custodial sentence not exceeding one year or to a monetary penalty.
 
 [^179decies-1]: Inserted by Annex 1 No II 26 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
@@ -3278,11 +3277,11 @@ Any person who uses the identity of another person without his or her consent in
 
 <sup>2</sup>
 
-The offender is prosecuted *ex officio* if he:
+The offender is prosecuted *ex officio* if they:
 
-- a. is the spouse of the victim and the threat was made during the marriage or within one year of divorce; or
-- a<sup>bis</sup>.[^180-1] is the registered partner of the victim and the threat was made during the registered partnership or within one year of its dissolution; or
-- b. is the heterosexual or homosexual partner of the victim, provided they are cohabiting for an unlimited period and the threat was made during this time or within one year of separation.[^180-2]
+- a. are the spouse of the victim and the threat was made during the marriage or within one year of divorce; or
+- a<sup>bis</sup>.[^180-1] are the registered partner of the victim and the threat was made during the registered partnership or within one year of its dissolution; or
+- b. are the heterosexual or homosexual partner of the victim, provided they are cohabiting for an unlimited period and the threat was made during this time or within one year of separation.[^180-2]
 
 [^180-1]: Inserted by Annex No 18 of the Same-Sex Partnership Act of 18 June 2004, in force since 1 Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^180-2]: Inserted by No I of the FA of 3 Oct. 2003 (Prosecution of Offences within Marriage or Registered Partnerships), in force since 1 April 2004 ([AS 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176)1407; [BBl 2003 1909](https://fedlex.data.admin.ch/eli/fga/2003/226)[1937](https://fedlex.data.admin.ch/eli/fga/2003/228)).
@@ -3312,7 +3311,7 @@ Any person who, by the use of force or the threat of serious detriment or other 
 
 [^182-1]
 
-<sup>1</sup> Any person who as a supplier, intermediary or customer engages in the trafficking of a human being for the purpose of sexual exploitation, exploitation of his or her labour or for the purpose of removing an organ shall be liable to a custodial sentence or to a monetary penalty. The soliciting of a person for these purposes is equivalent to trafficking.
+<sup>1</sup> Any person who as a supplier, intermediary or customer engages in the trafficking of a human being for the purpose of sexual exploitation, exploitation of their labour or for the purpose of removing an organ shall be liable to a custodial sentence or to a monetary penalty. The soliciting of a person for these purposes is equivalent to trafficking.
 
 <sup>2</sup> If the victim is a minor[^182-2] or if the offender acts for commercial gain, the penalty is a custodial sentence of not less than one year.
 
@@ -3330,7 +3329,7 @@ Any person who, by the use of force or the threat of serious detriment or other 
 
 [^183-1]
 
-<sup>1.</sup> Any person who unlawfully arrests or holds another prisoner or otherwise unlawfully deprives another of his liberty,
+<sup>1.</sup> Any person who unlawfully arrests or holds another prisoner or otherwise unlawfully deprives another of their liberty,
 
 any person who, by the use of force, false pretences or threats, abducts another,
 
@@ -3350,7 +3349,7 @@ The penalty for false imprisonment and abduction is a custodial sentence of not 
 
 if the offender attempts to obtain a ransom,
 
-if he treats the victim with cruelty,
+if they treat the victim with cruelty,
 
 if the deprivation of liberty lasts for a period in excess of ten days or
 
@@ -3364,7 +3363,7 @@ if the health of the victim is seriously endangered.
 
 [^185-1]
 
-<sup>1.</sup> Any person who deprives another of his liberty, or abducts or otherwise seizes another in order to coerce a third party to carry out an act, abstain from carrying out an act or tolerate an act,
+<sup>1.</sup> Any person who deprives another of their liberty, or abducts or otherwise seizes another in order to coerce a third party to carry out an act, abstain from carrying out an act or tolerate an act,
 
 any person who exploits a situation created in the foregoing manner by another in order so to coerce a third party,
 
@@ -3376,7 +3375,7 @@ shall be liable to a custodial sentence of not less than one year.
 
 <sup>4.</sup> If the offender abandons the coercion and releases the victim, a reduced penalty may be imposed (Art. 48*a*).[^185-2]
 
-<sup>5.</sup> Any person who commits the offence abroad is also liable to the foregoing penalties provided he is arrested in Switzerland and not extradited. Article 7 paragraphs 4 and 5 apply.[^185-3]
+<sup>5.</sup> Any person who commits the offence while abroad is also liable to the foregoing penalties provided they are arrested in Switzerland and not extradited. Article 7 paragraphs 4 and 5 apply.[^185-3]
 
 [^185-1]: Amended by No I of the FA of 9 Oct. 1981, in force since 1 Oct. 1982 ([AS 1982 1530](https://fedlex.data.admin.ch/eli/oc/1982/1530_1530_1530)1534; [BBl 1980 I 1241](https://fedlex.data.admin.ch/eli/fga/1980/1_1241_1216_1032)).
 [^185-2]: Amended by No II 2 of the FA of 13 Dec. 2002, in force since 1 Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)3535; BBl **1999** 1979).
@@ -3435,9 +3434,9 @@ shall be liable to a custodial sentence not exceeding five years or to a monetar
 
 <sup>4.</sup> If the offender acts under the misconception that the child is 16 years of age or older, but they would not have made this error had they exercised due care, a custodial sentence not exceeding three years or a monetary penalty shall be imposed.
 
-<sup>5.</sup> ...[^187-4]
+<sup>5.</sup> …[^187-4]
 
-<sup>6.</sup> ...[^187-5]
+<sup>6.</sup> …[^187-5]
 
 [^187-1]: Amended by No I 1 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, in force since 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^187-2]: Inserted by No I 1 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, in force since 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
@@ -3453,7 +3452,7 @@ shall be liable to a custodial sentence not exceeding five years or to a monetar
 
 [^188-1]
 
-Any person who commits a sexual act by exploiting his or her relationship with a minor of at least 16 years of age who is dependent on them due to a relationship arising from the minor's education, care or employment or another form of dependent relationship,
+Any person who commits a sexual act by exploiting their relationship with a minor of at least 16 years of age who is dependent on them due to a relationship arising from the minor's education, care or employment or another form of dependent relationship,
 
 any person who encourages such a minor to commit a sexual act by exploiting such a relationship,
 
@@ -3495,7 +3494,7 @@ shall be liable to a custodial sentence not exceeding five years or to a monetar
 
 [^191-1]
 
-Any person who has sexual intercourse with, or commits an act similar to sexual intercourse or any other sexual act with a person who is incapable of proper judgement or resistance shall be liable to a custodial sentence not exceeding ten years or to a monetary penalty.
+Any person who has sexual intercourse with or commits an act similar to sexual intercourse or any other sexual act with a person who is incapable of proper judgement or resistance shall be liable to a custodial sentence not exceeding ten years or to a monetary penalty.
 
 [^191-1]: Amended by No I 1 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, in force since 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
@@ -3661,7 +3660,7 @@ Any person who violates the cantonal regulations on the permitted locations or t
 
 [^200-1]
 
-Where any person commits an offence under this Title jointly with one or more others, the court shall increase the penalty imposed, but may not exceed the standard maximum penalty for the offence by more than an additional half. The court, in imposing the penalty, is bound by the statutory maximum penalty for the type offence in question.
+Where any person commits an offence under this Title jointly with one or more others, the court shall increase the penalty imposed but may not exceed the standard maximum penalty for the offence by more than an additional half. The court, in imposing the penalty, is bound by the statutory maximum penalty for the type of offence in question.
 
 [^200-1]: Amended by No I 1 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, in force since 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
@@ -3683,7 +3682,7 @@ Where any person commits an offence under this Title jointly with one or more ot
 
 <sup>2</sup> Minors are not liable to any penalty provided they have been induced to commit the act.
 
-<sup>3</sup> ...[^213-2]
+<sup>3</sup> …[^213-2]
 
 [^213-1]: Amended by No I of the FA of 23 June 1989, in force since 1 Jan. 1990 ([AS 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449)2456; [BBl 1985 II 1009](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
 [^213-2]: Repealed by No I of the FA of 5 Oct. 2001 (Limitation of Right to Prosecute in general and in cases of Sexual Offences against Children; [AS 2002 2993](https://fedlex.data.admin.ch/eli/oc/2002/430); [BBl 2000 2943](https://fedlex.data.admin.ch/eli/fga/2000/612)).
@@ -3700,7 +3699,7 @@ Where any person commits an offence under this Title jointly with one or more ot
 
 [^215-1]
 
-Any person who marries or enters into a registered same-sex partnership when he is already married or living in a registered same-sex partnership,
+Any person who marries or enters into a registered same-sex partnership when they are already married or living in a registered same-sex partnership,
 
 any person who marries or enters into a registered same-sex partnership with a person who is already married or living in a registered same-sex partnership,
 
@@ -3712,7 +3711,7 @@ shall be liable to a custodial sentence not exceeding three years or to a moneta
 
 [^216-1]
 
-[^216-1]: Repealed by No I of the FA of 23 June 1989, with effect from 1 Jan. 1990 ([AS 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [BBl 1985 II 1009](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).Repealed by No I of the FA of 23 June 1989 ([AS 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [BBl 1985 II 1009](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
+[^216-1]: Repealed by No I of the FA of 23 June 1989, with effect from 1 Jan. 1990 ([AS 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [BBl 1985 II 1009](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)). Repealed by No I of the FA of 23 June 1989 ([AS 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [BBl 1985 II 1009](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
 
 ### Neglect of duty to support the family
 
@@ -3720,7 +3719,7 @@ shall be liable to a custodial sentence not exceeding three years or to a moneta
 
 [^217-1]
 
-<sup>1</sup> Any person who fails to fulfil his or her family law duties to provide maintenance or support although he or she has or could have the means to do so, shall be liable on complaint to a custodial sentence not exceeding three years or to a monetary penalty.
+<sup>1</sup> Any person who fails to fulfil their family law duties to provide maintenance or support although they have or could have the means to do so, shall be liable on complaint to a custodial sentence not exceeding three years or to a monetary penalty.
 
 <sup>2</sup> The authorities and agencies appointed by the cantons also have the right to file a complaint. In exercising this right, they shall take account of the interests of the family.
 
@@ -3738,7 +3737,7 @@ shall be liable to a custodial sentence not exceeding three years or to a moneta
 
 [^219-1]
 
-<sup>1</sup> Any person who violates or neglects his or her duties of supervision and education towards a minor and thus endangers the minor's physical or mental development, shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
+<sup>1</sup> Any person who violates or neglects their duties of supervision and education towards a minor and thus endangers the minor's physical or mental development, shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
 <sup>2</sup> If the offence is committed through negligence, a monetary penalty shall be imposed. [^219-2]
 
@@ -3815,11 +3814,11 @@ If only minor loss, damage or injury is caused, a custodial sentence not exceedi
 
 #### Art. 226
 
-<sup>1</sup> Any person who manufactures explosives or toxic gases that he knows or must assume are intended to be used to commit a felony shall be liable to a custodial sentence of at least six months and no more than ten years.[^226-1]
+<sup>1</sup> Any person who manufactures explosives or toxic gases that they know or must reasonably believe are intended to be used to commit a felony shall be liable to a custodial sentence of at least six months and no more than ten years.[^226-1]
 
-<sup>2</sup> Any person who procures, passes on to another, accepts from another, safeguards, conceals or transports explosives, toxic gases or substances suitable for their manufacture shall be liable, if he knows or must assume that they are intended to be used to commit a felony, to a custodial sentence of from one month to five years or to a monetary penalty of not less than 30 daily penalty units.[^226-2]
+<sup>2</sup> Any person who procures, passes on to another, accepts from another, safeguards, conceals or transports explosives, toxic gases or substances suitable for their manufacture shall be liable, if they know or must reasonably believe that they are intended to be used to commit a felony, to a custodial sentence of from one month to five years or to a monetary penalty of not less than 30 daily penalty units.[^226-2]
 
-<sup>3</sup> Any person who instructs another person on how to manufacture explosives or toxic gases when he knows or must assume that that person is planning to use the explosives or toxic gases to commit a felony shall be liable to a custodial sentence of from one month to five years or to a monetary penalty of not less than 30 daily penalty units.[^226-3]
+<sup>3</sup> Any person who instructs another person on how to manufacture explosives or toxic gases when they know or must reasonably believe that that person is planning to use the explosives or toxic gases to commit a felony shall be liable to a custodial sentence of from one month to five years or to a monetary penalty of not less than 30 daily penalty units.[^226-3]
 
 [^226-1]: Penalties revised by No II 1 of the FA of 19 June 2015 (Amendment to the Law on Criminal Sanctions), in force since 1 Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 [^226-2]: Amended by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
@@ -3845,9 +3844,9 @@ If only minor loss, damage or injury is caused, a custodial sentence not exceedi
 
 <sup>1</sup> Any person who systematically carries out specific technical or organisational preparations for acts intended to cause danger to the life or the health of people or to the property of others by means of nuclear energy, radioactive substances or ionising radiation of substantial value shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
-<sup>2</sup> Any person who manufactures, procures, passes on to another, accepts from another, stores, conceals or transports radioactive substances, equipment, apparatus or articles that contain radioactive substances or may emit ionising radiation shall be liable, if he knows or must assume that they are intended for unlawful use, to a custodial sentence not exceeding ten years or to a monetary penalty.
+<sup>2</sup> Any person who manufactures, procures, passes on to another, accepts from another, stores, conceals or transports radioactive substances, equipment, apparatus or articles that contain radioactive substances or may emit ionising radiation shall be liable, if they know or must reasonably believe that they are intended for unlawful use, to a custodial sentence not exceeding ten years or to a monetary penalty.
 
-<sup>3</sup> Any person who instructs another person on how to manufacture such substances, equipment, apparatus or articles shall be liable, if he knows or must assume that they are intended for unlawful use, to a custodial sentence not exceeding five years or to a monetary penalty.
+<sup>3</sup> Any person who instructs another person on how to manufacture such substances, equipment, apparatus or articles shall be liable, if they know or must reasonably believe that they are intended for unlawful use, to a custodial sentence not exceeding five years or to a monetary penalty.
 
 [^226ter-1]: Inserted by Annex No II 2 of the Nuclear Energy Act of 21 March 2003 ([AS 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [BBl 2001 2665](https://fedlex.data.admin.ch/eli/fga/2001/546)). Amended by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
@@ -3909,9 +3908,9 @@ shall be liable to a custodial sentence not exceeding five years or to a monetar
 
 <sup>1</sup>
 
-Any person who wilfully releases genetically modified or pathogenic organisms or the disrupts the operation of a facility for the research into, or the safeguarding, production or transport of such organisms shall be liable to a custodial sentence not exceeding ten years, provided he knows or must assume that through his acts:
+Any person who wilfully releases genetically modified or pathogenic organisms or the disrupts the operation of a facility for the research into, or the safeguarding, production or transport of such organisms shall be liable to a custodial sentence not exceeding ten years, provided they know or must reasonably believe that through their acts:
 
-- a. he will endanger the life and limb of people; or
+- a. they will endanger the life and limb of people; or
 - b. the natural composition of communities of animals and plants or their habitats will be seriously endangered.
 
 <sup>2</sup> If the offence is committed through negligence, a custodial sentence not exceeding three years or a monetary penalty shall be imposed.
@@ -4033,7 +4032,7 @@ shall be liable to a custodial sentence not exceeding three years or to a moneta
 
 <sup>2</sup> In particularly minor cases, a custodial sentence not exceeding three years or a monetary penalty shall be imposed.
 
-<sup>3</sup> The offender is also liable to the foregoing penalties if he committed the act abroad, has entered Switzerland and is not being extradited, provided the act is also an offence at the place of commission.
+<sup>3</sup> The offender is also liable to the foregoing penalties if they committed the act while abroad, have entered Switzerland and are not being extradited, provided the act is also an offence at the place of commission.
 
 ### Falsification of money
 
@@ -4051,7 +4050,7 @@ shall be liable to a custodial sentence not exceeding three years or to a moneta
 
 <sup>1</sup> Any person who passes or tenders counterfeit or falsified coins, paper money or bank notes as genuine money shall be liable to a custodial sentence not exceeding three years or to a monetary penalty[^242-1].
 
-<sup>2</sup> If the offender, the person instructing him or his agent accepted the coins or banknotes on the understanding that they were genuine or not falsified, a custodial sentence not exceeding three years or a monetary penalty shall be imposed.
+<sup>2</sup> If the offender or the person instructing or acting for the offender accepted the coins or banknotes on the understanding that they were genuine or not falsified, a custodial sentence not exceeding three years or a monetary penalty shall be imposed.
 
 [^242-1]: Term in accordance with No II 1 para. 2 of the FA of 13 Dec. 2002, in force since 1 Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)3535; BBl **1999** 1979). This amendment has been taken into account throughout the Second Book.
 
@@ -4099,7 +4098,7 @@ any person who gives cancelled official value stamps the appearance of being val
 
 shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
-The offender is also liable to the foregoing penalties if he committed the act abroad, has been arrested in Switzerland and is not being extradited, provided the act is also an offence at the place of commission.
+The offender is also liable to the foregoing penalties if they committed the act while abroad, have been arrested in Switzerland and are not being extradited, provided the act is also an offence at the place of commission.
 
 <sup>2.</sup> Any person who passes off forged, falsified or cancelled official stamps as genuine, non-falsified or valid shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
@@ -4169,7 +4168,7 @@ The provisions this Title also apply in the case of foreign coins, paper money, 
 
 [^251-1]
 
-<sup>1.</sup> Any person who with a view to causing financial loss or damage to the rights of another or in order to obtain an unlawful advantage for himself or another,
+<sup>1.</sup> Any person who with a view to causing financial loss or damage to the rights of another or in order to obtain an unlawful advantage for themselves or another,
 
 produces a false document, falsifies a genuine document, uses the genuine signature or mark of another to produce a false document, falsely certifies or causes to be falsely certified a fact of legal significance or,
 
@@ -4188,13 +4187,13 @@ shall be liable to a custodial sentence not exceeding five years or to a monetar
 
 [^252-1]
 
-Any person who with the intention of furthering his own position or that of another,
+Any person who with the intention of furthering their own position or that of another,
 
 forges or falsifies identity documents, references, or certificates,
 
 uses such a document in order to deceive another,
 
-or uses a genuine document of this nature but which does not apply to him in order to deceive another,
+or uses a genuine document of this nature but which does not apply to them in order to deceive another,
 
 shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
@@ -4214,7 +4213,7 @@ shall be liable to a custodial sentence not exceeding five years or to a monetar
 
 #### Art. 254
 
-<sup>1</sup> Any person who damages, destroys, conceals or misappropriates a document over which he has no exclusive right of disposal, with a view to causing financial loss or damage to the rights of another or in order to obtain an unlawful advantage for himself or another shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
+<sup>1</sup> Any person who damages, destroys, conceals or misappropriates a document over which they have no exclusive right of disposal, with a view to causing financial loss or damage to the rights of another or in order to obtain an unlawful advantage for themselves or another shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
 <sup>2</sup> The suppression of documents to the detriment of a relative or family member is prosecuted only on complaint.
 
@@ -4228,7 +4227,7 @@ Articles 251–254 also apply to official foreign documents.
 
 #### Art. 256
 
-Any person who, with the intention of causing financial loss or damaging the rights of another or of obtaining an unlawful advantage for himself or another, removes, moves, renders unrecognisable, falsely positions or falsifies a boundary stone or other boundary marker shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
+Any person who, with the intention of causing financial loss or damaging the rights of another or of obtaining an unlawful advantage for themselves or another, removes, moves, renders unrecognisable, falsely positions or falsifies a boundary stone or other boundary marker shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
 ### Removal of survey points and water level indicators
 
@@ -4254,7 +4253,7 @@ Any person who causes fear and alarm among the general public by threatening or 
 
 [^259-1]
 
-<sup>1</sup> Any person who publicly incites others to commit a misdemeanour that involves violence against other persons or property or a felony shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.[^259-2]
+<sup>1</sup> Any person who publicly incites others to commit a misdemeanour that involves violence against other persons or property, or a felony shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.[^259-2]
 
 <sup>1bis</sup> Public incitement to commit genocide (Art. 264), where the intention is for the act to be carried out exclusively or partly in Switzerland, is also an offence if the incitement occurs outside Switzerland.[^259-3]
 
@@ -4296,7 +4295,7 @@ Any person who, in accordance with a plan, carries out specific technical or org
 - i. crimes against humanity (Art. 264*a*);
 - j. war crimes (Art. 264*c*–264*h*)*.*[^260bis-4]
 
-<sup>2</sup> If the offender, of his own volition, does not complete the preparatory act, he is not liable to any penalty.
+<sup>2</sup> If the offender, of their own volition, does not complete the preparatory act, they shall not be liable to any penalty.
 
 <sup>3</sup> It is also an offence for any person to carry out a preparatory act abroad, provided it was intended to commit the offences in Switzerland. Article 3 paragraph 2 applies.[^260bis-5]
 
@@ -4334,7 +4333,7 @@ Any person who:
 <sup>5</sup> The foregoing penalties also apply to any person who commits the offence outside Switzerland provided the organisation carries out or intends to carry out its criminal activities wholly or partly in Switzerland. Article 7 paragraphs 4 and 5 applies.
 
 [^260ter-1]: Inserted by No I of the FA of 18 March 1994 ([AS 1994 1614](https://fedlex.data.admin.ch/eli/oc/1994/1614_1614_1614)1618; [BBl 1993 III 277](https://fedlex.data.admin.ch/eli/fga/1993/3_277_269_193)). Amended by Annex No II 2 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^260ter-2]: [SR 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180), [0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205), [0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226), [0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
+[^260ter-2]: [SR 0.518.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1960), [0.518.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1964), [0.518.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1966), [0.518.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1967)
 
 ### Endangering public safety with weapons
 
@@ -4342,7 +4341,7 @@ Any person who:
 
 [^260quater-1]
 
-Any person who sells, hires, gifts, hands over or procures firearms, weapons prohibited by law, essential components of weapons, weapons accessories, ammunition or components of ammunition, although he knows or must assume that the weapons are intended to be used to commit a felony or misdemeanour shall be liable, provided his activities do not constitute a more serious offence, to a custodial sentence not exceeding five years or to a monetary penalty.[^260quater-2]
+Any person who sells, hires, gifts, hands over or procures firearms, weapons prohibited by law, essential components of weapons, weapons accessories, ammunition or components of ammunition, although they know or must reasonably believe that the weapons are intended to be used to commit a felony or misdemeanour shall be liable, provided their activities do not constitute a more serious offence, to a custodial sentence not exceeding five years or to a monetary penalty.[^260quater-2]
 
 [^260quater-1]: Inserted by Art. 41 of the Weapons Act of 20 June 1997, in force since 1 Jan. 1999 ([AS 1998 2535](https://fedlex.data.admin.ch/eli/oc/1998/2535_2535_2535); [BBl 1996 I 1053](https://fedlex.data.admin.ch/eli/fga/1996/1_1053_1000_875)).
 [^260quater-2]: New designation of criminal penalties in accordance with No II 1 para. 16 of the FA of 13 Dec. 2002, in force since 1 Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)3535; BBl **1999** 1979).
@@ -4355,7 +4354,7 @@ Any person who sells, hires, gifts, hands over or procures firearms, weapons pro
 
 <sup>1</sup> Any person who collects or provides funds with a view to financing a violent crime that is intended to intimidate the public or to coerce a state or international organisation into carrying out or not carrying out an act shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
-<sup>2</sup> If the person merely acknowledges the possibility that the funds may be used to finance terrorism, he is not liable to a penalty under this Article.
+<sup>2</sup> If the person merely acknowledges the possibility that the funds may be used to finance terrorism, they shall not be liable to a penalty under this Article.
 
 <sup>3</sup> The act does not constitute the financing of a terrorist offence if it is carried out with a view to establishing or re-establishing a democratic regime or a state governed by the rule of law or with a view to exercising or safeguarding human rights.
 
@@ -4379,7 +4378,7 @@ Any person who, with a view to committing a violent felony aimed at intimidating
 
 <sup>2</sup> The same penalty shall apply to any person who collects or provides assets with the intention of financing a journey in accordance with paragraph 1 letter c, or any person who organises or recruits others to make such a journey.
 
-<sup>3</sup> Any person who carries out any of the foregoing acts outside Switzerland shall also be liable to prosecution if he or she is in Switzerland and is not extradited or if the terrorist offence is to be committed in or against Switzerland. Article 7 paragraphs 4 and 5 apply.
+<sup>3</sup> Any person who carries out any of the foregoing acts outside Switzerland shall also be liable to prosecution if they are in Switzerland and are not extradited or if the terrorist offence is to be committed in or against Switzerland. Article 7 paragraphs 4 and 5 apply.
 
 [^260sexies-1]: Inserted by Annex No II 2 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
@@ -4490,15 +4489,15 @@ The penalty is a custodial sentence of not less than five years for any person w
 - a. intentionally kills another person;
 - b. intentionally kills a number of persons or intentionally inflicts conditions of life calculated to bring about the destruction of all or part of the population;
 - c. assumes and exercises a right of ownership over a person, in particular in the form of trafficking in persons, sexual exploitation or forced labour;
-- d. severely deprives a person of his or her liberty in violation of the fundamental rules of international law;
+- d. severely deprives a person of their liberty in violation of the fundamental rules of international law;
 - e.
 
   and with the intention of removing a person from the protection of the law for a prolonged period of time:
 
-  - 1\. on behalf of or with the acquiescence of a State or political organisation, deprives that person of his or her liberty, and thereafter refuses to give information on his or her fate or whereabouts, or
+  - 1\. on behalf of or with the acquiescence of a State or political organisation, deprives that person of their liberty, and thereafter refuses to give information on the person’s fate or whereabouts, or
   - 2\. on behalf of or with the acquiescence of a State or political organisation or in violation of a legal duty refuses to give information on the fate or whereabouts of the person concerned;
 
-- f. inflicts severe pain or suffering or serious injury, whether physical or mental, on a person in his or her custody or under his or her control;
+- f. inflicts severe pain or suffering or serious injury, whether physical or mental, on a person in their custody or under their control;
 - g.[^264a-1] commits rape in accordance with Article 190 paragraph 2 or 3 or an indecent assault in accordance with Article 189 paragraph 2 or 3 of comparable severity on a person, abuses that person by committing a sexual act of comparable severity, or forces a person into prostitution or to be sterilised or, after she has been forcibly made pregnant, confines her unlawfully with the intent of affecting the ethnic composition of a population;
 - h. expels or by other coercive acts displaces persons from an area in which they are lawfully present;
 - i. in violation of international law and for political, racist, ethnic, religious, social or other reasons, severely denies or deprives a group of people of fundamental rights in connection with an offence under Title Twelve<sup>bis</sup> or Title Twelve<sup>ter</sup> or for the purpose of the systematic oppression or domination of an ethnic group;
@@ -4544,7 +4543,7 @@ The penalty is a custodial sentence of not less than five years for any person w
 
 <sup>4</sup> In less serious cases under paragraph 1 letters c–g, a custodial sentence of not less than one year may be imposed.
 
-[^264c-1]: Geneva Convention of 12 Aug. 1949 for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field (GA I), [SR 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180); Geneva Convention of 12 Aug. 1949 for the Amelioration of the Condition of the Wounded and Sick and Shipwrecked Members of Armed Forces at Sea (GA II), [SR 0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205); Geneva Convention of 12 Aug. 1949 relative to the Treatment of Prisoners of War (GA III), [SR 0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226); Geneva Convention of 12 Aug. 1949 relative to the Protection of Civilian Persons in Time of War (GA IV), [SR 0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297).
+[^264c-1]: Geneva Convention of 12 Aug. 1949 for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field (GA I), [SR 0.518.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1960); Geneva Convention of 12 Aug. 1949 for the Amelioration of the Condition of the Wounded and Sick and Shipwrecked Members of Armed Forces at Sea (GA II), [SR 0.518.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1964); Geneva Convention of 12 Aug. 1949 relative to the Treatment of Prisoners of War (GA III), [SR 0.518.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1966); Geneva Convention of 12 Aug. 1949 relative to the Protection of Civilian Persons in Time of War (GA IV), [SR 0.518.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1967).
 
 ### 3. Other war crimes
 
@@ -4566,7 +4565,7 @@ The penalty is a custodial sentence of not less than three years for any person 
 
 <sup>3</sup> In less serious cases, a custodial sentence of not less than one year may be imposed.
 
-[^264d-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^264d-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 ### b. Unjustified medical treatment, violation of sexual rights and human dignity
 
@@ -4576,7 +4575,7 @@ The penalty is a custodial sentence of not less than three years for any person 
 
 The penalty is a custodial sentence of not less than three years for any person who, in connection with an armed conflict:
 
-- a. causes severe pain or suffering or serious injury or danger, whether physical or mental, to a person protected by international humanitarian law by subjecting that person to a medical procedure that is not justified by the state of his or her health and which does comply with generally recognised medical principles;
+- a. causes severe pain or suffering or serious injury or danger, whether physical or mental, to a person protected by international humanitarian law by subjecting that person to a medical procedure that is not justified by the person’s state of health and which does comply with generally recognised medical principles;
 - b.[^264e-1] commits rape in accordance with Article 190 paragraph 2 or 3 or an indecent assault in accordance with Article 189 paragraph 2 or 3 of comparable severity on a person protected by international humanitarian law, abuses that person by committing a sexual act of comparable severity, or forces that person into prostitution or to be sterilised or, after she has been forcibly made pregnant, confines her unlawfully with the intent of affecting the ethnic composition of a population;
 - c. subjects a person protected by international humanitarian law to especially humiliating and degrading treatment.
 
@@ -4604,10 +4603,10 @@ The penalty is a custodial sentence of not less than three years for any person 
 
 The penalty is a custodial sentence of not less than three years for any person who, in connection with an armed conflict:
 
-- a. launches an attack although he knows or must assume that such an attack will cause loss of life or injury to civilians or damage to civilian objects or widespread, long-term and severe damage to the natural environment which would be clearly excessive in relation to the concrete and direct overall military advantage anticipated;
+- a. launches an attack although they know or must reasonably believe that such an attack will cause loss of life or injury to civilians or damage to civilian objects or widespread, long-term and severe damage to the natural environment which would be clearly excessive in relation to the concrete and direct overall military advantage anticipated;
 - b. uses a person protected by international humanitarian law as a human shield in order to influence military operations;
 - c. as a method of warfare, pillages or otherwise unlawfully appropriates property or destroys or seizes enemy property in a way not imperatively demanded by the necessities of war, deprives civilians of objects indispensable to their survival or impedes relief supplies;
-- d. kills or wounds an enemy combatant treacherously or after he or she has laid down his or her arms or no longer has a means of defence;
+- d. kills or wounds an enemy combatant treacherously or after the enemy has laid down their arms or no longer has a means of defence;
 - e. mutilates a dead enemy combatant;
 - f. as the commander orders that no quarter be given or threatens the enemy that no quarter will be given;
 - g. makes improper use of a flag of truce, of the flag or of the military insignia and uniform of the enemy or of the United Nations, or the distinctive emblems under international humanitarian law;
@@ -4640,7 +4639,7 @@ The penalty is a custodial sentence of not less than three years for any person 
 The penalty is a custodial sentence not exceeding three years or a monetary penalty for any person who:
 
 - a. continues military operations after receiving official notification of an agreement on a ceasefire or a peace agreement, or violates the conditions of the ceasefire in some other way;
-- b. abuses, insults or without reason obstructs an opposing peace negotiator or any of his party;
+- b. abuses, insults or without reason obstructs an opposing peace negotiator or any of the negotiator’s party;
 - c. without justification delays the repatriation of prisoners of war after conclusion of military operations.
 
 ### 5. Other violations of international humanitarian law
@@ -4667,13 +4666,13 @@ The penalty is a custodial sentence not exceeding three years or a monetary pena
 
 #### Art. 264l
 
-A subordinate who, on orders from a superior or on orders of equivalent binding effect, carries out an act under Title Twelve<sup>bis</sup> or Title Twelve<sup>ter</sup> is guilty of an offence if he was aware at the time that the act is an offence.
+A subordinate who, on orders from a superior or on orders of equivalent binding effect, carries out an act under Title Twelve<sup>bis</sup> or Title Twelve<sup>ter</sup> shall be guilty of an offence if they were aware at the time that the act is an offence.
 
 ### Acts carried out abroad
 
 #### Art. 264m
 
-<sup>1</sup> A person who carries out an act under Title Twelve<sup>bis</sup>, Title Twelve<sup>ter</sup> or Article 264*k* while abroad is guilty of an offence if he is in Switzerland and is not extradited to another State or delivered to an international criminal court whose jurisdiction is recognised by Switzerland.
+<sup>1</sup> A person who carries out an act under Title Twelve<sup>bis</sup>, Title Twelve<sup>ter</sup> or Article 264*k* while abroad is guilty of an offence if they are in Switzerland and are not extradited to another State or delivered to an international criminal court whose jurisdiction is recognised by Switzerland.
 
 <sup>2</sup>
 
@@ -4699,14 +4698,14 @@ The prosecution offences under Title Twelve<sup>bis</sup>, Title Twelve<sup>ter<
 - g. Article 16 of the Patent Court Act of 20. March 2009[^264n-7];
 - h. Article 50 of the Criminal Justice Authorities Act of 19 March 2010[^264n-8].
 
-[^264n-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^264n-2]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
-[^264n-3]: [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
-[^264n-4]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^264n-5]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
-[^264n-6]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
-[^264n-7]: [SR 173.41](https://fedlex.data.admin.ch/eli/cc/2010/72)
-[^264n-8]: [SR 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
+[^264n-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^264n-2]: [SR 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
+[^264n-3]: [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
+[^264n-4]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^264n-5]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
+[^264n-6]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+[^264n-7]: [SR 173.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5632)
+[^264n-8]: [SR 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
 
 ### Title Thirteen: Felonies and Misdemeanours against the State and National Security
 
@@ -4726,15 +4725,15 @@ of severing an area of Swiss territory from the Confederation or a part of canto
 
 shall be liable to a custodial sentence of not less than one year[^265-3].
 
-[^265-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^265-2]: [SR 131.211](https://fedlex.data.admin.ch/eli/cc/2006/14_fga)**/.235**
+[^265-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^265-2]: [SR 131.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4780)**/.235**
 [^265-3]: Term in accordance with No II 1 para. 11 of the FA of 13 Dec. 2002, in force since 1 Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)3535; BBl **1999** 1979). This amendment has been taken into account throughout the Second Book.
 
 ### Attacks on the independence of the Confederation
 
 #### Art. 266
 
-<sup>1.</sup> Any person who a carries out an act with the aim of
+<sup>1.</sup> Any person who carries out an act with the aim of
 
 violating or endangering the independence of the Confederation or
 
@@ -4813,7 +4812,7 @@ any person who facilitates such activities,
 
 shall be liable to a custodial sentence not exceeding three years or to a monetary penalty, or in serious cases to a custodial sentence of not less than one year.[^271-2]
 
-<sup>2.</sup> Any person who abducts another by using violence, false pretences or threats and takes him abroad in order to hand him over to a foreign authority, party or other organisation or to expose him to a danger to life or limb shall be liable to a custodial sentence of not less than one year.
+<sup>2.</sup> Any person who abducts another by using violence, false pretences or threats and takes that other person abroad in order to hand them over to a foreign authority, party or other organisation or to expose them to a danger to life or limb shall be liable to a custodial sentence of not less than one year.
 
 <sup>3.</sup> Any person who makes preparations for such an abduction shall be liable to a custodial sentence or to a monetary penalty.
 
@@ -4880,8 +4879,8 @@ In serious cases, a custodial sentence of not less than one year shall be impose
 Any person who carries out an act which is intended to disrupt or alter the constitutional order of the Confederation[^275-2] or the cantons[^275-3] in an unlawful manner shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
 [^275-1]: Amended by No I of the FA of 5 Oct. 1950, in force since 5 Jan. 1951 ([AS 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1)16; BBl **1949** 1 1249).
-[^275-2]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^275-3]: [SR 131.211](https://fedlex.data.admin.ch/eli/cc/2006/14_fga)**/.235**
+[^275-2]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^275-3]: [SR 131.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4780)**/.235**
 
 #### Art. 275<sup>bis</sup> and 275<sup>ter</sup>
 
@@ -4923,7 +4922,7 @@ shall be liable to a custodial sentence not exceeding five years or to a monetar
 
 #### Art. 278
 
-Any person who prevents a member of the armed forces from carrying out his military service or obstructs him in the course of his service shall be liable to a monetary penalty.[^278-1]
+Any person who prevents a member of the armed forces from carrying out their military service or obstructs them in the course of their service shall be liable to a monetary penalty.[^278-1]
 
 [^278-1]: Penalties revised by No II 1 of the FA of 19 June 2015 (Amendment to the Law on Criminal Sanctions), in force since 1 Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
@@ -4941,9 +4940,9 @@ shall be liable to a custodial sentence not exceeding three years or to a moneta
 
 #### Art. 280
 
-Any person who by the use of violence or the threat of seriously detrimental consequences prevents a voter from exercising his right to vote or to sign a petition requesting a referendum or initiative, and
+Any person who by the use of violence or the threat of seriously detrimental consequences prevents a voter from exercising their right to vote or to sign a petition requesting a referendum or initiative, and
 
-any person who by the use of violence or the threat of seriously detrimental consequences coerces a voter into exercising his voting rights or into voting in a particular way,
+any person who by the use of violence or the threat of seriously detrimental consequences coerces a voter into exercising their right to vote or into voting in a particular way,
 
 shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
@@ -4955,7 +4954,7 @@ Any person who offers, promises, or gives a voter or arranges for a voter to be 
 
 any person who offers, promises, or gives a voter or arranges for a voter to be given a gift or other advantage in return for not participating in an election or vote, and
 
-any person who as a voter secures the promise of or arranges for himself to be given such an advantage,
+any person who as a voter secures the promise of or arranges for themselves to be given such an advantage,
 
 shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
@@ -5014,10 +5013,10 @@ Any participant who uses violence against persons or property shall be liable to
 Any participant who uses violence against property shall be liable to custodial sentence of from one month to three years or to a monetary penalty of not less than 90 daily penalty units.[^285-7]
 
 [^285-1]: Amended by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^285-2]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^285-3]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
-[^285-4]: [[AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679), [6019](https://fedlex.data.admin.ch/eli/oc/2009/737); [2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656)No I 5; [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375). [AS 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328)Annex No I 1]. See now: the FA of 25 Sept. 2015 ([SR 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)).
-[^285-5]: [SR 745.2](https://fedlex.data.admin.ch/eli/cc/2011/565)
+[^285-2]: [SR 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^285-3]: [SR 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
+[^285-4]: [[AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679), [6019](https://fedlex.data.admin.ch/eli/oc/2009/737); [2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656)No I 5; [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375). [AS 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328)Annex No I 1]. See now: the FA of 25 Sept. 2015 ([SR 742.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8823)).
+[^285-5]: [SR 745.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8894)
 [^285-6]: Second paragraph amended by Art. 11 para. 2 of the FA of 18 June 2010 on the Security Units of Public Transport Companies, in force since 1 Oct. 2011 ([AS 2011 3961](https://fedlex.data.admin.ch/eli/oc/2011/565); [BBl 2010 891](https://fedlex.data.admin.ch/eli/fga/2010/156)[915](https://fedlex.data.admin.ch/eli/fga/2010/158)).
 [^285-7]: Amended by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
@@ -5032,10 +5031,10 @@ Any person who prevents a public authority, one of its members or a public offic
 Public officials also include employees of undertakings in terms of the Railways Act of 20 December 1957[^286-2], the Passenger Transport Act of 20 March 2009[^286-3] and the Goods Transport Act of 19 December 2008[^286-4], as well as employees of organisations operating with a licence from the Federal Office of Transport under the Federal Act of 18 June 2010[^286-5] on the Security Units of Public Transport Companies.[^286-6]
 
 [^286-1]: Amended by No I of the FA of 5 Oct. 1950, in force since 5 Jan. 1951 ([AS 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1)16; BBl **1949** 1 1249).
-[^286-2]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^286-3]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
-[^286-4]: [[AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679), [6019](https://fedlex.data.admin.ch/eli/oc/2009/737); [2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656)No I 5; [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375). [AS 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328)Annex No I 1]. See now: the FA of 25 Sept. 2015 ([SR 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)).
-[^286-5]: [SR 745.2](https://fedlex.data.admin.ch/eli/cc/2011/565)
+[^286-2]: [SR 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^286-3]: [SR 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
+[^286-4]: [[AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679), [6019](https://fedlex.data.admin.ch/eli/oc/2009/737); [2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656)No I 5; [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375). [AS 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328)Annex No I 1]. See now: the FA of 25 Sept. 2015 ([SR 742.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8823)).
+[^286-5]: [SR 745.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8894)
 [^286-6]: Amended by Art. 11 para. 2 of the FA of 18 June 2010 on the Security Units of Public Transport Companies, in force since 1 Oct. 2011 ([AS 2011 3961](https://fedlex.data.admin.ch/eli/oc/2011/565); [BBl 2010 891](https://fedlex.data.admin.ch/eli/fga/2010/156)[915](https://fedlex.data.admin.ch/eli/fga/2010/158)).
 
 ### Usurpation office
@@ -5062,11 +5061,11 @@ Any person who removes from official control an item of property which has been 
 
 Any person who breaks open, removes or renders ineffective an official mark and in particular an official seal which is used to close or identify an object shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
-### Breach of an expulsion order order or a contact prohibition and exclusion order
+### Breach of an expulsion order or a contact prohibition and exclusion order
 
 #### Art. 291
 
-<sup>1</sup> Any person who breaches an order issued by a competent authority to expel him from the territory of the Swiss Confederation or a canton shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
+<sup>1</sup> Any person who breaches an order issued by a competent authority to expel them from the territory of the Swiss Confederation or a canton shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
 <sup>2</sup> The duration the sentence is not taken into account in determining the length of the period of expulsion.
 
@@ -5074,7 +5073,7 @@ Any person who breaks open, removes or renders ineffective an official mark and 
 
 #### Art. 292
 
-Any person who fails to comply with an official order that has been issued to him by a competent authority or public official under the threat of the criminal penalty for non-compliance in terms of this Article shall be liable to a fine.
+Any person who fails to comply with an official order that has been issued to them by a competent authority or public official under the threat of the criminal penalty for non-compliance in terms of this Article shall be liable to a fine.
 
 ### Publication of secret official proceedings
 
@@ -5095,13 +5094,13 @@ Any person who fails to comply with an official order that has been issued to hi
 
 [^294-1]
 
-<sup>1</sup> Any person who carries on an activity that he is prohibited from carrying on by a prohibition order under Article 67 hereof, Article 50 of the Military Criminal Code of 13 June 1927[^294-2] (MCC) or Article 16*a* JCLA[^294-3] shall be liable to a custodial sentence not exceeding one year or monetary penalty.
+<sup>1</sup> Any person who carries on an activity that they are prohibited from carrying on by a prohibition order under Article 67 hereof, Article 50 of the Military Criminal Code of 13 June 1927[^294-2] (MCC) or Article 16*a* JCLA[^294-3] shall be liable to a custodial sentence not exceeding one year or monetary penalty.
 
-<sup>2</sup> Any person who contacts or approaches one or more specific persons or persons in a specific group or is present in a specific location when he is prohibited from doing so by a contact prohibition and exclusion order under Article 67*b* hereof, Article 50*b* MCC or Article 16*a* JCLA shall be liable to a custodial sentence not exceeding one year or monetary penalty.
+<sup>2</sup> Any person who contacts or approaches one or more specific persons or persons in a specific group or who is present in a specific location when they are prohibited from so doing or being by a contact prohibition and exclusion order under Article 67*b* hereof, Article 50*b* MCC or Article 16*a* JCLA shall be liable to a custodial sentence not exceeding one year or monetary penalty.
 
 [^294-1]: Amended by No I 1 of the FA of 13 Dec. 2013 on Activity Prohibition Orders and Contact Prohibition and Exclusion Orders, in force since 1 Jan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
-[^294-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^294-3]: [SR 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
+[^294-2]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^294-3]: [SR 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207)
 
 ### Failure to comply with probation assistance or instructions
 
@@ -5113,7 +5112,7 @@ Any person who fails to comply with probation assistance ordered by the court or
 
 [^295-1]: Amended by No I 1 of the FA of 13 Dec. 2013 on Activity Prohibition Orders and Contact Prohibition and Exclusion Orders, in force since 1 Jan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 
-### Title Sixteen: Offences detrimental to Foreign Relations
+### Title Sixteen: Offences Detrimental to Foreign Relations
 
 ### Insulting a foreign state
 
@@ -5139,7 +5138,7 @@ Any person who publicly insults an international organisation or department ther
 
 #### Art. 298
 
-Any person who wilfully removes, damages or conducts himself in an insulting manner towards a national emblem of a foreign state, and in particular its coat of arms or flag which is publicly displayed by one of its official representatives shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
+Any person who wilfully removes, damages or conducts themselves in an insulting manner towards a national emblem of a foreign state, and in particular its coat of arms or flag which is publicly displayed by one of its official representatives shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
 ### Violation of foreign territorial sovereignty
 
@@ -5198,9 +5197,9 @@ shall be liable to a custodial sentence not exceeding three years or to a moneta
 
 [^303-1]
 
-<sup>1.</sup> Any person who makes an accusation to the authorities that a person whom he knows to be innocent has committed a felony or a misdemeanour, with the intention of causing a criminal prosecution to be brought against that person,
+<sup>1.</sup> Any person who makes an accusation to the authorities that a person whom they know to be innocent has committed a felony or a misdemeanour, with the intention of causing a criminal prosecution to be brought against that person,
 
-any person who otherwise carries out malicious acts with the intention of causing a criminal prosecution to be brought against a person whom he knows to be innocent,
+any person who otherwise carries out malicious acts with the intention of causing a criminal prosecution to be brought against a person whom they know to be innocent,
 
 shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
@@ -5212,9 +5211,9 @@ shall be liable to a custodial sentence not exceeding five years or to a monetar
 
 #### Art. 304
 
-<sup>1.</sup> Any person who reports the commission of a criminal offence to the judicial authorities which he knows has not been committed,
+<sup>1.</sup> Any person who reports the commission of a criminal offence to the judicial authorities which they know has not been committed,
 
-any person who falsely reports to the judicial authorities that he has himself committed an offence,
+any person who falsely reports to the judicial authorities that they have themselves committed an offence,
 
 shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
@@ -5230,7 +5229,7 @@ shall be liable to a custodial sentence not exceeding three years or to a moneta
 
 <sup>1bis</sup> Any person who assists a person who is being prosecuted or has been convicted outside Switzerland in respect of a felony in accordance with Article 101 to evade prosecution or the execution of a custodial sentence or a measure within the meaning of Articles 59–61, 63 or 64 in that place shall be liable to the same penalties as in paragraph 1.[^305-2]
 
-<sup>2</sup> If the person assists a relative or another person to whom he is so closely related that his conduct is excusable, he shall not be liable to any penalty.[^305-3]
+<sup>2</sup> If the person assists a relative or another person to whom they are so closely related that their conduct is excusable, they shall not be liable to any penalty.[^305-3]
 
 [^305-1]: Part of sentence amended by No II 2 of the FA of 13 Dec. 2002, in force since 1 Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)3535; BBl **1999** 1979).
 [^305-2]: Inserted by No I of the FA of 9 Oct. 1981, in force since 1 Oct. 1982 ([AS 1982 1530](https://fedlex.data.admin.ch/eli/oc/1982/1530_1530_1530)1534; [BBl 1980 I 1241](https://fedlex.data.admin.ch/eli/fga/1980/1_1241_1216_1032)).
@@ -5242,7 +5241,7 @@ shall be liable to a custodial sentence not exceeding three years or to a moneta
 
 [^305bis-1]
 
-<sup>1.</sup> Any person who carries out an act that is aimed at frustrating the identification of the origin, the tracing or the forfeiture of assets which he knows or must assume originate from a felony or aggravated tax misdemeanour shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.[^305bis-2]
+<sup>1.</sup> Any person who carries out an act that is aimed at frustrating the identification of the origin, the tracing or the forfeiture of assets which they know or must reasonably believe originate from a felony or aggravated tax misdemeanour shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.[^305bis-2]
 
 1<sup>bis</sup>. An aggravated tax misdemeanour is any of the offences set out in Article 186 of the Federal Act of 14 December 1990[^305bis-3] on Direct Federal Taxation and Article 59 paragraph 1 clause one of the Federal Act of 14 December 1990[^305bis-4] on the Harmonisation of Direct Federal Taxation at Cantonal and Communal Levels, if the tax evaded in any tax period exceeds 300 000 francs.[^305bis-5]
 
@@ -5258,8 +5257,8 @@ A serious case is constituted, in particular, where the offender:
 
 [^305bis-1]: Inserted by No I of the FA of 23 March 1990, in force since 1 Aug. 1990 ([AS 1990 1077](https://fedlex.data.admin.ch/eli/oc/1990/1077_1077_1077)1078; [BBl 1989 II 1061](https://fedlex.data.admin.ch/eli/fga/1989/2_1061_961_837)).
 [^305bis-2]: Amended by No I 4 of the FA of 12 Dec. 2014 on the Implementation of the 2012 Revision of the Recommendations of the Financial Action Task Force, in force since 1 Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^305bis-3]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
-[^305bis-4]: [SR 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
+[^305bis-3]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^305bis-4]: [SR 642.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8202)
 [^305bis-5]: Inserted by No I 4 of the FA of 12 Dec. 2014 on the Implementation of the 2012 Revision of the Recommendations of the Financial Action Task Force, in force since 1 Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). See also the transitional provision to this amendment at the end of the text.
 [^305bis-6]: Amended by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^305bis-7]: Amended by Annex No II 2 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
@@ -5275,7 +5274,7 @@ A serious case is constituted, in particular, where the offender:
 
 [^305ter-1]
 
-<sup>1</sup> Any person who as part of his profession accepts, holds on deposit, or assists in investing or transferring outside assets and fails to ascertain the identity of the beneficial owner of the assets with the care that is required in the circumstances shall be liable to a custodial sentence not exceeding one year or to a monetary penalty.[^305ter-2]
+<sup>1</sup> Any person who as part of their profession accepts, holds on deposit, or assists in investing or transferring outside assets and fails to ascertain the identity of the beneficial owner of the assets with the care that is required in the circumstances shall be liable to a custodial sentence not exceeding one year or to a monetary penalty.[^305ter-2]
 
 <sup>2</sup> The persons included in paragraph 1 above are entitled to report to the Money Laundering Reporting Office in the Federal Office of Police any observations that indicate that assets originate from a felony or an aggravated tax misdemeanour in terms of Article 305<sup>bis</sup> number 1<sup>bis</sup>.[^305ter-3]
 
@@ -5287,7 +5286,7 @@ A serious case is constituted, in particular, where the offender:
 
 #### Art. 306
 
-<sup>1</sup> Any person who is a party to civil proceedings and, following an express caution by the judge that he must tell the truth and notification of the penalties for failure to do so, gives false evidence in relation to the case shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
+<sup>1</sup> Any person who is a party to civil proceedings and, following an express caution by the judge that they must tell the truth and notification of the penalties for failure to do so, gives false evidence in relation to the case shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
 <sup>2</sup> …[^306-1]
 
@@ -5315,14 +5314,14 @@ A serious case is constituted, in particular, where the offender:
 
 [^308-1]
 
-<sup>1</sup> If the offender makes his false accusation (Art. 303), false report of an offence (Art. 304) or a false statement (Art. 306 and 307) of his own accord and before it has caused any legal detriment to others, the court may reduce the sentence (Art. 48*a*) or waive a penalty.
+<sup>1</sup> If the offender corrects a false accusation (Art. 303), false report of an offence (Art. 304) or a false statement (Art. 306 and 307) of their own accord and before it has caused any legal detriment to others, the court may reduce the sentence (Art. 48*a*) or waive a penalty.
 
 <sup>2</sup>
 
-The offender shall not be liable to a penalty if he has made a false statement (Art. 306 and 307) because:
+The offender shall not be liable to a penalty if they have made a false statement (Art. 306 and 307) because:
 
-- a. by testifying truthfully, he would risk prosecution; or
-- b. by testifying truthfully, a relative or another person to whom he is so closely related that his conduct is excusable would risk prosecution.
+- a. by testifying truthfully, they would risk prosecution; or
+- b. by testifying truthfully, a relative or another person to whom they are so closely related that their conduct is excusable would risk prosecution.
 
 [^308-1]: Amended by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
@@ -5376,7 +5375,7 @@ are liable to a custodial sentence of from one month to three years or to a mone
 
 #### Art. 312
 
-Any member of an authority or a public official who abuses his official powers in order to secure an unlawful advantage for himself or another or to cause prejudice to another shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
+Any member of an authority or a public official who abuses their official powers in order to secure an unlawful advantage for themselves or another or to cause prejudice to another shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
 ### Overcharging of taxes
 
@@ -5384,7 +5383,7 @@ Any member of an authority or a public official who abuses his official powers i
 
 [^313-1]
 
-Any public official who with a view to his own or another's gain levies taxes, fees or other charges which are not due or which exceed the statutory rates shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
+Any public official who with a view to their own or another's gain levies taxes, fees or other charges which are not due or which exceed the statutory rates shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
 [^313-1]: Amended by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
@@ -5394,7 +5393,7 @@ Any public official who with a view to his own or another's gain levies taxes, f
 
 [^314-1]
 
-Any member of an authority or public official who, in the course of a legal transaction and with a view to obtaining an unlawful advantage for himself or another, damages the public interests that he has a duty to safeguard shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
+Any member of an authority or public official who, in the course of a legal transaction and with a view to obtaining an unlawful advantage for themselves or another, damages the public interests that they have a duty to safeguard shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
 [^314-1]: Amended by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
@@ -5427,17 +5426,17 @@ shall be liable to a custodial sentence not exceeding five years or to a monetar
 
 [^317bis-1]
 
-<sup>1</sup> Any person who, as part of a covert investigation, produces, amends or uses documents with the approval of a court in order to construct or maintain his cover story or produces, amends or uses documents with the authorisation of the Federal Intelligence Service (FIS) under Article 17 IntelSA[^317bis-2] or the authorisation of the Head of the Federal Department of Defence, Civil Protection and Sport (DDPS) in accordance with Article 18 IntelSA in order to create or maintain his cover story or assumed identity does not commit an offence under Articles 251, 252, 255 and 317.[^317bis-3]
+<sup>1</sup> Any person who, as part of a covert investigation, produces, amends or uses documents with the approval of a court in order to construct or maintain their cover story or produces, amends or uses documents with the authorisation of the Federal Intelligence Service (FIS) under Article 17 IntelSA[^317bis-2] or the authorisation of the Head of the Federal Department of Defence, Civil Protection and Sport (DDPS) in accordance with Article 18 IntelSA in order to create or maintain their cover story or assumed identity does not commit an offence under Articles 251, 252, 255 and 317.[^317bis-3]
 
 <sup>2</sup> Any person who, with authorisation for a covert investigation or as instructed by the competent authority under Article 17 or 18 IntelSA, produces or amends official documents for the purposes of cover stories or assumed identities does not commit an offence under Articles 251, 252, 255 and 317.[^317bis-4]
 
 <sup>3</sup> Any person who produces, amends or uses official documents under the Federal Act of 23 December 2011[^317bis-5] on Extra-Procedural Witness Protection does not commit an offence under Articles 251, 252, 255 and 317.[^317bis-6]
 
 [^317bis-1]: Inserted by Art. 24 No 1 of the FA of 20 June 2003 on Covert Investigations, in force since 1 Jan. 2005 ([AS 2004 1409](https://fedlex.data.admin.ch/eli/oc/2004/177); BBl **1998** 4241). Amended by Annex No 3 of the FA of 23 Dec. 2011, in force since 16 July 2012 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-[^317bis-2]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^317bis-2]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 [^317bis-3]: Amended by Annex No II 2 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^317bis-4]: Amended by Annex No II 5 of the Intelligence Service Act of 25 Sept. 2015, in force since 1 Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^317bis-5]: [SR 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
+[^317bis-5]: [SR 312.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6221)
 [^317bis-6]: Inserted by Annex No 3 of the FA of 23 Dec. 2011 on Extra-Procedural Witness Protection, in force since 1 Jan. 2013 ([AS 2012 6715](https://fedlex.data.admin.ch/eli/oc/2012/814); [BBl 2011 1](https://fedlex.data.admin.ch/eli/fga/2011/1)).
 
 ### Issuing a false medical certificate
@@ -5465,11 +5464,11 @@ Any public official who assists or allows a person under arrest, a convicted pri
 
 [^320-1]
 
-<sup>1.</sup> Any person who discloses secret information that has been confided to him in his capacity as a member of an authority or as a public official or which has come to his knowledge in the execution of his official duties or as an auxiliary to a public official or an authority shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
+<sup>1.</sup> Any person who discloses secret information that has been confided to them in their capacity as a member of an authority or as a public official or which has come to their knowledge in the execution of their official duties or as an auxiliary to a public official or an authority shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
 A breach of official secrecy remains an offence following termination of employment as a member of an authority or as a public official or of the auxiliary activity.
 
-<sup>2.</sup> The offender is not liable to any penalty if he has disclosed the secret information with the written consent of his superior authority.
+<sup>2.</sup> The offender is not liable to any penalty if they have disclosed the secret information with the written consent of their superior authority.
 
 [^320-1]: Amended by Annex 1 No 7 of the Information Security Act of 18 Dec. 2020, in force since 1 Jan. 2023 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [750](https://fedlex.data.admin.ch/eli/oc/2022/750); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
@@ -5477,17 +5476,17 @@ A breach of official secrecy remains an offence following termination of employm
 
 #### Art. 321
 
-<sup>1.</sup> Any person who in his capacity as a member of the clergy, lawyer, defence lawyer, notary, patent attorney, auditor subject to a duty of confidentiality under the Code of Obligations (CO)[^321-1], doctor, dentist, chiropractor, pharmacist, midwife, psychologist, nurse, physiotherapist, occupational therapist, dietician, optometrist, osteopath or as an assistant to any of the foregoing persons discloses confidential information that has been confided to him in his professional capacity or which has come to his knowledge in the practice of his profession shall be liable on complaint to a custodial sentence not exceeding three years or to a monetary penalty.[^321-2]
+<sup>1.</sup> Any person who, in their capacity as a member of the clergy, lawyer, defence lawyer, notary, patent attorney, auditor subject to a duty of confidentiality under the Code of Obligations (CO)[^321-1], doctor, dentist, chiropractor, pharmacist, midwife, psychologist, nurse, physiotherapist, occupational therapist, dietician, optometrist, osteopath or as an assistant to any of the foregoing persons, discloses confidential information that has been confided to them in their professional capacity or which has come to their knowledge in the practice of their profession shall be liable on complaint to a custodial sentence not exceeding three years or to a monetary penalty.[^321-2]
 
-A student who discloses confidential information that has come to his knowledge in the course of his studies is also liable to the foregoing penalties.
+A student who discloses confidential information that has come to their knowledge in the course of their studies is also liable to the foregoing penalties.
 
 A breach of professional confidentiality remains an offence following the termination of professional employment or of the studies.
 
-<sup>2.</sup> The person disclosing the information is not liable to any penalty if he does so with the consent of the person to whom the information pertains or on the basis of written authorisation issued in response to his application by a superior authority or supervisory authority.
+<sup>2.</sup> The person disclosing the information is not liable to any penalty if they do so with the consent of the person to whom the information pertains or on the basis of written authorisation issued in response to their request by a superior authority or supervisory authority.
 
 <sup>3.</sup> The federal and cantonal provisions on the duties to report and cooperate, the duty to testify and on the obligation to provide information to an authority are reserved.[^321-3]
 
-[^321-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^321-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^321-2]: Amended by Annex No 1 of the Healthcare Occupations Act of 30 Sept. 2016, in force since 1 Feb. 2020 ([AS 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [BBl 2015 8715](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
 [^321-3]: Amended by Annex No 1 of the FA of 15 Dec. 2017 (Child Protection), in force since 1 Jan. 2019 ([AS 2018 2947](https://fedlex.data.admin.ch/eli/oc/2018/450); [BBl 2015 3431](https://fedlex.data.admin.ch/eli/fga/2015/838)).
 
@@ -5497,12 +5496,12 @@ A breach of professional confidentiality remains an offence following the termin
 
 [^321bis-1]
 
-<sup>1</sup> Any person who discloses without authorisation a professional secret that has come to his knowledge in the course of his research activities involving human beings in accordance with the Human Research Act of 30 September 2011[^321bis-2] shall be liable to a penalty in accordance with Article 321.
+<sup>1</sup> Any person who discloses without authorisation a professional secret that has come to their knowledge in the course of their research activities involving human beings in accordance with the Human Research Act of 30 September 2011[^321bis-2] shall be liable to a penalty in accordance with Article 321.
 
 <sup>2</sup> Professional secrets may be disclosed for the purpose of research into human diseases and concerning the structure and function of the human body if the requirements of Article 34 of the Human Research Act of 30 September 2011 are met and authorisation for disclosure has been obtained from the responsible ethics committee.
 
 [^321bis-1]: Inserted by Annex No 4 of the FA of 19 June 1992 on Data Protection ([AS 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945); [BBl 1988 II 413](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)). Amended by Annex No 2 of the Human Research Act of 30 Sept. 2011, in force since 1 Jan. 2014 ([AS 2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617); [BBl 2009 8045](https://fedlex.data.admin.ch/eli/fga/2009/1423)).
-[^321bis-2]: [SR 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
+[^321bis-2]: [SR 810.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9248)
 
 ### Breach of postal or telecommunications secrecy
 
@@ -5510,9 +5509,9 @@ A breach of professional confidentiality remains an offence following the termin
 
 [^321ter-1]
 
-<sup>1</sup> Any person who in his capacity as a public official, employee or auxiliary of an organisation providing postal or telecommunications services reveals to a third party details of customers' post, payments or telecommunications, opens sealed mail or tries to find out its content, or allows a third party the opportunity to carry out such an act shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
+<sup>1</sup> Any person who in their capacity as a public official, employee or auxiliary of an organisation providing postal or telecommunications services reveals to a third party details of customers' post, payments or telecommunications, opens sealed mail or tries to find out its content, or allows a third party the opportunity to carry out such an act shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
-<sup>2</sup> The foregoing penalties also apply to any person who by deception causes a person bound by a duty of confidentiality in terms of paragraph 1 to breach his obligation of secrecy.
+<sup>2</sup> The foregoing penalties also apply to any person who by deception causes a person bound by a duty of confidentiality in terms of paragraph 1 to breach their obligation of secrecy.
 
 <sup>3</sup> A breach of postal or telecommunications secrecy remains an offence even after termination of employment as a public official, employee or auxiliary of an organisation providing postal or telecommunication services.
 
@@ -5531,7 +5530,7 @@ A breach of professional confidentiality remains an offence following the termin
 
 <sup>1</sup> Media organisations are obliged, at the request of any person, to reveal immediately and in writing their place of business and the identity of those responsible for their publications (Art. 28 para. 2 and 3).[^322-2]
 
-<sup>2</sup> Newspapers, magazines or periodicals must indicate in an imprint the place of business of their media organisation, significant holdings in other organisations and the editor responsible. If the editor is responsible only for part of the newspaper, magazine or periodical, it must be indicated that he is the editor responsible for that part. Details of the editors responsible must be given for each part of the newspaper, magazine or periodical.
+<sup>2</sup> Newspapers, magazines or periodicals must indicate in an imprint the place of business of their media organisation, significant holdings in other organisations and the editor responsible. If the editor is responsible only for part of the newspaper, magazine or periodical, it must be indicated that they are the editor responsible for that part. Details of the editors responsible must be given for each part of the newspaper, magazine or periodical.
 
 <sup>3</sup> In the event of any violation of the provisions of this Article, the manager of the media organisation shall be liable to a fine. If the person indicated as editor (Art. 28 para. 2 and 3) does not in fact hold such a position, this also constitutes an offence.[^322-3]
 
@@ -5565,7 +5564,7 @@ A breach of professional confidentiality remains an offence following the termin
 
 #### Art. 322<sup>ter</sup>
 
-Any person who offers, promises or gives a member of a judicial or other authority, a public official, an officially-appointed expert, translator or interpreter, an arbitrator, or a member of the armed forces an undue advantage, or offers, promises or gives such an advantage to a third party in order to cause the public official to carry out or to fail to carry out an act in connection with his official activity which is contrary to his duty or dependent on his discretion,
+Any person who offers, promises or gives a member of a judicial or other authority, a public official, an officially-appointed expert, translator or interpreter, an arbitrator, or a member of the armed forces an undue advantage, or offers, promises or gives such an advantage to a third party in order to cause the public official to carry out or to fail to carry out an act in connection with their official activity which is contrary to their duty or dependent on their discretion,
 
 shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
@@ -5573,7 +5572,7 @@ shall be liable to a custodial sentence not exceeding five years or to a monetar
 
 #### Art. 322<sup>quater</sup>
 
-Any person who as a member of a judicial or other authority, as a public official, officially-appointed expert, translator or interpreter, or as an arbitrator demands, secures the promise of or accepts an undue advantage for that person or for a third party in order that he carries out or fails to carry out an act in connection with his official activity which is contrary to his duty or dependent on his discretion,
+Any person who as a member of a judicial or other authority, as a public official, officially-appointed expert, translator or interpreter, or as an arbitrator demands, secures the promise of or accepts an undue advantage for that person or for a third party in order that they carry out or fail to carry out an act in connection with their official activity which is contrary to their duty or dependent on their discretion,
 
 shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
@@ -5583,7 +5582,7 @@ shall be liable to a custodial sentence not exceeding five years or to a monetar
 
 [^322quinquies-1]
 
-Any person who offers, promises or gives a member of a judicial or other authority, a public official, an officially-appointed expert, translator or interpreter, an arbitrator or a member of the armed forces an undue advantage for that person or for a third party in order that the person carries out his official duties shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
+Any person who offers, promises or gives a member of a judicial or other authority, a public official, an officially-appointed expert, translator or interpreter, an arbitrator or a member of the armed forces an undue advantage for that person or for a third party in order that the person carries out their official duties shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
 [^322quinquies-1]: Amended by No I of the FA of 25 Sept. 2015 (Criminal Law on Corruption), in force since 1 July 2016 ([AS 2016 1287](https://fedlex.data.admin.ch/eli/oc/2016/257); [BBl 2014 3591](https://fedlex.data.admin.ch/eli/fga/2014/787)).
 
@@ -5593,7 +5592,7 @@ Any person who offers, promises or gives a member of a judicial or other authori
 
 [^322sexies-1]
 
-Any person who as a member of a judicial or other authority, as a public official, officially-appointed expert, translator or interpreter, or as an arbitrator, demands, secures the promise of, or accepts an undue advantage for himself or for a third party in order that he carries out his official duties shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
+Any person who as a member of a judicial or other authority, as a public official, officially-appointed expert, translator or interpreter, or as an arbitrator, demands, secures the promise of, or accepts an undue advantage for themselves or for a third party in order that they carry out their official duties shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
 [^322sexies-1]: Amended by No I of the FA of 25 Sept. 2015 (Criminal Law on Corruption), in force since 1 July 2016 ([AS 2016 1287](https://fedlex.data.admin.ch/eli/oc/2016/257); [BBl 2014 3591](https://fedlex.data.admin.ch/eli/fga/2014/787)).
 
@@ -5601,9 +5600,9 @@ Any person who as a member of a judicial or other authority, as a public officia
 
 #### Art. 322<sup>septies</sup>
 
-Any person who offers, promises or gives a member of a judicial or other authority, a public official, an officially-appointed expert, translator or interpreter, an arbitrator, or a member of the armed forces who is acting for a foreign state or international organisation an undue advantage, or gives such an advantage to a third party, in order that the person carries out or fails to carry out an act in connection with his official activities which is contrary to his duties or dependent on his discretion,
+Any person who offers, promises or gives a member of a judicial or other authority, a public official, an officially-appointed expert, translator or interpreter, an arbitrator, or a member of the armed forces who is acting for a foreign state or international organisation an undue advantage, or gives such an advantage to a third party, in order that the person carries out or fails to carry out an act in connection with their official activities which is contrary to their duty or dependent on their discretion,
 
-any person who as a member of a judicial or other authority, a public official, an officially-appointed expert, translator or interpreter, an arbitrator, or a member of the armed forces of a foreign state or of an international organisation demands, secures the promise of, or accepts an undue advantage for himself or for a third party in order that he carries out or fails to carry out an act in connection with his official activity which is contrary to his duty or dependent on his discretion[^322septies-1]
+any person who as a member of a judicial or other authority, a public official, an officially-appointed expert, translator or interpreter, an arbitrator, or a member of the armed forces of a foreign state or of an international organisation demands, secures the promise of, or accepts an undue advantage for themselves or for a third party in order that they carry out or fail to carry out an act in connection with their official activity which is contrary their duty or dependent on their discretion[^322septies-1]
 
 shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
@@ -5617,7 +5616,7 @@ shall be liable to a custodial sentence not exceeding five years or to a monetar
 
 [^322octies-1]
 
-<sup>1.</sup> Any person who offers, promises or gives an employee, partner, agent or any other auxiliary of a third party in the private sector an undue advantage for that person or a third party in order that the person carries out or fails to carry out an act in connection with his official activities which is contrary to his duties or dependent on his discretion shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
+<sup>1.</sup> Any person who offers, promises or gives an employee, partner, agent or any other auxiliary of a third party in the private sector an undue advantage for that person or a third party in order that the person carries out or fails to carry out an act in connection with their official activities which is contrary to their duty or dependent on their discretion shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
 <sup>2</sup> In minor cases, the offence is only prosecuted on complaint.
 
@@ -5629,7 +5628,7 @@ shall be liable to a custodial sentence not exceeding five years or to a monetar
 
 [^322novies-1]
 
-<sup>1</sup> Any person who as an employee, partner, agent or any other auxiliary of a third party in the private sector demands, secures the promise of, or accepts an undue advantage for himself or for a third party in order that the person carries out or fails to carry out an act in connection with his official activities which is contrary to his duties or dependent on his discretion shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
+<sup>1</sup> Any person who as an employee, partner, agent or any other auxiliary of a third party in the private sector demands, secures the promise of, or accepts an undue advantage for themselves or for a third party in order that the person carries out or fails to carry out an act in connection with their official activities which is contrary to their duty or dependent on their discretion shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
 <sup>2</sup> In minor cases, the offence is only prosecuted on complaint.
 
@@ -5658,7 +5657,7 @@ The following are not undue advantages:
 
 [^book2-tit20-1]: Originally Title 19.
 
-### Failure of a debtor to comply with the regulations governing Debt Enforcement and Bankruptcy proceedings
+### Failure of a debtor to comply with the regulations governing debt enforcement and bankruptcy proceedings
 
 #### Art. 323
 
@@ -5666,18 +5665,18 @@ The following are not undue advantages:
 
 The following persons are liable to a fine:
 
-<sup>1.</sup> a debtor who is not present or has not appointed a representative to be present at the seizure of or the recording of an inventory of his assets of which he has been given lawful notice (Art. 91 para. 1 no 1, 163 para. 2 and 341 para. 1 DEBA[^323-2]);[^323-3]
+<sup>1.</sup> a debtor who is not present or has not appointed a representative to be present at the distraint of or the recording of an inventory of their assets of which they have been given lawful notice (Art. 91 para. 1 no 1, 163 para. 2 and 341 para. 1 DEBA[^323-2]);[^323-3]
 
-<sup>2.</sup> a debtor who fails to disclose his assets including those not in his possession, or his claims and rights against third parties to the extent required to obtain satisfaction by seizure or to implement an attachment (Art. 91 para. 1 para. 2 and 275 DEBA);
+<sup>2.</sup> a debtor who fails to disclose their assets including those not in their possession, or their claims and rights against third parties to the extent required to obtain satisfaction by distraint or to implement an attachment (Art. 91 para. 1 para. 2 and 275 DEBA);
 
-<sup>3.</sup> a debtor who fails to fully disclose his assets including those not in his possession, or his claims and rights against third parties on the recording of an inventory of assets (Art. 163 para. 2, 341 para. 1 DEBA);[^323-4]
+<sup>3.</sup> a debtor who fails to fully disclose their assets including those not in their possession, or their claims and rights against third parties on the recording of an inventory of assets (Art. 163 para. 2, 341 para. 1 DEBA);[^323-4]
 
-<sup>4.</sup> a debtor who fails to disclose or make available all his assets to the Bankruptcy Office (Art. 222 para. 1 DEBA);
+<sup>4.</sup> a debtor who fails to disclose or make available all their assets to the bankruptcy office (Art. 222 para. 1 DEBA);
 
-<sup>5.</sup> a debtor who does not make himself available to the bankruptcy administrator during the bankruptcy proceedings unless he has special permission to be excused this duty (Art. 229 para. 1 DEBA).
+<sup>5.</sup> a debtor who does not make themselves available to the bankruptcy administrator during the bankruptcy proceedings unless they have special permission to be excused this duty (Art. 229 para. 1 DEBA).
 
 [^323-1]: Amended by Annex No 8 of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)1307; [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^323-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^323-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^323-3]: Amended by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^323-4]: Amended by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
@@ -5689,18 +5688,18 @@ The following persons are liable to a fine:
 
 The following persons are liable to a fine:
 
-<sup>1.</sup> any adult person who shared a household with a debtor who is deceased or has absconded and who fails to disclose full details of that debtor's assets and to make themselves available to the Bankruptcy Office (Art. 222 para. 2 DEBA[^324-2]);
+<sup>1.</sup> any adult person who shared a household with a debtor who is deceased or has absconded and who fails to disclose full details of that debtor's assets and to make themselves available to the bankruptcy office (Art. 222 para. 2 DEBA[^324-2]);
 
-<sup>2.</sup> any debtor of a bankrupt who fails to report to the Bankruptcy Office within the time limit (Art. 232 para. 2 para. 3 DEBA);
+<sup>2.</sup> any debtor of a bankrupt who fails to report to the bankruptcy office within the time limit (Art. 232 para. 2 para. 3 DEBA);
 
-<sup>3.</sup> any person who possesses items belonging to a debtor as a pledge or for any other reason and fails to deliver such items to the Bankruptcy Office within the time limit (Art. 232 para. 2 para. 4 DEBA);
+<sup>3.</sup> any person who possesses items belonging to a debtor as a pledgee or for any other reason and fails to deliver such items to the bankruptcy office within the time limit (Art. 232 para. 2 para. 4 DEBA);
 
-<sup>4.</sup> any person who possesses items belonging to a debtor as a pledgee and fails to deliver such items to the liquidators after expiry of the time limit for realisation (Art. 324 para. 2 DEBA);
+<sup>4.</sup> any person who possesses items belonging to a debtor as a pledgee and fails to deliver such items to the liquidators after expiry of the deadline for realisation (Art. 324 para. 2 DEBA);
 
-<sup>5.</sup> any third party who fails to comply with his duty to provide information and to deliver assets in accordance with Articles 57*a* paragraph 1, 91 paragraph 4, 163 paragraph 2, 222 paragraph 4 and 341 paragraph 1 of the DEBA.[^324-3]
+<sup>5.</sup> any third party who fails to comply with their duty to provide information and to deliver assets in accordance with Articles 57*a* paragraph 1, 91 paragraph 4, 163 paragraph 2, 222 paragraph 4 and 341 paragraph 1 of the DEBA.[^324-3]
 
 [^324-1]: Amended by Annex No 8 of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)1307; [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^324-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^324-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^324-3]: Amended by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Failure to comply with accounting regulations
@@ -5719,13 +5718,13 @@ shall be liable to a fine.
 
 [^325bis-1]
 
-A person shall be liable to a fine if he or she wilfully commits any of the following acts:
+A person shall be liable to a fine if they wilfully commit any of the following acts:
 
-- a. provides false information in the report on payments made to state bodies in accordance with Article 964*d* CO[^325bis-2] or wholly or partly fails to make the required report;
-- b. fails to comply with the obligation to keep and retain reports on payments to state bodies in accordance with Article 964*h* CO.
+- a. providing false information in the report on payments made to state bodies in accordance with Article 964*d* CO[^325bis-2] or wholly or partly failing to make the required report;
+- b. failing to comply with the obligation to keep and retain reports on payments to state bodies in accordance with Article 964*h* CO.
 
 [^325bis-1]: Inserted by No III 2 of the FA of 19 June 2020 (Indirect Counter-Proposal to the Popular Initiative "For responsible businesses – protecting human rights and the environment"), in force since 1 Jan. 2022 ([AS 2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^325bis-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^325bis-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Infringement of other reporting obligations
 
@@ -5735,15 +5734,15 @@ A person shall be liable to a fine if he or she wilfully commits any of the foll
 
 <sup>1</sup>
 
-A person shall be liable to a fine not exceeding 100 000 francs if he or she wilfully commits any of the following acts:
+A person shall be liable to a fine not exceeding 100 000 francs if they wilfully commit any of the following acts:
 
-- a. provides false information in the reports in accordance with Articles 964*a*, 964*b* and 964*l* CO[^325ter-2] or fails to make the required reports;
-- b. fails to comply with the statutory obligation to retain and document the reports in accordance with Articles 964*c* and 964*l* CO.
+- a. providing false information in the reports in accordance with Articles 964*a*, 964*b* and 964*l* CO[^325ter-2] or failing to make the required reports;
+- b. failing to comply with the statutory obligation to retain and document the reports in accordance with Articles 964*c* and 964*l* CO.
 
 <sup>2</sup> A person who acts through negligence shall be liable to a fine not exceeding 50 000 francs.
 
 [^325ter-1]: Inserted by No III 2 of the FA of 19 June 2020 (Indirect Counter-Proposal to the Popular Initiative "For responsible businesses – protecting human rights and the environment"), in force since 1 Jan. 2022 ([AS 2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^325ter-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^325ter-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Failure to comply with the regulations governing the protection of tenants of domestic and commercial properties
 
@@ -5753,14 +5752,14 @@ A person shall be liable to a fine not exceeding 100 000 francs if he or she wil
 
 Any person who prevents or attempts to prevent a tenant by the threat of detrimental consequences, and in particular the termination of the lease, from contesting the level of rent or other claims of the landlord,
 
-any person who serves notice of termination on the tenant because the tenant asserts or wishes to assert his rights under the CO[^325quater-2], or
+any person who serves notice of termination on the tenant because the tenant asserts or wishes to assert their rights under the CO[^325quater-2], or
 
 any person who unlawfully demands or attempts to demand payment of rent or other claims after the failure of an attempt to reach agreement thereon or following a court judgment thereon,
 
 shall be liable on complaint by the tenant to a fine.
 
 [^325quater-1]: Originally Article 325<sup>bis</sup>. Inserted by No II Art. 4 of the FA of 15 Dec. 1989 on the Amendment of the CO (Leases and Tenancies) ([AS 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802); [BBl 1985 I 1389](https://fedlex.data.admin.ch/eli/fga/1985/1_1389_1369_1201)at the end, final provisions on Titles VIII and VIII<sup>bis</sup>). Amended by No III 2 of the FA of 19 June 2020 (Indirect Counter-Proposal to the Popular Initiative "For responsible businesses – protecting human rights and the environment"), in force since 1 Jan. 2022 ([AS 2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^325quater-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^325quater-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Application to legal entities, trading companies and sole proprietorships
 
@@ -5768,7 +5767,7 @@ shall be liable on complaint by the tenant to a fine.
 
 [^book2-tit20-lvlu7-1]: Footnote relevant to German text only.
 
-### 1. ...
+### 1. …
 
 #### Art. 326
 
@@ -5788,7 +5787,7 @@ shall be liable on complaint by the tenant to a fine.
 
 <sup>1</sup> Where the acts constituting offences under Article 325<sup>quater</sup> are committed while attending to the affairs of a legal entity, general or limited partnership or sole proprietorship[^326bis-2] or otherwise in the provision of commercial or business services to another, the criminal provisions apply to those natural persons who have committed the acts.[^326bis-3]
 
-<sup>2</sup> An employer or principal who is aware of the offence or becomes aware of the offence subsequently and who, although he is in a position to do so, fails to prevent the offence or to remedy its consequences shall be liable to the same penalties as the offender.
+<sup>2</sup> An employer or principal who is aware of the offence or becomes aware of the offence subsequently and who, although they are in a position to do so, fails to prevent the offence or to remedy its consequences shall be liable to the same penalties as the offender.
 
 <sup>3</sup> If the employer or principal is a legal entity, general or limited partnership, sole proprietorship[^326bis-4] or corporate body without legal personality, paragraph 2 applies to the culpable management bodies, members of the management bodies, executive partners, de facto managers or liquidators.
 
@@ -5812,7 +5811,7 @@ any person who gives the impression that a foreign legal entity not entered in t
 shall be liable to a fine[^326ter-2].
 
 [^326ter-1]: Inserted by No I of the FA of 17 June 1994 ([AS 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [BBl 1991 II 969](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)). Amended by Annex No 5 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies Limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^326ter-2]: Corrected by the Drafting Committee of the Federal Assembly (Art. 58 para. 2 ParlA; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^326ter-2]: Corrected by the Drafting Committee of the Federal Assembly (Art. 58 para. 2 ParlA; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 ### Provision of false information by an employee benefits institution
 
@@ -5833,7 +5832,7 @@ Any person who as a management officer of an employee benefits institution is un
 Any person who wilfully fails to comply with obligations under Article 697*j* paragraphs 1–4 or Article 790*a* paragraphs 1–4 of the CO[^327-2] to give notice of beneficial owner of shares or capital contributions shall be liable to a fine.
 
 [^327-1]: Amended by No I 2 of the FA of 21 June 2019 on Implementing the Recommendations of the Global Forum on Transparency and Transfer of Information for Tax Purposes, in force since 1 Nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
-[^327-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^327-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Violation of company law obligations on keeping registers
 
@@ -5841,7 +5840,7 @@ Any person who wilfully fails to comply with obligations under Article 697*j* pa
 
 [^327a-1]
 
-A person shall be liable to a fine if he or she wilfully fails to keep any of the following registers in accordance with the regulations or if he or she infringes associated company law obligations:
+A person shall be liable to a fine if they wilfully fail to keep any of the following registers in accordance with the regulations or if they infringe associated company law obligations:
 
 - a. in the case of a company limited by shares: the share register in accordance with Article 686 paragraphs 1–3 and 5 CO[^327a-2] or the register of the beneficial owners of the shares in accordance with Article 697*l* CO;
 - b. in the case of a limited liability company: the register of contributions in accordance with Article 790 paragraphs 1–3 and 5 CO or the register of the beneficial owners of the capital contributions in accordance with Article 790*a* paragraph 5 CO in conjunction with Article 697*l* CO;
@@ -5849,8 +5848,8 @@ A person shall be liable to a fine if he or she wilfully fails to keep any of th
 - d. in the case of an investment company with variable capital (Art. 36 of the Collective Investment Schemes Act of 23 June 2006[^327a-3]); the share register recording the company shareholders or the register of the beneficial owners of the shares held by the company shareholders in accordance with Article 46 paragraph 3 of the Collective Investment Schemes Act of 23 June 2006.
 
 [^327a-1]: Inserted by No I 2 of the FA of 21 June 2019 on Implementing the Recommendations of the Global Forum on Transparency and Transfer of Information for Tax Purposes, in force since 1 Nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
-[^327a-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^327a-3]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^327a-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^327a-3]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 ### Failure to comply with the statutory obligations of associations
 
@@ -5861,7 +5860,7 @@ A person shall be liable to a fine if he or she wilfully fails to keep any of th
 Any person who wilfully fails to comply with the any of obligations for associations specified in Articles 61*a* and 69 paragraph 2 of the Civil Code[^327b-2] shall be liable to a fine.
 
 [^327b-1]: Inserted by Annex 1 No 2 of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^327b-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^327b-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 328
 
@@ -5937,7 +5936,7 @@ In the other federal acts, the terms below are replaced as follows:
 
 <sup>7</sup> The contraventions provided for in other federal acts are offences, even if they have been committed through negligence, unless only intentional commission is an offence in terms of the provision concerned.
 
-[^333-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^333-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^333-2]: Repealed by No I 5 of the FA of 17 Dec. 2021 on the Harmonisation of Secondary Criminal Law with the Amended Law on Sanctions, with effect from 1 July 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^333-3]: Inserted by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
@@ -5955,7 +5954,7 @@ If reference is made in federal legislation to provisions being amended or repea
 
 <sup>2</sup> The cantons have the power to provide for sanctions for offences against cantonal administrative and procedural law.
 
-### Title Two: ...
+### Title Two: …
 
 #### Art. 336–338
 
@@ -5963,7 +5962,7 @@ If reference is made in federal legislation to provisions being amended or repea
 
 [^336338-1]: Repealed by Annex 1 No II 8 of the Criminal Procedure Code of 5 Oct. 2007, with effect from 1 Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
-### Title Three: ...
+### Title Three: …
 
 #### Art. 339–348
 
@@ -5997,7 +5996,7 @@ The competent federal authorities may only disclose personal data if there is a 
 - b. the person concerned has made their personal data general accessible and has not expressly prohibited the disclosure of the data.
 
 [^349a-1]: Inserted by No II 2 of the FA of 28 Sept. 2018 on the implementation of Directive (EU) 2016/680 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, in force since 1 March 2019 ([AS 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^349a-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^349a-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^349a-3]: Amended by Annex 1 No II 26 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### b. Equal treatment
@@ -6063,7 +6062,7 @@ Personal data transmitted or made available by a Schengen State may be disclosed
 
 By way of derogation from paragraph 1 letter b, personal data may be disclosed in a particular case, if:
 
-- a. the prior consent of the Schengen State not cannot be obtained in time; and
+- a. the prior consent of the Schengen State cannot be obtained in time; and
 - b. disclosure is essential to prevent an imminent serious threat to the public security of a Schengen State or a third country or for safeguarding the essential interests of a Schengen State.
 
 <sup>3</sup> The Schengen State shall be informed immediately of the disclosure referred to in paragraph 2.
@@ -6083,7 +6082,7 @@ Where it is not possible, in particular in cases of emergency, to disclose perso
 - a. The disclosure is essential to fulfil a statutory task of the authority disclosing the data.
 - b. No overriding interests of the data subject worthy of protection stand in the way of disclosure.
 
-<sup>2</sup> The competent authority shall inform the recipient of the personal data at the time of disclosure that he may use the data only for the purposes specified by the authority.
+<sup>2</sup> The competent authority shall inform the recipient of the personal data at the time of disclosure that the recipient may use the data only for the purposes specified by the authority.
 
 <sup>3</sup> It shall inform the competent authority of the third country without delay of any disclosure of personal data, provided it considers this appropriate.
 
@@ -6124,22 +6123,22 @@ It shall also provide the recipient with any further information that can be use
 
 <sup>1</sup>
 
-The data subject may request the FDPIC to check whether any data relating to the data subject is being processed lawfully if:
+The data subject may request the FDPIC to check whether any data relating to the data subject are being processed lawfully if:
 
 - a. the data subject’s right to information about the exchange of data about them is restricted or deferred (Art. 19 and 20 FADP[^349g-2]);
-- b. his or her right to information is denied, restricted or deferred (Art. 25 and 26 FADP); or
-- c. his or her right to request the rectification, destruction or deletion of data relating to him or her is partially or completely denied (Art. 41 para. 2 let. a FADP).[^349g-3]
+- b. the data subject’s right to information is denied, restricted or deferred (Art. 25 and 26 FADP); or
+- c. the data subject’s request for the rectification, destruction or deletion of data relating to them is partially or completely denied (Art. 41 para. 2 let. a FADP).[^349g-3]
 
 <sup>2</sup> Only a federal authority under the supervision of the FDPIC may be examined.
 
-<sup>3</sup> The Commissioner shall complete the verification; he shall notify the data subject that either no data relating to him or her has been unlawfully processed, or that he has opened an investigation pursuant to Article 49 FADP in the case of errors in the processing of personal data.[^349g-4]
+<sup>3</sup> The FDPIC shall complete the verification; it shall notify the data subject that either no data relating to them have been unlawfully processed, or that it has opened an investigation pursuant to Article 49 FADP in the case of errors in the processing of personal data.[^349g-4]
 
-<sup>4</sup> If the FDPIC finds errors in the processing of the data, he shall order the competent federal authority to correct them.
+<sup>4</sup> If the FDPIC finds errors in the processing of the data, it shall order the competent federal authority to correct them.
 
 <sup>5</sup> The notification referred to in paragraph 3 shall always be worded in the same way and is not substantiated. It may not be contested.
 
 [^349g-1]: Inserted by No II 2 of the FA of 28 Sept. 2018 on the implementation of Directive (EU) 2016/680 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, in force since 1 March 2019 ([AS 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^349g-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^349g-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^349g-3]: Amended by Annex 1 No II 26 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^349g-4]: Amended by Annex 1 No II 26 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
@@ -6149,7 +6148,7 @@ The data subject may request the FDPIC to check whether any data relating to the
 
 [^349h-1]
 
-<sup>1</sup> If a data subject credibly demonstrates that an exchange of personal data concerning him or her could violate the provisions on the protection of personal data, he or she may request the FDPIC to open an investigation pursuant to Article 49 FADP[^349h-2].[^349h-3]
+<sup>1</sup> If a data subject credibly demonstrates that an exchange of personal data concerning them could violate the provisions on the protection of personal data, they may request the FDPIC to open an investigation pursuant to Article 49 FADP[^349h-2].[^349h-3]
 
 <sup>2</sup> An investigation may only be opened against a federal authority that is under the supervision of the FDPIC.
 
@@ -6158,7 +6157,7 @@ The data subject may request the FDPIC to check whether any data relating to the
 <sup>4</sup> Articles 50 and 51 FADP also apply.[^349h-4]
 
 [^349h-1]: Inserted by No II 2 of the FA of 28 Sept. 2018 on the implementation of Directive (EU) 2016/680 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, in force since 1 March 2019 ([AS 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^349h-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^349h-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^349h-3]: Amended by Annex 1 No II 26 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^349h-4]: Amended by Annex 1 No II 26 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
@@ -6206,8 +6205,8 @@ The data subject may request the FDPIC to check whether any data relating to the
 
 <sup>3</sup> The Federal Office may provide information directly to the Central Bureaus of other states provided the recipient state is subject to the INTERPOL data protection regulations.
 
-[^352-1]: [SR 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
-[^352-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^352-1]: [SR 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
+[^352-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^352-3]: Amended by Annex 1 No II 26 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### d. Financial aid and other payments
@@ -6255,19 +6254,19 @@ The data may be used:
 <sup>6</sup> SEM or the Federal Office of Police (fedpol) may transmit the data in an automated procedure to the national section of the Schengen Information System (SIS) for the purpose of issuing alerts.[^354-12]
 
 [^354-1]: Amended by Annex 1 No 3 of the Criminal Records Register Act of 17 June 2016, in force since 23 Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
-[^354-2]: The name of this administrative unit was changed in application of Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
+[^354-2]: The name of this administrative unit was changed in application of Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)).
 [^354-3]: Amended by Annex 2 No 1 of the FedD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 23 Jan. 2023 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^354-4]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
-[^354-5]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^354-6]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^354-7]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^354-8]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^354-4]: [SR 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
+[^354-5]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^354-6]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^354-7]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^354-8]: [SR 363](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6319)
 [^354-9]: Amended by Annex No 1 of the FA of 17 Dec. 2021, in force since 1 Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 [^354-10]: Amended by Annex 2 No 1 of the FedD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 23. Jan. 2023 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 [^354-11]: Amended by Annex 2 No 1 of the FedD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 23. Jan. 2023 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 [^354-12]: Inserted by Annex 2 No 1 of the FedD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 23. Jan. 2023 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
-### 4. ...
+### 4. …
 
 #### Art. 355
 
@@ -6326,9 +6325,9 @@ The Federal Council is authorised to agree with Europol amendments to the scope 
 The federal and cantonal police authorities shall implement the provisions of the Schengen Association Agreement[^355c-2] in accordance with domestic law.
 
 [^355c-1]: Inserted by Art. 3 No 4 of the FedD of 17 Dec. 2004 on the Adoption and Implementation of the Bilateral Agreements between Switzerland and the EU on the Association to Schengen and Dublin, in force since 1 June 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[2179](https://fedlex.data.admin.ch/eli/oc/2008/318); [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
-[^355c-2]: Agreement of 26 Oct. 2004 between the Swiss Confederation, the European Union and the European Community on the Association of that State with the Implementation, Application and Development of the Schengen Acquis ([SR 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)); Agreement of 28 April 2005 between the Swiss Confederation and the Kingdom of Denmark on the Establishment of Rights and Obligations between these two States with a view to Cooperation on Schengen ([SR 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)); Agreement of 17 Dec. 2004 between the Swiss Confederation, the Republic of Iceland and the Kingdom of Norway on the implementation, application and development of the Schengen Acquis and on the criteria and procedure for determining the State responsible for examining an application for asylum lodged in Switzerland, Iceland or Norway ([SR 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)).
+[^355c-2]: Agreement of 26 Oct. 2004 between the Swiss Confederation, the European Union and the European Community on the Association of that State with the Implementation, Application and Development of the Schengen Acquis ([SR 0.362.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1513)); Agreement of 28 April 2005 between the Swiss Confederation and the Kingdom of Denmark on the Establishment of Rights and Obligations between these two States with a view to Cooperation on Schengen ([SR 0.362.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1520)); Agreement of 17 Dec. 2004 between the Swiss Confederation, the Republic of Iceland and the Kingdom of Norway on the implementation, application and development of the Schengen Acquis and on the criteria and procedure for determining the State responsible for examining an application for asylum lodged in Switzerland, Iceland or Norway ([SR 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)).
 
-### 5<sup>ter</sup>. ...
+### 5<sup>ter</sup>. …
 
 #### Art. 355d
 
@@ -6349,17 +6348,69 @@ The federal and cantonal police authorities shall implement the provisions of th
 [^355e-1]: Inserted by Art. 3 No 4 of the FedD of 17 Dec. 2004 on the Adoption and Implementation of the Bilateral Agreements between Switzerland and the EU on the Association to Schengen and Dublin, in force since 1 June 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[2179](https://fedlex.data.admin.ch/eli/oc/2008/318); [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^355e-2]: Amended by Annex 1 No 4 of the FedD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 22 Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365), [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
-#### Art. 355f–355g
+#### Art. 355f and 355g
 
 [^355f355g-1]
 
 [^355f355g-1]: Inserted by No 4 of the FA of 19 March 2010 on the Implementation of Framework Decision 2008/977/JHA on the protection of personal data processed in the framework of police and judicial cooperation in criminal matters ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464); [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)). Repealed by No II 2 of the FA of 28 Sept. 2018 on the implementation of Directive (EU) 2016/680 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, with effect from 1 March 2019 ([AS 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
-#### Art. 356–361
+### 5<sup>quinquies</sup>. Prüm cooperation
 
-[^356361-1]
+### a. Comparison of dactyloscopic data and vehicle and vehicle owner data
 
-[^356361-1]: Repealed by Annex 1 No II 8 of the Criminal Procedure Code of 5 Oct. 2007, with effect from 1 Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+#### Art. 356
+
+[^356-1]
+
+<sup>1</sup> The Confederation and the cantons shall support the participating states, particularly in the fight against terrorism and cross-border crime, by making comparisons using information systems containing dactyloscopic data and vehicle and vehicle owner data and by exchanging information.
+
+<sup>2</sup> In accordance with Article 9 paragraph 1 of Decision 2008/615/JHA[^356-2], the national contact points of the participating states may, for the prevention and prosecution of criminal offences in individual cases, compare dactyloscopic data with the reference data in the Swiss information systems.
+
+<sup>3</sup> For the purpose of prosecuting criminal offences, the national contact point referred to in Article 357 paragraph 1 shall, on request, carry out a comparison with the dactyloscopic data in the information systems of the Contracting States.
+
+[^356-1]: Amended by Annex No 3 of the FD of 1 Oct. 2021 on the Approval and Implementation of the Agreement between Switzerland and the EU on the stepping up of cross-border cooperation (Prüm cooperation) and of the Eurodac Protocol between Switzerland, the EU and the Principality of Liechtenstein regarding access to Eurodac for law enforcement purposes, in force since 1 Aug. 2025 ([AS 2025 348](https://fedlex.data.admin.ch/eli/oc/2025/348), [401](https://fedlex.data.admin.ch/eli/oc/2025/401); [BBl 2021 738](https://fedlex.data.admin.ch/eli/fga/2021/738)).
+[^356-2]: Council Decision 2008/615/JHA of 23 Juni 2008 on the stepping up of cross-border cooperation, particularly in combating terrorism and cross-border crime, last amended by OJ. L 210 of 6.8.2008, p. 1.
+
+### b. National contact points
+
+#### Art. 357
+
+[^357-1]
+
+<sup>1</sup> Fedpol is the national contact point for the exchange of dactyloscopic data and personal data in accordance with Articles 6, 11, 15 and 16 paragraph 3 of Decision 2008/615/JHA[^357-2].
+
+<sup>2</sup>
+
+As the contact point, fedpol performs the following tasks in particular:
+
+- a. It carries out comparisons with dactyloscopic data held in the information system of other participating countries.
+- b. It checks hits that have been obtained on the basis of a comparison carried out by Switzerland in the fingerprint information system of a participating state.
+- c. On request, it transmits to the requesting participating State the personal data and, where provided for under Swiss law, other available information in accordance with Article 10 of Decision 2008/615/JHA.
+- d. On request or on its own initiative, it transmits personal and non-personal data in accordance with Articles 13 and 14 (major events) and 16 (prevention of terrorist offences) of Decision 2008/615/JHA.
+- e. It defines maximum search capacities for dactyloscopic data.
+
+<sup>3</sup>
+
+The following authorities may, within the scope of their statutory duties, request a comparison in accordance with paragraph 2:
+
+- a. fedpol;
+- b. the Office of the Attorney General of Switzerland;
+- c. the cantonal police and prosecution authorities.
+
+<sup>4</sup> The Federal Roads Office (FEDRO) is the national contact point for the exchange of data on owners or operators of vehicles and vehicle data in accordance with Article 12 paragraph 2 of Decision 2008/615/JHA. As the contact point, FEDRO grants the requesting contracting state access to the vehicle and vehicle operator data in the IVZ vehicles subsystem for the purposes of Article 12 paragraph 1 of Decision 2008/615/JHA. Access to the data is granted in accordance with Article 15 and Chapter 3 of the Annex to the Decision 2008/616/JHA[^357-3].
+
+<sup>5</sup> Terrorist offences within the meaning of Article 16 of Decision 2008/615/JHA are the felonies and misdemeanours referred to in Article 111*j* paragraph 6 letter a of the Foreign Nationals and Integration Act of 16 December 2005[^357-4].
+
+[^357-1]: Amended by Annex No 3 of the FD of 1 Oct. 2021 on the Approval and Implementation of the Agreement between Switzerland and the EU on the stepping up of cross-border cooperation (Prüm cooperation) and of the Eurodac Protocol between Switzerland, the EU and the Principality of Liechtenstein regarding access to Eurodac for law enforcement purposes, in force since 1 Aug. 2025 ([AS 2025 348](https://fedlex.data.admin.ch/eli/oc/2025/348), [401](https://fedlex.data.admin.ch/eli/oc/2025/401); [BBl 2021 738](https://fedlex.data.admin.ch/eli/fga/2021/738)).
+[^357-2]: See footnote to Art. 356 para. 2.
+[^357-3]: Council Decision 2008/616/JHA of 23 June 2008 on the implementation of Decision 2008/615/JHA on the stepping up of cross-border cooperation, particularly in combating terrorism and cross-border crime, OJ. L 210 of 6.8.2008, p. 12.
+[^357-4]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+
+#### Art. 358–361
+
+[^358361-1]
+
+[^358361-1]: Repealed by Annex 1 No II 8 of the Criminal Procedure Code of 5 Oct. 2007, with effect from 1 Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 ### 6. Notification in relation to pornography
 
@@ -6371,7 +6422,7 @@ If an investigating authority establishes that pornographic articles (Art. 197 p
 
 [^362-1]: Amended by Annex No 1 of the FedD of 27 Sept. 2013 (Lanzarote Convention), in force since 1 July 2014 ([AS 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [BBl 2012 7571](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
 
-### Title Five: ...
+### Title Five: …
 
 #### Art. 363
 
@@ -6446,7 +6497,7 @@ Legally binding decisions issued on the basis of federal or cantonal criminal la
 <sup>4</sup> The provisions of the Federal Act of 19 March 2004[^374-2] on the Division of Forfeited Assets are reserved.[^374-3]
 
 [^374-1]: Amended by No II 2 of the FA of 17 March 2017 (Creation of an Appeals Chamber in the Federal Criminal Court), in force since 1 Jan. 2019 ([AS 2017 5769](https://fedlex.data.admin.ch/eli/oc/2017/624); [BBl 2013 7109](https://fedlex.data.admin.ch/eli/fga/2013/1333), [2016 6199](https://fedlex.data.admin.ch/eli/fga/2016/1190)).
-[^374-2]: [SR 312.4](https://fedlex.data.admin.ch/eli/cc/2004/468)
+[^374-2]: [SR 312.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6224)
 [^374-3]: Inserted by Annex No 1 of the FA of 19 March 2004 on the Division of Forfeited Assets, in force since 1 Aug. 2004 ([AS 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468); [BBl 2002 441](https://fedlex.data.admin.ch/eli/fga/2002/69)).
 
 ### 3. Community service
@@ -6517,8 +6568,8 @@ They may also provide units for special inmate groups, and in particular for:
 The offender shall contribute in an appropriate manner to the costs:
 
 - a. by performing work while serving a sentence or undergoing a measure;
-- b. in accordance with his income or assets if he refuses to perform work assigned to him even though the work satisfies the requirements of Articles 81 or 90 paragraph 3; or
-- c.[^380-1] by deduction of part of the income due to him as payment for an activity while in semi-detention, while subject to electronic monitoring, while on day release employment or while in external accommodation combined with day release employment.
+- b. in accordance with their income or assets if they refuse to perform work assigned to them even though the work satisfies the requirements of Articles 81 or 90 paragraph 3; or
+- c.[^380-1] by deduction of part of the income due to them as payment for an activity while in semi-detention, while subject to electronic monitoring, while on day release employment or while in external accommodation combined with day release employment.
 
 <sup>3</sup> The cantons shall issue detailed regulations on offenders' contributions to costs.
 
@@ -6538,8 +6589,8 @@ The offender shall contribute in an appropriate manner to the costs:
 
 <sup>3</sup> In relation to rights of recourse against the members of the authority issuing the order, cantonal law or the Government Liability Act of 14 March 1958[^380a-2] applies.
 
-[^380a-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^380a-2]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^380a-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^380a-2]: [SR 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 ### Title Eight: Pardons, Amnesties, Re-opening of Cases
 
@@ -6560,7 +6611,7 @@ The right to grant a pardon in relation to convictions based on this Code or any
 
 #### Art. 382
 
-<sup>1</sup> The petition for a pardon may be filed by the offender, his legal representative or, with consent of the offender, by his defence agent, spouse or registered partner.[^382-1]
+<sup>1</sup> The petition for a pardon may be filed by the offender, their legal representative or, with consent of the offender, by their defence agent, spouse or registered partner.[^382-1]
 
 <sup>2</sup> In the case of political felonies and misdemeanours and in the case offences connected with political felonies or misdemeanours, the Federal Council or the cantonal government is also entitled to initiate the pardon procedure.
 
@@ -6745,6 +6796,6 @@ Article 305<sup>bis</sup> does not apply to aggravated tax misdemeanours as defi
 
 [^u5-1]
 
-[^u5-1]: [AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)
+[^u5-1]: [AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)..
 
 If the offender was sentenced under the previous law to a monetary penalty of more than 180 daily penalty units within the five years prior to the offence the sentence may only be suspended (Art. 42 para. 1) where the circumstances are especially favourable.
