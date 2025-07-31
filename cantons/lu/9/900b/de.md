@@ -4,13 +4,12 @@ number: 900b
 title: Verordnung über Härtefallmassnahmen für Luzerner Unternehmen im Zusammenhang mit der Covid-19-Epidemie
 short: Kantonale Härtefallverordnung Covid-19
 language: de
-version: 2023-04-01
-valid_until: 2025-07-31
-version_adopted: 2023-02-28
+version: 2025-08-01
+version_adopted: 2025-02-11
 adopted: 2022-03-29
 in_force: 2022-03-30
 url: "https://srl.lu.ch/app/de/texts_of_law/900b"
-pdf: "https://srl.lu.ch/api/de/versions/4062/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4503/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4062/pdf_file"
 
 (Kantonale Härtefallverordnung Covid-19)
 
-vom 29.03.2022 (Stand 01.04.2023)
+vom 29.03.2022 (Stand 01.08.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -93,6 +92,8 @@ beschliesst:
 <sup>3</sup> Für die Berechnung des zurückzuführenden Gewinns werden Sofortabschreibungen in die ordentlichen Abschreibungssätze umgerechnet.
 
 <sup>4</sup> Aussergewöhnliche Positionen in den Jahresrechnungen 2020 bis 2022 können bei der Berechnung des zurückzuführenden Gewinns korrigiert werden, soweit sie sich nicht im Rahmen der Vorjahre 2018 und 2019 bewegen oder den zurückzuführenden Gewinn unzulässig mindern. Eine Korrektur ist auch zugunsten des Unternehmens möglich.
+
+<sup>5</sup> Covid-19-Härtefallgelder, die vor der Änderung dieser Verordnung vom 21. April 2021 («erste Tranche») ausbezahlt wurden, werden bei der bedingten Gewinnbeteiligung nach Absatz 1 nicht berücksichtigt. Covid-19-Härtefallgelder, die ab dem 21. April 2021 ausbezahlt wurden, bleiben ebenfalls unberücksichtigt, wenn im Entscheid über deren Auszahlung der Hinweis auf die bedingte Gewinnbeteiligung fehlt.
 
 [^11-1]: SRL Nr. [620](https://srl.lu.ch/data/620/de)
 [^11-2]: SR [951.262](https://db.clex.ch/link/Bund/951.262/de)
