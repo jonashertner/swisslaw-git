@@ -4,13 +4,13 @@ number: "165.117"
 title: Verordnung betreffend die Lehrpersonen
 short: "Lehrpersonalverordnung, LPV"
 language: de
-version: 2024-01-01
-valid_until: 2025-07-31
-version_adopted: 2023-11-14
+version: 2025-08-01
+valid_until: 2025-12-31
+version_adopted: 2025-06-10
 adopted: 2008-06-24
 in_force: 2008-08-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/165.117"
-pdf: "https://gesetze.nw.ch/api/de/versions/1218/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1397/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1218/pdf_file"
 
 (Lehrpersonalverordnung, LPV)
 
-vom 24.06.2008 (Stand 01.01.2024)
+vom 24.06.2008 (Stand 01.08.2025)
 
 Der Regierungsrat von Nidwalden,
 
@@ -625,6 +625,12 @@ beschliesst:
 
 <sup>1</sup> Für Fachpersonen in logopädischen Schuldiensten und Fachpersonen in psychomotorischen Schuldiensten, welche im Schuljahr 2020/2021 noch über einen Arbeitsvertrag mit Verweis auf die Lehrpersonalverordnung verfügen, gilt bis längstens 31. Juli 2021 das bisherige Recht
 
+#### § 51b
+
+**Übergangsbestimmung zur Änderung vom 10. Juni 2025**
+
+<sup>1</sup> Die Gemeinden haben die Änderung vom 10. Juni 2025 spätestens auf den 1. August 2026 umzusetzen. Bis zur Umsetzung gelten die bisherigen Bestimmungen.
+
 #### § 52
 
 **Aufhebung bisherigen Rechts**
@@ -658,7 +664,7 @@ beschliesst:
 <sup>1</sup> Unterricht und Betreuung einer Klasse
 
 - 1\. Unterrichtsverpflichtung: — 29 Lektionen
-- 1a. Entlastung für Klassenlehrpersonen: — 1 Lektion
+- 1a. Entlastung für Klassenlehrpersonen: — 2 Lektionen
 - 2\. Lohnband:
   - a) mit Kindergartendiplom: — L9
   - b) mit Lehrdiplom Kindergarten/Unterstufe: — L10
@@ -712,7 +718,7 @@ beschliesst:
 <sup>1</sup> Unterricht und Betreuung einer Klasse
 
 - 1\. Unterrichtsverpflichtung: — 29 Lektionen
-- 1a. Entlastung für Klassenlehrpersonen: — 1 Lektion
+- 1a. Entlastung für Klassenlehrpersonen: — 2 Lektionen
 - 2\. Lohnband: — L10
 
 #### § A1-10
@@ -722,7 +728,7 @@ beschliesst:
 <sup>1</sup> Unterricht und Betreuung einer Klasse
 
 - 1\. Unterrichtsverpflichtung: — 29 Lektionen
-- 1a. Entlastung für Klassenlehrpersonen: — 1 Lektion
+- 1a. Entlastung für Klassenlehrpersonen: — 2 Lektionen
 - 2\. Lohnband: — L12
 
 #### § A1-11–A1-12
@@ -772,7 +778,7 @@ beschliesst:
 <sup>1</sup> Unterrichten einer Fächergruppe im Klassenunterricht; Lehrdiplom für die Sekundarstufe I (Integrierte Orientierungsschule, Kooperative Orientierungsschule oder Werkschule)
 
 - 1\. Unterrichtsverpflichtung: — 28 Lektionen
-- 1a. Entlastung für Klassenlehrpersonen: — 1 Lektion
+- 1a. Entlastung für Klassenlehrpersonen: — 2 Lektionen
 - 2\. Lohnband: — L13
 
 #### § A1-21
