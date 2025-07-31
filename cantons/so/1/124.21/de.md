@@ -4,13 +4,12 @@ number: "124.21"
 title: "Gesetz über die Haftung des Staates, der Gemeinden, der öffentlich-rechtlichen Körperschaften und Anstalten und die Verantwortlichkeit der Behörden, Beamten und öffentlichen Angestellten und Arbeiter"
 short: Verantwortlichkeitsgesetz
 language: de
-version: 2022-07-01
-valid_until: 2025-07-31
-version_adopted: 2021-08-31
+version: 2025-08-01
+version_adopted: 2024-03-19
 adopted: 1966-06-26
 in_force: 1966-07-01
 url: "https://bgs.so.ch/app/de/texts_of_law/124.21"
-pdf: "https://bgs.so.ch/api/de/versions/5185/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5480/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5185/pdf_file"
 
 (Verantwortlichkeitsgesetz)
 
-Vom 26.06.1966 (Stand 01.07.2022)
+Vom 26.06.1966 (Stand 01.08.2025)
 
 Der Kantonsrat von Solothurn
 
@@ -238,7 +237,7 @@ beschliesst:
 
 <sup>1</sup> Disziplinarbehörden sind:
 
-- a) der Kantonsrat gegenüber den Mitgliedern des Regierungsrates und der letztinstanzlichen kantonalen Gerichte, gegenüber dem Ratssekretär oder der Ratssekretärin und dem Staatsschreiber oder der Staatsschreiberin. Gegen Disziplinarentscheide kann innert 10 Tagen seit Eröffnung beim Verwaltungsgericht Beschwerde eingereicht werden.
+- a) der Kantonsrat gegenüber den Mitgliedern des Regierungsrates und der letztinstanzlichen kantonalen Gerichte sowie gegenüber dem Ratssekretär oder der Ratssekretärin. Gegen Disziplinarentscheide kann innert 10 Tagen seit Eröffnung beim Verwaltungsgericht Beschwerde eingereicht werden.
 - a<sup>bis</sup> die Gerichtsverwaltungskommission gegenüber den Mitgliedern der Amtsgerichte und der unterinstanzlichen kantonalen Gerichte. Gegen Disziplinarentscheide kann innert 10 Tagen seit Eröffnung beim Verwaltungsgericht Beschwerde eingereicht werden.
 - b) der Regierungsrat gegenüber den übrigen Mitgliedern staatlicher Behörden und dem diesem Gesetz unterstellten Staatspersonal. Gegen Disziplinarentscheide kann innert 10 Tagen seit Eröffnung beim Verwaltungsgericht Beschwerde eingereicht werden.
 - c) die in den §§ 70, 92 und 97 des Gemeindegesetzes bezeichneten Behörden gegenüber den diesem Gesetz unterstellten Personen. Gegen Disziplinarentscheide kann innert 10 Tagen seit Eröffnung beim zuständigen Departement Beschwerde eingereicht werden. Der Entscheid des Departementes kann innert 10 Tagen an das Verwaltungsgericht weitergezogen werden.
