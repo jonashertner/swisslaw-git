@@ -4,13 +4,12 @@ number: 29a
 title: Geoinformationsverordnung
 short: GIV
 language: de
-version: 2025-01-01
-valid_until: 2025-07-31
-version_adopted: 2025-01-07
+version: 2025-08-01
+version_adopted: 2025-07-01
 adopted: 2004-02-13
 in_force: 2004-04-01
 url: "https://srl.lu.ch/app/de/texts_of_law/29a"
-pdf: "https://srl.lu.ch/api/de/versions/4364/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4504/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4364/pdf_file"
 
 (GIV)
 
-vom 13.02.2004 (Stand 01.01.2025)
+vom 13.02.2004 (Stand 01.08.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
