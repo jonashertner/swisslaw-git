@@ -4,22 +4,23 @@ title: Loi fédérale du 18 décembre 1998 sur la procréation médicalement ass
 short: LPMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/554"
 language: fr
-version: 2023-07-01
+version: 2025-08-01
 adopted: 1998-12-18
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/554/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2000-554-20230701-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/554/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/554/20250801/fr/xml/fedlex-data-admin-ch-eli-cc-2000-554-20250801-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/554/20250801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur la procréation médicalement assistée\*
 
-(LPMA)[^t-1]
+(LPMA)[^t-1][^t-2]
 
-du 18 décembre 1998 (État le 1<sup>er</sup> juillet 2023)
+du 18 décembre 1998 (État le 1<sup>er</sup> août 2025)
 
-[^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes. Note de pied de page introduite par le ch. I de la LF du 12 déc. 2014, en vigueur depuis le 1<sup>er</sup> sept. 2017 (RO **2017** 3641; FF **2013** 5253).
+[^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
+[^t-2]: Note de pied de page introduite par le ch. I de la LF du 12 déc. 2014, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5253](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -27,7 +28,7 @@ vu les art. 119, al. 2, et 122, al. 1, de la Constitution[^ingress-1],[^ingress-
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 12 déc. 2014, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5253](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 [^ingress-3]: [FF 1996 III 197](https://fedlex.data.admin.ch/eli/fga/1996/3_205_197_189)
 
@@ -87,7 +88,7 @@ Elle est réservée aux couples:
 
 <sup>5</sup> Il est interdit d’utiliser les ovules imprégnés et les embryons *in vitro* après la mort d’un des membres du couple concerné.[^3-4]
 
-[^3-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^3-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^3-2]: La mod. selon l’annexe ch. 20 de la LF du 19 déc. 2008 (Protection de l’adulte, droit des personnes et droit de la filiation), en vigueur depuis le 1<sup>er</sup> janv. 2013, ne concerne que le texte allemand ([RO 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6635](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 [^3-3]: Nouvelle teneur selon le ch. I de la LF du 12 déc. 2014, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5253](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 [^3-4]: Introduit par le ch. I de la LF du 12 déc. 2014, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5253](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
@@ -185,7 +186,7 @@ Avant l’application d’une méthode de procréation médicalement assistée c
 
 [^6a-1]: Introduit par le ch. I de la LF du 12 déc. 2014, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5253](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 [^6a-2]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 15 juin 2018 sur l’analyse génétique humaine, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [FF 2017 5253](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
-[^6a-3]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^6a-3]: [RS 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)
 
 #### Art. 6b
 
@@ -199,7 +200,7 @@ Les dispositions suivantes de la LAGH[^6b-2] s’appliquent par analogie aux mé
 - d. art. 39, let. b, 43, al. 3, et 45, LAGH, en ce qui concerne les opérations relatives aux données génétiques dans le cadre de rapports de travail ou de rapports d’assurance et dans les cas de responsabilité civile.
 
 [^6b-1]: Introduit par le ch. I de la LF du 12 déc. 2014 ([RO 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5253](https://fedlex.data.admin.ch/eli/fga/2013/1075)). Nouvelle teneur selon l’annexe ch. II 2 de la LF du 15 juin 2018 sur l’analyse génétique humaine, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [FF 2017 5253](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
-[^6b-2]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^6b-2]: [RS 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)
 
 #### Art. 7
 
@@ -225,7 +226,7 @@ Doit être en possession d’une autorisation cantonale toute personne qui:
 <sup>3</sup> L’insémination au moyen du sperme du partenaire n’est pas soumise à autorisation.
 
 [^8-1]: Nouvelle teneur selon le ch. I de la LF du 12 déc. 2014, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5253](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
-[^8-2]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^8-2]: [RS 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)
 [^8-3]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 15 juin 2018 sur l’analyse génétique humaine, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [FF 2017 5253](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
 
 #### Art. 9
@@ -386,16 +387,18 @@ Les ovules imprégnés et les embryons *in vitro* ne peuvent être conservés qu
 
 <sup>3</sup> Chacun des membres du couple peut révoquer par écrit son consentement en tout temps.
 
-<sup>4</sup> En cas de révocation du consentement ou d’expiration du délai de conservation, les ovules imprégnés et les embryons *in vitro* doivent être immédiatement détruits. Les dispositions de la loi du 19 décembre 2003 relative à la recherche sur les cellules souches[^16-4] sont réservées.[^16-5]
+<sup>4</sup> En cas de révocation du consentement ou d’expiration du délai de conservation, les ovules imprégnés et les embryons *in vitro* doivent être immédiatement détruits. Les dispositions de la loi du 19 décembre 2003 relative à la recherche sur les cellules souches[^16-4] et de la loi du 8 octobre 2004 sur la transplantation[^16-5] sont réservées.[^16-6] [^16-7]
 
-<sup>5</sup> …[^16-6]
+<sup>5</sup> …[^16-8]
 
 [^16-1]: Nouvelle teneur selon le ch. I de la LF du 12 déc. 2014, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5253](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 [^16-2]: Nouvelle teneur selon le ch. I de la LF du 12 déc. 2014, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5253](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 [^16-3]: Nouvelle teneur selon le ch. I de la LF du 12 déc. 2014, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5253](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
-[^16-4]: [RS 810.31](https://fedlex.data.admin.ch/eli/cc/2005/104)
-[^16-5]: Nouvelle teneur selon le ch. I de la LF du 12 déc. 2014, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5253](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
-[^16-6]: Abrogé par le ch. I de la LF du 12 déc. 2014, avec effet au 1<sup>er</sup> sept. 2017 ([RO 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5253](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^16-4]: [RS 810.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9253)
+[^16-5]: [RS 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
+[^16-6]: Nouvelle teneur de la phrase selon l’annexe ch. 2 de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 421](https://fedlex.data.admin.ch/eli/oc/2025/421); [FF 2023 721](https://fedlex.data.admin.ch/eli/fga/2023/721)).
+[^16-7]: Nouvelle teneur selon le ch. I de la LF du 12 déc. 2014, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5253](https://fedlex.data.admin.ch/eli/fga/2013/1075))
+[^16-8]: Abrogé par le ch. I de la LF du 12 déc. 2014, avec effet au 1<sup>er</sup> sept. 2017 ([RO 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5253](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 17
 
@@ -454,7 +457,7 @@ Le don de sperme ne peut donner lieu à rémunération.
 
 <sup>4</sup> Seuls le groupe sanguin et la ressemblance physique du donneur avec l’homme à l’égard duquel un lien de filiation sera établi sont déterminants lors de la sélection des spermatozoïdes.
 
-[^22-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^22-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 23
 

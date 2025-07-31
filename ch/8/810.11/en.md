@@ -4,11 +4,11 @@ title: "Federal Act of 18 December 1998 on Medically Assisted Reproduction (Repr
 short: RMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/554"
 language: en
-version: 2023-07-01
+version: 2025-08-01
 adopted: 1998-12-18
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/554/20230701/en/xml/fedlex-data-admin-ch-eli-cc-2000-554-20230701-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/554/20230701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/554/20250801/en/xml/fedlex-data-admin-ch-eli-cc-2000-554-20250801-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/554/20250801/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Reproductive Medicine Act, RMA)
 
-of 18 December 1998 (Status as of 1 July 2023)
+of 18 December 1998 (Status as of 1 August 2025)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -29,7 +29,7 @@ and having considered the Dispatch of the Federal Council dated 26 June 1996[^in
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 [^ingress-3]: [BBl 1996 III 205](https://fedlex.data.admin.ch/eli/fga/1996/3_205_197_189)
 
@@ -89,7 +89,7 @@ They may only be used in couples:
 
 <sup>5</sup> Impregnated ova and embryos *in vitro* may no longer be used following the death of any one oft he couple concerned.[^3-4]
 
-[^3-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^3-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^3-2]: Amended by Annex No 20 of the FA of 19 Dec. 2008 (Adult Protection, Law of Persons and Law of Children), in force since 1 Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 [^3-3]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 [^3-4]: Inserted by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
@@ -187,7 +187,7 @@ Before reproductive techniques with the analysis of the genetic material of repr
 
 [^6a-1]: Inserted by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 [^6a-2]: Amended by Annex No II 2 of the FA of 15 June 2018 on Human Genetic Testing, in force since 1 Dec. 2022 ([AS 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [BBl 2017 5597](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
-[^6a-3]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^6a-3]: [SR 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)
 
 #### Art. 6b
 
@@ -201,7 +201,7 @@ The following provisions of the HGTA[^6b-2] apply *mutatis mutandis* to assisted
 - d. with regard to handling genetic data in relation to employment and insurance and in liability cases: Articles 39 letter b, 43 paragraph 3 and 45 HGTA.
 
 [^6b-1]: Inserted by No I of the FA of 12 Dec. 2014 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)). Amended by Annex No II 2 of the FA of 15 June 2018 on Human Genetic Testing, in force since 1 Dec. 2022 ([AS 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [BBl 2017 5597](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
-[^6b-2]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^6b-2]: [SR 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)
 
 #### Art. 7
 
@@ -227,7 +227,7 @@ A cantonal licence is required by any person who:
 <sup>3</sup> No licence is required for insemination using a partner’s sperm cells.
 
 [^8-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
-[^8-2]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^8-2]: [SR 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)
 [^8-3]: Amended by Annex No II 2 of the FA of 15 June 2018 on Human Genetic Testing, in force since 1 Dec. 2022 ([AS 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [BBl 2017 5597](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
 
 #### Art. 9
@@ -385,18 +385,20 @@ Impregnated ova and embryos *in vitro* may only be preserved if:[^16-2]
 
 <sup>3</sup> Either partner may revoke his or her consent at any time in writing.[^16-5]
 
-<sup>4</sup> If consent is revoked and the preservation period expires, then the impregnated ova and the embryos *in vitro* shall be be destroyed immediately. The provisions of the Stem Cell Research Act of 19 December 2003[^16-6] are reserved.[^16-7]
+<sup>4</sup> If consent is revoked and the preservation period expires, then the impregnated ova and the embryos *in vitro* shall be be destroyed immediately. The provisions of the Stem Cell Research Act of 19 December 2003[^16-6] and the Transplantation Act of 8 October 2004[^16-7] are reserved.[^16-8]<sup>,</sup>[^16-9]
 
-<sup>5</sup> ...[^16-8]
+<sup>5</sup> ...[^16-10]
 
 [^16-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 [^16-2]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 [^16-3]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 [^16-4]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 [^16-5]: Amended by Annex No 3 of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
-[^16-6]: [SR 810.31](https://fedlex.data.admin.ch/eli/cc/2005/104)
-[^16-7]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
-[^16-8]: Repealed by No I of the FA of 12 Dec. 2014, with effect from 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^16-6]: [SR 810.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9253)
+[^16-7]: [SR 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
+[^16-8]: Second sentence amended by Annex No 2 of the FA of 29 Sept. 2023, in force since 1 Aug. 2025 ([AS 2025 421](https://fedlex.data.admin.ch/eli/oc/2025/421); [BBl 2023 721](https://fedlex.data.admin.ch/eli/fga/2023/721)).
+[^16-9]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^16-10]: Repealed by No I of the FA of 12 Dec. 2014, with effect from 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 17
 
@@ -455,7 +457,7 @@ No payment shall be made for sperm donation as such.
 
 <sup>4</sup> When donated sperm cells are selected, only the donor’s blood group and similarity in physical appearance to the man with whom filiation is to be established shall be taken into account.
 
-[^22-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^22-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 23
 

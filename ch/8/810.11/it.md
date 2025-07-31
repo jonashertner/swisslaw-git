@@ -4,11 +4,11 @@ title: "Legge federale del 18 dicembre 1998 concernente la procreazione con assi
 short: LPAM
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/554"
 language: it
-version: 2023-07-01
+version: 2025-08-01
 adopted: 1998-12-18
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/554/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2000-554-20230701-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/554/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/554/20250801/it/xml/fedlex-data-admin-ch-eli-cc-2000-554-20250801-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/554/20250801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/554/20230701/it"
 
 (Legge sulla medicina della procreazione, LPAM)
 
-del 18 dicembre 1998 (Stato 1° luglio 2023)
+del 18 dicembre 1998 (Stato 1° agosto 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,8 +25,8 @@ visti gli articoli 119 capoverso 2 e 122 capoverso 1 della Costituzione federale
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Nuovo testo giusta il n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: Nuovo testo giusta la cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 [^ingress-3]: [FF 1996 III 189](https://fedlex.data.admin.ch/eli/fga/1996/3_205_197_189)
 
 ## Capitolo 1: Disposizioni generali
@@ -85,10 +85,10 @@ I metodi di procreazione si possono applicare unicamente alle coppie:
 
 <sup>5</sup> È vietato l’uso di oociti impregnati o embrioni *in vitro* dopo il decesso di un membro della coppia interessata.[^3-4]
 
-[^3-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^3-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^3-2]: La mod. giusta l’all. n. 20 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013, concerne soltanto il testo tedesco ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^3-3]: Nuovo testo giusta il n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
-[^3-4]: Introdotto dal n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^3-3]: Nuovo testo giusta la cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^3-4]: Introdotto dalla cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 4
 
@@ -105,7 +105,7 @@ Un metodo di procreazione può essere applicato soltanto nei casi in cui:
 - a. si intenda rimediare alla sterilità di una coppia, dopo che gli altri metodi di trattamento siano falliti o risultati senza probabilità di riuscita; o
 - b. non si possa evitare altrimenti il pericolo di trasmettere ai discendenti una malattia grave.
 
-[^5-1]: Nuovo testo giusta il n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^5-1]: Nuovo testo giusta la cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 5a
 
@@ -124,7 +124,7 @@ L’esame del patrimonio genetico di embrioni *in vitro* e la loro selezione in 
 
 <sup>3</sup> L’esame del patrimonio genetico di embrioni *in vitro* e la loro selezione in base al sesso o ad altre caratteristiche sono inoltre ammessi per individuare caratteristiche cromosomiche suscettibili di influenzare la capacità di sviluppo dell’embrione.
 
-[^5a-1]: Introdotto dal n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^5a-1]: Introdotto dalla cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 5b
 
@@ -136,7 +136,7 @@ L’esame del patrimonio genetico di embrioni *in vitro* e la loro selezione in 
 
 <sup>3</sup> Se un metodo di procreazione presenta un rischio elevato di gravidanza plurima, il trattamento può essere praticato soltanto se la coppia si dichiara disposta ad accettare anche un’eventuale gravidanza plurima.
 
-[^5b-1]: Introdotto dal n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^5b-1]: Introdotto dalla cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 6
 
@@ -158,7 +158,7 @@ Prima dell’applicazione di un metodo di procreazione, il medico informa in mod
 
 <sup>4</sup> Prima, durante o dopo il trattamento si deve offrire un accompagnamento psicologico.
 
-[^6-1]: Nuovo testo giusta il n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^6-1]: Nuovo testo giusta la cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 6a
 
@@ -181,9 +181,9 @@ Prima dell’applicazione di un metodo di procreazione che prevede l’esame del
 
 <sup>4</sup> Il medico è tenuto a documentare i colloqui di consulenza.
 
-[^6a-1]: Introdotto dal n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
-[^6a-2]: Nuovo testo giusta l’all. n. II 2 della LF del 15 giu. 2018 concernente gli esami genetici sull’essere umano, in vigore dal 1° dic. 2022 ([RU 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [FF 2017 4807](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
-[^6a-3]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^6a-1]: Introdotto dalla cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^6a-2]: Nuovo testo giusta l’all. cifra II n. 2 della LF del 15 giu. 2018 concernente gli esami genetici sull’essere umano, in vigore dal 1° dic. 2022 ([RU 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [FF 2017 4807](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
+[^6a-3]: [RS 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)
 
 #### Art. 6b
 
@@ -196,14 +196,14 @@ Ai metodi di procreazione che prevedono l’esame del patrimonio genetico di cel
 - c. in merito alla protezione dei campioni e dei dati genetici, alla durata della loro conservazione e alla loro utilizzazione per un altro scopo, gli articoli 10–12 LEGU;
 - d. in merito alle operazioni relative ai dati genetici nell’ambito di rapporti di lavoro e assicurativi e nei casi di responsabilità civile, gli articoli 39 lettera b, 43 capoverso 3 e 45 LEGU.
 
-[^6b-1]: Introdotto dal n. I della LF del 12 dic. 2014 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)). Nuovo testo giusta l’all. n. II 2 della LF del 15 giu. 2018 concernente gli esami genetici sull’essere umano, in vigore dal 1° dic. 2022 ([RU 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [FF 2017 4807](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
-[^6b-2]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^6b-1]: Introdotto dalla cifra I della LF del 12 dic. 2014 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)). Nuovo testo giusta l’all. cifra II n. 2 della LF del 15 giu. 2018 concernente gli esami genetici sull’essere umano, in vigore dal 1° dic. 2022 ([RU 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [FF 2017 4807](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
+[^6b-2]: [RS 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)
 
 #### Art. 7
 
 [^7-1]
 
-[^7-1]: Abrogato dal n. I della LF del 12 dic. 2014, con effetto dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^7-1]: Abrogato dalla cifra I della LF del 12 dic. 2014, con effetto dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 ### Sezione 2: Obbligo d’autorizzazione
 
@@ -222,9 +222,9 @@ Necessita di un’autorizzazione cantonale chiunque:
 
 <sup>3</sup> L’inseminazione con spermatozoi del partner non soggiace ad autorizzazione.
 
-[^8-1]: Nuovo testo giusta il n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
-[^8-2]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
-[^8-3]: Nuovo testo giusta l’all. n. II 2 della LF del 15 giu. 2018 concernente gli esami genetici sull’essere umano, in vigore dal 1° dic. 2022 ([RU 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [FF 2017 4807](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
+[^8-1]: Nuovo testo giusta la cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^8-2]: [RS 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)
+[^8-3]: Nuovo testo giusta l’all. cifra II n. 2 della LF del 15 giu. 2018 concernente gli esami genetici sull’essere umano, in vigore dal 1° dic. 2022 ([RU 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [FF 2017 4807](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
 
 #### Art. 9
 
@@ -249,10 +249,10 @@ Se nell’applicazione di un metodo di procreazione è esaminato il patrimonio g
 - a. dimostrare di possedere sufficienti conoscenze nel settore della genetica medica; e
 - b. assicurare che il metodo e la collaborazione con i laboratori interessati corrispondano allo stato della scienza e della pratica.[^9-4]
 
-[^9-1]: Nuovo testo giusta il n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
-[^9-2]: Nuovo testo giusta il n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
-[^9-3]: Nuovo testo giusta il n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
-[^9-4]: Nuovo testo giusta il n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^9-1]: Nuovo testo giusta la cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^9-2]: Nuovo testo giusta la cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^9-3]: Nuovo testo giusta la cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^9-4]: Nuovo testo giusta la cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 10
 
@@ -268,10 +268,10 @@ I medici devono:[^10-3]
 - b. assicurare, unitamente ai collaboratori, una selezione accurata dei donatori di sperma; e
 - c.[^10-4] provvedere secondo lo stato della scienza e della pratica a una conservazione dei gameti, degli oociti impregnati e degli embrioni *in vitro*.
 
-[^10-1]: Nuovo testo giusta il n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
-[^10-2]: Nuovo testo giusta il n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
-[^10-3]: Nuovo testo giusta il n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
-[^10-4]: Nuovo testo giusta il n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^10-1]: Nuovo testo giusta la cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^10-2]: Nuovo testo giusta la cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^10-3]: Nuovo testo giusta la cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^10-4]: Nuovo testo giusta la cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 11
 
@@ -294,10 +294,10 @@ Il rapporto informa su:[^11-2]
 
 <sup>4</sup> L’autorità cantonale preposta all’autorizzazione trasmette i dati all’Ufficio federale di statistica, che li valuta e pubblica.[^11-4]
 
-[^11-1]: Nuovo testo giusta il n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
-[^11-2]: Nuovo testo giusta il n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
-[^11-3]: Nuovo testo giusta il n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
-[^11-4]: Nuovo testo giusta il n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^11-1]: Nuovo testo giusta la cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^11-2]: Nuovo testo giusta la cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^11-3]: Nuovo testo giusta la cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^11-4]: Nuovo testo giusta la cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 12
 
@@ -316,7 +316,7 @@ L’autorità preposta all’autorizzazione controlla che:
 
 <sup>4</sup> Il Consiglio federale può delegare compiti esecutivi, in particolare compiti di controllo, a organizzazioni e a persone di diritto pubblico o privato. Provvede a finanziare i compiti delegati.
 
-[^12-1]: Nuovo testo giusta il n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^12-1]: Nuovo testo giusta la cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 13
 
@@ -334,7 +334,7 @@ Il Consiglio federale emana le disposizioni d’esecuzione concernenti il rilasc
 
 [^chap2-sec2a-1]
 
-[^chap2-sec2a-1]: Introdotta dal n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^chap2-sec2a-1]: Introdotta dalla cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 14a
 
@@ -367,7 +367,7 @@ La valutazione riguarda in particolare:
 
 <sup>4</sup> I gameti vanno distrutti immediatamente nei casi di revoca del consenso o di scadenza del termine di conservazione.
 
-[^15-1]: Nuovo testo giusta il n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^15-1]: Nuovo testo giusta la cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 16
 
@@ -384,18 +384,20 @@ Gli oociti impregnati e gli embrioni *in vitro* si possono conservare solo se:[^
 
 <sup>3</sup> Ogni membro della coppia può, in qualsiasi momento, revocare per scritto il proprio consenso.[^16-5]
 
-<sup>4</sup> In caso di revoca del consenso o di scadenza del termine di conservazione gli oociti impregnati e gli embrioni *in vitro* vanno distrutti immediatamente. Sono fatte salve le disposizioni della legge del 19 dicembre 2003[^16-6] sulle cellule staminali.[^16-7]
+<sup>4</sup> In caso di revoca del consenso o di scadenza del termine di conservazione gli oociti impregnati e gli embrioni *in vitro* vanno distrutti immediatamente.[^16-6] Sono fatte salve le disposizioni della legge del 19 dicembre 2003[^16-7] sulle cellule staminali e della legge dell’8 ottobre 2004[^16-8] sui trapianti.[^16-9]
 
-<sup>5</sup> …[^16-8]
+<sup>5</sup> ...[^16-10]
 
-[^16-1]: Nuovo testo giusta il n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
-[^16-2]: Nuovo testo giusta il n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
-[^16-3]: Nuovo testo giusta il n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
-[^16-4]: Nuovo testo giusta il n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^16-1]: Nuovo testo giusta la cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^16-2]: Nuovo testo giusta la cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^16-3]: Nuovo testo giusta la cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^16-4]: Nuovo testo giusta la cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 [^16-5]: Nuovo testo giusta l’all. n. 3 della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
-[^16-6]: [RS 810.31](https://fedlex.data.admin.ch/eli/cc/2005/104)
-[^16-7]: Nuovo testo giusta il n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
-[^16-8]: Abrogato dal n. I della LF del 12 dic. 2014, con effetto dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^16-6]: Nuovo testo giusta la cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^16-7]: [RS 810.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9253)
+[^16-8]: [RS 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
+[^16-9]: Nuovo testo del secondo per. giusta l’all. n. 2 della LF del 29 set. 2023, in vigore dal 1° ago. 2025 ([RU 2025 421](https://fedlex.data.admin.ch/eli/oc/2025/421); [FF 2023 721](https://fedlex.data.admin.ch/eli/fga/2023/721)).
+[^16-10]: Abrogato dalla cifra I della LF del 12 dic. 2014, con effetto dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 17
 
@@ -405,10 +407,10 @@ Gli oociti impregnati e gli embrioni *in vitro* si possono conservare solo se:[^
 
 <sup>2</sup> L’embrione deve svilupparsi all’esterno del corpo materno soltanto quanto indispensabile per potersi annidare nell’utero.
 
-<sup>3</sup> …[^17-2]
+<sup>3</sup> ...[^17-2]
 
-[^17-1]: Nuovo testo giusta il n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
-[^17-2]: Abrogato dal n. I della LF del 12 dic. 2014, con effetto dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^17-1]: Nuovo testo giusta la cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^17-2]: Abrogato dalla cifra I della LF del 12 dic. 2014, con effetto dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 ### Sezione 4: Dono di sperma
 
@@ -454,7 +456,7 @@ Il dono di spermatozoi è di per sé gratuito.
 
 <sup>4</sup> Nella scelta degli spermatozoi donati si possono prendere in considerazione soltanto il gruppo sanguigno e la compatibilità delle caratteristiche fisiche dell’uomo con il quale va instaurato un rapporto di filiazione.
 
-[^22-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^22-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 23
 
@@ -551,7 +553,7 @@ Spettano alla Commissione segnatamente i compiti seguenti:
 
 <sup>2</sup> È parimenti punibile chi conserva un oocita impregnato o un embrione *in vitro* nell’intento di usarlo o di permetterne l’uso per uno scopo diverso da quello di causare una gravidanza.
 
-[^29-1]: Nuovo testo giusta il n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^29-1]: Nuovo testo giusta la cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 30
 
@@ -561,7 +563,7 @@ Spettano alla Commissione segnatamente i compiti seguenti:
 
 <sup>2</sup> È parimenti punibile chi trasferisce un embrione umano su un animale.
 
-[^30-1]: Nuovo testo giusta il n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^30-1]: Nuovo testo giusta la cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 31
 
@@ -571,7 +573,7 @@ Spettano alla Commissione segnatamente i compiti seguenti:
 
 <sup>2</sup> È parimenti punibile chi fa da mediatore per maternità sostitutive.
 
-[^31-1]: Nuovo testo giusta il n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^31-1]: Nuovo testo giusta la cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 32
 
@@ -583,8 +585,8 @@ Spettano alla Commissione segnatamente i compiti seguenti:
 
 <sup>3</sup> Se l’autore ha agito per mestiere, la pena è una pena detentiva sino a cinque anni o una pena pecuniaria.[^32-2]
 
-[^32-1]: Nuovo testo giusta il n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
-[^32-2]: Nuovo testo giusta il n. I 26 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^32-1]: Nuovo testo giusta la cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^32-2]: Nuovo testo giusta la cifra I n. 26 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 33
 
@@ -592,7 +594,7 @@ Spettano alla Commissione segnatamente i compiti seguenti:
 
 Chiunque, nell’ambito di un metodo di procreazione, esamina il patrimonio genetico di gameti o di embrioni *in vitro* e li seleziona in base al sesso o ad altre caratteristiche senza che si intenda, con tale procedura, rimediare alla sterilità o evitare di trasmettere ai discendenti la predisposizione a una malattia grave, è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.
 
-[^33-1]: Nuovo testo giusta il n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^33-1]: Nuovo testo giusta la cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 34
 
@@ -602,7 +604,7 @@ Chiunque, nell’ambito di un metodo di procreazione, esamina il patrimonio gene
 
 <sup>2</sup> È parimenti punibile chi, senza autorizzazione o in virtù di un’autorizzazione ottenuta tramite indicazioni fallaci, applica metodi di procreazione, conserva o procura per mediazione gameti, oociti impregnati o embrioni *in vitro* oppure prescrive esami del patrimonio genetico di embrioni *in vitro*.
 
-[^34-1]: Nuovo testo giusta il n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^34-1]: Nuovo testo giusta la cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 35
 
@@ -614,7 +616,7 @@ Chiunque, nell’ambito di un metodo di procreazione, esamina il patrimonio gene
 
 <sup>3</sup> Il capoverso 1 non è applicabile se la modificazione di cellule della via germinale è fenomeno concomitante, risultante inevitabilmente da una chemioterapia o da una radioterapia, oppure da un altro provvedimento medico al quale si sottopone una persona.
 
-[^35-1]: Nuovo testo giusta il n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^35-1]: Nuovo testo giusta la cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 36
 
@@ -624,15 +626,15 @@ Chiunque, nell’ambito di un metodo di procreazione, esamina il patrimonio gene
 
 <sup>2</sup> È parimenti punibile chi trasferisce una chimera o un ibrido in una donna o in un animale.
 
-[^36-1]: Nuovo testo giusta il n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^36-1]: Nuovo testo giusta la cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 37
 
 **Contravvenzioni**
 
-Chiunque intenzionalmente,
-
 è punito con la multa sino a 100 000 franchi.[^37-1]
+
+Chiunque intenzionalmente:
 
 - a. in violazione dell’articolo 3 capoversi 2 lettera a e 3, applica a una donna un metodo di procreazione;
 - b.[^37-2] usa gameti provenienti da una persona defunta, salvo che si tratti di spermatozoi di un donatore defunto;
@@ -646,10 +648,10 @@ Chiunque intenzionalmente,
 - i. in violazione dell’articolo 22 capoversi 1-3, usa spermatozoi donati;
 - j. non registra in modo corretto o sufficiente i dati prescritti dall’articolo 24,
 
-[^37-1]: Nuovo testo della comminatoria giusta il n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
-[^37-2]: Nuovo testo giusta il n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
-[^37-3]: Introdotta dal n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
-[^37-4]: Abrogata dal n. I della LF del 12 dic. 2014, con effetto dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^37-1]: Nuovo testo della comminatoria giusta la cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^37-2]: Nuovo testo giusta la cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^37-3]: Introdotta dalla cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^37-4]: Abrogata dalla cifra I della LF del 12 dic. 2014, con effetto dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 38
 
@@ -663,7 +665,7 @@ Il perseguimento e il giudizio dei reati secondo la presente legge spettano ai C
 
 #### Art. 39
 
-… [^39-1]
+…[^39-1]
 
 [^39-1]: La mod. può essere consultata alla [RU 2000 3055](https://fedlex.data.admin.ch/eli/oc/2000/554).
 
@@ -691,9 +693,9 @@ Il perseguimento e il giudizio dei reati secondo la presente legge spettano ai C
 
 <sup>1</sup> Chiunque, all’entrata in vigore della presente legge, conserva embrioni deve comunicarlo entro tre mesi all’autorità preposta all’autorizzazione. È applicabile l’articolo 11.
 
-<sup>2</sup> …[^42-1]
+<sup>2</sup> ...[^42-1]
 
-[^42-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2003, in vigore fino al 31 dic. 2008 ([RU 2003 3681](https://fedlex.data.admin.ch/eli/oc/2003/522); [FF 2003 1045](https://fedlex.data.admin.ch/eli/fga/2003/192)).
+[^42-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003, in vigore fino al 31 dic. 2008 ([RU 2003 3681](https://fedlex.data.admin.ch/eli/oc/2003/522); [FF 2003 1045](https://fedlex.data.admin.ch/eli/fga/2003/192)).
 
 #### Art. 43
 
@@ -707,7 +709,7 @@ L’articolo 23 si applica anche ai figli concepiti, nell’ambito di un metodo 
 
 Il rapporto di valutazione e le proposte di cui all’articolo 14*a* capoverso 4 sono sottoposti al Consiglio federale per la prima volta al più tardi cinque anni dopo l’entrata in vigore della modifica del 12 dicembre 2014.
 
-[^43a-1]: Introdotto dal n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^43a-1]: Introdotto dalla cifra I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 ### Sezione 3: Referendum ed entrata in vigore
 

@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 18. Dezember 1998 über die medizinisch unterstützte F
 short: FMedG
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/554"
 language: de
-version: 2023-07-01
+version: 2025-08-01
 adopted: 1998-12-18
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/554/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2000-554-20230701-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/554/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/554/20250801/de/xml/fedlex-data-admin-ch-eli-cc-2000-554-20250801-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/554/20250801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/554/20230701/de"
 
 (Fortpflanzungsmedizingesetz, FMedG)
 
-vom 18. Dezember 1998 (Stand am 1. Juli 2023)
+vom 18. Dezember 1998 (Stand am 1. August 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -27,7 +27,7 @@ nach Einsicht in die Botschaft des Bundesrates vom 26. Juni 1996[^ingress-3],
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 [^ingress-3]: [BBl 1996 III 205](https://fedlex.data.admin.ch/eli/fga/1996/3_205_197_189)
 
@@ -87,7 +87,7 @@ Sie dürfen nur bei Paaren angewendet werden:
 
 <sup>5</sup> Imprägnierte Eizellen und Embryonen *in vitro* dürfen nach dem Tod eines Teils des betroffenen Paares nicht mehr verwendet werden.[^3-4]
 
-[^3-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^3-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^3-2]: Fassung gemäss Anhang Ziff. 20 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), in Kraft seit 1. Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 [^3-3]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 [^3-4]: Eingefügt durch Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
@@ -185,7 +185,7 @@ Bevor ein Fortpflanzungsverfahren mit Untersuchung des Erbguts von Keimzellen od
 
 [^6a-1]: Eingefügt durch Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 [^6a-2]: Fassung gemäss Anhang Ziff. II 2 des BG vom 15. Juni 2018 über genetische Untersuchungen beim Menschen, in Kraft seit 1. Dez. 2022 ([AS 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [BBl 2017 5597](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
-[^6a-3]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^6a-3]: [SR 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)
 
 #### Art. 6b
 
@@ -199,7 +199,7 @@ Bei Fortpflanzungsverfahren mit Untersuchung des Erbguts von Keimzellen oder Emb
 - d. betreffend den Umgang mit genetischen Daten bei Arbeits- und Versicherungsverhältnissen sowie in Haftpflichtfällen: die Artikel 39 Buchstabe b, 43 Absatz 3 und 45 GUMG.
 
 [^6b-1]: Eingefügt durch Ziff. I des BG vom 12. Dez. 2014 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)). Fassung gemäss Anhang Ziff. II 2 des BG vom 15. Juni 2018 über genetische Untersuchungen beim Menschen, in Kraft seit 1. Dez. 2022 ([AS 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [BBl 2017 5597](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
-[^6b-2]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^6b-2]: [SR 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)
 
 #### Art. 7
 
@@ -225,7 +225,7 @@ Eine Bewilligung des Kantons benötigt, wer:
 <sup>3</sup> Für die Insemination mit Samenzellen des Partners ist keine Bewilligung erforderlich.
 
 [^8-1]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
-[^8-2]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^8-2]: [SR 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)
 [^8-3]: Fassung gemäss Anhang Ziff. II 2 des BG vom 15. Juni 2018 über genetische Untersuchungen beim Menschen, in Kraft seit 1. Dez. 2022 ([AS 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [BBl 2017 5597](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
 
 #### Art. 9
@@ -383,18 +383,20 @@ Imprägnierte Eizellen und Embryonen *in vitro* dürfen nur konserviert werden, 
 
 <sup>3</sup> Jeder Teil des betroffenen Paares kann die Einwilligung jederzeit schriftlich widerrufen.[^16-5]
 
-<sup>4</sup> Bei Widerruf der Einwilligung und bei Ablauf der Konservierungsfrist sind die imprägnierten Eizellen und die Embryonen *in vitro* sofort zu vernichten. Vorbehalten bleiben die Bestimmungen des Stammzellenforschungsgesetzes vom 19. Dezember 2003[^16-6].[^16-7]
+<sup>4</sup> Bei Widerruf der Einwilligung und bei Ablauf der Konservierungsfrist sind die imprägnierten Eizellen und die Embryonen *in vitro* sofort zu vernichten. Vorbehalten bleiben die Bestimmungen des Stammzellenforschungsgesetzes vom 19. Dezember 2003[^16-6] und des Transplantationsgesetzes vom 8. Oktober 2004[^16-7].[^16-8] [^16-9]
 
-<sup>5</sup> …[^16-8]
+<sup>5</sup> …[^16-10]
 
 [^16-1]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 [^16-2]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 [^16-3]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 [^16-4]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 [^16-5]: Fassung gemäss Anhang Ziff. 3 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
-[^16-6]: [SR 810.31](https://fedlex.data.admin.ch/eli/cc/2005/104)
-[^16-7]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
-[^16-8]: Aufgehoben durch Ziff. I des BG vom 12. Dez. 2014, mit Wirkung seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^16-6]: [SR 810.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9253)
+[^16-7]: [SR 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
+[^16-8]: Fassung des zweiten Satzes gemäss Anhang Ziff. 2 des BG vom 29. Sept. 2023, in Kraft seit 1. Aug. 2025 ([AS 2025 421](https://fedlex.data.admin.ch/eli/oc/2025/421); [BBl 2023 721](https://fedlex.data.admin.ch/eli/fga/2023/721)).
+[^16-9]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^16-10]: Aufgehoben durch Ziff. I des BG vom 12. Dez. 2014, mit Wirkung seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 17
 
@@ -453,7 +455,7 @@ Die Samenspende als solche ist unentgeltlich.
 
 <sup>4</sup> Bei der Auswahl gespendeter Samenzellen dürfen nur die Blutgruppe und die Ähnlichkeit der äusseren Erscheinung des Spenders mit dem Mann, zu dem ein Kindesverhältnis begründet werden soll, berücksichtigt werden.
 
-[^22-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^22-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 23
 
