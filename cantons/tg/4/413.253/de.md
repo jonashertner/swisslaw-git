@@ -4,13 +4,12 @@ number: "413.253"
 title: Verordnung über die Ausbildung an den Fachmittelschulen der thurgauischen Kantonsschulen
 short: RRV FMS
 language: de
-version: 2023-05-06
-valid_until: 2025-07-31
-version_adopted: 2023-05-02
+version: 2025-08-01
+version_adopted: 2025-06-24
 adopted: 2005-01-25
 in_force: 2005-08-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/413.253"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2923/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2925/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,13 +20,13 @@ RRV FMS
 
 (RRV FMS)
 
-vom 25.01.2005 (Stand 06.05.2023)
+vom 25.01.2005 (Stand 01.08.2025)
 
-## 1. Unterricht
+## 1. Allgemeines
 
 #### § 1
 
-**Ausbildungsgänge; Ausbildungsdauer**
+**Ausbildungsgänge; Ausbildungsdauer und -ziele**
 
 <sup>1</sup> In den Fachmittelschulen können Studiengänge mit folgenden Berufsfeldern gewählt werden:
 
@@ -39,9 +38,17 @@ vom 25.01.2005 (Stand 06.05.2023)
 
 <sup>2</sup> Die Ausbildung dauert drei Jahre und richtet sich nach der kantonalen Stundentafel im Anhang. Sie schliesst mit einem Fachmittelschulausweis ab.
 
-<sup>2<sup>bis</sup></sup> Das gewählte Berufsfeld kann nur bis Ende des ersten Ausbildungsjahres gewechselt werden. In begründeten Fällen kann die Schulleitung Ausnahmen bewilligen.
+<sup>2<sup>bis</sup></sup> Das gewählte Berufsfeld kann nur bis Ende des ersten Ausbildungsjahres gewechselt werden. In begründeten Fällen kann die Schulleitung Ausnahmen bewilligen und die erforderlichen Nachholleistungen festlegen.
 
-<sup>3</sup> Ein viertes Ausbildungsjahr führt in den Berufsfeldern Gesundheit/Naturwissenschaften, Pädagogik, Soziale Arbeit sowie Kommunikation und Information zur Fachmatura. In begründeten Fällen kann ein zeitlicher Unterbruch von höchstens drei Jahren nach Erhalt des Fachmittelschulausweises akzeptiert werden.
+<sup>3</sup> Ein viertes Ausbildungsjahr führt in den Berufsfeldern Gesundheit/Naturwissenschaften, Pädagogik, Soziale Arbeit sowie Kommunikation und Information zur Fachmaturität. In begründeten Fällen wird ein zeitlicher Unterbruch von höchstens drei Jahren nach Erhalt des Fachmittelschulausweises akzeptiert.
+
+<sup>4</sup> Die Ziele der Ausbildung richten sich nach Art. 6 Abs. 1 und Abs. 3 des Reglements über die Anerkennung der Abschlüsse von Fachmittelschulen der Konferenz der kantonalen Erziehungsdirektorinnen und -direktoren (EDK) vom 25. Oktober 2018[^1-1].
+
+[^1-1]: [https://edudoc.ch/record/133065/files/ARegl-FMS-2018\_d.pdf](https://edudoc.ch/record/133065/files/ARegl-FMS-2018_d.pdf)
+
+## 2a. Erwerb des Fachmittelschulausweises
+
+### 2a.1. Unterricht
 
 #### § 2
 
@@ -56,7 +63,7 @@ vom 25.01.2005 (Stand 06.05.2023)
 - 5\. Fächergruppe Biologie, Chemie, Physik (gleich gewichtet)
 - 6\. Geschichte
 - 7\. Fächergruppe Wirtschaft und Recht, Geografie (gleich gewichtet)
-- 8\. Psychologie
+- 8\. …
 - 9\. Fächergruppe Bildnerisches Gestalten/Werken, Musik (gleich gewichtet)
 - 10\. Sport
 - 11\. Selbständige Arbeit
@@ -67,6 +74,7 @@ vom 25.01.2005 (Stand 06.05.2023)
 - 2\. Chemie, Physik (gleich gewichtet)
 - 3\. Berufsfeldspezifische Ethik
 - 4\.–8. …
+- 9\. Berufsfeldspezifische Psychologie
 
 <sup>3</sup> Fachmittelschulausweisfächer im Berufsfeld Pädagogik sind zusätzlich:
 
@@ -74,6 +82,7 @@ vom 25.01.2005 (Stand 06.05.2023)
 - 2\. Chemie, Physik (gleich gewichtet)
 - 3\. Pädagogik
 - 4\. …
+- 5\. Berufsfeldspezifische Psychologie
 
 <sup>4</sup> Fachmittelschulausweisfächer im Berufsfeld Kommunikation und Information sind zusätzlich:
 
@@ -81,18 +90,28 @@ vom 25.01.2005 (Stand 06.05.2023)
 - 2\. Wirtschaft und Recht
 - 3\. Bild und Kommunikation
 - 4\.–5. …
+- 6\. Berufsfeldspezifische Psychologie
 
 <sup>5</sup> Fachmittelschulausweisfächer im Berufsfeld Soziale Arbeit sind zusätzlich:
 
 - 1\. Kommunikation/Medienkunde
 - 2\. Wirtschaft und Recht
 - 3\. Sozialkunde/Soziologie
+- 4\. Berufsfeldspezifische Psychologie
+
+#### § 2a
+
+**Obligatorisches Praktikum**
+
+<sup>1</sup> Während der Ausbildung ist ein Praktikum nach Art. 10 Abs. 1 des Reglements über die Anerkennung der Abschlüsse von Fachmittelschulen der EDK vom 25. Oktober 2018 zu absolvieren.
 
 #### § 3
 
 **…**
 
-## 2. Promotion
+## 2.
+
+### 2a.2. Promotion
 
 #### § 3a
 
@@ -110,7 +129,7 @@ vom 25.01.2005 (Stand 06.05.2023)
 - 8\. Geschichte
 - 9\. Geografie
 - 10\. Wirtschaft und Recht
-- 11\. Psychologie
+- 11\. …
 - 12\. Sport
 - 13\. Musik
 - 14\. Bildnerisches Gestalten/Werken
@@ -120,7 +139,7 @@ vom 25.01.2005 (Stand 06.05.2023)
 
 #### § 4
 
-**Promotionstermine**
+**Promotionsverfahren**
 
 <sup>1</sup> Am Ende eines Semesters entscheidet der Konvent aufgrund der Zeugnisnoten in den Promotionsfächern, ob eine Schülerin oder ein Schüler in das nächste Semester befördert werden kann.
 
@@ -148,20 +167,25 @@ vom 25.01.2005 (Stand 06.05.2023)
 <sup>1</sup> Eine Schülerin oder ein Schüler wird definitiv befördert, wenn
 
 - 1\. der Notendurchschnitt in den Promotionsfächern mindestens 4 beträgt,
-- 2\. höchstens zwei Promotionsnoten ungenügend sind, und
+- 2\. höchstens drei Promotionsnoten ungenügend sind, und
 - 3\. die Summe der Differenzen der ungenügenden Promotionsnoten zur Note 4 den Wert 2 nicht übersteigt.
 
 #### § 7
 
-**Provisorische Promotion**
+**Provisorische Promotion und Nichtpromotion**
 
 <sup>1</sup> Eine Schülerin oder ein Schüler, die oder der die Bedingungen für eine definitive Promotion nicht erfüllt, wird für das nächste Semester provisorisch promoviert, sofern sie oder er für das vorhergehende Semester definitiv promoviert wurde und an der Fachmittelschule nicht mehr als einmal provisorisch promoviert worden ist.
 
+<sup>2</sup> Für Fachmittelschulen mit Jahrespromotion gilt:
+
+- 1\. Ende der ersten drei Semester gilt jeweils Abs. 1.
+- 2\. Wer Ende des vierten Semesters die Bedingungen für eine definitive Promotion nicht erfüllt, wird nicht in die dritte Klasse befördert.
+
 #### § 8
 
-**Nichtpromotion, Repetition**
+**Repetition**
 
-<sup>1</sup> Wer die Voraussetzungen für eine Promotion nicht erfüllt, kann die zuletzt besuchte Klasse wiederholen. An der Fachmittelschule kann nur einmal repetiert werden.
+<sup>1</sup> Wer die Voraussetzungen für eine Promotion nicht erfüllt, kann die zwei zuletzt besuchten Semester wiederholen. An einer Mittelschule kann nur einmal repetiert werden.
 
 <sup>2</sup> Eine Schülerin oder ein Schüler der 1. Klasse wird am Ende des ersten Semesters von der Schule gewiesen, wenn in den für die Promotion massgebenden Fächern mehr als vier Noten unter 4 vorliegen. Eine Repetition ist nicht möglich.
 
@@ -177,7 +201,9 @@ vom 25.01.2005 (Stand 06.05.2023)
 
 <sup>1</sup> Der Promotionsentscheid wird im Zeugnis festgehalten.
 
-## 3. Abschluss
+## 3.
+
+### 2a.3. Abschluss
 
 #### § 11
 
@@ -191,11 +217,11 @@ vom 25.01.2005 (Stand 06.05.2023)
 
 **Prüfungskommission**
 
-<sup>1</sup> Die Prüfungskommission besteht aus den Hauptlehrerinnen und Hauptlehrern und den übrigen an den Prüfungen beteiligten Lehrpersonen sowie den Expertinnen und Experten.
+<sup>1</sup> Die Prüfungskommission besteht aus den Hauptlehrerinnen und Hauptlehrern und den Lehrbeauftragten der Fachmittelschulausweisfächer sowie den Expertinnen und Experten.
 
 <sup>2</sup> Den Vorsitz führt ein Mitglied der Schulleitung.
 
-<sup>3</sup> Die Prüfungskommission hält die Prüfungsergebnisse fest und entscheidet über den Erwerb des Fachmittelschulausweises. Sie kann unter Würdigung aller Umstände eine Fachmittelschulausweisnote verändern.
+<sup>3</sup> Die Prüfungskommission hält die Prüfungsergebnisse fest und entscheidet über den Erwerb des Fachmittelschulausweises. Sie kann unter Würdigung aller Umstände maximal eine Fachmittelschulausweisnote verändern.
 
 #### § 13
 
@@ -212,25 +238,25 @@ vom 25.01.2005 (Stand 06.05.2023)
 <sup>1</sup> Prüfungsfächer im Berufsfeld Gesundheit/Naturwissenschaften sind:
 
 - 1\. Deutsch — schriftlich und mündlich
-- 2\. Eine Fremdsprache — schriftlich und mündlich
+- 2\. eine zweite Landessprache oder Englisch — schriftlich und mündlich
 - 3\. Mathematik — schriftlich
 - 4\. Geschichte — mündlich
-- 5\. Psychologie — mündlich
+- 5\. Psychologie (berufsfeldspezifisch) — mündlich
 - 6\. Biologie (berufsfeldspezifisch) — schriftlich und mündlich
 
 <sup>2</sup> Prüfungsfächer im Berufsfeld Pädagogik sind:
 
 - 1\. Deutsch — schriftlich und mündlich
-- 2\. Eine Fremdsprache — schriftlich und mündlich
+- 2\. eine zweite Landessprache oder Englisch — schriftlich und mündlich
 - 3\. Mathematik — schriftlich
 - 4\. Geschichte — mündlich
-- 5\. Psychologie — mündlich
+- 5\. Psychologie (berufsfeldspezifisch) — mündlich
 - 6\. Biologie (berufsfeldspezifisch) — schriftlich und mündlich
 
 <sup>3</sup> Prüfungsfächer im Berufsfeld Kommunikation und Information sind:
 
 - 1\. Deutsch — schriftlich und mündlich
-- 2\. Eine Fremdsprache — schriftlich und mündlich
+- 2\. eine zweite Landessprache oder Englisch — schriftlich und mündlich
 - 3\. Mathematik — schriftlich
 - 4\. Geschichte — mündlich
 - 5\. Wirtschaft und Recht (berufsfeldspezifisch) — schriftlich und mündlich
@@ -239,7 +265,7 @@ vom 25.01.2005 (Stand 06.05.2023)
 <sup>4</sup> Prüfungsfächer im Berufsfeld Soziale Arbeit sind:
 
 - 1\. Deutsch — schriftlich und mündlich
-- 2\. Eine Fremdsprache — schriftlich und mündlich
+- 2\. eine zweite Landessprache oder Englisch — schriftlich und mündlich
 - 3\. Mathematik — schriftlich
 - 4\. Geschichte — mündlich
 - 5\. Wirtschaft und Recht (berufsfeldspezifisch) — schriftlich und mündlich
@@ -296,7 +322,7 @@ vom 25.01.2005 (Stand 06.05.2023)
 <sup>1</sup> Die Abschlussprüfung FMS ist bestanden, wenn
 
 - 1\. der Notendurchschnitt aller Fachmittelschulausweisnoten mindestens 4 beträgt,
-- 2\. höchstens zwei Noten der Fachmittelschulausweisnoten ungenügend sind, und
+- 2\. höchstens drei Noten der Fachmittelschulausweisnoten ungenügend sind, und
 - 3\. die Summe der Differenzen der ungenügenden Fachmittelschulausweisnoten zur Note 4 den Wert 2 nicht übersteigt.
 
 <sup>2</sup> Wer unerlaubte Hilfsmittel verwendet oder sich anderweitig unerlaubte Vorteile verschafft, hat die Prüfung nicht bestanden.
@@ -319,9 +345,9 @@ vom 25.01.2005 (Stand 06.05.2023)
 
 **Fachmittelschulausweis**
 
-<sup>1</sup> Wer die Prüfung bestanden hat, erhält den Fachmittelschulausweis, der von der Vorsteherin oder dem Vorsteher des Departements für Erziehung und Kultur und der Rektorin oder dem Rektor unterzeichnet wird. Er enthält die Fachmittelschulausweisnoten sowie das Thema der selbstständigen Arbeit FMS.
+<sup>1</sup> Wer die Prüfung bestanden hat, erhält den Fachmittelschulausweis, der von der Chefin oder dem Chef des Departements für Erziehung und Kultur und der Rektorin oder dem Rektor unterzeichnet wird. Er enthält die Fachmittelschulausweisnoten sowie das Thema der selbstständigen Arbeit FMS.
 
-## 4. Erwerb der Fachmatura Gesundheit/Naturwissenschaften
+## 4. Erwerb der Fachmaturität Gesundheit/Naturwissenschaften
 
 #### § 25
 
@@ -331,7 +357,7 @@ vom 25.01.2005 (Stand 06.05.2023)
 
 - 1\. Einführungskurs im Umfang von mindestens vier Wochen in der Fachrichtung Gesundheit oder Naturwissenschaften
 - 2\. Nachweis von mindestens 24 Wochen Praktikum in der gleichen Fachrichtung in einer Institution des Gesundheitswesens oder der Naturwissenschaften
-- 3\. Abfassen und Präsentieren einer Fachmaturaarbeit mit Bezug zum Praktikum
+- 3\. Abfassen und Präsentieren einer Fachmaturitätsarbeit mit Bezug zum Praktikum
 
 #### § 26
 
@@ -355,13 +381,13 @@ vom 25.01.2005 (Stand 06.05.2023)
 
 #### § 27
 
-**Bewertung der Fachmaturaarbeit**
+**Bewertung der Fachmaturitätsarbeit**
 
-<sup>1</sup> Die Fachmaturaarbeit mit Bezug zum Praktikum wird von der betreuenden Lehrperson unter Beizug einer Expertin oder eines Experten bewertet
+<sup>1</sup> Die Fachmaturitätsarbeit mit Bezug zum Praktikum wird von der betreuenden Lehrperson unter Beizug einer Expertin oder eines Experten bewertet.
 
 <sup>2</sup> Die Expertin oder der Experte ist in der Regel die Betreuungsperson des Praktikumsbetriebs.
 
-<sup>3</sup> Die Note für die Fachmaturaarbeit setzt sich aus einer Note für die schriftliche Arbeit und einer Note für die Präsentation zusammen. Erstere wird zu 2/3, letztere zu 1/3 gewichtet.
+<sup>3</sup> Die Note für die Fachmaturitätsarbeit setzt sich aus einer Note für die schriftliche Arbeit und einer Note für die Präsentation zusammen. Erstere wird zu zwei Dritteln, letztere zu einem Drittel gewichtet.
 
 #### § 28
 
@@ -371,35 +397,35 @@ vom 25.01.2005 (Stand 06.05.2023)
 
 #### § 29
 
-**Bestehen der Fachmatura**
+**Bestehen der Fachmaturität**
 
-<sup>1</sup> Das Fachmaturazeugnis Gesundheit/Naturwissenschaften wird abgegeben, wenn der Einführungskurs sowie das Praktikum mit «bestanden» und die Fachmaturaarbeit mit einer genügenden Note bewertet wurde.
+<sup>1</sup> Das Fachmaturitätszeugnis Gesundheit/Naturwissenschaften wird abgegeben, wenn der Einführungskurs sowie das Praktikum mit «bestanden» und die Fachmaturitätsarbeit mit einer genügenden Note bewertet wurde.
 
 #### § 30
 
-**Wiederholung der Fachmatura**
+**Wiederholung der Fachmaturität**
 
-<sup>1</sup> Wenn die Fachmaturaarbeit oder das Praktikum ungenügend bewertet wurden, sind sowohl die Fachmaturaarbeit als auch das Praktikum zu wiederholen.
+<sup>1</sup> Wenn die Fachmaturitätsarbeit oder das Praktikum ungenügend bewertet wurden, sind sowohl die Fachmaturitätsarbeit als auch das Praktikum zu wiederholen.
 
 <sup>2</sup> Eine Wiederholung ist einmal möglich. Der Einführungskurs kann freiwillig wiederholt werden, wenn er mit «bestanden» bewertet wurde.
 
 #### § 31
 
-**Fachmaturazeugnis**
+**Fachmaturitätszeugnis**
 
-<sup>1</sup> Das Fachmaturazeugnis enthält die Angabe des Berufsfeldes, die Bestätigung über das erfolgreiche Absolvieren des Praktikums sowie das Thema und die Beurteilung der Fachmaturaarbeit.
+<sup>1</sup> Das Fachmaturitätszeugnis enthält die Angabe des Berufsfeldes, die Bestätigung über das erfolgreiche Absolvieren des Praktikums sowie das Thema und die Beurteilung der Fachmaturitätsarbeit.
 
 <sup>2</sup> …
 
-<sup>3</sup> Das Fachmaturazeugnis wird von der Chefin oder vom Chef des Departements sowie von der Rektorin oder vom Rektor unterzeichnet.
+<sup>3</sup> Das Fachmaturitätszeugnis wird von der Chefin oder dem Chef des Departements sowie von der Rektorin oder dem Rektor unterzeichnet.
 
-## 4a. Erwerb der Fachmatura Pädagogik
+## 4a. Erwerb der Fachmaturität Pädagogik
 
 #### § 31bis
 
 **Zulassung**
 
-<sup>1</sup> Die Zulassung zur Fachmatura Pädagogik ist auf zwei Klassen beschränkt.
+<sup>1</sup> Die Zulassung zur Fachmaturität Pädagogik ist auf zwei Klassen beschränkt.
 
 <sup>2</sup> Massgebend für die Zulassung ist die Platzierung auf der Rangliste aufgrund des Notenschnittes des Zeugnisses vom 5. Semester.
 
@@ -414,7 +440,7 @@ vom 25.01.2005 (Stand 06.05.2023)
 <sup>1</sup> Nach Erwerb des Fachmittelschulausweises Pädagogik sind folgende Leistungen zu erbringen:
 
 - 1\. Besuch des Unterrichts gemäss § 31b
-- 2\. Abfassen und Präsentieren einer Fachmaturaarbeit
+- 2\. Abfassen und Präsentieren einer Fachmaturitätsarbeit
 - 3\. Prüfung
 
 #### § 31b
@@ -440,25 +466,25 @@ vom 25.01.2005 (Stand 06.05.2023)
 
 #### § 31c
 
-**Fachmaturaarbeit**
+**Fachmaturitätsarbeit**
 
-<sup>1</sup> Die Fachmaturaarbeit wird von der betreuenden Lehrperson bewertet.
+<sup>1</sup> Die Fachmaturitätsarbeit wird von der betreuenden Lehrperson bewertet.
 
 <sup>2</sup> Bei einer ungenügenden Bewertung der schriftlichen Arbeit ist eine einmalige Nachbesserung möglich. Bei einer Nachbesserung der Arbeit kann höchstens die Note 4 erzielt werden.
 
 <sup>2<sup>bis</sup></sup> Eine genügende schriftliche Arbeit ist Voraussetzung, um an die Präsentation zugelassen zu werden.
 
-<sup>3</sup> Die Note für die Fachmaturaarbeit setzt sich aus einer Note für die schriftliche Arbeit und einer Note für die Präsentation zusammen. Erstere wird zu 2/3, letztere zu 1/3 gewichtet.
+<sup>3</sup> Die Note für die Fachmaturitätsarbeit setzt sich aus einer Note für die schriftliche Arbeit und einer Note für die Präsentation zusammen. Erstere wird zu zwei Dritteln, letztere zu einem Drittel gewichtet.
 
-<sup>4</sup> Sollte die Fachmaturaarbeit aufgrund der Präsentation ungenügend werden, kann diese vor den Prüfungen noch einmal präsentiert werden. Bei einer erneuten Präsentation kann höchstens die Note 4 erzielt werden.
+<sup>4</sup> Eine ungenügende Fachmaturitätsarbeit aufgrund der Präsentation kann vor den Prüfungen noch einmal präsentiert werden. Bei einer erneuten Präsentation kann höchstens die Note 4 erzielt werden. Die erneute Präsentation ist nur möglich, wenn nicht bereits die schriftliche Arbeit nachgebessert wurde.
 
 #### § 31d
 
 **Zulassung zur Prüfung**
 
-<sup>1</sup> Für eine Zulassung zur Prüfung muss die Note für die Fachmaturaarbeit mindestens 4 betragen.
+<sup>1</sup> Für eine Zulassung zur Prüfung muss die Note für die Fachmaturitätsarbeit mindestens 4 betragen.
 
-<sup>2</sup> Wer aufgrund einer ungenügenden Note für die Fachmaturaarbeit nicht zur Prüfung zugelassen wird, kann das Fachmaturajahr einmal wiederholen.
+<sup>2</sup> Wer aufgrund einer ungenügenden Note für die Fachmaturitätsarbeit nicht zur Prüfung zugelassen wird, kann das Fachmaturitätsjahr einmal wiederholen.
 
 #### § 31e
 
@@ -503,7 +529,7 @@ vom 25.01.2005 (Stand 06.05.2023)
 
 <sup>1</sup> Die Prüfung ist bestanden, wenn
 
-- 1\. der Notendurchschnitt aller fünf Noten der Prüfungsfächer sowie der Fachmaturaarbeit mindestens 4 beträgt
+- 1\. der Notendurchschnitt aller fünf Noten der Prüfungsfächer sowie der Fachmaturitätsarbeit mindestens 4 beträgt
 - 2\. höchstens zwei Noten der Prüfungsfächer ungenügend sind und
 - 3\. die Summe der Notenabweichungen der fünf Prüfungsfächer von 4 nach unten nicht mehr als 1 beträgt.
 
@@ -511,19 +537,19 @@ vom 25.01.2005 (Stand 06.05.2023)
 
 **Wiederholung der Prüfung**
 
-<sup>1</sup> Wer die Prüfung nicht bestanden hat, kann die Prüfung einmal wiederholen. Es müssen alle Fächer erneut abgelegt werden, in denen keine genügende Note erreicht wurde. Das Fachmaturajahr kann nicht wiederholt werden.
+<sup>1</sup> Wer die Prüfung nicht bestanden hat, kann die Prüfung einmal wiederholen. Es müssen alle Fächer erneut abgelegt werden, in denen keine genügende Note erreicht wurde. Das Fachmaturitätsjahr kann nicht wiederholt werden.
 
 <sup>2</sup> Die Termine für die Wiederholung der Prüfung legt die Schulleitung fest.
 
 #### § 31j
 
-**Fachmaturazeugnis**
+**Fachmaturitätszeugnis**
 
-<sup>1</sup> Das Fachmaturazeugnis enthält die Angabe des Berufsfeldes, das Thema und die Beurteilung der Fachmaturaarbeit sowie die Noten der Prüfungsfächer.
+<sup>1</sup> Das Fachmaturitätszeugnis enthält die Angabe des Berufsfeldes, das Thema und die Beurteilung der Fachmaturitätsarbeit sowie die Noten der Prüfungsfächer.
 
-<sup>2</sup> Das Fachmaturazeugnis wird von der Vorsteherin oder dem Vorsteher des Departements sowie von der Rektorin oder vom Rektor unterzeichnet.
+<sup>2</sup> Das Fachmaturitätszeugnis wird von der Chefin oder dem Chef des Departements sowie von der Rektorin oder dem Rektor unterzeichnet.
 
-## 5. Erwerb der Fachmatura Soziale Arbeit
+## 5. Erwerb der Fachmaturität Soziale Arbeit
 
 #### § 32
 
@@ -531,18 +557,18 @@ vom 25.01.2005 (Stand 06.05.2023)
 
 <sup>1</sup> Nach Erwerb des Fachmittelschulausweises Soziale Arbeit sind folgende Leistungen zu erbringen:
 
-- 1\. Nachweis von mindestens 40 Wochen Arbeitspraxis, davon mindestens 24 Wochen in einem Betrieb des Sozialwesens
-- 2\. Abfassen und Präsentieren einer Fachmaturaarbeit mit Bezug zum Praktikum
+- 1\. Nachweis von 40 Wochen Arbeitspraxis, davon mindestens 24 Wochen in einem Betrieb des Sozialwesens
+- 2\. Abfassen und Präsentieren einer Fachmaturitätsarbeit mit Bezug zum Praktikum
 
 #### § 33
 
-**Bewertung der Fachmaturaarbeit**
+**Bewertung der Fachmaturitätsarbeit**
 
-<sup>1</sup> Die Fachmaturaarbeit mit Bezug zum Praktikum wird von der betreuenden Lehrperson unter Beizug einer Expertin oder eines Experten bewertet.
+<sup>1</sup> Die Fachmaturitätsarbeit mit Bezug zum Praktikum wird von der betreuenden Lehrperson unter Beizug einer Expertin oder eines Experten bewertet.
 
 <sup>2</sup> Die Expertin oder der Experte ist in der Regel die Betreuungsperson des Praktikumsbetriebs.
 
-<sup>3</sup> Die Note für die Fachmaturaarbeit setzt sich aus einer Note für die schriftliche Arbeit und einer Note für die Präsentation zusammen. Erstere wird zu 2/3, letztere zu 1/3 gewichtet.
+<sup>3</sup> Die Note für die Fachmaturitätsarbeit setzt sich aus einer Note für die schriftliche Arbeit und einer Note für die Präsentation zusammen. Erstere wird zu zwei Dritteln, letztere zu einem Drittel gewichtet.
 
 #### § 34
 
@@ -552,27 +578,27 @@ vom 25.01.2005 (Stand 06.05.2023)
 
 #### § 35
 
-**Bestehen der Fachmatura**
+**Bestehen der Fachmaturität**
 
-<sup>1</sup> Das Fachmaturazeugnis Soziale Arbeit wird abgegeben, wenn das Praktikum bestanden, die Bewertung der Fachmaturaarbeit genügend und der Nachweis der Arbeitspraxis erbracht worden ist.
+<sup>1</sup> Das Fachmaturitätszeugnis Soziale Arbeit wird abgegeben, wenn das Praktikum bestanden, die Bewertung der Fachmaturitätsarbeit genügend und der Nachweis der Arbeitspraxis erbracht worden ist.
 
 #### § 36
 
-**Wiederholung der Fachmatura**
+**Wiederholung der Fachmaturität**
 
-<sup>1</sup> Wenn die Fachmaturaarbeit ungenügend bewertet oder das Praktikum nicht bestanden wurde, sind sowohl die Fachmaturaarbeit als auch das Praktikum zu wiederholen.
+<sup>1</sup> Wenn die Fachmaturitätsarbeit ungenügend bewertet oder das Praktikum nicht bestanden wurde, sind sowohl die Fachmaturitätsarbeit als auch das Praktikum zu wiederholen.
 
 <sup>2</sup> Eine Wiederholung ist einmal möglich.
 
 #### § 37
 
-**Fachmaturazeugnis**
+**Fachmaturitätszeugnis**
 
-<sup>1</sup> Das Fachmaturazeugnis enthält die Angabe des Berufsfeldes, die Bestätigung über das erfolgreiche Absolvieren des Praktikums sowie das Thema und die Beurteilung der Fachmaturaarbeit.
+<sup>1</sup> Das Fachmaturitätszeugnis enthält die Angabe des Berufsfeldes, die Bestätigung über das erfolgreiche Absolvieren des Praktikums sowie das Thema und die Beurteilung der Fachmaturitätsarbeit.
 
-<sup>2</sup> Das Fachmaturazeugnis wird von der Vorsteherin oder dem Vorsteher des Departements sowie von der Rektorin oder vom Rektor unterzeichnet.
+<sup>2</sup> Das Fachmaturitätszeugnis wird von der Chefin oder dem Chef des Departements sowie von der Rektorin oder dem Rektor unterzeichnet.
 
-## 6. Erwerb der Fachmatura Kommunikation und Information
+## 6. Erwerb der Fachmaturität Kommunikation und Information
 
 #### § 38
 
@@ -583,7 +609,7 @@ vom 25.01.2005 (Stand 06.05.2023)
 - 1\. Nachweis von mindestens 24 Wochen Praktikum. Die Festlegung der genauen Dauer und der Art des Praktikums erfolgt im Rahmen der Bestimmungen für die Zulassung zum Aufnahmeverfahren einer Fachhochschule.
 - 2\. Nachweis von Sprachzertifikaten in zwei Fremdsprachen (Französisch, Englisch, Spanisch oder Italienisch), die mindestens das Niveau B2 nachweisen müssen (gemäss Gemeinsamem Europäischen Referenzrahmen).
 - 3\. Nachweis von je einem mindestens dreiwöchigen Sprachaufenthalt in den zwei für die Sprachzertifikate gewählten Sprachgebieten.
-- 4\. Abfassen und Präsentieren einer Fachmaturaarbeit. Die Arbeit kann in Deutsch, Französisch, Englisch, Spanisch oder Italienisch verfasst werden.
+- 4\. Abfassen und Präsentieren einer Fachmaturitätsarbeit. Die Arbeit kann in Deutsch, Französisch, Englisch, Spanisch oder Italienisch verfasst werden.
 
 #### § 39–40
 
@@ -591,11 +617,11 @@ vom 25.01.2005 (Stand 06.05.2023)
 
 #### § 41
 
-**Bewertung der Fachmaturaarbeit**
+**Bewertung der Fachmaturitätsarbeit**
 
-<sup>1</sup> Die Fachmaturaarbeit wird von der betreuenden Lehrperson bewertet.
+<sup>1</sup> Die Fachmaturitätsarbeit wird von der betreuenden Lehrperson bewertet.
 
-<sup>2</sup> Die Note für die Fachmaturaarbeit setzt sich aus einer Note für die schriftliche Arbeit und einer Note für die Präsentation zusammen. Erstere wird zu 2/3, letztere zu 1/3 gewichtet.
+<sup>2</sup> Die Note für die Fachmaturitätsarbeit setzt sich aus einer Note für die schriftliche Arbeit und einer Note für die Präsentation zusammen. Erstere wird zu zwei Dritteln, letztere zu einem Drittel gewichtet.
 
 #### § 42
 
@@ -605,27 +631,27 @@ vom 25.01.2005 (Stand 06.05.2023)
 
 #### § 43
 
-**Bestehen der Fachmatura**
+**Bestehen der Fachmaturität**
 
-<sup>1</sup> Das Fachmaturazeugnis Kommunikation und Information wird abgegeben, wenn das Praktikum bestanden wurde, die Bewertung der Fachmaturaarbeit genügend ist und die weiteren Nachweise gemäss § 38 erbracht worden sind.
+<sup>1</sup> Das Fachmaturitätszeugnis Kommunikation und Information wird abgegeben, wenn das Praktikum bestanden wurde, die Bewertung der Fachmaturitätsarbeit genügend ist und die weiteren Nachweise gemäss § 38 erbracht worden sind.
 
 #### § 44
 
-**Wiederholung der Fachmatura**
+**Wiederholung der Fachmaturität**
 
-<sup>1</sup> Wenn die Fachmaturaarbeit ungenügend bewertet oder das Praktikum nicht bestanden wurde, sind sowohl die Fachmaturaarbeit als auch das Praktikum zu wiederholen.
+<sup>1</sup> Wenn die Fachmaturitätsarbeit ungenügend bewertet oder das Praktikum nicht bestanden wurde, sind sowohl die Fachmaturitätsarbeit als auch das Praktikum zu wiederholen.
 
 <sup>2</sup> Eine Wiederholung ist einmal möglich.
 
-<sup>3</sup> Wenn der Nachweis für die Sprachaufenthalte oder Sprachzertifikate nicht erbracht wurde, kann dieser im darauffolgenden Fachmaturajahr erbracht werden. Eine genügende Fachmaturaarbeit und ein bestandenes Praktikum müssen nicht wiederholt werden.
+<sup>3</sup> Wenn der Nachweis für die Sprachaufenthalte oder Sprachzertifikate nicht erbracht wurde, kann dieser im darauffolgenden Fachmaturitätsjahr erbracht werden. Eine genügende Fachmaturitätsarbeit und ein bestandenes Praktikum müssen nicht wiederholt werden.
 
 #### § 45
 
-**Fachmaturazeugnis**
+**Fachmaturitätszeugnis**
 
-<sup>1</sup> Das Fachmaturazeugnis enthält die Angabe des Berufsfeldes, die Bestätigung über das erfolgreiche Absolvieren des Praktikums, das Thema und die Beurteilung der Fachmaturaarbeit und die gemäss § 38 verlangten Nachweise.
+<sup>1</sup> Das Fachmaturitätszeugnis enthält die Angabe des Berufsfeldes, die Bestätigung über das erfolgreiche Absolvieren des Praktikums, das Thema und die Beurteilung der Fachmaturitätsarbeit und die gemäss § 38 verlangten Nachweise.
 
-<sup>2</sup> Das Fachmaturazeugnis wird von der Vorsteherin oder dem Vorsteher des Departements sowie von der Rektorin oder vom Rektor unterzeichnet.
+<sup>2</sup> Das Fachmaturitätszeugnis wird von der Chefin oder dem Chef des Departements sowie von der Rektorin oder dem Rektor unterzeichnet.
 
 ## 6a.
 
@@ -637,13 +663,13 @@ vom 25.01.2005 (Stand 06.05.2023)
 
 #### § 46
 
-**Übergangsbestimmung**
+**Übergangsbestimmung der Änderung vom 24. Juni 2025**
 
-<sup>1</sup> Die Änderungen von § 1, § 2, § 3, § 3a, § 4, § 14, § 15, § 19, § 25, § 31a und § 38 gelten für die ab Schuljahr 2020/21 ins erste Semester der Fachmittelschule eintretenden Schülerinnen und Schüler. Ab Schuljahr 2024/25 gelten sie für alle Schülerinnen und Schüler.
+<sup>1</sup> Für diejenigen Schülerinnen und Schüler, die vor dem August 2025 mit dem Erwerb des Fachmittelschulausweises begonnen haben, gelten die Bestimmungen dieser Verordnung in der Fassung vom 2. Mai 2023 (in Kraft seit 6. Mai 2023).
 
-<sup>2</sup> Die Fachmatura Gesundheit/Naturwissenschaften (Abschnitt 4) wird per Schuljahr 2020/21 eingeführt. Der altrechtliche Fachmittelschulausweis Gesundheit/Pädagogik berechtigt zum Eintritt in die Fachmatura Gesundheit/Naturwissenschaften.
+<sup>2</sup> Die Prüfung für den Fachmittelschulausweis für die Schülerinnen und Schüler gemäss Abs. 1 wird letztmals im Sommer 2027 durchgeführt.
 
-<sup>3</sup> Die Prüfung für den Fachmittelschulausweis wird letztmals im Sommer 2022 gemäss der Verordnung des Regierungsrates über die Ausbildung an den Fachmittelschulen der Thurgauischen Kantonsschulen vom 25. Januar 2005 in der Fassung vom 3. Mai 2016 durchgeführt.
+<sup>3</sup> Für den Erwerb der Fachmaturität gelten die neuen Bestimmungen.
 
 #### § 47
 
