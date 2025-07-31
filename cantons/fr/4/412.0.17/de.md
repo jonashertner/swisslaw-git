@@ -3,13 +3,13 @@ canton: FR
 number: "412.0.17"
 title: Beschluss über die Gebühren für die Schlussprüfungen an den Schulen der Sekundarstufe 2
 language: de
-version: 2022-02-01
-valid_until: 2025-07-31
-version_adopted: 2022-03-04
+version: 2025-08-01
+valid_until: 2025-12-31
+version_adopted: 2025-06-23
 adopted: 1990-01-16
 in_force: 1991-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/412.0.17"
-pdf: "https://bdlf.fr.ch/api/de/versions/7292/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8205/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7292/pdf_file"
 
 Schulen der Sekundarstufe 2, Gebühren für die Schlussprüfungen – B
 
-vom 16.01.1990 (Fassung in Kraft getreten am 01.02.2022)
+vom 16.01.1990 (Fassung in Kraft getreten am 01.08.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -71,6 +71,8 @@ beschliesst:
 #### Art. 3
 
 <sup>1</sup> Die Direktion kann im Einzelfall und auf begründetes Gesuch hin die Prüfungsgebühr anpassen, wenn besondere Umstände dies rechtfertigen.
+
+<sup>2</sup> Die Prüfungsgebühr wird zurückerstattet, wenn der Rückzug mehr als zehn Tage vor Prüfungsbeginn eingereicht wurde, und in den übrigen Fällen, wenn die Kandidatin oder der Kandidat einen stichhaltigen Grund für den Rückzug nach dieser Frist geltend machen kann.
 
 #### Art. 4
 

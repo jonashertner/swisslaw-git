@@ -3,13 +3,13 @@ canton: FR
 number: "412.0.17"
 title: "Arrêté fixant les taxes d'examens finals des écoles du secondaire du deuxième degré"
 language: fr
-version: 2022-02-01
-valid_until: 2025-07-31
-version_adopted: 2022-03-04
+version: 2025-08-01
+valid_until: 2025-12-31
+version_adopted: 2025-06-23
 adopted: 1990-01-16
 in_force: 1991-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/412.0.17"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7292/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8205/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7292/pdf_file"
 
 Ecoles du secondaire du deuxième degré, taxes des examens finals – A
 
-du 16.01.1990 (version entrée en vigueur le 01.02.2022)
+du 16.01.1990 (version entrée en vigueur le 01.08.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -71,6 +71,8 @@ Arrête:
 #### Art. 3
 
 <sup>1</sup> La Direction peut, dans des cas particuliers et sur requête motivée, adapter le montant de la taxe d'examens, si des circonstances spéciales le justifient.
+
+<sup>2</sup> La taxe d'examen est restituée lorsque le désistement a lieu plus de dix jours avant le début des épreuves et, dans les autres cas, si la personne candidate a un motif valable de se désister passé ce délai.
 
 #### Art. 4
 
