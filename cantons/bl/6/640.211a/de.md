@@ -3,20 +3,19 @@ canton: BL
 number: 640.211a
 title: "Reglement betreffend Durchführung der Leistungstests (Check P3, P5, S2 und S3) für die Volksschule Basel-Landschaft"
 language: de
-version: 2016-08-01
-valid_until: 2025-07-31
-version_adopted: 2016-08-25
+version: 2025-08-01
+version_adopted: 2025-08-27
 adopted: 2016-08-25
 in_force: 2016-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/640.211a"
-pdf: "https://bl.clex.ch/api/de/versions/4511/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4512/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement betreffend Durchführung der Leistungstests (Check P3, P5, S2 und S3) für die Volksschule Basel-Landschaft
 
-Vom 25.08.2016 (Stand 01.08.2016)
+Vom 25.08.2016 (Stand 01.08.2025)
 
 Die Bildungs-, Kultur- und Sportdirektion des Kantons Basel-Landschaft,
 
@@ -156,6 +155,12 @@ beschliesst:
 <sup>4</sup> Die Schulleitungen dürfen sich im Rahmen der Schulentwicklung über die Ergebnisse der Checks nach Abs. 1 Bst. b austauschen.
 
 <sup>5</sup> Die Herausgabe von Ergebnissen an andere Personen oder Stellen ist untersagt.
+
+#### § 10a
+
+**Amt für Daten und Statistik**
+
+<sup>1</sup> Das Amt für Daten und Statistik erhält die für die Erstellung der Statistik der Checks in der Volksschule erforderlichen Daten.
 
 #### § 11
 
