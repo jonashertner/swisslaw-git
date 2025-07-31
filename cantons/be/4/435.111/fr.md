@@ -4,13 +4,12 @@ number: "435.111"
 title: "Ordonnance sur la formation professionnelle, la formation continue et l'orientation professionnelle"
 short: OFOP
 language: fr
-version: 2024-08-01
-valid_until: 2025-07-31
-version_adopted: 2024-06-19
+version: 2025-08-01
+version_adopted: 2025-05-28
 adopted: 2005-11-09
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/435.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3054/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3371/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3054/pdf_file"
 
 (OFOP)
 
-du 09.11.2005 (état au 01.08.2024)
+du 09.11.2005 (état au 01.08.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -557,9 +556,9 @@ arrête:
 
 <sup>1</sup> Un pool destiné aux tâches spéciales exprimé en pourcentages de degré d’occupation est mis à la disposition des directions d’école pour l’accomplissement au degré secondaire II de tâches spéciales au sens de l’article 90 OSE.
 
-<sup>2</sup> Son volume correspond aux trois quarts de celui du pool de direction.
+<sup>2</sup> Le volume du pool destiné aux tâches spéciales est calculé sur la base du pool de direction.
 
-<sup>3</sup> Il est augmenté
+<sup>3</sup> Le pool destiné aux tâches spéciales est augmenté
 
 - a de cinq pour cent de degré d’occupation par classe pour rétribuer la fonction de maîtrise de classe, l'allocation prévue à l'article 36b OSE étant comptabilisée à part,
 - b …
@@ -1123,6 +1122,8 @@ arrête:
 
 #### Art. 94a
 
+**Encouragement particulier**
+
 <sup>1</sup> Les filières suivantes bénéficient d'un forfait de subventionnement plus élevé en vertu de l'article 27, alinéa 2 LFOP:
 
 - a Hôtelier/Hôtelière – Restaurateur/Restauratrice dipl. ES (Hotelfachschule Thun),
@@ -1197,25 +1198,9 @@ arrête:
 
 <sup>1</sup> L’Office des écoles moyennes et de la formation professionnelle coordonne les formations encouragées avec les mesures financées par les autorités du marché du travail dans le domaine de la formation continue et d’autres procédures de qualification ainsi qu’avec les mesures financées par d’autres autorités et institutions dans ce même domaine (art. 29, al. 2 OFPr).
 
-#### Art. 102
+#### Art. 102–103
 
-**Conseil de la formation continue**
-
-<sup>1</sup> Le Conseil de la formation continue se compose de huit spécialistes de la formation continue au plus.
-
-<sup>2</sup> Les régions linguistiques et les deux sexes sont représentés de manière appropriée. Les représentants et les représentantes du Jura bernois ou des Francophones de l'arrondissement administratif de Biel/Bienne sont nommés sur proposition commune du Conseil du Jura bernois et du Conseil des affaires francophones de l'arrondissement de Biel/Bienne.
-
-<sup>3</sup> Des collaborateurs et des collaboratrices de la Direction de l’instruction publique et de la culture, de la Direction de l’économie, de l’énergie et de l’environnement et de la Direction de la santé, des affaires sociales et de l’intégration siègent au Conseil de la formation continue avec voix consultative.
-
-#### Art. 103
-
-**2. Tâches**
-
-<sup>1</sup> Le Conseil de la formation continue élabore des bases et des propositions concernant la formation continue et conseille l’Office des écoles moyennes et de la formation professionnelle et le Conseil pour la formation professionnelle. Il fait en particulier des propositions pour
-
-- a définir l’offre conforme aux besoins et bénéficiant d’un soutien,
-- b fixer des axes de développement et des priorités et
-- c atténuer les disparités régionales.
+**…**
 
 ### 4.2 Formations encouragées
 
@@ -1230,7 +1215,7 @@ arrête:
 - e les mesures visant à atténuer les disparités régionales dans le domaine de la formation continue ainsi que
 - f les mesures d'accompagnement.
 
-<sup>2</sup> Elle publique règle les modalités de détail par voie d’ordonnance.
+<sup>2</sup> Elle règle les modalités de détail par voie d’ordonnance.
 
 ### 4.3 Prestataires
 

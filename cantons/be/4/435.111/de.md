@@ -4,13 +4,12 @@ number: "435.111"
 title: "Verordnung über die Berufsbildung, die Weiterbildung und die Berufsberatung"
 short: BerV
 language: de
-version: 2024-08-01
-valid_until: 2025-07-31
-version_adopted: 2024-06-19
+version: 2025-08-01
+version_adopted: 2025-05-28
 adopted: 2005-11-09
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/435.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3054/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3371/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3054/pdf_file"
 
 (BerV)
 
-vom 09.11.2005 (Stand 01.08.2024)
+vom 09.11.2005 (Stand 01.08.2025)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -559,13 +558,13 @@ beschliesst:
 
 <sup>1</sup> Für die Erfüllung von Spezialaufgaben gemäss Artikel 90 LAV der Sekundarstufe II verfügt die Schulleitung über einen Pool für Spezialaufgaben in Form von Beschäftigungsgradprozenten.
 
-<sup>2</sup> Der Pool für Spezialaufgaben beträgt drei Viertel des Schulleitungspools.
+<sup>2</sup> Die Grösse des Pools für Spezialaufgaben berechnet sich in Abhängigkeit des Schulleitungspools.
 
-<sup>3</sup> Er wird erhöht
+<sup>3</sup> Der Pool für Spezialaufgaben wird erhöht
 
 - a zur Abgeltung der Tätigkeit als Klassenlehrkraft um fünf Beschäftigungsgradprozente pro Klasse, wobei die Zulage gemäss Artikel 36b LAV nicht darunter fällt,
 - b …
-- b1 zur Abgeltung der Unterstützung von berufseinsteigenden und wiedereinsteigenden Lehrkräften und
+- b1 zur Abgeltung der Unterstützung von berufseinsteigenden und wiedereinsteigenden Lehrkräften sowie
 - c zur Wahrnehmung von schulübergreifenden Aufgaben.
 
 #### Art. 47c
@@ -877,7 +876,7 @@ beschliesst:
 - c ernennen die Expertinnen und Experten in der Regel aus den Kreisen der Hochschulen,
 - d organisieren den Einsatz der Expertinnen und Experten für die Berufsmaturitätsprüfungen.
 
-<sup>3</sup>
+<sup>3</sup> Sie haben Zutritt zu den Prüfungen.
 
 ### 2.5 Nicht subventionierte private Berufsfachschulen
 
@@ -1205,25 +1204,9 @@ beschliesst:
 
 <sup>1</sup> Das Mittelschul- und Berufsbildungsamt stimmt das geförderte Angebot mit den von den Arbeitsmarktbehörden getragenen Angeboten und Massnahmen im Bereich der Weiterbildung und anderer Qualifikationsverfahren sowie mit von anderen Behörden und Institutionen getragenen Massnahmen im Bereich der Weiterbildung ab (Art. 29 Abs. 2 BBV).
 
-#### Art. 102
+#### Art. 102–103
 
-**Fachrat Weiterbildung 1 Zusammensetzung**
-
-<sup>1</sup> Der Fachrat Weiterbildung setzt sich aus höchstens acht Fachpersonen der Weiterbildung zusammen.
-
-<sup>2</sup> Bei der Zusammensetzung ist auf eine angemessene Vertretung der Sprachregionen und der Geschlechter zu achten. Die Vertreterinnen und Vertreter des Berner Juras und der französischsprachigen Bevölkerung des Verwaltungskreises Biel/Bienne werden auf gemeinsamen Vorschlag des Bernjurassischen Rats und des Rats für französischsprachige Angelegenheiten des Verwaltungskreises Biel/Bienne ernannt.
-
-<sup>3</sup> Mitarbeiterinnen und Mitarbeiter der Bildungs- und Kulturdirektion, der Wirtschafts-, Energie- und Umweltdirektion, der Gesundheits-, Sozial- und Integrationsdirektion nehmen mit beratender Stimme Einsitz in den Weiterbildungsrat.
-
-#### Art. 103
-
-**2 Aufgaben**
-
-<sup>1</sup> Der Fachrat Weiterbildung erarbeitet Grundlagen und Vorschläge in Fragen der Weiterbildung und berät das Mittelschul- und Berufsbildungsamt und den Berufsbildungsrat. Er macht insbesondere Vorschläge
-
-- a zur Festlegung des bedarfsgerechten und geförderten Angebots,
-- b zu Förderschwerpunkten und Prioritäten sowie
-- c zum Ausgleich regionaler Unterschiede.
+**…**
 
 ### 4.2 Geförderte Angebote
 
