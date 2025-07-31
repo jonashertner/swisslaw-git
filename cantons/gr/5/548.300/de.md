@@ -4,185 +4,274 @@ number: "548.300"
 title: Gesetz über die Förderung der familienergänzenden Kinderbetreuung im Kanton Graubünden
 short: KIBEG
 language: de
-version: 2013-08-01
-corrected: 2014-10-09
-version_adopted: 2012-03-21
+version: 2025-08-01
+version_adopted: 2022-12-06
 adopted: 2022-12-06
 in_force: 2025-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/548.300"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/1872/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3552/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die Förderung der familienergänzenden Kinderbetreuung im Kanton Graubünden
 
-Vom Volke angenommen am 18. Mai 2003[^t-1]
+(KIBEG)
 
-I. Allgemeine Bestimmungen
+Vom 06.12.2022 (Stand 01.08.2025)
 
-[^t-1]: B vom 17. September 2002, 189; GRP 2002/2003, 716
+Der Grosse Rat des Kantons Graubünden[^ingress-1],
+
+gestützt auf Art. 31 Abs. 1 der Kantonsverfassung[^ingress-2],
+
+nach Einsicht in die Botschaft der Regierung vom 9. August 2022[^ingress-3],
+
+beschliesst:
+
+[^ingress-1]: GRP 2022/2023, 403
+[^ingress-2]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
+[^ingress-3]: Seite 351
+
+## 1. Allgemeine Bestimmungen
 
 #### Art. 1
 
-**Zweck**
+**Zweck und Gegenstand**
 
-Gemeinden und Kanton fördern die familienergänzende Kinderbetreuung und leisten finanzielle Beiträge.
+<sup>1</sup> Die Gemeinden und der Kanton stärken die Vereinbarkeit von Familie, Erwerbstätigkeit und Ausbildung und fördern die Entwicklung von Kindern. Allen Kindern wird ein gleichwertiger Zugang zur familienergänzenden Kinderbetreuung gewährt.
+
+<sup>2</sup> Zu diesem Zweck werden insbesondere:
+
+- a) den Erziehungsberechtigten die Kosten für die Betreuung ihrer Kinder in Angeboten der familienergänzenden Kinderbetreuung vergünstigt;
+- b) bedarfsorientierte Mindestanforderungen an die Angebote der familienergänzenden Kinderbetreuung festgelegt.
+
+<sup>3</sup> Das Gesetz regelt zudem die Zulassung von ausserkantonalen Angeboten der familienergänzenden Kinderbetreuung in Bezug auf die Vergünstigung der Betreuungskosten.
 
 #### Art. 2
 
-**Geltungsbereich 1. Im All- 2) gemeinen**
+**Geltungsbereich**
 
-<sup>1</sup> Das Gesetz findet Anwendung auf Angebote zur Betreuung von Kindern im Vorschulalter und von schulpflichtigen Kindern, wie Kindertagesstätten, Tagespflege und Mittagsbetreuung.
+<sup>1</sup> Dieses Gesetz gilt für:
 
-<sup>2</sup> Vom Geltungsbereich dieses Gesetzes sind ausgeschlossen:
-
-- a) ...[^2-1]
-
-- b) Familien- und Heimpflegeverhältnisse.
-
-[^2-1]: Aufgehoben gemäss Art. 101 des Gesetzes für die Volksschulen des Kantons Graubünden (Schulgesetz), BR 421.000; am 1. August 2013 in Kraft getreten.
-[^2-2]: Einfügung gemäss Art. 101 des Gesetzes für die Volksschulen des Kantons Graubünden (Schulgesetz), BR 421.000; am 1. August 2013 in Kraft getreten. 01.08.2013 1
-
-#### Art. 2a
-
-**2. Weiter gehende Tagesstrukturen gemäss Schulgesetzgebung**[^2-2]
-
-<sup>1</sup> Werden Betreuungsangebote im Rahmen der Schulgesetzgebung von den Schulträgerschaften zur Verfügung gestellt, finden mit Ausnahme des Artikels 9 Absatz 1 Litera b, c, e und g die Bestimmungen dieses Gesetzes sinngemäss Anwendung.
-
-<sup>2</sup> Weiter gehende Tagesstrukturen haben grundsätzlich den gleichen Qualitätsanforderungen wie die familienergänzende Kinderbetreuung zu genügen.
-
-<sup>3</sup> Werden weiter gehende Tagesstrukturen im Rahmen der Schule bereit gestellt, kann unter Berücksichtigung der konkreten Umstände von den Vorgaben der familienergänzenden Kinderbetreuung abgewichen werden, soweit ein qualitativ ausreichendes Angebot sichergestellt werden kann.
-
-<sup>4</sup> Die Gemeinden stimmen die familien- und schulergänzenden Betreuungsangebote aufeinander ab.
-
-### II. Aufgaben
+- a) die Leistungserbringenden mit einem Angebot der familienergänzenden Kinderbetreuung im Kanton;
+- b) die Gemeinden des Kantons;
+- c) die Erziehungsberechtigten in Bezug auf die Vergünstigung der Betreuungskosten.
 
 #### Art. 3
 
-**Zuständigkeiten 1. Erziehungsberechtigte**
+**Begriffe**
 
-Für die Erziehung und Betreuung der Kinder sind die Erziehungsberechtigten verantwortlich.
+<sup>1</sup> Leistungserbringende sind Organisationen oder Institutionen, die Angebote der familienergänzenden Kinderbetreuung bereitstellen und betreiben.
+
+<sup>2</sup> Als Angebote der familienergänzenden Kinderbetreuung gelten Kindertagesstätten und Tageselternorganisationen. Dazu gehören auch individuelle und flexible Angebote im Bereich der Randzeiten- und Wochenendbetreuung.
+
+<sup>3</sup> In Kindertagesstätten werden Kinder, in der Regel bis zum Eintritt in die Primarstufe, ausserhalb des Elternhauses regelmässig betreut.
+
+<sup>4</sup> Tageselternorganisationen vermitteln Tageseltern an Erziehungsberechtigte. Tageseltern betreuen Kinder bis zum Abschluss der Primarstufe bei sich oder bei den Erziehungsberechtigten zu Hause.
+
+<sup>5</sup> Normkosten sind die für die Finanzierung massgebenden Kosten. Sie basieren auf den anrechenbaren Kosten der Angebote der familienergänzenden Kinderbetreuung.
+
+<sup>6</sup> Der Tarif bezeichnet den Preis, welchen die Leistungserbringenden für die Nutzung ihrer Angebote verlangen.
+
+## 2. Vergünstigungen
 
 #### Art. 4
 
-**2. Gemeinden**
+**Gewährung und Ausrichtung**
 
-Die Gemeinden legen in Zusammenarbeit mit den anerkannten Anbietern den Bedarf an familienergänzenden Kinderbetreuungsangeboten fest.
+<sup>1</sup> Der Kanton gewährt den Erziehungsberechtigten, deren Kinder Wohnsitz im Kanton haben und in anerkannten Angeboten betreut werden, Vergünstigungen der Betreuungskosten.
+
+<sup>2</sup> Vergünstigungen werden zudem den Erziehungsberechtigten gewährt, deren Kinder Wohnsitz im Kanton haben und in zugelassenen ausserkantonalen Angeboten betreut werden.
+
+<sup>3</sup> Im Kanton erwerbstätigen Erziehungsberechtigten, deren Kinder Wohnsitz im angrenzenden Ausland haben und in anerkannten Angeboten betreut werden, können Vergünstigungen gewährt werden, wenn die Gemeinde am Arbeitsort sich finanziell daran beteiligt.
+
+<sup>4</sup> Die Vergünstigungen nach Absatz 1 und Absatz 3 werden den entsprechenden Leistungserbringenden, diejenigen nach Absatz 2 den Erziehungsberechtigten geleistet.
+
+<sup>5</sup> Vergünstigungen gemäss Absatz 1, die über das Minimum hinausgehen, sowie Vergünstigungen gemäss Absatz 2 und Absatz 3 werden nur auf Gesuch hin gewährt.
 
 #### Art. 5
 
-**3. Kanton**
+**Umfang der Vergünstigungen**
 
-<sup>1</sup> Der Kanton ist im Bereich der familienergänzenden Kinderbetreuung zuständig für:
+<sup>1</sup> Basis für die Höhe der Vergünstigungen bilden die Normkosten.
 
-- a) die Beratung und Unterstützung der Gemeinden und der Anbieter;
+<sup>2</sup> Die Vergünstigungen werden gemäss den massgebenden Einkommen der Erziehungsberechtigten abgestuft und betragen:
 
-- b) die Koordination der Angebote;
+- a) mindestens 25 bis 35 Prozent der Normkosten;
+- b) höchstens 85 bis 95 Prozent der Normkosten.
 
-- c) die Anerkennung von Angeboten;
+<sup>3</sup> Die Grenzen der massgebenden Einkommen betragen:
 
-- d) die Festlegung der beitragsberechtigten Betreuungsplätze pro Angebot;
+- a) 130 000 bis 150 000 Franken für die geringste Vergünstigung;
+- b) 30 000 bis 50 000 Franken für die höchste Vergünstigung.
 
-- e) die Abrechnung und Auszahlung der Kantons- und Gemeindebeiträge.
+<sup>4</sup> Die Regierung legt im Rahmen der Budgetkredite Folgendes fest:
 
-<sup>2</sup> Er kann eine kantonale Fachorganisation mit der Wahrnehmung von in seinen Zuständigkeitsbereich fallenden Aufgaben wie auch mit Grundlagenarbeiten in der familienergänzenden Kinderbetreuung beauftragen und hiefür Beiträge ausrichten.
-
-### III. Finanzierung
+- a) die Abstufung der Vergünstigungen gemäss den massgebenden Einkommen;
+- b) den Prozentsatz der geringsten und höchsten Vergünstigung;
+- c) die Grenzen der massgebenden Einkommen für die geringste und höchste Vergünstigung.
 
 #### Art. 6
 
-**Beiträge**
+**Normkosten**
 
-<sup>1</sup> Die Wohnsitzgemeinde des betreuten Kindes und der Kanton leisten Beiträge an die von den Erziehungsberechtigten mitfinanzierten Leistungseinheiten von Angeboten der familienergänzenden Kinderbetreuung.
+<sup>1</sup> Die Normkosten orientieren sich an den durchschnittlichen Kosten der anerkannten und wirtschaftlichen Angebote der familienergänzenden Kinderbetreuung im Kanton gemäss den geprüften Kostenrechnungen der vorangegangenen Jahre.
 
-<sup>2</sup> Die Beteiligung des Kantons beträgt 15 Prozent bis 25 Prozent der Normkosten. Die Wohnsitzgemeinde hat sich mindestens im gleichen Umfange wie der Kanton zu beteiligen. Die Wohnsitzgemeinde kann die Beitragsleistung ablehnen, wenn das in der Gemeinde bestehende Angebot durch die Erziehungsberechtigten nicht beansprucht wird.
-
-<sup>3</sup> Die Regierung legt die Höhe der Normkosten und die Höhe des Beitragssatzes fest. Bei Angeboten, die Finanzhilfe des Bundes erhalten, kann sie den Mindestbeteiligungssatz von 15 Prozent unterschreiten.
-
-**2**
-
-01.08.2013
-
-<sup>4</sup> Die Anbieter haben zuhanden des Kantons und der Gemeinden eine detaillierte Abrechnung zu erstellen und diesen die für die Beitragsbemessung sachdienlichen Auskünfte zu erteilen und Unterlagen beizubringen.
+<sup>2</sup> Sie werden von der Regierung pro Betreuungseinheit und Kind sowie abgestuft nach deren Alter festgelegt.
 
 #### Art. 7
 
-**Tarife**
+**Massgebendes Einkommen**
 
-<sup>1</sup> Die Tarife der anerkannten Angebote sind nach der wirtschaftlichen Leistungsfähigkeit der Erziehungsberechtigten abzustufen.
+<sup>1</sup> Das massgebende Einkommen entspricht dem anrechenbaren Einkommen gemäss Artikel 8a und Artikel 8b des Gesetzes über die Krankenversicherung und die Prämienverbilligung (KPVG)[^7-1].
 
-<sup>2</sup> Sie bedürfen der Genehmigung des Departementes.
+<sup>2</sup> Für die Ermittlung des massgebenden Einkommens von quellensteuerpflichtigen Erziehungsberechtigten gilt Artikel 9 Absatz 4 KPVG.
 
-<sup>3</sup> Erziehungsberechtigte, die ein anerkanntes Angebot in Anspruch nehmen, sind verpflichtet, den Anbietern alle sachdienlichen Auskünfte zu erteilen und Unterlagen beizubringen.
+<sup>3</sup> Die Vergünstigungen für das laufende Jahr können bei einer Änderung des massgebenden Einkommens von mindestens 20 Prozent oder bei einer Änderung der persönlichen und familiären Verhältnisse neu berechnet werden. Die Erziehungsberechtigten sind verpflichtet, entsprechende Abweichungen und Veränderungen, die eine Reduktion der Vergünstigung zur Folge haben können, umgehend mitzuteilen.
 
-### IV. Anerkennung
+[^7-1]: BR [542.100](https://www.gr-lex.gr.ch/data/542.100/de)
 
 #### Art. 8
 
-**Anerkennungspflicht**
+**Rückforderung**
 
-Voraussetzung für die Gewährung von Beiträgen ist eine vorgängige Anerkennung der Angebote durch das Departement.
+<sup>1</sup> Zu Unrecht gewährte oder geleistete Vergünstigungen können innert fünf Jahren widerrufen und zurückgefordert werden. Eine Verrechnung ist zulässig.
+
+## 3. Anforderungen an die Angebote
 
 #### Art. 9
 
-**Voraussetzungen**
+**Bewilligung 1. Voraussetzungen**
 
-<sup>1</sup> Die Anerkennung wird gewährt, wenn a) die Angebote auf gemeinnütziger Basis betrieben werden und öffentlich zugänglich sind;
+<sup>1</sup> Angebote der familienergänzenden Kinderbetreuung im Kanton bedürfen einer Bewilligung.
 
-- b) die Anbieter familienergänzender Kinderbetreuungsangebote gemeinnützig oder öffentlich sind und einer kantonalen Fachorganisation angeschlossen sind;
-
-- c) das Angebot der Bedarfsplanung der Gemeinden entspricht und regional abgestimmt ist;
-
-- d) eine ausreichende und qualifizierte Betreuung in dafür geeigneten Räumen gewährleistet wird;
-
-- e) eine wirtschaftliche Betriebsführung gewährleistet ist;
-
-- f) die vom zuständigen Departement genehmigten Tarife angewendet werden;
-
-- g) die finanziellen Verhältnisse ausgewiesen und von einer unabhängigen Revisionsstelle geprüft werden. Die Regierung kann bestimmte Angebotsformen vom Erfordernis einer unabhängigen Revisionsstelle ausnehmen.
-
-<sup>2</sup> Die Anerkennung ist zu befristen.
-
-<sup>3</sup> Die Anerkennung wird durch das Departement widerrufen, wenn die Voraussetzungen nicht mehr erfüllt sind.
-
-<sup>4</sup> Das Departement kann jederzeit die Erfüllung der Anerkennungsvoraussetzungen überprüfen.
-
-**3**
-
-01.08.2013
-
-### V. Schlussbestimmungen
+<sup>2</sup> Die Bewilligung wird erteilt, wenn die Anforderungen an Qualität, Betriebsführung, Infrastruktur und Organisationsform gewährleistet sind. Die Einzelheiten regelt die Regierung.
 
 #### Art. 10
 
-**Vollzug**
+**2. Aufsicht und Pflichten**
 
-Die Regierung erlässt die notwendigen Ausführungsbestimmungen.
+<sup>1</sup> Die bewilligten Angebote unterstehen der Aufsicht des Kantons.
+
+<sup>2</sup> Die entsprechenden Leistungserbringenden sind verpflichtet, dem Kanton jeweils den Jahresbericht und die Jahresrechnung einzureichen und ihm alle zur Ausübung seiner Aufsichtstätigkeit nötigen Angaben zu machen.
+
+<sup>3</sup> Der Kanton kann jederzeit die Bücher überprüfen, Einsicht in die Belege nehmen, die Betriebsführung kontrollieren sowie aufgrund der Erhebungen Vergleiche zwischen den einzelnen Leistungserbringenden mit einer Bewilligung anstellen. Er kann dafür die Finanzkontrolle oder weitere Verwaltungsstellen beiziehen.
+
+<sup>4</sup> Der Kanton kann in die Dokumentation über die betreuten Kinder Einsicht nehmen.
 
 #### Art. 11
 
-**Änderung bisherigen Rechts**
+**Anerkennung 1. Voraussetzungen**
 
-Das nachstehende Gesetz wird wie folgt geändert:
+<sup>1</sup> Die Anerkennung von Angeboten der familienergänzenden Kinderbetreuung ist Voraussetzung für die Gewährung von Vergünstigungen. Artikel 14 bleibt vorbehalten.
 
-Gesetz über die Suchthilfe im Kanton Graubünden (Suchthilfegesetz) vom 2. März 1997
+<sup>2</sup> Das Angebot wird anerkannt, wenn es:
 
-#### Art. 9
-
-:
-
-Der Kanton kann kantonal oder regional tätigen Organisationen im Bereich der Erziehungsberatung Beiträge gewähren.
+- a) konfessionell neutral und nicht auf bestimmte Gruppen beschränkt ist;
+- b) die Vorgaben zu den Tarifen einhält;
+- c) der Angebotsplanung des Kantons entspricht.
 
 #### Art. 12
 
-**In-Kraft-Treten**
+**2. Pflichten**
 
-Die Regierung bestimmt das In-Kraft-Treten[^12-1] dieses Gesetzes.
+<sup>1</sup> Die Leistungserbringenden mit anerkannten Angeboten haben dem Kanton die für den Vollzug dieses Gesetzes notwendigen Daten bereitzustellen und sind zu effizienter und effektiver Betriebsführung verpflichtet. Die Regierung erlässt Vorschriften über die Rechnungslegung.
 
-[^12-1]: Mit RB vom 11. November 2003 auf den 15. November 2003 in Kraft gesetzt. 4 01.08.2013
+#### Art. 13
 
-## Weitere Fussnoten
+**Tarife**
 
-- [2] Fassung gemäss Art. 101 des Gesetzes für die Volksschulen des Kantons Graubünden (Schulgesetz), BR 421.000; am 1. August 2013 in Kraft getreten.
+<sup>1</sup> Die Leistungserbringenden legen die Tarife für ihre Angebote der familienergänzenden Kinderbetreuung fest.
+
+<sup>2</sup> Die Tarife müssen für alle Erziehungsberechtigten, abhängig vom Alter der Kinder, gleich sein.
+
+<sup>3</sup> Sie dürfen zudem nicht über die von der Regierung pro Betreuungseinheit und Kind festgelegten Höchsttarife hinausgehen. Diese orientieren sich an den Normkosten.
+
+#### Art. 14
+
+**Ausserkantonale Angebote**
+
+<sup>1</sup> Die Zulassung ausserkantonaler Angebote der familienergänzenden Kinderbetreuung ist Voraussetzung für die Gewährung von Vergünstigungen.
+
+<sup>2</sup> Die Angebote werden zugelassen, wenn die entsprechenden Leistungserbringenden dem Kanton die für den Vollzug dieses Gesetzes notwendigen Daten bereitstellen und das Angebot:
+
+- a) von der zuständigen Behörde des entsprechenden Kantons bewilligt ist;
+- b) konfessionell neutral und nicht auf bestimmte Gruppen beschränkt ist.
+
+#### Art. 15
+
+**Befristung, Widerruf und Entzug**
+
+<sup>1</sup> Die Bewilligung, die Anerkennung und die Zulassung sind befristet.
+
+<sup>2</sup> Sie werden widerrufen, wenn die Voraussetzungen nicht mehr erfüllt sind.
+
+<sup>3</sup> Bei wiederholter oder schwerwiegender Pflichtverletzung können die Bewilligung und die Anerkennung entzogen werden.
+
+## 4. Finanzierung und weitere Förderung
+
+#### Art. 16
+
+**Finanzierung**
+
+<sup>1</sup> Kanton und Gemeinden finanzieren die Vergünstigungen gemeinsam je zur Hälfte.
+
+<sup>2</sup> Der Grosse Rat legt den Kredit zur Finanzierung der Vergünstigungen im Budget fest. Er beträgt zwischen 60 und 80 Prozent der Normkosten.
+
+<sup>3</sup> Der Kanton richtet die Vergünstigungen aus und stellt den Wohnsitzgemeinden der betreuten Kinder, je Betreuungseinheit und Kind, ihren Anteil in Rechnung.
+
+#### Art. 17
+
+**Förderung 1. Kinder mit Behinderung**
+
+<sup>1</sup> Der Kanton unterstützt Leistungserbringende mit anerkannten Angeboten, in welchen Kinder mit Behinderung betreut werden, mittels Beiträgen und Beratung.
+
+<sup>2</sup> Die Beiträge entsprechen den behinderungsbedingten Mehrkosten, soweit diese nicht durch die eidgenössische Invalidenversicherung, durch sonstige Versicherungsträger oder anderweitig gedeckt sind.
+
+#### Art. 18
+
+**2. Innovation**
+
+<sup>1</sup> Der Kanton kann neue Modelle für Angebote der familienergänzenden Kinderbetreuung während einer in der Regel befristeten Versuchsphase mitfinanzieren, sofern eine qualifizierte Wirkungsbeurteilung gewährleistet ist.
+
+## 5. Weitere Bestimmungen
+
+#### Art. 19
+
+**Bedarfsanalyse und Angebotsplanung**
+
+<sup>1</sup> Der Kanton führt unter Einbezug der Gemeinden und der Leistungserbringenden eine Bedarfsanalyse durch.
+
+<sup>2</sup> Der Kanton legt gestützt auf die Bedarfsanalyse die Angebotsplanung periodisch fest.
+
+#### Art. 20
+
+**Datenbearbeitung**
+
+<sup>1</sup> Die mit der Durchführung, der Kontrolle oder der Aufsicht beauftragten Behörden sind befugt, die Personendaten, einschliesslich besonders schützenswerter Daten und Persönlichkeitsprofile, zu bearbeiten oder bearbeiten zu lassen, welche sie benötigen, um die Aufgaben nach diesem Gesetz zu erfüllen.
+
+<sup>2</sup> Sie können Daten Dritten bekanntgeben, soweit dies gesetzlich vorgesehen oder für die Aufgabenerfüllung unentbehrlich ist und keine überwiegenden Privatinteressen entgegenstehen.
+
+<sup>3</sup> Die Steuerverwaltung des Kantons stellt den mit dem Vollzug dieses Gesetzes betrauten kantonalen Behörden über ein Abrufverfahren die für die Gewährung der Vergünstigungen notwendigen Daten des EDV-Veranlagungsprogramms zur Verfügung.
+
+<sup>4</sup> Der Kanton kann Vergleichsdaten der Leistungserbringenden mit anerkannten Angeboten in anonymisierter Form veröffentlichen.
+
+#### Art. 21
+
+**Vollzug**
+
+<sup>1</sup> Der Vollzug dieses Gesetzes obliegt dem Kanton und den Gemeinden, soweit diesen Aufgaben übertragen sind.
+
+<sup>2</sup> Die Regierung bezeichnet die zuständigen kantonalen Behörden.
+
+<sup>3</sup> Sie kann den Vollzug betreffend die Vergünstigungen ganz oder teilweise der Sozialversicherungsanstalt des Kantons Graubünden übertragen.
+
+#### Art. 22
+
+**Übergangsbestimmung und Weitergeltung des bisherigen Rechts**
+
+<sup>1</sup> Bewilligungen und Anerkennungen, die vor dem Inkrafttreten dieses Gesetzes erteilt wurden, behalten ihre Gültigkeit bis zu deren Ablauf.
+
+<sup>2</sup> Auf Angebote im Rahmen der weiter gehenden Tagesstrukturen gemäss Schulgesetzgebung und im Rahmen der Schulferien findet weiterhin das bisherige Gesetz über die Förderung der familienergänzenden Kinderbetreuung im Kanton Graubünden vom 18. Mai 2003 sinngemäss Anwendung.
+
+2025-035
