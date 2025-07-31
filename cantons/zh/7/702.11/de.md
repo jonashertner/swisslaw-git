@@ -4,11 +4,10 @@ number: "702.11"
 title: Kantonale Natur- und Heimatschutzverordnung (KNHV)
 short: KNHV
 language: de
-version: "2018-01-01"
-nachtrag: "99"
-valid_until: 2025-08-01
+version: "2025-08-01"
+nachtrag: "130"
 adopted: 1977-07-20
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-702_11-1977_07_20-1978_07_01-099.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-702_11-1977_07_20-1978_07_01-130.html"
 text: pdf
 ---
 
@@ -62,25 +61,31 @@ Der Regierungsrat beschliesst:
 
 **1**
 
-- 1\. 1. 18 - 99
-
-- 2\. Inventare des Bundes
+1.10. 25 - 130 2. Inventare des Bundes
 
 **Bundesinventare**
 
-§ 3. Bei Fragen des Natur- und Heimatschutzes sind die entsprechenden Inventare des Bundes (Art. 5 des Bundesgesetzes über den Natur- und Heimatschutz)[^2-3] beizuziehen.
+§ 3.[^2-3] Bei Fragen des Natur- und Heimatschutzes sind die entsprechenden Inventare des Bundes gemäss Art. 5 des Bundesgesetzes vom 1. Juli 1966 über den Natur- und Heimatschutz (NHG)[^2-4] beizuziehen.
 
-- 3\. Inventare im Sinne von § 209 PBG[^2-4]
+**Zuständigkeit und Delegation**
+
+§ 3 a.[^2-5] <sup>1</sup> Das ALN und das ARE führen die kantonalen Fachstellen gemäss Art. 25 Abs. 2 NHG.
+
+<sup>2</sup> Die Baudirektion kann den Gemeinden auf deren Gesuch die Aufgaben der kantonalen Fachstelle für das Bundesinventar der schützenswerten Ortsbilder der Schweiz von nationaler Bedeutung übertragen, soweit sie über die notwendige Fachkompetenz verfügen. Die Gemeinden erstatten jährlich Bericht.
+
+- 3\. Inventare im Sinne von § 209 PBG[^2-6]
 
 **Festsetzung**
 
-§ 4.[^2-5] Das ALN und das ARE setzen die überkommunalen, die Gemeinden setzen die kommunalen Inventare fest.
+§ 4.[^2-7] Das ALN und das ARE setzen die überkommunalen, die Gemeinden setzen die kommunalen Inventare fest.
 
-[^2-1]: Bezeichnung gemäss RRB vom 29. Juni 2016 (OS 72, 324; ABl 2016-07-15). In Kraft seit 1. Januar 2018. 1. 1. 18 - 99 9
+[^2-1]: Bezeichnung gemäss RRB vom 29. Juni 2016 (OS 72, 324; ABl 2016-07-15). In Kraft seit 1. Januar 2018.
 [^2-2]: Eingefügt durch RRB vom 11. Juli 2012 (OS 68, 127; ABl 2012-07-20). In Kraft seit 1. April 2013.
-[^2-3]: SR 451.
-[^2-4]: LS 700.1.
-[^2-5]: Fassung gemäss RRB vom 11. Juli 2012 (OS 68, 127; ABl 2012-07-20). In Kraft seit 1. April 2013.
+[^2-3]: Fassung gemäss RRB vom 15. Januar 2025 (OS 80, 179; ABl 2025-01-31). In Kraft seit 1. August 2025. 1.10. 25 - 130 9
+[^2-4]: SR 451.
+[^2-5]: Eingefügt durch RRB vom 15. Januar 2025 (OS 80, 179; ABl 2025-01-31). In Kraft seit 1. August 2025.
+[^2-6]: LS 700.1.
+[^2-7]: Fassung gemäss RRB vom 11. Juli 2012 (OS 68, 127; ABl 2012-07-20). In Kraft seit 1. April 2013.
 
 #### § 5
 
@@ -169,11 +174,11 @@ Schutzobjekte können in geeigneter Form gekennzeichnet werden. Die Markierungen
 
 **3**
 
-- 1\. 1. 18 - 99
+1.10. 25 - 130
 
 [^11-1]: Eingefügt durch RRB vom 8. Juli 1998 (OS 55, 95). In Kraft seit 1. März 1999 (OS 55, 97).
 [^11-2]: LS 700.1.
-[^11-3]: Bezeichnung gemäss RRB vom 29. Juni 2016 (OS 72, 324; ABl 2016-07-15). In Kraft seit 1. Januar 2018. 1. 1. 18 - 99 9
+[^11-3]: Bezeichnung gemäss RRB vom 29. Juni 2016 (OS 72, 324; ABl 2016-07-15). In Kraft seit 1. Januar 2018.
 [^11-4]: Fassung gemäss RRB vom 24. August 2011 (OS 66, 602; ABl 2011, 2320). In Kraft seit 1. November 2011.
 
 ### II. Naturschutz
@@ -260,7 +265,7 @@ Werden Naturkörper, wie Fossilien, Meteoriten, Skelette und Mineralien gefunden
 
 **5**
 
-- 1\. 1. 18 - 99
+1.10. 25 - 130
 
 [^18-1]: Fassung gemäss RRB vom 24. August 2011 (OS 66, 602; ABl 2011, 2320). In Kraft seit 1. November 2011.
 
@@ -342,7 +347,7 @@ Werden Naturkörper, wie Fossilien, Meteoriten, Skelette und Mineralien gefunden
 
 **7**
 
-- 1\. 1. 18 - 99 § 26. Um Ortsbild- und Denkmalschutzobjekte vor unerwünschten, insbesondere optischen, Einwirkungen aus der Umgebung zu bewahren, sind geeignete planungsrechtliche Massnahmen, wie Einteilung in Freihaltezonen und/oder besondere Anordnungen, zu treffen.
+1.10. 25 - 130 § 26. Um Ortsbild- und Denkmalschutzobjekte vor unerwünschten, insbesondere optischen, Einwirkungen aus der Umgebung zu bewahren, sind geeignete planungsrechtliche Massnahmen, wie Einteilung in Freihaltezonen und/oder besondere Anordnungen, zu treffen.
 
 **Umgebungsschutz**
 
@@ -358,7 +363,7 @@ Werden Naturkörper, wie Fossilien, Meteoriten, Skelette und Mineralien gefunden
 [^23-2]: Fassung gemäss RRB vom 8. Juli 1998 (OS 55, 95). In Kraft seit 1. März 1999 (OS 55, 97).
 [^23-3]: Aufgehoben durch RRB vom 15. Januar 1992 (OS 52, 144). In Kraft seit 1. Oktober 1992 (OS 52, 146).
 [^23-4]: Aufgehoben durch RRB vom 8. Juli 1998 (OS 55, 95). In Kraft seit 1. März 1999 (OS 55, 97).
-[^23-5]: Bezeichnung gemäss RRB vom 29. Juni 2016 (OS 72, 324; ABl 2016-07-15). In Kraft seit 1. Januar 2018. 1. 1. 18 - 99 9
+[^23-5]: Bezeichnung gemäss RRB vom 29. Juni 2016 (OS 72, 324; ABl 2016-07-15). In Kraft seit 1. Januar 2018.
 [^23-6]: Fassung gemäss RRB vom 24. August 2011 (OS 66, 602; ABl 2011, 2320). In Kraft seit 1. November 2011.
 
 ### V. Kommunale Erholungsflächen
