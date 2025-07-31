@@ -4,13 +4,12 @@ number: "722.114"
 title: Reglement betreffend Lohneinreihung und Entschädigungen von Mitarbeitenden der Gebäudeversicherung Zug
 short: Lohneinreihungs- und Entschädigungsreglement GVZG; LER GVZG
 language: de
-version: 2024-01-01
-valid_until: 2025-07-31
-version_adopted: 2023-11-23
+version: 2025-08-01
+version_adopted: 2025-06-11
 adopted: 2023-11-23
 in_force: 2024-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/722.114"
-pdf: "https://bgs.zg.ch/api/de/versions/2512/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2737/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2512/pdf_file"
 
 (Lohneinreihungs- und Entschädigungsreglement GVZG; LER GVZG)
 
-Vom 23. November 2023 (Stand 1. Januar 2024)
+Vom 23. November 2023 (Stand 1. August 2025)
 
 Der Verwaltungsrat der Gebäudeversicherung Zug,
 
