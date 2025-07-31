@@ -3,20 +3,20 @@ canton: SO
 number: "416.113.1"
 title: Reglement über die Berufsmaturität
 language: de
-version: 2021-11-01
-valid_until: 2025-07-31
-version_adopted: 2021-11-05
+version: 2025-08-01
+valid_until: 2026-07-31
+version_adopted: 2025-07-01
 adopted: 2013-06-05
 in_force: 2014-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/416.113.1"
-pdf: "https://bgs.so.ch/api/de/versions/5138/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5549/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Berufsmaturität
 
-Vom 05.06.2013 (Stand 01.11.2021)
+Vom 05.06.2013 (Stand 01.08.2025)
 
 Das Departement für Bildung und Kultur des Kantons Solothurn
 
@@ -43,6 +43,8 @@ erlässt:
 
 <sup>1</sup> In den Berufsmaturitätsunterricht während der beruflichen Grundbildung (BM 1) wird aufgenommen, wer zum Zeitpunkt des Antritts über einen gültigen Lehrvertrag verfügt und die Aufnahmebedingungen erfüllt.
 
+<sup>1<sup>bis</sup></sup> Lernende im 1. Jahr der beruflichen Grundbildung ohne Berufsmaturität, welche die Aufnahmebedingungen für die BM 1 vor Antritt der beruflichen Grundbildung erfüllt haben, können auf Antrag und mit schriftlicher Zustimmung des Lehrbetriebs bis zum 31. Oktober in die BM 1 aufgenommen werden.
+
 <sup>2</sup> In die Berufsmaturitätslehrgänge nach Abschluss der beruflichen Grundbildung (BM 2) wird aufgenommen, wer über ein eidgenössisches Fähigkeitszeugnis (EFZ) verfügt und die Aufnahmebedingungen erfüllt.
 
 #### § 3
@@ -53,13 +55,13 @@ erlässt:
 
 <sup>2</sup> In die BM 2 wird prüfungsfrei aufgenommen, wer die folgenden Aufnahmebedingungen erfüllt:
 
-- a) Für die Berufsmaturitätsausrichtung Wirtschaft und Dienstleistungen (Typ Wirtschaft):
-  - 1\. Gelernte Berufsleute mit EFZ als Kauffrau oder Kaufmann mit erweiterter Grundbildung (E-Profil): Schulische Gesamtnote von mindestens 4.7;
-  - 2\. Gelernte Berufsleute mit anderem EFZ: Notendurchschnitt von mindestens 5.0.
-  - 3\. Lernende Kauffrau oder Kaufmann EFZ mit erweiterter Grundbildung (E-Profil): Zeugnisnoten des 5. Semesters in den Fächern Deutsch (Gewichtung 1/5), Französisch (Gewichtung 1/5), Wirtschaft und Gesellschaft (Gewichtung 2/5) und Englisch (Gewichtung 1/5, Fachnote) mit einem Notendurchschnitt von mindestens 4.8.
+- a) Gelernte Berufsleute EFZ mit einem Notendurchschnitt von mindestens 5.0.
+  - 1\. …
+  - 2\. …
+  - 3\. …
   - 4\. …
-- b) Für die Berufsmaturitätsausrichtung Wirtschaft und Dienstleistungen (Typ Dienstleistungen) und alle anderen Berufsmaturitätsausrichtungen: Gelernte Berufsleute mit EFZ: Notendurchschnitt von mindestens 5.0.
-- c) Für die Berufsmaturitätsausrichtung Wirtschaft und Dienstleistungen (Typ Dienstleistungen): Lernende Detailhandelsfachfrau oder Detailhandelsfachmann EFZ: Zeugnisnoten des 5. Semesters in den Fächern Deutsch (Gewichtung 1/4), Französisch (Gewichtung 1/4), Englisch (Gewichtung 1/4) und Betriebswirtschaft (Gewichtung 1/4) mit einem Notendurchschnitt von mindestens 5.0.
+- b) Lernende Berufsleute EFZ, die direkt nach Erlangung des EFZ die BM 2 absolvieren wollen und einen Notendurchschnitt von mindestens 5.0 in den schulischen Noten (ohne Sportnoten) der ersten 5 Semester (3-jährige Lehre) beziehungsweise der ersten 7 Semester (4-jährige Lehre) aufweisen.
+- c) …
 
 <sup>3</sup> …
 
