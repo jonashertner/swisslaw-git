@@ -3,35 +3,42 @@ sr: "721.100"
 title: "Bundesgesetz vom 21. Juni 1991 über den Wasserbau (Wasserbaugesetz, WBG)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/234_234_234"
 language: de
-version: 2022-01-01
+version: 2025-08-01
 adopted: 1991-06-21
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/234_234_234/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1993-234_234_234-20220101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/234_234_234/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/234_234_234/20250801/de/xml/fedlex-data-admin-ch-eli-cc-1993-234_234_234-20250801-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/234_234_234/20250801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über den Wasserbau
 
-vom 21. Juni 1991 (Stand am 1. Januar 2022)
+(Wasserbaugesetz, WBG)[^t-1]
+
+vom 21. Juni 1991 (Stand am 1. August 2025)
+
+[^t-1]: AS **1993** 234 Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Aug. 2025 (AS **2025** 430; BBl **2023** 858).
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
-gestützt auf die Artikel 24 und 24<sup>bis</sup> der Bundesverfassung[^ingress-1], nach Einsicht in die Botschaft des Bundesrates vom 25. Mai 1988[^ingress-2],
+gestützt auf Artikel 76 Absatz 3 der Bundesverfassung[^ingress-1],[^ingress-2] nach Einsicht in die Botschaft des Bundesrates vom 25. Mai 1988[^ingress-3],
 
 beschliesst:
 
-[^ingress-1]: AS **1993** 234 [BS **1** 3; AS **1976** 715]. Den genannten Bestimmungen entspricht heute Art. 76 der BV vom 18. April 1999 (SR **101**).
-[^ingress-2]: [BBl 1988 II 1333](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Aug. 2025 ([AS 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [BBl 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
+[^ingress-3]: [BBl 1988 II 1333](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)
 
-## 1. Abschnitt: Zweck und Geltungsbereich
+## 1. Abschnitt: Zweck
+
+[^sec1-1]
+
+[^sec1-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Aug. 2025 ([AS 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [BBl 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 #### Art. 1
 
-<sup>1</sup> Dieses Gesetz bezweckt den Schutz von Menschen und erheblichen Sachwerten vor schädlichen Auswirkungen des Wassers, insbesondere vor Überschwemmungen, Erosionen und Feststoffablagerungen (Hochwasserschutz).
-
-<sup>2</sup> Es gilt für alle oberirdischen Gewässer.
+Dieses Gesetz soll Menschen und erhebliche Sachwerte vor schädigenden Einwirkungen des Wassers auf der Erdoberfläche, insbesondere vor Überschwemmungen, Erosionen und Feststoffablagerungen, schützen (Hochwasserschutz).
 
 ## 2. Abschnitt: Zuständigkeit und Massnahmen
 
@@ -43,33 +50,29 @@ Der Hochwasserschutz ist Aufgabe der Kantone.
 
 #### Art. 3
 
-**Massnahmen**
+**Massnahmen**[^3-1]
 
-<sup>1</sup> Die Kantone gewährleisten den Hochwasserschutz in erster Linie durch den Unterhalt der Gewässer und durch raumplanerische Massnahmen.
+<sup>1</sup> Die Kantone begrenzen das Ausmass und die Eintretenswahrscheinlichkeit eines Schadens durch Hochwasser (Hochwasserrisiko) in erster Linie durch den Gewässerunterhalt nach Artikel 4 Buchstabe n des Gewässerschutzgesetzes vom 24. Januar 1991[^3-2] und durch raumplanerische Massnahmen.
 
-<sup>2</sup> Reicht dies nicht aus, so müssen Massnahmen wie Verbauungen, Eindämmungen, Korrektionen, Geschiebe- und Hochwasserrückhalteanlagen sowie alle weiteren Vorkehrungen, die Bodenbewegungen verhindern, getroffen werden.
+<sup>2</sup> Reicht dies nicht aus, so werden organisatorische, ingenieurbiologische und technische Massnahmen, die das Hochwasserrisiko reduzieren, getroffen.
 
-<sup>3</sup> Diese Massnahmen sind mit jenen aus anderen Bereichen gesamthaft und in ihrem Zusammenwirken zu beurteilen.
+<sup>3</sup> Die Massnahmen sind risikobasiert und integral zu planen sowie mit jenen aus anderen Bereichen gesamthaft und in ihrem Zusammenwirken zu beurteilen.
+
+[^3-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Aug. 2025 ([AS 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [BBl 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
+[^3-2]: [SR 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
 
 #### Art. 4
 
-**Anforderungen**
+**Anforderungen**[^4-1]
 
 <sup>1</sup> Gewässer, Ufer und Werke des Hochwasserschutzes müssen so unterhalten werden, dass der vorhandene Hochwasserschutz, insbesondere die Abflusskapazität, erhalten bleibt.
 
-<sup>2</sup>
+<sup>2</sup> Eingriffe in das Gewässer müssen die Anforderungen nach Artikel 37 des Gewässerschutzgesetzes vom 24. Januar 1991[^4-2] erfüllen.
 
-Bei Eingriffen in das Gewässer muss dessen natürlicher Verlauf möglichst beibehalten oder wiederhergestellt werden. Gewässer und Gewässerraum müssen so gestaltet werden, dass:[^4-1]
+<sup>3</sup> Bei Hochwasserschutzprojekten ist die neue Gestaltung der Gewässerraumabschnitte in den ersten fünf Jahren über das Projekt sicherzustellen.
 
-- a. sie einer vielfältigen Tier- und Pflanzenwelt als Lebensraum dienen können;
-- b. die Wechselwirkungen zwischen ober- und unterirdischen Gewässern weitgehend erhalten bleiben;
-- c. eine standortgerechte Ufervegetation gedeihen kann.
-
-<sup>3</sup> In überbauten Gebieten kann die Behörde Ausnahmen von Absatz 2 bewilligen.
-
-<sup>4</sup> Für die Schaffung künstlicher Fliessgewässer und die Wiederinstandstellung bestehender Verbauungen nach Schadenereignissen gilt Absatz 2 sinngemäss.
-
-[^4-1]: Fassung gemäss Ziff. II 1 des BG vom 11. Dez. 2009 (Renaturierung), in Kraft seit 1. Jan. 2011 ([AS 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [BBl 2008 8043](https://fedlex.data.admin.ch/eli/fga/2008/1366)[8079](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
+[^4-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Aug. 2025 ([AS 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [BBl 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
+[^4-2]: [SR 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
 
 #### Art. 5
 
@@ -83,44 +86,92 @@ Bei Eingriffen in das Gewässer muss dessen natürlicher Verlauf möglichst beib
 
 #### Art. 6
 
-**Abgeltungen an Massnahmen des Hochwasserschutzes**[^6-1]
+**Abgeltungen für die Grundlagenbeschaffung und die Massnahmen des Hochwasserschutzes**[^6-1]
 
-<sup>1</sup> Der Bund fördert im Rahmen der bewilligten Kredite Massnahmen, die dazu dienen, Menschen und erhebliche Sachwerte vor den Gefahren des Wassers zu schützen.
+<sup>1</sup> Der Bund gewährt den Kantonen im Rahmen der bewilligten Kredite und auf der Grundlage von Programmvereinbarungen globale Abgeltungen für die Grundlagenbeschaffung sowie für Massnahmen, die in raumplanerischer, organisatorischer, ingenieurbiologischer oder technischer Hinsicht für den Hochwasserschutz notwendig sind.
 
-<sup>2</sup>
+<sup>2</sup> Er kann den Kantonen für besonders aufwendige Projekte die Abgeltungen einzeln gewähren.
 
-Er leistet Abgeltungen namentlich für:
+<sup>3</sup>
 
-- a. die Erstellung, die Instandstellung und den Ersatz von Schutzbauten und ‑anlagen;
-- b. die Erstellung von Gefahrenkatastern und Gefahrenkarten, die Einrichtung und den Betrieb von Messstellen sowie den Aufbau von Frühwarndiensten zur Sicherung von Siedlungen und Verkehrswegen.
+Er gewährt Abgeltungen insbesondere für:
 
-[^6-1]: Fassung gemäss Ziff. II 14 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+- a. die Erarbeitung von Grundlagen wie Ereignisanalysen, Kataster, Gefahrenbeurteilungen, Risikoübersichten und Gesamtplanungen;
+- b. raumplanerische Massnahmen wie Abklärungen zur Risikobegrenzung und die Verlegung gefährdeter Bauten und Anlagen an sichere Orte;
+- c. organisatorische Massnahmen wie Warneinrichtungen, Einsatzplanungen und technische Vorkehrungen für Notfalleinsätze;
+- d. ingenieurbiologische und technische Massnahmen wie den Unterhalt, die Instandstellung, den Ersatz und die Erstellung von Schutzbauten und -anlagen;
+- e. Massnahmen wie die Behebung von Schäden in Entlastungsräumen im Ereignisfall und Ertragsausfälle wegen Speicherverlusten im Zusammenhang mit der Vorabsenkung von Stauseen.
+
+<sup>4</sup> Die Kosten sind anrechenbar, wenn sie tatsächlich entstanden und unmittelbar für die zweckmässige Erfüllung der Aufgabe erforderlich sind.
+
+<sup>5</sup> Der Beitrag an die anrechenbaren Kosten der Grundlagenbeschaffung beträgt 50 Prozent und an jene der Massnahmen 35 Prozent.
+
+<sup>6</sup>
+
+Der Beitrag an Massnahmen kann erhöht werden:
+
+- a. um bis zu 10 Prozent für Mehrleistungen;
+- b. um bis zu 20 Prozent, sofern ein Kanton durch ausserordentliche Schutzmass-nahmen gegen Naturgefahren, die namentlich nach Unwetterschäden ergriffen werden, erheblich belastet wird.
+
+[^6-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Aug. 2025 ([AS 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [BBl 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 #### Art. 7
 
-[^7-1]
+**Finanzhilfen für Weiterbildung, Forschung und Information**[^7-1]
 
-[^7-1]: Aufgehoben durch Ziff. II 1 des BG vom 11. Dez. 2009 (Renaturierung), mit Wirkung seit 1. Jan. 2011 ([AS 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [BBl 2008 8043](https://fedlex.data.admin.ch/eli/fga/2008/1366)[8079](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
+<sup>1</sup>
+
+Der Bund kann zur Vereinheitlichung der Vollzugspraxis und der wirkungsvollen Umsetzung des integralen Risikomanagements Finanzhilfen ausrichten für:
+
+- a. die Weiterbildung von Fachleuten;
+- b. Projekte zur Erforschung und Entwicklung von Grundlagen und Massnahmen für den Hochwasserschutz;
+- c. die Information der Öffentlichkeit.
+
+<sup>2</sup>
+
+Finanzhilfen können ausgerichtet werden an:
+
+- a. Weiterbildungsinstitute und Vereinigungen für die Weiterbildung von Fachleuten;
+- b. nationale Fach- und Branchenverbände;
+- c. Kantone;
+- d. öffentlich-rechtliche Körperschaften;
+- e. Anlagebetreiber.
+
+<sup>3</sup> Die Finanzhilfen betragen höchstens 45 Prozent der anrechenbaren Kosten und richten sich nach dem Interesse des Bundes an der Aufgabenerfüllung sowie den Finanzierungsmöglichkeiten des Empfängers.
+
+<sup>4</sup> Sie können auch pauschal aufgrund der im Voraus geschätzten Kosten festgelegt werden.
+
+[^7-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Aug. 2025 ([AS 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [BBl 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 #### Art. 8
 
-**Form der Beiträge**[^8-1]
+[^8-1]
 
-<sup>1</sup> Der Bund gewährt den Kantonen die Abgeltungen als globale Beiträge auf der Grundlage von Programmvereinbarungen.
-
-<sup>2</sup> Für besonders aufwendige Projekte können den Kantonen die Abgeltungen einzeln gewährt werden.
-
-[^8-1]: Fassung gemäss Ziff. II 1 des BG vom 11. Dez. 2009 (Renaturierung), in Kraft seit 1. Jan. 2011 ([AS 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [BBl 2008 8043](https://fedlex.data.admin.ch/eli/fga/2008/1366)[8079](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
+[^8-1]: Aufgehoben durch Ziff. I des BG vom 15. März 2024, mit Wirkung seit 1. Aug. 2025 ([AS 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [BBl 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 #### Art. 9
 
-**Voraussetzungen der Beiträge**[^9-1]
+**Voraussetzungen für die Gewährung von Beiträgen**[^9-1]
 
-<sup>1</sup> Beiträge werden nur gewährt für Massnahmen, die auf einer zweckmässigen Planung beruhen, die gesetzlichen Anforderungen erfüllen und ein gutes Kosten-Nutzen-Verhältnis aufweisen.
+<sup>1</sup>
 
-<sup>2</sup> Der Bundesrat regelt die Voraussetzungen im Einzelnen und erlässt Vorschriften namentlich über die Höhe der Beiträge und die anrechenbaren Kosten.
+Abgeltungen nach Artikel 6 werden gewährt, wenn die Massnahmen:
 
-[^9-1]: Fassung gemäss Ziff. II 14 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+- a. auf einer integralen Planung beruhen;
+- b. die gesetzlichen Anforderungen erfüllen; und
+- c. ein gutes Kosten-Nutzen-Verhältnis aufweisen.
+
+<sup>2</sup>
+
+Finanzhilfen nach Artikel 7 werden gewährt, wenn die Aktivitäten und Projekte:
+
+- a. von gesamtschweizerischer Bedeutung sind;
+- b. die gesetzlichen Anforderungen erfüllen; und
+- c. fachkundig, praxisorientiert und kostengünstig durchgeführt werden.
+
+<sup>3</sup> Der Bundesrat regelt die Voraussetzungen im Einzelnen und erlässt Vorschriften namentlich über die Höhe der Beiträge und die anrechenbaren Kosten.
+
+[^9-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Aug. 2025 ([AS 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [BBl 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 #### Art. 10
 
@@ -147,6 +198,10 @@ Er leistet Abgeltungen namentlich für:
 
 <sup>3</sup> Er kann Massnahmen, die den Hochwasserschutz gefährden, verbieten oder verlangen, dass sie rückgängig gemacht werden.
 
+<sup>4</sup> Das Bundesamt für Umwelt kann Kurse zur Weiterbildung von Fachleuten organisieren.[^11-1]
+
+[^11-1]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Aug. 2025 ([AS 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [BBl 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
+
 #### Art. 12
 
 **Kantone**
@@ -156,6 +211,14 @@ Er leistet Abgeltungen namentlich für:
 <sup>2</sup> Sie erlassen die erforderlichen Vorschriften.
 
 <sup>3</sup> Sie unterbreiten Projekte im Sinne von Artikel 3 Absatz 2 den Fachstellen des Bundes zur Stellungnahme; davon ausgenommen sind unbedeutende Vorhaben.
+
+#### Art. 12a
+
+**Information und Beratung**[^12a-1]
+
+Bund und Kantone sorgen für die Information und die Beratung der Behörden und der Öffentlichkeit über Grundlagen und Massnahmen des Hochwasserschutzes.
+
+[^12a-1]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Aug. 2025 ([AS 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [BBl 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 ## 5. Abschnitt: Grundlagenbeschaffung
 
@@ -210,7 +273,7 @@ Der Rechtsschutz richtet sich nach den allgemeinen Bestimmungen über die Bundes
 
 <sup>3</sup> Für Gemeinschaftswerke verschiedener Kantone und Werke, die das Gebiet mehrerer Kantone beanspruchen, ist das eidgenössische Enteignungsrecht anwendbar. Das Departement entscheidet über die Enteignung.
 
-[^17-1]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^17-1]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^17-2]: Fassung gemäss Anhang Ziff. 7 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
 ## 7. Abschnitt: Schlussbestimmungen
@@ -219,7 +282,7 @@ Der Rechtsschutz richtet sich nach den allgemeinen Bestimmungen über die Bundes
 
 **Aufhebung und Änderung bisherigen Rechts**
 
-...[^18-1]
+…[^18-1]
 
 [^18-1]: Die Änderungen können unter [AS 1993 234](https://fedlex.data.admin.ch/eli/oc/1993/234_234_234)konsultiert werden.
 

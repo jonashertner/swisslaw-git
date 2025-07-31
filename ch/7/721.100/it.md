@@ -3,37 +3,44 @@ sr: "721.100"
 title: "Legge federale del 21 giugno 1991 sulla sistemazione dei corsi d'acqua (LSCA)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/234_234_234"
 language: it
-version: 2022-01-01
+version: 2025-08-01
 adopted: 1991-06-21
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/234_234_234/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1993-234_234_234-20220101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/234_234_234/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/234_234_234/20250801/it/xml/fedlex-data-admin-ch-eli-cc-1993-234_234_234-20250801-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/234_234_234/20250801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sulla sistemazione dei corsi d’acqua
 
-del 21 giugno 1991 (Stato 1° gennaio 2022)
+(LSCA)[^t-1]
+
+del 21 giugno 1991 (Stato 1° agosto 2025)
+
+[^t-1]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° ago. 2025 ([RU 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 L’Assemblea federale della Confederazione Svizzera,
 
-visti gli articoli 24 e 24<sup>bis</sup> della Costituzione federale[^ingress-1];
+visto l’articolo 76 capoverso 3 della Costituzione federale[^ingress-1];[^ingress-2]
 
-visto il messaggio del Consiglio federale del 25 maggio 1988[^ingress-2],
+visto il messaggio del Consiglio federale del 25 maggio 1988[^ingress-3],
 
 decreta:
 
-[^ingress-1]: [CS **1** 3; [RU 1976 715](https://fedlex.data.admin.ch/eli/oc/1976/715_715_715)]. A queste disposizione corrisponde ora l’art. 76 della Cost. del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: FF **1988** 1149
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° ago. 2025 ([RU 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
+[^ingress-3]: FF **1988** 1149
 
-## Sezione 1: Scopo e campo d’applicazione
+## Sezione 1: Scopo
+
+[^sec1-1]
+
+[^sec1-1]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° ago. 2025 ([RU 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 #### Art. 1
 
-<sup>1</sup> La presente legge ha lo scopo di proteggere persone e beni materiali importanti dall’azione dannosa delle acque, in particolare delle inondazioni, delle erosioni e delle alluvioni (protezione contro le piene).
-
-<sup>2</sup> Essa si applica a tutte le acque di superficie.
+La presente legge ha lo scopo di proteggere persone e beni materiali importanti dagli effetti dannosi delle acque sulla superficie terrestre, in particolare dalle inondazioni, dalle erosioni e dalle alluvioni (protezione contro le piene).
 
 ## Sezione 2: Competenza e provvedimenti
 
@@ -45,33 +52,29 @@ La protezione contro le piene spetta ai Cantoni.
 
 #### Art. 3
 
-**Provvedimenti**
+**Provvedimenti**[^3-1]
 
-<sup>1</sup> I Cantoni garantiscono la protezione contro le piene in primo luogo tramite lavori di manutenzione e misure pianificatorie.
+<sup>1</sup> I Cantoni limitano l’entità e la probabilità di insorgenza di un danno causato da piene (rischio di piena) in primo luogo tramite la manutenzione delle acque secondo l’articolo 4 lettera n della legge del 24 gennaio 1991[^3-2] sulla protezione delle acque e tramite misure pianificatorie.
 
-<sup>2</sup> Non bastando tali misure, si eseguiranno correzioni, arginature, ripari, bacini di raccolta e di ritenzione, nonché altri lavori atti a prevenire i movimenti del terreno.
+<sup>2</sup> Se tali provvedimenti non sono sufficienti, i Cantoni adottano misure organizzative, tecniche e di ingegneria naturalistica atte a ridurre il rischio di piena.
 
-<sup>3</sup> Ogni intervento dev’essere valutato globalmente e nel suo interagire con misure simili, dipendenti da altri ambiti.
+<sup>3</sup> I provvedimenti sono pianificati in funzione dei rischi e in modo integrale e sono valutati globalmente, nella loro interazione con provvedimenti simili dipendenti da altri ambiti.
+
+[^3-1]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° ago. 2025 ([RU 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
+[^3-2]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
 
 #### Art. 4
 
-**Esigenze**
+**Esigenze**[^4-1]
 
-<sup>1</sup> Le acque, le rive e i ripari contro le piene vanno mantenuti in modo da garantire la protezione ad un livello costante, in particolare riguardo alla capacità di deflusso.
+<sup>1</sup> Le acque, le rive e le opere di protezione contro le piene sono mantenute in modo da garantire la protezione a un livello costante, in particolare riguardo alla capacità di deflusso.
 
-<sup>2</sup>
+<sup>2</sup> Gli interventi sui corsi d’acqua soddisfano le esigenze di cui all’articolo 37 della legge del 24 gennaio 1991[^4-2] sulla protezione delle acque.
 
-Gli interventi sui corsi d’acqua devono per quanto possibile rispettare o eventualmente ricostituire il tracciato naturale. Le acque e lo spazio riservato alle acque vanno sistemati in modo da:[^4-1]
+<sup>3</sup> In caso di progetti di protezione contro le piene, la nuova sistemazione dei tratti dello spazio riservato alle acque è garantita nel quadro del progetto durante i primi cinque anni.
 
-- a. offrire un biotopo adeguato a una fauna e una flora variate;
-- b. salvaguardare per quanto possibile l’interazione tra acque di superficie e acque sotterranee;
-- c. favorire la crescita di una vegetazione ripuaria stanziale.
-
-<sup>3</sup> Nelle zone abitate, l’autorità può autorizzare eccezioni al capoverso 2.
-
-<sup>4</sup> Il capoverso 2 si applica per analogia alla creazione di corsi d’acqua artificiali e alla ricostruzione di argini danneggiati.
-
-[^4-1]: Nuovo testo giusta il n. II 1 della LF dell’11 dic. 2009 (Rinaturazione), in vigore dal 1° gen. 2011 ([RU 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7033](https://fedlex.data.admin.ch/eli/fga/2008/1366), [7069](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
+[^4-1]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° ago. 2025 ([RU 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
+[^4-2]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
 
 #### Art. 5
 
@@ -85,44 +88,92 @@ Gli interventi sui corsi d’acqua devono per quanto possibile rispettare o even
 
 #### Art. 6
 
-**Indennità per misure di protezione contro le piene**[^6-1]
+**Indennità per l’acquisizione di dati di base e le misure di protezione contro le piene**[^6-1]
 
-<sup>1</sup> Nei limiti dei crediti stanziati, la Confederazione promuove le misure atte a proteggere la vita umana e i beni materiali considerevoli dai pericoli delle acque.
+<sup>1</sup> Nei limiti dei crediti stanziati e sulla base di accordi di programma, la Confederazione accorda ai Cantoni indennità globali per l’acquisizione di dati di base e per le misure necessarie per la protezione contro le piene a livello pianificatorio, organizzativo, tecnico o di ingegneria naturalistica.
 
-<sup>2</sup>
+<sup>2</sup> Per progetti particolarmente onerosi le indennità possono essere accordate singolarmente.
 
-Essa accorda indennità segnatamente per:
+<sup>3</sup>
 
-- a. l’esecuzione, il ripristino e la sostituzione di opere e installazioni di protezione;
-- b. l’allestimento di catasti e di carte dei pericoli, l’approntamento e l’esercizio di stazioni di misurazione, nonché la creazione di sistemi d’allarme per la sicurezza di centri abitati e vie di comunicazione.
+Essa accorda indennità in particolare per:
 
-[^6-1]: Nuovo testo giusta il n. II 14 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+- a. l’elaborazione di dati di base quali analisi degli eventi, catasti, valutazioni dei pericoli, panoramiche dei rischi e pianificazioni globali;
+- b. misure pianificatorie quali accertamenti per la limitazione dei rischi e spostamento in luoghi sicuri di costruzioni e impianti minacciati;
+- c. misure organizzative quali dispositivi di allarme, pianificazioni d’intervento e provvedimenti tecnici per gli interventi d’emergenza;
+- d. misure di ingegneria naturalistica e tecniche quali manutenzione, ripristino, sostituzione e realizzazione di opere e impianti di protezione;
+- e. misure per rimediare ai danni nelle aree di ritenzione in caso di evento e per i mancati ricavi a causa delle perdite di stoccaggio in relazione all’abbassamento preventivo dei bacini di accumulazione artificiali.
+
+<sup>4</sup> Le spese sono computabili se effettivamente sostenute e strettamente necessarie per adempiere in modo adeguato il compito.
+
+<sup>5</sup> Il contributo è del 50 per cento per le spese computabili relative all’acquisizione di dati di base e del 35 per cento per le spese relative alle misure.
+
+<sup>6</sup>
+
+Il contributo per le misure può essere incrementato:
+
+- a. fino al 10 per cento per prestazioni supplementari;
+- b. fino al 20 per cento qualora un Cantone debba adottare provvedimenti di protezione straordinari e particolarmente onerosi contro pericoli naturali, segnatamente in seguito a danni causati dal maltempo.
+
+[^6-1]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° ago. 2025 ([RU 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 #### Art. 7
 
-[^7-1]
+**Aiuti finanziari per la formazione continua, la ricerca e l’informazione**[^7-1]
 
-[^7-1]: Abrogato dal n. II 1 della LF dell’11 dic. 2009 (Rinaturazione), con effetto dal 1° gen. 2011 ([RU 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7033](https://fedlex.data.admin.ch/eli/fga/2008/1366), [7069](https://fedlex.data.admin.ch/eli/fga/2008/1368)
+<sup>1</sup>
+
+Per promuovere procedure di esecuzione uniformi e un’efficace attuazione della gestione integrale dei rischi, la Confederazione può accordare aiuti finanziari per:
+
+- a. la formazione continua di specialisti;
+- b. progetti per lo studio e lo sviluppo di dati di base e misure di protezione contro le piene;
+- c. l’informazione al pubblico.
+
+<sup>2</sup>
+
+Gli aiuti finanziari possono essere accordati a:
+
+- a. istituti e associazioni per la formazione continua di specialisti;
+- b. associazioni professionali e di categoria nazionali;
+- c. Cantoni;
+- d. enti di diritto pubblico;
+- e. gestori di impianti.
+
+<sup>3</sup> Gli aiuti finanziari ammontano al massimo al 45 per cento delle spese computabili e si basano sull’interesse della Confederazione all’adempimento dei compiti e sulle possibilità di finanziamento del destinatario.
+
+<sup>4</sup> Possono essere accordati anche in modo forfettario sulla base di una precedente stima dei costi.
+
+[^7-1]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° ago. 2025 ([RU 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 #### Art. 8
 
-**Forma dei contributi**[^8-1]
+[^8-1]
 
-<sup>1</sup> La Confederazione accorda le indennità ai Cantoni sotto forma di contributi globali sulla base di accordi di programma.
-
-<sup>2</sup> Per progetti particolarmente onerosi, le indennità possono essere accordate singolarmente.
-
-[^8-1]: Nuovo testo giusta il n. II 1 della LF dell’11 dic. 2009 (Rinaturazione), in vigore dal 1° gen. 2011 ([RU 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7033](https://fedlex.data.admin.ch/eli/fga/2008/1366), [7069](https://fedlex.data.admin.ch/eli/fga/2008/1368)
+[^8-1]: Abrogato dalla cifra I della LF del 15 mar. 2024, con effetto dal 1° ago. 2025 ([RU 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 #### Art. 9
 
-**Condizioni per la concessione dei contributi**[^9-1]
+**Condizioni per la concessione di contributi**[^9-1]
 
-<sup>1</sup> I contributi sono accordati solo per provvedimenti che si basano su un’adeguata pianificazione, adempiono le condizioni legali e presentano un buon rapporto costi-utilità.
+<sup>1</sup>
 
-<sup>2</sup> Il Consiglio federale disciplina dettagliatamente le condizioni ed emana prescrizioni, segnatamente sull’ammontare dei contributi e sulle spese computabili.
+Le indennità di cui all’articolo 6 sono accordate se le misure:
 
-[^9-1]: Nuovo testo giusta il n. II 14 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+- a. si basano su una pianificazione integrale;
+- b. adempiono le esigenze legali; e
+- c. presentano un rapporto costi-benefici favorevole.
+
+<sup>2</sup>
+
+Gli aiuti finanziari di cui all’articolo 7 sono accordati se le attività o i progetti:
+
+- a. sono di interesse nazionale;
+- b. adempiono le esigenze legali; e
+- c. sono svolti in maniera professionale, orientati alla pratica e realizzati a costi contenuti.
+
+<sup>3</sup> Il Consiglio federale disciplina dettagliatamente le condizioni ed emana prescrizioni, segnatamente sull’ammontare dei contributi e sulle spese computabili.
+
+[^9-1]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° ago. 2025 ([RU 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 #### Art. 10
 
@@ -134,7 +185,7 @@ Essa accorda indennità segnatamente per:
 
 <sup>3</sup> I crediti d’impegno per grandi progetti che necessitano di ingenti mezzi per un lungo periodo sono sottoposti all’Assemblea federale mediante messaggio separato.
 
-[^10-1]: Nuovo testo giusta il n. II 14 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^10-1]: Nuovo testo giusta la cifra II n. 14 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^10-2]: Nuova espr. giusta l’all. n. 4 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 333](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 ## Sezione 4: Esecuzione e vigilanza
@@ -149,6 +200,10 @@ Essa accorda indennità segnatamente per:
 
 <sup>3</sup> Esso può vietare provvedimenti che pregiudichino la protezione contro le piene o esigerne lo smantellamento.
 
+<sup>4</sup> L’Ufficio federale dell’ambiente può organizzare corsi di formazione continua per specialisti.[^11-1]
+
+[^11-1]: Introdotto dalla cifra I della LF del 15 mar. 2024, in vigore dal 1° ago. 2025 ([RU 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
+
 #### Art. 12
 
 **Cantoni**
@@ -158,6 +213,14 @@ Essa accorda indennità segnatamente per:
 <sup>2</sup> Essi emanano le necessarie disposizioni.
 
 <sup>3</sup> Trattandosi di misure, giusta l’articolo 3 capoverso 2, in fase progettuale e purché non si tratti di misure di secondaria importanza, i Cantoni informano il servizio competente della Confederazione e gli danno la possibilità di esprimere un parere.
+
+#### Art. 12a
+
+**Informazione e consulenza**[^12a-1]
+
+La Confederazione e i Cantoni provvedono all’informazione e alla consulenza delle autorità e del pubblico in merito ai dati di base e alle misure di protezione contro le piene.
+
+[^12a-1]: Introdotto dalla cifra I della LF del 15 mar. 2024, in vigore dal 1° ago. 2025 ([RU 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 ## Sezione 5: Studi di base
 
@@ -212,7 +275,7 @@ La protezione giuridica è retta dalle disposizioni generali sull’amministrazi
 
 <sup>3</sup> La legislazione federale sull’espropriazione si applica alle opere eseguite da più Cantoni o situate sul territorio di più Cantoni. Il Dipartimento decide sulle espropriazioni.
 
-[^17-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^17-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^17-2]: Nuovo testo giusta l’all. n. 7 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
 ## Sezione 7: Disposizioni finali
@@ -229,7 +292,7 @@ La protezione giuridica è retta dalle disposizioni generali sull’amministrazi
 
 [^19-1]
 
-[^19-1]: Abrogato dal n. II 29 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^19-1]: Abrogato dalla cifra II n. 29 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 #### Art. 20
 

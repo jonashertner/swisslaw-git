@@ -3,35 +3,42 @@ sr: "721.100"
 title: "Loi fédérale du 21 juin 1991 sur l'aménagement des cours d'eau (Loi sur l’aménagement des cours d’eau, LACE)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/234_234_234"
 language: fr
-version: 2022-01-01
+version: 2025-08-01
 adopted: 1991-06-21
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/234_234_234/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-234_234_234-20220101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/234_234_234/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/234_234_234/20250801/fr/xml/fedlex-data-admin-ch-eli-cc-1993-234_234_234-20250801-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/234_234_234/20250801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur l’aménagement des cours d’eau
 
-du 21 juin 1991 (Etat le 1<sup>er</sup> janvier 2022)
+(Loi sur l’aménagement des cours d’eau, LACE)[^t-1]
+
+du 21 juin 1991 (État le 1<sup>er</sup> août 2025)
+
+[^t-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 L’Assemblée fédérale de la Confédération suisse,
 
-vu les art. 24 et 24<sup>bis</sup> de la constitution[^ingress-1], vu le message du Conseil fédéral du 25 mai 1988[^ingress-2],
+vu l’art. 76, al. 3, de la Constitution[^ingress-1],[^ingress-2] vu le message du Conseil fédéral du 25 mai 1988[^ingress-3],
 
 arrête:
 
-[^ingress-1]: [RS **1** 3; [RO 1976 715](https://fedlex.data.admin.ch/eli/oc/1976/715_715_715)]. Aux disp. mentionnées correspond actuellement l’art. 76 de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: [FF 1988 II 1293](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
+[^ingress-3]: [FF 1988 II 1293](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)
 
-## Section 1 But et champ d’application
+## Section 1 But
+
+[^sec1-1]
+
+[^sec1-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 #### Art. 1
 
-<sup>1</sup> La présente loi a pour but de protéger des personnes et des biens matériels importants contre l’action dommageable des eaux, en particulier celle qui est causée par les inondations, les érosions et les alluvionnements (protection contre les crues).
-
-<sup>2</sup> Elle s’applique à toutes les eaux superficielles.
+La présente loi vise à protéger les personnes et les biens matériels importants contre l’action dommageable des eaux sur la surface terrestre, en particulier contre les inondations, les érosions et les alluvionnements (protection contre les crues).
 
 ## Section 2 Compétence et mesures à prendre
 
@@ -43,34 +50,29 @@ La protection contre les crues incombe aux cantons.
 
 #### Art. 3
 
-**Mesures à prendre**
+**Mesures à prendre**[^3-1]
 
-<sup>1</sup> Les cantons assurent la protection contre les crues en priorité par des mesures d’entretien et de planification.
+<sup>1</sup> Les cantons limitent l’ampleur et la probabilité d’occurrence des dommages causés par les crues (risque lié aux crues) en priorité par des mesures d’entretien des eaux au sens de l’art. 4, let. n, de la loi fédérale du 24 janvier 1991 sur la protection des eaux[^3-2] et par des mesures d’aménagement du territoire.
 
-<sup>2</sup> Si cela ne suffit pas, ils prennent les autres mesures qui s’imposent telles que corrections, endiguements, réalisation de dépotoirs à alluvions et de bassins de rétention des crues ainsi que toutes les autres mesures propres à empêcher les mouvements de terrain.
+<sup>2</sup> Si cela ne suffit pas, ils prennent des mesures relevant de l’organisation, du génie biologique et de la technique propres à réduire le risque lié aux crues.
 
-<sup>3</sup> Les mesures doivent être appréciées compte tenu de celles qui sont prises dans d’autres domaines, globalement et dans leur interaction.
+<sup>3</sup> Les mesures sont planifiées selon une approche intégrée fondée sur les risques et appréciées au regard des mesures prises dans d’autres domaines, globalement et dans leur interaction.
+
+[^3-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
+[^3-2]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
 
 #### Art. 4
 
-**Exigences**
+**Exigences**[^4-1]
 
-<sup>1</sup> Les eaux, les rives et les ouvrages de protection contre les crues doivent être entretenus de façon à maintenir la protection contre les crues à un niveau constant, en particulier en ce qui concerne la capacité d’écoulement.
+<sup>1</sup> Les eaux, les rives et les ouvrages de protection contre les crues sont entretenus de façon à maintenir le niveau de protection existant, en particulier la capacité d’écoulement.
 
-<sup>2</sup>
+<sup>2</sup> Les interventions dans les eaux doivent satisfaire aux exigences formulées à l’art. 37 de la loi fédérale du 24 janvier 1991 sur la protection des eaux[^4-2].
 
-Lors d’interventions dans les eaux, leur tracé naturel doit être autant que possible respecté ou, à défaut, reconstitué. Les eaux et l’espace réservé aux eaux doivent être aménagés de façon à ce que:[^4-1]
+<sup>3</sup> Le réaménagement des tronçons de l’espace réservé aux eaux doit être assuré durant les cinq premières années des projets de protection contre les crues.
 
-- a.[^4-2] ils puissent accueillir une faune et une flore diversifiées;
-- b. les interactions entre eaux superficielles et eaux souterraines soient maintenues autant que possible;
-- c. une végétation adaptée à la station puisse croître sur les rives.
-
-<sup>3</sup> Dans les zones bâties, l’autorité peut autoriser des exceptions à l’al. 2.
-
-<sup>4</sup> L’al. 2 s’applique par analogie à la création de cours d’eau artificiels ainsi qu’à la réfection de barrages endommagés.
-
-[^4-1]: Nouvelle teneur selon le ch. II 1 de la LF du 11 déc. 2009 (Renaturation), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7307](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7343](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
-[^4-2]: Nouvelle teneur selon le ch. II 1 de la LF du 11 déc. 2009 (Renaturation), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7307](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7343](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
+[^4-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
+[^4-2]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
 
 #### Art. 5
 
@@ -84,44 +86,92 @@ Lors d’interventions dans les eaux, leur tracé naturel doit être autant que 
 
 #### Art. 6
 
-**Indemnités afférentes aux mesures de protection contre les crues**[^6-1]
+**Indemnités pour les études de base et les mesures de protection contre les crues**[^6-1]
 
-<sup>1</sup> Dans les limites des crédits alloués, la Confédération encourage les mesures visant à protéger la population et les valeurs matérielles considérables contre les risques inhérents à l’eau.
+<sup>1</sup> Dans les limites des crédits ouverts et sur la base de conventions-programmes, la Confédération alloue aux cantons des indemnités globales pour les études de base et les mesures nécessaires à la protection contre les crues du point de vue de l’aménagement du territoire, de l’organisation, du génie biologique ou de la technique.
 
-<sup>2</sup>
+<sup>2</sup> Elle peut allouer aux cantons des indemnités au cas par cas pour des projets particulièrement onéreux.
 
-Elle accorde des indemnités notamment pour:
+<sup>3</sup>
 
-- a. la construction, la remise en état et le remplacement d’ouvrages et d’installations de protection;
-- b. l’établissement de cadastres et de cartes des dangers, l’aménagement et l’exploitation de stations de mesures ainsi que la mise sur pied de services d’alerte, pour assurer la sécurité des agglomérations et des voies de communication.
+Elle alloue des indemnités notamment pour:
 
-[^6-1]: Nouvelle teneur selon le ch. II 14 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+- a. l’élaboration d’études de base telles que des analyses d’événements, des cadastres, des évaluations des dangers, des vues d’ensemble des risques et des planifications globales;
+- b. des mesures d’aménagement du territoire telles que des études visant à limiter les risques ou encore le déplacement d’ouvrages et d’installations menacés vers des lieux sûrs;
+- c. des mesures d’organisation telles que l’installation de dispositifs d’alerte, l’élaboration de plans d’intervention et la mise en place de dispositions techniques facilitant les interventions d’urgence;
+- d. des mesures de génie biologique et de technique telles que l’entretien, la remise en état et le remplacement ou la construction d’ouvrages et d’installations de protection;
+- e. des mesures telles que la réparation de dommages causés par des événements dans des espaces de délestage et la compensation du manque à gagner lié à l’abaissement préventif de lacs de retenue.
+
+<sup>4</sup> Les coûts sont imputables s’ils ont été effectivement encourus et qu’ils sont directement nécessaires à l’accomplissement adéquat de la tâche.
+
+<sup>5</sup> La contribution aux coûts imputables inhérents aux études de base et aux mesures se monte respectivement à 50 % et à 35 %.
+
+<sup>6</sup>
+
+La contribution aux mesures peut être relevée:
+
+- a. de 10 % au plus pour des prestations supplémentaires;
+- b. de 20 % au plus, pour autant qu’un canton assume des charges considérables en raison de mesures de protection extraordinaires contre les dangers naturels, notamment à la suite de dommages dus à des intempéries.
+
+[^6-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 #### Art. 7
 
-[^7-1]
+**Aides financières pour la formation continue, la recherche et l’information**[^7-1]
 
-[^7-1]: Abrogé par le ch. II 1 de la LF du 11 déc. 2009 (Renaturation), avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7307](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7343](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
+<sup>1</sup>
+
+La Confédération peut, dans le but d’harmoniser la pratique en matière d’exécution et la mise en œuvre efficace de la gestion intégrée des risques, allouer des aides financières pour:
+
+- a. la formation continue des spécialistes;
+- b. des projets de recherche et de développement d’études de base et de mesures de protection contre les crues;
+- c. l’information du public.
+
+<sup>2</sup>
+
+Les aides financières peuvent être allouées:
+
+- a. aux instituts et aux associations chargés de la formation continue des spécialistes;
+- b. aux associations professionnelles et sectorielles nationales;
+- c. aux cantons;
+- d. aux corporations de droit public;
+- e. aux exploitants d’installation.
+
+<sup>3</sup> Les aides financières se montent au maximum à 45 % des coûts imputables et dépendent de l’intérêt de la Confédération à la réalisation des tâches et des possibilités de financement de l’allocataire.
+
+<sup>4</sup> Elles peuvent aussi être allouées sous forme de forfait sur la base d’une estimation préalable des coûts.
+
+[^7-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 #### Art. 8
 
-**Forme des contributions**[^8-1]
+[^8-1]
 
-<sup>1</sup> La Confédération alloue les indemnités aux cantons sous la forme de contributions globales, sur la base de conventions-programmes.
-
-<sup>2</sup> Des indemnités peuvent être allouées aux cantons au cas par cas pour des projets particulièrement onéreux.
-
-[^8-1]: Nouvelle teneur selon le ch. II 1 de la LF du 11 déc. 2009 (Renaturation), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7307](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7343](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
+[^8-1]: Abrogé par le ch. I de la LF du 15 mars 2024, avec effet au 1<sup>er</sup> août 2025 ([RO 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 #### Art. 9
 
-**Conditions d’allocation des contributions**[^9-1]
+**Conditions pour l’allocation de contributions**[^9-1]
 
-<sup>1</sup> Les contributions ne sont accordées que pour des mesures qui s’inscrivent dans une planification rationnelle, qui répondent aux exigences légales et qui présentent un bon rapport entre les coûts et l’utilité.
+<sup>1</sup>
 
-<sup>2</sup> Le Conseil fédéral règle les conditions et édicte des dispositions concernant notamment le montant des contributions et les dépenses imputables.
+Les indemnités visées à l’art. 6 sont allouées aux conditions suivantes:
 
-[^9-1]: Nouvelle teneur selon le ch. II 14 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+- a. les mesures s’inscrivent dans une planification intégrée;
+- b. les mesures répondent aux exigences légales;
+- c. les mesures présentent un bon rapport coûts-bénéfices.
+
+<sup>2</sup>
+
+Les aides financières visées à l’art. 7 sont allouées aux conditions suivantes:
+
+- a. les activités et projets sont d’importance nationale;
+- b. les activités et projets répondent aux exigences légales;
+- c. les activités et projets sont réalisés de manière professionnelle, à moindre coût et en fonction de la pratique.
+
+<sup>3</sup> Le Conseil fédéral précise les conditions régissant l’allocation des contributions et édicte des dispositions concernant notamment le montant des contributions et les coûts imputables.
+
+[^9-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 #### Art. 10
 
@@ -148,6 +198,10 @@ Elle accorde des indemnités notamment pour:
 
 <sup>3</sup> Il peut interdire les dispositifs qui compromettent la protection contre les crues, ou, s’ils sont déjà établis, exiger leur élimination.
 
+<sup>4</sup> L’Office fédéral de l’environnement peut organiser des cours de formation continue destinés aux spécialistes.[^11-1]
+
+[^11-1]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
+
 #### Art. 12
 
 **Cantons**
@@ -157,6 +211,14 @@ Elle accorde des indemnités notamment pour:
 <sup>2</sup> Ils édictent les prescriptions nécessaires.
 
 <sup>3</sup> Lorsque des mesures au sens de l’art. 3, al. 2, sont projetées, et à moins qu’il ne s’agisse de mesures mineures, les cantons les communiquent au service compétent de la Confédération en lui donnant la possibilité de se prononcer.
+
+#### Art. 12a
+
+**Information et conseil**[^12a-1]
+
+La Confédération et les cantons veillent à informer et à conseiller les autorités et le public sur les études de base et les mesures de protection contre les crues.
+
+[^12a-1]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 ## Section 5 Études de base
 
@@ -199,7 +261,7 @@ Les coûts des relevés et des recherches effectués tant dans l’intérêt nat
 
 Les voies de droit sont régies par les dispositions générales de la procédure fédérale.
 
-[^16-1]: Nouvelle teneur selon le ch. 66 de l’annexe à la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^16-1]: Nouvelle teneur selon l’annexe ch. 66 de la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 17
 
@@ -211,7 +273,7 @@ Les voies de droit sont régies par les dispositions générales de la procédur
 
 <sup>3</sup> La législation fédérale sur l’expropriation est applicable aux ouvrages qui ont été entrepris par plusieurs cantons et qui se situent sur le territoire de plusieurs d’entre eux. Le département statue sur les expropriations.
 
-[^17-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^17-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^17-2]: Nouvelle teneur selon l’annexe ch. 7 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
 ## Section 7 Dispositions finales
