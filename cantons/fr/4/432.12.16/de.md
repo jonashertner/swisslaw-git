@@ -3,13 +3,12 @@ canton: FR
 number: "432.12.16"
 title: Verordnung über die Gebühren und Beiträge von Studierenden an der Fachhochschule Westschweiz//Freiburg
 language: de
-version: 2022-02-01
-valid_until: 2025-07-31
-version_adopted: 2022-03-04
+version: 2025-08-01
+version_adopted: 2025-04-15
 adopted: 2017-12-19
 in_force: 2018-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/432.12.16"
-pdf: "https://bdlf.fr.ch/api/de/versions/7308/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8173/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7308/pdf_file"
 
 HES-SO//FR, Gebühren und Beiträge – V
 
-vom 19.12.2017 (Fassung in Kraft getreten am 01.02.2022)
+vom 19.12.2017 (Fassung in Kraft getreten am 01.08.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -74,7 +73,10 @@ beschliesst:
 
 #### Art. 5
 
-<sup>1</sup> Die Studiengebühr beträgt 500 Franken pro Semester. Diese Gebühr wird von allen Studierenden geschuldet, die an einer Hochschule der HES-SO//FR eingeschrieben sind.
+<sup>1</sup> Die Gebühr für das Studium an der HES-SO beträgt ab dem Studienjahr 2025/26 pro Semester:
+
+- a) 700 Franken (1400 Franken pro Jahr) für Schweizer Studierende im Sinne der interkantonalen Fachhochschulvereinbarung (FHV);
+- b) 1050 Franken (2100 Franken pro Jahr ) für ausländische Studierende im Sinne der interkantonalen Fachhochschulvereinbarung (FHV).
 
 <sup>2</sup> Sie kann im Falle eines Semesterurlaubs auf 150 Franken pro Semester herabgesetzt werden.
 

@@ -3,13 +3,12 @@ canton: FR
 number: "432.12.16"
 title: Ordonnance concernant les taxes et les contributions dues par les étudiants et étudiantes immatriculés à la Haute Ecole spécialisée de Suisse occidentale//Fribourg
 language: fr
-version: 2022-02-01
-valid_until: 2025-07-31
-version_adopted: 2022-03-04
+version: 2025-08-01
+version_adopted: 2025-04-15
 adopted: 2017-12-19
 in_force: 2018-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/432.12.16"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7308/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8173/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7308/pdf_file"
 
 HES-SO//FR, taxes et contributions – O
 
-du 19.12.2017 (version entrée en vigueur le 01.02.2022)
+du 19.12.2017 (version entrée en vigueur le 01.08.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -74,7 +73,10 @@ Arrête:
 
 #### Art. 5
 
-<sup>1</sup> Le montant de la taxe d'études est de 500 francs par semestre. Cette taxe est due par tous les étudiants et toutes les étudiantes dans une haute école de la HES-SO//FR.
+<sup>1</sup> La taxe d'études semestrielle à la HES-SO dès la rentrée académique 2025/26 est fixée à:
+
+- a) 700 francs (1400 francs par an) pour les étudiants et étudiantes suisses au sens de l'accord intercantonal sur les hautes écoles spécialisées;
+- b) 1050 francs (2100 francs par an) pour les étudiants et étudiantes étrangers au sens de l'accord intercantonal sur les hautes écoles spécialisées.
 
 <sup>2</sup> Elle peut être réduite à 150 francs par semestre dans les cas de congés semestriels.
 
