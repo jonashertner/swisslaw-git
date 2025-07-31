@@ -4,11 +4,11 @@ title: Bundesgesetz vom 15. Juni 2018 über genetische Untersuchungen beim Mensc
 short: GUMG
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/537"
 language: de
-version: 2022-12-01
+version: 2025-08-01
 adopted: 2018-06-15
 in_force: 2022-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/537/20221201/de/xml/fedlex-data-admin-ch-eli-cc-2022-537-20221201-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/537/20221201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/537/20250801/de/xml/fedlex-data-admin-ch-eli-cc-2022-537-20250801-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/537/20250801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/537/20221201/de"
 
 (GUMG)
 
-vom 15. Juni 2018 (Stand am 1. Dezember 2022)
+vom 15. Juni 2018 (Stand am 1. August 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 98 Absatz 3, 110 Absatz 1, 113 Absatz 1, 117 Absatz 1,
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2017 5597](https://fedlex.data.admin.ch/eli/fga/2017/1501)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -67,18 +67,20 @@ Für genetische Untersuchungen zur Abklärung von Eigenschaften des Erbguts, die
 
 <sup>2</sup>
 
-Für genetische Untersuchungen zur Typisierung von Blutgruppen oder Blut- oder Gewebemerkmalen, die im Zusammenhang mit Bluttransfusionen und der Transplantation von Organen, Geweben und Zellen durchgeführt werden, gelten die Artikel 3–12, 27, 33 und 56–58. Der Bundesrat kann nach Anhörung der Kommission:
+Für genetische Untersuchungen zur Typisierung von Blutgruppen oder Blut- oder Gewebemerkmalen, die im Zusammenhang mit Bluttransfusionen und der Transplantation von Organen, Geweben und Zellen durchgeführt werden, gelten die Artikel 3–12, 16 Absatz 2 Buchstabe b, 17 Absätze 1 Buchstaben b und c, 2 Buchstabe b und 3 sowie die Artikel 27, 33 und 56–58. Der Bundesrat kann nach Anhörung der Kommission:[^2-1]
 
-- a. solche Untersuchungen vom Geltungsbereich dieses Gesetzes ausnehmen, wenn bei ihrer Durchführung keine Überschussinformationen zu Eigenschaften entstehen, die an Nachkommen weitergegeben werden;
+- a.[^2-2] bestimmen, dass nur die Artikel 16 Absatz 2 Buchstabe b sowie 17 Absätze 1 Buchstaben b und c, 2 Buchstabe b und 3 anwendbar sind, wenn bei der Durchführung solcher Untersuchungen keine Überschussinformationen zu Eigenschaften entstehen, die an Nachkommen weitergegeben werden;
 - b. abweichende Regelungen zur Aufklärung nach Artikel 6 vorsehen;
 - c. die Bestimmungen zu Untersuchungen zur Typisierung von Blutgruppen oder Blut- oder Gewebemerkmalen auch für genetische Untersuchungen im Rahmen der Nachsorge einer Transplantation für anwendbar erklären.
 
-<sup>3</sup> Für die Erstellung von DNA-Profilen zur Klärung der Abstammungoder zur Identifizierung von Personen gelten neben dem 5. Kapitel nur die Artikel 3–5, 7–13, 15 und 56–58. Die Verwendung von DNA-Profilen im Strafverfahren oder zur Identifizierung von unbekannten oder vermissten Personen richtet sich nach dem DNA-Profil-Gesetz vom 20. Juni 2003[^2-1].
+<sup>3</sup> Für die Erstellung von DNA-Profilen zur Klärung der Abstammungoder zur Identifizierung von Personen gelten neben dem 5. Kapitel nur die Artikel 3–5, 7–13, 15 und 56–58. Die Verwendung von DNA-Profilen im Strafverfahren oder zur Identifizierung von unbekannten oder vermissten Personen richtet sich nach dem DNA-Profil-Gesetz vom 20. Juni 2003[^2-3].
 
-<sup>4</sup> Genetische und pränatale Untersuchungen im Rahmen der Forschung zu Krankheiten des Menschen sowie zu Aufbau und Funktion des menschlichen Körpers richten sich nach dem Humanforschungsgesetz vom 30. September 2011[^2-2].
+<sup>4</sup> Genetische und pränatale Untersuchungen im Rahmen der Forschung zu Krankheiten des Menschen sowie zu Aufbau und Funktion des menschlichen Körpers richten sich nach dem Humanforschungsgesetz vom 30. September 2011[^2-4].
 
-[^2-1]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
-[^2-2]: [SR 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
+[^2-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 29. Sept. 2023, in Kraft seit 1. Aug. 2025 ([AS 2025 421](https://fedlex.data.admin.ch/eli/oc/2025/421); [BBl 2023 721](https://fedlex.data.admin.ch/eli/fga/2023/721)).
+[^2-2]: Fassung gemäss Anhang Ziff. 3 des BG vom 29. Sept. 2023, in Kraft seit 1. Aug. 2025 ([AS 2025 421](https://fedlex.data.admin.ch/eli/oc/2025/421); [BBl 2023 721](https://fedlex.data.admin.ch/eli/fga/2023/721)).
+[^2-3]: [SR 363](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6319)
+[^2-4]: [SR 810.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9248)
 
 #### Art. 3
 
@@ -225,10 +227,11 @@ Genetische und pränatale Untersuchungen müssen nach dem Stand von Wissenschaft
 Eine genetische Untersuchung darf in Abweichung von Absatz 1 durchgeführt werden, wenn das Risiko und die Belastung für die urteilsunfähige Person geringfügig sind, diese die Untersuchung weder durch Äusserungen noch durch entsprechendes Verhalten erkennbar ablehnt und wenn:
 
 - a. sich eine schwere Erbkrankheit in der Familie oder eine entsprechende Anlageträgerschaft nicht auf andere Weise abklären lässt und das Ergebnis der Untersuchung entweder für die Gesundheit der Mitglieder der Familie von grossem Nutzen ist oder für ihre Familienplanung wesentliche Informationen liefert; oder
-- b. mit der Untersuchung abgeklärt werden soll, ob sich Gewebe, Zellen oder Blut einer urteilsunfähigen Person aufgrund der Blutgruppen oder Blut- oder Gewebemerkmale für eine Übertragung auf eine Empfängerin oder einen Empfänger nach dem Transplantationsgesetz vom 8. Oktober 2004[^16-1] oder dem Heilmittelgesetz vom 15. Dezember 2000[^16-2] eignen.
+- b.[^16-1] die Untersuchung im Zusammenhang mit einer nach dem Transplantationsgesetz vom 8. Oktober 2004[^16-2] oder dem Heilmittelgesetz vom 15. Dezember 2000[^16-3] zulässigen Transplantation oder Transfusion erforderlich ist.
 
-[^16-1]: [SR 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
-[^16-2]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^16-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 29. Sept. 2023, in Kraft seit 1. Aug. 2025 ([AS 2025 421](https://fedlex.data.admin.ch/eli/oc/2025/421); [BBl 2023 721](https://fedlex.data.admin.ch/eli/fga/2023/721)).
+[^16-2]: [SR 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
+[^16-3]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
 #### Art. 17
 
@@ -336,7 +339,9 @@ Die Beratung muss zusätzlich zur Aufklärung nach Artikel 6 insbesondere folgen
 
 <sup>3</sup> Erwägt die schwangere Frau im Zusammenhang mit der Untersuchung einen Schwangerschaftsabbruch, so ist sie über Alternativen zum Abbruch zu informieren und auf Vereinigungen von Eltern behinderter Kinder sowie Selbsthilfegruppen aufmerksam zu machen.
 
-<sup>4</sup> Der Ehegatte oder der Partner der schwangeren Frau ist nach Möglichkeit in die genetische Beratung einzubeziehen.
+<sup>4</sup> Der Ehemann oder die Ehefrau oder der Partner oder die Partnerin der schwangeren Frau ist nach Möglichkeit in die genetische Beratung einzubeziehen.[^22-1]
+
+[^22-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 29. Sept. 2023, in Kraft seit 1. Aug. 2025 ([AS 2025 421](https://fedlex.data.admin.ch/eli/oc/2025/421); [BBl 2023 721](https://fedlex.data.admin.ch/eli/fga/2023/721)).
 
 #### Art. 23
 
@@ -360,7 +365,7 @@ Vor der Durchführung einer pränatalen Risikoabklärung muss die schwangere Fra
 
 <sup>3</sup> Die Kantone können die Aufgabe nach Absatz 2 den Beratungsstellen nach dem Bundesgesetz vom 9. Oktober 1981[^24-1] über die Schwangerschaftsberatungsstellen übertragen.
 
-[^24-1]: [SR 857.5](https://fedlex.data.admin.ch/eli/cc/1983/2003_2003_2003)
+[^24-1]: [SR 857.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10375)
 
 #### Art. 25
 
@@ -378,7 +383,7 @@ Für präsymptomatische und pränatale genetische Untersuchungen sowie für Unte
 
 <sup>3</sup> Ist die Mitteilung des Ergebnisses an Verwandte oder an andere nahestehende Personen zur Wahrung von deren Interessen notwendig und fehlt hierfür die Zustimmung der betroffenen Person, so kann die Ärztin oder der Arzt bei der zuständigen kantonalen Behörde nach Artikel 321 Absatz 2 des Strafgesetzbuchs[^26-1] die Entbindung vom Berufsgeheimnis beantragen. Die Behörde kann die Kommission um eine Stellungnahme ersuchen.
 
-[^26-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^26-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 27
 
@@ -589,7 +594,7 @@ Im Zusammenhang mit einem Arbeitsverhältnis darf die vom Arbeitgeber beigezogen
 
 <sup>2</sup> Für die Durchführung einer genetischen Untersuchung zur Verhütung einer Berufskrankheit ist die Zustimmung der SUVA erforderlich.
 
-[^40-1]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^40-1]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 
 #### Art. 41
 
@@ -597,8 +602,8 @@ Im Zusammenhang mit einem Arbeitsverhältnis darf die vom Arbeitgeber beigezogen
 
 Die Aufsicht über die Einhaltung der Artikel 37–40 durch den Arbeitgeber richtet sich nach den Bestimmungen des Arbeitsgesetzes vom 13. März 1964[^41-1] und des Bundesgesetzes vom 20. März 1981[^41-2] über die Unfallversicherung.
 
-[^41-1]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
-[^41-2]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^41-1]: [SR 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
+[^41-2]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 
 ### 3. Abschnitt: Genetische Untersuchungen bei Versicherungsverhältnissen
 
@@ -626,7 +631,7 @@ Versicherungseinrichtungen dürfen betreffend die zu versichernde Person bei fol
 
 <sup>3</sup> Versicherungseinrichtungen dürfen betreffend die zu versichernde Person weder nach genetischen Daten aus früheren pränatalen genetischen Untersuchungen oder aus Untersuchungen zur Familienplanung fragen noch solche Daten verwerten.
 
-[^43-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^43-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 44
 
@@ -697,7 +702,7 @@ Ist die Person, zu der das Abstammungsverhältnis geklärt werden soll, verstorb
 
 <sup>2</sup> Das Laboratorium muss die Proben, die im Rahmen des Verfahrens entnommen wurden, und die daraus resultierenden Daten bis zur Rechtskraft des Urteils aufbewahren. Das Gericht, das die Untersuchung angeordnet hat, informiert das Laboratorium über den Eintritt der Rechtskraft.
 
-[^49-1]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^49-1]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 #### Art. 50
 
@@ -719,7 +724,7 @@ Ist die Person, zu der das Abstammungsverhältnis geklärt werden soll, verstorb
 
 <sup>3</sup> Bei DNA-Profilen zur Klärung der Abstammung muss das Laboratorium, das die DNA-Profile erstellt, die betroffenen Personen vor der Untersuchung über die Bestimmungen des Zivilgesetzbuchs[^51-1] betreffend die Entstehung des Kindesverhältnisses und die möglichen psychischen und sozialen Auswirkungen der Untersuchung informieren. Die Information muss schriftlich erfolgen.
 
-[^51-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^51-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 52
 
@@ -839,7 +844,7 @@ Mit Busse wird bestraft, wer vorsätzlich:
 
 <sup>2</sup> Die Artikel 6 und 7 zu Widerhandlungen in Geschäftsbetrieben sowie Artikel 15 zur Urkundenfälschung und zum Erschleichen einer falschen Beurkundung des Bundesgesetzes vom 22. März 1974[^58-1] über das Verwaltungsstrafrecht sind anwendbar.
 
-[^58-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^58-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## 9. Kapitel: Schlussbestimmungen
 
@@ -889,7 +894,7 @@ II
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^annexu1-lvlu1-2]
+…[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[AS 2007 635](https://fedlex.data.admin.ch/eli/oc/2007/131); [2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617)Anhang Ziff. 3]
 [^annexu1-lvlu1-2]: Die Änderungen können unter [AS 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537)konsultiert werden.

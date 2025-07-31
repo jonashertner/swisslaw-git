@@ -4,11 +4,11 @@ title: Loi fédérale du 15 juin 2018 sur l’analyse génétique humaine (LAGH)
 short: LAGH
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/537"
 language: fr
-version: 2022-12-01
+version: 2025-08-01
 adopted: 2018-06-15
 in_force: 2022-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/537/20221201/fr/xml/fedlex-data-admin-ch-eli-cc-2022-537-20221201-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/537/20221201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/537/20250801/fr/xml/fedlex-data-admin-ch-eli-cc-2022-537-20250801-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/537/20250801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/537/20221201/fr"
 
 (LAGH)[^t-1]
 
-du 15 juin 2018 (État le 1<sup>er</sup> décembre 2022)
+du 15 juin 2018 (État le 1<sup>er</sup> août 2025)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -27,7 +27,7 @@ vu les art. 98, al. 3, 110, al. 1, 113, al. 1, 117, al. 1, 119, al. 2, et 122, a
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2017 5253](https://fedlex.data.admin.ch/eli/fga/2017/1501)
 
 ## Chapitre 1 Dispositions générales
@@ -69,18 +69,20 @@ Les analyses génétiques réalisées dans le but de déterminer des caractéris
 
 <sup>2</sup>
 
-Les art. 3 à 12, 27, 33 et 56 à 58 s’appliquent aux analyses génétiques visant la typisation des groupes sanguins ou des caractéristiques sanguines ou tissulaires réalisées dans le cadre de transfusions sanguines et de transplantations d’organes, de tissus et de cellules. Le Conseil fédéral peut, après avoir entendu la commission:
+Les art. 3 à 12, 16, al. 2, let. b, 17, al. 1, let. b et c, 2, let. b, et 3, ainsi que les art. 27, 33 et 56 à 58 s’appliquent aux analyses génétiques visant la typisation des groupes sanguins ou des caractéristiques sanguines ou tissulaires réalisées dans le cadre de transfusions sanguines et de transplantation d’organes, de tissus et de cellules. Le Conseil fédéral peut, après avoir entendu la commission d’experts:[^2-1]
 
-- a. exclure du champ d’application de la présente loi de telles analyses lorsque leur réalisation ne génère pas d’informations excédentaires concernant des caractéristiques qui sont transmises aux descendants;
+- a.[^2-2] disposer que seuls les art. 16, al. 2, let. b, et 17, al. 1, let. b et c, 2, let. b, et 3, s’appliquent lorsque la réalisation de tels examens ne génère pas d’informations excédentaires concernant des caractéristiques qui sont transmises aux descendants;
 - b. prévoir des dispositions dérogatoires concernant l’information visée à l’art. 6;
 - c. déclarer les dispositions qui régissent les analyses visant la typisation des groupes sanguins ou des caractéristiques sanguines ou tissulaires également applicables aux analyses génétiques réalisées dans le cadre du suivi d’une transplantation.
 
-<sup>3</sup> Outre le chapitre 5, seuls les art. 3 à 5, 7 à 13, 15 et 56 à 58 s’appliquent à l’établissement de profils d’ADN visant à déterminer la filiation ou l’identité d’une personne. L’utilisation de profils d’ADN dans les procédures pénales et pour l’identification de personnes inconnues ou disparues est régie par la loi du 20 juin 2003 sur les profils d’ADN[^2-1].
+<sup>3</sup> Outre le chapitre 5, seuls les art. 3 à 5, 7 à 13, 15 et 56 à 58 s’appliquent à l’établissement de profils d’ADN visant à déterminer la filiation ou l’identité d’une personne. L’utilisation de profils d’ADN dans les procédures pénales et pour l’identification de personnes inconnues ou disparues est régie par la loi du 20 juin 2003 sur les profils d’ADN[^2-3].
 
-<sup>4</sup> Les analyses génétiques et prénatales réalisées dans le cadre de la recherche sur les maladies humaines et sur la structure et le fonctionnement du corps humain se conforment à la loi du 30 septembre 2011 relative à la recherche sur l’être humain[^2-2].
+<sup>4</sup> Les analyses génétiques et prénatales réalisées dans le cadre de la recherche sur les maladies humaines et sur la structure et le fonctionnement du corps humain se conforment à la loi du 30 septembre 2011 relative à la recherche sur l’être humain[^2-4].
 
-[^2-1]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
-[^2-2]: [RS 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
+[^2-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 421](https://fedlex.data.admin.ch/eli/oc/2025/421); [FF 2023 721](https://fedlex.data.admin.ch/eli/fga/2023/721)).
+[^2-2]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 421](https://fedlex.data.admin.ch/eli/oc/2025/421); [FF 2023 721](https://fedlex.data.admin.ch/eli/fga/2023/721)).
+[^2-3]: [RS 363](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6319)
+[^2-4]: [RS 810.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9248)
 
 #### Art. 3
 
@@ -227,10 +229,11 @@ Les analyses génétiques et prénatales doivent être réalisées conformément
 Une analyse génétique peut être réalisée en dérogation à l’al. 1 si le risque et l’atteinte à la personne incapable de discernement sont minimes et que celle-ci n’exprime pas de manière identifiable, verbalement ou par un comportement particulier, son refus de l’analyse et:
 
 - a. s’il n’existe pas d’autre moyen de détecter, au sein de la famille, une grave maladie héréditaire ou le statut de porteur d’une telle maladie et que le résultat de l’analyse est d’une grande utilité pour la santé des membres de la famille ou fournit des informations essentielles pour leur *planning* familial, ou
-- b. si l’analyse a pour but de déterminer si des tissus, des cellules ou le sang d’une personne incapable de discernement conviennent, compte tenu de ses groupes sanguins ou de ses caractéristiques sanguines ou tissulaires, à un transfert chez un receveur au sens de la loi du 8 octobre 2004 sur la transplantation[^16-1] ou de la loi du 15 décembre 2000 sur les produits thérapeutiques[^16-2].
+- b.[^16-1] si l’analyse en rapport avec une transplantation ou une transfusion autorisées en vertu de la loi du 8 octobre 2004 sur la transplantation[^16-2] ou la loi du 15 décembre 2000 sur les produits thérapeutiques[^16-3] est nécessaire.
 
-[^16-1]: [RS 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
-[^16-2]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^16-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 421](https://fedlex.data.admin.ch/eli/oc/2025/421); [FF 2023 721](https://fedlex.data.admin.ch/eli/fga/2023/721)).
+[^16-2]: [RS 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
+[^16-3]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
 #### Art. 17
 
@@ -338,7 +341,9 @@ Le conseil dispensé doit contenir, en sus de l’information visée à l’art.
 
 <sup>3</sup> Si la femme enceinte envisage un avortement dans le cadre de l’analyse, elle doit également être informée des autres solutions et de l’existence d’associations de parents d’enfants handicapés et de groupes d’entraide.
 
-<sup>4</sup> Le conjoint ou le partenaire de la femme enceinte est si possible associé au conseil génétique.
+<sup>4</sup> Le mari ou l’épouse ou le ou la partenaire de la femme enceinte est si possible associé au conseil génétique.[^22-1]
+
+[^22-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 421](https://fedlex.data.admin.ch/eli/oc/2025/421); [FF 2023 721](https://fedlex.data.admin.ch/eli/fga/2023/721)).
 
 #### Art. 23
 
@@ -362,7 +367,7 @@ Avant toute analyse prénatale visant à évaluer un risque, la femme enceinte d
 
 <sup>3</sup> Les cantons peuvent confier les tâches prévues à l’al. 2 aux centres de consultation au sens de la loi fédérale du 9 octobre 1981 sur les centres de consultation en matière de grossesse[^24-1].
 
-[^24-1]: [RS 857.5](https://fedlex.data.admin.ch/eli/cc/1983/2003_2003_2003)
+[^24-1]: [RS 857.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10375)
 
 #### Art. 25
 
@@ -380,7 +385,7 @@ Le consentement à une analyse génétique présymptomatique, à une analyse gé
 
 <sup>3</sup> Si la communication du résultat à des membres de la famille ou à d’autres proches est indispensable à la protection de leurs intérêts et que le consentement de la personne concernée à la communication fait défaut, le médecin peut demander à l’autorité cantonale compétente de lever le secret professionnel, conformément à l’art. 321, ch. 2, du code pénal[^26-1]. L’autorité peut solliciter l’avis de la commission.
 
-[^26-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^26-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 27
 
@@ -591,7 +596,7 @@ En lien avec des rapports de travail, le médecin mandaté par l’employeur peu
 
 <sup>2</sup> Si l’analyse génétique doit être réalisée pour prévenir une maladie professionnelle, l’autorisation de la CNA est requise.
 
-[^40-1]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^40-1]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 
 #### Art. 41
 
@@ -599,8 +604,8 @@ En lien avec des rapports de travail, le médecin mandaté par l’employeur peu
 
 La surveillance du respect des art. 37 à 40 par l’employeur est régie par les dispositions de la loi du 13 mars 1964 sur le travail[^41-1] et de la loi fédérale du 20 mars 1981 sur l’assurance-accidents[^41-2].
 
-[^41-1]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
-[^41-2]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^41-1]: [RS 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
+[^41-2]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 
 ### Section 3 Analyses génétiques dans le cadre de rapports d’assurance
 
@@ -628,7 +633,7 @@ Une institution d’assurance ne peut ni demander ni utiliser les données gén�
 
 <sup>3</sup> L’institution d’assurance ne peut ni demander ni utiliser des données génétiques relatives au preneur d’assurance qui proviennent d’analyses génétiques prénatales ou d’analyses visant à établir un *planning* familial réalisées antérieurement.
 
-[^43-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^43-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 44
 
@@ -699,7 +704,7 @@ Lorsque la personne avec laquelle un lien de filiation doit être déterminé es
 
 <sup>2</sup> Les échantillons prélevés dans le cadre de la procédure et les données provenant de ces échantillons doivent être conservés par le laboratoire jusqu’à l’entrée en force du jugement. Le juge qui a ordonné l’analyse informe le laboratoire de l’entrée en force.
 
-[^49-1]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^49-1]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 #### Art. 50
 
@@ -721,7 +726,7 @@ Lorsque la personne avec laquelle un lien de filiation doit être déterminé es
 
 <sup>3</sup> Dans le cas des profils d’ADN visant à déterminer la filiation, le laboratoire qui établit le profil d’ADN doit, avant de procéder à l’analyse, informer la personne concernée des dispositions du code civil[^51-1] relatives à l’établissement de la filiation et des possibles répercussions psychiques et sociales de l’analyse. L’information doit être transmise par écrit.
 
-[^51-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^51-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 52
 
@@ -841,7 +846,7 @@ Est puni de l’amende quiconque, intentionnellement:
 
 <sup>2</sup> Les art. 6 et 7, qui régissent les infractions commises dans une entreprise, et l’art. 15, qui régit les faux dans les titres et l’obtention frauduleuse d’une constatation fausse, de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^58-1] sont applicables.
 
-[^58-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^58-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Chapitre 9 Dispositions finales
 

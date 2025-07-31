@@ -4,11 +4,11 @@ title: Legge federale del 15 giugno 2018 concernente gli esami genetici sull’e
 short: LEGU
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/537"
 language: it
-version: 2022-12-01
+version: 2025-08-01
 adopted: 2018-06-15
 in_force: 2022-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/537/20221201/it/xml/fedlex-data-admin-ch-eli-cc-2022-537-20221201-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/537/20221201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/537/20250801/it/xml/fedlex-data-admin-ch-eli-cc-2022-537-20250801-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/537/20250801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/537/20221201/it"
 
 (LEGU)
 
-del 15 giugno 2018 (Stato 1° dicembre 2022)
+del 15 giugno 2018 (Stato 1° agosto 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visti gli articoli 98 capoverso 3, 110 capoverso 1, 113 capoverso 1, 117 capover
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2017 4807](https://fedlex.data.admin.ch/eli/fga/2017/1501)
 
 ## Capitolo 1: Disposizioni generali
@@ -67,18 +67,20 @@ Agli esami genetici volti a determinare caratteristiche del patrimonio genetico 
 
 <sup>2</sup>
 
-Agli esami genetici per la tipizzazione di gruppi sanguigni o di caratteristiche ematiche o tissutali eseguiti nell’ambito di trasfusioni di sangue e di trapianti di organi, tessuti e cellule si applicano gli articoli 3–12, 27, 33 e 56–58. Il Consiglio federale, sentita la Commissione, può:
+Agli esami genetici per la tipizzazione di gruppi sanguigni o di caratteristiche ematiche o tissutali eseguiti nell’ambito di trasfusioni di sangue e di trapianti di organi, tessuti e cellule si applicano gli articoli 3–12, 16 capoverso 2 lettera b, 17 capoversi 1 lettere b e c, 2 lettera b e 3, 27, 33 e 56–58. Il Consiglio federale, sentita la Commissione, può:[^2-1]
 
-- a. escludere tali esami dal campo d’applicazione della presente legge se dalla loro esecuzione non risultano informazioni eccedenti su caratteristiche trasmesse ai discendenti;
+- a.[^2-2] stabilire che sono applicabili soltanto gli articoli 16 capoverso 2 lettera b e 17 capoversi 1 lettere b e c, 2 lettera b e 3 se dall’esecuzione di tali esami non risultano informazioni eccedenti su caratteristiche trasmesse ai discendenti;
 - b. prevedere disposizioni derogatorie sull’informazione di cui all’articolo 6;
 - c. dichiarare applicabili anche agli esami genetici nell’ambito delle cure post-trapianto le disposizioni relative agli esami per la tipizzazione di gruppi sanguigni o di caratteristiche ematiche o tissutali.
 
-<sup>3</sup> All’allestimento di profili del DNA volti a determinare la filiazione o l’identità di una persona si applicano, oltre al capitolo 5, soltanto gli articoli 3–5, 7–13, 15 e 56–58. L’utilizzo di profili del DNA nel procedimento penale o per l’identificazione di persone sconosciute o scomparse è disciplinato dalla legge del 20 giugno 2003[^2-1] sui profili del DNA.
+<sup>3</sup> All’allestimento di profili del DNA volti a determinare la filiazione o l’identità di una persona si applicano, oltre al capitolo 5, soltanto gli articoli 3–5, 7–13, 15 e 56–58. L’utilizzo di profili del DNA nel procedimento penale o per l’identificazione di persone sconosciute o scomparse è disciplinato dalla legge del 20 giugno 2003[^2-3] sui profili del DNA.
 
-<sup>4</sup> Gli esami genetici e prenatali nell’ambito della ricerca sulle malattie umane nonché sulla morfologia e sulla funzione del corpo umano sono disciplinati dalla legge del 30 settembre 2011[^2-2] sulla ricerca umana.
+<sup>4</sup> Gli esami genetici e prenatali nell’ambito della ricerca sulle malattie umane nonché sulla morfologia e sulla funzione del corpo umano sono disciplinati dalla legge del 30 settembre 2011[^2-4] sulla ricerca umana.
 
-[^2-1]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
-[^2-2]: [RS 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
+[^2-1]: Nuovo testo giusta l’all. n. 3 della LF del 29 set. 2023, in vigore dal 1° ago. 2025 ([RU 2025 421](https://fedlex.data.admin.ch/eli/oc/2025/421); [FF 2023 721](https://fedlex.data.admin.ch/eli/fga/2023/721)).
+[^2-2]: Nuovo testo giusta l’all. n. 3 della LF del 29 set. 2023, in vigore dal 1° ago. 2025 ([RU 2025 421](https://fedlex.data.admin.ch/eli/oc/2025/421); [FF 2023 721](https://fedlex.data.admin.ch/eli/fga/2023/721)).
+[^2-3]: [RS 363](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6319)
+[^2-4]: [RS 810.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9248)
 
 #### Art. 3
 
@@ -225,10 +227,11 @@ Gli esami genetici e prenatali devono essere eseguiti conformemente allo stato d
 In deroga al capoverso 1, un esame genetico può essere eseguito se il rischio e l’incomodo per la persona incapace di discernimento sono minimi, se tale persona non si oppone all’esame in modo ravvisabile, né verbalmente né attraverso comportamenti particolari, e se:
 
 - a. non è possibile accertare in altro modo una grave malattia ereditaria nella famiglia o lo stato di portatore di una tale malattia e il risultato dell’esame comporta un notevole beneficio per la salute dei membri della famiglia o fornisce informazioni essenziali per la pianificazione familiare; o
-- b. l’esame serve a determinare se i tessuti, le cellule o il sangue della persona incapace di discernimento sono idonei, in base ai gruppi sanguigni o alle caratteristiche ematiche o tissutali, per essere trasferiti a un ricevente secondo la legge dell’8 ottobre 2004[^16-1] sui trapianti o la legge del 15 dicembre 2000[^16-2] sugli agenti terapeutici.
+- b [^16-1] l’esame è necessario nell’ambito di un trapianto o di una trasfusione consentiti secondo la legge dell’8 ottobre 2004[^16-2] sui trapianti o la legge del 15 dicembre 2000[^16-3] sugli agenti terapeutici.
 
-[^16-1]: [RS 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
-[^16-2]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^16-1]: Nuovo testo giusta l’all. n. 3 della LF del 29 set. 2023, in vigore dal 1° ago. 2025 ([RU 2025 421](https://fedlex.data.admin.ch/eli/oc/2025/421); [FF 2023 721](https://fedlex.data.admin.ch/eli/fga/2023/721)).
+[^16-2]: [RS 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
+[^16-3]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
 #### Art. 17
 
@@ -360,7 +363,7 @@ Prima dell’esecuzione di un esame prenatale volto a valutare un rischio, la do
 
 <sup>3</sup> I Cantoni possono delegare i compiti di cui al capoverso 2 ai consultori secondo la legge federale del 9 ottobre 1981[^24-1] sui consultori di gravidanza.
 
-[^24-1]: [RS 857.5](https://fedlex.data.admin.ch/eli/cc/1983/2003_2003_2003)
+[^24-1]: [RS 857.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10375)
 
 #### Art. 25
 
@@ -378,7 +381,7 @@ Il consenso a un esame genetico presintomatico o prenatale o a un esame nell’a
 
 <sup>3</sup> Se la comunicazione del risultato ai familiari o ad altre persone vicine è necessaria per tutelarne gli interessi e manca il consenso della persona interessata, il medico può chiedere all’autorità cantonale competente di essere sciolto dal segreto professionale secondo l’articolo 321 numero 2 del Codice penale[^26-1]. L’autorità può chiedere il parere della Commissione.
 
-[^26-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^26-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 27
 
@@ -589,7 +592,7 @@ Il medico incaricato dal datore di lavoro può prescrivere un esame genetico pre
 
 <sup>2</sup> Per eseguire un esame genetico volto a prevenire una malattia professionale è necessaria l’approvazione dell’INSAI.
 
-[^40-1]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^40-1]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 
 #### Art. 41
 
@@ -597,8 +600,8 @@ Il medico incaricato dal datore di lavoro può prescrivere un esame genetico pre
 
 La vigilanza sul rispetto degli articoli 37–40 da parte del datore di lavoro è disciplinata dalle disposizioni della legge del 13 marzo 1964[^41-1] sul lavoro e della legge federale del 20 marzo 1981[^41-2] sull’assicurazione contro gli infortuni.
 
-[^41-1]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
-[^41-2]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^41-1]: [RS 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
+[^41-2]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 
 ### Sezione 3: Esami genetici nell’ambito di rapporti assicurativi
 
@@ -626,7 +629,7 @@ Gli istituti di assicurazione non possono né chiedere né utilizzare dati genet
 
 <sup>3</sup> Gli istituti di assicurazione non possono né chiedere né utilizzare dati genetici relativi alla persona da assicurare risultanti da precedenti esami genetici prenatali o esami nell’ambito della pianificazione familiare.
 
-[^43-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^43-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 44
 
@@ -697,7 +700,7 @@ Se la persona di cui si deve determinare il rapporto di filiazione è deceduta, 
 
 <sup>2</sup> Il laboratorio deve conservare i campioni prelevati nell’ambito del procedimento e i dati risultanti fino al passaggio in giudicato della sentenza. Il giudice che ha ordinato l’esame informa il laboratorio sul passaggio in giudicato.
 
-[^49-1]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^49-1]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 #### Art. 50
 
@@ -719,7 +722,7 @@ Se la persona di cui si deve determinare il rapporto di filiazione è deceduta, 
 
 <sup>3</sup> Per i profili del DNA volti a determinare la filiazione, prima dell’esame il laboratorio che allestisce i profili del DNA deve informare le persone interessate sulle disposizioni del Codice civile[^51-1] relative al sorgere della filiazione e sulle possibili ripercussioni psichiche e sociali dell’esame. L’informazione avviene per scritto.
 
-[^51-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^51-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 52
 
@@ -839,7 +842,7 @@ La Commissione adempie in particolare i seguenti compiti:
 
 <sup>2</sup> Sono applicabili gli articoli 6 e 7 sulle infrazioni commesse nell’azienda nonché l’articolo 15 sulla falsità in documenti e il conseguimento fraudolento di una falsa attestazione della legge federale del 22 marzo 1974[^58-1] sul diritto penale amministrativo.
 
-[^58-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^58-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Capitolo 9: Disposizioni finali
 
@@ -873,7 +876,7 @@ L’abrogazione e la modifica di altri atti normativi sono disciplinate nell’a
 
 Data dell’entrata in vigore: 1° dicembre 2022[^61-1]
 
-[^61-1]: DCF del 23 settembre 2022
+[^61-1]: DCF del 23 set. 2022.
 
 Allegato
 
