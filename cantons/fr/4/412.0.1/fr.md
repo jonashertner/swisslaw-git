@@ -4,13 +4,13 @@ number: "412.0.1"
 title: "Loi sur l'enseignement secondaire supérieur"
 short: LESS
 language: fr
-version: 2024-01-01
-valid_until: 2025-07-31
-version_adopted: 2023-10-12
+version: 2025-08-01
+valid_until: 2025-08-14
+version_adopted: 2023-06-29
 adopted: 2018-12-11
 in_force: 2019-08-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/412.0.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7918/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8213/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Enseignement secondaire supérieur - L
 
 (LESS)
 
-du 11.12.2018 (version entrée en vigueur le 01.01.2024)
+du 11.12.2018 (version entrée en vigueur le 01.08.2025)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -174,7 +174,7 @@ Décrète:
 
 **Formation en école de culture générale**
 
-<sup>1</sup> La formation en école de culture générale a pour but de préparer à une formation dans une école supérieure, dans une haute école spécialisée ou dans une haute école pédagogique.
+<sup>1</sup> La formation en école de culture générale a pour but de préparer à une formation dans une école supérieure, dans une haute école spécialisée, dans une haute école pédagogique ou au cursus de formation à l'enseignement primaire à l'Université de Fribourg.
 
 <sup>2</sup> Cette formation conduit au certificat de culture générale ainsi qu'au certificat de maturité spécialisée.
 

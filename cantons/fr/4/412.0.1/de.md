@@ -4,13 +4,13 @@ number: "412.0.1"
 title: Gesetz über den Mittelschulunterricht
 short: MSG
 language: de
-version: 2024-01-01
-valid_until: 2025-07-31
-version_adopted: 2023-10-12
+version: 2025-08-01
+valid_until: 2025-08-14
+version_adopted: 2023-06-29
 adopted: 2018-12-11
 in_force: 2019-08-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/412.0.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7918/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8213/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Mittelschulunterricht - G
 
 (MSG)
 
-vom 11.12.2018 (Fassung in Kraft getreten am 01.01.2024)
+vom 11.12.2018 (Fassung in Kraft getreten am 01.08.2025)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -174,7 +174,7 @@ beschliesst:
 
 **Fachmittelschulausbildung**
 
-<sup>1</sup> Die Fachmittelschulausbildung hat zum Ziel, die Schülerinnen und Schüler auf eine höhere berufliche Fachausbildung oder auf ein Studium an einer Fachhochschule oder einer pädagogischen Hochschule vorzubereiten.
+<sup>1</sup> Die Fachmittelschulausbildung hat zum Ziel, die Schülerinnen und Schüler auf eine höhere berufliche Fachausbildung oder auf ein Studium an einer Fachhochschule, an einer pädagogischen Hochschule oder auf den Studiengang für die Primarstufe an der Universität Freiburg vorzubereiten.
 
 <sup>2</sup> Der Bildungsgang führt zur Erlangung des Fachmittelschulausweises und zur Fachmaturität.
 
