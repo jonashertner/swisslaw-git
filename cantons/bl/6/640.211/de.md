@@ -3,20 +3,19 @@ canton: BL
 number: "640.211"
 title: Reglement über die Leistungsbeurteilung an der Volksschule des Kantons Basel-Landschaft
 language: de
-version: 2023-08-01
-valid_until: 2025-07-31
-version_adopted: 2023-08-22
+version: 2025-08-01
+version_adopted: 2025-03-26
 adopted: 2022-03-26
 in_force: 2022-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/640.211"
-pdf: "https://bl.clex.ch/api/de/versions/3713/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4263/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Leistungsbeurteilung an der Volksschule des Kantons Basel-Landschaft
 
-Vom 26.03.2022 (Stand 01.08.2023)
+Vom 26.03.2022 (Stand 01.08.2025)
 
 Die Bildungs-, Kultur- und Sportdirektion,
 
@@ -80,10 +79,11 @@ beschliesst auf Antrag des Amts für Volksschulen:
 
 <sup>1</sup> Folgende Arten von Leistungserhebungen bestehen:
 
-- a. schriftliche Arbeiten;
-- b. praktische und gestalterische Arbeiten;
-- c. mündliche Prüfungen und Leistungen sowie Referate;
-- d. mündliche und praktische Beiträge.
+- a. schriftlich;
+- b. mündlich;
+- c. gestalterisch;
+- d. praktisch;
+- e. sportlich.
 
 <sup>1<sup>bis</sup></sup> Die verschiedenen Arten von Leistungserhebungen sind gleichwertig und grundsätzlich in allen Fächern zulässig.
 
@@ -117,9 +117,9 @@ beschliesst auf Antrag des Amts für Volksschulen:
 
 #### § 6
 
-**Anzahl Leistungserhebungen**
+**Anzahl Leistungserhebungen und Rahmenbedingungen**
 
-<sup>1</sup> Den Jahrespromotionen in der Primarschule entspricht die Mindestanzahl an ganzzählenden Leistungserhebungen der Anzahl Wochenlektionen. Ausnahmen beschliesst die Schulleitung.
+<sup>1</sup> Bei den Jahrespromotionen in der Primarschule entspricht die Mindestanzahl an ganzzählenden Leistungserhebungen in einem Fach der Anzahl Wochenlektionen. Ausnahmen beschliesst die Schulleitung.
 
 <sup>1<sup>bis</sup></sup> Bei den Jahrespromotionen in der 1. und 2. Klasse der Sekundarschule entspricht die Mindestanzahl an ganzzählenden Leistungserhebungen in einem Fach der Anzahl Wochenlektionen plus 2. Ausnahmen beschliesst die Schulleitung.
 
@@ -128,6 +128,12 @@ beschliesst auf Antrag des Amts für Volksschulen:
 <sup>3</sup> Im Zeugnis des 2. Semesters der 3. Klasse der Sekundarschule wird Abs. 1<sup>bis</sup> angewendet, wobei die Leistungsbeurteilungen der beiden Semester möglichst in gleichen Teilen in die Zeugnisnote einfliessen sollen.
 
 <sup>4</sup> …
+
+<sup>5</sup> An der Sekundarschule dürfen im Klassen- und Kursverbund pro Tag nicht mehr als 2, pro Woche nicht mehr als 5 Leistungserhebungen gemäss § 4 Abs. 1 Bst. a und b durchgeführt werden.
+
+<sup>6</sup> An der Sekundarschule hat die Ankündigung von Leistungserhebungen spätestens 1 Woche vor dem Termin der Leistungserhebung zu erfolgen. Ausgenommen sind Zusatzarbeiten.
+
+<sup>7</sup> Unangekündigte Leistungserhebungen sind zulässig. Die Anzahl unangekündigter Leistungserhebungen ist bei Schuljahresbeginn den Schülerinnen und Schülern bekanntzugeben. Sie dürfen insgesamt nicht mit mehr als 20 % in die Zeugnisnote einfliessen.
 
 #### § 6a
 
