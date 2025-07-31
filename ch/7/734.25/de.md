@@ -4,11 +4,11 @@ title: Verordnung vom 2. Februar 2000 über das Plangenehmigungsverfahren für e
 short: VPeA
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/123"
 language: de
-version: 2024-01-01
+version: 2025-08-01
 adopted: 2000-02-02
 in_force: 2000-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/123/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2000-123-20240101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/123/20250801/de/xml/fedlex-data-admin-ch-eli-cc-2000-123-20250801-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20250801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20240101/de"
 
 (VPeA)
 
-vom 2. Februar 2000
+vom 2. Februar 2000 (Stand am 1. August 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -222,7 +222,7 @@ Die Unterlagen, die dem Inspektorat zur Genehmigung einzureichen sind, müssen a
 
 <sup>1bis</sup> Bei Vorhaben, die den erstmaligen oder einen leistungsfähigeren Anschluss von Liegenschaften oder Siedlungen ausserhalb der Bauzone an das Elektrizitätsnetz zum Gegenstand haben, ist den Unterlagen ein rechtskräftiger Entscheid des Kantons beizulegen, wonach der Anschluss zulässig ist.[^2-3]
 
-<sup>1</sup> <sup>ter</sup> Sind Enteignungen notwendig, ist das Gesuch mit den Angaben nach Artikel 28 des Bundesgesetzes über die Enteignung vom 20. Juni 1930[^2-4] zu ergänzen.[^2-5]
+<sup>1<sup>ter</sup></sup> Sind Enteignungen notwendig, ist das Gesuch mit den Angaben nach Artikel 28 des Bundesgesetzes über die Enteignung vom 20. Juni 1930[^2-4] zu ergänzen.[^2-5]
 
 <sup>2</sup> Das Inspektorat erlässt Richtlinien über Art, Darstellung, Inhalt und Anzahl der einzureichenden Unterlagen.
 
@@ -378,8 +378,9 @@ Als geringfügige technische Änderungen gelten, sofern dadurch das Erscheinungs
 - a. der Ersatz von Erdseilen durch Erdseile mit integrierten Lichtwellenleitern sowie deren Verwendung zur Durchleitung von Daten der Betriebsinhaberin oder Dritter;
 - b. Massnahmen zur Phasen-, Verlust- und Lärmoptimierung von Leitungen, sofern der massgebende Strom nach Anhang 1 Ziffer 13 Absatz 2 NISV[^9a-2] nicht dauerhaft erhöht wird;
 - c. der Ersatz von Isolatoren durch Isolatoren anderer Bauart;
-- d. der Ersatz von Kabeln in bestehenden Rohranlagen durch Kabel anderer Bauart, sofern weder die Rohrbelegung verändert noch der massgebende Strom nach Anhang 1 Ziffer 13 Absatz 2 NISV dauerhaft erhöht wird; und
-- e. der Ersatz von Transformatoren in bestehenden Stationen durch Transformatoren des gleichen Typs mit höherer Leistung.
+- d. der Ersatz von Kabeln in bestehenden Rohranlagen durch Kabel anderer Bauart, sofern weder die Rohrbelegung verändert noch der massgebende Strom nach Anhang 1 Ziffer 13 Absatz 2 NISV dauerhaft erhöht wird;
+- e. der Ersatz von Transformatoren in bestehenden Stationen durch Transformatoren des gleichen Typs mit höherer Leistung; und
+- f.[^9a-3] die Umsetzung von Vorkehren zum Vogelschutz nach Artikel 30 Leitungsverordnung vom 30. März 1994[^9a-4].
 
 <sup>4</sup> Bei Instandhaltungsarbeiten entscheidet das Inspektorat im Zweifelsfall über die Plangenehmigungspflicht.
 
@@ -389,6 +390,8 @@ Als geringfügige technische Änderungen gelten, sofern dadurch das Erscheinungs
 
 [^9a-1]: Eingefügt durch Ziff. I der V vom 9. Okt. 2013 ([AS 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)). Fassung gemäss Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
 [^9a-2]: [SR 814.710](https://fedlex.data.admin.ch/eli/cc/2000/38)
+[^9a-3]: Eingefügt durch Ziff. II der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 451](https://fedlex.data.admin.ch/eli/oc/2025/451)).
+[^9a-4]: [SR 734.31](https://fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233)
 
 #### Art. 9b
 
@@ -453,7 +456,7 @@ Wird die Ausführung eines rechtzeitig begonnenen Bauvorhabens für länger als 
 
 <sup>2</sup> Sie muss die kantonale Vermessungsaufsicht über Änderungen von Anlagen informieren, die eine Nachführung der amtlichen Vermessung notwendig machen. Sie bestätigt den Vollzug dieser Meldung mit der Mitteilung nach Absatz 1.[^12-1]
 
-[^12-1]: Eingefügt durch Anhang Ziff. 11 der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 (AS **20****2****3** 529).
+[^12-1]: Eingefügt durch Anhang Ziff. 11 der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 13
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 2 février 2000 sur la procédure d'approbation des plans 
 short: OPIE
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/123"
 language: fr
-version: 2024-01-01
+version: 2025-08-01
 adopted: 2000-02-02
 in_force: 2000-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/123/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-123-20240101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/123/20250801/fr/xml/fedlex-data-admin-ch-eli-cc-2000-123-20250801-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20250801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20240101/fr"
 
 (OPIE)
 
-du 2 février 2000 (État le 1<sup>er</sup> janvier 2024)
+du 2 février 2000 (État le 1<sup>er</sup> août 2025)
 
 Le Conseil fédéral suisse,
 
@@ -379,8 +379,9 @@ On entend par petites modifications techniques, les modifications qui n’altèr
 - a. le remplacement des fils de terre par des fils de terre avec conducteurs à fibres optiques intégrés ainsi que leur utilisation pour acheminer les données de l’exploitant ou de tiers;
 - b. les mesures visant à optimiser les phases, les pertes et le bruit des lignes, pour autant que le courant déterminant visé à l’annexe 1, ch. 13, al. 2, ORNI[^9a-2] ne soit pas augmenté durablement;
 - c. le remplacement des isolants par des isolants d’un autre type de construction;
-- d. le remplacement des câbles dans les canalisations existantes par des câbles d’un autre type de construction, pour autant que la configuration dans les tubes ne change pas et que le courant déterminant visé à l’annexe 1, ch. 13, al. 2, ORNI ne soit pas augmenté durablement, et
-- e. le remplacement de transformateurs sur des stations existantes par des transformateurs de même type dotés d’une puissance supérieure.
+- d. le remplacement des câbles dans les canalisations existantes par des câbles d’un autre type de construction, pour autant que la configuration dans les tubes ne change pas et que le courant déterminant visé à l’annexe 1, ch. 13, al. 2, ORNI ne soit pas augmenté durablement;
+- e. le remplacement de transformateurs sur des stations existantes par des transformateurs de même type dotés d’une puissance supérieure, et
+- f.[^9a-3] la mise en œuvre des mesures de protection des oiseaux visées à l’art. 30 de l’ordonnance du 30 mars 1994 sur les lignes électriques[^9a-4].
 
 <sup>4</sup> En cas de doute concernant des travaux d’entretien, l’inspection décide de l’obligation d’approbation des plans.
 
@@ -390,6 +391,8 @@ On entend par petites modifications techniques, les modifications qui n’altèr
 
 [^9a-1]: Introduit par le ch. I de l’O du 9 oct. 2013 ([RO 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)). Nouvelle teneur selon le ch. I de l’O du 3 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
 [^9a-2]: [RS 814.710](https://fedlex.data.admin.ch/eli/cc/2000/38)
+[^9a-3]: Introduite par le ch. II de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 451](https://fedlex.data.admin.ch/eli/oc/2025/451)).
+[^9a-4]: [RS 734.31](https://fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233)
 
 #### Art. 9b
 
