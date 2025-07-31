@@ -4,13 +4,13 @@ number: "422.200"
 title: Gesetz über die Berufs- und Weiterbildung
 short: GBW
 language: de
-version: 2024-07-01
-valid_until: 2025-07-31
-version_adopted: 2023-09-19
+version: 2025-08-01
+valid_until: 2025-12-31
+version_adopted: 2024-11-05
 adopted: 2007-03-06
 in_force: 2008-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/422.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3719/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3811/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3719/pdf_file"
 
 (GBW)
 
-Vom 06.03.2007 (Stand 01.07.2024)
+Vom 06.03.2007 (Stand 01.08.2025)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -56,7 +56,7 @@ beschliesst:
 - c) mit einem bedarfsgerechten Bildungsangebot die Wirtschaftskraft und die Wettbewerbsfähigkeit des Kantons stärken,
 - d) die Berufsbildung, die Weiterbildung und die Beratung laufend auf die Bedürfnisse einzelner Personen, der Gesellschaft und der Arbeitswelt ausrichten,
 - e) einem bestehenden oder sich abzeichnenden Ungleichgewicht auf dem Markt für berufliche Grundbildung entgegenwirken,
-- f) die Bildungschancen ausgleichen und zur tatsächlichen Gleichstellung von Frau und Mann beitragen,
+- f) die Bildungschancen ausgleichen, zur tatsächlichen Gleichstellung von Frau und Mann beitragen, die Benachteiligungen von Menschen mit Behinderungen beseitigen sowie die Chancengleichheit und Integration von Ausländerinnen und Ausländern fördern,
 - g) die interkantonale Harmonisierung und Zusammenarbeit fördern,
 - h) mit Information und Dokumentation die Transparenz des Berufs- und Weiterbildungssystems fördern und neue Entwicklungstendenzen im Berufs- und Weiterbildungswesen bekanntmachen,
 - i) zur Erhöhung der Qualität und zur Förderung der Innovation in der Berufs- und Weiterbildung beitragen,
@@ -77,15 +77,15 @@ beschliesst:
 
 #### § 5
 
-**Leistungsvereinbarungen**
+**Leistungsverträge**
 
-<sup>1</sup> Der Kanton kann zur Wahrnehmung der Aufgaben in der Berufs- oder Weiterbildung Leistungsvereinbarungen abschliessen. Diese umfassen in der Regel mehrjährige Rahmenverträge und jährliche Leistungsverträge.
+<sup>1</sup> Der Kanton kann zur Wahrnehmung der Aufgaben in der Berufs- oder Weiterbildung Leistungsverträge abschliessen. Diese umfassen in der Regel mehrjährige Rahmen- und Jahresverträge.
 
-<sup>2</sup> Die Leistungsvereinbarungen regeln insbesondere Inhalt und Qualität des Angebots, Qualitätssicherung und Qualitätsentwicklung, Abteilungsgrössen in der beruflichen Grundbildung, Mitwirkung bei Qualifikationsverfahren, Verantwortlichkeiten der Beteiligten, Rechenschaftslegung sowie Leistungsabgeltung.
+<sup>2</sup> Die Leistungsverträge regeln insbesondere Inhalt und Qualität des Angebots, Qualitätssicherung und Qualitätsentwicklung, Abteilungsgrössen in der beruflichen Grundbildung, Mitwirkung bei Qualifikationsverfahren, Verantwortlichkeiten der Beteiligten, Rechenschaftslegung sowie Leistungsabgeltung.
 
-<sup>3</sup> Der Regierungsrat legt Leistungsvereinbarungsperioden, Kontrollverfahren und Finanzierungsgrundsätze fest.
+<sup>3</sup> Der Regierungsrat regelt durch Verordnung Leistungsvertragsperioden, Controlling und Finanzierungsgrundsätze.
 
-<sup>4</sup> Das Departement Bildung, Kultur und Sport schliesst für den Kanton die Leistungsvereinbarungen ab.
+<sup>4</sup> Das Departement Bildung, Kultur und Sport schliesst für den Kanton die Leistungsverträge ab.
 
 #### § 5a
 
@@ -129,6 +129,8 @@ beschliesst:
 
 <sup>1</sup> Zur Vorbereitung auf die berufliche Grundbildung führt der Kanton Brückenangebote für lern- und leistungsbereite Jugendliche mit individuellen Bildungsdefiziten.
 
+<sup>1<sup>bis</sup></sup> Der Kanton kann Angebote zur Vorbereitung auf die berufliche Grundbildung für Erwachsene mit individuellen Bildungsdefiziten führen oder fördern, die wesentliche Teile oder die gesamte obligatorische Schulzeit nicht in der Schweiz absolvierten.
+
 <sup>2</sup> Der Regierungsrat legt die Standorte fest und regelt Angebote, Organisation, Aufnahmekriterien und Aufsicht.
 
 #### § 8
@@ -139,16 +141,17 @@ beschliesst:
 
 #### § 9
 
-**Lernende mit besonderen bildungsrelevanten Bedürfnissen**
+**Lernende mit besonderen bildungsrelevanten Bedürfnissen oder Begabungen**
 
-<sup>1</sup> Für Lernende mit besonderen bildungsrelevanten Bedürfnissen kann der Kanton ein geeignetes, begabungsorientiertes oder nicht berufsspezifisches Angebot fördern oder führen.
+<sup>1</sup> Für Lernende mit besonderen bildungsrelevanten Bedürfnissen oder Begabungen kann der Kanton ein geeignetes Angebot fördern oder führen.
 
 <sup>2</sup> Der Kanton kann insbesondere folgende Angebote vorsehen:
 
 - a) Umwandlung des Lehrverhältnisses,
 - b) Verlängerung beziehungsweise Verkürzung der Ausbildungszeit,
 - c) Bereitstellung fachkundiger individueller Begleitung (FIB),
-- d) Ausstellung eines Kompetenznachweises bei nicht bestandenem Qualifikationsverfahren.
+- d) Ausstellung eines Kompetenznachweises bei nicht bestandenem Qualifikationsverfahren,
+- e) Begabtenförderung.
 
 <sup>2<sup>bis</sup></sup> Die Angebote gemäss Absatz 2 sind für die Lernenden unentgeltlich. Ausgenommen ist die FIB für Lernende der drei- oder vierjährigen beruflichen Grundbildung, für die eine Gebühr erhoben werden kann.
 
@@ -166,9 +169,9 @@ beschliesst:
 
 **Aufsicht**
 
-<sup>1</sup> Die Aufsicht im Sinne von Art. 24 BBG über die Angebote der Bildung in beruflicher Praxis wird durch das Berufsinspektorat und von ihm beigezogene Fachpersonen wahrgenommen.
+<sup>1</sup> Das Departement Bildung, Kultur und Sport führt die Aufsicht über die Anbieter der beruflichen Grundbildung gemäss Art. 24 BBG. Bei Bedarf können externe Fachpersonen beigezogen werden.
 
-<sup>2</sup> Das Departement Bildung, Kultur und Sport beaufsichtigt die schulischen Angebote.
+<sup>2</sup> …
 
 <sup>3</sup> Der Regierungsrat regelt die Aufsichtsmassnahmen; er kann namentlich Zwischenprüfungen vorsehen.
 
@@ -182,15 +185,15 @@ beschliesst:
 
 <sup>1</sup> Das Departement Bildung, Kultur und Sport erteilt den Anbietern der Bildung in beruflicher Praxis eine Bildungsbewilligung.
 
-<sup>2</sup> Die Berufsbildungsbewilligung wird erteilt, wenn die bundesrechtlichen Anforderungen an die Berufsbildnerinnen und Berufsbildner sowie an die betrieblichen Ausbildungsinhalte erfüllt sind und eine angemessene, berufsfeldgerechte Infrastruktur vorhanden ist.
+<sup>2</sup> Die Bildungsbewilligung wird erteilt, wenn die bundesrechtlichen Anforderungen an die Berufsbildnerinnen und -bildner sowie an die betrieblichen Ausbildungsinhalte erfüllt sind und eine angemessene, berufsfeldgerechte Infrastruktur vorhanden ist.
 
-### 2.2.2. Öffentliche Anbieter der schulischen Bildung: Berufsfachschule, Berufsmaturitätsausbildung und Fachkurse
+### 2.2.2. Öffentliche Berufsfachschulen
 
 #### § 13
 
 **Standort**
 
-<sup>1</sup> Der Grosse Rat entscheidet im Rahmen der kantonalen Richtplanung gemäss § 9 Abs. 4 des Gesetzes über Raumplanung, Umweltschutz und Bauwesen (Baugesetz, BauG) vom 19. Januar 1993[^13-1] über die Standorte der Berufsfachschulen.
+<sup>1</sup> Der Grosse Rat entscheidet im Rahmen der kantonalen Richtplanung gemäss § 9 Abs. 4 des Gesetzes über Raumentwicklung und Bauwesen (Baugesetz, BauG) vom 19. Januar 1993[^13-1] über die Standorte der Berufsfachschulen.
 
 [^13-1]: SAR [713.100](https://gesetzessammlungen.ag.ch/data/713.100/de)
 
@@ -232,13 +235,35 @@ beschliesst:
 
 <sup>2</sup> Beim Erlass der Bestimmungen über die Anstellungsverhältnisse sind die Grundzüge der kantonalen Gesetzgebung über die Anstellung von Lehrpersonen, insbesondere die Arbeitszeitregelungen und die Schutznormen der Arbeitnehmenden, einzuhalten, oder es können die betreffenden Normen soweit wie möglich als sinngemäss anwendbar erklärt werden. Das Lohnsystem und die Löhne können frei geregelt werden.
 
+#### § 17a
+
+**Schuljahr und Schulferien**
+
+<sup>1</sup> Beginn und Ende des Schuljahrs sowie die Schulferien richten sich nach den Bestimmungen für die Volksschule. Aus wichtigen Gründen kann das Departement Bildung, Kultur und Sport Abweichungen bewilligen.
+
+#### § 17b
+
+**Unterricht, Lehrpläne und Promotionen**
+
+<sup>1</sup> Der allgemeinbildende und berufskundliche Unterricht, der Sportunterricht, die Lehrpläne sowie die Promotionen richten sich nach dem Bundesrecht.
+
+<sup>2</sup> Der Regierungsrat regelt durch Verordnung ergänzende Inhalte, die vom Bundesrecht den Kantonen zur Regelung überlassen werden.
+
 #### § 18
 
-**Berufsmaturität, Fachkurse**
+**Berufsmaturität**
 
-<sup>1</sup> Berufsmaturitätsausbildungen und Fachkurse werden in der Regel an öffentlichen Berufsfachschulen angeboten.
+<sup>1</sup> Berufsmaturitätsausbildungen werden in der Regel an öffentlichen Berufsfachschulen angeboten.
 
-<sup>2</sup> Der Regierungrat regelt Aufnahme, Unterricht, Abschluss, Organisation und Zuständigkeiten.
+<sup>2</sup> Der Regierungsrat regelt durch Verordnung Aufnahme, Unterricht, Abschluss, Organisation und Zuständigkeiten.
+
+#### § 18a
+
+**Frei-, Fach- und Stützkurse**
+
+<sup>1</sup> Frei-, Fach- und Stützkurse werden in der Regel an öffentlichen Berufsfachschulen angeboten.
+
+<sup>2</sup> Der Regierungsrat regelt durch Verordnung das Angebot und die Teilnahmevoraussetzungen.
 
 #### § 19
 
@@ -266,15 +291,15 @@ beschliesst:
 
 **Informationsaustausch**
 
-<sup>1</sup> Organe der öffentlichen Berufsfachschulen und Lehrpersonen sowie Lehrbetriebe sind zur gegenseitigen Information über die schulischen Leistungen und das Verhalten der Lernenden berechtigt und verpflichtet.
+<sup>1</sup> Organe der öffentlichen Berufsfachschulen und Lehrpersonen sowie die Anbieter der Bildung in beruflicher Praxis sind zur gegenseitigen Information über die schulischen Leistungen und das Verhalten der Lernenden berechtigt und verpflichtet.
 
 #### § 22
 
 **Disziplinarmassnahmen**
 
-<sup>1</sup> Bei schweren Verstössen gegen die Schulvorschriften kann die Schulleitung nach Rücksprache mit dem Lehrbetrieb eine bis 6 Wochen befristete Wegweisung von der Schule oder das Departement Bildung, Kultur und Sport einen Schulwechsel verfügen.
+<sup>1</sup> Bei schweren Verstössen gegen die Schulvorschriften kann die Schulleitung nach Rücksprache mit dem Anbieter der Bildung in beruflicher Praxis eine bis 6 Wochen befristete Wegweisung von der Schule oder das Departement Bildung, Kultur und Sport einen Schulwechsel verfügen.
 
-<sup>2</sup> Bei besonders schweren Verstössen gegen die Schulvorschriften kann das Departement Bildung, Kultur und Sport nach Rücksprache mit dem Lehrbetrieb die definitive Wegweisung von der Schule verfügen.
+<sup>2</sup> Bei besonders schweren Verstössen gegen die Schulvorschriften kann das Departement Bildung, Kultur und Sport nach Rücksprache mit dem Anbieter der Bildung in beruflicher Praxis die definitive Wegweisung von der Schule verfügen.
 
 <sup>3</sup> Der Regierungsrat regelt die weiteren Disziplinarmassnahmen und das Verfahren; er kann Bussen vorsehen.
 
@@ -289,6 +314,8 @@ beschliesst:
 <sup>2</sup> Wo ein verantwortlicher Träger für diese Angebote fehlt, sorgt das Departement Bildung, Kultur und Sport für deren Durchführung.
 
 <sup>3</sup> Für Angebote gemäss Absatz 2 regelt der Regierungsrat die Kostenbeteiligung der Anbieter der Bildung in beruflicher Praxis.
+
+<sup>4</sup> Die Kursleitung kann Disziplinarmassnahmen anordnen, wenn Lernende gegen Kursvorschriften verstossen. § 22 gilt sinngemäss.
 
 #### § 24
 
@@ -314,9 +341,9 @@ beschliesst:
 
 **Anerkennung und Mitwirkungspflicht**
 
-<sup>1</sup> Private Anbieter, die Lernende auf das Qualifikationsverfahren zum eidgenössischen Fähigkeitszeugnis, eidgenössischen Berufsattest oder zur eidgenössischen Berufsmaturität vorbereiten, bedürfen einer Anerkennung durch das Departement Bildung, Kultur und Sport, sofern sie nicht in mindestens einem anderen Kanton anerkannt sind.
+<sup>1</sup> Bildungsgänge privater Anbieter, die Lernende auf das Qualifikationsverfahren zum eidgenössischen Fähigkeitszeugnis, eidgenössischen Berufsattest oder zur eidgenössischen Berufsmaturität vorbereiten, bedürfen einer Anerkennung durch das Departement Bildung, Kultur und Sport.
 
-<sup>2</sup> Die Anerkennung wird erteilt, wenn die bundesrechtlichen Anforderungen an die Lehrkräfte sowie an die Berufsbildnerinnen beziehungsweise Berufsbildner und die Ausbildungsinhalte erfüllt werden und ein Qualitätsmanagementkonzept vorliegt.
+<sup>2</sup> Die Anerkennung des Bildungsgangs wird erteilt, wenn die bundesrechtlichen Anforderungen an die Lehrpersonen sowie an die Berufsbildnerinnen beziehungsweise Berufsbildner und die Ausbildungsinhalte erfüllt werden und ein Qualitätsmanagementkonzept vorliegt.
 
 <sup>3</sup> Private Anbieter, die Lernende auf das Qualifikationsverfahren zum eidgenössischen Fähigkeitszeugnis, eidgenössischen Berufsattest oder zur eidgenössischen Berufsmaturität vorbereiten, sind verpflichtet, bei den Qualifikationsverfahren mitzuwirken.
 
@@ -338,11 +365,11 @@ beschliesst:
 
 #### § 28
 
-**Anerkennung**
+**Aufsicht**
 
-<sup>1</sup> Das Departement Bildung, Kultur und Sport anerkennt öffentliche und private höhere Fachschulen.
+<sup>1</sup> Das Departement Bildung, Kultur und Sport übt die Aufsicht über die öffentlichen und privaten höheren Fachschulen aus, soweit sie eidgenössisch anerkannte Bildungsgänge anbieten.
 
-<sup>2</sup> Die Anerkennung wird erteilt, wenn mindestens ein eidgenössisch anerkannter oder kantonaler Bildungsgang angeboten wird, die Qualitätsentwicklung sowie im Gesundheits- und Sozialwesen der Gesundheits- und Präventionsdienst sichergestellt sind. Die Anerkennung in mindestens einem anderen Kanton gilt auch im Kanton Aargau.
+<sup>2</sup> …
 
 ### 3.3. Kantonale höhere Fachschulen
 
@@ -494,7 +521,7 @@ beschliesst:
 
 **Rückforderung und Anpassung des Pauschalbeitrags**
 
-<sup>1</sup> Der Kanton kann die Beiträge ganz oder teilweise zurückfordern oder künftige Beiträge kürzen, wenn die in den Leistungsvereinbarungen festgelegten Leistungen nicht oder ungenügend erbracht worden sind. Eine Kompensation über eine entsprechende Erhöhung der Gemeindebeiträge ist nicht zulässig.
+<sup>1</sup> Der Kanton kann die Beiträge ganz oder teilweise zurückfordern oder künftige Beiträge kürzen, wenn die in den Leistungsverträgen festgelegten Leistungen nicht oder ungenügend erbracht worden sind. Eine Kompensation über eine entsprechende Erhöhung der Gemeindebeiträge ist nicht zulässig.
 
 #### § 45
 
@@ -525,6 +552,17 @@ beschliesst:
 <sup>3<sup>bis</sup></sup> Liegt ein Weiterbildungsangebot weitestgehend im öffentlichen Interesse, kann der Regierungsrat die Unentgeltlichkeit durch Verordnung festlegen.
 
 <sup>4</sup> Das Departement Bildung, Kultur und Sport kann in Härtefällen die Schul- und Kursgelder ganz oder teilweise erlassen.
+
+#### § 46b
+
+**Finanzbeschlüsse für Bauvorhaben kantonaler Schulen**
+
+<sup>1</sup> Der Grosse Rat ist endgültig zuständig für Ausgabenbeschlüsse ab Fr. 5 Mio. für Bauvorhaben und der dafür notwendigen Grundstücksgeschäfte sowie Mieten folgender kantonaler Schulen:
+
+- a) Kantonale Schule für Berufsbildung in Aarau, Baden, Rheinfelden und Wohlen,
+- b) Landwirtschaftliches Zentrum Liebegg in Gränichen.
+
+<sup>2</sup> Der Regierungsrat bewilligt Verpflichtungskredite für Vorhaben gemäss Absatz 1 bis Fr. 5 Mio.
 
 #### § 46a
 
@@ -634,7 +672,7 @@ beschliesst:
 
 **Kantonsbeitrag**
 
-<sup>1</sup> Der Kanton gewährt Beiträge an grosszyklische Sanierungen, an Neu- und Umbauten sowie an Mieten von öffentlichen Berufsfachschulen.
+<sup>1</sup> Der Kanton gewährt Beiträge an grosszyklische Sanierungen, an Neu- und Umbauten sowie an Mieten von öffentlichen Berufsfachschulen gemäss § 15 GBW.
 
 <sup>2</sup> Diese betragen 60 % der anrechenbaren Ausgaben.
 
@@ -644,7 +682,7 @@ beschliesst:
 
 <sup>5</sup> Der Regierungsrat legt den Umfang und die anrechenbaren Ausgaben, das Bewilligungsverfahren und die Auszahlungsmodalitäten durch Verordnung fest.
 
-<sup>6</sup> Der Regierungsrat bewilligt Verpflichtungskredite für grosszyklische Sanierungen sowie für Neu- und Umbauten beziehungsweise für Mieten bis zu einer Kreditkompetenzsumme von Fr. 5 Mio.
+<sup>6</sup> Der Grosse Rat ist endgültig zuständig für Ausgabenbeschlüsse ab Fr. 5 Mio. für Baubeiträge und der dafür notwendigen Grundstücksgeschäfte sowie Mieten. Der Regierungsrat bewilligt Verpflichtungskredite für entsprechende Vorhaben bis Fr. 5 Mio.
 
 #### § 55
 
@@ -690,7 +728,7 @@ beschliesst:
 
 **Kantonsbeiträge**
 
-<sup>1</sup> Der Kanton leistet Beiträge gemäss Leistungsvereinbarungen an kantonale und ausserkantonale Lehrwerkstätten, an Anbieter von überbetrieblichen Kursen oder vergleichbaren Angeboten, an durchführende Organisationen von Kursen zur Bildung von Berufsbildungsverantwortlichen, an Internate sowie an kantonale und interkantonale Konferenzen.
+<sup>1</sup> Der Kanton leistet Beiträge gemäss Leistungsverträgen an kantonale und ausserkantonale Lehrwerkstätten, an Anbieter von überbetrieblichen Kursen oder vergleichbaren Angeboten, an durchführende Organisationen von Kursen zur Bildung von Berufsbildungsverantwortlichen, an Internate sowie an kantonale und interkantonale Konferenzen.
 
 ### 8.4. Höhere Berufsbildung
 
@@ -706,7 +744,7 @@ beschliesst:
 
 <sup>1</sup> Der Kanton kann erfolgreichen Absolventinnen und Absolventen mit stipendienrechtlichem Wohnsitz im Aargau Beiträge an die Prüfungsgebühren von eidgenössischen Berufsprüfungen oder höheren Fachprüfungen gewähren.
 
-<sup>2</sup> Der Kanton kann im Rahmen der bewilligten Kredite Beiträge an anerkannte höhere Fachschulen ausrichten, soweit hierfür eine Leistungsvereinbarung abgeschlossen wurde.
+<sup>2</sup> Der Kanton kann im Rahmen der bewilligten Kredite Beiträge an anerkannte höhere Fachschulen ausrichten, soweit hierfür ein Leistungsvertrag abgeschlossen wurde.
 
 <sup>3</sup> Der Regierungsrat erlässt die Ausführungsbestimmungen. Sehen interkantonale Vereinbarungen andere Beitragsregelungen vor, kann er die innerkantonale Beitragsleistung analog regeln.
 
@@ -739,14 +777,14 @@ beschliesst:
 - a) Projekte zur Entwicklung der Berufsbildung und zur Qualitätsentwicklung,
 - b) besondere Leistungen im öffentlichen Interesse, namentlich
   - 1\. Massnahmen, die der Sicherung und Erweiterung des Lehrstellenangebots dienen,
-  - 2\. Angebote für Lernende mit besonderen bildungsrelevanten Bedürfnissen,
+  - 2\. Angebote für Lernende mit besonderen bildungsrelevanten Bedürfnissen oder Begabungen,
   - 3\. Bildung von situationsbedingt benachteiligten Bevölkerungsgruppen und Bildungsungewohnten,
-  - 4\. Massnahmen zur Förderung der tatsächlichen Gleichstellung von Frau und Mann in der Berufs- und Weiterbildung,
+  - 4\. Massnahmen in der Berufs- und Weiterbildung zur Förderung der tatsächlichen Gleichstellung von Frau und Mann, zur Beseitigung der Benachteiligungen von Menschen mit Behinderungen sowie zur Förderung der Chancengleichheit und Integration von Ausländerinnen und Ausländern,
   - 5\. Massnahmen zur Verbesserung der berufsfeldbedingten Mehrsprachigkeit,
   - 6\. Schulversuche, Schulentwicklungsprojekte oder spezielle Schulungsformen der Berufs- und Weiterbildung, deren Kosten er ganz oder teilweise übernehmen kann,
   - 7\. Information und Dokumentation, soweit sie der Transparenz des Systems und der Bekanntmachung neuer Entwicklungstendenzen im Berufs- und Weiterbildungswesen dienen,
   - 8\. Förderung anderer Qualifikationsverfahren,
-  - 9\. Angebote privater oder öffentlicher Anbieter mit Leistungsvereinbarung.
+  - 9\. Angebote privater oder öffentlicher Anbieter mit Leistungsvertrag.
 
 <sup>2</sup> Die Beiträge werden nur gewährt, wenn die Leistungen längerfristig angelegt sind und eines besonderen Anreizes bedürfen.
 
@@ -757,6 +795,59 @@ beschliesst:
 **Berufsbildungsfonds**
 
 <sup>1</sup> Der Kanton berät die aargauischen Organisationen der Arbeitswelt bei der Errichtung und Führung von branchenbezogenen Berufsbildungsfonds im Sinne von Art. 60 BBG.
+
+## 8<sup>bis</sup>. Bearbeitung und Bekanntgabe von Personendaten
+
+#### § 64a
+
+**Bearbeitung von Personendaten**
+
+<sup>1</sup> Die Anbieter der beruflichen Grundbildung, die Organisationen der Arbeitswelt, die mit der Durchführung des Qualifikationsverfahrens Beauftragten, die Anbieter der Höheren Berufsbildung und Weiterbildung sowie das Departement Bildung, Kultur und Sport bearbeiten Personendaten von Lernenden oder Studierenden, einschliesslich besonders schützenswerter Personendaten, soweit dies zur Erfüllung der gesetzlichen und insbesondere der folgenden Aufgaben erforderlich ist:
+
+- a) Organisation und Administration,
+- b) Beurteilung der Leistung und des Verhaltens,
+- c) Nachteilsausgleich und fachkundige individuelle Begleitung,
+- d) Organisation und Durchführung von überbetrieblichen Kursen und Schulanlässen,
+- e) Bearbeitung von Gesuchen betreffend Absenzen, Dispensationen und Urlaube,
+- f) Anordnung von Disziplinarmassnahmen,
+- g) Genehmigung von Lehrverträgen sowie Meldung von Praktika in Bildungsgängen der Mittelschulen,
+- h) Vorbereitung und Durchführung des Qualifikationsverfahrens,
+- i) Prämierung und Ehrung von Absolventinnen und Absolventen,
+- j) Durchführung der Nachholbildung und der Validierung nicht formal erworbener Bildung,
+- k) Unterstützungsmassnahmen für Lernende vor und während der Berufsbildung.
+
+#### § 64b
+
+**Bild-, Ton- und Videoaufnahmen**
+
+<sup>1</sup> Die Anbieter der beruflichen Grundbildung, die Organisationen der Arbeitswelt, die mit der Durchführung des Qualifikationsverfahrens Beauftragten sowie die Anbieter der Höheren Berufsbildung und Weiterbildung können im Unterricht und im Qualifikationsverfahren Bild-, Ton- und Videoaufnahmen von Lernenden oder Studierenden vornehmen, soweit sie der individuellen Förderung, Lernstandserhebung, Leistungsbeurteilung oder der Lehrpersonenausbildung dienen und die Betroffenen vorgängig über Ziel und Zweck sowie die konkrete Verwendung der Aufnahmen informiert wurden.
+
+<sup>2</sup> Die Aufnahmen sind wie folgt zu löschen:
+
+- a) individuelle Förderung und Lernstandserhebung: nach Auswertung und Besprechung mit den Lernenden oder Studierenden,
+- b) Leistungsbeurteilung: nach Rechtskraft der Promotions- oder Qualifikationsentscheide,
+- c) Lehrpersonenausbildung: nach Auswertung und Besprechung mit den angehenden Lehrpersonen, spätestens nach Rechtskraft der Leistungsnachweise.
+
+<sup>3</sup> Für Aufnahmen von Lernenden oder Studierenden, die für andere Zwecke vorgenommen oder verwendet werden, namentlich im Rahmen von Schulanlässen, ist die Einwilligung der Lernenden oder Studierenden erforderlich.
+
+#### § 64c
+
+**Bekanntgabe von Personendaten in der beruflichen Grundbildung**
+
+<sup>1</sup> Die Anbieter der beruflichen Grundbildung und die Organisationen der Arbeitswelt bearbeiten und geben einander Personendaten von Lernenden bekannt, einschliesslich besonders schützenswerter Personendaten, soweit dies zur Erfüllung der gesetzlichen und folgender Aufgaben im Rahmen der Lernortkooperation erforderlich ist:
+
+- a) Nachteilsausgleich,
+- b) Absenzen, Dispensationen und Urlaube.
+
+<sup>2</sup> Betreffend Nachteilsausgleich sowie Absenzen im Qualifikationsverfahren der beruflichen Grundbildung finden Datenbekanntgaben zusätzlich zu Absatz 1 mit dem Departement Bildung, Kultur und Sport sowie den mit der Durchführung der Qualifikationsverfahren Beauftragten statt.
+
+<sup>3</sup> Bei den Unterstützungsmassnahmen für Lernende vor und während der Berufsbildung finden Datenbekanntgaben zwischen den Anbietern der beruflichen Grundbildung und dem Departement Bildung, Kultur und Sport statt.
+
+<sup>4</sup> Bei einem Schulwechsel gibt die bisherige Berufsfachschule der neuen Berufsfachschule diejenigen Personendaten von Lernenden bekannt, die zur Aufgabenerfüllung durch die neue Berufsfachschule aktuell erforderlich sind.
+
+<sup>5</sup> Darunter fallen auch Informationen über rechtskräftige Urteile betreffend Straftaten, bei denen die psychische, körperliche oder sexuelle Integrität einer anderen Person erheblich beeinträchtigt wurde. Keine Bekanntgabe erfolgt, wenn die Straftat mehr als drei Jahre zurückliegt.
+
+<sup>6</sup> Das Departement Bildung, Kultur und Sport oder die mit der Durchführung des Qualifikationsverfahrens Beauftragten teilen die Abschlussnoten von erfolgreichen Absolvierenden der beruflichen Grundbildung den Organisationen der Arbeitswelt zur Prämierung und Ehrung dieser Absolvierenden mit.
 
 ## 9. Rechtsmittel, Strafverfolgung
 
@@ -778,11 +869,9 @@ beschliesst:
 
 **Rechtsschutz bei Leistungsverträgen**
 
-<sup>1</sup> Können sich das Departement Bildung, Kultur und Sport und Dritte bei bestehendem Rahmenvertrag über Inhalt und Modalitäten des Leistungsvertrags nicht einigen, erlässt das Departement eine Verfügung, die mit Beschwerde an das Verwaltungsgericht weitergezogen werden kann.
+<sup>1</sup> Können sich das Departement Bildung, Kultur und Sport und Dritte bei bestehendem Rahmenvertrag über Inhalt und Modalitäten des Jahresvertrags nicht einigen, erlässt das Departement eine Verfügung, die mit Beschwerde an das Verwaltungsgericht weitergezogen werden kann.
 
-<sup>2</sup> Das Verwaltungsgericht entscheidet innert 2 Monaten. Eine Überprüfung des Ermessens des Departements ist ausgeschlossen. Der Entscheid des Verwaltungsgerichts ist abschliessend. Das übrige Verfahren richtet sich sinngemäss nach den Bestimmungen des Dekrets über das Verfahren gemäss § 18 Spitalgesetz (VD-SpiG) vom 2. Dezember 2003[^67-1].
-
-[^67-1]: SAR [331.210](https://gesetzessammlungen.ag.ch/data/331.210/de)
+<sup>2</sup> …
 
 #### § 68
 
@@ -806,15 +895,15 @@ beschliesst:
 
 **b) Finanzierung der Infrastruktur der beruflichen Grundbildung**
 
-<sup>1</sup> Für bestehende Bauten von Berufsfachschulen und Lehrwerkstätten sowie für Neubauten, für die vor dem Inkrafttreten dieses Gesetzes ein Beitragsgesuch eingereicht worden ist, wird ein Kantonsbeitrag an die Verzinsung und Amortisation der Gebäuderestschuld bis zur vollständigen Amortisation nach bisherigem Recht bezahlt. Die Gemeindebeiträge für bestehende Bauten von Lehrwerkstätten entfallen.
+<sup>1</sup> …
 
-<sup>1<sup>bis</sup></sup> Die Gebäuderestschuld gemäss Absatz 1 wird mit Inkrafttreten der Änderung vom 5. Juni 2012 durch eine einmalige Überweisung getilgt. Der Kanton kann anstelle der Überweisung bestehende Darlehen übernehmen.
+<sup>1<sup>bis</sup></sup> …
 
 <sup>2</sup> …
 
 <sup>3</sup> …
 
-<sup>4</sup> Beitragsgesuche, die beim Kanton zwischen dem 1. Januar 2004 und dem Inkrafttreten dieses Gesetzes eingereicht worden sind, erfahren zur Bestimmung der anrechenbaren, zu amortisierenden Restschuld einen Abzug um den kalkulatorischen Bundesbeitrag, der in der Übergangsfrist nicht gewährt wird.
+<sup>4</sup> …
 
 <sup>4<sup>bis</sup></sup> Der Amortisationsbeitrag für Bauten, für die ein Beitragsgesuch vor dem 1. Januar 2017 eingereicht worden ist, wird kalkulatorisch über eine Laufzeit von 25 Jahren ermittelt.
 
