@@ -3,20 +3,19 @@ canton: LU
 number: "503"
 title: Verordnung über die Benützung kantonaler Schulanlagen durch Dritte
 language: de
-version: 2014-09-01
-valid_until: 2025-07-31
-version_adopted: 2014-08-19
+version: 2025-08-01
+version_adopted: 2025-02-11
 adopted: 1995-11-24
 in_force: 1996-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/503"
-pdf: "https://srl.lu.ch/api/de/versions/2758/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4513/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Benützung kantonaler Schulanlagen durch Dritte
 
-vom 24.11.1995 (Stand 01.09.2014)
+vom 24.11.1995 (Stand 01.08.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -107,7 +106,7 @@ beschliesst:
 
 <sup>1</sup> Sofern mit der Benützung kantonaler Schulanlagen gewinnbringende Einnahmen erzielt werden, sind Zuschläge zur Gebühr gemäss Anhang 1 zu entrichten.
 
-<sup>2</sup> Umfangreiche Vorbereitungs- und Abräumarbeiten, Apparatebedienung, die Anwesenheit des Hauswarts nach 22 Uhr sowie an Samstagen, Sonn- und Feiertagen werden nach Zeitaufwand in Rechnung gestellt.
+<sup>2</sup> Umfangreiche Vorbereitungs- und Abräumarbeiten, Apparatebedienung, die Anwesenheit des Hauswarts nach 17 Uhr sowie an Samstagen, Sonn- und Feiertagen werden nach Zeitaufwand in Rechnung gestellt.
 
 #### § 9
 
@@ -125,13 +124,7 @@ beschliesst:
 
 #### § 11
 
-**Indexierung**
-
-<sup>1</sup> Die Gebührenansätze entsprechen einem Indexstand von 102,9 Punkten per Ende Oktober 2003 gemäss Landesindex der Konsumentenpreise (Stand Mai 2000 = 100 Punkte).
-
-<sup>2</sup> Wenn sich der Index um fünf Punkte verändert, werden die Ansätze auf den folgenden 1. August der Teuerung angepasst, wobei die Ansätze jeweils auf die nächsten fünf Franken aufgerundet werden.
-
-<sup>3</sup> Die Dienststelle Immobilien weist die Schulleitungen schriftlich auf einen Anpassungsbedarf bei den Gebühren hin.
+**…**
 
 #### § 12
 
