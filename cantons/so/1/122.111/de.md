@@ -4,13 +4,12 @@ number: "122.111"
 title: Gesetz über die Organisation des Regierungsrates und der Verwaltung
 short: Regierungs- und Verwaltungsorganisationsgesetz RVOG
 language: de
-version: 2017-10-01
-valid_until: 2025-07-31
-version_adopted: 2017-05-09
+version: 2025-08-01
+version_adopted: 2024-03-27
 adopted: 1999-02-07
 in_force: 1999-08-01
 url: "https://bgs.so.ch/app/de/texts_of_law/122.111"
-pdf: "https://bgs.so.ch/api/de/versions/4627/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5526/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/4627/pdf_file"
 
 (Regierungs- und Verwaltungsorganisationsgesetz RVOG)
 
-Vom 07.02.1999 (Stand 01.10.2017)
+Vom 07.02.1999 (Stand 01.08.2025)
 
 Der Kantonsrat von Solothurn
 
@@ -121,18 +120,33 @@ beschliesst:
 
 #### § 11
 
-**Funktion**
+**Funktion und Aufgaben**
 
 <sup>1</sup> Der Staatsschreiber oder die Staatsschreiberin
 
 - a) ist der Stabschef oder die Stabschefin des Regierungsrates;
 - b) gewährleistet die Verbindung zum Kantonsrat;
-- c) unterstützt die Vorsitzenden von Kantonsrat und Regierungsrat in der gegenseitigen Koordination der Aufgaben;
-- d) erfüllt Stabsaufgaben für den Kantonsrat nach Massgabe des Kantonsratsgesetzes[^11-1].
+- c) stellt gemeinsam mit dem Ratssekretär oder der Ratssekretärin die Koordination der Aufgaben von Kantonsrat und Regierungsrat sicher;
+- d) erfüllt die ihm oder ihr durch Gesetz oder Verordnung übertragenen Aufgaben.
 
 <sup>2</sup> Er oder sie nimmt an den Sitzungen des Regierungsrates mit beratender Stimme teil.
 
-[^11-1]: BGS [121.1](https://bgs.so.ch/data/121.1/de).
+#### § 11bis
+
+**Anstellung und Unterstellung**
+
+<sup>1</sup> Der Regierungsrat stellt den Staatsschreiber oder die Staatsschreiberin und seine oder ihre Stellvertretung an.
+
+<sup>2</sup> Der Staatsschreiber oder die Staatsschreiberin ist dem Regierungsrat unterstellt. Der Landammann oder die Frau Landammann nimmt gegenüber dem Staatsschreiber oder der Staatsschreiberin die personellen Belange wahr und stellt dem Regierungsrat die erforderlichen Anträge.
+
+#### § 11ter
+
+**Anstellungsvoraussetzungen**
+
+<sup>1</sup> Als Staatsschreiber, Staatsschreiberin oder seine beziehungsweise ihre Stellvertretung kann angestellt werden, wer im Kanton Solothurn stimmberechtigt ist und
+
+- a) ein juristisches Universitätsstudium abgeschlossen hat oder
+- b) ein anderes Universitätsstudium abgeschlossen hat und sich über fundierte staats- und verwaltungsrechtliche Kenntnisse ausweist.
 
 ## 3. Verwaltung
 
@@ -290,6 +304,16 @@ beschliesst:
 <sup>3<sup>bis</sup></sup> Die Vertreter oder Vertreterinnen sind verpflichtet, dem zuständigen Departement zeitgerecht die notwendigen Informationen zur Risikobeurteilung zu beschaffen.
 
 <sup>4</sup> Der Regierungsrat oder in seinem Auftrag das zuständige Departement oder die Staatskanzlei kann den Vertretern oder Vertreterinnen bezüglich Wahrnehmung von Aufgaben nach Absatz 3 Weisungen erteilen, insbesondere auch über die Ausübung des Stimmrechts im Einzelfall.
+
+## 3<sup>bis</sup>. Amtsperiode
+
+#### § 27bis
+
+**Beginn und Ende der Amtsperiode**
+
+<sup>1</sup> Die Amtsperiode des Regierungsrates beginnt jeweils am 1. August nach den Kantons- und Regierungsratswahlen und endet vier Jahre später am 31. Juli.
+
+<sup>2</sup> Dasselbe gilt für Kommissionen und Behörden, welche der Regierungsrat für eine Amtsperiode wählt, Leitungs- und Aufsichtsorgane der mittelbaren Verwaltung sowie Kantonsvertretungen in Organisationen des öffentlichen oder privaten Rechts. Vorbehalten bleiben abweichende Regelungen durch die Spezialgesetzgebung beziehungsweise durch Organisationen des öffentlichen oder privaten Rechts.
 
 ## 4. Schlussbestimmungen
 
