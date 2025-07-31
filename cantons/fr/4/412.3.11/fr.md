@@ -4,13 +4,12 @@ number: "412.3.11"
 title: "Règlement sur l'école de commerce à plein temps"
 short: RECPT
 language: fr
-version: 2022-02-01
-valid_until: 2025-07-31
-version_adopted: 2022-03-04
+version: 2025-08-01
+version_adopted: 2025-06-23
 adopted: 2016-06-21
 in_force: 2016-08-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/412.3.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7296/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8207/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Ecole de commerce à plein temps – R
 
 (RECPT)
 
-du 21.06.2016 (version entrée en vigueur le 01.02.2022)
+du 21.06.2016 (version entrée en vigueur le 01.08.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -758,13 +757,13 @@ Arrête:
 
 <sup>1</sup> Le refus du CFC et/ou du certificat de MP et l'exclusion de la session peuvent, dans un délai de cinq jours dès la communication des résultats, faire l'objet d'une réclamation écrite et motivée adressée au président ou à la présidente du jury.
 
-<sup>2</sup> A moins de circonstances spéciales, dont le réclamant ou la réclamante doit être avisé-e, le bureau des examens rend sa nouvelle décision dans un délai de vingt jours, après avoir consulté les examinateurs ou examinatrices et les experts ou expertes concernés.
+<sup>2</sup> A moins de circonstances spéciales, dont le réclamant ou la réclamante doit être avisé‑e, le président ou la présidente du jury rend sa nouvelle décision dans un délai de vingt jours, après avoir consulté les examinateurs ou examinatrices et les experts ou expertes concernés.
 
 #### Art. 76
 
 **Décision refusant le certificat – Recours**
 
-<sup>1</sup> La décision sur réclamation du bureau des examens peut, dans les dix jours dès sa communication, faire l'objet d'un recours à la Direction.
+<sup>1</sup> La décision sur réclamation du président ou de la présidente du jury peut, dans les dix jours dès sa communication, faire l'objet d'un recours à la Direction.
 
 <sup>2</sup> La décision de la Direction peut, dans les trente jours dès sa communication, faire l'objet d'un recours au Tribunal cantonal.
 

@@ -4,13 +4,12 @@ number: "412.3.11"
 title: Reglement über die Vollzeit-Handelsmittelschule
 short: VHR
 language: de
-version: 2022-02-01
-valid_until: 2025-07-31
-version_adopted: 2022-03-04
+version: 2025-08-01
+version_adopted: 2025-06-23
 adopted: 2016-06-21
 in_force: 2016-08-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/412.3.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7296/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8207/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Vollzeit-Handelsmittelschule – R
 
 (VHR)
 
-vom 21.06.2016 (Fassung in Kraft getreten am 01.02.2022)
+vom 21.06.2016 (Fassung in Kraft getreten am 01.08.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -758,13 +757,13 @@ beschliesst:
 
 <sup>1</sup> Gegen die Verweigerung des EFZ und/oder des BM-Zeugnisses und den Ausschluss von den Prüfungen kann innert fünf Tagen nach Mitteilung der Resultate bei der Präsidentin oder beim Präsidenten der Prüfungskommission Einsprache erhoben werden. Diese Einsprache muss schriftlich erfolgen und begründet werden.
 
-<sup>2</sup> Abgesehen von besonderen Umständen, die der Einsprecherin oder dem Einsprecher mitgeteilt werden müssen, erlässt der Prüfungsausschuss innerhalb von zwanzig Tagen, nachdem er die beteiligten Examinatorinnen und Examinatoren und Expertinnen und Experten angehört hat, einen neuen Entscheid.
+<sup>2</sup> Abgesehen von besonderen Umständen, die der Einsprecherin oder dem Einsprecher mitgeteilt werden müssen, fällt die Präsidentin oder der Präsident der Prüfungskommission innerhalb von 20 Tagen einen neuen Entscheid und hört vorgängig die beteiligten Examinatorinnen und Examinatoren sowie Expertinnen und Experten an.
 
 #### Art. 76
 
 **Entscheid gegen die Erteilung der Zeugnisse – Beschwerde**
 
-<sup>1</sup> Gegen den Einspracheentscheid des Prüfungsausschusses kann innert zehn Tagen ab Mitteilung bei der Direktion Beschwerde eingereicht werden.
+<sup>1</sup> Gegen den Einspracheentscheid der Präsidentin oder des Präsidenten der Prüfungskommission kann innert zehn Tagen ab Mitteilung bei der Direktion Beschwerde eingereicht werden.
 
 <sup>2</sup> Der Entscheid der Direktion kann innert 30 Tagen ab Mitteilung mit Beschwerde beim Kantonsgericht angefochten werden.
 
