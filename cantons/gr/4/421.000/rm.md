@@ -1,25 +1,24 @@
 ---
 canton: GR
 number: "421.000"
-title: Lescha davart las scolas popularas dal chantun Grischun
-short: lescha da scola
+title: "Lescha davart las scolas popularas dal chantun Grischun *"
+short: "Lescha davart las scolas popularas, LSP"
 language: rm
-version: 2025-01-01
-corrected: 2025-04-02
-version_adopted: 2022-06-14
+version: 2025-08-01
+version_adopted: 2024-12-05
 adopted: 2012-03-21
 in_force: 2013-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/421.000"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3396/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3548/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Lescha davart las scolas popularas dal chantun Grischun
 
-(lescha da scola)
+(Lescha davart las scolas popularas, LSP)
 
-dals 21-03-2012 (versiun dals 01-01-2025)
+dals 21-03-2012 (versiun dals 01-08-2025)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -101,7 +100,7 @@ concluda:
 
 <sup>2</sup> La scolina promova las forzas creativas da l'uffant e ses svilup corporal, spiertal, social ed emoziunal, enritgescha il mund d'eveniments e d'experientschas da l'uffant e tgira l'expressiun linguistica da l'uffant.
 
-<sup>3</sup> La frequentaziun da la scolina è da princip voluntara. L'instituziun ch'è responsabla per la scola po fixar che uffants da lingua estra stoppian frequentar obligatoricamain la scolina.
+<sup>3</sup> …
 
 #### Art. 8
 
@@ -129,7 +128,7 @@ concluda:
 
 <sup>1</sup> Tut ils uffants che han dimora permanenta en il chantun han il dretg da frequentar la scola populara publica.
 
-<sup>2</sup> La frequentaziun da la scola è obligatorica sin il stgalim primar e sin il stgalim secundar I.
+<sup>2</sup> La frequentaziun da la scola è obligatorica sin il stgalim da scolina, sin il stgalim primar e sin il stgalim secundar I.
 
 <sup>3</sup> L'obligaziun d'ir a scola po er vegnir ademplida en instituziuns da la scolaziun speziala, en scolas privatas u tras instrucziun privata.
 
@@ -141,9 +140,9 @@ concluda:
 
 #### Art. 12
 
-**Entrada en scola, spustament e suspensiun da l'obligaziun d'ir a scola**
+**Entrada en scola, anticipaziun e suspensiun da l'obligaziun d'ir a scola**
 
-<sup>1</sup> Uffants che han cumplenì il 5avel onn da vegliadetgna fin ils 31 da december pon entrar en il stgalim da scolina cun il cumenzament da l'onn da scola dal medem onn chalendar.
+<sup>1</sup> Uffants che han cumplenì il 5avel onn da vegliadetgna fin ils 31 da december, entran en il stgalim da scolina cun il cumenzament da l'onn da scola dal medem onn chalendar.
 
 <sup>2</sup> Uffants che han cumplenì il 7avel onn da vegliadetgna fin ils 31 da december entran en il stgalim primar per il cumenzament da l'onn da scola dal medem onn chalendar.
 
@@ -153,9 +152,9 @@ concluda:
 
 **Durada da l'obligaziun d'ir a scola**
 
-<sup>1</sup> L'obligaziun d'ir a scola cumpiglia per regla 9 onns da scola. Scolaras e scolars che absolvan pli svelt l'instrucziun confurm al plan d'instrucziun da la scola populara vegnan relaschads pli baud da l'obligaziun d'ir a scola.
+<sup>1</sup> L'obligaziun d'ir a scola cumpiglia per regla 11 onns da scola. Scolaras e scolars che absolvan pli svelt l'instrucziun confurm al plan d'instrucziun da la scola populara, vegnan relaschads pli baud da l'obligaziun d'ir a scola.
 
-<sup>2</sup> Sche l'obligaziun d'ir a scola da 9 onns è ademplida u sche la scola populara è vegnida absolvida pli svelt, finescha il dretg da frequentar la scola populara.
+<sup>2</sup> Sche l'obligaziun d'ir a scola dad 11 onns è ademplida u sche la scola populara è vegnida absolvida pli svelt, finescha il dretg da frequentar la scola populara.
 
 #### Art. 14
 
@@ -177,7 +176,7 @@ concluda:
 - d) viadis da scola, excursiuns sco er champs da classa;
 - e) purschidas d'alimentaziun e da pertgirar per structuras dal di supplementaras.
 
-### 3.3. Scolas privatas ed instrucziun privata
+### 3.3. Scolas privatas, instrucziun privata e scolas en ils ospitals
 
 #### Art. 16
 
@@ -209,6 +208,16 @@ concluda:
 
 <sup>1</sup> Scolaras e scolars che frequentan ina scola privata u che vegnan instruids en moda privata n'han nagin dretg envers la vischnanca da survegnir las prestaziuns che vegnan messas a disposiziun da la scola populara publica.
 
+#### Art. 19a
+
+**Scolas en ils ospitals, incarica da prestaziun e finanziaziun**
+
+<sup>1</sup> Il departament designescha ils ospitals e las clinicas che pon porscher instrucziun per scolaras e scolars. El po conceder a tals e talas ina incarica da prestaziun per manar ina scola en l'ospital.
+
+<sup>2</sup> Las instituziuns ch'èn responsablas per la scola sa participeschan cun ina pauschala annuala per scolara u scolar als custs da las scolas en ils ospitals. La pauschala vegn calculada sin fundament dals custs effectivs imputabels da las scolas en ils ospitals per las scolaras ed ils scolars.
+
+<sup>3</sup> Il chantun surpiglia maximalmain ils custs restants ch'èn imputabels mintga onn.
+
 ## 4. Organisaziun da la scola
 
 ### 4.1. Gestiun ed organisaziun
@@ -237,7 +246,7 @@ concluda:
 
 **Classas**
 
-<sup>1</sup> Las scolaras ed ils scolars dal stgalim primar e dal stgalim secundar I vegnan attribuids ad ina classa.
+<sup>1</sup> Las scolaras ed ils scolars dal stgalim da scolina, dal stgalim primar e dal stgalim secundar I vegnan attribuids ad ina classa.
 
 <sup>2</sup> Per mintga classa sto vegnir designada ina persuna d'instrucziun.
 
@@ -259,9 +268,9 @@ concluda:
 
 <sup>1</sup> L'instrucziun ha lieu da glindesdi fin venderdi.
 
-<sup>2</sup> Las unitads d'instrucziun duran 45 minutas sin il stgalim primar e sin il stgalim secundar I e 60 minutas sin il stgalim da scolina.
+<sup>2</sup> Las unitads d'instrucziun duran 45 minutas sin il stgalim da scolina, sin il stgalim primar e sin il stgalim secundar I.
 
-<sup>3</sup> En cas motivads po il departament permetter excepziuns.
+<sup>3</sup> En cas motivads po l'uffizi permetter excepziuns.
 
 #### Art. 26
 
@@ -269,7 +278,7 @@ concluda:
 
 <sup>1</sup> Las uras da bloc garanteschan sin il stgalim da scolina e sin il stgalim primar l'avantmezdi da glindesdi fin venderdi ina instrucziun nuninterrutta u in pertgirar gratuit.
 
-<sup>2</sup> Sin il stgalim da la scolina importan las uras da bloc almain trais uras consecutivas. Sin il stgalim primar importan las uras da bloc almain quatter lecziuns consecutivas.
+<sup>2</sup> Sin il stgalim da scolina e sin il stgalim primar importan las uras da bloc almain quatter lecziuns consecutivas.
 
 <sup>3</sup> La frequentaziun da las lecziuns d'instrucziun u da pertgirar entaifer las uras da bloc è obligatorica.
 
@@ -283,7 +292,7 @@ concluda:
 
 <sup>2</sup> Las persunas cun la pussanza dals geniturs èn libras da profitar da las structuras dal di per lur uffants.
 
-<sup>3</sup> La lescha davart la promoziun da la tgira d'uffants cumplementara a la famiglia en il chantun Grischun vegn applitgada confurm al senn per purschidas en il rom da las structuras dal di supplementaras tenor la legislaziun da scola.
+<sup>3</sup> La Lescha davart la promoziun da la tgira d'uffants cumplementara a la famiglia en il chantun Grischun vegn applitgada confurm al senn per purschidas en il rom da las structuras dal di supplementaras tenor la legislaziun davart las scolas popularas.
 
 #### Art. 28
 
@@ -394,7 +403,7 @@ concluda:
 
 <sup>1</sup> Las instituziuns ch'èn responsablas per la scola mettan a disposiziun purschidas supplementaras per scolaras e per scolars da lingua estra.
 
-<sup>2</sup> La regenza fixescha las prestaziuns che ston vegnir furnidas da las instituziuns ch'èn responsablas per la scola. Per la scolaziun d'uffants da persunas ch'èn admessas provisoricamain, da requirentas e da requirents d'asil ubain da viagiantas e da viagiants po ella prender mesiras che divergeschan da las disposiziuns da la lescha da scola.
+<sup>2</sup> La Regenza fixescha las prestaziuns che ston vegnir furnidas da las instituziuns ch'èn responsablas per la scola. Per la scolaziun d'uffants da persunas ch'èn admessas provisoricamain, da requirentas e da requirents d'asil ubain da viagiantas e da viagiants po ella prender mesiras che divergeschan da las disposiziuns da la Lescha davart las scolas popularas.
 
 #### Art. 40
 
@@ -464,11 +473,11 @@ concluda:
 
 **Furmas da la scolaziun e da la promoziun**
 
-<sup>1</sup> Las mesiras simplas e las mesiras pretensiusas da la pedagogia speziala vegnan realisadas – en dependenza dal basegn – en furmas integrativas e separativas da la scolaziun e da la promoziun.
+<sup>1</sup> Las mesiras simplas e las mesiras pretensiusas da la pedagogia speziala vegnan realisadas – tut tenor basegn – en furmas da scolaziun e da promoziun integrativas, parzialmain integrativas e separativas.
 
-<sup>2</sup> La realisaziun vegn fatga en moda integrativa, sche la scolaziun e la promoziun en la classa regulara ha avantatgs per la scolara u per il scolar che ha in basegn spezial da promoziun e sche quai è supportabel per la classa regulara.
+<sup>2</sup> Las mesiras pretensiusas da la pedagogia speziala vegnan realisadas en moda integrativa, sche la scolaziun e la promoziun en la classa regulara han avantatgs per la scolara u il scolar che ha in basegn spezial da promoziun e sche quai è supportabel per la classa regulara.
 
-<sup>3</sup> Cas cuntrari vegnan las mesiras realisadas en moda parzialmain integrativa sco instrucziun da gruppa u sco instrucziun individuala ubain en moda separativa en partiziuns d'instituziuns da la scolaziun speziala u en famiglias.
+<sup>3</sup> Cas cuntrari vegnan las mesiras pretensiusas da la pedagogia speziala realisadas en moda parzialmain integrativa sco instrucziun da gruppa u sco instrucziun individuala ubain en moda separativa en partiziuns d'instituziuns da la scolaziun speziala u en famiglias.
 
 #### Art. 47
 
@@ -528,7 +537,8 @@ concluda:
 <sup>1</sup> Las scolaras ed ils scolars han il dretg sin:
 
 - a) ina furmaziun sin basa dal stadi d'enconuschientscha actual e sin basa dal plan d'instrucziun;
-- b) respect e rinforz da lur persunalitad.
+- b) respect e rinforz da lur persunalitad;
+- c) audiziun en ils fatgs da scola che pertutgan ellas sezzas ed els sezs.
 
 #### Art. 54
 
@@ -568,7 +578,7 @@ concluda:
 
 **Dretg d'instruir**
 
-<sup>1</sup> Las persunas d'instrucziun ston avair in diplom renconuschì che correspunda al stgalim u ina permissiun da dar scola ch'è vegnida concedida da l'uffizi.
+<sup>1</sup> Las persunas d'instrucziun ston avair in diplom renconuschì che correspunda al stgalim u ina scolaziun ch'è vegnida renconuschida da la Regenza respectivamain ina permissiun da dar scola ch'è vegnida concedida da l'uffizi.
 
 #### Art. 58
 
@@ -619,13 +629,13 @@ concluda:
 
 <sup>1</sup> Per in pensum cumplain sto vegnir prestà il suandant dumber d'unitads d'instrucziun per emna:
 
-- a) stgalim da scolina: — 24 uras
+- a) stgalim da scolina: — 29 lecziuns
 - b) stgalim primar: — 29 lecziuns
 - c) stgalim secundar I: — 29 lecziuns
 
-<sup>2</sup> Il pensum d'ina persuna d'instrucziun da classa dal stgalim primar e dal stgalim secundar I vegn reducì per 1 lecziun per emna da scola.
+<sup>2</sup> Il pensum d'ina persuna d'instrucziun da classa dal stgalim da scolina, dal stgalim primar e dal stgalim secundar I vegn reducì per 1 lecziun per emna da scola.
 
-<sup>3</sup> Persunas d'instrucziun cun in pensum cumplain han il dretg sin ina facilitaziun da vegliadetgna a partir dal 55avel onn da vegliadetgna.
+<sup>3</sup> Las persunas d'instrucziun cun in pensum da 65 pertschient u dapli han il dretg sin ina facilitaziun da vegliadetgna a partir dal 55avel onn da vegliadetgna.
 
 #### Art. 63
 
@@ -639,7 +649,7 @@ concluda:
 
 <sup>1</sup> L'instituziun ch'è responsabla per la scola po conceder a las persunas d'instrucziun in congedi da furmaziun supplementara pajà.
 
-<sup>2</sup> En cas da persunas d'instrucziun che han instruì durant almain 10 onns e cun in pensum d'almain 20 lecziuns per emna sin il stgalim primar u sin il stgalim secundar I respectivamain da 14 uras per emna sin il stgalim da scolina sa participescha il chantun ina giada vi dals custs d'in congedi da furmaziun supplementara da maximalmain 3 mais.
+<sup>2</sup> En cas da persunas d'instrucziun che han instruì durant almain 10 onns e cun in pensum d'almain 20 lecziuns per emna sin il stgalim da scolina, sin il stgalim primar u sin il stgalim secundar I, sa participescha il chantun ina giada vi dals custs d'in congedi da furmaziun supplementara da maximalmain 3 mais.
 
 ### 6.2. Salarisaziun
 
@@ -657,18 +667,19 @@ concluda:
 
 **Salarisaziun minimala per onn**
 
-<sup>1</sup> Per las persunas d'instrucziun da la scola populara publica valan en cas d'in pensum cumplain tenor l'artitgel 62 las suandantas tariffas minimalas da salarisaziun (inclusiv il 13avel salari mensil) (emprim stgalim da salari):
+<sup>1</sup> Per las persunas d'instrucziun da la scola populara publica valan en cas d'in pensum cumplain tenor l'artitgel 62 las suandantas tariffas minimalas da salarisaziun (inclusiv il 13avel salari mensil):
 
-- a) stgalim da scolina:
-  - 1\. persuna d'instrucziun da la scolina: fr. 60 000
-- b) stgalim primar:
-  - 1\. persunas d'instrucziun da la scola primara e persunas d'instrucziun spezialisadas: fr. 72 000
-  - 2\. persunas d'instrucziun che han in diplom en pedagogia speziala: fr. 79 000
+Emprim stgalim da salari
+
+- a) stgalim da scolina e stgalim primar:
+  - 1\. persunas d'instrucziun da la scolina, persunas d'instrucziun da la scola primara e persunas d'instrucziun spezialisadas: fr. 78 000.–
+  - 2\. persunas d'instrucziun che han in diplom en pedagogia speziala: fr. 85 000.–
+- b) …
 - c) stgalim secundar I:
-  - 1\. persunas d'instrucziun da la scola reala e da la scola secundara e persunas d'instrucziun che han in diplom en pedagogia speziala: fr. 88 000
-  - 2\. persunas d'instrucziun spezialisadas cun in u cun dapli che in rom respectivamain cun in u cun dapli che in sectur spezial: fr. 82 000
+  - 1\. persunas d'instrucziun da la scola reala e da la scola secundara che han in diplom en pedagogia speziala: fr. 94 600.–
+  - 2\. persunas d'instrucziun spezialisadas cun in u cun dapli che in rom respectivamain cun in u cun dapli che in sectur spezial: fr. 90 600.–
 
-<sup>2</sup> La salarisaziun minimala per il stgalim da salari il pli aut importa 154 pertschient da la tariffa da l'emprim stgalim da salari.
+<sup>2</sup> La salarisaziun minimala per il stgalim da salari il pli aut importa 153 pertschient da la tariffa da l'emprim stgalim da salari.
 
 <sup>3</sup> Per directuras e per directurs da scola importa la salarisaziun minimala 110 pertschient da la tariffa per il stgalim secundar I.
 
@@ -736,10 +747,10 @@ concluda:
 
 <sup>2</sup> Las pauschalas importan:
 
-- a) per il stgalim da scolina e per il stgalim primar: — fr. 960
+- a) per il stgalim da scolina e per il stgalim primar: — fr. 1266.–
 - b) per il stgalim secundar I:
-  - 1\. scola reala: — fr. 1460
-  - 2\. scola secundara: — fr. 1380
+  - 1\. scola reala: — fr. 1900.–
+  - 2\. scola secundara: — fr. 1820.–
 
 <sup>3</sup> …
 
@@ -880,6 +891,18 @@ concluda:
 <sup>1</sup> Il chantun paja ina pauschala supplementara da 500 francs per scolara e per scolar per emna als custs per metter a disposiziun purschidas adattadas per l'instrucziun en las linguas naziunalas che na vegnan betg instruidas sco roms obligatorics.
 
 <sup>2</sup> La regenza po adattar la pauschala supplementara a la chareschia.
+
+#### Art. 88a
+
+**Contribuziuns pauschalas a champs da classa, ad emnas da project ed ad excursiuns**
+
+<sup>1</sup> Cun contribuziuns pauschalas a las instituziuns ch'èn responsablas per la scola promova il chantun la realisaziun da champs da classa da plirs dis, d'emnas da project e d'excursiuns cun pernottaziuns externas durant las emnas da scola.
+
+<sup>2</sup> La contribuziun chantunala importa 20 francs per scolara u scolar e per di realisà cun pernottaziun externa.
+
+<sup>3</sup> La contribuziun pauschala chantunala maximala per classa e per champ, per emna da project u per excursiun importa 1500 francs per onn da scola.
+
+<sup>4</sup> La Regenza po adattar questa contribuziun a la chareschia.
 
 ## 9. Instanzas e surveglianza
 

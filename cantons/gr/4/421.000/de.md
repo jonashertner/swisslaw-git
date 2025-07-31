@@ -2,24 +2,23 @@
 canton: GR
 number: "421.000"
 title: Gesetz für die Volksschulen des Kantons Graubünden
-short: Schulgesetz
+short: "Volksschulgesetz, VSG"
 language: de
-version: 2025-01-01
-corrected: 2025-04-02
-version_adopted: 2022-06-14
+version: 2025-08-01
+version_adopted: 2024-12-05
 adopted: 2012-03-21
 in_force: 2013-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/421.000"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3396/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3548/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz für die Volksschulen des Kantons Graubünden
 
-(Schulgesetz)
+(Volksschulgesetz, VSG)
 
-Vom 21.03.2012 (Stand 01.01.2025)
+Vom 21.03.2012 (Stand 01.08.2025)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -101,7 +100,7 @@ beschliesst:
 
 <sup>2</sup> Der Kindergarten fördert die schöpferischen Kräfte des Kindes und dessen körperliche, geistige, soziale und emotionale Entwicklung, bereichert die kindliche Erlebnis- und Erfahrungswelt und pflegt das sprachliche Ausdrucksvermögen.
 
-<sup>3</sup> Der Besuch des Kindergartens ist grundsätzlich freiwillig. Die Schulträgerschaft kann den Kindergartenbesuch für fremdsprachige Kinder obligatorisch erklären.
+<sup>3</sup> …
 
 #### Art. 8
 
@@ -129,7 +128,7 @@ beschliesst:
 
 <sup>1</sup> Alle Kinder mit dauerndem Aufenthalt im Kanton haben das Recht, die öffentliche Volksschule zu besuchen.
 
-<sup>2</sup> Der Schulbesuch ist auf der Primarstufe und auf der Sekundarstufe I obligatorisch.
+<sup>2</sup> Der Schulbesuch ist auf der Kindergarten-, Primar- und Sekundarstufe I obligatorisch.
 
 <sup>3</sup> Die Schulpflicht kann auch in Institutionen der Sonderschulung, in Privatschulen oder durch Privatunterricht erfüllt werden.
 
@@ -143,7 +142,7 @@ beschliesst:
 
 **Schuleintritt, Vorverlegung und Aufschub der Schulpflicht**
 
-<sup>1</sup> Kinder, die bis zum 31. Dezember das fünfte Altersjahr erfüllt haben, können auf Beginn des Schuljahres desselben Kalenderjahres in die Kindergartenstufe eintreten.
+<sup>1</sup> Kinder, die bis zum 31. Dezember das fünfte Altersjahr erfüllt haben, treten auf Beginn des Schuljahres desselben Kalenderjahres in die Kindergartenstufe ein.
 
 <sup>2</sup> Kinder, die bis zum 31. Dezember das siebte Altersjahr erfüllt haben, treten auf Beginn des Schuljahres desselben Kalenderjahres in die Primarstufe ein.
 
@@ -153,9 +152,9 @@ beschliesst:
 
 **Dauer der Schulpflicht**
 
-<sup>1</sup> Die Schulpflicht umfasst in der Regel neun Schuljahre. Schülerinnen und Schüler, die den lehrplanmässigen Unterricht der Volksschule schneller absolvieren, werden vorzeitig aus der Schulpflicht entlassen.
+<sup>1</sup> Die Schulpflicht umfasst in der Regel elf Schuljahre. Schülerinnen und Schüler, die den lehrplanmässigen Unterricht der Volksschule schneller absolvieren, werden vorzeitig aus der Schulpflicht entlassen.
 
-<sup>2</sup> Mit Erfüllung der neunjährigen Schulpflicht oder mit vorzeitiger Absolvierung der Volksschule endet das Recht auf Besuch der Volksschule.
+<sup>2</sup> Mit Erfüllung der elfjährigen Schulpflicht oder mit vorzeitiger Absolvierung der Volksschule endet das Recht auf Besuch der Volksschule.
 
 #### Art. 14
 
@@ -177,7 +176,7 @@ beschliesst:
 - d) Schulreisen, Exkursionen sowie Klassenlager;
 - e) Verpflegungs- und Betreuungsangebote für weiter gehende Tagesstrukturen.
 
-### 3.3. Privatschulen und Privatunterricht
+### 3.3. Privatschulen, Privatunterricht und Spitalschulen
 
 #### Art. 16
 
@@ -209,6 +208,16 @@ beschliesst:
 
 <sup>1</sup> Schülerinnen und Schüler, die eine Privatschule besuchen oder privat unterrichtet werden, haben keinen Anspruch gegenüber der Gemeinde auf die von der öffentlichen Volksschule zur Verfügung gestellten Leistungen.
 
+#### Art. 19a
+
+**Spitalschulen, Leistungsauftrag und Finanzierung**
+
+<sup>1</sup> Das Departement bezeichnet Spitäler und Kliniken, die Unterricht für Schülerinnen und Schüler anbieten können. Es kann diesen einen Leistungsauftrag zur Führung einer Spitalschule erteilen.
+
+<sup>2</sup> Die Schulträgerschaften beteiligen sich an den Kosten der Spitalschulen mit einer jährlichen Pauschale pro Schülerin oder Schüler. Die Berechnung der Pauschale erfolgt aufgrund der effektiven anrechenbaren Aufwendungen der Spitalschulen für die Schülerinnen und Schüler.
+
+<sup>3</sup> Der Kanton trägt maximal die jährlich anrechenbaren Restkosten.
+
 ## 4. Organisation der Schule
 
 ### 4.1. Führung und Organisation
@@ -237,7 +246,7 @@ beschliesst:
 
 **Klassen**
 
-<sup>1</sup> Die Schülerinnen und Schüler der Primarstufe und der Sekundarstufe I werden einer Klasse zugeteilt.
+<sup>1</sup> Die Schülerinnen und Schüler der Kindergarten-, Primar- und Sekundarstufe I werden einer Klasse zugeteilt.
 
 <sup>2</sup> Für jede Klasse ist eine Klassenlehrperson zu bezeichnen.
 
@@ -259,9 +268,9 @@ beschliesst:
 
 <sup>1</sup> Der Unterricht findet von Montag bis Freitag statt.
 
-<sup>2</sup> Die Unterrichtseinheiten dauern auf der Primarstufe und der Sekundarstufe I 45 Minuten und auf der Kindergartenstufe 60 Minuten.
+<sup>2</sup> Die Unterrichtseinheiten dauern auf der Kindergarten-, Primar- und Sekundarstufe I 45 Minuten.
 
-<sup>3</sup> Das Departement kann in begründeten Fällen Ausnahmen bewilligen.
+<sup>3</sup> Das Amt kann in begründeten Fällen Ausnahmen bewilligen.
 
 #### Art. 26
 
@@ -269,7 +278,7 @@ beschliesst:
 
 <sup>1</sup> Die Blockzeit gewährleistet auf der Kindergarten- und Primarstufe von Montag bis Freitag am Vormittag einen ununterbrochenen Unterricht oder eine unentgeltliche Betreuung.
 
-<sup>2</sup> Auf der Kindergartenstufe beträgt die Blockzeit mindestens drei aufeinander folgende Stunden. Auf der Primarstufe beträgt die Blockzeit mindestens vier aufeinander folgende Lektionen.
+<sup>2</sup> Auf der Kindergarten- und Primarstufe beträgt die Blockzeit mindestens vier aufeinander folgende Lektionen.
 
 <sup>3</sup> Der Besuch der Unterrichts- oder Betreuungslektionen innerhalb der Blockzeit ist obligatorisch.
 
@@ -283,7 +292,7 @@ beschliesst:
 
 <sup>2</sup> Es steht den Erziehungsberechtigten frei, die Tagesstrukturen für ihre Kinder in Anspruch zu nehmen.
 
-<sup>3</sup> Das Gesetz über die Förderung der familienergänzenden Kinderbetreuung im Kanton Graubünden vom 18. Mai 2003 findet auf Angebote im Rahmen der weiter gehenden Tagesstrukturen gemäss Schulgesetzgebung sinngemäss Anwendung.
+<sup>3</sup> Das Gesetz über die Förderung der familienergänzenden Kinderbetreuung im Kanton Graubünden vom 18. Mai 2003 findet auf Angebote im Rahmen der weiter gehenden Tagesstrukturen gemäss Volksschulgesetzgebung sinngemäss Anwendung.
 
 #### Art. 28
 
@@ -394,7 +403,7 @@ beschliesst:
 
 <sup>1</sup> Die Schulträgerschaften stellen zusätzliche Angebote für fremdsprachige Schülerinnen und Schüler zur Verfügung.
 
-<sup>2</sup> Die Regierung legt die durch die Schulträgerschaften zu erbringenden Leistungen fest. Sie kann für die Schulung von Kindern vorläufig Aufgenommener, Asylsuchender oder Fahrender Anordnungen treffen, die von den Bestimmungen des Schulgesetzes abweichen.
+<sup>2</sup> Die Regierung legt die durch die Schulträgerschaften zu erbringenden Leistungen fest. Sie kann für die Schulung von Kindern vorläufig Aufgenommener, Asylsuchender oder Fahrender Anordnungen treffen, die von den Bestimmungen des Volksschulgesetzes abweichen.
 
 #### Art. 40
 
@@ -464,11 +473,11 @@ beschliesst:
 
 **Schulungs- und Förderformen**
 
-<sup>1</sup> Die Umsetzung der nieder- und hochschwelligen sonderpädagogischen Massnahmen erfolgt bedürfnisorientiert in integrativen und separativen Schulungs- und Förderformen.
+<sup>1</sup> Die Umsetzung der nieder- und hochschwelligen sonderpädagogischen Massnahmen erfolgt bedürfnisorientiert in integrativen, teilintegrativen und separativen Schulungs- und Förderformen.
 
-<sup>2</sup> Die Umsetzung erfolgt integrativ, soweit die Schulung und Förderung für die Schülerin oder den Schüler mit besonderem Förderbedarf in der Regelklasse vorteilhaft und für die Regelklasse tragbar sind.
+<sup>2</sup> Die Umsetzung der hochschwelligen sonderpädagogischen Massnahmen erfolgt integrativ, soweit die Schulung und Förderung für die Schülerin oder den Schüler mit besonderem Förderbedarf in der Regelklasse vorteilhaft und für die Regelklasse tragbar sind.
 
-<sup>3</sup> Andernfalls erfolgt die Umsetzung teilintegrativ als Gruppen- oder Einzelunterricht oder separativ in Abteilungen von Institutionen der Sonderschulung oder in Familien.
+<sup>3</sup> Andernfalls erfolgt die Umsetzung der hochschwelligen sonderpädagogischen Massnahmen teilintegrativ als Gruppen- oder Einzelunterricht oder separativ in Abteilungen von Institutionen der Sonderschulung oder in Familien.
 
 #### Art. 47
 
@@ -528,7 +537,8 @@ beschliesst:
 <sup>1</sup> Die Schülerinnen und Schüler haben Anspruch auf:
 
 - a) Bildung auf der Grundlage des aktuellen Wissenstandes und Lehrplanes;
-- b) Achtung und Stärkung ihrer Persönlichkeit.
+- b) Achtung und Stärkung ihrer Persönlichkeit;
+- c) Anhörung in den sie betreffenden Schulangelegenheiten.
 
 #### Art. 54
 
@@ -568,7 +578,7 @@ beschliesst:
 
 **Unterrichtsberechtigung**
 
-<sup>1</sup> Lehrpersonen müssen über einen anerkannten, stufengemässen Abschluss oder über eine vom Amt erteilte Lehrbewilligung verfügen.
+<sup>1</sup> Lehrpersonen müssen über einen anerkannten, stufengemässen Abschluss oder über eine von der Regierung anerkannte Ausbildung beziehungsweise eine vom Amt erteilte Lehrbewilligung verfügen.
 
 #### Art. 58
 
@@ -619,13 +629,13 @@ beschliesst:
 
 <sup>1</sup> Für ein Vollzeitpensum sind folgende Anzahl Unterrichtseinheiten pro Schulwoche zu leisten:
 
-- a) Kindergartenstufe: — 24 Stunden
+- a) Kindergartenstufe: — 29 Lektionen
 - b) Primarstufe: — 29 Lektionen
 - c) Sekundarstufe I: — 29 Lektionen
 
-<sup>2</sup> Das Pensum einer Klassenlehrperson der Primarstufe und der Sekundarstufe I reduziert sich um eine Lektion pro Schulwoche.
+<sup>2</sup> Das Pensum einer Klassenlehrperson der Kindergarten-, Primar- und Sekundarstufe I reduziert sich um eine Lektion pro Schulwoche.
 
-<sup>3</sup> Lehrpersonen mit einem Vollpensum haben ab dem 55. Altersjahr Anspruch auf Altersentlastung.
+<sup>3</sup> Lehrpersonen mit einem Pensum von 65 Prozent oder mehr haben ab dem 55. Altersjahr Anspruch auf Altersentlastung.
 
 #### Art. 63
 
@@ -639,7 +649,7 @@ beschliesst:
 
 <sup>1</sup> Die Schulträgerschaft kann Lehrpersonen einen bezahlten Weiterbildungsurlaub gewähren.
 
-<sup>2</sup> Für Lehrpersonen, die während mindestens zehn Jahren und mit einem Pensum von mindestens 20 Wochenlektionen auf der Primarstufe oder der Sekundarstufe I beziehungsweise 14 Wochenstunden auf der Kindergartenstufe Unterricht erteilt haben, beteiligt sich der Kanton einmalig an den Kosten eines Weiterbildungsurlaubs von maximal drei Monaten.
+<sup>2</sup> Für Lehrpersonen, die während mindestens zehn Jahren und mit einem Pensum von mindestens 20 Wochenlektionen auf der Kindergarten-, Primar- oder Sekundarstufe I Unterricht erteilt haben, beteiligt sich der Kanton einmalig an den Kosten eines Weiterbildungsurlaubs von maximal drei Monaten.
 
 ### 6.2. Besoldung
 
@@ -659,16 +669,17 @@ beschliesst:
 
 <sup>1</sup> Für die Lehrpersonen der öffentlichen Volksschule gelten bei einem Vollpensum gemäss Artikel 62 folgende Mindestbesoldungssätze (inklusive 13. Monatslohn):
 
-- a) Kindergartenstufe:
-  - 1\. Kindergartenlehrperson: Erste Lohnstufe Fr. 60 000
-- b) Primarstufe:
-  - 1\. Primarlehrpersonen und Fachlehrpersonen: Erste Lohnstufe Fr. 72 000
-  - 2\. Lehrpersonen mit Ausbildungsabschluss in Sonderpädagogik: Erste Lohnstufe Fr. 79 000
-- c) Sekundarstufe I:
-  - 1\. Real- und Sekundarlehrpersonen und Lehrpersonen mit Ausbildungsabschluss in Sonderpädagogik: Erste Lohnstufe Fr. 88 000
-  - 2\. Fachlehrpersonen mit einem oder mehr als einem Fach bzw. einem oder mehr als einem Fachbereich: Erste Lohnstufe Fr. 82 000
+Erste Lohnstufe
 
-<sup>2</sup> Die Mindestbesoldung für die oberste Lohnstufe beträgt 154 Prozent des Ansatzes der ersten Lohnstufe.
+- a) Kindergarten- und Primarstufe:
+  - 1\. Kindergarten-, Primar- und Fachlehrpersonen Fr. 78 000.–
+  - 2\. Lehrpersonen mit Ausbildungsabschluss in Sonderpädagogik Fr. 85 000.–
+- b) …
+- c) Sekundarstufe I:
+  - 1\. Real- und Sekundarlehrpersonen und Lehrpersonen mit Ausbildungsabschluss in Sonderpädagogik Fr. 94 600.–
+  - 2\. Fachlehrpersonen mit einem oder mehr als einem Fach beziehungsweise einem oder mehr als einem Fachbereich Fr. 90 600.–
+
+<sup>2</sup> Die Mindestbesoldung für die oberste Lohnstufe beträgt 153 Prozent des Ansatzes der ersten Lohnstufe.
 
 <sup>3</sup> Für Schulleitungspersonen beträgt die Mindestbesoldung 110 Prozent des Ansatzes für die Sekundarstufe I.
 
@@ -732,10 +743,10 @@ beschliesst:
 
 <sup>2</sup> Die Pauschalen betragen für die:
 
-- a) Kindergarten- und Primarstufe: — Fr. 960
+- a) Kindergarten- und Primarstufe: — Fr. 1266.–
 - b) Sekundarstufe I:
-  - 1\. Realschule — Fr. 1460
-  - 2\. Sekundarschule — Fr. 1380
+  - 1\. Realschule — Fr. 1900.–
+  - 2\. Sekundarschule — Fr. 1820.–
 
 <sup>3</sup> …
 
@@ -872,6 +883,18 @@ beschliesst:
 <sup>1</sup> Der Kanton entrichtet eine Zusatzpauschale von 500 Franken pro Schülerin und Schüler und pro Woche an die Aufwendungen für die Bereitstellung von geeigneten Angeboten für den Unterricht in den Landessprachen, welche nicht als Pflichtfächer unterrichtet werden.
 
 <sup>2</sup> Die Regierung kann die Zusatzpauschale der Teuerung anpassen.
+
+#### Art. 88a
+
+**Pauschalbeiträge an Klassenlager, Projektwochen und Exkursionen**
+
+<sup>1</sup> Der Kanton fördert mit Pauschalbeiträgen an die Schulträgerschaften die Durchführung von mehrtägigen Klassenlagern, von Projektwochen und von Exkursionen mit externen Übernachtungen während der Schulwochen.
+
+<sup>2</sup> Der kantonale Beitrag beträgt 20 Franken pro Schülerin oder Schüler und durchgeführtem Tag mit externer Übernachtung.
+
+<sup>3</sup> Der maximale kantonale Pauschalbeitrag pro Klasse und Lager, Projektwoche oder Exkursion beträgt 1500 Franken pro Schuljahr.
+
+<sup>4</sup> Die Regierung kann den Beitrag der Teuerung anpassen.
 
 ## 9. Instanzen und Aufsicht
 

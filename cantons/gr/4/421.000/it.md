@@ -1,25 +1,24 @@
 ---
 canton: GR
 number: "421.000"
-title: Legge per le scuole popolari del Cantone dei Grigioni
-short: Legge scolastica
+title: "Legge per le scuole popolari del Cantone dei Grigioni *"
+short: "Legge sulle scuole popolari, LSP"
 language: it
-version: 2025-01-01
-corrected: 2025-04-02
-version_adopted: 2022-06-14
+version: 2025-08-01
+version_adopted: 2024-12-05
 adopted: 2012-03-21
 in_force: 2013-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/421.000"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3396/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3548/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
 # Legge per le scuole popolari del Cantone dei Grigioni
 
-(Legge scolastica)
+(Legge sulle scuole popolari, LSP)
 
-del 21.03.2012 (stato 01.01.2025)
+del 21.03.2012 (stato 01.08.2025)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -99,7 +98,7 @@ decide:
 
 <sup>2</sup> La scuola dell'infanzia promuove le capacità creative del bambino e il suo sviluppo fisico, intellettuale, sociale ed emotivo, ne arricchisce il bagaglio empirico e sperimentale e coltiva la sua capacità di esprimersi.
 
-<sup>3</sup> La frequenza della scuola dell'infanzia è di principio facoltativa. L'ente scolastico può dichiarare obbligatoria la frequenza della scuola dell'infanzia per bambini alloglotti.
+<sup>3</sup> …
 
 #### Art. 8
 
@@ -127,7 +126,7 @@ decide:
 
 <sup>1</sup> Tutti i bambini che risiedono stabilmente nel Cantone hanno il diritto di frequentare la scuola popolare pubblica.
 
-<sup>2</sup> È obbligatorio frequentare la scuola di grado elementare e di grado secondario I.
+<sup>2</sup> È obbligatorio frequentare la scuola dell'infanzia, quella di grado elementare e quella di grado secondario I.
 
 <sup>3</sup> L'obbligo scolastico può essere adempito anche presso strutture per l'istruzione scolastica speciale, in scuole private o attraverso l'insegnamento privato.
 
@@ -141,7 +140,7 @@ decide:
 
 **Scolarizzazione, anticipazione e differimento dell'obbligo scolastico**
 
-<sup>1</sup> I bambini che compiono il quinto anno d'età entro il 31 dicembre possono accedere alla scuola dell'infanzia all'inizio dell'anno scolastico del medesimo anno civile.
+<sup>1</sup> I bambini che compiono il quinto anno d'età entro il 31 dicembre accedono alla scuola dell'infanzia all'inizio dell'anno scolastico del medesimo anno civile.
 
 <sup>2</sup> I bambini che compiono il settimo anno d'età entro il 31 dicembre accedono al grado elementare all'inizio dell'anno scolastico del medesimo anno civile.
 
@@ -151,9 +150,9 @@ decide:
 
 **Durata dell'obbligo scolastico**
 
-<sup>1</sup> L'obbligo scolastico dura di norma nove anni scolastici. Gli allievi che portano a termine in anticipo l'insegnamento previsto dal programma didattico vengono prosciolti anticipatamente dall'obbligo scolastico.
+<sup>1</sup> L'obbligo scolastico dura di norma undici anni scolastici. Gli allievi che portano a termine in anticipo l'insegnamento previsto dal programma didattico della scuola popolare vengono prosciolti anticipatamente dall'obbligo scolastico.
 
-<sup>2</sup> Il diritto di frequentare la scuola popolare cessa con l'adempimento dell'obbligo scolastico di nove anni oppure con il completamento anticipato della scuola popolare.
+<sup>2</sup> Il diritto di frequentare la scuola popolare cessa con l'adempimento dell'obbligo scolastico di undici anni oppure con il completamento anticipato della scuola popolare.
 
 #### Art. 14
 
@@ -175,7 +174,7 @@ decide:
 - d) gite scolastiche, escursioni, campi scuola;
 - e) vitto e assistenza per strutture diurne di portata più ampia.
 
-### 3.3. Scuole private e insegnamento privato
+### 3.3. Scuole private, insegnamento privato e scuole all'interno di ospedali
 
 #### Art. 16
 
@@ -207,6 +206,16 @@ decide:
 
 <sup>1</sup> Gli allievi che frequentano una scuola privata o ai quali l'insegnamento viene impartito privatamente non possono far valere nei confronti del comune un diritto alle prestazioni messe a disposizione dalla scuola popolare pubblica.
 
+#### Art. 19a
+
+**Scuole all'interno di ospedali, mandato di prestazioni e finanziamento**
+
+<sup>1</sup> Il Dipartimento designa ospedali e cliniche che possono impartire lezioni ad allievi. Esso può conferire loro un mandato di prestazioni per la gestione di una scuola all'interno dell'ospedale.
+
+<sup>2</sup> Gli enti scolastici partecipano ai costi delle scuole all'interno di ospedali con una forfetaria annua per allievo. La forfetaria viene calcolata sulla base delle spese computabili effettive per gli allievi sostenute dalle scuole all'interno di ospedali.
+
+<sup>3</sup> Il Cantone si fa carico al massimo dei costi residui computabili annualmente.
+
 ## 4. Organizzazione della scuola
 
 ### 4.1. Conduzione e organizzazione
@@ -235,7 +244,7 @@ decide:
 
 **Classi**
 
-<sup>1</sup> Gli allievi del grado elementare e del grado secondario I vengono assegnati a una classe.
+<sup>1</sup> Gli allievi di scuola dell'infanzia, del grado elementare e del grado secondario I vengono assegnati a una classe.
 
 <sup>2</sup> Per ogni classe va designato un insegnante di classe.
 
@@ -257,9 +266,9 @@ decide:
 
 <sup>1</sup> Le lezioni si tengono dal lunedì al venerdì.
 
-<sup>2</sup> Nel grado elementare e nel grado secondario I le unità d'insegnamento durano 45 minuti, nella scuola dell'infanzia durano 60 minuti.
+<sup>2</sup> Nella scuola dell'infanzia, nel grado elementare e nel grado secondario I le unità d'insegnamento durano 45 minuti.
 
-<sup>3</sup> In casi motivati, il Dipartimento può autorizzare eccezioni.
+<sup>3</sup> In casi motivati, l'Ufficio può autorizzare eccezioni.
 
 #### Art. 26
 
@@ -267,7 +276,7 @@ decide:
 
 <sup>1</sup> Nella scuola dell'infanzia e nel grado elementare, l'orario fisso garantisce al mattino, da lunedì a venerdì, lezioni continue o un'assistenza gratuita.
 
-<sup>2</sup> Nella scuola dell'infanzia l'orario fisso ammonta ad almeno tre ore consecutive. Nel grado elementare l'orario fisso ammonta ad almeno quattro lezioni consecutive.
+<sup>2</sup> Nella scuola dell'infanzia e nel grado elementare l'orario fisso ammonta ad almeno quattro lezioni consecutive.
 
 <sup>3</sup> Durante l'orario fisso, è obbligatorio frequentare le lezioni di insegnamento o l'assistenza.
 
@@ -281,7 +290,7 @@ decide:
 
 <sup>2</sup> Chi esercita l'autorità parentale è libero di scegliere se far frequentare le strutture diurne ai propri figli.
 
-<sup>3</sup> La legge sulla promozione dell'assistenza ai bambini complementare alla famiglia nel Cantone dei Grigioni del 18 maggio 2003 trova applicazione per analogia a offerte nel quadro di ulteriori strutture diurne conformemente alla legislazione scolastica.
+<sup>3</sup> La legge sulla promozione dell'assistenza ai bambini complementare alla famiglia nel Cantone dei Grigioni del 18 maggio 2003 trova applicazione per analogia a offerte nel quadro di ulteriori strutture diurne conformemente alla legislazione sulle scuole popolari.
 
 #### Art. 28
 
@@ -392,7 +401,7 @@ decide:
 
 <sup>1</sup> Gli enti scolastici mettono a disposizione offerte supplementari per allievi alloglotti.
 
-<sup>2</sup> Il Governo stabilisce le prestazioni che gli enti scolastici devono fornire. Per l'istruzione scolastica di figli di persone ammesse provvisoriamente, richiedenti l'asilo o nomadi, può adottare disposizioni divergenti dalle disposizioni della legge scolastica.
+<sup>2</sup> Il Governo stabilisce le prestazioni che gli enti scolastici devono fornire. Per l'istruzione scolastica di figli di persone ammesse provvisoriamente, richiedenti l'asilo o nomadi, può adottare disposizioni divergenti dalle disposizioni della legge sulle scuole popolari.
 
 #### Art. 40
 
@@ -462,11 +471,11 @@ decide:
 
 **Forme di istruzione e sostegno**
 
-<sup>1</sup> L'attuazione dei provvedimenti di pedagogia specializzata a bassa e ad alta soglia avviene in base alle esigenze secondo forme di istruzione e di sostegno integrative e separative.
+<sup>1</sup> L'attuazione dei provvedimenti di pedagogia specializzata a bassa e ad alta soglia avviene in base alle esigenze secondo forme di istruzione e di sostegno integrative, parzialmente integrative e separative.
 
-<sup>2</sup> L'attuazione avviene in forma integrativa se l'istruzione e il sostegno nella classe regolare risultano vantaggiosi per l'allievo con bisogni educativi speciali e sostenibili per la classe regolare.
+<sup>2</sup> L'attuazione dei provvedimenti di pedagogia specializzata ad alta soglia avviene in forma integrativa se l'istruzione e il sostegno nella classe regolare risultano vantaggiosi per l'allievo con bisogni educativi speciali e sostenibili per la classe regolare.
 
-<sup>3</sup> In caso contrario, l'attuazione avviene in forma parzialmente integrativa quale insegnamento a gruppi o individuale, oppure in forma separativa in sezioni di strutture per l'istruzione scolastica speciale oppure all'interno di famiglie.
+<sup>3</sup> In caso contrario, l'attuazione dei provvedimenti di pedagogia specializzata ad alta soglia avviene in forma parzialmente integrativa quale insegnamento a gruppi o individuale, oppure in forma separativa in sezioni di strutture per l'istruzione scolastica speciale oppure all'interno di famiglie.
 
 #### Art. 47
 
@@ -526,7 +535,8 @@ decide:
 <sup>1</sup> Gli allievi hanno diritto:
 
 - a) all'istruzione secondo lo stato attuale delle conoscenze e secondo il programma didattico;
-- b) al rispetto e al rafforzamento della loro personalità.
+- b) al rispetto e al rafforzamento della loro personalità;
+- c) di essere sentiti in relazione alle questioni concernenti la scuola che li riguardano.
 
 #### Art. 54
 
@@ -566,7 +576,7 @@ decide:
 
 **Diritto all'insegnamento**
 
-<sup>1</sup> Gli insegnanti devono disporre di un diploma riconosciuto conforme al grado o di un'autorizzazione all'insegnamento rilasciata dall'Ufficio.
+<sup>1</sup> Gli insegnanti devono disporre di un diploma riconosciuto conforme al grado oppure di una formazione riconosciuta dal Governo oppure di un'autorizzazione all'insegnamento rilasciata dall'Ufficio.
 
 #### Art. 58
 
@@ -617,13 +627,13 @@ decide:
 
 <sup>1</sup> Per un impiego a tempo pieno va prestato il seguente numero di unità d'insegnamento per settimana di scuola:
 
-- a) scuola dell'infanzia: — 24 ore
+- a) scuola dell'infanzia: — 29 lezioni
 - b) grado elementare: — 29 lezioni
 - c) grado secondario I: — 29 lezioni
 
-<sup>2</sup> Il volume d'impiego di un insegnante di classe del grado elementare e del grado secondario I si riduce di una lezione per settimana di scuola.
+<sup>2</sup> Il volume d'impiego di un insegnante di classe di scuola dell'infanzia, del grado elementare e del grado secondario I si riduce di una lezione per settimana di scuola.
 
-<sup>3</sup> A partire dai 55 anni d'età, gli insegnanti assunti a tempo pieno hanno diritto a uno sgravio per anzianità.
+<sup>3</sup> A partire dai 55 anni d'età, gli insegnanti con un volume di impiego pari al 65 per cento o superiore hanno diritto a uno sgravio per anzianità.
 
 #### Art. 63
 
@@ -637,7 +647,7 @@ decide:
 
 <sup>1</sup> L'ente scolastico può concedere agli insegnanti un congedo di perfezionamento pagato.
 
-<sup>2</sup> Per gli insegnanti che hanno insegnato per almeno dieci anni e con un volume d'impiego di almeno 20 lezioni settimanali nel grado elementare o nel grado secondario I, rispettivamente di 14 ore settimanali a livello di scuola dell'infanzia, il Cantone partecipa una volta ai costi di un congedo di perfezionamento di al massimo tre mesi.
+<sup>2</sup> Per gli insegnanti che hanno insegnato per almeno dieci anni e con un volume d'impiego di almeno 20 lezioni settimanali nella scuola dell'infanzia, nel grado elementare o nel grado secondario I il Cantone partecipa una volta ai costi di un congedo di perfezionamento di al massimo tre mesi.
 
 ### 6.2. Stipendio
 
@@ -657,16 +667,17 @@ decide:
 
 <sup>1</sup> Per gli insegnanti della scuola popolare pubblica valgono, in caso di impiego a tempo pieno conformemente all'articolo 62, le seguenti aliquote retributive minime (inclusa tredicesima mensilità):
 
-- a) scuola dell'infanzia:
-  - 1\. insegnante di scuola dell'infanzia: minimo fr. 60 000
-- b) grado elementare:
-  - 1\. insegnanti di scuola elementare e specialisti: minimo fr. 72 000
-  - 2\. insegnanti con diploma in pedagogia speciale: minimo fr. 79 000
-- c) grado secondario I:
-  - 1\. insegnanti di scuola di avviamento pratico e di scuola secondaria e insegnanti con diploma in pedagogia speciale: minimo fr. 88 000
-  - 2\. insegnanti specialisti con una o più di una materia oppure con uno o più di un settore: minimo fr. 82 000
+Minimo
 
-<sup>2</sup> L'importo minimo dello scatto per anzianità di servizio più elevato ammonta al 154 percento dello stipendio minimo.
+- a) per la scuola dell'infanzia e il grado elementare:
+  - 1\. insegnanti di scuola dell'infanzia, di scuola elementare e insegnanti specialisti fr. 78 000.–
+  - 2\. insegnanti con diploma in pedagogia speciale fr. 85 000.–
+- b) …
+- c) grado secondario I:
+  - 1\. insegnanti di scuola di avviamento pratico e di scuola secondaria e insegnanti con diploma in pedagogia speciale fr. 94 600.–
+  - 2\. insegnanti specialisti con una o più di una materia oppure con uno o più di un settore fr. 90 600.–
+
+<sup>2</sup> L'importo minimo dello scatto per anzianità di servizio più elevato ammonta al 153 per cento dello stipendio minimo.
 
 <sup>3</sup> Lo stipendio minimo per i direttori ammonta al 110 percento dello stipendio minimo per il grado secondario I.
 
@@ -730,10 +741,10 @@ decide:
 
 <sup>2</sup> Le forfetarie ammontano a:
 
-- a) per la scuola dell'infanzia e il grado elementare: — fr. 960
+- a) per la scuola dell'infanzia e il grado elementare: — fr. 1266.–
 - b) per il grado secondario I:
-  - 1\. scuola di avviamento pratico — fr. 1 460
-  - 2\. scuola secondaria — fr. 1 380
+  - 1\. scuola di avviamento pratico — fr. 1900.–
+  - 2\. scuola secondaria — fr. 1820.–
 
 <sup>3</sup> …
 
@@ -870,6 +881,18 @@ decide:
 <sup>1</sup> Il Cantone versa una forfetaria supplementare di 500 franchi per allievo e per settimana alle spese per la messa a disposizione di offerte idonee per l'insegnamento delle lingue nazionali che non vengono insegnate quali materie obbligatorie.
 
 <sup>2</sup> Il Governo può adeguare al rincaro la forfetaria supplementare.
+
+#### Art. 88a
+
+**Contributi forfetari a favore di campi scuola, settimane di progetto ed escursioni**
+
+<sup>1</sup> Il Cantone promuove lo svolgimento di campi scuola di più giorni, di settimane di progetto e di escursioni con pernottamenti esterni durante le settimane di scuola versando contributi forfetari agli enti scolastici.
+
+<sup>2</sup> Il contributo cantonale ammonta a 20 franchi per allievo e giorno svolto con pernottamento esterno.
+
+<sup>3</sup> Il contributo forfetario cantonale massimo per classe e campo, settimana di progetto o escursione ammonta a 1500 franchi per anno scolastico.
+
+<sup>4</sup> Il Governo può adeguare il contributo al rincaro.
 
 ## 9. Istanze e vigilanza
 
