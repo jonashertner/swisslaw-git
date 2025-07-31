@@ -3,20 +3,20 @@ canton: NW
 number: "611.111"
 title: Regierungsratsbeschluss über das Inkrafttreten der Planungs- und Baugesetzgebung
 language: de
-version: 2025-01-01
-corrected: 2025-01-15
-version_adopted: 2025-01-07
+version: 2025-08-01
+valid_until: 2025-11-30
+version_adopted: 2025-09-16
 adopted: 2023-12-12
 in_force: 2024-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/611.111"
-pdf: "https://gesetze.nw.ch/api/de/versions/1316/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1412/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Regierungsratsbeschluss über das Inkrafttreten der Planungs- und Baugesetzgebung
 
-vom 12.12.2023 (Stand 01.01.2025)
+vom 12.12.2023 (Stand 01.08.2025)
 
 Der Regierungsrat von Nidwalden,
 
@@ -40,7 +40,7 @@ beschliesst:
 <table>
 <tr><th>Gemeinde</th><th>Inkrafttreten</th></tr>
 <tr><td>Beckenried</td><td>noch nicht in Kraft</td></tr>
-<tr><td>Buochs</td><td>noch nicht in Kraft</td></tr>
+<tr><td>Buochs</td><td>1. August 2025 (mit Ausnahme eines Teilgebiets der Gemeinde)[^Ziff2-4][^Ziff2-5]</td></tr>
 <tr><td>Dallenwil</td><td>noch nicht in Kraft</td></tr>
 <tr><td>Emmetten</td><td>noch nicht in Kraft</td></tr>
 <tr><td>Ennetbürgen</td><td>noch nicht in Kraft</td></tr>
@@ -49,15 +49,17 @@ beschliesst:
 <tr><td>Oberdorf</td><td>noch nicht in Kraft</td></tr>
 <tr><td>Stans</td><td>1. Januar 2025</td></tr>
 <tr><td>Stansstad</td><td>1. Januar 2024</td></tr>
-<tr><td>Wolfenschiessen</td><td>noch nicht in Kraft</td></tr>
+<tr><td>Wolfenschiessen</td><td>1. Januar 2025</td></tr>
 </table>
 
-<sup>2</sup> Die Bestimmungen des BauG[^Ziff2-4] und der BauV[^Ziff2-5] treten im gleichen Zeitpunkt gemeindeweise ausser Kraft.
+<sup>2</sup> Die Bestimmungen des BauG[^Ziff2-6] und der BauV[^Ziff2-7] treten im gleichen Zeitpunkt gemeindeweise ausser Kraft.
 
 [^Ziff2-1]: NG 611.1
 [^Ziff2-2]: NG 611.11
 [^Ziff2-3]: NG 611.2
-[^Ziff2-4]: NG 611.01
-[^Ziff2-5]: NG 611.011
+[^Ziff2-4]: Die bisherige Nutzungsplanung gilt noch für die Parz. Nrn. 108, 109, 110, 113, 114, 143, 417, 535, 166, 167 und 168.
+[^Ziff2-5]: Noch nicht in Kraft sind die Bestimmungen zur Zone für öffentliche Zwecke (Ök) gemäss Art. 31 BZR und Anhang 1 BZR.
+[^Ziff2-6]: NG 611.01
+[^Ziff2-7]: NG 611.011
 
 2023-050
