@@ -4,13 +4,13 @@ number: "122.96.11"
 title: Verordnung über die Governance der Digitalisierung und der Informationssysteme des Staates
 short: GDISV
 language: de
-version: 2023-12-01
-valid_until: 2025-07-31
-version_adopted: 2023-11-20
+version: 2025-08-01
+valid_until: 2026-04-20
+version_adopted: 2025-06-17
 adopted: 2021-06-28
 in_force: 2021-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.96.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7873/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8391/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Governance der Digitalisierung und der Informationssysteme des Staates – V
 
 (GDISV)
 
-vom 28.06.2021 (Fassung in Kraft getreten am 01.12.2023)
+vom 28.06.2021 (Fassung in Kraft getreten am 01.08.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -245,7 +245,9 @@ beschliesst:
 
 <sup>1</sup> Die IT-Fachkommissionen sind gemäss den Bestimmungen des Reglements über die Organisation und die Arbeitsweise der Kommissionen des Staates organisiert.
 
-<sup>2</sup> Die Vergütungen für die IT-Fachkommissionsmitglieder richten sich nach den Bestimmungen der Verordnung über die Entschädigung der Mitglieder der Kommissionen des Staates.
+<sup>2</sup> Die Vergütungen für die IT-Fachkommissionsmitglieder richten sich nach den Bestimmungen der Verordnung über die Entschädigung der Mitglieder der Kommissionen des Staates[^18-1].
+
+[^18-1]: SGF [122.8.41](https://bdlf.fr.ch/data/122.8.41/de)
 
 #### Art. 19
 
@@ -267,13 +269,15 @@ beschliesst:
 
 **Externe Leistungserbringer/innen**
 
-<sup>1</sup> Die Auslagerung der Bearbeitung von Daten und der Verwaltung von Informatiktools im Sinne der Artikel 27 ff. E-GovG sowie der Beizug externer Leistungserbringer/innen erfolgen unter der Verantwortung des ITA.
+<sup>1</sup> Die Auslagerung der Bearbeitung von Daten und der Verwaltung von Informatiktools im Sinne der Artikel 27 ff. E-GovG[^20-1] sowie der Beizug externer Leistungserbringer/innen erfolgen unter der Verantwortung des ITA.
 
 <sup>2</sup> Das Verfahren zur Beschaffung von externen Leistungen im Bereich Digitalisierung und Informationssysteme richtet sich nach dem im öffentlichen Beschaffungswesen anwendbaren Recht. Beschaffungsstelle/Organisator ist das ITA.
 
 <sup>3</sup> Das ITA stellt sicher, dass die von externen Leistungserbringer/innen bereitgestellten Lösungen einerseits den Kriterien und Bedürfnissen der Leistungsempfänger/innen und andererseits den IT-Anforderungen entsprechen.
 
 <sup>4</sup> Das ITA ist zuständig für das Lieferantenmanagement, beschafft Hardware und Software und verhandelt sämtliche IT-Verträge, im Bestreben um Rationalisierung, Standardisierung und gemeinsame Nutzung der Informationstechnologien. Es berücksichtigt dabei die Kriterien und Bedürfnisse der Leistungsempfänger/innen und bezieht sie auf deren Wunsch in die Diskussionen ein.
+
+[^20-1]: SGF [184.1](https://bdlf.fr.ch/data/184.1/de)
 
 #### Art. 21
 
@@ -418,11 +422,13 @@ beschliesst:
 
 **Status**
 
-<sup>1</sup> Die Informatikkommission für die Gerichtsbehörden (IKGB) ist eine IT-Fachkommission im Sinne von Artikel 15. Ihr Zuständigkeitsbereich erstreckt sich auf alle Gerichtsbehörden, wie sie in Artikel 3 des Justizgesetzes vom 31. Mai 2010 definiert werden, mit Ausnahme der Oberamtspersonen.
+<sup>1</sup> Die Informatikkommission für die Gerichtsbehörden (IKGB) ist eine IT-Fachkommission im Sinne von Artikel 15. Ihr Zuständigkeitsbereich erstreckt sich auf alle Gerichtsbehörden, wie sie in Artikel 3 des Justizgesetzes vom 31. Mai 2010[^A11-1] definiert werden, mit Ausnahme der Oberamtspersonen.
 
 <sup>2</sup> Sie ist administrativ der Sicherheits-, Justiz- und Sportdirektion zugewiesen und wird von einer Kantonsrichterin oder einem Kantonsrichter präsidiert.
 
 <sup>3</sup> Sie verfügt über ein Büro, das von der Generalsekretärin oder vom Generalsekretär des Kantonsgerichts geleitet wird.
+
+[^A11-1]: SGF [130.1](https://bdlf.fr.ch/data/130.1/de)
 
 #### Art. A1-2
 
@@ -469,7 +475,7 @@ beschliesst:
 
 <sup>1</sup> Der Zuständigkeitsbereich der IKU erstreckt sich auf:
 
-- a) die Schulen der Sekundarstufe 2, die Berufsfachschulen, das Interprofessionelle Weiterbildungszentrum, die für die Ausbildung zuständige Sektion von Grangeneuve, die Pädagogische Hochschule, das Konservatorium sowie die sonstigen Schulen und Dienststellen, die im Unterrichtswesen vom ITA bereitgestellte Informatikmittel nutzen;
+- a) die Schulen der Sekundarstufe 2, die Berufsfachschulen, das Interprofessionelle Weiterbildungszentrum, die für die Ausbildung zuständige Sektion von Grangeneuve, das Konservatorium sowie die sonstigen Schulen und Dienststellen, die im Unterrichtswesen vom ITA bereitgestellte Informatikmittel nutzen;
 - b) die Lehrpersonen, Schülerinnen und Schüler, Studierenden sowie auf die technischen und Verwaltungsangestellten, welche die Informationssysteme der Schulen aller Unterrichtsstufen nach Buchstabe a nutzen.
 
 <sup>2</sup> Die Bereiche in der Zuständigkeit der Gemeinden bleiben vorbehalten.

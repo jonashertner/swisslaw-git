@@ -4,13 +4,13 @@ number: "122.96.11"
 title: "Ordonnance sur la gouvernance de la digitalisation et des systèmes d'information de l'Etat"
 short: OGDSI
 language: fr
-version: 2023-12-01
-valid_until: 2025-07-31
-version_adopted: 2023-11-20
+version: 2025-08-01
+valid_until: 2026-04-20
+version_adopted: 2025-06-17
 adopted: 2021-06-28
 in_force: 2021-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.96.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7873/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8391/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Gouvernance de la digitalisation et des systèmes d'information de l'Etat – O
 
 (OGDSI)
 
-du 28.06.2021 (version entrée en vigueur le 01.12.2023)
+du 28.06.2021 (version entrée en vigueur le 01.08.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -245,7 +245,9 @@ Arrête:
 
 <sup>1</sup> Les commissions spécialisées sont organisées conformément aux dispositions du règlement sur l'organisation et le fonctionnement des commissions de l'Etat.
 
-<sup>2</sup> Les membres des commissions spécialisées sont indemnisés conformément aux dispositions de l'ordonnance concernant la rémunération des membres des commissions de l'Etat.
+<sup>2</sup> Les membres des commissions spécialisées sont indemnisés conformément aux dispositions de l'ordonnance concernant la rémunération des membres des commissions de l'Etat[^18-1].
+
+[^18-1]: RSF [122.8.41](https://bdlf.fr.ch/data/122.8.41/fr)
 
 #### Art. 19
 
@@ -267,13 +269,15 @@ Arrête:
 
 **Prestataires externes**
 
-<sup>1</sup> L'externalisation du traitement de données et de la gestion d'outils informatiques au sens des articles 27 et suivants LCyb ainsi que l'appel à des prestataires externes sont mis en œuvre sous la responsabilité du SITel.
+<sup>1</sup> L'externalisation du traitement de données et de la gestion d'outils informatiques au sens des articles 27 et suivants LCyb[^20-1] ainsi que l'appel à des prestataires externes sont mis en œuvre sous la responsabilité du SITel.
 
 <sup>2</sup> La procédure d'acquisition des prestations externes en matière de digitalisation et de systèmes d'information est régie par le droit applicable en matière de marchés publics. Le SITel est le service organisateur.
 
 <sup>3</sup> Le SITel s'assure de l'adéquation des solutions fournies par les prestataires externes avec les critères et les besoins des bénéficiaires, d'une part, et avec les exigences informatiques, d'autre part.
 
 <sup>4</sup> Le SITel gère les fournisseurs, procède à l'acquisition du matériel et des logiciels et négocie l'ensemble des contrats informatiques, en recherchant la rationalisation, la standardisation et la mutualisation des technologies de l'information. Il prend en compte à cet égard les critères et besoins des bénéficiaires et, à leur demande, les intègre dans les discussions.
+
+[^20-1]: RSF [184.1](https://bdlf.fr.ch/data/184.1/fr)
 
 #### Art. 21
 
@@ -418,11 +422,13 @@ Arrête:
 
 **Statut**
 
-<sup>1</sup> La Commission informatique des autorités judiciaires (ci-après: la CIAJ) est une commission spécialisée au sens de l'article 15 dont le domaine de compétence s'étend à l'ensemble des autorités judiciaires telles qu'elles sont définies à l'article 3 de la loi du 31 mai 2010 sur la justice, à l'exception des préfets.
+<sup>1</sup> La Commission informatique des autorités judiciaires (ci-après: la CIAJ) est une commission spécialisée au sens de l'article 15 dont le domaine de compétence s'étend à l'ensemble des autorités judiciaires telles qu'elles sont définies à l'article 3 de la loi du 31 mai 2010 sur la justice[^A11-1], à l'exception des préfets.
 
 <sup>2</sup> Elle est rattachée administrativement à la Direction de la sécurité, de la justice et du sport et est présidée par un ou une juge cantonal‑e.
 
 <sup>3</sup> Elle est dotée d'un bureau dont la présidence est assurée par le ou la secrétaire général‑e du Tribunal cantonal.
+
+[^A11-1]: RSF [130.1](https://bdlf.fr.ch/data/130.1/fr)
 
 #### Art. A1-2
 
@@ -469,7 +475,7 @@ Arrête:
 
 <sup>1</sup> Le domaine de compétence de la CIEns s'étend:
 
-- a) aux écoles secondaires du deuxième degré, aux écoles professionnelles, au Centre de perfectionnement interprofessionnel, à la section en charge de la formation de Grangeneuve, à la Haute Ecole pédagogique, au Conservatoire ainsi qu'aux autres écoles et services qui font usage des moyens informatiques mis à leur disposition par le SITel dans le domaine de l'enseignement;
+- a) aux écoles secondaires du deuxième degré, aux écoles professionnelles, au Centre de perfectionnement interprofessionnel, à la section en charge de la formation de Grangeneuve, au Conservatoire ainsi qu'aux autres écoles et services qui font usage des moyens informatiques mis à leur disposition par le SITel dans le domaine de l'enseignement;
 - b) aux enseignants et enseignantes, élèves, étudiants et étudiantes ainsi qu'au personnel technique ou administratif faisant usage des systèmes d'information des écoles de tous les degrés d'enseignement mentionnés à la lettre a ci-dessus.
 
 <sup>2</sup> Les domaines qui relèvent de la compétence des communes sont réservés.
