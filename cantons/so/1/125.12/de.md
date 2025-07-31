@@ -4,13 +4,13 @@ number: "125.12"
 title: Gesetz über die Gerichtsorganisation
 short: GO
 language: de
-version: 2025-01-01
-valid_until: 2025-07-31
-version_adopted: 2024-06-25
+version: 2025-08-01
+valid_until: 2025-12-31
+version_adopted: 2024-03-27
 adopted: 1977-03-13
 in_force: 1977-05-01
 url: "https://bgs.so.ch/app/de/texts_of_law/125.12"
-pdf: "https://bgs.so.ch/api/de/versions/5486/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5524/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5486/pdf_file"
 
 (GO)
 
-Vom 13.03.1977 (Stand 01.01.2025)
+Vom 13.03.1977 (Stand 01.08.2025)
 
 Der Kantonsrat von Solothurn
 
@@ -124,9 +124,17 @@ beschliesst:
 
 <sup>1</sup> Für jede Amtei wählen die Stimmberechtigten einen Amtsgerichtspräsidenten.
 
-<sup>2</sup> Der Kantonsrat kann für Amteien mit besonders grosser Geschäftslast beschliessen, dass 2 oder mehr Amtsgerichtspräsidenten zu wählen sind. Die Amtsgerichtspräsidenten können sich gegenseitig vertreten.
+<sup>2</sup> Der Kantonsrat kann für Amteien mit besonders grosser Geschäftslast beschliessen, dass 2 oder mehr Amtsgerichtspräsidenten zu wählen sind. Er legt zugleich die Summe der Stellenprozente aller Amtsgerichtspräsidenten der Amtei fest. Die Amtsgerichtspräsidenten können sich gegenseitig vertreten.
 
 <sup>3</sup> Der Amtsgerichtspräsident kann ausser durch die Statthalter durch einen Amtsrichter vertreten werden.
+
+#### § 8bis
+
+**1<sup>bis</sup>. Beschäftigungsgrad**
+
+<sup>1</sup> Der Beschäftigungsgrad des Amtsgerichtspräsidenten beträgt mindestens 60 Prozent.
+
+<sup>2</sup> Die Gerichtsverwaltungskommission kann die Veränderung des Beschäftigungsgrades während der Amtsperiode auf Gesuch des Amtsgerichtspräsidenten bewilligen, wobei ausreichende Gründe vorliegen müssen, der Beschäftigungsgrad mindestens 60 Prozent betragen muss und die Summe der Stellenprozente aller Amtsgerichtspräsidenten der Amtei nicht überschritten werden darf.
 
 #### § 9
 
@@ -247,11 +255,11 @@ beschliesst:
 
 **1. Bestand, Wahlart und Stellvertretung**
 
-<sup>1</sup> Der Kantonsrat wählt den leitenden und die weiteren Haftrichter. Die Haftrichter sind zugleich Statthalter der Amtsgerichtspräsidenten.
+<sup>1</sup> Der Kantonsrat wählt den leitenden und höchstens 2 weitere Haftrichter. Er legt zugleich die Summe ihrer Stellenprozente fest. Die Haftrichter sind zugleich Statthalter der Amtsgerichtspräsidenten.
 
 <sup>2</sup> Die Haftrichter vertreten einander gegenseitig. Ausserordentliche Haftrichter sind die Amtsgerichtspräsidenten.
 
-<sup>3</sup> Teilamtliche Haftrichter dürfen andere berufliche Tätigkeiten ausüben, soweit diese die Erfüllung der Amtspflichten, die Unabhängigkeit und das Ansehen des Gerichts nicht beeinträchtigen; ausgeschlossen ist insbesondere die berufsmässige Vertretung Dritter vor Gericht.
+<sup>3</sup> …
 
 <sup>4</sup> Das Obergericht regelt die Organisation und die Geschäftsführung durch Verordnung.
 
@@ -1059,6 +1067,14 @@ beschliesst:
 
 <sup>1</sup> Für die Anstellung des übrigen juristischen und nicht juristischen Personals der Gerichte, der Staatsanwaltschaft und der Jugendanwaltschaft gilt, soweit dieses Gesetz keine Regeln enthält, das allgemeine Personalrecht.
 
+## 6<sup>ter</sup>. Amtsperiode
+
+#### § 85quater
+
+**Beginn und Ende der Amtsperiode**
+
+<sup>1</sup> Die Amtsperiode der Beamten und Behörden gemäss diesem Gesetz beginnt jeweils am 1. August nach den Kantons- und Regierungsratswahlen und endet vier Jahre später am 31. Juli.
+
 ## 7. Amtssitz
 
 #### § 86
@@ -1118,11 +1134,11 @@ beschliesst:
 
 **d) Gerichtsschreiber und Untersuchungsbeamte**
 
-<sup>1</sup> Wahlerfordernis für den Obergerichtsschreiber, die Gerichtsschreiber des Obergerichtes, die Amtsgerichtsschreiber und ihre Stellvertreter, den Haftgerichtsschreiber und seine Stellvertreter, den Aktuar der Kantonalen Schätzungskommission und seinen Stellvertreter ist das solothurnische Gerichtsschreiberpatent oder eine an einer schweizerischen Hochschule abgeschlossene juristische Ausbildung.
+<sup>1</sup> Wahlerfordernis für den Obergerichtsschreiber, die Gerichtsschreiber des Obergerichtes, die Amtsgerichtsschreiber und ihre Stellvertreter, den Haftgerichtsschreiber und seine Stellvertreter sowie für den Aktuar der Kantonalen Schätzungskommission und seinen Stellvertreter ist eine an einer schweizerischen Hochschule abgeschlossene juristische Ausbildung.
 
-<sup>2</sup> Wahlerfordernis für die Untersuchungsbeamten der Staatsanwaltschaft und der Jugendanwaltschaft ist eine an einer schweizerischen Hochschule abgeschlossene juristische Ausbildung, eine entsprechende Fachausbildung, das solothurnische Gerichtsschreiberpatent oder die Stellung eines Verwaltungsbeamten einer Gerichtskanzlei.
+<sup>2</sup> Wahlerfordernis für die Untersuchungsbeamten der Staatsanwaltschaft und der Jugendanwaltschaft ist eine an einer schweizerischen Hochschule abgeschlossene juristische Ausbildung oder eine entsprechende Fachausbildung.
 
-<sup>3</sup> Das Gerichtsschreiberpatent wird vom Regierungsrat an Personen erteilt, die eine Prüfung bestanden haben. Der Regierungsrat regelt die Zulassungsvoraussetzungen, die erforderliche Ausbildung und die Prüfung in einer Verordnung.
+<sup>3</sup> …
 
 ## 8<sup>bis</sup>. Nebenbeschäftigung
 
@@ -1132,9 +1148,11 @@ beschliesst:
 
 <sup>1</sup> Für die Ausübung einer Nebenbeschäftigung bedürfen voll- und teilamtliche Richter einer Bewilligung der Gerichtsverwaltungskommission.
 
-<sup>2</sup> Die Nebenbeschäftigung darf die Erfüllung der Amtspflichten, die Unabhängigkeit und das Ansehen des Gerichts nicht beeinträchtigten. Ausgeschlossen ist insbesondere die berufsmässige Vertretung Dritter vor Gericht.
+<sup>2</sup> Die Nebenbeschäftigung darf die Erfüllung der Amtspflichten, die Unabhängigkeit und das Ansehen des Gerichts nicht beeinträchtigen. Ausgeschlossen ist insbesondere die berufsmässige Vertretung Dritter vor Gericht. Ausgeschlossen sind ebenfalls andere hauptamtliche Erwerbstätigkeiten, soweit das Gesetz nicht ausdrücklich eine Ausnahme vorsieht oder die Gerichtsverwaltungskommission eine Ausnahme bewilligt, wenn die Erwerbstätigkeit offensichtlich vereinbar ist mit dem Richteramt.
 
-<sup>3</sup> Nebenamtliche Richter dürfen vor demjenigen Gericht, an welchem sie richterlich tätig sind, keine Dritten vertreten. Richter am Kantonalen Steuergericht dürfen zudem keine Dritten in Einsprache- und Rechtsmittelverfahren vor den Veranlagungsbehörden und dem Kantonalen Steueramt vertreten.
+<sup>3</sup> Nebenamtliche Richter dürfen vor demjenigen Gericht, an welchem sie richterlich tätig sind, keine Dritten vertreten. Richter am Kantonalen Steuergericht dürfen zudem keine Dritten in Einsprache- und Rechtsmittelverfahren vor den Veranlagungsbehörden und dem Kantonalen Steueramt vertreten. Die nebenamtlichen Richter melden ihre Nebenbeschäftigungen bei Amtsantritt sowie unverzüglich nach jeder Änderung der Gerichtsverwaltungskommission.
+
+<sup>4</sup> Die Gerichtsverwaltungskommission publiziert sämtliche Nebenbeschäftigungen der haupt- und nebenamtlichen Richter in elektronischer Form.
 
 ## 9. Ausstandsbestimmungen
 
@@ -1463,6 +1481,14 @@ beschliesst:
 **6<sup>quater</sup>. Übergangsbestimmung zur Gesetzesänderung vom 12. Dezember 2012 (Anpassungen bei den Spezialverwaltungsgerichten [Steuergericht und Schätzungskommission])**
 
 <sup>1</sup> Beschwerden betreffend öffentliche Beschaffungen, die bei Inkrafttreten dieses Gesetzes bei der Kantonalen Schätzungskommission hängig sind, werden an das Verwaltungsgericht zur Weiterbehandlung überwiesen.
+
+#### § 122quinquies
+
+**Übergangsbestimmung zur Gesetzesänderung vom 27. März 2024 (Anpassungen bei den Amtsgerichten)**
+
+<sup>1</sup> Die Amtsperiode aller auf eine Amtsperiode gewählten Beamten und Behörden gemäss diesem Gesetz endet am 31. Juli 2025.
+
+<sup>2</sup> Sind Beamte und Behörden gemäss diesem Gesetz bis zum 31. Juli 2024 oder einem späteren Zeitpunkt gewählt, so verlängert sich die Amtsperiode bis am 31. Juli 2025.
 
 #### § 123
 
