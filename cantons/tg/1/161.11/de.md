@@ -1,27 +1,26 @@
 ---
 canton: TG
 number: "161.11"
-title: Verordnung des Regierungsrates zum Gesetz über das Stimm- und Wahlrecht
+title: Verordnung über das Stimm- und Wahlrecht
 short: StWV
 language: de
-version: 2014-08-01
-valid_until: 2025-07-31
-version_adopted: 2014-06-24
+version: 2025-08-01
+version_adopted: 2025-05-06
 adopted: 2014-06-24
 in_force: 2014-08-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/161.11"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2565/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2901/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates zum Gesetz über das Stimm- und Wahlrecht
+# Verordnung über das Stimm- und Wahlrecht
 
 StWV
 
 (StWV)
 
-vom 24.06.2014 (Stand 01.08.2014)
+vom 24.06.2014 (Stand 01.08.2025)
 
 ## 1. Zuständigkeiten
 
@@ -31,9 +30,9 @@ vom 24.06.2014 (Stand 01.08.2014)
 
 <sup>1</sup> Zuständige Departemente sind:
 
-- 1\. das Departement für Inneres und Volkswirtschaft bei Politischen Gemeinden und Bürgergemeinden sowie als Rekursinstanz bei kantonalen Urnengängen;
-- 2\. das Departement für Erziehung und Kultur bei Schulgemeinden und bei Schulkommissionen von Politischen Gemeinden;
-- 3\. das Departement für Justiz und Sicherheit bei Bezirks- und Kreiswahlen.
+- 1\. das Departement für Inneres und Volkswirtschaft bei Politischen Gemeinden und Bürgergemeinden sowie als Rekursinstanz bei kantonalen Urnengängen
+- 2\. das Departement für Erziehung und Kultur bei Schulgemeinden und bei Schulkommissionen von Politischen Gemeinden
+- 3\. das Departement für Justiz und Sicherheit bei Bezirks- und Kreiswahlen
 
 #### § 2
 
@@ -57,10 +56,10 @@ vom 24.06.2014 (Stand 01.08.2014)
 
 <sup>1</sup> Einträge sind zu streichen:
 
-- 1\. bei Aufgabe des Wohnsitzes in der Gemeinde;
-- 2\. bei Eintritt eines Ausschlussgrundes;
-- 3\. auf Antrag von Personen, die an ihrem Aufenthaltsort politischen Wohnsitz gemäss Bundesrecht erwerben wollen;
-- 4\. im Todesfall.
+- 1\. bei Aufgabe des Wohnsitzes in der Gemeinde
+- 2\. bei Eintritt eines Ausschlussgrundes
+- 3\. auf Antrag von Personen, die an ihrem Aufenthaltsort politischen Wohnsitz gemäss Bundesrecht erwerben wollen
+- 4\. im Todesfall
 
 #### § 5
 
@@ -84,8 +83,8 @@ vom 24.06.2014 (Stand 01.08.2014)
 
 <sup>1</sup> Abstimmungen und Wahlen werden innert angemessener Frist angekündigt:
 
-- 1\. in eidgenössischen und kantonalen Angelegenheiten durch den Regierungsrat im Amtsblatt;
-- 2\. in kommunalen Angelegenheiten durch die Gemeindebehörde im ortsüblichen Rahmen.
+- 1\. in eidgenössischen und kantonalen Angelegenheiten durch den Regierungsrat im Amtsblatt
+- 2\. in kommunalen Angelegenheiten durch die Gemeindebehörde im ortsüblichen Rahmen
 
 #### § 8
 
@@ -117,9 +116,9 @@ vom 24.06.2014 (Stand 01.08.2014)
 
 <sup>2</sup> Bei der Bereinigung von Wahlvorschlägen werden gestrichen:
 
-- 1\. vorgeschlagene Personen, die nicht wählbar sind;
-- 2\. vorgeschlagene Personen, die bereits auf einem anderen Wahlvorschlag aufgeführt sind;
-- 3\. unterstützende Personen, die im Zeitpunkt der Einreichung nicht stimmberechtigt sind.
+- 1\. vorgeschlagene Personen, die nicht wählbar sind
+- 2\. vorgeschlagene Personen, die bereits auf einem anderen Wahlvorschlag aufgeführt sind
+- 3\. unterstützende Personen, die im Zeitpunkt der Einreichung nicht stimmberechtigt sind
 
 <sup>3</sup> Pro vorgeschlagene Person dürfen höchstens drei Angaben zum Beruf aufgeführt werden.
 
@@ -127,10 +126,10 @@ vom 24.06.2014 (Stand 01.08.2014)
 
 **Ergänzung von Wahlvorschlägen**
 
-<sup>1</sup> Wahlvorschläge können nach der Bereinigung nachträglich ergänzt werden, wenn:
+<sup>1</sup> Wahlvorschläge können nach der Bereinigung nachträglich ergänzt werden, wenn
 
-- 1\. vorgeschlagene Personen gestrichen werden mussten;
-- 2\. die Zustimmung von vorgeschlagenen Personen fehlt;
+- 1\. vorgeschlagene Personen gestrichen werden mussten,
+- 2\. die Zustimmung von vorgeschlagenen Personen fehlt,
 - 3\. die Zahl der unterzeichnenden Stimmberechtigten nicht mehr genügt.
 
 <sup>2</sup> Der Person oder Gruppierung, die den Wahlvorschlag eingereicht hat, ist eine kurze Frist zur Ergänzung anzusetzen.
@@ -175,8 +174,8 @@ vom 24.06.2014 (Stand 01.08.2014)
 
 <sup>1</sup> Die Listennummern ergeben sich aus der Reihenfolge des Eingangs der Wahlvorschläge unter Berücksichtigung folgender Besonderheiten:
 
-- 1\. Vorzeitig eingereichte Wahlvorschläge gelten als am ersten Tag eingegangen.
-- 2\. Bei der Wahl des Grossen Rates werden Wahlvorschläge derselben Partei oder Gruppierung aus verschiedenen Wahlkreisen, die zusammen eingereicht werden, als ein Vorschlag behandelt und erhalten die gleiche Nummer.
+- 1\. vorzeitig eingereichte Wahlvorschläge gelten als am ersten Tag eingegangen
+- 2\. bei der Wahl des Grossen Rates werden Wahlvorschläge derselben Partei oder Gruppierung aus verschiedenen Wahlkreisen, die zusammen eingereicht werden, als ein Vorschlag behandelt und erhalten die gleiche Nummer
 
 <sup>2</sup> Bei am gleichen Tag eingegangenen Wahlvorschlägen entscheidet das Los über die Listennummer.
 
@@ -222,9 +221,9 @@ vom 24.06.2014 (Stand 01.08.2014)
 
 <sup>1</sup> Bei der brieflichen Stimmabgabe ist dem Wahlbüro der Gemeinde in einer Sendung zuzustellen:
 
-- 1\. der Stimmrechtsausweis;
-- 2\. eine unterschriebene Erklärung der stimmenden Person, dass sie brieflich stimme;
-- 3\. ein Stimmzettelcouvert mit höchstens einem Stimm- oder Wahlzettel pro Abstimmungsgegenstand oder Wahl.
+- 1\. der Stimmrechtsausweis
+- 2\. eine unterschriebene Erklärung der stimmenden Person, dass sie brieflich stimme
+- 3\. ein Stimmzettelcouvert mit höchstens einem Stimm- oder Wahlzettel pro Abstimmungsgegenstand oder Wahl
 
 <sup>2</sup> Auslandschweizerinnen und -schweizer senden die Unterlagen an das kantonale Stimmbüro für Auslandschweizerinnen und -schweizer.
 
@@ -236,8 +235,8 @@ vom 24.06.2014 (Stand 01.08.2014)
 
 <sup>1</sup> In den Stimmlokalen sind aufzustellen:
 
-- 1\. Urnen für die Stimmrechtsausweise;
-- 2\. Urnen für die Stimm- und Wahlzettel.
+- 1\. Urnen für die Stimmrechtsausweise
+- 2\. Urnen für die Stimm- und Wahlzettel
 
 <sup>2</sup> Die Urnen sind deutlich zu kennzeichnen und durch Schlösser, Plomben oder Siegel zu sichern. Sie dürfen erst zur Ermittlung der Ergebnisse wieder geöffnet werden.
 
@@ -251,7 +250,7 @@ vom 24.06.2014 (Stand 01.08.2014)
 
 <sup>3</sup> Die Urnenoffizianten der Politischen Gemeinden können im gegenseitigen Einvernehmen auch von den Schul-, Bürger- und Kirchgemeinden sowie vom Kanton für die Stimmabgabe der Auslandschweizerinnen und -schweizer beigezogen werden.
 
-### 4.3. Elektronische Stimmabgabe für Auslandschweizerinnen und -schweizer
+### 4.3. Elektronische Stimmabgabe im Versuchsbetrieb
 
 #### § 25
 
@@ -261,23 +260,49 @@ vom 24.06.2014 (Stand 01.08.2014)
 
 <sup>2</sup> Er legt das Verfahren nach Massgabe der Bestimmungen der Bundesgesetzgebung fest.
 
+#### § 25a
+
+**Anmeldung für die elektronische Stimmabgabe**
+
+<sup>1</sup> Wer elektronisch abstimmen will, meldet sich dafür an.
+
+<sup>2</sup> An- oder Abmeldungen sind vor jeder Wahl oder Abstimmung möglich und werden berücksichtigt, wenn sie spätestens acht Wochen vor dem Wahl- oder Abstimmungstag vorgenommen werden.
+
+<sup>3</sup> Alle stimmberechtigten Auslandschweizerinnen und Auslandschweizer gelten als für die elektronische Stimmabgabe angemeldet.
+
+#### § 25b
+
+**Stimmmaterial**
+
+<sup>1</sup> Die angemeldeten Stimmberechtigten erhalten die Wahl- und Abstimmungsinformationen elektronisch.
+
+<sup>2</sup> Auf dem Postweg wird nur der Stimmrechtsausweis zugestellt.
+
+<sup>3</sup> Die stimmberechtigten Auslandschweizerinnen und Auslandschweizer erhalten das gesamte Stimmmaterial auf dem Postweg.
+
 #### § 26
 
-**Stimmbüro für Auslandschweizerinnen und -schweizer**
+**Stimmbüro für E-Voting**
 
-<sup>1</sup> Der Regierungsrat bestimmt mindestens fünf Mitglieder des Stimmbüros für Auslandschweizerinnen und -schweizer.
+<sup>1</sup> Der Regierungsrat bestimmt mindestens vier Mitglieder und den Vorsitz des Stimmbüros für E‑Voting.
 
-<sup>2</sup> Das Stimmbüro überwacht den Ablauf, die Entschlüsselung und die Auswertung der elektronisch abgegebenen Stimmen.
+<sup>2</sup> Die Mitglieder des Stimmbüros überwachen den Ablauf, die Entschlüsselung und die Auswertung der elektronisch abgegebenen Stimmen und nehmen die Aufgaben als Prüferinnen und Prüfer im Sinne der Verordnung der BK über die elektronische Stimmabgabe (VEleS)[^26-1] wahr.
 
-<sup>3</sup> Das Stimmbüro kann zur Ermittlung der Ergebnisse zusätzliche Personen beiziehen.
+<sup>3</sup> Das Stimmbüro für E-Voting amtet als Stimmbüro für die Stimmabgaben der Auslandschweizerinnen und Auslandschweizer.
+
+<sup>4</sup> Für die Ermittlung der Ergebnisse können zusätzliche Personen beigezogen werden.
+
+[^26-1]: SR [161.116](https://db.clex.ch/link/Bund/161.116/de)
 
 #### § 27
 
 **Stimmabgabe**
 
-<sup>1</sup> Die stimmberechtigten Auslandschweizerinnen und -schweizer können ihre Stimme brieflich, elektronisch oder persönlich abgeben.
+<sup>1</sup> Wer für die elektronische Stimmabgabe angemeldet ist, stimmt elektronisch ab.
 
-<sup>2</sup> Die Staatskanzlei regelt die Stimmabgabe.
+<sup>2</sup> Sie oder er kann brieflich oder persönlich abstimmen, muss jedoch das dafür erforderliche Stimmmaterial unter Vorlage des Stimmrechtsausweises bei der Gemeinde beziehen.
+
+<sup>3</sup> Die stimmberechtigten Auslandschweizerinnen und -schweizer können ihre Stimme brieflich, elektronisch oder persönlich abgeben.
 
 ## 5. Ermittlung der Ergebnisse
 
@@ -303,10 +328,10 @@ vom 24.06.2014 (Stand 01.08.2014)
 
 <sup>1</sup> Auf dem Wahlzettel sind zu streichen:
 
-- 1\. Namen nicht wählbarer Personen;
-- 2\. Namen nicht identifizierbarer Personen;
-- 3\. Wiederholungen von Namen, die bei einer Majorzwahl mehr als einmal aufgeführt sind;
-- 4\. Wiederholungen von Namen, die bei einer Proporzwahl mehr als zweimal aufgeführt sind.
+- 1\. Namen nicht wählbarer Personen
+- 2\. Namen nicht identifizierbarer Personen
+- 3\. Wiederholungen von Namen, die bei einer Majorzwahl mehr als einmal aufgeführt sind
+- 4\. Wiederholungen von Namen, die bei einer Proporzwahl mehr als zweimal aufgeführt sind
 
 <sup>2</sup> Enthält ein Wahlzettel mehr Namen, als Personen zu wählen sind, werden die letzten gestrichen.
 
@@ -381,9 +406,9 @@ vom 24.06.2014 (Stand 01.08.2014)
 
 <sup>1</sup> Die Ergebnisse von Abstimmungen und Wahlen werden wie folgt veröffentlicht:
 
-- 1\. bei eidgenössischen und kantonalen Urnengängen durch die Staatskanzlei elektronisch und im Amtsblatt;
-- 2\. bei kommunalen Abstimmungen und Wahlen an der Urne durch die Gemeindebehörde elektronisch und in ortsüblicher Weise;
-- 3\. bei Abstimmungen und Wahlen in der Gemeindeversammlung durch Bekanntgabe der Ergebnisse in der Gemeindeversammlung.
+- 1\. bei eidgenössischen und kantonalen Urnengängen durch die Staatskanzlei elektronisch und im Amtsblatt
+- 2\. bei kommunalen Abstimmungen und Wahlen an der Urne durch die Gemeindebehörde elektronisch und in ortsüblicher Weise
+- 3\. bei Abstimmungen und Wahlen in der Gemeindeversammlung durch Bekanntgabe der Ergebnisse in der Gemeindeversammlung
 
 #### § 39
 
@@ -435,14 +460,14 @@ vom 24.06.2014 (Stand 01.08.2014)
 
 <sup>2</sup> Wird die Stimmrechtsbescheinigung verweigert, ist dies durch eines der folgenden Stichworte beziehungsweise die entsprechende Abkürzung zu begründen:
 
-- 1\. unleserlich (a);
-- 2\. nicht identifizierbar (b);
-- 3\. mehrfach unterschrieben (c);
-- 4\. von gleicher Hand (d);
-- 5\. nicht handschriftlich (e);
-- 6\. nicht im Stimmregister (f);
-- 7\. eigenhändige Unterschrift fehlt (g);
-- 8\. falsches Geburtsdatum (h).
+- 1\. unleserlich (a)
+- 2\. nicht identifizierbar (b)
+- 3\. mehrfach unterschrieben (c)
+- 4\. von gleicher Hand (d)
+- 5\. nicht handschriftlich (e)
+- 6\. nicht im Stimmregister (f)
+- 7\. eigenhändige Unterschrift fehlt (g)
+- 8\. falsches Geburtsdatum (h)
 
 #### § 45
 
