@@ -4,18 +4,18 @@ title: Ordonnance du 29 octobre 2003 concernant le sport militaire
 short: OAHST
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/584"
 language: fr
-version: 2023-01-01
+version: 2025-08-01
 adopted: 2003-10-29
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/584/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-584-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/584/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/584/20250801/fr/xml/fedlex-data-admin-ch-eli-cc-2003-584-20250801-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/584/20250801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance concernant le sport militaire
 
-du 29 octobre 2003 (État le 1<sup>er</sup> janvier 2023)[^t-1]
+du 29 octobre 2003 (État le 1<sup>er</sup> août 2025)[^t-1]
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 21 août 2013, en vigueur depuis le 1<sup>er</sup> oct. 2013 ([RO 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
 
@@ -135,11 +135,11 @@ L’organisation de concours du CISM en Suisse doit se faire conformément aux d
 Sont reconnues comme grandes manifestations internationales de sport militaire:
 
 - a. Patrouille des Glaciers (PDG);
-- b.[^9-1] …
+- b.[^9-1] Concours d’armée (CA);
 - c. Swiss Tank Challenge (STC);
 - d. Swiss Air Force Competition (SAFC).
 
-[^9-1]: Abrogée par le ch. I de l’O du 21 août 2013, avec effet au 1<sup>er</sup> oct. 2013 ([RO 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 433](https://fedlex.data.admin.ch/eli/oc/2025/433)).
 
 #### Art. 10
 

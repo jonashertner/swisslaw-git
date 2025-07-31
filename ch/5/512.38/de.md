@@ -4,18 +4,18 @@ title: Verordnung vom 29. Oktober 2003 über den Militärsport
 short: VATT
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/584"
 language: de
-version: 2023-01-01
+version: 2025-08-01
 adopted: 2003-10-29
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/584/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2003-584-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/584/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/584/20250801/de/xml/fedlex-data-admin-ch-eli-cc-2003-584-20250801-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/584/20250801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über den Militärsport
 
-vom 29. Oktober 2003 (Stand am 1. Januar 2023)[^t-1]
+vom 29. Oktober 2003 (Stand am 1. August 2025)[^t-1]
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2013, in Kraft seit 1. Okt. 2013 ([AS 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
 
@@ -135,11 +135,11 @@ Für die Durchführung von Wettkämpfen des CISM in der Schweiz sind dessen Wett
 Als internationale militärsportliche Grossanlässe gelten:
 
 - a. Patrouille des Glaciers (PDG);
-- b.[^9-1] …
+- b. [^9-1] Armeewettkampf (AWK);
 - c. Swiss Tank Challenge (STC);
 - d. Swiss Air Force Competition (SAFC).
 
-[^9-1]: Aufgehoben durch Ziff. I der V vom 21. Aug. 2013, mit Wirkung seit 1. Okt. 2013 ([AS 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^9-1]: Fassung gemäss Ziff. I der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 433](https://fedlex.data.admin.ch/eli/oc/2025/433)).
 
 #### Art. 10
 

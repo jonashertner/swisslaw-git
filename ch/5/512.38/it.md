@@ -4,20 +4,20 @@ title: Ordinanza del 29 ottobre 2003 sullo sport militare
 short: OATFS
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/584"
 language: it
-version: 2023-01-01
+version: 2025-08-01
 adopted: 2003-10-29
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/584/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2003-584-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/584/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/584/20250801/it/xml/fedlex-data-admin-ch-eli-cc-2003-584-20250801-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/584/20250801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sullo sport militare
 
-del 29 ottobre 2003 (Stato 1° gennaio 2023)[^t-1]
+del 29 ottobre 2003 (Stato 1° agosto 2025)[^t-1]
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
 
 Il Consiglio federale svizzero,
 
@@ -39,7 +39,7 @@ ordina:
 
 <sup>2</sup> A tal fine la truppa svolge corsi e gare o vi partecipa.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
 
 #### Art. 2
 
@@ -47,7 +47,7 @@ ordina:
 
 Il servizio militare offre agli sportivi di punta la possibilità di sviluppare il loro livello competitivo.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
 
 #### Art. 3
 
@@ -57,7 +57,7 @@ Il servizio militare offre agli sportivi di punta la possibilità di sviluppare 
 
 <sup>2</sup> L’Aggruppamento Difesa è responsabile dei servizi militari volti allo sviluppo del livello competitivo nello sport di punta. L’Ufficio federale dello sport fornisce consulenza e appoggio all’Aggruppamento Difesa nelle questioni di carattere sportivo. [^3-1]
 
-[^3-1]: Introdotto dal n. I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^3-1]: Introdotto dalla cifra I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
 
 ## Capitolo 2: Corsi e gare fuori del servizio
 
@@ -83,14 +83,14 @@ Il servizio militare offre agli sportivi di punta la possibilità di sviluppare 
 
 <sup>3</sup> La partecipazione è possibile al massimo fino al compimento del 65° anno d’età.[^5-2]
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2667](https://fedlex.data.admin.ch/eli/oc/2010/356)).
-[^5-2]: Introdotto dal n. I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2667](https://fedlex.data.admin.ch/eli/oc/2010/356)).
+[^5-2]: Introdotto dalla cifra I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
 
 #### Art. 5a
 
 [^5a-1]
 
-[^5a-1]: Introdotto dal n. I dell’O del 4 giu. 2010 ([RU 2010 2667](https://fedlex.data.admin.ch/eli/oc/2010/356)). Abrogato dal n. I dell’O del 21 ago. 2013, con effetto dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^5a-1]: Introdotto dalla cifra I dell’O del 4 giu. 2010 ([RU 2010 2667](https://fedlex.data.admin.ch/eli/oc/2010/356)). Abrogato dalla cifra I dell’O del 21 ago. 2013, con effetto dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
 
 #### Art. 6
 
@@ -102,7 +102,7 @@ Il conteggio delle spese d’organizzazione avviene nell’ambito dei crediti pr
 
 [^chap2-sec2-1]
 
-[^chap2-sec2-1]: Nuovo testo giusta il n. I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^chap2-sec2-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
 
 #### Art. 7
 
@@ -116,9 +116,9 @@ Il conteggio delle spese d’organizzazione avviene nell’ambito dei crediti pr
 
 <sup>4</sup> ...[^7-3]
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
 [^7-2]: Nuova espr. giusta l’all. 7 n. 2 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)). Di detta mod. é tenuto conto nelle disp. menzionate nella RU.
-[^7-3]: Abrogato dal n. I dell’O del 21 ago. 2013, con effetto dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^7-3]: Abrogato dalla cifra I dell’O del 21 ago. 2013, con effetto dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
 
 #### Art. 8
 
@@ -135,11 +135,11 @@ Per l’organizzazione di gare del CISM in Svizzera sono determinanti le disposi
 Sono considerate grandi manifestazioni internazionali di sport militare:
 
 - a. la Patrouille des Glaciers (PDG);
-- b.[^9-1] ...
+- b.[^9-1] la gara dell’esercito (GEs);
 - c. lo Swiss Tank Challenge (STC);
 - d. la Swiss Air Force Competition (SAFC).
 
-[^9-1]: Abrogata dal n. I dell’O del 21 ago. 2013, con effetto dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 433](https://fedlex.data.admin.ch/eli/oc/2025/433)).
 
 #### Art. 10
 
@@ -161,10 +161,10 @@ L’Aggruppamento Difesa designa gli organizzatori.
 
 <sup>4</sup> La partecipazione è possibile al massimo fino al compimento del 65° anno d’età. Questo limite d’età non si applica ai concorrenti civili della PDG.[^11-4]
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
-[^11-2]: Introdotto dal n. I dell’O del 13 dic. 2019, in vigore dal 1° feb. 2020 ([RU 2020 21](https://fedlex.data.admin.ch/eli/oc/2020/7)).
-[^11-3]: Introdotto dal n. I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
-[^11-4]: Introdotto dal n. I dell’O del 21 ago. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)). Nuovo testo giusta il n. I dell’O del 13 dic. 2019, in vigore dal 1° feb. 2020 ([RU 2020 21](https://fedlex.data.admin.ch/eli/oc/2020/7)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^11-2]: Introdotto dalla cifra I dell’O del 13 dic. 2019, in vigore dal 1° feb. 2020 ([RU 2020 21](https://fedlex.data.admin.ch/eli/oc/2020/7)).
+[^11-3]: Introdotto dalla cifra I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^11-4]: Introdotto dalla cifra I dell’O del 21 ago. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)). Nuovo testo giusta la cifra I dell’O del 13 dic. 2019, in vigore dal 1° feb. 2020 ([RU 2020 21](https://fedlex.data.admin.ch/eli/oc/2020/7)).
 
 #### Art. 12
 
@@ -186,7 +186,7 @@ L’Aggruppamento Difesa decide, nell’ambito dei crediti concessi, in merito a
 
 <sup>2</sup> ...[^14-1]
 
-[^14-1]: Abrogato dal n. I dell’O del 21 ago. 2013, con effetto dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^14-1]: Abrogato dalla cifra I dell’O del 21 ago. 2013, con effetto dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
 
 ### Sezione 4: Corsi volontari di sport militare
 
@@ -212,8 +212,8 @@ L’Aggruppamento Difesa decide, nell’ambito dei crediti concessi, in merito a
 
 <sup>4</sup> Annualmente è consentito partecipare a un corso di sport militare estivo e a uno invernale, ma al massimo a due corsi volontari ai sensi degli articoli 15 e 17.
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
-[^16-2]: Abrogato dal n. I dell’O del 21 ago. 2013, con effetto dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^16-2]: Abrogato dalla cifra I dell’O del 21 ago. 2013, con effetto dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
 
 ### Sezione 5: Corsi volontari d’alpinismo
 
@@ -239,8 +239,8 @@ L’Aggruppamento Difesa decide, nell’ambito dei crediti concessi, in merito a
 
 <sup>4</sup> Annualmente è consentito partecipare a un corso d’alpinismo estivo e a uno invernale, ma al massimo a due corsi volontari ai sensi degli articoli 15 e 17.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
-[^18-2]: Abrogato dal n. I dell’O del 21 ago. 2013, con effetto dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^18-2]: Abrogato dalla cifra I dell’O del 21 ago. 2013, con effetto dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
 
 ### Sezione 6: Gare militari alle feste cantonali di tiro
 
@@ -256,7 +256,7 @@ Nell’ambito delle feste cantonali di tiro possono essere organizzate gare mili
 
 La partecipazione è possibile al massimo fino al compimento del 65° anno d’età.
 
-[^20-1]: Nuovo testo giusta il n. I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
 
 #### Art. 21
 
@@ -274,7 +274,7 @@ Nell’ambito dei crediti concessi, la Confederazione versa un contributo di die
 
 <sup>2</sup> Se necessario e al più tardi fino al compimento del 65° anno d’età, è possibile impiegare ex militari come funzionari di gara volontari o personale di servizio volontario. [^22-1]
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
 
 #### Art. 23
 
@@ -288,7 +288,7 @@ Nell’ambito dei crediti concessi, la Confederazione versa un contributo di die
 
 [^chap2-sec8-1]
 
-[^chap2-sec8-1]: Nuovo testo giusta il n. I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^chap2-sec8-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
 
 #### Art. 23a
 
@@ -307,7 +307,7 @@ Non hanno diritto al soldo:
 - a. gli ex militari;
 - b. gli altri partecipanti.
 
-[^23a-1]: Introdotto dal n. I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^23a-1]: Introdotto dalla cifra I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
 
 #### Art. 24
 
@@ -343,7 +343,7 @@ L’Aggruppamento Difesa, d’intesa con l’Amministrazione federale delle fina
 
 [^chap2a-1]
 
-[^chap2a-1]: Introdotto dal n. I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^chap2a-1]: Introdotto dalla cifra I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
 
 #### Art. 27a
 
@@ -385,10 +385,10 @@ Per i servizi militari all’estero che non vengono prestati nell’ambito dell�
 - g. nel quadro di un accordo con il Comando Istruzione definiscono i dettagli per i servizi militari secondo il presente capoverso;
 - h. con riserva delle prestazioni dell’assicurazione militare stabilite per legge, la Confederazione non risponde di alcun danno in relazione a servizi militari secondo il presente capoverso.[^27b-5]
 
-[^27b-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7493](https://fedlex.data.admin.ch/eli/oc/2017/811)).
+[^27b-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7493](https://fedlex.data.admin.ch/eli/oc/2017/811)).
 [^27b-2]: Nuovo testo giusta l’all. 7 n. 2 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^27b-3]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7493](https://fedlex.data.admin.ch/eli/oc/2017/811)).
-[^27b-4]: Introdotto dal n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7493](https://fedlex.data.admin.ch/eli/oc/2017/811)).
+[^27b-3]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7493](https://fedlex.data.admin.ch/eli/oc/2017/811)).
+[^27b-4]: Introdotto dalla cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7493](https://fedlex.data.admin.ch/eli/oc/2017/811)).
 [^27b-5]: Introdotto dall’all. 7 n. 2 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 27c
@@ -421,7 +421,7 @@ Le persone attribuite o assegnate secondo il capoverso 1:
 - d. non possono essere proposti per l’assunzione di un grado superiore o essere promossi a un grado superiore, tuttavia se necessario possono essere nominati ufficiali specialisti;
 - e. possono prestare, al più tardi sino alla fine dell’anno in cui compiono 65 anni, al massimo 100 giorni l’anno di servizio militare con diritto al soldo.
 
-[^27d-1]: Introdotto dal n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7493](https://fedlex.data.admin.ch/eli/oc/2017/811)).
+[^27d-1]: Introdotto dalla cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7493](https://fedlex.data.admin.ch/eli/oc/2017/811)).
 
 ## Capitolo 3: Disposizioni finali
 
@@ -429,7 +429,7 @@ Le persone attribuite o assegnate secondo il capoverso 1:
 
 [^28-1]
 
-[^28-1]: Abrogato dal n. II 38 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, con effetto dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+[^28-1]: Abrogato dalla cifra II 38 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, con effetto dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
 #### Art. 29
 
@@ -454,9 +454,9 @@ Esso definisce un organo centrale responsabile:
 
 <sup>3</sup> Esso presenta annualmente al capo dell’esercito un rapporto sui corsi e le gare della truppa fuori del servizio e ne valuta in tale sede l’ulteriore fabbisogno e l’ulteriore utilità per l’esercito.[^29-3]
 
-[^29-1]: Abrogata dal n. I dell’O del 21 ago. 2013, con effetto dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
-[^29-2]: Introdotto dal n. I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
-[^29-3]: Introdotto dal n. I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^29-1]: Abrogata dalla cifra I dell’O del 21 ago. 2013, con effetto dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^29-2]: Introdotto dalla cifra I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^29-3]: Introdotto dalla cifra I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
 
 #### Art. 30
 
