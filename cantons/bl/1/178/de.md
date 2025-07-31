@@ -3,20 +3,19 @@ canton: BL
 number: "178"
 title: Anwaltsgesetz Basel-Landschaft
 language: de
-version: 2013-01-01
-valid_until: 2025-07-31
-version_adopted: 2012-12-08
+version: 2025-08-01
+version_adopted: 2025-03-27
 adopted: 2001-10-25
 in_force: 2002-06-01
 url: "https://bl.clex.ch/app/de/texts_of_law/178"
-pdf: "https://bl.clex.ch/api/de/versions/1748/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4519/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Anwaltsgesetz Basel-Landschaft
 
-Vom 25.10.2001 (Stand 01.01.2013)
+Vom 25.10.2001 (Stand 01.08.2025)
 
 Der Landrat des Kantons Basel-Landschaft beschliesst:
 
@@ -46,9 +45,9 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:
 
 <sup>1</sup> Zur nicht berufsmässigen Vertretung vor den Gerichten des Kantons Basel-Landschaft sind Personen befugt, die folgende Voraussetzungen erfüllen:
 
-- a. sie müssen handlungsfähig sein;
-- b. es darf keine strafrechtliche Verurteilung vorliegen wegen Handlungen, die mit einer Vertretung vor den Gerichten nicht zu vereinbaren sind, es sei denn, diese Verurteilung erscheine nicht mehr im Strafregisterauszug für Privatpersonen;
-- c. es dürfen gegen sie keine Verlustscheine bestehen.
+- a. Sie müssen handlungsfähig sein.
+- b. Es darf keine strafrechtliche Verurteilung vorliegen wegen Handlungen, die mit einer Vertretung vor den Gerichten nicht zu vereinbaren sind, es sei denn, diese Verurteilung erscheine nicht mehr im Strafregisterauszug für Privatpersonen.
+- c. Es dürfen gegen sie keine Verlustscheine bestehen.
 
 <sup>2</sup> Im Interesse der vertretenen Person kann das Gericht im Einzelfall bei Unfähigkeit oder fehlender Vertrauenswürdigkeit die Vertretungsbefugnis entziehen.
 
@@ -58,13 +57,20 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:
 
 **Berufsmässige Vertretung**
 
-<sup>1</sup> Zur berufsmässigen Vertretung vor den Gerichten des Kantons Basel-Landschaft ist nur befugt, wer im Anwaltsregister eingetragen ist. Vorbehalten bleiben Absatz 3 und §§ 31 bis 33 dieses Gesetzes.
+<sup>1</sup> Zur berufsmässigen Vertretung vor den Gerichten des Kantons Basel-Landschaft ist befugt:
+
+- a. wer im Anwaltsregister eingetragen ist, wobei die §§ 31–33 dieses Gesetzes vorbehalten bleiben;
+- b. gestützt auf Art. 68 Abs. 2 ZPO[^4-1] in summarischen und vereinfachten Verfahren sowie in anschliessenden Rechtsmittelverfahren:
+  - 1\. qualifizierte Vertreterinnen und Vertreter einer Mieter- oder Vermieterorganisation oder einer Liegenschaftsverwaltung in mietrechtlichen Verfahren;
+  - 2\. qualifizierte Vertreterinnen und Vertreter einer Arbeitnehmer- oder Arbeitgeberorganisation in arbeitsrechtlichen Verfahren;
+- c. qualifizierte Vertreterinnen und Vertreter von Patienten- und Behindertenorganisationen in sozialversicherungsrechtlichen Verfahren;
+- d. wer handlungsfähig ist in Verfahren in Steuersachen vor dem Steuer- und Enteignungsgericht und in anschliessenden Rechtsmittelverfahren.
 
 <sup>2</sup> Als berufsmässig gilt die wiederkehrende Vertretung gegen Entgelt.
 
-<sup>3</sup> Im Verfahren in Steuersachen vor der Steuerrekurskommission[^4-1] und vor dem Kantonsgericht ist zur berufsmässigen Vertretung zugelassen, wer handlungsfähig ist und in bürgerlichen Ehren und Rechten steht. Für diese berufsmässige Vertretung gelten die für die Anwältinnen und Anwälte anwendbaren Berufsregeln sinngemäss.
+<sup>3</sup> Für die berufsmässige Vertretung gelten die für die Anwältinnen und Anwälte anwendbaren Berufsregeln sinngemäss.
 
-[^4-1]: Seit 1. April 2002 Steuer- und Enteignungsgericht (GS 34.161).
+[^4-1]: [SR 272](https://db.clex.ch/link/Bund/272/de)
 
 ## 2 Anwaltspatent
 
@@ -72,10 +78,10 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:
 
 **Erteilung des Anwaltspatents**
 
-<sup>1</sup> Die Anwaltsaufsichtskommission erteilt das Anwaltspatent Bewerberinnen und Bewerbern, die
+<sup>1</sup> Die Anwaltsaufsichtskommission erteilt das Anwaltspatent Bewerberinnen und Bewerbern, die:
 
-- a. das schweizerische Bürgerrecht oder die schweizerische Niederlassung besitzen,
-- b. die fachlichen Voraussetzungen gemäss Bundesanwaltsgesetz für den Eintrag ins Anwaltsregister erfüllen,
+- a. das schweizerische Bürgerrecht oder die schweizerische Niederlassung besitzen;
+- b. die fachlichen Voraussetzungen gemäss Bundesanwaltsgesetz für den Eintrag ins Anwaltsregister erfüllen;
 - c. die persönlichen Voraussetzungen mit Ausnahme der unabhängigen Berufsausübung gemäss Bundesanwaltsgesetz für den Eintrag ins Anwaltsregister erfüllen und
 - d. die Anwaltsprüfung des Kantons Basel-Landschaft bestanden haben.
 
@@ -116,7 +122,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:
 
 <sup>2</sup> Der Zulassungsentscheid obliegt dem Präsidium der Anwaltsprüfungskommission. Gegen einen ablehnenden Entscheid kann innert 5 Tagen seit der Mitteilung bei der Anwaltsprüfungskommission Beschwerde erhoben werden.
 
-<sup>3</sup> Die Anwaltsprüfung kann höchstens einmal wiederholt werden. Prüfungsversuche in anderen Kantonen werden mitgezählt.
+<sup>3</sup> Die Anwaltsprüfung kann höchstens 1-mal wiederholt werden. Prüfungsversuche in anderen Kantonen werden mitgezählt.
 
 [^7-1]: In Kraft seit 1. Januar 2003.
 
@@ -176,9 +182,11 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:
 
 **Inhalt des Anwaltsregisters**
 
-<sup>1</sup> Der Inhalt des Anwaltsregisters richtet sich nach den Bestimmungen des Bundesanwaltsgesetzes.
+<sup>1</sup> Der Inhalt des Anwaltsregisters richtet sich nach den Bestimmungen des Bundesgesetzes über die Freizügigkeit der Anwältinnen und Anwälte (Anwaltsgesetz, BGFA)[^12-1].
 
 <sup>2</sup> Die Neueintragung einer Anwältin oder eines Anwaltes im Anwaltsregister ist im Amtsblatt zu publizieren.
+
+[^12-1]: [SR 935.61](https://db.clex.ch/link/Bund/935.61/de)
 
 #### § 13
 
@@ -201,7 +209,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:
 
 <sup>1</sup> ...
 
-<sup>2</sup> Die Löschung kann auf Antrag der Anwältin oder des Anwalts, auf Antrag eines Dritten oder von Amtes wegen erfolgen. Das rechtliche Gehör ist zu wahren.
+<sup>2</sup> Die Löschung kann auf Antrag der Anwältin oder des Anwalts, auf Antrag eines Dritten oder von Amts wegen erfolgen. Das rechtliche Gehör ist zu wahren.
 
 <sup>3</sup> Eine Löschung des Eintrags der Anwältin oder des Anwalts im Anwaltsregister ist im Amtsblatt zu publizieren.
 
@@ -277,7 +285,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:
 
 <sup>3</sup> Die Anwaltsaufsichtskommission wählt aus ihrer Mitte das Präsidium und einen Ausschuss, dem 2 Richterinnen oder Richter und 1 Anwältin oder 1 Anwalt angehören.
 
-<sup>4</sup> Im übrigen konstituiert sich die Anwaltsaufsichtskommission selbst.
+<sup>4</sup> Im Übrigen konstituiert sich die Anwaltsaufsichtskommission selbst.
 
 #### § 21
 
@@ -289,7 +297,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:
 
 <sup>3</sup> Eine Schreiberin oder ein Schreiber des Kantonsgerichts führt das Protokoll der Anwaltsaufsichtskommission und des Ausschusses und hat bei den Sitzungen beratende Stimme.
 
-[^21-1]: GS 34.161, SGS [170](https://bl.clex.ch/data/170/de)
+[^21-1]: [SGS 170](https://bl.clex.ch/data/170/de)
 
 #### § 22
 
@@ -356,7 +364,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:
 
 **Disziplinarverfahren**
 
-<sup>1</sup> Der Ausschuss der Anwaltsaufsichtskommission leitet das Disziplinarverfahren von Amtes wegen oder auf Anzeige hin ein. In Bagatellfällen kann er von der Eröffnung eines Verfahrens absehen.
+<sup>1</sup> Der Ausschuss der Anwaltsaufsichtskommission leitet das Disziplinarverfahren von Amts wegen oder auf Anzeige hin ein. In Bagatellfällen kann er von der Eröffnung eines Verfahrens absehen.
 
 <sup>2</sup> Die betroffene Anwältin oder der betroffene Anwalt ist anzuhören und über den Entscheid zu orientieren.
 
@@ -386,7 +394,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:
 
 **Gebührentarif**
 
-<sup>1</sup> Es können Gebühren bis CHF 10'000 erhoben werden.
+<sup>1</sup> Es können Gebühren bis CHF 10'000.– erhoben werden.
 
 <sup>2</sup> Die Geschäftsleitung der Gerichte erlässt auf Antrag der Anwaltsaufsichtskommission einen Gebührentarif.
 
@@ -398,7 +406,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:
 
 <sup>1</sup> Die Gerichte des Kantons Basel-Landschaft verlangen im Falle der vorübergehenden Berufsausübung durch eine Anwältin oder einen Anwalt aus Mitgliedstaaten der EU den Nachweis der Eigenschaft als Anwältin oder Anwalt im Herkunftsstaat.
 
-<sup>2</sup> § 13 Absatz 1 Buchstabe b gilt sinngemäss.
+<sup>2</sup> § 13 Abs. 1 Bst. b gilt sinngemäss.
 
 <sup>3</sup> Die Anwaltsaufsichtskommission führt ein Verzeichnis dieser erfolgten Nachweise.
 
@@ -412,7 +420,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:
 
 <sup>3</sup> Das Präsidium der Anwaltsaufsichtskommission stellt den Kontakt mit der zuständigen Aufsichtsbehörde des Herkunftsstaates sicher. Das Präsidium kann diese Aufgabe anderen Mitgliedern der Anwaltsaufsichtskommission oder deren Schreiber oder Schreiberin übertragen.
 
-<sup>4</sup> § 13 Absatz 1 Buchstabe b gilt sinngemäss.
+<sup>4</sup> § 13 Abs. 1 Bst. b gilt sinngemäss.
 
 #### § 33
 
@@ -424,7 +432,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:
 
 <sup>3</sup> Anwältinnen und Anwälte, welche die Eignungsprüfung bestanden oder das Gespräch absolviert haben, sind berechtigt, die Titel gemäss § 10 dieses Gesetzes zu führen.
 
-<sup>4</sup> § 13 Absatz 1 Buchstabe b gilt sinngemäss.
+<sup>4</sup> § 13 Abs. 1 Bst. b gilt sinngemäss.
 
 ## 7 Übergangs- und Schlussbestimmungen
 
@@ -462,7 +470,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:
 
 <sup>1</sup> Das Verwaltungsverfahrensgesetz vom 13. Juni 1988[^38-1] wird wie folgt geändert: ...[^38-2]
 
-[^38-1]: GS 29.677, SGS [175](https://bl.clex.ch/data/175/de)
+[^38-1]: [SGS 175](https://bl.clex.ch/data/175/de)
 [^38-2]: GS 34.532
 
 #### § 39
