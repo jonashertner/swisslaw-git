@@ -3,20 +3,20 @@ canton: SO
 number: "121.2"
 title: Geschäftsreglement des Kantonsrates von Solothurn
 language: de
-version: 2023-01-01
-valid_until: 2025-07-31
-version_adopted: 2021-12-15
+version: 2025-08-01
+valid_until: 2026-12-31
+version_adopted: 2024-11-06
 adopted: 1991-09-10
 in_force: 1992-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/121.2"
-pdf: "https://bgs.so.ch/api/de/versions/5540/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5551/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Geschäftsreglement des Kantonsrates von Solothurn
 
-Vom 10.09.1991 (Stand 01.01.2023)
+Vom 10.09.1991 (Stand 01.08.2025)
 
 Der Kantonsrat von Solothurn
 
@@ -73,6 +73,72 @@ beschliesst:
 
 <sup>3</sup> Die Mitglieder des Regierungsrates leisten dem Kantonsratspräsidenten das Amtsgelübde.
 
+## 1<sup>bis</sup>. Digitaler Ratsbetrieb
+
+#### § 5bis
+
+**1. Digitale Form**
+
+<sup>1</sup> Soweit im jeweiligen Zeitpunkt technisch möglich, sind folgende Geschäftsvorgänge über das Ratsinformationssystem abzuwickeln:
+
+- a) Offenlegung der Interessen (§ 25 des Kantonsratsgesetzes vom 24. September 1989[^5bis-1]);
+- b) Offenlegung der persönlichen Angaben (§ 26 des Kantonsratsgesetzes);
+- c) Einreichung von Anträgen zur Sache (§ 48);
+- e) Einreichung von Vorstössen (§ 79);
+- f) Einreichung eines Einspruchs gegen eine Verordnung bzw. eine Verordnungsänderung (§ 90).
+
+[^5bis-1]: BGS [121.1](https://bgs.so.ch/data/121.1/de).
+
+#### § 5ter
+
+**2. Geschütztes Informatiksystem des Kantonsrates Zugangsberechtigte**
+
+<sup>1</sup> Einen Zugang zum geschützten Informatiksystem des Kantonsrates im Umfang der gesetzlichen Amts- und Sitzungsgeheimnisse haben:
+
+- a) die Kantonsratsmitglieder;
+- b) die Regierungsratsmitglieder und der Staatsschreiber;
+- c) der Ratssekretär;
+- d) der Chef der Finanzkontrolle;
+- e) der Chef des Amts für Finanzen;
+- f) die Mitarbeitenden der Parlamentsdienste und weitere für die Parlamentsdienste tätige Personen;
+- g) die Departementssekretäre und der Staatsschreiber-Stv.
+
+#### § 5quater
+
+**Pflichten der Zugangsberechtigten**
+
+<sup>1</sup> Die Zugangsberechtigten haben sicherzustellen, dass bei der Nutzung des geschützten Informatiksystems die Amts- und Kommissionsgeheimnisse jederzeit gewahrt bleiben und eine missbräuchliche Datennutzung oder –verwendung durch Dritte ausgeschlossen wird.
+
+<sup>2</sup> Die Ratsleitung kann Nutzungsbedingungen mit weiteren Pflichten erlassen und darin insbesondere Mindestanforderungen an die Datensicherheit festlegen.
+
+#### § 5quinquies
+
+**Zugriffsberechtigungen im Allgemeinen**
+
+<sup>1</sup> Alle Personen mit einer Zugangsberechtigung gemäss §5ter haben Zugriff auf folgende Daten:
+
+- a) alle öffentlichen Informationen und Dokumente gemäss 3quinquies des Kantonsratsgesetzes vom 24. September 1989[^5quinquies-1];
+- b) Vorlagen und zugehörige Akten zu Beratungsgegenständen des Ratsplenums, die gemäss § 7 Absatz 1 des Kantonsratsgesetzes in geheimer Beratung verhandelt wurden;
+- c) Vorlagen und zugehörige Akten zu Beratungsgegenständen des Ratsplenums, die gemäss 3quinquies Absatz 2 des Kantonsratsgesetzes nicht öffentlich sind;
+- d) allgemeine Informationen zu den Kommissionen und zu deren Sitzungsbetrieb wie Sitzungspläne, Einladungen und Merkblätter;
+- e) Vorlagen und zugehörige Akten zu Beratungsgegenständen von Kommissionen, soweit diese keine Amtsgeheimnisse gemäss § 34 des Kantonsratsgesetzes enthalten oder gemäss § 17 Absatz 2 des Kantonsratsgesetzes in geheimer Beratung verhandelt wurden;
+- f) Aufzeichnungen der Beratungen und Beschlussfassungen zu Vorlagen oder Geschäften nach litera e.
+
+[^5quinquies-1]: BGS [121.1](https://bgs.so.ch/data/121.1/de).
+
+#### § 5sexies
+
+**Zugriffsberechtigungen auf besonders vertrauliche Daten und Dokumente**
+
+<sup>1</sup> Auf Vorlagen und dazugehörige Akten von Beratungsgegenständen von Kommissionen, die Amtsgeheimnisse gemäss § 34 Kantonsratsgesetzes vom 24. September 1989[^5sexies-1] enthalten oder gemäss § 17 Absatz 2 des Kantonsratsgesetzes in geheimer Beratung verhandelt wurden, haben Zugriff:
+
+- a) die Kantonsratsmitglieder, soweit es sich um Vorlagen und Akten zu Beratungsgegenständen aus Kommissionen handelt, denen sie angehören;
+- b) die Regierungsmitglieder und der Staatsschreiber;
+- c) der Ratssekretär;
+- d) der Chef der Finanzkontrolle, der Chef des Amts für Finanzen, die Mitarbeitenden der Parlamentsdienste, weitere für die Parlamentsdienste tätige Personen, die Departementssekretäre und der Staatsschreiber-StV., soweit deren Aufgabenbereich betroffen ist.
+
+[^5sexies-1]: BGS [121.1](https://bgs.so.ch/data/121.1/de).
+
 ## 2. Sessionen
 
 ### 2.1. Allgemeines
@@ -83,7 +149,7 @@ beschliesst:
 
 <sup>1</sup> Der Kantonsrat versammelt sich periodisch zu Sessionen.
 
-<sup>2</sup> Im Einvernehmen mit dem Regierungsrat legt die Ratsleitung den Sessionsplan für das folgende Jahr fest.
+<sup>2</sup> Im Einvernehmen mit dem Regierungsrat legt die Ratsleitung den Sessionsplan fest. Sie kann einen Plan für bis zu vier Jahre im Voraus beschliessen.
 
 <sup>3</sup> Die Sessionen dauern in der Regel zwei bis drei Tage.
 
@@ -91,9 +157,9 @@ beschliesst:
 
 **Einladung**
 
-<sup>1</sup> Die Mitglieder des Kantonsrates werden spätestens 10 Tage vor Sessionsbeginn unter Bekanntgabe der Traktandenliste schriftlich zu den Sitzungen eingeladen.
+<sup>1</sup> Die Traktandenliste wird spätestens 10 Tage vor Sessionsbeginn im Ratsinformationssystem veröffentlicht. Die Kantonsratsmitglieder erhalten im Zeitpunkt der Veröffentlichung eine Benachrichtigung.
 
-<sup>2</sup> Die zur Beratung gelangenden Vorlagen und zugehörigen Akten sind den Ratsmitgliedern rechtzeitig zuzustellen.
+<sup>2</sup> Die zur Beratung gelangenden Vorlagen und zugehörigen Akten sind rechtzeitig im Ratsinformationssystem zugänglich zu machen.
 
 #### § 8
 
@@ -217,11 +283,11 @@ beschliesst:
 
 **Einladungen**
 
-<sup>1</sup> Die Kommissionen werden in der Regel spätestens 10 Tage vor dem Sitzungsdatum zu einer Sitzung eingeladen.
+<sup>1</sup> Die Kommissionen werden in der Regel spätestens 10 Tage vor dem Sitzungsdatum zu einer Sitzung eingeladen. Hierzu wird die Traktandenliste im geschützten Informatiksystem des Kantonsrats veröffentlicht und die Kommissionsmitglieder erhalten eine Benachrichtigung. Sitzungsteilnehmenden ohne Systemzugang wird die Einladung in anderer digitaler Form übermittelt.
 
-<sup>2</sup> Der Ratspräsident und die Fraktionspräsidenten sowie die Mitglieder des Regierungsrates erhalten jede Einladung zu Kommissionssitzungen zur Kenntnis.
+<sup>2</sup> …
 
-<sup>3</sup> Die Parlamentsdienste stellen den Ratsmitgliedern periodisch einen Terminplan über die Kommissionssitzungen zu.
+<sup>3</sup> Die von der Kommission genehmigten Sitzungspläne sind im geschützten Bereich des Informatiksystems des Kantonsrats für alle Ratsmitglieder einsehbar.
 
 <sup>4</sup> Will eine Sachkommission unter Ausschluss von andern Ratsmitgliedern tagen, wird dieser Beschluss wenn möglich auf der Einladung vermerkt.
 
@@ -247,7 +313,7 @@ beschliesst:
 
 **Berichterstattung**
 
-<sup>1</sup> Die Kommissionen erstatten dem Rat schriftlich oder mündlich Bericht und stellen Anträge. Die schriftlichen Berichte und die Anträge sind den Ratsmitgliedern, dem Regierungsrat und den Medien in der Regel zehn Tage vor der Session zuzustellen.
+<sup>1</sup> Die Kommissionen erstatten dem Rat schriftlich oder mündlich Bericht und stellen Anträge. Die schriftlichen Berichte und die Anträge sind den Ratsmitgliedern, dem Regierungsrat und der Öffentlichkeit in der Regel zehn Tage vor Sessionsbeginn im Ratsinformationssystem zugänglich zu machen.
 
 <sup>2</sup> Der Kommissionspräsident oder der von der Kommission bestimmte Kommissionssprecher kann die schriftlichen Berichte in der Ratsdebatte wenn nötig mündlich ergänzen.
 
@@ -255,15 +321,15 @@ beschliesst:
 
 **b) Protokoll, Protokollführung**
 
-<sup>1</sup> Die Kommissionsbeschlüsse sind wörtlich, die Voten zusammengefasst wiederzugeben.
+<sup>1</sup> Die Kommissionsbeschlüsse sind wörtlich, die Voten zusammengefasst und in Textform wiederzugeben.
 
-<sup>1<sup>bis</sup></sup> Über die Sitzungen der Kommissionsausschüsse werden Aktennotizen erstellt, die dem gleichen Verteiler wie die Kommissionsprotokolle unterliegen. Bei Bedarf können über Sitzungen von Ausschüssen von Aufsichtskommissionen im Rahmen ihrer Aufsichtsfunktion Votenprotokolle erstellt werden.
+<sup>1<sup>bis</sup></sup> Über die Sitzungen der Kommissionsausschüsse werden Aktennotizen erstellt, die dem gleichen Verteiler und den gleichen Zugriffsberechtigungen wie die Kommissionsprotokolle unterliegen. Bei Bedarf können über Sitzungen von Ausschüssen von Aufsichtskommissionen im Rahmen ihrer Aufsichtsfunktion Votenprotokolle erstellt werden.
 
 <sup>1<sup>ter</sup></sup> Die Aktennotiz enthält kurz zusammengefasst die zentralen Argumente sowie allfällige Abmachungen und dient dem Sprecher und den Ausschussmitgliedern als Gedächtnisstütze für die Berichterstattung vor der Gesamtkommission. Die Aktennotiz wird in der Regel von einem Mitarbeiter des Departementes oder von den Parlamentsdiensten erstellt.
 
-<sup>2</sup> Für die Protokollierung können die Verhandlungen auf Tonband aufgenommen werden. Wenn die Kommission das Protokoll genehmigt hat, sind diese Aufnahmen zu löschen.
+<sup>2</sup> Für die Protokollierung werden die Verhandlungen aufgenommen und in der bei den Parlamentsdiensten im Einsatz stehenden Protokollierungssoftware gespeichert. Sobald die Kommission das Protokoll genehmigt hat, sind diese Aufnahmen zu löschen.
 
-<sup>3</sup> Sind einzelne Traktanden in geheimer Beratung behandelt worden, ist darüber ein separates Protokoll zu erstellen.
+<sup>3</sup> Sind einzelne Traktanden in geheimer Beratung verhandelt worden, sind diese getrennt von den übrigen Traktanden zu protokollieren.
 
 <sup>4</sup> Die Kommissionen können auf die Erstellung von Aktennotizen verzichten.
 
@@ -271,18 +337,23 @@ beschliesst:
 
 **Verwendung der Protokolle**
 
-<sup>1</sup> Protokolle über Kommissionsverhandlungen, die nicht dem Amtsgeheimnis unterliegen, stehen jedem Ratsmitglied und interessierten Dienststellen zur Einsicht offen. Eine Kopie dieser Protokolle erhalten:
+<sup>1</sup> Protokolle über Kommissionsverhandlungen werden im Rahmen der Zugriffsberechtigungen gemäss § 5sexies im geschützten Informatiksystem zugänglich gemacht. Die übrigen Sitzungsteilnehmenden erhalten die Protokolle in anderer digitaler Form und auszugsweise.
 
-- a) die Sitzungsteilnehmer;
-- b) der Ratspräsident und der Ratssekretär;
-- c) der Regierungsrat und der Staatsschreiber;
-- d) die Fraktionspräsidenten;
-- e) weitere interessierte Ratsmitglieder sowie die in der Sache betroffenen Dienststellen;
-- f) auf Gesuch hin rechtsanwendende Behörden, sobald die betreffende Vorlage in Kraft getreten ist.
+- a) …
+- b) …
+- c) …
+- d) …
+- e) …
+- f) …
 
-<sup>2</sup> Hat eine Kommission eine Sitzung in öffentlicher Beratung abgehalten, kann jedermann in das Protokoll Einsicht nehmen.
+<sup>1<sup>bis</sup></sup> Zusätzlich werden Protokolle über Kommissionsverhandlungen, die nicht in geheimer Beratung verhandelt wurden und die keine Amtsgeheimnisse enthalten, in digitaler Form und auszugsweise zugestellt:
 
-<sup>3</sup> Protokolle über Kommissionsverhandlungen, welche Amtsgeheimnisse enthalten oder von der Kommission aus Datenschutzgründen als vertraulich bezeichnet werden, erhalten nur die Kommissionsmitglieder, der Regierungsrat, der Staatsschreiber und der Ratssekretär sowie die kantonale Finanzkontrolle und der Chef des Amts für Finanzen, soweit deren Aufgabenkreis betroffen ist. Andere Ratsmitglieder und Dritte erhalten keine Einsicht in diese Protokolle.
+- a) auf Anfrage hin in der Sache betroffenen Dienststellen;
+- b) auf Gesuch hin rechtsanwendende Behörden, sobald die betreffende Vorlage in Kraft getreten ist.
+
+<sup>2</sup> …
+
+<sup>3</sup> …
 
 <sup>4</sup> Nach Abschluss der Verhandlungen des Kantonsrates stehen die Kommissionsprotokolle für wissenschaftliche Zwecke zur Einsicht offen. Protokolle, welche dem Amtsgeheimnis unterliegende Verhandlungen wiedergeben, dürfen nur mit Bewilligung des Ratssekretärs eingesehen werden.
 
@@ -562,7 +633,7 @@ beschliesst:
 
 **b) Anträge Schriftlichkeit**
 
-<sup>1</sup> Anträge zur Sache sind dem Präsidenten grundsätzlich schriftlich, wenn möglich vor Beginn der Beratung, einzureichen.
+<sup>1</sup> Anträge zur Sache sind grundsätzlich schriftlich und in digitaler Form über das Ratsinformationssystem, wenn möglich vor Beginn der Beratung einzureichen.
 
 #### § 49
 
@@ -710,11 +781,11 @@ beschliesst:
 
 <sup>1</sup> Das elektronische Abstimmungssystem zählt und speichert die abgegebenen Stimmen bei jeder Abstimmung. Bei öffentlicher Stimmabgabe werden das Stimmverhalten der Ratsmitglieder und das Resultat auf Anzeigetafeln angezeigt und in einer Namensliste gespeichert. Bei geheimer Abstimmung wird nur das Resultat angezeigt und die Namen der Abstimmenden werden nicht gespeichert.
 
-<sup>2</sup> Der Präsident gibt das Ergebnis bekannt.
+<sup>2</sup> Der Präsident gibt das Ergebnis bekannt. Allfällige Einwände gegen das festgestellte Ergebnis sind umgehend geltend zu machen.
 
-<sup>3</sup> Die Ergebnisse der Abstimmungen werden in einer Namensliste als Anhang zum Protokoll veröffentlicht.
+<sup>3</sup> Die Ergebnisse der Abstimmungen werden mit dem individuellen Stimmverhalten der Ratsmitglieder im öffentlichen Ratsinformationssystem und in den «Verhandlungen des Kantonsrates» (§ 77 Abs. 1) veröffentlicht.
 
-<sup>4</sup> Auf der Namensliste wird für jedes Ratsmitglied vermerkt, ob es:
+<sup>4</sup> Bei der Publikation wird für jedes Ratsmitglied vermerkt, ob es:
 
 - a) Ja stimmt;
 - b) Nein stimmt;
@@ -772,7 +843,7 @@ beschliesst:
 
 **a) Wahlen auf Ausschreibung Besetzung freier Stellen**
 
-<sup>1</sup> Die Parlamentsdienste sorgen dafür, dass freie Stellen, deren Inhaber der Kantonsrat wählt, rechtzeitig ausgeschrieben werden. Sie prüfen allfällige Wählbarkeitsvoraussetzungen und stellen die Unterlagen mit ihrem Bericht der vorberatenden Kommission zu.
+<sup>1</sup> Die Parlamentsdienste sorgen dafür, dass freie Stellen, deren Inhaber der Kantonsrat wählt, rechtzeitig ausgeschrieben werden. Sie prüfen allfällige Wählbarkeitsvoraussetzungen und stellen die Unterlagen mit ihrem Bericht der vorberatenden Kommission im geschützten Informatiksystem zur Verfügung.
 
 <sup>2</sup> Die vorberatende Kommission beurteilt die Kandidaten und unterbreitet dem Rat Wahlvorschläge. Die Ratsmitglieder erhalten eine Liste aller Kandidaten, die sich rechtzeitig angemeldet haben und allfällige Wählbarkeitsvoraussetzungen erfüllen (teilnahmeberechtigte Personen).
 
@@ -879,9 +950,9 @@ beschliesst:
 
 **Wörtliche Aufnahme**
 
-<sup>1</sup> Sämtliche Verhandlungen werden auf einem Tonträger gespeichert und in einem Wortprotokoll festgehalten. Die Audiodaten werden Dritten nicht abgegeben. Ist das Protokoll genehmigt, werden die Daten gelöscht.
+<sup>1</sup> Sämtliche Verhandlungen werden aufgenommen und in der bei den Parlamentsdiensten im Einsatz stehenden Protokollierungssoftware zur Ausarbeitung eines Wortprotokolls gespeichert. Die Daten werden Dritten nicht abgegeben. Ist das Protokoll genehmigt, werden die Daten gelöscht.
 
-<sup>2</sup> Auf Verlangen werden den Votanten, die sich auf eine entsprechende Liste eintragen, Auszüge mit ihren Voten zugestellt.
+<sup>2</sup> Auf Verlangen werden den Votanten, die sich bis zum letzten Werktag in der Woche des Sitzungsendes beim Ratssekretär melden, Auszüge mit ihren Voten zugestellt.
 
 <sup>3</sup> Die Auszüge sind innert acht Tagen mit allfälligen Berichtigungen an die Parlamentsdienste zurückzusenden. Inhaltliche Änderungen sind nicht zulässig. Im Streitfall entscheidet die Ratsleitung.
 
@@ -893,9 +964,7 @@ beschliesst:
 
 <sup>1</sup> Aufgrund des Wortprotokolls erstellen die Parlamentsdienste die "Verhandlungen des Kantonsrates". Geheime Verhandlungen werden darin nicht aufgeführt.
 
-<sup>2</sup> Die "Verhandlungen des Kantonsrates" werden jedem Ratsmitglied, dem Regierungsrat und den Medien periodisch zugestellt und können von jedermann abonniert werden. Sie werden im Rahmen von § 7<sup>bis</sup> Absatz 2 Kantonsratsgesetz vom 24. September 1989[^77-1] im Internet publiziert.
-
-[^77-1]: BGS [121.1](https://bgs.so.ch/data/121.1/de).
+<sup>2</sup> Die "Verhandlungen des Kantonsrates" werden im öffentlichen Ratsinformationssystem veröffentlicht und zusätzlich in gedruckter Form herausgegeben.
 
 #### § 78
 
@@ -913,11 +982,11 @@ beschliesst:
 
 <sup>1</sup> Parlamentarische Vorstösse einreichen können Ratsmitglieder, Fraktionen und Kommissionen.
 
-<sup>2</sup> Parlamentarische Vorstösse sind dem Präsidenten schriftlich einzureichen. Der Präsident gibt dem Rat davon Kenntnis.
+<sup>2</sup> Parlamentarische Vorstösse sind schriftlich und in digitaler Form über das Ratsinformationssystem einzureichen.
 
 <sup>3</sup> Vor der Session eingereichte Vorstösse werden am ersten Sitzungstag zu Protokoll genommen.
 
-<sup>4</sup> Vorstösse können von mehreren Ratsmitgliedern unterzeichnet sein. Vorstösse, die von Ratsmitgliedern aus zwei oder mehr Fraktionen unterzeichnet sind, können als fraktionsübergreifend bezeichnet werden. Der Erstunterzeichner gilt als Urheber. Vorstösse von Fraktionen sind von ihrem Präsidenten zu unterzeichnen.
+<sup>4</sup> Vorstösse können von mehreren Ratsmitgliedern über das Ratsinformationssystem unterzeichnet werden. Vorstösse, die von Ratsmitgliedern aus zwei oder mehr Fraktionen unterzeichnet sind, können als fraktionsübergreifend bezeichnet werden. Der Erstunterzeichner gilt als Urheber. Vorstösse von Fraktionen sind von ihrem Präsidenten zu unterzeichnen.
 
 <sup>5</sup> Vorstösse können vom Urheber bis zum Beginn der Behandlung ohne Zustimmung der Mitunterzeichner zurückgezogen werden.
 
@@ -927,7 +996,7 @@ beschliesst:
 
 **Text und Begründung**
 
-<sup>1</sup> Der Text der Aufträge und Interpellationen soll keine Begründung enthalten. Er wird mit dem Namen der Unterzeichner, unter Weglassung begründender Zusätze, im Anhang zu den Einladungen des Kantonsrates und im Geschäftsbericht des Regierungsrates wiedergegeben.
+<sup>1</sup> Der Text der Aufträge und Interpellationen soll keine Begründung enthalten. Er wird mit dem Namen der Unterzeichner, unter Weglassung begründender Zusätze und im Geschäftsbericht des Regierungsrates wiedergegeben.
 
 <sup>2</sup> Der Wortlaut eines Vorstosses kann nach der Einreichung nicht geändert werden. Vorbehalten bleibt § 81<sup>bis</sup> Absatz 2.
 
@@ -1001,7 +1070,7 @@ beschliesst:
 
 **Sachvorlagen**
 
-<sup>1</sup> Der Regierungsrat stellt Gesetzes- und Beschlussesentwürfe, über die er eine Vernehmlassung eröffnet, gleichzeitig auch den Mitgliedern des Kantonsrates zu.
+<sup>1</sup> Der Regierungsrat stellt Gesetzes- und Beschlussesentwürfe, über die er eine Vernehmlassung eröffnet, gleichzeitig den Parlamentsdiensten zu. Die Parlamentsdienste sorgen für die Bekanntmachung in digitaler Form bei den Kantonsratsmitgliedern.
 
 #### § 87
 
@@ -1105,7 +1174,7 @@ beschliesst:
 
 **Verordnungsveto**
 
-<sup>1</sup> Ratsmitglieder, welche den Einspruch gegen eine Verordnung bzw. eine Verordnungsänderung unterstützen wollen, sollen ihre Unterschrift wenn möglich auf demselben Schriftstück leisten.
+<sup>1</sup> Die Einreichung und Unterzeichnung eines Einspruchs gegen eine Verordnung bzw. Verordnungsänderung erfolgt in digitaler Form über das Ratsinformationssystem.
 
 #### § 91
 
@@ -1158,10 +1227,7 @@ beschliesst:
 - a) ein juristisches Universitätsstudium abgeschlossen hat, oder
 - b) ein Universitätsstudium an einer philosophischen Fakultät oder ein Universitäts- oder Hochschulstudium an einer nationalökonomischen Fakultät abgeschlossen hat und sich über fundierte staats- und verwaltungsrechtliche Kenntnisse ausweist.
 
-<sup>2</sup> Als Staatsschreiber oder Staatsschreiber-Stellvertreter ist wählbar, wer
-
-- a) ein juristisches Universitätsstudium abgeschlossen hat oder
-- b) ein Universitätsstudium an einer philosophischen Fakultät oder ein Universitäts- oder Hochschulstudium an einer nationalökonomischen Fakultät abgeschlossen hat und sich über fundierte staats- und verwaltungsrechtliche Kenntnisse ausweist.
+<sup>2</sup> …
 
 <sup>3</sup> Als Chef der kantonalen Finanzkontrolle ist wählbar, wer über die Zulassung als Revisionsexperte nach Artikel 4 des Bundesgesetzes über die Zulassung und Beaufsichtigung der Revisorinnen und Revisoren (Revisionsaufsichtsgesetz, RAG) vom 16. Dezember 2005[^95bis-1] verfügt.
 
