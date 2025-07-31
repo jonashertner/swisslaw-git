@@ -3,20 +3,20 @@ canton: SO
 number: "121.1"
 title: Kantonsratsgesetz
 language: de
-version: 2022-09-01
-valid_until: 2025-07-31
-version_adopted: 2022-06-28
+version: 2025-08-01
+valid_until: 2026-12-31
+version_adopted: 2024-11-06
 adopted: 1989-09-24
 in_force: 1990-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/121.1"
-pdf: "https://bgs.so.ch/api/de/versions/5263/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5550/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kantonsratsgesetz
 
-Vom 24.09.1989 (Stand 01.09.2022)
+Vom 24.09.1989 (Stand 01.08.2025)
 
 Der Kantonsrat von Solothurn
 
@@ -45,6 +45,123 @@ beschliesst:
 #### § 3
 
 **…**
+
+## 1<sup>bis</sup>. Digitaler Ratsbetrieb
+
+#### § 3bis
+
+**1. Grundsätze Digitales Primat**
+
+<sup>1</sup> Die Verbreitung von Informationen und Dokumenten sowie der Geschäftsverkehr des Kantonsrats und seiner Organe erfolgt digital.
+
+<sup>2</sup> Bestimmungen dieses Gesetzes und den zugehörigen Ausführungsvorschriften, die eine Zustellung, eine Einreichung, Überweisungen oder Veröffentlichung von Dokumenten oder Informationen vorsehen, wird dadurch Genüge getan, dass der Vorgang digital erfolgt und insbesondere die Dokumente und Informationen in digitaler Form abrufbar sind.
+
+<sup>3</sup> Rechtlich massgebend ist die digitale Form von Dokumenten.
+
+#### § 3ter
+
+**Digitale Form**
+
+<sup>1</sup> Als digital gilt jede Form der elektronischen Informationsübermittlung, die den Nachweis durch Text erlaubt.
+
+<sup>2</sup> Dieses Gesetz und die zugehörigen Ausführungsvorschriften können für einzelne Geschäftsvorgänge den Gebrauch einer bestimmten digitalen Form, insbesondere die Abwicklung über das Ratsinformationssystem, vorsehen.
+
+<sup>3</sup> Die im Ratsplenum und den Kommissionen zur Beratung gelangenden Vorlagen und zugehörigen Akten werden im Format PDF veröffentlicht.
+
+#### § 3quater
+
+**2. Ratsinformationssystem Allgemeines**
+
+<sup>1</sup> Der Kantonsrat und die Parlamentsdienste setzen zur digitalen Verbreitung von Informationen und Dokumenten, zur digitalen Abwicklung des Geschäftsverkehrs und zur digitalen Geschäftsverwaltung ein Ratsinformationssystem ein.
+
+<sup>2</sup> Das Ratsinformationssystem besteht aus einer über das Internet öffentlich zugänglichen Online-Plattform (öffentliches Ratsinformationssystem) und einem geschützten Informatiksystem für Kantonsratsmitglieder (geschütztes Informatiksystem).
+
+<sup>3</sup> Das Ratsinformationssystem hat insbesondere zu gewährleisten, dass
+
+- a) Veränderungen von Dokumenten datiert und nachvollziehbar sind;
+- b) Dokumente und ihre Veränderungen sicher dem Autor zugeordnet werden;
+- c) durch die Zugangs- und Zugriffsberechtigungen die Einhaltung der Amts- und Sitzungsgeheimnisse jederzeit sichergestellt ist;
+- e) verhindert wird, dass Dokumente verloren gehen oder unbefugt eingesehen, verändert oder gelöscht werden.
+
+<sup>4</sup> Das Geschäftsreglement regelt die Einzelheiten zum Ratsinformationssystem, insbesondere den Zugang zum geschützten Informatiksystem sowie die Zugriffsberechtigungen und -beschränkungen auf Grundlage der gesetzlichen Amts- und Sitzungsgeheimnisse.
+
+#### § 3quinquies
+
+**Öffentliches Ratsinformationssystem**
+
+<sup>1</sup> Im öffentlichen Ratsinformationssystems werden die nach diesem Gesetz und den zugehörigen Ausführungsvorschriften als öffentlich bezeichneten Informationen und Dokumente des Kantonsrats bearbeitet und veröffentlicht, insbesondere:
+
+- a) allgemeine Informationen zum Kantonsrat, seinen Organen und zum Sitzungsbetrieb;
+- b) die im Ratsplenum zur Beratung gelangenden Vorlagen und zugehörigen Akten;
+- c) Aufzeichnungen von öffentlichen Beratungen und Beschlussfassungen des Ratsplenums;
+- d) die Stimmabgabe der einzelnen Ratsmitglieder im Ratsplenum;
+- e) Informationen der Bevölkerung von Kommissionen gemäss § 18;
+- f) Interessenbindungen von Ratsmitgliedern gemäss § 25;
+- g) Kontaktangaben von Ratsmitgliedern gemäss § 26;
+- h) Vorlagen und zugehörige Akten, die gemäss § 17 Absatz 1 e contrario von Kommissionen in öffentlicher Beratung verhandelt wurden.
+
+<sup>2</sup> Im öffentlichen Ratsinformationssystem nicht veröffentlicht werden:
+
+- a) Vorlagen und zugehörige Akten zu Beratungsgegenständen, die gemäss § 7 Absatz 1 in geheimer Beratung im Ratsplenum verhandelt werden;
+- b) Dokumente und Informationen, deren Veröffentlichung schützenswerte private oder wichtige öffentliche Interessen entgegen stehen.
+
+<sup>3</sup> Im Streitfall entscheidet die Ratsleitung über die Veröffentlichung von Informationen und Dokumenten im öffentlichen Ratsinformationssystem.
+
+<sup>4</sup> Die Dokumente gelten als amtlich veröffentlicht, sobald sie im öffentlichen Ratsinformationssystem abrufbar sind.
+
+#### § 3sexies
+
+**Geschütztes Informatiksystem des Kantonsrats**
+
+<sup>1</sup> Im geschützten Informatiksystem werden alle Informationen und Dokumente des Kantonsrats und seiner Organe bearbeitet und zugänglich gemacht, insbesondere:
+
+- a) alle gemäss diesem Gesetz und den zugehörigen Ausführungsvorschriften öffentlichen Informationen und Unterlagen des Kantonsrats;
+- b) alle Vorlagen und zugehörigen Akten zu nicht öffentlichen Beratungsgegenständen des Ratsplenums;
+- c) allgemeine Informationen zu Kommissionen, insbesondere zum Sitzungsbetrieb;
+- d) Vorlagen und zugehörige Akten zu Kommissionsgeschäften;
+- e) Aufzeichnungen von Beratungen und Beschlussfassungen der Kommissionen;
+- f) sonstige gemäss § 17 unter das Sitzungsgeheimnis oder gemäss § 34 unter ein Amtsgeheimnis fallende Informationen und Dokumente.
+
+<sup>2</sup> Im geschützten Informatiksystem nicht bearbeitet und zugänglich gemacht werden:
+
+- a) Akten zu Tätigkeiten von Parlamentarischen Untersuchungskommissionen gemäss § 52 ff.;
+- b) Daten und Dokumente der internen Geschäftsverwaltung der Parlamentsdienste.
+
+<sup>3</sup> Die Dokumente gelten als den Kantonsratsmitgliedern zugestellt, sobald sie im geschützten Informatiksystem abrufbar sind.
+
+<sup>4</sup> Für den Zugang zum geschützten Informatiksystem haben die Ratsmitglieder ein privates Gerät, mit dem ein sicherer Internetzugang gewährleistet ist, zu verwenden. Die Authentifizierung setzt den Gebrauch einer privaten E-Mail-Adresse und einer privaten Mobiltelefonnummer voraus.
+
+#### § 3septies
+
+**Verfügbarkeit der Daten im Ratsinformationssystem**
+
+<sup>1</sup> Alle gemäss diesem Gesetz und den zugehörigen Ausführungsvorschriften als öffentlich geltenden Daten des Kantonsrats sind unter Vorbehalt der Absätze 3 und 4 zeitlich uneingeschränkt über das Ratsinformationssystem abrufbar.
+
+<sup>2</sup> Daten mit besonders schützenswertem Inhalt, wie Vorlagen und zugehörige Akten von Beratungsgegenständen, die Amtsgeheimnisse enthalten oder von der Kommission gemäss § 17 Absatz 2 in geheimer Beratung beschlossen wurden, bleiben längstens bis zum Beginn der 12 Jahre nach Geschäftserledigung folgenden Legislatur im geschützten Informatiksystem zugänglich.
+
+<sup>3</sup> Das Präsidium des Kantonsrats kann zur Wahrung schützenswerter privater oder wichtiger öffentlicher Interessen den Zugriff auf einzelne Daten jederzeit einschränken oder eine Löschung anordnen.
+
+<sup>4</sup> Interessenbindungen und Kontaktangaben von Ratsmitgliedern sind bei Austritt aus dem Kantonsrat aus dem Ratsinformationssystem zu löschen.
+
+#### § 3octies
+
+**3. Live-Stream des Kantonsrates**
+
+<sup>1</sup> Die öffentlichen Beratungen und Beschlussfassungen des Ratsplenums werden in Echtzeit mit Bild und Ton als Live-Stream ins Internet übertragen.
+
+<sup>2</sup> Die Videodaten werden nicht und die Audiodaten nur zur Erstellung des Protokolls gespeichert.
+
+<sup>3</sup> Akkreditierten Medienschaffenden kann der direkte Anschluss an die Audioanlage ermöglicht werden.
+
+#### § 3nonies
+
+**4. Bezug digitaler Dokumente in gedruckter Form**
+
+<sup>1</sup> Die Parlamentsdienste stellen Stimmberechtigten auf Gesuch hin Akten zu referendumspflichtigen Vorlagen in gedruckter Form zur Verfügung.
+
+<sup>2</sup> Die "Verhandlungen des Kantonsrates" werden auch in gedruckter Form zur Verfügung gestellt.
+
+<sup>3</sup> Die Ratsleitung kann einzelne Dokumente bezeichnen, die den Ratsmitgliedern auf Gesuch hin zusätzlich zur digitalen Aktenzustellung in gedruckter Form zur Verfügung gestellt werden.
 
 ## 2. Sessionen
 
@@ -126,15 +243,7 @@ beschliesst:
 
 #### § 7bis
 
-**Publikation**
-
-<sup>1</sup> Die öffentlichen Beratungen und Beschlussfassungen werden in Echtzeit mit Bild und Ton ins Internet übertragen. Die Videodaten werden nicht und die Audiodaten nur zur Erstellung des Protokolls gespeichert. Akkreditierten Medienschaffenden kann der direkte Anschluss an die Audioanlage ermöglicht werden.
-
-<sup>2</sup> Schriftliche Aufzeichnungen von öffentlichen Beratungen und Beschlussfassungen werden, soweit keine schützenswerten privaten oder wichtigen öffentlichen Interessen entgegenstehen, im Internet publiziert.
-
-<sup>3</sup> Die Stimmabgabe der einzelnen Ratsmitglieder wird im Internet publiziert, soweit diese im Kantonsrat öffentlich erfolgt ist.
-
-<sup>4</sup> Die zur Beratung gelangenden Vorlagen und zugehörigen Akten werden im Internet publiziert und den Medienvertretern zugestellt, soweit keine schützenswerten privaten oder wichtigen öffentlichen Interessen entgegenstehen. Im Streitfall entscheidet die Ratsleitung.
+**…**
 
 ## 3. Organisation
 
@@ -328,7 +437,7 @@ beschliesst:
 
 <sup>1</sup> Die Parlamentsdienste[^26-1] sammeln die Angaben der Ratsmitglieder.
 
-<sup>2</sup> Die Parlamentsdienste sorgen dafür, dass die Angaben öffentlich zugänglich sind; diese sowie Angaben zur Parteizugehörigkeit und zur Erreichbarkeit der Mitglieder des Kantonsrats können auch in elektronischer Form publiziert werden.
+<sup>2</sup> Die Parlamentsdienste sorgen dafür, dass die Angaben öffentlich zugänglich sind; diese sowie Angaben zur Parteizugehörigkeit und zur Erreichbarkeit der Mitglieder des Kantonsrats werden im öffentlichen Ratsinformationssystem publiziert.
 
 [^26-1]: Bezeichnung im ganzen Erlass vom 3. September 2003 WoV-Kommission.
 
@@ -563,7 +672,7 @@ beschliesst:
 
 **4. Verordnungsveto**
 
-<sup>1</sup> Hat der Regierungsrat eine Verordnung oder Verordnungsänderung beschlossen, stellt er den Text den Ratsmitgliedern zu.
+<sup>1</sup> Hat der Regierungsrat eine Verordnung oder Verordnungsänderung beschlossen, stellt die Staatskanzlei den Text den Parlamentsdiensten zu. Die Parlamentsdienste sorgen für die Bekanntmachung in digitaler Form bei den Kantonsratsmitgliedern.
 
 <sup>2</sup> Innert 60 Tagen seit Beschlussdatum kann jedes Ratsmitglied gegen die Verordnung oder Verordnungsänderung schriftlich Einspruch erheben. Findet in dieser Zeit keine Session statt, verlängert sich die Einspruchsfrist bis zum letzten Tag der nächsten Session. Der Einspruch ist kurz zu begründen.
 
