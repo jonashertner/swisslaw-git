@@ -4,13 +4,12 @@ number: "213.319.1"
 title: Verordnung über die Leistungen für Kinder mit besonderem Förder- und Schutzbedarf
 short: KFSV
 language: de
-version: 2024-01-01
-valid_until: 2025-07-31
-version_adopted: 2023-06-21
+version: 2025-08-01
+version_adopted: 2025-04-02
 adopted: 2021-06-30
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/213.319.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2849/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3161/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2849/pdf_file"
 
 (KFSV)
 
-vom 30.06.2021 (Stand 01.01.2024)
+vom 30.06.2021 (Stand 01.08.2025)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -237,7 +236,7 @@ beschliesst:
 
 **Anpassung des Infrastrukturanteils**
 
-<sup>1</sup> Der Infrastrukturanteil wird im Zeitpunkt des Vertragsabschlusses dem Hochbaupreisindex sowie dem hypothekarischen Referenzzinssatz angepasst.
+<sup>1</sup> Der Infrastrukturanteil wird während der Vertragslaufzeit jeweils per Jahresbeginn dem Hochbaupreisindex sowie dem hypothekarischen Referenzzinssatz angepasst.
 
 ### 3.2.3 Rechnungslegung, Revision und Rechnungsführung
 
@@ -382,7 +381,7 @@ beschliesst:
 
 **Prüfung des Leistungsbedarfs**
 
-<sup>1</sup> Sollen Leistungen gestützt auf Artikel 3 Absatz 2 Buchstabe a KFSG vom Kanton über die Volljährigkeit hinaus vorfinanziert werden, müssen der Förder- und Schutzbedarf vor Erreichen der Volljährigkeit durch den kommunalen Dienst neu abgeklärt und die voraussichtliche Dauer bis zum Abschluss der vermittelten Leistung festgelegt werden.
+<sup>1</sup> Sollen Leistungen gestützt auf Artikel 3 Absatz 2 Buchstabe a KFSG vom Kanton über die Volljährigkeit hinaus vorfinanziert werden, müssen der Förder- und Schutzbedarf vor Erreichen der Volljährigkeit durch den kommunalen Dienst neu abgeklärt und die voraussichtliche Dauer der vermittelten Leistung festgelegt werden.
 
 <sup>2</sup> Der kommunale Dienst meldet Art und Dauer der Leistung gemäss Absatz 1 der zuständigen Stelle der Direktion für Inneres und Justiz.
 
@@ -396,9 +395,11 @@ beschliesst:
 
 **Leistungsbezügerinnen und Leistungsbezüger**
 
-<sup>1</sup> Junge Erwachsene und Kinder, die ihr Einkommen und Vermögen selbstständig versteuern, beteiligen sich im Rahmen der in Anhang 3 (Art. A3-1) vorgesehenen Beträge an den Kosten der von ihnen bezogenen Leistungen.
+<sup>1</sup> Junge Erwachsene und Kinder, die ihr Einkommen und Vermögen selbstständig versteuern, beteiligen sich im Umfang des gemäss Absatz 2 berechneten Betrags an den Kosten der von ihnen bezogenen stationären Leistungen.
 
-<sup>2</sup> Keine Pflicht zur Kostenbeteiligung besteht für minderjährige Leistungsbezügerinnen und Leistungsbezüger für Kosten von ambulanten Förder- und Schutzleistungen.
+<sup>2</sup> Die Höhe der Kostenbeteiligung der jungen Erwachsenen und Kinder beträgt pro Jahr zehn Prozent des über dem Freibetrag von 55'000 Franken liegenden massgebenden Jahreseinkommens, unter Vorbehalt von Absatz 3.
+
+<sup>2a</sup> Die Kostenbeteiligung der jungen Erwachsenen und Kinder beträgt pro Monat höchstens einen Zwölftel der jährlichen Kostenbeteiligung gemäss Absatz 2 sowie höchstens die effektiven Kosten der erbrachten Leistungen.
 
 <sup>3</sup> Zweckgebundene Sozialversicherungsleistungen sind vollumfänglich zur Deckung der Leistungskosten zu verwenden.
 
@@ -406,22 +407,23 @@ beschliesst:
 
 **Unterhaltspflichtige**
 
-<sup>1</sup> Die Unterhaltspflichtigen beteiligen sich im Rahmen der in Anhang 4 (Art. A4-1) vorgesehenen Beträge an den Kosten der stationären oder ambulanten Leistungen, soweit diese nicht bereits von den Leistungsbezügerinnen und Leistungsbezügern gedeckt sind.
+<sup>1</sup> Die Unterhaltspflichtigen beteiligen sich im Umfang des gemäss Absatz 2 berechneten Betrags an den Kosten der stationären oder ambulanten Leistungen, soweit diese nicht bereits von den Leistungsbezügerinnen und Leistungsbezügern gedeckt sind.
+
+<sup>2</sup> Die Höhe der Kostenbeteiligung der Unterhaltspflichtigen beträgt pro Jahr zehn Prozent des über dem Freibetrag von 55'000 Franken liegenden massgebenden Jahreseinkommens, unter Vorbehalt von Absatz 3.
+
+<sup>3</sup> Die Kostenbeteiligung der Unterhaltspflichtigen beträgt pro Monat höchstens einen Zwölftel der jährlichen Kostenbeteiligung gemäss Absatz 2 sowie höchstens die effektiven Kosten der erbrachten Leistungen.
 
 ### 6.1.2 Ausnahmen
 
 #### Art. 34
 
-**Schulbesuch**
+**Besonderes Volksschulangebot**
 
-<sup>1</sup> Ist der Bezug einer stationären Leistung für den Schulbesuch unerlässlich, besteht keine Beteiligungspflicht, wenn
+<sup>1</sup> Beanspruchen Leistungsbezügerinnen und Leistungsbezüger stationäre Leistungen gemäss Artikel 2 und besuchen sie das separative besondere Volksschulangebot, können sie oder die Unterhaltspflichtigen bei der zuständigen Stelle der Direktion für Inneres und Justiz Antrag auf Kostenbeteiligung gemäss Absatz 2 stellen.
 
-- a der Schulweg ohne stationäre Leistung pro Tag für Kinder unter zwölf Jahren länger als zwei Stunden (eine Stunde pro Weg) dauern würde,
-- b der Schulweg ohne stationäre Leistung pro Tag für Kinder ab zwölf Jahren und junge Erwachsene länger als drei Stunden (1,5 Stunden pro Weg) dauern würde.
+<sup>2</sup> Liegt eine Ausnahme gemäss Absatz 1 vor, erheben die Leistungserbringerinnen und Leistungserbringer von den Beitragspflichtigen einen Beitrag für die Verpflegungskosten höchstens im Umfang der effektiven Kosten und überweisen diesen der vorfinanzierenden Stelle. Die Höhe des Beitrags für die Verpflegungskosten wird durch die zuständige Stelle der Direktion für Inneres und Justiz festgelegt.
 
-<sup>2</sup> Liegt eine Ausnahme gemäss Absatz 1 vor, erheben die Leistungserbringerinnen und Leistungserbringer einen kostendeckenden Beitrag für die Verpflegungskosten und überweisen diesen der vorfinanzierenden Stelle.
-
-<sup>3</sup> Das Vorliegen einer Ausnahme gemäss Absatz 1 wird im Rahmen der Abklärung des Leistungsanspruchs geprüft und im Abklärungsbericht festgehalten.
+<sup>3</sup> …
 
 #### Art. 35
 
@@ -435,20 +437,15 @@ beschliesst:
 
 #### Art. 36
 
-**Massgebende wirtschaftliche Haushaltseinheit**
+**Massgebende Bemessungsgrundlage**
 
-<sup>1</sup> Für die Bemessung der Kostenbeteiligung der beitragspflichtigen Personen wird das massgebende Einkommen der wirtschaftlichen Haushaltseinheit bestimmt.
+<sup>1</sup> Für die Bemessung der Kostenbeteiligung der beitragspflichtigen Personen wird deren massgebendes Einkommen bestimmt.
 
-<sup>2</sup> Die wirtschaftliche Haushaltseinheit umfasst neben der beitragspflichtigen Person
-
-- a die Ehegattin oder den Ehegatten,
-- b die registrierte Partnerin oder den registrierten Partner,
-- c die Partnerin oder den Partner, soweit diese oder dieser mit der beitragspflichtigen Person gemeinsame Kinder hat oder seit mehr als zwei Jahren mit ihr zusammenlebt,
-- d minderjährige oder volljährige, in Erstausbildung stehende Kinder unter 25 Jahren.
+<sup>2</sup> …
 
 #### Art. 37
 
-**Berechungunsgrundlage**
+**Berechnungsgrundlage**
 
 <sup>1</sup> Das für die Berechnung der Kostenbeteiligung massgebende Jahreseinkommen wird soweit möglich gestützt auf die letzte rechtskräftige Veranlagungsverfügung oder Taxationseinschätzung der Steuerbehörde bemessen.
 
@@ -495,13 +492,17 @@ beschliesst:
 <sup>1</sup> Soweit steuerlich abzugsberechtigt und bei Selbstständigerwerbenden nicht bereits im steuerbaren Erfolg eingerechnet, können folgende Beträge bei der Berechnung des für die Beitragspflicht massgebenden Einkommens in Abzug gebracht werden:
 
 - a geleistete Unterhaltsbeiträge,
-- b Kosten der Tagesbetreuung für jedes im gemeinsamen Haushalt lebende Kind,
+- b die von der beitragspflichtigen Person getragenen Kosten der Tagesbetreuung für jedes unterhaltsberechtigte Kind,
 - c Versicherungsbeiträge,
-- d Krankheits- und Unfallkosten.
+- d Krankheits- und Unfallkosten,
+- e die behinderungsbedingten Kosten der beitragspflichtigen Person und der von ihr unterhaltenen Personen mit Behinderungen im Sinne des Bundesgesetzes vom 13. Dezember 2002 über die Beseitigung von Benachteiligungen von Menschen mit Behinderungen (Behindertengleichstellungsgesetz, BehiG)[^41-1], soweit die beitragspflichtige Person die Kosten selber trägt,
+- f Berufskosten.
 
-<sup>2</sup> Zusätzlich können bei der Berechnung des massgebenden Einkommens für jedes unterhaltsbedürftige Kind 5000 Franken in Abzug gebracht werden.
+<sup>2</sup> Zusätzlich können bei der Berechnung des massgebenden Einkommens der beitragspflichtigen Person für jedes ihrer unterhaltsberechtigten Kinder 5000 Franken in Abzug gebracht werden.
 
 <sup>3</sup> Freiwillige Einzahlungen von Unselbstständigerwerbenden in Vorsorgeeinrichtungen der 2. Säule und der Säule 3a können bei der Berechnung des massgebenden Einkommens nicht in Abzug gebracht werden.
+
+[^41-1]: SR [151.3](https://db.clex.ch/link/Bund/151.3/de)
 
 ### 6.3 Zuständigkeiten
 
@@ -522,9 +523,9 @@ beschliesst:
 
 **Klageweg und Inkasso**
 
-<sup>1</sup> Kann die Kostenbeteiligung mit den Beitragspflichtigen nicht vereinbart werden, kann diese von der zuständige Stelle der Direktion für Inneres und Justiz auf dem zivilen Klageweg eingefordert werden.
+<sup>1</sup> Kann die Kostenbeteiligung mit den Beitragspflichtigen nicht vereinbart werden, kann diese von der zuständigen Stelle der Direktion für Inneres und Justiz auf dem zivilen Klageweg eingefordert werden.
 
-<sup>2</sup> Die Rechnungsstellung und das Inkasso erfolgt durch die zuständige Stelle der Direktion für Inneres und Justiz.
+<sup>2</sup> Die Rechnungsstellung und das Inkasso erfolgen durch die zuständige Stelle der Direktion für Inneres und Justiz.
 
 #### Art. 44
 
@@ -614,66 +615,31 @@ beschliesst:
 <sup>1</sup> Die Tarife in der nachfolgenden Tabelle dienen zur Festlegung der Abgeltung von ambulanten Leistungen gemäss Artikel 22 Absatz 1:
 
 <table>
-<tr><th>Leistung gemäss Artikel 3 Absatz 1</th><th>Tarif</th></tr>
-<tr><td>a Nachbetreuung im Anschluss an eine stationäre Leistung</td><td>125 Franken / h</td></tr>
-<tr><td>b Betreuung in sozialpädagogischen Tagesstrukturen</td><td>130 Franken / Tag</td></tr>
-<tr><td>c Unterstützung bei der Wahrnehmung des Besuchsrechts (Begleitung bei der Ausübung des Besuchsrechts)</td><td>120 Franken / h Besuchszeit (exkl. Fahrspesen)</td></tr>
-<tr><td>d Unterstützung bei der Wahrnehmung des Besuchsrechts (Begleitung bei der Kinderübergabe)</td><td>120 Franken pro Besuch (exkl. Fahrspesen)</td></tr>
-<tr><td>e Sozialpädagogische Familienbegleitung</td><td>125 Franken / h</td></tr>
-<tr><td>f Intensivbegleitung in der Familie</td><td>144 Franken / h</td></tr>
-<tr><td>g Sozialpädagogische Begleitung bei Langzeitunterbringungen in der Pflegefamilie</td><td>125 Franken / h</td></tr>
-<tr><td>h Sozialpädagogische Begleitung bei Wochenunterbringungen in der Pflegefamilie</td><td>100 Franken / Tag</td></tr>
-<tr><td>i Sozialpädagogische Begleitung bei Krisenunterbringungen in der Pflegefamilie</td><td>133 Franken / Tag</td></tr>
-<tr><td>k Vermittlung von Pflegeplätzen in der Langzeitunterbringung</td><td>3000 Franken pro vermitteltem Pflegeplatz</td></tr>
+<tr><th>Leistung gemäss Artikel 3 Absatz 1</th><th>Tarif (2025)</th></tr>
+<tr><td>a Nachbetreuung im Anschluss an eine stationäre Leistung</td><td>132 Franken / h</td></tr>
+<tr><td>b Betreuung in sozialpädagogischen Tagesstrukturen</td><td>137 Franken / Tag</td></tr>
+<tr><td>c Unterstützung bei der Wahrnehmung des Besuchsrechts (Begleitung bei der Ausübung des Besuchsrechts)</td><td>126 Franken / h Besuchszeit (exkl. Fahrspesen)</td></tr>
+<tr><td>d Unterstützung bei der Wahrnehmung des Besuchsrechts (Begleitung bei der Kinderübergabe)</td><td>126 Franken pro Besuch (exkl. Fahrspesen)</td></tr>
+<tr><td>e Sozialpädagogische Familienbegleitung</td><td>132 Franken / h</td></tr>
+<tr><td>f Intensivbegleitung in der Familie</td><td>152 Franken / h</td></tr>
+<tr><td>g Sozialpädagogische Begleitung bei Langzeitunterbringungen in der Pflegefamilie</td><td>132 Franken / h</td></tr>
+<tr><td>h Sozialpädagogische Begleitung bei Wochenunterbringungen in der Pflegefamilie</td><td>105 Franken / Tag</td></tr>
+<tr><td>i Sozialpädagogische Begleitung bei Krisenunterbringungen in der Pflegefamilie</td><td>140 Franken / Tag</td></tr>
+<tr><td>k Vermittlung von Pflegeplätzen in der Langzeitunterbringung</td><td>3'159 Franken pro vermitteltem Pflegeplatz</td></tr>
+<tr><td>l Unterstützung bei der Wahrnehmung des Besuchsrechts (individuelle Begleitung)</td><td>132 Franken / h (Wochenende u. Feiertage 140 Franken / h)</td></tr>
 </table>
 
-### A3 Anhang 3 zu Artikel 32 Absatz 1
+### A3
 
 #### Art. A3-1
 
-**Kostenbeteiligung Leistungsbezügerinnen und Leistungsbezüger**
+**…**
 
-<sup>1</sup> Die nachfolgende Tabelle legt die Kostenbeteiligung der Leistungsbezügerinnen und Leistungsbezüger gemäss Artikel 32 Absatz 1 fest:
-
-<table>
-<tr><th>Massgebendes Jahreseinkommen</th><th>%-Anteil</th><th>Maximum pro Jahr</th><th>Maximum pro Monat</th></tr>
-<tr><td>Bis 10'000 Franken</td><td>0%</td><td>0 Franken</td><td>0 Franken</td></tr>
-<tr><td>10'001 – 20'000 Franken</td><td>15%</td><td>3000 Franken</td><td>250 Franken</td></tr>
-<tr><td>20'001 – 30'000 Franken</td><td>25%</td><td>7500 Franken</td><td>625 Franken</td></tr>
-<tr><td>30'001 - 40'000 Franken</td><td>30%</td><td>12'000 Franken</td><td>1000 Franken</td></tr>
-<tr><td>über 40'000 Franken</td><td>40%</td><td>bis höchstens effektive Kosten</td><td>bis höchstens effektive Kosten</td></tr>
-</table>
-
-<sup>2</sup> Die Kostenbeteiligung der Leistungsbezügerinnen und Leistungsbezüger beträgt höchstens die effektiven Kosten der erbrachten Leistung.
-
-### A4 Anhang 4 zu Artikel 33 Absatz 1
+### A4
 
 #### Art. A4-1
 
-**Kostenbeteiligung Unterhaltspflichtige**
-
-<sup>1</sup> Die nachfolgende Tabelle legt die Kostenbeteiligung der Unterhaltspflichtigen gemäss Artikel 33 Absatz 1 fest:
-
-<table>
-<tr><th>Massgebendes Jahreseinkommen</th><th>%-Anteil</th><th>Maximum pro Jahr</th><th>Maximum pro Monat</th></tr>
-<tr><td>Bis 55’000 Franken</td><td>0%</td><td>0 Franken</td><td>0 Franken</td></tr>
-<tr><td>55'001 – 60'000 Franken</td><td>4,5%</td><td>2700 Franken</td><td>225 Franken</td></tr>
-<tr><td>60'001 – 65'000 Franken</td><td>5,5%</td><td>3575 Franken</td><td>298 Franken</td></tr>
-<tr><td>65'001 – 70'000 Franken</td><td>6,5%</td><td>4550 Franken</td><td>379 Franken</td></tr>
-<tr><td>70'001 – 75'000 Franken</td><td>7,5%</td><td>5625 Franken</td><td>469 Franken</td></tr>
-<tr><td>75'001 – 80'000 Franken</td><td>8,5%</td><td>6800 Franken</td><td>567 Franken</td></tr>
-<tr><td>80'001 – 85'000 Franken</td><td>9,5%</td><td>8075 Franken</td><td>673 Franken</td></tr>
-<tr><td>85'001 – 90'000 Franken</td><td>10,5%</td><td>9450 Franken</td><td>788 Franken</td></tr>
-<tr><td>90'001 – 95'000 Franken</td><td>11,5%</td><td>10'925 Franken</td><td>910 Franken</td></tr>
-<tr><td>95'001 – 100'000 Franken</td><td>12,5%</td><td>12'500 Franken</td><td>1042 Franken</td></tr>
-<tr><td>100'001 - 120'000 Franken</td><td>13,5%</td><td>16'200 Franken</td><td>1350 Franken</td></tr>
-<tr><td>120'001 - 150000 Franken</td><td>15%</td><td>22'500 Franken</td><td>1875 Franken</td></tr>
-<tr><td>150'001 - 200'000 Franken</td><td>17,5%</td><td>35'000 Franken</td><td>2917 Franken</td></tr>
-<tr><td>200'001 - 250'000 Franken</td><td>20%</td><td>50'000 Franken</td><td>4166 Franken</td></tr>
-<tr><td>Über 250’000 Franken</td><td>25%</td><td>bis höchstens effektive Kosten</td><td>bis höchstens effektive Kosten</td></tr>
-</table>
-
-<sup>2</sup> Die Kostenbeteiligung der Unterhaltspflichtigen beträgt höchstens die effektiven Kosten der erbrachten Leistung.
+**…**
 
 Bern, 30. Juni 2021
 

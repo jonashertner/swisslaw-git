@@ -4,13 +4,12 @@ number: "213.319.1"
 title: "Ordonnance sur les prestations particulières d'encouragement et de protection destinées aux enfants"
 short: OPEP
 language: fr
-version: 2024-01-01
-valid_until: 2025-07-31
-version_adopted: 2023-06-21
+version: 2025-08-01
+version_adopted: 2025-04-02
 adopted: 2021-06-30
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/213.319.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2849/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3161/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2849/pdf_file"
 
 (OPEP)
 
-du 30.06.2021 (état au 01.01.2024)
+du 30.06.2021 (état au 01.08.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -237,7 +236,7 @@ arrête:
 
 **Adaptation de la participation aux frais d’infrastructure**
 
-<sup>1</sup> La participation aux frais d’infrastructure est adaptée à l’indice des prix de la construction ainsi qu’au taux hypothécaire de référence à la date de la conclusion du contrat.
+<sup>1</sup> La participation aux frais d’infrastructure est adaptée au début de chaque année, pendant la durée du contrat, à l’indice des prix de la construction ainsi qu’au taux hypothécaire de référence.
 
 ### 3.2.3 Présentation, vérification et tenue des comptes
 
@@ -382,7 +381,7 @@ arrête:
 
 **Examen du besoin de prestation**
 
-<sup>1</sup> Dans le cas où, compte tenu de l’article 3, alinéa 2, lettre a LPEP, des prestations doivent être préfinancées par le canton au-delà de l’âge de la majorité de la personne bénéficiaire, le service communal doit à nouveau examiner le besoin d’encouragement et de protection avant que celle-ci n’accède à la majorité et fixer la durée prévue jusqu’au terme de la fourniture de la prestation.
+<sup>1</sup> Dans le cas où, compte tenu de l’article 3, alinéa 2, lettre a LPEP, des prestations doivent être préfinancées par le canton au-delà de l’âge de la majorité de la personne bénéficiaire, le service communal doit réexaminer le besoin d’encouragement et de protection avant que celle-ci n’accède à la majorité et fixer la durée prévue de la fourniture de la prestation.
 
 <sup>2</sup> Le service communal annonce la nature et la durée de la prestation conformément à l’alinéa 1 au service compétent de la Direction de l’intérieur et de la justice.
 
@@ -396,9 +395,11 @@ arrête:
 
 **Bénéficiaires des prestations**
 
-<sup>1</sup> Les jeunes adultes et les enfants qui sont taxés séparément sur leur revenu et leur fortune participent aux coûts des prestations dont ils bénéficient, à hauteur des montants prévus à l’annexe 3 (art. A3-1).
+<sup>1</sup> Les jeunes adultes et les enfants qui sont taxés séparément sur leur revenu et leur fortune participent aux coûts des prestations résidentielles dont elles et ils bénéficient, à hauteur du montant calculé conformément à l'alinéa 2.
 
-<sup>2</sup> Les bénéficiaires mineurs de prestations d’encouragement et de protection de type ambulatoire ne sont pas tenus de participer aux coûts de ces dernières.
+<sup>2</sup> Le montant de la participation aux coûts des jeunes adultes et des enfants s'élève par année à dix pour cent du revenu annuel déterminant excédant le montant de 55'000 francs, sous réserve de l'alinéa 3.
+
+<sup>2a</sup> La participation mensuelle aux coûts des jeunes adultes et des enfants s'élève au maximum à un douzième de la participation annuelle conformément à l'alinéa 2 et aux coûts effectifs des prestations fournies.
 
 <sup>3</sup> Les prestations des assurances sociales affectées doivent être intégralement utilisées pour couvrir les coûts.
 
@@ -406,22 +407,23 @@ arrête:
 
 **Personnes ayant une obligation d’entretien**
 
-<sup>1</sup> Les personnes ayant une obligation d’entretien participent à hauteur des montants prévus à l’annexe 4 (art. A4-1) aux coûts des prestations de type résidentiel ou ambulatoire, pour autant que ceux-ci ne soient pas déjà couverts par les bénéficiaires.
+<sup>1</sup> Les personnes ayant une obligation d’entretien participent à hauteur du montant calculé conformément à l'alinéa 2 aux coûts des prestations de type résidentiel ou ambulatoire, pour autant que ceux-ci ne soient pas déjà couverts par les bénéficiaires.
+
+<sup>2</sup> Le montant de la participation aux coûts des personnes ayant une obligation d’entretien s’élève, par année, à dix pour cent du revenu annuel déterminant excédant le montant de 55'000 francs, sous réserve de l’alinéa 3.
+
+<sup>3</sup> La participation mensuelle aux coûts des personnes ayant une obligation d’entretien s’élève au maximum à un douzième de la participation annuelle conformément à l’alinéa 2 et aux coûts effectifs des prestations fournies.
 
 ### 6.1.2 Exceptions
 
 #### Art. 34
 
-**Fréquentation d’une école**
+**Offre spécialisée de l’école obligatoire**
 
-<sup>1</sup> Lorsque la fréquentation d’une école implique le recours à une prestation de type résidentiel, la participation aux coûts n’est pas obligatoire dans les cas où
+<sup>1</sup> Si les bénéficiaires recourent à des prestations de type résidentiel conformément à l’article 2 et suivent de manière séparée l’offre spécialisée de l’école obligatoire, elles et ils ou les personnes ayant une obligation d’entretien peuvent faire une demande de participation aux coûts selon l’alinéa 2 auprès du service compétent de la Direction de l’intérieur et de la justice.
 
-- a les trajets quotidiens pour se rendre à l’école, sans recours à cette prestation, dureraient plus de deux heures (une heure par trajet) pour les enfants âgés de moins de douze ans;
-- b les trajets quotidiens pour se rendre à l’école, sans recours à cette prestation, dureraient plus de trois heures (1,5 heure par trajet) pour les enfants âgés de plus de douze ans et les jeunes adultes.
+<sup>2</sup> En cas d’exception conformément à l’alinéa 1, les prestataires perçoivent de la part des personnes tenues de contribuer une contribution pour les frais de nourriture s’élevant au maximum aux frais effectifs et la transfèrent au service assurant le préfinancement. Le service compétent de la Direction de l’intérieur et de la justice fixe le montant de la contribution aux frais de nourriture.
 
-<sup>2</sup> En cas d’exception conformément à l’alinéa 1, les prestataires perçoivent une contribution couvrant les coûts pour les frais de nourriture et la transfèrent au service assurant le préfinancement.
-
-<sup>3</sup> Une exception est prise en compte lors de l’examen du droit à la prestation et figure dans le rapport y relatif.
+<sup>3</sup> …
 
 #### Art. 35
 
@@ -435,16 +437,11 @@ arrête:
 
 #### Art. 36
 
-**Unité économique de référence**
+**Base de calcul déterminante**
 
-<sup>1</sup> Le calcul de la participation aux coûts des personnes tenues de contribuer est fixé sur la base du revenu déterminant de l’unité économique de référence.
+<sup>1</sup> Le calcul de la participation aux coûts des personnes tenues de contribuer est fixé sur la base de leur revenu déterminant.
 
-<sup>2</sup> L’unité économique de référence comprend, outre les personnes tenues de contribuer,
-
-- a l’époux ou l’épouse;
-- b le partenaire enregistré ou la partenaire enregistrée;
-- c le ou la partenaire, dans la mesure où il ou elle a des enfants communs avec la personne tenue de contribuer ou vit depuis plus de deux ans avec elle;
-- d les enfants mineurs ou majeurs âgés de moins de 25 ans effectuant une formation initiale.
+<sup>2</sup> …
 
 #### Art. 37
 
@@ -495,13 +492,17 @@ arrête:
 <sup>1</sup> Dans la mesure où ils sont fiscalement déductibles et, chez les personnes exerçant une activité lucrative indépendante, n’ont pas encore été inclus dans le résultat imposable, les montants suivants peuvent être déduits lors du calcul du revenu déterminant pour l’obligation de contribuer:
 
 - a contributions d’entretien fournies,
-- b coûts de l’accueil de jour pour chaque enfant vivant dans le ménage commun,
+- b coûts de l’accueil de jour assumés par la personne tenue de contribuer pour chaque enfant ayant droit à une contribution d'entretien,
 - c primes d’assurance,
-- d frais de maladie et d’accident.
+- d frais de maladie et d’accident,
+- e frais liés à un handicap au sens de la loi fédérale du 13 décembre 2002 sur l’élimination des inégalités frappant les personnes handicapées (loi sur l’égalité pour les handicapés, LHand)[^41-1] que la personne tenue de contribuer supporte elle-même pour son propre handicap ou celui d’une personne à l’entretien de laquelle elle subvient,
+- f frais professionnels.
 
-<sup>2</sup> Lors du calcul du revenu déterminant, il est en outre possible de déduire 5000 francs pour chaque enfant envers lequel il existe une obligation d’entretien.
+<sup>2</sup> Lors du calcul du revenu déterminant de la personne tenue de contribuer, il est en outre possible de déduire 5000 francs pour chacune ou chacun de ses enfants ayant droit à une contribution d'entretien.
 
 <sup>3</sup> Les versements volontaires de la part de personnes exerçant une activité lucrative dépendante aux institutions de prévoyance du 2<sup>e</sup> pilier et du pilier 3a ne peuvent pas être déduits lors du calcul du revenu déterminant.
+
+[^41-1]: RS [151.3](https://db.clex.ch/link/Bund/151.3/fr)
 
 ### 6.3 Compétences
 
@@ -522,7 +523,7 @@ arrête:
 
 **Procédure d’action et encaissement**
 
-<sup>1</sup> S’il n’est pas possible de convenir de la participation aux coûts avec les personnes tenues de contribuer, le service compétent de la Direction de l’intérieur et de la justice peut exiger celle-ci par voie d’action civile.
+<sup>1</sup> S’il n’est pas possible de convenir de la participation aux coûts avec les personnes tenues de contribuer, le service compétent de la Direction de l’intérieur et de la justice peut l'exiger par voie d’action civile.
 
 <sup>2</sup> La facturation et l’encaissement relèvent du service compétent de la Direction de l’intérieur et de la justice.
 
@@ -614,66 +615,31 @@ arrête:
 <sup>1</sup> Les tarifs du tableau suivant servent à déterminer la rétribution pour les prestations de type ambulatoire conformément à l’article 22, alinéa 1:
 
 <table>
-<tr><th>Prestation conformément à l’article 3, alinéa 1</th><th>Tarif</th></tr>
-<tr><td>a Suivi post-résidentiel</td><td>125 francs / heure</td></tr>
-<tr><td>b Prise en charge dans des structures de jour socio-pédagogiques</td><td>130 francs / jour</td></tr>
-<tr><td>c Soutien dans le cadre de l’exercice du droit de visite (accompagnement lors de l’exercice du droit de visite)</td><td>120 francs / heure de visite (sans les frais de transport)</td></tr>
-<tr><td>d Soutien dans le cadre de l’exercice du droit de visite (accompagnement lors de la passation de l’enfant)</td><td>120 francs / visite (sans les frais de transport)</td></tr>
-<tr><td>e Encadrement familial socio-pédagogique</td><td>125 francs / heure</td></tr>
-<tr><td>f Suivi intensif dans la famille</td><td>144 francs / heure</td></tr>
-<tr><td>g Suivi socio-pédagogique dans le cadre du placement de longue durée chez des parents nourriciers</td><td>125 francs / heure</td></tr>
-<tr><td>h Suivi socio-pédagogique dans le cadre du placement durant la semaine chez des parents nourriciers</td><td>100 francs / jour</td></tr>
-<tr><td>i Suivi socio-pédagogique dans le cadre du placement chez des parents nourriciers en cas d’intervention de crise</td><td>133 francs / jour</td></tr>
-<tr><td>k Intervention visant à placer un enfant chez des parents nourriciers pour une longue durée</td><td>3000 francs par place attribuée</td></tr>
+<tr><th>Prestation conformément à l’article 3, alinéa 1</th><th>Tarif (2025)</th></tr>
+<tr><td>a Suivi post-résidentiel</td><td>132 francs / heure</td></tr>
+<tr><td>b Prise en charge dans des structures de jour socio-pédagogiques</td><td>137 francs / jour</td></tr>
+<tr><td>c Soutien dans le cadre de l’exercice du droit de visite (accompagnement lors de l’exercice du droit de visite)</td><td>126 francs / heure de visite (sans les frais de transport)</td></tr>
+<tr><td>d Soutien dans le cadre de l’exercice du droit de visite (accompagnement lors de la passation de l’enfant)</td><td>126 francs / visite (sans les frais de transport)</td></tr>
+<tr><td>e Encadrement familial socio-pédagogique</td><td>132 francs / heure</td></tr>
+<tr><td>f Suivi intensif dans la famille</td><td>152 francs / heure</td></tr>
+<tr><td>g Suivi socio-pédagogique dans le cadre du placement de longue durée chez des parents nourriciers</td><td>132 francs / heure</td></tr>
+<tr><td>h Suivi socio-pédagogique dans le cadre du placement durant la semaine chez des parents nourriciers</td><td>105 francs / jour</td></tr>
+<tr><td>i Suivi socio-pédagogique dans le cadre du placement chez des parents nourriciers en cas d’intervention de crise</td><td>140 francs / jour</td></tr>
+<tr><td>k Intervention visant à placer un enfant chez des parents nourriciers pour une longue durée</td><td>3159 francs par place attribuée</td></tr>
+<tr><td>l Soutien dans le cadre de l’exercice du droit de visite (suivi individuel)</td><td>132 francs / heure (140 fr. les fins de semaine et les jours fériés)</td></tr>
 </table>
 
-### A3 Annexe 3 à l’article 32, alinéa 1
+### A3
 
 #### Art. A3-1
 
-**Participation aux coûts des bénéficiaires de prestations**
+**…**
 
-<sup>1</sup> Le tableau suivant fixe la participation aux coûts des bénéficiaires de prestations conformément à l’article 32, alinéa 1:
-
-<table>
-<tr><th>Revenu annuel déterminant</th><th>Part en %</th><th>Montant annuel maximal</th><th>Montant mensuel maximal</th></tr>
-<tr><td>Jusqu'à 10'000 francs</td><td>0</td><td>0 franc</td><td>0 franc</td></tr>
-<tr><td>De 10'001 à 20'000 francs</td><td>15</td><td>3000 francs</td><td>250 francs</td></tr>
-<tr><td>De 20'001 à 30'000 francs</td><td>25</td><td>7500 francs</td><td>625 francs</td></tr>
-<tr><td>De 30'001 à 40'000 francs</td><td>30</td><td>12'000 francs</td><td>1000 francs</td></tr>
-<tr><td>Plus de 40'000 francs</td><td>40</td><td>à hauteur maximale des frais effectifs</td><td>à hauteur maximale des frais effectifs</td></tr>
-</table>
-
-<sup>2</sup> La participation aux coûts des bénéficiaires de prestations s’élève au maximum aux coûts effectifs de la prestation fournie.
-
-### A4 Annexe 4 à l’article 33, alinéa 1
+### A4
 
 #### Art. A4-1
 
-**Participation aux coûts des personnes ayant une obligation d’entretien**
-
-<sup>1</sup> Le tableau suivant fixe la participation aux coûts des personnes ayant une obligation d’entretien conformément à l’article 33, alinéa 1:
-
-<table>
-<tr><th>Revenu annuel déterminant</th><th>Part en %</th><th>Montant annuel maximal</th><th>Montant mensuel maximal</th></tr>
-<tr><td>Jusqu’à 55'000 francs</td><td>0</td><td>0 franc</td><td>0 franc</td></tr>
-<tr><td>De 55'001 à 60'000 francs</td><td>4,5</td><td>2700 francs</td><td>225 francs</td></tr>
-<tr><td>De 60'001 à 65'000 francs</td><td>5,5</td><td>3575 francs</td><td>298 francs</td></tr>
-<tr><td>De 65'001 à 70'000 francs</td><td>6,5</td><td>4550 francs</td><td>379 francs</td></tr>
-<tr><td>De 70'001 à 75'000 francs</td><td>7,5</td><td>5625 francs</td><td>469 francs</td></tr>
-<tr><td>De 75'001 à 80'000 francs</td><td>8,5</td><td>6800 francs</td><td>567 francs</td></tr>
-<tr><td>De 80'001 à 85'000 francs</td><td>9,5</td><td>8075 francs</td><td>673 francs</td></tr>
-<tr><td>De 85'001 à 90'000 francs</td><td>10,5</td><td>9450 francs</td><td>788 francs</td></tr>
-<tr><td>De 90'001 à 95'000 francs</td><td>11,5</td><td>10'925 francs</td><td>910 francs</td></tr>
-<tr><td>De 95'001 à 100'000 francs</td><td>12,5</td><td>12'500 francs</td><td>1042 francs</td></tr>
-<tr><td>De 100'001 à 120'000 francs</td><td>13,5</td><td>16'200 francs</td><td>1350 francs</td></tr>
-<tr><td>De 120'001 à 150'000 francs</td><td>15</td><td>22'500 francs</td><td>1875 francs</td></tr>
-<tr><td>De 150'001 à 200'000 francs</td><td>17,5</td><td>35'000 francs</td><td>2917 francs</td></tr>
-<tr><td>De 200'001 à 250'000 francs</td><td>20</td><td>50'000 francs</td><td>4166 francs</td></tr>
-<tr><td>Plus de 250'000 francs</td><td>25</td><td>à hauteur maximale des coûts effectifs</td><td>à hauteur maximale des coûts effectifs</td></tr>
-</table>
-
-<sup>2</sup> La participation aux coûts des personnes ayant une obligation d’entretien s’élève au maximum aux coûts effectifs de la prestation fournie.
+**…**
 
 Berne, le 30 juin 2021
 
