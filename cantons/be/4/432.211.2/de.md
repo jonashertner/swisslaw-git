@@ -4,13 +4,13 @@ number: "432.211.2"
 title: Tagesschulverordnung
 short: TSV
 language: de
-version: 2024-08-01
-valid_until: 2025-07-31
-version_adopted: 2024-01-25
+version: 2025-08-01
+valid_until: 2026-07-31
+version_adopted: 2025-01-17
 adopted: 2008-05-28
 in_force: 2008-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/432.211.2"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2994/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3132/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2994/pdf_file"
 
 (TSV)
 
-vom 28.05.2008 (Stand 01.08.2024)
+vom 28.05.2008 (Stand 01.08.2025)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -113,8 +113,8 @@ beschliesst:
 
 <sup>1</sup> Die Normlohnkosten für die Betreuung je Kind und Stunde betragen
 
-- a 10.98 Franken für Tagesschulangebote gemäss Artikel 4 Absatz 1,
-- b 5.49 Franken für Tagesschulangebote mit tiefen pädagogischen Ansprüchen.
+- a 11.14 Franken für Tagesschulangebote gemäss Artikel 4 Absatz 1,
+- b 5.57 Franken für Tagesschulangebote mit tiefen pädagogischen Ansprüchen.
 
 <sup>2</sup> Die Normlohnkosten für eine Betreuungsstunde von Kindern mit besonderen Massnahmen oder besonderen Betreuungsanforderungen können bis zum eineinhalbfachen Ansatz von Absatz 1 Buchstabe a betragen.
 
@@ -218,12 +218,12 @@ beschliesst:
 
 **Gebührenansatz**
 
-<sup>1</sup> Der Minimalansatz beträgt 0.82 Franken je verrechenbare Betreuungsstunde.
+<sup>1</sup> Der Minimalansatz beträgt 0.83 Franken je verrechenbare Betreuungsstunde.
 
 <sup>2</sup> Der Maximalansatz beträgt je verrechenbare Betreuungsstunde
 
-- a 12.86 Franken für Tagesschulangebote gemäss Artikel 4 Absatz 1,
-- b 6.43 Franken für Tagesschulangebote mit tiefen pädagogischen Ansprüchen.
+- a 13.05 Franken für Tagesschulangebote gemäss Artikel 4 Absatz 1,
+- b 6.52 Franken für Tagesschulangebote mit tiefen pädagogischen Ansprüchen.
 
 <sup>3</sup> Bis zu einem massgebenden Einkommen von 43'000 Franken wird der Minimalansatz erhoben; ab einem massgebenden Einkommen von 160'000 Franken wird der Maximalansatz erhoben.
 
