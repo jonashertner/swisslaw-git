@@ -4,13 +4,12 @@ number: "213.319.2"
 title: Verordnung über die Aufsicht über stationäre Einrichtungen und ambulante Leistungen für Kinder
 short: ALKV
 language: de
-version: 2024-01-01
-valid_until: 2025-07-31
-version_adopted: 2023-06-21
+version: 2025-08-01
+version_adopted: 2025-04-02
 adopted: 2021-06-23
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/213.319.2"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2850/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3162/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2850/pdf_file"
 
 (ALKV)
 
-vom 23.06.2021 (Stand 01.01.2024)
+vom 23.06.2021 (Stand 01.08.2025)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -104,11 +103,13 @@ beschliesst:
 
 - a die Pflegeeltern sowie Hausgenossinnen und Hausgenossen
   - 1\. nach Persönlichkeit, Gesundheit, erzieherischer Eignung und zeitlicher Verfügbarkeit sowie nach den Wohnverhältnissen für gute Pflege, Erziehung und Ausbildung des Kindes Gewähr bieten;
-  - 2\. sich nicht in einem laufenden Strafverfahren befinden oder wegen einer Straftat verurteilt worden sind, die aufgrund der Schwere oder Art die Eignung zur Aufnahme von Kindern in Frage stellen;
+  - 2\. sich nicht in einem laufenden Strafverfahren befinden oder wegen einer Straftat verurteilt worden sind, die aufgrund der Schwere oder Art die Eignung zur Aufnahme von Kindern in Frage stellen, wobei eine Überprüfung des Leumunds nach Artikel 7 PAVO vorzunehmen ist;
   - 3\. in stabilen sozialen und finanziellen Verhältnissen leben.
 - b das Wohl anderer in der Pflegefamilie lebender Kinder nicht beeinträchtigt wird.
 
 <sup>2</sup> Sie kann befristet erteilt und mit Auflagen verbunden werden.
+
+<sup>3</sup> Die zuständige Stelle der Direktion für Inneres und Justiz erarbeitet Richtlinien zu den Bewilligungsvoraussetzungen nach Absatz 1.
 
 #### Art. 7
 
@@ -174,6 +175,8 @@ beschliesst:
 
 <sup>2</sup> Das Verfahren richtet sich nach der Verordnung des Bundesrates vom 29. Juni 2011 über die Adoption (Adoptionsverordnung, AdoV)[^11-1].
 
+<sup>3</sup> Eine Überprüfung des Leumunds erfolgt nach Artikel 5 Absatz 6 AdoV.
+
 [^11-1]: SR [211.221.36](https://db.clex.ch/link/Bund/211.221.36/de)
 
 ### 2.4 Aufsicht
@@ -192,7 +195,7 @@ beschliesst:
 
 **Aufgaben**
 
-<sup>1</sup> Die Aufsichtsbehörde prüft, ob die Voraussetzungen für die Weiterführung des Pflegeverhältnisses erfüllt sind.
+<sup>1</sup> Die Aufsichtsbehörde prüft, ob die Voraussetzungen für die Weiterführung des Pflegeverhältnisses erfüllt sind und nimmt insbesondere eine Überprüfung des Leumunds nach Artikel 10 Absatz 2 PAVO vor.
 
 <sup>2</sup> Eine Fachperson besucht die Pflegefamilie im Auftrag der Aufsichtsbehörde so oft als nötig, jährlich aber wenigstens einmal, und führt über diese Besuche Protokoll.
 
@@ -291,16 +294,15 @@ beschliesst:
 
 #### Art. 22
 
-**Strafregisterauszüge**
+**Überprüfung des Leumunds**
 
 <sup>1</sup> Für stationäre Einrichtungen tätige Personen dürfen sich nicht in einem laufenden Strafverfahren befinden oder wegen einer Straftat verurteilt worden sein, die aufgrund der Schwere oder Art die Eignung zur Betreuung von Kindern in Frage stellt.
 
-<sup>2</sup> Die Trägerschaft der Einrichtung oder die Leitungspersonen prüfen mindestens alle fünf Jahre oder auf Verlangen der Aufsichtsbehörde, ob Absatz 1 erfüllt ist und holen hierfür folgende Auszüge aus dem Strafregister ein:
+<sup>2</sup> Die Trägerschaft der Einrichtung oder die Leitungspersonen stellen der Aufsichtsbehörde jährlich ein Verzeichnis nach Artikel 17 Absatz 3 PAVO zu, anhand dessen die Aufsichtsbehörde jährlich eine Überprüfung des Leumunds nach Artikel 19 Absatz 4 PAVO vornimmt.
 
-- a aktueller Privatauszug und Sonderprivatauszug bei volljährigen Mitarbeiterinnen und Mitarbeitern,
-- b aktueller Sonderprivatauszug bei minderjährigen Mitarbeiterinnen und Mitarbeitern.
+<sup>3</sup> Die für stationäre Einrichtungen tätigen Personen sind durch die Trägerschaft der Einrichtung oder durch die Leitungspersonen vertraglich zu verpflichten, diese unverzüglich über laufende Strafverfahren zu informieren.
 
-<sup>3</sup> Sie verpflichten die für sie tätigen Personen vertraglich, unverzüglich über laufende Strafverfahren zu informieren.
+<sup>4</sup> Bei Verdacht auf eine Grenzüberschreitung sind die geeigneten und erforderlichen Massnahmen zum Schutz der Kinder umgehend zu ergreifen.
 
 #### Art. 23
 
@@ -358,7 +360,8 @@ beschliesst:
 - a Änderungen des Angebots oder der Organisation der Einrichtung,
 - b Erweiterung, Verlegung oder Einstellung des Betriebs,
 - c Wechsel in der operativen oder strategischen Leitung,
-- d Unterschreitung des vorgegebenen Betreuungsschlüssels.
+- d Unterschreitung des vorgegebenen Betreuungsschlüssels,
+- e Anstellung neuer Mitarbeiterinnen und Mitarbeiter zur Prüfung des Leumunds nach Artikel 18 Absatz 4 PAVO.
 
 <sup>2</sup> Ausserdem sind der Aufsichtsbehörde unverzüglich alle besonderen Vorkommnisse zu melden, namentlich in Bezug auf grenzüberschreitendes Verhalten von oder gegenüber Mitarbeiterinnen und Mitarbeitern oder Kindern.
 
@@ -410,7 +413,8 @@ beschliesst:
 
 - a Angaben zur Rechtsform sowie, wenn es sich um eine juristische Person handelt, Statuten und Organigramm,
 - b Personalien und berufliche Qualifikation der Leitungspersonen und der mit der Leistung betrauten Personen,
-- c Strafregisterauszug der geschäftsführenden Person und deren Erklärung, wonach die mit der Leistung betrauten Personen bei Stellenantritt sowie während der Dauer des Anstellungsverhältnisses periodisch entsprechend überprüft werden,
+- b1 Verzeichnis mit den Personalien der Personen, die mit Dienstleistungen in der Familienpflege nach Artikel 20a ff. PAVO betraut sind,
+- c Strafregisterauszug der geschäftsführenden Person, soweit diese nicht im Verzeichnis nach Buchstabe b1 aufgeführt ist, und deren Erklärung, wonach die mit Leistungen ausserhalb der Familienpflege betrauten Personen bei Stellenantritt sowie während der Dauer des Anstellungsverhältnisses periodisch entsprechend überprüft werden,
 - d Konzept zu den angebotenen Leistungen mit den organisatorischen und pädagogischen Grundsätzen.
 
 [^31-1]: BSG [213.319.1](https://www.belex.sites.be.ch/data/213.319.1/de)
@@ -434,6 +438,8 @@ beschliesst:
 **Aufsicht**
 
 <sup>1</sup> Die zuständige Stelle der Direktion für Inneres und Justiz überprüft periodisch, ob die ambulanten Leistungen rechtskonform erfolgen und ob allfällig erteilte behördliche Anordnungen eingehalten werden.
+
+<sup>1a</sup> Sie nimmt anhand des Verzeichnisses (Art. 31 Abs. 3 Bst. b1) eine Überprüfung des Leumunds der darin aufgeführten Personen vor (Art. 20b Abs. 3, Art. 20c Abs. 3 bzw. Art. 20e Abs. 3 PAVO).
 
 <sup>2</sup> Sie ergreift zur Beseitigung von Mängeln die notwendigen Aufsichtsmassnahmen; Artikel 20f PAVO findet sinngemäss Anwendung.
 

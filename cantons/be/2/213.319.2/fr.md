@@ -4,13 +4,12 @@ number: "213.319.2"
 title: Ordonnance sur la surveillance des institutions résidentielles et des prestations ambulatoires destinées aux enfants
 short: OSIPE
 language: fr
-version: 2024-01-01
-valid_until: 2025-07-31
-version_adopted: 2023-06-21
+version: 2025-08-01
+version_adopted: 2025-04-02
 adopted: 2021-06-23
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/213.319.2"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2850/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3162/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2850/pdf_file"
 
 (OSIPE)
 
-du 23.06.2021 (état au 01.01.2024)
+du 23.06.2021 (état au 01.08.2025)
 
 Le Conseil-exécutif du canton de Berne
 
@@ -104,11 +103,13 @@ arrête:
 
 - a les parents nourriciers ainsi que les autres personnes vivant dans leur ménage
   - 1\. du point de vue de leur qualités personnelles, de leur état de santé, de leurs aptitudes éducatives et de leur disponibilité, mais aussi de leurs conditions de logement, offrent toute garantie que l’enfant placé bénéficiera de soins, d’une éducation et d’une formation adéquats;
-  - 2\. ne sont pas impliqués dans une procédure pénale en cours ou n’ont pas été condamnés en raison d’une infraction dont la gravité ou la nature pourrait compromettre l’aptitude à accueillir des enfants;
+  - 2\. ne sont pas impliqués dans une procédure pénale en cours ou n’ont pas fait l'objet d'une condamnation en raison d’une infraction dont la gravité ou la nature pourrait compromettre l’aptitude à accueillir des enfants. L'examen de la réputation s'effectue conformément à l'article 7 OPE;
   - 3\. bénéficient de conditions sociales et financières stables.
 - b le bien-être des autres enfants dans la famille n’est pas menacé.
 
 <sup>2</sup> Elle peut être délivrée pour une durée limitée et être assortie de charges.
+
+<sup>3</sup> Le service compétent de la Direction de l’intérieur et de la justice rédige des directives au sujet des conditions d’octroi de l’autorisation au sens de l’alinéa 1.
 
 #### Art. 7
 
@@ -174,6 +175,8 @@ arrête:
 
 <sup>2</sup> La procédure est régie par l’ordonnance fédérale du 29 juin 2011 sur l’adoption (ordonnance sur l’adoption, OAdo)[^11-1].
 
+<sup>3</sup> L’examen de la réputation s’effectue conformément à l’article 5, alinéa 6 OAdo.
+
 [^11-1]: RS [211.221.36](https://db.clex.ch/link/Bund/211.221.36/fr)
 
 ### 2.4 Surveillance
@@ -192,7 +195,7 @@ arrête:
 
 **Tâches**
 
-<sup>1</sup> L’autorité de surveillance examine si les conditions auxquelles le placement est subordonné sont remplies.
+<sup>1</sup> L’autorité de surveillance examine si les conditions auxquelles le placement est subordonné sont remplies et procède en particulier à l’examen de la réputation, conformément à l’article 10, alinéa 2 OPE.
 
 <sup>2</sup> Un ou une spécialiste, sur mandat de l’autorité de surveillance, fait des visites aussi fréquentes que nécessaire au domicile des parents nourriciers, mais au moins une fois par an, et en rend compte dans un procès-verbal.
 
@@ -291,16 +294,15 @@ arrête:
 
 #### Art. 22
 
-**Extraits du casier judiciaire**
+**Examen de la réputation**
 
 <sup>1</sup> Les personnes travaillant dans une institution résidentielle ne doivent ni être impliquées dans une procédure pénale en cours ni avoir été condamnées pour une infraction qui, du fait de sa gravité ou de sa nature, met en cause l’aptitude à s’occuper d’enfants.
 
-<sup>2</sup> L’organisme responsable de l’institution ou les personnes assumant la direction examinent tous les cinq ans au moins ou à la demande de l’autorité de surveillance si l’alinéa 1 est respecté et demandent à cet effet les extraits suivants du casier judiciaire:
+<sup>2</sup> L’organisme responsable de l’institution ou les personnes assumant la direction présentent chaque année à l’autorité de surveillance une liste selon l’article 17, alinéa 3 OPE, qui permet à celle-ci de procéder à un examen de la réputation conformément à l’article 19, alinéa 4 OPE.
 
-- a extrait destiné à des particuliers et extrait spécial destiné à des particuliers, qui soient actuels, pour les collaborateurs et collaboratrices majeurs,
-- b extrait spécial destiné à des particuliers, qui soit actuel, pour les collaborateurs et collaboratrices mineurs.
+<sup>3</sup> L’organisme responsable de l’institution ou les personnes assumant la direction obligent contractuellement les personnes travaillant pour les institutions résidentielles à les informer sans délai au sujet de procédures pénales en cours.
 
-<sup>3</sup> Ils obligent contractuellement les personnes travaillant pour eux à les informer sans délai au sujet des procédures pénales en cours.
+<sup>4</sup> En cas de soupçon de transgression, les mesures appropriées et nécessaires pour protéger les enfants doivent être prises immédiatement.
 
 #### Art. 23
 
@@ -358,9 +360,10 @@ arrête:
 - a les modifications de l’offre ou de l’organisation de l’institution,
 - b l’agrandissement, le déplacement ou la fermeture de l’établissement,
 - c un changement intervenant dans la direction opérationnelle ou stratégique,
-- d le non-respect du coefficient d’encadrement prescrit.
+- d le non-respect du coefficient d’encadrement prescrit,
+- e l’engagement de nouvelles collaboratrices ou de nouveaux collaborateurs en vue de procéder à l’examen de leur réputation au sens de l’article 18, alinéa 4 OPE.
 
-<sup>2</sup> En outre, tous les événements particuliers, notamment des comportements transgressifs qui émanent des collaborateurs ou collaboratrices ou des enfants ou alors qui sont dirigés contre eux doivent être annoncés sans délai à l’autorité de surveillance.
+<sup>2</sup> En outre, tous les événements particuliers, notamment des comportements transgressifs qui émanent des collaboratrices ou des collaborateurs ou des enfants ou alors qui sont dirigés contre elles ou eux doivent être annoncés sans délai à l’autorité de surveillance.
 
 #### Art. 28
 
@@ -410,7 +413,8 @@ arrête:
 
 - a les indications sur la forme juridique et, s’il s’agit d’une personne morale, les statuts et l’organigramme;
 - b l’identité et les qualifications professionnelles des personnes assumant la direction et de celles chargées de fournir la prestation;
-- c l’extrait du casier judiciaire de la personne assumant la direction et sa déclaration indiquant que les personnes chargées de fournir la prestation sont contrôlées non seulement lors de leur entrée en fonction mais aussi régulièrement pendant toute la durée de leur engagement;
+- b1 la liste indiquant l’identité des prestataires dans le cadre du placement chez des parents nourriciers au sens des articles 20a ss OPE;
+- c l’extrait du casier judiciaire de la personne assumant la direction, pour autant qu’elle ne figure pas sur la liste selon la lettre b1, et sa déclaration indiquant que les prestataires intervenant hors du cadre du placement chez des parents nourriciers font l’objet d’un contrôle non seulement lors de leur entrée en fonction mais aussi régulièrement pendant toute la durée de leur engagement;
 - d le programme des prestations proposées comportant les principes relatifs à l’organisation et à la pédagogie.
 
 [^31-1]: RSB [213.319.1](https://www.belex.sites.be.ch/data/213.319.1/fr)
@@ -434,6 +438,8 @@ arrête:
 **Surveillance**
 
 <sup>1</sup> Le service compétent de la Direction de l’intérieur et de la justice examine périodiquement si les prestations ambulatoires sont fournies de manière conforme au droit et si d’éventuelles instructions des autorités sont respectées.
+
+<sup>1a</sup> Il procède, sur la base de la liste qui lui a été fournie (art. 31, al. 3, lit. b1) à l’examen de la réputation des personnes qui y sont inscrites (art. 20b, al. 3, art. 20c, al. 3 ou art. 20e, al. 3 OPE).
 
 <sup>2</sup> Il recourt aux mesures de surveillance nécessaires pour combler des manquements; l’article 20f OPE s’applique par analogie.
 
