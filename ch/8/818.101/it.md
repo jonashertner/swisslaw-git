@@ -4,11 +4,11 @@ title: "Legge federale del 28 settembre 2012 sulla lotta contro le malattie tras
 short: LEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/297"
 language: it
-version: 2024-07-01
+version: 2025-08-01
 adopted: 2012-09-28
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/297/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2015-297-20240701-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/297/20250801/it/xml/fedlex-data-admin-ch-eli-cc-2015-297-20250801-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20250801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20240701/it"
 
 (Legge sulle epidemie, LEp)
 
-del 28 settembre 2012 (Stato 1° luglio 2024)
+del 28 settembre 2012 (Stato 1° agosto 2025)
 
 *L’Assemblea federale della Confederazione Svizzera,*
 
@@ -25,7 +25,7 @@ visti gli articoli 40 capoverso 2, 118 capoverso 2 lettera b, 119 capoverso 2 e 
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2011 283](https://fedlex.data.admin.ch/eli/fga/2011/43)
 
 ## Capitolo 1: Disposizioni generali e principi
@@ -94,7 +94,7 @@ L’Ufficio federale della sanità pubblica (UFSP) elabora, in collaborazione co
 
 <sup>2</sup> Nell’ambito delle loro competenze, la Confederazione e i Cantoni provvedono all’attuazione dei programmi nazionali.
 
-[^5-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^5-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 6
 
@@ -249,7 +249,7 @@ Il Consiglio federale assume i compiti seguenti:
 
 <sup>3</sup> I laboratori di studi medici e di ospedali, l’officina del farmacista e altri laboratori che eseguono analisi nell’ambito delle cure di base secondo la legge federale del 18 marzo 1994[^16-1] sull’assicurazione malattie (LAMal) non sottostanno all’obbligo dell’autorizzazione.
 
-[^16-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^16-1]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 17
 
@@ -280,6 +280,10 @@ Il Consiglio federale può:
 - c. obbligare le istituzioni del settore della formazione e del settore sanitario a fornire informazioni sui rischi delle malattie trasmissibili e consulenze sui mezzi per prevenirle e combatterle;
 - d. obbligare le istituzioni pubbliche e private che hanno un dovere particolare di proteggere la salute delle persone in loro custodia ad adottare provvedimenti di prevenzione appropriati;
 - e. sottoporre all’obbligo di registrazione gli impianti tecnici che possono propagare malattie trasmissibili.
+
+<sup>3</sup> Può vietare il trapianto di dura madre di origine umana.[^19-1]
+
+[^19-1]: Introdotto dall’all. n. 6 della LF del 29 set. 2025, in vigore dal 1° ago. 2025 ([RU 2025 421](https://fedlex.data.admin.ch/eli/oc/2025/421); [FF 2023 721](https://fedlex.data.admin.ch/eli/fga/2023/721)).
 
 ### Sezione 2: Vaccinazioni
 
@@ -332,7 +336,7 @@ Il Consiglio federale assume i compiti seguenti:
 - b. disciplina le condizioni e la procedura per il rilascio dell’autorizzazione;
 - c. definisce la procedura da applicare per la vaccinazione e i vaccini ammessi.
 
-[^23-1]: [RS 0.818.103](https://fedlex.data.admin.ch/eli/cc/2007/343)
+[^23-1]: [RS 0.818.103](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3573)
 
 #### Art. 24
 
@@ -527,7 +531,7 @@ Se necessario per evitare la propagazione di una malattia trasmissibile, l’UFS
 
 <sup>2</sup> Il Consiglio federale designa gli esercenti di impianti portuali e di aeroporti che devono approntare le capacità necessarie secondo l’allegato 1 B del Regolamento sanitario internazionale (2005) del 23 maggio 2005[^42-1].
 
-[^42-1]: [RS 0.818.103](https://fedlex.data.admin.ch/eli/cc/2007/343)
+[^42-1]: [RS 0.818.103](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3573)
 
 #### Art. 43
 
@@ -564,7 +568,7 @@ Il Consiglio federale può emanare disposizioni su:
 
 <sup>3</sup> Può prevedere provvedimenti per approvvigionare con agenti terapeutici gli Svizzeri all’estero.
 
-[^44-1]: [[RU 1983 931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 24; [1995 1018](https://fedlex.data.admin.ch/eli/oc/1995/1018_1018_1018), [1794](https://fedlex.data.admin.ch/eli/oc/1995/1794_1794_1794); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)all. 2 n. 1; [2001 1439](https://fedlex.data.admin.ch/eli/oc/2001/205); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 48; [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)all. 1 n. II 18; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)I 15. [RU 2017 3097](https://fedlex.data.admin.ch/eli/oc/2017/308)all. 2 n. I]. Vedi ora l’O del 17 giu. 2016 ([RS 531](https://fedlex.data.admin.ch/eli/cc/2017/308)**).**
+[^44-1]: [[RU 1983 931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 24; [1995 1018](https://fedlex.data.admin.ch/eli/oc/1995/1018_1018_1018), [1794](https://fedlex.data.admin.ch/eli/oc/1995/1794_1794_1794); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)all. 2 n. 1; [2001 1439](https://fedlex.data.admin.ch/eli/oc/2001/205); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 48; [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)all. 1 cifra II n. 18; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)cifra I n. 15. [RU 2017 3097](https://fedlex.data.admin.ch/eli/oc/2017/308)all. 2 cifra I]. Vedi ora l’O del 17 giu. 2016 ([RS 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)).
 
 #### Art. 45
 
@@ -782,14 +786,14 @@ Il sistema d’informazione serve a:
 
 <sup>9</sup> Il diritto di ottenere informazioni relative ai dati che figurano nel sistema d’informazione e il diritto di farli rettificare sono retti dagli articoli 25 e 41 della legge federale del 25 settembre 2020[^60-1] sulla protezione dei dati (LPD).[^60-2] Le domande di accesso ai dati personali e di rettifica devono essere indirizzate all’UFSP.
 
-[^60-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^60-2]: Nuovo testo giusta l’all. 1 n. II 75 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^60-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^60-2]: Nuovo testo giusta l’all. 1 cifra II n. 75 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 60a
 
 [^60a-1]
 
-[^60a-1]: Introdotto dal n. I della LF del 19 giu. 2020 ([RU 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)n. III 3; [FF 2020 4027](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Nuovo testo giusta l’all. n. 2 della L del 16 dic. 2022, in vigore dal 1° gen. 2023 al 30 giu. 2024 ([RU 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [FF 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
+[^60a-1]: Introdotto dalla cifra I della LF del 19 giu. 2020 ([RU 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)cifra III n. 3; [FF 2020 4027](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Nuovo testo giusta l’all. n. 2 della L del 16 dic. 2022, in vigore dal 1° gen. 2023 al 30 giu. 2024 ([RU 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [FF 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
 
 #### Art. 61
 
@@ -828,17 +832,17 @@ In deroga al capoverso 1, i dati personali possono essere comunicati all’ester
 - c. nel caso specifico, la comunicazione è indispensabile per tutelare la salute pubblica; o
 - d.[^62-5] nel caso specifico, la comunicazione è indispensabile per proteggere la vita o l’integrità fisica della persona interessata e non è possibile ottenere il suo consenso entro un termine ragionevole.
 
-[^62-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^62-2]: Nuovo testo giusta l’all. 1 n. II 75 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^62-3]: Nuovo testo giusta l’all. 1 n. II 75 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^62-4]: Abrogata dall’all. 1 n. II 75 della LF del 25 set. 2020 sulla protezione dei dati, con effetto dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^62-5]: Nuovo testo giusta l’all. 1 n. II 75 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^62-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^62-2]: Nuovo testo giusta l’all. 1 cifra II n. 75 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^62-3]: Nuovo testo giusta l’all. 1 cifra II n. 75 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^62-4]: Abrogata dall’all. 1 cifra II n. 75 della LF del 25 set. 2020 sulla protezione dei dati, con effetto dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^62-5]: Nuovo testo giusta l’all. 1 cifra II n. 75 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 62a
 
 [^62a-1]
 
-[^62a-1]: Introdotto dal n. I della LF del 19 giu. 2020 ([RU 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)n. III 3; [FF 2020 4027](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Nuovo testo giusta l’all. n. 2 della L del 16 dic. 2022, in vigore dal 1° gen. 2023 al 30 giu. 2024 ([RU 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [FF 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
+[^62a-1]: Introdotto dalla cifra I della LF del 19 giu. 2020 ([RU 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)cifra III n. 3; [FF 2020 4027](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Nuovo testo giusta l’all. n. 2 della L del 16 dic. 2022, in vigore dal 1° gen. 2023 al 30 giu. 2024 ([RU 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [FF 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
 
 ## Capitolo 8: Indennizzo
 
@@ -870,7 +874,7 @@ L’autorità che ha ordinato un provvedimento secondo gli articoli 33–38 nonc
 
 <sup>4</sup> La riparazione morale è accordata solo se l’avente diritto non ha ricevuto prestazioni da parte di terzi o se tali prestazioni sono insufficienti. Le prestazioni ricevute da terzi a titolo di riparazione morale sono dedotte.
 
-[^65-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^65-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 66
 
@@ -952,9 +956,9 @@ In caso di distribuzione di agenti terapeutici, l’assunzione delle spese si co
 
 <sup>3</sup> Se non sono assunte, in tutto o in parte, secondo il capoverso 2, le spese sono a carico della Confederazione.
 
-[^73-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^73-2]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^73-3]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^73-1]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^73-2]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^73-3]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 
 #### Art. 74
 
@@ -1038,8 +1042,8 @@ Il Consiglio federale può concludere accordi internazionali concernenti:
 
 <sup>3</sup> L’UFSP assume i compiti del Centro nazionale previsto dal Regolamento sanitario internazionale (2005) del 23 maggio 2005[^80-2]. In particolare comunica all’OMS gli eventi che possono costituire una situazione d’emergenza sanitaria di portata internazionale.
 
-[^80-1]: Introdotta dal n. I della LF del 19 giu. 2020 ([RU 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)n. III 3; [FF 2020 4027](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Nuovo testo giusta l’all. n. 2 della L del 16 dic. 2022, in vigore dal 1° gen. 2023 al 30 giu. 2024 ([RU 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [FF 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
-[^80-2]: [RS 0.818.103](https://fedlex.data.admin.ch/eli/cc/2007/343)
+[^80-1]: Introdotta dalla cifra I della LF del 19 giu. 2020 ([RU 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)cifra III n. 3; [FF 2020 4027](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Nuovo testo giusta l’all. n. 2 della L del 16 dic. 2022, in vigore dal 1° gen. 2023 al 30 giu. 2024 ([RU 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [FF 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
+[^80-2]: [RS 0.818.103](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3573)
 
 #### Art. 81
 
@@ -1064,7 +1068,7 @@ Il Consiglio federale esamina periodicamente l’efficacia, l’adeguatezza e l�
 
 <sup>2</sup> Se ha agito per negligenza, per i reati di cui al capoverso 1 l’autore è punito con una pena pecuniaria.
 
-[^82-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^82-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 83
 
@@ -1091,7 +1095,7 @@ Il Consiglio federale esamina periodicamente l’efficacia, l’adeguatezza e l�
 
 <sup>2</sup> Se ha agito per negligenza, per i reati di cui al capoverso 1 l’autore è punito con la multa fino a 5000 franchi.
 
-[^83-1]: Introdotta dal n. I della LF del 19 giu. 2020 ([RU 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)n. III 3; [FF 2020 4027](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Nuovo testo giusta l’all. n. 2 della L del 16 dic. 2022, in vigore dal 1° gen. 2023 al 30 giu. 2024 ([RU 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [FF 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
+[^83-1]: Introdotta dalla cifraI della LF del 19 giu. 2020 ([RU 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)cifra III n. 3; [FF 2020 4027](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Nuovo testo giusta l’all. n. 2 della L del 16 dic. 2022, in vigore dal 1° gen. 2023 al 30 giu. 2024 ([RU 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [FF 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
 
 #### Art. 84
 
@@ -1101,7 +1105,7 @@ Il Consiglio federale esamina periodicamente l’efficacia, l’adeguatezza e l�
 
 <sup>2</sup> Gli articoli 6 e 7 (Infrazioni commesse nell’azienda), nonché 15 (Falsità in documenti, conseguimento fraudolento di una falsa attestazione) della legge federale del 22 marzo 1974[^84-1] sul diritto penale amministrativo si applicano anche alle autorità cantonali.
 
-[^84-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^84-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Capitolo 12: Disposizioni finali
 
@@ -1114,8 +1118,8 @@ Le seguenti leggi federali sono abrogate:
 - 1\. legge federale del 18 dicembre 1970[^85-1] per la lotta contro le malattie trasmissibili dell’uomo;
 - 2\. legge federale del 13 giugno 1928[^85-2] per la lotta contro la tubercolosi.
 
-[^85-1]: [[RU 1974 1071](https://fedlex.data.admin.ch/eli/oc/1974/1071_1071_1071), [1985 1992](https://fedlex.data.admin.ch/eli/oc/1985/1992_1992_1992)n. I 2, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)n. II 405, [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)all. n. 5, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. III 2, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 6, [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)all. n. 7, [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)all. n. II 3, [2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 95 [4137](https://fedlex.data.admin.ch/eli/oc/2006/608), [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)n. II 34, [2012 7281](https://fedlex.data.admin.ch/eli/oc/2012/890)]
-[^85-2]: [CS **4** 367; [RU 1964 981](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981)n. IV lett. a, [1974 1071](https://fedlex.data.admin.ch/eli/oc/1974/1071_1071_1071)art. 37, [1985 1992](https://fedlex.data.admin.ch/eli/oc/1985/1992_1992_1992)n. I 3, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)n. II 406, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 96]
+[^85-1]: [[RU 1974 1071](https://fedlex.data.admin.ch/eli/oc/1974/1071_1071_1071); [1985 1992](https://fedlex.data.admin.ch/eli/oc/1985/1992_1992_1992)cifra I n. 2; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)cifra II n. 405; [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)all. n. 5; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra III n. 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 6; [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)all. n. 7; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)all. cifra II n. 3; [2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 95, [4137](https://fedlex.data.admin.ch/eli/oc/2006/608); [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)cifra II n. 34; [2012 7281](https://fedlex.data.admin.ch/eli/oc/2012/890)]
+[^85-2]: [CS **4** 367; [RU 1964 981](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981)cifra IV lett. a; [1974 1071](https://fedlex.data.admin.ch/eli/oc/1974/1071_1071_1071)art. 37; [1985 1992](https://fedlex.data.admin.ch/eli/oc/1985/1992_1992_1992)cifra I n. 3; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)cifra II, 406; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 96]
 
 #### Art. 86
 

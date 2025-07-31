@@ -4,11 +4,11 @@ title: "Loi fédérale du 28 septembre 2012 sur la lutte contre les maladies tra
 short: LEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/297"
 language: fr
-version: 2024-07-01
+version: 2025-08-01
 adopted: 2012-09-28
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/297/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2015-297-20240701-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/297/20250801/fr/xml/fedlex-data-admin-ch-eli-cc-2015-297-20250801-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20250801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20240701/fr"
 
 (Loi sur les épidémies, LEp)
 
-du 28 septembre 2012 (État le 1<sup>er</sup> juillet 2024)
+du 28 septembre 2012 (État le 1<sup>er</sup> août 2025)
 
 *L’Assemblée fédérale de la Confédération suisse,*
 
@@ -25,7 +25,7 @@ vu les art. 40, al. 2, 118, al. 2, let. b, 119, al. 2, et 120, al. 2, de la Cons
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2011 291](https://fedlex.data.admin.ch/eli/fga/2011/43)
 
 ## Chapitre 1 Dispositions générales et principes
@@ -247,7 +247,7 @@ Le Conseil fédéral exerce les tâches suivantes:
 
 <sup>3</sup> Les laboratoires de cabinets médicaux et d’hôpitaux, les pharmacies d’officine et les autres laboratoires qui procèdent à des analyses infectiologiques dans le cadre des soins de base en vertu de la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal)[^16-1] peuvent le faire sans être titulaires d’une autorisation.
 
-[^16-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^16-1]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 17
 
@@ -278,6 +278,10 @@ Le Conseil fédéral peut:
 - c. enjoindre aux institutions des domaines de l’éducation et de la santé de fournir des informations sur les risques liés aux maladies transmissibles et des conseils sur les moyens de les prévenir et de les combattre;
 - d. enjoindre aux institutions publiques ou privées investies de devoirs particuliers en matière de protection de la santé des personnes dont elles ont la charge de prendre des mesures de prévention appropriées;
 - e. soumettre à enregistrement les installations techniques qui présentent un risque de dissémination de maladies transmissibles.
+
+<sup>3</sup> Il peut interdire la transplantation de dure-mère humaine.[^19-1]
+
+[^19-1]: Introduit par l’annexe ch. 6 de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 421](https://fedlex.data.admin.ch/eli/oc/2025/421); [FF 2023 721](https://fedlex.data.admin.ch/eli/fga/2023/721)).
 
 ### Section 2 Vaccinations
 
@@ -330,7 +334,7 @@ Le Conseil fédéral exerce les tâches suivantes:
 - b. il arrête les conditions à remplir et la procédure d’autorisation;
 - c. il arrête les méthodes de vaccination ainsi que les vaccins autorisés.
 
-[^23-1]: [RS 0.818.103](https://fedlex.data.admin.ch/eli/cc/2007/343)
+[^23-1]: [RS 0.818.103](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3573)
 
 #### Art. 24
 
@@ -525,7 +529,7 @@ Si cela est nécessaire pour empêcher la propagation d’une maladie transmissi
 
 <sup>2</sup> Le Conseil fédéral désigne les exploitants de ports ou d’aéroports devant mettre à disposition les capacités requises à l’annexe 1B du Règlement sanitaire international (2005) du 23 mai 2005[^42-1].
 
-[^42-1]: [RS 0.818.103](https://fedlex.data.admin.ch/eli/cc/2007/343)
+[^42-1]: [RS 0.818.103](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3573)
 
 #### Art. 43
 
@@ -562,7 +566,7 @@ Il peut édicter des dispositions sur les mesures suivantes:
 
 <sup>3</sup> Il peut prévoir des mesures visant à approvisionner les Suisses de l’étranger en produits thérapeutiques.
 
-[^44-1]: [[RO 1983 931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 24; [1995 1018](https://fedlex.data.admin.ch/eli/oc/1995/1018_1018_1018), [1794](https://fedlex.data.admin.ch/eli/oc/1995/1794_1794_1794); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)annexe 2 ch. 1; [2001 1439](https://fedlex.data.admin.ch/eli/oc/2001/205); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 48; [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)annexe 1 ch. II 18; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 15. [RO 2017 3097](https://fedlex.data.admin.ch/eli/oc/2017/308)annexe 2 ch. I]. Voir actuellement la LF du 17 juin 2016 ([RS 531](https://fedlex.data.admin.ch/eli/cc/2017/308)).
+[^44-1]: [[RO 1983 931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 24; [1995 1018](https://fedlex.data.admin.ch/eli/oc/1995/1018_1018_1018), [1794](https://fedlex.data.admin.ch/eli/oc/1995/1794_1794_1794); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)annexe 2 ch. 1; [2001 1439](https://fedlex.data.admin.ch/eli/oc/2001/205); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 48; [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)annexe 1 ch. II 18; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 15. [RO 2017 3097](https://fedlex.data.admin.ch/eli/oc/2017/308)annexe 2 ch. I]. Voir actuellement la LF du 17 juin 2016 ([RS 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)).
 
 #### Art. 45
 
@@ -780,7 +784,7 @@ Le système d’information sert les tâches suivantes:
 
 <sup>9</sup> Le droit d’obtenir des renseignements sur les données figurant dans le système d’information et le droit de faire rectifier les données sont régies par les art. 25 et 41 de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^60-1].[^60-2] Les demandes visant à obtenir un droit d’accès à des données personnelles et celles visant à faire rectifier des données inexactes doivent être adressées à l’OFSP.
 
-[^60-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^60-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^60-2]: Nouvelle teneur selon l’annexe 1 ch. II 75 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 60a
@@ -826,7 +830,7 @@ En dérogation à l’al. 1, il est possible de communiquer des données personn
 - c. la communication est indispensable en l’espèce à la protection de la santé publique;
 - d.[^62-5] la communication est nécessaire en l’espèce pour protéger la vie ou l’intégrité corporelle de la personne concernée et il n’est pas possible d’obtenir son consentement dans un délai raisonnable.
 
-[^62-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^62-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^62-2]: Nouvelle teneur selon l’annexe 1 ch. II 75 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^62-3]: Nouvelle teneur selon l’annexe 1 ch. II 75 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^62-4]: Abrogée par l’annexe 1 ch. II 75 de la LF du 25 sept. 2020 sur la protection des données, avec effet au 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
@@ -868,7 +872,7 @@ L’autorité ordonnant une mesure visée aux art. 33 à 38 ou 41, al. 3, peut i
 
 <sup>4</sup> Une réparation morale n’est accordée que si l’ayant droit n’a pas reçu de prestations de tiers, ou si celles-ci étaient insuffisantes. Les prestations que l’ayant droit a reçues de tiers à titre de réparation morale sont déduites du montant de la réparation morale accordée.
 
-[^65-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^65-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 66
 
@@ -950,9 +954,9 @@ La prise en charge des coûts liés à la remise des produits thérapeutiques es
 
 <sup>3</sup> Lorsque les coûts ne sont pas ou pas entièrement pris en charge conformément à l’al. 2, ils sont assumés par la Confédération.
 
-[^73-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^73-2]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^73-3]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^73-1]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^73-2]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^73-3]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 
 #### Art. 74
 
@@ -1037,7 +1041,7 @@ Le Conseil fédéral peut conclure des accords internationaux concernant:
 <sup>3</sup> L’OFSP assume les tâches du «point focal national» conformément au Règlement sanitaire international (2005) du 23 mai 2005[^80-2]. Il signale en particulier à l’OMS les événements susceptibles de présenter une urgence de santé publique de portée internationale.
 
 [^80-1]: Introduite par le ch. I de la LF du 19 juin 2020 ([RO 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. III 3; [FF 2020 4361](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 16 déc. 2022, en vigueur du 1<sup>er</sup> janv. 2023 au 30 juin 2024 ([RO 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [FF 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
-[^80-2]: [RS 0.818.103](https://fedlex.data.admin.ch/eli/cc/2007/343)
+[^80-2]: [RS 0.818.103](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3573)
 
 #### Art. 81
 
@@ -1062,7 +1066,7 @@ Le Conseil fédéral examine périodiquement l’efficacité, l’adéquation et
 
 <sup>2</sup> Quiconque agit par négligence est puni d’une peine pécuniaire pour les délits visés à l’al. 1.
 
-[^82-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^82-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 83
 
@@ -1099,7 +1103,7 @@ Est puni d’une amende quiconque, intentionnellement:
 
 <sup>2</sup> Les art. 6, 7 (infractions commises dans une entreprise) et 15 (faux dans les titres, obtention frauduleuse d’une constatation fausse) de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^84-1] s’appliquent également aux autorités cantonales.
 
-[^84-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^84-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Chapitre 12 Dispositions finales
 
@@ -1113,7 +1117,7 @@ Sont abrogées:
 - 2\. la loi fédérale du 13 juin 1928 sur la lutte contre la tuberculose[^85-2].
 
 [^85-1]: [[RO 1974 1071](https://fedlex.data.admin.ch/eli/oc/1974/1071_1071_1071); [1985 1992](https://fedlex.data.admin.ch/eli/oc/1985/1992_1992_1992)ch. I 2; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)ch. II 405; [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)annexe ch. 5; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)ch. III 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)annexe ch. 6; [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)annexe ch. 7; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)annexe ch. II 3; [2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 95, [4137](https://fedlex.data.admin.ch/eli/oc/2006/608); [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)ch. II 34; [2012 7281](https://fedlex.data.admin.ch/eli/oc/2012/890)].
-[^85-2]: [RS **4** 377; [RO 1964 961](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981)ch. IV let. a; [1974 1071](https://fedlex.data.admin.ch/eli/oc/1974/1071_1071_1071)art. 37; [1985 1992](https://fedlex.data.admin.ch/eli/oc/1985/1992_1992_1992)ch. I 3; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)ch. II 406; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 96.]
+[^85-2]: [[RS 4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6332)377; [RO 1964 961](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981)ch. IV let. a; [1974 1071](https://fedlex.data.admin.ch/eli/oc/1974/1071_1071_1071)art. 37; [1985 1992](https://fedlex.data.admin.ch/eli/oc/1985/1992_1992_1992)ch. I 3; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)ch. II 406; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 96.]
 
 #### Art. 86
 

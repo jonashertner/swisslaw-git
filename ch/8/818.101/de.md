@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 28. September 2012 über die Bekämpfung übertragbarer
 short: EpG
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/297"
 language: de
-version: 2024-07-01
+version: 2025-08-01
 adopted: 2012-09-28
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/297/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2015-297-20240701-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/297/20250801/de/xml/fedlex-data-admin-ch-eli-cc-2015-297-20250801-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20250801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20240701/de"
 
 (Epidemiengesetz, EpG)
 
-vom 28. September 2012 (Stand am 1. Juli 2024)
+vom 28. September 2012 (Stand am 1. August 2025)
 
 *Die Bundesversammlung der Schweizerischen Eidgenossenschaft,*
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 40 Absatz 2, 118 Absatz 2 Buchstabe b, 119 Absatz 2 un
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2011 311](https://fedlex.data.admin.ch/eli/fga/2011/43)
 
 ## 1. Kapitel: Allgemeine Bestimmungen und Grundsätze
@@ -247,7 +247,7 @@ Der Bundesrat nimmt folgende Aufgaben wahr:
 
 <sup>3</sup> Praxislaboratorien von Ärztinnen und Ärzten, Spitallaboratorien, die Offizin eines Apothekers oder einer Apothekerin und weitere Laboratorien, die Analysen im Rahmen der Grundversorgung nach dem Bundesgesetz vom 18. März 1994[^16-1] über die Krankenversicherung (KVG) durchführen, sind von der Bewilligungspflicht ausgenommen.
 
-[^16-1]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^16-1]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 17
 
@@ -278,6 +278,10 @@ Der Bundesrat kann folgende Vorschriften erlassen:
 - c. Er kann Institutionen des Bildungs- und Gesundheitswesens verpflichten, Informationen über die Gefahren übertragbarer Krankheiten und Beratungen zu deren Verhütung und Bekämpfung anzubieten.
 - d. Er kann öffentliche und private Institutionen, die eine besondere Pflicht zum Schutz der Gesundheit von Menschen haben, die in ihrer Obhut sind, zur Durchführung geeigneter Verhütungsmassnahmen verpflichten.
 - e. Er kann technische Installationen, die übertragbare Krankheiten verbreiten können, einer Registrierungspflicht unterstellen.
+
+<sup>3</sup> Er kann die Transplantation von menschlicher Dura mater verbieten.[^19-1]
+
+[^19-1]: Eingefügt durch Anhang Ziff. 6 des BG vom 29. Sept. 2023, in Kraft seit 1. Aug. 2025 ([AS 2025 421](https://fedlex.data.admin.ch/eli/oc/2025/421); [BBl 2023 721](https://fedlex.data.admin.ch/eli/fga/2023/721)).
 
 ### 2. Abschnitt: Impfungen
 
@@ -330,7 +334,7 @@ Der Bundesrat nimmt die folgenden Aufgaben wahr:
 - b. Er regelt die Voraussetzungen und das Verfahren für die Erteilung der Bewilligung.
 - c. Er bezeichnet die bei der Impfung anzuwendenden Verfahren und die zulässigen Impfstoffe.
 
-[^23-1]: [SR 0.818.103](https://fedlex.data.admin.ch/eli/cc/2007/343)
+[^23-1]: [SR 0.818.103](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3573)
 
 #### Art. 24
 
@@ -525,7 +529,7 @@ Wenn es zur Verhinderung der Verbreitung einer übertragbaren Krankheit notwendi
 
 <sup>2</sup> Der Bundesrat bezeichnet die Betreiber von Hafenanlagen und die Flughafenhalter, welche die notwendigen Kapazitäten nach Anlage 1 B der Internationalen Gesundheitsvorschriften (2005) vom 23. Mai 2005[^42-1] bereitstellen müssen.
 
-[^42-1]: [SR 0.818.103](https://fedlex.data.admin.ch/eli/cc/2007/343)
+[^42-1]: [SR 0.818.103](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3573)
 
 #### Art. 43
 
@@ -562,7 +566,7 @@ Er kann Vorschriften erlassen über:
 
 <sup>3</sup> Er kann Massnahmen zur Versorgung der Auslandschweizerinnen und Auslandschweizer mit Heilmitteln vorsehen.
 
-[^44-1]: [[AS 1983 931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 24; [1995 1018](https://fedlex.data.admin.ch/eli/oc/1995/1018_1018_1018), [1794](https://fedlex.data.admin.ch/eli/oc/1995/1794_1794_1794); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Anhang 2 Ziff. 1; [2001 1439](https://fedlex.data.admin.ch/eli/oc/2001/205); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 48; [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)Anhang 1 Ziff. II 18; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 15. [AS 2017 3097](https://fedlex.data.admin.ch/eli/oc/2017/308)Anhang 2 Ziff. I]. Siehe heute: das Landesversorgungsgesetz vom 17. Juni 2016 ([SR 531](https://fedlex.data.admin.ch/eli/cc/2017/308)).
+[^44-1]: [[AS 1983 931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 24; [1995 1018](https://fedlex.data.admin.ch/eli/oc/1995/1018_1018_1018), [1794](https://fedlex.data.admin.ch/eli/oc/1995/1794_1794_1794); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Anhang 2 Ziff. 1; [2001 1439](https://fedlex.data.admin.ch/eli/oc/2001/205); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 48; [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)Anhang 1 Ziff. II 18; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 15. [AS 2017 3097](https://fedlex.data.admin.ch/eli/oc/2017/308)Anhang 2 Ziff. I]. Siehe heute: das Landesversorgungsgesetz vom 17. Juni 2016 ([SR 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)).
 
 #### Art. 45
 
@@ -780,7 +784,7 @@ Das Informationssystem dient:
 
 <sup>9</sup> Das Recht, Auskünfte über die Daten im Informationssystem zu erhalten, und das Recht, die Daten berichtigen zu lassen, richten sich nach den Artikeln 25 und 41 des Datenschutzgesetzes vom 25. September 2020[^60-1] (DSG).[^60-2] Begehren um Auskunft über Personendaten und um Berichtigung sind an das BAG zur richten.
 
-[^60-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^60-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^60-2]: Fassung gemäss Anhang 1 Ziff. II 75 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 60a
@@ -826,7 +830,7 @@ In Abweichung von Absatz 1 können die Personendaten nur ins Ausland bekannt geg
 - c. die Bekanntgabe im Einzelfall für die Wahrung der öffentlichen Gesundheit unerlässlich ist; oder
 - d.[^62-5] die Bekanntgabe im Einzelfall erforderlich ist, um das Leben oder die körperliche Integrität der betroffenen Person zu schützen, und es nicht möglich ist, innerhalb einer angemessenen Frist die Einwilligung der betroffenen Person einzuholen.
 
-[^62-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^62-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^62-2]: Fassung gemäss Anhang 1 Ziff. II 75 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^62-3]: Fassung gemäss Anhang 1 Ziff. II 75 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^62-4]: Aufgehoben durch Anhang 1 Ziff. II 75 des Datenschutzgesetzes vom 25. Sept. 2020, mit Wirkung seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
@@ -868,7 +872,7 @@ Die anordnende Behörde kann Personen, die aufgrund behördlicher Massnahmen nac
 
 <sup>4</sup> Eine Genugtuung wird nur gewährt, soweit Dritte keine oder keine genügende Leistung erbringen. Die Genugtuung wird um die Genugtuungsleistungen Dritter reduziert.
 
-[^65-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^65-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 66
 
@@ -950,9 +954,9 @@ Werden Heilmittel abgegeben, so richtet sich die Übernahme der Kosten nach den 
 
 <sup>3</sup> Werden die Kosten nicht oder nicht vollständig nach Absatz 2 übernommen, so trägt sie der Bund.
 
-[^73-1]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^73-2]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^73-3]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^73-1]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^73-2]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^73-3]: [SR 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 
 #### Art. 74
 
@@ -1037,7 +1041,7 @@ Der Bundesrat kann völkerrechtliche Vereinbarungen abschliessen über:
 <sup>3</sup> Das BAG übernimmt die Aufgaben der nationalen Anlaufstelle nach den Internationalen Gesundheitsvorschriften (2005) vom 23. Mai 2005[^80-2]. Insbesondere meldet es der WHO Ereignisse, die zu einer gesundheitlichen Notlage von internationaler Tragweite führen können.
 
 [^80-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 ([AS 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. III 3; [BBl 2020 4461](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Fassung gemäss Anhang Ziff. 2 des BG vom 16. Dez. 2022, in Kraft vom 1. Jan. 2023 bis zum 30. Juni 2024 ([AS 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [BBl 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
-[^80-2]: [SR 0.818.103](https://fedlex.data.admin.ch/eli/cc/2007/343)
+[^80-2]: [SR 0.818.103](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3573)
 
 #### Art. 81
 
@@ -1062,7 +1066,7 @@ Sofern keine schwerere strafbare Handlung nach dem Strafgesetzbuch[^82-1] vorlie
 
 <sup>2</sup> Wer fahrlässig handelt, wird für Vergehen nach Absatz 1 mit Geldstrafe bestraft.
 
-[^82-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^82-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 83
 
@@ -1099,7 +1103,7 @@ Mit Busse wird bestraft, wer vorsätzlich:
 
 <sup>2</sup> Die Artikel 6, 7 (Widerhandlung in Geschäftsbetrieben) und 15 (Urkundenfälschung, Erschleichen einer falschen Beurkundung) des Bundesgesetzes vom 22. März 1974[^84-1] über das Verwaltungsstrafrecht gelten auch für die kantonalen Behörden.
 
-[^84-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^84-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## 12. Kapitel: Schlussbestimmungen
 

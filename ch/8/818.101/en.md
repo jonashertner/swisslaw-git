@@ -4,11 +4,11 @@ title: "Federal Act of 28 September 2012 on Controlling Communicable Human Disea
 short: EpidA
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/297"
 language: en
-version: 2024-07-01
+version: 2025-08-01
 adopted: 2012-09-28
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/297/20240701/en/xml/fedlex-data-admin-ch-eli-cc-2015-297-20240701-en-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20240701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/297/20250801/en/xml/fedlex-data-admin-ch-eli-cc-2015-297-20250801-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20250801/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Epidemics Act, EpidA)
 
-of 28 September 2012 (Status as of 1 July 2024)
+of 28 September 2012 (Status as of 1 August 2025) [3]
 
 *The Federal Assembly of the Swiss Confederation,*
 
@@ -27,7 +27,7 @@ on the basis of Articles 40 paragraph 2, 118 paragraph 2 letter b, 119 paragraph
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2011 311](https://fedlex.data.admin.ch/eli/fga/2011/43)
 
 ## Chapter 1 General Provisions and Principles
@@ -249,7 +249,7 @@ The Federal Council shall carry out the following tasks:
 
 <sup>3</sup> Laboratories in doctors’ practices, hospital laboratories, pharmacy dispensaries and other laboratories that conduct analyses as part of the universal provision of services under the Federal Act of 18 March 1994[^16-1] on Health Insurance (Health Insurance Act) are exempted from the licence requirement.
 
-[^16-1]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^16-1]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 17
 
@@ -280,6 +280,10 @@ The Federal Council may issue the following regulations:
 - c. It may require public health and education institutions to offer information on the dangers of communicable diseases and advice on their prevention and control.
 - d. It may require public and private institutions that have a special obligation to protect the health of people in their care to take suitable preventive measures.
 - e. It may make technical installations that can spread communicable diseases subject to a registration requirement.
+
+<sup>3</sup> The Federal Council may prohibit the transplantation of human dura mater.[^19-1]
+
+[^19-1]: Inserted by Annex No 6 of the FA of 29 Sept. 2023, in force since 1 Aug. 2025 ([AS 2025 421](https://fedlex.data.admin.ch/eli/oc/2025/421); [BBl 2023 721](https://fedlex.data.admin.ch/eli/fga/2023/721)).
 
 ### Section 2 Vaccinations
 
@@ -332,7 +336,7 @@ The Federal Council shall carry out the following tasks:
 - b. regulating the requirements and the procedure for granting licences;
 - c. indicating the vaccination procedure and the permitted vaccines.
 
-[^23-1]: [SR 0.818.103](https://fedlex.data.admin.ch/eli/cc/2007/343)
+[^23-1]: [SR 0.818.103](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3573)
 
 #### Art. 24
 
@@ -527,7 +531,7 @@ If required to prevent the spread of a communicable disease, the FOPH may requir
 
 <sup>2</sup> The Federal Council shall designate the operators of ports and airports that must provide the required capacities in accordance with Annex 1 B of the International Health Regulations (2005) of 23 May 2005[^42-1].
 
-[^42-1]: [SR 0.818.103](https://fedlex.data.admin.ch/eli/cc/2007/343)
+[^42-1]: [SR 0.818.103](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3573)
 
 #### Art. 43
 
@@ -564,7 +568,7 @@ It may issue regulations on:
 
 <sup>3</sup> It may provide for measures to supply Swiss citizens living abroad with therapeutic products.
 
-[^44-1]: [[AS 1983 931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 24; [1995 1018](https://fedlex.data.admin.ch/eli/oc/1995/1018_1018_1018), [1794](https://fedlex.data.admin.ch/eli/oc/1995/1794_1794_1794); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Annex 2 No 1; [2001 1439](https://fedlex.data.admin.ch/eli/oc/2001/205); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 48; [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)Annex 1 No II 18; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)No I 15. [AS 2017 3097](https://fedlex.data.admin.ch/eli/oc/2017/308)Annex 2 No I]. See now: the National Economic Supply Act of 17 June 2016 ([SR 531](https://fedlex.data.admin.ch/eli/cc/2017/308)).
+[^44-1]: [[AS 1983 931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 24; [1995 1018](https://fedlex.data.admin.ch/eli/oc/1995/1018_1018_1018), [1794](https://fedlex.data.admin.ch/eli/oc/1995/1794_1794_1794); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Annex 2 No 1; [2001 1439](https://fedlex.data.admin.ch/eli/oc/2001/205); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 48; [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)Annex 1 No II 18; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)No I 15. [AS 2017 3097](https://fedlex.data.admin.ch/eli/oc/2017/308)Annex 2 No I]. See now: the National Economic Supply Act of 17 June 2016 ([SR 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)).
 
 #### Art. 45
 
@@ -782,7 +786,7 @@ The information system shall be used to:
 
 <sup>9</sup> The right to receive information on the data in the information system and the right to have the data corrected are governed by Articles 25 and 41 of the Data Protection Act of 25 September 2020[^60-1].[^60-2] Requests for information on personal data and for corrections to be made to the data must be sent to the FOPH.
 
-[^60-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^60-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^60-2]: Amended by Annex 1 No II 75 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 60a
@@ -828,7 +832,7 @@ In derogation from paragraph 1, personal data may only be disclosed abroad if:[^
 - c. disclosure in the given case is essential in order to safeguard public health; or
 - d.[^62-5] disclosure in the given case is required to protect the life or physical integrity of the person concerned and it is not possible to obtain consent from the person concerned within a reasonable time.
 
-[^62-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^62-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^62-2]: Amended by Annex 1 No II 75 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^62-3]: Amended by Annex 1 No II 75 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^62-4]: Repealed by Annex 1 No II 75 of the Data Protection Act of 25 Sept. 2020, with effect from 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
@@ -870,7 +874,7 @@ The ordering authority may compensate persons who suffer loss or damage as a res
 
 <sup>4</sup> Satisfaction shall only be awarded if no payment or an insufficient payment is made by other persons. The satisfaction shall be reduced by the amount of any satisfaction payments made by other persons.
 
-[^65-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^65-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 66
 
@@ -952,9 +956,9 @@ If therapeutic products are supplied, the costs shall be borne according to the 
 
 <sup>3</sup> If the costs are not or not completely assumed in accordance with paragraph 2, they shall be borne by the Confederation.
 
-[^73-1]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^73-2]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^73-3]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^73-1]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^73-2]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^73-3]: [SR 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 
 #### Art. 74
 
@@ -1039,7 +1043,7 @@ The Federal Council may enter into international agreements on:
 <sup>3</sup> The FOPH shall carry out the tasks of the National IHR Focal Point in accordance with the International Health Regulations (2005) of 23 May 2005[^80-2]. In particular, it shall report events to the WHO that could lead to a public health emergency of international concern.
 
 [^80-1]: Inserted by No I of the FA of 19 June 2020 ([AS 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)No III 3; [BBl 2020 4461](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Amended by Annex No 2 of the FA of 16 Dec. 2022, in force from 1 Jan. 2023 to 30 June 2024 ([AS 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [BBl 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
-[^80-2]: [SR 0.818.103](https://fedlex.data.admin.ch/eli/cc/2007/343)
+[^80-2]: [SR 0.818.103](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3573)
 
 #### Art. 81
 
@@ -1064,7 +1068,7 @@ Unless a more serious offence under the Swiss Criminal Code[^82-1] has been comm
 
 <sup>2</sup> A person acting through negligence shall be liable to a monetary penalty for misdemeanours under paragraph 1.
 
-[^82-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^82-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 83
 
@@ -1101,7 +1105,7 @@ Any person who wilfully commits any of the following acts shall be liable to a f
 
 <sup>2</sup> Articles 6, 7 (offences by businesses) and 15 (forgery of documents, obtaining a false certificate by fraud) of the Federal Act of 22 March 1974[^84-1] on Administrative Criminal Law also apply to the cantonal authorities.
 
-[^84-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^84-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Chapter 12 Final Provisions
 
