@@ -3,20 +3,20 @@ canton: SG
 number: "962.14"
 title: Verordnung über die Gefängnisse und Vollzugsanstalten
 language: de
-version: 2018-01-30
-valid_until: 2025-07-31
-version_adopted: 2018-02-06
+version: 2025-08-01
+valid_until: 2026-07-31
+version_adopted: 2025-06-17
 adopted: 2000-06-13
 in_force: 2000-07-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/962.14"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2385/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3787/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Gefängnisse und Vollzugsanstalten
 
-vom 13.06.2000 (Stand 30.01.2018)
+vom 13.06.2000 (Stand 01.08.2025)
 
 Die Regierung des Kantons St.Gallen
 
@@ -39,7 +39,7 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Diese Verordnung gilt für:
 
-- a) das Regionalgefängnis Altstätten, das kantonale Untersuchungsgefängnis sowie die Gefängnisse in St.Gallen, Widnau, Flums, Uznach, Bazenheid und Gossau;
+- a) das Regionalgefängnis Altstätten, das Kantonale Gefängnis sowie die Gefängnisse in St.Gallen, Flums und Gossau;
 - b) die Strafanstalt Saxerriet und das Massnahmenzentrum Bitzi;
 - c) das Jugendheim Platanenhof.
 
@@ -47,16 +47,16 @@ als Verordnung:[^ingress-2]
 
 **Aufgaben a) Gefängnisse**
 
-<sup>1</sup> Das Regionalgefängnis Altstätten, das kantonale Untersuchungsgefängnis sowie die Gefängnisse in St.Gallen, Widnau, Flums, Uznach, Bazenheid und Gossau dienen der Unterbringung von Personen:
+<sup>1</sup> Das Regionalgefängnis Altstätten, das Kantonale Gefängnis sowie die Gefängnisse in St.Gallen, Flums und Gossau dienen der Unterbringung von Personen:
 
 - a) in Untersuchungs-, Sicherheits- und Auslieferungshaft;
 - b) in ausländerrechtlicher Haft;
 - c) im Straf- und Massnahmenvollzug bis zur Überführung in eine Vollzugsanstalt;
 - d) die aus zeitlichen oder persönlichen Gründen nicht in eine Vollzugsanstalt eingewiesen werden können.
 
-<sup>2</sup> Personen in ausländerrechtlicher Haft werden getrennt von Gefangenen anderer Haftarten untergebracht. Sie erhalten im Rahmen der Hausordnung Gelegenheit für soziale Kontakte und gemeinschaftliche Aktivitäten. Im Übrigen werden die Vorschriften dieser Verordnung sachgemäss angewendet.
+<sup>2</sup> Personen in ausländerrechtlicher Haft werden getrennt von inhaftierten Personen anderer Haftarten untergebracht. Sie erhalten im Rahmen der Gefängnisordnung Gelegenheit für soziale Kontakte und gemeinschaftliche Aktivitäten. Im Übrigen werden die Vorschriften dieser Verordnung sachgemäss angewendet.
 
-<sup>3</sup> Die Zellenplätze in den Gefängnissen werden von der Kantonspolizei nach Weisung des Amtes für Justizvollzug verwaltet.
+<sup>3</sup> …
 
 #### Art. 3
 
@@ -91,15 +91,13 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Das Regionalgefängnis Altstätten untersteht dem Amt für Justizvollzug des Sicherheits- und Justizdepartementes. Die übrigen Gefängnisse unterstehen dem Polizeikommando.
 
-<sup>2</sup> Die Gefängnisleitung sorgt dafür, dass die Menschenwürde des Gefangenen geachtet und seine Rechte nur so weit beschränkt werden, als der Freiheitsentzug und das Zusammenleben im Gefängnis es erfordern. Sie wacht über die Einhaltung besonderer Anordnungen der einweisenden Stelle oder des Gefängnisarztes und ist für die Sicherheit und einen geordneten Gefängnisbetrieb verantwortlich.
+<sup>2</sup> Die Gefängnisleitung sorgt dafür, dass die Menschenwürde der inhaftierten Person geachtet und deren Rechte nur so weit beschränkt werden, als der Freiheitsentzug und das Zusammenleben im Gefängnis es erfordern. Sie wacht über die Einhaltung besonderer Anordnungen der einweisenden Stelle oder der Gefängnisärztin oder des Gefängnisarztes und ist für die Sicherheit und einen geordneten Gefängnisbetrieb verantwortlich.
 
-<sup>3</sup> Der Gefängnisleitung sind Gefangenenbetreuer unterstellt.
+<sup>3</sup> Der Gefängnisleitung sind die Fachpersonen Justizvollzug unterstellt.
 
 #### Art. 6
 
-**b) Aufsicht**
-
-<sup>1</sup> Das Sicherheits- und Justizdepartement übt die Aufsicht über die Gefängnisse aus.
+**…**
 
 #### Art. 7
 
@@ -111,37 +109,37 @@ als Verordnung:[^ingress-2]
 
 **b) Leitung 1. Strafanstalt Saxerriet**
 
-<sup>1</sup> Der Direktor leitet die Anstalt und vertritt sie nach aussen. Er sorgt für:
+<sup>1</sup> Die Direktorin oder der Direktor leitet die Strafanstalt Saxerriet und vertritt sie nach aussen. Sie oder er sorgt für:
 
-- a) den gesetzmässigen Strafvollzug in der Anstalt unter Berücksichtigung der Erkenntnisse der Sozialpädagogik und der forensischen Psychiatrie. Er erstellt die erforderlichen Pflichtenhefte;
+- a) den gesetzmässigen Strafvollzug in der Anstalt unter Berücksichtigung der Erkenntnisse der Sozialpädagogik und der forensischen Psychiatrie. Sie oder er erstellt die erforderlichen Pflichtenhefte;
 - b) die Sicherheit und einen geordneten Anstaltsbetrieb;
 - c) die Führung der Anstaltsbetriebe unter Berücksichtigung von wirtschaftlichen und ökologischen Grundsätzen.
 
 <sup>2</sup> Die Anstalt gliedert sich in die Abteilungen Vollzug, Anstaltsverwaltung, Betriebe und Geschlossene Übergangsabteilung.
 
-<sup>3</sup> Die Abteilungsleiter unterstützen den Direktor in der Leitung der Anstalt. Das Amt für Justizvollzug bezeichnet den Stellvertreter des Direktors.
+<sup>3</sup> Die Abteilungsleitung unterstützt die Direktorin oder den Direktor in der Leitung der Anstalt. Das Amt für Justizvollzug bezeichnet die Stellvertretung der Direktorin oder des Direktors.
 
 #### Art. 9
 
 **2. Massnahmenzentrum Bitzi**
 
-<sup>1</sup> Der Direktor leitet das Massnahmenzentrum und vertritt es nach aussen. Er sorgt für:
+<sup>1</sup> Die Direktorin oder der Direktor leitet das Massnahmenzentrum Bitzi und vertritt es nach aussen. Sie oder er sorgt für:
 
-- a) den gesetzmässigen Vollzug unter Berücksichtigung der Erkenntnisse der forensischen Psychiatrie und der Sozialpädagogik. Er erstellt die erforderlichen Pflichtenhefte;
+- a) den gesetzmässigen Vollzug unter Berücksichtigung der Erkenntnisse der forensischen Psychiatrie und der Sozialpädagogik. Sie oder er erstellt die erforderlichen Pflichtenhefte;
 - b) die Sicherheit und einen geordneten Zentrumsbetrieb;
 - c) die Führung der Gewerbe- und Gutsbetriebe unter Berücksichtigung von wirtschaftlichen und ökologischen Grundsätzen.
 
 <sup>2</sup> Das Massnahmenzentrum gliedert sich in die Abteilungen soziale und berufliche Integration sowie Sicherheit. Für die forensische Therapie werden Fachkräfte beigezogen.
 
-<sup>3</sup> Die Abteilungsleiter und die Bereichsleitung forensische Therapie unterstützen den Direktor in der Leitung des Massnahmenzentrums. Das Amt für Justizvollzug bezeichnet den Stellvertreter des Direktors.
+<sup>3</sup> Die Abteilungsleitungen und die Bereichsleitung forensische Therapie unterstützen die Direktorin oder den Direktor in der Leitung des Massnahmenzentrums. Das Amt für Justizvollzug bezeichnet die Stellvertretung der Direktorin oder des Direktors.
 
 #### Art. 10
 
 **3. Jugendheim Platanenhof**
 
-<sup>1</sup> Der Heimleiter vertritt das Heim nach aussen und ist verantwortlich für eine den Erkenntnissen der Sozialpädagogik entsprechende und betrieblich abgestützte Erziehung, Ausbildung und Beschäftigung der Jugendlichen. Er sorgt dafür, dass im Rahmen des Vollzugsauftrags nach wirtschaftlichen und ökologischen Grundsätzen gearbeitet wird.
+<sup>1</sup> Die Heimleitung des Jugendheims Platanenhof vertritt das Heim nach aussen und ist verantwortlich für eine den Erkenntnissen der Sozialpädagogik entsprechende und betrieblich abgestützte Erziehung, Ausbildung und Beschäftigung der Jugendlichen. Sie sorgt dafür, dass im Rahmen des Vollzugsauftrags nach wirtschaftlichen und ökologischen Grundsätzen gearbeitet wird.
 
-<sup>2</sup> Das Heim gliedert sich in offene und geschlossene Wohngruppen, denen ein Erziehungsleiter vorsteht.
+<sup>2</sup> Das Heim gliedert sich in offene und geschlossene Wohngruppen, denen eine Erziehungsleitung vorsteht.
 
 #### Art. 11
 
@@ -157,7 +155,7 @@ als Verordnung:[^ingress-2]
 - e) die Wiedergutmachung;
 - f) die medizinische Versorgung, die Therapie, die Seelsorge und den Sozialdienst;
 - g) die Freizeitgestaltung;
-- g<sup>bis</sup>) besondere Rechte und Pflichten der Gefangenen;
+- g<sup>bis</sup>) besondere Rechte und Pflichten der inhaftierten Personen;
 - g<sup>ter</sup>) besondere Vollzugsformen;
 - h) die Entlassungsvorbereitung.
 
@@ -167,9 +165,15 @@ als Verordnung:[^ingress-2]
 - 2\. die Aufnahmevoraussetzungen;
 - 3\. die erzieherischen Massnahmen;
 - 4\. den Verkehr mit der Aussenwelt, insbesondere die Gewährung von Ausgang und Urlaub;
-- 5\. die Entlöhnung der Arbeit und die Verwendung des Lehrlingslohns extern Beschäftigter.
+- 5\. die Entlöhnung der Arbeit und die Verwendung des Lehrlingslohns von extern beschäftigten Personen.
 
-<sup>3</sup> Das Amt für Justizvollzug erlässt Vorschriften über die Unterstützungskassen der Anstalten für besondere Zwecke, insbesondere für die Hilfeleistung an mittellose Gefangene und ihre Angehörigen sowie die Förderung von Bemühungen zur Wiedereingliederung und zur Versöhnung der Gefangenen mit ihren Opfern.
+<sup>3</sup> Das Amt für Justizvollzug erlässt Vorschriften über die Unterstützungskassen der Anstalten für besondere Zwecke, insbesondere für die Hilfeleistung an mittellose inhaftierte Personen und ihre Angehörigen sowie die Förderung von Bemühungen zur Wiedereingliederung und zur Versöhnung der inhaftierten Personen mit ihren Opfern.
+
+#### Art. 11bis
+
+**Oberaufsicht**
+
+<sup>1</sup> Das Sicherheits- und Justizdepartement übt die Oberaufsicht über die Gefängnisse und Vollzugsanstalten aus.
 
 ### III. Kosten
 
@@ -179,7 +183,7 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Die einweisende Stelle bezahlt dem Gefängnis oder der Anstalt die Vollzugskosten. Die Höhe des Kostgeldes, die Nebenkosten und der Zahlungsmodus werden durch das Amt für Justizvollzug aufgrund der Beschlüsse der Ostschweizerischen Strafvollzugskommission festgelegt.
 
-<sup>2</sup> Die einweisende Stelle sorgt für die Weiterverrechnung von Kosten, soweit andere Kostenträger vorhanden sind. Das Gefängnis oder die Anstalt klärt ab, ob der Gefangene krankenversichert ist, und orientiert die einweisende Stelle.
+<sup>2</sup> Die einweisende Stelle sorgt für die Weiterverrechnung von Kosten, soweit andere Kostenträger vorhanden sind. Das Gefängnis oder die Anstalt klärt ab, ob die inhaftierte Person krankenversichert ist, und orientiert die einweisende Stelle.
 
 ## Zweiter Teil: Gefängnisse
 
@@ -189,7 +193,7 @@ als Verordnung:[^ingress-2]
 
 **Einweisung**
 
-<sup>1</sup> Die Einweisung des Gefangenen erfolgt aufgrund eines Festnahmebefehls von Polizei oder Staatsanwaltschaft, einer Verfügung des Migrationsamtes, eines Entscheids des Zwangsmassnahmengerichtes oder eines Vollzugsauftrags der zuständigen Vollzugsbehörde.
+<sup>1</sup> Die Einweisung der inhaftierten Person erfolgt aufgrund eines Festnahmebefehls von Polizei oder Staatsanwaltschaft, einer Verfügung des Migrationsamtes, eines Entscheids des Zwangsmassnahmengerichtes oder eines Vollzugsauftrags der zuständigen Vollzugsbehörde.
 
 <sup>2</sup> Die einweisende Stelle übermittelt dem Gefängnis so bald als möglich eine Abschrift des Einweisungsdokuments und wenn vorhanden den Festnahmerapport der Polizei.
 
@@ -202,17 +206,17 @@ als Verordnung:[^ingress-2]
 
 **Personenverzeichnis**
 
-<sup>1</sup> Das Gefängnis führt ein Personenverzeichnis. Dieses enthält wenigstens die Personalien des Gefangenen, die einweisende Stelle, den Einweisungsgrund, Anordnungen des Gefängnisarztes sowie Tag und Stunde des Ein- und Austritts.
+<sup>1</sup> Das Gefängnis führt ein Personenverzeichnis. Dieses enthält wenigstens die Personalien der inhaftierten Person, die einweisende Stelle, den Einweisungsgrund, Anordnungen der Gefängnisärztin oder des Gefängnisarztes sowie Tag und Stunde des Ein- und Austritts.
 
-<sup>2</sup> Der Gefangene wird beim Eintritt fotografiert, sofern keine aktuelle Fotografie zur Verfügung steht. Im Lauf des Aufenthalts können vom Gefangenen neue Fotografien erstellt werden.
+<sup>2</sup> Die inhaftierte Person wird beim Eintritt fotografiert, sofern keine aktuelle Fotografie zur Verfügung steht. Im Lauf des Aufenthalts können von der inhaftierten Person neue Fotografien erstellt werden.
 
 #### Art. 15
 
-**Durchsuchung der Gefangenen**
+**Durchsuchung der inhaftierten Person**
 
-<sup>1</sup> Der Gefangene hat bei seinem Eintritt alle mitgeführten Gegenstände vorzulegen. Er wird von einer Person gleichen Geschlechts einer Leibesvisitation unterzogen. Ist eine Entkleidung erforderlich, erfolgt diese in Abwesenheit der anderen Gefangenen und in zwei Phasen.
+<sup>1</sup> Die inhaftierte Person legt bei ihrem Eintritt alle mitgeführten Gegenstände vor. Sie wird von einer Person gleichen Geschlechts einer Leibesvisitation unterzogen. Ist eine Entkleidung erforderlich, erfolgt diese in Abwesenheit der anderen inhaftierten Personen und in zwei Phasen.
 
-<sup>2</sup> Besteht Verdacht, dass der Gefangene Gegenstände einschmuggeln will, können seine Leibesöffnungen kontrolliert werden. Die Kontrolle wird durch den Gefängnisarzt oder nach dessen Anweisung von anderem medizinischen Personal durchgeführt.
+<sup>2</sup> Besteht Verdacht, dass die inhaftierte Person Gegenstände einschmuggeln will, können ihre Leibesöffnungen kontrolliert werden. Die Kontrolle wird durch die Gefängnisärztin oder den Gefängnisarzt oder nach deren oder dessen Anweisung von anderem medizinischen Personal durchgeführt.
 
 #### Art. 16
 
@@ -220,7 +224,7 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Der Besitz der Uhr, von kleineren persönlichen Andenken und von Gegenständen zur Selbstbeschäftigung ist gestattet, wenn davon keine Gefahr ausgeht.
 
-<sup>2</sup> Andere Gegenstände, insbesondere Geld und Wertsachen, nimmt der Gefangenenbetreuer in Verwahrung. Ausweisschriften werden hinterlegt. Die Gefängnisleitung sorgt für die nötigen Meldungen.[^16-1]
+<sup>2</sup> Andere Gegenstände, insbesondere Geld und Wertsachen, nimmt die Fachperson Justizvollzug in Verwahrung. Ausweisschriften werden hinterlegt. Die Gefängnisleitung sorgt für die nötigen Meldungen.[^16-1]
 
 [^16-1]: Art. 13 des eidg Ausweisgesetzes, SR [143.1](https://db.clex.ch/link/Bund/143.1/de).
 
@@ -228,25 +232,25 @@ als Verordnung:[^ingress-2]
 
 **Effektenverzeichnis**
 
-<sup>1</sup> Über die abgenommenen Gegenstände wird ein Verzeichnis aufgenommen, dessen Richtigkeit durch Gefangenenbetreuer und Gefangenen, bei dessen Weigerung durch einen zweiten Mitarbeiter, unterschriftlich bestätigt wird.
+<sup>1</sup> Über die abgenommenen Gegenstände wird ein Verzeichnis aufgenommen, dessen Richtigkeit durch die Fachperson Justizvollzug und die inhaftierte Person, bei deren Weigerung durch eine zweite Mitarbeiterin oder einen zweiten Mitarbeiter, unterschriftlich bestätigt wird.
 
 <sup>2</sup> Bestandesänderungen werden laufend nachgetragen.
 
-<sup>3</sup> Der Gefangene hat die Rückgabe der Gegenstände unterschriftlich zu bestätigen.
+<sup>3</sup> Die inhaftierte Person bestätigt die Rückgabe der Gegenstände unterschriftlich.
 
 #### Art. 18
 
 **Einführung**
 
-<sup>1</sup> Mit dem Gefangenen wird ein Eintrittsgespräch geführt. Die persönliche Situation und die Anliegen des Gefangenen sowie die allenfalls nötige medizinische und soziale Unterstützung werden geklärt. Dem Gefangenen wird die Zelle zugewiesen und er wird über den Tagesablauf orientiert.
+<sup>1</sup> Mit der inhaftierten Person wird ein Eintrittsgespräch geführt. Die persönliche Situation und die Anliegen der inhaftierten Person sowie die allenfalls nötige medizinische und soziale Unterstützung werden geklärt. Der inhaftierten Person wird die Zelle zugewiesen und sie wird über den Tagesablauf orientiert.
 
-<sup>2</sup> Der Gefangene wird auf die Gefängnisordnung und besondere Anordnungen der einweisenden Stelle oder des Gefängnisarztes aufmerksam gemacht. Auf Wunsch wird dem Gefangenen diese Verordnung und das Merkblatt der Bewährungshilfe ausgehändigt.
+<sup>2</sup> Die inhaftierte Person wird auf die Gefängnisordnung und besondere Anordnungen der einweisenden Stelle oder der Gefängnisärztin oder des Gefängnisarztes aufmerksam gemacht. Auf Wunsch wird der inhaftierten Person diese Verordnung und das Merkblatt des Sozialdienstes ausgehändigt.
 
-<sup>3</sup> Der Gefangene hat die Vorschriften des Gefängnisses einzuhalten und den Anordnungen der Gefangenenbetreuer Folge zu leisten. Er hat sich den angeordneten Kontrollen zu unterziehen und alles zu unterlassen, was die Sicherheit und Ordnung im Gefängnis gefährdet. Insbesondere verboten sind:
+<sup>3</sup> Die inhaftierte Person ist verpflichtet, die Vorschriften des Gefängnisses einzuhalten, den Anordnungen der Fachpersonen Justizvollzug Folge zu leisten, sich den angeordneten Kontrollen zu unterziehen und alles zu unterlassen, was die Sicherheit und Ordnung im Gefängnis gefährdet. Insbesondere verboten sind:
 
 - a) lautes Sprechen oder Rufen aus den Zellenfenstern;
 - b) nicht bewilligte Kontaktaufnahme mit Personen ausserhalb des Gefängnisses;
-- c) Rechtsgeschäfte mit Mitgefangenen;
+- c) Rechtsgeschäfte mit anderen inhaftierten Personen;
 - d) Missbrauch der Zellenrufanlagen;
 - e) alle Handlungen, die nach [Art. 64c](https://www.gesetzessammlung.sg.ch/data/962.1/de/art64c) des Einführungsgesetzes zur Schweizerischen Straf- und Jugendstrafprozessordnung vom 3. August 2010[^18-1] als Disziplinarfehler gelten.
 
@@ -256,9 +260,9 @@ als Verordnung:[^ingress-2]
 
 **Verlegung**
 
-<sup>1</sup> Wird der Gefangene in ein anderes Gefängnis verlegt, werden dem neuen Gefängnis das Einweisungsdokument sowie allfällige weitere Akten mit Informationen zur Person und zum Verlauf des bisherigen Gefängnisaufenthalts weitergeleitet. Zusätzlich werden Unterlagen zum Gesundheitszustand des Gefangenen vom behandelnden Arzt in einem verschlossenen Umschlag zuhanden des neu zuständigen Gefängnisarztes weitergeleitet, sofern der Gefangene dies nicht ausdrücklich ablehnt.
+<sup>1</sup> Wird die inhaftierte Person in ein anderes Gefängnis verlegt, werden dem neuen Gefängnis das Einweisungsdokument sowie allfällige weitere Akten mit Informationen zur Person und zum Verlauf des bisherigen Gefängnisaufenthalts weitergeleitet. Zusätzlich werden Unterlagen zum Gesundheitszustand der inhaftierten Person von der behandelnden Ärztin oder vom behandelnden Arzt in einem verschlossenen Umschlag zuhanden der neu zuständigen Gefängnisärztin oder des neu zuständigen Gefängnisarztes weitergeleitet, sofern die inhaftierte Person dies nicht ausdrücklich ablehnt.
 
-<sup>2</sup> Benötigt der Gefangene Medikamente, wird dem Transport ein Vorrat der vom Gefängnisarzt verschriebenen Medikamente für wenigstens drei Tage mit den nötigen Instruktionen mitgegeben.
+<sup>2</sup> Benötigt die inhaftierte Person Medikamente, wird dem Transport ein Vorrat der von der Gefängnisärztin oder vom Gefängnisarzt verschriebenen Medikamente für wenigstens drei Tage mit den nötigen Instruktionen mitgegeben.
 
 <sup>3</sup> Die mit dem Transport beauftragten Personen werden informiert, sofern während des Transports medizinische Massnahmen notwendig werden könnten oder Medikamente abzugeben sind.
 
@@ -266,75 +270,75 @@ als Verordnung:[^ingress-2]
 
 **Entlassung**
 
-<sup>1</sup> Der Gefangene wird nach Anordnung der einweisenden Stelle entlassen. Ohne besondere Anordnung erfolgt die Entlassung am Vormittag des Entlassungstags.
+<sup>1</sup> Die inhaftierte Person wird nach Anordnung der einweisenden Stelle entlassen. Ohne besondere Anordnung erfolgt die Entlassung am Vormittag des Entlassungstags.
 
-<sup>2</sup> Besteht die Möglichkeit der bedingten Entlassung, fordert der Gefangenenbetreuer den Gefangenen wenigstens einen Monat vor dem ersten möglichen Entlassungstermin auf, ein Entlassungsgesuch einzureichen oder seinen Verzicht zu begründen. Der Gefangenenbetreuer leitet das Gesuch mit seinem Führungsbericht an die einweisende Stelle weiter.
+<sup>2</sup> Besteht die Möglichkeit der bedingten Entlassung, wird die inhaftierte Person wenigstens einen Monat vor dem ersten möglichen Entlassungstermin aufgefordert, ein Entlassungsgesuch einzureichen oder ihren Verzicht zu begründen. Die Gefängnisleitung leitet das Gesuch mit ihrem Vollzugsbericht an die einweisende Stelle weiter.
 
 #### Art. 20
 
 **Vollzugsausweis**
 
-<sup>1</sup> Der Gefangenenbetreuer bescheinigt der einweisenden Stelle und auf Wunsch dem Gefangenen Datum und Zeitpunkt des Ein- und Austritts.
+<sup>1</sup> Die Fachperson Justizvollzug bescheinigt der einweisenden Stelle und auf Wunsch der inhaftierten Person Datum und Zeitpunkt des Ein- und Austritts.
 
-### II. Ausrüstung des Gefangenen
+### II. Ausrüstung der inhaftierten Person
 
 #### Art. 21
 
 **Kleidung**
 
-<sup>1</sup> Der Gefangene trägt seine eigenen Kleider. Kleidung mit herabwürdigenden, pornografischen oder gewaltverherrlichenden Bildern, Symbolen oder Schriften ist verboten.
+<sup>1</sup> Die inhaftierte Person trägt ihre eigenen Kleider. Kleidung mit herabwürdigenden, pornografischen oder gewaltverherrlichenden Bildern, Symbolen oder Schriften ist verboten.
 
-<sup>1<sup>bis</sup></sup> Bei Bedarf wird dem Gefangenen eine einfache Grundausstattung an Kleidern leihweise zur Verfügung gestellt.
+<sup>1<sup>bis</sup></sup> Bei Bedarf wird der inhaftierten Person eine einfache Grundausstattung an Kleidern leihweise zur Verfügung gestellt.
 
-<sup>2</sup> Der Gefangenenbetreuer gibt dem Gefangenen die Möglichkeit, seine Kleider waschen zu lassen.
+<sup>2</sup> Die Fachperson Justizvollzug gibt der inhaftierten Person die Möglichkeit, ihre Kleider waschen zu lassen.
 
 #### Art. 22
 
 **Wäsche**
 
-<sup>1</sup> Der Gefangene erhält beim Eintritt Bettwäsche und Waschzeug.
+<sup>1</sup> Die inhaftierte Person erhält beim Eintritt Bettwäsche und Waschzeug.
 
 <sup>2</sup> Die Bettwäsche wird wenigstens alle zwei Wochen, das Waschzeug mindestens einmal wöchentlich ersetzt.
 
 #### Art. 23
 
-**Ton- und Bildwiedergabegeräte**
+**Kommunikations- und Unterhaltungselektronik**
 
-<sup>1</sup> Die Mitnahme eigener Ton- und Bildwiedergabegeräte wie Radio, Tonband, Fernseher, Video oder Computer ist verboten.
+<sup>1</sup> Die Mitnahme von elektronischen Kommunikations- und Unterhaltungsgeräten wie Radio, Spielkonsole, Mobiltelefon, Fernseher, Videogerät oder Computer ist verboten.
 
-<sup>2</sup> Dem Gefangenen wird nach einer Woche Aufenthalt auf Wunsch ein plombiertes Fernsehgerät mietweise zur Verfügung gestellt.
+<sup>2</sup> Der inhaftierten Person wird auf Wunsch ein Fernsehgerät mietweise zur Verfügung gestellt.
 
-<sup>3</sup> Der Gefangene schiesst die Kosten für Miete und Transport vor.
+<sup>3</sup> Die inhaftierte Person zahlt die Kosten für Miete und Transport.
 
 #### Art. 24
 
 **Lesestoff**
 
-<sup>1</sup> Der Gefangene kann aus der Gefängnisbibliothek oder aus einer öffentlichen Bibliothek Bücher beziehen.
+<sup>1</sup> Die inhaftierte Person kann aus der Gefängnisbibliothek oder aus einer öffentlichen Bibliothek Bücher beziehen.
 
-<sup>2</sup> Er kann sich Bücher, Zeitungen oder Zeitschriften auf eigene Kosten zustellen lassen.
+<sup>2</sup> Sie kann sich Bücher, Zeitungen oder Zeitschriften auf eigene Kosten zustellen lassen.
 
-<sup>3</sup> Die einweisende Stelle kann den Bezug von Büchern, Zeitungen und Zeitschriften beschränken, wenn er den Haftzweck oder die Sicherheit gefährdet oder übermässige Umtriebe verursacht. Schriften und andere Gegenstände, die sexuelle Handlungen mit Kindern oder mit Tieren, menschlichen Ausscheidungen oder Gewalttätigkeiten zum Inhalt haben, werden vernichtet.
+<sup>3</sup> Die einweisende Stelle kann den Bezug von Büchern, Zeitungen und Zeitschriften beschränken, wenn er den Haftzweck oder die Sicherheit gefährdet oder übermässige Umtriebe verursacht. Schriften und andere Gegenstände, die sexuelle Handlungen mit Minderjährigen oder mit Tieren oder Gewalttätigkeiten zum Inhalt haben, werden vernichtet.
 
 #### Art. 25
 
 **Sorgfaltspflicht**
 
-<sup>1</sup> Der Gefangene hat die Zelle und deren Einrichtung sowie die überlassenen Gegenstände sorgfältig zu behandeln.
+<sup>1</sup> Die inhaftierte Person ist verpflichtet, die Zelle und deren Einrichtung sowie die überlassenen Gegenstände sorgfältig zu behandeln.
 
-<sup>2</sup> Er haftet für schuldhafte Beschädigungen.
+<sup>2</sup> Sie haftet für schuldhafte Beschädigungen.
 
-<sup>3</sup> Bei Verdacht auf vorsätzliche Sachbeschädigung kann der Gefangenenbetreuer Strafantrag einreichen.
+<sup>3</sup> Bei Verdacht auf vorsätzliche Sachbeschädigung kann die Fachperson Justizvollzug Strafantrag einreichen.
 
 #### Art. 25bis
 
 **Kontrollen**
 
-<sup>1</sup> Die persönlichen Effekten oder Behältnisse des Gefangenen und die Zelle können zum Schutz von Sicherheit und Ordnung des Gefängnisses durchsucht werden.
+<sup>1</sup> Die persönlichen Effekten oder Behältnisse der inhaftierten Person und die Zelle können zum Schutz von Sicherheit und Ordnung des Gefängnisses durchsucht werden.
 
-<sup>2</sup> Ist der Gefangene bei der Zellenkontrolle nicht anwesend, wird er nachträglich orientiert.
+<sup>2</sup> Ist die inhaftierte Person bei der Zellenkontrolle nicht anwesend, wird sie nachträglich orientiert.
 
-<sup>3</sup> Die Durchsuchung des Gefangenen richtet sich sachgemäss nach Art. 15 dieses Erlasses.
+<sup>3</sup> Die Durchsuchung der inhaftierten Person richtet sich sachgemäss nach Art. 15 dieses Erlasses.
 
 ### III. Tagesablauf
 
@@ -342,41 +346,43 @@ als Verordnung:[^ingress-2]
 
 **Tagesordnung**
 
-<sup>1</sup> Der Gefangenenbetreuer legt die Tagesordnung fest. Die Nachtruhe dauert von 22.00 bis 06.00 Uhr.
+<sup>1</sup> Die Tagesordnung wird in der Gefängnisordnung festgelegt.
+
+<sup>2</sup> Die Nachtruhe dauert von 22.00 bis 06.00 Uhr.
 
 #### Art. 27
 
 **Arbeit**
 
-<sup>1</sup> Dem arbeitswilligen Gefangenen wird nach Möglichkeit eine geeignete Arbeit verschafft.
+<sup>1</sup> Der arbeitswilligen inhaftierten Person in Untersuchungs-, Sicherheits-, Auslieferungs- und ausländerrechtlicher Haft wird nach Möglichkeit eine geeignete Arbeit verschafft.
 
-<sup>2</sup> Der Gefangene kann sich selber Arbeit beschaffen. Arbeiten, welche die Sicherheit des Gefängnisses gefährden oder den Gefängnisbetrieb stören, werden nicht zugelassen.
+<sup>2</sup> Die inhaftierte Person kann sich selber Arbeit beschaffen. Arbeiten, welche die Sicherheit des Gefängnisses gefährden oder den Gefängnisbetrieb stören, werden nicht zugelassen.
 
-<sup>3</sup> Strafgefangene sind zur Arbeit verpflichtet, die ihnen zugewiesen wird.
+<sup>3</sup> Inhaftierte Personen im Straf- oder Massnahmenvollzug oder im vorzeitigen Straf- und Massnahmenvollzug sind zur Arbeit verpflichtet, die ihnen zugewiesen wird.
 
 #### Art. 28
 
 **Entschädigung**
 
-<sup>1</sup> Der Gefangene erhält für die geleistete Arbeit ein Arbeitsentgelt, das aufgrund der Anforderungen des Arbeitsplatzes und seiner Leistung bemessen wird. Bei selbst beschaffter Arbeit erhält der Gefangene den Reinerlös.
+<sup>1</sup> Die inhaftierte Person erhält für die geleistete Arbeit ein Arbeitsentgelt, das aufgrund der Anforderungen des Arbeitsplatzes und ihrer Leistung bemessen wird. Bei selbst beschaffter Arbeit erhält die inhaftierte Person den Reinerlös.
 
-<sup>2</sup> In der Regel die Hälfte der Entschädigung wird dem Gefangenen zum persönlichen Verbrauch gutgeschrieben. Der Rest wird zur Erfüllung von Unterstützungspflichten, zur Schuldentilgung oder zur Deckung der Verfahrenskosten oder der Kosten der Heimschaffung verwendet.
+<sup>2</sup> In der Regel die Hälfte der Entschädigung wird der inhaftierten Person zum persönlichen Verbrauch gutgeschrieben. Der Rest wird zur Erfüllung von Unterstützungspflichten, zur Schuldentilgung oder zur Deckung der Verfahrenskosten oder der Kosten der Heimschaffung verwendet.
 
-<sup>3</sup> Strafgefangenen und mittellosen Gefangenen in Untersuchungs-, Auslieferungs- und ausländerrechtlicher Haft wird bei unverschuldeter Beschäftigungslosigkeit oder unverschuldeter Arbeitsunfähigkeit ein Betrag nach Weisung des Amtes für Justizvollzug zum persönlichen Verbrauch gutgeschrieben.
+<sup>3</sup> Inhaftierten Personen im Straf- oder Massnahmenvollzug oder im vorzeitigen Straf- und Massnahmenvollzug und mittellosen inhaftierten Personen in Untersuchungs-, Sicherheits-, Auslieferungs- und ausländerrechtlicher Haft wird bei unverschuldeter Beschäftigungslosigkeit oder unverschuldeter Arbeitsunfähigkeit ein Betrag nach Weisung des Amtes für Justizvollzug zum persönlichen Verbrauch gutgeschrieben.
 
 #### Art. 29
 
 **Spazieren**
 
-<sup>1</sup> Der Gefangene kann täglich wenigstens eine halbe Stunde, nach einem Monat wenigstens eine Stunde unter Aufsicht spazieren.
+<sup>1</sup> Die inhaftierte Person kann täglich wenigstens eine halbe Stunde, nach einem Monat wenigstens eine Stunde unter Aufsicht spazieren.
 
-<sup>2</sup> Ist die Gewährung des Spaziergangs aus betrieblichen Gründen nicht möglich, wird der Gefangene auf sein Gesuch hin sobald als möglich versetzt.
+<sup>2</sup> Ist die Gewährung des Spaziergangs aus betrieblichen Gründen nicht möglich, wird die inhaftierte Person auf ihr Gesuch hin sobald als möglich versetzt.
 
 #### Art. 30
 
 **Körperpflege**
 
-<sup>1</sup> Der Gefangene kann wöchentlich wenigstens einmal duschen. Er erhält Gelegenheit, die Haare auf eigene Kosten schneiden zu lassen.
+<sup>1</sup> Die inhaftierte Person kann wöchentlich wenigstens einmal duschen. Sie erhält Gelegenheit, die Haare auf eigene Kosten schneiden zu lassen.
 
 ### IV. Verpflegung, Einkauf, Geschenke
 
@@ -384,31 +390,31 @@ als Verordnung:[^ingress-2]
 
 **Mahlzeiten**
 
-<sup>1</sup> Der Gefangene erhält täglich drei Mahlzeiten.
+<sup>1</sup> Die inhaftierte Person erhält täglich drei Mahlzeiten.
 
-<sup>2</sup> Besondere Wünsche, die der Gefangene mit seiner Weltanschauung oder Religion begründet, werden soweit wie möglich berücksichtigt.
+<sup>2</sup> Besondere Wünsche, welche die inhaftierte Person mit ihrer Weltanschauung oder Religion begründet, werden soweit wie möglich berücksichtigt.
 
-<sup>3</sup> Diätkost und zusätzliche Verpflegung werden auf Verschreibung des Gefängnisarztes abgegeben.
+<sup>3</sup> Diätkost und zusätzliche Verpflegung werden auf Verschreibung der Gefängnisärztin oder des Gefängnisarztes abgegeben.
 
 #### Art. 31bis
 
 **Hungerstreik**
 
-<sup>1</sup> Der Gefangenenbetreuer orientiert den Gefängnisarzt, wenn der Gefangene aus Protest fastet oder die Aufnahme von Essen und Trinken verweigert.
+<sup>1</sup> Die Fachperson Justizvollzug orientiert die Gefängnisärztin oder den Gefängnisarzt, wenn die inhaftierte Person aus Protest fastet oder die Aufnahme von Essen und Trinken verweigert.
 
-<sup>2</sup> Der Gefängnisarzt klärt den Gefangenen über die Risiken von längerem Fasten auf. Können sich Arzt und Gefangener nicht klar und sicher verständigen, wird ein Übersetzer oder eine andere geeignete Hilfsperson beigezogen.
+<sup>2</sup> Die Gefängnisärztin oder der Gefängnisarzt klärt die inhaftierte Person über die Risiken von längerem Fasten auf. Können sich Ärztin oder Arzt und inhaftierte Person nicht klar und sicher verständigen, wird eine Dolmetscherin oder ein Dolmetscher oder eine andere geeignete Hilfsperson beigezogen.
 
-<sup>3</sup> Wenn der Gefangene unterschriftlich bestätigt, dass er medizinische Zwangsmassnahmen, namentlich eine zwangsweise künstliche Ernährung auch bei Verlust des Bewusstseins ablehnt, wird dieser Wunsch respektiert, solange von einer freien Willensbestimmung und Urteilsfähigkeit ausgegangen werden kann. Die Einweisung in ein Spital richtet sich nach Art. 36 dieses Erlasses.
+<sup>3</sup> Wenn die inhaftierte Person unterschriftlich bestätigt, dass sie medizinische Zwangsmassnahmen, namentlich eine zwangsweise künstliche Ernährung auch bei Verlust des Bewusstseins ablehnt, wird dieser Wunsch respektiert, solange von einer freien Willensbestimmung und Urteilsfähigkeit ausgegangen werden kann. Die Einweisung in ein Spital richtet sich nach Art. 36 dieses Erlasses.
 
-<sup>4</sup> Trotz der geäusserten Verweigerung der Nahrungsaufnahme werden dem Gefangenen dreimal täglich die Mahlzeiten angeboten und der jederzeitige Zugang zu Getränken sichergestellt.
+<sup>4</sup> Trotz der geäusserten Verweigerung der Nahrungsaufnahme werden der inhaftierten Person dreimal täglich die Mahlzeiten angeboten und der jederzeitige Zugang zu Getränken sichergestellt.
 
 #### Art. 32
 
 **Einkauf**
 
-<sup>1</sup> Der Gefangene kann einmal wöchentlich beim Gefangenenbetreuer auf eigene Kosten in beschränktem Umfang Ess- und Rauchwaren, Toilettenartikel und Lesestoff beziehen.
+<sup>1</sup> Die inhaftierte Person kann einmal wöchentlich bei der Fachperson Justizvollzug auf eigene Kosten in beschränktem Umfang Ess- und Rauchwaren, Toilettenartikel und Lesestoff beziehen.
 
-<sup>2</sup> Dem mittellosen Gefangenen wird das Nötige zur Verfügung gestellt.
+<sup>2</sup> Der mittellosen inhaftierten Person wird das Nötige zur Verfügung gestellt.
 
 #### Art. 33
 
@@ -422,33 +428,33 @@ als Verordnung:[^ingress-2]
 
 **Geschenke**
 
-<sup>1</sup> Der Gefangene kann in beschränktem Umfang Geschenke empfangen. Sie werden vor der Aushändigung durch das Gefängnis kontrolliert.
+<sup>1</sup> Die inhaftierte Person kann in beschränktem Umfang Geschenke empfangen. Sie werden vor der Aushändigung durch das Gefängnis kontrolliert.
 
-<sup>2</sup> Geschenke werden nur zugelassen, soweit sie leicht kontrolliert werden können, die Sicherheit und Ordnung im Gefängnis nicht gefährden und keine verbotenen Genussmittel enthalten. Ess- und Rauchwaren, Toilettenartikel und dergleichen sind über den Einkauf zu beziehen. Zugunsten des Gefangenen kann Geld abgegeben oder überwiesen werden.
+<sup>2</sup> Geschenke werden nur zugelassen, soweit sie leicht kontrolliert werden können, die Sicherheit und Ordnung im Gefängnis nicht gefährden und keine verbotenen Genussmittel enthalten. Ess- und Rauchwaren, Toilettenartikel und dergleichen werden über den Einkauf bezogen. Zugunsten der inhaftierten Person kann Geld abgegeben oder überwiesen werden.
 
-<sup>3</sup> Unzulässige Geschenke werden auf Kosten des Gefangenen zurückgeschickt oder, wenn dies nicht möglich ist, verwertet. Der Gefangene wird orientiert.
+<sup>3</sup> Unzulässige Geschenke werden auf Kosten der inhaftierten Person zurückgeschickt oder, wenn dies nicht möglich ist, verwertet. Die inhaftierte Person wird orientiert.
 
 ### V. Medizinische und soziale Betreuung
 
 #### Art. 35
 
-**Gefängnisarzt**
+**Gefängnisärztin oder Gefängnisarzt**
 
-<sup>1</sup> Gefängnisarzt ist der vom Gesundheitsdepartement auf Antrag des Amtes für Justizvollzug bezeichnete Amtsarzt. Er sorgt für die ärztliche Betreuung der Gefangenen.
+<sup>1</sup> Gefängnisärztin oder Gefängnisarzt ist die oder der vom Gesundheitsdepartement auf Antrag des Amtes für Justizvollzug bezeichnete Amtsärztin oder Amtsarzt. Sie oder er sorgt für die ärztliche Betreuung der inhaftierten Personen.
 
-<sup>2</sup> Die einweisende Stelle ordnet den Beizug eines anderen Arztes an, wenn das Vertrauensverhältnis zwischen Gefängnisarzt und Gefangenem derart gestört ist, dass die einwandfreie Betreuung nicht mehr gewährleistet ist. Gefangene haben keinen Anspruch auf freie Wahl der Leistungserbringenden oder der Behandlungsmethode.
+<sup>2</sup> Die einweisende Stelle ordnet den Beizug einer anderen Ärztin oder eines anderen Arztes an, wenn das Vertrauensverhältnis zwischen Gefängnisärztin oder Gefängnisarzt und der inhaftierten Person derart gestört ist, dass die einwandfreie Betreuung nicht mehr gewährleistet ist. Inhaftierte Personen haben keinen Anspruch auf freie Wahl der Leistungserbringenden oder der Behandlungsmethode.
 
 <sup>3</sup> …
 
 #### Art. 36
 
-**Spezialarzt**
+**Spezialärztin oder Spezialarzt**
 
-<sup>1</sup> Die einweisende Stelle entscheidet auf Antrag des Gefängnisarztes über den Beizug eines Spezialarztes und die Einweisung in ein Spital oder eine psychiatrische Klinik.
+<sup>1</sup> Die einweisende Stelle entscheidet auf Antrag der Gefängnisärztin oder des Gefängnisarztes über den Beizug einer Spezialärztin oder eines Spezialarztes und die Einweisung in ein Spital oder eine psychiatrische Klinik.
 
-<sup>2</sup> Im Notfall, wenn die einweisende Stelle nicht erreichbar ist, entscheidet der Gefangenenbetreuer. Er orientiert die einweisende Stelle sobald als möglich. Diese entscheidet über die Aufrechterhaltung oder Aufhebung der Anordnung.
+<sup>2</sup> Im Notfall, wenn die einweisende Stelle nicht erreichbar ist, entscheidet die Gefängnisleitung. Sie orientiert die einweisende Stelle sobald als möglich. Diese entscheidet über die Aufrechterhaltung oder Aufhebung der Anordnung.
 
-<sup>3</sup> Zahnärztliche Behandlungen erfolgen, soweit sie unaufschiebbar und notwendig sind. Für die Kosten kommt der Gefangene selbst auf oder, wenn er dazu nicht in der Lage ist, das für die Sozialhilfe zuständige Gemeinwesen.
+<sup>3</sup> Zahnärztliche Behandlungen erfolgen, soweit sie unaufschiebbar und notwendig sind. Für die Kosten kommt die inhaftierte Person selbst auf oder, wenn sie dazu nicht in der Lage ist, das für die Sozialhilfe zuständige Gemeinwesen.
 
 #### Art. 36bis
 
@@ -456,23 +462,23 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Die medizinische Betreuung im Rahmen der hausärztlichen und psychiatrischen Grundversorgung erfolgt unter Wahrung der ärztlichen Schweigepflicht.
 
-<sup>2</sup> Soweit es die spezielle Situation der Zwangsgemeinschaft auf engem Raum, die Betreuungsaufgaben oder die Sicherheit erfordern, kann der Gefängnisarzt oder der beigezogene Spezialarzt die Gefangenenbetreuer informieren, wenn:
+<sup>2</sup> Soweit es die spezielle Situation der Zwangsgemeinschaft auf engem Raum, die Betreuungsaufgaben oder die Sicherheit erfordern, kann die Gefängnisärztin oder der Gefängnisarzt oder die beigezogene Spezialärztin oder der beigezogene Spezialarzt die Fachperson Justizvollzug informieren, wenn:
 
-- a) der Gefangene zustimmt;
-- b) er von der Aufsichtsbehörde von der Schweigepflicht entbunden wurde;
-- c) der Gefangene selbst oder Dritte akut und ernsthaft gefährdet sind.
+- a) die inhaftierte Person zustimmt;
+- b) sie oder er von der Aufsichtsbehörde von der Schweigepflicht entbunden wurde;
+- c) die inhaftierte Person selbst oder Dritte akut und ernsthaft gefährdet sind.
 
-<sup>3</sup> Der Arzt stellt sicher, dass Unberechtigte nicht Einsicht in die Krankengeschichte des Gefangenen nehmen können.
+<sup>3</sup> Die Ärztin oder der Arzt stellt sicher, dass Unberechtigte nicht Einsicht in die Krankengeschichte der inhaftierten Person nehmen können.
 
 #### Art. 36ter
 
 **Medikamente**
 
-<sup>1</sup> Besitz und Konsum von nicht vom Gefängnisarzt verschriebenen oder zugelassenen Medikamenten sind verboten.
+<sup>1</sup> Besitz und Konsum von nicht von der Gefängnisärztin oder vom Gefängnisarzt verschriebenen oder zugelassenen Medikamenten sind verboten.
 
-<sup>2</sup> Medikamente dürfen nur auf Anordnung und nach Weisung des Gefängnisarztes abgegeben werden. Die Einnahme der Medikamente erfolgt unter Aufsicht, sofern der Gefängnisarzt nicht eine andere Weisung erteilt hat. Die Gefängnisleitung stellt sicher, dass die Abgabe der Medikamente an die einzelnen Gefangenen jederzeit nachvollzogen werden kann.
+<sup>2</sup> Medikamente dürfen nur auf Anordnung und nach Weisung der Gefängnisärztin oder des Gefängnisarztes abgegeben werden. Die Einnahme der Medikamente erfolgt unter Aufsicht, sofern die Gefängnisärztin oder der Gefängnisarzt nicht eine andere Weisung erteilt hat. Die Gefängnisleitung stellt sicher, dass die Abgabe der Medikamente an die einzelnen inhaftierten Personen jederzeit nachvollzogen werden kann.
 
-<sup>3</sup> Bei Verweigerung der Medikamenteneinnahme klärt der Gefängnisarzt den Gefangenen über die Risiken auf. Lehnt der Gefangene die Einnahme der Medikamente weiter ab, wird dieser Wunsch respektiert, solange von einer freien Willensbestimmung und Urteilsfähigkeit ausgegangen werden kann. Vorbehalten bleibt eine Zwangsbehandlung nach [Art. 61](https://www.gesetzessammlung.sg.ch/data/962.1/de/art61) Abs. 2 des Einführungsgesetzes zur Schweizerischen Straf- und Jugendstrafprozessordnung vom 3. August 2010[^36ter-1]. Die Einweisung in ein Spital richtet sich nach Art. 36 dieses Erlasses.
+<sup>3</sup> Bei Verweigerung der Medikamenteneinnahme klärt die Gefängnisärztin oder der Gefängnisarzt die inhaftierte Person über die Risiken auf. Lehnt die inhaftierte Person die Einnahme der Medikamente weiter ab, wird dieser Wunsch respektiert, solange von einer freien Willensbestimmung und Urteilsfähigkeit ausgegangen werden kann. Vorbehalten bleibt eine Zwangsbehandlung nach [Art. 61](https://www.gesetzessammlung.sg.ch/data/962.1/de/art61) Abs. 2 des Einführungsgesetzes zur Schweizerischen Straf- und Jugendstrafprozessordnung vom 3. August 2010[^36ter-1]. Die Einweisung in ein Spital richtet sich nach Art. 36 dieses Erlasses.
 
 [^36ter-1]: sGS [962.1](https://www.gesetzessammlung.sg.ch/data/962.1/de).
 
@@ -480,22 +486,22 @@ als Verordnung:[^ingress-2]
 
 **Seelsorge**
 
-<sup>1</sup> Die seelsorgerische Betreuung der Gefangenen obliegt den von der katholischen und der evangelischen Kirche nach Anhörung der Gefängnisleitung bezeichneten Seelsorgern. Die Gefängnisleitung kann auf Gesuch des Gefangenen einen anderen Seelsorger zulassen, wenn dieser Gewähr bietet, dass er die Vertrauensstellung als Seelsorger nicht missbraucht, und die einweisende Stelle zustimmt sowie:
+<sup>1</sup> Die seelsorgerische Betreuung der inhaftierten Personen obliegt den von der katholischen und der evangelischen Kirche nach Anhörung der Gefängnisleitung bezeichneten Seelsorgerinnen und Seelsorgern. Die Gefängnisleitung kann auf Gesuch der inhaftierten Person eine andere Seelsorgerin oder einen anderen Seelsorger zulassen, wenn diese oder dieser Gewähr bietet, dass sie oder er die Vertrauensstellung als Seelsorgerin oder Seelsorger nicht missbraucht, und die einweisende Stelle zustimmt sowie:
 
-- a) der Gefangene einer anderen Religion angehört und seine seelsorgerischen Bedürfnisse durch die von der katholischen und der evangelischen Kirche bezeichneten Seelsorger nicht abgedeckt werden können oder
-- b) das Vertrauensverhältnis zwischen Seelsorger und Gefangenem nachhaltig gestört ist.
+- a) die inhaftierte Person einer anderen Religion angehört und ihre seelsorgerischen Bedürfnisse durch die von der katholischen und der evangelischen Kirche bezeichneten Seelsorgerinnen oder Seelsorger nicht abgedeckt werden können oder
+- b) das Vertrauensverhältnis zwischen Seelsorgerin oder Seelsorger und der inhaftierten Person nachhaltig gestört ist.
 
-<sup>2</sup> Der Gefangene kann beim Gefangenenbetreuer den Besuch eines Seelsorgers verlangen.
+<sup>2</sup> Die inhaftierte Person kann bei der Fachperson Justizvollzug den Besuch einer Seelsorgerin oder eines Seelsorgers verlangen.
 
-<sup>3</sup> Der Seelsorger leitet keine Mitteilungen und Gaben von Dritten für den Gefangenen oder vom Gefangenen weiter.
+<sup>3</sup> Die Seelsorgerin oder der Seelsorger leitet keine Mitteilungen und Gaben von Dritten für die inhaftierte Person oder von der inhaftierten Person weiter.
 
 #### Art. 38
 
 **Soziale Betreuung**
 
-<sup>1</sup> Die Bewährungshilfe St.Gallen sorgt für die soziale Betreuung der erwachsenen Gefangenen. Sie hilft bei der Lösung persönlicher Probleme im Zusammenhang mit dem Gefängnisaufenthalt, bei Abklärungen im Hinblick auf eine Massnahme oder bei der Vorbereitung der Entlassung.
+<sup>1</sup> Der Sozialdienst sorgt für die soziale Betreuung der inhaftierten Personen. Er hilft bei der Lösung persönlicher Probleme im Zusammenhang mit dem Gefängnisaufenthalt, bei Abklärungen im Hinblick auf eine Massnahme oder bei der Vorbereitung der Entlassung.
 
-<sup>2</sup> Der Gefangene kann beim Gefangenenbetreuer den Besuch eines Mitarbeiters der Bewährungshilfe St.Gallen verlangen. Bei Untersuchungsgefangenen ist der Besuch mit dem Untersuchungsrichter abzusprechen.
+<sup>2</sup> Die inhaftierte Person kann bei der Fachperson Justizvollzug den Besuch einer Mitarbeiterin oder eines Mitarbeiters des Sozialdienstes verlangen.
 
 ### VI. Verkehr mit der Aussenwelt
 
@@ -503,13 +509,13 @@ als Verordnung:[^ingress-2]
 
 **Postverkehr**
 
-<sup>1</sup> Der Postverkehr des Gefangenen in Untersuchungs-, Sicherheits- oder Auslieferungshaft unterliegt der Kontrolle durch die Verfahrensleitung. Der Postverkehr der Gefangenen im Straf- und Massnahmenvollzug sowie in ausländerrechtlicher Haft wird durch den Gefangenenbetreuer kontrolliert.
+<sup>1</sup> Der Postverkehr der inhaftierten Person in Untersuchungs-, Sicherheits- oder Auslieferungshaft unterliegt der Kontrolle durch die Verfahrensleitung. Der Postverkehr der inhaftierten Personen im (vorzeitigen) Straf- und Massnahmenvollzug sowie in ausländerrechtlicher Haft wird durch die Fachperson Justizvollzug kontrolliert.
 
-<sup>2</sup> Der Postverkehr mit Amtsstellen und dem Verteidiger wird inhaltlich nicht überprüft. Art. 235 Abs. 3 und 4 der Schweizerischen Strafprozessordnung (StPO) vom 5. Oktober 2007[^39-1] bleibt vorbehalten.
+<sup>2</sup> Der Postverkehr mit Amtsstellen und der Rechtsvertretung wird inhaltlich nicht überprüft. Art. 235 Abs. 3 und 4 der Schweizerischen Strafprozessordnung (StPO) vom 5. Oktober 2007[^39-1] bleibt vorbehalten.
 
-<sup>3</sup> Bei umfangreicher, nicht in deutscher Sprache abgefasster Korrespondenz kann die Weiterleitung von der Leistung eines Vorschusses für die Übersetzungskosten abhängig gemacht werden. Vorbehalten bleibt der nichtmissbräuchliche, fremdsprachige Briefverkehr des mittellosen Gefangenen.
+<sup>3</sup> Bei umfangreicher, nicht in deutscher Sprache abgefasster Korrespondenz kann die Weiterleitung von der Leistung eines Vorschusses für die Übersetzungskosten abhängig gemacht werden. Vorbehalten bleibt der nichtmissbräuchliche, fremdsprachige Briefverkehr der mittellosen inhaftierten Person.
 
-<sup>4</sup> Der Gefangene wird orientiert, wenn Postsendungen nicht weitergeleitet werden.
+<sup>4</sup> Die inhaftierte Person wird orientiert, wenn Postsendungen nicht weitergeleitet werden.
 
 [^39-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de).
 
@@ -517,39 +523,39 @@ als Verordnung:[^ingress-2]
 
 **Telefon**
 
-<sup>1</sup> Besitz und Benützung von privaten Kommunikationsgeräten wie Natels oder Funkrufempfänger sind verboten. Der Gefangene wird nicht ans Telefon gerufen.
+<sup>1</sup> Besitz und Benützung von privaten Kommunikationsgeräten wie Mobiltelefone oder Funkrufempfänger sind verboten. Die inhaftierte Person wird nicht ans Telefon gerufen.
 
-<sup>2</sup> Die einweisende Stelle oder, wenn sie nicht erreichbar ist, der Gefangenenbetreuer kann dem Gefangenen in besonderen Fällen die Benützung des Telefons erlauben. Das Gespräch kann aus Sicherheitsgründen überwacht werden.
+<sup>2</sup> Die einweisende Stelle oder, wenn sie nicht erreichbar ist, die Fachperson Justizvollzug kann der inhaftierten Person in besonderen Fällen die Benützung des Telefons erlauben. Das Gespräch kann aus Sicherheitsgründen überwacht werden.
 
 #### Art. 41
 
 **Besuch a) allgemein**
 
-<sup>1</sup> Besuche von Gefangenen in Untersuchungs-, Sicherheits- und Auslieferungshaft bedürfen der Bewilligung der Verfahrensleitung, Besuche von Strafgefangenen und Personen in ausländerrechtlicher Haft der Bewilligung der Gefängnisleitung. Die Bewilligung kann mit Auflagen verbunden werden.
+<sup>1</sup> Besuche von inhaftierten Personen in Untersuchungs-, Sicherheits- und Auslieferungshaft bedürfen der Bewilligung der Verfahrensleitung, Besuche von inhaftierten Personen im (vorzeitigen) Straf- oder Massnahmenvollzug und inhaftierten Personen in ausländerrechtlicher Haft der Bewilligung der Gefängnisleitung. Die Bewilligung kann mit Auflagen verbunden werden.
 
-<sup>2</sup> Nach einer Woche kann der Gefangene wöchentlich einen Besuch von wenigstens einer Stunde Dauer empfangen.
+<sup>2</sup> Nach einer Woche kann die inhaftierte Person wöchentlich einen Besuch von wenigstens einer Stunde empfangen.
 
-<sup>3</sup> Besprechungen mit dem Verteidiger, Gefängnisarzt, Seelsorger, Mitarbeiter der Bewährungshilfe, Beistand, Behördenvertreter oder konsularischen Vertreter des Heimatstaates werden nicht angerechnet. Sie können von der Verfahrensleitung oder der einweisenden Stelle nur bei Missbrauch oder Gefährdung der Sicherheit eingeschränkt oder untersagt werden.
+<sup>3</sup> Besprechungen mit der Rechtsvertretung, der Gefängnisärztin oder dem Gefängnisarzt, der Seelsorgerin oder dem Seelsorger, einer Mitarbeiterin oder einem Mitarbeiter des Sozialdienstes, der Beistandsperson, der Behördenvertretung oder der konsularischen Vertretung des Heimatstaates werden nicht angerechnet. Sie können von der Verfahrensleitung oder der einweisenden Stelle nur bei Missbrauch oder Gefährdung der Sicherheit eingeschränkt oder untersagt werden.
 
 #### Art. 42
 
 **b) Abwicklung**
 
-<sup>1</sup> Besuche sind in der Regel an Werktagen von 8.30 bis 11.00 Uhr und von 14.00 bis 17.00 Uhr möglich. Zeitpunkt und Dauer des Besuchs sind rechtzeitig mit dem Gefängnis abzusprechen. Der Gefangenenbetreuer bestimmt die Anzahl Besucher, die zusammen zugelassen werden.
+<sup>1</sup> Besuche sind in der Regel an Werktagen von 8.30 bis 11.00 Uhr und von 14.00 bis 17.00 Uhr möglich. Zeitpunkt und Dauer des Besuchs sind rechtzeitig mit dem Gefängnis abzusprechen. Die Fachperson Justizvollzug bestimmt die Anzahl der Besucherinnen und Besucher, die zusammen zugelassen werden.
 
-<sup>2</sup> Der Besucher weist sich auf Verlangen aus. Er darf dem Gefangenen nichts direkt übergeben oder von ihm entgegennehmen.
+<sup>2</sup> Die Besucherin oder der Besucher weist sich auf Verlangen aus. Der inhaftierten Person darf nichts direkt übergeben oder von ihr nichts entgegengenommen werden.
 
-<sup>3</sup> Besuche werden grundsätzlich in Räumen mit Trennscheibe durchgeführt. Vorbehalten bleiben Besuche durch die in Art. 41 Abs. 3 dieser Verordnung genannten Personen und besondere Regelungen für Personen in ausländerrechtlicher Haft. Die Gefängnisleitung kann bei längeren Gefängnisaufenthalten oder in besonderen Fällen Ausnahmen gestatten. Sie kann die Zulassung von Besuchen in Räumen ohne Trennscheibe davon abhängig machen, dass sich die Besucher einer Durchsuchung der Kleider und der mitgebrachten Gegenstände unterziehen.
+<sup>3</sup> Besuche werden grundsätzlich in Räumen mit Trennscheibe durchgeführt. Vorbehalten bleiben Besuche durch die in Art. 41 Abs. 3 dieser Verordnung genannten Personen und besondere Regelungen für Personen in ausländerrechtlicher Haft. Die Gefängnisleitung kann bei längeren Gefängnisaufenthalten oder in besonderen Fällen Ausnahmen gestatten. Sie kann die Zulassung von Besuchen in Räumen ohne Trennscheibe davon abhängig machen, dass sich die Besucherinnen und Besucher einer Durchsuchung der Kleider und der mitgebrachten Gegenstände unterziehen.
 
-<sup>4</sup> Die einweisende Stelle kann in begründeten Fällen die Überwachung des Besuchs anordnen. Sie stellt für die Überwachung eine mit dem Verfahren vertraute Person oder instruiert den Gefangenenbetreuer. Gespräche, die überwacht werden, sind verständlich zu führen. Beziehen sie sich auf ein hängiges Strafverfahren, kann der Besuch sofort abgebrochen werden.
+<sup>4</sup> Die einweisende Stelle kann in begründeten Fällen die Überwachung des Besuchs anordnen. Sie stellt für die Überwachung eine mit dem Verfahren vertraute Person oder instruiert die Fachperson Justizvollzug. Gespräche, die überwacht werden, sind verständlich zu führen. Beziehen sie sich auf ein hängiges Strafverfahren, kann der Besuch sofort abgebrochen werden.
 
 #### Art. 43
 
-**Urlaub**
+**Ausgang und Urlaub**
 
-<sup>1</sup> Die einweisende Stelle kann dem Strafgefangenen im Rahmen der Richtlinien der Ostschweizerischen Strafvollzugskommission Urlaube gewähren.
+<sup>1</sup> Die einweisende Stelle kann der inhaftierten Person im Straf- oder Massnahmenvollzug oder vorzeitigen Straf- und Massnahmenvollzug im Rahmen der Richtlinie der Konkordatskonferenz des Strafvollzugskonkordats der Nordwest- und Innerschweizer Kantone und der Ostschweizer Strafvollzugskommission betreffend die Ausgangs- und Urlaubsgewährung Ausgänge und Urlaube gewähren.
 
-<sup>2</sup> Urlaubsgesuche sind der Gefängnisleitung schriftlich unter Angabe des Grundes einzureichen. Diese leitet das Gesuch mit ihrer Stellungnahme an die einweisende Stelle weiter.
+<sup>2</sup> Ausgangs- und Urlaubsgesuche sind der Gefängnisleitung schriftlich unter Angabe des Grundes einzureichen. Diese leitet das Gesuch mit ihrer Stellungnahme an die einweisende Stelle weiter.
 
 ### VII. Halbgefangenschaft
 
@@ -557,7 +563,7 @@ als Verordnung:[^ingress-2]
 
 **Tagesablauf**
 
-<sup>1</sup> Der Halbgefangene kann das Gefängnis an Arbeitstagen zur Arbeitsaufnahme frühestens um 7.00 Uhr verlassen und hat spätestens um 19.00 Uhr zurückzukehren. Die einweisende Stelle kann nach Absprache mit der Gefängnisleitung andere Zeiten festlegen, wenn es die Arbeitszeiten des Gefangenen oder der Gefängnisbetrieb erfordern.
+<sup>1</sup> Die inhaftierte Person in Halbgefangenschaft kann das Gefängnis an Arbeitstagen zur Arbeitsaufnahme frühestens um 7.00 Uhr verlassen und kehrt spätestens um 19.00 Uhr zurück. Die einweisende Stelle kann nach Absprache mit der Gefängnisleitung andere Zeiten festlegen, wenn es die Arbeitszeiten der inhaftierten Person oder der Gefängnisbetrieb erfordern.
 
 <sup>2</sup> An Arbeitstagen werden keine Mahlzeiten abgegeben.
 
@@ -583,7 +589,7 @@ als Verordnung:[^ingress-2]
 - d) die Direktion in der Strafanstalt Saxerriet und im Massnahmenzentrum Bitzi;
 - e) die Heimleitung im Jugendheim Platanenhof.
 
-<sup>1<sup>bis</sup></sup> Die Disziplinargewalt kann in der Hausordnung an andere Leitungspersonen delegiert werden, wenn der Verstoss in deren Zuständigkeitsbereich erfolgt ist.
+<sup>1<sup>bis</sup></sup> Die Disziplinargewalt kann in der Hausordnung oder Gefängnisordnung an andere Leitungspersonen delegiert werden, wenn der Verstoss in deren Zuständigkeitsbereich erfolgt ist.
 
 <sup>2</sup> …
 
@@ -603,11 +609,11 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Arrest kann bei schweren oder wiederholten Disziplinarfehlern angeordnet werden.
 
-<sup>2</sup> Der Arrest und die besondere Sicherungsmassnahme nach [Art. 64b](https://www.gesetzessammlung.sg.ch/data/962.1/de/art64b) Abs. 2 Bst. e des Einführungsgesetzes zur Schweizerischen Straf- und Jugendstrafprozessordnung vom 3. August 2010[^48bis-1] werden in einer besonderen Zelle mit reduzierter Ausstattung vollzogen. Der Gefangene bleibt von Arbeit, Freizeitmöglichkeiten, Veranstaltungen, Einkauf und Aussenkontakten ausgeschlossen. Vorbehalten bleibt der Verkehr mit Behörden und dem Rechtsvertreter. Die ärztliche und soziale Betreuung sind gewährleistet.
+<sup>2</sup> Der Arrest und die besondere Sicherungsmassnahme nach [Art. 64b](https://www.gesetzessammlung.sg.ch/data/962.1/de/art64b) Abs. 2 Bst. e des Einführungsgesetzes zur Schweizerischen Straf- und Jugendstrafprozessordnung vom 3. August 2010[^48bis-1] werden in einer besonderen Zelle mit reduzierter Ausstattung vollzogen. Die inhaftierte Person bleibt von Arbeit, Freizeitmöglichkeiten, Veranstaltungen, Einkauf und Aussenkontakten ausgeschlossen. Vorbehalten bleibt der Verkehr mit Behörden und der Rechtsvertretung. Die ärztliche und soziale Betreuung ist gewährleistet.
 
-<sup>2<sup>bis</sup></sup> Die besondere Zelle kann mit einer Anlage visuell überwacht werden. Die Überwachung muss erkennbar sein. Der Gefangene wird über die Überwachung informiert. Seine Intimsphäre wird angemessen geschützt.
+<sup>2<sup>bis</sup></sup> Die besondere Zelle kann mit einer Anlage visuell überwacht werden. Die Überwachung muss erkennbar sein. Die inhaftierte Person wird über die Überwachung informiert. Ihre Intimsphäre wird angemessen geschützt.
 
-<sup>3</sup> Besteht in der Vollzugseinrichtung keine Möglichkeit für den Vollzug des Arrests oder der besonderen Sicherungsmassnahme, kann der Gefangene von der einweisenden Stelle auf Antrag der Leitung in eine andere Vollzugseinrichtung versetzt werden. In dringenden Fällen kann die Leitung der Vollzugseinrichtung die Versetzung anordnen. Die einweisende Stelle wird so bald als möglich orientiert.
+<sup>3</sup> Besteht in der Vollzugseinrichtung keine Möglichkeit für den Vollzug des Arrests oder der besonderen Sicherungsmassnahme, kann die inhaftierte Person von der einweisenden Stelle auf Antrag der Leitung in eine andere Vollzugseinrichtung versetzt werden. In dringenden Fällen kann die Leitung der Vollzugseinrichtung die Versetzung anordnen. Die einweisende Stelle wird so bald als möglich orientiert.
 
 [^48bis-1]: sGS [962.1](https://www.gesetzessammlung.sg.ch/data/962.1/de).
 
@@ -617,9 +623,9 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> …
 
-<sup>2</sup> Begeht der Gefangene während der Probezeit nach [Art. 64c](https://www.gesetzessammlung.sg.ch/data/962.1/de/art64c) Abs. 4 des Einführungsgesetzes zur Schweizerischen Straf- und Jugendstrafprozessordnung vom 3. August 2010[^48ter-1] einen neuen Disziplinarfehler oder hält er besondere Vereinbarungen nicht ein, wird die Disziplinarmassnahme vollzogen.
+<sup>2</sup> Begeht die inhaftierte Person während der Probezeit nach [Art. 64c](https://www.gesetzessammlung.sg.ch/data/962.1/de/art64c) Abs. 4 des Einführungsgesetzes zur Schweizerischen Straf- und Jugendstrafprozessordnung vom 3. August 2010[^48ter-1] einen neuen Disziplinarfehler oder hält sie besondere Vereinbarungen nicht ein, wird die Disziplinarmassnahme vollzogen.
 
-<sup>3</sup> In leichten Fällen kann der Gefangene verwarnt und die Probezeit höchstens um die Hälfte der ursprünglichen Dauer verlängert werden.
+<sup>3</sup> In leichten Fällen kann die inhaftierte Person verwarnt und die Probezeit höchstens um die Hälfte der ursprünglichen Dauer verlängert werden.
 
 [^48ter-1]: sGS [962.1](https://www.gesetzessammlung.sg.ch/data/962.1/de).
 
@@ -633,7 +639,7 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Richtet sich der Disziplinarfehler oder die Gefährdung gegen die Person, der die Verfügungsgewalt zukommt, tritt diese in den Ausstand.
 
-<sup>2</sup> Die Mitarbeiter melden Disziplinarfehler und Feststellungen, die auf eine Gefährdung der Sicherheit und Ordnung hinweisen.
+<sup>2</sup> Die Mitarbeiterinnen und Mitarbeiter melden Disziplinarfehler und Feststellungen, die auf eine Gefährdung der Sicherheit und Ordnung hinweisen.
 
 <sup>3</sup> …
 
@@ -641,9 +647,9 @@ als Verordnung:[^ingress-2]
 
 **b) vorsorgliche Massnahmen und Sicherstellung**
 
-<sup>1</sup> Der Inhaber der Disziplinargewalt oder die Leitungsperson, die Pikettdienst leistet, kann zur Sicherung der Ordnung in der Vollzugseinrichtung vorsorgliche Massnahmen treffen. Diese dauern längstens bis zum Erlass des Disziplinarentscheids.
+<sup>1</sup> Die Inhaberin oder der Inhaber der Disziplinargewalt oder die Leitungsperson, die Pikettdienst leistet, kann zur Sicherung der Ordnung in der Vollzugseinrichtung vorsorgliche Massnahmen treffen. Diese dauern längstens bis zum Erlass des Disziplinarentscheids.
 
-<sup>2</sup> Gegenstände, von denen eine Gefahr ausgeht oder die bei der Begehung von Disziplinarverstössen verwendet wurden, werden sichergestellt. Sie werden dem Eigentümer nach Abschluss des Verfahrens zurückgegeben. Kann das Eigentum nicht festgestellt werden oder gefährden die Gegenstände die Sicherheit und Ordnung weiter, werden sie verwertet oder vernichtet. Ein Verwertungserlös fliesst der Unterstützungskasse zu.
+<sup>2</sup> Gegenstände, von denen eine Gefahr ausgeht oder die bei der Begehung von Disziplinarverstössen verwendet wurden, werden sichergestellt. Sie werden der Eigentümerin oder dem Eigentümer nach Abschluss des Verfahrens zurückgegeben. Kann das Eigentum nicht festgestellt werden oder gefährden die Gegenstände die Sicherheit und Ordnung weiter, werden sie verwertet oder vernichtet. Ein Verwertungserlös fliesst der Unterstützungskasse zu.
 
 #### Art. 50
 
@@ -655,7 +661,7 @@ als Verordnung:[^ingress-2]
 
 <sup>2<sup>bis</sup></sup> Der Verkehr mit der Aussenwelt wird nur beschränkt oder verboten, wenn der Disziplinarfehler in Ausübung dieses Rechts begangen wurde.
 
-<sup>3</sup> Die Disziplinarverfügung wird dem Gefangenen mit kurzer Begründung und Rechtsmittelbelehrung schriftlich gegen Empfangsbescheinigung ausgehändigt und wenn nötig erläutert. Bei zeitlicher Dringlichkeit wird die Verfügung mündlich eröffnet und so bald als möglich schriftlich bestätigt. Die einweisende Stelle erhält eine Abschrift der Verfügung.
+<sup>3</sup> Die Disziplinarverfügung wird der inhaftierten Person mit kurzer Begründung und Rechtsmittelbelehrung schriftlich gegen Empfangsbescheinigung ausgehändigt und wenn nötig erläutert. Bei zeitlicher Dringlichkeit wird die Verfügung mündlich eröffnet und so bald als möglich schriftlich bestätigt. Die einweisende Stelle erhält eine Abschrift der Verfügung.
 
 #### Art. 50bis
 
