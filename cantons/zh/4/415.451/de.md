@@ -4,10 +4,10 @@ number: "415.451"
 title: Organisationsreglement der Philosophischen Fakultät der Universität Zürich (OrgR PhF)
 short: OrgR PhF
 language: de
-nachtrag: "126"
-valid_until: 2025-08-01
+version: "2025-08-01"
+nachtrag: "130"
 adopted: 2023-12-01
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_451-2023_12_01-2024_08_01-126.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_451-2023_12_01-2024_08_01-130.html"
 text: pdf
 ---
 
@@ -61,7 +61,7 @@ vorstand
 
 **1**
 
-1.10. 24 - 126
+1.10. 25 - 130
 
 <sup>2</sup> Dazu kommt eine Anzahl von Delegierten jedes Standes, die 5% der Anzahl der Professorinnen und der Professoren entspricht, mindestens aber je zwei Delegierten.
 
@@ -105,7 +105,7 @@ vorstand
 
 - 8\. den Erlass des Organisationsreglements der Fakultät, der Verordnung über die Titularprofessur, der Habilitationsordnung, der Studienordnungen und der Verordnungen über die Weiterbildungsstudiengänge, jeweils unter Vorbehalt der Genehmigung durch die Erweiterte Universitätsleitung,
 
-- 9\. den Erlass der Doktoratsordnung.
+- 9\. den Erlass der Doktoratsordnung, 10.<sup>6</sup> den Erlass von weiteren Richtlinien und Reglementen, die von Ziff. 8 und 9 nicht erfasst werden.
 
 #### § 6
 
@@ -153,7 +153,7 @@ vorstand
 
 **3**
 
-1.10. 24 - 126
+1.10. 25 - 130
 
 ### C. Fakultätsvorstand
 
@@ -245,7 +245,7 @@ und Prodekane
 
 **5**
 
-1.10. 24 - 126 § 16. <sup>1</sup> Die Dekanin oder der Dekan erfüllt die ihr oder ihm zugewiesenen Aufgaben und Verantwortlichkeiten insbesondere gemäss Universitätsgesetz, Universitätsordnung der Universität Zürich, Finanzhandbuch der Universität Zürich\* und Personalverordnung der Universität Zürich vom 29. September 2014<sup>5</sup>.
+1.10. 25 - 130 § 16. <sup>1</sup> Die Dekanin oder der Dekan erfüllt die ihr oder ihm zugewiesenen Aufgaben und Verantwortlichkeiten insbesondere gemäss Universitätsgesetz, Universitätsordnung der Universität Zürich, Finanzhandbuch der Universität Zürich\* und Personalverordnung der Universität Zürich vom 29. September 2014<sup>5</sup>.
 
 **Zuständigkeit**
 
@@ -341,7 +341,7 @@ Die Prodekaninnen und Prodekane werden auf Antrag der designierten Dekanin oder 
 
 **7**
 
-1.10. 24 - 126
+1.10. 25 - 130
 
 ### 4. Abschnitt: Studienprogrammdirektorinnen und -direktoren sowie Modulverantwortliche
 
@@ -433,7 +433,7 @@ Die Traktandenlisten und Sitzungsunterlagen für die Fakultätsversammlung und d
 
 **9**
 
-1.10. 24 - 126
+1.10. 25 - 130
 
 ### 2. Abschnitt: Abstimmungen und Wahlen
 
@@ -517,7 +517,7 @@ und Archivierung
 
 **Archivierung**
 
-1.10. 24 - 126 § 40. Das Dekanat bewahrt Akten für einen Zeitraum von zehn Jahren auf. Danach werden die Akten dem Universitätsarchiv übergeben.
+1.10. 25 - 130 § 40. Das Dekanat bewahrt Akten für einen Zeitraum von zehn Jahren auf. Danach werden die Akten dem Universitätsarchiv übergeben.
 
 ## Weitere Fussnoten
 
@@ -527,3 +527,4 @@ und Archivierung
 - [3] LS 415.11.
 - [4] LS 415.111.
 - [5] LS 415.21.
+- [6] Eingefügt durch B vom 21. Februar 2025 (OS 80, 176; ABl 2025-05-16). In Kraft seit 1. August 2025.
