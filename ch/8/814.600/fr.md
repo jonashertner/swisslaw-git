@@ -4,11 +4,11 @@ title: "Ordonnance du 4 décembre 2015 sur la limitation et l'élimination des d
 short: OLED
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/891"
 language: fr
-version: 2025-04-22
+version: 2025-08-01
 adopted: 2015-12-04
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20250422/fr/xml/fedlex-data-admin-ch-eli-cc-2015-891-20250422-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20250422/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20250801/fr/xml/fedlex-data-admin-ch-eli-cc-2015-891-20250801-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20250801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20250422/fr"
 
 (Ordonnance sur les déchets, OLED)
 
-du 4 décembre 2015 (État le 22 avril 2025)
+du 4 décembre 2015 (État le 1<sup>er</sup> août 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,8 +25,8 @@ vu les art. 29, 30*a*, let. c, 30*b*, al. 1, 30*c*, al. 3, 30*d*, let. a, 30*h*,
 
 arrête:
 
-[^ingress-1]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^ingress-2]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^ingress-1]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^ingress-2]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
 
 ## Chapitre 1 But, champ d’application et définitions
 
@@ -87,9 +87,9 @@ Au sens de la présente ordonnance, on entend par:
   - 2\. qui sont économiquement supportables pour une entreprise moyenne et économiquement saine de la branche considérée.
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
-[^3-2]: [RS 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
+[^3-2]: [RS 814.610](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9575)
 [^3-3]: Introduite par le ch. II 1 de l’O du 25 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)).
-[^3-4]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^3-4]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 [^3-5]: Abrogée par le ch. I de l’O du 12 fév. 2020, avec effet au 1<sup>er</sup> avr. 2020 ([RO 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
 
 ## Chapitre 2 Planification et rapports
@@ -107,16 +107,18 @@ Les cantons établissent pour leur territoire un plan de gestion des déchets. C
 - c. les besoins en installations pour l’élimination des déchets urbains et d’autres déchets dont l’élimination est confiée aux cantons;
 - d. les besoins en volume de stockage définitif et les sites des décharges (plan de gestion des décharges);
 - e. les zones d’apport nécessaires;
-- f.[^4-1] les mesures visant à utiliser le potentiel énergétique des déchets issu de leur traitement thermique.
+- f.[^4-1] les mesures visant à utiliser le potentiel énergétique des déchets issu de leur traitement thermique;
+- g.[^4-2] les mesures à prendre en cas d’interruption d’exploitation des installations d’incinération des déchets urbains et des déchets de composition analogue; notamment en ce qui concerne l’élimination ou le stockage provisoire de ces déchets. Les cantons et les installations d’incinération des déchets urbains assurent ensemble la possibilité d’un stockage provisoire d’au moins trois mois.
 
-<sup>2</sup> Ils se consultent pour établir leurs plans de gestion des déchets, en particulier pour les domaines énumérés à l’al. 1, let. c à f, et définissent au besoin des régions de planification supracantonales.[^4-2]
+<sup>2</sup> Les cantons se consultent pour établir leurs plans de gestion des déchets, en particulier pour les domaines énumérés à l’al. 1, let. c à g, et définissent au besoin des régions de planification supracantonales.[^4-3]
 
 <sup>3</sup> Ils vérifient leurs plans tous les cinq ans et les adaptent si nécessaire.
 
 <sup>4</sup> Ils transmettent leurs plans et les révisions totales à l’Office fédéral de l’environnement (OFEV).
 
 [^4-1]: Introduite par le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
-[^4-2]: Nouvelle teneur selon le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
+[^4-2]: Introduite par le ch. I de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
+[^4-3]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
 
 #### Art. 5
 
@@ -308,7 +310,7 @@ Les matériaux terreux issus du décapage de la couche supérieure et de la couc
 
 <sup>2</sup> La valorisation des matériaux terreux issus du décapage de la couche supérieure et de la couche sous-jacente du sol doit se faire conformément aux art. 6 et 7 OSol.
 
-[^18-1]: [RS 814.12](https://fedlex.data.admin.ch/eli/cc/1998/1854_1854_1854)
+[^18-1]: [RS 814.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9475)
 
 #### Art. 19
 
@@ -341,18 +343,22 @@ Les matériaux d’excavation et de percement qui ne satisfont pas aux exigences
 
 [^19-1]: Nouvelle teneur selon le ch. I de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
 [^19-2]: Nouvelle teneur selon le ch. I de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
-[^19-3]: [RS 814.680](https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261)
+[^19-3]: [RS 814.680](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9581)
 [^19-4]: Nouvelle teneur selon le ch. I de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
 
 #### Art. 20
 
-**Déchets minéraux provenant de la démolition d’ouvrages construits**
+**Déchets minéraux provenant de la déconstruction d’ouvrages[^20-1]**
 
-<sup>1</sup> Les matériaux bitumineux de démolition dont la teneur en HAP ne dépasse pas 250 mg par kg, les matériaux non bitumineux de démolition des routes, les matériaux de démolition non triés et les tessons de tuiles doivent autant que possible être valorisés intégralement comme matières premières pour la fabrication de matériaux de construction.
+<sup>1</sup> Les matériaux bitumineux de démolition dont la teneur en HAP ne dépasse pas 250 mg par kg, le béton de démolition, les matériaux non bitumineux de démolition des routes, les matériaux de démolition non triés, les déblais de voie et les tessons de tuiles doivent autant que possible être valorisés intégralement comme matières premières pour la fabrication de matériaux de construction.[^20-2]
 
 <sup>2</sup> Il est interdit de valoriser les matériaux bitumineux de démolition dont la teneur en HAP dépasse 250 mg par kg.
 
-<sup>3</sup> Le béton de démolition doit autant que possible être valorisé intégralement comme matière première pour la fabrication de matériaux de construction ou comme matériau de construction dans les décharges.
+<sup>3</sup> …[^20-3]
+
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
+[^20-2]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
+[^20-3]: Abrogé par le ch. I de l’O du 25 juin 2025, avec effet au 1<sup>er</sup> août 2025 ([RO 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
 
 #### Art. 21
 
@@ -384,11 +390,11 @@ Les laitiers d’aciérie électrique ne peuvent être valorisés qu’avec l’
 
 **Valorisation de déchets dans la fabrication de ciment et de béton**
 
-<sup>1</sup> Les déchets peuvent être utilisés comme matières premières, agents de correction du cru, combustibles, ajouts ou adjuvants lors de la fabrication de ciment et de béton, à condition qu’ils satisfassent aux exigences de l’annexe 4. Les déchets urbains mélangés et les déchets urbains mélangés puis triés ultérieurement ne peuvent pas être utilisés comme matières premières ou comme combustibles.[^24-1]
+<sup>1</sup> Les déchets peuvent être utilisés comme matières premières, agents de correction du cru, combustibles, ajouts ou adjuvants lors de la fabrication de ciment et de béton, à condition qu’ils satisfassent aux exigences de l’annexe 4. Les déchets urbains mélangés et les déchets urbains mélangés puis triés ultérieurement ne peuvent pas être utilisés comme matières premières ou comme combustibles. Les résidus de tri qui sont issus du traitement de déchets urbains collectés séparément et qui ne peuvent pas faire l’objet d’une valorisation matière peuvent être utilisés comme combustibles dans la fabrication de ciment et de béton.[^24-1]
 
 <sup>2</sup> Les poussières issues de la filtration des effluents gazeux provenant d’installations de fabrication de clinker de ciment doivent être valorisées sous forme d’ajouts dans le broyage du clinker de ciment ou d’adjuvants dans la fabrication de ciment. La teneur en métaux lourds du ciment ainsi fabriqué ne doit pas dépasser les valeurs limites fixées dans l’annexe 4, ch. 3.2.
 
-[^24-1]: Nouvelle teneur de la phrase selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> nov. 2018 ([RO 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)).
+[^24-1]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
 
 ### Section 4 Stockage définitif de déchets
 
@@ -438,7 +444,7 @@ Les détenteurs d’installations d’élimination des déchets doivent:
 - b. contrôler les déchets à leur réception pour s’assurer que seuls des déchets autorisés sont éliminés dans les installations;
 - c. éliminer dans le respect de l’environnement les résidus produits dans les installations;
 - d. veiller à ce que le potentiel énergétique des déchets soit exploité autant que possible lors de leur élimination;
-- e.[^27-2] tenir un inventaire sur les quantités acceptées des catégories de déchets énumérées dans l’annexe 1, en précisant leur origine, ainsi que sur les résidus produits dans les installations et les émissions en émanant, et remettre cet inventaire à l’autorité chaque année; sont exceptés les dépôts provisoires visés aux art. 29 et 30;
+- e.[^27-2] tenir un inventaire sur les quantités de déchets éliminées, en précisant leur origine, ainsi que sur les résidus produits dans les installations et les émissions en émanant, et remettre cet inventaire à l’autorité chaque année; sont exceptés les dépôts provisoires visés aux art. 29 et 30;
 - f. veiller à ce qu’eux-mêmes et leur personnel disposent des connaissances techniques nécessaires pour exploiter les installations dans les règles de l’art, et produire, à la demande de l’autorité, les certificats de formation et de formation continue correspondants;
 - g. contrôler régulièrement les installations et en assurer la maintenance, en particulier vérifier, par des mesures des émissions, si les exigences de la législation sur la protection de l’environnement et sur la protection des eaux sont respectées;
 - h. s’assurer, s’il s’agit d’installations mobiles, que sont traités uniquement des déchets provenant du lieu où elles sont utilisées.
@@ -446,7 +452,7 @@ Les détenteurs d’installations d’élimination des déchets doivent:
 <sup>2</sup> Les détenteurs d’installations d’élimination des déchets où sont éliminées plus de 100 t de déchets par an doivent établir un règlement d’exploitation explicitant notamment les exigences posées à l’exploitation des installations. Ils soumettent le règlement à l’autorité pour avis.
 
 [^27-1]: Erratum du 19 juil. 2016 ([RO 2016 2629](https://fedlex.data.admin.ch/eli/oc/2016/417)).
-[^27-2]: Nouvelle teneur selon le ch. I de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
+[^27-2]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
 
 #### Art. 28
 
@@ -519,11 +525,13 @@ Les détenteurs d’installations doivent les exploiter:
 - d.[^32-3] de sorte que les déchets liquides dont le point d’éclair est inférieur à 60 °C et les déchets spéciaux infectieux soient séparés des autres déchets et amenés le plus directement possible dans la chambre où a lieu le traitement thermique;
 - e. de sorte que la teneur des mâchefers en imbrûlés, exprimée en carbone organique total (COT), n’excède pas 2 % en poids;
 - f. de sorte que, en cas de dérangement, le traitement de tous les déchets qui se trouvent dans la chambre de traitement thermique puisse être achevé;
-- g. de sorte que, s’il s’agit d’installations où sont incinérés des déchets urbains ou des déchets de composition analogue, les métaux contenus dans les cendres volantes soient récupérés.
+- g. de sorte que, s’il s’agit d’installations où sont incinérés des déchets urbains ou des déchets de composition analogue, les métaux contenus dans les cendres volantes soient récupérés;
+- h.[^32-4] de sorte que, si l’approvisionnement en moyens nécessaires à l’exploitation est interrompu, ils disposent d’une réserve qui garantisse la poursuite de l’exploitation courante pour une durée de deux mois au moins.
 
 [^32-1]: Nouvelle teneur selon le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 [^32-2]: Nouvelle teneur selon le ch. I de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
 [^32-3]: Nouvelle teneur selon le ch. I de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
+[^32-4]: Introduite par le ch. I de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
 
 ### Section 4 Installations de compostage et de méthanisation
 
@@ -558,8 +566,8 @@ Les biodéchets emballés ne peuvent être décomposés ou méthanisés dans des
 
 <sup>3</sup> Au surplus, les dispositions de l’OEng et de l’ORRChim[^34-2] concernant le compost et le digestat s’appliquent.
 
-[^34-1]: [[RO 2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105); [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)annexe ch. 3, [4793](https://fedlex.data.admin.ch/eli/oc/2003/703)ch. I 7, [4923](https://fedlex.data.admin.ch/eli/oc/2003/727); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)ch. II 18; [2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)annexe 5 ch. 12; [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)annexe ch. 3; [2011 2403](https://fedlex.data.admin.ch/eli/oc/2011/348), [2699](https://fedlex.data.admin.ch/eli/oc/2011/372)annexe 8 ch. II 3; [2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724); [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)annexe 6 ch. 7; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)annexe ch. 8; [2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681); [2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)annexe ch. 4; [2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686); [2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)annexe ch. 2. [RO 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)annexe 5 ch. I]. Voir actuellement l’O du 1<sup>er</sup> nov. 2023 ([RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)).
-[^34-2]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^34-1]: [[RO 2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105); [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)annexe ch. 3, [4793](https://fedlex.data.admin.ch/eli/oc/2003/703)ch. I 7, [4923](https://fedlex.data.admin.ch/eli/oc/2003/727); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)ch. II 18; [2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)annexe 5 ch. 12; [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)annexe ch. 3; [2011 2403](https://fedlex.data.admin.ch/eli/oc/2011/348), [2699](https://fedlex.data.admin.ch/eli/oc/2011/372)annexe 8 ch. II 3; [2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724); [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)annexe 6 ch. 7; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)annexe ch. 8; [2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681); [2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)annexe ch. 4; [2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686); [2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)annexe ch. 2. [RO 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)annexe 5 ch. I]. Voir actuellement l’O du 1<sup>er</sup> nov. 2023 ([RS 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)).
+[^34-2]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 ### Section 5 Décharges
 
@@ -739,7 +747,7 @@ Le détenteur d’une décharge ou d’un compartiment doit, durant toute la dur
 
 L’OFEV prescrit les modèles de géodonnées et les modèles de représentation minimaux pour les géodonnées de base visées par la présente ordonnance, lorsqu’il est désigné comme service spécialisé de la Confédération dans l’annexe 1 de l’ordonnance du 21 mai 2008 sur la géoinformation[^45-1].
 
-[^45-1]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^45-1]: [RS 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 
 #### Art. 46
 
@@ -812,7 +820,7 @@ Les matériaux bitumineux de démolition dont la teneur en HAP dépasse 250 mg p
 Les cendres volantes et les poussières de filtres issues du traitement thermique de bois qui n’est pas réputé bois de chauffage en vertu de l’annexe 5, ch. 31, al. 2, de l’ordonnance du 16 décembre 1985 sur la protection de l’air (OPair)[^52a-2] peuvent être stockées définitivement dans des décharges de type D ou E (annexe 5, ch. 4.1 et 5.1) jusqu’au 31 décembre 2025.
 
 [^52a-1]: Introduit par le ch. I de l’O du 21 sept. 2018 ([RO 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)). Nouvelle teneur selon le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
-[^52a-2]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^52a-2]: [RS 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
 
 #### Art. 52b
 
@@ -836,7 +844,7 @@ Les résidus du traitement thermique des déchets doivent contenir aussi peu de 
 
 <sup>5</sup> Le détenteur d’une décharge ou d’un compartiment dotés d’une installation de dégazage doit les faire contrôler régulièrement par un spécialiste jusqu’à la fin de la durée d’exploitation et analyser les gaz de décharge au moins deux fois par an.
 
-[^53-1]: [RS 814.680](https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261)
+[^53-1]: [RS 814.680](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9581)
 
 #### Art. 54
 
@@ -844,11 +852,12 @@ Les résidus du traitement thermique des déchets doivent contenir aussi peu de 
 
 <sup>1</sup> Les installations d’élimination des déchets autres que des décharges et des compartiments qui ont été mises en service avant l’entrée en vigueur de la présente ordonnance doivent répondre aux exigences de la présente ordonnance qui se rapportent à des adaptations constructives au plus tard le 31 décembre 2020. Les autres exigences sont applicables dès l’entrée en vigueur de la présente ordonnance. Sont réservées les dispositions des al. 2 et 3.
 
-<sup>2</sup> L’obligation énoncée à l’art. 32, al. 2, let. a, d’exploiter au moins 55 % du potentiel énergétique des déchets urbains et des déchets de composition analogue dans des installations de traitement thermique des déchets s’applique à partir du 1<sup>er</sup> janvier 2026.
+<sup>2</sup> L’obligation énoncée à l’art. 32, al. 2, let. a, d’exploiter au moins 55 % du potentiel énergétique des déchets urbains et des déchets de composition analogue dans des installations de traitement thermique des déchets s’applique à partir du 1<sup>er</sup> janvier 2026. Pour les installations qui seront mises à l’arrêt d’ici au 31 décembre 2035, l’OFEV peut accorder, sur demande, une dérogation au canton et à l’exploitant.[^54-1]
 
-<sup>3</sup> L’obligation énoncée à l’art. 32, al. 2, let. g, de récupérer les métaux contenus dans les cendres volantes résultant du traitement des déchets urbains et des déchets de composition analogue s’applique à partir du 1<sup>er</sup> janvier 2026. Jusqu’à cette date, les cendres volantes peuvent être stockées définitivement, sous une forme conglomérée par des liants hydrauliques, dans des décharges ou des compartiments du type C sans récupération des métaux, à condition que les capacités de traitement disponibles pour la récupération soient toutes épuisées.[^54-1]
+<sup>3</sup> L’obligation énoncée à l’art. 32, al. 2, let. g, de récupérer les métaux contenus dans les cendres volantes résultant du traitement des déchets urbains et des déchets de composition analogue s’applique à partir du 1<sup>er</sup> janvier 2026. Jusqu’à cette date, les cendres volantes peuvent être stockées définitivement, sous une forme conglomérée par des liants hydrauliques, dans des décharges ou des compartiments du type C sans récupération des métaux, à condition que les capacités de traitement disponibles pour la récupération soient toutes épuisées.[^54-2]
 
-[^54-1]: Nouvelle teneur selon le ch. I de l’O du 11 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6283](https://fedlex.data.admin.ch/eli/oc/2020/1029)).
+[^54-1]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
+[^54-2]: Nouvelle teneur selon le ch. I de l’O du 11 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6283](https://fedlex.data.admin.ch/eli/oc/2020/1029)).
 
 ### Section 4 Entrée en vigueur
 
@@ -862,7 +871,7 @@ Annexe 1[^t-1]
 
 ## Catégories de déchets
 
-[^t-1]: Mise à jour par le ch. II des O du 21 sept. 2018 ([RO 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)) et du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
+[^t-1]: Mise à jour par le ch. II des O du 21 sept. 2018 ([RO 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)), du 23 fév. 2022 ([RO 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)) et du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
 
 <table>
 <tr><th>Code</th><th>Description des déchets</th></tr>
@@ -956,7 +965,6 @@ Annexe 1[^t-1]
 <tr><td>7301</td><td>Boues d’épuration provenant de la station d’épuration des eaux usées communale et boues de fosses septiques</td></tr>
 <tr><td>7302</td><td>Boues et résidus de traitement non soumis à contrôle selon l’OMoD</td></tr>
 <tr><td>7303</td><td>Boues et résidus de traitement combustibles</td></tr>
-<tr><td>7304</td><td>Matériaux fins résultant du tri des déchets de construction</td></tr>
 <tr><td></td><td>Catégorie 8: autres catégories de déchets</td></tr>
 <tr><td>8101</td><td>Déchets spéciaux provenant des postes de collecte communaux et d’autres postes de collecte</td></tr>
 <tr><td>8301</td><td>Balayures de route</td></tr>
@@ -1001,8 +1009,8 @@ Annexe 2[^t-2]
 - 1\.1.5 Si une dérogation a été accordée en vertu du ch. 1.1.3, le volume supplémentaire de stockage définitif doit être créé dans un premier temps par un agrandissement vertical du corps de décharge existant. Dans un deuxième temps, l’autorité peut autoriser un agrandissement horizontal s’il est prouvé qu’un agrandissement vertical ne suffit pas à combler le besoin en volume supplémentaire.
 - 1\.1.6 L’autorité cantonale communique à l’OFEV les dérogations accordées en vertu du ch. 1.1.3.
 
-[^annex2-lvlu1-lvl1-lvl11-1]: [RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
-[^annex2-lvlu1-lvl1-lvl11-2]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^annex2-lvlu1-lvl1-lvl11-1]: [RS 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
+[^annex2-lvlu1-lvl1-lvl11-2]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
 
 ### 1.2 Sous-sol
 
@@ -1183,7 +1191,7 @@ Annexe 4[^t-4]
 
 ## Exigences relatives aux déchets utilisés pour la fabrication de ciment et de béton
 
-[^t-4]: Mise à jour par l’erratum du 3 oct. 2017 ([RO 2017 5137](https://fedlex.data.admin.ch/eli/oc/2017/561)), le ch. II de l’O du 12 fév. 2020 ([RO 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)) et le ch. III de l’O du 20 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
+[^t-4]: Mise à jour par l’erratum du 3 oct. 2017 ([RO 2017 5137](https://fedlex.data.admin.ch/eli/oc/2017/561)), le ch. II de l’O du 12 fév. 2020 ([RO 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)), le ch. III de l’O du 20 oct. 2021 ([RO 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)) et le ch. II de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
 
 ### 1 Utilisation de déchets comme matières premières ou agents de correction du cru
 
@@ -1259,7 +1267,7 @@ Annexe 4[^t-4]
 <tr><td>Étain</td><td>50</td></tr>
 </table>
 
-[^annex4-lvlu1-lvl1-1]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^annex4-lvlu1-lvl1-1]: [RS 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
 
 ### 2 Utilisation des déchets comme combustibles
 
@@ -1334,7 +1342,8 @@ Annexe 4[^t-4]
   - d. les cendres issues du traitement thermique du bois;
   - e. le granulat de laitiers de hauts-fourneaux issu de la fabrication du fer;
   - f. d’autres déchets, à condition que les valeurs limites fixées à l’annexe 3, ch. 2, let. c, soient respectées;
-  - g. les laitiers d’aciérie électrique issus de la fabrication d’aciers non alliés ou faiblement alliés datant d’après 1989.
+  - g. les laitiers d’aciérie électrique issus de la fabrication d’aciers non alliés ou faiblement alliés datant d’après 1989;
+  - h. le béton de démolition et les matériaux de démolition non triés ainsi que leurs fractions valorisables.
 
 - 3\.2 Il est en outre permis d’utiliser les poussières issues du filtrage des effluents gazeux émis par des installations de fabrication de clinker de ciment comme ajouts ou adjuvants pour la fabrication de ciment, à condition que la teneur en métaux lourds du ciment obtenu ne dépasse pas les valeurs limites suivantes:
 
@@ -1356,7 +1365,7 @@ Annexe 5[^t-5]
 
 ## Exigences relatives aux déchets mis en décharge
 
-[^t-5]: Mise à jour par l’erratum du 3 oct. 2017 ([RO 2017 5137](https://fedlex.data.admin.ch/eli/oc/2017/561)), le ch. II des O du 21 sept. 2018 ([RO 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)), du 23 fév. 2022 ([RO 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)) et l’erratum du 26 sept. 2023 ([RO 2023 543](https://fedlex.data.admin.ch/eli/oc/2023/543)).
+[^t-5]: Mise à jour par l’erratum du 3 oct. 2017 ([RO 2017 5137](https://fedlex.data.admin.ch/eli/oc/2017/561)), le ch. II des O du 21 sept. 2018 ([RO 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)), du 23 fév. 2022 ([RO 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)), l’erratum du 26 sept. 2023 ([RO 2023 543](https://fedlex.data.admin.ch/eli/oc/2023/543)) et le ch. II de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
 
 ### 1 Déchets admis dans les décharges de type A
 
@@ -1369,7 +1378,7 @@ Annexe 5[^t-5]
   - c. les matériaux terreux issus du décapage de la couche supérieure et de la couche sous-jacente du sol lorsqu’ils ne dépassent pas les valeurs indicatives selon les annexes 1 et 2 de l’OSol[^annex5-lvlu1-lvl1-1];
   - d. le gravier retenu par les bassins de rétention de matériaux charriés.
 
-[^annex5-lvlu1-lvl1-1]: [RS 814.12](https://fedlex.data.admin.ch/eli/cc/1998/1854_1854_1854)
+[^annex5-lvlu1-lvl1-1]: [RS 814.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9475)
 
 ### 2 Déchets admis dans les décharges de type B
 
@@ -1585,7 +1594,7 @@ Test 2
 
 - b. la valeur limite de 0,02 mg de cyanure (libre) par litre n’est pas dépassée dans le lixiviat des déchets; à cet effet, les déchets sont soumis à un test de lixiviation dans de l’eau distillée pendant 24 heures.
 
-[^annex5-lvlu1-lvl4-1]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^annex5-lvlu1-lvl4-1]: [RS 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
 
 ### 5 Déchets admis dans les décharges de type E
 
@@ -1594,7 +1603,7 @@ Test 2
   Dans les décharges et les compartiments de type E, il est permis de stocker définitivement les déchets suivants:
 
   - a. les résidus du traitement des déchets de dessablage provenant du nettoyage des canalisations;
-  - b. les déchets résultant de crues ou d’incendies, s’ils ont fait l’objet d’un tri sommaire et qu’une autre forme d’élimination n’est pas possible à des coûts raisonnables;
+  - b. les déchets résultant de crues ou d’incendies, s’ils ont fait l’objet d’un tri sommaire et qu’une autre forme d’élimination n’est pas possible moyennant un effort proportionné;
   - c. la fraction fine non combustible des résidus issus du traitement mécanique à sec des déchets de chantier, à condition que les valeurs limites du ch. 5.2, let. a, pour les PCB et les HAP ne soient pas dépassées;
   - d. les déchets de chantier non combustibles en matériaux composites;
   - e. les déchets contenant de l’amiante.

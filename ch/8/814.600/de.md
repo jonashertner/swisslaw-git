@@ -4,11 +4,11 @@ title: "Verordnung vom 4. Dezember 2015 über die Vermeidung und die Entsorgung 
 short: VVEA
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/891"
 language: de
-version: 2025-04-22
+version: 2025-08-01
 adopted: 2015-12-04
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20250422/de/xml/fedlex-data-admin-ch-eli-cc-2015-891-20250422-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20250422/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20250801/de/xml/fedlex-data-admin-ch-eli-cc-2015-891-20250801-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20250801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20250422/de"
 
 (Abfallverordnung, VVEA)
 
-vom 4. Dezember 2015 (Stand am 22. April 2025)
+vom 4. Dezember 2015 (Stand am 1. August 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf die Artikel 29, 30*a* Buchstabe c, 30*b* Absatz 1, 30*c* Absatz 3,
 
 verordnet:
 
-[^ingress-1]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^ingress-2]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^ingress-1]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^ingress-2]: [SR 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
 
 ## 1. Kapitel: Zweck, Geltungsbereich und Begriffe
 
@@ -87,9 +87,9 @@ In dieser Verordnung bedeuten:
   - 2\. für einen mittleren und wirtschaftlich gesunden Betrieb der betreffenden Branche wirtschaftlich tragbar ist.
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 12. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
-[^3-2]: [SR 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
+[^3-2]: [SR 814.610](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9575)
 [^3-3]: Eingefügt durch Ziff. II 1 der V vom 25. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)).
-[^3-4]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^3-4]: [SR 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 [^3-5]: Aufgehoben durch Ziff. I der V vom 12. Febr. 2020, mit Wirkung seit 1. April 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
 [^3-6]: Die Berichtigung vom 19. Juli 2016 betrifft nur den italienischen Text ([AS 2016 2629](https://fedlex.data.admin.ch/eli/oc/2016/417)).
 
@@ -108,16 +108,18 @@ Die Kantone erstellen für ihr Gebiet eine Abfallplanung. Sie umfasst insbesonde
 - c. den Bedarf an Anlagen zur Entsorgung von Siedlungsabfällen und anderen Abfällen, deren Entsorgung den Kantonen übertragen ist;
 - d. den Bedarf an Deponievolumen und die Standorte von Deponien (Deponieplanung);
 - e. die notwendigen Einzugsgebiete;
-- f.[^4-1] die Massnahmen zur Nutzung des Energiegehalts der Abfälle aus deren thermischer Behandlung.
+- f.[^4-1] die Massnahmen zur Nutzung des Energiegehalts der Abfälle aus deren thermischer Behandlung;
+- g.[^4-2] die Massnahmen im Fall von Betriebsunterbrüchen von Verbrennungsanlagen für Siedlungsabfälle und Abfälle vergleichbarer Zusammensetzung, insbesondere betreffend die Entsorgung oder Zwischenlagerung dieser Abfälle; die Kantone sorgen zusammen mit den Verbrennungsanlagen für Siedlungsabfälle für die Möglichkeit einer Zwischenlagerung für mindestens drei Monate.
 
-<sup>2</sup> Die Kantone arbeiten bei der Abfallplanung insbesondere in den in Absatz 1 Buchstaben c–f genannten Bereichen zusammen und legen dafür nötigenfalls kantonsübergreifende Planungsregionen fest.[^4-2]
+<sup>2</sup> Die Kantone arbeiten bei der Abfallplanung insbesondere in den in Absatz 1 Buchstaben c–g genannten Bereichen zusammen und legen dafür nötigenfalls kantonsübergreifende Planungsregionen fest.[^4-3]
 
 <sup>3</sup> Sie überprüfen die Abfallplanung alle fünf Jahre und passen sie wenn nötig an.
 
 <sup>4</sup> Die Kantone übermitteln die Abfallplanung und die umfassenden Überarbeitungen dem Bundesamt für Umwelt (BAFU).
 
 [^4-1]: Eingefügt durch Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
-[^4-2]: Fassung gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
+[^4-2]: Eingefügt durch Ziff. I der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 (AS **202****5** 453).
+[^4-3]: Fassung gemäss Ziff. I der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
 
 #### Art. 5
 
@@ -311,7 +313,7 @@ Abgetragener Ober- und Unterboden ist möglichst vollständig zu verwerten, wenn
 
 <sup>2</sup> Bei der Verwertung ist mit dem Ober- und Unterboden gemäss den Artikeln 6 und 7 VBBo umzugehen.
 
-[^18-1]: [SR 814.12](https://fedlex.data.admin.ch/eli/cc/1998/1854_1854_1854)
+[^18-1]: [SR 814.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9475)
 
 #### Art. 19
 
@@ -344,19 +346,23 @@ Aushub- und Ausbruchmaterial, das die Anforderungen nach Anhang 3 Ziffer 2 nicht
 
 [^19-1]: Fassung gemäss Ziff. I der V vom 12. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
 [^19-2]: Fassung gemäss Ziff. I der V vom 12. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
-[^19-3]: [SR 814.680](https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261)
+[^19-3]: [SR 814.680](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9581)
 [^19-4]: Fassung gemäss Ziff. I der V vom 12. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
 [^19-5]: Die Berichtigung vom 19. Juli 2016 betrifft nur den italienischen Text ([AS 2016 2629](https://fedlex.data.admin.ch/eli/oc/2016/417)).
 
 #### Art. 20
 
-**Mineralische Abfälle aus dem Abbruch von Bauwerken**
+**Mineralische Abfälle aus dem Rückbau von Bauwerken[^20-1]**
 
-<sup>1</sup> Ausbauasphalt mit einem Gehalt bis zu 250 mg PAK pro kg, Strassenaufbruch, Mischabbruch und Ziegelbruch ist möglichst vollständig als Rohstoff für die Herstellung von Baustoffen zu verwerten.
+<sup>1</sup> Ausbauasphalt mit einem Gehalt bis zu 250 mg PAK pro kg, Betonabbruch, Strassenaufbruch, Mischabbruch, Gleisaushub und Ziegelbruch sind möglichst vollständig als Rohstoff für die Herstellung von Baustoffen zu verwerten.[^20-2]
 
 <sup>2</sup> Ausbauasphalt mit einem Gehalt von mehr als 250 mg PAK pro kg darf nicht verwertet werden.
 
-<sup>3</sup> Betonabbruch ist möglichst vollständig als Rohstoff für die Herstellung von Baustoffen oder als Baustoff auf Deponien zu verwerten.
+<sup>3</sup> …[^20-3]
+
+[^20-1]: Fassung gemäss Ziff. I der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
+[^20-2]: Fassung gemäss Ziff. I der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
+[^20-3]: Aufgehoben durch Ziff. I der V vom 25. Juni 2025, mit Wirkung seit 1. Aug. 2025 ([AS 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
 
 #### Art. 21
 
@@ -388,9 +394,11 @@ Elektroofenschlacke darf mit Zustimmung der kantonalen Behörde nur verwertet we
 
 **Verwertung von Abfällen bei der Herstellung von Zement und Beton**
 
-<sup>1</sup> Abfälle dürfen als Rohmaterial, als Rohmehlkorrekturstoffe, als Brennstoffe oder als Zumahl- oder Zuschlagstoffe bei der Herstellung von Zement und Beton verwendet werden, wenn sie die Anforderungen nach Anhang 4 erfüllen. Als Rohmaterial oder als Brennstoffe dürfen jedoch keine gemischten Siedlungsabfälle und keine gemischt gesammelten und nachträglich sortierten Siedlungsabfälle verwendet werden.
+<sup>1</sup> Abfälle dürfen als Rohmaterial, als Rohmehlkorrekturstoffe, als Brennstoffe oder als Zumahl- oder Zuschlagstoffe bei der Herstellung von Zement und Beton verwendet werden, wenn sie die Anforderungen nach Anhang 4 erfüllen. Als Rohmaterial oder als Brennstoffe dürfen jedoch keine gemischten Siedlungsabfälle und keine gemischt gesammelten und nachträglich sortierten Siedlungsabfälle verwendet werden. Sortierreste, die sich aus der Behandlung von getrennt gesammelten Siedlungsabfällen ergeben und die nicht stofflich verwertet werden können, dürfen bei der Herstellung von Zement und Beton als Brennstoff verwendet werden.[^24-1]
 
 <sup>2</sup> Stäube aus der Abluftfilterung von Anlagen zur Herstellung von Zementklinker müssen als Zumahlstoffe beim Mahlen von Zementklinker oder als Zuschlagstoffe bei der Herstellung von Zement verwertet werden. Dabei darf der Schwermetallgehalt des hergestellten Zements die Grenzwerte nach Anhang 4 Ziffer 3.2 nicht überschreiten.
+
+[^24-1]: Fassung gemäss Ziff. I der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
 
 ### 4. Abschnitt: Ablagerung von Abfällen
 
@@ -440,7 +448,7 @@ Inhaberinnen und Inhaber von Abfallanlagen müssen:
 - b. die Abfälle bei der Entgegennahme kontrollieren und sicherstellen, dass nur zugelassene Abfälle in den Anlagen entsorgt werden;
 - c. die in den Anlagen entstehenden Rückstände umweltverträglich entsorgen;
 - d. sicherstellen, dass der Energiegehalt der Abfälle bei deren Entsorgung so weit wie möglich genutzt wird;
-- e.[^27-2] ein Verzeichnis über die angenommenen Mengen der in Anhang 1 genannten Abfallkategorien mit Angabe der Herkunft sowie die in den Anlagen entstehenden Rückstände und Emissionen führen und das Verzeichnis der Behörde jährlich zustellen; davon ausgenommen sind Zwischenlager nach den Artikeln 29 und 30;
+- e.[^27-2] ein Verzeichnis über die entsorgten Abfallmengen mit Angabe der Herkunft sowie die in den Anlagen entstehenden Rückstände und Emissionen führen und das Verzeichnis der Behörde jährlich zustellen; davon ausgenommen sind Zwischenlager nach den Artikeln 29 und 30;
 - f. sicherstellen, dass sie selber und das Personal über die erforderlichen Fachkenntnisse für den fachgerechten Betrieb der Anlagen verfügen und der Behörde auf deren Verlangen die entsprechenden Aus- und Weiterbildungszeugnisse vorweisen;
 - g. die Anlagen regelmässig kontrollieren und warten und insbesondere durch Emissionsmessungen prüfen, ob die Anforderungen der Umwelt- und Gewässerschutzgesetzgebung eingehalten werden;
 - h. bei mobilen Anlagen sicherstellen, dass nur die am jeweiligen Einsatzort anfallenden Abfälle behandelt werden.
@@ -448,7 +456,7 @@ Inhaberinnen und Inhaber von Abfallanlagen müssen:
 <sup>2</sup> Inhaberinnen und Inhaber von Abfallanlagen, in denen jährlich mehr als 100 t Abfälle entsorgt werden, müssen ein Betriebsreglement erstellen, das insbesondere die Anforderungen an den Betrieb der Anlagen konkretisiert. Sie unterbreiten das Reglement der Behörde zur Stellungnahme.
 
 [^27-1]: Die Berichtigung vom 19. Juli 2016 betrifft nur den französischen Text ([AS 2016 2629](https://fedlex.data.admin.ch/eli/oc/2016/417)).
-[^27-2]: Fassung gemäss Ziff. I der V vom 12. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
+[^27-2]: Fassung gemäss Ziff. I der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
 
 #### Art. 28
 
@@ -521,11 +529,13 @@ Inhaberinnen und Inhaber von Anlagen müssen diese so betreiben, dass:
 - d.[^32-3] flüssige Abfälle mit einem Flammpunkt unter 60 °C und infektiöse Sonderabfälle getrennt von den anderen Abfällen und möglichst direkt in den Raum, in dem die thermische Behandlung stattfindet, eingebracht werden;
 - e. die Schlacke höchstens zwei Gewichtsprozent unverbrannte Anteile, gemessen als gesamter organischer Kohlenstoff (TOC), enthält;
 - f. im Falle einer Betriebsstörung alle Abfälle, die sich im Raum der thermischen Behandlung befinden, fertig behandelt werden;
-- g. bei Anlagen, in denen Siedlungsabfälle oder Abfälle vergleichbarer Zusammensetzung verbrannt werden, Metalle aus der Filterasche zurückgewonnen werden.
+- g. bei Anlagen, in denen Siedlungsabfälle oder Abfälle vergleichbarer Zusammensetzung verbrannt werden, Metalle aus der Filterasche zurückgewonnen werden;
+- h.[^32-4] bei einem Unterbruch der Versorgung mit notwendigen Betriebsmitteln eine Reserve zur Verfügung steht, mit welcher der Regelbetrieb für mindestens zwei Monate sichergestellt ist.
 
 [^32-1]: Fassung gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 [^32-2]: Fassung gemäss Ziff. I der V vom 12. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
 [^32-3]: Fassung gemäss Ziff. I der V vom 12. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
+[^32-4]: Eingefügt durch Ziff. I der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
 
 ### 4. Abschnitt: Kompostierungs- und Vergärungsanlagen
 
@@ -560,8 +570,8 @@ Verpackte biogene Abfälle dürfen in Kompostierungs- und Vergärungsanlagen nac
 
 <sup>3</sup> Im Übrigen gelten die Vorschriften der DüV und der ChemRRV[^34-2] betreffend Kompost und Gärgut.
 
-[^34-1]: [[AS 2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105); [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)Anhang Ziff. 3, [4793](https://fedlex.data.admin.ch/eli/oc/2003/703)Ziff. I 7, [4923](https://fedlex.data.admin.ch/eli/oc/2003/727); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 18; [2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 12; [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)Anhang Ziff. 3; [2011 2403](https://fedlex.data.admin.ch/eli/oc/2011/348), [2699](https://fedlex.data.admin.ch/eli/oc/2011/372)Anhang 8 Ziff. II 3; [2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724); [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Anhang 6 Ziff. 7; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)Anhang Ziff. 8; [2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681); [2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)Anhang Ziff. 4; [2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686); [2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)Anhang Ziff. 2. [AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)Anhang 5 Ziff. I]. siehe V vom 1. Nov. 2023 ([SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)).
-[^34-2]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^34-1]: [[AS 2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105); [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)Anhang Ziff. 3, [4793](https://fedlex.data.admin.ch/eli/oc/2003/703)Ziff. I 7, [4923](https://fedlex.data.admin.ch/eli/oc/2003/727); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 18; [2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 12; [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)Anhang Ziff. 3; [2011 2403](https://fedlex.data.admin.ch/eli/oc/2011/348), [2699](https://fedlex.data.admin.ch/eli/oc/2011/372)Anhang 8 Ziff. II 3; [2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724); [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Anhang 6 Ziff. 7; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)Anhang Ziff. 8; [2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681); [2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)Anhang Ziff. 4; [2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686); [2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)Anhang Ziff. 2. [AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)Anhang 5 Ziff. I]. siehe V vom 1. Nov. 2023 ([SR 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)).
+[^34-2]: [SR 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 ### 5. Abschnitt: Deponien
 
@@ -741,7 +751,7 @@ Die Inhaberin oder der Inhaber einer Deponie oder eines Kompartiments muss währ
 
 Das BAFU gibt die minimalen Geodatenmodelle und Darstellungsmodelle für Geobasisdaten nach dieser Verordnung vor, für die es im Anhang 1 der Geoinformationsverordnung vom 21. Mai 2008[^45-1] als Fachstelle des Bundes bezeichnet ist.
 
-[^45-1]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^45-1]: [SR 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 
 #### Art. 46
 
@@ -814,7 +824,7 @@ Ausbauasphalt mit einem Gehalt von mehr als 250 mg PAK pro kg darf im Rahmen von
 Filteraschen und -stäube aus der thermischen Behandlung von Holz, welches gemäss Anhang 5 Ziffer 31 Absatz 2 der Luftreinhalte-Verordnung vom 16. Dezember 1985[^52a-2] (LRV) nicht als Holzbrennstoff gilt, dürfen bis 31. Dezember 2025auf Deponien der Typen D und E (Anhang 5 Ziffer 4.1 und 5.1) abgelagert werden.
 
 [^52a-1]: Eingefügt durch Ziff. I der V vom 21. Sept. 2018 ([AS 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)). Fassung gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
-[^52a-2]: [SR 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^52a-2]: [SR 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
 
 #### Art. 52b
 
@@ -838,7 +848,7 @@ Rückstände aus der thermischen Behandlung von Abfällen sollen so wenig an Dio
 
 <sup>5</sup> Die Inhaberin oder der Inhaber einer bestehenden Deponie oder eines bestehenden Kompartiments mit Entgasungsanlagen muss diese Anlagen bis zum Ende der Betriebszeit regelmässig von einer sachverständigen Person kontrollieren lassen und mindestens zweimal jährlich die Deponiegase analysieren.
 
-[^53-1]: [SR 814.680](https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261)
+[^53-1]: [SR 814.680](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9581)
 
 #### Art. 54
 
@@ -846,11 +856,12 @@ Rückstände aus der thermischen Behandlung von Abfällen sollen so wenig an Dio
 
 <sup>1</sup> Andere Abfallanlagen als Deponien und Kompartimente, die vor Inkrafttreten dieser Verordnung in Betrieb genommen wurden, müssen diejenigen Anforderungen dieser Verordnung, die bauliche Anpassungen erfordern, spätestens bis zum 31. Dezember 2020 erfüllen. Die übrigen Anforderungen gelten ab Inkrafttreten dieser Verordnung. Vorbehalten bleiben die Absätze 2 und 3.
 
-<sup>2</sup> Die Pflicht nach Artikel 32 Absatz 2 Buchstabe a zur Nutzung von mindestens 55 Prozent des Energiegehalts von Siedlungsabfällen und Abfällen vergleichbarer Zusammensetzung in Anlagen zur thermischen Behandlung von Abfällen gilt ab dem 1. Januar 2026.
+<sup>2</sup> Die Pflicht nach Artikel 32 Absatz 2 Buchstabe a zur Nutzung von mindestens 55 Prozent des Energiegehalts von Siedlungsabfällen und Abfällen vergleichbarer Zusammensetzung in Anlagen zur thermischen Behandlung von Abfällen gilt ab dem 1. Januar 2026. Für Anlagen, die bis zum 31. Dezember 2035 stillgelegt werden, kann das BAFU dem Kanton und dem Betreiber oder der Betreiberin auf Gesuch Ausnahmen gewähren.[^54-1]
 
-<sup>3</sup> Die Pflicht nach Artikel 32 Absatz 2 Buchstabe g zur Rückgewinnung von Metallen aus Filterasche, die bei der Behandlung von Siedlungsabfällen und Abfällen vergleichbarer Zusammensetzung anfällt, gilt ab dem 1. Januar 2026. Filterasche darf bis zu diesem Zeitpunkt ohne Rückgewinnung von Metallen in hydraulisch gebundener Form auf Deponien oder Kompartimenten des Typs C abgelagert werden, sofern die vorhandenen Behandlungskapazitäten für die Rückgewinnung ausgelastet sind.[^54-1]
+<sup>3</sup> Die Pflicht nach Artikel 32 Absatz 2 Buchstabe g zur Rückgewinnung von Metallen aus Filterasche, die bei der Behandlung von Siedlungsabfällen und Abfällen vergleichbarer Zusammensetzung anfällt, gilt ab dem 1. Januar 2026. Filterasche darf bis zu diesem Zeitpunkt ohne Rückgewinnung von Metallen in hydraulisch gebundener Form auf Deponien oder Kompartimenten des Typs C abgelagert werden, sofern die vorhandenen Behandlungskapazitäten für die Rückgewinnung ausgelastet sind.[^54-2]
 
-[^54-1]: Fassung gemäss Ziff. I der V vom 11. Dez. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6283](https://fedlex.data.admin.ch/eli/oc/2020/1029)).
+[^54-1]: Fassung gemäss Ziff. I der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
+[^54-2]: Fassung gemäss Ziff. I der V vom 11. Dez. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6283](https://fedlex.data.admin.ch/eli/oc/2020/1029)).
 
 ### 4. Abschnitt: Inkrafttreten
 
@@ -864,7 +875,7 @@ Anhang 1[^t-1]
 
 ## Abfallkategorien
 
-[^t-1]: Bereinigt gemäss Ziff. II der V vom 21. Sept. 2018 ([AS 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)) und vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 21. Sept. 2018 ([AS 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)), vom 23. Febr. 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)) und vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
 
 <table>
 <tr><th>Code</th><th>Abfallbeschreibung</th></tr>
@@ -958,7 +969,6 @@ Anhang 1[^t-1]
 <tr><td>7301</td><td>Klärschlamm aus der kommunalen Abwasserreinigung sowie Fäkalschlamm</td></tr>
 <tr><td>7302</td><td>Nach VeVA nicht kontrollpflichtige Schlämme und Behandlungsrückstände</td></tr>
 <tr><td>7303</td><td>Brennbare Schlämme und Behandlungsrückstände</td></tr>
-<tr><td>7304</td><td>Feinmaterial aus der Bauschuttaufbereitung</td></tr>
 <tr><td></td><td>Kategorie 8: Weitere Abfallkategorien</td></tr>
 <tr><td>8101</td><td>Sonderabfälle aus der kommunalen Sammlung</td></tr>
 <tr><td>8301</td><td>Strassenwischgut</td></tr>
@@ -1003,8 +1013,8 @@ Anhang 2[^t-2]
 - 1\.1.5 Bei Ausnahmen nach Ziffer 1.1.3 ist das zusätzliche Deponievolumen in erster Linie mit einer vertikalen Erweiterung des bestehenden Deponiekörpers zu realisieren. Die Behörde kann in zweiter Linie eine horizontale Erweiterung genehmigen, wenn der Nachweis erbracht wird, dass der zusätzliche Bedarf an Deponievolumen nicht mit einer Erhöhung gedeckt werden kann.
 - 1\.1.6 Die kantonale Behörde teilt dem BAFU die gewährten Ausnahmebewilligungen gemäss Ziffer 1.1.3 mit.
 
-[^annex2-lvlu1-lvl1-lvl11-1]: [SR 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
-[^annex2-lvlu1-lvl1-lvl11-2]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^annex2-lvlu1-lvl1-lvl11-1]: [SR 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
+[^annex2-lvlu1-lvl1-lvl11-2]: [SR 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
 
 ### 1.2 Untergrund
 
@@ -1185,7 +1195,7 @@ Anhang 4[^t-4]
 
 ## Anforderungen an Abfälle für die Herstellung von Zement und Beton
 
-[^t-4]: Bereinigt gemäss Ziff. II der V vom 12. Febr. 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)) und Ziff. III der V vom 20. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
+[^t-4]: Bereinigt gemäss Ziff. II der V vom 12. Febr. 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)), Ziff. III der V vom 20. Okt. 2021 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)) und Ziff. II vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
 
 ### 1 Verwendung von Abfällen als Rohmaterial und Rohmehlkorrekturstoffe
 
@@ -1261,7 +1271,7 @@ Anhang 4[^t-4]
 <tr><td>Zinn</td><td>50</td></tr>
 </table>
 
-[^annex4-lvlu1-lvl1-1]: [SR 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^annex4-lvlu1-lvl1-1]: [SR 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
 
 ### 2 Verwendung von Abfällen als Brennstoffe
 
@@ -1336,7 +1346,8 @@ Anhang 4[^t-4]
   - d. Aschen aus der thermischen Behandlung von Holz;
   - e. granulierte Hochofenschlacke aus der Herstellung von Eisen;
   - f. andere Abfälle, wenn sie die Grenzwerte nach Anhang 3 Ziffer 2 Buchstabe c einhalten;
-  - g. Elektroofenschlacke, die aus der Herstellung von un- oder niedriglegierten Stählen nach 1989 stammt.
+  - g. Elektroofenschlacke, die aus der Herstellung von un- oder niedriglegierten Stählen nach 1989 stammt;
+  - h. Beton- und Mischabbruch sowie deren verwertbare Fraktionen.
 
 - 3\.2 Bei der Herstellung von Zement dürfen ausserdem Stäube aus der Abluftfilterung von Anlagen zur Herstellung von Zementklinker als Zumahl- oder Zuschlagstoffe verwendet werden, wenn der Schwermetallgehalt des hergestellten Zements die folgenden Grenzwerde nicht überschreitet:
 
@@ -1358,7 +1369,7 @@ Anhang 5[^t-5]
 
 ## Anforderungen an Abfälle zur Ablagerung
 
-[^t-5]: Bereinigt gemäss Ziff. II der V vom 21. Sept. 2018 ([AS 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)) und vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)). Die Berichtigung vom 26. Sept. 2023 betrifft nur den italienischen Text ([AS 2023 543](https://fedlex.data.admin.ch/eli/oc/2023/543)).
+[^t-5]: Bereinigt gemäss Ziff. II der V vom 21. Sept. 2018 ([AS 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)) und vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 
 ### 1 Auf Typ A zugelassene Abfälle
 
@@ -1371,7 +1382,7 @@ Anhang 5[^t-5]
   - c. abgetragener Ober- und Unterboden, wenn er die Richtwerte nach den Anhängen 1 und 2 VBBo[^annex5-lvlu1-lvl1-1] einhält;
   - d. Geschiebe aus Geschiebesammlern.
 
-[^annex5-lvlu1-lvl1-1]: [SR 814.12](https://fedlex.data.admin.ch/eli/cc/1998/1854_1854_1854)
+[^annex5-lvlu1-lvl1-1]: [SR 814.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9475)
 
 ### 2 Auf Typ B zugelassene Abfälle
 
@@ -1587,7 +1598,7 @@ Test 2
 
 - b. im Eluat der Abfälle der Grenzwert von 0,02 mg Cyanid (frei) pro L nicht überschritten wird; dazu sind die Abfälle in einem Test während 24 Stunden in destilliertem Wasser zu eluieren.
 
-[^annex5-lvlu1-lvl4-1]: [SR 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^annex5-lvlu1-lvl4-1]: [SR 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
 
 ### 5 Auf Typ E zugelassene Abfälle
 

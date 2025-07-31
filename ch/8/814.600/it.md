@@ -4,11 +4,11 @@ title: "Ordinanza del 4 dicembre 2015 sulla prevenzione e lo smaltimento dei rif
 short: OPSR
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/891"
 language: it
-version: 2025-04-22
+version: 2025-08-01
 adopted: 2015-12-04
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20250422/it/xml/fedlex-data-admin-ch-eli-cc-2015-891-20250422-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20250422/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20250801/it/xml/fedlex-data-admin-ch-eli-cc-2015-891-20250801-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20250801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20250422/it"
 
 (Ordinanza sui rifiuti, OPSR)
 
-del 4 dicembre 2015 (Stato 22 aprile 2025)
+del 4 dicembre 2015 (Stato 1° agosto 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,8 +25,8 @@ visti gli articoli 29, 30*a* lettera c, 30*b* capoverso 1, 30*c* capoverso 3, 30
 
 ordina:
 
-[^ingress-1]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^ingress-2]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^ingress-1]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^ingress-2]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
 
 ## Capitolo 1: Scopo, campo d’applicazione e definizioni
 
@@ -87,9 +87,9 @@ Nella presente ordinanza s’intende per:
   - 2\. un’azienda media ed economicamente sana del ramo in questione può sostenere sotto il profilo economico.
 
 [^3-1]: Nuovo testo giusta la cifra I dell’O del 12 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
-[^3-2]: [RS 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
+[^3-2]: [RS 814.610](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9575)
 [^3-3]: Introdotta aalla cifra II n. 1 dell’O del 25 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)).
-[^3-4]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^3-4]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 [^3-5]: Abrogata dalla cifra I dell’O del 12 feb. 2020, con effetto dal 1° apr. 2020 ([RU 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
 [^3-6]: Correzione del 19 lug. 2016 ([RU 2016 2629](https://fedlex.data.admin.ch/eli/oc/2016/417)).
 
@@ -108,16 +108,18 @@ I Cantoni allestiscono un piano di gestione dei rifiuti per il proprio territori
 - c. il fabbisogno in termini di impianti per lo smaltimento di rifiuti urbani e altri rifiuti il cui smaltimento compete ai Cantoni;
 - d. il fabbisogno in termini di volume da adibire a discarica e le ubicazioni delle discariche (piano di gestione delle discariche);
 - e. i comprensori di raccolta necessari;
-- f.[^4-1] le misure per utilizzare il contenuto energetico dei rifiuti derivante dal loro trattamento termico.
+- f.[^4-1] le misure per utilizzare il contenuto energetico dei rifiuti derivante dal loro trattamento termico;
+- g.[^4-2] le misure da adottare in caso d’interruzione dell’esercizio degli impianti d’incenerimento dei rifiuti urbani e dei rifiuti di composizione analoga, in particolare quelle riguardanti lo smaltimento o il deposito intermedio di questi rifiuti; i Cantoni garantiscono assieme agli impianti d’incenerimento dei rifiuti urbani la possibilità di un deposito intermedio per una durata di almeno tre mesi.
 
-<sup>2</sup> I Cantoni collaborano tra loro per allestire il piano di gestione dei rifiuti, in particolare per gli ambiti di cui al capoverso 1 lettere c–f, definendo, se necessario, regioni di pianificazione che si estendono al di là dei propri confini territoriali.[^4-2]
+<sup>2</sup> I Cantoni collaborano tra loro per allestire il piano di gestione dei rifiuti, in particolare per gli ambiti di cui al capoverso 1 lettere c–g, definendo, se necessario, regioni di pianificazione che si estendono al di là dei propri confini territoriali.[^4-3]
 
 <sup>3</sup> Ogni cinque anni i Cantoni verificano e, se necessario, aggiornano il proprio piano di gestione dei rifiuti.
 
 <sup>4</sup> I Cantoni trasmettono all’Ufficio federale dell’ambiente (UFAM) il piano di gestione dei rifiuti e le rielaborazioni integrali dello stesso.
 
 [^4-1]: Introdotta dalla cifra I dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
-[^4-2]: Nuovo testo giusta la cifra I dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
+[^4-2]: Introdotta dalla cifra I dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
+[^4-3]: Nuovo testo giusta la cifra I dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
 
 #### Art. 5
 
@@ -136,7 +138,7 @@ I Cantoni allestiscono un piano di gestione dei rifiuti per il proprio territori
 A scadenza annuale i Cantoni allestiscono elenchi pubblici contenenti le indicazioni seguenti e li sottopongono all’UFAM:
 
 - a. la quantità delle categorie di rifiuti[^6-1] di cui all’allegato 1 smaltiti sul loro territorio;
-- b.[^6-2] gli impianti per il trattamento di rifiuti edili e gli impianti per il trattamento di rifiuti metallici, presenti sul loro territorio, nei quali sono trattate ogni anno più di 1000 t di rifiuti;
+- b.[^6-2] gli impianti per il trattamento dei rifiuti edili e gli impianti per il trattamento dei rifiuti metallici, presenti sul loro territorio, nei quali sono trattate ogni anno più di 1000 t di rifiuti;
 - c. gli altri impianti per i rifiuti, presenti sul loro territorio, nei quali vengono smaltite ogni anno più di 100 t di rifiuti.
 
 <sup>2</sup> Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni può aggiornare le categorie di rifiuti di cui all’allegato 1 in conformità con lo stato degli sviluppi in ambito tecnico.
@@ -150,7 +152,7 @@ Su richiesta, i Cantoni presentano all’UFAM un rapporto sull’esercizio e sul
 - c. eventualmente, le misure di cui all’articolo 53 capoverso 4 volte a prevenire potenziali effetti dannosi o molesti delle discariche sull’ambiente.
 
 [^6-1]: Nuova espr. giusta la cifra I dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
-[^6-2]: Nuovo testo giusta la cifra I dell’O del 12 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
+[^6-2]: Nuovo testo giusta la cifra I dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
 [^6-3]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° nov. 2018 ([RU 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)).
 
 ## Capitolo 3: Prevenzione, riciclaggio e deposito di rifiuti
@@ -311,7 +313,7 @@ Il suolo asportato dallo strato superiore e da quello inferiore dev’essere ric
 
 <sup>2</sup> Il riciclaggio del suolo asportato dallo strato superiore e da quello inferiore dev’essere effettuato conformemente agli articoli 6 e 7 O suolo.
 
-[^18-1]: [RS 814.12](https://fedlex.data.admin.ch/eli/cc/1998/1854_1854_1854)
+[^18-1]: [RS 814.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9475)
 
 #### Art. 19
 
@@ -345,7 +347,7 @@ Non è ammesso riciclare il materiale di scavo e di sgombero che non soddisfa i 
 [^19-1]: Nuovo testo giusta la cifra I dell’O del 12 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
 [^19-2]: Nuovo testo giusta la cifra I dell’O del 12 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
 [^19-3]: Nuovo testo giusta la cifra I dell’O del 12 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
-[^19-4]: [RS 814.680](https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261)
+[^19-4]: [RS 814.680](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9581)
 [^19-5]: Nuovo testo giusta la cifra I dell’O del 12 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
 [^19-6]: Correzione del 19 lug. 2016 ([RU 2016 2629](https://fedlex.data.admin.ch/eli/oc/2016/417)).
 
@@ -353,11 +355,14 @@ Non è ammesso riciclare il materiale di scavo e di sgombero che non soddisfa i 
 
 **Rifiuti minerali provenienti dalla demolizione di opere di costruzione**
 
-<sup>1</sup> L’asfalto di demolizione con un tenore di idrocarburi aromatici policiclici (PAH) fino a 250 mg al kg, il materiale proveniente dal rifacimento delle strade, il materiale di demolizione non separato e i cocci di mattoni devono essere riciclati, nella misura più completa possibile, come materia prima per la fabbricazione di materiali da costruzione.
+<sup>1</sup> L’asfalto di demolizione con un tenore di PAH fino a 250 mg al kg, il calcestruzzo di demolizione, il materiale proveniente dal rifacimento delle strade, il materiale di demolizione non separato, il materiale di scavo dei binari e i cocci di mattoni devono essere riciclati, nella misura più completa possibile, come materia prima per la fabbricazione di materiali da costruzione.[^20-1]
 
 <sup>2</sup> L’asfalto di demolizione con un tenore di PAH superiore a 250 mg al kg non dev’essere sottoposto a riciclaggio.
 
-<sup>3</sup> Il calcestruzzo di demolizione dev’essere riciclato, nella misura più completa possibile, come materia prima per la fabbricazione di materiali da costruzione oppure come materiale da costruzione nelle discariche.
+<sup>3</sup> ...[^20-2]
+
+[^20-1]: Nuovo testo giusta la cifra I dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
+[^20-2]: Abrogato dalla cifra I dell’O del 25 giu. 2025, con effetto dal 1° ago. 2025 ([RU 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
 
 #### Art. 21
 
@@ -389,9 +394,11 @@ Previa autorizzazione delle autorità cantonali, le scorie di forni elettrici po
 
 **Riciclaggio di rifiuti nella fabbricazione di cemento e calcestruzzo**
 
-<sup>1</sup> I rifiuti possono essere impiegati come materie prime, come sostanze di correzione della farina cruda, come combustibili oppure come costituenti secondari o aggiunte minerali nella fabbricazione di cemento e calcestruzzo, se soddisfano i requisiti di cui all’allegato 4. Non è tuttavia ammesso impiegare come materie prime o combustibili i rifiuti urbani misti o rifiuti misti raccolti e separati a posteriori.
+<sup>1</sup> I rifiuti possono essere impiegati come materie prime, come sostanze di correzione della farina cruda, come combustibili oppure come costituenti secondari o aggiunte minerali nella fabbricazione di cemento e calcestruzzo, se soddisfano i requisiti di cui all’allegato 4. Non è tuttavia ammesso impiegare come materie prime o combustibili rifiuti urbani misti o rifiuti urbani misti raccolti e separati a posteriori. I residui della separazione risultanti dal trattamento dei rifiuti urbani raccolti separatamente e che non possono essere riciclati come materiale, possono essere utilizzati come combustibile per la produzione di cemento e di calcestruzzo.[^24-1]
 
 <sup>2</sup> Le polveri provenienti dai filtri per la ventilazione di impianti per la fabbricazione di clinker di cemento devono essere riciclate come costituenti secondari nella macinazione di clinker di cemento o come aggiunte minerali nella fabbricazione di cemento. In tale contesto, il tenore di metalli pesanti del cemento prodotto non può superare i valori limite riportati nell’allegato 4 numero 3. 2.
+
+[^24-1]: Nuovo testo giusta la cifra I dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
 
 ### Sezione 4: Deposito di rifiuti
 
@@ -441,14 +448,14 @@ I detentori di impianti per i rifiuti devono:
 - b. controllare i rifiuti al momento della ricezione e garantire che negli impianti vengano smaltiti soltanto rifiuti autorizzati;
 - c. smaltire in modo rispettoso dell’ambiente i residui provenienti dagli impianti;
 - d. garantire che, in sede di smaltimento, il contenuto energetico dei rifiuti venga sfruttato il più possibile;
-- e.[^27-1] tenere un elenco delle quantità di rifiuti prese in consegna in base alle categorie riportate nell’allegato 1, indicandone l’origine, nonché dei residui e delle emissioni provenienti dagli impianti, e fornire ogni anno tale elenco all’autorità; ne sono esclusi i depositi intermedi di cui agli articoli 29 e 30;
+- e.[^27-1] tenere un elenco delle quantità di rifiuti smaltite, indicandone l’origine, nonché dei residui e delle emissioni provenienti dagli impianti, e fornire ogni anno tale elenco all’autorità; ne sono esclusi i depositi intermedi di cui agli articoli 29 e 30;
 - f. garantire che essi e il loro personale possiedano le conoscenze necessarie all’esercizio corretto degli impianti e fornire all’autorità, su sua richiesta, i corrispondenti certificati di formazione e formazione continua;
 - g. a intervalli regolari, controllare gli impianti, farvi eseguire i lavori di manutenzione necessari e verificare in particolare, attraverso misurazioni delle emissioni, se vengono rispettati i requisiti della legislazione sulla protezione dell’ambiente e delle acque;
 - h. nel caso di impianti mobili, garantire che vengano trattati soltanto i rifiuti prodotti nel luogo in cui è utilizzato l’impianto.
 
 <sup>2</sup> I detentori di impianti per i rifiuti nei quali vengono smaltite ogni anno più di 100 t di rifiuti devono allestire un regolamento operativo in cui sono concretizzati in particolare i requisiti che deve soddisfare l’esercizio degli impianti. Il regolamento è sottoposto per parere all’autorità.
 
-[^27-1]: Nuovo testo giusta la cifra I dell’O del 12 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
+[^27-1]: Nuovo testo giusta la cifra I dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
 
 #### Art. 28
 
@@ -521,11 +528,13 @@ I detentori degli impianti devono fare in modo che:
 - d.[^32-3] i rifiuti liquidi aventi un punto d'infiammabilità inferiore a 60 °C e i rifiuti speciali infettivi siano separati dagli altri rifiuti e immessi il più direttamente possibile nell'area in cui avviene il trattamento termico;
 - e. le scorie contengano al massimo una frazione non incenerita pari al due per cento del peso misurata come carbonio organico totale (COT);
 - f. nel caso di un difetto di funzionamento, venga portato a termine il trattamento termico dei rifiuti che si trovano nell’area in cui avviene tale trattamento;
-- g. negli impianti in cui vengono inceneriti rifiuti urbani o altri rifiuti di composizione analoga, dalle ceneri dei filtri vengano recuperati i metalli.
+- g. negli impianti in cui vengono inceneriti rifiuti urbani o altri rifiuti di composizione analoga, dalle ceneri dei filtri vengano recuperati i metalli;
+- h.[^32-4] in caso d’interruzione dell’approvvigionamento con mezzi d’esercizio necessari, sia disponibile una riserva per garantire l’esercizio ordinario per almeno due mesi.
 
 [^32-1]: Nuovo testo giusta la cifra I dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 [^32-2]: Nuovo testo giusta la cifra I dell’O del 12 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
 [^32-3]: Nuovo testo giusta la cifra I dell’O del 12 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
+[^32-4]: Introdotta dalla cifra I dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
 
 ### Sezione 4: Impianti di compostaggio e di fermentazione
 
@@ -560,8 +569,8 @@ I rifiuti biogeni imballati possono essere decomposti o fatti fermentare negli i
 
 <sup>3</sup> Per il resto si applicano le prescrizioni dell’OCon e della ORRPChim[^34-2] concernenti il compost e il digestato.
 
-[^34-1]: [[RU 2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105); [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)all. n. 3, [4793](https://fedlex.data.admin.ch/eli/oc/2003/703)I 7, [4923](https://fedlex.data.admin.ch/eli/oc/2003/727); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)II 18; [2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 12; [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)all. n. 3; [2011 2403](https://fedlex.data.admin.ch/eli/oc/2011/348), [2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 cifra II n. 3; [2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724); [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)all. 6 n. 7; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)all. n. 8; [2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681); [2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)all.n. 4; [2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686); [2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)all.n. 2. [RU 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)]. Vedi ora l’O 1° nov. 2023 ([RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)).
-[^34-2]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^34-1]: [[RU 2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105); [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)all. n. 3, [4793](https://fedlex.data.admin.ch/eli/oc/2003/703)I 7, [4923](https://fedlex.data.admin.ch/eli/oc/2003/727); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)II 18; [2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 12; [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)all. n. 3; [2011 2403](https://fedlex.data.admin.ch/eli/oc/2011/348), [2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 cifra II n. 3; [2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724); [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)all. 6 n. 7; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)all. n. 8; [2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681); [2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)all.n. 4; [2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686); [2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)all.n. 2. [RU 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)]. Vedi ora l’O 1° nov. 2023 ([RS 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)).
+[^34-2]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 ### Sezione 5: Discariche
 
@@ -741,7 +750,7 @@ Durante tutta la fase di manutenzione postoperativa il detentore della discarica
 
 L’UFAM stabilisce i modelli di geodati e i modelli di rappresentazione minimi per i geodati di base secondo la presente ordinanza per i quali è designato quale servizio specializzato della Confederazione nell’allegato 1 dell’ordinanza del 21 maggio 2008[^45-1] sulla geoinformazione.
 
-[^45-1]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^45-1]: [RS 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 
 #### Art. 46
 
@@ -810,7 +819,7 @@ L’asfalto di demolizione con un tenore di PAH superiore a 250 mg al kg può es
 Ceneri e polveri dei filtri derivanti dal trattamento termico di legna che secondo l’allegato 5 numero 31 capoverso 2 dell’ordinanza del 16 dicembre 1985[^52a-2] contro l’inquinamento atmosferico (OIAt) non è considerata legna da ardere possono essere depositate presso discariche di tipo D ed E (all. 5 n. 4.1 e 5.1) fino al 31 dicembre 2025.
 
 [^52a-1]: Introdotto dalla cifra I dell’O del 21 set. 2018 ([RU 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)). Nuovo testo giusta la cifra I dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
-[^52a-2]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^52a-2]: [RS 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
 
 #### Art. 52b
 
@@ -834,7 +843,7 @@ Il tenore di diossine (PCDD) e furani (PCDF) nei residui prodotti dal trattament
 
 <sup>5</sup> Il detentore di una discarica o di un compartimento esistente dotato di un dispositivo per la captazione e lo smaltimento dei biogas deve fare controllare periodicamente questo dispositivo da una persona qualificata fino al termine del periodo d’esercizio e fare analizzare i gas della discarica almeno due volte all’anno.
 
-[^53-1]: [RS 814.680](https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261)
+[^53-1]: [RS 814.680](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9581)
 
 #### Art. 54
 
@@ -842,11 +851,12 @@ Il tenore di diossine (PCDD) e furani (PCDF) nei residui prodotti dal trattament
 
 <sup>1</sup> Gli impianti per i rifiuti diversi da discariche e compartimenti entrati in esercizio prima dell’entrata in vigore della presente ordinanza devono soddisfare i requisiti della presente ordinanza che riguardano adeguamenti edilizi entro e non oltre il 31 dicembre 2020. I requisiti restanti si applicano a partire dall’entrata in vigore della presente ordinanza. Sono fatti salvi i capoversi 2 e 3.
 
-<sup>2</sup> L’obbligo di cui all’articolo 32 capoverso 2 lettera a di impiegare almeno il 55 per cento del contenuto energetico di rifiuti urbani e di rifiuti di composizione analoga in impianti per il trattamento termico vige dal 1° gennaio 2026.
+<sup>2</sup> L’obbligo di cui all’articolo 32 capoverso 2 lettera a di impiegare almeno il 55 per cento del contenuto energetico di rifiuti urbani e di rifiuti di composizione analoga in impianti per il trattamento termico vige dal 1° gennaio 2026. Su richiesta, l’UFAM può concedere deroghe al Cantone e ai gestori per gli impianti che saranno disattivati entro il 31 dicembre 2035.[^54-1]
 
-<sup>3</sup> L’obbligo di cui all’articolo 32 capoverso 2 lettera g di recuperare i metalli dalle ceneri dei filtri di impianti in cui vengono inceneriti rifiuti urbani o altri rifiuti di composizione analoga vige dal 1° gennaio 2026. Fino a tal momento le ceneri dei filtri possono essere depositate, senza recupero dei metalli, in discariche o compartimenti di tipo C se legate con leganti idraulici, a condizione che siano state utilizzate tutte le capacità di trattamento disponibili per il recupero.[^54-1]
+<sup>3</sup> L’obbligo di cui all’articolo 32 capoverso 2 lettera g di recuperare i metalli dalle ceneri dei filtri di impianti in cui vengono inceneriti rifiuti urbani o altri rifiuti di composizione analoga vige dal 1° gennaio 2026. Fino a tal momento le ceneri dei filtri possono essere depositate, senza recupero dei metalli, in discariche o compartimenti di tipo C se legate con leganti idraulici, a condizione che siano state utilizzate tutte le capacità di trattamento disponibili per il recupero.[^54-2]
 
-[^54-1]: Nuovo testo giusta la cifra I dell’O dell’11 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6283](https://fedlex.data.admin.ch/eli/oc/2020/1029)).
+[^54-1]: Nuovo testo giusta la cifra I dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
+[^54-2]: Nuovo testo giusta la cifra I dell’O dell’11 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6283](https://fedlex.data.admin.ch/eli/oc/2020/1029)).
 
 ### Sezione 4: Entrata in vigore
 
@@ -860,7 +870,7 @@ Allegato 1[^t-1]
 
 ## Categorie di rifiuti
 
-[^t-1]: Aggiornato dalla cifra II delle O del 21 set. 2018 ([RU 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)) e del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
+[^t-1]: Aggiornato dalla cifra II delle O del 21 set. 2018 ([RU 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)), del 23 feb. 2022 ([RU 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)) e del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
 
 <table>
 <tr><th>Codice</th><th>Descrizione del rifiuto</th></tr>
@@ -954,7 +964,6 @@ Allegato 1[^t-1]
 <tr><td>7301</td><td>Fanghi di depurazione provenienti dalla depurazione delle acque di scarico comunali e fanghi delle fosse settiche</td></tr>
 <tr><td>7302</td><td>Fanghi e residui di trattamento non soggetti all’obbligo di controllo secondo l’OTRif</td></tr>
 <tr><td>7303</td><td>Fanghi combustibili e altri residui di trattamento</td></tr>
-<tr><td>7304</td><td>Materiale fine proveniente dal trattamento di rifiuti edili</td></tr>
 <tr><td></td><td>Categoria 8: altre categorie di rifiuti</td></tr>
 <tr><td>8101</td><td>Rifiuti speciali provenienti dalla raccolta comunale e da altre raccolte</td></tr>
 <tr><td>8301</td><td>Residui della pulizia stradale</td></tr>
@@ -999,8 +1008,8 @@ Allegato 2[^t-2]
 - 1\.1.5 In caso di deroghe secondo il numero 1.1.3, l’ulteriore volume da adibire a discarica deve essere realizzato in primo luogo tramite un ampliamento verticale del corpo della discarica esistente. L’autorità può in secondo luogo autorizzare un ampliamento orizzontale se è fornita la prova che un innalzamento non è in grado di soddisfare l’ulteriore fabbisogno in termini di volume da adibire a discarica.
 - 1\.1.6 L’autorità cantonale comunica all’UFAM le deroghe concesse secondo il numero 1.1.3.
 
-[^annex2-lvlu1-lvl1-lvl11-1]: [RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
-[^annex2-lvlu1-lvl1-lvl11-2]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^annex2-lvlu1-lvl1-lvl11-1]: [RS 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
+[^annex2-lvlu1-lvl1-lvl11-2]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
 
 ### 1.2 Sottosuolo
 
@@ -1027,7 +1036,7 @@ Allegato 2[^t-2]
 ### 2.1 Prescrizioni generali
 
 - 2\.1.1 Il dimensionamento e la scelta dei materiali dei dispositivi necessari devono garantire che essi funzionino correttamente fino al termine della fase di manutenzione postoperativa. In tale contesto, occorre tenere conto dei processi fisici, chimici e biologici che si svolgono nella discarica durante la realizzazione, l’esercizio e dopo la chiusura definitiva.
-- 2\.1.2. Le discariche e i compartimenti di tipo B ubicati nelle zone limitrofe delle acque sotterranee utilizzabili nonché le discariche e i compartimenti di tipo C, D ed E devono essere sistemati in modo tale che l’acqua di scarico scorra liberamente per gravità fino al luogo in cui è immessa nelle acque o nelle fognature pubbliche senza ristagnare.
+- 2\.1.2 Le discariche e i compartimenti di tipo B ubicati nelle zone limitrofe delle acque sotterranee utilizzabili nonché le discariche e i compartimenti di tipo C, D ed E devono essere sistemati in modo tale che l’acqua di scarico scorra liberamente per gravità fino al luogo in cui è immessa nelle acque o nelle fognature pubbliche senza ristagnare.
 
 ### 2.2 Impermeabilizzazione
 
@@ -1103,7 +1112,7 @@ Allegato 3[^t-3]
 
 ## Requisiti applicabili al materiale di scavo e di sgombero
 
-[^t-3]: Aggiornato dalla cifra II dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
+[^t-3]: Aggiornato dalla cifra II dell’O del 23 feb. 2022 ([RU 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)) e dalla cifra I dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
 
 - 1
 
@@ -1126,7 +1135,7 @@ Allegato 3[^t-3]
 <tr><td>Mercurio</td><td>0,5</td></tr>
 <tr><td>Zinco</td><td>150</td></tr>
 <tr><td>Cianuro totale</td><td>0,5</td></tr>
-<tr><td>Idroclorofluorocarburi volatili (HCFC)\*</td><td>0,1</td></tr>
+<tr><td>Idrocarburi clorurati volatili (VCHC)\*</td><td>0,1</td></tr>
 <tr><td>Bifenili policlorurati (PCB)\*\*</td><td>0,1</td></tr>
 <tr><td>Idrocarburi alifatici C<sub>5</sub>–C<sub>10</sub>\*\*\*</td><td>1</td></tr>
 <tr><td>Idrocarburi alifatici C<sub>10</sub>–C<sub>40</sub></td><td>50</td></tr>
@@ -1161,7 +1170,7 @@ Allegato 3[^t-3]
 <tr><td>Nichel</td><td>250</td></tr>
 <tr><td>Mercurio</td><td>1</td></tr>
 <tr><td>Zinco</td><td>500</td></tr>
-<tr><td>Idroclorofluorocarburi volatili (HCFC)\*</td><td>0,5</td></tr>
+<tr><td>Idrocarburi clorurati volatili (VCHC)\*</td><td>0,5</td></tr>
 <tr><td>Bifenili policlorurati (PCB)\*\*</td><td>0,5</td></tr>
 <tr><td>Idrocarburi alifatici C<sub>5</sub>–C<sub>10</sub>\*\*\*</td><td>5</td></tr>
 <tr><td>Idrocarburi alifatici C<sub>10</sub>–C<sub>40</sub></td><td>250</td></tr>
@@ -1181,7 +1190,7 @@ Allegato 4[^t-4]
 
 ## Requisiti applicabili ai rifiuti impiegati per la fabbricazione di cemento e calcestruzzo
 
-[^t-4]: Aggiornato dalla cifra II dell’O del 12 feb. 2020 ([RU 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)) e dalla cifra III dell’O del 20 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
+[^t-4]: Aggiornato dalla cifra II dell’O del 12 feb. 2020 ([RU 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)), dalla cifra III dell’O del 20 ott. 2021 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)) e dalle cifre I, II dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
 
 ### 1 Utilizzo dei rifiuti come materia prima e come sostanza di correzione della farina cruda
 
@@ -1202,7 +1211,7 @@ Allegato 4[^t-4]
 <tr><td>Tallio</td><td>3</td></tr>
 <tr><td>Zinco</td><td>2000</td></tr>
 <tr><td>Stagno</td><td>100</td></tr>
-<tr><td>Idroclorofluorocarburi volatili (HCFC)\*</td><td>10</td></tr>
+<tr><td>Idrocarburi clorurati volatili (VCHC)\*</td><td>10</td></tr>
 <tr><td>Bifenili policlorurati (PCB)\*\*</td><td>10</td></tr>
 <tr><td>Idrocarburi alifatici C<sub>5</sub>–C<sub>10</sub>\*\*\*</td><td>100</td></tr>
 <tr><td>Idrocarburi alifatici C<sub>10</sub>–C<sub>40</sub></td><td>5000</td></tr>
@@ -1258,7 +1267,7 @@ Allegato 4[^t-4]
 <tr><td>Stagno</td><td>50</td></tr>
 </table>
 
-[^annex4-lvlu1-lvl1-1]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^annex4-lvlu1-lvl1-1]: [RS 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
 
 ### 2 Utilizzo dei rifiuti come sostanze combustibili
 
@@ -1333,7 +1342,8 @@ Allegato 4[^t-4]
   - d. le ceneri provenienti dal trattamento termico di legname;
   - e. le scorie granulate d’altoforno provenienti dalla fabbricazione di ferro;
   - f. gli altri rifiuti che non superino i valori limite di cui all’allegato 3 numero 2 lettera c;
-  - g. le scorie di forni elettrici derivanti dalla fabbricazione, posteriore al 1989, di acciai non legati o bassolegati.
+  - g. le scorie di forni elettrici derivanti dalla fabbricazione, posteriore al 1989, di acciai non legati o bassolegati;
+  - h. il calcestruzzo di demolizione e il materiale di demolizione non separato e le loro frazioni riciclabili.
 
 - 3\.2 Per la fabbricazione di cemento possono inoltre essere utilizzati come costituenti secondari o aggiunte minerali polveri provenienti dai filtri per la ventilazione di impianti per la fabbricazione di clinker di cemento, se il tenore di metalli pesanti del cemento prodotto non supera i valori limite seguenti:
 
@@ -1355,7 +1365,7 @@ Allegato 5[^t-5]
 
 ## Requisiti applicabili ai rifiuti in vista del deposito definitivo
 
-[^t-5]: Aggiornato dalla correzione del 19 lug. 2016 ([RU 2016 2629](https://fedlex.data.admin.ch/eli/oc/2016/417)), dai cifra II delle O del 21 set. 2018 ([RU 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)) e del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
+[^t-5]: Aggiornato dalla correzione del 19 lug. 2016 ([RU 2016 2629](https://fedlex.data.admin.ch/eli/oc/2016/417)), dai cifra II delle O del 21 set. 2018 ([RU 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)) e del 23 feb. 2022 ([RU 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)) e dalla cifra I dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
 
 ### 1 Rifiuti depositabili in discariche e compartimenti di tipo A
 
@@ -1368,7 +1378,7 @@ Allegato 5[^t-5]
   - c. il materiale asportato dallo strato superiore e da quello inferiore del suolo, se non supera i valori indicativi di cui agli allegati 1 e 2 O suolo[^annex5-lvlu1-lvl1-1];
   - d. i materiali detritici provenienti da bacini di ritenuta.
 
-[^annex5-lvlu1-lvl1-1]: [RS 814.12](https://fedlex.data.admin.ch/eli/cc/1998/1854_1854_1854)
+[^annex5-lvlu1-lvl1-1]: [RS 814.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9475)
 
 ### 2 Rifiuti depositabili in discariche e compartimenti di tipo B
 
@@ -1425,7 +1435,7 @@ Allegato 5[^t-5]
 <tr><td>Nichel</td><td>500</td></tr>
 <tr><td>Mercurio</td><td>2</td></tr>
 <tr><td>Zinco</td><td>1000</td></tr>
-<tr><td>Idroclorofluorocarburi volatili (HCFC)\*</td><td>1</td></tr>
+<tr><td>Idrocarburi clorurati volatili (VCHC)\*</td><td>1</td></tr>
 <tr><td>Bifenili policlorurati (PCB)\*\*</td><td>1</td></tr>
 <tr><td>Idrocarburi alifatici C<sub>5</sub>–C<sub>10</sub>\*\*\*</td><td>10</td></tr>
 <tr><td>Idrocarburi alifatici C<sub>10</sub>–C<sub>40</sub></td><td>500</td></tr>
@@ -1515,7 +1525,7 @@ Test 2
 
 <table>
 <tr><th>Sostanza</th><th colspan="2">Valori limite in mg/kg di sostanza secca</th></tr>
-<tr><td>Idroclorofluorocarburi volatili (HCFC)\*</td><td colspan="2">1</td></tr>
+<tr><td>Idrocarburi clorurati volatili (VCHC)\*</td><td colspan="2">1</td></tr>
 <tr><td>Bifenili policlorurati (PCB)\*\*</td><td colspan="2">1</td></tr>
 <tr><td>Idrocarburi alifatici C<sub>5</sub>–C<sub>10</sub>\*\*\*</td><td colspan="2">10</td></tr>
 <tr><td>Idrocarburi alifatici C<sub>10</sub>–C<sub>40</sub></td><td colspan="2">500</td></tr>
@@ -1570,7 +1580,7 @@ Test 2
 <tr><td>Nichel</td><td colspan="2">1000</td></tr>
 <tr><td>Mercurio</td><td colspan="2">5</td></tr>
 <tr><td>Zinco</td><td colspan="2">5000</td></tr>
-<tr><td>Idroclorofluorocarburi volatili (HCFC)\*</td><td colspan="2">1</td></tr>
+<tr><td>Idrocarburi clorurati volatili (VCHC)\*</td><td colspan="2">1</td></tr>
 <tr><td>Bifenili policlorurati (PCB)\*\*</td><td colspan="2">1</td></tr>
 <tr><td>Idrocarburi alifatici C<sub>5</sub>–C<sub>10</sub>\*\*\*</td><td colspan="2">10</td></tr>
 <tr><td>Idrocarburi alifatici C<sub>10</sub>–C<sub>40</sub></td><td colspan="2">500</td></tr>
@@ -1584,7 +1594,7 @@ Test 2
 
 - b. nell’eluito dei rifiuti non è superato il valore limite per il cianuro (libero) pari a 0,02 mg CN/l. A tal fine, per 24 ore va eseguito un test di eluizione dei rifiuti in acqua distillata.
 
-[^annex5-lvlu1-lvl4-1]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^annex5-lvlu1-lvl4-1]: [RS 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
 
 ### 5 Rifiuti depositabili in discariche e compartimenti di tipo E
 
@@ -1618,7 +1628,7 @@ Test 2
 <tr><td>Nichel</td><td colspan="2">1000</td></tr>
 <tr><td>Mercurio</td><td colspan="2">5</td></tr>
 <tr><td>Zinco</td><td colspan="2">5000</td></tr>
-<tr><td>Idroclorofluorocarburi volatili (HCFC)\*</td><td colspan="2">5</td></tr>
+<tr><td>Idrocarburi clorurati volatili (VCHC)\*</td><td colspan="2">5</td></tr>
 <tr><td>Bifenili policlorurati (PCB)\*\*</td><td colspan="2">10</td></tr>
 <tr><td>Idrocarburi alifatici C<sub>5</sub>–C<sub>10</sub>\*\*\*</td><td colspan="2">100</td></tr>
 <tr><td>Idrocarburi alifatici C<sub>10</sub>–C<sub>40</sub></td><td colspan="2">5000</td></tr>
