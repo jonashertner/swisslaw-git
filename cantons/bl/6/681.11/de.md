@@ -3,20 +3,20 @@ canton: BL
 number: "681.11"
 title: Verordnung für die Berufsbildung
 language: de
-version: 2024-08-01
-valid_until: 2025-07-31
-version_adopted: 2024-06-25
+version: 2025-08-01
+valid_until: 2025-12-31
+version_adopted: 2025-01-21
 adopted: 2009-03-17
 in_force: 2009-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/681.11"
-pdf: "https://bl.clex.ch/api/de/versions/3947/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4168/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung für die Berufsbildung
 
-Vom 17.03.2009 (Stand 01.08.2024)
+Vom 17.03.2009 (Stand 01.08.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -41,7 +41,7 @@ beschliesst:
 - d. die Angebote, die auf die berufliche Grundbildung vorbereiten (Integrationsangebot zur Vorbereitung auf die Sekundarstufe II, Brückenangebote) und die nachhaltige Integration in die berufliche Grundbildung unterstützen (Berufsintegration);
 - e. die Massnahmen für die Fort- und Weiterbildung in der Berufsbildung;
 - f. …
-- g. die Aufgaben der Berufs- und Studienberatung.
+- g. …
 
 <sup>2</sup> Für die Berufsfachschulen von privatrechtlichen Trägerschaften sind die mit dem Kanton abgeschlossenen Verträge massgebend.
 
@@ -109,12 +109,12 @@ beschliesst:
 
 <sup>1</sup> Das Angebot des Zentrums für Berufsintegration umfasst:
 
-- a. die Anlauf- und Aufnahmestelle zur Zuweisung in die passenden Angebot der Berufsintegration beziehungsweise Überweisung an externe Fachstellen;
+- a. die Anlauf- und Aufnahmestelle zur Abklärung der Anspruchsberechtigung und Zuweisung an eine Beratungsperson;
 - b. die Abklärung im Hinblick auf die berufsintegrativen Möglichkeiten;
 - c. die Beratung und Begleitung (Berufsintegrationscoaching) für die nachhaltige, berufliche Integration;
 - d. das Case Management zur Koordination des Helfersystems bei Mehrfachproblematik;
 - e. die Schulung zur Aufarbeitung schulischer Defizite und praktische Hinführung zur Arbeitswelt;
-- f. das Mentoring durch Begleitung von Jugendlichen durch freiwillige Berufsleute.
+- f. …
 
 <sup>2</sup> Zudem können weitere berufsintegrierende Programme zur Deckung eines spezifischen Bedarfs angeboten werden.
 
@@ -400,17 +400,17 @@ beschliesst:
 
 - a. Unterricht in den Pflicht- und Berufsmaturitätsschulfächern der 3- und 4-jährigen beruflichen Grundbildungen: 22;
 - b. 2-jährige berufliche Grundbildungen:
-  - 1\. Anlehre: 12;
+  - 1\. …
   - 2\. Berufsattest gewerblich-industrieller und landwirtschaftlicher Richtung: 12;
   - 3\. Berufsattest anderer Richtung: 14;
 - c. Stützkurse und Freikurse: 12;
 - d. Brückenangebote:
-  - 1\. schulisches Profil: 14;
-  - 2\. kombiniertes Profil: 14;
-  - 3\. integratives Profil: 14;
+  - 1\. schulisches Profil: 16;
+  - 2\. kombiniertes Profil: 16;
+  - 3\. integratives Profil: 16;
 - e. Integrationsangebot zur Vorbereitung auf die Sekundarstufe II:
-  - 1\. regulärer Kurs: 14;
-  - 2\. Kurs für Jugendliche mit Analphabetismus: 8.
+  - 1\. regulärer Kurs: 16;
+  - 2\. Kurs für Jugendliche mit Analphabetismus: 10.
 
 <sup>3</sup> Über Ausnahmen entscheidet die Hauptabteilung Berufsbildung der Dienststelle BMH auf Antrag der Schulleitung.
 
