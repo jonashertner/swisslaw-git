@@ -4,29 +4,30 @@ number: "312.1"
 title: Gesetz über die Volksschule
 short: "Volksschulgesetz, VSG"
 language: de
-version: 2020-01-01
-corrected: 2021-09-08
-version_adopted: 2019-10-23
+version: 2025-08-01
+valid_until: 2025-12-31
+version_adopted: 2024-09-25
 adopted: 2002-04-17
 in_force: 2002-08-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/312.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/134/pdf_file"
-text: pdf
+pdf: "https://gesetze.nw.ch/api/de/versions/1338/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über die Volksschule (Volksschulgesetz, VSG)<sup>14</sup>
+# Gesetz über die Volksschule
 
-vom 17. April 2002<sup>1</sup>
+(Volksschulgesetz, VSG)
+
+vom 17.04.2002 (Stand 01.08.2025)
 
 Der Landrat von Nidwalden,
 
-gestützt auf Art. 60 und in Ausführung von Art. 14, 15, 18, 20, 24 und 72 der Kantonsverfassung,
+gestützt auf Art. 60 Abs. 1 und in Ausführung von Art. 14, 15, 18, 20, 24 und 72 der Kantonsverfassung,
 
 beschliesst:
 
-### I. ALLGEMEINE BESTIMMUNGEN
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
@@ -42,11 +43,9 @@ beschliesst:
 
 <sup>1</sup> In diesem Gesetz bedeuten:
 
-Direktion: die für das Bildungswesen zuständige Direktion;
-
-Gemeinde: Schulgemeinde;
-
-Eltern: Personen, denen die elterliche Sorge beziehungsweise die Erziehungsberechtigung zusteht.
+- 1\. Direktion: die für das Bildungswesen zuständige Direktion;
+- 2\. Gemeinde: Schulgemeinde;
+- 3\. Eltern: Personen, denen die elterliche Sorge beziehungsweise die Erziehungsberechtigung zusteht.
 
 <sup>2</sup> Schulbehörde ist im Sinne dieses Gesetzes für die Gemeindeschulen der Schulrat und für die kantonalen Schulen die für das Bildungswesen zuständige Direktion.
 
@@ -57,13 +56,9 @@ Eltern: Personen, denen die elterliche Sorge beziehungsweise die Erziehungsberec
 <sup>1</sup> Die Volksschule:
 
 - 1\. fördert die Bildung der geistigen, körperlichen und gefühlsmässigen Fähigkeiten der Schülerinnen und Schüler;
-
 - 2\. fördert die Achtung vor sich selber, vor Mitmenschen und Umwelt sowie das Sozialverhalten;
-
 - 3\. vermittelt grundlegende Kenntnisse und Fertigkeiten;
-
 - 4\. führt zum Erkennen von Zusammenhängen und fördert das Urteilsvermögen;
-
 - 5\. ist bestrebt, die Freude am Lernen und an der Leistung zu wecken und zu erhalten.
 
 <sup>2</sup> Der Unterricht berücksichtigt die Leistungsfähigkeit und die individuellen Begabungen und Neigungen der Kinder.
@@ -106,7 +101,7 @@ Eltern: Personen, denen die elterliche Sorge beziehungsweise die Erziehungsberec
 
 **Interne Qualitätssicherung**
 
-<sup>1</sup> Für die interne Qualitätssicherung und -entwicklung sind die Schulen sowie die Schulbehörden verantwortlich. Die Direktion legt die Mindestanforderungen fest.
+<sup>1</sup> Für die interne Qualitätssicherung und ‑entwicklung sind die Schulen sowie die Schulbehörden verantwortlich. Die Direktion legt die Mindestanforderungen fest.
 
 <sup>2</sup> Die Schulleitung erstattet der Schulbehörde Bericht über Konzeption, Feststellungen und vorgesehene Massnahmen.
 
@@ -118,13 +113,13 @@ Eltern: Personen, denen die elterliche Sorge beziehungsweise die Erziehungsberec
 
 <sup>1</sup> Das Amt für Volksschulen ist zuständig für die regelmässige Überprüfung des Qualitätsstands der Schulen. Es kann zu diesem Zweck auch Schulbesuche durchführen und mit ausserkantonalen Institutionen zusammenarbeiten.
 
-<sup>2</sup> Das Amt für Volksschulen erstattet der Schulleitung, der Schulbehörde und der Direktion Bericht und schlägt Massnahmen zur Qualitätssicherung und -entwicklung vor.
+<sup>2</sup> Das Amt für Volksschulen erstattet der Schulleitung, der Schulbehörde und der Direktion Bericht und schlägt Massnahmen zur Qualitätssicherung und ‑entwicklung vor.
 
 <sup>3</sup> Werden bedeutende Qualitätsmängel festgestellt, ordnet die Direktion die notwendigen Massnahmen an. Sie berücksichtigt dabei nach Möglichkeit die Vorschläge der Schulbehörde und der Schulleitung.
 
-### II. GEMEINDESCHULEN
+## 2 Gemeindeschulen
 
-### A. Schulplanung
+### 2.1 Schulplanung
 
 #### Art. 9
 
@@ -134,7 +129,7 @@ Eltern: Personen, denen die elterliche Sorge beziehungsweise die Erziehungsberec
 
 <sup>2</sup> Die Vorarbeiten sind durch eine vom Regierungsrat zu wählende Kommission unter Beizug der Direktion und der betreffenden Gemeinden zu leisten.
 
-### B. Organisation
+### 2.2 Organisation
 
 #### Art. 10
 
@@ -142,9 +137,11 @@ Eltern: Personen, denen die elterliche Sorge beziehungsweise die Erziehungsberec
 
 <sup>1</sup> Die Gemeinden führen den Kindergarten, die Primarschule und die Orientierungsschule.
 
-<sup>2</sup> Die Gemeinden erbringen das Volksschulangebot selber oder in Zusammenarbeit mit anderen Gemeinden. Die Zusammenarbeit wird vertraglich geregelt oder erfolgt im Rahmen von Gemeindeverbänden gemäss Art. 140-174 des Gemeindegesetzes<sup>2</sup>.
+<sup>2</sup> Die Gemeinden erbringen das Volksschulangebot selber oder in Zusammenarbeit mit anderen Gemeinden. Die Zusammenarbeit wird vertraglich geregelt oder erfolgt im Rahmen von Gemeindeverbänden gemäss Art. 140–174 des Gemeindegesetzes[^10-1].
 
 <sup>3</sup> Auf Antrag einer betroffenen Gemeinde kann der Regierungsrat Gemeinden zur Zusammenarbeit bei der Führung des Volksschulangebotes verpflichten. Er hört vorgängig die Schulräte der betroffenen Gemeinden an und berücksichtigt die Standortplanung des Landrats gemäss Art. 9.
+
+[^10-1]: NG 171.1
 
 #### Art. 11
 
@@ -165,26 +162,24 @@ Eltern: Personen, denen die elterliche Sorge beziehungsweise die Erziehungsberec
 <sup>2</sup> Jede Schule hat:
 
 - 1\. ein Organisationsstatut, welches die interne Organisation der Schulleitung und der Schule regelt, und
-
 - 2\. ein Schulprogramm, welches die für die nächsten drei bis fünf Jahre geplanten Ziele einer Schule enthält und Mittel, Termine und Formen der Umsetzung aufzeigt.
 
 <sup>3</sup> Jede Schule ist im Rahmen der Gesetzgebung verantwortlich für die Gestaltung des Schullebens sowie die Planung und Durchführung des Unterrichts.
 
 #### Art. 13
 
-**Instanzen der Schulgemeinden**
+**Instanzen der Schulgemeinden 1. Stimmberechtigte**
 
-- 1\. Stimmberechtigte
-
-<sup>1</sup> Die Zuständigkeiten der Stimmberechtigten richten sich nach den Bestimmungen des Gemeindegesetzes<sup>2</sup>, insbesondere nach Art. 33-35.
+<sup>1</sup> Die Zuständigkeiten der Stimmberechtigten richten sich nach den Bestimmungen des Gemeindegesetzes[^13-1], insbesondere nach Art. 33–35.
 
 <sup>2</sup> In die Zuständigkeit der Stimmberechtigten fallen ausserdem:
 
-- 1\. Beschlussfassung über Erweiterung oder Verminderung des Leistungsauftrags im Sinne von Art. 3 Abs. 2 des Personalgesetzes<sup>3</sup>;
-
+- 1\. Beschlussfassung über Erweiterung oder Verminderung des Leistungsauftrags im Sinne von Art. 3 Abs. 2 des Personalgesetzes[^13-2];
 - 2\. Abschluss von Verträgen im Sinne von Art. 10 Abs. 2;
-
 - 3\. Entscheid über die Organisationsform der Orientierungsschule gemäss Art. 36 oder 37.
+
+[^13-1]: NG 171.1
+[^13-2]: NG 165.1
 
 #### Art. 14
 
@@ -195,40 +190,31 @@ Eltern: Personen, denen die elterliche Sorge beziehungsweise die Erziehungsberec
 <sup>2</sup> Er hat insbesondere folgende Aufgaben:
 
 - 1\. Festlegung der Organisation und der Angebote der Schulen;
-
 - 2\. Erlass des Organisationsstatuts;
+- 3\. Anstellung und Entlassung der Schulleitung;
+- 4\. Festlegung der Pensen, über welche die Schulleitung in einem Schuljahr verfügen kann;
+- 5\. Zuteilung der finanziellen Mittel, über welche die Schulleitung im Rechnungsjahr verfügen kann;
+- 6\. Genehmigung des Schulprogramms;
+- 7\. Erlass von Hausordnungen;
+- 8\. Anstellung und Entlassung der Lehrpersonen und der übrigen Mitarbeitenden, vorbehalten bleibt Art. 20 Abs. 2 des Bildungsgesetzes[^14-1];
+- 9\. Aufsicht und Beurteilung der Schulleitung;
+- 10\. Sicherstellung der Beurteilung der Lehrpersonen;
+- 11\. Aufsicht über den Schulbetrieb; er führt zu diesem Zweck auch Schulbesuche durch;
+- 12\. Anordnung von Massnahmen zur Qualitätsförderung;
+- 13\. Aufsicht über die Einhaltung der Schulpflicht.
 
-3.<sup>14</sup> Anstellung und Entlassung der Schulleitung;
+<sup>3</sup> Im Übrigen richten sich seine Aufgaben nach den Bestimmungen des Gemeindegesetzes[^14-2] über den administrativen Rat.
 
-4.<sup>14</sup> Festlegung der Pensen, über welche die Schulleitung in einem Schuljahr verfügen kann;
-
-5.<sup>14</sup> Zuteilung der finanziellen Mittel, über welche die Schulleitung im Rechnungsjahr verfügen kann;
-
-6.<sup>14</sup> Genehmigung des Schulprogramms;
-
-7.<sup>14</sup> Erlass von Hausordnungen;
-
-8.<sup>14</sup> Anstellung und Entlassung der Lehrpersonen und der übrigen Mitarbeitenden, vorbehalten bleibt Art. 20 Abs. 2 des Bildungsgesetzes<sup>4</sup>;
-
-9.<sup>14</sup> Aufsicht und Beurteilung der Schulleitung;
-
-10.<sup>14</sup> Sicherstellung der Beurteilung der Lehrpersonen;
-
-11.<sup>14</sup> Aufsicht über den Schulbetrieb; er führt zu diesem Zweck auch Schulbesuche durch;
-
-12.<sup>14</sup> Anordnung von Massnahmen zur Qualitätsförderung;
-
-13.<sup>14</sup> Aufsicht über die Einhaltung der Schulpflicht.
-
-<sup>3</sup> Im Übrigen richten sich seine Aufgaben nach den Bestimmungen des Gemeindegesetzes<sup>2</sup> über den administrativen Rat.
+[^14-1]: NG 311.1
+[^14-2]: NG 171.1
 
 #### Art. 15
 
-**3. Behörden nach Aufhebung der Schulgemeinde<sup>14</sup>**
+**3. Behörden nach Aufhebung der Schulgemeinde**
 
 <sup>1</sup> Wird eine Schulgemeinde aufgehoben, treten an die Stelle des Schulrats der Gemeinderat und eine Schulkommission.
 
-<sup>2</sup> Der Gemeinderat hat alle Aufgaben des Schulrats, soweit diese nicht durch die Gemeindeordnung der Schulkommission übertragen werden. Die Aufgaben gemäss Art. 14 Abs. 2 Ziff. 6-13 sind in jedem Fall der Schulkommission zu übertragen.
+<sup>2</sup> Der Gemeinderat hat alle Aufgaben des Schulrats, soweit diese nicht durch die Gemeindeordnung der Schulkommission übertragen werden. Die Aufgaben gemäss Art. 14 Abs. 2 Ziff. 6–13 sind in jedem Fall der Schulkommission zu übertragen.
 
 <sup>3</sup> Die Gemeindeordnung legt fest, ob die Schulkommission vom Gemeinderat oder von den Stimmberechtigten gewählt wird. Die Mitgliederzahl wird ebenfalls in der Gemeindeordnung bestimmt. Das für die Schule zuständige Mitglied des Gemeinderates präsidiert die Schulkommission.
 
@@ -238,30 +224,20 @@ Eltern: Personen, denen die elterliche Sorge beziehungsweise die Erziehungsberec
 
 <sup>1</sup> Die Schulleitung ist unter dem Vorbehalt der Zuständigkeit des Schulrates für die pädagogische, betriebliche und personelle Leitung, Führung und Entwicklung der Schulen verantwortlich. Sie vertritt die Schule im Rahmen ihrer Zuständigkeit und in Abstimmung mit dem Schulrat nach aussen.
 
-<sup>2</sup> Sie ist insbesondere zuständig für 1. Planung und Gestaltung des Angebotes der Schule;
+<sup>2</sup> Sie ist insbesondere zuständig für
 
+- 1\. Planung und Gestaltung des Angebotes der Schule;
 - 2\. Planung und Förderung der Entwicklung der Schule;
-
 - 3\. die Leitung der Schulkonferenz;
-
 - 4\. die Beratung des Schulrates in sämtlichen Belangen der Schule;
-
 - 5\. Information innerhalb der Schule und Öffentlichkeitsarbeit;
-
 - 6\. die Mitwirkung bei den Personalgeschäften des Schulrates;
-
 - 7\. die Beurteilung und Förderung der Lehrpersonen;
-
 - 8\. die Förderung und Koordination der Weiterbildung der Lehrpersonen;
-
 - 9\. die Durchführung der Selbstevaluation der Schule;
-
 - 10\. die Zuteilung der Schülerinnen und Schüler zu den Klassen;
-
 - 11\. Kontrolle und Genehmigung der Stundenpläne;
-
 - 12\. die Verwaltung der zugeteilten finanziellen Mittel;
-
 - 13\. disziplinarische Massnahmen gemäss Art. 54.
 
 <sup>3</sup> Der Schulrat kann der Schulleitung weitere Aufgaben übertragen und regelt deren interne Organisation im Rahmen des Organisationsstatuts.
@@ -286,27 +262,29 @@ Eltern: Personen, denen die elterliche Sorge beziehungsweise die Erziehungsberec
 
 **Schulpräsidentenkonferenz**
 
-<sup>1</sup> Die Schulpräsidentenkonferenz setzt sich zusammen aus den Präsidien der Schulräte oder der Schulkommissionen beziehungsweise deren Stellvertretung sowie der Bildungsdirektorin oder dem Bildungsdirektor.<sup>14</sup>
+<sup>1</sup> Die Schulpräsidentenkonferenz setzt sich zusammen aus den Präsidien der Schulräte oder der Schulkommissionen beziehungsweise deren Stellvertretung sowie der Bildungsdirektorin oder dem Bildungsdirektor.
 
 <sup>2</sup> Die Schulpräsidentenkonferenz konstituiert sich selbst.
 
-<sup>3</sup> Die Schulpräsidentenkonferenz koordiniert die Erfüllung der Aufgaben durch die Schulgemeinden und fördert die Zusammenarbeit zwischen kommunalen und kantonalen Behörden und Schulen. Sie hat beratende Aufgaben; vorbehalten bleiben Entscheidungskompetenzen gemäss Art. 39 Abs. 2 sowie Art. 23 Abs. 3 des Bildungsgesetzes<sup>4</sup>.
+<sup>3</sup> Die Schulpräsidentenkonferenz koordiniert die Erfüllung der Aufgaben durch die Schulgemeinden und fördert die Zusammenarbeit zwischen kommunalen und kantonalen Behörden und Schulen. Sie hat beratende Aufgaben; vorbehalten bleiben Entscheidungskompetenzen gemäss Art. 39 Abs. 2 sowie Art. 23 Abs. 3 des Bildungsgesetzes[^19-1].
 
-### C. Schulbetrieb
+[^19-1]: NG 311.1
 
-### 1. Bestimmungen zum Unterricht auf allen Stufen
+### 2.3 Schulbetrieb
+
+### 2.3.1 Bestimmungen zum Unterricht auf allen Stufen
 
 #### Art. 20
 
 **Schuljahr**
 
-Das Schuljahr umfasst 38 bis 39 Unterrichtswochen.
+<sup>1</sup> Das Schuljahr umfasst 38 bis 39 Unterrichtswochen.
 
 #### Art. 21
 
 **Lehrplan und Stundentafel**
 
-<sup>1</sup> Der Lehrplan enthält die Unterrichtsziele und -inhalte.
+<sup>1</sup> Der Lehrplan enthält die Unterrichtsziele und ‑inhalte.
 
 <sup>2</sup> Die Stundentafel bestimmt die Aufteilung der Unterrichtszeit auf die Fächer. Sie legt fest, welchen fakultativen Unterricht die Gemeinden mindestens anzubieten haben.
 
@@ -326,7 +304,7 @@ Das Schuljahr umfasst 38 bis 39 Unterrichtswochen.
 
 **Gestaltung des Unterrichts**
 
-Die Lehrperson hat das Recht, im Rahmen des Lehrplans und unter Verwendung der obligatorischen Lehrmittel den Unterricht frei zu gestalten.
+<sup>1</sup> Die Lehrperson hat das Recht, im Rahmen des Lehrplans und unter Verwendung der obligatorischen Lehrmittel den Unterricht frei zu gestalten.
 
 #### Art. 24
 
@@ -342,7 +320,7 @@ Die Lehrperson hat das Recht, im Rahmen des Lehrplans und unter Verwendung der o
 
 **Begabungsförderung**
 
-Schülerinnen und Schüler mit besonderen Begabungen, die durch den ordentlichen Unterricht nicht genügend gefördert werden können und für die das Überspringen von Klassen nicht angezeigt ist, können in der Regelklasse mit geeigneter Unterstützung gefördert werden. Der Regierungsrat regelt die Einzelheiten.
+<sup>1</sup> Schülerinnen und Schüler mit besonderen Begabungen, die durch den ordentlichen Unterricht nicht genügend gefördert werden können und für die das Überspringen von Klassen nicht angezeigt ist, können in der Regelklasse mit geeigneter Unterstützung gefördert werden. Der Regierungsrat regelt die Einzelheiten.
 
 #### Art. 26
 
@@ -354,9 +332,7 @@ Schülerinnen und Schüler mit besonderen Begabungen, die durch den ordentlichen
 
 #### Art. 27
 
-**Klassen**
-
-### 1. Grundsatz
+**Klassen 1. Grundsatz**
 
 <sup>1</sup> Die Schülerinnen und Schüler werden einer Klasse zugeteilt.
 
@@ -370,40 +346,21 @@ Schülerinnen und Schüler mit besonderen Begabungen, die durch den ordentlichen
 
 <sup>1</sup> Für die Bildung der Klassen gelten die folgenden Schülerzahlen:
 
-**17-24**
-
-- 1\. Kindergarten
-
+- 1\. Kindergarten — 17–24
 - 2\. Primarschule:
-
-**17-24 12-20 8-16**
-
-- einklassige Abteilung
-
-- Abteilung mit zwei oder drei Klassen
-
-- Abteilung mit mehr als drei Klassen
-
+  - a) einklassige Abteilung: — 17–24
+  - b) Abteilung mit zwei oder drei Klassen: — 12–20
+  - c) Abteilung mit mehr als drei Klassen: — 8–16
 - 3\. Orientierungsschule:
-
-**16-24 12-16**
-
-- einklassige Abteilung
-
-- mehrklassige Abteilung
-
+  - a) einklassige Abteilung: — 16–24
+  - b) mehrklassige Abteilung: — 12–16
 - 4\. Einführungsklasse, Kleinklasse und Werkschule:
-
-**8-12 8-10**
-
-- einklassige Abteilung
-
-- mehrklassige Abteilung
+  - a) einklassige Abteilung: — 8–12
+  - b) mehrklassige Abteilung: — 8–10
 
 <sup>2</sup> Der Regierungsrat regelt in der Vollzugsverordnung:
 
 - 1\. Abweichungen für Fächer, bei denen eine andere Grösse der Lerngruppe begründet ist;
-
 - 2\. Ausnahmen für vorübergehende Abweichungen von den Mindest- oder Höchstbeständen.
 
 #### Art. 29
@@ -432,7 +389,7 @@ Schülerinnen und Schüler mit besonderen Begabungen, die durch den ordentlichen
 
 <sup>3</sup> Der Regierungsrat regelt Kriterien und Verfahren in einer Vollzugsverordnung.
 
-### 2. Kindergarten
+### 2.3.2 Kindergarten
 
 #### Art. 32
 
@@ -448,13 +405,13 @@ Schülerinnen und Schüler mit besonderen Begabungen, die durch den ordentlichen
 
 <sup>1</sup> Das Kindergartenangebot umfasst zwei Jahre.
 
-<sup>2</sup> Kinder, die bis Ende Februar das vierte Altersjahr vollenden, können auf Beginn des nächsten Schuljahres in den Kindergarten eintreten. Für diese Kinder ist der Besuch des Kindergartens im ersten Jahr freiwillig.<sup>18</sup>
+<sup>2</sup> Kinder, die bis Ende Februar das vierte Altersjahr vollenden, können auf Beginn des nächsten Schuljahres in den Kindergarten eintreten. Für diese Kinder ist der Besuch des Kindergartens im ersten Jahr freiwillig.
 
-<sup>3</sup> Kinder, die bis Ende Februar das fünfte Altersjahr vollenden, treten auf Beginn des nächsten Schuljahres in das zweite Jahr des Kindergartens ein. In begründeten Fällen kann der Eintritt um ein Jahr aufgeschoben werden; der Regierungsrat regelt Kriterien, Verfahren und Zuständigkeiten in einer Verordnung.<sup>18</sup>
+<sup>3</sup> Kinder, die bis Ende Februar das fünfte Altersjahr vollenden, treten auf Beginn des nächsten Schuljahres in das zweite Jahr des Kindergartens ein. In begründeten Fällen kann der Eintritt um ein Jahr aufgeschoben werden; der Regierungsrat regelt Kriterien, Verfahren und Zuständigkeiten in einer Verordnung.
 
 <sup>4</sup> Der Übertritt in die Primarschule erfolgt in der Regel nach dem zweiten Jahr. Er kann nach dem ersten oder dritten Jahr erfolgen, wenn die intellektuelle und persönliche Entwicklung des Kindes dies erlaubt oder erfordert.
 
-- 3\. Primarschule
+### 2.3.3 Primarschule
 
 #### Art. 34
 
@@ -464,7 +421,7 @@ Schülerinnen und Schüler mit besonderen Begabungen, die durch den ordentlichen
 
 <sup>2</sup> Die Primarschule dauert sechs Jahre.
 
-- 4\. Orientierungsschule
+### 2.3.4 Orientierungsschule
 
 #### Art. 35
 
@@ -476,9 +433,7 @@ Schülerinnen und Schüler mit besonderen Begabungen, die durch den ordentlichen
 
 #### Art. 36
 
-**Organisationsformen**
-
-### 1. Kooperative Orientierungsschule
+**Organisationsformen 1. Kooperative Orientierungsschule**
 
 <sup>1</sup> Die Kooperative Orientierungsschule umfasst Stammklassen und Niveaugruppen. Sie werden auf einer grundlegenden und einer erweiterten Anforderungsstufe unterrichtet.
 
@@ -502,7 +457,7 @@ Schülerinnen und Schüler mit besonderen Begabungen, die durch den ordentlichen
 
 <sup>2</sup> Die Werkschule wird als regionale Gemeindeschule geführt.
 
-### 5. Sonderpädagogisches Angebot
+### 2.3.5 Sonderpädagogisches Angebot
 
 #### Art. 39
 
@@ -532,20 +487,15 @@ Schülerinnen und Schüler mit besonderen Begabungen, die durch den ordentlichen
 
 #### Art. 42
 
-**Verfahren**
-
-### 1. Abklärung
+**Verfahren 1. Abklärung**
 
 <sup>1</sup> Über eine sonderpädagogische Massnahme wird aufgrund einer Abklärung durch eine Schulpsychologin, einen Schulpsychologen oder eine sonderpädagogische Fachperson entschieden. Bei Bedarf können weitere Fachleute beigezogen werden.
 
 <sup>2</sup> Eine schulpsychologische Abklärung muss durchgeführt werden:
 
 - 1\. wenn sich Eltern, Lehrperson und Schulleitung nicht über die zu treffende Massnahme einigen können;
-
 - 2\. wenn Unklarheiten bestehen;
-
 - 3\. wenn die Zuweisung zu einer Kleinklasse oder zu einer Sonderschulung zur Diskussion steht;
-
 - 4\. im Falle schwerwiegender Verhaltensauffälligkeiten.
 
 <sup>3</sup> Eine schulpsychologische Abklärung kann von den Eltern verlangt oder durch den Schulrat angeordnet werden.
@@ -562,9 +512,9 @@ Schülerinnen und Schüler mit besonderen Begabungen, die durch den ordentlichen
 
 **3. Überprüfung**
 
-Die einzelnen sonderpädagogischen Massnahmen werden regelmässig auf ihre Notwendigkeit und Wirksamkeit überprüft.
+<sup>1</sup> Die einzelnen sonderpädagogischen Massnahmen werden regelmässig auf ihre Notwendigkeit und Wirksamkeit überprüft.
 
-### 6. Musikschulen
+### 2.3.6 Musikschulen
 
 #### Art. 45
 
@@ -578,36 +528,32 @@ Die einzelnen sonderpädagogischen Massnahmen werden regelmässig auf ihre Notwe
 
 **Kostenbeiträge**
 
-Die Musikschulen erheben Beiträge an die Kosten des freiwilligen Musikunterrichts. Der Schulrat legt deren Höhe in einem Reglement fest.
+<sup>1</sup> Die Musikschulen erheben Beiträge an die Kosten des freiwilligen Musikunterrichts. Der Schulrat legt deren Höhe in einem Reglement fest.
 
-- 7\. Schul- und Gemeindebibliotheken
+### 2.3.7 Schul- und Gemeindebibliotheken
 
 #### Art. 47
 
 **Grundsatz**
 
-Die Gemeinden können Bibliotheken für Kinder, Jugendliche und Erwachsene führen oder die Trägerschaft bestehender Bibliotheken mit Beiträgen unterstützen.
+<sup>1</sup> Die Gemeinden können Bibliotheken für Kinder, Jugendliche und Erwachsene führen oder die Trägerschaft bestehender Bibliotheken mit Beiträgen unterstützen.
 
-- 8\. Schulärztlicher und schulzahnärztlicher Dienst
+### 2.3.8 Schulärztlicher und schulzahnärztlicher Dienst
 
 #### Art. 48
 
 **Grundsatz**
 
-<sup>1</sup> Zur Überwachung der gesundheitlichen Verhältnisse und zur Prävention richten die Schulträger schulärztliche und schulzahnärztliche Dienste ein. Deren Tätigkeit untersteht der fachlichen Aufsicht durch die Kantonsärztin oder den Kantonsarzt beziehungsweise die Kantonszahnärztin oder den Kantonszahnarzt.<sup>17</sup>
+<sup>1</sup> Zur Überwachung der gesundheitlichen Verhältnisse und zur Prävention richten die Schulträger schulärztliche und schulzahnärztliche Dienste ein. Deren Tätigkeit untersteht der fachlichen Aufsicht durch die Kantonsärztin oder den Kantonsarzt beziehungsweise die Kantonszahnärztin oder den Kantonszahnarzt.
 
 <sup>2</sup> Die schulärztlichen und schulzahnärztlichen Dienste führen obligatorische Untersuchungen durch. Die Eltern können diese auch durch eine Ärztin oder einen Arzt des persönlichen Vertrauens durchführen lassen.
 
 <sup>3</sup> Der Regierungsrat regelt in einer Vollzugsverordnung Aufgaben und Organisation dieser Dienste, insbesondere:
 
 - 1\. die Pflichten der schulärztlichen und schulzahnärztlichen Dienste;
-
 - 2\. Zeitpunkt, Umfang und Inhalt der obligatorischen Untersuchungen;
-
 - 3\. die Entschädigung der schulärztlichen und schulzahnärztlichen Dienste;
-
-4.<sup>17</sup> die Tätigkeit der Kantonsärztin oder des Kantonsarztes beziehungsweise der Kantonszahnärztin oder des Kantonszahnarztes zugunsten der schulärztlichen und schulzahnärztlichen Dienste;
-
+- 4\. die Tätigkeit der Kantonsärztin oder des Kantonsarztes beziehungsweise der Kantonszahnärztin oder des Kantonszahnarztes zugunsten der schulärztlichen und schulzahnärztlichen Dienste;
 - 5\. die Aufgaben der Lehrpersonen im Bereich der gesundheitlichen Prävention und in der Zusammenarbeit mit den schulärztlichen und schulzahnärztlichen Diensten.
 
 <sup>4</sup> Impfungen sind freiwillig und erfolgen mit schriftlicher Zustimmung der Eltern.
@@ -616,9 +562,9 @@ Die Gemeinden können Bibliotheken für Kinder, Jugendliche und Erwachsene führ
 
 **Kosten**
 
-Die obligatorischen Untersuchungen und die Impfungen sind für die Eltern unentgeltlich, sofern sie von den schulärztlichen und schulzahnärztlichen Diensten im Rahmen von Reihenuntersuchungen oder -impfungen durchgeführt werden.
+<sup>1</sup> Die obligatorischen Untersuchungen und die Impfungen sind für die Eltern unentgeltlich, sofern sie von den schulärztlichen und schulzahnärztlichen Diensten im Rahmen von Reihenuntersuchungen oder ‑impfungen durchgeführt werden.
 
-### 9. Tagesschulen
+### 2.3.9 Tagesschulen
 
 #### Art. 50
 
@@ -636,7 +582,7 @@ Die obligatorischen Untersuchungen und die Impfungen sind für die Eltern unentg
 
 <sup>2</sup> Die Stimmberechtigten legen deren Höhe in einem Reglement fest.
 
-### D. Schülerinnen und Schüler
+### 2.4 Schülerinnen und Schüler
 
 #### Art. 52
 
@@ -665,42 +611,38 @@ Die obligatorischen Untersuchungen und die Impfungen sind für die Eltern unentg
 <sup>2</sup> Können disziplinarische Schwierigkeiten nicht in der Klasse gelöst werden, kann die Schulleitung folgende Massnahmen ergreifen:
 
 - 1\. Aussprache;
-
 - 2\. schriftlicher Verweis;
-
 - 3\. Versetzung in eine andere Klasse.
 
 <sup>3</sup> Der Schulrat kann auf Antrag der Schulleitung folgende Massnahmen ergreifen:
 
 - 1\. Wegweisung vom fakultativen Unterricht, wenn das fehlbare Verhalten damit im Zusammenhang steht;
-
 - 2\. vorübergehende Wegweisung vom obligatorischen und fakultativen Unterricht bis höchstens vier Wochen;
-
 - 3\. Versetzung in eine andere Schule.
 
-<sup>4</sup> ...<sup>16</sup>
+<sup>4</sup> …
 
 #### Art. 55
 
 **Ausschluss**
 
-<sup>1</sup> Verhält sich eine Schülerin oder ein Schüler in einer Weise, dass das eigene Wohl oder dasjenige von anderen Personen gefährdet oder der Schulbetrieb schwerwiegend beeinträchtigt wird, beantragt der Schulrat bei der Kindes- und Erwachsenenschutzbehörde die Anordnung von Kindesschutzmassnahmen.<sup>15</sup>
+<sup>1</sup> Verhält sich eine Schülerin oder ein Schüler in einer Weise, dass das eigene Wohl oder dasjenige von anderen Personen gefährdet oder der Schulbetrieb schwerwiegend beeinträchtigt wird, beantragt der Schulrat bei der Kindes- und Erwachsenenschutzbehörde die Anordnung von Kindesschutzmassnahmen.
 
 <sup>2</sup> In dringenden Fällen kann der Schulrat unter Mitteilung an die für die Kindesschutzmassnahmen zuständigen Behörden einen sofortigen Schulausschluss beschliessen und vorsorgliche Massnahmen, insbesondere eine Heimeinweisung, beantragen.
 
-<sup>3</sup> Er kann die teilweise oder vollumfängliche Entlassung aus der Schulpflicht anordnen, wenn 1. die Schülerin oder der Schüler das 15. Altersjahr vollendet hat;
+<sup>3</sup> Er kann die teilweise oder vollumfängliche Entlassung aus der Schulpflicht anordnen, wenn
 
+- 1\. die Schülerin oder der Schüler das 15. Altersjahr vollendet hat;
 - 2\. der ordentliche Schulbetrieb auf andere Weise nicht gewährleistet werden kann und
-
 - 3\. diese Massnahme unter Einräumung einer Frist von mindestens 20 Tagen angedroht wurde und während dieser Frist keine wesentliche Besserung zu verzeichnen war.
 
 #### Art. 56
 
 **Schulweg**
 
-Die Schülerinnen und Schüler stehen auf dem Schulweg unter der Verantwortung der Eltern.
+<sup>1</sup> Die Schülerinnen und Schüler stehen auf dem Schulweg unter der Verantwortung der Eltern.
 
-### E. Eltern
+### 2.5 Eltern
 
 #### Art. 57
 
@@ -736,31 +678,13 @@ Die Schülerinnen und Schüler stehen auf dem Schulweg unter der Verantwortung d
 
 <sup>2</sup> Der Regierungsrat regelt in der Vollzugsverordnung das Absenzenwesen, die Dispensation und die Abmeldung aus religiösen Gründen.
 
-### F. Schulanlagen<sup>10</sup>
+### 2.6 Schulanlagen
 
-#### Art. 61
+#### Art. 61–64
 
-**Anforderungen, Genehmigungsverfahren, Benützung**
+**…**
 
-und Unterhalt<sup>10</sup>
-
-<sup>1</sup> Der Regierungsrat legt die Anforderungen an Schulanlagen fest und regelt das Genehmigungsverfahren.
-
-<sup>2</sup> Die Baubewilligung darf erst erteilt werden, wenn die Genehmigung des Regierungsrates vorliegt.
-
-#### Art. 62
-
-**..<sup>10</sup>**
-
-#### Art. 63
-
-**..<sup>10</sup>**
-
-#### Art. 64
-
-**..<sup>10</sup>**
-
-### III. SONDERSCHULUNG
+## 3 Sonderschulung
 
 #### Art. 65
 
@@ -768,7 +692,7 @@ und Unterhalt<sup>10</sup>
 
 <sup>1</sup> Kinder und Jugendliche mit besonderen heilpädagogischen oder erzieherischen Bedürfnissen, welche im Rahmen der Gemeindeschulen nicht durch sonderpädagogische Massnahmen gemäss Art. 39–44 abgedeckt werden können, haben für die Dauer der Schulpflicht Anspruch auf eine ihrer Bildungsfähigkeit entsprechenden Sonderschulung.
 
-<sup>2</sup> Die Sonderschulung kann in begründeten Fällen bis zum 20. Altersjahr verlängert werden.<sup>11</sup>
+<sup>2</sup> Die Sonderschulung kann in begründeten Fällen bis zum 20. Altersjahr verlängert werden.
 
 <sup>3</sup> Die Sonderschulung erfolgt in öffentlichen oder privaten Sonderschulen, in Sonderschulheimen, in Erziehungsheimen oder als integrierte Sonderschulung im Rahmen der Gemeindeschulen.
 
@@ -776,11 +700,9 @@ und Unterhalt<sup>10</sup>
 
 #### Art. 66
 
-**Verfahren**
+**Verfahren 1. Abklärung**
 
-### 1. Abklärung
-
-Der Entscheid über die Förderung in einer Sonderschule erfolgt aufgrund einer schulpsychologischen Abklärung.
+<sup>1</sup> Der Entscheid über die Förderung in einer Sonderschule erfolgt aufgrund einer schulpsychologischen Abklärung.
 
 #### Art. 67
 
@@ -788,7 +710,7 @@ Der Entscheid über die Förderung in einer Sonderschule erfolgt aufgrund einer 
 
 <sup>1</sup> Für Kinder und Jugendliche im schulpflichtigen Alter wird das Erfordernis einer Sonderschulung von den Eltern, der Lehrperson und der Schulleitung unter Einbezug der Ergebnisse der Abklärungen gemäss Art. 66 gemeinsam festgestellt. Kann keine Einigung erzielt werden, wird das Erfordernis der Förderung in einer Sonderschule durch den Schulrat festgestellt.
 
-<sup>2</sup> Kann keine Einigung über die Unterbringung in einem Heim erzielt werden, stellt der Schulrat Antrag auf Anordnung der nötigen Kindesschutzmassnahmen.<sup>15</sup>
+<sup>2</sup> Kann keine Einigung über die Unterbringung in einem Heim erzielt werden, stellt der Schulrat Antrag auf Anordnung der nötigen Kindesschutzmassnahmen.
 
 #### Art. 68
 
@@ -802,13 +724,11 @@ Der Entscheid über die Förderung in einer Sonderschule erfolgt aufgrund einer 
 
 **Heilpädagogische Früherziehung**
 
-Der Kanton ist für die Heilpädagogische Früherziehung von entwicklungsauffälligen Kindern im Vorschulalter zuständig; er kann diese Aufgabe in Zusammenarbeit mit geeigneten Institutionen erfüllen.
+<sup>1</sup> Der Kanton ist für die Heilpädagogische Früherziehung von entwicklungsauffälligen Kindern im Vorschulalter zuständig; er kann diese Aufgabe in Zusammenarbeit mit geeigneten Institutionen erfüllen.
 
 #### Art. 70
 
-**Heilpädagogische Schule**
-
-### 1. Auftrag
+**Heilpädagogische Schule 1. Auftrag**
 
 <sup>1</sup> Der Kanton führt eine Heilpädagogische Schule für geistig- und mehrfachbehinderte Kinder und Jugendliche. Die Heilpädagogische Schule führt auch einen Heilpädagogischen Kindergarten.
 
@@ -824,13 +744,21 @@ Der Kanton ist für die Heilpädagogische Früherziehung von entwicklungsauffäl
 
 <sup>3</sup> Im Übrigen regelt der Regierungsrat den Betrieb der Heilpädagogischen Schule, die Aufgaben der Schulkommission und der Schulleitung in einer Vollzugsverordnung.
 
+#### Art. 71a
+
+**3. Ausserschulische Betreuung**
+
+<sup>1</sup> Die Heilpädagogische Schule bietet eine ausserschulische Betreuung an.
+
+<sup>2</sup> Der Regierungsrat regelt in einer Verordnung das Betreuungsangebot und das An- und Abmeldeverfahren.
+
 #### Art. 72
 
-**Verpflegungskosten<sup>11</sup>**
+**Beiträge**
 
-Die Eltern leisten an die Verpflegungskosten Beiträge, die vom Regierungsrat festgelegt werden.
+<sup>1</sup> Die Eltern leisten an die Verpflegungskosten und die ausserschulische Betreuung Beiträge, die vom Regierungsrat in einer Verordnung festgelegt werden.
 
-### IV. PRIVATSCHULEN
+## 4 Privatschulen
 
 #### Art. 73
 
@@ -854,11 +782,11 @@ Die Eltern leisten an die Verpflegungskosten Beiträge, die vom Regierungsrat fe
 
 <sup>1</sup> Schülerinnen und Schüler, die eine Privatschule besuchen, können bei der Schulgemeinde ihres Wohnsitzes die in der Volksschule den Schülerinnen und Schülern abgegebenen obligatorischen Lehrmittel unentgeltlich beziehen.
 
-<sup>2</sup> Sie haben an ihrem Wohnort Anspruch auf Therapien gemäss Art. 39 Abs. 4 einschliesslich der dafür nötigen Abklärungen. Der Schulrat entscheidet über Art und Umfang der Leistungen.
+<sup>2</sup> Sie haben an ihrem Wohnort Anspruch auf Therapien gemäss Art. 40 Abs. 3 einschliesslich der dafür nötigen Abklärungen. Der Schulrat entscheidet über Art und Umfang der Leistungen.
 
 <sup>3</sup> Im Übrigen besteht kein Anspruch auf die von der öffentlichen Volksschule zur Verfügung gestellten Leistungen.
 
-### V. KANTONALE INSTANZEN
+## 5 Kantonale Instanzen
 
 #### Art. 76
 
@@ -871,38 +799,27 @@ Die Eltern leisten an die Verpflegungskosten Beiträge, die vom Regierungsrat fe
 <sup>3</sup> Er regelt in Vollzugsverordnungen insbesondere:
 
 - 1\. die Beteiligung der Eltern an den Kosten gemäss Art. 5 Abs. 4;
-
 - 2\. Zuständigkeit und Verfahren für die Befreiung von Lernzielen gemäss Art. 25;
-
 - 3\. Ausnahmen zur Klassengrösse gemäss Art. 28;
-
 - 4\. den Umfang des Halbklassenunterrichts und der Blockzeiten gemäss Art. 29;
-
 - 5\. die Beurteilung der Schülerinnen und Schüler gemäss Art. 30;
-
 - 6\. die Aufnahme in öffentliche Schulen, die Beförderung in die nächste Klasse sowie den Übertritt in die nächste Stufe gemäss Art. 31;
-
 - 7\. die Ausnahmen für den Eintritt in den Kindergarten gemäss Art. 33;
-
 - 8\. die Niveaufächer der kooperativen und integrierten Orientierungsschule;
-
-- 9\. das sonderpädagogische Angebot gemäss Art. 39-44;
-
+- 9\. das sonderpädagogische Angebot gemäss Art. 39–44;
 - 10\. die Aufgaben der Schulärztlichen Dienste gemäss Art. 48;
-
-11.<sup>10</sup> die Anforderungen an Schulanlagen, das Genehmigungsverfahren, den Betrieb und Unterhalt gemäss Art. 61;
-
+- 11\. …
 - 12\. den Betrieb der Heilpädagogischen Schule;
-
 - 13\. die Elternbeiträge an die Verpflegungskosten der Sonderschulung gemäss Art. 72.
 
 <sup>4</sup> Er ist zuständig für:
 
 - 1\. den Erlass der Leitideen und Lehrpläne sowie der Stundentafeln der öffentlichen Schulen;
+- 2\. …
 
-2.<sup>10</sup> die Beschlussfassung über die Projektgenehmigung der Schulanlagen der Gemeinden gemäss Art. 61.
+<sup>5</sup> Unter dem Vorbehalt abweichender Bestimmungen übt der Regierungsrat die Aufsicht gemäss den Bestimmungen des Gemeindegesetzes[^76-1] aus.
 
-<sup>5</sup> Unter dem Vorbehalt abweichender Bestimmungen übt der Regierungsrat die Aufsicht gemäss den Bestimmungen des Gemeindegesetzes<sup>2</sup> aus.
+[^76-1]: NG 171.1
 
 #### Art. 77
 
@@ -913,11 +830,8 @@ Die Eltern leisten an die Verpflegungskosten Beiträge, die vom Regierungsrat fe
 <sup>2</sup> Sie ist insbesondere zuständig für:
 
 - 1\. die Weiterentwicklung der Volksschule und deren Anpassung an die aktuellen Erfordernisse;
-
 - 2\. die Festlegung des Schulortes für einzelne Schülerinnen und Schüler im Ausnahmefall gemäss Art. 11 Abs. 3 und Regelung der Kostenfolge gemäss Art. 6;
-
 - 3\. die Bestimmung der obligatorischen und empfohlenen Lehrmittel gemäss Art. 22;
-
 - 4\. die Einsetzung und Mandatierung von Kommissionen und Arbeitsgruppen.
 
 <sup>3</sup> Für die Ausübung der fachlichen Aufsicht über den Schulbetrieb wird die Direktion durch das Amt für Volksschulen unterstützt.
@@ -931,13 +845,9 @@ Die Eltern leisten an die Verpflegungskosten Beiträge, die vom Regierungsrat fe
 <sup>2</sup> Es ist insbesondere zuständig für:
 
 - 1\. die externe Qualitätssicherung;
-
 - 2\. die fachliche Aufsicht über den Schulbetrieb und die Überwachung der Einhaltung der kantonalen Vorgaben;
-
 - 3\. die Beratung und Unterstützung der Schulen und der Schulbehörden bei der Erfüllung ihrer Aufgaben;
-
 - 4\. die Sicherstellung eines Beratungsangebotes für die Lehrpersonen;
-
 - 5\. die Planung und Organisation der Lehrerinnen- und Lehrerweiterbildung.
 
 #### Art. 79
@@ -950,35 +860,36 @@ Die Eltern leisten an die Verpflegungskosten Beiträge, die vom Regierungsrat fe
 
 <sup>3</sup> Eine schulpsychologische Abklärung bedarf der Zustimmung der Eltern. Verweigern die Eltern die Zustimmung in Fällen, in denen die Gesetzgebung eine schulpsychologische Abklärung voraussetzt, erfolgt eine Beurteilung durch den Schulpsychologischen Dienst aufgrund anderer Informationen, insbesondere aufgrund von Gesprächen mit den Beteiligten und Beobachtungen in der Schule.
 
-### VI. RECHTSSCHUTZ UND STRAFBESTIMMUNGEN
+## 6 Rechtsschutz und Strafbestimmungen
 
 #### Art. 80
 
-**Einsprache<sup>16</sup>**
+**Einsprache**
 
-Gegen erstinstanzliche Entscheide kann binnen 20 Tagen nach erfolgter Zustellung Einsprache erhoben werden.
+<sup>1</sup> Gegen erstinstanzliche Entscheide kann binnen 20 Tagen nach erfolgter Zustellung Einsprache erhoben werden.
 
 #### Art. 81
 
-**…<sup>16</sup>**
+**…**
 
 #### Art. 82
 
 **Strafbestimmung**
 
-<sup>1</sup> Wer vorsätzlich gegen Art. 60 dieses Gesetz oder dessen Ausführungsbestimmungen verstösst, wird mit Busse bis zu Fr. 5'000.- bestraft.
+<sup>1</sup> Wer vorsätzlich gegen Art. 60 dieses Gesetz oder dessen Ausführungsbestimmungen verstösst, wird mit Busse bis zu Fr. 5'000.– bestraft.
 
-<sup>2</sup> Zuständigkeit und Verfahren richten sich nach dem Gerichtsgesetz<sup>6</sup> und der Schweizerischen Strafprozessordnung (StPO)<sup>12</sup>.<sup>13</sup>
+<sup>2</sup> Zuständigkeit und Verfahren richten sich nach dem Gerichtsgesetz[^82-1] und der Schweizerischen Strafprozessordnung (StPO)[^82-2].
 
-### VII. ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
+[^82-1]: NG 261.1
+[^82-2]: SR 312.0
+
+## 7 Übergangs- und Schlussbestimmungen
 
 #### Art. 83
 
-**Übergangsbestimmung<sup>18</sup>**
+**Übergangsbestimmung 1. Eintritt in den Kindergarten**
 
-### 1. Eintritt in den Kindergarten
-
-Für das Schuljahr 2020/21 gilt für den Eintritt in den Kindergarten der 30. April als Stichtag gemäss Art. 33 Abs. 2 und 3.
+<sup>1</sup> Für das Schuljahr 2020/21 gilt für den Eintritt in den Kindergarten der 30. April als Stichtag gemäss Art. 33 Abs. 2 und 3.
 
 #### Art. 84
 
@@ -990,7 +901,7 @@ Für das Schuljahr 2020/21 gilt für den Eintritt in den Kindergarten der 30. Ap
 
 #### Art. 84a
 
-**3. Beiträge an Schulbauten der Gemeinden<sup>10</sup>**
+**3. Beiträge an Schulbauten der Gemeinden**
 
 <sup>1</sup> Bis Ende 2007 vom Kanton zugesicherte Beiträge für Schulbauten der Gemeinden werden nach den bisherigen Vorschriften ausbezahlt.
 
@@ -998,19 +909,20 @@ Für das Schuljahr 2020/21 gilt für den Eintritt in den Kindergarten der 30. Ap
 
 #### Art. 84b
 
-**4. Wahlverfahren der Behörden nach Aufhebung der**
+**4. Wahlverfahren der Behörden nach Aufhebung der Schulgemeinden**
 
-### Schulgemeinden<sup>14</sup>
-
-Gemeindeordnungen, die Art. 15 widersprechen, sind bis spätestens 1. März 2014 anzupassen.
+<sup>1</sup> Gemeindeordnungen, die Art. 15 widersprechen, sind bis spätestens 1. März 2014 anzupassen.
 
 #### Art. 85
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Alle mit diesem Gesetz in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere das Gesetz vom 30. April 1972 über das Bildungswesen (Bildungsgesetz)<sup>4</sup> und die Vollziehungsverordnung vom 7. Februar 1986 zum Gesetz über das Bildungswesen (Bildungsverordnung)<sup>8</sup>.
+<sup>1</sup> Alle mit diesem Gesetz in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere das Gesetz vom 30. April 1972 über das Bildungswesen (Bildungsgesetz)[^85-1] und die Vollziehungsverordnung vom 7. Februar 1986 zum Gesetz über das Bildungswesen (Bildungsverordnung)[^85-2].
 
 <sup>2</sup> Alle gestützt auf das Bildungsgesetz vom 30. April 1972 und die Bildungsverordnung vom 7. Februar 1986 von der Erziehungskommission erlassenen Reglemente, Lehrpläne und weiteren Ausführungsbestimmungen bleiben bis zum Erlass neuer Bestimmungen in Kraft.
+
+[^85-1]: NG 311.1
+[^85-2]: NG 311.1
 
 #### Art. 86
 
@@ -1018,40 +930,8 @@ Gemeindeordnungen, die Art. 15 widersprechen, sind bis spätestens 1. März 2014
 
 <sup>1</sup> Dieses Gesetz untersteht dem fakultativen Referendum.
 
-<sup>2</sup> Es tritt unter dem Vorbehalt des Inkrafttretens des Gesetzes vom 17. April 2002 über das Bildungswesen (Bildungsgesetz)<sup>9</sup> auf den 1. August 2002 in Kraft.
+<sup>2</sup> Es tritt unter dem Vorbehalt des Inkrafttretens des Gesetzes vom 17. April 2002 über das Bildungswesen (Bildungsgesetz)[^86-1] auf den 1. August 2002 in Kraft.
 
-<sup>1</sup> A 2002, 597, 1178
+[^86-1]: A 2002, 583, 1178
 
-<sup>2</sup> NG 171.1
-
-<sup>3</sup> NG 165.1
-
-<sup>4</sup> NG 311.1
-
-<sup>5</sup> …
-
-<sup>6</sup> NG 261.1
-
-<sup>7</sup> NG 263.1
-
-<sup>8</sup> NG 311.1
-
-<sup>9</sup> A 2002, 583, 1178
-
-<sup>10</sup> Fassung gemäss Landratsbeschluss vom 19. September 2007, A 2007, 1541, 1971; in Kraft seit 1. Januar 2008
-
-<sup>11</sup> Fassung gemäss Landratsbeschluss vom 24. Oktober 2007, A 2007, 1734, A 2008, 92; in Kraft seit 1. Januar 2008
-
-<sup>12</sup> SR 312.0
-
-<sup>13</sup> Fassung gemäss Landratsbeschluss vom 9. Juni 2010, A 2010, 1031, 1575, in Kraft seit 1. Januar 2011
-
-<sup>14</sup> Fassung gemäss Landratsbeschluss vom 15. Dezember 2010, A 2010, 2221; A 2011, 324; in Kraft seit 1. März 2011
-
-<sup>15</sup> Fassung gemäss Landratsbeschluss vom 14. Dezember 2011, A 2011, 1743; A 2012, 558; in Kraft seit 1. Januar 2013
-
-<sup>16</sup> Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
-
-<sup>17</sup> Fassung gemäss Landratsbeschluss vom 20. April 2016, A 2016, 707, 1201; in Kraft seit 1. Juli 2016
-
-<sup>18</sup> Fassung gemäss Landratsbeschluss vom 23. Oktober 2019, A 2019, 1824; A 2020, 119; in Kraft seit 1. Januar 2020
+A 2002, 597, 1178
