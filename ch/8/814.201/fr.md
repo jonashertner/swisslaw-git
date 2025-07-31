@@ -4,11 +4,11 @@ title: Ordonnance du 28 octobre 1998 sur la protection des eaux (OEaux)
 short: OEaux
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863"
 language: fr
-version: 2025-01-01
+version: 2025-08-01
 adopted: 1998-10-28
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20250101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20250801/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20250801-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20250801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20250101/fr"
 
 (OEaux)
 
-du 28 octobre 1998 (État le 1<sup>er</sup> janvier 2025)
+du 28 octobre 1998 (État le 1<sup>er</sup> août 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu les art. 9, 14, al. 7, 16, 19, al. 1, 27, al. 2, 36*a*, al. 2, 46, al. 2, 47,
 
 arrête:
 
-[^ingress-1]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^ingress-1]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2011, en vigueur depuis le 1<sup>er</sup> juin 2011 ([RO 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 
 ## Chapitre 1 Dispositions générales
@@ -90,7 +90,7 @@ Les eaux de ruissellement provenant des surfaces bâties ou imperméabilisées s
 - c.[^3-4] des voies ferrées, s’il est garanti que l’on renonce à long terme à y utiliser des produits phytosanitaires ou si, en cas d’infiltration, une couche de sol biologiquement active permet une rétention et une dégradation suffisantes des produits phytosanitaires.
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2011, en vigueur depuis le 1<sup>er</sup> juin 2011 ([RO 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
-[^3-2]: [RS 814.12](https://fedlex.data.admin.ch/eli/cc/1998/1854_1854_1854)
+[^3-2]: [RS 814.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9475)
 [^3-3]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2011, en vigueur depuis le 1<sup>er</sup> juin 2011 ([RO 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 [^3-4]: Nouvelle teneur selon le ch. II 9 de l’O du 18 mai 2005 sur l’abrogation et la mod. du droit en vigueur du fait de la loi sur les produits chimiques, en vigueur depuis le 1<sup>er</sup> août 2005 ([RO 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)).
 
@@ -207,7 +207,7 @@ L’autorité peut autoriser l’infiltration d’eaux polluées communales ou d
 - c. si les eaux sont infiltrées dans une station prévue à cet effet, si les valeurs indicatives fixées dans l’OSol[^8-1] ne sont pas dépassées même à long terme ou si la fertilité du sol est assurée même à long terme lorsqu’il n’existe pas de valeurs indicatives, et
 - d. si les exigences relatives au fonctionnement des installations d’évacuation et d’épuration qui déversent des eaux dans le milieu récepteur (art. 13 à 17) sont respectées.
 
-[^8-1]: [RS 814.12](https://fedlex.data.admin.ch/eli/cc/1998/1854_1854_1854)
+[^8-1]: [RS 814.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9475)
 
 #### Art. 9
 
@@ -330,8 +330,8 @@ L’autorité vérifie périodiquement que:
 
 <sup>3</sup> Les prescriptions plus sévères de l’ordonnance du 27 février 1991 sur les accidents majeurs[^16-1] et de l’ordonnance du 20 novembre 1991 sur la garantie de l’approvisionnement en eau potable en temps de crise[^16-2] sont réservées.
 
-[^16-1]: [RS 814.012](https://fedlex.data.admin.ch/eli/cc/1991/748_748_748)
-[^16-2]: [[RO 1991 2517](https://fedlex.data.admin.ch/eli/oc/1991/2517_2517_2517); [2017 3179](https://fedlex.data.admin.ch/eli/oc/2017/313)ch. I 2. [RO 2020 3671](https://fedlex.data.admin.ch/eli/oc/2020/666)art. 15]. Voir actuellement l’O du 19 août 2020 sur la garantie de l’approvisionnement en eau potable lors de pénurie ([RS 531.32](https://fedlex.data.admin.ch/eli/cc/2020/666)).
+[^16-1]: [RS 814.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9439)
+[^16-2]: [[RO 1991 2517](https://fedlex.data.admin.ch/eli/oc/1991/2517_2517_2517); [2017 3179](https://fedlex.data.admin.ch/eli/oc/2017/313)ch. I 2. [RO 2020 3671](https://fedlex.data.admin.ch/eli/oc/2020/666)art. 15]. Voir actuellement l’O du 19 août 2020 sur la garantie de l’approvisionnement en eau potable lors de pénurie ([RS 531.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7712)).
 
 #### Art. 17
 
@@ -605,8 +605,8 @@ Ils doivent assurer tous les 10 ans un contrôle visuel des défauts depuis l’
 
 <sup>2</sup> Lorsque le cours d’eau ne présente pas de débit permanent à l’endroit du prélèvement, l’autorité veille à ce que soient prises les mesures requises en vertu de la loi fédérale du 1<sup>er</sup> juillet 1966 sur la protection de la nature et du paysage[^33-1] et de la loi fédérale du 21 juin 1991 sur la pêche[^33-2].
 
-[^33-1]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^33-2]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^33-1]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^33-2]: [RS 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
 
 #### Art. 33a
 
@@ -845,9 +845,9 @@ Exceptions:
 [^41c-1]: Introduite par le ch. I de l’O du 22 mars 2017, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 2585](https://fedlex.data.admin.ch/eli/oc/2017/245)).
 [^41c-2]: Introduite par le ch. I de l’O du 22 mars 2017, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 2585](https://fedlex.data.admin.ch/eli/oc/2017/245)).
 [^41c-3]: Nouvelle teneur selon le ch. I de l’O du 4 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
-[^41c-4]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^41c-4]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 [^41c-5]: Nouvelle teneur selon le ch. I de l’O du 4 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
-[^41c-6]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^41c-6]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 [^41c-7]: Nouvelle teneur selon le ch. IV de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
 [^41c-8]: Introduit par le ch. I de l’O du 22 mars 2017, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 2585](https://fedlex.data.admin.ch/eli/oc/2017/245)).
 
@@ -860,7 +860,31 @@ Exceptions:
 <sup>2</sup> Si des terres cultivables ayant la qualité de surface d’assolement situées dans l’espace réservé aux eaux sont affectées à des mesures constructives de protection contre les crues ou de revitalisation des eaux, leur perte doit être compensée conformément au plan sectoriel des surfaces d’assolement (art. 29 de l’ordonnance du 28 juin 2000 sur l’aménagement du territoire).
 
 [^41cbis-1]: Introduit par le ch. I de l’O du 4 nov. 2015 ([RO 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)). Nouvelle teneur selon le ch. I de l’O du 22 mars 2017, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 2585](https://fedlex.data.admin.ch/eli/oc/2017/245)).
-[^41cbis-2]: [RS 700.1](https://fedlex.data.admin.ch/eli/cc/2000/310)
+[^41cbis-2]: [RS 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
+
+#### Art. 41c<sup>ter</sup>
+
+**Respect ou rétablissement du tracé naturel**[^41cter-1]
+
+Lors d’interventions dans les eaux superficielles, il y a lieu, si possible, de respecter ou de rétablir le tracé naturel du cours d’eau, qui se caractérise par sa position dans le profil en travers de la vallée, sa pente longitudinale, la forme de son lit, la largeur du fond de son lit ainsi que ses structures morphologiques et ses processus dynamiques.
+
+[^41cter-1]: Introduit par l’annexe ch. 3 de l’O du 25 juin 2025 sur l’aménagement des cours d’eau, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
+
+#### Art. 41c<sup>quater</sup>
+
+**Aménagement et entretien écologiques**[^41cquater-1]
+
+<sup>1</sup>
+
+Les eaux et l’espace réservé aux eaux doivent être aménagés et entretenus de manière que les biotopes typiques de la station soient préservés ou puissent se développer. Les biotopes typiques de la station reposent sur:
+
+- a. une végétation qui se développe naturellement et se régénère spontanément;
+- b. des processus dynamiques caractéristiques;
+- c. des structures caractéristiques, telles que des bancs de gravier, des berges naturelles et variables et du bois mort.
+
+<sup>2</sup> Lors de l’aménagement et de l’entretien des eaux et de l’espace réservé aux eaux, il faut contrer le réchauffement excessif de ces dernières. Il convient notamment d’en favoriser l’ombrage naturel.
+
+[^41cquater-1]: Introduit par l’annexe ch. 3 de l’O du 25 juin 2025 sur l’aménagement des cours d’eau, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
 
 #### Art. 41d
 
@@ -929,7 +953,7 @@ Les détenteurs de centrales hydroélectriques sont tenus d’ouvrir l’accès 
 
 <sup>3</sup> Sur ordre de l’autorité, les détenteurs de centrales hydroélectriques examinent l’efficacité des mesures prises.
 
-[^41g-1]: [RS 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^41g-1]: [RS 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 [^41g-2]: Nouvelle teneur de la phrase selon l’annexe 7 ch. II 2 de l’O du 1<sup>er</sup> nov. 2017 sur l’énergie, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6889](https://fedlex.data.admin.ch/eli/oc/2017/763)).
 
 ### Section 3 Curage et vidange des bassins de retenue
@@ -1001,7 +1025,7 @@ Les détenteurs d’installations sont tenus d’ouvrir l’accès de leurs inst
 <sup>4</sup> Sur ordre de l’autorité, les détenteurs de centrales hydroélectriques examinent l’efficacité des mesures prises.
 
 [^42c-1]: Introduit par le ch. I de l’O du 4 mai 2011, en vigueur depuis le 1<sup>er</sup> juin 2011 ([RO 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
-[^42c-2]: [RS 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^42c-2]: [RS 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 [^42c-3]: Nouvelle teneur de la phrase selon l’annexe 7 ch. II 2 de l’O du 1<sup>er</sup> nov. 2017 sur l’énergie, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6889](https://fedlex.data.admin.ch/eli/oc/2017/763)).
 
 #### Art. 43
@@ -1082,9 +1106,9 @@ L’autorité fixe en fonction de la situation locale:
 [^46-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2011, en vigueur depuis le 1<sup>er</sup> juin 2011 ([RO 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 [^46-2]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2011, en vigueur depuis le 1<sup>er</sup> juin 2011 ([RO 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 [^46-3]: Introduit par le ch. I de l’O du 4 mai 2011, en vigueur depuis le 1<sup>er</sup> juin 2011 ([RO 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
-[^46-4]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^46-5]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
-[^46-6]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^46-4]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^46-5]: [RS 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
+[^46-6]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 
 #### Art. 47
 
@@ -1174,7 +1198,7 @@ Une valeur limite au sens de l’art. 9, al. 3, LEaux est considérée comme dé
 L’OFEV prescrit les modèles de géodonnées et les modèles de représentation minimaux pour les géodonnées de base visées par la présente ordonnance, lorsqu’il est désigné comme service spécialisé de la Confédération dans l’annexe 1 de l’ordonnance du 21 mai 2008 sur la géoinformation[^49a-2].
 
 [^49a-1]: Introduit par l’annexe 2 ch. 7 de l’O du 21 mai 2008 sur la géoinformation, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
-[^49a-2]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^49a-2]: [RS 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 
 #### Art. 50
 
@@ -1201,7 +1225,7 @@ Le Département est habilité à approuver, avec l’accord du Département féd
 [^51-1]: Nouvelle teneur selon le ch. II 12 de l’O du 2 fév. 2000 relative à la LF sur la coordination et la simplification des procédures de décision ([RO 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 [^51-2]: Nouvelle teneur selon le ch. I de l’O du 4 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
 [^51-3]: [FF 1993 III 873](https://fedlex.data.admin.ch/eli/fga/1993/3_921_873_713)
-[^51-4]: [[RO 1965 395](https://fedlex.data.admin.ch/eli/oc/1965/388_395_390), [1979 93](https://fedlex.data.admin.ch/eli/oc/1979/93_93_93)art. 2. [RO 2003 1934](https://fedlex.data.admin.ch/eli/oc/2003/294)art. 19 ch. 1 let. a]. Voir actuellement la conv. du 12 avril 1999 pour la protection du Rhin ([RS 0.814.284](https://fedlex.data.admin.ch/eli/cc/2003/294)).
+[^51-4]: [[RO 1965 395](https://fedlex.data.admin.ch/eli/oc/1965/388_395_390), [1979 93](https://fedlex.data.admin.ch/eli/oc/1979/93_93_93)art. 2. [RO 2003 1934](https://fedlex.data.admin.ch/eli/oc/2003/294)art. 19 ch. 1 let. a]. Voir actuellement la conv. du 12 avril 1999 pour la protection du Rhin ([RS 0.814.284](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3509)).
 [^51-5]: [[RO 1979 96](https://fedlex.data.admin.ch/eli/oc/1979/97_96_97), [1983 323](https://fedlex.data.admin.ch/eli/oc/1983/323_323_323), [1989 161](https://fedlex.data.admin.ch/eli/oc/1989/161_161_161). [RO 2003 1934](https://fedlex.data.admin.ch/eli/oc/2003/294)art. 19 ch. 1 let. c]
 [^51-6]: Introduit par le ch. II 12 de l’O du 2 fév. 2000 relative à la LF sur la coordination et la simplification des procédures de décision ([RO 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
@@ -1347,7 +1371,7 @@ Des indemnités peuvent être allouées au cas par cas lorsque les mesures:
 <sup>6</sup> Aucune indemnité ne sera allouée en vertu de l’art. 62*b*, al. 1, LEaux pour des mesures devant être réalisées en application de l’art. 4 de la loi fédérale du 21 juin 1991 sur l’aménagement des cours d’eau[^54b-2].
 
 [^54b-1]: Introduit par le ch. I de l’O du 4 mai 2011, en vigueur depuis le 1<sup>er</sup> juin 2011 ([RO 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
-[^54b-2]: [RS 721.100](https://fedlex.data.admin.ch/eli/cc/1993/234_234_234)
+[^54b-2]: [RS 721.100](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8402)
 
 #### Art. 55
 
@@ -1400,11 +1424,37 @@ Les aides financières allouées pour l’information de la population se monten
 
 **Coûts imputables**[^58-1]
 
-<sup>1</sup> Ne sont imputables que les coûts effectifs et directement nécessaires à l’accomplissement approprié de la tâche subventionnée. Ils comprennent également les coûts d’installations pilotes et, dans le cas des revitalisations d’eaux, les coûts engendrés par l’achat des terrains nécessaires.
+<sup>1</sup> Seuls sont imputables les coûts effectifs et directement nécessaires à l’accomplissement approprié de la tâche subventionnée.
 
-<sup>2</sup> Ne sont en particulier pas imputables les taxes et les impôts.
+<sup>2</sup>
 
-[^58-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2011, en vigueur depuis le 1<sup>er</sup> juin 2011 ([RO 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
+Sont imputables pour le versement des indemnités visées aux art. 52 et 52*a* les coûts:
+
+- a. de la mise en place d’installations et d’équipements servant à l’élimination de l’azote;
+- b. des mesures servant à l’élimination des composés traces organiques;
+- c. de la mise en place et de l’exploitation d’installations pilotes pour mettre en œuvre des mesures servant à l’élimination de l’azote ou des composés traces organiques;
+- d. de la mise en place d’égouts au lieu d’installations et d’équipements servant à l’élimination de l’azote ou des composés traces organiques.
+
+<sup>3</sup> Ne sont pas imputables au titre des indemnités visées aux art. 52 et 52*a* en particulier les taxes et les impôts ainsi que les coûts de l’acquisition de terrain.
+
+<sup>4</sup>
+
+Sont imputables pour le versement des indemnités visées à l’art. 54*b* les coûts:
+
+- a. de la réalisation des études de base et de la planification des mesures;
+- b. de l’exécution et de la mise en œuvre;
+- c. de l’acquisition de terrain, de l’établissement de servitudes et de l’expropriation formelle et matérielle;
+- d. du bornage.
+
+<sup>5</sup>
+
+Ne sont pas imputables au titre des indemnités visées à l’art. 54*b* en particulier:
+
+- a. les taxes perçues;
+- b. les coûts des plus-values importantes générées par les mesures, indépendamment de la revitalisation;
+- c. les dépenses administratives.
+
+[^58-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 25 juin 2025 sur l’aménagement des cours d’eau, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
 
 ### Section 2 Procédure pour l’octroi d’indemnités globales
 
@@ -1494,7 +1544,7 @@ L’office fédéral compétent retient tout ou partie des paiements échelonné
 
 <sup>4</sup> Si le canton n’exécute pas correctement la prestation malgré l’injonction de l’office fédéral ou s’il ne renonce pas à la désaffectation ou ne l’annule pas, la restitution est régie par les art. 28 et 29 de la loi du 5 octobre 1990 sur les subventions (LSu)[^61b-1].
 
-[^61b-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^61b-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ### Section 3 Procédure pour l’octroi d’indemnités ou d’aides financières au cas par cas
 
@@ -1530,7 +1580,7 @@ L’office fédéral compétent retient tout ou partie des paiements échelonné
 
 <sup>4</sup> Si le canton ne renonce pas à la désaffectation ou ne n’annule pas, la restitution est régie par l’art. 29 LSu.
 
-[^61e-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^61e-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 61f
 
@@ -1835,11 +1885,11 @@ Annexe 3.1[^t-2]
 <tr><td>1</td><td>Substances non dissoutes totales</td><td>Pour les installations de moins de 10 000 EH: – concentration dans les eaux déversées: 20 mg/l Pour les installations de 10 000 EH et plus: – concentration dans les eaux déversées: 15 mg/l</td></tr>
 <tr><td>2</td><td>Demande chimique en oxygène *(DCO)*</td><td>Pour les installations de moins de 10 000 EH: – concentration dans les eaux déversées: 60 mg/l O<sub>2</sub> et – taux d’épuration par rapport aux eaux polluées brutes: 80 % Pour les installations de 10 000 EH et plus: – concentration dans les eaux déversées: 45 mg/l O<sub>2</sub> et – taux d’épuration par rapport aux eaux polluées brutes: 85 %</td></tr>
 <tr><td>3</td><td>Carbone organique dissous *(COD*)</td><td>Pour les installations de 2000 EH et plus: – concentration dans les eaux déversées: 10 mg/l et – taux d’épuration: 85 %, exprimé comme il suit:</td></tr>
-<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20250101/fr/xml/image/image1.png)</td></tr>
+<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20250801/fr/xml/image/image1.png)</td></tr>
 <tr><td></td><td></td><td>Si les valeurs ne sont pas respectées, l’autorité identifiera les substances impliquées, évaluera leur provenance et fixera le cas échéant les exigences à poser conformément aux annexes 3.2 et 3.3.</td></tr>
 <tr><td>4</td><td>Transparence *(d’après la mé**thode de Snellen)*</td><td>30 cm</td></tr>
 <tr><td>5</td><td>Ammonium *(somme de N-NH**<sub>4</sub>**<sup>+</sup>* *et N-NH**<sub>3</sub>**)*</td><td>Si les concentrations d’ammonium dans les eaux polluées peuvent avoir des effets néfastes sur la qualité d’un cours d’eau, les valeurs suivantes sont applicables si la température des eaux polluées est supérieure à 10° C: – concentration dans les eaux déversées: 2 mg/l N et – taux d’efficacité du traitement: 90 %, exprimé comme il suit:</td></tr>
-<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20250101/fr/xml/image/image2.png)</td></tr>
+<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20250801/fr/xml/image/image2.png)</td></tr>
 <tr><td></td><td></td><td>Dans ces cas, on procédera à une nitrification durant toute l’année. *Remarque: l’azote obtenu par la méthode de Kjeldahl est la somme de l’azote contenu dans l’ammonium, l’ammoniac et les substances azotées organiques.*</td></tr>
 <tr><td>6</td><td>Nitrite *(N-NO**<sub>2</sub>**<sup>-</sup>**)*</td><td>0,3 mg/l N (valeur indicative)</td></tr>
 <tr><td>7</td><td>Composés organiques halogénés adsorbables *(AOX)*</td><td>0,08 mg/l X Si la valeur n’est pas respectée, l’autorité identifiera les substances impliquées, évaluera leur provenance et fixera le cas échéant les exigences à poser conformément aux annexes 3.2 et 3.3.</td></tr>
@@ -2267,7 +2317,7 @@ Lorsque les eaux sont polluées par l’exploitation des sols dans les aires d�
 - f. maintenir une couverture végétale du sol en permanence et en toutes circonstances;
 - g. utiliser exclusivement des moyens auxiliaires techniques, des procédés, des équipements et des méthodes d’exploitation particulièrement adaptés.
 
-[^annex4-lvlu1-lvl2-lvl21-lvl212-1]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^annex4-lvlu1-lvl2-lvl21-lvl212-1]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 ### 22 Zones de protection des eaux souterraines
 
@@ -2287,9 +2337,9 @@ Lorsque les eaux sont polluées par l’exploitation des sols dans les aires d�
 
 <sup>2</sup> L’utilisation de produits pour la conservation du bois, de produits phytosanitaires et d’engrais est régie par les annexes 2.4, ch. 1, 2.5 et 2.6 de l’ORRChim.
 
-[^annex4-lvlu1-lvl2-lvl22-lvl221-1]: [RS 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
-[^annex4-lvlu1-lvl2-lvl22-lvl221-2]: [RS 734.1](https://fedlex.data.admin.ch/eli/cc/1994/1185_1185_1185)
-[^annex4-lvlu1-lvl2-lvl22-lvl221-3]: [RS 734.2](https://fedlex.data.admin.ch/eli/cc/1994/1199_1199_1199)
+[^annex4-lvlu1-lvl2-lvl22-lvl221-1]: [RS 746.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8897)
+[^annex4-lvlu1-lvl2-lvl22-lvl221-2]: [RS 734.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8571)
+[^annex4-lvlu1-lvl2-lvl22-lvl221-3]: [RS 734.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8573)
 
 ### 221<sup>bis</sup> Zone S<sub>m</sub>
 

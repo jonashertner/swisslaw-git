@@ -4,11 +4,11 @@ title: Waters Protection Ordinance of 28 October 1998 (WPO)
 short: WPO
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863"
 language: en
-version: 2025-01-01
+version: 2025-08-01
 adopted: 1998-10-28
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20250101/en/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20250101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20250101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20250801/en/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20250801-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20250801/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (WPO)
 
-of 28 October 1998 (Status as of 1 January 2025)
+of 28 October 1998 (Status as of 1 August 2025)
 
 The Swiss Federal Council,
 
@@ -27,7 +27,7 @@ based on Articles 9, 14 paragraph 7, 16, 19 paragraph 1, 27 paragraph 2, 36*a* p
 
 ordains:
 
-[^ingress-1]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^ingress-1]: [SR 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
 [^ingress-2]: Amended by No I of the O of 4 May 2011, in force since 1 June 2011 ([AS 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 
 ## Chapter 1 General Provisions
@@ -48,51 +48,51 @@ ordains:
 
 This Ordinance regulates:
 
-- a. ecological goals for waters;
-- b. requirements on water quality;
-- c. disposal of waste water;
-- d. disposal of sewage sludge;
-- e. requirements for animal husbandry farms;
-- f. protection of waters in terms of area planning;
-- g. maintenance of appropriate residual flow;
-- h.[^2-1] prevention and remediation of other harmful effects on waters;
-- i. granting of federal contributions.
+- a. the ecological goals for waters;
+- b. the requirements on water quality;
+- c. the disposal of wastewater;
+- d. the disposal of sewage sludge;
+- e. the requirements for animal husbandry farms;
+- f. the protection of waters in terms of area planning;
+- g. the maintenance of appropriate residual flow;
+- h.[^2-1] the prevention and remediation of other harmful effects on waters;
+- i. the payment of federal contributions.
 
 <sup>2</sup> The Ordinance applies to radioactive substances, insofar as such substances have biological effects resulting from their chemical characteristics. Insofar as these substances have biological effects resulting from radiation, the legislation on radiation protection and nuclear energy applies.
 
 [^2-1]: Amended by No I of the O of 4 May 2011, in force since 1 June 2011 ([AS 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 
-## Chapter 2 Disposal of Waste Water
+## Chapter 2 Disposal of Wastewater
 
-### Section 1 Differentiation between Polluted and Non-Polluted Waste Water
+### Section 1 Differentiation between Polluted and Non-Polluted Wastewater
 
 #### Art. 3
 
 <sup>1</sup>
 
-The authorities shall assess whether waste water entering a body of water by way of discharge or infiltration is considered to be polluted or non-polluted, taking account of:
+The authorities shall assess whether wastewater entering a body of water by way of discharge or infiltration is considered to be polluted or non-polluted, taking account of:
 
-- a. the type, the amount, the characteristics and the temporal occurrence of potential water pollutants substances in the waste water;
+- a. the type, the amount, the characteristics and the temporal occurrence of potential water pollutants substances in the wastewater;
 - b. the condition of the receiving waters.
 
 <sup>2</sup>
 
-During infiltration of waste water, they shall also take account of whether:
+During infiltration of wastewater, they shall also take account of whether:
 
-- a. waste water can be polluted because of existing soil pollution or the unsaturated subsoil;
-- b.[^3-1] waste water is sufficiently purified in the soil or in the unsaturated subsoil;
+- a. wastewater can be polluted because of existing soil pollution or the unsaturated subsoil;
+- b.[^3-1] wastewater is sufficiently purified in the soil or in the unsaturated subsoil;
 - c. guide values under the Ordinance of 1 July 1998[^3-2] on the Pollution of Soil (SoilPO) can be maintained in the long term**,** excepting infiltration into a plant intended for this purpose**,** or onto roads next to embankments or grass verges.
 
 <sup>3</sup>
 
-Precipitation water running off built-up or sealed surfaces is as a rule considered to be non-polluted waste water if it:
+Precipitation water running off built-up or sealed surfaces is as a rule considered to be non-polluted wastewater if it:
 
 - a. originates from roof surfaces;
 - b.[^3-3] originates from roads, paths and areas on which no substantial amounts of potential water pollutants are unloaded, processed and stored and if they are sufficiently purified by infiltration into the ground. In assessing whether amounts of substances are substantial, the risk of accidents must be taken into consideration;
 - c.[^3-4] originates from track installations where there is a long-term guarantee that pesticides will not be used or if pesticides have been sufficiently retained and degraded by a biologically active layer of soil.
 
 [^3-1]: Amended by No I of the O of 4 May 2011, in force since 1 June 2011 ([AS 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
-[^3-2]: [SR 814.12](https://fedlex.data.admin.ch/eli/cc/1998/1854_1854_1854)
+[^3-2]: [SR 814.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9475)
 [^3-3]: Amended by No I of the O of 4 May 2011, in force since 1 June 2011 ([AS 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 [^3-4]: Amended by No I of the O of 4 May 2011, in force since 1 June 2011 ([AS 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 
@@ -108,11 +108,11 @@ Precipitation water running off built-up or sealed surfaces is as a rule conside
 
 The RDP determines in particular:
 
-- a. the locations of waste water treatment plants and areas which are to be joined to them;
-- b. which and to what extent surface waters are suitable for the discharge of waste water, particularly that arising from precipitation;
-- c. the waste water treatment plants for which requirements in respect of discharge of waste water must be stricter or supplemented.
+- a. the locations of wastewater treatment plants and areas which are to be joined to them;
+- b. which and to what extent surface waters are suitable for the discharge of wastewater, particularly that arising from precipitation;
+- c. the wastewater treatment plants for which requirements in respect of discharge of wastewater must be stricter or supplemented.
 
-<sup>3</sup> In drawing up the RDP, the authorities shall take account of spatial requirements of waters, flood protection and measures for waters protection other than waste water treatment.
+<sup>3</sup> In drawing up the RDP, the authorities shall take account of spatial requirements of waters, flood protection and measures for waters protection other than wastewater treatment.
 
 <sup>4</sup> The RDP is mandatory for planning and establishing of waters protection measures in communes.
 
@@ -128,13 +128,13 @@ The RDP determines in particular:
 
 The GDP shall specify as a minimum:
 
-- a. waste water treatment areas that must be served by public sewers;
-- b. areas in which precipitation water running off built-up or sealed surfaces must be disposed of separately from other waste water;
-- c. areas in which non-polluted waste water must be allowed to infiltrate;
-- d. areas in which non-polluted waste water must be discharged into surfacewaters;
-- e. measures by which non-polluted waste water with permanent flow must be kept away from waste water treatment plants;
-- f. the locations where waste water treatment plantsmust be set up, and withwhich treatment system and with what capacity;
-- g. areas in which systems other than waste water treatment plants must be used, and how, in these areas, waste water is to be disposed of.
+- a. wastewater treatment areas that must be served by public sewers;
+- b. areas in which precipitation water running off built-up or sealed surfaces must be disposed of separately from other wastewater;
+- c. areas in which non-polluted wastewater must be allowed to infiltrate;
+- d. areas in which non-polluted wastewater must be discharged into surfacewaters;
+- e. measures by which non-polluted wastewater with permanent flow must be kept away from wastewater treatment plants;
+- f. the locations where wastewater treatment plantsmust be set up, and withwhich treatment system and with what capacity;
+- g. areas in which systems other than wastewater treatment plants must be used, and how, in these areas, wastewater is to be disposed of.
 
 <sup>3</sup>
 
@@ -145,20 +145,20 @@ The GDP shall be adjusted if necessary:
 
 <sup>4</sup> It shall be accessible to the public.
 
-### Section 3 Discharge of Polluted Waste Water
+### Section 3 Discharge of Polluted Wastewater
 
 #### Art. 6
 
 **Discharge into waters**
 
-<sup>1</sup> The authorities shall authorise the discharge of polluted waste water into surfacewaters, drainage areas, underground rivers and streams if the requirements on discharge into waters according to Annex 3 are complied with.
+<sup>1</sup> The authorities shall authorise the discharge of polluted wastewater into surfacewaters, drainage areas, underground rivers and streams if the requirements on discharge into waters according to Annex 3 are complied with.
 
 <sup>2</sup>
 
 They shall set additional or stricter requirements, if:
 
-- a. the waters concerned by the discharge of waste water do not fulfil water quality requirements according to Annex 2 or if this is necessary to comply with international agreements or decisions; and
-- b. on the basis of investigation (Art. 47) it is certain that deficient water quality is largely due to discharge of waste water, and procedures necessary to comply are not disproportionate for the waste water treatment plant.
+- a. the waters concerned by the discharge of wastewater do not fulfil water quality requirements according to Annex 2 or if this is necessary to comply with international agreements or decisions; and
+- b. on the basis of investigation (Art. 47) it is certain that deficient water quality is largely due to discharge of wastewater, and procedures necessary to comply are not disproportionate for the wastewater treatment plant.
 
 <sup>3</sup> They may set additional or stricter requirements if the water quality according to Annex 2 is not sufficient for a specific use of the body of water concerned.
 
@@ -166,21 +166,21 @@ They shall set additional or stricter requirements, if:
 
 They may apply less stringent requirements if:
 
-- a. by reducing the amounts of waste water discharged, fewer potential water pollutants are discharged even though the concentrations allowed are higher; or
-- b. the environment as a whole is less impaired by the discharge of non-recyclable substances in industrial waste water than by another method of disposal; requirements on water quality according to Annex 2 and international agreements or decisions must be complied with.
+- a. by reducing the amounts of wastewater discharged, fewer potential water pollutants are discharged even though the concentrations allowed are higher; or
+- b. the environment as a whole is less impaired by the discharge of non-recyclable substances in industrial wastewater than by another method of disposal; requirements on water quality according to Annex 2 and international agreements or decisions must be complied with.
 
 #### Art. 7
 
 **Discharge into public sewers**
 
-<sup>1</sup> The authorities shall authorise discharge of waste water from industry according to Annex 3.2 or of other waste water according to Annex 3.3 into public sewers if the requirements of the relevant Annex are complied with.
+<sup>1</sup> The authorities shall authorise discharge of wastewater from industry according to Annex 3.2 or of other wastewater according to Annex 3.3 into public sewers if the requirements of the relevant Annex are complied with.
 
 <sup>2</sup>
 
-They shall set additional or stricter requirementsif by discharge of waste water:
+They shall set additional or stricter requirementsif by discharge of wastewater:
 
 - a. operation of public sewers may be restricted or disrupted;
-- b. in the case of waste water from the central waste water treatment plant, the requirements on discharge into a body of water are not met or may only be met by disproportionate measures, or could restrict or disrupt the operation of the plant in another way; or
+- b. in the case of wastewater from the central wastewater treatment plant, the requirements on discharge into a body of water are not met or may only be met by disproportionate measures, or could restrict or disrupt the operation of the plant in another way; or
 - c.[^7-1] ...
 - d. the operation of the plant in which sludge is incinerated may restricted or disrupted.
 
@@ -188,9 +188,9 @@ They shall set additional or stricter requirementsif by discharge of waste water
 
 They may apply less stringent requirements if:
 
-- a. by reducing the amounts of waste water discharged, fewer potential water pollutants are discharged even though the concentrations allowed are higher;
-- b. the environment as a whole will be less impaired by the discharge of non-recyclable substances in industrial waste water than by another disposal method**,** and in the case of waste water from the central waste water treatment plant**,** requirements on discharge into a body of water are met; or
-- c. this is appropriate for the operation of the waste water treatment plant.
+- a. by reducing the amounts of wastewater discharged, fewer potential water pollutants are discharged even though the concentrations allowed are higher;
+- b. the environment as a whole will be less impaired by the discharge of non-recyclable substances in industrial wastewater than by another disposal method**,** and in the case of wastewater from the central wastewater treatment plant**,** requirements on discharge into a body of water are met; or
+- c. this is appropriate for the operation of the wastewater treatment plant.
 
 [^7-1]: Repealed by No I of the O of 4 Nov. 2015, with effect from 1 Jan. 2016 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
 
@@ -198,51 +198,51 @@ They may apply less stringent requirements if:
 
 **Infiltration**
 
-<sup>1</sup> The infiltration of polluted waste water is prohibited.
+<sup>1</sup> The infiltration of polluted wastewater is prohibited.
 
 <sup>2</sup>
 
-The authorities may authorise the infiltration of communal waste water or of other polluted waste water of comparable composition, if:
+The authorities may authorise the infiltration of communal wastewater or of other polluted wastewater of comparable composition, if:
 
-- a. the waste water has been treated and meets the requirements for discharge into waters;
-- b. in the case of the groundwater concerned, water quality requirements according to Annex 2 are met after infiltration of the waste water;
+- a. the wastewater has been treated and meets the requirements for discharge into waters;
+- b. in the case of the groundwater concerned, water quality requirements according to Annex 2 are met after infiltration of the wastewater;
 - c. infiltration ensues at an installation intended for the purpose, the directives of the SoilPO[^8-1] are not exceeded even in the long term, or in the absence of directives soil fertility is also guaranteed in the long term; and
-- d. requirements valid for waste water treatment plants which discharge waste water into a body of water are met (Arts. 13–17).
+- d. requirements valid for wastewater treatment plants which discharge wastewater into a body of water are met (Arts. 13–17).
 
-[^8-1]: [SR 814.12](https://fedlex.data.admin.ch/eli/cc/1998/1854_1854_1854)
+[^8-1]: [SR 814.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9475)
 
 #### Art. 9
 
-**Waste water of specific origin**
+**Wastewater of specific origin**
 
-<sup>1</sup> Polluted waste water occurring outside public sewers for which neither discharge into waters, nor infiltration, nor use combined with farm manure (Art. 12 para. 4 WPA) is permitted must be collected in a cesspit which is regularly emptied with its contents being transferred to a central waste water treatment plant or facility for special treatment.
+<sup>1</sup> Polluted wastewater occurring outside public sewers for which neither discharge into waters, nor infiltration, nor use combined with farm manure (Art. 12 para. 4 WPA) is permitted must be collected in a cesspit which is regularly emptied with its contents being transferred to a central wastewater treatment plant or facility for special treatment.
 
-<sup>2</sup> Waste water from processing farm manure, hydroponics and other horticultural methods must be used in an environmentally compatible manner and reused agriculturally or horticulturally according to the state of the art.
+<sup>2</sup> Wastewater from processing farm manure, hydroponics and other horticultural methods must be used in an environmentally compatible manner and reused agriculturally or horticulturally according to the state of the art.
 
 <sup>3</sup>
 
-Waste water from mobile sanitation facilities must be collected and may be discharged into public sewers only by using equipment intended for this purpose. Excluded from this are sanitation facilities in:
+Wastewater from mobile sanitation facilities must be collected and may be discharged into public sewers only by using equipment intended for this purpose. Excluded from this are sanitation facilities in:
 
-- a. railway carriages with their own waste water treatment facilities;
+- a. railway carriages with their own wastewater treatment facilities;
 - b. railway carriages for long-distance traffic which were commissioned before 1 January 1 1997;
 - c. railway carriages for regional or urban traffic which were commissioned before 1 January 2000.
 
 #### Art. 10
 
-**Prohibition of waste disposal with waste water**
+**Prohibition of waste disposal with wastewater**
 
 It is prohibited:
 
-- a. to dispose of solid and liquid wastes with waste water unless this is expedient for treatment of waste water;
+- a. to dispose of solid and liquid wastes with wastewater unless this is expedient for treatment of wastewater;
 - b. to discharge substances in a way which is contrary to instructions on the manufacturer’s label or in the directions for use.
 
-### Section 4 Construction and Operation of Waste Water Treatment Plants
+### Section 4 Construction and Operation of Wastewater Treatment Plants
 
 #### Art. 11
 
-**Separation of waste water in buildings**
+**Separation of wastewater in buildings**
 
-During construction or substantial building alterations, the persons responsible for the buildings must ensure that precipitation water and permanent flows of non-polluted waste water are channelled off separately from polluted waste water prior to reaching the outside of the building.
+During construction or substantial building alterations, the persons responsible for the buildings must ensure that precipitation water and permanent flows of non-polluted wastewater are channelled off separately from polluted wastewater prior to reaching the outside of the building.
 
 #### Art. 12
 
@@ -250,12 +250,12 @@ During construction or substantial building alterations, the persons responsible
 
 <sup>1</sup>
 
-The discharge of polluted waste water into public sewers outside building zones (Art. 11 para. 2 let. c WPA) is:
+The discharge of polluted wastewater into public sewers outside building zones (Art. 11 para. 2 let. c WPA) is:
 
 - a. expedient if the connection may be constructed properly and with standard building expenditure;
 - b. reasonable if the costs of the connection do not substantially exceed those for comparable connections within the building zone.
 
-<sup>2</sup> The authorities may only authorise new discharges of permanent flows of non-polluted waste water into a central waste water treatment plant (Art. 12 para. 3 WPA) if local conditions do not permit infiltration or discharge into a body of water
+<sup>2</sup> The authorities may only authorise new discharges of permanent flows of non-polluted wastewater into a central wastewater treatment plant (Art. 12 para. 3 WPA) if local conditions do not permit infiltration or discharge into a body of water
 
 <sup>3</sup> In order for a farm to qualify for exemption from the bond to be connected to the public sewers (Art 12 para. 4 WPA), its cattle and pig stock must comprise at least eight livestock units.
 
@@ -265,7 +265,7 @@ The discharge of polluted waste water into public sewers outside building zones 
 
 <sup>1</sup>
 
-Persons responsible for waste water treatment plants must:
+Persons responsible for wastewater treatment plants must:
 
 - a. maintain the facilities in working order;
 - b. identify cases of divergence from normal operation, clarify the causes and immediately rectify these;
@@ -273,7 +273,7 @@ Persons responsible for waste water treatment plants must:
 
 <sup>2</sup>
 
-Persons responsible for enterprises discharging industrial waste water into public sewers as well as persons responsible for waste water treatment plants discharging waste water into the public sewers or into a body of water must ensure that:
+Persons responsible for enterprises discharging industrial wastewater into public sewers as well as persons responsible for wastewater treatment plants discharging wastewater into the public sewers or into a body of water must ensure that:
 
 - a. those responsible for the operation are named;
 - b. operating staff possess the necessary expert knowledge; and
@@ -284,8 +284,8 @@ Persons responsible for enterprises discharging industrial waste water into publ
 Under paragraph 2, the authorities may require that owners:
 
 - a. determine the amounts and concentrations of substances discharged which would influence the quality of the polluted water and of the receiving waters by virtue of their properties, quantity and period of discharge, even if the authorisation contains no numerical requirements;
-- b. conserve certain waste water test results for an appropriate period;
-- c. determine the effects of waste water discharge or infiltration on water quality if there is a risk that the water quality requirements under Annex 2 are not complied with.
+- b. conserve certain wastewater test results for an appropriate period;
+- c. determine the effects of wastewater discharge or infiltration on water quality if there is a risk that the water quality requirements under Annex 2 are not complied with.
 
 <sup>4</sup> The amounts and concentrations of substances discharged may be determined arithmetically on the basis of substance flows.
 
@@ -295,17 +295,17 @@ Under paragraph 2, the authorities may require that owners:
 
 <sup>1</sup>
 
-Persons responsible for enterprises that discharge industrial waste water into public sewers and persons responsible for waste water treatment plants who discharge waste water into public sewers or into a body of water must report to and as instructed by the authorities:
+Persons responsible for enterprises that discharge industrial wastewater into public sewers and persons responsible for wastewater treatment plants who discharge wastewater into public sewers or into a body of water must report to and as instructed by the authorities:
 
-- a. the amount of waste water discharged;
+- a. the amount of wastewater discharged;
 - b. the amounts and concentrations of substances discharged which they must determine according to Article 13.
 
 <sup>2</sup>
 
-Persons responsible for central waste water treatment plants must also report:
+Persons responsible for central wastewater treatment plants must also report:
 
 - a. important operating data such as degree of effectiveness, quantity and characteristics of sludge, type of sludge disposal, energy consumptionand operating costs;
-- b. conditions in the catchment area of the plant, such as connectionrate and the percentage of non-polluted waste water with permanent flow.
+- b. conditions in the catchment area of the plant, such as connectionrate and the percentage of non-polluted wastewater with permanent flow.
 
 #### Art. 15
 
@@ -315,7 +315,7 @@ Persons responsible for central waste water treatment plants must also report:
 
 The authorities shall examine periodically whether:
 
-- a. enterprises which discharge industrial waste water into public sewers, and waste water treatment plants which discharge waste water into public sewers or into a body of water are complying with the requirements set out in the authorisation;
+- a. enterprises which discharge industrial wastewater into public sewers, and wastewater treatment plants which discharge wastewater into public sewers or into a body of water are complying with the requirements set out in the authorisation;
 - b. these requirements continue to guarantee adequate waters protection.
 
 <sup>2</sup> For this purpose, they shall take account of the results of the assessments made by the person responsible.
@@ -326,22 +326,22 @@ The authorities shall examine periodically whether:
 
 **Measures with reference to exceptional events**
 
-<sup>1</sup> The persons responsible for waste water treatment plants that discharge waste water into a body of water and persons responsible for enterprises who discharge industrial waste water into a waste water treatment plant must take appropriate and economically acceptable measures to reduce the risk of pollution of a body of water arising from exceptional events.
+<sup>1</sup> The persons responsible for wastewater treatment plants that discharge wastewater into a body of water and persons responsible for enterprises who discharge industrial wastewater into a wastewater treatment plant must take appropriate and economically acceptable measures to reduce the risk of pollution of a body of water arising from exceptional events.
 
 <sup>2</sup> If in spite of these measures the risk is unacceptable, the authorities shall order the necessary additional measures.
 
 <sup>3</sup> Regulations in the Major Accidents Ordinance of 27 February 1991[^16-1] and the Ordinance of 20 November 1991[^16-2] on the Guarantee of Drinking Water Supplies in Emergencies that go further are reserved.
 
-[^16-1]: [SR 814.012](https://fedlex.data.admin.ch/eli/cc/1991/748_748_748)
-[^16-2]: [[AS 1991 2517](https://fedlex.data.admin.ch/eli/oc/1991/2517_2517_2517), [2017 3179](https://fedlex.data.admin.ch/eli/oc/2017/313)No I 2. [AS 2020 3671](https://fedlex.data.admin.ch/eli/oc/2020/666)Art. 15]. See now: the O of 19 Aug. 2020 ([SR 531.32](https://fedlex.data.admin.ch/eli/cc/2020/666))
+[^16-1]: [SR 814.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9439)
+[^16-2]: [[AS 1991 2517](https://fedlex.data.admin.ch/eli/oc/1991/2517_2517_2517), [2017 3179](https://fedlex.data.admin.ch/eli/oc/2017/313)No I 2. [AS 2020 3671](https://fedlex.data.admin.ch/eli/oc/2020/666)Art. 15]. See now: the O of 19 Aug. 2020 ([SR 531.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7712))
 
 #### Art. 17
 
 **Reporting on exceptional events**
 
-<sup>1</sup> Persons responsible for waste water treatment plants that discharge waste water into a body of water must ensure that any event which is exceptional is reported immediately to the authorities, if such an event or events could lead to a situation in which it is no longer possible to guarantee compliance with the regulations on the discharge of waste water into a body of water or the intended use or disposal of sludge.
+<sup>1</sup> Persons responsible for wastewater treatment plants that discharge wastewater into a body of water must ensure that any event which is exceptional is reported immediately to the authorities, if such an event or events could lead to a situation in which it is no longer possible to guarantee compliance with the regulations on the discharge of wastewater into a body of water or the intended use or disposal of sludge.
 
-<sup>2</sup> Persons responsible for enterprises that discharge industrial waste water must ensure that exceptional events are immediately reported to the owner of the waste water treatment plant if these could lead to a situation in which the normal, orderly operation of the water or waste water treatment plant is restricted or disrupted.
+<sup>2</sup> Persons responsible for enterprises that discharge industrial wastewater must ensure that exceptional events are immediately reported to the owner of the wastewater treatment plant if these could lead to a situation in which the normal, orderly operation of the water or wastewater treatment plant is restricted or disrupted.
 
 <sup>3</sup> The authorities shall ensure that the communities and individuals affected by an exceptional event are informed about possible harmful effects on waters in due time. If substantial effects may be expected beyond cantonal or national boundaries, they shall also ensure that the federal alarm centre, as well as the neighbouring cantons and states are notified.
 
@@ -363,7 +363,7 @@ The authorities shall examine periodically whether:
 
 The disposal plan sets the following as a minimum:
 
-- a. how sludge from the central waste water treatment plants should be disposed of;
+- a. how sludge from the central wastewater treatment plants should be disposed of;
 - b. which procedures, including construction and modification of installations used for disposal of sludge, are required at what time.
 
 <sup>3</sup> The sludge disposal plan shall be accessible to the public.
@@ -372,9 +372,9 @@ The disposal plan sets the following as a minimum:
 
 **Storage facilities**
 
-<sup>1</sup> Persons responsible for waste water treatment plants shall ensure that they can store the sludge until environmentally compatible disposal is guaranteed.
+<sup>1</sup> Persons responsible for wastewater treatment plants shall ensure that they can store the sludge until environmentally compatible disposal is guaranteed.
 
-<sup>2</sup> If sludge from a waste water treatment plant cannot be disposed of in an environmentally compatible manner at any time, the plant must have a storage capacity of at least two months.[^19-1]
+<sup>2</sup> If sludge from a wastewater treatment plant cannot be disposed of in an environmentally compatible manner at any time, the plant must have a storage capacity of at least two months.[^19-1]
 
 <sup>3</sup> ...[^19-2]
 
@@ -385,7 +385,7 @@ The disposal plan sets the following as a minimum:
 
 **Inspection and obligation to report**
 
-<sup>1</sup> Persons responsible for waste water treatment plants must ensure that the quality of sludge is inspected within the deadlines imposed by experts.
+<sup>1</sup> Persons responsible for wastewater treatment plants must ensure that the quality of sludge is inspected within the deadlines imposed by experts.
 
 <sup>2</sup> ...[^20-1]
 
@@ -398,7 +398,7 @@ The disposal plan sets the following as a minimum:
 
 **Supply**
 
-<sup>1</sup> Persons responsible for central waste water treatment plants must keep a record of recipients of sludge, the amount supplied, type of disposal declared and time of supply and retain this information for at least ten years and make it available to the authorities on request.
+<sup>1</sup> Persons responsible for central wastewater treatment plants must keep a record of recipients of sludge, the amount supplied, type of disposal declared and time of supply and retain this information for at least ten years and make it available to the authorities on request.
 
 <sup>2</sup> ...[^21-1]
 
@@ -607,8 +607,8 @@ An internal visual inspection must be conducted every ten years for:
 
 <sup>2</sup> If the waters at the site of water withdrawal shows no permanent flow, the authorities shall ensure that the required measures under Federal Act of 1 July 1966[^33-1] on the Protection of Nature and Cultural Heritage and the Federal Act of 21 July 1991[^33-2] on Fish and Fisheries are taken.
 
-[^33-1]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^33-2]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^33-1]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^33-2]: [SR 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
 
 #### Art. 33a
 
@@ -822,7 +822,7 @@ In the absence of any overriding interests to the contrary, determining the spac
 
 In the space provided for waters, only fixed installations serving the public interest such as footpaths and hiking trails, run-of-river power plants or bridges may be built. The authority may authorise the following installations provided there are no overriding interests to the contrary:
 
-- a. in densely built-up areas, installations that meet zoning requirements;
+- in densely built-up areas, installations that meet zoning requirements;
 - a<sup>bis.</sup>[^41c-1] installations that meet zoning requirements outside densely built-up areas on individual plots of ground that have not been built on within a series of several plots of ground that have been built on;
 - b. agricultural and forestry tracked and gravel paths with a distance of at least 3m from the shoreline of the waters if topographically limited spatial conditions pertain;
 - c. fixed parts of installations that aid water withdrawal or discharge;
@@ -848,9 +848,9 @@ The following do not apply:
 [^41c-1]: Inserted by No I of the O of 22 March 2017, in force since 1 May 2017 ([AS 2017 2585](https://fedlex.data.admin.ch/eli/oc/2017/245)).
 [^41c-2]: Inserted by No I of the O of 22 March 2017, in force since 1 May 2017 ([AS 2017 2585](https://fedlex.data.admin.ch/eli/oc/2017/245)).
 [^41c-3]: Amended by No I of the O of 4 Nov. 2015, in force since 1 Jan. 2016 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
-[^41c-4]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^41c-4]: [SR 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 [^41c-5]: Amended by No I of the O of 4 Nov. 2015, in force since 1 Jan. 2016 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
-[^41c-6]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^41c-6]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 [^41c-7]: Amended by No IV of the O of 2 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
 [^41c-8]: Inserted by No I of the O of 22 March 2017, in force since 1 May 2017 ([AS 2017 2585](https://fedlex.data.admin.ch/eli/oc/2017/245)).
 
@@ -863,7 +863,31 @@ The following do not apply:
 <sup>2</sup> Alternative land must be provided in accordance with the sectoral plan for crop rotation areas (Art. 29 of the Spatial Planning Ordinance of 28 June 2000) in compensation for arable farming land with the quality of crop rotation areas in the space provided for waters that is required to implement structural flood protection or rehabilitation measures.
 
 [^41cbis-1]: Inserted by No I of the O of 4 Nov. 2015 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)). Amended by No I of the O of 22 March 2017, in force since 1 May 2017 ([AS 2017 2585](https://fedlex.data.admin.ch/eli/oc/2017/245)).
-[^41cbis-2]: [SR 700.1](https://fedlex.data.admin.ch/eli/cc/2000/310)
+[^41cbis-2]: [SR 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
+
+#### Art. 41c<sup>ter</sup>
+
+**Preservation or restoration of the natural course**[^41cter-1]
+
+In the event of operations on surface waters, the natural course of the watercourse, which is characterised by its position in the cross-section of the valley, its longitudinal slope, its channel shape, its bed width and its morphological structures and dynamic processes, must as far as possible be preserved or restored.
+
+[^41cter-1]: Inserted by Annex No 3 of the Hydraulic Engineering O of 25 June 2025, in force since 1 Aug. 2025 ([AS 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
+
+#### Art. 41c<sup>quater</sup>
+
+**Ecological development and maintenance**[^41cquater-1]
+
+<sup>1</sup>
+
+Waters and the space provided for waters must be developed and maintained in such a way that habitats typical of the location are preserved and able to develop. habitats typical of the location are based on:
+
+- a. vegetation that develops naturally and regenerates itself;
+- b. characteristic dynamic processes;
+- c. characteristic structures, such as gravel bars, natural and variable banks and deadwood.
+
+<sup>2</sup> When developing and maintaining waters and the space provided for waters excessive warming of the water must be avoided. In particular, natural shade should be encouraged.
+
+[^41cquater-1]: Inserted by Annex No 3 of the Hydraulic Engineering O of 25 June 2025, in force since 1 Aug. 2025 ([AS 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
 
 #### Art. 41d
 
@@ -932,7 +956,7 @@ The persons responsible for hydropower plants must grant access to the authority
 
 <sup>3</sup> The persons responsible for hydropower plants shall verify the effectiveness of the measures taken as required by the authority.
 
-[^41g-1]: [SR 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^41g-1]: [SR 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 [^41g-2]: Second sentence amended by Annex 7 No II 2 of the Energy Ordinance of 1 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 6889](https://fedlex.data.admin.ch/eli/oc/2017/763)).
 
 ### Section 3 Flushing out and Emptying of Impoundments
@@ -1004,7 +1028,7 @@ The persons responsible for installations must allow access to the authority res
 <sup>4</sup> The persons responsible for hydropower plants shall verify the effectiveness of the measures taken in accordance with instructions from the cantonal authority.
 
 [^42c-1]: Inserted by No I of the O of 4 May 2011, in force since 1 June 2011 ([AS 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
-[^42c-2]: [SR 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^42c-2]: [SR 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 [^42c-3]: Second sentence amended by Annex 7 No II 2 of the Energy Ordinance of 1 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 6889](https://fedlex.data.admin.ch/eli/oc/2017/763)).
 
 #### Art. 43
@@ -1080,14 +1104,14 @@ Depending on local circumstances the authorities shall specify:
 
 <sup>2</sup> In drawing up the supply plan for drinking water, they include both groundwater resources already used and those intended for exploitation and ensure that water withdrawals are co-ordinated so that no excessive withdrawals take place and the groundwater resources are used economically.
 
-<sup>3</sup> In granting authorisations for discharges and infiltration under Articles 6-8 the authorities shall take account of both the requirements of the Environmental Protection Act of 7 October 1983[^46-4] on public protection from odour emissions as well as the requirements of the Employment Act of 13 March 1964[^46-5] and the Accident Insurance Act of 20 March 1981[^46-6] on protection of the health of staff at waste water treatment plants.
+<sup>3</sup> In granting authorisations for discharges and infiltration under Articles 6-8 the authorities shall take account of both the requirements of the Environmental Protection Act of 7 October 1983[^46-4] on public protection from odour emissions as well as the requirements of the Employment Act of 13 March 1964[^46-5] and the Accident Insurance Act of 20 March 1981[^46-6] on protection of the health of staff at wastewater treatment plants.
 
 [^46-1]: Amended by No I of the O of 4 May 2011, in force since 1 June 2011 ([AS 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 [^46-2]: Amended by No I of the O of 4 May 2011, in force since 1 June 2011 ([AS 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 [^46-3]: Inserted by No I of the O of 4 May 2011, in force since 1 June 2011 ([AS 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
-[^46-4]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^46-5]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
-[^46-6]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^46-4]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^46-5]: [SR 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
+[^46-6]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 
 #### Art. 47
 
@@ -1166,7 +1190,7 @@ A limit value in accordance with Article 9 paragraph 3 WPA is considered to be r
 
 <sup>1</sup> The FOEN shall provide information on the state of waters and waters protection, provided this is in the interest of Switzerland as a whole. In particular it shall publish reports on the state of waters protection in Switzerland. The cantonal authorities shall provide the necessary information.
 
-<sup>2</sup> The cantonal authorities shall provide information on the state of waters and waters protection in their canton. At the same time they shall also provide information on the measures taken and their impact and on bathing sites where the requirements for bathing are not met (Annex 2 no 11 para. 1 let. e).[^49-1]
+<sup>2</sup> The cantonal authorities shall provide information on the state of waters and waters protection in their canton. At the same time, they shall also provide information on the measures taken and their impact and on bathing sites where the requirements for bathing are not met (Annex 2 no 11 para. 1 let. e).[^49-1]
 
 [^49-1]: Amended by No I of the O of 4 May 2011, in force since 1 June 2011 ([AS 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 
@@ -1177,7 +1201,7 @@ A limit value in accordance with Article 9 paragraph 3 WPA is considered to be r
 The FOEN shall provide specifications for the minimum geodata models and presentation models for the official geodata under this Ordinance for which it is designated federal specialist authority in Annex 1 to the Geoinformation Ordinance of 21 May 2008.[^49a-2]
 
 [^49a-1]: Inserted by Annex 2 No 7 of the O of 21 May 2008 on Geoinformation, in force since 1 July 2008 ([AS 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
-[^49a-2]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^49a-2]: [SR 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 
 #### Art. 50
 
@@ -1203,12 +1227,12 @@ The Department is authorised to approve decisions and recommendations that are b
 
 [^51-1]: Amended by No II 12 of the O of 2 Feb. 2000 to the Federal Act on the Coordination and Simplification of Decision-Making Procedures, in force since 1 March 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 [^51-2]: Amended by No I of the O of 4 Nov. 2015, in force since 1 Jan. 2016 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
-[^51-3]: [SR 0.814.293](https://fedlex.data.admin.ch/eli/cc/2005/36)
-[^51-4]: [[AS 1965 388](https://fedlex.data.admin.ch/eli/oc/1965/388_395_390), [1979 93](https://fedlex.data.admin.ch/eli/oc/1979/93_93_93). [AS 2003 1934](https://fedlex.data.admin.ch/eli/oc/2003/294)Art. 19 No 2, 3]. Today: Convention of 12 April 1999 on the International Commission for Protection of the Rhine against Pollution ([SR 0.814.284](https://fedlex.data.admin.ch/eli/cc/2003/294)).
+[^51-3]: [SR 0.814.293](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3530)
+[^51-4]: [[AS 1965 388](https://fedlex.data.admin.ch/eli/oc/1965/388_395_390), [1979 93](https://fedlex.data.admin.ch/eli/oc/1979/93_93_93). [AS 2003 1934](https://fedlex.data.admin.ch/eli/oc/2003/294)Art. 19 No 2, 3]. Today: Convention of 12 April 1999 on the International Commission for Protection of the Rhine against Pollution ([SR 0.814.284](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3509)).
 [^51-5]: [[AS 1979 97](https://fedlex.data.admin.ch/eli/oc/1979/97_96_97), [1983 323](https://fedlex.data.admin.ch/eli/oc/1983/323_323_323), [1989 161](https://fedlex.data.admin.ch/eli/oc/1989/161_161_161). [AS 2003 1934](https://fedlex.data.admin.ch/eli/oc/2003/294)Art. 19 No 2].
 [^51-6]: Inserted by fig. II 12 of the O of 2 Feb. 2000 to the Federal Act on the Coordination and Simplification of Decision-Making Procedures, in force since 1 March 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
-## Chapter 8*a* Federal Waste Water Charge
+## Chapter 8*a* Federal Wastewater Charge
 
 [^chap8a-1]
 
@@ -1218,7 +1242,7 @@ The Department is authorised to approve decisions and recommendations that are b
 
 **Charge rate**
 
-The level of the charge in accordance with Article 60*b* WPA amounts to 9 francs per resident per annum. The charge is based on the number of residents that are connected to the waste water treatment plant on 1 January of the calendar year in which the charge is collected.
+The level of the charge in accordance with Article 60*b* WPA amounts to 9 francs per resident per annum. The charge is based on the number of residents that are connected to the wastewater treatment plant on 1 January of the calendar year in which the charge is collected.
 
 #### Art. 51b
 
@@ -1226,7 +1250,7 @@ The level of the charge in accordance with Article 60*b* WPA amounts to 9 francs
 
 The cantons must:
 
-- a. notify the FOEN each year by 31 March of the number of residents that are connected to each waste water treatment plant on their territory as of 1 January of the calendar year in question;
+- a. notify the FOEN each year by 31 March of the number of residents that are connected to each wastewater treatment plant on their territory as of 1 January of the calendar year in question;
 - b. submit to the FOEN by 31 October of each calendar year the final accounts with requests for compensatory payments under Article 60*b* paragraph 2 WPA that are received by 30 September of the same calendar year.
 
 #### Art. 51c
@@ -1235,7 +1259,7 @@ The cantons must:
 
 <sup>1</sup> The FOEN shall invoice the charge to the subjects liable to pay by 1 June in the calendar year concerned. It shall issue a ruling on the charge in the event of any dispute over the invoice.
 
-<sup>2</sup> At the request of the canton, the FOEN may invoice the canton for the charge if the canton confirms that it collects the charge from the waste water treatment plants on its territory on the same terms as those of the FOEN. This request must be submitted to the FOEN by 31 March.
+<sup>2</sup> At the request of the canton, the FOEN may invoice the canton for the charge if the canton confirms that it collects the charge from the wastewater treatment plants on its territory on the same terms as those of the FOEN. This request must be submitted to the FOEN by 31 March.
 
 <sup>3</sup> Payment must be made within 60 days of the due date. The charge becomes due on receipt of the invoice or, if the invoice is disputed, on the ruling on the charge taking full legal effect in accordance with paragraph 1. In the event of late payment, interest of 5 per cent becomes due.[^51c-1]
 
@@ -1256,7 +1280,7 @@ The time limitation period is interrupted and restarted:
 
 <sup>3</sup> The right to collect the charge expires in every case 15 years from the end of the calendar year in which it arises.
 
-## Chapter 9 Granting of Federal Subsidies
+## Chapter 9 Payment of Federal Contributions
 
 ### Section 1 Measures
 
@@ -1266,25 +1290,25 @@ The time limitation period is interrupted and restarted:
 
 #### Art. 52
 
-**Nitrogen removal at waste water treatment plants[^52-1]**
+**Nitrogen removal at wastewater treatment plants[^52-1]**
 
-<sup>1</sup> The level of the global compensatory payments made to installations and equipment for nitrogen removal (Art. 61 para. 1 WPA) is governed by the number of tonnes of nitrogen removed each year.
+<sup>1</sup> The amount of the global compensatory payments made for installations and equipment for nitrogen removal (Art. 61 para. 1 WPA) is governed by the number of tonnes of nitrogen removed each year.
 
 <sup>2</sup> Insofar as it is necessary to comply with international agreements or decisions of international organisations, the extent and complexity of the measures may also be taken into account.
 
-<sup>3</sup> The level of the global compensatory payments shall be agreed between the FOEN and the canton concerned.
+<sup>3</sup> The amount of the global compensatory payments shall be agreed between the FOEN and the canton concerned.
 
 [^52-1]: Amended by No I of the O of 4 Nov. 2015, in force since 1 Jan. 2016 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
 
 #### Art. 52a
 
-**Elimination of organic trace substances at waste water plants**[^52a-1]
+**Elimination of organic trace substances at wastewater plants**[^52a-1]
 
 <sup>1</sup> Compensatory payments in respect of measures to eliminate organic trace substances under Article 61*a* paragraph 1 WPA shall be made to the cantons on a case-by-case basis.
 
 <sup>2</sup> If the measure giving rise to the compensatory payment is not implemented within five years of payment being assured, the assurance is no longer valid.
 
-<sup>3</sup> If sewers are constructed instead of installations and equipment to eliminate organic trace substances, the maximum costs attributable are those that could have arisen in the event of measures being taken at the waste water treatment plant itself.
+<sup>3</sup> If sewers are constructed instead of installations and equipment to eliminate organic trace substances, the maximum costs allowable are those that could have arisen in the event of measures being taken at the wastewater treatment plant itself.
 
 <sup>4</sup> Before the authority decides on the measure, it shall consult the FOEN.
 
@@ -1294,25 +1318,25 @@ The time limitation period is interrupted and restarted:
 
 **Waste disposal installations**
 
-Compensatory payments made in respect of waste disposal installations eligible for subsidies (Art. 62 paras 1 and 2 WPA) shall be made on a case by case basis for planning, initial establishment and extension.
+Compensatory payments made in respect of waste disposal installations eligible for financial contributions (Art. 62 paras 1 and 2 WPA) shall be made on a case-by-case basis for planning, initial establishment and extension.
 
 #### Art. 54
 
 **Measures in agriculture**
 
-<sup>1</sup> The level of the global compensatory payments made in respect of measures in agriculture (Art. 62*a* WPA) is governed by the properties and the number of kilograms of the substances that are prevented from washing away or leaching each year.
+<sup>1</sup> The amount of the global compensatory payments made in respect of measures in agriculture (Art. 62*a* WPA) is governed by the properties and the number of kilograms of the substances that are prevented from washing away or leaching each year.
 
-<sup>2</sup> For measures that result in changes in farm structures, the level is also governed by the attributable costs.
+<sup>2</sup> For measures that result in changes in farm structures, the level is also governed by the allowable costs.
 
-<sup>3</sup> The level of the global compensatory payments shall be agreed between the Federal Office for Agriculture (FOAG) and the canton concerned.
+<sup>3</sup> The amount of the global compensatory payments shall be agreed between the Federal Office for Agriculture (FOAG) and the canton concerned.
 
 #### Art. 54a
 
 **Planning of rehabilitation measures**[^54a-1]
 
-<sup>1</sup> The level of the global compensatory payments made for planning measures to rehabilitate waters (Art. 62*b* para. 1 WPA) is governed by the length the bodies of water to which the plan relates.
+<sup>1</sup> The amount of the global compensatory payments made for planning measures to rehabilitate waters (Art. 62*b* para. 1 WPA) is governed by the length the bodies of water to which the plan relates.
 
-<sup>2</sup> The level of the global compensatory payments shall be agreed between the FOEN and the canton concerned.
+<sup>2</sup> The amount of the global compensatory payments shall be agreed between the FOEN and the canton concerned.
 
 [^54a-1]: Inserted by No I of the O of 4 May 2011, in force since 1 June 2011 ([AS 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 
@@ -1322,7 +1346,7 @@ Compensatory payments made in respect of waste disposal installations eligible f
 
 <sup>1</sup>
 
-The level of the global compensatory payments for measures to rehabilitate waters (Art. 62*b* para. 1 WPA) is governed by:
+The amount of the global compensatory payments for measures to rehabilitate waters (Art. 62*b* para. 1 WPA) is governed by:
 
 - a. the length of the stretch of water that is to be rehabilitated or is opened by the removal of obstructions;
 - b. the width of the channel bed of the watercourse;
@@ -1331,7 +1355,7 @@ The level of the global compensatory payments for measures to rehabilitate water
 - e. the benefits of rehabilitation for recreation;
 - f. the quality of the measures.
 
-<sup>2</sup> The level of the global compensatory payments shall be agreed between the FOEN and the canton concerned.
+<sup>2</sup> The amount of the global compensatory payments shall be agreed between the FOEN and the canton concerned.
 
 <sup>3</sup>
 
@@ -1343,14 +1367,14 @@ Compensatory payments may be made individually if the measures:
 - d. require a complex or special expert assessment due to the possible alternatives or for other reasons; or
 - e. were unforeseeable.
 
-<sup>4</sup> The contribution to the attributable costs of the measures under paragraph 3 shall amount to between 35 and 80 per cent and is governed by the criteria listed in paragraph 1.
+<sup>4</sup> The contribution to the allowable costs of the measures under paragraph 3 shall amount to between 35 and 80 per cent and is governed by the criteria listed in paragraph 1.
 
-<sup>5</sup> Compensatory payments for rehabilitation shall only be granted if the canton concerned has drawn up a rehabilitation plan that meets the requirements of Article 41*d*.
+<sup>5</sup> Compensatory payments for rehabilitation shall only be made if the canton concerned has drawn up a rehabilitation plan that meets the requirements of Article 41*d*.
 
 <sup>6</sup> No compensatory payments shall be granted under Article 62*b* paragraph 1 WPA for measures required under Article 4 of the Federal Act of 21 June 1991[^54b-2] on Hydraulic Engineering.
 
 [^54b-1]: Inserted by No I of the O of 4 May 2011, in force since 1 June 2011 ([AS 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)). See also the Transitional Provision to this amendment at the end of the text.
-[^54b-2]: [SR 721.100](https://fedlex.data.admin.ch/eli/cc/1993/234_234_234)
+[^54b-2]: [SR 721.100](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8402)
 
 #### Art. 55
 
@@ -1358,7 +1382,7 @@ Compensatory payments may be made individually if the measures:
 
 <sup>1</sup> Compensatory payments for ascertaining the causes of inadequate water quality in an important body of water with a view to carrying out remediation measures (Art. 64 para. 1 WPA) will be paid on a case-by-case basis insofar as the projects concern the state of the body of water and its tributaries.
 
-<sup>2</sup> The compensatory payments for the provision of fundamentals amount to 30 per cent of the attributable costs and those for the inventories on water supply installations and groundwater resources (Art. 64 para. 3 WPA) 40 per cent of the attributable costs.
+<sup>2</sup> The compensatory payments for the provision of fundamentals amount to 30 per cent of the allowable costs and those for the inventories on water supply installations and groundwater resources (Art. 64 para. 3 WPA) 40 per cent of the allowable costs.
 
 #### Art. 56
 
@@ -1401,15 +1425,41 @@ The financial assistance for the provision of information to the public amounts 
 
 #### Art. 58
 
-**Attributable costs**[^58-1]
+**Allowable costs**[^58-1]
 
-<sup>1</sup> Attributable costs are those costs that are genuinely incurred and are directly connected with implementing projects giving rise to entitlement to subsidy. These include the cost of pilot projects, and in the case of the rehabilitation of bodies of water, the cost of acquiring the required land.
+<sup>1</sup> Allowable costs are those costs that are genuinely incurred and are directly connected with implementing projects giving rise to entitlement to financial contributions.
 
-<sup>2</sup> Costs that are not attributable are in particular fees and taxes.
+<sup>2</sup>
 
-[^58-1]: Amended by No I of the O of 4 May 2011, in force since 1 June 2011 ([AS 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
+The costs of the following are allowable for compensatory payments pursuant to Articles 52 and 52*a*:
 
-### Section 2 Procedure for Granting Global Compensatory Payments
+- a. the construction of installations and equipment for nitrogen removal;
+- b. the measures to eliminate organic trace substances;
+- c. the construction and operations of pilot project installations to implement measures to remove nitrogen and eliminate organic trace substances;
+- d. the construction of sewers instead of installations and equipment to remove nitrogen and eliminate organic trace substances.
+
+<sup>3</sup> Costs that are not allowable under Articles 52 and 52*a* are in particular fees and taxes and the cost of acquiring land.
+
+<sup>4</sup>
+
+The costs of the following are allowable for compensatory payments pursuant to Article 54*b*:
+
+- a. compiling the basic data and planning measures;
+- b. implementing measures;
+- c. acquiring land, easements and formal and de facto expropriation;
+- d. marking.
+
+<sup>5</sup>
+
+The following in particular are not allowable with regard to compensatory payments pursuant to Article 54*b*:
+
+- a. any fees incurred;
+- b. the cost of creating significant added value that is generated independently of the rehabilitation achieved by the measures;
+- c. administrative costs.
+
+[^58-1]: Amended by Annex No 3 of the Hydraulic Engineering O of 25 June 2025, in force since 1 Aug. 2025 ([AS 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
+
+### Section 2 Procedure for Making Global Compensatory Payments
 
 [^chap9-sec2-1]
 
@@ -1437,7 +1487,7 @@ The application must include information on:
 
 The following authorities are responsible for concluding the programme agreement:
 
-- a.[^60-1] the FOEN for compensatory payments to waste water treatment plants and for the planning and conduct of measures to rehabilitate waters;
+- a.[^60-1] the FOEN for compensatory payments to wastewater treatment plants and for the planning and conduct of measures to rehabilitate waters;
 - b. the FOAG for compensatory payments for measures in agriculture.
 
 <sup>2</sup>
@@ -1478,11 +1528,11 @@ Global compensatory payments are paid out in instalments.
 The competent Federal Office shall verify by random sample:
 
 - a. the implementation of individual measures in accordance with the programme goals;
-- b. the use of the subsidies paid out.
+- b. the use of the contributions paid out.
 
 #### Art. 61b
 
-**Inadequate fulfilment and misuse of subsidies**
+**Inadequate fulfilment and misuse**
 
 <sup>1</sup>
 
@@ -1497,9 +1547,9 @@ The competent Federal Office shall withhold all or part of the instalment paymen
 
 <sup>4</sup> If the defects are not rectified or if the misuse does not stop or is not remedied, the payments may be reclaimed in accordance with Articles 28 and 29 of the Subsidies Act of 5 October 1990[^61b-1].
 
-[^61b-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^61b-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
-### Section 3 Procedure for Granting Compensatory Payments or Financial Assistance in Specific Cases
+### Section 3 Procedure for Making Compensatory Payments or Granting Financial Assistance in Specific Cases
 
 [^chap9-sec3-1]
 
@@ -1515,15 +1565,15 @@ The competent Federal Office shall withhold all or part of the instalment paymen
 
 #### Art. 61d
 
-**Granting and payment of subsidies**
+**Granting and payment of contributions**
 
-<sup>1</sup> The FOEN shall specify the subsidies in a ruling or enter into an agreement with the recipient of the subsidies for this purpose.
+<sup>1</sup> The FOEN shall specify the contributions in a ruling or enter into an agreement with the recipient of the contributions for this purpose.
 
-<sup>2</sup> It shall pay out the subsidies according to how the project is progressing.
+<sup>2</sup> It shall pay out the contributions according to how the project is progressing.
 
 #### Art. 61e
 
-**Inadequate fulfilment and misuse of subsidies**
+**Inadequate fulfilment and misuse**
 
 <sup>1</sup> If the recipient of a promised compensatory payment or financial assistance despite being warned fails to carry out a measure not or does so inadequately, the compensatory payment or financial assistance shall not be paid out or shall be reduced.
 
@@ -1533,7 +1583,7 @@ The competent Federal Office shall withhold all or part of the instalment paymen
 
 <sup>4</sup> If the misuse is not stopped or remedied, the payments may be reclaimed in accordance with Article 29 of the Subsidies Act.
 
-[^61e-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^61e-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 61f
 
@@ -1593,10 +1643,10 @@ The cantonal authority may grant an exception under Article 25 paragraph 1 until
 
 <sup>1</sup> The cantons shall ensure that the implementation of all the measures required to comply with the requirements of Annex 3.1 clause 2 no 8 begin by 31 December 2035 at the latest. They shall fix the last possible date for implement the measures according to their urgency and in doing so take account of the following:
 
-- a. the remediation and renewal cycles of the waste water treatment plants;
-- b. the size of the waste water treatment plants;
-- c. the volume of waste water in the receiving waters;
-- d. the length of the flow section in waters that are affected by the discharge of waste water.
+- a. the remediation and renewal cycles of the wastewater treatment plants;
+- b. the size of the wastewater treatment plants;
+- c. the volume of wastewater in the receiving waters;
+- d. the length of the flow section in waters that are affected by the discharge of wastewater.
 
 ## Transitional Provision to the Amendment of 16 December 2022
 
@@ -1679,14 +1729,14 @@ Annex 2[^t-1]
 - e. the hygiene requirements for bathing are met at sites where bathing is expressly permitted by the authorities or where a large number of people normally bathe and the authorities do not advise against it;
 - f. substances that enter waters as a result of human activities do not detrimentally affect the reproduction, development and health of sensitive plants, animals and microorganisms.
 
-<sup>2</sup> After waste water has undergone homogeneous mixing with the body of water the mixture must not result in:
+<sup>2</sup> After wastewater has undergone homogeneous mixing with the body of water the mixture must not result in:
 
 - a. the formation of mud;
 - b. any turbidity, discoloration or foam, except in the event of heavy rainfall;
 - c. any noticeable alteration in the odour of the water in comparison with its natural state;
 - d. any lack of oxygen or unfavourable pH values.
 
-<sup>3</sup> The following numerical requirements apply to every water flow after thorough mixing of the waste water discharged into the receiving waters; a reserve may be made for particular natural conditions such as water discharge from mires, rare high-water peaks or rare low-water events.
+<sup>3</sup> The following numerical requirements apply to every water flow after thorough mixing of the wastewater discharged into the receiving waters; a reserve may be made for particular natural conditions such as water discharge from mires, rare high-water peaks or rare low-water events.
 
 <table>
 <tr><th>No</th><th>Parameter</th><th colspan="2">Requirements</th></tr>
@@ -1695,7 +1745,7 @@ Annex 2[^t-1]
 <tr><td>2</td><td>Heavy metals</td><td colspan="2"></td></tr>
 <tr><td></td><td>Lead *(Pb)*</td><td colspan="2">0.01 mg/l Pb (total)<sup>1</sup> 0.001 mg/l Pb (dissolved)</td></tr>
 <tr><td></td><td>Cadmium *(Cd)*</td><td colspan="2">0.2 µg/l Cd (total)<sup>1</sup> 0.05 µg/l Cd (dissolved)</td></tr>
-<tr><td></td><td>Chromium *(Cr)*</td><td colspan="2">0.005 mg/l Cr (total)<sup>1</sup> 0.002 mg/l Cr (III und VI)</td></tr>
+<tr><td></td><td>Chromium *(Cr)*</td><td colspan="2">0.005 mg/l Cr (total)<sup>1</sup> 0.002 mg/l Cr (III and VI)</td></tr>
 <tr><td></td><td>Copper *(Cu)*</td><td colspan="2">0.005 mg/l Cu (total)<sup>1</sup> 0.002 mg/l Cu (dissolved)</td></tr>
 <tr><td></td><td>Nickel *(Ni)*</td><td colspan="2">0.01 mg/l Ni (total)<sup>1</sup> 0.005 mg/l Ni (dissolved)</td></tr>
 <tr><td></td><td>Mercury *(Hg)*</td><td colspan="2">0.03 µg/l Hg (total)<sup>1</sup> 0.01 µg/l Hg (dissolved)</td></tr>
@@ -1745,7 +1795,7 @@ Annex 2[^t-1]
 
 <sup>4</sup> The introduction or the withdrawal of heat must not alter the temperature in a watercourse by more than 3 °C above or below the temperature in its as near natural as possible state, or, in trout water stretches, by more than 1.5 °C; furthermore, the water temperature must not exceed 25C°. These requirements apply after thorough mixing.
 
-<sup>5</sup> The following numerical requirements apply to every water flow after thorough mixing of the waste water discharged into the receiving waters; a reserve may be made for particular natural conditions such as water discharge from mires, rare high-water peaks or rare low-water events.
+<sup>5</sup> The following numerical requirements apply to every water flow after thorough mixing of the wastewater discharged into the receiving waters; a reserve may be made for particular natural conditions such as water discharge from mires, rare high-water peaks or rare low-water events.
 
 <table>
 <tr><th>No.</th><th>Parameter</th><th>Requirements</th></tr>
@@ -1775,7 +1825,7 @@ Annex 2[^t-1]
 
 <sup>3</sup> The introduction or withdrawal of heat must not alter the temperature of the groundwater by more than 3 °C above or below the temperature in its natural state; this does not apply to very local changes in temperature.
 
-<sup>4</sup> Infiltration of waste water into underground waters must not result in:
+<sup>4</sup> Infiltration of wastewater into underground waters must not result in:
 
 - a. any disturbing change in the odour of the water;
 - b. any lack of oxygen or unfavourable pH values;
@@ -1806,28 +1856,28 @@ Annex 2[^t-1]
 
 Annex 3
 
-## Requirements for the Discharge of Polluted Waste Water
+## Requirements for the Discharge of Polluted Wastewater
 
 Annex 3.1[^t-2]
 
 (Art. 6 para. 1)
 
-## Discharge of communal waste water into waters
+## Discharge of communal wastewater into waters
 
 [^t-2]: Revised by No I of the O of 31 Oct. 2001 ([AS 2001 3168](https://fedlex.data.admin.ch/eli/oc/2001/477)), No III of the O of 4 Nov. 2015 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)) and No I of the O of 17 April 2019, in force since 1 Jan. 2021 ([AS 2019 1489](https://fedlex.data.admin.ch/eli/oc/2019/287)). See also the Transitional Provision to the amendment of 4 Nov. 2015 above. The correction of 7 Feb. 2017 relates to the Italian text only ([AS 2017 509](https://fedlex.data.admin.ch/eli/oc/2017/88)).
 
 ### 1 Definition and principles
 
-<sup>1</sup> Communal waste water includes:
+<sup>1</sup> Communal wastewater includes:
 
-- a. domestic waste water (waste water from households and similar waste water);
-- b. precipitation water running off built-up or sealed surfaces and discharged along with domestic waste water.
+- a. domestic wastewater (wastewater from households and similar wastewater);
+- b. precipitation water running off built-up or sealed surfaces and discharged along with domestic wastewater.
 
-<sup>2</sup> The following requirements apply to communal waste water from waste water treatment plants treating in excess of 200-population equivalent (PE[^annex31-lvlu1-lvl1-1]). They apply at the site of discharge and for the standard operation of the plant, subjectto exceptional situations such as unusually heavy rainfall.
+<sup>2</sup> The following requirements apply to communal wastewater from wastewater treatment plants treating in excess of 200-population equivalent (PE[^annex31-lvlu1-lvl1-1]). They apply at the site of discharge and for the standard operation of the plant, subjectto exceptional situations such as unusually heavy rainfall.
 
-<sup>3</sup> For communal waste water from waste water treatment plants with 200 PE or fewer and for waste water from overflows from combined systems**,** the authorities determine the requirements from case to case taking local conditions into consideration.
+<sup>3</sup> For communal wastewater from wastewater treatment plants with 200 PE or fewer and for wastewater from overflows from combined systems**,** the authorities determine the requirements from case to case taking local conditions into consideration.
 
-<sup>4</sup> If the waste water from a central waste water treatment plant also contains industrial waste water (Annex 3.2) or other polluted waste water (Annex 3.3), the authorities shall specify the requirements for discharge into waters in their authorisation, if necessary in derogation from the requirements listed in Nos 2 and 3, in such a way that no more potential water pollutants are discharged with the waste water than would be the case if the different waste waters were treated separately in compliance with the requirements of the corresponding Annexes.
+<sup>4</sup> If the wastewater from a central wastewater treatment plant also contains industrial wastewater (Annex 3.2) or other polluted wastewater (Annex 3.3), the authorities shall specify the requirements for discharge into waters in their authorisation, if necessary in derogation from the requirements listed in Nos 2 and 3, in such a way that no more potential water pollutants are discharged with the wastewater than would be the case if the different wastewaters were treated separately in compliance with the requirements of the corresponding Annexes.
 
 [^annex31-lvlu1-lvl1-1]: One PE corresponds to one organic biodegradable load with a biochemical oxygen demand in 5 days of 60 g of oxygen per day.
 
@@ -1835,15 +1885,15 @@ Annex 3.1[^t-2]
 
 <table>
 <tr><th>No.</th><th>Parameter</th><th>Requirements</th></tr>
-<tr><td>1</td><td>Total suspended solids</td><td>For waste water from plants of less than 10 000 PE the following requirements apply: – discharge concentration: 20 mg/l For waste water from plants from 10 000 PE the following applies: – discharge concentration: 15 mg/l</td></tr>
-<tr><td>2</td><td>Chemical oxygen demand *(COD)*</td><td>For waste water from plants of less than 10 000 PE the following requirements apply: – discharge concentration: 60 mg/l O<sub>2</sub> and – removal efficiency, with respect to raw waste water: 80% For waste water from plants of 10.000 PE or over the following requirements apply: – discharge concentration: 45 mg/l O<sub>2</sub> and – removal efficiency, with respect to raw waste water: 85%</td></tr>
-<tr><td>3</td><td>Dissolved organic carbon *(DOC)*</td><td>For waste water from plants of 2000 PE or over the following requirements apply: – discharge concentration: 10 mg/l and – removal efficiency: 85%, expressed as ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20250101/en/xml/image/image1.png) If the value is not complied with, the authorities shall assess the substances, determine their origin and if necessary specify the required procedures in accordance with Annexes 3.2 and 3.3.</td></tr>
+<tr><td>1</td><td>Total suspended solids</td><td>For wastewater from plants of less than 10 000 PE the following requirements apply: – discharge concentration: 20 mg/l For wastewater from plants from 10 000 PE the following applies: – discharge concentration: 15 mg/l</td></tr>
+<tr><td>2</td><td>Chemical oxygen demand *(COD)*</td><td>For wastewater from plants of less than 10 000 PE the following requirements apply: – discharge concentration: 60 mg/l O<sub>2</sub> and – removal efficiency, with respect to raw wastewater: 80% For wastewater from plants of 10.000 PE or over the following requirements apply: – discharge concentration: 45 mg/l O<sub>2</sub> and – removal efficiency, with respect to raw wastewater: 85%</td></tr>
+<tr><td>3</td><td>Dissolved organic carbon *(DOC)*</td><td>For wastewater from plants of 2000 PE or over the following requirements apply: – discharge concentration: 10 mg/l and – removal efficiency: 85%, expressed as ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20250801/en/xml/image/image1.png) If the value is not complied with, the authorities shall assess the substances, determine their origin and if necessary specify the required procedures in accordance with Annexes 3.2 and 3.3.</td></tr>
 <tr><td>4</td><td>Transparency *(Snellen method)*</td><td>30 cm</td></tr>
-<tr><td>5</td><td>Ammonium *(sum of NH**<sub>4</sub>**<sup>+</sup>* *‑ N and NH**<sub>3</sub>* *- N)*</td><td>If the ammonium concentrations in the waste water are potentially detrimental to the water quality of a watercourse, the following requirements apply if the waste water temperature is higher than 10 °C; – discharge concentration: 2 mg/l N and – removal efficiency: 90 %, expressed as ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20250101/en/xml/image/image2.png) In these cases nitrification must be carried out throughout the year: *Remark*: Kjeldahl nitrogen is the sum of the nitrogen inform the ammonium, ammonia and organic nitrogen.</td></tr>
+<tr><td>5</td><td>Ammonium *(sum of NH**<sub>4</sub>**<sup>+</sup>* *‑ N and NH**<sub>3</sub>* *- N)*</td><td>If the ammonium concentrations in the wastewater are potentially detrimental to the water quality of a watercourse, the following requirements apply if the wastewater temperature is higher than 10 °C; – discharge concentration: 2 mg/l N and – removal efficiency: 90 %, expressed as ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20250801/en/xml/image/image2.png) In these cases nitrification must be carried out throughout the year: *Remark*: Kjeldahl nitrogen is the sum of the nitrogen inform the ammonium, ammonia and organic nitrogen.</td></tr>
 <tr><td>6</td><td>Nitrite *(NO**<sub>2</sub>*<sup>–</sup> *- N)*</td><td>0.3 mg/l N (guide value)</td></tr>
 <tr><td>7</td><td>Adsorbable organic halogen *(AOX)*</td><td>0.08 mg/l X. If the value is not complied with, the authorities shall assess the substances, determine their origin and if necessary specify the required procedures in accordance with Annexes 3.2 and 3.3.</td></tr>
-<tr><td>8</td><td>Organic substances that can pollute waters even in low concentrations *(organic trace substances)*</td><td>The removal efficiency with respect to raw waste water and measured using selected substances must amount to 80 % for waste water from: – plants with 80 000 or more connected residents; – plants with 24 000 or more connected residents in the catchment area of lakes; the canton may authorise exceptions if the benefit of removal for the environment and for the drinking water supply is negligible; – plants with 8000 or more connected residents that discharge into a watercourse containing more than 10 % waste water untreated for organic trace substances; the canton shall identify the plants that must take measures as part of a plan for the catchment area; – other plants with 8000 or more connected residents if removal is required due to special hydrogeological conditions; – ...[^annex31-lvlu1-lvl2-1] The Department shall specify the substances to be used to measure the removal efficiency in an ordinance, and how efficiency is calculated.</td></tr>
-<tr><td>9</td><td>Biochemical oxygen demand *(Bod**<sub>5</sub>**, with nitrification inhibition)*</td><td>For waste water from plants with less than 10 000 PE for which the Bod<sub>5</sub> concentrations in the waste water have a detrimental effect on the water quality of a watercourses the following applies: – discharge concentration: 20 mg/l O<sub>2</sub> and – removal efficiency with respect to raw waste water: 90 % For waste water from plants from 10 000 PE for which the Bod<sub>5</sub> concentrations in the waste water have a detrimental effect on the water quality of a watercourses the following applies: – discharge concentration: 15 mg/l O<sub>2</sub> and – removal efficiency with respect to raw waste water: 90 %</td></tr>
+<tr><td>8</td><td>Organic substances that can pollute waters even in low concentrations *(organic trace substances)*</td><td>The removal efficiency with respect to raw wastewater and measured using selected substances must amount to 80 % for wastewater from: – plants with 80 000 or more connected residents; – plants with 24 000 or more connected residents in the catchment area of lakes; the canton may authorise exceptions if the benefit of removal for the environment and for the drinking water supply is negligible; – plants with 8000 or more connected residents that discharge into a watercourse containing more than 10 % wastewater untreated for organic trace substances; the canton shall identify the plants that must take measures as part of a plan for the catchment area; – other plants with 8000 or more connected residents if removal is required due to special hydrogeological conditions; – ...[^annex31-lvlu1-lvl2-1] The Department shall specify the substances to be used to measure the removal efficiency in an ordinance, and how efficiency is calculated.</td></tr>
+<tr><td>9</td><td>Biochemical oxygen demand *(Bod**<sub>5</sub>**, with nitrification inhibition)*</td><td>For wastewater from plants with less than 10 000 PE for which the Bod<sub>5</sub> concentrations in the wastewater have a detrimental effect on the water quality of a watercourses the following applies: – discharge concentration: 20 mg/l O<sub>2</sub> and – removal efficiency with respect to raw wastewater: 90 % For wastewater from plants from 10 000 PE for which the Bod<sub>5</sub> concentrations in the wastewater have a detrimental effect on the water quality of a watercourses the following applies: – discharge concentration: 15 mg/l O<sub>2</sub> and – removal efficiency with respect to raw wastewater: 90 %</td></tr>
 </table>
 
 [^annex31-lvlu1-lvl2-1]: Comes into force on 1 Jan. 2028 ([AS 2019 1489](https://fedlex.data.admin.ch/eli/oc/2019/287)).
@@ -1852,8 +1902,8 @@ Annex 3.1[^t-2]
 
 <table>
 <tr><th>No.</th><th>Parameter</th><th>Requirements</th></tr>
-<tr><td>1</td><td>Total phosphorus (after conversion to dissolved orthophosphate)</td><td>For waste water from plants – in the catchment area of lakes, – situated on watercourses downstream of lakes, if this is required for the protection of the watercourse, and – of 10.000 PE or over, situated on watercourses in the catchment area of the Rhine downstream of lakes, the following requirements apply: – discharge concentration: 0.8 mg/l P and – removal efficiency, with respect to raw waste water: 80%</td></tr>
-<tr><td>2</td><td>Total nitrogen</td><td>In plants for which no discharge concentration and no removal efficiency for total nitrogen is specified, must be operated in such a way that during waste water purification and sludge treatment as much nitrogen as possible is eliminated. All structural modifications which are possible at no great cost must be undertaken; this applies particularly to plants that already carry out nitrification. Prior to 28 February 2002, cantons in the catchment area of the Rhine shall work out a plan on how to reduce discharges of nitrogen by 2600 tonnes compared to 1995 with effect from the year 2005 onwards. Plants that are earmarked in this plan for nitrogen elimination must be operational by 2005 at the latest.</td></tr>
+<tr><td>1</td><td>Total phosphorus (after conversion to dissolved orthophosphate)</td><td>For wastewater from plants – in the catchment area of lakes, – situated on watercourses downstream of lakes, if this is required for the protection of the watercourse, and – of 10.000 PE or over, situated on watercourses in the catchment area of the Rhine downstream of lakes, the following requirements apply: – discharge concentration: 0.8 mg/l P and – removal efficiency, with respect to raw wastewater: 80%</td></tr>
+<tr><td>2</td><td>Total nitrogen</td><td>In plants for which no discharge concentration and no removal efficiency for total nitrogen is specified, must be operated in such a way that during wastewater purification and sludge treatment as much nitrogen as possible is eliminated. All structural modifications which are possible at no great cost must be undertaken; this applies particularly to plants that already carry out nitrification. Prior to 28 February 2002, cantons in the catchment area of the Rhine shall work out a plan on how to reduce discharges of nitrogen by 2600 tonnes compared to 1995 with effect from the year 2005 onwards. Plants that are earmarked in this plan for nitrogen elimination must be operational by 2005 at the latest.</td></tr>
 </table>
 
 ### 4 Frequency of sampling and admissible divergences
@@ -1866,9 +1916,9 @@ Annex 3.1[^t-2]
 
 <table>
 <tr><td>a. Plants of less 2000 PE</td><td>The cantonal authorities shall specify the minimum number of samples to be analysed on a case by case basis.</td></tr>
-<tr><td>b. Plants of 2000 PE or over</td><td>In the first year after the commissioning or extension of the plant at least twelve samples. In the following years at least four samples if the waste water complied with the requirements in the first year. If the waste water does not comply with the requirements in any year, a further twelve samples at least must be analysed the following year. With regard to organic trace substances, at least eight samples must be analysed instead of at least twelve.</td></tr>
-<tr><td>c. Plants of 10 000 PE and over</td><td>At least twelve samples per year. With regard to organic trace substances, from the second year after the commissioning or extension of the plant at least six samples must be analysed if the waste water complied with the requirements in the first year; If the waste water does not comply with the requirements in any year, a further twelve samples at least must be analysed the following year.</td></tr>
-<tr><td>d. Plants of 50 000 PE and over</td><td>At least 24 samples per year. With regard to organic trace substances, from the second year after the commissioning or extension of the plant at least twelve samples must be analysed if the waste water complied with the requirements in the first year; If the waste water does not comply with the requirements in any year, a further 24 samples at least must be analysed the following year.</td></tr>
+<tr><td>b. Plants of 2000 PE or over</td><td>In the first year after the commissioning or extension of the plant at least twelve samples. In the following years at least four samples if the wastewater complied with the requirements in the first year. If the wastewater does not comply with the requirements in any year, a further twelve samples at least must be analysed the following year. With regard to organic trace substances, at least eight samples must be analysed instead of at least twelve.</td></tr>
+<tr><td>c. Plants of 10 000 PE and over</td><td>At least twelve samples per year. With regard to organic trace substances, from the second year after the commissioning or extension of the plant at least six samples must be analysed if the wastewater complied with the requirements in the first year; If the wastewater does not comply with the requirements in any year, a further twelve samples at least must be analysed the following year.</td></tr>
+<tr><td>d. Plants of 50 000 PE and over</td><td>At least 24 samples per year. With regard to organic trace substances, from the second year after the commissioning or extension of the plant at least twelve samples must be analysed if the wastewater complied with the requirements in the first year; If the wastewater does not comply with the requirements in any year, a further 24 samples at least must be analysed the following year.</td></tr>
 </table>
 
 ### 42 Admissible non-compliant samples
@@ -1909,41 +1959,41 @@ Annex 3.2[^t-3]
 
 (Art. 6 para. 1 and 7 para. 1)
 
-## Discharge of industrial waste water into waters or into public sewer systems
+## Discharge of industrial wastewater into waters or into public sewer systems
 
 [^t-3]: Revised by No I of the O of 22 Oct. 2003, in force since 1 Jan. 2004 ([AS 2003 4043](https://fedlex.data.admin.ch/eli/oc/2003/590)).
 
 ### 1 Definition and principles
 
-<sup>1</sup> Industrial waste water includes:
+<sup>1</sup> Industrial wastewater includes:
 
-- a. waste water from industrial plants;
-- b. comparable waste water, such as that from laboratories and hospitals.
+- a. wastewater from industrial plants;
+- b. comparable wastewater, such as that from laboratories and hospitals.
 
-<sup>2</sup> Any person who discharges industrial waste water must, during production processes and waste water treatment take the require stat-of-the-art measures to avoid polluting waters. In particular, he or she must ensure that:
+<sup>2</sup> Any person who discharges industrial wastewater must, during production processes and wastewater treatment take the require state-of-the-art measures to avoid polluting waters. In particular, they must ensure that:
 
-- a. as little waste water is generated and as few potential water pollutants are discharged as is technically and operationally feasible and economically acceptable;
-- b. unpolluted waste water and cooling water are separated from polluted waste water;
-- c. polluted waste water is neither diluted nor mixed with other waste water in order to comply with the requirements; dilution or mixing is permitted if this is appropriate for the treatment of the waste water and as a result no more potential water pollutants are discharged than would be the case if the waste waters were treated separately.
+- a. as little wastewater is generated and as few potential water pollutants are discharged as is technically and operationally feasible and economically acceptable;
+- b. unpolluted wastewater and cooling water are separated from polluted wastewater;
+- c. polluted wastewater is neither diluted nor mixed with other wastewater in order to comply with the requirements; dilution or mixing is permitted if this is appropriate for the treatment of the wastewater and as a result no more potential water pollutants are discharged than would be the case if the wastewaters were treated separately.
 
-<sup>3</sup> At the site of discharge, when discharging waste water into waters or public sewers they must comply with:
+<sup>3</sup> At the site of discharge, when discharging wastewater into waters or public sewers they must comply with:
 
 - a. the general requirements in accordance with No 2; and
-- b. the special requirements for specific substances in accordance with No 3 for waste water from certain industrial sectors.
+- b. the special requirements for specific substances in accordance with No 3 for wastewater from certain industrial sectors.
 
-<sup>4</sup> If the person responsible for the concern can prove that he or she has taken the required state-of-the-art measures mentioned in paragraph 2, and that compliance with the general requirements specified in No 2 would be disproportionate, the authorities shall specify less stringent values.
+<sup>4</sup> If the person responsible for the concern can prove that they have taken the required state-of-the-art measures mentioned in paragraph 2, and that compliance with the general requirements specified in No 2 would be disproportionate, the authorities shall specify less stringent values.
 
 <sup>5</sup> If the required state-of-the-art measures mentioned in paragraph 2 make it possible to comply with more stringent requirements than those specified in Nos 2 and 3, the authorities shall apply more stringent values based on the information received from the person responsible for the concern and after having heard this person.
 
 <sup>6</sup> If Nos 2 and 3 contain no requirements for specific potential water pollutants, the authorities shall specify the necessary requirements based on the state of the art in the authorisation. In so doing they shall take account of international or national standards, directives published by the FOEN or standards drawn up by the industrial sector concerned in collaboration the FOEN.
 
-<sup>7</sup> If industrial waste water also containing communal waste water (Annex 3.1) or other polluted waste water (Annex 3.3) is discharged into a body of water, the authorities shall specify the requirements in the authorisation in such a way that no more potential water pollutants are discharged with the waste water than would be the case if the different waste waters were treated separately in compliance with the requirements of the corresponding Annexes.
+<sup>7</sup> If industrial wastewater also containing communal wastewater (Annex 3.1) or other polluted wastewater (Annex 3.3) is discharged into a body of water, the authorities shall specify the requirements in the authorisation in such a way that no more potential water pollutants are discharged with the wastewater than would be the case if the different wastewaters were treated separately in compliance with the requirements of the corresponding Annexes.
 
 ### 2 General requirements
 
 <table>
 <tr><td>No.</td><td>Parameter</td><td>Column 1: requirements for discharge into waters</td><td>Column 2: requirements for discharge into public sewers</td></tr>
-<tr><td>1</td><td>pH</td><td>6.5 to 9.0</td><td>6.5 to 9.0; divergences are admissible if there is sufficient mixing with other waste waters in the sewers.</td></tr>
+<tr><td>1</td><td>pH</td><td>6.5 to 9.0</td><td>6.5 to 9.0; divergences are admissible if there is sufficient mixing with other wastewaters in the sewers.</td></tr>
 <tr><td>2</td><td>Temperature</td><td>At most 30 °C. The authorities may allow minor short-term excesses in summertime.</td><td>At most 60 °C. The temperature in the sewer system must not exceed 40 °C after mixing.</td></tr>
 <tr><td>3</td><td>Transparency *(Snellen method)*</td><td>30 cm</td><td>–</td></tr>
 <tr><td>4</td><td>Total suspended solids</td><td>20 mg/l</td><td>–</td></tr>
@@ -1971,7 +2021,7 @@ In addition to the following requirements, the internationally agreed decisions 
 
 <table>
 <tr><td>No.</td><td>Sector/process</td><td>Column 1: requirements for discharge into waters</td><td>Column 2: requirements for discharge into public sewers</td></tr>
-<tr><td></td><td>– Milk processing – Fruit and vegetable processing – Manufacture and bottling of soft drinks – Potato processing – Meat processing – Breweries – Manufacture of alcohol and alcoholic drinks – Manufacture of fodder from plant products – Manufacture of leather glue, gelatine and bone glue – Malt factories – Fish processing</td><td>Requirements for communal waste water in accordance with Annex 3.1 apply. Excepted are the requirements for total phosphorus in cases in where phosphorus must be added in the waste water treatment plant for the biological treatment step.</td><td>In fat and oil processing plants, separators must be fitted if necessary.</td></tr>
+<tr><td></td><td>– Milk processing – Fruit and vegetable processing – Manufacture and bottling of soft drinks – Potato processing – Meat processing – Breweries – Manufacture of alcohol and alcoholic drinks – Manufacture of fodder from plant products – Manufacture of leather glue, gelatine and bone glue – Malt factories – Fish processing</td><td>Requirements for communal wastewater in accordance with Annex 3.1 apply. Excepted are the requirements for total phosphorus in cases in where phosphorus must be added in the wastewater treatment plant for the biological treatment step.</td><td>In fat and oil processing plants, separators must be fitted if necessary.</td></tr>
 </table>
 
 ### 32 Secondary iron and steel industry
@@ -2044,17 +2094,17 @@ Annex 3.3[^t-4]
 
 (Art. 6 para. 1 and 7 para. 1)
 
-## Discharge of Other Polluted Waste Water into Waters or into Public Sewers
+## Discharge of Other Polluted Wastewater into Waters or into Public Sewers
 
 [^t-4]: Revised by No I of the O of 11 April 2018, in force since 1 June 2018 ([AS 2018 1685](https://fedlex.data.admin.ch/eli/oc/2018/251)).
 
 ### 1 General requirements
 
-<sup>1</sup> For polluted waste water other than communal or industrial waste water, the authorities shall determine the requirements on discharge on the basis of the characteristics of the waste water, the state of the art and the condition of the body of waters concerned. In so doing they shall take account of international or national standards, directives published by the FOEN or standards worked out by the sector concerned in co-operation with the FOEN.
+<sup>1</sup> For polluted wastewater other than communal or industrial wastewater, the authorities shall determine the requirements on discharge on the basis of the characteristics of the wastewater, the state of the art and the condition of the body of waters concerned. In so doing they shall take account of international or national standards, directives published by the FOEN or standards worked out by the sector concerned in co-operation with the FOEN.
 
-<sup>2</sup> Precipitation water running off built-up or sealed surfaces and not mixed with other polluted waste water is also regarded as other polluted waste water.
+<sup>2</sup> Precipitation water running off built-up or sealed surfaces and not mixed with other polluted wastewater is also regarded as other polluted wastewater.
 
-<sup>3</sup> In order that the state of the art be maintained, polluted waste water from sectors, processes and plants, must comply at least with the requirements of No 2; numerical requirements apply at the site of discharge.
+<sup>3</sup> In order that the state of the art be maintained, polluted wastewater from sectors, processes and plants, must comply at least with the requirements of No 2; numerical requirements apply at the site of discharge.
 
 ### 2 Special requirements
 
@@ -2075,7 +2125,7 @@ Annex 3.3[^t-4]
 
 <sup>5</sup> When discharging into lakes, additional requirements in accordance with paragraphs 1–3 of the discharge conditions shall be determined on a case by case basis according to local conditions, in particular concerning the temperature of the cooling water, the depth and type of discharge.
 
-<sup>6</sup> When discharging into public sewers, in addition to the requirements in accordance with paragraphs 1–3, the temperature of the waste water discharged may not exceed 60 °C and the temperature in the sewer systems may not exceed 40 °C after mixing.
+<sup>6</sup> When discharging into public sewers, in addition to the requirements in accordance with paragraphs 1–3, the temperature of the wastewater discharged may not exceed 60 °C and the temperature in the sewer systems may not exceed 40 °C after mixing.
 
 ### 22 Closed-circuit cooling installations
 
@@ -2089,7 +2139,7 @@ Annex 3.3[^t-4]
 
 ### 23 Construction sites
 
-<sup>1</sup> Waste water from construction sites may be discharged into a body of water or public sewers if it complies with the general requirements for industrial waste water in accordance with Annex 3.2 number 2.
+<sup>1</sup> Wastewater from construction sites may be discharged into a body of water or public sewers if it complies with the general requirements for industrial wastewater in accordance with Annex 3.2 number 2.
 
 <sup>2</sup> In addition, the following values may not be exceeded when discharging into a body of water:
 
@@ -2098,7 +2148,7 @@ Annex 3.3[^t-4]
 
 ### 24 Façade and tunnel cleaning
 
-<sup>1</sup> Waste water from façade or tunnel cleaning may be discharged into a body of water only if it contains no detergent and has been sufficiently purified in a plant.
+<sup>1</sup> Wastewater from façade or tunnel cleaning may be discharged into a body of water only if it contains no detergent and has been sufficiently purified in a plant.
 
 <sup>2</sup> It may be discharged into public sewers if it does not make the recovery of the sludge difficult and if the treatment efficiency of the plant is sufficient to eliminate potential water pollutants.
 
@@ -2106,7 +2156,7 @@ Annex 3.3[^t-4]
 
 <sup>1</sup> Landfill leachate may be discharged into waters if:
 
-- a. it complies with the general requirements for industrial waste water in accordance with Annex 3.2 number 2;
+- a. it complies with the general requirements for industrial wastewater in accordance with Annex 3.2 number 2;
 - b. the biochemical oxygen demand *(BOD**<sub>5</sub>**)* does not exceed 20 mg/l O<sub>2</sub>; and
 - c. dissolved organic carbon *(DOC)* does not exceed 10 mg/l C.
 
@@ -2118,7 +2168,7 @@ Annex 3.3[^t-4]
 
 <sup>1</sup> Water from gravel washing may be discharged into a body of water if:
 
-- a. it complies with the general requirements for industrial waste water in accordance with Annex 3.2 number 2;
+- a. it complies with the general requirements for industrial wastewater in accordance with Annex 3.2 number 2;
 - b. the pH does not exceed 9.
 
 <sup>2</sup> It shall not be discharged into a public sewer.
@@ -2254,7 +2304,7 @@ If, due to soil use, waters are polluted in the areas of contribution Z<sub>u</s
 - f. maintaining permanent plant cover on the soil in all circumstances;
 - g. only using mechanical aids, techniques, equipment and cultural methods that are particularly adapted.
 
-[^annex4-lvlu1-lvl2-lvl21-lvl212-1]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^annex4-lvlu1-lvl2-lvl21-lvl212-1]: [SR 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 ### 22 Groundwater protection zones
 
@@ -2264,7 +2314,7 @@ If, due to soil use, waters are polluted in the areas of contribution Z<sub>u</s
 
 - a. industrial and commercial plants that place groundwater at risk;
 - b. constructions that decrease the storage volume or the flow capacity of the aquifer; the authority may permit exceptions for good cause if a risk to drinking water sources can be excluded;
-- c. infiltration of waste water, except for infiltration of non-polluted waste water from roof tops (Art. 3 para. 3 letter a) through a biologically active soil;
+- c. infiltration of wastewater, except for infiltration of non-polluted wastewater from roof tops (Art. 3 para. 3 letter a) through a biologically active soil;
 - d. substantial reductions in the protective covering (soil and protective layer);
 - e. pipelines which are subject to the Pipelines Act of 4 October 1963[^annex4-lvlu1-lvl2-lvl22-lvl221-1]; gas pipelines are exempt;
 - f. circuits that remove heat from or add heat to the subsoil;
@@ -2274,9 +2324,9 @@ If, due to soil use, waters are polluted in the areas of contribution Z<sub>u</s
 
 <sup>2</sup> The application of plant protection substances, wood protection substances, as well as fertilisers and similar products, is governed by Annexes 2.4 numbers 1, 2.5 and 2.6 ORRChem.
 
-[^annex4-lvlu1-lvl2-lvl22-lvl221-1]: [SR 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
-[^annex4-lvlu1-lvl2-lvl22-lvl221-2]: [SR 734.1](https://fedlex.data.admin.ch/eli/cc/1994/1185_1185_1185)
-[^annex4-lvlu1-lvl2-lvl22-lvl221-3]: [SR 734.2](https://fedlex.data.admin.ch/eli/cc/1994/1199_1199_1199)
+[^annex4-lvlu1-lvl2-lvl22-lvl221-1]: [SR 746.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8897)
+[^annex4-lvlu1-lvl2-lvl22-lvl221-2]: [SR 734.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8571)
+[^annex4-lvlu1-lvl2-lvl22-lvl221-3]: [SR 734.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8573)
 
 ### 221<sup>bis</sup> Zone S<sub>m</sub>
 
@@ -2284,7 +2334,7 @@ If, due to soil use, waters are polluted in the areas of contribution Z<sub>u</s
 
 - a. industrial and commercial plants that place groundwater at risk;
 - b. building activities that have detrimental effects on the hydrodynamics of the groundwater;
-- c. infiltration of waste water, with the exception of the infiltration of non-polluted waste water (Art. 3 para. 3) through a biologically active layer of soil and of polluted communal waste water from small treatment plants in compliance with the requirements of Article 8 paragraph 2, if the cost of discharging the communal waste water from the protection zone would disproportionate and a risk to drinking water sources can be excluded;
+- c. infiltration of wastewater, with the exception of the infiltration of non-polluted wastewater (Art. 3 para. 3) through a biologically active layer of soil and of polluted communal wastewater from small treatment plants in compliance with the requirements of Article 8 paragraph 2, if the cost of discharging the communal wastewater from the protection zone would disproportionate and a risk to drinking water sources can be excluded;
 - d. substantial reductions in the protective covering (soil and protective layer);
 - e. pipelines subject to the Pipelines Act of 4 October 1963; exempted therefrom are gas pipelines;
 - f. circuits that remove heat from or add heat to the subsoil;
@@ -2299,7 +2349,7 @@ If, due to soil use, waters are polluted in the areas of contribution Z<sub>u</s
 <sup>1</sup> In Zone S<sub>h,</sub> the requirements of Number 221<sup>bis</sup> apply; in addition, the following are not permitted:
 
 - a. plants and activities that place groundwater at risk;
-- b. the infiltration of waste water, with the exception of the infiltration of non-polluted waste water (Art. 3 para. 3) through a biologically active layer of soil.
+- b. the infiltration of wastewater, with the exception of the infiltration of non-polluted wastewater (Art. 3 para. 3) through a biologically active layer of soil.
 
 <sup>2</sup> For the application of wood protection substances, plant protection substances and fertilisers, Annexes 2.4 numbers 1, 2.5 and 2.6 ORRChem apply.
 
@@ -2309,7 +2359,7 @@ If, due to soil use, waters are polluted in the areas of contribution Z<sub>u</s
 
 - a. the construction of installations; the authorities may permit exceptions for good cause, provided there is no risk to the exploitation of drinking water;
 - b. excavations that cause detrimental change to the protective covering (soil and protective layer);
-- c. infiltration of waste water;
+- c. infiltration of wastewater;
 - d. other activities that place groundwater at risk.
 
 <sup>2</sup> For the application of wood protection substances, plant protection substances and fertilisers, Annexes 2.4 numbers 1, 2.5 and 2.6 ORRChem apply.
@@ -2381,7 +2431,7 @@ Annex 5
 The following are repealed:
 
 - a. General Water Protection Ordinance of 19 June 1972[^annex5-lvlu1-lvl1-1];
-- b. Ordinance of 8 December 1975[^annex5-lvlu1-lvl1-2] on Waste Water Discharge;
+- b. Ordinance of 8 December 1975[^annex5-lvlu1-lvl1-2] on Wastewater Discharge;
 - c. Ordinance of 22 October 1981[^annex5-lvlu1-lvl1-3] on Zone Surveys for Protection of Bodies of Water;
 - d. Regulations of 9 August 1972[^annex5-lvlu1-lvl1-4] of the Federal Water Protection Commission.
 

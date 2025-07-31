@@ -4,11 +4,11 @@ title: Gewässerschutzverordnung vom 28. Oktober 1998 (GSchV)
 short: GSchV
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863"
 language: de
-version: 2025-01-01
+version: 2025-08-01
 adopted: 1998-10-28
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20250101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20250801/de/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20250801-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20250801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20250101/de"
 
 (GSchV)
 
-vom 28. Oktober 1998 (Stand am 1. Januar 2025)
+vom 28. Oktober 1998 (Stand am 1. August 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 9, 14 Absatz 7, 16, 19 Absatz 1, 27 Absatz 2, 36*a* Ab
 
 verordnet:
 
-[^ingress-1]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^ingress-1]: [SR 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
 [^ingress-2]: Fassung gemäss Ziff. I der V vom 4. Mai 2011, in Kraft seit 1. Juni 2011 ([AS 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -90,7 +90,7 @@ Von bebauten oder befestigten Flächen abfliessendes Niederschlagswasser gilt in
 - c.[^3-4] von Gleisanlagen stammt, bei denen langfristig sichergestellt ist, dass auf den Einsatz von Pflanzenschutzmitteln verzichtet wird, oder wenn Pflanzenschutzmittel bei der Versickerung durch eine biologisch aktive Bodenschicht ausreichend zurückgehalten und abgebaut werden.
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2011, in Kraft seit 1. Juni 2011 ([AS 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
-[^3-2]: [SR 814.12](https://fedlex.data.admin.ch/eli/cc/1998/1854_1854_1854)
+[^3-2]: [SR 814.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9475)
 [^3-3]: Fassung gemäss Ziff. I der V vom 4. Mai 2011, in Kraft seit 1. Juni 2011 ([AS 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 [^3-4]: Fassung gemäss Ziff. I der V vom 4. Mai 2011, in Kraft seit 1. Juni 2011 ([AS 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 
@@ -207,7 +207,7 @@ Die Behörde kann das Versickernlassen von kommunalem Abwasser oder von anderem 
 - c. die Versickerung in einer dafür bestimmten Anlage erfolgt, die Richtwerte der VBBo[^8-1] auch langfristig nicht überschritten werden oder beim Fehlen von Richtwerten die Bodenfruchtbarkeit auch langfristig gewährleistet ist; und
 - d. die Anforderungen eingehalten sind, die für den Betrieb von Abwasseranlagen, die Abwasser in ein Gewässer einleiten, gelten (Art. 13–17).
 
-[^8-1]: [SR 814.12](https://fedlex.data.admin.ch/eli/cc/1998/1854_1854_1854)
+[^8-1]: [SR 814.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9475)
 
 #### Art. 9
 
@@ -330,8 +330,8 @@ Die Behörde überprüft periodisch, ob:
 
 <sup>3</sup> Weitergehende Vorschriften der Störfallverordnung vom 27. Februar 1991[^16-1] und der Verordnung vom 20. November 1991[^16-2] über die Sicherstellung der Trinkwasserversorgung in Notlagen bleiben vorbehalten.
 
-[^16-1]: [SR 814.012](https://fedlex.data.admin.ch/eli/cc/1991/748_748_748)
-[^16-2]: [[AS 1991 2517](https://fedlex.data.admin.ch/eli/oc/1991/2517_2517_2517); [2017 3179](https://fedlex.data.admin.ch/eli/oc/2017/313)Ziff. I 2. [AS 2020 3671](https://fedlex.data.admin.ch/eli/oc/2020/666)Art. 15]. Siehe heute: die V vom 19. Aug. 2020 ([SR 531.32](https://fedlex.data.admin.ch/eli/cc/2020/666)).
+[^16-1]: [SR 814.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9439)
+[^16-2]: [[AS 1991 2517](https://fedlex.data.admin.ch/eli/oc/1991/2517_2517_2517); [2017 3179](https://fedlex.data.admin.ch/eli/oc/2017/313)Ziff. I 2. [AS 2020 3671](https://fedlex.data.admin.ch/eli/oc/2020/666)Art. 15]. Siehe heute: die V vom 19. Aug. 2020 ([SR 531.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7712)).
 
 #### Art. 17
 
@@ -605,8 +605,8 @@ Eine solche Sichtkontrolle ist alle zehn Jahre von innen durchführen zu lassen 
 
 <sup>2</sup> Wenn das Gewässer am Ort der Wasserentnahme keine ständige Wasserführung aufweist, sorgt die Behörde dafür, dass die nach den Bundesgesetzen vom 1. Juli 1966[^33-1] über den Natur- und Heimatschutz und vom 21. Juli 1991[^33-2] über die Fischerei erforderlichen Massnahmen getroffen werden.
 
-[^33-1]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^33-2]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^33-1]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^33-2]: [SR 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
 
 #### Art. 33a
 
@@ -846,9 +846,9 @@ Es gelten nicht:
 [^41c-1]: Eingefügt durch Ziff. I der V vom 22. März 2017, in Kraft seit 1. Mai 2017 ([AS 2017 2585](https://fedlex.data.admin.ch/eli/oc/2017/245)).
 [^41c-2]: Eingefügt durch Ziff. I der V vom 22. März 2017, in Kraft seit 1. Mai 2017 ([AS 2017 2585](https://fedlex.data.admin.ch/eli/oc/2017/245)).
 [^41c-3]: Fassung gemäss Ziff. I der V vom 4. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
-[^41c-4]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^41c-4]: [SR 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 [^41c-5]: Fassung gemäss Ziff. I der V vom 4. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
-[^41c-6]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^41c-6]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 [^41c-7]: Fassung gemäss Ziff. IV der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
 [^41c-8]: Eingefügt durch Ziff. I der V vom 22. März 2017, in Kraft seit 1. Mai 2017 ([AS 2017 2585](https://fedlex.data.admin.ch/eli/oc/2017/245)).
 
@@ -861,7 +861,31 @@ Es gelten nicht:
 <sup>2</sup> Für ackerfähiges Kulturland mit der Qualität von Fruchtfolgeflächen im Gewässerraum, das benötigt wird, um bauliche Massnahmen des Hochwasserschutzes oder der Revitalisierung umzusetzen, ist nach den Vorgaben des Sachplans Fruchtfolgeflächen (Art. 29 der Raumplanungsverordnung vom 28. Juni 2000) Ersatz zu leisten.
 
 [^41cbis-1]: Eingefügt durch Ziff. I der V vom 4. Nov. 2015 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)). Fassung gemäss Ziff. I der V vom 22. März 2017, in Kraft seit 1. Mai 2017 ([AS 2017 2585](https://fedlex.data.admin.ch/eli/oc/2017/245)).
-[^41cbis-2]: [SR 700.1](https://fedlex.data.admin.ch/eli/cc/2000/310)
+[^41cbis-2]: [SR 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
+
+#### Art. 41c<sup>ter</sup>
+
+**Beibehaltung oder Wiederherstellung des natürlichen Verlaufs**[^41cter-1]
+
+Bei Eingriffen in das oberirdische Gewässer ist der natürliche Verlauf des Fliessgewässers, charakterisiert durch seine Lage im Talquerschnitt, sein Längsgefälle, seine Gerinneform, seine Gerinnesohlenbreite sowie seine morphologischen Strukturen und dynamischen Prozesse, möglichst beizubehalten oder wiederherzustellen.
+
+[^41cter-1]: Eingefügt durch Anhang Ziff. 3 der Wasserbauverordnung vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
+
+#### Art. 41c
+
+**<sup>quat</sup><sup>er</sup> [^41c-9]Ökologische Gestaltung und Unterhalt**
+
+<sup>1</sup>
+
+Gewässer und Gewässerraum müssen so gestaltet und unterhalten werden, dass standorttypische Lebensräume erhalten bleiben oder sich entwickeln können. Standorttypische Lebensräume beruhen auf:
+
+- a. einer Vegetation, die sich natürlich entwickelt und selbst verjüngt;
+- b. charakteristischen dynamischen Prozessen;
+- c. charakteristischen Strukturen wie Kiesbänken, natürlichen und variablen Ufern sowie Totholz.
+
+<sup>2</sup> Bei der Gestaltung und dem Unterhalt der Gewässer und des Gewässerraums ist einer übermässigen Erwärmung der Gewässer entgegenzuwirken. Insbesondere ist die natürliche Beschattung zu fördern.
+
+[^41c-9]: Eingefügt durch Anhang Ziff. 3 der Wasserbauverordnung vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
 
 #### Art. 41d
 
@@ -930,7 +954,7 @@ Die Inhaber von Wasserkraftwerken müssen der für die Planung zuständigen Beh�
 
 <sup>3</sup> Die Inhaber von Wasserkraftwerken prüfen nach Anordnung der Behörde die Wirksamkeit der getroffenen Massnahmen.
 
-[^41g-1]: [SR 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^41g-1]: [SR 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 [^41g-2]: Fassung des zweiten Satzes gemäss Anhang 7 Ziff. II 2 der Energieverordnung vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6889](https://fedlex.data.admin.ch/eli/oc/2017/763)).
 
 ### 3. Abschnitt: Spülung und Entleerung von Stauräumen
@@ -1002,7 +1026,7 @@ Die Inhaber von Anlagen müssen der für die Planung zuständigen Behörde Zutri
 <sup>4</sup> Die Inhaber von Wasserkraftwerken prüfen nach Anordnung der kantonalen Behörde die Wirksamkeit der getroffenen Massnahmen.
 
 [^42c-1]: Eingefügt durch Ziff. I der V vom 4. Mai 2011, in Kraft seit 1. Juni 2011 ([AS 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
-[^42c-2]: [SR 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^42c-2]: [SR 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 [^42c-3]: Fassung des zweiten Satzes gemäss Anhang 7 Ziff. II 2 der Energieverordnung vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6889](https://fedlex.data.admin.ch/eli/oc/2017/763)).
 
 #### Art. 43
@@ -1083,9 +1107,9 @@ Die Behörde legt entsprechend den örtlichen Verhältnissen fest:
 [^46-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2011, in Kraft seit 1. Juni 2011 ([AS 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 [^46-2]: Fassung gemäss Ziff. I der V vom 4. Mai 2011, in Kraft seit 1. Juni 2011 ([AS 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 [^46-3]: Eingefügt durch Ziff. I der V vom 4. Mai 2011, in Kraft seit 1. Juni 2011 ([AS 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
-[^46-4]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^46-5]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
-[^46-6]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^46-4]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^46-5]: [SR 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
+[^46-6]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 
 #### Art. 47
 
@@ -1124,7 +1148,7 @@ Stellt die Behörde fest, dass ein Gewässer die Anforderungen an die Wasserqual
 
 <sup>3</sup> Die Kantone teilen dem BAFU nach dessen Vorgaben die Ergebnisse ihrer Untersuchungen und Ermittlungen zu Pestiziden in den Gewässern jährlich bis zum 1. Juni mit.[^48-2]
 
-[^48-1]: Die Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^48-1]: Die Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 [^48-2]: Eingefügt durch Ziff. I der V vom 16. Dez. 2022, in Kraft seit 1. Febr. 2023 ([AS 2023 3](https://fedlex.data.admin.ch/eli/oc/2023/3)).
 
 #### Art. 48a
@@ -1175,7 +1199,7 @@ Ein Grenzwert gemäss Artikel 9 Absatz 3 GSchG gilt dann für Oberflächengewäs
 Das BAFU gibt die minimalen Geodatenmodelle und Darstellungsmodelle für Geobasisdaten nach dieser Verordnung vor, für die es im Anhang 1 der Geoinformationsverordnung vom 21. Mai 2008[^49a-2] als Fachstelle des Bundes bezeichnet ist.
 
 [^49a-1]: Eingefügt durch Anhang 2 Ziff. 7 der V vom 21. Mai 2008 über Geoinformation, in Kraft seit 1. Juli 2008 ([AS 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
-[^49a-2]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^49a-2]: [SR 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 
 #### Art. 50
 
@@ -1201,8 +1225,8 @@ Das Departement ist ermächtigt, Beschlüsse und Empfehlungen, die gestützt auf
 
 [^51-1]: Fassung gemäss Ziff. II 12 der V vom 2. Febr. 2000 zum BG über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. März 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 [^51-2]: Fassung gemäss Ziff. I der V vom 4. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
-[^51-3]: [SR 0.814.293](https://fedlex.data.admin.ch/eli/cc/2005/36)
-[^51-4]: [[AS 1965 388](https://fedlex.data.admin.ch/eli/oc/1965/388_395_390); [1979 93](https://fedlex.data.admin.ch/eli/oc/1979/93_93_93). [AS 2003 1934](https://fedlex.data.admin.ch/eli/oc/2003/294)Art. 19 Ziff. 2 und 3]. Heute: Übereink. vom 12. April 1999 zum Schutz des Rheins ([SR 0.814.284](https://fedlex.data.admin.ch/eli/cc/2003/294)).
+[^51-3]: [SR 0.814.293](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3530)
+[^51-4]: [[AS 1965 388](https://fedlex.data.admin.ch/eli/oc/1965/388_395_390); [1979 93](https://fedlex.data.admin.ch/eli/oc/1979/93_93_93). [AS 2003 1934](https://fedlex.data.admin.ch/eli/oc/2003/294)Art. 19 Ziff. 2 und 3]. Heute: Übereink. vom 12. April 1999 zum Schutz des Rheins ([SR 0.814.284](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3509)).
 [^51-5]: [[AS 1979 97](https://fedlex.data.admin.ch/eli/oc/1979/97_96_97); [1983 323](https://fedlex.data.admin.ch/eli/oc/1983/323_323_323); [1989 161](https://fedlex.data.admin.ch/eli/oc/1989/161_161_161). [AS 2003 1934](https://fedlex.data.admin.ch/eli/oc/2003/294)Art. 19 Ziff. 2]
 [^51-6]: Eingefügt durch Ziff. II 12 der V vom 2. Febr. 2000 zum BG über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. März 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
@@ -1348,7 +1372,7 @@ Abgeltungen können einzeln gewährt werden, wenn die Massnahmen:
 <sup>6</sup> Keine Abgeltungen nach Artikel 62*b* Absatz 1 GSchG werden gewährt für Massnahmen, die nach Artikel 4 des Bundesgesetzes vom 21. Juni 1991[^54b-2] über den Wasserbau erforderlich sind.
 
 [^54b-1]: Eingefügt durch Ziff. I der V vom 4. Mai 2011, in Kraft seit 1. Juni 2011 ([AS 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
-[^54b-2]: [SR 721.100](https://fedlex.data.admin.ch/eli/cc/1993/234_234_234)
+[^54b-2]: [SR 721.100](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8402)
 
 #### Art. 55
 
@@ -1401,11 +1425,37 @@ Die Finanzhilfen für die Aufklärung der Bevölkerung betragen:
 
 **Anrechenbare Kosten**[^58-1]
 
-<sup>1</sup> Anrechenbar sind nur Kosten, die tatsächlich entstanden sind und unmittelbar für die zweckmässige Erfüllung der beitragsberechtigten Aufgabe erforderlich sind. Dazu gehören auch die Kosten für Pilotanlagen und, bei Revitalisierungen von Gewässern, die Kosten des erforderlichen Landerwerbs.
+<sup>1</sup> Anrechenbar sind nur Kosten, die tatsächlich entstanden sind und unmittelbar für die zweckmässige Erfüllung der beitragsberechtigten Aufgabe erforderlich sind.
 
-<sup>2</sup> Nicht anrechenbar sind insbesondere Gebühren und Steuern.
+<sup>2</sup>
 
-[^58-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2011, in Kraft seit 1. Juni 2011 ([AS 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
+Für Abgeltungen nach den Artikeln 52 und 52*a* sind die Kosten anrechenbar für:
+
+- a. die Errichtung von Anlagen und Einrichtungen zur Stickstoffelimination;
+- b. die Massnahmen zur Elimination von organischen Spurenstoffen;
+- c. die Errichtung und den Betrieb von Pilotanlagen für die Umsetzung von Massnahmen zur Elimination von Stickstoff oder organischen Spurenstoffen;
+- d. die Errichtung von Kanalisationen, die anstelle von Anlagen und Einrichtungen zur Elimination von Stickstoff oder organischen Spurenstoffen erstellt werden.
+
+<sup>3</sup> Nicht anrechenbar nach den Artikeln 52 und 52*a* sind insbesondere Gebühren und Steuern sowie Kosten für den Landerwerb.
+
+<sup>4</sup>
+
+Für Abgeltungen nach Artikel 54*b* sind anrechenbar die Kosten für:
+
+- a. die Grundlagenerarbeitung und die Massnahmenplanung;
+- b. die Ausführung und Umsetzung;
+- c. den Landerwerb, die Dienstbarkeiten sowie für die formelle und materielle Enteignung;
+- d. die Vermarkung.
+
+<sup>5</sup>
+
+Nicht anrechenbar an Abgeltungen nach Artikel 54*b* sind insbesondere:
+
+- a. anfallende Gebühren;
+- b. Kosten für die Schaffung erheblicher Mehrwerte, die unabhängig von der Revitalisierung durch die Massnahme entstehen;
+- c. Kosten für administrative Aufwendungen.
+
+[^58-1]: Fassung gemäss Anhang Ziff. 3 der Wasserbauverordnung vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
 
 ### 2. Abschnitt: Verfahren bei der Gewährung globaler Abgeltungen
 
@@ -1495,7 +1545,7 @@ Das zuständige Bundesamt hält die Tranchenzahlungen während der Programmdauer
 
 <sup>4</sup> Werden die Mängel nicht behoben oder wird die Zweckentfremdung nicht unterlassen oder nicht rückgängig gemacht, so richtet sich die Rückforderung nach den Artikeln 28 und 29 des Subventionsgesetzes vom 5. Oktober 1990[^61b-1] (SuG).
 
-[^61b-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^61b-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ### 3. Abschnitt: Verfahren bei der Gewährung von Abgeltungen oder Finanzhilfen im Einzelfall
 
@@ -1531,7 +1581,7 @@ Das zuständige Bundesamt hält die Tranchenzahlungen während der Programmdauer
 
 <sup>4</sup> Wird die Zweckentfremdung nicht unterlassen oder nicht rückgängig gemacht, so richtet sich die Rückforderung nach Artikel 29 SuG.
 
-[^61e-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^61e-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 61f
 
@@ -1836,11 +1886,11 @@ Anhang 3.1[^t-2]
 <tr><td>1</td><td>Gesamte ungelöste Stoffe</td><td>Für Abwasser aus Anlagen mit weniger als 10 000 EW gilt: – Abflusskonzentration: 20 mg/l Für Abwasser aus Anlagen ab 10 000 EW gilt: – Abflusskonzentration: 15 mg/l</td></tr>
 <tr><td>2</td><td>Chemischer Sauerstoffbedarf *(CSB)*</td><td>Für Abwasser aus Anlagen mit weniger als 10 000 EW gilt: – Abflusskonzentration: 60 mg/l O<sub>2</sub> und – Reinigungseffekt, bezogen auf Rohabwasser: 80 % Für Abwasser aus Anlagen ab 10 000 EW gilt: – Abflusskonzentration: 45 mg/l O<sub>2</sub> und – Reinigungseffekt, bezogen auf Rohabwasser: 85 %</td></tr>
 <tr><td>3</td><td>Gelöster organischer Kohlenstoff *(DOC)*</td><td>Für Abwasser aus Anlagen ab 2000 EW gilt: – Abflusskonzentration: 10 mg/l und – Reinigungseffekt: 85 %, ausgedrückt in</td></tr>
-<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20250101/de/xml/image/image1.png)</td></tr>
+<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20250801/de/xml/image/image1.png)</td></tr>
 <tr><td></td><td></td><td>Ist der Wert nicht eingehalten, bewertet die Behörde die Stoffe, ermittelt deren Herkunft und legt gegebenenfalls die nach den Anhängen 3.2 und 3.3 erforderlichen Massnahmen fest.</td></tr>
 <tr><td>4</td><td>Durchsichtigkeit *(nach Snellen)*</td><td>30 cm</td></tr>
 <tr><td>5</td><td>Ammonium *(Summe von* *NH**<sub>4</sub>**<sup>+</sup>* *- N und NH**<sub>3</sub>* *- N)*</td><td>Können die Ammoniumkonzentrationen im Abwasser nachteilige Auswirkungen auf die Wasserqualität eines Fliessgewässers haben, gilt für eine Abwassertemperatur von mehr als 10 °C: – Abflusskonzentration: 2 mg/l N und – Wirkungsgrad der Behandlung: 90 %, ausgedrückt in</td></tr>
-<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20250101/de/xml/image/image2.png)</td></tr>
+<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20250801/de/xml/image/image2.png)</td></tr>
 <tr><td></td><td></td><td>In diesen Fällen ist die Nitrifikation ganzjährig durchzuführen. *Hinweis:* Der Kjeldahl-Stickstoff ist die Summe von Ammonium-Stickstoff, Ammoniak-Stickstoff und organischem Stickstoff.</td></tr>
 <tr><td>6</td><td>Nitrit *(NO**<sub>2</sub>*<sup>–</sup> *- N)*</td><td>0,3 mg/l N (Richtwert)</td></tr>
 <tr><td>7</td><td>Adsorbierbare organische Halogenverbindungen *(AOX)*</td><td>0,08 mg/l X. Ist der Wert nicht eingehalten, bewertet die Behörde die Stoffe, ermittelt deren Herkunft und legt gegebenenfalls die nach den Anhängen 3.2 und 3.3 erforderlichen Massnahmen fest.</td></tr>
@@ -2036,8 +2086,8 @@ Für Anlagen, die vor dem 1.1.1993 in Betrieb genommen worden sind, legt die Beh
 <table>
 <tr><th>Nr.</th><th>Branche / Prozess</th><th>Kolonne 1: Anforderungen an die Einleitung in Gewässer</th><th colspan="2">Kolonne 2: Anforderungen an die Einleitung in die öffentliche Kanalisation</th></tr>
 <tr><td>1</td><td>Fotografische Prozesse</td><td>*Silber (Ag):* Die Behörde legt die Anforderungen im Einzelfall fest.</td><td colspan="2">*Silber (Ag):* 50 mg/l Ag für Betriebe mit einem Fixierbadverbrauch bis 1000 l/a 5 mg/l Ag für Betriebe mit einem Fixierbadverbrauch über 1000 l/a</td></tr>
-<tr><td></td><td>Herstellung von quecksilberhaltigen Primärbatterien</td><td colspan="2">Quecksilber (Hg): – 0,05 mg/l Hg im Monatsmittel – 0,1 mg/l Hg im Tagesmittel – 0,03 g/kg Hg pro Kilogramm verwendetes Quecksilber im Monatsmittel – 0,06 g/kg Hg pro Kilogramm verwendetes Quecksilber im Tagesmittel</td><td>[tab]</td></tr>
-<tr><td></td><td>Herstellung von anderen Primärbatterien und von Sekundärbatterien</td><td colspan="2">Cadmium (Cd): 0,2 mg/l Cd im Monatsmittel 0,4 mg/l Cd im Tagesmittel</td><td>[tab]</td></tr>
+<tr><td></td><td>Herstellung von quecksilberhaltigen Primärbatterien</td><td colspan="2">Quecksilber (Hg): – 0,05 mg/l Hg im Monatsmittel – 0,1 mg/l Hg im Tagesmittel – 0,03 g/kg Hg pro Kilogramm verwendetes Quecksilber im Monatsmittel – 0,06 g/kg Hg pro Kilogramm verwendetes Quecksilber im Tagesmittel</td><td></td></tr>
+<tr><td></td><td>Herstellung von anderen Primärbatterien und von Sekundärbatterien</td><td colspan="2">Cadmium (Cd): 0,2 mg/l Cd im Monatsmittel 0,4 mg/l Cd im Tagesmittel</td><td></td></tr>
 <tr><td></td><td>Prozesse, bei denen gezielt mit pathogenen Mikroorganismen umgegangen wird</td><td>–</td><td colspan="2">Pathogene Mikroorganismen: Inaktivierung</td></tr>
 <tr><td></td><td>Zahnarztpraxen und Zahnkliniken</td><td>Amalgam: Die Behörde legt die Anforderungen im Einzel- fall fest.</td><td colspan="2">Amalgam: Behandlungseinheiten, an welchen Amalgam verarbeitet wird, sind mit einem Amalgamabscheider mit einem Wirkungsgrad von mindestens 95 % auszurüsten.</td></tr>
 </table>
@@ -2256,7 +2306,7 @@ Werden bei der Bodenbewirtschaftung in den Zuströmbereichen Z<sub>u</sub> und Z
 - f. Verpflichtung zu dauernder Bodenbedeckung;
 - g. Verpflichtung zur Verwendung besonders geeigneter technischer Hilfsmittel, Verfahren, Einrichtungen oder Betriebsmethoden.
 
-[^annex4-lvlu1-lvl2-lvl21-lvl212-1]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^annex4-lvlu1-lvl2-lvl21-lvl212-1]: [SR 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 ### 22 Grundwasserschutzzonen
 
@@ -2276,9 +2326,9 @@ Werden bei der Bodenbewirtschaftung in den Zuströmbereichen Z<sub>u</sub> und Z
 
 <sup>2</sup> Für die Verwendung von Holzschutzmitteln, Pflanzenschutzmitteln und Düngern gelten die Anhänge 2.4 Ziffer 1, 2.5 und 2.6 ChemRRV.
 
-[^annex4-lvlu1-lvl2-lvl22-lvl221-1]: [SR 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
-[^annex4-lvlu1-lvl2-lvl22-lvl221-2]: [SR 734.1](https://fedlex.data.admin.ch/eli/cc/1994/1185_1185_1185)
-[^annex4-lvlu1-lvl2-lvl22-lvl221-3]: [SR 734.2](https://fedlex.data.admin.ch/eli/cc/1994/1199_1199_1199)
+[^annex4-lvlu1-lvl2-lvl22-lvl221-1]: [SR 746.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8897)
+[^annex4-lvlu1-lvl2-lvl22-lvl221-2]: [SR 734.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8571)
+[^annex4-lvlu1-lvl2-lvl22-lvl221-3]: [SR 734.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8573)
 
 ### 221<sup>bis</sup> Zone S<sub>m</sub>
 
