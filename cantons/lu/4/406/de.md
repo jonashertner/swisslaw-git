@@ -3,20 +3,19 @@ canton: LU
 number: "406"
 title: Verordnung über die Förderangebote der Volksschule
 language: de
-version: 2015-08-01
-valid_until: 2025-07-31
-version_adopted: 2015-01-20
+version: 2025-08-01
+version_adopted: 2025-02-04
 adopted: 2011-04-12
 in_force: 2011-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/406"
-pdf: "https://srl.lu.ch/api/de/versions/2754/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4515/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Förderangebote der Volksschule
 
-vom 12.04.2011 (Stand 01.08.2015)
+vom 12.04.2011 (Stand 01.08.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -86,7 +85,7 @@ beschliesst:
 
 <sup>2</sup> Die IF-Lehrperson unterstützt auf Entscheid der Schulleitung Lernende mit einer vom schulpsychologischen Dienst diagnostizierten Teilleistungsschwäche, auch wenn diese die Stammklasse im Niveau A oder B oder die Niveaufächer A oder B besuchen.
 
-<sup>3</sup> Die Begabtenförderung erfolgt in der Sekundarschule in der Regel durch den Besuch von Fächern in den Stammklassen des Niveaus A und durch den Besuch von Niveaufächern A.
+<sup>3</sup> Die Begabungs- und Begabtenförderung wird in der Sekundarschule in allen Niveaus umgesetzt.
 
 #### § 7
 
@@ -230,13 +229,15 @@ beschliesst:
 
 #### § 20
 
-**Spezielle Angebote zur Förderung von Begabten**
+**Spezielle Angebote zur Begabungs- und Begabtenförderung**
 
-<sup>1</sup> Zusätzlich zur Begabtenförderung im Rahmen der Integrativen Förderung können spezielle Angebote zur Förderung von Begabten bereitgestellt werden.
+<sup>1</sup> Zusätzlich zur Begabungs- und Begabtenförderung im Rahmen der Integrativen Förderung werden spezielle Angebote zur Förderung von Begabungen und Begabten bereitgestellt.
 
 <sup>2</sup> Die Angebote richten sich an Lernende mit besonderen Fähigkeiten oder besonders hoher Leistungsbereitschaft. Sie finden als speziell organisierte Angebote in Gruppen oder Klassen statt.
 
 <sup>3</sup> Sie können auch als regionale Angebote von einer Gemeinde, einem Verbund von Gemeinden oder von Privaten im Auftrag des Kantons geführt werden.
+
+<sup>3<sup>bis</sup></sup> Für die speziellen Angebote der Begabungs- und Begabtenförderung wird ein Pensum von 1 Lektion pro Klasse eingesetzt.
 
 <sup>4</sup> Im Rahmen der verfügbaren kantonalen Mittel kann die Dienststelle Volksschulbildung auf Gesuch der Wohngemeinde die Finanzierung der speziellen Förderung von Höchstbegabten im Einzelfall gemäss den Bestimmungen über die Sonderschulung bewilligen.
 
@@ -329,14 +330,13 @@ beschliesst:
 
 #### § 28
 
-**Übergangsbestimmungen**
+**…**
 
-<sup>1</sup> Kleinklassen, die im Schuljahr 2011/2012 schon bestehen, können bis Ende Primarstufe, das Niveau D bis Ende Sekundarstufe I weitergeführt werden. Für sie gilt das bisherige Recht, insbesondere die Bestimmungen zu den Kleinklassen der Verordnung über die Förderangebote der Volksschule vom 21. Dezember 1999[^28-1] und für die Klassenbestände der bisherige § 7 der Volksschulbildungsverordnung vom 16. Dezember 2008[^28-2]. Auf das Schuljahr 2012/2013 werden keine neuen Kleinklassen mehr errichtet und keine neuen Lernenden mehr einer Kleinklasse zugewiesen.
+#### § 28a
 
-<sup>2</sup> Die Förderkonzepte der Gemeinden sind der Dienststelle Volksschulbildung bis spätestens Ende Schuljahr 2013/2014 zur Genehmigung zu unterbreiten.
+**Übergangsbestimmung zur Änderung vom 4. Februar 2025.**
 
-[^28-1]: G 1999 378 (SRL Nr. 406)
-[^28-2]: SRL Nr. 405
+<sup>1</sup> Die Gemeinden haben die speziellen Angebote zur Begabungs- und Begabtenförderung bis zum 1. August 2027 einzuführen.
 
 #### § 29
 
