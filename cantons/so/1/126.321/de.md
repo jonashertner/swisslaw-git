@@ -3,20 +3,19 @@ canton: SO
 number: "126.321"
 title: Weisung über die Leistung des Amtsgelübdes
 language: de
-version: 2016-07-01
-valid_until: 2025-07-31
-version_adopted: 2016-05-31
+version: 2025-08-01
+version_adopted: 2024-10-29
 adopted: 2005-04-19
 in_force: 2005-08-01
 url: "https://bgs.so.ch/app/de/texts_of_law/126.321"
-pdf: "https://bgs.so.ch/api/de/versions/4536/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5489/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Weisung über die Leistung des Amtsgelübdes
 
-Vom 19.04.2005 (Stand 01.07.2016)
+Vom 19.04.2005 (Stand 01.08.2025)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -45,8 +44,8 @@ beschliesst:
   - 4\. Staatsanwälte oder Staatsanwältinnen;
   - 5\. Leitender Jugendanwalt oder leitende Jugendanwältin;
   - 6\. Jugendanwälte oder Jugendanwältinnen;
-  - 7\. Staatsschreiber oder Staatsschreiberin;
-  - 8\. Stellvertreter oder Stellvertreterin des Staatsschreibers oder der Staatsschreiberin;
+  - 7\. …
+  - 8\. …
   - 9\. Chef oder Chefin der Finanzkontrolle;
   - 10\. Beauftragte oder Beauftragter für Information und Datenschutz.
 - c) Vor dem Präsidenten oder der Präsidentin des Obergerichtes
