@@ -3,20 +3,20 @@ canton: AG
 number: "421.313"
 title: Verordnung über die Volksschule
 language: de
-version: 2025-07-01
-valid_until: 2025-07-31
-version_adopted: 2025-05-07
+version: 2025-08-01
+valid_until: 2025-08-31
+version_adopted: 2025-05-21
 adopted: 2012-06-27
 in_force: 2013-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/421.313"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3819/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3821/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Volksschule
 
-Vom 27.06.2012 (Stand 01.07.2025)
+Vom 27.06.2012 (Stand 01.08.2025)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -150,9 +150,12 @@ beschliesst:
 <sup>2</sup> Schülerinnen und Schülern ist es untersagt,
 
 - a) Alkohol, Raucherwaren und andere Suchtmittel in die Schulanlagen und an schulische Anlässe mitzubringen und dort zu konsumieren,
-- b) Waffen und Waffenattrappen in die Schulanlagen oder an schulische Anlässe mitzubringen.
+- b) Waffen und Waffenattrappen in die Schulanlagen oder an schulische Anlässe mitzubringen,
+- c) private elektronische Geräte zu den Unterrichtszeiten, einschliesslich Pausen, in den Schulanlagen oder an schulischen Anlässen zu benutzen.
 
 <sup>3</sup> Der Gemeinderat kann eine Schulordnung erlassen, die weitere allgemeine Weisungen zum Verhalten im Schulhaus, auf dem Schulareal und bei schulischen Anlässen auch ausserhalb der Schule enthält.
+
+<sup>4</sup> Die Lehrpersonen erlauben den Gebrauch privater elektronischer Geräte für einzelne Unterrichtssequenzen zur Umsetzung des Lehrplans sowie aus wichtigen persönlichen, insbesondere gesundheitlichen Gründen.
 
 #### § 13
 
