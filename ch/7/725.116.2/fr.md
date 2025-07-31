@@ -4,11 +4,11 @@ title: "Loi fédérale du 22 mars 1985 concernant l'utilisation de l'impôt sur 
 short: LUMin
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/834_834_834"
 language: fr
-version: 2022-01-01
+version: 2025-08-01
 adopted: 1985-03-22
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/834_834_834/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1985-834_834_834-20220101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/834_834_834/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/834_834_834/20250801/fr/xml/fedlex-data-admin-ch-eli-cc-1985-834_834_834-20250801-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/834_834_834/20250801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1985/834_834_834/20220101/fr"
 
 (LUMin)[^t-1]
 
-du 22 mars 1985 (État le 1<sup>er</sup> janvier 2022)
+du 22 mars 1985 (État le 1<sup>er</sup> août 2025)
 
 [^t-1]: Nouvelle teneur selon l’annexe ch. II 5 de la LF du 30 sept. 2016 sur le fonds pour les routes nationales et pour le trafic d’agglomération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
@@ -77,7 +77,7 @@ Le Conseil fédéral présente à l’Assemblée fédérale, en même temps que 
 
 [^tit2-1]
 
-[^tit2-1]: Introduit par le ch. I de la LF du 18 mars 2011 ([RO 2011 3467](https://fedlex.data.admin.ch/eli/oc/2011/469); [FF 2010 5937](https://fedlex.data.admin.ch/eli/fga/2010/1146)). Nouvelle teneur selon le ch. II 5 de l’annexe à la LF du 30 sept. 2016 sur le fonds pour les routes nationales et pour le trafic d’agglomération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^tit2-1]: Introduit par le ch. I de la LF du 18 mars 2011 ([RO 2011 3467](https://fedlex.data.admin.ch/eli/oc/2011/469); [FF 2010 5937](https://fedlex.data.admin.ch/eli/fga/2010/1146)). Nouvelle teneur selon l’annexe ch. II 5 de la LF du 30 sept. 2016 sur le fonds pour les routes nationales et pour le trafic d’agglomération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
 ### Chapitre 1 Dispositions générales
 
@@ -89,7 +89,7 @@ Le Conseil fédéral présente à l’Assemblée fédérale, en même temps que 
 
 [^3-1]
 
-[^3-1]: Abrogé par le ch. II 5 de l’annexe à la LF du 30 sept. 2016 sur le fonds pour les routes nationales et pour le trafic d’agglomération, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^3-1]: Abrogé par l’annexe ch. II 5 de la LF du 30 sept. 2016 sur le fonds pour les routes nationales et pour le trafic d’agglomération, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
 #### Art. 4
 
@@ -567,9 +567,13 @@ Lors de la construction et de l’aménagement des routes nationales et lors de 
 
 **Taux des contributions**
 
-<sup>1</sup> Les contributions de la Confédération se déterminent selon les dispositions de la législation fédérale sur la police des forêts et sur la police des eaux.
+<sup>1</sup> Les contributions de la Confédération sont calculées conformément aux dispositions de la loi du 4 octobre 1991 sur les forêts[^32-1] et de la loi du 21 juin 1991 sur l’aménagement des cours d’eau[^32-2].[^32-3]
 
 <sup>2</sup> Après avoir entendu les cantons, le Conseil fédéral attribue, les moyens nécessaires aux contributions, compte tenu des nécessités techniques et du degré d’urgence.
+
+[^32-1]: [RS 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
+[^32-2]: [RS 721.100](https://fedlex.data.admin.ch/eli/cc/1993/234_234_234)
+[^32-3]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 #### Art. 33
 

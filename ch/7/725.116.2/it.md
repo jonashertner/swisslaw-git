@@ -4,11 +4,11 @@ title: "Legge federale del 22 marzo 1985 concernente l'utilizzazione dell'impost
 short: LUMin
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/834_834_834"
 language: it
-version: 2022-01-01
+version: 2025-08-01
 adopted: 1985-03-22
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/834_834_834/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1985-834_834_834-20220101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/834_834_834/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/834_834_834/20250801/it/xml/fedlex-data-admin-ch-eli-cc-1985-834_834_834-20250801-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/834_834_834/20250801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1985/834_834_834/20220101/it"
 
 (LUMin)[^t-1]
 
-del 22 marzo 1985 (Stato 1° gennaio 2022)
+del 22 marzo 1985 (Stato 1° agosto 2025)
 
-[^t-1]: Nuovo testo giusta l’all. n. II 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^t-1]: Nuovo testo giusta l’all. cifra II n. 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -28,14 +28,14 @@ visti gli articoli 82, 83, 85*a*, 86 e 87*b* della Costituzione federale (Cost.)
 decreta:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Nuovo testo giusta l’all. n. II 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^ingress-2]: Nuovo testo giusta l’all. cifra II n. 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 [^ingress-3]: [FF 1984 I 800](https://fedlex.data.admin.ch/eli/fga/1984/1_986_993_800)
 
 ## Titolo 1: Disposizioni generali
 
 [^tit1-1]
 
-[^tit1-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2011, in vigore dal 1° ago. 2011 ([RU 2011 3467](https://fedlex.data.admin.ch/eli/oc/2011/469); [FF 2010 5733](https://fedlex.data.admin.ch/eli/fga/2010/1146)).
+[^tit1-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2011, in vigore dal 1° ago. 2011 ([RU 2011 3467](https://fedlex.data.admin.ch/eli/oc/2011/469); [FF 2010 5733](https://fedlex.data.admin.ch/eli/fga/2010/1146)).
 
 #### Art. 1
 
@@ -62,10 +62,10 @@ Essa disciplina l’utilizzazione della quota a destinazione vincolata del prodo
 
 <sup>3</sup> Salvo laddove diversamente stabilito da altre disposizioni federali, per prodotto netto si intende il prodotto al netto dei compensi per la riscossione di tasse e imposte.
 
-[^1-1]: Nuovo testo giusta l’all. n. II 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^1-1]: Nuovo testo giusta l’all. cifra II n. 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 [^1-2]: Nuovo testo giusta l’all. n. 6 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 333](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 [^1-3]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
-[^1-4]: Introdotta dall’all. n. 6 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 333](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+[^1-4]: Introdotta dall’all. cifra 6 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 333](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 #### Art. 2
 
@@ -73,25 +73,25 @@ Essa disciplina l’utilizzazione della quota a destinazione vincolata del prodo
 
 Il Consiglio federale presenta all’Assemblea federale, insieme al preventivo e al consuntivo, un rapporto relativo all’utilizzazione dei mezzi di cui all’articolo 1.
 
-[^2-1]: Nuovo testo giusta l’all. n. II 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^2-1]: Nuovo testo giusta l’all. cifra II n. 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
 ## Titolo 2: Compiti e spese connessi alla circolazione stradale
 
 [^tit2-1]
 
-[^tit2-1]: Introdotto dal n. I della LF del 18 mar. 2011 ([RU 2011 3467](https://fedlex.data.admin.ch/eli/oc/2011/469); [FF 2010 5733](https://fedlex.data.admin.ch/eli/fga/2010/1146)). Nuovo testo giusta l’all. n. II 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^tit2-1]: Introdotto dalla cifra I della LF del 18 mar. 2011 ([RU 2011 3467](https://fedlex.data.admin.ch/eli/oc/2011/469); [FF 2010 5733](https://fedlex.data.admin.ch/eli/fga/2010/1146)). Nuovo testo giusta l’all. cifra II n. 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
 ### Capitolo 1: Disposizioni generali
 
 [^tit2-chap1-1]
 
-[^tit2-chap1-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2011, in vigore dal 1° ago. 2011 ([RU 2011 3467](https://fedlex.data.admin.ch/eli/oc/2011/469); [FF 2010 5733](https://fedlex.data.admin.ch/eli/fga/2010/1146)).
+[^tit2-chap1-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2011, in vigore dal 1° ago. 2011 ([RU 2011 3467](https://fedlex.data.admin.ch/eli/oc/2011/469); [FF 2010 5733](https://fedlex.data.admin.ch/eli/fga/2010/1146)).
 
 #### Art. 3
 
 [^3-1]
 
-[^3-1]: Abrogato dall’all. n. II 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, con effetto dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^3-1]: Abrogato dall’all. cifra II n. 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, con effetto dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
 #### Art. 4
 
@@ -103,7 +103,7 @@ Il Consiglio federale presenta all’Assemblea federale, insieme al preventivo e
 
 <sup>3</sup> Nel finanziamento speciale per il traffico stradale di cui all’articolo 86 capoverso 3 Cost. è prevista una riserva adeguata per assicurare un’evoluzione equilibrata delle entrate e delle uscite. Le uscite non possono superare i mezzi a destinazione vincolata.
 
-[^4-1]: Nuovo testo giusta l’all. n. II 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^4-1]: Nuovo testo giusta l’all. cifra II n. 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
 #### Art. 5
 
@@ -122,7 +122,7 @@ I mezzi di cui al capoverso 1 sono ottenuti come segue:
 
 <sup>4</sup> L’importo di cui al capoverso 1 è aumentato in proporzione dell’incremento dei contributi alle spese per le strade principali.
 
-[^5-1]: Nuovo testo giusta l’all. n. II 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2020 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^5-1]: Nuovo testo giusta l’all. cifa II 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2020 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 [^5-2]: [FF 2013 2257](https://fedlex.data.admin.ch/eli/fga/2013/460), [2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1956)
 
 #### Art. 6
@@ -133,13 +133,13 @@ I mezzi di cui al capoverso 1 sono ottenuti come segue:
 
 <sup>2</sup> Non sono concessi contributi inferiori a 30 000 franchi; sono eccettuati le quote versate dalla Confederazione a titolo di partecipazione alle spese di completamento della rete delle strade nazionali e i contributi per provvedimenti di protezione dell’ambiente, della natura e del paesaggio.
 
-[^6-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2011, in vigore dal 1° ago. 2011 ([RU 2011 3467](https://fedlex.data.admin.ch/eli/oc/2011/469); [FF 2010 5733](https://fedlex.data.admin.ch/eli/fga/2010/1146)).
+[^6-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2011, in vigore dal 1° ago. 2011 ([RU 2011 3467](https://fedlex.data.admin.ch/eli/oc/2011/469); [FF 2010 5733](https://fedlex.data.admin.ch/eli/fga/2010/1146)).
 
 ### Capitolo 2: Finanziamento delle strade nazionali
 
 [^tit2-chap2-1]
 
-[^tit2-chap2-1]: Originario Cap. 3. Nuovo testo giusta il n. II 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^tit2-chap2-1]: Originario Cap. 3. Nuovo testo giusta la cifra II n. 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 #### Art. 7
 
@@ -184,10 +184,10 @@ La Confederazione può partecipare alle spese computabili. Il Consiglio federale
 - b. negli altri casi, non può superare il 30 per cento delle spese.[^8-5]
 
 [^8-1]: [RS 725.11](https://fedlex.data.admin.ch/eli/cc/1960/525_569_555)
-[^8-2]: Per. introdotto dall’all. n. 6 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 333](https://fedlex.data.admin.ch/eli/fga/2020/18)).
-[^8-3]: Nuovo testo giusta l’all. n. II 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^8-2]: Per. introdotto dall’all. cifra 6 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 333](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+[^8-3]: Nuovo testo giusta l’all. cifra II n. 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 [^8-4]: [RS 725.13](https://fedlex.data.admin.ch/eli/cc/2017/761)
-[^8-5]: Introdotto dall’all. n. II 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^8-5]: Introdotto dall’all. cifra II n. 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
 #### Art. 8a
 
@@ -201,7 +201,7 @@ La Confederazione può partecipare alle spese computabili. Il Consiglio federale
 
 <sup>4</sup> L’USTRA concorda con il Cantone lo scadenzario, il finanziamento e il rimborso.
 
-[^8a-1]: Introdotto dall’all. n. II 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^8a-1]: Introdotto dall’all. cifra II n. 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 [^8a-2]: [RS 725.11](https://fedlex.data.admin.ch/eli/cc/1960/525_569_555)
 
 #### Art. 9
@@ -216,10 +216,10 @@ La Confederazione può partecipare alle spese computabili. Il Consiglio federale
 
 <sup>4</sup> Sono considerate spese quelle per la progettazione, per i lavori veri e propri, per la vigilanza e per l’amministrazione.
 
-[^9-1]: Nuovo testo giusta l’all. n. II 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^9-1]: Nuovo testo giusta l’all. cifra II n. 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 [^9-2]: [RS 725.11](https://fedlex.data.admin.ch/eli/cc/1960/525_569_555)
-[^9-3]: Nuovo testo del per. giusta l’all. n. 6 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 333](https://fedlex.data.admin.ch/eli/fga/2020/18)).
-[^9-4]: Per. introdotto dall’all. n. 6 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 333](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+[^9-3]: Nuovo testo del per. giusta l’all. cifra 6 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 333](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+[^9-4]: Per. introdotto dall’all. cifra 6 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 333](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 #### Art. 10
 
@@ -275,7 +275,7 @@ Per il completamento della rete delle strade nazionali[^11-1], la Confederazione
 
 [^tit2-chap3-1]
 
-[^tit2-chap3-1]: Originario Cap. 4. Nuovo testo giusta il n. II 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^tit2-chap3-1]: Originario Cap. 4. Nuovo testo giusta la cifra II n. 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 #### Art. 12
 
@@ -301,7 +301,7 @@ Fuori della regione delle Alpi e del Giura possono essere dichiarate strade prin
 - b. strade che collegano strade nazionali e città, nonché regioni o parti del Paese;
 - c. strade d’accesso alla regione delle Alpi e al Giura, che collegano le strade nazionali a queste regioni.
 
-[^12-1]: Nuovo testo giusta il n. II 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^12-1]: Nuovo testo giusta la cifra II n. 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 #### Art. 13
 
@@ -319,8 +319,8 @@ I contributi globali sono calcolati in base a:
 
 <sup>3</sup> Il Consiglio federale pondera i criteri di cui al capoverso 2 e determina le aliquote percentuali dei Cantoni nel credito annuale. Nel determinare tali aliquote, conferisce al fattore altitudine e al carattere di strada di montagna un peso pari a quattro volte gli altri fattori. Consulta i Cantoni prima di emanare le disposizioni d’esecuzione.[^13-2]
 
-[^13-1]: Nuovo testo giusta il n. II 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^13-2]: Nuovo testo giusta l’all. n. II 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^13-1]: Nuovo testo giusta la cifra II n. 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^13-2]: Nuovo testo giusta l’all. cifra II n. 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
 #### Art. 14
 
@@ -330,13 +330,13 @@ I contributi globali sono calcolati in base a:
 
 <sup>2</sup> Il Consiglio federale designa i Cantoni beneficiari.
 
-[^14-1]: Nuovo testo giusta l’all. n. II 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^14-1]: Nuovo testo giusta l’all. cifra II n. 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
 #### Art. 15
 
 [^15-1]
 
-[^15-1]: Abrogato dal n. II 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^15-1]: Abrogato dalla cifra II n. 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 #### Art. 16
 
@@ -352,13 +352,13 @@ I Cantoni possono prescrivere nelle loro disposizioni esecutive che le espropria
 
 I Cantoni costruiscono e provvedono alla manutenzione e all’esercizio delle strade principali. Per adempiere questi compiti, utilizzano i contributi globali.
 
-[^17-1]: Nuovo testo giusta il n. II 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^17-1]: Nuovo testo giusta la cifra II n. 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 ### Capitolo 4: Contributi alle infrastrutture dei trasporti nelle città e negli agglomerati
 
 [^tit2-chap4-1]
 
-[^tit2-chap4-1]: Originario Cap. 4*a.* Introdotto dal n. II 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^tit2-chap4-1]: Originario Cap. 4*a.* Introdotto dalla cifra II n. 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 #### Art. 17a
 
@@ -374,8 +374,8 @@ I Cantoni costruiscono e provvedono alla manutenzione e all’esercizio delle st
 
 <sup>4</sup> Sono esclusi i contributi d’esercizio.
 
-[^17a-1]: Nuovo testo giusta l’all. n. II 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
-[^17a-2]: Introdotto dall’all. n. II 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^17a-1]: Nuovo testo giusta l’all. cifra II n. 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^17a-2]: Introdotto dall’all. cifra II n. 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
 #### Art. 17b
 
@@ -387,7 +387,7 @@ I Cantoni costruiscono e provvedono alla manutenzione e all’esercizio delle st
 
 <sup>3</sup> I contributi per le infrastrutture ferroviarie destinate al traffico d’agglomerato sono versati alle imprese di trasporto mediante gli strumenti di finanziamento previsti dalla legislazione sulle ferrovie. Il contributo all’ente responsabile è ridotto di conseguenza.
 
-[^17b-1]: Nuovo testo del per. giusta l’all. n. II 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^17b-1]: Nuovo testo del per. giusta l’all. cifra II n. 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
 #### Art. 17c
 
@@ -419,7 +419,7 @@ L’effetto complessivo è il rapporto tra l’onere finanziario e i seguenti ob
 
 <sup>4</sup> Si tiene debitamente conto di tutte le regioni del Paese nonché delle aree urbane di piccole e medie dimensioni e dei capoluoghi.[^17d-1]
 
-[^17d-1]: Introdotto dall’all. n. II 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^17d-1]: Introdotto dall’all. cifra II n. 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
 #### Art. 17e
 
@@ -429,7 +429,7 @@ L’effetto complessivo è il rapporto tra l’onere finanziario e i seguenti ob
 
 <sup>2</sup> Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC) stabilisce i termini per l’avvio dell’esecuzione dei progetti di costruzione. Il diritto ai contributi destinati a una misura si estingue se i lavori di costruzione non sono avviati entro il termine stabilito.
 
-[^17e-1]: Introdotto dall’all. n. II 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^17e-1]: Introdotto dall’all. cifra II n. 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
 #### Art. 17f
 
@@ -437,7 +437,7 @@ L’effetto complessivo è il rapporto tra l’onere finanziario e i seguenti ob
 
 I contributi iscritti nel preventivo concernenti provvedimenti volti a migliorare l’infrastruttura dei trasporti nelle città e negli agglomerati si basano sui relativi crediti d’impegno e ammontano di norma al 9–12 per cento delle spese previste dal fondo per le strade nazionali e il traffico d’agglomerato.
 
-[^17f-1]: Introdotto dall’all. n. II 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^17f-1]: Introdotto dall’all. cifra II n. 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
 ### Capitolo 5: Altri contributi direttamente vincolati alle opere
 
@@ -445,7 +445,7 @@ I contributi iscritti nel preventivo concernenti provvedimenti volti a migliorar
 
 [^tit2-chap5-sec1-1]
 
-[^tit2-chap5-sec1-1]: Nuovo testo giusta l’all. n. II 1 della L del 25 set. 2015 sul trasporto di merci, in vigore dal 1° lug. 2016 ([RU 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328); [FF 2014 3253](https://fedlex.data.admin.ch/eli/fga/2014/923)).
+[^tit2-chap5-sec1-1]: Nuovo testo giusta l’all. cifra II n. 1 della L del 25 set. 2015 sul trasporto di merci, in vigore dal 1° lug. 2016 ([RU 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328); [FF 2014 3253](https://fedlex.data.admin.ch/eli/fga/2014/923)).
 
 #### Art. 18
 
@@ -459,14 +459,14 @@ I contributi iscritti nel preventivo concernenti provvedimenti volti a migliorar
 
 <sup>4</sup> Sono applicabili gli articoli 8, 9 e 28 capoverso 3 della legge del 25 settembre 2015[^18-2] sul trasporto di merci.
 
-[^18-1]: Nuovo testo giusta l’all. n. II 1 della L del 25 set. 2015 sul trasporto di merci, in vigore dal 1° lug. 2016 ([RU 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328); [FF 2014 3253](https://fedlex.data.admin.ch/eli/fga/2014/923)).
+[^18-1]: Nuovo testo giusta l’all. cifra II n. 1 della L del 25 set. 2015 sul trasporto di merci, in vigore dal 1° lug. 2016 ([RU 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328); [FF 2014 3253](https://fedlex.data.admin.ch/eli/fga/2014/923)).
 [^18-2]: [RS 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)
 
 #### Art. 19 e 20
 
 [^1920-1]
 
-[^1920-1]: Abrogati dal n. II 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^1920-1]: Abrogati dalla cifra II n. 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 ### Sezione 2: ...
 
@@ -474,7 +474,7 @@ I contributi iscritti nel preventivo concernenti provvedimenti volti a migliorar
 
 [^2122-1]
 
-[^2122-1]: Abrogati dall’all. n. II 1 della L del 25 set. 2015 sul trasporto di merci, con effetto dal 1° lug. 2016 ([RU 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328); [FF 2014 3253](https://fedlex.data.admin.ch/eli/fga/2014/923)).
+[^2122-1]: Abrogati dall’all. cifra II n. 1 della L del 25 set. 2015 sul trasporto di merci, con effetto dal 1° lug. 2016 ([RU 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328); [FF 2014 3253](https://fedlex.data.admin.ch/eli/fga/2014/923)).
 
 ### Sezione 3: ...
 
@@ -482,7 +482,7 @@ I contributi iscritti nel preventivo concernenti provvedimenti volti a migliorar
 
 [^2324-1]
 
-[^2324-1]: Abrogati dal n. I 7 della LF del 24 mar. 1995 concernente le misure di risanamento 1994, con effetto dal 1° gen. 1996 ([RU 1995 3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)[5365](https://fedlex.data.admin.ch/eli/oc/1995/5365_5365_5365), [1998 2308](https://fedlex.data.admin.ch/eli/oc/1998/2308_2308_2308)art. 1; [FF 1995 I 65](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
+[^2324-1]: Abrogati dalla cifra I n. 7 della LF del 24 mar. 1995 concernente le misure di risanamento 1994, con effetto dal 1° gen. 1996 ([RU 1995 3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)[5365](https://fedlex.data.admin.ch/eli/oc/1995/5365_5365_5365), [1998 2308](https://fedlex.data.admin.ch/eli/oc/1998/2308_2308_2308)art. 1; [FF 1995 I 65](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
 
 ### **Sezione 4:** **Contributi per i provvedimenti protettivi dell’ambiente, resi necessari dal traffico stradale**
 
@@ -508,7 +508,7 @@ La Confederazione accorda contributi per i provvedimenti di protezione ecologica
 
 Nel caso di costruzione e di sistemazione delle strade nazionali e di completamento della rete delle strade nazionali[^27-2], i necessari provvedimenti di protezione ecologica secondo l’articolo 25 costituiscono parte integrante del progetto. Per le strade principali, le spese dei provvedimenti sono indennizzate mediante i contributi globali.
 
-[^27-1]: Nuovo testo giusta il n. II 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^27-1]: Nuovo testo giusta la cifra II n. 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^27-2]: Conformemente al DF del 21 giu. 1960 concernente la rete delle strade nazionali, nelle sue ultime versioni determinanti ([RU 1960 900](https://fedlex.data.admin.ch/eli/oc/1960/872_912_900), **1984** 118, [1986 35](https://fedlex.data.admin.ch/eli/oc/1986/35_35_35)[2515](https://fedlex.data.admin.ch/eli/oc/1986/2515_2515_2515), [1987 52](https://fedlex.data.admin.ch/eli/oc/1987/52_52_52), [1988 562](https://fedlex.data.admin.ch/eli/oc/1988/562_562_562), [2001 3090](https://fedlex.data.admin.ch/eli/oc/2001/464)) e all’art. 197 n. 3 Cost. ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
 
 ### **Sezione 5:** **Contributi per i provvedimenti protettivi del paesaggio, resi necessari dal traffico stradale**
@@ -519,7 +519,7 @@ Nel caso di costruzione e di sistemazione delle strade nazionali e di completame
 
 La Confederazione accorda contributi per i provvedimenti resi necessari dal traffico stradale motorizzato per la conservazione, la preservazione o il ripristino di paesaggi degni di protezione, compresi i monumenti storici.
 
-[^28-1]: Nuovo testo giusta il n. I 8 della LF del 19 dic. 2003 sul programma di sgravio 2003, in vigore dal 1° gen. 2005 ([RU 2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)[4625](https://fedlex.data.admin.ch/eli/oc/2004/707)n. II; [FF 2003 4857](https://fedlex.data.admin.ch/eli/fga/2003/887)).
+[^28-1]: Nuovo testo giusta la cifra I n. 8 della LF del 19 dic. 2003 sul programma di sgravio 2003, in vigore dal 1° gen. 2005 ([RU 2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)[4625](https://fedlex.data.admin.ch/eli/oc/2004/707)cifra II; [FF 2003 4857](https://fedlex.data.admin.ch/eli/fga/2003/887)).
 
 #### Art. 29
 
@@ -535,7 +535,7 @@ La Confederazione accorda contributi per i provvedimenti resi necessari dal traf
 
 Nel caso di costruzione e di sistemazione delle strade nazionali e di completamento della rete delle strade nazionali[^30-2], i necessari provvedimenti di protezione del paesaggio secondo l’articolo 28 costituiscono parte integrante del progetto. Per le strade principali, le spese dei provvedimenti sono indennizzate mediante i contributi globali.
 
-[^30-1]: Nuovo testo giusta il n. II 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^30-1]: Nuovo testo giusta la cifra II n. 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^30-2]: Conformemente al DF del 21 giu. 1960 concernente la rete delle strade nazionali, nelle sue ultime versioni determinanti ([RU 1960 900](https://fedlex.data.admin.ch/eli/oc/1960/872_912_900), **1984** 118, [1986 35](https://fedlex.data.admin.ch/eli/oc/1986/35_35_35)[2515](https://fedlex.data.admin.ch/eli/oc/1986/2515_2515_2515), [1987 52](https://fedlex.data.admin.ch/eli/oc/1987/52_52_52), [1988 562](https://fedlex.data.admin.ch/eli/oc/1988/562_562_562), [2001 3090](https://fedlex.data.admin.ch/eli/oc/2001/464)) e all’art. 197 n. 3 Cost. ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
 
 ### **Sezione 6:** **Contributi per le spese delle opere di protezione, lungo le strade, contro le forze della natura**
@@ -550,16 +550,20 @@ Nel caso di costruzione e di sistemazione delle strade nazionali e di completame
 
 <sup>3</sup> Non sono accordati contributi ai provvedimenti intesi a proteggere le altre strade (gallerie, trafori, spostamento del tracciato, drenaggio ecc.).[^31-2]
 
-[^31-1]: Introdotto dal n. I 8 della LF del 19 dic. 2003 sul programma di sgravio 2003, in vigore dal 1° gen. 2005 ([RU 2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)[4625](https://fedlex.data.admin.ch/eli/oc/2004/707)n. II; [FF 2003 4857](https://fedlex.data.admin.ch/eli/fga/2003/887)).
-[^31-2]: Introdotto dal n. I 8 della LF del 19 dic. 2003 sul programma di sgravio 2003, in vigore dal 1° gen. 2005 ([RU 2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)[4625](https://fedlex.data.admin.ch/eli/oc/2004/707)n. II; [FF 2003 4857](https://fedlex.data.admin.ch/eli/fga/2003/887)).
+[^31-1]: Introdotto dalla cifra I n. 8 della LF del 19 dic. 2003 sul programma di sgravio 2003, in vigore dal 1° gen. 2005 ([RU 2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)[4625](https://fedlex.data.admin.ch/eli/oc/2004/707)cifra II; [FF 2003 4857](https://fedlex.data.admin.ch/eli/fga/2003/887)).
+[^31-2]: Introdotto dalla cifra I n. 8 della LF del 19 dic. 2003 sul programma di sgravio 2003, in vigore dal 1° gen. 2005 ([RU 2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)[4625](https://fedlex.data.admin.ch/eli/oc/2004/707)cifra II; [FF 2003 4857](https://fedlex.data.admin.ch/eli/fga/2003/887)).
 
 #### Art. 32
 
 **Entità dei contributi**
 
-<sup>1</sup> I contributi sono commisurati alle disposizioni della legislazione federale concernente l’alta vigilanza della Confederazione sulla polizia delle foreste e di quella concernente la polizia delle acque.
+<sup>1</sup> I contributi della Confederazione sono commisurati alle disposizioni della legge forestale del 4 ottobre 1991[^32-1] e della legge federale del 21 giugno 1991[^32-2] sulla sistemazione dei corsi d’acqua.[^32-3]
 
 <sup>2</sup> Il Consiglio federale, uditi i Cantoni, assegna i fondi per i contributi secondo la necessità tecnica e il grado d’urgenza.
+
+[^32-1]: [RS 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
+[^32-2]: [RS 721.100](https://fedlex.data.admin.ch/eli/cc/1993/234_234_234)
+[^32-3]: Nuovo testo giusta l’all. cifra 3 della LF del 15 mar. 2024, in vigore dal 1° ago. 2025 ([RU 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 #### Art. 33
 
@@ -567,7 +571,7 @@ Nel caso di costruzione e di sistemazione delle strade nazionali e di completame
 
 Nel caso di costruzione e di sistemazione delle strade nazionali e di completamento della rete delle strade nazionali[^33-2], le necessarie opere di protezione contro le forze della natura secondo l’articolo 31 costituiscono parte integrante del progetto. Per le strade principali, le spese per le opere di protezione sono indennizzate mediante i contributi globali.
 
-[^33-1]: Nuovo testo giusta il n. II 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^33-1]: Nuovo testo giusta la cifra II n. 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^33-2]: Conformemente al DF del 21 giu. 1960 concernente la rete delle strade nazionali, nelle sue ultime versioni determinanti ([RU 1960 900](https://fedlex.data.admin.ch/eli/oc/1960/872_912_900), **1984** 118, [1986 35](https://fedlex.data.admin.ch/eli/oc/1986/35_35_35)[2515](https://fedlex.data.admin.ch/eli/oc/1986/2515_2515_2515), [1987 52](https://fedlex.data.admin.ch/eli/oc/1987/52_52_52), [1988 562](https://fedlex.data.admin.ch/eli/oc/1988/562_562_562), [2001 3090](https://fedlex.data.admin.ch/eli/oc/2001/464)) e all’art. 197 n. 3 Cost. ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
 
 ### Capitolo 6: Contributi non direttamente vincolati alle opere
@@ -590,13 +594,13 @@ I contributi generali alle spese delle strade aperte agli autoveicoli sono commi
 
 <sup>4</sup> I Cantoni utilizzano i contributi per adempiere i loro compiti nel settore stradale.[^34-7]
 
-[^34-1]: Nuovo testo giusta il n. II 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^34-2]: Nuovo testo giusta il n. II 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni Correttivi in materia di sanzioni e di casellario giudiziale), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^34-3]: Nuovo testo giusta il n. II 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^34-4]: Abrogate dal n. II 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^34-5]: Nuovo testo giusta il n. I 6 della LF del 18 mar. 1994 sulle misure di risanamento 1993, in vigore dal 1° gen. 1995 ([RU 1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634); [FF 1993 IV 225](https://fedlex.data.admin.ch/eli/fga/1993/4_293_301_225)).
-[^34-6]: Nuovo testo giusta il n. II 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^34-7]: Introdotto dal n. II 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^34-1]: Nuovo testo giusta la cifra II n. 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^34-2]: Nuovo testo giusta la cifra II n. 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni Correttivi in materia di sanzioni e di casellario giudiziale), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^34-3]: Nuovo testo giusta la cifra II n. 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^34-4]: Abrogate dalla cifra II n. 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^34-5]: Nuovo testo giusta la cifra I n. 6 della LF del 18 mar. 1994 sulle misure di risanamento 1993, in vigore dal 1° gen. 1995 ([RU 1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634); [FF 1993 IV 225](https://fedlex.data.admin.ch/eli/fga/1993/4_293_301_225)).
+[^34-6]: Nuovo testo giusta la cifra II n. 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^34-7]: Introdotto dalla cifra II n. 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 #### Art. 35
 
@@ -612,11 +616,11 @@ I contributi generali alle spese delle strade aperte agli autoveicoli sono commi
 
 <sup>4</sup> I Cantoni utilizzano i contributi per adempiere i loro compiti nel settore stradale.[^35-5]
 
-[^35-1]: Nuovo testo giusta il n. II 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^35-2]: Abrogato dal n. II 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^35-3]: Nuovo testo giusta il n. II 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^35-4]: Introdotto dal n. III della LF del 22 mar. 2013, in vigore dal 1° gen. 2016 ([RU 2015 2259](https://fedlex.data.admin.ch/eli/oc/2015/422); [FF 2012 543](https://fedlex.data.admin.ch/eli/fga/2012/191)).
-[^35-5]: Introdotto dal n. II 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^35-1]: Nuovo testo giusta la cifra II n. 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^35-2]: Abrogato dalla cifra II n. 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^35-3]: Nuovo testo giusta la cifra II n. 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^35-4]: Introdotto dalla cifra III della LF del 22 mar. 2013, in vigore dal 1° gen. 2016 ([RU 2015 2259](https://fedlex.data.admin.ch/eli/oc/2015/422); [FF 2012 543](https://fedlex.data.admin.ch/eli/fga/2012/191)).
+[^35-5]: Introdotto dalla cifra II n. 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 ### Capitolo 7: Conto stradale e ricerca nel settore stradale
 
@@ -636,14 +640,14 @@ I contributi generali alle spese delle strade aperte agli autoveicoli sono commi
 
 <sup>2</sup> Il DATEC disciplina la procedura per il promovimento della ricerca nel settore stradale.[^37-1]
 
-[^37-1]: Introdotto dall’all. n. II 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^37-1]: Introdotto dall’all. cifra II n. 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
 ## Titolo 3: Spese connesse al traffico aereo
 
 [^tit3-1][^tit3-2]
 
-[^tit3-1]: Introdotto dal n. I della LF del 18 mar. 2011, in vigore dal 1° ago. 2011 ([RU 2011 3467](https://fedlex.data.admin.ch/eli/oc/2011/469); [FF 2010 5733](https://fedlex.data.admin.ch/eli/fga/2010/1146)).
-[^tit3-2]: Nuovo testo giusta l’all. n. II 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^tit3-1]: Introdotto dalla cifra I della LF del 18 mar. 2011, in vigore dal 1° ago. 2011 ([RU 2011 3467](https://fedlex.data.admin.ch/eli/oc/2011/469); [FF 2010 5733](https://fedlex.data.admin.ch/eli/fga/2010/1146)).
+[^tit3-2]: Nuovo testo giusta l’all. cifra II n. 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
 ### Capitolo 1: Disposizioni generali
 
@@ -668,8 +672,8 @@ Il Consiglio federale definisce:
 
 <sup>3</sup> L’Ufficio federale dell’aviazione civile (UFAC) ripartisce i contributi all’interno dei settori di compiti. Definisce previamente le priorità e consulta le cerchie interessate.
 
-[^37a-1]: Nuovo testo giusta l’all. n. II 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
-[^37a-2]: Nuovo testo giusta l’all. n. 1 della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^37a-1]: Nuovo testo giusta l’all. cifra II n. 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^37a-2]: Nuovo testo giusta l’all. cifra 1 della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 #### Art. 37b
 
@@ -705,7 +709,7 @@ Al fine di limitare gli effetti del traffico aereo sull’ambiente, la Confedera
 - f.[^37d-1] sviluppo di procedure di volo rispettose dell’ambiente, nonché formazione e formazione continua ai fini della loro applicazione;
 - g. provvedimenti di compensazione ecologica negli aerodromi.
 
-[^37d-1]: Nuovo testo giusta l’all. n. 25 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^37d-1]: Nuovo testo giusta l’all. cifra 25 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 
 #### Art. 37e
 
@@ -730,7 +734,7 @@ Al fine di promuovere un elevato livello di sicurezza tecnica nel traffico aereo
 - d. lo sviluppo di sistemi tecnici;
 - e.[^37f-1] la formazione e la formazione continua.
 
-[^37f-1]: Nuovo testo giusta l’all. n. 25 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^37f-1]: Nuovo testo giusta l’all. cifra 25 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 
 ## Titolo 4: Disposizioni finali
 
@@ -746,7 +750,7 @@ Al fine di promuovere un elevato livello di sicurezza tecnica nel traffico aereo
 
 <sup>2</sup> Le spese per l’esecuzione della presente legge sono addebitate ai finanziamenti speciali secondo gli articoli 86 capoverso 3 e 87*b* Cost.[^38-1]
 
-[^38-1]: Introdotto dall’all. n. II 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^38-1]: Introdotto dall’all. cifra II n. 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
 #### Art. 39
 
@@ -759,8 +763,8 @@ Sono abrogati:
 - 3\. il decreto federale del 21 febbraio 1964[^39-3] concernente il sussidiamento della soppressione dei passaggi a livello o dell’adozione di misure di sicurezza.
 
 [^39-1]: [[RU 1960 382](https://fedlex.data.admin.ch/eli/oc/1960/368_396_382), [1962 7](https://fedlex.data.admin.ch/eli/oc/1962/5_7_7)art. 4, [1972 528](https://fedlex.data.admin.ch/eli/oc/1972/596_604_528)[1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249), [1984 1122](https://fedlex.data.admin.ch/eli/oc/1984/1122_1122_1122)art. 66 n. 2]
-[^39-2]: [[RU 1972 584](https://fedlex.data.admin.ch/eli/oc/1972/651_659_584), [1975 1709](https://fedlex.data.admin.ch/eli/oc/1975/1709_1709_1709)[1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)]
-[^39-3]: [[RU 1964 1312](https://fedlex.data.admin.ch/eli/oc/1964/1272_1280_1312)[1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)]
+[^39-2]: [[RU 1972 584](https://fedlex.data.admin.ch/eli/oc/1972/651_659_584), [1975 1709](https://fedlex.data.admin.ch/eli/oc/1975/1709_1709_1709), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)]
+[^39-3]: [[RU 1964 1312](https://fedlex.data.admin.ch/eli/oc/1964/1272_1280_1312), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)]
 
 #### Art. 40
 
@@ -792,7 +796,7 @@ Per i seguenti contributi ai Cantoni, la presente legge si applica retroattivame
 
 Il nuovo diritto si applica a tutti gli impegni di sussidio da contrarre dopo la sua entrata in vigore (garanzia di base, parziale e di continuazione).
 
-[^41a-1]: Introdotto dal n. I 7 della LF del 19 mar. 1999 sul programma di stabilizzazione 1998, in vigore dal 1° set. 1999 ([RU 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363)2385; FF **1999** 3).
+[^41a-1]: Introdotto dalla cifra I n. 7 della LF del 19 mar. 1999 sul programma di stabilizzazione 1998, in vigore dal 1° set. 1999 ([RU 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363)2385; FF **1999** 3).
 
 #### Art. 41b
 
@@ -808,7 +812,7 @@ Il nuovo diritto si applica a tutti gli impegni di sussidio da contrarre dopo la
 
 <sup>5</sup> La Confederazione può partecipare alle spese dei piani sociali dei Cantoni, se tali spese derivano dal cambiamento di competenze nell’ambito delle strade nazionali. I Cantoni possono presentare una domanda in tal senso entro un anno dall’entrata in vigore della modifica del 6 ottobre 2006. Il Consiglio federale fissa la partecipazione.
 
-[^41b-1]: Introdotto dal n. II 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^41b-1]: Introdotto dalla cifra II n. 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^41b-2]: [RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)
 
 #### Art. 41c
@@ -817,7 +821,7 @@ Il nuovo diritto si applica a tutti gli impegni di sussidio da contrarre dopo la
 
 La chiave di ripartizione di cui all’articolo 37*a* capoverso 1 stabilita con la modifica del 16 giugno 2017 si applica con effetto retroattivo dal 1° gennaio 2012 per tutto il periodo in corso al momento dell’entrata in vigore della presente modifica e durante il quale la chiave di ripartizione deve essere rispettata.
 
-[^41c-1]: Introdotto dall’all. n. 1 della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^41c-1]: Introdotto dall’all. cifra 1 della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 #### Art. 42
 

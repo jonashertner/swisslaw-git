@@ -4,20 +4,20 @@ title: Bundesgesetz vom 22. März 1985 über die Verwendung der zweckgebundenen 
 short: MinVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/834_834_834"
 language: de
-version: 2022-01-01
+version: 2025-08-01
 adopted: 1985-03-22
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/834_834_834/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1985-834_834_834-20220101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/834_834_834/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/834_834_834/20250801/de/xml/fedlex-data-admin-ch-eli-cc-1985-834_834_834-20250801-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/834_834_834/20250801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über die Verwendung der zweckgebundenen Mineralölsteuer und weiterer für den Strassen- und Luftverkehr zweckgebundener Mittel
 
-(MinVG)**[^t-1]**
+(MinVG)[^t-1]
 
-vom 22. März 1985 (Stand am 1. Januar 2022)
+vom 22. März 1985 (Stand am 1. August 2025)
 
 [^t-1]: Fassung gemäss Anhang Ziff. II 5 des BG vom 30. Sept. 2016 über den Fonds für die Nationalstrassen und den Agglomerationsverkehr, in Kraft seit 1. Jan. 2018 ([AS 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
@@ -31,7 +31,7 @@ beschliesst:
 [^ingress-2]: Fassung gemäss Anhang Ziff. II 5 des BG vom 30. Sept. 2016 über den Fonds für die Nationalstrassen und den Agglomerationsverkehr, in Kraft seit 1. Jan. 2018 ([AS 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 [^ingress-3]: [BBl 1984 I 986](https://fedlex.data.admin.ch/eli/fga/1984/1_986_993_800)
 
-## 1. Titel:**** Allgemeine Bestimmungen
+## 1. Titel: Allgemeine Bestimmungen
 
 [^tit1-1]
 
@@ -75,13 +75,13 @@ Der Bundesrat erstattet der Bundesversammlung jeweils mit dem Voranschlag und de
 
 [^2-1]: Fassung gemäss Anhang Ziff. II 5 des BG vom 30. Sept. 2016 über den Fonds für die Nationalstrassen und den Agglomerationsverkehr, in Kraft seit 1. Jan. 2018 ([AS 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
-## 2. Titel: Aufgaben und Aufwendungen im Zusammenhang mit dem Strassenverkehr****
+## 2. Titel: Aufgaben und Aufwendungen im Zusammenhang mit dem Strassenverkehr
 
 [^tit2-1]
 
 [^tit2-1]: Eingefügt durch Ziff. I des BG vom 18. März 2011, in Kraft seit 1. Aug. 2011 ([AS 2011 3467](https://fedlex.data.admin.ch/eli/oc/2011/469); [BBl 2010 6523](https://fedlex.data.admin.ch/eli/fga/2010/1146)). Fassung gemäss Anhang Ziff. II 5 des BG vom 30. Sept. 2016 über den Fonds für die Nationalstrassen und den Agglomerationsverkehr, in Kraft seit 1. Jan. 2018 ([AS 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
-### 1. Kapitel: Allgemeine Bestimmungen****
+### 1. Kapitel: Allgemeine Bestimmungen
 
 [^tit2-chap1-1]
 
@@ -135,7 +135,7 @@ Die Mittel nach Absatz 1 werden wie folgt erbracht:
 
 [^6-1]: Fassung gemäss Ziff. I des BG vom 18. März 2011, in Kraft seit 1. Aug. 2011 ([AS 2011 3467](https://fedlex.data.admin.ch/eli/oc/2011/469); [BBl 2010 6523](https://fedlex.data.admin.ch/eli/fga/2010/1146)).
 
-### 2. Kapitel:**** Finanzierung der Nationalstrassen
+### 2. Kapitel: Finanzierung der Nationalstrassen
 
 [^tit2-chap2-1]
 
@@ -277,7 +277,7 @@ Der Bund übernimmt für die Fertigstellung des beschlossenen Nationalstrassenne
 
 [^11-1]: Gemäss BB vom 21. Juni 1960 über das Nationalstrassennetz, in den letzten, massgebenden Fassungen ([AS 1960 872](https://fedlex.data.admin.ch/eli/oc/1960/872_912_900); [1984 1118](https://fedlex.data.admin.ch/eli/oc/1984/1118_1118_1118); [1986 35](https://fedlex.data.admin.ch/eli/oc/1986/35_35_35), [2515](https://fedlex.data.admin.ch/eli/oc/1986/2515_2515_2515); [1987 52](https://fedlex.data.admin.ch/eli/oc/1987/52_52_52); [1988 562](https://fedlex.data.admin.ch/eli/oc/1988/562_562_562); [2001 3090](https://fedlex.data.admin.ch/eli/oc/2001/464)) und Art. 197 Ziff. 3 der BV ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
 
-### 3. Kapitel: Beiträge an die Kosten der Hauptstrassen****
+### 3. Kapitel: Beiträge an die Kosten der Hauptstrassen
 
 [^tit2-chap3-1]
 
@@ -360,7 +360,7 @@ Die Kantone bauen, unterhalten und betreiben die Hauptstrassen. Die Kantone verw
 
 [^17-1]: Fassung gemäss Ziff. II 17 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
-### 4. Kapitel:**** Beiträge an Verkehrsinfrastrukturen in Städten und Agglomerationen
+### 4. Kapitel: Beiträge an Verkehrsinfrastrukturen in Städten und Agglomerationen
 
 [^tit2-chap4-1]
 
@@ -447,7 +447,7 @@ Die im Voranschlag eingestellten Beiträge an Massnahmen zur Verbesserung der Ve
 
 ### 5. Kapitel: Übrige werkgebundene Beiträge
 
-### 1. Abschnitt: Beiträge an Anschlussgleise sowie zur Förderung des kombinierten Verkehrs und des Transports begleiteter Motorfahrzeuge****
+### 1. Abschnitt: Beiträge an Anschlussgleise sowie zur Förderung des kombinierten Verkehrs und des Transports begleiteter Motorfahrzeuge
 
 [^tit2-chap5-sec1-1]
 
@@ -474,7 +474,7 @@ Die im Voranschlag eingestellten Beiträge an Massnahmen zur Verbesserung der Ve
 
 [^1920-1]: Aufgehoben durch Ziff. II 17 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), mit Wirkung seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
-### 2. Abschnitt: ...
+### 2. Abschnitt: …
 
 #### Art. 21 und 22
 
@@ -482,7 +482,7 @@ Die im Voranschlag eingestellten Beiträge an Massnahmen zur Verbesserung der Ve
 
 [^2122-1]: Aufgehoben durch Anhang Ziff. II 1 des Gütertransportgesetzes vom 25. Sept. 2015, mit Wirkung seit 1. Juli 2016 ([AS 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328); [BBl 2014 3827](https://fedlex.data.admin.ch/eli/fga/2014/923)).
 
-### 3. Abschnitt: ...
+### 3. Abschnitt: …
 
 #### Art. 23 und 24
 
@@ -563,9 +563,13 @@ Beim Bau und Ausbau der Nationalstrassen und bei der Fertigstellung des beschlos
 
 **Höhe der Beiträge**
 
-<sup>1</sup> Die Beiträge des Bundes bemessen sich nach den Bestimmungen der Bundesgesetzgebung betreffend die eidgenössische Oberaufsicht über die Forstpolizei und der Bundesgesetzgebung über die Wasserbaupolizei.
+<sup>1</sup> Die Beiträge des Bundes bemessen sich nach den Bestimmungen des Waldgesetzes vom 4. Oktober 1991[^32-1] und des Wasserbaugesetzes vom 21. Juni 1991[^32-2].[^32-3]
 
 <sup>2</sup> Der Bundesrat teilt nach Anhören der Kantone die Mittel für die Beiträge nach der sachlichen und zeitlichen Dringlichkeit zu.
+
+[^32-1]: [SR 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
+[^32-2]: [SR 721.100](https://fedlex.data.admin.ch/eli/cc/1993/234_234_234)
+[^32-3]: Fassung gemäss Anhang Ziff. 3 des BG vom 15. März 2024, in Kraft seit 1. Aug. 2025 ([AS 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [BBl 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 #### Art. 33
 
@@ -588,7 +592,7 @@ Die allgemeinen Beiträge an die Kosten der dem Motorfahrzeugverkehr geöffneten
 
 - a.[^34-3] der Länge der dem Motorfahrzeugverkehr geöffneten Strassen ohne Nationalstrassen;
 - b. den Strassenlasten der Kantone;
-- [tab] c. und d. ...[^34-4]
+- [tab] c. und d. …[^34-4]
 
 <sup>2</sup> In Härtefällen können finanz- oder bevölkerungsschwachen Kantonen, die durch die Erstellung, die Erneuerung, den baulichen und den betrieblichen Unterhalt von Strassen sowie die polizeiliche Verkehrsüberwachung und Verkehrsregelung besonders belastet werden, zusätzliche Beiträge gewährt werden.[^34-5]
 
@@ -608,7 +612,7 @@ Die allgemeinen Beiträge an die Kosten der dem Motorfahrzeugverkehr geöffneten
 
 **Beiträge an Kantone ohne Nationalstrassen[^35-1]**
 
-<sup>1</sup> ...[^35-2]
+<sup>1</sup> …[^35-2]
 
 <sup>2</sup> Die Kantone, durch deren Gebiet keine Nationalstrassen führen, erhalten jährliche Ausgleichsbeiträge. Diese bemessen sich nach der Länge der dem Motorfahrzeugverkehr geöffneten Strassen und den Strassenlasten dieser Kantone.[^35-3]
 
@@ -644,7 +648,7 @@ Die allgemeinen Beiträge an die Kosten der dem Motorfahrzeugverkehr geöffneten
 
 [^37-1]: Eingefügt durch Anhang Ziff. II 5 des BG vom 30. Sept. 2016 über den Fonds für die Nationalstrassen und den Agglomerationsverkehr, in Kraft seit 1. Jan. 2018 ([AS 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
-## 3. Titel:**** Aufwendungen im Zusammenhang mit dem Luftverkehr****
+## 3. Titel: Aufwendungen im Zusammenhang mit dem Luftverkehr
 
 [^tit3-1][^tit3-2]
 
@@ -736,7 +740,7 @@ Der Bund kann zur Förderung eines hohen technischen Sicherheitsniveaus im Luftv
 - d. die Entwicklung technischer Systeme;
 - e. die Aus- und Weiterbildung.
 
-## 4. Titel: Schlussbestimmungen****
+## 4. Titel: Schlussbestimmungen
 
 [^tit4-1]
 
@@ -770,7 +774,7 @@ Es werden aufgehoben:
 
 **Änderung bisherigen Rechts**
 
-...[^40-1]
+…[^40-1]
 
 [^40-1]: Die Änderung kann unter [AS 1985 834](https://fedlex.data.admin.ch/eli/oc/1985/834_834_834)konsultiert werden.
 
