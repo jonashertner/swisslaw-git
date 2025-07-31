@@ -4,13 +4,12 @@ number: "415.0.11"
 title: "Reglement für das Lehrpersonal, das der Direktion für Bildung und kulturelle Angelegenheiten untersteht"
 short: LPR
 language: de
-version: 2022-02-01
-valid_until: 2025-07-31
-version_adopted: 2022-03-04
+version: 2025-08-01
+version_adopted: 2025-06-17
 adopted: 2016-03-14
 in_force: 2016-03-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/415.0.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7301/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8549/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Lehrpersonal – R
 
 (LPR)
 
-vom 14.03.2016 (Fassung in Kraft getreten am 01.02.2022)
+vom 14.03.2016 (Fassung in Kraft getreten am 01.08.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -49,7 +48,7 @@ beschliesst:
 
 <sup>1</sup> Das vorliegende Reglement gilt für das Lehrpersonal, das der Direktion für Bildung und kulturelle Angelegenheiten (die Direktion) und der Gesetzgebung über das Staatspersonal untersteht.
 
-<sup>2</sup> Die Mitglieder des Lehrkörpers der Universität und der Pädagogischen Hochschule sind diesem Reglement nicht unterstellt.
+<sup>2</sup> Die Mitglieder des Lehrkörpers der Universität Freiburg sind diesem Reglement nicht unterstellt.
 
 #### Art. 3
 
@@ -72,9 +71,11 @@ beschliesst:
 
 **Befugnisse der Dienstchefinnen und Dienstchefs und Kompetenzübertragung**
 
-<sup>1</sup> Die Befugnisse, die nach den Artikeln 67 Abs. 1 und 2, 68 Abs. 1 Bst. a, 70 Abs. 1 Bst. a für Urlaube bis zu einem Tag, 79 Abs. 2 und 123 Abs. 2 StPR den Dienstchefinnen und Dienstchefs zustehen, werden von der Schulleitung ausgeübt.
+<sup>1</sup> Die Befugnisse, die nach den Artikeln 67 Abs. 1 und 2, 68 Abs. 1 Bst. a, 70 Abs. 1 Bst. a für Urlaube bis zu einem Tag, 79 Abs. 2 und 123 Abs. 2 StPR[^5-1] den Dienstchefinnen und Dienstchefs zustehen, werden von der Schulleitung ausgeübt.
 
 <sup>2</sup> Die übrigen Befugnisse der Dienstchefinnen und Dienstchefs nach dem Reglement über das Staatspersonal werden je nach Unterrichtsstufe von den zuständigen Dienstchefinnen und Dienstchefs der Direktion ausgeübt.
+
+[^5-1]: SGF [122.70.11](https://bdlf.fr.ch/data/122.70.11/de)
 
 ## 2 Anstellungsverfahren
 
@@ -346,7 +347,7 @@ beschliesst:
 <sup>1</sup> Weiterbildung umfasst die folgenden Formen:
 
 - a) einen verbindlichen Teil, der in der Regel in Kursform von der Direktion, von einer von ihr beauftragten Institution oder von der Schulleitung organisiert wird; er ist unabhängig vom Beschäftigungsgrad für alle Lehrpersonen verpflichtend;
-- b) einen freiwilligen Teil, der individuell aus dem Kursangebot der Weiterbildungsstelle der Pädagogischen Hochschule Freiburg oder einer anderen von der Direktion anerkannten Weiterbildungsinstitution gewählt wird;
+- b) einen freiwilligen Teil, der individuell aus dem Kursangebot der Weiterbildungsstelle der Universität Freiburg oder einer anderen von der Direktion anerkannten Weiterbildungsinstitution gewählt wird;
 - c) einen von der Lehrperson selbst gestalteten Teil.
 
 <sup>2</sup> Den Lehrpersonen kann der Besuch einer Weiterbildung während der Unterrichtszeit erlaubt werden. Entsprechende Gesuche sind zwei Monate im Voraus an das zuständige Unterrichtsamt zu richten.
@@ -416,7 +417,9 @@ beschliesst:
 
 <sup>2</sup> Während der ersten und/oder der letzten Woche der unterrichtsfreien Zeit im Sommer können Lehrpersonen zu Weiterbildungskursen und zu Veranstaltungen, die von der Direktion oder von der Schulleitung organisiert werden, aufgeboten werden.
 
-<sup>3</sup> Artikel 62 StPR ist nicht anwendbar.
+<sup>3</sup> Artikel 62 StPR[^37-1] ist nicht anwendbar.
+
+[^37-1]: SGF [122.70.11](https://bdlf.fr.ch/data/122.70.11/de)
 
 #### Art. 38
 
@@ -478,7 +481,9 @@ beschliesst:
 
 <sup>1</sup> Als Dienstfahrt gilt die von der Schulleitung angeordnete Fahrt der Lehrperson zu einem anderen Arbeitsort als dem Unterrichtsort. Ausgenommen davon sind die Fahrten innerhalb desselben Primarschulkreises.
 
-<sup>2</sup> Die Dienstfahrt gibt Anspruch auf Fahrkostenvergütung gemäss den Artikeln 122–127 StPR.
+<sup>2</sup> Die Dienstfahrt gibt Anspruch auf Fahrkostenvergütung gemäss den Artikeln 122–127 StPR[^44-1].
+
+[^44-1]: SGF [122.70.11](https://bdlf.fr.ch/data/122.70.11/de)
 
 #### Art. 45
 
@@ -501,7 +506,9 @@ beschliesst:
 
 **Höhe der Entschädigung**
 
-<sup>1</sup> Die Vergütung der Fahrkosten wird nach der Tabelle in Anhang II StPR berechnet.
+<sup>1</sup> Die Vergütung der Fahrkosten wird nach der Tabelle in Anhang II StPR[^47-1] berechnet.
+
+[^47-1]: SGF [122.70.11](https://bdlf.fr.ch/data/122.70.11/de)
 
 ## 7 Anerkennung einer früheren Tätigkeit bei der Besoldungseinstufung
 

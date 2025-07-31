@@ -4,13 +4,12 @@ number: "415.0.11"
 title: Règlement relatif au personnel enseignant de la Direction de la formation et des affaires culturelles
 short: RPEns
 language: fr
-version: 2022-02-01
-valid_until: 2025-07-31
-version_adopted: 2022-03-04
+version: 2025-08-01
+version_adopted: 2025-06-17
 adopted: 2016-03-14
 in_force: 2016-03-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/415.0.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7301/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8549/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Personnel enseignant – R
 
 (RPEns)
 
-du 14.03.2016 (version entrée en vigueur le 01.02.2022)
+du 14.03.2016 (version entrée en vigueur le 01.08.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -49,7 +48,7 @@ Arrête:
 
 <sup>1</sup> Ce règlement s'applique au personnel enseignant dépendant de la Direction de la formation et des affaires culturelles (ci-après: la Direction) et qui est soumis à la législation sur le personnel de l'Etat.
 
-<sup>2</sup> Les membres du corps professoral de l'Université et de la Haute Ecole pédagogique ne sont pas soumis à ce règlement.
+<sup>2</sup> Les membres du corps professoral de l'Université de Fribourg ne sont pas soumis à ce règlement.
 
 #### Art. 3
 
@@ -72,9 +71,11 @@ Arrête:
 
 **Attributions des chef-fe-s de service et délégation de compétences**
 
-<sup>1</sup> Les attributions dévolues aux chef-fe-s de service par les articles 67 al. 1 et 2, 68 al. 1 let. a, 70 al. 1 let. a pour les congés jusqu'à un jour, 79 al. 2 et 123 al. 2 RPers sont exercées par la direction de l'établissement scolaire (ci-après: la direction d'établissement).
+<sup>1</sup> Les attributions dévolues aux chef-fe-s de service par les articles 67 al. 1 et 2, 68 al. 1 let. a, 70 al. 1 let. a pour les congés jusqu'à un jour, 79 al. 2 et 123 al. 2 RPers[^5-1] sont exercées par la direction de l'établissement scolaire (ci-après: la direction d'établissement).
 
 <sup>2</sup> Les autres attributions dévolues aux chef-fe-s de service par le règlement sur le personnel de l'Etat sont exercées par le ou la chef-fe de service concerné-e de la Direction, selon le degré d'enseignement.
+
+[^5-1]: RSF [122.70.11](https://bdlf.fr.ch/data/122.70.11/fr)
 
 ## 2 Procédure d'engagement
 
@@ -346,7 +347,7 @@ Arrête:
 <sup>1</sup> La formation continue prend les formes suivantes:
 
 - a) une partie obligatoire, en principe collective, organisée par la Direction ou une institution mandatée par elle, ou par la direction d'établissement; le corps enseignant y est astreint, quel que soit le taux d'activité;
-- b) une partie facultative, choisie individuellement parmi les cours proposés par le service de la formation continue de la Haute Ecole pédagogique Fribourg ou une autre institution de formation agréée par la Direction;
+- b) une partie facultative, choisie individuellement parmi les cours proposés par le service de la formation continue de l'Université de Fribourg ou une autre institution de formation agréée par la Direction;
 - c) une partie librement gérée par l'enseignant ou l'enseignante.
 
 <sup>2</sup> Les enseignants et enseignantes peuvent être autorisés à suivre une formation pendant le temps de classe. Une demande doit être adressée au moins deux mois avant le début de la formation au service d'enseignement concerné.
@@ -416,7 +417,9 @@ Arrête:
 
 <sup>2</sup> Durant la première et/ou la dernière semaine de non-classe de l'été, les enseignants et enseignantes peuvent être astreints à participer à des cours de formation continue ou à des réunions organisés par la Direction ou la direction d'établissement.
 
-<sup>3</sup> L'article 62 RPers n'est pas applicable.
+<sup>3</sup> L'article 62 RPers[^37-1] n'est pas applicable.
+
+[^37-1]: RSF [122.70.11](https://bdlf.fr.ch/data/122.70.11/fr)
 
 #### Art. 38
 
@@ -478,7 +481,9 @@ Arrête:
 
 <sup>1</sup> Le déplacement de service est le déplacement effectué par le personnel enseignant, sur ordre de la direction d'établissement, pour se rendre à un lieu de travail autre que les lieux où il enseigne. Sont exceptés les déplacements au sein d'un même cercle scolaire primaire.
 
-<sup>2</sup> Le déplacement de service donne droit à l'indemnité de transport conformément aux articles 122 à 127 RPers.
+<sup>2</sup> Le déplacement de service donne droit à l'indemnité de transport conformément aux articles 122 à 127 RPers[^44-1].
+
+[^44-1]: RSF [122.70.11](https://bdlf.fr.ch/data/122.70.11/fr)
 
 #### Art. 45
 
@@ -501,7 +506,9 @@ Arrête:
 
 **Montant de l'indemnité**
 
-<sup>1</sup> L'indemnité de transport est calculée selon le barème figurant dans l'annexe II RPers.
+<sup>1</sup> L'indemnité de transport est calculée selon le barème figurant dans l'annexe II RPers[^47-1].
+
+[^47-1]: RSF [122.70.11](https://bdlf.fr.ch/data/122.70.11/fr)
 
 ## 7 Prise en compte d'une activité antérieure lors de la fixation du traitement
 
