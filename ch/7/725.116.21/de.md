@@ -4,20 +4,20 @@ title: Verordnung vom 7. November 2007 über die Verwendung der zweckgebundenen 
 short: MinVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/797"
 language: de
-version: 2021-10-01
+version: 2025-08-01
 adopted: 2007-11-07
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/797/20211001/de/xml/fedlex-data-admin-ch-eli-cc-2007-797-20211001-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/797/20211001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/797/20250801/de/xml/fedlex-data-admin-ch-eli-cc-2007-797-20250801-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/797/20250801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung über die Verwendung der zweckgebundenen Mineralölsteuer und weiterer für den Strassenverkehr zweckgebundener Mittel ****
+# Verordnung über die Verwendung der zweckgebundenen Mineralölsteuer und weiterer für den Strassenverkehr zweckgebundener Mittel
 
 (MinVV)[^t-1]
 
-vom 7. November 2007 (Stand am 1. Oktober 2021)
+vom 7. November 2007 (Stand am 1. August 2025)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
 
@@ -27,8 +27,8 @@ gestützt auf die Artikel 48, 49*a* Absatz 3, 60 und 62*a* Absatz 3 des Bundesge
 
 verordnet:
 
-[^ingress-1]: [SR 725.11](https://fedlex.data.admin.ch/eli/cc/1960/525_569_555)
-[^ingress-2]: [SR 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
+[^ingress-1]: [SR 725.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8453)
+[^ingress-2]: [SR 725.116.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8462)
 [^ingress-3]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
 
 ## 1. Kapitel: Gegenstand
@@ -65,7 +65,7 @@ Im Ausführungsprojekt wird festgelegt, welche Aufwendungen ganz oder teilweise 
 Die Aufwendungen für die Erfüllung von Aufgaben zum Schutz von Interessen nach Artikel 3 Absatz 1 des Bundesgesetzes vom 1. Juli 1966[^3-2] über den Natur- und Heimatschutz gelten als Bau- und Ausbaukosten.
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 22. Aug. 2012, in Kraft seit 1. Okt. 2012 ([AS 2012 4605](https://fedlex.data.admin.ch/eli/oc/2012/558)).
-[^3-2]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^3-2]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 #### Art. 4
 
@@ -116,7 +116,7 @@ Eine allfällige Beteiligung des Bundes an den anrechenbaren Kosten richtet sich
 - b. in den übrigen Fällen: nach dem Nutzen der Anlage für die Nationalstrasse.
 
 [^4a-1]: Eingefügt durch Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
-[^4a-2]: [SR 725.13](https://fedlex.data.admin.ch/eli/cc/2017/761)
+[^4a-2]: [SR 725.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8474)
 
 #### Art. 5
 
@@ -155,7 +155,7 @@ Als Unterhaltskosten gelten die Aufwendungen für:
 
 <sup>4</sup> Bei Anlagen nach Absatz 1 Buchstabe b und 3 beteiligt sich der Bund nur an den Kosten, wenn vor der Planung und Durchführung von Unterhaltsarbeiten durch Dritte die Genehmigung des ASTRA eingeholt wurde.
 
-[^8-1]: [SR 725.111](https://fedlex.data.admin.ch/eli/cc/2007/796)
+[^8-1]: [SR 725.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8454)
 [^8-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
 
 ### 3. Abschnitt: Betrieb
@@ -175,7 +175,7 @@ Als Kosten des betrieblichen und des projektfreien baulichen Unterhalts gelten d
 
 <sup>3</sup> Bei gemeinsam mit Dritten genutzten Anlagen setzt das ASTRA die Beteiligung des Bundes an den Kosten nach Massgabe des Interesses der Nationalstrasse fest.
 
-[^9-1]: [SR 725.111](https://fedlex.data.admin.ch/eli/cc/2007/796)
+[^9-1]: [SR 725.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8454)
 
 #### Art. 10
 
@@ -185,7 +185,7 @@ Als Kosten des betrieblichen und des projektfreien baulichen Unterhalts gelten d
 
 <sup>2</sup> Das ASTRA kann mit den Kantonen Leistungsvereinbarungen abschliessen. In der Leistungsvereinbarung können für die vereinbarten Messungen Pauschalen festgelegt werden.
 
-[^10-1]: [SR 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^10-1]: [SR 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
 
 #### Art. 11
 
@@ -213,9 +213,11 @@ Als Kosten des betrieblichen und des projektfreien baulichen Unterhalts gelten d
 
 <sup>2</sup> Das kantonale Finanzkontrollorgan wacht insbesondere darüber, dass die Pflicht zur wirtschaftlichen Verwendung der zur Verfügung stehenden Mittel von allen Vollzugsorganen eingehalten wird.
 
-<sup>3</sup> Die Revisionsberichte der kantonalen Finanzkontrollorgane sind dem ASTRA und der Eidgenössischen Finanzkontrolle auf Verlangen zur Verfügung zu stellen.
+<sup>3</sup> Die Revisionsberichte der kantonalen Finanzkontrollorgane sind dem ASTRA und der Eidgenössischen Finanzkontrolle (EFK) auf Verlangen zur Verfügung zu stellen.[^13-1]
 
 <sup>4</sup> Die unmittelbaren Aufwendungen für die Revisionstätigkeit der kantonalen Angestellten oder Beauftragten können im Ausmass der dafür aufgewendeten Arbeitszeit in die Kostenabrechnung der Nationalstrassen einbezogen werden.
+
+[^13-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
 
 #### Art. 14
 
@@ -229,11 +231,13 @@ Als Kosten des betrieblichen und des projektfreien baulichen Unterhalts gelten d
 
 #### Art. 15
 
-**Befugnisse der Eidgenössischen Finanzkontrolle**
+**Befugnisse der Eidgenössischen Finanzkontrolle**[^15-1]
 
-Die Eidgenössische Finanzkontrolle ist Oberrevisionsbehörde im Rahmen der ihr zustehenden Befugnisse. Sie hat insbesondere das Recht, Inspektionen vorzunehmen.
+Die EFK ist Oberrevisionsbehörde im Rahmen der ihr zustehenden Befugnisse. Sie hat insbesondere das Recht, Inspektionen vorzunehmen.
 
-### 5. Abschnitt:**** Beiträge der Kantone zur Kompensation der Mehraufwendungen für neu ins Nationalstrassennetz aufgenommene Strecken
+[^15-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
+
+### 5. Abschnitt: Beiträge der Kantone zur Kompensation der Mehraufwendungen für neu ins Nationalstrassennetz aufgenommene Strecken
 
 [^chap2-sec5-1]
 
@@ -273,7 +277,7 @@ Die Kantone mit Hauptstrassen in Berggebieten und Randregionen, die Pauschalbeit
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
 
-## 4. Kapitel: Verkehrsinfrastrukturen in Städten und Agglomerationen****
+## 4. Kapitel: Verkehrsinfrastrukturen in Städten und Agglomerationen
 
 [^chap4-1]
 
@@ -285,7 +289,7 @@ Die Kantone mit Hauptstrassen in Berggebieten und Randregionen, die Pauschalbeit
 
 <sup>1</sup> Die Verkehrsinfrastrukturen, die zu einem effizienteren und nachhaltigeren Gesamtverkehrssystem in Städten und Agglomerationen führen (Art. 17*a* MinVG), werden im Rahmen eines Entwicklungsprogramms (Programm Agglomerationsverkehr) unterstützt.
 
-<sup>2</sup> Der Nachweis, dass die Voraussetzungen nach Artikel 17*c* MinVG erfüllt sind, ist mit einem Agglomerationsprogramm zu erbringen.
+<sup>2</sup> Der Nachweis, dass die Voraussetzungen nach Artikel 17*c* MinVG erfüllt sind, ist mit einem Agglomerationsprogramm zu erbringen. Darin können geografische oder thematische Schwerpunkte gesetzt werden, soweit kein prioritärer Handlungsbedarf für andere Räume beziehungsweise Themen in der jeweiligen beitragsberechtigten Stadt oder Agglomeration besteht.[^18a-2]
 
 <sup>3</sup>
 
@@ -296,6 +300,7 @@ Das UVEK legt die Anforderungen an die Agglomerationsprogramme fest und regelt i
 - c. die Rechte und Mitwirkungspflichten der Trägerschaften.
 
 [^18a-1]: Eingefügt durch Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^18a-2]: Fassung gemäss Ziff. I der V vom 20. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
 
 #### Art. 19
 
@@ -319,9 +324,9 @@ Das UVEK legt die Anforderungen an die Agglomerationsprogramme fest und regelt i
 
 **Gesuche**[^20-1]
 
-Die Gesuche um Beiträge an Verkehrsinfrastrukturen in Städten und Agglomerationen sind im Rahmen des Agglomerationsprogramms dem Bundesamt für Raumentwicklung einzureichen.
+Die Gesuche um Beiträge an Verkehrsinfrastrukturen in Städten und Agglomerationen sind im Rahmen des Agglomerationsprogramms dem Bundesamt für Raumentwicklung (ARE) einzureichen.
 
-[^20-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^20-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
 
 #### Art. 21
 
@@ -334,7 +339,7 @@ Für die Berechnung der Bundesbeiträge sind folgende Kosten anrechenbar:
 - a. die Kosten der Projektierung, der Bauleitung und der Aufsicht;
 - b. die Kosten des Landerwerbs mit den dem Projekt anzulastenden Aufwendungen für Landumlegungen;
 - c. die Kosten der Bauausführung sowie der erforderlichen Anpassungsarbeiten;
-- d. die Kosten für Umwelt- und Landschaftsschutzmassnahmen sowie für Schutzmassnahmen gegen Naturgewalten.
+- d.[^21-1] die Kosten für Umwelt-, Klima- und Landschaftsschutzmassnahmen sowie für Schutzmassnahmen gegen Naturgewalten.
 
 <sup>2</sup>
 
@@ -344,34 +349,70 @@ Nicht anrechenbar sind:
 - b. Entschädigungen an Behörden und Kommissionen;
 - c. die Kosten der Beschaffung und die Verzinsung von Baukrediten.
 
+[^21-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
+
 #### Art. 21a
 
 **Pauschale Bundesbeiträge**[^21a-1]
 
 <sup>1</sup>
 
-In den folgenden Massnahmenkategorien werden für Massnahmen mit Investitionskosten bis zu einer bestimmten Höhe die Bundesbeiträge pauschal ausgerichtet:
+Für Agglomerationsprogramme der dritten, vierten und fünften Generation werden in den folgenden Massnahmenkategorien die Bundesbeiträge für Massnahmen mit Investitionskosten bis zu einer bestimmten Höhe pauschal ausgerichtet:[^21a-2]
 
-- a. Langsamverkehr;
+- a.[^21a-3] Langsamverkehr (Fuss- und Veloverkehr);
 - b. Aufwertung und Sicherheit des Strassenraums;
-- c. Verkehrssystemmanagement;
+- c.[^21a-4] Verkehrsmanagement;
 - d. Aufwertung von Tram- und Bushaltestellen.
 
-<sup>2</sup> Das UVEK regelt im Einvernehmen mit dem Eidgenössischen Finanzdepartement die Höhe der Investitionskosten, bis zu der die Bundesbeiträge pauschal ausgerichtet werden.
+<sup>2</sup> Das UVEK regelt im Einvernehmen mit dem Eidgenössischen Finanzdepartement (EFD) die Höhe der Investitionskosten, bis zu der die Bundesbeiträge pauschal ausgerichtet werden.[^21a-5]
 
 <sup>3</sup> Es regelt die Berechnung der pauschalen Bundesbeiträge oder legt Ansätze fest. Die Berechnung und die Festlegung beruhen auf der Qualität der Konzeption der Massnahmen und auf standardisierten Kosten pro Leistungseinheit.
 
 <sup>4</sup> In begründeten Fällen kann das UVEK auf die Pauschalisierung verzichten und den Bundesbeitrag nach Artikel 21 berechnen.
 
 [^21a-1]: Eingefügt durch Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^21a-2]: Fassung gemäss Ziff. I der V vom 20. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
+[^21a-3]: Fassung gemäss Ziff. I der V vom 20. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
+[^21a-4]: Fassung gemäss Ziff. I der V vom 20. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
+[^21a-5]: Fassung gemäss Ziff. I der V vom 20. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
+
+#### Art. 21b
+
+**Bundesbeiträge für Pakete von Kleinmassnahmen**[^21b-1]
+
+<sup>1</sup>
+
+Für Agglomerationsprogramme ab der sechsten Generation werden in den folgenden Massnahmenkategorien die Bundesbeiträge für Pakete von Massnahmen, deren anrechenbare Kosten eine bestimmte Höhe nicht übersteigen (Kleinmassnahmen), ausgerichtet:
+
+- a. Fuss- und Veloverkehr;
+- b. Aufwertung und Sicherheit des Strassenraums;
+- c. Verkehrsmanagement;
+- d. Aufwertung von Tram- und Bushaltestellen;
+- e. Neubau von Tram- und Bushaltestellen.
+
+<sup>2</sup> Das UVEK legt im Einvernehmen mit dem EFD die Höhe der anrechenbaren Kosten fest, bis zu der eine Massnahme als Kleinmassnahme gilt.
+
+<sup>3</sup> In begründeten Fällen kann das UVEK eine Massnahme, die mit einem Paket von Kleinmassnahmen in einem Agglomerationsprogramm eingereicht wurde, nach Artikel 21 behandeln.
+
+<sup>4</sup> Die Trägerschaft kann eine Kleinmassnahme durch eine andere Kleinmassnahme der gleichen Massnahmenkategorie ersetzen, soweit die neue Massnahme der vom Bund geprüften Konzeption entspricht. Der jeweilige Kanton stellt dabei die rechtmässige Verwendung der Bundesbeiträge sicher.
+
+[^21b-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
 
 #### Art. 22
 
-**Höhe der Beteiligung**[^22-1]
+**Höhe der Bundesbeiträge**[^22-1]
 
-Die Beteiligung des Bundes an den Agglomerationsprogrammen beträgt, abhängig von deren Gesamtwirkung, 30–50 Prozent der Summe der nachgewiesenen anrechenbaren Kosten nach Artikel 21 und des vom Bund festgelegten Gesamtbetrags für die Massnahmen nach Artikel 21*a*, überschreitet jedoch nicht den von der Bundesversammlung festgelegten Höchstbeitrag.
+Die Beteiligung des Bundes an einem Agglomerationsprogramm ist auf den von der Bundesversammlung bewilligten Höchstbetrag begrenzt; sie beläuft sich, abhängig von der Gesamtwirkung des Agglomerationsprogramms, auf 30–50 Prozent der Summe der folgenden Beträge:
 
-[^22-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+- a. Beträge der nachgewiesenen anrechenbaren Kosten nach Artikel 21;
+- b.
+
+  Beträge des von der Bundesversammlung bewilligten Verpflichtungskredits für:
+
+  - 1\. Massnahmen nach Artikel 21*a* von Agglomerationsprogrammen der dritten, vierten und fünften Generation,
+  - 2\. Pakete von Kleinmassnahmen nach Artikel 21*b* von Agglomerationsprogrammen ab der sechsten Generation.
+
+[^22-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
 
 #### Art. 23
 
@@ -389,38 +430,56 @@ Die Beteiligung des Bundes an den Agglomerationsprogrammen beträgt, abhängig v
 
 <sup>2</sup> In der Leistungsvereinbarung sind insbesondere zu regeln: umzusetzende Massnahmen und Massnahmenpakete, Zeitplan, Bundesbeitrag, Anforderungen an die Berichterstattung, Zuständigkeiten und Verantwortlichkeiten, Anpassungsmodalitäten, Regelungen bei Nichterfüllung der Vereinbarung sowie Geltungsdauer.
 
-<sup>3</sup> ...[^24-1]
+<sup>3</sup> …[^24-1]
 
-<sup>4</sup> Gestützt auf die Leistungsvereinbarung vereinbart das zuständige Bundesamt mit der Trägerschaft die Auszahlungsmodalitäten für die baureifen Massnahmen in der Finanzierungsvereinbarung. Es kann mit der Trägerschaft vereinbaren, dass diese die Massnahmen realisiert und der Bundesbeitrag später ausgerichtet wird (Vorfinanzierung durch die Trägerschaft). Die Massnahmen mit pauschalem Bundesbeitrag müssen zum Zeitpunkt des Abschlusses der Finanzierungsvereinbarung noch nicht baureif sein.[^24-2]
+<sup>4</sup> Gestützt auf die Leistungsvereinbarung vereinbart das zuständige Bundesamt mit der Trägerschaft die Auszahlungsmodalitäten für die baureifen Massnahmen in der Finanzierungsvereinbarung. Es kann mit der Trägerschaft vereinbaren, dass diese die Massnahmen realisiert und der Bundesbeitrag später ausgerichtet wird (Vorfinanzierung durch die Trägerschaft). Massnahmen mit pauschalem Bundesbeitrag und Kleinmassnahmen müssen zum Zeitpunkt des Abschlusses der Finanzierungsvereinbarung noch nicht baureif sein.[^24-2]
 
-<sup>5</sup> Geht die Zahlung an ein Unternehmen im Sinne des Eisenbahngesetzes vom 20. Dezember 1957[^24-3], so können bedingt rückzahlbare, zinslose Darlehen gewährt werden.
+<sup>4bis</sup> Die letzte Auszahlung der Bundesbeiträge für Pakete von Kleinmassnahmen muss spätestens am 30. November des neunten Jahres nach der Verabschiedung des entsprechenden Bundesbeschlusses zum Programm Agglomerationsverkehr beantragt werden.[^24-3]
 
-<sup>6</sup> ...[^24-4]
+<sup>5</sup> Geht die Zahlung an ein Unternehmen im Sinne des Eisenbahngesetzes vom 20. Dezember 1957[^24-4], so können bedingt rückzahlbare, zinslose Darlehen gewährt werden.
+
+<sup>6</sup> …[^24-5]
 
 [^24-1]: Aufgehoben durch Ziff. I der V vom 22. Nov. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
-[^24-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
-[^24-3]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^24-4]: Aufgehoben durch Ziff. I der V vom 22. Nov. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^24-2]: Fassung gemäss Ziff. I der V vom 20. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
+[^24-3]: Eingefügt durch Ziff. I der V vom 20. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
+[^24-4]: [SR 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^24-5]: Aufgehoben durch Ziff. I der V vom 22. Nov. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
 
 #### Art. 24a
 
-**Vorfinanzierung durch die Trägerschaft**[^24a-1]
+**Verlängerung der Leistungsvereinbarung für Massnahmen von Agglomerationsprogrammen der ersten oder zweiten Generation**[^24a-1]
+
+<sup>1</sup>
+
+Auf Antrag eines Kantons kann das ARE die Geltungsdauer der Leistungsvereinbarung eines Agglomerationsprogramms der ersten oder zweiten Generation für eine Massnahme verlängern, wenn:
+
+- a. diese Massnahme für das entsprechende Agglomerationsprogramm von zentraler Bedeutung ist; und
+- b. die Umsetzung der Massnahme mit der Planung einer Infrastruktur des Bundes koordiniert werden muss, diese Planung verzögert ist und für die Massnahme daher bis Ende 2027 keine Finanzierungsvereinbarung abgeschlossen werden kann.
+
+<sup>2</sup> Eine Massnahme ist von zentraler Bedeutung, wenn sie das Verkehrssystem der gesamten beitragsberechtigten Stadt oder Agglomeration oder bedeutender Teile davon erheblich verbessert.
+
+[^24a-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
+
+#### Art. 24b
+
+**Vorfinanzierung durch die Trägerschaft**[^24b-1]
 
 <sup>1</sup>
 
 Die Vorfinanzierung durch die Trägerschaft kann vereinbart werden, wenn:
 
-- a.[^24a-2] das Agglomerationsprogramm im entsprechenden Bundesbeschluss zum Programm Agglomerationsverkehr die Massnahme enthält;
+- a.[^24b-2] das Agglomerationsprogramm im entsprechenden Bundesbeschluss zum Programm Agglomerationsverkehr die Massnahme enthält;
 - b. die Vorfinanzierung den Bundesbeitrag für eine einzelne Massnahme oder ein Massnahmenpaket betrifft;
 - c. die Massnahme oder das Massnahmenpaket den Grundgedanken des Agglomerationsprogramms und insbesondere die im Agglomerationsprogramm festgehaltene Prioritätensetzung respektiert;
-- d.[^24a-3] die Finanzierungsvereinbarung vorsieht, dass sich der Termin für die Auszahlung des Bundesbeitrags nach den finanziellen Rahmenbedingungen des Fonds für die Nationalstrassen und den Agglomerationsverkehr richtet; und
+- d.[^24b-3] die Finanzierungsvereinbarung vorsieht, dass sich der Termin für die Auszahlung des Bundesbeitrags nach den finanziellen Rahmenbedingungen des Fonds für die Nationalstrassen und den Agglomerationsverkehr richtet; und
 - e. die Finanzierungsvereinbarung vorsieht, dass die Zinsen, die der Trägerschaft durch die Vorfinanzierung entstehen, vom Bund nicht übernommen werden.
 
 <sup>2</sup> Das zuständige Bundesamt bestimmt den Termin für die Ausrichtung des Bundesbeitrags. Der Termin wird in der Finanzierungsvereinbarung festgelegt.
 
-[^24a-1]: Eingefügt durch Ziff. I der V vom 12. Jan. 2011, in Kraft seit 1. März 2011 ([AS 2011 491](https://fedlex.data.admin.ch/eli/oc/2011/68)).
-[^24a-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
-[^24a-3]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^24b-1]: Ursprünglich: Art. 24*a*. Eingefügt durch Ziff. I der V vom 12. Jan. 2011, in Kraft seit 1. März 2011 ([AS 2011 491](https://fedlex.data.admin.ch/eli/oc/2011/68)).
+[^24b-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^24b-3]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
 
 #### Art. 25
 
@@ -492,7 +551,7 @@ Von den Ausgaben werden als Bundesleistungen abgezogen:
 - c. weitere aus dem Mineralölsteueranteil finanzierte werkgebundene Bundesbeiträge für Ausgaben, die in der Strassenrechnung erfasst sind, ausgenommen die Beiträge an Verkehrsinfrastrukturen in Städten und Agglomerationen;
 - d. die Bundesbeiträge für Kantone ohne Nationalstrassen.
 
-[^30-1]: [SR 725.111](https://fedlex.data.admin.ch/eli/cc/2007/796)
+[^30-1]: [SR 725.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8454)
 
 #### Art. 31
 
@@ -521,12 +580,13 @@ Der Anteil für Beiträge an Kantone ohne Nationalstrassen wird wie folgt vertei
 
 <sup>3</sup> Es verwaltet den Fonds für die Nationalstrassen und den Agglomerationsverkehr und bestimmt im Einvernehmen mit der Eidgenössischen Finanzverwaltung den Index, das Verfahren und den Nachweis der Teuerung.[^32-1]
 
-<sup>4</sup> Es erlässt im Einvernehmen mit dem Eidgenössischen Finanzdepartement und der Eidgenössischen Finanzkontrolle die zur Ausführung der Finanzaufsicht erforderlichen Weisungen und sorgt für die Koordination der Kontrolltätigkeit.
+<sup>4</sup> Es erlässt im Einvernehmen mit dem EFD und der EFK die zur Ausführung der Finanzaufsicht erforderlichen Weisungen und sorgt für die Koordination der Kontrolltätigkeit.[^32-2]
 
-<sup>5</sup> Das Bundesamt für Raumentwicklung prüft die Agglomerationsprogramme, bereitet die Leistungsvereinbarungen vor und überprüft periodisch deren Einhaltung.[^32-2]
+<sup>5</sup> Das ARE prüft die Agglomerationsprogramme, bereitet die Leistungsvereinbarungen vor und überprüft periodisch deren Einhaltung.[^32-3]
 
 [^32-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
-[^32-2]: Eingefügt durch Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^32-2]: Fassung gemäss Ziff. I der V vom 20. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
+[^32-3]: Eingefügt durch Ziff. I der V vom 22. Nov. 2017 ([AS 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)). Fassung gemäss Ziff. I der V vom 20. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
 
 #### Art. 33
 
@@ -552,7 +612,7 @@ Bei nicht übertragenen Grundstücken und Bauwerken nach Artikel 56 Absätze 3 u
 
 <sup>7</sup> Die Beteiligung des Bundes an den Sozialplänen der Kantone beträgt 50 Prozent der Kosten der Kantone, maximal jedoch 50 Prozent des Jahresgrundlohnes pro betroffene Person. Bei vorzeitiger Pensionierung beträgt die Beteiligung maximal 50 Prozent des doppelten Jahresgrundlohnes. Für Kosten, welche vor dem 1. Juli 2007 und nach dem 1. Januar 2011 anfallen, entfällt die Beteiligung.
 
-[^33-1]: [SR 725.111](https://fedlex.data.admin.ch/eli/cc/2007/796)
+[^33-1]: [SR 725.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8454)
 
 #### Art. 33a
 
@@ -584,7 +644,7 @@ Folgende Verordnungen werden aufgehoben:
 
 **Änderung bisherigen Rechts**
 
-...[^35-1]
+…[^35-1]
 
 [^35-1]: Die Änd. kann unter [AS 2007 5987](https://fedlex.data.admin.ch/eli/oc/2007/797)konsultiert werden.
 
@@ -629,7 +689,7 @@ Anhang 1
 <tr><td>JU</td><td>95</td><td></td></tr>
 </table>
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 16 und 17)
 
@@ -643,7 +703,7 @@ Legende:
 - H = Hauptstrasse
 - (#) = Landesgrenze/Kantonsgrenze #
 - (N1//H4) = Verzweigung/Anschluss Nationalstrasse//Knoten Hauptstrasse
-- (...) = Streckenunterbruch
+- (…) = Streckenunterbruch
 - g (S/V) = Durchschnittliches Gewicht Verkehrsstärke
 - g (T/H) = Durchschnittliches Gewicht Höhenlage und Bergstrassencharakter
 
@@ -657,8 +717,8 @@ Legende:
 <tr><td></td><td></td><td>Prozentualer Anteil</td><td></td><td></td><td></td><td>2.10</td></tr>
 <tr><td>BE</td><td>1</td><td>Kirchberg (N1)–Langenthal–Aegerten– (AG).</td><td>29,68</td><td>2,22</td><td>4,47</td><td>198,59</td></tr>
 <tr><td></td><td>6</td><td>Unterbach (N8)–Meiringen (H226)–Innertkirchen (H11)–Handegg–Grimselpass–(VS).</td><td>39,01</td><td>2,00</td><td>10,46</td><td>486,11</td></tr>
-<tr><td></td><td>10</td><td>Ins (N20)–Müntschemier–(FR)–(...)–Muri (N6)–Langnau–Trubschachen–(LU)–(...)–(LU)–Kröschenbrunnen–(LU).</td><td>39,78</td><td>2,24</td><td>5,10</td><td>291.91</td></tr>
-<tr><td></td><td>11</td><td>(VD)–Saanen–Zweisimmen–Boltingen (H219)–Reidenbach Wimmis (N6)–(...)–Innertkirchen (H6)–Gadmen–Sustenpass–(UR).</td><td>74,12</td><td>2,04</td><td>10,45</td><td>926,20</td></tr>
+<tr><td></td><td>10</td><td>Ins (N20)–Müntschemier–(FR)–(…)–Muri (N6)–Langnau–Trubschachen–(LU)–(…)–(LU)–Kröschenbrunnen–(LU).</td><td>39,78</td><td>2,24</td><td>5,10</td><td>291.91</td></tr>
+<tr><td></td><td>11</td><td>(VD)–Saanen–Zweisimmen–Boltingen (H219)–Reidenbach Wimmis (N6)–(…)–Innertkirchen (H6)–Gadmen–Sustenpass–(UR).</td><td>74,12</td><td>2,04</td><td>10,45</td><td>926,20</td></tr>
 <tr><td></td><td>219</td><td>Boltigen (H11)–Jaunpass–(FR).</td><td>10,57</td><td>2,00</td><td>12,53</td><td>153,66</td></tr>
 <tr><td></td><td>226</td><td>Brünigpass (N8)–Hausen–Meiringen (H6).</td><td>6,62</td><td>2,00</td><td>7,47</td><td>62,69</td></tr>
 <tr><td></td><td>18</td><td>(NE)–La Cibourg–(JU).</td><td>4,30</td><td>2,03</td><td>8,71</td><td>46,22</td></tr>
@@ -667,20 +727,20 @@ Legende:
 <tr><td></td><td></td><td>Prozentualer Anteil</td><td></td><td></td><td></td><td>10,89</td></tr>
 <tr><td>LU</td><td>2</td><td>Luzern-Kriens (N2)–Luzern-Pilatusplatz (H4)–Meggen–(SZ).</td><td>10,44</td><td>3.07</td><td>4.32</td><td>77,20</td></tr>
 <tr><td></td><td>4</td><td>Luzern-Zentrum (N2)–Luzern-Pilatusplatz (H2).</td><td>0,30</td><td>2,80</td><td>4,00</td><td>2,05</td></tr>
-<tr><td></td><td>10</td><td>(BE)–Dürrenbach–(BE)–(...)–(BE)–Wiggen–Schüpfheim–Wohlhusen–Werthenstein–Malters–Emmen-Süd (N2).</td><td>48,51</td><td>2,26</td><td>5,45</td><td>374,03</td></tr>
+<tr><td></td><td>10</td><td>(BE)–Dürrenbach–(BE)–(…)–(BE)–Wiggen–Schüpfheim–Wohlhusen–Werthenstein–Malters–Emmen-Süd (N2).</td><td>48,51</td><td>2,26</td><td>5,45</td><td>374,03</td></tr>
 <tr><td></td><td>2b</td><td>(SZ)–Greppen–Weggis–Vitznau–(SZ).</td><td>12,19</td><td>2,00</td><td>5,64</td><td>93,04</td></tr>
 <tr><td></td><td></td><td></td><td>71,43</td><td></td><td></td><td>546,32</td></tr>
 <tr><td></td><td></td><td>Prozentualer Anteil</td><td></td><td></td><td></td><td>2,50</td></tr>
 <tr><td>UR</td><td>2</td><td>Flüelen (N4)–Altdorf–Erstfeld (N2).</td><td>8,01</td><td>2,20</td><td>4,71</td><td>55,34</td></tr>
 <tr><td></td><td>11</td><td>(BE)–Färnigen–Wassen (N2).</td><td>18,40</td><td>2,00</td><td>15,69</td><td>325,57</td></tr>
 <tr><td></td><td>17</td><td>(GL)–Klausenpass–Unterschächen–Altdorf (H2).</td><td>36,59</td><td>2,00</td><td>12,51</td><td>530,82</td></tr>
-<tr><td></td><td>19</td><td>(VS)–Realp–Hospental (N2)–(...)–Andermatt-Nord (N2)–(GR).</td><td>29,01</td><td>2,00</td><td>15,65</td><td>511,96</td></tr>
+<tr><td></td><td>19</td><td>(VS)–Realp–Hospental (N2)–(…)–Andermatt-Nord (N2)–(GR).</td><td>29,01</td><td>2,00</td><td>15,65</td><td>511,96</td></tr>
 <tr><td></td><td></td><td></td><td>92,00</td><td></td><td></td><td>1 423,69</td></tr>
 <tr><td></td><td></td><td>Prozentualer Anteil</td><td></td><td></td><td></td><td>6,52</td></tr>
 <tr><td>SZ</td><td>2</td><td>(LU)–Küssnacht–Küssnacht (N4).</td><td>6,25</td><td>2,83</td><td>5,29</td><td>50,76</td></tr>
-<tr><td></td><td>8</td><td>(SG)–Hurden–Pfäffikon (N3)–(...)–Schindellegi (N3)–Biberbrugg–Rothenthurm–Sattel–Chaltbach–Schwyz (N4).</td><td>30,18</td><td>2,98</td><td>7,14</td><td>305,47</td></tr>
+<tr><td></td><td>8</td><td>(SG)–Hurden–Pfäffikon (N3)–(…)–Schindellegi (N3)–Biberbrugg–Rothenthurm–Sattel–Chaltbach–Schwyz (N4).</td><td>30,18</td><td>2,98</td><td>7,14</td><td>305,47</td></tr>
 <tr><td></td><td>388</td><td>(ZH)–Schindellegi (H8).</td><td>2,49</td><td>2,29</td><td>6,12</td><td>20,94</td></tr>
-<tr><td></td><td>2b</td><td>Küssnacht (H2)–(LU)–(...)–(LU)–Gersau–Brunnen-Nord (N4).</td><td>15,20</td><td>2,07</td><td>7,03</td><td>138,36</td></tr>
+<tr><td></td><td>2b</td><td>Küssnacht (H2)–(LU)–(…)–(LU)–Gersau–Brunnen-Nord (N4).</td><td>15,20</td><td>2,07</td><td>7,03</td><td>138,36</td></tr>
 <tr><td></td><td>371</td><td>Goldau (N4)–Steinerberg–Sattel (H8).</td><td>11,47</td><td>2,06</td><td>5,25</td><td>83,84</td></tr>
 <tr><td></td><td></td><td></td><td>65,60</td><td></td><td></td><td>599,37</td></tr>
 <tr><td></td><td></td><td>Prozentualer Anteil</td><td></td><td></td><td></td><td>2,75</td></tr>
@@ -704,7 +764,7 @@ Legende:
 <tr><td></td><td></td><td></td><td>50,71</td><td></td><td></td><td>540,81</td></tr>
 <tr><td></td><td></td><td>Prozentualer Anteil</td><td></td><td></td><td></td><td>2,48</td></tr>
 <tr><td>SO</td><td>2</td><td>Olten (H5)–(AG).</td><td>0,89</td><td>4,98</td><td>4,01</td><td>7,98</td></tr>
-<tr><td></td><td>5</td><td>Egerkingen (N2)–Hägendorf–Olten (H2)–(...)–Olten (H2)–Schönenwerd–Wöschnau–(AG).</td><td>20,52</td><td>3,52</td><td>4,97</td><td>174,30</td></tr>
+<tr><td></td><td>5</td><td>Egerkingen (N2)–Hägendorf–Olten (H2)–(…)–Olten (H2)–Schönenwerd–Wöschnau–(AG).</td><td>20,52</td><td>3,52</td><td>4,97</td><td>174,30</td></tr>
 <tr><td></td><td>5a</td><td>Solothurn-West (N5)–Kreisel Bielstrasse.</td><td>1,69</td><td>5.18</td><td>15,10</td><td>34,33</td></tr>
 <tr><td></td><td></td><td></td><td>23,10</td><td></td><td></td><td>216,61</td></tr>
 <tr><td></td><td></td><td>Prozentualer Anteil</td><td></td><td></td><td></td><td>0,99</td></tr>
@@ -714,7 +774,7 @@ Legende:
 <tr><td>BL</td><td>2</td><td>Sissach (N2)–Umfahrung Sissach.</td><td>2,67</td><td>6.09</td><td>19,38</td><td>68.00</td></tr>
 <tr><td></td><td></td><td></td><td>2.67</td><td></td><td></td><td>68.00</td></tr>
 <tr><td></td><td></td><td>Prozentualer Anteil</td><td></td><td></td><td></td><td>0.31</td></tr>
-<tr><td>SH</td><td>13</td><td>Schaffhausen-Süd (N4)–(ZH)–(...)–(TG)–Stein a. Rhein–(TG).</td><td>1,82</td><td>2,26</td><td>5,10</td><td>13,42</td></tr>
+<tr><td>SH</td><td>13</td><td>Schaffhausen-Süd (N4)–(ZH)–(…)–(TG)–Stein a. Rhein–(TG).</td><td>1,82</td><td>2,26</td><td>5,10</td><td>13,42</td></tr>
 <tr><td></td><td>332</td><td>(D)–Ramsen–Hemishofen–(TG).</td><td>4,72</td><td>2,00</td><td>4,58</td><td>31,01</td></tr>
 <tr><td></td><td>4</td><td>(D)–Bargen–Merishausen–Schaffhausen-Schweizerbild(N4).</td><td>11.36</td><td>2.00</td><td>5.08</td><td>80.47</td></tr>
 <tr><td></td><td></td><td></td><td>17,90</td><td></td><td></td><td>124,89</td></tr>
@@ -722,15 +782,15 @@ Legende:
 <tr><td>AR</td><td>470</td><td>(SG)–Herisau (H8).</td><td>1,27</td><td>3,70</td><td>5,78</td><td>12,05</td></tr>
 <tr><td></td><td>8</td><td>(N25)–Waldstatt–(SG).</td><td>6.05</td><td>2,00</td><td>7,16</td><td>55,41</td></tr>
 <tr><td></td><td>447</td><td>(SG)–Teufen–Gais (H448).</td><td>11,14</td><td>2,22</td><td>8,74</td><td>122,09</td></tr>
-<tr><td></td><td>448</td><td>(SG)–Schwägalp–Urnäsch (H462)– (AI)–(...)–(AI)–Gais (H447).</td><td>12,94</td><td>2,00</td><td>8,96</td><td>141,76</td></tr>
+<tr><td></td><td>448</td><td>(SG)–Schwägalp–Urnäsch (H462)– (AI)–(…)–(AI)–Gais (H447).</td><td>12,94</td><td>2,00</td><td>8,96</td><td>141,76</td></tr>
 <tr><td></td><td>462</td><td>Urnäsch (H448)–Waldstatt (H8).</td><td>6,23</td><td>2,00</td><td>6,88</td><td>55,37</td></tr>
 <tr><td></td><td></td><td></td><td>37,63</td><td></td><td></td><td>386,67</td></tr>
 <tr><td></td><td></td><td>Prozentualer Anteil</td><td></td><td></td><td></td><td>1,77</td></tr>
 <tr><td>AI</td><td>448</td><td>(AR)–Gonten–Appenzell–(AR).</td><td>13,25</td><td>2,01</td><td>7,00</td><td>119,42</td></tr>
 <tr><td></td><td></td><td></td><td>13,25</td><td></td><td></td><td>119,42</td></tr>
 <tr><td></td><td></td><td>Prozentualer Anteil</td><td></td><td></td><td></td><td>0,55</td></tr>
-<tr><td>SG</td><td>8</td><td>(AR)–St. Peterzell–Lichtensteig (H16)–(...)–(H16)–Neuhaus–Eschenbach (N15)–(...)–Jona (N15)–Rapperswil–(SZ).</td><td>34,17</td><td>2,58</td><td>5,86</td><td>288,35</td></tr>
-<tr><td></td><td>16</td><td>Wil (N1)–(TG)–(...)–(TG)–Bütschwil– Lichtensteig–Neu St. Johann–Wildhaus –Gams–Buchs–Buchs (N13).</td><td>65,34</td><td>2,31</td><td>7,20</td><td>621,22</td></tr>
+<tr><td>SG</td><td>8</td><td>(AR)–St. Peterzell–Lichtensteig (H16)–(…)–(H16)–Neuhaus–Eschenbach (N15)–(…)–Jona (N15)–Rapperswil–(SZ).</td><td>34,17</td><td>2,58</td><td>5,86</td><td>288,35</td></tr>
+<tr><td></td><td>16</td><td>Wil (N1)–(TG)–(…)–(TG)–Bütschwil– Lichtensteig–Neu St. Johann–Wildhaus –Gams–Buchs–Buchs (N13).</td><td>65,34</td><td>2,31</td><td>7,20</td><td>621,22</td></tr>
 <tr><td></td><td>17</td><td>(ZH)–Kempraten–Rapperswil (N15).</td><td>3,99</td><td>3,84</td><td>4,07</td><td>31,58</td></tr>
 <tr><td></td><td>433</td><td>Gams (H16)–Haag (N13)–(FL).</td><td>3,97</td><td>2,16</td><td>4,38</td><td>25,99</td></tr>
 <tr><td></td><td>447</td><td>St. Gallen-Kreuzbleiche (N1)–(AR).</td><td>2,29</td><td>2,75</td><td>6,03</td><td>20,07</td></tr>
@@ -738,10 +798,10 @@ Legende:
 <tr><td></td><td>470</td><td>Gossau (N1)–(AR).</td><td>3,36</td><td>4,00</td><td>5,03</td><td>30,30</td></tr>
 <tr><td></td><td></td><td></td><td>123,72</td><td></td><td></td><td>1 132,75</td></tr>
 <tr><td></td><td></td><td>Prozentualer Anteil</td><td></td><td></td><td></td><td>5,19</td></tr>
-<tr><td>GR</td><td>3</td><td>Chur-Süd (N13)–Lenzerheide–Tiefencastel (N29)–(...)–Silvaplana (H27)–Malojapass–Castasegna–(I).</td><td>61,64</td><td>2,00</td><td>12,40</td><td>887,67</td></tr>
+<tr><td>GR</td><td>3</td><td>Chur-Süd (N13)–Lenzerheide–Tiefencastel (N29)–(…)–Silvaplana (H27)–Malojapass–Castasegna–(I).</td><td>61,64</td><td>2,00</td><td>12,40</td><td>887,67</td></tr>
 <tr><td></td><td>19</td><td>(UR)–Disentis–Flims–Reichenau (N13).</td><td>71,71</td><td>2,02</td><td>11,69</td><td>983,20</td></tr>
 <tr><td></td><td>27</td><td>Silvaplana (H3)–Punt Muragl–Samedan–Zernez–Martina–(A).</td><td>89,39</td><td>2,01</td><td>14,06</td><td>1436.86</td></tr>
-<tr><td></td><td>28</td><td>Klosters–Davos–Flüelapass–Susch (H27)–(...)–Zernez (H27)–Ofenpass–Müstair–(I).</td><td>74,30</td><td>2,00</td><td>15,17</td><td>1275,44</td></tr>
+<tr><td></td><td>28</td><td>Klosters–Davos–Flüelapass–Susch (H27)–(…)–Zernez (H27)–Ofenpass–Müstair–(I).</td><td>74,30</td><td>2,00</td><td>15,17</td><td>1275,44</td></tr>
 <tr><td></td><td>29</td><td>Punt Muragl (H27)–Passo del Bernina– Poschiavo–Campocologno–(I).</td><td>49,62</td><td>2,00</td><td>12,84</td><td>736,48</td></tr>
 <tr><td></td><td>416</td><td>Disentis (H19)–Lukmanierpass–(TI).</td><td>19,96</td><td>2,00</td><td>16,05</td><td>360,38</td></tr>
 <tr><td></td><td>417</td><td>Tiefencastel (N29)–Wiesen–Davos (H28).</td><td>33,51</td><td>2,00</td><td>13,97</td><td>535,05</td></tr>
@@ -749,20 +809,20 @@ Legende:
 <tr><td></td><td></td><td>Prozentualer Anteil</td><td></td><td></td><td></td><td>28,48</td></tr>
 <tr><td>AG</td><td>1</td><td>(BE)–Murgenthal–Rothrist (N1).</td><td>7,83</td><td>2,98</td><td>4,18</td><td>56,10</td></tr>
 <tr><td></td><td>2</td><td>(SO)–Aarburg–Rothrist (N1).</td><td>3,46</td><td>4,40</td><td>11,68</td><td>55,63</td></tr>
-<tr><td></td><td>5</td><td>(SO)–Aarau–Rohr–(...)–Aarau-Ost (N1)–Brugg–Untersiggenthal–Döttingen–(D).</td><td>32,49</td><td>3,09</td><td>4,88</td><td>258,78</td></tr>
-<tr><td></td><td>7</td><td>Eiken (N3)–Laufenburg–Koblenz (H5)–(...)–Koblenz (H5)–Bad Zurzach–Kaiserstuhl–(ZH).</td><td>39,92</td><td>2,26</td><td>5,21</td><td>298,34</td></tr>
+<tr><td></td><td>5</td><td>(SO)–Aarau–Rohr–(…)–Aarau-Ost (N1)–Brugg–Untersiggenthal–Döttingen–(D).</td><td>32,49</td><td>3,09</td><td>4,88</td><td>258,78</td></tr>
+<tr><td></td><td>7</td><td>Eiken (N3)–Laufenburg–Koblenz (H5)–(…)–Koblenz (H5)–Bad Zurzach–Kaiserstuhl–(ZH).</td><td>39,92</td><td>2,26</td><td>5,21</td><td>298,34</td></tr>
 <tr><td></td><td>24</td><td>Aarau-West (N1)–Unterentfelden–Aarau (H5).</td><td>6,35</td><td>4,05</td><td>4,45</td><td>54,00</td></tr>
 <tr><td></td><td>295</td><td>Station Siggenthal (H5)–Untersiggenthal–Baden–Neuenhof (N1).</td><td>10.02</td><td>3,44</td><td>4,88</td><td>83,32</td></tr>
 <tr><td></td><td></td><td></td><td>100,07</td><td></td><td></td><td>806,17</td></tr>
 <tr><td></td><td></td><td>Prozentualer Anteil</td><td></td><td></td><td></td><td>3,69</td></tr>
-<tr><td>TG</td><td>13</td><td>(ZH)–Neuparadies–Diessenhofen–Rheinklingen–Wagenhausen–(SH)–(...) –(SH)–Eschenz–Steckborn–Kreuzlingen–Romanshorn–Arbon-West (N23).</td><td>63,75</td><td>2,32</td><td>4,17</td><td>413,87</td></tr>
+<tr><td>TG</td><td>13</td><td>(ZH)–Neuparadies–Diessenhofen–Rheinklingen–Wagenhausen–(SH)–(…) –(SH)–Eschenz–Steckborn–Kreuzlingen–Romanshorn–Arbon-West (N23).</td><td>63,75</td><td>2,32</td><td>4,17</td><td>413,87</td></tr>
 <tr><td></td><td>16</td><td>(SG)–Rickenbach–(SG).</td><td>0,59</td><td>4,64</td><td>7,29</td><td>7,05</td></tr>
 <tr><td></td><td>332</td><td>(SH)–Wagenhausen (H13).</td><td>0,94</td><td>2,00</td><td>7,21</td><td>8,61</td></tr>
 <tr><td></td><td></td><td></td><td>65,28</td><td></td><td></td><td>429,54</td></tr>
 <tr><td></td><td></td><td>Prozentualer Anteil</td><td></td><td></td><td></td><td>1,97</td></tr>
 <tr><td>TI</td><td>13</td><td>Ascona (N13)–Brissago–(I).</td><td>9,69</td><td>3,10</td><td>10,71</td><td>133,88</td></tr>
 <tr><td></td><td>398</td><td>(I)–Agno (H399).</td><td>4,88</td><td>4,40</td><td>5,69</td><td>49,23</td></tr>
-<tr><td></td><td>399</td><td>Agno (H398)–Lugano Nord (N2)–(...)– Lugano Nord (N2)–Lugano (Cassarate).</td><td>7,31</td><td>3,97</td><td>11,57</td><td>113,53</td></tr>
+<tr><td></td><td>399</td><td>Agno (H398)–Lugano Nord (N2)–(…)– Lugano Nord (N2)–Lugano (Cassarate).</td><td>7,31</td><td>3,97</td><td>11,57</td><td>113,53</td></tr>
 <tr><td></td><td>405</td><td>(I)–Dirinella–Gerra–Gambarogno–Bivio di Quartino (N13).</td><td>12,47</td><td>2,05</td><td>6,22</td><td>103,11</td></tr>
 <tr><td></td><td>416</td><td>(GR)–Passo del Lucomagno–Olivone– Biasca (N2).</td><td>41,06</td><td>2,00</td><td>9,72</td><td>481,42</td></tr>
 <tr><td></td><td>560</td><td>(I)–Camedo–Intragna–Tegna–Ascona (N13).</td><td>18,28</td><td>2,17</td><td>8,77</td><td>199,91</td></tr>
@@ -779,7 +839,7 @@ Legende:
 <tr><td></td><td></td><td>Prozentualer Anteil</td><td></td><td></td><td></td><td>5,68</td></tr>
 <tr><td>VS</td><td>6</td><td>(BE)–Gletsch (H19).</td><td>6,02</td><td>2,00</td><td>16,43</td><td>110,87</td></tr>
 <tr><td></td><td>19</td><td>Brig-Glis (N9)–Fiesch–Münster–Gletsch–(UR).</td><td>59,42</td><td>2,00</td><td>12,78</td><td>878,32</td></tr>
-<tr><td></td><td>21</td><td>(F)–Bouveret–Les Evouettes (H144)–(...)–Monthey (H201)–(VD)–(...)–Portal du tunnel du Gd-St-Bernhard (N21)–Col du Grand-St-Bernard–(I).</td><td>15,38</td><td>2.34</td><td>10.19</td><td>192,74</td></tr>
+<tr><td></td><td>21</td><td>(F)–Bouveret–Les Evouettes (H144)–(…)–Monthey (H201)–(VD)–(…)–Portal du tunnel du Gd-St-Bernhard (N21)–Col du Grand-St-Bernard–(I).</td><td>15,38</td><td>2.34</td><td>10.19</td><td>192,74</td></tr>
 <tr><td></td><td>144</td><td>(VD)–Les Evouettes (H21).</td><td>0,32</td><td>2,00</td><td>20,46</td><td>7,18</td></tr>
 <tr><td></td><td>201</td><td>Pas de Morgins (F)–Monthey (H21).</td><td>18.37</td><td>2.22</td><td>10.62</td><td>235,79</td></tr>
 <tr><td></td><td>203</td><td>Martigny-Croix (N21)–La Forclaz–Trient–(F).</td><td>21,52</td><td>2,00</td><td>13,27</td><td>328,64</td></tr>
@@ -792,9 +852,9 @@ Legende:
 <tr><td></td><td>18</td><td>La Chaux-de-Fonds (N20)–(BE).</td><td>6,78</td><td>2,10</td><td>8,98</td><td>75,15</td></tr>
 <tr><td></td><td></td><td></td><td>45,83</td><td></td><td></td><td>458,87</td></tr>
 <tr><td></td><td></td><td>Prozentualer Anteil</td><td></td><td></td><td></td><td>2,10</td></tr>
-<tr><td>GE</td><td>101</td><td>(F)–Meyrin (N1)–(...)–Meyrin (N1)–Genève-Cornavin (H105/106).</td><td>7,45</td><td>5,21</td><td>6,03</td><td>83,80</td></tr>
+<tr><td>GE</td><td>101</td><td>(F)–Meyrin (N1)–(…)–Meyrin (N1)–Genève-Cornavin (H105/106).</td><td>7,45</td><td>5,21</td><td>6,03</td><td>83,80</td></tr>
 <tr><td></td><td>105</td><td>Genève-Cornavin (H101/106)–Vésenaz–La Pallanterie–Maisons Neuves–(F).</td><td>11,72</td><td>5,18</td><td>5,40</td><td>124,03</td></tr>
-<tr><td></td><td>106</td><td>Genève-Cornavin (H101/105)–Aéroport (N1)–(...)–Aéroport (N1)–(F).</td><td>5,47</td><td>3,70</td><td>6,17</td><td>53,98</td></tr>
+<tr><td></td><td>106</td><td>Genève-Cornavin (H101/105)–Aéroport (N1)–(…)–Aéroport (N1)–(F).</td><td>5,47</td><td>3,70</td><td>6,17</td><td>53,98</td></tr>
 <tr><td></td><td>111</td><td>La Praille (N1)–Carouge–Pont d’Arve–Florissant–Thônex–(F).</td><td>7,62</td><td>4,00</td><td>5,63</td><td>73,43</td></tr>
 <tr><td></td><td></td><td></td><td>32,26</td><td></td><td></td><td>335,25</td></tr>
 <tr><td></td><td></td><td>Prozentualer Anteil</td><td></td><td></td><td></td><td>1,54</td></tr>
@@ -827,13 +887,13 @@ Anhang 3
 <tr><td>Jura</td></tr>
 </table>
 
-Anhang 4*[^t-3]*
+Anhang 4[^t-3]
 
 (Art. 19)
 
 ## Beitragsberechtigte Städte und Agglomerationen
 
-[^t-3]: Fassung gemäss Ziff. II der V vom 25. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 512](https://fedlex.data.admin.ch/eli/oc/2021/512)).
+[^t-3]: Fassung gemäss Ziff. II der V vom 25. Aug. 2021 ([AS 2021 512](https://fedlex.data.admin.ch/eli/oc/2021/512)). Bereinigt gemäss Ziff. II der V vom 20. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
 
 Aarau
 
@@ -907,6 +967,8 @@ Lyss
 
 Martigny
 
+Mels-Sargans
+
 Monthey
 
 Neuchâtel
@@ -914,6 +976,8 @@ Neuchâtel
 Olten–Zofingen
 
 Rapperswil-Jona–Rüti
+
+Reinach (AG)
 
 Rheintal
 
@@ -967,12 +1031,12 @@ Anhang 5
 <tr><td>LU</td><td>501 452</td><td></td><td>5 361 676</td><td></td><td>352 664</td><td></td><td>473.97</td><td></td><td>79.67</td><td></td><td>4 271 577</td><td></td><td>3 933 945</td></tr>
 <tr><td>UR</td><td>76 620</td><td></td><td>819 241</td><td></td><td>34 683</td><td></td><td>736.38</td><td></td><td>123.78</td><td></td><td>1 014 041</td><td></td><td>933 890</td></tr>
 <tr><td>SZ</td><td>217 703</td><td></td><td>2 327 746</td><td></td><td>133 505</td><td></td><td>543.56</td><td></td><td>91.37</td><td></td><td>2 126 774</td><td></td><td>1 958 671</td></tr>
-<tr><td>...</td><td>...</td><td></td><td>...</td><td></td><td>...</td><td></td><td>...</td><td></td><td>...</td><td></td><td>...</td><td></td><td>...</td></tr>
+<tr><td>…</td><td>…</td><td></td><td>…</td><td></td><td>…</td><td></td><td>…</td><td></td><td>…</td><td></td><td>…</td><td></td><td>…</td></tr>
 <tr><td>CH</td><td>13 208 516</td><td></td><td>141 229 360</td><td></td><td>7 400 715</td><td></td><td>ø 594.92</td><td></td><td>100.00</td><td></td><td>153 350 402</td><td></td><td>141 229 360</td></tr>
 <tr><td colspan="14"><sup>1</sup> Berechnung: Einzelwert «Strassenlasten im Mittel» \* 100/ø «Strassenlasten im Mittel» <sup>2</sup> Berechnung: Einzelwert «Summe zu verteilen» \* Einzelwert «Index»/100 <sup>3</sup> Berechnung: Einzelwert «Masszahl»/Total «Masszahl» \* Total «Summe zu verteilen»</td></tr>
 </table>
 
-Anhang 6*[^t-4]*
+Anhang 6[^t-4]
 
 (Art. 15*a* Abs. 1)
 

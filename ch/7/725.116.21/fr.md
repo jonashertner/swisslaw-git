@@ -4,20 +4,20 @@ title: "Ordonnance du 7 novembre 2007 concernant l'utilisation de l'impôt sur l
 short: OUMin
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/797"
 language: fr
-version: 2021-10-01
+version: 2025-08-01
 adopted: 2007-11-07
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/797/20211001/fr/xml/fedlex-data-admin-ch-eli-cc-2007-797-20211001-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/797/20211001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/797/20250801/fr/xml/fedlex-data-admin-ch-eli-cc-2007-797-20250801-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/797/20250801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance concernant l’utilisation de l’impôt sur les huiles minérales à affectation obligatoire et des autres moyens affectés à la circulation routière
 
-(OUMin)**[^t-1]**
+(OUMin)[^t-1]
 
-du 7 novembre 2007 (Etat le 1<sup>er</sup> octobre 2021)
+du 7 novembre 2007 (État le 1<sup>er</sup> août 2025)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
 
@@ -27,8 +27,8 @@ vu les art. 48, 49*a*, al. 3, 60 et 62*a*, al. 3, de la loi fédérale du 8 mars
 
 arrête:
 
-[^ingress-1]: [RS 725.11](https://fedlex.data.admin.ch/eli/cc/1960/525_569_555)
-[^ingress-2]: [RS 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
+[^ingress-1]: [RS 725.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8453)
+[^ingress-2]: [RS 725.116.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8462)
 [^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
 
 ## Chapitre 1 Objet
@@ -65,7 +65,7 @@ Les frais de construction et d’aménagement imputables en totalité ou en part
 Les dépenses occasionnées par l’accomplissement des tâches de protection des intérêts visées à l’art. 3, al. 1, de la loi fédérale du 1<sup>er</sup> juillet 1966 sur la protection de la nature et du paysage[^3-2] sont considérées comme des frais de construction et d’aménagement.
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 22 août 2012, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 4605](https://fedlex.data.admin.ch/eli/oc/2012/558)).
-[^3-2]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^3-2]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 #### Art. 4
 
@@ -116,7 +116,7 @@ Une éventuelle participation de la Confédération aux coûts imputables se cal
 - b. dans les autres cas, d’après l’utilité de l’installation pour la route nationale concernée.
 
 [^4a-1]: Intoduit par le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
-[^4a-2]: [RS 725.13](https://fedlex.data.admin.ch/eli/cc/2017/761)
+[^4a-2]: [RS 725.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8474)
 
 #### Art. 5
 
@@ -155,7 +155,7 @@ Sont englobées dans les frais d’entretien les dépenses liées:
 
 <sup>4</sup> La Confédération ne participe aux coûts relatifs aux installations visées aux al. 1, let. b, et 3 que si les tiers effectuant des travaux d’entretien sur lesdites installations ont reçu l’autorisation de l’OFROU avant la planification et l’exécution.
 
-[^8-1]: [RS 725.111](https://fedlex.data.admin.ch/eli/cc/2007/796)
+[^8-1]: [RS 725.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8454)
 [^8-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
 
 ### Section 3 Exploitation
@@ -175,7 +175,7 @@ Sont englobées dans les frais de l’entretien courant et des travaux d’entre
 
 <sup>3</sup> Si les installations sont utilisées en commun avec des tiers, l’OFROU détermine la participation fédérale aux coûts en fonction des intérêts de la route nationale.
 
-[^9-1]: [RS 725.111](https://fedlex.data.admin.ch/eli/cc/2007/796)
+[^9-1]: [RS 725.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8454)
 
 #### Art. 10
 
@@ -185,7 +185,7 @@ Sont englobées dans les frais de l’entretien courant et des travaux d’entre
 
 <sup>2</sup> L’OFROU peut conclure des accords sur les prestations avec les cantons. Ces accords peuvent prévoir des forfaits pour les mesures convenues.
 
-[^10-1]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^10-1]: [RS 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
 
 #### Art. 11
 
@@ -233,7 +233,7 @@ Sont englobées dans les frais de l’entretien courant et des travaux d’entre
 
 Le Contrôle fédéral des finances est l’autorité supérieure de révision dans les limites de ses attributions. Il a notamment le droit de procéder à des inspections.
 
-### Section 5**** Contributions des cantons aux fins de compensation des dépenses supplémentaires induites par l’intégration de nouveaux tronçons dans le réseau des routes nationales
+### Section 5 Contributions des cantons aux fins de compensation des dépenses supplémentaires induites par l’intégration de nouveaux tronçons dans le réseau des routes nationales
 
 [^chap2-sec5-1]
 
@@ -273,7 +273,7 @@ Les cantons dotés de routes principales dans les régions de montagne et les r�
 
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
 
-## Chapitre 4 Infrastructures de transport dans les villes et les agglomérations****
+## Chapitre 4 Infrastructures de transport dans les villes et les agglomérations
 
 [^chap4-1]
 
@@ -285,7 +285,7 @@ Les cantons dotés de routes principales dans les régions de montagne et les r�
 
 <sup>1</sup> Les infrastructures de transport qui rendent plus efficace et plus durable le système global des transports dans les villes et les agglomérations (art. 17*a* LUMin) sont soutenues dans le cadre d’un programme de développement (programme en faveur du trafic d’agglomération).
 
-<sup>2</sup> La preuve que les conditions prévues à l’art. 17*c* LUMin sont remplies doit être apportée au moyen d’un projet d’agglomération.
+<sup>2</sup> La preuve que les conditions prévues à l’art. 17*c* LUMin sont remplies doit être apportée au moyen d’un projet d’agglomération. Des priorités géographiques ou thématiques peuvent y être définies, à condition qu’il n’y ait pas de besoins plus importants pour d’autres espaces ou thèmes dans la ville ou l’agglomération ayant droit aux contributions.[^18a-2]
 
 <sup>3</sup>
 
@@ -296,6 +296,7 @@ Le DETEC fixe les exigences requises pour les projets d’agglomération et règ
 - c. les droits et les obligations de coopération des organismes responsables.
 
 [^18a-1]: Introduit par le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^18a-2]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
 
 #### Art. 19
 
@@ -319,9 +320,9 @@ Le DETEC fixe les exigences requises pour les projets d’agglomération et règ
 
 **Demandes**[^20-1]
 
-Les demandes de contributions destinées aux infrastructures de transport dans les villes et les agglomérations doivent être déposées auprès de l’Office fédéral du développement territorial dans le cadre du projet d’agglomération.
+Les demandes de contributions destinées aux infrastructures de transport dans les villes et les agglomérations doivent être déposées auprès de l’Office fédéral du développement territorial (ARE) dans le cadre du projet d’agglomération de la Confédération à un projet d’agglomération représente, en fonction de l’efficacité.
 
-[^20-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
 
 #### Art. 21
 
@@ -332,7 +333,7 @@ Les demandes de contributions destinées aux infrastructures de transport dans l
 - a. les frais dus à la planification, à la direction des travaux et à la surveillance;
 - b. les frais d’acquisition de terrain et ceux de remembrement à imputer sur le projet;
 - c. les frais de construction et ceux des travaux d’adaptation nécessaires;
-- d. les frais relatifs aux mesures de protection de l’environnement et du paysage ainsi qu’aux mesures de protection contre les forces de la nature.
+- d.[^21-1] les frais relatifs aux mesures de protection de l’environnement, du climat et du paysage ainsi qu’aux mesures de protection contre les forces de la nature.
 
 <sup>2</sup>
 
@@ -342,34 +343,70 @@ Ne sont pas imputables:
 - b. les dédommagements versés à des autorités et à des commissions;
 - c. les frais d’acquisition et les intérêts des crédits de la construction.
 
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
+
 #### Art. 21a
 
 **Contributions fédérales forfaitaires**[^21a-1]
 
 <sup>1</sup>
 
-S’agissant des catégories de mesures ci-après, les contributions fédérales sont versées sous forme forfaitaire pour les mesures dont les coûts d’investissement ne dépassent pas un certain montant:
+Pour les projets d’agglomération des troisième, quatrième et cinquième générations, les contributions fédérales sont versées de manière forfaitaire pour les mesures dont les frais d’investissement ne dépassent pas un certain montant dans les catégories suivantes[^21a-2]:
 
-- a. mobilité douce;
+- a.[^21a-3] mobilité douce (mobilité piétonne et trafic cycliste);
 - b. valorisation et sécurité de l’espace routier;
-- c. gestion du système de transport;
+- c.[^21a-4] gestion du trafic;
 - d. valorisation des arrêts de tram et de bus.
 
-<sup>2</sup> Le DETEC fixe, en accord avec le Département fédéral des finances, le montant des coûts d’investissement jusqu’auquel les contributions fédérales sont versées sous forme forfaitaire.
+<sup>2</sup> Le DETEC fixe, en accord avec le Département fédéral des finances (DFF), le montant des coûts d’investissement jusqu’auquel les contributions fédérales sont versées sous forme forfaitaire.[^21a-5]
 
 <sup>3</sup> Il règle le calcul des contributions fédérales forfaitaires ou en fixe les montants. Le calcul et la fixation des montants reposent sur la qualité de conception des mesures ainsi que sur des coûts standardisés par unité de prestation.
 
 <sup>4</sup> Dans des cas justifiés, le DETEC peut renoncer à la formule forfaitaire et calculer la contribution fédérale conformément à l’art. 21.
 
 [^21a-1]: Introduit par le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^21a-2]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
+[^21a-3]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
+[^21a-4]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
+[^21a-5]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
+
+#### Art. 21b
+
+**Contributions fédérales pour les paquets de mesures modestes**[^21b-1]
+
+<sup>1</sup>
+
+Pour les projets d’agglomération à partir de la sixième génération, les contributions fédérales sont versées pour des paquets de mesures dont les frais imputables ne dépassent pas un certain montant (mesures modestes) dans les catégories suivantes:
+
+- a. mobilité piétonne et trafic cycliste;
+- b. valorisation et sécurité de l’espace routier;
+- c. gestion du trafic;
+- d. valorisation des arrêts de tram et de bus;
+- e. construction de nouveaux arrêts de tram ou de bus.
+
+<sup>2</sup> Le DETEC fixe, en accord avec le DFF, le montant des frais imputables jusqu’à concurrence duquel une mesure est considérée comme modeste.
+
+<sup>3</sup> Dans des cas justifiés, le DETEC peut traiter conformément à l’art. 21 une mesure soumise avec un paquet de mesures modestes dans un projet d’agglomération.
+
+<sup>4</sup> L’organisme responsable peut remplacer une mesure modeste par une autre mesure modeste de la même catégorie, pour autant que la nouvelle mesure corresponde à la conception examinée par la Confédération. Le canton concerné veille à ce que les contributions fédérales allouées soient utilisées conformément au droit.
+
+[^21b-1]: Introduit par le ch. I de l’O du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
 
 #### Art. 22
 
-**Taux de la participation**[^22-1]
+**Montant des contributions fédérales**[^22-1]
 
-La participation de la Confédération aux projets d’agglomération représente, en fonction de leur efficacité globale, 30 à 50 % de la somme des frais imputables attestés visés à l’art. 21 et du montant global fixé par la Confédération pour les mesures visées à l’art. 21*a*, mais ne dépasse pas la contribution maximale fixée par l’Assemblée fédérale.
+La participation de la Confédération à un projet d’agglomération est limitée au montant maximal approuvé par l’Assemblée fédérale; elle représente, en fonction de l’efficacité globale du projet, 30 à 50 % de la somme des montants ci-après:
 
-[^22-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+- a. montants des frais imputables attestés visés à l’art. 21;
+- b.
+
+  montants du crédit d’engagement approuvé par l’Assemblée fédérale:
+
+  - 1\. mesures visées à l’art. 21*a* pour les projets d’agglomération des troisième, quatrième et cinquième générations,
+  - 2\. paquets de mesures modestes visés à l’art. 21*b* pour les projets d’agglomération à partir de la sixième génération.
+
+[^22-1]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
 
 #### Art. 23
 
@@ -389,36 +426,54 @@ La participation de la Confédération aux projets d’agglomération représent
 
 <sup>3</sup> …[^24-1]
 
-<sup>4</sup> Sur la base de l’accord sur les prestations, l’office fédéral compétent convient avec l’organisme responsable, dans la convention de financement, des modalités de paiement pour les mesures de construction prêtes à être réalisées. Il peut convenir avec l’organisme responsable que celui-ci réalise les mesures et que la contribution fédérale soit versée ultérieurement (préfinancement par l’organisme responsable). Il n’est pas nécessaire que les mesures bénéficiant d’une contribution fédérale forfaitaire soient prêtes à être réalisées au moment de la conclusion de la convention de financement.[^24-2]
+<sup>4</sup> Sur la base de l’accord sur les prestations, l’office fédéral compétent convient avec l’organisme responsable, dans la convention de financement, des modalités de paiement pour les mesures de construction prêtes à être réalisées. Il peut convenir avec l’organisme responsable que celui-ci réalise les mesures et que la contribution fédérale soit versée ultérieurement (préfinancement par l’organisme responsable). Les mesures bénéficiant d’une contribution fédérale forfaitaire et les mesures modestes ne doivent pas nécessairement être prêtes à être réalisées au moment de la conclusion de la convention de financement.[^24-2]
 
-<sup>5</sup> Si la contribution est versée à une entreprise au sens de loi du 20 décembre 1957 sur les chemins de fer[^24-3], il est possible d’octroyer des prêts sans intérêts et remboursables sous certaines conditions.
+<sup>4bis</sup> Le dernier versement des contributions fédérales destinées aux paquets de mesures modestes doit être demandé au plus tard jusqu’au 30 novembre de la neuvième année suivant l’adoption de l’arrêté fédéral correspondant au programme en faveur du trafic d’agglomération.[^24-3]
 
-<sup>6</sup> …[^24-4]
+<sup>5</sup> Si la contribution est versée à une entreprise au sens de loi du 20 décembre 1957 sur les chemins de fer[^24-4], il est possible d’octroyer des prêts sans intérêts et remboursables sous certaines conditions.
+
+<sup>6</sup> …[^24-5]
 
 [^24-1]: Abrogé par le ch. I de l’O du 22 nov. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
-[^24-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
-[^24-3]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^24-4]: Abrogé par le ch. I de l’O du 22 nov. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^24-2]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
+[^24-3]: Introduit par le ch. I de l’O du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
+[^24-4]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^24-5]: Abrogé par le ch. I de l’O du 22 nov. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
 
 #### Art. 24a
 
-**Préfinancement par l’organisme responsable**[^24a-1]
+**Prolongation de l’accord sur les prestations pour les mesures des projets d’agglomération de la première ou de la deuxième génération**[^24a-1]
+
+<sup>1</sup>
+
+À la demande d’un canton, l’ARE peut prolonger la durée de validité de l’accord sur les prestations d’un projet d’agglomération de la première ou de la deuxième génération:
+
+- a. si cette mesure revêt une importance centrale pour le projet d’agglomération concerné; et
+- b. si la mise en œuvre de la mesure doit être coordonnée avec la planification d’une infrastructure de la Confédération, que cette planification est retardée et qu’il n’est donc pas possible de conclure une convention de financement pour la mesure avant fin 2027.
+
+<sup>2</sup> Une mesure revêt une importance centrale si elle améliore considérablement le système de transport de l’ensemble ou d’une partie importante de la ville ou de l’agglomération ayant droit aux contributions.
+
+[^24a-1]: Introduit par le ch. I de l’O du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
+
+#### Art. 24b
+
+**Préfinancement par l’organisme responsable**[^24b-1]
 
 <sup>1</sup>
 
 Le préfinancement par l’organisme responsable peut être convenu:
 
-- a.[^24a-2] si le projet d'agglomération contenu dans l’arrêté fédéral correspondant relatif au programme en faveur du trafic d'agglomération comprend la mesure;
+- a.[^24b-2] si le projet d'agglomération contenu dans l’arrêté fédéral correspondant relatif au programme en faveur du trafic d'agglomération comprend la mesure;
 - b. si le préfinancement concerne la contribution fédérale d’une seule mesure ou d’un paquet de mesures;
 - c. si la mesure ou le paquet de mesures respecte la conception de base du projet d’agglomération et notamment l’ordre des priorités fixé dans le projet d’agglomération;
-- d.[^24a-3] si la convention de financement prévoit que le terme du versement de la contribution fédérale dépend des conditions financières générales du fonds pour les routes nationales et le trafic d’agglomération, et
+- d.[^24b-3] si la convention de financement prévoit que le terme du versement de la contribution fédérale dépend des conditions financières générales du fonds pour les routes nationales et le trafic d’agglomération, et
 - e. si la convention de financement prévoit que les intérêts qui en résultent pour l’organisme responsable ne sont pas pris en charge par la Confédération.
 
 <sup>2</sup> L’office fédéral compétent fixe le terme du versement de la contribution fédérale. Le terme est fixé dans la convention de financement.
 
-[^24a-1]: Introduit par le ch. I de l’O du 12 janv. 2011, en vigueur depuis le 1<sup>er</sup> mars 2011 ([RO 2011 491](https://fedlex.data.admin.ch/eli/oc/2011/68)).
-[^24a-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
-[^24a-3]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^24b-1]: Anciennement art. 24a. Introduit par le ch. I de l’O du 12 janv. 2011, en vigueur depuis le 1<sup>er</sup> mars 2011 ([RO 2011 491](https://fedlex.data.admin.ch/eli/oc/2011/68)).
+[^24b-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^24b-3]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
 
 #### Art. 25
 
@@ -489,7 +544,7 @@ Sont déduites des dépenses à titre de prestations fédérales:
 - c. les autres contributions fédérales pour des mesures techniques, financées avec la part du produit de l’impôt sur les huiles minérales, en faveur de dépenses qui figurent dans le compte routier, à l’exception des contributions destinées aux infrastructures de transport dans les villes et les agglomérations;
 - d. les contributions fédérales allouées aux cantons dépourvus de routes nationales.
 
-[^30-1]: [RS 725.111](https://fedlex.data.admin.ch/eli/cc/2007/796)
+[^30-1]: [RS 725.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8454)
 
 #### Art. 31
 
@@ -518,12 +573,13 @@ Les contributions allouées aux cantons dépourvus de routes nationales sont ré
 
 <sup>3</sup> Il gère le fonds pour les routes nationales et le trafic d’agglomération et détermine, en accord avec l’Administration fédérale des finances, l’index, la procédure et la preuve du renchérissement.[^32-1]
 
-<sup>4</sup> Il édicte les directives nécessaires à l’exécution de la surveillance financière en collaboration avec le Département fédéral des finances ainsi que le Contrôle fédéral des finances et veille à la coordination des activités de contrôle.
+<sup>4</sup> Il édicte les directives nécessaires à l’exécution de la surveillance financière en collaboration avec le DFF ainsi que le Contrôle fédéral des finances et veille à la coordination des activités de contrôle.[^32-2]
 
-<sup>5</sup> L’Office fédéral du développement territorial examine les projets d’agglomération, prépare les accords sur les prestations et vérifie périodiquement qu’ils sont bien respectés.[^32-2]
+<sup>5</sup> L’ARE examine les projets d’agglomération, prépare les accords sur les prestations et vérifie périodiquement qu’ils sont bien respectés.[^32-3]
 
 [^32-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
-[^32-2]: Introduit par le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^32-2]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
+[^32-3]: Introduit par le ch. I de l’O du 22 nov. 2017 ([RO 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)). Nouvelle teneur selon le ch. I de l’O du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
 
 #### Art. 33
 
@@ -549,7 +605,7 @@ En ce qui concerne l’indemnisation relative aux terrains et ouvrages d’art q
 
 <sup>7</sup> La participation de la Confédération aux plans sociaux des cantons s’élève à 50 % des frais des cantons, toutefois au maximum à 50 % du salaire annuel de base par personne concernée. La participation maximale s’élève au maximum à 50 % du double du salaire annuel de base lors d’une retraite anticipée. Il n’y a aucune participation aux coûts engendrés avant le 1<sup>er</sup> juillet 2007 et après le 1<sup>er</sup> janvier 2011.
 
-[^33-1]: [RS 725.111](https://fedlex.data.admin.ch/eli/cc/2007/796)
+[^33-1]: [RS 725.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8454)
 
 #### Art. 33a
 
@@ -626,7 +682,7 @@ Annexe 1
 <tr><td>JU</td><td>95</td><td></td></tr>
 </table>
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 16 et 17)
 
@@ -824,13 +880,13 @@ Annexe 3
 <tr><td>Jura</td></tr>
 </table>
 
-Annexe 4*[^t-3]*
+Annexe 4[^t-3]
 
 (art. 19)
 
 ## Villes et agglomérations ayant droit à des contributions
 
-[^t-3]: Nouvelle teneur selon le ch. II de l’O du 25 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 512](https://fedlex.data.admin.ch/eli/oc/2021/512)).
+[^t-3]: Nouvelle teneur selon le ch. II de l’O du 25 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 512](https://fedlex.data.admin.ch/eli/oc/2021/512)). Mise à jour par le ch. II de l’O du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
 
 Aarau
 
@@ -904,6 +960,8 @@ Lyss
 
 Martigny
 
+Mels-Sargans
+
 Monthey
 
 Neuchâtel
@@ -911,6 +969,8 @@ Neuchâtel
 Olten–Zofingen
 
 Rapperswil-Jona–Rüti
+
+Reinach (AG)
 
 Rheintal
 
@@ -971,7 +1031,9 @@ Annexe 5
 <tr><td colspan="14">3 Calcul: valeur individuelle «coefficient»/total «coefficient» \* total «somme à répartir»</td></tr>
 </table>
 
-Annexe 6*[^t-4]*
+!
+
+Annexe 6[^t-4]
 
 (art. 15*a*, al. 1)
 

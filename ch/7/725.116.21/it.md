@@ -4,22 +4,22 @@ title: "Ordinanza del 7 novembre 2007 concernente l'utilizzazione dell'imposta s
 short: OUMin
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/797"
 language: it
-version: 2021-10-01
+version: 2025-08-01
 adopted: 2007-11-07
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/797/20211001/it/xml/fedlex-data-admin-ch-eli-cc-2007-797-20211001-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/797/20211001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/797/20250801/it/xml/fedlex-data-admin-ch-eli-cc-2007-797-20250801-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/797/20250801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente l’utilizzazione dell’imposta sugli oli minerali a destinazione vincolata e di altri mezzi a destinazione vincolata per il traffico stradale
 
-(OUMin)**[^t-1]**
+(OUMin)[^t-1]
 
-del 7 novembre 2007 (Stato 1° ottobre 2021)
+del 7 novembre 2007 (Stato 1° agosto 2025)
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
 
 Il Consiglio federale svizzero,
 
@@ -27,9 +27,9 @@ visti gli articoli 48, 49*a* capoverso 3, 60 e 62*a* capoverso 3 della legge fed
 
 ordina:
 
-[^ingress-1]: [RS 725.11](https://fedlex.data.admin.ch/eli/cc/1960/525_569_555)
-[^ingress-2]: [RS 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
-[^ingress-3]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^ingress-1]: [RS 725.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8453)
+[^ingress-2]: [RS 725.116.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8462)
+[^ingress-3]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
 
 ## Capitolo 1: Oggetto
 
@@ -46,7 +46,7 @@ La presente ordinanza disciplina l’utilizzazione dell’imposta sugli oli mine
 
 <sup>2</sup> Gli altri contributi vincolati ad opere e i contributi alla ricerca nel settore stradale non sono disciplinati nella presente ordinanza.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
 
 ## Capitolo 2: Strade nazionali
 
@@ -64,8 +64,8 @@ Nel progetto esecutivo sono definite le spese computabili, globalmente o parzial
 
 Sono computabili come costi di costruzione e sistemazione le spese per l’adempimento dei compiti di tutela degli interessi di cui all’articolo 3 capoverso 1 della legge federale del 1° luglio 1966[^3-2] sulla protezione della natura e del paesaggio.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 22 ago. 2012, in vigore dal 1° ott. 2012 ([RU 2012 4605](https://fedlex.data.admin.ch/eli/oc/2012/558)).
-[^3-2]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 22 ago. 2012, in vigore dal 1° ott. 2012 ([RU 2012 4605](https://fedlex.data.admin.ch/eli/oc/2012/558)).
+[^3-2]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 #### Art. 4
 
@@ -115,8 +115,8 @@ Un’eventuale partecipazione della Confederazione ai costi computabili dipende:
 - a. per le fasi di potenziamento di cui all’articolo 5 capoverso 1 lettera a numero 2 della legge federale del 30 settembre 2016[^4a-2] concernente il Fondo per le strade nazionali e il traffico d’agglomerato, dall’utilità aggiuntiva dell’impianto rispetto alla variante di base della Confederazione;
 - b. negli altri casi, dall’utilità dell’impianto per le strade nazionali.
 
-[^4a-1]: Introdotto dal n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
-[^4a-2]: [RS 725.13](https://fedlex.data.admin.ch/eli/cc/2017/761)
+[^4a-1]: Introdotto dalla cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^4a-2]: [RS 725.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8474)
 
 #### Art. 5
 
@@ -155,8 +155,8 @@ Rientrano nei costi di manutenzione le spese per:
 
 <sup>4</sup> La Confederazione partecipa ai costi relativi agli impianti giusta i capoversi 1 lettera b e 3 solo se, prima della pianificazione e dell’esecuzione dei lavori di manutenzione da parte di terzi, è stata ottenuta l’autorizzazione dell’USTRA.
 
-[^8-1]: [RS 725.111](https://fedlex.data.admin.ch/eli/cc/2007/796)
-[^8-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^8-1]: [RS 725.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8454)
+[^8-2]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
 
 ### Sezione 3: Esercizio
 
@@ -175,7 +175,7 @@ Rientrano nei costi di manutenzione correntee per interventi di manutenzione edi
 
 <sup>3</sup> Per gli impianti utilizzati insieme a terzi, l’USTRA stabilisce il contributo della Confederazione ai costi commisurato all’interesse delle strade nazionali.
 
-[^9-1]: [RS 725.111](https://fedlex.data.admin.ch/eli/cc/2007/796)
+[^9-1]: [RS 725.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8454)
 
 #### Art. 10
 
@@ -185,7 +185,7 @@ Rientrano nei costi di manutenzione correntee per interventi di manutenzione edi
 
 <sup>2</sup> L’USTRA può stipulare convenzioni sulle prestazioni con i Cantoni. In tali convenzioni possono essere fissati importi forfetari per le misurazioni concordate.
 
-[^10-1]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^10-1]: [RS 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
 
 #### Art. 11
 
@@ -213,9 +213,11 @@ Rientrano nei costi di manutenzione correntee per interventi di manutenzione edi
 
 <sup>2</sup> L’organo cantonale di controllo finanziario vigila in particolare affinché tutti gli organi esecutivi rispettino l’obbligo di impiegare economicamente i mezzi messi a disposizione.
 
-<sup>3</sup> Su richiesta, i rapporti di revisione degli organi cantonali di controllo finanziario devono essere messi a disposizione dell’USTRA e del Controllo federale delle finanze.
+<sup>3</sup> Su richiesta, i rapporti di revisione degli organi cantonali di controllo finanziario devono essere messi a disposizione dell’USTRA e del Controllo federale delle finanze (CDF).[^13-1]
 
 <sup>4</sup> Possono essere inclusi nella fatturazione delle strade nazionali, nella misura del tempo di lavoro impiegato, le spese direttamente collegate all’attività di revisione da parte di agenti e incaricati cantonali.
+
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 20 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
 
 #### Art. 14
 
@@ -229,15 +231,17 @@ Rientrano nei costi di manutenzione correntee per interventi di manutenzione edi
 
 #### Art. 15
 
-**Competenze del Controllo federale delle finanze**
+**Competenze del Controllo federale delle finanze**[^15-1]
 
-Il Controllo federale delle finanze è l’autorità superiore di revisione nell’ambito delle sue competenze. Esso ha segnatamente il diritto di procedere a ispezioni.
+Il CDF è l’autorità superiore di revisione nell’ambito delle sue competenze. Esso ha segnatamente il diritto di procedere a ispezioni.
+
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 20 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
 
 ### Sezione 5: Contributi dei Cantoni a compensazione delle spese supplementari derivanti dall’integrazione di nuovi tratti nella rete delle strade nazionali
 
 [^chap2-sec5-1]
 
-[^chap2-sec5-1]: Introdotto dal n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2020 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^chap2-sec5-1]: Introdotto dalla cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2020 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
 
 #### Art. 15a
 
@@ -263,7 +267,7 @@ Le strade principali cui la Confederazione accorda contributi globali sono elenc
 
 <sup>3</sup> Se singoli fattori subiscono modifiche di limitata entità, il DATEC può adeguare l’allegato 2.
 
-[^17-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^17-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
 
 #### Art. 18
 
@@ -271,21 +275,21 @@ Le strade principali cui la Confederazione accorda contributi globali sono elenc
 
 I Cantoni con strade principali nelle regioni di montagna e nelle regioni periferiche che ricevono contributi forfetari conformemente all’articolo 14 LUMin sono indicati nell’allegato 3.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
 
-## Capitolo 4: Infrastrutture di trasporto nelle città e negli agglomerati****
+## Capitolo 4: Infrastrutture di trasporto nelle città e negli agglomerati
 
 [^chap4-1]
 
-[^chap4-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^chap4-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
 
 #### Art. 18a
 
 **Programma traffico d’agglomerato**[^18a-1]
 
-<sup>1</sup> Le infrastrutture che rendono più efficiente e durevole il sistema globale dei trasporti nelle città e negli agglomerati (art. 17*a* LUMin) sono sostenute nel quadro di un programma di sviluppo (programma traffico d’agglomerato).
+<sup>1</sup> Le infrastrutture che rendono più efficiente e durevole il sistema globale dei trasporti nelle città e negli agglomerati (art. 17a LUMin) sono sostenute nel quadro di un programma di sviluppo (programma traffico d’agglomerato).
 
-<sup>2</sup> La prova che le condizioni di cui all’articolo 17*c* LUMin sono adempiute deve essere fornita mediante un programma d’agglomerato.
+<sup>2</sup> La prova che le condizioni di cui all’articolo 17*c* LUMin sono adempiute deve essere fornita mediante un programma d’agglomerato. In tale programma possono essere definite priorità geografiche o tematiche, purché non vi sia una necessità d’intervento prioritaria per altri spazi o temi nella città o nell’agglomerato avente diritto ai contributi in questione.[^18a-2]
 
 <sup>3</sup>
 
@@ -295,7 +299,8 @@ Il DATEC stabilisce i requisiti dei programmi d’agglomerato e disciplina in pa
 - b. i criteri per l’esame dei programmi;
 - c. i diritti e gli obblighi di collaborazione degli enti responsabili.
 
-[^18a-1]: Introdotto dal n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^18a-1]: Introdotto dalla cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^18a-2]: Nuovo testo giusta la cifra I dell’O del 20 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
 
 #### Art. 19
 
@@ -313,15 +318,15 @@ Il DATEC stabilisce i requisiti dei programmi d’agglomerato e disciplina in pa
 
 <sup>6</sup> Se durante l’elaborazione o l’esame di un programma d’agglomerato un Comune avente diritto ai contributi si aggrega con un Comune che non ha diritto ai contributi, il Comune mantiene il diritto ai contributi per il programma d’agglomerato in questione.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 25 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 512](https://fedlex.data.admin.ch/eli/oc/2021/512)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 25 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 512](https://fedlex.data.admin.ch/eli/oc/2021/512)).
 
 #### Art. 20
 
 **Richieste**[^20-1]
 
-Le richieste di contributi per infrastrutture di trasporto nelle città e negli agglomerati devono essere presentate all’Ufficio federale dello sviluppo territoriale nel quadro del programma d’agglomerato.
+Le richieste di contributi per infrastrutture di trasporto nelle città e negli agglomerati devono essere presentate all’Ufficio federale dello sviluppo territoriale (ARE) nel quadro del programma d’agglomerato.
 
-[^20-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O del 20 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
 
 #### Art. 21
 
@@ -334,7 +339,7 @@ Per il calcolo dei contributi federali sono computabili i seguenti costi:
 - a. i costi inerenti alla pianificazione, alla direzione lavori e alla sorveglianza;
 - b. i costi d’acquisto del terreno e quelli inerenti alla rilottizzazione dovuti al progetto;
 - c. i costi di costruzione e dei lavori di adattamento necessari;
-- d. i costi relativi alle misure di protezione dell’ambiente e del paesaggio, nonché alle misure di protezione contro i pericoli naturali.
+- d.[^21-1] i costi relativi alle misure di protezione dell’ambiente, del clima e del paesaggio, nonché alle misure di protezione contro i pericoli naturali.
 
 <sup>2</sup>
 
@@ -344,34 +349,70 @@ Non sono computabili:
 - b. indennità versate ad autorità e commissioni;
 - c. i costi d’acquisto e gli interessi dei crediti edilizi.
 
+[^21-1]: Nuovo testo giusta la cifra I dell’O del 20 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
+
 #### Art. 21a
 
 **Contributi federali forfetari**[^21a-1]
 
 <sup>1</sup>
 
-Nelle seguenti categorie, i contributi federali per provvedimenti con costi d’investimento fino a un determinato importo vengono versati a forfait:
+Per i programmi d’agglomerato di terza, quarta e quinta generazione, nelle seguenti categorie i contributi federali per provvedimenti con costi d’investimento fino a un determinato importo vengono versati a forfait:[^21a-2]
 
-- a. traffico lento;
+- a.[^21a-3] traffico lento (traffico pedonale e ciclistico);
 - b. riqualifica e sicurezza dello spazio stradale;
-- c. gestione del sistema dei trasporti;
+- c.[^21a-4] gestione dei trasporti;
 - d. riqualifica di fermate di tram e autobus.
 
-<sup>2</sup> Il DATEC, d’intesa con il Dipartimento federale delle finanze, disciplina l’importo dei costi d’investimento fino al quale i contributi federali sono versati a forfait.
+<sup>2</sup> Il DATEC, d’intesa con il Dipartimento federale delle finanze (DFF), disciplina l’importo dei costi d’investimento fino al quale i contributi federali sono versati a forfait.[^21a-5]
 
 <sup>3</sup> Disciplina il calcolo dei contributi federali forfetari o ne determina le aliquote. Il calcolo e la determinazione delle aliquote si basano sulla qualità concettuale dei provvedimenti e sui costi standardizzati per unità di prestazione.
 
 <sup>4</sup> In casi giustificati, il DATEC può rinunciare alla forfetizzazione e calcolare il contributo federale secondo l’articolo 21.
 
-[^21a-1]: Introdotto dal n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^21a-1]: Introdotto dalla cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^21a-2]: Nuovo testo giusta la cifra I dell’O del 20 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
+[^21a-3]: Nuovo testo giusta la cifra I dell’O del 20 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
+[^21a-4]: Nuovo testo giusta la cifra I dell’O del 20 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
+[^21a-5]: Nuovo testo giusta la cifra I dell’O del 20 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
+
+#### Art. 21b
+
+**Contributi federali per i pacchetti di provvedimenti di modesta entità**[^21b-1]
+
+<sup>1</sup>
+
+Per i programmi d’agglomerato a partire dalla sesta generazione, i contributi federali vengono versati per i pacchetti di provvedimenti i cui costi computabili non superano un determinato importo (provvedimenti di modesta entità) nelle seguenti categorie:
+
+- a. traffico pedonale e ciclistico;
+- b. riqualifica e sicurezza dello spazio stradale;
+- c. gestione dei trasporti;
+- d. riqualifica di fermate di tram e autobus;
+- e. nuova costruzione di fermate di tram e autobus.
+
+<sup>2</sup> Il DATEC, d’intesa con il DFF, stabilisce l’importo dei costi computabili fino al quale un provvedimento è considerato di modesta entità.
+
+<sup>3</sup> In casi giustificati, il DATEC può calcolare secondo l’articolo 21 il contributo federale per un provvedimento presentato in un pacchetto di provvedimenti di modesta entità in un programma d’agglomerato.
+
+<sup>4</sup> L’ente responsabile può sostituire un provvedimento di modesta entità con un altro provvedimento di modesta entità della stessa categoria, a condizione che la nuova misura sia conforme alla concezione esaminata dalla Confederazione. Il Cantone interessato provvede affinché i contributi federali siano utilizzati conformemente alla legge.
+
+[^21b-1]: Introdotto dalla cifra I dell’O del 20 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
 
 #### Art. 22
 
-**Entità dei contributi**[^22-1]
+**Entità dei contributi federali**[^22-1]
 
-La partecipazione della Confederazione ai programmi d’agglomerato ammonta, in funzione della loro efficacia globale, al 30–50 per cento della somma dei costi computabili documentati secondo l’articolo 21 e dell’importo complessivo stabilito dalla Confederazione per i provvedimenti secondo l’articolo 21*a*, ma non supera il contributo massimo fissato dall’Assemblea federale.
+La partecipazione della Confederazione a un programma d’agglomerato non supera l’importo massimo stanziato dall’Assemblea federale e ammonta, in funzione dell’efficacia globale del programma, al 30–50 per cento della somma dei seguenti importi:
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+- a. importi dei costi computabili documentati secondo l’articolo 21;
+- b.
+
+  importi del credito d’impegno stanziato dall’Assemblea federale per:
+
+  - 1\. provvedimenti secondo l’articolo 21*a* di programmi d’agglomerato di terza, quarta e quinta generazione,
+  - 2\. pacchetti di provvedimenti di modesta entità secondo l’articolo 21*b* di programmi d’agglomerato a partire dalla sesta generazione.
+
+[^22-1]: Nuovo testo giusta la cifra I dell’O del 20 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
 
 #### Art. 23
 
@@ -391,36 +432,54 @@ La partecipazione della Confederazione ai programmi d’agglomerato ammonta, in 
 
 <sup>3</sup> ...[^24-1]
 
-<sup>4</sup> In base alla convenzione sulle prestazioni, l’Ufficio federale competente stabilisce con l’ente responsabile, nell’accordo sul finanziamento, le modalità di pagamento dei provvedimenti pronti per essere realizzati. Può convenire con l’ente responsabile che quest’ultimo realizzi i provvedimenti e che il contributo federale sia versato in un secondo tempo (prefinanziamento da parte dell’ente responsabile). Al momento della conclusione dell’accordo sul finanziamento non è necessario che i provvedimenti con contributo federale forfetario siano già pronti per essere realizzati.[^24-2]
+<sup>4</sup> In base alla convenzione sulle prestazioni, l’Ufficio federale competente stabilisce con l’ente responsabile, nell’accordo sul finanziamento, le modalità di pagamento dei provvedimenti pronti per essere realizzati. Può convenire con l’ente responsabile che quest’ultimo realizzi i provvedimenti e che il contributo federale sia versato in un secondo tempo (prefinanziamento da parte dell’ente responsabile). Al momento della conclusione dell’accordo sul finanziamento non è necessario che i provvedimenti con contributo federale forfetario e i provvedimenti di modesta entità siano già pronti per essere realizzati.[^24-2]
 
-<sup>5</sup> Se a ricevere il pagamento è un’impresa ai sensi della legge federale del 20 dicembre 1957[^24-3] sulle ferrovie, possono essere accordati prestiti rimborsabili condizionalmente, senza interessi.
+<sup>4bis</sup> L’ultimo versamento dei contributi federali per pacchetti di provvedimenti di modesta entità deve essere richiesto entro il 30 novembre del nono anno dopo l’approvazione del relativo decreto federale concernente il programma Traffico d’agglomerato.[^24-3]
 
-<sup>6</sup> ...[^24-4]
+<sup>5</sup> Se a ricevere il pagamento è un’impresa ai sensi della legge federale del 20 dicembre 1957[^24-4] sulle ferrovie, possono essere accordati prestiti rimborsabili condizionalmente, senza interessi.
 
-[^24-1]: Abrogato dal n. I dell’O del 22 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
-[^24-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
-[^24-3]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^24-4]: Abrogato dal n. I dell’O del 22 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+<sup>6</sup> ...[^24-5]
+
+[^24-1]: Abrogato dalla cifra I dell’O del 22 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^24-2]: Nuovo testo giusta la cifra I dell’O del 20 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
+[^24-3]: Introdotto dalla cifra I dell’O del 20 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
+[^24-4]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^24-5]: Abrogato dalla cifra I dell’O del 22 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
 
 #### Art. 24a
 
-**Prefinanziamento da parte dell’ente responsabile**[^24a-1]
+**Proroga della validità della convenzione sulle prestazioni per provvedimenti di programmi d’agglomerato di prima o seconda generazione**[^24a-1]
+
+<sup>1</sup>
+
+Su richiesta di un Cantone, l’ARE può prorogare la validità della convenzione sulle prestazioni di un programma d’agglomerato di prima o seconda generazione per un provvedimento, se:
+
+- a. tale provvedimento è di fondamentale importanza per il relativo programma d’agglomerato; e
+- b. l’attuazione del provvedimento necessita del coordinamento con la pianificazione di un’infrastruttura della Confederazione, tale pianificazione subisce un ritardo e pertanto non può essere concluso un accordo sul finanziamento per tale provvedimento entro la fine del 2027.
+
+<sup>2</sup> Un provvedimento è di fondamentale importanza se migliora notevolmente il sistema dei trasporti dell’insieme o di parti significative della città o dell’agglomerato avente diritto ai contributi.
+
+[^24a-1]: Introdotto dalla cifra I dell’O del 20 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
+
+#### Art. 24b
+
+**Prefinanziamento da parte dell’ente responsabile**[^24b-1]
 
 <sup>1</sup>
 
 Il prefinanziamento da parte dell’ente responsabile può essere convenuto se:
 
-- a.[^24a-2] il provvedimento da realizzare è previsto nel corrispondente decreto federale relativo al programma Traffico d’agglomerato;
+- a.[^24b-2] il provvedimento da realizzare è previsto nel corrispondente decreto federale relativo al programma Traffico d’agglomerato;
 - b. il prefinanziamento concerne il contributo federale per un solo provvedimento o un pacchetto di provvedimenti;
 - c. il provvedimento o il pacchetto di provvedimenti rispetta i principi di base del programma d’agglomerato, in particolare l’ordine di priorità ivi previsto;
-- d.[^24a-3] l’accordo sul finanziamento prevede che il termine di versamento del contributo federale dipenda dalle condizioni quadro finanziarie del Fondo per le strade nazionali e il traffico d’agglomerato; e
+- d.[^24b-3] l’accordo sul finanziamento prevede che il termine di versamento del contributo federale dipenda dalle condizioni quadro finanziarie del Fondo per le strade nazionali e il traffico d’agglomerato; e
 - e. l’accordo sul finanziamento prevede che gli interessi che ne risultano per l’ente responsabile non siano assunti dalla Confederazione.
 
 <sup>2</sup> L’Ufficio federale competente stabilisce il termine di versamento del contributo federale. Il termine è fissato nell’accordo sul finanziamento.
 
-[^24a-1]: Introdotto dal n. I dell’O del 12 gen. 2011, in vigore dal 1° mar. 2011 ([RU 2011 491](https://fedlex.data.admin.ch/eli/oc/2011/68)).
-[^24a-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
-[^24a-3]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^24b-1]: Originario art. 24*a*. Introdotto dalla cifra I dell’O del 12 gen. 2011, in vigore dal 1° mar. 2011 ([RU 2011 491](https://fedlex.data.admin.ch/eli/oc/2011/68)).
+[^24b-2]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^24b-3]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
 
 #### Art. 25
 
@@ -489,7 +548,7 @@ Dalle spese sono dedotti, in quanto prestazioni federali:
 - c. altri contributi federali direttamente vincolati alle opere, attinti alla quota dell’imposta sugli oli minerali, per spese figuranti nel conto stradale, esclusi i contributi per infrastrutture di trasporto nelle città e negli agglomerati;
 - d. i contributi federali per Cantoni privi di strade nazionali.
 
-[^30-1]: [RS 725.111](https://fedlex.data.admin.ch/eli/cc/2007/796)
+[^30-1]: [RS 725.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8454)
 
 #### Art. 31
 
@@ -518,12 +577,13 @@ I contributi ai Cantoni privi di strade nazionali sono ripartiti come segue:
 
 <sup>3</sup> Amministra il Fondo per le strade nazionali e il traffico d’agglomerato e, d’intesa con l’Amministrazione federale delle finanze, fissa l’indice, la procedura e la prova del rincaro.[^32-1]
 
-<sup>4</sup> D’intesa con il Dipartimento federale delle finanze e il Controllo federale delle finanze emana le istruzioni necessarie per l’esecuzione della vigilanza finanziaria e provvede al coordinamento dell’attività di controllo.
+<sup>4</sup> D’intesa con il DFF e il CDF emana le istruzioni necessarie per l’esecuzione della vigilanza finanziaria e provvede al coordinamento dell’attività di controllo.[^32-2]
 
-<sup>5</sup> L’Ufficio federale dello sviluppo territoriale esamina i programmi d’agglomerato, prepara le convenzioni sulle prestazioni e ne verifica periodicamente il rispetto.[^32-2]
+<sup>5</sup> L’ARE esamina i programmi d’agglomerato, prepara le convenzioni sulle prestazioni e ne verifica periodicamente il rispetto.[^32-3]
 
-[^32-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
-[^32-2]: Introdotto dal n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^32-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^32-2]: Nuovo testo giusta la cifra I dell’O del 20 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
+[^32-3]: Introdotto dalla cifra I dell’O del 22 nov. 2017 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)). Nuovo testo giusta la cifra I dell’O del 20 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
 
 #### Art. 33
 
@@ -549,7 +609,7 @@ Ai fondi e alle opere non trasferiti conformemente all’articolo 56 capoversi 3
 
 <sup>7</sup> La partecipazione della Confederazione ai piani sociali dei Cantoni si eleva al 50 per cento dei costi sostenuti dai Cantoni, tuttavia al massimo al 50 per cento del salario annuo di base per persona interessata. In caso di pensionamento anticipato, la partecipazione è pari al massimo al 50 per cento del doppio del salario annuo di base. Non vi è alcuna partecipazione ai costi relativi al periodo precedente il 1° luglio 2007 e successivo al 1° gennaio 2011.
 
-[^33-1]: [RS 725.111](https://fedlex.data.admin.ch/eli/cc/2007/796)
+[^33-1]: [RS 725.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8454)
 
 #### Art. 33a
 
@@ -557,7 +617,7 @@ Ai fondi e alle opere non trasferiti conformemente all’articolo 56 capoversi 3
 
 L’Ufficio federale dei trasporti rimane competente per l’accompagnamento dei progetti ferroviari e dei progetti dei trasporti pubblici per i quali la Confederazione ha deciso lo sblocco dei crediti prima del 1° gennaio 2016.
 
-[^33a-1]: Introdotto dal n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^33a-1]: Introdotto dalla cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
 
 #### Art. 34
 
@@ -572,10 +632,10 @@ Sono abrogate le seguenti ordinanze:
 - 5\. Ordinanza del 6 novembre 1991[^34-5] sulla separazione dei modi di traffico.
 
 [^34-1]: [[RU 1965 1007](https://fedlex.data.admin.ch/eli/oc/1965/1009_1021_1007)]
-[^34-2]: [[RU 1987 725](https://fedlex.data.admin.ch/eli/oc/1987/725_725_725)[1278](https://fedlex.data.admin.ch/eli/oc/1987/1278_1278_1278), [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)[3393](https://fedlex.data.admin.ch/eli/oc/1996/3393_3393_3393)app. n. 6 lett. a, [1999 2204](https://fedlex.data.admin.ch/eli/oc/1999/349)n. II [2387](https://fedlex.data.admin.ch/eli/oc/1999/364)n. I 3]
-[^34-3]: [[RU 1990 695](https://fedlex.data.admin.ch/eli/oc/1990/695_695_695), [1996 3393](https://fedlex.data.admin.ch/eli/oc/1996/3393_3393_3393)app. n. 6 lett. b, [1997 1586](https://fedlex.data.admin.ch/eli/oc/1997/1586_1586_1586), [2004 4623](https://fedlex.data.admin.ch/eli/oc/2004/706)n. II]
-[^34-4]: [[RU 1985 1967](https://fedlex.data.admin.ch/eli/oc/1985/1967_1967_1967), [1995 1327](https://fedlex.data.admin.ch/eli/oc/1995/1327_1327_1327), [1996 3393](https://fedlex.data.admin.ch/eli/oc/1996/3393_3393_3393)app. n. 6 lett. c]
-[^34-5]: [[RU 1991 2404](https://fedlex.data.admin.ch/eli/oc/1991/2404_2404_2404), [1996 3393](https://fedlex.data.admin.ch/eli/oc/1996/3393_3393_3393)app. n. 6 lett. d, [1997 1599](https://fedlex.data.admin.ch/eli/oc/1997/1599_1599_1599), [2004 4625](https://fedlex.data.admin.ch/eli/oc/2004/707)]
+[^34-2]: [[RU 1987 725](https://fedlex.data.admin.ch/eli/oc/1987/725_725_725), [1278](https://fedlex.data.admin.ch/eli/oc/1987/1278_1278_1278); [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243), [3393](https://fedlex.data.admin.ch/eli/oc/1996/3393_3393_3393)app. n. 6 lett. a; [1999 2204](https://fedlex.data.admin.ch/eli/oc/1999/349)cifra II, [2387](https://fedlex.data.admin.ch/eli/oc/1999/364)cifra I 3]
+[^34-3]: [[RU 1990 695](https://fedlex.data.admin.ch/eli/oc/1990/695_695_695); [1996 3393](https://fedlex.data.admin.ch/eli/oc/1996/3393_3393_3393)app. n. 6 lett. b; [1997 1586](https://fedlex.data.admin.ch/eli/oc/1997/1586_1586_1586); [2004 4623](https://fedlex.data.admin.ch/eli/oc/2004/706)cifra II]
+[^34-4]: [[RU 1985 1967](https://fedlex.data.admin.ch/eli/oc/1985/1967_1967_1967); [1995 1327](https://fedlex.data.admin.ch/eli/oc/1995/1327_1327_1327); [1996 3393](https://fedlex.data.admin.ch/eli/oc/1996/3393_3393_3393)app. n. 6 lett. c]
+[^34-5]: [[RU 1991 2404](https://fedlex.data.admin.ch/eli/oc/1991/2404_2404_2404); [1996 3393](https://fedlex.data.admin.ch/eli/oc/1996/3393_3393_3393)app. n. 6 lett. d; [1997 1599](https://fedlex.data.admin.ch/eli/oc/1997/1599_1599_1599); [2004 4625](https://fedlex.data.admin.ch/eli/oc/2004/707)]
 
 #### Art. 35
 
@@ -626,13 +686,13 @@ Allegato 1
 <tr><td>JU</td><td>95</td><td></td></tr>
 </table>
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 16 e 17)
 
 ## Strade principali cui la Confederazione accorda contributi globali
 
-[^t-2]: Nuovo testo giusta il n. II cpv. 1 dell’O del 22 nov. 2017, in vigore dal 1° gen. 2020 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^t-2]: Nuovo testo giusta la cifra II cpv. 1 dell’O del 22 nov. 2017, in vigore dal 1° gen. 2020 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
 
 Legenda:
 
@@ -824,13 +884,13 @@ Allegato 3
 <tr><td>Giura</td></tr>
 </table>
 
-Allegato 4*[^t-3]*
+Allegato 4[^t-3]
 
 (art. 19)
 
 ## Città e agglomerati aventi diritto ai contributi
 
-[^t-3]: Nuovo testo giusta il n. II dell’O del 25 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 512](https://fedlex.data.admin.ch/eli/oc/2021/512)).
+[^t-3]: Nuovo testo giusta la cifra II dell’O del 25 ago. 2021 ([RU 2021 512](https://fedlex.data.admin.ch/eli/oc/2021/512)). Aggiornato dalla cifra II dell’O del 20 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
 
 Aarau
 
@@ -904,6 +964,8 @@ Lyss
 
 Martigny
 
+Mels-Sargans
+
 Monthey
 
 Neuchâtel
@@ -911,6 +973,8 @@ Neuchâtel
 Olten–Zofingen
 
 Rapperswil-Jona–Rüti
+
+Reinach (AG)
 
 Rheintal
 
@@ -971,13 +1035,13 @@ Allegato 5
 <tr><td colspan="9"><sup>3</sup> Calcolo: valore «coefficiente»/totale «coefficiente» \* totale «somma da ripartire»</td></tr>
 </table>
 
-Allegato 6*[^t-4]*
+Allegato 6[^t-4]
 
 (art. 15*a* cpv. 1)
 
 ## Contributi dei Cantoni a compensazione delle spese supplementari derivanti dall’integrazione di nuovi tratti nella rete delle strade nazionali
 
-[^t-4]: Introdotto dal n. II cpv. 2 dell’O del 22 nov. 2017, in vigore dal 1° gen. 2020 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^t-4]: Introdotto dalla cifra II cpv. 2 dell’O del 22 nov. 2017, in vigore dal 1° gen. 2020 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
 
 <table>
 <tr><th>Cantone</th><th>Contributo annuo in milioni di franchi</th></tr>
