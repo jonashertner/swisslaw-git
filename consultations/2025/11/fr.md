@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de la loi sur les épizooties (LFE)
 document: Projet mis en consultation
 language: fr
