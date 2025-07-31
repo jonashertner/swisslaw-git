@@ -5,11 +5,12 @@ title: "Ordinanza relativa alla legge sulle scuole popolari *"
 short: "Ordinanza sulle scuole popolari, OSP"
 language: it
 version: 2025-08-01
+corrected: 2025-06-05
 version_adopted: 2025-04-15
 adopted: 2012-09-25
 in_force: 2013-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/421.010"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3563/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3549/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -476,9 +477,9 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 97 dell
 
 <sup>1</sup> È considerata integrativa ogni forma di istruzione e di sostegno nella quale l'insegnamento si svolge nella classe regolare.
 
-<sup>2</sup> Sono considerate parzialmente integrative le forme di istruzione e di sostegno nelle quali una parte dell'insegnamento si svolge al di fuori della classe regolare in forma di lezioni di gruppo o individuali.
+<sup>2</sup> Sono considerate parzialmente integrative le forme di istruzione e di sostegno nelle quali una parte dell'insegnamento si svolge fuori della classe regolare in forma di lezioni di gruppo o individuali.
 
-<sup>3</sup> È considerata separativa ogni forma di istruzione e di sostegno nella quale l'insegnamento si svolge in una sezione al di fuori della classe regolare.
+<sup>3</sup> È considerata separativa ogni forma di istruzione e di sostegno nella quale l'insegnamento si svolge in una sezione al fuori della classe regolare.
 
 #### Art. 46
 

@@ -1,22 +1,23 @@
 ---
 canton: GR
 number: "421.010"
-title: "Ordinaziun tar la Lescha davart las scolas popularas *"
-short: "Ordinaziun davart las scolas popularas, OSP"
+title: "Ordinaziun tar la Lescha davart la scola populara *"
+short: "Ordinaziun davart la scola populara, OSP"
 language: rm
 version: 2025-08-01
+corrected: 2025-06-05
 version_adopted: 2025-04-15
 adopted: 2012-09-25
 in_force: 2013-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/421.010"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3563/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3549/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Ordinaziun tar la Lescha davart las scolas popularas
+# Ordinaziun tar la Lescha davart la scola populara
 
-(Ordinaziun davart las scolas popularas, OSP)
+(Ordinaziun davart la scola populara, OSP)
 
 dals 25-09-2012 (versiun dals 01-08-2025)
 
