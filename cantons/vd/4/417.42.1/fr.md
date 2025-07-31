@@ -4,7 +4,7 @@ number: "417.42.1"
 title: RÈGLEMENT du 06.07.2022 relatif aux formations gymnasiales pour adultes  (RGyPAd)
 short: RGyPAd
 language: fr
-version: 2023-08-01
+version: 2025-08-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/417.42.1?id=31067d7b-38a6-4cef-8bf4-d83179d94a1b"
 ---
 
@@ -107,31 +107,31 @@ arrête
 
 **Age d'admission [^6-1]**
 
-<sup>1</sup> Pour être admis en Ecole de maturité ou en Ecole de culture générale pour adultes, le candidat doit être âgé de 20 ans révolus au moins.
+<sup>1</sup> Pour être admis en Ecole de maturité ou en Ecole de culture générale pour adultes, le candidat doit être âgé de 20 ans révolus au moins. Cette condition ne s'applique pas à l'admission à l'année additionnelle.
 
 <sup>2</sup> Pour être admis aux cours préparatoires, le candidat doit être âgé de 19 ans révolus au moins.
 
-[^6-1]: Modif. 2 du 05.11.2025: Modification Al. 1; entrée en vigueur au 01.08.2025; Introduction Art. 15, Al. 2; entrée en vigueur au 01.08.2025; Introduction Art. 21a; entrée en vigueur au 01.08.2025; Introduction Art. 23, Al. 2; entrée en vigueur au 01.08.2025; Introduction Art. 23a; entrée en vigueur au 01.08.2025; Introduction Art. 29, Al. 3; entrée en vigueur au 01.08.2025; Introduction Art. 32, Al. 2-3; entrée en vigueur au 01.08.2025; Introduction Art. 34a; entrée en vigueur au 01.08.2025; Introduction Art. 48a; entrée en vigueur au 01.08.2025
+[^6-1]: Modif. 2 du 05.11.2025: Modification Al. 1; entrée en vigueur au 01.08.2025
 
 #### Art. 8
 
 **Expérience préalable [^7-1]**
 
-<sup>1</sup> A l'exception de la Voie passerelle, le candidat doit en principe pouvoir justifier d'une expérience professionnelle de deux ans au moins ou de toute autre expérience jugée équivalente.
+<sup>1</sup> A l'exception de la Voie passerelle et de l'année additionnelle, le candidat doit en principe pouvoir justifier d'une expérience professionnelle de deux ans au moins ou de toute autre expérience jugée équivalente.
 
 <sup>2</sup> En outre, il doit en principe observer un délai de deux ans entre l'interruption d'une formation dans une école à plein temps et le début de la formation au GyPAd.
 
-[^7-1]: Modif. 2 du 05.11.2025: Modification Al. 1; entrée en vigueur au 01.08.2025; Introduction Art. 15, Al. 2; entrée en vigueur au 01.08.2025; Introduction Art. 21a; entrée en vigueur au 01.08.2025; Introduction Art. 23, Al. 2; entrée en vigueur au 01.08.2025; Introduction Art. 23a; entrée en vigueur au 01.08.2025; Introduction Art. 29, Al. 3; entrée en vigueur au 01.08.2025; Introduction Art. 32, Al. 2-3; entrée en vigueur au 01.08.2025; Introduction Art. 34a; entrée en vigueur au 01.08.2025; Introduction Art. 48a; entrée en vigueur au 01.08.2025
+[^7-1]: Modif. 2 du 05.11.2025: Modification Al. 1; entrée en vigueur au 01.08.2025
 
 #### Art. 9
 
 **Dossier d'inscription [^8-1]**
 
-<sup>1</sup> A l'exception de la Voie passerelle, l'admission d'un candidat se fait sur la base du dossier d'inscription, de son projet professionnel, de son niveau scolaire et des places disponibles dans la voie de formation envisagée.
+<sup>1</sup> A l'exception de la Voie passerelle et de l'année additionnelle, l'admission d'un candidat se fait sur la base du dossier d'inscription, de son projet professionnel, de son niveau scolaire et des places disponibles dans la voie de formation envisagée.
 
-<sup>2</sup> Lorsque le niveau scolaire du candidat ne peut être établi sur la base du dossier d'inscription, il est soumis à des tests de connaissances.
+<sup>2</sup> Lorsque le niveau scolaire du candidat ne peut être établi sur la base du dossier d'inscription, il est soumis à des tests d'orientation.
 
-[^8-1]: Modif. 2 du 05.11.2025: Modification Al. 1-2; entrée en vigueur au 01.08.2025; Introduction Art. 15, Al. 2; entrée en vigueur au 01.08.2025; Introduction Art. 21a; entrée en vigueur au 01.08.2025; Introduction Art. 23, Al. 2; entrée en vigueur au 01.08.2025; Introduction Art. 23a; entrée en vigueur au 01.08.2025; Introduction Art. 29, Al. 3; entrée en vigueur au 01.08.2025; Introduction Art. 32, Al. 2-3; entrée en vigueur au 01.08.2025; Introduction Art. 34a; entrée en vigueur au 01.08.2025; Introduction Art. 48a; entrée en vigueur au 01.08.2025
+[^8-1]: Modif. 2 du 05.11.2025: Modification Al. 1-2; entrée en vigueur au 01.08.2025
 
 #### Art. 10
 
@@ -149,11 +149,11 @@ arrête
 
 <sup>1</sup> Les cours sont en principe dispensés en fin de journée et le soir.
 
-<sup>2</sup> La durée journalière des cours ne peut compter plus de quatre périodes.
+<sup>2</sup> ...
 
 <sup>3</sup> Le Département arrête la répartition horaire des disciplines pour toutes les voies de formation du GyPAd après consultation de la Conférence des directeurs des gymnases vaudois.
 
-[^10-1]: Modif. 2 du 05.11.2025: Abrogation Al. 2; entrée en vigueur au 01.08.2025; Introduction Art. 15, Al. 2; entrée en vigueur au 01.08.2025; Introduction Art. 21a; entrée en vigueur au 01.08.2025; Introduction Art. 23, Al. 2; entrée en vigueur au 01.08.2025; Introduction Art. 23a; entrée en vigueur au 01.08.2025; Introduction Art. 29, Al. 3; entrée en vigueur au 01.08.2025; Introduction Art. 32, Al. 2-3; entrée en vigueur au 01.08.2025; Introduction Art. 34a; entrée en vigueur au 01.08.2025; Introduction Art. 48a; entrée en vigueur au 01.08.2025
+[^10-1]: Modif. 2 du 05.11.2025: Abrogation Al. 2; entrée en vigueur au 01.08.2025
 
 #### Art. 12
 
@@ -169,11 +169,11 @@ arrête
 
 <sup>2</sup> Un contrôle régulier des absences et des arrivées tardives des étudiants est effectué.
 
-<sup>3</sup> L'étudiant n'est pas tenu de justifier ses absences, sous réserve de l'article 53 RGY.
+<sup>3</sup> L'étudiant n'est pas tenu de justifier ses absences, sous réserve de l'article 54 RGY.
 
 <sup>4</sup> Lorsque le taux de présence aux cours est inférieur à 75%, le directeur peut, sur préavis du Conseil de l'étudiant, prononcer l'exclusion de l'étudiant ou lui interdire l'accès aux examens finaux. L'année ainsi interrompue est réputée échouée.
 
-[^12-1]: Modif. 2 du 05.11.2025: Modification Al. 3; entrée en vigueur au 01.08.2025; Introduction Art. 15, Al. 2; entrée en vigueur au 01.08.2025; Introduction Art. 21a; entrée en vigueur au 01.08.2025; Introduction Art. 23, Al. 2; entrée en vigueur au 01.08.2025; Introduction Art. 23a; entrée en vigueur au 01.08.2025; Introduction Art. 29, Al. 3; entrée en vigueur au 01.08.2025; Introduction Art. 32, Al. 2-3; entrée en vigueur au 01.08.2025; Introduction Art. 34a; entrée en vigueur au 01.08.2025; Introduction Art. 48a; entrée en vigueur au 01.08.2025
+[^12-1]: Modif. 2 du 05.11.2025: Modification Al. 3; entrée en vigueur au 01.08.2025
 
 #### Art. 14
 
@@ -191,7 +191,9 @@ arrête
 
 <sup>1</sup> L'Ecole de maturité pour adultes est une école à temps partiel du degré Secondaire II qui délivre le certificat de maturité gymnasiale et le baccalauréat au terme du cursus d'études.
 
-[^chapterChapitreII-1]: Modif. 2 du 05.11.2025: Introduction Al. 2; entrée en vigueur au 01.08.2025; Introduction Art. 21a; entrée en vigueur au 01.08.2025; Introduction Art. 23, Al. 2; entrée en vigueur au 01.08.2025; Introduction Art. 23a; entrée en vigueur au 01.08.2025; Introduction Art. 29, Al. 3; entrée en vigueur au 01.08.2025; Introduction Art. 32, Al. 2-3; entrée en vigueur au 01.08.2025; Introduction Art. 34a; entrée en vigueur au 01.08.2025; Introduction Art. 48a; entrée en vigueur au 01.08.2025
+<sup>2</sup> Le GyPAd peut mettre en œuvre une modalité en quatre ans qui comporte une partie d'enseignement à distance (variante bimodale).
+
+[^chapterChapitreII-1]: Modif. 2 du 05.11.2025: Introduction Al. 2; entrée en vigueur au 01.08.2025
 
 #### Art. 16
 
@@ -241,19 +243,27 @@ arrête
 
 **Disciplines [^20-1]**
 
-<sup>1</sup> Pour le début de sa 2<sup>e</sup> année de formation, l'étudiant choisit l'une des options spécifiques proposées.
+<sup>1</sup> Pour le début de sa 2<sup>e</sup> année de formation, respectivement de sa 3<sup>e</sup> année en variante bimodale, l'étudiant choisit l'une des options spécifiques proposées.
 
 <sup>2</sup> Le directeur décide des options spécifiques et complémentaires proposées, puis de leur ouverture en fonction du nombre d'inscriptions.
 
-[^20-1]: Modif. 2 du 05.11.2025: Introduction Art. 15, Al. 2; entrée en vigueur au 01.08.2025; Modification Al. 1; entrée en vigueur au 01.08.2025; Introduction Art. 21a; entrée en vigueur au 01.08.2025; Introduction Art. 23, Al. 2; entrée en vigueur au 01.08.2025; Introduction Art. 23a; entrée en vigueur au 01.08.2025; Introduction Art. 29, Al. 3; entrée en vigueur au 01.08.2025; Introduction Art. 32, Al. 2-3; entrée en vigueur au 01.08.2025; Introduction Art. 34a; entrée en vigueur au 01.08.2025; Introduction Art. 48a; entrée en vigueur au 01.08.2025
+[^20-1]: Modif. 2 du 05.11.2025: Modification Al. 1; entrée en vigueur au 01.08.2025
+
+#### Art. 21a
+
+**Travail de maturité [^21-1]**
+
+<sup>1</sup> Dans la variante bimodale, l'étudiant effectue, en 3<sup>e</sup> année, un travail de maturité qui donne lieu à une note de maturité en 4<sup>e</sup> année.
+
+[^21-1]: Modif. 2 du 05.11.2025: Introduction tArt; entrée en vigueur au 01.08.2025; Introduction Al. 1; entrée en vigueur au 01.08.2025; Introduction Art. 21a; entrée en vigueur au 01.08.2025
 
 #### Art. 22
 
-**Nombre de notes [^21-1]**
+**Nombre de notes [^21a-1]**
 
 <sup>1</sup> Le nombre minimum de notes requis pour établir la note annuelle d'une discipline correspond, en principe, au nombre de périodes d'enseignement hebdomadaires dans la discipline considérée, plus 2.
 
-[^21-1]: Modif. 1 du 28.06.2023: Modification Al. 1; entrée en vigueur au 01.08.2023
+[^21a-1]: Modif. 1 du 28.06.2023: Modification Al. 1; entrée en vigueur au 01.08.2023
 
 #### Art. 23
 
@@ -264,10 +274,26 @@ arrête
 - a. obtenir un total des notes égal à au moins autant de fois 4 points qu'il y a de notes ;
 - b. obtenir au moins 16 points dans un groupe constitué des disciplines suivantes :
 - 1\. en 1<sup>re</sup> année : du français, de la deuxième langue nationale, de l'anglais et des mathématiques ;
-- 2\. en 2<sup>e</sup> année : du français, de la moyenne des moyennes des notes de la deuxième langue nationale et de l'anglais, arrondie à la note ou à la demi-note, des mathématiques et de l'option spécifique ;
+- 2\. en 2<sup>e</sup> année : du français, de la moyenne des moyennes des notes de la deuxième langue nationale et de l'anglais, arrondie à la note ou à la note au demi-point, des mathématiques et de l'option spécifique ;
 - c. ne pas avoir plus de quatre notes inférieures à 4.
 
-[^22-1]: Modif. 2 du 05.11.2025: Introduction Art. 15, Al. 2; entrée en vigueur au 01.08.2025; Introduction Art. 21a; entrée en vigueur au 01.08.2025; Modification Al. 1, b, 2; entrée en vigueur au 01.08.2025; Introduction Al. 2; entrée en vigueur au 01.08.2025; Introduction Art. 23a; entrée en vigueur au 01.08.2025; Introduction Art. 29, Al. 3; entrée en vigueur au 01.08.2025; Introduction Art. 32, Al. 2-3; entrée en vigueur au 01.08.2025; Introduction Art. 34a; entrée en vigueur au 01.08.2025; Introduction Art. 48a; entrée en vigueur au 01.08.2025
+<sup>2</sup> Dans la variante bimodale, pour qu'un bulletin soit suffisant au sens de l'article 13, alinéa 1 REM, l'étudiant doit remplir les conditions suivantes :
+
+- a. obtenir un total des notes égal à au moins autant de fois 4 points qu'il y a de notes ;
+- b. en 2<sup>e</sup> et 3<sup>e</sup> année : obtenir au moins 16 points dans un groupe constitué des disciplines suivantes :
+- 1\. 2<sup>e</sup> année : du français, de la deuxième langue nationale, de l'anglais et des mathématiques ;
+- 2\. 3<sup>e</sup> année : du français, de la moyenne des moyennes de la deuxième langue nationale et de l'anglais arrondie à la note ou à la note au demi-point, des mathématiques et de l'option spécifique ;
+- c. ne pas avoir plus de quatre notes inférieures à 4.
+
+[^22-1]: Modif. 2 du 05.11.2025: Modification Al. 1, b, 2; entrée en vigueur au 01.08.2025; Introduction Al. 2; entrée en vigueur au 01.08.2025
+
+#### Art. 23a
+
+**Redoublement [^23-1]**
+
+<sup>1</sup> Dans la variante bimodale, l'étudiant qui a déjà redoublé peut effectuer la 4<sup>e</sup> année une seconde fois.
+
+[^23-1]: Modif. 2 du 05.11.2025: Introduction Art. 23a; entrée en vigueur au 01.08.2025
 
 #### Art. 24
 
@@ -287,11 +313,11 @@ arrête
 
 **Durée de la formation [^25-1]**
 
-<sup>1</sup> La formation pour adultes menant au certificat de culture générale dure trois ans.
+<sup>1</sup> A l'exception de l'année additionnelle, la formation pour adultes menant au certificat d'Ecole de culture générale dure trois ans.
 
 <sup>2</sup> Sur demande écrite et motivée de l'étudiant, le directeur peut autoriser le fractionnement d'une année scolaire sur deux années consécutives. Dans ce cas, les résultats obtenus au terme de la première année sont pris en compte pour établir le bulletin annuel au terme de la seconde année du fractionnement.
 
-[^25-1]: Modif. 2 du 05.11.2025: Introduction Art. 15, Al. 2; entrée en vigueur au 01.08.2025; Introduction Art. 21a; entrée en vigueur au 01.08.2025; Introduction Art. 23, Al. 2; entrée en vigueur au 01.08.2025; Introduction Art. 23a; entrée en vigueur au 01.08.2025; Modification Al. 1; entrée en vigueur au 01.08.2025; Introduction Art. 29, Al. 3; entrée en vigueur au 01.08.2025; Introduction Art. 32, Al. 2-3; entrée en vigueur au 01.08.2025; Introduction Art. 34a; entrée en vigueur au 01.08.2025; Introduction Art. 48a; entrée en vigueur au 01.08.2025
+[^25-1]: Modif. 2 du 05.11.2025: Modification Al. 1; entrée en vigueur au 01.08.2025
 
 #### Art. 27
 
@@ -307,11 +333,11 @@ arrête
 
 <sup>1</sup> Le choix du domaine professionnel s'effectue durant la 2<sup>e</sup> année de la formation.
 
-<sup>2</sup> L'étudiant qui répète la 3<sup>e</sup> année de la formation peut changer de domaine professionnel au début de l'année.
+<sup>2</sup> L'étudiant qui répète la 3<sup>e</sup> année de la formation peut changer de domaine professionnel au début de l'année. Ce changement n'est pas autorisé en cas de répétition de l'année additionnelle.
 
 <sup>3</sup> Le directeur décide de l'ouverture des domaines professionnels en fonction du nombre d'inscriptions.
 
-[^27-1]: Modif. 2 du 05.11.2025: Introduction Art. 15, Al. 2; entrée en vigueur au 01.08.2025; Introduction Art. 21a; entrée en vigueur au 01.08.2025; Introduction Art. 23, Al. 2; entrée en vigueur au 01.08.2025; Introduction Art. 23a; entrée en vigueur au 01.08.2025; Modification Al. 2; entrée en vigueur au 01.08.2025; Introduction Art. 29, Al. 3; entrée en vigueur au 01.08.2025; Introduction Art. 32, Al. 2-3; entrée en vigueur au 01.08.2025; Introduction Art. 34a; entrée en vigueur au 01.08.2025; Introduction Art. 48a; entrée en vigueur au 01.08.2025
+[^27-1]: Modif. 2 du 05.11.2025: Modification Al. 2; entrée en vigueur au 01.08.2025
 
 #### Art. 29
 
@@ -321,7 +347,9 @@ arrête
 
 <sup>2</sup> A titre exceptionnel et sur demande écrite et motivée, un candidat peut être dispensé d'effectuer la 1<sup>re</sup> année de l'Ecole de culture générale pour adultes et être admis directement en 2<sup>e</sup> année, lorsqu'il bénéficie d'un niveau avancé de connaissances.
 
-[^28-1]: Modif. 2 du 05.11.2025: Introduction Art. 15, Al. 2; entrée en vigueur au 01.08.2025; Introduction Art. 21a; entrée en vigueur au 01.08.2025; Introduction Art. 23, Al. 2; entrée en vigueur au 01.08.2025; Introduction Art. 23a; entrée en vigueur au 01.08.2025; Introduction Al. 3; entrée en vigueur au 01.08.2025; Introduction Art. 32, Al. 2-3; entrée en vigueur au 01.08.2025; Introduction Art. 34a; entrée en vigueur au 01.08.2025; Introduction Art. 48a; entrée en vigueur au 01.08.2025
+<sup>3</sup> L'admission en 3<sup>e</sup> année de l'Ecole de culture générale pour adultes dans le cadre de l'année additionnelle fait en règle générale directement suite à l'obtention du certificat d'Ecole de culture générale. Une interruption de deux ans au maximum depuis l'obtention du certificat d'Ecole de culture générale peut être admise pour des justes motifs.
+
+[^28-1]: Modif. 2 du 05.11.2025: Introduction Al. 3; entrée en vigueur au 01.08.2025
 
 #### Art. 30
 
@@ -345,9 +373,13 @@ arrête
 
 **Stage extrascolaire [^31-1]**
 
-<sup>1</sup> L'étudiant de l'Ecole de culture générale pour adultes est dispensé d'effectuer le stage extrascolaire prévu par l'article 11 RECG.
+<sup>1</sup> Le stage extrascolaire prévu à l'article 11 RECG est en principe réalisé au cours de la 2<sup>e</sup> ou de la 3<sup>e</sup> année.
 
-[^31-1]: Modif. 2 du 05.11.2025: Introduction Art. 15, Al. 2; entrée en vigueur au 01.08.2025; Introduction Art. 21a; entrée en vigueur au 01.08.2025; Introduction Art. 23, Al. 2; entrée en vigueur au 01.08.2025; Introduction Art. 23a; entrée en vigueur au 01.08.2025; Introduction Art. 29, Al. 3; entrée en vigueur au 01.08.2025; Modification Al. 1; entrée en vigueur au 01.08.2025; Introduction Al. 2-3; entrée en vigueur au 01.08.2025; Introduction Art. 34a; entrée en vigueur au 01.08.2025; Introduction Art. 48a; entrée en vigueur au 01.08.2025
+<sup>2</sup> L'étudiant peut être dispensé d'effectuer le stage extrascolaire s'il justifie d'une expérience professionnelle préalable, en lien avec le domaine professionnel choisi, acquise avant son entrée en Ecole de culture générale pour adultes.
+
+<sup>3</sup> Le directeur statue sur l'octroi de la dispense.
+
+[^31-1]: Modif. 2 du 05.11.2025: Modification Al. 1; entrée en vigueur au 01.08.2025; Introduction Al. 2-3; entrée en vigueur au 01.08.2025
 
 #### Art. 33
 
@@ -360,6 +392,14 @@ arrête
 **Conditions lors du redoublement**
 
 <sup>1</sup> L'article 16 alinéa 1 RECG ne s'applique pas à l'étudiant de l'Ecole de culture générale pour adultes.
+
+#### Art. 34a
+
+**Redoublement de l'année additionnelle [^34-1]**
+
+<sup>1</sup> L'étudiant ayant redoublé au cours de la formation ayant conduit à l'obtention de son premier certificat d'Ecole de culture générale n'est pas autorisé à redoubler l'année additionnelle.
+
+[^34-1]: Modif. 2 du 05.11.2025: Introduction Art. 34a; entrée en vigueur au 01.08.2025
 
 #### Art. 35
 
@@ -475,13 +515,13 @@ arrête
 
 **Session de rattrapage [^46-2]**
 
-<sup>1</sup> En cas d'échec à l'examen, les cours de la Voie passerelle ne peuvent en principe pas être répétés. Le directeur peut consentir des exceptions, sur demande écrite et motivée de l'étudiant.
+<sup>1</sup> En cas d'échec à l'examen, les cours de la Voie passerelle ne peuvent en principe pas être répétés. Uniquement dans des cas de rigueur, le directeur peut consentir des exceptions, sur demande écrite et motivée de l'étudiant.
 
 <sup>2</sup> L'étudiant peut repasser une fois l'examen en cas d'échec, lors d'une session de rattrapage qui se déroule au mois d'août suivant la première tentative. Le directeur statue sur les exceptions dûment motivées.
 
 <sup>3</sup> Les disciplines pour lesquelles le candidat a obtenu au moins la note de 5.0 lors de la première tentative sont considérées comme acquises.
 
-[^46-2]: Modif. 2 du 05.11.2025: Introduction Art. 15, Al. 2; entrée en vigueur au 01.08.2025; Introduction Art. 21a; entrée en vigueur au 01.08.2025; Introduction Art. 23, Al. 2; entrée en vigueur au 01.08.2025; Introduction Art. 23a; entrée en vigueur au 01.08.2025; Introduction Art. 29, Al. 3; entrée en vigueur au 01.08.2025; Introduction Art. 32, Al. 2-3; entrée en vigueur au 01.08.2025; Introduction Art. 34a; entrée en vigueur au 01.08.2025; Modification Al. 1; entrée en vigueur au 01.08.2025; Introduction Art. 48a; entrée en vigueur au 01.08.2025
+[^46-2]: Modif. 2 du 05.11.2025: Modification Al. 1; entrée en vigueur au 01.08.2025
 
 ## Chapitre V Dispositions transitoires et finales
 
@@ -494,6 +534,14 @@ arrête
 <sup>2</sup> Pour l'année scolaire 2022-2023, l'étudiant qui a commencé l'Ecole de culture générale pour adultes avant l'année scolaire 2021-2022 l'achève selon l'ancien droit.
 
 <sup>3</sup> Dès l'année scolaire 2023-2024, l'ensemble des étudiants de l'Ecole de culture générale pour adultes est soumis au présent règlement.
+
+#### Art. 48a
+
+**Dispositions transitoires de la modification du 5 novembre 2025 [^48-1]**
+
+<sup>1</sup> Les modifications de l'article 32 (stage extrascolaire) introduites par la révision du 5 novembre 2025 s'appliquent aux étudiants qui entament ou répètent leur 3<sup>e</sup> année de l'Ecole de culture générale pour adultes ou l'année additionnelle à compter de la rentrée scolaire 2027-2028. Les étudiants qui achèvent leur formation avant cette date sont soumis à l'ancien droit et ne sont pas soumis à l'obligation d'effectuer le stage extrascolaire.
+
+[^48-1]: Modif. 2 du 05.11.2025: Introduction Art. 48a; entrée en vigueur au 01.08.2025
 
 #### Art. 49
 
