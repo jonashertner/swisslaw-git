@@ -3,20 +3,20 @@ canton: SG
 number: "962.17"
 title: Verordnung über die Bewährungshilfe
 language: de
-version: 2018-01-01
-valid_until: 2025-07-31
-version_adopted: 2018-02-06
+version: 2025-08-01
+valid_until: 2026-04-30
+version_adopted: 2025-06-17
 adopted: 1993-05-25
 in_force: 1993-07-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/962.17"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2371/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3786/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Bewährungshilfe
 
-vom 25.05.1993 (Stand 01.01.2018)
+vom 25.05.1993 (Stand 01.08.2025)
 
 Landammann und Regierungsrat des Kantons St.Gallen
 
@@ -40,19 +40,19 @@ als Verordnung:[^ingress-3]
 
 #### Art. 2
 
-**Mitarbeiter**
+**Mitarbeiterin oder Mitarbeiter**
 
-<sup>1</sup> Der Leiter der Bewährungshilfe teilt die zu betreuende Person einem Mitarbeiter zur selbständigen Beratung und Betreuung zu.
+<sup>1</sup> Die Leiterin oder der Leiter der Bewährungshilfe teilt die zu betreuende Person einer Mitarbeiterin oder einem Mitarbeiter zur selbständigen Beratung und Betreuung zu.
 
 #### Art. 3
 
-**Freiwillige Helfer**
+**Freiwillige Helferinnen oder freiwillige Helfer**
 
-<sup>1</sup> Der Mitarbeiter kann für die Beratung und Betreuung freiwillige Helfer beiziehen.
+<sup>1</sup> Die Mitarbeiterin oder der Mitarbeiter kann für die Beratung und Betreuung freiwillige Helferinnen oder freiwillige Helfer beiziehen.
 
-<sup>2</sup> Der freiwillige Helfer unterliegt der gleichen Schweigepflicht wie der Mitarbeiter.
+<sup>2</sup> Die freiwillige Helferin oder der freiwillige Helfer unterliegt der gleichen Schweigepflicht wie die Mitarbeiterin oder der Mitarbeiter.
 
-<sup>3</sup> Dem freiwilligen Helfer werden die Spesen entschädigt.
+<sup>3</sup> Der freiwilligen Helferin oder dem freiwilligen Helfer werden die Spesen entschädigt.
 
 ## Aufgaben
 
@@ -62,10 +62,10 @@ als Verordnung:[^ingress-3]
 
 <sup>1</sup> Die Bewährungshilfe St.Gallen:
 
-- a) übt die vom Richter oder der Vollzugsbehörde angeordnete Bewährungshilfe aus. Sie leistet und vermittelt die dafür erforderliche Sozial- und Fachhilfe;
+- a) übt die von der Richterin oder vom Richter oder der Vollzugsbehörde angeordnete Bewährungshilfe aus. Sie leistet und vermittelt die dafür erforderliche Sozial- und Fachhilfe;
 - a<sup>bis</sup>) sorgt für die Eignungsabklärung, die Erstellung des Vollzugsplans, die psychosoziale Begleitung und die technische Kontrolle beim Vollzug von Freiheitsstrafen in Form der elektronischen Überwachung;
-- b) überwacht die Einhaltung der ambulanten Behandlungen und der Weisungen, wenn sich der Verurteilte in Freiheit befindet;
-- c) sorgt auf Ansuchen des Betroffenen oder der zuständigen Behörde für die soziale Betreuung der erwachsenen Insassen der Gefängnisse;
+- b) überwacht die Einhaltung der ambulanten Behandlungen und der Weisungen, wenn sich die oder der Verurteilte in Freiheit befindet;
+- c) …
 - d) sorgt auf Ansuchen der weggewiesenen Person für die Erstberatung nach häuslicher Gewalt;
 - e) führt bei Bedarf spezielle Trainingskurse durch.
 
@@ -77,9 +77,9 @@ als Verordnung:[^ingress-3]
 
 <sup>1</sup> Die Bewährungshilfe richtet sich nach dem Schweizerischen Strafgesetzbuch.[^5-1]
 
-<sup>2</sup> Eigenständigkeit und Eigenverantwortung des Verurteilten sowie die Eingliederung in die Gesellschaft werden gezielt gefördert. Die Bewährungshilfe St.Gallen hilft insbesondere bei der Suche von Unterkunft und Arbeit sowie bei der Regulierung und Sanierung der finanziellen Verhältnisse. Sie stimmt die Entlassungsvorbereitung mit den Einrichtungen des Straf- und Massnahmenvollzugs ab.
+<sup>2</sup> Eigenständigkeit und Eigenverantwortung der oder des Verurteilten sowie die Eingliederung in die Gesellschaft werden gezielt gefördert. Die Bewährungshilfe St.Gallen hilft insbesondere bei der Suche von Unterkunft und Arbeit sowie bei der Regulierung und Sanierung der finanziellen Verhältnisse. Sie stimmt die Entlassungsvorbereitung mit den Einrichtungen des Straf- und Massnahmenvollzugs ab.
 
-<sup>3</sup> Die Betreuung kann nach Ablauf der Probezeit ausnahmsweise fortgesetzt werden, wenn der Verurteilte es wünscht und der Amtsleiter zustimmt.
+<sup>3</sup> Die Betreuung kann nach Ablauf der Probezeit ausnahmsweise fortgesetzt werden, wenn die oder der Verurteilte es wünscht und die Amtsleiterin oder der Amtsleiter zustimmt.
 
 [^5-1]: Art. 44 Abs. 2, Art. 46 Abs. 4, Art. 62 Abs. 3 und 4, Art. 62a Abs. 5 und 6, Art. 63a Abs. 4, Art. 64a Abs. 1, 2 und 4, Art. 87 Abs. 2, Art. 89 Abs. 2 und 3, Art. 93 und Art. 95 des Schweizerischen Strafgesetzbuches vom 21. Dezember 1937, SR [311.0](https://db.clex.ch/link/Bund/311.0/de).
 
@@ -95,13 +95,13 @@ als Verordnung:[^ingress-3]
 
 **c) Aufenthaltsnachforschung und Zuführung**
 
-<sup>1</sup> Die Bewährungshilfe St.Gallen kann den Verurteilten, der sich der angeordneten Betreuung entzieht, zur Aufenthaltsnachforschung polizeilich ausschreiben lassen oder dessen Zuführung verlangen.
+<sup>1</sup> Die Bewährungshilfe St.Gallen kann die Verurteilte oder den Verurteilten, die oder der sich der angeordneten Betreuung entzieht, zur Aufenthaltsnachforschung polizeilich ausschreiben lassen oder deren oder dessen Zuführung verlangen.
 
 #### Art. 8
 
 **Ambulante Behandlungen und Weisungen**
 
-<sup>1</sup> Die Bewährungshilfe St.Gallen schliesst mit dem Verurteilten und der Therapieperson eine Behandlungsvereinbarung ab, in der insbesondere geregelt werden:
+<sup>1</sup> Die Bewährungshilfe St.Gallen schliesst mit der oder dem Verurteilten und der Therapieperson eine Behandlungsvereinbarung ab, in der insbesondere geregelt werden:
 
 - a) Ziele und Art der ambulanten Behandlung;
 - b) Beginn, Häufigkeit und Dauer der Konsultationen;
@@ -110,7 +110,7 @@ als Verordnung:[^ingress-3]
 
 <sup>2</sup> Sie überprüft regelmässig, ob:
 
-- 1\. der Verurteilte die ambulante Behandlung oder die Weisung einhält;
+- 1\. die oder der Verurteilte die ambulante Behandlung oder die Weisung einhält;
 - 2\. die ambulante Behandlung fortzusetzen oder aufzuheben ist;
 - 3\. die Weisungen durchführbar, zweckmässig und erforderlich sind.
 
@@ -120,11 +120,11 @@ als Verordnung:[^ingress-3]
 
 <sup>1</sup> Die Bewährungshilfe St.Gallen macht der anordnenden Stelle Mitteilung, wenn:
 
-- a) sich der Verurteilte der Bewährungshilfe entzieht oder Abmachungen nicht einhält;
-- b) der Verurteilte Weisungen missachtet;
+- a) sich die oder der Verurteilte der Bewährungshilfe entzieht oder Abmachungen nicht einhält;
+- b) die oder der Verurteilte Weisungen missachtet;
 - c) Bewährungshilfe oder Weisungen nicht durchführbar oder nicht mehr erforderlich sind.
 
-<sup>2</sup> Sie berichtet dem Amt für Justizvollzug über den Verlauf der ambulanten Behandlung und macht Mitteilung, wenn der Verurteilte die Behandlungsvereinbarung trotz Mahnung nicht einhält. Sie stellt Antrag auf Aufhebung der Behandlung, wenn:
+<sup>2</sup> Sie berichtet dem Amt für Justizvollzug über den Verlauf der ambulanten Behandlung und macht Mitteilung, wenn die oder der Verurteilte die Behandlungsvereinbarung trotz Mahnung nicht einhält. Sie stellt Antrag auf Aufhebung der Behandlung, wenn:
 
 - 1\. diese erfolgreich abgeschlossen werden kann;
 - 2\. deren Fortführung als aussichtslos oder für Dritte als gefährlich erscheint;
@@ -136,7 +136,7 @@ als Verordnung:[^ingress-3]
 
 **Betreuung im Untersuchungsverfahren**
 
-<sup>1</sup> Mitarbeiter und freiwilliger Helfer können einen Inhaftierten nach Absprache mit dem Untersuchungsrichter besuchen.
+<sup>1</sup> Mitarbeiterin oder Mitarbeiter und freiwillige Helferin oder freiwilliger Helfer können eine inhaftierte Person nach Absprache mit der Untersuchungsrichterin oder dem Untersuchungsrichter besuchen.
 
 #### Art. 10
 
