@@ -5,11 +5,12 @@ title: "Ordinaziun davart la procedura d'admissiun a las scolas medias"
 short: "ordinaziun d'admissiun a las scolas medias"
 language: rm
 version: 2025-08-01
+corrected: 2025-05-08
 version_adopted: 2025-05-06
 adopted: 2008-09-02
 in_force: 2008-09-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/425.060"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3554/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3553/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.

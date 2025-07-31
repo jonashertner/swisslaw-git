@@ -5,11 +5,12 @@ title: "Ordinanza sulla procedura d'ammissione alle scuole medie superiori"
 short: "Ordinanza sull'ammissione"
 language: it
 version: 2025-08-01
+corrected: 2025-05-08
 version_adopted: 2025-05-06
 adopted: 2008-09-02
 in_force: 2008-09-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/425.060"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3554/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3553/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -64,7 +65,7 @@ visti l'art. 45 della Costituzione cantonale[^ingress-1] e l'art. 19 della legge
 - 1\. in caso di passaggio diretto da una sezione di un'altra scuola media superiore nel Cantone dei Grigioni o fuori Cantone alla stessa sezione, se sono dati i presupposti per la continuazione della formazione in questa sezione della scuola d'origine secondo le disposizioni statali ivi vigenti e se sono date conoscenze sufficienti della lingua cantonale che nella sezione viene utilizzata in prevalenza quale lingua di insegnamento; nella classificazione si deve tenere conto dello stato di promozione nella scuola d'origine;
 - 2\. …
 - 3\. in caso di accesso diretto alla sezione sulla base di una procedura d'ammissione cantonale o di una procedura d'ammissione equivalente riconosciuta dallo Stato superata in modo definitivo fuori Cantone, purché siano date conoscenze sufficienti della lingua cantonale che nella sezione viene utilizzata in prevalenza quale lingua di insegnamento;
-- 4\. in caso di accesso alla quinta classe del liceo subito dopo il conseguimento del certificato di una scuola media di commercio o di scuola media di informatica con maturità professionale, di un certificato di scuola specializzata o di una maturità specializzata; l'opzione specifica va però scelta in base al certificato.
+- 4\. in caso di ammissione alla quinta classe del liceo subito dopo il conseguimento del certificato di una scuola media di commercio o di scuola media di informatica con maturità professionale, di un certificato di scuola specializzata o di una maturità specializzata; l'opzione specifica va però scelta in base al certificato.
 
 <sup>2</sup> Un'ammissione conformemente al capoverso 1 è esclusa per allievi che nell'anno scolastico in corso o in quello precedente non hanno superato l'esame d'ammissione cantonale alla sezione o la procedura d'ammissione alla sezione secondo disposizioni interne della scuola.
 
