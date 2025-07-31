@@ -4,11 +4,10 @@ number: "415.21"
 title: Personalverordnung der Universität Zürich (PVO-UZH)
 short: PVO-UZH
 language: de
-version: "2023-01-01"
-nachtrag: "119"
-valid_until: 2025-08-01
+version: "2025-08-01"
+nachtrag: "129"
 adopted: 2014-09-29
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_21-2014_09_29-2015_04_01-119.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_21-2014_09_29-2015_04_01-129.html"
 text: pdf
 ---
 
@@ -70,7 +69,7 @@ beschliesst:
 
 **1**
 
-- 1\. 1. 23 - 119 § 5.[^3-1] <sup>1</sup> Die Universitätsleitung stellt das Universitätspersonal an.
+- 1\. 7. 25 - 129 § 5.[^3-1] <sup>1</sup> Die Universitätsleitung stellt das Universitätspersonal an.
 
 **c. Universitätsleitung**
 
@@ -162,7 +161,7 @@ beschliesst:
 
 **3**
 
-- 1\. 1. 23 - 119 § 13.[^12-1] Arbeitsverhältnisse von Förderungsprofessorinnen und -professoren sind befristet. Die Dauer der Anstellung richtet sich nach dem Förderungsprojekt.
+- 1\. 7. 25 - 129 § 13.[^12-1] Arbeitsverhältnisse von Förderungsprofessorinnen und -professoren sind befristet. Die Dauer der Anstellung richtet sich nach dem Förderungsprojekt.
 
 **d. Förderungsprofessorinnen und -professoren**
 
@@ -231,7 +230,7 @@ Für Professorinnen und Professoren besteht keine Probezeit.
 
 **5**
 
-- 1\. 1. 23 - 119 § 20. <sup>1</sup> Universitätspersonal kann von dem für die Anstellung zuständigen Organ versetzt werden, wenn[^18-1]
+- 1\. 7. 25 - 129 § 20. <sup>1</sup> Universitätspersonal kann von dem für die Anstellung zuständigen Organ versetzt werden, wenn[^18-1]
 
 **Versetzung**
 
@@ -348,18 +347,20 @@ Hilfsassistierende werden in Lohnklasse 10 eingereiht. Verfügen sie über einen
 
 <sup>2</sup> Die Einreihung der Rektorin oder des Rektors sowie der Verwaltungsdirektorinnen und -direktoren erfolgt durch den Universitätsrat.[^32-1]
 
-**Pikettdienst**
+**Samstags-, Sonntags-, Nacht- und Pikettdienst**
 
-§ 32 a.[^32-2] <sup>1</sup> Der Universitätsrat regelt die Entschädigung für die Leistung von Pikettdienst. Die Ansätze können von den Vorgaben nach § 133 Abs. 3 der Vollzugsverordnung zum Personalgesetz vom 19. Mai 1999 (VVO)[^32-3] abweichen.
-
-<sup>2</sup> Die Universitätsleitung legt fest, wer innerhalb der Universität befugt ist, Pikettdienst im Sinne von § 133 Abs. 2 VVO anzuordnen.
+§ 32 a.[^32-2] <sup>1</sup> Der Universitätsrat regelt die Vergütungen und den Ausgleich für die Arbeitsleistungen an Samstagen, Sonntagen, Feiertagen und in der Nacht sowie den Pikettdienst.
 
 **7**
 
-- 1\. 1. 23 - 119
+- 1\. 7. 25 - 129
+
+<sup>2</sup> Er kann von den geltenden Bestimmungen der Vollzugsverordnung zum Personalgesetz vom 19. Mai 1999 (VVO)[^32-3] abweichen. Die Vergütungen für die Leistungen gemäss Abs. 1 entsprechen mindestens den kantonalen Ansätzen.
+
+<sup>3</sup> Die Universitätsleitung legt fest, in welchen Einheiten Pikettdienst zu leisten ist.
 
 [^32-1]: Fassung gemäss URB vom 24. August 2020 (OS 75, 581; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
-[^32-2]: Eingefügt durch URB vom 29. August 2016 (OS 72, 2; ABl 2016-09-16). In Kraft seit 1. August 2017.
+[^32-2]: Fassung gemäss URB vom 27. Januar 2025 (OS 80, 147; ABl 2025-03-21). In Kraft seit 1. August 2025. 1. 7. 25 - 129 19
 [^32-3]: LS 177.111.
 
 ### B. Übrige Rechte und Pflichten des Universitätspersonals
@@ -454,13 +455,13 @@ Die Universitätsverwaltung übergibt den Angestellten bei Beginn des Arbeitsver
 
 <sup>1</sup> Professorinnen und Professoren führen Lehrveranstaltungen durch.
 
+**9**
+
+- 1\. 7. 25 - 129
+
 <sup>2</sup> Die Lehrverpflichtung beträgt in der Regel a. 6–10 Semesterwochenstunden für ordentliche Professorinnen und Professoren,
 
 - b. 4–6 Semesterwochenstunden für ausserordentliche Professorinnen und Professoren,
-
-**9**
-
-- 1\. 1. 23 - 119
 
 - c. 2–4 Semesterwochenstunden für Assistenzprofessorinnen und -professoren sowie für Förderungsprofessorinnen und -professoren.
 
@@ -548,20 +549,24 @@ Lehrveranstaltungen im Rahmen von Weiterbildungsangeboten der Universität werde
 
 <sup>6</sup> Professorinnen und Professoren behalten für die Dauer der Wiederanstellung ihre bisherige akademische Stellung.
 
+**11**
+
+- 1\. 7. 25 - 129
+
 <sup>7</sup> Die Wiederanstellung begründet keinen Anspruch auf Versicherung in einer Vorsorgeeinrichtung.
 
 <sup>8</sup> Die Universitätsleitung regelt die Einzelheiten.
 
-**11**
+[^50-1]: Fassung gemäss URB vom 24. August 2020 (OS 75, 581; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
+[^50-2]: Eingefügt durch URB vom 24. August 2020 (OS 75, 581; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
 
-- 1\. 1. 23 - 119 § 52. <sup>1</sup> Hat sich der Kanton oder die Universität an der Einkaufssumme beteiligt, ist der Altersrücktritt vor Vollendung des 65. Altersjahres in der Regel erst nach 15 tatsächlichen Dienstjahren möglich, frühestens auf das der Vollendung des 60. Altersjahres folgende Semesterende.
+#### § 52
 
 **b. Vorzeitiger Rücktritt**
 
-<sup>2</sup> Wer vor dem 65. Altersjahr zurücktreten will, teilt dies der Universitätsleitung zwei Jahre im Voraus mit.
+<sup>1</sup> Hat sich der Kanton oder die Universität an der Einkaufssumme beteiligt, ist der Altersrücktritt vor Vollendung des 65. Altersjahres in der Regel erst nach 15 tatsächlichen Dienstjahren möglich, frühestens auf das der Vollendung des 60. Altersjahres folgende Semesterende.
 
-[^50-1]: Fassung gemäss URB vom 24. August 2020 (OS 75, 581; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
-[^50-2]: Eingefügt durch URB vom 24. August 2020 (OS 75, 581; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
+<sup>2</sup> Wer vor dem 65. Altersjahr zurücktreten will, teilt dies der Universitätsleitung zwei Jahre im Voraus mit.
 
 ### 4. Abschnitt: Nebenbeschäftigungen, Erfindungen und urheberrecht-
 
@@ -652,7 +657,7 @@ Die Universitätsleitung kann die Bewilligung entziehen, wenn die Voraussetzunge
 
 **13**
 
-- 1\. 1. 23 - 119 § 60. <sup>1</sup> Wer eine Nebenbeschäftigung ausübt, ist gegenüber der Universität in der Regel abgabepflichtig.
+- 1\. 7. 25 - 129 § 60. <sup>1</sup> Wer eine Nebenbeschäftigung ausübt, ist gegenüber der Universität in der Regel abgabepflichtig.
 
 **Abgabepflicht**
 
@@ -736,7 +741,7 @@ Die Universitätsleitung kann die Bewilligung entziehen, wenn die Voraussetzunge
 
 **15**
 
-- 1\. 1. 23 - 119 § 67. <sup>1</sup> Die Universitätsleitung legt die Abgabe fest.
+- 1\. 7. 25 - 129 § 67. <sup>1</sup> Die Universitätsleitung legt die Abgabe fest.
 
 **Höhe der Abgabe**
 
@@ -826,7 +831,7 @@ Die Abteilung Finanzen der Universität erhebt die von der Universitätsleitung 
 
 **17**
 
-- 1\. 1. 23 - 119
+- 1\. 7. 25 - 129
 
 <sup>2</sup> Die Beratungs- und Schlichtungsstelle dient der Unterstützung bei arbeitsbezogenen Problemen sowie der Lösung von arbeitsbezogenen Konflikten.
 
@@ -887,4 +892,5 @@ Hilfsassistierende, die im Zeitpunkt des Inkrafttretens dieser Verordnung in die
 ## Weitere Fussnoten
 
 - [9] LS 415.211.
-- [17] Fassung gemäss URB vom 9. Juni 2022 (OS 77, 523; ABl 2022-06-17). In Kraft seit 1. Januar 2023. 1. 1. 23 - 119 19
+- [11] Eingefügt durch URB vom 29. August 2016 (OS 72, 2; ABl 2016-09-16). In Kraft seit 1. August 2017.
+- [17] Fassung gemäss URB vom 9. Juni 2022 (OS 77, 523; ABl 2022-06-17). In Kraft seit 1. Januar 2023.
