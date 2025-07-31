@@ -4,13 +4,12 @@ number: "113.111"
 title: Gesetz über die politischen Rechte
 short: GpR
 language: de
-version: 2024-01-01
-valid_until: 2025-07-31
-version_adopted: 2022-09-07
+version: 2025-08-01
+version_adopted: 2024-03-27
 adopted: 1996-09-22
 in_force: 1997-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/113.111"
-pdf: "https://bgs.so.ch/api/de/versions/5312/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5522/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5312/pdf_file"
 
 (GpR)
 
-Vom 22.09.1996 (Stand 01.01.2024)
+Vom 22.09.1996 (Stand 01.08.2025)
 
 Der Kantonsrat von Solothurn
 
@@ -450,7 +449,7 @@ beschliesst:
 
 <sup>1</sup> Ist eine Stelle vakant, ist sie auszuschreiben.
 
-<sup>2</sup> Die Ausschreibung erfolgt vor oder zusammen mit der Einberufung zum Wahlgang.
+<sup>2</sup> Die Ausschreibung erfolgt vor oder zusammen mit der Einberufung zum Wahlgang. In der Ausschreibung für das Amtsgerichtspräsidium ist der Beschäftigungsgrad anzugeben.
 
 <sup>3</sup> Die Anmeldefrist ist spätestens auf den 5. letzten Montag, 17.00 Uhr, vor dem Wahltag anzusetzen.
 
