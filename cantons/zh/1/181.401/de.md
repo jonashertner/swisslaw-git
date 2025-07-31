@@ -3,11 +3,11 @@ canton: ZH
 number: "181.401"
 title: Vollzugsverordnung zur Personalverordnung
 language: de
-version: "2025-01-01"
-nachtrag: "127"
-valid_until: 2025-08-01
+version: "2025-08-01"
+nachtrag: "130"
+valid_until: 2026-01-01
 adopted: 2011-07-06
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_401-2011_07_06-2012_01_01-127.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_401-2011_07_06-2012_01_01-130.html"
 text: pdf
 ---
 
@@ -67,7 +67,7 @@ Soweit diese Verordnung nicht ausdrücklich etwas anderes bestimmt, gelten für 
 
 **1**
 
-- 1\. 1. 25 - 127
+1.10. 25 - 130
 
 ### B. Personalcontrolling und Stellenplan
 
@@ -166,7 +166,7 @@ Der Kirchenrat überwacht die Einreihungsordnung und die Entwicklung des Persona
 
 **3**
 
-- 1\. 1. 25 - 127
+1.10. 25 - 130
 
 <sup>2</sup> Das fiktive Eintrittsdatum wird bei einem Wiedereintritt in den Dienst einer Kirchgemeinde oder der Landeskirche angepasst, ebenso bei einmaligen oder mehrfachen unbezahlten Urlauben, deren Dauer im Einzelfall insgesamt drei Monate übersteigt, wobei nur die diese Dauer übersteigende Zeit berücksichtigt wird.
 
@@ -250,7 +250,7 @@ Bestehen für eine Pfarrerin, einen Pfarrer, eine Angestellte oder einen Angeste
 
 **5**
 
-- 1\. 1. 25 - 127
+1.10. 25 - 130
 
 <sup>3</sup> Bei einer Entlassung aus dem Amt gemäss Art. 132 Abs. 2 der Kirchenordnung zeigt der Kirchenrat dies den Pfarrerinnen und Pfarrern sowie der Kirchenpflege mindestens neun Monate im Voraus an. In einer Kirchgemeinde tätige Pfarrerinnen und Pfarrer teilen dem Kirchenrat mindestens sechs Monate im Voraus den genauen Zeitpunkt des Ausscheidens aus dem Amt mit.
 
@@ -330,9 +330,7 @@ Kommen Pfarrerinnen, Pfarrer und Angestellte ihrer Informationspflicht gemäss �
 
 **7**
 
-- 1\. 1. 25 - 127
-
-- c. dem Gespräch mit den Angestellten über ihre berufliche und persönliche Entwicklung,
+1.10. 25 - 130 c. dem Gespräch mit den Angestellten über ihre berufliche und persönliche Entwicklung,
 
 - d. den Rückmeldungen der Angestellten zum Führungsverhalten der vorgesetzten Stelle.
 
@@ -414,7 +412,7 @@ Kommen Pfarrerinnen, Pfarrer und Angestellte ihrer Informationspflicht gemäss �
 
 **9**
 
-- 1\. 1. 25 - 127
+1.10. 25 - 130
 
 <sup>2</sup> Die Geschäftsordnung der Kirchenpflege kann ein anderes Mitglied der Kirchenpflege oder das personalverantwortliche Mitglied einer unterstellten Kommission mit der Führung des Mitarbeitendengesprächs gemäss Abs. 1 beauftragen.
 
@@ -477,7 +475,7 @@ Kommen Pfarrerinnen, Pfarrer und Angestellte ihrer Informationspflicht gemäss �
 
 **11**
 
-- 1\. 1. 25 - 127
+1.10. 25 - 130
 
 <sup>3</sup> Die Personalakten sind verschlossen aufzubewahren sowie vor dem Zugriff, der Einsichtnahme und Veränderungen durch unbefugte Personen zu schützen, insbesondere wenn sie zur Bearbeitung von Personalgeschäften durch verschiedene Stellen versandt werden müssen.
 
@@ -550,9 +548,7 @@ Die Bestimmungen über die Personalakten und Personaldossiers sowie über die Be
 
 **13**
 
-- 1\. 1. 25 - 127
-
-- b. Staatsangehörigkeit, Bürgerort und Niederlassungs- oder Aufenthaltsstatus ausländischer Staatsangehöriger,
+1.10. 25 - 130 b. Staatsangehörigkeit, Bürgerort und Niederlassungs- oder Aufenthaltsstatus ausländischer Staatsangehöriger,
 
 - c. Geburtsdatum der Ehegattin, des Ehegatten, der eingetragenen Partnerin oder des eingetragenen Partners,
 
@@ -659,7 +655,7 @@ Die Bestimmungen über die Personalakten und Personaldossiers sowie über die Be
 
 **15**
 
-- 1\. 1. 25 - 127 § 44.[^43-1] <sup>1</sup> Die Anstellungsinstanz setzt den Anfangslohn unter Berücksichtigung von § 55 Abs. 1 und 2 PVO im unteren oder mittleren Bereich einer Lohnklasse fest.
+1.10. 25 - 130 § 44.[^43-1] <sup>1</sup> Die Anstellungsinstanz setzt den Anfangslohn unter Berücksichtigung von § 55 Abs. 1 und 2 PVO im unteren oder mittleren Bereich einer Lohnklasse fest.
 
 **Anfangslohn (§ 63 Abs. 1 PVO)**
 
@@ -753,7 +749,7 @@ Erfordern die Aufgaben von Pfarrerinnen, Pfarrern und Angestellten eine Mitwirku
 
 **17**
 
-- 1\. 1. 25 - 127
+1.10. 25 - 130
 
 <sup>2</sup> Die mittelfristige individuelle Lohnerhöhung bei Pfarrerinnen und Pfarrern entspricht der durchschnittlichen Lohnentwicklung bei den Angestellten der Gesamtkirchlichen Dienste aufgrund erfolgter individueller Lohnerhöhungen in diesem Zeitraum.
 
@@ -770,7 +766,7 @@ Erfordern die Aufgaben von Pfarrerinnen, Pfarrern und Angestellten eine Mitwirku
 <sup>2</sup> Die Nachgewährung der verweigerten individuellen Lohnerhöhung ist ausgeschlossen.
 
 [^52-1]: Fassung gemäss B vom 12. Juni 2024 (OS 79, 379; ABl 2024-06-28). In Kraft seit 1. Januar 2025.
-[^52-2]: Nummerierung gemäss B vom 12. Juni 2024 (OS 79, 379; ABl 2024-06-28). In Kraft seit 1. Januar 2025. 1. 1. 25 - 127 71
+[^52-2]: Nummerierung gemäss B vom 12. Juni 2024 (OS 79, 379; ABl 2024-06-28). In Kraft seit 1. Januar 2025.
 [^52-3]: Fassung gemäss B vom 20. September 2017 (OS 72, 604; ABl 2017-10-06). In Kraft seit 1. Januar 2018.
 
 #### § 53
@@ -853,7 +849,7 @@ Kein Anspruch auf den 13. Monatslohn besteht auf:
 
 **19**
 
-- 1\. 1. 25 - 127
+1.10. 25 - 130
 
 <sup>2</sup> Pfarrerinnen, Pfarrer und Angestellte, die mit einem vollzeitlichen Pensum bei einer Anstellungsinstanz tätig sind, erhalten auf Nebenbeschäftigungen gemäss § 93 PVO, die sie bei einer Anstellungsinstanz ausüben, kein Dienstaltersgeschenk.
 
@@ -926,7 +922,7 @@ Funktionszulagen, Einmalzulagen und Leistungsprämien sind nicht an die Termine 
 
 **21**
 
-- 1\. 1. 25 - 127
+1.10. 25 - 130
 
 ### 4. Abschnitt: Ersatz von dienstlichen Auslagen und Sachschaden
 
@@ -1000,7 +996,7 @@ Als dienstliche Auslagen gelten Auslagen, die Pfarrerinnen, Pfarrern und Angeste
 
 **23**
 
-- 1\. 1. 25 - 127
+1.10. 25 - 130
 
 <sup>3</sup> Pfarrerinnen, Pfarrer und Angestellte können im amtlichen oder dienstlichen Interesse Drittpersonen einladen. Sie dokumentieren zuhanden der gemäss § 76 Abs. 1 zuständigen Behörde Art und Teilnehmende des Anlasses sowie das amtliche oder dienstliche Interesse an der Einladung.
 
@@ -1094,7 +1090,7 @@ Beziehen in einer Kirchgemeinde tätige Pfarrerinnen und Pfarrer ihre Ferien nic
 
 **25**
 
-- 1\. 1. 25 - 127
+1.10. 25 - 130
 
 <sup>2</sup> Die zusätzliche Ferienwoche gemäss § 78 Abs. 1 PVO, die Angestellten ab Beginn des Kalenderjahres zusteht, in dem sie das 60. Altersjahr vollenden, wird Angestellten im katechetischen Dienst durch einen Zuschlag auf den Lohn von 1,96% abgegolten.[^82-1]
 
@@ -1164,7 +1160,7 @@ Der Ferienanspruch von Angestellten im Stundenlohn wird durch einen Zuschlag zum
 
 **27**
 
-- 1\. 1. 25 - 127
+1.10. 25 - 130
 
 <sup>2</sup> Ist eine gegenseitige Stellvertretung nicht möglich, so regeln Pfarrerinnen und Pfarrer in Institutionen und in Pfarrämtern der Gesamtkirchlichen Dienste die Stellvertretung in Absprache mit Pfarrerinnen und Pfarrern, die in einer Kirchgemeinde im Einzugsgebiet der Institution oder des Pfarramtes der Gesamtkirchlichen Dienste tätig sind. Bei Pfarrämtern mit gemischter Trägerschaft erfolgt die Stellvertretung nach Möglichkeit durch die verantwortlichen Personen der weiteren Trägerinnen und Träger.
 
@@ -1247,9 +1243,7 @@ Der Ferienanspruch von Angestellten im Stundenlohn wird durch einen Zuschlag zum
 
 **29**
 
-- 1\. 1. 25 - 127
-
-- d. An- und Abmeldung bei Behörden die notwendige Zeit,
+1.10. 25 - 130 d. An- und Abmeldung bei Behörden die notwendige Zeit,
 
 - e. Vorladungen vor Gericht oder vor eine andere Behörde die notwendige Zeit.
 
@@ -1341,7 +1335,7 @@ Unbezahlter Urlaub kann gewährt werden, wenn die amtlichen oder dienstlichen Ve
 
 **31**
 
-- 1\. 1. 25 - 127
+1.10. 25 - 130
 
 ### D. Elternschaft
 
@@ -1425,7 +1419,7 @@ Als Lohn im Sinn der Bestimmungen dieses Abschnitts gelten der vereinbarte Lohn 
 
 **33**
 
-- 1\. 1. 25 - 127
+1.10. 25 - 130
 
 <sup>4</sup> In einer Kirchgemeinde tätige Pfarrerinnen und Pfarrer informieren gleichzeitig die Kirchenpflege, Pfarrerinnen und Pfarrer in Institutionen sowie Angestellte die vorgesetzte Stelle.
 
@@ -1491,11 +1485,9 @@ Als Lohn im Sinn der Bestimmungen dieses Abschnitts gelten der vereinbarte Lohn 
 
 **35**
 
-- 1\. 1. 25 - 127 § 117. <sup>1</sup> Die Anstellungsinstanz kann den Lohn kürzen, wenn Pfarrerinnen, Pfarrer und Angestellte
+1.10. 25 - 130 § 117. <sup>1</sup> Die Anstellungsinstanz kann den Lohn kürzen, wenn Pfarrerinnen, Pfarrer und Angestellte a. einen Unfall oder eine Krankheit absichtlich oder grobfahrlässig herbeigeführt haben oder diese die Folge einer ausserberuflich bewusst eingegangenen, besonderen Gefährdung sind,
 
 **c. Kürzung**
-
-- a. einen Unfall oder eine Krankheit absichtlich oder grobfahrlässig herbeigeführt haben oder diese die Folge einer ausserberuflich bewusst eingegangenen, besonderen Gefährdung sind,
 
 - b. ein ärztliches Zeugnis nicht oder nicht rechtzeitig einreichen,
 
@@ -1567,7 +1559,7 @@ Als Lohn im Sinn der Bestimmungen dieses Abschnitts gelten der vereinbarte Lohn 
 
 **37**
 
-- 1\. 1. 25 - 127 § 124. Erleiden Pfarrerinnen, Pfarrer oder Angestellte, die nicht nach dem Bundesgesetz über die Unfallversicherung[^123-1] versichert sind, im Rahmen ihrer amtlichen oder dienstlichen Tätigkeit einen Berufsunfall, so erbringt die Anstellungsinstanz die Leistungen gemäss dem Bundesgesetz über die Unfallversicherung, wenn die amtliche oder dienstliche Tätigkeit bei der Anstellungsinstanz nicht durch eine Unfallversicherung aufgrund einer anderen beruflichen Tätigkeit versichert ist.
+1.10. 25 - 130 § 124. Erleiden Pfarrerinnen, Pfarrer oder Angestellte, die nicht nach dem Bundesgesetz über die Unfallversicherung[^123-1] versichert sind, im Rahmen ihrer amtlichen oder dienstlichen Tätigkeit einen Berufsunfall, so erbringt die Anstellungsinstanz die Leistungen gemäss dem Bundesgesetz über die Unfallversicherung, wenn die amtliche oder dienstliche Tätigkeit bei der Anstellungsinstanz nicht durch eine Unfallversicherung aufgrund einer anderen beruflichen Tätigkeit versichert ist.
 
 [^123-1]: SR 832.20.
 
@@ -1627,11 +1619,7 @@ Als Lohn im Sinn der Bestimmungen dieses Abschnitts gelten der vereinbarte Lohn 
 
 **39**
 
-- 1\. 1. 25 - 127
-
-- e. Kinder und Stiefkinder der verstorbenen Person, für deren Unterhalt sie zur Hauptsache aufgekommen ist, sowie Kinder, welche die verstorbene Person unentgeltlich zu dauernder Pflege und Erziehung aufgenommen hat, sofern die Kinder und Stiefkinder
-
-- 1\. das 20. Altersjahr noch nicht vollendet haben,
+1.10. 25 - 130 e. Kinder und Stiefkinder der verstorbenen Person, für deren Unterhalt sie zur Hauptsache aufgekommen ist, sowie Kinder, welche die verstorbene Person unentgeltlich zu dauernder Pflege und Erziehung aufgenommen hat, sofern die Kinder und Stiefkinder 1. das 20. Altersjahr noch nicht vollendet haben,
 
 - 2\. das 25. Altersjahr noch nicht vollendet haben und in der Ausbildung oder wegen körperlicher oder geistiger Gebrechen bis zu höchstens einem Drittel erwerbsfähig sind.
 
@@ -1705,7 +1693,7 @@ Als Lohn im Sinn der Bestimmungen dieses Abschnitts gelten der vereinbarte Lohn 
 
 **41**
 
-- 1\. 1. 25 - 127
+1.10. 25 - 130
 
 <sup>2</sup> In einer Kirchgemeinde tätige Pfarrerinnen und Pfarrer haben Anspruch auf einen Freisonntag bei einer Dienstleistung als Armeeseelsorger von mindestens fünf Tagen pro Kalenderjahr und einen weiteren Freisonntag bei einer Dienstleistung als Armeeseelsorger von zehn und mehr Tagen pro Kalenderjahr.
 
@@ -1777,7 +1765,7 @@ Für Arbeitszeit, die über die zeitliche Beanspruchung gemäss § 131 Abs. 2 hi
 
 **43**
 
-- 1\. 1. 25 - 127
+1.10. 25 - 130
 
 <sup>3</sup> Die jährliche Arbeitszeit beträgt bei einem vollen Pensum brutto 2184 Stunden (52 Wochen (cid:2) 42 Stunden). Bei einem teilzeitlichen Pensum wird die jährliche Arbeitszeit aufgrund des betreffenden Beschäftigungsgrads ermittelt. Für die Berechnung der Netto-Jahres-Arbeitszeit werden der individuelle Ferienanspruch, die auf einen Wochentag fallenden Ruhetage sowie Arbeitszeitreduktionen vor Ruhetagen in Abzug gebracht.
 
@@ -1785,35 +1773,36 @@ Für Arbeitszeit, die über die zeitliche Beanspruchung gemäss § 131 Abs. 2 hi
 
 <sup>5</sup> Die Anstellungsinstanzen können weitere Regelungen zur flexiblen Gestaltung der Arbeitszeit sowie zur Beschäftigungssicherung erlassen.
 
-[^136-1]: Fassung gemäss B vom 20. September 2017 (OS 72, 604; ABl 2017-10-06). In Kraft seit 1. Januar 2018.
-
-#### § 137
-
 **Katechetinnen und Katecheten**
 
-<sup>1</sup> Die Arbeitszeit von Angestellten im katechetischen Dienst richtet sich nach der ordnungsgemässen Erfüllung der Unterrichtsverpflichtung im Rahmen der religionspädagogischen Module, nach den weiteren Berufspflichten sowie nach der obligatorischen und freiwilligen Weiterbildung[^136-1].
+§ 137.[^136-1] <sup>1</sup> Die Arbeitszeit von Angestellten im katechetischen Dienst richtet sich nach der ordnungsgemässen Erfüllung der Unterrichtsverpflichtung im Rahmen der religionspädagogischen Module, nach den weiteren Berufspflichten sowie nach der obligatorischen und freiwilligen Weiterbildung[^136-2].
 
-<sup>2</sup> Die Unterrichtsverpflichtung für ein volles Pensum umfasst 28 Wochenlektionen. Eine Lektion dauert 45 Minuten.
+<sup>2</sup> Die Unterrichtsverpflichtung für ein volles Pensum umfasst 20 Wochenlektionen. Sie entspricht einem vollen Pensum von brutto 2184 Stunden (52 Wochen × 42 Stunden). Eine Lektion dauert 45 Minuten.
 
 <sup>3</sup> Die Unterrichtsvorbereitung, die Zusammenarbeit in der Kirchgemeinde, mit den Eltern und anderen Erziehungsberechtigten sowie mit der Kirchenpflege und die Erledigung administrativer Arbeiten finden unabhängig vom Pensum in der unterrichtsfreien Zeit statt und bilden Bestandteile der Lektionen gemäss Abs. 2.
 
-<sup>4</sup> Die Weiterbildung[^137-1] ausserhalb der Unterrichtszeit im Umfang von bis zu vier Wochen pro Jahr berechtigt zu keinen zusätzlichen Lohnansprüchen.
+<sup>4</sup> Die Weiterbildung[^136-2] ausserhalb der Unterrichtszeit im Umfang von bis zu vier Wochen pro Jahr berechtigt zu keinen zusätzlichen Lohnansprüchen.
 
-<sup>5</sup> §§ 136, 139 Abs. 2–4 und 140–151 sind nicht anwendbar.
+<sup>5</sup> Die Kirchgemeinden legen die Anzahl und die zeitliche Gestaltung der religionspädagogischen Module für das folgende Schuljahr jeweils bis zum 30. April fest und teilen die Stellenpensen zu. Eine Erhöhung des Pensums ist nur mit Zustimmung der Angestellten möglich. Unterschreitet das zugeteilte Stellenpensum den Beschäftigungsgrad gemäss der bestehenden Anstellungsverfügung, sind die Bestimmungen über die Beendigung des Anstellungsverhältnisses anwendbar.
 
-[^137-1]: Fassung gemäss B vom 20. September 2017 (OS 72, 604; ABl 2017-10-06). In Kraft seit 1. Januar 2018.
+<sup>6</sup> §§ 136, 139 Abs. 2–4 und 140–151 sind nicht anwendbar.
+
+[^136-1]: Fassung gemäss B vom 7. Mai 2025 (OS 80, 162; ABl 2025-05-16). In Kraft seit 1. August 2025. 1.10. 25 - 130 71
+[^136-2]: Fassung gemäss B vom 20. September 2017 (OS 72, 604; ABl 2017-10-06). In Kraft seit 1. Januar 2018.
 
 #### § 138
 
 **Ruhetage a. Grundsatz**
 
-<sup>1</sup> Sofern der Kirchenrat in besonderen Fällen keine abweichende Regelung trifft, gelten neben den Samstagen und Sonntagen a. als zusätzliche ganze oder halbe Ruhetage Neujahrstag, Berchtoldstag, Karfreitag, Ostermontag, 1.Mai, Auffahrt, Pfingstmontag, 1.August, Nachmittag des 24. Dezember, erster und zweiter Weihnachtstag sowie weitere Tage nach örtlichem Gebrauch,
+<sup>1</sup> Sofern der Kirchenrat in besonderen Fällen keine abweichende Regelung trifft, gelten neben den Samstagen und Sonntagen a. als zusätzliche ganze oder halbe Ruhetage Neujahrstag, Berchtoldstag, Karfreitag, Ostermontag, 1. Mai, Auffahrt, Pfingstmontag, 1.August, Nachmittag des 24. Dezember, erster und zweiter Weihnachtstag sowie weitere Tage nach örtlichem Gebrauch,
 
 - b. als Arbeitstage mit einer reduzierten Sollzeit von sechs Stunden: die Tage vor Karfreitag und Auffahrt sowie der Silvester; an diesen Tagen wird der Arbeitsschluss, vorbehältlich abweichender Regelungen, auf 15.00 Uhr festgesetzt.
 
-<sup>2</sup> Für die Ruhetage von Angestellten, die ihren Dienst regelmässig an Sonntagen und kirchlichen Feiertagen leisten, gelten Abs. 1 lit. b und § 132 a Abs. 1.[^138-1] § 139. <sup>1</sup> Zusätzliche ganze oder halbe Ruhetage, die auf Samstage oder Sonntage fallen, werden nicht nachgewährt. Die gleiche Regelung gilt sinngemäss für Anstellungsverhältnisse, in denen am Samstag oder Sonntag voll- oder teilzeitlich gearbeitet wird.
+<sup>2</sup> Für die Ruhetage von Angestellten, die ihren Dienst regelmässig an Sonntagen und kirchlichen Feiertagen leisten, gelten Abs. 1 lit. b und § 132 a Abs. 1.[^138-1]
 
 **b. Nachgewährung**
+
+§ 139. <sup>1</sup> Zusätzliche ganze oder halbe Ruhetage, die auf Samstage oder Sonntage fallen, werden nicht nachgewährt. Die gleiche Regelung gilt sinngemäss für Anstellungsverhältnisse, in denen am Samstag oder Sonntag voll- oder teilzeitlich gearbeitet wird.
 
 <sup>2</sup> Teilzeitbeschäftigten wird unabhängig von der gewählten Regelarbeitszeit ein ihrem Beschäftigungsgrad entsprechender Anteil an Ruhetagen und Arbeitstagen mit reduzierter Sollzeit gewährt. Der Kirchenrat berechnet jeweils zu Jahresbeginn die auf solche Tage entfallenden Stunden.
 
@@ -1835,6 +1824,10 @@ Für Arbeitszeit, die über die zeitliche Beanspruchung gemäss § 131 Abs. 2 hi
 
 <sup>3</sup> Als Regelarbeitszeit gilt die für den Regelfall vereinbarte Aufteilung der wöchentlichen Arbeitszeit.
 
+**45**
+
+1.10. 25 - 130
+
 <sup>4</sup> Die Regelarbeitszeit wird innerhalb des Tagesrahmens unter Berücksichtigung der dienstlichen und persönlichen Verhältnisse vereinbart. Die Vereinbarung kann sich auf die tägliche Sollzeit beschränken oder durch feste zeitliche Einteilungen ergänzt werden.
 
 #### § 141
@@ -1845,11 +1838,11 @@ Für Arbeitszeit, die über die zeitliche Beanspruchung gemäss § 131 Abs. 2 hi
 
 <sup>2</sup> Für zusätzliche Pausen können pro halben Arbeitstag höchstens 15 Minuten auf die Arbeitszeit angerechnet werden.
 
-**45**
-
-- 1\. 1. 25 - 127 § 142. <sup>1</sup> Der Arbeitszeitsaldo ergibt sich aus der täglich geleisteten anrechenbaren Arbeitszeit abzüglich der Sollzeit.
+#### § 142
 
 **Arbeitszeitsaldo a. Grundsatz**
+
+<sup>1</sup> Der Arbeitszeitsaldo ergibt sich aus der täglich geleisteten anrechenbaren Arbeitszeit abzüglich der Sollzeit.
 
 <sup>2</sup> Als anrechenbare Arbeitszeit gilt die während des Tagesrahmens geleistete Arbeitszeit, einschliesslich bewilligter Abwesenheiten gemäss §§ 92–100 und von Abordnungen gemäss § 103.
 
@@ -1917,15 +1910,19 @@ Bei bezahltem Urlaub gemäss §§ 92–100 wird die tatsächliche Abwesenheit, h
 
 <sup>1</sup> Angestellten bis Lohnklasse 11 wird für Überstunden bei Zeitausgleich ein Zeitzuschlag und bei Barvergütung ein Geldzuschlag von 25% gewährt.
 
+**47**
+
+1.10. 25 - 130
+
 <sup>2</sup> Der massgebende Stundenansatz für die Vergütung beträgt bei einer wöchentlichen Arbeitszeit von 42 Stunden <sup>1</sup>(cid:3)2184 des Jahreslohns.
 
 <sup>3</sup> Pro Kalenderjahr werden höchstens 120 Überstunden vergütet. Die Anstellungsinstanz kann ausnahmsweise eine höhere Stundenzahl vergüten.
 
-**47**
-
-- 1\. 1. 25 - 127 § 150. <sup>1</sup> Die Angestellten führen auf Vertrauensbasis eine persönliche Zeitbuchhaltung, in der sie die Arbeitszeiten und Abwesenheiten aufführen. Die vorgesetzte Stelle kann jederzeit Einblick in diese Zeitbuchhaltung nehmen.
+#### § 150
 
 **Zeitbuchhaltung a. Grundsatz29**
+
+<sup>1</sup> Die Angestellten führen auf Vertrauensbasis eine persönliche Zeitbuchhaltung, in der sie die Arbeitszeiten und Abwesenheiten aufführen. Die vorgesetzte Stelle kann jederzeit Einblick in diese Zeitbuchhaltung nehmen.
 
 <sup>2</sup> Die Angestellten verantworten die Richtigkeit ihrer Zeitbuchhaltung. Sie erstellen jeweils per Monats- und Jahresende eine Abrechnung und unterzeichnen diese. Die vorgesetzte Stelle bestätigt deren Kenntnisnahme durch ihr Visum.
 
@@ -1935,7 +1932,7 @@ Bei bezahltem Urlaub gemäss §§ 92–100 wird die tatsächliche Abwesenheit, h
 
 **b. Befreiung**
 
-§ 150 a.[^149-1] <sup>1</sup> Die Anstellungsinstanz kann Angestellte ab Lohnklasse 15 von der Pflicht befreien, eine persönliche Zeitbuchhaltung zu führen.
+§ 150 a.[^150-1] <sup>1</sup> Die Anstellungsinstanz kann Angestellte ab Lohnklasse 15 von der Pflicht befreien, eine persönliche Zeitbuchhaltung zu führen.
 
 <sup>2</sup> §§ 142, 143, 145–149 und 150 Abs. 1–3 sind auf Angestellte gemäss Abs. 1 nicht anwendbar. Die Anrechnung sowie der Ausgleich eines Arbeitszeitsaldos und von Überstunden sind ausgeschlossen.
 
@@ -1943,7 +1940,7 @@ Bei bezahltem Urlaub gemäss §§ 92–100 wird die tatsächliche Abwesenheit, h
 
 <sup>4</sup> Die Anstellungsinstanz schützt die Gesundheit der Angestellten gemäss Abs. 1 durch geeignete Massnahmen.
 
-[^149-1]: Eingefügt durch B vom 12. Juni 2024 (OS 79, 379; ABl 2024-06-28). In Kraft seit 1. Januar 2025.
+[^150-1]: Eingefügt durch B vom 12. Juni 2024 (OS 79, 379; ABl 2024-06-28). In Kraft seit 1. Januar 2025.
 
 #### § 151
 
@@ -1955,11 +1952,9 @@ Bei bezahltem Urlaub gemäss §§ 92–100 wird die tatsächliche Abwesenheit, h
 
 <sup>3</sup> Der am Arbeitsort geleistete Bereitschaftsdienst und die im Rahmen eines Bereitschaftsdienstes erbrachte dienstliche Tätigkeit gelten als Überstunden, sofern die Voraussetzungen gemäss § 147 erfüllt sind. Im Übrigen werden sie auf den Arbeitszeitsaldo angerechnet.
 
-<sup>4</sup> Die Anstellungsinstanz kann für Bereitschaftsdienste ausserhalb des Arbeitsortes eine Entschädigung ausrichten.[^151-1]
+<sup>4</sup> Die Anstellungsinstanz kann für Bereitschaftsdienste ausserhalb des Arbeitsortes eine Entschädigung ausrichten.[^151-1] § 152. <sup>1</sup> Die Kirchenpflegen regeln die Öffnungszeiten der Dienste der Kirchgemeinde, der Kirchenrat jene der Gesamtkirchlichen Dienste.
 
 **Öffnungszeiten**
-
-§ 152. <sup>1</sup> Die Kirchenpflegen regeln die Öffnungszeiten der Dienste der Kirchgemeinde, der Kirchenrat jene der Gesamtkirchlichen Dienste.
 
 <sup>2</sup> Die Kirchenpflegen und der Kirchenrat können die Dienste der Kirchgemeinde beziehungsweise die Gesamtkirchlichen Dienste während allgemeinen Festtagspausen, insbesondere über Weihnacht und Neujahr, oder in Ferienzeiten ganz oder teilweise schliessen. Die während solchen Schliessungen ausfallende Arbeitszeit unterliegt grundsätzlich dem Zeitausgleich.
 
@@ -1994,7 +1989,7 @@ Bei bezahltem Urlaub gemäss §§ 92–100 wird die tatsächliche Abwesenheit, h
 
 **49**
 
-- 1\. 1. 25 - 127
+1.10. 25 - 130
 
 <sup>3</sup> Im Rahmen der Bewilligung gemäss Abs. 1 und 2 berücksichtigt die Anstellungsinstanz insbesondere,
 
@@ -2064,7 +2059,7 @@ Bei bezahltem Urlaub gemäss §§ 92–100 wird die tatsächliche Abwesenheit, h
 
 **51**
 
-- 1\. 1. 25 - 127 § 158 c.[^153-1] <sup>1</sup> Die Anstellungsinstanz entscheidet über die Beteiligung an den Kosten einer Weiterbildung.
+1.10. 25 - 130 § 158 c.[^153-1] <sup>1</sup> Die Anstellungsinstanz entscheidet über die Beteiligung an den Kosten einer Weiterbildung.
 
 **d. Entscheid**
 
@@ -2142,11 +2137,7 @@ Bei bezahltem Urlaub gemäss §§ 92–100 wird die tatsächliche Abwesenheit, h
 
 **53**
 
-- 1\. 1. 25 - 127
-
-- c. zu 25%, wenn
-
-- 1\. die Weiterbildung es Pfarrerinnen, Pfarrern und Angestellten ermöglicht, grundlegende Kenntnisse und Befähigungen zu erwerben, die auf einen möglichen neuen Aufgabenbereich vorbereiten, und zugleich wesentlich der beruflichen oder persönlichen Weiterentwicklung dient,
+1.10. 25 - 130 c. zu 25%, wenn 1. die Weiterbildung es Pfarrerinnen, Pfarrern und Angestellten ermöglicht, grundlegende Kenntnisse und Befähigungen zu erwerben, die auf einen möglichen neuen Aufgabenbereich vorbereiten, und zugleich wesentlich der beruflichen oder persönlichen Weiterentwicklung dient,
 
 - 2\. die Voraussetzungen gemäss lit. a und b nicht erfüllt sind, damit aber ein wesentlicher Beitrag zur arbeitsplatzbezogenen Gesamtsituation geleistet wird.
 
@@ -2220,7 +2211,7 @@ Bei bezahltem Urlaub gemäss §§ 92–100 wird die tatsächliche Abwesenheit, h
 
 **55**
 
-- 1\. 1. 25 - 127 § 163 b.[^162-1] Der Kirchenrat bezeichnet eine Stelle, die Pfarrerinnen, Pfarrer und Angestellte bei der Planung und Durchführung von Weiterbildungen sowie Weiterbildungsurlauben unterstützt und begleitet. Die Stelle begutachtet zuhanden der Anstellungsinstanz insbesondere Plan und Inhalte von Weiterbildungsurlauben.
+1.10. 25 - 130 § 163 b.[^162-1] Der Kirchenrat bezeichnet eine Stelle, die Pfarrerinnen, Pfarrer und Angestellte bei der Planung und Durchführung von Weiterbildungen sowie Weiterbildungsurlauben unterstützt und begleitet. Die Stelle begutachtet zuhanden der Anstellungsinstanz insbesondere Plan und Inhalte von Weiterbildungsurlauben.
 
 **Begleitung und Unterstützung**
 
@@ -2296,7 +2287,7 @@ Bei bezahltem Urlaub gemäss §§ 92–100 wird die tatsächliche Abwesenheit, h
 
 **57**
 
-- 1\. 1. 25 - 127
+1.10. 25 - 130
 
 <sup>7</sup> Während des Weiterbildungsurlaubs wird die Lohnzahlung weitergeführt. Pfarrerinnen, Pfarrern und Angestellten bleiben Rechte und Pflichten in Bezug auf das Pfarrhaus, die Pfarrwohnung oder die Dienstwohnung gewahrt.
 
@@ -2365,7 +2356,7 @@ Die Anstellungsinstanz kann Pfarrerinnen, Pfarrern und Angestellten für Vorschl
 
 **59**
 
-- 1\. 1. 25 - 127
+1.10. 25 - 130
 
 ### B. Pflichten
 
@@ -2441,7 +2432,7 @@ Leisten Pfarrerinnen, Pfarrer oder Angestellte der Einladung, sich einer vertrau
 
 **61**
 
-- 1\. 1. 25 - 127
+1.10. 25 - 130
 
 <sup>3</sup> Die Anstellungsinstanz setzt die zu leistenden Vergütungen fest und regelt deren Einzug.
 
@@ -2511,7 +2502,7 @@ Leisten Pfarrerinnen, Pfarrer oder Angestellte der Einladung, sich einer vertrau
 
 **63**
 
-- 1\. 1. 25 - 127 § 183. <sup>1</sup> Pfarrerinnen, Pfarrer und Angestellte bestätigen gegenüber der Anstellungsinstanz schriftlich, dass sie auf §§ 180–188 aufmerksam gemacht worden sind und die möglichen straf-, zivil- und personalrechtlichen Konsequenzen eines Missbrauchs von Internet, E-Mail und elektronischen Kommunikationsplattformen zur Kenntnis genommen haben.
+1.10. 25 - 130 § 183. <sup>1</sup> Pfarrerinnen, Pfarrer und Angestellte bestätigen gegenüber der Anstellungsinstanz schriftlich, dass sie auf §§ 180–188 aufmerksam gemacht worden sind und die möglichen straf-, zivil- und personalrechtlichen Konsequenzen eines Missbrauchs von Internet, E-Mail und elektronischen Kommunikationsplattformen zur Kenntnis genommen haben.
 
 **Schriftliche Bestätigung**
 
@@ -2595,7 +2586,7 @@ Bei in einer Kirchgemeinde tätigen Pfarrerinnen und Pfarrern sowie bei Pfarreri
 
 **65**
 
-- 1\. 1. 25 - 127
+1.10. 25 - 130
 
 <sup>2</sup> Der Urabstimmung unterliegen:
 
@@ -2685,7 +2676,7 @@ Der Kirchenrat kann die Lohnadministration für andere Anstellungsinstanzen übe
 
 **67**
 
-- 1\. 1. 25 - 127
+1.10. 25 - 130
 
 ### B. Besondere Anstellungsverhältnisse
 
@@ -2799,7 +2790,7 @@ Diese Verordnung tritt am 1. Januar 2012 in Kraft.
 
 **69**
 
-- 1\. 1. 25 - 127
+1.10. 25 - 130
 
 ### Übergangsbestimmung zur Änderung vom 27. März 2019 (OS 74, 259)
 
@@ -2812,6 +2803,10 @@ Der Anspruch gemäss § 82 Abs. 2 besteht ab dem Zeitpunkt des Inkrafttretens de
 I. Auf Weiterbildungsurlaube, die im Zeitpunkt des Inkrafttretens dieser Änderung der Vollzugsverordnung zur Personalverordnung gemäss § 167 Abs. 2 beantragt sind, bleiben §§ 165 Abs. 1 lit. a und 166 Abs. 1 lit. a in der Fassung vom 6. Juli 2011 anwendbar.
 
 II. Auf Weiterbildungsurlaube, die im Zeitpunkt des Inkrafttretens dieser Änderung der Vollzugsverordnung zur Personalverordnung gemäss § 167 Abs. 3 beantragt sind, ist § 167 Abs. 2 nicht anwendbar.
+
+### Übergangsbestimmung zur Änderung vom 7. Mai 2025 (OS 80, 162)
+
+Die Kirchgemeinden setzen § 137 Abs. 2 Sätze 1 und 2 spätestens binnen zweier Jahre nach dem Inkrafttreten dieser Bestimmung um.
 
 ### Anhang 1: Einreihungsplan
 
@@ -2857,7 +2852,7 @@ Administrative/r Leiter/in Chorleiter/in Erwachsenenbildner/in HF Katechet/in Or
 
 **73**
 
-- 1\. 1. 25 - 127
+1.10. 25 - 130
 
 [^hKlasse9-1]: Fassung gemäss B vom 4. September 2013 (OS 68, 388; ABl 2013-09-20). In Kraft seit 1. Januar 2014.
 
@@ -2903,7 +2898,7 @@ Abteilungsleiter/in Bereichsleiter/in Gemeindepfarrer/in Geschäftsleiter/in Pfa
 
 **75**
 
-- 1\. 1. 25 - 127
+1.10. 25 - 130
 
 ### Klasse 18
 
@@ -3001,7 +2996,7 @@ LK 1 2 3 4 5
 
 **77**
 
-- 1\. 1. 25 - 127
+1.10. 25 - 130
 
 ### Beträge der Lohnklassen
 
@@ -3035,7 +3030,7 @@ LK 16 17 41 172 279 183 251 40 170 882 181 766 39 169 486 180 279 38 168 089 178
 
 **79**
 
-- 1\. 1. 25 - 127
+1.10. 25 - 130
 
 ## Weitere Fussnoten
 
