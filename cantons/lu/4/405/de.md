@@ -4,13 +4,12 @@ number: "405"
 title: Verordnung zum Gesetz über die Volksschulbildung
 short: "Volksschulbildungsverordnung, VBV"
 language: de
-version: 2024-01-01
-valid_until: 2025-07-31
-version_adopted: 2023-06-27
+version: 2025-08-01
+version_adopted: 2025-02-04
 adopted: 2008-12-16
 in_force: 2009-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/405"
-pdf: "https://srl.lu.ch/api/de/versions/4147/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4514/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4147/pdf_file"
 
 (Volksschulbildungsverordnung, VBV)
 
-vom 16.12.2008 (Stand 01.01.2024)
+vom 16.12.2008 (Stand 01.08.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -392,6 +391,8 @@ beschliesst:
 <sup>1</sup> Der Kanton sorgt für ein ausreichendes und geeignetes Weiterbildungsangebot. Die Dienststelle Volksschulbildung kann bestimmte Angebote für obligatorisch erklären.
 
 <sup>2</sup> Die Schulleitung legt nach Absprache mit der Lehrperson Art und Umfang ihrer Weiterbildung fest.
+
+<sup>3</sup> Fehlt es für bestimmte Funktionen an qualifizierten Lehr- oder Fachpersonen kann der Besuch entsprechender Weiterbildungsangebote durch finanzielle Zuwendungen an die Teilnehmenden gefördert werden. Die Dienststelle Volksschulbildung bestimmt im Rahmen der verfügbaren Mittel die Angebote, die Voraussetzungen für die Unterstützung sowie deren Umfang.
 
 #### § 22b
 
