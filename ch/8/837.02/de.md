@@ -4,11 +4,11 @@ title: "Verordnung vom 31. August 1983 über die obligatorische Arbeitslosenvers
 short: AVIV
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205"
 language: de
-version: 2024-08-01
+version: 2025-08-01
 adopted: 1983-08-31
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20240801/de/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20240801-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20240801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20250801/de/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20250801-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20250801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20240801/de"
 
 (Arbeitslosenversicherungsverordnung, AVIV)
 
-vom 31. August 1983 (Stand am 1. August 2024)
+vom 31. August 1983 (Stand am 1. August 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -263,7 +263,9 @@ Als Berufe, in denen häufig wechselnde oder befristete Anstellungen üblich sin
 
 ### (Art. 11 Abs. 4 AVIG)
 
-<sup>1</sup> Erhält der Versicherte eine Ferienentschädigung in der Höhe von mindestens 20 Prozent des AHV-pflichtigen Lohnes, so ist die entsprechende Anzahl Ferientage vom anrechenbaren Arbeitsausfall abzuziehen, sofern
+<sup>1</sup>
+
+Erhält der Versicherte eine Ferienentschädigung in der Höhe von mindestens 20 Prozent des AHV-pflichtigen Lohnes, so ist die entsprechende Anzahl Ferientage vom anrechenbaren Arbeitsausfall abzuziehen, sofern:
 
 - a. die Ferienzeiten im betreffenden Berufszweig vorgegeben sind und
 - b. der Arbeitsausfall in eine solche Ferienzeit fällt.
@@ -825,7 +827,7 @@ Im Sinne von Artikel 22 Absatz 2 Buchstabe c AVIG berücksichtigt werden Invalid
 - e. nach den Rechtsvorschriften eines Mitgliedstaates der Europäischen Union;
 - f. nach den Rechtsvorschriften eines der EFTA-Mitgliedstaaten Norwegen, Island oder Liechtenstein.[^33-7]
 
-[^33-1]: Aufgehoben durch Ziff. I der V vom 28. Aug. 1991 ([AS 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)). Fassung gemäss Ziff. I der V vom 11. Dez. 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
+[^33-1]: Fassung gemäss Ziff. I der V vom 11. Dez. 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
 [^33-2]: Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 [^33-3]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^33-4]: Fassung gemäss Ziff. I der V vom 2. März 2012, in Kraft seit 1. April 2012 ([AS 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
@@ -878,7 +880,7 @@ Im Sinne von Artikel 22 Absatz 2 Buchstabe c AVIG berücksichtigt werden Invalid
 
 <sup>2</sup> Der Beitrag des Arbeitslosenversicherungsfonds beträgt einen Drittel der Prämie für die obligatorische Versicherung von Nichtberufsunfällen.[^36-5]
 
-[^36-1]: Aufgehoben durch Art. 6 Abs. 3 der V vom 24. März 1993 zum BB über Massnahmen in der Arbeitslosenversicherung ([AS 1993 1268](https://fedlex.data.admin.ch/eli/oc/1993/1268_1268_1268)). Fassung gemäss Ziff. I der V vom 11. Dez. 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
+[^36-1]: Fassung gemäss Ziff. I der V vom 11. Dez. 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
 [^36-2]: Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 [^36-3]: SR **832.2**
 [^36-4]: Fassung gemäss Anhang Ziff. 4 der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
@@ -1351,7 +1353,9 @@ Eine Betriebsabteilung ist einem Betrieb gleichgestellt, wenn sie eine mit eigen
 
 ### (Art. 33 Abs. 1 Bst. c AVIG)
 
-<sup>1</sup> Der Arbeitsausfall ist nicht anrechenbar
+<sup>1</sup>
+
+Der Arbeitsausfall ist nicht anrechenbar:
 
 - a. an den zwei Arbeitstagen unmittelbar vor und nach Feiertagen, die nicht auf einen Samstag oder Sonntag fallen;
 - b. an den fünf Arbeitstagen unmittelbar vor und nach Betriebsferien.
@@ -1418,7 +1422,7 @@ Weicht der Lohn im letzten Beitragsmonat um mindestens 10 Prozent vom Durchschni
 
 Die Höchstdauer der Kurzarbeitsentschädigung wird um sechs Abrechnungsperioden verlängert.
 
-[^57b-1]: Eingefügt durch Ziff. I der V vom 11. Febr. 2009 ([AS 2009 1027](https://fedlex.data.admin.ch/eli/oc/2009/158)). Fassung gemäss Ziff. I der V vom 19. Juni 2024, in Kraft vom 1. Aug. 2024 bis zum 31. Juli 2025 ([AS 2024 306](https://fedlex.data.admin.ch/eli/oc/2024/306)).
+[^57b-1]: Eingefügt durch Ziff. I der V vom 11. Febr. 2009 ([AS 2009 1027](https://fedlex.data.admin.ch/eli/oc/2009/158)). Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft vom 1. Aug. 2025 bis zum 31. Juli 2026 ([AS 2025 337](https://fedlex.data.admin.ch/eli/oc/2025/337)).
 
 #### Art. 58
 
@@ -1541,7 +1545,7 @@ Schlechtwetterentschädigung kann in den folgenden Erwerbszweigen ausgerichtet w
 - e.[^65-1] Waldwirtschaft, Baumschulen und Torfabbau, soweit sie nicht Nebenzweig eines landwirtschaftlichen Betriebes sind;
 - f. Ausbeutung von Lehmgruben sowie Ziegelei;
 - g. Berufsfischerei;
-- [tab] h.[^65-2] Transportgewerbe, soweit Fahrzeuge ausschliesslich für den Transport von Aushub oder Baumaterial von und zu Baustellen oder für den Abtransport von Sand oder Kies von der Abbaustelle verwendet werden;
+- h.[^65-2] Transportgewerbe, soweit Fahrzeuge ausschliesslich für den Transport von Aushub oder Baumaterial von und zu Baustellen oder für den Abtransport von Sand oder Kies von der Abbaustelle verwendet werden;
 - i.[^65-3] Sägerei.
 
 <sup>2</sup> …[^65-4]
@@ -1907,7 +1911,7 @@ Weist die kantonale Amtsstelle einen Versicherten an, einen Kurs zu besuchen, so
 
 Die Ausgleichsstelle kann Kontrollen der arbeitsmarktlichen Massnahmen im Sinne des AVIG durchführen.
 
-[^84-1]: Aufgehoben durch Ziff. I der V vom 18. Dez. 1996 ([AS 1997 60](https://fedlex.data.admin.ch/eli/oc/1997/60_60_60)). Eingefügt durch Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
+[^84-1]: Fassung gemäss Ziff. I der V vom 19. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4861](https://fedlex.data.admin.ch/eli/oc/2003/714)).
 [^84-2]: Fassung gemäss Ziff. I der V vom 19. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4861](https://fedlex.data.admin.ch/eli/oc/2003/714)).
 
 #### Art. 85
@@ -2818,7 +2822,7 @@ Die Ausgleichsstelle kann Gesuche um vorübergehende Kostenbeteiligung an der Op
 Die Abrechnung muss mindestens enthalten:
 
 - a. Angaben über den zu vergütenden Frankenbetrag;
-- [tab] b.[^120a-2] AHV-Nummer der versicherten Personen;
+- b.[^120a-2] AHV-Nummer der versicherten Personen;
 - c. Anzahl ausbezahlter Taggelder;
 - d. Sozialversicherungsbeiträge; und
 - e. die Kosten für die besuchten arbeitsmarktlichen Massnahmen.

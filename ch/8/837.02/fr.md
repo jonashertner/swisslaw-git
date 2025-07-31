@@ -4,11 +4,11 @@ title: "Ordonnance du 31 août 1983 sur l'assurance-chômage obligatoire et l'in
 short: OACI
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205"
 language: fr
-version: 2024-08-01
+version: 2025-08-01
 adopted: 1983-08-31
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20240801/fr/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20240801-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20240801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20250801/fr/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20250801-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20250801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20240801/fr"
 
 (Ordonnance sur l’assurance-chômage, OACI)
 
-du 31 août 1983 (État le 1<sup>er</sup> août 2024)
+du 31 août 1983 (État le 1<sup>er</sup> août 2025)
 
 Le Conseil fédéral suisse,
 
@@ -960,14 +960,13 @@ Le gain n’est pas assuré lorsque, durant la période de référence, il n’a
 
 #### Art. 40a
 
-**Conversion du gain mensuel en gain journalier**[^40a-1][^40a-2]
+**Conversion du gain mensuel en gain journalier**[^40a-1]
 
 ### (art. 23, al. 1, LACI)
 
 Le gain journalier se détermine en divisant le gain mensuel par 21,7.
 
-[^40a-1]: Anciennement art. 40*b*.
-[^40a-2]: Introduit par le ch. I de l’O du 25 avr. 1985, en vigueur depuis le 1<sup>er</sup> juil. 1985 ([RO 1985 648](https://fedlex.data.admin.ch/eli/oc/1985/648_648_648)).
+[^40a-1]: Anciennement art. 40*b*. Introduit par le ch. I de l’O du 25 avr. 1985, en vigueur depuis le 1<sup>er</sup> juil. 1985 ([RO 1985 648](https://fedlex.data.admin.ch/eli/oc/1985/648_648_648)).
 
 #### Art. 40b
 
@@ -1430,7 +1429,7 @@ Lorsque le salaire du dernier mois de cotisation s’écarte d’au moins 10 % d
 
 La durée maximum de l’indemnisation en cas de réduction de l’horaire de travail est prolongée de six périodes de décompte.
 
-[^57b-1]: Introduit par le ch. I de l’O du 11 fév. 2009 ([RO 2009 1027](https://fedlex.data.admin.ch/eli/oc/2009/158)). Nouvelle teneur selon le ch. I de l’O du 19 juin 2024, en vigueur du 1<sup>er</sup> août 2024 au 31 juil. 2025 ([RO 2024 306](https://fedlex.data.admin.ch/eli/oc/2024/306)).
+[^57b-1]: Introduit par le ch. I de l’O du 11 fév. 2009 ([RO 2009 1027](https://fedlex.data.admin.ch/eli/oc/2009/158)). Nouvelle teneur selon le ch. I de l’O du 14 mai 2025, en vigueur du 1<sup>er</sup> août 2025 au 31 juil. 2026 ([RO 2025 337](https://fedlex.data.admin.ch/eli/oc/2025/337)).
 
 #### Art. 58
 
@@ -1553,7 +1552,7 @@ L’indemnité en cas d’intempéries peut être versée dans les branches suiv
 - e.[^65-1] sylviculture, pépinières et extraction de tourbe, dans la mesure où ces activités ne sont pas des activités accessoires exercées parallèlement à une exploitation agricole;
 - f. extraction de terre glaise et tuilerie;
 - g. pêche professionnelle;
-- [tab] h.[^65-2] transports dans la mesure où les véhicules sont occupés exclusivement au transport de matériaux d’excavation et de construction vers ou à partir des chantiers ou au transport de matériaux provenant de lieux d’extraction de sable et de gravier;
+- h.[^65-2] transports dans la mesure où les véhicules sont occupés exclusivement au transport de matériaux d’excavation et de construction vers ou à partir des chantiers ou au transport de matériaux provenant de lieux d’extraction de sable et de gravier;
 - i.[^65-3] scierie.
 
 <sup>2</sup> …[^65-4]
@@ -2468,7 +2467,7 @@ Les révisions de la gestion des organes d’exécution de l’assurance-chômag
 - a. le contrôle des comptes et de l’inventaire (art. 109*a*);
 - b. le contrôle des applications informatiques (art. 109*b*);
 - c. le contrôle des paiements et les contrôles auprès des employeurs (art. 110);
-- [tab] d.[^109-2] le contrôle de la manière dont les autorités compétentes exécutent la loi.
+- d.[^109-2] le contrôle de la manière dont les autorités compétentes exécutent la loi.
 
 <sup>2</sup> L’organe de compensation peut confier ces tâches à un bureau fiduciaire.
 
