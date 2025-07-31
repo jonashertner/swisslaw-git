@@ -3,20 +3,19 @@ canton: BL
 number: "645.41"
 title: "Verordnung über die Berufs-, Studien- und Laufbahnberatung"
 language: de
-version: 2021-07-01
-valid_until: 2025-07-31
-version_adopted: 2021-06-29
+version: 2025-08-01
+version_adopted: 2025-01-21
 adopted: 2021-06-29
 in_force: 2021-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/645.41"
-pdf: "https://bl.clex.ch/api/de/versions/3060/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4169/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Berufs-, Studien- und Laufbahnberatung
 
-Vom 29.06.2021 (Stand 01.07.2021)
+Vom 29.06.2021 (Stand 01.08.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -66,6 +65,7 @@ beschliesst:
 - g. Sie führt nach Bedarf zielgruppenspezifische Beratungsangebote und erweiterte Angebote durch und bietet Kurse und Veranstaltungen an.
 - h. Sie arbeitet in einem stufenübergreifenden Fachgremium für Laufbahnfragen mit.
 - i. Sie stimmt ihre Angebote mit anderen kantonalen Stellen, dem Bund und den Organisationen der Arbeit ab.
+- j. Sie führt das bikantonale Programm «Mentoring für Jugendliche» für die Begleitung von Jugendlichen durch freiwillige Berufsleute.
 
 #### § 4
 
