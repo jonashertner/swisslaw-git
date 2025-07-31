@@ -4,13 +4,13 @@ number: "813.501"
 title: Verordnung zum Altersbetreuungs- und Pflegegesetz
 short: AbPV
 language: de
-version: 2025-01-01
-valid_until: 2025-07-31
-version_adopted: 2024-12-17
+version: 2025-08-01
+valid_until: 2025-12-31
+version_adopted: 2025-07-01
 adopted: 2009-02-10
 in_force: 2009-04-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/813.501"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1937/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2007/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://rechtsbuch.sh.ch/api/de/versions/1937/pdf_file"
 
 (AbPV)
 
-Vom 10.02.2009 (Stand 01.01.2025)
+Vom 10.02.2009 (Stand 01.08.2025)
 
 Der Regierungsrat des Kantons Schaffhausen,
 
@@ -48,11 +48,8 @@ verordnet:
 
 <sup>1</sup> Das Departement des Innern nimmt folgende Aufgaben wahr:
 
-- a) Oberaufsicht über die Heime und Organisationen der Hilfe und Pflege zu Hause (Art. 2 Abs. 1 des Gesetzes)
-- b) Erteilung von Betriebsbewilligungen für Heime und für Organisationen der Hilfe und Pflege zu Hause (Art. 4 des Gesetzes, § 43 der Medizinalverordnung [MedV][^2-1])
+- a)–b) …
 - c) Genehmigung von Leistungsaufträgen und Verträgen der Gemeinden mit Heimen und Diensten im Sinne von Art. 6 des Gesetzes
-
-[^2-1]: SHR [811.001](https://rechtsbuch.sh.ch/data/811.001/de).
 
 #### § 3
 
@@ -65,6 +62,8 @@ verordnet:
 - c) Erteilung von Kostengutsprachen für die Langzeitpflege von Personen im Sinne von Art. 2 Abs. 3 lit. c des Gesetzes in anderen Institutionen, wenn eine Betreuung in den kantonalen Spitälern nicht möglich oder nicht sinnvoll ist
 - d) Bereitstellung einer Internet-Plattform, welche einen koordinierten öffentlichen Zugang sichert zu den relevanten verfügbaren Informationsangeboten aller in den Vollzug des Gesetzes involvierten Leistungserbringer der Altersbetreuung und Pflege
 - e) Führung des Sekretariats der Alterskommission
+- f) Oberaufsicht über die Heime und Organisationen der Hilfe und Pflege zu Hause (Art. 2 Abs. 1 des Gesetzes) sowie Aufsicht über die privat geführten Institutionen (Art. 2 Abs. 1bis des Gesetzes)
+- g) Erteilung von Betriebsbewilligungen für Heime und für Organisationen der Hilfe und Pflege zu Hause (Art. 4 des Gesetzes)
 
 #### § 4
 
