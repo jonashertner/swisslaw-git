@@ -3,24 +3,23 @@ canton: ZG
 number: "413.112"
 title: Ausführungsbestimmungen 2 zum Einführungsgesetz Berufsbildung (Regelung des Qualifikationsverfahrens)
 language: de
-version: 2024-03-01
-valid_until: 2025-07-31
-version_adopted: 2024-02-15
+version: 2025-08-01
+version_adopted: 2025-07-10
 adopted: 2008-05-30
 in_force: 2008-06-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/413.112"
-pdf: "https://bgs.zg.ch/api/de/versions/2533/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2716/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen 2 zum Einführungsgesetz Berufsbildung (Regelung des Qualifikationsverfahrens)
 
-Vom 30. Mai 2008 (Stand 1. März 2024)
+Vom 30. Mai 2008 (Stand 1. August 2025)
 
 Das Amt für Berufsbildung des Kantons Zug,
 
-gestützt auf § 2 Abs. 2 Bst. a des Einführungsgesetzes zu den Bundesgesetzen über die Berufsbildung und die Fachhochschulen vom 30. August 2001[^ingress-1],
+gestützt auf § 2 Abs. 2 Bst. a des Einführungsgesetzes zu den Bundesgesetzen über die Berufsbildung und die Fachhochschulen (EG Berufsbildung) vom 30. August 2001[^ingress-1],
 
 beschliesst:
 
@@ -86,7 +85,7 @@ beschliesst:
 
 **Prüfungsprotokoll**
 
-<sup>1</sup> Die Abnahme von mündlichen und praktischen Prüfungen sowie die Bewertung der Prüfungsarbeiten haben durch mindestens zwei Expertinnen oder Experten zu erfolgen. Mindestens eine Expertin oder ein Experte überwacht dauernd und gewissenhaft die Ausführung der Prüfungsaufgaben. Sie bzw. er hält Beobachtungen in einem aussagekräftigen Prüfungsprotokoll fest. Notenabzüge sind im Einzelnen zu begründen.
+<sup>1</sup> Die Abnahme von mündlichen und praktischen Prüfungen sowie die Bewertung der Prüfungsarbeiten in der Zuständigkeit des Kantons Zug haben durch mindestens zwei Expertinnen oder Experten zu erfolgen. Mindestens eine Expertin oder ein Experte überwacht dauernd und gewissenhaft die Ausführung der Prüfungsaufgaben. Sie bzw. er hält Beobachtungen in einem aussagekräftigen Prüfungsprotokoll fest. Notenabzüge sind im Einzelnen zu begründen.
 
 #### § 10
 
@@ -140,7 +139,7 @@ beschliesst:
 
 **Widerhandlung gegen die Prüfungsordnung**
 
-<sup>1</sup> Das Amt entscheidet aufgrund der Expertenmeldung darüber, in welchem Qualifikationsbereich, welcher Position oder Unterposition die Leistungen der Kandidatin bzw. des Kandidaten nicht bewertet werden, wenn diese bzw. dieser unerlaubte Hilfsmittel benützt, fremde Hilfe beansprucht oder in anderer Weise gegen die Prüfungsordnung verstösst.
+<sup>1</sup> Das Amt entscheidet aufgrund der Expertenmeldung darüber, in welchem Qualifikationsbereich, welcher Position oder Unterposition die Leistungen der Kandidatin bzw. des Kandidaten nicht bewertet werden, wenn diese bzw. dieser unerlaubte Hilfsmittel benützt, die gesamte Prüfung oder einzelne Prüfungsaufgaben kopiert oder Dritten zur Verfügung stellt, fremde Hilfe beansprucht oder in anderer Weise gegen die Prüfungsordnung verstösst.
 
 <sup>2</sup> Die Kandidatin oder der Kandidat, die bzw. der erheblich stört oder die vorgeschriebenen Prüfungszeiten grundlos nicht einhält, kann von der Expertin bzw. vom Experten unter Meldung an die Prüfungsleitung weggewiesen werden. Die Prüfung gilt in diesem Fall als abgelegt und nicht bestanden.
 
@@ -204,7 +203,9 @@ beschliesst:
 
 **Allgemeinbildung**
 
-<sup>1</sup> Das Amt legt die Grundsätze für die Abschlussprüfung im Fach Allgemeinbildung fest und regelt das Verfahren bei Übertritten aus der Berufsmaturitätsschule in Ergänzung zur Verordnung des SBFI über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^23-1].
+<sup>1</sup> Das Amt legt die Grundsätze für die Schlussprüfung im Fach Allgemeinbildung fest und regelt das Verfahren bei Übertritten aus der Berufsmaturitätsschule in Ergänzung zur Verordnung des SBFI über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^23-1].
+
+<sup>2</sup> Die Schlussprüfung im Rahmen des Qualifikationsverfahrens wird schriftlich abgelegt.
 
 [^23-1]: SR [412.101.241](https://db.clex.ch/link/Bund/412.101.241/de)
 
