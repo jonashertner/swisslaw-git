@@ -4,11 +4,11 @@ title: "Ordinanza del 15 agosto 2018 concernente l'entrata e il rilascio del vis
 short: OEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: it
-version: 2025-04-01
+version: 2025-08-01
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20250401/it/xml/fedlex-data-admin-ch-eli-cc-2018-493-20250401-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20250401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20250801/it/xml/fedlex-data-admin-ch-eli-cc-2018-493-20250801-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20250801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20250401/it"
 
 (OEV)
 
-del 15 agosto 2018 (Stato 1° aprile 2025)
+del 15 agosto 2018 (Stato 1° agosto 2025)
 
 Il Consiglio federale svizzero,
 
@@ -59,7 +59,8 @@ La presente ordinanza disciplina parimenti la competenza di concludere trattati 
 - k.[^1-24] decisione n. 1105/2011/UE[^1-25];
 - l.[^1-26] regolamento (CE) n. 694/2003[^1-27];
 - m.[^1-28] regolamento (UE) 2016/399[^1-29];
-- n.[^1-30] regolamento (UE) 2024/1356[^1-31].[^1-32]
+- n.[^1-30] regolamento (UE) 2024/1356[^1-31];
+- o.[^1-32] regolamento (UE) 2025/12[^1-33].[^1-34]
 
 [^1-1]: Nuovo testo giusta la cifra I dell’O del 15 set. 2023, in vigore dal 15 ott. 2023 ([RU 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
 [^1-2]: Regolamento (UE) n. 514/2014 del Parlamento europeo e del Consiglio, del 16 apr. 2014, recante disposizioni generali sul Fondo asilo, migrazione e integrazione e sullo strumento di sostegno finanziario per la cooperazione di polizia, la prevenzione e la lotta alla criminalità e la gestione delle crisi, versione della GU L 150 del 20.5.2014, pag. 112.
@@ -92,7 +93,9 @@ La presente ordinanza disciplina parimenti la competenza di concludere trattati 
 [^1-29]: Regolamento (UE) 2016/399 del Parlamento europeo e del Consiglio, del 9 mar. 2016, che istituisce un codice unionale relativo al regime di attraversamento delle frontiere da parte delle persone (codice frontiere Schengen), GU L 77 del 23.3.2016, pag. 1; modificato da ultimo dal regolamento (UE) 2024/1717, GU L 2024/1717, 20.06.2024.
 [^1-30]: Introdotta dalla cifra I dell’O del 26 feb. 2025, in vigore dal 1° apr. 2025 ([RU 2025 163](https://fedlex.data.admin.ch/eli/oc/2025/163)).
 [^1-31]: Regolamento (UE) 2024/1356 del Parlamento europeo e del Consiglio, del 14 mag. 2024, che introduce accertamenti nei confronti dei cittadini di paesi terzi alle frontiere esterne e modifica i regolamenti (CE) n. 767/2008, (UE) 2017/2226, (UE) 2018/1240 e (UE) 2019/817, versione della GU L, 2024/1356, 22.5.2024.
-[^1-32]: Nuovo testo giusta la cifra I dell’O del 14 ago. 2019, in vigore dal 2 feb. 2020 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^1-32]: Introdotta dalla cifra I dell’O del 20 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 431](https://fedlex.data.admin.ch/eli/oc/2025/431)).
+[^1-33]: Regolamento (UE) 2025/12 del Parlamento europeo e del Consiglio, del 19 dic. 2024, sulla raccolta e sul trasferimento delle informazioni anticipate sui passeggeri al fine di migliorare e agevolare le verifiche alle frontiere esterne, che modifica i regolamenti (UE) 2018/1726 e (UE) 2019/817 e abroga la direttiva 2004/82/CE del Consiglio, versione della GU L, 2025/12, 8.1.2025.
+[^1-34]: Nuovo testo giusta la cifra I dell’O del 14 ago. 2019, in vigore dal 2 feb. 2020 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 
 #### Art. 2
 
@@ -340,7 +343,7 @@ In virtù dell’articolo 3 paragrafo 5 del codice dei visti, le seguenti person
 [^10-3]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 23 ago. 2024 ([RU 2024 434](https://fedlex.data.admin.ch/eli/oc/2024/434)).
 [^10-4]: Nuovo testo giusta la cifra I dell’O del 14 ago. 2019, in vigore dal 2 feb. 2020 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 [^10-5]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 23 ago. 2024 ([RU 2024 434](https://fedlex.data.admin.ch/eli/oc/2024/434)).
-[^10-6]: [[RS 0.142.112.681](https://www.fedlex.admin.ch/eli/cc/2002/243/fr)](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^10-6]: [RS 0.142.112.681](https://www.fedlex.admin.ch/eli/cc/2002/243/fr)
 [^10-7]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
 [^10-8]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
 [^10-9]: Introdotto dalla cifra I dell’O del 14 ago. 2019, in vigore dal 2 feb. 2020 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
@@ -963,6 +966,33 @@ La SEM ha la competenza di concludere trattati internazionali in vista del recep
 [^34j-1]: Introdotto dalla cifra I dell’O del 26 feb. 2025, in vigore dal 1° apr. 2025 ([RU 2025 163](https://fedlex.data.admin.ch/eli/oc/2025/163)).
 [^34j-2]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. n.
 [^34j-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
+#### Art. 34k
+
+**Conclusione di trattati internazionali legati al regolamento (UE) 2025/12**[^34k-1]
+
+<sup>1</sup>
+
+La SEM ha la competenza di concludere trattati internazionali in vista del recepimento di atti di esecuzione della Commissione europea relativi al regolamento (UE) 2025/12[^34k-2], sempreché tali trattati internazionali siano di portata limitata ai sensi dell’articolo 7*a* LOGA[^34k-3] e sempreché gli atti di esecuzione siano emanati sulla base degli articoli e paragrafi seguenti del regolamento (UE) 2025/12 e definiscano quanto segue:
+
+- a. le norme tecniche e procedurali relative alle verifiche del formato e della trasmissione dei dati nonché agli avvisi corrispondenti (art. 13 par. 4);
+- b. le norme tecniche e procedurali relative alla trasmissione delle informazioni anticipate sui passeggeri (dati API) dal router, comprese le prescrizioni relative alla sicurezza dei dati (art. 14 par. 5);
+- c. le responsabilità dei contitolari del trattamento e gli obblighi dettati dalla legislazione in materia di protezione dei dati dei contitolari del trattamento e del responsabile del trattamento (art. 18 par. 4);
+- d. le norme relative alle connessioni e all’integrazione delle autorità di frontiera competenti con il router, tra cui i requisiti per la sicurezza dei dati (art. 23 par. 2);
+- e. le norme relative alle connessioni e all’integrazione dei vettori aerei con il router, tra cui i requisiti per la sicurezza dei dati (art. 24 par. 2).
+
+<sup>2</sup>
+
+Ha la competenza di concludere trattati internazionali in vista del recepimento di atti delegati della Commissione europea relativi al regolamento (UE) 2025/12, sempreché i trattati internazionali siano di portata limitata ai sensi dell’articolo 7*a* LOGA e sempreché gli atti delegati siano stati adottati sulla base degli articoli e dei paragrafi del regolamento (UE) 2025/12 menzionati di seguito e definiscano quanto segue:
+
+- a. la fine del periodo transitorio durante il quale i vettori aerei devono fare in modo che i passeggeri possano fornire i dati API manualmente nel corso dell’accettazione online (art. 5 par. 6);
+- b. i requisiti tecnici e le norme operative per la raccolta automatizzata e manuale dei dati API, tra cui i requisiti per la sicurezza dei dati (art. 5 par. 7);
+- c. le norme sui protocolli comuni e sui formati di dati supportati da usare per il trasferimento criptato dei dati API al router, tra cui i requisiti per la sicurezza dei dati (art. 6 par. 3);
+- d. le norme in materia di rettifica, integrazione e aggiornamento dei dati API (art. 9 par. 6).
+
+[^34k-1]: Introdotto dalla cifra I dell’O del 20 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 431](https://fedlex.data.admin.ch/eli/oc/2025/431)).
+[^34k-2]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. o.
+[^34k-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 
 #### Art. 35
 

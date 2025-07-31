@@ -4,11 +4,11 @@ title: Verordnung vom 15. August 2018 über die Einreise und die Visumerteilung 
 short: VEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: de
-version: 2025-04-01
+version: 2025-08-01
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20250401/de/xml/fedlex-data-admin-ch-eli-cc-2018-493-20250401-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20250401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20250801/de/xml/fedlex-data-admin-ch-eli-cc-2018-493-20250801-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20250801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20250401/de"
 
 (VEV)
 
-vom 15. August 2018 (Stand am 1. April 2025)
+vom 15. August 2018 (Stand am 1. August 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -59,7 +59,8 @@ Die Verordnung regelt auch die Kompetenz zum Abschluss völkerrechtlicher Vertr�
 - k.[^1-24] Beschluss Nr. 1105/2011/EU[^1-25];
 - l.[^1-26] Verordnung (EG) Nr. 694/2003[^1-27];
 - m.[^1-28] Verordnung (EU) 2016/399[^1-29];
-- n.[^1-30] Verordnung (EU) 2024/1356[^1-31].[^1-32]
+- n.[^1-30] Verordnung (EU) 2024/1356[^1-31];
+- o.[^1-32] Verordnung (EU) 2025/12[^1-33].[^1-34]
 
 [^1-1]: Fassung gemäss Ziff. I der V vom 15. Sept. 2023, in Kraft seit 15. Okt. 2023 ([AS 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
 [^1-2]: Verordnung (EU) Nr. 514/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 zur Festlegung allgemeiner Bestimmungen für den Asyl-, Migrations- und Integrationsfonds und das Instrument für die finanzielle Unterstützung der polizeilichen Zusammenarbeit, der Kriminalprävention und Kriminalitätsbekämpfung und des Krisenmanagements, Fassung gemäss ABl. L 150 vom 20.5.2014, S. 112.
@@ -92,7 +93,9 @@ Die Verordnung regelt auch die Kompetenz zum Abschluss völkerrechtlicher Vertr�
 [^1-29]: Verordnung (EU) 2016/399 des Europäischen Parlaments und des Rates vom 9. März 2016 über einen Gemeinschaftskodex für das Überschreiten der Grenzen durch Personen (Schengener Grenzkodex), ABl. L 77 vom 23.3.2016, S. 1; zuletzt geändert durch Verordnung (EU) 2024/1717, ABl. L, 2024/1717, 20.06.2024.
 [^1-30]: Eingefügt durch Ziff. I der V vom 26. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 163](https://fedlex.data.admin.ch/eli/oc/2025/163)).
 [^1-31]: Verordnung (EU) 2024/1356 des Europäischen Parlaments und des Rates vom 14. Mai 2024 zur Einführung der Überprüfung von Drittstaatsangehörigen an den Aussengrenzen und zur Änderung der Verordnungen (EG) Nr. 767/2008, (EU) 2017/2226, (EU) 2018/1240 und (EU) 2019/817, Fassung gemäss ABl. L, 2024/1356, 22.5.2024.
-[^1-32]: Fassung gemäss Ziff. I der V vom 14. Aug. 2019, in Kraft seit 2. Febr. 2020 ([AS 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^1-32]: Eingefügt durch Ziff. I der V vom 20. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 431](https://fedlex.data.admin.ch/eli/oc/2025/431)).
+[^1-33]: Verordnung (EU) 2025/12 des Europäischen Parlaments und des Rates vom 19. Dezember 2024 über die Erhebung und Übermittlung vorab übermittelter Fluggastdaten zur Verbesserung und Erleichterung der Kontrollen an den Aussengrenzen, zur Änderung der Verordnungen (EU) 2018/1726 und (EU) 2019/817 sowie zur Aufhebung der Richtlinie 2004/82/EG des Rates, Fassung gemäss ABl. L, 2025/12, 8.1.2025.
+[^1-34]: Fassung gemäss Ziff. I der V vom 14. Aug. 2019, in Kraft seit 2. Febr. 2020 ([AS 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 
 #### Art. 2
 
@@ -340,7 +343,7 @@ Gestützt auf Artikel 3 Absatz 5 des Visakodex sind folgende Personen von der Vi
 [^10-3]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 23. Aug. 2024 ([AS 2024 434](https://fedlex.data.admin.ch/eli/oc/2024/434)).
 [^10-4]: Fassung gemäss Ziff. I der V vom 14. Aug. 2019, in Kraft seit 2. Febr. 2020 ([AS 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 [^10-5]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 23. Aug. 2024 ([AS 2024 434](https://fedlex.data.admin.ch/eli/oc/2024/434)).
-[^10-6]: [[SR 0.142.112.681](https://www.fedlex.admin.ch/eli/cc/2002/243/fr)](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^10-6]: [SR 0.142.112.681](https://www.fedlex.admin.ch/eli/cc/2002/243/fr)
 [^10-7]: [SR 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
 [^10-8]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
 [^10-9]: Eingefügt durch Ziff. I der V vom 14. Aug. 2019, in Kraft seit 2. Febr. 2020 ([AS 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
@@ -964,6 +967,33 @@ Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur 
 [^34j-1]: Eingefügt durch Ziff. I der V vom 26. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 163](https://fedlex.data.admin.ch/eli/oc/2025/163)).
 [^34j-2]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. n.
 [^34j-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
+#### Art. 34k
+
+**Abschluss internationaler Verträge im Zusammenhang mit der Verordnung (EU) 2025/12**[^34k-1]
+
+<sup>1</sup>
+
+Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten der Europäischen Kommission zur Verordnung (EU) 2025/12[^34k-2], sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG[^34k-3] darstellen und sofern die Durchführungsrechtsakte gestützt auf die nachfolgend genannten Artikel und Absätze der Verordnung (EU) 2025/12 erlassen wurden und Folgendes festlegen:
+
+- a. die technischen und verfahrenstechnischen Vorschriften in Bezug auf die Verifizierungen des Datenformats und der Datenübermittlung sowie auf die entsprechenden Benachrichtigungen (Art. 13 Abs. 4);
+- b. die technischen und verfahrenstechnischen Vorschriften in Bezug auf die Übertragung von vorab übermittelten Fluggastdaten (API-Daten) durch den Router, einschliesslich der Anforderungen an die Datensicherheit (Art. 14 Abs. 5);
+- c. die Zuständigkeiten der gemeinsam Verantwortlichen und die datenschutzrechtlichen Pflichten der gemeinsam Verantwortlichen und des Auftragsverarbeiters (Art. 18 Abs. 4);
+- d. die Vorschriften in Bezug auf die Anbindungen und Anpassungen der zuständigen Grenzbehörden an den Router, einschliesslich der Anforderungen an die Datensicherheit (Art. 23 Abs. 2);
+- e. die Vorschriften in Bezug auf die Anbindungen und Anpassungen der Fluggesellschaften an den Router, einschliesslich der Anforderungen an die Datensicherheit (Art. 24 Abs. 2).
+
+<sup>2</sup>
+
+Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von delegierten Rechtsakten der Europäischen Kommission zur Verordnung (EU) 2025/12, sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG darstellen und sofern die delegierten Rechtsakte gestützt auf die nachfolgend genannten Artikel und Absätze der Verordnung (EU) 2025/12 erlassen wurden und Folgendes festlegen:
+
+- a. die Beendigung des Übergangszeitraums, während dem die Fluggesellschaften es den Fluggästen ermöglichen müssen, API-Daten im Rahmen des Online-Check-in manuell bereitzustellen (Art. 5 Abs. 6);
+- b. die technischen Anforderungen und operativen Vorschriften für die automatisierte und manuelle Erhebung der API-Daten, einschliesslich der Anforderungen an die Datensicherheit (Art. 5 Abs. 7);
+- c. die Vorschriften über die gemeinsamen Protokolle und unterstützten Datenformate, die für die verschlüsselte Übermittlung von API-Daten an den Router zu verwenden sind, einschliesslich der Anforderungen an die Datensicherheit (Art. 6 Abs. 3);
+- d. die Vorschriften für die Berichtigung, Vervollständigung und Aktualisierung von API-Daten (Art. 9 Abs. 6).
+
+[^34k-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 431](https://fedlex.data.admin.ch/eli/oc/2025/431)).
+[^34k-2]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. o.
+[^34k-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 
 #### Art. 35
 

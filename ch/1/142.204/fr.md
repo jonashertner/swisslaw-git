@@ -4,11 +4,11 @@ title: "Ordonnance du 15 août 2018 sur l'entrée et l'octroi de visas (OEV)"
 short: OEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: fr
-version: 2025-04-01
+version: 2025-08-01
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20250401/fr/xml/fedlex-data-admin-ch-eli-cc-2018-493-20250401-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20250401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20250801/fr/xml/fedlex-data-admin-ch-eli-cc-2018-493-20250801-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20250801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20250401/fr"
 
 (OEV)
 
-du 15 août 2018 (État le 1<sup>er</sup> avril 2025)
+du 15 août 2018 (État le 1<sup>er</sup> août 2025)
 
 Le Conseil fédéral suisse,
 
@@ -58,7 +58,8 @@ L’ordonnance régit également la compétence de conclure des traités interna
 - k.[^1-24] décision n<sup>o</sup> 1105/2011/UE[^1-25];
 - l.[^1-26] règlement (CE) n<sup>o</sup> 694/2003[^1-27];
 - m.[^1-28] règlement (UE) 2016/399[^1-29];
-- n.[^1-30] règlement (UE) 2024/1356[^1-31].[^1-32]
+- n.[^1-30] règlement (UE) 2024/1356[^1-31];
+- o.[^1-32] règlement (UE) 2025/12[^1-33].[^1-34]
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du 15 sept. 2023, en vigueur depuis le 15 oct. 2023 ([RO 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
 [^1-2]: Règlement (UE) n<sup>o</sup> 514/2014 du Parlement européen et du Conseil du 16 avril 2014 portant dispositions générales applicables au Fonds «Asile, migration et intégration» et à l’instrument de soutien financier à la coopération policière, à la prévention et à la répression de la criminalité, ainsi qu’à la gestion des crises, version du JO L 150 du 20.5.2014, p. 112.
@@ -91,7 +92,9 @@ L’ordonnance régit également la compétence de conclure des traités interna
 [^1-29]: Règlement (UE) 2016/399 du Parlement européen et du Conseil du 9 mars 2016 concernant un code de l’Union relatif au régime de franchissement des frontières par les personnes (code frontières Schengen), JO L 77 du 23.3.2016, p. 1; modifié en dernier lieu par le règlement (UE) 2024/1717, JO L, 2024/1717, 20.06.2024.
 [^1-30]: Introduite par le ch. I de l’O du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 163](https://fedlex.data.admin.ch/eli/oc/2025/163)).
 [^1-31]: Règlement (UE) 2024/1356 du Parlement européen et du Conseil du 14 mai 2024 établissant le filtrage des ressortissants de pays tiers aux frontières extérieures et modifiant les règlements (CE) n<sup>o</sup> 767/2008, (UE) 2017/2226, (UE) 2018/1240 et (UE) 2019/817, version du JO L, 2024/1356, 22.5.2024.
-[^1-32]: Nouvelle teneur selon le ch. I de l’O du 14 août 2019, en vigueur depuis le 2 fév. 2020 ([RO 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^1-32]: Introduite par le ch. I de l’O du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 431](https://fedlex.data.admin.ch/eli/oc/2025/431)).
+[^1-33]: Règlement (UE) 2025/12 du Parlement européen et du Conseil du 19 décembre 2024 relatif à la collecte et au transfert des informations préalables sur les passagers en vue de renforcer et de faciliter les vérifications aux frontières extérieures, modifiant les règlements (UE) 2018/1726 et (UE) 2019/817, et abrogeant la directive 2004/82/CE du Conseil, version du JO L, 2025/12, 8.1.2025.
+[^1-34]: Nouvelle teneur selon le ch. I de l’O du 14 août 2019, en vigueur depuis le 2 fév. 2020 ([RO 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 
 #### Art. 2
 
@@ -339,7 +342,7 @@ Conformément à l’art. 3, par. 5, du code des visas, les personnes suivantes 
 [^10-3]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 23 août 2024 ([RO 2024 434](https://fedlex.data.admin.ch/eli/oc/2024/434)).
 [^10-4]: Nouvelle teneur selon le ch. I de l’O du 14 août 2019, en vigueur depuis le 2 fév. 2020 ([RO 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 [^10-5]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 23 août 2024 ([RO 2024 434](https://fedlex.data.admin.ch/eli/oc/2024/434)).
-[^10-6]: [RS 0.142.112.681](https://www.fedlex.admin.ch/eli/cc/2002/243/fr)
+[^10-6]: [[RS 0.142.112.681](https://www.fedlex.admin.ch/eli/cc/2002/243/fr)](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^10-7]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
 [^10-8]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
 [^10-9]: Introduit par le ch. I de l’O du 14 août 2019, en vigueur depuis le 2 fév. 2020 ([RO 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
@@ -962,6 +965,33 @@ Le SEM est compétent pour conclure des traités internationaux en vue de la rep
 [^34j-1]: Introduit par le ch. I de l’O du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 163](https://fedlex.data.admin.ch/eli/oc/2025/163)).
 [^34j-2]: Cf. note de bas de page relative à l’art. 1, al. 4, let. n.
 [^34j-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
+#### Art. 34k
+
+**Conclusion de traités internationaux liés au règlement (UE) 2025/12**[^34k-1]
+
+<sup>1</sup>
+
+Le SEM est compétent pour conclure des traités internationaux en vue de la reprise d’actes d’exécution de la Commission européenne relatifs au règlement (UE) 2025/12[^34k-2], pour autant que ces traités soient de portée mineure au sens de l’art. 7*a* LOGA[^34k-3] et pour autant que les actes d’exécution soient édictés sur la base des articles et paragraphes suivants du règlement (UE) 2025/12 et qu’ils précisent les domaines suivants:
+
+- a. les règles techniques et procédurales concernant les vérifications du format et du transfert des données et les notifications (art. 13, par. 4);
+- b. les règles techniques et procédurales concernant la transmission d’informations préalables sur les passagers (données API) par le routeur, y compris sur les exigences en matière de sécurité des données (art. 14, par. 5);
+- c. les responsabilités des responsables conjoints du traitement et les obligations en matière de protection des données des responsables conjoints du traitement et du sous-traitant (art. 18, par. 4);
+- d. les règles concernant les connexions au routeur et l’intégration des autorités frontalières compétentes à celui-ci, y compris concernant les exigences en matière de sécurité des données (art. 23, par. 2);
+- e. les règles concernant les connexions au routeur et l’intégration des transporteurs aériens à celui-ci, y compris concernant les exigences en matière de sécurité des données (art. 24, par. 2).
+
+<sup>2</sup>
+
+Il est compétent pour conclure des traités internationaux en vue de la reprise d’actes délégués de la Commission européenne relatifs au règlement (UE) 2025/12, pour autant que ces traités soient de portée mineure au sens de l’art. 7*a* LOGA et pour autant que les actes délégués soient édictés sur la base des articles et paragraphes suivants du règlement (UE) 2025/12 et qu’ils précisent les domaines suivants:
+
+- a. la fin de la période transitoire pendant laquelle les transporteurs aériens doivent donner aux passagers la possibilité de fournir manuellement les données API dans le cadre de l’enregistrement en ligne (art. 5, par. 6);
+- b. les exigences techniques et les règles opérationnelles pour la collecte automatisée ou manuelle des données API, y compris concernant les exigences en matière de sécurité des données (art. 5, par. 7);
+- c. les règles concernant les protocoles communs et les formats de données reconnus à appliquer aux transferts chiffrés de données API au routeur, y compris les exigences en matière de sécurité des données (art. 6, par. 3);
+- d. les règles nécessaires pour rectifier, compléter et mettre à jour les données API (art. 9, par. 6).
+
+[^34k-1]: Introduit par le ch. I de l’O du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 431](https://fedlex.data.admin.ch/eli/oc/2025/431)).
+[^34k-2]: Cf. note de bas de page relative à l’art. 1, al. 4, let. o.
+[^34k-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 
 #### Art. 35
 
