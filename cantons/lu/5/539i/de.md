@@ -3,20 +3,19 @@ canton: LU
 number: 539i
 title: Rahmenreglement für die Weiterbildung an der Universität Luzern
 language: de
-version: 2024-08-01
-valid_until: 2025-07-31
-version_adopted: 2024-06-26
+version: 2025-08-01
+version_adopted: 2025-06-25
 adopted: 2022-06-30
 in_force: 2022-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/539i"
-pdf: "https://srl.lu.ch/api/de/versions/4235/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4506/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Rahmenreglement für die Weiterbildung an der Universität Luzern
 
-vom 30.06.2022 (Stand 01.08.2024)
+vom 30.06.2022 (Stand 01.08.2025)
 
 Der Universitätsrat der Universität Luzern,
 
@@ -367,9 +366,9 @@ beschliesst:
 
 <sup>1<sup>bis</sup></sup> Eine Änderung eines strukturierten Lehrgangs ist ohne erneute Antragstellung möglich, wenn die Änderung nicht der Einführung eines neuen Lehrgangs gleichkommt. § 26 bleibt vorbehalten.
 
-<sup>2</sup> Bei den eigenen Angeboten der Weiterbildungsakademie ist der Antrag an die Wei- terbildungskommission zu richten.
+<sup>2</sup> Bei den eigenen oder den Kooperationsangeboten der Weiterbildungsakademie, des Grants Office, der Graduate Academy, des Zentrums Lehre und der universitären Forschungszentren ist der Antrag an die Weiterbildungskommission zu richten.
 
-<sup>3</sup> Bei allen übrigen Angeboten ist der Antrag an die entsprechende Fakultätsversammlung zu richten.
+<sup>3</sup> Bei den eigenen oder den Kooperationsangeboten der Fakultäten sowie deren Instituten, Zentren und Akademien ist der Antrag an die entsprechende Fakultätsversammlung zu richten.
 
 <sup>4</sup> Unterstützte Anträge werden der Erweiterten Universitätsleitung, dem Senat und dem Universitätsrat zur Genehmigung vorgelegt.
 
@@ -390,6 +389,8 @@ beschliesst:
 **Erlass und Revision von Weiterbildungsreglementen**
 
 <sup>1</sup> Strukturierte Lehrgänge bedürfen eines Weiterbildungsreglements. Dieses wird auf Antrag einer Fakultät oder der Weiterbildungskommission im Senat behandelt und dem Universitätsrat zum Erlass beantragt.
+
+<sup>1<sup>bis</sup></sup> Bei strukturierten Lehrgängen, die zusammen mit anderen Hochschulen erbracht werden, und bei welchen durch die Universität Luzern weder Lehrveranstaltungen angeboten noch Weiterbildungsteilnehmende eingeschrieben werden, kann das Reglement durch die andere Hochschule erlassen werden. Es wird als Teil des Antrags gemäss § 24 Absatz 1 der Erweiterten Universitätsleitung, dem Senat und dem Universitätsrat zur Genehmigung vorgelegt.
 
 <sup>2</sup> Weiterbildungskurse bedürfen keiner besonderen Regelung. Über deren Angebot entscheiden die Trägerschaften.
 
