@@ -4,13 +4,12 @@ number: "416.11"
 title: Stipendienverordnung
 short: StipV
 language: de
-version: 2022-08-01
-valid_until: 2025-07-31
-version_adopted: 2022-03-01
+version: 2025-08-01
+version_adopted: 2025-03-04
 adopted: 1990-12-04
 in_force: 1990-09-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/416.11"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2887/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2888/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ StipV
 
 (StipV)
 
-vom 04.12.1990 (Stand 01.08.2022)
+vom 04.12.1990 (Stand 01.08.2025)
 
 ## 1. Voraussetzungen für Ausbildungsbeiträge
 
@@ -127,13 +126,59 @@ vom 04.12.1990 (Stand 01.08.2022)
 
 **Anrechenbare Ausbildungskosten**
 
-<sup>1</sup> Die anrechenbaren Ausbildungskosten richten sich nach Anhang 1.
+<sup>1</sup> Die anrechenbaren Ausbildungskosten richten sich nach § 9a.
 
-<sup>2</sup> Für Verheiratete und Bewerberinnen und Bewerber mit mindestens einem unterstützungsberechtigten Kind im eigenen Haushalt entsprechen die anrechenbaren Ausbildungskosten dem sozialen Existenzminimum zuzüglich der anrechenbaren Versicherungs- und übrigen Ausbildungskosten gemäss Anhang 1. Kosten, die sowohl im sozialen Existenzminimum als auch in den anrechenbaren Versicherungs- und übrigen Ausbildungskosten enthalten sind, werden nur einmal berücksichtigt.
+<sup>2</sup> Für Verheiratete und Bewerberinnen und Bewerber mit mindestens einem unterstützungsberechtigten Kind im eigenen Haushalt entsprechen die anrechenbaren Ausbildungskosten dem sozialen Existenzminimum zuzüglich der anrechenbaren Versicherungskosten und der übrigen Ausbildungskosten gemäss § 9a. Kosten, die sowohl im sozialen Existenzminimum als auch in den anrechenbaren Versicherungskosten und den übrigen Ausbildungskosten enthalten sind, werden nur einmal berücksichtigt.
 
 <sup>3</sup> Entstehen der Bewerberin oder dem Bewerber aus triftigen Gründen nachweisbar höhere oder tiefere Kosten, kann von den Pauschalansätzen abgewichen werden.
 
 <sup>4</sup> Die anrechenbaren Kosten basieren bei Ausbildungen auf der Sekundarstufe II stets auf den Kosten der günstigsten Ausbildungsvariante.
+
+#### § 9a
+
+**Ausbildungskosten**
+
+<sup>1</sup> Kost und Logis zu Hause
+
+- 1\. alle Ausbildungsrichtungen — Fr. 2'800
+- 2\. Verschiedenes
+  - 2\.1. Minderjährige — Fr. 900
+  - 2\.2. Erwachsene — Fr. 1'400
+- 3\. Versicherungen
+  - 3\.1. Minderjährige — Fr. 700
+  - 3\.2. Erwachsene — Fr. 2'100
+
+<sup>2</sup> Kost und Logis zu Hause mit auswärtigem Mittagessen
+
+- 1\. alle Ausbildungsrichtungen — Fr. 5'500
+- 2\. Verschiedenes
+  - 2\.1. Minderjährige — Fr. 1'000
+  - 2\.2. Volljährige — Fr. 1'500
+- 3\. Versicherungen
+  - 3\.1. Minderjährige — Fr. 700
+  - 3\.2. Volljährige — Fr. 2'100
+
+<sup>3</sup> Kost und Logis ganz auswärts
+
+- 1\. Ausbildungsrichtung
+  - 1\.1. kantonseigener Konvikt — Fr. 7'000
+  - 1\.2. alle übrigen Ausbildungen — Fr. 16'000
+- 2\. Verschiedenes
+  - 2\.1. Minderjährige — Fr. 1'300
+  - 2\.2. Volljährige — Fr. 1'900
+- 3\. Versicherungen
+  - 3\.1. Minderjährige — Fr. 1'000
+  - 3\.2. Volljährige — Fr. 2'400
+
+<sup>4</sup> Für die übrigen Ausbildungskosten wird pauschal ein Betrag von Fr. 1'400 für Kleider, Schuhe und Wäsche berücksichtigt. Zusätzlich werden in der Stipendienberechnung, entweder als effektiver Betrag oder als ausbildungsspezifische Pauschale, folgende Kostenpunkte berücksichtigt:
+
+- 1\. Schuldgeld (effektiver Betrag)
+- 2\. Lehrmittel, Materialien
+- 3\. Fahrtabonnemente (effektiver Betrag)
+- 4\. Berufskleider
+- 5\. Werkzeuge
+
+<sup>5</sup> Wenn sich der Landesindex der Konsumentenpreise (LIK) seit der letzten Anpassung um 5 Punkte verändert hat (Stand LIK 12.2024 106.9 [Basis Dezember 2020=100]), beantragt das Amt dem Regierungsrat eine Anpassung der Ausbildungskosten.
 
 #### § 10
 
@@ -181,7 +226,7 @@ vom 04.12.1990 (Stand 01.08.2022)
 
 **Anrechenbares Einkommen für die Bemessung des Elternbeitrages**
 
-<sup>1</sup> Der Elternbeitrag wird auf der Grundlage des anrechenbaren Einkommens der Familie festgesetzt. Das anrechenbare Einkommen geht vom Total der Einkünfte gemäss dem Veranlagungsprotokoll zur Staatssteuer aus. Hinzu kommt ein Vermögenszuschlag von 10 % des Fr. 100'000 übersteigenden Reinvermögens.
+<sup>1</sup> Der Elternbeitrag wird auf der Grundlage des anrechenbaren Einkommens der Familie festgesetzt. Das anrechenbare Einkommen geht vom Total der Einkünfte gemäss dem Veranlagungsentscheid zur Staatssteuer aus. Hinzu kommt ein Vermögenszuschlag von 10 % des Fr. 100'000 übersteigenden Reinvermögens.
 
 <sup>1<sup>bis</sup></sup> Das Einkommen und Vermögen eines Stiefelternteils kann im anrechenbaren Einkommen mitberücksichtigt werden.
 
@@ -209,12 +254,14 @@ vom 04.12.1990 (Stand 01.08.2022)
 
 <sup>2</sup> Als Haushaltskosten werden pauschal berücksichtigt:
 
-- 1\. Ein Grundbedarf von Fr. 30'000
-- 2\. Wohnungskosten von Fr. 26'800
-- 3\. die auf dem anrechenbaren Einkommen anfallenden Steuern
-- 4\. die um allfällige Prämienverbilligungen reduzierten Krankenkassenprämien
-- 5\. für weitere Gesundheitskosten Fr. 4'000
-- 6\. für Versicherungskosten Fr. 2'000
+- 1\. Grundbedarf — Fr. 31'800
+- 2\. Wohnungskosten — Fr. 28'000
+- 3\. Steuern — auf anfallendem Einkommen
+- 4\. Krankenkassenprämien — reduziert um Prämienverbilligungen
+- 5\. Gesundheitskosten — Fr. 4'000
+- 6\. Versicherungskosten — 2 % des anrechenbaren Einkommens gemäss Anhang 2
+
+<sup>3</sup> Wenn sich der LIK seit der letzten Anpassung um 5 Punkte verändert hat (Stand LIK 12.2024 106.9 [Basis Dezember 2020=100]), beantragt das Amt dem Regierungsrat eine Anpassung der Haushaltskosten und der Elternbeitragsskala.
 
 #### § 12b
 
