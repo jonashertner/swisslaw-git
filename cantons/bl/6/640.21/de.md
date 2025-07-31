@@ -4,13 +4,13 @@ number: "640.21"
 title: Verordnung über die schulische Laufbahn
 short: Laufbahnverordnung
 language: de
-version: 2024-08-01
-valid_until: 2025-07-31
-version_adopted: 2024-06-25
+version: 2025-08-01
+valid_until: 2026-07-31
+version_adopted: 2026-01-16
 adopted: 2013-06-11
 in_force: 2014-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/640.21"
-pdf: "https://bl.clex.ch/api/de/versions/3948/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4408/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3948/pdf_file"
 
 (Laufbahnverordnung)
 
-Vom 11.06.2013 (Stand 01.08.2024)
+Vom 11.06.2013 (Stand 01.08.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -669,6 +669,8 @@ beschliesst:
 
 <sup>3</sup> In begründeten Fällen sind Ausnahmen möglich. Zur Klärung des Sachverhalts können der Schulpsychologische Dienst oder die Kinder- und Jugendpsychiatrie beigezogen werden.
 
+<sup>4</sup> Die Jugendlichen müssen über einen geregelten Aufenthaltsstatus verfügen.
+
 #### § 48b
 
 **Zugangsverfahren**
@@ -722,13 +724,13 @@ beschliesst:
 
 **Spezielle Bestimmungen zur Erkennung des Bedarfs an unterstützenden Massnahmen**
 
-<sup>1</sup> Schülerinnen und Schüler mit hohem Risiko, am Übergang in die Sekundarstufe II zu scheitern, werden zur Früherkennung der Koordinationsstelle Brückenangebote von der jeweiligen Schulleitung der Sekundarstufe I nach dem 1. Semester des letzten Schuljahres gemeldet.
+<sup>1</sup> Schülerinnen und Schüler mit hohem Risiko, am Übergang in die Sekundarstufe II zu scheitern, werden dem Zentrum Berufsintegration von der jeweiligen Fachperson Berufswegbereitung nach dem 1. Semester des letzten Sekundarschuljahres zur Früherkennung gemeldet.
 
-<sup>2</sup> Schülerinnen und Schüler, die am Ende des letzten Schuljahres keine Anschlusslösung in die Sekundarstufe II haben, werden der Koordinationsstelle Brückenangebote von der jeweiligen Schulleitung der Sekundarstufe I gemeldet.
+<sup>2</sup> Schülerinnen und Schüler, die am Ende des letzten Schuljahres keine Anschlusslösung in die Sekundarstufe II haben, werden dem Zentrum Berufsintegration von der jeweiligen Fachperson Berufswegbereitung der Sekundarstufe I gemeldet.
 
 <sup>3</sup> Die Meldung gemäss den Absätzen 1 und 2 hat mit Einverständnis der Erziehungsberechtigten beziehungsweise der volljährigen Schülerin oder des volljährigen Schülers zu erfolgen.
 
-<sup>4</sup> Bei Schülerinnen und Schülern mit sonderpädagogischen Massnahmen, deren Anschlusslösung in die Sekundarstufe II unklar ist, ist die Koordinationsstelle Brückenangebote ab dem Fachkonvent im zweitletzten Schuljahr der Sekundarstufe I beizuziehen.
+<sup>4</sup> Bei Schülerinnen und Schülern mit sonderpädagogischen Massnahmen, deren Anschlusslösung in die Sekundarstufe II unklar ist, ist ab dem Fachkonvent im zweitletzten Schuljahr der Sekundarstufe I bei Bedarf die jeweils zuständige Stelle der Dienststelle BMH beizuziehen.
 
 #### § 49
 
@@ -745,20 +747,22 @@ beschliesst:
 <sup>1</sup> Die Aufnahme in die Maturitätsabteilung des Gymnasiums setzt voraus:
 
 - a. einen Durchschnitt der Zeugnisnoten aller promotionsrelevanten Fächer von mindestens 5.0;
-- b. eine Punktesumme von mindestens 40 aus den einfach zählenden Zeugnisnoten in den Fächern Englisch, Französisch, Biologie und Physik sowie den doppelt zählenden Zeugnisnoten in den Fächern Deutsch und Mathematik.
+- b. eine Punktesumme von mindestens 40.5 aus den einfach zählenden Zeugnisnoten in den Fächern Englisch, Französisch, Biologie und Physik sowie den doppelt zählenden Zeugnisnoten in den Fächern Deutsch und Mathematik.
 
 <sup>2</sup> Die Aufnahme in die Berufsmaturitätsschule, die Fachmittelschule und die Wirtschaftsmittelschule setzt voraus:
 
 - a. einen Durchschnitt der Zeugnisnoten aller promotionsrelevanten Fächer von mindestens 4.5;
-- b. eine Punktesumme von mindestens 36 aus den einfach zählenden Zeugnisnoten in den Fächern Englisch, Französisch, Biologie und Physik sowie den doppelt zählenden Zeugnisnoten in den Fächern Deutsch und Mathematik.
+- b. eine Punktesumme von mindestens 36.5 aus den einfach zählenden Zeugnisnoten in den Fächern Englisch, Französisch, Biologie und Physik sowie den doppelt zählenden Zeugnisnoten in den Fächern Deutsch und Mathematik.
 
 <sup>2<sup>bis</sup></sup> Die Aufnahme in die Fachmittelschule und die Wirtschaftsmittelschule setzt zudem das vorgängige Absolvieren einer von der Bildungs-, Kultur- und Sportdirektion angebotenen, berufs- und schulwahlbezogenen Neigungs- und Eignungsabklärung voraus.
 
 <sup>3</sup> …
 
-<sup>4</sup> Werden die Bedingungen gemäss den Abs. 1 und 2 in beiden Zeugnissen der 3. Klasse der Sekundarschule erreicht, erfolgt die Aufnahme an die Maturitätsabteilung des Gymnasiums und die Fachmittelschule definitiv. Die Aufnahme erfolgt provisorisch, wenn am Ende des 1. Semesters im Zeugnis beide Bedingungen und am Ende des 2. Semesters eine Bedingung erreicht wird.
+<sup>4</sup> Werden die beiden Bedingungen gemäss den Abs. 1 und 2 in beiden Zeugnissen der 3. Klasse der Sekundarschule erreicht, erfolgt die Aufnahme an die Maturitätsabteilung des Gymnasiums und die Fachmittelschule definitiv. Die Aufnahme erfolgt provisorisch, wenn am Ende des 1. Semesters im Zeugnis beide Bedingungen und am Ende des 2. Semesters 1 Bedingung erreicht wird.
 
-<sup>5</sup> Die Aufnahme in die Berufsmaturitätsschule und die Wirtschaftsmittelschule erfolgt bei Erfüllung der Bedingungen gemäss Abs. 2 im 1. oder 2. Zeugnis definitiv.
+<sup>5</sup> Die Aufnahme an die Wirtschaftsmittelschule erfolgt definitiv, sofern die beiden Bedingungen gemäss Abs. 2 am Ende des 1. Semesters und mindestens 1 Bedingung am Ende des 2. Semesters erreicht werden.
+
+<sup>6</sup> Die Aufnahme in die Berufsmaturitätsschule erfolgt bei Erfüllung beider Bedingungen gemäss Abs. 2 im 1. oder 2. Zeugnis definitiv.
 
 #### § 52
 
@@ -771,18 +775,20 @@ beschliesst:
 <sup>1</sup> Die Aufnahme in die Maturitätsabteilung des Gymnasiums setzt voraus:
 
 - a. einen Durchschnitt der Zeugnisnoten aller promotionsrelevanten Fächer von mindestens 4.0;
-- b. eine Punktesumme von mindestens 34 aus den einfach zählenden Zeugnisnoten in den Fächern Englisch, Französisch, Biologie und Physik sowie den doppelt zählenden Zeugnisnoten in den Fächern Deutsch und Mathematik.
+- b. eine Punktesumme von mindestens 34.5 aus den einfach zählenden Zeugnisnoten in den Fächern Englisch, Französisch, Biologie und Physik sowie den doppelt zählenden Zeugnisnoten in den Fächern Deutsch und Mathematik.
 
 <sup>2</sup> Die Aufnahme in die Berufsmaturitätsschule, die Fachmittelschule und die Wirtschaftsmittelschule setzt voraus:
 
 - a. einen Durchschnitt der Zeugnisnoten aller promotionsrelevanten Fächer von mindestens 4.0;
-- b. eine Punktesumme von mindestens 32 aus den einfach zählenden Zeugnisnoten in den Fächern Englisch, Französisch, Biologie und Physik sowie den doppelt zählenden Zeugnisnoten in den Fächern Deutsch und Mathematik.
+- b. eine Punktesumme von mindestens 32.5 aus den einfach zählenden Zeugnisnoten in den Fächern Englisch, Französisch, Biologie und Physik sowie den doppelt zählenden Zeugnisnoten in den Fächern Deutsch und Mathematik.
 
 <sup>2<sup>bis</sup></sup> Die Aufnahme in die Fachmittelschule und die Wirtschaftsmittelschule setzt zudem das vorgängige Absolvieren einer von der Bildungs-, Kultur- und Sportdirektion angebotenen, berufs- und schulwahlbezogenen Neigungs- und Eignungsabklärung voraus.
 
-<sup>3</sup> Werden die Bedingungen gemäss den Abs. 1 und 2 in beiden Zeugnissen der 3. Klasse der Sekundarschule erreicht, erfolgt die Aufnahme an die Maturitätsabteilung des Gymnasiums und die Fachmittelschule definitiv. Die Aufnahme erfolgt provisorisch, wenn am Ende des 1. Semesters im Zeugnis beide Bedingungen und am Ende des 2. Semesters eine Bedingung erreicht wird.
+<sup>3</sup> Werden die beiden Bedingungen gemäss den Abs. 1 und 2 in beiden Zeugnissen der 3. Klasse der Sekundarschule erreicht, erfolgt die Aufnahme an die Maturitätsabteilung des Gymnasiums und die Fachmittelschule definitiv. Die Aufnahme erfolgt provisorisch, wenn am Ende des 1. Semesters im Zeugnis beide Bedingungen und am Ende des 2. Semesters 1 Bedingung erreicht wird.
 
-<sup>4</sup> Die Aufnahme in die Berufsmaturitätsschule und die Wirtschaftsmittelschule erfolgt bei Erfüllung der Bedingungen gemäss Abs. 2 im 1. oder 2. Zeugnis definitiv.
+<sup>4</sup> Die Aufnahme an die Wirtschaftsmittelschule erfolgt definitiv, sofern die beiden Bedingungen gemäss Abs. 2 am Ende des 1. Semesters und mindestens 1 Bedingung am Ende des 2. Semesters erreicht werden.
+
+<sup>5</sup> Die Aufnahme in die Berufsmaturitätsschule erfolgt bei Erfüllung beider Bedingungen gemäss Abs. 2 im 1. oder 2. Zeugnis definitiv.
 
 #### § 54
 
@@ -798,15 +804,21 @@ beschliesst:
 
 **Übertritt aus den Brückenangeboten**
 
-<sup>1</sup> Der Übertritt in den schulischen Teil der beruflichen Grundbildung setzt das Durchlaufen der Sekundarstufe I und das Vorliegen eines von der Hauptabteilung Berufsbildung der Dienststelle BMH genehmigten Lehrvertrags voraus.
+<sup>1</sup> Der Übertritt in den schulischen Teil der beruflichen Grundbildung setzt das Vorliegen eines von der Hauptabteilung Berufsbildung der Dienststelle BMH genehmigten Lehrvertrags voraus.
 
-<sup>2</sup> Der Übertritt in die weiterführenden Schulen richtet sich nach den Übertrittsvoraussetzungen für den Übertritt aus der Sekundarstufe I, namentlich für Absolventinnen und Absolventen des Leistungszugs E nach § 51. Sind diese nicht erfüllt, kann auf Empfehlung des Klassenkonvents und der Schulleitung des Zentrums für Brückenangebote, dem Absolvieren einer von der Bildungs-, Kultur- und Sportdirektion angebotenen, berufs- und schulwahlbezogenen Neigungs- und Eignungsabklärung sowie dem Bestehen einer kantonalen Leistungsabklärung ein Übertritt in die Fachmittel- bzw. Wirtschaftsmittelschule durch die Hauptabteilung Mittelschulen und Berufsschulen bewilligt werden.
+<sup>2</sup> Der Übertritt aus schulischen und kombinierten Brückenangeboten in die weiterführenden Schulen und Berufsmaturitätsschulen richtet sich nach den Voraussetzungen für den Übertritt aus der Sekundarstufe I.
 
-<sup>3</sup> …
+<sup>3</sup> Sind die Voraussetzungen nach Abs. 2 nicht erfüllt, bewilligt die Hauptabteilung Berufs- und Mittelschulen der Dienststelle BMH den Übertritt aus schulischen und kombinierten Brückenangeboten in die Fach-, Wirtschafts- bzw. Informatikmittelschule, sofern kumulativ:
 
-<sup>4</sup> …
+- a. eine Empfehlung des Klassenkonvents sowie der Schulleitung des Anbieters des Brückenangebots vorliegt,
+- b. die Schülerin oder der Schüler eine von der Bildungs-, Kultur- und Sportdirektion angebotene, berufs- und schulwahlbezogene Neigungs- und Eignungsabklärung absolviert hat,
+- c. die Schülerin oder der Schüler die kantonale Leistungsabklärung erfolgreich bestanden hat.
 
-<sup>5</sup> Die Lernenden der Brückenangebote erhalten am Ende des Brückenjahrs einen Leistungsnachweis über ihre fachlichen und überfachlichen Kompetenzen und allfällige weitere Kompetenznachweise.
+<sup>4</sup> Sind die Voraussetzungen nach Abs. 2 nicht erfüllt, kann der Übertritt aus schulischen und kombinierten Brückenangeboten in die Berufsmaturitätsschule während der Lehre in der betrieblich organisierten Grundbildung auf Empfehlung des Klassenkonvents und der Schulleitung des Brückenangebots im Einzelfall nach Ermessen durch die Schulleitung der aufnehmenden Schule bewilligt werden.
+
+<sup>5</sup> Die Lernenden der kantonalen Brückenangebote erhalten am Ende des Brückenjahres einen Leistungsnachweis über ihre fachlichen und überfachlichen Kompetenzen und allfällige weitere Kompetenznachweise.
+
+<sup>6</sup> Der Übertritt von Lernenden mit ungenügenden Deutschkenntnissen aus dem integrativen Brückenangebot in ein reguläres Bildungsangebot der Sekundarstufe II erfolgt auf Gesuch hin im Einzelfall nach Ermessen der Hauptabteilung Berufs- und Mittelschulen der Dienststelle BMH.
 
 #### § 56
 
