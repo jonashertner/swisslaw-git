@@ -4,13 +4,13 @@ number: "412.0.11"
 title: "Règlement sur l'enseignement secondaire supérieur"
 short: RESS
 language: fr
-version: 2022-08-01
-valid_until: 2025-07-31
-version_adopted: 2022-06-14
+version: 2025-08-01
+valid_until: 2025-08-14
+version_adopted: 2025-06-17
 adopted: 2021-05-26
 in_force: 2021-08-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/412.0.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7520/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8227/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Enseignement secondaire supérieur – R
 
 (RESS)
 
-du 26.05.2021 (version entrée en vigueur le 01.08.2022)
+du 26.05.2021 (version entrée en vigueur le 01.08.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -65,7 +65,7 @@ Arrête:
 
 **Formation en école de culture générale (art. 12 LESS)**
 
-<sup>1</sup> La formation en école de culture générale prépare à l'obtention du certificat de culture générale et du certificat de maturité spécialisée dans les domaines de la santé, du travail social et de la pédagogie, conformément à la réglementation intercantonale sur la reconnaissance de ces certificats.
+<sup>1</sup> La formation en école de culture générale prépare à l'obtention du certificat de culture générale et du certificat de maturité spécialisée dans les domaines professionnels Santé/Sciences expérimentales, Travail social et Pédagogie, conformément à la réglementation intercantonale sur la reconnaissance de ces certificats.
 
 <sup>2</sup> L'organisation de la formation en école de culture générale, notamment la structure des études et les conditions de promotion, est précisée par le Conseil d'Etat.
 
@@ -79,7 +79,7 @@ Arrête:
 
 <sup>1</sup> La passerelle de la maturité professionnelle ou spécialisée aux hautes écoles universitaires dure une année.
 
-<sup>2</sup> Le cours préparatoire permettant l'accès à la procédure d'admission à la Haute Ecole pédagogique Fribourg (HEP-PH FR) dure une année.
+<sup>2</sup> La formation à l'examen complémentaire permettant l'accès à la procédure d'admission à la formation en enseignement primaire de l'Université de Fribourg dure une année.
 
 <sup>3</sup> L'organisation de ces formations, notamment les lieux de formation, la structure des études ainsi que les modalités et les conditions d'obtention des certificats, est précisée par le Conseil d'Etat.
 
@@ -255,7 +255,7 @@ Arrête:
 - b) certificat fédéral de capacité et de maturité professionnelle dans le domaine du commerce;
 - c) certificat de culture générale et de maturité spécialisée;
 - d) certificat de l'examen complémentaire Passerelle maturité professionnelle/spécialisée – hautes écoles universitaires;
-- e) attestation de l'examen complémentaire permettant l'accès à la procédure d'admission de la HEP-PH FR.
+- e) attestation de réussite de l'examen permettant l'accès à la procédure d'admission à la formation en enseignement primaire de l'Université de Fribourg.
 
 <sup>2</sup> Est réservée la réglementation relative à d'autres certificats en application de l'article 8 LESS.
 

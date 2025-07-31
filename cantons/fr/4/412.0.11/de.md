@@ -4,13 +4,13 @@ number: "412.0.11"
 title: Reglement über den Mittelschulunterricht
 short: MSR
 language: de
-version: 2022-08-01
-valid_until: 2025-07-31
-version_adopted: 2022-06-14
+version: 2025-08-01
+valid_until: 2025-08-14
+version_adopted: 2025-06-17
 adopted: 2021-05-26
 in_force: 2021-08-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/412.0.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7520/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8227/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Mittelschulunterricht – R
 
 (MSR)
 
-vom 26.05.2021 (Fassung in Kraft getreten am 01.08.2022)
+vom 26.05.2021 (Fassung in Kraft getreten am 01.08.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -65,7 +65,7 @@ beschliesst:
 
 **Fachmittelschulausbildung (Art. 12 MSG)**
 
-<sup>1</sup> Die Fachmittelschulausbildung bereitet entsprechend den interkantonalen Bestimmungen über die Anerkennung dieser Ausweise auf die Erlangung des Fachmittelschulausweises sowie des Fachmaturitätszeugnisses in den Berufsfeldern Gesundheit, Soziale Arbeit und Pädagogik vor.
+<sup>1</sup> Die Fachmittelschulausbildung bereitet entsprechend den interkantonalen Bestimmungen über die Anerkennung dieser Ausweise auf die Erlangung des Fachmittelschulausweises und des Fachmaturitätszeugnisses in den Berufsfeldern Gesundheit/Naturwissenschaften, Soziale Arbeit und Pädagogik vor.
 
 <sup>2</sup> Die Organisation der Fachmittelschulausbildung, namentlich die Gliederung des Unterrichts und die Promotionsbedingungen, werden vom Staatsrat näher ausgeführt.
 
@@ -79,7 +79,7 @@ beschliesst:
 
 <sup>1</sup> Die Passerelle Berufsmaturität/Fachmaturität – universitäre Hochschulen dauert ein Jahr.
 
-<sup>2</sup> Der Vorbereitungskurs zur Aufnahme zum Zulassungsverfahren der Pädagogischen Hochschule Freiburg (HEP-PH FR) dauert ein Jahr.
+<sup>2</sup> Die Ausbildung zur Ergänzungsprüfung für das Zulassungsverfahren zur Ausbildung zur Lehrperson für die Primarstufe der Universität Freiburg dauert ein Jahr.
 
 <sup>3</sup> Die Organisation dieser Bildungsgänge, namentlich die Ausbildungsorte und die Gliederung des Unterrichts, sowie die Modalitäten und Bedingungen zur Erlangung der Ausweise werden vom Staatsrat näher ausgeführt.
 
@@ -255,7 +255,7 @@ beschliesst:
 - b) eidgenössisches Fähigkeitszeugnis als Kauffrau/Kaufmann und eidgenössischer kaufmännischer Berufsmaturitätsausweis,
 - c) Fachmittelschulausweis und Fachmaturitätszeugnis,
 - d) Ausweis über die Ergänzungsprüfung Passerelle Berufsmaturität/Fachmaturität – universitäre Hochschulen,
-- e) Bestätigung über die Ergänzungsprüfung, welche die Zulassung zum Aufnahmeverfahren an die HEP-PH FR ermöglicht.
+- e) Bescheinigung der bestandenen Prüfung für das Zulassungsverfahren zur Ausbildung zur Lehrperson für die Primarstufe der Universität Freiburg.
 
 <sup>2</sup> Die Bestimmungen über weitere Ausweise nach Artikel 8 MSG bleiben vorbehalten.
 
