@@ -4,13 +4,12 @@ number: "611.115"
 title: Verordnung über die Verwendung der Mittel des Swisslos-Fonds
 short: "Swisslos-Fonds-Verordnung, SLFV"
 language: de
-version: 2023-01-01
-valid_until: 2025-07-31
-version_adopted: 2021-12-22
+version: 2025-08-01
+version_adopted: 2025-05-14
 adopted: 1999-09-13
 in_force: 2000-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/611.115"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3251/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3820/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3251/pdf_file"
 
 (Swisslos-Fonds-Verordnung, SLFV)
 
-Vom 13.09.1999 (Stand 01.01.2023)
+Vom 13.09.1999 (Stand 01.08.2025)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -54,7 +53,7 @@ beschliesst:
 - d) für den Natur- und Umweltschutz;
 - e) für die Katastrophenhilfe, die humanitäre Hilfe und für Vorhaben der Entwicklungszusammenarbeit;
 - f) für wissenschaftliche und für soziale Vorhaben von allgemeinem Interesse;
-- g) zur subsidiären Abfederung der durch die Bekämpfung des Coronavirus (COVID-19) entstandenen finanziellen Schäden von natürlichen und juristischen Personen, die gemeinnützigen und wohltätigen Zwecken dienende Vorhaben realisieren und die grundsätzlich die übrigen Voraussetzungen dieser Verordnung erfüllen.
+- g) …
 
 #### § 3
 
@@ -167,7 +166,7 @@ beschliesst:
 
 **Zuständigkeit des BKS**
 
-<sup>1</sup> Das BKS
+<sup>1</sup> Das BKS verwaltet den Swisslos-Fonds und
 
 - a) entscheidet über die Ausrichtung von Beiträgen bis Fr. 20'000.– im Einzelfall;
 - b) stellt dem Regierungsrat Antrag um Ausrichtung von Beiträgen über Fr. 20'000.– im Einzelfall; bei Beiträgen bis Fr. 250'000.– im Einzelfall kann dies mittels Sammelvortrag erfolgen;
@@ -175,25 +174,22 @@ beschliesst:
 - d) prüft die Abrechnungen, legt die definitive Beitragshöhe für Fälle gemäss den §§ 6 Abs. 3 und 7 Abs. 2 fest und veranlasst die Auszahlung der bewilligten Beiträge;
 - e) weist ungenügend dokumentierte Gesuche zur Vervollständigung an die Gesuchstellenden zurück;
 - f) lehnt Gesuche, welche die lotterierechtlichen Vorgaben nicht erfüllen, ab;
-- g) holt bei den betroffenen Departementen oder der Staatskanzlei eine Stellungnahme ein.
+- g) holt bei den betroffenen Departementen oder der Staatskanzlei eine Stellungnahme ein;
+- h) stellt dem Regierungsrat Antrag über die Festlegung der Jahresschwerpunkte und des Rahmenbudgets;
+- i) legt jeweils zum Jahresbeginn dem Regierungsrat eine Gesamtübersicht über die geplanten Erträge und Aufwendungen sowie über die hängigen Verpflichtungen vor;
+- j) erstellt die Jahresrechnung, lässt sie durch die Finanzkontrolle prüfen und unterbreitet sie dem Regierungsrat zusammen mit dem Jahresbericht zur Genehmigung.
 
 <sup>2</sup> In begründeten Einzelfällen, namentlich bei Differenzen in der Beurteilung zwischen dem BKS und den Departementen beziehungsweise der Staatskanzlei, bei besonderer politischer Tragweite, bei besonderer Bedeutung oder in Fällen mit grosser präjudizierender Wirkung wird die Angelegenheit dem Regierungsrat zum Entscheid unterbreitet.
 
 #### § 12
 
-**Zuständigkeit des Departements Finanzen und Ressourcen**
-
-<sup>1</sup> Das Departement Finanzen und Ressourcen verwaltet den Swisslos-Fonds und
-
-- a) stellt dem Regierungsrat Antrag über die Festlegung der Jahresschwerpunkte und des Rahmenbudgets;
-- b) legt jeweils zum Jahresbeginn dem Regierungsrat eine Gesamtübersicht über die geplanten Erträge und Aufwendungen sowie über die hängigen Verpflichtungen vor;
-- c) erstellt die Jahresrechnung, lässt sie durch die Finanzkontrolle prüfen und unterbreitet sie dem Regierungsrat zusammen mit dem Jahresbericht zur Genehmigung.
+**…**
 
 #### § 12a
 
 **Mitberichtsverfahren**
 
-<sup>1</sup> Bei Beiträgen über Fr. 20'000.– ist ein Mitberichtsverfahren mit dem Departement Finanzen und Ressourcen sowie dem Rechtsdienst des Regierungsrats durchzuführen; bei Differenzen in der Beurteilung ist auch das jeweilige Departement beziehungsweise die Staatskanzlei in das Mitberichtsverfahren miteinzubeziehen.
+<sup>1</sup> Bei der Ausrichtung von Beiträgen über Fr. 20'000.– ist ein Mitberichtsverfahren mit dem Departement Finanzen und Ressourcen (DFR) sowie dem Rechtsdienst des Regierungsrats (RDRR) durchzuführen; bei Differenzen in der Beurteilung ist auch das jeweilige Departement beziehungsweise die Staatskanzlei in das Mitberichtsverfahren miteinzubeziehen.
 
 ## 4. Schluss- und Übergangsbestimmungen
 
