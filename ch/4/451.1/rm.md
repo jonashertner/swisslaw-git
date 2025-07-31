@@ -4,11 +4,11 @@ title: Ordinaziun dals 16 da schaner 1991 davart la protecziun da la natira e da
 short: OPNP
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/249_249_249"
 language: rm
-version: 2017-06-01
+version: 2025-08-01
 adopted: 1991-01-16
 in_force: 1991-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/249_249_249/20170601/rm/xml/fedlex-data-admin-ch-eli-cc-1991-249_249_249-20170601-rm-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/249_249_249/20170601/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/249_249_249/20250801/rm/xml/fedlex-data-admin-ch-eli-cc-1991-249_249_249-20250801-rm-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/249_249_249/20250801/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (OPNP)
 
-dals 16 da schaner 1991 (versiun dal 1. da zercladur 2017)
+dals 16 da schaner 1991 (versiun dal 1. d’avust 2025)
 
 Il Cussegl federal svizzer,
 
@@ -27,16 +27,16 @@ sa basond sin l’artitgel 26 da la Lescha federala dal 1. da fanadur 1966[^ingr
 
 decretescha:
 
-[^ingress-1]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^ingress-2]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^ingress-3]: [SR 0.455](https://fedlex.data.admin.ch/eli/cc/1982/802_802_802)
-[^ingress-4]: Versiun tenor la cifra I da la O dals 19 da zercl. 2000, en vigur dapi il 1. d’avust 2000 ([AS 2000 1869](https://fedlex.data.admin.ch/eli/oc/2000/288)).
+[^ingress-1]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^ingress-2]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^ingress-3]: [SR 0.455](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1853)
+[^ingress-4]: Versiun tenor la cifra I da l’O dals 19 da zer. 2000, en vigur dapi il 1. d’avust 2000 ([AS 2000 1869](https://fedlex.data.admin.ch/eli/oc/2000/288)).
 
 ## 1. secziun Protecziun da la natira, protecziun da la patria e tgira da monuments tar l’adempliment d’incumbensas federalas
 
 [^sec1-1]
 
-[^sec1-1]: Versiun tenor la cifra I da la O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^sec1-1]: Versiun tenor la cifra I da l’O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
 
 #### Art. 1
 
@@ -44,8 +44,8 @@ decretescha:
 
 Per ademplir las incumbensas federalas tenor l’artitgel 2 LPNP e per relaschar e midar decrets giuridics sco er concepts e plans secturials per questas incumbensas (art. 13 da la Lescha federala dals 22 da zercladur 1979[^1-2] davart la planisaziun dal territori) resguardan las autoritads federalas e chantunalas cumpetentas las pretensiuns da la protecziun da la natira, da la protecziun da la patria e da la tgira da monuments.
 
-[^1-1]: Versiun tenor la cifra I da la O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^1-2]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^1-1]: Versiun tenor la cifra I da l’O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^1-2]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 2
 
@@ -59,24 +59,31 @@ Per ademplir las incumbensas federalas tenor l’artitgel 2 LPNP e per relaschar
 
 <sup>4</sup> En il rom da lur cooperaziun giuditgeschan il UFAM, il UFC ed il UVIAS (al. 2) sco er ils posts chantunals spezialisads per la protecziun da la natira, per la protecziun da la patria e per la tgira da monuments (al. 3), sch’i dovra in’expertisa da la cumissiun federala spezialisada (art. 23 al. 2) tenor l’artitgel 7 LPNP.[^2-6]
 
-[^2-1]: Versiun tenor la cifra I da la O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^2-2]: La designaziun da l’unitad administrativa è vegnida adattada, applitgond l’art. 16 al. 3 da la O dals 17 da nov. 2004 davart las publicaziuns uffizialas ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Questa adattaziun è vegnida fatga en tut il text.
-[^2-3]: Il circul da l’unitad administrativa pertutgada è vegnì adattà, applitgond l’art. 16 al. 3 da la O dals 17 da nov. 2004 davart las publicaziuns uffizialas ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Questa adattaziun è vegnida fatga en tut il text.
-[^2-4]: Versiun tenor la cifra II 1 da la O dals 2 da favr. 2000 tar la LF davart la coordinaziun e la simplificaziun da las proceduras da decisiun, en vigur dapi il 1. da mars 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
-[^2-5]: Versiun tenor la cifra II 1 da la O dals 2 da favr. 2000 tar la LF davart la coordinaziun e la simplificaziun da las proceduras da decisiun, en vigur dapi il 1. da mars 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
-[^2-6]: Versiun tenor la cifra II 1 da la O dals 2 da favr. 2000 tar la LF davart la coordinaziun e la simplificaziun da las proceduras da decisiun, en vigur dapi il 1. da mars 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^2-1]: Versiun tenor la cifra I da l’O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^2-2]: La designaziun da l’unitad administrativa è vegnida adattada, applitgond l’art. 16 al. 3 da l’O dals 17 da nov. 2004 davart las publicaziuns uffizialas ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Questa adattaziun è vegnida fatga en tut il text.
+[^2-3]: Il circul da l’unitad administrativa pertutgada è vegnì adattà, applitgond l’art. 16 al. 3 da l’O dals 17 da nov. 2004 davart las publicaziuns uffizialas ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Questa adattaziun è vegnida fatga en tut il text.
+[^2-4]: Versiun tenor la cifra II 1 da l’O dals 2 da favr. 2000 tar la LF davart la coordinaziun e la simplificaziun da las proceduras da decisiun, en vigur dapi il 1. da mars 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^2-5]: Versiun tenor la cifra II 1 da l’O dals 2 da favr. 2000 tar la LF davart la coordinaziun e la simplificaziun da las proceduras da decisiun, en vigur dapi il 1. da mars 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^2-6]: Versiun tenor la cifra II 1 da l’O dals 2 da favr. 2000 tar la LF davart la coordinaziun e la simplificaziun da las proceduras da decisiun, en vigur dapi il 1. da mars 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
 #### Art. 3
 
-[^3-1]
+**Monuments culturals**[^3-1]
 
-[^3-1]: Abolì tras la cifra I da la O dals 18 da dec. 1995, cun effect dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+Sco monuments culturals tenor l’artitgel 12 alinea 1<sup>bis</sup> litera a LPNP valan:
+
+- a. bains culturals tenor l’artitgel 1 alinea 1 literas a e b da l’Ordinaziun dals 29 d’october 2014[^3-2] davart la protecziun dals bains culturals en cas da conflicts armads, catastrofas e situaziuns d’urgenza;
+- b. monuments culturals d’impurtanza naziunala u regiunala, che figureschan en inventaris che la Confederaziun redigia e maina sin basa la LPNP, dentant betg en l’Inventari federal dals lieus svizzers d’impurtanza naziunala degns da protecziun;
+- c. monuments culturals d’impurtanza naziunala u regiunala, per ils quals èn vegnidas concedidas contribuziuns federalas en il senn da l’artitgel 13 LPNP.
+
+[^3-1]: Versiun tenor la cifra I da l’O dals 25 da zer. 2025, en vigur dapi il 1. d’avust 2025 ([AS 2025 449](https://fedlex.data.admin.ch/eli/oc/2025/449)).
+[^3-2]: [SR 520.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7609)
 
 ## 2. secziun Sustegn da la protecziun da la natira, da la protecziun da la patria e da la tgira da monuments tras la Confederaziun
 
 [^sec2-1]
 
-[^sec2-1]: Versiun tenor la cifra I da la O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^sec2-1]: Versiun tenor la cifra I da l’O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
 
 #### Art. 4
 
@@ -97,7 +104,7 @@ La cunvegna da program ha en spezial ils suandants objects:
 
 <sup>4</sup> Il UFAM, il UFC ed il UVIAS decreteschan directivas davart il proceder en connex cun cunvegnas da program sco er davart las indicaziuns e las actas concernent ils objects da la cunvegna da program.
 
-[^4-1]: Versiun tenor la cifra I 4 da la O dals 7 da nov. 2007 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns, en vigur dapi il 1. da schan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^4-1]: Versiun tenor la cifra I 4 da l’O dals 7 da nov. 2007 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns, en vigur dapi il 1. da schan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 4a
 
@@ -115,7 +122,7 @@ Excepziunalmain pon agids finanzials vegnir concedids en il cas singul, sche las
 
 <sup>3</sup> Il UFAM, il UFC ed il UVIAS decreteschan directivas davart il proceder en connex cun la concessiun d’agids finanzials en il cas singul sco er davart las indicaziuns e las actas concernent la dumonda.
 
-[^4a-1]: Integrà tras la cifra I 4 da la O dals 7 da nov. 2007 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns, en vigur dapi il 1. da schan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^4a-1]: Integrà tras la cifra I 4 da l’O dals 7 da nov. 2007 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns, en vigur dapi il 1. da schan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 4b
 
@@ -131,7 +138,7 @@ La dumonda per in agid finanzial global sto cuntegnair indicaziuns davart:
 - b. las mesiras ch’èn previsiblamain necessarias per cuntanscher las finamiras e la realisaziun da questas mesiras;
 - c. l’efficacitad da las mesiras.
 
-[^4b-1]: Integrà tras la cifra I 4 da la O dals 7 da nov. 2007 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns, en vigur dapi il 1. da schan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^4b-1]: Integrà tras la cifra I 4 da l’O dals 7 da nov. 2007 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns, en vigur dapi il 1. da schan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 5
 
@@ -158,7 +165,7 @@ En ils secturs da la tgira da monuments, da l’archeologia, da la protecziun da
 
 <sup>4</sup> Excepziunalmain po la procentuala tenor l’alinea 3 vegnir auzada a maximalmain 45 pertschient, sch’i vegn cumprovà che las mesiras indispensablas na pon betg vegnir finanziadas autramain.
 
-[^5-1]: Versiun tenor la cifra I 4 da la O dals 7 da nov. 2007 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns, en vigur dapi il 1. da schan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^5-1]: Versiun tenor la cifra I 4 da l’O dals 7 da nov. 2007 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns, en vigur dapi il 1. da schan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 6
 
@@ -166,7 +173,7 @@ En ils secturs da la tgira da monuments, da l’archeologia, da la protecziun da
 
 Subvenziunabels èn mo ils custs ch’èn effectivamain resultads e ch’èn necessaris per ademplir las mesiras en moda adequata.
 
-[^6-1]: Versiun tenor la cifra I 4 da la O dals 7 da nov. 2007 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns, en vigur dapi il 1. da schan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^6-1]: Versiun tenor la cifra I 4 da l’O dals 7 da nov. 2007 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns, en vigur dapi il 1. da schan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 7
 
@@ -190,11 +197,11 @@ In agid finanzial per in object po vegnir garantì en spezial sut las suandantas
 
 <sup>2</sup> Il UFAM, il UFC ed il UVIAS pon desister da pretender ina documentaziun tenor l’alinea 1 litera f, sch’ina archivaziun adequata e l’accessibladad tar il chantun èn garantidas.[^7-5]
 
-[^7-1]: Versiun tenor la cifra I da la O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^7-2]: Abolì tras la cifra I da la O dals 18 da dec. 1995, cun effect dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^7-3]: Versiun tenor la cifra I da la O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^7-4]: Versiun tenor la cifra I da la O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^7-5]: Integrà tras la cifra I da la O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^7-1]: Versiun tenor la cifra I da l’O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^7-2]: Abolì tras la cifra I da l’O dals 18 da dec. 1995, cun effect dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^7-3]: Versiun tenor la cifra I da l’O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^7-4]: Versiun tenor la cifra I da l’O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^7-5]: Integrà tras la cifra I da l’O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
 
 #### Art. 8
 
@@ -202,7 +209,7 @@ In agid finanzial per in object po vegnir garantì en spezial sut las suandantas
 
 En la garanzia deliberescha il UFAM, il UFC u il UVIAS il proprietari dal bain immobigliar da l’obligaziun da laschar menziunar las mesiras da protecziun e da mantegniment en il register funsil, sche quellas vegnan garantidas autramain en moda equivalenta. En quest connex vegn resguardada l’impurtanza da l’object, sia periclitaziun potenziala sco er las pussaivladads da protecziun existentas tenor il dretg chantunal.
 
-[^8-1]: Versiun tenor la cifra I da la O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^8-1]: Versiun tenor la cifra I da l’O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
 
 #### Art. 9
 
@@ -212,9 +219,9 @@ En la garanzia deliberescha il UFAM, il UFC u il UVIAS il proprietari dal bain i
 
 <sup>2</sup> Questa disposiziun vala er per l’artitgel 14, per l’artitgel 14*a* ed, uschenavant ch’i na sa tracta betg da l’introducziun d’ina procedura d’expropriaziun, per l’artitgel 15 LPNP.
 
-[^9-1]: Versiun tenor la cifra I da la O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^9-2]: Versiun tenor la cifra I 4 da la O dals 7 da nov. 2007 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns, en vigur dapi il 1. da schan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
-[^9-3]: Versiun tenor la cifra I 4 da la O dals 7 da nov. 2007 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns, en vigur dapi il 1. da schan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^9-1]: Versiun tenor la cifra I da l’O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^9-2]: Versiun tenor la cifra I 4 da l’O dals 7 da nov. 2007 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns, en vigur dapi il 1. da schan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^9-3]: Versiun tenor la cifra I 4 da l’O dals 7 da nov. 2007 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns, en vigur dapi il 1. da schan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 10
 
@@ -224,7 +231,7 @@ En la garanzia deliberescha il UFAM, il UFC u il UVIAS il proprietari dal bain i
 
 <sup>2</sup> Ils agids finanzials en il cas singul vegnan pajads sin basa dals rendaquints ch’èn vegnids controllads ed approvads dal post chantunal spezialisà.
 
-[^10-1]: Versiun tenor la cifra I 4 da la O dals 7 da nov. 2007 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns, en vigur dapi il 1. da schan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^10-1]: Versiun tenor la cifra I 4 da l’O dals 7 da nov. 2007 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns, en vigur dapi il 1. da schan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 10a
 
@@ -239,7 +246,7 @@ En furma d’emprovas da controlla controllescha il UFAM, il UFC u il UVIAS:
 - a. la realisaziun da singulas mesiras tenor la cunvegna da program, tenor la disposiziun u tenor il contract;
 - b. l’utilisaziun da las contribuziuns pajadas.
 
-[^10a-1]: Integrà tras la cifra I 4 da la O dals 7 da nov. 2007 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns, en vigur dapi il 1. da schan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^10a-1]: Integrà tras la cifra I 4 da l’O dals 7 da nov. 2007 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns, en vigur dapi il 1. da schan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 11
 
@@ -256,8 +263,8 @@ En cas d’agids finanzials globals retegna il UFAM, il UFC u il UVIAS dal tutta
 
 <sup>3</sup> Las consequenzas giuridicas da disturbis da la prestaziun en cas d’agids finanzials garantids en il cas singul e la restituziun d’agids finanzials gia pajads sa drizzan tenor l’artitgel 28 da la Lescha da subvenziuns dals 5 d’october 1990[^11-2].
 
-[^11-1]: Versiun tenor la cifra I 4 da la O dals 7 da nov. 2007 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns, en vigur dapi il 1. da schan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
-[^11-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^11-1]: Versiun tenor la cifra I 4 da l’O dals 7 da nov. 2007 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns, en vigur dapi il 1. da schan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^11-2]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 12
 
@@ -272,9 +279,9 @@ Agids finanzials per activitads d’in interess naziunal pon er vegnir pajads:
 - a. ad organisaziuns internaziunalas per la protecziun da la natira, per la protecziun da la patria e per la tgira da monuments;
 - b. a secretariats da convenziuns internaziunalas per la protecziun da la natira, per la protecziun da la patria e per la tgira da monuments.[^12-3]
 
-[^12-1]: Versiun tenor la cifra I da la O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^12-2]: Versiun tenor la cifra I da la O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^12-3]: Versiun tenor la cifra I da la O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^12-1]: Versiun tenor la cifra I da l’O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^12-2]: Versiun tenor la cifra I da l’O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^12-3]: Versiun tenor la cifra I da l’O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
 
 #### Art. 12a
 
@@ -286,7 +293,7 @@ Agids finanzials per activitads d’in interess naziunal pon er vegnir pajads:
 
 <sup>3</sup> Ils agids finanzials ad auters retschaviders vegnan concedids da cas a cas. Valair valan ils artitgels 6, 9, 10*a* ed 11 alinea 3.
 
-[^12a-1]: Integrà tras la cifra I da la O dals 18 da dec. 1995 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)). Versiun tenor la cifra I 1 da la O dals 2 da favr. 2011 (ulteriur svilup da las cunvegnas da program en il sectur da l’ambient), en vigur dapi il 1. da mars 2011 ([AS 2011 649](https://fedlex.data.admin.ch/eli/oc/2011/103)).
+[^12a-1]: Integrà tras la cifra I da l’O dals 18 da dec. 1995 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)). Versiun tenor la cifra I 1 da l’O dals 2 da favr. 2011 (ulteriur svilup da las cunvegnas da program en il sectur da l’ambient), en vigur dapi il 1. da mars 2011 ([AS 2011 649](https://fedlex.data.admin.ch/eli/oc/2011/103)).
 
 ## 3. secziun Protecziun da la flora e da la fauna indigena
 
@@ -296,7 +303,7 @@ Agids finanzials per activitads d’in interess naziunal pon er vegnir pajads:
 
 La protecziun da la flora e da la fauna indigena duai sche pussaivel vegnir cuntanschida tras in’utilisaziun agricula e forestala adequata da lur spazis da viver (biotops). Questa incumbensa premetta ina collavuraziun tranter ils organs spezialisads da l’agricultura e da la selvicultura, da la protecziun da la natira e da la patria, da la protecziun da l’ambient sco er da la planisaziun dal territori.
 
-[^13-1]: Versiun tenor la cifra I 2 da la O dals 28 da schan. 2015 davart adattaziuns d’ordinaziuns en il sectur da l’ambient, en spezial concernent las cunvegnas da program per la perioda 2016–2019, en vigur dapi il 1. da mars 2015 ([AS 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)).
+[^13-1]: Versiun tenor la cifra I 2 da l’O dals 28 da schan. 2015 davart adattaziuns d’ordinaziuns en il sectur da l’ambient, en spezial concernent las cunvegnas da program per la perioda 2016–2019, en vigur dapi il 1. da mars 2015 ([AS 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)).
 
 #### Art. 14
 
@@ -339,7 +346,7 @@ Ina intervenziun tecnica che po donnegiar biotops degns da vegnir protegids dast
 
 <sup>7</sup> Tgi che fa u chaschuna ina intervenziun, sto vegnir obligà da prender las meglras mesiras pussaivlas per proteger u per restabilir ils biotops ubain da prender autras mesiras da cumpensaziun adequatas.
 
-[^14-1]: Versiun tenor la cifra I da la O dals 19 da zercl. 2000, en vigur dapi il 1. d’avust 2000 ([AS 2000 1869](https://fedlex.data.admin.ch/eli/oc/2000/288)).
+[^14-1]: Versiun tenor la cifra I da l’O dals 19 da zer. 2000, en vigur dapi il 1. d’avust 2000 ([AS 2000 1869](https://fedlex.data.admin.ch/eli/oc/2000/288)).
 
 #### Art. 15
 
@@ -349,8 +356,8 @@ Ina intervenziun tecnica che po donnegiar biotops degns da vegnir protegids dast
 
 <sup>2</sup> Per contribuziuns a prestaziuns ecologicas particularas en l’agricultura vala la noziun da las contribuziuns per la promoziun da la biodiversitad tenor l’Ordinaziun dals 23 d’october 2013[^15-1] davart ils pajaments directs.[^15-2]
 
-[^15-1]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^15-2]: Integrà tras la cifra I da la O dals 18 da dec. 1995 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)). Versiun tenor la cifra 3 da l’agiunta 9 tar l’O dals 23 d’oct. 2013 davart ils pajaments directs, en vigur dapi il 1. da schan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
+[^15-1]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
+[^15-2]: Integrà tras la cifra I da l’O dals 18 da dec. 1995 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)). Versiun tenor la cifra 3 da l’agiunta 9 da l’O dals 23 d’oct. 2013 davart ils pajaments directs, en vigur dapi il 1. da schan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
 
 #### Art. 16
 
@@ -366,9 +373,9 @@ Ina intervenziun tecnica che po donnegiar biotops degns da vegnir protegids dast
 
 <sup>1</sup> Ils chantuns reglan las mesiras da protecziun e da mantegniment dals biotops d’impurtanza naziunala sco er la finanziaziun da questas mesiras suenter avair consultà il UFAM.
 
-<sup>2</sup> e <sup>3</sup> ...[^17-1]
+<sup>2 e <sup>3</sup></sup> ...[^17-1]
 
-[^17-1]: Abolì tras la cifra I 4 da la O dals 7 da nov. 2007 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns, cun effect dapi il 1. da schan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^17-1]: Abolì tras la cifra I 4 da l’O dals 7 da nov. 2007 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns, cun effect dapi il 1. da schan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 18
 
@@ -390,8 +397,8 @@ L’autezza da las indemnisaziuns globalas per la protecziun e per il mantegnime
 
 <sup>3</sup> Dal rest valan ils artitgel 4–4*b* e 6–11.
 
-[^18-1]: Versiun tenor la cifra I 4 da la O dals 7 da nov. 2007 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns, en vigur dapi il 1. da schan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
-[^18-2]: Versiun tenor la cifra I 1 da la O dals 2 da favr. 2011 (ulteriur svilup da las cunvegnas da program en il sectur da l’ambient), en vigur dapi il 1. da mars 2011 ([AS 2011 649](https://fedlex.data.admin.ch/eli/oc/2011/103)).
+[^18-1]: Versiun tenor la cifra I 4 da l’O dals 7 da nov. 2007 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns, en vigur dapi il 1. da schan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^18-2]: Versiun tenor la cifra I 1 da l’O dals 2 da favr. 2011 (ulteriur svilup da las cunvegnas da program en il sectur da l’ambient), en vigur dapi il 1. da mars 2011 ([AS 2011 649](https://fedlex.data.admin.ch/eli/oc/2011/103)).
 
 #### Art. 19
 
@@ -399,8 +406,8 @@ L’autezza da las indemnisaziuns globalas per la protecziun e per il mantegnime
 
 Da las indemnisaziuns tenor l’artitgel 18 vegnan deducidas las contribuziuns che vegnan concedidas per la medema prestaziun ecologica sin la surfatscha utilisada da l’agricultura u sin la surfatscha da manaschi tenor ils artitgels 55–62 da l’Ordinaziun dals 23 d’october 2013[^19-2] davart ils pajaments directs.
 
-[^19-1]: Versiun tenor la cifra 3 da l’agiunta 9 tar l’O dals 23 d’oct. 2013 davart ils pajaments directs, en vigur dapi il 1. da schan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
-[^19-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^19-1]: Versiun tenor la cifra 3 da l’agiunta 9 da l’O dals 23 d’oct. 2013 davart ils pajaments directs, en vigur dapi il 1. da schan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
+[^19-2]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 #### Art. 20
 
@@ -426,9 +433,9 @@ Ultra da las permissiuns excepziunalas tenor l’artitgel 22 alinea 1 LPNP po l�
 
 <sup>5</sup> Tgi che cuntrafa a las disposiziuns dals alineas 1 e 2, è chastiabel tenor l’artitgel 24*a* LPNP.[^20-3]
 
-[^20-1]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
-[^20-2]: Versiun tenor la cifra I da la O dals 19 da zercl. 2000, en vigur dapi il 1. d’avust 2000 ([AS 2000 1869](https://fedlex.data.admin.ch/eli/oc/2000/288))
-[^20-3]: Integrà tras la cifra I da la O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^20-1]: [SR 922.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10979)
+[^20-2]: Versiun tenor la cifra I da l’O dals 19 da zer. 2000, en vigur dapi il 1. d’avust 2000 ([AS 2000 1869](https://fedlex.data.admin.ch/eli/oc/2000/288)).
+[^20-3]: Integrà tras la cifra I da l’O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
 
 #### Art. 21
 
@@ -440,13 +447,13 @@ En enclegientscha cun ils chantuns pertutgads po il Departament federal per ambi
 - b. sch’i èn vegnidas prendidas mesiras giuridicas correspundentas per proteger la spezia;
 - c. sch’i na resultan nagins dischavantatgs per il mantegniment da la diversitad da la spezia e per la conservaziun da sia particularitad genetica.
 
-[^21-1]: Versiun tenor la cifra II 1 da la O dals 2 da favr. 2000 tar la LF davart la coordinaziun e la simplificaziun da las proceduras da decisiun, en vigur dapi il 1. da mars 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^21-1]: Versiun tenor la cifra II 1 da l’O dals 2 da favr. 2000 tar la LF davart la coordinaziun e la simplificaziun da las proceduras da decisiun, en vigur dapi il 1. da mars 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
 ## 3*a*. secziun Palids e cuntradas da palì da bellezza particulara e d’impurtanza naziunala
 
 [^sec3a-1]
 
-[^sec3a-1]: Integrà tras la cifra I da la O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^sec3a-1]: Integrà tras la cifra I da l’O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
 
 #### Art. 21a
 
@@ -454,7 +461,7 @@ En enclegientscha cun ils chantuns pertutgads po il Departament federal per ambi
 
 La designaziun da las palids da bellezza particulara e d’impurtanza naziunala sco er lur protecziun e lur mantegniment sa drizzan tenor ils artitgels 16–19.
 
-[^21a-1]: Integrà tras la cifra I da la O dals 18 da dec. 1995 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)). Versiun tenor la cifra I 4 da la O dals 7 da nov. 2007 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns, en vigur dapi il 1. da schan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^21a-1]: Integrà tras la cifra I da l’O dals 18 da dec. 1995 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)). Versiun tenor la cifra I 4 da l’O dals 7 da nov. 2007 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns, en vigur dapi il 1. da schan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 22
 
@@ -477,10 +484,10 @@ L’autezza da las indemnisaziuns globalas per la protecziun e per il mantegnime
 
 <sup>4</sup> Las indemnisaziuns globalas per ils biotops d’impurtanza naziunala che sa chattan entaifer cuntradas da palì da bellezza particulara e d’impurtanza naziunala sa drizzan tenor ils artitgels 18 e 19.[^22-4]
 
-[^22-1]: Versiun tenor la cifra I da la O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^22-2]: Versiun tenor la cifra I 4 da la O dals 7 da nov. 2007 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns, en vigur dapi il 1. da schan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
-[^22-3]: Integrà tras la cifra I 4 da la O dals 7 da nov. 2007 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns, en vigur dapi il 1. da schan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
-[^22-4]: Versiun tenor la cifra I 4 da la O dals 7 da nov. 2007 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns, en vigur dapi il 1. da schan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^22-1]: Versiun tenor la cifra I da l’O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^22-2]: Versiun tenor la cifra I 4 da l’O dals 7 da nov. 2007 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns, en vigur dapi il 1. da schan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^22-3]: Integrà tras la cifra I 4 da l’O dals 7 da nov. 2007 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns, en vigur dapi il 1. da schan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^22-4]: Versiun tenor la cifra I 4 da l’O dals 7 da nov. 2007 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns, en vigur dapi il 1. da schan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 ## 4. secziun Execuziun
 
@@ -502,8 +509,8 @@ Ils posts federals spezialisads per la protecziun da la natira, per la protecziu
 
 <sup>4</sup> La Cumissiun federala per la protecziun da la natira e da la patria (CFNP) e la Cumissiun federala dals monuments istorics (CFMI) èn las cumissiuns spezialisadas consultativas da la Confederaziun en dumondas da la protecziun da la natira, da la protecziun da la patria e da la tgira da monuments.
 
-[^23-1]: Rectifitgà tenor la cifra I da la O dals 18 da dec. 1995 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)), tenor la cifra II 1 da la O dals 2 da favr. 2000 tar la LF davart la coordinaziun e la simplificaziun da las proceduras da decisiun ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)) e tenor l’art. 16 al. 3 da la O dals 17 da nov. 2004 davart las publicaziuns uffizialas, en vigur dapi il 1. da schan. 2005 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
-[^23-2]: Versiun tenor la cifra 1 da l’agiunta 2 da la O dals 29 da mars 2017 davart l’inventari federal da las cuntradas e dals monuments natirals, en vigur dapi il 1. da zer. 2017 ([AS 2017 2815](https://fedlex.data.admin.ch/eli/oc/2017/290)).
+[^23-1]: Rectifitgà tenor la cifra I da l’O dals 18 da dec. 1995 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)), tenor la cifra II 1 da l’O dals 2 da favr. 2000 tar la LF davart la coordinaziun e la simplificaziun da las proceduras da decisiun ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)) e tenor l’art. 16 al. 3 da l’O dals 17 da nov. 2004 davart las publicaziuns uffizialas, en vigur dapi il 1. da schan. 2005 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+[^23-2]: Versiun tenor la cifra 1 da l’agiunta 2 da l’O dals 29 da mars 2017 davart l’inventari federal da las cuntradas e dals monuments natirals, en vigur dapi il 1. da zer. 2017 ([AS 2017 2815](https://fedlex.data.admin.ch/eli/oc/2017/290)).
 
 #### Art. 24
 
@@ -519,9 +526,9 @@ Ils posts federals spezialisads per la protecziun da la natira, per la protecziu
 
 <sup>5</sup> La CFNP e la CFMI suttamettan annualmain al DATEC respectivamain al DFI in rapport davart lur activitad.[^24-3]
 
-[^24-1]: Versiun tenor la cifra I da la O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^24-2]: Versiun tenor la cifra II 1 da la O dals 2 da favr. 2000 tar la LF davart la coordinaziun e la simplificaziun da las proceduras da decisiun, en vigur dapi il 1. da mars 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
-[^24-3]: Versiun tenor la cifra II 1 da la O dals 2 da favr. 2000 tar la LF davart la coordinaziun e la simplificaziun da las proceduras da decisiun, en vigur dapi il 1. da mars 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^24-1]: Versiun tenor la cifra I da l’O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^24-2]: Versiun tenor la cifra II 1 da l’O dals 2 da favr. 2000 tar la LF davart la coordinaziun e la simplificaziun da las proceduras da decisiun, en vigur dapi il 1. da mars 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^24-3]: Versiun tenor la cifra II 1 da l’O dals 2 da favr. 2000 tar la LF davart la coordinaziun e la simplificaziun da las proceduras da decisiun, en vigur dapi il 1. da mars 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
 #### Art. 25
 
@@ -546,12 +553,12 @@ Plinavant ha la CFMI las suandantas incumbensas:
 
 <sup>3</sup> Ils commembers da la CFMI, ils consulents sco er autras persunas qualifitgadas pon vegnir incumbensads dal UFC sco experts per cussegliar e per accumpagnar ils chantuns tar l’execuziun da mesiras.[^25-6]
 
-[^25-1]: Versiun tenor la cifra I da la O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ( [AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^25-2]: Versiun tenor la cifra II 1 da la O dals 2 da favr. 2000 tar la LF davart la coordinaziun e la simplificaziun da las proceduras da decisiun, en vigur dapi il 1. da mars 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
-[^25-3]: Versiun tenor la cifra II 1 da la O dals 2 da favr. 2000 tar la LF davart la coordinaziun e la simplificaziun da las proceduras da decisiun, en vigur dapi il 1. da mars 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
-[^25-4]: Integrà tras la cifra I da la O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^25-5]: Integrà tras la cifra I da la O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^25-6]: Integrà tras la cifra I da la O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^25-1]: Versiun tenor la cifra I da l’O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^25-2]: Versiun tenor la cifra II 1 da l’O dals 2 da favr. 2000 tar la LF davart la coordinaziun e la simplificaziun da las proceduras da decisiun, en vigur dapi il 1. da mars 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^25-3]: Versiun tenor la cifra II 1 da l’O dals 2 da favr. 2000 tar la LF davart la coordinaziun e la simplificaziun da las proceduras da decisiun, en vigur dapi il 1. da mars 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^25-4]: Integrà tras la cifra I da l’O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^25-5]: Integrà tras la cifra I da l’O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^25-6]: Integrà tras la cifra I da l’O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
 
 #### Art. 26
 
@@ -561,8 +568,8 @@ Plinavant ha la CFMI las suandantas incumbensas:
 
 <sup>2</sup> En connex cun lur activitads che han in effect sin il territori (art. 1 da l’Ordinaziun dals 2 d’october 1989[^26-2] davart la planisaziun dal territori) resguardan ils chantuns las mesiras, per las qualas la Confederaziun paja agids finanzials u indemnisaziuns tenor questa ordinaziun. En spezial procuran els ch’ils plans e las prescripziuns, che reglan l’utilisaziun admissibla dal terren en il senn da la legislaziun davart la planisaziun dal territori, tegnian quint da las mesiras da protecziun.
 
-[^26-1]: Versiun da la frasa tenor la cifra I da la O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^26-2]: [[AS 1989 1985](https://fedlex.data.admin.ch/eli/oc/1989/1985_1985_1985), [1996 1534](https://fedlex.data.admin.ch/eli/oc/1996/1534_1534_1534). [AS 2000 2047](https://fedlex.data.admin.ch/eli/oc/2000/310)Art. 50]. Vesair ussa la O dals 28 da zercl. 2000 davart la planisaziun dal territori ([SR 700.1](https://fedlex.data.admin.ch/eli/cc/2000/310)).
+[^26-1]: Versiun da la frasa tenor la cifra I da l’O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^26-2]: [[AS 1989 1985](https://fedlex.data.admin.ch/eli/oc/1989/1985_1985_1985), [1996 1534](https://fedlex.data.admin.ch/eli/oc/1996/1534_1534_1534). [AS 2000 2047](https://fedlex.data.admin.ch/eli/oc/2000/310)art. 50]. Guardar ussa la O dals 28 da zer. 2000 davart la planisaziun dal territori ([SR 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)).
 
 #### Art. 27
 
@@ -583,10 +590,10 @@ Las autoritads cumpetentas communitgeschan las suandantas disposiziuns al UFAM:
 
 <sup>3</sup> Sche la CFNP, la CFMI, il UFAM, il UFC u il UVIAS han cooperà ad in project en il senn da l’artitgel 2, als communitgescha l’autoritad cumpetenta la disposiziun correspundenta, sch’els giavischan quai.
 
-[^27-1]: Versiun tenor la cifra I da la O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^27-2]: Integrà tras la cifra I I 1 da la O dals 2 da favr. 2000 tar la LF davart la coordinaziun e la simplificaziun da las proceduras da decisiun, en vigur dapi il 1. da mars 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
-[^27-3]: Integrà tras la cifra II da la O dals 2 d’avrigl 2014, en vigur dapi il 1. da matg 2014 ([AS 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
-[^27-4]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^27-1]: Versiun tenor la cifra I da l’O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^27-2]: Integrà tras la cifra I I 1 da l’O dals 2 da favr. 2000 tar la LF davart la coordinaziun e la simplificaziun da las proceduras da decisiun, en vigur dapi il 1. da mars 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^27-3]: Integrà tras la cifra II da l’O dals 2 d’avrigl 2014, en vigur dapi il 1. da matg 2014 ([AS 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
+[^27-4]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 27a
 
@@ -596,7 +603,7 @@ Las autoritads cumpetentas communitgeschan las suandantas disposiziuns al UFAM:
 
 <sup>2</sup> Il UFAM, il UFC ed il UVIAS fan controllas dal success per examinar, co che las mesiras legalas vegnan exequidas e sch’ellas èn adequatas. Els collavuran stretgamain cun ils uffizis federals e cun ils chantuns pertutgads.
 
-[^27a-1]: Integrà tras la cifra I da la O dals 19 da zercl. 2000, en vigur dapi il 1. d’avust 2000 ([AS 2000 1869](https://fedlex.data.admin.ch/eli/oc/2000/288)).
+[^27a-1]: Integrà tras la cifra I da l’O dals 19 da zer. 2000, en vigur dapi il 1. d’avust 2000 ([AS 2000 1869](https://fedlex.data.admin.ch/eli/oc/2000/288)).
 
 #### Art. 27b
 
@@ -604,8 +611,8 @@ Las autoritads cumpetentas communitgeschan las suandantas disposiziuns al UFAM:
 
 Il UFAM prescriva ils models da geodatas e da represchentaziun minimals, per ils quals el è designà sco post federal spezialisà en l’agiunta 1 da l’Ordinaziun dals 21 da matg 2008[^27b-2] davart la geoinfurmaziun.
 
-[^27b-1]: Integrà tras l’agiunta 2 cifra 2 da la O dals 21 da matg 2008 davart la geoinfurmaziun, en vigur dapi il 1. da fanadur 2008 ([AS 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
-[^27b-2]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^27b-1]: Integrà tras l’agiunta 2 cifra 2 da l’O dals 21 da matg 2008 davart la geoinfurmaziun, en vigur dapi il 1. da fanadur 2008 ([AS 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
+[^27b-2]: [SR 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 
 ## 5. secziun Disposiziuns finalas
 
@@ -637,10 +644,10 @@ Fin ch’il Cussegl federal n’ha betg designà ils biotops d’impurtanza nazi
 
 <sup>3</sup> Las autoritads ed ils uffizis da la Confederaziun sco er da ses instituts e da ses manaschis prendan là, nua ch’els èn cumpetents tenor la legislaziun federala speziala applitgabla, las mesiras immediatas tenor l’alinea 1 literas a e c.[^29-4]
 
-[^29-1]: Versiun tenor la cifra I da la O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^29-2]: Versiun tenor la cifra I da la O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^29-3]: Versiun tenor la cifra I 2 da la O dals 28 da schan. 2015 davart adattaziuns d’ordinaziuns en il sectur da l’ambient, en spezial concernent las cunvegnas da program per la perioda 2016–2019, en vigur dapi il 1. da mars 2015 ([AS 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)).
-[^29-4]: Integrà tras la cifra I da la O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^29-1]: Versiun tenor la cifra I da l’O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^29-2]: Versiun tenor la cifra I da l’O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^29-3]: Versiun tenor la cifra I 2 da l’O dals 28 da schan. 2015 davart adattaziuns d’ordinaziuns en il sectur da l’ambient, en spezial concernent las cunvegnas da program per la perioda 2016–2019, en vigur dapi il 1. da mars 2015 ([AS 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)).
+[^29-4]: Integrà tras la cifra I da l’O dals 18 da dec. 1995, en vigur dapi il 1. da favr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
 
 #### Art. 30
 
@@ -654,7 +661,7 @@ Agiunta 1[^t-1]
 
 ## Glista dals tips da spazis da viver degns da vegnir protegids
 
-[^t-1]: Versiun tenor la cifra II da la O dals 19 da zercl. 2000, en vigur dapi il 1. d’avust 2000 ([AS 2000 1869](https://fedlex.data.admin.ch/eli/oc/2000/288)).
+[^t-1]: Versiun tenor la cifra II da l’O dals 19 da zer. 2000, en vigur dapi il 1. d’avust 2000 ([AS 2000 1869](https://fedlex.data.admin.ch/eli/oc/2000/288)).
 
 <table>
 <tr><th>num scientific</th><th>rumantsch</th></tr>
@@ -752,7 +759,7 @@ Agiunta 2[^t-2]
 
 ## Glista da las plantas protegidas
 
-[^t-2]: Versiun tenor la cifra II da la O dals 19 da zercl. 2000, en vigur dapi il 1. d’avust 2000 ([AS 2000 1869](https://fedlex.data.admin.ch/eli/oc/2000/288), [2001 1662](https://fedlex.data.admin.ch/eli/oc/2001/251)).
+[^t-2]: Versiun tenor la cifra II da l’O dals 19 da zer. 2000, en vigur dapi il 1. d’avust 2000 ([AS 2000 1869](https://fedlex.data.admin.ch/eli/oc/2000/288), [2001 1662](https://fedlex.data.admin.ch/eli/oc/2001/251)).
 
 <table>
 <tr><th>num scientific</th><th>rumantsch</th></tr>
@@ -876,7 +883,7 @@ Agiunta 3[^t-3]
 
 ## Glista dals animals protegids
 
-[^t-3]: Versiun tenor la cifra II da la O dals 19 da zercl. 2000, en vigur dapi il 1. d’avust 2000 ([AS 2000 1869](https://fedlex.data.admin.ch/eli/oc/2000/288)).
+[^t-3]: Versiun tenor la cifra II da l’O dals 19 da zer. 2000, en vigur dapi il 1. d’avust 2000 ([AS 2000 1869](https://fedlex.data.admin.ch/eli/oc/2000/288)).
 
 <table>
 <tr><th>num scientific</th><th>rumantsch</th></tr>
@@ -1056,7 +1063,7 @@ Agiunta 4[^t-4]
 
 ## Glista da las spezias ch’èn da proteger sin plaun chantunal
 
-[^t-4]: Versiun tenor la cifra II da la O dals 19 da zercl. 2000, en vigur dapi il 1. d’avust 2000 ([AS 2000 1869](https://fedlex.data.admin.ch/eli/oc/2000/288), [2001 1662](https://fedlex.data.admin.ch/eli/oc/2001/251)).
+[^t-4]: Versiun tenor la cifra II da l’O dals 19 da zer. 2000, en vigur dapi il 1. d’avust 2000 ([AS 2000 1869](https://fedlex.data.admin.ch/eli/oc/2000/288), [2001 1662](https://fedlex.data.admin.ch/eli/oc/2001/251)).
 
 ### Spezias da plantas
 

@@ -4,11 +4,11 @@ title: Verordnung vom 16. Januar 1991 über den Natur- und Heimatschutz (NHV)
 short: NHV
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/249_249_249"
 language: de
-version: 2017-06-01
+version: 2025-08-01
 adopted: 1991-01-16
 in_force: 1991-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/249_249_249/20170601/de/xml/fedlex-data-admin-ch-eli-cc-1991-249_249_249-20170601-de-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/249_249_249/20170601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/249_249_249/20250801/de/xml/fedlex-data-admin-ch-eli-cc-1991-249_249_249-20250801-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/249_249_249/20250801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/249_249_249/20170601/de"
 
 (NHV)
 
-vom 16. Januar 1991 (Stand am 1. Juni 2017)
+vom 16. Januar 1991 (Stand am 1. August 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,9 +25,9 @@ gestützt auf Artikel 26 des Bundesgesetzes vom 1. Juli 1966[^ingress-1] über d
 
 verordnet:
 
-[^ingress-1]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^ingress-2]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^ingress-3]: [SR 0.455](https://fedlex.data.admin.ch/eli/cc/1982/802_802_802)
+[^ingress-1]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^ingress-2]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^ingress-3]: [SR 0.455](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1853)
 [^ingress-4]: Fassung gemäss Ziff. I der V vom 19. Juni 2000, in Kraft seit 1. Aug. 2000 ([AS 2000 1869](https://fedlex.data.admin.ch/eli/oc/2000/288)).
 
 ## 1. Abschnitt: Naturschutz, Heimatschutz und Denkmalpflege bei Erfüllung von Bundesaufgaben
@@ -43,7 +43,7 @@ verordnet:
 Bei der Erfüllung von Bundesaufgaben nach Artikel 2 NHG und bei der Schaffung und Änderung von Rechtserlassen sowie Konzepten und Sachplänen (Art. 13 des Raumplanungsgesetzes vom 22. Juni 1979[^1-2]) für diese Aufgaben berücksichtigen die zuständigen Behörden des Bundes und der Kantone die Anforderungen von Naturschutz, Heimatschutz und Denkmalpflege.
 
 [^1-1]: Fassung gemäss Ziff. I der V vom 18. Dez. 1995, in Kraft seit 1. Febr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^1-2]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^1-2]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 2
 
@@ -66,9 +66,16 @@ Bei der Erfüllung von Bundesaufgaben nach Artikel 2 NHG und bei der Schaffung u
 
 #### Art. 3
 
-[^3-1]
+**Kulturdenkmäler**[^3-1]
 
-[^3-1]: Aufgehoben durch Ziff. I der V vom 18. Dez. 1995, mit Wirkung seit 1. Febr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+Als Kulturdenkmäler nach Artikel 12 Absatz 1<sup>bis</sup> Buchstabe a NHG gelten:
+
+- a. Kulturgüter nach Artikel 1 Absatz 1 Buchstaben a und b der Verordnung vom 29. Oktober 2014[^3-2] über den Schutz der Kulturgüter bei bewaffneten Konflikten, bei Katastrophen und in Notlagen;
+- b. Kulturdenkmäler von nationaler oder regionaler Bedeutung, die in anderen Inventaren als dem Bundesinventar der schützenswerten Ortsbilder der Schweiz von nationaler Bedeutung verzeichnet sind, die der Bund gestützt auf das NHG erstellt und führt;
+- c. Kulturdenkmäler von nationaler oder regionaler Bedeutung, für die Bundesbeiträge im Sinne von Artikel 13 NHG zugesprochen wurden.
+
+[^3-1]: Fassung gemäss Ziff. I der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 449](https://fedlex.data.admin.ch/eli/oc/2025/449)).
+[^3-2]: [SR 520.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7609)
 
 ## 2. Abschnitt: Unterstützung von Naturschutz, Heimatschutz und Denkmalpflege durch den Bund
 
@@ -255,7 +262,7 @@ Bei globalen Finanzhilfen hält das BAFU, das BAK oder das ASTRA die Tranchenzah
 <sup>3</sup> Die Rechtsfolgen von Leistungsstörungen bei zugesicherten Finanzhilfen im Einzelfall und die Rückforderung bereits ausbezahlter Finanzhilfen richten sich nach Artikel 28 des Subventionsgesetzes vom 5. Oktober 1990[^11-2].
 
 [^11-1]: Fassung gemäss Ziff. I 4 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und die Aufgabenteilung zwischen Bund und Kantonen, in Kraft seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
-[^11-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^11-2]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 12
 
@@ -347,7 +354,7 @@ Ein technischer Eingriff, der schützenswerte Biotope beeinträchtigen kann, dar
 
 <sup>2</sup> Für Beiträge für besondere ökologische Leistungen in der Landwirtschaft gilt der Begriff Biodiversitätsbeiträge, wie er in der Direktzahlungsverordnung vom 23. Oktober 2013[^15-1] verwendet wird.[^15-2]
 
-[^15-1]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^15-1]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 [^15-2]: Eingefügt durch Ziff. I der V vom 18. Dez. 1995 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)). Fassung gemäss Anhang 9 Ziff. 3 der Direktzahlungsverordnung vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
 
 #### Art. 16
@@ -364,7 +371,7 @@ Ein technischer Eingriff, der schützenswerte Biotope beeinträchtigen kann, dar
 
 <sup>1</sup> Für die Biotope von nationaler Bedeutung regeln die Kantone nach Anhören des BAFU die Schutz- und Unterhaltsmassnahmen sowie deren Finanzierung.
 
-<sup>2</sup> und <sup>3</sup> …[^17-1]
+<sup>2 und <sup>3</sup></sup> …[^17-1]
 
 [^17-1]: Aufgehoben durch Ziff. I 4 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und die Aufgabenteilung zwischen Bund und Kantonen, mit Wirkung seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
@@ -398,7 +405,7 @@ Die Höhe der globalen Abgeltungen für Schutz und Unterhalt der Biotope und fü
 Die Abgeltungen nach Artikel 18 werden um die Beiträge gekürzt, die für die gleiche ökologische Leistung auf der landwirtschaftlichen Nutzfläche oder der Betriebsfläche nach den Artikeln 55–62 der Direktzahlungsverordnung vom 23. Oktober 2013[^19-2] gewährt werden.
 
 [^19-1]: Fassung gemäss Anhang 9 Ziff. 3 der Direktzahlungsverordnung vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
-[^19-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^19-2]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 #### Art. 20
 
@@ -424,7 +431,7 @@ Die zuständige Behörde kann zusätzlich zu den Ausnahmebewilligungen nach Arti
 
 <sup>5</sup> Wer gegen die Bestimmungen der Absätze 1 und 2 verstösst, ist strafbar nach Artikel 24*a* NHG.[^20-3]
 
-[^20-1]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+[^20-1]: [SR 922.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10979)
 [^20-2]: Fassung gemäss Ziff. I der V vom 19. Juni 2000, in Kraft seit 1. Aug. 2000 ([AS 2000 1869](https://fedlex.data.admin.ch/eli/oc/2000/288)).
 [^20-3]: Eingefügt durch Ziff. I der V vom 18. Dez. 1995, in Kraft seit 1. Febr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
 
@@ -560,7 +567,7 @@ Die EKD hat zudem folgende Aufgaben:
 <sup>2</sup> Die Kantone berücksichtigen bei ihren raumwirksamen Tätigkeiten (Art. 1 der V vom 2. Okt. 1989[^26-2] über die Raumplanung) die Massnahmen, für die der Bund Finanzhilfen oder Abgeltungen nach der vorliegenden Verordnung ausrichtet. Sie sorgen insbesondere dafür, dass die Pläne und Vorschriften, welche die zulässige Nutzung des Bodens im Sinne der Raumplanungsgesetzgebung regeln, den Schutzmassnahmen Rechnung tragen.
 
 [^26-1]: Fassung des Satzes gemäss Ziff. I der V vom 18. Dez. 1995, in Kraft seit 1. Febr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^26-2]: [[AS 1989 1985](https://fedlex.data.admin.ch/eli/oc/1989/1985_1985_1985), [1996 1534](https://fedlex.data.admin.ch/eli/oc/1996/1534_1534_1534). [AS 2000 2047](https://fedlex.data.admin.ch/eli/oc/2000/310)Art. 50]. Siehe heute die Raumplanungsverordnung vom 28. Juni 2000 ([SR 700.1](https://fedlex.data.admin.ch/eli/cc/2000/310)).
+[^26-2]: [[AS 1989 1985](https://fedlex.data.admin.ch/eli/oc/1989/1985_1985_1985), [1996 1534](https://fedlex.data.admin.ch/eli/oc/1996/1534_1534_1534). [AS 2000 2047](https://fedlex.data.admin.ch/eli/oc/2000/310)Art. 50]. Siehe heute die Raumplanungsverordnung vom 28. Juni 2000 ([SR 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)).
 
 #### Art. 27
 
@@ -584,7 +591,7 @@ Die zuständigen Behörden teilen dem BAFU folgende Verfügungen mit:
 [^27-1]: Fassung gemäss Ziff. I der V vom 18. Dez. 1995, in Kraft seit 1. Febr. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
 [^27-2]: Eingefügt durch Ziff. II 1 der V vom 2. Febr. 2000 zum Bundesgesetz über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. März 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 [^27-3]: Eingefügt durch Ziff. II der V vom 2. April 2014, in Kraft seit 1. Mai 2014 ([AS 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
-[^27-4]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^27-4]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 27a
 
@@ -603,7 +610,7 @@ Die zuständigen Behörden teilen dem BAFU folgende Verfügungen mit:
 Das BAFU gibt die minimalen Geodatenmodelle und Darstellungsmodelle für Geobasisdaten nach dieser Verordnung vor, für die es im Anhang 1 der Geoinformationsverordnung vom 21. Mai 2008[^27b-2] als Fachstelle des Bundes bezeichnet ist.
 
 [^27b-1]: Eingefügt durch Anhang 2 Ziff. 2 der V vom 21. Mai 2008 über Geoinformation, in Kraft seit 1. Juli 2008 ([AS 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
-[^27b-2]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^27b-2]: [SR 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 
 ## 5. Abschnitt: Schlussbestimmungen
 

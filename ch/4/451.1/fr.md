@@ -4,11 +4,11 @@ title: Ordonnance du 16 janvier 1991 sur la protection de la nature et du paysag
 short: OPN
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/249_249_249"
 language: fr
-version: 2017-06-01
+version: 2025-08-01
 adopted: 1991-01-16
 in_force: 1991-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/249_249_249/20170601/fr/xml/fedlex-data-admin-ch-eli-cc-1991-249_249_249-20170601-fr-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/249_249_249/20170601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/249_249_249/20250801/fr/xml/fedlex-data-admin-ch-eli-cc-1991-249_249_249-20250801-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/249_249_249/20250801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/249_249_249/20170601/fr"
 
 (OPN)
 
-du 16 janvier 1991 (État le 1<sup>er</sup> juin 2017)
+du 16 janvier 1991 (État le 1<sup>er</sup> août 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,9 +25,9 @@ vu l’art. 26 de la loi fédérale du 1<sup>er</sup> juillet 1966 sur la protec
 
 arrête:
 
-[^ingress-1]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^ingress-2]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^ingress-3]: [RS 0.455](https://fedlex.data.admin.ch/eli/cc/1982/802_802_802)
+[^ingress-1]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^ingress-2]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^ingress-3]: [RS 0.455](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1853)
 [^ingress-4]: Nouvelle teneur selon le ch. I de l’O du 19 juin 2000, en vigueur depuis le 1<sup>er</sup> août 2000 ([RO 2000 1869](https://fedlex.data.admin.ch/eli/oc/2000/288)).
 
 ## Section 1 Protection de la nature, protection du paysage et conservation des monuments historiques lors de l’accomplissement des tâches de la Confédération
@@ -43,7 +43,7 @@ arrête:
 Dans l’accomplissement des tâches de la Confédération prévues à l’art. 2 LPN et lors de l’établissement ou de la modification d’actes législatifs ainsi que de conceptions et plans sectoriels (art. 13 de la LF du 22 juin 1979 sur l’aménagement du territoire[^1-2]) y relatifs, les autorités compétentes de la Confédération et des cantons tiennent compte des exigences de la protection de la nature, de la protection du paysage et de la conservation des monuments historiques.
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 1995, en vigueur depuis le 1<sup>er</sup> fév. 1996 ([RO 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^1-2]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^1-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 2
 
@@ -66,9 +66,16 @@ Dans l’accomplissement des tâches de la Confédération prévues à l’art. 
 
 #### Art. 3
 
-[^3-1]
+**Monuments culturels**[^3-1]
 
-[^3-1]: Abrogé par le ch. I de l’O du 18 déc. 1995, avec effet au 1<sup>er</sup> fév. 1996 ([RO 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+Sont considérés comme des monuments culturels au sens de l’art. 12, al. 1<sup>bis</sup>, let. a, LPN:
+
+- a. les biens culturels visés à l’art. 1, al. 1, let. a et b, de l’ordonnance du 29 octobre 2014 sur la protection des biens culturels en cas de conflit armé, de catastrophe ou de situation d’urgence[^3-2];
+- b. les monuments culturels d’importance nationale ou régionale figurant dans des inventaires autres que l’inventaire fédéral des sites construits d’importance nationale à protéger en Suisse, établis et gérés par la Confédération en vertu de la LPN;
+- c. les monuments culturels d’importance nationale ou régionale auxquels des contributions fédérales ont été allouées en vertu de l’art. 13 LPN.
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 449](https://fedlex.data.admin.ch/eli/oc/2025/449)).
+[^3-2]: [RS 520.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7609)
 
 ## Section 2 Soutien accordé par la Confédération à la protection de la nature, à la protection du paysage et à la conservation des monuments historiques
 
@@ -254,7 +261,7 @@ Dans le cadre d’aides financières globales, l’OFEV, l’OFC ou l’OFROU re
 <sup>3</sup> Les effets juridiques de l’exécution imparfaite d’une prestation lorsque des aides financières ont été garanties au cas par cas et les demandes de restitution d’aides financières déjà versées sont régis par l’art. 28 de la loi du 5 octobre 1990 sur les subventions[^11-2].
 
 [^11-1]: Nouvelle teneur selon le ch. I 4 de l’O du 7 nov. 2007 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons, en vigueur depuis le 1<sup>er</sup> jan. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
-[^11-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^11-2]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 12
 
@@ -346,7 +353,7 @@ Une atteinte d’ordre technique qui peut entraîner la détérioration de bioto
 
 <sup>2</sup> S’agissant de subventions pour des prestations écologiques particulières dans l’agriculture, la définition des contributions à la promotion de la biodiversité figurant dans l’ordonnance du 23 octobre 2013 sur les paiements directs[^15-1] est applicable.[^15-2]
 
-[^15-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^15-1]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 [^15-2]: Introduit par le ch. I de l’O du 18 déc. 1995 ([RO 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)). Nouvelle teneur selon le ch. 3 de l’annexe 9 à l’O du 23 oct. 2013 sur les paiements directs, en vigueur depuis le 1<sup>er</sup> jan. 2014 ([RO 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
 
 #### Art. 16
@@ -363,7 +370,7 @@ Une atteinte d’ordre technique qui peut entraîner la détérioration de bioto
 
 <sup>1</sup> Les cantons, après avoir pris l’avis de l’OFEV, règlent les mesures de protection et d’entretien des biotopes d’importance nationale, ainsi que le financement de ces mesures.
 
-<sup>2</sup> et <sup>3</sup> …[^17-1]
+<sup>2 et <sup>3</sup></sup> …[^17-1]
 
 [^17-1]: Abrogés par le ch. I 4 de l’O du 7 nov. 2007 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons, avec effet au 1<sup>er</sup> jan. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
@@ -397,7 +404,7 @@ Le montant des indemnités globales pour la protection et l’entretien des biot
 Il convient de déduire, des indemnités prévues à l’art. 18, les contributions versées pour la même prestation écologique fournie sur une surface agricole utile ou sur la surface de l’exploitation agricole conformément aux art. 55 à 62 de l’ordonnance du 23 octobre 2013 sur les paiements directs[^19-2].
 
 [^19-1]: Nouvelle teneur selon le ch. 3 de l’annexe 9 à l’O du 23 oct. 2013 sur les paiements directs, en vigueur depuis le 1<sup>er</sup> jan. 2014 ([RO 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
-[^19-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^19-2]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 #### Art. 20
 
@@ -423,7 +430,7 @@ L’autorité compétente peut accorder d’autres autorisations exceptionnelles
 
 <sup>5</sup> Quiconque contrevient aux al. 1 et 2 est punissable en vertu de l’art. 24*a* LPN.[^20-3]
 
-[^20-1]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+[^20-1]: [RS 922.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10979)
 [^20-2]: Nouvelle teneur selon le ch. I de l’O du 19 juin 2000, en vigueur depuis le 1<sup>er</sup> août 2000 ([RO 2000 1869](https://fedlex.data.admin.ch/eli/oc/2000/288)).
 [^20-3]: Introduit par le ch. I de l’O du 18 déc. 1995, en vigueur depuis le 1<sup>er</sup> fév. 1996 ([RO 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
 
@@ -560,7 +567,7 @@ La CFMH a en outre les tâches suivantes:
 <sup>2</sup> Dans leurs activités ayant des effets sur l’organisation du territoire (art. 1 de l’O du 2 oct. 1989[^26-2] sur l’aménagement du territoire), les cantons prennent en considération les mesures pour lesquelles la Confédération alloue des aides financières ou des indemnités en vertu de la présente ordonnance. Ils veillent notamment à ce que les plans et prescriptions réglant l’utilisation admissible du sol au sens de la législation sur l’aménagement du territoire tiennent compte des mesures de protection.
 
 [^26-1]: Nouvelle teneur de la phrase selon le ch. I de l’O du 18 déc. 1995, en vigueur depuis le 1<sup>er</sup> fév. 1996 ([RO 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^26-2]: [[RO 1989 1985](https://fedlex.data.admin.ch/eli/oc/1989/1985_1985_1985), [1996 1534](https://fedlex.data.admin.ch/eli/oc/1996/1534_1534_1534). [RO 2000 2047](https://fedlex.data.admin.ch/eli/oc/2000/310)art. 50]. Voir actuellement l’O du 28 juin 2000 ([RS 700.1](https://fedlex.data.admin.ch/eli/cc/2000/310)).
+[^26-2]: [[RO 1989 1985](https://fedlex.data.admin.ch/eli/oc/1989/1985_1985_1985), [1996 1534](https://fedlex.data.admin.ch/eli/oc/1996/1534_1534_1534). [RO 2000 2047](https://fedlex.data.admin.ch/eli/oc/2000/310)art. 50]. Voir actuellement l’O du 28 juin 2000 ([RS 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)).
 
 #### Art. 27
 
@@ -584,7 +591,7 @@ Les autorités compétentes communiquent à l’OFEV les décisions suivantes:
 [^27-1]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 1995, en vigueur depuis le 1<sup>er</sup> fév. 1996 ([RO 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
 [^27-2]: Introduite par le ch. II 1 de l’O du 2 fév. 2000 relative à la LF sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 [^27-3]: Introduite par le ch. II de l’O du 2 avril 2014, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
-[^27-4]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^27-4]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 27a
 
@@ -603,7 +610,7 @@ Les autorités compétentes communiquent à l’OFEV les décisions suivantes:
 L’OFEV prescrit les modèles de géodonnées et les modèles de représentation minimaux pour les géodonnées de base visées par la présente ordonnance, lorsqu’il est désigné comme service spécialisé de la Confédération dans l’annexe 1 de l’ordonnance du 21 mai 2008 sur la géoinformation[^27b-2].
 
 [^27b-1]: Introduit par le ch. 2 de l’annexe 2 à l’O du 21 mai 2008 sur la géoinformation, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
-[^27b-2]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^27b-2]: [RS 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 
 ## Section 5 Dispositions finales
 

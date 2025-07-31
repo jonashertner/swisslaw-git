@@ -4,11 +4,11 @@ title: Ordinanza del 16 gennaio 1991 sulla protezione della natura e del paesagg
 short: OPN
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/249_249_249"
 language: it
-version: 2017-06-01
+version: 2025-08-01
 adopted: 1991-01-16
 in_force: 1991-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/249_249_249/20170601/it/xml/fedlex-data-admin-ch-eli-cc-1991-249_249_249-20170601-it-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/249_249_249/20170601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/249_249_249/20250801/it/xml/fedlex-data-admin-ch-eli-cc-1991-249_249_249-20250801-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/249_249_249/20250801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/249_249_249/20170601/it"
 
 (OPN)
 
-del 16 gennaio 1991 (Stato 1° giugno 2017)
+del 16 gennaio 1991 (Stato 1° agosto 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,16 +25,16 @@ visto l’articolo 26 della legge federale del 1° luglio 1966[^ingress-1] sulla
 
 ordina:
 
-[^ingress-1]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^ingress-2]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^ingress-3]: [RS 0.455](https://fedlex.data.admin.ch/eli/cc/1982/802_802_802)
-[^ingress-4]: Nuovo testo giusta il n. I dell’O del 19 giu. 2000, in vigore dal 1° ago. 2000 ([RU 2000 1869](https://fedlex.data.admin.ch/eli/oc/2000/288)).
+[^ingress-1]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^ingress-2]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^ingress-3]: [RS 0.455](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1853)
+[^ingress-4]: Nuovo testo giusta la cifra I dell’O del 19 giu. 2000, in vigore dal 1° ago. 2000 ([RU 2000 1869](https://fedlex.data.admin.ch/eli/oc/2000/288)).
 
 ## Sezione 1: Protezione della natura, protezione del paesaggio e conservazione dei monumenti storici nell’adempimento dei compiti della Confederazione
 
 [^sec1-1]
 
-[^sec1-1]: Nuovo testo giusta il n. I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^sec1-1]: Nuovo testo giusta la cifra I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
 
 #### Art. 1
 
@@ -42,8 +42,8 @@ ordina:
 
 Nell’adempimento dei compiti della Confederazione giusta l’articolo 2 LPN e nell’elaborazione e nella modificazione di testi legali nonché di concezioni e piani settoriali (art. 13 della LF del 22 giu. 1979[^1-2] sulla pianificazione del territorio), le competenti autorità della Confederazione e dei Cantoni tengono conto delle esigenze della protezione della natura, della protezione del paesaggio e della conservazione dei monumenti storici.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^1-2]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^1-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 2
 
@@ -57,24 +57,31 @@ Nell’adempimento dei compiti della Confederazione giusta l’articolo 2 LPN e 
 
 <sup>4</sup> L’UFAM, l’UFC e l’USTRA (cpv. 2) e gli organi cantonali incaricati della protezione della natura, della protezione del paesaggio e della conservazione dei monumenti storici (cpv. 3) determinano nell’ambito della loro collaborazione se è necessario richiedere giusta l’articolo 7 LPN una perizia della commissione federale competente (art. 23 cpv. 2).[^2-6]
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
 [^2-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^2-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^2-4]: Nuovo testo giusta il n. II 1 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
-[^2-5]: Nuovo testo giusta il n. II 1 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
-[^2-6]: Nuovo testo giusta il n. II 1 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^2-4]: Nuovo testo giusta la cifra II n. 1 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^2-5]: Nuovo testo giusta la cifra II n. 1 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^2-6]: Nuovo testo giusta la cifra II n. 1 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
 #### Art. 3
 
-[^3-1]
+**Monumenti culturali**[^3-1]
 
-[^3-1]: Abrogato dal n. I dell’O del 18 dic. 1995, con effetto dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+Sono considerati monumenti culturali secondo l’articolo 12 capoverso 1<sup>bis</sup> lettera a LPN:
+
+- a. i beni culturali di cui all’articolo 1 capoverso 1 lettere a e b dell’ordinanza del 29 ottobre 2014[^3-2] sulla protezione dei beni culturali in caso di conflitti armati, catastrofi e situazioni d’emergenza;
+- b. i monumenti culturali d’importanza nazionale o regionale elencati in inventari diversi dall’Inventario federale degli insediamenti svizzeri da proteggere d’importanza nazionale che la Confederazione compila e gestisce in virtù della LPN;
+- c. i monumenti culturali d’importanza nazionale o regionale per i quali sono stati concessi sussidi federali ai sensi dell’articolo 13 LPN.
+
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 449](https://fedlex.data.admin.ch/eli/oc/2025/449)).
+[^3-2]: [RS 520.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7609)
 
 ## Sezione 2: Sostegno accordato dalla Confederazione alla protezione della natura, alla protezione del paesaggio e alla conservazione dei monumenti storici
 
 [^sec2-1]
 
-[^sec2-1]: Nuovo testo giusta il n. I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^sec2-1]: Nuovo testo giusta la cifra I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
 
 #### Art. 4
 
@@ -95,7 +102,7 @@ Oggetto dell’accordo programmatico sono in particolare:
 
 <sup>4</sup> L’UFAM, l’UFC e l’USTRA emanano direttive relative alla procedura in materia di accordi programmatici, nonché alle informazioni e ai documenti riguardanti l’oggetto dell’accordo programmatico.
 
-[^4-1]: Nuovo testo giusta il n. I 4 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^4-1]: Nuovo testo giusta la cifra I n. 4 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 4a
 
@@ -113,7 +120,7 @@ In via eccezionale possono essere concessi aiuti finanziari nel singolo caso qua
 
 <sup>3</sup> L’UFAM, l’UFC e l’USTRA emanano direttive relative alla procedura per la concessione di aiuti finanziari nel singolo caso, nonché alle informazioni e ai documenti riguardanti la domanda.
 
-[^4a-1]: Introdotto dal n. I 4 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e ripartizione dei compiti tra Confederazione e Cantoni, in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^4a-1]: Introdotto dalla cifra I n. 4 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e ripartizione dei compiti tra Confederazione e Cantoni, in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 4b
 
@@ -129,7 +136,7 @@ La domanda di aiuto finanziario globale contiene informazioni concernenti:
 - b. le misure che saranno probabilmente necessarie per il raggiungimento degli obiettivi e la relativa esecuzione;
 - c. l’efficacia delle misure.
 
-[^4b-1]: Introdotto dal n. I 4 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^4b-1]: Introdotto dalla cifra I n. 4 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 5
 
@@ -156,7 +163,7 @@ Nei settori della conservazione dei monumenti storici, dell’archeologia, della
 
 <sup>4</sup> In via eccezionale, l’aliquota del sussidio secondo il capoverso 3 può essere aumentata al massimo al 45 per cento se è comprovato che altrimenti le misure indispensabili non possono essere finanziate.
 
-[^5-1]: Nuovo testo giusta il n. I 4 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^5-1]: Nuovo testo giusta la cifra I n. 4 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 6
 
@@ -164,7 +171,7 @@ Nei settori della conservazione dei monumenti storici, dell’archeologia, della
 
 Sono sussidiabili solo le spese effettive e necessarie per l’opportuna esecuzione delle misure.
 
-[^6-1]: Nuovo testo giusta il n. I 4 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^6-1]: Nuovo testo giusta la cifra I n. 4 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 7
 
@@ -178,7 +185,7 @@ L’assegnazione di un aiuto finanziario per un oggetto può segnatamente essere
 - b. l’oggetto è conservato in uno stato conforme allo scopo del sussidio e qualsiasi modificazione di questo stato richiede l’approvazione dell’UFAM, dell’UFC o dell’USTRA;
 - c. il beneficiario del sussidio presenta periodicamente un rapporto sullo stato dell’oggetto;
 - d.[^7-1] una persona designata dall’UFAM, dall’UFC o dall’USTRA può effettuare le opportune ispezioni durante l’esecuzione di lavori all’oggetto;
-- e.[^7-2] …
+- e.[^7-2] ...
 - f.[^7-3] tutti i rapporti come pure i rilievi grafici e fotografici richiesti sono consegnati gratuitamente all’UFAM, all’UFC o all’USTRA;
 - g.[^7-4] sull’oggetto è apposta un’iscrizione permanente che indica il concorso e la protezione della Confederazione.
 - h. sono eseguiti i necessari lavori di manutenzione;
@@ -188,11 +195,11 @@ L’assegnazione di un aiuto finanziario per un oggetto può segnatamente essere
 
 <sup>2</sup> L’UFAM, l’UFC e l’USTRA possono rinunciare a una documentazione ai sensi del capoverso 1 lettera f, se un’archiviazione appropriata e l’accesso presso il Cantone sono garantiti.[^7-5]
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^7-2]: Abrogata dal n. I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^7-3]: Nuovo testo giusta il n. I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^7-4]: Nuovo testo giusta il n. I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^7-5]: Introdotto dal n. I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^7-2]: Abrogata dalla cifra I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^7-3]: Nuovo testo giusta la cifra I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^7-4]: Nuovo testo giusta la cifra I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^7-5]: Introdotto dalla cifra I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
 
 #### Art. 8
 
@@ -200,7 +207,7 @@ L’assegnazione di un aiuto finanziario per un oggetto può segnatamente essere
 
 Nell’assegnazione di un aiuto finanziario, l’UFAM, l’UFC o l’USTRA liberano i proprietari fondiari dall’obbligo di menzione nel registro fondiario se le misure di protezione e di manutenzione sono garantite altrimenti in maniera equivalente. Essi tengono conto dell’importanza dell’oggetto, della sua potenziale messa in pericolo e delle possibilità di protezione previste dal diritto cantonale.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
 
 #### Art. 9
 
@@ -210,9 +217,9 @@ Nell’assegnazione di un aiuto finanziario, l’UFAM, l’UFC o l’USTRA liber
 
 <sup>2</sup> La presente disposizione vale anche per l’esecuzione degli articoli 14, 14*a* e, purché non si tratti dell’apertura di una procedura d’espropriazione, 15 LPN.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^9-2]: Nuovo testo giusta il n. I 4 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
-[^9-3]: Nuovo testo giusta il n. I 4 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^9-2]: Nuovo testo giusta la cifra I n. 4 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^9-3]: Nuovo testo giusta la cifra I n. 4 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 10
 
@@ -222,7 +229,7 @@ Nell’assegnazione di un aiuto finanziario, l’UFAM, l’UFC o l’USTRA liber
 
 <sup>2</sup> Gli aiuti finanziari nel singolo caso sono pagati in base ai conteggi verificati e approvati dal servizio cantonale competente.
 
-[^10-1]: Nuovo testo giusta il n. I 4 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^10-1]: Nuovo testo giusta la cifra I n. 4 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 10a
 
@@ -237,7 +244,7 @@ L’UFAM, l’UFC o l’USTRA controllano a campione:
 - a. l’esecuzione di singole misure conformemente all’accordo programmatico, alla decisione o al contratto;
 - b. l’impiego dei sussidi pagati.
 
-[^10a-1]: Introdotto dal n. I 4 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^10a-1]: Introdotto dalla cifra I n. 4 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 11
 
@@ -254,8 +261,8 @@ In caso di aiuti finanziari globali, l’UFAM, l’UFC o l’USTRA sospendono to
 
 <sup>3</sup> Le conseguenze giuridiche delle inadempienze nelle prestazioni per le quali sono stati assegnati aiuti finanziari nel singolo caso e la restituzione di aiuti finanziari già pagati sono rette dall’articolo 28 della legge del 5 ottobre 1990[^11-2] sui sussidi.
 
-[^11-1]: Nuovo testo giusta il n. I 4 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
-[^11-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^11-1]: Nuovo testo giusta la cifra I n. 4 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^11-2]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 12
 
@@ -270,9 +277,9 @@ Aiuti finanziari per attività d’interesse nazionale possono essere concessi a
 - a. organizzazioni internazionali di protezione della natura, di protezione del paesaggio e di conservazione dei monumenti storici;
 - b. segretariati previsti da convenzioni internazionali relative alla protezione della natura, alla protezione del paesaggio e alla conservazione dei monumenti storici.[^12-3]
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^12-2]: Nuovo testo giusta il n. I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^12-3]: Nuovo testo giusta il n. I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^12-2]: Nuovo testo giusta la cifra I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^12-3]: Nuovo testo giusta la cifra I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
 
 #### Art. 12a
 
@@ -284,7 +291,7 @@ Aiuti finanziari per attività d’interesse nazionale possono essere concessi a
 
 <sup>3</sup> Gli aiuti finanziari ad altri destinatari sono concessi nel singolo caso. Si applicano gli articoli 6, 9, 10*a* e 11 capoverso 3.
 
-[^12a-1]: Introdotto dal n. I dell’O del 18 dic. 1995 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)). Nuovo testo giusta il n. I 1 dell’O del 2 feb. 2011 (adeguamento allo sviluppo degli accordi programmatici nel settore ambientale), in vigore dal 1° mar. 2011 ([RU 2011 649](https://fedlex.data.admin.ch/eli/oc/2011/103)).
+[^12a-1]: Introdotto dalla cifra I dell’O del 18 dic. 1995 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)). Nuovo testo giusta la cifra I n. 1 dell’O del 2 feb. 2011 (adeguamento allo sviluppo degli accordi programmatici nel settore ambientale), in vigore dal 1° mar. 2011 ([RU 2011 649](https://fedlex.data.admin.ch/eli/oc/2011/103)).
 
 ## Sezione 3: Protezione della flora e della fauna indigene
 
@@ -294,7 +301,7 @@ Aiuti finanziari per attività d’interesse nazionale possono essere concessi a
 
 La protezione della flora e della fauna indigene deve essere raggiunta, se possibile, per mezzo di un adeguato sfruttamento agricolo e forestale del loro spazio vitale (biotopo). Questo compito richiede una collaborazione tra gli organi dell’agricoltura e dell’economia forestale, della protezione della natura e del paesaggio, della protezione dell’ambiente e della pianificazione del territorio.
 
-[^13-1]: Nuovo testo giusta il n. I 2 dell’O del 28 gen. 2015 che adegua ordinanze nel settore ambientale, legate in particolare agli accordi programmatici per il periodo 2016–2019, in vigore dal 1° mar. 2015 ([RU 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)).
+[^13-1]: Nuovo testo giusta la cifra I n. 2 dell’O del 28 gen. 2015 che adegua ordinanze nel settore ambientale, legate in particolare agli accordi programmatici per il periodo 2016–2019, in vigore dal 1° mar. 2015 ([RU 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)).
 
 #### Art. 14
 
@@ -337,8 +344,8 @@ Un intervento di natura tecnica passibile di deteriorare biotopi degni di protez
 
 <sup>7</sup> L’autore o il responsabile di un intervento su un biotopo degno di protezione deve essere tenuto a prendere provvedimenti per assicurarne la migliore protezione possibile, la ricostituzione oppure almeno una sostituzione confacente.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 2000, in vigore dal 1° ago 2000 ([RU 2000 1869](https://fedlex.data.admin.ch/eli/oc/2000/288)).
-[^14-2]: Nuova espr. giusta il n. I 1 dell’O del 2 feb. 2011 (adeguamento allo sviluppo degli accordi programmatici nel settore ambientale), in vigore dal 1° mar. 2011 ([RU 2011 649](https://fedlex.data.admin.ch/eli/oc/2011/103)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 19 giu. 2000, in vigore dal 1° ago 2000 ([RU 2000 1869](https://fedlex.data.admin.ch/eli/oc/2000/288)).
+[^14-2]: Nuova espr. giusta la cifra I n. 1 dell’O del 2 feb. 2011 (adeguamento allo sviluppo degli accordi programmatici nel settore ambientale), in vigore dal 1° mar. 2011 ([RU 2011 649](https://fedlex.data.admin.ch/eli/oc/2011/103)).
 
 #### Art. 15
 
@@ -348,8 +355,8 @@ Un intervento di natura tecnica passibile di deteriorare biotopi degni di protez
 
 <sup>2</sup> Ai sussidi per le prestazioni ecologiche particolari nell’agricoltura si applica la definizione dei contributi per la promozione della biodiversità data nell’ordinanza del 23 ottobre 2013[^15-1] sui pagamenti diretti.[^15-2]
 
-[^15-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^15-2]: Introdotto dal n. I dell’O del 18 dic. 1995 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)). Nuovo testo giusta il n. 3 dell’all. 9 all’O del 23 ott. 2013 sui pagamenti diretti, in vigore dal 1° gen. 2014 ([RU 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
+[^15-1]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
+[^15-2]: Introdotto dalla cifra I dell’O del 18 dic. 1995 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)). Nuovo testo giusta il n. 3 dell’all. 9 all’O del 23 ott. 2013 sui pagamenti diretti, in vigore dal 1° gen. 2014 ([RU 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
 
 #### Art. 16
 
@@ -365,9 +372,9 @@ Un intervento di natura tecnica passibile di deteriorare biotopi degni di protez
 
 <sup>1</sup> I Cantoni, previa consultazione dell’UFAM, disciplinano i provvedimenti di protezione e di manutenzione dei biotopi d’importanza nazionale e ne regolano il finanziamento.
 
-<sup>2</sup> e <sup>3</sup> …[^17-1]
+<sup>2 e <sup>3</sup></sup> …[^17-1]
 
-[^17-1]: Abrogati dal n. I 4 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^17-1]: Abrogati dalla cifra I n. 4 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 18
 
@@ -389,8 +396,8 @@ L’ammontare delle indennità globali per la protezione e la manutenzione dei b
 
 <sup>3</sup> Per il rimanente, si applicano gli articoli 4–4*b* e 6–11.
 
-[^18-1]: Nuovo testo giusta il n. I 4 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
-[^18-2]: Nuovo testo giusta il n. I 1 dell’O del 2 feb. 2011 (adeguamento allo sviluppo degli accordi programmatici nel settore ambientale), in vigore dal 1° mar. 2011 ([RU 2011 649](https://fedlex.data.admin.ch/eli/oc/2011/103)).
+[^18-1]: Nuovo testo giusta la cifra I n. 4 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^18-2]: Nuovo testo giusta la cifra I n. 1 dell’O del 2 feb. 2011 (adeguamento allo sviluppo degli accordi programmatici nel settore ambientale), in vigore dal 1° mar. 2011 ([RU 2011 649](https://fedlex.data.admin.ch/eli/oc/2011/103)).
 
 #### Art. 19
 
@@ -399,7 +406,7 @@ L’ammontare delle indennità globali per la protezione e la manutenzione dei b
 Dalle indennità di cui all’articolo 18 sono dedotti i sussidi concessi per la stessa prestazione ecologica sulla superficie agricola utile o sulla superficie aziendale secondo gli articoli 55–62 dell’ordinanza del 23 ottobre 2013[^19-2] sui pagamenti diretti.
 
 [^19-1]: Nuovo testo giusta il n. 3 dell’all. 9 dell’O del 23 ott. 2013 sui pagamenti diretti, in vigore dal 1° gen. 2014 ([RU 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
-[^19-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^19-2]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 #### Art. 20
 
@@ -425,10 +432,10 @@ L’autorità competente può accordare altre autorizzazioni eccezionali, oltre 
 
 <sup>5</sup> Chiunque contravviene alle disposizioni dei capoversi 1 e 2 è punibile secondo l’articolo 24*a* LPN.[^20-4]
 
-[^20-1]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
-[^20-2]: Nuova espr. giusta il n. I 1 dell’O del 2 feb. 2011 (adeguamento allo sviluppo degli accordi programmatici nel settore ambientale), in vigore dal 1° mar. 2011 ([RU 2011 649](https://fedlex.data.admin.ch/eli/oc/2011/103)).
-[^20-3]: Nuovo testo giusta il n. I dell’O del 19 giu. 2000, in vigore dal 1° ago 2000 ([RU 2000 1869](https://fedlex.data.admin.ch/eli/oc/2000/288)).
-[^20-4]: Introdotto dal n. I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^20-1]: [RS 922.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10979)
+[^20-2]: Nuova espr. giusta la cifra I n. 1 dell’O del 2 feb. 2011 (adeguamento allo sviluppo degli accordi programmatici nel settore ambientale), in vigore dal 1° mar. 2011 ([RU 2011 649](https://fedlex.data.admin.ch/eli/oc/2011/103)).
+[^20-3]: Nuovo testo giusta la cifra I dell’O del 19 giu. 2000, in vigore dal 1° ago 2000 ([RU 2000 1869](https://fedlex.data.admin.ch/eli/oc/2000/288)).
+[^20-4]: Introdotto dalla cifra I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
 
 #### Art. 21
 
@@ -440,13 +447,13 @@ Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle 
 - b. siano prese le disposizioni giuridiche necessarie per assicurare la protezione della specie;
 - c. non ne derivino inconvenienti per il mantenimento della varietà delle specie e la conservazione delle loro particolarità genetiche.
 
-[^21-1]: Nuovo testo giusta il n. II dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^21-1]: Nuovo testo giusta la cifra II dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
 ## Sezione 3*a* *:* Paludi e zone palustri di particolare bellezza e d’importanza nazionale
 
 [^sec3a-1]
 
-[^sec3a-1]: Introdotta dal n. I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^sec3a-1]: Introdotta dalla cifra I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
 
 #### Art. 21a
 
@@ -454,7 +461,7 @@ Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle 
 
 La designazione delle paludi di particolare bellezza e di importanza nazionale, nonché la loro protezione e manutenzione sono rette dagli articoli 16–19.
 
-[^21a-1]: Introdotto dal n. I dell’O del 18 dic. 1995 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)). Nuovo testo giusta il n. I 4 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^21a-1]: Introdotto dalla cifra I dell’O del 18 dic. 1995 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)). Nuovo testo giusta la cifra I n. 4 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 22
 
@@ -477,10 +484,10 @@ L’ammontare delle indennità globali per la protezione e la manutenzione delle
 
 <sup>4</sup> Le indennità globali per i biotopi d’importanza nazionale situati in zone palustri di particolare bellezza e d’importanza nazionale sono stabilite in base agli articoli 18 e 19.[^22-4]
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^22-2]: Nuovo testo giusta il n. I 4 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
-[^22-3]: Introdotto dal n. I 4 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e ripartizione dei compiti tra Confederazione e Cantoni, in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
-[^22-4]: Nuovo testo giusta il n. I 4 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^22-2]: Nuovo testo giusta la cifra I n. 4 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^22-3]: Introdotto dalla cifra I n. 4 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e ripartizione dei compiti tra Confederazione e Cantoni, in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^22-4]: Nuovo testo giusta la cifra I n. 4 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 ## Sezione 4: Esecuzione
 
@@ -502,7 +509,7 @@ Gli organi federali incaricati della protezione della natura, della protezione d
 
 <sup>4</sup> La Commissione federale per la protezione della natura e del paesaggio (CFNP) e la Commissione federale dei monumenti storici (CFMS) sono le commissioni consultive della Confederazione per le questioni riguardanti la protezione della natura, la protezione del paesaggio e la conservazione dei monumenti storici.
 
-[^23-1]: Aggiornato dai n. I dell’O del 18 dic. 1995 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)), n. II 1 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)) e dall’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni, in vigore dal 1° gen. 2005 ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+[^23-1]: Aggiornato dai cifra I dell’O del 18 dic. 1995 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)), cifra II n. 1 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)) e dall’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni, in vigore dal 1° gen. 2005 ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 [^23-2]: Nuovo testo giusta il n. 1 dell’all. 2 all’O del 29 mar. 2017 riguardante l’inventario federale dei paesaggi, siti e monumenti naturali, in vigore dal 1° giu. 2017 ([RU 2017 2815](https://fedlex.data.admin.ch/eli/oc/2017/290)).
 
 #### Art. 24
@@ -519,9 +526,9 @@ Gli organi federali incaricati della protezione della natura, della protezione d
 
 <sup>5</sup> La CFNP e la CFMS presentano annualmente al DATEC o al DFI un rapporto sulle loro attività.[^24-3]
 
-[^24-1]: Nuovo testo giusta il n. I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^24-2]: Nuovo testo giusta il n. II 1 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
-[^24-3]: Nuovo testo giusta il n. II 1 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^24-1]: Nuovo testo giusta la cifra I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^24-2]: Nuovo testo giusta la cifra II n. 1 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^24-3]: Nuovo testo giusta la cifra II n. 1 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
 #### Art. 25
 
@@ -546,12 +553,12 @@ La CFMS ha inoltre i seguenti compiti:
 
 <sup>3</sup> L’UFC può incaricare membri della CFMS, consulenti e altre persone qualificate di fornire perizie tecniche e sostegno ai Cantoni nell’attuazione di provvedimenti.[^25-6]
 
-[^25-1]: Nuovo testo giusta il n. I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^25-2]: Nuovo testo giusta il n. II 1 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
-[^25-3]: Nuovo testo giusta il n. II 1 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
-[^25-4]: Introdotta dal n. I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^25-5]: Introdotto dal n. I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^25-6]: Introdotto dal n. I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^25-1]: Nuovo testo giusta la cifra I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^25-2]: Nuovo testo giusta la cifra II n. 1 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^25-3]: Nuovo testo giusta la cifra II n. 1 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^25-4]: Introdotta dalla cifra I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^25-5]: Introdotto dalla cifra I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^25-6]: Introdotto dalla cifra I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
 
 #### Art. 26
 
@@ -561,8 +568,8 @@ La CFMS ha inoltre i seguenti compiti:
 
 <sup>2</sup> I Cantoni, nelle loro attività d’incidenza territoriale (art. 1 dell’O del 2 ott. 1989[^26-2] sulla pianificazione del territorio), prendono in considerazione le misure per le quali la Confederazione accorda aiuti finanziari o sussidi secondo la presente ordinanza. Vigilano segnatamente affinché i piani e le prescrizioni che disciplinano l’utilizzazione ammissibile del suolo secondo la legislazione sulla pianificazione del territorio tengano conto delle misure di protezione.
 
-[^26-1]: Nuovo testo del per. giusta il n. I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^26-2]: [[RU 1989 1985](https://fedlex.data.admin.ch/eli/oc/1989/1985_1985_1985), [1996 1534](https://fedlex.data.admin.ch/eli/oc/1996/1534_1534_1534). [RU 2000 2047](https://fedlex.data.admin.ch/eli/oc/2000/310)art. 50]. Vedi ora l’O del 28 giu. 2000 ([RS 700.1](https://fedlex.data.admin.ch/eli/cc/2000/310)).
+[^26-1]: Nuovo testo del per. giusta la cifra I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^26-2]: [[RU 1989 1985](https://fedlex.data.admin.ch/eli/oc/1989/1985_1985_1985), [1996 1534](https://fedlex.data.admin.ch/eli/oc/1996/1534_1534_1534). [RU 2000 2047](https://fedlex.data.admin.ch/eli/oc/2000/310)art. 50]. Vedi ora l’O del 28 giu. 2000 ([RS 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)).
 
 #### Art. 27
 
@@ -583,10 +590,10 @@ Le autorità competenti comunicano all’UFAM le seguenti decisioni:
 
 <sup>3</sup> Se la CFNP, la CFMS, l’UFAM, l’UFC e l’USTRA hanno collaborato ad un progetto giusta l’articolo 2, l’autorità competente comunica loro, su domanda, le relative decisioni.
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^27-2]: Introdotto dal n. II 1 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
-[^27-3]: Introdotta dal n. II dell’O del 2 apr. 2014, in vigore dal 1° mag. 2014 ([RU 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
-[^27-4]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^27-1]: Nuovo testo giusta la cifra I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^27-2]: Introdotto dalla cifra II n. 1 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^27-3]: Introdotta dalla cifra II dell’O del 2 apr. 2014, in vigore dal 1° mag. 2014 ([RU 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
+[^27-4]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 27a
 
@@ -596,7 +603,7 @@ Le autorità competenti comunicano all’UFAM le seguenti decisioni:
 
 <sup>2</sup> L’UFAM, l’UFC e l’USTRA effettuano i controlli dei risultati, finalizzati alla verifica delle misure legali e della loro idoneità. Essi collaborano strettamente con gli Uffici federali e i Cantoni interessati.
 
-[^27a-1]: Introdotto dal n. I dell’O del 19 giu. 2000, in vigore dal 1° ago. 2000 ([RU 2000 1869](https://fedlex.data.admin.ch/eli/oc/2000/288)).
+[^27a-1]: Introdotto dalla cifra I dell’O del 19 giu. 2000, in vigore dal 1° ago. 2000 ([RU 2000 1869](https://fedlex.data.admin.ch/eli/oc/2000/288)).
 
 #### Art. 27b
 
@@ -605,7 +612,7 @@ Le autorità competenti comunicano all’UFAM le seguenti decisioni:
 L’UFAM stabilisce i modelli di geodati e i modelli di rappresentazione minimi per i geodati di base ai sensi della presente ordinanza per i quali è designato quale servizio specializzato della Confederazione nell’allegato 1 dell’ordinanza del 21 maggio 2008[^27b-2] sulla geoinformazione.
 
 [^27b-1]: Introdotto dal n. 2 dell’all. 2 all’O del 21 mag. 2008 sulla geoinformazione, in vigore dal 1° lug. 2008 ([RU 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
-[^27b-2]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^27b-2]: [RS 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 
 ## Sezione 5: Disposizioni finali
 
@@ -618,7 +625,7 @@ Sono abrogate:
 - a. l’ordinanza d’esecuzione del 27 dicembre 1966[^28-1] della legge federale sulla protezione della natura e del paesaggio;
 - b. la decisione del Consiglio federale del 6 giugno 1988[^28-2] concernente l’applicazione dell’articolo 18*d* LPN.
 
-[^28-1]: [[RU 1966 1688](https://fedlex.data.admin.ch/eli/oc/1966/1646_1703_1688), [1967 282](https://fedlex.data.admin.ch/eli/oc/1967/_288_282), [1977 2273](https://fedlex.data.admin.ch/eli/oc/1977/2273_2273_2273)n. I 41, [1985 670](https://fedlex.data.admin.ch/eli/oc/1985/670_670_670)n. I 5, [1986 988](https://fedlex.data.admin.ch/eli/oc/1986/988_988_988)]
+[^28-1]: [[RU 1966 1688](https://fedlex.data.admin.ch/eli/oc/1966/1646_1703_1688), [1967 282](https://fedlex.data.admin.ch/eli/oc/1967/_288_282), [1977 2273](https://fedlex.data.admin.ch/eli/oc/1977/2273_2273_2273)cifra I n. 41, [1985 670](https://fedlex.data.admin.ch/eli/oc/1985/670_670_670)cifra I n. 5, [1986 988](https://fedlex.data.admin.ch/eli/oc/1986/988_988_988)]
 [^28-2]: Non pubblicata nella RU.
 
 #### Art. 29
@@ -637,10 +644,10 @@ Finché il Consiglio federale non avrà designato i biotopi d’importanza nazio
 
 <sup>3</sup> Le autorità e i servizi ufficiali della Confederazione come pure i suoi istituti e aziende adottano i provvedimenti d’urgenza di cui al capoverso 1 lettere a e c negli ambiti che competono loro in virtù della speciale legislazione federale in materia.[^29-4]
 
-[^29-1]: Nuovo testo giusta il n. I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^29-2]: Nuovo testo giusta il n. I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^29-3]: Nuovo testo giusta il n. I 2 dell’O del 28 gen. 2015 che adegua ordinanze nel settore ambientale, legate in particolare agli accordi programmatici per il periodo 2016–2019, in vigore dal 1° mar. 2015 ([RU 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)).
-[^29-4]: Introdotto dal n. I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^29-1]: Nuovo testo giusta la cifra I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^29-2]: Nuovo testo giusta la cifra I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^29-3]: Nuovo testo giusta la cifra I n. 2 dell’O del 28 gen. 2015 che adegua ordinanze nel settore ambientale, legate in particolare agli accordi programmatici per il periodo 2016–2019, in vigore dal 1° mar. 2015 ([RU 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)).
+[^29-4]: Introdotto dalla cifra I dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
 
 #### Art. 30
 
@@ -654,7 +661,7 @@ Allegato 1[^t-1]
 
 ## Elenco degli ambienti naturali degni di protezione
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del 19 giu. 2000, in vigore dal 1° ago 2000 ([RU 2000 1869](https://fedlex.data.admin.ch/eli/oc/2000/288)).
+[^t-1]: Nuovo testo giusta la cifra II dell’O del 19 giu. 2000, in vigore dal 1° ago 2000 ([RU 2000 1869](https://fedlex.data.admin.ch/eli/oc/2000/288)).
 
 <table>
 <tr><th colspan="3">Nome scientifico</th><th>Italiano</th></tr>
@@ -752,7 +759,7 @@ Allegato 2[^t-2]
 
 ## Elenco delle specie vegetali protette
 
-[^t-2]: Nuovo testo giusta il n. II dell’O del 19 giu. 2000, in vigore dal 1° ago 2000 ([RU 2000 1869](https://fedlex.data.admin.ch/eli/oc/2000/288), [2001 1662](https://fedlex.data.admin.ch/eli/oc/2001/251)).
+[^t-2]: Nuovo testo giusta la cifra II dell’O del 19 giu. 2000, in vigore dal 1° ago 2000 ([RU 2000 1869](https://fedlex.data.admin.ch/eli/oc/2000/288), [2001 1662](https://fedlex.data.admin.ch/eli/oc/2001/251)).
 
 <table>
 <tr><th colspan="2">Nome scientifico</th><th>Italiano</th></tr>
@@ -876,7 +883,7 @@ Allegato 3[^t-3]
 
 ## Elenco delle specie animali protette
 
-[^t-3]: Nuovo testo giusta il n. II dell’O del 19 giu. 2000, in vigore dal 1° ago 2000 ([RU 2000 1869](https://fedlex.data.admin.ch/eli/oc/2000/288)).
+[^t-3]: Nuovo testo giusta la cifra II dell’O del 19 giu. 2000, in vigore dal 1° ago 2000 ([RU 2000 1869](https://fedlex.data.admin.ch/eli/oc/2000/288)).
 
 <table>
 <tr><th colspan="2">Nome scientifico</th><th>Italiano</th></tr>
@@ -1056,7 +1063,7 @@ Allegato 4[^t-4]
 
 ## Elenco delle specie da proteggere a livello cantonale
 
-[^t-4]: Nuovo testo giusta il n. II dell’O del 19 giu. 2000, in vigore dal 1° ago 2000 ([RU 2000 1869](https://fedlex.data.admin.ch/eli/oc/2000/288), [2001 1662](https://fedlex.data.admin.ch/eli/oc/2001/251)).
+[^t-4]: Nuovo testo giusta la cifra II dell’O del 19 giu. 2000, in vigore dal 1° ago 2000 ([RU 2000 1869](https://fedlex.data.admin.ch/eli/oc/2000/288), [2001 1662](https://fedlex.data.admin.ch/eli/oc/2001/251)).
 
 ### Specie vegetali
 

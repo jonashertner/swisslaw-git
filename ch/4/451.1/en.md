@@ -4,11 +4,11 @@ title: Ordinance of 16 January 1991 on the Protection of Nature and Cultural Her
 short: NCHO
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/249_249_249"
 language: en
-version: 2017-06-01
+version: 2025-08-01
 adopted: 1991-01-16
 in_force: 1991-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/249_249_249/20170601/en/xml/fedlex-data-admin-ch-eli-cc-1991-249_249_249-20170601-en-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/249_249_249/20170601/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/249_249_249/20250801/en/xml/fedlex-data-admin-ch-eli-cc-1991-249_249_249-20250801-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/249_249_249/20250801/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (NCHO)
 
-of 16 January 1991 (Status as of 1 June 2017)
+of 16 January 1991 (Status as of 1 August 2025)
 
 The Swiss Federal Council,
 
@@ -27,9 +27,9 @@ on the basis of Article 26 of the Federal Act of 1 July 1966[^ingress-1] on the 
 
 ordains:
 
-[^ingress-1]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^ingress-2]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^ingress-3]: [SR 0.455](https://fedlex.data.admin.ch/eli/cc/1982/802_802_802)
+[^ingress-1]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^ingress-2]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^ingress-3]: [SR 0.455](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1853)
 [^ingress-4]: Amended by No I of the O of 19 June 2000, in force since 1 Aug. 2000 ([AS 2000 1869](https://fedlex.data.admin.ch/eli/oc/2000/288)).
 
 ## Section 1 Nature Protection, Cultural Heritage Protection and Monument Preservation in the Fulfilment of Federal Tasks
@@ -45,7 +45,7 @@ ordains:
 In fulfilling federal tasks as specified in Article 2 of the NCHA, and in preparing and amending ordinances, concepts and sectoral plans (Art. 13 of the Federal Act of 22 June 1979[^1-2] on Spatial Planning) in relation to these tasks, the competent federal and cantonal authorities shall give due consideration to the requirements of nature protection, cultural heritage protection and monument preservation.
 
 [^1-1]: Amended by No I of the O of 18 Dec. 1995, in force since 1 Feb. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^1-2]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^1-2]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 2
 
@@ -68,9 +68,16 @@ In fulfilling federal tasks as specified in Article 2 of the NCHA, and in prepar
 
 #### Art. 3
 
-[^3-1]
+**Cultural monuments**[^3-1]
 
-[^3-1]: Repealed by No I of the O of 18 Dec. 1995, with effect from 1 Feb. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+Cultural monuments pursuant to Article 12 paragraph 1<sup>bis</sup> letter a NCHA are:
+
+- a. cultural property pursuant to Article 1 paragraph 1 letters a and b of the Ordinance of 29 October 2014[^3-2] on the Protection of Cultural Property during Armed Conflicts, Disasters and Emergencies;
+- b. cultural monuments of national and regional importance that are recorded in inventories other than the Federal Inventory of Swiss Heritage Sites of National Importance that the Confederation compiles and keeps on the basis of the NCHA;
+- c. cultural monuments of national and regional importance for which federal subsidies pursuant to Article 13 NCHA have been granted.
+
+[^3-1]: Amended by No I of the O of 25 June 2025, in force since 1 Aug. 2025 ([AS 2025 449](https://fedlex.data.admin.ch/eli/oc/2025/449)).
+[^3-2]: [SR 520.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7609)
 
 ## Section 2 Federal support for Nature Protection, Cultural Heritage Protection and Monument Preservation
 
@@ -150,7 +157,7 @@ The amount of financial assistance is determined by:
 
 <sup>3</sup>
 
-In the fields of monument preservation, archaeology, protection of sites of local character and protection of historic traffic routes, the financial assistance may also be calculated on the basis of the following maximum subsidies in per cent of the expenditure eligible for subsidy:
+In the fields of monument preservation, archaeology, protection of heritage sites and protection of historic traffic routes, the financial assistance may also be calculated on the basis of the following maximum subsidies in per cent of the expenditure eligible for subsidy:
 
 - a. 25 per cent for sites of national importance;
 - b. 20 per cent for sites of regional importance;
@@ -257,7 +264,7 @@ In the case of global financial assistance, the FOEN, the FOC or FEDRO shall wit
 <sup>3</sup> The legal consequences of instances of substandard compliance where financial assistance has been granted in specific cases and claims for the recovery of financial already paid out shall be governed by Article 28 of the Subsidies Act of 5 October 1990[^11-2].
 
 [^11-1]: Amended by No I 4 of the O of 7 Nov. 2007 on the New System of Financial Equalisation and Division of Tasks between the Confederation and the Cantons, in force since 1 Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
-[^11-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^11-2]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 12
 
@@ -349,7 +356,7 @@ Any technical intervention that could damage biotopes deserving protection may b
 
 <sup>2</sup> With regard to subsidies for special ecological measures in agriculture, the term biodiversity subsidy as used in the Direct Payments Ordinance of 23 October 2013[^15-1] applies.[^15-2]
 
-[^15-1]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^15-1]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 [^15-2]: Inserted by No I of the O of 18 Dec. 1995 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)). Amended by Annex 9 No 3 of the Direct Payments O of 23 Oct. 2013, in force since 1 Jan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
 
 #### Art. 16
@@ -400,7 +407,7 @@ The level of the global compensatory payments for the protection and upkeep of b
 The compensatory payments made under Article 18 shall be reduced by the amount of any subsidies provided for the same ecological service in relation to agricultural land used or farmed in terms of Articles 55-62 of the Direct Payments Ordinance 23 October 2013[^19-2].
 
 [^19-1]: Amended by Annex 9 No 3 of the Direct Payments O of 23 Oct. 2013, in force since 1 Jan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
-[^19-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^19-2]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 #### Art. 20
 
@@ -426,7 +433,7 @@ The competent authority may grant exceptional approvals in addition to those spe
 
 <sup>5</sup> Anyone infringes the provisions of paragraphs 1 and 2 is liable to the penalties under Article 24*a* NCHA.[^20-3]
 
-[^20-1]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+[^20-1]: [SR 922.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10979)
 [^20-2]: Amended by No I of the O of 19 June 2000, in force since 1 Aug. 2000 ([AS 2000 1869](https://fedlex.data.admin.ch/eli/oc/2000/288)).
 [^20-3]: Inserted by No I of the O of 18 Dec. 1995, in force since 1 Feb. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
 
@@ -493,7 +500,7 @@ The level of the global compensatory payments for the protection and upkeep of m
 The federal specialist agencies for nature, cultural heritage protection and monument preservation are:
 
 - a. the FOEN for nature and landscape protection;
-- b. the FOC for monument preservation, archaeology and protection of sites of local character;
+- b. the FOC for monument preservation, archaeology and protection of heritage sites;
 - c. FEDRO for the protection of historic traffic routes.
 
 <sup>2</sup> They shall implement the NCHA, unless other federal authorities are responsible. When fulfilling federal tasks in accordance with Articles 2–6 NCHA, they shall ensure that the authorities and the public are informed and advised in a coordinated manner.[^23-2]
@@ -562,7 +569,7 @@ The FCMP shall also have the following tasks:
 <sup>2</sup> In any activities that have an impact on land use (Art. 1 of the Ordinance of 2 Oct. 1989[^26-2] on Spatial Planning), the cantons shall give due consideration to measures for which the Confederation provides financial assistance or compensatory payments under this Ordinance. In particular, they shall ensure that protection measures are taken into account in the plans and regulations governing permissible use of land in accordance with spatial planning legislation.
 
 [^26-1]: Wording of sentence in accordance with No I of the O of 18 Dec. 1995, in force since 1 Feb. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^26-2]: **[**[[AS 1989 1985](https://www.fedlex.admin.ch/eli/oc/1989/1985_1985_1985/de)](https://fedlex.data.admin.ch/eli/oc/1989/1985_1985_1985), [[1996 1534](https://www.fedlex.admin.ch/eli/oc/1996/1534_1534_1534/de)](https://fedlex.data.admin.ch/eli/oc/1996/1534_1534_1534). [[AS 2000 2047](https://www.fedlex.admin.ch/eli/oc/2000/310/de)](https://fedlex.data.admin.ch/eli/oc/2000/310)Art. 50]. See now Spatial Planning of 28 June 2000 ([[SR 700.1](https://www.fedlex.admin.ch/eli/cc/2000/310/de)](https://fedlex.data.admin.ch/eli/cc/2000/310)).
+[^26-2]: **[** [[AS 1989 1985](https://www.fedlex.admin.ch/eli/oc/1989/1985_1985_1985/de)](https://fedlex.data.admin.ch/eli/oc/1989/1985_1985_1985), [[1996 1534](https://www.fedlex.admin.ch/eli/oc/1996/1534_1534_1534/de)](https://fedlex.data.admin.ch/eli/oc/1996/1534_1534_1534). [[AS 2000 2047](https://www.fedlex.admin.ch/eli/oc/2000/310/de)](https://fedlex.data.admin.ch/eli/oc/2000/310)Art. 50]. See now Spatial Planning of 28 June 2000 ( [[SR 700.1](https://www.fedlex.admin.ch/eli/cc/2000/310/de)](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)).
 
 #### Art. 27
 
@@ -586,7 +593,7 @@ The competent authorities shall notify the FOEN of any rulings on the following:
 [^27-1]: Amended by No I of the O of 18 Dec. 1995, in force since 1 Feb. 1996 ([AS 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
 [^27-2]: Inserted by No II 1 of the O of 2 Feb. 2000 to the Federal Act on the Coordination and Simplification of Decision-Making Procedures, in force since 1 Feb. 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 [^27-3]: Inserted by No II of the O of 2 April 2014, in force since 1 May 2014 ([AS 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
-[^27-4]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^27-4]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 27a
 
@@ -605,7 +612,7 @@ The competent authorities shall notify the FOEN of any rulings on the following:
 The FOEN shall provide the minimum geodata models and representation models for basic geographical data under this Ordinance for which it is designated as the federal specialist agency in Annex 1 to the Geoinformation Ordinance of 21 May 2008[^27b-2].
 
 [^27b-1]: Inserted by Annex 2 No 2 of the O of 21 May 2008 on Geoinformation, in force since 1 July 2008 ([AS 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
-[^27b-2]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^27b-2]: [SR 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 
 ## Section 5 Final Provisions
 
