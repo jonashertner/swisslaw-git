@@ -4,13 +4,13 @@ number: "421.322"
 title: Verordnung über die Ressourcierung der Volksschule
 short: Ressourcenverordnung
 language: de
-version: 2024-07-01
-valid_until: 2025-07-31
-version_adopted: 2024-05-01
+version: 2025-08-01
+valid_until: 2026-07-31
+version_adopted: 2025-06-18
 adopted: 2019-03-20
 in_force: 2020-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/421.322"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3716/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3832/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3716/pdf_file"
 
 (Ressourcenverordnung)
 
-Vom 20.03.2019 (Stand 01.07.2024)
+Vom 20.03.2019 (Stand 01.08.2025)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -143,11 +143,15 @@ ZK2 in WL pro SuS kl. Schulen und Stao = (b - a \* SuS kl. Schulen und Stao) \* 
 
 <sup>4</sup> Es teilt den Schulträgern, die Kinder und Jugendliche aus Kantonalen Asylunterkünften beschulen, jeweils für das laufende Schulhalbjahr zusätzliche Ressourcen zu.
 
+<sup>5</sup> Es teilt den Schulträgern, die Kinder und Jugendliche mit ausgewiesenem Sonderschulungsbedarf vorübergehend in Spezialklassen beschulen, in den Schuljahren 2025/2026, 2026/2027 und 2027/2028 jeweils für das laufende Schuljahr zusätzliche Ressourcen zu.
+
 #### § 10a
 
-**Mentorat "Begleiteter Berufseinstieg"**
+**Studienbegleiteter Berufseinstieg**
 
-<sup>1</sup> Das BKS teilt auf Gesuch des Schulträgers die für das Mentorat im Rahmen der Pilotierung "Begleiteter Berufseinstieg" erforderlichen, zusätzlichen Ressourcen zu.
+<sup>1</sup> Das BKS teilt dem Schulträger auf Gesuch hin zusätzliche Ressourcen für den studienbegleiteten Berufseinstieg von Lehrpersonen zu.
+
+<sup>2</sup> Die zusätzlichen Ressourcen betragen höchstens eine Wochenlektion pro begleitete Lehrperson und Schuljahr während in der Regel zwei Schuljahren.
 
 #### § 11
 
@@ -277,7 +281,7 @@ ZK2 in WL pro SuS kl. Schulen und Stao = (b - a \* SuS kl. Schulen und Stao) \* 
 
 <sup>2</sup> Für die Ressourcierung bis Ende des Schuljahrs 2019/20 gilt das bisherige Recht.
 
-<sup>3</sup> § 10a gilt bis 31. Juli 2025.
+<sup>3</sup> …
 
 Aarau, 20. März 2019
 
