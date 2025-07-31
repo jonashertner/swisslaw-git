@@ -3,20 +3,19 @@ canton: SO
 number: "126.1"
 title: Gesetz über das Staatspersonal
 language: de
-version: 2025-01-01
-valid_until: 2025-07-31
-version_adopted: 2024-03-20
+version: 2025-08-01
+version_adopted: 2024-03-19
 adopted: 1992-09-27
 in_force: 1993-08-01
 url: "https://bgs.so.ch/app/de/texts_of_law/126.1"
-pdf: "https://bgs.so.ch/api/de/versions/5478/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5479/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über das Staatspersonal
 
-Vom 27.09.1992 (Stand 01.01.2025)
+Vom 27.09.1992 (Stand 01.08.2025)
 
 Der Kantonsrat von Solothurn
 
@@ -301,7 +300,7 @@ beschliesst:
   - 3\. die Beauftragte oder den Beauftragten für Information und Datenschutz;
 - b) der Regierungsrat für
   - 1\. die Mitglieder des Regierungsrates,
-  - 2\. den Staatsschreiber oder die Staatsschreiberin und dessen oder deren Stellvertreter oder Stellvertreterin,
+  - 2\. …
   - 3\. den Oberstaatsanwalt oder die Oberstaatsanwältin und dessen oder deren Stellvertreter oder Stellvertreterin,
   - 4\. die leitenden Staatsanwälte oder die leitenden Staatsanwältinnen, die Staatsanwälte oder die Staatsanwältinnen, die leitenden Jugendanwälte oder leitenden Jugendanwältinnen sowie die Jugendanwälte oder Jugendanwältinnen;
 - c) die Gerichtsverwaltungskommission für alle Beamten oder Beamtinnen in richterlichen Funktionen.
@@ -362,7 +361,7 @@ beschliesst:
 
 <sup>4</sup> Zuständig zur Auflösung ist:
 
-- a) der Kantonsrat gegenüber Mitgliedern des Regierungsrates oder der letztinstanzlichen kantonalen Gerichte, gegenüber dem Staatsschreiber oder der Staatsschreiberin, gegenüber dem Ratssekretär oder der Ratssekretärin sowie gegenüber dem Chef oder der Chefin der Finanzkontrolle;
+- a) der Kantonsrat gegenüber Mitgliedern des Regierungsrates oder der letztinstanzlichen kantonalen Gerichte, gegenüber dem Ratssekretär oder der Ratssekretärin sowie gegenüber dem Chef oder der Chefin der Finanzkontrolle;
 - a<sup>bis</sup>) die Gerichtsverwaltungskommission gegenüber den Mitgliedern der Amtsgerichte und der unterinstanzlichen kantonalen Gerichte sowie gegenüber dem Personal der Gerichte.
 - a<sup>ter</sup>) das zuständige Organ oder der Direktor oder die Direktorin der Pensionskasse Kanton Solothurn gegenüber dem Personal der Pensionskasse Kanton Solothurn;
 - b) der Regierungsrat gegenüber allen übrigen Staatsbediensteten; er kann diese Kompetenz an die Anstellungsbehörde delegieren.
