@@ -4,13 +4,12 @@ number: "172.316"
 title: Reglement über Spesen und weitere Vergütungen
 short: Spesenreglement
 language: de
-version: 2024-04-01
-valid_until: 2025-07-31
-version_adopted: 2024-03-19
+version: 2025-08-01
+version_adopted: 2025-06-03
 adopted: 2017-11-21
 in_force: 2018-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/172.316"
-pdf: "https://ai.clex.ch/api/de/versions/2261/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2375/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2261/pdf_file"
 
 (Spesenreglement)
 
-vom 21.11.2017 (Stand 01.04.2024)
+vom 21.11.2017 (Stand 01.08.2025)
 
 Das Finanzdepartement des Kantons Appenzell I. Rh.,
 
@@ -34,6 +33,12 @@ beschliesst:
 <sup>1</sup> Die Mitarbeitenden haben für Geschäftsreisen Anspruch auf eine Entschädigung der Fahrspesen mit dem öffentlichen Verkehr für die 1. Klasse.
 
 <sup>2</sup> Wird für die Geschäftsreise aufgrund besonderer Verhältnisse ausnahmsweise ein privates Fahrzeug verwendet, werden 70 Rappen je Kilometer zuzüglich die Parkplatzgebühren vergütet.
+
+#### Art. 1a
+
+**Private Nutzung von Geschäftsfahrzeugen**
+
+<sup>1</sup> Geschäftsfahrzeuge dürfen nicht für private Zwecke genutzt werden. Ausgenommen sind direkte Fahrten zwischen Wohnort und Arbeitsort bei Pikettdienst.
 
 #### Art. 2
 
