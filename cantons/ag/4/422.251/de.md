@@ -4,13 +4,13 @@ number: "422.251"
 title: Verordnung über die Berufsmaturität an Berufsfachschulen
 short: V Berufsmaturität BFS
 language: de
-version: 2022-08-01
-valid_until: 2025-07-31
-version_adopted: 2020-05-13
+version: 2025-08-01
+valid_until: 2026-07-31
+version_adopted: 2025-05-28
 adopted: 2007-11-07
 in_force: 2008-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/422.251"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3722/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3829/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3722/pdf_file"
 
 (V Berufsmaturität BFS)
 
-Vom 07.11.2007 (Stand 01.08.2022)
+Vom 07.11.2007 (Stand 01.08.2025)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -63,10 +63,10 @@ beschliesst:
 
 <sup>2</sup> …
 
-<sup>3</sup> In das erste Semester des Typs Wirtschaft der Ausrichtung Wirtschaft und Dienstleistungen wird prüfungsfrei aufgenommen, wer über ein eidgenössisches Fähigkeitszeugnis Kauffrau/Kaufmann erweiterte Grundbildung (E-Profil) verfügt und
+<sup>3</sup> In das erste Semester des Typs Wirtschaft der Ausrichtung Wirtschaft und Dienstleistungen wird prüfungsfrei aufgenommen, wer über ein eidgenössisches Fähigkeitszeugnis Kauffrau/Kaufmann verfügt und
 
-- a) mit einer schulischen Gesamtnote von mindestens 4,7 abgeschlossen hat, oder
-- b) mit den Zeugnisnoten des 5. Semesters in den Fächern Wirtschaft und Gesellschaft (Gewichtung 2/5), Deutsch (Gewichtung 1/5), Französisch (Gewichtung 1/5) und mit der Zeugnisnote des 4. Semesters im Fach Englisch (Gewichtung 1/5) einen Notendurchschnitt von mindestens 4,7 erzielt hat.
+- a) dieses mit einem Notendurchschnitt von mindestens 4,7 im Qualifikationsbereich "Berufskenntnisse und Allgemeinbildung" (Gewichtung ½) sowie der Erfahrungsnote (½) abgeschlossen hat oder
+- b) mit den Zeugnisnoten des 5. Semesters im Qualifikationsbereich "Berufskenntnisse und Allgemeinbildung", einschliesslich der optionsspezifischen Berufskenntnisse, einen Notendurchschnitt von mindestens 4,7 erzielt hat.
 
 <sup>3<sup>bis</sup></sup> In das erste Semester des Typs Dienstleistungen der Ausrichtung Wirtschaft und Dienstleistungen sowie der übrigen Ausrichtungen wird prüfungsfrei aufgenommen, wer im eidgenössischen Fähigkeitszeugnis einen Notendurchschnitt von mindestens 5,0 erzielt hat.
 
@@ -121,7 +121,7 @@ beschliesst:
 
 **Aufnahmeprüfung BM II**
 
-<sup>1</sup> Die Aufnahmeprüfung in den Typ Wirtschaft der Ausrichtung Wirtschaft und Dienstleistungen orientiert sich an den schulischen Leistungszielen für das E-Profil des vom Staatssekretariat für Bildung, Forschung und Innovation (SBFI) genehmigten Bildungsplans.
+<sup>1</sup> Die Aufnahmeprüfung in den Typ Wirtschaft der Ausrichtung Wirtschaft und Dienstleistungen orientiert sich an den schulischen Leistungszielen des vom Staatssekretariat für Bildung, Forschung und Innovation (SBFI) genehmigten Bildungsplans.
 
 <sup>2</sup> Beim Typ Wirtschaft werden folgende Fächer geprüft:
 
@@ -246,6 +246,10 @@ beschliesst:
 
 <sup>1</sup> Die Schulen haben die schriftlichen Prüfungsarbeiten sowie die Prüfungsprotokolle während der Schulzeit und mindestens eines weiteren Jahrs oder bis zur rechtskräftigen Erledigung eines Rechtsmittelverfahrens aufzubewahren.
 
+<sup>2</sup> Die Schulen bewahren die Berufsmaturitätszeugnisse und die Notenausweise während 50 Jahren nach ihrer Ausstellung derart auf, dass bei Bedarf jederzeit Duplikate erstellt werden können.
+
+<sup>3</sup> Die elektronische Aufbewahrung ist zulässig, wenn wirksame technische und organisatorische Massnahmen getroffen werden, um die Authentizität, Integrität, Verfügbarkeit und Lesbarkeit der Dokumente sicherzustellen.
+
 #### § 21
 
 **Subsidiäres Recht**
@@ -311,23 +315,11 @@ beschliesst:
 
 #### § 28
 
-**Ersatzprüfung für Kaufleute**
-
-<sup>1</sup> …
-
-<sup>2</sup> Wer den Berufsmaturitätsabschluss nicht bestanden hat und auch die Bedingungen für die erweiterte Grundbildung (E-Profil) nicht erfüllt, kann eine Ersatzprüfung für das E-Profil absolvieren. Dabei können wahlweise entweder nur die ungenügenden oder alle für das E-Profil relevanten Fächer geprüft werden.
-
-<sup>3</sup> Wer den Berufsmaturitätsabschluss bestanden hat, aber die Bedingungen des E-Profils nicht erfüllt, kann eine Ersatzprüfung für alle ungenügenden Fächer des E-Profils absolvieren.
-
-<sup>4</sup> Die Ersatzprüfung kann unmittelbar im Anschluss an die Prüfungsperiode oder im Rahmen der nächsten ordentlichen Prüfungsperiode abgelegt werden.
+**…**
 
 #### § 29
 
-**Bewertung der Ersatzprüfung für Kaufleute**
-
-<sup>1</sup> Es zählen lediglich die Noten der Ersatzprüfung ohne Berücksichtigung der Erfahrungsnoten.
-
-<sup>2</sup> Im Falle einer Ersatzprüfung gemäss § 28 Abs. 3 wird die interdisziplinäre Projektarbeit nach den Anforderungen des E-Profils neu beurteilt. Die Noten der Module Vernetzen und Vertiefen werden unverändert übernommen.
+**…**
 
 ## 4. Übergangs- und Schlussbestimmungen
 
@@ -336,6 +328,19 @@ beschliesst:
 **Aufnahmeprüfungsfach Englisch**
 
 <sup>1</sup> …
+
+#### § 30a
+
+**Übergangsbestimmungen für Lernende in der beruflichen Grundbildung Kauffrau/Kaufmann EFZ**
+
+<sup>1</sup> Für Lernende, die ihre berufliche Grundbildung Kauffrau/Kaufmann EFZ vor dem Schuljahr 2023/24 begonnen haben, gelten bis längstens zum 31. Dezember 2027 die Bestimmungen des bisherigen Rechts zur
+
+- a) prüfungsfreien Aufnahme in einen Bildungsgang für gelernte Berufsleute (BM II) gemäss § 2 Abs. 3,
+- b) Ersatzprüfung für Kaufleute gemäss den §§ 28 und 29.
+
+<sup>2</sup> Für Lernende gemäss Absatz 1, die auf ihren schriftlichen Antrag hin das Qualifikationsverfahren gemäss Art. 31 Abs. 3 der Verordnung des SBFI über die berufliche Grundbildung Kauffrau/Kaufmann mit eidgenössischem Fähigkeitszeugnis (EFZ) vom 16. August 2021[^30a-1] nach neuem Recht absolvieren, gilt auch für die prüfungsfreie Aufnahme in einen Bildungsgang für gelernte Berufsleute (BM II) das neue Recht gemäss § 2 Abs. 3.
+
+[^30a-1]: SR [412.101.221.73](https://db.clex.ch/link/Bund/412.101.221.73/de)
 
 #### § 31
 
