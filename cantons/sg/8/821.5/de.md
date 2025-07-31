@@ -4,13 +4,13 @@ number: "821.5"
 title: Gebührentarif für die Kantons- und Gemeindeverwaltung
 short: GebT
 language: de
-version: 2024-07-01
-valid_until: 2025-07-31
-version_adopted: 2024-05-21
+version: 2025-08-01
+valid_until: 2025-12-31
+version_adopted: 2025-06-17
 adopted: 2000-05-02
 in_force: 2000-07-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/821.5"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3638/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3788/pdf_file"
 text: pdf
 ---
 
@@ -18,7 +18,7 @@ text: pdf
 
 # Gebührentarif für die Kantons- und Gemeindeverwaltung
 
-vom 2. Mai 2000 (Stand 1. Juli 2024)[^t-1]
+vom 2. Mai 2000 (Stand 1. August 2025)[^t-1]
 
 Die Regierung des Kantons St.Gallen
 
@@ -214,7 +214,7 @@ vom 3. August 2010[^hEinführungsgesetzzu-1],[^hEinführungsgesetzzu-2]
 
 [^hBundesgesetzüberdi-1]
 
-21.15 Forstrechtliche Bewilligungen und Verfü gungen (Art. 7, 9, Art. 13 Abs. 2, Art. 15, 18, Art. 19 Abs. 2, Art. 23 Abs. 2 und Art. 24 Abs. 2) 100.— bis 1000.—
+21.15 Forstrechtliche Bewilligungen und Verfü gungen (Art. 7, 9, Art. 13 Abs. 2, Art. 15, 18, Art.19 Abs.2, Art.23 Abs.2 und Art.24 Abs.2) 100.— bis 1000.—
 
 ### Bundesgesetz über die Landwirtschaft
 
@@ -406,7 +406,7 @@ vom 4. Juli 1971[^hGesetzüberdieUrne-1]
 
 vom 17. April 2007[^hGemeindevereinigungs-1]
 
-22.25 Genehmigung von Beschlüssen und Verein barungen (Art. 6, Art. 31 Bst. a und b, Art. 35, Art. 43, Art. 44, Art. 51 Bst. a, Art. 61 Bst. a) . . . 150.— bis 2000.— 22.26 Feststellungen (Art. 31 Bst. c, Art. 46 Abs. 1, Art. 51 Bst. b, Art. 61 Bst. b) … 100.— bis 200.— 22.27 Aufhebungsbeschlüsse (Art. 47, Art. 48) . . . . 150.— bis 1500.— 22.28 Fristverlängerung (Art. 15 Abs. 3, Art. 45 Abs. 3) … 50.— bis 200.— 22.29 Entscheid bei Uneinigkeit bei der Bildung einer neuen Gemeinde (Art. 38 Bst. b, Art. 42 Abs. 3) … 150.— bis 1500.—
+22.25 Genehmigung von Beschlüssen und Verein barungen (Art. 6, Art. 31 Bst. a und b, Art. 35, Art.43, Art.44, Art.51 Bst.a, Art.61 Bst.a) . . . 150.— bis 2000.— 22.26 Feststellungen (Art. 31 Bst. c, Art. 46 Abs. 1, Art. 51 Bst. b, Art. 61 Bst. b) … 100.— bis 200.— 22.27 Aufhebungsbeschlüsse (Art. 47, Art. 48) . . . . 150.— bis 1500.— 22.28 Fristverlängerung (Art. 15 Abs. 3, Art. 45 Abs. 3) … 50.— bis 200.— 22.29 Entscheid bei Uneinigkeit bei der Bildung einer neuen Gemeinde (Art. 38 Bst. b, Art. 42 Abs. 3) … 150.— bis 1500.—
 
 [^hGemeindevereinigungs-1]: sGS 151.3.
 
@@ -673,7 +673,7 @@ kräftige Steuerforderungen … 50.—
 
 [^hNrFBauundUmwe-1][^hNrFBauundUmwe-2]
 
-26.01[^hPlanungsundBauges-1] Genehmigung von Rahmennutzungsplänen, Sondernutzungsplänen und Schutzverord nungen (Art. 38) … 75.— bis 7200.— …[^hPlanungsundBauges-2] 26.03[^hPlanungsundBauges-3] Genehmigung von Ausnahmebewilligungen (Art. 108 Abs. 4) … 75.— bis 2900.— …[^hPlanungsundBauges-4] 26.05[^hPlanungsundBauges-5] Zustimmung zu einer Baubewilligung oder Verweigerung der Zustimmung ausserhalb der Bauzonen (Art. 112) … 100.— bis 2000.— 26.06[^hPlanungsundBauges-6] Vorbescheid im Bauermittlungsverfahren (Art. 145) … 75.— bis 1500.— 26.07[^hPlanungsundBauges-7] Teilentscheid (Art. 144) … 75.— bis 2000.— 26.08[^hPlanungsundBauges-8] Verfahrenskoordination (Art. 133) … 100.— bis 5000.— 26.09[^hPlanungsundBauges-9] Scannen von Baugesuchsunterlagen … 50.— bis 1000.— 26.09.01[^hPlanungsundBauges-10] Erlass bzw. Änderung kantonaler Sonder nutzungspläne (Art. 32) … 3000.— bis 50 000.— 26.09.02[^hPlanungsundBauges-11] Baubewilligungen (Art. 146; Art. 9a PBV) . . . 100.— bis 10 000.— 26.09.03[^hPlanungsundBauges-12] Baubewilligungen bei besonders aufwändigen Verfahren … 10000.— bis 50 000.— Nr. Strassengesetz vom 12. Juni 1988[^hPlanungsundBauges-13]
+26.01[^hPlanungsundBauges-1] Genehmigung von Rahmennutzungsplänen, Sondernutzungsplänen und Schutzverord nungen (Art. 38) … 75.— bis 7200.— …[^hPlanungsundBauges-2] 26.03[^hPlanungsundBauges-3] Genehmigung von Ausnahmebewilligungen (Art. 108 Abs. 4) … 75.— bis 2900.— …[^hPlanungsundBauges-4] 26.05[^hPlanungsundBauges-5] Zustimmung zu einer Baubewilligung oder Verweigerung der Zustimmung ausserhalb der Bauzonen (Art. 112) … 100.— bis 2000.— 26.06[^hPlanungsundBauges-6] Vorbescheid im Bauermittlungsverfahren (Art. 145) … 75.— bis 1500.— 26.07[^hPlanungsundBauges-7] Teilentscheid (Art. 144) … 75.— bis 2000.— 26.08[^hPlanungsundBauges-8] Verfahrenskoordination (Art. 133) … 100.— bis 5000.— 26.09[^hPlanungsundBauges-9] Scannen von Baugesuchsunterlagen … 50.— bis 1000.— 26.09.01[^hPlanungsundBauges-10] Erlass bzw. Änderung kantonaler Sonder nutzungspläne (Art. 32) … 3000.— bis 50 000.— 26.09.02[^hPlanungsundBauges-11] Baubewilligungen (Art. 146; Art. 9a PBV) . . . 100.— bis 10 000.— 26.09.03[^hPlanungsundBauges-12] Baubewilligungen bei besonders aufwändigen Verfahren … 10 000.— bis 50 000.— Nr. Strassengesetz vom 12. Juni 1988[^hPlanungsundBauges-13]
 
 **Fr.**
 
@@ -926,7 +926,7 @@ eidgenössisch konzessionierten Seilbahnen und Skilifte (Reglement IKSS) vom 2. 
 
 der Wasserkräfte (Wasserrechtsgesetz) vom 22. Dezember 1916[^hBundesgesetzüberdi_5-1],[^hBundesgesetzüberdi_5-2]
 
-26.73[^hBundesgesetzüberdi_5-3] Stellungnahme im Verfahren für die Ertei lung von Bundeskonzessionen (Art.62c Abs. 1 und Art. 62 h Abs. 3) … 1200.— bis 7500.—
+26.73[^hBundesgesetzüberdi_5-3] Stellungnahme im Verfahren für die Ertei lung von Bundeskonzessionen (Art.62c Abs.1 und Art.62h Abs.3) … 1200.— bis 7500.—
 
 [^hBundesgesetzüberdi_5-1]: SR 721.80.
 [^hBundesgesetzüberdi_5-2]: Eingefügt durch X. Nachtrag.
@@ -1085,19 +1085,21 @@ Kantonspolizei[^hEinführungsgesetzzu_6-8]
 
 27.79.00[^hEinführungsgesetzzu_6-9] Die Kosten für die polizeilichen Aufwände werden grundsätzlich als Pauschale berech net. In besonders aufwendigen Fällen werden neben einer Grundgebühr zusätzliche Ge bühren erhoben. Bei besonders kleinem Aufwand kann auf die Erhebung von Ge bühren verzichtet werden.
 
-27.79.01[^hEinführungsgesetzzu_6-10] Fallpauschale oder Grundgebühr … 80.— bis 500.— 27.79.02[^hEinführungsgesetzzu_6-11] Zusätzliche Gebühren 27.79.02.01 Skizze, Plan oder Bild durch Fachdienst . . . . 100.— bis 1100.— 27.79.02.02[^hEinführungsgesetzzu_6-12] Kriminaltechnische Untersuchung … 200.— bis 10 000.— …[^hEinführungsgesetzzu_6-13] 27.79.02.03.01[^hEinführungsgesetzzu_6-14] Zusätzliche, forensische Laboranalysen, nach
+27.79.00.01[^hEinführungsgesetzzu_6-10] Polizeibeamter: je Stunde … 100.—
 
-Aufwand, je Std … 150.—
+wenigstens … 150.—
 
-27.79.02.04[^hEinführungsgesetzzu_6-15] Spezialisierte polizeiliche Sachbearbeitung (Fachdienst Ermittlungsunterstützung), je
+27.79.01[^hEinführungsgesetzzu_6-11] Fallpauschale oder Grundgebühr … 80.— bis 500.— 27.79.02[^hEinführungsgesetzzu_6-12] Zusätzliche Gebühren 27.79.02.01 Skizze, Plan oder Bild durch Fachdienst . . . . 100.— bis 1100.— 27.79.02.02[^hEinführungsgesetzzu_6-13] Kriminaltechnische Untersuchung … 100.— bis 10 000.— 27.79.02.02.01[^hEinführungsgesetzzu_6-14] Daktyloskopische Analyse … 10.— bis 500.— …[^hEinführungsgesetzzu_6-15] 27.79.02.03.01[^hEinführungsgesetzzu_6-16] Forensische Laboranalysen, nach Aufwand, je Stunde … 150.— bis 400.— 27.79.02.03.02[^hEinführungsgesetzzu_6-17] Forensische Laboranalysen (bei automatisier ten oder maschinellen Analysen), pauschal 10.— bis 10 000.— 27.79.02.04[^hEinführungsgesetzzu_6-18] Spezialisierte polizeiliche Sachbearbeitung (Fachdienst Ermittlungsunterstützung) sowie Einsatz von spezialisierten Fachkräften (Kom petenzzentrum Forensik, IT Forensik und Cybercrime, Observantinnen oder Observan ten, Drohnenpilotinnen oder piloten, Ver kehrsunfallspezialistinnen oder spezialisten
 
-Stunde … 150.—
+usw.), nach Aufwand, je Stunde … 150.—
 
-27.79.02.05 Technische Fahrzeugüberprüfung … 100.— bis 400.— 27.79.02.06[^hEinführungsgesetzzu_6-16] Komplexe Recherchen in Datensystemen . . . 100.— bis 1000.— 27.79.02.07[^hEinführungsgesetzzu_6-17] Erstellung Datenträger, nach Aufwand, je Std. 150.— 27.79.02.08[^hEinführungsgesetzzu_6-18] Auswertung und Analyse von Massendaten, stammend aus technischen Überwachungen (Audio / Video), Sicherstellungen … 300.— bis 5000.— 27.79.02.09[^hEinführungsgesetzzu_6-19] Visualisierung komplexer Sachverhalte . . . . 300.— bis 2000.— 27.79.03[^hEinführungsgesetzzu_6-20] Fahrspesen 27.79.03.01[^hEinführungsgesetzzu_6-21] Benützung eines Motorfahrzeugs, je km . . . . 2.— 27.79.03.02 Benützung eines öffentlichen Verkehrsmittels nach tatsächlichen Kosten 27.79.04[^hEinführungsgesetzzu_6-22] Andere Aufwendungen 27.79.04.01[^hEinführungsgesetzzu_6-23] Aufwendungen, die in diesem Tarif nicht auf geführt sind, werden nach den tatsächlichen Kosten berechnet, wenn sie nach Art oder Umfang aussergewöhnlich sind (z. B. Einsatz von Tauchern, eines Helikopters, einer Droh ne, spezieller Bergungsgeräte oder anderer technischer Einrichtungen).
+27.79.02.05 Technische Fahrzeugüberprüfung … 100.— bis 400.— 27.79.02.06[^hEinführungsgesetzzu_6-19] Komplexe Recherchen in Datensystemen . . . 100.— bis 1000.— 27.79.02.07[^hEinführungsgesetzzu_6-20] Erstellung Datenträger … 50.— bis 5000.— 27.79.02.07.01[^hEinführungsgesetzzu_6-21] Datensicherung … 50.— bis 5000.— 27.79.02.08[^hEinführungsgesetzzu_6-22] Auswertung und Analyse von Massendaten, stammend aus technischen Überwachungen (Audio/Video), Sicherstellungen … 10.— bis 5000.— 27.79.02.08.01[^hEinführungsgesetzzu_6-23] Auswertung und Analyse von Massendaten aus verunfallten oder deliktisch genutzten Fahrzeugen oder Verkehrsanlagen (Fahrzeug daten, Audio/Video, GPS) … 10.— bis 5000.— 27.79.02.08.02[^hEinführungsgesetzzu_6-24] Auswertung und Analyse von Massendaten aus der Kommunikationsüberwachung . . . . nach tatsächlichen Kosten 27.79.02.09[^hEinführungsgesetzzu_6-25] Visualisierung komplexer Sachverhalte . . . . 300.— bis 2000.— 27.79.02.10[^hEinführungsgesetzzu_6-26] Asservierung, je Asservierung … 50.— bis 100.— 27.79.02.11[^hEinführungsgesetzzu_6-27] Lagerung von Sicherstellungen, je Monat . . . 5.— bis 400.— 27.79.02.12[^hEinführungsgesetzzu_6-28] Einsatz eines Mobiltelefonortungsgerätes, je Tag … 200.— bis 800.— 27.79.03[^hEinführungsgesetzzu_6-29] Fahrspesen 27.79.03.01[^hEinführungsgesetzzu_6-30] Benützung eines Motorfahrzeugs, je km . . . . 2.— 27.79.03.02 Benützung eines öffentlichen Verkehrsmittels nach tatsächlichen Kosten 27.79.04[^hEinführungsgesetzzu_6-31] Andere Aufwendungen 27.79.04.01[^hEinführungsgesetzzu_6-32] Aufwendungen, die in diesem Tarif nicht auf geführt sind, werden nach den tatsächlichen Kosten berechnet, wenn sie nach Art oder Umfang aussergewöhnlich sind (z. B. Über setzungen, Opferhilfespezialistinnen oder Opferhilfespezialisten, Einsatz von Unter stützungskräften, Einsatz von Taucherinnen oder Tauchern, eines Helikopters, einer Drohne, spezieller Bergungsgeräte oder ande rer technischer Einrichtungen).
 
 **Fr.**
 
-Nr. Bundesgesetz über den Bevölkerungsschutz und den Zivilschutz vom 20. Dezember 2019 (BZG)[^hEinführungsgesetzzu_6-24],[^hEinführungsgesetzzu_6-25]
+Nr. Bundesgesetz über den Bevölkerungsschutz und
+
+den Zivilschutz vom 20. Dezember 2019 (BZG)[^hEinführungsgesetzzu_6-33],[^hEinführungsgesetzzu_6-34]
 
 [^hEinführungsgesetzzu_6-1]: sGS 962.1.
 [^hEinführungsgesetzzu_6-2]: Geändert durch StPV, sGS 962.11.
@@ -1108,28 +1110,37 @@ Nr. Bundesgesetz über den Bevölkerungsschutz und den Zivilschutz vom 20. Dezem
 [^hEinführungsgesetzzu_6-7]: Geändert durch XIII. Nachtrag.
 [^hEinführungsgesetzzu_6-8]: Eingefügt durch VII. Nachtrag.
 [^hEinführungsgesetzzu_6-9]: Geändert durch XIII. Nachtrag.
-[^hEinführungsgesetzzu_6-10]: Eingefügt durch VII. Nachtrag.
+[^hEinführungsgesetzzu_6-10]: Eingefügt durch XXV. Nachtrag.
 [^hEinführungsgesetzzu_6-11]: Eingefügt durch VII. Nachtrag.
-[^hEinführungsgesetzzu_6-12]: Geändert durch XIII. Nachtrag.
-[^hEinführungsgesetzzu_6-13]: Nr. 27.79.02.03 aufgehoben durch XIII. Nachtrag.
-[^hEinführungsgesetzzu_6-14]: Eingefügt durch XIII. Nachtrag.
-[^hEinführungsgesetzzu_6-15]: Eingefügt durch XXIII. Nachtrag.
-[^hEinführungsgesetzzu_6-16]: Geändert durch XIII. Nachtrag.
-[^hEinführungsgesetzzu_6-17]: Eingefügt durch XIII. Nachtrag.
-[^hEinführungsgesetzzu_6-18]: Eingefügt durch XIII. Nachtrag.
-[^hEinführungsgesetzzu_6-19]: Eingefügt durch XIII. Nachtrag.
-[^hEinführungsgesetzzu_6-20]: Eingefügt durch VII. Nachtrag.
-[^hEinführungsgesetzzu_6-21]: Geändert durch XXIII. Nachtrag.
-[^hEinführungsgesetzzu_6-22]: Eingefügt durch VII. Nachtrag.
-[^hEinführungsgesetzzu_6-23]: Geändert durch XXIII. Nachtrag.
-[^hEinführungsgesetzzu_6-24]: SR 520.1.
-[^hEinführungsgesetzzu_6-25]: Geändert durch XXIII. Nachtrag.
-[^hEinführungsgesetzzu_6-26]: SR 520.11.
-[^hEinführungsgesetzzu_6-27]: Geändert durch XXIII. Nachtrag.
+[^hEinführungsgesetzzu_6-12]: Eingefügt durch VII. Nachtrag.
+[^hEinführungsgesetzzu_6-13]: Geändert durch XXV. Nachtrag.
+[^hEinführungsgesetzzu_6-14]: Eingefügt durch XXV. Nachtrag.
+[^hEinführungsgesetzzu_6-15]: Nr. 27.79.02.03 aufgehoben durch XIII. Nachtrag.
+[^hEinführungsgesetzzu_6-16]: Geändert durch XXV. Nachtrag.
+[^hEinführungsgesetzzu_6-17]: Eingefügt durch XXV. Nachtrag.
+[^hEinführungsgesetzzu_6-18]: Geändert durch XXV. Nachtrag.
+[^hEinführungsgesetzzu_6-19]: Geändert durch XIII. Nachtrag.
+[^hEinführungsgesetzzu_6-20]: Geändert durch XXV. Nachtrag.
+[^hEinführungsgesetzzu_6-21]: Eingefügt durch XXV. Nachtrag.
+[^hEinführungsgesetzzu_6-22]: Geändert durch XXV. Nachtrag.
+[^hEinführungsgesetzzu_6-23]: Eingefügt durch XXV. Nachtrag.
+[^hEinführungsgesetzzu_6-24]: Eingefügt durch XXV. Nachtrag.
+[^hEinführungsgesetzzu_6-25]: Eingefügt durch XIII. Nachtrag.
+[^hEinführungsgesetzzu_6-26]: Eingefügt durch XXV. Nachtrag.
+[^hEinführungsgesetzzu_6-27]: Eingefügt durch XXV. Nachtrag.
+[^hEinführungsgesetzzu_6-28]: Eingefügt durch XXV. Nachtrag.
+[^hEinführungsgesetzzu_6-29]: Eingefügt durch VII. Nachtrag.
+[^hEinführungsgesetzzu_6-30]: Geändert durch XXIII. Nachtrag.
+[^hEinführungsgesetzzu_6-31]: Eingefügt durch VII. Nachtrag.
+[^hEinführungsgesetzzu_6-32]: Geändert durch XXV. Nachtrag.
+[^hEinführungsgesetzzu_6-33]: SR 520.1.
+[^hEinführungsgesetzzu_6-34]: Geändert durch XXIII. Nachtrag.
+[^hEinführungsgesetzzu_6-35]: SR 520.11.
+[^hEinführungsgesetzzu_6-36]: Geändert durch XXIII. Nachtrag.
 
 ### Eidgenössische Verordnung über den Zivilschutz vom 11. November 2020 (ZSV), Einführungsgesetz zur Bundesgesetzgebung
 
-[^hEinführungsgesetzzu_6-26][^hEinführungsgesetzzu_6-27]
+[^hEinführungsgesetzzu_6-35][^hEinführungsgesetzzu_6-36]
 
 über den Zivilschutz vom 20. Juni 1996 (EG zum BZG)[^hEidgenössischeVeror-1]
 
@@ -1139,7 +1150,7 @@ Nr. Bundesgesetz über den Bevölkerungsschutz und den Zivilschutz vom 20. Dezem
 
 vom 1. Oktober 1996 (EV zum ZSG)[^hVerordnungzumEinfü-1]
 
-27.80[^hVerordnungzumEinfü-2] Prüfung und Genehmigung von Bau und Erneuerungsprojekten für Anlagen der Zivil schutzorganisation sowie für öffentliche und private Schutzräume (Art. 61 BZG; Art. 79 ZSV; Art. 25 Bst. a und Art. 37 EV zum ZSG) 100.— bis 5800.— 27.81[^hVerordnungzumEinfü-3] Kontrolle von erstellten Zivilschutzanlagen und Schutzräumen einschliesslich Baukon trollen und Prüfung allfälliger Abrechnun gen (Art. 61 BZG; Art. 80 ZSV; Art. 38 Bst. c EV zum ZSG) … 120.— bis 5800.— 27.82[^hVerordnungzumEinfü-4] Verfügung zur Behebung von Mängeln an Zivilschutzanlagen und an Schutzräumen sowie Nachkontrolle (Art. 61 BZG; Art. 80 ZSV; Art. 38 Bst. c EV zum ZSG) … 60.— bis 1150.— 27.83[^hVerordnungzumEinfü-5] Kontrolle der Betriebsbereitschaft von öffent lichen Schutzbauten (Art. 61 BZG; Art. 81 ZSV; Art. 25 Bst. a und b EV zum ZSG) . . . . 60.— bis 1150.— 27.84[^hVerordnungzumEinfü-6] Verfügung über Ausnahmen von der Schutz raumbaupflicht, Festlegung von Ersatzbeiträ gen und Sicherheitsleistungen (Art. 61 BZG;
+27.80[^hVerordnungzumEinfü-2] Prüfung und Genehmigung von Bau und Erneuerungsprojekten für Anlagen der Zivil schutzorganisation sowie für öffentliche und private Schutzräume (Art. 61 BZG; Art. 79 ZSV; Art. 25 Bst. a und Art. 37 EV zum ZSG) 100.— bis 5800.— 27.81[^hVerordnungzumEinfü-3] Kontrolle von erstellten Zivilschutzanlagen und Schutzräumen einschliesslich Baukon trollen und Prüfung allfälliger Abrechnun gen (Art. 61 BZG; Art. 80 ZSV; Art. 38 Bst. c EV zum ZSG) … 120.— bis 5800.— 27.82[^hVerordnungzumEinfü-4] Verfügung zur Behebung von Mängeln an Zivilschutzanlagen und an Schutzräumen sowie Nachkontrolle (Art. 61 BZG; Art. 80 ZSV; Art. 38 Bst. c EV zum ZSG) … 60.— bis 1150.— 27.83[^hVerordnungzumEinfü-5] Kontrolle der Betriebsbereitschaft von öffent lichen und privaten Schutzbauten (Art. 61 BZG; Art. 81 ZSV; Art. 25 Bst. a und b EV zum ZSG) … 60.— bis 1150.— 27.84[^hVerordnungzumEinfü-6] Verfügung über Ausnahmen von der Schutz raumbaupflicht, Festlegung von Ersatzbeiträ gen und Sicherheitsleistungen (Art. 61 BZG;
 
 Art. 71 ZSV; Art. 38 Bst. a und b EV zum ZSG) … 60.— bis 600.— 27.85[^hVerordnungzumEinfü-7] Verfügung über Ersatzvornahmen (Art. 82 ZSV; Art. 36 Bst. a EV zum ZSG) … 60.— bis 1150.— 27.86[^hVerordnungzumEinfü-8] Festlegung der Grenzen der Gebiete (Beurtei lungsgebiete), in denen keine Schutzräume erstellt werden müssen oder in denen die Anzahl der Schutzplätze herabgesetzt werden kann (Art. 62 BZG; Art. 74 ZSV; Art. 36 Bst. b EV zum ZSG) … 200.— bis 2000.— 27.87[^hVerordnungzumEinfü-9] Entscheid über die Verwendung von Ersatz beiträgen (Art. 76 ZSV; Art. 40<sup>bis</sup> EV zum ZSG) … 60.— bis 1150.— 27.88[^hVerordnungzumEinfü-10] Bearbeitung von Gesuchen für die Aufhe bung von Schutzräumen (Art. 66 BZG;
 
@@ -1149,7 +1160,7 @@ Art.82 ZSV; Art.38 Bst. d EV zum ZSG) . . . 60.— bis 600.— 27.89[^hVerordnun
 [^hVerordnungzumEinfü-2]: Geändert durch XXIII. Nachtrag.
 [^hVerordnungzumEinfü-3]: Geändert durch XXIII. Nachtrag.
 [^hVerordnungzumEinfü-4]: Geändert durch XXIII. Nachtrag.
-[^hVerordnungzumEinfü-5]: Geändert durch XXIII. Nachtrag.
+[^hVerordnungzumEinfü-5]: Geändert durch XXV. Nachtrag.
 [^hVerordnungzumEinfü-6]: Geändert durch XXIII. Nachtrag.
 [^hVerordnungzumEinfü-7]: Geändert durch XXIII. Nachtrag.
 [^hVerordnungzumEinfü-8]: Geändert durch XXIII. Nachtrag.
@@ -1270,23 +1281,24 @@ und Gemeinderatsschreiber (oder an ihrer Stelle zuständige Amtsstelle)
 
 vom 3. August 2010 (BRG)[^hGesetzüberdasStG_2-1],[^hGesetzüberdasStG_2-2] 50.00.01[^hGesetzüberdasStG_2-3] Entlassung aus dem Gemeindebürgerrecht (Art. 46 Abs. 3 BRG) … 100.— bis 500.— 50.00.02– 04[^hGesetzüberdasStG_2-4] Erteilung des Gemeindebürgerrechts im Ver fahren der Einbürgerung im Allgemeinen (Art. 7 ff. BRG):
 
-50.00.02 – Schweizerinnen und Schweizer (je Gesuch) 100.— bis 800.— 50.00.03 – AusländerinnenundAusländer(Einzelper sonen, einschliesslich unmündige Kinder) 100.— bis 1800.— 50.00.04[^hGesetzüberdasStG_2-5] Ausländerinnen und Ausländer (Verheiratete und eingetragene Partner, einschliesslich un mündige Kinder) … 100.— bis 2500.— 50.00.05 / 06 <sup>381</sup> Erteilung des Gemeindebürgerrechts im Verfahren der Besonderen Einbürgerung (Art. 36 ff. BRG):
+50.00.02 – Schweizerinnen und Schweizer (je Gesuch) 100.— bis 800.— 50.00.03 – AusländerinnenundAusländer(Einzelper sonen, einschliesslich unmündige Kinder) 100.— bis 1800.— 50.00.04[^hGesetzüberdasStG_2-5] Ausländerinnen und Ausländer (Verheiratete und eingetragene Partner, einschliesslich un mündige Kinder) … 100.— bis 2500.— 50.00.05 / 06[^hGesetzüberdasStG_2-6] Erteilung des Gemeindebürgerrechts im Verfahren der Besonderen Einbürgerung (Art. 36 ff. BRG):
 
 50.00.05 – Schweizerinnen und Schweizer (je Gesuch) 100.— bis 600.— 50.00.06 – Ausländische und staatenlose Jugendliche (je Gesuch) … 100.— bis 1400.—
 
-…[^hGesetzüberdasStG_2-6]
+…[^hGesetzüberdasStG_2-7]
 
 [^hGesetzüberdasStG_2-1]: sGS 121.1.
 [^hGesetzüberdasStG_2-2]: Geändert durch BRV.
 [^hGesetzüberdasStG_2-3]: Geändert durch BRV.
 [^hGesetzüberdasStG_2-4]: Geändert durch BRV.
 [^hGesetzüberdasStG_2-5]: Geändert durch X. Nachtrag zur EV zum Schweizerischen Zivilgesetzbuch.
-[^hGesetzüberdasStG_2-6]: Titel und Nr. 50.01 aufgehoben durch V. Nachtrag.
-[^hGesetzüberdasStG_2-7]: sGS 911.1.
+[^hGesetzüberdasStG_2-6]: Geändert durch BRV.
+[^hGesetzüberdasStG_2-7]: Titel und Nr. 50.01 aufgehoben durch V. Nachtrag.
+[^hGesetzüberdasStG_2-8]: sGS 911.1.
 
-### Einführungsgesetz zum Schweizerischen Zivilgesetzbuch vom 3. Juli 1911 / 22. Juni 1942
+### Einführungsgesetz zum Schweizerischen Zivilgesetzbuch vom 3.Juli 1911/22.Juni 1942
 
-[^hGesetzüberdasStG_2-7]
+[^hGesetzüberdasStG_2-8]
 
 50.02 Amtsanzeige oder Mitteilung einer Gegen erklärung (Art. 35<sup>bis</sup>) … 30.— bis 60.— 50.03 Ausstellung eines Zeugnisses (Art. 35<sup>ter</sup>) . . . . 7.— bis 30.— …[^hEinführungsgesetzzu_7-1]
 
@@ -1352,7 +1364,7 @@ zur eidgenössischen Waldgesetzgebung vom 7. Dezember 1999[^hEinführungsgesetzz
 
 Abs. 1) … 20.—
 
-50.24.02[^hEinführungsgesetzzu_9-10] Baubewilligungen (Art. 146 und 149) … 100.— bis 10 000.— 50.24.02.01[^hEinführungsgesetzzu_9-11] Baubewilligungen bei besonders aufwändi gen Verfahren … 10 000.– bis 50 000.— 50.24.03[^hEinführungsgesetzzu_9-12] Abbruchbewilligung (Art.146) … 100.— bis 2000.— 50.24.04[^hEinführungsgesetzzu_9-13] Verlängerung der Geltungsdauer einer Be willigung (Art.148) … 100.— bis 2000.— 50.24.05[^hEinführungsgesetzzu_9-14] Vorbescheid im Bauermittlungsverfahren (Art. 145) … 100.— bis 5000.— 50.24.05.01[^hEinführungsgesetzzu_9-15] Teilentscheid (Art. 144) … 100.— bis 5000.— 50.24.06[^hEinführungsgesetzzu_9-16] Anordnung von Schutzmassnahmen (Art.121 ff. und Art.128 f.) … 100.— bis 5000.— 50.24.08 <sup>418</sup> Verfügung auf Behebung des rechtswidrigen Zustandes (Art. 159) … 100.— bis 10 000.—
+50.24.02[^hEinführungsgesetzzu_9-10] Baubewilligungen (Art. 146 und 149) … 100.— bis 10 000.— 50.24.02.01[^hEinführungsgesetzzu_9-11] Baubewilligungen bei besonders aufwändi gen Verfahren … 10 000.– bis 50 000.— 50.24.03[^hEinführungsgesetzzu_9-12] Abbruchbewilligung (Art.146) … 100.— bis 2000.— 50.24.04[^hEinführungsgesetzzu_9-13] Verlängerung der Geltungsdauer einer Be willigung (Art.148) … 100.— bis 2000.— 50.24.05[^hEinführungsgesetzzu_9-14] Vorbescheid im Bauermittlungsverfahren (Art. 145) … 100.— bis 5000.— 50.24.05.01[^hEinführungsgesetzzu_9-15] Teilentscheid (Art. 144) … 100.— bis 5000.— 50.24.06[^hEinführungsgesetzzu_9-16] Anordnung von Schutzmassnahmen (Art.121 ff. und Art.128 f.) … 100.— bis 5000.— 50.24.08 <sup>427</sup> Verfügung auf Behebung des rechtswidrigen Zustandes (Art. 159) … 100.— bis 10 000.—
 
 [^hEinführungsgesetzzu_9-1]: sGS 651.11.
 [^hEinführungsgesetzzu_9-2]: Eingefügt durch XXIII. Nachtrag.
@@ -1501,7 +1513,7 @@ vom 27. Juni 1972[^hVerordnungüberdas-1]
 
 vom 7. Oktober 1983[^hBundesgesetzüberde_4-1],[^hBundesgesetzüberde_4-2]
 
-50.67 <sup>448</sup> Einsichtgabe oder Auskunft über Umwelt informationen (Art. 10 g) … 100.— bis 2000.—
+50.67 <sup>457</sup> Einsichtgabe oder Auskunft über Umwelt informationen (Art. 10 g) … 100.— bis 2000.—
 
 [^hBundesgesetzüberde_4-1]: SR 814.01.
 [^hBundesgesetzüberde_4-2]: Eingefügt durch XI. Nachtrag.
@@ -1611,7 +1623,7 @@ vom 30. März 1911[^hSchweizerischesObli_4-1] (Art. 1034 bis 1041)
 
 ### Schweizerisches Zivilgesetzbuch
 
-vom 10. Dezember 1907 (ZGB; Art. 885 Abs. 3)[^hSchweizerischesZivi_5-1]
+vom 10.Dezember 1907 (ZGB; Art.885 Abs.3)[^hSchweizerischesZivi_5-1]
 
 [^hSchweizerischesZivi_5-1]: SR 210.
 
@@ -1733,7 +1745,7 @@ Beglaubigungen durch die Staatskanzlei[^hVerordnungüberdie_3-6]
 
 ## Weitere Fussnoten
 
-- [4] (Fortsetzung …) Raumnutzung im Regierungsgebäude vom 7. Januar 2014, nGS 2014 025 (sGS 141.81); Abschnitt II Ziff. 3 des VIII. Nachtrags zum GeschR vom 29. April 2014, nGS 2014 045 (sGS 141.3); XI. Nachtrag vom 17. Juni 2014, nGS 2014 056; Abschnitt II Ziff. 2 der Jagdverordnung vom 19. Mai 2015, nGS 2015 064 (sGS 853.11); XII. Nachtrag vom 27. Juni 2017, nGS 2017 051; XIII. Nachtrag vom 16. Januar 2018, nGS 2018 026; XIV. Nachtrag vom 19. Juni 2018, nGS 2018 056; XV. Nachtrag vom 3. Juli 2018, nGS 2018 074; XVI. Nachtrag vom 9. Oktober 2018, nGS 2018 075; XVIII. Nachtrag vom 18. Juni 2019, nGS 2019 049; XIX. Nachtrag vom 3. Dezem ber 2019, nGS 2019 098; XX. Nachtrag vom 4. Februar 2020, nGS 2020 003; XXI. Nachtrag vom 25. August 2020, nGS 2020 068; Abschnitt II der Verordnung über Kurse und Prüfungen in Le bensmittelhygiene und Suchtprävention vom 13. Oktober 2020, nGS 2020 083 (sGS 533.12); XXII. Nachtrag vom 13. Oktober 2020, nGS 2020 085; Geändert durch Abschnitt II Ziff. 27 des XV. Nachtrag zum Geschäftsreglement der Regierung und der Staatskanzlei vom 29. Juni 2021, nGS 2021 066 (sGS 141.3); XXIII. Nachtrag vom 21. November 2023, nGS 2023 071; XXIV. Nach trag vom 21. Mai 2024, nGS 2024 017.
+- [4] (Fortsetzung …) Raumnutzung im Regierungsgebäude vom 7. Januar 2014, nGS 2014 025 (sGS 141.81); Abschnitt II Ziff. 3 des VIII. Nachtrags zum GeschR vom 29. April 2014, nGS 2014 045 (sGS 141.3); XI. Nachtrag vom 17. Juni 2014, nGS 2014 056; Abschnitt II Ziff. 2 der Jagdverordnung vom 19. Mai 2015, nGS 2015 064 (sGS 853.11); XII. Nachtrag vom 27. Juni 2017, nGS 2017 051; XIII. Nachtrag vom 16. Januar 2018, nGS 2018 026; XIV. Nachtrag vom 19. Juni 2018, nGS 2018 056; XV. Nachtrag vom 3. Juli 2018, nGS 2018 074; XVI. Nachtrag vom 9. Oktober 2018, nGS 2018 075; XVIII. Nachtrag vom 18. Juni 2019, nGS 2019 049; XIX. Nachtrag vom 3. Dezem ber 2019, nGS 2019 098; XX. Nachtrag vom 4. Februar 2020, nGS 2020 003; XXI. Nachtrag vom 25. August 2020, nGS 2020 068; Abschnitt II der Verordnung über Kurse und Prüfungen in Le bensmittelhygiene und Suchtprävention vom 13. Oktober 2020, nGS 2020 083 (sGS 533.12); XXII. Nachtrag vom 13. Oktober 2020, nGS 2020 085; Geändert durch Abschnitt II Ziff. 27 des XV. Nachtrag zum Geschäftsreglement der Regierung und der Staatskanzlei vom 29. Juni 2021, nGS 2021 066 (sGS 141.3); XXIII. Nachtrag vom 21. November 2023, nGS 2023 071; XXIV. Nach trag vom 21. Mai 2024, nGS 2024 017; XXV. Nachtrag vom 17. Juni 2025, nGS 2025 020.
 - [107] Titel und Nr. 22.24 aufgehoben durch XXIII. Nachtrag.
 - [125] Berichtigung vom April 2004.
 - [149] sGS 277.11.
@@ -1742,6 +1754,5 @@ Beglaubigungen durch die Staatskanzlei[^hVerordnungüberdie_3-6]
 - [164] Eingefügt durch XVIII. Nachtrag.
 - [235] Titel und Nr. 26.21.13 aufgehoben durch V zum EG zur eidg Umweltschutzgesetzgebung.
 - [250] Eingefügt durch XI. Nachtrag.
-- [381] Geändert durch BRV.
-- [418] Geändert durch XII. Nachtrag.
-- [448] Eingefügt durch XI. Nachtrag.
+- [427] Geändert durch XII. Nachtrag.
+- [457] Eingefügt durch XI. Nachtrag.
