@@ -1,21 +1,21 @@
 ---
 canton: NW
 number: "312.11"
-title: Verordnung zum Gesetz über die Volksschule
+title: Vollzugsverordnung zum Gesetz über die Volksschule
 short: "Volksschulverordnung, VSV"
 language: de
 version: 2025-08-01
-valid_until: 2026-07-31
+corrected: 2025-06-23
 version_adopted: 2025-06-10
 adopted: 2003-07-01
 in_force: 2003-08-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/312.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/1395/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1372/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung zum Gesetz über die Volksschule
+# Vollzugsverordnung zum Gesetz über die Volksschule
 
 (Volksschulverordnung, VSV)
 
@@ -45,12 +45,10 @@ beschliesst:
 <sup>1</sup> Elternbeiträge je Schülerin beziehungsweise je Schüler können einverlangt werden:
 
 - 1\. für die Verpflegung im Rahmen des Fachs Wirtschaft, Arbeit, Haushalt höchstens Fr. 160.– je Schuljahr;
-- 2\. für die Verpflegung anlässlich von Exkursionen, Schulreisen und Schulverlegungen höchstens Fr. 16.– pro Tag;
-- 3\. …
+- 2\. für die Verpflegung anlässlich von Exkursionen, Schulreisen und Schulverlegungen höchstens Fr. 10.– pro Tag;
+- 3\. für übrige Kosten je Schuljahr insgesamt höchstens Fr. 100.– auf der Kindergarten- beziehungsweise Primarschulstufe und Fr. 200.– an der Orientierungsschule.
 
-<sup>2</sup> Höhere Beiträge können nur für freiwillige Schulanlässe und im Einvernehmen mit den Eltern erhoben werden.
-
-<sup>3</sup> Die Elternbeiträge für die Verpflegung und die ausserschulische Betreuung im Rahmen der separativen Sonderschulung richten sich nach § 35n.
+<sup>2</sup> Höhere Beiträge können nur im Einvernehmen mit den Eltern erhoben werden.
 
 #### § 3
 
@@ -480,7 +478,7 @@ beschliesst:
 
 #### § 35f
 
-**Organisation 1. Schulkommission**
+**Schulkommission**
 
 <sup>1</sup> Die Schulkommission für die Heilpädagogische Schule begleitet und berät die Schulleitung.
 
@@ -494,7 +492,7 @@ beschliesst:
 
 #### § 35g
 
-**2. Schulleitung**
+**Schulleitung**
 
 <sup>1</sup> Die Schulleitung ist für die pädagogische, betriebliche und personelle Leitung und Entwicklung der Schule verantwortlich. Sie vertritt die Schule im Rahmen ihrer Zuständigkeit und in Abstimmung mit der Schulkommission nach aussen.
 
@@ -518,7 +516,7 @@ beschliesst:
 
 #### § 35h
 
-**3. Schulkonferenz**
+**Schulkonferenz**
 
 <sup>1</sup> Alle an der Heilpädagogischen Schule unterrichtenden Lehrpersonen sowie Therapeutinnen und Therapeuten bilden die Schulkonferenz.
 
@@ -551,61 +549,6 @@ beschliesst:
 
 [^35k-1]: NG 312.1
 
-#### § 35l
-
-**Ausserschulische Betreuung und Verpflegung 1. Angebot**
-
-<sup>1</sup> Das Angebot der ausserschulischen Betreuung umfasst:
-
-- 1\. Morgenbetreuung: 07.00-08.00 Uhr;
-- 2\. Mittagsbetreuung einschliesslich Mittagessen: 12.00-13.30 Uhr;
-- 3\. Nachmittagsbetreuung: 15.00-18.00 Uhr.
-
-<sup>2</sup> Die Nutzung des Angebots ist freiwillig.
-
-<sup>3</sup> Die ausserschulische Betreuung steht von Montag bis Freitag zur Verfügung. Sie wird nicht angeboten:
-
-- 1\. mittwochs am Mittag und am Nachmittag;
-- 2\. an kantonalen Feiertagen;
-- 3\. während den Ferien gemäss dem Ferienplan des Kantons Nidwalden.
-
-<sup>4</sup> Die Schulleitung kann die ausserschulische Betreuung auch Schülerinnen und Schülern der Gemeindeschulen anbieten, wenn genügend Kapazitäten vorhanden sind.
-
-#### § 35m
-
-**2. Anmeldung**
-
-<sup>1</sup> Die Eltern haben die Anmeldung für das kommende Schuljahr bis spätestens am 16. Juni einzureichen.
-
-<sup>2</sup> Die Anmeldung ist für ein Schuljahr verbindlich. In begründeten Fällen können die Eltern ihr Kind dauerhaft vom Angebot abmelden.
-
-<sup>3</sup> Eine Anmeldung während des Schuljahrs ist möglich, sofern genügend Kapazitäten vorhanden sind.
-
-#### § 35n
-
-**3. Elternbeiträge**
-
-<sup>1</sup> Die Beiträge der Eltern betragen:
-
-- 1\. Fr. 10.- je Tag und Kind für die Morgenbetreuung;
-- 2\. Fr. 7.- je Tag und Kind für das Mittagessen;
-- 3\. Fr. 20.- je Tag und Kind für die Nachmittagsbetreuung.
-
-<sup>2</sup> Die Schulleitung kann auf begründetes Gesuch die Beiträge reduzieren, wenn die Bezahlung für die Eltern eine finanzielle Härte bedeuten würde.
-
-<sup>3</sup> Die Elternbeiträge werden am Ende eines Semesters in Rechnung gestellt.
-
-#### § 35o
-
-**4. Absenzen**
-
-<sup>1</sup> Absenzen sind dem Schulsekretariat zu melden:
-
-- 1\. aufgrund schulischer Ereignisse: durch die Lehrpersonen;
-- 2\. bei kurzfristigen Absenzen: durch die Eltern.
-
-<sup>2</sup> Bei unentschuldigten Absenzen gemäss Abs. 1 Ziff. 2 werden die Beiträge in Rechnung gestellt.
-
 ## 3 Sonderpädagogische Massnahmen und schulische Fördermassnahmen
 
 ### 3.1 Allgemeine Bestimmungen
@@ -614,12 +557,11 @@ beschliesst:
 
 **Organisation**
 
-<sup>1</sup> Der Bereich Sonderpädagogik untersteht dem Amt für Volksschule und Sport und umfasst zwei Abteilungen:
+<sup>1</sup> Das Zentrum für Sonderpädagogik untersteht dem Amt für Volksschulen und Sport.
 
-- 1\. das Zentrum für Sonderpädagogik mit der Heilpädagogischen Schule, der Heilpädagogischen Früherziehung und der integrierten Sonderschulung;
-- 2\. die Abteilung Schuldienste mit dem Schulpsychologischen Dienst, der Psychomotorik und der Logopädie.
+<sup>2</sup> Das Zentrum für Sonderpädagogik umfasst die Heilpädagogische Schule einschliesslich dem Heilpädagogischen Kindergarten, die Heilpädagogische Früherziehung sowie die Logopädie und die Psychomotorik.
 
-<sup>2–3</sup> …
+<sup>3</sup> Der Heilpädagogische Kindergarten ist der Heilpädagogischen Schule angegliedert.
 
 #### § 36a
 
