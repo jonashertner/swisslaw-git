@@ -4,13 +4,12 @@ number: 439.14-1
 title: "Convention scolaire régionale concernant l'accueil réciproque d'élèves et le versement de contributions"
 short: CSR 2009
 language: fr
-version: 2024-08-01
-valid_until: 2025-07-31
-version_adopted: 2024-04-09
+version: 2025-08-01
+version_adopted: 2025-03-17
 adopted: 2007-11-23
 in_force: 2010-06-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/439.14-1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3179/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3180/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3179/pdf_file"
 
 (CSR 2009)
 
-du 23.11.2007 (état au 01.08.2024)
+du 23.11.2007 (état au 01.08.2025)
 
 Les cantons d'Argovie, de Bâle-Campagne, de Bâle-Ville, de Berne, de Fribourg, de Lucerne, de Soleure, du Valais et de Zurich, ci-après nommés cantons signataires, concluent la convention suivante:
 
@@ -243,7 +242,7 @@ Les cantons d'Argovie, de Bâle-Campagne, de Bâle-Ville, de Berne, de Fribourg,
 
 <table>
 <tr><th>Degrés scolaires, types d'écoles et filières de formation</th><th>Contribution cantonale par année scolaire / par semestre CHF[^A11-1]</th></tr>
-<tr><td>Ecole enfantine (y c. Basisstufe)</td><td>11'400 / 5'700</td></tr>
+<tr><td>Ecole enfantine (y c. Basisstufe)</td><td>11'500 / 5'750</td></tr>
 </table>
 
 [^A11-1]: Montants par année scolaire arrondis à 100 francs
@@ -256,9 +255,9 @@ Les cantons d'Argovie, de Bâle-Campagne, de Bâle-Ville, de Berne, de Fribourg,
 
 <table>
 <tr><th>Degrés scolaires, types d'écoles et filières de formation</th><th>Contribution cantonale par année scolaire / par semestre CHF[^A12-1]</th></tr>
-<tr><td>Classes régulières</td><td>14'600 / 7'300</td></tr>
-<tr><td>Classes spéciales (+ supplément de 50% par rapport au tarif de base)[^A12-2]</td><td>21'900 / 10'950</td></tr>
-<tr><td>Formations pour les élèves particulièrement doués (+ supplément de 10% par rapport au tarif de base)[^A12-3]</td><td>16'000 / 8'000</td></tr>
+<tr><td>Classes régulières</td><td>15'400 / 7'700</td></tr>
+<tr><td>Classes spéciales (+ supplément de 50% par rapport au tarif de base)[^A12-2]</td><td>23'100 / 11'550</td></tr>
+<tr><td>Formations pour les élèves particulièrement doués (+ supplément de 10% par rapport au tarif de base)[^A12-3]</td><td>16'900 / 8'450</td></tr>
 </table>
 
 <sup>2</sup> 7.2.2 Degré secondaire I
@@ -289,14 +288,14 @@ Les cantons d'Argovie, de Bâle-Campagne, de Bâle-Ville, de Berne, de Fribourg,
 <table>
 <tr><th>Degrés scolaires, types d'écoles et filières de formation</th><th>Contribution cantonale par année scolaire / par semestre CHF[^A13-1]</th></tr>
 <tr><td>Cours préparatoires généraux, année scolaire de préparation professionnelle, formations d'intégration (IBK et IIK)</td><td>18'100 / 9'050</td></tr>
-<tr><td>Ecoles de maturité</td><td>20'500 / 10'250</td></tr>
-<tr><td>Ecoles de maturité pour adultes, temps plein (Tpl)</td><td>20'500 / 10'250</td></tr>
-<tr><td>Ecoles de maturité pour adultes, temps partiel (Tpa) par leçon hebdomadaire sur une base annuelle / semestrielle[^A13-2]</td><td>700 / 350</td></tr>
-<tr><td>Ecoles de culture générale et de maturité spécialisée (EMSp); formation jusqu'au certificat de culture générale</td><td>18'000 / 9'000</td></tr>
+<tr><td>Ecoles de maturité</td><td>20'400 / 10'200</td></tr>
+<tr><td>Ecoles de maturité pour adultes, temps plein (Tpl)</td><td>20'400 / 10'200</td></tr>
+<tr><td>Ecoles de maturité pour adultes, temps partiel (Tpa) par leçon hebdomadaire sur une base annuelle / semestrielle[^A13-2]</td><td>600 / 300</td></tr>
+<tr><td>Ecoles de culture générale et de maturité spécialisée (EMSp); formation jusqu'au certificat de culture générale</td><td>17'800 / 8'900</td></tr>
 <tr><td>Ecoles de culture générale et de maturité spécialisée (EMSp); formation pour le certificat de maturité spécialisée, par leçon hebdomadaire sur une base annuelle / semestrielle[^A13-3]</td><td>600 / 300</td></tr>
 <tr><td>Cours préparatoires aux filières des hautes écoles, par leçon hebdomadaire sur une base annuelle / semestrielle[^A13-4]</td><td>700 / 350</td></tr>
-<tr><td>Formations pour les élèves particulièrement doués (+ supplément de 10% par rapport au tarif de base)[^A13-5], écoles de maturité</td><td>22'500 / 11'250</td></tr>
-<tr><td>Formations pour les élèves particulièrement doués (+ supplément de 10% par rapport au tarif de base)[^A13-6], écoles de culture générale et de maturité spécialisée (EMSp)</td><td>19'800 / 9'900</td></tr>
+<tr><td>Formations pour les élèves particulièrement doués (+ supplément de 10% par rapport au tarif de base)[^A13-5], écoles de maturité</td><td>22'400 / 11'200</td></tr>
+<tr><td>Formations pour les élèves particulièrement doués (+ supplément de 10% par rapport au tarif de base)[^A13-6], écoles de culture générale et de maturité spécialisée (EMSp)</td><td>19'600 / 9'800</td></tr>
 </table>
 
 [^A13-1]: Montants par année scolaire arrondis à 100 francs
@@ -482,6 +481,24 @@ Kasernenstrasse 27
 Elle est également disponible sur Internet à l’adresse suivante:
 
 [https://www.nwedk.ch/node/264](https://www.nwedk.ch/node/264)
+
+#### Art. A2-11
+
+<sup>1</sup> La modification du 17 mars 2023 de l’annexe II à la CSR 2009 est publiée uniquement sous la forme d’un renvoi.
+
+Elle peut être obtenue à l’adresse suivante:
+
+Direction de l’instruction publique et de la culture du canton de Berne
+
+Office des écoles moyennes et de la formation professionnelle
+
+Kasernenstrasse 27
+
+3000 Berne 22
+
+Elle est également disponible sur Internet à l’adresse suivante:
+
+[https://www.nwedk.ch/node/267](https://www.nwedk.ch/node/267)
 
 #### Art. A2-10
 

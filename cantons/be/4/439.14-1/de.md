@@ -4,13 +4,12 @@ number: 439.14-1
 title: Regionales Schulabkommen über die gegenseitige Aufnahme von Auszubildenden und Ausrichtung von Beiträgen
 short: RSA 2009
 language: de
-version: 2024-08-01
-valid_until: 2025-07-31
-version_adopted: 2024-04-09
+version: 2025-08-01
+version_adopted: 2025-03-17
 adopted: 2007-11-23
 in_force: 2010-06-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/439.14-1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3179/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3180/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3179/pdf_file"
 
 (RSA 2009)
 
-vom 23.11.2007 (Stand 01.08.2024)
+vom 23.11.2007 (Stand 01.08.2025)
 
 Zwischen den Kantonen Aargau, Basel-Landschaft, Basel-Stadt, Bern, Freiburg, Luzern, Solothurn, Wallis und Zürich, nachfolgend Abkommenskantone genannt, wird folgendes Abkommen getroffen:
 
@@ -243,7 +242,7 @@ Zwischen den Kantonen Aargau, Basel-Landschaft, Basel-Stadt, Bern, Freiburg, Luz
 
 <table>
 <tr><th>Schulstufen, -typen und Ausbildungsgänge</th><th>Kantonsbeiträge pro Schujahr / pro Semester in CHF[^A11-1]</th></tr>
-<tr><td>Kindergarten (inkl. Basisstufe)</td><td>11'400 / 5'700</td></tr>
+<tr><td>Kindergarten (inkl. Basisstufe)</td><td>11'500 / 5'750</td></tr>
 </table>
 
 [^A11-1]: Beiträge pro Schuljahr auf CHF 100 gerundet
@@ -256,9 +255,9 @@ Zwischen den Kantonen Aargau, Basel-Landschaft, Basel-Stadt, Bern, Freiburg, Luz
 
 <table>
 <tr><th>Schulstufen, -typen und Ausbildungsgänge</th><th>Kantonsbeiträge pro Schujahr / pro Semester in CHF[^A12-1]</th></tr>
-<tr><td>Regelklassen</td><td>14'600 / 7'300</td></tr>
-<tr><td>Angebote für besondere Klassen (Zuschlag 50% zum Regeltarif)[^A12-2]</td><td>21'900 / 10'950</td></tr>
-<tr><td>Angebote für besonders Begabte (Zuschlag 10% zum Regeltarif)[^A12-3]</td><td>16'000 / 8'000</td></tr>
+<tr><td>Regelklassen</td><td>15'400 / 7'700</td></tr>
+<tr><td>Angebote für besondere Klassen (Zuschlag 50% zum Regeltarif)[^A12-2]</td><td>23'100 / 11'550</td></tr>
+<tr><td>Angebote für besonders Begabte (Zuschlag 10% zum Regeltarif)[^A12-3]</td><td>16'900 / 8'450</td></tr>
 </table>
 
 <sup>2</sup> 7.2.2 Sekundarstufe I
@@ -289,14 +288,14 @@ Zwischen den Kantonen Aargau, Basel-Landschaft, Basel-Stadt, Bern, Freiburg, Luz
 <table>
 <tr><th>Schulstufen, -typen und Ausbildungsgänge</th><th>Kantonsbeiträge pro Schujahr / pro Semester in CHF[^A13-1]</th></tr>
 <tr><td>Allgemeine Vorkurse, Berufsvorbereitende Schuljahre, Integrationsangebote (IBK und IIK)</td><td>18'100 / 9'050</td></tr>
-<tr><td>Maturitätsschulen</td><td>20'500 / 10'250</td></tr>
-<tr><td>Maturitätsschulen für Erwachsene, Vollzeit (VZ)</td><td>20'500 / 10'250</td></tr>
-<tr><td>Maturitätsschulen für Erwachsene, Teilzeit (TZ), pro JWL/SWL[^A13-2]</td><td>700 / 350</td></tr>
-<tr><td>Fachmittel- und Fachmaturitätsschulen (FMS); Ausbildung bis zum Fachmittelschulausweis</td><td>18'000 / 9'000</td></tr>
+<tr><td>Maturitätsschulen</td><td>20'400 / 10'200</td></tr>
+<tr><td>Maturitätsschulen für Erwachsene, Vollzeit (VZ)</td><td>20'400 / 10'200</td></tr>
+<tr><td>Maturitätsschulen für Erwachsene, Teilzeit (TZ), pro JWL/SWL[^A13-2]</td><td>600 / 300</td></tr>
+<tr><td>Fachmittel- und Fachmaturitätsschulen (FMS); Ausbildung bis zum Fachmittelschulausweis</td><td>17'800 / 8'900</td></tr>
 <tr><td>Fachmittel- und Fachmaturitätsschulen (FMS); Ausbildung zur Fachmaturität, pro JWL/SWL[^A13-3]</td><td>600 / 300</td></tr>
 <tr><td>Vorbereitungen auf Hochschulstudiengänge, pro JWL/SWL[^A13-4]</td><td>700 / 350</td></tr>
-<tr><td>Angebote für besonders Begabte (Zuschlag 10% zum Regeltarif)[^A13-5], Maturitätsschulen</td><td>22'500 / 11'250</td></tr>
-<tr><td>Angebote für besonders Begabte (Zuschlag 10% zum Regeltarif)[^A13-6], Fachmittel-/ Fachmaturitätsschulen (FMS)</td><td>19'800 / 9'900</td></tr>
+<tr><td>Angebote für besonders Begabte (Zuschlag 10% zum Regeltarif)[^A13-5], Maturitätsschulen</td><td>22'400 / 11'200</td></tr>
+<tr><td>Angebote für besonders Begabte (Zuschlag 10% zum Regeltarif)[^A13-6], Fachmittel-/ Fachmaturitätsschulen (FMS)</td><td>19'600 / 9'800</td></tr>
 </table>
 
 [^A13-1]: Beiträge pro Schuljahr auf CHF 100 gerundet
@@ -484,6 +483,24 @@ Kasernenstrasse 27
 Sie ist auch auf Internet verfügbar unter:
 
 [http://www.nwedk.ch/node/264](http://www.nwedk.ch/node/264)
+
+#### Art. A2-11
+
+<sup>1</sup> Die Änderung vom 17. März 2025 des Anhangs II des RSA 2009 wird nur in Form eines Verweises publiziert.
+
+Sie kann bei folgender Stelle bezogen werden:
+
+Bildungs- und Kulturdirektion des Kantons Bern
+
+Mittelschul- und Berufsbildungsamt
+
+Kasernenstrasse 27
+
+3000 Bern 22
+
+Sie ist auch auf Internet verfügbar unter:
+
+[http://www.nwedk.ch/node/267](http://www.nwedk.ch/node/267)
 
 #### Art. A2-10
 
