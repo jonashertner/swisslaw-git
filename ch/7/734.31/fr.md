@@ -4,11 +4,11 @@ title: Ordonnance du 30 mars 1994 sur les lignes électriques (OLEI)
 short: OLEl
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233"
 language: fr
-version: 2021-07-01
+version: 2025-08-01
 adopted: 1994-03-30
 in_force: 1994-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-1994-1233_1233_1233-20210701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20250801/fr/xml/fedlex-data-admin-ch-eli-cc-1994-1233_1233_1233-20250801-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/1233_1233_1233/20250801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,16 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr"
 
 (OLEl)
 
-du 30 mars 1994 (Etat le 1<sup>er</sup> juillet 2021)
+du 30 mars 1994 (État le 1<sup>er</sup> août 2025)
 
 Le Conseil fédéral suisse,
 
-vu les art. 3, 15*b*, al. 3, et 15*c*, al. 2 et 3, de la loi du 24 juin 1902 sur les installations électriques (LIE)[^ingress-1],[^ingress-2]
+vu les art. 13, 15*b*, al. 3, et 15*c*, al. 2 et 3, de la loi du 24 juin 1902 sur les installations électriques (LIE)[^ingress-1], vu l’art. 26 de la loi fédérale du 1<sup>er</sup> juillet 1966 sur la protection de la nature et du paysage[^ingress-2], vu l’art. 24 de la loi du 20 juin 1986 sur la chasse[^ingress-3],[^ingress-4]
 
 arrête:
 
-[^ingress-1]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
-[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 3 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1377](https://fedlex.data.admin.ch/eli/oc/2019/269)).
+[^ingress-1]: [RS 734.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8570)
+[^ingress-2]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^ingress-3]: [RS 922.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10979)
+[^ingress-4]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 451](https://fedlex.data.admin.ch/eli/oc/2025/451)).
 
 ## Titre 1 Dispositions générales
 
@@ -60,7 +62,7 @@ Les dispositions relatives à l’établissement des lignes électriques s’app
 <sup>5</sup> La présente ordonnance n’est pas applicable aux installations électriques visées à l’art. 42, al. 1, de l’ordonnance du 23 novembre 1983 sur les chemins de fer[^2-2].[^2-3]
 
 [^2-1]: Nouvelle dénomination selon l’ACF du 19 déc. 1997 (non publié).
-[^2-2]: [RS 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
+[^2-2]: [RS 742.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8749)
 [^2-3]: Introduit par l’annexe 2 ch. II 4 de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 
 #### Art. 3
@@ -71,8 +73,8 @@ Les dispositions relatives à l’établissement des lignes électriques s’app
 
 <sup>2</sup> …[^3-3]
 
-[^3-1]: [RS 734.2](https://fedlex.data.admin.ch/eli/cc/1994/1199_1199_1199)
-[^3-2]: [RS 734.1](https://fedlex.data.admin.ch/eli/cc/1994/1185_1185_1185)
+[^3-1]: [RS 734.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8573)
+[^3-2]: [RS 734.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8571)
 [^3-3]: Abrogé par l’annexe 2 ch. II 4 de l’O du 16 nov. 2011, avec effet au 1<sup>er</sup> juil. 2012 ([RO 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 
 #### Art. 4
@@ -117,7 +119,7 @@ Les lignes électriques ne doivent mettre en danger ni les personnes ni les chos
 
 <sup>4</sup> Les dispositions de l’ordonnance du 9 avril 1997[^7-1] sur la compatibilité électromagnétique sont applicables.[^7-2]
 
-[^7-1]: [[RO 1997 1008](https://fedlex.data.admin.ch/eli/oc/1997/1008_1008_1008), [2000 762](https://fedlex.data.admin.ch/eli/oc/2000/127)ch. I 6 [3012](https://fedlex.data.admin.ch/eli/oc/2000/546)ch. I art. 34 al. 3. [RO 2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)annexe 3 ch. I]. Voir actuellement l’O du 25 nov. 2015 ([RS 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)).
+[^7-1]: [[RO 1997 1008](https://fedlex.data.admin.ch/eli/oc/1997/1008_1008_1008), [2000 762](https://fedlex.data.admin.ch/eli/oc/2000/127)ch. I 6 [3012](https://fedlex.data.admin.ch/eli/oc/2000/546)ch. I art. 34 al. 3. [RO 2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)annexe 3 ch. I]. Voir actuellement l’O du 25 nov. 2015 ([RS 734.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8590)).
 [^7-2]: Introduit par l’annexe ch. 4 de l’O du 9 avr. 1997 sur la compatibilité électromagnétique, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 1008](https://fedlex.data.admin.ch/eli/oc/1997/1008_1008_1008)).
 
 #### Art. 8
@@ -183,11 +185,11 @@ L’autorité communale ou cantonale compétente pour l’octroi d’un permis d
 - b. des bâtiments sont édifiés ou modifiés de telle manière qu’il en résulte de nouveaux lieux à utilisation sensible (art. 3, al. 3, let. a et b, ORNI) dans l’aire d’une ligne à haute tension existante où la valeur limite (annexe 1, ch. 14, ORNI) est atteinte ou dépassée dans le mode d’exploitation déterminant (annexe 1, ch. 13, ORNI).
 
 [^11a-1]: Introduit par le ch. II 2 de l’O du 24 juin 2009, en vigueur depuis le 1<sup>er</sup> sept. 2009 ([RO 2009 3507](https://fedlex.data.admin.ch/eli/oc/2009/429)).
-[^11a-2]: [RS 814.710](https://fedlex.data.admin.ch/eli/cc/2000/38)
+[^11a-2]: [RS 814.710](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9586)
 
 ## Titre 2 Règles de construction
 
-### Chapitre 1**** Technologie de transport à employer
+### Chapitre 1 Technologie de transport à employer
 
 [^tit2-chap1-1]
 
@@ -229,7 +231,7 @@ Les coûts totaux présumés englobent les coûts suivants en lien avec le proje
 
 <sup>5</sup> Le calcul des coûts des pertes d’énergie fait appel au prix du produit dans les contrats dont l’échéance est la plus éloignée conclus sur le marché à terme suisse et portant sur la livraison d’électricité.
 
-[^11c-1]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+[^11c-1]: [RS 734.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8593)
 
 #### Art. 11d
 
@@ -252,7 +254,7 @@ Un projet concret peut, malgré le dépassement du facteur de surcoût, être r�
 
 [^11e-1]: Nouvelle teneur selon le ch.I de l’O du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 330](https://fedlex.data.admin.ch/eli/oc/2021/330)).
 
-### Chapitre 1*a***** Lignes aériennes
+### Chapitre 1*a* Lignes aériennes
 
 [^tit2-chap1a-1]
 
@@ -433,11 +435,13 @@ Le pouvoir perturbateur des lignes à haute tension et de leurs éléments de co
 
 #### Art. 30
 
-**Protection des oiseaux**
+**Protection des oiseaux**[^30-1]
 
-<sup>1</sup> Si les conditions locales l’exigent, on équipera les supports de dispositifs propres à éviter que des oiseaux ne provoquent des mises à la terre ou des courts-circuits.
+<sup>1</sup> Les nouvelles lignes doivent être planifiées et construites de façon à réduire le plus possible le risque de collision pour les oiseaux. Les supports doivent être conçus de sorte que les oiseaux ne puissent pas provoquer de court-circuit à la terre ou entre phases.
 
-<sup>2</sup> La planification et l’établissement de nouvelles lignes dans des zones très fréquentées par les oiseaux doivent se faire de façon à réduire le plus possible les risques de collision.
+<sup>2</sup> Des mesures doivent être prises sur les supports existants des lignes d’une tension de 1 à 150 kV dont la configuration représente un danger pour les oiseaux, afin que ceux-ci ne puissent pas, dans la mesure du possible, y provoquer de court-circuit à la terre ou entre phases.
+
+[^30-1]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 451](https://fedlex.data.admin.ch/eli/oc/2025/451)).
 
 #### Art. 31
 
@@ -947,8 +951,8 @@ La profondeur d’enfouissement des lignes en câble doit être au minimum de:[^
 
 <sup>5</sup> La mise à terre des lignes en câbles à courant fort doit correspondre aux dispositions de l’ordonnance du 30 mars 1994 sur le courant fort[^72-2].
 
-[^72-1]: [RS 734.1](https://fedlex.data.admin.ch/eli/cc/1994/1185_1185_1185)
-[^72-2]: [RS 734.2](https://fedlex.data.admin.ch/eli/cc/1994/1199_1199_1199)
+[^72-1]: [RS 734.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8571)
+[^72-2]: [RS 734.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8573)
 
 ### Section 2 Dispositions particulières pour les lignes en câbles à courant fort
 
@@ -1304,7 +1308,7 @@ Les distances entre les lignes en câbles et le niveau inférieur des rails doiv
 
 <sup>4</sup> Les revêtements de protection métalliques et les armatures métalliques de câbles au voisinage des voies sont soumis aux art. 42 à 46 de l’ordonnance du 23 novembre 1983 sur les chemins de fer[^103-1].[^103-2]
 
-[^103-1]: [RS 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
+[^103-1]: [RS 742.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8749)
 [^103-2]: Nouvelle teneur selon l’annexe 2 ch. II 4 de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 
 #### Art. 104
@@ -1554,9 +1558,9 @@ On examinera uniquement les installations de télécommunication et de télécom
 <sup>6</sup> La preuve du respect des tensions de contact admissibles doit être apportée à l’organe de contrôle dans le cadre de la demande d’approbation des plans ou à sa demande.
 
 [^123-1]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 4 juin 2021 concernant les prescriptions de sécurité pour les installations de transport par conduites, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
-[^123-2]: [RS 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
-[^123-3]: [RS 734.2](https://fedlex.data.admin.ch/eli/cc/1994/1199_1199_1199)
-[^123-4]: [RS 746.12](https://fedlex.data.admin.ch/eli/cc/2021/348)
+[^123-2]: [RS 746.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8897)
+[^123-3]: [RS 734.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8573)
+[^123-4]: [RS 746.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8899)
 
 #### Art. 124
 
@@ -1701,7 +1705,7 @@ Les exploitants de lignes à courant fort pour la distribution d’énergie loca
 
 Les travaux sur les lignes à courant fort sont régis par les dispositions de l’ordonnance du 30 mars 1994 sur le courant fort[^139-1].
 
-[^139-1]: [RS 734.2](https://fedlex.data.admin.ch/eli/cc/1994/1199_1199_1199)
+[^139-1]: [RS 734.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8573)
 
 #### Art. 140
 
@@ -1747,7 +1751,7 @@ Les travaux sur les lignes à courant fort sont régis par les dispositions de l
 
 L’ordonnance du 7 juillet 1933 sur les parallélismes et les croisements de lignes électriques entre elles et avec les chemins de fer[^144-1] est abrogée.
 
-[^144-1]: [RS **4** 884]
+[^144-1]: [[RS 4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6332)884]
 
 #### Art. 145
 
@@ -1763,13 +1767,24 @@ L’ordonnance du 7 juillet 1933 sur les parallélismes et les croisements de li
 
 Les projets de lignes électriques déposés devant l’autorité d’approbation avant l’entrée en vigueur de la présente ordonnance seront examinés sous le régime du droit en vigueur. S’ils doivent ensuite être remaniés intégralement ou de façon importante, ils seront alors examinés sous le régime du nouveau droit.
 
+#### Art. 146a
+
+**Disposition transitoire**[^146a-1]
+
+Les lignes suivantes doivent être adaptées conformément à l’art. 30, al. 2, à des fins de protection des oiseaux:
+
+- a. les lignes d’une tension de 1 à 36 kV, d’ici à fin 2035;
+- b. les lignes d’une tension supérieure à 36 kV et inférieure ou égale à 150 kV, d’ici à fin 2040.
+
+[^146a-1]: Introduit par le ch. I de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 451](https://fedlex.data.admin.ch/eli/oc/2025/451)).
+
 #### Art. 147
 
 **Entrée en vigueur**
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> juin 1994.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 4)
 
@@ -1782,7 +1797,7 @@ Annexe 1*[^t-1]*
 - 1 *Accessoires de câble:* éléments d’une ligne en câbles, tels que les réservoirs à huile, à gaz ou à eau et les dispositifs de surveillance ou de protection (17).
 - 2 *Ancrage d’un conducteur:* élément de jonction entre la fixation rigide d’un conducteur ou d’un élément porteur d’un câble aérien et un élément de construction fixe (19).
 - 3 *Angle de ligne* *α**:* angle sur le plan horizontal à la hauteur d’un support entre l’arrivée d’un tronçon de ligne et le départ (dans le sens de la numérotation des supports). Pour les tracés de ligne rectilignes, α = 200 g. Lorsqu’il existe plusieurs départs, il faut rapporter tous les angles de lignes à la même origine (22).
-- 4 *Armatur**es de câble:* pièces d’une ligne en câbles pour le raccordement et la jonction de câbles, telles que les bornes de connexions, les manchons, les boîtes d’extrémité, etc. (14).
+- 4 *Armatures de câble:* pièces d’une ligne en câbles pour le raccordement et la jonction de câbles, telles que les bornes de connexions, les manchons, les boîtes d’extrémité, etc. (14).
 - 5 *Câble:* un ou plusieurs conducteurs isolés, entourés d’une gaine protectrice (13).
 - 6 *Câble aérien:* câble auto‑porteur ou soutenu par des éléments porteurs, suspendu librement entre des points d’appui (24).
 - 7 *Câble de réseau:* câble à courant fort entouré d’une gaine métallique destinée à conduire les courants susceptibles d’apparaître en exploitation normale et en cas de dérangement prévisible (26).
@@ -1814,12 +1829,12 @@ Annexe 1*[^t-1]*
 - 32\.1 *Portée moyenne (a**<sub>m</sub>**):* moyenne arithmétique des portées adjacentes à un support (30.1).
 - 32\.2 *Portée équivalente (a**<sub>id</sub>**):* portée de substitution fictive, calculée pour un tronçon situé entre deux points d’ancrage (30.2).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20250801/fr/xml/image/image1.png)
 
 - ψ<sub>k</sub> = angle d’inclinaison de la droite reliant les points de suspension de la portée a<sub>k</sub>.
 - 32\.3 *Portée virtuelle (a**<sup><sub>v</sub></sup>**):* portée apparente en cas de hauteurs différentes des points de suspension du conducteur, établie par la longueur de la corde horizontale passant entre le point de suspension supérieur et le point d’intersection avec la chaînette prolongée au‑delà du point de suspension inférieur (30.3).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20250801/fr/xml/image/image2.png)
 
 - ψ = angle d’inclinaison
 - c=F<sub>H</sub>: q
@@ -1839,7 +1854,7 @@ Annexe 1*[^t-1]*
 - 37 *Voie établie en chaussée:* voie sur l’aire de laquelle il est possible de circuler avec des véhicules routiers, cas des trams avec des rails à gorge (10).
 - 38 *Zone des lignes aériennes à haute tension:* zone sous et à côté des lignes aériennes, limitée latéralement par des plans verticaux à 5 m de distance horizontale de part et d’autre du conducteur extérieur. Au-dessus du conducteur inférieur, la distance horizontale de 5 m est augmentée de la valeur du dépassement jusqu’à un maximum de 20 m (21).
 
-[^annex1-lvlu1-1]: [RS 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
+[^annex1-lvlu1-1]: [RS 742.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8749)
 
 Annexe 2
 
@@ -1936,12 +1951,14 @@ Annexe 4
 - 1\.2 Dans certains cas particuliers et pour des régions où les conditions atmosphériques sont, soit nettement plus favorables, soit nettement plus mauvaises, l’organe de contrôle peut fixer d’autres valeurs pour la pression du vent.
 - 1\.3 Les surfaces A d’un ouvrage en treillis frappées par le vent sont calculées selon la formule suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20250801/fr/xml/image/image3.png)
 
-- A<sub>1</sub> surface de la paroi antérieure supposée pleine du support exposé au vent
-- A<sub>2</sub> surface des vides de cette paroi
-- A<sub>3</sub> surface de la paroi postérieure du support, supposée pleine
-- A<sub>4</sub> surface des vides de cette paroi.
+-
+
+  - A<sub>1</sub> surface de la paroi antérieure supposée pleine du support exposé au vent
+  - A<sub>2</sub> surface des vides de cette paroi
+  - A<sub>3</sub> surface de la paroi postérieure du support, supposée pleine
+  - A<sub>4</sub> surface des vides de cette paroi.
 
 - 1\.4 Les hypothèses de charge sont à majorer pour
   - a. les supports ordinaires (porteurs): d’une traction unilatérale de 2 % de l’effort exercé par l’ensemble des conducteurs selon l’art. 18, dans la direction de la ligne, à la hauteur de la résultante des efforts exercés par les conducteurs;
@@ -1972,11 +1989,11 @@ Annexe 4
 
 - 4\.1 Il y a lieu de vérifier la résistance au flambage des éléments de construction en bois sollicités à la compression et exposés au flambage.
 - 4\.2 Pour un effort de compression dirigé dans l’axe ou quasi parallèlement à celui‑ci, la contrainte σ<sub>k</sub> ne devra pas dépasser les valeurs suivantes:
-- <sub>k</sub> = 13,2 – 0,092 · λ [N/mm<sup>2</sup>] pour 13 ≤ λ ≤ 100
+- σ<sub>k</sub> = 13,2 – 0,092 · λ [N/mm<sup>2</sup>] pour 13 ≤ λ ≤ 100
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20250801/fr/xml/image/image4.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20250801/fr/xml/image/image5.png)
 
 - l<sub>k</sub>: longueur de flambage [cm]
 - i: rayon de giration [cm]
@@ -2041,13 +2058,13 @@ Annexe 6
 - 2\.2 Distances entre les conducteurs dans la portée
 - 2\.2.1 La distance directe z entre deux conducteurs dans la portée ne doit pas être inférieure aux valeurs suivantes (tableau 2.4.1):
 
-– même circuit: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr/xml/image/image6.png) – circuits différents: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr/xml/image/image7.png)
+– même circuit: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20250801/fr/xml/image/image6.png) – circuits différents: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20250801/fr/xml/image/image7.png)
 
 - 2\.2.2 Les distances C3 et C4 constituent des minima pour des conducteurs déviés par le vent. En conséquence, la déviation des conducteurs doit être déterminée avec des différences de pression du vent allant jusqu’à 40 %. Vis‑à‑vis des conducteurs et des supports des autres lignes aériennes, les distances mentionnées aux ch. 1.2 et 2.1.3 doivent être respectées.
 - 2\.2.3 Pour des conducteurs de sections différentes, en matériaux hétérogènes ou avec des flèches inégales, la distance doit être déterminée séparément pour chaque conducteur. La plus grande valeur obtenue doit être prise en compte.
 - 2\.2.4 Pour les entretoises de phase, la distance directe z entre des conducteurs ne doit pas être inférieure aux valeurs suivantes (tableau 2.4.1):
 
-– même circuit: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr/xml/image/image8.png) – circuits différents: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr/xml/image/image9.png)
+– même circuit: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20250801/fr/xml/image/image8.png) – circuits différents: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20250801/fr/xml/image/image9.png)
 
 - Une distance minimale de 0,9 m est toutefois requise dans tous les cas.
 - 2\.3 Pour des lignes avec des circuits de tension nominale différente, la tension nominale la plus élevée est déterminante pour les distances indiquées dans le tableau 2.4.1.
@@ -2075,7 +2092,7 @@ Distances directes en fonction de la tension
 <table>
 <tr><td colspan="3">Distances pour système au repos ou rigide</td><td></td><td></td><td>Tension nominale</td><td colspan="3">Distances en cas de rapprochement de courte durée (p. ex. en cas de déviation due au vent)</td></tr>
 <tr><td>C1</td><td>C2</td><td colspan="3">Tension déterminante</td><td></td><td>Tension déterminante</td><td>C3</td><td>C4</td></tr>
-<tr><td>Même système Ph–Ph Ph–E [m]</td><td>Systèmes différents Ph–Ph [m]</td><td colspan="3">Tenue au choc de foudre [kV]</td><td>[kV]</td><td>Essai 50 Hz [kV<sub>ef</sub><sub>f</sub>]</td><td>Même système Ph–Ph Ph–E [m]</td><td>Systèmes différents Ph–Ph [m]</td></tr>
+<tr><td>Même système Ph–Ph Ph–E [m]</td><td>Systèmes différents Ph–Ph [m]</td><td colspan="3">Tenue au choc de foudre [kV]</td><td>[kV]</td><td>Essai 50 Hz [kV<sub>eff</sub>]</td><td>Même système Ph–Ph Ph–E [m]</td><td>Systèmes différents Ph–Ph [m]</td></tr>
 <tr><td>0,05</td><td>0,05</td><td colspan="3"></td><td>&lt; 1</td><td></td><td>0,05</td><td>0,05</td></tr>
 <tr><td>0,06</td><td></td><td colspan="3">40</td><td>3</td><td></td><td>0,06</td><td></td></tr>
 <tr><td></td><td>0,06</td><td colspan="3">46</td><td></td><td></td><td></td><td>0,06</td></tr>
@@ -2115,18 +2132,18 @@ Facteur k en fonction de l’angle du système β, de la section des conducteurs
 
 **Facteur k Pression du vent 500 N/m****<sup>2</sup>**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20250801/fr/xml/image/image10.png)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr/xml/image/image11.png)</td><td></td><td>0 &lt; w ≤ 16,8</td><td>Cu</td><td>: A &gt; 70 mm<sup>2</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20250801/fr/xml/image/image11.png)</td><td></td><td>0 &lt; w ≤ 16,8</td><td>Cu</td><td>: A &gt; 70 mm<sup>2</sup></td></tr>
 <tr><td></td><td></td><td></td><td>Ac</td><td>: A &gt; 95 mm<sup>2</sup></td></tr>
 <tr><td></td><td></td><td></td><td>Al, Ad</td><td>: A &gt; 600 mm<sup>2</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr/xml/image/image12.png)</td><td></td><td>16,8 &lt; w ≤ 28,5</td><td>Cu</td><td>: 19,6 ≤ A ≤ 70 mm<sup>2</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20250801/fr/xml/image/image12.png)</td><td></td><td>16,8 &lt; w ≤ 28,5</td><td>Cu</td><td>: 19,6 ≤ A ≤ 70 mm<sup>2</sup></td></tr>
 <tr><td></td><td></td><td></td><td>Ac</td><td>: 50 ≤ A ≤ 95 mm<sup>2</sup></td></tr>
 <tr><td></td><td></td><td></td><td>Al, Ad</td><td>: 300 ≤ A ≤ 600 mm<sup>2</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr/xml/image/image13.png)</td><td></td><td>28,5 &lt; w ≤ 42,8</td><td>Ac</td><td>: A &lt; 50 mm<sup>2</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20250801/fr/xml/image/image13.png)</td><td></td><td>28,5 &lt; w ≤ 42,8</td><td>Ac</td><td>: A &lt; 50 mm<sup>2</sup></td></tr>
 <tr><td></td><td></td><td></td><td>Al, Ad</td><td>: 185 ≤ A &lt; 300 mm<sup>2</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr/xml/image/image14.png)</td><td></td><td>42,8 &lt; w</td><td>Al, Ad</td><td>: A &lt; 185 mm<sup>2</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20250801/fr/xml/image/image14.png)</td><td></td><td>42,8 &lt; w</td><td>Al, Ad</td><td>: A &lt; 185 mm<sup>2</sup></td></tr>
 </table>
 
 Pour d’autres matériaux, le facteur k se détermine à l’aide de l’angle d’oscillation φ.
@@ -2137,19 +2154,19 @@ Facteur k en fonction de l’angle du système β, de la section des conducteurs
 
 **Facteur k Pression du vent 650 N/m****<sup>2</sup>**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20250801/fr/xml/image/image15.png)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr/xml/image/image11.png)</td><td></td><td>0 &lt; w ≤ 12,9</td><td>Cu</td><td>: A &gt; 95 mm<sup>2</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20250801/fr/xml/image/image11.png)</td><td></td><td>0 &lt; w ≤ 12,9</td><td>Cu</td><td>: A &gt; 95 mm<sup>2</sup></td></tr>
 <tr><td></td><td></td><td></td><td>Ac</td><td>: A &gt; 150 mm<sup>2</sup></td></tr>
 <tr><td></td><td></td><td></td><td>Al, Ad</td><td>: A &gt; 1000 mm<sup>2</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr/xml/image/image13.png)</td><td></td><td>12,9 &lt; w ≤ 22,0</td><td>Cu</td><td>: 50 ≤ A ≤ 95 mm<sup>2</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20250801/fr/xml/image/image13.png)</td><td></td><td>12,9 &lt; w ≤ 22,0</td><td>Cu</td><td>: 50 ≤ A ≤ 95 mm<sup>2</sup></td></tr>
 <tr><td></td><td></td><td></td><td>Ac</td><td>: 70 ≤ A ≤ 150 mm<sup>2</sup></td></tr>
 <tr><td></td><td></td><td></td><td>Al, Ad</td><td>: 500 ≤ A ≤ 1000 mm<sup>2</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr/xml/image/image12.png)</td><td></td><td>22,0 &lt; w ≤ 33,0</td><td>Cu</td><td>: A &lt; 50 mm<sup>2</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20250801/fr/xml/image/image12.png)</td><td></td><td>22,0 &lt; w ≤ 33,0</td><td>Cu</td><td>: A &lt; 50 mm<sup>2</sup></td></tr>
 <tr><td></td><td></td><td></td><td>Ac</td><td>: A &lt; 70 mm<sup>2</sup></td></tr>
 <tr><td></td><td></td><td></td><td>Al, Ad</td><td>: 240 ≤ A &lt; 500 mm<sup>2</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr/xml/image/image14.png)</td><td></td><td>33,0 &lt; w</td><td>Al, Ad</td><td>: A &lt; 240 mm<sup>2</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20250801/fr/xml/image/image14.png)</td><td></td><td>33,0 &lt; w</td><td>Al, Ad</td><td>: A &lt; 240 mm<sup>2</sup></td></tr>
 </table>
 
 Pour d’autres matériaux, le facteur k se détermine à l’aide de l’angle d’oscillation φ.
@@ -2160,7 +2177,7 @@ Détermination du facteur k en fonction de l’angle du système β et de l’an
 <tr><td>– Angle du système β:</td><td>angle d’un conducteur rapporté à la verticale du conducteur voisin</td></tr>
 </table>
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20250801/fr/xml/image/image16.png)
 
 <table>
 <tr><td>– Angle d’oscillation φ:</td><td>arc tg (p · d/q · 10<sup>–4</sup>)</td></tr>
@@ -2208,7 +2225,7 @@ Annexe 8
 
 - Le bâtiment est plus bas que le conducteur inférieur
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr/xml/image/image17.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20250801/fr/xml/image/image17.png)
 
 <table>
 <tr><td>⊗:</td><td colspan="2">Droite reliant entre eux les points de fixation des chaînes d’ancrage ou de suspension de la portée concernée par le rapprochement</td></tr>
@@ -2222,7 +2239,7 @@ Annexe 8
 
 - Le bâtiment est plus élevé que le conducteur inférieur
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr/xml/image/image18.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20250801/fr/xml/image/image18.png)
 
 <table>
 <tr><td>⊗:</td><td colspan="2">Droite reliant entre eux les points de fixation des chaînes d’ancrage ou de suspension de la portée concernée par le rapprochement</td></tr>
@@ -2241,7 +2258,7 @@ Annexe 9
 
 Candélabres sans installation d’ascension fixe
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr/xml/image/image19.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20250801/fr/xml/image/image19.png)
 
 <table>
 <tr><td>-<sub>·</sub>-<sub>·</sub>-<sub>·</sub>-<sub>·</sub>-<sub>·</sub>-<sub>·</sub>-<sub>·</sub></td><td></td><td>Distances pour la flèche maximale des conducteurs au repos, respectivement des câbles aériens:</td></tr>
@@ -2259,11 +2276,11 @@ Annexe 10
 
 ### 1. Places de tir de 250 m et de 300 m (avec munitions d’ordonnance)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr/xml/image/image20.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20250801/fr/xml/image/image20.png)
 
 ### 2. Places de tir de 25 m et de 50 m (avec munitions d’ordonnance)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr/xml/image/image21.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20250801/fr/xml/image/image21.png)
 
 ### 3. Aucun support, élément de support, conducteur ou câble aérien ne doit se trouver dans les zones A et B. Les supports ou éléments de supports en bois ainsi que les supports revêtus de bois sont admis dans la zone C.
 
@@ -2424,8 +2441,8 @@ Annexe 13
 
 <table>
 <tr><td>– σ<sub>k</sub> = 33–0,23 · λ</td><td>[N/mm<sup>2</sup>] pour 13 ≤ λ ≤ 100</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr/xml/image/image22.png)</td><td>[tab] [N/mm<sup>2</sup>] pour λ &gt; 100</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr/xml/image/image23.png)</td><td>l<sub>k</sub>: longueur de flambage [cm] i: rayon de giration [cm]</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20250801/fr/xml/image/image22.png)</td><td>[tab] [N/mm<sup>2</sup>] pour λ &gt; 100</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20250801/fr/xml/image/image23.png)</td><td>l<sub>k</sub>: longueur de flambage [cm] i: rayon de giration [cm]</td></tr>
 </table>
 
 - 3\.3 Le facteur de sécurité relatif aux contraintes limites est de 3.
@@ -2476,7 +2493,7 @@ Annexe 14
 - 4\.2 *Supports ordinaires* (porteurs)
 - 4\.2.1 Le 5 % des efforts de traction horizontaux unilatéraux de tous les conducteurs et conducteurs de terre à –20 °C, sans surcharge, agit sur le support. De plus, la pression du vent sur le support agit dans la direction de la ligne.
 - 4\.2.2 Le 30 % de l’effort de traction horizontal unilatéral d’un conducteur, d’un conducteur partiel ou conducteur de terre à 0 °C, avec surcharge, agit sur le support au point de fixation sur lequel se produit l’effort le plus défavorable. Dans ce cas, aucun facteur de réduction ne peut être pris en considération.
-- 4\.3 *Supports p**orteurs spéciaux*
+- 4\.3 *Supports porteurs spéciaux*
 - 4\.3.1 Le 5 % des efforts de traction horizontaux unilatéraux de tous les conducteurs et conducteurs de terre à –20 °C, sans surcharge, agit sur le support. De plus, la pression du vent sur le support agit dans la direction de la ligne.
 - 4\.3.2 Le 15 % des efforts de traction horizontaux unilatéraux de tous les conducteurs et conducteurs de terre à 0 °C, sans surcharge, agit sur le support. De plus, la pression du vent sur le support agit dans la direction de la ligne.
 - 4\.3.3 Le 15 % des efforts de traction horizontaux unilatéraux de tous les conducteurs et conducteurs de terre à 0 °C, avec surcharge, agit sur le support.
@@ -2542,7 +2559,7 @@ Annexe 15
 - 2\.3 Les charges dues à la neige sur un support de ligne aérienne ne doivent être prise en considération que si les conditions locales d’exposition l’exigent.
 - 2\.4 Pour les charpentes d’installations en plein air jusqu’à une altitude de 2000 m, il faut tenir compte des charges suivantes dues à la neige, par m<sup>2</sup> de surface horizontale couverte:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr/xml/image/image24.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20250801/fr/xml/image/image24.png)
 
 - Lorsque l’installation se situe à une altitude supérieure à 2000 m ou que les conditions climatiques régionales imposent des charges de neige plus importantes, ces valeurs doivent être déterminées séparément et introduite dans le calcul.
 
@@ -2550,7 +2567,7 @@ Annexe 15
 
 - **Facteur de réduction r**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr/xml/image/image25.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20250801/fr/xml/image/image25.png)
 
 Portée [m]
 
@@ -2594,7 +2611,7 @@ Pour les lignes à deux termes, la somme des diamètres de tous les conducteurs 
 
 ### 3 Détermination des classes de solidité des supports en bois
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr/xml/image/image26.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20250801/fr/xml/image/image26.png)
 
 Annexe 17
 
@@ -2606,7 +2623,7 @@ Annexe 17
 
 <table>
 <tr><td>Disposition de la ligne</td><td>Ligne n<sup>o</sup> a</td><td></td><td>Ligne n<sup>o</sup> b</td><td></td><td colspan="2">Distances</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr/xml/image/image27.png)</td><td>nue</td><td>câble</td><td>nue</td><td>câble</td><td></td><td>y = distance verticale</td></tr>
+<tr><td></td><td>nue</td><td>câble</td><td>nue</td><td>câble</td><td></td><td>y = distance verticale</td></tr>
 <tr><td></td><td></td><td>N</td><td></td><td>S</td><td colspan="2">y ≥ 0,5 m pour lignes ordinaires et à grandes portées</td></tr>
 <tr><td></td><td></td><td>N</td><td>S</td><td></td><td colspan="2">y ≥ 0,5 m pour lignes ordinaires</td></tr>
 <tr><td></td><td></td><td>N</td><td>S</td><td></td><td colspan="2">y ≥ 1,0 m pour lignes à grandes portées</td></tr>
@@ -2628,7 +2645,7 @@ H = Ligne à haute tension – N = Ligne à basse tension – S = Ligne à coura
 
 <table>
 <tr><td>Disposition de la ligne</td><td>Ligne n<sup>o</sup> a</td><td></td><td>Ligne n<sup>o</sup> b</td><td></td><td colspan="2">Distances</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr/xml/image/image27.png)</td><td>nue</td><td>câble</td><td>nue</td><td>câble</td><td></td><td>y = distance verticale</td></tr>
+<tr><td></td><td>nue</td><td>câble</td><td>nue</td><td>câble</td><td></td><td>y = distance verticale</td></tr>
 <tr><td></td><td></td><td>N</td><td>S</td><td>S</td><td colspan="2">y ≥M 0,5 m</td></tr>
 <tr><td></td><td>N</td><td></td><td>S</td><td>S</td><td colspan="2">y≥ M 1,5 m</td></tr>
 <tr><td></td><td>H</td><td></td><td>S</td><td>S</td><td colspan="2">z ≥ annexe 6 ,≥ 1,5 m, y ≥ 1,5 m pour S d’entreprise seulement</td></tr>
@@ -2645,7 +2662,7 @@ H = Ligne à haute tension – N = Ligne à basse tension – S = Ligne à coura
 <table>
 <tr><td>Disposition de la ligne</td><td colspan="4">Ligne n<sup>o</sup> a</td><td></td><td colspan="2"></td><td></td><td colspan="4">Ligne n<sup>o</sup> b</td><td></td><td></td><td></td><td>Distances</td><td>a= plus grande portée [m]</td></tr>
 <tr><td></td><td>nue</td><td>câble</td><td colspan="4">Portée</td><td colspan="2"></td><td>nue</td><td>câble</td><td colspan="4">Portée</td><td></td><td></td><td>x = distance horizontale</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr/xml/image/image28.png)</td><td></td><td></td><td>≤ 60 m</td><td colspan="5">&gt; 60 m</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt;60 m</td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td>≤ 60 m</td><td colspan="5">&gt; 60 m</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt;60 m</td><td></td><td></td></tr>
 <tr><td></td><td></td><td>N</td><td>[F06C]</td><td colspan="5"></td><td>S</td><td>S</td><td>[F06C]</td><td colspan="4"></td><td colspan="2">x ≥ 1,0 m</td></tr>
 <tr><td></td><td></td><td>N</td><td>[F06C]</td><td colspan="5"></td><td></td><td>S</td><td></td><td colspan="4">[F06C]</td><td colspan="2">x ≥ 2,0 m + 0,02 a</td></tr>
 <tr><td></td><td></td><td>N</td><td></td><td colspan="5">[F06C]</td><td></td><td>S</td><td>[F06C]</td><td colspan="4">[F06C]</td><td colspan="2">x ≥ 2,0 m + 0,02 a</td></tr>
@@ -2676,7 +2693,7 @@ H = Ligne à haute tension – N = Ligne à basse tension – S = Ligne à coura
 <table>
 <tr><td>Disposition de la ligne</td><td colspan="4">Ligne n<sup>o</sup> a</td><td></td><td></td><td></td><td colspan="4">Ligne n<sup>o</sup> b</td><td></td><td></td><td></td><td>Distances</td><td>a= plus grande portée [m]</td></tr>
 <tr><td></td><td>nue</td><td>câble</td><td colspan="4">Portée</td><td></td><td>nue</td><td>câble</td><td colspan="4">Portée</td><td></td><td></td><td>x = distance horizontale</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr/xml/image/image28.png)</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt; 60 m</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt;60 m</td><td></td><td>z = distance directe</td></tr>
+<tr><td></td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt; 60 m</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt;60 m</td><td></td><td>z = distance directe</td></tr>
 <tr><td></td><td></td><td>N</td><td></td><td colspan="4">[F06C]</td><td>N</td><td></td><td>[F06C]</td><td colspan="4">[F06C]</td><td colspan="2">x ≥ 2,0 m + 0,02 a; z ≥ annexe 6</td></tr>
 <tr><td></td><td>N</td><td></td><td>[F06C]</td><td colspan="4"></td><td></td><td>N</td><td>[F06C]</td><td colspan="4"></td><td colspan="2">x ≥ 2,0 m</td></tr>
 <tr><td></td><td>N</td><td></td><td>[F06C]</td><td colspan="4">[F06C]</td><td></td><td>N</td><td></td><td colspan="4">[F06C]</td><td colspan="2">x ≥ 2,0 m + 0,02 a; z ≥ annexe 6</td></tr>
@@ -2707,7 +2724,7 @@ H = Ligne à haute tension – N = Ligne à basse tension – S = Ligne à coura
 <table>
 <tr><td>Disposition de la ligne</td><td colspan="4">Ligne n<sup>o</sup> a</td><td></td><td></td><td></td><td colspan="4">Ligne n<sup>o</sup> b</td><td></td><td></td><td></td><td>Distances</td><td>b= plus grande tension nominale comptée en [m] par [kV] y = = distance verticale</td></tr>
 <tr><td></td><td>nue</td><td>câble</td><td colspan="4">Portée</td><td></td><td>nue</td><td>câble</td><td colspan="4">Portée</td><td></td><td></td><td>s = distance au support de croisement le plus proche de la ligne a [m] z = distance directe</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr/xml/image/image29.png)</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt; 60 m</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt;60 m</td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt; 60 m</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt;60 m</td><td></td><td></td></tr>
 <tr><td></td><td></td><td>N</td><td>[F06C]</td><td colspan="4"></td><td></td><td>S</td><td>[F06C]</td><td colspan="4"></td><td colspan="2">z≥ M 0,5 m</td></tr>
 <tr><td></td><td></td><td>N</td><td>[F06C]</td><td colspan="4"></td><td>S</td><td></td><td>[F06C]</td><td colspan="4"></td><td colspan="2">z ≥ 1,0 m</td></tr>
 <tr><td></td><td></td><td>N</td><td></td><td colspan="4">[F06C]</td><td>S</td><td>S</td><td>[F06C]</td><td colspan="4">[F06C]</td><td colspan="2">z ≥ 1,0 m + 0,02 r</td></tr>
@@ -2725,12 +2742,12 @@ H = Ligne à haute tension – N = Ligne à basse tension – S = Ligne à coura
 
 H = Ligne à haute tension – N = Ligne à basse tension – S = Ligne à courant faible
 
-### Croisements sur supports distincts*Tableau* *4.2*
+### Croisements sur supports distincts*Tableau 4.2*
 
 <table>
 <tr><td>Disposition de la ligne</td><td colspan="4">Ligne n<sup>o</sup> a</td><td></td><td></td><td></td><td colspan="4">Ligne n<sup>o</sup> b</td><td></td><td></td><td></td><td>Distances</td><td>b= plus grande tension nominale comptée en [m] par [kV] y = distance verticale</td></tr>
 <tr><td></td><td>nue</td><td>câble</td><td colspan="4">Portée</td><td></td><td>nue</td><td>câble</td><td colspan="4">Portée</td><td></td><td></td><td>r = distance au support de croisement le plus proche de la ligne a [m] s = distance au support de croisement le plus proche de la ligne b [m]</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr/xml/image/image29.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr/xml/image/image29.png)</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt; 60 m</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt;60 m</td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt; 60 m</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt;60 m</td><td></td><td></td></tr>
 <tr><td></td><td></td><td>N</td><td>[F06C]</td><td colspan="4">[F06C]</td><td></td><td>N</td><td>[F06C]</td><td colspan="4">[F06C]</td><td colspan="2">z ≥ 0,5 m</td></tr>
 <tr><td></td><td></td><td>N</td><td>[F06C]</td><td colspan="4"></td><td>N</td><td></td><td>[F06C]</td><td colspan="4"></td><td colspan="2">z ≥ 1,5 m</td></tr>
 <tr><td></td><td></td><td>N</td><td></td><td colspan="4">[F06C]</td><td>N</td><td></td><td>[F06C]</td><td colspan="4"></td><td colspan="2">z ≥ 1,0 m + 0,02 r, ≥ 1,5 m</td></tr>
@@ -2754,12 +2771,12 @@ H = Ligne à haute tension – N = Ligne à basse tension – S = Ligne à coura
 
 H = Ligne à haute tension – N = Ligne à basse tension – S = Ligne à courant faible
 
-### Distance entre les lignes et les supports étrangers ou les bâtiments*Tableau* *5*
+### Distance entre les lignes et les supports étrangers ou les bâtiments*Tableau 5*
 
 <table>
 <tr><td>Disposition de la ligne</td><td colspan="4">Support / Ligne n<sup>o</sup> a</td><td></td><td></td><td></td><td colspan="4">Ligne n<sup>o</sup> b</td><td></td><td></td><td></td><td>Distances</td><td>b= tension nominale de la ligne b comptée en [m] par [kV]</td></tr>
 <tr><td></td><td>nue</td><td>câble</td><td colspan="4">Portée</td><td></td><td>nue</td><td>câble</td><td colspan="4">Portée</td><td></td><td></td><td>x = distance horizontale</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr/xml/image/image30.png)</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt; 60 m</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt;60 m</td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt; 60 m</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt;60 m</td><td></td><td></td></tr>
 <tr><td></td><td></td><td></td><td></td><td colspan="4"></td><td>S</td><td>S</td><td>[F06C]</td><td colspan="4">[F06C]</td><td colspan="2">z ≥ 1,5 m</td></tr>
 <tr><td></td><td></td><td></td><td></td><td colspan="4"></td><td>N</td><td>N</td><td>[F06C]</td><td colspan="4">[F06C]</td><td colspan="2">z ≥ annexe 6, ≥ 1,5 m</td></tr>
 <tr><td></td><td></td><td></td><td></td><td colspan="4"></td><td>H</td><td>H</td><td>[F06C]</td><td colspan="4">[F06C]</td><td colspan="2">x ≥ annexe 6, ≥ 1,5 m + 0,01 b</td></tr>
@@ -2775,17 +2792,17 @@ Annexe 18
 
 ## Profil du chemin de fer
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/fr/xml/image/image31.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20250801/fr/xml/image/image31.png)
 
 - a ≥ 3 m + 0,01 par m kV de tension nominale la plus élevée.
 - b ≥ 3 m + 0,01 m par kV de tension nominale la plus élevée + 0,02 m par mètre de distance au support le plus proche de la ligne supérieure.
 - c ≥ 14 m pour les chemins de fer à voie normale et à courant alternatif.
 
-Annexe 19*[^t-2]*
+Annexe 19[^t-2]
 
 [^t-2]: Abrogée par l’annexe 2 ch. 2 de l’O du 4 juin 2021 concernant les prescriptions de sécurité pour les installations de transport par conduites, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
 
-Annexe 20*[^t-3]*
+Annexe 20[^t-3]
 
 ## Table des matières
 
