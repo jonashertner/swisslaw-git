@@ -3,20 +3,19 @@ canton: FR
 number: "122.90.21"
 title: Verordnung über die Nachführung und die Veröffentlichung der Leistungskataloge
 language: de
-version: 2009-07-01
-valid_until: 2025-07-31
-version_adopted: 2009-06-09
+version: 2025-08-01
+version_adopted: 2025-06-17
 adopted: 2009-06-09
 in_force: 2009-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.90.21"
-pdf: "https://bdlf.fr.ch/api/de/versions/5047/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8225/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Nachführung und die Veröffentlichung der Leistungskataloge
 
-vom 09.06.2009 (Fassung in Kraft getreten am 01.07.2009)
+vom 09.06.2009 (Fassung in Kraft getreten am 01.08.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -62,7 +61,7 @@ beschliesst:
 
 <sup>1</sup> Die LoF-Einheiten (Einheiten mit leistungsorientierter Führung) führen ihre Leistungskataloge nach den von der Finanzverwaltung validierten Führungsregeln und führen sie dementsprechend nach.
 
-<sup>2</sup> Das freiburger spital, das Freiburger Netz für die Pflege im Bereich psychische Gesundheit, die Fachhochschule Westschweiz – Freiburg, die Pädagogische Hochschule, die Universität, die Kantonale Sozialversicherungsanstalt, die Kantonale Gebäudeversicherung und das Amt für Strassenverkehr und Schifffahrt weisen ihre Leistungen in der ihnen eigenen, von der jeweiligen Direktion validierten Form aus und führen sie entsprechend nach.
+<sup>2</sup> Das freiburger spital, das Freiburger Netz für die Pflege im Bereich psychische Gesundheit, die Fachhochschule Westschweiz – Freiburg, die Universität Freiburg, die Kantonale Sozialversicherungsanstalt, die Kantonale Gebäudeversicherung und das Amt für Strassenverkehr und Schifffahrt weisen ihre Leistungen in der ihnen eigenen, von der jeweiligen Direktion validierten Form aus und führen sie entsprechend nach.
 
 #### Art. 6
 
