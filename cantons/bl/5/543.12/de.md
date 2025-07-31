@@ -3,20 +3,19 @@ canton: BL
 number: "543.12"
 title: Verordnung über den Swisslos-Fonds
 language: de
-version: 2021-01-01
-valid_until: 2025-07-31
-version_adopted: 2020-12-08
+version: 2025-08-01
+version_adopted: 2025-06-24
 adopted: 2011-03-29
 in_force: 2011-05-01
 url: "https://bl.clex.ch/app/de/texts_of_law/543.12"
-pdf: "https://bl.clex.ch/api/de/versions/2824/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4304/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Swisslos-Fonds
 
-Vom 29.03.2011 (Stand 01.01.2021)
+Vom 29.03.2011 (Stand 01.08.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -39,7 +38,7 @@ beschliesst:
 
 <sup>1</sup> Die Swisslos-Fondsgelder werden für wohltätige, gemeinnützige und kulturelle Projekte verwendet; als solche gelten auch Projekte der in- und ausländischen Entwicklungszusammenarbeit sowie der Katastrophenhilfe und der humanitären Hilfe im In- und Ausland.
 
-<sup>2</sup> Die Swisslos-Fondsgelder werden für im Kanton Basel-Landschaft realisierte oder einer breiteren Bevölkerung des Kantons zugute kommende Projekte eingesetzt; vorbehalten bleibt Abs. 1 2. Satz.
+<sup>2</sup> Die Swisslos-Fondsgelder werden für Projekte eingesetzt, die im Kanton Basel-Landschaft realisiert werden oder einen Bezug zum Kanton aufweisen und dessen Bevölkerung zugutekommen. Vorbehalten bleibt Abs. 1.
 
 <sup>3</sup> Die Unterstützung politischer Parteien und politischer Aktivitäten sowie von Wahl- und Abstimmungskomitees ist ausgeschlossen.
 
@@ -59,9 +58,9 @@ beschliesst:
 
 **Ergänzende Bestimmungen für die Verwendung der Swisslos-Fondsgelder**
 
-<sup>1</sup> Die Swisslos-Fondsgelder können subsidiär oder in Absprache mit anderen Kantonen auch für Projekte mit regionaler oder nationaler Bedeutung eingesetzt werden; sie setzen zwingend die substanzielle Beteiligung des jeweiligen Standortkantons voraus.
+<sup>1</sup> Die Swisslos-Fondsgelder können subsidiär oder in Absprache mit anderen Kantonen auch für Projekte mit regionaler oder nationaler Bedeutung eingesetzt werden, sofern sich der Standortkanton substanziell an den Kosten beteiligt; in Ausnahmefällen ist die Ausrichtung möglich, selbst wenn sich der Standortkanton nicht an der Finanzierung beteiligt.
 
-<sup>2</sup> Beiträge an Institutionen, die von Bund oder Kanton bereits mitfinanziert werden und Leistungsvereinbarungen abgeschlossen haben, werden erwogen, wenn das zu unterstützende Projekt nicht Bestandteil einer gemäss Vereinbarung zu erbingenden Leistung ist.
+<sup>2</sup> Beiträge an Institutionen, die von Bund oder Kanton bereits mitfinanziert werden und Leistungsvereinbarungen abgeschlossen haben, werden erwogen, wenn das zu unterstützende Projekt nicht Bestandteil einer gemäss Vereinbarung zu erbringenden Leistung ist.
 
 <sup>3</sup> Swisslos-Fondsgelder können gemäss § 2 Abs. 7 in Ausnahmefällen an laufende und wiederkehrende Betriebskosten von gemeinnützigen Institutionen für jeweils 3 Jahre eingesetzt werden. Aufgrund der Stellungnahme der Fachdirektion zum Gesuch schliesst die Sicherheitsdirektion als Verwalterin des Swisslos-Fonds eine Leistungsvereinbarung ab.
 
@@ -79,23 +78,23 @@ beschliesst:
 
 <sup>1</sup> Die Beitragshöhe bemisst sich an den Projektkosten, dem Eigenfinanzierungsgrad und der Beteiligung Dritter (Sponsoren, Gemeinwesen etc.).
 
-<sup>2</sup> Bei Anschubfinanzierungen wird eine vollumfängliche Kostenübernahme geleistet, sofern die Folgefinanzierung gesichert erscheint.
+<sup>2</sup> Bei Anschubfinanzierungen kann eine vollumfängliche Kostenübernahme geleistet werden, sofern die Folgefinanzierung gesichert erscheint.
 
-<sup>3</sup> Für Festschriften, Chroniken, Jubiläumsaktivitäten und neue Vereinsfahnen wird ein Drittel der Projektkosten geleistet unter Berücksichtigung eines angemessenen Engagements der Gemeinde.
+<sup>3</sup> Für Festschriften, Chroniken, Jubiläumsaktivitäten und neue Vereinsfahnen kann in der Regel 1/3 der unterstützungsfähigen Projektkosten geleistet werden unter Berücksichtigung eines angemessenen Engagements der Gemeinde.
 
 #### § 6
 
 **Unterstützte Bereiche**
 
-<sup>1</sup> Die Swisslos-Fondsbeiträge werden folgenden Sparten zugeteilt:
+<sup>1</sup> Die Swisslos-Fondsbeiträge werden folgenden Bereichen zugeteilt:
 
-- a. Kultur (Tanz- und Theaterprojekte, Festivals und Sonderausstellungen mit überregionaler Bedeutung, Ausstellungen in Ortsmuseen, Uniformierung und Teilinstrumentierung von Musikkorps, Jodlertrachten, Publikationen mit Bezug zum Baselbiet oder von regionaler und/oder gesamtschweizerischer Bedeutung, einmalige Infrastrukturbeiträge an kulturelle Institutionen, Projekte der regionalen kulturellen Standortförderung usw.);
+- a. Kultur;
 - b. Denkmalpflege;
 - c. Sozialwesen;
 - d. Jugend und Erziehung;
 - e. Gesundheit;
 - f. Bildung und Forschung;
-- g. Umwelt und Entwicklungshilfe (Natur-, Umwelt- und Landschaftsprojekte, Projekte zur nachhaltigen Entwicklung des sanften Tourismus, in- und ausländische Entwicklungszusammenarbeit, humanitäre Soforthilfe und Katastrophenhilfe usw.);
+- g. Umwelt- und Entwicklungshilfe;
 - h. übrige gemeinnützige Projekte.
 
 #### § 7
@@ -143,13 +142,13 @@ beschliesst:
 
 <sup>2</sup> Vor der Antragstellung an den Regierungsrat holt die Verwaltung des Swisslos-Fonds bei den Fachdirektionen Stellungnahmen ein.
 
-<sup>3</sup> Bei Unklarheiten bezüglich der Rechtmässigkeit einer Unterstützung mit Swisslos-Mitteln muss der Rechtsdienst des Regierungsrats beigezogen werden.
+<sup>3</sup> Bei Unklarheiten bezüglich der Rechtmässigkeit einer Unterstützung mit Swisslos-Mitteln muss der Rechtsdienst von Regierungsrat und Landrat beigezogen werden.
 
 #### § 11
 
 **Beitragsgesuche**
 
-<sup>1</sup> Gesuche um Unterstützung sind schriftlich und begründet bei der Verwaltung Swisslos-Fonds der Sicherheitsdirektion einzureichen und müssen Angaben zum Projekt (Inhalt, Ort, Zeit, Verantwortlichkeit, Organisation) sowie Budget und Finanzierungsplan enthalten.
+<sup>1</sup> Gesuche um Unterstützung sind digital via Online-Formular einzureichen und müssen Angaben zum Projekt (Inhalt, Ort, Zeit, Verantwortlichkeit, Organisation) sowie ein Budget und einen Finanzierungsplan enthalten.
 
 <sup>2</sup> Bei Projekten der zeitgenössischen Kultur und von kulturellen Vereinen des Kantons ist gemäss den Förderkriterien der Bildungs-, Kultur- und Sportdirektion zu verfahren.
 
@@ -171,7 +170,12 @@ beschliesst:
 
 <sup>1</sup> Beitragsgesuche an den Swisslos-Fonds werden laufend bearbeitet.
 
-<sup>2</sup> Die Prüfungdauer beträgt in der Regel 3 Monate.
+<sup>2</sup> Die Prüfung von Beitragsgesuchen dauert in der Regel 3 Monate.
+
+<sup>2<sup>bis</sup></sup> Sie beträgt mehr als 3 Monate:
+
+- a. bei umfangreichen Projekten;
+- b. bei Projekten der ausländischen Entwicklungszusammenarbeit.
 
 <sup>3</sup> Beitragsgesuche müssen spätestens 3 Monate vor der Realisation eingereicht werden.
 
@@ -185,7 +189,7 @@ beschliesst:
 
 <sup>1</sup> Über die Zuwendungen und Zahlungsverpflichtungen erstattet der Regierungsrat dem Landrat im Rahmen der Jahresrechnung Bericht.
 
-<sup>2</sup> Eine Aufstellung der im Geschäftsjahr bewilligten Beiträge und Projekte wird im Internet und auf der Swisslos-Homepage regelmässig publiziert und bis Ende Juni des Folgejahres der Lotterie- und Wettkommission Comlot zur Kenntnisnahme unterbreitet.
+<sup>2</sup> Eine Aufstellung der im Geschäftsjahr bewilligten Beiträge und Projekte wird im Internet und auf der Swisslos-Homepage regelmässig publiziert und bis Ende Juni des Folgejahres der Interkantonalen Geldspielaufsicht Gespa zur Kenntnisnahme unterbreitet.
 
 <sup>3</sup> Die Geschäftsführung der Swisslos-Fondsverwaltung wird von der Finanzkontrolle geprüft.
 
