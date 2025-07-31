@@ -4,13 +4,12 @@ number: "412.11"
 title: Schulgesetz
 short: SchulG
 language: de
-version: 2024-08-01
-valid_until: 2025-07-31
-version_adopted: 2024-01-25
+version: 2025-08-01
+version_adopted: 2025-01-30
 adopted: 1990-09-27
 in_force: 1991-08-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/412.11"
-pdf: "https://bgs.zg.ch/api/de/versions/2555/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2700/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2555/pdf_file"
 
 (SchulG)
 
-Vom 27. September 1990 (Stand 1. August 2024)
+Vom 27. September 1990 (Stand 1. August 2025)
 
 Der Kantonsrat des Kantons Zug,
 
@@ -660,11 +659,26 @@ beschliesst:
 - b) Schulärztlicher Dienst;
 - c) Schulzahnärztlicher Dienst;
 - d) Logopädietherapie;
-- e) psychomotorische Therapie.
+- e) psychomotorische Therapie;
+- f) schulergänzende Betreuung.
 
 <sup>2</sup> Die Personalaufwendungen für die Logopädietherapie und die psychomotorische Therapie werden vom Kanton mit der Normpauschale abgegolten.
 
-<sup>3</sup> Für die Berechnung des Gemeindebeitrags an die Kosten der zahnärztlichen Behandlung können die dazu notwendigen Steuerdaten zum Reineinkommen und -vermögen oder zum steuerbaren Einkommen und Vermögen der Eltern verwendet werden. Nach erfolgter Einwilligung der Eltern können die Gemeinden für diesen Zweck mittels elektronischen Zugriffs im Abrufverfahren auf die Steuerdaten der kantonalen Steuerverwaltung zugreifen.
+<sup>3</sup> Für die Berechnung des Gemeindebeitrags an die Kosten der zahnärztlichen Behandlung können die dazu notwendigen Steuerdaten zum Reineinkommen und -vermögen oder zum steuerbaren Einkommen und Vermögen der Erziehungsberechtigten verwendet werden. Nach erfolgter Einwilligung der Erziehungsberechtigten können die Gemeinden für diesen Zweck mittels elektronischen Zugriffs im Abrufverfahren die Steuerdaten der kantonalen Steuerverwaltung beziehen.
+
+<sup>4</sup> Die Gemeinden stellen ein bedarfsgerechtes Angebot an schulergänzender Betreuung ab dem Eintritt in den freiwilligen Kindergarten sicher. Der Besuch der schulergänzenden Betreuung ist freiwillig.
+
+<sup>5</sup> Der Schulunterricht und die schulergänzende Betreuung decken während der Schultage die Zeit von 7.00 Uhr bis 18.00 Uhr ab. Die Angebotspflicht der schulergänzenden Betreuung beschränkt sich auf der Oberstufe auf einen Aufenthaltsraum für die Mittagspause.
+
+<sup>6</sup> Die Gemeinden stellen ein bedarfsgerechtes Angebot an Ferienbetreuung während acht Wochen von 7.00 Uhr bis 18.00 Uhr für Kinder ab dem freiwilligen Kindergarten bis Ende Primarschule sicher. Die Gemeinden können das Angebot gemeindeübergreifend sicherstellen.
+
+<sup>7</sup> Der Kanton beteiligt sich mittels Pauschale an der Finanzierung der schulergänzenden Betreuungsangebote. Der Regierungsrat passt die Pauschale analog zur Teuerungszulage für das Staatspersonal an.
+
+<sup>8</sup> Der Regierungsrat kann die Pauschale anpassen, wenn der Kanton für alle Gemeinden Strukturänderungen verordnet.
+
+<sup>9</sup> Die Direktion für Bildung und Kultur übt die Aufsicht über die schulergänzende Betreuung bezüglich der Gewährleistung des garantierten Angebots und das Controlling aus.
+
+<sup>10</sup> Die Gemeinden leisten Beiträge an die Betreuungskosten. Beantragen die Erziehungsberechtigten einen reduzierten Elternbeitrag, sind die Gemeinden berechtigt, die für die Berechnung der Betreuungsbeiträge notwendigen Steuerdaten mittels elektronischen Zugriffs im Abrufverfahren bei der kantonalen Steuerverwaltung zu erheben. Der Regierungsrat bestimmt die Daten, die von den Gemeinden im Abrufverfahren bezogen werden dürfen.
 
 #### § 44
 
@@ -1231,6 +1245,12 @@ beschliesst:
 <sup>2</sup> ...[^89bis-1]
 
 [^89bis-1]: Hinfällige Übergangsbestimmung
+
+#### § 89ter
+
+**Übergangsbestimmung zur schulergänzenden Betreuung**
+
+<sup>1</sup> Die Gemeinden setzen die Bestimmungen in § 43 Abs. 1 Bst. f, Abs. 4 bis 6 und 10, welche die schulergänzende Betreuung betreffen, bis spätestens zum Beginn des Schuljahrs 2030/31 um.
 
 #### § 90
 
