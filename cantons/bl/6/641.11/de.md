@@ -3,20 +3,19 @@ canton: BL
 number: "641.11"
 title: Verordnung für den Kindergarten und die Primarschule
 language: de
-version: 2024-08-01
-valid_until: 2025-07-31
-version_adopted: 2024-02-06
+version: 2025-08-01
+version_adopted: 2025-06-17
 adopted: 2003-05-13
 in_force: 2003-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/641.11"
-pdf: "https://bl.clex.ch/api/de/versions/3893/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4290/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung für den Kindergarten und die Primarschule
 
-Vom 13.05.2003 (Stand 01.08.2024)
+Vom 13.05.2003 (Stand 01.08.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -775,6 +774,14 @@ beschliesst:
 **Elternabende**
 
 <sup>1</sup> Die Erziehungsberechtigten eines Drittels der Schülerinnen und Schüler einer Klasse können von der Klassenlehrerin oder dem Klassenlehrer die Durchführung eines Elternabends verlangen.
+
+<sup>2</sup> Sie nehmen an Elternveranstaltungen und Gesprächen teil, die von einer Lehr- oder Fachperson oder von der Schulleitung angeordnet werden. Verpflichtende Veranstaltungen und ordentliche Gespräche werden frühzeitig angekündigt.
+
+#### § 58a
+
+**Vereinbarungen**
+
+<sup>1</sup> Die Schulleitung kann mit den Erziehungsberechtigten und den Schülerinnen und Schülern Vereinbarungen zur Erreichung gemeinsamer Bildungs- und Erziehungsziele schliessen.
 
 #### § 59
 
