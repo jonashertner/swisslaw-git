@@ -3,20 +3,19 @@ canton: BL
 number: "640.45"
 title: Verordnung über die Beiträge an die Kosten des Privatschulbesuchs
 language: de
-version: 2017-08-01
-valid_until: 2025-07-31
-version_adopted: 2017-10-24
+version: 2025-08-01
+version_adopted: 2024-11-19
 adopted: 2017-10-24
 in_force: 2017-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/640.45"
-pdf: "https://bl.clex.ch/api/de/versions/3987/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4006/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Beiträge an die Kosten des Privatschulbesuchs
 
-Vom 24.10.2017 (Stand 01.08.2017)
+Vom 24.10.2017 (Stand 01.08.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -44,14 +43,14 @@ beschliesst:
 
 <sup>1</sup> Gesuche um Zusprechung von Beiträgen an die Kosten des Privatschulbesuchs sind mittels Formular zu stellen.
 
-<sup>2</sup> Das Formular kann beim Generalsekretariat der Bildungs-, Kultur- und Sportdirektion (BKSD) bezogen werden.
+<sup>2</sup> …
 
 <sup>3</sup> Dem Gesuch sind beizulegen:
 
 - a. eine Eintrittsbestätigung der vom Kind besuchten bzw. zu besuchenden Privatschule;
 - b. eine Erklärung über die in Betracht fallenden Einkommens- und Vermögensverhältnisse.
 
-<sup>4</sup> Die ausgefüllten Gesuche inklusive einer Kopie der neuesten Steuerveranlagung sind dem Generalsekretariat der BKSD einzureichen.
+<sup>4</sup> Die ausgefüllten Gesuche inklusive einer Kopie der neuesten Steuerveranlagung sind dem Amt für Volksschulen der BKSD einzureichen.
 
 <sup>5</sup> Die Gesuche für das neue Schuljahr sind bis zum 31. Juli einzureichen. Zu spät eingereichte Gesuche können nicht berücksichtigt werden.
 
@@ -67,11 +66,11 @@ beschliesst:
 
 **Anrechenbares Einkommen**
 
-<sup>1</sup> Massgeblich sind die Einkommens- und Vermögensverhältnisse gemäss letzter definitiver Steuerveranlagung des Kantons Basel-Landschaft.
+<sup>1</sup> Massgeblich sind die Einkommens- und Vermögensverhältnisse gemäss letzter definitiver Steuerveranlagung des Wohnsitzortes.
 
 <sup>2</sup> Das anrechenbare Einkommen setzt sich zusammen aus:
 
-- a. dem Zwischentotal der Einkünfte der Anspruchsberechtigten gemäss § 2 (Position 399 der Steuerveranlagung des Kantons Basel-Landschaft) abzüglich der Abzüge sowie zuzüglich der Zuschläge gemäss Anhang I dieser Verordnung;
+- a. dem Zwischentotal der Einkünfte der Anspruchsberechtigten gemäss § 2 abzüglich der Abzüge sowie zuzüglich der Zuschläge gemäss Anhang 1 dieser Verordnung;
 - b. einem allfälligen Einkommen der Schülerin oder des Schülers aus Waisen- und Invalidenversicherungen, sofern in Bst. a nicht bereits eingeschlossen;
 - c. sowie 20 % des steuerbaren Vermögens der Anspruchsberechtigten gemäss § 2.
 
@@ -91,15 +90,15 @@ beschliesst:
 
 <sup>4</sup> Für jedes in Ausbildung stehende Kind der Familie wird der Grundbetrag um zusätzlich CHF 5'500 vermindert.
 
-<sup>5</sup> Sind beide Elternteile erwerbstätig, so vermindert sich der Grundbetrag um das Einkommen des weniger verdienenden Teils, aber höchstens um CHF 12‘000.
+<sup>5</sup> Sind beide, im selben Haushalt lebenden Elternteile erwerbstätig, so vermindert sich der Grundbetrag um das Einkommen des weniger verdienenden Teils, aber höchstens um CHF 12‘000.
 
-<sup>6</sup> Bei geschiedenen, gerichtlich getrennten oder ledigen Eltern mit gemeinsamem Sorgerecht bilden die anrechenbaren Einkommen beider Elternteile den Grundbetrag, wobei Mehrkosten von CHF 50‘000 in die Berechnung einbezogen werden.
+<sup>6</sup> Bei Eltern mit gemeinsamem Sorgerecht, die nicht im selben Haushalt leben, bilden die anrechenbaren Einkommen beider Elternteile den Grundbetrag, wobei Mehrkosten von CHF 50'000 in die Berechnung einbezogen werden.
 
-<sup>7</sup> Bei geschiedenen, gerichtlich getrennten oder ledigen Eltern ohne gemeinsames Sorgerecht kommt der Grundbetrag des Elternteils in Betracht, der die elterliche Sorge innehat, vermehrt um die für das Kind vereinbarten Kindesalimente.
+<sup>7</sup> Bei Eltern ohne gemeinsames Sorgerecht wird der Grundbetrag des Elternteils berücksichtigt, der die elterliche Sorge innehat, vermehrt um die für das Kind vereinbarten Unterhaltsbeiträge.
 
 <sup>8</sup> Zur Berechnung des Grundbetrags für Stiefkinder wird das steuerbare Einkommen des Stiefelternteils, höchstens aber CHF 50‘000 freigestellt. Abs. 5 kommt nicht zur Anwendung.
 
-<sup>9</sup> Haben weder die Eltern noch ein Elternteil das Sorgerecht inne, gelten die Bestimmungen gemäss Abs. 3–5 sinngemäss für die gemeinsam Unterhaltspflichtigen oder die oder den einzeln Unterhaltspflichtigen.
+<sup>9</sup> Haben weder die Eltern noch ein Elternteil das Sorgerecht inne, gelten die Bestimmungen gemäss Abs. 3–5 sinngemäss für die gemeinsam oder einzeln Unterhaltspflichtigen.
 
 #### § 7
 
@@ -120,6 +119,8 @@ beschliesst:
 <sup>1</sup> Für Schülerinnen und Schüler, die bereits im 2. Semester des Schuljahres 2016/2017 Beiträge erhielten und somit gestützt auf § 112r Bildungsgesetz für die Schuljahre 2017/2018 und 2018/2019 einen Anspruch auf Beträge an den Besuch der Privatschule haben, gilt die Verordnung vom 15. Juli 2003[^8-1] über die Ausrichtung von Staatsbeiträgen an die Kosten des Privatschulbesuchs weiterhin.
 
 <sup>2</sup> Eltern mit im Schuljahr 2017/2018 neu in eine Privatschule eingetretenen Kindern können ihr Gesuch bis zum 31. Dezember 2017 einreichen.
+
+<sup>3</sup> Zum Zeitpunkt der Änderung vom 19. November 2024 laufende Bewilligungen behalten ihre Gültigkeit gemäss den Bestimmungen dieser Verordnung in der Fassung vom 1. August 2017.
 
 [^8-1]: GS 34.1114
 
