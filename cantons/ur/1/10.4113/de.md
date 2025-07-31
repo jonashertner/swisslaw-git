@@ -4,13 +4,12 @@ number: "10.4113"
 title: Reglement über die Förderung des Sports
 short: Sportreglement
 language: de
-version: 2023-08-01
-valid_until: 2025-07-31
-version_adopted: 2023-08-16
+version: 2025-08-01
+version_adopted: 2025-08-19
 adopted: 2012-02-07
 in_force: 2012-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.4113"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/1092/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/1094/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://rechtsbuch.ur.ch/api/de/versions/1092/pdf_file"
 
 (Sportreglement)
 
-Vom 07.02.2012 (Stand 01.08.2023)
+Vom 07.02.2012 (Stand 01.08.2025)
 
 Der Regierungsrat des Kantons Uri,
 
@@ -215,6 +214,8 @@ beschliesst:
 <sup>2</sup> Entstehen Sportvereinen überdurchschnittlich hohe Kosten durch die Miete von Sportanlagen, können ihnen Beiträge von bis zu 50 Prozent der ausgewiesenen Mietkosten ausgerichtet werden. Keine Beiträge werden ausgerichtet an die Miete von Sportanlagen, die sich im Besitz der öffentlichen Hand befinden oder die mit wesentlichen Beiträgen der öffentlichen Hand finanziert werden.
 
 <sup>3</sup> Private Organisationen, die Sportanlagen unterhalten, die in erster Linie dem ungebundenen Freizeitsport dienen, wie etwa VITA-Parcours und Langlaufloipen, erhalten Pauschalbeiträge. Die Bildungs- und Kulturdirektion schliesst mit den entsprechenden privaten Organisationen Leistungsvereinbarungen ab. Die Leistungsvereinbarungen regeln die Art der Leistung und deren Abgeltung.
+
+<sup>4</sup> Im Ausnahmefall kann der Regierungsrat Beiträge an den Betrieb und Unterhalt von Sportanlagen sprechen, die sich im Besitz von öffentlich-rechtlichen Trägerschaften befinden, sofern diese von überregionalem Interesse sind und vornehmlich dem Vereins- und Freizeitsport dienen. Beiträge an öffentlich-rechtliche Trägerschaften werden im Rahmen einer Leistungsvereinbarung geleistet.
 
 #### Artikel 15
 
