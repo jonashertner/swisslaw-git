@@ -4,7 +4,7 @@ number: "413.05.1"
 title: "RÈGLEMENT du 06.07.2022 de l'École de culture générale (RECG)"
 short: RECG
 language: fr
-version: 2023-08-01
+version: 2025-08-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/413.05.1?id=e79faf12-a2f0-4ff0-ac3d-93b768e4d711"
 ---
 
@@ -289,7 +289,11 @@ arrête
 
 <sup>1</sup> Les titulaires d'un certificat d'École de culture générale sont autorisés à poursuivre la formation menant au certificat de maturité spécialisée.
 
-<sup>2</sup> Les titulaires d'un certificat d'École de culture générale d'un domaine professionnel qui ne correspond pas au certificat de maturité spécialisée visé sont toutefois astreints à acquérir toute compétence faisant défaut parmi celles qui sont exigées pour le nouveau domaine professionnel. L'acquisition de ces compétences doit être certifiée avant l'admission en maturité spécialisée.
+<sup>2</sup> Les titulaires d'un certificat d'École de culture générale d'un domaine professionnel qui ne correspond pas au certificat de maturité spécialisée visé sont toutefois astreints à acquérir toute compétence faisant défaut parmi celles qui sont exigées pour le nouveau domaine professionnel.
+
+<sup>2bis</sup> L'acquisition des compétences s'effectue dans le cadre d'une année additionnelle de formation, dispensée au sein du Gymnase pour Adultes, par l'intégration à la troisième année d'École de culture générale dans le nouveau domaine professionnel choisi.
+
+<sup>2ter</sup> L'acquisition de ces compétences doit être certifiée avant l'admission en maturité spécialisée.
 
 <sup>3</sup> Le Département en fixe les modalités d'organisation et de certification.
 
@@ -297,7 +301,7 @@ arrête
 
 <sup>5</sup> Le Département peut fixer des conditions supplémentaires d'admission en concertation avec les écoles subséquentes.
 
-[^21-1]: Modif. 2 du 05.11.2025: Modification Al. 2; entrée en vigueur au 01.08.2025; Introduction Al. 2bis,2ter; entrée en vigueur au 01.08.2025; Introduction Art. 25a; entrée en vigueur au 01.08.2025; Introduction Art. 25b; entrée en vigueur au 01.08.2025
+[^21-1]: Modif. 2 du 05.11.2025: Modification Al. 2; entrée en vigueur au 01.08.2025; Introduction Al. 2bis,2ter; entrée en vigueur au 01.08.2025
 
 #### Art. 23
 
@@ -333,9 +337,29 @@ arrête
 - a. remplir les conditions, relatives aux prestations complémentaires dans le domaine professionnel choisi ;
 - b. obtenir au moins la note de 4 à l'évaluation du travail de maturité spécialisée.
 
-<sup>2</sup> La Conférence des maîtres apprécie les cas limites et les circonstances particulières. Le directeur modifie la ou les notes en conséquence dans le cadre fixé par le Département.
+<sup>2</sup> La Conférence des maîtres du gymnase apprécie les cas limites et les circonstances particulières uniquement lorsque la note attribuée au travail de maturité spécialisée est inférieure à 4. Dans ce cas, seule la note obtenue au travail de maturité spécialisée peut être modifiée par le directeur dans le cadre fixé par le Département.
 
-[^24-1]: Modif. 2 du 05.11.2025: Introduction Art. 22, Al. 2bis,2ter; entrée en vigueur au 01.08.2025; Modification Al. 2; entrée en vigueur au 01.08.2025; Introduction Art. 25a; entrée en vigueur au 01.08.2025; Introduction Art. 25b; entrée en vigueur au 01.08.2025
+[^24-1]: Modif. 2 du 05.11.2025: Modification Al. 2; entrée en vigueur au 01.08.2025
+
+#### Art. 25a
+
+**Rattrapage [^25-1]**
+
+<sup>1</sup> Le Département fixe les possibilités et les modalités de rattrapage lorsque les conditions relatives aux prestations complémentaires dans le domaine professionnel choisi ne sont pas remplies.
+
+[^25-1]: Modif. 2 du 05.11.2025: Introduction tArt; entrée en vigueur au 01.08.2025; Introduction Al. 1; entrée en vigueur au 01.08.2025; Introduction Art. 25a; entrée en vigueur au 01.08.2025
+
+#### Art. 25b
+
+**Redoublement [^25a-1]**
+
+<sup>1</sup> En cas d'échec à la formation menant au certificat de maturité spécialisée, l'élève est autorisé à redoubler une seule fois.
+
+<sup>2</sup> Le Département fixe les modalités du redoublement lorsque l'échec est dû aux prestations complémentaires.
+
+<sup>3</sup> Lorsque l'échec est dû à la note du travail de maturité spécialisée, l'élève en élabore un nouveau.
+
+[^25a-1]: Modif. 2 du 05.11.2025: Introduction tArt; entrée en vigueur au 01.08.2025; Introduction Al. 1-3; entrée en vigueur au 01.08.2025; Introduction Art. 25b; entrée en vigueur au 01.08.2025
 
 ## Chapitre IV Dispositions transitoires et finales
 
