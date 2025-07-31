@@ -1,38 +1,36 @@
 ---
 canton: UR
 number: "10.1462"
-title: VERORDNUNG über den freiwilligen Musikunterricht an der Volksschule
+title: Verordnung über den freiwilligen Musikunterricht an der Volksschule
 short: VMV
 language: de
-version: 2008-01-01
-valid_until: 2025-07-31
-version_adopted: 2007-09-24
+version: 2025-08-01
+version_adopted: 2025-02-05
 adopted: 2005-09-28
 in_force: 2006-08-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.1462"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/320/pdf_file"
-text: pdf
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/778/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# VERORDNUNG über den freiwilligen Musikunterricht an der Volksschule
+# Verordnung über den freiwilligen Musikunterricht an der Volksschule
 
-VERORDNUNG über den freiwilligen Musikunterricht an der Volksschule (VMV)
+(VMV)
 
-(vom 28. September 2005[^t-1]; Stand am 1. Januar 2008)
+Vom 28.09.2005 (Stand 01.08.2025)
 
-Der Landrat des Kantons Uri, gestützt auf Artikel 46 des Gesetzes vom 2. März 1997 über Schule und Bildung (Schulgesetz)<sup>2</sup> und auf Artikel 90 Absatz 2 der Kantonsverfassung<sup>3</sup>,
+Der Landrat des Kantons Uri,
+
+gestützt auf Artikel 46 des Gesetzes vom 2. März 1997 über Schule und Bildung (Schulgesetz, RB [10.1111](https://rechtsbuch.ur.ch/data/10.1111/de)) und auf Artikel 90 Absatz 2 der Kantonsverfassung (RB [1.1101](https://rechtsbuch.ur.ch/data/1.1101/de)),
 
 beschliesst:
-
-[^t-1]: AB vom 7. Oktober 2005
 
 #### Artikel 1
 
 **Zweck**
 
-Diese Verordnung bezweckt, einen genügenden, qualitativ guten, freiwilligen Musikunterricht für Schülerinnen und Schüler der Volksschule sicherzustellen.
+<sup>1</sup> Diese Verordnung bezweckt, einen genügenden, qualitativ guten, freiwilligen Musikunterricht für Schülerinnen und Schüler der Volksschule sicherzustellen.
 
 #### Artikel 2
 
@@ -44,63 +42,57 @@ Diese Verordnung bezweckt, einen genügenden, qualitativ guten, freiwilligen Mus
 
 <sup>3</sup> Die Leistungsvereinbarung stellt insgesamt sicher, dass:
 
-- a) der freiwillige Musikunterricht für Schülerinnen und Schüler der Volksschule ein breit gefächertes Instrumentenangebot aufweist, von guter Qualität ist, den Bedarf im Kanton Uri deckt, allen Schülerinnen und Schülern der Volksschule offen steht und, soweit das sinnvoll und wirtschaftlich tragbar ist, dezentral angeboten wird;
-
-- b) die anbietenden Organisationen eine zweckmässige und kostengünstige Organisation und Administration aufweisen;
-
-- c) die Aufsicht (Controlling) des Kantons gewährleistet ist.
+- a) der freiwillige Musikunterricht für Schülerinnen und Schüler der Volksschule ein breit gefächertes Instrumentenangebot aufweist, von guter Qualität ist, den Bedarf im Kanton Uri deckt, allen Schülerinnen und Schülern der Volksschule offen steht und, soweit das sinnvoll und wirtschaftlich tragbar ist, dezentral angeboten wird
+- b) die anbietenden Organisationen eine zweckmässige und kostengünstige Organisation und Administration aufweisen
+- c) die Aufsicht (Controlling) des Kantons gewährleistet ist
 
 <sup>4</sup> Die Aufforderung, sich um eine Leistungsvereinbarung zu bewerben, ist öffentlich auszuschreiben.
 
-5 Teilangebote sind zulässig. Der Regierungsrat kann, im Einverständnis mit den anbietenden Organisationen, ein Angebot auch bloss teilweise annehmen.
+<sup>5</sup> Teilangebote sind zulässig. Der Regierungsrat kann, im Einverständnis mit den anbietenden Organisationen, ein Angebot auch bloss teilweise annehmen.
 
 <sup>6</sup> Die Leistungsvereinbarung ist zeitlich zu befristen. Sie dauert längstens zehn Jahre.
 
 #### Artikel 3
 
-**Abgeltung**
+**Abgeltung: Grundsatz**
 
-- a) Grundsatz
-
-<sup>1</sup> Im Rahmen der Programmvereinbarung gilt der Kanton die Lohnkosten teilweise ab, welche die anbietenden Organisationen den Musikschullehrpersonen bezahlen.[^3-1]
+<sup>1</sup> Im Rahmen der Programmvereinbarung gilt der Kanton die Lohnkosten teilweise ab, welche die anbietenden Organisationen den Musikschullehrpersonen bezahlen.
 
 <sup>2</sup> Die Abgeltung wird nur für den Unterricht während der Dauer der Schulpflicht geleistet.
 
-[^3-1]: Fassung gemäss LRB vom 24. September 2007, in Kraft gesetzt auf den 1. Januar 2008 (AB vom 5. Oktober 2007).
+#### Artikel 4
 
-#### Artikel 4 b
+**Abgeltung: Berechnung**
 
-**) Berechnung**
+<sup>1</sup> Die vom Kanton zu leistende Abgeltung beträgt 65 Prozent der anrechenbaren Löhne, die die anbietenden Organisationen den Musikschullehrerpersonen bezahlen.
 
-<sup>1</sup> Die vom Kanton zu leistende Abgeltung beträgt 60 Prozent der anrechenbaren Löhne, welche die anbietenden Organisationen den Musikschullehrpersonen bezahlen.[^4b-1]
+<sup>2</sup> Der Regierungsrat legt die Höhe der abgeltungsberechtigten Löhne der Musikschullehrpersonen fest. Gestützt darauf bestimmt die zuständige Direktion[^Artikel4-1] den beitragsberechtigten Lohn im Einzelfall.
 
-<sup>2</sup> Der Regierungsrat legt die Höhe der abgeltungsberechtigten Löhne der Musikschullehrpersonen fest. Gestützt darauf bestimmt die zuständige Direktion[^4b-2] den beitragsberechtigten Lohn im Einzelfall.
+<sup>3</sup> Der Regierungsrat kann die abgeltungsberechtigten Unterrichtsstunden pro Schülerin oder Schüler beschränken.
 
-3 Der Regierungsrat kann die abgeltungsberechtigten Unterrichtsstunden pro Schülerin oder Schüler beschränken.
-
-[^4b-1]: Fassung gemäss LRB vom 24. September 2007, in Kraft gesetzt auf den 1. Januar 2008 (AB vom 5. Oktober 2007).
-[^4b-2]: Bildungs- und Kulturdirektion; siehe Organisationsreglement (RB 2.3322).
-[^4b-3]: Aufgehoben durch LRB vom 24. September 2007, in Kraft gesetzt auf den 1. Januar 2008 (AB vom 5. Oktober 2007).
+[^Artikel4-1]: Bildungs- und Kulturdirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
 
 #### Artikel 5
 
-[^4b-3]
+**…**
 
-#### Artikel 6 d
+#### Artikel 6
 
-**) besondere Regelungen**
+**Abgeltung: besondere Regelungen**
 
-Der Regierungsrat kann abweichende Regelungen treffen für Schülerinnen und Schüler, die gestützt auf einen entsprechenden Vertrag der Gemeinde oder des Kantons den Musikunterricht in einem anderen Kanton besuchen.
+<sup>1</sup> Der Regierungsrat kann abweichende Regelungen treffen für Schülerinnen und Schüler, die gestützt auf einen entsprechenden Vertrag der Gemeinde oder des Kantons den Musikunterricht in einem anderen Kanton besuchen.
 
 #### Artikel 7
 
-Weitere finanzielle Abgeltungen Der Kanton kann weitere Beiträge leisten, namentlich an Kurse, die von kantonalen Verbänden durchgeführt werden. Im Rahmen der Leistungsvereinbarung kann er zudem Beiträge leisten an:
+**Weitere finanzielle Abgeltungen**
 
-- a) die Kosten der Administration und Leitung;
+<sup>1</sup> Der Kanton kann weitere Beiträge leisten, namentlich an Kurse, die von kantonalen Verbänden durchgeführt werden. Im Rahmen der Leistungsvereinbarung kann er zudem Beiträge leisten an:
 
-- b) die Weiterbildung der Musiklehrpersonen;
-
-- c) den Unterricht von Schülerinnen und Schülern von Berufsfachschulen und anderen allgemein bildenden Schulen der Sekundarstufe II.
+- a) die Kosten der Administration und Leitung
+- b) die Weiterbildung der Musiklehrpersonen
+- c) den Unterricht von Lernenden der Sekundarstufe II
+- d) den Unterricht von jungen Erwachsenen in Ausbildung bis 25 Jahre
+- e) den Unterricht von musikalisch besonders begabten Jugendlichen und jungen Erwachsenen
 
 #### Artikel 8
 
@@ -112,14 +104,14 @@ Weitere finanzielle Abgeltungen Der Kanton kann weitere Beiträge leisten, namen
 
 #### Artikel 9
 
-Aufhebung bisherigen Rechts Die Verordnung vom 27. Februar 1980 über Beiträge an den freiwilligen Musikunterricht während der Volksschulzeit<sup>8</sup> wird aufgehoben.
+**Aufhebung bisherigen Rechts**
+
+<sup>1</sup> Die Verordnung vom 27. Februar 1980 über Beiträge an den freiwilligen Musikunterricht während der Volksschulzeit wird aufgehoben.
 
 #### Artikel 10
 
 **Inkrafttreten**
 
-Diese Verordnung untersteht dem fakultativen Referendum. Sie tritt am 1. August 2006 in Kraft.
+<sup>1</sup> Diese Verordnung untersteht dem fakultativen Referendum. Sie tritt am 1. August 2006 in Kraft.
 
-Im Namen des Landrats
-
-Der Präsident: Louis Ziegler Der Kanzleidirektor: Dr. Peter Huber
+AB 07.10.2005
