@@ -4,13 +4,13 @@ number: "430.251.0"
 title: Verordnung über die Anstellung der Lehrkräfte
 short: LAV
 language: de
-version: 2024-08-01
-valid_until: 2025-07-31
-version_adopted: 2023-11-22
+version: 2025-08-01
+valid_until: 2025-12-31
+version_adopted: 2024-12-11
 adopted: 2007-03-28
 in_force: 2007-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/430.251.0"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2978/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3106/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2978/pdf_file"
 
 (LAV)
 
-vom 28.03.2007 (Stand 01.08.2024)
+vom 28.03.2007 (Stand 01.08.2025)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -94,7 +94,7 @@ beschliesst:
 
 <sup>4</sup> Das Mittelschul- und Berufsbildungsamt stellt an kantonalen Schulen der Sekundarstufe II und an den höheren Fachschulen die gesamtverantwortlichen Schulleitungsmitglieder an.
 
-<sup>5</sup> Die gesamtverantwortlichen Schulleitungsmitglieder von kantonalen Schulen der Sekundarstufe II und der höheren Fachschulen stellen die weiteren Schulleitungsmitglieder und die Lehrkräfte an.
+<sup>5</sup> Die gesamtverantwortlichen Schulleitungsmitglieder von kantonalen Schulen der Sekundarstufe II und der höheren Fachschulen stellen die weiteren Schulleitungsmitglieder und die Lehrkräfte an. Das Mittelschul- und Berufsbildungsamt legt das Anstellungsverfahren fest.
 
 <sup>6</sup> An subventionierten Schulen, die nach dem Gesetz vom 14. Juni 2005 über die Berufsbildung, die Weiterbildung und die Berufsberatung (BerG)[^5-1]
 
@@ -1123,7 +1123,10 @@ geführt werden,
 
 <sup>2</sup> Bei komplexen Strukturen in den Schulen der Sekundarstufe II und in den höheren Fachschulen kann das Mittelschul- und Berufsbildungsamt die Schulleitungsfunktionen eine Gehaltsklasse höher einstufen.
 
-<sup>3</sup> Für Lehrkräfte, die für die Erfüllung von Spezialaufgaben entschädigt werden, gelten die gleiche Gehaltsklasse und die gleichen Vor- und Gehaltsstufen, die für sie als Lehrkraft gelten. Sind Lehrkräfte für ihre Lehrtätigkeit in verschiedene Gehaltsklassen eingestuft, gilt die höhere Gehaltsklasse.
+<sup>3</sup> Für Lehrkräfte, die für die Erfüllung von Spezialaufgaben entschädigt werden, gelten die gleiche Gehaltsklasse und die gleichen Vor- und Gehaltsstufen, die für sie als Lehrkraft gelten. Sind Lehrkräfte für ihre Lehrtätigkeit in verschiedene Gehaltsklassen eingestuft, gilt
+
+- a für die Erfüllung der Tätigkeit als Klassenlehrkraft die Gehaltsklasse derjenigen Schulstufe, auf der die Tätigkeit als Klassenlehrkraft ausgeübt wird,
+- b für die Erfüllung der übrigen Spezialaufgaben die höhere Gehaltsklasse.
 
 <sup>4</sup> Für Personen, die nicht über eine Lehrbefähigung der betreffenden Stufe verfügen und in einer Schule der Sekundarstufe II oder einer höheren Fachschule eine Funktion in der Schulleitung ausüben oder Spezialaufgaben erfüllen, gilt Absatz 3 sinngemäss. Die Abteilung Personaldienstleistungen des Amtes für zentrale Dienste der Bildungs- und Kulturdirektion entscheidet über die Einstufung.
 

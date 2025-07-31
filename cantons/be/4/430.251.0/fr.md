@@ -4,13 +4,13 @@ number: "430.251.0"
 title: Ordonnance sur le statut du corps enseignant
 short: OSE
 language: fr
-version: 2024-08-01
-valid_until: 2025-07-31
-version_adopted: 2023-11-22
+version: 2025-08-01
+valid_until: 2025-12-31
+version_adopted: 2024-12-11
 adopted: 2007-03-28
 in_force: 2007-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/430.251.0"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2978/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3106/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2978/pdf_file"
 
 (OSE)
 
-du 28.03.2007 (état au 01.08.2024)
+du 28.03.2007 (état au 01.08.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -94,7 +94,7 @@ arrête:
 
 <sup>4</sup> L’Office des écoles moyennes et de la formation professionnelle engage les membres de la direction d’école qui assument la responsabilité générale des écoles cantonales du degré secondaire II et des écoles supérieures.
 
-<sup>5</sup> Les membres des directions d’école qui assument la responsabilité générale des écoles cantonales du degré secondaire II et des écoles supérieures engagent les autres membres des directions d’école et le corps enseignant.
+<sup>5</sup> Les membres des directions d’école qui assument la responsabilité générale des écoles cantonales du degré secondaire II et des écoles supérieures engagent les autres membres des directions d’école et le corps enseignant. L’Office des écoles moyennes et de la formation professionnelle définit la procédure d’engagement.
 
 <sup>6</sup> Dans les écoles subventionnées par le canton gérées en vertu de la loi du 14 juin 2005 sur la formation professionnelle, la formation continue et l’orientation professionnelle (LFOP)[^5-2],
 
@@ -1122,7 +1122,10 @@ arrête:
 
 <sup>2</sup> En cas de structures complexes dans les écoles du degré secondaire II et dans les écoles supérieures, l’Office des écoles moyennes et de la formation professionnelle peut relever d’une classe le traitement alloué à la direction d’école.
 
-<sup>3</sup> Les membres du corps enseignant qui sont rétribués pour l’accomplissement de tâches spéciales se voient appliquer la classe de traitement ainsi que les échelons préliminaires et les échelons dont ils bénéficient en tant qu’enseignant ou enseignante. Lorsque des classes de traitement différentes sont attribuées pour leur activité d’enseignement, c’est la classe de traitement la plus élevée qui est applicable.
+<sup>3</sup> Les membres du corps enseignant qui sont rétribués pour l’accomplissement de tâches spéciales se voient appliquer la classe de traitement ainsi que les échelons préliminaires et les échelons dont ils bénéficient en tant qu’enseignante ou enseignant. Lorsque des classes de traitement différentes sont attribuées pour leur activité d’enseignement, est applicable,
+
+- a pour l'accomplissement de l'activité de maîtresse ou maître de classe, la classe de traitement du degré scolaire auquel est exercée l'activité de maîtresse ou maître de classe,
+- b pour l'accomplissement des autres tâches spéciales, la classe de traitement la plus élevée.
 
 <sup>4</sup> L’alinéa 3 de la présente ordonnance s’applique par analogie aux enseignants et enseignantes des établissements du degré secondaire II ou des écoles supérieures qui ne disposent pas d’un diplôme d’enseignement pour le degré d’enseignement concerné et exercent une fonction au sein de la direction ou accomplissent des tâches spéciales. La Section du personnel de l’Office des services centralisés de la Direction de l’instruction publique et de la culture statue sur leur classement.
 
