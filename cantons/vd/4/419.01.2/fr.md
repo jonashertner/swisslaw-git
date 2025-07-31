@@ -4,7 +4,7 @@ number: "419.01.2"
 title: RÈGLEMENT du 15.01.2014 d’application de la loi du 11 juin 2013 sur les hautes écoles vaudoises de type HES (RLHEV)
 short: RLHEV
 language: fr
-version: 2024-08-01
+version: 2025-08-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/419.01.2?id=100999ba-0d08-4635-a428-a16bd68c9446"
 ---
 
@@ -531,6 +531,14 @@ arrête
 
 [^subsectionSoussectionIII-1]: Modif. 1 du 03.07.2024: Modification Al. 1; entrée en vigueur au 01.08.2024; Introduction Al. 2bis; entrée en vigueur au 01.08.2024
 
+#### Art. 43a
+
+**Absences et congés de longue durée pendant la période probatoire [^43-1]**
+
+<sup>1</sup> En cas d'absence ou de congé de quatre semaines consécutives au moins, la période probatoire peut être prolongée d'autant, mais au maximum d'une année.
+
+[^43-1]: Modif. 2 du 01.10.2025: Introduction Art. 43a; entrée en vigueur au 01.08.2025
+
 #### Art. 44
 
 **Evaluation régulière**
@@ -599,9 +607,64 @@ arrête
 
 <sup>2</sup> Les études sont organisées selon un système modulaire avec attribution de crédits ECTS (European Credit and Accumulation Transfer System).
 
+#### Art. 49a
+
+**Santé [^49-1]**
+
+<sup>1</sup> La direction peut exiger de l'étudiant la production d'un certificat médical attestant de son aptitude à suivre la formation concernée. Ce certificat peut être établi par le médecin traitant de l'étudiant ou un médecin désigné par la direction.
+
+<sup>2</sup> Si la poursuite de la formation reste possible malgré une atteinte à la santé de l'étudiant, la direction peut prendre des mesures d'aménagement des études.
+
+<sup>3</sup> Les alinéas 1 et 2 s'appliquent par analogie aux participants à la formation continue ainsi qu'aux étudiants des cours préparatoires aux études HES organisés par les hautes écoles de type HES.​​​​
+
+[^49-1]: Modif. 2 du 01.10.2025: Introduction tArt; entrée en vigueur au 01.08.2025; Introduction Al. 1-3; entrée en vigueur au 01.08.2025; Introduction Art. 49a; entrée en vigueur au 01.08.2025
+
+#### Art. 49b
+
+**Suspension de la formation pour raisons de santé [^49a-1]**
+
+<sup>1</sup> En cas de non-présentation du certificat médical au sens de l'article 49a du présent règlement, la direction peut suspendre la formation jusqu'à la production de ce dernier.
+
+<sup>2</sup> Lorsque l'état de santé de l'étudiant n'est pas compatible avec la formation, la direction peut suspendre celle-ci pour des raisons de santé au maximum jusqu'à la fin du semestre en cours. Si l'incompatibilité persiste, la suspension peut être renouvelée, à chaque fois d'un semestre au plus.
+
+<sup>3</sup> En cas de nécessité, la formation peut être suspendue avec effet immédiat à titre de mesure provisionnelle pour une période maximale de quatre semaines.
+
+<sup>4</sup> La suspension fait l'objet d'une décision de la direction avec indication de la voie et du délai de réclamation.
+
+<sup>5</sup> Jusqu'à concurrence de 24 mois, les périodes de suspension prononcées ne sont pas comptabilisées dans la durée des études.
+
+<sup>6</sup> Les alinéas 1 à 4 s'appliquent par analogie aux participants à la formation continue ainsi qu'aux étudiants des cours préparatoires aux études HES organisés par les hautes écoles de type HES.​​​
+
+[^49a-1]: Modif. 2 du 01.10.2025: Introduction tArt; entrée en vigueur au 01.08.2025; Introduction Al. 1-6; entrée en vigueur au 01.08.2025; Introduction Art. 49b; entrée en vigueur au 01.08.2025
+
+#### Art. 49c
+
+**Fréquentation de la formation et absences [^49b-1]**
+
+<sup>1</sup> Les exigences liées à la fréquentation de la formation et les modalités de justification des absences sont définies par les règlements de la HES-SO et de la haute école.
+
+[^49b-1]: Modif. 2 du 01.10.2025: Introduction Art. 49c; entrée en vigueur au 01.08.2025
+
+#### Art. 49d
+
+**Règles de comportement [^49c-1]**
+
+<sup>1</sup> Sous peine des sanctions disciplinaires de l'article 60 de la loi, l'étudiant respecte les règles de la haute école et reste soumis à celles-ci lorsqu'il est accueilli par des institutions de formation pratique ou des partenaires extérieurs.
+
+<sup>2</sup> Sont notamment proscrits les comportements suivants :
+
+- a. tout acte violent qui entrave les libertés et les droits de tiers ;
+- b. tout acte compromettant la santé physique ou psychique ou la sécurité des membres de la communauté de la haute école et des personnes côtoyées dans le cadre de la formation ;
+- c. tout acte portant atteinte aux droits de la personnalité, y compris le droit à l'image et le droit à l'honneur des membres de la communauté de la haute école et des personnes côtoyées dans le cadre de la formation ;
+- d. toute atteinte aux infrastructures et à l'équipement mis à disposition de l'étudiant.
+
+<sup>3</sup> ​​Les alinéas 1 et 2 s'appliquent par analogie aux auditeurs et participants à la formation continue ainsi qu'aux étudiants des cours préparatoires aux études HES organisés par les hautes écoles de type HES.​​​​​
+
+[^49c-1]: Modif. 2 du 01.10.2025: Introduction tArt; entrée en vigueur au 01.08.2025; Introduction Al. 1-3; entrée en vigueur au 01.08.2025; Introduction Art. 49d; entrée en vigueur au 01.08.2025
+
 #### Art. 50
 
-**Procédure disciplinaire [^49-1]**
+**Procédure disciplinaire [^49d-1]**
 
 <sup>1</sup> La direction peut, d'office ou sur dénonciation, ouvrir une enquête disciplinaire à l'encontre d'un étudiant, pour tout agissement passible de sanctions disciplinaires au sens de l'article 60 de la loi.
 
@@ -617,7 +680,7 @@ arrête
 
 <sup>7</sup> Cette procédure s'applique par analogie aux auditeurs et aux participants à la formation continue ainsi qu'aux étudiants des cours préparatoires aux études HES.
 
-[^49-1]: Modif. 1 du 03.07.2024: Modification tArt; entrée en vigueur au 01.08.2024; Modification Al. 1; entrée en vigueur au 01.08.2024; Introduction Al. 2-7; entrée en vigueur au 01.08.2024
+[^49d-1]: Modif. 1 du 03.07.2024: Modification tArt; entrée en vigueur au 01.08.2024; Modification Al. 1; entrée en vigueur au 01.08.2024; Introduction Al. 2-7; entrée en vigueur au 01.08.2024
 
 #### Art. 51
 
@@ -654,6 +717,14 @@ arrête
 <sup>4</sup> Les procédures disciplinaires en cours devant les directions des hautes écoles lors de l'entrée en vigueur des modifications du 3 juillet 2024 se poursuivent selon le nouveau droit. Les actes de procédure ordonnés ou accomplis avant cette entrée en vigueur conservent leur validité.
 
 [^53-1]: Modif. 1 du 03.07.2024: Introduction tArt; entrée en vigueur au 01.08.2024; Introduction Al. 1-4; entrée en vigueur au 01.08.2024; Introduction Art. 53a; entrée en vigueur au 01.08.2024
+
+#### Art. 53b
+
+**Disposition transitoire de la modification du 1er octobre 2025 [^53a-1]**
+
+<sup>1</sup> La modification de l'article 43a s'applique à toutes les périodes probatoires en cours lors de l'entrée en vigueur des modifications du 1er septembre 2025.
+
+[^53a-1]: Modif. 2 du 01.10.2025: Introduction Art. 53b; entrée en vigueur au 01.08.2025
 
 #### Art. 54
 
