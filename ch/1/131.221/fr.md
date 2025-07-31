@@ -3,11 +3,11 @@ sr: "131.221"
 title: "Constitution du canton de Soleure, du 8 juin 1986"
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/2_642_626_526_fga"
 language: fr
-version: 2025-01-01
+version: 2025-08-01
 adopted: 1986-06-08
 in_force: 1988-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/2_642_626_526_fga/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1987-2_642_626_526_fga-20250101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/2_642_626_526_fga/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/2_642_626_526_fga/20250801/fr/xml/fedlex-data-admin-ch-eli-cc-1987-2_642_626_526_fga-20250801-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/2_642_626_526_fga/20250801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1987/2_642_626_526_fga/20250101/fr"
 
 Traduction[^t-1]
 
-du 8 juin 1986 (État le 1<sup>er</sup> janvier 2025)[^t-2]
+du 8 juin 1986 (État le 1<sup>er</sup> août 2025)[^t-2]
 
 [^t-1]: Le texte original est publié, sous le même chiffre, dans l’édition allemande du présent recueil.
 [^t-2]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale.
@@ -840,18 +840,19 @@ Le Grand Conseil:
 
 Le Grand Conseil désigne:
 
-- a. le chancelier d’État ou son suppléant;
+- a.[^75-1] …
 - b. les juges et les suppléants des tribunaux, dans la mesure où la constitution ou la loi ne confie pas leur élection au peuple;
-- c.[^75-1] le procureur principal et son suppléant;
-- d.[^75-2] les procureurs;
-- e.[^75-3] l’avocat en chef des mineurs et les autres avocats des mineurs;
+- c.[^75-2] le procureur principal et son suppléant;
+- d.[^75-3] les procureurs;
+- e.[^75-4] l’avocat en chef des mineurs et les autres avocats des mineurs;
 - f. le chef du contrôle des finances.
 
 <sup>2</sup> La loi peut confier d’autres nominations au Grand Conseil. Elle détermine les postes qui doivent être mis au concours.
 
-[^75-1]: Acceptée en votation populaire du 16 mai 2004, en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^75-1]: Abrogée en votation populaire du 22 sept. 2024, avec effet au 1<sup>er</sup> août 2025. Garantie de l’Ass. féd. du 22 sept. 2025 ([FF 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)art. 3, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
 [^75-2]: Acceptée en votation populaire du 16 mai 2004, en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
 [^75-3]: Acceptée en votation populaire du 16 mai 2004, en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^75-4]: Acceptée en votation populaire du 16 mai 2004, en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
 
 #### Art. 76
 
@@ -958,7 +959,9 @@ Le Conseil d’État:
 
 **Chancellerie d’État**
 
-La Chancellerie d’État est le service général de coordination du Conseil d’État et du Grand Conseil.
+La Chancellerie d’État est le service de coordination du Conseil d’État et assure la liaison avec le Grand Conseil. Elle est dirigée par le chancelier d’État.[^83-1]
+
+[^83-1]: Accepté en votation populaire du 22 sept. 2024, en vigueur depuis le 1<sup>er</sup> août 2025. Garantie de l’Ass. féd. du 22 sept. 2025 ([FF 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)art. 3, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
 
 #### Art. 84
 
@@ -1040,9 +1043,11 @@ La juridiction civile est exercée par:
 
 **Juridiction pénale**
 
-<sup>1</sup> La juridiction pénale est exercée par
+<sup>1</sup>
 
-- [tab] a. et b.[^90-1] …
+La juridiction pénale est exercée par:
+
+- a. et b.[^90-1] …
 - c. les présidents des tribunaux des mineurs;
 - d.[^90-2] le tribunal des mineurs;
 - e. les présidents des tribunaux de district;

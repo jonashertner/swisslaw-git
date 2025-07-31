@@ -3,18 +3,18 @@ sr: "131.221"
 title: "Verfassung des Kantons Solothurn, vom 8. Juni 1986"
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/2_642_626_526_fga"
 language: de
-version: 2025-01-01
+version: 2025-08-01
 adopted: 1986-06-08
 in_force: 1988-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/2_642_626_526_fga/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1987-2_642_626_526_fga-20250101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/2_642_626_526_fga/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/2_642_626_526_fga/20250801/de/xml/fedlex-data-admin-ch-eli-cc-1987-2_642_626_526_fga-20250801-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/2_642_626_526_fga/20250801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verfassung des Kantons Solothurn
 
-vom 8. Juni 1986 (Stand am 1. Januar 2025)[^t-1]
+vom 8. Juni 1986 (Stand am 1. August 2025)[^t-1]
 
 [^t-1]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen.
 
@@ -833,18 +833,19 @@ Der Kantonsrat:
 
 Der Kantonsrat wählt:
 
-- a. den Staatsschreiber und seinen Stellvertreter;
+- a. ... [^75-1]
 - b. die Mitglieder und Ersatzrichter der Gerichte, soweit ihre Wahl nicht durch Verfassung oder Gesetz dem Volk übertragen ist;
-- c.[^75-1] den Oberstaatsanwalt und dessen Stellvertreter;
-- d.[^75-2] die Staatsanwälte;
-- e.[^75-3] den leitenden und die weiteren Jugendanwälte;
+- c.[^75-2] den Oberstaatsanwalt und dessen Stellvertreter;
+- d.[^75-3] die Staatsanwälte;
+- e.[^75-4] den leitenden und die weiteren Jugendanwälte;
 - f. den Chef der Finanzkontrolle.
 
 <sup>2</sup> Das Gesetz kann dem Kantonsrat weitere Wahlen übertragen. Es bestimmt, welche Stellen vor der Wahl auszuschreiben sind.
 
-[^75-1]: Angenommen in der Volksabstimmung vom 16. Mai 2004, in Kraft seit 1. Aug. 2005. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 2, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^75-1]: Aufgehoben in der Volksabstimmung vom 22. Sept. 2024, mit Wirkung seit 1. Aug. 2025. Gewährleistungsbeschluss vom 22. Sept. 2025 ([BBl 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)Art. 3, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
 [^75-2]: Angenommen in der Volksabstimmung vom 16. Mai 2004, in Kraft seit 1. Aug. 2005. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 2, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
 [^75-3]: Angenommen in der Volksabstimmung vom 16. Mai 2004, in Kraft seit 1. Aug. 2005. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 2, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^75-4]: Angenommen in der Volksabstimmung vom 16. Mai 2004, in Kraft seit 1. Aug. 2005. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 2, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
 
 #### Art. 76
 
@@ -951,7 +952,9 @@ Der Regierungsrat:
 
 **Staatskanzlei**
 
-Die Staatskanzlei ist die allgemeine Stabsstelle des Regierungsrates und des Kantonsrates.
+Die Staatskanzlei ist die Stabsstelle des Regierungsrates und gewährleistet die Verbindung zum Kantonsrat. Sie wird vom Staatsschreiber geleitet.[^83-1]
+
+[^83-1]: Angenommen in der Volksabstimmung vom 22. Sept. 2024, in Kraft seit 1. Aug. 2025. Gewährleistungsbeschluss vom 22. Sept. 2025 ([BBl 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)Art. 3, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
 
 #### Art. 84
 
@@ -1037,7 +1040,7 @@ Die Zivilgerichtsbarkeit wird ausgeübt durch:
 
 Die Strafgerichtsbarkeit wird ausgeübt durch:
 
-- [tab] a. und b. [^90-1] …
+- a. und b. [^90-1] …
 - c. die Jugendgerichtspräsidenten;
 - d.[^90-2] das Jugendgericht;
 - e. die Amtsgerichtspräsidenten;
@@ -2221,6 +2224,8 @@ Schulen
 **Staatshaftung** (Verantwortlichkeit) 64
 
 **Staatskanzlei** 83
+
+**Staatsschreiber** 83
 
 **Staatsvermögen**, Nutzung 129
 

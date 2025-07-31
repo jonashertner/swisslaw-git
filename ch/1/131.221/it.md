@@ -3,11 +3,11 @@ sr: "131.221"
 title: "Costituzione del Cantone di Soletta, dell'8 giugno 1986"
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/2_642_626_526_fga"
 language: it
-version: 2025-01-01
+version: 2025-08-01
 adopted: 1986-06-08
 in_force: 1988-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/2_642_626_526_fga/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1987-2_642_626_526_fga-20250101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/2_642_626_526_fga/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/2_642_626_526_fga/20250801/it/xml/fedlex-data-admin-ch-eli-cc-1987-2_642_626_526_fga-20250801-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/2_642_626_526_fga/20250801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1987/2_642_626_526_fga/20250101/it"
 
 Traduzione[^t-1]
 
-dell’8 giugno 1986 (Stato 1° gennaio 2025)[^t-2]
+dell’8 giugno 1986 (Stato 1° agosto 2025)[^t-2]
 
 [^t-1]: Il testo nella lingua originale è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
 [^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi.
@@ -824,18 +824,19 @@ Il Gran Consiglio:
 
 Il Gran Consiglio nomina:
 
-- a. il cancelliere dello Stato e il suo supplente;
+- a.[^75-1] …
 - b. i membri e i giudici supplenti dei tribunali, per quanto la Costituzione o la legge non ne affidi l’elezione al Popolo;
-- c.[^75-1] il procuratore pubblico superiore e il suo sostituto;
-- d.[^75-2] i procuratori pubblici;
-- e.[^75-3] il procuratore in capo dei minorenni e gli altri procuratori dei minorenni;
+- c.[^75-2] il procuratore pubblico superiore e il suo sostituto;
+- d.[^75-3] i procuratori pubblici;
+- e.[^75-4] il procuratore in capo dei minorenni e gli altri procuratori dei minorenni;
 - f. il capo del Controllo delle finanze.
 
 <sup>2</sup> La legge può affidare altre nomine al Gran Consiglio. Essa determina i posti che devono essere messi a concorso.
 
-[^75-1]: Accettata nella votazione popolare del 16 mag. 2004, in vigore dal 1° ago. 2005. Garanzia dell’AF del 14 mar. 2005 ([FF 2005 2127](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 n. 2, [2004 4981](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^75-1]: Abrogata nella votazione popolare del 22 set. 2024, con effetto dal 1° ago. 2025. Garanzia dell’AF del 22 set. 2025 ([FF 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)art. 3, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
 [^75-2]: Accettata nella votazione popolare del 16 mag. 2004, in vigore dal 1° ago. 2005. Garanzia dell’AF del 14 mar. 2005 ([FF 2005 2127](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 n. 2, [2004 4981](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
 [^75-3]: Accettata nella votazione popolare del 16 mag. 2004, in vigore dal 1° ago. 2005. Garanzia dell’AF del 14 mar. 2005 ([FF 2005 2127](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 n. 2, [2004 4981](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^75-4]: Accettata nella votazione popolare del 16 mag. 2004, in vigore dal 1° ago. 2005. Garanzia dell’AF del 14 mar. 2005 ([FF 2005 2127](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 n. 2, [2004 4981](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
 
 #### Art. 76
 
@@ -942,7 +943,9 @@ Il Consiglio di Stato:
 
 **Cancelleria dello Stato**
 
-La Cancelleria dello Stato è il segretariato generale del Consiglio di Stato e del Gran Consiglio.
+La Cancelleria dello Stato è il segretariato del Consiglio di Stato e garantisce il collegamento con il Gran Consiglio. È diretta dal cancelliere dello Stato.[^83-1]
+
+[^83-1]: Accettato nella votazione popolare del 22 set. 2024, in vigore dal 1° ago. 2025. Garanzia dell’AF del 22 set. 2025 ([FF 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)art. 3, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
 
 #### Art. 84
 
@@ -1718,8 +1721,6 @@ Bisogno
 
 Cancelleria dello Stato 83
 
-- [tab] – cancelliere 75
-
 Cantone 1
 
 - [tab] – agevolazione della frequentazione della scuola 109
@@ -2229,7 +2230,6 @@ Garanzia (e)
 - [tab] – mandati 70
 - [tab] – modifiche dell’effettivo, del territorio e dei confini dei Comuni 47
 - [tab] – nomine 75
-  - [tab] – cancelliere 75
   - [tab] – giudici supplenti dei tribunali 75
   - [tab] – membri dei Tribunali 75
   - [tab] – procuratore in capo dei minorenni 75
@@ -2419,7 +2419,6 @@ Nomine
 - [tab] – dei giudici supplenti dei tribunali 75
 - [tab] – dei membri dei tribunali 75
 - [tab] – dei procuratori pubblici 75
-- [tab] – del cancelliere dello Stato 75
 - [tab] – del capo del Controllo delle finanze 75
 - [tab] – del procuratore
   - [tab] – in capo dei minorenni 75
@@ -2674,7 +2673,6 @@ Soletta ingresso
 
 - [tab] – compiti straordinari dello 135
 - [tab] – imposta dello 46
-- [tab] – nomina del cancelliere dello 75
 - [tab] – organi dello 5
 - [tab] – patrimonio dello 129
 - [tab] – pianificazione e coordinazione delle attività dello 78
