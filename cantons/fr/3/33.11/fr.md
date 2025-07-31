@@ -4,13 +4,13 @@ number: "33.11"
 title: "Ordonnance sur les amendes d'ordre de droit cantonal et de droit fédéral"
 short: OCAO
 language: fr
-version: 2025-01-01
-valid_until: 2025-07-31
-version_adopted: 2024-10-29
+version: 2025-08-01
+valid_until: 2025-08-31
+version_adopted: 2025-07-04
 adopted: 2021-11-23
 in_force: 2022-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/33.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8063/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8238/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Amendes d'ordre – O
 
 (OCAO)
 
-du 23.11.2021 (version entrée en vigueur le 01.01.2025)
+du 23.11.2021 (version entrée en vigueur le 01.08.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -195,10 +195,10 @@ Arrête:
 <tr><td>FR 207</td><td>Attestation chien de chasse (art. 27 LCha / art. 42 al. 6 OCha)</td><td>Fr. 50.–</td></tr>
 <tr><td>FR 208</td><td>Utilisation de plus de deux chiens (art. 27 LCha / art. 43 al. 5 et 7 OCha)</td><td>Fr. 250.–</td></tr>
 <tr><td>FR 209</td><td>Attestation chien de rouge (art. 29 LCha / art. 48 al. 2 OCha)</td><td>Fr. 50.–</td></tr>
-<tr><td>FR 210</td><td>Recherche non autorisée (art. 29 LCha / art. 49 al. 1 et 3 OCha)</td><td>Fr. 200.–</td></tr>
+<tr><td>FR 210</td><td>Recherche non autorisée (art. 29 LCha / art. 49 al. 1 et 3 et art. 70 al. 3 let. c OCha)</td><td>Fr. 200.–</td></tr>
 <tr><td>FR 211</td><td>Marquages (art. 29 LCha / art. 70 al. 3 let. a OCha)</td><td>Fr. 150.–</td></tr>
 <tr><td>FR 212</td><td>Conducteur de chien de rouge (art. 29 LCha / art. 70 al. 3 let. b OCha)</td><td>Fr. 150.–</td></tr>
-<tr><td>FR 213</td><td>Information de recherche négative (art. 29 LCha / art. 70 al. 3 let. c OCha)</td><td>Fr. 150.–</td></tr>
+<tr><td>FR 213</td><td>Information de recherche négative (art. 29 LCha / art. 70 al. 5 OCha)</td><td>Fr. 150.–</td></tr>
 <tr><td>FR 214</td><td>Animaux abattus, viscères, mutilation (art. 29 LCha / art. 71 OCha)</td><td>Fr. 200.–</td></tr>
 <tr><td>FR 215</td><td>Marques de contrôle (art. 30 LCha / art. 72 OCha)</td><td>Fr. 100.–</td></tr>
 <tr><td>FR 216</td><td>Formules de contrôle (art. 30 LCha / art. 73 al. 1 OCha)</td><td>Fr. 50.–</td></tr>

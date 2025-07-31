@@ -4,13 +4,13 @@ number: "33.11"
 title: Verordnung über kantons- und bundesrechtliche Ordnungsbussen
 short: KOBV
 language: de
-version: 2025-01-01
-valid_until: 2025-07-31
-version_adopted: 2024-10-29
+version: 2025-08-01
+valid_until: 2025-08-31
+version_adopted: 2025-07-04
 adopted: 2021-11-23
 in_force: 2022-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/33.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/8063/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8238/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Ordnungsbussen – V
 
 (KOBV)
 
-vom 23.11.2021 (Fassung in Kraft getreten am 01.01.2025)
+vom 23.11.2021 (Fassung in Kraft getreten am 01.08.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -195,10 +195,10 @@ beschliesst:
 <tr><td>FR 207</td><td>Bescheinigung Jagdhund (Art. 27 JaG / Art. 42 Abs. 6 JaV)</td><td>Fr. 50.–</td></tr>
 <tr><td>FR 208</td><td>Verwendung von mehr als zwei Hunden (Art. 27 JaG / Art. 43 Abs. 5 und 7 JaV)</td><td>Fr. 250.–</td></tr>
 <tr><td>FR 209</td><td>Ausweis Schweisshund (Art. 29 JaG / Art. 48 Abs. 2 JaV)</td><td>Fr. 50.–</td></tr>
-<tr><td>FR 210</td><td>Unerlaubte Nachsuche (Art. 29 JaG / Art. 49 Abs. 1 und 3 JaV)</td><td>Fr. 200.–</td></tr>
+<tr><td>FR 210</td><td>Unerlaubte Nachsuche (Art. 29 JaG / Art. 49 Abs. 1 und 3 und Art. 70 Abs. 3 Bst. c JaV)</td><td>Fr. 200.–</td></tr>
 <tr><td>FR 211</td><td>Markierungen (Art. 29 JaG / Art. 70 Abs. 3 Bst. a JaV)</td><td>Fr. 150.–</td></tr>
 <tr><td>FR 212</td><td>Schweisshundeführer (Art. 29 JaG / Art. 70 Abs. 3 Bst. b JaV)</td><td>Fr. 150.–</td></tr>
-<tr><td>FR 213</td><td>Meldung ergebnislose Nachsuche (Art. 29 JaG / Art. 70 Abs. 3 Bst. c JaV)</td><td>Fr. 150.–</td></tr>
+<tr><td>FR 213</td><td>Meldung ergebnislose Nachsuche (Art. 29 JaG / Art. 70 Abs. 5 JaV)</td><td>Fr. 150.–</td></tr>
 <tr><td>FR 214</td><td>Erlegte Tiere, Eingeweide, Verstümmelung (Art. 29 JaG / Art. 71 JaV)</td><td>Fr. 200.–</td></tr>
 <tr><td>FR 215</td><td>Kontrollmarken (Art. 30 JaG / Art. 72 JaV)</td><td>Fr. 100.–</td></tr>
 <tr><td>FR 216</td><td>Kontrollformulare (Art. 30 JaG / Art. 73 Abs. 1 JaV)</td><td>Fr. 50.–</td></tr>
