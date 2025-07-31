@@ -4,13 +4,13 @@ number: "111.1"
 title: Verfassung des Kantons Solothurn
 short: KV
 language: de
-version: 2025-01-01
-valid_until: 2025-07-31
+version: 2025-08-01
+valid_until: 2026-12-31
 version_adopted: 2024-09-22
 adopted: 1986-06-08
 in_force: 1988-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/111.1"
-pdf: "https://bgs.so.ch/api/de/versions/5579/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5580/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5579/pdf_file"
 
 (KV)
 
-Vom 08.06.1986 (Stand 01.01.2025)
+Vom 08.06.1986 (Stand 01.08.2025)
 
 Das Volk des Kantons Solothurn,
 
@@ -750,7 +750,7 @@ gibt sich folgende Verfassung:
 
 <sup>1</sup> Der Kantonsrat wählt
 
-- a) den Staatsschreiber und seinen Stellvertreter;
+- a) …
 - b) die Mitglieder und Ersatzrichter der Gerichte, soweit ihre Wahl nicht durch Verfassung oder Gesetz dem Volk übertragen ist;
 - c) den Oberstaatsanwalt und dessen Stellvertreter;
 - d) die Staatsanwälte;
@@ -849,7 +849,7 @@ gibt sich folgende Verfassung:
 
 **Staatskanzlei**
 
-<sup>1</sup> Die Staatskanzlei ist die allgemeine Stabsstelle des Regierungsrates und des Kantonsrates.
+<sup>1</sup> Die Staatskanzlei ist die Stabsstelle des Regierungsrates und gewährleistet die Verbindung zum Kantonsrat. Sie wird vom Staatsschreiber geleitet.
 
 #### Art. 84
 
