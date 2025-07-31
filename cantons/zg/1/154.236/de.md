@@ -3,24 +3,23 @@ canton: ZG
 number: "154.236"
 title: Verordnung über die Lohneinreihung der Lehrpersonen der Mittel- und Berufsfachschulen sowie der Brückenangebote
 language: de
-version: 2024-01-01
-valid_until: 2025-07-31
-version_adopted: 2022-11-22
+version: 2025-08-01
+version_adopted: 2025-08-19
 adopted: 2015-12-01
 in_force: 2016-08-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/154.236"
-pdf: "https://bgs.zg.ch/api/de/versions/2520/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2723/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Lohneinreihung der Lehrpersonen der Mittel- und Berufsfachschulen sowie der Brückenangebote
 
-Vom 1. Dezember 2015 (Stand 1. Januar 2024)
+Vom 1. Dezember 2015 (Stand 1. August 2025)
 
 Der Regierungsrat des Kantons Zug,
 
-gestützt auf § 1 Abs. 3, § 44bis und § 48 des Personalgesetzes[^ingress-1],
+gestützt auf § 1 Abs. 3, § 44<sup>bis</sup> und § 48 des Gesetzes über das Arbeitsverhältnis des Staatspersonals (Personalgesetz; PG) vom 1. September 1994[^ingress-1],
 
 beschliesst:
 
@@ -32,10 +31,10 @@ beschliesst:
 
 <sup>1</sup> Nach Massgabe ihres Abschlusses werden die Lehrpersonen im ersten Dienstjahr wie folgt eingereiht:
 
-- a) Lehrpersonen mit einem Abschluss der höheren Berufsbildung (Tertiär B) oder gleichwertigem Abschluss: Lohnklasse 17;
+- a) Lehrpersonen mit einem fachlichen Abschluss (NQR BB: Stufe 5): Lohnklasse 17;
 - b) Lehrpersonen mit einem Abschluss für den Unterricht an der Volksschule: Lohnklasse 18;
-- c) Lehrpersonen mit einem fachlichen Bachelor- oder gleichwertigem Abschluss (Tertiär A): Lohnklasse 18;
-- d) Lehrpersonen mit einem fachlichen Master- oder gleichwertigem Abschluss (Tertiär A): Lohnklasse 19.
+- c) Lehrpersonen mit einem fachlichen Abschluss auf Stufe Bachelor oder gleichwertig (NQF HS oder NQR BB: Stufe 6): Lohnklasse 18;
+- d) Lehrpersonen mit einem fachlichen Abschluss auf Stufe Master oder gleichwertig (NQF HS oder NQR BB: Stufe 7): Lohnklasse 19.
 
 <sup>2</sup> Unabhängig von Absatz 1 werden eingereiht:
 
