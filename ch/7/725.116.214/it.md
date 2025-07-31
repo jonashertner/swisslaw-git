@@ -4,11 +4,11 @@ title: "Ordinanza del DATEC del 20 dicembre 2019 concernente il programma Traffi
 short: OPTA
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/13"
 language: it
-version: 2023-01-01
+version: 2025-08-01
 adopted: 2019-12-20
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/13/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2020-13-20230101-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/13/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/13/20250801/it/xml/fedlex-data-admin-ch-eli-cc-2020-13-20250801-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/13/20250801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,23 +17,23 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/13/20230101/it"
 
 (OPTA)
 
-del 20 dicembre 2019 (Stato 1° gennaio 2023)
+del 20 dicembre 2019 (Stato 1° agosto 2025)
 
 Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC),
 
-visto l’articolo 17*e* capoverso 2 della legge federale del 22 marzo 1985[^ingress-1] concernente l’utilizzazione dell’imposta sugli oli minerali a destinazione vincolata e di altri mezzi a destinazione vincolata per il traffico stradale e aereo (LUMin); visti gli articoli 18*a* capoverso 3, 19 capoverso 2 e 21*a* capoversi 2 e 3 dell’ordinanza del 7 novembre 2007[^ingress-2] concernente l’utilizzazione dell’imposta sugli oli minerali a destinazione vincolata e di altri mezzi a destinazione vincolata per il traffico stradale (OUMin),[^ingress-3]
+visto l’articolo 17*e* capoverso 2 della legge federale del 22 marzo 1985[^ingress-1] concernente l’utilizzazione dell’imposta sugli oli minerali a destinazione vincolata e di altri mezzi a destinazione vincolata per il traffico stradale e aereo (LUMin); visti gli articoli 18*a* capoverso 3, 19 capoverso 2, 21*a* capoversi 2 e 3 e 21*b* capoverso 3 dell’ordinanza del 7 novembre 2007[^ingress-2] concernente l’utilizzazione dell’imposta sugli oli minerali a destinazione vincolata e di altri mezzi a destinazione vincolata per il traffico stradale (OUMin),[^ingress-3]
 
 ordina:
 
-[^ingress-1]: [RS 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
-[^ingress-2]: [RS 725.116.21](https://fedlex.data.admin.ch/eli/cc/2007/797)
-[^ingress-3]: Nuovo testo giusta il n. I dell’O del DATEC del 25 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 562](https://fedlex.data.admin.ch/eli/oc/2021/562)).
+[^ingress-1]: [RS 725.116.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8462)
+[^ingress-2]: [RS 725.116.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8463)
+[^ingress-3]: Nuovo testo giusta la cifra I dell’O del DATEC del 24 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
 
 ## Sezione 1: Comuni aventi diritto ai contributi
 
 [^sec1-1]
 
-[^sec1-1]: Nuovo testo giusta il n. I dell’O del DATEC del 25 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 562](https://fedlex.data.admin.ch/eli/oc/2021/562)).
+[^sec1-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 25 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 562](https://fedlex.data.admin.ch/eli/oc/2021/562)).
 
 #### Art. 1
 
@@ -55,7 +55,7 @@ I Comuni aventi diritto ai contributi sono designati nell’allegato.
 
 [^sec1a-1]
 
-[^sec1a-1]: Introdotto dal n. I dell’O del DATEC del 25 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 562](https://fedlex.data.admin.ch/eli/oc/2021/562)).
+[^sec1a-1]: Introdotto dalla cifra I dell’O del DATEC del 25 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 562](https://fedlex.data.admin.ch/eli/oc/2021/562)).
 
 #### Art. 1b
 
@@ -67,7 +67,7 @@ Un programma d’agglomerato deve includere almeno le parti seguenti:
 - b. una parte con le misure;
 - c. se è già stata stipulata una convenzione sulle prestazioni in una delle generazioni precedenti, le tabelle di attuazione con le informazioni richieste dall’ARE, corredate di rappresentazioni cartografiche.
 
-[^1b-1]: Introdotto dal n. I dell’O del DATEC del 25 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 562](https://fedlex.data.admin.ch/eli/oc/2021/562)).
+[^1b-1]: Introdotto dalla cifra I dell’O del DATEC del 25 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 562](https://fedlex.data.admin.ch/eli/oc/2021/562)).
 
 #### Art. 2
 
@@ -84,7 +84,18 @@ La parte principale deve includere almeno gli elementi seguenti:
 - e. una descrizione delle misure e del loro ordine di priorità;
 - f. un rapporto di attuazione, se in una delle generazioni precedenti è stata stipulata una convenzione sulle prestazioni.
 
-<sup>2</sup> Gli elementi di cui ai capoversi 1 lettere a, b, d ed e devono essere corredati di rappresentazioni cartografiche.
+<sup>2</sup> Gli elementi di cui al capoverso 1 lettere a, b, d ed e devono essere corredati di rappresentazioni cartografiche.[^2-1]
+
+<sup>3</sup> Per i programmi d’agglomerato a partire dalla sesta generazione, gli elementi di cui al capoverso 1 lettere a–d devono tenere conto del paesaggio sia nel settore trasporti che nel settore insediamenti.[^2-2]
+
+<sup>4</sup> Se un ente responsabile che ha presentato un programma d’agglomerato presenta nuovamente un programma d’agglomerato nella generazione successiva, deve rielaborare almeno gli elementi di cui al capoverso 1 lettere c, e nonché f.[^2-3]
+
+<sup>5</sup> Se un programma d’agglomerato definisce una priorità geografica o tematica, deve essere fornita una prova che la condizione di cui all’articolo 18*a* capoverso 2 secondo periodo OUMin è adempiuta. La priorità deve essere trattata negli elementi di cui al capoverso 1 lettere a–e.[^2-4]
+
+[^2-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 24 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
+[^2-2]: Introdotto dalla cifra I dell’O del DATEC del 24 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
+[^2-3]: Introdotto dalla cifra I dell’O del DATEC del 24 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
+[^2-4]: Introdotto dalla cifra I dell’O del DATEC del 24 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
 
 #### Art. 3
 
@@ -105,7 +116,13 @@ La parte con le misure deve includere almeno gli elementi seguenti:
 
 Il programma d’agglomerato deve includere misure nelle seguenti categorie:
 
-- a. misure infrastrutturali di trasporto per le quali gli enti responsabili chiedono contributi federali secondo l’articolo 21 o 21*a* OUMin;
+- a.[^4-1]
+
+  misure infrastrutturali di trasporto per le quali l’ente responsabile chiede:
+
+  - 1\. contributi federali secondo l’articolo 21 OUMin, oppure
+  - 2\. contributi federali secondo l’articolo 21*a* OUMin per programmi d’agglomerato di terza, quarta o quinta generazione del programma Traffico d’agglomerato oppure contributi federali secondo l’articolo 21*b* OUMin per programmi d’agglomerato a partire dalla sesta generazione;
+
 - b. misure di trasporto non cofinanziate dalla Confederazione;
 - c. misure relative agli insediamenti.
 
@@ -122,6 +139,11 @@ Per ogni misura infrastrutturale di trasporto devono essere fornite informazioni
 - e. misura pronta per essere realizzata e finanziamento assicurato.
 
 <sup>4</sup> Se si tratta di una misura infrastrutturale di trasporto all’estero, occorre inoltre indicare se ci si può attendere un beneficio determinante in Svizzera.
+
+<sup>5</sup> I costi computabili di un provvedimento di modesta entità di cui all’articolo 21*b* OUMin non possono superare i cinque milioni di franchi.[^4-2]
+
+[^4-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 24 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
+[^4-2]: Introdotto dalla cifra I dell’O del DATEC del 24 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
 
 #### Art. 5
 
@@ -214,6 +236,15 @@ L’ARE coinvolge l’Ufficio federale delle strade, l’Ufficio federale dei tr
 
 <sup>3</sup> Per la valutazione dello stato di attuazione sono determinanti le misure A conformemente alla convenzione sulle prestazioni della penultima generazione.
 
+<sup>4</sup>
+
+Se un programma d’agglomerato comprende un pacchetto di provvedimenti di modesta entità, oltre al rapporto costi-benefici e allo stato di attuazione viene valutata anche la qualità concettuale in base ai criteri seguenti:
+
+- a. integrazione sistematica dei provvedimenti di modesta entità nella pianificazione globale dei trasporti;
+- b. effetti del pacchetto sul programma d’agglomerato.[^14-1]
+
+[^14-1]: Introdotto dalla cifra I dell’O del DATEC del 24 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
+
 #### Art. 15
 
 **Rapporto d’esame**
@@ -260,11 +291,23 @@ L’esecuzione dei progetti di costruzione deve essere avviata al più tardi:
 - a. per i programmi d’agglomerato di terza generazione per i quali l’Assemblea federale stanzia crediti d’impegno a partire dal 2019, sei anni e tre mesi dopo l’approvazione del corrispondente decreto federale;
 - b. per i programmi d’agglomerato a partire dalla quarta generazione, cinque anni e tre mesi dopo l’approvazione del corrispondente decreto federale.
 
-<sup>2</sup> In casi eccezionali motivati, l’ARE può concedere un termine supplementare di tre anni.
+<sup>2</sup> Per i programmi d’agglomerato a partire dalla terza generazione, in casi eccezionali giustificati, l’ARE può concedere un termine supplementare di tre anni. Questo termine può essere prorogato se il ritardo nell’avvio dell’esecuzione di un progetto di costruzione di una misura infrastrutturale di trasporto di fondamentale importanza è dovuto alla pianificazione di infrastrutture della Confederazione.[^18-1]
 
 <sup>3</sup> Se contro un progetto di costruzione è in atto una procedura di ricorso o se riesce il referendum che vi si oppone, la decorrenza dei termini per questa misura è sospesa fino al passaggio in giudicato di una decisione. Ciò si applica anche alle misure direttamente connesse con la misura interessata dalla sospensione dei termini.
 
-<sup>4</sup> I capoversi 2 e 3 non si applicano alle misure che beneficiano di contributi federali forfettari.
+<sup>3bis</sup> L’esecuzione dei progetti di costruzione relativi a misure infrastrutturali di trasporto di programmi d’agglomerato di prima o seconda generazione per le quali l’ARE, sulla base dell’articolo 24*a* OUMin, ha prorogato la validità della convenzione sulle prestazioni deve essere avviata entro la fine del 2032.[^18-2]
+
+<sup>4</sup>
+
+I capoversi 2 e 3 non si applicano a:
+
+- a. provvedimenti dei programmi d’agglomerato di prima o seconda generazione per i quali l’ARE, sulla base dell’articolo 24*a* OUMin, ha prorogato la validità della convenzione sulle prestazioni;
+- b. provvedimenti per i quali vengono versati contributi federali forfettari;
+- c. provvedimenti di modesta entità.[^18-3]
+
+[^18-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 24 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
+[^18-2]: Introdotto dalla cifra I dell’O del DATEC del 24 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
+[^18-3]: Nuovo testo giusta la cifra I dell’O del DATEC del 24 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
 
 #### Art. 19
 
@@ -288,7 +331,15 @@ Ogni quattro anni, l’ente responsabile informa l’ARE dei valori di riferimen
 - d. numero di occupati per classe di collegamento del trasporto pubblico;
 - e. densità delle zone abitative, delle zone miste e di quelle centrali.
 
-<sup>3</sup> Ogni quattro anni, l’ente responsabile trasmette all’ARE le tabelle di attuazione di cui all’articolo 1 lettera c. Ciò vale anche se non presenta un programma d’agglomerato durante la generazione in corso.
+<sup>2bis</sup> A partire dalla sesta generazione del programma Traffico d’agglomerato, anziché gli indicatori di cui al capoverso 2 lettere c e d, viene considerato il numero di abitanti sommato alla metà degli occupati per classe di collegamento del trasporto pubblico.[^20-1]
+
+<sup>2ter</sup> A partire dalla sesta generazione del programma Traffico d’agglomerato, ogni quattro anni l’ente responsabile trasmette all’ARE le informazioni richieste concernenti le misure infrastrutturali di trasporto già attuate, cofinanziate nell’ambito del programma Traffico d’agglomerato e che contribuiscono in modo sostanziale al raggiungimento degli obiettivi.[^20-2]
+
+<sup>3</sup> Ogni quattro anni, l’ente responsabile trasmette all’ARE le tabelle di attuazione di cui all’articolo 1*b* lettera c. Ciò vale anche se non presenta un programma d’agglomerato durante la generazione in corso.[^20-3]
+
+[^20-1]: Introdotto dalla cifra I dell’O del DATEC del 24 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
+[^20-2]: Introdotto dalla cifra I dell’O del DATEC del 24 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
+[^20-3]: Nuovo testo giusta la cifra I dell’O del DATEC del 24 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
 
 ## Sezione 5: Disposizioni finali
 
@@ -324,7 +375,7 @@ Allegato[^t-1]
 
 ## Comuni aventi diritto ai contributi
 
-[^t-1]: Introdotto dal n. II dell’O del DATEC del 25 ago. 2021 ([RU 2021 562](https://fedlex.data.admin.ch/eli/oc/2021/562)). Aggiornato dal n. I dell’O del DATEC del 27 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 669](https://fedlex.data.admin.ch/eli/oc/2022/669)).
+[^t-1]: Introdotto dalla cifra II dell’O del DATEC del 25 ago. 2021 ([RU 2021 562](https://fedlex.data.admin.ch/eli/oc/2021/562)). Aggiornato dalla cifra I dell’O del DATEC del 27 ott. 2022 ([RU 2022 669](https://fedlex.data.admin.ch/eli/oc/2022/669)) e dalla cifra II dell’O del DATEC del 24 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
 
 ### Aarau
 
@@ -348,7 +399,7 @@ Allegato[^t-1]
 
 ### Baden–Brugg
 
-*Comuni:* Baden, Birmenstorf (AG), Birr, Birrhard, Brugg, Brunegg, Ennetbaden, Fislisbach, Freienwil, Gebenstorf, Hausen (AG), Lupfig, Mägenwil, Mellingen, Mülligen, Neuenhof, Niederrohrdorf, Oberrohrdorf, Obersiggenthal, Remigen, Riniken, Turgi, Untersiggenthal, Villigen, Wettingen, Windisch, Würenlingen
+*Comuni:* Baden, Birmenstorf (AG), Birr, Birrhard, Brugg, Brunegg, Ennetbaden, Fislisbach, Freienwil, Gebenstorf, Hausen (AG), Lupfig, Mägenwil, Mellingen, Mülligen, Neuenhof, Niederrohrdorf, Oberrohrdorf, Obersiggenthal, Remigen, Riniken, Untersiggenthal, Villigen, Wettingen, Windisch, Würenlingen
 
 ### Basel
 
@@ -362,11 +413,11 @@ Allegato[^t-1]
 
 ### Bern
 
-*Comuni:* Allmendingen, Belp, Bern, Biglen, Bolligen, Bremgarten bei Bern, Bäriswil, Bösingen, Diemerswil, Fraubrunnen, Frauenkappelen, Gerzensee, Grosshöchstetten, Hindelbank, Ittigen, Jaberg, Jegenstorf, Kaufdorf, Kehrsatz, Kiesen, Kirchdorf (BE), Kirchlindach, Konolfingen, Köniz, Laupen, Mattstetten, Meikirch, Moosseedorf, Muri bei Bern, Münchenbuchsee, Münsingen, Neuenegg, Oppligen, Ostermundigen, Rubigen, Schmitten (FR), Schüpfen, Stettlen, Thurnen, Toffen, Ueberstorf, Urtenen–Schönbühl, Uttigen, Vechigen, Wichtrach, Wohlen bei Bern, Worb, Wünnewil–Flamatt, Zollikofen, Zäziwil
+*Comuni:* Allmendingen, Belp, Bern, Biglen, Bolligen, Bremgarten bei Bern, Bäriswil, Bösingen, Fraubrunnen, Frauenkappelen, Gerzensee, Grosshöchstetten, Hindelbank, Ittigen, Jaberg, Jegenstorf, Kaufdorf, Kehrsatz, Kiesen, Kirchdorf (BE), Kirchlindach, Konolfingen, Köniz, Laupen, Mattstetten, Meikirch, Moosseedorf, Muri bei Bern, Münchenbuchsee, Münsingen, Neuenegg, Oppligen, Ostermundigen, Rubigen, Schmitten (FR), Schüpfen, Stettlen, Thurnen, Toffen, Ueberstorf, Urtenen–Schönbühl, Uttigen, Vechigen, Wichtrach, Wohlen bei Bern, Worb, Wünnewil–Flamatt, Zollikofen, Zäziwil
 
 ### Biel/Bienne
 
-*Comuni:* Aegerten, Bellmund, Biel/Bienne, Brügg, Evilard, Ipsach, Jens, Meinisberg, Mörigen, Nidau, Orpund, Orvin, Pieterlen, Port, Péry–La Heutte, Safnern, Sauge, Scheuren, Schwadernau, Studen (BE), Sutz–Lattrigen, Twann–Tüscherz, Worben
+*Comuni:* Aegerten, Bellmund, Biel/Bienne, Brügg, Evilard, Ipsach, Jens, Meinisberg, Mörigen, Nidau, Orpund, Orvin, Pieterlen, Port, Péry–La Heutte, Safnern, Sauge, Scheuren, Schwadernau, Studen (BE), Sutz–Lattrigen, Täuffelen, Twann–Tüscherz, Worben
 
 ### Brig–Visp
 
@@ -388,13 +439,13 @@ Allegato[^t-1]
 
 ### Chiasso–Mendrisio
 
-*Comuni:* Balerna, Breggia, Brusino Arsizio, Castel San Pietro, Chiasso, Coldrerio, Mendrisio, Morbio Inferiore, Novazzano, Riva San Vitale, Stabio, Vacallo
+*Comuni:* Arogno, Balerna, Breggia, Brusino Arsizio, Castel San Pietro, Chiasso, Coldrerio, Mendrisio, Morbio Inferiore, Novazzano, Riva San Vitale, Stabio, Vacallo
 
 *Comuni esteri:* Albavilla, Albese con Cassano, Albiolo, Alserio, Alzate Brianza, Anzano del Parco, Beregazzo con Figliaro, Binago, Bizzarone, Blevio, Brienno, Brunate, Bulgarograsso, Capiago Intimiano, Carate Urio, Casnate con Bernate, Cassina Rizzardi, Cernobbio, Clivio, Colverde, Como, Faggeto Lario, Faloppio, Fino Mornasco, Grandate, Laglio, Lipomo, Luisago, Lurate Caccivio, Maslianico, Moltrasio, Montano Lucino, Montorfano, Nesso, Olgiate Comasco, Oltrona di San Mamette, Orsenigo, Pognana Lario, Rodero, Ronago, Saltrio, San Fermo della Battaglia, Senna Comasco, Solbiate con Cagno, Tavernerio, Torno, Uggiate–Trevano, Valmorea, Viggiù, Villa Guardia
 
 ### Chur
 
-*Comuni:* Bonaduz, Chur, Churwalden, Domat/Ems, Felsberg, Landquart, Maienfeld, Malans, Rhäzüns, Tamins, Trimmis, Trin, Untervaz, Zizers
+*Comuni:* Bonaduz, Chur, Churwalden, Domat/Ems, Felsberg, Flims, Landquart, Maienfeld, Malans, Rhäzüns, Tamins, Trimmis, Trin, Untervaz, Zizers
 
 ### Davos
 
@@ -414,7 +465,7 @@ Allegato[^t-1]
 
 ### Fribourg
 
-*Comuni:* Avry, Belfaux, Bois-d’Amont, Chénens, Corminboeuf, Cottens (FR), Courtepin, Düdingen, Ferpicloz, Fribourg, Gibloux, Giffers, Givisiez, Granges–Paccot, Grolley, Hauterive (FR), La Brillaz, La Sonnaz, Le Mouret, Marly, Matran, Misery–Courtion, Neyruz (FR), Pierrafortscha, Prez, St. Ursen, Tafers, Tentlingen, Villars–sur–Glâne, Villarsel–sur–Marly
+*Comuni:* Avry, Belfaux, Bois-d’Amont, Chénens, Corminboeuf, Cottens (FR), Courtepin, Düdingen, Ferpicloz, Fribourg, Gibloux, Giffers, Givisiez, Granges–Paccot, Grolley-Ponthaux, Hauterive (FR), La Brillaz, La Sonnaz, Le Mouret, Marly, Matran, Misery–Courtion, Neyruz (FR), Pierrafortscha, Prez, St. Ursen, Tafers, Tentlingen, Villars–sur–Glâne, Villarsel–sur–Marly
 
 ### Genève
 
@@ -474,7 +525,7 @@ Allegato[^t-1]
 
 ### Luzern
 
-*Comuni:* Adligenswil, Buchrain, Dierikon, Ebikon, Emmen, Eschenbach (LU), Gisikon, Hergiswil (NW), Honau, Horw, Inwil, Kriens, Küssnacht (SZ), Luzern, Malters, Meggen, Neuenkirch, Oberkirch, Rain, Root, Rothenburg, Schenkon, Sempach, Sursee, Udligenswil
+*Comuni:* Adligenswil, Buchrain, Dierikon, Ebikon, Emmen, Gisikon, Hergiswil (NW), Horw, Inwil, Kriens, Küssnacht (SZ), Luzern, Malters, Meggen, Neuenkirch, Oberkirch, Root, Rothenburg, Schenkon, Sempach, Sursee, Udligenswil
 
 ### Lyss
 
@@ -482,7 +533,11 @@ Comune: Lyss
 
 ### Martigny
 
-*Comuni:* Fully, Martigny, Martigny–Combe
+*Comuni:* Fully, Martigny, Martigny–Combe, Riddes, Saxon
+
+### Mels–Sargans
+
+*Comuni:* Mels, Sargans, Vilters-Wangs
 
 ### Monthey
 
@@ -490,7 +545,7 @@ Comune: Lyss
 
 ### Neuchâtel
 
-*Comuni:* Boudry, Cornaux, Cortaillod, Cressier (NE), Hauterive (NE), La Grande Béroche, La Tène, Le Landeron, Milvignes, Neuchâtel, Rochefort, Saint–Blaise, Val–de–Ruz
+*Comuni:* Boudry, Cornaux, Cortaillod, Cressier (NE), La Grande Béroche, Laténa, Le Landeron, Milvignes, Neuchâtel, Rochefort, Val–de–Ruz
 
 ### Olten–Zofingen
 
@@ -498,7 +553,11 @@ Comune: Lyss
 
 ### Rapperswil-Jona–Rüti
 
-*Comuni:* Dürnten, Eschenbach (SG), Rapperswil–Jona, Rüti (ZH), Schmerikon, Uznach
+*Comuni:* Dürnten, Eschenbach (SG), Kaltbrunn, Rapperswil–Jona, Rüti (ZH), Schmerikon, Uznach
+
+### Reinach (AG)
+
+*Comuni:* Beinwil am See, Menziken, Reinach (AG)
 
 ### Rheintal
 

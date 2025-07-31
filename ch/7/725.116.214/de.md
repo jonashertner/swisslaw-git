@@ -4,11 +4,11 @@ title: Verordnung des UVEK vom 20. Dezember 2019 über das Programm Agglomeratio
 short: PAVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/13"
 language: de
-version: 2023-01-01
+version: 2025-08-01
 adopted: 2019-12-20
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/13/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2020-13-20230101-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/13/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/13/20250801/de/xml/fedlex-data-admin-ch-eli-cc-2020-13-20250801-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/13/20250801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,17 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/13/20230101/de"
 
 (PAVV)
 
-vom 20. Dezember 2019 (Stand am 1. Januar 2023)
+vom 20. Dezember 2019 (Stand am 1. August 2025)
 
 Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK),
 
-gestützt auf die Artikel 17*e* Absatz 2 des Bundesgesetzes vom 22. März 1985[^ingress-1] über die Verwendung der zweckgebundenen Mineralölsteuer und weiterer für den Strassen- und Luftverkehr zweckgebundener Mittel (MinVG) und auf die Artikel 18*a* Absatz 3, 19 Absatz 2 und 21*a* Absätze 2 und 3 der Verordnung vom 7. November 2007[^ingress-2] über die Verwendung der zweckgebundenen Mineralölsteuer und weiterer für den Strassenverkehr zweckgebundener Mittel (MinVV),[^ingress-3]
+gestützt auf Artikel 17*e* Absatz 2 des Bundesgesetzes vom 22. März 1985[^ingress-1] über die Verwendung der zweckgebundenen Mineralölsteuer und weiterer für den Strassen- und Luftverkehr zweckgebundener Mittel (MinVG) und auf die Artikel 18*a* Absatz 3, 19 Absatz 2, 21*a* Absätze 2 und 3 und 21*b* Absatz 3 der Verordnung vom 7. November 2007[^ingress-2] über die Verwendung der zweckgebundenen Mineralölsteuer und weiterer für den Strassenverkehr zweckgebundener Mittel (MinVV),[^ingress-3]
 
 verordnet:
 
-[^ingress-1]: [SR 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
-[^ingress-2]: [SR 725.116.21](https://fedlex.data.admin.ch/eli/cc/2007/797)
-[^ingress-3]: Fassung gemäss Ziff. I der V des UVEK vom 25. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 562](https://fedlex.data.admin.ch/eli/oc/2021/562)).
+[^ingress-1]: [SR 725.116.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8462)
+[^ingress-2]: [SR 725.116.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8463)
+[^ingress-3]: Fassung gemäss Ziff. I der V des UVEK vom 24. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
 
 ## 1. Abschnitt: Beitragsberechtigte Gemeinden
 
@@ -86,6 +86,16 @@ Der Hauptteil muss mindestens die folgenden Bausteine enthalten:
 
 <sup>2</sup> Die Bausteine nach Absatz 1 Buchstaben a, b, d und e sind mit kartografischen Darstellungen zu ergänzen.
 
+<sup>3</sup> Bei Agglomerationsprogrammen ab der sechsten Generation muss bei den Bausteinen nach Absatz 1 Buchstaben a–d die Landschaft sowohl im Bereich Verkehr wie auch im Bereich Siedlung berücksichtigt werden.[^2-1]
+
+<sup>4</sup> Hat eine Trägerschaft ein Agglomerationsprogramm eingereicht und reicht sie für die darauffolgende Generation erneut ein Agglomerationsprogramm ein, so müssen dafür mindestens die Bausteine nach Absatz 1 Buchstaben c, e und f überarbeitet werden.[^2-2]
+
+<sup>5</sup> Wird in einem Agglomerationsprogramm ein geografischer oder thematischer Schwerpunkt gesetzt, so muss nachgewiesen werden, dass die Voraussetzung nach Artikel 18*a* Absatz 2 zweiter Satz MinVV erfüllt ist. Der Schwerpunkt muss in den Bausteinen nach Absatz 1 Buchstaben a–e behandelt werden.[^2-3]
+
+[^2-1]: Eingefügt durch Ziff. I der V des UVEK vom 24. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
+[^2-2]: Eingefügt durch Ziff. I der V des UVEK vom 24. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
+[^2-3]: Eingefügt durch Ziff. I der V des UVEK vom 24. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
+
 #### Art. 3
 
 **Massnahmenteil**
@@ -105,7 +115,13 @@ Der Massnahmenteil muss mindestens die folgenden Bestandteile enthalten:
 
 Das Agglomerationsprogramm muss Massnahmen in den folgenden Kategorien enthalten:
 
-- a. Verkehrsinfrastrukturmassnahmen, für die die Trägerschaft Bundesbeiträge nach Artikel 21 oder 21*a* MinVV beantragt;
+- a.[^4-1]
+
+  Verkehrsinfrastrukturmassnahmen, für welche die Trägerschaft beantragt:
+
+  - 1\. Bundesbeiträge nach Artikel 21 MinVV, oder
+  - 2\. Bundesbeiträge nach Artikel 21*a* MinVV für Agglomerationsprogramme der dritten, vierten oder fünften Generation des Programms Agglomerationsverkehr oder Bundesbeiträge nach Artikel 21*b* MinVV für Agglomerationsprogramme ab der sechsten Generation;
+
 - b. Verkehrsmassnahmen, die vom Bund nicht mitfinanziert werden;
 - c. Siedlungsmassnahmen.
 
@@ -122,6 +138,11 @@ Für jede Verkehrsinfrastrukturmassnahme sind Angaben zu den folgenden Kriterien
 - e. Bau- und Finanzreife.
 
 <sup>4</sup> Handelt es sich um eine Verkehrsinfrastrukturmassnahme im Ausland, so ist überdies anzugeben, ob ein massgeblicher Nutzen in der Schweiz zu erwarten ist.
+
+<sup>5</sup> Bei einer Kleinmassnahme nach Artikel 21*b* MinVV dürfen die anrechenbaren Kosten fünf Millionen Franken nicht übersteigen.[^4-2]
+
+[^4-1]: Fassung gemäss Ziff. I der V des UVEK vom 24. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
+[^4-2]: Eingefügt durch Ziff. I der V des UVEK vom 24. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
 
 #### Art. 5
 
@@ -214,6 +235,15 @@ Das ARE zieht bei der Prüfung der Agglomerationsprogramme das Bundesamt für St
 
 <sup>3</sup> Massgebend für die Beurteilung des Stands der Umsetzung sind die A-Massnahmen gemäss der Leistungsvereinbarung der vorletzten Generation.
 
+<sup>4</sup>
+
+Umfasst ein Agglomerationsprogramm ein Paket von Kleinmassnahmen, so wird zusätzlich zum Kosten-Nutzen-Verhältnis und zum Stand der Umsetzung die Qualität der Konzeption nach folgenden Kriterien beurteilt:
+
+- a. systematische Einbindung der Kleinmassnahmen in die Gesamtverkehrsplanung;
+- b. Wirkung des Pakets auf das Agglomerationsprogramm.[^14-1]
+
+[^14-1]: Eingefügt durch Ziff. I der V des UVEK vom 24. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
+
 #### Art. 15
 
 **Prüfbericht**
@@ -260,11 +290,23 @@ Mit der Ausführung der Bauvorhaben muss spätestens begonnen werden:
 - a. für Agglomerationsprogramme der dritten Generation, für die die Bundesversammlung Verpflichtungskredite ab 2019 beschliesst: sechs Jahre und drei Monate nach der Verabschiedung des entsprechenden Bundesbeschlusses;
 - b. für die Agglomerationsprogramme ab der vierten Generation: fünf Jahre und drei Monate nach der Verabschiedung des entsprechenden Bundesbeschlusses.
 
-<sup>2</sup> In begründeten Ausnahmefällen kann das ARE eine Nachfrist von drei Jahren gewähren.
+<sup>2</sup> Bei Agglomerationsprogrammen ab der dritten Generation kann das ARE in begründeten Ausnahmefällen eine Nachfrist von drei Jahren gewähren. Diese kann erstreckt werden, wenn die Verzögerung des Beginns der Ausführung eines Bauvorhabens für eine Verkehrsinfrastrukturmassnahme, die von zentraler Bedeutung ist, auf Planungen von Infrastrukturen des Bundes zurückzuführen ist.[^18-1]
 
 <sup>3</sup> Läuft gegen ein Bauvorhaben ein Rechtsmittelverfahren oder kommt dagegen ein Referendum zustande, so steht der Fristenlauf für diese Massnahme bis zum Vorliegen eines rechtskräftigen Entscheids still. Dies gilt auch für Massnahmen, die von der vom Fristenstillstand betroffenen Massnahme unmittelbar abhängen.
 
-<sup>4</sup> Für Massnahmen, für die pauschale Bundesbeiträge ausgerichtet werden, sind die Absätze 2 und 3 nicht anwendbar.
+<sup>3bis</sup> Bei Verkehrsinfrastrukturmassnahmen aus Agglomerationsprogrammen der ersten oder zweiten Generation, für die das ARE die Leistungsvereinbarung gestützt auf Artikel 24*a* MinVV verlängert hat, muss mit der Ausführung der Bauvorhaben bis Ende 2032 begonnen werden.[^18-2]
+
+<sup>4</sup>
+
+Absätze 2 und 3 sind nicht anwendbar auf:
+
+- a. Massnahmen aus Agglomerationsprogrammen der ersten oder zweiten Generation, für die das ARE gestützt auf Artikel 24*a* MinVV die Leistungsvereinbarung verlängert hat;
+- b. Massnahmen, für die pauschale Bundesbeiträge ausgerichtet werden;
+- c. Kleinmassnahmen.[^18-3]
+
+[^18-1]: Fassung gemäss Ziff. I der V des UVEK vom 24. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
+[^18-2]: Eingefügt durch Ziff. I der V des UVEK vom 24. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
+[^18-3]: Fassung gemäss Ziff. I der V des UVEK vom 24. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
 
 #### Art. 19
 
@@ -288,7 +330,15 @@ Sie teilt dem ARE alle vier Jahre nach dessen Vorgaben die Zielwerte für die Mo
 - d. Anzahl Beschäftigter nach Güteklasse des öffentlichen Verkehrs;
 - e. Dichte der überbauten Wohn-, Misch- und Zentrumszonen.
 
-<sup>3</sup> Die Trägerschaft hat dem ARE alle vier Jahre Umsetzungstabellen nach Artikel 1 Buchstabe c einzureichen. Dies gilt auch, wenn sie in der laufenden Generation kein Agglomerationsprogramm einreicht.
+<sup>2bis</sup> Ab der sechsten Generation des Programms Agglomerationsverkehr wird anstelle der Indikatoren nach Absatz 2 Buchstaben c und d die Anzahl Einwohnerinnen und Einwohner zuzüglich der Hälfte der Beschäftigten nach Güteklasse des öffentlichen Verkehrs als Indikator herangezogen.[^20-1]
+
+<sup>2ter</sup> Die Trägerschaft informiert das ARE ab der sechsten Generation des Programms Agglomerationsverkehr alle vier Jahre nach dessen Vorgaben über bereits umgesetzte Verkehrsinfrastrukturmassnahmen, die im Rahmen des Programms Agglomerationsverkehr mitfinanziert wurden und wesentlich zur Zielerreichung beitragen.[^20-2]
+
+<sup>3</sup> Sie hat dem ARE alle vier Jahre Umsetzungstabellen nach Artikel 1*b* Buchstabe c einzureichen. Dies gilt auch, wenn sie in der laufenden Generation kein Agglomerationsprogramm einreicht.[^20-3]
+
+[^20-1]: Eingefügt durch Ziff. I der V des UVEK vom 24. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
+[^20-2]: Eingefügt durch Ziff. I der V des UVEK vom 24. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
+[^20-3]: Fassung gemäss Ziff. I der V des UVEK vom 24. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
 
 ## 5. Abschnitt: Schlussbestimmungen
 
@@ -324,7 +374,7 @@ Anhang[^t-1]
 
 ## Beitragsberechtigte Gemeinden
 
-[^t-1]: Eingefügt durch Ziff. II der V des UVEK vom 25. Aug. 2021 ([AS 2021 562](https://fedlex.data.admin.ch/eli/oc/2021/562)). Bereinigt gemäss Ziff. I der V des UVEK vom 27. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 669](https://fedlex.data.admin.ch/eli/oc/2022/669)).
+[^t-1]: Eingefügt durch Ziff. II der V des UVEK vom 25. Aug. 2021 ([AS 2021 562](https://fedlex.data.admin.ch/eli/oc/2021/562)). Bereinigt gemäss Ziff. I der V des UVEK vom 27. Okt. 2022 ([AS 2022 669](https://fedlex.data.admin.ch/eli/oc/2022/669)) und Ziff. II der V des UVEK vom 24. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
 
 ### Aarau
 
@@ -348,7 +398,7 @@ Anhang[^t-1]
 
 ### Baden–Brugg
 
-*Gemeinden:* Baden, Birmenstorf (AG), Birr, Birrhard, Brugg, Brunegg, Ennetbaden, Fislisbach, Freienwil, Gebenstorf, Hausen (AG), Lupfig, Mägenwil, Mellingen, Mülligen, Neuenhof, Niederrohrdorf, Oberrohrdorf, Obersiggenthal, Remigen, Riniken, Turgi, Untersiggenthal, Villigen, Wettingen, Windisch, Würenlingen
+*Gemeinden:* Baden, Birmenstorf (AG), Birr, Birrhard, Brugg, Brunegg, Ennetbaden, Fislisbach, Freienwil, Gebenstorf, Hausen (AG), Lupfig, Mägenwil, Mellingen, Mülligen, Neuenhof, Niederrohrdorf, Oberrohrdorf, Obersiggenthal, Remigen, Riniken, Untersiggenthal, Villigen, Wettingen, Windisch, Würenlingen
 
 ### Basel
 
@@ -362,11 +412,11 @@ Anhang[^t-1]
 
 ### Bern
 
-*Gemeinden:* Allmendingen, Belp, Bern, Biglen, Bolligen, Bremgarten bei Bern, Bäriswil, Bösingen, Diemerswil, Fraubrunnen, Frauenkappelen, Gerzensee, Grosshöchstetten, Hindelbank, Ittigen, Jaberg, Jegenstorf, Kaufdorf, Kehrsatz, Kiesen, Kirchdorf (BE), Kirchlindach, Konolfingen, Köniz, Laupen, Mattstetten, Meikirch, Moosseedorf, Muri bei Bern, Münchenbuchsee, Münsingen, Neuenegg, Oppligen, Ostermundigen, Rubigen, Schmitten (FR), Schüpfen, Stettlen, Thurnen, Toffen, Ueberstorf, Urtenen–Schönbühl, Uttigen, Vechigen, Wichtrach, Wohlen bei Bern, Worb, Wünnewil–Flamatt, Zollikofen, Zäziwil
+*Gemeinden:* Allmendingen, Belp, Bern, Biglen, Bolligen, Bremgarten bei Bern, Bäriswil, Bösingen, Fraubrunnen, Frauenkappelen, Gerzensee, Grosshöchstetten, Hindelbank, Ittigen, Jaberg, Jegenstorf, Kaufdorf, Kehrsatz, Kiesen, Kirchdorf (BE), Kirchlindach, Konolfingen, Köniz, Laupen, Mattstetten, Meikirch, Moosseedorf, Muri bei Bern, Münchenbuchsee, Münsingen, Neuenegg, Oppligen, Ostermundigen, Rubigen, Schmitten (FR), Schüpfen, Stettlen, Thurnen, Toffen, Ueberstorf, Urtenen–Schönbühl, Uttigen, Vechigen, Wichtrach, Wohlen bei Bern, Worb, Wünnewil–Flamatt, Zollikofen, Zäziwil
 
 ### Biel/Bienne
 
-*Gemeinden:* Aegerten, Bellmund, Biel/Bienne, Brügg, Evilard, Ipsach, Jens, Meinisberg, Mörigen, Nidau, Orpund, Orvin, Pieterlen, Port, Péry-La Heutte, Safnern, Sauge, Scheuren, Schwadernau, Studen (BE), Sutz–Lattrigen, Twann–Tüscherz, Worben
+*Gemeinden:* Aegerten, Bellmund, Biel/Bienne, Brügg, Evilard, Ipsach, Jens, Meinisberg, Mörigen, Nidau, Orpund, Orvin, Pieterlen, Port, Péry-La Heutte, Safnern, Sauge, Scheuren, Schwadernau, Studen (BE), Sutz–Lattrigen, Täuffelen, Twann–Tüscherz, Worben
 
 ### Brig-Visp
 
@@ -388,13 +438,13 @@ Anhang[^t-1]
 
 ### Chiasso–Mendrisio
 
-*Gemeinden:* Balerna, Breggia, Brusino Arsizio, Castel San Pietro, Chiasso, Coldrerio, Mendrisio, Morbio Inferiore, Novazzano, Riva San Vitale, Stabio, Vacallo
+*Gemeinden:* Arogno, Balerna, Breggia, Brusino Arsizio, Castel San Pietro, Chiasso, Coldrerio, Mendrisio, Morbio Inferiore, Novazzano, Riva San Vitale, Stabio, Vacallo
 
 *Ausländische Gemeinden:* Albavilla, Albese con Cassano, Albiolo, Alserio, Alzate Brianza, Anzano del Parco, Beregazzo con Figliaro, Binago, Bizzarone, Blevio, Brienno, Brunate, Bulgarograsso, Capiago Intimiano, Carate Urio, Casnate con Bernate, Cassina Rizzardi, Cernobbio, Clivio, Colverde, Como, Faggeto Lario, Faloppio, Fino Mornasco, Grandate, Laglio, Lipomo, Luisago, Lurate Caccivio, Maslianico, Moltrasio, Montano Lucino, Montorfano, Nesso, Olgiate Comasco, Oltrona di San Mamette, Orsenigo, Pognana Lario, Rodero, Ronago, Saltrio, San Fermo della Battaglia, Senna Comasco, Solbiate con Cagno, Tavernerio, Torno, Uggiate–Trevano, Valmorea, Viggiù, Villa Guardia
 
 ### Chur
 
-*Gemeinden:* Bonaduz, Chur, Churwalden, Domat/Ems, Felsberg, Landquart, Maienfeld, Malans, Rhäzüns, Tamins, Trimmis, Trin, Untervaz, Zizers
+*Gemeinden:* Bonaduz, Chur, Churwalden, Domat/Ems, Felsberg, Flims, Landquart, Maienfeld, Malans, Rhäzüns, Tamins, Trimmis, Trin, Untervaz, Zizers
 
 ### Davos
 
@@ -414,7 +464,7 @@ Anhang[^t-1]
 
 ### Fribourg
 
-*Gemeinden:* Avry, Belfaux, Bois-d’Amont, Chénens, Corminboeuf, Cottens (FR), Courtepin, Düdingen, Ferpicloz, Fribourg, Gibloux, Giffers, Givisiez, Granges–Paccot, Grolley, Hauterive (FR), La Brillaz, La Sonnaz, Le Mouret, Marly, Matran, Misery–Courtion, Neyruz (FR), Pierrafortscha, Prez, St. Ursen, Tafers, Tentlingen, Villars–sur–Glâne, Villarsel–sur–Marly
+*Gemeinden:* Avry, Belfaux, Bois-d’Amont, Chénens, Corminboeuf, Cottens (FR), Courtepin, Düdingen, Ferpicloz, Fribourg, Gibloux, Giffers, Givisiez, Granges–Paccot, Grolley-Ponthaux, Hauterive (FR), La Brillaz, La Sonnaz, Le Mouret, Marly, Matran, Misery–Courtion, Neyruz (FR), Pierrafortscha, Prez, St. Ursen, Tafers, Tentlingen, Villars–sur–Glâne, Villarsel–sur–Marly
 
 ### Genève
 
@@ -474,7 +524,7 @@ Anhang[^t-1]
 
 ### Luzern
 
-*Gemeinden:* Adligenswil, Buchrain, Dierikon, Ebikon, Emmen, Eschenbach (LU), Gisikon, Hergiswil (NW), Honau, Horw, Inwil, Kriens, Küssnacht (SZ), Luzern, Malters, Meggen, Neuenkirch, Oberkirch, Rain, Root, Rothenburg, Schenkon, Sempach, Sursee, Udligenswil
+*Gemeinden:* Adligenswil, Buchrain, Dierikon, Ebikon, Emmen, Gisikon, Hergiswil (NW), Horw, Inwil, Kriens, Küssnacht (SZ), Luzern, Malters, Meggen, Neuenkirch, Oberkirch, Root, Rothenburg, Schenkon, Sempach, Sursee, Udligenswil
 
 ### Lyss
 
@@ -482,7 +532,11 @@ Gemeinden: Lyss
 
 ### Martigny
 
-*Gemeinden:* Fully, Martigny, Martigny–Combe
+*Gemeinden:* Fully, Martigny, Martigny–Combe, Riddes, Saxon
+
+### Mels-Sargans
+
+*Gemeinden:* Mels, Sargans, Vilters-Wangs
 
 ### Monthey
 
@@ -490,7 +544,7 @@ Gemeinden: Lyss
 
 ### Neuchâtel
 
-*Gemeinden:* Boudry, Cornaux, Cortaillod, Cressier (NE), Hauterive (NE), La Grande Béroche, La Tène, Le Landeron, Milvignes, Neuchâtel, Rochefort, Saint–Blaise, Val–de–Ruz
+*Gemeinden:* Boudry, Cornaux, Cortaillod, Cressier (NE), La Grande Béroche, Laténa, Le Landeron, Milvignes, Neuchâtel, Rochefort, Val–de–Ruz
 
 ### Olten–Zofingen
 
@@ -498,7 +552,11 @@ Gemeinden: Lyss
 
 ### Rapperswil-Jona–Rüti
 
-*Gemeinden:* Dürnten, Eschenbach (SG), Rapperswil–Jona, Rüti (ZH), Schmerikon, Uznach
+*Gemeinden:* Dürnten, Eschenbach (SG), Kaltbrunn, Rapperswil–Jona, Rüti (ZH), Schmerikon, Uznach
+
+### Reinach (AG)
+
+*Gemeinden:* Beinwil am See, Menziken, Reinach (AG)
 
 ### Rheintal
 

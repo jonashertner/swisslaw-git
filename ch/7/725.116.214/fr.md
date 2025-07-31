@@ -4,11 +4,11 @@ title: "Ordonnance du DETEC du 20 décembre 2019 concernant le programme en fave
 short: OPTA
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/13"
 language: fr
-version: 2023-01-01
+version: 2025-08-01
 adopted: 2019-12-20
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/13/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-13-20230101-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/13/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/13/20250801/fr/xml/fedlex-data-admin-ch-eli-cc-2020-13-20250801-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/13/20250801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,17 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/13/20230101/fr"
 
 (OPTA)
 
-du 20 décembre 2019 (État le 1<sup>er</sup> janvier 2023)
+du 20 décembre 2019 (État le 1<sup>er</sup> août 2025)
 
 Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC),
 
-vu l’art.17*e*, al. 2, de la loi fédérale du 22 mars 1985 concernant l’utilisation de l’impôt sur les huiles minérales à affectation obligatoire et des autres moyens affectés à la circulation routière et au trafic aérien (LUMin)[^ingress-1], vu les art. 18*a*, al. 3, 19, al. 2, et 21*a*, al. 2 et 3, de l’ordonnance du 7 novembre 2007 concernant l’utilisation de l’impôt sur les huiles minérales à affectation obligatoire et des autres moyens affectés à la circulation routière (OUMin)[^ingress-2],[^ingress-3]
+vu l’art. 17*e*, al. 2, de la loi fédérale du 22 mars 1985 concernant l’utilisation de l*’*impôt sur les huiles minérales à affectation obligatoire et des autres moyens affectés à la circulation routière et au trafic aérien (LUMin)[^ingress-1], vu les art. 18*a*, al. 3, 19, al. 2, 21*a*, al. 2 et 3, et 21*b*, al. 3, de l’ordonnance du 7 novembre 2007[^ingress-2] concernant l’utilisation de l’impôt sur les huiles minérales à affectation obligatoire et des autres moyens affectés à la circulation routière (OUMin),[^ingress-3]
 
 arrête:
 
-[^ingress-1]: [RS 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
-[^ingress-2]: [RS 725.116.21](https://fedlex.data.admin.ch/eli/cc/2007/797)
-[^ingress-3]: Nouvelle teneur selon le ch. I de l’O du DETEC du 25 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 562](https://fedlex.data.admin.ch/eli/oc/2021/562)).
+[^ingress-1]: [RS 725.116.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8462)
+[^ingress-2]: [RS 725.116.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8463)
+[^ingress-3]: Nouvelle teneur selon le ch. I de l’O du DETEC du 24 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
 
 ## Section 1 Communes ayant droit aux contributions
 
@@ -86,6 +86,16 @@ La partie principale doit au moins contenir les modules suivants:
 
 <sup>2</sup> Les modules visés à l’al. 1, let. a, b, d et e, doivent être complétés par des représentations cartographiques.
 
+<sup>3</sup> Pour les projets d’agglomération à partir de la sixième génération, les modules visés à l’al. 1, let. a à d, doivent tenir compte du paysage tant dans le domaine des transports que dans celui de l’urbanisation.[^2-1]
+
+<sup>4</sup> Si un organisme responsable a soumis un projet d’agglomération et qu’il soumet un autre projet d’agglomération pour la génération suivante, les modules visés à l’al. 1, let. c, e et f, doivent au moins être révisés.[^2-2]
+
+<sup>5</sup> Si un projet d’agglomération définit une priorité géographique ou thématique, il doit être prouvé que la condition prévue à l’art. 18*a*, al. 2, 2<sup>e</sup> phrase, OUMin est remplie. La priorité doit être prise en compte dans les modules visés à l’al. 1, let. a à e.[^2-3]
+
+[^2-1]: Introduit par le ch. I de l’O du DETEC du 24 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
+[^2-2]: Introduit par le ch. I de l’O du DETEC du 24 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
+[^2-3]: Introduit par le ch. I de l’O du DETEC du 24 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
+
 #### Art. 3
 
 **Partie relative aux mesures**
@@ -105,7 +115,13 @@ La partie relative aux mesures doit au moins contenir les éléments suivants:
 
 Le projet d’agglomération doit contenir des mesures dans les catégories suivantes:
 
-- a. des mesures d’infrastructure de transport pour lesquelles l’organisme responsable sollicite des contributions fédérales au sens des art. 21 ou 21*a* OUMin;
+- a.[^4-1]
+
+  des mesures d’infrastructure de transport pour lesquelles l’organisme responsable sollicite:
+
+  - 1\. des contributions fédérales au sens de l’art. 21 OUMin, ou
+  - 2\. des contributions fédérales au sens de l’art. 21*a* OUMin pour des projets d’agglomération de la troisième, de la quatrième ou de la cinquième génération du programme en faveur du trafic d’agglomération ou des contributions fédérales au sens de l’art. 21*b* OUMin pour des projets d’agglomération à partir de la sixième génération;
+
 - b. des mesures de transport qui ne sont pas cofinancées par la Confédération;
 - c. des mesures d’urbanisation.
 
@@ -122,6 +138,11 @@ Chaque mesure d’infrastructure de transport doit contenir des indications sur 
 - e. mesure prête à être réalisée et financée.
 
 <sup>4</sup> S’il s’agit d’une mesure d’infrastructure de transport à l’étranger, il faut en outre indiquer si l’on peut en attendre une utilité déterminante en Suisse.
+
+<sup>5</sup> Les frais imputables pour une mesure modeste selon l’art. 21*b* OUMin ne doivent pas dépasser cinq millions de francs.[^4-2]
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 24 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
+[^4-2]: Introduit par le ch. I de l’O du DETEC du 24 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
 
 #### Art. 5
 
@@ -214,6 +235,15 @@ Pour l’examen des projets d’agglomération, l’ARE consulte l’Office féd
 
 <sup>3</sup> Les mesures déterminantes pour l’évaluation de l’état de la mise en œuvre sont les mesures A figurant dans l’accord sur les prestations de l’avant-dernière génération.
 
+<sup>4</sup>
+
+Si un projet d’agglomération comprend un paquet de mesures modestes, sa qualité de conception est évaluée, en plus du rapport coût-utilité et de l’état de la mise en œuvre, selon les critères suivants:
+
+- a. intégration systématique des mesures modestes dans la planification globale des transports;
+- b. effet du paquet sur le projet d’agglomération.[^14-1]
+
+[^14-1]: Introduit par le ch. I de l’O du DETEC du 24 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
+
 #### Art. 15
 
 **Rapport d’examen**
@@ -260,11 +290,23 @@ L’exécution d’un projet de construction doit débuter au plus tard:
 - a. pour les projets d’agglomération de troisième génération pour lesquels l’Assemblée fédérale arrête des crédits d’engagement à partir de 2019: six ans et trois mois après l’adoption de l’arrêté fédéral correspondant;
 - b. pour les projets d’agglomération à partir de la quatrième génération: cinq ans et trois mois après l’adoption de l’arrêté fédéral correspondant.
 
-<sup>2</sup> Dans des cas exceptionnels dûment motivés, l’ARE peut accorder un délai supplémentaire de trois ans.
+<sup>2</sup> Dans des cas exceptionnels dûment motivés, l’ARE peut accorder un délai supplémentaire de trois ans pour les projets d’agglomération à partir de la troisième génération. Celui-ci peut être prolongé si le début de l’exécution d’un projet de construction lié à une mesure d’infrastructure de transport d’importance centrale est repoussé en raison d’un retard de planification d’infrastructures de la Confédération.[^18-1]
 
 <sup>3</sup> En cas de procédure de recours ou de référendum à l’encontre d’un projet de construction, le délai est suspendu pour cette mesure jusqu’à ce qu’une décision soit rendue et entrée en force. Cette règle s’applique aussi aux mesures dépendant directement de la mesure touchée par la suspension du délai.
 
-<sup>4</sup> Les al. 2 et 3 ne s’appliquent pas aux mesures bénéficiant de contributions fédérales forfaitaires.
+<sup>3bis</sup> L’exécution des projets de construction liés à une mesure d’infrastructure de transport de la première ou de la deuxième génération pour laquelle l’ARE a accordé une prolongation de l’accord sur les prestations selon l’art. 24*a* OUMin doit débuter d’ici à fin 2032.[^18-2]
+
+<sup>4</sup>
+
+Les al. 2 et 3 ne s’appliquent pas:
+
+- a. aux mesures des projets d’agglomération de la première ou de la deuxième génération pour lesquelles l’ARE a prolongé l’accord sur les prestations conformément à l’art. 24*a* OUMin;
+- b. aux mesures bénéficiant de contributions fédérales forfaitaires;
+- c. aux mesures modestes.[^18-3]
+
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 24 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
+[^18-2]: Introduit par le ch. I de l’O du DETEC du 24 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
+[^18-3]: Nouvelle teneur selon le ch. I de l’O du DETEC du 24 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
 
 #### Art. 19
 
@@ -288,7 +330,15 @@ Il communique à l’ARE tous les quatre ans, selon les consignes de ce dernier,
 - d. nombre d’emplois selon la classe de desserte en transport public;
 - e. densité des zones d’habitation, mixtes et centrales bâties.
 
-<sup>3</sup> L’organisme responsable remet à l’ARE tous les quatre ans des tableaux de mise en œuvre au sens de l’art. 1, let. c. Il le fait même s’il ne dépose pas de projet d’agglomération dans la génération actuelle.
+<sup>2bis</sup> À partir de la sixième génération du programme en faveur du trafic d’agglomération, le nombre d’habitants, majoré de la moitié du nombre d’emplois selon la classe de desserte en transport public, est pris comme indicateur en lieu et place des indicateurs visés à l’al. 2, let. c et d.[^20-1]
+
+<sup>2ter</sup> À partir de la sixième génération du programme en faveur du trafic d’agglomération, l’organisme responsable informe l’ARE tous les quatre ans, selon les consignes de ce dernier, sur les mesures d’infrastructure de transport déjà mises en œuvre qui ont été cofinancées dans le cadre du programme en faveur du trafic d’agglomération et qui contribuent de manière significative à la réalisation des objectifs.[^20-2]
+
+<sup>3</sup> Il remet à l’ARE tous les quatre ans des tableaux de mise en œuvre au sens de l’art. 1*b*, let. c. Il le fait même s’il ne dépose pas de projet d’agglomération dans la génération en cours.[^20-3]
+
+[^20-1]: Introduit par le ch. I de l’O du DETEC du 24 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
+[^20-2]: Introduit par le ch. I de l’O du DETEC du 24 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
+[^20-3]: Nouvelle teneur selon le ch. I de l’O du DETEC du 24 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
 
 ## Section 5 Dispositions finales
 
@@ -324,7 +374,7 @@ Annexe[^t-1]
 
 ## Communes ayant droit à des contributions
 
-[^t-1]: Introduite par le ch. II de l’O du DETEC du 25 août 2021 ([RO 2021 562](https://fedlex.data.admin.ch/eli/oc/2021/562)). Mise à jour par le ch. I de l’O du DETEC du 27 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 669](https://fedlex.data.admin.ch/eli/oc/2022/669)).
+[^t-1]: Introduite par le ch. II de l’O du DETEC du 25 août 2021 ([RO 2021 562](https://fedlex.data.admin.ch/eli/oc/2021/562)). Mise à jour par le ch. I de l’O du DETEC du 27 oct. 2022 ([RO 2022 669](https://fedlex.data.admin.ch/eli/oc/2022/669)) et le ch. II de l’O du DETEC du 24 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 446](https://fedlex.data.admin.ch/eli/oc/2025/446)).
 
 ### Aarau
 
@@ -348,7 +398,7 @@ Annexe[^t-1]
 
 ### Baden–Brugg
 
-*Communes:* Baden, Birmenstorf (AG), Birr, Birrhard, Brugg, Brunegg, Ennetbaden, Fislisbach, Freienwil, Gebenstorf, Hausen (AG), Lupfig, Mägenwil, Mellingen, Mülligen, Neuenhof, Niederrohrdorf, Oberrohrdorf, Obersiggenthal, Remigen, Riniken, Turgi, Untersiggenthal, Villigen, Wettingen, Windisch, Würenlingen
+*Communes:* Baden, Birmenstorf (AG), Birr, Birrhard, Brugg, Brunegg, Ennetbaden, Fislisbach, Freienwil, Gebenstorf, Hausen (AG), Lupfig, Mägenwil, Mellingen, Mülligen, Neuenhof, Niederrohrdorf, Oberrohrdorf, Obersiggenthal, Remigen, Riniken, Untersiggenthal, Villigen, Wettingen, Windisch, Würenlingen
 
 ### Basel
 
@@ -362,11 +412,11 @@ Annexe[^t-1]
 
 ### Bern
 
-*Communes:* Allmendingen, Belp, Bern, Biglen, Bolligen, Bremgarten bei Bern, Bäriswil, Bösingen, Diemerswil, Fraubrunnen, Frauenkappelen, Gerzensee, Grosshöchstetten, Hindelbank, Ittigen, Jaberg, Jegenstorf, Kaufdorf, Kehrsatz, Kiesen, Kirchdorf (BE), Kirchlindach, Konolfingen, Köniz, Laupen, Mattstetten, Meikirch, Moosseedorf, Muri bei Bern, Münchenbuchsee, Münsingen, Neuenegg, Oppligen, Ostermundigen, Rubigen, Schmitten (FR), Schüpfen, Stettlen, Thurnen, Toffen, Ueberstorf, Urtenen–Schönbühl, Uttigen, Vechigen, Wichtrach, Wohlen bei Bern, Worb, Wünnewil–Flamatt, Zollikofen, Zäziwil
+*Communes:* Allmendingen, Belp, Bern, Biglen, Bolligen, Bremgarten bei Bern, Bäriswil, Bösingen, Fraubrunnen, Frauenkappelen, Gerzensee, Grosshöchstetten, Hindelbank, Ittigen, Jaberg, Jegenstorf, Kaufdorf, Kehrsatz, Kiesen, Kirchdorf (BE), Kirchlindach, Konolfingen, Köniz, Laupen, Mattstetten, Meikirch, Moosseedorf, Muri bei Bern, Münchenbuchsee, Münsingen, Neuenegg, Oppligen, Ostermundigen, Rubigen, Schmitten (FR), Schüpfen, Stettlen, Täuffelen, Thurnen, Toffen, Ueberstorf, Urtenen–Schönbühl, Uttigen, Vechigen, Wichtrach, Wohlen bei Bern, Worb, Wünnewil–Flamatt, Zollikofen, Zäziwil
 
 ### Biel/Bienne
 
-*Communes:* Aegerten, Bellmund, Biel/Bienne, Brügg, Evilard, Ipsach, Jens, Meinisberg, Mörigen, Nidau, Orpund, Orvin, Pieterlen, Port, Péry-La Heutte, Safnern, Sauge, Scheuren, Schwadernau, Studen (BE), Sutz–Lattrigen, Twann–Tüscherz, Worben
+*Communes:* Aegerten, Bellmund, Biel/Bienne, Brügg, Evilard, Ipsach, Jens, Meinisberg, Mörigen, Nidau, Orpund, Orvin, Pieterlen, Port, Péry-La Heutte, Safnern, Sauge, Scheuren, Schwadernau, Studen (BE), Sutz–Lattrigen, Täuffelen, Twann–Tüscherz, Worben
 
 ### Brig–Visp
 
@@ -388,13 +438,13 @@ Annexe[^t-1]
 
 ### Chiasso–Mendrisio
 
-*Communes:* Balerna, Breggia, Brusino Arsizio, Castel San Pietro, Chiasso, Coldrerio, Mendrisio, Morbio Inferiore, Novazzano, Riva San Vitale, Stabio, Vacallo
+*Communes:* Arogno, Balerna, Breggia, Brusino Arsizio, Castel San Pietro, Chiasso, Coldrerio, Mendrisio, Morbio Inferiore, Novazzano, Riva San Vitale, Stabio, Vacallo
 
 *Communes étrangères:* Albavilla, Albese con Cassano, Albiolo, Alserio, Alzate Brianza, Anzano del Parco, Beregazzo con Figliaro, Binago, Bizzarone, Blevio, Brienno, Brunate, Bulgarograsso, Capiago Intimiano, Carate Urio, Casnate con Bernate, Cassina Rizzardi, Cernobbio, Clivio, Colverde, Como, Faggeto Lario, Faloppio, Fino Mornasco, Grandate, Laglio, Lipomo, Luisago, Lurate Caccivio, Maslianico, Moltrasio, Montano Lucino, Montorfano, Nesso, Olgiate Comasco, Oltrona di San Mamette, Orsenigo, Pognana Lario, Rodero, Ronago, Saltrio, San Fermo della Battaglia, Senna Comasco, Solbiate con Cagno, Tavernerio, Torno, Uggiate–Trevano, Valmorea, Viggiù, Villa Guardia
 
 ### Chur
 
-*Communes:* Bonaduz, Chur, Churwalden, Domat/Ems, Felsberg, Landquart, Maienfeld, Malans, Rhäzüns, Tamins, Trimmis, Trin, Untervaz, Zizers
+*Communes:* Bonaduz, Chur, Churwalden, Domat/Ems, Felsberg, Flims, Landquart, Maienfeld, Malans, Rhäzüns, Tamins, Trimmis, Trin, Untervaz, Zizers
 
 ### Davos
 
@@ -414,7 +464,7 @@ Annexe[^t-1]
 
 ### Fribourg
 
-*Communes:* Avry, Belfaux, Bois-d’Amont, Chénens, Corminboeuf, Cottens (FR), Courtepin, Düdingen, Ferpicloz, Fribourg, Gibloux, Giffers, Givisiez, Granges–Paccot, Grolley, Hauterive (FR), La Brillaz, La Sonnaz, Le Mouret, Marly, Matran, Misery–Courtion, Neyruz (FR), Pierrafortscha, Prez, St. Ursen, Tafers, Tentlingen, Villars–sur–Glâne, Villarsel–sur–Marly
+*Communes:* Avry, Belfaux, Bois-d’Amont, Chénens, Corminboeuf, Cottens (FR), Courtepin, Düdingen, Ferpicloz, Fribourg, Gibloux, Giffers, Givisiez, Granges–Paccot, Grolley-Ponthaux, Hauterive (FR), La Brillaz, La Sonnaz, Le Mouret, Marly, Matran, Misery–Courtion, Neyruz (FR), Pierrafortscha, Prez, St. Ursen, Tafers, Tentlingen, Villars–sur–Glâne, Villarsel–sur–Marly
 
 ### Genève
 
@@ -482,7 +532,11 @@ Commune: Lyss
 
 ### Martigny
 
-*Communes:* Fully, Martigny, Martigny–Combe
+*Communes:* Fully, Martigny, Martigny–Combe, Riddes, Saxon
+
+### Mels-Sargans
+
+*Communes:* Mels, Sargans, Vilters-Wangs
 
 ### Monthey
 
@@ -490,7 +544,7 @@ Commune: Lyss
 
 ### Neuchâtel
 
-*Communes:* Boudry, Cornaux, Cortaillod, Cressier (NE), Hauterive (NE), La Grande Béroche, La Tène, Le Landeron, Milvignes, Neuchâtel, Rochefort, Saint–Blaise, Val–de–Ruz
+*Communes:* Boudry, Cornaux, Cortaillod, Cressier (NE), La Grande Béroche, Le Landeron, Laténa, Milvignes, Neuchâtel, Rochefort, Val–de–Ruz
 
 ### Olten–Zofingen
 
@@ -498,7 +552,11 @@ Commune: Lyss
 
 ### Rapperswil-Jona–Rüti
 
-*Communes:* Dürnten, Eschenbach (SG), Rapperswil–Jona, Rüti (ZH), Schmerikon, Uznach
+*Communes:* Dürnten, Eschenbach (SG), Kaltbrunn, Rapperswil–Jona, Rüti (ZH), Schmerikon, Uznach
+
+### Reinach (AG)
+
+*Communes:* Beinwil am See, Menziken, Reinach (AG)*.*
 
 ### Rheintal
 
