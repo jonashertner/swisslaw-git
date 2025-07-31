@@ -4,11 +4,11 @@ title: "Loi fédérale du 4 octobre 1991 sur les forêts (Loi sur les forêts, L
 short: LFo
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521"
 language: fr
-version: 2025-01-01
+version: 2025-08-01
 adopted: 1991-10-04
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1992-2521_2521_2521-20250101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521/20250801/fr/xml/fedlex-data-admin-ch-eli-cc-1992-2521_2521_2521-20250801-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/20250801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/20250101/fr"
 
 (Loi sur les forêts, LFo)[^t-1]
 
-du 4 octobre 1991 (État le 1<sup>er</sup> janvier 2025)
+du 4 octobre 1991 (État le 1<sup>er</sup> août 2025)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -29,7 +29,7 @@ vu le message du Conseil fédéral du 29 juin 1988[^ingress-3],
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 [^ingress-3]: [FF 1988 III 157](https://fedlex.data.admin.ch/eli/fga/1988/3_173_157_137)
 
@@ -123,8 +123,8 @@ En forêt, les installations éoliennes et leurs chemins de desserte sont consid
 <sup>2</sup> Pour les installations éoliennes situées en dehors d’objets visés à l’art. 5 LPN, la pesée des intérêts se fonde sur l’art. 3 LPN.
 
 [^5a-1]: Introduit par le ch. IV de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
-[^5a-2]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^5a-3]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+[^5a-2]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^5a-3]: [RS 922.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10979)
 
 #### Art. 6
 
@@ -172,7 +172,7 @@ Il est possible de renoncer à la compensation du défrichement:
 
 [^7-1]: Nouvelle teneur selon le ch. I de la LF du 16 mars 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1981](https://fedlex.data.admin.ch/eli/oc/2013/418); [FF 2011 4085](https://fedlex.data.admin.ch/eli/fga/2011/666)[4115](https://fedlex.data.admin.ch/eli/fga/2011/668)).
 [^7-2]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4775](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
-[^7-3]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^7-3]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 #### Art. 8
 
@@ -186,7 +186,7 @@ Il est possible de renoncer à la compensation du défrichement:
 
 Les cantons veillent à ce que les avantages considérables résultant de l’octroi d’autorisations de défrichement, qui ne sont pas traités selon l’art. 5 de la loi fédérale du 22 juin 1979 sur l’aménagement du territoire[^9-1] soient équitablement compensés.
 
-[^9-1]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^9-1]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 10
 
@@ -203,7 +203,7 @@ Lors de l’édiction et de la révision des plans d’affectation au sens de la
 
 <sup>3</sup> Lorsqu’une telle demande est liée à une demande de défrichement, la compétence est réglée à l’art. 6. L’autorité fédérale compétente décide sur demande de l’autorité cantonale compétente.[^10-3]
 
-[^10-1]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^10-1]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 [^10-2]: Nouvelle teneur selon le ch. I de la LF du 16 mars 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1981](https://fedlex.data.admin.ch/eli/oc/2013/418); [FF 2011 4085](https://fedlex.data.admin.ch/eli/fga/2011/666)[4115](https://fedlex.data.admin.ch/eli/fga/2011/668)).
 [^10-3]: Phrase introduite par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4775](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
@@ -217,7 +217,7 @@ Lors de l’édiction et de la révision des plans d’affectation au sens de la
 
 <sup>2</sup> Lorsqu’un projet de construction exige aussi bien une autorisation de défrichement qu’une autorisation exceptionnelle de construire en dehors de la zone à bâtir, cette dernière ne peut être octroyée que d’entente avec l’autorité compétente selon l’art. 6.
 
-[^11-1]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^11-1]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 12
 
@@ -298,9 +298,11 @@ L’utilisation en forêt de substances dangereuses pour l’environnement est i
 
 #### Art. 19
 
-Là où la protection de la population ou des biens d’une valeur notable l’exige, les cantons doivent assurer la sécurité des zones d’avalanches, de glissements de terrain, d’érosion et de chutes de pierres et veiller à l’endiguement forestier des torrents.[^19-1] Des méthodes aussi respectueuses que possible de la nature doivent être utilisées.
+[^19-1]
 
-[^19-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4775](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+Là où la protection de la population ou des biens d’une valeur considérable l’exige, les cantons assurent la sécurité des zones d’avalanches, de glissements de terrain, d’érosion et de chutes de pierres et veillent à l’endiguement forestier des torrents. Ils veillent à ce que les mesures soient planifiées selon une approche intégrée fondée sur les risques, et à ce que des méthodes aussi respectueuses que possible de la nature soient utilisées.
+
+[^19-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 ## Chapitre 4 Entretien et exploitation des forêts
 
@@ -366,7 +368,7 @@ Aux fins de garantir la sécurité au travail, les mandataires doivent justifier
 
 <sup>2</sup> Lorsque la vente ou le partage sont aussi soumis à autorisation en vertu de la loi fédérale du 4 octobre 1991 sur le droit foncier rural[^25-1], les cantons veillent à ce que les procédures d’autorisation soient réunies et aboutissent à une seule décision.
 
-[^25-1]: [RS 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+[^25-1]: [RS 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
 
 ### Section 2 Prévention et réparation des dégâts aux forêts
 
@@ -537,24 +539,26 @@ Les subventions d’encouragement au sens de la présente loi sont allouées dan
 
 #### Art. 36
 
-**Protection contre les catastrophes naturelles**
+**Protection contre les catastrophes naturelles**[^36-1]
 
-<sup>1</sup>
+<sup>1</sup> La Confédération alloue aux cantons, sur la base de conventions-programmes, des indemnités globales pour les études de base et les mesures nécessaires à la protection contre les catastrophes naturelles du point de vue de l’aménagement du territoire, de l’organisation, de la biologie ou de la technique.
 
-La Confédération alloue aux cantons, sur la base de conventions-programmes, des indemnités globales pour les mesures destinées à protéger la population et les biens d’une valeur notable contre les catastrophes naturelles, notamment:[^36-1]
+<sup>2</sup>
 
-- a.[^36-2] la construction, la remise en état et le remplacement d’ouvrages et d’installations de protection;
-- b. la création et le traitement de jeunes peuplements ayant une fonction protectrice particulière;
-- c. l’établissement de cadastres et de cartes des dangers, l’aménagement et l’exploitation de stations de mesures ainsi que la mise sur pied de services d’alerte, pour assurer la sécurité des agglomérations et des voies de communication.
+Elle alloue des indemnités notamment pour:
 
-<sup>2</sup> Exceptionnellement, elle peut allouer par voie de décision des indemnités pour des projets impliquant une évaluation individuelle de sa part.[^36-3]
+- a. l’élaboration d’études de bases telles que des analyses d’événements, des cadastres, des cartes des dangers, des vues d’ensemble des risques et des planifications globales;
+- b. des mesures d’aménagement du territoire telles que des études visant à limiter les risques ou encore le déplacement d’ouvrages et d’installations menacés vers des lieux sûrs;
+- c. des mesures d’organisation telles que l’installation de dispositifs d’alerte, l’élaboration de plans d’intervention et la mise en place de dispositions techniques facilitant les interventions d’urgence;
+- d. des mesures biologiques telles que la création et le traitement de jeunes peuplements ayant une fonction protectrice;
+- e. des mesures techniques telles que l’entretien, la remise en état, le renforcement, le remplacement et la construction d’ouvrages et d’installations de protection;
+- f. des mesures telles que la réparation de dommages causés par des événements dans des espaces de délestage.
 
-<sup>3</sup> Le montant des indemnités dépend de la mise en danger par des catastrophes naturelles, ainsi que du coût et de l’efficacité des mesures.[^36-4]
+<sup>3</sup> Exceptionnellement, elle peut allouer par voie de décision des indemnités pour des projets impliquant une évaluation au cas par cas de sa part.
 
-[^36-1]: Nouvelle teneur selon le ch. II 30 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^36-2]: Nouvelle teneur selon le ch. II 30 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^36-3]: Introduit par le ch. II 30 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^36-4]: Introduit par le ch. II 30 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+<sup>4</sup> Le montant des indemnités est déterminé en fonction du risque lié aux catastrophes naturelles, ainsi que du coût et de l’efficacité des mesures.
+
+[^36-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 #### Art. 37
 
@@ -662,7 +666,7 @@ Les aides financières sont allouées:
 
 <sup>3</sup> …[^39-4]
 
-[^39-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^39-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 [^39-2]: Nouvelle teneur selon l’annexe ch. II 6 de la LF du 13 déc. 2002 sur la formation professionnelle, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)).
 [^39-3]: Nouvelle teneur selon l’annexe ch. II 6 de la LF du 13 déc. 2002 sur la formation professionnelle, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)).
 [^39-4]: Abrogé par le ch. I de la LF du 18 mars 2016, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4775](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
@@ -706,15 +710,32 @@ La Confédération peut consentir des prêts remboursables, sans intérêt ou à
 
 #### Art. 41a
 
+**Désignation de l’origine[^41a-1]**
+
 <sup>1</sup> Le Conseil fédéral peut édicter des prescriptions sur la désignation facultative indiquant l’origine des produits sylvicoles et des produits sylvicoles transformés, pour en promouvoir la qualité et l’écoulement.
 
-<sup>2</sup> L’enregistrement, la protection des appellations, les procédures et les voies de droit sont régies par la loi du 29 avril 1998 sur l’agriculture[^41a-1].[^41a-2]
+<sup>2</sup> L’enregistrement, la protection des appellations, les procédures et les voies de droit sont régies par la loi du 29 avril 1998 sur l’agriculture[^41a-2].[^41a-3]
 
-<sup>3</sup> Le Conseil fédéral peut déléguer le contrôle à des tiers.[^41a-3]
+<sup>3</sup> Le Conseil fédéral peut déléguer le contrôle à des tiers.[^41a-4]
 
-[^41a-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^41a-2]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3851](https://fedlex.data.admin.ch/eli/fga/2020/881)).
-[^41a-3]: Introduit par l’annexe ch. 2 de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3851](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^41a-1]: Introduit par le ch. I de la LF du 27 sept. 2024, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 403](https://fedlex.data.admin.ch/eli/oc/2025/403); [FF 2024 971](https://fedlex.data.admin.ch/eli/fga/2024/971), [1126](https://fedlex.data.admin.ch/eli/fga/2024/1126)).
+[^41a-2]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^41a-3]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3851](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^41a-4]: Introduit par l’annexe ch. 2 de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3851](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+
+#### Art. 41b
+
+**Prix indicatifs pour le bois brut**[^41b-1]
+
+<sup>1</sup> Les organisations de propriétaires de forêt peuvent publier, à l’échelon national ou régional, des prix indicatifs pour le bois brut fixés d’un commun accord par les fournisseurs et les acquéreurs.
+
+<sup>2</sup> Les prix indicatifs doivent être modulés selon les essences, les assortiments et les niveaux de qualité.
+
+<sup>3</sup> Ils ne peuvent être imposés aux entreprises.
+
+<sup>4</sup> Il ne doit pas être fixé de prix indicatifs pour les prix à la consommation.
+
+[^41b-1]: Introduit par le ch. I de la LF du 27 sept. 2024, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 403](https://fedlex.data.admin.ch/eli/oc/2025/403); [FF 2024 971](https://fedlex.data.admin.ch/eli/fga/2024/971), [1126](https://fedlex.data.admin.ch/eli/fga/2024/1126)).
 
 ## Chapitre 6 Dispositions pénales
 
@@ -732,7 +753,7 @@ La personne qui intentionnellement:
 
 <sup>2</sup> Si le délinquant agit par négligence, il est passible d’une amende de 40 000 francs au plus.
 
-[^42-1]: Nouvelle teneur du par. selon l’art. 333 du CP ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
+[^42-1]: Nouvelle teneur du par. selon l’art. 333 du CP ([RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)), dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
 
 #### Art. 43
 
@@ -757,9 +778,9 @@ La personne qui intentionnellement et sans autorisation:
 
 <sup>4</sup> Les cantons peuvent considérer les infractions au droit cantonal comme des contraventions.
 
-[^43-1]: Nouvelle teneur du par. selon l’art. 333 du CP ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
-[^43-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^43-3]: [RS **6** 469; [RO 1956 635](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639), [1959 1397](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)art. 11 ch. III, [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644), [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)annexe ch. 7, [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)ch. I 1, [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)ch. III, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)ch. I 3, [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)annexe 2 ch. 2, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)appendice ch. 13, [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92 [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)ch. VI 6, [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)ch. I 1 art. 41, [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)annexe ch. II 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 50. [RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)art. 131 al. 1]. Voir actuellement la LF du 18 mars 2005 sur les douanes ([RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
+[^43-1]: Nouvelle teneur du par. selon l’art. 333 du CP ([RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)), dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
+[^43-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^43-3]: [[RS 6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7743)469; [RO 1956 635](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639), [1959 1397](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)art. 11 ch. III, [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644), [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)annexe ch. 7, [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)ch. I 1, [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)ch. III, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)ch. I 3, [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)annexe 2 ch. 2, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)appendice ch. 13, [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92 [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)ch. VI 6, [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)ch. I 1 art. 41, [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)annexe ch. II 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 50. [RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)art. 131 al. 1]. Voir actuellement la LF du 18 mars 2005 sur les douanes ([RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)).
 
 #### Art. 44
 
@@ -767,7 +788,7 @@ La personne qui intentionnellement et sans autorisation:
 
 Si une contravention ou un délit est commis dans le cadre de la gestion d’une personne morale, d’une société de personnes, d’une entreprise individuelle ou dans le cadre de la gestion d’une collectivité ou d’un établissement de droit public, les art. 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^44-1] sont applicables.
 
-[^44-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^44-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 45
 
@@ -785,7 +806,7 @@ La poursuite pénale est du ressort des cantons.
 
 <sup>1</sup> La procédure de recours est régie par les dispositions générales de la procédure fédérale.[^46-1]
 
-<sup>1bis</sup> et <sup>1ter</sup> …[^46-2]
+<sup>1bis et <sup>1ter</sup></sup> …[^46-2]
 
 <sup>2</sup> L’office[^46-3] a qualité pour exercer les recours prévus par le droit fédéral ou par le droit cantonal pour contester les décisions prises par des autorités cantonales en ce qui concerne l’application de la présente loi et de ses dispositions d’exécution.
 
@@ -796,7 +817,7 @@ La poursuite pénale est du ressort des cantons.
 [^46-1]: Nouvelle teneur selon l’annexe ch. 127 de la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^46-2]: Introduits par l’annexe ch. 9 de la LF du 21 mars 2003 sur le génie génétique ([RO 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2283](https://fedlex.data.admin.ch/eli/fga/2000/484)). Abrogés par l’annexe ch. 127 de la L du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^46-3]: Nouvelle expression selon le ch. I 17 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
-[^46-4]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^46-4]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 [^46-5]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4775](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 [^46-6]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4775](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
@@ -806,7 +827,7 @@ La poursuite pénale est du ressort des cantons.
 
 Les autorisations délivrées et les autres décisions prises sur la base de la présente loi ne prennent effet que lorsqu’elles sont entrées en force. L’art. 12*e* de la loi fédérale du 1<sup>er</sup> juillet 1966 sur la protection de la nature et du paysage[^47-1] est réservé.[^47-2]
 
-[^47-1]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^47-1]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 [^47-2]: Phrase introduite par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4775](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 #### Art. 48
@@ -817,7 +838,7 @@ Les autorisations délivrées et les autres décisions prises sur la base de la 
 
 <sup>2</sup> Dans leurs dispositions d’exécution, les cantons peuvent déclarer applicable la loi fédérale du 20 juin 1930 sur l’expropriation[^48-1]; les recours en suspens restent cependant du ressort du gouvernement cantonal. La loi fédérale sur l’expropriation est applicable dans tous les cas où l’objet de l’expropriation s’étend sur le territoire de plusieurs cantons.
 
-[^48-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^48-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 48a
 
@@ -843,7 +864,7 @@ Les frais des mesures prises ou ordonnées par les autorités pour défendre la 
 
 [^49-1]: Nouvelle teneur selon le ch. I 17 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
 [^49-2]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4775](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
-[^49-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^49-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^49-4]: Phrase introduite par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4775](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 #### Art. 50
@@ -899,7 +920,7 @@ Sont abrogés:
 - c. l’arrêté fédéral du 21 décembre 1956 concernant la participation de la Confédération à la reconstitution des forêts atteintes par le chancre de l’écorce du châtaignier[^54-3];
 - d. l’arrêté fédéral du 23 juin 1988 sur des mesures extraordinaires pour la conservation de la forêt[^54-4].
 
-[^54-1]: [RS **9** 511; [RO 1954 573](https://fedlex.data.admin.ch/eli/oc/1954/559_573_455)ch. I 5; [1956 1297](https://fedlex.data.admin.ch/eli/oc/1956/1215_1297_1311); **1965** 321 art. 60; [1969 509](https://fedlex.data.admin.ch/eli/oc/1969/500_509_507); [1971 1191](https://fedlex.data.admin.ch/eli/oc/1971/1190_1191_1191); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)ch. I 11.[11](https://fedlex.data.admin.ch/eli/oc/1977/11_11_11); [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)ch. I 23; [1988 1696](https://fedlex.data.admin.ch/eli/oc/1988/1696_1696_1696)art. 7]
+[^54-1]: [[RS 9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10385)511; [RO 1954 573](https://fedlex.data.admin.ch/eli/oc/1954/559_573_455)ch. I 5; [1956 1297](https://fedlex.data.admin.ch/eli/oc/1956/1215_1297_1311); **1965** 321 art. 60; [1969 509](https://fedlex.data.admin.ch/eli/oc/1969/500_509_507); [1971 1191](https://fedlex.data.admin.ch/eli/oc/1971/1190_1191_1191); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)ch. I 11.[11](https://fedlex.data.admin.ch/eli/oc/1977/11_11_11); [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)ch. I 23; [1988 1696](https://fedlex.data.admin.ch/eli/oc/1988/1696_1696_1696)art. 7]
 [^54-2]: [[RO 1970 760](https://fedlex.data.admin.ch/eli/oc/1970/761_760_760)]
 [^54-3]: [[RO 1957 317](https://fedlex.data.admin.ch/eli/oc/1957/317_317_331); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)ch. I 11.12]
 [^54-4]: [[RO 1988 1696](https://fedlex.data.admin.ch/eli/oc/1988/1696_1696_1696)]

@@ -4,11 +4,11 @@ title: "Legge federale del 4 ottobre 1991 sulle foreste (Legge forestale, LFo)"
 short: LFo
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521"
 language: it
-version: 2025-01-01
+version: 2025-08-01
 adopted: 1991-10-04
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1992-2521_2521_2521-20250101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521/20250801/it/xml/fedlex-data-admin-ch-eli-cc-1992-2521_2521_2521-20250801-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/20250801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/20250101/it"
 
 (Legge forestale, LFo)
 
-del 4 ottobre 1991 (Stato 1° gennaio 2025)
+del 4 ottobre 1991 (Stato 1° agosto 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -104,7 +104,7 @@ Può essere concessa deroga se il richiedente comprova l’esistenza di gravi mo
 
 <sup>5</sup> I permessi di dissodamento hanno validità limitata.
 
-[^5-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^5-1]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 #### Art. 5a
 
@@ -120,9 +120,9 @@ Gli impianti eolici, incluse le loro vie di collegamento, siti in foreste sono c
 
 <sup>2</sup> Nel caso di impianti eolici situati al di fuori degli oggetti secondo l’articolo 5 LPN, la ponderazione degli interessi avviene conformemente a quanto disposto dall’articolo 3 LPN.
 
-[^5a-1]: Introdotto dal n. IV della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679): [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
-[^5a-2]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^5a-3]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+[^5a-1]: Introdotto dalla cifra IV della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679): [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^5a-2]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^5a-3]: [RS 922.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10979)
 
 #### Art. 6
 
@@ -142,7 +142,7 @@ Prima di accordare una deroga in materia di dissodamento, l’autorità cantonal
 - a. il dissodamento interessa una superficie superiore a 5000 m<sup>2</sup>; quando per la stessa opera sono presentate più domande di dissodamento, è determinante la superficie totale;
 - b. l’area forestale da dissodare si estende sul territorio di più Cantoni.
 
-[^6-1]: Nuovo testo giusta il n. I 17 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^6-1]: Nuovo testo giusta la cifra I n. 17 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 [^6-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 
 #### Art. 7
@@ -168,15 +168,15 @@ Invece del compenso in natura è possibile adottare provvedimenti equivalenti a 
 
 <sup>4</sup> Se nel corso dei 30 anni successivi il terreno agricolo recuperato secondo il capoverso 3 lettera a è destinato a un’altra utilizzazione, il rimboschimento compensativo deve essere effettuato a posteriori.
 
-[^7-1]: Nuovo testo giusta il n. I della LF del 16 mar. 2012, in vigore dal 1° lug. 2013 ([RU 2013 1981](https://fedlex.data.admin.ch/eli/oc/2013/418);FF**2011** 3955 3985).
-[^7-2]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^7-3]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^7-1]: Nuovo testo giusta la cifra I della LF del 16 mar. 2012, in vigore dal 1° lug. 2013 ([RU 2013 1981](https://fedlex.data.admin.ch/eli/oc/2013/418);FF**2011** 3955 3985).
+[^7-2]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^7-3]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 #### Art. 8
 
 [^8-1]
 
-[^8-1]: Abrogato dal n. I della LF del 16 mar. 2012, con effetto dal 1° lug. 2013 ([RU 2013 1981](https://fedlex.data.admin.ch/eli/oc/2013/418);FF**2011** 3955 3985).
+[^8-1]: Abrogato dalla cifra I della LF del 16 mar. 2012, con effetto dal 1° lug. 2013 ([RU 2013 1981](https://fedlex.data.admin.ch/eli/oc/2013/418);FF**2011** 3955 3985).
 
 #### Art. 9
 
@@ -184,7 +184,7 @@ Invece del compenso in natura è possibile adottare provvedimenti equivalenti a 
 
 I Cantoni curano che i vantaggi considerevoli derivanti da permessi di dissodamento, non contemplati dall’articolo 5 della legge federale del 22 giugno 1979[^9-1] sulla pianificazione del territorio (LPT), siano equamente compensati.
 
-[^9-1]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^9-1]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 10
 
@@ -201,9 +201,9 @@ Al momento dell’emanazione e dell’adattamento dei piani di utilizzazione ai 
 
 <sup>3</sup> Se la domanda d’accertamento è in relazione con una domanda di dissodamento, la competenza è regolata dall’articolo 6. L’autorità federale competente decide su richiesta dell’autorità cantonale competente.[^10-3]
 
-[^10-1]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
-[^10-2]: Nuovo testo giusta il n. I della LF del 16 mar. 2012, in vigore dal 1° lug. 2013 ([RU 2013 1981](https://fedlex.data.admin.ch/eli/oc/2013/418);FF**2011** 3955 3985).
-[^10-3]: Per. introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^10-1]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
+[^10-2]: Nuovo testo giusta la cifra I della LF del 16 mar. 2012, in vigore dal 1° lug. 2013 ([RU 2013 1981](https://fedlex.data.admin.ch/eli/oc/2013/418);FF**2011** 3955 3985).
+[^10-3]: Per. introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 ### Sezione 2: Foresta e pianificazione del territorio
 
@@ -215,7 +215,7 @@ Al momento dell’emanazione e dell’adattamento dei piani di utilizzazione ai 
 
 <sup>2</sup> Se un progetto edilizio richiede sia un permesso di dissodamento sia un’autorizzazione eccezionale per la costruzione fuori della zona edificabile, l’autorizzazione eccezionale può essere rilasciata solo d’intesa con l’autorità competente secondo l’articolo 6 della presente legge.
 
-[^11-1]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^11-1]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 12
 
@@ -233,9 +233,9 @@ L’inclusione di foreste in una zona d’utilizzazione è subordinata a un perm
 
 <sup>3</sup> I margini forestali possono essere sottoposti a una procedura di accertamento del carattere forestale secondo l’articolo 10 se i piani d’utilizzazione sono adattati e le condizioni reali sono mutate in modo sostanziale.[^13-3]
 
-[^13-1]: Nuovo testo giusta il n. I della LF del 16 mar. 2012, in vigore dal 1° lug. 2013 ([RU 2013 1981](https://fedlex.data.admin.ch/eli/oc/2013/418);FF**2011** 3955 3985).
-[^13-2]: Nuovo testo giusta il n. I della LF del 16 mar. 2012, in vigore dal 1° lug. 2013 ([RU 2013 1981](https://fedlex.data.admin.ch/eli/oc/2013/418);FF**2011** 3955 3985).
-[^13-3]: Nuovo testo giusta il n. I della LF del 16 mar. 2012, in vigore dal 1° lug. 2013 ([RU 2013 1981](https://fedlex.data.admin.ch/eli/oc/2013/418);FF**2011** 3955 3985).
+[^13-1]: Nuovo testo giusta la cifra I della LF del 16 mar. 2012, in vigore dal 1° lug. 2013 ([RU 2013 1981](https://fedlex.data.admin.ch/eli/oc/2013/418);FF**2011** 3955 3985).
+[^13-2]: Nuovo testo giusta la cifra I della LF del 16 mar. 2012, in vigore dal 1° lug. 2013 ([RU 2013 1981](https://fedlex.data.admin.ch/eli/oc/2013/418);FF**2011** 3955 3985).
+[^13-3]: Nuovo testo giusta la cifra I della LF del 16 mar. 2012, in vigore dal 1° lug. 2013 ([RU 2013 1981](https://fedlex.data.admin.ch/eli/oc/2013/418);FF**2011** 3955 3985).
 
 ### Sezione 3: Accesso alla foresta e circolazione in foresta
 
@@ -272,7 +272,7 @@ Se la conservazione della foresta o altri interessi pubblici, quale segnatamente
 
 <sup>2</sup> Per gravi motivi le autorità competenti possono autorizzare tali utilizzazioni, subordinandole a oneri e condizioni.[^16-1]
 
-[^16-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^16-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 #### Art. 17
 
@@ -284,7 +284,7 @@ Se la conservazione della foresta o altri interessi pubblici, quale segnatamente
 
 <sup>3</sup> Per gravi motivi le autorità competenti possono autorizzare la riduzione della distanza minima, subordinandola a oneri e condizioni.[^17-1]
 
-[^17-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^17-1]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 #### Art. 18
 
@@ -296,9 +296,11 @@ Se la conservazione della foresta o altri interessi pubblici, quale segnatamente
 
 #### Art. 19
 
-Se la protezione della vita umana o di beni materiali considerevoli lo esige, i Cantoni provvedono alla sicurezza delle zone soggette a valanghe, scoscendimento di terreno, erosione o cadute di pietre, come pure alle opere forestali per la correzione dei torrenti.[^19-1] Per quanto possibile sono utilizzati metodi rispettosi della natura.
+[^19-1]
 
-[^19-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+Se la protezione della vita umana o di beni materiali considerevoli lo esige, i Cantoni provvedono alla sicurezza delle zone soggette a valanghe, scoscendimento di terreno, erosione o caduta di pietre, come pure alle opere forestali per la correzione dei torrenti. I provvedimenti sono pianificati in funzione del rischio e in modo integrale, utilizzando per quanto possibile metodi rispettosi della natura.
+
+[^19-1]: Nuovo testo giusta l’all. n. 5 della LF del 15 mar. 2024, in vigore dal 1° ago. 2025 ([RU 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 ## Capitolo 4: Cura ed utilizzazione della foresta
 
@@ -333,7 +335,7 @@ Il taglio d’alberi nella foresta è subordinato all’autorizzazione del servi
 
 Per garantire la sicurezza sul lavoro, i mandatari che svolgono lavori di raccolta del legname nella foresta devono dimostrare che la manodopera impiegata ha seguito un corso riconosciuto dalla Confederazione di sensibilizzazione sui pericoli connessi ai lavori forestali.
 
-[^21a-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^21a-1]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 #### Art. 22
 
@@ -369,7 +371,7 @@ Per garantire la sicurezza sul lavoro, i mandatari che svolgono lavori di raccol
 
 <sup>2</sup> Se l’alienazione o la spartizione sono anche subordinate ad autorizzazioni in virtù della legge federale del 4 ottobre 1991[^25-1] sul diritto fondiario rurale, i Cantoni provvedono a riunire le due procedure e concluderle con decisione unica.
 
-[^25-1]: [RS 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+[^25-1]: [RS 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
 
 ### Sezione 2: Prevenzione e riparazione dei danni alla foresta
 
@@ -385,7 +387,7 @@ Per garantire la sicurezza sul lavoro, i mandatari che svolgono lavori di raccol
 
 <sup>4</sup> Gestisce un servizio fitosanitario federale che nel settore della foresta è subordinato all’Ufficio federale.
 
-[^26-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^26-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 #### Art. 27
 
@@ -395,7 +397,7 @@ Per garantire la sicurezza sul lavoro, i mandatari che svolgono lavori di raccol
 
 <sup>2</sup> Emanano prescrizioni sulla regolamentazione dell’effettivo della selvaggina per assicurare la conservazione della foresta, in particolare la sua rigenerazione naturale mediante essenze stanziali, senza ricorrere a provvedimenti protettivi. Se queste prescrizioni non sono sufficienti, adottano altre misure per prevenire danni da parte della selvaggina.
 
-[^27-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^27-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 #### Art. 27a
 
@@ -413,7 +415,7 @@ In collaborazione con i Cantoni interessati, la Confederazione stabilisce strate
 
 <sup>3</sup> I detentori di alberi, arbusti, altre piante, colture, materiale vegetale, mezzi di produzione e oggetti che sono o potrebbero essere infestati da organismi nocivi o che sono organismi nocivi devono, in collaborazione con le autorità competenti, eseguirne o accettarne la sorveglianza, l’isolamento, il trattamento o la distruzione.
 
-[^27a-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^27a-1]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 #### Art. 28
 
@@ -427,7 +429,7 @@ Nel caso di catastrofi forestali, l’Assemblea federale può adottare provvedim
 
 La Confederazione e i Cantoni adottano provvedimenti che sostengono la foresta nella capacità di adempiere le sue funzioni durevolmente anche in condizioni climatiche mutate.
 
-[^28a-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^28a-1]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 ## Capitolo 5: Provvedimenti promozionali
 
@@ -435,7 +437,7 @@ La Confederazione e i Cantoni adottano provvedimenti che sostengono la foresta n
 
 [^chap5-sec1-1]
 
-[^chap5-sec1-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^chap5-sec1-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 #### Art. 29
 
@@ -449,10 +451,10 @@ La Confederazione e i Cantoni adottano provvedimenti che sostengono la foresta n
 
 <sup>4</sup> La formazione professionale del personale forestale è regolata dalla legislazione federale sulla formazione professionale. Il Consiglio federale stabilisce i settori di formazione del personale forestale nei quali il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni esegue questa legislazione.[^29-4]
 
-[^29-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
-[^29-2]: Nuovo testo giusta il n. III della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
-[^29-3]: Abrogato dal n. I della LF del 18 mar. 2016, con effetto dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
-[^29-4]: Nuovo testo giusta l’all. n. II 6 della LF del 13 dic. 2002 sulla formazione professionale, in vigore dal 1° gen. 2004 ([RU 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674); [FF 2000 4957](https://fedlex.data.admin.ch/eli/fga/2000/1232)).
+[^29-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^29-2]: Nuovo testo giusta la cifra III della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^29-3]: Abrogato dalla cifra I della LF del 18 mar. 2016, con effetto dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^29-4]: Nuovo testo giusta l’all. cifra II n. 6 della LF del 13 dic. 2002 sulla formazione professionale, in vigore dal 1° gen. 2004 ([RU 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674); [FF 2000 4957](https://fedlex.data.admin.ch/eli/fga/2000/1232)).
 
 #### Art. 30
 
@@ -501,7 +503,7 @@ Confederazione e Cantoni provvedono ad informare le autorità e l’opinione pub
 
 [^chap5-sec1a-1]
 
-[^chap5-sec1a-1]: Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^chap5-sec1a-1]: Introdotta dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 #### Art. 34a
 
@@ -535,28 +537,30 @@ Nei limiti dei crediti stanziati, i contributi di promozione secondo la presente
 
 <sup>2</sup> Il Consiglio federale può prevedere che i contributi siano versati soltanto a destinatari che partecipano a misure d’autosostegno dell’economia forestale e del legno.
 
-[^35-1]: Nuovo testo giusta il n. II 30 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^35-1]: Nuovo testo giusta la cifra II n. 30 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 #### Art. 36
 
-**Protezione da catastrofi naturali**
+**Protezione da catastrofi naturali**[^36-1]
 
-<sup>1</sup>
+<sup>1</sup> La Confederazione accorda ai Cantoni sulla base di accordi di programma indennità globali per l’acquisizione di dati di base e per i provvedimenti necessari per la protezione da catastrofi naturali a livello pianificatorio, organizzativo, tecnico o di ingegneria naturalistica.
 
-La Confederazione accorda ai Cantoni sulla base di accordi di programma indennità globali per provvedimenti intesi a proteggere la vita umana e beni materiali considerevoli contro le catastrofi naturali, segnatamente per:[^36-1]
+<sup>2</sup>
 
-- a.[^36-2] la costruzione, il ripristino e la sostituzione di opere e impianti protettivi;
-- b. la realizzazione di foreste con funzione protettiva particolare, nonché la cura di giovani popolamenti;
-- c. l’istituzione di catasti e di carte dei pericoli, l’allestimento e la gestione di stazioni di misurazione nonché l’organizzazione di servizi di preallarme per garantire la sicurezza di insediamenti e di vie di comunicazione.
+Le indennità sono accordate segnatamente per:
 
-<sup>2</sup> In casi eccezionali, la Confederazione può accordare, mediante decisione formale, indennità a singoli progetti che richiedono una sua valutazione.[^36-3]
+- a. l’elaborazione di dati di base quali analisi degli eventi, catasti, valutazione dei pericoli, panoramiche dei rischi e pianificazioni globali;
+- b. provvedimenti di pianificazione del territorio quali accertamenti per la limitazione dei rischi e lo spostamento in luoghi sicuri di costruzioni e impianti minacciati;
+- c. provvedimenti organizzativi quali dispositivi di allarme, pianificazioni d’intervento e provvedimenti tecnici per gli interventi d’emergenza;
+- d. provvedimenti biologici quali la realizzazione di foreste con funzione protettiva, nonché la cura di giovani popolamenti;
+- e. provvedimenti tecnici quali la manutenzione, il ripristino, il rafforzamento, la sostituzione e la realizzazione di opere e impianti di protezione;
+- f. provvedimenti per rimediare ai danni nelle aree di ritenzione in caso di evento.
 
-<sup>3</sup> L’ammontare delle indennità è determinato in base al pericolo costituito da catastrofi naturali, nonché ai costi e all’efficacia dei provvedimenti.[^36-4]
+<sup>3</sup> In casi eccezionali, la Confederazione può accordare, mediante decisione formale, indennità a singoli progetti che richiedono una sua valutazione.
 
-[^36-1]: Nuovo testo giusta il n. II 30 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^36-2]: Nuovo testo giusta il n. II 30 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^36-3]: Introdotto dal n. II 30 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^36-4]: Introdotto dal n. II 30 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+<sup>4</sup> L’ammontare delle indennità è determinato in base al pericolo costituito da catastrofi naturali, nonché ai costi e all’efficacia dei provvedimenti.
+
+[^36-1]: Nuovo testo giusta l’all. n. 5 della LF del 15 mar. 2024, in vigore dal 1° ago. 2025 ([RU 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 #### Art. 37
 
@@ -573,8 +577,8 @@ La Confederazione accorda ai Cantoni sulla base di accordi di programma indennit
 
 <sup>2</sup> L’ammontare delle indennità è determinato in base alla superficie di foresta di protezione da curare, al pericolo da evitare e all’efficacia dei provvedimenti.
 
-[^37-1]: Nuovo testo giusta il n. II 30 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^37-2]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^37-1]: Nuovo testo giusta la cifra II n. 30 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^37-2]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 #### Art. 37a
 
@@ -586,7 +590,7 @@ La Confederazione accorda ai Cantoni sulla base di accordi di programma indennit
 
 <sup>3</sup> L’ammontare delle indennità è determinato in base al pericolo da prevenire e all’efficacia dei provvedimenti.
 
-[^37a-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^37a-1]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 #### Art. 37b
 
@@ -596,7 +600,7 @@ La Confederazione accorda ai Cantoni sulla base di accordi di programma indennit
 
 <sup>2</sup> L’indennità è fissata definitivamente dall’autorità competente secondo una procedura quanto più semplice possibile e gratuita per la persona danneggiata.
 
-[^37b-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^37b-1]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 #### Art. 38
 
@@ -616,11 +620,11 @@ La Confederazione accorda ai Cantoni, sulla base di accordi di programma, aiuti 
 
 <sup>3</sup> L’ammontare degli aiuti finanziari è determinato in base all’importanza dei provvedimenti per la diversità biologica e alla loro efficacia.
 
-[^38-1]: Nuovo testo giusta il n. II 30 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^38-2]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
-[^38-3]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
-[^38-4]: Abrogata dal n. I della LF del 18 mar. 2016, con effetto dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
-[^38-5]: Abrogato dal n. I della LF del 18 mar. 2016, con effetto dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^38-1]: Nuovo testo giusta la cifra II n. 30 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^38-2]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^38-3]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^38-4]: Abrogata dalla cifra I della LF del 18 mar. 2016, con effetto dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^38-5]: Abrogato dalla cifra I della LF del 18 mar. 2016, con effetto dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 #### Art. 38a
 
@@ -647,13 +651,13 @@ La Confederazione accorda gli aiuti finanziari per:
 
 <sup>3</sup> L’ammontare degli aiuti finanziari è determinato in base all’efficacia dei provvedimenti.
 
-[^38a-1]: Introdotto dal n. II 30 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^38a-2]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
-[^38a-3]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
-[^38a-4]: Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
-[^38a-5]: Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
-[^38a-6]: Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
-[^38a-7]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^38a-1]: Introdotto dalla cifra II n. 30 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^38a-2]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^38a-3]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^38a-4]: Introdotta dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^38a-5]: Introdotta dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^38a-6]: Introdotta dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^38a-7]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 #### Art. 39
 
@@ -665,10 +669,10 @@ La Confederazione accorda gli aiuti finanziari per:
 
 <sup>3</sup> ...[^39-4]
 
-[^39-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^39-2]: Nuovo testo giusta l’all. n. II 6 della LF del 13 dic. 2002 sulla formazione professionale, in vigore dal 1° gen. 2004 ([RU 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674); [FF 2000 4957](https://fedlex.data.admin.ch/eli/fga/2000/1232)).
-[^39-3]: Nuovo testo giusta l’all. n. II 6 della LF del 13 dic. 2002 sulla formazione professionale, in vigore dal 1° gen. 2004 ([RU 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674); [FF 2000 4957](https://fedlex.data.admin.ch/eli/fga/2000/1232)).
-[^39-4]: Abrogato dal n. I della LF del 18 mar. 2016, con effetto dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^39-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^39-2]: Nuovo testo giusta l’all. cifra II n. 6 della LF del 13 dic. 2002 sulla formazione professionale, in vigore dal 1° gen. 2004 ([RU 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674); [FF 2000 4957](https://fedlex.data.admin.ch/eli/fga/2000/1232)).
+[^39-3]: Nuovo testo giusta l’all. cifra II n. 6 della LF del 13 dic. 2002 sulla formazione professionale, in vigore dal 1° gen. 2004 ([RU 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674); [FF 2000 4957](https://fedlex.data.admin.ch/eli/fga/2000/1232)).
+[^39-4]: Abrogato dalla cifra I della LF del 18 mar. 2016, con effetto dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 #### Art. 40
 
@@ -688,7 +692,7 @@ La Confederazione può accordare mutui rimborsabili, senza interesse o a interes
 
 <sup>4</sup> I rimborsi sono impiegati per nuovi investimenti.
 
-[^40-1]: Nuovo testo giusta il n. II 30 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^40-1]: Nuovo testo giusta la cifra II n. 30 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 #### Art. 41
 
@@ -698,7 +702,7 @@ La Confederazione può accordare mutui rimborsabili, senza interesse o a interes
 
 <sup>2</sup> I contributi destinati agli interventi intesi a far fronte a catastrofi naturali straordinarie sono limitati alla durata del singolo intervento.
 
-[^41-1]: Nuovo testo giusta il n. II 30 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^41-1]: Nuovo testo giusta la cifra II n. 30 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^41-2]: Nuova espr. giusta l’all. n. 9 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 333](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 ### Sezione 3: Altre misure
@@ -709,15 +713,32 @@ La Confederazione può accordare mutui rimborsabili, senza interesse o a interes
 
 #### Art. 41a
 
+**Designazione della provenienza[^41a-1]**
+
 <sup>1</sup> Per promuovere la qualità e lo smercio, il Consiglio federale può emanare norme sulla designazione facoltativa della provenienza dei prodotti forestali e dei loro prodotti trasformati.
 
-<sup>2</sup> La registrazione, la protezione delle designazioni, la procedura e la protezione giuridica sono rette dalla legge del 29 aprile 1998[^41a-1] sull’agricoltura.[^41a-2]
+<sup>2</sup> La registrazione, la protezione delle designazioni, la procedura e la protezione giuridica sono rette dalla legge del 29 aprile 1998[^41a-2] sull’agricoltura.[^41a-3]
 
-<sup>3</sup> Il Consiglio federale può affidare a terzi i controlli.[^41a-3]
+<sup>3</sup> Il Consiglio federale può affidare a terzi i controlli.[^41a-4]
 
-[^41a-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^41a-2]: Nuovo testo giusta l’all. n. 2 della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
-[^41a-3]: Introdotto dall’all. n. 2 della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^41a-1]: Introdotto dalla cifra I della LF del 27 set. 2024, in vigore dal 1° ago. 2025 ([RU 2025 403](https://fedlex.data.admin.ch/eli/oc/2025/403); [FF 2024 971](https://fedlex.data.admin.ch/eli/fga/2024/971), [1126](https://fedlex.data.admin.ch/eli/fga/2024/1126)).
+[^41a-2]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^41a-3]: Nuovo testo giusta l’all. n. 2 della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^41a-4]: Introdotto dall’all. n. 2 della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+
+#### Art. 41b
+
+**Prezzi indicativi per il legname grezzo**[^41b-1]
+
+<sup>1</sup> Le organizzazioni dei proprietari di foreste possono pubblicare a livello regionale o nazionale prezzi indicativi per il legname grezzo concordati tra fornitori e acquirenti.
+
+<sup>2</sup> I prezzi indicativi sono fissati in modo differenziato secondo essenze, assortimenti e criteri di qualità.
+
+<sup>3</sup> Le singole imprese non possono essere obbligate a rispettare i prezzi indicativi.
+
+<sup>4</sup> Per i prezzi al consumo non possono essere fissati prezzi indicativi.
+
+[^41b-1]: Introdotto dalla cifra I della LF del 27 set. 2024, in vigore dal 1° ago. 2025 ([RU 2025 403](https://fedlex.data.admin.ch/eli/oc/2025/403); [FF 2024 971](https://fedlex.data.admin.ch/eli/fga/2024/971), [1126](https://fedlex.data.admin.ch/eli/fga/2024/1126)).
 
 ## Capitolo 6: Disposizioni penali
 
@@ -735,7 +756,7 @@ La Confederazione può accordare mutui rimborsabili, senza interesse o a interes
 
 <sup>2</sup> Se agisce per negligenza, l’autore è punito con la multa sino a 40 000 franchi.
 
-[^42-1]: Nuovo testo giusta l’art. 333 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nel testo della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
+[^42-1]: Nuovo testo giusta l’art. 333 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)), nel testo della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
 
 #### Art. 43
 
@@ -760,10 +781,10 @@ La Confederazione può accordare mutui rimborsabili, senza interesse o a interes
 
 <sup>4</sup> I Cantoni possono perseguire come contravvenzioni le infrazioni al diritto cantonale.
 
-[^43-1]: Nuovo testo giusta l’art. 333 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nel testo della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
-[^43-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^43-1]: Nuovo testo giusta l’art. 333 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)), nel testo della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
+[^43-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^43-3]: Testo rettificato dalla Commissione di redazione dell’AF (art. 33 LRC – [RU 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
-[^43-4]: [CS **6** 475; [RU 1956 639](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639)**,** **1959** 1400 art. 11 n. III, [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644),[1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)all. n. 7,[1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)n. I 1,[1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)n. III, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)n. I 3, [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)all. 2 n. 2, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 13, [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92 [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. VI 6, [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)n. I 1 art. 41, [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)all. n. II 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 50. [RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)art. 131 cpv. 1]. Vedi ora la L del 18 mar. 2005 sulle dogane ([RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
+[^43-4]: [CS **6** 475; [RU 1956 639](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639);**1959** 1400 art. 11 cifra III; [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644);[1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)all. n. 7;[1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)cifra I n. 1;[1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)cifra III; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)cifra I n. 3; [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)all. 2 n. 2; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 13; [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92, [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra VI n. 6; [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)cifra I n. 1 art. 41; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)all. cifra II n. 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 50. [RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)art. 131 cpv. 1]. Vedi ora la L del 18 mar. 2005 sulle dogane ([RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)).
 
 #### Art. 44
 
@@ -771,7 +792,7 @@ La Confederazione può accordare mutui rimborsabili, senza interesse o a interes
 
 Se l’infrazione è commessa nella gestione degli affari di una persona giuridica, di una società di persone, di una ditta individuale o altrimenti nell’esercizio di una corporazione o di un istituto di diritto pubblico, si applicano gli articoli 6 e 7 della legge federale del 22 marzo 1974[^44-1] sul diritto penale amministrativo.
 
-[^44-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^44-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 45
 
@@ -789,7 +810,7 @@ Il perseguimento penale compete ai Cantoni.
 
 <sup>1</sup> La procedura di ricorso è retta dalle disposizioni generali sull’amministrazione della giustizia federale.[^46-1]
 
-<sup>1bis</sup> e <sup>1ter</sup> ...[^46-2]
+<sup>1bis e <sup>1ter</sup></sup> ...[^46-2]
 
 <sup>2</sup> L’Ufficio federale[^46-3] ha facoltà di avvalersi delle vie di ricorso previste dal diritto federale o dal diritto cantonale contro decisioni delle autorità cantonali riguardanti l’applicazione della presente legge e le sue disposizioni d’esecuzione.
 
@@ -800,9 +821,9 @@ Il perseguimento penale compete ai Cantoni.
 [^46-1]: Nuovo testo giusta l’all. n. 127 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^46-2]: Introdotti dall’all. n. 9 della LF del 21 mar. 2003 sull’ingegneria genetica ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)). Abrogati dall’all. n. 127 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^46-3]: Nuova denominazione giusta il n. 17 I della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
-[^46-4]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^46-5]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
-[^46-6]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^46-4]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^46-5]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^46-6]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 #### Art. 47
 
@@ -810,8 +831,8 @@ Il perseguimento penale compete ai Cantoni.
 
 Le autorizzazioni e le disposizioni date in virtù della presente legge diventano efficaci solo dopo essere cresciute in giudicato. È fatto salvo l’articolo 12*e* della legge federale del 1° luglio 1966[^47-1] sulla protezione della natura e del paesaggio.[^47-2]
 
-[^47-1]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^47-2]: Per. introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^47-1]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^47-2]: Per. introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 #### Art. 48
 
@@ -821,7 +842,7 @@ Le autorizzazioni e le disposizioni date in virtù della presente legge diventan
 
 <sup>2</sup> Nei disposti esecutivi, i Cantoni possono dichiarare applicabile la legge federale del 20 giugno 1930[^48-1] sull’espropriazione. Nondimeno, sulle opposizioni ancora in sospeso decide il governo cantonale. La legge federale sull’espropriazione è applicabile in tutti i casi in cui il bene espropriato si estenda sul territorio di parecchi Cantoni.
 
-[^48-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^48-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 48a
 
@@ -829,7 +850,7 @@ Le autorizzazioni e le disposizioni date in virtù della presente legge diventan
 
 I costi derivanti da provvedimenti che le autorità adottano o ordinano per evitare un pericolo o pregiudizio imminente per la foresta, come pure per accertarlo ed eliminarlo, sono a carico di chi li ha causati per colpa propria.
 
-[^48a-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^48a-1]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 ### Sezione 2: Esecuzione
 
@@ -845,10 +866,10 @@ I costi derivanti da provvedimenti che le autorità adottano o ordinano per evit
 
 <sup>3</sup> Il Consiglio federale emana le prescrizioni d’esecuzione. Può delegare al Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni, ai suoi servizi o a uffici federali a esso subordinati, il compito di emanare prescrizioni di natura prevalentemente tecnica o amministrativa.[^49-4]
 
-[^49-1]: Nuovo testo giusta il n. I 17 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
-[^49-2]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
-[^49-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^49-4]: Per. introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^49-1]: Nuovo testo giusta la cifra I n. 17 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^49-2]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^49-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^49-4]: Per. introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 #### Art. 50
 
@@ -864,7 +885,7 @@ I costi derivanti da provvedimenti che le autorità adottano o ordinano per evit
 
 Le autorità esecutive possono incaricare corporazioni di diritto pubblico o privati, contro indennità, di svolgere controlli o di mettere in atto ulteriori misure esecutive
 
-[^50a-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^50a-1]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 #### Art. 51
 
@@ -874,7 +895,7 @@ Le autorità esecutive possono incaricare corporazioni di diritto pubblico o pri
 
 <sup>2</sup> Essi suddividono il loro territorio in circondari e settori forestali. Questi sono diretti da operatori forestali con formazione superiore ed esperienza pratica.[^51-1]
 
-[^51-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^51-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 #### Art. 52
 
@@ -903,9 +924,9 @@ Sono abrogati:
 - c. il decreto federale del 21 dicembre 1956[^54-3] concernente la partecipazione della Confederazione alla ricostituzione delle foreste affette dal cancro della corteccia del castagno;
 - d. il decreto federale del 23 giugno 1988[^54-4] su provvedimenti straordinari di conservazione della foresta.
 
-[^54-1]: [CS **9** 529; [RU 1954 455](https://fedlex.data.admin.ch/eli/oc/1954/559_573_455)I n. 5, [1956 1311](https://fedlex.data.admin.ch/eli/oc/1956/1215_1297_1311), [1965 321](https://fedlex.data.admin.ch/eli/oc/1965/321_325_321)art. 60, [1969 507](https://fedlex.data.admin.ch/eli/oc/1969/500_509_507), [1971 1191](https://fedlex.data.admin.ch/eli/oc/1971/1190_1191_1191),[1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)n. I 11.[11](https://fedlex.data.admin.ch/eli/oc/1977/11_11_11), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)n. I 23, [1988 1696](https://fedlex.data.admin.ch/eli/oc/1988/1696_1696_1696)art. 7]
+[^54-1]: [CS **9** 529; [RU 1954 455](https://fedlex.data.admin.ch/eli/oc/1954/559_573_455)I n. 5; [1956 1311](https://fedlex.data.admin.ch/eli/oc/1956/1215_1297_1311); [1965 321](https://fedlex.data.admin.ch/eli/oc/1965/321_325_321)art. 60; [1969 507](https://fedlex.data.admin.ch/eli/oc/1969/500_509_507); [1971 1191](https://fedlex.data.admin.ch/eli/oc/1971/1190_1191_1191);[1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)cifra I n. 11.[11](https://fedlex.data.admin.ch/eli/oc/1977/11_11_11); [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)cifra I n. 23; [1988 1696](https://fedlex.data.admin.ch/eli/oc/1988/1696_1696_1696)art. 7]
 [^54-2]: [RU 1970 760](https://fedlex.data.admin.ch/eli/oc/1970/761_760_760)
-[^54-3]: [[RU 1957 331](https://fedlex.data.admin.ch/eli/oc/1957/317_317_331), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)ch. I 11.12]
+[^54-3]: [[RU 1957 331](https://fedlex.data.admin.ch/eli/oc/1957/317_317_331); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)ch. I 11.12]
 [^54-4]: [RU 1988 1696](https://fedlex.data.admin.ch/eli/oc/1988/1696_1696_1696)
 
 #### Art. 55
@@ -926,7 +947,7 @@ Sono abrogati:
 
 <sup>3</sup> I mandatari che svolgono lavori di raccolta del legname nella foresta sono esonerati per cinque anni dall’entrata in vigore della presente legge dall’obbligo di cui all’articolo 21*a* di dimostrare che la manodopera impiegata ha seguito un corso riconosciuto dalla Confederazione di sensibilizzazione sui pericoli connessi ai lavori forestali.[^56-1]
 
-[^56-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^56-1]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 #### Art. 57
 

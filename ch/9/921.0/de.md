@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 4. Oktober 1991 über den Wald (Waldgesetz, WaG)"
 short: WaG
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521"
 language: de
-version: 2025-01-01
+version: 2025-08-01
 adopted: 1991-10-04
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1992-2521_2521_2521-20250101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521/20250801/de/xml/fedlex-data-admin-ch-eli-cc-1992-2521_2521_2521-20250801-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/20250801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/20250101/de"
 
 (Waldgesetz, WaG)
 
-vom 4. Oktober 1991 (Stand am 1. Januar 2025)
+vom 4. Oktober 1991 (Stand am 1. August 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 74 Absatz 1, 77 Absätze 2 und 3, 78 Absatz 4 und 95 A
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Fassung gemäss Anhang Ziff. 8 des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 [^ingress-3]: [BBl 1988 III 173](https://fedlex.data.admin.ch/eli/fga/1988/3_173_157_137)
 
@@ -119,8 +119,8 @@ Windenergieanlagen und ihre Erschliessungswege im Wald gelten als standortgebund
 <sup>2</sup> Bei Windenergieanlagen, die sich ausserhalb der Objekte nach Artikel 5 NHG befinden, erfolgt die Interessenabwägung nach Artikel 3 NHG.
 
 [^5a-1]: Eingefügt durch Ziff. IV des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
-[^5a-2]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^5a-3]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+[^5a-2]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^5a-3]: [SR 922.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10979)
 
 #### Art. 6
 
@@ -167,7 +167,7 @@ Auf den Rodungsersatz kann verzichtet werden bei Rodungen:
 <sup>4</sup> Wird nach Absatz 3 Buchstabe a rückgewonnenes landwirtschaftliches Kulturland innerhalb von 30 Jahren einer anderen Nutzung zugeführt, so ist der Rodungsersatz nachträglich zu leisten.
 
 [^7-1]: Fassung gemäss Ziff. I des BG vom 16. März 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1981](https://fedlex.data.admin.ch/eli/oc/2013/418); [BBl 2011 4397](https://fedlex.data.admin.ch/eli/fga/2011/666)[4425](https://fedlex.data.admin.ch/eli/fga/2011/668)).
-[^7-2]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^7-2]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 #### Art. 8
 
@@ -181,7 +181,7 @@ Auf den Rodungsersatz kann verzichtet werden bei Rodungen:
 
 Die Kantone sorgen dafür, dass durch Rodungsbewilligungen entstehende erhebliche Vorteile, die nicht nach Artikel 5 des Raumplanungsgesetzes vom 22. Juni 1979[^9-1] erfasst werden, angemessen ausgeglichen werden.
 
-[^9-1]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^9-1]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 10
 
@@ -198,7 +198,7 @@ Beim Erlass und bei der Revision von Nutzungsplänen nach dem Bundesgesetz vom 2
 
 <sup>3</sup> Steht ein Begehren um Waldfeststellung in Zusammenhang mit einem Rodungsgesuch, richtet sich die Zuständigkeit nach Artikel 6. Die zuständige Bundesbehörde entscheidet auf Antrag der zuständigen kantonalen Behörde.[^10-3]
 
-[^10-1]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^10-1]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 [^10-2]: Fassung gemäss Ziff. I des BG vom 16. März 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1981](https://fedlex.data.admin.ch/eli/oc/2013/418); [BBl 2011 4397](https://fedlex.data.admin.ch/eli/fga/2011/666)[4425](https://fedlex.data.admin.ch/eli/fga/2011/668)).
 [^10-3]: Zweiter Satz eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [BBl 2014 4909](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
@@ -212,7 +212,7 @@ Beim Erlass und bei der Revision von Nutzungsplänen nach dem Bundesgesetz vom 2
 
 <sup>2</sup> Erfordert ein Bauvorhaben sowohl eine Rodungsbewilligung als auch eine Ausnahmebewilligung für das Bauen ausserhalb der Bauzone, so darf diese nur im Einvernehmen mit der nach Artikel 6 dieses Gesetzes zuständigen Behörde erteilt werden.
 
-[^11-1]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^11-1]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 12
 
@@ -293,9 +293,11 @@ Im Wald dürfen keine umweltgefährdenden Stoffe verwendet werden. Die Umweltsch
 
 #### Art. 19
 
-Wo es der Schutz von Menschen oder erheblichen Sachwerten erfordert, sichern die Kantone die Lawinen-, Rutsch-, Erosions- und Steinschlaggebiete und sorgen für den forstlichen Bachverbau.[^19-1] Für die Massnahmen sind möglichst naturnahe Methoden anzuwenden.
+[^19-1]
 
-[^19-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [BBl 2014 4909](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+Wo es der Schutz von Menschen oder erheblichen Sachwerten erfordert, sichern die Kantone die Lawinen-, Rutsch-, Erosions- und Steinschlaggebiete und sorgen für den forstlichen Bachverbau. Massnahmen sind integral sowie risikobasiert zu planen und es sind möglichst naturnahe Methoden anzuwenden.
+
+[^19-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 15. März 2024, in Kraft seit 1. Aug. 2025 ([AS 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [BBl 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 ## 4. Kapitel: Pflege und Nutzung des Waldes
 
@@ -361,7 +363,7 @@ Zur Gewährleistung der Arbeitssicherheit müssen Auftragnehmerinnen und Auftrag
 
 <sup>2</sup> Bedarf die Veräusserung oder die Teilung zugleich einer Bewilligung nach dem Bundesgesetz vom 4. Oktober 1991[^25-1] über das bäuerliche Bodenrecht, so sorgen die Kantone dafür, dass die Bewilligungsverfahren vereinigt und durch einen Gesamtentscheid abgeschlossen werden.
 
-[^25-1]: [SR 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+[^25-1]: [SR 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
 
 ### 2. Abschnitt: Verhütung und Behebung von Waldschäden
 
@@ -527,24 +529,26 @@ Förderungsbeiträge nach diesem Gesetz werden im Rahmen der bewilligten Kredite
 
 #### Art. 36
 
-**Schutz vor Naturereignissen**
+**Schutz vor Naturereignissen**[^36-1]
 
-<sup>1</sup>
+<sup>1</sup> Der Bund gewährt den Kantonen auf der Grundlage von Programmvereinbarungen globale Abgeltungen für die Grundlagenbeschaffung sowie für Massnahmen, die in raumplanerischer, organisatorischer, biologischer oder technischer Hinsicht für den Schutz vor Naturereignissen notwendig sind.
 
-Der Bund gewährt den Kantonen auf der Grundlage von Programmvereinbarungen globale Abgeltungen an Massnahmen, die Menschen und erhebliche Sachwerte vor Naturereignissen schützen, namentlich an:[^36-1]
+<sup>2</sup>
 
-- a.[^36-2] die Erstellung, die Instandstellung und den Ersatz von Schutzbauten und ‑anlagen;
-- b. die Schaffung von Wald mit besonderer Schutzfunktion sowie die entsprechende Jungwaldpflege;
-- c. die Erstellung von Gefahrenkatastern und Gefahrenkarten, die Einrichtung und den Betrieb von Messstellen sowie den Aufbau von Frühwarndiensten zur Sicherung von Siedlungen und Verkehrswegen.
+Er gewährt Abgeltungen namentlich für:
 
-<sup>2</sup> Ausnahmsweise kann er an Projekte, die eine Beurteilung durch den Bund im Einzelfall erfordern, Abgeltungen durch Verfügung gewähren.[^36-3]
+- a. die Erarbeitung von Grundlagen wie Ereignisanalysen, Kataster, Gefahren-beurteilungen, Risikoübersichten und Gesamtplanungen;
+- b. raumplanerische Massnahmen wie Abklärungen zur Risikobegrenzung und die Verlegung gefährdeter Bauten und Anlagen an sichere Orte;
+- c. organisatorische Massnahmen wie Warneinrichtungen, Einsatzplanungen und technische Vorkehrungen für Notfalleinsätze;
+- d. biologische Massnahmen wie die Schaffung von Wald mit Schutzfunktion sowie die entsprechende Jungwaldpflege;
+- e. technische Massnahmen wie den Unterhalt, die Instandstellung, die Verstärkung, den Ersatz und die Erstellung von Schutzbauten und -anlagen;
+- f. Massnahmen wie die Behebung von Schäden in Entlastungsräumen im Ereignisfall.
 
-<sup>3</sup> Die Höhe der Abgeltungen richtet sich nach der Gefährdung durch Naturereignisse sowie nach den Kosten und der Wirksamkeit der Massnahmen.[^36-4]
+<sup>3</sup> Ausnahmsweise kann er für Projekte, die eine Beurteilung durch den Bund im Einzelfall erfordern, Abgeltungen durch Verfügung gewähren.
 
-[^36-1]: Fassung gemäss Ziff. II 30 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^36-2]: Fassung gemäss Ziff. II 30 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^36-3]: Eingefügt durch Ziff. II 30 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^36-4]: Eingefügt durch Ziff. II 30 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+<sup>4</sup> Die Höhe der Abgeltungen richtet sich nach der Gefährdung durch Naturereignisse sowie nach den Kosten und der Wirksamkeit der Massnahmen.
+
+[^36-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 15. März 2024, in Kraft seit 1. Aug. 2025 ([AS 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [BBl 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 #### Art. 37
 
@@ -653,7 +657,7 @@ Er gewährt Finanzhilfen:
 
 <sup>3</sup> …[^39-4]
 
-[^39-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^39-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 [^39-2]: Fassung gemäss Anhang Ziff. II 6 des Berufsbildungsgesetzes vom 13. Dez. 2002, in Kraft seit 1. Jan. 2004 ([AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674); [BBl 2000 5686](https://fedlex.data.admin.ch/eli/fga/2000/1232)).
 [^39-3]: Fassung gemäss Anhang Ziff. II 6 des Berufsbildungsgesetzes vom 13. Dez. 2002, in Kraft seit 1. Jan. 2004 ([AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674); [BBl 2000 5686](https://fedlex.data.admin.ch/eli/fga/2000/1232)).
 [^39-4]: Aufgehoben durch Ziff. I des BG vom 18. März 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [BBl 2014 4909](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
@@ -697,15 +701,32 @@ Der Bund kann unverzinsliche oder niedrig verzinsliche, rückzahlbare Darlehen g
 
 #### Art. 41a
 
+**Herkunftsbezeichnung[^41a-1]**
+
 <sup>1</sup> Zur Förderung von Qualität und Absatz kann der Bundesrat Vorschriften über die freiwillige Kennzeichnung der Herkunft von waldwirtschaftlichen Erzeugnissen und deren Verarbeitungsprodukten erlassen.
 
-<sup>2</sup> Für die Registrierung, den Schutz der Bezeichnungen, die Verfahren und den Rechtsschutz gilt das Landwirtschaftsgesetz vom 29. April 1998[^41a-1].[^41a-2]
+<sup>2</sup> Für die Registrierung, den Schutz der Bezeichnungen, die Verfahren und den Rechtsschutz gilt das Landwirtschaftsgesetz vom 29. April 1998[^41a-2].[^41a-3]
 
-<sup>3</sup> Der Bundesrat kann die Kontrolle Dritten übertragen.[^41a-3]
+<sup>3</sup> Der Bundesrat kann die Kontrolle Dritten übertragen.[^41a-4]
 
-[^41a-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^41a-2]: Fassung gemäss Anhang Ziff. 2 des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
-[^41a-3]: Eingefügt durch Anhang Ziff. 2 des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^41a-1]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. Aug. 2025 ([AS 2025 403](https://fedlex.data.admin.ch/eli/oc/2025/403); [BBl 2024 971](https://fedlex.data.admin.ch/eli/fga/2024/971), [1126](https://fedlex.data.admin.ch/eli/fga/2024/1126)).
+[^41a-2]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^41a-3]: Fassung gemäss Anhang Ziff. 2 des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^41a-4]: Eingefügt durch Anhang Ziff. 2 des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+
+#### Art. 41b
+
+**Richtpreise für Rohholz**[^41b-1]
+
+<sup>1</sup> Die Organisationen der Waldeigentümer können auf nationaler oder auf regionaler Ebene Richtpreise für Rohholz herausgeben, auf die sich die Lieferanten und die Abnehmer geeinigt haben.
+
+<sup>2</sup> Die Richtpreise sind nach Baumarten, Sortimenten und Qualitätsabstufungen differenziert festzulegen.
+
+<sup>3</sup> Unternehmen können nicht zur Einhaltung der Richtpreise gezwungen werden.
+
+<sup>4</sup> Für Konsumentenpreise dürfen keine Richtpreise festgelegt werden.
+
+[^41b-1]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. Aug. 2025 ([AS 2025 403](https://fedlex.data.admin.ch/eli/oc/2025/403); [BBl 2024 971](https://fedlex.data.admin.ch/eli/fga/2024/971), [1126](https://fedlex.data.admin.ch/eli/fga/2024/1126)).
 
 ## 6. Kapitel: Strafbestimmungen
 
@@ -723,7 +744,7 @@ Mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe wird bestraft, wer vorsät
 
 <sup>2</sup> Handelt der Täter fahrlässig, ist die Strafe Busse bis zu 40 000 Franken.
 
-[^42-1]: Fassung gemäss Art. 333 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in der Fassung des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+[^42-1]: Fassung gemäss Art. 333 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)) in der Fassung des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
 
 #### Art. 43
 
@@ -748,9 +769,9 @@ Mit Busse bis zu 20 000 Franken wird bestraft, wer vorsätzlich und ohne Berecht
 
 <sup>4</sup> Die Kantone können Widerhandlungen gegen kantonales Recht als Übertretungen ahnden.
 
-[^43-1]: Fassung gemäss Art. 333 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in der Fassung des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
-[^43-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^43-3]: [BS **6** 465; [AS 1956 587](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639); [1959 1343](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)Art. 11 Ziff. III; [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644); [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Anhang Ziff. 7; [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)Ziff. I 1; [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)Ziff. III; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)Ziff. I 3; [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Anhang 2 Ziff. 2; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 13; [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)Art. 92, [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. VI 6; [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)Ziff. I 1 Art. 41; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)Anhang Ziff. II 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 50. [AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)Art. 131 Abs. 1]. Siehe heute: das Zollgesetz vom 18. März 2005 ([SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
+[^43-1]: Fassung gemäss Art. 333 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)) in der Fassung des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+[^43-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^43-3]: [BS **6** 465; [AS 1956 587](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639); [1959 1343](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)Art. 11 Ziff. III; [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644); [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Anhang Ziff. 7; [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)Ziff. I 1; [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)Ziff. III; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)Ziff. I 3; [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Anhang 2 Ziff. 2; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 13; [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)Art. 92, [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. VI 6; [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)Ziff. I 1 Art. 41; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)Anhang Ziff. II 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 50. [AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)Art. 131 Abs. 1]. Siehe heute: das Zollgesetz vom 18. März 2005 ([SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)).
 
 #### Art. 44
 
@@ -758,7 +779,7 @@ Mit Busse bis zu 20 000 Franken wird bestraft, wer vorsätzlich und ohne Berecht
 
 Wird das Vergehen oder die Übertretung im Geschäftsbetrieb einer juristischen Person, einer Personengesellschaft oder einer Einzelfirma oder im Betrieb einer Körperschaft oder Anstalt des öffentlichen Rechts begangen, so gelten die Artikel 6 und 7 des Verwaltungsstrafrechtsgesetzes vom 22. März 1974[^44-1].
 
-[^44-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^44-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 45
 
@@ -776,7 +797,7 @@ Die Strafverfolgung ist Sache der Kantone.
 
 <sup>1</sup> Das Beschwerdeverfahren richtet sich nach den allgemeinen Bestimmungen über die Bundesrechtspflege.[^46-1]
 
-<sup>1bis</sup> und <sup>1ter</sup> …[^46-2]
+<sup>1bis und <sup>1ter</sup></sup> …[^46-2]
 
 <sup>2</sup> Das Bundesamt[^46-3] ist berechtigt, gegen Verfügungen der kantonalen Behörden in Anwendung dieses Gesetzes und seiner Ausführungserlasse, die Rechtsmittel des eidgenössischen und kantonalen Rechts zu ergreifen.
 
@@ -787,7 +808,7 @@ Die Strafverfolgung ist Sache der Kantone.
 [^46-1]: Fassung gemäss Anhang Ziff. 127 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^46-2]: Eingefügt durch Anhang Ziff. 9 des Gentechnikgesetzes vom 21. März 2003 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)). Aufgehoben durch Anhang Ziff. 127 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^46-3]: Ausdruck gemäss Ziff. I 17 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
-[^46-4]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^46-4]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 [^46-5]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [BBl 2014 4909](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 [^46-6]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [BBl 2014 4909](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
@@ -797,7 +818,7 @@ Die Strafverfolgung ist Sache der Kantone.
 
 Bewilligungen und Anordnungen nach diesem Gesetz werden erst wirksam, wenn sie in Rechtskraft erwachsen sind. Vorbehalten bleibt Artikel 12*e* des Bundesgesetzes vom 1. Juli 1966[^47-1] über den Natur- und Heimatschutz.[^47-2]
 
-[^47-1]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^47-1]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 [^47-2]: Zweiter Satz eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [BBl 2014 4909](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 #### Art. 48
@@ -808,7 +829,7 @@ Bewilligungen und Anordnungen nach diesem Gesetz werden erst wirksam, wenn sie i
 
 <sup>2</sup> Sie können in ihren Ausführungsvorschriften das Enteignungsgesetz vom 20. Juni 1930[^48-1] anwendbar erklären, wobei die Kantonsregierung über streitig gebliebene Einsprachen entscheidet. Erstreckt sich der Gegenstand der Enteignung auf das Gebiet mehrerer Kantone, ist das Bundesgesetz über die Enteignung anwendbar.
 
-[^48-1]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^48-1]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 48a
 
@@ -834,7 +855,7 @@ Die Kosten von Massnahmen, welche die Behörden zur Abwehr einer unmittelbar dro
 
 [^49-1]: Fassung gemäss Ziff. I 17 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 [^49-2]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [BBl 2014 4909](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
-[^49-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^49-3]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^49-4]: Zweiter Satz eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [BBl 2014 4909](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 #### Art. 50

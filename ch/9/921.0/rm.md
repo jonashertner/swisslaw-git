@@ -4,11 +4,11 @@ title: "Lescha federala dals 4 d'october 1991 davart il guaud (Lescha dal guaud,
 short: LG
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521"
 language: rm
-version: 2025-01-01
+version: 2025-08-01
 adopted: 1991-10-04
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521/20250101/rm/xml/fedlex-data-admin-ch-eli-cc-1992-2521_2521_2521-20250101-rm-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/20250101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521/20250801/rm/xml/fedlex-data-admin-ch-eli-cc-1992-2521_2521_2521-20250801-rm-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/20250801/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha dal guaud, LG)
 
-dals 4 d’october 1991 (versiun dal 1. da schaner 2025)
+dals 4 d’october 1991 (versiun dal 1. d’avust 2025)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -27,7 +27,7 @@ sa basond sin ils artitgels 74 alinea 1, 77 alineas 2 e 3, 78 alinea 4 e 95 alin
 
 concluda:
 
-[^t-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^t-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^t-2]: Versiun tenor la cifra 8 da l’agiunta da la LF dals 21 da zer. 2013, en vigur dapi il 1. da schan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 [^t-3]: [BBl 1988 III 173](https://fedlex.data.admin.ch/eli/fga/1988/3_173_157_137)
 
@@ -46,7 +46,7 @@ Questa lescha duai:
 - c. procurar ch’il guaud possia ademplir sias funcziuns, en spezial sia funcziun da protecziun, sia funcziun sociala e sia funcziun economica (funcziuns dal guaud);
 - d. promover e mantegnair l’economia forestala.
 
-<sup>2</sup> Ella duai ultra da quai gidar a proteger umans e valurs materialas considerablas cunter lavinas, bovas, erosiun e crudada da crappa (eveniments da la natira).
+<sup>2</sup> Ella duai ultra da quai gidar a proteger umans e valurs materialas considerablas cunter lavinas, bovas, erosiun e crudadas da crappa (eveniments da la natira).
 
 #### Art. 2
 
@@ -121,8 +121,8 @@ Ils implants d’energia da vent e lur vias d’access en il guaud valan sco lia
 <sup>2</sup> En cas d’implants d’energia da vent ch’èn situads ordaifer ils objects tenor l’artitgel 5 LPNP, vegn fatga la consideraziun dals interess tenor l’artitgel 3 LPNP.
 
 [^5a-1]: Integrà tras la cifra IV da la LF dals 29 da sett. 2023 davart in provediment d’electricitad segir cun energias regenerablas, en vigur dapi il 1. da schan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
-[^5a-2]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^5a-3]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+[^5a-2]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^5a-3]: [SR 922.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10979)
 
 #### Art. 6
 
@@ -169,7 +169,7 @@ Da la cumpensaziun per runcadas poi vegnir desistì:
 <sup>4</sup> Sche terren agricul recuperà tenor l’alinea 3 litera a vegn attribuì entaifer 30 onns ad in auter intent, sto la cumpensaziun per las runcadas vegnir prestada posteriuramain.
 
 [^7-1]: Versiun tenor la cifra I da la LF dals 16 da mars 2012, en vigur dapi il 1. da fan. 2013 ([AS 2013 1981](https://fedlex.data.admin.ch/eli/oc/2013/418); [BBl 2011 4397](https://fedlex.data.admin.ch/eli/fga/2011/666)[4425](https://fedlex.data.admin.ch/eli/fga/2011/668)).
-[^7-2]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^7-2]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 #### Art. 8
 
@@ -183,7 +183,7 @@ Da la cumpensaziun per runcadas poi vegnir desistì:
 
 Ils chantuns procuran per ina gulivaziun commensurada d’avantatgs considerabels che resultan tras permissiuns da runcar, ma che na vegnan betg tractads tenor l’artitgel 5 da la Lescha federala dals 22 da zercladur 1979[^9-1] davart la planisaziun dal territori.
 
-[^9-1]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^9-1]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 10
 
@@ -200,7 +200,7 @@ En il rom dal decret e da la revisiun da plans d’utilisaziun tenor la Lescha f
 
 <sup>3</sup> Sch’ina dumonda per ina determinaziun dal guaud stat en connex cun ina dumonda da runcar, sa drizza la cumpetenza tenor l’artitgel 6. L’autoritad federala cumpetenta decida sin proposta da l’autoritad chantunala cumpetenta.[^10-3]
 
-[^10-1]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^10-1]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 [^10-2]: Versiun tenor la cifra I da la LF dals 16 da mars 2012, en vigur dapi il 1. da fan. 2013 ([AS 2013 1981](https://fedlex.data.admin.ch/eli/oc/2013/418); [BBl 2011 4397](https://fedlex.data.admin.ch/eli/fga/2011/666)[4425](https://fedlex.data.admin.ch/eli/fga/2011/668)).
 [^10-3]: Integrà la segunda frasa tras la cifra I da la LF dals 18 da mars 2016, en vigur dapi il 1. da schan. 2017 ([AS 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [BBl 2014 4909](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
@@ -214,7 +214,7 @@ En il rom dal decret e da la revisiun da plans d’utilisaziun tenor la Lescha f
 
 <sup>2</sup> Sch’in project da construcziun dovra tant ina permissiun da runcar sco er ina permissiun excepziunala per construir ordaifer la zona da construcziun, dastga la permissiun excepziunala vegnir concedida mo en enclegientscha cun l’autoritad cumpetenta tenor l’artitgel 6 da questa lescha.
 
-[^11-1]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^11-1]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 12
 
@@ -295,9 +295,11 @@ En il guaud na dastgan vegnir utilisadas naginas substanzas privlusas per l’am
 
 #### Art. 19
 
-Nua che la protecziun da persunas u da valurs materialas considerablas pretenda quai, segireschan ils chantuns ils territoris da lavinas, da bovas, d’erosiun e da crudada da crappa e procuran per rempars d’auals en il guaud.[^19-1] Per las mesiras ston vegnir applitgadas metodas uschè natiralas sco pussaivel.
+[^19-1]
 
-[^19-1]: Versiun tenor la cifra I da la LF dals 18 da mars 2016, en vigur dapi il 1. da schan. 2017 ([AS 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [BBl 2014 4909](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+Nua che la protecziun da persunas u da valurs materialas considerablas pretenda quai, segireschan ils chantuns ils territoris da lavinas, da bovas, d’erosiun e da crudadas da crappa e procuran per rempars d’auals en il guaud. Las mesiras ston vegnir planisadas en moda integrala e sin basa da las ristgas, ed i ston vegnir applitgadas metodas uschè natiralas sco pussaivel.
+
+[^19-1]: Versiun tenor la cifra 5 da l’agiunta da la LF dals 15 da mars 2024, en vigur dapi il 1. d’avust 2025 ([AS 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [BBl 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 ## 4. chapitel Tgira ed utilisaziun dal guaud
 
@@ -363,7 +365,7 @@ Per garantir la segirezza a la lavur ston mandataris che fan lavurs da racolta d
 
 <sup>2</sup> Sche l’alienaziun u la partiziun dovra a medem temp ina permissiun tenor la Lescha federala dals 4 d’october 1991[^25-1] davart il dretg funsil puril, procuran ils chantuns che las proceduras da permissiun vegnian unidas e terminadas tras ina suletta decisiun.
 
-[^25-1]: [SR 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+[^25-1]: [SR 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
 
 ### 2. secziun Prevenziun e reparaziun da donns dal guaud
 
@@ -529,24 +531,26 @@ Contribuziuns da promoziun tenor questa lescha vegnan concedidas en il rom dals 
 
 #### Art. 36
 
-**Protecziun cunter eveniments da la natira**
+**Protecziun cunter eveniments da la natira**[^36-1]
 
-<sup>1</sup>
+<sup>1</sup> Sin basa da cunvegnas da program conceda la Confederaziun als chantuns indemnisaziuns globalas per la procuraziun da datas da basa sco er per mesiras ch’èn necessarias per la protecziun cunter eveniments da la natira en quai che reguarda la planisaziun dal territori, l’organisaziun, la biologia u la tecnica.
 
-Sin basa da cunvegnas da program conceda la Confederaziun als chantuns indemnisaziuns globalas per mesiras che protegian umans e valurs materialas considerablas cunter eveniments da la natira, en spezial per:[^36-1]
+<sup>2</sup>
 
-- a.[^36-2] construir, reparar e remplazzar ovras e stabiliments da protecziun;
-- b. crear guauds cun ina funcziun da protecziun particulara sco er tgirar correspundentamain il guaud giuven;
-- c. elavurar catasters e chartas da privels, endrizzar e manar posts da mesiraziun sco er stabilir servetschs da preavertiment per segirar abitadis e vias da traffic.
+La Confederaziun conceda indemnisaziuns en spezial per:
 
-<sup>2</sup> Excepziunalmain po ella conceder en il cas singul indemnisaziuns sin basa d’ina disposiziun per projects che pretendan in giudicament da la Confederaziun.[^36-3]
+- a. l’elavuraziun da datas da basa sco analisas d’eveniments, catasters, giudicaments dals privels, survistas da las ristgas e planisaziuns generalas;
+- b. mesiras da la planisaziun dal territori sco scleriments per limitar las ristgas ed il spustament d’edifizis e da stabiliments periclitads en lieus segirs;
+- c. mesiras organisatoricas sco indrizs d’avertiment, planisaziuns d’intervenziuns e disposiziuns tecnicas per intervenziuns en cas d’urgenza;
+- d. mesiras biologicas sco la creaziun da guauds cun ina funcziun da protecziun sco er la tgira correspundenta dals guauds giuvens;
+- e. mesiras tecnicas sco il mantegniment, la reparaziun, il rinforzament, il remplazzament e la construcziun d’ovras e da stabiliments da protecziun;
+- f. mesiras sco l’eliminaziun da donns en spazis da distgargia en cas d’eveniments.
 
-<sup>3</sup> L’autezza da las indemnisaziuns sa drizza tenor la periclitaziun tras eveniments da la natira sco er tenor ils custs e tenor l’efficacitad da las mesiras.[^36-4]
+<sup>3</sup> Excepziunalmain po la Confederaziun conceder, tras disposiziuns, indemnisaziuns per projects che pretendan ses giudicament en il cas singul.
 
-[^36-1]: Versiun tenor la cifra II 30 da la LF dals 6 d’oct. 2006 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns (NGF), en vigur dapi il 1. da schan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^36-2]: Versiun tenor la cifra II 30 da la LF dals 6 d’oct. 2006 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns (NGF), en vigur dapi il 1. da schan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^36-3]: Integrà tras la cifra II 30 da la LF dals 6 d’oct. 2006 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns (NGF), en vigur dapi il 1. da schan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^36-4]: Integrà tras la cifra II 30 da la LF dals 6 d’oct. 2006 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns (NGF), en vigur dapi il 1. da schan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+<sup>4</sup> L’autezza da las indemnisaziuns sa drizza tenor la periclitaziun tras eveniments da la natira sco er tenor ils custs e tenor l’efficacitad da las mesiras.
+
+[^36-1]: Versiun tenor la cifra 5 da l’agiunta da la LF dals 15 da mars 2024, en vigur dapi il 1. d’avust 2025 ([AS 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [BBl 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 #### Art. 37
 
@@ -655,7 +659,7 @@ Ella conceda agids finanzials:
 
 <sup>3</sup> ...[^39-4]
 
-[^39-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^39-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 [^39-2]: Versiun tenor la cifra II 6 da l’agiunta da la LF dals 13 da dec. 2002 davart la furmaziun professiunala, en vigur dapi il 1. da schan. 2004 ([AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674); [BBl 2000 5686](https://fedlex.data.admin.ch/eli/fga/2000/1232)).
 [^39-3]: Versiun tenor la cifra II 6 da l’agiunta da la LF dals 13 da dec. 2002 davart la furmaziun professiunala, en vigur dapi il 1. da schan. 2004 ([AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674); [BBl 2000 5686](https://fedlex.data.admin.ch/eli/fga/2000/1232)).
 [^39-4]: Abolì tras la cifra I da la LF dals 18 da mars 2016, cun effect dapi il 1. da schan. 2017 ([AS 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [BBl 2014 4909](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
@@ -699,15 +703,32 @@ La Confederaziun po conceder emprests restituibels senza tschains u a tschains b
 
 #### Art. 41a
 
+**Designaziun da la derivanza[^41a-1]**
+
 <sup>1</sup> Per promover la qualitad e la vendita po il Cussegl federal decretar prescripziuns davart la designaziun voluntara da products forestals e da lur elavuraziuns.
 
-<sup>2</sup> Per la registraziun, per la protecziun da las designaziuns, per las proceduras e per la protecziun giuridica vala la Lescha d’agricultura dals 29 d’avrigl 1998[^41a-1].[^41a-2]
+<sup>2</sup> Per la registraziun, per la protecziun da las designaziuns, per las proceduras e per la protecziun giuridica vala la Lescha d’agricultura dals 29 d’avrigl 1998[^41a-2].[^41a-3]
 
-<sup>3</sup> Il Cussegl federal po delegar la controlla a terzas persunas.[^41a-3]
+<sup>3</sup> Il Cussegl federal po delegar la controlla a terzas persunas.[^41a-4]
 
-[^41a-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^41a-2]: Versiun tenor la cifra 2 da l’agiunta da la LF dals 16 da zer. 2023, en vigur dapi il 1. da schan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
-[^41a-3]: Integrà tras la cifra 2 da l’agiunta da la LF dals 16 da zer. 2023, en vigur dapi il 1. da schan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^41a-1]: Integrà tras la cifra I da la LF dals 27 da sett. 2024, en vigur dapi il 1. d’avust 2025 ([AS 2025 403](https://fedlex.data.admin.ch/eli/oc/2025/403); [BBl 2024 971](https://fedlex.data.admin.ch/eli/fga/2024/971), [1126](https://fedlex.data.admin.ch/eli/fga/2024/1126)).
+[^41a-2]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^41a-3]: Versiun tenor la cifra 2 da l’agiunta da la LF dals 16 da zer. 2023, en vigur dapi il 1. da schan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^41a-4]: Integrà tras la cifra 2 da l’agiunta da la LF dals 16 da zer. 2023, en vigur dapi il 1. da schan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+
+#### Art. 41b
+
+**Pretschs directivs per laina nunelavurada**[^41b-1]
+
+<sup>1</sup> Las organisaziuns dals proprietaris da guaud pon publitgar, sin plaun naziunal u regiunal, pretschs directivs per laina nunelavurada, fixads dals furniturs e dals clients tras ina cunvegna cuminaivla.
+
+<sup>2</sup> Ils pretschs directivs ston vegnir differenziads tenor spezias da bostgs, tenor sortiments e tenor nivels da qualitad.
+
+<sup>3</sup> Las interpresas na pon betg vegnir sfurzadas d’observar ils pretschs directivs.
+
+<sup>4</sup> Per ils pretschs da consum na dastgan vegnir fixads nagins pretschs directivs.
+
+[^41b-1]: Integrà tras la cifra I da la LF dals 27 da sett. 2024, en vigur dapi il 1. d’avust 2025 ([AS 2025 403](https://fedlex.data.admin.ch/eli/oc/2025/403); [BBl 2024 971](https://fedlex.data.admin.ch/eli/fga/2024/971), [1126](https://fedlex.data.admin.ch/eli/fga/2024/1126)).
 
 ## 6. chapitel Disposiziuns penalas
 
@@ -725,7 +746,7 @@ Cun in chasti da detenziun da fin 1 onn u cun in chasti pecuniar vegn chastià, 
 
 <sup>2</sup> Sch’il delinquent agescha per negligientscha, importa la multa fin 40 000 francs.
 
-[^42-1]: Versiun tenor l’art. 333 dal Cudesch penal ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) en la versiun da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+[^42-1]: Versiun tenor l’art. 333 dal Cudesch penal ([SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)) en la versiun da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
 
 #### Art. 43
 
@@ -750,9 +771,9 @@ Cun ina multa fin 20 000 francs vegn chastià, tgi che fa intenziunadamain e sen
 
 <sup>4</sup> Ils chantuns pon chastiar cuntravenziuns cunter il dretg chantunal sco surpassaments.
 
-[^43-1]: Versiun tenor l’art. 333 dal Cudesch penal ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) en la versiun da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
-[^43-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^43-3]: [BS **6** 465; [AS 1956 587](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639); [1959 1343](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)art. 11 cifra III; [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644); [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)agiunta cifra 7; [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)cifra I 1; [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)cifra III; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)cifra I 3; [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)agiunta 2 cifra 2; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)agiunta cifra 13; [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92, [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra VI 6; [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)cifra I 1 art. 41; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)agiunta cifra II 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)agiunta cifra 50. [AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)art. 131 al. 1]. Guardar oz: Lescha da duana dals 18 da mars 2005 ([SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
+[^43-1]: Versiun tenor l’art. 333 dal Cudesch penal ([SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)) en la versiun da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+[^43-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^43-3]: [BS **6** 465; [AS 1956 587](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639); [1959 1343](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)art. 11 cifra III; [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644); [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)agiunta cifra 7; [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)cifra I 1; [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)cifra III; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)cifra I 3; [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)agiunta 2 cifra 2; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)agiunta cifra 13; [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92, [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra VI 6; [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)cifra I 1 art. 41; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)agiunta cifra II 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)agiunta cifra 50. [AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)art. 131 al. 1]. Guardar oz: Lescha da duana dals 18 da mars 2005 ([SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)).
 
 #### Art. 44
 
@@ -760,7 +781,7 @@ Cun ina multa fin 20 000 francs vegn chastià, tgi che fa intenziunadamain e sen
 
 Sch’il delict u il surpassament vegn commess en l’interpresa d’ina persuna giuridica, d’ina societad da persunas u d’ina firma singula u en il manaschi d’ina corporaziun u d’in institut da dretg public, valan ils artitgels 6 e 7 da la Lescha federala dals 22 da mars 1974[^44-1] davart il dretg penal administrativ.
 
-[^44-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^44-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 45
 
@@ -789,7 +810,7 @@ La persecuziun penala è chaussa dals chantuns.
 [^46-1]: Versiun tenor la cifra 127 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF, en vigur dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^46-2]: Integrà tras la cifra 9 da la L dals 21 da mars 2003 davart la tecnica genetica ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)). Abolì tras la cifra 127 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF, cun effect dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^46-3]: Expressiun tenor la cifra I 17 da la LF dals 18 da zer. 1999 davart la coordinaziun e la simplificaziun da proceduras da decisiun, en vigur dapi il 1. da schan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
-[^46-4]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^46-4]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 [^46-5]: Versiun tenor la cifra I da la LF dals 18 da mars 2016, en vigur dapi il 1. da schan. 2017 ([AS 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [BBl 2014 4909](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 [^46-6]: Integrà tras la cifra I da la LF dals 18 da mars 2016, en vigur dapi il 1. da schan. 2017 ([AS 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [BBl 2014 4909](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
@@ -799,7 +820,7 @@ La persecuziun penala è chaussa dals chantuns.
 
 Permissiuns ed ordinaziuns tenor questa lescha han pir effect giuridic, cur ch’ellas han survegnì forza legala. Resalvà resta l’artitgel 12*e* da la Lescha federala dal 1. da fanadur 1966[^47-1] davart la protecziun da la natira e da la patria.[^47-2]
 
-[^47-1]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^47-1]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 [^47-2]: Integrà la segunda frasa tras la cifra I da la LF dals 18 da mars 2016, en vigur dapi il 1. da schan. 2017 ([AS 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [BBl 2014 4909](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 #### Art. 48
@@ -810,7 +831,7 @@ Permissiuns ed ordinaziuns tenor questa lescha han pir effect giuridic, cur ch�
 
 <sup>2</sup> En lur prescripziuns executivas pon els declerar sco applitgabla la Lescha federala dals 20 da zercladur 1930[^48-1] davart l’expropriaziun; en quest cas decida la regenza chantunala davart protestas ch’èn anc pendentas. Sche l’object da l’expropriaziun s’extenda sin il territori da plirs chantuns, è applitgabla la Lescha federala davart l’expropriaziun.
 
-[^48-1]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^48-1]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 48a
 
@@ -836,7 +857,7 @@ Ils custs da mesiras che las autoritads prendan u ordineschan per defender il gu
 
 [^49-1]: Versiun tenor la cifra I 17 da la LF dals 18 da zer. 1999 davart la coordinaziun e la simplificaziun da proceduras da decisiun, en vigur dapi il 1. da schan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 [^49-2]: Integrà tras la cifra I da la LF dals 18 da mars 2016, en vigur dapi il 1. da schan. 2017 ([AS 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [BBl 2014 4909](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
-[^49-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^49-3]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^49-4]: Integrà la segunda frasa tras la cifra I da la LF dals 18 da mars 2016, en vigur dapi il 1. da schan. 2017 ([AS 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [BBl 2014 4909](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 #### Art. 50

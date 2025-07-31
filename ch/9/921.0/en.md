@@ -4,11 +4,11 @@ title: "Federal Act of 4 October 1991 on Forest (Forest Act, ForA)"
 short: ForA
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521"
 language: en
-version: 2025-01-01
+version: 2025-08-01
 adopted: 1991-10-04
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521/20250101/en/xml/fedlex-data-admin-ch-eli-cc-1992-2521_2521_2521-20250101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/20250101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521/20250801/en/xml/fedlex-data-admin-ch-eli-cc-1992-2521_2521_2521-20250801-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/20250801/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Forest Act, ForA)
 
-of 4 October 1991 (Status as of 1 January 2025)
+of 4 October 1991 (Status as of 1 August 2025)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -27,7 +27,7 @@ based on the articles 74 paragraph 1, 77 paragraphs 2 and 3, 78 paragraph 4 and 
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Amended by Annex No 8 of the FA of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 [^ingress-3]: [BBl 1988 III 173](https://fedlex.data.admin.ch/eli/fga/1988/3_173_157_137)
 
@@ -121,8 +121,8 @@ Wind energy facilities and their access routes in the forest are considered perm
 <sup>2</sup> In the case of wind energy facilities not located at a site that falls under Article 5 NCHA, interests shall be weighed in application of Article 3 NCHA.
 
 [^5a-1]: Inserted by No IV of the FA of 29 Sept. 2023 on a Secure Electricity Supply from Renewable Energy, in force since 1 Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
-[^5a-2]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^5a-3]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+[^5a-2]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^5a-3]: [SR 922.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10979)
 
 #### Art. 6
 
@@ -169,7 +169,7 @@ Compensation for deforestation may be dispensed with in the case of deforestatio
 <sup>4</sup> If arable land that has been reclaimed in accordance with paragraph 3 letter is given a different use within 30 years, the compensation for deforestation must be provided retrospectively.
 
 [^7-1]: Amended by No I of the FA of 16 March 2012, in force since 1 July 2013 ([AS 2013 1981](https://fedlex.data.admin.ch/eli/oc/2013/418); [BBl 2011 4397](https://fedlex.data.admin.ch/eli/fga/2011/666), [4425](https://fedlex.data.admin.ch/eli/fga/2011/668)).
-[^7-2]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^7-2]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 #### Art. 8
 
@@ -183,7 +183,7 @@ Compensation for deforestation may be dispensed with in the case of deforestatio
 
 The cantons shall ensure that considerable benefits arising from deforestation permits that are not covered by Article 5 of the Federal Act on Spatial Planning of 22 June 1979[^9-1] are adequately compensated for.
 
-[^9-1]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^9-1]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 10
 
@@ -200,7 +200,7 @@ When enacting and revising land-use plans in accordance with the Federal Act of 
 
 <sup>3</sup> If a request for declaration as forest is made in association with an application for deforestation, responsibility is governed by Article 6. The competent federal authority decides at the request of the competent cantonal authority.[^10-3]
 
-[^10-1]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^10-1]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 [^10-2]: Amended by No I of the FA of 16 March 2012, in force since 1 July 2013 ([AS 2013 1981](https://fedlex.data.admin.ch/eli/oc/2013/418); [BBl 2011 4397](https://fedlex.data.admin.ch/eli/fga/2011/666), [4425](https://fedlex.data.admin.ch/eli/fga/2011/668)).
 [^10-3]: Second sentence inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2017 ([AS 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [BBl 2014 4909](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
@@ -214,7 +214,7 @@ When enacting and revising land-use plans in accordance with the Federal Act of 
 
 <sup>2</sup> Should a construction project require both a deforestation permit and an exceptional permit to build outside the building zone, the latter may only be granted in agreement with the competent authority as stated in Article 6 of this Act.
 
-[^11-1]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^11-1]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 12
 
@@ -295,9 +295,11 @@ The use of environmentally hazardous substances in the forest is prohibited. Exe
 
 #### Art. 19
 
-Where necessary for the protection of human life and significant material assets, the cantons shall secure avalanche, landslide, erosion and rockfall areas and carry out torrent control works in forests.[^19-1] The measures used should be as natural as possible.
+[^19-1]
 
-[^19-1]: Amended by No I of the FA of 18 March 2016, in force since 1 Jan. 2017 ([AS 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [BBl 2014 4909](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+Where necessary for the protection of human life and significant material assets, the cantons shall secure avalanche, landslide, erosion and rockfall areas and carry out stream control works in forests. Measures must be planned in an integrated and risk-based manner and the methods used should be as natural as possible.
+
+[^19-1]: Amended by Annex No 5 of the FA of 15 March 2024, in force since 1 Aug. 2025 ([AS 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [BBl 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 ## Chapter 4 Maintenance and Use of the Forest
 
@@ -363,7 +365,7 @@ In order to ensure worker safety, contractors engaging in wood harvesting in the
 
 <sup>2</sup> If the alienation or division also requires authorisation in accordance with the Federal Act of 4 October 1991[^25-1] on Rural Land Rights, the cantons shall ensure that the authorisation processes procedures are combined and concluded by joint decision.
 
-[^25-1]: [SR 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+[^25-1]: [SR 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
 
 ### Section 2 Prevention and Remediation of Forest Damage
 
@@ -529,24 +531,26 @@ Subsidies paid in accordance with this Act is granted within the scope of the au
 
 #### Art. 36
 
-**Protection against natural events**
+**Protection against natural events**[^36-1]
 
-<sup>1</sup>
+<sup>1</sup> Based on programme agreements, the Confederation shall make global compensatory payments to the cantons for compiling data and for measures required in spatial planning, organisational, biological and technical terms to provide protection against natural events.
 
-The Confederation grants to the cantons on the basis of programme agreements global compensatory payments for measures that protect human life and significant material assets against natural events, in particular for:[^36-1]
+<sup>2</sup>
 
-- a.[^36-2] the erection, maintenance and replacement of protective structures and installations;
-- b. the creation of forest with special protective function and the corresponding young forest maintenance;
-- c. the compilation of hazard registers and hazard maps, the establishment and operation of monitoring stations and the development of early-warning services to secure settlements and transport routes.
+It shall make compensatory payments for:
 
-<sup>2</sup> By way of exception, it may provide financial assistance by means of a ruling for projects that require an individual assessment by the Confederation.[^36-3]
+- a. the compilation of data such as event analyses, registers, hazard assessments, risk maps and overall plans;
+- b. spatial planning measures such as risk mitigation assessments and moving buildings and installations at risk to safe locations;
+- c. organisational measures such as warning systems, operational planning and technical precautions for emergency response operations;
+- d. biological measures such as creating forest with special protective functions and related young forest maintenance;
+- e. technical measures such as the maintenance, repair, reinforcement, replacement and construction of protective structures and installations;
+- f. measures such as repairing damage to buffer zones caused by events.
 
-<sup>3</sup> The amount of financial assistance provided is determined by the risk posed by natural events and the cost and effectiveness of the measures.[^36-4]
+<sup>3</sup> By way of exception, it may make compensatory payments by means of a ruling for projects that require an individual assessment by the Confederation.
 
-[^36-1]: Amended by No II 30 of the Federal Act of 6 Oct. 2006 on the New System of Financial Equalisation and Division of Tasks between the Confederation and the Cantons (NFE), in force since 1 Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^36-2]: Amended by No II 30 of the Federal Act of 6 Oct. 2006 on the New System of Financial Equalisation and Division of Tasks between the Confederation and the Cantons (NFE), in force since 1 Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^36-3]: Inserted by No II 30 of the Federal Act of 6 Oct. 2006 on the New System of Financial Equalisation and Division of Tasks between the Confederation and the Cantons (NFE), in force since 1 Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^36-4]: Inserted by No II 30 of the Federal Act of 6 Oct. 2006 on the New System of Financial Equalisation and Division of Tasks between the Confederation and the Cantons (NFE), in force since 1 Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+<sup>4</sup> The amount of the compensatory payments made is determined by the risk posed by natural events and the cost and effectiveness of the measures.
+
+[^36-1]: Amended by Annex No 5 of the FA of 15 March 2024, in force since 1 Aug. 2025 ([AS 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [BBl 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 #### Art. 37
 
@@ -554,14 +558,14 @@ The Confederation grants to the cantons on the basis of programme agreements glo
 
 <sup>1</sup>
 
-The Confederation grants to the cantons on the basis of programme agreements global financial assistance for measures necessary for the fulfilment of function of the protective forest, in particular for:
+The Confederation shall make global compensatory payments to the cantons on the basis of programme agreements for measures necessary for the fulfilment of function of the protective forest, in particular for:
 
 - a. the maintenance of the protective forest, including the prevention and remediation of forest damage that endanger the protective forest;
 - b. the guaranteeing of the infrastructure for the maintenance of the protective forest insofar as it takes the forest as a natural community into account.
 
-<sup>1bis</sup> By way of exception, it may provide financial assistance by means of a ruling for projects that originate as the result of an extraordinary natural event.[^37-2]
+<sup>1bis</sup> By way of exception, it may make compensatory payments by means of a ruling for projects that originate as the result of an extraordinary natural event.[^37-2]
 
-<sup>2</sup> The amount of financial assistance is determined by the protective forest area to be maintained, the risk to be hindered and the impact of the measures.
+<sup>2</sup> The amount of the compensatory payments made is determined by the protective forest area to be maintained, the risk to be hindered and the impact of the measures.
 
 [^37-1]: Amended by No II 30 of the Federal Act of 6 Oct. 2006 on the New System of Financial Equalisation and Division of Tasks between the Confederation and the Cantons (NFE), in force since 1 Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^37-2]: Inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2017 ([AS 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [BBl 2014 4909](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
@@ -570,11 +574,11 @@ The Confederation grants to the cantons on the basis of programme agreements glo
 
 **Measures against forest damage outside the protective forest**[^37a-1]
 
-<sup>1</sup> The Confederation shall grant the cantons on the basis of programme agreements global financial assistance for measures to prevent and mitigate forest damage outside the protective forest which is caused by natural events or harmful organisms.
+<sup>1</sup> The Confederation shall make global compensatory payments to the cantons on the basis of programme agreements for measures to prevent and mitigate forest damage outside the protective forest which is caused by natural events or harmful organisms.
 
-<sup>2</sup> By way of exception, it may provide financial assistance by means of a ruling for individual projects that require an assessment by the Confederation.
+<sup>2</sup> By way of exception, it may make compensatory payments by means of a ruling for individual projects that require an assessment by the Confederation.
 
-<sup>3</sup> The amount of financial assistance is determined by the risk to be hindered and the impact of the measures.
+<sup>3</sup> The amount of the compensatory payments made is determined by the hazard to be prevented and the impact of the measures.
 
 [^37a-1]: Inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2017 ([AS 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [BBl 2014 4909](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
@@ -655,7 +659,7 @@ It provides financial assistance:
 
 <sup>3</sup> …[^39-4]
 
-[^39-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^39-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 [^39-2]: Amended by Annex No II 6 of the Vocational and Professional Education and Training Act of 13 December 2002, in force since 1 Jan. 2004 ([AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674); [BBl 2000 5686](https://fedlex.data.admin.ch/eli/fga/2000/1232)).
 [^39-3]: Amended by Annex No II 6 of the Vocational and Professional Education and Training Act of 13 December 2002, in force since 1 Jan. 2004 ([AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674); [BBl 2000 5686](https://fedlex.data.admin.ch/eli/fga/2000/1232)).
 [^39-4]: Repealed by No I of the FA of 18 March 2016, with effect from 1 Jan. 2017 ([AS 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [BBl 2014 4909](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
@@ -699,15 +703,32 @@ The Confederation may grant interest-free or low-interest repayable credits:
 
 #### Art. 41a
 
+**Declaration of origin[^41a-1]**
+
 <sup>1</sup> The Federal Council may issue regulations on the voluntary declaration of origin of forest products and their processed products in order to promote quality and sales.
 
-<sup>2</sup> Registration, protection of labels, procedures and legal protection are governed by the Agriculture Act of 29 April 1998[^41a-1].[^41a-2]
+<sup>2</sup> Registration, protection of labels, procedures and legal protection are governed by the Agriculture Act of 29 April 1998[^41a-2].[^41a-3]
 
-<sup>3</sup> The Federal Council may transfer responsibility for the above to third parties.[^41a-3]
+<sup>3</sup> The Federal Council may transfer responsibility for the above to third parties.[^41a-4]
 
-[^41a-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^41a-2]: Amended by Annex No 2 of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
-[^41a-3]: Inserted by Annex No 2 of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^41a-1]: Inserted by No I of the FA of 27 Sept. 2024, in force since 1 Aug. 2025 ([AS 2025 403](https://fedlex.data.admin.ch/eli/oc/2025/403); [BBl 2024 971](https://fedlex.data.admin.ch/eli/fga/2024/971), [1126](https://fedlex.data.admin.ch/eli/fga/2024/1126)).
+[^41a-2]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^41a-3]: Amended by Annex No 2 of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^41a-4]: Inserted by Annex No 2 of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+
+#### Art. 41b
+
+**Recommended prices for raw timber**[^41b-1]
+
+<sup>1</sup> The forest owners’ organisations may at national or regional level issue recommended prices for raw timber that suppliers and their customers have agreed on.
+
+<sup>2</sup> The recommended prices shall differ according to tree species, product range and quality grades.
+
+<sup>3</sup> There shall be no obligation to comply with the recommended prices.
+
+<sup>4</sup> No recommended prices shall be stipulated for consumers.
+
+[^41b-1]: Inserted by No I of the FA of 27 Sept. 2024, in force since 1 Aug. 2025 ([AS 2025 403](https://fedlex.data.admin.ch/eli/oc/2025/403); [BBl 2024 971](https://fedlex.data.admin.ch/eli/fga/2024/971), [1126](https://fedlex.data.admin.ch/eli/fga/2024/1126)).
 
 ## Chapter 6 Criminal Provisions
 
@@ -725,7 +746,7 @@ Any person who wilfully:[^42-1]
 
 <sup>2</sup> If the offender acts negligently, he or she shall be liable to a monetary penalty not exceeding 40,000 Swiss francs.
 
-[^42-1]: Amended by Art. 333 of the Criminal Code ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in its Version according to the Federal Act of 13 Dec. 2002, in force since 1 Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+[^42-1]: Amended by Art. 333 of the Criminal Code ([SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)) in its version according to the Federal Act of 13 Dec. 2002, in force since 1 Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
 
 #### Art. 43
 
@@ -750,9 +771,9 @@ Any person who wilfully and without authorisation[^43-1]:
 
 <sup>4</sup> The cantons may sanction offences against cantonal law as contraventions.
 
-[^43-1]: Amended by Art. 333 of the Criminal Code ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in its Version according to the FA of 13 Dec. 2002, in force since 1 Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
-[^43-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^43-3]: [BS **6** 465; [AS 1956 587](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639); [1959 1343](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)Art. 11 No III; [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644); [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Annex No 7; [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)No I 1; [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)No III; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)No I 3; [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Annex 2 No 2; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Annex No 13; [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)Art. 92, [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)No VI 6; [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)No I 1 Art. 41; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)Annex No II 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 50. [AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)Art. 131 para. 1]. See now: the Customs Act of 18 March 2005 ([SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
+[^43-1]: Amended by Art. 333 of the Criminal Code ([SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)) in its Version according to the FA of 13 Dec. 2002, in force since 1 Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+[^43-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^43-3]: [BS **6** 465; [AS 1956 587](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639); [1959 1343](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)Art. 11 No III; [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644); [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Annex No 7; [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)No I 1; [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)No III; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)No I 3; [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Annex 2 No 2; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Annex No 13; [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)Art. 92, [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)No VI 6; [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)No I 1 Art. 41; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)Annex No II 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 50. [AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)Art. 131 para. 1]. See now: the Customs Act of 18 March 2005 ([SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)).
 
 #### Art. 44
 
@@ -760,7 +781,7 @@ Any person who wilfully and without authorisation[^43-1]:
 
 If the offence or contravention is committed in the course of business of a legal entity, a partnership or a sole proprietorship or in the course of business of a public law corporation or institution, Articles 6 and 7 of the Federal Act of 22 March 1974[^44-1] on Administrative Criminal Law apply.
 
-[^44-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^44-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 45
 
@@ -788,8 +809,8 @@ The cantons are responsible for prosecution.
 
 [^46-1]: Amended by No 127 of the Administrative Procedure Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^46-2]: Inserted by Annex No 9 of the Gene Technology Act of 21 March 2003 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)). Repealed by Annex No 127 of the Administrative Procedure Act of 17 June 2005, with effect from 1. Jan. 2007 (AS **2002** 2197 1069; [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^46-3]: Term in accordiance with No I 17 of the Federal Act of 18 June 1999 on the Coordination and Simplification of Decision-making Procedures, in force since 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
-[^46-4]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^46-3]: Term in accordance with No I 17 of the Federal Act of 18 June 1999 on the Coordination and Simplification of Decision-Making Procedures, in force since 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
+[^46-4]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 [^46-5]: Amended by No I of the FA of 18 March 2016, in force since 1 Jan. 2017 ([AS 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [BBl 2014 4909](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 [^46-6]: Inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2017 ([AS 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [BBl 2014 4909](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
@@ -799,7 +820,7 @@ The cantons are responsible for prosecution.
 
 Authorisations and orders in terms of this Act only become effective when they come into force. This is subject to Article 12*e* of the Federal Act of 1 July 1966[^47-1] on the Protection of Nature and Cultural Heritage.[^47-2]
 
-[^47-1]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^47-1]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 [^47-2]: Second sentence inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2017 ([AS 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [BBl 2014 4909](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 #### Art. 48
@@ -810,7 +831,7 @@ Authorisations and orders in terms of this Act only become effective when they c
 
 <sup>2</sup> The cantons may declare the Compulsory Purchase Act of 20 June 1930[^48-1] to be applicable in their implementing provisions whereby the cantonal government shall rule on any objections that remain in dispute. If the object of the compulsory purchase extends over the territory of more than one canton, the Compulsory Purchase Act applies.
 
-[^48-1]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^48-1]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 48a
 
@@ -836,7 +857,7 @@ The costs of measures that the authorities introduce or order to prevent immedia
 
 [^49-1]: Amended by No I 17 of the Federal Act of 18 June 1999 on the Coordination and Simplification of Decision-Making Procedures, in force since 1 Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 [^49-2]: Inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2017 ([AS 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [BBl 2014 4909](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
-[^49-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^49-3]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^49-4]: Second sentence inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2017 ([AS 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [BBl 2014 4909](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 #### Art. 50
@@ -926,5 +947,7 @@ The following are repealed:
 <sup>2</sup> The Federal Council determines the commencement date.
 
 Commencement date:[^57-1] 1 January 1993
+
+Art. 40 and 54 let. b: 1 January 1994
 
 [^57-1]: FCD of 30 Nov. 1992.
