@@ -4,13 +4,13 @@ number: "423.123"
 title: Verordnung über die Mittelschule
 short: Mittelschulverordnung
 language: de
-version: 2024-09-15
-valid_until: 2025-07-31
-version_adopted: 2024-06-05
+version: 2025-08-01
+valid_until: 2026-07-31
+version_adopted: 2025-05-21
 adopted: 2015-06-03
 in_force: 2016-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/423.123"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3712/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3826/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3712/pdf_file"
 
 (Mittelschulverordnung)
 
-Vom 03.06.2015 (Stand 15.09.2024)
+Vom 03.06.2015 (Stand 01.08.2025)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -339,7 +339,7 @@ beschliesst:
 
 **Aufnahme in den Lehrgang für Leistungssportlerinnen und -sportler**
 
-<sup>1</sup> Schülerinnen und Schüler, die in die 1. Klasse des Gymnasiums eintreten, können im Rahmen der verfügbaren Plätze den Lehrgang für Leistungssportlerinnen und -sportler absolvieren, sofern sie die Eignungsabklärung erfolgreich durchlaufen.
+<sup>1</sup> Schülerinnen und Schüler, die in die 1. Klasse des Gymnasiums eintreten, können im Rahmen der verfügbaren Plätze den Lehrgang für Leistungssportlerinnen und ‑sportler absolvieren, sofern sie die Eignungsabklärung erfolgreich durchlaufen.
 
 ### 3.6. Aufnahme ins Hospitium und Übertritt ins Definitivum
 
