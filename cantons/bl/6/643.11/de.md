@@ -3,20 +3,20 @@ canton: BL
 number: "643.11"
 title: Verordnung über das Gymnasium (Maturitätsschule und Fachmittelschule)
 language: de
-version: 2024-08-01
-valid_until: 2025-07-31
-version_adopted: 2024-02-06
+version: 2025-08-01
+valid_until: 2025-12-31
+version_adopted: 2025-06-17
 adopted: 2003-05-13
 in_force: 2003-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/643.11"
-pdf: "https://bl.clex.ch/api/de/versions/3895/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4294/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Gymnasium (Maturitätsschule und Fachmittelschule)
 
-Vom 13.05.2003 (Stand 01.08.2024)
+Vom 13.05.2003 (Stand 01.08.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -147,6 +147,14 @@ beschliesst:
 <sup>3</sup> …
 
 <sup>4</sup> …
+
+#### § 8b
+
+**Altersgrenze**
+
+<sup>1</sup> Schülerinnen und Schüler werden bis zum vollendeten 19. Altersjahr (Stichtag 31. Juli des Eintrittsjahrs) in eine 1. Klasse eines Gymnasiums (Maturitätsschule oder Fachmittelschule) regulär aufgenommen. Für die Aufnahme in eine höhere Klasse gilt das entsprechend höhere Altersjahr.
+
+<sup>2</sup> Ab dem vollendeten 19. Altersjahr entscheidet die Hauptabteilung Berufs- und Mittelschulen der Dienststelle BMH nach Rücksprache mit der jeweiligen Schulleitung über die Aufnahme. Sie orientiert sich am bisherigen Bildungsverlauf und den Bildungszielen der Gesuchstellerin bzw. des Gesuchstellers. Zieht die Hauptabteilung Berufs- und Mittelschulen der Dienststelle BMH eine Ablehnung des Gesuchs in Betracht, hört sie die Gesuchstellerin oder den Gesuchsteller vorgängig mündlich an.
 
 #### § 9
 
