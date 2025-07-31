@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 16. Dezember 2005 über die Ausländerinnen und Auslän
 short: AIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: de
-version: 2025-06-15
+version: 2025-08-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20250615/de/xml/fedlex-data-admin-ch-eli-cc-2007-758-20250615-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250615/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20250801/de/xml/fedlex-data-admin-ch-eli-cc-2007-758-20250801-de-xml-20.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250615/de"
 
 (Ausländer- und Integrationsgesetz, AIG)[^t-1]
 
-vom 16. Dezember 2005 (Stand am 15. Juni 2025)
+vom 16. Dezember 2005 (Stand am 1. August 2025)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -3023,7 +3023,7 @@ Das ETIAS enthält zudem eine Überwachungsliste mit Daten von Drittstaatsangeh�
 
 <sup>3</sup> Die Daten nach Absatz 1 Buchstabe a werden automatisiert im gemeinsamen Speicher für Identitätsdaten (CIR) gespeichert.[^108a-4]
 
-[^108a-1]: Eingefügt durch Anhang Ziff. 1 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2018/1240 über das Europäische Reiseinformations- und -genehmigungssystem (ETIAS) ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^108a-1]: Eingefügt durch Anhang Ziff. 1 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2018/1240 über das Europäische Reiseinformations- und -genehmigungssystem (ETIAS), in Kraft seit 15. Juni 2025 ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 [^108a-2]: Siehe Fussnote zu Art. 5 Abs. 1 Bst. a<sup>bis</sup>.
 [^108a-3]: Fassung gemäss Anhang Ziff. 1 des BB vom 16. Dez. 2022 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2021/1150 und 2021/1152 zur Festlegung der Bedingungen für den Zugang zu anderen EU Informationssystemen für die Zwecke des Europäischen Reiseinformations- und ‑genehmigungssystems (ETIAS), in Kraft seit 15. Juni 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
 [^108a-4]: Eingefügt durch Anhang Ziff. 1 des BB vom 16. Dez. 2022 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2021/1150 und 2021/1152 zur Festlegung der Bedingungen für den Zugang zu anderen EU Informationssystemen für die Zwecke des Europäischen Reiseinformations- und ‑genehmigungssystems (ETIAS), in Kraft seit 15. Juni 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
@@ -3034,7 +3034,7 @@ Das ETIAS enthält zudem eine Überwachungsliste mit Daten von Drittstaatsangeh�
 
 Die Einreichung des Gesuchs um eine ETIAS-Reisegenehmigung, die automatisierte Prüfung durch das ETIAS, die manuelle Prüfung durch die ETIAS-Zentralstelle sowie die Übermittlung des Falls an die zuständige nationale ETIAS-Stelle erfolgen nach der Verordnung (EU) 2018/1240[^108b-2].
 
-[^108b-1]: Eingefügt durch Anhang Ziff. 1 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2018/1240 über das Europäische Reiseinformations- und -genehmigungssystem (ETIAS) ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^108b-1]: Eingefügt durch Anhang Ziff. 1 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2018/1240 über das Europäische Reiseinformations- und -genehmigungssystem (ETIAS), in Kraft seit 15. Juni 2025 ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 [^108b-2]: Siehe Fussnote zu Art. 5 Abs. 1 Bst. a<sup>bis</sup>.
 
 #### Art. 108c
@@ -3045,7 +3045,7 @@ Die Einreichung des Gesuchs um eine ETIAS-Reisegenehmigung, die automatisierte P
 
 <sup>2</sup> Das SEM kann im Rahmen der Prüfung der Gesuche um ETIAS-Reisegenehmigungen andere Behörden des Bundes oder der Kantone konsultieren oder sie mit weiteren Abklärungen beauftragen. Der Bundesrat legt fest, welche Behörden mit welchen Abklärungen beauftragt werden können.
 
-[^108c-1]: Eingefügt durch Anhang Ziff. 1 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2018/1240 über das Europäische Reiseinformations- und -genehmigungssystem (ETIAS) ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^108c-1]: Eingefügt durch Anhang Ziff. 1 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2018/1240 über das Europäische Reiseinformations- und -genehmigungssystem (ETIAS), in Kraft seit 15. Juni 2025 ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 [^108c-2]: Siehe Fussnote zu Art. 5 Abs. 1 Bst. a<sup>bis</sup>.
 
 #### Art. 108d
@@ -3068,7 +3068,7 @@ Das Verfahren zur Erteilung, Verweigerung, Annullierung oder Widerruf der ETIAS-
 - b. die vorgängige Anhörung (Art. 30 VwVG);
 - c. die Zulässigkeit von Eingaben auf Englisch; Verfahrenssprache ist eine Amtssprache (Art. 33*a* VwVG).[^108d-4]
 
-[^108d-1]: Eingefügt durch Anhang Ziff. 1 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2018/1240 über das Europäische Reiseinformations- und -genehmigungssystem (ETIAS) ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^108d-1]: Eingefügt durch Anhang Ziff. 1 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2018/1240 über das Europäische Reiseinformations- und -genehmigungssystem (ETIAS), in Kraft seit 15. Juni 2025 ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 [^108d-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^108d-3]: Siehe Fussnote zu Art. 5 Abs. 1 Bst. a<sup>bis</sup>.
 [^108d-4]: Eingefügt durch Anhang Ziff. 1 des BB vom 16. Dez. 2022 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2021/1150 und 2021/1152 zur Festlegung der Bedingungen für den Zugang zu anderen EU Informationssystemen für die Zwecke des Europäischen Reiseinformations- und ‑genehmigungssystems (ETIAS), in Kraft seit 15. Juni 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
@@ -3174,7 +3174,7 @@ Folgende Behörden können zur Verhütung, Aufdeckung oder Ermittlung terroristi
 
 <sup>5</sup> Zentrale Zugangsstelle im Sinn von Artikel 50 der Verordnung (EU) 2018/1240[^108e-4] ist die Einsatzzentrale des fedpol.
 
-[^108e-1]: Eingefügt durch Anhang Ziff. 1 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2018/1240 über das Europäische Reiseinformations- und -genehmigungssystem (ETIAS) ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^108e-1]: Eingefügt durch Anhang Ziff. 1 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2018/1240 über das Europäische Reiseinformations- und -genehmigungssystem (ETIAS), in Kraft seit 15. Juni 2025 ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 [^108e-2]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2022 (Zugriff auf den CIR und Zugang zu den Daten von drei EU Informationssystemen), in Kraft seit 15. Juni 2025 ([AS 2025 350](https://fedlex.data.admin.ch/eli/oc/2025/350); [BBl 2022 1421](https://fedlex.data.admin.ch/eli/fga/2022/1421)).
 [^108e-3]: Aufgehoben durch Art. 4 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2018/1240 über das Europäische Reiseinformations- und -genehmigungssystem (ETIAS), mit Wirkung seit 15. Juni 2025 ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 [^108e-4]: Siehe Fussnote zu Art. 5 Abs. 1 Bst. a<sup>bis</sup>.
@@ -3194,7 +3194,7 @@ In den folgenden Fällen dürfen jedoch Daten an Drittstaaten übermittelt werde
 
 <sup>3</sup> Für die Bekanntgabe von ETIAS-Daten, die im CIR gespeichert sind, gilt Artikel 110*h.*[^108f-4]
 
-[^108f-1]: Eingefügt durch Anhang Ziff. 1 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2018/1240 über das Europäische Reiseinformations- und -genehmigungssystem (ETIAS) ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^108f-1]: Eingefügt durch Anhang Ziff. 1 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2018/1240 über das Europäische Reiseinformations- und -genehmigungssystem (ETIAS), in Kraft seit 15. Juni 2025 ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 [^108f-2]: Fassung gemäss Anhang Ziff. 1 des BB vom 16. Dez. 2022 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2021/1150 und 2021/1152 zur Festlegung der Bedingungen für den Zugang zu anderen EU Informationssystemen für die Zwecke des Europäischen Reiseinformations- und ‑genehmigungssystems (ETIAS), in Kraft seit 15. Juni 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
 [^108f-3]: Siehe Fussnote zu Art. 5 Abs. 1 Bst. a<sup>bis</sup>.
 [^108f-4]: Eingefügt durch Anhang Ziff. 1 des BB vom 16. Dez. 2022 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2021/1150 und 2021/1152 zur Festlegung der Bedingungen für den Zugang zu anderen EU Informationssystemen für die Zwecke des Europäischen Reiseinformations- und ‑genehmigungssystems (ETIAS), in Kraft seit 15. Juni 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
@@ -3226,7 +3226,7 @@ Der Bundesrat regelt:
 - h. die Modalitäten für die Erfassung von Daten in der ETIAS-Überwachungsliste und die Löschung von Daten aus der ETIAS-Überwachungsliste sowie die Einschränkung des Auskunftsrechts betreffend die Überwachungsliste;
 - i. die weiteren notwendigen Modalitäten und Verfahren zur Umsetzung der Verordnung (EU) 2018/1240[^108g-2].
 
-[^108g-1]: Eingefügt durch Anhang Ziff. 1 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2018/1240 über das Europäische Reiseinformations- und -genehmigungssystem (ETIAS) ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^108g-1]: Eingefügt durch Anhang Ziff. 1 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2018/1240 über das Europäische Reiseinformations- und -genehmigungssystem (ETIAS), in Kraft seit 15. Juni 2025 ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 [^108g-2]: Siehe Fussnote zu Art. 5 Abs. 1 Bst. a<sup>bis</sup>.
 
 ### 3*b*. Abschnitt: Nationales Reiseinformations- und –genehmigungssystem
@@ -3945,7 +3945,7 @@ In dieser Eigenschaft kann es mit Hilfe automatisierter Verfahren namentlich Dat
 
 <sup>3</sup> Die schweizerischen Auslandvertretungen können mit ihren Partnern aus den Staaten, die durch eines der Schengen-Assoziierungsabkommen gebunden sind, die für die konsularische Zusammenarbeit vor Ort notwendigen Daten austauschen, namentlich Informationen über die Verwendung gefälschter oder verfälschter Dokumente und über Schleppernetze sowie Daten der in Absatz 2 erwähnten Kategorien.
 
-<sup>4</sup> Der Bundesrat kann die in Absatz 2 erwähnten Kategorien von Personendaten an die neuesten Entwicklungen des Schengen-Besitzstands anpassen. Er konsultiert dazu den Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter (EDÖB)[^111b-1].
+<sup>4</sup> Der Bundesrat kann die in Absatz 2 erwähnten Kategorien von Personendaten an die neuesten Entwicklungen des Schengen-Besitzstands anpassen. Er konsultiert dazu den Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (EDÖB)[^111b-1].
 
 [^111b-1]: Ausdruck gemäss Anhang 1 Ziff. II 4 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
@@ -4021,6 +4021,43 @@ Gewährleistet ein Drittstaat kein angemessenes Datenschutzniveau, so können ih
 [^111i-1]
 
 [^111i-1]: Aufgehoben durch Anhang 1 Ziff. 1 des BB vom 19. März 2021 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2019/817 und (EU) 2019/818 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU Informationssystemen, mit Wirkung seit 15. Juni 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+
+#### Art. 111j
+
+[^111j-1]
+
+<sup>1–5</sup> ...[^111j-2]
+
+<sup>6</sup>
+
+Im Sinne der Absätze 1 und 2 gelten die folgenden Straftaten als:
+
+- a.
+
+  terroristische Straftaten:
+
+  - 1\. Schreckung der Bevölkerung (Art. 258 StGB[^111j-3]),
+  - 2\. öffentliche Aufforderung zu Verbrechen oder zur Gewalttätigkeit (Art. 259 StGB),
+  - 3\. Landfriedensbruch (Art. 260 StGB),
+  - 4\. strafbare Vorbereitungshandlungen (Art. 260<sup>bis</sup> StGB),
+  - 5\. kriminelle und terroristische Organisationen (Art. 260<sup>ter</sup> StGB),
+  - 6\. Gefährdung der öffentlichen Sicherheit mit Waffen (Art. 260<sup>quater</sup> StGB),
+  - 7\. Finanzierung des Terrorismus (Art. 260<sup>quinquies</sup> StGB),
+  - 8\. Anwerbung, Ausbildung und Reisen im Hinblick auf eine terroristische Straftat (Art. 260<sup>sexies</sup> StGB),
+  - 9\. rechtswidrige Vereinigung (Art. 275<sup>ter</sup> StGB[^111j-4]),
+  - 10\. Organisationsverbot (Art. 74 des Nachrichtendienstgesetzes vom 25. September 2015[^111j-5]),
+  - 11\. Verbrechen nach Artikel 2 des Bundesgesetzes vom 12. Dezember 2014[^111j-6] über das Verbot der Gruppierungen «Al‑Qaïda» und «Islamischer Staat» sowie verwandter Organisationen, sowie
+  - 12\. Gewaltverbrechen, mit denen die Bevölkerung eingeschüchtert oder ein Staat oder eine internationale Organisation zu einem Tun oder Unterlassen genötigt werden soll;
+
+- b. schwere Straftaten: die in Anhang 1 des Schengen-Informationsaustausch-Gesetzes vom 12. Juni 2009[^111j-7] aufgeführten Straftaten.
+
+[^111j-1]: Eingefügt durch Anhang Ziff. 1 des BB vom 1. Okt. 2021 über die Genehmigung und die Umsetzung des Abkommens zwischen der Schweiz und der EU zur Vertiefung der grenzüberschreitenden Zusammenarbeit (Prümer Zusammenarbeit) und des Eurodac-Protokolls zwischen der Schweiz, der EU und dem Fürstentum Liechtenstein betreffend den Zugang zu Eurodac für Gefahrenabwehr- und Strafverfolgungszwecke, in Kraft seit 1. Aug. 2025 ([AS 2025 348](https://fedlex.data.admin.ch/eli/oc/2025/348), [401](https://fedlex.data.admin.ch/eli/oc/2025/401); [BBl 2021 738](https://fedlex.data.admin.ch/eli/fga/2021/738)).
+[^111j-2]: In Kraft: 1. Jan. 2027.
+[^111j-3]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^111j-4]: Art. 275<sup>ter</sup> StGB wurde auf den 1. Juli 2023 aufgehoben ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259)).
+[^111j-5]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^111j-6]: Das BG vom 12. Dezember 2014 über das Verbot der Gruppierungen «Al-Qaïda» und «Islamischer Staat» wurde auf den 1. Dezember 2022 aufgehoben ([AS 2014 4565](https://fedlex.data.admin.ch/eli/oc/2014/764); [2018 3345](https://fedlex.data.admin.ch/eli/oc/2018/542). [AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360)Anhang Ziffer I; [2022 602](https://fedlex.data.admin.ch/eli/oc/2022/602)).
+[^111j-7]: [SR 362.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6316)
 
 ## 15. Kapitel: Rechtsschutz
 
@@ -4182,7 +4219,7 @@ Mit Busse wird bestraft, wer vorsätzlich oder fahrlässig:
 
 [^120a120c-1]
 
-[^120a120c-1]: Eingefügt durch Ziff. I des BG vom 13. Juni 2008 (Ergänzungen im Rahmen der Um-setzung der Schengen- und Dublin-Assoziierungsabkommen) ([AS 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756); [BBl 2007 7937](https://fedlex.data.admin.ch/eli/fga/2007/1287)). Aufgehoben durch Ziff. I des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme), mit Wirkung seit 1. Okt. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+[^120a120c-1]: Eingefügt durch Ziff. I des BG vom 13. Juni 2008 (Ergänzungen im Rahmen der Umsetzung der Schengen- und Dublin-Assoziierungsabkommen) ([AS 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756); [BBl 2007 7937](https://fedlex.data.admin.ch/eli/fga/2007/1287)). Aufgehoben durch Ziff. I des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme), mit Wirkung seit 1. Okt. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
 
 #### Art. 120d
 

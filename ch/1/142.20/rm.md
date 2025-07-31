@@ -4,11 +4,11 @@ title: Lescha federala dals 16 da december 2005 davart las persunas estras (LEst
 short: LEst
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: rm
-version: 2025-06-15
+version: 2025-08-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20250615/rm/xml/fedlex-data-admin-ch-eli-cc-2007-758-20250615-rm-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250615/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20250801/rm/xml/fedlex-data-admin-ch-eli-cc-2007-758-20250801-rm-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250801/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LEI)[^t-1]
 
-dals 16 da december 2005 (versiun dals 15 da zercladur 2025)
+dals 16 da december 2005 (versiun dal 1. d’avust 2025)
 
 [^t-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 2016 (integraziun), en vigur dapi il 1. da schan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -303,7 +303,7 @@ Persunas estras pon vegnir admessas per pratitgar in’activitad da gudogn indep
 
 <sup>2</sup>
 
-Sco sco lavurants indigens valan:
+Sco lavurants indigens valan:
 
 - a. persunas svizras;
 - b. persunas cun ina permissiun da domicil;
@@ -3025,7 +3025,7 @@ Il ETIAS cuntegna plinavant ina glista da surveglianza cun datas da burgais da t
 
 <sup>3</sup> Las datas tenor l’alinea 1 litera a vegnan arcunadas en moda automatisada en l’arcun cuminaivel per datas d’identitad (CIR).[^108a-4]
 
-[^108a-1]: Integrà tras la cifra 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun (UE) 2018/1240 davart il sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS) ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^108a-1]: Integrà tras la cifra 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun (UE) 2018/1240 davart il sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 [^108a-2]: Guardar annotaziun tar l’art. 5 al. 1 lit. a<sup>bis</sup>.
 [^108a-3]: Versiun tenor la cifra 1 da l’agiunta dal COF dals 16 da dec. 2022 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2021/1150 e 2021/1152 davart la determinaziun da las cundiziuns per l’access ad auters sistems d’infurmaziun da la UE per ils intents dal sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
 [^108a-4]: Integrà tras la cifra 1 da l’agiunta dal COF dals 16 da dec. 2022 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2021/1150 e 2021/1152 davart la determinaziun da las cundiziuns per l’access ad auters sistems d’infurmaziun da la UE per ils intents dal sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
@@ -3036,7 +3036,7 @@ Il ETIAS cuntegna plinavant ina glista da surveglianza cun datas da burgais da t
 
 Per l’inoltraziun da la dumonda d’autorisaziun da viadi ETIAS, per l’examinaziun automatisada tras il ETIAS, per l’examinaziun manuala tras il post central ETIAS sco er per la transmissiun dal cas al post naziunal ETIAS cumpetent vala l’Ordinaziun (UE) 2018/1240[^108b-2].
 
-[^108b-1]: Integrà tras la cifra 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun (UE) 2018/1240 davart il sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS) ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^108b-1]: Integrà tras la cifra 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun (UE) 2018/1240 davart il sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 [^108b-2]: Guardar annotaziun tar l’art. 5 al. 1 lit. a<sup>bis</sup>.
 
 #### Art. 108c
@@ -3047,7 +3047,7 @@ Per l’inoltraziun da la dumonda d’autorisaziun da viadi ETIAS, per l’exami
 
 <sup>2</sup> En il rom da l’examinaziun da las dumondas d’autorisaziun da viadi ETIAS po il SEM consultar autras autoritads da la Confederaziun u dals chantuns u incumbensar quellas da far ulteriurs scleriments. Il Cussegl federal fixescha, tge autoritads che pon vegnir incumbensadas cun tge scleriments.
 
-[^108c-1]: Integrà tras la cifra 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun (UE) 2018/1240 davart il sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS) ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^108c-1]: Integrà tras la cifra 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun (UE) 2018/1240 davart il sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 [^108c-2]: Guardar annotaziun tar l’art. 5 al. 1 lit. a<sup>bis</sup>.
 
 #### Art. 108d
@@ -3070,7 +3070,7 @@ La procedura da conceder, refusar, annullar u revocar l’autorisaziun da viadi 
 - b. l’audiziun precedenta (art. 30 LFPA);
 - c. l’admissibladad d’inoltraziuns en englais; la lingua da procedura è ina lingua uffiziala (art. 33*a* LFPA).[^108d-4]
 
-[^108d-1]: Integrà tras la cifra 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun (UE) 2018/1240 davart il sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS) ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^108d-1]: Integrà tras la cifra 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun (UE) 2018/1240 davart il sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 [^108d-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^108d-3]: Guardar annotaziun tar l’art. 5 al. 1 lit. a<sup>bis</sup>.
 [^108d-4]: Integrà tras la cifra 1 da l’agiunta dal COF dals 16 da dec. 2022 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2021/1150 e 2021/1152 davart la determinaziun da las cundiziuns per l’access ad auters sistems d’infurmaziun da la UE per ils intents dal sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
@@ -3176,7 +3176,7 @@ Las suandantas autoritads pon dumandar il post d’access central tenor l’alin
 
 <sup>5</sup> La centrala operativa dal fedpol è il post d’access central en il senn da l’artitgel 50 da l’Ordinaziun (UE) 2018/1240[^108e-4].
 
-[^108e-1]: Integrà tras la cifra 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun (UE) 2018/1240 davart il sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS) ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^108e-1]: Integrà tras la cifra 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun (UE) 2018/1240 davart il sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 [^108e-2]: Integrà tras la cifra I da la LF dals 16 da dec. 2022 (access al CIR ed a las datas da trais sistems d’infurmaziun da la UE), en vigur dapi ils 15 da zer. 2025 ([AS 2025 350](https://fedlex.data.admin.ch/eli/oc/2025/350); [BBl 2022 1421](https://fedlex.data.admin.ch/eli/fga/2022/1421)).
 [^108e-3]: Abolì tras la cifra 4 dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun (UE) 2018/1240 davart il sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), cun effect dapi ils 15 da zer. 2025 ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 [^108e-4]: Guardar annotaziun tar l’art. 5 al. 1 lit. a<sup>bis</sup>.
@@ -3196,7 +3196,7 @@ En ils suandants cas dastgan datas dentant vegnir transmessas a terzs stadis:
 
 <sup>3</sup> Per la communicaziun da datas dal ETIAS ch’èn arcunadas en il CIR, vala l’artitgel 110*h*.[^108f-4]
 
-[^108f-1]: Integrà tras la cifra 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun (UE) 2018/1240 davart il sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS) ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^108f-1]: Integrà tras la cifra 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun (UE) 2018/1240 davart il sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 [^108f-2]: Versiun tenor la cifra 1 da l’agiunta dal COF dals 16 da dec. 2022 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2021/1150 e 2021/1152 davart la determinaziun da las cundiziuns per l’access ad auters sistems d’infurmaziun da la UE per ils intents dal sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
 [^108f-3]: Guardar annotaziun tar l’art. 5 al. 1 lit. a<sup>bis</sup>.
 [^108f-4]: Integrà tras la cifra 1 da l’agiunta dal COF dals 16 da dec. 2022 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2021/1150 e 2021/1152 davart la determinaziun da las cundiziuns per l’access ad auters sistems d’infurmaziun da la UE per ils intents dal sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
@@ -3228,7 +3228,7 @@ Il Cussegl federal regla:
 - h. las modalitads per endatar datas sin la glista da surveglianza ETIAS e per stizzar datas da la glista da surveglianza ETIAS sco er la restricziun dal dretg d’infurmaziun concernent la glista da surveglianza;
 - i. las ulteriuras modalitads e proceduras necessarias per realisar l’Ordinaziun (UE) 2018/1240[^108g-2].
 
-[^108g-1]: Integrà tras la cifra 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun (UE) 2018/1240 davart il sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS) ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^108g-1]: Integrà tras la cifra 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun (UE) 2018/1240 davart il sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 [^108g-2]: Guardar annotaziun tar l’art. 5 al. 1 lit. a<sup>bis</sup>.
 
 ### Partiziun 3*b* Sistem naziunal d’infurmaziun e d’autorisaziun da viadis
@@ -4023,6 +4023,43 @@ Sch’in ulteriur stadi na garantescha betg in nivel da protecziun da datas adeq
 [^111i-1]
 
 [^111i-1]: Abolì tras la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, cun effect dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+
+#### Art. 111j
+
+[^111j-1]
+
+<sup>1–5</sup> ...[^111j-2]
+
+<sup>6</sup>
+
+En il senn dals alineas 1 e 2 valan ils suandants malfatgs sco:
+
+- a.
+
+  malfatgs terroristics:
+
+  - 1\. tementar la populaziun (art. 258 CP[^111j-3]),
+  - 2\. incitaziun publica da commetter crims u acts da violenza (art. 259 CP),
+  - 3\. violaziun da la pasch publica (art. 260 CP),
+  - 4\. acziuns preparatoricas chastiablas (art. 260<sup>bis</sup> CP),
+  - 5\. organisaziuns criminalas e terroristicas (art. 260<sup>ter</sup> CP),
+  - 6\. periclitaziun da la segirezza publica cun armas (art. 260<sup>quater</sup> CP),
+  - 7\. finanziaziun dal terrorissem (art. 260<sup>quinquies</sup> CP),
+  - 8\. recrutaziun, instrucziun e viadis en vista ad in malfatg terroristic (art. 260<sup>sexies</sup> CP),
+  - 9\. uniun illegala (art. 275<sup>ter</sup> CP[^111j-4]),
+  - 10\. scumond d’organisaziuns (art. 74 da la Lescha federala dals 25 da settember 2015[^111j-5] davart il servetsch d’infurmaziun),
+  - 11\. crims tenor l’artitgel 2 da la Lescha federala dals 12 da december 2014[^111j-6] davart il scumond da las gruppaziuns «Al‑Qaïda» e «Stadi islamic» e las organisaziuns associadas, sco er
+  - 12\. crims da violenza, cun ils quals la populaziun duai vegnir tementada u cun ils quals in stadi u in’organisaziun internaziunala duai vegnir sfurzà da far u da tralaschar insatge;
+
+- b. grevs malfatgs: ils malfatgs che figureschan en l’agiunta 1 da la Lescha dals 12 da zercladur 2009[^111j-7] davart il barat d’infurmaziuns Schengen.
+
+[^111j-1]: Integrà tras la cifra 1 da l’agiunta dal COF dal 1. d’oct. 2021 davart l’approvaziun e la realisaziun da la cunvegna tranter la Svizra e la UE concernent l’approfundaziun da la cooperaziun transcunfinala (cooperaziun Prüm) e dal Protocol Eurodac tranter la Svizra, la UE ed il Principadi da Liechtenstein concernent l’access ad Eurodac per intents da la prevenziun da privels e da la persecuziun penala, en vigur dapi il 1. d’avust 2025 ([AS 2025 348](https://fedlex.data.admin.ch/eli/oc/2025/348), [401](https://fedlex.data.admin.ch/eli/oc/2025/401); [BBl 2021 738](https://fedlex.data.admin.ch/eli/fga/2021/738)).
+[^111j-2]: Entrada en vigur: 1. da schan. 2027.
+[^111j-3]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^111j-4]: L’art. 275<sup>ter</sup> CP è vegnì abolì per il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259)).
+[^111j-5]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^111j-6]: La LF dals 12 da dec. 2014 davart il scumond da las gruppaziuns «Al-Qaïda» e «Stadi islamic» è vegnida abolida per il 1. da dec. 2022 ([AS 2014 4565](https://fedlex.data.admin.ch/eli/oc/2014/764); [2018 3345](https://fedlex.data.admin.ch/eli/oc/2018/542). [AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360)agiunta cifra I; [2022 602](https://fedlex.data.admin.ch/eli/oc/2022/602)).
+[^111j-7]: [SR 362.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6316)
 
 ## Chapitel 15 Protecziun giuridica
 

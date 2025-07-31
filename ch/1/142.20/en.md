@@ -4,11 +4,11 @@ title: Federal Act of 16 December 2005 on Foreign Nationals (FNA)
 short: FNA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: en
-version: 2025-06-15
+version: 2025-08-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20250615/en/xml/fedlex-data-admin-ch-eli-cc-2007-758-20250615-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250615/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20250801/en/xml/fedlex-data-admin-ch-eli-cc-2007-758-20250801-en-xml-16.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250801/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Foreign Nationals and Integration Act, FNIA)[^t-1]
 
-of 16 December 2005 (Last amended on 15 June 2025)
+of 16 December 2005 (Status as of 1 August 2025)
 
 [^t-1]: Amended by No I of the FA of 16 Dec. 2016 (Integration), in force since 1 Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -65,7 +65,7 @@ This Act regulates the entry and exit, residence and family reunification of for
 
 **Admission**
 
-<sup>1</sup> The admission of gainfully employed foreign nationals is allowed in the interests the economy as a whole; the chances of lasting integration in the Swiss employment market as well as in the social environment are crucial. Switzerland’s cultural and scientific needs shall be appropriately taken account of.
+<sup>1</sup> The admission of gainfully employed foreign nationals is allowed in the interests of the economy as a whole; the chances of lasting integration in the Swiss employment market as well as in the social environment are crucial. Switzerland’s cultural and scientific needs shall be appropriately taken account of.
 
 <sup>2</sup> Foreign nationals shall also be admitted if international law obligations, humanitarian grounds or the unity of the family so requires.
 
@@ -532,7 +532,7 @@ Derogations from the admission requirements (Art. 18–29) are permitted in orde
 
 <sup>3</sup> It is subject to a time limit and may be extended, provided there are no grounds for revocation in terms of Article 62 paragraph 1[^33-1].
 
-<sup>4</sup> When the residence permit is granted or extended, the integration of the person concerned will be taken into account to determine the period of validity.[^33-2]
+<sup>4</sup> When the residence permit is granted or extended, the integration of the person concerned shall be taken into account to determine the period of validity.[^33-2]
 
 <sup>5</sup> The granting and extension of the residence permit may be linked to the conclusion of an integration agreement if there is a special need for integration in accordance with the criteria set out in Article 58*a*.[^33-3]
 
@@ -735,6 +735,8 @@ The foreign spouse and unmarried children under 18 of a person with a settlement
 #### Art. 44
 
 **Spouses and children of persons with a residence permit**[^44-1]
+
+<sup>1</sup>
 
 The foreign spouse and unmarried children under 18 of a person with a residence permit may be granted a residence permit or an extension thereof if:
 
@@ -1703,7 +1705,8 @@ To facilitate the conduct of return or expulsion proceedings or criminal proceed
 - g. seriously threatens other persons or significantly endangers the life and limb of other persons and is therefore being prosecuted or has been convicted;
 - h. has been convicted of a felony;
 - i.[^75-5] is a risk to Switzerland’s internal or external security according to findings made by fedpol or the FIS.
-- [tab] <sup>1bis</sup> ...[^75-6]
+
+<sup>1bis</sup> ...[^75-6]
 
 <sup>2</sup> The competent authority shall decide on the residence status of the person held in detention without delay.
 
@@ -2050,7 +2053,7 @@ Temporary admission shall not be ordered in terms of paragraphs 2 and 4 if the p
 
 <sup>1</sup> SEM periodically examines whether the requirements for temporary admission are still met.
 
-<sup>2</sup> SEM shall revoke temporary admission and order the enforcement of removal if the requirements no longer met.[^84-1]
+<sup>2</sup> SEM shall revoke temporary admission and order the enforcement of removal if the requirements are no longer met.[^84-1]
 
 <sup>3</sup> At the request of the cantonal authorities, fedpol or the FIS, SEM may revoke temporary admission due to the unreasonableness or impossibility of enforcement (Art. 83 paras 2 and 4) and order the enforcement of removal if there are grounds in terms of Article 83 paragraph 7.[^84-2]
 
@@ -3042,7 +3045,7 @@ The submission of the application for an ETIAS travel authorisation, the automat
 
 <sup>1</sup> SEM is the ETIAS National Unit for Switzerland in terms of Article 8 of Regulation (EU) 2018/1240[^108c-2]. SEM shall examine applications for ETIAS travel authorisations for which Switzerland is responsible and consult the other ETIAS national units and Europol as necessary.
 
-<sup>2</sup> When examining applications for ETIAS travel authorisations, the SEM may consult other federal or cantonal authorities or instruct them to carry out further enquiries. The Federal Council determines which authorities may be instructed to conduct which enquiries
+<sup>2</sup> When examining applications for ETIAS travel authorisations, SEM may consult other federal or cantonal authorities or instruct them to carry out further enquiries. The Federal Council determines which authorities may be instructed to conduct which enquiries
 
 [^108c-1]: Inserted by Annex No 1 of the FD of 25 Sept. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of Regulation (EU) 2018/1240 establishing a European Travel Information and Authorisation System (ETIAS), in force since 15 June 2025 ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 [^108c-2]: See footnote to Art. 5 para. 1 let. a<sup>bis</sup>.
@@ -3149,7 +3152,7 @@ The Federal Council shall regulate the following aspects of the procedure for us
 
 **Recording and consultation of data in ETIAS**[^108e-1]
 
-<sup>1</sup> The SEM may record and process data in ETIAS in order to fulfil its tasks as an ETIAS National Unit. At the request of fedpol and the FIS, it shall record and process data from the ETIAS watchlist.
+<sup>1</sup> SEM may record and process data in ETIAS in order to fulfil its tasks as an ETIAS National Unit. At the request of fedpol and the FIS, it shall record and process data from the ETIAS watchlist.
 
 <sup>2</sup>
 
@@ -3244,7 +3247,7 @@ The Federal Council shall regulate:
 
 N-ETIAS is used by the ETIAS National Unit for:
 
-- [tab] a. recording and processing personal data, including processing sensitive personal data, and contact data as well as supplementary application data, information and copies of documents relating to foreign nationals for the purpose of examining of ETIAS travel authorisation applications for which Switzerland is responsible
+- a. recording and processing personal data, including processing sensitive personal data, and contact data as well as supplementary application data, information and copies of documents relating to foreign nationals for the purpose of examining of ETIAS travel authorisation applications for which Switzerland is responsible
 - b. consulting with national and cantonal authorities when examining ETIAS travel authorisation applications;
 - c. recording and processing personal and contact data relating to foreign nationals who are added to the ETIAS watchlist at the request of fedpol or the FIS
 - d. generating statistics.
@@ -3426,7 +3429,7 @@ The following authorities may enter, modify and delete data in ORBIS in order to
 [^109b-5]: Inserted by No I of the FA of 20 June 2014 (Violations of the Duty of Care and to Report by Air Carriers, Information Systems) ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)). Amended by Annex 1 No 1 of the FD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 22 Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 [^109b-6]: See footnote to Art. 68*a* para. 2.
 [^109b-7]: See footnote to Art. 68*e* para. 2.
-[^109b-8]: Amended by Annex 1 No 1 of the FD of 19 March 2021 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of Regulations (EU) 2019/817 and (EU) 2019/818 on Establishing a Framework for Interoperability between EU Information Systems, in force since 15 June 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^109b-8]: Inserted by No I of the FA of 20 June 2014 (Violations of the Duty of Care and to Report by Air Carriers, Information Systems) ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)). Amended by Annex 1 No 1 of the FD of 19 March 2021 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of Regulations (EU) 2019/817 and (EU) 2019/818 on Establishing a Framework for Interoperability between EU Information Systems, in force since 15 June 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 [^109b-9]: Amended by Annex 1 No 1 of the FD of 19 March 2021 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of Regulations (EU) 2019/817 and (EU) 2019/818 on Establishing a Framework for Interoperability between EU Information Systems, in force since 15 June 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 [^109b-10]: Regulation (EC) No 767/2008 of the European Parliament and the Council of 9 July 2008 concerning the Visa Information System (VIS) and the exchange of data between Member States on short-stay visas (VIS Regulation), OJ. L 218 of 13.8.2008, p. 60.
 [^109b-11]: Inserted by Annex 1 No 1 of the FD of 19 March 2021 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of Regulations (EU) 2019/817 and (EU) 2019/818 on Establishing a Framework for Interoperability between EU Information Systems, in force since 15 June 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
@@ -4021,6 +4024,43 @@ If a third country fails to guarantee an adequate level of data protection, pers
 
 [^111i-1]: Repealed by Annex 1 No 1 of the FD of 19 March 2021 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of Regulations (EU) 2019/817 and (EU) 2019/818 on Establishing a Framework for Interoperability between EU Information Systems, with effect from 15 June 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
+#### Art. 111j
+
+[^111j-1]
+
+<sup>1–5</sup> ...[^111j-2]
+
+<sup>6</sup>
+
+Pursuant to paragraphs 1 and 2, the following criminal offences are regarded as:
+
+- a.
+
+  terrorist offences:
+
+  - 1\. causing fear and alarm among the public (Art. 258 SCC[^111j-3]),
+  - 2\. public incitement to commit a felony or act of violence (Art. 259 SCC),
+  - 3\. rioting (Art. 260 SCC),
+  - 4\. acts preparatory to the commission of an offence (Art. 260<sup>bis</sup> SCC),
+  - 5\. participation in or support for criminal or terrorist organisations (Art. 260<sup>ter</sup> SCC),
+  - 6\. endangering public safety with weapons (Art. 260<sup>quater</sup> SCC),
+  - 7\. financing terrorism (Art. 260<sup>quinquies</sup> SCC),
+  - 8\. recruiting, training and travelling with a view to committing a terrorist offence (Art. 260<sup>sexies</sup> SCC),
+  - 9\. unlawful association (Art. 275<sup>ter</sup> SCC[^111j-4]),
+  - 10\. participation or support for a banned organisation (Art. 74 of the Intelligence Service Act of 25 September 2015[^111j-5]),
+  - 11\. felonies pursuant to Article 2 of the Federal Act of 12 December 2014[^111j-6] on the Proscription of Al-Qaeda, Islamic State and Associated Organisations, and
+  - 12\. violent felonies intended to intimidate the population or compel a state or international organisation to act or refrain from acting;
+
+- b. serious offences: the offences listed in Annex 1 of the Schengen Information Exchange Act of 12 June 2009[^111j-7].
+
+[^111j-1]: Inserted by Annex No 1 of the FD of 1 Oct. 2021 on the Approval and Implementation of the Agreement between Switzerland and the EU on stepping up cross-border cooperation (Prüm Cooperation) and of the Eurodac-Protocol between Switzerland, the EU and the Principality of Liechtenstein regarding access to Eurodac for law enforcement purposes, in force since 1 Aug. 2025 ([AS 2025 348](https://fedlex.data.admin.ch/eli/oc/2025/348), [401](https://fedlex.data.admin.ch/eli/oc/2025/401); [BBl 2021 738](https://fedlex.data.admin.ch/eli/fga/2021/738)).
+[^111j-2]: Come into force on 1 Jan. 2027.
+[^111j-3]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^111j-4]: Art. 275<sup>ter</sup> SCC was repealed on 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259)).
+[^111j-5]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^111j-6]: The FA of 12 Dec. 2014 on the Proscription of Al-Qaeda and Islamic State was repealed on 1 Dec. 2022 ([AS 2014 4565](https://fedlex.data.admin.ch/eli/oc/2014/764); [2018 3345](https://fedlex.data.admin.ch/eli/oc/2018/542). [AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360)Annex No I; [2022 602](https://fedlex.data.admin.ch/eli/oc/2022/602)).
+[^111j-7]: [SR 362.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6316)
+
 ## Chapter 15 Legal Remedies
 
 #### Art. 112
@@ -4079,11 +4119,11 @@ Any person who:
 
 **Encouraging unlawful entry, exit or an unlawful period of stay**
 
-<sup>1</sup> is liable on conviction to a custodial sentence not exceeding one year or to a monetary penalty.
+<sup>1</sup>
 
 Any person who:
 
-- in Switzerland or abroad, facilitates the unlawful entry or departure or the unlawful period of stay in Switzerland of a foreign national or assists a foreign national to prepare for the same;
+- a. in Switzerland or abroad, facilitates the unlawful entry or departure or the unlawful period of stay in Switzerland of a foreign national or assists a foreign national to prepare for the same;
 - a<sup>bis</sup>.[^116-1] from within Switzerland facilitates the unlawful entry or departure or the unlawful period of stay in a Schengen State of a foreign national or assists a foreign national to prepare for the same;
 - b. finds employment for a foreign national in Switzerland without the required permit;
 - c.[^116-2] facilitates the entry of a foreign national who has left Switzerland or the international transit zone of the airports into the sovereign territory of another state in violation of the entry provisions applicable there or assists that foreign national in preparing for such entry.

@@ -4,11 +4,11 @@ title: Legge federale del 16 dicembre 2005 sugli stranieri e la loro integrazion
 short: LStrI
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: it
-version: 2025-06-15
+version: 2025-08-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20250615/it/xml/fedlex-data-admin-ch-eli-cc-2007-758-20250615-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250615/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20250801/it/xml/fedlex-data-admin-ch-eli-cc-2007-758-20250801-it-xml-20.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250615/it"
 
 (LStrI)[^t-1]
 
-del 16 dicembre 2005 (Stato 15 giugno 2025)
+del 16 dicembre 2005 (Stato 1° agosto 2025)
 
 [^t-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -4026,6 +4026,43 @@ Qualora non garantisca una protezione adeguata, allo Stato terzo possono essere 
 [^111i-1]
 
 [^111i-1]: Abrogato dall’all. 1 n. 1 del DF del 19 mar. 2021 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2019/817 e (UE) 2019/818 che istituiscono un quadro per l’interoperabilità tra i sistemi di informazione dell’UE, in vigore dal 15 giu. 2025 ([RU 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7005](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+
+#### Art. 111j
+
+[^111j-1]
+
+<sup>1–5</sup> ...[^111j-2]
+
+<sup>6</sup>
+
+Ai sensi dei capoversi 1 e 2 sono considerati:
+
+- a.
+
+  reati di terrorismo:
+
+  - 1\. pubblica intimidazione (art. 258 CP[^111j-3]),
+  - 2\. pubblica istigazione a un crimine o alla violenza (art. 259 CP),
+  - 3\. sommossa (art. 260 CP),
+  - 4\. atti preparatori punibili (art. 260<sup>bis</sup> CP),
+  - 5\. organizzazioni criminali e terroristiche (art. 260<sup>ter</sup> CP),
+  - 6\. messa in pericolo della sicurezza pubblica con armi (art. 260<sup>quater</sup> CP),
+  - 7\. finanziamento del terrorismo (art. 260<sup>quinquies</sup> CP),
+  - 8\. reclutamento, addestramento e viaggi finalizzati alla commissione di un reato di terrorismo (art. 260<sup>sexies</sup> CP),
+  - 9\. associazioni illecite (art. 275<sup>ter</sup> CP[^111j-4]),
+  - 10\. divieto di organizzazioni (art. 74 della legge federale del 25 settembre 2015[^111j-5] sulle attività informative),
+  - 11\. reati ai sensi dell’articolo 2 della legge federale del 12 dicembre 2014[^111j-6] che vieta i gruppi «Al‑Qaïda» e «Stato islamico» nonché le organizzazioni associate, e
+  - 12\. atti di violenza criminali volti a intimidire la popolazione o a costringere uno Stato o un’organizzazione internazionale a fare o ad omettere un atto;
+
+- b. reati gravi: i reati elencati nell’allegato 1 della legge del 12 giugno 2009[^111j-7] sullo scambio di informazioni con gli Stati Schengen.
+
+[^111j-1]: Introdotto dall’all. n. 1 del DF del 1° ott. 2021 che approva e traspone nel diritto svizzero l’Accordo tra la Svizzera e l’UE sul potenziamento della cooperazione transfrontaliera (cooperazione Prüm) e il Protocollo tra la Svizzera, l’UE e il Principato del Liechtenstein riguardante l’accesso a Eurodac a fini di contrasto, in vigore dal 1° ago. 2025 ([RU 2025 348](https://fedlex.data.admin.ch/eli/oc/2025/348), [401](https://fedlex.data.admin.ch/eli/oc/2025/401); [FF 2021 738](https://fedlex.data.admin.ch/eli/fga/2021/738))
+[^111j-2]: Entrano in vigore il 1° gen. 2027. ([RU 2025 401](https://fedlex.data.admin.ch/eli/oc/2025/401))
+[^111j-3]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^111j-4]: L’art. 275<sup>ter</sup> CP è stato abrogato il 1° luglio 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^111j-5]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^111j-6]: La LF è stata abrogata il 1° luglio 2023 ([RU 2014 4565](https://fedlex.data.admin.ch/eli/oc/2014/764); [2018 3345](https://fedlex.data.admin.ch/eli/oc/2018/542). [RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360)all. cifra I; [2022 602](https://fedlex.data.admin.ch/eli/oc/2022/602)).
+[^111j-7]: [RS 362.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6316)
 
 ## Capitolo 15: Rimedi giuridici
 

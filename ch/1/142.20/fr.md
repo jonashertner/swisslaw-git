@@ -4,11 +4,11 @@ title: "Loi fédérale du 16 décembre 2005 sur les étrangers et l'intégration
 short: LEI
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: fr
-version: 2025-06-15
+version: 2025-08-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20250615/fr/xml/fedlex-data-admin-ch-eli-cc-2007-758-20250615-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250615/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20250801/fr/xml/fedlex-data-admin-ch-eli-cc-2007-758-20250801-fr-xml-20.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250615/fr"
 
 (LEI)[^t-2][^t-1]
 
-du 16 décembre 2005 (État le 15 juin 2025)
+du 16 décembre 2005 (État le 1<sup>er</sup> août 2025)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 [^t-2]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
@@ -4029,6 +4029,43 @@ Des données personnelles peuvent être communiquées à un État tiers en dépi
 [^111i-1]
 
 [^111i-1]: Abrogé par l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, avec effet au 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+
+#### Art. 111j
+
+[^111j-1]
+
+<sup>1 à <sup>5</sup></sup> …[^111j-2]
+
+<sup>6</sup>
+
+Aux sens des al. 1 et 2, les infractions suivantes sont réputées:
+
+- a.
+
+  infractions terroristes:
+
+  - 1\. menaces alarmant la population (art. 258 CP[^111j-3]),
+  - 2\. provocation publique au crime ou à la violence (art. 259 CP),
+  - 3\. émeute (art. 260 CP),
+  - 4\. actes préparatoires délictueux (art. 260<sup>bis</sup> CP),
+  - 5\. organisations criminelles et terroristes (art. 260<sup>ter</sup> CP),
+  - 6\. mise en danger de la sécurité publique au moyen d’armes (art. 260<sup>quater</sup> CP),
+  - 7\. financement du terrorisme (art. 260<sup>quinquies</sup> CP),
+  - 8\. recrutement, entraînement et voyage en vue d’un acte terroriste (art. 260<sup>sexies</sup> CP),
+  - 9\. groupements illicites (art. 275<sup>ter</sup> CP[^111j-4]),
+  - 10\. interdiction d’organisations (art. 74 de la loi fédérale du 25 septembre 2015 sur le renseignement[^111j-5]),
+  - 11\. infractions selon l’art. 2 de la loi fédérale du 12 décembre 2014 interdisant les groupes «Al‑Qaïda» et «État islamique» et les organisations apparentées[^111j-6],
+  - 12\. crimes violents visant à intimider la population ou à contraindre un État ou une organisation internationale à faire ou à ne pas faire quelque chose;
+
+- b. infractions pénales graves: les infractions listées dans l’annexe 1 de la loi du 12 juin 2009 sur l’échange d’informations Schengen[^111j-7].
+
+[^111j-1]: Introduit par l’annexe ch. 1 de l’AF du 1<sup>er</sup> octobre 2021 portant approbation et mise en œuvre de l’accord entre la Suisse et l’UE concernant l’approfondissement de la coopération transfrontalière (coopération Prüm) et du Protocole Eurodac entre la Suisse, l’UE et la Principauté de Liechtenstein concernant l’accès à Eurodac à des fins répressives, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 348](https://fedlex.data.admin.ch/eli/oc/2025/348), [401](https://fedlex.data.admin.ch/eli/oc/2025/401); [FF 2021 738](https://fedlex.data.admin.ch/eli/fga/2021/738)).
+[^111j-2]: Entrent en vigueur le 1<sup>er</sup> janvier 2027.
+[^111j-3]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^111j-4]: L’art. 275<sup>ter</sup> CP a été abrogé le 1<sup>er</sup> juil. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^111j-5]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^111j-6]: La LF a été abrogée le 1<sup>er</sup> déc. 2022 ([RO 2014 4565](https://fedlex.data.admin.ch/eli/oc/2014/764); [2018 3345](https://fedlex.data.admin.ch/eli/oc/2018/542). [RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360), annexe ch I; [2022 602](https://fedlex.data.admin.ch/eli/oc/2022/602)).
+[^111j-7]: [RS 362.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6316)
 
 ## Chapitre 15 Voies de droit
 
