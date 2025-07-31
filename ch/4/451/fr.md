@@ -4,11 +4,11 @@ title: "Loi fédérale du 1<sup>er</sup> juillet 1966 sur la protection de la na
 short: LPN
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679"
 language: fr
-version: 2022-01-01
+version: 2025-08-01
 adopted: 1966-07-01
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1966-1637_1694_1679-20220101-fr-xml-25.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679/20250801/fr/xml/fedlex-data-admin-ch-eli-cc-1966-1637_1694_1679-20250801-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/20250801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/20220101/fr"
 
 (LPN)[^t-1]
 
-du 1<sup>er</sup> juillet 1966 (État le 1<sup>er</sup> janvier 2022)
+du 1<sup>er</sup> juillet 1966 (État le 1<sup>er</sup> août 2025)
 
 [^t-1]: Nouvelle teneur selon le ch. I de la LF du 24 mars 1995, en vigueur depuis le 1<sup>er</sup> fév. 1996 ([RO 1996 214](https://fedlex.data.admin.ch/eli/oc/1996/214_214_214); [FF 1991 III 1137](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
 
@@ -27,8 +27,8 @@ vu l’art. 78, al. 4, de la Constitution[^ingress-1], vu le Protocole de Nagoya
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: [RS 0.451.432](https://fedlex.data.admin.ch/eli/cc/2014/532); [FF 2013 2713](https://fedlex.data.admin.ch/eli/fga/2013/614)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: [RS 0.451.432](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1843); [FF 2013 2713](https://fedlex.data.admin.ch/eli/fga/2013/614)
 [^ingress-3]: [FF 1965 III 93](https://fedlex.data.admin.ch/eli/fga/1965/3_89_93_77)
 [^ingress-4]: Nouvelle teneur selon l’annexe à l’AF du 21 mars 2014 (Prot. de Nagoya), en vigueur depuis le 12 oct. 2014 ([RO 2014 2629](https://fedlex.data.admin.ch/eli/oc/2014/467); [FF 2013 2659](https://fedlex.data.admin.ch/eli/fga/2013/611)).
 
@@ -73,7 +73,7 @@ Par accomplissement d’une tâche de la Confédération au sens de l’art. 24<
 
 <sup>2</sup> Les décisions des autorités cantonales concernant les projets qui, selon toute vraisemblance, ne seront réalisés qu’avec les subventions visées à l’al. 1, let. c, sont assimilées à l’accomplissement de tâches de la Confédération.[^2-4]
 
-[^2-1]: [RS **1** 3; [RO 1962 783](https://fedlex.data.admin.ch/eli/oc/1962/749_783_803)]. Actuellement: art. 78, al. 2 de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^2-1]: [[RS 1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4713)3; [RO 1962 783](https://fedlex.data.admin.ch/eli/oc/1962/749_783_803)]. Actuellement: art. 78, al. 2 de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 [^2-2]: Nouvelle teneur selon le ch. 2 de l’annexe à la LF du 21 mars 2003 sur le génie génétique, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2283](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^2-3]: Nouvelle teneur selon le ch. 7 de l’app. à la LF du 30 avr. 1997 sur l’entreprise de télécommunications, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2480](https://fedlex.data.admin.ch/eli/oc/1997/2480_2480_2480); [FF 1996 III 1260](https://fedlex.data.admin.ch/eli/fga/1996/3_1306_1260_1201)).
 [^2-4]: Introduit par le ch. I 3 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
@@ -112,7 +112,7 @@ S’agissant des paysages et des localités caractéristiques, des sites évocat
 - a. les objets d’importance nationale;
 - b. les objets d’importance régionale et locale.
 
-[^4-1]: [RS **1** 3; [RO 1962 783](https://fedlex.data.admin.ch/eli/oc/1962/749_783_803)]. Actuellement: art. 78, al. 2 de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^4-1]: [[RS 1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4713)3; [RO 1962 783](https://fedlex.data.admin.ch/eli/oc/1962/749_783_803)]. Actuellement: art. 78, al. 2 de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 
 ### Inventaires fédéraux d’objets d’importance nationale
 
@@ -195,7 +195,7 @@ Dans les cas prévus aux art. 7, 8 et 9, l’avis des gouvernements des cantons 
 
 Pour les constructions et ouvrages militaires qui ne sont pas soumis à autorisation en vertu de l’art. 126, al. 4, de la loi fédérale du 3 février 1995 sur l’armée et l’administration militaire[^11-1], l’autorité fédérale compétente n’a pas l’obligation de demander une expertise.[^11-2] Elle n’est pas tenue non plus de remettre des documents pour les expertises facultatives.
 
-[^11-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^11-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 [^11-2]: Nouvelle teneur selon le ch. 6 de l’annexe à la LF du 3 fév. 1995 sur l’armée et l’administration militaire, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093); [FF 1993 IV 1](https://fedlex.data.admin.ch/eli/fga/1993/4_1_1_1)).
 
 ### Droit de recours des communes et des organisations reconnues
@@ -218,6 +218,13 @@ Ont qualité pour recourir contre les décisions des autorités cantonales ou f�
   - 1. l’organisation est active au niveau national,
   - 2. l’organisation poursuit un but non lucratif; les éventuelles activités économiques servent le but non lucratif.
 
+<sup>1bis</sup>
+
+Les organisations n’ont pas qualité pour recourir contre les décisions qui se rapportent à des bâtiments d’habitation en zone à bâtir d’une surface de plancher inférieure à 400 m<sup>2</sup>; le droit de recours reste applicable aux bâtiments d’habitation:
+
+- a. situés dans des sites construits d’importance nationale, ou si les projets concernent directement des sites historiques ou des monuments culturels ou doivent être réalisés à proximité immédiate de ceux‑ci, ou
+- b. situés dans des biotopes d’importance nationale, régionale ou locale.[^12-2]
+
 <sup>2</sup> L’organisation a le droit de recourir uniquement dans les domaines du droit visés depuis dix ans au moins par ses statuts.
 
 <sup>3</sup> Le Conseil fédéral désigne les organisations qui ont qualité pour recourir.
@@ -227,6 +234,7 @@ Ont qualité pour recourir contre les décisions des autorités cantonales ou f�
 <sup>5</sup> Les organisations peuvent habiliter leurs structures cantonales et régionales, lorsqu’elles sont indépendantes sur le plan juridique, à faire opposition de manière générale et à faire recours dans des cas particuliers, pour leur champ d’activité local.
 
 [^12-1]: Nouvelle teneur selon le ch. II 1 de la LF du 20 déc. 2006, en vigueur depuis le 1<sup>er</sup> juil. 2007, sauf la let. b ch. 2, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [FF 2005 5041](https://fedlex.data.admin.ch/eli/fga/2005/841)[5081](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^12-2]: Introduit par le ch. I de la LF du 27 sept. 2024, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 429](https://fedlex.data.admin.ch/eli/oc/2025/429); [FF 2024 408](https://fedlex.data.admin.ch/eli/fga/2024/408), [788](https://fedlex.data.admin.ch/eli/fga/2024/788)).
 
 ### 2. Irrecevabilité des recours contre les décisions portant octroi d’une subvention fédérale
 
@@ -265,7 +273,7 @@ Le recours contre une décision portant octroi d’une subvention fédérale est
 <sup>4</sup> Les al. 2 et 3 s’appliquent également aux oppositions et recours formés contre des plans d’affectation en vertu du droit cantonal.
 
 [^12c-1]: Introduit par le ch. II 1 de la LF du 20 déc. 2006, en vigueur depuis le 1<sup>er</sup> juil. 2007 ([RO 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [FF 2005 5041](https://fedlex.data.admin.ch/eli/fga/2005/841)[5081](https://fedlex.data.admin.ch/eli/fga/2005/843)).
-[^12c-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^12c-2]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### 5. Accords entre requérants et organisations
 
@@ -286,7 +294,7 @@ Les accords entre requérants et organisations qui portent sur des prestations, 
 <sup>3</sup> L’autorité de recours n’entre pas en matière sur un recours si celui-ci est abusif ou si l’organisation a émis des prétentions à des prestations illicites au sens de l’al. 2.
 
 [^12d-1]: Introduit par le ch. II 1 de la LF du 20 déc. 2006, en vigueur depuis le 1<sup>er</sup> juil. 2007 ([RO 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [FF 2005 5041](https://fedlex.data.admin.ch/eli/fga/2005/841)[5081](https://fedlex.data.admin.ch/eli/fga/2005/843)).
-[^12d-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^12d-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ### 6. Début des travaux avant la fin de la procédure
 
@@ -343,7 +351,7 @@ L’organisation qui succombe supporte les frais de la procédure de recours aup
 <sup>5</sup> Les mesures de protection et d’entretien prescrites constituent des restrictions de droit public à la propriété (art. 702 CC[^13-2]). Elles engagent les propriétaires fonciers concernés; les cantons doivent les faire mentionner au registre foncier. Le Conseil fédéral fixe les cas où il peut être dérogé à cette obligation.
 
 [^13-1]: Nouvelle teneur selon le ch. II 7 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^13-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^13-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### Subventions accordées à des organisations
 
@@ -383,7 +391,7 @@ La Confédération peut allouer des subventions pour promouvoir:
 <sup>2</sup> La loi fédérale du 20 juin 1930 sur l’expropriation[^15-2] est applicable.
 
 [^15-1]: Nouvelle teneur selon le ch. I de la LF du 24 mars 1995, en vigueur depuis le 1<sup>er</sup> fév. 1996 ([RO 1996 214](https://fedlex.data.admin.ch/eli/oc/1996/214_214_214); [FF 1991 III 1137](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
-[^15-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^15-2]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### Mesures conservatoires
 
@@ -406,7 +414,7 @@ Si un danger imminent menace un site naturel selon l’art. 15, un site évocate
 
 [^16a-1]: Introduit par le ch. 9 de l’annexe à la LF du 5 oct. 1990 sur les subventions ([RO 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857); [FF 1987 I 369](https://fedlex.data.admin.ch/eli/fga/1987/1_369_369_297_1)). Nouvelle teneur selon le ch. II 7 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^16a-2]: Nouvelle expression selon l’annexe ch. 3 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
-[^16a-3]: [RS 442.1](https://fedlex.data.admin.ch/eli/cc/2011/854)
+[^16a-3]: [RS 442.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7110)
 [^16a-4]: Introduit par le ch. II 5 de l’annexe à la LF du 11 déc. 2009 sur l’encouragement de la culture, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [FF 2007 4579](https://fedlex.data.admin.ch/eli/fga/2007/681)[4617](https://fedlex.data.admin.ch/eli/fga/2007/683)).
 
 ### Restitution de subventions
@@ -493,7 +501,7 @@ Le Conseil fédéral définit les cas dans lesquels une commission peut, avec l�
 
 [^18c-1]: Introduit par le ch. I de la LF du 19 juin 1987, en vigueur depuis le 1<sup>er</sup> fév. 1988 ([RO 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [FF 1985 II 1449](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)).
 [^18c-2]: Nouvelle teneur selon le ch. I de la LF du 24 mars 1995, en vigueur depuis le 1<sup>er</sup> fév. 1996 ([RO 1996 214](https://fedlex.data.admin.ch/eli/oc/1996/214_214_214); [FF 1991 III 1137](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
-[^18c-3]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^18c-3]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### Financement
 
@@ -551,13 +559,15 @@ Une autorisation de l’autorité cantonale compétente est nécessaire pour ré
 
 <sup>1</sup> L’autorité cantonale compétente peut, à des fins scientifiques, pédagogiques et thérapeutiques, et sur des territoires déterminés, permettre des exceptions pour la récolte et la déplantation de plantes protégées ainsi que pour la capture d’animaux.
 
-<sup>2</sup> Elle peut autoriser la suppression de la végétation existant sur des rives dans le cas de projets qui ne peuvent être réalisés ailleurs et qui ne contreviennent pas à la législation en matière de police des eaux et de protection des eaux.[^22-1]
+<sup>2</sup> Elle peut autoriser la suppression de la végétation des rives dans le cas de projets qui ne peuvent être réalisés ailleurs et qui sont conformes à la loi du 21 juin 1991 sur l’aménagement des cours d’eau[^22-1] ou à la loi fédérale du 24 janvier 1991 sur la protection des eaux[^22-2].[^22-3]
 
-<sup>3</sup> Si une autre norme juridique attribue à une autorité fédérale la compétence de décider au sujet d’un projet, l’autorisation exceptionnelle est octroyée par cette autorité. …[^22-2].[^22-3]
+<sup>3</sup> Si une autre norme juridique attribue à une autorité fédérale la compétence de décider au sujet d’un projet, l’autorisation exceptionnelle est octroyée par cette autorité. …[^22-4].[^22-5]
 
-[^22-1]: Nouvelle teneur selon l’art. 75 ch. 2 de la LF du 24 janv. 1991 sur la protection des eaux, en vigueur depuis le 1<sup>er</sup> nov. 1992 ([RO 1992 1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860); [FF 1987 II 1081](https://fedlex.data.admin.ch/eli/fga/1987/2_1061_1081_905)).
-[^22-2]: Phrase abrogée par le ch. I 3 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, avec effet au 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
-[^22-3]: Nouvelle teneur selon le ch. 6 de l’annexe à la LF du 3 fév. 1995 sur l’armée et l’administration militaire, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093); [FF 1993 IV 1](https://fedlex.data.admin.ch/eli/fga/1993/4_1_1_1)).
+[^22-1]: [RS 721.100](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8402)
+[^22-2]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^22-3]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
+[^22-4]: Phrase abrogée par le ch. I 3 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, avec effet au 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+[^22-5]: Nouvelle teneur selon le ch. 6 de l’annexe à la LF du 3 fév. 1995 sur l’armée et l’administration militaire, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093); [FF 1993 IV 1](https://fedlex.data.admin.ch/eli/fga/1993/4_1_1_1)).
 
 ### Espèces animales et végétales étrangères; autorisation obligatoire
 
@@ -763,7 +773,7 @@ Le Conseil fédéral édicte des dispositions d’exécution portant sur:
 
 <sup>3</sup> L’éventuelle adjonction d’une zone périphérique est encouragée conformément à l’art. 23*k*.
 
-[^23m-1]: [RS 454](https://fedlex.data.admin.ch/eli/cc/1981/236_236_236)
+[^23m-1]: [RS 454](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7195)
 
 ### Chapitre 3*c* Ressources génétiques
 
@@ -856,8 +866,8 @@ Est puni d’une peine privative de liberté d’un an au plus ou d’une peine 
 [^24-2]: Nouvelle teneur selon l’art. 333 du CP, dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
 [^24-3]: Nouvelle teneur selon le ch. I de la LF du 24 mars 1995, en vigueur depuis le 1<sup>er</sup> fév. 1996 ([RO 1996 214](https://fedlex.data.admin.ch/eli/oc/1996/214_214_214), 224; [FF 1991 III 1137](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
 [^24-4]: Introduite par le ch. I de la LF du 24 mars 1995 ([RO 1996 214](https://fedlex.data.admin.ch/eli/oc/1996/214_214_214); [FF 1991 III 1137](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)). Nouvelle teneur selon l’art. 32 ch. 4 de la L du 20 juin 2033 sur le transfert des biens culturels, en vigueur depuis le 1<sup>er</sup> er juin 2005 ([RO 2005 1869](https://fedlex.data.admin.ch/eli/oc/2005/317); [FF 2002 505](https://fedlex.data.admin.ch/eli/fga/2002/93)).
-[^24-5]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1, LParl – [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^24-6]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^24-5]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1, LParl – [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^24-6]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^24-7]: Introduite par le ch. I de la LF du 21 juin 1996 ([RO 1997 1152](https://fedlex.data.admin.ch/eli/oc/1997/1152_1152_1152); [FF 1995 IV 621](https://fedlex.data.admin.ch/eli/fga/1995/4_629_621_589)). Abrogée par le ch. 1 de l’annexe 1 à la LF du 16 mars 2012 sur les espèces protégées, avec effet au 1<sup>er</sup> oct. 2013 ([RO 2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600); [FF 2011 6439](https://fedlex.data.admin.ch/eli/fga/2011/1119)).
 [^24-8]: Nouvelle teneur selon l’art. 333 du CP, dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
 
@@ -891,7 +901,7 @@ Sera puni d’une amende jusqu’à 20 000 francs celui qui:[^24a-2]
 Les art. 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^24b-2] sont applicables.
 
 [^24b-1]: Introduit par le ch. I de la LF du 19 juin 1987, en vigueur depuis le 1<sup>er</sup> fév. 1988 ([RO 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [FF 1985 II 1449](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)).
-[^24b-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^24b-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### Confiscation
 
@@ -902,7 +912,7 @@ Les art. 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal adminis
 L’art. 69 du code pénal suisse[^24c-2] sur la confiscation d’objets et d’avantages pécuniaires obtenus illicitement est applicable.
 
 [^24c-1]: Introduit par le ch. I de la LF du 19 juin 1987 ([RO 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [FF 1985 II 1449](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)). Nouvelle teneur selon l’art. 334 du CP, dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
-[^24c-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799). Actuellement: art. 69.
+[^24c-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196). Actuellement: art. 69.
 
 ### Poursuite pénale
 
@@ -974,7 +984,7 @@ Les cantons exécutent la présente loi, dans la mesure où cette compétence n�
 <sup>4</sup> Les autorités fédérales chargées de l’exécution tiennent compte des mesures des cantons pour protéger la nature et le paysage.
 
 [^24h-1]: Introduit par l’annexe à l’AF du 21 mars 2014 (Prot. de Nagoya), en vigueur depuis le 1<sup>er</sup> sept. 2014, al. 3 en vigueur depuis le 12 oct. 2014 ([RO 2014 2629](https://fedlex.data.admin.ch/eli/oc/2014/467); [FF 2013 2659](https://fedlex.data.admin.ch/eli/fga/2013/611)).
-[^24h-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^24h-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ### Organisation
 
@@ -1023,8 +1033,8 @@ Les cantons exécutent la présente loi, dans la mesure où cette compétence n�
 <sup>3</sup> L’autorité cantonale ou fédérale compétente pour prendre les décisions concernant les autorisations et l’exécution des projets décide du rétablissement de l’état initial. Lors du rétablissement de l’état initial, on tient compte du principe de la proportionnalité.
 
 [^25b-1]: Anciennement art. 25*a*. Introduit par le ch. I de la LF du 24 mars 1995, en vigueur depuis le 1<sup>er</sup> fév. 1996 ([RO 1996 214](https://fedlex.data.admin.ch/eli/oc/1996/214_214_214); [FF 1991 III 1137](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
-[^25b-2]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
-[^25b-3]: [RS **1** 3; [RO 1962 783](https://fedlex.data.admin.ch/eli/oc/1962/749_783_803), [1988 352](https://fedlex.data.admin.ch/eli/oc/1988/352_352_352)]. Actuellement: art. 78 al. 5 de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^25b-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
+[^25b-3]: [[RS 1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4713)3; [RO 1962 783](https://fedlex.data.admin.ch/eli/oc/1962/749_783_803), [1988 352](https://fedlex.data.admin.ch/eli/oc/1988/352_352_352)]. Actuellement: art. 78 al. 5 de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 
 #### Art. 25c
 
@@ -1041,6 +1051,14 @@ Les cantons exécutent la présente loi, dans la mesure où cette compétence n�
 Les art. 23*n* et 23*o* s’appliquent à des faits en lien avec un accès à des ressources génétiques qui a eu lieu après leur entrée en vigueur.
 
 [^25d-1]: Introduit par l’annexe à l’AF du 21 mars 2014 (Prot. de Nagoya), en vigueur depuis le 12 oct. 2014 ([RO 2014 2629](https://fedlex.data.admin.ch/eli/oc/2014/467); [FF 2013 2659](https://fedlex.data.admin.ch/eli/fga/2013/611)).
+
+#### Art. 25e
+
+**Disposition transitoire relative à la modification du 27 septembre 2024**[^25e-1]
+
+Les procédures dans le cadre desquelles l’autorité compétente en matière d’autorisation a statué sur la demande de permis de construire avant l’entrée en vigueur de la modification du 27 septembre 2024 sont menées à terme selon l’ancien droit.
+
+[^25e-1]: Introduit par le ch. I de la LF du 27 sept. 2024, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 429](https://fedlex.data.admin.ch/eli/oc/2025/429); [FF 2024 408](https://fedlex.data.admin.ch/eli/fga/2024/408), [788](https://fedlex.data.admin.ch/eli/fga/2024/788)).
 
 ### Entrée en vigueur
 

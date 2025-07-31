@@ -4,11 +4,11 @@ title: Federal Act of 1 July 1966 on the Protection of Nature and Cultural Herit
 short: NCHA
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679"
 language: en
-version: 2022-01-01
+version: 2025-08-01
 adopted: 1966-07-01
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1966-1637_1694_1679-20220101-en-xml-25.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679/20250801/en/xml/fedlex-data-admin-ch-eli-cc-1966-1637_1694_1679-20250801-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/20250801/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (NCHA)[^t-1]
 
-of 1 July 1966 (Status as of 1 January 2022)
+of 1 July 1966 (Status as of 1 August 2025)
 
 [^t-1]: Amended by No I of the FA of 24 March 1995, in force since 1 Feb. 1996 ([AS 1996 214](https://fedlex.data.admin.ch/eli/oc/1996/214_214_214); [BBl 1991 III 1121](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
 
@@ -29,8 +29,8 @@ based on Article 78 paragraph 4 of the Federal Constitution[^ingress-1]<sub>,</s
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: [SR 0.451.432](https://fedlex.data.admin.ch/eli/cc/2014/532)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: [SR 0.451.432](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1843)
 [^ingress-3]: BB1 **1965** III 89
 [^ingress-4]: Amended by the Annex to the FD of 21 March 2014 (Nagoya Protocol), in force since 12 Oct. 2014 ([AS 2014 2629](https://fedlex.data.admin.ch/eli/oc/2014/467); [BBl 2013 3009](https://fedlex.data.admin.ch/eli/fga/2013/611)).
 
@@ -42,7 +42,7 @@ decrees:
 
 The aim of this Act, subject to the authority of the Confederation under Article 78 paragraphs 2–5 of the Federal Constitution, is:[^1-2]
 
-- a. to carefully manage and protect heritage landscapes and sites of local character, historical sites, and the country’s natural and cultural monuments, and to promote their preservation and upkeep;
+- a. to carefully manage and protect heritage landscapes and heritage sites, historic sites, and the country’s natural and cultural monuments, and to promote their preservation and upkeep;
 - b. to support the cantons in fulfilling their tasks in the fields of nature protection, cultural heritage protection and monument preservation, and to ensure cooperation with them;
 - c. to support the endeavours of organisations active in the fields of nature protection, cultural heritage protection or monument preservation;
 - d.[^1-3] to protect indigenous flora and fauna, their biological diversity and their natural habitats;
@@ -75,7 +75,7 @@ The fulfilment of federal tasks as defined in Article 24<sup>sexies</sup> paragr
 
 <sup>2</sup> Decisions of cantonal authorities concerning projects that can presumably be carried out only with subsidies as specified in paragraph 1*c* above shall be regarded as equivalent to the fulfilment of federal tasks.[^2-4]
 
-[^2-1]: [[AS 1962 749](https://fedlex.data.admin.ch/eli/oc/1962/749_783_803)]. Now Art. 78 para. 2 of the Federal Constitution of 18 April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^2-1]: [[AS 1962 749](https://fedlex.data.admin.ch/eli/oc/1962/749_783_803)]. Now Art. 78 para. 2 of the Federal Constitution of 18 April 1999 ([SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 [^2-2]: Amended by Annex No 2 of the Genetic Engineering Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^2-3]: Amended by No 7 of the Annex to the Telecommunications Enterprises Act of 30 April 1997, in force since 1 Jan. 1998 ([AS 1997 2480](https://fedlex.data.admin.ch/eli/oc/1997/2480_2480_2480); [BBl 1996 III 1306](https://fedlex.data.admin.ch/eli/fga/1996/3_1306_1260_1201)).
 [^2-4]: Inserted by No I 3 of the FA of 18 June 1999 on the Coordination and Simplification of Decision-Making Procedures, in force since 1 Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
@@ -88,7 +88,7 @@ The fulfilment of federal tasks as defined in Article 24<sup>sexies</sup> paragr
 
 #### Art. 3
 
-<sup>1</sup> In the fulfilment of federal tasks, the Confederation, its institutions and enterprises, and the cantons shall ensure that heritage landscapes and sites of local character, historical sites, and natural and cultural monuments are carefully managed and, where there is an overriding public interest, preserved undiminished.[^3-1]
+<sup>1</sup> In the fulfilment of federal tasks, the Confederation, its institutions and enterprises, and the cantons shall ensure that heritage landscapes and heritage sites, historic sites, and natural and cultural monuments are carefully managed and, where there is an overriding public interest, preserved undiminished.[^3-1]
 
 <sup>2</sup>
 
@@ -109,12 +109,12 @@ They shall fulfil this obligation by:
 
 #### Art. 4
 
-With regard to heritage landscapes and sites of local character, historical sites, and natural and cultural monuments within the meaning of Article 24<sup>sexies</sup> paragraph 2 of the Federal Constitution[^4-1], a distinction must be made between:
+With regard to heritage landscapes and heritage sites, historic sites, and natural and cultural monuments within the meaning of Article 24<sup>sexies</sup> paragraph 2 of the Federal Constitution[^4-1], a distinction must be made between:
 
 - a. sites of national importance;
 - b. sites of regional and local importance.
 
-[^4-1]: [[AS 1962 749](https://fedlex.data.admin.ch/eli/oc/1962/749_783_803)]. Now Art. 78 para. 2 of the Federal Constitution of 18 April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^4-1]: [[AS 1962 749](https://fedlex.data.admin.ch/eli/oc/1962/749_783_803)]. Now Art. 78 para. 2 of the Federal Constitution of 18 April 1999 ([SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 
 ### Federal inventories of sites of national importance
 
@@ -197,7 +197,7 @@ In all the cases specified in Articles 7, 8 and 9, the cantonal governments shal
 
 In the case of military buildings and installations not subject to approval in accordance with Article 126 paragraph 4 of the Armed Forces Act of 3 February 1995[^11-1], the competent federal authority shall not be required to commission an expert report,[^11-2] nor is it obliged to provide documentation for the optional expert report.
 
-[^11-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^11-1]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 [^11-2]: Amended by No 6 of the Annex to the Armed Forces Act of 3 Feb. 1995, in force since 1 Jan. 1996 ([AS 1995 4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093); [BBl 1993 IV 1](https://fedlex.data.admin.ch/eli/fga/1993/4_1_1_1)).
 
 ### Right of appeal of communes and organisations
@@ -220,6 +220,13 @@ A right of appeal against rulings of the cantonal authorities or the federal aut
   - 1\. the organisation is active throughout Switzerland,
   - 2\. it pursues solely non-profit-making objects; any commercial activities must serve the achievement of its non-profit-making objects.
 
+<sup>1bis</sup>
+
+The organisations have no right of appeal against rulings relating to residential buildings with a floor area of less than 400 m<sup>2</sup> within building zones; there is, however, a right of appeal in the case of residential buildings:
+
+- a. within heritage sites of national importance, or where the project directly affects historic sites or cultural monuments, or where the project is to be realised in the immediate vicinity of the same; or
+- b. within biotopes of national, regional or local importance.[^12-2]
+
 <sup>2</sup> The right of appeal is accorded to the organisations only in legal fields that have formed part of their objects for at least ten years.
 
 <sup>3</sup> The Federal Council shall designate the organisations entitled to appeal.
@@ -229,6 +236,7 @@ A right of appeal against rulings of the cantonal authorities or the federal aut
 <sup>5</sup> The organisations may give general authorisation to their legally independent cantonal and supra-cantonal sub-organisations to raise general objections or to file appeals in specific cases that relate to their local area of activity.
 
 [^12-1]: Amended by No II 1 of the FA of 20 Dec. 2006, in force since 1 July 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841)[5391](https://fedlex.data.admin.ch/eli/fga/2005/843)). The provision on commercial activity in para. 1 let. b No 2 comes into force on 1 July 2010.
+[^12-2]: Inserted by No I of the FA of 27 Sept. 2024, in force since 1 Aug. 2025 ([AS 2025 429](https://fedlex.data.admin.ch/eli/oc/2025/429); [BBl 2024 408](https://fedlex.data.admin.ch/eli/fga/2024/408), [788](https://fedlex.data.admin.ch/eli/fga/2024/788)).
 
 ### 2. Inadmissible appeals against decisions on providing a federal subsidy
 
@@ -267,7 +275,7 @@ An appeal against a decision on providing a federal subsidy shall be inadmissibl
 <sup>4</sup> Paragraphs 2 and 3 also apply to objections and appeals under cantonal law against land use plans.
 
 [^12c-1]: Inserted by No II 1 of the FA of 20 Dec. 2006, in force since 1 July 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841)[5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
-[^12c-2]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^12c-2]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### 5. Agreements between applicants and organisations
 
@@ -288,7 +296,7 @@ Agreements between applicants and organisations on financial or other benefits a
 <sup>3</sup> The appeal authority shall dismiss an appeal if it is an abuse of legal process or the organisation has demanded unlawful payments in terms of paragraph 2.
 
 [^12d-1]: Inserted by No II 1 of the FA of 20. Dec. 2006, in force since 1 July 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841)[5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
-[^12d-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^12d-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ### 6. Early start to construction work
 
@@ -334,7 +342,7 @@ If the organisation is unsuccessful in the proceedings, it shall bear the costs 
 
 [^13-1]
 
-<sup>1</sup> The Confederation may support nature protection, cultural heritage protection and monument preservation by providing the cantons with global financial assistance within the scope of the authorised credits and on the basis of programme agreements for the preservation, acquisition, upkeep, investigation and documentation of landscapes, sites of local character, historical sites, or natural and cultural monuments deserving protection.
+<sup>1</sup> The Confederation may support nature protection, cultural heritage protection and monument preservation by providing the cantons with global financial assistance within the scope of the authorised credits and on the basis of programme agreements for the preservation, acquisition, upkeep, investigation and documentation of landscapes, heritage sites, historic sites, or natural and cultural monuments deserving protection.
 
 <sup>2</sup> By way of exception, it may provide financial assistance by means of a ruling for projects that require an individual assessment by the Confederation.
 
@@ -345,7 +353,7 @@ If the organisation is unsuccessful in the proceedings, it shall bear the costs 
 <sup>5</sup> The protection and upkeep measures ordered constitute public-law restrictions on the use of property (Art. 702 Civil Code[^13-2]). They are binding on the landowner concerned and must be recorded in the land register on application by the canton. Exemptions from this obligation are determined by the Federal Council.
 
 [^13-1]: Amended by No II 7 of the FA of 6 Oct. 2006 on the New System of Financial Equalisation and Division of Tasks between the Confederation and the Cantons (NFA), in force since 1 Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^13-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^13-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### Subsidies for organisations
 
@@ -379,18 +387,18 @@ The Confederation may provide subsidies for:
 
 #### Art. 15
 
-<sup>1</sup> The Confederation may, by contract or, if this is not possible, by compulsory purchase, purchase or safeguard natural landscapes, historical sites and natural or cultural monuments of national importance. It may assign responsibility for administration to cantons, communes or organisations.[^15-1]
+<sup>1</sup> The Confederation may, by contract or, if this is not possible, by compulsory purchase, purchase or safeguard natural landscapes, historic sites and natural or cultural monuments of national importance. It may assign responsibility for administration to cantons, communes or organisations.[^15-1]
 
 <sup>2</sup> The Compulsory Purchase Act[^15-2] applies.
 
 [^15-1]: Amended by No I of the FA of 24 March 1995, in force since 1 Feb. 1996 ([AS 1996 214](https://fedlex.data.admin.ch/eli/oc/1996/214_214_214); [BBl 1991 III 1121](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
-[^15-2]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^15-2]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### Precautionary measures
 
 #### Art. 16
 
-In cases where a natural landscape as defined in Article 15, a historical site, or a cultural monument of national importance is in immediate danger, the Federal Department of the Environment, Transport, Energy and Communications or the Federal Department of Home Affairs[^16-1] may take temporary measures to place the site in question under federal protection and order any safeguards necessary for its preservation.[^16-2]
+In cases where a natural landscape as defined in Article 15, a historic site, or a cultural monument of national importance is in immediate danger, the Federal Department of the Environment, Transport, Energy and Communications or the Federal Department of Home Affairs[^16-1] may take temporary measures to place the site in question under federal protection and order any safeguards necessary for its preservation.[^16-2]
 
 [^16-1]: Amended by No I of the FA of 19 June 1987, in force since 1 Feb. 1988 ([AS 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [BBl 1985 II 1445](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)).
 [^16-2]: The group of administrative units affected was modified in application of Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
@@ -407,7 +415,7 @@ In cases where a natural landscape as defined in Article 15, a historical site, 
 
 [^16a-1]: Inserted by Annex No 9 of the Subsidies Act of 5 Oct. 1990 ([AS 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857); [BBl 1987 I 369](https://fedlex.data.admin.ch/eli/fga/1987/1_369_369_297)). Amended by No II 7 of the FA of 6 Oct. 2006 on the New System of Financial Equalisation and Division of Tasks between the Confederation and the Cantons (NFA), in force since 1 Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^16a-2]: Term in accordance with Annex No 3 of the FA of 19 March 2021, in force since 1 Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
-[^16a-3]: [SR 442.1](https://fedlex.data.admin.ch/eli/cc/2011/854)
+[^16a-3]: [SR 442.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7110)
 [^16a-4]: Inserted by Annex No II 5 of the Culture Promotion Act of 11 Dec. 2009, in force since 1 Jan. 2012 ([AS 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [BBl 2007 4819](https://fedlex.data.admin.ch/eli/fga/2007/681)[4857](https://fedlex.data.admin.ch/eli/fga/2007/683)).
 
 ### Repayment of subsidies
@@ -486,14 +494,14 @@ The Federal Council shall define those cases where, with the approval of the can
 
 <sup>1</sup> The protection and upkeep of biotopes should be achieved wherever possible on the basis of agreements with landowners and farm or forestry operators, and also by appropriate agricultural and forestry use.
 
-<sup>2</sup> Landowners and farm or forestry operators have the right to appropriate compensation if they restrict existing uses in the interests of the protection objective, or provide a service for no financial consideration.
+<sup>2</sup> Landowners and farm or forestry operators have the right to appropriate compensation if they restrict existing uses in the interests of the protection objective or provide a service for no financial consideration.
 
 <sup>3</sup> If a landowner fails to use the site as required for the protection objectives to be achieved, he must tolerate its use by third parties, as ordered by the authorities.
 
 <sup>4</sup> If land must be acquired for the protection objectives to be achieved, the cantons shall have a power of compulsory purchase. In their implementation regulations, they may declare the Compulsory Purchase Act[^18c-2] to be applicable, whereby the cantonal government shall rule on any objections that remain in dispute. If the site to be protected extends over the territory of more than one canton, the Compulsory Purchase Act applies.
 
 [^18c-1]: Inserted by No I of the FA of 19 June 1987, in force since 1 Feb. 1988 ([AS 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [BBl 1985 II 1445](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)).
-[^18c-2]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^18c-2]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### Financing
 
@@ -551,13 +559,15 @@ The gathering of wild plants and capturing of animals living in the wild for com
 
 <sup>1</sup> The competent cantonal authority may, for scientific purposes or for educational and therapeutic purposes, grant exceptional approval for protected plants to be gathered or dug up or for animals to be captured in specified areas.
 
-<sup>2</sup> It may authorise the removal of riparian vegetation for projects limited to a specific site in cases permitted under the legislation on the water bodies protection authorities or on the protection of water bodies.[^22-1]
+<sup>2</sup> It may authorise the removal of riparian vegetation for projects limited to a specific site in cases permitted under the Hydraulic Engineering Act of 21 June 1991[^22-1] or the Waters Protection Act of 24 January 1991[^22-2].[^22-3]
 
-<sup>3</sup> If on the basis of a different enactment a federal authority is competent to decide on a project, this authority shall grant the exceptional approval. ...[^22-2].[^22-3]
+<sup>3</sup> If on the basis of a different enactment a federal authority is competent to decide on a project, this authority shall grant the exceptional approval. ...[^22-4].[^22-5]
 
-[^22-1]: Amended by Art. 75 Section 2 of the Water Protection Act of 24 Jan. 1991, in force since 1 Nov. 1992 ([AS 1992 1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860); [BBl 1987 II 1061](https://fedlex.data.admin.ch/eli/fga/1987/2_1061_1081_905)).
-[^22-2]: Second sentence deleted by the Section I 3 of the FA of 18 June 1999 on the Coordination and Simplification of Decision-Making Procedures, with effect of 1 Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
-[^22-3]: Amended by Section 6 of the Annex to the Armed Forces Act of 3 Feb. 1995, in force since 1 Jan. 1996 ([AS 1995 4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093); [BBl 1993 IV 1](https://fedlex.data.admin.ch/eli/fga/1993/4_1_1_1)).
+[^22-1]: [SR 721.100](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8402)
+[^22-2]: [SR 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^22-3]: Amended by Annex No 1 of the FA of 15 März 2024, in force since 1 Aug. 2025 ([AS 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [BBl 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
+[^22-4]: Second sentence deleted by the Section I 3 of the FA of 18 June 1999 on the Coordination and Simplification of Decision-Making Procedures, with effect of 1 Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
+[^22-5]: Amended by Section 6 of the Annex to the Armed Forces Act of 3 Feb. 1995, in force since 1 Jan. 1996 ([AS 1995 4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093); [BBl 1993 IV 1](https://fedlex.data.admin.ch/eli/fga/1993/4_1_1_1)).
 
 ### Foreign animal and plant species: obligatory approval
 
@@ -679,7 +689,7 @@ It comprises:
 
 #### Art. 23g
 
-<sup>1</sup> A regional nature park is a large, partly populated area, characterised by the richness of its natural and cultural landscape, whose buildings and installations blend harmoniously with the landscape and sites of local character.
+<sup>1</sup> A regional nature park is a large, partly populated area, characterised by the richness of its natural and cultural landscape, whose buildings and installations blend harmoniously with the landscape and heritage sites.
 
 <sup>2</sup>
 
@@ -761,7 +771,7 @@ The Federal Council shall issue regulations on:
 
 <sup>3</sup> Any expansion by means of a buffer zone shall be promoted in accordance with Article 23*k*.
 
-[^23m-1]: [SR 454](https://fedlex.data.admin.ch/eli/cc/1981/236_236_236)
+[^23m-1]: [SR 454](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7195)
 
 ### Section 3*c* Genetic Resources
 
@@ -843,7 +853,7 @@ Articles 23*n* and 23*o* also apply to traditional knowledge of indigenous and l
 
 Any person shall be liable to a term of imprisonment not exceeding one year or to a monetary penalty who wilfully and without authorisation:[^24-2]
 
-- a.[^24-3] destroys or seriously damages a natural or cultural monument protected under this Act, a protected historical site, a protected natural landscape or a protected biotope;
+- a.[^24-3] destroys or seriously damages a natural or cultural monument protected under this Act, a protected historic site, a protected natural landscape or a protected biotope;
 - b. clears, covers up or otherwise destroys riparian vegetation as specified in Article 21;
 - c.[^24-4] destroys or seriously damages buried natural objects or antiquities of substantial scientific value[^24-5] (Art. 724 para. 1 Civil Code[^24-6]);
 - d.[^24-7] ...
@@ -851,13 +861,13 @@ Any person shall be liable to a term of imprisonment not exceeding one year or t
 <sup>2</sup> In cases of negligence, the penalty shall be a fine not exceeding 40,000 Swiss francs.[^24-8]
 
 [^24-1]: Amended by No I of the FA of 19 June 1987, in force since 1 Feb. 1988 ([AS 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [BBl 1985 II 1445](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)).
-[^24-2]: Amended by Art. 333 of the Criminal Code ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in the version of the FA of 13 Dec. 2002, in force since 1 Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+[^24-2]: Amended by Art. 333 of the Criminal Code ([SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)) in the version of the FA of 13 Dec. 2002, in force since 1 Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
 [^24-3]: Amended by No I of the FA of 24 March 1995, in force since 1 Feb. 1996 ([AS 1996 214](https://fedlex.data.admin.ch/eli/oc/1996/214_214_214); [BBl 1991 III 1121](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
 [^24-4]: Inserted by No I of the FA of 24 March 1995 ([AS 1996 214](https://fedlex.data.admin.ch/eli/oc/1996/214_214_214); [BBl 1991 III 1121](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)). Amended by Art. 32 No 4 of the Cultural Property Transfer Act of 20 June 2003, in force since 1 June 2005 ([AS 2005 1869](https://fedlex.data.admin.ch/eli/oc/2005/317); [BBl 2002 535](https://fedlex.data.admin.ch/eli/fga/2002/93)).
-[^24-5]: Revised by the Drafting Committee of the Federal Assembly (Art. 58 para. 1 ParlA; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^24-6]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^24-5]: Revised by the Drafting Committee of the Federal Assembly (Art. 58 para. 1 ParlA; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^24-6]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^24-7]: Inserted by No I of the FA of 21 June 1996 ([AS 1997 1152](https://fedlex.data.admin.ch/eli/oc/1997/1152_1152_1152); [BBl 1995 IV 629](https://fedlex.data.admin.ch/eli/fga/1995/4_629_621_589)). Repealed by Annex 1 No 1 of the FA of 16 March 2012 on the Trade in Protected Animal and Plant Species, with effect from 1 Oct. 2013 ([AS 2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600); [BBl 2011 6985](https://fedlex.data.admin.ch/eli/fga/2011/1119)).
-[^24-8]: Amended by Art. 333 of the Criminal Code ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in the version of the FA of 13 Dec. 2002, in force since 1 Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+[^24-8]: Amended by Art. 333 of the Criminal Code ([SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)) in the version of the FA of 13 Dec. 2002, in force since 1 Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
 
 ### Contraventions
 
@@ -888,7 +898,7 @@ Any person shall be liable to a fine not exceeding 20,000 Swiss francs who:
 Articles 6 and 7 of the Federal Act of 22 March 1974[^24b-2] on Administrative Criminal Law apply.
 
 [^24b-1]: Inserted by No I of the FA of 19 June 1987, in force since 1 Feb. 1988 ([AS 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [BBl 1985 II 1445](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)).
-[^24b-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^24b-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### Forfeiture
 
@@ -898,8 +908,8 @@ Articles 6 and 7 of the Federal Act of 22 March 1974[^24b-2] on Administrative C
 
 Article 69 of the Criminal Code[^24c-2] relating to the forfeiture of unlawfully acquired items and pecuniary benefits applies.
 
-[^24c-1]: Inserted by No I of the FA of 19 June 1987 ([AS 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [BBl 1985 II 1445](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)). Amended by Art. 334 of the Criminal Code ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in the version of the FA of 13 Dec. 2002, in force since 1 Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
-[^24c-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^24c-1]: Inserted by No I of the FA of 19 June 1987 ([AS 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [BBl 1985 II 1445](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)). Amended by Art. 334 of the Criminal Code ([SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)) in the version of the FA of 13 Dec. 2002, in force since 1 Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+[^24c-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Prosecution
 
@@ -920,7 +930,7 @@ Article 69 of the Criminal Code[^24c-2] relating to the forfeiture of unlawfully
 
 [^24e-1]
 
-Any person who damages a natural or cultural monument protected under this Act, a protected historical site, a protected natural landscape, a protected biotope or protected riparian vegetation may, irrespective of any criminal proceedings, be required:
+Any person who damages a natural or cultural monument protected under this Act, a protected historic site, a protected natural landscape, a protected biotope or protected riparian vegetation may, irrespective of any criminal proceedings, be required:
 
 - a. to reverse the illegal measures;
 - b. to pay the costs of remedying the damage;
@@ -971,7 +981,7 @@ The cantons shall implement this Act unless implementation is assigned to the Co
 <sup>4</sup> The federal implementing authorities shall take account of cantonal nature and cultural heritage protection measures.
 
 [^24h-1]: Inserted by the Annex to the FD of 21 March 2014 (Nagoya Protocol), in force since 1 Sept. 2014, para. 3 in force since 12 Oct. 2014 ([AS 2014 2629](https://fedlex.data.admin.ch/eli/oc/2014/467); [BBl 2013 3009](https://fedlex.data.admin.ch/eli/fga/2013/611)).
-[^24h-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^24h-2]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ### Organisation
 
@@ -1020,8 +1030,8 @@ The cantons shall implement this Act unless implementation is assigned to the Co
 <sup>3</sup> Restoration to the original condition shall ordered by the cantonal or federal authority that would be responsible for decisions on the authorisation or implementation of such projects. In restoring the original condition, due consideration shall be given to the principle of proportionality.
 
 [^25b-1]: Originally Art. 25*a*. Inserted by No I of the FA of 24 March 1995, in force since 1 Feb. 1996 ([AS 1996 214](https://fedlex.data.admin.ch/eli/oc/1996/214_214_214); [BBl 1991 III 1121](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
-[^25b-2]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
-[^25b-3]: [[AS 1988 352](https://fedlex.data.admin.ch/eli/oc/1988/352_352_352)]. Now Art. 78 para. 5 of the Federal Constitution of 18 April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^25b-2]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
+[^25b-3]: [[AS 1988 352](https://fedlex.data.admin.ch/eli/oc/1988/352_352_352)]. Now Art. 78 para. 5 of the Federal Constitution of 18 April 1999 ([SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 
 #### Art. 25c
 
@@ -1039,11 +1049,21 @@ Articles 23*n* and 23*o* apply to cases relating to access to genetic resources 
 
 [^25d-1]: Inserted by the Annex to the FD of 21 March 2014 (Nagoya Protocol), in force since 12 Oct. 2014 ([AS 2014 2629](https://fedlex.data.admin.ch/eli/oc/2014/467); [BBl 2013 3009](https://fedlex.data.admin.ch/eli/fga/2013/611)).
 
+### Transitional provision to the Amendment of 27 September 2024
+
+#### Art. 25e
+
+[^25e-1]
+
+Proceedings in which the planning authority issued its decision on the planning application before the Amendment of 27 September 2024 comes into force shall be conducted in accordance with the previous law.
+
+[^25e-1]: Inserted by No I of the FA of 27 Sept. 2024, in force since 1 Aug. 2025 ([AS 2025 429](https://fedlex.data.admin.ch/eli/oc/2025/429); [BBl 2024 408](https://fedlex.data.admin.ch/eli/fga/2024/408), [788](https://fedlex.data.admin.ch/eli/fga/2024/788)).
+
 ### Commencement
 
-[^lvlu1-chap6-lvlu3-1]
+[^lvlu1-chap6-lvlu4-1]
 
-[^lvlu1-chap6-lvlu3-1]: Inserted by No I of the FA of 24 March 1995, in force since 1 Feb. 1996 ([AS 1996 214](https://fedlex.data.admin.ch/eli/oc/1996/214_214_214); [BBl 1991 III 1121](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
+[^lvlu1-chap6-lvlu4-1]: Inserted by No I of the FA of 24 March 1995, in force since 1 Feb. 1996 ([AS 1996 214](https://fedlex.data.admin.ch/eli/oc/1996/214_214_214); [BBl 1991 III 1121](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
 
 #### Art. 26
 

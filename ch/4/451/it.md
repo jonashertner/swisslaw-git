@@ -4,11 +4,11 @@ title: "Legge federale del 1<sup>o</sup> luglio 1966 sulla protezione della natu
 short: LPN
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679"
 language: it
-version: 2022-01-01
+version: 2025-08-01
 adopted: 1966-07-01
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1966-1637_1694_1679-20220101-it-xml-25.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679/20250801/it/xml/fedlex-data-admin-ch-eli-cc-1966-1637_1694_1679-20250801-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/20250801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/20220101/it"
 
 (LPN)[^t-1]
 
-del 1° luglio 1966 (Stato 1° gennaio 2022)
+del 1° luglio 1966 (Stato 1° agosto 2025)
 
-[^t-1]: Nuovo testo giusta il n. I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
+[^t-1]: Nuovo testo giusta la cifra I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -27,8 +27,8 @@ visto l’articolo 78 capoverso 4 della Costituzione federale[^ingress-1]; in es
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: [RS 0.451.432](https://fedlex.data.admin.ch/eli/cc/2014/532)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: [RS 0.451.432](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1843)
 [^ingress-3]: [FF 1965 III 77](https://fedlex.data.admin.ch/eli/fga/1965/3_89_93_77)
 [^ingress-4]: Nuovo testo giusta l’all. del DF del 21 mar. 2014 (Protocollo di Nagoya), in vigore dal 12 ott. 2014 ([RU 2014 2629](https://fedlex.data.admin.ch/eli/oc/2014/467); [FF 2013 2531](https://fedlex.data.admin.ch/eli/fga/2013/611)).
 
@@ -47,7 +47,7 @@ La presente legge è, nei limiti della competenza conferita alla Confederazione 
 - d<sup>bis</sup>.[^1-4] promuovere la conservazione della diversità biologica e l’uso sostenibile dei suoi componenti mediante la giusta ed equa condivisione dei benefici derivanti dall’utilizzazione delle risorse genetiche;
 - e.[^1-5] promuovere l’insegnamento e la ricerca nell’ambito della protezione della natura e del paesaggio e della conservazione dei monumenti storici, nonché la formazione e la formazione continua di specialisti.
 
-[^1-1]: Nuovo testo giusta il n. I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
+[^1-1]: Nuovo testo giusta la cifra I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
 [^1-2]: Nuovo testo giusta l’all. del DF del 21 mar. 2014 (Protocollo di Nagoya), in vigore dal 12 ott. 2014 ([RU 2014 2629](https://fedlex.data.admin.ch/eli/oc/2014/467); [FF 2013 2531](https://fedlex.data.admin.ch/eli/fga/2013/611)).
 [^1-3]: Nuovo testo giusta l’all. n. 2 della L del 21 mar. 2003 sull’ingegneria genetica, in vigore dal 1° gen. 2004 ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^1-4]: Introdotta dall’all. del DF del 21 mar. 2014 (Protocollo di Nagoya), in vigore dal 12 ott. 2014 ([RU 2014 2629](https://fedlex.data.admin.ch/eli/oc/2014/467); [FF 2013 2531](https://fedlex.data.admin.ch/eli/fga/2013/611)).
@@ -57,7 +57,7 @@ La presente legge è, nei limiti della competenza conferita alla Confederazione 
 
 [^lvlu1-chap1-1]
 
-[^lvlu1-chap1-1]: Nuovo testo giusta il n. I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
+[^lvlu1-chap1-1]: Nuovo testo giusta la cifra I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
 
 ### Adempimento dei compiti della Confederazione
 
@@ -73,16 +73,16 @@ Per adempimento di un compito della Confederazione ai sensi dell’articolo 24<s
 
 <sup>2</sup> Le decisioni delle autorità cantonali riguardo a progetti verosimilmente realizzabili solo con contributi di cui al capoverso 1 lettera c sono equiparate all’adempimento di compiti della Confederazione.[^2-4]
 
-[^2-1]: Questa disp. corrisponde all’art. 78 cpv. 2 della Cost. del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^2-1]: Questa disp. corrisponde all’art. 78 cpv. 2 della Cost. del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 [^2-2]: Nuovo testo giusta l’all. n. 2 della L del 21 mar. 2003 sull’ingegneria genetica, in vigore dal 1° gen. 2004 ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^2-3]: Nuovo testo giusta l’all. n. 7 della LF del 30 apr. 1997 sull’organizzazione dell’azienda delle telecomunicazioni della Confederazione, in vigore dal 1° gen. 1998 ([RU 1997 2480](https://fedlex.data.admin.ch/eli/oc/1997/2480_2480_2480); [FF 1996 III 1201](https://fedlex.data.admin.ch/eli/fga/1996/3_1306_1260_1201)).
-[^2-4]: Introdotto dal n. I 3 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^2-4]: Introdotto dalla cifra I n. 3 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 ### Obblighi della Confederazione e dei Cantoni
 
 [^lvlu1-chap1-lvlu2-1]
 
-[^lvlu1-chap1-lvlu2-1]: Nuovo testo giusta il n. I 3 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^lvlu1-chap1-lvlu2-1]: Nuovo testo giusta la cifra I n. 3 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 #### Art. 3
 
@@ -100,8 +100,8 @@ Essi adempiono questo dovere:
 
 <sup>4</sup> ...[^3-2]
 
-[^3-1]: Nuovo testo giusta il n. I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
-[^3-2]: Introdotto dal n. I 3 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029). Abrogato dall’all. del DF del 21 mar. 2014 (Protocollo di Nagoya), con effetto dal 1° set. 2014 ([RU 2014 2629](https://fedlex.data.admin.ch/eli/oc/2014/467); [FF 2013 2531](https://fedlex.data.admin.ch/eli/fga/2013/611)).
+[^3-1]: Nuovo testo giusta la cifra I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
+[^3-2]: Introdotto dalla cifra I n. 3 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029). Abrogato dall’all. del DF del 21 mar. 2014 (Protocollo di Nagoya), con effetto dal 1° set. 2014 ([RU 2014 2629](https://fedlex.data.admin.ch/eli/oc/2014/467); [FF 2013 2531](https://fedlex.data.admin.ch/eli/fga/2013/611)).
 
 ### Classificazione degli oggetti
 
@@ -112,7 +112,7 @@ Nel caso di paesaggi e abitati caratteristici, luoghi storici, rarità naturali 
 - a. gli oggetti d’importanza nazionale;
 - b. gli oggetti d’importanza regionale e locale.
 
-[^4-1]: [CS **1** 3; [RU 1962 803](https://fedlex.data.admin.ch/eli/oc/1962/749_783_803)]. Vedi ora l’art. 78 cpv. 2 della Cost. del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^4-1]: [CS **1** 3; [RU 1962 803](https://fedlex.data.admin.ch/eli/oc/1962/749_783_803)]. Vedi ora l’art. 78 cpv. 2 della Cost. del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 
 ### Inventari federali degli oggetti d’importanza nazionale
 
@@ -131,7 +131,7 @@ Il Consiglio federale, sentiti i Cantoni, compila gli inventari degli oggetti d�
 
 <sup>2</sup> Gl’inventari non sono definitivi. Essi devono essere esaminati e aggiornati regolarmente; circa l’iscrizione, la modificazione o la cancellazione d’oggetti risolve il Consiglio federale dopo aver sentito i Cantoni. Questi possono proporre di moto proprio un riesame.
 
-[^5-1]: Nuovo testo giusta il n. I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
+[^5-1]: Nuovo testo giusta la cifra I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
 
 ### Importanza dell’inventario
 
@@ -141,7 +141,7 @@ Il Consiglio federale, sentiti i Cantoni, compila gli inventari degli oggetti d�
 
 <sup>2</sup> Il principio secondo il quale un oggetto dev’essere conservato intatto nelle condizioni stabilite nell’inventario non soffre deroghe nell’adempimento dei compiti della Confederazione, sempreché non s’opponga un interesse equivalente o maggiore, parimente d’importanza nazionale.
 
-[^6-1]: Nuovo testo giusta il n. I 3 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^6-1]: Nuovo testo giusta la cifra I n. 3 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 ### Perizia della commissione
 
@@ -155,9 +155,9 @@ Il Consiglio federale, sentiti i Cantoni, compila gli inventari degli oggetti d�
 
 <sup>3</sup> La perizia costituisce uno degli elementi su cui l’autorità decisionale si basa per la ponderazione di tutti gli interessi.[^7-3]
 
-[^7-1]: Nuovo testo giusta il n. I 3 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^7-1]: Nuovo testo giusta la cifra I n. 3 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 [^7-2]: Nuovo testo giusta l’all. del DF del 21 mar. 2014 (Protocollo di Nagoya), in vigore dal 1° set. 2014 ([RU 2014 2629](https://fedlex.data.admin.ch/eli/oc/2014/467); [FF 2013 2531](https://fedlex.data.admin.ch/eli/fga/2013/611)).
-[^7-3]: Introdotto dal n. I della LF del 27 set. 2019, in vigore dal 1° apr. 2020 ([RU 2020 1217](https://fedlex.data.admin.ch/eli/oc/2020/229); [FF 2019 345](https://fedlex.data.admin.ch/eli/fga/2019/20)[1201](https://fedlex.data.admin.ch/eli/fga/2019/318)).
+[^7-3]: Introdotto dalla cifra I della LF del 27 set. 2019, in vigore dal 1° apr. 2020 ([RU 2020 1217](https://fedlex.data.admin.ch/eli/oc/2020/229); [FF 2019 345](https://fedlex.data.admin.ch/eli/fga/2019/20)[1201](https://fedlex.data.admin.ch/eli/fga/2019/318)).
 
 ### Perizia facoltativa
 
@@ -167,7 +167,7 @@ Il Consiglio federale, sentiti i Cantoni, compila gli inventari degli oggetti d�
 
 La commissione competente può, in casi gravi, dare di moto proprio e in qualsiasi fase della procedura un parere sulla maniera di rispettare o conservare intatto un oggetto. Il parere deve nondimeno essere dato il più presto possibile. A richiesta, le saranno forniti tutti i documenti necessari.
 
-[^8-1]: Nuovo testo giusta il n. I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
+[^8-1]: Nuovo testo giusta la cifra I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
 
 ### Altre perizie
 
@@ -177,7 +177,7 @@ La commissione competente può, in casi gravi, dare di moto proprio e in qualsia
 
 L’ufficio federale competente può chiedere una perizia anche al servizio tecnico cantonale (art. 25 cpv. 2), alla commissione cantonale di protezione della natura e del paesaggio o di conservazione dei monumenti storici o ad altro organismo designato dal Cantone oppure chiedere il parere di associazioni che si occupano della protezione della natura e del paesaggio o della conservazione dei monumenti storici.
 
-[^9-1]: Nuovo testo giusta il n. I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
+[^9-1]: Nuovo testo giusta la cifra I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
 
 ### Parere dei Cantoni
 
@@ -187,7 +187,7 @@ L’ufficio federale competente può chiedere una perizia anche al servizio tecn
 
 Nei casi di cui agli articoli 7, 8 e 9 deve sempre essere chiesto il parere dei governi cantonali. Questi invitano i Comuni interessati a presentare le loro osservazioni.
 
-[^10-1]: Nuovo testo giusta il n. I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
+[^10-1]: Nuovo testo giusta la cifra I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
 
 ### Riserva delle opere militari
 
@@ -195,7 +195,7 @@ Nei casi di cui agli articoli 7, 8 e 9 deve sempre essere chiesto il parere dei 
 
 Per le costruzioni e gli impianti militari esentati dall’obbligo d’autorizzazione giusta l’articolo 126 capoverso 4 della legge militare del 3 febbraio 1995[^11-1], l’autorità federale competente non è tenuta a chiedere una perizia.[^11-2] Nemmeno è tenuto a fornire documenti per le perizie facoltative.
 
-[^11-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^11-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 [^11-2]: Nuovo testo giusta l’all. n. 6 della L militare del 3 feb. 1995, in vigore dal 1° gen. 1996 ([RU 1995 4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093); [FF 1993 IV 1](https://fedlex.data.admin.ch/eli/fga/1993/4_1_1_1)).
 
 ### Diritto di ricorso dei Comuni e delle organizzazioni
@@ -218,6 +218,13 @@ Sono legittimati a ricorrere contro le decisioni delle autorità cantonali o fed
   - 1\. sono attive a livello nazionale;
   - 2\. perseguono scopi meramente ideali; eventuali attività economiche devono servire a conseguire gli scopi ideali.
 
+<sup>1bis</sup>
+
+Le organizzazioni non sono legittimate a ricorrere contro decisioni concernenti edifici abitativi con una superficie di piano inferiore a 400 m<sup>2</sup> situati all’interno di zone edificabili; restano legittimate a ricorrere contro decisioni concernenti edifici abitativi:
+
+- a. situati all’interno di un sito caratteristico d’importanza nazionale o se i progetti concernono direttamente luoghi storici o monumenti culturali oppure se s’intende realizzarli nelle loro immediate vicinanze; o
+- b. situati all’interno di un biotopo d’importanza nazionale, regionale o locale.[^12-2]
+
 <sup>2</sup> Le organizzazioni sono legittimate a ricorrere soltanto per censure in ambiti giuridici che rientrano da almeno dieci anni negli scopi previsti nel loro statuto.
 
 <sup>3</sup> Il Consiglio federale designa le organizzazioni legittimate a ricorrere.
@@ -228,7 +235,8 @@ premo dell’organizzazione.
 
 <sup>5</sup> Le organizzazioni possono abilitare le loro sottoorganizzazioni cantonali e sovracantonali giuridicamente autonome a fare opposizione in generale e a presentare ricorso in singoli casi nell’ambito locale d’attività.
 
-[^12-1]: Nuovo testo giusta il n. II 1 della LF del 20 dic. 2006, in vigore dal 1° lug. 2007 e dal 1° lug. 2010 per le attività economiche di cui alla lett. b n. 2 ([RU 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [FF 2005 4777](https://fedlex.data.admin.ch/eli/fga/2005/841)[4817](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^12-1]: Nuovo testo giusta la cifra II n. 1 della LF del 20 dic. 2006, in vigore dal 1° lug. 2007 e dal 1° lug. 2010 per le attività economiche di cui alla lett. b n. 2 ([RU 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [FF 2005 4777](https://fedlex.data.admin.ch/eli/fga/2005/841)[4817](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^12-2]: Introdotto dalla cifra I della LF del 27 set. 2024, in vigore dal 1° ago. 2025 ([RU 2025 429](https://fedlex.data.admin.ch/eli/oc/2025/429); [FF 2024 408](https://fedlex.data.admin.ch/eli/fga/2024/408), [788](https://fedlex.data.admin.ch/eli/fga/2024/788)).
 
 ### 2. Inammissibilità del ricorso contro decisioni concernenti la concessione di sussidi federali
 
@@ -238,7 +246,7 @@ premo dell’organizzazione.
 
 Il ricorso contro una decisione concernente la concessione di un sussidio federale non è ammissibile qualora la progettazione, le opere o gli impianti siano già stati altrimenti oggetto, nell’adempimento di compiti della Confederazione, di una decisione ai sensi dell’articolo 12 capoverso 1.
 
-[^12a-1]: Introdotto dal n. I della LF del 24 mar. 1995 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)). Nuovo testo giusta il n. II 1 della LF del 20 dic. 2006, in vigore dal 1° lug. 2007([RU 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [FF 2005 4777](https://fedlex.data.admin.ch/eli/fga/2005/841)[4817](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^12a-1]: Introdotto dalla cifra I della LF del 24 mar. 1995 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)). Nuovo testo giusta la cifra II n. 1 della LF del 20 dic. 2006, in vigore dal 1° lug. 2007 ([RU 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [FF 2005 4777](https://fedlex.data.admin.ch/eli/fga/2005/841)[4817](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
 ### 3. Comunicazione della decisione
 
@@ -250,7 +258,7 @@ Il ricorso contro una decisione concernente la concessione di un sussidio federa
 
 <sup>2</sup> Nelle procedure di opposizione previste dal diritto federale o cantonale, anche le domande devono essere pubblicate secondo il capoverso 1.
 
-[^12b-1]: Introdotto dal n. I della LF del 24 mar. 1995 ([RU 1996 214](https://fedlex.data.admin.ch/eli/oc/1996/214_214_214); [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)). Nuovo testo giusta il n. II 1 della LF del 20 dic. 2006, in vigore dal 1° lug. 2007 ([RU 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [FF 2005 4777](https://fedlex.data.admin.ch/eli/fga/2005/841)[4817](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^12b-1]: Introdotto dalla cifra I della LF del 24 mar. 1995 ([RU 1996 214](https://fedlex.data.admin.ch/eli/oc/1996/214_214_214); [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)). Nuovo testo giusta la cifra II n. 1 della LF del 20 dic. 2006, in vigore dal 1° lug. 2007 ([RU 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [FF 2005 4777](https://fedlex.data.admin.ch/eli/fga/2005/841)[4817](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
 ### 4. Perdita della legittimazione a ricorrere
 
@@ -266,8 +274,8 @@ Il ricorso contro una decisione concernente la concessione di un sussidio federa
 
 <sup>4</sup> In materia di piani di utilizzazione i capoversi 2 e 3 si applicano anche alle opposizioni e ai ricorsi interposti secondo il diritto cantonale.
 
-[^12c-1]: Introdotto dal n. II 1 della LF del 20 dic. 2006, in vigore dal 1° lug. 2007 ([RU 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [FF 2005 4777](https://fedlex.data.admin.ch/eli/fga/2005/841)[4817](https://fedlex.data.admin.ch/eli/fga/2005/843)).
-[^12c-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^12c-1]: Introdotto dalla cifra II n. 1 della LF del 20 dic. 2006, in vigore dal 1° lug. 2007 ([RU 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [FF 2005 4777](https://fedlex.data.admin.ch/eli/fga/2005/841)[4817](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^12c-2]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### 5. Accordi fra richiedenti e organizzazioni
 
@@ -287,8 +295,8 @@ Sono illeciti gli accordi fra i richiedenti e le organizzazioni relativi a prest
 
 <sup>3</sup> L’autorità di ricorso non entra nel merito dei ricorsi che configurano un abuso di diritto o qualora l’organizzazione abbia chiesto prestazioni illecite ai sensi del capoverso 2.
 
-[^12d-1]: Introdotto dal n. II 1 della LF del 20 dic. 2006, in vigore dal 1° lug. 2007 ([RU 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [FF 2005 4777](https://fedlex.data.admin.ch/eli/fga/2005/841)[4817](https://fedlex.data.admin.ch/eli/fga/2005/843)).
-[^12d-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^12d-1]: Introdotto dalla cifra II n. 1 della LF del 20 dic. 2006, in vigore dal 1° lug. 2007 ([RU 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [FF 2005 4777](https://fedlex.data.admin.ch/eli/fga/2005/841)[4817](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^12d-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ### 6. Inizio anticipato dei lavori
 
@@ -298,7 +306,7 @@ Sono illeciti gli accordi fra i richiedenti e le organizzazioni relativi a prest
 
 I lavori di costruzione possono essere cominciati prima della fine della procedura, a condizione che il suo esito non possa influire su di essi.
 
-[^12e-1]: Introdotto dal n. II 1 della LF del 20 dic. 2006, in vigore dal 1° lug. 2007 ([RU 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [FF 2005 4777](https://fedlex.data.admin.ch/eli/fga/2005/841)[4817](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^12e-1]: Introdotto dalla cifra II n. 1 della LF del 20 dic. 2006, in vigore dal 1° lug. 2007 ([RU 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [FF 2005 4777](https://fedlex.data.admin.ch/eli/fga/2005/841)[4817](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
 ### 7. Spese procedurali
 
@@ -308,7 +316,7 @@ I lavori di costruzione possono essere cominciati prima della fine della procedu
 
 Le spese della procedura di ricorso dinnanzi alle autorità federali sono a carico dell’organizzazione soccombente.
 
-[^12f-1]: Introdotto dal n. II 1 della LF del 20 dic. 2006, in vigore dal 1° lug. 2007 ([RU 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [FF 2005 4777](https://fedlex.data.admin.ch/eli/fga/2005/841)[4817](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^12f-1]: Introdotto dalla cifra II n. 1 della LF del 20 dic. 2006, in vigore dal 1° lug. 2007 ([RU 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [FF 2005 4777](https://fedlex.data.admin.ch/eli/fga/2005/841)[4817](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
 ### Diritto di ricorso dei Cantoni e dell’ufficio federale competente
 
@@ -320,13 +328,13 @@ Le spese della procedura di ricorso dinnanzi alle autorità federali sono a cari
 
 <sup>2</sup> L’Ufficio federale competente è legittimato a ricorrere contro le decisioni cantonali conformemente all’articolo 12 capoverso 1; può avvalersi dei rimedi giuridici del diritto federale e cantonale.
 
-[^12g-1]: Introdotto dal n. II 1 della LF del 20 dic. 2006, in vigore dal 1° lug. 2007 ([RU 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [FF 2005 4777](https://fedlex.data.admin.ch/eli/fga/2005/841)[4817](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^12g-1]: Introdotto dalla cifra II n. 1 della LF del 20 dic. 2006, in vigore dal 1° lug. 2007 ([RU 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [FF 2005 4777](https://fedlex.data.admin.ch/eli/fga/2005/841)[4817](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
 ### Capo 2: Promovimento della protezione della natura, della protezione del paesaggio e della conservazione dei monumenti storici da parte della Confederazione e provvedimenti federali
 
 [^lvlu1-chap2-1]
 
-[^lvlu1-chap2-1]: Nuovo testo giusta il n. I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
+[^lvlu1-chap2-1]: Nuovo testo giusta la cifra I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
 
 ### Aiuti finanziari per la conserva-zione d’oggetti meritevoli di protezione
 
@@ -344,8 +352,8 @@ Le spese della procedura di ricorso dinnanzi alle autorità federali sono a cari
 
 <sup>5</sup> I provvedimenti di protezione e di manutenzione prescritti costituiscono restrizioni di diritto pubblico della proprietà (art. 702 CC[^13-2]). Essi vincolano i proprietari fondiari interessati e devono essere menzionati nel registro fondiario su notificazione del Cantone. Il Consiglio federale disciplina le deroghe all’obbligo della menzione.
 
-[^13-1]: Nuovo testo giusta il n. II 7 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^13-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^13-1]: Nuovo testo giusta la cifra II n. 7 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^13-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### Sussidi alle associazioni
 
@@ -355,7 +363,7 @@ Le spese della procedura di ricorso dinnanzi alle autorità federali sono a cari
 
 La Confederazione può assegnare sussidi alle associazioni di protezione della natura, di protezione del paesaggio o di conservazione dei monumenti storici aventi un’importanza nazionale, per le spese cagionate dalla loro opera nell’interesse pubblico.
 
-[^14-1]: Nuovo testo giusta il n. I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
+[^14-1]: Nuovo testo giusta la cifra I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
 
 ### Ricerca, formazione, relazioni pubbliche
 
@@ -373,7 +381,7 @@ La Confederazione può accordare sussidi per:
 
 <sup>2</sup> La Confederazione può svolgere direttamente queste attività o farle eseguire a sue spese se l’interesse nazionale lo richiede.
 
-[^14a-1]: Introdotto dal n. I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
+[^14a-1]: Introdotto dalla cifra I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
 [^14a-2]: Nuovo testo giusta l’all. n. 19 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 
 ### Acquisto e tutela d’oggetti meritevoli di protezione
@@ -384,8 +392,8 @@ La Confederazione può accordare sussidi per:
 
 <sup>2</sup> Per l’espropriazione è applicabile la legge federale del 20 giugno 1930[^15-2] sull’espropriazione.
 
-[^15-1]: Nuovo testo giusta il n. I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
-[^15-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^15-1]: Nuovo testo giusta la cifra I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
+[^15-2]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### Provvedimenti conservativi
 
@@ -393,7 +401,7 @@ La Confederazione può accordare sussidi per:
 
 Allorché un pericolo imminente minacci un sito naturale secondo l’articolo 15, un luogo storico o un monumento culturale d’importanza nazionale, il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni oppure il Dipartimento federale dell’interno[^16-1] possono, con provvedimenti temporanei, sottoporlo alla protezione della Confederazione e far prendere le disposizioni conservative necessarie.[^16-2]
 
-[^16-1]: Nuovo testo giusta il n. I della LF del 19 giu. 1987, in vigore dal 1° feb. 1988 ([RU 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [FF 1985 II 1261](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)).
+[^16-1]: Nuovo testo giusta la cifra I della LF del 19 giu. 1987, in vigore dal 1° feb. 1988 ([RU 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [FF 1985 II 1261](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)).
 [^16-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 
 ### Stanziamento dei sussidi
@@ -406,10 +414,10 @@ Allorché un pericolo imminente minacci un sito naturale secondo l’articolo 15
 
 <sup>2</sup> Il finanziamento dei settori della protezione del paesaggio e della conservazione dei monumenti storici è retto dall’articolo 27 della legge dell’11 dicembre 2009[^16a-3] sulla promozione della cultura.[^16a-4]
 
-[^16a-1]: Introdotto dall’all. n. 9 della LF del 5 ott. 1990 sui sussidi ([RU 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857); [FF 1987 I 297](https://fedlex.data.admin.ch/eli/fga/1987/1_369_369_297)). Nuovo testo giusta il n. II 7 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^16a-1]: Introdotto dall’all. n. 9 della LF del 5 ott. 1990 sui sussidi ([RU 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857); [FF 1987 I 297](https://fedlex.data.admin.ch/eli/fga/1987/1_369_369_297)). Nuovo testo giusta la cifra II n. 7 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^16a-2]: Nuova espr. giusta l’all. n. 3 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 333](https://fedlex.data.admin.ch/eli/fga/2020/18)).
-[^16a-3]: [RS 442.1](https://fedlex.data.admin.ch/eli/cc/2011/854)
-[^16a-4]: Introdotto dall’all. n. II 5 della LF dell’11 dic. 2009 sulla promozione della cultura, in vigore dal 1° gen. 2012 ([RU 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [FF 2007 4421](https://fedlex.data.admin.ch/eli/fga/2007/681)[4459](https://fedlex.data.admin.ch/eli/fga/2007/683)).
+[^16a-3]: [RS 442.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7110)
+[^16a-4]: Introdotto dall’all. cifra II n. 5 della LF dell’11 dic. 2009 sulla promozione della cultura, in vigore dal 1° gen. 2012 ([RU 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [FF 2007 4421](https://fedlex.data.admin.ch/eli/fga/2007/681)[4459](https://fedlex.data.admin.ch/eli/fga/2007/683)).
 
 ### Restituzione di sussidi
 
@@ -429,7 +437,7 @@ Se un oggetto non è più meritevole di protezione, può essere chiesta la resti
 
 Il Consiglio federale fissa i casi nei quali la commissione competente può effettuare una perizia di propria iniziativa o a richiesta di terzi, previo consenso dell’autorità cantonale competente.
 
-[^17a-1]: Introdotto dal n. I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
+[^17a-1]: Introdotto dalla cifra I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
 
 ### Capo 3: Protezione della fauna e della flora indigene
 
@@ -464,7 +472,7 @@ Il Consiglio federale fissa i casi nei quali la commissione competente può effe
 
 <sup>3</sup> Sentiti i Cantoni, il Consiglio federale può fissare termini per ordinare i provvedimenti protettivi. Se un Cantone, nonostante diffida, non ordina tempestivamente i provvedimenti di protezione richiesti, il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni[^18a-2] può attuare direttamente i provvedimenti necessari e addossare al Cantone una parte adeguata dei costi.
 
-[^18a-1]: Introdotto dal n. I della LF del 19 giu. 1987, in vigore dal 1° feb. 1988 ([RU 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [FF 1985 II 1261](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)).
+[^18a-1]: Introdotto dalla cifra I della LF del 19 giu. 1987, in vigore dal 1° feb. 1988 ([RU 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [FF 1985 II 1261](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)).
 [^18a-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 
 ### Biotopi d’importanza regionale e locale e compensazione ecologica
@@ -477,7 +485,7 @@ Il Consiglio federale fissa i casi nei quali la commissione competente può effe
 
 <sup>2</sup> Nelle regioni sfruttate intensivamente all’interno e all’esterno degli insediamenti, i Cantoni provvedono a una compensazione ecologica con boschetti campestri, siepi, cespugli ripuali o altra vegetazione conforme alla natura e al sito. Deve essere tenuto conto degli interessi dell’utilizzazione agricola.
 
-[^18b-1]: Introdotto dal n. I della LF del 19 giu. 1987, in vigore dal 1° feb. 1988 ([RU 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [FF 1985 II 1261](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)).
+[^18b-1]: Introdotto dalla cifra I della LF del 19 giu. 1987, in vigore dal 1° feb. 1988 ([RU 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [FF 1985 II 1261](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)).
 
 ### Situazione dei proprietari fondiari e dei gestori
 
@@ -493,8 +501,8 @@ Il Consiglio federale fissa i casi nei quali la commissione competente può effe
 
 <sup>4</sup> Se per conseguire la protezione perseguita è necessario acquistare terreni, i Cantoni hanno la facoltà d’espropriare. Nelle loro disposizioni d’esecuzione, possono dichiarare applicabile la legge federale del 20 giugno 1930[^18c-2] sull’espropriazione, fermo stante che le opposizioni rimaste controverse sono decise dal governo cantonale. Se l’oggetto da proteggere si estende sul territorio di più Cantoni, è applicabile la legge federale sull’espropriazione.
 
-[^18c-1]: Introdotto dal n. I della LF del 19 giu. 1987, in vigore dal 1° feb. 1988 ([RU 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [FF 1985 II 1261](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)).
-[^18c-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^18c-1]: Introdotto dalla cifra I della LF del 19 giu. 1987, in vigore dal 1° feb. 1988 ([RU 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [FF 1985 II 1261](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)).
+[^18c-2]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### Finanziamento
 
@@ -512,7 +520,7 @@ Il Consiglio federale fissa i casi nei quali la commissione competente può effe
 
 <sup>5</sup> La Confederazione assume le spese per la designazione dei biotopi d’importanza nazionale.
 
-[^18d-1]: Introdotto dal n. I della LF del 19 giu. 1987 ([RU 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [FF 1985 II 1261](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)). Nuovo testo giusta il n. II 7 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^18d-1]: Introdotto dalla cifra I della LF del 19 giu. 1987 ([RU 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [FF 1985 II 1261](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)). Nuovo testo giusta la cifra II n. 7 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 ### Raccolta di piante selvatiche e cattura d’animali obbligo d’un permesso
 
@@ -531,7 +539,7 @@ La raccolta, a scopo di lucro, di piante selvatiche e la cattura d’animali viv
 <sup>3</sup> Per motivi di protezione delle specie, il Consiglio federale può inoltre vincolare a condizioni, limitare o vietare la produzione, la messa in commercio, l’importazione, l’esportazione e il transito di piante o prodotti vegetali.[^20-2]
 
 [^20-1]: Nuovo testo del per. giusta l’all. n. 2 della L del 21 mar. 2003 sull’ingegneria genetica, in vigore dal 1° gen. 2004 ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)).
-[^20-2]: Introdotto dal n. I della LF del 21 giu. 1996, in vigore dal 1° lug. 1997 ([RU 1997 1152](https://fedlex.data.admin.ch/eli/oc/1997/1152_1152_1152); [FF 1995 IV 589](https://fedlex.data.admin.ch/eli/fga/1995/4_629_621_589)).
+[^20-2]: Introdotto dalla cifra I della LF del 21 giu. 1996, in vigore dal 1° lug. 1997 ([RU 1997 1152](https://fedlex.data.admin.ch/eli/oc/1997/1152_1152_1152); [FF 1995 IV 589](https://fedlex.data.admin.ch/eli/fga/1995/4_629_621_589)).
 
 ### Vegetazione ripuale
 
@@ -544,7 +552,7 @@ La raccolta, a scopo di lucro, di piante selvatiche e la cattura d’animali viv
 <sup>2</sup> Nella misura consentita dalle circostanze, i Cantoni provvedono alla messa a dimora di vegetazione ripuale sulle rive che ne sono sprovviste o, per lo meno, alla realizzazione delle condizioni necessarie alla sua crescita.[^21-2]
 
 [^21-1]: Nuovo testo giusta l’art. 66 n. 1 della L del 7 ott. 1983 sulla protezione dell’ambiente, in vigore dal 1° gen. 1985 ([RU 1984 1122](https://fedlex.data.admin.ch/eli/oc/1984/1122_1122_1122); [FF 1979 III 713](https://fedlex.data.admin.ch/eli/fga/1979/3_749_741_713)).
-[^21-2]: Introdotto dall’art 75 n. 2 della LF del 24 gen. 1991 sulla protezione delle acque ([RU 1992 1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860); [FF 1987 II 905](https://fedlex.data.admin.ch/eli/fga/1987/2_1061_1081_905)). Nuovo testo giusta il n. I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
+[^21-2]: Introdotto dall’art 75 n. 2 della LF del 24 gen. 1991 sulla protezione delle acque ([RU 1992 1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860); [FF 1987 II 905](https://fedlex.data.admin.ch/eli/fga/1987/2_1061_1081_905)). Nuovo testo giusta la cifra I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
 
 ### Permessi straordinari
 
@@ -552,13 +560,15 @@ La raccolta, a scopo di lucro, di piante selvatiche e la cattura d’animali viv
 
 <sup>1</sup> L’autorità cantonale competente può, in determinati territori, permettere eccezioni per la raccolta e il dissotterramento di piante protette e la cattura d’animali a scopo scientifico, didattico o terapeutico.
 
-<sup>2</sup> Essa può autorizzare, per progetti che non possono essere realizzati altrove, la rimozione della vegetazione ripuale nei casi ammessi dalla legislazione sulla polizia delle opere idrauliche o da quella sulla protezione delle acque.[^22-1]
+<sup>2</sup> Essa può autorizzare, per progetti che non possono essere realizzati altrove, la rimozione della vegetazione ripuale nei casi ammessi dalla legge federale del 21 giugno 1991[^22-1] sulla sistemazione dei corsi d’acqua o dalla legge federale del 24 gennaio 1991[^22-2] sulla protezione delle acque.[^22-3]
 
-<sup>3</sup> Qualora un altro atto normativo federale fondi la competenza di un’autorità federale di decidere circa un progetto, l’autorizzazione è rilasciata da questa autorità....[^22-2].[^22-3]
+<sup>3</sup> Qualora un altro atto normativo federale fondi la competenza di un’autorità federale di decidere circa un progetto, l’autorizzazione è rilasciata da questa autorità. ...[^22-4].[^22-5]
 
-[^22-1]: Nuovo testo giusta l’art. 75 n. 2 della LF del 24 gen. 1991 sulla protezione delle acque, in vigore dal 1° nov. 1992 ([RU 1992 1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860); [FF 1987 II 905](https://fedlex.data.admin.ch/eli/fga/1987/2_1061_1081_905)).
-[^22-2]: Per. abrogato dal n. I 3 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, con effetto dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
-[^22-3]: Nuovo testo giusta l’all. n. 6 della L militare del 3 feb. 1995, in vigore dal 1° gen. 1996 ([RU 1995 4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093); [FF 1993 IV 1](https://fedlex.data.admin.ch/eli/fga/1993/4_1_1_1)).
+[^22-1]: [RS 721.100](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8402)
+[^22-2]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^22-3]: Nuovo testo giusta l’all. n. 1 della LF del 15 mar. 2024, in vigore dal 1° ago. 2025 ([RU 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
+[^22-4]: Per. abrogato dalla cifra I n. 3 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, con effetto dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^22-5]: Nuovo testo giusta l’all. n. 6 della L militare del 3 feb. 1995, in vigore dal 1° gen. 1996 ([RU 1995 4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093); [FF 1993 IV 1](https://fedlex.data.admin.ch/eli/fga/1993/4_1_1_1)).
 
 ### Specie animali e vegetali estranee: autorizzazione obbligatoria
 
@@ -574,7 +584,7 @@ Per l’acclimazione di specie, sottospecie e razze animali e vegetali forestier
 
 [^lvlu1-chap3a-1]
 
-[^lvlu1-chap3a-1]: Introdotto dal n. I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
+[^lvlu1-chap3a-1]: Introdotto dalla cifra I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
 
 ### Protezione delle paludi
 
@@ -615,10 +625,10 @@ Una zona palustre è di particolare bellezza e d’importanza nazionale se:
 
 <sup>6</sup> Le indennità sono accordate soltanto se i provvedimenti sono attuati in modo economico e competente.[^23c-4]
 
-[^23c-1]: Nuovo testo giusta il n. II 7 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^23c-2]: Introdotto dal n. II 7 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^23c-3]: Introdotto dal n. II 7 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^23c-4]: Introdotto dal n. II 7 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^23c-1]: Nuovo testo giusta la cifra II n. 7 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^23c-2]: Introdotto dalla cifra II n. 7 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^23c-3]: Introdotto dalla cifra II n. 7 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^23c-4]: Introdotto dalla cifra II n. 7 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 ### Interventi di configurazione e utilizzazione delle zone palustri
 
@@ -639,7 +649,7 @@ Fermo restando il presupposto del capoverso 1, sono segnatamente ammissibili:
 
 [^lvlu1-chap3b-1]
 
-[^lvlu1-chap3b-1]: Introdotto dal n. I della LF del 6 ott. 2006, in vigore dal 1° dic. 2007 ([RU 2007 5237](https://fedlex.data.admin.ch/eli/oc/2007/742); [FF 2005 1945](https://fedlex.data.admin.ch/eli/fga/2005/263)).
+[^lvlu1-chap3b-1]: Introdotto dalla cifra I della LF del 6 ott. 2006, in vigore dal 1° dic. 2007 ([RU 2007 5237](https://fedlex.data.admin.ch/eli/oc/2007/742); [FF 2005 1945](https://fedlex.data.admin.ch/eli/fga/2005/263)).
 
 ### Definizione e categorie
 
@@ -762,7 +772,7 @@ Il Consiglio federale emana prescrizioni per quanto concerne:
 
 <sup>3</sup> L’eventuale ampliamento del parco con una zona periferica è incentivato sulla base dell’articolo 23*k*.
 
-[^23m-1]: [RS 454](https://fedlex.data.admin.ch/eli/cc/1981/236_236_236)
+[^23m-1]: [RS 454](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7195)
 
 ### Capo 3*c*: Risorse genetiche
 
@@ -851,13 +861,13 @@ Gli articoli 23*n* e 23*o* si applicano anche alle conoscenze tradizionali assoc
 
 <sup>2</sup> Se l’autore ha agito per negligenza, la pena è della multa sino a 40 000 franchi.[^24-8]
 
-[^24-1]: Nuovo testo giusta il n. I della LF del 19 giu. 1987, in vigore dal 1° feb. 1988 ([RU 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [FF 1985 II 1261](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)).
+[^24-1]: Nuovo testo giusta la cifra I della LF del 19 giu. 1987, in vigore dal 1° feb. 1988 ([RU 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [FF 1985 II 1261](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)).
 [^24-2]: Nuovo testo giusta l’art. 333 del Codice penale ([RU 54 799](https://fedlex.data.admin.ch/eli/oc/54/757_781_799), [57 1408](https://fedlex.data.admin.ch/eli/oc/57/1328_1364_1408)e CS **3** 187; FF **1918** II 1), nella versione della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
-[^24-3]: Nuovo testo giusta il n. I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
-[^24-4]: Introdotta dal n. I della LF del 24 mar. 1995 ([RU 1996 214](https://fedlex.data.admin.ch/eli/oc/1996/214_214_214); [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)). Nuovo testo giusta l’art. 32 n. 4 della L del 20 giu. 2003 sul trasferimento dei beni culturali, in vigore dal 1° giu. 2005 ([RU 2005 1869](https://fedlex.data.admin.ch/eli/oc/2005/317); [FF 2002 457](https://fedlex.data.admin.ch/eli/fga/2002/93)).
-[^24-5]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^24-6]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^24-7]: Introdotta dal n. I della LF del 21 giu. 1996 ([RU 1997 1152](https://fedlex.data.admin.ch/eli/oc/1997/1152_1152_1152); [FF 1995 IV 589](https://fedlex.data.admin.ch/eli/fga/1995/4_629_621_589)). Abrogata dall’all. 1 n. 1 della LF del 16 mar. 2012 sulla circolazione delle specie di fauna e di flora protette, con effetto dal 1° ott. 2013 ([RU 2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600); [FF 2011 6219](https://fedlex.data.admin.ch/eli/fga/2011/1119)).
+[^24-3]: Nuovo testo giusta la cifra I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
+[^24-4]: Introdotta dalla cifra I della LF del 24 mar. 1995 ([RU 1996 214](https://fedlex.data.admin.ch/eli/oc/1996/214_214_214); [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)). Nuovo testo giusta l’art. 32 n. 4 della L del 20 giu. 2003 sul trasferimento dei beni culturali, in vigore dal 1° giu. 2005 ([RU 2005 1869](https://fedlex.data.admin.ch/eli/oc/2005/317); [FF 2002 457](https://fedlex.data.admin.ch/eli/fga/2002/93)).
+[^24-5]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^24-6]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^24-7]: Introdotta dalla cifra I della LF del 21 giu. 1996 ([RU 1997 1152](https://fedlex.data.admin.ch/eli/oc/1997/1152_1152_1152); [FF 1995 IV 589](https://fedlex.data.admin.ch/eli/fga/1995/4_629_621_589)). Abrogata dall’all. 1 n. 1 della LF del 16 mar. 2012 sulla circolazione delle specie di fauna e di flora protette, con effetto dal 1° ott. 2013 ([RU 2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600); [FF 2011 6219](https://fedlex.data.admin.ch/eli/fga/2011/1119)).
 [^24-8]: Nuovo testo giusta l’art. 333 del Codice penale ([RU 54 799](https://fedlex.data.admin.ch/eli/oc/54/757_781_799), [57 1408](https://fedlex.data.admin.ch/eli/oc/57/1328_1364_1408)e CS **3** 187; FF **1918** II 1), nella versione della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
 
 ### Contravvenzioni
@@ -876,8 +886,8 @@ Gli articoli 23*n* e 23*o* si applicano anche alle conoscenze tradizionali assoc
 
 <sup>2</sup> È punito con la multa fino a 100 000 franchi chiunque intenzionalmente non fornisce le indicazioni di cui all’articolo 23*o* o in merito fornisce indicazioni false; se l’autore ha agito per negligenza, la pena è della multa fino a 40 000 franchi. Il giudice può ordinare la pubblicazione della sentenza.[^24a-3]
 
-[^24a-1]: Introdotto dal n. I della LF del 19 giu. 1987, in vigore dal 1° feb. 1988 ([RU 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [FF 1985 II 1261](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)).
-[^24a-2]: Nuovo testo giusta il n. I della LF del 21 giu. 1996, in vigore dal 1° lug. 1997 ([RU 1997 1152](https://fedlex.data.admin.ch/eli/oc/1997/1152_1152_1152); [FF 1995 IV 589](https://fedlex.data.admin.ch/eli/fga/1995/4_629_621_589))
+[^24a-1]: Introdotto dalla cifra I della LF del 19 giu. 1987, in vigore dal 1° feb. 1988 ([RU 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [FF 1985 II 1261](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)).
+[^24a-2]: Nuovo testo giusta la cifra I della LF del 21 giu. 1996, in vigore dal 1° lug. 1997 ([RU 1997 1152](https://fedlex.data.admin.ch/eli/oc/1997/1152_1152_1152); [FF 1995 IV 589](https://fedlex.data.admin.ch/eli/fga/1995/4_629_621_589))
 [^24a-3]: Introdotto dall’all. del DF del 21 mar. 2014 (Protocollo di Nagoya), in vigore dal 12 ott. 2014 ([RU 2014 2629](https://fedlex.data.admin.ch/eli/oc/2014/467); [FF 2013 2531](https://fedlex.data.admin.ch/eli/fga/2013/611)).
 
 ### Applicazione a persone giuridiche e a società commerciali
@@ -888,8 +898,8 @@ Gli articoli 23*n* e 23*o* si applicano anche alle conoscenze tradizionali assoc
 
 Sono applicabili gli articoli 6 e 7 della legge federale del 22 marzo 1974[^24b-2] sul diritto penale amministrativo.
 
-[^24b-1]: Introdotto dal n. I della LF del 19 giu. 1987, in vigore dal 1° feb. 1988 ([RU 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [FF 1985 II 1261](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)).
-[^24b-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^24b-1]: Introdotto dalla cifra I della LF del 19 giu. 1987, in vigore dal 1° feb. 1988 ([RU 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [FF 1985 II 1261](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)).
+[^24b-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### Confisca
 
@@ -899,8 +909,8 @@ Sono applicabili gli articoli 6 e 7 della legge federale del 22 marzo 1974[^24b-
 
 È applicabile l’articolo 69 del Codice penale svizzero[^24c-2] sulla confisca degli oggetti e dei vantaggi pecuniari illecitamente ottenuti.
 
-[^24c-1]: Introdotto dal n. I della LF del 19 giu. 1987 ([RU 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [FF 1985 II 1261](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)). Nuovo testo giusta l’art. 334 del Codice penale ([RU 54 799](https://fedlex.data.admin.ch/eli/oc/54/757_781_799), [57 1408](https://fedlex.data.admin.ch/eli/oc/57/1328_1364_1408)e CS **3** 187; FF **1918** II 1), nella versione della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
-[^24c-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^24c-1]: Introdotto dalla cifra I della LF del 19 giu. 1987 ([RU 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [FF 1985 II 1261](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)). Nuovo testo giusta l’art. 334 del Codice penale ([RU 54 799](https://fedlex.data.admin.ch/eli/oc/54/757_781_799), [57 1408](https://fedlex.data.admin.ch/eli/oc/57/1328_1364_1408)e CS **3** 187; FF **1918** II 1), nella versione della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
+[^24c-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Azione penale
 
@@ -912,8 +922,8 @@ Sono applicabili gli articoli 6 e 7 della legge federale del 22 marzo 1974[^24b-
 
 <sup>2</sup> ...[^24d-2]
 
-[^24d-1]: Introdotto dal n. I della LF del 19 giu. 1987, in vigore dal 1° feb. 1988 ([RU 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [FF 1985 II 1261](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)).
-[^24d-2]: Introdotto dal n. I della LF del 21 giu. 1996 ([RU 1997 1152](https://fedlex.data.admin.ch/eli/oc/1997/1152_1152_1152); [FF 1995 IV 589](https://fedlex.data.admin.ch/eli/fga/1995/4_629_621_589)). Abrogato dall’all. 1 n. 1 della LF del 16 mar. 2012 sulla circolazione delle specie di fauna e di flora protette, con effetto dal 1° ott. 2013 ([RU 2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600); [FF 2011 6219](https://fedlex.data.admin.ch/eli/fga/2011/1119)).
+[^24d-1]: Introdotto dalla cifra I della LF del 19 giu. 1987, in vigore dal 1° feb. 1988 ([RU 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [FF 1985 II 1261](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)).
+[^24d-2]: Introdotto dalla cifra I della LF del 21 giu. 1996 ([RU 1997 1152](https://fedlex.data.admin.ch/eli/oc/1997/1152_1152_1152); [FF 1995 IV 589](https://fedlex.data.admin.ch/eli/fga/1995/4_629_621_589)). Abrogato dall’all. 1 n. 1 della LF del 16 mar. 2012 sulla circolazione delle specie di fauna e di flora protette, con effetto dal 1° ott. 2013 ([RU 2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600); [FF 2011 6219](https://fedlex.data.admin.ch/eli/fga/2011/1119)).
 
 ### Ripristino
 
@@ -927,7 +937,7 @@ Indipendentemente da un procedimento penale, chiunque danneggia una rarità natu
 - b. assumersi i costi per la riparazione dei danni;
 - c. fornire un adeguato risarcimento se i danni non possono essere riparati.
 
-[^24e-1]: Introdotto dal n. I della LF del 19 giu. 1987 ([RU 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [FF 1985 II 1261](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)). Nuovo testo giusta il n. I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
+[^24e-1]: Introdotto dalla cifra I della LF del 19 giu. 1987 ([RU 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [FF 1985 II 1261](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)). Nuovo testo giusta la cifra I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
 
 ### Capo 5: Esecuzione, organizzazione e informazione
 
@@ -972,7 +982,7 @@ I Cantoni eseguono la presente legge, per quanto questa non deleghi l’esecuzio
 <sup>4</sup> Le autorità esecutive federali tengono conto delle misure di protezione della natura e del paesaggio previste dai Cantoni.
 
 [^24h-1]: Introdotto dall’all. del DF del 21 mar. 2014 (Protocollo di Nagoya), in vigore dal 1° set. 2014, cpv. 3 in vigore dal 12 ott. 2014 ([RU 2014 2629](https://fedlex.data.admin.ch/eli/oc/2014/467); [FF 2013 2531](https://fedlex.data.admin.ch/eli/fga/2013/611)).
-[^24h-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^24h-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ### Organizzazione
 
@@ -988,7 +998,7 @@ I Cantoni eseguono la presente legge, per quanto questa non deleghi l’esecuzio
 
 <sup>2</sup> I Cantoni designano i servizi incaricati della protezione della natura e del paesaggio e della conservazione dei monumenti storici.
 
-[^25-1]: Nuovo testo giusta il n. I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
+[^25-1]: Nuovo testo giusta la cifra I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
 
 ### Informazione e consulenza
 
@@ -1016,9 +1026,9 @@ I Cantoni eseguono la presente legge, per quanto questa non deleghi l’esecuzio
 
 <sup>3</sup> Il ripristino dello stato originario è disposto dall’autorità cantonale o federale che sarebbe competente per decidere circa l’autorizzazione o l’esecuzione di corrispondenti progetti. In caso di ripristino dello stato originario dev’essere osservato il principio della proporzionalità.
 
-[^25b-1]: Originario art. 25*a*. Introdotto dal n. I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
-[^25b-2]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
-[^25b-3]: [CS **1** 3; [RU 1962 803](https://fedlex.data.admin.ch/eli/oc/1962/749_783_803), [1988 352](https://fedlex.data.admin.ch/eli/oc/1988/352_352_352)]. Vedi ora l’art. 78 cpv. 5 della Cost. del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^25b-1]: Originario art. 25*a*. Introdotto dalla cifra I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
+[^25b-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
+[^25b-3]: [CS **1** 3; [RU 1962 803](https://fedlex.data.admin.ch/eli/oc/1962/749_783_803), [1988 352](https://fedlex.data.admin.ch/eli/oc/1988/352_352_352)]. Vedi ora l’art. 78 cpv. 5 della Cost. del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 
 #### Art. 25c
 
@@ -1036,11 +1046,19 @@ Gli articoli 23*n* e 23*o* si applicano ai fatti in relazione a un accesso a ris
 
 [^25d-1]: Introdotto dall’all. del DF del 21 mar. 2014 (Protocollo di Nagoya), in vigore dal 12 ott. 2014 ([RU 2014 2629](https://fedlex.data.admin.ch/eli/oc/2014/467); [FF 2013 2531](https://fedlex.data.admin.ch/eli/fga/2013/611)).
 
+#### Art. 25e
+
+**Disposizione transitoria della modifica del 27 settembre 2024**[^25e-1]
+
+Le procedure in cui l’autorità preposta al rilascio dell’autorizzazione ha deciso sulla domanda di costruzione prima dell’entrata in vigore della modifica del 27 settembre 2024 sono portate a termine secondo il diritto anteriore.
+
+[^25e-1]: Introdotto dalla cifra I della LF del 27 set. 2024, in vigore dal 1° ago. 2025 ([RU 2025 429](https://fedlex.data.admin.ch/eli/oc/2025/429); [FF 2024 408](https://fedlex.data.admin.ch/eli/fga/2024/408), [788](https://fedlex.data.admin.ch/eli/fga/2024/788)).
+
 ### Entrata in vigore
 
 [^lvlu1-chap6-lvlu3-1]
 
-[^lvlu1-chap6-lvlu3-1]: Introdotto dal n. I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
+[^lvlu1-chap6-lvlu3-1]: Introdotto dalla cifra I della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 (RU **1996** 224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
 
 #### Art. 26
 

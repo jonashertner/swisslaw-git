@@ -4,11 +4,11 @@ title: Bundesgesetz vom 1. Juli 1966 über den Natur- und Heimatschutz (NHG)
 short: NHG
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679"
 language: de
-version: 2022-01-01
+version: 2025-08-01
 adopted: 1966-07-01
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1966-1637_1694_1679-20220101-de-xml-25.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679/20250801/de/xml/fedlex-data-admin-ch-eli-cc-1966-1637_1694_1679-20250801-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/20250801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/20220101/de"
 
 (NHG)[^t-1]
 
-vom 1. Juli 1966 (Stand am 1. Januar 2022)
+vom 1. Juli 1966 (Stand am 1. August 2025)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 24. März 1995, in Kraft seit 1. Febr. 1996 ([AS 1996 214](https://fedlex.data.admin.ch/eli/oc/1996/214_214_214); [BBl 1991 III 1121](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
 
@@ -27,8 +27,8 @@ gestützt auf Artikel 78 Absatz 4 der Bundesverfassung[^ingress-1], in Ausführu
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: [SR 0.451.432](https://fedlex.data.admin.ch/eli/cc/2014/532)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: [SR 0.451.432](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1843)
 [^ingress-3]: [BBl 1965 III 89](https://fedlex.data.admin.ch/eli/fga/1965/3_89_93_77)
 [^ingress-4]: Fassung gemäss Anhang des BB vom 21. März 2014 (Nagoya-Protokoll), in Kraft seit 12. Okt. 2014 ([AS 2014 2629](https://fedlex.data.admin.ch/eli/oc/2014/467); [BBl 2013 3009](https://fedlex.data.admin.ch/eli/fga/2013/611)).
 
@@ -73,7 +73,7 @@ Unter Erfüllung einer Bundesaufgabe im Sinne von Artikel 24<sup>sexies</sup> Ab
 
 <sup>2</sup> Entscheide kantonaler Behörden über Vorhaben, die voraussichtlich nur mit Beiträgen nach Absatz 1 Buchstabe c verwirklicht werden, sind der Erfüllung von Bundesaufgaben gleichgestellt.[^2-4]
 
-[^2-1]: [[AS 1962 749](https://fedlex.data.admin.ch/eli/oc/1962/749_783_803)]. Heute: Art. 78 Abs. 2 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^2-1]: [[AS 1962 749](https://fedlex.data.admin.ch/eli/oc/1962/749_783_803)]. Heute: Art. 78 Abs. 2 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 [^2-2]: Fassung gemäss Anhang Ziff. 2 des Gentechnikgesetzes vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^2-3]: Fassung gemäss Anhang Ziff. 7 des Telekommunikationsunternehmungsgesetzes vom 30. April 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2480](https://fedlex.data.admin.ch/eli/oc/1997/2480_2480_2480); [BBl 1996 III 1306](https://fedlex.data.admin.ch/eli/fga/1996/3_1306_1260_1201)).
 [^2-4]: Eingefügt durch Ziff. I 3 des BG vom 18. Juni 1999 über die Koordination und Vereinfa‑ chung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
@@ -112,7 +112,7 @@ Beim heimatlichen Landschafts- und Ortsbild, den geschichtlichen Stätten sowie 
 - a. Objekte von nationaler Bedeutung;
 - b. Objekte von regionaler und lokaler Bedeutung.
 
-[^4-1]: [[AS 1962 749](https://fedlex.data.admin.ch/eli/oc/1962/749_783_803)]. Heute: Art. 78 Abs. 2 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^4-1]: [[AS 1962 749](https://fedlex.data.admin.ch/eli/oc/1962/749_783_803)]. Heute: Art. 78 Abs. 2 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 
 ### Inventare des Bundes von Objekten mit nationaler Bedeutung
 
@@ -195,7 +195,7 @@ In den von Artikel 7, 8 und 9 vorgesehenen Fällen ist stets auch die Stellungna
 
 Bei militärischen Bauten und Anlagen, die nach Artikel 126 Absatz 4 des Militärgesetzes vom 3. Februar 1995[^11-1] von der Bewilligungspflicht ausgenommen sind, ist die zuständige Bundesbehörde von der obligatorischen Begutachtung befreit.[^11-2] Sie ist auch nicht verpflichtet, Unterlagen für die fakultative Begutachtung zu liefern.
 
-[^11-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^11-1]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 [^11-2]: Fassung gemäss Anhang Ziff. 6 des Militärgesetzes vom 3. Febr. 1995, in Kraft seit 1. Jan. 1996 ([AS 1995 4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093); [BBl 1993 IV 1](https://fedlex.data.admin.ch/eli/fga/1993/4_1_1_1)).
 
 ### Beschwerderecht der Gemeinden und der Organisationen
@@ -218,6 +218,13 @@ Gegen Verfügungen der kantonalen Behörden oder der Bundesbehörden steht das B
   - 1\. die Organisation ist gesamtschweizerisch tätig,
   - 2\. sie verfolgt rein ideelle Zwecke; allfällige wirtschaftliche Tätigkeiten müssen der Erreichung der ideellen Zwecke dienen.
 
+<sup>1bis</sup>
+
+Das Beschwerderecht steht den Organisationen nicht zu gegen Verfügungen, die sich auf Wohnbauten mit einer Geschossfläche von weniger als 400 m<sup>2</sup> innerhalb von Bauzonen beziehen; das Beschwerderecht bleibt bestehen bei Wohnbauten:
+
+- a. innerhalb von Ortsbildern von nationaler Bedeutung oder wenn die Vorhaben geschichtliche Stätten oder Kulturdenkmäler direkt betreffen oder wenn sie in unmittelbarer Nähe davon realisiert werden sollen; oder
+- b. innerhalb von Biotopen von nationaler, regionaler oder lokaler Bedeutung.[^12-2]
+
 <sup>2</sup> Das Beschwerderecht steht den Organisationen nur für Rügen in Rechtsbereichen zu, die seit mindestens zehn Jahren Gegenstand ihres statutarischen Zwecks bilden.
 
 <sup>3</sup> Der Bundesrat bezeichnet die zur Beschwerde berechtigten Organisationen.
@@ -227,6 +234,7 @@ Gegen Verfügungen der kantonalen Behörden oder der Bundesbehörden steht das B
 <sup>5</sup> Die Organisationen können ihre rechtlich selbständigen kantonalen und überkantonalen Unterorganisationen für deren örtliches Tätigkeitsgebiet generell zur Erhebung von Einsprachen und im Einzelfall zur Erhebung von Beschwerden ermächtigen.
 
 [^12-1]: Fassung gemäss Ziff. II 1 des BG vom 20. Dez. 2006, in Kraft seit 1. Juli 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841)[5391](https://fedlex.data.admin.ch/eli/fga/2005/843)). Die Bestimmung über die wirtschaftliche Tätigkeit in Abs. 1 Bst. b Ziff. 2 tritt am 1. Juli 2010 in Kraft.
+[^12-2]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. Aug. 2025 ([AS 2025 429](https://fedlex.data.admin.ch/eli/oc/2025/429); [BBl 2024 408](https://fedlex.data.admin.ch/eli/fga/2024/408), [788](https://fedlex.data.admin.ch/eli/fga/2024/788)).
 
 ### 2. Unzulässige Beschwerden gegen den Entscheid über die Gewährung eines Bundesbeitrages
 
@@ -265,7 +273,7 @@ Die Beschwerde gegen den Entscheid über die Gewährung eines Bundesbeitrages is
 <sup>4</sup> Die Absätze 2 und 3 gelten auch für Einsprachen und Beschwerden nach kantonalem Recht gegen Nutzungspläne.
 
 [^12c-1]: Eingefügt durch Ziff. II 1 des BG vom 20. Dez. 2006, in Kraft seit 1. Juli 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841)[5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
-[^12c-2]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^12c-2]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### 5. Vereinbarungen zwischen Gesuchstellern und Organisationen
 
@@ -286,7 +294,7 @@ Vereinbarungen zwischen Gesuchstellern und Organisationen über finanzielle oder
 <sup>3</sup> Die Rechtsmittelbehörde tritt auf eine Beschwerde nicht ein, wenn diese rechtsmissbräuchlich ist oder die Organisation unzulässige Leistungen im Sinne von Absatz 2 gefordert hat.
 
 [^12d-1]: Eingefügt durch Ziff. II 1 des BG vom 20. Dez. 2006, in Kraft seit 1. Juli 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841)[5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
-[^12d-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^12d-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ### 6. Vorzeitiger Baubeginn
 
@@ -343,7 +351,7 @@ Unterliegt die Organisation im Verfahren, so werden ihr für die Beschwerdeführ
 <sup>5</sup> Die angeordneten Schutz- und Unterhaltsmassnahmen bilden öffentlich-rechtliche Eigentumsbeschränkungen (Art. 702 des Zivilgesetzbuches; ZGB[^13-2]). Sie verpflichten den jeweiligen Grundeigentümer und sind auf Anmeldung des Kantons im Grundbuch anzumerken. Der Bundesrat regelt die Ausnahmen von der Anmerkungspflicht.
 
 [^13-1]: Fassung gemäss Ziff. II 7 des BG vom 6. Okt. 2006 über die Neugestaltung des Finanzausgleichs und die Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^13-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^13-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### Beiträge an Organisationen
 
@@ -382,7 +390,7 @@ Der Bund kann Beiträge ausrichten an:
 <sup>2</sup> Das EntG[^15-2] ist anwendbar.
 
 [^15-1]: Fassung gemäss Ziff. I des BG vom 24. März 1995, in Kraft seit 1. Febr. 1996 ([AS 1996 214](https://fedlex.data.admin.ch/eli/oc/1996/214_214_214); [BBl 1991 III 1121](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
-[^15-2]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^15-2]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### Vorsorgliche Massnahmen
 
@@ -405,7 +413,7 @@ Droht einer Naturlandschaft im Sinne von Artikel 15, einer geschichtlichen Stät
 
 [^16a-1]: Eingefügt durch Anhang Ziff. 9 des Subventionsgesetzes vom 5. Okt. 1990 ([AS 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857); [BBl 1987 I 369](https://fedlex.data.admin.ch/eli/fga/1987/1_369_369_297)). Fassung gemäss Ziff. II 7 des BG vom 6. Okt. 2006 über die Neugestal-tung des Finanzausgleichs und die Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^16a-2]: Ausdruck gemäss Anhang Ziff. 3 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
-[^16a-3]: [SR 442.1](https://fedlex.data.admin.ch/eli/cc/2011/854)
+[^16a-3]: [SR 442.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7110)
 [^16a-4]: Eingefügt durch Anhang Ziff. II 5 des Kulturförderungsgesetzes vom 11. Dez. 2009, in Kraft seit 1. Jan. 2012 ([AS 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [BBl 2007 4819](https://fedlex.data.admin.ch/eli/fga/2007/681)[4857](https://fedlex.data.admin.ch/eli/fga/2007/683)).
 
 ### Rückerstattung von Beiträgen
@@ -491,7 +499,7 @@ Der Bundesrat umschreibt die Fälle, in denen eine Kommission mit Zustimmung des
 <sup>4</sup> Soweit zur Erreichung des Schutzzieles der Landerwerb nötig ist, steht den Kantonen das Enteignungsrecht zu. Sie können in ihren Ausführungsvorschriften das EntG[^18c-2] anwendbar erklären, wobei die Kantonsregierung über streitig gebliebene Einsprachen entscheidet. Erstreckt sich das Schutzobjekt auf das Gebiet mehrerer Kantone, ist das EntG anwendbar.
 
 [^18c-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 1987, in Kraft seit 1. Febr. 1988 ([AS 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [BBl 1985 II 1445](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)).
-[^18c-2]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^18c-2]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### Finanzierung
 
@@ -549,13 +557,15 @@ Das Sammeln wildwachsender Pflanzen und das Fangen frei lebender Tiere zu Erwerb
 
 <sup>1</sup> Die zuständige kantonale Behörde kann für das Sammeln und Ausgraben geschützter Pflanzen und das Fangen von Tieren zu wissenschaftlichen sowie zu Lehr- und Heilzwecken in bestimmten Gebieten Ausnahmen gestatten.
 
-<sup>2</sup> Sie kann die Beseitigung der Ufervegetation in den durch die Wasserbaupolizei- oder Gewässerschutzgesetzgebung erlaubten Fällen für standortgebundene Vorhaben bewilligen.[^22-1]
+<sup>2</sup> Sie kann die Beseitigung der Ufervegetation für standortgebundene Vorhaben in den durch das Wasserbaugesetz vom 21. Juni 1991[^22-1] oder das Gewässerschutzgesetz vom 24. Januar 1991[^22-2] erlaubten Fällen bewilligen.[^22-3]
 
-<sup>3</sup> Begründet ein anderer Erlass die Zuständigkeit einer Bundesbehörde zum Entscheid über ein Vorhaben, so erteilt diese Behörde die Ausnahmebewilligung. …[^22-2].[^22-3]
+<sup>3</sup> Begründet ein anderer Erlass die Zuständigkeit einer Bundesbehörde zum Entscheid über ein Vorhaben, so erteilt diese Behörde die Ausnahmebewilligung. …[^22-4].[^22-5]
 
-[^22-1]: Fassung gemäss Art. 75 Ziff. 2 des Gewässerschutzgesetzes vom 24. Jan. 1991, in Kraft seit 1. Nov. 1992 ([AS 1992 1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860); [BBl 1987 II 1061](https://fedlex.data.admin.ch/eli/fga/1987/2_1061_1081_905)).
-[^22-2]: Zweiter Satz aufgehoben durch Ziff. I 3 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, mit Wirkung seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
-[^22-3]: Fassung gemäss Anhang Ziff. 6 des Militärgesetzes vom 3. Febr. 1995, in Kraft seit 1. Jan. 1996 ([AS 1995 4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093); [BBl 1993 IV 1](https://fedlex.data.admin.ch/eli/fga/1993/4_1_1_1)).
+[^22-1]: [SR 721.100](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8402)
+[^22-2]: [SR 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^22-3]: Fassung gemäss Anhang Ziff. 1 des BG vom 15. März 2024, in Kraft seit 1. Aug. 2025 ([AS 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [BBl 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
+[^22-4]: Zweiter Satz aufgehoben durch Ziff. I 3 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, mit Wirkung seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
+[^22-5]: Fassung gemäss Anhang Ziff. 6 des Militärgesetzes vom 3. Febr. 1995, in Kraft seit 1. Jan. 1996 ([AS 1995 4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093); [BBl 1993 IV 1](https://fedlex.data.admin.ch/eli/fga/1993/4_1_1_1)).
 
 ### Fremde Tier- und Pflanzenarten: Bewilligungspflicht
 
@@ -759,7 +769,7 @@ Der Bundesrat erlässt Vorschriften über:
 
 <sup>3</sup> Seine allfällige Erweiterung durch eine Umgebungszone wird nach Artikel 23*k* gefördert.
 
-[^23m-1]: [SR 454](https://fedlex.data.admin.ch/eli/cc/1981/236_236_236)
+[^23m-1]: [SR 454](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7195)
 
 ### Abschnitt 3*c*: Genetische Ressourcen
 
@@ -849,13 +859,13 @@ Mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe wird bestraft, wer vorsät
 <sup>2</sup> Handelt der Täter fahrlässig, so ist die Strafe Busse bis zu 40 000 Franken.[^24-8]
 
 [^24-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 1987, in Kraft seit 1. Febr. 1988 ([AS 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [BBl 1985 II 1445](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)).
-[^24-2]: Fassung gemäss Art. 333 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in der Fassung des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+[^24-2]: Fassung gemäss Art. 333 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)) in der Fassung des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
 [^24-3]: Fassung gemäss Ziff. I des BG vom 24. März 1995, in Kraft seit 1. Febr. 1996 ([AS 1996 214](https://fedlex.data.admin.ch/eli/oc/1996/214_214_214); [BBl 1991 III 1121](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
 [^24-4]: Eingefügt durch Ziff. I des BG vom 24. März 1995 ([AS 1996 214](https://fedlex.data.admin.ch/eli/oc/1996/214_214_214); [BBl 1991 III 1121](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)). Fassung gemäss Art. 32 Ziff. 4 des Kulturgütertransfergesetzes vom 20. Juni 2003, in Kraft seit 1. Juni 2005 ([AS 2005 1869](https://fedlex.data.admin.ch/eli/oc/2005/317); [BBl 2002 535](https://fedlex.data.admin.ch/eli/fga/2002/93)).
-[^24-5]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG – [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^24-6]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^24-5]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG – [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^24-6]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^24-7]: Eingefügt durch Ziff. I des BG vom 21. Juni 1996 ([AS 1997 1152](https://fedlex.data.admin.ch/eli/oc/1997/1152_1152_1152); [BBl 1995 IV 629](https://fedlex.data.admin.ch/eli/fga/1995/4_629_621_589)). Aufgehoben durch Anhang 1 Ziff. 1 des BG vom 16. März 2012 über den Verkehr mit Tieren und Pflanzen geschützter Arten, mit Wirkung seit 1. Okt. 2013 ([AS 2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600); [BBl 2011 6985](https://fedlex.data.admin.ch/eli/fga/2011/1119)).
-[^24-8]: Fassung gemäss Art. 333 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in der Fassung des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+[^24-8]: Fassung gemäss Art. 333 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)) in der Fassung des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
 
 ### Übertretungen
 
@@ -886,7 +896,7 @@ Mit Busse bis zu 20 000 Franken wird bestraft, wer:
 Die Artikel 6 und 7 des Bundesgesetzes vom 22. März 1974[^24b-2] über das Verwaltungsstrafrecht sind anwendbar.
 
 [^24b-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 1987, in Kraft seit 1. Febr. 1988 ([AS 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [BBl 1985 II 1445](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)).
-[^24b-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^24b-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### Einziehung
 
@@ -896,8 +906,8 @@ Die Artikel 6 und 7 des Bundesgesetzes vom 22. März 1974[^24b-2] über das Verw
 
 Artikel 69 des Strafgesetzbuches[^24c-2] über die Einziehung unrechtmässig erlangter Gegenstände und Vermögensvorteile ist anwendbar.
 
-[^24c-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 1987 ([AS 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [BBl 1985 II 1445](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)). Fassung gemäss Art. 334 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in der Fassung des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
-[^24c-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^24c-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 1987 ([AS 1988 254](https://fedlex.data.admin.ch/eli/oc/1988/254_254_254); [BBl 1985 II 1445](https://fedlex.data.admin.ch/eli/fga/1985/2_1445_1449_1261)). Fassung gemäss Art. 334 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)) in der Fassung des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+[^24c-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Strafverfolgung
 
@@ -969,7 +979,7 @@ Die Kantone vollziehen dieses Gesetz, soweit es den Vollzug nicht dem Bund über
 <sup>4</sup> Die Vollzugsbehörden des Bundes berücksichtigen die Natur- und Heimatschutzmassnahmen der Kantone.
 
 [^24h-1]: Eingefügt durch Anhang des BB vom 21. März 2014 (Nagoya-Protokoll), in Kraft seit 1. Sept. 2014, Abs. 3 in Kraft seit 12. Okt. 2014 ([AS 2014 2629](https://fedlex.data.admin.ch/eli/oc/2014/467); [BBl 2013 3009](https://fedlex.data.admin.ch/eli/fga/2013/611)).
-[^24h-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^24h-2]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ### Organisation
 
@@ -1018,8 +1028,8 @@ Die Kantone vollziehen dieses Gesetz, soweit es den Vollzug nicht dem Bund über
 <sup>3</sup> Die Wiederherstellung des ursprünglichen Zustandes wird von derjenigen kantonalen oder eidgenössischen Behörde verfügt, die für den Entscheid über die Bewilligung oder die Ausführung entsprechender Vorhaben zuständig wäre. Bei der Wiederherstellung des ursprünglichen Zustandes ist das Prinzip der Verhältnismässigkeit zu beachten.
 
 [^25b-1]: Ursprünglich Art. 25*a*. Eingefügt durch Ziff. I des BG vom 24. März 1995, in Kraft seit 1. Febr. 1996 ([AS 1996 214](https://fedlex.data.admin.ch/eli/oc/1996/214_214_214); [BBl 1991 III 1121](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
-[^25b-2]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
-[^25b-3]: [[AS 1988 352](https://fedlex.data.admin.ch/eli/oc/1988/352_352_352)]. Der genannten Bestimmung entspricht heute Art. 78 Abs. 5 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^25b-2]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
+[^25b-3]: [[AS 1988 352](https://fedlex.data.admin.ch/eli/oc/1988/352_352_352)]. Der genannten Bestimmung entspricht heute Art. 78 Abs. 5 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 
 #### Art. 25c
 
@@ -1037,11 +1047,21 @@ Die Artikel 23*n* und 23*o* sind auf Tatbestände anwendbar, die sich auf einen 
 
 [^25d-1]: Eingefügt durch Anhang des BB vom 21. März 2014 (Nagoya-Protokoll), in Kraft seit 12. Okt. 2014 ([AS 2014 2629](https://fedlex.data.admin.ch/eli/oc/2014/467); [BBl 2013 3009](https://fedlex.data.admin.ch/eli/fga/2013/611)).
 
+### Übergangsbestimmung zur Änderung vom 27. September 2024
+
+#### Art. 25e
+
+[^25e-1]
+
+Verfahren, bei denen die Bewilligungsbehörde über das Baugesuch vor dem Inkrafttreten der Änderung vom 27. September 2024 entschieden hat, werden nach bisherigem Recht zu Ende geführt.
+
+[^25e-1]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. Aug. 2025 ([AS 2025 429](https://fedlex.data.admin.ch/eli/oc/2025/429); [BBl 2024 408](https://fedlex.data.admin.ch/eli/fga/2024/408), [788](https://fedlex.data.admin.ch/eli/fga/2024/788)).
+
 ### Inkrafttreten
 
-[^lvlu1-chap6-lvlu3-1]
+[^lvlu1-chap6-lvlu4-1]
 
-[^lvlu1-chap6-lvlu3-1]: Eingefügt durch Ziff. I des BG vom 24. März 1995, in Kraft seit 1. Febr. 1996 ([AS 1996 214](https://fedlex.data.admin.ch/eli/oc/1996/214_214_214); [BBl 1991 III 1121](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
+[^lvlu1-chap6-lvlu4-1]: Eingefügt durch Ziff. I des BG vom 24. März 1995, in Kraft seit 1. Febr. 1996 ([AS 1996 214](https://fedlex.data.admin.ch/eli/oc/1996/214_214_214); [BBl 1991 III 1121](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
 
 #### Art. 26
 
