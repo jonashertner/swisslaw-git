@@ -4,7 +4,7 @@ number: "412.11.1"
 title: RÈGLEMENT du 06.07.2022 des gymnases (RGY)
 short: RGY
 language: fr
-version: 2023-08-01
+version: 2025-08-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/412.11.1?id=39748c2b-ab54-481e-9058-5389cd0e6d7e"
 ---
 
@@ -92,7 +92,7 @@ arrête
 
 <sup>2</sup> Elle assure la coordination nécessaire à l'activité des gymnases dans le respect de l'autonomie de chaque établissement.
 
-<sup>3</sup> Elle est l'autorité de décision en matière d'admission et de répartition des élèves dans les établissements, sous réserve des dispositions spéciales relatives à l'admission aux formations complémentaires et aux formations pour adultes.
+<sup>3</sup> Elle est l'autorité de décision en matière d'admission et de répartition des élèves dans les établissements, sous réserve des dispositions spéciales relatives à l'admission aux formations pour adultes.
 
 <sup>4</sup> Elle concourt avec le Département à la bonne marche de l'enseignement gymnasial.
 
@@ -298,17 +298,17 @@ arrête
 
 #### Art. 22
 
-**Mesures d'encouragement pour les artistes et les sportifs d'élite [^21-1]**
+**Mesures d'encouragement pour les artistes et les sportifs de haut niveau [^21-1]**
 
-<sup>1</sup> Le Département peut autoriser la mise en place de mesures d'encouragement pour les artistes et les sportifs d'élite, notamment par l'ouverture de classes spéciales et par la mise en place de dispositions individuelles.
+<sup>1</sup> Le Département peut autoriser la mise en place de mesures d'encouragement pour les artistes et les sportifs de haut niveau, notamment par l'ouverture de classes spéciales et par la mise en place de dispositions individuelles.
 
 <sup>2</sup> Pour pourvoir bénéficier de ces mesures, le candidat doit satisfaire à des critères artistiques ou sportifs et scolaires fixés par le Département et les instances concernées.
 
-<sup>3</sup> Si le nombre de candidats admissibles aux classes spéciales pour artistes et sportifs d'élite est supérieur au nombre de places disponibles, la CDGV attribue celles-ci aux candidats en fonction de l'appréciation obtenues aux critères définis à l'alinéa 2.
+<sup>3</sup> Si le nombre de candidats admissibles aux classes spéciales pour artistes et sportifs de haut niveau est supérieur au nombre de places disponibles, la CDGV attribue celles-ci aux candidats en fonction de l'appréciation obtenues aux critères définis à l'alinéa 2.
 
 <sup>4</sup> En cas de désistement avant le début de l'année scolaire, la CDGV attribue les places vacantes conformément à l'alinéa 3.
 
-<sup>5</sup> Aucune admission en classe spéciale n'est possible en 3<sup>e</sup> année.
+<sup>5</sup> Aucune admission en classe spéciale pour artistes et sportifs de haut niveau n'est possible en 3<sup>e</sup> année
 
 <sup>6</sup> Si un élève échoue son année plus d'une fois sur l'ensemble de son cursus d'études ou ne satisfait plus aux critères artistiques ou sportifs au sens de l'alinéa 2, il ne peut pas poursuivre sa formation en classe spéciale.
 
@@ -330,7 +330,7 @@ arrête
 
 <sup>3</sup> Le Département peut déterminer des exceptions et en fixe les modalités.
 
-<sup>4</sup> L'effectif est limité à 20 élèves dans les classes spéciales pour artistes et sportifs d'élite. Des exceptions sont possibles uniquement afin de permettre l'enclassement d'élèves redoublant leur année en classe pour artistes et sportifs d'élite.
+<sup>4</sup> L'effectif est limité à 20 élèves dans les classes spéciales pour artistes et sportifs de haut niveau. Des exceptions sont possibles uniquement afin de permettre l'enclassement d'élèves redoublant leur année en classe pour artistes et sportifs de haut niveau.
 
 [^23-1]: Modif. 1 du 28.06.2023: Modification Al. 4; entrée en vigueur au 01.08.2023 · Modif. 2 du 05.11.2025: Modification Al. 4; entrée en vigueur au 01.08.2025
 
@@ -932,7 +932,7 @@ arrête
 
 <sup>2</sup> Aucun écolage n'est perçu pour l'enseignement menant au certificat fédéral de capacité ou à la maturité professionnelle.
 
-<sup>3</sup> Le Département fixe le montant des écolages relatifs aux formations complémentaires.
+<sup>3</sup> ...
 
 <sup>4</sup> Pour les élèves admis sur la base d'accords intercantonaux, le montant de l'écolage est fixé sur la base de ces derniers.
 
