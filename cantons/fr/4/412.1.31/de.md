@@ -4,13 +4,12 @@ number: "412.1.31"
 title: Reglement über die Maturitätsprüfungen
 short: MPR
 language: de
-version: 2022-02-01
-valid_until: 2025-07-31
-version_adopted: 2022-03-04
+version: 2025-08-01
+version_adopted: 2025-06-23
 adopted: 2001-09-17
 in_force: 2001-09-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/412.1.31"
-pdf: "https://bdlf.fr.ch/api/de/versions/7295/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8206/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Maturitätsprüfungen – R
 
 (MPR)
 
-vom 17.09.2001 (Fassung in Kraft getreten am 01.02.2022)
+vom 17.09.2001 (Fassung in Kraft getreten am 01.08.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -138,9 +137,9 @@ beschliesst:
 
 #### Art. 12
 
-**Ordentliche Prüfungen – Anmeldegebühr**
+**Ordentliche Prüfungen – Prüfungsgebühr**
 
-<sup>1</sup> Die Kandidatinnen oder die Kandidaten müssen die Anmeldegebühr vor Prüfungsbeginn beim Sekretariat ihres Kollegiums einzahlen.
+<sup>1</sup> Die Kandidatinnen oder die Kandidaten müssen die Prüfungsgebühr vor Prüfungsbeginn beim Sekretariat ihres Kollegiums einzahlen.
 
 #### Art. 13
 
@@ -148,7 +147,7 @@ beschliesst:
 
 <sup>1</sup> Eine Anmeldung kann spätestens bis vor Beginn der schriftlichen Prüfungen mit einer schriftlichen Erklärung an die Präsidentin oder den Präsidenten der Prüfungskommission zurückgezogen werden.
 
-<sup>2</sup> Die Anmeldegebühr wird zurückerstattet, wenn der Rückzug mehr als acht Tage vor Prüfungsbeginn erfolgte und in den anderen Fällen, wenn die Kandidatin oder der Kandidat einen stichhaltigen Grund für den Rückzug nach dieser Frist geltend machen kann.
+<sup>2</sup> …
 
 #### Art. 14
 
@@ -438,7 +437,7 @@ beschliesst:
 
 <sup>1</sup> Gegen die Verweigerung des Ausweises und den Ausschluss von den Prüfungen kann innert fünf Tagen nach Mitteilung der Resultate bei der Präsidentin oder beim Präsidenten der Prüfungskommission Einsprache erhoben werden. Diese Einsprache muss schriftlich erfolgen und begründet werden.
 
-<sup>2</sup> Abgesehen von besonderen Umständen, die der Einsprecherin oder dem Einsprecher mitgeteilt werden müssen, erlässt der Prüfungsausschuss innerhalb von zwanzig Tagen, nachdem er die beteiligten Examinatorinnen und Examinatoren und Expertinnen und Experten angehört hat, einen neuen Entscheid.
+<sup>2</sup> Abgesehen von besonderen Umständen, die der Einsprecherin oder dem Einsprecher mitgeteilt werden müssen, fällt die Präsidentin oder der Präsident der Prüfungskommission innerhalb von 20 Tagen einen neuen Entscheid und hört vorgängig die beteiligten Examinatorinnen und Examinatoren sowie Expertinnen und Experten an.
 
 <sup>3</sup> …
 
@@ -446,7 +445,7 @@ beschliesst:
 
 **Rechtsmittel – Beschwerde**
 
-<sup>1</sup> Gegen den Einspracheentscheid des Prüfungsausschusses kann innert 10 Tagen ab Mitteilung bei der Direktion Beschwerde eingereicht werden. Die Direktion entscheidet unter Vorbehalt der Beschwerde an das Kantonsgericht.
+<sup>1</sup> Gegen den Einspracheentscheid der Präsidentin oder des Präsidenten der Prüfungskommission kann innert zehn Tagen ab Mitteilung bei der Direktion Beschwerde eingereicht werden. Die Direktion entscheidet unter Vorbehalt der Beschwerde an das Kantonsgericht.
 
 #### Art. 43
 

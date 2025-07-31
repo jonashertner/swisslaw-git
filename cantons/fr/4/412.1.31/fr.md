@@ -4,13 +4,12 @@ number: "412.1.31"
 title: Règlement concernant les examens de maturité gymnasiale
 short: REMG
 language: fr
-version: 2022-02-01
-valid_until: 2025-07-31
-version_adopted: 2022-03-04
+version: 2025-08-01
+version_adopted: 2025-06-23
 adopted: 2001-09-17
 in_force: 2001-09-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/412.1.31"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7295/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8206/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Examens de maturité gymnasiale – R
 
 (REMG)
 
-du 17.09.2001 (version entrée en vigueur le 01.02.2022)
+du 17.09.2001 (version entrée en vigueur le 01.08.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -138,9 +137,9 @@ Arrête:
 
 #### Art. 12
 
-**Session ordinaire – Taxe d'inscription**
+**Session ordinaire – Taxe d'examens**
 
-<sup>1</sup> La personne candidate verse la taxe d'inscription au secrétariat de son collège avant l'ouverture de la session.
+<sup>1</sup> La personne candidate verse la taxe d'examens au secrétariat de son collège avant l'ouverture de la session.
 
 #### Art. 13
 
@@ -148,7 +147,7 @@ Arrête:
 
 <sup>1</sup> La personne candidate peut retirer son inscription par déclaration écrite au président ou à la présidente du jury au plus tard avant le début des épreuves écrites.
 
-<sup>2</sup> La taxe d'inscription est restituée lorsque le désistement a lieu plus de huit jours avant le début des épreuves et, dans les autres cas, si la personne candidate avait un motif valable de se désister passé ce délai.
+<sup>2</sup> …
 
 #### Art. 14
 
@@ -438,7 +437,7 @@ Arrête:
 
 <sup>1</sup> Le refus du certificat et l'exclusion de la session peuvent faire l'objet d'une réclamation écrite et motivée adressée au président ou à la présidente du jury, dans un délai de cinq jours dès la communication des résultats.
 
-<sup>2</sup> A moins de circonstances spéciales, dont le réclamant ou la réclamante doit être avisé-e, le bureau des examens rend sa nouvelle décision dans un délai de vingt jours, après avoir consulté les examinateurs ou examinatrices et les experts ou expertes concernés.
+<sup>2</sup> A moins de circonstances spéciales, dont le réclamant ou la réclamante doit être avisé‑e, le président ou la présidente du jury rend sa nouvelle décision dans un délai de vingt jours, après avoir consulté les examinateurs ou examinatrices et les experts ou expertes concernés.
 
 <sup>3</sup> …
 
@@ -446,7 +445,7 @@ Arrête:
 
 **Voies de droit – Recours**
 
-<sup>1</sup> La décision sur réclamation du bureau des examens peut, dans les dix jours dès sa communication, faire l'objet d'un recours à la Direction, laquelle statue sous réserve de recours au Tribunal cantonal.
+<sup>1</sup> La décision sur réclamation du président ou de la présidente du jury peut, dans les dix jours dès sa communication, faire l'objet d'un recours à la Direction, laquelle statue sous réserve de recours au Tribunal cantonal.
 
 #### Art. 43
 
