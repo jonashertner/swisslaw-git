@@ -5,26 +5,30 @@ title: Kantonale Lebensmittelverordnung
 short: KLMV
 language: de
 version: 2011-01-01
+corrected: 2025-08-04
 version_adopted: 2010-11-17
 adopted: 2010-11-17
 in_force: 2011-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/30.2311"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/610/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/259/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Kantonale Lebensmittelverordnung
 
-(KLMV)
+Kantonale Lebensmittelverordnung (KLMV)
 
-Vom 17.11.2010 (Stand 01.01.2011)
+(vom 17. November 2010[^t-1]; Stand am 1. Januar 2011)
 
-Der Landrat des Kantons Uri,
-
-gestützt auf Artikel 39 des Bundesgesetzes über Lebensmittel und Gebrauchsgegenstände (Lebensmittelgesetz, LMG, SR [817.0](https://db.clex.ch/link/Bund/817.0/de)) und auf Artikel 90 Absatz 2 der Verfassung des Kantons Uri (RB [1.1101](https://rechtsbuch.ur.ch/data/1.1101/de)),
+Der Landrat des Kantons Uri, gestützt auf Artikel 39 des Bundesgesetzes vom 9. Oktober 1992 über Lebensmittel und Gebrauchsgegenstände (Lebensmittelgesetz, LMG)[^t-2] und auf Artikel 90 Absatz 2 der Verfassung des Kantons Uri[^t-3],
 
 beschliesst
+
+[^t-1]: AB vom 26. November 2010
+[^t-2]: SR 817.0
+[^t-3]: RB 1.1101
 
 #### Artikel 1
 
@@ -32,23 +36,24 @@ beschliesst
 
 <sup>1</sup> Diese Verordnung vollzieht das Bundesrecht über Lebensmittel und Gebrauchsgegenstände.
 
-<sup>2</sup> Besondere Vorschriften des Konkordats betreffend das Laboratorium der Urkantone (Konkordat, RB [30.2315](https://rechtsbuch.ur.ch/data/30.2315/de)) und des kantonalen Rechts bleiben vorbehalten.
+<sup>2</sup> Besondere Vorschriften des Konkordats betreffend das Laboratorium der Urkantone (Konkordat)[^1-1] und des kantonalen Rechts bleiben vorbehalten.
+
+[^1-1]: RB 30.2315
 
 #### Artikel 2
 
 **Aufsicht**
 
-<sup>1</sup> Der Regierungsrat beaufsichtigt den Vollzug der Lebensmittelgesetzgebung, soweit nicht die Aufsichtskommission nach dem Konkordat (RB [30.2315](https://rechtsbuch.ur.ch/data/30.2315/de)) zuständig ist.
+<sup>1</sup> Der Regierungsrat beaufsichtigt den Vollzug der Lebensmittelgesetzgebung, soweit nicht die Aufsichtskommission nach dem Konkordat[^2-1] zuständig ist.
 
-<sup>2</sup> Die zuständige Direktion[^Artikel2-1] nimmt diese Aufsicht für den Regierungsrat wahr.
+<sup>2</sup> Die zuständige Direktion[^2-2] nimmt diese Aufsicht für den Regierungsrat wahr.
 
-[^Artikel2-1]: Gesundheits-, Sozial- und Umweltdirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^2-1]: RB 30.2315
+[^2-2]: Gesundheits-, Sozial- und Umweltdirektion; siehe Organisationsreglement (ORR; RB 2.3322).
 
 #### Artikel 3
 
-**Laboratorium der Urkantone**
-
-<sup>1</sup> Das Laboratorium der Urkantone (Laboratorium) vollzieht die eidgenössische und kantonale Lebensmittelgesetzgebung, soweit das Konkordat (RB [30.2315](https://rechtsbuch.ur.ch/data/30.2315/de)) und diese Verordnung nichts anderes bestimmen.
+Laboratorium der Urkantone Das Laboratorium der Urkantone (Laboratorium) vollzieht die eidgenössische und kantonale Lebensmittelgesetzgebung, soweit das Konkordat<sup>7</sup> und diese Verordnung nichts anderes bestimmen.
 
 #### Artikel 4
 
@@ -58,7 +63,7 @@ beschliesst
 
 <sup>2</sup> Die Kantonschemikerin oder der Kantonschemiker und die Kantonstierärztin oder der Kantonstierarzt koordinieren den Vollzug. Bei Kompetenzstreitigkeiten entscheidet die Aufsichtskommission des Laboratoriums der Urkantone.
 
-<sup>3</sup> Im Rahmen und nach den Vorschriften des Konkordats (RB [30.2315](https://rechtsbuch.ur.ch/data/30.2315/de)) stellt die Betriebsleitung des Laboratoriums das Personal an, das erforderlich ist, um ihre Aufgaben zu erfüllen. Dazu gehören insbesondere die Lebensmittelinspektorinnen und Lebensmittelinspektoren sowie die Lebensmittelkontrolleurinnen und Lebensmittelkontrolleure.
+<sup>3</sup> Im Rahmen und nach den Vorschriften des Konkordats<sup>8</sup> stellt die Betriebsleitung des Laboratoriums das Personal an, das erforderlich ist, um ihre Aufgaben zu erfüllen. Dazu gehören insbesondere die Lebensmittelinspektorinnen und Lebensmittelinspektoren sowie die Lebensmittelkontrolleurinnen und Lebensmittelkontrolleure.
 
 #### Artikel 5
 
@@ -78,12 +83,13 @@ beschliesst
 
 #### Artikel 7
 
-**Meldepflicht der Patent- und Bewilligungsbehörden**
+Meldepflicht der Patent- und Bewilligungsbehörden Die zuständigen Behörden melden dem Laboratorium der Urkantone:
 
-<sup>1</sup> Die zuständigen Behörden melden dem Laboratorium der Urkantone:
+- a) Patente und Bewilligungen nach dem Gastwirtschaftsgesetz[^7-1];
 
-- a) Patente und Bewilligungen nach dem Gastwirtschaftsgesetz (RB [70.2111](https://rechtsbuch.ur.ch/data/70.2111/de))
-- b) Bewilligungen für Neu- und Umbauten von Betrieben, deren Tätigkeiten dem Lebensmittelrecht unterstehen
+- b) Bewilligungen für Neu- und Umbauten von Betrieben, deren Tätigkeiten dem Lebensmittelrecht unterstehen.
+
+[^7-1]: RB 70.2111
 
 #### Artikel 8
 
@@ -91,36 +97,42 @@ beschliesst
 
 <sup>1</sup> Gegen Verfügungen der Kontrollorgane kann innert fünf Tagen seit der Zustellung der Verfügung bei der Kantonschemikerin oder dem Kantonschemiker Einsprache erhoben werden.
 
-<sup>2</sup> Einspracheentscheide können mit Verwaltungsbeschwerde bei der zuständigen Direktion[^Artikel8-1] angefochten werden. Deren Entscheid unterliegt der Verwaltungsgerichtsbeschwerde an das Obergericht.
+<sup>2</sup> Einspracheentscheide können mit Verwaltungsbeschwerde bei der zuständigen Direktion[^8-1] angefochten werden. Deren Entscheid unterliegt der Verwaltungsgerichtsbeschwerde an das Obergericht.
 
-<sup>3</sup> Das Verfahren richtet sich nach der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)), soweit das Bundesrecht nichts anderes bestimmt.
+<sup>3</sup> Das Verfahren richtet sich nach der Verordnung über die Verwaltungsrechtspflege[^8-2], soweit das Bundesrecht nichts anderes bestimmt.
 
-[^Artikel8-1]: Gesundheits-, Sozial- und Umweltdirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^8-1]: Gesundheits-, Sozial- und Umweltdirektion; siehe Organisationsreglement (ORR; RB 2.3322).
+[^8-2]: RB 2.2345
 
 #### Artikel 9
 
 **Strafrechtspflege**
 
-<sup>1</sup> Die Strafrechtspflege richtet sich nach den Bestimmungen der Schweizerischen Strafprozessordnung (SR [312.0](https://db.clex.ch/link/Bund/312.0/de)).
+Die Strafrechtspflege richtet sich nach den Bestimmungen der Schweizerischen Strafprozessordnung[^9-1].
+
+[^9-1]: SR 312.0
 
 #### Artikel 10
 
 **Gebühren**
 
-<sup>1</sup> Die Gebühren für die Lebensmittelkontrollen richten sich nach den Bestimmungen, die die Aufsichtskommission im Rahmen des Konkordats (RB [30.2315](https://rechtsbuch.ur.ch/data/30.2315/de)) erlässt.
+<sup>1</sup> Die Gebühren für die Lebensmittelkontrollen richten sich nach den Bestimmungen, die die Aufsichtskommission im Rahmen des Konkordats[^10-1] erlässt.
 
-<sup>2</sup> Im Übrigen richten sich die Gebühren nach der Gebührenverordnung (RB [3.2512](https://rechtsbuch.ur.ch/data/3.2512/de)) und dem Gebührenreglement (RB [3.2521](https://rechtsbuch.ur.ch/data/3.2521/de)).
+<sup>2</sup> Im Übrigen richten sich die Gebühren nach der Gebührenverordnung[^10-2] und dem Gebührenreglement<sup>15</sup>.
+
+[^10-1]: RB 30.2315
+[^10-2]: RB 3.2512
 
 #### Artikel 11
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Die kantonale Lebensmittelverordnung vom 11. Februar 1998 wird aufgehoben.
+Die kantonale Lebensmittelverordnung vom 11. Februar 1998<sup>16</sup> wird aufgehoben.
 
 #### Artikel 12
 
-**Inkrafttreten**
+**Im Namen des Landrats:**
 
-<sup>1</sup> Diese Verordnung untersteht dem fakultativen Referendum. Sie tritt am 1. Januar 2011 in Kraft.
+**Der Präsident: Thomas Arnold Der Kanzleidirektor: Dr. Peter Huber**
 
-AB 26.11.2010
+Inkrafttreten Diese Verordnung untersteht dem fakultativen Referendum. Sie tritt am 1. Januar 2011 in Kraft.
