@@ -1,30 +1,35 @@
 ---
 canton: UR
 number: "1.4125"
-title: Reglement zum Ausweisgesetz
+title: REGLEMENT zum Ausweisgesetz
 short: AuR
 language: de
 version: 2023-06-01
+corrected: 2025-08-04
 version_adopted: 2023-05-09
 adopted: 2009-09-29
 in_force: 2010-03-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/1.4125"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/627/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/7/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement zum Ausweisgesetz
+# REGLEMENT zum Ausweisgesetz
 
-(AuR)
+REGLEMENT zum Ausweisgesetz (AuR)
 
-Vom 29.09.2009 (Stand 01.06.2023)
+(vom 29. September 2009[^t-1]; Stand am 1. Juni 2023)
 
-Der Regierungsrat des Kantons Uri,
-
-gestützt auf das Bundesgesetz vom 22. Juni 2001 über die Ausweise für Schweizer Staatsangehörige (Ausweisgesetz, AwG, SR [143.1](https://db.clex.ch/link/Bund/143.1/de)), die Verordnung vom 20. September 2002 über die Ausweise für Schweizer Staatsangehörige (Ausweisverordnung, VAwG, SR [143.11](https://db.clex.ch/link/Bund/143.11/de)), das Bundesgesetz vom 16. Dezember 2005 über die Ausländerinnen und Ausländer (AuG, SR [142.20](https://db.clex.ch/link/Bund/142.20/de)) und Artikel 94 Absatz 1 der Kantonsverfassung (RB [1.1101](https://rechtsbuch.ur.ch/data/1.1101/de)),
+Der Regierungsrat des Kantons Uri, gestützt auf das Bundesgesetz vom 22. Juni 2001 über die Ausweise für Schweizer Staatsangehörige (Ausweisgesetz, AwG)[^t-2], die Verordnung vom 20. September 2002 über die Ausweise für Schweizer Staatsangehörige (Ausweisverordnung, VAwG)[^t-3], das Bundesgesetz vom 16. Dezember 2005 über die Ausländerinnen und Ausländer (AuG)[^t-4] und Artikel 94 Absatz 1 der Kantonsverfassung<sup>5</sup>,
 
 beschliesst:
+
+[^t-1]: AB vom 16. Oktober 2009
+[^t-2]: SR 143.1
+[^t-3]: SR 143.11
+[^t-4]: SR 142.20
 
 #### Artikel 1
 
@@ -46,42 +51,46 @@ beschliesst:
 
 **Digitales Gesichtsbild**
 
-<sup>1</sup> Das digitale Gesichtsbild der Antrag stellenden Person wird unmittelbar bei der Standeskanzlei angefertigt. Von Privaten oder andern Dritten erstellte digitale Fotos werden nicht angenommen.
+Das digitale Gesichtsbild der Antrag stellenden Person wird unmittelbar bei der Standeskanzlei angefertigt. Von Privaten oder andern Dritten erstellte digitale Fotos werden nicht angenommen.
 
 #### Artikel 4
 
 **Gebühren**
 
-<sup>1</sup> Die Gebühren für die Ausweise richten sich nach dem Ausweisgesetz und der Ausweisverordnung.
+Die Gebühren für die Ausweise richten sich nach dem Ausweisgesetz und der Ausweisverordnung.
 
 #### Artikel 5
 
 **Datenbearbeitung und Datenbekanntgabe**
 
-<sup>1</sup> Neben den in Artikel 12 AwG erwähnten Behörden sind das Polizeikommando Uri und dessen Aussenstellen in den Werkhöfen Flüelen und Göschenen berechtigt, zur Identitätsabklärung und zur Aufnahme von Verlustmeldungen Daten im Abrufverfahren abzufragen.
+Neben den in Artikel 12 AwG erwähnten Behörden sind das Polizeikommando Uri und dessen Aussenstellen in den Werkhöfen Flüelen und Göschenen berechtigt, zur Identitätsabklärung und zur Aufnahme von Verlustmeldungen Daten im Abrufverfahren abzufragen.
+
+[^5-1]: Fassung gemäss RRB vom 9. Mai 2023, in Kraft gesetzt auf den 1. Juni 2023 (AB vom 19. Mai 2023).
 
 #### Artikel 6
 
-**Ausweise für Ausländerinnen und Ausländer**
+**Ausweise für Ausländerinnen und Ausländer**[^5-1]
 
-<sup>1</sup> Für Ausländerinnen und Ausländer mit Wohnsitz im Kanton Uri erfasst die Standeskanzlei, im Auftrag des Amts für Arbeit und Migration, die biometrischen Daten für alle Ausweisarten, für das Visum von ausländischen Staatsangehörigen und für das schweizerische Reisedokument von ausländischen Personen. Der Aufwand wird intern nicht verrechnet.
+Für Ausländerinnen und Ausländer mit Wohnsitz im Kanton Uri erfasst die Standeskanzlei, im Auftrag des Amts für Arbeit und Migration, die biometrischen Daten für alle Ausweisarten, für das Visum von ausländischen Staatsangehörigen und für das schweizerische Reisedokument von ausländischen Personen. Der Aufwand wird intern nicht verrechnet.
 
 #### Artikel 7
 
 **Rechtsschutz**
 
-<sup>1</sup> Der Rechtsschutz richtet sich nach dem Bundesrecht und der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)).
+Der Rechtsschutz richtet sich nach dem Bundesrecht und der Verordnung über die Verwaltungsrechtspflege<sup>7</sup>.
 
 #### Artikel 8
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Das Reglement vom 26. November 2002 zum Ausweisgesetz (AuR) wird aufgehoben.
+Das Reglement vom 26. November 2002 zum Ausweisgesetz (AuR)<sup>8</sup> wird aufgehoben.
 
 #### Artikel 9
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Reglement tritt am 1. März 2010 in Kraft.
+Dieses Reglement tritt am 1. März 2010 in Kraft.
 
-AB 16.10.2009
+Im Namen des Regierungsrats
+
+Der Landammann: Isidor Baumann Der Kanzleidirektor: Dr. Peter Huber
