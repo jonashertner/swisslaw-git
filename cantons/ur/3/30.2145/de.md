@@ -1,35 +1,44 @@
 ---
 canton: UR
 number: "30.2145"
-title: Reglement zum Schutz vor Passivrauchen
+title: REGLEMENT zum Schutz vor Passivrauchen
 language: de
 version: 2010-05-01
+corrected: 2025-08-04
 version_adopted: 2010-03-30
 adopted: 2010-03-30
 in_force: 2010-05-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/30.2145"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/608/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/257/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement zum Schutz vor Passivrauchen
+# REGLEMENT zum Schutz vor Passivrauchen
 
-Vom 30.03.2010 (Stand 01.05.2010)
+REGLEMENT zum Schutz vor Passivrauchen
 
-Der Regierungsrat des Kantons Uri,
+(vom 30. März 2010[^t-1]; Stand am 1. Mai 2010)
 
-gestützt auf Artikel 6 des Bundesgesetzes vom 3. Oktober 2008 zum Schutz vor Passivrauchen (SR [818.31](https://db.clex.ch/link/Bund/818.31/de)) und Artikel 56 des Gesundheitsgesetzes vom 1. Juni 2008 (GG, RB [30.2111](https://rechtsbuch.ur.ch/data/30.2111/de)),
+Der Regierungsrat des Kantons Uri, gestützt auf Artikel 6 des Bundesgesetzes vom 3. Oktober 2008 zum Schutz vor Passivrauchen[^t-2] und Artikel 56 des Gesundheitsgesetzes vom 1. Juni 2008 (GG)<sup>3</sup>,
 
 beschliesst:
 
-## 1 Zweck und Gegenstand
+**Zweck und Gegenstand**
+
+[^t-1]: AB vom 9. April 2010
+[^t-2]: SR 818.31
+
+### 1. Abschnitt:
 
 #### Artikel 1
 
-<sup>1</sup> Dieses Reglement vollzieht das Bundesrecht zum Schutz vor Passivrauchen und Artikel 18 GG.
+Dieses Reglement vollzieht das Bundesrecht zum Schutz vor Passivrauchen und Artikel 18 GG.
 
-## 2 Rauchverbot
+**Rauchverbot**
+
+### 2. Abschnitt:
 
 #### Artikel 2
 
@@ -37,8 +46,9 @@ beschliesst:
 
 <sup>1</sup> Rauchen ist unter Vorbehalt der Artikel 6 und 8 untersagt:
 
-- a) in geschlossenen Räumen, die öffentlich zugänglich sind oder
-- b) die mehreren Personen als Arbeitsplatz dienen
+- a) in geschlossenen Räumen, die öffentlich zugänglich sind, oder
+
+- b) die mehreren Personen als Arbeitsplatz dienen.
 
 <sup>2</sup> Als Arbeitsplatz mehrerer Personen gilt jeder Ort, an dem sich mehrere Arbeitnehmerinnen oder Arbeitnehmer dauernd oder vorübergehend zur Ausführung der ihnen zugewiesenen Arbeit aufhalten müssen.
 
@@ -48,7 +58,7 @@ beschliesst:
 
 <sup>1</sup> Als geschlossen gelten namentlich Innenräume, die mit Ausnahme von Fenstern und Türen nach allen Seiten fest umschlossen sind. Ohne Belang ist, aus welchem Material die Abtrennung besteht und ob diese dauernd oder vorübergehend errichtet wurde.
 
-<sup>2</sup> Nicht als geschlossen gelten Räume, wenn mindestens die Hälfte des Dachs oder mindestens die Hälfte der Seitenflächen ins Freie offen ist.
+2 Nicht als geschlossen gelten Räume, wenn mindestens die Hälfte des Dachs oder mindestens die Hälfte der Seitenflächen ins Freie offen ist.
 
 #### Artikel 4
 
@@ -58,24 +68,31 @@ beschliesst:
 
 <sup>2</sup> Öffentlich zugängliche Räume sind insbesondere:
 
-- a) Gebäude der öffentlichen Verwaltung
-- b) Spitäler und andere Gesundheitseinrichtungen
-- c) Kinderheime, Altersheime und vergleichbare Einrichtungen
-- d) Einrichtungen des Straf- und Massnahmenvollzugs
-- e) Bildungsstätten
-- f) Museums-, Theater- und Kinoräumlichkeiten
-- g) Sportstätten
-- h) Restaurations- und Hotelbetriebe
-- i) Gebäude und Fahrzeuge des öffentlichen Verkehrs
-- j) Verkaufsgeschäfte und Einkaufszentren
+- a) Gebäude der öffentlichen Verwaltung;
+
+- b) Spitäler und andere Gesundheitseinrichtungen;
+
+- c) Kinderheime, Altersheime und vergleichbare Einrichtungen;
+
+- d) Einrichtungen des Straf- und Massnahmenvollzugs;
+
+- e) Bildungsstätten;
+
+- f) Museums-, Theater- und Kinoräumlichkeiten;
+
+- g) Sportstätten;
+
+- h) Restaurations- und Hotelbetriebe;
+
+- i) Gebäude und Fahrzeuge des öffentlichen Verkehrs;
+
+- j) Verkaufsgeschäfte und Einkaufszentren.
 
 #### Artikel 5
 
-**Nicht öffentlich zugängliche Räume**
+Nicht öffentlich zugängliche Räume Räume, die nur Mitgliedern offen stehen, sind nicht öffentlich zugänglich. Dabei sind an den Erwerb der Mitgliedschaft besondere Anforderungen zu stellen. Insbesondere reicht das alleinige Bezahlen eines Eintritts nicht aus, um eine Mitgliedschaft anzunehmen und den Raum als privaten Club, in dem geraucht werden darf, zu deklarieren. Ein Mitgliederbeitrag darf nicht durch vergünstigte Konsumationen und dergleichen ganz oder teilweise zurückerstattet werden.
 
-<sup>1</sup> Räume, die nur Mitgliedern offen stehen, sind nicht öffentlich zugänglich. Dabei sind an den Erwerb der Mitgliedschaft besondere Anforderungen zu stellen. Insbesondere reicht das alleinige Bezahlen eines Eintritts nicht aus, um eine Mitgliedschaft anzunehmen und den Raum als privaten Club, in dem geraucht werden darf, zu deklarieren. Ein Mitgliederbeitrag darf nicht durch vergünstigte Konsumationen und dergleichen ganz oder teilweise zurückerstattet werden.
-
-## 3 Raucherräume
+### 3. Abschnitt: Raucherräume
 
 #### Artikel 6
 
@@ -83,8 +100,9 @@ beschliesst:
 
 <sup>1</sup> Die Betreiberin oder der Betreiber oder die für die Hausordnung verantwortliche Person darf einen oder mehrere Raucherräume einrichten. Dabei muss sie oder er dafür sorgen, dass der Raucherraum:
 
-- a) durch feste Bauteile von anderen Räumen dicht abgetrennt ist, nicht als Durchgang in andere Räume dient und über eine selbsttätig schliessende Tür verfügt
-- b) mit einer ausreichenden Belüftung ausgestattet ist
+- a) durch feste Bauteile von anderen Räumen dicht abgetrennt ist, nicht als Durchgang in andere Räume dient und über eine selbsttätig schliessende Tür verfügt;
+
+- b) mit einer ausreichenden Belüftung ausgestattet ist.
 
 <sup>2</sup> Raucherräume müssen deutlich und an gut sichtbarer Stelle bei jedem Eingang als solche gekennzeichnet sein.
 
@@ -92,22 +110,21 @@ beschliesst:
 
 <sup>4</sup> Für Raucherräume in einem Restaurations- oder Hotelbetrieb gilt zusätzlich:
 
-- a) ihre Fläche darf höchstens einen Drittel der Gesamtfläche der Ausschankräume betragen
-- b) ihre Öffnungszeiten dürfen nicht länger sein als im übrigen Betrieb
+- a) ihre Fläche darf höchstens einen Drittel der Gesamtfläche der Ausschankräume betragen;
+
+- b) ihre Öffnungszeiten dürfen nicht länger sein als im übrigen Betrieb.
 
 #### Artikel 7
 
 **Sorgfaltspflicht**
 
-<sup>1</sup> Wer einen Raucherraum betreibt, muss dafür sorgen, dass Personen in angrenzenden rauchfreien Räumen nicht durch Rauch belästigt werden.
+Wer einen Raucherraum betreibt, muss dafür sorgen, dass Personen in angrenzenden rauchfreien Räumen nicht durch Rauch belästigt werden.
 
 #### Artikel 8
 
-**Beschäftigung von Arbeitnehmerinnen oder Arbeitnehmern in Raucherräumen**
+Beschäftigung von Arbeitnehmerinnen oder Arbeitnehmern in Raucherräumen In Raucherräumen von Restaurations- und Hotelbetrieben dürfen Arbeitnehmerinnen oder Arbeitnehmer nur beschäftigt werden, sofern sie schriftlich zugestimmt haben.
 
-<sup>1</sup> In Raucherräumen von Restaurations- und Hotelbetrieben dürfen Arbeitnehmerinnen oder Arbeitnehmer nur beschäftigt werden, sofern sie schriftlich zugestimmt haben.
-
-## 4 Schlussbestimmungen
+### 4. Abschnitt: Schlussbestimmungen
 
 #### Artikel 9
 
@@ -115,7 +132,7 @@ beschliesst:
 
 <sup>1</sup> Es gelten die Strafbestimmungen nach dem Bundesgesetz zum Schutz vor Passivrauchen und nach Artikel 53 Absatz 1 Buchstabe e GG.
 
-<sup>2</sup> Das Reglement über die Erhebung von Ordnungsbussen (Ordnungsbussenreglement, OBR, RB [3.9223](https://rechtsbuch.ur.ch/data/3.9223/de)) ist anzuwenden.
+<sup>2</sup> Das Reglement über die Erhebung von Ordnungsbussen (Ordnungsbussenreglement, OBR)<sup>4</sup> ist anzuwenden.
 
 #### Artikel 10
 
@@ -123,7 +140,7 @@ beschliesst:
 
 <sup>1</sup> Die Gesundheits-, Sozial- und Umweltdirektion ist Auskunftsstelle zu Fragen um den Schutz vor dem Passivrauchen. Sie kann dazu Merkblätter herausgeben.
 
-<sup>2</sup> Die Volkswirtschaftsdirektion ist zuständig, die gastgewerblichen Bestimmungen zu vollziehen.
+2 Die Volkswirtschaftsdirektion ist zuständig, die gastgewerblichen Bestimmungen zu vollziehen.
 
 <sup>3</sup> Die Kantonspolizei nimmt Meldungen über den Verstoss gegen die Bestimmungen zum Schutz vor dem Passivrauchen entgegen und bearbeitet diese nach den Vorschriften über die Strafrechtspflege.
 
@@ -133,6 +150,8 @@ beschliesst:
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Reglement tritt am 1. Mai 2010 in Kraft.
+Dieses Reglement tritt am 1. Mai 2010 in Kraft.
 
-AB 09.04.2010
+Im Namen des Regierungsrats
+
+Der Landammann: Isidor Baumann Der Kanzleidirektor: Dr. Peter Huber
