@@ -1,33 +1,40 @@
 ---
 canton: UR
 number: "30.4415"
-title: "Reglement zur Bundesgesetzgebung über Waffen, Waffenzubehör und Munition"
+title: "REGLEMENT zur Bundesgesetzgebung über Waffen, Waffenzubehör und Munition"
 language: de
 version: 1999-07-01
+corrected: 2025-08-04
 version_adopted: 1999-06-22
 adopted: 1999-06-22
 in_force: 1999-07-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/30.4415"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/623/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/270/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement zur Bundesgesetzgebung über Waffen, Waffenzubehör und Munition
+# REGLEMENT zur Bundesgesetzgebung über Waffen, Waffenzubehör und Munition
 
-Vom 22.06.1999 (Stand 01.07.1999)
+REGLEMENT zur Bundesgesetzgebung über Waffen, Waffenzubehör und Munition
 
-Der Regierungsrat des Kantons Uri,
+(vom 22. Juni 1999[^t-1]; Stand am 1. Juli 1999)
 
-gestützt auf Artikel 38 des Bundesgesetzes über Waffen, Waffenzubehör und Munition (Waffengesetz, WG, SR [514.54](https://db.clex.ch/link/Bund/514.54/de)) und auf Artikel 94 Absatz 1 der Kantonsverfassung (RB [1.1101](https://rechtsbuch.ur.ch/data/1.1101/de)),
+Der Regierungsrat des Kantons Uri, gestützt auf Artikel 38 des Bundesgesetzes über Waffen, Waffenzubehör und Munition (Waffengesetz, WG) vom 20. Juni 1997[^t-2] und auf Artikel 94 Absatz 1 der Kantonsverfassung<sup>3</sup>,
 
 beschliesst:
+
+[^t-1]: AB vom 2. Juli 1999
+[^t-2]: SR 514.54
 
 #### Artikel 1
 
 **Gegenstand**
 
-<sup>1</sup> Dieses Reglement vollzieht die Bundesgesetzgebung über Waffen, Waffenzubehör und Munition (SR [514.54](https://db.clex.ch/link/Bund/514.54/de), SR [514.541](https://db.clex.ch/link/Bund/514.541/de)), soweit die Kantone hiefür zuständig sind.
+Dieses Reglement vollzieht die Bundesgesetzgebung über Waffen, Waffenzubehör und Munition[^1-1], soweit die Kantone hiefür zuständig sind.
+
+[^1-1]: SR 514.54514.541
 
 #### Artikel 2
 
@@ -43,7 +50,7 @@ beschliesst:
 
 **Gesuche**
 
-<sup>1</sup> Gesuche um eine Bewilligung oder eine andere Verfügung des Amtes für Kantonspolizei sind mit den erforderlichen Unterlagen bei diesem Amt einzureichen.
+Gesuche um eine Bewilligung oder eine andere Verfügung des Amtes für Kantonspolizei sind mit den erforderlichen Unterlagen bei diesem Amt einzureichen.
 
 #### Artikel 4
 
@@ -57,14 +64,14 @@ beschliesst:
 
 **Rechtsschutz**
 
-<sup>1</sup> Die Rechtspflege richtet sich nach der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de).
+<sup>1</sup> Die Rechtspflege richtet sich nach der Verordnung über die Verwaltungsrechtspflege<sup>5</sup>.
 
 <sup>2</sup> Gegen Verfügungen des Amtes für Kantonspolizei kann Einsprache erhoben werden.
 
 #### Artikel 6
 
-**Inkrafttreten**
+**Im Namen des Regierungsrates**
 
-<sup>1</sup> Dieses Reglement tritt auf den 1. Juli 1999 in Kraft.
+**Der Landammann: Peter Mattli Der Kanzleidirektor: Dr. Peter Huber**
 
-AB 02.07.1999
+Inkrafttreten Dieses Reglement tritt auf den 1. Juli 1999 in Kraft.
