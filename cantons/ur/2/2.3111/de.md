@@ -1,40 +1,42 @@
 ---
 canton: UR
 number: "2.3111"
-title: Verordnung über den Landrat
+title: VERORDNUNG über den Landrat
 short: "Landratsverordnung, LRV"
 language: de
 version: 2005-08-01
+corrected: 2025-08-05
 version_adopted: 2005-04-13
 adopted: 2005-04-13
 in_force: 2005-08-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/2.3111"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/645/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/67/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung über den Landrat
+# VERORDNUNG über den Landrat
 
-(Landratsverordnung, LRV)
+VERORDNUNG über den Landrat (Landratsverordnung, LRV)
 
-Vom 13.04.2005 (Stand 01.08.2005)
+(vom 13. April 2005[^t-1]; Stand am 1. August 2005)
 
-Der Landrat des Kantons Uri,
-
-gestützt auf Artikel 87 und 90 Absatz 2 der Kantonsverfassung (RB [1.1101](https://rechtsbuch.ur.ch/data/1.1101/de)),
+Der Landrat des Kantons Uri, gestützt auf Artikel 87 und 90 Absatz 2 der Kantonsverfassung<sup>2</sup>,
 
 beschliesst:
 
-## 1 Gegenstand
+[^t-1]: AB vom 29. April 2005
+
+### 1. Abschnitt: Gegenstand
 
 #### Artikel 1
 
-<sup>1</sup> Diese Verordnung regelt die Befugnisse des Landrats, soweit sie sich nicht aus der besonderen Gesetzgebung, namentlich aus der Kantonsverfassung und der Geschäftsordnung für den Landrat (RB [2.3121](https://rechtsbuch.ur.ch/data/2.3121/de)), ergeben.
+<sup>1</sup> Diese Verordnung regelt die Befugnisse des Landrats, soweit sie sich nicht aus der besonderen Gesetzgebung, namentlich aus der Kantonsverfassung und der Geschäftsordnung für den Landrat<sup>3</sup>, ergeben.
 
 <sup>2</sup> Die besondere Gesetzgebung bleibt vorbehalten.
 
-## 2 Informationsrechte
+### 2. Abschnitt: Informationsrechte
 
 #### Artikel 2
 
@@ -50,12 +52,17 @@ beschliesst:
 
 <sup>1</sup> Die Sachkommissionen können im Rahmen ihres Auftrags und nach Anhörung des Regierungsrats:
 
-- a) sämtliche Akten des Beratungsgegenstandes einsehen
-- b) Sachbearbeitende der Kantonsverwaltung zum vorgelegten Geschäft befragen
-- c) Interessenvertreter und Interessenvertreterinnen anhören
-- d) für Geschäfte, deren Beurteilung besondere Kenntnisse erfordert, mit Genehmigung des Büros des Landrats und im Rahmen bewilligter Kredite aussenstehende Sachverständige beiziehen. Fehlt ein bewilligter Kredit, kann das Büro des Landrats ausnahmsweise im Einzelfall Ausgaben bis 15'000 Franken bewilligen
-- e) Besichtigungen vornehmen
-- f) zusätzliche Berichte verlangen
+- a) sämtliche Akten des Beratungsgegenstandes einsehen;
+
+- b) Sachbearbeitende der Kantonsverwaltung zum vorgelegten Geschäft befragen;
+
+- c) Interessenvertreter und Interessenvertreterinnen anhören;
+
+- d) für Geschäfte, deren Beurteilung besondere Kenntnisse erfordert, mit Genehmigung des Büros des Landrats und im Rahmen bewilligter Kredite aussenstehende Sachverständige beiziehen. Fehlt ein bewilligter Kredit, kann das Büro des Landrats ausnahmsweise im Einzelfall Ausgaben bis Fr. 15'000.– bewilligen;
+
+- e) Besichtigungen vornehmen;
+
+- f) zusätzliche Berichte verlangen.
 
 <sup>2</sup> Das zuständige Regierungsratsmitglied ist berechtigt, an den Befragungen nach Buchstabe b teilzunehmen, Fragen zu stellen und ergänzende Auskünfte zu erteilen.
 
@@ -71,9 +78,11 @@ beschliesst:
 
 <sup>2</sup> Den Aufsichtskommissionen stehen die Informationsrechte der Sachkommissionen zu. Zudem können sie im Rahmen ihres Auftrags und nach Anhörung des Regierungsrats:
 
-- a) sämtliche Akten der Kantonsverwaltung einsehen
-- b) Inspektionen und Besichtigungen in der Kantonsverwaltung vornehmen. Das zuständige Regierungsratsmitglied ist vorher zu orientieren
-- c) Angestellte der Kantonsverwaltung befragen
+- a) sämtliche Akten der Kantonsverwaltung einsehen;
+
+- b) Inspektionen und Besichtigungen in der Kantonsverwaltung vornehmen. Das zuständige Regierungsratsmitglied ist vorher zu orientieren;
+
+- c) Angestellte der Kantonsverwaltung befragen.
 
 <sup>3</sup> Sofern die Kommission nicht ausnahmsweise etwas anderes beschliesst, ist das zuständige Regierungsratsmitglied berechtigt, an den Befragungen nach Buchstabe c teilzunehmen, Fragen zu stellen und ergänzende Auskünfte zu erteilen.
 
@@ -89,27 +98,29 @@ beschliesst:
 
 <sup>1</sup> Im Rahmen ihres Auftrags können die Kommissionen die Finanzkontrolle beauftragen, besondere Prüfungen vorzunehmen und sie zu beraten.
 
-<sup>2</sup> Die Kommissionen können ohne Weiteres Berichte der Finanzkontrolle einsehen und Angestellte der Finanzkontrolle befragen. Die Bestimmungen über die Geheimhaltungspflicht sind zu beachten.
+<sup>2</sup> Die Kommissionen können ohne weiteres Berichte der Finanzkontrolle einsehen und Angestellte der Finanzkontrolle befragen. Die Bestimmungen über die Geheimhaltungspflicht sind zu beachten.
 
 #### Artikel 6
 
-**Amtsgeheimnis: Begriff**
+**Amtsgeheimnis**
+
+- a) Begriff
 
 <sup>1</sup> Dem Amtsgeheimnis unterstehen Tatsachen, Akten und Auskünfte, die zur Wahrung überwiegender öffentlicher oder privater Interessen, zum Schutz der Persönlichkeit oder aus Rücksicht auf ein hängiges Verfahren geheim zu halten oder vertraulich zu behandeln sind.
 
 <sup>2</sup> Im Zweifelsfall bestimmt der Regierungsrat, welche Tatsachen, Akten und Auskünfte dem Amtsgeheimnis unterstehen.
 
-#### Artikel 7
+#### Artikel 7 b
 
-**Amtsgeheimnis: Verfahren bei Akteneinsicht**
+**) Verfahren bei Akteneinsicht**
 
 <sup>1</sup> Soweit es zur Wahrung des Amtsgeheimnisses unerlässlich ist, kann der Regierungsrat, statt Akteneinsicht zu gewähren, der Kommission einen umfassenden Bericht zur Sache erstatten.
 
 <sup>2</sup> Beharrt die Kommission trotz des Berichts des Regierungsrats darauf, die Akten einzusehen, trägt sie das Anliegen dem Büro des Landrats vor. Dieses sichtet die betroffenen Akten und entscheidet, nachdem es den Regierungsrat angehört hat.
 
-#### Artikel 8
+#### Artikel 8 c
 
-**Amtsgeheimnis: Verfahren bei Befragungen**
+**) Verfahren bei Befragungen**
 
 <sup>1</sup> Der Regierungsrat kann seine Mitglieder und Angestellte der Kantonsverwaltung vom Amtsgeheimnis entbinden, damit diese vor den Kommissionen aussagen dürfen.
 
@@ -121,21 +132,21 @@ beschliesst:
 
 **Geheimhaltungspflicht**
 
-<sup>1</sup> Soweit die Kommissionsmitglieder und die übrigen Teilnehmenden an Kommissionssitzungen Kenntnis von Tatsachen, Akten oder Auskünften erhalten, die dem Amtsgeheimnis unterstehen, sind sie ihrerseits zur Geheimhaltung verpflichtet.
+Soweit die Kommissionsmitglieder und die übrigen Teilnehmenden an Kommissionssitzungen Kenntnis von Tatsachen, Akten oder Auskünften erhalten, die dem Amtsgeheimnis unterstehen, sind sie ihrerseits zur Geheimhaltung verpflichtet.
 
 #### Artikel 10
 
 **Kommissionsausschüsse**
 
-<sup>1</sup> Die Rechte und Pflichten der Kommissionen gelten auch für deren Ausschüsse.
+Die Rechte und Pflichten der Kommissionen gelten auch für deren Ausschüsse.
 
 #### Artikel 11
 
 **Andere Behörden**
 
-<sup>1</sup> Beschäftigen sich die Kommissionen mit den Gerichten oder mit selbstständigen öffentlich-rechtlichen Anstalten des Kantons, handelt anstelle des Regierungsrats das zuständige Gericht beziehungsweise das zuständige Organ der selbstständigen öffentlich-rechtlichen Anstalt.
+Beschäftigen sich die Kommissionen mit den Gerichten oder mit selbstständigen öffentlich-rechtlichen Anstalten des Kantons, handelt anstelle des Regierungsrats das zuständige Gericht beziehungsweise das zuständige Organ der selbstständigen öffentlich-rechtlichen Anstalt.
 
-## 3 Parlamentarische Untersuchungskommission (PUK)
+### 3. Abschnitt: Parlamentarische Untersuchungskommission (PUK)
 
 #### Artikel 12
 
@@ -155,7 +166,7 @@ beschliesst:
 
 **Verfahren**
 
-<sup>1</sup> Die Ermittlung des Sachverhalts und die Beweiserhebungen richten sich sinngemäss nach der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)), soweit diese Verordnung nichts anderes bestimmt. Artikel 292 des Schweizerischen Strafgesetzbuches (SR [311.0](https://db.clex.ch/link/Bund/311.0/de)) ist anwendbar.
+<sup>1</sup> Die Ermittlung des Sachverhalts und die Beweiserhebungen richten sich sinngemäss nach der Verordnung über die Verwaltungsrechtspflege[^13-1], soweit diese Verordnung nichts anderes bestimmt. Artikel 292 des Schweizerischen Strafgesetzbuches[^13-2] ist anwendbar.
 
 <sup>2</sup> Die Untersuchungskommission kann im Einzelfall und ausnahmsweise einzelne Mitglieder beauftragen, bestimmte Beweise zu erheben.
 
@@ -163,13 +174,16 @@ beschliesst:
 
 <sup>4</sup> Die wesentlichen Vorgänge und Beschlüsse sind zu protokollieren.
 
+[^13-1]: RB 2.2345
+[^13-2]: SR 311.0
+
 #### Artikel 14
 
 **Informationsrechte**
 
 <sup>1</sup> Der Untersuchungskommission stehen die gleichen Informationsrechte zu wie den Aufsichtskommissionen.
 
-<sup>2</sup> Zudem kann sie nach der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)) die Beteiligten befragen, Urkunden beiziehen, Amtsberichte und Gutachten von Sachverständigen verlangen, Augenscheine durchführen, Zeugen und Zeuginnen einvernehmen oder andere geeignete Massnahmen treffen.
+<sup>2</sup> Zudem kann sie nach der Verordnung über die Verwaltungsrechtspflege<sup>6</sup> die Beteiligten befragen, Urkunden beiziehen, Amtsberichte und Gutachten von Sachverständigen verlangen, Augenscheine durchführen, Zeugen und Zeuginnen einvernehmen oder andere geeignete Massnahmen treffen.
 
 #### Artikel 15
 
@@ -177,7 +191,7 @@ beschliesst:
 
 <sup>1</sup> Angestellte und Behördenmitglieder, die der Oberaufsicht des Landrats unterstehen, sind verpflichtet, der Untersuchungskommission zum Untersuchungsgegenstand wahrheitsgemäss Auskunft zu erteilen.
 
-<sup>2</sup> Das Zeugnisverweigerungsrecht richtet sich nach der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)).
+<sup>2</sup> Das Zeugnisverweigerungsrecht richtet sich nach der Verordnung über die Verwaltungsrechtspflege<sup>7</sup>.
 
 <sup>3</sup> Dritte sind zur Aussage verpflichtet, soweit sie der Zeugnispflicht unterliegen.
 
@@ -215,7 +229,7 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat hat das Recht, den Befragungen von Auskunftspersonen sowie von Zeugen und Zeuginnen beizuwohnen. Er kann dabei Ergänzungsfragen stellen. Zudem steht ihm das Recht zu, die Akten und die Einvernahmeprotokolle einzusehen sowie weitere Abklärungen zu verlangen, sofern diese zur Klärung des wesentlichen Sachverhalts beitragen. Er kann sich durch eine Delegation vertreten lassen.
 
-<sup>2</sup> Die Untersuchungskommission kann diese Rechte ganz oder teilweise verweigern, einschränken oder ausschliessen, wenn das im Interesse der laufenden Untersuchung notwendig ist.
+2 Die Untersuchungskommission kann diese Rechte ganz oder teilweise verweigern, einschränken oder ausschliessen, wenn das im Interesse der laufenden Untersuchung notwendig ist.
 
 <sup>3</sup> Der Regierungsrat kann sich zum Ergebnis der Untersuchung vor der Untersuchungskommission und in einem Bericht an den Landrat äussern.
 
@@ -223,7 +237,7 @@ beschliesst:
 
 **Andere Behörden**
 
-<sup>1</sup> Betrifft die Untersuchung andere Behörden, namentlich die Gerichte oder selbstständige öffentlich-rechtliche Anstalten, handelt anstelle des Regierungsrats das zuständige Gericht beziehungsweise das zuständige Organ der selbstständigen öffentlich-rechtlichen Anstalt.
+Betrifft die Untersuchung andere Behörden, namentlich die Gerichte oder selbstständige öffentlich-rechtliche Anstalten, handelt anstelle des Regierungsrats das zuständige Gericht beziehungsweise das zuständige Organ der selbstständigen öffentlich-rechtlichen Anstalt.
 
 #### Artikel 21
 
@@ -243,14 +257,16 @@ beschliesst:
 
 #### Artikel 23
 
-**Änderung bisherigen Rechts[^Artikel23-1]**
+**Änderung bisherigen Rechts**
 
-[^Artikel23-1]: Die Änderung wurde in den entsprechenden Erlass eingefügt.
+...[^23-1]
+
+[^23-1]: Die Änderung wurde in den entsprechenden Erlass eingefügt.
 
 #### Artikel 24
 
-**Inkrafttreten**
+**Im Namen des Landrats**
 
-<sup>1</sup> Diese Verordnung unterliegt dem fakultativen Volksreferendum. Sie tritt am 1. August 2005 in Kraft.
+**Die Präsidentin: Luzia Schuler Der Kanzleidirektor: Dr. Peter Huber**
 
-AB 29.04.2005
+Inkrafttreten Diese Verordnung unterliegt dem fakultativen Volksreferendum. Sie tritt am 1. August 2005 in Kraft.
