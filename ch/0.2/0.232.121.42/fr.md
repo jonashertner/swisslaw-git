@@ -3,11 +3,11 @@ sr: "0.232.121.42"
 title: "Règlement d'exécution du 30 septembre 2003 de l’Acte de Genève (1999) de l’Arrangement de La Haye concernant l’enregistrement international des dessins et modèles industriels (avec barème)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/236"
 language: fr
-version: 2025-07-23
+version: 2025-08-05
 adopted: 2003-09-30
 in_force: 2004-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/236/20250723/fr/xml/fedlex-data-admin-ch-eli-cc-2006-236-20250723-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/236/20250723/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/236/20250805/fr/xml/fedlex-data-admin-ch-eli-cc-2006-236-20250805-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/236/20250805/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Adopté par l’Assemblée de l’Union de La Haye le 30 septembre 2003 Entré en vigueur le 1<sup>er</sup> avril 2004
 
-(État le 23 juillet 2025)
+(État le 5 août 2025)
 
 [^t-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 17 juil. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 422](https://fedlex.data.admin.ch/eli/oc/2025/422)).
 
@@ -44,8 +44,8 @@ Aux fins du présent règlement d’exécution, il faut entendre par:
 - ix) «bulletin» s’entend du bulletin périodique dans lequel le Bureau international effectue les publications prévues dans l’Acte ou dans le présent règlement d’exécution, quel que soit le support utilisé.
 
 [^1-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 17 juil. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)).
-[^1-2]: [RS 0.232.121.4](https://fedlex.data.admin.ch/eli/cc/2004/98)
-[^1-3]: [RS 0.232.121.2](https://fedlex.data.admin.ch/eli/cc/1984/889_889_889)
+[^1-2]: [RS 0.232.121.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1078)
+[^1-3]: [RS 0.232.121.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1075)
 
 #### Règle 2
 
@@ -251,12 +251,25 @@ Les communications adressées au Bureau international doivent être effectuées 
 
 \3) [*Taxe de désignation individuelle payable en deux parties*]
 
-- a) La demande internationale donne lieu au paiement des taxes suivantes:
-- i) une taxe de base;
-- ii) une taxe de désignation standard pour chaque partie contractante désignée qui n’a pas fait la déclaration prévue à l’article 7.2);
-- iii) une taxe de désignation individuelle pour chaque partie contractante désignée qui a fait la déclaration prévue à l’article 7.2);
-- iv) une taxe de publication.
-- b) Le montant des taxes visées aux points i), ii) et iv) est fixé dans le barème des taxes.
+- a)
+
+  La demande internationale donne lieu au paiement des taxes suivantes:
+
+  - i) une taxe de base;
+  - ii) une taxe de désignation standard pour chaque partie contractante désignée qui n’a pas fait la déclaration prévue à l’article 7.2), de l’Acte de 1999, dont le niveau dépend de la déclaration prévue au sous-alinéa c);
+  - iii) une taxe de désignation individuelle pour chaque partie contractante désignée qui a fait la déclaration prévue à l’article 7.2), de l’Acte de 1999;
+  - iv) une taxe de publication.
+
+- b)
+
+  Le niveau de la taxe de désignation standard visée au sous-alinéa a)ii) est le suivant:
+
+  - i) pour les parties contractantes dont l’Office n’effectue pas un examen quant au fond: niveau un;
+  - ii) pour les parties contractantes dont l’Office effectue un examen quant au fond qui n’est pas un examen de nouveauté: niveau deux;
+  - iii) pour les parties contractantes dont l’Office effectue un examen quant au fond, y compris un examen d’office quant à la nouveauté ou un examen de nouveauté à la suite d’une opposition formée par des tiers: niveau trois.
+
+- c) i) Toute partie contractante dont la législation l’habilite à appliquer les niveaux deux ou trois visés au sous-alinéa b) peut, dans une déclaration, notifier ce fait au Directeur général. Une partie contractante peut aussi préciser, dans sa déclaration, qu’elle opte pour l’application du niveau deux, même si sa législation l’habilite à appliquer le niveau trois.
+  - ii) Toute déclaration visée au point i) prend effet trois mois après sa réception par le Directeur général ou à toute date ultérieure indiquée dans la déclaration. Elle peut aussi être retirée en tout temps par notification adressée au Directeur général; dans ce cas, le retrait prend effet un mois après sa réception par le Directeur général ou à toute date ultérieure indiquée dans la notification. En l’absence d’une telle déclaration ou lorsque la déclaration a été retirée, le niveau un est réputé être le niveau applicable à la taxe de désignation standard pour ladite partie contractante.[^12-2]
 
 - a) La déclaration visée à l’article 7.2) peut également préciser que la taxe de désignation individuelle due pour la partie contractante concernée comprend deux parties, la première devant être payée au moment du dépôt de la demande internationale et la seconde à une date ultérieure qui est fixée conformément à la législation de la partie contractante concernée.
 - b) Lorsque le sous-alinéa a) s’applique, la référence à l’alinéa 1)iii) à une taxe de désignation individuelle s’entend comme une référence à la première partie de la taxe de désignation individuelle.
@@ -264,6 +277,7 @@ Les communications adressées au Bureau international doivent être effectuées 
 - d) Lorsque la seconde partie de la taxe de désignation individuelle n’est pas payée dans le délai applicable, l’Office concerné le notifie au Bureau international et demande au Bureau international de radier l’inscription de l’enregistrement international dans le registre international à l’égard de la partie contractante concernée. Le Bureau international agit en conséquence et notifie ce fait au titulaire.
 
 [^12-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 17 juil. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)).
+[^12-2]: Erratum du 5 août 2025 ([RO 2025 491](https://fedlex.data.admin.ch/eli/oc/2025/491)).
 
 #### Règle 13
 
