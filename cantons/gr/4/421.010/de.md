@@ -5,12 +5,12 @@ title: Verordnung zum Volksschulgesetz
 short: "Volksschulverordnung, VSV"
 language: de
 version: 2025-08-01
-corrected: 2025-06-05
+corrected: 2025-08-05
 version_adopted: 2025-04-15
 adopted: 2012-09-25
 in_force: 2013-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/421.010"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3549/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3556/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
