@@ -1,29 +1,35 @@
 ---
 canton: UR
 number: "1.4215"
-title: Reglement über Niederlassung und Aufenthalt der Schweizer
+title: REGLEMENT über Niederlassung und Aufenthalt der Schweizer
 language: de
 version: 1986-04-01
+corrected: 2025-08-05
 version_adopted: 1986-02-17
 adopted: 1986-02-17
 in_force: 1986-04-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/1.4215"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/631/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/11/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über Niederlassung und Aufenthalt der Schweizer
+# REGLEMENT über Niederlassung und Aufenthalt der Schweizer
 
-Vom 17.02.1986 (Stand 01.04.1986)
+REGLEMENT über Niederlassung und Aufenthalt der Schweizer
 
-Der Regierungsrat des Kantons Uri,
+(vom 17. Februar 1986[^t-1]; Stand am 1. April 1986)
 
-gestützt auf Artikel 16 des Gesetzes über Niederlassung und Aufenthalt der Schweizer (RB [1.4211](https://rechtsbuch.ur.ch/data/1.4211/de))und auf die Verordnung des Bundesrates über den Heimatschein (SR [143.12](https://db.clex.ch/link/Bund/143.12/de)),
+Der Regierungsrat des Kantons Uri, gestützt auf Artikel 16 des Gesetzes über Niederlassung und Aufenthalt der Schweizer[^t-2]und auf die Verordnung des Bundesrates vom 22. Dezember 1980[^t-3] über den Heimatschein,
 
 beschliesst:
 
-## 1 Heimatschein
+[^t-1]: AB vom 28. Februar 1986
+[^t-2]: RB 1.4211
+[^t-3]: SR 143.12
+
+### 1. Abschnitt: Heimatschein
 
 #### Artikel 1
 
@@ -35,9 +41,7 @@ beschliesst:
 
 #### Artikel 2
 
-**Formulare**
-
-<sup>1</sup> Die Justizdirektion besorgt den Druck der Heimatscheine und gibt diese den Zivilstandsämtern ab.
+Formulare Die Justizdirektion besorgt den Druck der Heimatscheine und gibt diese den Zivilstandsämtern ab.
 
 #### Artikel 3
 
@@ -49,13 +53,13 @@ beschliesst:
 
 <sup>3</sup> Die Kosten der Kraftloserklärung gehen zulasten des Inhabers des Heimatscheins.
 
-## 2 Wohnsitzbescheinigung
+### 2. Abschnitt: Wohnsitzbescheinigung
 
 #### Artikel 4
 
 **Ausstellung**
 
-<sup>1</sup> Die Gemeindekanzlei der Gemeinde, in welcher der Heimatschein hinterlegt ist, stellt die Wohnsitzbescheinigung aus.
+Die Gemeindekanzlei der Gemeinde, in welcher der Heimatschein hinterlegt ist, stellt die Wohnsitzbescheinigung aus.
 
 #### Artikel 5
 
@@ -65,7 +69,7 @@ beschliesst:
 
 <sup>2</sup> Die für eine Person in Ausbildung ausgestellte Wohnsitzbescheinigung kann bis zum Abschluss der Ausbildung befristet werden.
 
-## 3 Meldepflicht
+### 3. Abschnitt: Meldepflicht
 
 #### Artikel 6
 
@@ -73,41 +77,58 @@ beschliesst:
 
 <sup>1</sup> Bei der Anmeldung sind der Gemeindekanzlei bekanntzugeben:
 
-- a) Angaben, die in das Familienbüchlein aufgenommen werden
-- b) Konfessionszugehörigkeit
-- c) Adresse
-- d) Beruf und Arbeitgeber
-- e) Zuzugsdatum
-- f) bisheriger Niederlassungs- oder Aufenthaltsort
-- g) AHV-Ausweis, sofern ein solcher bereits ausgestellt worden ist
+- a) Angaben, die in das Familienbüchlein aufgenommen werden;
+
+- b) Konfessionszugehörigkeit;
+
+- c) Adresse;
+
+- d) Beruf und Arbeitgeber;
+
+- e) Zuzugsdatum;
+
+- f) bisheriger Niederlassungs- oder Aufenthaltsort;
+
+- g) AHV-Ausweis, sofern ein solcher bereits ausgestellt worden ist.
 
 <sup>2</sup> Für Familien ist das Familienbüchlein oder ein Familienschein vorzulegen.
 
-## 4 Gebühren
+### 4. Abschnitt: Gebühren
 
 #### Artikel 7
 
-<sup>1</sup> Es werden folgende Gebühren erhoben:
+Es werden folgende Gebühren erhoben:
 
-- a) für die Ausstellung eine Heimatscheines: — 16 Franken
-- b) für die Kraftloserklärung eines Heimatscheines: — 20 Franken–200 Franken
-- c) für die Ausstellung einer Wohnsitzbescheinigung: — 8 Franken
-- d) für die Verlängerung einer Wohnsitzbescheinigung: — 4 Franken
-- e) für die Ausstellung eines Niederlassungsausweises: — 3 Franken
-- f) für die Ausstellung eines Aufenthaltsausweises: — 3 Franken
+**Fr. 16.--**
 
-## 5 Schlussbestimmungen
+- a) für die Ausstellung eine Heimatscheines
+
+- b) für die Kraftloserklärung eines Heimat- Fr. 20.-- bis Fr. 200.-- scheines
+
+**Fr. 8.-- Fr. 4.-- Fr. 3.-- Fr. 3.--**
+
+- c) für die Ausstellung einer Wohnsitzbescheinigung
+
+- d) für die Verlängerung einer Wohnsitzbescheinigung
+
+- e) für die Ausstellung eines Niederlassungsausweises
+
+- f) für die Ausstellung eines Aufenthaltsausweises
+
+### 5. Abschnitt: Schlussbestimmungen
 
 #### Artikel 8
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Die Ausführungsbestimmungen vom 6. Juli 1981 zur Verordnung des Bundesrates vom 22. Dezember 1980 über den Heimatschein werden aufgehoben.
+Die Ausführungsbestimmungen vom 6. Juli 1981 zur Verordnung des Bundesrates vom 22. Dezember 1980 über den Heimatschein werden aufgehoben.
 
 #### Artikel 9
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Reglement tritt am 1. April 1986 in Kraft.
+Dieses Reglement tritt am 1. April 1986 in Kraft.
 
-AB 28.02.1986
+Im Namen des Regierungsrates
+
+Der Landammann: Josef Brücker Der Kanzleidirektor: Dr. Peter Huber
