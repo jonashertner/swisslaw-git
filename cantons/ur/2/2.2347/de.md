@@ -1,51 +1,56 @@
 ---
 canton: UR
 number: "2.2347"
-title: Reglement über die berufsmässige Vertretung in Steuer- und Sozialversicherungssachen vor Obergericht
+title: REGLEMENT über die berufsmässige Vertretung in Steuer- und Sozialversicherungssachen vor Obergericht
 language: de
 version: 2002-07-01
+corrected: 2025-08-05
 version_adopted: 2002-06-14
 adopted: 2002-06-14
 in_force: 2002-07-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/2.2347"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/642/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/64/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über die berufsmässige Vertretung in Steuer- und Sozialversicherungssachen vor Obergericht
+# REGLEMENT über die berufsmässige Vertretung in Steuer- und Sozialversicherungssachen vor Obergericht
 
-Vom 14.06.2002 (Stand 01.07.2002)
+REGLEMENT über die berufsmässige Vertretung in Steuer- und Sozialversicherungssachen vor Obergericht
 
-Das Obergericht des Kantons Uri,
+(vom 14. Juni 2002[^t-1]; Stand am 1. Juli 2002)
 
-gestützt auf Artikel 10 Absatz 2a der Verordnung vom 23. März 1994 über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)),
+Das Obergericht des Kantons Uri, gestützt auf Artikel 10 Absatz 2a der Verordnung vom 23. März 1994 über die Verwaltungsrechtspflege (VRPV)[^t-2],
 
 beschliesst:
 
-## 1 Registrierung
+[^t-1]: AB vom 21. Juni 2002.
+[^t-2]: RB 2.2345
+
+### 1. Abschnitt: Registrierung
 
 #### Artikel 1
 
-<sup>1</sup> Zur Vertretung nach Artikel 10 Absatz 2a VRPV (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)) ist berechtigt, wer beim Obergericht registriert ist.
+<sup>1</sup> Zur Vertretung nach Artikel 10 Absatz 2a VRPV<sup>3</sup> ist berechtigt, wer beim Obergericht registriert ist.
 
-<sup>2</sup> Registriert wird, wer sich über besondere Kenntnisse im betreffenden Sachgebiet, über die erforderlichen Kenntnisse des Prozessrechts und darüber ausweist, dass er oder sie die persönlichen Voraussetzungen nach Artikel 8 BGFA (SR [935.61](https://db.clex.ch/link/Bund/935.61/de)) sinngemäss erfüllt.
+<sup>2</sup> Registriert wird, wer sich über besondere Kenntnisse im betreffenden Sachgebiet, über die erforderlichen Kenntnisse des Prozessrechts und darüber ausweist, dass er oder sie die persönlichen Voraussetzungen nach Artikel 8 BGFA<sup>4</sup> sinngemäss erfüllt.
 
-## 2 Eintragung ins Register
+### 2. Abschnitt: Eintragung ins Register
 
-#### Artikel 2
+#### Artikel 2 a
 
-**Ausweise**
+**) Ausweise**
 
 <sup>1</sup> Der Ausweis über besondere Kenntnisse im betreffenden Sachgebiet besteht aus einem juristischen oder ökonomischen Hochschulabschluss mit Ausbildung im Steuer- oder Sozialversicherungsrecht, einem entsprechenden eidgenössischen Expertendiplom, einem entsprechenden eidgenössischen Fachausweis oder einem Diplom einer Fachhochschule im Wirtschaftsbereich.
 
 <sup>2</sup> Der Ausweis über die erforderlichen Kenntnisse des Prozessrechts besteht im Bestehen einer Eignungsprüfung.
 
-<sup>3</sup> Der Ausweis über die persönlichen Voraussetzungen richtet sich sinngemäss nach Artikel 8 BGFA (SR [935.61](https://db.clex.ch/link/Bund/935.61/de)).
+3 Der Ausweis über die persönlichen Voraussetzungen richtet sich sinngemäss nach Artikel 8 BGFA<sup>5</sup>.
 
-#### Artikel 3
+#### Artikel 3 b
 
-**Eignungsprüfung**
+**) Eignungsprüfung**
 
 <sup>1</sup> Der Obergerichtspräsident oder die Obergerichtspräsidentin nimmt die Eignungsprüfung ab. Der Obergerichtsschreiber oder die Obergerichtsschreiberin führt das Protokoll.
 
@@ -55,38 +60,44 @@ beschliesst:
 
 <sup>4</sup> Wer die Prüfung zweimal nicht bestanden hat, wird nicht wieder zur Prüfung zugelassen.
 
-<sup>5</sup> Die Prüfungsgebühr beträgt 300 Franken.
+<sup>5</sup> Die Prüfungsgebühr beträgt Fr. 300.–.
 
-#### Artikel 4
+#### Artikel 4 c
 
-**Veröffentlichung**
+**) Veröffentlichung**
 
-<sup>1</sup> Die Eintragung ins Register wird im Amtsblatt des Kantons Uri veröffentlicht.
+Die Eintragung ins Register wird im Amtsblatt des Kantons Uri veröffentlicht.
 
-## 3 Löschung des Registereintrages
+### 3. Abschnitt: Löschung des Registereintrages
 
-#### Artikel 5
+#### Artikel 5 a
 
-**von Amtes wegen oder auf Antrag**
+**) von Amtes wegen oder auf Antrag**
 
-<sup>1</sup> Personen, die eine der Voraussetzungen für den Registereintrag nicht mehr erfüllen, werden im Register gelöscht. Ebenso erfolgt die Löschung auf Antrag der eingetragenen Person.
+Personen, die eine der Voraussetzungen für den Registereintrag nicht mehr erfüllen, werden im Register gelöscht. Ebenso erfolgt die Löschung auf Antrag der eingetragenen Person.
 
-#### Artikel 6
+#### Artikel 6 b
 
-**Veröffentlichung**
+**) Veröffentlichung**
 
-<sup>1</sup> Die Löschung des Registereintrages wird im Amtsblatt des Kantons Uri veröffentlicht.
+Die Löschung des Registereintrages wird im Amtsblatt des Kantons Uri veröffentlicht.
 
-## 4 Ergänzendes Recht
+**Ergänzendes Recht**
+
+### 4. Abschnitt:
 
 #### Artikel 7
 
-<sup>1</sup> Im Übrigen finden die Bestimmungen des BGFA (SR [935.61](https://db.clex.ch/link/Bund/935.61/de)) und der Anwaltsverordnung (AnV, RB [9.2321](https://rechtsbuch.ur.ch/data/9.2321/de)) sinngemäss Anwendung.
+Im Übrigen finden die Bestimmungen des BGFA<sup>6</sup> und der Anwaltsverordnung (AnV)<sup>7</sup> sinngemäss Anwendung.
 
-## 5 Schlussbestimmung
+**Schlussbestimmung**
+
+### 5. Abschnitt:
 
 #### Artikel 8
 
-<sup>1</sup> Dieses Reglement tritt am 1. Juli 2002 in Kraft.
+**Im Namen des Obergerichtes**
 
-AB 21.06.2002
+**Der Präsident: Rolf Dittli Die Gerichtsschreiberin: Bernadette Häfliger Berger**
+
+Dieses Reglement tritt am 1. Juli 2002 in Kraft.
