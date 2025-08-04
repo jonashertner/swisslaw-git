@@ -1,46 +1,58 @@
 ---
 canton: UR
 number: "2.2345"
-title: Verordnung über die Verwaltungsrechtspflege
+title: VERORDNUNG über die Verwaltungsrechtspflege
 short: VRPV
 language: de
 version: 2016-03-01
+corrected: 2025-08-05
 version_adopted: 2015-09-30
 adopted: 1994-03-23
 in_force: 1995-06-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/2.2345"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/641/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/63/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung über die Verwaltungsrechtspflege
+# VERORDNUNG über die Verwaltungsrechtspflege
 
-(VRPV)
+VERORDNUNG über die Verwaltungsrechtspflege (VRPV)
 
-Vom 23.03.1994 (Stand 01.03.2016)
+(vom 23. März 1994[^t-1]; Stand am 1. März 2016)
 
-Der Landrat des Kantons Uri,
-
-gestützt auf Artikel 103 Absatz 2 der Kantonsverfassung (RB [1.1101](https://rechtsbuch.ur.ch/data/1.1101/de)) und auf Artikel 7 und 60 Absatz 2 des Gesetzes über die Organisation der richterlichen Behörden (Gerichtsorganisationsgesetz, GOG, RB [2.3221](https://rechtsbuch.ur.ch/data/2.3221/de)),
+Der Landrat des Kantons Uri, gestützt auf Artikel 103 Absatz 2 der Kantonsverfassung[^t-2] und auf Artikel 7 und 60 Absatz 2 des Gesetzes vom 17. Mai 1992 über die Organisation der richterlichen Behörden (Gerichtsorganisationsgesetz, GOG)[^t-3],
 
 beschliesst:
 
-## 1 Geltungsbereich und Begriffe
+**GELTUNGSBEREICH UND BEGRIFFE**
 
-### 1.1 Geltungsbereich
+[^t-1]: AB vom 8. April 1994
+[^t-2]: RB 1.1101
+[^t-3]: RB 2.3221
+
+### 1. Kapitel:
+
+**Geltungsbereich**
+
+### 1. Abschnitt:
 
 #### Artikel 1
 
 <sup>1</sup> Diese Verordnung regelt:
 
-- a) das Verfahren vor den Verwaltungsbehörden des Kantons, der Gemeinden, der Korporationen, der übrigen öffentlich-rechtlichen Körperschaften und der öffentlich-rechtlichen Anstalten
-- b) das Verfahren vor Kommissionen, Privatpersonen und privaten Organisationen, soweit diese Verfügungen treffen
-- c) das Verfahren vor dem Obergericht als Verwaltungsgericht
+- a) das Verfahren vor den Verwaltungsbehörden des Kantons, der Gemeinden, der Korporationen, der übrigen öffentlich-rechtlichen Körperschaften und der öffentlich-rechtlichen Anstalten;
+
+- b) das Verfahren vor Kommissionen, Privatpersonen und privaten Organisationen, soweit diese Verfügungen treffen;
+
+- c) das Verfahren vor dem Obergericht als Verwaltungsgericht.
 
 <sup>2</sup> Vorbehalten bleiben abweichende Vorschriften des Bundes und des Kantons.
 
-### 1.2 Begriffe
+**Begriffe**
+
+### 2. Abschnitt:
 
 #### Artikel 2
 
@@ -48,7 +60,7 @@ beschliesst:
 
 <sup>1</sup> Alle Organe nach Artikel 1, die berechtigt sind, Verfügungen zu treffen, gelten als Behörde im Sinne dieser Verordnung.
 
-<sup>2</sup> Wo diese Verordnung für Personen die männliche Form wählt, gilt sie auch für weibliche Personen.
+2 Wo diese Verordnung für Personen die männliche Form wählt, gilt sie auch für weibliche Personen.
 
 #### Artikel 3
 
@@ -56,17 +68,19 @@ beschliesst:
 
 <sup>1</sup> Als Verfügung gelten instanzabschliessende, hoheitliche Anordnungen der Behörden im Einzelfall, die sich auf öffentliches Recht des Bundes, des Kantons, der Gemeinden, der Korporationen, der übrigen öffentlich-rechtlichen Körperschaften oder der öffentlich-rechtlichen Anstalten stützen und die:
 
-- a) Rechte und Pflichten bestimmter Personen begründen, ändern oder aufheben
-- b) die rechtlichen Verhältnisse bestimmter Personen feststellen
-- c) Begehren um Begründung, Änderung, Aufhebung oder Feststellung von Rechten und Pflichten bestimmter Personen abweisen, nicht darauf eintreten oder sie als durch Rückzug, Vergleich, Anerkennung oder Gegenstandslosigkeit erledigt erklären
+- a) Rechte und Pflichten bestimmter Personen begründen, ändern oder aufheben;
+
+- b) die rechtlichen Verhältnisse bestimmter Personen feststellen;
+
+- c) Begehren um Begründung, Änderung, Aufhebung oder Feststellung von Rechten und Pflichten bestimmter Personen abweisen, nicht darauf eintreten oder sie als durch Rückzug, Vergleich, Anerkennung oder Gegenstandslosigkeit erledigt erklären.
 
 <sup>2</sup> Als Verfügung gelten auch Vollstreckungs- und Zwischenverfügungen sowie das unrechtmässige Verweigern oder Verzögern einer Verfügung.
 
 <sup>3</sup> Entscheide und Urteile, die das Obergericht als Verwaltungsgericht fällt, sind den Verfügungen gleichgestellt.
 
-## 2 Allgemeine Verfahrensbestimmungen
+### 2. Kapitel: ALLGEMEINE VERFAHRENSBESTIMMUNGEN
 
-### 2.1 Zuständigkeit
+### 1. Abschnitt: Zuständigkeit
 
 #### Artikel 4
 
@@ -84,7 +98,9 @@ beschliesst:
 
 <sup>2</sup> Eingaben an eine unzuständige Behörde sind, unter Mitteilung an den Absender, von Amtes wegen an die zuständige Behörde weiterzuleiten.
 
-<sup>3</sup> Für die Einhaltung von Fristen ist in jedem Fall der Zeitpunkt der Einreichung massgebend, selbst wenn diese bei der unzuständigen Behörde erfolgte.
+<sup>3</sup> Für die Einhaltung von Fristen ist in jedem Fall der Zeitpunkt der Einreichung massgebend, selbst wenn diese bei der unzuständigen Behörde
+
+erfolgte.
 
 #### Artikel 6
 
@@ -94,21 +110,23 @@ beschliesst:
 
 <sup>2</sup> Zuständigkeitskonflikte zwischen Behörden sind in gegenseitigem Einvernehmen zu lösen. Kann keine Einigung erzielt werden, entscheidet die gemeinsame Aufsichtsbehörde.
 
-### 2.2 Ausstand
+### 2. Abschnitt: Ausstand
 
 #### Artikel 7
 
-<sup>1</sup> Das Gesetz über den Ausstand (RB [2.2321](https://rechtsbuch.ur.ch/data/2.2321/de)) bestimmt, wann ein Mitglied einer Behörde den Ausstand zu wahren hat.
+<sup>1</sup> Das Gesetz über den Ausstand[^7-1] bestimmt, wann ein Mitglied einer Behörde den Ausstand zu wahren hat.
 
 <sup>2</sup> Die Bestimmungen über den Ausstand gelten auch für den Gerichtsschreiber und den Sekretär einer Behörde.
 
-### 2.3 Verfahrensbeteiligte
+[^7-1]: RB 2.2321
+
+### 3. Abschnitt: Verfahrensbeteiligte
 
 #### Artikel 8
 
 **Beteiligte**
 
-<sup>1</sup> Am Verwaltungsverfahren und am Verwaltungsgerichtsverfahren können natürliche und juristische Personen sowie Personenverbindungen beteiligt sein, die durch die Verfügung berührt sind.
+Am Verwaltungsverfahren und am Verwaltungsgerichtsverfahren können natürliche und juristische Personen sowie Personenverbindungen beteiligt sein, die durch die Verfügung berührt sind.
 
 #### Artikel 9
 
@@ -124,21 +142,27 @@ beschliesst:
 
 <sup>1</sup> Die Beteiligten können sich vertreten lassen, soweit persönliches Handeln oder Erscheinen nicht erforderlich ist.
 
-<sup>2</sup> Im Verfahren vor Obergericht richtet sich die berufsmässige Parteivertretung nach der Anwaltsverordnung (RB [9.2321](https://rechtsbuch.ur.ch/data/9.2321/de)).
+2 Im Verfahren vor Obergericht richtet sich die berufsmässige Parteivertretung nach der Anwaltsverordnung[^10-1].[^10-2]
 
-<sup>2a</sup> Zudem ist zur berufsmässigen Vertretung in Steuer- und Sozialversicherungssachen berechtigt, wer sich über besondere Kenntnisse im betreffenden Sachgebiet, über die erforderlichen Kenntnisse des Prozessrechts und darüber ausweist, dass er oder sie die persönlichen Voraussetzungen nach Artikel 8 des Bundesgesetzes über die Freizügigkeit der Anwältinnen und Anwälte (SR [935.61](https://db.clex.ch/link/Bund/935.61/de)) sinngemäss erfüllt. Das Obergericht bestimmt das Nähere in einem Reglement (RB [2.2347](https://rechtsbuch.ur.ch/data/2.2347/de)).
+<sup>2a</sup> Zudem ist zur berufsmässigen Vertretung in Steuer- und Sozialversicherungssachen berechtigt, wer sich über besondere Kenntnisse im betreffenden Sachgebiet, über die erforderlichen Kenntnisse des Prozessrechts und darüber ausweist, dass er oder sie die persönlichen Voraussetzungen nach Artikel 8 des Bundesgesetzes über die Freizügigkeit der Anwältinnen und Anwälte[^10-3] sinngemäss erfüllt. Das Obergericht bestimmt das Nähere in einem Reglement[^10-4].[^10-5]
 
 <sup>3</sup> Auf Verlangen der Behörde hat sich der Vertreter durch eine schriftliche Vollmacht auszuweisen. Die Anwälte gelten als Inhaber einer Vollmacht der Partei, für die sie handeln.
 
-### 2.4 Verfahrensgrundsätze
+[^10-1]: RB 9.2321
+[^10-2]: Fassung gemäss LRB vom 13. Juni 2001, in Kraft gesetzt auf den 1. Juni 2002 (AB vom 22. Juni 2001).
+[^10-3]: SR 935.61
+[^10-4]: RB 2.2347
+[^10-5]: Eingefügt durch LRB vom 13. Juni 2001, in Kraft gesetzt auf den 1. Juni 2002 (AB vom 22. Juni 2001).
 
-### 2.4.1 Im Allgemeinen
+### 4. Abschnitt: Verfahrensgrundsätze
+
+### 1. Unterabschnitt: Im allgemeinen
 
 #### Artikel 11
 
 **Handeln von Amtes wegen**
 
-<sup>1</sup> Die Behörde handelt von Amtes wegen, es sei denn, eine besondere Vorschrift setze einen Antrag oder eine andere Handlung eines Beteiligten voraus.
+Die Behörde handelt von Amtes wegen, es sei denn, eine besondere Vorschrift setze einen Antrag oder eine andere Handlung eines Beteiligten voraus.
 
 #### Artikel 12
 
@@ -150,11 +174,13 @@ beschliesst:
 
 #### Artikel 13
 
-**Vorsorgliche Massnahmen und verfahrensleitende Anordnungen**
+**Vorsorgliche Massnahmen**
+
+und verfahrensleitende Anordnungen
 
 <sup>1</sup> Die Behörde kann zur Erhaltung des Zustandes oder zur Sicherung bedrohter rechtlicher Interessen vorsorgliche Massnahmen treffen. Bei Kollegialbehörden ist in dringenden Fällen der Vorsitzende hiezu ermächtigt.
 
-<sup>2</sup> Zu diesem Zweck und aus Gründen eines rationellen Verwaltungsablaufs kann sie auch verfahrensleitende Anordnungen treffen, wie Sistierung, Trennung und Vereinigung von Verfahren.
+2 Zu diesem Zweck und aus Gründen eines rationellen Verwaltungsablaufs kann sie auch verfahrensleitende Anordnungen treffen, wie Sistierung, Trennung und Vereinigung von Verfahren.
 
 #### Artikel 14
 
@@ -180,8 +206,9 @@ beschliesst:
 
 <sup>3</sup> Die Behörde braucht die Beteiligten nicht anzuhören:
 
-- a) bei Zwischenentscheiden, die nicht selbständig anfechtbar sind
-- b) wenn die Behörde den Begehren der Parteien voll entspricht
+- a) bei Zwischenentscheiden, die nicht selbständig anfechtbar sind;
+
+- b) wenn die Behörde den Begehren der Parteien voll entspricht.
 
 #### Artikel 16
 
@@ -189,19 +216,21 @@ beschliesst:
 
 <sup>1</sup> Die Beteiligten können beanspruchen, die Akten einzusehen, soweit nicht überwiegende öffentliche oder private Interessen entgegenstehen.
 
-<sup>2</sup> Verweigert die Behörde die Einsichtnahme, muss sie das in den Akten vermerken. Der wesentliche Inhalt des Aktenstücks, in das die Einsicht verweigert wird, muss soweit mitgeteilt werden, als das ohne Verletzung der zu schützenden Interessen möglich ist.
+<sup>2</sup> Verweigert die Behörde die Einsichtnahme, muss sie das in den Akten vermerken. Der wesentliche Inhalt des Aktenstücks, in das die Einsicht verweigert wird, muss soweit mitgeteilt werden, als das ohne Verletzung der
+
+zu schützenden Interessen möglich ist.
 
 #### Artikel 17
 
 **Neue Vorbringen**
 
-<sup>1</sup> Die Beteiligten können vor jeder Instanz bis zu deren Verfügung neue Begehren stellen und sich auf neue Tatsachen und Beweismittel berufen, soweit nicht besondere Vorschriften entgegenstehen.
+Die Beteiligten können vor jeder Instanz bis zu deren Verfügung neue Begehren stellen und sich auf neue Tatsachen und Beweismittel berufen, soweit nicht besondere Vorschriften entgegenstehen.
 
 #### Artikel 18
 
 **Entscheidgrundlagen**
 
-<sup>1</sup> Die Behörde verfügt aufgrund des Sachverhalts in freier Würdigung der Beweise. Soweit nichts anderes bestimmt ist, ist sie an die Begehren der Beteiligten nicht gebunden. Sie wendet das Recht von Amtes wegen an.
+Die Behörde verfügt aufgrund des Sachverhalts in freier Würdigung der Beweise. Soweit nichts anderes bestimmt ist, ist sie an die Begehren der Beteiligten nicht gebunden. Sie wendet das Recht von Amtes wegen an.
 
 #### Artikel 19
 
@@ -209,12 +238,17 @@ beschliesst:
 
 <sup>1</sup> Die Verfügung muss enthalten:
 
-- a) die Tatsachen, die Rechtssätze und die Gründe, auf die sie sich stützt
-- b) das Erkenntnis
-- c) die Kostenregelung
-- d) den Hinweis auf das zulässige ordentliche Rechtsmittel (Art, Frist und Instanz)
-- e) die Adressaten der Verfügung
-- f) das Versanddatum und die erforderlichen Unterschriften
+- a) die Tatsachen, die Rechtssätze und die Gründe, auf die sie sich stützt;
+
+- b) das Erkenntnis;
+
+- c) die Kostenregelung;
+
+- d) den Hinweis auf das zulässige ordentliche Rechtsmittel (Art, Frist und Instanz);
+
+- e) die Adressaten der Verfügung;
+
+- f) das Versanddatum und die erforderlichen Unterschriften.
 
 <sup>2</sup> Schriftliche Verfügungen sind als solche zu bezeichnen und mit dem vorgeschriebenen Inhalt zu versehen, auch wenn sie in Briefform gekleidet werden.
 
@@ -222,20 +256,25 @@ beschliesst:
 
 **Verzicht auf Begründung**
 
-<sup>1</sup> Soweit nichts anderes bestimmt ist, kann die Behörde ihre Verfügung ohne Begründung eröffnen, soweit:
+Soweit nichts anderes bestimmt ist, kann die Behörde ihre Verfügung ohne Begründung eröffnen, soweit:
 
-- a) den Begehren voll entsprochen wird und weder die Parteien noch betroffene Dritte eine Begründung verlangen
-- b) es sich um einen nicht selbständig anfechtbaren Zwischenentscheid handelt
+- a) den Begehren voll entsprochen wird und weder die Parteien noch betroffene Dritte eine Begründung verlangen;
+
+- b) es sich um einen nicht selbständig anfechtbaren Zwischenentscheid handelt.
 
 #### Artikel 21
 
-**Eröffnung: Grundsatz**
+**Eröffnung**
+
+- a) Grundsatz
 
 <sup>1</sup> Die Verfügung ist den Beteiligten und den betroffenen Dritten schriftlich zu eröffnen.
 
-<sup>2</sup> In dringlichen Fällen kann sie mündlich eröffnet werden. Sie ist unverzüglich schriftlich zu bestätigen.
+2 In dringlichen Fällen kann sie mündlich eröffnet werden. Sie ist unverzüg-
 
-<sup>3</sup> Die Rechtsmittelfrist läuft in jedem Fall von der schriftlichen Zustellung an.
+lich schriftlich zu bestätigen.
+
+3 Die Rechtsmittelfrist läuft in jedem Fall von der schriftlichen Zustellung an.
 
 <sup>4</sup> Eine Verfügung gilt auch dann als schriftlich zugestellt, wenn der Adressat die Zustellung verhindert.
 
@@ -243,34 +282,32 @@ beschliesst:
 
 <sup>6</sup> Kann die Verfügung nicht zugestellt werden oder richtet sie sich an einen unbestimmten Personenkreis, wird sie durch Veröffentlichung im Amtsblatt eröffnet.
 
-#### Artikel 22
+#### Artikel 22 b
 
-**Eröffnung: Einschränkung**
+**) Einschränkung**
 
-<sup>1</sup> Verfügungen, die eine Rechtsmittelfrist auslösen, sollen nicht eröffnet werden:
+Verfügungen, die eine Rechtsmittelfrist auslösen, sollen nicht eröffnet werden:
 
-- a) während acht Tagen vor und nach dem Ostersonntag
-- b) während der Zeit vom 18. Dezember bis und mit 6. Januar
+- a) während acht Tagen vor und nach dem Ostersonntag;
+
+- b) während der Zeit vom 18. Dezember bis und mit 6. Januar.
 
 #### Artikel 23
 
 **Ordnungsbusse**
 
-<sup>1</sup> Wer ein Verfahren mutwillig einleitet oder im Verfahren Sitte und Anstand verletzt, kann mit einer Ordnungsbusse bis zu 1'000 Franken bestraft werden. Zuständig ist die Behörde, bei der das Verfahren hängig ist.
+Wer ein Verfahren mutwillig einleitet oder im Verfahren Sitte und Anstand verletzt, kann mit einer Ordnungsbusse bis zu 1 000 Franken bestraft werden. Zuständig ist die Behörde, bei der das Verfahren hängig ist.
 
-#### Artikel 23a
+Artikel 23a[^23-1] Amtssprache Die Amtssprache ist Deutsch. Eingaben, Vernehmlassungen, Beweismittel und dergleichen sind in Deutsch oder deutsch übersetzt einzureichen.
 
-**Amtssprache**
+[^23-1]: Eingefügt durch LRB vom 31. März 2004, in Kraft gesetzt auf den 1. Juli 2004 (AB vom 16. April 2004).
 
-<sup>1</sup> Die Amtssprache ist Deutsch. Eingaben, Vernehmlassungen, Beweismittel und dergleichen sind in Deutsch oder deutsch übersetzt einzureichen.
+### 2. Unterabschnitt: Koordinationspflicht
 
-### 2.4.2 Koordinationspflicht
+Artikel 24[^h2UnterabschnittK-1] Grundsatz Die Grundsätze der Koordinationspflicht richten sich sinngemäss nach Artikel 25a des Bundesgesetzes über die Raumplanung[^h2UnterabschnittK-2].
 
-#### Artikel 24
-
-**Grundsatz**
-
-<sup>1</sup> Die Grundsätze der Koordinationspflicht richten sich sinngemäss nach Artikel 25a des Bundesgesetzes über die Raumplanung (SR [700](https://db.clex.ch/link/Bund/700/de)).
+[^h2UnterabschnittK-1]: Fassung gemäss LRB vom 30. September 2015, in Kraft gesetzt auf den 1. März 2016 (AB vom 9. Oktober 2015).
+[^h2UnterabschnittK-2]: SR 700
 
 #### Artikel 25
 
@@ -282,7 +319,11 @@ beschliesst:
 
 <sup>3</sup> Enthält das Reglement des Regierungsrates keine Bestimmung und einigen sich die betroffenen Behörden nicht, welches Verfahren als Leitverfahren gilt, entscheidet der Regierungsrat als einzige Instanz.
 
-### 2.4.3 Realakte
+[^25-1]: Eingefügt durch LRB vom 20. Februar 2008, in Kraft gesetzt auf den 1. September 2008 (AB vom 7. März 2008).
+
+### 3. Unterabschnitt: Realakte
+
+[^25-1]
 
 #### Artikel 25a
 
@@ -290,13 +331,19 @@ beschliesst:
 
 <sup>1</sup> Wer ein schutzwürdiges Interesse hat, kann von der Behörde, die für Handlungen zuständig ist, die sich auf öffentliches Recht stützen und Rechte oder Pflichten berühren, verlangen, dass sie:
 
-- a) widerrechtliche Handlungen unterlässt, einstellt oder widerruft
-- b) die Widerrechtlichkeit von Handlungen feststellt
-- c) die Folgen widerrechtlicher Handlungen beseitigt
+- a) widerrechtliche Handlungen unterlässt, einstellt oder widerruft;
+
+- b) die Widerrechtlichkeit von Handlungen feststellt;
+
+- c) die Folgen widerrechtlicher Handlungen beseitigt.
 
 <sup>2</sup> Die Behörde entscheidet durch Verfügung.
 
-### 2.4.4 Elektronische Übermittlung
+[^25a-1]: Eingefügt durch LRB vom 30. September 2015, in Kraft gesetzt auf den 1. März 2016 (AB vom 9. Oktober 2015).
+
+### 4. Unterabschnitt: Elektronische Übermittlung
+
+[^25a-1]
 
 #### Artikel 25b
 
@@ -306,21 +353,27 @@ beschliesst:
 
 <sup>2</sup> Eine elektronische Übermittlung hat über eine anerkannte Plattform für die sichere Zustellung zu erfolgen und ist mit einer anerkannten elektronischen Signatur zu versehen.
 
-<sup>3</sup> Soweit diese Verordnung nicht ausdrücklich etwas anderes bestimmt, sind die Vorschriften der Verordnung über die elektronische Übermittlung im Rahmen eines Verwaltungsverfahrens (SR [172.021.2](https://db.clex.ch/link/Bund/172.021.2/de)) sinngemäss anwendbar.
+<sup>3</sup> Soweit diese Verordnung nicht ausdrücklich etwas anderes bestimmt, sind die Vorschriften der Verordnung über die elektronische Übermittlung im Rahmen eines Verwaltungsverfahrens[^25b-1] sinngemäss anwendbar.
+
+[^25b-1]: SR 172.021.2
 
 #### Artikel 25c
 
 **Zustellplattform**
 
-<sup>1</sup> Als anerkannte Plattform für die sichere Zustellung gilt eine vom Bund, gestützt auf die Verordnung über die elektronische Übermittlung im Rahmen von Zivil- und Strafprozessen sowie von Schuldbetreibungs- und Konkursverfahren (SR [272.1](https://db.clex.ch/link/Bund/272.1/de)) anerkannte Plattform.
+<sup>1</sup> Als anerkannte Plattform für die sichere Zustellung gilt eine vom Bund, gestützt auf die Verordnung über die elektronische Übermittlung im Rahmen von Zivil- und Strafprozessen sowie von Schuldbetreibungs- und Konkursverfahren[^25c-1] anerkannte Plattform.
 
 <sup>2</sup> Der Regierungsrat kann weitere Zustellplattformen anerkennen.
+
+[^25c-1]: SR 272.1
 
 #### Artikel 25d
 
 **Elektronische Signatur**
 
-<sup>1</sup> Als anerkannte elektronische Signatur gilt eine qualifizierte Signatur, die auf einem qualifizierten Zertifikat einer anerkannten Anbieterin von Zertifizierungsdiensten gemäss dem Bundesgesetz über die elektronische Signatur (SR [943.03](https://db.clex.ch/link/Bund/943.03/de)) beruht.
+Als anerkannte elektronische Signatur gilt eine qualifizierte Signatur, die auf einem qualifizierten Zertifikat einer anerkannten Anbieterin von Zertifizierungsdiensten gemäss dem Bundesgesetz über die elektronische Signatur[^25d-1] beruht.
+
+[^25d-1]: SR 943.03
 
 #### Artikel 25e
 
@@ -338,7 +391,7 @@ beschliesst:
 
 <sup>2</sup> Die Zustimmung kann jederzeit widerrufen werden.
 
-### 2.5 Überprüfung durch die verfügende Behörde
+### 5. Abschnitt: Überprüfung durch die verfügende Behörde
 
 #### Artikel 26
 
@@ -346,11 +399,13 @@ beschliesst:
 
 <sup>1</sup> Die Beteiligten können die Behörde ersuchen, ihre Verfügung wiederzuerwägen.
 
-<sup>2</sup> Die Behörde ist nicht verpflichtet, auf das Wiedererwägungsgesuch einzutreten, ausser:
+2 Die Behörde ist nicht verpflichtet, auf das Wiedererwägungsgesuch einzutreten, ausser:
 
-- a) wenn der Gesuchsteller erhebliche Tatsachen oder Beweismittel vorbringt, die ihm in früheren Verfahren nicht bekannt waren oder die er trotz der erforderlichen Sorgfalt nicht kannte
-- b) wenn der Gesuchsteller in früheren Verfahren keine Veranlassung hatte, damals bekannte Tatsachen oder Beweismittel vorzubringen oder
-- c) wenn sich die Umstände seit der ersten Verfügung wesentlich geändert haben
+- a) wenn der Gesuchsteller erhebliche Tatsachen oder Beweismittel vorbringt, die ihm in früheren Verfahren nicht bekannt waren oder die er trotz der erforderlichen Sorgfalt nicht kannte;
+
+- b) wenn der Gesuchsteller in früheren Verfahren keine Veranlassung hatte, damals bekannte Tatsachen oder Beweismittel vorzubringen; oder
+
+- c) wenn sich die Umstände seit der ersten Verfügung wesentlich geändert haben.
 
 #### Artikel 27
 
@@ -358,9 +413,11 @@ beschliesst:
 
 <sup>1</sup> Die Behörde kann eine Verfügung, die sie getroffen hat, jederzeit ändern oder widerrufen:
 
-- a) wenn ein Beteiligter sie durch eine strafbare Handlung erwirkt hat
-- b) wenn überwiegende öffentliche Interessen es erfordern oder
-- c) wenn sich die Verhältnisse wesentlich geändert haben. Vorbehalten bleiben Verfügungen, die gemäss ausdrücklicher Vorschrift oder nach der Natur der Sache nicht geändert oder widerrufen werden können
+- a) wenn ein Beteiligter sie durch eine strafbare Handlung erwirkt hat;
+
+- b) wenn überwiegende öffentliche Interessen es erfordern, oder
+
+- c) wenn sich die Verhältnisse wesentlich geändert haben. Vorbehalten bleiben Verfügungen, die gemäss ausdrücklicher Vorschrift oder nach der Natur der Sache nicht geändert oder widerrufen werden können.
 
 <sup>2</sup> Ist eine Verfügung durch ein ordentliches Rechtsmittel angefochten, kann die verfügende Behörde diese in jedem Fall ändern oder widerrufen, bis die Rechtsmittelinstanz ihren Entscheid eröffnet hat.
 
@@ -376,15 +433,17 @@ beschliesst:
 
 <sup>4</sup> Die Behörde kann jederzeit Schreib- und Rechnungsfehler in einer Verfügung berichtigen. Sie hat das den Beteiligten sofort mitzuteilen.
 
-### 2.6 Fristen
+### 6. Abschnitt: Fristen
 
 #### Artikel 29
 
 **Berechnung und Fristwahrung**
 
-<sup>1</sup> Die Frist läuft vom gesetzlich festgelegten Zeitpunkt oder vom Datum der schriftlichen Zustellung an.
+<sup>1</sup> Die Frist läuft vom gesetzlich festgelegten Zeitpunkt oder vom Datum der
 
-<sup>2</sup> Der Tag, an dem die Verfügung eröffnet wird, zählt für die Fristberechnung nicht.
+schriftlichen Zustellung an.
+
+2 Der Tag, an dem die Verfügung eröffnet wird, zählt für die Fristberechnung nicht.
 
 <sup>3</sup> Fällt der letzte Tag der Frist auf einen Samstag, Sonntag oder staatlich anerkannten Feiertag, endigt die Frist am nächsten Werktag.
 
@@ -404,9 +463,9 @@ beschliesst:
 
 **Wiederherstellung**
 
-<sup>1</sup> Eine versäumte Frist kann wiederhergestellt werden, wenn der Gesuchsteller oder sein Vertreter unverschuldet abgehalten wurde, innert der Frist zu handeln, und wenn er innert zehn Tagen, seitdem das Hindernis weggefallen ist, ein begründetes Gesuch um Wiederherstellung einreicht.
+Eine versäumte Frist kann wiederhergestellt werden, wenn der Gesuchsteller oder sein Vertreter unverschuldet abgehalten wurde, innert der Frist zu handeln, und wenn er innert zehn Tagen, seitdem das Hindernis weggefallen ist, ein begründetes Gesuch um Wiederherstellung einreicht.
 
-### 2.7 Kosten und Parteientschädigung
+### 7. Abschnitt: Kosten und Parteientschädigung
 
 #### Artikel 32
 
@@ -420,18 +479,19 @@ beschliesst:
 
 #### Artikel 33
 
-**Amtliche Kosten: Grundsatz**
+**Amtliche Kosten**
 
-<sup>1</sup> Für Amtshandlungen der Behörden sind die vorgeschriebenen amtlichen Kosten zu ersetzen.
+- a) Grundsatz Für Amtshandlungen der Behörden sind die vorgeschriebenen amtlichen Kosten zu ersetzen.
 
-#### Artikel 34
+#### Artikel 34 b
 
-**Amtliche Kosten: Kostenpflicht**
+**) Kostenpflicht**
 
 <sup>1</sup> Die amtlichen Kosten trägt:
 
-- a) im erstinstanzlichen Verwaltungsverfahren der Beteiligte, der die Amtshandlung beantragt oder der sie durch sein Verhalten veranlasst hat
-- b) im Rechtsmittel- und im Klageverfahren der Beteiligte, der unterliegt oder auf dessen Rechtsmittel nicht eingetreten wird. Unterliegt er nur teilweise, wird ihm nur der entsprechende Teil der Kosten auferlegt
+- a) im erstinstanzlichen Verwaltungsverfahren der Beteiligte, der die Amtshandlung beantragt oder der sie durch sein Verhalten veranlasst hat;
+
+- b) im Rechtsmittel- und im Klageverfahren der Beteiligte, der unterliegt oder auf dessen Rechtsmittel nicht eingetreten wird. Unterliegt er nur teilweise, wird ihm nur der entsprechende Teil der Kosten auferlegt.
 
 <sup>2</sup> Mehrere Beteiligte tragen die ihnen gemeinsam auferlegten amtlichen Kosten zu gleichen Teilen solidarisch, sofern die Verfügung nichts anderes bestimmt.
 
@@ -439,9 +499,9 @@ beschliesst:
 
 <sup>4</sup> Sofern es die Umstände rechtfertigen, kann die Behörde darauf verzichten, den Beteiligten die amtlichen Kosten aufzuerlegen.
 
-#### Artikel 35
+#### Artikel 35 c
 
-**Amtliche Kosten: Kostenvorschuss**
+**) Kostenvorschuss**
 
 <sup>1</sup> Die Behörde kann von demjenigen, der eine Amtshandlung beantragt oder ein Verfahren einleitet, einen angemessenen Kostenvorschuss verlangen. Im verwaltungsinternen Verfahren darf ein Kostenvorschuss jedoch nur verlangt werden, wenn ein erheblicher Verwaltungsaufwand zu erwarten ist und die Bezahlung der amtlichen Kosten als gefährdet erscheint.
 
@@ -455,7 +515,7 @@ beschliesst:
 
 <sup>2</sup> Sofern die Umstände es erfordern, kann die Behörde einem Beteiligten einen für ihn unentgeltlichen, im Kanton praktizierenden Anwalt beigeben.
 
-<sup>3</sup> Gelangt die ehemals bedürftige Partei nachträglich in günstige wirtschaftliche Verhältnisse, hat sie die erlassenen amtlichen Kosten und die für sie übernommenen Anwaltskosten nachzuzahlen. Zuständig zur Nachforderung ist die Instanz, welche die unentgeltliche Rechtspflege bewilligt hat.
+3 Gelangt die ehemals bedürftige Partei nachträglich in günstige wirtschaftliche Verhältnisse, hat sie die erlassenen amtlichen Kosten und die für sie übernommenen Anwaltskosten nachzuzahlen. Zuständig zur Nachforderung ist die Instanz, welche die unentgeltliche Rechtspflege bewilligt hat.
 
 <sup>4</sup> Behörden und Amtsstellen sind verpflichtet, solche Änderungen der Vermögensverhältnisse, die sie kraft ihres Amtes erfahren, der für die Nachforderung zuständigen Instanz mitzuteilen. Diese hat den in Betracht fallenden Behörden und Amtsstellen mitzuteilen, welchen Personen zu welchem Zeitpunkt die unentgeltliche Rechtspflege gewährt worden ist.
 
@@ -475,9 +535,15 @@ beschliesst:
 
 **Ergänzende Vorschriften**
 
-<sup>1</sup> Im Übrigen gelten, namentlich für die Höhe der amtlichen Kosten und der Parteientschädigung, die Gebührenverordnung (RB [3.2512](https://rechtsbuch.ur.ch/data/3.2512/de)) und, sofern sich so nicht alle Rechtsfragen beantworten lassen, die Verordnung über die Gebühren und Entschädigungen vor Gerichtsbehörden (RB [2.3231](https://rechtsbuch.ur.ch/data/2.3231/de)).
+Im übrigen gelten, namentlich für die Höhe der amtlichen Kosten und der Parteientschädigung, die Gebührenverordnung[^38-1] und, sofern sich so nicht alle Rechtsfragen beantworten lassen, die Verordnung über die Gebühren und Entschädigungen vor Gerichtsbehörden[^38-2].
 
-### 2.8 Anzeigepflicht
+[^38-1]: RB 3.2512
+[^38-2]: RB 2.3231
+[^38-3]: Eingefügt durch LRB vom 30. Juni 2010, in Kraft gesetzt auf den 1. Januar 2011 (AB vom 16. Juli 2010).
+
+### 8. Abschnitt: Anzeigepflicht
+
+[^38-3]
 
 #### Artikel 38a
 
@@ -487,21 +553,21 @@ beschliesst:
 
 <sup>2</sup> Die Anzeigepflicht entfällt, wenn dem Pflichtigen ein Zeugnis- oder Aussageverweigerungsrecht zusteht.
 
-## 3 Rechtsmittelverfahren
+### 3. Kapitel: RECHTSMITTELVERFAHREN
 
-### 3.1 Einsprache
+### 1. Abschnitt: Einsprache
 
 #### Artikel 39
 
 **Begriff**
 
-<sup>1</sup> Die Einsprache verpflichtet die erstinstanzliche Behörde, ihre angefochtene Verfügung zu überprüfen und nochmals über die Sache zu entscheiden.
+Die Einsprache verpflichtet die erstinstanzliche Behörde, ihre angefochtene Verfügung zu überprüfen und nochmals über die Sache zu entscheiden.
 
 #### Artikel 40
 
 **Zulässigkeit**
 
-<sup>1</sup> Die Einsprache ist zulässig, wo die Rechtsordnung das vorsieht.
+Die Einsprache ist zulässig, wo die Rechtsordnung das vorsieht.
 
 #### Artikel 41
 
@@ -513,11 +579,9 @@ beschliesst:
 
 #### Artikel 42
 
-**Ergänzende Vorschriften**
+Ergänzende Vorschriften Im übrigen gelten die Bestimmungen über die Verwaltungsbeschwerde und die allgemeinen Verfahrensbestimmungen.
 
-<sup>1</sup> Im Übrigen gelten die Bestimmungen über die Verwaltungsbeschwerde und die allgemeinen Verfahrensbestimmungen.
-
-### 3.2 Verwaltungsbeschwerde
+### 2. Abschnitt: Verwaltungsbeschwerde
 
 #### Artikel 43
 
@@ -529,7 +593,9 @@ beschliesst:
 
 #### Artikel 44
 
-**Beschwerdeinstanz: im Allgemeinen**
+**Beschwerdeinstanz**
+
+- a) im allgemeinen
 
 <sup>1</sup> Beschwerden gegen Verfügungen letztinstanzlicher Gemeinde- und Korporationsbehörden sowie Beschwerden gegen Verfügungen anderer Behörden, die dem Regierungsrat mittelbar oder unmittelbar unterstellt sind, sind an den Regierungsrat zu richten.
 
@@ -537,13 +603,13 @@ beschliesst:
 
 <sup>3</sup> Vorbehalten bleiben abweichende Vorschriften des eidgenössischen und des kantonalen Rechts.
 
-#### Artikel 45
-
-**Beschwerdeinstanz: bei koordinierten Verfügungen**
+Artikel 45[^44-1] b) bei koordinierten Verfügungen
 
 <sup>1</sup> Eine Verfügung gilt als koordiniert, wenn sie den Grundsätzen der Koordination gemäss Artikel 24 entspricht.
 
 <sup>2</sup> Koordinierte Verfügungen sind direkt beim Regierungsrat anfechtbar. Er sorgt seinerseits für eine koordinierte Behandlung der angefochtenen Verfügungen.
+
+[^44-1]: Fassung gemäss LRB vom 30. September 2015, in Kraft gesetzt auf den 1. März 2016 (AB vom 9. Oktober 2015).
 
 #### Artikel 46
 
@@ -551,10 +617,11 @@ beschliesst:
 
 <sup>1</sup> Zur Verwaltungsbeschwerde ist berechtigt:
 
-- a) wer durch die angefochtene Verfügung berührt ist und ein schutzwürdiges Interesse an deren Aufhebung oder Änderung hat
-- b) jede andere Person, Organisation oder Behörde, die das eidgenössische oder kantonale Recht zur Beschwerde berechtigt
+- a) wer durch die angefochtene Verfügung berührt ist und ein schutzwürdiges Interesse an deren Aufhebung oder Änderung hat;
 
-<sup>2</sup> Bei koordinierten Verfügungen ist zur gesamtheitlichen Beschwerde befugt, wer die Voraussetzungen nach Absatz 1 auch bloss für eine oder einzelne der koordinierten Verfügungen erfüllt.
+- b) jede andere Person, Organisation oder Behörde, die das eidgenössische oder kantonale Recht zur Beschwerde berechtigt.
+
+2 Bei koordinierten Verfügungen ist zur gesamtheitlichen Beschwerde befugt, wer die Voraussetzungen nach Absatz 1 auch bloss für eine oder einzelne der koordinierten Verfügungen erfüllt.
 
 #### Artikel 47
 
@@ -594,7 +661,7 @@ beschliesst:
 
 **Beschwerdeverfahren**
 
-<sup>1</sup> Die zuständige Direktion[^Artikel51-1] leitet das Beschwerdeverfahren. Sie kann dem zuständigen Amt[^Artikel51-2] die Verfahrensleitung übertragen.
+<sup>1</sup> Die zuständige Direktion[^51-1] leitet das Beschwerdeverfahren. Sie kann dem zuständigen Amt[^51-2] die Verfahrensleitung übertragen.
 
 <sup>2</sup> Ist auf die Verwaltungsbeschwerde einzutreten und erweist sie sich nicht als offensichtlich unbegründet, werden die Akten der Vorinstanz beigezogen.
 
@@ -604,8 +671,8 @@ beschliesst:
 
 <sup>5</sup> Die Verfahrensleitung strebt in geeigneten Fällen eine gütliche Einigung an.
 
-[^Artikel51-1]: Justizdirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
-[^Artikel51-2]: Beschwerdedienst; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^51-1]: Justizdirektion; siehe Organisationsreglement (RB 2.3322).
+[^51-2]: Beschwerdedienst; siehe Organisationsreglement (RB 2.3322).
 
 #### Artikel 52
 
@@ -615,15 +682,15 @@ beschliesst:
 
 <sup>2</sup> Soweit sich aus der Natur der Streitsache nichts anderes ergibt, sind die tatsächlichen und rechtlichen Verhältnisse im Zeitpunkt des Beschwerdeentscheides massgebend.
 
-<sup>3</sup> Der Beschwerdeentscheid ist – unter Vorbehalt von Artikel 20 – zu begründen und dem Beschwerdeführer sowie weiteren betroffenen Beteiligten und der Vorinstanz schriftlich zu eröffnen.
+<sup>3</sup> Der Beschwerdeentscheid ist - unter Vorbehalt von Artikel 20 - zu begründen und dem Beschwerdeführer sowie weiteren betroffenen Beteiligten und der Vorinstanz schriftlich zu eröffnen.
 
 #### Artikel 53
 
 **Ergänzende Vorschriften**
 
-<sup>1</sup> Im Übrigen gelten die allgemeinen Verfahrensbestimmungen.
+Im übrigen gelten die allgemeinen Verfahrensbestimmungen.
 
-### 3.3 Verwaltungsgerichtsbeschwerde
+### 3. Abschnitt: Verwaltungsgerichtsbeschwerde
 
 #### Artikel 54
 
@@ -631,39 +698,44 @@ beschliesst:
 
 <sup>1</sup> Die Verwaltungsgerichtsbeschwerde ist die Beschwerde an das Obergericht gegen eine letztinstanzliche Verfügung einer Verwaltungsbehörde.
 
-<sup>2</sup> Sie ist zulässig:
+2 Sie ist zulässig:
 
-- a) gegen Verfügungen des Regierungsrates, soweit die Gesetzgebung den Weiterzug nicht ausschliesst oder anders regelt
-- b) gegen Verfügungen anderer Behörden, soweit die Gesetzgebung den Weiterzug an das Obergericht ausdrücklich vorsieht
+- a) gegen Verfügungen des Regierungsrates, soweit die Gesetzgebung den Weiterzug nicht ausschliesst oder anders regelt;
 
-#### Artikel 55
+- b) gegen Verfügungen anderer Behörden, soweit die Gesetzgebung den Weiterzug an das Obergericht ausdrücklich vorsieht.
 
-**Unzulässigkeit**
+Artikel 55[^54-1] Unzulässigkeit
 
 <sup>1</sup> Die Verwaltungsgerichtsbeschwerde ist unzulässig gegen:
 
-- a) Entscheide, die beim Bundesverwaltungsgericht angefochten werden können
-- b) Entscheide in eidgenössischen Stimmrechtsangelegenheiten
-- c) Akte des Regierungsrats in kantonalen Stimmrechtsangelegenheiten
-- d) den Erlass und die Genehmigung von nicht grundeigentümerverbindlichen Plänen
-- e) die Erteilung, Verweigerung oder Übertragung von Konzessionen, auf die die Rechtsordnung keinen Anspruch einräumt
-- f) die Erledigung von Aufsichtsbeschwerden
-- g) den Entscheid über Begnadigungsgesuche
-- h) Verfügungen, die die Gesetzgebung als endgültig erklärt
+- a) Entscheide, die beim Bundesverwaltungsgericht angefochten werden können;
+
+- b) Entscheide in eidgenössischen Stimmrechtsangelegenheiten;
+
+- c) Akte des Regierungsrats in kantonalen Stimmrechtsangelegenheiten;
+
+- d) den Erlass und die Genehmigung von nicht grundeigentümerverbindlichen Plänen;
+
+- e) die Erteilung, Verweigerung oder Übertragung von Konzessionen, auf die die Rechtsordnung keinen Anspruch einräumt;
+
+- f) die Erledigung von Aufsichtsbeschwerden;
+
+- g) den Entscheid über Begnadigungsgesuche;
+
+- h) Verfügungen, die die Gesetzgebung als endgültig erklärt.
 
 <sup>2</sup> Ist die Verwaltungsgerichtsbeschwerde in der Hauptsache unzulässig, so ist sie es auch gegen Zwischenentscheide sowie gegen damit verbundene Verfahrenskosten, Entschädigungen und Vollstreckungsverfügungen, soweit sich deren Rechtsbeeinträchtigung mit jener der Hauptsache deckt.
 
-#### Artikel 55a
+Artikel 55a[^54-2] Übergeordnetes Recht Die Verwaltungsgerichtsbeschwerde ist hingegen in jedem Fall zulässig, wenn übergeordnetes Recht eine gerichtliche Beurteilung durch eine kantonale Gerichtsinstanz verlangt.
 
-**Übergeordnetes Recht**
-
-<sup>1</sup> Die Verwaltungsgerichtsbeschwerde ist hingegen in jedem Fall zulässig, wenn übergeordnetes Recht eine gerichtliche Beurteilung durch eine kantonale Gerichtsinstanz verlangt.
+[^54-1]: Fassung gemäss LRB vom 20. Februar 2008, in Kraft gesetzt auf den 1. September 2008 (AB vom 7. März 2008).
+[^54-2]: Eingefügt durch LRB vom 20. Februar 2008, in Kraft gesetzt auf den 1. September 2008 (AB vom 7. März 2008).
 
 #### Artikel 56
 
 **Beschwerdeinstanz**
 
-<sup>1</sup> Die Verwaltungsgerichtsbeschwerde ist direkt beim Obergericht einzureichen.
+Die Verwaltungsgerichtsbeschwerde ist direkt beim Obergericht einzureichen.
 
 #### Artikel 57
 
@@ -673,10 +745,13 @@ beschliesst:
 
 <sup>2</sup> Als Rechtsverletzungen gelten insbesondere:
 
-- a) die unrichtige Anwendung und die Nichtanwendung eines Rechtssatzes oder eines allgemein anerkannten Rechtsgrundsatzes
-- b) die unrichtige rechtliche Beurteilung einer Tatsache
-- c) der Missbrauch oder die Überschreitung des Ermessens
-- d) die Verletzung wesentlicher Form- und Verfahrensvorschriften
+- a) die unrichtige Anwendung und die Nichtanwendung eines Rechtssatzes oder eines allgemein anerkannten Rechtsgrundsatzes;
+
+- b) die unrichtige rechtliche Beurteilung einer Tatsache;
+
+- c) der Missbrauch oder die Überschreitung des Ermessens;
+
+- d) die Verletzung wesentlicher Form- und Verfahrensvorschriften.
 
 <sup>3</sup> Mit der Verwaltungsgerichtsbeschwerde kann überdies jede unrichtige oder ungenügende Feststellung des rechtserheblichen Sachverhaltes angefochten werden.
 
@@ -686,7 +761,7 @@ beschliesst:
 
 **Neue Vorbringen**
 
-<sup>1</sup> Neue Begehren sind nicht zulässig. Hingegen können die Beteiligten neue tatsächliche Behauptungen vorbringen und neue Beweismittel vorlegen, wenn sie mit dem Streitgegenstand zusammenhangen und durch die angefochtene Verfügung notwendig geworden sind.
+Neue Begehren sind nicht zulässig. Hingegen können die Beteiligten neue tatsächliche Behauptungen vorbringen und neue Beweismittel vorlegen, wenn sie mit dem Streitgegenstand zusammenhangen und durch die angefochtene Verfügung notwendig geworden sind.
 
 #### Artikel 59
 
@@ -704,7 +779,7 @@ beschliesst:
 
 <sup>2</sup> Den Beteiligten ist Gelegenheit zu geben, sich zum Ergebnis des Beweisverfahrens zu äussern.
 
-<sup>3</sup> Alle Behörden und deren Verwaltungsstellen sind gegenüber dem Obergericht auskunftspflichtig.
+3 Alle Behörden und deren Verwaltungsstellen sind gegenüber dem Obergericht auskunftspflichtig.
 
 #### Artikel 61
 
@@ -726,19 +801,22 @@ beschliesst:
 
 <sup>4</sup> Soweit das gesetzlich vorgeschrieben ist oder ein öffentliches Interesse daran besteht, wird der Entscheid der Öffentlichkeit zugänglich gemacht.
 
-<sup>5</sup> Bei Entscheiden, die der Beschwerde an das Bundesgericht unterliegen, bestimmt sich der erforderliche Inhalt nach Artikel 112 Absatz 1 des Bundesgerichtsgesetzes (SR [173.110](https://db.clex.ch/link/Bund/173.110/de)).
+<sup>5</sup> Bei Entscheiden, die der Beschwerde an das Bundesgericht unterliegen, bestimmt sich der erforderliche Inhalt nach Artikel 112 Absatz 1 des Bundesgerichtsgesetzes.[^62-1][^62-2]
+
+[^62-1]: SR 173.110
+[^62-2]: Eingefügt durch LRB vom 20. Februar 2008, in Kraft gesetzt auf den 1. September 2008 (AB vom 7. März 2008).
 
 #### Artikel 63
 
 **Gerichtsferien**
 
-<sup>1</sup> Für das Verwaltungsgericht sind die Bestimmungen der Zivilprozessordnung über die Gerichtsferien sinngemäss anzuwenden.
+Für das Verwaltungsgericht sind die Bestimmungen der Zivilprozessordnung über die Gerichtsferien sinngemäss anzuwenden.
 
 #### Artikel 64
 
 **Ergänzende Vorschriften**
 
-<sup>1</sup> Im Übrigen gelten die Bestimmungen über die Verwaltungsbeschwerde und die allgemeinen Verfahrensbestimmungen.
+Im übrigen gelten die Bestimmungen über die Verwaltungsbeschwerde und die allgemeinen Verfahrensbestimmungen.
 
 #### Artikel 65
 
@@ -748,32 +826,39 @@ beschliesst:
 
 <sup>2</sup> Die Bestimmungen über die Verwaltungsgerichtsbeschwerde sind anzuwenden.
 
-## 4 Verwaltungsrechtliche Klage
+### 4. Kapitel: VERWALTUNGSRECHTLICHE KLAGE
 
 #### Artikel 66
 
 **Zulässigkeit**
 
-<sup>1</sup> Das Obergericht beurteilt als einzige Instanz folgende verwaltungsrechtliche Klagen:
+Das Obergericht beurteilt als einzige Instanz folgende verwaltungsrechtliche Klagen:
 
-- a) Streitigkeiten aus öffentlich-rechtlichen Verträgen
-- b) Streitigkeiten aus Konzessionen, namentlich solche zwischen der Konzessionsbehörde und dem Konzessionär, zwischen Konzessionären untereinander sowie zwischen Konzessionären und anderen Nutzungsberechtigten
-- c) vermögensrechtliche Streitigkeiten zwischen Privaten und Gemeinwesen oder zwischen Gemeinwesen unter sich, soweit sie sich auf öffentliches Recht stützen und die Gesetzgebung nicht eine andere Behörde als erste Instanz bezeichnet. Als Gemeinwesen gelten dabei alle Institutionen, die durch Behörden im Sinne dieser Verordnung vertreten sind
-- d) vermögensrechtliche Streitigkeiten aus einem dem öffentlichen Recht unterstellten Dienstverhältnis, einschliesslich Streitigkeiten über Ansprüche gegen eine öffentliche Personalversicherungskasse
-- e) Streitigkeiten aus dem Bundesrecht, namentlich aus dem Sozialversicherungsrecht, soweit für sie nach dem eidgenössischen oder kantonalen Recht der Klageweg vorgesehen ist
-- f) andere Streitigkeiten, für die die Gesetzgebung die verwaltungsrechtliche Klage vorsieht
+- a) Streitigkeiten aus öffentlich-rechtlichen Verträgen;
+
+- b) Streitigkeiten aus Konzessionen, namentlich solche zwischen der Konzessionsbehörde und dem Konzessionär, zwischen Konzessionären untereinander sowie zwischen Konzessionären und anderen Nutzungsberechtigten;
+
+- c) vermögensrechtliche Streitigkeiten zwischen Privaten und Gemeinwesen oder zwischen Gemeinwesen unter sich, soweit sie sich auf öffentliches Recht stützen und die Gesetzgebung nicht eine andere Behörde als erste Instanz bezeichnet. Als Gemeinwesen gelten dabei alle Institutionen, die durch Behörden im Sinne dieser Verordnung vertreten sind;
+
+- d) vermögensrechtliche Streitigkeiten aus einem dem öffentlichen Recht unterstellten Dienstverhältnis, einschliesslich Streitigkeiten über Ansprüche gegen eine öffentliche Personalversicherungskasse;
+
+- e) Streitigkeiten aus dem Bundesrecht, namentlich aus dem Sozialversicherungsrecht, soweit für sie nach dem eidgenössischen oder kantonalen Recht der Klageweg vorgesehen ist;
+
+- f) andere Streitigkeiten, für die die Gesetzgebung die verwaltungsrechtliche Klage vorsieht.
 
 #### Artikel 67
 
 **Unzulässigkeit**
 
-<sup>1</sup> Die Klage ist unzulässig, sofern die Einsprache, die Verwaltungsbeschwerde oder die Verwaltungsgerichtsbeschwerde nach dieser Verordnung zulässig ist.
+Die Klage ist unzulässig, sofern die Einsprache, die Verwaltungsbeschwerde oder die Verwaltungsgerichtsbeschwerde nach dieser Verordnung
+
+zulässig ist.
 
 #### Artikel 68
 
 **Prozessleitung**
 
-<sup>1</sup> Der Gerichtspräsident leitet den Prozess.
+Der Gerichtspräsident leitet den Prozess.
 
 #### Artikel 69
 
@@ -819,29 +904,31 @@ beschliesst:
 
 **Ergänzende Vorschriften**
 
-<sup>1</sup> Im Übrigen gelten die Vorschriften über die Verwaltungsgerichtsbeschwerde und die allgemeinen Verfahrensbestimmungen sinngemäss.
+Im übrigen gelten die Vorschriften über die Verwaltungsgerichtsbeschwerde und die allgemeinen Verfahrensbestimmungen sinngemäss.
 
-## 5 Besondere Rechtsmittel und Rechtsbehelfe
+### 5. Kapitel: BESONDERE RECHTSMITTEL UND RECHTSBEHELFE
 
-### 5.1 Revision
+### 1. Abschnitt: Revision
 
 #### Artikel 75
 
 **Begriff**
 
-<sup>1</sup> Die Revision bezweckt, einen formell rechtskräftigen Rechtsmittelentscheid aufzuheben und die Durchführung eines neuen Verwaltungsverfahrens zu veranlassen.
+Die Revision bezweckt, einen formell rechtskräftigen Rechtsmittelentscheid aufzuheben und die Durchführung eines neuen Verwaltungsverfahrens zu veranlassen.
 
 #### Artikel 76
 
-**Revisionsgründe: strafbare Handlung**
+**Revisionsgründe**
+
+- a) strafbare Handlung
 
 <sup>1</sup> Die Behörde zieht ihren rechtskräftigen Rechtsmittelentscheid auf Gesuch hin in Revision, wenn sich aus einem Strafverfahren ergibt, dass ein Verbrechen oder Vergehen den Entscheid beeinflusst hat.
 
 <sup>2</sup> Die Verurteilung des Täters ist zum Nachweis des Revisionsgrundes nicht erforderlich. Ist ein Strafverfahren nicht möglich, kann der Revisionsgrund auch anderweitig nachgewiesen werden.
 
-#### Artikel 77
+#### Artikel 77 b
 
-**Revisionsgründe: neue Tatsachen und Beweismittel**
+**) neue Tatsachen und Beweismittel**
 
 <sup>1</sup> Die Behörde zieht ihren rechtskräftigen Rechtsmittelentscheid auf Gesuch hin in Revision, wenn nachträglich neue erhebliche Tatsachen oder Beweismittel vorgebracht werden.
 
@@ -859,19 +946,19 @@ beschliesst:
 
 **Zuständige Instanz**
 
-<sup>1</sup> Über Revisionsbegehren entscheidet die Rechtsmittelbehörde, welche den angefochtenen Entscheid getroffen hat.
+Über Revisionsbegehren entscheidet die Rechtsmittelbehörde, welche den angefochtenen Entscheid getroffen hat.
 
 #### Artikel 80
 
 **Frist**
 
-<sup>1</sup> Das Revisionsgesuch ist innert neunzig Tagen seit der Entdeckung des Revisionsgrundes schriftlich einzureichen. Nach Ablauf von zehn Jahren seit der Eröffnung des angefochtenen Rechtsmittelentscheides kann die Revision nur noch verlangt werden, wenn eine strafbare Handlung als Revisionsgrund geltend gemacht wird.
+Das Revisionsgesuch ist innert neunzig Tagen seit der Entdeckung des Revisionsgrundes schriftlich einzureichen. Nach Ablauf von zehn Jahren seit der Eröffnung des angefochtenen Rechtsmittelentscheides kann die Revision nur noch verlangt werden, wenn eine strafbare Handlung als Revisionsgrund geltend gemacht wird.
 
 #### Artikel 81
 
 **Einstellung oder Aufschub des Vollzugs**
 
-<sup>1</sup> Die Revisionsbehörde kann den Vollzug der angefochtenen Verfügung einstellen oder aufschieben oder weitere vorsorgliche Massnahmen treffen. Das kann sie von einer Sicherheitsleistung des Gesuchstellers abhängig machen.
+Die Revisionsbehörde kann den Vollzug der angefochtenen Verfügung einstellen oder aufschieben oder weitere vorsorgliche Massnahmen treffen. Das kann sie von einer Sicherheitsleistung des Gesuchstellers abhängig machen.
 
 #### Artikel 82
 
@@ -881,15 +968,15 @@ beschliesst:
 
 <sup>2</sup> Sie kann die Sache zur neuen Verfügung an die Vorinstanz zurückweisen.
 
-### 5.2 Rechtsverweigerungs- und Rechtsverzögerungsbeschwerde
+### 2. Abschnitt: Rechtsverweigerungs- und Rechtsverzögerungsbeschwerde
 
 #### Artikel 83
 
 <sup>1</sup> Wird der Erlass einer Verfügung unrechtmässig verweigert oder verzögert, kann bei der vorgesetzten Behörde jederzeit Beschwerde geführt werden.
 
-<sup>2</sup> Die Vorschriften über die Verwaltungsbeschwerde und die allgemeinen Verfahrensbestimmungen sind sinngemäss anzuwenden.
+2 Die Vorschriften über die Verwaltungsbeschwerde und die allgemeinen Verfahrensbestimmungen sind sinngemäss anzuwenden.
 
-### 5.3 Aufsichtsbeschwerde
+### 3. Abschnitt: Aufsichtsbeschwerde
 
 #### Artikel 84
 
@@ -901,7 +988,7 @@ beschliesst:
 
 <sup>4</sup> Ist die Aufsichtsbeschwerde begründet, ergreift die Aufsichtsinstanz die erforderlichen Massnahmen.
 
-### 5.4 Staatsrechtliche Klage
+### 4. Abschnitt: Staatsrechtliche Klage
 
 #### Artikel 85
 
@@ -911,15 +998,13 @@ beschliesst:
 
 <sup>3</sup> Das Verfahren richtet sich sinngemäss nach den Bestimmungen über die verwaltungsrechtliche Klage.
 
-## 6 Vollstreckung und Verwaltungszwang
+### 6. Kapitel: VOLLSTRECKUNG UND VERWALTUNGSZWANG
 
-### 6.1 Vollstreckung
+### 1. Abschnitt: Vollstreckung
 
 #### Artikel 86
 
-**Voraussetzungen**
-
-<sup>1</sup> Verfügungen sind vollstreckbar, sobald kein ordentliches Rechtsmittel mehr zulässig ist oder wenn dem Rechtsmittel keine aufschiebende Wirkung zukommt oder wenn diese ihm entzogen ist.
+Voraussetzungen Verfügungen sind vollstreckbar, sobald kein ordentliches Rechtsmittel mehr zulässig ist oder wenn dem Rechtsmittel keine aufschiebende Wirkung zukommt oder wenn diese ihm entzogen ist.
 
 #### Artikel 87
 
@@ -933,15 +1018,17 @@ beschliesst:
 
 **Geldzahlungen, Sicherheitsleistungen**
 
-<sup>1</sup> Verfügungen, die zu einer Geldzahlung oder Sicherheitsleistung verpflichten, sind vollstreckbaren gerichtlichen Urteilen im Sinne des Bundesgesetzes über Schuldbetreibung und Konkurs (SR [281.1](https://db.clex.ch/link/Bund/281.1/de)) gleichgestellt.
+Verfügungen, die zu einer Geldzahlung oder Sicherheitsleistung verpflichten, sind vollstreckbaren gerichtlichen Urteilen im Sinne des Bundesgesetzes über Schuldbetreibung und Konkurs[^88-1] gleichgestellt.
+
+[^88-1]: SR 281.1
 
 #### Artikel 89
 
 **Urteile über verwaltungsrechtliche Klagen**
 
-<sup>1</sup> Urteile, die das Obergericht im verwaltungsrechtlichen Klageverfahren gefällt hat, werden nach den Bestimmungen der Zivilprozessordnung vollstreckt.
+Urteile, die das Obergericht im verwaltungsrechtlichen Klageverfahren gefällt hat, werden nach den Bestimmungen der Zivilprozessordnung vollstreckt.
 
-### 6.2 Verwaltungszwang
+### 2. Abschnitt: Verwaltungszwang
 
 #### Artikel 90
 
@@ -955,17 +1042,22 @@ beschliesst:
 
 #### Artikel 91
 
-**Strafe: Grundsatz**
+**Strafe**
+
+- a) Grundsatz
 
 <sup>1</sup> Neben der Ersatzvornahme und dem unmittelbaren Zwang kann die Behörde nach vorheriger Androhung die Strafe ausfällen, die der anzuwendende Erlass für den Fall des Ungehorsams vorsieht.
 
-<sup>2</sup> Enthält der angewendete Erlass keine Strafbestimmung, kann die Bestrafung mit Busse nach Artikel 292 des Schweizerischen Strafgesetzbuches (SR [311.0](https://db.clex.ch/link/Bund/311.0/de)) angedroht werden.
+2 Enthält der angewendete Erlass keine Strafbestimmung, kann die Bestrafung mit Busse[^91-1] nach Artikel 292 des Schweizerischen Strafgesetzbuches[^91-2] angedroht werden.
 
 <sup>3</sup> Bussen fallen demjenigen Gemeinwesen zu, dessen Organe die Strafverfügung getroffen haben. Wird die Strafverfügung angefochten und im Strafbefehls- oder im ordentlichen Strafverfahren ganz oder teilweise bestätigt, fällt die Busse dem Kanton zu.
 
-#### Artikel 92
+[^91-1]: Fassung gemäss LRB vom 14. Juni 1006, in Kraft gesetzt auf den 1. Januar 2007 (AB vom 7. Juli 2006).
+[^91-2]: SR 311.0
 
-**Strafe: Weiterzug**
+#### Artikel 92 b
+
+**) Weiterzug**
 
 <sup>1</sup> Strafverfügungen der Verwaltungsbehörden können innert zehn Tagen seit der Eröffnung schriftlich und begründet bei der Staatsanwaltschaft angefochten werden, soweit die Gesetzgebung nichts anderes bestimmt.
 
@@ -975,9 +1067,11 @@ beschliesst:
 
 <sup>4</sup> Alle Strafverfügungen von Verwaltungsbehörden, die nicht im Ordnungsbussenverfahren erledigt werden, sind auch der Staatsanwaltschaft zuzustellen. Diese kann anstelle der Strafverfügung einen Strafbefehl erlassen oder das ordentliche Strafverfahren einleiten. Beabsichtigt sie, das zu tun, hat sie diese Absicht der Verwaltungsbehörde, welche die Strafverfügung erlassen hat, und dem Betroffenen innert zehn Tagen mitzuteilen. Andernfalls erwächst die Strafverfügung in Rechtskraft.
 
-<sup>5</sup> Für die Umwandlung von Bussen, die von Verwaltungsbehörden ausgesprochen wurden, in eine Ersatzfreiheitsstrafe oder in gemeinnützige Arbeit ist die Staatsanwaltschaft zuständig.
+<sup>5</sup> Für die Umwandlung von Bussen, die von Verwaltungsbehörden ausgesprochen wurden, in eine Ersatzfreiheitsstrafe oder in gemeinnützige Arbeit ist die Staatsanwaltschaft zuständig.[^92b-1]
 
-## 7 Schluss- und Übergangsbestimmungen
+[^92b-1]: Fassung gemäss LRB vom 30. Juni 2010, in Kraft gesetzt auf den 1. Januar 2011 (AB vom 16. Juli 2010).
+
+### 7. Kapitel: SCHLUSS- UND ÜBERGANGSBESTIMMUNGEN
 
 #### Artikel 93
 
@@ -985,32 +1079,36 @@ beschliesst:
 
 <sup>1</sup> Jede Behörde beendet die Verfahren, die beim Inkrafttreten dieser Verordnung bei ihr hängig sind, nach den bisher geltenden Vorschriften.
 
-<sup>2</sup> Alle weiteren Verfahren in Verwaltungssachen sowie ein anschliessendes Rechtsmittelverfahren und die Vollstreckung richten sich nach dieser Verordnung.
+2 Alle weiteren Verfahren in Verwaltungssachen sowie ein anschliessendes Rechtsmittelverfahren und die Vollstreckung richten sich nach dieser Verordnung.
 
 #### Artikel 94
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Folgende Erlasse werden aufgehoben:
+Folgende Erlasse werden aufgehoben:
 
-- 1\. Gesetz vom 4. Mai 1851 über die Öffentlichkeit der Landrats- und Gerichtsverhandlungen
-- 2\. Verordnung vom 27. Februar 1964 betreffend Fristenlauf an Samstagen
-- 3\. Reglement vom 15. März 1993 zum Vollzug der Konvention zum Schutz der Menschenrechte und Grundfreiheiten (EMRK)
+- 1\. Gesetz vom 4. Mai 1851 über die Öffentlichkeit der Landrats- und Gerichtsverhandlungen,
+
+- 2\. Verordnung vom 27. Februar 1964 betreffend Fristenlauf an Samstagen,
+
+- 3\. Reglement vom 15. März 1993 zum Vollzug der Konvention zum Schutz der Menschenrechte und Grundfreiheiten (EMRK).
 
 #### Artikel 95
 
 **Änderung bisherigen Rechts**
 
-<sup>1</sup> Die Änderungen und Ergänzungen weiterer Erlasse finden sich im Anhang, der Bestandteil dieser Verordnung ist[^Artikel95-1].
+Die Änderungen und Ergänzungen weiterer Erlasse finden sich im Anhang, der Bestandteil dieser Verordnung ist.[^95-1]
 
-[^Artikel95-1]: Die Änderungen wurden in die entsprechenden Erlasse eingefügt.
+[^95-1]: Die Änderungen wurden in die entsprechenden Erlasse eingefügt.
 
 #### Artikel 96
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Verordnung untersteht dem fakultativen Referendum. Der Regierungsrat bestimmt, wann sie in Kraft tritt[^Artikel96-1]. Er kann sie schrittweise in Kraft setzen.
+Diese Verordnung untersteht dem fakultativen Referendum. Der Regierungsrat bestimmt, wann sie in Kraft tritt[^96-1]. Er kann sie schrittweise in Kraft setzen.
 
-[^Artikel96-1]: Vom Regierungsrat in Kraft gesetzt auf den 1. Juni 1995 (AB vom 12. Mai 1995).
+Im Namen des Landrates
 
-AB 08.04.1994
+Der Präsident: Otto Tresch Der Kanzleidirektor: Dr. Peter Huber
+
+[^96-1]: Vom Regierungsrat in Kraft gesetzt auf den 1. Juni 1995 (AB vom 12. Mai 1995).
