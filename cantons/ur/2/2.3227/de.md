@@ -1,27 +1,31 @@
 ---
 canton: UR
 number: "2.3227"
-title: Reglement über die Bildung der Spruchkörper der verwaltungsrechtlichen Abteilung des Obergerichts
+title: REGLEMENT über die Bildung der Spruchkörper der verwaltungsrechtlichen Abteilung des Obergerichts
 language: de
 version: 2020-01-01
+corrected: 2025-08-06
 version_adopted: 2019-11-27
 adopted: 2019-11-27
 in_force: 2020-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/2.3227"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/650/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/71/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über die Bildung der Spruchkörper der verwaltungsrechtlichen Abteilung des Obergerichts
+# REGLEMENT über die Bildung der Spruchkörper der verwaltungsrechtlichen Abteilung des Obergerichts
 
-Vom 27.11.2019 (Stand 01.01.2020)
+REGLEMENT über die Bildung der Spruchkörper der verwaltungsrechtlichen Abteilung des Obergerichts
 
-Das Obergericht des Kantons Uri,
+(vom 27. November 2019; Stand am 1. Januar 2020)
 
-gestützt auf Artikel 8c des Gesetzes vom 1. Juni 1995 über die Organisation der richterlichen Behörden (Gerichtsorganisationsgesetz, GOG, RB [2.3221](https://rechtsbuch.ur.ch/data/2.3221/de)),
+Das Obergericht des Kantons Uri, gestützt auf Artikel 8c des Gesetzes vom 1. Juni 1995 über die Organisation der richterlichen Behörden (Gerichtsorganisationsgesetz [GOG])[^t-1],
 
 beschliesst:
+
+[^t-1]: RB 2.3221
 
 #### Artikel 1
 
@@ -39,6 +43,8 @@ beschliesst:
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Reglement tritt am 1. Januar 2020 in Kraft.
+Dieses Reglement tritt am 1. Januar 2020 in Kraft.
 
-AB 20.12.2019
+Im Namen des Obergerichtes
+
+Der Präsident: Rolf Dittli Der Gerichtsschreiber: Matthias Jenal
