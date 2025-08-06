@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Teilrevision der Postverordnung (VPG)
 document: Vernehmlassungsvorlage
 language: de

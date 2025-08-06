@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Revisione parziale dell'Ordinanza sulla posta (OPO)"
 document: Progetto posto in consultazione
 language: it
