@@ -1,38 +1,42 @@
 ---
 canton: UR
 number: "2.4221"
-title: Verordnung über die Pensionskasse Uri
+title: VERORDNUNG über die Pensionskasse Uri
 short: "Pensionskassenverordnung, PKV"
 language: de
 version: 2019-01-01
+corrected: 2025-08-07
 version_adopted: 2018-09-05
 adopted: 2013-06-26
 in_force: 2014-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/2.4221"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/665/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/86/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung über die Pensionskasse Uri
+# VERORDNUNG über die Pensionskasse Uri
 
-(Pensionskassenverordnung, PKV)
+VERORDNUNG über die Pensionskasse Uri (Pensionskassenverordnung, PKV)
 
-Vom 26.06.2013 (Stand 01.01.2019)
+(vom 26. Juni 2013[^t-1]; Stand am 1. Januar 2019)
 
-Der Landrat des Kantons Uri,
-
-gestützt auf Artikel 50 Absatz 2 des Bundesgesetzes über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG, SR [831.40](https://db.clex.ch/link/Bund/831.40/de)) und Artikel 90 Absatz 2 der Kantonsverfassung (RB [1.1101](https://rechtsbuch.ur.ch/data/1.1101/de)),
+Der Landrat des Kantons Uri, gestützt auf Artikel 50 Absatz 2 des Bundesgesetzes über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG)[^t-2] und Artikel 90 Absatz 2 der Kantonsverfassung[^t-3],
 
 beschliesst:
 
-## 1 Allgemeine Bestimmungen
+[^t-1]: AB vom 5. Juli 2013
+[^t-2]: SR 831.40
+[^t-3]: RB 1.1101
+
+### 1. Abschnitt: Allgemeine Bestimmungen
 
 #### Artikel 1
 
 **Gegenstand**
 
-<sup>1</sup> Diese Verordnung regelt die Grundzüge der Organisation, den Versichertenkreis und die Finanzierung der Pensionskasse Uri (PK Uri).
+Diese Verordnung regelt die Grundzüge der Organisation, den Versichertenkreis und die Finanzierung der Pensionskasse Uri (PK Uri).
 
 #### Artikel 2
 
@@ -44,13 +48,13 @@ beschliesst:
 
 <sup>3</sup> Sie ist eine selbstständige Anstalt des kantonalen öffentlichen Rechts mit eigener Rechtspersönlichkeit mit Sitz in Altdorf.
 
-## 2 Organisation
+### 2. Abschnitt: Organisation
 
 #### Artikel 3
 
 **Organe**
 
-<sup>1</sup> Organe der PK Uri sind die Kassenkommission und die Kassenverwaltung.
+Organe der PK Uri sind die Kassenkommission und die Kassenverwaltung.
 
 #### Artikel 4
 
@@ -78,25 +82,27 @@ beschliesst:
 
 **Kassenverwaltung**
 
-<sup>1</sup> Zusammensetzung, Anstellung und Aufgaben der Kassenverwaltung regelt die Kassenkommission.
+Zusammensetzung, Anstellung und Aufgaben der Kassenverwaltung regelt die Kassenkommission.
 
 #### Artikel 7
 
 **Aufsicht**
 
-<sup>1</sup> Die für den Kanton Uri zuständige BVG-Aufsicht übt die Aufsicht im Sinne des BVG aus.
+Die für den Kanton Uri zuständige BVG-Aufsicht übt die Aufsicht im Sinne des BVG aus.
 
-## 3 Zugehörigkeit und versicherter Lohn
+### 3. Abschnitt: Zugehörigkeit und versicherter Lohn
 
 #### Artikel 8
 
 **Obligatorische Zugehörigkeit zur PK Uri**
 
-<sup>1</sup> Obligatorisch bei der PK Uri zu versichern sind die Behördenmitglieder und das Personal des Kantons Uri, der Einwohnergemeinden und der öffentlichen Schulen, soweit sie der obligatorischen Versicherungspflicht nach dem BVG unterstehen.
+<sup>1</sup> Obligatorisch bei der PK Uri zu versichern sind die Behördenmitglieder und das Personal des Kantons Uri, der Einwohnergemeinden und der öffentlichen Schulen, soweit sie der obligatorischen Versicherungspflicht nach dem BVG unterstehen.[^8-1]
 
 <sup>2</sup> Das Personal selbstständiger öffentlich-rechtlicher Anstalten des kantonalen Rechts ist obligatorisch zu versichern, soweit es die besondere Gesetzgebung vorsieht.
 
 <sup>3</sup> Für die Mitglieder des Regierungsrats regelt der Landrat das Nähere durch Verordnung.
+
+[^8-1]: Fassung gemäss LRB vom 5. September 2018, in Kraft gesetzt auf den 1. Januar 2019 (AB vom 14. September 2018).
 
 #### Artikel 9
 
@@ -104,19 +110,23 @@ beschliesst:
 
 <sup>1</sup> Die Kassenkommission kann mit weiteren Arbeitgebenden, die im öffentlichen Interesse tätig sind, einen Anschlussvertrag abschliessen.
 
-<sup>2</sup> Diese angeschlossenen Arbeitgebenden haben ihr gesamtes versicherungspflichtiges Personal bei der PK Uri zu versichern. Vorbehalten bleibt Absatz 3. Im Anschlussvertrag kann die für die Versicherungspflicht massgebende untere Einkommensgrenze herabgesetzt werden.
+<sup>2</sup> Diese angeschlossenen Arbeitgebenden haben ihr gesamtes versicherungspflichtiges Personal bei der PK Uri zu versichern. Vorbehalten bleibt Absatz 3. Im Anschlussvertrag kann die für die Versicherungspflicht massgebende untere Einkommensgrenze herabgesetzt werden.[^9-1]
 
 <sup>3</sup> Der Anschlussvertrag kann vorsehen, dass die oder der Arbeitgebende klar umschriebene Gruppen von Personal bei anderen Vorsorgeeinrichtungen versichert. Diese Gruppe muss im Anschlussvertrag definiert werden.
 
-<sup>4</sup> Die versicherten Personen bzw. Rentnerinnen und Rentner der angeschlossenen Arbeitgebenden haben die gleichen Rechte und Pflichten wie die versicherten Personen bzw. Rentnerinnen und Rentner der obligatorisch zur PK Uri zugehörenden Arbeitgebenden. Vorbehalten bleibt Artikel 10 Absatz 2.
+<sup>4</sup> Die versicherten Personen bzw. Rentnerinnen und Rentner der angeschlossenen Arbeitgebenden haben die gleichen Rechte und Pflichten wie die versicherten Personen bzw. Rentnerinnen und Rentner der obligatorisch zur PK Uri zugehörenden Arbeitgebenden. Vorbehalten bleibt Artikel 10 Absatz 2.[^9-2]
+
+[^9-1]: Fassung gemäss LRB vom 5. September 2018, in Kraft gesetzt auf den 1. Januar 2019 (AB vom 14. September 2018).
+[^9-2]: Fassung gemäss LRB vom 5. September 2018, in Kraft gesetzt auf den 1. Januar 2019 (AB vom 14. September 2018).
+[^9-3]: Fassung gemäss LRB vom 5. September 2018, in Kraft gesetzt auf den 1. Januar 2019
 
 #### Artikel 10
 
-**Versicherter Lohn und Koordinationsabzug**
+**Versicherter Lohn und Koordinationsabzug**[^9-3]
 
-<sup>1</sup> Der versicherte Lohn entspricht dem anrechenbaren Jahresverdienst nach dem Bundesgesetz über die Alters- und Hinterlassenenversicherung (AHVG, SR [831.10](https://db.clex.ch/link/Bund/831.10/de)), vermindert um einen von der Kassenkommission festgelegten Koordinationsabzug. Dieser Abzug entspricht mindestens 75 Prozent und höchstens 87.5 Prozent der maximalen AHV-Altersrente. Lohnbestandteile, die nur gelegentlich anfallen, werden nicht versichert.
+<sup>1</sup> Der versicherte Lohn entspricht dem anrechenbaren Jahresverdienst nach dem Bundesgesetz über die Alters- und Hinterlassenenversicherung (AHVG)[^10-1], vermindert um einen von der Kassenkommission festgelegten Koordinationsabzug. Dieser Abzug entspricht mindestens 75 Prozent und höchstens 87,5 Prozent der maximalen AHV-Altersrente. Lohnbestandteile, die nur gelegentlich anfallen, werden nicht versichert.
 
-<sup>2</sup> Die PK Uri kann mit Arbeitgebenden, die fakultativ oder durch deren besondere Gesetzgebung bei der PK Uri angeschlossen sind, vertraglich einen maximal zu versichernden Lohn vereinbaren. Dieser darf den zweifachen oberen Grenzbetrag nach Artikel 8 Absatz 1 BVG, vermindert um den Koordinationsabzug, nicht unterschreiten.
+2 Die PK Uri kann mit Arbeitgebenden, die fakultativ oder durch deren besondere Gesetzgebung bei der PK Uri angeschlossen sind, vertraglich einen maximal zu versichernden Lohn vereinbaren. Dieser darf den zweifachen oberen Grenzbetrag nach Artikel 8 Absatz 1 BVG, vermindert um den Koordinationsabzug, nicht unterschreiten.
 
 <sup>3</sup> Wird der bei der PK Uri anrechenbare Jahresverdienst durch eine Teilzeitarbeit erworben, vermindert sich der Koordinationsabzug. Der Koordinationsabzug wird im Verhältnis zum entsprechenden Beschäftigungsgrad festgesetzt.
 
@@ -124,66 +134,64 @@ beschliesst:
 
 <sup>5</sup> Entschädigung und Sitzgelder von Behördenmitgliedern werden nur versichert, wenn sie mindestens 40 Prozent der maximalen AHV-Rente betragen. Auf schriftliches Verlangen der zu versichernden Person kann von der Versicherungspflicht abgesehen werden, falls der Nachweis einer ausreichenden Vorsorgelösung oder Selbstständigkeit erbracht wird.
 
-## 4 Ordentliche Finanzierung
+[^10-1]: SR 831.10
+
+### 4. Abschnitt: Ordentliche Finanzierung
+
+[^h4AbschnittOrdent-1]: Fassung gemäss LRB vom 5. September 2018, in Kraft gesetzt auf den 1. Januar 2019
 
 #### Artikel 11
 
-**Ordentliche Beiträge/Basisplan**
+**Ordentliche Beiträge/Basisplan**[^h4AbschnittOrdent-1]
 
-<sup>1</sup> Arbeitgebende und versicherte Personen entrichten der PK Uri folgende Beiträge, die in Prozenten des versicherten Lohns angegeben sind:
+<sup>1</sup> Arbeitgebende und versicherte Personen entrichten der PK Uri folgende Beiträge, die in Prozenten des versicherten Lohns angegeben sind: Massgebendes Alter Versicherte Personen Arbeitgebende 18-24 0,8 25-31 6,8 32-41 8,8 42-48 11,3 49-51 11,3 52-62 12,8 63-65 10,8 66-70 6,8
 
-<table>
-<tr><th>Massgebendes Alter</th><th>Versicherte Personen</th><th>Arbeitgebende</th></tr>
-<tr><td>18–24</td><td>0.8</td><td>0.9</td></tr>
-<tr><td>25–31</td><td>6.8</td><td>7.1</td></tr>
-<tr><td>32–41</td><td>8.8</td><td>10.6</td></tr>
-<tr><td>42–48</td><td>11.3</td><td>14.9</td></tr>
-<tr><td>49–51</td><td>11.3</td><td>15.9</td></tr>
-<tr><td>52–62</td><td>12.8</td><td>18.9</td></tr>
-<tr><td>63–65</td><td>10.8</td><td>15.9</td></tr>
-<tr><td>66–70</td><td>6.8</td><td>7.1</td></tr>
-</table>
+**0,9 7,1 10,6 14,9 15,9 18,9 15,9 7,1**
 
 <sup>2</sup> Das massgebende Alter ergibt sich aus der Differenz zwischen dem laufenden Kalenderjahr und dem Geburtsjahr.
 
-<sup>3</sup> Die Arbeitgebenden leisten an die PK Uri zusätzlich Beiträge für Verwaltungskosten und nicht gedeckte Aufwendungen von maximal 0.5 Prozent des versicherten Lohns. Der Beitragssatz wird durch die Kassenkommission festgelegt.
+<sup>3</sup> Die Arbeitgebenden leisten an die PK Uri zusätzlich Beiträge für Verwaltungskosten und nicht gedeckte Aufwendungen von maximal 0,5 Prozent des versicherten Lohns. Der Beitragssatz wird durch die Kassenkommission festgelegt.
 
-<sup>4</sup> Die Kassenkommission bestimmt im Reglement über die PK Uri (PKR) für jede Altersgruppe, wie die Beiträge gemäss Absatz 1 aufzuteilen sind in:
+4 Die Kassenkommission bestimmt im Reglement über die PK Uri (PKR) für jede Altersgruppe, wie die Beiträge gemäss Absatz 1 aufzuteilen sind in:
 
 - a) Beiträge zur Finanzierung der Altersgutschriften (Beiträge für das Alter) und
-- b) Beiträge zur Finanzierung der Risikoleistungen
 
-#### Artikel 11a
+- b) Beiträge zur Finanzierung der Risikoleistungen.
 
-**Zusatzsparpläne**
+Artikel 11a[^11-1] Zusatzsparpläne
 
 <sup>1</sup> Versicherte Personen können zwischen Alter 32 und Alter 65 einen Zusatzsparplan, Plus1 oder Plus2, wählen. Sie entrichten der PK Uri folgende Beiträge, die in Prozenten des versicherten Lohns angegeben sind:
 
-<table>
-<tr><th>Massgebendes Alter</th><th>Sparplan Plus1</th><th>Sparplan Plus2</th></tr>
-<tr><td>32–41</td><td>1.0</td><td>—</td></tr>
-<tr><td>42–65</td><td>1.0</td><td>2.0</td></tr>
-</table>
+**Sparplan Plus2 — 2,0**
+
+Massgebendes Alter Sparplan Plus1 32–41 1,0 42–65 1,0
 
 <sup>2</sup> Die versicherte Person kann einmal pro Jahr den Sparplan wählen.
+
+[^11-1]: Eingefügt durch LRB vom 5. September 2018, in Kraft gesetzt auf den 1. Januar 2019 (AB vom 14. September 2018).
 
 #### Artikel 12
 
 **Anpassung der Beiträge**
 
-<sup>1</sup> Bei ungünstigem Risikoverlauf kann die Kassenkommission das Total der ordentlichen Beiträge um 0.2 Prozent des versicherten Lohns für Arbeitnehmende und um 0.3 Prozent des versicherten Lohns für Arbeitgebende erhöhen.
+<sup>1</sup> Bei ungünstigem Risikoverlauf kann die Kassenkommission das Total der ordentlichen Beiträge um 0,2 Prozent des versicherten Lohns für Arbeitnehmende und um 0,3 Prozent des versicherten Lohns für Arbeitgebende erhöhen.
 
 <sup>2</sup> Bei einer Senkung des Umwandlungssatzes kann die Kassenkommission die ordentlichen Beiträge ab dem massgebenden Alter 25 erhöhen. Die Erhöhung muss nicht in allen Altersklassen die gleiche sein, muss aber im Total zu Zusatzkosten für Arbeitnehmende und Arbeitgebende führen, welche über alle Versicherten der PK Uri grundsätzlich gleich hoch sind. Diese Kontrollrechnung wird an einem Stichtag gemacht, und die gesamten Mehrkosten werden dabei in Prozenten der Summe der versicherten Löhne der beitragspflichtigen Personen ab dem massgebenden Alter 25 ausgedrückt. Die so berechneten Kosten aller Erhöhungen dürfen, für Arbeitnehmende und Arbeitgebende zusammen, im Total 2 Prozent nicht übersteigen.
 
-<sup>3–4</sup> …
+<sup>3</sup> …[^12-1]
+
+<sup>4</sup> …[^12-2]
+
+[^12-1]: Aufgehoben durch LRB vom 5. September 2018, in Kraft gesetzt auf den 1. Januar 2019 (AB vom 14. September 2018).
+[^12-2]: Aufgehoben durch LRB vom 5. September 2018, in Kraft gesetzt auf den 1. Januar 2019
 
 #### Artikel 13
 
 **Freiwillige Überbrückungsrente**
 
-<sup>1</sup> Sieht die PK Uri bei vorzeitigem Altersrücktritt eine freiwillige Überbrückungsrente vor, tragen Arbeitgebende die vollen Kosten bis zu einer Höhe von höchstens 80 Prozent der maximalen, ungekürzten AHV-Altersrente der zwischen der Vollendung des 62. Altersjahrs und dem ordentlichen AHV-Rentenalter bezogenen freiwilligen Überbrückungsrente ihrer ehemaligen versicherten Personen.
+Sieht die PK Uri bei vorzeitigem Altersrücktritt eine freiwillige Überbrückungsrente vor, tragen Arbeitgebende die vollen Kosten bis zu einer Höhe von höchstens 80 Prozent der maximalen, ungekürzten AHV-Altersrente der zwischen der Vollendung des 62. Altersjahrs und dem ordentlichen AHV-Rentenalter bezogenen freiwilligen Überbrückungsrente ihrer ehemaligen versicherten Personen.
 
-## 5 Ausserordentliche Finanzierung / Sanierung
+### 5. Abschnitt: Ausserordentliche Finanzierung/Sanierung
 
 #### Artikel 14
 
@@ -193,10 +201,15 @@ beschliesst:
 
 <sup>2</sup> Es werden insgesamt folgende Sanierungsbeiträge auf den versicherten Löhnen ab dem massgebenden Alter 25 erhoben:
 
-- a) bei einem Deckungsgrad von 98 Prozent und höher: mindestens 3 Prozent, höchstens 4 Prozent
-- b) bei einem Deckungsgrad von 95 Prozent und höher: mindestens 4 Prozent, höchstens 5 Prozent
-- c) bei einem Deckungsgrad von 90 Prozent und höher: mindestens 5 Prozent, höchstens 7 Prozent
-- d) bei einem Deckungsgrad von unter 90 Prozent: 7 Prozent
+- a) bei einem Deckungsgrad mindestens 3 Prozent, von 98 Prozent und höher höchstens 4 Prozent;
+
+- b) bei einem Deckungsgrad mindestens 4 Prozent, von 95 Prozent und höher höchstens 5 Prozent;
+
+- c) bei einem Deckungsgrad mindestens 5 Prozent, von 90 Prozent und höher höchstens 7 Prozent;
+
+- d) bei einem Deckungsgrad 7 Prozent.
+
+von unter 90 Prozent
 
 <sup>3</sup> Die Sanierungsbeiträge gehen je zur Hälfte zulasten der Arbeitgebenden und der versicherten Personen.
 
@@ -206,7 +219,7 @@ beschliesst:
 
 <sup>1</sup> Werden Sanierungsbeiträge (Art. 14) erhoben, muss eine Minderverzinsung der Altersguthaben erfolgen. Eine Minderverzinsung bedeutet, dass der Zinssatz kleiner ist als der BVG-Mindestzinssatz.
 
-<sup>2</sup> Der Zinssenkungssatz (Reduktion unter den BVG-Mindestzinssatz) beträgt mindestens 0.25 Prozentpunkt und maximal 1 Prozentpunkt.
+<sup>2</sup> Der Zinssenkungssatz (Reduktion unter den BVG-Mindestzinssatz) beträgt mindestens 0,25 Prozentpunkt und maximal 1 Prozentpunkt.
 
 <sup>3</sup> Der Zinssenkungssatz darf nicht höher sein als der BVG-Mindestzinssatz.
 
@@ -216,7 +229,9 @@ beschliesst:
 
 <sup>1</sup> Erfolgt eine Minderverzinsung, erbringen die Arbeitgebenden in jedem Kalenderjahr der Minderverzinsung eine Sanierungsbeteiligung.
 
-<sup>2</sup> Die Beteiligung wird für jeden Arbeitgebenden separat ermittelt und entspricht dem Betrag, der sich ergibt, wenn die Summe der am 31. Dezember des Vorjahrs vorhandenen Freizügigkeitsleistungen der versicherten Personen des entsprechenden Arbeitgebenden mit dem Zinssenkungssatz (Art. 15) multipliziert wird.
+2 Die Beteiligung wird für jeden Arbeitgebenden separat ermittelt und entspricht dem Betrag, der sich ergibt, wenn die Summe der am 31.
+
+Dezember des Vorjahrs vorhandenen Freizügigkeitsleistungen der versicherten Personen des entsprechenden Arbeitgebenden mit dem Zinssenkungssatz (Art. 15) multipliziert wird.
 
 #### Artikel 17
 
@@ -228,13 +243,13 @@ beschliesst:
 
 <sup>3</sup> Sobald am 30. November ein mutmasslicher Deckungsgrad von 100 Prozent erreicht wird, sind die Sanierungsmassnahmen ab dem Folgejahr abzusetzen.
 
-## 6 Schlussbestimmungen
+### 6. Abschnitt: Schlussbestimmungen
 
 #### Artikel 18
 
 **Rechtspflege**
 
-<sup>1</sup> Streitigkeiten zwischen der PK Uri, Arbeitgebenden und Anspruchsberechtigten entscheidet das Obergericht im Verfahren der verwaltungsrechtlichen Klage gemäss der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)).
+<sup>1</sup> Streitigkeiten zwischen der PK Uri, Arbeitgebenden und Anspruchsberechtigten entscheidet das Obergericht im Verfahren der verwaltungsrechtlichen Klage gemäss der Verordnung über die Verwaltungsrechtspflege (VRPV)[^18-1].
 
 <sup>2</sup> Gerichtsstand ist der schweizerische Sitz oder Wohnsitz des Beklagten oder der Ort des Betriebs, bei dem die versicherte Person angestellt wurde.
 
@@ -242,17 +257,21 @@ beschliesst:
 
 <sup>4</sup> Vor Klageeinreichung kann die Kassenkommission um Vermittlung angerufen werden.
 
+[^18-1]: RB 2.2345
+
 #### Artikel 19
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Die Verordnung vom 20. Oktober 2010 über die Pensionskasse Uri (PKV) wird aufgehoben.
+Die Verordnung vom 20. Oktober 2010 über die Pensionskasse Uri (PKV)<sup>14</sup> wird aufgehoben.
 
 #### Artikel 20
 
-**Änderung bisherigen Rechts[^Artikel20-1]**
+**Änderung bisherigen Rechts**
 
-[^Artikel20-1]: Die Änderungen wurden in den entsprechenden Erlass eingefügt.
+…[^20-1]
+
+[^20-1]: Die Änderungen wurden in den entsprechenden Erlass eingefügt.
 
 #### Artikel 21
 
@@ -262,18 +281,22 @@ beschliesst:
 
 <sup>2</sup> Für die Ausrichtung von Teuerungszulagen gilt für alle Rentnerinnen und Rentner das neue Recht.
 
-#### Artikel 21a
-
-**Übergangsbestimmung zur Änderung der Pensionskassenverordnung vom 5. September 2018**
+Artikel 21a[^21-1] Übergangsbestimmung zur Änderung der Pensionskassenverordnung vom 5. September 2018
 
 <sup>1</sup> Für Ansprüche auf Versicherungsleistungen, die nach bisherigem Recht entstanden sind, gilt jenes Recht, unter dem der Anspruch entstanden ist.
 
 <sup>2</sup> Für die Ausrichtung von Teuerungszulagen gilt für alle Rentnerinnen und Rentner das neue Recht.
 
+[^21-1]: Eingefügt durch LRB vom 5. September 2018, in Kraft gesetzt auf den 1. Januar 2019
+
 #### Artikel 22
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Verordnung unterliegt dem fakultativen Referendum. Sie tritt am 1. Januar 2014 in Kraft.
+Diese Verordnung unterliegt dem fakultativen Referendum. Sie tritt am 1. Januar 2014 in Kraft.
 
-AB 05.07.2013
+Im Namen des Landrats
+
+Der Landratspräsident: Dr. Toni Moser Die Ratssekretärin: Kristin Arnold Thal-
+
+mann
