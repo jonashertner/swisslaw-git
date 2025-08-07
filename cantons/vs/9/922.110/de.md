@@ -4,12 +4,12 @@ number: "922.110"
 title: Beschluss über die Ausübung der Jagd im Wallis 2025-2026
 language: de
 version: 2025-07-01
-valid_until: 2026-06-30
+corrected: 2025-08-08
 version_adopted: 2025-08-06
 adopted: 2026-06-17
 in_force: 2026-07-01
 url: "https://lex.vs.ch/app/de/texts_of_law/922.110"
-pdf: "https://lex.vs.ch/api/de/versions/3505/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3500/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -349,7 +349,7 @@ beschliesst:[^ingress-1]
 
 - a) 1 Bock von 5,5 Jahren oder älter;
 - b) 1 nicht melke Geiss von 3,5 Jahren oder älter;
-- c) 1 geringer Bockjährling (mit Gewicht von 14kg oder weniger).
+- c) 1 geringer Jährling (männlich mit Gewicht von 14kg oder weniger / weiblich mit Gewicht von 13kg oder weniger).
 
 <sup>6</sup> In den Gämswildräumen 7.2, 7.3, 7.4, 10.4 und 10.5 darf der Jäger folgendes Wild erlegen:
 

@@ -4,12 +4,12 @@ number: "922.110"
 title: "Arrêté sur l'exercice de la chasse en Valais 2025-2026"
 language: fr
 version: 2025-07-01
-valid_until: 2026-06-30
+corrected: 2025-08-08
 version_adopted: 2025-08-06
 adopted: 2026-06-17
 in_force: 2026-07-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/922.110"
-pdf: "https://lex.vs.ch/api/fr/versions/3505/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3500/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -349,7 +349,7 @@ arrête:[^ingress-1]
 
 - a) 1 bouc de 5,5 ans ou plus;
 - b) 1 chèvre non-allaitante de 3,5 ans ou plus;
-- c) 1 éterle mâle chétif (d’un poids inférieur ou égal à 14kg).
+- c) 1 éterle chétif (mâle d’un poids inférieur ou égal à 14kg / femelle d’un poids inférieur ou égal à 13kg).
 
 <sup>6</sup> Dans les sous-unités de chamois 7.2, 7.3, 7.4, 10.4 et 10.5, le chasseur peut tirer le gibier suivant:
 
