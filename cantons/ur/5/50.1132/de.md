@@ -1,55 +1,65 @@
 ---
 canton: UR
 number: "50.1132"
-title: Massnahmen gegen die Landzerstückelung im Zusammenhang mit dem Nationalstrassenbau
+title: MASSNAHMEN gegen die Landzerstückelung im Zusammenhang mit dem Nationalstrassenbau
 language: de
 version: 1962-08-27
+corrected: 2025-08-08
 version_adopted: 1962-07-02
 adopted: 1962-07-02
 in_force: 1962-08-27
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/50.1132"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/670/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/44/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Massnahmen gegen die Landzerstückelung im Zusammenhang mit dem Nationalstrassenbau
+# MASSNAHMEN gegen die Landzerstückelung im Zusammenhang mit dem Nationalstrassenbau
 
-Vom 02.07.1962 (Stand 27.08.1962)
+MASSNAHMEN gegen die Landzerstückelung im Zusammenhang mit dem Nationalstrassenbau
 
-Der Regierungsrat des Kantons Uri,
+(vom 2. Juli 1962; Stand am 27. August 1962)
 
-gestützt auf Artikel 32, 40 und 61 des Bundesgesetzes über die Nationalstrassen vom 8. März 1960 sowie auf Grundlage von Artikel 6 der kantonalen Vollziehungsverordnung zum Bundesgesetz über die Nationalstrassen vom 27. April 1961,
+Der Regierungsrat des Kantons Uri, gestützt auf Artikel 32, 40 und 61 des Bundesgesetzes über die Nationalstrassen vom 8. März 1960 sowie auf Grundlage von Artikel 6 der kantonalen Vollziehungsverordnung zum Bundesgesetz über die Nationalstrassen vom 27. April 1961,
 
 beschliesst:
 
-## 1 Allgemeine Bestimmungen
+### I.Allgemeine Bestimmungen
 
 #### Artikel 1
 
 **Sachlicher Geltungsbereich und die einzelnen Massnahmen**
 
-<sup>1</sup> Soweit der Bau, die Verbreiterung oder Verlegung einer Nationalstrasse die Durchschneidung oder Trennung von Grundstücken bewirkt, stehen zur Abwendung der hieraus entstehenden Nachteile folgende Möglichkeiten offen:
+Soweit der Bau, die Verbreiterung oder Verlegung einer Nationalstrasse die Durchschneidung oder Trennung von Grundstücken bewirkt, stehen zur Abwendung der hieraus entstehenden Nachteile folgende Möglichkeiten offen:
 
-- a) die landwirtschaftliche Güterzusammenlegung
-- b) die Waldzusammenlegung
-- c) die Baulandumlegung
-- d) die Grenzregulierung
-- e) die Landzuweisung
+- a) die landwirtschaftliche Güterzusammenlegung;
 
-## 2 Bodenverbesserungen
+- b) die Waldzusammenlegung;
+
+- c) die Baulandumlegung;
+
+- d) die Grenzregulierung;
+
+- e) die Landzuweisung.
+
+### II.Bodenverbesserungen
 
 #### Artikel 2
 
-**Durchführungsbeschluss durch die beteiligten Grundeigentümer, Fristansetzung durch den Regierungsrat, Durchführungsbeschluss des Regierungsrates**
+**Durchführungsbeschluss durch die beteiligten Grundeigen-**
+
+tümer, Fristansetzung durch den Regierungsrat, Durchführungsbeschluss des Regierungsrates
 
 <sup>1</sup> Die Bodenverbesserungen können von der Mehrheit der beteiligten Grundeigentümer, die zugleich mehr als die Hälfte des beanspruchten Bodens besitzen, beschlossen werden.
 
-<sup>2</sup> Die an der Beschlussfassung nicht mitwirkenden Grundeigentümer gelten als zustimmend.
+<sup>2</sup> Die an der Beschlussfassung nicht mitwirkenden Grundeigentümer gelten
 
-<sup>3</sup> Der Regierungsrat kann den Grundeigentümern eine angemessene Frist ansetzen, innerhalb welcher sie über die Durchführung einer Güter- oder Waldzusammenlegung gemäss Artikel 703 des Zivilgesetzbuches zu beschliessen haben. Hierbei ist der Entscheid über die vom Strassenbau zu übernehmenden Kosten in der Zusammenlegung bekanntzugeben.
+als zustimmend.
 
-<sup>4</sup> Die für die Strassenanlagen und ‑verbesserungen notwendigen Bodenverbesserungen können sodann vom Regierungsrat selbst beschlossen werden.
+3 Der Regierungsrat kann den Grundeigentümern eine angemessene Frist ansetzen, innerhalb welcher sie über die Durchführung einer Güter- oder Waldzusammenlegung gemäss Artikel 703 des Zivilgesetzbuches zu beschliessen haben. Hierbei ist der Entscheid über die vom Strassenbau zu übernehmenden Kosten in der Zusammenlegung bekanntzugeben.
+
+<sup>4</sup> Die für die Strassenanlagen und -verbesserungen notwendigen Bodenverbesserungen können sodann vom Regierungsrat selbst beschlossen werden.
 
 #### Artikel 3
 
@@ -89,7 +99,7 @@ beschliesst:
 
 <sup>3</sup> Kommt an der Versammlung oder innert 14 Tagen nachher kein Beschluss zustande, setzt die Baudirektion die Statuten in Kraft und bestellt nach Anhören des Gemeinderates und der Landwirtschaftsdirektion die erforderlichen Organe. Die Verfügung ist allen Beteiligten zuzustellen.
 
-## 3 Die Grenzregulierung und die Landzuweisung
+### III.Die Grenzregulierung und die Landzuweisung
 
 #### Artikel 7
 
@@ -109,12 +119,14 @@ beschliesst:
 
 <sup>3</sup> Allfällige Einsprachen gegen den Entscheid der Baudirektion sind innert 10 Tagen an den Regierungsrat zu richten. Der Regierungsrat entscheidet endgültig.
 
+[^8-1]: vom Bundesrat genehmigt am 27. August 1962 (AB vom 20. September 1962)
+
 #### Artikel 9
 
-**Inkrafttreten**
+**Altdorf, den 2. Juli 1962**
 
-<sup>1</sup> Dieser Regierungsratsbeschluss tritt nach der Genehmigung durch den Bundesrat sofort in Kraft[^Artikel9-1].
+**Im Namen des Regierungsrates des Kantons Uri**
 
-[^Artikel9-1]: Vom Bundesrat genehmigt am 27. August 1962 (AB vom 20. September 1962).
+**Der Landesstatthalter: Hans Villiger Der Landschreiber: Hans Imholz**
 
--
+Inkrafttreten Dieser Regierungsratsbeschluss tritt nach der Genehmigung durch den Bundesrat sofort in Kraft[^8-1].
