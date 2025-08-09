@@ -1,32 +1,37 @@
 ---
 canton: UR
 number: "50.5111"
-title: Gesetz über die Förderung des öffentlichen Verkehrs
+title: GESETZ über die Förderung des öffentlichen Verkehrs
 short: Verkehrsgesetz
 language: de
 version: 2008-01-01
+corrected: 2025-08-10
 version_adopted: 2007-11-25
 adopted: 1996-09-22
 in_force: 1996-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/50.5111"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/691/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/190/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über die Förderung des öffentlichen Verkehrs
+# GESETZ über die Förderung des öffentlichen Verkehrs
 
-(Verkehrsgesetz)
+GESETZ über die Förderung des öffentlichen Verkehrs (Verkehrsgesetz)
 
-Vom 22.09.1996 (Stand 01.01.2008)
+(vom 22. September 1996[^t-1]; Stand am 1. Januar 2008)
 
-Das Volk des Kantons Uri,
-
-gestützt auf Artikel 24 und 90 der Kantonsverfassung (RB [1.1101](https://rechtsbuch.ur.ch/data/1.1101/de)), auf das Bundesgesetz über den Transport im öffentlichen Verkehr (TG, SR [742.40](https://db.clex.ch/link/Bund/742.40/de)) und auf das Eisenbahngesetz (EBG, SR [742.101](https://db.clex.ch/link/Bund/742.101/de)),
+Das Volk des Kantons Uri, gestützt auf Artikel 24 und 90 der Kantonsverfassung (KV)[^t-2], auf das Bundesgesetz über den Transport im öffentlichen Verkehr (TG)[^t-3] und auf das Eisenbahngesetz (EBG)[^t-4],
 
 beschliesst:
 
-## 1 Allgemeine Bestimmungen
+[^t-1]: AB vom 16. August 1996
+[^t-2]: RB 1.1101
+[^t-3]: SR 742.40
+[^t-4]: SR 742.101
+
+### 1. Abschnitt: Allgemeine Bestimmungen
 
 #### Artikel 1
 
@@ -34,10 +39,11 @@ beschliesst:
 
 <sup>1</sup> Das Gesetz bezweckt, den öffentlichen Verkehr im Rahmen einer ganzheitlichen Verkehrspolitik zu fördern.
 
-<sup>2</sup> Ziel des Gesetzes ist es namentlich:
+<sup>2</sup> Ziel des Gesetzes ist es namentlich,:
 
-- a) im Interesse einer vernünftigen Siedlungspolitik, einer volkswirtschaftlich angemessenen Entwicklung und einer guten Erschliessung eine Grundversorgung des ganzen Kantons zu schaffen und zu erhalten
-- b) den individuellen Personenverkehr und den Güterverkehr auf die öffentlichen Verkehrsmittel zu verlagern
+- a) im Interesse einer vernünftigen Siedlungspolitik, einer volkswirtschaftlich angemessenen Entwicklung und einer guten Erschliessung eine Grundversorgung des ganzen Kantons zu schaffen und zu erhalten;
+
+- b) den individuellen Personenverkehr und den Güterverkehr auf die öffentlichen Verkehrsmittel zu verlagern.
 
 #### Artikel 2
 
@@ -47,9 +53,11 @@ beschliesst:
 
 <sup>2</sup> Neben den Beiträgen und Abgeltungen nach diesem Gesetz können sie weitere Förderungsmassnahmen treffen. Namentlich können sie:
 
-- a) sich an Tarif- und Verkehrsverbunden beteiligen und diesen Beiträge gewähren
-- b) sich an Transportunternehmungen beteiligen, die im öffentlichen Regional- und Agglomerationsverkehr tätig sind
-- c) Beiträge gewähren an Infrastrukturanlagen des öffentlichen Güterverkehrs
+- a) sich an Tarif- und Verkehrsverbunden beteiligen und diesen Beiträge gewähren;
+
+- b) sich an Transportunternehmungen beteiligen, die im öffentlichen Regional- und Agglomerationsverkehr tätig sind;
+
+- c) Beiträge gewähren an Infrastrukturanlagen des öffentlichen Güterverkehrs.
 
 <sup>3</sup> Soweit dieses Gesetz nicht etwas anderes bestimmt, richtet sich die Finanzierung der Förderungsmassnahmen des Kantons nach den ordentlichen Finanzkompetenzen der Kantonsverfassung.
 
@@ -63,18 +71,21 @@ beschliesst:
 
 <sup>3</sup> Mit Abgeltungen gleichen der Kanton und die Gemeinden die laut Planrechnung ungedeckten Kosten der bestellten Angebote aus.
 
-<sup>4</sup> Der Regierungsrat kann Investitionshilfen und Abgeltungen im Rahmen von Programmvereinbarungen gewähren.
+<sup>4</sup> Der Regierungsrat kann Investitionshilfen und Abgeltungen im Rahmen von Programmvereinbarungen gewähren.[^3-1]
+
+[^3-1]: Eingefügt durch VA vom 25. November 2007, in Kraft gesetzt auf den 1. Januar 2008
 
 #### Artikel 4
 
 **Begriffe**
 
-<sup>1</sup> Als Transportunternehmung des öffentlichen Verkehrs im Sinne dieses Gesetzes gelten:
+Als Transportunternehmung des öffentlichen Verkehrs im Sinne dieses Gesetzes gelten:
 
-- a) die SBB, der Postautodienst und konzessionierte Transportunternehmungen, die der Bund im Interesse des öffentlichen Regionalverkehrs unterstützt
-- b) andere konzessionierte Transportunternehmungen, die für den Verkehr des Kantons oder einer Region von erheblicher Bedeutung sind
+- a) die SBB, der Postautodienst und konzessionierte Transportunternehmungen, die der Bund im Interesse des öffentlichen Regionalverkehrs unterstützt;
 
-## 2 Investitionsbeiträge
+- b) andere konzessionierte Transportunternehmungen, die für den Verkehr des Kantons oder einer Region von erheblicher Bedeutung sind.
+
+### 2. Abschnitt: Investitionsbeiträge
 
 #### Artikel 5
 
@@ -82,10 +93,11 @@ beschliesst:
 
 <sup>1</sup> Der Kanton kann Investitionsbeiträge leisten:
 
-- a) für technische Verbesserungen im Sinn von Artikel 56 und 95 EBG
-- b) für die Umstellung des Betriebs im Sinn von Artikel 57 EBG
+- a) für technische Verbesserungen im Sinn von Artikel 56 und 95 EBG;
 
-<sup>2</sup> Die Höhe solcher Investitionsbeiträge richtet sich nach Artikel 60 und 61 EBG.
+- b) für die Umstellung des Betriebs im Sinn von Artikel 57 EBG.
+
+2 Die Höhe solcher Investitionsbeiträge richtet sich nach Artikel 60 und 61 EBG.
 
 <sup>3</sup> Der Landrat befindet abschliessend über solche Investitionsbeiträge des Kantons.
 
@@ -95,7 +107,7 @@ beschliesst:
 
 <sup>1</sup> Der Kanton und die Gemeinden können einer Transportunternehmung des öffentlichen Verkehrs auch ohne Bundeshilfe Investitionsbeiträge leisten, wenn die vorgesehene Investition dieser Unternehmung für den Kanton oder die Region von erheblicher Bedeutung ist.
 
-<sup>2</sup> Der Investitionsbeitrag des Kantons bedingt einen Gemeindebeitrag, der den finanziellen Ressourcen und dem Nutzen dieser Gemeinde angemessen ist.
+<sup>2</sup> Der Investitionsbeitrag des Kantons bedingt einen Gemeindebeitrag, der den finanziellen Ressourcen und dem Nutzen dieser Gemeinde angemessen ist.[^6-1]
 
 <sup>3</sup> Sind mehrere Gemeinden an der unterstützten Transportunternehmung direkt interessiert, gelten diese Grundsätze für alle beteiligten Gemeinden.
 
@@ -103,34 +115,41 @@ beschliesst:
 
 <sup>5</sup> Investitionsbeiträge des Kantons können mit der Verpflichtung der begünstigten Transportunternehmung verbunden werden, sich zu tariflicher Zusammenarbeit zusammenzuschliessen.
 
+[^6-1]: Fassung gemäss VA vom 25. November 2007, in Kraft gesetzt auf den 1. Januar 2008
+
 #### Artikel 7
 
 **Beteiligung anderer Kantone**
 
-<sup>1</sup> Bedient eine Transportunternehmung nicht nur das Gebiet des Kantons Uri, wird der Investitionsbeitrag mit der Bedingung verknüpft, dass sich die mitbedienten Kantone ebenfalls anteilmässig beteiligen.
+Bedient eine Transportunternehmung nicht nur das Gebiet des Kantons Uri, wird der Investitionsbeitrag mit der Bedingung verknüpft, dass sich die mitbedienten Kantone ebenfalls anteilmässig beteiligen.
 
-## 3 Abgeltungen
+### 3. Abschnitt: Abgeltungen
 
-### 3.1 Abgeltungen mit Bundeshilfe
+### 1. Unterabschnitt: Abgeltungen mit Bundeshilfe
 
 #### Artikel 8
 
 **Angebotsvereinbarung**
 
-<sup>1</sup> Der Kanton und der Bund schliessen mit den Transportunternehmungen Angebotsvereinbarungen ab.
+1 Der Kanton und der Bund schliessen mit den Transportunternehmungen Angebotsvereinbarungen ab.
 
-<sup>2</sup> Diese Vereinbarungen bezeichnen die bestellten Leistungen, die die jeweilige Transportunternehmung im öffentlichen Regionalverkehr zu erbringen hat, und die Abgeltung, die Bund und Kanton hiefür leisten.
+2 Diese Vereinbarungen bezeichnen die bestellten Leistungen, die die jeweilige Transportunternehmung im öffentlichen Regionalverkehr zu erbringen hat, und die Abgeltung, die Bund und Kanton hiefür leisten.
 
-<sup>3</sup> Im Einvernehmen mit den direkt interessierten Gemeinden schliesst der Regierungsrat mit Transportunternehmungen Angebotsvereinbarungen für den Kanton ab. Er ist zuständig, die damit verbundenen Kantonsausgaben zu beschliessen. Die Bestimmungen über die Programmvereinbarungen sind anzuwenden.
+<sup>3</sup> Im Einvernehmen mit den direkt interessierten Gemeinden schliesst der Regierungsrat mit Transportunternehmungen Angebotsvereinbarungen für den Kanton ab. Er ist zuständig, die damit verbundenen Kantonsausgaben zu beschliessen. Die Bestimmungen über die Programmvereinbarungen sind anzuwenden.[^8-1]
 
 <sup>4</sup> Bei der Bestellung des Leistungsangebots sind zu berücksichtigen:
 
-- a) die Funktion der Linie, das Erschliessungspotential und die Siedlungsstruktur
-- b) die tatsächliche Benutzung der bestehenden Linie
-- c) die Wirtschaftlichkeit
-- d) die nachhaltige Wirkung auf die Umwelt
+- a) die Funktion der Linie, das Erschliessungspotential und die Siedlungsstruktur;
+
+- b) die tatsächliche Benutzung der bestehenden Linie;
+
+- c) die Wirtschaftlichkeit;
+
+- d) die nachhaltige Wirkung auf die Umwelt.
 
 <sup>5</sup> Der Regierungsrat hört vor der Bestellung weitere interessierte Kreise an.
+
+[^8-1]: Fassung gemäss VA vom 25. November 2007, in Kraft gesetzt auf den 1. Januar 2008 (AB vom 19. Oktober 2007).
 
 #### Artikel 9
 
@@ -140,29 +159,35 @@ beschliesst:
 
 <sup>2</sup> Die Abgeltungen entsprechen den ungedeckten Kosten für Betriebsleistungen aus dem bestellten Verkehrsangebot.
 
+[^9-1]: Fassung gemäss VA vom 25. November 2007, in Kraft gesetzt auf den 1. Januar 2008
+
 #### Artikel 10
 
-**Beteiligung der Gemeinden: Grundsatz**
+**Beteiligung der Gemeinden**[^9-1]
+
+- a) Grundsatz
 
 <sup>1</sup> Die direkt interessierten Gemeinden beteiligen sich an den Abgeltungen, die der Kanton nach Artikel 9 leistet. Der Landrat bestimmt die Höhe des Gemeindeanteils in einer Verordnung.
 
 <sup>2</sup> Die Aufteilung des Gemeindeanteils auf die einzelnen Gemeinden richtet sich nach dem Nutzen und dem Interesse der betroffenen Gemeinde an der bestellten Leistung. Er bemisst sich namentlich nach folgenden Kriterien:
 
-- a) Einwohnerzahl
-- b) Haltestellen
-- c) Arbeitsplätze
+- a) Einwohnerzahl;
 
-<sup>3</sup> Der Landrat regelt das Nähere in einer Verordnung.
+- b) Haltestellen;
 
-#### Artikel 11
+- c) Arbeitsplätze.
 
-**Beteiligung der Gemeinden: Verfahren**
+3 Der Landrat regelt das Nähere in einer Verordnung.
+
+#### Artikel 11 b
+
+**) Verfahren**
 
 <sup>1</sup> Der Kanton bevorschusst den Anteil der Gemeinde.
 
 <sup>2</sup> Der Regierungsrat bezeichnet die direkt interessierten Gemeinden und setzt deren Anteile fest. Sein Entscheid ist endgültig.
 
-### 3.2 Abgeltungen ohne Bundeshilfe
+### 2. Unterabschnitt: Abgeltungen ohne Bundeshilfe
 
 #### Artikel 12
 
@@ -172,18 +197,20 @@ beschliesst:
 
 <sup>3</sup> Im übrigen gelten die Bestimmungen für die Abgeltungen mit Bundeshilfe sinngemäss.
 
-## 4 Schlussbestimmungen
+### 4. Abschnitt: Schlussbestimmungen
 
 #### Artikel 13
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Das Gesetz über die Förderung des öffentlichen Verkehrs vom 1. Mai 1988 wird aufgehoben.
+Das Gesetz über die Förderung des öffentlichen Verkehrs vom 1. Mai 1988<sup>9</sup> wird aufgehoben.
 
 #### Artikel 14
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Gesetz unterliegt der Volksabstimmung. Es tritt rückwirkend auf den 1. Januar 1996 in Kraft.
+Dieses Gesetz unterliegt der Volksabstimmung. Es tritt rückwirkend auf den 1. Januar 1996 in Kraft.
 
-AB 16.08.1996
+Im Namen des Volkes
+
+Der Landammann: Dr. Hansruedi Stadler Der Kanzleidirektor: Dr. Peter Huber
