@@ -1,27 +1,31 @@
 ---
 canton: UR
 number: "40.7511"
-title: Interkantonale Vereinbarung über die Gründung einer interkantonalen Umweltagentur
+title: INTERKANTONALE VEREINBARUNG über die Gründung einer interkantonalen Umweltagentur
 language: de
 version: 2004-01-01
+corrected: 2025-08-10
 version_adopted: 2003-06-01
 adopted: 2003-06-01
 in_force: 2004-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.7511"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/696/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/316/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Interkantonale Vereinbarung über die Gründung einer interkantonalen Umweltagentur
+# INTERKANTONALE VEREINBARUNG über die Gründung einer interkantonalen Umweltagentur
 
-Vom 01.06.2003 (Stand 01.01.2004)
+INTERKANTONALE VEREINBARUNG über die Gründung einer interkantonalen Umweltagentur
 
-Die Kantone Luzern, Uri, Schwyz, Obwalden, Nidwalden und Zug,
+(vom 1. Juni 2003[^t-1]; Stand am 1. Januar 2004)
 
-vereinbaren:
+Die Kantone Luzern, Uri, Schwyz, Obwalden, Nidwalden und Zug vereinbaren:
 
-## 1 Allgemeine Bestimmungen
+[^t-1]: Beitritt des Kantons Uri durch LRB vom 24. September 2003, in Kraft gesetzt auf den 1. Januar 2004 (AB vom 10. Oktober 2003).
+
+### 1. Abschnitt: Allgemeine Bestimmungen
 
 #### Artikel 1
 
@@ -41,21 +45,23 @@ vereinbaren:
 
 <sup>3</sup> In diesem Rahmen hat die Unternehmung insbesondere Dienstleistungen anzubieten, die es den Vereinbarungskantonen ermöglichen:
 
-- a) den Stand und die Entwicklung der Luftverunreinigung auf dem Gebiet der Vereinbarungskantone zu überwachen
-- b) das Ausmass der Luftimmissionen zu ermitteln
-- c) die Öffentlichkeit sachgerecht darüber zu informieren
+- a) den Stand und die Entwicklung der Luftverunreinigung auf dem Gebiet der Vereinbarungskantone zu überwachen;
+
+- b) das Ausmass der Luftimmissionen zu ermitteln;
+
+- c) die Öffentlichkeit sachgerecht darüber zu informieren.
 
 #### Artikel 3
 
 **Rechtsform und Handelsregistereintrag**
 
-<sup>1</sup> Die Unternehmung ist eine Aktiengesellschaft nach Artikel 762 des Schweizerischen Obligationenrechts (OR, SR [220](https://db.clex.ch/link/Bund/220/de)).
+<sup>1</sup> Die Unternehmung ist eine Aktiengesellschaft nach Artikel 762 des Schweizerischen Obligationenrechts (OR; SR 220).
 
-<sup>2</sup> Ihre Organisation richtet sich nach den folgenden Bestimmungen, nach den Statuten und den aktienrechtlichen Vorschriften.
+2 Ihre Organisation richtet sich nach den folgenden Bestimmungen, nach den Statuten und den aktienrechtlichen Vorschriften.
 
 <sup>3</sup> Die Unternehmung wird unter der in den Statuten aufgeführten Firma ins Handelsregister des Sitzkantons eingetragen. Der Sitz befindet sich in einem Vereinbarungskanton.
 
-## 2 Organisatorische Bestimmungen
+### 2. Abschnitt: Organisatorische Bestimmungen
 
 #### Artikel 4
 
@@ -73,9 +79,9 @@ vereinbaren:
 
 **Geschäftsleitung**
 
-<sup>1</sup> Die Geschäftsleitung besorgt die Geschäftsführung der Unternehmung nach Massgabe des Organisationsreglements und den Vorgaben des Verwaltungsrates.
+Die Geschäftsleitung besorgt die Geschäftsführung der Unternehmung nach Massgabe des Organisationsreglements und den Vorgaben des Verwaltungsrates.
 
-## 3 Errichtung der Unternehmung
+### 3. Abschnitt: Errichtung der Unternehmung
 
 #### Artikel 6
 
@@ -83,7 +89,7 @@ vereinbaren:
 
 <sup>1</sup> Die Konferenz der Umweltschutzdirektoren als Vertreterin der Vereinbarungskantone beschliesst in der Gründerversammlung im Rahmen dieser Vereinbarung die Gründungserklärung und die ersten Statuten. Sie wählt den ersten Verwaltungsrat und die erste Revisionsstelle.
 
-<sup>2</sup> Die Mitglieder, deren Kanton der vorliegenden Vereinbarung nicht beigetreten ist, sind nicht stimmberechtigt.
+2 Die Mitglieder, deren Kanton der vorliegenden Vereinbarung nicht beigetreten ist, sind nicht stimmberechtigt.
 
 #### Artikel 7
 
@@ -109,7 +115,7 @@ vereinbaren:
 
 <sup>1</sup> Natürliche und juristische Personen sind als Aktionäre zugelassen.
 
-<sup>2</sup> Die Vereinbarungskantone und allenfalls später beitretende Kantone müssen gemeinsam mindestens 51 Prozent des Aktienkapitals in ihrem Besitz behalten. Will ein Vereinbarungskanton seine Aktien ganz oder teilweise verkaufen, hat er das den übrigen Vereinbarungskantonen mitzuteilen. Diesen steht ein Vorkaufsrecht zu. Artikel 17 Absatz 3 bleibt vorbehalten.
+2 Die Vereinbarungskantone und allenfalls später beitretende Kantone müssen gemeinsam mindestens 51 Prozent des Aktienkapitals in ihrem Besitz behalten. Will ein Vereinbarungskanton seine Aktien ganz oder teilweise verkaufen, hat er das den übrigen Vereinbarungskantonen mitzuteilen. Diesen steht ein Vorkaufsrecht zu. Artikel 17 Absatz 3 bleibt vorbehalten.
 
 <sup>3</sup> Der Verwaltungsrat darf die Aktien im Eigentum der Unternehmung nicht unter einem Wert abtreten, den die Revisionsstelle festlegt.
 
@@ -119,9 +125,9 @@ vereinbaren:
 
 **Gründungskosten**
 
-<sup>1</sup> Sämtliche mit der Gründung der Unternehmung in Verbindung stehenden Kosten trägt die Unternehmung.
+Sämtliche mit der Gründung der Unternehmung in Verbindung stehenden Kosten trägt die Unternehmung.
 
-## 4 Leistungsauftrag
+### 4. Abschnitt: Leistungsauftrag
 
 #### Artikel 11
 
@@ -147,13 +153,11 @@ vereinbaren:
 
 <sup>3</sup> Der Basisleistungsauftrag darf dadurch nicht beeinträchtigt werden.
 
-## 5 Steuereinnahmen und Arbeitsvergaben
+### 5. Abschnitt: Steuereinnahmen und Arbeitsvergaben
 
 #### Artikel 13
 
-**Aufteilung der Steuereinnahmen**
-
-<sup>1</sup> Die Kantonssteuern, die der Sitzkanton von der Unternehmung einnimmt, werden je zur Hälfte paritätisch und proportional zur Bevölkerungszahl auf alle Vereinbarungskantone verteilt.
+Aufteilung der Steuereinnahmen Die Kantonssteuern, die der Sitzkanton von der Unternehmung einnimmt, werden je zur Hälfte paritätisch und proportional zur Bevölkerungszahl auf alle Vereinbarungskantone verteilt.
 
 #### Artikel 14
 
@@ -161,9 +165,9 @@ vereinbaren:
 
 <sup>1</sup> Arbeitsvergaben der Unternehmung erfolgen nach den Vorschriften, die im Sitzkanton für das öffentliche Beschaffungswesen gelten.
 
-<sup>2</sup> Verfügende Instanz ist der Verwaltungsrat der Unternehmung. Er kann diese Befugnis für kleinere Beschaffungen im Organisationsreglement der Geschäftsleitung delegieren.
+2 Verfügende Instanz ist der Verwaltungsrat der Unternehmung. Er kann diese Befugnis für kleinere Beschaffungen im Organisationsreglement der Geschäftsleitung delegieren.
 
-## 6 Beitritt, Dauer und Austritt
+### 6. Abschnitt: Beitritt, Dauer und Austritt
 
 #### Artikel 15
 
@@ -197,7 +201,7 @@ vereinbaren:
 
 <sup>3</sup> Die Unternehmung und in zweiter Linie die übrigen Vereinbarungskantone haben ein Vorkaufsrecht zum Erwerb der Aktien eines austretenden Vereinbarungskantons.
 
-## 7 Schlussbestimmungen
+### 7. Abschnitt: Schlussbestimmungen
 
 #### Artikel 18
 
@@ -217,11 +221,9 @@ vereinbaren:
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Vereinbarung tritt in Kraft, wenn mindestens vier Kantone[^Artikel20-1] zugestimmt haben[^Artikel20-2].
+<sup>1</sup> Diese Vereinbarung tritt in Kraft, wenn mindestens vier Kantone zugestimmt haben.[^20-1]
 
-<sup>2</sup> Die Konferenz der Umweltschutzdirektoren bringt diese Vereinbarung dem Bund nach Artikel 48 Absatz 3 der Bundesverfassung (SR [101](https://db.clex.ch/link/Bund/101/de)) zur Kenntnis.
+<sup>2</sup> Die Konferenz der Umweltschutzdirektoren bringt diese Vereinbarung dem Bund nach Artikel 48 Absatz 3 der Bundesverfassung[^20-2] zur Kenntnis.
 
-[^Artikel20-1]: Beitritt des Kantons Uri durch LRB vom 24. September 2003, in Kraft gesetzt auf den 1. Januar 2004 (AB vom 10. Oktober 2003).
-[^Artikel20-2]: Als vierter Kanton trat am 27. November 2003 der Kanton Schwyz der Vereinbarung bei. Die Vereinbarung ist damit auf dieses Datum hin in Kraft getreten.
-
-AB 10.10.2003
+[^20-1]: Als vierter Kanton trat am 27. November 2003 der Kanton Schwyz der Vereinbarung bei. Die Vereinbarung ist damit auf dieses Datum hin in Kraft getreten.
+[^20-2]: SR 101
