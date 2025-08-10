@@ -3,11 +3,11 @@ sr: "0.343.11"
 title: Protokoll vom 22. November 2017 zur Änderung des Zusatzprotokolls zum Übereinkommen über die Überstellung verurteilter Personen
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/795"
 language: de
-version: 2023-07-18
+version: 2025-08-11
 adopted: 2017-11-22
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/795/20230718/de/xml/fedlex-data-admin-ch-eli-cc-2019-795-20230718-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/795/20230718/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/795/20250811/de/xml/fedlex-data-admin-ch-eli-cc-2019-795-20250811-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/795/20250811/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 21. November 2019
 
 Provisorisch anwendbar ab 1. Januar 2020
 
-(Stand am 18. Juli 2023)
+(Stand am 11. August 2025)
 
 [^t-1]: [AS 2019 5023](https://fedlex.data.admin.ch/eli/oc/2019/794)
 
@@ -40,7 +40,7 @@ in der Erwägung, dass es wünschenswert ist, das Zusatzprotokoll unter Berücks
 
 sind übereingekommen, das Zusatzprotokoll wie folgt zu ändern:
 
-[^ingress-1]: [SR 0.343.1](https://fedlex.data.admin.ch/eli/cc/2004/648)
+[^ingress-1]: [SR 0.343.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1338)
 
 #### Art. 1
 
@@ -72,7 +72,7 @@ Zur Anwendung dieses Artikels stellt der Urteilsstaat dem Vollstreckungsstaat Fo
 - a) eine Erklärung, aus der die Meinung der verurteilten Person zu ihrer vorgesehenen Überstellung hervorgeht, oder eine Erklärung, dass die verurteilte Person sich weigert, ihre Meinung dazu zu äussern; und
 - b) [unverändert]
 
-<sup>4.</sup> Schlussbestimmungen
+<sup>4.</sup>
 
 Eine nach diesem Artikel überstellte Person darf wegen einer anderen vor der Überstellung begangenen Handlung als derjenigen, die der zu vollstreckenden Sanktion zugrunde liegt, nur dann verfolgt, abgeurteilt, zur Vollstreckung einer Strafe oder sichernden Massnahme[^2-subdivu2-1] in Haft gehalten oder einer sonstigen Beschränkung ihrer persönlichen Freiheit unterworfen werden:
 
@@ -80,6 +80,8 @@ Eine nach diesem Artikel überstellte Person darf wegen einer anderen vor der Ü
 - b) wenn die verurteilte Person, obwohl sie dazu die Möglichkeit hatte, das Hoheitsgebiet des Vollstreckungsstaats innerhalb von 30 Tagen nach ihrer endgültigen Freilassung nicht verlassen hat oder wenn sie nach Verlassen dieses Gebiets dorthin zurückgekehrt ist.»
 
 [^2-subdivu2-1]: Deutschland und Österreich: «Massregel der Besserung und Sicherung»
+
+### Schlussbestimmungen
 
 #### Art. 3
 
@@ -121,18 +123,21 @@ Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Europara
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Protokoll unterschrieben. Geschehen zu Strassburg am 22. November 2017 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarats hinterlegt wird. Der Generalsekretär des Europarats übermittelt allen Mitgliedstaaten des Europarats, den anderen Vertragsparteien des Übereinkommens und jedem Staat, der eingeladen worden ist, dem Übereinkommen beizutreten, beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 18. Juli 2023[^t-2]
+Geltungsbereich am 11. August 2025[^t-2]
 
 Die folgenden Staaten haben gemäss Artikel 5 des Protokolls erklärt, dass die Bestimmungen des Protokolls für sie in ihren Beziehungen zu Staaten, die eine ähnliche Erklärung zu diesem Zweck abgegeben haben, provisorisch anwendbar sind.
 
 <table>
 <tr><td>Provisorisch anwendbar zwischen den folgenden Staaten:</td><td>seit:</td></tr>
 <tr><td>Italien</td><td>15.06.2021</td></tr>
+<tr><td>Lettland</td><td>01.01.2025</td></tr>
 <tr><td>Litauen</td><td>01.01.2020</td></tr>
 <tr><td>Österreich</td><td>08.07.2020</td></tr>
 <tr><td>Heiliger Stuhl</td><td>01.01.2020</td></tr>
 <tr><td>Schweiz</td><td>01.01.2020</td></tr>
+<tr><td>Ukraine</td><td>01.02.2021</td></tr>
 <tr><td>Ungarn</td><td>13.02.2023</td></tr>
+<tr><td>Vereinigtes Königreich</td><td>01.10.2023</td></tr>
 </table>
 
-[^t-2]: [AS 2019 5025](https://fedlex.data.admin.ch/eli/oc/2019/795); [2023 401](https://fedlex.data.admin.ch/eli/oc/2023/401). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)
+[^t-2]: [AS 2019 5025](https://fedlex.data.admin.ch/eli/oc/2019/795); [2023 401](https://fedlex.data.admin.ch/eli/oc/2023/401); [2025 518](https://fedlex.data.admin.ch/eli/oc/2025/518). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

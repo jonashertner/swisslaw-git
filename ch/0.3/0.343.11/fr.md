@@ -3,11 +3,11 @@ sr: "0.343.11"
 title: Protocole du 22 novembre 2017 portant amendement au Protocole additionnel à la Convention sur le transfèrement des personnes condamnées
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/795"
 language: fr
-version: 2023-07-18
+version: 2025-08-11
 adopted: 2017-11-22
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/795/20230718/fr/xml/fedlex-data-admin-ch-eli-cc-2019-795-20230718-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/795/20230718/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/795/20250811/fr/xml/fedlex-data-admin-ch-eli-cc-2019-795-20250811-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/795/20250811/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 21 novembre 2019
 
 Appliqué provisoirement dès le 1<sup>er</sup> janvier 2020
 
-(État le 18 juillet 2023)
+(État le 11 août 2025)
 
 [^t-1]: [RO 2019 5023](https://fedlex.data.admin.ch/eli/oc/2019/794)
 
@@ -40,7 +40,7 @@ considérant qu’il est souhaitable de moderniser et d’améliorer le Protocol
 
 sont convenus d’amender le Protocole additionnel comme suit:
 
-[^ingress-1]: [RS 0.343.1](https://fedlex.data.admin.ch/eli/cc/2004/648)
+[^ingress-1]: [RS 0.343.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1338)
 
 #### Art. 1
 
@@ -121,7 +121,7 @@ Le Secrétaire Général du Conseil de l’Europe notifiera aux États membres d
 
 *En foi de quoi*, les soussignés, dûment autorisés à cet effet, ont signé le présent Protocole. Fait à Strasbourg, le 22 novembre 2017, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des États membres du Conseil de l’Europe, aux autres Parties à la Convention et à tout État invité à adhérer à la Convention. (Suivent les signatures)
 
-Champ d’application le 18 juillet 2023[^t-2]
+Champ d’application le 11 août 2025[^t-2]
 
 Les États suivants ont déclaré, conformément à l’art. 5 du Protocole, que les dispositions du Protocole leurs seront applicables à titre provisoire dans leurs rapports avec les États ayant fait une déclaration similaire à cet effet.
 
@@ -130,9 +130,12 @@ Les États suivants ont déclaré, conformément à l’art. 5 du Protocole, que
 <tr><td>Autriche</td><td>08.07.2020</td></tr>
 <tr><td>Hongrie</td><td>13.02.2023</td></tr>
 <tr><td>Italie</td><td>15.06.2021</td></tr>
+<tr><td>Lettonie</td><td>01.01.2025</td></tr>
 <tr><td>Lituanie</td><td>01.01.2020</td></tr>
+<tr><td>Royaume-Uni</td><td>01.10.2023</td></tr>
 <tr><td>Saint-Siège</td><td>01.01.2020</td></tr>
 <tr><td>Suisse</td><td>01.01.2020</td></tr>
+<tr><td>Ukraine</td><td>01.02.2021</td></tr>
 </table>
 
-[^t-2]: [RO 2019 5025](https://fedlex.data.admin.ch/eli/oc/2019/795); [2023 401](https://fedlex.data.admin.ch/eli/oc/2023/401). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
+[^t-2]: [RO 2019 5025](https://fedlex.data.admin.ch/eli/oc/2019/795); [2023 401](https://fedlex.data.admin.ch/eli/oc/2023/401); [2025 518](https://fedlex.data.admin.ch/eli/oc/2025/518). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
