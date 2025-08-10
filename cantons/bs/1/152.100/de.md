@@ -4,13 +4,13 @@ number: "152.100"
 title: Gesetz über die Geschäftsordnung des Grossen Rates
 short: GO
 language: de
-version: 2025-02-01
-valid_until: 2025-08-10
-version_adopted: 2023-02-08
+version: 2025-08-11
+valid_until: 2025-10-31
+version_adopted: 2025-06-11
 adopted: 2006-06-29
 in_force: 2006-09-09
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/152.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6479/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6641/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Geschäftsordnung des Grossen Rates | Grosser Rat / Ombudsman
 
 (GO)
 
-Vom 29. Juni 2006 (Stand 1. Februar 2025)
+Vom 29. Juni 2006 (Stand 11. August 2025)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -204,11 +204,11 @@ erlässt folgendes Gesetz:
 
 **Wahl des Ratsbüros**
 
-<sup>1</sup> Das Ratsbüro wird in der ersten Sitzung einer Amtsperiode für deren Dauer gewählt. Es besteht aus der jeweiligen Präsidentin oder dem jeweiligen Präsidenten, der Statthalterin oder dem Statthalter sowie fünf weiteren Mitgliedern.
+<sup>1</sup> Das Ratsbüro wird in der ersten Sitzung einer Amtsperiode für deren Dauer gewählt. Es besteht aus gleich vielen Mitgliedern wie es Fraktionen gibt und der Grosse Rat wählt aus jeder Fraktion ein Mitglied in das Ratsbüro. Die jeweilige Präsidentin oder der jeweilige Präsident sowie die Statthalterin oder der Statthalter sind zwingend Mitglieder des Ratsbüros.
 
-<sup>2</sup> Die abtretende Präsidentin oder der abtretende Präsident bleibt nach Ablauf des Amtsjahrs Mitglied des Ratsbüros. Wird im Verlauf der Amtsperiode ein Ratsmitglied für das Präsidium oder das Statthalteramt gewählt, das dem Ratsbüro nicht angehört, so müssen die fünf übrigen Mitglieder neu gewählt werden.
+<sup>2</sup> Die abtretende Präsidentin oder der abtretende Präsident bleibt nach Ablauf des Amtsjahres Mitglied des Ratsbüros, es sei denn, das nächste Amtsjahr falle in die neue Amtsperiode. Wird im Verlauf der Amtsperiode ein Ratsmitglied für das Präsidium oder das Statthalteramt gewählt, das dem Ratsbüro nicht angehört, so müssen alle übrigen Mitglieder neu gewählt werden.
 
-<sup>3</sup> Bei der Wahl in das Ratsbüro besteht kein Anspruch der Fraktionen auf eine Vertretung nach ihrer Stärke.
+<sup>3</sup> …
 
 #### § 18
 
