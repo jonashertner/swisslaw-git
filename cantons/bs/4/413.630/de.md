@@ -4,24 +4,24 @@ number: "413.630"
 title: Verordnung über die Abschlüsse an der Fachmaturitätsschule Basel-Stadt
 short: Abschlussverordnung FMS
 language: de
-version: 2025-04-24
-valid_until: 2025-08-10
+version: 2025-08-11
+valid_until: 2026-08-09
 version_adopted: 2025-04-15
 adopted: 2005-04-05
 in_force: 2005-08-15
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/413.630"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6582/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6589/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Abschlüsse an der Fachmaturitätsschule Basel-Stadt
 
-Abschlussverordnung FMS | Mittelschulen
+Mittelschulen
 
 (Abschlussverordnung FMS)
 
-Vom 5. April 2005 (Stand 24. April 2025)
+Vom 5. April 2005 (Stand 11. August 2025)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -43,6 +43,17 @@ beschliesst:
 
 <sup>3</sup> …
 
+#### § 1a
+
+**Qualifikation der Lehrpersonen**
+
+<sup>1</sup> Der Unterricht an der Fachmaturitätsschule Basel-Stadt ist von Lehrpersonen zu erteilen:
+
+- a) die über ein von der Schweizerischen Konferenz der Kantonalen Erziehungsdirektorinnen und -direktoren (EDK) anerkanntes Diplom für das höhere Lehramt im entsprechenden Fach oder
+- b) über ein von der EDK als gleichwertig anerkanntes Diplom verfügen.
+
+<sup>2</sup> Über begründete Ausnahmen entscheidet die Leitung Mittelschulen und Berufsbildung.
+
 ## II. Abschlussprüfungen, selbstständige Arbeit und Fachmaturitätsarbeit sowie zusätzliche Leistungen für die Fachmaturität
 
 #### § 2
@@ -57,13 +68,13 @@ beschliesst:
 
 **Zulassung**
 
-<sup>1</sup> Zu den Abschlussprüfungen werden Schülerinnen und Schüler zugelassen, die den Unterricht der letzten beiden Jahre vor dem Fachmittelschulabschluss regelmässig besucht haben.
+<sup>1</sup> Zu den Abschlussprüfungen werden Schülerinnen und Schüler zugelassen, die in den letzten beiden Jahren vor dem Fachmittelschulabschluss bis zu dem von der Schulleitung festgelegten Stichtag jeweils mindestens 80 % des Unterrichts des Schuljahres besucht haben.
 
-<sup>2</sup> Die Prüfungsleitung entscheidet über die Nichtzulassung zu den Abschlussprüfungen. Sie kann in begründeten Fällen von der Voraussetzung des regelmässigen Unterrichtsbesuchs absehen.
+<sup>2</sup> Die Prüfungsleitung entscheidet über die Nichtzulassung zu den Abschlussprüfungen. Sie kann in begründeten Fällen von der Voraussetzung des Unterrichtsbesuchs nach Abs. 1 absehen.
 
 <sup>3</sup> Die Nichtzulassung gilt als erster gescheiterter Versuch, den Fachmittelschulabschluss zu erlangen.
 
-<sup>4</sup> Schülerinnen und Schüler, die nicht zu den Abschlussprüfungen zugelassen werden, können frühestens nach dem erneuten Besuch des zweiten Semesters des dritten Schuljahrs zu den Abschlussprüfungen des nächsten Termins zugelassen werden.
+<sup>4</sup> Schülerinnen und Schüler, die nicht zu den Abschlussprüfungen zugelassen werden, können frühestens nach dem erneuten Besuch der 3. Klasse zu den Abschlussprüfungen des nächsten Termins zugelassen werden.
 
 #### § 3
 
@@ -117,9 +128,15 @@ beschliesst:
 
 **Prüfungsfächer**
 
-<sup>1</sup> In allen Fachrichtungen werden sechs Fächer geprüft, aus allen fünf Lernbereichen «Sprachen», «Mathematik, Naturwissenschaften, Informatik», «Geistes- und Sozialwissenschaften», «Musische Fächer» und «Sport» mindestens ein Fach.
+<sup>1</sup> In allen Fachrichtungen werden sechs Fächer geprüft.
 
-<sup>2</sup> Die Prüfung umfasst in allen Fachrichtungen: Deutsch, eine weitere mindestens zwei Jahre belegte Sprache, Mathematik, ein berufsfeldbezogenes Fach und zwei weitere Fächer, wovon eines ein weiteres berufsfeldbezogenes Fach gemäss der Liste der Prüfungsfächer im Anhang sein kann.
+<sup>2</sup> Die Prüfung umfasst:
+
+- a) Deutsch;
+- b) eine weitere mindestens zwei Jahre belegte Sprache;
+- c) Mathematik;
+- d) ein berufsfeldbezogenes Fach und
+- e) zwei weitere Fächer, wovon mindestens eines ein nicht-berufsfeldbezogenes Fach sein muss («2. Sprache» oder «Weitere Fächer» gemäss der Liste der Prüfungsfächer im Anhang).
 
 #### § 9
 
@@ -127,13 +144,13 @@ beschliesst:
 
 <sup>1</sup> Die Fächer Deutsch, Französisch, Englisch, Italienisch, Spanisch und Türkisch werden schriftlich und mündlich geprüft.
 
-<sup>2</sup> Die Fächer Anwendungen der Mathematik, Betriebswirtschaftslehre, Biologie, Ernährungslehre, Gesundheitsfragen, Mathematik, Physik/Chemie, Naturwissenschaftliches Arbeiten, Recht und Gesellschaft (in der Fachrichtung Soziale Arbeit), Pädagogik/Psychologie, Umweltbildung und Visuelle Kommunikation werden schriftlich geprüft.
+<sup>2</sup> Die Fächer Anwendungen der Mathematik, Betriebswirtschaftslehre, Biologie, Mathematik, Physik/Chemie sowie Recht und Gesellschaft (in der Fachrichtung Soziale Arbeit) werden schriftlich geprüft.
 
-<sup>3</sup> Die Fächer Geografie, Geschichte, Humanbiologie, Kommunikation, Kunstbetrachtung, Philosophie/Ethik, Politische Bildung, Psychologie sowie Recht und Gesellschaft (ausser in der Fachrichtung Soziale Arbeit) werden mündlich geprüft.
+<sup>3</sup> Die Fächer Ernährungslehre, Geografie, Geschichte, Gesundheitsfragen, Humanbiologie, Kommunikation, Kunstbetrachtung, Medienwissen, Pädagogik/Psychologie, Philosophie/Ethik, Politische Bildung, Psychologie, Recht und Gesellschaft (ausser in der Fachrichtung Soziale Arbeit), Trainingslehre sowie Umweltbildung werden mündlich geprüft.
 
-<sup>4</sup> Die Fächer Bildnerisches Gestalten, Bildnerisches/Räumliches Gestalten, Film, Fotografie, Grafisches Gestalten, Informatikprojekte, Körper/Stimme/Bewegung, Medienwissen, Musik, Räumliches Gestalten, Sport, Tanz, Textiles Gestalten, Theater Werkstatt, Trainingslehre sowie der individuelle Unterricht in Musik oder Tanz oder Theater werden praktisch geprüft.
+<sup>4</sup> Die Fächer Bildnerisches Gestalten, Bildnerisches/Räumliches Gestalten, Film, Fotografie, Grafisches Gestalten, Informatikprojekte, Körper/Stimme/Bewegung, Musik, Naturwissenschaftliches Arbeiten, Räumliches Gestalten, Sport, Tanz, Textiles Gestalten, Theater Werkstatt, Visuelle Kommunikation sowie der individuelle Unterricht in Musik oder Tanz oder Theater werden praktisch geprüft.
 
-<sup>5</sup> Schriftliche Prüfungen werden unter ständiger Aufsicht geschrieben.
+<sup>5</sup> …
 
 <sup>6</sup> Die Prüfungsleitung legt vor Beginn des Prüfungssemesters fest, unter welchen Rahmenbedingungen und in welchen Fächern Gruppenprüfungen zulässig sind, und sorgt für die rechtzeitige Bekanntgabe dieser Festlegung.
 
@@ -158,6 +175,8 @@ beschliesst:
 **Leistungsbewertung**
 
 <sup>1</sup> Die Noten der Abschlussprüfungen, die Noten im Fachmittelschulausweis und im Fachmaturitätszeugnis werden durch ganze Noten (6 = sehr gut; 5 = gut; 4 = genügend; 3 = ungenügend, 2 = schlecht; 1 = sehr schlecht) und durch halbe Noten (5,5; 4,5; 3,5; 2,5; 1,5) bewertet. Noten unter 4 stehen für ungenügende Leistungen.
+
+<sup>1<sup>bis</sup></sup> International anerkannte Sprachzertifikate können angerechnet werden. Die Prüfungsleitung legt die Modalitäten der Anrechnung fest.
 
 <sup>2</sup> Bei Besonderen Schulanlässen ohne notenmässige Beurteilung (Projektwoche, Kulturprojekt, Studienreise, fachrichtungsspezifisches Praktikum) lauten die Bewertungen: «mit Auszeichnung erfüllt», «erfüllt» oder «nicht erfüllt». Das Prädikat «nicht erfüllt» steht für ungenügende Leistungen.
 
@@ -229,7 +248,7 @@ beschliesst:
 
 <sup>1</sup> Die selbstständige Arbeit bzw. die Fachmaturitätsarbeit wird mit einer Note bewertet. Die Note der Fachmaturitätsarbeit setzt sich zusammen aus je einer Note für den schriftlichen/praktischen Teil sowie für die Präsentation.
 
-<sup>2</sup> Bei Teamarbeiten vereinbaren Prüfungsleitung und Teammitglieder vor Arbeitsbeginn schriftlich, ob die selbstständige Arbeit bzw. die Fachmaturitätsarbeit individuell bewertet wird, oder ob alle Teammitglieder die gleiche Note und den gleichen Beurteilungskommentar erhalten. Bei Uneinigkeit entscheidet die Prüfungsleitung.
+<sup>2</sup> …
 
 <sup>3</sup> Wer den Abgabetermin aus triftigem Grunde nicht einhalten kann, hat vor Ablauf des Abgabetermins ein Gesuch um Fristverlängerung an die Prüfungsleitung einzureichen. Nicht oder zu spät eingereichte selbstständige Arbeiten bzw. Fachmaturitätsarbeiten werden mit der Note 1 bewertet. Bei zu spät eingereichten selbstständigen Arbeiten bzw. Fachmaturitätsarbeiten bleiben begründete Ausnahmen vorbehalten.
 
@@ -241,7 +260,7 @@ beschliesst:
 
 <sup>1</sup> Der Fachmittelschulausweis wird erteilt, wenn[^20-1]:
 
-- a) der Durchschnitt aus allen Abschlussnoten inkl. der Note der selbstständigen Arbeit 4,0 erreicht
+- a) der Durchschnitt aus allen Abschlussnoten inkl. der Note der selbstständigen Arbeit mindestens 4,0 beträgt
 - b) höchstens drei Noten ungenügend sind
 - c) die Summe aller Notenabweichungen von 4,0 nach unten nicht mehr als 2,0 beträgt und
 - d) die Besonderen Schulanlässe (Projektwoche, Land- und Sozialpraktikum, Kulturprojekt, berufsfeldbezogenes Praktikum, Studienreise) absolviert worden sind.
@@ -286,7 +305,7 @@ beschliesst:
 
 <sup>1</sup> Die erlaubten Hilfsmittel werden von den prüfenden Lehrkräften rechtzeitig bekanntgegeben.
 
-<sup>2</sup> Bei der selbstständigen Arbeit bzw. der Fachmaturitätsarbeit und den Abschlussprüfungen können die Benutzung unerlaubter Hilfsmittel, die versuchte Benützung unerlaubter Hilfsmittel sowie jede andere Unredlichkeit zu Massnahmen bis zur Verweigerung des Fachmittelschulausweises bzw. Fachmaturitätszeugnisses führen.
+<sup>2</sup> Bei der selbstständigen Arbeit bzw. der Fachmaturitätsarbeit und den Abschlussprüfungen können die Benutzung unerlaubter Hilfsmittel, die versuchte Benutzung unerlaubter Hilfsmittel sowie jede andere Unredlichkeit zu Massnahmen bis zur Verweigerung des Fachmittelschulausweises bzw. Fachmaturitätszeugnisses führen.
 
 <sup>3</sup> Über Massnahmen bis zur Verweigerung des Fachmittelschulausweises bzw. des Fachmaturitätszeugnisses entscheidet die Prüfungsleitung.
 
