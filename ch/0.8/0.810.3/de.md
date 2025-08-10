@@ -3,11 +3,11 @@ sr: "0.810.3"
 title: Übereinkommen des Europarats vom 25. März 2015 gegen den Handel mit menschlichen Organen
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/1067"
 language: de
-version: 2025-02-13
+version: 2025-08-11
 adopted: 2015-03-25
 in_force: 2021-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1067/20250213/de/xml/fedlex-data-admin-ch-eli-cc-2020-1067-20250213-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/1067/20250213/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1067/20250811/de/xml/fedlex-data-admin-ch-eli-cc-2020-1067-20250811-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1067/20250811/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 21. Oktober 2020
 
 In Kraft getreten für die Schweiz am 1. Februar 2021
 
-(Stand am 13. Februar 2025)
+(Stand am 11. August 2025)
 
 [^t-1]: [AS 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066)
 
@@ -52,11 +52,11 @@ in der Erkenntnis, dass zur wirksamen Bekämpfung der weltweiten Bedrohung, die 
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^ingress-2]: [SR 0.810.2](https://fedlex.data.admin.ch/eli/cc/2008/718)
-[^ingress-3]: [SR 0.810.22](https://fedlex.data.admin.ch/eli/cc/2010/136)
-[^ingress-4]: [SR 0.311.542](https://fedlex.data.admin.ch/eli/cc/2006/864)
-[^ingress-5]: [SR 0.311.543](https://fedlex.data.admin.ch/eli/cc/2013/94)
+[^ingress-1]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
+[^ingress-2]: [SR 0.810.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3411)
+[^ingress-3]: [SR 0.810.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3414)
+[^ingress-4]: [SR 0.311.542](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1310)
+[^ingress-5]: [SR 0.311.543](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1311)
 
 ## Kapitel I: Zweck, Geltungsbereich und Begriffsbestimmungen
 
@@ -414,7 +414,7 @@ Der Ausschuss der Vertragsparteien wird gegebenenfalls auch:
 
 <sup>5</sup> Jede nach Absatz 3 beschlossene Änderung tritt am ersten Tag des Monats in Kraft, der auf einen Zeitabschnitt von einem Monat nach dem Tag folgt, an dem alle Vertragsparteien dem Generalsekretär mitgeteilt haben, dass sie die Änderung angenommen haben.
 
-[^27-1]: [SR 0.192.030](https://fedlex.data.admin.ch/eli/cc/1963/772_769_797)
+[^27-1]: [SR 0.192.030](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/545)
 
 ## Kapitel IX: Schlussbestimmungen
 
@@ -482,11 +482,12 @@ Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Europara
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten diese Konvention unterschrieben. Geschehen zu Santiago de Compostela am 25. März 2015 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarats hinterlegt wird. Der Generalsekretär des Europarats übermittelt allen Mitgliedstaaten des Europarats, den Nichtmitgliedstaaten, die beim Europarat Beobachterstatus haben, der Europäischen Union und allen zur Unterzeichnung dieser Konvention eingeladenen Staaten beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 13. Februar 2025[^t-2]
+Geltungsbereich am 11. August 2025[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Albanien</td><td>6. Juni</td><td>2016</td><td>1. März</td><td>2018</td></tr>
+<tr><td>Belgien\*</td><td>22. Februar</td><td>2022</td><td>1. Juni</td><td>2022</td></tr>
 <tr><td>Costa Rica</td><td>24. November</td><td>2021</td><td>1. März</td><td>2022</td></tr>
 <tr><td>Frankreich\*</td><td>18. Januar</td><td>2023</td><td>1. Mai</td><td>2023</td></tr>
 <tr><td>Kroatien\*</td><td>16. Mai</td><td>2019</td><td>1. September</td><td>2019</td></tr>
@@ -497,9 +498,10 @@ Geltungsbereich am 13. Februar 2025[^t-2]
 <tr><td>Norwegen</td><td>12. September</td><td>2017</td><td>1. März</td><td>2018</td></tr>
 <tr><td>Portugal</td><td>8. November</td><td>2018</td><td>1. März</td><td>2019</td></tr>
 <tr><td>Schweiz</td><td>21. Oktober</td><td>2020</td><td>1. Februar</td><td>2021</td></tr>
+<tr><td>Slowenien\*</td><td>3. Mai</td><td>2022</td><td>1. September</td><td>2022</td></tr>
 <tr><td>Spanien\*</td><td>15. Dezember</td><td>2020</td><td>1. April</td><td>2021</td></tr>
 <tr><td>Tschechische Republik\*</td><td>21. September</td><td>2017</td><td>1. März</td><td>2018</td></tr>
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarats: [http://conventions.coe.int](http://conventions.coe.int) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 2020 6571](https://fedlex.data.admin.ch/eli/oc/2020/1067); [2025 114](https://fedlex.data.admin.ch/eli/oc/2025/114). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-2]: [AS 2020 6571](https://fedlex.data.admin.ch/eli/oc/2020/1067); [2025 114](https://fedlex.data.admin.ch/eli/oc/2025/114), [513](https://fedlex.data.admin.ch/eli/oc/2025/513). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

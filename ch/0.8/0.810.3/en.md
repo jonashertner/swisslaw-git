@@ -3,11 +3,11 @@ sr: "0.810.3"
 title: Council of Europe Convention of 25 March 2015 against Trafficking in Human Organs
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/1067"
 language: en
-version: 2025-02-13
+version: 2025-08-11
 adopted: 2015-03-25
 in_force: 2021-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1067/20250213/en/xml/fedlex-data-admin-ch-eli-cc-2020-1067-20250213-en-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/1067/20250213/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1067/20250811/en/xml/fedlex-data-admin-ch-eli-cc-2020-1067-20250811-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1067/20250811/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -20,7 +20,7 @@ English is not an official language of the Swiss Confederation. This original ve
 
 Concluded in Santiago de Compostela on 25 March 2015 Approved by the Federal Assembly on 19 June 2020[^t-1] Swiss Instrument of Ratification deposited on 21 October 2020 Entry into force for Switzerland on 1 February 2021
 
-(Status as of 13 February 2025)
+(Last amended on 11 August 2025)
 
 [^t-1]: [AS 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066)
 
@@ -46,11 +46,11 @@ Recognising that, to efficiently combat the global threat posed by the trafficki
 
 have agreed as follows:
 
-[^ingress-1]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^ingress-2]: [SR 0.810.2](https://fedlex.data.admin.ch/eli/cc/2008/718)
-[^ingress-3]: [SR 0.810.22](https://fedlex.data.admin.ch/eli/cc/2010/136)
-[^ingress-4]: [SR 0.311.542](https://fedlex.data.admin.ch/eli/cc/2006/864)
-[^ingress-5]: [SR 0.311.543](https://fedlex.data.admin.ch/eli/cc/2013/94)
+[^ingress-1]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
+[^ingress-2]: [SR 0.810.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3411)
+[^ingress-3]: [SR 0.810.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3414)
+[^ingress-4]: [SR 0.311.542](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1310)
+[^ingress-5]: [SR 0.311.543](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1311)
 
 ## Chapter I Purposes, Scope and Use of Terms
 
@@ -406,7 +406,7 @@ Furthermore, the Committee of the Parties shall, where appropriate:
 
 <sup>5</sup> Any amendment adopted in accordance with paragraph 3 of this article shall enter into force on the first day of the month following the expiration of a period of one month after the date on which all Parties have informed the Secretary General that they have accepted it.
 
-[^27-1]: [SR 0.192.030](https://fedlex.data.admin.ch/eli/cc/1963/772_769_797)
+[^27-1]: [SR 0.192.030](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/545)
 
 ## Chapter IX Final Clauses
 
@@ -474,11 +474,12 @@ The Secretary General of the Council of Europe shall notify the member States of
 
 In witness whereof the undersigned, being duly authorised thereto, have signed this Convention. Done in Santiago de Compostela, this 25th day of March 2015, in English and in French, both texts being equally authentic, in a single copy which shall be deposited in the archives of the Council of Europe. The Secretary General of the Council of Europe shall transmit certified copies to each member State of the Council of Europe, to the non-member States which enjoy observer status with the Council of Europe, to the European Union and to any State invited to sign this Convention. (Signatures follow)
 
-Scope of Application as of 13 February 2025[^t-2]
+Scope of application as of 11 August 2025[^t-2]
 
 <table>
 <tr><th>Contracting States</th><th>Ratification</th><th></th><th>Entry into force</th><th></th></tr>
 <tr><td>Albania</td><td>6 June</td><td>2016</td><td>1 March</td><td>2018</td></tr>
+<tr><td>Belgium\*</td><td>22 February</td><td>2022</td><td>1 June</td><td>2022</td></tr>
 <tr><td>Costa Rica</td><td>24 November</td><td>2021</td><td>1 March</td><td>2022</td></tr>
 <tr><td>Croatia\*</td><td>16 May</td><td>2019</td><td>1 September</td><td>2019</td></tr>
 <tr><td>Czech Republic\*</td><td>21 September</td><td>2017</td><td>1 March</td><td>2018</td></tr>
@@ -489,9 +490,10 @@ Scope of Application as of 13 February 2025[^t-2]
 <tr><td>Montenegro</td><td>5 February</td><td>2019</td><td>1 June</td><td>2019</td></tr>
 <tr><td>Norway</td><td>12 September</td><td>2017</td><td>1 March</td><td>2018</td></tr>
 <tr><td>Portugal</td><td>8 November</td><td>2018</td><td>1 March</td><td>2019</td></tr>
+<tr><td>Slovenia\*</td><td>3 May</td><td>2022</td><td>1 September</td><td>2022</td></tr>
 <tr><td>Spain\*</td><td>15 December</td><td>2020</td><td>1 April</td><td>2021</td></tr>
 <tr><td>Switzerland</td><td>21 October</td><td>2020</td><td>1 February</td><td>2021</td></tr>
-<tr><td colspan="5">\* Reservations and declarations. The reservations and declarations are not published in the AS. The French and English texts may be viewed on the Council of Europe website: [www.coe.int](http://www.coe.int) or obtained from the Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern.</td></tr>
+<tr><td colspan="5">\* Reservations and declarations. The reservations and declarations are not published in the AS, with the exception of those of Switzerland. The French and English texts may be viewed on the Council of Europe website: [http://conventions.coe.int](http://conventions.coe.int/) or obtained from the Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern.</td></tr>
 </table>
 
-[^t-2]: [AS 2020 6571](https://fedlex.data.admin.ch/eli/oc/2020/1067); [2025 114](https://fedlex.data.admin.ch/eli/oc/2025/114). An updated version of the the Scope of Application is available on the publication platform for federal law "Fedlex" at the following address: [www.fedlex.admin.ch/en/treaty](https://www.fedlex.admin.ch/en/treaty)
+[^t-2]: [AS 2020 6571](https://fedlex.data.admin.ch/eli/oc/2020/1067); [2025 114](https://fedlex.data.admin.ch/eli/oc/2025/114), [513](https://fedlex.data.admin.ch/eli/oc/2025/513). An updated version of the the Scope of Application is available on the publication platform for federal law "Fedlex" at the following address: [www.fedlex.admin.ch/en/treaty](https://www.fedlex.admin.ch/en/treaty)

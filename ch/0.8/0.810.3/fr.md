@@ -3,11 +3,11 @@ sr: "0.810.3"
 title: "Convention du Conseil de l'Europe du 25 mars 2015 contre le trafic d'organes humains"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/1067"
 language: fr
-version: 2025-02-13
+version: 2025-08-11
 adopted: 2015-03-25
 in_force: 2021-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1067/20250213/fr/xml/fedlex-data-admin-ch-eli-cc-2020-1067-20250213-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/1067/20250213/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1067/20250811/fr/xml/fedlex-data-admin-ch-eli-cc-2020-1067-20250811-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1067/20250811/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 21 octobre 2020
 
 Entrée en vigueur pour la Suisse le 1<sup>er</sup> février 2021
 
-(État le 13 février 2025)
+(État le 11 août 2025)
 
 [^t-1]: [RO 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066)
 
@@ -52,11 +52,11 @@ reconnaissant que, pour lutter de manière efficace contre la menace mondiale qu
 
 sont convenus de ce qui suit:
 
-[^ingress-1]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^ingress-2]: [RS 0.810.2](https://fedlex.data.admin.ch/eli/cc/2008/718)
-[^ingress-3]: [RS 0.810.22](https://fedlex.data.admin.ch/eli/cc/2010/136)
-[^ingress-4]: [RS 0.311.542](https://fedlex.data.admin.ch/eli/cc/2006/864)
-[^ingress-5]: [RS 0.311.543](https://fedlex.data.admin.ch/eli/cc/2013/94)
+[^ingress-1]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
+[^ingress-2]: [RS 0.810.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3411)
+[^ingress-3]: [RS 0.810.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3414)
+[^ingress-4]: [RS 0.311.542](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1310)
+[^ingress-5]: [RS 0.311.543](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1311)
 
 ## Chapitre I But, champ d’application et terminologie
 
@@ -414,7 +414,7 @@ Le Comité des Parties est également chargé, le cas échéant:
 
 <sup>5</sup> Tout amendement adopté conformément au par. 3 du présent article entrera en vigueur le premier jour du mois suivant l’expiration d’une période d’un mois après la date à laquelle toutes les Parties auront informé le Secrétaire Général qu’elles l’ont accepté.
 
-[^27-1]: [RS 0.192.030](https://fedlex.data.admin.ch/eli/cc/1963/772_769_797)
+[^27-1]: [RS 0.192.030](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/545)
 
 ## Chapitre IX Clauses finales
 
@@ -482,11 +482,12 @@ Le Secrétaire Général du Conseil de l’Europe notifiera aux États membres d
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Saint-Jacques-de-Compostelle, le 25 mars 2015, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des États membres du Conseil de l’Europe, aux États non membres ayant le statut d’observateur auprès du Conseil de l’Europe, à l’Union européenne et à tout État invité à signer la présente Convention. (Suivent les signatures)
 
-Champ d’application le 13 février 2025[^t-2]
+Champ d’application le 11 août 2025[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>6 juin</td><td>2016</td><td>1<sup>er</sup> mars</td><td>2018</td></tr>
+<tr><td>Belgique\*</td><td>22 février</td><td>2022</td><td>1<sup>er</sup> juin</td><td>2022</td></tr>
 <tr><td>Costa Rica</td><td>24 novembre</td><td>2021</td><td>1<sup>er</sup> mars</td><td>2022</td></tr>
 <tr><td>Croatie\*</td><td>16 mai</td><td>2019</td><td>1<sup>er</sup> septembre</td><td>2019</td></tr>
 <tr><td>Espagne\*</td><td>15 décembre</td><td>2020</td><td>1<sup>er</sup> avril</td><td>2021</td></tr>
@@ -498,8 +499,9 @@ Champ d’application le 13 février 2025[^t-2]
 <tr><td>Norvège</td><td>12 septembre</td><td>2017</td><td>1<sup>er</sup> mars</td><td>2018</td></tr>
 <tr><td>Portugal</td><td>8 novembre</td><td>2018</td><td>1<sup>er</sup> mars</td><td>2019</td></tr>
 <tr><td>République tchèque\*</td><td>21 septembre</td><td>2017</td><td>1<sup>er</sup> mars</td><td>2018</td></tr>
+<tr><td>Slovénie\*</td><td>3 mai</td><td>2022</td><td>1<sup>er</sup> septembre</td><td>2022</td></tr>
 <tr><td>Suisse</td><td>21 octobre</td><td>2020</td><td>1<sup>er</sup> février</td><td>2021</td></tr>
 <tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet du Conseil de l’Europe: [http://conventions.coe.int](http://conventions.coe.int) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 2020 6571](https://fedlex.data.admin.ch/eli/oc/2020/1067); [2025 114](https://fedlex.data.admin.ch/eli/oc/2025/114). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-2]: [RO 2020 6571](https://fedlex.data.admin.ch/eli/oc/2020/1067); [2025 114](https://fedlex.data.admin.ch/eli/oc/2025/114), [513](https://fedlex.data.admin.ch/eli/oc/2025/513). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
