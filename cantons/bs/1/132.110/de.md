@@ -4,24 +4,23 @@ number: "132.110"
 title: Verordnung zum Gesetz über Wahlen und Abstimmungen
 short: Wahlverordnung
 language: de
-version: 2021-01-01
-valid_until: 2025-08-10
-version_adopted: 2020-09-08
+version: 2025-08-11
+version_adopted: 2025-06-10
 adopted: 1995-01-03
 in_force: 1995-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/132.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5082/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6642/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Gesetz über Wahlen und Abstimmungen
 
-Wahlverordnung | Wahlen und Abstimmungen[^t-1][^t-2][^t-3]
+Wahlen und Abstimmungen[^t-1][^t-2][^t-3]
 
 (Wahlverordnung)
 
-Vom 3. Januar 1995 (Stand 1. Januar 2021)
+Vom 3. Januar 1995 (Stand 11. August 2025)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -178,11 +177,11 @@ beschliesst:
 
 **Wahllokale**
 
-<sup>1</sup> In der Stadt Basel befinden sich Wahllokale
+<sup>1</sup> In der Stadt Basel stehen drei Wahllokale zur Verfügung.
 
-- a) im Rathaus,
-- b) im Bahnhof SBB und
-- c) auf der Polizeiwache Clara.
+- a) …
+- b) …
+- c) …
 
 <sup>2</sup> An den Abstimmungswochenenden sind die Wahllokale in der Stadt Basel wie folgt geöffnet:[^9-1]
 
