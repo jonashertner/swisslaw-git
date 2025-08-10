@@ -4,13 +4,13 @@ number: "410.700"
 title: Verordnung über die Beurteilung und die Schullaufbahnentscheide der Schülerinnen und Schüler der Volksschule und der weiterführenden Schulen
 short: "Schullaufbahnverordnung, SLV"
 language: de
-version: 2025-01-16
-valid_until: 2025-08-10
+version: 2025-08-11
+valid_until: 2026-07-30
 version_adopted: 2025-01-07
 adopted: 2012-09-11
 in_force: 2013-08-12
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/410.700"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6515/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6796/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Schulen
 
 (Schullaufbahnverordnung, SLV)
 
-Vom 11. September 2012 (Stand 16. Januar 2025)
+Vom 11. September 2012 (Stand 11. August 2025)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -327,12 +327,12 @@ beschliesst:
 
 <sup>1</sup> Ab dem 2. Schuljahr erhalten die Schülerinnen und Schüler am Ende jedes Schuljahres ein Zeugnis.
 
-<sup>2</sup> Zusätzlich zum Zeugnis am Schuljahresende erhalten die Schülerinnen und Schüler am Ende des ersten Semesters des 8. – 11. Schuljahres sowie in der WMS, IMS und BM ein Zeugnis.
+<sup>2</sup> Zusätzlich zum Zeugnis am Schuljahresende erhalten die Schülerinnen und Schüler am Ende des ersten Semesters des 9. – 11. Schuljahres sowie in der WMS, IMS, BM und den Brückenangeboten ein Zeugnis.
 
 - a) …
 - b) …
 
-<sup>3</sup> In den Brückenangeboten erhalten die Schülerinnen und Schüler am Ende des ersten und zweiten Trimesters, im Brückenangebot integratives Profil des 12. Schuljahres am Ende des zweiten Trimesters, ein Zwischenzeugnis.
+<sup>3</sup> …
 
 <sup>4</sup> In der FMS erhalten die Schülerinnen und Schüler am Ende des ersten Semesters des 12. Schuljahres ein Zwischenzeugnis.
 
@@ -432,13 +432,13 @@ beschliesst:
 
 **Inhalt des Lernberichts**
 
-<sup>1</sup> Vom 1. – 7. Schuljahr enthält der Lernbericht:
+<sup>1</sup> Vom 1. – 8. Schuljahr enthält der Lernbericht:
 
 - a) den Zwischenstand zur Sachkompetenz in den Fachbereichen oder Fächern und die Einschätzung der Leistungen in den Kompetenzbereichen und Handlungsaspekten der Fächer Deutsch und Mathematik;
 - b) die Einschätzung der Selbst- und Sozialkompetenz;
 - c) die Festlegung von einem oder zwei Förderzielen.
 
-<sup>2</sup> Vom 8. – 11. Schuljahr enthält der Lernbericht:
+<sup>2</sup> Vom 9. – 11. Schuljahr enthält der Lernbericht:
 
 - a) die Einschätzung der Leistungen in den Kompetenzbereichen und Handlungsaspekten der Fächer Deutsch und Mathematik;
 - b) die Einschätzung der Selbst- und Sozialkompetenz;
@@ -561,6 +561,14 @@ beschliesst:
 
 <sup>3</sup> Die Beförderungsfächer der BM richten sich nach den Rahmenlehrplänen des Bundes.
 
+#### § 42a
+
+**Beförderung in den Brückenangeboten**
+
+<sup>1</sup> In den Brückenangeboten werden die Schülerinnen und Schüler unabhängig von der Beurteilung im Zeugnis in das nächste Semester befördert.
+
+<sup>2</sup> Im Zeugnis wird «befördert» eingetragen.
+
 #### § 43
 
 **Beförderung im Gymnasium**
@@ -594,7 +602,7 @@ beschliesst:
 
 **Beförderung in der IMS, WMS und BM**
 
-<sup>1</sup> In der FMS, IMS und BM werden die Schülerinnen und Schüler in das nächste Semester befördert, wenn im Zeugnis die folgenden Voraussetzungen erfüllt sind:
+<sup>1</sup> In der IMS und BM werden die Schülerinnen und Schüler in das nächste Semester befördert, wenn im Zeugnis die folgenden Voraussetzungen erfüllt sind:
 
 - a) der Durchschnitt der Zeugnisnoten aller Beförderungsfächer, in der BM aller unterrichteten Fächer, ergibt mindestens 4,0;
 - b) die Summe aller Notenabweichungen von 4,0 nach unten übersteigt nicht den Wert 2;
@@ -726,9 +734,9 @@ beschliesst:
 
 **Verfahren für den Übertritt in einen der drei Leistungszüge**
 
-<sup>1</sup> Schülerinnen und Schüler können in denjenigen Leistungszug übertreten, für den sie in den beiden Zeugnissen des 8. Schuljahres die Berechtigung nach den §§ 56 – 58 erreicht haben.
+<sup>1</sup> Schülerinnen und Schüler können in denjenigen Leistungszug übertreten, für den sie im Zeugnis des 8. Schuljahres die Berechtigung nach den §§ 56 – 58 erreicht haben.
 
-<sup>2</sup> Weicht die mit dem zweiten Zeugnis des 8. Schuljahres erreichte Berechtigung von derjenigen des ersten Zeugnisses ab, ist für den Übertritt die Berechtigung für den Leistungszug mit den tieferen Anforderungen massgebend.
+<sup>2</sup> …
 
 <sup>3</sup> Schülerinnen und Schüler, welche die freiwillige Aufnahmeprüfung nach § 57b Abs. 2 des Schulgesetzes bestanden haben, können in den entsprechenden Leistungszug übertreten. Die freiwillige Aufnahmeprüfung findet am Ende des zweiten Semesters des 8. Schuljahres statt.
 
