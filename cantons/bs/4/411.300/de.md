@@ -3,22 +3,21 @@ canton: BS
 number: "411.300"
 title: Verordnung über die Volksschulleitung
 language: de
-version: 2024-08-12
-valid_until: 2025-08-10
-version_adopted: 2024-01-09
+version: 2025-08-11
+version_adopted: 2025-06-24
 adopted: 2012-06-26
 in_force: 2012-08-13
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/411.300"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6400/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6633/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Volksschulleitung
 
-Volksschulleitung: Verordnung | Behörden/Personal
+Behörden / Personal
 
-Vom 26. Juni 2012 (Stand 12. August 2024)
+Vom 26. Juni 2012 (Stand 11. August 2025)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -34,9 +33,15 @@ beschliesst:
 
 **Gegenstand und Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung regelt die Aufgaben der Leitung Volksschulen, der Volksschulleitungsmitglieder und der für die Leitung der von den Gemeinden geführten Schulen zuständigen Stelle der Gemeinden, soweit für diese kantonale Vorgaben bestehen.
+<sup>1</sup> Diese Verordnung regelt die Organisation, die Aufgaben und die Verantwortung der Volksschulleitung sowie die Aufgaben und die Verantwortung der für die Leitung der von den Gemeinden geführten Schulen zuständigen Stelle der Gemeinden, soweit für diese kantonale Vorgaben bestehen.
 
 <sup>2</sup> Für die von den Gemeinden geführten Schulen sind die §§ 4–7, 9–10a und 14–16 nicht anwendbar.
+
+#### § 1a
+
+**Zusammensetzung der Volksschulleitung**
+
+<sup>1</sup> Die Volksschulleitung setzt sich aus der Leitung Volksschulen und den von ihr bezeichneten Volksschulleitungsmitgliedern zusammen.
 
 ## II. Leitung Volksschulen
 
@@ -50,9 +55,9 @@ beschliesst:
 
 #### § 3
 
-**Leitung der Volksschulleitungskonferenz und der Gesamtkonferenz der Schulleitungen**
+**Leitung der Konferenzen der Volksschulleitung und der Gesamtkonferenz der Schulleitungen**
 
-<sup>1</sup> Die Leitung Volksschulen leitet die Volksschulleitungskonferenz und bezeichnet deren Mitglieder. Sie legt die in der Volksschulleitungskonferenz jeweils zu beratenden Geschäfte fest und berücksichtigt dabei die Anträge der Mitglieder.
+<sup>1</sup> Die Leitung Volksschulen leitet die Konferenzen der Volksschulleitung und bezeichnet deren Mitglieder. Sie legt die in den Konferenzen jeweils zu beratenden Geschäfte fest.
 
 <sup>2</sup> Sie leitet die Gesamtkonferenz der Schulleitungen der Volksschulen.
 
@@ -85,7 +90,7 @@ beschliesst:
 
 <sup>1</sup> Die Leitung Volksschulen entscheidet auf Antrag des zuständigen Volksschulleitungsmitglieds:
 
-- a) über die Versetzung von Lehr- und Fachpersonen innerhalb der Volksschule;
+- a) …
 - b) bei Lehr- und Fachpersonen über die Genehmigung von Massnahmen nach den §§ 24 und 25 des Personalgesetzes und die Genehmigung der Beendigung des Arbeitsverhältnisses nach den §§ 30 Abs. 2, 32, 33 und 34 des Personalgesetzes.
 
 #### § 8
@@ -119,22 +124,24 @@ beschliesst:
 
 <sup>2</sup> Die Leitung Volksschulen weist folgende Aufgaben einem oder mehreren Volksschulleitungsmitgliedern zu:
 
-- a) die Stellvertretung der Leitung Volksschulen;
+- a) …
 - b) die Verantwortung für die Primarstufe;
 - c) die Verantwortung für die Sekundarschule;
-- d) die Personalverantwortung für Schulleitungen;
-- e) die Verantwortung für pädagogische Themen;
-- f) die Verantwortung für administrative Themen;
-- g) die Personalverantwortung für die Leitungen der pädagogischen und administrativen Dienste.
+- d) die Verantwortung für die Sonderpädagogik;
+- e) die Verantwortung für das Personal;
+- f) die Verantwortung für die Pädagogik;
+- g) die Verantwortung für die Administration;
+- h) die Verantwortung für die Tagesstrukturen;
+- i) die Verantwortung für den Stab.
 
-## III. Die Volksschulleitungsmitglieder mit der Verantwortung für die Primarstufe und die Sekundarschule
+## III. Die Volksschulleitungsmitglieder mit Verantwortung für die Primarstufe, die Sekundarschule und die Sonderpädagogik
 
 #### § 11
 
 <sup>1</sup> Die zuständigen Volksschulleitungsmitglieder haben insbesondere die folgenden Aufgaben:
 
-- a) Sie sind für die Qualität und die Entwicklung der jeweiligen Schulstufe und deren Kohärenz verantwortlich;
-- b) Sie leiten die Schulleitungskonferenzen der jeweiligen Schulstufe;
+- a) Sie sind für die Qualität und die Entwicklung der jeweiligen Schulstufe bzw. der Spezialangebote und weitere sonderpädagogische Angebote und deren Kohärenz verantwortlich;
+- b) Sie leiten die Schulleitungskonferenzen;
 - c) Sie sind in den vom Kanton geführten Schulen für die Schulzuweisungen und -wechsel der Schülerinnen und Schüler verantwortlich;
 - d) Sie sind in den vom Kanton geführten Schulen für die vorzeitige Einschulung in den Kindergarten und die Rückstellung vom Kindergarteneintritt nach § 56 Schulgesetz verantwortlich.
 
@@ -170,7 +177,7 @@ beschliesst:
 
 **Personalrechtliche Aufgaben in Bezug auf die Schulleitungsmitglieder**
 
-<sup>1</sup> Die zuständigen Volksschulleitungsmitglieder stellen nach Anhörung des Vorstands der Schulkonferenz und des Präsidiums des Schulrats und nach Beratung in der Volksschulleitungskonferenz die Schulleitungsmitglieder an (§ 97b Schulgesetz). Die Anstellung unterliegt der Genehmigung durch die Leitung Volksschulen.
+<sup>1</sup> Die zuständigen Volksschulleitungsmitglieder stellen nach Anhörung des Vorstands der Schulkonferenz und des Präsidiums des Schulrats die Schulleitungsmitglieder nach § 97b des Schulgesetzes an. Die Anstellung unterliegt der Genehmigung durch die Leitung Volksschulen.
 
 <sup>2</sup> Die zuständigen Volksschulleitungsmitglieder haben in Bezug auf die Schulleitungen namentlich die folgenden Aufgaben:
 
@@ -187,7 +194,8 @@ beschliesst:
 - a) Sie geben für die Lehr- und Fachpersonen, die Mitarbeitenden des Schulsekretariats und die Leitung der Tagesstrukturen die Stellen oder die Veränderung des Beschäftigungsgrades frei.
 - b) Sie genehmigen die Anstellungen der Lehr- und Fachpersonen.
 - c) Sie bewilligen bei Lehrpersonen bezahlte Entlastungen und bei Lehr- und Fachpersonen Beurlaubungen für die Übernahme von schulübergreifenden Aufgaben.
-- d) Sie stellen die Anträge an die Leitung Volksschulen nach § 7 dieser Verordnung.
+- d) Sie stellen die Anträge an die Leitung Volksschulen nach § 7 dieser Verordnung;
+- e) Sie entscheiden auf Antrag der zuständigen Schulleitung über die Versetzung von Lehr- und Fachpersonen innerhalb der Volksschule.
 
 #### § 16
 
@@ -201,7 +209,7 @@ beschliesst:
 
 <sup>1</sup> Bei der Erfüllung ihrer Aufgaben beachten die Leitung Volksschulen, die zuständigen Volksschulleitungsmitglieder und die zuständige Stelle der Gemeinden die Teilautonomie der Schulleitungen, die diese zur Erfüllung des Bildungs-, Erziehungs- und Betreuungsauftrags in pädagogischen, personellen, organisatorischen und finanziellen Bereichen in Anspruch nehmen können.
 
-Schlussbestimmung
+*Schlussbestimmung*
 
 Diese Verordnung ist zu publizieren. Sie wird auf Beginn des Schuljahres 2012/13 am 13. August 2012 wirksam. Auf den gleichen Zeitpunkt wird die Ordnung für die Volksschulleitung vom 17. November 2008 aufgehoben.
 
