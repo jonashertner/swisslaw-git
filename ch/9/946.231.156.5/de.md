@@ -3,18 +3,18 @@ sr: "946.231.156.5"
 title: Verordnung vom 28. Juni 2023 über Massnahmen betreffend Moldau
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/335"
 language: de
-version: 2024-11-08
+version: 2025-08-12
 adopted: 2023-06-28
 in_force: 2023-06-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/335/20241108/de/xml/fedlex-data-admin-ch-eli-cc-2023-335-20241108-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/335/20241108/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/335/20250812/de/xml/fedlex-data-admin-ch-eli-cc-2023-335-20250812-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/335/20250812/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen betreffend Moldau
 
-vom 28. Juni 2023 (Stand am 8. November 2024)
+vom 28. Juni 2023 (Stand am 12. August 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -22,7 +22,7 @@ gestützt auf Artikel 2 des Embargogesetzes vom 22. März 2002[^ingress-1] (EmbG
 
 verordnet:
 
-[^ingress-1]: [SR 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-1]: [SR 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 
 ## 1. Abschnitt: Begriffe
 
@@ -144,5 +144,5 @@ Anhang[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 4. März 2024 ([AS 2024 97](https://fedlex.data.admin.ch/eli/oc/2024/97)), vom 21. Mai 2024 ([AS 2024 226](https://fedlex.data.admin.ch/eli/oc/2024/226)) und vom 7. Nov. 2024, in Kraft seit 8. Nov. 2024 um 18.00 Uhr ([AS 2024 619](https://fedlex.data.admin.ch/eli/oc/2024/619)).
-[^annexu1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/619](https://fedlex.data.admin.ch/eli/oc/2024/619)&gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 4. März 2024 ([AS 2024 97](https://fedlex.data.admin.ch/eli/oc/2024/97)), vom 21. Mai 2024 ([AS 2024 226](https://fedlex.data.admin.ch/eli/oc/2024/226)), vom 7. Nov. 2024 ([AS 2024 619](https://fedlex.data.admin.ch/eli/oc/2024/619)) und vom 11. Aug. 2025, in Kraft seit 12. Aug. 2025 um 23.00 Uhr (AS **202****5** 496).
+[^annexu1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/496](https://fedlex.data.admin.ch/eli/oc/2025/496) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.

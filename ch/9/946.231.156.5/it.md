@@ -3,18 +3,18 @@ sr: "946.231.156.5"
 title: Ordinanza del 28 giugno 2023 che istituisce provvedimenti concernenti la Moldova
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/335"
 language: it
-version: 2024-11-08
+version: 2025-08-12
 adopted: 2023-06-28
 in_force: 2023-06-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/335/20241108/it/xml/fedlex-data-admin-ch-eli-cc-2023-335-20241108-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/335/20241108/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/335/20250812/it/xml/fedlex-data-admin-ch-eli-cc-2023-335-20250812-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/335/20250812/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti concernenti la Moldova
 
-del 28 giugno 2023 (Stato 8 novembre 2024)
+del 28 giugno 2023 (Stato 12 agosto 2025)
 
 Il Consiglio federale,
 
@@ -22,7 +22,7 @@ visto l’articolo 2 della legge del 22 marzo 2002[^ingress-1] sugli embarghi (L
 
 ordina:
 
-[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 
 ## Sezione 1: Definizioni
 
@@ -144,5 +144,5 @@ Allegato[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Aggiornato dalla cifra I delle O del DEFR del 4 mar. 2024 ([RU 2024 97](https://fedlex.data.admin.ch/eli/oc/2024/97)), del 21 mag. 2024 ([RU 2024 226](https://fedlex.data.admin.ch/eli/oc/2024/226)) e del 7 nov. 2024, in vigore dall’8 nov. 2024 alle 18.00 ([RU 2024 619](https://fedlex.data.admin.ch/eli/oc/2024/619)).
-[^annexu1-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/619](https://fedlex.data.admin.ch/eli/oc/2024/619) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-1]: Aggiornato dalla cifra I delle O del DEFR del 4 mar. 2024 ([RU 2024 97](https://fedlex.data.admin.ch/eli/oc/2024/97)), del 21 mag. 2024 ([RU 2024 226](https://fedlex.data.admin.ch/eli/oc/2024/226)), del 7 nov. 2024[RU 2024 619](https://fedlex.data.admin.ch/eli/oc/2024/619)) e dell’11 ago. 2025, in vigore dal 12 ago. 2025 alle 23.00 ([RU 2025 496](https://fedlex.data.admin.ch/eli/oc/2025/496)).
+[^annexu1-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/496](https://fedlex.data.admin.ch/eli/oc/2025/496) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.

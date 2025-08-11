@@ -3,18 +3,18 @@ sr: "946.231.156.5"
 title: Ordonnance du 28 juin 2023 instituant des mesures concernant la Moldova
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/335"
 language: fr
-version: 2024-11-08
+version: 2025-08-12
 adopted: 2023-06-28
 in_force: 2023-06-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/335/20241108/fr/xml/fedlex-data-admin-ch-eli-cc-2023-335-20241108-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/335/20241108/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/335/20250812/fr/xml/fedlex-data-admin-ch-eli-cc-2023-335-20250812-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/335/20250812/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures concernant la Moldova
 
-du 28 juin 2023 (État le 8 novembre 2024)
+du 28 juin 2023 (État le 12 août 2025)
 
 Le Conseil fédéral suisse,
 
@@ -22,7 +22,7 @@ vu l’art. 2 de la loi du 22 mars 2002 sur les embargos (LEmb)[^ingress-1],
 
 arrête:
 
-[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 
 ## Section 1 Définitions
 
@@ -144,5 +144,5 @@ Annexe[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Mise à jour par le ch. I des O du DEFR du 4 mars 2024 ([RO 2024 97](https://fedlex.data.admin.ch/eli/oc/2024/97)), du 21 mai 2024 ([RO 2024 226](https://fedlex.data.admin.ch/eli/oc/2024/226)) et du 7 nov. 2024, en vigueur depuis le 8 nov. 2024 à 18 heures ([RO 2024 619](https://fedlex.data.admin.ch/eli/oc/2024/619)).
-[^annexu1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/619](https://fedlex.data.admin.ch/eli/oc/2024/619) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-1]: Mise à jour par le ch. I des O du DEFR du 4 mars 2024 ([RO 2024 97](https://fedlex.data.admin.ch/eli/oc/2024/97)), du 21 mai 2024 ([RO 2024 226](https://fedlex.data.admin.ch/eli/oc/2024/226)), du 7 nov. 2024 ([RO 2024 619](https://fedlex.data.admin.ch/eli/oc/2024/619)) et du 11 août 2025, en vigueur depuis le 12 août 2025 à 23 heures ([RO 2025 496](https://fedlex.data.admin.ch/eli/oc/2025/496)).
+[^annexu1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/496](https://fedlex.data.admin.ch/eli/oc/2025/496) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
