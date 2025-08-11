@@ -1,40 +1,43 @@
 ---
 canton: UR
 number: "9.2113"
-title: Gesetz über die Einführung des Kindes- und Erwachsenenschutzrechts
+title: GESETZ über die Einführung des Kindes- und Erwachsenenschutzrechts
 short: EG/KESR
 language: de
 version: 2013-01-01
+corrected: 2025-08-12
 version_adopted: 2011-10-23
 adopted: 2011-10-23
 in_force: 2013-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/9.2113"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/703/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/141/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über die Einführung des Kindes- und Erwachsenenschutzrechts
+# GESETZ über die Einführung des Kindes- und Erwachsenenschutzrechts
 
-(EG/KESR)
+GESETZ über die Einführung des Kindes- und Erwachsenenschutzrechts (EG/KESR)
 
-Vom 23.10.2011 (Stand 01.01.2013)
+(vom 23. Oktober 2011[^t-1]; Stand am 1. Januar 2013)
 
-Das Volk des Kantons Uri,
-
-gestützt auf Artikel 52 des Schlusstitels des Schweizerischen Zivilgesetzbuchs (SR [210](https://db.clex.ch/link/Bund/210/de)) und auf Artikel 90 Absatz 1 der Verfassung des Kantons Uri (RB [1.1101](https://rechtsbuch.ur.ch/data/1.1101/de)),
+Das Volk des Kantons Uri, gestützt auf Artikel 52 des Schlusstitels des Schweizerischen Zivilgesetzbuchs[^t-2] und auf Artikel 90 Absatz 1 der Verfassung des Kantons Uri<sup>3</sup>,
 
 beschliesst:
 
-## 1 Gegenstand
+[^t-1]: AB vom 9. September 2011
+[^t-2]: SR 210
+
+### 1. Kapitel: GEGENSTAND
 
 #### Artikel 1
 
-<sup>1</sup> Dieses Gesetz vollzieht die bundesrechtlichen Vorschriften über das Kindes- und Erwachsenenschutzrecht.
+Dieses Gesetz vollzieht die bundesrechtlichen Vorschriften über das Kindes- und Erwachsenenschutzrecht.
 
-## 2 Organisation, Zuständigkeit und Verfahren
+### 2. Kapitel: ORGANISATION, ZUSTÄNDIGKEIT UND VERFAHREN
 
-### 2.1 Kindes- und Erwachsenenschutzbehörde
+### 1. Abschnitt: Kindes- und Erwachsenenschutzbehörde
 
 #### Artikel 2
 
@@ -50,8 +53,9 @@ beschliesst:
 
 <sup>1</sup> Für bevormundete Kinder und für volljährige Personen unter umfassender Beistandschaft gilt als Sitz der Kindes- und Erwachsenenschutzbehörde die Gemeinde:
 
-- a) in der die betroffene Person bei der Errichtung der Vormundschaft oder der umfassenden Beistandschaft ihren Wohnsitz hatte
-- b) in die die betroffene Person mit Zustimmung der Kindes- und Erwachsenenschutzbehörde ihren Lebensmittelpunkt verlegt hat
+- a) in der die betroffene Person bei der Errichtung der Vormundschaft oder der umfassenden Beistandschaft ihren Wohnsitz hatte;
+
+- b) in die die betroffene Person mit Zustimmung der Kindes- und Erwachsenenschutzbehörde ihren Lebensmittelpunkt verlegt hat.
 
 <sup>2</sup> Wird die Vormundschaft oder die umfassende Beistandschaft einer anderen Kindes- und Erwachsenenschutzbehörde übertragen, gilt Absatz 1 sinngemäss.
 
@@ -77,25 +81,25 @@ beschliesst:
 
 **Verfahren**
 
-<sup>1</sup> Soweit das Bundesrecht oder dieses Gesetz nichts anderes bestimmen, richtet sich das Verfahren vor der Kindes- und Erwachsenenschutzbehörde nach den Bestimmungen der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)).
+<sup>1</sup> Soweit das Bundesrecht oder dieses Gesetz nichts anderes bestimmen, richtet sich das Verfahren vor der Kindes- und Erwachsenenschutzbehörde nach den Bestimmungen der Verordnung über die Verwaltungsrechtspflege<sup>4</sup>.
 
-<sup>2</sup> Haben die angeordneten Massnahmen erhebliche Kosten für die Unterstützungsgemeinde zur Folge, ist diese vorgängig anzuhören. Dringliche Massnahmen bleiben vorbehalten.
+2 Haben die angeordneten Massnahmen erhebliche Kosten für die Unterstützungsgemeinde zur Folge, ist diese vorgängig anzuhören. Dringliche Massnahmen bleiben vorbehalten.
 
 #### Artikel 7
 
 **Administrative Angliederung**
 
-<sup>1</sup> In administrativer Hinsicht ist die Kindes- und Erwachsenenschutzbehörde der zuständigen Direktion[^Artikel7-1] angegliedert.
+In administrativer Hinsicht ist die Kindes- und Erwachsenenschutzbehörde der zuständigen Direktion[^7-1] angegliedert.
 
-[^Artikel7-1]: Gesundheits-, Sozial- und Umweltdirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^7-1]: Gesundheits-, Sozial- und Umweltdirektion; siehe Organisationsreglement (RB 2.3322).
 
 #### Artikel 8
 
 **Sekretariat**
 
-<sup>1</sup> Die unterstützenden Dienste besorgen das Sekretariat der Kindes- und Erwachsenenschutzbehörde.
+Die unterstützenden Dienste besorgen das Sekretariat der Kindes- und Erwachsenenschutzbehörde.
 
-### 2.2 Unterstützende Dienste
+### 2. Abschnitt: Unterstützende Dienste
 
 #### Artikel 9
 
@@ -119,7 +123,7 @@ beschliesst:
 
 **Weitere unterstützende Dienste**
 
-<sup>1</sup> Sind nötige Kenntnisse weder bei der Kindes- und Erwachsenenschutzbehörde noch bei den unterstützenden Diensten vorhanden, erteilt die Kindes- und Erwachsenenschutzbehörde im Einzelfall Dritten, namentlich den regionalen Sozialdiensten, entsprechende Aufträge.
+Sind nötige Kenntnisse weder bei der Kindes- und Erwachsenenschutzbehörde noch bei den unterstützenden Diensten vorhanden, erteilt die Kindes- und Erwachsenenschutzbehörde im Einzelfall Dritten, namentlich den regionalen Sozialdiensten, entsprechende Aufträge.
 
 #### Artikel 12
 
@@ -129,41 +133,41 @@ beschliesst:
 
 <sup>2</sup> In diesem Rahmen sind sie befugt, im Namen der Kindes- und Erwachsenenschutzbehörde zu handeln.
 
-### 2.3 Berufsbeistandschaft
+### 3. Abschnitt: Berufsbeistandschaft
 
 #### Artikel 13
 
 <sup>1</sup> Der Kanton führt eine Berufsbeistandschaft mit einer oder mehreren Personen, die Beistandschaften und für Kinder zudem Vormundschaften übernehmen. Die Mitarbeitenden der Berufsbeistandschaft werden nach den Bestimmungen des kantonalen Personalrechts angestellt, soweit sie nicht im Auftragsverhältnis arbeiten.
 
-<sup>2</sup> In administrativer Hinsicht ist die Berufsbeistandschaft der zuständigen Direktion[^Artikel13-1] angegliedert. In fachlicher Hinsicht ist sie der Kindes- und Erwachsenenschutzbehörde unterstellt.
+<sup>2</sup> In administrativer Hinsicht ist die Berufsbeistandschaft der zuständigen Direktion[^13-1] angegliedert. In fachlicher Hinsicht ist sie der Kindes- und Erwachsenenschutzbehörde unterstellt.
 
 <sup>3</sup> Die Aufgaben der Berufsbeiständin oder des Berufsbeistands richten sich nach dem Bundesrecht und den Anordnungen der Kindes- und Erwachsenenschutzbehörde.
 
 <sup>4</sup> Die Übertragung der Beistandschaft an eine andere natürliche Person als die Berufsbeiständin oder der Berufsbeistand bleibt gewährleistet.
 
-[^Artikel13-1]: Gesundheits-, Sozial- und Umweltdirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^13-1]: Gesundheits-, Sozial- und Umweltdirektion; siehe Organisationsreglement (RB 2.3322).
 
-### 2.4 Beschwerden
+### 4. Abschnitt: Beschwerden
 
 #### Artikel 14
 
 **Beschwerdeinstanz**
 
-<sup>1</sup> Gegen Entscheide der Kindes- und Erwachsenenschutzbehörde sowie in den Fällen nach Artikel 439 ZGB kann beim Obergericht Beschwerde erhoben werden.
+Gegen Entscheide der Kindes- und Erwachsenenschutzbehörde sowie in den Fällen nach Artikel 439 ZGB kann beim Obergericht Beschwerde erhoben werden.
 
 #### Artikel 15
 
 **Verfahren**
 
-<sup>1</sup> Soweit das Bundesrecht nichts anderes bestimmt, richtet sich das Verfahren vor Obergericht nach den Bestimmungen über die Verwaltungsgerichtsbeschwerde gemäss der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)).
+Soweit das Bundesrecht nichts anderes bestimmt, richtet sich das Verfahren vor Obergericht nach den Bestimmungen über die Verwaltungsgerichtsbeschwerde gemäss der Verordnung über die Verwaltungsrechtspflege<sup>7</sup>.
 
-### 2.5 Aufsicht
+### 5. Abschnitt: Aufsicht
 
 #### Artikel 16
 
 **Aufsichtsbehörde**
 
-<sup>1</sup> Der Regierungsrat ist die Aufsichtsbehörde nach Artikel 441 ZGB.
+Der Regierungsrat ist die Aufsichtsbehörde nach Artikel 441 ZGB.
 
 #### Artikel 17
 
@@ -173,7 +177,7 @@ beschliesst:
 
 <sup>2</sup> Die Befugnisse der gerichtlichen Beschwerdeinstanz bleiben vorbehalten.
 
-### 2.6 Kosten
+### 6. Abschnitt: Kosten
 
 #### Artikel 18
 
@@ -181,7 +185,7 @@ beschliesst:
 
 <sup>1</sup> Der Kanton trägt die Kosten der Organisation der Kindes- und Erwachsenenschutzbehörde und der Verfahren vor dieser.
 
-<sup>2</sup> Können die Kosten für Massnahmen, die die Kindes- und Erwachsenenschutzbehörde im Einzelfall getroffen hat, nicht von der betroffenen Person bezahlt werden, hat jene Gemeinde den fehlenden Betrag zu bezahlen, die für die wirtschaftliche Sozialhilfe gemäss dem Gesetz über die öffentliche Sozialhilfe (RB [20.3421](https://rechtsbuch.ur.ch/data/20.3421/de)) zuständig ist.
+<sup>2</sup> Können die Kosten für Massnahmen, die die Kindes- und Erwachsenenschutzbehörde im Einzelfall getroffen hat, nicht von der betroffenen Person bezahlt werden, hat jene Gemeinde den fehlenden Betrag zu bezahlen, die für die wirtschaftliche Sozialhilfe gemäss dem Gesetz über die öffentliche Sozialhilfe<sup>8</sup> zuständig ist.
 
 #### Artikel 19
 
@@ -191,9 +195,9 @@ beschliesst:
 
 <sup>2</sup> Soweit die Entschädigung und der Ersatz der Spesen nicht aus dem Vermögen der betroffenen Person bezahlt werden können, trägt der Kanton die Kosten.
 
-<sup>3</sup> Der Regierungsrat erlässt Richtlinien für die Entschädigung und den Spesenersatz.
+3 Der Regierungsrat erlässt Richtlinien für die Entschädigung und den Spesenersatz.
 
-## 3 Ambulante Massnahmen
+### 3. Kapitel: AMBULANTE MASSNAHMEN
 
 #### Artikel 20
 
@@ -201,13 +205,15 @@ beschliesst:
 
 <sup>2</sup> Zulässig sind insbesondere Massnahmen, die die betroffene Person:
 
-- a) verpflichten, regelmässig eine fachliche Beratung oder Begleitung in Anspruch zu nehmen oder sich einer Therapie zu unterziehen
-- b) anweisen, bestimmte Medikamente einzunehmen
-- c) anweisen, sich alkoholischer Getränke und anderer Suchtmittel zu enthalten
+- a) verpflichten, regelmässig eine fachliche Beratung oder Begleitung in Anspruch zu nehmen oder sich einer Therapie zu unterziehen;
+
+- b) anweisen, bestimmte Medikamente einzunehmen;
+
+- c) anweisen, sich alkoholischer Getränke und anderer Suchtmittel zu enthalten.
 
 <sup>3</sup> Ambulante Massnahmen sind zu befristen. Sie dauern höchstens zwölf Monate und fallen danach ohne Weiteres dahin, sofern die Kindes- und Erwachsenenschutzbehörde nicht innert dieser Frist eine neue Anordnung trifft.
 
-## 4 Fürsorgerische Unterbringung
+### 4. Kapitel: FÜRSORGERISCHE UNTERBRINGUNG
 
 #### Artikel 21
 
@@ -225,7 +231,7 @@ beschliesst:
 
 <sup>1</sup> Die Zuständigkeit zur Entlassung aus der fürsorgerischen Unterbringung richtet sich nach dem Bundesrecht.
 
-<sup>2</sup> Ist die Einrichtung nicht selbst zuständig zur Entlassung und erachtet sie die Voraussetzungen für die Unterbringung als nicht mehr erfüllt, beantragt sie der Kindes- und Erwachsenenschutzbehörde die Entlassung. Sie kann damit Empfehlungen für die Nachbetreuung verbinden.
+2 Ist die Einrichtung nicht selbst zuständig zur Entlassung und erachtet sie die Voraussetzungen für die Unterbringung als nicht mehr erfüllt, beantragt sie der Kindes- und Erwachsenenschutzbehörde die Entlassung. Sie kann damit Empfehlungen für die Nachbetreuung verbinden.
 
 <sup>3</sup> Entlassungsgesuche der betroffenen Person oder einer ihr nahestehenden Person sind unverzüglich der zuständigen Entlassungsbehörde weiterzuleiten.
 
@@ -247,9 +253,9 @@ beschliesst:
 
 **Gegenseitige Information**
 
-<sup>1</sup> Die Kindes- und Erwachsenenschutzbehörde und die Einrichtungen zur fürsorgerischen Unterbringung bedienen sich gegenseitig mit den getroffenen Verfügungen. Sie informieren sich gegenseitig über weitere Massnahmen, soweit das erforderlich ist, um die jeweiligen Zuständigkeiten wahrzunehmen.
+Die Kindes- und Erwachsenenschutzbehörde und die Einrichtungen zur fürsorgerischen Unterbringung bedienen sich gegenseitig mit den getroffenen Verfügungen. Sie informieren sich gegenseitig über weitere Massnahmen, soweit das erforderlich ist, um die jeweiligen Zuständigkeiten wahrzunehmen.
 
-## 5 Weitere Bestimmungen
+### 5. Kapitel: WEITERE BESTIMMUNGEN
 
 #### Artikel 25
 
@@ -257,13 +263,13 @@ beschliesst:
 
 <sup>1</sup> Jede Person kann der Kindes- und Erwachsenenschutzbehörde Meldung erstatten, wenn eine Person hilfsbedürftig erscheint. Vorbehalten bleiben die Bestimmungen über das Berufsgeheimnis.
 
-<sup>2</sup> Wer in amtlicher Tätigkeit von einer solchen Person erfährt, ist meldepflichtig. Ebenfalls meldepflichtig sind Schulleiterinnen und Schulleiter, Lehrpersonen sowie Ärztinnen und Ärzte, die in Ausübung ihres Berufs von der Hilfsbedürftigkeit von Kindern Kenntnis erhalten.
+2 Wer in amtlicher Tätigkeit von einer solchen Person erfährt, ist meldepflichtig. Ebenfalls meldepflichtig sind Schulleiterinnen und Schulleiter, Lehrpersonen sowie Ärztinnen und Ärzte, die in Ausübung ihres Berufs von der Hilfsbedürftigkeit von Kindern Kenntnis erhalten.
 
 #### Artikel 26
 
 **Rückgriffsrecht des Kantons**
 
-<sup>1</sup> Wird der Kanton wegen behördlicher Massnahmen des Kindes- oder des Erwachsenenschutzrechts schadenersatzpflichtig oder muss er deswegen Genugtuung bezahlen, kann er auf die verursachenden Organe zurückgreifen, wenn diese den Schaden oder die Genugtuung durch vorsätzliche oder grobfahrlässige Verletzung ihrer Amtspflicht verschuldet haben.
+Wird der Kanton wegen behördlicher Massnahmen des Kindes- oder des Erwachsenenschutzrechts schadenersatzpflichtig oder muss er deswegen Genugtuung bezahlen, kann er auf die verursachenden Organe zurückgreifen, wenn diese den Schaden oder die Genugtuung durch vorsätzliche oder grobfahrlässige Verletzung ihrer Amtspflicht verschuldet haben.
 
 #### Artikel 27
 
@@ -271,23 +277,25 @@ beschliesst:
 
 <sup>1</sup> Wohn- und Pflegeeinrichtungen, in denen urteilsunfähige Personen betreut werden, unterstehen der Aufsicht des Regierungsrats, soweit nicht durch bundesrechtliche oder kantonalrechtliche Vorschriften bereits eine genügende Aufsicht gewährleistet ist.
 
-<sup>2</sup> Der Regierungsrat kann diese Aufgaben ganz oder teilweise der zuständigen Direktion[^Artikel27-1] übertragen.
+<sup>2</sup> Der Regierungsrat kann diese Aufgaben ganz oder teilweise der zuständigen Direktion[^27-1] übertragen.
 
-[^Artikel27-1]: Gesundheits-, Sozial- und Umweltdirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^27-1]: Gesundheits-, Sozial- und Umweltdirektion; siehe Organisationsreglement (RB 2.3322).
 
-## 6 Schluss- und Übergangsbestimmungen
+### 6. Kapitel: SCHLUSS- UND ÜBERGANGSBESTIMMUNGEN
 
 #### Artikel 28
 
 **Vollzug**
 
-<sup>1</sup> Der Regierungsrat vollzieht dieses Gesetz. Er erlässt ein Reglement, das das Gesetz näher ausführt.
+Der Regierungsrat vollzieht dieses Gesetz. Er erlässt ein Reglement, das das Gesetz näher ausführt.
 
 #### Artikel 29
 
-**Änderung bisherigen Rechts[^Artikel29-1]**
+**Änderung bisherigen Rechts**
 
-[^Artikel29-1]: Die Änderungen wurden in den entsprechenden Erlasse eingefügt.
+…[^29-1]
+
+[^29-1]: Die Änderungen wurden in den entsprechenden Erlasse eingefügt.
 
 #### Artikel 30
 
@@ -299,9 +307,7 @@ beschliesst:
 
 #### Artikel 31
 
-**Übergangsbestimmung zu den bisherigen vormundschaftlichen Aufgaben**
-
-<sup>1</sup> Die Kindes- und Erwachsenenschutzbehörde übernimmt mit dem Inkrafttreten dieses Gesetzes alle Aufgaben und Verfahren der bisherigen vormundschaftlichen Behörden.
+Übergangsbestimmung zu den bisherigen vormundschaftlichen Aufgaben Die Kindes- und Erwachsenenschutzbehörde übernimmt mit dem Inkrafttreten dieses Gesetzes alle Aufgaben und Verfahren der bisherigen vormundschaftlichen Behörden.
 
 #### Artikel 32
 
@@ -309,8 +315,10 @@ beschliesst:
 
 <sup>1</sup> Dieses Gesetz unterliegt der Volksabstimmung.
 
-<sup>2</sup> Der Regierungsrat bestimmt, wann es in Kraft tritt[^Artikel32-1]. Es ist dem Bundesamt für Justiz zur Kenntnis zu bringen.
+<sup>2</sup> Der Regierungsrat bestimmt, wann es in Kraft tritt[^32-1]. Es ist dem Bundesamt für Justiz zur Kenntnis zu bringen.
 
-[^Artikel32-1]: Vom Regierungsrat in Kraft gesetzt auf den 1. Januar 2013 (AB vom 21. Dezember 2012).
+Im Namen des Volks
 
-AB 09.09.2011
+Der Landammann: Markus Züst Der Kanzleidirektor: Roman Balli
+
+[^32-1]: Vom Regierungsrat in Kraft gesetzt auf den 1. Januar 2013 (AB vom 21. Dezember 2012).
