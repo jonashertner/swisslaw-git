@@ -1,45 +1,55 @@
 ---
 canton: UR
 number: "9.2325"
-title: Reglement über die Anwaltsprüfung
+title: REGLEMENT über die Anwaltsprüfung
 language: de
 version: 2007-01-01
+corrected: 2025-08-12
 version_adopted: 2006-11-30
 adopted: 2002-04-05
 in_force: 2002-06-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/9.2325"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/705/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/150/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über die Anwaltsprüfung
+# REGLEMENT über die Anwaltsprüfung
 
-Vom 05.04.2002 (Stand 01.01.2007)
+REGLEMENT über die Anwaltsprüfung
 
-Das Obergericht des Kantons Uri,
+(vom 5. April 2002[^t-1]; Stand am 1. Januar 2007)
 
-gestützt auf Artikel 5 der Anwaltsverordnung vom 13. Juni 2001 (AnV, RB [9.2321](https://rechtsbuch.ur.ch/data/9.2321/de)),
+Das Obergericht des Kantons Uri, gestützt auf Artikel 5 der Anwaltsverordnung vom 13. Juni 2001 (AnV)[^t-2],
 
 beschliesst:
 
-## 1 Zweck der Prüfung
+[^t-1]: AB vom 12. April 2002
+[^t-2]: RB 9.2321
+
+### 1. Abschnitt: Zweck der Prüfung
 
 #### Artikel 1
 
-<sup>1</sup> Mit der Anwaltsprüfung hat sich der Kandidat oder die Kandidatin darüber auszuweisen, dass er oder sie fachlich fähig ist, den Beruf eines Rechtsanwalts oder einer Rechtsanwältin im Kanton Uri auszuüben.
+Mit der Anwaltsprüfung hat sich der Kandidat oder die Kandidatin darüber auszuweisen, dass er oder sie fachlich fähig ist, den Beruf eines Rechtsanwalts oder einer Rechtsanwältin im Kanton Uri auszuüben.
 
-### 2 Zulassung zur Prüfung
+### 2. Abschnitt: Zulassung zur Prüfung
 
 #### Artikel 2
 
 **Materielle Voraussetzungen**
 
-<sup>1</sup> Zur Anwaltsprüfung wird zugelassen, wer sich ausweist über:
+Zur Anwaltsprüfung wird zugelassen, wer sich ausweist über:
 
-- a) ein juristisches Studium, das mit einem Lizentiat oder Master einer schweizerischen Hochschule oder einem gleichwertigen Hochschuldiplom eines Staates abgeschlossen wurde, der mit der Schweiz die gegenseitige Anerkennung vereinbart hat
-- b) die Erfüllung der Erfordernisse nach Artikel 8 Absatz 1 Buchstabe a bis c BGFA (SR [935.61](https://db.clex.ch/link/Bund/935.61/de))
-- c) die Absolvierung des Rechtspraktikums nach diesem Reglement
+- a) ein juristisches Studium, das mit einem Lizentiat oder Master einer schweizerischen Hochschule oder einem gleichwertigen Hochschuldiplom eines Staates abgeschlossen wurde, der mit der Schweiz die gegenseitige Anerkennung vereinbart hat;[^2-1]
+
+- b) die Erfüllung der Erfordernisse nach Artikel 8 Absatz 1 Buchstabe a bis c BGFA[^2-2];
+
+- c) die Absolvierung des Rechtspraktikums nach diesem Reglement.
+
+[^2-1]: Fassung gemäss OGerB vom 30. November 2006, in Kraft gesetzt auf den 1. Januar 2007 (AB vom 8. Dezember 2006).
+[^2-2]: SR 935.61
 
 #### Artikel 3
 
@@ -49,20 +59,27 @@ beschliesst:
 
 <sup>2</sup> Dem Zulassungsgesuch sind beizulegen:
 
-- a) eine kurze Beschreibung des Lebenslaufs
-- b) das Hochschuldiplom
-- c) das Handlungsfähigkeitszeugnis
-- d) ein Auszug aus dem Strafregister
-- e) ein Auszug aus dem Betreibungsregister und
-- f) die Bescheinigung des absolvierten Rechtspraktikums
+- a) eine kurze Beschreibung des Lebenslaufs;
 
-## 3 3Rechtspraktikum
+- b) das Hochschuldiplom;
+
+- c) das Handlungsfähigkeitszeugnis;
+
+- d) ein Auszug aus dem Strafregister;
+
+- e) ein Auszug aus dem Betreibungsregister und
+
+- f) die Bescheinigung des absolvierten Rechtspraktikums.
+
+### 3. Abschnitt: Rechtspraktikum
+
+[^h3AbschnittRechts-1]: Fassung gemäss OGerB vom 30. November 2006, in Kraft gesetzt auf den 1. Januar 2007 (AB vom 8. Dezember 2006).
 
 #### Artikel 4
 
-**Zulassung**
+**Zulassung**[^h3AbschnittRechts-1]
 
-<sup>1</sup> Für die Zulassung zum Rechtspraktikum genügt der Abschluss eines juristischen Studiums mit dem Bachelor.
+Für die Zulassung zum Rechtspraktikum genügt der Abschluss eines juristischen Studiums mit dem Bachelor.
 
 #### Artikel 5
 
@@ -82,7 +99,7 @@ beschliesst:
 
 **Unterbrechungen**
 
-<sup>1</sup> Nicht ausbildungsbezogene Unterbrechungen des Rechtspraktikums aus wichtigen Gründen beispielsweise wegen Schwangerschaft, Ferien, Krankheit oder Unfall, werden nicht an die vorgeschriebene Praktikumszeit angerechnet, soweit sie insgesamt die Dauer von acht Wochen übersteigen.
+Nicht ausbildungsbezogene Unterbrechungen des Rechtspraktikums aus wichtigen Gründen beispielsweise wegen Schwangerschaft, Ferien, Krankheit oder Unfall, werden nicht an die vorgeschriebene Praktikumszeit angerechnet, soweit sie insgesamt die Dauer von acht Wochen übersteigen.
 
 #### Artikel 7
 
@@ -96,7 +113,7 @@ beschliesst:
 
 <sup>4</sup> Der Praktikumsplan ist verbindlich. Änderungen sind genehmigungsbedürftig.
 
-## 4 Zeitpunkt der Prüfung
+### 4. Abschnitt: Zeitpunkt der Prüfung
 
 #### Artikel 8
 
@@ -108,7 +125,7 @@ beschliesst:
 
 <sup>3</sup> Die Anwalts- und die Notariatsprüfung dürfen nicht im gleichen Zeitpunkt, jedoch in der gleichen Prüfungsperiode abgelegt werden.
 
-## 5 Die Prüfung
+### 5. Abschnitt: Die Prüfung
 
 #### Artikel 9
 
@@ -122,19 +139,23 @@ beschliesst:
 
 #### Artikel 10
 
-**Schriftliche Prüfung: Rechtsgebiete**
+**Schriftliche Prüfung**
 
-<sup>1</sup> Die schriftliche Prüfung erstreckt sich auf:
+- a) Rechtsgebiete Die schriftliche Prüfung erstreckt sich auf:
 
-- a) das Straf- und Strafprozessrecht
-- b) das Staats- und Verwaltungsrecht, eingeschlossen die Rechtspflege
-- c) das Privatrecht
-- d) das Zivilprozessrecht
-- e) das Schuldbetreibungs- und Konkursrecht
+- a) das Straf- und Strafprozessrecht;
 
-#### Artikel 11
+- b) das Staats- und Verwaltungsrecht, eingeschlossen die Rechtspflege;
 
-**Schriftliche Prüfung: Aufgaben**
+- c) das Privatrecht;
+
+- d) das Zivilprozessrecht;
+
+- e) das Schuldbetreibungs- und Konkursrecht.
+
+#### Artikel 11 b
+
+**) Aufgaben**
 
 <sup>1</sup> Der Kandidat oder die Kandidatin hat drei Aufgaben aus den Rechtsgebieten nach Artikel 10 zu lösen.
 
@@ -148,32 +169,37 @@ beschliesst:
 
 #### Artikel 12
 
-**Mündliche Prüfung: Zulassung**
+**Mündliche Prüfung**
 
-<sup>1</sup> Der Kandidat oder die Kandidatin wird erst zur mündlichen Prüfung zugelassen, wenn seine oder ihre schriftlichen Arbeiten einen Notendurchschnitt von mindestens 4.0 aufweisen. Die Bewertung richtet sich nach Artikel 16.
+- a) Zulassung Der Kandidat oder die Kandidatin wird erst zur mündlichen Prüfung zugelassen, wenn seine oder ihre schriftlichen Arbeiten einen Notendurchschnitt von mindestens 4.0 aufweisen. Die Bewertung richtet sich nach Artikel 16.
 
-#### Artikel 13
+#### Artikel 13 b
 
-**Mündliche Prüfung: Rechtsgebiete**
+**) Rechtsgebiete**
 
-<sup>1</sup> Die mündliche Prüfung erstreckt sich auf:
+Die mündliche Prüfung erstreckt sich auf:
 
-- a) das Straf- und Strafprozessrecht
-- b) das Staats- und Verwaltungsrecht, eingeschlossen die Rechtspflege
-- c) das Privatrecht
-- d) das Zivilprozessrecht
-- e) das Schuldbetreibungs- und Konkursrecht
-- f) das Anwaltsrecht
+- a) das Straf- und Strafprozessrecht;
 
-#### Artikel 14
+- b) das Staats- und Verwaltungsrecht, eingeschlossen die Rechtspflege;
 
-**Mündliche Prüfung: Prüfungsablauf**
+- c) das Privatrecht;
+
+- d) das Zivilprozessrecht;
+
+- e) das Schuldbetreibungs- und Konkursrecht;
+
+- f) das Anwaltsrecht.
+
+#### Artikel 14 c
+
+**) Prüfungsablauf**
 
 <sup>1</sup> Der Kandidat oder die Kandidatin wird in vier Prüfungen in den Rechtsgebieten nach Artikel 13 geprüft.
 
-<sup>2</sup> Die mündlichen Prüfungen dauern je 30 Minuten.
+2 Die mündlichen Prüfungen dauern je 30 Minuten.
 
-<sup>3</sup> Die Zuordnung der Rechtsgebiete zu den einzelnen Prüfungen wird dem Kandidaten oder der Kandidatin mit der Zulassung zur mündlichen Prüfung bekanntgegeben.
+3 Die Zuordnung der Rechtsgebiete zu den einzelnen Prüfungen wird dem Kandidaten oder der Kandidatin mit der Zulassung zur mündlichen Prüfung bekanntgegeben.
 
 <sup>4</sup> Die Prüfung ist öffentlich.
 
@@ -199,7 +225,7 @@ beschliesst:
 
 **Bestehen**
 
-<sup>1</sup> Erreicht ein Kandidat oder eine Kandidatin mindestens die Schlussnote 4.0, hat er oder sie die Prüfung bestanden.
+Erreicht ein Kandidat oder eine Kandidatin mindestens die Schlussnote 4.0, hat er oder sie die Prüfung bestanden.
 
 #### Artikel 18
 
@@ -217,15 +243,15 @@ beschliesst:
 
 **Verwendung unerlaubter Hilfsmittel**
 
-<sup>1</sup> Wer ein Prüfungsergebnis verfälscht, namentlich durch Verwendung nicht erlaubter Hilfsmittel beeinflusst oder zu beeinflussen versucht, hat die Anwaltsprüfung für dieses Mal nicht bestanden und wird frühestens in einem Jahr zur Wiederholung zugelassen. Vorbehalten bleibt Artikel 18 Absatz 4.
+Wer ein Prüfungsergebnis verfälscht, namentlich durch Verwendung nicht erlaubter Hilfsmittel beeinflusst oder zu beeinflussen versucht, hat die Anwaltsprüfung für dieses Mal nicht bestanden und wird frühestens in einem Jahr zur Wiederholung zugelassen. Vorbehalten bleibt Artikel 18 Absatz 4.
 
 #### Artikel 20
 
 **Eignungsprüfung auf Grund von Bundesrecht**
 
-<sup>1</sup> Die Anwaltsprüfungskommission legt im Einzelfall im Rahmen des Bundesrechts den Gegenstand der Eignungsprüfung oder des Prüfungsgesprächs für ausländische Anwälte und Anwältinnen fest.
+Die Anwaltsprüfungskommission legt im Einzelfall im Rahmen des Bundesrechts den Gegenstand der Eignungsprüfung oder des Prüfungsgesprächs für ausländische Anwälte und Anwältinnen fest.
 
-## 6 Prüfungsgebühr
+### 6. Abschnitt: Prüfungsgebühr
 
 #### Artikel 21
 
@@ -235,21 +261,23 @@ beschliesst:
 
 <sup>2</sup> Wird die schriftliche Prüfung nicht angetreten, verfällt ein Betrag von 250 Franken als Anteil an die Unkosten. Wird die mündliche Prüfung nicht angetreten, wird die hälftige Gebühr zurückerstattet.
 
-## 7 Rechtspflege
+### 7. Abschnitt: Rechtspflege
 
 #### Artikel 22
 
 <sup>1</sup> Verfügungen der Anwaltsprüfungskommission können mit Verwaltungsgerichtsbeschwerde beim Obergericht angefochten werden, sofern kein Unzulässigkeitsgrund vorliegt.
 
-<sup>2</sup> Das Verfahren richtet sich nach der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)).
+<sup>2</sup> Das Verfahren richtet sich nach der Verordnung über die Verwaltungsrechtspflege[^22-1].
 
-## 8 Schluss- und Übergangsbestimmungen
+[^22-1]: RB 2.2345
+
+### 8. Abschnitt: Schluss- und Übergangsbestimmungen
 
 #### Artikel 23
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Das Reglement vom 16. Oktober 1985 über die Notariats- und Anwaltsprüfung wird aufgehoben.
+Das Reglement vom 16. Oktober 1985 über die Notariats- und Anwaltsprüfung<sup>7</sup> wird aufgehoben.
 
 #### Artikel 24
 
@@ -263,8 +291,10 @@ beschliesst:
 
 **Inkrafttreten**
 
-<sup>1</sup> Das Obergericht bestimmt, wann das Reglement in Kraft tritt[^Artikel25-1].
+Das Obergericht bestimmt, wann das Reglement in Kraft tritt[^25-1].
 
-[^Artikel25-1]: Vom Obergericht in Kraft gesetzt auf den 1. Juni 2002 (AB vom 10. Mai 2002).
+Im Namen des Obergerichtes
 
-AB 12.04.2002
+Der Präsident: Rolf Dittli Die Gerichtsschreiberin: Bernadette Häfliger
+
+[^25-1]: Vom Obergericht in Kraft gesetzt auf den 1. Juni 2002 (AB vom 10. Mai 2002).
