@@ -1,70 +1,92 @@
 ---
 canton: UR
 number: "9.2115"
-title: Reglement über die berufsmässige Ehe- und Partnerschaftsvermittlung
+title: REGLEMENT über die berufsmässige Ehe- und Partnerschaftsvermittlung
 language: de
 version: 2003-03-01
+corrected: 2025-08-12
 version_adopted: 2003-02-18
 adopted: 1999-09-28
 in_force: 2000-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/9.2115"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/721/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/142/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über die berufsmässige Ehe- und Partnerschaftsvermittlung
+# REGLEMENT über die berufsmässige Ehe- und Partnerschaftsvermittlung
 
-Vom 28.09.1999 (Stand 01.03.2003)
+REGLEMENT über die berufsmässige Ehe- und Partnerschaftsvermittlung[^t-1] (vom 28. September 1999[^t-2]; Stand am 1. März 2003)
 
-Der Regierungsrat des Kantons Uri,
+Der Regierungsrat des Kantons Uri, gestützt auf Artikel 52 Absatz 2 Schlusstitel ZGB<sup>3</sup>, beschliesst:
 
-gestützt auf Artikel 52 Absatz 2 Schlusstitel ZGB (SR [210](https://db.clex.ch/link/Bund/210/de)),
+- 1\. Abschnitt:[^t-3] ...
 
-beschliesst:
+[^t-1]: Fassung gemäss RRB vom 18. Februar 2003, in Kraft gesetzt auf den 1. März 2003 (AB vom 7. März 2003).
+[^t-2]: AB vom 15. Oktober 1999.
+[^t-3]: Aufgehoben durch RRB vom 18. Februar 2003, in Kraft gesetzt auf den 1. März 2003 (AB vom 7. März 2003).
 
-## 1
+#### Artikel 1
 
-#### Artikel 1–2
+**–2**
 
-**…**
+- 2\. Abschnitt:[^1-1] ...
 
-## 2
+[^1-1]: Aufgehoben durch RRB vom 18. Februar 2003, in Kraft gesetzt auf den 1. März 2003 (AB vom 7. März 2003).
 
-#### Artikel 3–6
+#### Artikel 3
 
-**…**
+**–6**
 
-## 3
+- 3\. Abschnitt:[^3-1] ...
 
-#### Artikel 7–10
+[^3-1]: Aufgehoben durch RRB vom 18. Februar 2003, in Kraft gesetzt auf den 1. März 2003 (AB vom 7. März 2003).
 
-**…**
+#### Artikel 7
 
-## 4 Weitere Bestimmungen
+**–10**
 
-#### Artikel 11–12
+### 4. Abschnitt: Weitere Bestimmungen
 
-**…**
+[^h4AbschnittWeiter-1]: Aufgehoben durch RRB vom 18. Februar 2003, in Kraft gesetzt auf den 1. März 2003 (AB vom 7. März 2003).
+
+#### Artikel 11
+
+[^h4AbschnittWeiter-1]
+
+[^11-1]: Aufgehoben durch RRB vom 18. Februar 2003, in Kraft gesetzt auf den 1. März 2003 (AB vom 7. März 2003).
+
+#### Artikel 12
+
+[^11-1]
+
+[^12-1]: Fassung gemäss RRB vom 18. Februar 2003, in Kraft gesetzt auf den 1. März 2003 (AB vom 7. März 2003).
 
 #### Artikel 13
 
-**Zuständige Behörde**
+**Zuständige Behörde**[^12-1]
 
-<sup>1</sup> Die Justizdirektion erteilt die Bewilligung für die berufsmässige Ehe- und Partnerschaftsvermittlung nach Artikel 406c OR (SR [220](https://db.clex.ch/link/Bund/220/de)).
+<sup>1</sup> Die Justizdirektion erteilt die Bewilligung für die berufsmässige Ehe- und Partnerschaftsvermittlung nach Artikel 406c OR<sup>10</sup>.
 
-<sup>2</sup> Sie nimmt die Kaution nach Artikel 8 der Verordnung vom 10. November 1999 über die berufsmässige Vermittlung von Personen aus dem Ausland oder ins Ausland zu Ehe oder fester Partnerschaft (SR [221.218.2](https://db.clex.ch/link/Bund/221.218.2/de)) entgegen.
+<sup>2</sup> Sie nimmt die Kaution nach Artikel 8 der Verordnung vom 10. November 1999 über die berufsmässige Vermittlung von Personen aus dem Ausland oder ins Ausland zu Ehe oder fester Partnerschaft<sup>11</sup> entgegen.
 
-## 5 Schlussbestimmungen
+**5. Abschnitt:**
 
-#### Artikel 14
+### Schlussbestimmungen
 
-**Genehmigung und Inkrafttreten**
+**Artikel 14**
 
-<sup>1</sup> Dieses Reglement bedarf zu seiner Gültigkeit der Genehmigung durch den Bund[^Artikel14-1].
+Genehmigung und Inkrafttreten
+
+<sup>1</sup> Dieses Reglement bedarf zu seiner Gültigkeit der Genehmigung durch den
+
+**Bund12.**
 
 <sup>2</sup> Es tritt am 1. Januar 2000 in Kraft.
 
-[^Artikel14-1]: Vom Bund genehmigt am 20. Oktober 1999.
+Im Namen des Regierungsrates Der Landammann: Peter Mattli Der Kanzleidirektor: Dr. Peter Huber
 
-AB 15.10.1999
+## Weitere Fussnoten
+
+- [12] Vom Bund genehmigt am 20. Oktober 1999.
