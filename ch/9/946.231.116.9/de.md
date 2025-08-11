@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Verordnung vom 16. März 2022 über Massnahmen gegenüber Belarus
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: de
-version: 2025-07-02
+version: 2025-08-12
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20250702/de/xml/fedlex-data-admin-ch-eli-cc-2022-172-20250702-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20250702/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20250812/de/xml/fedlex-data-admin-ch-eli-cc-2022-172-20250812-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20250812/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Belarus
 
-vom 16. März 2022 (Stand am 2. Juli 2025)
+vom 16. März 2022 (Stand am 12. August 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -22,7 +22,7 @@ gestützt auf Artikel 2 des Embargogesetzes vom 22. März 2002[^ingress-1] (EmbG
 
 verordnet:
 
-[^ingress-1]: [SR 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-1]: [SR 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 
 ## 1. Abschnitt: Begriffe
 
@@ -113,7 +113,7 @@ Das Staatssekretariat für Wirtschaft (SECO) kann nach Rücksprache mit den zust
 
 <sup>4</sup> Das SECO bewilligt Ausnahmen von den Verboten nach den Absätzen 1–3 im Verfahren nach Artikel 27 der Güterkontrollverordnung vom 3. Juni 2016[^3-1] (GKV), sofern sichergestellt ist, dass die betroffenen Güter und Dienstleistungen nicht zur Überwachung oder zum Abhören des Internets oder des Telefonverkehrs benützt werden.
 
-[^3-1]: [SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^3-1]: [SR 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 
 #### Art. 4
 
@@ -142,7 +142,7 @@ Der mittelbare und unmittelbare Verkauf von Rechten des geistigen Eigentums oder
 - a. in Belarus oder zur Verwendung in Belarus sind verboten;
 - b. an Endempfänger nach Anhang 5 der vorliegenden Verordnung sind verboten.[^4-5]
 
-[^4-1]: [SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^4-1]: [SR 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 [^4-2]: Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
 [^4-3]: Eingefügt durch Ziff. I der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
 [^4-4]: Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
@@ -269,7 +269,7 @@ Das SECO verweigert die Bewilligung von Ausnahmen nach Absatz 2, wenn Grund zur 
 [^7-3]: Aufgehoben durch Ziff. I der V vom 14. Mai 2025, mit Wirkung seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
 [^7-4]: Aufgehoben durch Ziff. I der V vom 30. Aug. 2023, mit Wirkung seit 30. Aug. 2023 um 18.00 Uhr ([AS 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
 [^7-5]: Aufgehoben durch Ziff. I der V vom 14. Mai 2025, mit Wirkung seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
-[^7-6]: [SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^7-6]: [SR 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 [^7-7]: Eingefügt durch Ziff. I der V vom 30. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)). Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316), [320](https://fedlex.data.admin.ch/eli/oc/2025/320)).
 [^7-8]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
 [^7-9]: Fassung gemäss Ziff. I der V vom 30. Aug. 2023, in Kraft seit 30. Aug. 2023 um 18.00 Uhr ([AS 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
@@ -291,7 +291,7 @@ Das SECO verweigert die Bewilligung von Ausnahmen nach Absatz 2, wenn Grund zur 
 
 Das Verfahren für Bewilligungen von Ausnahmen nach Artikel 7 Absatz 2 richtet sich nach den Bestimmungen der GKV[^8-1], sofern nicht anders vorgesehen.
 
-[^8-1]: [SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^8-1]: [SR 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 
 #### Art. 9
 
@@ -774,7 +774,7 @@ Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD
 
 <sup>2</sup> Sie legen alle zwölf Monate aktuelle Informationen über die Höhe dieser Einlagen vor.
 
-[^19-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^19-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 #### Art. 20
 
@@ -1011,7 +1011,7 @@ Es kann bis zum 31. Dezember 2025 Ausnahmen von den Verboten nach den Artikeln 1
 
 - c. sich die betreffenden Güter physisch in Belarus befanden, bevor die jeweiligen Verbote nach den Artikeln 10*f*, 10*g* und 11 für diese Güter in Kraft getreten sind.
 
-[^27a-1]: [SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^27a-1]: [SR 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 
 #### Art. 27b
 
@@ -1092,7 +1092,7 @@ Schweizer Staatsangehörige, in der Schweiz ansässige natürliche Personen und 
 <sup>4</sup> Die Absätze 1–3 gelten auch für Güter, die sich physisch in der Schweiz befinden und die vor dem 31. Oktober 2024 gestellt und gemäss dieser Verordnung zurückgehalten wurden.
 
 [^29a-1]: Eingefügt durch Ziff. I der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
-[^29a-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^29a-2]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 30
 
@@ -1153,7 +1153,7 @@ Das SECO kann für die Erfüllung von Finanzierungsleasingverträgen für Luftfa
 
 Die Inhalte der Anhänge 3, 5, 13, 14 und 15 werden weder in der Amtlichen Sammlung noch in der Systematischen Sammlung des Bundesrechts veröffentlicht; sie können beim SECO bezogen werden.[^32-1]
 
-[^32-1]: Veröffentlichung durch Verweis im Sinne von Art. 5 Abs. 1 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^32-1]: Veröffentlichung durch Verweis im Sinne von Art. 5 Abs. 1 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 
 #### Art. 33
 
@@ -1220,8 +1220,8 @@ Anhang 1[^t-1]
 - 10 Ausrüstung, die besonders konstruiert ist für die Herstellung der in dieser Liste aufgeführten Güter.
 - 11 Spezifische Technologie zur Entwicklung, Herstellung oder Verwendung der in dieser Liste aufgeführten Güter.
 
-[^annex1-lvlu1-1]: [SR 514.511](https://fedlex.data.admin.ch/eli/cc/1998/808_808_808)
-[^annex1-lvlu1-2]: [SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^annex1-lvlu1-1]: [SR 514.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7527)
+[^annex1-lvlu1-2]: [SR 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 
 Anhang 2
 
@@ -1558,8 +1558,8 @@ Anhang 13[^t-10]
 
 [^annex13-lvlu1-1]
 
-[^t-10]: Bereinigt gemäss Ziff. I der V des WBF vom 10. Juni 2022 ([AS 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)), vom 15. Nov. 2022 ([AS 2022 679](https://fedlex.data.admin.ch/eli/oc/2022/679)), vom 14. Aug. 2023 ([AS 2023 449](https://fedlex.data.admin.ch/eli/oc/2023/449)), vom 21. März 2024 ([AS 2024 122](https://fedlex.data.admin.ch/eli/oc/2024/122)), vom 13. Aug. 2024 ([AS 2024 413](https://fedlex.data.admin.ch/eli/oc/2024/413)), Ziff. II Abs. 1 der V vom 30. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)), Ziff. I der V des WBF vom 20. Dez. 2024 ([AS 2024 791](https://fedlex.data.admin.ch/eli/oc/2024/791)), vom 4. April 2025 ([AS 2025 228](https://fedlex.data.admin.ch/eli/oc/2025/228)) und vom 10. April 2025, in Kraft seit 11. April 2025 ([AS 2025 240](https://fedlex.data.admin.ch/eli/oc/2025/240)).
-[^annex13-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2025/240](https://fedlex.data.admin.ch/eli/oc/2025/240) &gt; Allgemeine Information &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-10]: Bereinigt gemäss Ziff. I der V des WBF vom 10. Juni 2022 ([AS 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)), vom 15. Nov. 2022 ([AS 2022 679](https://fedlex.data.admin.ch/eli/oc/2022/679)), vom 14. Aug. 2023 ([AS 2023 449](https://fedlex.data.admin.ch/eli/oc/2023/449)), vom 21. März 2024 ([AS 2024 122](https://fedlex.data.admin.ch/eli/oc/2024/122)), vom 13. Aug. 2024 ([AS 2024 413](https://fedlex.data.admin.ch/eli/oc/2024/413)), Ziff. II Abs. 1 der V vom 30. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)), Ziff. I der V des WBF vom 20. Dez. 2024 ([AS 2024 791](https://fedlex.data.admin.ch/eli/oc/2024/791)), vom 4. April 2025 ([AS 2025 228](https://fedlex.data.admin.ch/eli/oc/2025/228)) vom 10. April 2025 ([AS 2025 240](https://fedlex.data.admin.ch/eli/oc/2025/240)) und vom 11. Aug. 2025, in Kraft seit 12. Aug. 2025 um 23.00 Uhr ([AS 2025 495](https://fedlex.data.admin.ch/eli/oc/2025/495)).
+[^annex13-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/495](https://fedlex.data.admin.ch/eli/oc/2025/495) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 14
 

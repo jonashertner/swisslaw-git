@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Ordinanza del 16 marzo 2022 che istituisce provvedimenti nei confronti della Bielorussia
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: it
-version: 2025-07-02
+version: 2025-08-12
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20250702/it/xml/fedlex-data-admin-ch-eli-cc-2022-172-20250702-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20250702/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20250812/it/xml/fedlex-data-admin-ch-eli-cc-2022-172-20250812-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20250812/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Bielorussia
 
-del 16 marzo 2022 (Stato 2 luglio 2025)
+del 16 marzo 2022 (Stato 12 agosto 2025)
 
 Il Consiglio federale svizzero,
 
@@ -22,7 +22,7 @@ visto l’articolo 2 della legge del 22 marzo 2002[^ingress-1] sugli embarghi (L
 
 ordina:
 
-[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 
 ## Sezione 1: Definizioni
 
@@ -112,7 +112,7 @@ D’intesa con i servizi competenti del Dipartimento federale degli affari ester
 
 <sup>4</sup> La SECO autorizza deroghe ai divieti di cui ai capoversi 1–3 procedendo secondo l’articolo 27 dell’ordinanza del 3 giugno 2016[^3-1] sul controllo dei beni a duplice impiego (OBDI), purché i beni e i servizi interessati non siano utilizzati per il controllo o l’intercettazione di Internet o del traffico telefonico.
 
-[^3-1]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^3-1]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 
 #### Art. 4
 
@@ -141,7 +141,7 @@ Sono vietate la fornitura di servizi di ogni genere, compresi i servizi finanzia
 - a. in Bielorussia o per un uso in Bielorussia;
 - b. destinatari finali di cui all’allegato 5 della presente ordinanza.[^4-5]
 
-[^4-1]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^4-1]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 [^4-2]: Nuovo testo giusta la cifra I dell’O del 14 mag. 2025, in vigore dal 1° giu. 2025 ([RU 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
 [^4-3]: Introdotto dalla cifra I dell’O del 30 ott. 2024, in vigore dal 31 ott. 2024 ([RU 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
 [^4-4]: Nuovo testo giusta la cifra I dell’O del 14 mag. 2025, in vigore dal 1° giu. 2025 ([RU 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
@@ -268,7 +268,7 @@ La SECO nega l’autorizzazione di deroghe secondo il capoverso 2 se vi è motiv
 [^7-3]: Abrogate dalla cifra I dell’O del 14 mag. 2025, con effetto dal 1° giu. 2025 ([RU 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
 [^7-4]: Abrogata dalla cifra I dell’O del 30 ago. 2023, con effetto dal 30 ago. 2023 alle ore 18.00 ([RU 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
 [^7-5]: Abrogata dalla cifra I dell’O del 14 mag. 2025, con effetto dal 1° giu. 2025 ([RU 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
-[^7-6]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^7-6]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 [^7-7]: Introdotto dalla cifra I dell’O del 30 ott. 2024 ([RU 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)). Nuovo testo giusta la cifra I dell’O del 14 mag. 2025, in vigore dal 1° giu. 2025 ([RU 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316), [320](https://fedlex.data.admin.ch/eli/oc/2025/320)).
 [^7-8]: Introdotto dalla cifra I dell’O del 14 mag. 2025, in vigore dal 1° giu. 2025 ([RU 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
 [^7-9]: Nuovo testo giusta la cifra I dell’O del 30 ago. 2023, in vigore dal 30 ago. 2023 alle ore 18.00 ([RU 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
@@ -290,7 +290,7 @@ La SECO nega l’autorizzazione di deroghe secondo il capoverso 2 se vi è motiv
 
 Salvo disposizioni contrarie, la procedura di autorizzazione di deroghe secondo l’articolo 7 capoverso 2 è retta dalle disposizioni dell’OBDI[^8-1].
 
-[^8-1]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^8-1]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 
 #### Art. 9
 
@@ -773,7 +773,7 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 
 <sup>2</sup> Esse forniscono aggiornamenti sugli importi di tali depositi ogni 12 mesi.
 
-[^19-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^19-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 #### Art. 20
 
@@ -1010,7 +1010,7 @@ La SECO può autorizzare fino al 31 dicembre 2025 deroghe ai divieti di cui agli
 
 - c. i beni interessati si trovassero fisicamente in Bielorussia prima dell’entrata in vigore dei divieti di cui agli articoli 10*f*, 10*g* e 11 relativi a tali beni.
 
-[^27a-1]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^27a-1]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 
 #### Art. 27b
 
@@ -1091,7 +1091,7 @@ I cittadini svizzeri, le persone fisiche residenti in Svizzera e le persone giur
 <sup>4</sup> I capoversi 1–3 si applicano anche ai beni che si trovano fisicamente in Svizzera, che sono stati presentati prima del 31 ottobre 2024 e che sono stati trattenuti conformemente alla presente ordinanza.
 
 [^29a-1]: Introdotto dalla cifra I dell’O del 30 ott. 2024, in vigore dal 31 ott. 2024 ([RU 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
-[^29a-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^29a-2]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 30
 
@@ -1152,7 +1152,7 @@ La SECO può autorizzare deroghe ai divieti di cui all’articolo 10*a* capovers
 
 I contenuti degli allegati 3, 5, 13, 14 e 15 non sono pubblicati né nella Raccolta ufficiale delle leggi federali (RU) né nella Raccolta sistematica del diritto federale (RS); possono essere richiesti alla SECO[^32-1].
 
-[^32-1]: Pubblicazione mediante rimando secondo l’art. 5 cpv. 1 della legge del 18 giugno 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^32-1]: Pubblicazione mediante rimando secondo l’art. 5 cpv. 1 della legge del 18 giugno 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 
 #### Art. 33
 
@@ -1219,8 +1219,8 @@ Allegato 1[^t-1]
 - 10 Dispositivi specificamente progettati per la produzione degli articoli di cui al presente elenco.
 - 11 Tecnologia specifica destinata allo sviluppo, alla fabbricazione e all’utilizzo degli articoli di cui al presente elenco.
 
-[^annex1-lvlu1-1]: [RS 514.511](https://fedlex.data.admin.ch/eli/cc/1998/808_808_808)
-[^annex1-lvlu1-2]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^annex1-lvlu1-1]: [RS 514.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7527)
+[^annex1-lvlu1-2]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 
 Allegato 2
 
@@ -1557,8 +1557,8 @@ Allegato 13[^t-10]
 
 [^annex13-lvlu1-1]
 
-[^t-10]: Aggiornato dalla cifra I delle O del DEFR del 10 giu. 2022 ([RU 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)), del 15 nov. 2022 ([RU 2022 679](https://fedlex.data.admin.ch/eli/oc/2022/679)), del 14 ago. 2023 ([RU 2023 449](https://fedlex.data.admin.ch/eli/oc/2023/449)), del 21 mar. 2024 ([RU 2024 122](https://fedlex.data.admin.ch/eli/oc/2024/122)) del 13 ago. 2024 ([RU 2024 413](https://fedlex.data.admin.ch/eli/oc/2024/413)), dalla cifra II cpv. 1 dell’O del 30 ott. 2024 ([RU 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)) e dalle cifre I dell’O del DEFR del 20 dic. 2024 ([RU 2024 791](https://fedlex.data.admin.ch/eli/oc/2024/791)), del 4 apr. 2025, in vigore dall’8 apr. 2025 ([RU 2025 228](https://fedlex.data.admin.ch/eli/oc/2025/228)) e del 10 apr. 2025, in vigore dall’ 11 apr. 2025 ([RU 2025 240](https://fedlex.data.admin.ch/eli/oc/2025/240)).
-[^annex13-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/240 &gt;](https://fedlex.data.admin.ch/eli/oc/2025/240) Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-10]: Aggiornato dalla cifra I delle O del DEFR del 10 giu. 2022 ([RU 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)), del 15 nov. 2022 ([RU 2022 679](https://fedlex.data.admin.ch/eli/oc/2022/679)), del 14 ago. 2023 ([RU 2023 449](https://fedlex.data.admin.ch/eli/oc/2023/449)), del 21 mar. 2024 ([RU 2024 122](https://fedlex.data.admin.ch/eli/oc/2024/122)) del 13 ago. 2024 ([RU 2024 413](https://fedlex.data.admin.ch/eli/oc/2024/413)), dalla cifra II cpv. 1 dell’O del 30 ott. 2024 ([RU 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)) e dalle cifre I dell’O del DEFR del 20 dic. 2024 ([RU 2024 791](https://fedlex.data.admin.ch/eli/oc/2024/791)), del 4 apr. 2025, in vigore dall’8 apr. 2025 ([RU 2025 228](https://fedlex.data.admin.ch/eli/oc/2025/228)), del 10 apr. 2025 ([RU 2025 240](https://fedlex.data.admin.ch/eli/oc/2025/240)) e dell’11 ago. 2025, in vigore dal 12 ago. 2025 alle 23.00 ([RU 2025 495](https://fedlex.data.admin.ch/eli/oc/2025/495)).
+[^annex13-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/495](https://fedlex.data.admin.ch/eli/oc/2025/495) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 14
 

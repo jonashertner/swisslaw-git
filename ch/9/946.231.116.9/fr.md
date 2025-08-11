@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Ordonnance du 16 mars 2022 instituant des mesures à l’encontre du Bélarus
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: fr
-version: 2025-07-02
+version: 2025-08-12
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20250702/fr/xml/fedlex-data-admin-ch-eli-cc-2022-172-20250702-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20250702/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20250812/fr/xml/fedlex-data-admin-ch-eli-cc-2022-172-20250812-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20250812/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Bélarus
 
-du 16 mars 2022 (État le 2 juillet 2025)
+du 16 mars 2022 (État le 12 août 2025)
 
 Le Conseil fédéral suisse,
 
@@ -22,7 +22,7 @@ vu l’art. 2 de la loi du 22 mars 2002 sur les embargos (LEmb)[^ingress-1],
 
 arrête:
 
-[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 
 ## Section 1 Définitions
 
@@ -112,7 +112,7 @@ Le Secrétariat d’État à l’économie (SECO) peut, après avoir consulté l
 
 <sup>4</sup> Le SECO autorise des dérogations aux interdictions prévues aux al. 1 à 3 dans le cadre de la procédure fixée à l’art. 27 de l’ordonnance du 3 juin 2016 sur le contrôle des biens (OCB)[^3-1], dans la mesure où il est garanti que les biens et services concernés ne serviront pas à la surveillance ou à l’interception d’Internet ou de communications téléphoniques.
 
-[^3-1]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^3-1]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 
 #### Art. 4
 
@@ -141,7 +141,7 @@ La vente directe ou indirecte, la concession sous licence ou tout autre transfer
 - a. à destination du Bélarus ou destinés à un usage dans ce pays sont interdits;
 - b. à des destinataires finaux visés à l’annexe 5 de la présente ordonnance sont interdits.[^4-5]
 
-[^4-1]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^4-1]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 [^4-2]: Nouvelle teneur selon le ch. I de l’O du 14 mai 2025, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
 [^4-3]: Introduit par le ch. I de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
 [^4-4]: Nouvelle teneur selon le ch. I de l’O du 14 mai 2025, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
@@ -268,7 +268,7 @@ Il refuse l’autorisation des dérogations visées à l’al. 2 s’il y a lieu
 [^7-3]: Abrogées par le ch. I de l’O du 14 mai 2025, avec effet au 1<sup>er</sup> juin 2025 ([RO 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
 [^7-4]: Abrogée par le ch. I de l’O du 30 août 2023, avec effet au 30 août 2023 à 18 heures ([RO 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
 [^7-5]: Abrogée par le ch. I de l’O du 14 mai 2025, avec effet au 1<sup>er</sup> juin 2025 ([RO 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
-[^7-6]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^7-6]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 [^7-7]: Introduit par le ch. I de l’O du 30 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)). Nouvelle teneur selon le ch. I de l’O du 14 mai 2025, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316), [320](https://fedlex.data.admin.ch/eli/oc/2025/320)).
 [^7-8]: Introduit par le ch. I de l’O du 14 mai 2025, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
 [^7-9]: Nouvelle teneur selon le ch. I de l’O du 30 août 2023, en vigueur depuis le 30 août 2023 à 18 heures ([RO 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
@@ -290,7 +290,7 @@ Il refuse l’autorisation des dérogations visées à l’al. 2 s’il y a lieu
 
 Sauf disposition contraire, la procédure d’autorisation prévue à l’art. 7, al. 2, est régie par les dispositions de l’OCB[^8-1].
 
-[^8-1]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^8-1]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 
 #### Art. 9
 
@@ -772,7 +772,7 @@ Le SECO peut, après avoir consulté les services compétents du DFAE et du DFF,
 
 <sup>2</sup> Tous les 12 mois, elles fournissent des mises à jour concernant le montant de ces dépôts.
 
-[^19-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^19-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 #### Art. 20
 
@@ -1009,7 +1009,7 @@ Il peut, jusqu’au 31 décembre 2025, autoriser des dérogations aux interdicti
 
 - c. les biens concernés se soient physiquement trouvés au Bélarus avant l’entrée en vigueur des interdictions prévues aux art. 10*f*, 10*g* et 11 en ce qui concerne ces biens.
 
-[^27a-1]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^27a-1]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 
 #### Art. 27b
 
@@ -1092,7 +1092,7 @@ Les ressortissants suisses, les personnes physiques résidant en Suisse et les p
 <sup>4</sup> Les al. 1 à 3 s’appliquent également aux biens se trouvant physiquement en Suisse et présentés en douane avant le 31 octobre 2024 qui ont été retenus en application de la présente ordonnance.
 
 [^29a-1]: Introduit par le ch. I de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
-[^29a-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^29a-2]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 30
 
@@ -1153,7 +1153,7 @@ Le SECO peut, aux fins de l’exécution d’un crédit-bail aérien conclu avan
 
 Le texte des annexes 3, 5, 13, 14 et 15 n’est publié ni au Recueil officiel ni au Recueil systématique du droit fédéral; il peut être obtenu auprès du SECO[^32-1].
 
-[^32-1]: Publication sous forme de renvoi conformément à l’art. 5, al. 1, de la loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745))
+[^32-1]: Publication sous forme de renvoi conformément à l’art. 5, al. 1, de la loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975))
 
 #### Art. 33
 
@@ -1220,8 +1220,8 @@ Annexe 1[^t-1]
 - 10 Équipements spécialement conçus pour la production des biens visés dans la présente liste.
 - 11 Technologies spécifiques requises pour le développement, la production ou l’utilisation des biens visés dans la présente liste.
 
-[^annex1-lvlu1-1]: [RS 514.511](https://fedlex.data.admin.ch/eli/cc/1998/808_808_808)
-[^annex1-lvlu1-2]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^annex1-lvlu1-1]: [RS 514.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7527)
+[^annex1-lvlu1-2]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 
 Annexe 2
 
@@ -1558,8 +1558,8 @@ Annexe 13[^t-10]
 
 [^annex13-lvlu1-1]
 
-[^t-10]: Mise à jour par le ch. I des O du DEFR du 10 juin 2022 ([RO 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)), du 15 nov. 2022 ([RO 2022 679](https://fedlex.data.admin.ch/eli/oc/2022/679)), du 14 août 2023 ([RO 2023 449](https://fedlex.data.admin.ch/eli/oc/2023/449)), du 21 mars 2024 ([RO 2024 122](https://fedlex.data.admin.ch/eli/oc/2024/122)), du 13 août 2024 ([RO 2024 413](https://fedlex.data.admin.ch/eli/oc/2024/413)), par le ch. II al. 1 de l’O du 30 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)), le ch. I des O du DEFR du 20 déc. 2024 ([RO 2024 791](https://fedlex.data.admin.ch/eli/oc/2024/791)), du 4 avr. 2025 ([RO 2025 228](https://fedlex.data.admin.ch/eli/oc/2025/228)) et du 10 avr. 2025, en vigueur depuis le 11 avr. 2025 ([RO 2025 240](https://fedlex.data.admin.ch/eli/oc/2025/240)).
-[^annex13-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/240](https://fedlex.data.admin.ch/eli/oc/2025/240) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-10]: Mise à jour par le ch. I des O du DEFR du 10 juin 2022 ([RO 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)), du 15 nov. 2022 ([RO 2022 679](https://fedlex.data.admin.ch/eli/oc/2022/679)), du 14 août 2023 ([RO 2023 449](https://fedlex.data.admin.ch/eli/oc/2023/449)), du 21 mars 2024 ([RO 2024 122](https://fedlex.data.admin.ch/eli/oc/2024/122)), du 13 août 2024 ([RO 2024 413](https://fedlex.data.admin.ch/eli/oc/2024/413)), par le ch. II al. 1 de l’O du 30 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)), le ch. I des O du DEFR du 20 déc. 2024 ([RO 2024 791](https://fedlex.data.admin.ch/eli/oc/2024/791)), du 4 avr. 2025 ([RO 2025 228](https://fedlex.data.admin.ch/eli/oc/2025/228)), du 10 avr. 2025 ([RO 2025 240](https://fedlex.data.admin.ch/eli/oc/2025/240)) et du 11 août 2025, en vigueur depuis le 12 août 2025 à 23 heures ([RO 2025 495](https://fedlex.data.admin.ch/eli/oc/2025/495)).
+[^annex13-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/495](https://fedlex.data.admin.ch/eli/oc/2025/495) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 14
 
