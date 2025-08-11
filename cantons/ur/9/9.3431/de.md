@@ -1,32 +1,36 @@
 ---
 canton: UR
 number: "9.3431"
-title: Verordnung über Geoinformation
-short: "Kantonale Geoinformationsverordnung, kGeoIV"
+title: VERORDNUNG über Geoinformation
+short: "kantonale Geoinformationsverordnung, kGeoIV"
 language: de
 version: 2013-01-01
+corrected: 2025-08-12
 version_adopted: 2012-05-21
 adopted: 2012-05-21
 in_force: 2013-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/9.3431"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/709/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/159/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung über Geoinformation
+# VERORDNUNG über Geoinformation
 
-(Kantonale Geoinformationsverordnung, kGeoIV)
+VERORDNUNG über Geoinformation (kantonale Geoinformationsverordnung, kGeoIV)
 
-Vom 21.05.2012 (Stand 01.01.2013)
+(vom 21. Mai 2012[^t-1]; Stand am 1. Januar 2013)
 
-Der Landrat des Kantons Uri,
-
-gestützt auf Artikel 46 Absatz 4 des Bundesgesetzes vom 5. Oktober 2007 über Geoinformation (GeoIG, SR [510.62](https://db.clex.ch/link/Bund/510.62/de)) und auf Artikel 90 Absatz 2 der Verfassung des Kantons Uri (RB [1.1101](https://rechtsbuch.ur.ch/data/1.1101/de)),
+Der Landrat des Kantons Uri, gestützt auf Artikel 46 Absatz 4 des Bundesgesetzes vom 5. Oktober 2007 über Geoinformation (GeoIG)[^t-2] und auf Artikel 90 Absatz 2 der Verfassung des Kantons Uri[^t-3],
 
 beschliesst:
 
-## 1 Allgemeine Bestimmungen
+[^t-1]: AB vom 1. Juni 2012
+[^t-2]: SR 510.62
+[^t-3]: RB 1.1101
+
+### 1. Kapitel: ALLGEMEINE BESTIMMUNGEN
 
 #### Artikel 1
 
@@ -42,28 +46,31 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung gilt für:
 
-- a) die Geobasisdaten des Bundesrechts, soweit für diese Daten der Kanton oder die Gemeinden zuständig sind
-- b) die Geobasisdaten des Kantons-, Gemeinde- und Korporationsrechts sowie andere Geodaten des Kantons, der Gemeinden und Korporationen
+- a) die Geobasisdaten des Bundesrechts, soweit für diese Daten der Kanton oder die Gemeinden zuständig sind;
 
-<sup>2</sup> Soweit diese Verordnung keine Bestimmungen enthält, gelten für Geobasisdaten und andere Geodaten des Kantons-, Gemeinde- und Korporationsrechts die Vorschriften der Bundesgesetzgebung über Geoinformation (SR [510.62](https://db.clex.ch/link/Bund/510.62/de), SR [510.620](https://db.clex.ch/link/Bund/510.620/de), SR [510.622.4](https://db.clex.ch/link/Bund/510.622.4/de)) sinngemäss.
+- b) die Geobasisdaten des Kantons-, Gemeinde- und Korporationsrechts sowie andere Geodaten des Kantons, der Gemeinden und Korporationen.
 
-## 2 Organisation
+<sup>2</sup> Soweit diese Verordnung keine Bestimmungen enthält, gelten für Geobasisdaten und andere Geodaten des Kantons-, Gemeinde- und Korporationsrechts die Vorschriften der Bundesgesetzgebung über Geoinformation[^2-1] sinngemäss.
+
+[^2-1]: SR 510.622.4
+
+### 2. Kapitel: ORGANISATION
 
 #### Artikel 3
 
 **Regierungsrat**
 
-<sup>1</sup> Der Regierungsrat übt die Aufsicht über den Vollzug des Geoinformationsrechts aus.
+Der Regierungsrat übt die Aufsicht über den Vollzug des Geoinformationsrechts aus.
 
 #### Artikel 4
 
 **Zuständige Direktion**
 
-<sup>1</sup> Die zuständige Direktion[^Artikel4-1] vollzieht alle dem Kanton nach dem Geoinformationsrecht zufallenden Aufgaben, soweit sie nicht einer anderen Instanz übertragen sind.
+<sup>1</sup> Die zuständige Direktion[^4-1] vollzieht alle dem Kanton nach dem Geoinformationsrecht zufallenden Aufgaben, soweit sie nicht einer anderen Instanz übertragen sind.
 
 <sup>2</sup> Sie oder eine ihr zugeordnete verwaltungsinterne Kommission stellt die Koordination der GIS-Anwendungen der kantonalen Amtsstellen sicher.
 
-[^Artikel4-1]: Justizdirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^4-1]: Justizdirektion; siehe Organisationsreglement (RB 2.3322).
 
 #### Artikel 5
 
@@ -109,15 +116,19 @@ beschliesst:
 
 <sup>1</sup> Die Lisag AG ist eine gemischtwirtschaftliche Aktiengesellschaft mit Sitz im Kanton Uri. Der Kanton beteiligt sich mit einem namhaften Anteil an der Lisag AG. Der Landrat beschliesst die mit der Beteiligung verbundenen Ausgaben endgültig.
 
-<sup>2</sup> Der Regierungsrat verpflichtet die Lisag AG mit einer Leistungsvereinbarung:
+<sup>2</sup> Der Regierungsrat verpflichtet die Lisag AG mit einer Leistungsvereinbarung,:
 
-- a) die amtliche Vermessung auf der Grundlage des Umsetzungsplans sowie der Programm- und Leistungsvereinbarungen des Kantons mit dem Bund durchzuführen
-- b) das GIS Uri zu betreiben und die vom Bundesrecht und dieser Verordnung vorgeschriebenen Geodienste anzubieten
-- c) den ÖREB-Kataster auf der Grundlage der Programm- und Leistungsvereinbarungen des Kantons mit dem Bund zu betreiben
-- d) die von den zuständigen Fachstellen und von der Nachführungsgeometerin oder dem Nachführungsgeometer erhobenen beziehungsweise nachgeführten Geobasisdaten zu übernehmen und ins GIS Uri einzugliedern
-- e) Einsicht in die Daten des GIS Uri und des ÖREB-Katasters zu gewähren sowie Auszüge zu erstellen
+- a) die amtliche Vermessung auf der Grundlage des Umsetzungsplans sowie der Programm- und Leistungsvereinbarungen des Kantons mit dem Bund durchzuführen;
 
-<sup>3</sup> Soweit die übertragenen Aufgaben das erfordern, ist die Lisag AG befugt, hoheitlich zu handeln. Entsprechende Verfügungen der Lisag AG können mit Verwaltungsbeschwerde bei der zuständigen Direktion5 angefochten werden. Deren Entscheid unterliegt direkt der Verwaltungsgerichtsbeschwerde an das Obergericht.
+- b) das GIS Uri zu betreiben und die vom Bundesrecht und dieser Verordnung vorgeschriebenen Geodienste anzubieten;
+
+- c) den ÖREB-Kataster auf der Grundlage der Programm- und Leistungsvereinbarungen des Kantons mit dem Bund zu betreiben;
+
+- d) die von den zuständigen Fachstellen und von der Nachführungsgeometerin oder dem Nachführungsgeometer erhobenen beziehungsweise nachgeführten Geobasisdaten zu übernehmen und ins GIS Uri einzugliedern;
+
+- e) Einsicht in die Daten des GIS Uri und des ÖREB-Katasters zu gewähren sowie Auszüge zu erstellen.
+
+3 Soweit die übertragenen Aufgaben das erfordern, ist die Lisag AG befugt, hoheitlich zu handeln. Entsprechende Verfügungen der Lisag AG können mit Verwaltungsbeschwerde bei der zuständigen Direktion5 angefochten werden. Deren Entscheid unterliegt direkt der Verwaltungsgerichtsbeschwerde an das Obergericht.
 
 <sup>4</sup> Im Übrigen bleibt die marktwirtschaftliche Tätigkeit der Lisag AG gewahrt.
 
@@ -129,7 +140,9 @@ beschliesst:
 
 <sup>2</sup> Er legt die Quartier- und Strassennamen sowie die Ortschaftsnamen innerhalb des Gemeindegebiets fest.
 
-## 3 Geobasisdatenkatalog, Geoinformationssystem
+- 3\. Kapitel: GEOBASISDATENKATALOG,
+
+### GEOINFORMATIONSSYSTEM
 
 #### Artikel 11
 
@@ -147,18 +160,23 @@ beschliesst:
 
 <sup>2</sup> Das GIS Uri umfasst für das Kantonsgebiet:
 
-- a) die Geobasisdaten des Bundesrechts, bei denen das Bundesrecht die Zuständigkeit des Kantons vorsieht
-- b) die Geobasisdaten des Kantons-, Gemeinde- und Korporationsrechts gemäss Artikel 11
-- c) weitere Geodaten, die der Regierungsrat zum Inhalt des GIS Uri erklärt
+- a) die Geobasisdaten des Bundesrechts, bei denen das Bundesrecht die Zuständigkeit des Kantons vorsieht;
+
+- b) die Geobasisdaten des Kantons-, Gemeinde- und Korporationsrechts gemäss Artikel 11;
+
+- c) weitere Geodaten, die der Regierungsrat zum Inhalt des GIS Uri erklärt.
 
 #### Artikel 13
 
 **Aufnahme von Geodaten ins GIS Uri**
 
-<sup>1</sup> Der Regierungsrat regelt:
+Der Regierungsrat regelt:
 
-- a) die technischen Anforderungen für Geodaten, die ins GIS Uri aufgenommen werden
-- b) den Datenfluss zwischen den Fachstellen des Kantons, der Gemeinden und der Korporationen zur Lisag AG
+- a) die technischen Anforderungen für Geodaten, die ins GIS Uri aufgenommen werden;
+
+- b) den Datenfluss zwischen den Fachstellen des Kantons, der Gemeinden
+
+und der Korporationen zur Lisag AG.
 
 #### Artikel 14
 
@@ -186,32 +204,35 @@ beschliesst:
 
 <sup>2</sup> Der Zugang kann beschränkt werden, wenn öffentliche oder private Interessen entgegenstehen oder die öffentliche Sicherheit dies verlangt.
 
-## 4 Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen
+### 4. Kapitel: KATASTER DER ÖFFENTLICH-RECHTLICHEN EIGENTUMSBESCHRÄNKUNGEN
 
 #### Artikel 17
 
 **Zuständige Stelle**
 
-<sup>1</sup> Die Lisag AG führt den Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen (ÖREB-Kataster).
+Die Lisag AG führt den Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen (ÖREB-Kataster).
 
 #### Artikel 18
 
 **Anforderungen, Verfahren**
 
-<sup>1</sup> Der Regierungsrat:
+Der Regierungsrat:
 
-- a) legt fest, welche Geobasisdaten des Kantonsrechts Inhalt des ÖREB-Katasters sind
-- b) legt auf Antrag der Gemeinden und Korporationen fest, welche Geobasisdaten des Gemeinde- und Korporationsrechts Inhalt des ÖREB-Katasters sind
-- c) regelt das Verfahren zur Aufnahme und die Nachführung der Daten im ÖREB-Kataster
-- d) regelt die weiteren Anforderungen an den Datenfluss zwischen den Fachstellen und der Lisag AG
+- a) legt fest, welche Geobasisdaten des Kantonsrechts Inhalt des ÖREB-Katasters sind;
+
+- b) legt auf Antrag der Gemeinden und Korporationen fest, welche Geobasisdaten des Gemeinde- und Korporationsrechts Inhalt des ÖREB-Katasters sind;
+
+- c) regelt das Verfahren zur Aufnahme und die Nachführung der Daten im ÖREB-Kataster;
+
+- d) regelt die weiteren Anforderungen an den Datenfluss zwischen den Fachstellen und der Lisag AG.
 
 #### Artikel 19
 
 **Publikationsorgan**
 
-<sup>1</sup> Der ÖREB-Kataster ist das amtliche Publikationsorgan für jene öffentlichrechtlichen Eigentumsbeschränkungen, die Inhalt des Katasters sind.
+Der ÖREB-Kataster ist das amtliche Publikationsorgan für jene öffentlichrechtlichen Eigentumsbeschränkungen, die Inhalt des Katasters sind.
 
-## 5 Amtliche Vermessung
+### 5. Kapitel: AMTLICHE VERMESSUNG
 
 #### Artikel 20
 
@@ -221,11 +242,11 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat schliesst mit dem Bund auf der Basis des Umsetzungsplans eine mehrjährige Programmvereinbarung ab.
 
-<sup>3</sup> Die zuständige Direktion[^Artikel20-1] schliesst mit dem Bund jährliche Leistungsvereinbarungen in Ausführung der Programmvereinbarungen ab.
+<sup>3</sup> Die zuständige Direktion[^20-1] schliesst mit dem Bund jährliche Leistungsvereinbarungen in Ausführung der Programmvereinbarungen ab.
 
-<sup>4</sup> Der Regierungsrat kann im Rahmen der vom Landrat bewilligten Kredite den durch das Bundesrecht vorgeschriebenen Inhalt der amtlichen Vermessung im Rahmen der bundesrechtlichen Vorgaben erweitern und weitergehende Anforderungen an die Vermessung vorschreiben.
+4 Der Regierungsrat kann im Rahmen der vom Landrat bewilligten Kredite den durch das Bundesrecht vorgeschriebenen Inhalt der amtlichen Vermessung im Rahmen der bundesrechtlichen Vorgaben erweitern und weitergehende Anforderungen an die Vermessung vorschreiben.
 
-[^Artikel20-1]: Justizdirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^20-1]: Justizdirektion; siehe Organisationsreglement (RB 2.3322).
 
 #### Artikel 21
 
@@ -245,7 +266,9 @@ beschliesst:
 
 <sup>1</sup> Die Grenzen von Liegenschaften und flächenmässig ausgeschiedenen selbstständigen und dauernden Rechten werden in der Regel an Ort und Stelle durch die Nachführungsgeometerin oder den Nachführungsgeometer im Beisein der betroffenen Grundeigentümerinnen und Grundeigentümer festgestellt.
 
-<sup>2</sup> In den Fällen von Artikel 13 Absatz 2 Verordnung über die amtliche Vermessung (SR [211.432.2](https://db.clex.ch/link/Bund/211.432.2/de)) können die Grenzen gestützt auf Pläne, Luftbilder oder andere geeignete Grundlagen ohne Feldbegehung festgestellt werden.
+<sup>2</sup> In den Fällen von Artikel 13 Absatz 2 Verordnung über die amtliche Vermessung[^22-1] können die Grenzen gestützt auf Pläne, Luftbilder oder andere geeignete Grundlagen ohne Feldbegehung festgestellt werden.
+
+[^22-1]: SR 211.432.2
 
 #### Artikel 23
 
@@ -255,15 +278,17 @@ beschliesst:
 
 <sup>2</sup> Keine Grenzzeichen werden gesetzt:
 
-- a) in Gebieten, in denen Liegenschaften sowie flächenmässig ausgeschiedene selbstständige und dauernde Rechte zusammengelegt werden müssen
-- b) für Liegenschaften sowie flächenmässig ausgeschiedene selbstständige und dauernde Rechte, auf denen die Grenzzeichen durch landwirtschaftliche Nutzung oder durch andere Einwirkungen wie Rutschungen dauernd gefährdet sind
-- c) in Landwirtschafts- und Forstwirtschaftsgebieten im Berggebiet gemäss Viehwirtschaftskataster, in Alp- und Weidegebieten sowie in unproduktiven Gebieten
+- a) in Gebieten, in denen Liegenschaften sowie flächenmässig ausgeschiedene selbstständige und dauernde Rechte zusammengelegt werden müssen;
+
+- b) für Liegenschaften sowie flächenmässig ausgeschiedene selbstständige und dauernde Rechte, auf denen die Grenzzeichen durch landwirtschaftliche Nutzung oder durch andere Einwirkungen wie Rutschungen dauernd gefährdet sind;
+
+- c) in Landwirtschafts- und Forstwirtschaftsgebieten im Berggebiet gemäss Viehwirtschaftskataster, in Alp- und Weidegebieten sowie in unproduktiven Gebieten.
 
 #### Artikel 24
 
 **Genehmigungsverfahren**
 
-<sup>1</sup> Nach Abschluss der Ersterhebung, der Erneuerung der amtlichen Vermessung oder der Behebungen von Widersprüchen im Sinne von Artikel 14a Verordnung über die amtliche Vermessung (SR [211.432.2](https://db.clex.ch/link/Bund/211.432.2/de)), bei denen Grundeigentümerinnen und Grundeigentümer in ihren dinglichen Rechten berührt sind, legt die zuständige Direktion[^Artikel24-1] den Plan für das Grundbuch des betreffenden Perimeters und weitere zum Zweck der Grundbuchführung erstellte Auszüge aus den Daten der amtlichen Vermessung während 30 Tagen öffentlich auf.
+<sup>1</sup> Nach Abschluss der Ersterhebung, der Erneuerung der amtlichen Vermessung oder der Behebungen von Widersprüchen im Sinne von Artikel 14a Verordnung über die amtliche Vermessung[^24-1], bei denen Grundeigentümerinnen und Grundeigentümer in ihren dinglichen Rechten berührt sind, legt die zuständige Direktion[^24-2] den Plan für das Grundbuch des betreffenden Perimeters und weitere zum Zweck der Grundbuchführung erstellte Auszüge aus den Daten der amtlichen Vermessung während 30 Tagen öffentlich auf.
 
 <sup>2</sup> Die Auflage ist unter Hinweis auf die Einsprachemöglichkeit während der Auflagefrist im Amtsblatt zu publizieren.
 
@@ -273,19 +298,20 @@ beschliesst:
 
 <sup>5</sup> Auf die Durchführung der öffentlichen Auflage kann verzichtet werden, wenn alle betroffenen Grundeigentümerinnen und Grundeigentümer sowie weitere an den Grundstücken dinglich berechtigte Personen der Erneuerung oder Behebung von Widersprüchen schriftlich zugestimmt haben.
 
-[^Artikel24-1]: Justizdirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^24-1]: SR 211.432.2
+[^24-2]: Justizdirektion; siehe Organisationsreglement (RB 2.3322).
 
 #### Artikel 25
 
 **Geografische Namen der amtlichen Vermessung**
 
-<sup>1</sup> Die für die amtliche Vermessung zuständige Stelle leitet die von ihr erhobenen, nachgeführten und verwalteten geografischen Namen an die zuständige Direktion[^Artikel25-1] weiter.
+<sup>1</sup> Die für die amtliche Vermessung zuständige Stelle leitet die von ihr erhobenen, nachgeführten und verwalteten geografischen Namen an die zuständige Direktion[^25-1] weiter.
 
 <sup>2</sup> Diese legt die geografischen Namen der amtlichen Vermessung fest, veröffentlicht sie im Amtsblatt unter Hinweis auf die Einsprachemöglichkeit während der Auflagefrist von 30 Tagen und legt die Unterlagen in den Standortgemeinden während der Auflagefrist öffentlich auf.
 
-[^Artikel25-1]: Justizdirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^25-1]: Justizdirektion; siehe Organisationsreglement (RB 2.3322).
 
-## 6 Finanzierung und Gebühren
+### 6. Kapitel: FINANZIERUNG UND GEBÜHREN
 
 #### Artikel 26
 
@@ -293,10 +319,11 @@ beschliesst:
 
 <sup>1</sup> Der Kanton trägt im Rahmen der Programmvereinbarung mit dem Bund und der vom Landrat bewilligten Kredite die Kosten für:
 
-- a) die Durchführung der amtlichen Vermessung
-- b) den Betrieb des ÖREB-Katasters
+- a) die Durchführung der amtlichen Vermessung;
 
-<sup>2</sup> Die Kosten der Erhebung, der Nachführung und des Transports der Geobasisdaten und der Daten des ÖREB-Katasters zur Lisag AG trägt dasjenige Gemeinwesen oder diejenige Trägerschaft, das bzw. die für die entsprechenden Daten zuständig ist.
+- b) den Betrieb des ÖREB-Katasters.
+
+2 Die Kosten der Erhebung, der Nachführung und des Transports der Geobasisdaten und der Daten des ÖREB-Katasters zur Lisag AG trägt dasjenige Gemeinwesen oder diejenige Trägerschaft, das bzw. die für die entsprechenden Daten zuständig ist.
 
 <sup>3</sup> Der Kanton, die Gemeinden, die Korporationen und Werke gelten der Lisag AG die Kosten für das Verwalten ihrer Geobasisdaten im GIS Uri und im ÖREB-Kataster ab. Die damit für den Kanton verbundenen Ausgaben beschliesst der Landrat endgültig.
 
@@ -324,28 +351,33 @@ beschliesst:
 
 **Gebühren**
 
-<sup>1</sup> Die Gebühren für den Bezug von Daten aus dem GIS Uri und dem ÖREBKataster bemessen sich nach den Grundsätzen von Artikel 15 Absatz 2 und 3 Bundesgesetz über Geoinformation und Artikel 44 bis 47 Verordnung über Geoinformation (SR [510.620](https://db.clex.ch/link/Bund/510.620/de)).
+<sup>1</sup> Die Gebühren für den Bezug von Daten aus dem GIS Uri und dem ÖREB-Kataster bemessen sich nach den Grundsätzen von Artikel 15 Absatz 2 und 3 Bundesgesetz über Geoinformation und Artikel 44 bis 47 Verordnung über Geoinformation[^29-1].
 
 <sup>2</sup> Der Regierungsrat regelt das Nähere in einem Reglement.
 
-## 7 Übergangs- und Schlussbestimmungen
+[^29-1]: SR 510.620
+
+### 7. Kapitel: ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
 
 #### Artikel 30
 
 **Vollzug**
 
-<sup>1</sup> Der Regierungsrat vollzieht das Bundesrecht und diese Verordnung. Er erlässt die erforderlichen Ausführungsbestimmungen dazu.
+Der Regierungsrat vollzieht das Bundesrecht und diese Verordnung. Er erlässt die erforderlichen Ausführungsbestimmungen dazu.
 
 #### Artikel 31
 
 **Verwaltungsstrafe**
 
-<sup>1</sup> Mit Busse bis zu 5'000 Franken wird bestraft, wer:
+<sup>1</sup> Mit Busse bis zu 5 000 Franken wird bestraft, wer:
 
-- a) sich oder Dritten widerrechtlich Zugang zu Geobasisdaten verschafft
-- b) Geodaten oder Geodienste ohne Berechtigung nutzt
-- c) Geodaten ohne Berechtigung weitergibt
-- d) Vorschriften über die Nutzung, namentlich über den Quellenschutz, missachtet
+- a) sich oder Dritten widerrechtlich Zugang zu Geobasisdaten verschafft;
+
+- b) Geodaten oder Geodienste ohne Berechtigung nutzt;
+
+- c) Geodaten ohne Berechtigung weitergibt;
+
+- d) Vorschriften über die Nutzung, namentlich über den Quellenschutz, missachtet.
 
 <sup>2</sup> Die Verfolgungsverjährung beträgt drei Jahre.
 
@@ -353,13 +385,13 @@ beschliesst:
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Die Vermessungsverordnung vom 27. September 1995 wird aufgehoben.
+Die Vermessungsverordnung vom 27. September 1995<sup>12</sup> wird aufgehoben.
 
 #### Artikel 33
 
 **Ersatzregelung**
 
-<sup>1</sup> Falls die Lisag AG nicht oder nicht mehr bereit oder in der Lage ist, die übertragenen Aufgaben zu erfüllen, hat der Regierungsrat in einem Reglement die notwendigen Ersatzvorschriften zu erlassen und möglichst rasch die Änderung dieser Verordnung zu veranlassen.
+Falls die Lisag AG nicht oder nicht mehr bereit oder in der Lage ist, die übertragenen Aufgaben zu erfüllen, hat der Regierungsrat in einem Reglement die notwendigen Ersatzvorschriften zu erlassen und möglichst rasch die Änderung dieser Verordnung zu veranlassen.
 
 #### Artikel 34
 
@@ -375,8 +407,10 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung untersteht dem fakultativen Referendum.
 
-<sup>2</sup> Der Regierungsrat bestimmt, wann sie in Kraft tritt[^Artikel35-1].
+2 Der Regierungsrat bestimmt, wann sie in Kraft tritt[^35-1].
 
-[^Artikel35-1]: Vom Regierungsrat in Kraft gesetzt auf den 1. Januar 2013 (AB vom 30. November 2012).
+Im Namen des Landrats
 
-AB 01.06.2012
+Der Präsident: Josef Schuler Die Ratssekretärin: Kristin Arnold Thalmann
+
+[^35-1]: Vom Regierungsrat in Kraft gesetzt auf den 1. Januar 2013 (AB vom 30. November 2012).
