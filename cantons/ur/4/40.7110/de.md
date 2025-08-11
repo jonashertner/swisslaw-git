@@ -1,27 +1,32 @@
 ---
 canton: UR
 number: "40.7110"
-title: "Reglement zur Partikelfilterpflicht für stationäre, dieselbetriebene Maschinen, Geräte und Motoren"
+title: "REGLEMENT zur Partikelfilterpflicht für stationäre, dieselbetriebene Maschinen, Geräte und Motoren"
 language: de
 version: 2014-11-01
+corrected: 2025-08-12
 version_adopted: 2014-09-23
 adopted: 2014-09-23
 in_force: 2014-11-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.7110"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/727/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/311/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement zur Partikelfilterpflicht für stationäre, dieselbetriebene Maschinen, Geräte und Motoren
+# REGLEMENT zur Partikelfilterpflicht für stationäre, dieselbetriebene Maschinen, Geräte und Motoren
 
-Vom 23.09.2014 (Stand 01.11.2014)
+REGLEMENT zur Partikelfilterpflicht für stationäre, dieselbetriebene Maschinen, Geräte und Motoren
 
-Der Regierungsrat des Kantons Uri,
+(vom 23. September 2014[^t-1]; Stand am 1. November 2014)
 
-gestützt auf die Artikel 63 und 87 des Kantonalen Umweltgesetzes vom 11. März 2007 (KUG, RB [40.7011](https://rechtsbuch.ur.ch/data/40.7011/de)) und in Ausführung von Artikel 11, 12 und 44a des Umweltschutzgesetzes vom 7. Oktober 1983 (USG, SR [814.01](https://db.clex.ch/link/Bund/814.01/de)) sowie der eidgenössischen Luftreinhalte-Verordnung vom 16. Dezember 1985 (LRV, SR [814.318.142.1](https://db.clex.ch/link/Bund/814.318.142.1/de)) und des Massnahmenplans Luftreinhaltung vom 15. April 2008,
+Der Regierungsrat des Kantons Uri, gestützt auf die Artikel 63 und 87 des Kantonalen Umweltgesetzes vom 11. März 2007 (KUG)[^t-2] und in Ausführung von Artikel 11, 12 und 44a des Umweltschutzgesetzes vom 7. Oktober 1983 (USG)<sup>3</sup> sowie der eidgenössischen Luftreinhalte-Verordnung vom 16. Dezember 1985 (LRV)<sup>4</sup> und des Massnahmenplans Luftreinhaltung vom 15. April 2008,
 
 beschliesst:
+
+[^t-1]: AB vom 3. Oktober 2014
+[^t-2]: RB 40.7011
 
 #### Artikel 1
 
@@ -39,7 +44,7 @@ beschliesst:
 
 <sup>1</sup> Als stationärer Einsatz gilt der Einsatz auf Industrie- und Gewerbearealen, Deponien sowie im Bereich von Sportanlagen und Skipisten.
 
-<sup>2</sup> Als Maschinen gelten dieselbetriebene Maschinen, Fahrzeuge und Geräte.
+2 Als Maschinen gelten dieselbetriebene Maschinen, Fahrzeuge und Geräte.
 
 #### Artikel 3
 
@@ -51,10 +56,13 @@ beschliesst:
 
 <sup>3</sup> Von diesem Reglement ausgenommen sind:
 
-- a) Maschinen für den Einsatz in der Landwirtschaft (landwirtschaftliche Maschinen)
-- b) Baumaschinen nach Artikel 19a Luftreinhalte-Verordnung
-- c) Fahrzeuge, die der Strassengesetzgebung unterstehen
-- d) Maschinen und Fahrzeuge für den Einsatz in Blaulichtorganisationen
+- a) Maschinen für den Einsatz in der Landwirtschaft (landwirtschaftliche Maschinen);
+
+- b) Baumaschinen nach Artikel 19a Luftreinhalte-Verordnung;
+
+- c) Fahrzeuge, die der Strassengesetzgebung unterstehen;
+
+- d) Maschinen und Fahrzeuge für den Einsatz in Blaulichtorganisationen.
 
 <sup>4</sup> Im Rahmen von Vereinbarungen zwischen dem Kanton und einzelnen Branchen und Verbänden können für die angeschlossenen Unternehmen abweichende Bestimmungen vereinbart werden.
 
@@ -76,7 +84,9 @@ beschliesst:
 
 <sup>1</sup> Auf Gesuch hin gewährt das Amt für Umweltschutz Erleichterungen, wenn eine Ausrüstung mit einem Partikelfiltersystem im Einzelfall unverhältnismässig wäre.
 
-<sup>2</sup> Erleichterungen bestehen üblicherweise in einer Verlängerung der Übergangsfrist, in der eine Maschine noch nicht mit einem Partikelfiltersystem ausgerüstet werden muss. Ein kompletter Verzicht auf die Partikelfilterpflicht ist nur in Ausnahmefällen möglich.
+<sup>2</sup> Erleichterungen bestehen üblicherweise in einer Verlängerung der Übergangsfrist, in der eine Maschine noch nicht mit einem Partikelfiltersystem ausgerüstet werden muss. Ein kompletter Verzicht auf die Partikelfilterpflicht
+
+ist nur in Ausnahmefällen möglich.
 
 #### Artikel 6
 
@@ -90,6 +100,8 @@ beschliesst:
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Reglement tritt am 1. November 2014 in Kraft.
+Dieses Reglement tritt am 1. November 2014 in Kraft.
 
-AB 03.10.2014
+Im Namen des Regierungsrats:
+
+Frau Landammann:Dr. Heidi Z’graggen Der Kanzleidirektor:Roman Balli
