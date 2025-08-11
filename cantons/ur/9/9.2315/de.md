@@ -1,45 +1,49 @@
 ---
 canton: UR
 number: "9.2315"
-title: Reglement über die Notariatsprüfung
+title: REGLEMENT über die Notariatsprüfung
 language: de
 version: 2002-06-01
+corrected: 2025-08-12
 version_adopted: 2002-04-05
 adopted: 2002-04-05
 in_force: 2002-06-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/9.2315"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/712/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/148/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über die Notariatsprüfung
+# REGLEMENT über die Notariatsprüfung
 
-Vom 05.04.2002 (Stand 01.06.2002)
+REGLEMENT über die Notariatsprüfung
 
-Das Obergericht des Kantons Uri,
+(vom 5. April 2002[^t-1]; Stand am 1. Juni 2002)
 
-gestützt auf Artikel 4 Absatz 3 der Verordnung vom 9. Oktober 1911 über das Notariat (RB [9.2311](https://rechtsbuch.ur.ch/data/9.2311/de)),
+Das Obergericht des Kantons Uri, gestützt auf Artikel 4 Absatz 3 der Verordnung vom 9. Oktober 1911 über das Notariat<sup>2</sup>,
 
 beschliesst:
 
-## 1 Zweck der Prüfung
+[^t-1]: AB vom 12. April 2002.
+
+### 1. Abschnitt: Zweck der Prüfung
 
 #### Artikel 1
 
-<sup>1</sup> Mit der Notariatsprüfung hat sich der Kandidat oder die Kandidatin darüber auszuweisen, dass er oder sie fachlich fähig ist, den Beruf eines Notars oder einer Notarin im Kanton Uri auszuüben.
+Mit der Notariatsprüfung hat sich der Kandidat oder die Kandidatin darüber auszuweisen, dass er oder sie fachlich fähig ist, den Beruf eines Notars oder einer Notarin im Kanton Uri auszuüben.
 
-## 2 Zulassung zur Prüfung
+### 2. Abschnitt: Zulassung zur Prüfung
 
 #### Artikel 2
 
-**Materielle Voraussetzung**
+Materielle Voraussetzung Zur Notariatsprüfung wird zugelassen, wer sich ausweist über:
 
-<sup>1</sup> Zur Notariatsprüfung wird zugelassen, wer sich ausweist über:
+- a) das Schweizer Bürgerrecht;
 
-- a) das Schweizer Bürgerrecht
-- b) die Handlungsfähigkeit
-- c) den guten Leumund
+- b) die Handlungsfähigkeit;
+
+- c) den guten Leumund.
 
 #### Artikel 3
 
@@ -49,19 +53,23 @@ beschliesst:
 
 <sup>2</sup> Dem Zulassungsgesuch sind beizulegen:
 
-- a) eine kurze Beschreibung des Lebenslaufs
-- b) der Nachweis des Schweizer Bürgerrechts
-- c) das Handlungsfähigkeitszeugnis
-- d) ein Leumundszeugnis oder ein Auszug aus dem Strafregister und
-- e) ein Auszug aus dem Betreibungsregister
+- a) eine kurze Beschreibung des Lebenslaufs;
 
-## 3 Prüfungsbehörde
+- b) der Nachweis des Schweizer Bürgerrechts;
+
+- c) das Handlungsfähigkeitszeugnis;
+
+- d) ein Leumundszeugnis oder ein Auszug aus dem Strafregister und
+
+- e) ein Auszug aus dem Betreibungsregister.
+
+### 3. Abschnitt: Prüfungsbehörde
 
 #### Artikel 4
 
-<sup>1</sup> Prüfungsbehörde ist die Anwaltsprüfungskommission.
+Prüfungsbehörde ist die Anwaltsprüfungskommission.
 
-## 4 Zeitpunkt der Prüfung
+### 4. Abschnitt: Zeitpunkt der Prüfung
 
 #### Artikel 5
 
@@ -73,29 +81,29 @@ beschliesst:
 
 <sup>3</sup> Die Notariats- und die Anwaltsprüfung dürfen nicht im gleichen Zeitpunkt, jedoch in der gleichen Prüfungsperiode, abgelegt werden.
 
-## 5 Die Prüfung
+### 5. Abschnitt: Die Prüfung
 
 #### Artikel 6
 
 **Form der Prüfung**
 
-<sup>1</sup> Die Notariatsprüfung zerfällt in einen schriftlichen und in einen mündlichen Teil.
+Die Notariatsprüfung zerfällt in einen schriftlichen und in einen mündlichen Teil.
 
 #### Artikel 7
 
-**Schriftliche Prüfung: Rechtsgebiete**
+**Schriftliche Prüfung**
 
-<sup>1</sup> Die Rechtsgebiete bestimmen sich nach Artikel 4 Absatz 2 der Verordnung über das Notariat (RB [9.2311](https://rechtsbuch.ur.ch/data/9.2311/de)).
+- a) Rechtsgebiete Die Rechtsgebiete bestimmen sich nach Artikel 4 Absatz 2 der Verordnung über das Notariat<sup>3</sup>.
 
-#### Artikel 8
+#### Artikel 8 b
 
-**Schriftliche Prüfung: Aufgaben**
+**) Aufgaben**
 
 <sup>1</sup> Der Kandidat oder die Kandidatin hat zwei notarielle Aufgaben aus den Rechtsgebieten nach Artikel 7 zu lösen.
 
 <sup>2</sup> Für jede Aufgabe stehen ihm oder ihr vier Stunden zur Verfügung.
 
-<sup>3</sup> Die Aufgaben sind durch den Kandidaten oder die Kandidatin allein zu lösen. Das Ergebnis ist in sauberer, gut lesbarer Form abzugeben.
+3 Die Aufgaben sind durch den Kandidaten oder die Kandidatin allein zu lösen. Das Ergebnis ist in sauberer, gut lesbarer Form abzugeben.
 
 <sup>4</sup> Die Prüfungsbehörde bestimmt die Hilfsmittel, die dem Kandidaten oder der Kandidatin für die Lösung der Aufgaben allgemein zur Verfügung stehen.
 
@@ -103,19 +111,19 @@ beschliesst:
 
 #### Artikel 9
 
-**Mündliche Prüfung: Zulassung**
+**Mündliche Prüfung**
 
-<sup>1</sup> Der Kandidat oder die Kandidatin wird erst zur mündlichen Prüfung zugelassen, wenn seine oder ihre schriftlichen Arbeiten einen Notendurchschnitt von mindestens 4.0 aufweisen. Die Bewertung richtet sich nach Artikel 12.
+- a) Zulassung Der Kandidat oder die Kandidatin wird erst zur mündlichen Prüfung zugelassen, wenn seine oder ihre schriftlichen Arbeiten einen Notendurchschnitt von mindestens 4.0 aufweisen. Die Bewertung richtet sich nach Artikel 12.
 
-#### Artikel 10
+#### Artikel 10 b
 
-**Mündliche Prüfung: Rechtsgebiete**
+**) Rechtsgebiete**
 
-<sup>1</sup> Die Rechtsgebiete bestimmen sich nach Artikel 4 Absatz 2 der Verordnung über das Notariat (RB [9.2311](https://rechtsbuch.ur.ch/data/9.2311/de)).
+Die Rechtsgebiete bestimmen sich nach Artikel 4 Absatz 2 der Verordnung über das Notariat<sup>4</sup>.
 
-#### Artikel 11
+#### Artikel 11 c
 
-**Mündliche Prüfung: Prüfungsablauf**
+**) Prüfungsablauf**
 
 <sup>1</sup> Der Kandidat oder die Kandidatin wird in zwei Prüfungen in den Rechtsgebieten nach Artikel 10 geprüft.
 
@@ -139,7 +147,7 @@ beschliesst:
 
 **Bestehen**
 
-<sup>1</sup> Erreicht ein Kandidat oder eine Kandidatin mindestens die Schlussnote 4.0, hat er oder sie die Prüfung bestanden.
+Erreicht ein Kandidat oder eine Kandidatin mindestens die Schlussnote 4.0, hat er oder sie die Prüfung bestanden.
 
 #### Artikel 14
 
@@ -157,17 +165,17 @@ beschliesst:
 
 **Verwendung unerlaubter Hilfsmittel**
 
-<sup>1</sup> Wer ein Prüfungsergebnis verfälscht, namentlich durch Verwendung nicht erlaubter Hilfsmittel beeinflusst oder zu beeinflussen versucht, hat die Notariatsprüfung nicht bestanden und wird nicht wieder zur Prüfung zugelassen.
+Wer ein Prüfungsergebnis verfälscht, namentlich durch Verwendung nicht erlaubter Hilfsmittel beeinflusst oder zu beeinflussen versucht, hat die Notariatsprüfung nicht bestanden und wird nicht wieder zur Prüfung zugelassen.
 
-## 6 Antrag
+### 6. Abschnitt: Antrag
 
 #### Artikel 16
 
 **Notariatspatent**
 
-<sup>1</sup> Hat der Kandidat oder die Kandidatin die Prüfung bestanden, beantragt die Prüfungsbehörde dem Regierungsrat, das kantonale Notariatspatent zu erteilen.
+Hat der Kandidat oder die Kandidatin die Prüfung bestanden, beantragt die Prüfungsbehörde dem Regierungsrat, das kantonale Notariatspatent zu erteilen.
 
-## 7 Prüfungsgebühr
+### 7. Abschnitt: Prüfungsgebühr
 
 #### Artikel 17
 
@@ -177,26 +185,28 @@ beschliesst:
 
 <sup>2</sup> Wird die schriftliche Prüfung nicht angetreten, verfällt ein Betrag von 150 Franken als Anteil an die Unkosten. Wird die mündliche Prüfung nicht angetreten, wird die hälftige Gebühr zurückerstattet.
 
-## 8 Schlussbestimmungen
+### 8. Abschnitt: Schlussbestimmungen
 
 #### Artikel 18
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Das Reglement vom 16. Oktober 1985 über die Notariats- und Anwaltsprüfung wird aufgehoben.
+Das Reglement vom 16. Oktober 1985 über die Notariats- und Anwaltsprüfung<sup>5</sup> wird aufgehoben.
 
 #### Artikel 19
 
 **Übergangsbestimmung**
 
-<sup>1</sup> Kandidaten und Kandidatinnen, die vor dem 30. Juni 2002 die Notariatsprüfung ablegen, können verlangen, dass sie nach alter Ordnung geprüft werden.
+Kandidaten und Kandidatinnen, die vor dem 30. Juni 2002 die Notariatsprüfung ablegen, können verlangen, dass sie nach alter Ordnung geprüft werden.
 
 #### Artikel 20
 
 **Inkrafttreten**
 
-<sup>1</sup> Das Obergericht bestimmt, wann das Reglement in Kraft tritt[^Artikel20-1].
+Das Obergericht bestimmt, wann das Reglement in Kraft tritt[^20-1].
 
-[^Artikel20-1]: Vom Obergericht in Kraft gesetzt auf den 1. Juni 2002 (AB vom 10. Mai 2002).
+Im Namen des Obergerichtes
 
-AB 12.04.2002
+Der Präsident: Rolf Dittli Die Gerichtsschreiberin: Bernadette Häfliger
+
+[^20-1]: Vom Obergericht in Kraft gesetzt auf den 1. Juni 2002 (AB vom 10. Mai 2002).
