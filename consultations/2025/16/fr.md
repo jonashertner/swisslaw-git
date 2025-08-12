@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Révision totale de la loi fédérale sur le transport de marchandises par rail, par voie navigable ou par installation à câbles; mise en œuvre au niveau des ordonnances (révision totale de l’ordonnance sur le transport de marchandises et autres modifications d’ordonnances dans le domaine du transport de marchandises)"
 document: Projet mis en consultation
 language: fr

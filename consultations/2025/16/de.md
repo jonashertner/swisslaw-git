@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Totalrevision des Bundesgesetzes über den Transport von Gütern auf der Schiene, auf dem Wasser und mit Seilbahnen; Umsetzung auf Verordnungsstufe (Totalrevision der Gütertransportverordnung und weitere Verordnungsänderungen im Bereich Gütertransport)"
 document: Vernehmlassungsvorlage
 language: de

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Revisione totale della legge federale sul trasporto di merci per ferrovia, per idrovia e con impianti a fune; attuazione a livello di ordinanza (revisione totale dell’ordinanza sul trasporto di merci e altre modifiche di ordinanze nel settore del trasporto di merci)"
 document: Progetto posto in consultazione
 language: it
