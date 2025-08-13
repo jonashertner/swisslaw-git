@@ -4,11 +4,11 @@ title: Ordinanza del DFI del 16 dicembre 2016 sulle derrate alimentari destinate
 short: ODPPE
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/180"
 language: it
-version: 2025-07-01
+version: 2025-08-14
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/180/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2017-180-20250701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20250701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/180/20250814/it/xml/fedlex-data-admin-ch-eli-cc-2017-180-20250814-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20250814/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20250701/it"
 
 (ODPPE)
 
-del 16 dicembre 2016 (Stato 1° luglio 2025)
+del 16 dicembre 2016 (Stato 14 agosto 2025)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -1785,29 +1785,29 @@ Allegato 4[^t-5]
 <tr><td>Vitamine e sali minerali</td><td colspan="3">Quantità di riferimento</td></tr>
 <tr><td></td><td></td><td>Alimenti di proseguimento</td><td>Alimenti a base di cereali e altre pappe di complemento</td></tr>
 <tr><td>Acido pantotenico</td><td>(mg)</td><td>3</td><td>–</td></tr>
-<tr><td>Biotina</td><td>(μg)</td><td>10</td><td>–</td></tr>
+<tr><td>Biotina</td><td>(µg)</td><td>10</td><td>–</td></tr>
 <tr><td>Calcio</td><td>(mg)</td><td>550</td><td>400</td></tr>
 <tr><td>Cloruro</td><td>(mg)</td><td>500</td><td>–</td></tr>
 <tr><td>Ferro</td><td>(mg)</td><td>8</td><td>6</td></tr>
-<tr><td>Folato</td><td>(μg-DFE)[^annex4-lvlu1-1]</td><td>125</td><td>100</td></tr>
+<tr><td>Folato</td><td>(µg-DFE)[^annex4-lvlu1-1]</td><td>125</td><td>100</td></tr>
 <tr><td>Fosforo</td><td>(mg)</td><td>550</td><td>–</td></tr>
-<tr><td>Iodio</td><td>(μg)</td><td>80</td><td>70</td></tr>
+<tr><td>Iodio</td><td>(µg)</td><td>80</td><td>70</td></tr>
 <tr><td>Magnesio</td><td>(mg)</td><td>80</td><td>–</td></tr>
 <tr><td>Manganese</td><td>(mg)</td><td>1,2</td><td>–</td></tr>
 <tr><td>Niacina</td><td>(mg)</td><td>7</td><td>9</td></tr>
 <tr><td>Potassio</td><td>(mg)</td><td>1000</td><td>–</td></tr>
 <tr><td>Rame</td><td>(mg)</td><td>0,5</td><td>0,4</td></tr>
-<tr><td>Selenio</td><td>(μg)</td><td>20</td><td>10</td></tr>
+<tr><td>Selenio</td><td>(µg)</td><td>20</td><td>10</td></tr>
 <tr><td>Sodio</td><td>(mg)</td><td>400</td><td>–</td></tr>
-<tr><td>Vitamina A</td><td>(μg-ER)[^annex4-lvlu1-2]</td><td>400</td><td>400</td></tr>
+<tr><td>Vitamina A</td><td>(µg-ER)[^annex4-lvlu1-2]</td><td>400</td><td>400</td></tr>
 <tr><td>Vitamina B<sub><sub>1</sub></sub> (tiamina)</td><td>(mg)</td><td>0,5</td><td>0,5</td></tr>
 <tr><td>Vitamina B<sub><sub>2</sub></sub> (riboflavina)</td><td>(mg)</td><td>0,7</td><td>0,8</td></tr>
-<tr><td>Vitamina B<sub><sub>12</sub></sub></td><td>(μg)</td><td>0,8</td><td>0,7</td></tr>
+<tr><td>Vitamina B<sub><sub>12</sub></sub></td><td>(µg)</td><td>0,8</td><td>0,7</td></tr>
 <tr><td>Vitamina B<sub><sub>6</sub></sub></td><td>(mg)</td><td>0,7</td><td>0,7</td></tr>
 <tr><td>Vitamina C</td><td>(mg)</td><td>45</td><td>25</td></tr>
-<tr><td>Vitamina D</td><td>(μg)</td><td>7</td><td>10</td></tr>
+<tr><td>Vitamina D</td><td>(µg)</td><td>7</td><td>10</td></tr>
 <tr><td>Vitamina E</td><td>(mg-α-ET)[^annex4-lvlu1-3]</td><td>5</td><td>–</td></tr>
-<tr><td>Vitamina K</td><td>(μg)</td><td>12</td><td>–</td></tr>
+<tr><td>Vitamina K</td><td>(µg)</td><td>12</td><td>–</td></tr>
 <tr><td>Zinco</td><td>(mg)</td><td>5</td><td>4</td></tr>
 </table>
 
@@ -1970,11 +1970,13 @@ Allegato 6
 
 [^annex6-lvlu1-lvl5-1]: ER = equivalente retinolo, tutti trans
 
-Allegato 7
+Allegato 7[^t-7]
 
 (art. 19 cpv. 4)
 
 ## Quantità massime di vitamine e sali minerali aggiunti ad alimenti a base di cereali e ad altri alimenti di complemento per lattanti e bambini nella prima infanzia
+
+[^t-7]: Correzione del 14 ago. 2025, concerne soltanto il testo francese ([RU 2025 509](https://fedlex.data.admin.ch/eli/oc/2025/509)).
 
 *Osservazione:* i presenti requisiti si riferiscono al prodotto consegnato ai consumatori pronto al consumo o preparato per il consumo in base alle istruzioni del fabbricante. Fanno eccezione potassio e calcio, nel cui caso i requisiti si riferiscono al prodotto destinato alla consegna ai consumatori.
 
@@ -2010,13 +2012,13 @@ Allegato 7
 [^annex7-lvlu1-6]: Valore massimo applicabile alle pietanze a base di frutta, succhi e nettari di frutta e succhi di verdura.
 [^annex7-lvlu1-7]: In conformità con le disposizioni di cui agli allegati 5 e 6.
 
-Allegato 8[^t-7]
+Allegato 8[^t-8]
 
 (art. 22 cpv. 1–3)
 
 ## Disposizioni concernenti i prodotti fitosanitari in alimenti per lattanti, alimenti di proseguimento, alimenti a base di cereali e altre pappe di complemento per lattanti e bambini nella prima infanzia e alimenti destinati a particolari fini nutrizionali sviluppati per soddisfare le esigenze nutrizionali di lattanti e bambini nella prima infanzia
 
-[^t-7]: Nuovo testo giusta la cifra II cpv. 3 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^t-8]: Nuovo testo giusta la cifra II cpv. 3 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
 
 ### Elenco A: Prodotti fitosanitari vietati
 
@@ -2040,13 +2042,13 @@ Allegato 8[^t-7]
 
 [^annex8-lvlu1-lvlu2-1]: Si applica la definizione dei residui (indicata tra parentesi dopo il composto originario della sostanza) così come figura nell’allegato II, III, IV o V del regolamento (CE) n. 396/2005 del Parlamento europeo e del Consiglio, del 23 febbraio 2005, concernente i livelli massimi di residui di antiparassitari nei o sui prodotti alimentari e mangimi di origine vegetale e animale e che modifica la direttiva 91/414/CEE del Consiglio, GU L 70 del 16.3.2005, pag. 1; modificato da ultimo dal regolamento (UE) 2021/590, GU L 125 del 13.4.2021, pag. 15.
 
-Allegato 9[^t-8]
+Allegato 9[^t-9]
 
 (art. 25 cpv. 3 lett. c e 29 cpv. 1 lett. a)
 
 ## Requisiti degli alimenti a fini medici speciali
 
-[^t-8]: Aggiornato dalla cifra II cpv. 2 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^t-9]: Aggiornato dalla cifra II cpv. 2 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
 
 ### 1 Precisazioni
 
@@ -2173,13 +2175,13 @@ Le specificazioni riguardano i prodotti pronti per il consumo, commercializzati 
 [^annex9-lvlu1-lvl3-lvl32-3]: Per i prodotti destinati ai bambini da 1 a 10 anni.
 [^annex9-lvlu1-lvl3-lvl32-4]: Per i prodotti destinati ai bambini da 1 a 10 anni.
 
-Allegato 10[^t-9]
+Allegato 10[^t-10]
 
 (art. 34 e 35*a* cpv. 1)
 
 ## Requisiti della composizione dei sostituti dell’intera razione alimentare giornaliera per il controllo del peso
 
-[^t-9]: Nuovo testo giusta la cifra II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). Aggiornato dalla cifra II cpv. 2 dell’O del DFI del 9 giu. 2023 ([RU 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)) e dalla cifra II cpv. 1 dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^t-10]: Nuovo testo giusta la cifra II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). Aggiornato dalla cifra II cpv. 2 dell’O del DFI del 9 giu. 2023 ([RU 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)) e dalla cifra II cpv. 1 dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
 
 *Osservazione:* i requisiti in materia di composizione si applicano alle derrate alimentari pronte per lʼuso, commercializzate come tali o dopo una preparazione conforme alle indicazioni del fabbricante.
 
@@ -2233,15 +2235,15 @@ I sostituti dell’intera razione alimentare giornaliera per il controllo del pe
 <tr><th>Sostanza</th><th>Unità</th><th>Quantità</th></tr>
 <tr><td>Folato</td><td>(µg-EFA[^annex10-lvlu1-lvl6-1])</td><td>330</td></tr>
 <tr><td>Acido pantotenico</td><td>(mg)</td><td>5</td></tr>
-<tr><td>Biotina</td><td>(μg)</td><td>40</td></tr>
+<tr><td>Biotina</td><td>(µg)</td><td>40</td></tr>
 <tr><td>Niacina</td><td>(mg EN[^annex10-lvlu1-lvl6-2])</td><td>17</td></tr>
-<tr><td>Vitamina A</td><td>(μg ER[^annex10-lvlu1-lvl6-3])</td><td>700</td></tr>
+<tr><td>Vitamina A</td><td>(µg ER[^annex10-lvlu1-lvl6-3])</td><td>700</td></tr>
 <tr><td>Vitamina B<sub>1</sub> (tiamina)</td><td>(mg)</td><td>0,8</td></tr>
 <tr><td>Vitamina B<sub>2</sub> (riboflavina)</td><td>(mg)</td><td>1,6</td></tr>
 <tr><td>Vitamina B<sub>6</sub></td><td>(mg)</td><td>1,6</td></tr>
-<tr><td>Vitamina B<sub>12</sub></td><td>(μg)</td><td>3</td></tr>
+<tr><td>Vitamina B<sub>12</sub></td><td>(µg)</td><td>3</td></tr>
 <tr><td>Vitamina C</td><td>(mg)</td><td>110</td></tr>
-<tr><td>Vitamina D</td><td>(μg)</td><td>10</td></tr>
+<tr><td>Vitamina D</td><td>(µg)</td><td>10</td></tr>
 <tr><td>Vitamina E</td><td>(mg[^annex10-lvlu1-lvl6-4])</td><td>10</td></tr>
 <tr><td>Vitamina K</td><td>(µg)</td><td>70</td></tr>
 <tr><td>Calcio</td><td>(mg)</td><td>950</td></tr>
@@ -2259,18 +2261,18 @@ I sostituti dell’intera razione alimentare giornaliera per il controllo del pe
 <tr><td>Zinco</td><td>(mg)</td><td>9,4</td></tr>
 </table>
 
-[^annex10-lvlu1-lvl6-1]: Folati equivalenti: 1 μg DFE = 1 μg di folato alimentare = 0,6 μg di acido folico nei prodotti sostitutivi dell’intera razione giornaliera per un’alimentazione mirante al controllo del peso.
+[^annex10-lvlu1-lvl6-1]: Folati equivalenti: 1 µg DFE = 1 µg di folato alimentare = 0,6 µg di acido folico nei prodotti sostitutivi dell’intera razione giornaliera per un’alimentazione mirante al controllo del peso.
 [^annex10-lvlu1-lvl6-2]: Niacina equivalenti.
 [^annex10-lvlu1-lvl6-3]: Retinolo equivalenti.
 [^annex10-lvlu1-lvl6-4]: Attività della vitamina E per il RRR-α-tocoferolo.
 
-Allegato 10a[^t-10]
+Allegato 10a[^t-11]
 
 (art. 35*d*)
 
 ## Requisiti della composizione dei sostituti di un pasto per il controllo del peso
 
-[^t-10]: Introdotto dalla cifra II cpv. 3 dell’O del DFI del 9 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)).
+[^t-11]: Introdotto dalla cifra II cpv. 3 dell’O del DFI del 9 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)).
 
 ### 1 Valore energetico
 
@@ -2311,13 +2313,13 @@ I sostituti di un pasto per il controllo del peso devono contenere, per ogni pas
 
 [^annex10a-lvlu1-lvl4-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
-Allegato 11[^t-11]
+Allegato 11[^t-12]
 
 (art. 38 cpv. 1 lett. a, 39 lett. a e b nonché 40 cpv. 2)
 
 ## Vitamine, sali minerali e altre sostanze nelle quantità massime ammesse per gli adulti
 
-[^t-11]: Nuovo testo giusta la cifra II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). Aggiornato dalla cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^t-12]: Nuovo testo giusta la cifra II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). Aggiornato dalla cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
 
 Si applicano i criteri di purezza specifici stabiliti per gli additivi nell’allegato 4 dell’OAdd[^annex11-lvlu1-1]. Alle sostanze per le quali non sono stati stabiliti requisiti di purezza si applicano i criteri di purezza generalmente riconosciuti, raccomandati da organismi internazionali, quali l’Organizzazione delle Nazioni Unite per l’alimentazione e l’agricoltura (FAO) e l’Organizzazione mondiale della sanità (OMS), o farmacopee internazionali.
 
@@ -2325,34 +2327,34 @@ Si applicano i criteri di purezza specifici stabiliti per gli additivi nell’al
 <tr><th>Vitamine, sali minerali e altre sostanze</th><th>Quantità massime ammesse per gli adulti per dose giornaliera raccomandata</th><th>Avvertenze (corsivo), riferimento al gruppo di destinatari specifico, condizioni d’uso</th></tr>
 <tr><td>1 Vitamine e sali minerali</td><td></td><td></td></tr>
 <tr><td>1.1 Vitamine</td><td></td><td></td></tr>
-<tr><td>Acido folico</td><td>750 μg</td><td></td></tr>
+<tr><td>Acido folico</td><td>750 µg</td><td></td></tr>
 <tr><td>Acido pantotenico</td><td>nessuna</td><td></td></tr>
 <tr><td>Biotina</td><td>nessuna</td><td></td></tr>
 <tr><td>Niacina</td><td>600 mg;</td><td></td></tr>
 <tr><td></td><td>di cui 10 mg come acido nicotinico ed esanicotinato di inositolo (totale)</td><td></td></tr>
 <tr><td>Riboflavina (vitamina B<sub>2</sub>)</td><td>nessuna</td><td></td></tr>
 <tr><td>Tiamina (vitamina B<sub>1</sub>)</td><td>nessuna</td><td></td></tr>
-<tr><td>Vitamina A</td><td>1360 μg[^annex11-lvlu1-2] (equivalenti a 8,2 mg di β-carotene)</td><td>Solo come β-carotene</td></tr>
+<tr><td>Vitamina A</td><td>1360 µg[^annex11-lvlu1-2] (equivalenti a 8,2 mg di β-carotene)</td><td>Solo come β-carotene</td></tr>
 <tr><td>Vitamina B<sub>6</sub></td><td>15 mg</td><td></td></tr>
 <tr><td>Vitamina B<sub>12</sub></td><td>nessuna</td><td></td></tr>
 <tr><td>Vitamina C</td><td>750 mg</td><td></td></tr>
-<tr><td>Vitamina D</td><td>70 μg</td><td></td></tr>
+<tr><td>Vitamina D</td><td>70 µg</td><td></td></tr>
 <tr><td>Vitamina E</td><td>205 mg</td><td></td></tr>
 <tr><td>Vitamina K</td><td>225 µg</td><td>A partire da una dose giornaliera di 25 µg: *«I pazienti che assumono anticoagulanti devono consultare il loro medico prima di assumere preparati a base di vitamina K».*</td></tr>
 <tr><td>1.2 Sali minerali</td><td></td><td></td></tr>
 <tr><td>Boro</td><td>1 mg</td><td></td></tr>
 <tr><td>Calcio</td><td>750 mg</td><td></td></tr>
 <tr><td>Cloruro</td><td>Solo come ione di accompagnamento</td><td></td></tr>
-<tr><td>Cromo</td><td>188 μg</td><td></td></tr>
+<tr><td>Cromo</td><td>188 µg</td><td></td></tr>
 <tr><td>Ferro</td><td>21 mg</td><td></td></tr>
 <tr><td>Fosforo</td><td>Solo come ione di accompagnamento</td><td></td></tr>
-<tr><td>Iodio</td><td>200 μg</td><td></td></tr>
+<tr><td>Iodio</td><td>200 µg</td><td></td></tr>
 <tr><td>Magnesio</td><td>375 mg</td><td>A partire da una dose giornaliera di &gt;250 mg: *«I preparati a base di magnesio possono avere un effetto lassativo.»*</td></tr>
 <tr><td>Manganese</td><td>3 mg</td><td></td></tr>
-<tr><td>Molibdeno</td><td>300 μg</td><td></td></tr>
+<tr><td>Molibdeno</td><td>300 µg</td><td></td></tr>
 <tr><td>Potassio</td><td>2250 mg</td><td></td></tr>
 <tr><td>Rame</td><td>1,6 mg</td><td></td></tr>
-<tr><td>Selenio</td><td>165 μg</td><td></td></tr>
+<tr><td>Selenio</td><td>165 µg</td><td></td></tr>
 <tr><td>Silicio</td><td>nessuna</td><td></td></tr>
 <tr><td>Sodio</td><td>550 mg</td><td></td></tr>
 <tr><td></td><td>nessuna</td><td>Alimenti per sportivi sviluppati specificatamente per gli sport di resistenza estrema.</td></tr>
@@ -2416,13 +2418,13 @@ Si applicano i criteri di purezza specifici stabiliti per gli additivi nell’al
 [^annex11-lvlu1-1]: [RS 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
 [^annex11-lvlu1-2]: Equivalente retinolo, fattore di conversione: β-carotene = 6 × equivalente retinolo
 
-Allegato 12[^t-12]
+Allegato 12[^t-13]
 
 (art. 38 cpv. 1 lett. a, 39 lett. c e 40 cpv. 2)
 
 ## Sostanze e composti ammessi negli alimenti per sportivi
 
-[^t-12]: Aggiornato dalla cifra II cpv. 2 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^t-13]: Aggiornato dalla cifra II cpv. 2 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
 
 ### 1. Categoria 1: Vitamine
 

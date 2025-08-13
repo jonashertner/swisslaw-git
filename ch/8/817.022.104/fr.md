@@ -4,11 +4,11 @@ title: Ordonnance du DFI du 16 décembre 2016 sur les denrées alimentaires dest
 short: OBNP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/180"
 language: fr
-version: 2025-07-01
+version: 2025-08-14
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/180/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-180-20250701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20250701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/180/20250814/fr/xml/fedlex-data-admin-ch-eli-cc-2017-180-20250814-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20250814/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20250701/fr"
 
 (OBNP)
 
-du 16 décembre 2016 (État le 1<sup>er</sup> juillet 2025)
+du 16 décembre 2016 (État le 14 août 2025)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -1885,7 +1885,7 @@ Annexe 5[^t-6]
 
 ### 6 Vitamines
 
-- 6\.1 S’agissant des préparations à base de céréales, la quantité de thiamine ne peut pas être inférieure à 25 μg/100 kJ (100 μg/100 kcal).
+- 6\.1 S’agissant des préparations à base de céréales, la quantité de thiamine ne peut pas être inférieure à 25 µg/100 kJ (100 µg/100 kcal).
 - 6\.2 S’agissant des produits visés à l’art. 19, al. 1, let. b, les teneurs suivantes sont applicables:
 
 <table>
@@ -1974,11 +1974,13 @@ Annexe 6
 
 [^annex6-lvlu1-lvl5-1]: ER = tous les équivalents trans rétinol
 
-Annexe 7
+Annexe 7[^t-7]
 
 (art. 19, al. 4)
 
 ## Teneurs maximales applicables aux vitamines et aux sels minéraux ajoutés aux préparations à base de céréales et aux denrées alimentaires pour bébés destinées à des nourrissons et à des enfants en bas âge
+
+[^t-7]: Mise à jour par l’erratum du 14 août 2025 ([RO 2025 509](https://fedlex.data.admin.ch/eli/oc/2025/509)).
 
 *Remarque:* les exigences s’appliquent aux produits remis prêts à consommer aux consommateurs ou à reconstituer selon les instructions du fabricant. Sont exceptés le potassium et le calcium, pour lesquels les exigences concernent le produit tel qu’il est remis au consommateur.
 
@@ -2006,7 +2008,7 @@ Annexe 7
 <tr><td>Zinc (mg)</td><td>2</td></tr>
 </table>
 
-[^annex7-lvlu1-1]: Teneur maximale applicable aux produits visés à l’art. 19, al. 1, let. a.
+[^annex7-lvlu1-1]: Teneur maximale applicable aux produits visés à l’art. 19, al. 1, let. a et b.
 [^annex7-lvlu1-2]: Teneur maximale applicable aux produits visés à l’art. 19, al. 1, let. d.
 [^annex7-lvlu1-3]: Conformément aux dispositions des annexes 5 et 6.
 [^annex7-lvlu1-4]: Teneur maximale applicable aux préparations à base de céréales.
@@ -2014,13 +2016,13 @@ Annexe 7
 [^annex7-lvlu1-6]: Teneur maximale applicable aux préparations à base de fruits, aux jus de fruits, aux nectars de fruits et aux jus de légumes.
 [^annex7-lvlu1-7]: Conformément aux dispositions des annexes 5 et 6.
 
-Annexe 8[^t-7]
+Annexe 8[^t-8]
 
 (art. 22, al. 1 à 3)
 
 ## Dispositions relatives aux produits phytosanitaires dans les préparations pour nourrissons, les préparations de suite, les préparations à base de céréales et les denrées alimentaires pour bébés destinées à des nourrissons et des enfants en bas âge et aux denrées alimentaires destinées à une alimentation particulière élaborées pour répondre aux besoins nutritionnels des nourrissons et des enfants en bas âge
 
-[^t-7]: Nouvelle teneur selon le ch. II al. 3 de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^t-8]: Nouvelle teneur selon le ch. II al. 3 de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
 
 ### Liste A: Produits phytosanitaires interdits
 
@@ -2044,13 +2046,13 @@ Annexe 8[^t-7]
 
 [^annex8-lvlu1-lvlu2-1]: La définition des résidus (mentionnée entre parenthèses après le composé parent de la substance) s’applique telle qu’elle figure à l’annexe II, III, IV ou V du règlement (CE) n<sup>o</sup> 396/2005 du Parlement européen et du Conseil du 23 février 2005 concernant les limites maximales applicables aux résidus de pesticides présents dans ou sur les denrées alimentaires et les aliments pour animaux d’origine végétale et animale et modifiant la directive 91/414/CEE du Conseil, JO L 70 du 16.3.2005, p. 1; modifié en dernier lieu par le règlement (UE) 2021/590, JO L 125 du 13.4.2021, p. 15.
 
-Annexe 9[^t-8]
+Annexe 9[^t-9]
 
 (art. 25, al. 3, let. c, et 29, al. 1, let. a)
 
 ## Denrées alimentaires destinées à des fins médicales spéciales
 
-[^t-8]: Mise à jour par le ch. II al. 2 de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^t-9]: Mise à jour par le ch. II al. 2 de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
 
 ### 1 Commentaires
 
@@ -2177,13 +2179,13 @@ Les spécifications portent sur les produits prêts à l’emploi qui sont comme
 [^annex9-lvlu1-lvl3-lvl32-3]: Pour les produits destinés aux enfants de 1 à 10 ans
 [^annex9-lvlu1-lvl3-lvl32-4]: Pour les produits destinés aux enfants de 1 à 10 ans
 
-Annexe 10[^t-9]
+Annexe 10[^t-10]
 
 (art. 34 et 35*a*, al. 1)
 
 ## Exigences applicables à la composition des substituts de la ration journalière totale pour contrôle du poids
 
-[^t-9]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 27 mai 2020 ([RO 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). Mise à jour par le ch. II al. 2 de l’O du DFI du 9 juin 2023 ([RO 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)) et le ch. II al. 1 de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^t-10]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 27 mai 2020 ([RO 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). Mise à jour par le ch. II al. 2 de l’O du DFI du 9 juin 2023 ([RO 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)) et le ch. II al. 1 de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
 
 *Remarque:* les exigences portant sur la composition s’appliquent aux denrées alimentaires prêtes à l’emploi, commercialisées telles quelles ou après avoir été préparées suivant les instructions du fabricant.
 
@@ -2267,18 +2269,18 @@ L’apport en magnésium des substituts de la ration journalière totale pour co
 <tr><td>Zinc</td><td>(mg)</td><td>9,4</td></tr>
 </table>
 
-[^annex10-lvlu1-lvl6-1]: Équivalents en folate alimentaire: 1 μg EFA = 1 μg de folate alimentaire = 0,6 μg d’acide folique dans les substituts de la ration journalière totale pour contrôle du poids
+[^annex10-lvlu1-lvl6-1]: Équivalents en folate alimentaire: 1 µg EFA = 1 µg de folate alimentaire = 0,6 µg d’acide folique dans les substituts de la ration journalière totale pour contrôle du poids
 [^annex10-lvlu1-lvl6-2]: Équivalents niacine
 [^annex10-lvlu1-lvl6-3]: Équivalents rétinol
 [^annex10-lvlu1-lvl6-4]: Activité de la vitamine E pour le RRR-α-tocophérol
 
-Annexe 10a[^t-10]
+Annexe 10a[^t-11]
 
 (art. 35*d*)
 
 ## Exigences applicables à la composition des substituts de repas pour contrôle du poids
 
-[^t-10]: Introduite par le ch. II al. 3 de l’O du DFI du 9 juin 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)).
+[^t-11]: Introduite par le ch. II al. 3 de l’O du DFI du 9 juin 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)).
 
 ### 1 Valeur énergétique
 
@@ -2319,13 +2321,13 @@ Les substituts de repas pour contrôle du poids doivent contenir, par repas, au 
 
 [^annex10a-lvlu1-lvl4-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
-Annexe 11[^t-11]
+Annexe 11[^t-12]
 
 (art. 38, al. 1, let. a, 39, let. a et b, et 40, al. 2)
 
 ## Vitamines, sels minéraux et autres substances: quantités maximales admises pour les adultes
 
-[^t-11]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 27 mai 2020 ([RO 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). Mise à jour par le ch. II al. 1 de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^t-12]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 27 mai 2020 ([RO 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). Mise à jour par le ch. II al. 1 de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
 
 Les critères de pureté fixés dans l’annexe 4 de l’OAdd[^annex11-lvlu1-1] s’appliquent. Pour les substances pour lesquelles aucun critère de pureté n’a été défini, les critères de pureté généralement reconnus et recommandés par des organismes internationaux comme l’Organisation des Nations Unies pour l’alimentation et l’agriculture (FAO), l’Organisation mondiale de la Santé (OMS) ou des pharmacopées internationales s’appliquent.
 
@@ -2423,13 +2425,13 @@ Les critères de pureté fixés dans l’annexe 4 de l’OAdd[^annex11-lvlu1-1] 
 [^annex11-lvlu1-1]: [RS 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
 [^annex11-lvlu1-2]: Équivalents rétinol, facteur de conversion: β-carotène = 6 x équivalents rétinol
 
-Annexe 12[^t-12]
+Annexe 12[^t-13]
 
 (art. 38, al. 1, let. a, 39, let. c, et 40, al. 2)
 
 ## Substances et composés admis dans les aliments pour sportifs
 
-[^t-12]: Mise à jour par le ch. II al. 2 de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^t-13]: Mise à jour par le ch. II al. 2 de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
 
 ### 1. Catégorie 1: vitamines
 

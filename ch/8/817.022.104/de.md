@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 16. Dezember 2016 über Lebensmittel für Personen
 short: VLBE
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/180"
 language: de
-version: 2025-07-01
+version: 2025-08-14
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/180/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2017-180-20250701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20250701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/180/20250814/de/xml/fedlex-data-admin-ch-eli-cc-2017-180-20250814-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20250814/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20250701/de"
 
 (VLBE)
 
-vom 16. Dezember 2016 (Stand am 1. Juli 2025)
+vom 16. Dezember 2016 (Stand am 14. August 2025)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -1972,11 +1972,13 @@ Anhang 6
 
 [^annex6-lvlu1-lvl5-1]: RE = Retinoläquivalent, all-trans.
 
-Anhang 7
+Anhang 7[^t-7]
 
 (Art. 19 Abs. 4)
 
 ## Höchstmengen für Vitamine und Mineralstoffe, die Getreidebeikost und anderer Beikost für Säuglinge und Kleinkinder zugesetzt werden
+
+[^t-7]: Die Berichtigung vom 14. Aug. 2025 betrifft nur den französischen Text ([AS 2025 509](https://fedlex.data.admin.ch/eli/oc/2025/509)).
 
 *Anmerkung:* Diese Anforderungen beziehen sich auf das Erzeugnis, das genussfertig an Konsumentinnen und Konsumenten abgegeben wird, oder auf das Erzeugnis, das nach den Anweisungen der Herstellerin oder des Herstellers genussfertig zubereitet wird. Ausgenommen sind Kalium und Kalzium, bei denen sich die Anforderungen auf das Erzeugnis beziehen, das an Konsumentinnen und Konsumenten abgegeben wird.
 
@@ -2012,13 +2014,13 @@ Anhang 7
 [^annex7-lvlu1-6]: Dieser Höchstwert gilt für Gerichte auf Fruchtbasis, Fruchtsäfte, Fruchtnektare und Gemüsesäfte.
 [^annex7-lvlu1-7]: Im Einklang mit den Bestimmungen der Anhänge 5 und 6.
 
-Anhang 8[^t-7]
+Anhang 8[^t-8]
 
 (Art. 22 Abs. 1–3)
 
 ## Bestimmungen bezüglich Pflanzenschutzmittel in Säuglingsanfangsnahrung, Folgenahrung, Getreidebeikost, anderer Beikost für Säuglinge und Kleinkinder und Lebensmittel für besondere Ernährungszwecke, die für die Ernährungsanforderungen von Säuglingen und Kleinkindern entwickelt wurden
 
-[^t-7]: Fassung gemäss Ziff. II Abs. 3 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^t-8]: Fassung gemäss Ziff. II Abs. 3 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
 
 ### Liste A: Verbotene Pflanzenschutzmittel
 
@@ -2042,13 +2044,13 @@ Anhang 8[^t-7]
 
 [^annex8-lvlu1-lvlu2-1]: Die Rückstandsdefinition (in Klammern nach der Ausgangsverbindung des Stoffes angegeben) gilt gemäss der Definition in den relevanten Anhängen II, III, IV oder V der Verordnung (EG) Nr. 396/2005 des Europäischen Parlaments und Rates vom 23. Februar 2005 über Höchstgehalte an Pestizidrückständen in oder auf Lebens- und Futtermitteln pflanzlichen und tierischen Ursprungs und zur Änderung der Richtlinie 91/414/EWG des Rates, ABl. L 70 vom 16.3.2005, S. 1; zuletzt geändert durch Verordnung (EU) 2021/590, ABl. L 125 vom 13.4.2021, S. 15.
 
-Anhang 9[^t-8]
+Anhang 9[^t-9]
 
 (Art. 25 Abs. 3 Bst. c und 29 Abs. 1 Bst. a)
 
 ## Anforderungen an Lebensmittel für besondere medizinische Zwecke
 
-[^t-8]: Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^t-9]: Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
 
 ### 1 Erläuterungen
 
@@ -2175,13 +2177,13 @@ Die Spezifikationen beziehen sich auf das gebrauchsfertige Erzeugnis, sei es als
 [^annex9-lvlu1-lvl3-lvl32-3]: Für Erzeugnisse, die für Kinder von 1 bis 10 Jahren bestimmt sind
 [^annex9-lvlu1-lvl3-lvl32-4]: Für Erzeugnisse, die für Kinder von 1 bis 10 Jahren bestimmt sind
 
-Anhang 10[^t-9]
+Anhang 10[^t-10]
 
 (Art. 34 und 35*a* Abs. 1)
 
 ## Anforderungen an die Zusammensetzung von Tagesrationen für gewichtskontrollierende Ernährung
 
-[^t-9]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 9. Juni 2023 ([AS 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)) und Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^t-10]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 9. Juni 2023 ([AS 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)) und Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
 
 *Anmerkung:* Die festgelegten Zusammensetzungsanforderungen gelten für gebrauchsfertige Lebensmittel, die als solche oder nach Zubereitung gemäss den Anweisungen des Herstellers vermarktet werden.
 
@@ -2266,13 +2268,13 @@ Tagesrationen für gewichtskontrollierende Ernährung dürfen pro Tagesration ni
 [^annex10-lvlu1-lvl6-3]: Retinol-Äquivalente.
 [^annex10-lvlu1-lvl6-4]: Vitamin-E-Aktivität von RRR-α-Tocopherol.
 
-Anhang 10a[^t-10]
+Anhang 10a[^t-11]
 
 (Art. 35*d*)
 
 ## Anforderungen an die Zusammensetzung von Mahlzeitersatz für gewichtskontrollierende Ernährung
 
-[^t-10]: Eingefügt durch Ziff. II Abs. 3 der V des EDI vom 9. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)).
+[^t-11]: Eingefügt durch Ziff. II Abs. 3 der V des EDI vom 9. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)).
 
 ### 1 Energiewert
 
@@ -2313,13 +2315,13 @@ Ein Mahlzeitersatz für gewichtskontrollierende Ernährung muss je Mahlzeit mind
 
 [^annex10a-lvlu1-lvl4-1]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
-Anhang 11[^t-11]
+Anhang 11[^t-12]
 
 (Art. 38 Abs. 1 Bst. a, 39 Bst. a und b sowie 40 Abs. 2)
 
 ## Vitamine, Mineralstoffe und sonstige Stoffe in den für Erwachsene zulässigen Höchstmengen
 
-[^t-11]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). Bereinigt gemäss Berichtigung vom 31. Mai 2021 ([AS 2021 309](https://fedlex.data.admin.ch/eli/oc/2021/309)) und Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^t-12]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). Bereinigt gemäss Berichtigung vom 31. Mai 2021 ([AS 2021 309](https://fedlex.data.admin.ch/eli/oc/2021/309)) und Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
 
 Es gelten die spezifischen Reinheitskriterien, die im Anhang 4 der ZuV[^annex11-lvlu1-1] für Zusatzstoffe festgelegt sind. Für Stoffe, für die keine Reinheitskriterien festgelegt wurden, gelten die allgemein anerkannten Reinheitskriterien, die von internationalen Gremien, wie der Ernährungs- und Landwirtschaftsorganisation der Vereinten Nationen (FAO), der Weltgesundheitsorganisation (WHO) oder internationalen Pharmakopöen empfohlen werden.
 
@@ -2417,13 +2419,13 @@ Es gelten die spezifischen Reinheitskriterien, die im Anhang 4 der ZuV[^annex11-
 [^annex11-lvlu1-1]: [SR 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
 [^annex11-lvlu1-2]: Retinol-Äquivalente, Umrechnungsfaktor: β-Carotin = 6 × Retinol-Äquivalente
 
-Anhang 12[^t-12]
+Anhang 12[^t-13]
 
 (Art. 38 Abs. 1 Bst. a, 39 Bst. c und 40 Abs. 2)
 
 ## Zulässige Stoffe und Verbindungen für Lebensmittel für Sportlerinnen und Sportler
 
-[^t-12]: Bereinigt gemäss Ziff. I Abs. 2 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^t-13]: Bereinigt gemäss Ziff. I Abs. 2 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
 
 ### 1. Kategorie 1: Vitamine
 
