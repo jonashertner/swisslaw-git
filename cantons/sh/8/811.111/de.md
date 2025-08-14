@@ -4,13 +4,12 @@ number: "811.111"
 title: Verordnung zum Einführungsgesetz zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege
 short: VEG FAP
 language: de
-version: 2025-01-01
-valid_until: 2025-08-14
-version_adopted: 2024-08-27
+version: 2025-08-15
+version_adopted: 2025-08-05
 adopted: 2024-08-27
 in_force: 2025-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/811.111"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1955/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2001/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://rechtsbuch.sh.ch/api/de/versions/1955/pdf_file"
 
 (VEG FAP)
 
-Vom 27.08.2024 (Stand 01.01.2025)
+Vom 27.08.2024 (Stand 15.08.2025)
 
 Der Regierungsrat des Kantons Schaffhausen,
 
@@ -111,9 +110,15 @@ Normwert = (Durchschnittliche Ausbildungsleistung aller ausbildenden Einrichtung
 
 <sup>4</sup> Bei der Berechnung des Normwerts wird kaufmännisch auf eine Nachkommastelle gerundet.
 
-<sup>5</sup> Abweichend von Abs. 1 bis 4 beträgt der Normwert für die Jahre 2025 und 2026:
+<sup>5</sup> Abweichend von Abs. 1 bis 4 beträgt der Normwert für das Kalenderjahr 2025:
 
 - a) Für Spitäler: 6.5 Wochen
+- b) Für Pflegeheime: 4.5 Wochen
+- c) Für Spitex-Organisationen: 1.5 Wochen
+
+<sup>6</sup> Abweichend von Abs. 1 bis 4 beträgt der Normwert für das Kalenderjahr 2026:
+
+- a) Für Spitäler: 8.5 Wochen
 - b) Für Pflegeheime: 4.5 Wochen
 - c) Für Spitex-Organisationen: 1.5 Wochen
 
