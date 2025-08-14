@@ -4,13 +4,12 @@ number: "414.164"
 title: "Absenzenordnung für die kantonalen Gymnasien, die Fachmittelschule und die Wirtschaftsmittelschule"
 short: AO
 language: de
-version: 2015-08-01
-valid_until: 2025-08-14
-version_adopted: 2015-04-29
+version: 2025-08-15
+version_adopted: 2025-06-23
 adopted: 2015-04-29
 in_force: 2015-08-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/414.164"
-pdf: "https://bgs.zg.ch/api/de/versions/1443/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2722/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,9 +18,9 @@ pdf: "https://bgs.zg.ch/api/de/versions/1443/pdf_file"
 
 (AO)
 
-Vom 29. April 2015 (Stand 1. August 2015)
+Vom 29. April 2015 (Stand 15. August 2025)
 
-Die Schulkommission der Kantonalen Mittelschulen,
+Die Schulkommission der kantonalen Mittelschulen des Kantons Zug,
 
 gestützt auf § 4 Absatz 4 Bestimmung c des Gesetzes über die kantonalen Schulen vom 27. September 1990[^ingress-1],
 
@@ -43,7 +42,9 @@ beschliesst:
 
 <sup>2</sup> Sie dient der Sicherstellung eines geordneten und zielgerichteten Schulbetriebs.
 
-<sup>3</sup> Die Schulen können ergänzende Richtlinien erlassen.
+<sup>3</sup> Die Schulen erlassen ergänzende Richtlinien. Sie bezeichnen die für die Umsetzung dieser Absenzenordnung geltenden Abläufe und Fristen, zuständigen Stellen und deren Aufgaben, soweit sie nicht in der Absenzenordnung festgelegt sind.
+
+<sup>4</sup> Die Schulen führen eine elektronische Absenzenverwaltung.
 
 #### § 2
 
@@ -52,10 +53,10 @@ beschliesst:
 <sup>1</sup> Die Schülerinnen und Schüler sind verpflichtet:
 
 - a) die obligatorischen Fächer, die obligatorischen Schulanlässe ausserhalb des Stundenplans und die von ihnen gewählten Freifachkurse zu besuchen sowie pünktlich zu erscheinen;
-- b) unvorhersehbare Absenzen nachträglich bei der Klassenlehrperson schriftlich zu begründen;
-- c) vorhersehbare Absenzen vorgängig mittels Gesuch von der zuständigen Stelle bewilligen zu lassen.
+- b) unvorhersehbare Absenzen zu begründen;
+- c) vorhersehbare Absenzen vorgängig, mittels begründetem Gesuch bewilligen zu lassen.
 
-<sup>2</sup> Die Fachlehrpersonen sind verpflichtet, die Absenzen der Schülerinnen und Schüler zu erfassen und der Klassenlehrperson zur Kenntnis zu bringen.
+<sup>2</sup> Die Fachlehrpersonen sind verpflichtet, die Absenzen und Verspätungen der Schülerinnen und Schüler zu erfassen und der Klassenlehrperson zur Kenntnis zu bringen.
 
 ## 2. Unvorhersehbare Absenzen
 
@@ -63,21 +64,21 @@ beschliesst:
 
 **Abmeldung und Information**
 
-<sup>1</sup> Die Abmeldung erfolgt durch die Schülerinnen oder Schüler bzw. die Erziehungsberechtigten an der von der Schulleitung bezeichneten Stelle.
+<sup>1</sup> Die Abmeldung erfolgt durch die Schülerinnen oder Schüler bzw. die Erziehungsberechtigten vor Beginn des Unterrichts.
 
 #### § 4
 
 **Begründung und Unterschriften**
 
-<sup>1</sup> Unvorhersehbare Absenzen sind schriftlich zu begründen.
+<sup>1</sup> Unvorhersehbare Absenzen sind zu begründen.
 
-<sup>2</sup> Die Erziehungsberechtigten unterschreiben die Begründung minderjähriger Schülerinnen und Schüler auf dem Absenzenformular.
+<sup>2</sup> Die Begründung der minderjährigen Schülerinnen und Schüler muss durch die Erziehungsberechtigten genehmigt werden.
 
-<sup>3</sup> Volljährige Schülerinnen und Schüler unterschreiben die Begründung auf dem Absenzenformular selber.
+<sup>3</sup> Volljährige Schülerinnen und Schüler begründen die Absenzen selber.
 
-<sup>4</sup> Das Absenzenformular ist der Klassenlehrperson unaufgefordert innert zwei Wochen nach der Wiederaufnahme des Unterrichtsbesuchs vorzulegen.
+<sup>4</sup> Die Begründung ist unaufgefordert innert der von der Schulleitung gesetzten Frist einzureichen.
 
-<sup>5</sup> Die Klassenlehrperson beurteilt die beigebrachte Begründung der Absenz. Sie kann die Begründung ablehnen.
+<sup>5</sup> Die von der Schulleitung bezeichnete Stelle beurteilt die beigebrachte Begründung der Absenz. Sie kann die Begründung ablehnen.
 
 #### § 5
 
@@ -92,11 +93,11 @@ beschliesst:
 
 **Bestätigungen**
 
-<sup>1</sup> Bei längeren Absenzen oder wiederholt kurzer Abwesenheit kann die Klassenlehrperson bzw. das zuständige Schulleitungsmitglied die Bestätigung einer unabhängigen Drittperson wie Arztzeugnis oder amtliche Bescheinigung verlangen.
+<sup>1</sup> Bei längeren oder wiederholten kurzen Absenzen kann die Bestätigung einer unabhängigen Drittperson wie ein Arztzeugnis oder eine amtliche Bescheinigung verlangt werden.
 
-<sup>2</sup> Bleibt eine Schülerin oder ein Schüler häufig unvorhersehbar dem Unterricht fern, muss sie oder er für jede weitere Absenz die Bestätigung einer unabhängigen Drittperson wie Arztzeugnis oder amtliche Bescheinigung beibringen. Die Klassenlehrperson informiert das zuständige Schulleitungsmitglied.
+<sup>2</sup> …
 
-<sup>3</sup> Bleibt eine Schülerin oder ein Schüler einer Nachprüfung fern, kann die Fachlehrperson, die Klassenlehrperson oder das zuständige Schulleitungsmitglied eine Bestätigung einer unabhängigen Drittperson wie Arztzeugnis oder amtliche Bescheinigung einfordern.
+<sup>3</sup> Bleibt eine Schülerin oder ein Schüler einer Nachprüfung fern, kann eine Bestätigung einer unabhängigen Drittperson wie ein Arztzeugnis oder eine amtliche Bescheinigung verlangt werden.
 
 ## 3. Vorhersehbare Absenzen
 
@@ -104,7 +105,7 @@ beschliesst:
 
 **Gesuch**
 
-<sup>1</sup> Für vorhersehbare Absenzen ist in der Regel spätestens zwei Wochen im Voraus schriftlich ein Gesuch von den Erziehungsberechtigten bzw. der volljährigen Schülerin oder dem volljährigen Schüler bei der zuständigen Stelle einzureichen.
+<sup>1</sup> Für vorhersehbare Absenzen ist ein begründetes Gesuch von den Erziehungsberechtigten bzw. der volljährigen Schülerin oder dem volljährigen Schüler einzureichen.
 
 <sup>2</sup> Gesuche um Verlängerung der Schulferien werden in der Regel nicht bewilligt. Über Ausnahmen entscheidet das zuständige Schulleitungsmitglied.
 
@@ -112,7 +113,7 @@ beschliesst:
 
 **Zuständigkeiten**
 
-<sup>1</sup> Die Fachlehrpersonen können Absenzen für maximal eine einzelne Doppellektion ihres Fachs bewilligen.
+<sup>1</sup> …
 
 <sup>2</sup> Die Klassenlehrperson kann Absenzen bis zu drei Tagen bewilligen.
 
@@ -136,7 +137,7 @@ beschliesst:
 
 **Arztbesuche**
 
-<sup>1</sup> Arztbesuche sind in der unterrichtsfreien Zeit anzusetzen. Ist dies nicht möglich, stellt die Schülerin oder der Schüler ein Gesuch an die zuständige Stelle gemäss § 8.
+<sup>1</sup> Arztbesuche sind in der unterrichtsfreien Zeit anzusetzen. Ist dies nicht möglich, ist von den Erziehungsberechtigten bzw. der volljährigen Schülerin oder dem volljährigen Schüler ein Gesuch einzureichen.
 
 ## 4. Unentschuldigte Absenzen
 
@@ -147,17 +148,17 @@ beschliesst:
 <sup>1</sup> In folgenden Fällen gilt eine Absenz als unentschuldigt:
 
 - a) keine oder nicht fristgerechte Begründung;
-- b) Ablehnung der Begründung durch die Klassenlehrperson;
+- b) Ablehnung der Begründung;
 - c) fehlende Bestätigung;
 - d) unkorrekte Angaben wie gefälschte Unterschrift oder Daten.
 
-<sup>2</sup> Wiederholtes Zuspätkommen ohne akzeptierte Begründung gemäss Abs. 1 Bst. b kann als unentschuldigte Absenz gewertet werden.
+<sup>2</sup> Häuft sich bei einer Schülerin oder einem Schüler das Zuspätkommen zum Unterricht ohne akzeptierte Begründung gemäss Abs. 1 Bst. b, so kann jede verspätet besuchte Lektion als unentschuldigte Absenz gewertet werden.
 
 #### § 12
 
 **Eintrag im Zeugnis**
 
-<sup>1</sup> Unentschuldigte Absenzen werden im Zeugnis eingetragen.
+<sup>1</sup> Unentschuldigte Absenzen werden im Semester- bzw. Zwischen- und Jahreszeugnis eingetragen.
 
 ## 5. Disziplinarische Massnahmen
 
