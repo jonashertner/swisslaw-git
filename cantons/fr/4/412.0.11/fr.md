@@ -4,13 +4,12 @@ number: "412.0.11"
 title: "Règlement sur l'enseignement secondaire supérieur"
 short: RESS
 language: fr
-version: 2025-08-01
-valid_until: 2025-08-14
-version_adopted: 2025-06-17
+version: 2025-08-15
+version_adopted: 2025-08-06
 adopted: 2021-05-26
 in_force: 2021-08-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/412.0.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8227/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8513/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Enseignement secondaire supérieur – R
 
 (RESS)
 
-du 26.05.2021 (version entrée en vigueur le 01.08.2025)
+du 26.05.2021 (version entrée en vigueur le 15.08.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -35,9 +34,11 @@ Arrête:
 
 **Champ d'application**
 
-<sup>1</sup> Le présent règlement énonce les dispositions d'exécution générales de la loi sur l'enseignement secondaire supérieur.
+<sup>1</sup> Le présent règlement énonce les dispositions d'exécution générales de la loi sur l'enseignement secondaire supérieur[^1-1].
 
 <sup>2</sup> Sont réservées les dispositions spéciales relatives aux voies de formation.
+
+[^1-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
 
 ## 2 Structure de l'enseignement
 
@@ -45,37 +46,44 @@ Arrête:
 
 #### Art. 2
 
-**Formation gymnasiale (art. 10 et 14 al. 1 LESS)**
+**Formation gymnasiale (art. 10 et 14 al. 1 LESS[^2-1])**
 
 <sup>1</sup> La formation gymnasiale prépare à l'obtention du certificat de maturité gymnasiale, conformément à la réglementation fédérale et intercantonale sur la reconnaissance de ce certificat.
 
 <sup>2</sup> L'organisation de la formation gymnasiale, notamment la structure des études et les conditions de promotion, est précisée par le Conseil d'Etat.
 
+[^2-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
+
 #### Art. 3
 
-**Formation commerciale en école à plein temps (art. 11 LESS)**
+**Formation commerciale en école à plein temps (art. 11 LESS[^3-1])**
 
-<sup>1</sup> La formation commerciale prépare à l'obtention du certificat fédéral de capacité et du certificat fédéral de maturité professionnelle dans le domaine du commerce, conformément aux dispositions édictées par le Secrétariat d'Etat à la recherche et à l'innovation (ci-après: le SEFRI) en application de la loi fédérale sur la formation professionnelle.
+<sup>1</sup> La formation commerciale prépare à l'obtention du certificat fédéral de capacité et du certificat fédéral de maturité professionnelle dans le domaine du commerce, conformément aux dispositions édictées par le Secrétariat d'Etat à la recherche et à l'innovation (ci-après: le SEFRI) en application de la loi fédérale sur la formation professionnelle[^3-2].
 
 <sup>2</sup> L'organisation de la formation commerciale en école à plein temps, notamment la durée, la structure des études et les conditions de promotion, est précisée par le Conseil d'Etat.
 
 <sup>3</sup> Sont habilitées à délivrer un certificat fédéral de capacité ou un certificat fédéral de maturité professionnelle les écoles de commerce publiques reconnues par le SEFRI et intégrées au Collège de Gambach et au Collège du Sud.
 
+[^3-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
+[^3-2]: RS [412.10](https://db.clex.ch/link/Bund/412.10/fr)
+
 #### Art. 4
 
-**Formation en école de culture générale (art. 12 LESS)**
+**Formation en école de culture générale (art. 12 LESS[^4-1])**
 
-<sup>1</sup> La formation en école de culture générale prépare à l'obtention du certificat de culture générale et du certificat de maturité spécialisée dans les domaines professionnels Santé/Sciences expérimentales, Travail social et Pédagogie, conformément à la réglementation intercantonale sur la reconnaissance de ces certificats.
+<sup>1</sup> La formation en école de culture générale prépare à l'obtention du certificat d'école de culture générale et du certificat de maturité spécialisée dans les domaines professionnels Santé/Sciences expérimentales, Travail social et Pédagogie, conformément à la réglementation intercantonale sur la reconnaissance de ces certificats.
 
 <sup>2</sup> L'organisation de la formation en école de culture générale, notamment la structure des études et les conditions de promotion, est précisée par le Conseil d'Etat.
 
-<sup>3</sup> Les durées des formations menant au certificat de culture générale et au certificat de maturité spécialisée sont de respectivement trois ans et un an.
+<sup>3</sup> Les durées des formations menant au certificat d'école de culture générale et au certificat de maturité spécialisée sont de respectivement trois ans et un an.
 
 <sup>4</sup> La formation en école de culture générale est offerte à l'Ecole de culture générale de Fribourg (ECGF) et au Collège du Sud.
 
+[^4-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
+
 #### Art. 5
 
-**Voies de formation complémentaires (art. 13 LESS)**
+**Voies de formation complémentaires (art. 13 LESS[^5-1])**
 
 <sup>1</sup> La passerelle de la maturité professionnelle ou spécialisée aux hautes écoles universitaires dure une année.
 
@@ -83,7 +91,13 @@ Arrête:
 
 <sup>3</sup> L'organisation de ces formations, notamment les lieux de formation, la structure des études ainsi que les modalités et les conditions d'obtention des certificats, est précisée par le Conseil d'Etat.
 
+[^5-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
+
 ### 2.2 Promotion du bilinguisme (art. 7 LESS)
+
+[^5-2]
+
+[^5-2]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
 
 #### Art. 6
 
@@ -124,6 +138,10 @@ Arrête:
 
 ### 3.1 Année scolaire (art. 15 LESS)
 
+[^8-1]
+
+[^8-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
+
 #### Art. 9
 
 **Calendrier scolaire**
@@ -153,6 +171,10 @@ Arrête:
 <sup>4</sup> Sauf dispense individuelle accordée par le directeur ou la directrice pour des motifs justifiés, tous les élèves y participent.
 
 ### 3.2 Congés et absences imprévues (art. 16 LESS)
+
+[^11-1]
+
+[^11-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
 
 #### Art. 12
 
@@ -232,6 +254,10 @@ Arrête:
 
 ### 3.3 Plan d'études (art. 17 LESS)
 
+[^19-1]
+
+[^19-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
+
 #### Art. 20
 
 **Contenu**
@@ -245,6 +271,10 @@ Arrête:
 
 ### 3.4 Examens finals (art. 18 LESS)
 
+[^20-1]
+
+[^20-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
+
 #### Art. 21
 
 **Conditions d'obtention des certificats**
@@ -253,13 +283,19 @@ Arrête:
 
 - a) certificat de maturité gymnasiale;
 - b) certificat fédéral de capacité et de maturité professionnelle dans le domaine du commerce;
-- c) certificat de culture générale et de maturité spécialisée;
+- c) certificat d'école de culture générale et de maturité spécialisée;
 - d) certificat de l'examen complémentaire Passerelle maturité professionnelle/spécialisée – hautes écoles universitaires;
 - e) attestation de réussite de l'examen permettant l'accès à la procédure d'admission à la formation en enseignement primaire de l'Université de Fribourg.
 
-<sup>2</sup> Est réservée la réglementation relative à d'autres certificats en application de l'article 8 LESS.
+<sup>2</sup> Est réservée la réglementation relative à d'autres certificats en application de l'article 8 LESS[^21-1].
+
+[^21-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
 
 ### 3.5 Qualité et développement de l'école (art. 20 et 21 LESS)
+
+[^21-2]
+
+[^21-2]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
 
 #### Art. 22
 
@@ -277,7 +313,7 @@ Arrête:
 
 #### Art. 23
 
-**Projets pédagogiques (art. 21 LESS)**
+**Projets pédagogiques (art. 21 LESS[^23-1])**
 
 <sup>1</sup> Est considéré comme projet pédagogique un projet dont les buts sont en adéquation avec les objectifs des plans d'études et qui concourt à les faire atteindre ou qui sert au développement de l'école sur le plan organisationnel, pédagogique, didactique ou éducatif. Le projet peut concerner un groupe d'élèves, une école ou plusieurs écoles.
 
@@ -285,7 +321,13 @@ Arrête:
 
 <sup>3</sup> La commission d'école est informée des projets importants mis en œuvre.
 
+[^23-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
+
 ### 3.6 Effectif des classes (art. 23 LESS)
+
+[^23-2]
+
+[^23-2]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
 
 #### Art. 24
 
@@ -340,7 +382,7 @@ Arrête:
 
 #### Art. 28
 
-**Règlement d'école (art. 27 LESS)**
+**Règlement d'école (art. 27 LESS[^28-1])**
 
 <sup>1</sup> Le directeur ou la directrice édicte, en collaboration avec le corps enseignant, un règlement d'école qui définit le fonctionnement de l'école et les règles de vie à respecter.
 
@@ -352,6 +394,8 @@ Arrête:
 
 <sup>5</sup> Les enseignants et enseignantes veillent au respect du règlement d'école dans leur classe et dans le cadre de l'école. Leur autorité s'exerce sur tous les élèves de l'école.
 
+[^28-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
+
 #### Art. 29
 
 **Intervention de tiers auprès des élèves**
@@ -362,7 +406,9 @@ Arrête:
 
 <sup>3</sup> En cas de doute sur l'opportunité ou la qualité d'une intervention, ou en cas d'interventions régulières, le directeur ou la directrice transmet la demande au Service de l'enseignement secondaire du deuxième degré (ci-après: le Service).
 
-<sup>4</sup> La procédure d'agrément prévue à l'article 8 du règlement du 14 juin 2004 concernant la promotion de la santé et la prévention est réservée.
+<sup>4</sup> La procédure d'agrément prévue à l'article 8 du règlement du 14 juin 2004 concernant la promotion de la santé et la prévention[^29-1] est réservée.
+
+[^29-1]: RSF [821.0.11](https://bdlf.fr.ch/data/821.0.11/fr)
 
 #### Art. 30
 
@@ -380,15 +426,21 @@ Arrête:
 
 ### 3.8 Utilisation des locaux scolaires par des tiers (art. 26 LESS)
 
+[^31-1]
+
+[^31-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
+
 #### Art. 32
 
 **Principes**
 
 <sup>1</sup> Les locaux, les installations et les équipements scolaires sont réservés durant le temps scolaire aux élèves, au personnel de l'école et aux autres personnes dûment légitimées.
 
-<sup>2</sup> Le directeur ou la directrice peut interdire, sous peine de plainte pénale, l'accès au périmètre scolaire à toute personne qui perturbe l'enseignement ou le bon fonctionnement de l'école (art. 83 LESS).
+<sup>2</sup> Le directeur ou la directrice peut interdire, sous peine de plainte pénale, l'accès au périmètre scolaire à toute personne qui perturbe l'enseignement ou le bon fonctionnement de l'école (art. 83 LESS[^32-1]).
 
 <sup>3</sup> Les locaux scolaires peuvent être mis à la disposition de tiers dans le cadre d'activités culturelles, sportives, associatives, voire privées, dans la mesure où il n'en résulte aucune perturbation pour l'école.
+
+[^32-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
 
 #### Art. 33
 
@@ -412,6 +464,10 @@ Arrête:
 
 ## 4 Parents (art. 28 à 30 LESS)
 
+[^35-1]
+
+[^35-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
+
 #### Art. 36
 
 **Information des parents – Principes**
@@ -428,17 +484,21 @@ Arrête:
 
 <sup>2</sup> Dans ce cas, l'école en informe les parents.
 
-<sup>3</sup> Les dispositions de l'article 36 ne s'appliquent pas aux parents d'élèves majeurs suivant une voie de formation complémentaire au sens de l'article 13 LESS.
+<sup>3</sup> Les dispositions de l'article 36 ne s'appliquent pas aux parents d'élèves majeurs suivant une voie de formation complémentaire au sens de l'article 13 LESS[^37-1].
+
+[^37-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
 
 #### Art. 38
 
-**Collaboration entre l'école et les parents d'élèves mineurs (art. 29 LESS)**
+**Collaboration entre l'école et les parents d'élèves mineurs (art. 29 LESS[^38-1])**
 
 <sup>1</sup> Les parents d'élèves mineurs encouragent et soutiennent leur enfant dans ses apprentissages en créant un environnement propice au travail scolaire et en veillant à ce que ses occupations en dehors de l'école ne nuisent pas à son travail scolaire.
 
 <sup>2</sup> Ils assistent aux séances d'information et aux entretiens individuels organisés par l'école.
 
 <sup>3</sup> En cas de difficulté de collaboration, le directeur ou la directrice ainsi que les parents peuvent exiger un entretien.
+
+[^38-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
 
 #### Art. 39
 
@@ -449,6 +509,10 @@ Arrête:
 ## 5 Elèves
 
 ### 5.1 Admission (art. 31-35 LESS)
+
+[^39-1]
+
+[^39-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
 
 #### Art. 40
 
@@ -463,9 +527,12 @@ Arrête:
 
 #### Art. 41
 
-**Limite d'âge (art. 31 al. 3 LESS)**
+**Limite d'âge (art. 31 al. 3 LESS[^41-1])**
 
-<sup>1</sup> A l'exception des voies de formation complémentaire au sens de l'article 13 LESS, un ou une élève ne peut, en principe, avoir plus de quatre années de retard sur l'âge habituel des élèves de sa volée.
+<sup>1</sup> A l'exception des voies de formation complémentaire au sens de l'article 13 LESS[^41-2], un ou une élève ne peut, en principe, avoir plus de quatre années de retard sur l'âge habituel des élèves de sa volée.
+
+[^41-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
+[^41-2]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
 
 #### Art. 42
 
@@ -521,11 +588,17 @@ Arrête:
 
 #### Art. 46
 
-**Fréquentation d'une école hors du canton (art. 69 LESS)**
+**Fréquentation d'une école hors du canton (art. 69 LESS[^46-1])**
 
 <sup>1</sup> Conformément aux conventions intercantonales, la DFAC peut, pour de justes motifs, autoriser la fréquentation d'une école située dans un autre canton et émettre une garantie de prise en charge pour les contributions aux écolages demandées.
 
+[^46-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
+
 ### 5.3 Droits et obligations des élèves (art. 36 et 37 LESS)
+
+[^46-2]
+
+[^46-2]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
 
 #### Art. 47
 
@@ -535,13 +608,15 @@ Arrête:
 
 #### Art. 48
 
-**Information et consultation (art. 36 al. 3 LESS)**
+**Information et consultation (art. 36 al. 3 LESS[^48-1])**
 
 <sup>1</sup> Le conseil de direction prend toutes les mesures utiles susceptibles d'intéresser les élèves à la vie de l'école, à l'organisation des études, aux activités culturelles, artistiques et sportives.
 
 <sup>2</sup> Il informe les élèves, au niveau de l'école, de la section ou de la classe, notamment sur les objectifs généraux des voies de formation, sur les horaires des cours, sur l'organisation interne de l'école, sur les activités scolaires et les manifestations organisées dans le cadre de l'enseignement.
 
 <sup>3</sup> Si les circonstances ou l'objet le justifient, le conseil de direction procède à une consultation des élèves ou du conseil des élèves.
+
+[^48-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
 
 #### Art. 49
 
@@ -551,7 +626,7 @@ Arrête:
 
 #### Art. 50
 
-**Obligations (art. 37 LESS)**
+**Obligations (art. 37 LESS[^50-1])**
 
 <sup>1</sup> Les élèves fréquentent l'école aux horaires établis.
 
@@ -560,6 +635,8 @@ Arrête:
 <sup>3</sup> Ils contribuent au bon climat de l'école et de la classe et s'engagent à adopter un comportement respectueux envers les personnes et l'environnement.
 
 <sup>4</sup> Ils prennent soin du matériel, du mobilier et des locaux mis à leur disposition. Ils sont responsables de leurs objets et effets personnels en cas de vol, dommage ou perte.
+
+[^50-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
 
 #### Art. 51
 
@@ -574,6 +651,10 @@ Arrête:
 <sup>2</sup> L'utilisation d'appareils électroniques à des fins privées est interdite durant les cours. Leur utilisation à des fins pédagogiques est précisée dans le règlement d'école.
 
 ### 5.4 Mesures d'encouragement et de soutien (art. 38 LESS)
+
+[^51-1]
+
+[^51-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
 
 #### Art. 52
 
@@ -641,6 +722,10 @@ Arrête:
 <sup>1</sup> L'octroi de mesures pédago-thérapeutiques et de mesures d'aide renforcées de pédagogie spécialisée est régi par la législation spéciale.
 
 ### 5.5 Evaluation du travail scolaire (art. 39 LESS)
+
+[^57-1]
+
+[^57-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
 
 #### Art. 58
 
@@ -711,6 +796,10 @@ Arrête:
 
 ### 5.6 Promotion et répétition (art. 40 LESS)
 
+[^62-1]
+
+[^62-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
+
 #### Art. 63
 
 **Conditions**
@@ -722,6 +811,10 @@ Arrête:
 <sup>3</sup> Le directeur ou la directrice peut accorder des dérogations si des circonstances exceptionnelles le justifient, notamment en cas de maladie ou d'accident.
 
 ### 5.7 Santé des élèves et prévention (art. 41 LESS)
+
+[^63-1]
+
+[^63-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
 
 #### Art. 64
 
@@ -749,9 +842,15 @@ Arrête:
 
 **Etat des locaux scolaires**
 
-<sup>1</sup> Le directeur ou la directrice contrôle régulièrement si l'état des locaux, du mobilier et de certains matériels scolaires répond aux exigences de l'article 41 al. 2 LESS et signale toute insuffisance au service compétent.
+<sup>1</sup> Le directeur ou la directrice contrôle régulièrement si l'état des locaux, du mobilier et de certains matériels scolaires répond aux exigences de l'article 41 al. 2 LESS[^67-1] et signale toute insuffisance au service compétent.
+
+[^67-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
 
 ### 5.8 Traitement des données personnelles des élèves (art. 43 LESS)
+
+[^67-2]
+
+[^67-2]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
 
 #### Art. 68
 
@@ -808,7 +907,7 @@ Arrête:
 - d) le rôle ou la fonction;
 - e) l'établissement scolaire, la voie de formation et le degré;
 - f) le canton de domicile;
-- g) l'identificateur technique (NAVS 13).
+- g) l'identificateur technique (NAVS13).
 
 <sup>3</sup> Afin de permettre l'organisation des cours interentreprises et des examens de la partie entreprise de la formation commerciale en école à plein temps, les données suivantes peuvent être transmises aux branches de formation et d'examens reconnues par le SEFRI:
 
@@ -825,7 +924,9 @@ Arrête:
 
 <sup>1</sup> Le directeur ou la directrice peut communiquer, dans un cas d'espèce, des données personnelles d'un ou d'une élève sans le consentement des personnes concernées, si le ou la destinataire exerce une tâche publique qui sert l'intérêt de l'élève et que les données communiquées lui soient absolument nécessaires pour l'accomplissement de sa fonction.
 
-<sup>2</sup> Sont réservés les obligations particulières de garder le secret (art. 42 LESS) ainsi que les principes régissant le traitement de données personnelles selon la législation y relative.
+<sup>2</sup> Sont réservés les obligations particulières de garder le secret (art. 42 LESS[^72-1]) ainsi que les principes régissant le traitement de données personnelles selon la législation y relative.
+
+[^72-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
 
 #### Art. 73
 
@@ -854,6 +955,10 @@ Arrête:
 <sup>5</sup> La DFAC peut régler, en particulier, les contenus obligatoires du site Internet et la publication de données personnelles.
 
 ### 5.9 Mesures éducatives et sanctions disciplinaires (art. 44 LESS)
+
+[^74-1]
+
+[^74-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
 
 #### Art. 75
 
@@ -929,6 +1034,10 @@ Arrête:
 
 ### 5.10 Forme des décisions (art. 76 LESS)
 
+[^80-1]
+
+[^80-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
+
 #### Art. 81
 
 **Décisions exigeant la forme écrite**
@@ -943,6 +1052,10 @@ Arrête:
 ## 6 Organisation des écoles
 
 ### 6.1 Commission d'école (art. 53 à 55 LESS)
+
+[^81-1]
+
+[^81-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
 
 #### Art. 82
 
@@ -962,7 +1075,7 @@ Arrête:
 
 #### Art. 84
 
-**Attributions (art. 54 LESS)**
+**Attributions (art. 54 LESS[^84-1])**
 
 <sup>1</sup> La commission d'école, en qualité d'organe consultatif, a les attributions suivantes:
 
@@ -975,7 +1088,13 @@ Arrête:
 - g) elle préavise le règlement d'école;
 - h) elle approuve les statuts du conseil des élèves.
 
+[^84-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
+
 ### 6.2 Conseil de direction (art. 56 LESS)
+
+[^84-2]
+
+[^84-2]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
 
 #### Art. 85
 
@@ -1020,9 +1139,13 @@ Arrête:
 
 ### 6.3 Directeurs et directrices (art. 57 et 58 LESS)
 
+[^87-1]
+
+[^87-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
+
 #### Art. 88
 
-**Attributions (art. 58 LESS)**
+**Attributions (art. 58 LESS[^88-1])**
 
 <sup>1</sup> Le directeur ou la directrice a notamment les attributions suivantes:
 
@@ -1052,13 +1175,17 @@ Arrête:
 - h) la représentation de l'école dans les organes cantonaux et extracantonaux;
 - i) l'interdiction d'accès au réseau informatique;
 - j) le prononcé d'une menace d'exclusion;
-- k) le traitement d'une plainte au sens de l'article 81 LESS portée contre les actes ou les omissions d'un enseignant ou d'une enseignante.
+- k) le traitement d'une plainte au sens de l'article 81 LESS[^88-2] portée contre les actes ou les omissions d'un enseignant ou d'une enseignante.
 
-<sup>3</sup> Un cahier des charges du directeur ou de la directrice, adapté aux particularités de chaque école, est établi par la DFAC, compte tenu des attributions générales fixées à l'article 58 LESS.
+<sup>3</sup> Un cahier des charges du directeur ou de la directrice, adapté aux particularités de chaque école, est établi par la DFAC, compte tenu des attributions générales fixées à l'article 58 LESS[^88-3].
+
+[^88-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
+[^88-2]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
+[^88-3]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
 
 #### Art. 89
 
-**Conférence des directeurs et directrices (art. 63 al. 1 LESS) – Fonctionnement**
+**Conférence des directeurs et directrices (art. 63 al. 1 LESS[^89-1]) – Fonctionnement**
 
 <sup>1</sup> La conférence des directeurs et directrices se dote d'un règlement d'organisation, approuvé par le Service.
 
@@ -1070,9 +1197,11 @@ Arrête:
 
 <sup>5</sup> L'ordre du jour et le procès-verbal des séances sont transmis au Service.
 
+[^89-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
+
 #### Art. 90
 
-**Conférence des directeurs et directrices (art. 63 al. 1 LESS) – Attributions**
+**Conférence des directeurs et directrices (art. 63 al. 1 LESS[^90-1]) – Attributions**
 
 <sup>1</sup> La conférence des directeurs et directrices a notamment les attributions et tâches suivantes:
 
@@ -1084,11 +1213,17 @@ Arrête:
 - f) elle fixe les principes relatifs à la gestion des absences;
 - g) elle fixe les principes généraux relatifs à l'évaluation.
 
+[^90-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
+
 ### 6.4 Proviseur‑e‑s (art. 59 et 60 LESS)
+
+[^90-2]
+
+[^90-2]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
 
 #### Art. 91
 
-**Attributions (art. 60 LESS)**
+**Attributions (art. 60 LESS[^91-1])**
 
 <sup>1</sup> Le ou la proviseur‑e a notamment les attributions générales suivantes au sein de sa section ou de sa filière:
 
@@ -1109,11 +1244,17 @@ Arrête:
 
 <sup>4</sup> Il ou elle assume une charge d'enseignement en fonction de l'importance de ses tâches.
 
+[^91-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
+
 ### 6.5 Collaborateurs et collaboratrices administratifs et techniques (art. 61 et 62 LESS)
+
+[^91-2]
+
+[^91-2]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
 
 #### Art. 92
 
-**Administrateur ou administratrice (art. 61 LESS)**
+**Administrateur ou administratrice (art. 61 LESS[^92-1])**
 
 <sup>1</sup> L'administrateur ou l'administratrice soutient le directeur ou la directrice dans la conduite administrative de l'école. Il ou elle a notamment les attributions et tâches suivantes:
 
@@ -1123,13 +1264,17 @@ Arrête:
 - d) gérer, en collaboration avec les services cantonaux compétents, les infrastructures et les équipements;
 - e) représenter le conseil de direction dans les domaines de ses attributions.
 
+[^92-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
+
 #### Art. 93
 
-**Collaborateurs et collaboratrices administratifs et techniques (art. 62 LESS)**
+**Collaborateurs et collaboratrices administratifs et techniques (art. 62 LESS[^93-1])**
 
 <sup>1</sup> Les collaborateurs et collaboratrices administratifs et techniques sont les secrétaires, les bibliothécaires et les préparateurs et préparatrices en sciences.
 
 <sup>2</sup> Les concierges et les informaticiens et informaticiennes dans les écoles sont engagés par la Direction dont ils dépendent. Cette dernière fixe leur cahier des charges, après consultation du conseil de direction. Ce personnel et le conseil de direction travaillent en étroite collaboration.
+
+[^93-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
 
 ### 6.6 Commission cantonale des examens
 
@@ -1161,6 +1306,10 @@ Arrête:
 
 ### 6.7 Conférence des enseignants et enseignantes (art. 64 LESS)
 
+[^95-1]
+
+[^95-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
+
 #### Art. 96
 
 **Composition et fonctionnement**
@@ -1178,6 +1327,10 @@ Arrête:
 <sup>1</sup> Les enseignants et enseignantes sont informés et consultés sur les affaires importantes relatives au fonctionnement général de leur école. De leur côté, ils peuvent soumettre toute proposition relative à la marche de celle-ci.
 
 ### 6.8 Conférences de branche (art. 65 LESS)
+
+[^97-1]
+
+[^97-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
 
 #### Art. 98
 
@@ -1246,6 +1399,10 @@ Arrête:
 
 ## 7 Financement des écoles (art. 66 à 69 LESS)
 
+[^101-1]
+
+[^101-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
+
 #### Art. 102
 
 **Frais individuels des élèves**
@@ -1288,17 +1445,25 @@ Arrête:
 
 ## 8 Ecoles privées (art. 70 à 72 LESS)
 
+[^107-1]
+
+[^107-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
+
 #### Art. 108
 
-**Ouverture d'une école (art. 70 LESS)**
+**Ouverture d'une école (art. 70 LESS[^108-1])**
 
 <sup>1</sup> Lors de l'annonce de l'ouverture d'une école privée, la DFAC s'assure que les formations dispensées sont clairement définies et que les certificats délivrés correspondent à cette formation et ne prêtent pas à confusion avec d'autres certificats.
 
+[^108-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
+
 #### Art. 109
 
-**Surveillance des écoles privées (art. 70 LESS)**
+**Surveillance des écoles privées (art. 70 LESS[^109-1])**
 
 <sup>1</sup> Sauf circonstances exigeant une mesure immédiate, l'interdiction d'exploiter une école privée doit être précédée d'un avertissement.
+
+[^109-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
 
 #### Art. 110
 
@@ -1308,9 +1473,9 @@ Arrête:
 
 #### Art. 111
 
-**Conditions et charges liées au subventionnement (art. 72 LESS)**
+**Conditions et charges liées au subventionnement (art. 72 LESS[^111-1])**
 
-<sup>1</sup> Si une école privée obtient une subvention conformément à l'article 72 LESS, une convention avec la DFAC, approuvée par le Conseil d'Etat, doit être établie. Celle-ci doit notamment régler les éléments suivants:
+<sup>1</sup> Si une école privée obtient une subvention conformément à l'article 72 LESS[^111-2], une convention avec la DFAC, approuvée par le Conseil d'Etat, doit être établie. Celle-ci doit notamment régler les éléments suivants:
 
 - a) l'offre de formation;
 - b) le maintien et le développement de la qualité;
@@ -1320,7 +1485,14 @@ Arrête:
 - f) les conditions d'admission des élèves;
 - g) les modalités de la surveillance de l'Etat.
 
+[^111-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
+[^111-2]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
+
 ## 9 Services de conseils (art. 73 à 75 LESS)
+
+[^111-3]
+
+[^111-3]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
 
 #### Art. 112
 
@@ -1357,7 +1529,7 @@ Arrête:
 
 #### Art. 115
 
-**Procédure de réclamation (art. 77 LESS)**
+**Procédure de réclamation (art. 77 LESS[^115-1])**
 
 <sup>1</sup> La réclamation contient un bref exposé des faits et des motifs ainsi que l'énoncé des conclusions.
 
@@ -1366,6 +1538,8 @@ Arrête:
 <sup>3</sup> Le directeur ou la directrice mène la procédure avec célérité. Il ou elle établit les faits sans être limité-e par le contenu de la réclamation; il ou elle entend l'élève concerné‑e et ses parents s'il ou si elle est mineur‑e ou lorsque les circonstances le justifient. Il ou elle tient un procès-verbal de l'ensemble des opérations de procédure.
 
 <sup>4</sup> La décision sur réclamation est rendue par écrit; elle est brièvement motivée. Lorsqu'elle donne entièrement satisfaction à l'auteur‑e de la réclamation, le directeur ou la directrice peut, si aucune partie ne l'exige, renoncer à la motivation de sa décision ou ne donner les motifs qu'oralement.
+
+[^115-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
 
 #### Art. 116
 
@@ -1379,7 +1553,7 @@ Arrête:
 
 #### Art. 117
 
-**Plainte des parents et des élèves (art. 81 LESS) – Autorités compétentes**
+**Plainte des parents et des élèves (art. 81 LESS[^117-1]) – Autorités compétentes**
 
 <sup>1</sup> L'autorité de plainte est:
 
@@ -1388,9 +1562,11 @@ Arrête:
 
 <sup>2</sup> La DFAC est l'autorité de recours contre la décision du directeur ou de la directrice qui déclare la plainte irrecevable ou mal fondée ou qui met des frais de procédure à la charge du plaignant ou de la plaignante.
 
+[^117-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
+
 #### Art. 118
 
-**Plainte des parents et des élèves (art. 81 LESS) – Procédure de plainte**
+**Plainte des parents et des élèves (art. 81 LESS[^118-1]) – Procédure de plainte**
 
 <sup>1</sup> La plainte est déposée par écrit, datée et signée, auprès de l'autorité compétente. Elle contient un bref exposé des faits et motifs.
 
@@ -1398,10 +1574,14 @@ Arrête:
 
 <sup>3</sup> La décision sur plainte est rendue par écrit; elle est brièvement motivée.
 
+[^118-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
+
 #### Art. 119
 
-**Plainte des parents et des élèves (art. 81 LESS) – Frais de procédure**
+**Plainte des parents et des élèves (art. 81 LESS[^119-1]) – Frais de procédure**
 
 <sup>1</sup> Constituent des frais de procédure les dépenses occasionnées spécialement par l'instruction de la plainte, notamment les frais causés par l'administration de preuves, les indemnités de déplacement et les honoraires de tiers.
+
+[^119-1]: RSF [412.0.1](https://bdlf.fr.ch/data/412.0.1/fr)
 
 2021\_056

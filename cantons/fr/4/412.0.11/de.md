@@ -4,13 +4,12 @@ number: "412.0.11"
 title: Reglement über den Mittelschulunterricht
 short: MSR
 language: de
-version: 2025-08-01
-valid_until: 2025-08-14
-version_adopted: 2025-06-17
+version: 2025-08-15
+version_adopted: 2025-08-06
 adopted: 2021-05-26
 in_force: 2021-08-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/412.0.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/8227/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8513/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Mittelschulunterricht – R
 
 (MSR)
 
-vom 26.05.2021 (Fassung in Kraft getreten am 01.08.2025)
+vom 26.05.2021 (Fassung in Kraft getreten am 15.08.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -35,9 +34,11 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Dieses Reglement enthält die allgemeinen Ausführungsbestimmungen zum Gesetz über den Mittelschulunterricht.
+<sup>1</sup> Dieses Reglement enthält die allgemeinen Ausführungsbestimmungen zum Gesetz über den Mittelschulunterricht[^1-1].
 
 <sup>2</sup> Vorbehalten bleiben die besonderen Bestimmungen der Bildungsgänge.
+
+[^1-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
 
 ## 2 Gliederung des Unterrichts
 
@@ -45,25 +46,30 @@ beschliesst:
 
 #### Art. 2
 
-**Gymnasialbildung (Art. 10 und 14 Abs. 1 MSG)**
+**Gymnasialbildung (Art. 10 und 14 Abs. 1 MSG[^2-1])**
 
 <sup>1</sup> Die Gymnasialbildung bereitet entsprechend den bundesrechtlichen und interkantonalen Bestimmungen über die Anerkennung dieses Ausweises auf die Erlangung des gymnasialen Maturitätsausweises vor.
 
 <sup>2</sup> Die Organisation der Gymnasialbildung, namentlich die Gliederung des Unterrichts und die Promotionsbedingungen, werden vom Staatsrat näher ausgeführt.
 
+[^2-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
+
 #### Art. 3
 
-**Vollzeitliche Handelsschulausbildung (Art. 11 MSG)**
+**Vollzeitliche Handelsschulausbildung (Art. 11 MSG[^3-1])**
 
-<sup>1</sup> Die vollzeitliche Handelsschulausbildung bereitet entsprechend den Bestimmungen des Staatssekretariats für Bildung, Forschung und Innovation (SBFI) sowie des Bundesgesetzes über die Berufsbildung (BBG) auf die Erlangung des eidgenössischen Fähigkeitszeugnisses als Kauffrau/Kaufmann sowie auf die kaufmännische Berufsmaturität vor.
+<sup>1</sup> Die vollzeitliche Handelsschulausbildung bereitet entsprechend den Bestimmungen des Staatssekretariats für Bildung, Forschung und Innovation (SBFI) sowie des Bundesgesetzes über die Berufsbildung (BBG)[^3-2] auf die Erlangung des eidgenössischen Fähigkeitszeugnisses als Kauffrau/Kaufmann sowie auf die kaufmännische Berufsmaturität vor.
 
 <sup>2</sup> Die Organisation der vollzeitlichen Handelsschulausbildung, namentlich die Dauer, die Gliederung des Unterrichts und die Promotionsbedingungen, werden vom Staatsrat näher ausgeführt.
 
 <sup>3</sup> Das eidgenössische Fähigkeitszeugnis sowie der eidgenössische Berufsmaturausweis dürfen von den vom SBFI anerkannten öffentlichen Handelsmittelschulen des Kollegiums Gambach und des Kollegiums des Südens ausgestellt werden.
 
+[^3-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
+[^3-2]: SR [412.10](https://db.clex.ch/link/Bund/412.10/de)
+
 #### Art. 4
 
-**Fachmittelschulausbildung (Art. 12 MSG)**
+**Fachmittelschulausbildung (Art. 12 MSG[^4-1])**
 
 <sup>1</sup> Die Fachmittelschulausbildung bereitet entsprechend den interkantonalen Bestimmungen über die Anerkennung dieser Ausweise auf die Erlangung des Fachmittelschulausweises und des Fachmaturitätszeugnisses in den Berufsfeldern Gesundheit/Naturwissenschaften, Soziale Arbeit und Pädagogik vor.
 
@@ -73,9 +79,11 @@ beschliesst:
 
 <sup>4</sup> Die Fachmittelschulausbildung wird an der Fachmittelschule Freiburg (FMSF) und am Kollegium des Südens angeboten.
 
+[^4-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
+
 #### Art. 5
 
-**Zusätzliche Bildungsgänge (Art. 13 MSG)**
+**Zusätzliche Bildungsgänge (Art. 13 MSG[^5-1])**
 
 <sup>1</sup> Die Passerelle Berufsmaturität/Fachmaturität – universitäre Hochschulen dauert ein Jahr.
 
@@ -83,7 +91,13 @@ beschliesst:
 
 <sup>3</sup> Die Organisation dieser Bildungsgänge, namentlich die Ausbildungsorte und die Gliederung des Unterrichts, sowie die Modalitäten und Bedingungen zur Erlangung der Ausweise werden vom Staatsrat näher ausgeführt.
 
+[^5-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
+
 ### 2.2 Förderung der Zweisprachigkeit (Art. 7 MSG)
+
+[^5-2]
+
+[^5-2]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
 
 #### Art. 6
 
@@ -124,6 +138,10 @@ beschliesst:
 
 ### 3.1 Schuljahr (Art. 15 MSG)
 
+[^8-1]
+
+[^8-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
+
 #### Art. 9
 
 **Schulkalender**
@@ -153,6 +171,10 @@ beschliesst:
 <sup>4</sup> Sämtliche Schülerinnen und Schüler nehmen daran teil, es sei denn, die Schuldirektorin oder der Schuldirektor gewährt aus stichhaltigen Gründen eine individuelle Dispens.
 
 ### 3.2 Urlaube und unvorhergesehene Absenzen (Art. 16 MSG)
+
+[^11-1]
+
+[^11-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
 
 #### Art. 12
 
@@ -232,6 +254,10 @@ beschliesst:
 
 ### 3.3 Lehrplan (Art. 17 MSG)
 
+[^19-1]
+
+[^19-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
+
 #### Art. 20
 
 **Inhalt**
@@ -245,6 +271,10 @@ beschliesst:
 
 ### 3.4 Abschlussprüfungen (Art. 18 MSG)
 
+[^20-1]
+
+[^20-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
+
 #### Art. 21
 
 **Bedingungen für die Erlangung der Ausweise**
@@ -257,9 +287,15 @@ beschliesst:
 - d) Ausweis über die Ergänzungsprüfung Passerelle Berufsmaturität/Fachmaturität – universitäre Hochschulen,
 - e) Bescheinigung der bestandenen Prüfung für das Zulassungsverfahren zur Ausbildung zur Lehrperson für die Primarstufe der Universität Freiburg.
 
-<sup>2</sup> Die Bestimmungen über weitere Ausweise nach Artikel 8 MSG bleiben vorbehalten.
+<sup>2</sup> Die Bestimmungen über weitere Ausweise nach Artikel 8 MSG[^21-1] bleiben vorbehalten.
+
+[^21-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
 
 ### 3.5 Qualität und Schulentwicklung (Art. 20 und 21 MSG)
+
+[^21-2]
+
+[^21-2]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
 
 #### Art. 22
 
@@ -277,7 +313,7 @@ beschliesst:
 
 #### Art. 23
 
-**Pädagogische Projekte (Art. 21 MSG)**
+**Pädagogische Projekte (Art. 21 MSG[^23-1])**
 
 <sup>1</sup> Als pädagogisches Projekt gilt ein Projekt, dessen Zielsetzung mit den Zielen der Lehrpläne im Einklang steht und das zu deren Erreichung beiträgt oder in organisatorischer, pädagogisch-didaktischer oder erzieherischer Hinsicht einen Beitrag zur Schulentwicklung leistet. Das Projekt kann eine Gruppe von Schülerinnen und Schülern und eine oder mehrere Schulen betreffen.
 
@@ -285,7 +321,13 @@ beschliesst:
 
 <sup>3</sup> Die Schulkommission wird über die Durchführung wichtiger Projekte informiert.
 
+[^23-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
+
 ### 3.6 Klassenbestände (Art. 23 MSG)
+
+[^23-2]
+
+[^23-2]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
 
 #### Art. 24
 
@@ -340,7 +382,7 @@ beschliesst:
 
 #### Art. 28
 
-**Schulordnung (Art. 27 MSG)**
+**Schulordnung (Art. 27 MSG[^28-1])**
 
 <sup>1</sup> Die Schuldirektorin oder der Schuldirektor erlässt in Zusammenarbeit mit den Lehrpersonen eine Schulordnung, in welcher der Schulbetrieb und die Schulhausregeln festgelegt werden.
 
@@ -352,6 +394,8 @@ beschliesst:
 
 <sup>5</sup> Die Lehrpersonen sorgen dafür, dass die Schulordnung in ihren Klassen und in der Schule eingehalten wird. Ihre Zuständigkeit erstreckt sich auf sämtliche Schülerinnen und Schüler der Schule.
 
+[^28-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
+
 #### Art. 29
 
 **Mitwirkung von Dritten in der Schule**
@@ -362,7 +406,9 @@ beschliesst:
 
 <sup>3</sup> Bestehen Zweifel an der Zweckmässigkeit oder Qualität einer Mitwirkung oder findet die Mitwirkung regelmässig statt, so leitet die Schuldirektorin oder der Schuldirektor das Gesuch an das Amt für Unterricht der Sekundarstufe 2 (das Amt) weiter.
 
-<sup>4</sup> Vorbehalten bleibt das Genehmigungsverfahren nach Artikel 8 des Reglements vom 14. Juni 2004 über Gesundheitsförderung und Prävention.
+<sup>4</sup> Vorbehalten bleibt das Genehmigungsverfahren nach Artikel 8 des Reglements vom 14. Juni 2004 über Gesundheitsförderung und Prävention[^29-1].
+
+[^29-1]: SGF [821.0.11](https://bdlf.fr.ch/data/821.0.11/de)
 
 #### Art. 30
 
@@ -380,15 +426,21 @@ beschliesst:
 
 ### 3.8 Benützung der Schulräumlichkeiten durch Dritte (Art. 26 MSG)
 
+[^31-1]
+
+[^31-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
+
 #### Art. 32
 
 **Grundsätze**
 
 <sup>1</sup> Während der Schulzeit sind die Räumlichkeiten, Anlagen und Einrichtungen der Schulen den Schülerinnen und Schülern, dem Personal der Schule und anderen berechtigten Personen vorbehalten.
 
-<sup>2</sup> Die Schuldirektorin oder der Schuldirektor kann, unter Androhung einer Strafanzeige, allen Personen, die den Unterricht oder den Schulbetrieb stören, den Zugang zum Schulgelände untersagen (Art. 83 MSG).
+<sup>2</sup> Die Schuldirektorin oder der Schuldirektor kann, unter Androhung einer Strafanzeige, allen Personen, die den Unterricht oder den Schulbetrieb stören, den Zugang zum Schulgelände untersagen (Art. 83 MSG[^32-1]).
 
 <sup>3</sup> Die Schulräumlichkeiten können im Rahmen von kulturellen, sportlichen, Vereins- oder Privatanlässen Dritten zur Verfügung gestellt werden, wenn dies den Schulbetrieb nicht stört.
+
+[^32-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
 
 #### Art. 33
 
@@ -412,6 +464,10 @@ beschliesst:
 
 ## 4 Eltern (Art. 28–30 MSG)
 
+[^35-1]
+
+[^35-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
+
 #### Art. 36
 
 **Elterninformation – Grundsätze**
@@ -428,17 +484,21 @@ beschliesst:
 
 <sup>2</sup> In diesem Fall informiert die Schule die Eltern darüber.
 
-<sup>3</sup> Die Bestimmungen von Artikel 36 finden auf Eltern volljähriger Schülerinnen und Schüler, die zusätzliche Bildungsgänge im Sinne von Artikel 13 MSG besuchen, keine Anwendung.
+<sup>3</sup> Die Bestimmungen von Artikel 36 finden auf Eltern volljähriger Schülerinnen und Schüler, die zusätzliche Bildungsgänge im Sinne von Artikel 13 MSG[^37-1] besuchen, keine Anwendung.
+
+[^37-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
 
 #### Art. 38
 
-**Zusammenarbeit zwischen der Schule und den Eltern Minderjähriger (Art. 29 MSG)**
+**Zusammenarbeit zwischen der Schule und den Eltern Minderjähriger (Art. 29 MSG[^38-1])**
 
 <sup>1</sup> Die Eltern Minderjähriger ermuntern und unterstützen ihr Kind beim Lernen, indem sie ein günstiges Lernumfeld schaffen und darauf achten, dass die ausserschulischen Aktivitäten des Kindes die Schularbeit nicht beeinträchtigen.
 
 <sup>2</sup> Sie nehmen an den Informationsveranstaltungen und an den persönlichen Gesprächen teil, die an der Schule organisiert werden.
 
 <sup>3</sup> Bei Schwierigkeiten in der Zusammenarbeit können die Schuldirektorin oder der Schuldirektor sowie die Eltern ein Gespräch verlangen.
+
+[^38-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
 
 #### Art. 39
 
@@ -449,6 +509,10 @@ beschliesst:
 ## 5 Schülerinnen und Schüler
 
 ### 5.1 Aufnahme (Art. 31–35 MSG)
+
+[^39-1]
+
+[^39-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
 
 #### Art. 40
 
@@ -463,9 +527,12 @@ beschliesst:
 
 #### Art. 41
 
-**Altersgrenze (Art. 31 Abs. 3 MSG)**
+**Altersgrenze (Art. 31 Abs. 3 MSG[^41-1])**
 
-<sup>1</sup> Eine Schülerin oder ein Schüler kann in der Regel nicht mehr als vier Jahre älter sein als das übliche Jahrgangsalter ihrer oder seiner Mitschülerinnen und Mitschüler, ausser es handle sich um zusätzliche Bildungsgänge im Sinne von Artikel 13 MSG.
+<sup>1</sup> Eine Schülerin oder ein Schüler kann in der Regel nicht mehr als vier Jahre älter sein als das übliche Jahrgangsalter ihrer oder seiner Mitschülerinnen und Mitschüler, ausser es handle sich um zusätzliche Bildungsgänge im Sinne von Artikel 13 MSG[^41-2].
+
+[^41-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
+[^41-2]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
 
 #### Art. 42
 
@@ -521,11 +588,17 @@ beschliesst:
 
 #### Art. 46
 
-**Ausserkantonaler Schulbesuch (Art. 69 MSG)**
+**Ausserkantonaler Schulbesuch (Art. 69 MSG[^46-1])**
 
 <sup>1</sup> In Übereinstimmung mit den interkantonalen Vereinbarungen kann die BKAD, wenn stichhaltige Gründe vorliegen, den Besuch einer ausserkantonalen Schule bewilligen und eine Kostengutsprache für die verlangten Schulgeldbeiträge leisten.
 
+[^46-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
+
 ### 5.3 Rechte und Pflichten der Schülerinnen und Schüler (Art. 36 und 37 MSG)
+
+[^46-2]
+
+[^46-2]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
 
 #### Art. 47
 
@@ -535,13 +608,15 @@ beschliesst:
 
 #### Art. 48
 
-**Information und Anhörung (Art. 36 Abs. 3 MSG)**
+**Information und Anhörung (Art. 36 Abs. 3 MSG[^48-1])**
 
 <sup>1</sup> Der Direktionsrat trifft alle Massnahmen, die geeignet sind, die Schülerinnen und Schüler für das Schulleben, die Studienorganisation sowie die kulturellen, künstlerischen und sportlichen Aktivitäten zu interessieren.
 
 <sup>2</sup> Er informiert die Schülerinnen und Schüler der Schule, der Abteilung oder der Klasse, namentlich über die allgemeinen Ziele der Bildungsgänge, die Stundenpläne, die interne Organisation der Schule, die schulischen Aktivitäten und die im Rahmen des Unterrichts organisierten Veranstaltungen.
 
 <sup>3</sup> Falls die Umstände oder der Gegenstand dies rechtfertigen, führt der Direktionsrat eine Schülerbefragung durch oder konsultiert den Schülerrat.
+
+[^48-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
 
 #### Art. 49
 
@@ -551,7 +626,7 @@ beschliesst:
 
 #### Art. 50
 
-**Pflichten (Art. 37 MSG)**
+**Pflichten (Art. 37 MSG[^50-1])**
 
 <sup>1</sup> Die Schülerinnen und Schüler besuchen die Schule zu den festgelegten Zeiten.
 
@@ -560,6 +635,8 @@ beschliesst:
 <sup>3</sup> Sie tragen zu einem guten Klima an der Schule und in der Klasse bei und verpflichten sich, ein respektvolles Verhalten gegenüber den Mitmenschen und der Umwelt an den Tag zu legen.
 
 <sup>4</sup> Sie tragen Sorge zum bereitgestellten Material und Mobiliar sowie zu den Räumlichkeiten, die ihnen zur Verfügung gestellt werden. Bei Diebstahl, Schaden oder Verlust sind sie für ihre persönlichen Effekten verantwortlich.
+
+[^50-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
 
 #### Art. 51
 
@@ -574,6 +651,10 @@ beschliesst:
 <sup>2</sup> Der Gebrauch von elektronischen Geräten zu privaten Zwecken ist während des Unterrichts verboten. Ihre Verwendung zu pädagogischen Zwecken wird in der Schulordnung näher ausgeführt.
 
 ### 5.4 Förder- und Unterstützungsmassnahmen (Art. 38 MSG)
+
+[^51-1]
+
+[^51-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
 
 #### Art. 52
 
@@ -641,6 +722,10 @@ beschliesst:
 <sup>1</sup> Die Gewährung von pädagogisch-therapeutischen oder verstärkten sonderpädagogischen Massnahmen wird in der Spezialgesetzgebung geregelt.
 
 ### 5.5 Beurteilung der Schularbeit (Art. 39 MSG)
+
+[^57-1]
+
+[^57-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
 
 #### Art. 58
 
@@ -711,6 +796,10 @@ beschliesst:
 
 ### 5.6 Promotion und Wiederholung (Art. 40 MSG)
 
+[^62-1]
+
+[^62-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
+
 #### Art. 63
 
 **Bedingungen**
@@ -722,6 +811,10 @@ beschliesst:
 <sup>3</sup> Die Schuldirektorin oder der Schuldirektor kann Ausnahmen bewilligen, wenn ausserordentliche Umstände dies rechtfertigen, insbesondere im Falle von Krankheit oder Unfall.
 
 ### 5.7 Gesundheit der Schülerinnen und Schüler und Prävention (Art. 41 MSG)
+
+[^63-1]
+
+[^63-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
 
 #### Art. 64
 
@@ -749,9 +842,15 @@ beschliesst:
 
 **Zustand der Schulräumlichkeiten**
 
-<sup>1</sup> Die Schuldirektorin oder der Schuldirektor überprüft regelmässig, ob die Räumlichkeiten, das Mobiliar und bestimmte Lehrmaterialien den Anforderungen von Artikel 41 Abs. 2 MSG entsprechen, und informiert das zuständige Amt über allfällige Mängel.
+<sup>1</sup> Die Schuldirektorin oder der Schuldirektor überprüft regelmässig, ob die Räumlichkeiten, das Mobiliar und bestimmte Lehrmaterialien den Anforderungen von Artikel 41 Abs. 2 MSG[^67-1] entsprechen, und informiert das zuständige Amt über allfällige Mängel.
+
+[^67-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
 
 ### 5.8 Bearbeiten von Personendaten der Schülerinnen und Schüler (Art. 43 MSG)
+
+[^67-2]
+
+[^67-2]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
 
 #### Art. 68
 
@@ -825,7 +924,9 @@ beschliesst:
 
 <sup>1</sup> Die Schuldirektorin oder der Schuldirektor darf im Einzelfall Personendaten von Schülerinnen und Schülern ohne die Zustimmung der betroffenen Personen bekanntgeben, wenn der Datenempfänger eine öffentliche, dem Interesse der Schülerin oder des Schülers dienende Funktion ausübt. Es werden ausschliesslich diejenigen Daten bekanntgegeben, die absolut nötig sind, damit der Datenempfänger seine Funktion ausüben kann.
 
-<sup>2</sup> Die besonderen Schweigepflichten (Art. 42 MSG) sowie die Grundsätze der Datenschutzgesetzgebung bleiben vorbehalten.
+<sup>2</sup> Die besonderen Schweigepflichten (Art. 42 MSG[^72-1]) sowie die Grundsätze der Datenschutzgesetzgebung bleiben vorbehalten.
+
+[^72-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
 
 #### Art. 73
 
@@ -854,6 +955,10 @@ beschliesst:
 <sup>5</sup> Die BKAD kann Bestimmungen, namentlich zum obligatorischen Inhalt des Internetauftritts und zur Publikation von Personendaten, erlassen.
 
 ### 5.9 Erzieherische und disziplinarische Massnahmen (Art. 44 MSG)
+
+[^74-1]
+
+[^74-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
 
 #### Art. 75
 
@@ -929,6 +1034,10 @@ beschliesst:
 
 ### 5.10 Form der Entscheide (Art. 76 MSG)
 
+[^80-1]
+
+[^80-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
+
 #### Art. 81
 
 **Schriftliche Entscheide**
@@ -943,6 +1052,10 @@ beschliesst:
 ## 6 Organisation der Schulen
 
 ### 6.1 Schulkommission (Art. 53–55 MSG)
+
+[^81-1]
+
+[^81-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
 
 #### Art. 82
 
@@ -962,7 +1075,7 @@ beschliesst:
 
 #### Art. 84
 
-**Befugnisse (Art. 54 MSG)**
+**Befugnisse (Art. 54 MSG[^84-1])**
 
 <sup>1</sup> Als beratendes Organ hat die Schulkommission folgende Befugnisse:
 
@@ -975,7 +1088,13 @@ beschliesst:
 - g) Sie nimmt Stellung zur Schulordnung.
 - h) Sie genehmigt die Statuten des Schülerrates.
 
+[^84-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
+
 ### 6.2 Direktionsrat (Art. 56 MSG)
+
+[^84-2]
+
+[^84-2]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
 
 #### Art. 85
 
@@ -1020,9 +1139,13 @@ beschliesst:
 
 ### 6.3 Schuldirektorinnen und Schuldirektoren (Art. 57 und 58 MSG)
 
+[^87-1]
+
+[^87-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
+
 #### Art. 88
 
-**Befugnisse (Art. 58 MSG)**
+**Befugnisse (Art. 58 MSG[^88-1])**
 
 <sup>1</sup> Die Schuldirektorin oder der Schuldirektor hat namentlich folgende Aufgaben und Befugnisse:
 
@@ -1052,13 +1175,17 @@ beschliesst:
 - h) die Vertretung der Schulen in kantonalen und ausserkantonalen Gremien,
 - i) die Sperrung des Zugangs zum Informatiknetzwerk,
 - j) die Ausschlussandrohung,
-- k) die Behandlung einer Aufsichtsbeschwerde im Sinne von Artikel 81 MSG gegen Handlungen oder Unterlassungen einer Lehrperson.
+- k) die Behandlung einer Aufsichtsbeschwerde im Sinne von Artikel 81 MSG[^88-2] gegen Handlungen oder Unterlassungen einer Lehrperson.
 
-<sup>3</sup> Die BKAD erstellt für die Schuldirektorin oder den Schuldirektor ein Pflichtenheft, das den Besonderheiten der einzelnen Schule angepasst ist. Sie berücksichtigt dabei die allgemeinen Befugnisse nach Artikel 58 MSG.
+<sup>3</sup> Die BKAD erstellt für die Schuldirektorin oder den Schuldirektor ein Pflichtenheft, das den Besonderheiten der einzelnen Schule angepasst ist. Sie berücksichtigt dabei die allgemeinen Befugnisse nach Artikel 58 MSG[^88-3].
+
+[^88-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
+[^88-2]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
+[^88-3]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
 
 #### Art. 89
 
-**Konferenz der Schuldirektorinnen und Schuldirektoren (Art. 63 Abs. 1 MSG) – Arbeitsweise**
+**Konferenz der Schuldirektorinnen und Schuldirektoren (Art. 63 Abs. 1 MSG[^89-1]) – Arbeitsweise**
 
 <sup>1</sup> Die kantonale Schuldirektorenkonferenz gibt sich ein Organisationsreglement, das vom Amt genehmigt werden muss.
 
@@ -1070,9 +1197,11 @@ beschliesst:
 
 <sup>5</sup> Die Traktandenliste und das Sitzungsprotokoll werden dem Amt zugestellt.
 
+[^89-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
+
 #### Art. 90
 
-**Konferenz der Schuldirektorinnen und Schuldirektoren (Art. 63 Abs. 1 MSG) – Befugnisse**
+**Konferenz der Schuldirektorinnen und Schuldirektoren (Art. 63 Abs. 1 MSG[^90-1]) – Befugnisse**
 
 <sup>1</sup> Die Schuldirektorenkonferenz hat namentlich folgende Befugnisse und Aufgaben:
 
@@ -1084,11 +1213,17 @@ beschliesst:
 - f) Sie legt die Grundsätze der Absenzenverwaltung fest.
 - g) Sie legt die allgemeinen Grundsätze der Beurteilung fest.
 
+[^90-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
+
 ### 6.4 Vorsteherinnen und Vorsteher (Art. 59 und 60 MSG)
+
+[^90-2]
+
+[^90-2]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
 
 #### Art. 91
 
-**Befugnisse (Art. 60 MSG)**
+**Befugnisse (Art. 60 MSG[^91-1])**
 
 <sup>1</sup> Die Vorsteherin oder der Vorsteher hat innerhalb ihrer oder seiner Abteilung oder Studienrichtung namentlich die folgenden allgemeinen Befugnisse:
 
@@ -1109,11 +1244,17 @@ beschliesst:
 
 <sup>4</sup> Sie oder er übernimmt eine Unterrichtstätigkeit, die vom Umfang ihrer oder seiner Aufgaben abhängig ist.
 
+[^91-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
+
 ### 6.5 Administrative und technische Mitarbeiterinnen und Mitarbeiter (Art. 61 und 62 MSG)
+
+[^91-2]
+
+[^91-2]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
 
 #### Art. 92
 
-**Verwalterin oder Verwalter (Art. 61 MSG)**
+**Verwalterin oder Verwalter (Art. 61 MSG[^92-1])**
 
 <sup>1</sup> Die Verwalterin oder der Verwalter unterstützt die Schuldirektorin oder den Schuldirektor bei der administrativen Leitung der Schule. Sie oder er hat namentlich folgende Befugnisse und Aufgaben:
 
@@ -1123,13 +1264,17 @@ beschliesst:
 - d) Sie oder er verwaltet in Zusammenarbeit mit den zuständigen kantonalen Dienststellen die Infrastruktur und die Einrichtungen.
 - e) Sie oder er vertritt den Direktionsrat in Bereichen, die in ihre oder seine Befugnisse fallen.
 
+[^92-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
+
 #### Art. 93
 
-**Administrative und technische Mitarbeiterinnen und Mitarbeiter (Art. 62 MSG)**
+**Administrative und technische Mitarbeiterinnen und Mitarbeiter (Art. 62 MSG[^93-1])**
 
 <sup>1</sup> Als administrative Mitarbeitende gelten die Sekretärinnen und Sekretäre, die Bibliothekarinnen und Bibliothekare und die Präparatorinnen und Präparatoren.
 
 <sup>2</sup> Die Hauswartinnen und Hauswarte und die Informatikerinnen und Informatiker der Schule werden von den Direktionen angestellt, denen sie unterstehen. Letztere legen, nach Stellungnahme des Direktionsrats, ihr Pflichtenheft fest. Dieses Personal und der Direktionsrat arbeiten zu diesem Zweck eng zusammen.
+
+[^93-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
 
 ### 6.6 Kantonale Prüfungskommission
 
@@ -1161,6 +1306,10 @@ beschliesst:
 
 ### 6.7 Lehrpersonenkonferenz (Art. 64 MSG)
 
+[^95-1]
+
+[^95-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
+
 #### Art. 96
 
 **Zusammensetzung und Arbeitsweise**
@@ -1178,6 +1327,10 @@ beschliesst:
 <sup>1</sup> Die Lehrpersonen werden zu wichtige Angelegenheiten, die den allgemeinen Schulbetrieb betreffen, informiert und konsultiert. Ihrerseits können sie Vorschläge zum Schulbetrieb unterbreiten.
 
 ### 6.8 Fachschaften (Art. 65 MSG)
+
+[^97-1]
+
+[^97-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
 
 #### Art. 98
 
@@ -1246,6 +1399,10 @@ beschliesst:
 
 ## 7 Finanzierung der Schulen (Art. 66–69 MSG)
 
+[^101-1]
+
+[^101-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
+
 #### Art. 102
 
 **Individuelle Kosten**
@@ -1288,17 +1445,25 @@ beschliesst:
 
 ## 8 Privatschulen (Art. 70–72 MSG)
 
+[^107-1]
+
+[^107-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
+
 #### Art. 108
 
-**Eröffnung einer Schule (Art. 70 MSG)**
+**Eröffnung einer Schule (Art. 70 MSG[^108-1])**
 
 <sup>1</sup> Wird die Eröffnung einer Privatschule gemeldet, so vergewissert sich die BKAD, dass die angebotenen Bildungsgänge klar definiert sind, die ausgestellten Studienausweise der betreffenden Ausbildung entsprechen und es keinen Anlass zu Verwechslungen mit anderen Ausweisen gibt.
 
+[^108-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
+
 #### Art. 109
 
-**Aufsicht über die Privatschulen (Art. 70 MSG)**
+**Aufsicht über die Privatschulen (Art. 70 MSG[^109-1])**
 
 <sup>1</sup> Sofern nicht besondere Umstände Sofortmassnahmen erfordern, muss eine Privatschule verwarnt werden, bevor ein Verbot ausgesprochen wird.
+
+[^109-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
 
 #### Art. 110
 
@@ -1308,9 +1473,9 @@ beschliesst:
 
 #### Art. 111
 
-**Bedingungen und Auflagen für Subventionen (Art. 72 MSG)**
+**Bedingungen und Auflagen für Subventionen (Art. 72 MSG[^111-1])**
 
-<sup>1</sup> Wird einer Privatschule eine Subvention nach Artikel 72 MSG gewährt, so muss eine vom Staatsrat genehmigte Vereinbarung mit der BKAD abgeschlossen werden. Darin werden namentlich folgende Aspekte geregelt:
+<sup>1</sup> Wird einer Privatschule eine Subvention nach Artikel 72 MSG[^111-2] gewährt, so muss eine vom Staatsrat genehmigte Vereinbarung mit der BKAD abgeschlossen werden. Darin werden namentlich folgende Aspekte geregelt:
 
 - a) das Bildungsangebot,
 - b) die Qualitätssicherung und -entwicklung,
@@ -1320,7 +1485,14 @@ beschliesst:
 - f) die Bedingungen für die Aufnahme von Schülerinnen und Schülern,
 - g) die Modalitäten der staatlichen Aufsicht.
 
+[^111-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
+[^111-2]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
+
 ## 9 Beratungsdienste (Art. 73–75 MSG)
+
+[^111-3]
+
+[^111-3]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
 
 #### Art. 112
 
@@ -1357,7 +1529,7 @@ beschliesst:
 
 #### Art. 115
 
-**Einspracheverfahren (Art. 77 MSG)**
+**Einspracheverfahren (Art. 77 MSG[^115-1])**
 
 <sup>1</sup> Die Einsprache enthält eine kurze Darstellung des Sachverhalts, eine Begründung sowie ein Rechtsbegehren.
 
@@ -1366,6 +1538,8 @@ beschliesst:
 <sup>3</sup> Die Schuldirektorin oder der Schuldirektor behandelt das Verfahren zügig. Sie oder er ermittelt den Sachverhalt, ohne an den Inhalt der Einsprache gebunden zu sein; sie oder er hört die betroffene Schülerin oder den betroffenen Schüler und, wenn diese oder dieser minderjährig ist oder die Umstände es rechtfertigen, die Eltern an. Dabei werden alle Verfahrensschritte schriftlich festgehalten.
 
 <sup>4</sup> Der Einspracheentscheid wird schriftlich mitgeteilt; er ist kurz zu begründen. Wird dem Begehren der Einsprecherin oder des Einsprechers vollumfänglich stattgegeben und fordert keine Partei die Begründung des Entscheids, so kann die Schuldirektorin oder der Schuldirektor darauf verzichten oder die Gründe nur in mündlicher Form angeben.
+
+[^115-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
 
 #### Art. 116
 
@@ -1379,7 +1553,7 @@ beschliesst:
 
 #### Art. 117
 
-**Aufsichtsbeschwerde der Eltern und der Schülerinnen oder Schüler (Art. 81 MSG) – Zuständige Behörden**
+**Aufsichtsbeschwerde der Eltern und der Schülerinnen oder Schüler (Art. 81 MSG[^117-1]) – Zuständige Behörden**
 
 <sup>1</sup> Aufsichtsbeschwerdebehörden sind:
 
@@ -1388,9 +1562,11 @@ beschliesst:
 
 <sup>2</sup> Die BKAD ist zuständig für die Beurteilung einer Beschwerde gegen den Entscheid der Schuldirektorin oder des Schuldirektors, mit dem die Aufsichtsbeschwerde für unzulässig oder unbegründet erklärt wird oder der Beschwerdeführerin oder dem Beschwerdeführer Verfahrenskosten auferlegt werden.
 
+[^117-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
+
 #### Art. 118
 
-**Aufsichtsbeschwerde der Eltern und der Schülerinnen oder Schüler (Art. 81 MSG) – Beschwerdeverfahren**
+**Aufsichtsbeschwerde der Eltern und der Schülerinnen oder Schüler (Art. 81 MSG[^118-1]) – Beschwerdeverfahren**
 
 <sup>1</sup> Die Aufsichtsbeschwerde wird in schriftlicher Form, mit Datum versehen und eigenhändig unterschrieben bei der zuständigen Behörde eingereicht. Sie enthält eine kurze Darlegung des Sachverhalts und der Beschwerdegründe.
 
@@ -1398,10 +1574,14 @@ beschliesst:
 
 <sup>3</sup> Der Entscheid über die Aufsichtsbeschwerde erfolgt schriftlich und wird kurz begründet.
 
+[^118-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
+
 #### Art. 119
 
-**Aufsichtsbeschwerde der Eltern und der Schülerinnen oder Schüler (Art. 81 MSG) – Verfahrenskosten**
+**Aufsichtsbeschwerde der Eltern und der Schülerinnen oder Schüler (Art. 81 MSG[^119-1]) – Verfahrenskosten**
 
 <sup>1</sup> Verfahrenskosten sind die aus der Instruktion der Beschwerde entstandenen Auslagen, namentlich die Kosten für die Beweiserhebung, die Reiseentschädigungen und die Honorare für Drittpersonen.
+
+[^119-1]: SGF [412.0.1](https://bdlf.fr.ch/data/412.0.1/de)
 
 2021\_056
