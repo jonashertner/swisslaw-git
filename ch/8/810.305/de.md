@@ -4,11 +4,11 @@ title: Verordnung vom 20. September 2013 über klinische Versuche mit Ausnahme k
 short: KlinV
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/643"
 language: de
-version: 2025-05-20
+version: 2025-08-15
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/643/20250520/de/xml/fedlex-data-admin-ch-eli-cc-2013-643-20250520-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20250520/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/643/20250815/de/xml/fedlex-data-admin-ch-eli-cc-2013-643-20250815-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20250815/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20250520/de"
 
 (Verordnung über klinische Versuche; KlinV)[^t-1]
 
-vom 20. September 2013 (Stand am 20. Mai 2025)
+vom 20. September 2013 (Stand am 15. August 2025)
 
 [^t-1]: Fassung gemäss Anhang 2 Ziff. 2 der V vom 1. Juli 2020 über klinische Versuche mit Medizinprodukten, in Kraft seit 26. Mai 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
 
@@ -27,9 +27,9 @@ gestützt auf das Humanforschungsgesetz vom 30. September 2011[^ingress-1] (HFG)
 
 verordnet:
 
-[^ingress-1]: [SR 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
-[^ingress-2]: [SR 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
-[^ingress-3]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^ingress-1]: [SR 810.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9248)
+[^ingress-2]: [SR 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
+[^ingress-3]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -65,13 +65,13 @@ Die Durchführung folgender klinischer Versuche ist nicht Gegenstand dieser Vero
 
 [^1-1]: Fassung gemäss Anhang 2 Ziff. 2 der V vom 1. Juli 2020 über klinische Versuche mit Medizinprodukten, in Kraft seit 26. Mai 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
 [^1-2]: Fassung gemäss Anhang Ziff. 2 der V vom 19. Mai 2021, in Kraft seit 26. Mai 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
-[^1-3]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^1-3]: [SR 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^1-4]: Ausdruck gestrichen gemäss Anhang 2 Ziff. 2 der V vom 4. Mai 2022, mit Wirkung seit 26. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)). Die Änderung wurde im ganzen Erlass berücksichtigt.
 [^1-5]: Ausdruck gemäss Anhang Ziff. 2 der V vom 19. Mai 2021, in Kraft seit 26. Mai 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 [^1-6]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^1-7]: [SR 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
-[^1-8]: [SR 810.306](https://fedlex.data.admin.ch/eli/cc/2020/553)
-[^1-9]: [SR 810.213](https://fedlex.data.admin.ch/eli/cc/2007/283)
+[^1-7]: [SR 812.219](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40010)
+[^1-8]: [SR 810.306](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9251)
+[^1-9]: [SR 810.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9245)
 [^1-10]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 2
@@ -108,7 +108,7 @@ Im Sinne dieser Verordnung gelten als:
 [^2-2]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^2-3]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^2-4]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^2-5]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^2-5]: [SR 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^2-6]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^2-7]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^2-8]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
@@ -223,7 +223,7 @@ Es ist durch geeignete Massnahmen sicherzustellen, dass die betroffene Person di
 
 [^7-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^7-2]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. März 2025 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322), [582](https://fedlex.data.admin.ch/eli/oc/2024/582)).
-[^7-3]: [SR 810.301](https://fedlex.data.admin.ch/eli/cc/2013/642)
+[^7-3]: [SR 810.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9249)
 [^7-4]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 7a
@@ -242,7 +242,7 @@ Sofern bei der Durchführung präsymptomatischer genetischer Untersuchungen, pr�
 <sup>2</sup> Bei der Durchführung präsymptomatischer Untersuchungen (Art. 3 Bst. e GUMG) muss die betroffene Person zusätzlich über die Voraussetzungen, unter denen Versicherungseinrichtungen die Bekanntgabe von Daten aus durchgeführten genetischen Untersuchungen verlangen können, aufgeklärt werden (Art. 43 und Art. 44 GUMG).
 
 [^7a-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^7a-2]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^7a-2]: [SR 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)
 
 #### Art. 7b
 
@@ -251,7 +251,7 @@ Sofern bei der Durchführung präsymptomatischer genetischer Untersuchungen, pr�
 Bei der Durchführung pränataler Risikoabklärungen (Art. 3 Bst. h GUMG[^7b-2]) muss die schwangere Frau zusätzlich über die Inhalte nach Artikel 23 GUMG aufgeklärt werden.
 
 [^7b-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^7b-2]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^7b-2]: [SR 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)
 
 #### Art. 7c
 
@@ -346,7 +346,7 @@ Von der Haftpflicht bei klinischen Versuchen gemäss Artikel 19 Absatz 1 HFG wir
 <sup>2</sup> Von der Haftpflicht gemäss Artikel 19 Absatz 1 HFG wird zudem befreit, wer beweist, dass ein vergleichbarer Schaden auch dann hätte eintreten können, wenn sich die geschädigte Person zur Behandlung ihrer Krankheit der üblichen Therapie unterzogen hätte.[^10-5]
 
 [^10-1]: Fassung gemäss Anhang 2 Ziff. 2 der V vom 4. Mai 2022, in Kraft seit 26. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
-[^10-2]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^10-2]: [SR 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^10-3]: [AS 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
 [^10-4]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^10-5]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
@@ -361,8 +361,8 @@ Die Verjährung von Ersatzansprüchen für Schäden, die auf:
 - b. die Verwendung gentechnisch veränderter Organismen zurückzuführen sind, richtet sich nach Artikel 32 des Gentechnikgesetzes vom 21. März 2003[^11-3].
 
 [^11-1]: Ausdruck gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
-[^11-2]: [SR 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
-[^11-3]: [SR 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
+[^11-2]: [SR 814.50](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9533)
+[^11-3]: [SR 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
 
 #### Art. 12
 
@@ -402,7 +402,7 @@ Die Sicherstellungspflicht kann erfüllt werden:
 
 <sup>4</sup> Die Absätze 1–3 sind sinngemäss anwendbar bei der Leistung gleichwertiger Sicherheiten nach Artikel 13 Absatz 1 Buchstabe b.
 
-[^14-1]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^14-1]: [SR 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 ### 5. Abschnitt: Klinische Versuche in Notfallsituationen
 
@@ -479,7 +479,7 @@ Wer im Rahmen eines klinischen Versuchs biologisches Material aufbewahrt, muss n
 
 Bei Versicherungsverhältnissen gelten für den Umgang mit genetischen Daten aus klinischen Versuchen die Artikel 42–44 GUMG[^18a-1].
 
-[^18a-1]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^18a-1]: [SR 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)
 
 ## 2. Kapitel: Bewilligungs- und Meldeverfahren für klinische Versuche mit Arzneimitteln, Produkten nach Artikel 2*a* Absatz 2 HMG oder Transplantatprodukten
 
@@ -554,7 +554,7 @@ Sie entsprechen der Kategorie C, wenn:
 - c. die Anwendung des zu untersuchenden Produkts in der Schweiz verboten ist.
 
 [^20-1]: Fassung gemäss Anhang 2 Ziff. 2 der V vom 4. Mai 2022, in Kraft seit 26. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
-[^20-2]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^20-2]: [SR 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^20-3]: [AS 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
 
 #### Art. 21
@@ -575,7 +575,7 @@ Für klinische Versuche mit Transplantatprodukten gelten sinngemäss die Vorschr
 
 <sup>4</sup> Auf klinische Versuche der Gentherapie sowie auf klinische Versuche mit gentechnisch veränderten oder mit pathogenen Organismen finden die Vorschriften dieser Verordnung zu klinischen Versuchen mit Arzneimitteln sinngemäss Anwendung.
 
-[^22-1]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^22-1]: [SR 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
 
 #### Art. 23
 
@@ -891,7 +891,7 @@ Die Ethikkommission erteilt die Bewilligung, wenn:
 <sup>6</sup> Sie entscheidet innerhalb von 45 Tagen nach der Bestätigung des Eingangs der formal korrekten Gesuchsunterlagen. Sie teilt ihren Entscheid dem BAG mit.
 
 [^36a-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322), [582](https://fedlex.data.admin.ch/eli/oc/2024/582)).
-[^36a-2]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^36a-2]: [SR 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 
 ### 5. Abschnitt: Dokumentation, Meldungen und Berichterstattung
 
@@ -1023,7 +1023,7 @@ Die Prüfperson meldet der zuständigen Ethikkommission innerhalb von 7 Tagen:
 [^42-1]: Fassung gemäss Anhang 2 Ziff. 2 der V vom 4. Mai 2022, in Kraft seit 26. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 [^42-2]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^42-3]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^42-4]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^42-4]: [SR 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^42-5]: [AS 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
 
 #### Art. 43
@@ -1061,11 +1061,11 @@ Die Prüfperson meldet der zuständigen Ethikkommission innerhalb von 7 Tagen:
 
 [^44-1]: Fassung gemäss Anhang 11 Ziff. 6 der Strahlenschutzverordnung vom 26. April 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
 [^44-2]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^44-3]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^44-3]: [SR 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
 [^44-4]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^44-5]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^44-6]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^44-7]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^44-7]: [SR 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^44-8]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^44-9]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^44-10]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
@@ -1107,7 +1107,7 @@ Anstelle der Prüfperson kann der Sponsor die in diesem Abschnitt aufgeführten 
 
 <sup>5</sup> Die Swissmedic informiert die zuständige Ethikkommission sowie weitere zuständige Behörden des Kantons und des Bundes über die Ergebnisse der Inspektion.
 
-[^46-1]: [SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2019 angepasst.
+[^46-1]: [SR 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2019 angepasst.
 
 #### Art. 47
 
@@ -1238,7 +1238,7 @@ Als wesentliche Änderungen gelten:
 
 <sup>3</sup> Für klinische Versuche der Transplantation embryonaler oder fötaler Gewebe und Zellen sind zusätzlich die Artikel 35, 36 und 38 der Transplantationsverordnung anwendbar.
 
-[^56-1]: [SR 810.211](https://fedlex.data.admin.ch/eli/cc/2007/280)
+[^56-1]: [SR 810.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9240)
 
 ### 4. Abschnitt: Dokumentation, Meldungen und Berichterstattung
 
@@ -1463,7 +1463,7 @@ Der Sponsor ist für die Richtigkeit und die Vollständigkeit der eingetragenen 
 <sup>2</sup> Das Portal ermöglicht namentlich die Verknüpfung der nach Artikel 64 und 65*a* sowie Artikel 41 und 42 der KlinV‑Mep[^67-2] einzutragenden Daten und die Veröffentlichung derselben sowie weiterer Daten aus dem Informationssystem der Kantone entsprechend Anhang 5.
 
 [^67-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. März 2025 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^67-2]: [SR 810.306](https://fedlex.data.admin.ch/eli/cc/2020/553)
+[^67-2]: [SR 810.306](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9251)
 
 ## 6. Kapitel: Schlussbestimmungen
 
@@ -1507,7 +1507,7 @@ Die Änderung anderer Erlasse wird in Anhang 6 geregelt.
 
 <sup>5</sup> Die Überprüfung von wesentlichen Änderungen richtet sich nach neuem Recht.
 
-[^71-1]: [SR 810.308](https://fedlex.data.admin.ch/eli/cc/2013/644)
+[^71-1]: [SR 810.308](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9252)
 
 #### Art. 72
 
@@ -1541,7 +1541,7 @@ Anhang 1[^t-2]
 
 ## Regeln und Klassifizierungen
 
-[^t-2]: Bereinigt gemäss Ziff. I der V des EDI vom 24. März 2017 ([AS 2017 2439](https://fedlex.data.admin.ch/eli/oc/2017/227)), Anhang Ziff. 1 der V vom 25. Okt. 2017 ([AS 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)) und Ziff. II Abs. 1 der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^t-2]: Bereinigt gemäss Ziff. I der V des EDI vom 24. März 2017 ([AS 2017 2439](https://fedlex.data.admin.ch/eli/oc/2017/227)), Anhang Ziff. 1 der V vom 25. Okt. 2017 ([AS 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)), Ziff. II Abs. 1 der V vom 7. Juni 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)) und Ziff. I der V des EDI vom 3. Juli 2025, in Kraft seit 15. Aug. 2025 ([AS 2025 462](https://fedlex.data.admin.ch/eli/oc/2025/462)).
 
 ### 1. Regeln über die wissenschaftliche Integrität
 
@@ -1553,11 +1553,11 @@ Anwendbar ist der Kodex zur wissenschaftlichen Integrität der Akademien der Wis
 
 Als Regeln der Guten Klinischen Praxis sind anwendbar:
 
-- 1\. bei klinischen Versuchen mit Arzneimitteln und Transplantatprodukten: die Leitlinie der Guten Klinischen Praxis der Internationalen Harmonisierungskonferenz in der Fassung vom 9. November 2016[^annex1-lvlu1-lvl2-1] (ICH-Leitlinie);
+- 1\. bei klinischen Versuchen mit Arzneimitteln und Transplantatprodukten: die Leitlinie der Guten Klinischen Praxis des Internationalen Rates zur Harmonisierung der technischen Anforderungen an Humanarzneimittel in der Fassung vom 6. Januar 2025[^annex1-lvlu1-lvl2-1] (ICH GCP E6 [R3] Leitlinie);
 - 2\. bei klinischen Versuchen mit Produkten nach Art. 2*a* Absatz 2 HMG: die Anhänge VIII und X der Richtlinie 93/42/EWG[^annex1-lvlu1-lvl2-2] sowie die Anhänge 6 und 7 der Richtlinie 90/385/EWG[^annex1-lvlu1-lvl2-3] und die Konkretisierung durch die Norm EN ISO 14155: 2011[^annex1-lvlu1-lvl2-4]. Die Definition des *Serious Adverse Event* nach Artikel 42 richtet sich nach den *Guidelines on Medical Devices* (MEDDEV 2.7/3) vom Mai 2015[^annex1-lvlu1-lvl2-5];
 - 3\. bei klinischen Versuchen nach dem 3. und 4. Kapitel sinngemäss die ICH-Leitlinie.
 
-[^annex1-lvlu1-lvl2-1]: Der Text der Leitlinie kann beim Bundesamt für Gesundheit, 3003 Bern kostenlos eingesehen oder abgerufen werden unter: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Medizin & Forschung &gt; Forschung am Menschen sowie unter: [www.clinicaltrials.gov](http://www.clinicaltrials.gov) &gt; Work products &gt; ICH Guidelines &gt; Efficacy Guidelines.
+[^annex1-lvlu1-lvl2-1]: Der Text der Leitlinie kann kostenlos abgerufen werden unter: [www.ich.org &gt; Work products &gt; ICH Guidelines &gt; Efficacy Guidelines &gt; E6 (R3) Good Clinical Practice](https://www.ich.org/page/efficacy-guidelines).
 [^annex1-lvlu1-lvl2-2]: Richtlinie 93/42/EWG des Rates vom 14. Juni 1993 über Medizinprodukte, ABl. L 169 vom 12.7.1993, S. 1; zuletzt geändert durch die Richtlinie 2007/47/EG, ABl. L 247 vom 21.9.2007, S. 21.
 [^annex1-lvlu1-lvl2-3]: Richtlinie 90/385/EWG des Rates vom 20. Juni 1990 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über aktive implantierbare medizinische Geräte, ABl. L 189 vom 20.7.1990, S. 17; zuletzt geändert durch die Richtlinie 2007/47/EG, ABl. L 247 vom 21.9.2007, S. 21.
 [^annex1-lvlu1-lvl2-4]: Diese Norm kann beim Bundesamt für Gesundheit, 3003 Bern, sowie bei der Swissmedic, 3003 Bern, kostenlos eingesehen werden. Sie kann zudem gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
@@ -1633,7 +1633,7 @@ Anhang 3[^t-5]
 - 1\.14 Versicherungsnachweis oder anderer Nachweis der Sicherstellung für allfällige Schäden einschliesslich der diesbezüglichen Vereinbarungen zwischen Sponsor beziehungsweise von ihm beauftragter Dritter und der Prüfperson;
 - 1\.15 allfällige Entscheide oder Stellungnahmen von Ethikkommissionen im Ausland zum klinischen Versuch, einschliesslich allfälliger Auflagen und deren Begründung.
 
-[^annex3-lvlu1-lvl1-1]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^annex3-lvlu1-lvl1-1]: [SR 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^annex3-lvlu1-lvl1-2]: [AS 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
 
 ### 2 Gesuchsunterlagen für klinische Versuche der Kategorien B und C mit Arzneimitteln, Produkten nach Art. 2*a* Absatz 2 HMG oder Transplantatprodukten
@@ -1696,7 +1696,7 @@ Anhang 3[^t-5]
 - 5\.1 Angaben zu wesentlichen Strahlenschutzaspekten, insbesondere eine Berechnung beziehungsweise Abschätzung der effektiven Strahlendosis, der Organdosen und allfälliger Tumordosen;
 - 5\.2 die erforderlichen Bewilligungen gemäss Artikel 28 des Strahlenschutzgesetzes vom 22. März 1991[^annex3-lvlu1-lvl5-1].
 
-[^annex3-lvlu1-lvl5-1]: [SR 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
+[^annex3-lvlu1-lvl5-1]: [SR 814.50](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9533)
 
 ### 6. Zusätzliche Gesuchsunterlagen für klinische Versuche, welche Begleituntersuchungen mit ionisierender Strahlung umfassen und eine Stellungnahme des BAG nach Artikel 36*a* Absatz 4 erfordern
 
@@ -1765,7 +1765,7 @@ Anhang 4[^t-6]
 - 3\.7 allfällige Entscheide von Medizinprodukteaufsichtsbehörden anderer Länder zum klinischen Versuch, einschliesslich allfälliger Auflagen und deren Begründung;
 - 3\.8 Information über allfällige Gesuche, die bei einer Ethikkommission in der Schweiz hängig sind, und über allfällige Entscheide von Ethikkommissionen in der Schweiz.
 
-[^annex4-lvlu1-lvl3-1]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^annex4-lvlu1-lvl3-1]: [SR 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^annex4-lvlu1-lvl3-2]: [AS 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
 [^annex4-lvlu1-lvl3-3]: Richtlinie 93/42/EWG des Rates vom 14. Juni 1993 über Medizinprodukte, ABl. L 169 vom 12.7.1993, S. 1; zuletzt geändert durch die Richtlinie 2007/47/EG, ABl. L 247 vom 21.9.2007, S. 21.
 [^annex4-lvlu1-lvl3-4]: Richtlinie 90/385/EWG des Rates vom 20. Juni 1990 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über aktive implantierbare medizinische Geräte, ABl. L 189 vom 20.7.1990, S. 17; zuletzt geändert durch die Richtlinie 2007/47/EG, ABl. L 247 vom 21.9.2007, S. 21.
@@ -1786,7 +1786,7 @@ Anhang 4[^t-6]
   - d. bei nicht zugelassenen Radiopharmazeutika oder radioaktiv markierten Stoffen: Angaben zur Herstellung und den fachlichen Qualifikationen der verantwortlichen Personen,
   - e. die für die Anwendung des Radiopharmazeutikums am Menschen verantwortlichen Personen und deren fachlichen Qualifikationen.
 
-[^annex4-lvlu1-lvl5-1]: [SR 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
+[^annex4-lvlu1-lvl5-1]: [SR 814.50](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9533)
 [^annex4-lvlu1-lvl5-2]: Dieses Formular kann beim Bundesamt für Gesundheit, Abteilung Strahlenschutz, 3003 Bern, bezogen oder unter der Internetadresse [www.bag.admin.ch](https://www.bag.admin.ch/bag/de/home/gesetze-und-bewilligungen/gesuche-bewilligungen/bewilligungen-aufsicht-im-strahlenschutz.html) &gt; Gesetze & Bewilligungen &gt; Gesuche & Bewilligungen &gt; Strahlenschutz: Bewilligungen, Voraussetzungen und Aufsicht abgerufen werden.
 
 ### 6 Gesuchsunterlagen für klinische Versuche der Transplantation menschlicher Organe, Gewebe und Zellen der Kategorie C

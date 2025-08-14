@@ -4,11 +4,11 @@ title: "Ordinance of 20 September 2013 on Clinical Trials in Human Research (Cli
 short: ClinO
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/643"
 language: en
-version: 2025-05-20
+version: 2025-08-15
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/643/20250520/en/xml/fedlex-data-admin-ch-eli-cc-2013-643-20250520-en-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20250520/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/643/20250815/en/xml/fedlex-data-admin-ch-eli-cc-2013-643-20250815-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20250815/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Clinical Trials Ordinance, ClinO)
 
-of 20 September 2013 (Status as of 20 May 2025)
+of 20 September 2013 (Last amended on 15 August 2025)
 
 [^t-1]: Amended by Annex 2 No 2 of the O of 1 July 2020 on Clinical Trials of Medical Devices, in force since 26 May 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
 
@@ -29,9 +29,9 @@ on the basis of the Human Research Act of 30 September 2011[^ingress-1] (HRA), o
 
 ordains:
 
-[^ingress-1]: [SR 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
-[^ingress-2]: [SR 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
-[^ingress-3]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^ingress-1]: [SR 810.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9248)
+[^ingress-2]: [SR 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
+[^ingress-3]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
 ## Chapter 1 General Provisions
 
@@ -67,13 +67,13 @@ The conduct of the following clinical trials is not covered by this Ordinance:
 
 [^1-1]: Amended by Annex 2 No 2 of the O of 1 July 2020 on Clinical Trials of Medical Devices, in force since 26 May 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
 [^1-2]: Amended by Annex No 2 of the O of 19 May 2021, in force since 26 May 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
-[^1-3]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^1-3]: [SR 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^1-4]: Term removed by Annex 2 No 2 of the O of 4 May 2022, with effect from 26 May 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)). This change has been made throughout the text.
 [^1-5]: Term in accordance with Annex No 2 of the O of 19 May 2021, in force since 26 May 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)). This change has been made throughout the text.
 [^1-6]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^1-7]: [SR 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
-[^1-8]: [SR 810.306](https://fedlex.data.admin.ch/eli/cc/2020/553)
-[^1-9]: [SR 810.213](https://fedlex.data.admin.ch/eli/cc/2007/283)
+[^1-7]: [SR 812.219](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40010)
+[^1-8]: [SR 810.306](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9251)
+[^1-9]: [SR 810.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9245)
 [^1-10]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 2
@@ -110,7 +110,7 @@ In this Ordinance:
 [^2-2]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^2-3]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^2-4]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^2-5]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^2-5]: [SR 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^2-6]: Inserted by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^2-7]: Inserted by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^2-8]: Inserted by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
@@ -225,7 +225,7 @@ Appropriate measures must be taken to ensure that the persons concerned have und
 
 [^7-1]: Inserted by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^7-2]: Inserted by No I of the O of 7 June 2024, in force since 1 March 2025 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322), [582](https://fedlex.data.admin.ch/eli/oc/2024/582)).
-[^7-3]: [SR 810.301](https://fedlex.data.admin.ch/eli/cc/2013/642)
+[^7-3]: [SR 810.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9249)
 [^7-4]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 7a
@@ -244,7 +244,7 @@ If, when presymptomatic genetic testing, prenatal genetic testing, or testing fo
 <sup>2</sup> When presymptomatic testing is conducted (Art. 3 let. e HGTA), the person concerned must additionally be informed about the conditions under which insurance providers may request the disclosure of data from genetic tests performed (Art. 43 and Art. 44 HGTA).
 
 [^7a-1]: Inserted by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^7a-2]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^7a-2]: [SR 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)
 
 #### Art. 7b
 
@@ -253,7 +253,7 @@ If, when presymptomatic genetic testing, prenatal genetic testing, or testing fo
 When a prenatal risk assessment is conducted (Art. 3 let. h HGTA[^7b-2]) the pregnant woman must additionally be informed about the matters specified in Article 23 HGTA.
 
 [^7b-1]: Inserted by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^7b-2]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^7b-2]: [SR 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)
 
 #### Art. 7c
 
@@ -348,7 +348,7 @@ Exempt from liability in relation to clinical trials under Article 19 paragraph 
 <sup>2</sup> Also exempt from liability under Article 19 paragraph 1 HRA shall be any person who proves that comparable damage could also have occurred if the injured party had undergone standard therapy for their disease.[^10-5]
 
 [^10-1]: Amended by Annex 2 No 2 of the O of 4 May 2022, in force since 26 May 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
-[^10-2]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^10-2]: [SR 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^10-3]: [AS 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
 [^10-4]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^10-5]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
@@ -363,8 +363,8 @@ The limitation period for compensation claims in respect of damage:
 - b. attributable to the use of genetically modified organisms is governed by Article 32 of the Gene Technology Act of 21 March 2003[^11-3].
 
 [^11-1]: German term amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)). This amendment (not relevant to the English text) has been made throughout the Ordinance.
-[^11-2]: [SR 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
-[^11-3]: [SR 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
+[^11-2]: [SR 814.50](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9533)
+[^11-3]: [SR 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
 
 #### Art. 12
 
@@ -404,7 +404,7 @@ The liability coverage requirements can be fulfilled:
 
 <sup>4</sup> Paragraphs 1–3 apply *mutatis mutandis* if security of equivalent value is provided in accordance with Article 13 paragraph 1 letter b.
 
-[^14-1]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^14-1]: [SR 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 ### Section 5 Clinical Trials in Emergency Situations
 
@@ -481,7 +481,7 @@ Any person who stores biological material in connection with a clinical trial mu
 
 In connection with insurance, Articles 42–44 HGTA[^18a-1] apply to the handling of genetic data from clinical trials.
 
-[^18a-1]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^18a-1]: [SR 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)
 
 ## Chapter 2 Approval and Notification Procedures for Clinical Trials of Medicinal Products, Products under Article 2*a* paragraph 2 TPA and Transplant Products
 
@@ -556,7 +556,7 @@ They come under Category C if:
 - c. use of the product that is under investigation is prohibited in Switzerland.
 
 [^20-1]: Amended by Annex 2 No 2 of the O of 4 May 2022, in force since 26 May 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
-[^20-2]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^20-2]: [SR 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^20-3]: [AS 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
 
 #### Art. 21
@@ -577,7 +577,7 @@ For clinical trials of transplant products, the provisions of this Ordinance con
 
 <sup>4</sup> For clinical trials of gene therapy and for clinical trials of genetically modified or pathogenic organisms, the provisions of this Ordinance concerning clinical trials of medicinal products apply *mutatis mutandis*.
 
-[^22-1]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^22-1]: [SR 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
 
 #### Art. 23
 
@@ -896,7 +896,7 @@ The ethics committee shall grant approval if:
 <sup>6</sup> It shall reach a decision within 45 days after acknowledgement of receipt of the formally correct application documents. It shall inform the FOPH of its decision.
 
 [^36a-1]: Inserted by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322), [582](https://fedlex.data.admin.ch/eli/oc/2024/582)).
-[^36a-2]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^36a-2]: [SR 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 
 ### Section 5 Documentation, Notifications and Reporting
 
@@ -972,7 +972,7 @@ If adverse events occur in the course of a Category B clinical trial, they must 
 
 <sup>1</sup> If, in the course of a clinical trial, serious adverse events occur in participants, the investigator must document these in a standardised manner and report them to the sponsor within 24 hours after they become known. Events which are not to be reported according to the protocol are exempted.
 
-<sup>2</sup> and<sup>3</sup> …[^40-2]
+<sup>2 and<sup>3</sup></sup> …[^40-2]
 
 <sup>4</sup> The definition of serious adverse events is governed by the rules of Good Clinical Practice as specified in Annex 1 number 2.
 
@@ -1028,7 +1028,7 @@ The investigator shall, within 7 days, report to the responsible ethics committe
 [^42-1]: Amended by Annex 2 No 2 of the O of 4 May 2022, in force since 26 May 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 [^42-2]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^42-3]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^42-4]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^42-4]: [SR 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^42-5]: [AS 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
 
 #### Art. 43
@@ -1066,11 +1066,11 @@ The investigator shall, within 7 days, report to the responsible ethics committe
 
 [^44-1]: Amended by Annex 11 No 6 of the Radiological Protection Ordinance of 26 Apr. 2017, in force since 1 Jan. 2018 ([AS 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
 [^44-2]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^44-3]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^44-3]: [SR 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
 [^44-4]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^44-5]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^44-6]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^44-7]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^44-7]: [SR 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^44-8]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^44-9]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^44-10]: Inserted by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
@@ -1112,7 +1112,7 @@ Instead of the investigator, the sponsor may assume the notification and reporti
 
 <sup>5</sup> Swissmedic shall inform the responsible ethics committee and other competent cantonal and federal authorities of the results of the inspection.
 
-[^46-1]: [SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). The reference has been amended on 1 Jan. 2019 pursuant to Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^46-1]: [SR 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361). The reference has been amended on 1 Jan. 2019 pursuant to Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 
 #### Art. 47
 
@@ -1243,7 +1243,7 @@ The following are considered to be substantial modifications:
 
 <sup>3</sup> For clinical trials of the transplantation of embryonic or foetal tissues and cells, Articles 35, 36 and 38 of the Transplantation Ordinance additionally apply.
 
-[^56-1]: [SR 810.211](https://fedlex.data.admin.ch/eli/cc/2007/280)
+[^56-1]: [SR 810.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9240)
 
 ### Section 4 Notifications and Reporting
 
@@ -1459,7 +1459,7 @@ The sponsor is responsible for the accuracy and completeness of the data entered
 <sup>2</sup> The portal shall enable in particular the linking of data to be entered under Articles 64 and 65*a*, as well as Articles 41 and 42 ClinO-MD[^67-2], and the publication of this and other data from the cantonal information system as specified in Annex 5.
 
 [^67-1]: Amended by No I of the O of 7 June 2024, in force since 1 March 2025 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^67-2]: [SR 810.306](https://fedlex.data.admin.ch/eli/cc/2020/553)
+[^67-2]: [SR 810.306](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9251)
 
 ## Chapter 6 Final Provisions
 
@@ -1503,7 +1503,7 @@ The amendment of other legislation is regulated in Annex 6.
 
 <sup>5</sup> The assessment of substantial modifications is governed by the new law.
 
-[^71-1]: [SR 810.308](https://fedlex.data.admin.ch/eli/cc/2013/644)
+[^71-1]: [SR 810.308](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9252)
 
 #### Art. 72
 
@@ -1537,7 +1537,7 @@ Annex 1[^t-2]
 
 ## Rules and classifications
 
-[^t-2]: Revised by No I of the FDHA Ordinance of 24 March 2017 ([AS 2017 2439](https://fedlex.data.admin.ch/eli/oc/2017/227)), Annex No 1 of the O of 25 Oct. 2017 ([AS 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)) and No II para. 1 of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^t-2]: Revised by No I of the FDHA Ordinance of 24 March 2017 ([AS 2017 2439](https://fedlex.data.admin.ch/eli/oc/2017/227)), Annex No 1 of the O of 25 Oct. 2017 ([AS 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)), No II para. 1 of the O of 7 June 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)) and No I of the FDHA O of 3 July 2025, in force since 15 Aug. 2025 ([AS 2025 462](https://fedlex.data.admin.ch/eli/oc/2025/462)).
 
 ### 1 Guidelines on scientific integrity
 
@@ -1549,11 +1549,11 @@ The applicable guidelines are the code of conduct for scientific integrity, issu
 
 The applicable rules of Good Clinical Practice are:
 
-- 1\. for clinical trials of medicinal products and transplant products: the Guideline for Good Clinical Practice issued by the International Conference on Harmonisation, in the version dated 9 November 2016[^annex1-lvlu1-lvl2-1] (ICH Guideline);
+- 1\. for clinical trials of medicinal products and transplant products: the Guideline for Good Clinical Practice issued by the International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use, in the version dated 6 January 2025[^annex1-lvlu1-lvl2-1] (ICH-GCP E6 [R3] Guideline);
 - 2\. for clinical trials of products under Article 2*a* paragraph 2 TPA: Annexes VIII and X to Directive 93/42/EEC[^annex1-lvlu1-lvl2-2] and Annexes 6 and 7 to Directive 90/385/EEC[^annex1-lvlu1-lvl2-3] and the requirements specified in EN ISO 14155:2011[^annex1-lvlu1-lvl2-4]. The definition of serious adverse events in accordance with Article 42 is based on the Guidelines on Medical Devices (MEDDEV 2.7/3) of May 2015[^annex1-lvlu1-lvl2-5];
 - 3\. for clinical trials as specified in Chapters 3 and 4: the ICH Guideline *mutatis mutandis*.
 
-[^annex1-lvlu1-lvl2-1]: This Guideline can be consulted free of charge at the Federal Office of Public Health, CH-3003 Bern; it can also be accessed online at: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Medizin & Forschung &gt; Forschung am Menschen or at: [www.clinicaltrials.gov](http://www.clinicaltrials.gov) &gt; Work products &gt; ICH Guidelines &gt; Efficacy Guidelines.
+[^annex1-lvlu1-lvl2-1]: This Guideline can be accessed online at: [www.ich.org &gt; Work products &gt; ICH Guidelines &gt; Efficacy Guidelines &gt; E6 (R3) Good Clinical Practice](https://www.ich.org/page/efficacy-guidelines)..
 [^annex1-lvlu1-lvl2-2]: Council Directive 93/42/EEC of 14 June 1993 concerning medical devices, OJ L 169, 12.7.1993, p. 1; last amended by Directive 2007/47/EC, OJ L 247, 21.9.2007, p. 21.
 [^annex1-lvlu1-lvl2-3]: Council Directive 90/385/EEC of 20 June 1990 on the approximation of the laws of the Member States relating to active implantable medical devices, OJ L 189, 20.7.1990, p. 17; last amended by Directive 2007/47/EC, OJ L 247, 21.9.2007, p. 21.
 [^annex1-lvlu1-lvl2-4]: This standard can be consulted free of charge at the Federal Office of Public Health, CH‑3003 Bern and at the Swiss Agency for Therapeutic Products, CH-3003 Bern. It can also be purchased from the Swiss Association for Standardisation, Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
@@ -1629,7 +1629,7 @@ Annex 3[^t-5]
 - 1\.14 certificate of insurance or other proof of coverage for possible damage, including agreements on this matter between the sponsor, or a third party acting on the sponsor’s behalf, and the investigator;
 - 1\.15 any decisions or opinions of ethics committees abroad concerning the clinical trial, including any conditions imposed and the reasons given.
 
-[^annex3-lvlu1-lvl1-1]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^annex3-lvlu1-lvl1-1]: [SR 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^annex3-lvlu1-lvl1-2]: [AS 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
 
 ### 2 Application documents for Category B and C clinical trials of medicinal products, products under Article 2*a* paragraph 2 TPA or transplant products
@@ -1692,7 +1692,7 @@ Annex 3[^t-5]
 - 5\.1 Details of all relevant radiological protection aspects, and in particular a calculation or estimate of the effective dose, organ doses and any tumour doses;
 - 5\.2 the licences required under Article 28 of the Radiological Protection Act of 22 March 1991[^annex3-lvlu1-lvl5-1].
 
-[^annex3-lvlu1-lvl5-1]: [SR 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
+[^annex3-lvlu1-lvl5-1]: [SR 814.50](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9533)
 
 ### 6 Additional application documents for clinical trials which include accompanying examinations involving ionising radiation and require an opinion from the FOPH in accordance with Article 36*a* paragraph 4
 
@@ -1761,7 +1761,7 @@ Annex 4[^t-6]
 - 3\.7 any decisions of foreign medical device regulatory authorities concerning the clinical trial, including any conditions imposed and the reasons given;
 - 3\.8 information on any applications currently being reviewed by an ethics committee in Switzerland, and on any decisions of ethics committees in Switzerland.
 
-[^annex4-lvlu1-lvl3-1]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^annex4-lvlu1-lvl3-1]: [SR 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^annex4-lvlu1-lvl3-2]: [AS 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
 [^annex4-lvlu1-lvl3-3]: Council Directive 93/42/EEC of 14 June 1993 concerning medical devices, OJ L 169, 12.7.1993, p. 1; last amended by Directive 2007/47/EC, OJ L 247, 21.9.2007, p. 21.
 [^annex4-lvlu1-lvl3-4]: Council Directive 90/385/EEC of 20 June 1990 on the approximation of the laws of the Member States relating to active implantable medical devices, OJ L 189, 20.7.1990, p. 17; last amended by Directive 2007/47/EC, OJ L 247, 21.9.2007, p. 21.
@@ -1782,7 +1782,7 @@ Annex 4[^t-6]
   - d. for non-authorised radiopharmaceuticals or radiolabelled compounds: information on production and on the professional qualifications of the persons responsible,
   - e. the persons responsible for the use of the radiopharmaceutical in humans and their professional qualifications.
 
-[^annex4-lvlu1-lvl5-1]: [SR 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
+[^annex4-lvlu1-lvl5-1]: [SR 814.50](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9533)
 [^annex4-lvlu1-lvl5-2]: This form can be obtained [in French/German] from the Federal Office of Public Health, Radiological Protection Division, CH-3003 Bern; it can also be accessed online at: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Gesetze & Bewilligungen &gt; Gesuche & Bewilligungen &gt; Strahlenschutz: Bewilligungen, Voraussetzungen und Aufsicht.
 
 ### 6 Application documents for Category C clinical trials of transplantation of human organs, tissues and cells

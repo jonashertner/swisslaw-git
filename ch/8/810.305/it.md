@@ -4,11 +4,11 @@ title: "Ordinanza del 20 settembre 2013 sulle sperimentazioni cliniche ad eccezi
 short: OSRUm
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/643"
 language: it
-version: 2025-05-20
+version: 2025-08-15
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/643/20250520/it/xml/fedlex-data-admin-ch-eli-cc-2013-643-20250520-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20250520/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/643/20250815/it/xml/fedlex-data-admin-ch-eli-cc-2013-643-20250815-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20250815/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20250520/it"
 
 (Ordinanza sulle sperimentazioni cliniche, OSRUm)[^t-1]
 
-del 20 settembre 2013 (Stato 20 maggio 2025)
+del 20 settembre 2013 (Stato 15 agosto 2025)
 
 [^t-1]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 1° lug. 2020 sulle sperimentazioni cliniche con dispositivi medici, in vigore dal 26 mag. 2021 ([RU 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
 
@@ -27,9 +27,9 @@ vista la legge del 30 settembre 2011[^ingress-1] sulla ricerca umana (LRUm); vis
 
 ordina:
 
-[^ingress-1]: [RS 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
-[^ingress-2]: [RS 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
-[^ingress-3]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^ingress-1]: [RS 810.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9248)
+[^ingress-2]: [RS 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
+[^ingress-3]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
 ## Capitolo 1: Disposizioni generali
 
@@ -65,14 +65,14 @@ Non è oggetto della presente ordinanza lo svolgimento delle seguenti sperimenta
 
 [^1-1]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 1° lug. 2020 sulle sperimentazioni cliniche con dispositivi medici, in vigore dal 26 mag. 2021 ([RU 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
 [^1-2]: Nuovo testo giusta l’all. n. 2 dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
-[^1-3]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^1-3]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^1-4]: Espressione stralciata giusta l’all. 2 n. 2 dell’O del 4 mag. 2022, con effetto dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^1-5]: Nuova espressione giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^1-6]: Nuova espr. giusta l’all. n. 2 dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^1-7]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^1-8]: [RS 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
-[^1-9]: [RS 810.306](https://fedlex.data.admin.ch/eli/cc/2020/553)
-[^1-10]: [RS 810.213](https://fedlex.data.admin.ch/eli/cc/2007/283)
+[^1-8]: [RS 812.219](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40010)
+[^1-9]: [RS 810.306](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9251)
+[^1-10]: [RS 810.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9245)
 [^1-11]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 2
@@ -109,7 +109,7 @@ Ai sensi della presente ordinanza s’intende per:
 [^2-2]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^2-3]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^2-4]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^2-5]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^2-5]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^2-6]: Introdotta dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^2-7]: Introdotta dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^2-8]: Introdotta dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
@@ -224,7 +224,7 @@ Occorre garantire con misure appropriate che la persona interessata comprenda i 
 
 [^7-1]: Introdotta dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^7-2]: Introdotta dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° mar. 2025 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322); [582](https://fedlex.data.admin.ch/eli/oc/2024/582)).
-[^7-3]: [RS 810.301](https://fedlex.data.admin.ch/eli/cc/2013/642)
+[^7-3]: [RS 810.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9249)
 [^7-4]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 7a
@@ -243,7 +243,7 @@ Se durante lo svolgimento di esami genetici presintomatici, esami genetici prena
 <sup>2</sup> In caso di svolgimento di esami presintomatici (art. 3 lett. e LEGU) la persona interessata deve inoltre essere informata circa le condizioni alle quali gli istituti di assicurazione possono esigere la comunicazione di dati risultanti dagli esami genetici eseguiti (art. 43 e 44 LEGU).
 
 [^7a-1]: Introdotto dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^7a-2]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^7a-2]: [RS 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)
 
 #### Art. 7b
 
@@ -252,7 +252,7 @@ Se durante lo svolgimento di esami genetici presintomatici, esami genetici prena
 In caso di svolgimento di esami prenatali volti a valutare un rischio (art. 3 lett. h LEGU[^7b-2]) la donna incinta deve inoltre essere informata circa il contenuto dell’articolo 23 LEGU.
 
 [^7b-1]: Introdotto dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^7b-2]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^7b-2]: [RS 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)
 
 #### Art. 7c
 
@@ -347,7 +347,7 @@ Si può omettere l’anonimizzazione del materiale biologico e dei dati personal
 <sup>2</sup> È inoltre esonerato dalla responsabilità civile di cui all’articolo 19 capoverso 1 LRUm chi prova che un danno equivalente sarebbe potuto sopraggiungere anche se la persona danneggiata si fosse sottoposta a una terapia ordinaria per la cura della sua malattia.[^10-5]
 
 [^10-1]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
-[^10-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^10-2]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^10-3]: [RU 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
 [^10-4]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^10-5]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
@@ -361,8 +361,8 @@ La prescrizione delle pretese di risarcimento per danni imputabili all’utilizz
 - a. radiazioni ionizzanti è retta dall’articolo 40 della legge federale del 22 marzo 1991[^11-1] sulla radioprotezione;
 - b. organismi geneticamente modificati è retta dall’articolo 32 della legge del 21 marzo 2003[^11-2] sull’ingegneria genetica.
 
-[^11-1]: [RS 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
-[^11-2]: [RS 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
+[^11-1]: [RS 814.50](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9533)
+[^11-2]: [RS 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
 
 #### Art. 12
 
@@ -402,7 +402,7 @@ L’obbligo di garanzia può essere adempiuto mediante:
 
 <sup>4</sup> I capoversi 1–3 sono applicabili per analogia in caso di prestazione di garanzie equivalenti secondo l’articolo 13 capoverso 1 lettera b.
 
-[^14-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^14-1]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 ### Sezione 5: Sperimentazioni cliniche in situazioni d’emergenza
 
@@ -479,7 +479,7 @@ Chi conserva materiale biologico nell’ambito di una sperimentazione clinica de
 
 In caso di rapporti assicurativi, alle operazioni relative ai dati genetici raccolti nel quadro di sperimentazioni cliniche si applicano gli articoli 42–44 LEGU[^18a-1].
 
-[^18a-1]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^18a-1]: [RS 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)
 
 ## Capitolo 2: Procedura di autorizzazione e di notifica per sperimentazioni cliniche con medicamenti o prodotti ai sensi dell’articolo 2*a* capoverso 2 LATer o espianti standardizzati
 
@@ -554,7 +554,7 @@ Esse rientrano nella categoria C se:
 - c. l’utilizzazione del prodotto in esame è proibita in Svizzera.
 
 [^20-1]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
-[^20-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^20-2]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^20-3]: [RU 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
 
 #### Art. 21
@@ -575,7 +575,7 @@ Alle sperimentazioni cliniche con espianti standardizzati si applicano per analo
 
 <sup>4</sup> Alle sperimentazioni cliniche della terapia genica e alle sperimentazioni cliniche con organismi geneticamente modificati o patogeni si applicano per analogia le disposizioni della presente ordinanza relative alle sperimentazioni cliniche con medicamenti.
 
-[^22-1]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^22-1]: [RS 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
 
 #### Art. 23
 
@@ -895,7 +895,7 @@ La commissione d’etica rilascia l’autorizzazione se:
 <sup>6</sup> La commissione d’etica decide entro 45 giorni dal ricevimento della documentazione formalmente corretta. Comunica la sua decisione all’UFSP.
 
 [^36a-1]: Introdotto dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322); [582](https://fedlex.data.admin.ch/eli/oc/2024/582)).
-[^36a-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^36a-2]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 
 ### Sezione 5: Documentazione, notifiche e rapporto
 
@@ -1027,7 +1027,7 @@ Lo sperimentatore notifica alla commissione d’etica competente entro sette gio
 [^42-1]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 [^42-2]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^42-3]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^42-4]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^42-4]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^42-5]: [RU 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
 
 #### Art. 43
@@ -1065,11 +1065,11 @@ Lo sperimentatore notifica alla commissione d’etica competente entro sette gio
 
 [^44-1]: Nuovo testo giusta l’all. 11 n. 6 dell’O del 26 apr. 2017 sulla radioprotezione, in vigore dal 1° gen. 2018 ([RU 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
 [^44-2]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^44-3]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^44-3]: [RS 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
 [^44-4]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^44-5]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^44-6]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^44-7]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^44-7]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^44-8]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^44-9]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^44-10]: Introdotto dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
@@ -1111,7 +1111,7 @@ Il promotore può assumersi, al posto dello sperimentatore gli obblighi di notif
 
 <sup>5</sup> Swissmedic informa la commissione d’etica competente, nonché altre autorità competenti del Cantone e della Confederazione, in merito ai risultati dell’ispezione.
 
-[^46-1]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Il rimando è stato adeguato in applicazione dell'art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)**)** con effetto dal 1° gen. 2019.
+[^46-1]: [RS 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361). Il rimando è stato adeguato in applicazione dell'art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)**)** con effetto dal 1° gen. 2019.
 
 #### Art. 47
 
@@ -1242,7 +1242,7 @@ Sono considerate modifiche essenziali:
 
 <sup>3</sup> Per le sperimentazioni cliniche di trapianti di tessuti e cellule embrionali o fetali sono inoltre applicabili gli articoli 35, 36 e 38 dell’ordinanza del 16 marzo 2007 sui trapianti.
 
-[^56-1]: [RS 810.211](https://fedlex.data.admin.ch/eli/cc/2007/280)
+[^56-1]: [RS 810.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9240)
 
 ### Sezione 4: Documentazione, notifiche e rapporto
 
@@ -1467,7 +1467,7 @@ Il promotore è responsabile dell’esattezza e della completezza dei dati regis
 <sup>2</sup> Il portale permette segnatamente di collegare i dati da iscrivere di cui agli articoli 64 e 65*a*, nonché agli articoli 41 e 42 OSRUm-Dmed[^67-2], e di pubblicare questi dati nonché altri dati presenti nel sistema d’informazione dei Cantoni di cui all’allegato 5.
 
 [^67-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° mar. 2025 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^67-2]: [RS 810.306](https://fedlex.data.admin.ch/eli/cc/2020/553)
+[^67-2]: [RS 810.306](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9251)
 
 ## Capitolo 6: Disposizioni finali
 
@@ -1511,7 +1511,7 @@ La modifica di altri atti normativi è disciplinata nell’allegato 6.
 
 <sup>5</sup> La verifica delle modifiche essenziali è retta dal nuovo diritto.
 
-[^71-1]: [RS 810.308](https://fedlex.data.admin.ch/eli/cc/2013/644)
+[^71-1]: [RS 810.308](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9252)
 
 #### Art. 72
 
@@ -1545,7 +1545,7 @@ Allegato 1[^t-2]
 
 ## Regole e classificazione
 
-[^t-2]: Aggiornato dalla cifra I dell’O del DFI del 24 mar. 2017 ([RU 2017 2439](https://fedlex.data.admin.ch/eli/oc/2017/227)), dall’all. n. 1 dell’O del 25 ott. 2017 ([RU 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)) e dalla cifra II cpv. 1 dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^t-2]: Aggiornato dalla cifra I dell’O del DFI del 24 mar. 2017 ([RU 2017 2439](https://fedlex.data.admin.ch/eli/oc/2017/227)), dall’all. n. 1 dell’O del 25 ott. 2017 ([RU 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)), dalla cifra II cpv. 1 dell’O del 7 giu. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)) e dalla cifra I dell’O del DFI del 3 lug. 2025, in vigore dal 15 ago. 2025 (RU **202****5** 462).
 
 ### 1. Regole in materia di integrità scientifica
 
@@ -1557,11 +1557,11 @@ Allegato 1[^t-2]
 
 Quali regole della Buona prassi clinica sono applicabili:
 
-- 1\. per le sperimentazioni cliniche con medicamenti ed espianti standardizzati, la direttiva sulla Buona prassi clinica della Conferenza internazionale di armonizzazione nella versione del 9 novembre 2016[^annex1-lvlu1-lvl2-1] (Linea guida ICH);
+- 1\. per le sperimentazioni cliniche con medicamenti ed espianti standardizzati, la direttiva sulla Buona prassi clinica del Consiglio internazionale di armonizzazione dei requisiti tecnici per i farmaci a uso umano nella versione del 6 gennaio 2025[^annex1-lvlu1-lvl2-1] (Direttiva ICH GCP E6 [R3]);
 - 2\. per le sperimentazioni cliniche con prodotti ai sensi dell’articolo 2*a* capoverso 2 LATer, gli allegati VIII e X della direttiva 93/42/CEE[^annex1-lvlu1-lvl2-2] nonché gli allegati 6 e 7 della direttiva 90/385/CEE[^annex1-lvlu1-lvl2-3] e la concretizzazione mediante la norma EN ISO 14155: 2011[^annex1-lvlu1-lvl2-4]. La definizione di *«Serious Adverse Event»* di cui all’articolo 42 è retta dalle *Guidelines on Medical Devices* (MEDDEV 2.7/3) del maggio 2015[^annex1-lvlu1-lvl2-5];
 - 3\. per le sperimentazioni cliniche di cui ai capitoli 3 e 4, per analogia la Linea guida ICH.
 
-[^annex1-lvlu1-lvl2-1]: Il testo della direttiva può essere consultato gratuitamente presso l’Ufficio federale della sanità pubblica, 3003 Berna, o scaricato dai siti [www.bag.admin.ch](https://www.bag.admin.ch/bag/de/home.html) &gt; Medicina & ricerca &gt; Ricerca sull’essere umano e [www.ich.org](http://www.ich.org) &gt; Work Products &gt; ICH Guidelines &gt; Efficacy Guidelines.
+[^annex1-lvlu1-lvl2-1]: Il testo della direttiva può essere scaricato gratuitamente nel sito [www.ich.org](https://www.ich.org/) &gt; Work Products &gt; ICH Guidelines &gt; Efficacy Guideline &gt; E6 (R3) Good Clinical Practice.
 [^annex1-lvlu1-lvl2-2]: Direttiva 93/42/CEE del Consiglio, del 14 giugno 1993, concernente i dispositivi medici, GU L 169 del 12.7.1993, pag. 1; modificata da ultimo dalla direttiva 2007/47/CE, GU L 247 del 21.9.2007, pag. 21.
 [^annex1-lvlu1-lvl2-3]: Direttiva 90/385/CEE del Consiglio, del 20 giugno 1990, per il ravvicinamento delle legislazioni degli Stati membri relative ai dispositivi medici impiantabili attivi, GU L 189 del 20.7.1990, pag. 17; modificata da ultimo dalla direttiva 2007/47/CE, GU L 247 del 21.9.2007, pag. 21.
 [^annex1-lvlu1-lvl2-4]: Questa norma può essere consultata gratuitamente presso l’Ufficio federale della sanità pubblica, 3003 Berna, e Swissmedic, 3003 Berna. Può essere inoltre ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/de/)
@@ -1637,7 +1637,7 @@ Allegato 3[^t-5]
 - 1\.14 certificato d’assicurazione o altro attestato di garanzia per eventuali danni, compresi i relativi accordi tra il promotore o terzi da esso incaricate e lo sperimentatore;
 - 1\.15 eventuali decisioni o pareri delle commissioni d’etica all’estero in merito alla sperimentazione clinica, compresi eventuali oneri e relativa motivazione.
 
-[^annex3-lvlu1-lvl1-1]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^annex3-lvlu1-lvl1-1]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^annex3-lvlu1-lvl1-2]: [RU 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
 
 ### 2 Documenti richiesti per le sperimentazioni cliniche delle categorie B e C con medicamenti, prodotti ai sensi dell’articolo 2*a* capoverso 2 LATer o espianti standardizzati
@@ -1700,7 +1700,7 @@ Allegato 3[^t-5]
 - 5\.1 Indicazioni relative ad aspetti essenziali della radioprotezione, in particolare un calcolo o una stima della dose efficace di radiazioni, delle dosi relative agli organi e delle dosi tumorali;
 - 5\.2 le licenze richieste conformemente all’articolo 28 della legge del 22 marzo 1991[^annex3-lvlu1-lvl5-1] sulla radioprotezione.
 
-[^annex3-lvlu1-lvl5-1]: [RS 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
+[^annex3-lvlu1-lvl5-1]: [RS 814.50](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9533)
 
 ### 6. Ulteriori documenti per le sperimentazioni cliniche che comprendono esami di accompagnamento con radiazioni ionizzanti e richiedono un parere dell’UFSP conformemente all’articolo 36*a* capoverso 4
 
@@ -1769,7 +1769,7 @@ Allegato 4[^t-6]
 - 3\.7 eventuali decisioni sulla sperimentazione clinica delle autorità di vigilanza sui medicamenti di altri Paesi, compresi eventuali oneri e la relativa motivazione;
 - 3\.8 informazioni su eventuali domande pendenti presso le commissioni d’etica in Svizzera e su eventuali decisioni delle stesse.
 
-[^annex4-lvlu1-lvl3-1]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^annex4-lvlu1-lvl3-1]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^annex4-lvlu1-lvl3-2]: [RU 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
 [^annex4-lvlu1-lvl3-3]: Direttiva 93/42/CEE del Consiglio del 14 giugno 1993 concernente i dispositivi medici, GU L 169 del 12.7.1993, pag. 1; modificata dalla direttiva 2007/47/CE, GU L 247 del 21.9.2007, pag. 21.
 [^annex4-lvlu1-lvl3-4]: Direttiva 90/385/CEE del Consiglio del 20 giugno 1990 per il ravvicinamento delle legislazioni degli Stati membri relative ai dispositivi medici impiantabili attivi, GU L 189 del 20.7.1990, pag. 17; modificata dalla direttiva 2007/47/CE, GU L 247 del 21.9.2007, pag. 21.
@@ -1790,7 +1790,7 @@ Allegato 4[^t-6]
   - d. per i radiofarmaci non omologati o le sostanze marcate radioattivamente: le indicazioni sulla fabbricazione e sulle qualifiche professionali delle persone responsabili,
   - e. l’indicazione delle persone responsabili dell’impiego del radiofarmaco sull’essere umano nonché le loro qualifiche professionali.
 
-[^annex4-lvlu1-lvl5-1]: [RS 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
+[^annex4-lvlu1-lvl5-1]: [RS 814.50](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9533)
 [^annex4-lvlu1-lvl5-2]: Il modulo può essere ottenuto presso l’Ufficio federale della sanità pubblica, divisione Radioprotezione, 3003 Berna, oppure scaricato dal sito [www.ufsp.admin.ch](https://www.bag.admin.ch/bag/it/home/gesetze-und-bewilligungen/gesuche-bewilligungen/bewilligungen-aufsicht-im-strahlenschutz.html) &gt; Leggi e autorizzazioni &gt; Domande & autorizzazioni &gt; Radioprotezione: Licenze, condizioni e supervisione.
 
 ### 6 Documenti relativi a sperimentazioni cliniche della categoria C di trapianti di organi, tessuti e cellule di origine umana

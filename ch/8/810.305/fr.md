@@ -4,11 +4,11 @@ title: "Ordonnance du 20 septembre 2013 sur les essais cliniques hors essais cli
 short: OClin
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/643"
 language: fr
-version: 2025-05-20
+version: 2025-08-15
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/643/20250520/fr/xml/fedlex-data-admin-ch-eli-cc-2013-643-20250520-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20250520/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/643/20250815/fr/xml/fedlex-data-admin-ch-eli-cc-2013-643-20250815-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20250815/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20250520/fr"
 
 (Ordonnance sur les essais cliniques, OClin)[^t-1]
 
-du 20 septembre 2013 (État le 20 mai 2025)
+du 20 septembre 2013 (État le 15 août 2025)
 
 [^t-1]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 1<sup>er</sup> juil. 2020 sur les essais cliniques de dispositifs médicaux, en vigueur depuis le 26 mai 2021 ([RO 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
 
@@ -27,9 +27,9 @@ vu la loi du 30 septembre 2011 relative à la recherche sur l’être humain (LR
 
 arrête:
 
-[^ingress-1]: [RS 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
-[^ingress-2]: [RS 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
-[^ingress-3]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^ingress-1]: [RS 810.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9248)
+[^ingress-2]: [RS 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
+[^ingress-3]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
 ## Chapitre 1 Dispositions générales
 
@@ -65,15 +65,15 @@ Sont exclues du champ d’application de la présente ordonnance:
 
 [^1-1]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 1<sup>er</sup> juil. 2020 sur les essais cliniques de dispositifs médicaux, en vigueur depuis le 26 mai 2021 ([RO 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
 [^1-2]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 19 mai 2021, en vigueur depuis le 26 mai 2021 ([RO 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
-[^1-3]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^1-3]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^1-4]: Expression abrogée par l’annexe 2 ch. 2 de l’O du 4 mai 2022, avec effet au 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)). Il a été tenu compte de cette mod. dans tout le texte.
 [^1-5]: Nouvelle expression selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)). Il a été tenu compte de cette mod. dans tout le texte.
 [^1-6]: Nouvelle expression selon l’annexe ch. 2 de l’O du 19 mai 2021, en vigueur depuis le 26 mai 2021 ([RO 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)). Il a été tenu compte de cette mod. dans tout le texte.
 [^1-7]: Nouvelle expression selon l’annexe 2 ch. 2 al. 2 de l’O du 1<sup>er</sup> juil. 2020 sur les essais cliniques de dispositifs médicaux, en vigueur depuis le 26 mai 2021 ([RO 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)). Il a été tenu compte de cette mod. dans tout le texte.
 [^1-8]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^1-9]: [RS 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
-[^1-10]: [RS 810.306](https://fedlex.data.admin.ch/eli/cc/2020/553)
-[^1-11]: [RS 810.213](https://fedlex.data.admin.ch/eli/cc/2007/283)
+[^1-9]: [RS 812.219](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40010)
+[^1-10]: [RS 810.306](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9251)
+[^1-11]: [RS 810.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9245)
 [^1-12]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 2
@@ -110,7 +110,7 @@ Dans la présente ordonnance, on entend par:
 [^2-2]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^2-3]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^2-4]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^2-5]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^2-5]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^2-6]: Introduite par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^2-7]: Introduite par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^2-8]: Introduite par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
@@ -225,7 +225,7 @@ Les mesures appropriées doivent être prises afin de s’assurer que la personn
 
 [^7-1]: Introduite par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^7-2]: Introduite par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322), [582](https://fedlex.data.admin.ch/eli/oc/2024/582)).
-[^7-3]: [RS 810.301](https://fedlex.data.admin.ch/eli/cc/2013/642)
+[^7-3]: [RS 810.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9249)
 [^7-4]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 7a
@@ -244,7 +244,7 @@ Lorsque des analyses génétiques présymptomatiques, des analyses génétiques 
 <sup>2</sup> En cas d’analyses présymptomatiques (art. 3, let. e, LAGH), la personne concernée doit être également informée des conditions auxquelles les institutions d’assurance peuvent demander la communication de données provenant des analyses génétiques réalisées (art. 43 et 44 LAGH).
 
 [^7a-1]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^7a-2]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^7a-2]: [RS 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)
 
 #### Art. 7b
 
@@ -253,7 +253,7 @@ Lorsque des analyses génétiques présymptomatiques, des analyses génétiques 
 En cas d’analyses prénatales visant à évaluer un risque (art. 3, let. h, LAGH[^7b-2]), la femme enceinte doit également recevoir les informations mentionnées à l’art. 23 LAGH.
 
 [^7b-1]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^7b-2]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^7b-2]: [RS 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)
 
 #### Art. 7c
 
@@ -349,7 +349,7 @@ Est libéré de la responsabilité liée à l’essai clinique au sens de l’ar
 
 [^10-1]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 [^10-2]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
-[^10-3]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^10-3]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^10-4]: [RO 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
 [^10-5]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^10-6]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
@@ -364,8 +364,8 @@ La prescription pour le droit à l’indemnisation des dommages dus à:
 - b. l’utilisation d’organismes génétiquement modifiés est réglée par l’art. 32 de la loi du 21 mars 2003 sur le génie génétique[^11-3].
 
 [^11-1]: Nouvelle expression selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^11-2]: [RS 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
-[^11-3]: [RS 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
+[^11-2]: [RS 814.50](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9533)
+[^11-3]: [RS 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
 
 #### Art. 12
 
@@ -405,7 +405,7 @@ L’obligation de garantie peut être remplie:
 
 <sup>4</sup> Les al. 1 à 3 sont applicables par analogie à la production de sûretés équivalentes au sens de l’art. 13, al. 1, let. b.
 
-[^14-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^14-1]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 ### Section 5 Essais cliniques en situation d’urgence
 
@@ -482,7 +482,7 @@ Quiconque conserve du matériel biologique dans le cadre d’un essai clinique d
 
 Dans le cadre de rapports d’assurance, l’utilisation de données génétiques obtenues lors d’essais cliniques est régie par les art. 42 à 44 LAGH[^18a-1].
 
-[^18a-1]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^18a-1]: [RS 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)
 
 ## Chapitre 2 Procédures d’autorisation et de déclaration pour les essais cliniques de médicaments, de produits au sens de l’art. 2*a*, al. 2, LPTh ou de transplants standardisés
 
@@ -557,7 +557,7 @@ Ils sont de catégorie C dans les cas suivants:
 - c. l’utilisation du produit à analyser est interdite en Suisse.
 
 [^20-1]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
-[^20-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^20-2]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^20-3]: [RO 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
 
 #### Art. 21
@@ -578,7 +578,7 @@ Les dispositions de la présente ordonnance relatives aux essais cliniques de m�
 
 <sup>4</sup> Les dispositions de la présente ordonnance relatives aux essais cliniques de médicaments sont applicables par analogie aux essais cliniques de thérapie génique et aux essais cliniques avec des organismes génétiquement modifiés ou pathogènes.
 
-[^22-1]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^22-1]: [RS 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
 
 #### Art. 23
 
@@ -778,13 +778,11 @@ Pour les essais cliniques de produits au sens de l’art. 2*a*, al. 2, LPTh, il 
 
 <sup>2</sup> Il rend une décision dans les 30 jours à compter de la confirmation de la réception du dossier conforme aux exigences formelles.
 
-<sup>3</sup> Si le médicament ou le produit au sens de l’art. 2*a*, al. 2, LPTh[^33-1] est utilisé pour la première fois sur des personnes ou s’il est fabriqué selon un nouveau procédé, il peut prolonger ce délai de 30 jours au plus. Il communique cette prolongation au promoteur.
+<sup>3</sup> Si le médicament ou le produit au sens de l’art. 2*a*, al. 2, LPTh est utilisé pour la première fois sur des personnes ou s’il est fabriqué selon un nouveau procédé, il peut prolonger ce délai de 30 jours au plus. Il communique cette prolongation au promoteur.
 
 <sup>4</sup> Si Swissmedic exige des informations supplémentaires au sens de l’art. 31, al. 2, le délai est suspendu jusqu’à la réception de ces documents.
 
 <sup>5</sup> Swissmedic communique sa décision à la commission d’éthique compétente et aux autres autorités cantonales compétentes.
-
-[^33-1]: Fussnotentext
 
 #### Art. 34
 
@@ -902,7 +900,7 @@ La commission d’éthique accorde l’autorisation:
 <sup>6</sup> Elle rend sa décision dans les 45 jours à compter de la confirmation de la réception du dossier de demande conforme aux exigences formelles. Elle communique sa décision à l’OFSP.
 
 [^36a-1]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322), [582](https://fedlex.data.admin.ch/eli/oc/2024/582)).
-[^36a-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^36a-2]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 
 ### Section 5 Documentation, déclarations et rapports
 
@@ -1034,7 +1032,7 @@ L’investigateur déclare dans les sept jours à la commission d’éthique com
 [^42-1]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 [^42-2]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^42-3]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^42-4]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^42-4]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^42-5]: [RO 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
 
 #### Art. 43
@@ -1072,11 +1070,11 @@ L’investigateur déclare dans les sept jours à la commission d’éthique com
 
 [^44-1]: Nouvelle teneur selon l’annexe 11 ch. 6 de l’O du 26 avr. 2017 sur la radioprotection, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
 [^44-2]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^44-3]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^44-3]: [RS 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
 [^44-4]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^44-5]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^44-6]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^44-7]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^44-7]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^44-8]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^44-9]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^44-10]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
@@ -1118,7 +1116,7 @@ Le promoteur peut assumer en lieu et place de l’investigateur les obligations 
 
 <sup>5</sup> Swissmedic informe la commission d’éthique et les autorités cantonales et fédérales compétentes des résultats de l’inspection.
 
-[^46-1]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Le renvoi a été adapté en application de l’art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> janv. 2019.
+[^46-1]: [RS 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361). Le renvoi a été adapté en application de l’art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2019.
 [^46-2]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 47
@@ -1250,7 +1248,7 @@ Sont considérées comme des modifications essentielles:
 
 <sup>3</sup> Au surplus, les art. 35, 36 et 38 de l’ordonnance sur la transplantation sont applicables aux essais cliniques de transplantation de tissus ou de cellules issus d’embryons ou de fœtus.
 
-[^56-1]: [RS 810.211](https://fedlex.data.admin.ch/eli/cc/2007/280)
+[^56-1]: [RS 810.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9240)
 
 ### Section 4 Documentation, déclarations et rapports
 
@@ -1475,7 +1473,7 @@ Le promoteur est responsable de l’exactitude et de l’intégralité des donn�
 <sup>2</sup> Le portail permet notamment de relier les données à enregistrer en vertu des art. 64 et 65*a*, ainsi que des art. 41 et 42 OClin‑Dim[^67-2], et de publier ces mêmes données ainsi que d’autres données provenant du système d’information des cantons, conformément à l’annexe 5.
 
 [^67-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^67-2]: [RS 810.306](https://fedlex.data.admin.ch/eli/cc/2020/553)
+[^67-2]: [RS 810.306](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9251)
 
 ## Chapitre 6 Dispositions finales
 
@@ -1519,7 +1517,7 @@ La modification d’autres actes est réglée dans l’annexe 6.
 
 <sup>5</sup> L’examen des modifications essentielles est régi par le nouveau droit.
 
-[^71-1]: [RS 810.308](https://fedlex.data.admin.ch/eli/cc/2013/644)
+[^71-1]: [RS 810.308](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9252)
 
 #### Art. 72
 
@@ -1553,7 +1551,7 @@ Annexe 1[^t-2]
 
 ## Règles et classification
 
-[^t-2]: Mise à jour par le ch. I de l’O du DFI du 24 mars 2017 ([RO 2017 2439](https://fedlex.data.admin.ch/eli/oc/2017/227)), l’annexe ch. 1 de l’O du 25 oct. 2017 ([RO 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)) et le ch. II al. 1 de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^t-2]: Mise à jour par le ch. I de l’O du DFI du 24 mars 2017 ([RO 2017 2439](https://fedlex.data.admin.ch/eli/oc/2017/227)), l’annexe ch. 1 de l’O du 25 oct. 2017 ([RO 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)), le ch. II al. 1 de l’O du 7 juin 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)) et le ch. I de l’O du DFI du 3 juil. 2025, en vigueur depuis le 15 août 2025 ([RO 2025 462](https://fedlex.data.admin.ch/eli/oc/2025/462)).
 
 ### 1. Règles relatives à l’intégrité scientifique
 
@@ -1565,11 +1563,11 @@ Le code d’intégrité scientifique des Académies suisses des sciences est app
 
 Les règles de bonnes pratiques cliniques suivantes sont applicables:
 
-- 1\. pour les essais cliniques de médicaments et de transplants standardisés, la directive de la Conférence internationale sur l’harmonisation relative aux bonnes pratiques cliniques, dans sa version du 9 novembre 2016 (directive ICH)[^annex1-lvlu1-lvl2-1];
+- 1\. pour les essais cliniques de médicaments et de transplants standardisés, la directive du Conseil international d’harmonisation des exigences techniques pour les médicaments à usage humain relative aux bonnes pratiques cliniques, dans sa version du 6 janvier 2025 (Directive ICH GCP E6 [R3])[^annex1-lvlu1-lvl2-1];
 - 2\. pour les essais cliniques de produits au sens de l’art. 2*a*, al. 2, LPTh, les annexes VIII et X de la directive 93/42/CEE[^annex1-lvlu1-lvl2-2] et les annexes 6 et 7 de la directive 90/385/CEE[^annex1-lvlu1-lvl2-3] concrétisée par la norme EN ISO 14155: 2011[^annex1-lvlu1-lvl2-4]; la définition de l’événement indésirable grave (*Serious Adverse Event*) visé à l’art. 42 est régie par les *Guidelines on Medical Devices* (MEDDEV 2.7/3) de mai 2015[^annex1-lvlu1-lvl2-5];
 - 3\. pour les essais cliniques au sens des chapitres 3 et 4, la directive ICH est applicable par analogie.
 
-[^annex1-lvlu1-lvl2-1]: Cette directive peut être consultée gratuitement auprès de l’Office fédéral de la santé publique, 3003 Berne, ou sur les sites suivants: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Médecine & recherche &gt; Recherche sur l’être humain et [www.ich.org](http://www.ich.org) &gt; work products &gt; ICH Guidelines &gt; Efficacy Guidelines.
+[^annex1-lvlu1-lvl2-1]: Cette directive peut être consultée gratuitement à l’adresse suivante: [www.ich.org &gt; Work products &gt; ICH Guidelines &gt; Efficacy Guidelines &gt; E6 (R3) Good Clinical Practice](http://www.ich.org/page/efficacy-guidelines).
 [^annex1-lvlu1-lvl2-2]: Directive 93/42/CEE du Conseil, du 14 juin 1993, relative aux dispositifs médicaux, JO L 169 du 12.7.1993, p. 1, modifiée en dernier lieu par la directive 2007/47/CE, JO L 247 du 21.9.2007, p. 21.
 [^annex1-lvlu1-lvl2-3]: Directive 90/385/CEE du Conseil, du 20 juin 1990, concernant le rapprochement des législations des États membres relatives aux dispositifs médicaux implantables actifs, JO L 189 du 20.7.1990, p. 17, modifiée en dernier lieu par la directive 2007/47/CE, JO L 247 du 21.9.2007, p. 21.
 [^annex1-lvlu1-lvl2-4]: Cette norme peut être consultée gratuitement auprès de l’Office fédéral de la santé publique, 3003 Berne ou auprès de Swissmedic, 3003 Berne. Elle peut être obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch/fr/)
@@ -1645,7 +1643,7 @@ Annexe 3[^t-5]
 - 1\.14 certificat d’assurance ou autre attestation de garantie d’éventuels dommages, y compris les accords qui s’y rapportent entre le promoteur, ou les tiers qu’il a mandatés, et l’investigateur;
 - 1\.15 décisions ou avis éventuels rendus sur l’essai clinique par des commissions d’éthique à l’étranger, y compris les éventuelles objections et leurs motivations.
 
-[^annex3-lvlu1-lvl1-1]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^annex3-lvlu1-lvl1-1]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^annex3-lvlu1-lvl1-2]: [RO 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
 
 ### 2 Documents requis pour les essais cliniques des catégories B et C de médicaments, de produits au sens de l’art. 2*a*, al. 2, LPTh ou de transplants standardisés
@@ -1668,7 +1666,7 @@ Annexe 3[^t-5]
 - 2\.16 pour les essais cliniques de thérapie génique, les données mentionnées dans l’annexe 4, ch. 1;
 - 2\.17 décisions ou avis éventuels rendus sur l’essai clinique par des commissions d’éthique à l’étranger, y compris les éventuelles objections et leurs motivations.
 
-[^annex3-lvlu1-lvl2-1]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^annex3-lvlu1-lvl2-1]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^annex3-lvlu1-lvl2-2]: [RO 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
 
 ### 3 Documents requis pour les essais cliniques de transplantation et les essais cliniques sans médicament ou produit au sens de l’art. 2*a*, al. 2, LPTh
@@ -1711,7 +1709,7 @@ Annexe 3[^t-5]
 - 5\.1 Données sur les aspects essentiels de la radioprotection, en particulier un calcul ou une estimation de la dose efficace, des doses délivrées aux organes et des éventuelles doses tumorales;
 - 5\.2 les autorisations nécessaires en vertu de l’art. 28 de la loi du 22 mars 1991 sur la radioprotection[^annex3-lvlu1-lvl5-1].
 
-[^annex3-lvlu1-lvl5-1]: [RS 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
+[^annex3-lvlu1-lvl5-1]: [RS 814.50](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9533)
 
 ### 6. Documents supplémentaires requis pour les essais cliniques comportant des examens complémentaires au moyen de rayonnements ionisants et nécessitant un avis de l’OFSP selon l’art. 36*a*, al. 4
 
@@ -1780,7 +1778,7 @@ Annexe 4[^t-6]
 - 3\.7 éventuelles décisions relatives à l’essai clinique prises par des autorités chargées de la surveillance des médicaments dans d’autres pays, incluant d’éventuelles conditions et leur motivation;
 - 3\.8 informations sur d’éventuelles demandes pendantes devant une commisson d’éthique en Suisse, et sur d’éventuelles décisions de commissions d’éthique en Suisse.
 
-[^annex4-lvlu1-lvl3-1]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^annex4-lvlu1-lvl3-1]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^annex4-lvlu1-lvl3-2]: [RO 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
 [^annex4-lvlu1-lvl3-3]: Directive 93/42/CEE du Conseil du 14 juin 1993 relative aux dispositifs médicaux, JO L 169 du 12.7.1993, p. 1; modifiée en dernier lieu par la directive 2007/47/CEE, JO L 247 du 21.9.2007, p. 21.
 [^annex4-lvlu1-lvl3-4]: Directive 90/385/CEE du Conseil du 20 juin 1990 concernant le rapprochement des législations des Etats membres relatives aux dispositifs médicaux implantables actifs, JO L 189 du 20.7.1990, p. 17; modifiée en dernier lieu par la directive 2007/47/CEE, JO L 247 du 21.9.2007, p. 21.
@@ -1801,7 +1799,7 @@ Annexe 4[^t-6]
   - d. pour les produits radiopharmaceutiques ou les substances radiomarquées non autorisés, les données sur le procédé de fabrication ainsi que des informations sur les qualifications professionnelles des personnes responsables,
   - e. les informations concernant les personnes responsables de l’utilisation du produit radiopharmaceutique sur l’être humain ainsi que leurs qualifications professionnelles.
 
-[^annex4-lvlu1-lvl5-1]: [RS 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
+[^annex4-lvlu1-lvl5-1]: [RS 814.50](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9533)
 [^annex4-lvlu1-lvl5-2]: Ce formulaire peut être obtenu auprès de l’Office fédéral de la santé publique, division Radioprotection, 3003 Berne, ou être consulté auprès de l’office à l’adresse suivante: [www.ofsp.admin.ch](https://www.bag.admin.ch/bag/fr/home/gesetze-und-bewilligungen/gesuche-bewilligungen/bewilligungen-aufsicht-im-strahlenschutz.html) &gt; Lois & autorisations &gt; Demandes & autorisations &gt; Radioprotection: Autorisations, conditions et surveillance.
 
 ### 6 Documents requis pour les essais cliniques de catégorie C de transplantation d’organes, de tissus ou de cellules d’origine humaine
