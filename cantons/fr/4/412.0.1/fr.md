@@ -4,13 +4,12 @@ number: "412.0.1"
 title: "Loi sur l'enseignement secondaire supérieur"
 short: LESS
 language: fr
-version: 2025-08-01
-valid_until: 2025-08-14
-version_adopted: 2023-06-29
+version: 2025-08-15
+version_adopted: 2025-08-06
 adopted: 2018-12-11
 in_force: 2019-08-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/412.0.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8213/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8489/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Enseignement secondaire supérieur - L
 
 (LESS)
 
-du 11.12.2018 (version entrée en vigueur le 01.08.2025)
+du 11.12.2018 (version entrée en vigueur le 15.08.2025)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -166,9 +165,11 @@ Décrète:
 
 <sup>1</sup> La formation commerciale en école à plein temps a pour but d'offrir une formation professionnelle commerciale et de préparer aux études tertiaires dans ce domaine.
 
-<sup>2</sup> Moyennant notamment l'accomplissement d'un stage de longue durée, elle conduit au certificat fédéral de capacité et au certificat fédéral de maturité professionnelle, au sens de la loi fédérale sur la formation professionnelle.
+<sup>2</sup> Moyennant notamment l'accomplissement d'un stage de longue durée, elle conduit au certificat fédéral de capacité et au certificat fédéral de maturité professionnelle, au sens de la loi fédérale sur la formation professionnelle[^11-1].
 
 <sup>3</sup> Le Conseil d'Etat détermine les écoles du degré secondaire supérieur où se font ces études et règle la formation commerciale en école à plein temps.
+
+[^11-1]: RS [412.10](https://db.clex.ch/link/Bund/412.10/fr)
 
 #### Art. 12
 
@@ -176,9 +177,9 @@ Décrète:
 
 <sup>1</sup> La formation en école de culture générale a pour but de préparer à une formation dans une école supérieure, dans une haute école spécialisée, dans une haute école pédagogique ou au cursus de formation à l'enseignement primaire à l'Université de Fribourg.
 
-<sup>2</sup> Cette formation conduit au certificat de culture générale ainsi qu'au certificat de maturité spécialisée.
+<sup>2</sup> Cette formation conduit au certificat d'école de culture générale ainsi qu'au certificat de maturité spécialisée.
 
-<sup>3</sup> Le Conseil d'Etat détermine les sites des écoles de culture générale ainsi que les domaines professionnels dans lesquels un certificat de culture générale ou un certificat de maturité spécialisée peuvent être proposés et règle la formation en école de culture générale.
+<sup>3</sup> Le Conseil d'Etat détermine les sites des écoles de culture générale ainsi que les domaines professionnels dans lesquels un certificat d'école de culture générale ou un certificat de maturité spécialisée peuvent être proposés et règle la formation en école de culture générale.
 
 #### Art. 13
 
@@ -471,7 +472,9 @@ Décrète:
 
 <sup>3a</sup> Le numéro AVS (NAVS 13) peut également être transmis à des fins d'identification à la Fédération des services d'identité de l'espace suisse de formation mandatée par la Conférence suisse des directeurs cantonaux de l'instruction publique (CDIP). Le Conseil d'Etat édicte les dispositions d'exécution nécessaires.
 
-<sup>4</sup> Les données personnelles peuvent être rendues accessibles au moyen d'une procédure d'appel électronique au sens de l'article 14 al. 4 de la loi du 12 octobre 2023 sur la protection des données. Le Conseil d'Etat en fixe les modalités d'application.
+<sup>4</sup> Les données personnelles peuvent être rendues accessibles au moyen d'une procédure d'appel électronique au sens de l'article 14 al. 4 de la loi du 12 octobre 2023 sur la protection des données[^43-1]. Le Conseil d'Etat en fixe les modalités d'application.
+
+[^43-1]: RSF [17.1](https://bdlf.fr.ch/data/17.1/fr)
 
 #### Art. 44
 
@@ -537,7 +540,9 @@ Décrète:
 
 <sup>3</sup> Le retrait de l'autorisation d'enseigner peut être communiqué à la CDIP, en vue d'une inscription sur la liste intercantonale des enseignants et enseignantes auxquels a été retiré le droit d'enseigner.
 
-<sup>4</sup> La procédure d'inscription et de radiation, la voie de droit et l'accès à la liste sont réglés par l'Accord intercantonal sur la reconnaissance des diplômes de fin d'études.
+<sup>4</sup> La procédure d'inscription et de radiation, la voie de droit et l'accès à la liste sont réglés par l'Accord intercantonal sur la reconnaissance des diplômes de fin d'études[^49-1].
+
+[^49-1]: RSF [410.4](https://bdlf.fr.ch/data/410.4/fr)
 
 #### Art. 50
 

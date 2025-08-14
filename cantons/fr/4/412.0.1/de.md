@@ -4,13 +4,12 @@ number: "412.0.1"
 title: Gesetz über den Mittelschulunterricht
 short: MSG
 language: de
-version: 2025-08-01
-valid_until: 2025-08-14
-version_adopted: 2023-06-29
+version: 2025-08-15
+version_adopted: 2025-08-06
 adopted: 2018-12-11
 in_force: 2019-08-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/412.0.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/8213/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8489/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Mittelschulunterricht - G
 
 (MSG)
 
-vom 11.12.2018 (Fassung in Kraft getreten am 01.08.2025)
+vom 11.12.2018 (Fassung in Kraft getreten am 15.08.2025)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -166,9 +165,11 @@ beschliesst:
 
 <sup>1</sup> Die vollzeitliche Handelsschulausbildung hat zum Ziel, eine kaufmännische Berufsausbildung zu vermitteln und auf Bildungsgänge der Tertiärstufe in diesem Studienbereich vorzubereiten.
 
-<sup>2</sup> Sie führt, insbesondere durch das Absolvieren eines Langzeitpraktikums, zur Erlangung des eidgenössischen Fähigkeitszeugnisses und der kaufmännischen Berufsmaturität im Sinne des Bundesgesetzes über die Berufsbildung.
+<sup>2</sup> Sie führt, insbesondere durch das Absolvieren eines Langzeitpraktikums, zur Erlangung des eidgenössischen Fähigkeitszeugnisses und der kaufmännischen Berufsmaturität im Sinne des Bundesgesetzes über die Berufsbildung[^11-1].
 
 <sup>3</sup> Der Staatsrat bestimmt die Mittelschulen, die diesen Ausbildungsgang anbieten und regelt die vollzeitliche Handelsschulausbildung.
+
+[^11-1]: SR [412.10](https://db.clex.ch/link/Bund/412.10/de)
 
 #### Art. 12
 
@@ -471,7 +472,9 @@ beschliesst:
 
 <sup>3a</sup> Die AHV-Nummer (AHVN13) kann zu Identifikationszwecken auch an die Föderation der Identitätsdienste im Bildungsraum Schweiz, die von der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) beauftragt wurde, übermittelt werden. Der Staatsrat erlässt die notwendigen Ausführungsbestimmungen.
 
-<sup>4</sup> Die Personendaten können über ein Abrufverfahren nach Artikel 14 Abs. 4 des Gesetzes vom 12. Oktober 2023 über den Datenschutz zugänglich gemacht werden. Der Staatsrat legt die Ausführungsbestimmungen fest.
+<sup>4</sup> Die Personendaten können über ein Abrufverfahren nach Artikel 14 Abs. 4 des Gesetzes vom 12. Oktober 2023 über den Datenschutz[^43-1] zugänglich gemacht werden. Der Staatsrat legt die Ausführungsbestimmungen fest.
+
+[^43-1]: SGF [17.1](https://bdlf.fr.ch/data/17.1/de)
 
 #### Art. 44
 
@@ -537,7 +540,9 @@ beschliesst:
 
 <sup>3</sup> Der Entzug der Unterrichtsberechtigung kann der EDK zur Aufnahme in die interkantonale Liste von Lehrpersonen, denen die Unterrichtsberechtigung entzogen wurde, gemeldet werden.
 
-<sup>4</sup> Das Eintragen und Löschen, die Rechtsmittel und der Zugang zur Liste werden in der Interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen geregelt.
+<sup>4</sup> Das Eintragen und Löschen, die Rechtsmittel und der Zugang zur Liste werden in der Interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen[^49-1] geregelt.
+
+[^49-1]: SGF [410.4](https://bdlf.fr.ch/data/410.4/de)
 
 #### Art. 50
 
