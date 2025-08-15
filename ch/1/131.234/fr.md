@@ -4,11 +4,11 @@ title: "Constitution de la République et canton de Genève, du 14 octobre 2012 
 short: Cst-GE
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/1846_fga"
 language: fr
-version: 2025-07-01
+version: 2025-08-16
 adopted: 2012-10-14
 in_force: 2013-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20250701-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20250701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250816/fr/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20250816-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20250816/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20250701/fr"
 
 (Cst-GE)
 
-du 14 octobre 2012 (État le 1<sup>er</sup> juillet 2025)[^t-1]
+du 14 octobre 2012 (État le 16 août 2025)[^t-1]
 
 [^t-1]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale.
 
@@ -94,7 +94,7 @@ La loi règle l’acquisition et la perte de la nationalité genevoise.
 **Armoiries et devise**
 
 <table>
-<tr><td><sup>1</sup> Les armoiries de la République et canton de Genève représentent la réunion de l’aigle noire à tête couronnée sur fond jaune et de la clé d’or sur fond rouge. Le cimier représente un soleil apparaissant sur le bord supérieur et portant le trigramme IHS en lettres grecques. <sup>2</sup> La devise est «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250701/fr/xml/image/image1.png)</td></tr>
+<tr><td><sup>1</sup> Les armoiries de la République et canton de Genève représentent la réunion de l’aigle noire à tête couronnée sur fond jaune et de la clé d’or sur fond rouge. Le cimier représente un soleil apparaissant sur le bord supérieur et portant le trigramme IHS en lettres grecques. <sup>2</sup> La devise est «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250816/fr/xml/image/image1.png)</td></tr>
 </table>
 
 #### Art. 7A
@@ -1267,11 +1267,17 @@ Le pouvoir judiciaire établit chaque année son budget de fonctionnement, inscr
 
 #### Art. 123
 
-**Juges prud’hommes**
+**Exceptions[^123-1]**
 
 <sup>1</sup> Les juges prud’hommes sont élus par le Grand Conseil. L’élection est paritaire et par groupes professionnels.
 
-<sup>2</sup> Les personnes étrangères ayant exercé pendant huit ans au moins leur activité professionnelle en Suisse, dont la dernière année au moins dans le canton, sont éligibles.
+<sup>2</sup> Les personnes étrangères ayant exercé pendant huit ans au moins leur activité professionnelle en Suisse, dont la dernière année au moins dans le canton, sont éligibles comme juges prud’hommes.[^123-2]
+
+<sup>3</sup> Les juges suppléantes et juges suppléants, les juges assesseures et juges assesseurs, les procureures et procureurs extraordinaires et les juges de la Cour d’appel du pouvoir judiciaire sont élus dans tous les cas par le Grand Conseil.[^123-3]
+
+[^123-1]: Accepté en votation populaire du 18 mai 2025, en vigueur depuis le 16 août 2025. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 4, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^123-2]: Accepté en votation populaire du 18 mai 2025, en vigueur depuis le 16 août 2025. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 4, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^123-3]: Accepté en votation populaire du 18 mai 2025, en vigueur depuis le 16 août 2025. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 4, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 
 ### Section 3 Cour constitutionnelle
 

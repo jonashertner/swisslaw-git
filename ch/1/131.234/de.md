@@ -4,11 +4,11 @@ title: "Verfassung der Republik und des Kantons Genf, vom 14. Oktober 2012 (KV-G
 short: KV-GE
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/1846_fga"
 language: de
-version: 2025-07-01
+version: 2025-08-16
 adopted: 2012-10-14
 in_force: 2013-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20250701-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20250701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250816/de/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20250816-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20250816/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20250701/de"
 
 (KV-GE)
 
-vom 14. Oktober 2012 (Stand am 1. Juli 2025)[^t-2]
+vom 14. Oktober 2012 (Stand am 16. August 2025)[^t-2]
 
 [^t-1]: Der Text in der französischen Originalsprache findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
 [^t-2]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen.
@@ -97,7 +97,7 @@ Das Gesetz regelt Erwerb und Verlust des Genfer Bürgerrechts.
 **Wappen und Devise**
 
 <table>
-<tr><td><sup>1</sup> Das Wappen der Republik und des Kantons Genf vereint einen schwarzen Adler mit Krone auf gelbem Hintergrund und einen goldenen Schlüssel auf rotem Hintergrund. Das Zimier stellt eine Sonne dar, die am oberen Rand aufgeht und die drei Buchstaben IHS in griechischer Schrift trägt. <sup>2</sup> Die Devise lautet «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250701/de/xml/image/image1.png)</td></tr>
+<tr><td><sup>1</sup> Das Wappen der Republik und des Kantons Genf vereint einen schwarzen Adler mit Krone auf gelbem Hintergrund und einen goldenen Schlüssel auf rotem Hintergrund. Das Zimier stellt eine Sonne dar, die am oberen Rand aufgeht und die drei Buchstaben IHS in griechischer Schrift trägt. <sup>2</sup> Die Devise lautet «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250816/de/xml/image/image1.png)</td></tr>
 </table>
 
 #### Art. 7A
@@ -1270,11 +1270,17 @@ Die richterliche Gewalt erstellt jährlich ein Betriebsbudget, das im Budget des
 
 #### Art. 123
 
-**Arbeitsrichter**
+**Ausnahmen[^123-1]**
 
 <sup>1</sup> Die Arbeitsrichter werden vom Grossen Rat gewählt. Die Wahl erfolgt paritätisch und nach Berufsgruppen.
 
-<sup>2</sup> Ausländerinnen und Ausländer, die ihre Berufstätigkeit seit mindestens acht Jahren in der Schweiz und davon mindestens das letzte Jahr im Kanton ausgeübt haben, sind wählbar.
+<sup>2</sup> Ausländerinnen und Ausländer, die ihre Berufstätigkeit seit mindestens acht Jahren in der Schweiz und davon mindestens das letzte Jahr im Kanton ausgeübt haben, sind als Arbeitsrichterinnen und -richter wählbar.[^123-2]
+
+<sup>3</sup> Die Ersatzrichterinnen und -richter, die beisitzenden Richterinnen und Richter, die ausserordentlichen Staatsanwältinnen und -anwälte und die Richterinnen und Richter des Berufungsgerichts der richterlichen Gewalt werden in jedem Fall vom Grossen Rat gewählt.[^123-3]
+
+[^123-1]: Angenommen in der Volksabstimmung vom 18. Mai 2025, in Kraft seit 16. Aug. 2025. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 4, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^123-2]: Angenommen in der Volksabstimmung vom 18. Mai 2025, in Kraft seit 16. Aug. 2025. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 4, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^123-3]: Angenommen in der Volksabstimmung vom 18. Mai 2025, in Kraft seit 16. Aug. 2025. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 4, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 
 ### 3. Abschnitt: Verfassungsgerichtshof
 

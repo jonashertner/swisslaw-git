@@ -4,11 +4,11 @@ title: "Costituzione della Repubblica e Cantone di Ginevra, del 14 ottobre 2012 
 short: Cost.-GE
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/1846_fga"
 language: it
-version: 2025-07-01
+version: 2025-08-16
 adopted: 2012-10-14
 in_force: 2013-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20250701-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20250701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250816/it/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20250816-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20250816/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -19,7 +19,7 @@ Traduzione[^t-1]
 
 (Cost.-GE)
 
-del 14 ottobre 2012 (Stato 1° luglio 2025)[^t-2]
+del 14 ottobre 2012 (Stato 16 agosto 2025)[^t-2]
 
 [^t-1]: Il testo nella lingua originale è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
 [^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi.
@@ -97,7 +97,7 @@ La legge disciplina l’acquisto e la perdita della cittadinanza ginevrina.
 **Stemma e motto**
 
 <table>
-<tr><td><sup>1</sup> Lo stemma della Repubblica e Cantone di Ginevra rappresenta la fusione dell’aquila nera con testa coronata su fondo giallo e della chiave d’oro su fondo rosso. Il cimiero rappresenta un sole che si leva sul bordo superiore e che riporta il trigramma IHS in lettere greche. <sup>2</sup> Il motto è «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250701/it/xml/image/image1.png)</td></tr>
+<tr><td><sup>1</sup> Lo stemma della Repubblica e Cantone di Ginevra rappresenta la fusione dell’aquila nera con testa coronata su fondo giallo e della chiave d’oro su fondo rosso. Il cimiero rappresenta un sole che si leva sul bordo superiore e che riporta il trigramma IHS in lettere greche. <sup>2</sup> Il motto è «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250816/it/xml/image/image1.png)</td></tr>
 </table>
 
 #### Art. 7A
@@ -1270,11 +1270,17 @@ Il potere giudiziario allestisce ogni anno il proprio preventivo di funzionament
 
 #### Art. 123
 
-**Giudici probiviri**
+**Eccezioni[^123-1]**
 
 <sup>1</sup> I giudici probiviri sono eletti dal Gran Consiglio. L’elezione è paritaria e per gruppi professionali.
 
-<sup>2</sup> Possono essere eletti stranieri che hanno esercitato la propria attività professionale in Svizzera per almeno otto anni, di cui almeno l’ultimo nel Cantone.
+<sup>2</sup> Possono essere eletti alla funzione di giudice proboviro stranieri che hanno esercitato la propria attività professionale in Svizzera per almeno otto anni, di cui almeno l’ultimo nel Cantone.[^123-2]
+
+<sup>3</sup> I giudici supplenti, i giudici assessori, i procuratori straordinari e i giudici della Corte d’appello del potere giudiziario sono eletti in ogni caso dal Gran Consiglio.[^123-3]
+
+[^123-1]: Accettato nella votazione popolare del 18 mag. 2025, in vigore dal 16 ago. 2025. Garanzia dell’AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 4, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^123-2]: Accettato nella votazione popolare del 18 mag. 2025, in vigore dal 16 ago. 2025. Garanzia dell’AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 4, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^123-3]: Accettato nella votazione popolare del 18 mag. 2025, in vigore dal 16 ago. 2025. Garanzia dell’AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 4, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 
 ### Sezione 3: Corte costituzionale
 
@@ -2927,8 +2933,10 @@ Elezione(i) 52ss
   - – Esecutivo comunale 53, 81, 141
 
 - – dei
+  - – giudici della Corte d’Appello 123
   - – giudici probiviri 123
   - – magistrati del potere giudiziario 122, 123
+  - – procuratori 123
 
 - – del
   - – Consiglio di Stato 102
