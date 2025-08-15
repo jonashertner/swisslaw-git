@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 22.405 n Pa. Iv. WAK-N. Einführung einer Klimareserve für Schweizer Wein
 document: Vernehmlassungsvorlage
 language: de

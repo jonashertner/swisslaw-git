@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "22.405 n Iv. pa. CER-N. Introduction d'une réserve climatique pour les vins suisses"
 document: Projet mis en consultation
 language: fr

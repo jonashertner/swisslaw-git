@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 22.405 n Iv. pa. CET-N. Introduzione di una riserva climatica per i vini svizzeri
 document: Progetto posto in consultazione
 language: it
