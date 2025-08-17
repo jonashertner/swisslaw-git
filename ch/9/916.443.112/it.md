@@ -3,18 +3,18 @@ sr: "916.443.112"
 title: Ordinanza dell’USAV del 17 luglio 2025 che istituisce misure in relazione alla dermatite nodulare contagiosa (Lumpy skin disease)
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/471"
 language: it
-version: 2025-07-30
+version: 2025-08-18
 adopted: 2025-07-17
 in_force: 2025-07-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20250730/it/xml/fedlex-data-admin-ch-eli-cc-2025-471-20250730-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20250730/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20250818/it/xml/fedlex-data-admin-ch-eli-cc-2025-471-20250818-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20250818/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’USAV che istituisce misure in relazione alla dermatite nodulare contagiosa (Lumpy skin disease)
 
-del 17 luglio 2025 (Stato 30 luglio 2025)
+del 17 luglio 2025 (Stato 18 agosto 2025)
 
 L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV),
 
@@ -22,10 +22,10 @@ visti gli articoli 10 capoverso 1 numeri 4 e 6, 24 capoverso 3 lettera a e 57 ca
 
 ordina:
 
-[^ingress-1]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^ingress-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^ingress-3]: [RS 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
-[^ingress-4]: [RS 916.443.11](https://fedlex.data.admin.ch/eli/cc/2015/846)
+[^ingress-1]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
+[^ingress-2]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^ingress-3]: [RS 916.443.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10875)
+[^ingress-4]: [RS 916.443.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10895)
 
 ## Sezione 1: Disposizioni generali
 
@@ -47,7 +47,7 @@ L’estensione delle zone di protezione e di sorveglianza ai sensi dell’artico
 
 L’importazione di animali delle specie ricettive, di carne, latte e sottoprodotti di origine animale di tali animali nelle zone di protezione e di sorveglianza nonché l’esportazione da tali zone sono disciplinate dalle disposizioni dell’ordinanza del DFI del 18 novembre 2015[^3-1] concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Stati membri dell’UE, Islanda e Norvegia nonché Irlanda del Nord e dalle disposizioni dell’OITE‑PT.
 
-[^3-1]: [RS 916.443.111](https://fedlex.data.admin.ch/eli/cc/2015/847)
+[^3-1]: [RS 916.443.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10896)
 
 ## Sezione 2: Misure nelle zone di protezione
 
@@ -102,7 +102,7 @@ I sottoprodotti di animali delle specie ricettive provenienti dalla zona di sorv
 
 <sup>2</sup> Sono fatti salvi gli articoli 43 e 44 dell’ordinanza del 25 maggio 2011[^8-1] concernente i sottoprodotti di origine animale (OSOAn).
 
-[^8-1]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^8-1]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 
 #### Art. 9
 
@@ -169,7 +169,7 @@ L’immunità di base è stabilita secondo il foglietto illustrativo del rispett
 
 <sup>4</sup> I veterinari sono responsabili della somministrazione a regola d’arte dei vaccini.
 
-[^15-1]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
+[^15-1]: [RS 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361)
 
 #### Art. 16
 
@@ -198,13 +198,15 @@ I dati sono registrati in ASAN. La registrazione è effettuata:
 
 Gli animali vivi delle specie ricettive possono essere trasferiti dalla zona di vaccinazione se:
 
-- a. sono stati vaccinati almeno 28 giorni prima;
+- a.[^17-1] sono stati vaccinati almeno 28 giorni prima;
 - b. tutti gli altri animali dello stesso effettivo sono stati vaccinati almeno 28 giorni prima;
 - c. tutti gli altri animali dello stesso effettivo sono stati sottoposti a un esame clinico e, se necessario, a un esame di laboratorio con esito negativo;
 - d. gli animali sono stati tenuti nell’azienda di provenienza dalla nascita o per un periodo ininterrotto di almeno 28 giorni prima della data del trasferimento; e
 - e. tutti gli animali delle specie ricettive nel raggio di 50 chilometri sono stati vaccinati o rivaccinati almeno 60 giorni prima.
 
 <sup>2</sup> Il capoverso 1 non si applica agli animali trasportati direttamente per la macellazione previa autorizzazione del veterinario cantonale.
+
+[^17-1]: Correzione del 18 ago. 2025, concerne soltanto il testo francese ([RU 2025 512](https://fedlex.data.admin.ch/eli/oc/2025/512)).
 
 #### Art. 18
 
@@ -233,7 +235,7 @@ All’interno della zona di vaccinazione e tra le zone di vaccinazione gli anima
 
 <sup>3</sup> Il colostro, il latte o i prodotti a base di latte utilizzati come sottoprodotti di origine animale possono essere trasportati fuori dalla zona di vaccinazione dopo la pastorizzazione.
 
-[^20-1]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^20-1]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 
 #### Art. 21
 
@@ -271,4 +273,4 @@ Sono considerate zone di sorveglianza:
 - – i seguenti Comuni del Cantone di Vaud: Bogis-Bossey, Chavannes-des-Bois, Chavannes-de-Bogis, Commugny, Coppet, Founex, Mies, Tannay;
 - – i territori evidenziati in grigio sulla mappa sottostante facenti parte dei seguenti Comuni del Cantone del Vallese: Champéry, Val‑d’Illiez, Finhaut, Martigny-Combe, Orsières, Salvan, Trient.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20250730/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20250818/it/xml/image/image1.png)

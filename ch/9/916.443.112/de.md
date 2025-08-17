@@ -3,18 +3,18 @@ sr: "916.443.112"
 title: Verordnung des BLV vom 17. Juli 2025 über Massnahmen im Zusammenhang mit der Dermatitis nodularis (Lumpy Skin Disease)​
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/471"
 language: de
-version: 2025-07-30
+version: 2025-08-18
 adopted: 2025-07-17
 in_force: 2025-07-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20250730/de/xml/fedlex-data-admin-ch-eli-cc-2025-471-20250730-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20250730/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20250818/de/xml/fedlex-data-admin-ch-eli-cc-2025-471-20250818-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20250818/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BLV über Massnahmen im Zusammenhang mit der Dermatitis nodularis (Lumpy Skin Disease)
 
-vom 17. Juli 2025 (Stand am 30. Juli 2025)
+vom 17. Juli 2025 (Stand am 18. August 2025)
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
 
@@ -22,10 +22,10 @@ gestützt auf die Artikel 10 Absatz 1 Ziffern 4 und 6, 24 Absatz 3 Buchstabe a u
 
 verordnet:
 
-[^ingress-1]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^ingress-2]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^ingress-3]: [SR 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
-[^ingress-4]: [SR 916.443.11](https://fedlex.data.admin.ch/eli/cc/2015/846)
+[^ingress-1]: [SR 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
+[^ingress-2]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^ingress-3]: [SR 916.443.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10875)
+[^ingress-4]: [SR 916.443.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10895)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -47,7 +47,7 @@ Der Umfang der Schutz- und Überwachungszonen nach Artikel 88 Absatz 1 TSV ist i
 
 Die Ein- und Ausfuhr von Tieren empfänglicher Arten sowie von Fleisch, Milch und tierischen Nebenprodukten solcher Tiere in beziehungsweise aus den Schutz- und Überwachungszonen richten sich nach den Bestimmungen der Verordnung des EDI vom 18. November 2015[^3-1] über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit den EU-Mitgliedstaaten, Island und Norwegen sowie Nordirland und den Bestimmungen der EDAV‑DS.
 
-[^3-1]: [SR 916.443.111](https://fedlex.data.admin.ch/eli/cc/2015/847)
+[^3-1]: [SR 916.443.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10896)
 
 ## 2. Abschnitt: Massnahmen in den Schutzzonen
 
@@ -102,7 +102,7 @@ Tierische Nebenprodukte von Tieren empfänglicher Arten aus der Überwachungszon
 
 <sup>2</sup> Die Artikel 43 und 44 der Verordnung vom 25. Mai 2011[^8-1] über tierische Nebenprodukte (VTNP) bleiben vorbehalten.
 
-[^8-1]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^8-1]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 
 #### Art. 9
 
@@ -169,7 +169,7 @@ Die Grundimmunität richtet sich nach der Packungsbeilage des jeweiligen Impfsto
 
 <sup>4</sup> Die Tierärztinnen und Tierärzte sind verantwortlich für die fachgerechte Applikation der Impfstoffe.
 
-[^15-1]: [SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
+[^15-1]: [SR 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361)
 
 #### Art. 16
 
@@ -198,13 +198,15 @@ Die Daten werden im ASAN registriert. Die Eingabe erfolgt durch:
 
 Aus der Impfzone dürfen lebende Tiere empfänglicher Arten verstellt werden, wenn:
 
-- a. sie mindestens 28 Tage zuvor geimpft wurden;
+- a.[^17-1] sie mindestens 28 Tage zuvor geimpft wurden;
 - b. alle anderen Tiere des gleichen Bestandes mindestens 28 Tage zuvor geimpft wurden;
 - c. alle anderen Tiere des gleichen Bestandes einer klinischen und nötigenfalls einer Laboruntersuchung mit negativem Ergebnis unterzogen wurden;
 - d. die Tiere seit ihrer Geburt oder während eines ununterbrochenen Zeitraumes von mindestens 28 Tagen vor dem Verstelldatum in ihrem Herkunftsbetrieb gehalten wurden; und
 - e. alle Tiere empfänglicher Arten im Umkreis von 50 Kilometern vor mindestens 60 Tagen geimpft oder wiedergeimpft wurden.
 
 <sup>2</sup> Von Absatz 1 ausgenommen sind Tiere, die nach der Genehmigung der Kantonstierärztin oder des Kantonstierarztes direkt zur Schlachtung verbracht werden.
+
+[^17-1]: Die Berichtigung vom 18. Aug. 2025 betrifft nur den französischen Text ([AS 2025 512](https://fedlex.data.admin.ch/eli/oc/2025/512)).
 
 #### Art. 18
 
@@ -233,7 +235,7 @@ Innerhalb der Impfzone und zwischen Impfzonen dürfen lebende Tiere empfänglich
 
 <sup>3</sup> Kolostrum, Milch oder Milcherzeugnisse, die als tierische Nebenprodukte verwendet werden, dürfen nach der Pasteurisation aus der Impfzone heraus transportiert werden.
 
-[^20-1]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^20-1]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 
 #### Art. 21
 
@@ -271,4 +273,4 @@ Als Überwachungszonen gelten:
 - – folgende Gemeinden des Kantons Waadt: Bogis-Bossey, Chavannes-des-Bois, Chavannes-de-Bogis, Commugny, Coppet, Founex, Mies, Tannay;
 - – die auf der nachstehenden Karte grau markierten Teilgebiete der folgenden Gemeinden des Kantons Wallis: Champéry, Val‑d’Illiez, Finhaut, Martigny-Combe, Orsières, Salvan, Trient.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20250730/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20250818/de/xml/image/image1.png)

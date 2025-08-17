@@ -3,18 +3,18 @@ sr: "916.443.112"
 title: Ordonnance de l’OSAV du 17 juillet 2025 instituant des mesures contre la dermatose nodulaire contagieuse (lumpy skin disease)
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/471"
 language: fr
-version: 2025-07-30
+version: 2025-08-18
 adopted: 2025-07-17
 in_force: 2025-07-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20250730/fr/xml/fedlex-data-admin-ch-eli-cc-2025-471-20250730-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20250730/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20250818/fr/xml/fedlex-data-admin-ch-eli-cc-2025-471-20250818-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20250818/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OSAV instituant des mesures contre la dermatose nodulaire contagieuse (lumpy skin disease)
 
-du 17 juillet 2025 (État le 30 juillet 2025)
+du 17 juillet 2025 (État le 18 août 2025)
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV),
 
@@ -22,10 +22,10 @@ vu les art. 10, al. 1, ch. 4 et 6, 24, al. 3, let. a, et 57, al. 2, let. b, de l
 
 arrête:
 
-[^ingress-1]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^ingress-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^ingress-3]: [RS 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
-[^ingress-4]: [RS 916.443.11](https://fedlex.data.admin.ch/eli/cc/2015/846)
+[^ingress-1]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
+[^ingress-2]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^ingress-3]: [RS 916.443.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10875)
+[^ingress-4]: [RS 916.443.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10895)
 
 ## Section 1 Dispositions générales
 
@@ -47,7 +47,7 @@ L’étendue des zones de protection et de surveillance au sens de l’art. 88, 
 
 L’importation d’animaux des espèces réceptives ainsi que de viande, de lait et de sous-produits animaux issus de ces animaux dans les zones de protection et de surveillance de même que leur exportation hors de ces zones sont régies par les dispositions de l’ordonnance du DFI du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les États membres de l’UE, l’Islande, la Norvège et l’Irlande du Nord[^3-1] et par les dispositions de l’OITE‑PT.
 
-[^3-1]: [RS 916.443.111](https://fedlex.data.admin.ch/eli/cc/2015/847)
+[^3-1]: [RS 916.443.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10896)
 
 ## Section 2 Mesures dans les zones de protection
 
@@ -102,7 +102,7 @@ Les sous-produits animaux issus d’animaux des espèces réceptives provenant d
 
 <sup>2</sup> Les art. 43 et 44 de l’ordonnance du 25 mai 2011 concernant les sous-produits animaux (OSPA)[^8-1] sont réservés.
 
-[^8-1]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^8-1]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 
 #### Art. 9
 
@@ -169,7 +169,7 @@ L’immunité de base est acquise conformément aux indications figurant dans la
 
 <sup>4</sup> Les vétérinaires sont responsables de l’administration correcte des vaccins.
 
-[^15-1]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
+[^15-1]: [RS 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361)
 
 #### Art. 16
 
@@ -198,13 +198,16 @@ Les données sont enregistrées dans le système ASAN. Elles peuvent être saisi
 
 Les animaux vivants des espèces réceptives peuvent être déplacés hors de la zone de vaccination:
 
-- a. s’ils ont été vaccinés au moins dans les 28 jours qui précèdent;
-- b. si tous les autres animaux du même troupeau ont été vaccinés au moins dans les 28 jours qui précèdent;
+- a.[^17-1] s’ils sont vaccinés depuis au moins 28 jours;
+- b.[^17-2] si tous les autres animaux du même troupeau sont vaccinés depuis au moins 28 jours;
 - c. si tous les autres animaux du même troupeau ont été soumis à un examen clinique et, le cas échéant, à un examen de laboratoire dont le résultat est négatif;
 - d. si les animaux ont été détenus depuis leur naissance ou pendant une période ininterrompue d’au moins 28 jours avant la date du déplacement dans leur exploitation de provenance, et
 - e. si tous les animaux des espèces réceptives présents dans un rayon de 50 km ont reçu un vaccin ou une dose de rappel au moins dans les 60 jours qui précèdent.
 
 <sup>2</sup> Ne sont pas concernés par l’al. 1 les animaux directement menés à l’abattage sur autorisation du vétérinaire cantonal.
+
+[^17-1]: Erratum du 18 août 2025 ([RO 2025 512](https://fedlex.data.admin.ch/eli/oc/2025/512)).
+[^17-2]: Erratum du 18 août 2025 ([RO 2025 512](https://fedlex.data.admin.ch/eli/oc/2025/512)).
 
 #### Art. 18
 
@@ -212,8 +215,11 @@ Les animaux vivants des espèces réceptives peuvent être déplacés hors de la
 
 Les animaux vivants des espèces réceptives peuvent être déplacés à l’intérieur ou entre des zones de vaccination:
 
-- a. s’ils ont été vaccinés au moins dans les 28 jours qui précèdent, et
-- b. si tous les autres animaux du même troupeau ont été vaccinés au moins dans les 28 jours qui précèdent auparavant.
+- a.[^18-1] s’ils sont vaccinés depuis au moins 28 jours, et
+- b.[^18-2] si tous les autres animaux du même troupeau sont vaccinés depuis au moins 28 jours.
+
+[^18-1]: Erratum du 18 août 2025 ([RO 2025 512](https://fedlex.data.admin.ch/eli/oc/2025/512)).
+[^18-2]: Erratum du 18 août 2025 ([RO 2025 512](https://fedlex.data.admin.ch/eli/oc/2025/512)).
 
 #### Art. 19
 
@@ -233,7 +239,7 @@ Les animaux vivants des espèces réceptives peuvent être déplacés à l’int
 
 <sup>3</sup> Le colostrum, le lait et les produits laitiers utilisés comme sous-produits animaux peuvent être transportés hors de la zone de vaccination après avoir été pasteurisés.
 
-[^20-1]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^20-1]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 
 #### Art. 21
 
@@ -271,4 +277,4 @@ Sont réputées zones de surveillance:
 - – les communes suivantes du canton de Vaud: Bogis-Bossey, Chavannes-des-Bois, Chavannes-de-Bogis, Commugny, Coppet, Founex, Mies, Tannay;
 - – les territoires marqués en gris sur la carte ci-dessous appartenant aux communes suivantes du canton du Valais: Champéry, Val-d’Illiez, Finhaut, Martigny-Combe, Orsières, Salvan, Trient.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20250730/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20250818/fr/xml/image/image1.png)
