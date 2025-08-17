@@ -3,11 +3,11 @@ sr: "0.632.11"
 title: Convenzione internazionale del 14 giugno 1983 sul Sistema armonizzato di designazione e di codificazione delle merci (con all.)
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686"
 language: it
-version: 2022-01-01
+version: 2025-08-18
 adopted: 1983-06-14
 in_force: 1988-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1987-2686_2686_2686-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/2686_2686_2686/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686/20250818/it/xml/fedlex-data-admin-ch-eli-cc-1987-2686_2686_2686-20250818-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/2686_2686_2686/20250818/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Bruxelles il 14 giugno 1983 Approvata dall’Assemblea federale il 10 giugno 1986[^t-1] Strumenti di ratificazione depositati dalla Svizzera il 22 settembre 1987 Entrata in vigore per la Svizzera il 1° gennaio 1988
 
-(Stato 1° gennaio 2022)
+(Stato 18 agosto 2025)
 
 [^t-1]: [RU 1987 2685](https://fedlex.data.admin.ch/eli/oc/1987/2685_2685_2685)
 
@@ -75,7 +75,7 @@ Ai fini della presente convenzione s’intende:
 - g) per segretario generale: il segretario generale del consiglio;
 - h) per ratifica: la ratifica propriamente detta, l’accettazione o l’approvazione.
 
-[^1-1]: [RS 0.631.121.2](https://fedlex.data.admin.ch/eli/cc/1953/42_42_42)
+[^1-1]: [RS 0.631.121.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2007)
 
 #### Art. 2
 
@@ -310,20 +310,20 @@ Il segretario generale notifica alle Parti contraenti, agli altri Stati firmatar
 
 Conformemente all’articolo 102 della Carta delle Nazioni Unite[^20-1], la presente convenzione è registrata presso il segretario delle Nazioni Unite su richiesta del segretario generale del Consiglio.
 
-[^20-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^20-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 *In fede di che,* i sottoscritti debitamente a ciò autorizzati hanno firmato la presente convenzione. Fatto a Bruxelles, addì 14 giugno 1983, in lingua francese e inglese, ciascuno dei due testi facenti ugualmente fede, in un unico esemplare che è depositato presso il segretario generale del Consiglio il quale ne trasmette copie certificate conformi a tutti gli Stati e a tutte le unioni doganali o economiche di cui all’articolo 11. (Seguono le firme)
 
-Allegato*[^t-2]*
+Allegato[^t-2]
 
 (art. 2)
 
-## Nomenclatura del Sistema armonizzato****
+## Nomenclatura del Sistema armonizzato
 
 [^annexu1-lvlu1-1]
 
 [^t-2]: Nuovo testo giusta la notifica in [RU 2016 3861](https://fedlex.data.admin.ch/eli/oc/2016/651). Aggiornato dalla notifica in [RU 2022 131](https://fedlex.data.admin.ch/eli/oc/2022/131).
-[^annexu1-lvlu1-1]: Giusta l’art. 5 cpv. 1 della legge del 18 giugno 2004 ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) questo allegato non è pubblicato nella RU; esso è ripreso nell’allegato alla legge sulla tariffa delle dogane del 9 ottobre 1986 ([RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)), Tariffa generale, pubblicata in Internet all’indirizzo www.bazg.admin.ch, e parimenti nella tariffa doganale pubblicata in virtù dell’art. 15 cpv. 2 della legge del 9 ottobre 1986 sulla tariffa delle dogane, consultabile in Internet all’indirizzo www.tares.ch.
+[^annexu1-lvlu1-1]: Giusta l’art. 5 cpv. 1 della L del 18 giu. 2004 ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) questo all. non è pubblicato nella RU; esso è ripreso nell’all. alla L sulla tariffa delle dogane del 9 ott. 1986 ([RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)), Tariffa generale, pubblicata in Internet all’indirizzo www.bazg.admin.ch, e parimenti nella tariffa doganale pubblicata in virtù dell’art. 15 cpv. 2 della L del 9 ott. 1986 sulla tariffa delle dogane, consultabile in Internet all’indirizzo www.tares.ch.
 
 Gli emendamenti dell’allegato sono stati notificati dal segretario generale dell’Organizzazione mondiale delle dogane (OMD) a Bruxelles come segue:
 
@@ -338,7 +338,7 @@ Gli emendamenti dell’allegato sono stati notificati dal segretario generale de
 - 3 luglio 2020 entrata in vigore 1° gennaio 2023 (alle Parti contraenti è stato chiesto di dare seguito alle modifiche per l’1.1.2022)
 - 9 luglio 2021 entrata in vigore 1° gennaio 2024 (alle Parti contraenti è stato chiesto di dare seguito alle modifiche per l’1.1.2022)
 
-Campo d’applicazione il 21 gennaio 2020**[^t-3]**
+Campo d’applicazione il 18 agosto 2025[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Firmato senza riserva di ratificazione (F))</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -366,6 +366,7 @@ Campo d’applicazione il 21 gennaio 2020**[^t-3]**
 <tr><td>Brunei</td><td>28 giugno</td><td>2014 A</td><td>28 giugno</td><td>2014</td></tr>
 <tr><td>Bulgaria</td><td>30 ottobre</td><td>1990 A</td><td>1° gennaio</td><td>1992</td></tr>
 <tr><td>Burkina Faso</td><td>25 settembre</td><td>1990</td><td>1° gennaio</td><td>1992</td></tr>
+<tr><td>Burundi</td><td>18 gennaio</td><td>2017 A</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Cambogia</td><td>27 giugno</td><td>2002 A</td><td>1° gennaio</td><td>2003</td></tr>
 <tr><td>Camerun</td><td>16 maggio</td><td>1988 A</td><td>1° luglio</td><td>1989</td></tr>
 <tr><td>Canada</td><td>14 dicembre</td><td>1987</td><td>1° gennaio</td><td>1988</td></tr>
@@ -376,7 +377,7 @@ Campo d’applicazione il 21 gennaio 2020**[^t-3]**
 <tr><td>Cina</td><td>23 giugno</td><td>1992 A</td><td>1° gennaio</td><td>1993</td></tr>
 <tr><td>Cipro</td><td>21 marzo</td><td>1994 A</td><td>21 marzo</td><td>1994</td></tr>
 <tr><td>Colombia</td><td>21 ottobre</td><td>2002 A</td><td>21 ottobre</td><td>2002</td></tr>
-<tr><td>Comore</td><td>7 gennaio</td><td>2013 A</td><td>1° gennaio</td><td>2015</td></tr>
+<tr><td>Comore</td><td>7 gennaio</td><td>2013</td><td>1° gennaio</td><td>2015</td></tr>
 <tr><td>Congo (Brazzaville)</td><td>27 marzo</td><td>2007 A</td><td>1° gennaio</td><td>2009</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>10 novembre</td><td>1987</td><td>1° gennaio</td><td>1988</td></tr>
 <tr><td>Corea (Sud)</td><td>27 novembre</td><td>1987</td><td>1° gennaio</td><td>1988</td></tr>
@@ -388,6 +389,7 @@ Campo d’applicazione il 21 gennaio 2020**[^t-3]**
 <tr><td>Dominicana, Repubblica</td><td>7 settembre</td><td>2006 A</td><td>1° gennaio</td><td>2008</td></tr>
 <tr><td>Ecuador</td><td>22 ottobre</td><td>2008 A</td><td>1° gennaio</td><td>2010</td></tr>
 <tr><td>Egitto</td><td>27 maggio</td><td>1999 A</td><td>1° gennaio</td><td>2000</td></tr>
+<tr><td>El Salvador</td><td>28 giugno</td><td>2025 A</td><td>30 giugno</td><td>2025</td></tr>
 <tr><td>Emirati Arabi Uniti</td><td>27 giugno</td><td>2002 A</td><td>1° luglio</td><td>2002</td></tr>
 <tr><td>Eritrea</td><td>17 gennaio</td><td>2003 A</td><td>17 gennaio</td><td>2003</td></tr>
 <tr><td>Estonia</td><td>26 maggio</td><td>1993 A</td><td>1° gennaio</td><td>1995</td></tr>
@@ -402,6 +404,7 @@ Campo d’applicazione il 21 gennaio 2020**[^t-3]**
 <tr><td>Polinesia francese</td><td>20 aprile</td><td>1988</td><td>1° gennaio</td><td>1989</td></tr>
 <tr><td>St. Pierre e Miquelon</td><td>20 aprile</td><td>1988</td><td>1° gennaio</td><td>1988</td></tr>
 <tr><td>Gabon</td><td>7 luglio</td><td>2000</td><td>1° gennaio</td><td>2002</td></tr>
+<tr><td>Gambia</td><td>21 giugno</td><td>2019 A</td><td>1° gennaio</td><td>2021</td></tr>
 <tr><td>Georgia</td><td>27 marzo</td><td>2009 A</td><td>1° gennaio</td><td>2011</td></tr>
 <tr><td>Germania</td><td>22 settembre</td><td>1987</td><td>1° gennaio</td><td>1988</td></tr>
 <tr><td>Ghana</td><td>29 giugno</td><td>2007</td><td>1° gennaio</td><td>2009</td></tr>
@@ -423,6 +426,7 @@ Campo d’applicazione il 21 gennaio 2020**[^t-3]**
 <tr><td>Kazakstan</td><td>26 marzo</td><td>2004 A</td><td>1° gennaio</td><td>2006</td></tr>
 <tr><td>Kenya</td><td>29 luglio</td><td>1988 A</td><td>1° luglio</td><td>1989</td></tr>
 <tr><td>Kirghizistan</td><td>4 gennaio</td><td>2007 A</td><td>1° gennaio</td><td>2009</td></tr>
+<tr><td>Kosovo</td><td>31 ottobre</td><td>2020 A</td><td>1° gennaio</td><td>2022</td></tr>
 <tr><td>Kuwait</td><td>27 novembre</td><td>2003 A</td><td>1° gennaio</td><td>2005</td></tr>
 <tr><td>Lesotho</td><td>12 dicembre</td><td>1985 F</td><td>1° gennaio</td><td>1988</td></tr>
 <tr><td>Lettonia</td><td>4 gennaio</td><td>1996 A</td><td>1° gennaio</td><td>1998</td></tr>
@@ -456,6 +460,7 @@ Campo d’applicazione il 21 gennaio 2020**[^t-3]**
 <tr><td>Oman</td><td>12 maggio</td><td>2016</td><td>1° gennaio</td><td>2018</td></tr>
 <tr><td>Paesi Bassi</td><td>22 settembre</td><td>1987</td><td>1° gennaio</td><td>1988</td></tr>
 <tr><td>Pakistan</td><td>22 settembre</td><td>1987</td><td>1° luglio</td><td>1988</td></tr>
+<tr><td>Palestina</td><td>10 marzo</td><td>2017 A</td><td>1° gennaio</td><td>2018</td></tr>
 <tr><td>Panama</td><td>24 agosto</td><td>1998 A</td><td>1° gennaio</td><td>2000</td></tr>
 <tr><td>Papua Nuova Guinea</td><td>18 dicembre</td><td>2013 A</td><td>1° gennaio</td><td>2014</td></tr>
 <tr><td>Paraguay</td><td>12 gennaio</td><td>2007 A</td><td>1° gennaio</td><td>2009</td></tr>
@@ -474,6 +479,7 @@ Campo d’applicazione il 21 gennaio 2020**[^t-3]**
 <tr><td>São Tomé e Príncipe</td><td>2 luglio</td><td>2013 A</td><td>1° gennaio</td><td>2015</td></tr>
 <tr><td>Senegal</td><td>21 settembre</td><td>1989 A</td><td>1° gennaio</td><td>1991</td></tr>
 <tr><td>Serbia</td><td>9 gennaio</td><td>2002 A</td><td>1° luglio</td><td>2002</td></tr>
+<tr><td>Seychelles</td><td>21 agosto</td><td>2020 A</td><td>1° gennaio</td><td>2022</td></tr>
 <tr><td>Sierra Leone</td><td>12 giugno</td><td>2015 A</td><td>1° gennaio</td><td>2017</td></tr>
 <tr><td>Singapore</td><td>30 novembre</td><td>2005 A</td><td>1° gennaio</td><td>2006</td></tr>
 <tr><td>Siria</td><td>12 novembre</td><td>2007 A</td><td>1° gennaio</td><td>2009</td></tr>
@@ -492,12 +498,14 @@ Campo d’applicazione il 21 gennaio 2020**[^t-3]**
 <tr><td>Togo</td><td>12 febbraio</td><td>1990 A</td><td>1° gennaio</td><td>1991</td></tr>
 <tr><td>Tunisia</td><td>28 ottobre</td><td>1987</td><td>1° gennaio</td><td>1989</td></tr>
 <tr><td>Turchia</td><td>15 dicembre</td><td>1988 A</td><td>1° gennaio</td><td>1989</td></tr>
+<tr><td>Turkmenistan</td><td>24 aprile</td><td>2023 A</td><td>1° gennaio</td><td>2025</td></tr>
 <tr><td>Ucraina</td><td>26 agosto</td><td>2002 A</td><td>1° gennaio</td><td>2004</td></tr>
 <tr><td>Uganda</td><td>11 luglio</td><td>1989 A</td><td>1° gennaio</td><td>1991</td></tr>
 <tr><td>Ungheria</td><td>27 agosto</td><td>1990</td><td>1° gennaio</td><td>1991</td></tr>
 <tr><td>Unione europea</td><td>22 settembre</td><td>1987</td><td>1° gennaio</td><td>1988</td></tr>
 <tr><td>Uruguay</td><td>17 ottobre</td><td>2011 A</td><td>1° gennaio</td><td>2012</td></tr>
 <tr><td>Uzbekistan</td><td>17 novembre</td><td>1998 A</td><td>1° gennaio</td><td>2000</td></tr>
+<tr><td>Vanuatu</td><td>28 marzo</td><td>2018 A</td><td>1° gennaio</td><td>2020</td></tr>
 <tr><td>Venezuela</td><td>23 ottobre</td><td>1998 A</td><td>2 novembre</td><td>1998</td></tr>
 <tr><td>Vietnam</td><td>26 marzo</td><td>1998 A</td><td>1° gennaio</td><td>2000</td></tr>
 <tr><td>Yemen</td><td>30 settembre</td><td>2002 A</td><td>1° gennaio</td><td>2003</td></tr>
@@ -505,4 +513,4 @@ Campo d’applicazione il 21 gennaio 2020**[^t-3]**
 <tr><td>Zimbabwe</td><td>5 novembre</td><td>1986 F</td><td>1° gennaio</td><td>1988</td></tr>
 </table>
 
-[^t-3]: [RU 1987 2686](https://fedlex.data.admin.ch/eli/oc/1987/2686_2686_2686); [1989 387](https://fedlex.data.admin.ch/eli/oc/1989/387_387_387); [1990 1606](https://fedlex.data.admin.ch/eli/oc/1990/1606_1606_1606); [2002 4080](https://fedlex.data.admin.ch/eli/oc/2002/656); [2005 767](https://fedlex.data.admin.ch/eli/oc/2005/95); [2009 67](https://fedlex.data.admin.ch/eli/oc/2009/12); [2012 379](https://fedlex.data.admin.ch/eli/oc/2012/30); [2014 95](https://fedlex.data.admin.ch/eli/oc/2014/9); [2016 499](https://fedlex.data.admin.ch/eli/oc/2016/86); [2020 285](https://fedlex.data.admin.ch/eli/oc/2020/52). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
+[^t-3]: [RU 1987 2686](https://fedlex.data.admin.ch/eli/oc/1987/2686_2686_2686); [1989 387](https://fedlex.data.admin.ch/eli/oc/1989/387_387_387); [1990 1606](https://fedlex.data.admin.ch/eli/oc/1990/1606_1606_1606); [2002 4080](https://fedlex.data.admin.ch/eli/oc/2002/656); [2005 767](https://fedlex.data.admin.ch/eli/oc/2005/95); [2009 67](https://fedlex.data.admin.ch/eli/oc/2009/12); [2012 379](https://fedlex.data.admin.ch/eli/oc/2012/30); [2014 95](https://fedlex.data.admin.ch/eli/oc/2014/9); [2016 499](https://fedlex.data.admin.ch/eli/oc/2016/86); [2020 285](https://fedlex.data.admin.ch/eli/oc/2020/52)e [2025 521](https://fedlex.data.admin.ch/eli/oc/2025/521). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

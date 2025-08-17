@@ -3,11 +3,11 @@ sr: "0.632.11"
 title: Internationales Übereinkommen vom 14. Juni 1983 über das Harmonisierte System zur Bezeichnung und Codierung der Waren (mit Anhang)
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686"
 language: de
-version: 2022-01-01
+version: 2025-08-18
 adopted: 1983-06-14
 in_force: 1988-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1987-2686_2686_2686-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/2686_2686_2686/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686/20250818/de/xml/fedlex-data-admin-ch-eli-cc-1987-2686_2686_2686-20250818-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/2686_2686_2686/20250818/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1987** 2686; BBl **1985** III 357
 
 Abgeschlossen in Brüssel am 14. Juni 1983 Von der Bundesversammlung genehmigt am 10. Juni 1986[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 22. September 1987 In Kraft getreten für die Schweiz am 1. Januar 1988
 
-(Stand am 1. Januar 2022)
+(Stand am 18. August 2025)
 
 [^t-1]: [AS 1987 2685](https://fedlex.data.admin.ch/eli/oc/1987/2685_2685_2685)
 
@@ -73,7 +73,7 @@ Im Sinne dieses Übereinkommens bedeutet:
 - g) «Generalsekretär»: der Generalsekretär des Rates;
 - h) «Ratifikation»: die eigentliche Ratifikation, die Annahme oder die Genehmigung.
 
-[^1-1]: [SR 0.631.121.2](https://fedlex.data.admin.ch/eli/cc/1953/42_42_42)
+[^1-1]: [SR 0.631.121.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2007)
 
 #### Art. 2
 
@@ -230,7 +230,7 @@ Jeder Staat oder jede Zoll‑ oder Wirtschaftsunion, welcher oder welche die Vor
 
 **Inkrafttreten**
 
-1.[^13-1] Dieses Übereinkommen tritt am 1. Januar in Kraft, der nach mindestens drei Monaten unmittelbar auf das Datum folgt, an welchem mindestens siebzehn der vorstehend in Artikel 11 genannten Staaten oder Zoll‑ oder Wirtschaftsunionen das Übereinkommen ohne Ratifikationsvorbehalt unterzeichnet oder ihre Ratifikations‑ oder Beitrittsurkunden hinterlegt haben, jedoch nicht vor dem 1. Januar 1988.
+<sup>1.</sup> Dieses Übereinkommen tritt am 1. Januar in Kraft, der nach mindestens drei Monaten unmittelbar auf das Datum folgt, an welchem mindestens siebzehn der vorstehend in Artikel 11 genannten Staaten oder Zoll‑ oder Wirtschaftsunionen das Übereinkommen ohne Ratifikationsvorbehalt unterzeichnet oder ihre Ratifikations‑ oder Beitrittsurkunden hinterlegt haben, jedoch nicht vor dem 1. Januar 1988.[^13-1]
 
 <sup>2.</sup> Für jeden Staat oder jede Zoll‑ oder Wirtschaftsunion, welcher oder welche dieses Übereinkommen ohne Ratifikationsvorbehalt unterzeichnet, es ratifiziert oder ihm beitritt, nachdem die in Absatz 1 dieses Artikels festgelegte Mindestanzahl erreicht worden ist, tritt dieses Übereinkommen am 1. Januar in Kraft, der innerhalb einer Frist von mindestens zwölf Monaten und höchstens vierundzwanzig Monaten auf das Datum folgt, an welchem dieser Staat oder diese Zoll‑ oder Wirtschaftsunion, ohne ein früheres Datum zu bezeichnen, das Übereinkommen ohne Ratifikationsvorbehalt unterzeichnet oder die Ratifikations‑ oder Beitrittsurkunde hinterlegt hat. Das Datum des Inkrafttretens nach den Bestimmungen dieses Absatzes darf jedoch nicht vor dem in Absatz 1 dieses Artikels bestimmten Datum liegen.
 
@@ -308,20 +308,20 @@ Der Generalsekretär notifiziert den Vertragsparteien, den anderen Signatarstaat
 
 Dieses Übereinkommen wird gemäss Artikel 102 der Charta der Vereinten Nationen[^20-1] auf Antrag des Generalsekretärs des Rates beim Sekretariat der Vereinten Nationen registriert.
 
-[^20-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^20-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 *Zu Urkund dessen* haben die dazu ordnungsgemäss bevollmächtigten Unterzeichner dieses Übereinkommen unterzeichnet. Geschehen zu Brüssel am 14. Juni 1983 in englischer und französischer Sprache, wobei beide Texte gleichermassen rechtsverbindlich sind, in einem einzigen Exemplar, das beim Generalsekretär des Rates hinterlegt wird, der allen in Artikel 11 genannten Staaten und Zoll‑ oder Wirtschaftsunionen beglaubigte Abschriften übermittelt. (Es folgen die Unterschriften)
 
-Anhang*[^t-2]*
+Anhang[^t-2]
 
 (Art. 2)
 
-## Nomenklatur des Harmonisierten Systems****
+## Nomenklatur des Harmonisierten Systems
 
 [^annexu1-lvlu1-1]
 
 [^t-2]: Fassung gemäss der Mitteilung in [AS 2016 3861](https://fedlex.data.admin.ch/eli/oc/2016/651). Bereinigt gemäss der Mitteilung in [AS 2022 131](https://fedlex.data.admin.ch/eli/oc/2022/131).
-[^annexu1-lvlu1-1]: Dieser Anhang wird nach Art. 5 Abs. 1 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) in der AS nicht publiziert; er wird in den Anhang zum Zolltarifgesetz vom 9. Okt. 1986 ([SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)), Generaltarif, aufgenommen, der im Internet unter www.bazg.admin.ch publiziert wird. Er wird ebenfalls in den gestützt auf Art. 15 Abs. 2 des Zolltarifgesetzes vom 9. Okt. 1986 herausgegebenen Zolltarif übernommen, der im Internet unter www.tares.ch konsultiert werden kann.
+[^annexu1-lvlu1-1]: Dieser Anhang wird nach Art. 5 Abs. 1 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) in der AS nicht publiziert; er wird in den Anhang zum Zolltarifgesetz vom 9. Okt. 1986 ([SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)), Generaltarif, aufgenommen, der im Internet unter www.bazg.admin.ch publiziert wird. Er wird ebenfalls in den gestützt auf Art. 15 Abs. 2 des Zolltarifgesetzes vom 9. Okt. 1986 herausgegebenen Zolltarif übernommen, der im Internet unter www.tares.ch konsultiert werden kann.
 
 Änderungen des Anhangs wurden vom Generalsekretär der Weltzollorganisation (WZO) in Brüssel wie folgt notifiziert:
 
@@ -336,7 +336,7 @@ Anhang*[^t-2]*
 - 03\. Juli 2020 Inkraftsetzung 1.1.2023 (Die Vertragsparteien werden aufgefordert, die Änderungen per 1.1.2022 umzusetzen)
 - 09\. Juli 2021 Inkraftsetzung 1.1.2024 (Die Vertragsparteien werden aufgefordert, die Änderungen per 1.1.2022 umzusetzen)
 
-Geltungsbereich am 21. Januar 2020**[^t-3]**
+Geltungsbereich am 18. August 2025[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -364,6 +364,7 @@ Geltungsbereich am 21. Januar 2020**[^t-3]**
 <tr><td>Brunei</td><td>28. Juni</td><td>2014 B</td><td>28. Juni</td><td>2014</td></tr>
 <tr><td>Bulgarien</td><td>30. Oktober</td><td>1990 B</td><td>1. Januar</td><td>1992</td></tr>
 <tr><td>Burkina Faso</td><td>25. September</td><td>1990</td><td>1. Januar</td><td>1992</td></tr>
+<tr><td>Burundi</td><td>18. Januar</td><td>2017 B</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Chile</td><td>17. Februar</td><td>2005 B</td><td>1. Januar</td><td>2007</td></tr>
 <tr><td>China</td><td>23. Juni</td><td>1992 B</td><td>1. Januar</td><td>1993</td></tr>
 <tr><td>Costa Rica</td><td>3. Juli</td><td>2012 B</td><td>1. Januar</td><td>2014</td></tr>
@@ -373,6 +374,7 @@ Geltungsbereich am 21. Januar 2020**[^t-3]**
 <tr><td>Dominikanische Republik</td><td>7. September</td><td>2006 B</td><td>1. Januar</td><td>2008</td></tr>
 <tr><td>Dschibuti</td><td>12. Juni</td><td>2015 B</td><td>1. September</td><td>2015</td></tr>
 <tr><td>Ecuador</td><td>22. Oktober</td><td>2008 B</td><td>1. Januar</td><td>2010</td></tr>
+<tr><td>El Salvador</td><td>28. Juni</td><td>2025 B</td><td>30. Juni</td><td>2025</td></tr>
 <tr><td>Eritrea</td><td>17. Januar</td><td>2003 B</td><td>17. Januar</td><td>2003</td></tr>
 <tr><td>Estland</td><td>26. Mai</td><td>1993 B</td><td>1. Januar</td><td>1995</td></tr>
 <tr><td>Eswatini</td><td>26. November</td><td>1985 U</td><td>1. Januar</td><td>1988</td></tr>
@@ -385,6 +387,7 @@ Geltungsbereich am 21. Januar 2020**[^t-3]**
 <tr><td>St. Pierre und Miquelon</td><td>20. April</td><td>1988</td><td>1. Januar</td><td>1988</td></tr>
 <tr><td>Wallis und Futuna</td><td>24. Mai</td><td>1989</td><td>1. April</td><td>1989</td></tr>
 <tr><td>Gabun</td><td>7. Juli</td><td>2000</td><td>1. Januar</td><td>2002</td></tr>
+<tr><td>Gambia</td><td>21. Juni</td><td>2019 B</td><td>1. Januar</td><td>2021</td></tr>
 <tr><td>Georgien</td><td>27. März</td><td>2009 B</td><td>1. Januar</td><td>2011</td></tr>
 <tr><td>Ghana</td><td>29. Juni</td><td>2007</td><td>1. Januar</td><td>2009</td></tr>
 <tr><td>Griechenland</td><td>15. Juli</td><td>1988</td><td>1. Januar</td><td>1990</td></tr>
@@ -411,10 +414,11 @@ Geltungsbereich am 21. Januar 2020**[^t-3]**
 <tr><td>Kenia</td><td>29. Juli</td><td>1988 B</td><td>1. Juli</td><td>1989</td></tr>
 <tr><td>Kirgisistan</td><td>4. Januar</td><td>2007 B</td><td>1. Januar</td><td>2009</td></tr>
 <tr><td>Kolumbien</td><td>21. Oktober</td><td>2002 B</td><td>21. Oktober</td><td>2002</td></tr>
-<tr><td>Komoren</td><td>7. Januar</td><td>2013 B</td><td>1. Januar</td><td>2015</td></tr>
+<tr><td>Komoren</td><td>7. Januar</td><td>2013</td><td>1. Januar</td><td>2015</td></tr>
 <tr><td>Kongo (Brazzaville)</td><td>27. März</td><td>2007 B</td><td>1. Januar</td><td>2009</td></tr>
 <tr><td>Kongo (Kinshasa)</td><td>10. November</td><td>1987</td><td>1. Januar</td><td>1988</td></tr>
 <tr><td>Korea (Süd-)</td><td>27. November</td><td>1987</td><td>1. Januar</td><td>1988</td></tr>
+<tr><td>Kosovo</td><td>31. Oktober</td><td>2020 B</td><td>1. Januar</td><td>2022</td></tr>
 <tr><td>Kroatien</td><td>29. September</td><td>1994 B</td><td>29. September</td><td>1994</td></tr>
 <tr><td>Kuba</td><td>3. November</td><td>1995 B</td><td>1. Januar</td><td>1997</td></tr>
 <tr><td>Kuwait</td><td>27. November</td><td>2003 B</td><td>1. Januar</td><td>2005</td></tr>
@@ -451,6 +455,7 @@ Geltungsbereich am 21. Januar 2020**[^t-3]**
 <tr><td>Oman</td><td>12. Mai</td><td>2016</td><td>1. Januar</td><td>2018</td></tr>
 <tr><td>Österreich</td><td>22. September</td><td>1987</td><td>1. Januar</td><td>1988</td></tr>
 <tr><td>Pakistan</td><td>22. September</td><td>1987</td><td>1. Juli</td><td>1988</td></tr>
+<tr><td>Palästina</td><td>10. März</td><td>2017 B</td><td>1. Januar</td><td>2018</td></tr>
 <tr><td>Panama</td><td>24. August</td><td>1998 B</td><td>1. Januar</td><td>2000</td></tr>
 <tr><td>Papua-Neuguinea</td><td>18. Dezember</td><td>2013 B</td><td>1. Januar</td><td>2014</td></tr>
 <tr><td>Paraguay</td><td>12. Januar</td><td>2007 B</td><td>1. Januar</td><td>2009</td></tr>
@@ -468,6 +473,7 @@ Geltungsbereich am 21. Januar 2020**[^t-3]**
 <tr><td>Schweiz</td><td>22. September</td><td>1987</td><td>1. Januar</td><td>1988</td></tr>
 <tr><td>Senegal</td><td>21. September</td><td>1989 B</td><td>1. Januar</td><td>1991</td></tr>
 <tr><td>Serbien</td><td>9. Januar</td><td>2002 B</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Seychellen</td><td>21. August</td><td>2020 B</td><td>1. Januar</td><td>2022</td></tr>
 <tr><td>Sierra Leone</td><td>12. Juni</td><td>2015 B</td><td>1. Januar</td><td>2017</td></tr>
 <tr><td>Simbabwe</td><td>5. November</td><td>1986 U</td><td>1. Januar</td><td>1988</td></tr>
 <tr><td>Singapur</td><td>30. November</td><td>2005 B</td><td>1. Januar</td><td>2006</td></tr>
@@ -486,11 +492,13 @@ Geltungsbereich am 21. Januar 2020**[^t-3]**
 <tr><td>Tschechische Republik</td><td>16. November</td><td>1993 B</td><td>16. November</td><td>1993</td></tr>
 <tr><td>Tunesien</td><td>28. Oktober</td><td>1987</td><td>1. Januar</td><td>1989</td></tr>
 <tr><td>Türkei</td><td>15. Dezember</td><td>1988 B</td><td>1. Januar</td><td>1989</td></tr>
+<tr><td>Turkmenistan</td><td>24. April</td><td>2023 B</td><td>1. Januar</td><td>2025</td></tr>
 <tr><td>Uganda</td><td>11. Juli</td><td>1989 B</td><td>1. Januar</td><td>1991</td></tr>
 <tr><td>Ukraine</td><td>26. August</td><td>2002 B</td><td>1. Januar</td><td>2004</td></tr>
 <tr><td>Ungarn</td><td>27. August</td><td>1990</td><td>1. Januar</td><td>1991</td></tr>
 <tr><td>Uruguay</td><td>17. Oktober</td><td>2011 B</td><td>1. Januar</td><td>2012</td></tr>
 <tr><td>Usbekistan</td><td>17. November</td><td>1998 B</td><td>1. Januar</td><td>2000</td></tr>
+<tr><td>Vanuatu</td><td>28. März</td><td>2018 B</td><td>1. Januar</td><td>2020</td></tr>
 <tr><td>Venezuela</td><td>23. Oktober</td><td>1998 B</td><td>2. November</td><td>1998</td></tr>
 <tr><td>Vereinigte Arabische Emirate</td><td>27. Juni</td><td>2002 B</td><td>1. Juli</td><td>2002</td></tr>
 <tr><td>Vereinigte Staaten</td><td>31. Oktober</td><td>1988 B</td><td>1. Januar</td><td>1989</td></tr>
@@ -503,4 +511,4 @@ Geltungsbereich am 21. Januar 2020**[^t-3]**
 <tr><td>Zypern</td><td>21. März</td><td>1994 B</td><td>21. März</td><td>1994</td></tr>
 </table>
 
-[^t-3]: [AS 1987 2686](https://fedlex.data.admin.ch/eli/oc/1987/2686_2686_2686); [1989 387](https://fedlex.data.admin.ch/eli/oc/1989/387_387_387); [1990 1606](https://fedlex.data.admin.ch/eli/oc/1990/1606_1606_1606); [2002 4080](https://fedlex.data.admin.ch/eli/oc/2002/656); [2005 767](https://fedlex.data.admin.ch/eli/oc/2005/95); [2009 67](https://fedlex.data.admin.ch/eli/oc/2009/12); [2012 379](https://fedlex.data.admin.ch/eli/oc/2012/30); [2014 95](https://fedlex.data.admin.ch/eli/oc/2014/9); [2016 499](https://fedlex.data.admin.ch/eli/oc/2016/86); [2020 285](https://fedlex.data.admin.ch/eli/oc/2020/52). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.
+[^t-3]: Die Veröffentlichung ergänzt die früheren in [AS 1987 2686](https://fedlex.data.admin.ch/eli/oc/1987/2686_2686_2686); [1989 387](https://fedlex.data.admin.ch/eli/oc/1989/387_387_387); [1990 1606](https://fedlex.data.admin.ch/eli/oc/1990/1606_1606_1606); [2002 4080](https://fedlex.data.admin.ch/eli/oc/2002/656); [2005 767](https://fedlex.data.admin.ch/eli/oc/2005/95); [2009 67](https://fedlex.data.admin.ch/eli/oc/2009/12); [2012 379](https://fedlex.data.admin.ch/eli/oc/2012/30); [2014 95](https://fedlex.data.admin.ch/eli/oc/2014/9); [2016 499](https://fedlex.data.admin.ch/eli/oc/2016/86); [2020 285](https://fedlex.data.admin.ch/eli/oc/2020/52); [2025 521](https://fedlex.data.admin.ch/eli/oc/2025/521). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
