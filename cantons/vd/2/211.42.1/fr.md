@@ -4,7 +4,7 @@ number: "211.42.1"
 title: "RÈGLEMENT du 10.12.1993 concernant l'exécution de la loi du 13 septembre 1993 d'application de la loi fédérale du 4 octobre 1991 sur le droit foncier rural (RLVLDFR)"
 short: RLVLDFR
 language: fr
-version: 2010-05-01
+version: 2025-08-18
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/211.42.1?id=756ddcfc-b45e-4659-b07d-ea9171384f49"
 ---
 
@@ -101,11 +101,16 @@ arrête
 
 **[^8-1]**
 
-<sup>1</sup> La Commission foncière rurale (section I) perçoit un émolument égal à 2 <sup>o</sup>/oo (deux pour mille) de la valeur de l'opération, respectivement du prix de vente, du prix licite, du dépassement de la charge maximale, de la valeur de rendement ou de l'estimation fiscale, dans les limites ci-après :
+<sup>1</sup> La Commission foncière rurale (section l) perçoit un émolument égal à 2.5 0/00 (deux et demi pour mille) de la valeur de l'opération, respectivement du prix de vente, du prix licite, du dépassement de la charge maximale, de la valeur de rendement ou de l'estimation fiscale, dans les limites ci-après :
 
-- - en matière d'acquisition : Fr. 100.- à 10'000.-
-- - en matière de révocation d'une autorisation, de rectification du Registre foncier, de charge maximale et de mention au Registre foncier : Fr. 100.- à 5000.-
-- - en matière de partage matériel, de morcellement, de fixation du prix licite, d'estimation et d'approbation de la valeur de rendement : Fr. 100.- à 1000.-
+- - en matière d'acquisition d'immeubles ou de participations à des sociétés : CHF 200.- à 10'000.-
+- - en matière de révocation d'une autorisation, de rectification du Registre foncier, de charge maximale et de mention au Registre foncier : CHF 200.- à 5'000.-
+- - en matière de partage matériel, de morcellement, de fixation du prix licite, d'estimation et d'approbation de la valeur de rendement : CHF 200.- à 1'000.-
+- - lors d'une décision en constatation portant sur d'autres questions susceptibles d'être examinées en vertu des dispositions de droit public de la LDFR : CHF 500. - à 2'000.-
+
+<sup>1bis</sup> La Commission foncière rurale (section l) perçoit par ailleurs les émoluments suivants :
+
+- - pour la délivrance d'un duplicata ou d'une confirmation de la validité d'une décision antérieure : CHF 100.-
 
 <sup>2</sup> La Commission foncière rurale réduit l'émolument de moitié lorsque la décision qu'elle a prise a pour effet d'empêcher la réalisation de l'opération immobilière soumise à autorisation.
 
