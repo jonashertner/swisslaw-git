@@ -1,32 +1,36 @@
 ---
 canton: UR
 number: "9.3401"
-title: Gesetz über das Grundbuch
+title: GESETZ über das Grundbuch
 short: GBG
 language: de
 version: 2007-01-01
+corrected: 2025-08-19
 version_adopted: 2006-11-26
 adopted: 2004-09-26
 in_force: 2005-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/9.3401"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/817/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/157/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über das Grundbuch
+# GESETZ über das Grundbuch
 
-(GBG)
+GESETZ über das Grundbuch (GBG)
 
-Vom 26.09.2004 (Stand 01.01.2007)
+(vom 26. September 2004[^t-1]; Stand am 1. Januar 2007)
 
-Das Volk des Kantons Uri,
-
-gestützt auf Artikel 90 der Kantonsverfassung (RB [1.1101](https://rechtsbuch.ur.ch/data/1.1101/de)) und auf Artikel 52 des Schlusstitels des Schweizerischen Zivilgesetzbuches (SR [210](https://db.clex.ch/link/Bund/210/de)),
+Das Volk des Kantons Uri, gestützt auf Artikel 90 der Kantonsverfassung[^t-2] und auf Artikel 52 des Schlusstitels des Schweizerischen Zivilgesetzbuches[^t-3],
 
 beschliesst:
 
-## 1 Organisation und Aufsicht
+[^t-1]: AB vom 20. August 2004
+[^t-2]: RB 1.1101
+[^t-3]: SR 210
+
+### 1. Kapitel: ORGANISATION UND AUFSICHT
 
 #### Artikel 1
 
@@ -50,11 +54,11 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat übt die Oberaufsicht über das Amt für das Grundbuch aus.
 
-<sup>2</sup> Die zuständige Direktion[^Artikel3-1] ist unmittelbare Aufsichtsbehörde.
+<sup>2</sup> Die zuständige Direktion[^3-1] ist unmittelbare Aufsichtsbehörde.
 
-[^Artikel3-1]: Justizdirektion; vgl. Art. 1 und Art. 6 Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^3-1]: Justizdirektion; vgl. Art. 1 und Art. 6 Organisationsreglement (RB 2.3322).
 
-## 2 Grundsätze der Grundbuchführung
+### 2. Kapitel: GRUNDSÄTZE DER GRUNDBUCHFÜHRUNG
 
 #### Artikel 4
 
@@ -62,9 +66,11 @@ beschliesst:
 
 <sup>1</sup> Alle Grundstücke, auch jene, die nicht im Privateigentum stehen und die dem öffentlichen Gebrauch dienen, werden in das Grundbuch aufgenommen.
 
-<sup>2</sup> Grundstücke, die im Miteigentum von Ehegatten, eingetragenen Partnerinnen oder Partnern stehen, sowie Autoabstellplätze und dergleichen, werden nur dann als Anteile an selbstständigem Miteigentum ins Grundbuch aufgenommen, wenn das Amt für das Grundbuch das ausdrücklich anordnet oder wenn die anmeldende Person es verlangt.
+<sup>2</sup> Grundstücke, die im Miteigentum von Ehegatten, eingetragenen Partnerinnen oder Partnern stehen, sowie Autoabstellplätze und dergleichen, werden nur dann als Anteile an selbstständigem Miteigentum ins Grundbuch aufgenommen, wenn das Amt für das Grundbuch das ausdrücklich anordnet oder wenn die anmeldende Person es verlangt.[^4-1]
 
 <sup>3</sup> Das Baurecht auf Allmend nach den Vorschriften der Korporationen Uri und Ursern kann in den Schranken des Bundesrechts als Baurecht des öffentlichen Rechts in das Grundbuch aufgenommen werden.
+
+[^4-1]: Fassung gemäss VA vom 26. November 2006, in Kraft gesetzt auf den 1. Januar 2007 (AB vom 20. Oktober 2006).
 
 #### Artikel 5
 
@@ -86,29 +92,29 @@ beschliesst:
 
 **Form**
 
-<sup>1</sup> Das Grundbuch wird mit elektronischer Datenverarbeitung geführt (EDV-Grundbuch).
+Das Grundbuch wird mit elektronischer Datenverarbeitung geführt (EDV-Grundbuch).
 
-## 3 Einführung des eidgenössischen Grundbuches
+### 3. Kapitel: EINFÜHRUNG DES EIDGENÖSSISCHEN GRUNDBUCHES
 
-### 3.1 Zweck
+### 1. Abschnitt: Zweck
 
 #### Artikel 8
 
-<sup>1</sup> Die Einführung des eidgenössischen Grundbuches bezweckt, die sachen-rechtlichen Verhältnisse an sämtlichen Grundstücken festzustellen, zu bereinigen und in die Rechtsformen des Schweizerischen Zivilgesetzbuches zu kleiden.
+Die Einführung des eidgenössischen Grundbuches bezweckt, die sachenrechtlichen Verhältnisse an sämtlichen Grundstücken festzustellen, zu bereinigen und in die Rechtsformen des Schweizerischen Zivilgesetzbuches zu kleiden.
 
-### 3.2 Bereinigungsvorschriften
+### 2. Abschnitt: Bereinigungsvorschriften
 
 #### Artikel 9
 
 **Eigentumsrechte**
 
-<sup>1</sup> Sofern die im Grundbuch eingetragenen Eigentumsrechte mit den wirklichen Eigentumsverhältnissen nicht übereinstimmen, sind sie richtig zu stellen. Der Grundbuchverwalter oder die Grundbuchverwalterin hat die Berechtigten aufzufordern, das entsprechende Verfahren einzuleiten.
+Sofern die im Grundbuch eingetragenen Eigentumsrechte mit den wirklichen Eigentumsverhältnissen nicht übereinstimmen, sind sie richtig zu stellen. Der Grundbuchverwalter oder die Grundbuchverwalterin hat die Berechtigten aufzufordern, das entsprechende Verfahren einzuleiten.
 
 #### Artikel 10
 
 **Nicht eingetragene Grundstücke**
 
-<sup>1</sup> Für Grundstücke, die bisher im kantonalen Grundbuch nicht aufgenommen worden sind, ist das Verfahren nach Artikel 662 ZGB durchzuführen.
+Für Grundstücke, die bisher im kantonalen Grundbuch nicht aufgenommen worden sind, ist das Verfahren nach Artikel 662 ZGB durchzuführen.
 
 #### Artikel 11
 
@@ -124,17 +130,15 @@ beschliesst:
 
 <sup>1</sup> Die eingereichten altrechtlichen Pfandrechte werden, soweit möglich, zusammengelegt und in Inhaberschuldbriefe umgewandelt.
 
-<sup>2</sup> Das Amt für das Grundbuch erklärt nicht eingereichte Grundpfandrechte als kraftlos. An deren Stelle wird im Grundbuch eine leere Pfandstelle eingetragen.
+2 Das Amt für das Grundbuch erklärt nicht eingereichte Grundpfandrechte als kraftlos. An deren Stelle wird im Grundbuch eine leere Pfandstelle eingetragen.
 
 <sup>3</sup> Die Kraftloserklärung wird gemeindeweise publiziert.
 
 #### Artikel 13
 
-**Verfahren**
+Verfahren Der Regierungsrat ordnet das Bereinigungsverfahren in einem Reglement.
 
-<sup>1</sup> Der Regierungsrat ordnet das Bereinigungsverfahren in einem Reglement.
-
-### 3.3 Inkraftsetzung des eidgenössischen Grundbuches
+### 3. Abschnitt: Inkraftsetzung des eidgenössischen Grundbuches
 
 #### Artikel 14
 
@@ -152,7 +156,7 @@ beschliesst:
 
 <sup>2</sup> Die Frist beginnt mit der Veröffentlichung des Beschlusses über das Inkrafttreten im Amtsblatt.
 
-## 4 Finanzielle Bestimmungen
+### 4. Kapitel: FINANZIELLE BESTIMMUNGEN
 
 #### Artikel 16
 
@@ -162,7 +166,7 @@ beschliesst:
 
 <sup>2</sup> Fehlt eine Handänderungssumme oder liegt sie offensichtlich unter dem Wert des Grundstückes, wird die Abgabe anhand der amtlichen Schätzung berechnet.
 
-<sup>3</sup> Die Abgabe beträgt jedoch mindestens 50 Franken und höchstens 10'000 Franken.
+<sup>3</sup> Die Abgabe beträgt jedoch mindestens 50 Franken und höchstens 10 000 Franken.
 
 #### Artikel 17
 
@@ -176,43 +180,56 @@ beschliesst:
 
 **Gebühren**
 
-<sup>1</sup> Soweit dieses Gesetz nichts anderes bestimmt, richten sich die Gebühren des Amtes für das Grundbuch nach der Gebührenverordnung (RB [3.2512](https://rechtsbuch.ur.ch/data/3.2512/de)) und dem Gebührenreglement (RB [3.2521](https://rechtsbuch.ur.ch/data/3.2521/de)).
+Soweit dieses Gesetz nichts anderes bestimmt, richten sich die Gebühren des Amtes für das Grundbuch nach der Gebührenverordnung[^18-1] und dem Gebührenreglement[^18-2].
 
-## 5 Schluss- und Übergangsbestimmungen
+[^18-1]: RB 3.2512
+[^18-2]: RB 3.2521
+
+### 5. Kapitel: SCHLUSS- UND ÜBERGANGSBESTIMMUNGEN
 
 #### Artikel 19
 
 **Übergangsbestimmung**
 
-<sup>1</sup> Bis zur Einführung des eidgenössischen Grundbuches kommt den Eintragungen in den übergangsrechtlichen Grundbucheinrichtungen Grundbuchwirkung nach Artikel 48 SchlT/ZGB zu. Danach werden sie im Staatsarchiv Uri archiviert.
+Bis zur Einführung des eidgenössischen Grundbuches kommt den Eintragungen in den übergangsrechtlichen Grundbucheinrichtungen Grundbuchwirkung nach Artikel 48 SchlT/ZGB zu. Danach werden sie im Staatsarchiv Uri archiviert.
 
 #### Artikel 20
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Das Gesetz vom 10. März 1985 über das Grundbuch wird aufgehoben.
+Das Gesetz vom 10. März 1985 über das Grundbuch[^20-1] wird aufgehoben.
+
+[^20-1]: RB 9.3401
 
 #### Artikel 21
 
-**Änderung bisherigen Rechts[^Artikel21-1]**
+**Änderung bisherigen Rechts**
 
-[^Artikel21-1]: Die Änderungen wurden in den entsprechenden Erlass eingefügt.
+...[^21-1]
+
+[^21-1]: Die Änderungen wurden in den entsprechenden Erlass eingefügt.
 
 #### Artikel 22
 
 **Ausführungsbestimmungen**
 
-<sup>1</sup> Der Regierungsrat führt dieses Gesetz näher aus. Er erlässt dazu ein Reglement (RB [9.3408](https://rechtsbuch.ur.ch/data/9.3408/de)).
+Der Regierungsrat führt dieses Gesetz näher aus. Er erlässt dazu ein Reglement[^22-1].
 
-#### Artikel 23
+**Artikel 23 Inkrafttreten**
 
-**Inkrafttreten**
+<sup>1</sup> Dieses Gesetz unterliegt der Volksabstimmung. Es bedarf der Genehmi-
 
-<sup>1</sup> Dieses Gesetz unterliegt der Volksabstimmung. Es bedarf der Genehmigung durch den Bund[^Artikel23-1].
+**gung durch den Bund11.**
 
-<sup>2</sup> Der Regierungsrat bestimmt, wann dieses Gesetz in Kraft tritt[^Artikel23-2].
+**Im Namen des Volkes**
 
-[^Artikel23-1]: Vom Bund genehmigt am 18. November 2004.
-[^Artikel23-2]: Vom Regierungsrat in Kraft gesetzt auf den 1. Januar 2005 (AB vom 24. Dezember 2004).
+**Der Landammann: Josef Arnold Der Kanzleidirektor: Dr. Peter Huber**
 
-AB 20.08.2004
+<sup>2</sup> Der Regierungsrat bestimmt, wann dieses Gesetz in Kraft tritt[^22-2].
+
+[^22-1]: RB 9.3408
+[^22-2]: Vom Regierungsrat in Kraft gesetzt auf den 1. Januar 2005 (AB vom 24. Dezember 2004).
+
+## Weitere Fussnoten
+
+- [11] Vom Bund genehmigt am 18. November 2004.
