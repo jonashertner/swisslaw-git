@@ -1,75 +1,85 @@
 ---
 canton: UR
 number: "9.2311"
-title: Verordnung über das Notariat
+title: VERORDNUNG über das Notariat
 language: de
 version: 2001-01-01
+corrected: 2025-08-19
 version_adopted: 1999-12-15
 adopted: 1911-10-09
 in_force: 1912-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/9.2311"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/812/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/146/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung über das Notariat
+# VERORDNUNG über das Notariat
 
-Vom 09.10.1911 (Stand 01.01.2001)
+VERORDNUNG über das Notariat
 
-Der Landrat des Kantons Uri,
+(vom 9. Oktober 1911; Stand am 1. Januar 1912)
 
-in Vollziehung von Artikel 21 Absatz 2 des Einführungsgesetzes zum Schweizerischen ZGB,
+Der Landrat des Kantons Uri, in Vollziehung von Artikel 21, 2. Absatz des Einführungsgesetzes zum Schweizerischen ZGB,
 
 beschliesst:
 
-## 1 Organisation des Notariates
+### I.Organisation des Notariates
 
 #### Artikel 1
 
 <sup>1</sup> Das Notariat ist ein vom Staat autorisierter Beruf öffentlichen Charakters.
 
-<sup>2</sup> Der Notar hat die ausschliessliche Befugnis zur öffentlichen Beurkundung im Sinne des ZGB (Artikel 21 Einführungsgesetz[^Artikel1-1]) und OR, einschliesslich Bürgschaftsrecht.
+<sup>2</sup> Der Notar hat die ausschliessliche Befugnis zur öffentlichen Beurkundung im Sinne des ZGB (Artikel 21 Einführungsgesetz[^1-1] und OR, einschliesslich Bürgschaftsrecht.[^1-2]
 
-<sup>3</sup> Er ist auch befugt, die Beglaubigung der Echtheit von Unterschriften, Buchauszügen oder Abschriften vorzunehmen (Artikel 24 Einführungsgesetz[^Artikel1-2]).
+<sup>3</sup> Er ist auch befugt, die Beglaubigung der Echtheit von Unterschriften, Buchauszügen oder Abschriften vorzunehmen (Artikel 24 Einführungsgesetz[^1-3].
 
 <sup>4</sup> Ebenso kann er Wechselproteste aufnehmen.
 
-[^Artikel1-1]: Jetzt Art. 10 EG/ZGB (RB [9.2111](https://rechtsbuch.ur.ch/data/9.2111/de)).
-[^Artikel1-2]: Jetzt Art. 10 EG/ZGB (RB [9.2111](https://rechtsbuch.ur.ch/data/9.2111/de)).
+[^1-1]: Jetzt Art. 10 EG/ZGB (RB 9.2111).
+[^1-2]: Fassung gemäss LRB vom 19.11.1942 (Nr. 9.4241).
+[^1-3]: Jetzt Art. 10 EG/ZGB (RB 9.2111).
 
 #### Artikel 2
 
 <sup>1</sup> Die zur Berufsausübung berechtigten Notare können ihre Funktionen im ganzen Kantonsgebiete ausüben.
 
-<sup>2</sup> Wer, ohne die Bewilligung zur Ausübung des Notariates zu besitzen, Funktionen vornimmt, welche nach gesetzlicher Vorschrift nur durch den Notar vorgenommen werden können, wird vom zuständigen Gerichte mit einer Geldbusse von 10 Franken bis 100 Franken bestraft.
+<sup>2</sup> Wer, ohne die Bewilligung zur Ausübung des Notariates zu besitzen, Funktionen vornimmt, welche nach gesetzlicher Vorschrift nur durch den Notar vorgenommen werden können, wird vom zuständigen Gerichte mit einer Geldbusse von Fr. 10.— bis Fr. 100.— bestraft.
 
-<sup>3</sup> Hauptamtlichen Angestellten ist die Ausübung des Berufes als Notar im Kanton Uri untersagt.
+3 Hauptamtlichen Angestellten ist die Ausübung des Berufes als Notar im Kanton Uri untersagt.[^2-1][^2-2]
+
+[^2-1]: Eingefügt durch LRB vom 22.2.1954.
+[^2-2]: Fassung gemäss LRB vom 15. Dezember 1999, in Kraft gesetzt auf den 1. Januar 2001 (AB vom 24. Dezember 1999).
 
 #### Artikel 3
 
-<sup>1</sup> Zur Ausübung des Notariatsberufes ist notwendig:
+Zur Ausübung des Notariatsberufes ist notwendig:
 
-- 1\. der Besitz des Schweizerbürgerrechtes, der bürgerlichen Rechte und Ehren und der Handlungsfähigkeit
-- 2\. ein guter Leumund
-- 3\. die nötigen fachtechnischen und wissenschaftlichen Kenntnisse und Fähigkeiten, über welche sich der Kandidat durch eine Prüfung auszuweisen hat
-- 4\. ständiger Wohnsitz im Kanton
+- 1\. der Besitz des Schweizerbürgerrechtes, der bürgerlichen Rechte und Ehren und der Handlungsfähigkeit;
+
+- 2\. ein guter Leumund;
+
+- 3\. die nötigen fachtechnischen und wissenschaftlichen Kenntnisse und Fähigkeiten, über welche sich der Kandidat durch eine Prüfung auszuweisen hat;
+
+- 4\. ständiger Wohnsitz im Kanton.
 
 #### Artikel 4
 
-<sup>1</sup> Das Obergericht bzw. eine von ihm ernannte Kommission ist die Prüfungsbehörde für die Notare.
+<sup>1</sup> Das Obergericht bzw. eine von ihm ernannte Kommission ist die Prüfungsbehörde für die Notare.[^4-1]
 
 <sup>2</sup> Die schriftliche und mündliche Prüfung erstreckt sich auf das Schweizerische Zivilgesetzbuch und das Obligationenrecht und die eidgenössischen und kantonalen Vollziehungsvorschriften zu denselben, Grundbuchverordnungen und das eidgenössische und kantonale Gesetz über Schuldbetreibung und Konkurs.
 
-<sup>3</sup> Das Obergericht erlässt die erforderlichen weitern Bestimmungen.
+<sup>3</sup> Das Obergericht erlässt die erforderlichen weitern Bestimmungen.[^4-2]
+
+[^4-1]: Fassung gemäss LRB vom 22.2.1954.
+[^4-2]: Eingefügt durch LRB vom 22.2.1954.
 
 #### Artikel 4a
 
 <sup>1</sup> Verfügungen der Prüfungskommission können mit Verwaltungsgerichtsbeschwerde beim Obergericht angefochten werden, sofern kein Unzulässigkeitsgrund vorliegt.
 
-<sup>2</sup> Das Verfahren richtet sich nach der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)).
-
-#### Artikel 5
+<sup>2</sup> Das Verfahren richtet sich nach der Verordnung über die Verwaltungsrechtspflege[^4a-1].
 
 <sup>1</sup> Wenn der Kandidat die vorgeschriebene Prüfung mit Erfolg bestanden hat, so wird ihm auf Grund des Gutachtens der Prüfungskommission durch den Regierungsrat das Patent als Notar erteilt.
 
@@ -77,9 +87,11 @@ beschliesst:
 
 <sup>3</sup> Ausnahmsweise kann solchen Personen, deren Befähigung zum Amte aus ihrer bisherigen amtlichen Stellung oder Berufstätigkeit unzweifelhaft feststeht, die Prüfung erlassen werden.
 
+[^4a-1]: RB 2.2345
+
 #### Artikel 6
 
-<sup>1</sup> Die Notare schwören vor dem Landammannamte folgenden Eid: «Ich schwöre, die mir übertragenen Notariatsverrichtungen mit aller Gewissenhaftigkeit zu erfüllen, nie einen Akt wider die öffentliche Ordnung oder die guten Sitten zu verschreiben, meine Dienste jedesmal, wenn ich dazu aufgefordert werde, zu leisten und darauf zu achten, dass die Parteien nicht hintergangen werden; das Amtsgeheimnis nach Massgabe der Gesetze zu wahren und alle mit meinem Berufe verbundenen Pflichten zu erfüllen. So wahr mir Gott helfe und die lieben Heiligen.»
+Die Notare schwören vor dem Landammannamte folgenden Eid: «Ich schwöre, die mir übertragenen Notariatsverrichtungen mit aller Gewissenhaftigkeit zu erfüllen, nie einen Akt wider die öffentliche Ordnung oder die guten Sitten zu verschreiben, meine Dienste jedesmal, wenn ich dazu aufgefordert werde, zu leisten und darauf zu achten, dass die Parteien nicht hintergangen werden; das Amtsgeheimnis nach Massgabe der Gesetze zu wahren und alle mit meinem Berufe verbundenen Pflichten zu erfüllen. So wahr mir Gott helfe und die lieben Heiligen.»
 
 #### Artikel 7
 
@@ -91,11 +103,13 @@ beschliesst:
 
 #### Artikel 8
 
-<sup>1</sup> Die Entziehung eines Notariatspatentes kann stattfinden:
+Die Entziehung eines Notariatspatentes kann stattfinden:
 
-- 1\. als gerichtliche Strafe nach Massgabe gerichtlichen Urteils
-- 2\. als Disziplinarmittel gemäss Artikel 22 dieser Verordnung
-- 3\. als administrative Massnahme, welche immer dann einzutreten hat, wenn eine der in Artikel 3 Ziffer 1, 2 und 4 vorgesehenen Voraussetzungen für die Ausübung des Notariatsberufes wegfällt
+- 1\. als gerichtliche Strafe nach Massgabe gerichtlichen Urteils;
+
+- 2\. als Disziplinarmittel gemäss Artikel 22 dieser Verordnung;
+
+- 3\. als administrative Massnahme, welche immer dann einzutreten hat, wenn eine der in Artikel 3 Ziffer 1, 2 und 4 vorgesehenen Voraussetzungen für die Ausübung des Notariatsberufes wegfällt.
 
 #### Artikel 9
 
@@ -105,9 +119,9 @@ beschliesst:
 
 #### Artikel 10
 
-<sup>1</sup> Die Amtskaution der Notare beträgt 3'000 Franken.
+Die Amtskaution der Notare beträgt Fr. 3 000.—.
 
-## 2 Allgemeine Berufspflichten des Notars
+### II.Allgemeine Berufspflichten des Notars
 
 #### Artikel 11
 
@@ -123,8 +137,6 @@ beschliesst:
 
 <sup>2</sup> Er kann sich von der Haftung nur durch den Nachweis befreien, dass die betreffende Form von den Parteien gegen seinen Rat gewollt und gewählt wurde.
 
-#### Artikel 13
-
 <sup>1</sup> Der Notar ist verpflichtet, über alle ihm in Ausübung seines Berufes anvertrauten Geheimnisse sowie über alle vor ihm geschehenen Verhandlungen, die nicht der Eintragung in öffentliche Bücher unterliegen, strengste Verschwiegenheit zu bewahren, sofern er nicht durch ausdrückliche Gesetzesvorschrift zur Anzeige oder Mitteilung an Behörden verpflichtet wird.
 
 <sup>2</sup> Er haftet auch nach Massgabe des Obligationenrechtes für die Verschwiegenheit seiner Gehilfen und Angestellten.
@@ -137,11 +149,11 @@ beschliesst:
 
 #### Artikel 15
 
-<sup>1</sup> Der Notar soll bei keinen Verträgen oder Geschäften mitwirken, welche durch die bestehenden Gesetze verboten oder der Sittlichkeit zuwider sind.
+Der Notar soll bei keinen Verträgen oder Geschäften mitwirken, welche durch die bestehenden Gesetze verboten oder der Sittlichkeit zuwider sind.
 
 #### Artikel 16
 
-<sup>1</sup> Im Übrigen darf der Notar die Vornahme einer von ihm ordnungsgemäss verlangten gesetzlich vorgesehenen Berufsfunktion nicht verweigern, sofern dieselbe in den Kreis seiner Zuständigkeit fällt.
+<sup>1</sup> Im übrigen darf der Notar die Vornahme einer von ihm ordnungsgemäss verlangten gesetzlich vorgesehenen Berufsfunktion nicht verweigern, sofern dieselbe in den Kreis seiner Zuständigkeit fällt.
 
 <sup>2</sup> Vorbehalten sind triftige Verhinderungsgründe und der gesetzliche Ausstand.
 
@@ -151,7 +163,7 @@ beschliesst:
 
 <sup>2</sup> Der Notar vertritt ohne gegenteilige Anordnung die Parteien im Anmeldeverfahren vor Grundbuchamt.
 
-## 3 Die Verantwortlichkeit
+### III.Die Verantwortlichkeit
 
 #### Artikel 17
 
@@ -159,7 +171,7 @@ beschliesst:
 
 <sup>2</sup> Für das Verschulden seiner Angestellten haftet er wie für sein eigenes.
 
-<sup>3</sup> Im Übrigen gelten für die Entstehung, die Beendigung und die Geltendmachung der aus der Verantwortlichkeit des Notars resultierenden Schadenersatzansprüche die Bestimmungen des OR.
+<sup>3</sup> Im übrigen gelten für die Entstehung, die Beendigung und die Geltendmachung der aus der Verantwortlichkeit des Notars resultierenden Schadenersatzansprüche die Bestimmungen des OR.
 
 #### Artikel 18
 
@@ -167,38 +179,39 @@ beschliesst:
 
 <sup>2</sup> Die strafrechtliche Verfolgung bleibt vorbehalten.
 
-## 4 Aufsicht und Disziplinarordnung
+### IV.Aufsicht und Disziplinarordnung
 
 #### Artikel 19
 
-<sup>1</sup> Der Regierungsrat führt die Oberaufsicht über die Notare und über die anderen Personen, die Beglaubigungen vornehmen.
+<sup>1</sup> Der Regierungsrat führt die Oberaufsicht über die Notare und über die anderen Personen, die Beglaubigungen vornehmen.[^19-1]
 
-<sup>2</sup> Die unmittelbare Aufsicht wird durch die zuständige Direktion[^Artikel19-1] ausgeübt.
+<sup>2</sup> Die unmittelbare Aufsicht wird durch die zuständige Direktion[^19-2] ausgeübt.[^19-3]
 
-[^Artikel19-1]: Justizdirektion; vgl. Art. 1 und 6 Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^19-1]: Fassung gemäss VA vom 4. Juni 1989, in Kraft gesetzt auf den 1. Januar 1990 (AB vom 3. März 1989).
+[^19-2]: Justizdirektion; vgl. Art. 1 und 6 Organisationsreglement (RB 2.3322).
+[^19-3]: Fassung gemäss LRB vom 9. November 1982, in Kraft gesetzt auf den 1. März 1983 (AB vom 19. November 1982).
 
 #### Artikel 20
 
-<sup>1</sup> Die Aufsichtsbehörden haben sowohl über die ordnungsgemässe Erfüllung der gesetzlich vorgeschriebenen Berufspflichten, als auch über die Wahrung der Würde und des Ansehens des Notariatsstandes zu wachen und nötigenfalls nach Massgabe ihrer Kompetenzen einzuschreiten.
-
-#### Artikel 21
-
-<sup>1</sup> Jeder Beteiligte, welcher sich über die Art und Weise der Berufsausübung seitens des Notars zu beklagen hat, kann gegen denselben beim Regierungsrat schriftlich Beschwerde führen.
+Die Aufsichtsbehörden haben sowohl über die ordnungsgemässe Erfüllung der gesetzlich vorgeschriebenen Berufspflichten, als auch über die Wahrung der Würde und des Ansehens des Notariatsstandes zu wachen und nötigenfalls nach Massgabe ihrer Kompetenzen einzuschreiten. Jeder Beteiligte, welcher sich über die Art und Weise der Berufsausübung seitens des Notars zu beklagen hat, kann gegen denselben beim Regierungsrat schriftlich Beschwerde führen.
 
 #### Artikel 22
 
 <sup>1</sup> Gegen Notare, welche ihre Berufspflichten verletzen oder durch die Art und Weise ihrer Geschäftsführung die Würde und das Ansehen des Standes gefährden, kann der Regierungsrat je nach Art und Schwere des Falles folgende Disziplinarmittel zur Anwendung bringen:
 
-- 1\. Verweis
-- 2\. Geldbusse bis zu 100 Franken
-- 3\. Einstellung bis zu 6 Monaten
-- 4\. Entzug des Patentes
+- 1\. Verweis;
+
+- 2\. Geldbusse bis zu Fr. 100.—;
+
+- 3\. Einstellung bis zu 6 Monaten;
+
+- 4\. Entzug des Patentes.
 
 <sup>2</sup> Sowohl die zeitweilige Einstellung als auch der Entzug des Patentes sind im Amtsblatt zu publizieren.
 
 <sup>3</sup> Die strafrechtliche Verfolgung bleibt vorbehalten.
 
-## 5 Das notarielle Verfahren
+### V.Das notarielle Verfahren
 
 #### Artikel 23
 
@@ -208,13 +221,11 @@ beschliesst:
 
 #### Artikel 24
 
-<sup>1</sup> Die Notariatsurkunde ist eine öffentliche Urkunde eines beeidigten Angestellten.
+<sup>1</sup> Die Notariatsurkunde ist eine öffentliche Urkunde eines beeidigten Angestellten.[^24-1]
 
-<sup>2</sup> Ihre materielle und prozessuale Rechtswirkung richtet sich nach den Bestimmungen des ZGB und der Zivilprozessordnung.
+<sup>2</sup> Ihre materielle und prozessuale Rechtswirkung richtet sich nach den Bestimmungen des ZGB und der Zivilprozessordnung. Die Form der notariellen Urkunde sowie das weitere Verfahren wird unter Vorbehalt der nachfolgenden Bestimmungen durch ein Reglement des Regierungsrates festgestellt.
 
-#### Artikel 25
-
-<sup>1</sup> Die Form der notariellen Urkunde sowie das weitere Verfahren wird unter Vorbehalt der nachfolgenden Bestimmungen durch ein Reglement des Regierungsrates festgestellt.
+[^24-1]: Fassung gemäss LRB vom 15. Dezember 1999, in Kraft gesetzt auf den 1. Januar 2001 (AB vom 24. Dezember 1999).
 
 #### Artikel 26
 
@@ -224,7 +235,7 @@ beschliesst:
 
 #### Artikel 27
 
-<sup>1</sup> In den Fällen, wo das ZGB für einzelne Vertragsformen und Handlungen besondere Vorschriften aufstellt (wie letztwillige Verfügungen, Erbverträge, Eheverträge etc.) bleiben dieselben vorbehalten.
+In den Fällen, wo das ZGB für einzelne Vertragsformen und Handlungen besondere Vorschriften aufstellt (wie letztwillige Verfügungen, Erbverträge, Eheverträge etc.) bleiben dieselben vorbehalten.
 
 #### Artikel 28
 
@@ -238,9 +249,9 @@ beschliesst:
 
 #### Artikel 29
 
-<sup>1</sup> Die notariellen Urkunden sind in dauerhafter, gut lesbarer Handschrift, Maschinenschrift oder gutem Druck herzustellen.
+1 Die notariellen Urkunden sind in dauerhafter, gut lesbarer Handschrift, Maschinenschrift oder gutem Druck herzustellen.
 
-<sup>2</sup> Der Regierungsrat ist ermächtigt, auch andere Herstellungsarten zu bewilligen, welche Gewähr gegen Veränderungen bieten.
+2 Der Regierungsrat ist ermächtigt, auch andere Herstellungsarten zu bewilligen, welche Gewähr gegen Veränderungen bieten.
 
 <sup>3</sup> Die Parteien sind berechtigt, handschriftliche Erstellung der Urschrift oder Ausfertigung zu verlangen.
 
@@ -262,17 +273,15 @@ beschliesst:
 
 <sup>2</sup> Das eine Register umfasst diejenigen Verurkundungen, von denen vom Notar Urschriften aufbewahrt werden.
 
-<sup>3</sup> In das andere Register sind alle Verurkundungen einzutragen, von welchen keine Urschriften vorhanden sind. (Legalisationen von Unterschriften, Beglaubigungen von Abschriften, Bescheinigungen etc.). Die aufgenommenen Wechselproteste sind im Sinne des Artikels 817 des OR[^Artikel31-1] in ein besonderes Register einzutragen.
+<sup>3</sup> In das andere Register sind alle Verurkundungen einzutragen, von welchen keine Urschriften vorhanden sind. (Legalisationen von Unterschriften, Beglaubigungen von Abschriften, Bescheinigungen etc.). Die aufgenommenen Wechselproteste sind im Sinne des Artikels 817 des OR[^31-1] in ein besonderes Register einzutragen.
 
-[^Artikel31-1]: Jetzt Art. 1034 ff. OR (SR [220](https://db.clex.ch/link/Bund/220/de)).
+[^31-1]: Jetzt Art. 1034 ff. OR (SR 220).
 
 #### Artikel 32
 
 <sup>1</sup> Die Registereintragung über Verurkundungen, von denen keine Urschriften vorhanden sind, ist mit einem nach dem Namen der Parteien geordneten alphabetischen Inhaltsverzeichnis zu versehen.
 
 <sup>2</sup> Die Register sind in gleicher Weise aufzubewahren wie die Urschriften.
-
-#### Artikel 33
 
 <sup>1</sup> Solange der Notar die Urschriften zu verwahren hat, ist er allein befugt, die notwendigen Ausfertigungen derselben an die Parteien aushinzugeben.
 
@@ -288,26 +297,27 @@ beschliesst:
 
 <sup>1</sup> Für kleinere Grenzregulierungen wird das Beurkundungsverfahren vereinfacht.
 
-<sup>2</sup> Eine kleinere Grenzregulierung im Sinne dieser Verordnung liegt dann vor, wenn sie eine Fläche von insgesamt höchstens 300 m² und einen Kaufpreis von höchstens 3'000 Franken zum Gegenstand hat.
+<sup>2</sup> Eine kleinere Grenzregulierung im Sinne dieser Verordnung liegt dann vor, wenn sie eine Fläche von insgesamt höchstens 300 m<sup>2</sup> und einen Kaufpreis von höchstens Fr. 3 000.— zum Gegenstand hat.
 
 #### Artikel 36
 
-<sup>1</sup> Die Vereinfachung des Verfahrens besteht darin, dass:
+Die Vereinfachung des Verfahrens besteht darin, dass:
 
-- a) der Notar dem Grundbuchamt und den Parteien einfache Durchschlagskopien anstelle von Vertragsausfertigungen zustellt
-- b) das Grundbuchamt dem Notar über die Eintragung eine einfache Bestätigung ausstellt
+- a) der Notar dem Grundbuchamt und den Parteien einfache Durchschlagskopien anstelle von Vertragsausfertigungen zustellt;
+
+- b) das Grundbuchamt dem Notar über die Eintragung eine einfache Bestätigung ausstellt.
 
 #### Artikel 37
 
-<sup>1</sup> Für die Expropriationsverträge (= Verträge im Enteignungsverfahren nach rechtskräftiger Planauflage) gelten die besonderen Vorschriften des Expropriationsrechtes.
+Für die Expropriationsverträge (= Verträge im Enteignungsverfahren nach rechtskräftiger Planauflage) gelten die besonderen Vorschriften des Expropriationsrechtes.
 
-## 6 Das Honorar
+### VI.Das Honorar
 
 #### Artikel 38
 
-<sup>1</sup> Die Berufstätigkeit des Notars ist eine entgeltliche.
+1 Die Berufstätigkeit des Notars ist eine entgeltliche.
 
-<sup>2</sup> Der Notar ist deshalb berechtigt, von den ihn beauftragenden Personen eine Entschädigung sowie den vollen Ersatz der gehabten Auslagen zu fordern. Er kann schon vor Ausführung des Auftrages von seinem Auftraggeber einen angemessenen Kostenvorschuss verlangen.
+2 Der Notar ist deshalb berechtigt, von den ihn beauftragenden Personen eine Entschädigung sowie den vollen Ersatz der gehabten Auslagen zu fordern. Er kann schon vor Ausführung des Auftrages von seinem Auftraggeber einen angemessenen Kostenvorschuss verlangen.
 
 <sup>3</sup> Die Höhe der vom Notar zu beziehenden Gebühren richtet sich nach dem dieser Verordnung beigefügten Tarif.
 
@@ -319,6 +329,8 @@ beschliesst:
 
 #### Artikel 40
 
-<sup>1</sup> Diese Verordnung tritt am 1. Januar 1912 in Kraft und ist zu promulgieren und in die Gesetzessammlung aufzunehmen.
+**Namens des Landrates des Kantons Uri**
 
-AB 12.10.1911
+**Der Vizepräsident: Albin Gnos Der Landschreiber: J. W. Lusser**
+
+Diese Verordnung tritt am 1. Januar 1912 in Kraft und ist zu promulgieren und in die Gesetzessammlung aufzunehmen.
