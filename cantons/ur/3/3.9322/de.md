@@ -1,27 +1,37 @@
 ---
 canton: UR
 number: "3.9322"
-title: Konkordat über die Kosten des Strafvollzugs
+title: KONKORDAT über die Kosten des Strafvollzugs
 language: de
 version: 1944-10-12
+corrected: 2025-08-19
 version_adopted: 1944-06-23
 adopted: 1944-06-23
 in_force: 1944-10-12
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.9322"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/911/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/136/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Konkordat über die Kosten des Strafvollzugs
+# KONKORDAT über die Kosten des Strafvollzugs
 
-Vom 23.06.1944 (Stand 12.10.1944)
+KONKORDAT über die Kosten des Strafvollzugs[^t-1]
 
-In Ausführung der Artikel 368, 373 und 374 des schweizerischen Strafgesetzbuches vereinbaren die dem vorliegenden Konkordat beigetretenen Kantone in Bezug auf die Tragung der Vollzugskosten für Freiheitsstrafen und Massnahmen, die auf Grund des schweizerischen Strafgesetzbuches ausgesprochen werden, folgende Regelung:
+(vom 23. Juni 1944)
 
-## 1 Allgemeine Grundsätze
+Vom Bundesrat genehmigt am 23. Juni 1944.
 
-### 1.1 Kostentragung bei Freiheitsstrafen
+Datum des Inkrafttretens: 1. Juli 1944; Stand am 6. Oktober 1949
+
+In Ausführung der Artikel 368, 373 und 374 des schweizerischen Strafgesetzbuches vereinbaren die dem vorliegenden Konkordat beigetretenen Kantone in bezug auf die Tragung der Vollzugskosten für Freiheitsstrafen und Massnahmen, die auf Grund des schweizerischen Strafgesetzbuches ausgesprochen werden, folgende Regelung:
+
+Erster Teil: ALLGEMEINE GRUNDSÄTZE
+
+I.Kostentragung bei Freiheitsstrafen
+
+[^t-1]: Beitritt durch LRB vom 12.10.1944
 
 #### Artikel 1
 
@@ -31,33 +41,43 @@ In Ausführung der Artikel 368, 373 und 374 des schweizerischen Strafgesetzbuche
 
 #### Artikel 2
 
-<sup>1</sup> Jeder Kanton trägt die Vollzugskosten der von seinen Behörden ausgesprochenen Freiheitsstrafen selbst, ohne Rücksicht auf Heimatangehörigkeit und Wohnort des Verurteilten. Es steht ihm, andere Vereinbarung vorbehalten, kein Rückforderungsrecht gegenüber dem Heimat- und dem Wohnkanton zu.
+Jeder Kanton trägt die Vollzugskosten der von seinen Behörden ausgesprochenen Freiheitsstrafen selbst, ohne Rücksicht auf Heimatangehörigkeit und Wohnort des Verurteilten. Es steht ihm, andere Vereinbarung vorbehalten, kein Rückforderungsrecht gegenüber dem Heimat- und dem Wohnkanton zu.
 
-### 1.2 Kostenverteilung bei Massnahmen
+### II.Kostenverteilung bei Massnahmen
 
 #### Artikel 3
 
-<sup>1</sup> Als Massnahmen im Sinne dieses Konkordates gelten die Verwahrung, Behandlung und Versorgung Unzurechnungsfähiger und vermindert Zurechnungsfähiger (Artikel 14 und 15 StGB), die sichernden Massnahmen (Artikel 42 bis 45 StGB), die Versorgung von Kindern und Jugendlichen in einer Erziehungsanstalt oder in einer Familie, die besondere Behandlung von Kindern und Jugendlichen und die nachträgliche Versetzung eines Jugendlichen in eine Strafanstalt (Artikel 84, 85, 91, 92 und 93, Absatz 2, StGB).
+Als Massnahmen im Sinne dieses Konkordates gelten die Verwahrung, Behandlung und Versorgung Unzurechnungsfähiger und vermindert Zurechnungsfähiger (Artikel 14 und 15 StGB), die sichernden Massnahmen (Artikel 42 bis 45 StGB), die Versorgung von Kindern und Jugendlichen in einer Erziehungsanstalt oder in einer Familie, die besondere Behandlung von Kindern und Jugendlichen und die nachträgliche Versetzung eines Jugendlichen in eine Strafanstalt (Artikel 84, 85, 91, 92 und 93, Absatz 2, StGB).
 
 #### Artikel 4
 
 <sup>1</sup> Jede Massnahme wird durch den Kanton vollzogen, dessen Behörde sie angeordnet hat (Urteilskanton).
 
-<sup>2</sup> Der Heimatkanton und im Falle der Beitragspflicht des Wohnkantons auch dieser haben jedoch das Recht, den Vollzug der Massnahme selbst zu übernehmen. Wenn beide Kantone die Übernahme begehren, so hat der Kanton den Vorzug, der den höheren Beitrag zu leisten hat, und bei gleicher Beteiligung der Heimatkanton.
+<sup>2</sup> Der Heimatkanton und im Falle der Beitragspflicht des Wohnkantons auch dieser haben jedoch das Recht, den Vollzug der Massnahme selbst zu übernehmen. Wenn beide Kantone die Übernahme begehren, so hat der Kanton den Vorzug, der den höhern Beitrag zu leisten hat, und bei gleicher Beteiligung der Heimatkanton.
 
 #### Artikel 5
 
-<sup>1</sup> Die Kosten der Massnahmen gegenüber Schweizerbürgern werden wie folgt unter den Urteils-, den Heimat- und den Wohnkanton verteilt:
+Die Kosten der Massnahmen gegenüber Schweizerbürgern werden wie folgt unter den Urteils-, den Heimat- und den Wohnkanton verteilt:
 
-- 1\. Der Urteilskanton trägt die Kosten der Massnahmen für die Dauer der ausgesprochenen, jedoch durch die Massnahme ersetzten oder aufgeschobenen Strafe allein (Artikel 14 Absatz 2, Artikel 15 Absatz 2, und Artikel 42 bis 45 StGB). Für Massnahmen gegen Unzurechnungsfähige (Artikel 14 und 15 StGB) sowie für Behandlung und Versorgung von Kindern und Jugendlichen (Artikel 84, 85, 91, 92 und 93, Absatz 2, StGB) trägt der Urteilskanton keine Kosten
+- 1\. Der Urteilskanton trägt die Kosten der Massnahmen für die Dauer der ausgesprochenen, jedoch durch die Massnahme ersetzten oder aufgeschobenen Strafe allein (Artikel 14 Absatz 2, Artikel 15 Absatz 2, und Artikel 42 bis 45 StGB). Für Massnahmen gegen Unzurechnungsfähige (Artikel 14 und 15 StGB) sowie für Behandlung und Versorgung von Kindern und Jugendlichen (Artikel 84, 85, 91, 92 und 93, Absatz 2, StGB) trägt der Urteilskanton keine Kosten.
+
 - 2\. Soweit die Kosten nicht gemäss Ziffer 1 vom Urteilskanton zu tragen sind, haben der Heimat- und der Wohnkanton dafür gemeinsam aufzukommen. Der Anteil dieser Kantone bestimmt sich nach der Wohndauer, die der zu Versorgende im Wohnkanton aufweist, wie folgt:
-  - a) Bei einer Wohndauer unter vier Jahren trägt der Heimatkanton die Kosten allein
-  - b) Bei einer Wohndauer von vier bis zehn Jahren trägt der Wohnkanton einen Viertel der Kosten
-  - c) Bei einer Wohndauer von zehn bis zwanzig Jahren trägt der Wohnkanton die Hälfte der Kosten
-  - d) Bei einer Wohndauer von über zwanzig Jahren trägt der Wohnkanton drei Viertel der Kosten
-  - e) Der Wohnkanton ist jedoch nicht beitragspflichtig, wenn er dem Verurteilten infolge des zu vollziehenden Strafurteils oder wegen Unterstützungsbedürftigkeit gemäss Artikel 45 der Bundesverfassung die Niederlassung entzogen hat
-  - f) Bei Verwahrungen fällt die Beitragspflicht des Wohnkantons für Verurteilte, deren Wohndauer 10 Jahre nicht erreicht, nach 2 Jahren, für Verurteilte, deren Wohndauer 20 Jahre nicht erreicht, nach 5 Jahren und für Verurteilte mit längerer Wohndauer nach 10 Jahren dahin
-- 3\. Ein Kanton, der in mehreren Eigenschaften am Vollzug beteiligt ist, hat in jeder derselben als Urteils-, Heimat- oder Wohnkanton an die Vollzugskosten beizutragen
+
+- a) Bei einer Wohndauer unter vier Jahren trägt der Heimatkanton die
+
+Kosten allein.
+
+- b) Bei einer Wohndauer von vier bis zehn Jahren trägt der Wohnkanton einen Viertel der Kosten.
+
+- c) Bei einer Wohndauer von zehn bis zwanzig Jahren trägt der Wohnkanton die Hälfte der Kosten.
+
+- d) Bei einer Wohndauer von über zwanzig Jahren trägt der Wohnkanton drei Viertel der Kosten.
+
+Der Wohnkanton ist jedoch nicht beitragspflichtig, wenn er dem Verurteilten infolge des zu vollziehenden Strafurteils oder wegen Unterstützungsbedürftigkeit gemäss Artikel 45 der Bundesverfassung die Niederlassung entzogen hat.
+
+Bei Verwahrungen fällt die Beitragspflicht des Wohnkantons für Verurteilte, deren Wohndauer 10 Jahre nicht erreicht, nach 2 Jahren, für Verurteilte, deren Wohndauer 20 Jahre nicht erreicht, nach 5 Jahren und für Verurteilte mit längerer Wohndauer nach 10 Jahren dahin.
+
+- 3\. Ein Kanton, der in mehreren Eigenschaften am Vollzug beteiligt ist, hat in jeder derselben als Urteils-, Heimat- oder Wohnkanton an die Vollzugskosten beizutragen.
 
 #### Artikel 6
 
@@ -67,15 +87,15 @@ In Ausführung der Artikel 368, 373 und 374 des schweizerischen Strafgesetzbuche
 
 #### Artikel 7
 
-<sup>1</sup> Die Kosten der gegen Ausländer ausgesprochenen Massnahmen trägt, unter Vorbehalt abweichender staatsvertraglicher Vereinbarungen, der Urteilskanton.
+Die Kosten der gegen Ausländer ausgesprochenen Massnahmen trägt, unter Vorbehalt abweichender staatsvertraglicher Vereinbarungen, der Urteilskanton.
 
-## 2 Ermittlungs- und Berechnungsgrundsätze
+Zweiter Teil: ERMITTLUNGS- UND BERECHNUNGSGRUNDSÄTZE
 
 #### Artikel 8
 
 <sup>1</sup> Als Heimatkanton ist der Kanton beitragspflichtig, dessen Bürger der Verurteilte zur Zeit der Rechtskraft des Urteils ist.
 
-<sup>2</sup> Ist der Verurteilte Bürger mehrerer Kantone, so bestimmt sich der Heimatkanton nach Artikel 22 des Zivilgesetzbuches.
+2 Ist der Verurteilte Bürger mehrerer Kantone, so bestimmt sich der Heimatkanton nach Artikel 22 des Zivilgesetzbuches.
 
 #### Artikel 9
 
@@ -99,11 +119,11 @@ In Ausführung der Artikel 368, 373 und 374 des schweizerischen Strafgesetzbuche
 
 <sup>2</sup> Der Preis für Pensionäre darf denjenigen, der für Kantonsbürger berechnet wird, nicht unangemessen übersteigen.
 
-<sup>3</sup> Als Vollzugskosten dürfen auch die notwendigen Auslagen für Bekleidung und Ausrüstung sowie für ärztliche Pflege verrechnet werden.
+<sup>3</sup> Als Vollzugskosten dürfen auch die notwendigen Auslagen für Bekleidung und Ausrüstung sowie für ärztliche Pflege verrechnet werden. Dritter Teil:
 
-## 3 Verfahren und Handhabung des Konkordates
+**VERFAHREN UND HANDHABUNG DES KONKORDATES**
 
-### 3.1 Urteil, Vollzug der Massnahmen und Kostenabrechnung
+### I.Urteil, Vollzug der Massnahmen und Kostenabrechnung
 
 #### Artikel 12
 
@@ -137,15 +157,15 @@ In Ausführung der Artikel 368, 373 und 374 des schweizerischen Strafgesetzbuche
 
 <sup>1</sup> Der Vollzug der Massnahmen erfolgt nach den im Vollzugskanton geltenden Bestimmungen.
 
-<sup>2</sup> Die Bürger anderer Kantone dürfen in Bezug auf Verdienstanteil, Verpflegung und Behandlung nicht anders gehalten werden als die Bürger des eigenen Kantons.
+<sup>2</sup> Die Bürger anderer Kantone dürfen in bezug auf Verdienstanteil, Verpflegung und Behandlung nicht anders gehalten werden als die Bürger des eigenen Kantons.
 
 #### Artikel 17
 
-<sup>1</sup> Die nach den Bestimmungen des schweizerischen Strafgesetzbuches der zuständigen Behörde oder dem Richter vorbehaltenen Entscheidungen (wie endgültige oder bedingte Entlassung, Aufhebung von Massnahmen, Wiedereinweisung, Schutzaufsicht, nachträglicher Vollzug der Strafe) sind von den Behörden des Urteilskantons zu treffen.
+Die nach den Bestimmungen des schweizerischen Strafgesetzbuches der zuständigen Behörde oder dem Richter vorbehaltenen Entscheidungen (wie endgültige oder bedingte Entlassung, Aufhebung von Massnahmen, Wiedereinweisung, Schutzaufsicht, nachträglicher Vollzug der Strafe) sind von den Behörden des Urteilskantons zu treffen.
 
 #### Artikel 18
 
-<sup>1</sup> Der Vollzugskanton hat der zuständigen Behörde des Urteilskantons mindestens jährlich einmal über den Vollzug zu berichten und ihr oder dem Richter des Urteilskantons von allen Umständen Kenntnis zu geben, die zu Entscheidungen nach Artikel 17 Anlass geben können.
+Der Vollzugskanton hat der zuständigen Behörde des Urteilskantons mindestens jährlich einmal über den Vollzug zu berichten und ihr oder dem Richter des Urteilskantons von allen Umständen Kenntnis zu geben, die zu Entscheidungen nach Artikel 17 Anlass geben können.
 
 #### Artikel 19
 
@@ -157,9 +177,9 @@ In Ausführung der Artikel 368, 373 und 374 des schweizerischen Strafgesetzbuche
 
 <sup>1</sup> Über jeden diesem Konkordat unterworfenen Fall rechnet der Urteilskanton mit den beteiligten Kantonen einheitlich für den ganzen Vollzug ab, auch wenn bestimmte Massnahmen (wie die Schutzaufsicht) in einem andern Kanton vollzogen werden.
 
-<sup>2</sup> Die Abrechnung erfolgt nach Abschluss des Vollzuges, sofern die beteiligten Kantone sich bei länger dauernden Massnahmen nicht auf periodische Teilabrechnung verständigen.
+2 Die Abrechnung erfolgt nach Abschluss des Vollzuges, sofern die beteiligten Kantone sich bei länger dauernden Massnahmen nicht auf periodische Teilabrechnung verständigen.
 
-### 3.2 Handhabung des Konkordates
+### II.Handhabung des Konkordates
 
 #### Artikel 21
 
@@ -183,33 +203,30 @@ In Ausführung der Artikel 368, 373 und 374 des schweizerischen Strafgesetzbuche
 
 #### Artikel 23
 
-<sup>1</sup> Ein rechtskräftig erledigter Fall kann von neuem anhängig gemacht werden, wenn auf Grund von neu entdeckten Tatsachen oder von Beweismitteln, die vorher nicht geltend gemacht werden konnten, seine Erledigung als offensichtlich unrichtig erscheint.
+Ein rechtskräftig erledigter Fall kann von neuem anhängig gemacht werden, wenn auf Grund von neu entdeckten Tatsachen oder von Beweismitteln, die vorher nicht geltend gemacht werden konnten, seine Erledigung als offensichtlich unrichtig erscheint.
 
 #### Artikel 24
 
-<sup>1</sup> Vorbehalten bleibt die staatsrechtliche Beschwerde von Angehörigen der Konkordatskantone gemäss Artikel 175 Ziffer 3 des Bundesgesetzes über die Organisation der Bundesrechtspflege.
+Vorbehalten bleibt die staatsrechtliche Beschwerde von Angehörigen der Konkordatskantone gemäss Artikel 175 Ziffer 3 des Bundesgesetzes über die Organisation der Bundesrechtspflege.
 
 #### Artikel 25
 
-<sup>1</sup> Das eidgenössische Justiz- und Polizeidepartement wird nach Bedarf Konferenzen der zuständigen Departemente der Konkordatskantone einberufen. An diesen Konferenzen können Fragen der Auslegung und Anwendung des vorliegenden Konkordates behandelt und durch Mehrheitsbeschluss entschieden werden.
+Das eidgenössische Justiz- und Polizeidepartement wird nach Bedarf Konferenzen der zuständigen Departemente der Konkordatskantone einberufen. An diesen Konferenzen können Fragen der Auslegung und Anwendung des vorliegenden Konkordates behandelt und durch Mehrheitsbeschluss entschieden werden.
 
-## 4 Schlussbestimmungen
+**SCHLUSSBESTIMMUNGEN**
+
+Vierter Teil:
 
 #### Artikel 26
 
-<sup>1</sup> Der Bundesrat bestimmt den Zeitpunkt des Inkrafttretens dieses Konkordates[^Artikel26-1].
+<sup>1</sup> Der Bundesrat bestimmt den Zeitpunkt des Inkrafttretens dieses Konkordates.
 
-<sup>2</sup> Ebenso setzt er den Zeitpunkt des Wirkungbeginns für Kantone fest, die dem Konkordat später beitreten[^Artikel26-2]..
+<sup>2</sup> Ebenso setzt er den Zeitpunkt des Wirkungbeginns für Kantone fest, die dem Konkordat später beitreten.
 
 <sup>3</sup> Die Bestimmungen des Konkordates finden keine Anwendung auf Urteile, die im Zeitpunkt des Inkrafttretens oder des Wirkungsbeginns im einzelnen Kanton bereits rechtskräftig geworden sind.
-
-[^Artikel26-1]: Vom Bundesrat genehmigt am 23. Juni 1944. Datum des Inkrafttretens: 1. Juli 1944; Stand am 6. Oktober 1949.
-[^Artikel26-2]: Beitritt durch LRB vom 12. Oktober 1944.
 
 #### Artikel 27
 
 <sup>1</sup> Jeder Vertragskanton kann unter Beobachtung einer sechsmonatigen Kündigungsfrist je auf den 1. Januar vom Konkordat zurücktreten.
 
 <sup>2</sup> Mitteilungen über Beitritt und Kündigung sind an den Bundesrat zu richten, der sie den Konkordatskantonen zur Kenntnis bringt.
-
-AB 19.10.1944
