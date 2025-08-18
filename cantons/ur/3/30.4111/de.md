@@ -1,110 +1,138 @@
 ---
 canton: UR
 number: "30.4111"
-title: Verordnung zum Bundesgesetz über explosionsgefährliche Stoffe
+title: VERORDNUNG zum Bundesgesetz über explosionsgefährliche Stoffe
 language: de
 version: 1995-06-01
+corrected: 2025-08-19
 version_adopted: 1994-03-23
 adopted: 1984-04-18
 in_force: 1984-07-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/30.4111"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/874/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/268/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung zum Bundesgesetz über explosionsgefährliche Stoffe
+# VERORDNUNG zum Bundesgesetz über explosionsgefährliche Stoffe
 
-Vom 18.04.1984 (Stand 01.06.1995)
+VERORDNUNG zum Bundesgesetz über explosionsgefährliche Stoffe
 
-Der Landrat des Kantons Uri,
+(vom 18. April 1984; Stand am 1. Juni 1995)
 
-gestützt auf Artikel 59 Buchstabe e der Kantonsverfassung (RB [1.1101](https://rechtsbuch.ur.ch/data/1.1101/de)) und auf Artikel 42 Absatz 2 des Bundesgesetzes vom 25. März 1977, über explosionsgefährliche Stoffe (Sprengstoffgesetz, SR [941.41](https://db.clex.ch/link/Bund/941.41/de)),
+Der Landrat des Kantons Uri, gestützt auf Artikel 59 Buchstabe e der Kantonsverfassung[^t-1] und auf Artikel 42 Absatz 2 des Bundesgesetzes vom 25. März 1977, über explosionsgefährliche Stoffe (Sprengstoffgesetz)[^t-2],
 
 beschliesst:
 
+[^t-1]: RB 1.1101
+[^t-2]: SR 941.41
+
 #### Artikel 1
 
-**Zuständigkeit: Direktion**
+Zuständigkeit a) Direktion
 
-<sup>1</sup> Soweit diese Verordnung nichts anderes bestimmt, ist die zuständige Direktion[^Artikel1-1] die kantonale Vollzugsbehörde im Sinne der eidgenössischen Sprengstoffgesetzgebung.
+<sup>1</sup> Soweit diese Verordnung nichts anderes bestimmt, ist die zuständige Direktion[^1-1] die kantonale Vollzugsbehörde im Sinne der eidgenössischen Sprengstoffgesetzgebung. Sie hat insbesondere:
 
-<sup>2</sup> Sie hat insbesondere:
+- a) die Bewilligung für den Handel mit Sprengmitteln und pyrotechnischen Gegenständen gemäss Artikel 10 Absatz 2 und 3 Sprengstoffgesetz[^1-2] zu erteilen,
 
-- a) die Bewilligung für den Handel mit Sprengmitteln und pyrotechnischen Gegenständen gemäss Artikel 10 Absatz 2 und 3 Sprengstoffgesetz (SR [941.41](https://db.clex.ch/link/Bund/941.41/de)) zu erteilen
-- b) den Verkauf von losem Schiesspulver durch Private zu bewilligen, nachdem die Zustimmung der eidgenössischen Kriegsmaterialverwaltung eingeholt wurde (Artikel 13 Absatz 4 Sprengstoffverordnung, SR [941.411](https://db.clex.ch/link/Bund/941.411/de))
-- c) Prüfungen zum Erwerb von Sprengausweisen durchzuführen, soweit hiefür nicht geeignete Organisationen der Wirtschaft herangezogen werden können (Artikel 14 Absatz 4 Sprengstoffgesetz, SR [941.41](https://db.clex.ch/link/Bund/941.41/de))
-- d) Spreng- und andere Verwendungsausweise zu entziehen (Artikel 30 und Artikel 31 Sprengstoffverordnung, SR [941.411](https://db.clex.ch/link/Bund/941.411/de))
+- b) den Verkauf von losem Schiesspulver durch Private zu bewilligen, nachdem die Zustimmung der eidgenössischen Kriegsmaterialverwaltung eingeholt wurde (Artikel 13 Absatz 4 Sprengstoffverordnung[^1-3],
 
-[^Artikel1-1]: Polizeidirektion, siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+- c) Prüfungen zum Erwerb von Sprengausweisen durchzuführen, soweit hiefür nicht geeignete Organisationen der Wirtschaft herangezogen werden können (Artikel 14 Absatz 4 Sprengstoffgesetz<sup>6</sup>),
 
-#### Artikel 2
+- d) Spreng- und andere Verwendungsausweise zu entziehen (Artikel 30 und Artikel 31 Sprengstoffverordnung<sup>7</sup>).
 
-**Zuständigkeit: Kantonspolizei**
+[^1-1]: Polizeidirektion, vgl. Art. 1 und Art. 6 Organisationsreglement (RB 2.3322)
+[^1-2]: SR 941.41
+[^1-3]: SR 941.411
 
-<sup>1</sup> Die Kantonspolizei[^Artikel2-1] hat:
+#### Artikel 2 b
 
-- a) den Erwerbsschein für Sprengmittel nach Artikel 12 Sprengstoffgesetz (SR [941.411](https://db.clex.ch/link/Bund/941.411/de)) und Artikel 20 Sprengstoffverordnung (SR [941.41](https://db.clex.ch/link/Bund/941.41/de)) und den Erwerbsschein für pyrotechnische Gegenstände nach Artikel 20 Absatz 4 Sprengstoffverordnung (SR [941.41](https://db.clex.ch/link/Bund/941.41/de)) auszustellen sowie die Erwerbsscheine bei Wegfall der hierfür erforderlichen Voraussetzungen nach Artikel 21 Absatz 5 Sprengstoffverordnung (SR [941.41](https://db.clex.ch/link/Bund/941.41/de)) zu widerrufen
-- b) Ausnahmebewilligungen nach Artikel 15 Absatz 5 Sprengstoffgesetz (SR [941.411](https://db.clex.ch/link/Bund/941.411/de)) zu erteilen
-- c) den Verkehr mit Sprengmitteln und pyrotechnischen Gegenständen nach Artikel 28 Absatz 1 Sprengstoffgesetz (SR [941.411](https://db.clex.ch/link/Bund/941.411/de)) und Artikel 32 ff. Sprengstoffverordnung (SR [941.41](https://db.clex.ch/link/Bund/941.41/de)) zu überwachen
+**) Kantonspolizei**
 
-[^Artikel2-1]: Siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+Die Kantonspolizei[^2b-1] hat:
 
-#### Artikel 3
+- a) den Erwerbsschein für Sprengmittel nach Artikel 12 Sprengstoffgesetz[^2b-2] und Artikel 20 Sprengstoffverordnung[^2b-3] und den Erwerbsschein für pyrotechnische Gegenstände nach Artikel 20 Absatz 4 Sprengstoffverordnung[^2b-4] auszustellen sowie die Erwerbsscheine bei Wegfall der hierfür erforderlichen Voraussetzungen nach Artikel 21 Absatz 5 Sprengstoffverordnung[^2b-5] zu widerrufen;
 
-**Zuständigkeit: Amt**
+- b) Ausnahmebewilligungen nach Artikel 15 Absatz 5 Sprengstoffgesetz[^2b-6] zu erteilen;
 
-<sup>1</sup> Das zuständige Amt[^Artikel3-1] hat:
+- c) den Verkehr mit Sprengmitteln und pyrotechnischen Gegenständen nach Artikel 28 Absatz 1 Sprengstoffgesetz[^2b-7] und Artikel 32 ff. Sprengstoffverordnung[^2b-8] zu überwachen.
 
-- a) die Lagerung von Sprengmitteln und pyrotechnischen Gegenständen nötigenfalls in Zusammenarbeit mit den kantonalen Fachstellen zu überprüfen
-- b) die Vorschriften über den Arbeitnehmerschutz gemäss Artikel 23 Sprengstoffgesetz (SR [941.411](https://db.clex.ch/link/Bund/941.411/de)) zu vollziehen
+[^2b-1]: Vgl. Art. 1 und Art. 6 Organisationsreglement (RB 2.3322)
+[^2b-2]: SR 941.411
+[^2b-3]: SR 941.41
+[^2b-4]: SR 941.41
+[^2b-5]: SR 941.41
+[^2b-6]: SR 941.411
+[^2b-7]: SR 941.411
+[^2b-8]: SR 941.41
 
-[^Artikel3-1]: Amt für Industrie, Gewerbe und Arbeit, siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+#### Artikel 3 c
+
+**) Amt**
+
+Das zuständige Amt[^3c-1] hat:
+
+- a) die Lagerung von Sprengmitteln und pyrotechnischen Gegenständen nötigenfalls in Zusammenarbeit mit den kantonalen Fachstellen zu überprüfen;
+
+- b) die Vorschriften über den Arbeitnehmerschutz gemäss Artikel 23 Sprengstoffgesetz<sup>17</sup> zu vollziehen.
+
+[^3c-1]: Amt für Industrie, Gewerbe und Arbeit, vgl. Art. 1 und Art. 6 Organisationsreglement (RB 2.3322)
 
 #### Artikel 4
 
 **Feuerwerkkörper**
 
-<sup>1</sup> Die zuständige Direktion[^Artikel4-1] kann den Detailhandel mit pyrotechnischen Gegenständen zu Vergnügungszwecken zeitlich beschränken, an weitere Bedingungen knüpfen und den Verkauf bestimmter Feuerwerkskörper verbieten.
+Die zuständige Direktion[^4-1] kann den Detailhandel mit pyrotechnischen Gegenständen zu Vergnügungszwecken zeitlich beschränken, an weitere Bedingungen knüpfen und den Verkauf bestimmter Feuerwerkskörper verbieten.
 
-[^Artikel4-1]: Polizeidirektion, siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^4-1]: Polizeidirektion, vgl. Art. 1 und Art. 6 Organisationsreglement (RB 2.3322)
 
 #### Artikel 5
 
 **Gebühren**
 
-<sup>1</sup> Bewilligungs-, Prüfungs- und Kontrollgebühren richten sich nach Artikel 35 Sprengstoffverordnung (SR [941.41](https://db.clex.ch/link/Bund/941.41/de)). Die Gebührenhöhe wird durch die verfügende Stelle nach den Grundsätzen der kantonalen Gebührenverordnung (RB [3.2512](https://rechtsbuch.ur.ch/data/3.2512/de)) im Einzelfalle festgelegt.
+Bewilligungs-, Prüfungs- und Kontrollgebühren richten sich nach Artikel 35 Sprengstoffverordnung[^5-1]. Die Gebührenhöhe wird durch die verfügende Stelle nach den Grundsätzen der kantonalen Gebührenverordnung[^5-2] im Einzelfalle festgelegt.
 
-#### Artikel 6
-
-**Rechtsmittel**
+Artikel 6[^5-3] Rechtsmittel
 
 <sup>1</sup> Verfügungen der Kantonspolizei und der zuständigen Amtsstelle können mit Verwaltungsbeschwerde bei der zuständigen Direktion angefochten werden. Deren Entscheid unterliegt der Verwaltungsgerichtsbeschwerde an das Obergericht, soweit kein Unzulässigkeitsgrund vorliegt.
 
 <sup>2</sup> Entscheidet die zuständige Direktion erstinstanzlich, kann deren Verfügung mit Verwaltungsbeschwerde beim Regierungsrat angefochten werden.
 
-<sup>3</sup> Das Verfahren richtet sich nach der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)).
+<sup>3</sup> Das Verfahren richtet sich nach der Verordnung über die Verwaltungsrechtspflege[^5-4].
+
+[^5-1]: SR 941.41
+[^5-2]: RB 3.2512
+[^5-3]: Fassung gemäss LRB vom 23. März 1994, in Kraft seit 1. Juni 1995
+[^5-4]: RB 2.2345
 
 #### Artikel 7
 
 **Strafverfolgung**
 
-<sup>1</sup> Zuständigkeit und Verfahren für die Strafverfolgung richten sich nach dem Gerichtsorganisationsgesetz (RB [2.3221](https://rechtsbuch.ur.ch/data/2.3221/de)) und der Strafprozessordnung.
+Zuständigkeit und Verfahren für die Strafverfolgung richten sich nach dem Gerichtsorganisationsgesetz[^7-1] und der Strafprozessordnung[^7-2].
+
+[^7-1]: RB 2.3221
+[^7-2]: RB 3.9222
 
 #### Artikel 8
 
-**Änderung und Aufhebung bisherigen Rechts[^Artikel8-1]**
+**Änderung und Aufhebung bisherigen Rechts**
 
-[^Artikel8-1]: Die Änderungen wurden in den entsprechenden Erlass eingefügt.
+...[^8-1]
+
+[^8-1]: Die Änderungen wurden in den entsprechenden Erlass eingefügt
 
 #### Artikel 9
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Verordnung ist vom Bundesrat zu genehmigen[^Artikel9-1].
+<sup>1</sup> Diese Verordnung ist vom Bundesrat zu genehmigen[^9-1].
 
 <sup>2</sup> Sie untersteht dem fakultativen Referendum und tritt am 1. Juli 1984 in Kraft.
 
-[^Artikel9-1]: Vom Bundesrat genehmigt am 8. Juni 1984.
+Im Namen des Landrates
 
-AB 27.04.1984
+Der Präsident: Rudolf Schenk Der Kanzleidirektor: Dr. Peter Huber
+
+[^9-1]: Vom Bundesrat genehmigt am 8. Juni 1984
