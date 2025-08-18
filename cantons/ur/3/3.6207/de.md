@@ -1,34 +1,40 @@
 ---
 canton: UR
 number: "3.6207"
-title: Reglement über den kantonalen Führungsstab Uri
+title: REGLEMENT über den kantonalen Führungsstab Uri
 short: "KAFUR-Reglement, KFSR"
 language: de
 version: 2007-01-01
+corrected: 2025-08-19
 version_adopted: 2006-12-12
 adopted: 2006-12-12
 in_force: 2007-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.6207"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/899/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/120/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über den kantonalen Führungsstab Uri
+# REGLEMENT über den kantonalen Führungsstab Uri
 
-(KAFUR-Reglement, KFSR)
+REGLEMENT über den kantonalen Führungsstab Uri (KAFUR-Reglement, KFSR)
 
-Vom 12.12.2006 (Stand 01.01.2007)
+(vom 12. Dezember 2006[^t-1]; Stand am 1. Januar 2007)
 
-Der Regierungsrat des Kantons Uri,
-
-gestützt auf Artikel 6 und 27 des Gesetzes vom 25. September 2005 über den Bevölkerungsschutz im Kanton Uri (Bevölkerungsschutzgesetz, BSG, RB [3.6201](https://rechtsbuch.ur.ch/data/3.6201/de)),
+Der Regierungsrat des Kantons Uri, gestützt auf Artikel 6 und 27 des Gesetzes vom 25. September 2005 über den Bevölkerungsschutz im Kanton Uri (Bevölkerungsschutzgesetz, BSG)<sup>2</sup>,
 
 beschliesst:
 
-## 1 Organisation und Aufgaben
+**ORGANISATION UND AUFGABEN**
 
-### 1.1 Kantonaler Führungsstab
+[^t-1]: AB vom 22. Dezember 2006
+
+### 1. Kapitel:
+
+**Kantonaler Führungsstab**
+
+### 1. Abschnitt:
 
 #### Artikel 1
 
@@ -38,62 +44,87 @@ beschliesst:
 
 <sup>2</sup> Dem kantonalen Führungsstab gehören an:
 
-- a) der Stabschef oder die Stabschefin
-- b) die Stellvertreter des Stabschefs oder der Stabschefin
-- c) die Chefs oder die Chefinnen der Untergruppen Polizei, Feuerwehr, Gesundheit, Umwelt, Technische Betriebe und Zivilschutz
-- d) der Chef oder die Chefin Führungsunterstützung
-- e) der Chef oder die Chefin Lagebüro
-- f) der Chef oder die Chefin Information
-- g) der Leiter oder die Leiterin der Koordinationsstelle Notorganisation
-- h) der Kommandant oder die Kommandantin des Kantonalen Territorialverbindungsstabs Uri der Territorialregion 3
+- a) der Stabschef oder die Stabschefin;
+
+- b) die Stellvertreter des Stabschefs oder der Stabschefin;
+
+- c) die Chefs oder die Chefinnen der Untergruppen Polizei, Feuerwehr, Gesundheit, Umwelt, Technische Betriebe und Zivilschutz;
+
+- d) der Chef oder die Chefin Führungsunterstützung;
+
+- e) der Chef oder die Chefin Lagebüro;
+
+- f) der Chef oder die Chefin Information;
+
+- g) der Leiter oder die Leiterin der Koordinationsstelle Notorganisation;
+
+- h) der Kommandant oder die Kommandantin des Kantonalen Territorialverbindungsstabs Uri der Territorialregion 3.
 
 <sup>3</sup> Im Verhinderungsfall ist eine kompetente Stellvertretung sicherzustellen.
 
-<sup>4</sup> Der Stabschef oder die Stabschefin ist berechtigt, bei Bedarf den kantonalen Führungsstab mit verwaltungsinternen oder externen Fach- und Hilfspersonen zu erweitern.
+4 Der Stabschef oder die Stabschefin ist berechtigt, bei Bedarf den kantonalen Führungsstab mit verwaltungsinternen oder externen Fach- und Hilfspersonen zu erweitern.
 
 #### Artikel 2
 
-**Aufgaben des kantonalen Führungsstabs: Vorbereitung**
+**Aufgaben des kantonalen Führungsstabs**
 
-<sup>1</sup> Der kantonale Führungsstab bereitet sich auf seine Aufgaben vor, indem er insbesondere:
+- a) Vorbereitung Der kantonale Führungsstab bereitet sich auf seine Aufgaben vor, indem er insbesondere:
 
-- a) die Grundlagen zuhanden des Regierungsrats für das Funktionieren der Regierungstätigkeit und der lebenswichtigen Dienste in ausserordentlichen Lagen erarbeitet
-- b) die Organisation und den Betrieb für die zeit- und lagegerechte Führung im Ereignisfall gewährleistet
-- c) in Ausbildungskursen und Übungen für die Gemeindeführungsstäbe Unterstützung leistet
-- d) die Zusammenarbeit mit den Gemeindeführungsstäben, mit lokalen und interkantonalen Instanzen sowie mit dem Bund, insbesondere mit der Armee sicherstellt
-- e) die Führungsdokumentationen für die Ereignisbewältigung in ausserordentlichen Lagen erstellt und nachführt
+- a) die Grundlagen zuhanden des Regierungsrats für das Funktionieren der Regierungstätigkeit und der lebenswichtigen Dienste in ausserordentlichen Lagen erarbeitet;
 
-#### Artikel 3
+- b) die Organisation und den Betrieb für die zeit- und lagegerechte Führung im Ereignisfall gewährleistet;
 
-**Aufgaben des kantonalen Führungsstabs: Einsatz**
+- c) in Ausbildungskursen und Übungen für die Gemeindeführungsstäbe Unterstützung leistet;
 
-<sup>1</sup> Der kantonale Führungsstab erfüllt seine Aufgaben im Ereignisfall, indem er insbesondere:
+- d) die Zusammenarbeit mit den Gemeindeführungsstäben, mit lokalen und interkantonalen Instanzen sowie mit dem Bund, insbesondere mit der Armee sicherstellt;
 
-- a) seinen Kommandoposten organisiert und betreibt
-- b) Informationen über die verschiedenen Lagen sammelt und auswertet
-- c) die Notwendigkeit präventiver Massnahmen prüft und deren Anordnung beurteilt
-- d) Entscheidungsgrundlagen für den Regierungsrat erarbeitet
-- e) alle Bedürfnisse erfasst und die erforderlichen Massnahmen aufgrund des generellen Auftrags des Regierungsrats vollzieht
-- f) mit den Gemeindeführungsstäben, mit lokalen und interkantonalen Instanzen sowie mit dem Bund, insbesondere mit der Armee zusammenarbeitet
-- g) die Zusammenarbeit der Partnerorganisationen im Bevölkerungsschutz koordiniert und unterstützt
-- h) die Information der Bevölkerung – der Lage angepasst – sicherstellt
+- e) die Führungsdokumentationen für die Ereignisbewältigung in ausserordentlichen Lagen erstellt und nachführt.
+
+#### Artikel 3 a
+
+**) Einsatz**
+
+Der kantonale Führungsstab erfüllt seine Aufgaben im Ereignisfall, indem er insbesondere:
+
+- a) seinen Kommandoposten organisiert und betreibt;
+
+- b) Informationen über die verschiedenen Lagen sammelt und auswertet;
+
+- c) die Notwendigkeit präventiver Massnahmen prüft und deren Anordnung beurteilt;
+
+- d) Entscheidungsgrundlagen für den Regierungsrat erarbeitet;
+
+- e) alle Bedürfnisse erfasst und die erforderlichen Massnahmen aufgrund des generellen Auftrags des Regierungsrats vollzieht;
+
+- f) mit den Gemeindeführungsstäben, mit lokalen und interkantonalen Instanzen sowie mit dem Bund, insbesondere mit der Armee zusammenarbeitet;
+
+- g) die Zusammenarbeit der Partnerorganisationen im Bevölkerungsschutz koordiniert und unterstützt;
+
+- h) die Information der Bevölkerung – der Lage angepasst – sicherstellt.
 
 #### Artikel 4
 
 **Aufgaben des Stabschefs oder der Stabschefin**
 
-<sup>1</sup> Der Stabschef oder die Stabschefin erfüllt seine oder ihre Aufgaben, indem er oder sie insbesondere:
+Der Stabschef oder die Stabschefin erfüllt seine oder ihre Aufgaben, indem er oder sie insbesondere:
 
-- a) im Ereignisfall die Gesamteinsatzleitung übernimmt
-- b) die Arbeit des Stabs leitet und koordiniert
-- c) bei Dringlichkeit Sofortmassnahmen anordnet
-- d) Anträge dem Regierungsrat zum Entscheid unterbreitet
-- e) Einsätze des Teilstabs bei grösseren Unfällen oder ausserordentlichen Ereignissen regelt
-- f) die Weisungen für die Stabsarbeit erlässt und deren Wirksamkeit überprüft
-- g) dem Regierungsrat Bericht erstattet
-- h) die Aktivitäten der Koordinationsstelle Notorganisation periodisch überprüft
+- a) im Ereignisfall die Gesamteinsatzleitung übernimmt;
 
-### 1.2 Koordinationsstelle Notorganisation
+- b) die Arbeit des Stabs leitet und koordiniert;
+
+- c) bei Dringlichkeit Sofortmassnahmen anordnet;
+
+- d) Anträge dem Regierungsrat zum Entscheid unterbreitet;
+
+- e) Einsätze des Teilstabs bei grösseren Unfällen oder ausserordentlichen Ereignissen regelt;
+
+- f) die Weisungen für die Stabsarbeit erlässt und deren Wirksamkeit überprüft;
+
+- g) dem Regierungsrat Bericht erstattet;
+
+- h) die Aktivitäten der Koordinationsstelle Notorganisation periodisch überprüft.
+
+### 2. Abschnitt: Koordinationsstelle Notorganisation
 
 #### Artikel 5
 
@@ -103,25 +134,29 @@ beschliesst:
 
 <sup>2</sup> Die Koordinationsstelle Notorganisation erfüllt ihre Aufgaben, indem sie in Absprache mit dem Stabschef oder der Stabschefin insbesondere:
 
-- a) die erforderlichen Weisungen des kantonalen Führungsstabs vorbereitet
-- b) die personellen, organisatorischen, materiellen und rechtlichen Vorbereitungen für die Bewältigung von ausserordentlichen Ereignissen auf der politischen und strategischen sowie auf der operativen und taktischen Ebene vorbereitet
-- c) die Vorbereitungen in den Führungs- und Fachbereichen der Funktionsträger im kantonalen Führungsstab und in den Gemeindeführungsstäben periodisch überprüft
-- d) die jährlichen Ausbildungs- und Instruktionsrapporte, Kurse und Übungen mit dem kantonalen Führungsstab, den Gemeindeführungsstäben, den Partnerorganisationen des Bevölkerungsschutzes und dem kantonalen Territorialverbindungsstab Uri koordiniert und durchführt
-- e) das jährliche Budget der kantonalen Notorganisation erstellt und die Kontrolle über die bewilligten Kredite führt
+- a) die erforderlichen Weisungen des kantonalen Führungsstabs vorbereitet;
 
-<sup>3</sup> Sie ist dem Vorsteher oder der Vorsteherin des zuständigen Amts[^Artikel5-1] unterstellt und kann in Personalunion mit dem Amtsvorsteher oder der Amtsvorsteherin besetzt werden.
+- b) die personellen, organisatorischen, materiellen und rechtlichen Vorbereitungen für die Bewältigung von ausserordentlichen Ereignissen auf der politischen und strategischen sowie auf der operativen und taktischen Ebene vorbereitet;
 
-[^Artikel5-1]: Amt für Militär und Bevölkerungsschutz; vgl. Art. 1 und 6 Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+- c) die Vorbereitungen in den Führungs- und Fachbereichen der Funktionsträger im kantonalen Führungsstab und in den Gemeindeführungsstäben periodisch überprüft;
+
+- d) die jährlichen Ausbildungs- und Instruktionsrapporte, Kurse und Übungen mit dem kantonalen Führungsstab, den Gemeindeführungsstäben, den Partnerorganisationen des Bevölkerungsschutzes und dem kantonalen Territorialverbindungsstab Uri koordiniert und durchführt;
+
+- e) das jährliche Budget der kantonalen Notorganisation erstellt und die Kontrolle über die bewilligten Kredite führt.
+
+3 Sie ist dem Vorsteher oder der Vorsteherin des zuständigen Amts[^5-1] unterstellt und kann in Personalunion mit dem Amtsvorsteher oder der Amtsvorsteherin besetzt werden.
+
+[^5-1]: Amt für Militär und Bevölkerungsschutz; vgl. Art. 1 und 6 Organisationsreglement (RB 2.3322).
 
 #### Artikel 6
 
-**Entschädigung, Haftung und Versicherung beigezogener Fach- und Hilfspersonen**
+Entschädigung, Haftung und Versicherung beigezogener Fach- und Hilfspersonen
 
-<sup>1</sup> Fach- und Hilfspersonen, welche nicht der kantonalen oder einer Gemeindeverwaltung angehören, werden gemäss den geltenden Bestimmungen der Nebenamtsverordnung (RB [2.2251](https://rechtsbuch.ur.ch/data/2.2251/de)) entschädigt.
+<sup>1</sup> Fach- und Hilfspersonen, welche nicht der kantonalen oder einer Gemeindeverwaltung angehören, werden gemäss den geltenden Bestimmungen der Nebenamtsverordnung<sup>4</sup> entschädigt.
 
-<sup>2</sup> Die Haftung und Versicherung der Fach- und Hilfspersonen richtet sich nach den Bestimmungen der Personalverordnung (RB [2.4211](https://rechtsbuch.ur.ch/data/2.4211/de)).
+<sup>2</sup> Die Haftung und Versicherung der Fach- und Hilfspersonen richtet sich nach den Bestimmungen der Personalverordnung<sup>5</sup>.
 
-## 2 Einsatz
+### 2. Kapitel: EINSATZ
 
 #### Artikel 7
 
@@ -137,19 +172,27 @@ beschliesst:
 
 **Unterstellung der Mittel**
 
-<sup>1</sup> Der Gesamteinsatzleitung sind je nach Bedarf für die Dauer des Einsatzes direkt unterstellt:
+Der Gesamteinsatzleitung sind je nach Bedarf für die Dauer des Einsatzes direkt unterstellt:
 
-- a) die Kantonspolizei
-- b) die Feuerwehren
-- c) die Chemiewehr Uri
-- d) der Zivilschutz
-- e) die sanitätsdienstlichen Rettungs- und Versorgungseinrichtungen
-- f) die Mittel der kantonalen Verwaltung
-- g) die Mittel der Einwohner- und Bürgergemeinden
-- h) die wirtschaftliche Grundversorgung
-- i) die weiteren, nach Bedarf zugeführten Mittel
+- a) die Kantonspolizei;
 
-## 3 Ausbildung
+- b) die Feuerwehren;
+
+- c) die Chemiewehr Uri;
+
+- d) der Zivilschutz;
+
+- e) die sanitätsdienstlichen Rettungs- und Versorgungseinrichtungen;
+
+- f) die Mittel der kantonalen Verwaltung;
+
+- g) die Mittel der Einwohner- und Bürgergemeinden;
+
+- h) die wirtschaftliche Grundversorgung;
+
+- i) die weiteren, nach Bedarf zugeführten Mittel.
+
+### 3. Kapitel: AUSBILDUNG
 
 #### Artikel 9
 
@@ -171,18 +214,20 @@ beschliesst:
 
 <sup>4</sup> Der Leiter oder die Leiterin der Koordinationsstelle Notorganisation ist berechtigt, für Kurse und Übungen externe Fach- und Hilfspersonen beizuziehen.
 
-## 4 Schlussbestimmungen
+### 4. Kapitel: SCHLUSSBESTIMMUNGEN
 
 #### Artikel 11
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Das Reglement vom 27. Dezember 1983 über die Zusammensetzung und Aufgaben des zivilen kantonalen Führungsstabes wird aufgehoben.
+Das Reglement vom 27. Dezember 1983 über die Zusammensetzung und Aufgaben des zivilen kantonalen Führungsstabes wird aufgehoben.
 
 #### Artikel 12
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Reglement tritt am 1. Januar 2007 in Kraft.
+Dieses Reglement tritt am 1. Januar 2007 in Kraft.
 
-AB 22.12.2006
+Im Namen des Regierungsrats
+
+Der Landammann: Dr. Markus Stadler Der Kanzleidirektor: Dr. Peter Huber
