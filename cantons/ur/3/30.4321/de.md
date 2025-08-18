@@ -1,25 +1,27 @@
 ---
 canton: UR
 number: "30.4321"
-title: Kantonale Vollziehungsverordnung zum Bundesgesetz über die Sicherheit von technischen Einrichtungen und Geräten
+title: KANTONALE VOLLZIEHUNGSVERORDNUNG zum Bundesgesetz über die Sicherheit von technischen Einrichtungen und Geräten
 language: de
 version: 1995-06-01
+corrected: 2025-08-19
 version_adopted: 1994-03-23
 adopted: 1982-07-12
 in_force: 1982-07-23
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/30.4321"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/875/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/269/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Kantonale Vollziehungsverordnung zum Bundesgesetz über die Sicherheit von technischen Einrichtungen und Geräten
+# KANTONALE VOLLZIEHUNGSVERORDNUNG zum Bundesgesetz über die Sicherheit von technischen Einrichtungen und Geräten
 
-Vom 12.07.1982 (Stand 01.06.1995)
+KANTONALE VOLLZIEHUNGSVERORDNUNG zum Bundesgesetz über die Sicherheit von technischen Einrichtungen und Geräten
 
-Der Regierungsrat des Kantons Uri,
+(vom 12. Juli 1982; Stand am 1. Juni 1995)
 
-in Ausführung von Artikel 6 des Bundesgesetzes über die Sicherheit von technischen Einrichtungen und Geräten vom 19. März 1976 (SR [819.1](https://db.clex.ch/link/Bund/819.1/de)),
+Der Regierungsrat des Kantons Uri, in Ausführung von Artikel 6 des Bundesgesetzes über die Sicherheit von technischen Einrichtungen und Geräten vom 19. März 1976,<sup>1</sup>
 
 beschliesst:
 
@@ -27,34 +29,42 @@ beschliesst:
 
 **Zuständigkeit**
 
-<sup>1</sup> Der Vollzug des Bundesgesetzes über die Sicherheit von technischen Einrichtungen und Geräten vom 19. März 1976 (STEG) und der dazugehörigen Verordnung vom 21. Dezember 1977 (STEV, SR [819.11](https://db.clex.ch/link/Bund/819.11/de)) obliegt, unter Aufsicht der Gewerbedirektion, folgenden Amtsstellen:
+Der Vollzug des Bundesgesetzes über die Sicherheit von technischen Einrichtungen und Geräten vom 19. März 1976 (STEG) und der dazugehörigen Verordnung vom 21. Dezember 1977 (STEV)<sup>2</sup> obliegt, unter Aufsicht der Gewerbedirektion, folgenden Amtsstellen:
 
-- a) der Zentralstelle für Unfallverhütung in der Landwirtschaft für den betrieblichen Bereich der Landwirtschaft
-- b) dem kantonalen Industrie-, Gewerbe- und Arbeitsamt (KIGA) für die innerkantonale Koordination sowie für den übrigen betrieblichen und den nichtbetrieblichen Bereich, soweit dieser nicht bereits abschliessend durch eine dazu vom Bund ermächtigte Fachstelle geregelt ist
-- c) der Gewerbepolizei Uri für die Meldungen gemäss Artikel 10 STEV sowie allenfalls weiteren vom Regierungsrat zu bezeichnenden Fachstellen
+- a) der Zentralstelle für Unfallverhütung in der Landwirtschaft für den betrieblichen Bereich der Landwirtschaft;
+
+- b) dem kantonalen Industrie-, Gewerbe- und Arbeitsamt (KIGA) für die innerkantonale Koordination sowie für den übrigen betrieblichen und den nichtbetrieblichen Bereich, soweit dieser nicht bereits abschliessend durch eine dazu vom Bund ermächtigte Fachstelle geregelt ist;
+
+- c) der Gewerbepolizei Uri für die Meldungen gemäss Artikel 10 STEV sowie allenfalls weiteren vom Regierungsrat zu bezeichnenden Fachstellen.
 
 #### Artikel 2
 
-**Orientierung der Koordinationsstelle**
+Orientierung der Koordinationsstelle Dem KIGA sind nach Artikel 10 STEV zu erstattende Meldungen, Verfügungen und Gerichtsurteile in Kopie zuzustellen.
 
-<sup>1</sup> Dem KIGA sind nach Artikel 10 STEV zu erstattende Meldungen, Verfügungen und Gerichtsurteile in Kopie zuzustellen.
+[^2-1]: Fassung gemäss LRB vom 23. März 1994, in Kraft seit 1. Juni 1995
 
 #### Artikel 3
 
-**Rechtsmittel**
+**Rechtsmittel**[^2-1]
 
 <sup>1</sup> Verfügungen des KIGA und der Zentralstelle für Unfallverhütung in der Landwirtschaft können mit Verwaltungsbeschwerde bei der zuständigen Direktion angefochten werden. Deren Entscheid unterliegt der Verwaltungsgerichtsbeschwerde an das Obergericht, soweit kein Unzulässigkeitsgrund vorliegt.
 
 <sup>2</sup> Entscheidet die zuständige Direktion erstinstanzlich, kann deren Verfügung mit Verwaltungsbeschwerde beim Regierungsrat angefochten werden.
 
-<sup>3</sup> Das Verfahren richtet sich nach der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)).
+<sup>3</sup> Das Verfahren richtet sich nach der Verordnung über die Verwaltungsrechtspflege[^3-1].
+
+[^3-1]: RB 2.2345
 
 #### Artikel 4
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Vollziehungsverordnung tritt mit der Publikation im Amtsblatt in Kraft[^Artikel4-1].
+Diese Vollziehungsverordnung tritt mit der Publikation im Amtsblatt in Kraft.[^4-1]
 
-[^Artikel4-1]: AB vom 23. Juli 1982, Seite 670.
+Altdorf, 12. Juli 1982
 
-AB 23.07.1982
+Im Namen des Regierungsrates des Kantons Uri
+
+Der Landammann: Hansheiri Dahinden Der Kanzleidirektor: Dr. Hans Muheim
+
+[^4-1]: AB No. 29 vom 23. Juli 1982, Seite 670
