@@ -1,28 +1,32 @@
 ---
 canton: UR
 number: "3.2101"
-title: Rahmenvereinbarung für die interkantonale Zusammenarbeit mit Lastenausgleich
+title: RAHMENVEREINBARUNG für die interkantonale Zusammenarbeit mit Lastenausgleich
 short: "Rahmenvereinbarung, IRV"
 language: de
 version: 2007-05-11
+corrected: 2025-08-19
 version_adopted: 2005-05-24
 adopted: 2005-05-24
 in_force: 2007-05-11
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.2101"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/779/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/89/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Rahmenvereinbarung für die interkantonale Zusammenarbeit mit Lastenausgleich
+# RAHMENVEREINBARUNG für die interkantonale Zusammenarbeit mit Lastenausgleich
 
-(Rahmenvereinbarung, IRV)
+RAHMENVEREINBARUNG für die interkantonale Zusammenarbeit mit Lastenausgleich (Rahmenvereinbarung, IRV)
 
-Vom 24.05.2005 (Stand 11.05.2007)
+(vom 24. Mai 2005[^t-1]; Stand am 11. Mai 2007)
 
-## 1 Allgemeine Bestimmungen
+I.Allgemeine Bestimmungen
 
-### 1.1 Grundsätze
+1.Grundsätze
+
+[^t-1]: Beitritt des Kantons Uri durch LRB vom 15. Februar 2006, in Kraft gesetzt auf den 1. September 2006 (AB vom 24. Februar 2006).
 
 #### Artikel 1
 
@@ -36,7 +40,7 @@ Vom 24.05.2005 (Stand 11.05.2007)
 
 #### Artikel 2
 
-**Ziele der interkantonalen Zusammenarbeit mit Lastenausgleich**
+Ziele der interkantonalen Zusammenarbeit mit Lastenausgleich
 
 <sup>1</sup> Mit der interkantonalen Zusammenarbeit mit Lastenausgleich wird eine bedarfsgerechte und wirtschaftliche Aufgabenerfüllung angestrebt.
 
@@ -46,9 +50,7 @@ Vom 24.05.2005 (Stand 11.05.2007)
 
 #### Artikel 3
 
-**Innerkantonale Zusammenarbeit mit Lastenausgleich**
-
-<sup>1</sup> Die Kantone verpflichten sich, die Grundsätze der Subsidiarität und der fiskalischen Äquivalenz sinngemäss auch im innerkantonalen Verhältnis zu beachten.
+Innerkantonale Zusammenarbeit mit Lastenausgleich Die Kantone verpflichten sich, die Grundsätze der Subsidiarität und der fiskalischen Äquivalenz sinngemäss auch im innerkantonalen Verhältnis zu beachten.
 
 #### Artikel 4
 
@@ -58,7 +60,7 @@ Vom 24.05.2005 (Stand 11.05.2007)
 
 <sup>2</sup> Im Übrigen regelt das kantonale Recht die Mitwirkungsrechte der Parlamente.
 
-### 1.2 Zuständigkeiten und Kompetenzen
+2.Zuständigkeiten und Kompetenzen
 
 #### Artikel 5
 
@@ -74,7 +76,7 @@ Vom 24.05.2005 (Stand 11.05.2007)
 
 **Präsidium der KdK**
 
-<sup>1</sup> Die Präsidentin oder der Präsident der KdK ist zuständig für das informelle Vorverfahren im Rahmen des Streitbeilegungsverfahrens.
+Die Präsidentin oder der Präsident der KdK ist zuständig für das informelle Vorverfahren im Rahmen des Streitbeilegungsverfahrens.
 
 #### Artikel 7
 
@@ -86,32 +88,33 @@ Vom 24.05.2005 (Stand 11.05.2007)
 
 <sup>3</sup> Sie gibt sich eine Geschäftsordnung.
 
-<sup>4</sup> Die KdK trägt die Bereitstellungskosten der IVK. Alle weiteren Kosten sind gemäss Artikel 34 Absatz 5 von den Parteien zu tragen.
+<sup>4</sup> Die KdK trägt die Bereitstellungskosten der IVK. Alle weiteren Kosten sind gemäss Art. 34 Abs. 5 von den Parteien zu tragen.
 
-### 1.3 Begriffe
+3.Begriffe
 
 #### Artikel 8
 
-<sup>1</sup> Leistungserbringer ist ein Kanton oder eine gemeinsame Trägerschaft, in deren Zuständigkeitsbereich die Leistungserstellung fällt.
+1 Leistungserbringer ist ein Kanton oder eine gemeinsame Trägerschaft, in deren Zuständigkeitsbereich die Leistungserstellung fällt.
 
-<sup>2</sup> Leistungskäufer ist der die Leistungen abgeltende Kanton.
+2 Leistungskäufer ist der die Leistungen abgeltende Kanton.
 
 <sup>3</sup> Leistungsersteller ist, wer eine Leistung herstellt.
 
 <sup>4</sup> Leistungsbezüger ist, wer eine Leistung in Anspruch nimmt.
 
-<sup>5</sup> Nachfragende im Sinne von Artikel 13 und 23 sind potenzielle Leistungsbezüger.
+<sup>5</sup> Nachfragende im Sinne von Art. 13 und 23 sind potenzielle Leistungsbezüger.
 
-## 2 Formen der interkantonalen Zusammenarbeit mit Lastenausgleich
+### II.Formen der interkantonalen Zusammenarbeit mit Lastenausgleich
 
 #### Artikel 9
 
-<sup>1</sup> Die Rahmenvereinbarung regelt folgende Formen der interkantonalen Zusammenarbeit mit Lastenausgleich:
+Die Rahmenvereinbarung regelt folgende Formen der interkantonalen Zusammenarbeit mit Lastenausgleich:
 
-- a) die gemeinsame Trägerschaft
-- b) den Leistungskauf
+- a) die gemeinsame Trägerschaft;
 
-### 2.1 Gemeinsame Trägerschaft
+- b) den Leistungskauf.
+
+### 1.Gemeinsame Trägerschaft
 
 #### Artikel 10
 
@@ -141,7 +144,7 @@ Vom 24.05.2005 (Stand 11.05.2007)
 
 **Gleichberechtigter Zugang**
 
-<sup>1</sup> Nachfragende aus den Trägerkantonen haben gleichberechtigten Zugang zu den Leistungen.
+Nachfragende aus den Trägerkantonen haben gleichberechtigten Zugang zu den Leistungen.
 
 #### Artikel 14
 
@@ -179,7 +182,7 @@ Vom 24.05.2005 (Stand 11.05.2007)
 
 <sup>1</sup> Das Austrittsverfahren und die Austrittsbedingungen einschliesslich eines allfälligen Entschädigungsanspruchs austretender Trägerkantone sind in den interkantonalen Verträgen zu regeln.
 
-<sup>2</sup> Austretende Trägerkantone haften für Verbindlichkeiten, die während der Dauer ihrer Mitträgerschaft entstanden sind.
+2 Austretende Trägerkantone haften für Verbindlichkeiten, die während der Dauer ihrer Mitträgerschaft entstanden sind.
 
 #### Artikel 18
 
@@ -203,21 +206,21 @@ Vom 24.05.2005 (Stand 11.05.2007)
 
 **Information**
 
-<sup>1</sup> Die Trägerkantone sind über die Tätigkeiten der gemeinsamen Trägerschaft rechtzeitig und umfassend zu informieren.
+Die Trägerkantone sind über die Tätigkeiten der gemeinsamen Trägerschaft rechtzeitig und umfassend zu informieren.
 
-### 2.2 Leistungskauf
+2.Leistungskauf
 
 #### Artikel 21
 
 **Formen des Leistungskaufs**
 
-<sup>1</sup> Ein Leistungskauf kann mittels Ausgleichszahlungen, Tausch von Leistungen oder Mischformen von Zahlung und Tausch erfolgen.
+Ein Leistungskauf kann mittels Ausgleichszahlungen, Tausch von Leistungen oder Mischformen von Zahlung und Tausch erfolgen.
 
 #### Artikel 22
 
 **Mitsprache der Leistungskäufer**
 
-<sup>1</sup> Den Leistungskäufern wird in der Regel mindestens ein partielles Mitspracherecht gewährt.
+Den Leistungskäufern wird in der Regel mindestens ein partielles Mitspracherecht gewährt.
 
 #### Artikel 23
 
@@ -225,7 +228,7 @@ Vom 24.05.2005 (Stand 11.05.2007)
 
 <sup>1</sup> Nachfragende aus den Vertragskantonen haben grundsätzlich gleichberechtigten Zugang zu den Leistungen.
 
-<sup>2</sup> Bei Zulassungsbeschränkungen werden Nachfragende aus Vertragskantonen jenen aus Nichtvertragskantonen vorgezogen.
+2 Bei Zulassungsbeschränkungen werden Nachfragende aus Vertragskantonen jenen aus Nichtvertragskantonen vorgezogen.
 
 <sup>3</sup> Bei Zulassungsbeschränkungen werden Nachfragende aus Trägerkantonen jenen aus Kantonen, welche Leistungskäufer sind, vorgezogen.
 
@@ -233,11 +236,11 @@ Vom 24.05.2005 (Stand 11.05.2007)
 
 **Informationsaustausch**
 
-<sup>1</sup> Die Leistungskäufer sind vom Leistungserbringer periodisch über die erbrachten Leistungen zu informieren.
+Die Leistungskäufer sind vom Leistungserbringer periodisch über die erbrachten Leistungen zu informieren.
 
-## 3 Lastenausgleich
+### III.Lastenausgleich
 
-### 3.1 Grundlagen für die Ermittlung der Abgeltungen
+### 1.Grundlagen für die Ermittlung der Abgeltungen
 
 #### Artikel 25
 
@@ -255,13 +258,13 @@ Vom 24.05.2005 (Stand 11.05.2007)
 
 <sup>2</sup> Die Kantone sind verpflichtet, die nötigen Unterlagen zur Verfügung zu stellen.
 
-### 3.2 Grundsätze für die Abgeltungen
+2.Grundsätze für die Abgeltungen
 
 #### Artikel 27
 
 **Abgeltung von Leistungsbezügern aus anderen Kantonen**
 
-<sup>1</sup> Leistungen mit erheblichen Kosten, für die ausserkantonale Leistungsbezügerinnen und ‑bezüger nicht aufkommen, werden durch Ausgleichszahlungen der Kantone abgegolten.
+<sup>1</sup> Leistungen mit erheblichen Kosten, für die ausserkantonale Leistungsbezügerinnen und -bezüger nicht aufkommen, werden durch Ausgleichszahlungen der Kantone abgegolten.
 
 <sup>2</sup> Die Festlegung der Abgeltung und der sonstigen Vertragsinhalte ist grundsätzlich Sache der Vertragsparteien.
 
@@ -275,17 +278,21 @@ Vom 24.05.2005 (Stand 11.05.2007)
 
 <sup>3</sup> Weitere Kriterien bei der Festlegung der Abgeltung sind:
 
-- a) eingeräumte oder beanspruchte Mitsprache- und Mitwirkungsrechte
-- b) der gewährte Zugang zum Leistungsangebot
-- c) erhebliche Standortvorteile und ‑nachteile im Zusammenhang mit der Leistungserbringung und dem Leistungsbezug
-- d) Transparenz des Kostennachweises
-- e) Wirtschaftlichkeit der Leistungserstellung
+- a) eingeräumte oder beanspruchte Mitsprache- und Mitwirkungsrechte;
+
+- b) der gewährte Zugang zum Leistungsangebot;
+
+- c) erhebliche Standortvorteile und -nachteile im Zusammenhang mit der Leistungserbringung und dem Leistungsbezug;
+
+- d) Transparenz des Kostennachweises;
+
+- e) Wirtschaftlichkeit der Leistungserstellung.
 
 #### Artikel 29
 
 **Abgeltung des Leistungserstellers**
 
-<sup>1</sup> Der Leistungserbringer verpflichtet sich, die Abgeltung dem Leistungsersteller zukommen zu lassen, soweit dieser die Kosten für die Leistungserstellung trägt.
+Der Leistungserbringer verpflichtet sich, die Abgeltung dem Leistungsersteller zukommen zu lassen, soweit dieser die Kosten für die Leistungserstellung trägt.
 
 #### Artikel 30
 
@@ -295,7 +302,7 @@ Vom 24.05.2005 (Stand 11.05.2007)
 
 <sup>2</sup> In einem interkantonalen Vertrag kann Gemeinden oder von ihnen getragenen Organisationen ein direkter Anspruch auf die Abgeltung eingeräumt werden.
 
-## 4 Streitbeilegung
+### IV.Streitbeilegung
 
 #### Artikel 31
 
@@ -303,9 +310,11 @@ Vom 24.05.2005 (Stand 11.05.2007)
 
 <sup>1</sup> Die Kantone und interkantonale Organe bemühen sich, Streitigkeiten aus bestehenden oder beabsichtigten interkantonalen Verträgen durch Verhandlung oder Vermittlung beizulegen.
 
-<sup>2</sup> Sie verpflichten sich, bei allen Streitigkeiten im Zusammenhang mit der interkantonalen Zusammenarbeit mit Lastenausgleich vor Erhebung einer Klage gemäss Artikel 120 Absatz 1 Buchstabe b des Bundesgerichtsgesetzes vom 17. Juni 2005 (SR [173.110](https://db.clex.ch/link/Bund/173.110/de)) am nachstehend beschriebenen Streitbeilegungsverfahren teilzunehmen.
+<sup>2</sup> Sie verpflichten sich, bei allen Streitigkeiten im Zusammenhang mit der interkantonalen Zusammenarbeit mit Lastenausgleich vor Erhebung einer Klage gemäss Artikel 120 Absatz 1 Buchstabe b des Bundesgerichtsgesetzes vom 17. Juni 2005[^31-1] am nachstehend beschriebenen Streitbeilegungsverfahren teilzunehmen.
 
 <sup>3</sup> Das Streitbeilegungsverfahren kann auch von Nichtvereinbarungskantonen sowie von interkantonalen Organen, die nicht auf der IRV basieren, angerufen werden.
+
+[^31-1]: SR 173.110
 
 #### Artikel 32
 
@@ -323,7 +332,7 @@ Vom 24.05.2005 (Stand 11.05.2007)
 
 <sup>2</sup> Im Einvernehmen mit den Beteiligten kann eine auf dem Gebiet der Mediation besonders befähigte Person beigezogen werden.
 
-<sup>3</sup> Führt das informelle Vorverfahren nicht innert sechs Monaten ab Eingang des Vermittlungsgesuchs zu einer Einigung, so leitet der Vermittler das förmliche Vermittlungsverfahren vor der IVK ein.
+3 Führt das informelle Vorverfahren nicht innert sechs Monaten ab Eingang des Vermittlungsgesuchs zu einer Einigung, so leitet der Vermittler das förmliche Vermittlungsverfahren vor der IVK ein.
 
 #### Artikel 34
 
@@ -343,40 +352,40 @@ Vom 24.05.2005 (Stand 11.05.2007)
 
 <sup>7</sup> Sie verpflichten sich, die Unterlagen des Streitbeilegungsverfahrens zu den Gerichtsakten zu geben.
 
-## 5 Schlussbestimmungen
+### V.Schlussbestimmungen
 
 #### Artikel 35
 
 **Beitritt und Austritt**
 
-<sup>1</sup> Der Beitritt zur Rahmenvereinbarung wird mit der Mitteilung an die KdK wirksam[^Artikel35-1].
+<sup>1</sup> Der Beitritt zur Rahmenvereinbarung wird mit der Mitteilung an die KdK wirksam.
 
 <sup>2</sup> Jeder Kanton kann durch Erklärung gegenüber der KdK austreten. Der Austritt wird mit dem Ende des auf die Erklärung folgenden Kalenderjahres wirksam.
 
 <sup>3</sup> Die Austrittserklärung kann frühestens auf das Ende des fünften Jahres seit Inkrafttreten und fünf Jahre nach erfolgtem Beitritt abgegeben werden.
 
-[^Artikel35-1]: Beitritt des Kantons Uri durch LRB vom 15. Februar 2006, in Kraft gesetzt auf den 1. September 2006 (AB vom 24. Februar 2006).
-
 #### Artikel 36
 
-**Inkrafttreten**
+**Inkfrafttreten**
 
-<sup>1</sup> Die Rahmenvereinbarung tritt in Kraft, wenn ihr 18 Kantone beigetreten sind[^Artikel36-1].
+Die Rahmenvereinbarung tritt in Kraft, wenn ihr 18 Kantone beigetreten sind[^36-1].
 
-[^Artikel36-1]: An seiner Sitzung vom 11. Mai 2007 hat der Leitende Ausschuss der KdK festgestellt, dass 18 Kantone den Beitritt zur IRV erklärt haben. Damit ist das erforderliche Quorum erreicht und die IRV tritt in Kraft (AB vom 29. Juni 2007).
+[^36-1]: An seiner Sitzung vom 11. Mai 2007 hat der Leitende Ausschuss der KdK festgestellt, dass 18 Kantone den Beitritt zur IRV erklärt haben. Damit ist das erforderliche Quorum erreicht und die IRV tritt in Kraft (AB vom 29. Juni 2007).
 
 #### Artikel 37
 
 **Geltungsdauer und Ausserkrafttreten**
 
-<sup>1</sup> Die Rahmenvereinbarung gilt unbefristet.
+1 Die Rahmenvereinbarung gilt unbefristet.
 
 <sup>2</sup> Sie tritt ausser Kraft, wenn die Zahl der Mitglieder unter 18 fällt.
 
 #### Artikel 38
 
-**Änderung der Rahmenvereinbarung**
+Änderung der Rahmenvereinbarung Auf Antrag von drei Kantonen leitet die KdK die Änderung der Rahmenvereinbarung ein. Sie tritt unter den Voraussetzungen von Artikel 36 in Kraft.
 
-<sup>1</sup> Auf Antrag von drei Kantonen leitet die KdK die Änderung der Rahmenvereinbarung ein. Sie tritt unter den Voraussetzungen von Artikel 36 in Kraft.
+Von der Konferenz der Kantonsregierungen zuhanden der Ratifikation in den Kantonen verabschiedet:
 
-AB 24.02.2006, AB 29.06.2007
+**Canisius Braun Sekretär**
+
+Bern, 24. Juni 2005 Staatsrat Luigi Pedrazzini Präsident
