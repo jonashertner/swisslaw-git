@@ -1,48 +1,56 @@
 ---
 canton: UR
 number: "20.2213"
-title: Reglement über die Prämienverbilligung für die Krankenpflege-Grundversicherung
+title: REGLEMENT über die Prämienverbilligung für die Krankenpflege-Grundversicherung
 short: "Prämienverbilligungsreglement, PVR"
 language: de
 version: 2024-11-01
+corrected: 2025-08-19
 version_adopted: 2024-09-24
 adopted: 2024-09-24
 in_force: 2024-11-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.2213"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/770/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/212/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über die Prämienverbilligung für die Krankenpflege-Grundversicherung
+# REGLEMENT über die Prämienverbilligung für die Krankenpflege-Grundversicherung
 
-(Prämienverbilligungsreglement, PVR)
+REGLEMENT über die Prämienverbilligung für die Krankenpflege-Grundversicherung (Prämienverbilligungsreglement, PVR)
 
-Vom 24.09.2024 (Stand 01.11.2024)
+(vom 24. September 2024[^t-1]; Stand am 1. November 2024)
 
-Der Regierungsrat des Kantons Uri,
-
-gestützt auf das Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG, SR [832.10](https://db.clex.ch/link/Bund/832.10/de)) und Artikel 11 der Verordnung vom 15. November 1995 zum Bundesgesetz über die Krankenversicherung (RB [20.2202](https://rechtsbuch.ur.ch/data/20.2202/de)),
+Der Regierungsrat des Kantons Uri, gestützt auf das Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)[^t-2] und Artikel 11 der Verordnung vom 15. November 1995 zum Bundesgesetz über die Krankenversicherung[^t-3],
 
 beschliesst:
 
-## 1 Zweck
+[^t-1]: AB vom 4. Oktober 2024
+[^t-2]: SR 832.10
+[^t-3]: RB 20.2202
+
+### 1. Abschnitt: Zweck
 
 #### Artikel 1
 
-<sup>1</sup> Dieses Reglement vollzieht die Vorschriften des Bundesgesetzes über die Krankenversicherung (KVG) über die Prämienverbilligung durch die Kantone sowie der Verordnung zum Bundesgesetz über die Krankenversicherung.
+Dieses Reglement vollzieht die Vorschriften des Bundesgesetzes über die Krankenversicherung (KVG) über die Prämienverbilligung durch die Kantone sowie der Verordnung zum Bundesgesetz über die Krankenversicherung
 
-## 2 Anspruchsvoraussetzungen und Bemessungsgrundlagen
+### 2. Abschnitt: Anspruchsvoraussetzungen und Bemessungsgrund-
+
+lagen
 
 #### Artikel 2
 
 **Anspruchsberechtigte Personen**
 
-<sup>1</sup> Anspruch auf Prämienverbilligung haben Personen, wenn sie:
+Anspruch auf Prämienverbilligung haben Personen, wenn sie:
 
-- a) der Versicherungspflicht nach den Bestimmungen des Bundesgesetzes über die Krankenversicherung (KVG) unterstehen
-- b) am 1. Januar im Kanton Uri steuerrechtlichen Wohnsitz oder Aufenthalt haben. Personen, die vor dem 30. Juni des Anspruchsjahrs aus dem Ausland zuziehen, haben ab dem Folgemonat ihres Zuzugs Anspruch auf Prämienverbilligung, wenn sie die übrigen Voraussetzungen dieses Reglements erfüllen
-- c) die Voraussetzungen dieses Reglements erfüllen
+- a) der Versicherungspflicht nach den Bestimmungen des Bundesgesetzes über die Krankenversicherung (KVG) unterstehen;
+
+- b) am 1. Januar im Kanton Uri steuerrechtlichen Wohnsitz oder Aufenthalt haben. Personen, die vor dem 30. Juni des Anspruchsjahrs aus dem Ausland zuziehen, haben ab dem Folgemonat ihres Zuzugs Anspruch auf Prämienverbilligung, wenn sie die übrigen Voraussetzungen dieses Reglements erfüllen;
+
+- c) die Voraussetzungen dieses Reglements erfüllen.
 
 #### Artikel 3
 
@@ -78,9 +86,11 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat legt für jedes Kalenderjahr die Richtprämien fest für:
 
-- a) Erwachsene (26 Jahre und älter)
-- b) junge Erwachsene (19 bis 25 Jahre)
-- c) Kinder und Jugendliche (18 Jahre und jünger)
+- a) Erwachsene (26 Jahre und älter);
+
+- b) junge Erwachsene (19 bis 25 Jahre);
+
+- c) Kinder und Jugendliche (18 Jahre und jünger).
 
 <sup>2</sup> Er orientiert sich dabei an den Prämien für die obligatorische Krankenpflege-Grundversicherung.
 
@@ -102,9 +112,11 @@ beschliesst:
 
 <sup>2</sup> Die massgebenden Nettoeinkünfte entsprechen:
 
-- a) den Einkünften (ohne Einkünfte aus Liegenschaften), wobei die Renteneinkommen aus beruflicher Vorsorge oder privater Versicherung zu 100 Prozent angerechnet werden
-- b) zuzüglich: Mietwert der eigenen Wohnung, Miet- und Pachtzinseinnahmen und Ertrag aus Wohnrecht/Nutzniessung
-- c) abzüglich: Liegenschaftsunterhalt und Schuldzinsen bis maximal zur Höhe des Liegenschaftsertrags, Berufskosten, berufsorientierte Aus- und Weiterbildungskosten, Unterhaltsbeiträge und Rentenleistungen, Krankheits- und Unfallkosten, behinderungsbedingte Kosten
+- a) den Einkünften (ohne Einkünfte aus Liegenschaften), wobei die Renteneinkommen aus beruflicher Vorsorge oder privater Versicherung zu 100 Prozent angerechnet werden;
+
+- b) zuzüglich: Mietwert der eigenen Wohnung, Miet- und Pachtzinseinnahmen und Ertrag aus Wohnrecht/Nutzniessung;
+
+- c) abzüglich: Liegenschaftsunterhalt und Schuldzinsen bis maximal zur Höhe des Liegenschaftsertrags, Berufskosten, berufsorientierte Aus- und Weiterbildungskosten, Unterhaltsbeiträge und Rentenleistungen, Krankheits- und Unfallkosten, behinderungsbedingte Kosten.
 
 <sup>3</sup> Grundlage für die Berechnung bildet die rechtskräftige Steuerveranlagung des Steuerjahrs, das dem Anspruchsjahr zwei Jahre vorausgeht. Wesentliche Änderungen der wirtschaftlichen Verhältnisse zwischen der verwendeten Steuerveranlagung und dem 31. Dezember vor dem Anspruchsjahr werden auf Antrag berücksichtigt. Als wesentlich gelten Änderungen der massgebenden Nettoeinkünfte um mindestens 25 Prozent. Für Neuzuziehende oder neu in die Steuerpflicht Eintretende ist die Steuerperiode des Zuzugs- oder Eintrittsjahrs massgebend.
 
@@ -114,11 +126,13 @@ beschliesst:
 
 **Bezügerinnen und Bezüger wirtschaftlicher Sozialhilfe**
 
-<sup>1</sup> Personen, die wirtschaftliche Hilfe nach dem Gesetz über die öffentliche Sozialhilfe (RB [20.3421](https://rechtsbuch.ur.ch/data/20.3421/de)) beziehen, oder bei denen mit der Prämienverbilligung die wirtschaftliche Sozialhilfe abgewehrt werden kann, haben Anspruch auf Verbilligung der vollen Richtprämie ab dem Datum, ab dem die Bedürftigkeit nachweislich vorliegt.
+<sup>1</sup> Personen, die wirtschaftliche Hilfe nach dem Gesetz über die öffentliche Sozialhilfe[^8-1] beziehen, oder bei denen mit der Prämienverbilligung die wirtschaftliche Sozialhilfe abgewehrt werden kann, haben Anspruch auf Verbilligung der vollen Richtprämie ab dem Datum, ab dem die Bedürftigkeit nachweislich vorliegt.
 
 <sup>2</sup> Der zuständige Sozialdienst meldet der Sozialversicherungsstelle Uri jährlich die Bezügerinnen und Bezüger von wirtschaftlicher Sozialhilfe für das Folgejahr. Beginnt die wirtschaftliche Sozialhilfe unterjährig, hat die Meldung innert 60 Tagen zu erfolgen.
 
 <sup>3</sup> Auf Antrag des Sozialdienstes kann die Verbilligung der vollen Richtprämie rückwirkend bis zum 1. Januar des Anspruchsjahrs gewährt werden, wenn die zuständige Gemeinde ausstehende Prämien oder Kostenbeteiligungen der betreffenden Person in diesem Zeitraum bezahlt.
+
+[^8-1]: RB 20.3421
 
 #### Artikel 9
 
@@ -128,7 +142,7 @@ beschliesst:
 
 <sup>2</sup> Entsprechen die Steuerwerte offensichtlich nicht der wirtschaftlichen Leistungsfähigkeit einer Person, ist auf die wirtschaftliche Leistungsfähigkeit abzustellen.
 
-## 3 Verfahren
+### 3. Abschnitt: Verfahren
 
 #### Artikel 10
 
@@ -136,7 +150,7 @@ beschliesst:
 
 <sup>1</sup> Aufgrund der relevanten Steuerziffern prüft die Sozialversicherungsstelle Uri automatisch die Anspruchsvoraussetzungen und berechnet die Prämienverbilligung.
 
-<sup>2</sup> Fehlen die für die Berechnung der Prämienverbilligung erforderlichen Steuerdaten, wird die Berechnung zurückgestellt, bis die rechtskräftigen Daten vorliegen. Vorbehalten bleibt Artikel 8.
+2 Fehlen die für die Berechnung der Prämienverbilligung erforderlichen Steuerdaten, wird die Berechnung zurückgestellt, bis die rechtskräftigen Daten vorliegen. Vorbehalten bleibt Artikel 8.
 
 #### Artikel 11
 
@@ -162,9 +176,9 @@ beschliesst:
 
 **Verfügung**
 
-<sup>1</sup> Die Sozialversicherungsstelle Uri stellt allen anspruchsberechtigten und antragstellenden Personen einen Entscheid zu.
+Die Sozialversicherungsstelle Uri stellt allen anspruchsberechtigten und antragstellenden Personen einen Entscheid zu.
 
-## 4 Auszahlung
+### 4. Abschnitt: Auszahlung
 
 #### Artikel 14
 
@@ -178,13 +192,13 @@ beschliesst:
 
 <sup>4</sup> Für Leistungen, die nach diesem Reglement ausgerichtet werden, sind weder Vergütungs- noch Verzugszinsen geschuldet.
 
-## 5 Mitwirkungspflicht und Datenaustausch
+### 5. Abschnitt: Mitwirkungspflicht und Datenaustausch
 
 #### Artikel 15
 
 **Mitwirkungspflichten**
 
-<sup>1</sup> Personen mit Anspruch auf Prämienverbilligung sowie ihre gesetzlichen oder bevollmächtigten Vertreter haben den mit dem Vollzug dieses Reglements beauftragten Behörden die nötigen Auskünfte vollständig und wahrheitsgetreu zu erteilen, nötigenfalls zu belegen und eingetretene Änderungen umgehend mitzuteilen. Soweit erforderlich, haben sie Behörden und Institutionen zur Auskunftserteilung zu ermächtigen.
+Personen mit Anspruch auf Prämienverbilligung sowie ihre gesetzlichen oder bevollmächtigten Vertreter haben den mit dem Vollzug dieses Reglements beauftragten Behörden die nötigen Auskünfte vollständig und wahrheitsgetreu zu erteilen, nötigenfalls zu belegen und eingetretene Änderungen umgehend mitzuteilen. Soweit erforderlich, haben sie Behörden und Institutionen zur Auskunftserteilung zu ermächtigen.
 
 #### Artikel 16
 
@@ -192,13 +206,15 @@ beschliesst:
 
 <sup>1</sup> Der Datenaustausch zwischen dem Kanton und den Versicherern richtet sich nach dem Bundesrecht.
 
-<sup>2</sup> Die Versicherer melden der Sozialversicherungsstelle Uri jährlich bis spätestens 15. Februar den gesamten Versichertenbestand per 1. Januar. Die Meldung hat die Personendaten gemäss Artikel 105g der Verordnung über die Krankenversicherung (KVV, SR [832.102](https://db.clex.ch/link/Bund/832.102/de)) zu enthalten. Die Daten dürfen nur zur Anspruchsprüfung und zur Auszahlung der Prämienverbilligung verwendet werden.
+<sup>2</sup> Die Versicherer melden der Sozialversicherungsstelle Uri jährlich bis spätestens 15. Februar den gesamten Versichertenbestand per 1. Januar. Die Meldung hat die Personendaten gemäss Artikel 105g der Verordnung über die Krankenversicherung (KVV)[^16-1] zu enthalten. Die Daten dürfen nur zur Anspruchsprüfung und zur Auszahlung der Prämienverbilligung verwendet werden.
 
 <sup>3</sup> Zum Zweck des Datenabgleichs können die Versicherer bei der Sozialversicherungsstelle Uri jährlich alle erlassenen Prämienverbilligungsentscheide (Verfügungsbestand) per 31. Dezember einfordern.
 
 <sup>4</sup> Die Versicherer haben auf Anfrage der Sozialversicherungsstelle Uri darüber Auskunft zu geben, ob eine bestimmte Person obligatorisch gemäss Bundesgesetz über die Krankenversicherung versichert war oder ist.
 
 <sup>5</sup> Die Versicherer erstellen die Jahresrechnung gemäss Artikel 106c Absatz 3 der Verordnung über die Krankenversicherung (KVV) jeweils bis zum 31. März des darauffolgenden Jahrs.
+
+[^16-1]: SR 832.102
 
 #### Artikel 17
 
@@ -208,7 +224,7 @@ beschliesst:
 
 <sup>2</sup> Die Sozialversicherungsstelle Uri sorgt intern für den nötigen Datenaustausch, damit auch Bezügerinnen und Bezügern von Ergänzungsleistungen die Prämienverbilligung zugesprochen werden kann.
 
-## 6 Weitere Bestimmungen
+### 6. Abschnitt: Weitere Bestimmungen
 
 #### Artikel 18
 
@@ -222,18 +238,18 @@ beschliesst:
 
 <sup>4</sup> Wird die Krankenversicherung infolge Militär- oder Zivildiensts sistiert, so besteht für diese Zeit kein Anspruch auf Prämienverbilligung. Allfällig bereits ausgerichtete Prämienverbilligungen erstatten die Versicherer der Sozialversicherungsstelle Uri zurück.
 
-## 7 Schlussbestimmungen
+### 7. Abschnitt: Schlussbestimmungen
 
 #### Artikel 19
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Das Reglement vom 3. Dezember 2013 über die Prämienverbilligung für die Krankenpflege-Grundversicherung wird aufgehoben.
+Das Reglement vom 3. Dezember 2013 über die Prämienverbilligung für die Krankenpflege-Grundversicherung<sup>6</sup> wird aufgehoben.
 
 #### Artikel 20
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Reglement tritt am 1. November 2024 in Kraft.
+Dieses Reglement tritt am 1. November 2024 in Kraft.
 
-AB 04.10.2024
+Im Namen des Regierungsrats Der Landammann: Christian Arnold Der Kanzleidirektor: Roman Balli
