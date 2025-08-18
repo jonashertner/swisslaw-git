@@ -1,33 +1,39 @@
 ---
 canton: UR
 number: "10.5117"
-title: Reglement über das Naturschutzgebiet Bäz in Andermatt
+title: REGLEMENT über das Naturschutzgebiet Bäz in Andermatt
 language: de
 version: 2012-01-01
+corrected: 2025-08-19
 version_adopted: 2011-12-13
 adopted: 2011-12-13
 in_force: 2012-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.5117"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/935/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/358/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über das Naturschutzgebiet Bäz in Andermatt
+# REGLEMENT über das Naturschutzgebiet Bäz in Andermatt
 
-Vom 13.12.2011 (Stand 01.01.2012)
+REGLEMENT über das Naturschutzgebiet Bäz in Andermatt
 
-Der Regierungsrat des Kantons Uri,
+(vom 13. Dezember 2011[^t-1]; Stand am 1. Januar 2012)
 
-gestützt auf Artikel 18b und 18c des Bundesgesetzes vom 1. Juli 1966 über den Natur- und Heimatschutz (NHG, SR [451](https://db.clex.ch/link/Bund/451/de)) und Artikel 10 Absatz 1 des kantonalen Gesetzes vom 18. Oktober 1987 über den Natur- und Heimatschutz (RB [10.5101](https://rechtsbuch.ur.ch/data/10.5101/de)),
+Der Regierungsrat des Kantons Uri, gestützt auf Artikel 18b und 18c des Bundesgesetzes vom 1. Juli 1966 über den Natur- und Heimatschutz (NHG)[^t-2] und Artikel 10 Absatz 1 des kantonalen Gesetzes vom 18. Oktober 1987 über den Natur- und Heimatschutz (KNHG)[^t-3],
 
 beschliesst:
+
+[^t-1]: AB vom 23. Dezember 2011
+[^t-2]: SR SR
+[^t-3]: RB 10.5101
 
 #### Artikel 1
 
 **Schutzziel**
 
-<sup>1</sup> Dieses Reglement bezweckt die langfristige, ungeschmälerte und umfassende Erhaltung und Förderung der wertvollen Flach- und Zwischenmoore, der Auenbestockung, der Amphibienlaichgebiete sowie der Trockenwiesen und ‑weiden im Gebiet Bäz, Gemeinde Andermatt, als Lebensräume seltener und geschützter Tier- und Pflanzenarten, Pflanzengesellschaften und Tiergemeinschaften sowie als belebende Elemente einer vielfältigen Landschaft und als Zeugen früherer Bewirtschaftungsformen.
+<sup>1</sup> Dieses Reglement bezweckt die langfristige, ungeschmälerte und umfassende Erhaltung und Förderung der wertvollen Flach- und Zwischenmoore, der Auenbestockung, der Amphibienlaichgebiete sowie der Trockenwiesen und -weiden im Gebiet Bäz, Gemeinde Andermatt, als Lebensräume seltener und geschützter Tier- und Pflanzenarten, Pflanzengesellschaften und Tiergemeinschaften sowie als belebende Elemente einer vielfältigen Landschaft und als Zeugen früherer Bewirtschaftungsformen.
 
 <sup>2</sup> Die Pflege und die Bewirtschaftung richten sich nach dem jeweils anzustrebenden Naturschutzziel.
 
@@ -37,36 +43,27 @@ beschliesst:
 
 <sup>1</sup> Das Gebiet Bäz westlich von Andermatt wird unter Schutz gestellt. Das Schutzgebiet befindet sich auf den folgenden Liegenschaften:
 
-- a) Parzelle Nummer 1202.720: Schweizerische Eidgenossenschaft
-- b) Parzelle Nummer 1202.722: Korporation Ursern
-- c) Parzelle Nummer 1202.1112: Korporation Ursern
+- 1\. Parzelle Nummer 1202.720 Schweizerische Eidgenossenschaft
+
+- 2\. Parzelle Nummer 1202.722 Korporation Ursern
+
+- 3\. Parzelle Nummer 1202.1112 Korporation Ursern
 
 <sup>2</sup> Die Lage sowie Abgrenzung des Schutzgebiets ergeben sich aus dem Plan im Anhang, der Bestandteil dieses Reglements ist.
 
 #### Artikel 3
 
-**Schutzzonen: Gliederung**
+Schutzzonen a) Gliederung
 
-<sup>1</sup> Das Schutzgebiet wird in folgende Zonen gegliedert:
-
-- a) Naturschutz-Kernzonen:
-  - 1\. Kernzone A (KA)
-  - 2\. Kernzone B (KB)
-  - 3\. Kernzone C (KC)
-  - 4\. Kernzone D (KD)
-  - 5\. Kernzone E (KE)
-  - 6\. Kernzone F (KF)
-- b) Naturschutz-Umgebungszonen:
-  - 1\. Umgebungszone A (UA)
-  - 2\. Umgebungszone B (UB)
+<sup>1</sup> Das Schutzgebiet wird in folgende Zonen gegliedert: Naturschutz-Kernzonen a) Kernzone A (KA) b) Kernzone B (KB) c) Kernzone C (KC) d) Kernzone D (KD) e) Kernzone E (KE) f) Kernzone F (KF) Naturschutz- Umgebungszonen g) Umgebungszone A (UA) h) Umgebungszone B (UB)
 
 <sup>2</sup> Die Schutzzonenzuweisung ergibt sich aus dem Plan im Anhang.
 
-#### Artikel 4
+#### Artikel 4 b
 
-**Schutzzonen: Zweck**
+**) Zweck**
 
-<sup>1</sup> Die Naturschutz-Kernzonen bezwecken die ungeschmälerte Erhaltung der Moorbiotope, der Trockenwiesen- und ‑weiden, der Auenbestockung sowie der Amphibienlaichgebiete mit ihren speziellen Pflanzengesellschaften und Tiergemeinschaften. Die Naturschutz-Kernzonen dienen zudem dem Erhalt und der spezifischen Förderung bodenbrütender Vogelarten.
+<sup>1</sup> Die Naturschutz-Kernzonen bezwecken die ungeschmälerte Erhaltung der Moorbiotope, der Trockenwiesen- und -weiden, der Auenbestockung sowie der Amphibienlaichgebiete mit ihren speziellen Pflanzengesellschaften und Tiergemeinschaften. Die Naturschutz-Kernzonen dienen zudem dem Erhalt und der spezifischen Förderung bodenbrütender Vogelarten.
 
 <sup>2</sup> Die Naturschutz-Umgebungszonen dienen der Sicherung der Naturschutz-Kernzonen vor unerwünschten Einwirkungen sowie dem Schutz der Landschaft und der Erhaltung des Lebensraums für gefährdete Arten im Übergangsgebiet zwischen herkömmlich landwirtschaftlich genutzten Flächen und den Naturschutz-Kernzonen.
 
@@ -76,91 +73,119 @@ beschliesst:
 
 <sup>1</sup> Verboten sind in den Kernzonen gemäss Artikel 3 alle Massnahmen und Einrichtungen, die:
 
-- a) das Schutzobjekt gefährden oder beeinträchtigen können
-- b) Pflanzen und Tiere beeinträchtigen
-- c) die natürlichen Verhältnisse nachteilig verändern
-- d) und im Landschaftsbild störend in Erscheinung treten können
+- a) das Schutzobjekt gefährden oder beeinträchtigen können;
 
-<sup>2</sup> Insbesondere ist es verboten:
+- b) Pflanzen und Tiere beeinträchtigen;
 
-- a) Bauten und Anlagen aller Art zu errichten, sofern sie nicht dem Schutzzonenzweck dienen; vorbehalten bleibt die Errichtung von baulichen Anlagen inklusive Zufahrt für eine allfällig spätere Wasserkraft- und Trinkwassernutzung der Vollenbäche
-- b) Gelände zu verändern, insbesondere Material abzulagern, abzugraben und zu entnehmen, ausser wenn es der Verbesserung des Landschaftsbilds dient und die Massnahmen mit den anderen Schutzzielen vereinbar sind oder es sich um Massnahmen im Rahmen der Sanierung und Überwachung belasteter Standorte oder Altlasten handelt
-- c) Feuchtgebiete zu entwässern und das Gebiet zu bewässern
-- d) Hunde frei laufen zu lassen (Leinenzwang)
-- e) wild lebende Tiere zu töten, zu verletzen, zu fangen oder zu stören; ausgenommen bleiben die bewilligte Jagd und Fischerei
-- f) seltene oder geschützte Pflanzen zu pflücken, auszugraben oder zu zerstören
-- g) nicht einheimische Tiere und standortfremde Pflanzen anzusiedeln
-- h) Feuer anzufachen
-- i) zu lagern, zu zelten und zu campieren
-- j) Pflanzenbehandlungsmittel gemäss Anhang 2.5 der Chemikalien-Risikoreduktions-Verordnung (SR [814.81](https://db.clex.ch/link/Bund/814.81/de)) oder Dünger und diesen gleichgestellten Erzeugnissen gemäss Anhang 2.6 dieser Verordnung zu verwenden
-- k) das Gebiet ausserhalb der im Plan gemäss Anhang markierten Strassen zu befahren, es sei denn zu Pflege- und Nutzungszwecken im Sinne dieses Reglements
+- c) die natürlichen Verhältnisse nachteilig verändern;
+
+- d) und im Landschaftsbild störend in Erscheinung treten können.
+
+2 Insbesondere ist es verboten:
+
+- a) Bauten und Anlagen aller Art zu errichten, sofern sie nicht dem Schutzzonenzweck dienen; vorbehalten bleibt die Errichtung von baulichen Anlagen inklusive Zufahrt für eine allfällig spätere Wasserkraft- und Trinkwassernutzung der Vollenbäche;
+
+- b) Gelände zu verändern, insbesondere Material abzulagern, abzugraben und zu entnehmen, ausser wenn es der Verbesserung des Landschaftsbilds dient und die Massnahmen mit den anderen Schutzzielen vereinbar sind oder es sich um Massnahmen im Rahmen der Sanierung und Überwachung belasteter Standorte oder Altlasten handelt;
+
+- c) Feuchtgebiete zu entwässern und das Gebiet zu bewässern;
+
+- d) Hunde frei laufen zu lassen (Leinenzwang);
+
+- e) wild lebende Tiere zu töten, zu verletzen, zu fangen oder zu stören; ausgenommen bleiben die bewilligte Jagd und Fischerei;
+
+- f) seltene oder geschützte Pflanzen zu pflücken, auszugraben oder zu zerstören;
+
+- g) nicht einheimische Tiere und standortfremde Pflanzen anzusiedeln;
+
+- h) Feuer anzufachen;
+
+- i) zu lagern, zu zelten und zu campieren;
+
+- j) Pflanzenbehandlungsmittel gemäss Anhang 2.5 der Chemikalien-Risikoreduktions-Verordnung[^5-1] oder Dünger und diesen gleichgestellten Erzeugnissen gemäss Anhang 2.6 dieser Verordnung zu verwenden;
+
+- k) das Gebiet ausserhalb der im Plan gemäss Anhang markierten Strassen zu befahren, es sei denn zu Pflege- und Nutzungszwecken im Sinne dieses Reglements.
+
+[^5-1]: SR 814.81
 
 #### Artikel 6
 
-**Schutzbestimmungen für die Zone KA**
-
-<sup>1</sup> In der Zone KA ist zusätzlich zu den Verboten nach Artikel 5 jegliche landwirtschaftliche Nutzung untersagt.
+Schutzbestimmungen für die Zone KA In der Zone KA ist zusätzlich zu den Verboten nach Artikel 5 jegliche landwirtschaftliche Nutzung untersagt.
 
 #### Artikel 7
 
-**Schutzbestimmungen für die Zone KB**
+Schutzbestimmungen für die Zone KB In der Zone KB ist zusätzlich zu den Verboten nach Artikel 5 untersagt:
 
-<sup>1</sup> In der Zone KB ist zusätzlich zu den Verboten nach Artikel 5 untersagt:
+- a) die Beweidung mit Schafen;
 
-- a) die Beweidung mit Schafen
-- b) die Beweidung mit Rindern und übrigen raufutterverzehrenden Nutztieren sowie die Schnittnutzung vor dem 15. Juli
+- b) die Beweidung mit Rindern und übrigen raufutterverzehrenden Nutztieren sowie die Schnittnutzung vor dem 15. Juli.
 
 #### Artikel 8
 
 **Schutzbestimmungen für die Zonen KC und KF**
 
-<sup>1</sup> In den Zonen KC und KF ist zusätzlich zu den Verboten nach Artikel 5 untersagt:
+In den Zonen KC und KF ist zusätzlich zu den Verboten nach Artikel 5 untersagt:
 
-- a) die Beweidung
-- b) die Schnittnutzung vor dem 15. Juli
+- a) die Beweidung;
+
+- b) die Schnittnutzung vor dem 15. Juli.
 
 #### Artikel 9
 
 **Schutzbestimmungen für die Zone KD**
 
-<sup>1</sup> In der Zone KD ist zusätzlich zu den Verboten nach Artikel 5 mit Ausnahme der Streunutzung jegliche landwirtschaftliche Nutzung untersagt. Zudem ist es verboten, diese Zone ausserhalb der im Plan gemäss Anhang markierten Wege und Strassen zu betreten, es sei denn zu Pflege- und Nutzungszwecken im Sinne dieses Reglements sowie im Rahmen der bewilligten Jagd.
+In der Zone KD ist zusätzlich zu den Verboten nach Artikel 5 mit Ausnahme der Streunutzung jegliche landwirtschaftliche Nutzung untersagt. Zudem ist es verboten, diese Zone ausserhalb der im Plan gemäss Anhang markierten Wege und Strassen zu betreten, es sei denn zu Pflege- und Nutzungszwecken im Sinne dieses Reglements sowie im Rahmen der bewilligten Jagd.
 
 #### Artikel 10
 
 **Schutzbestimmungen für die Zone KE**
 
-<sup>1</sup> In der Zone KE ist zusätzlich zu den Verboten nach Artikel 5 jegliche landwirtschaftliche Nutzung untersagt. Zudem ist es verboten, diese Zone ausserhalb der im Plan gemäss Anhang markierten Wege und Strassen zu betreten, es sei denn zu Pflege- und Nutzungszwecken im Sinne dieses Reglements sowie im Rahmen der bewilligten Jagd.
+In der Zone KE ist zusätzlich zu den Verboten nach Artikel 5 jegliche landwirtschaftliche Nutzung untersagt. Zudem ist es verboten, diese Zone ausserhalb der im Plan gemäss Anhang markierten Wege und Strassen zu betreten, es sei denn zu Pflege- und Nutzungszwecken im Sinne dieses Reglements sowie im Rahmen der bewilligten Jagd.
 
 #### Artikel 11
 
-**Allgemeine Schutzbestimmungen für Naturschutzumgebungszonen**
+Allgemeine Schutzbestimmungen für Naturschutzumgebungszonen
 
 <sup>1</sup> Verboten sind in den Naturschutzumgebungszonen gemäss Artikel 3 alle Massnahmen und Einrichtungen, die:
 
-- a) das Schutzobjekt gefährden oder beeinträchtigen können
-- b) Pflanzen und Tiere in den Naturschutzzonen beeinträchtigen
-- c) die natürlichen Verhältnisse in den Naturschutzzonen nachteilig verändern
-- d) und im Landschaftsbild störend in Erscheinung treten können
+- a) das Schutzobjekt gefährden oder beeinträchtigen können;
+
+- b) Pflanzen und Tiere in den Naturschutzzonen beeinträchtigen;
+
+- c) die natürlichen Verhältnisse in den Naturschutzzonen nachteilig verändern;
+
+- d) und im Landschaftsbild störend in Erscheinung treten können.
 
 <sup>2</sup> Insbesondere ist es verboten:
 
-- a) Bauten und Anlagen aller Art zu errichten, sofern sie nicht dem Schutzzonenzweck dienen; vorbehalten bleiben die Errichtung von baulichen Anlagen inklusive Zufahrt für eine allfällig spätere Wasserkraftnutzung der Vollenbäche sowie die Realisierung des Golfplatzes mit dazugehöriger Infrastruktur gemäss dem bewilligten Quartiergestaltungsplan Nr. 6 Golfplatz
-- b) Gelände zu verändern, insbesondere Material abzulagern, abzugraben und zu entnehmen, ausser wenn es der Verbesserung des Landschaftsbilds dient und die Massnahmen mit den anderen Schutzzielen vereinbar sind oder es sich um Massnahmen im Rahmen der Sanierung und Überwachung belasteter Standorte oder Altlasten handelt
-- c) Feuchtgebiete zu entwässern und das Gebiet zu bewässern
-- d) Hunde frei laufen zu lassen (Leinenzwang)
-- e) wild lebende Tiere zu töten, zu verletzen, zu fangen oder zu stören, ausgenommen bleiben die bewilligte Jagd und Fischerei
-- f) seltene oder geschützte Pflanzen zu pflücken, auszugraben oder zu zerstören
-- g) nicht einheimische Tiere und standortfremde Pflanzen anzusiedeln
-- h) Feuer anzufachen
-- i) zu lagern, zu zelten und zu campieren
-- j) Pflanzenbehandlungsmittel gemäss Anhang 2.5 der Chemikalien-Risikoreduktions-Verordnung (SR [814.81](https://db.clex.ch/link/Bund/814.81/de)) oder Dünger und diesen gleichgestellten Erzeugnissen gemäss Anhang 2.6 dieser Verordnung zu verwenden; vorbehalten bleibt die Verwendung von Pflanzenbehandlungsmitteln und ‑düngern im Rahmen des Unterhalts der bewilligten Golfanlageninfrastruktur
-- k) das Gebiet zu befahren, es sei denn zu Pflege- und Nutzungszwecken im Sinne dieses Reglements
+- a) Bauten und Anlagen aller Art zu errichten, sofern sie nicht dem Schutzzonenzweck dienen; vorbehalten bleiben die Errichtung von baulichen Anlagen inklusive Zufahrt für eine allfällig spätere Wasserkraftnutzung der Vollenbäche sowie die Realisierung des Golfplatzes mit dazugehöriger Infrastruktur gemäss dem bewilligten Quartiergestaltungsplan Nr. 6 Golfplatz;
+
+- b) Gelände zu verändern, insbesondere Material abzulagern, abzugraben und zu entnehmen, ausser wenn es der Verbesserung des Landschaftsbilds dient und die Massnahmen mit den anderen Schutzzielen vereinbar sind oder es sich um Massnahmen im Rahmen der Sanierung und Überwachung belasteter Standorte oder Altlasten handelt;
+
+- c) Feuchtgebiete zu entwässern und das Gebiet zu bewässern;
+
+- d) Hunde frei laufen zu lassen (Leinenzwang);
+
+- e) wild lebende Tiere zu töten, zu verletzen, zu fangen oder zu stören, ausgenommen bleiben die bewilligte Jagd und Fischerei;
+
+- f) seltene oder geschützte Pflanzen zu pflücken, auszugraben oder zu zerstören;
+
+- g) nicht einheimische Tiere und standortfremde Pflanzen anzusiedeln;
+
+- h) Feuer anzufachen;
+
+- i) zu lagern, zu zelten und zu campieren;
+
+- j) Pflanzenbehandlungsmittel gemäss Anhang 2.5 der Chemikalien-Risikoreduktions-Verordnung[^11-1] oder Dünger und diesen gleichgestellten Erzeugnissen gemäss Anhang 2.6 dieser Verordnung zu verwenden; vorbehalten bleibt die Verwendung von Pflanzenbehandlungsmitteln und -düngern im Rahmen des Unterhalts der bewilligten Golfanlageninfrastruktur;
+
+- k) das Gebiet zu befahren, es sei denn zu Pflege- und Nutzungszwecken im Sinne dieses Reglements.
+
+[^11-1]: SR 814.81
 
 #### Artikel 12
 
 **Schutzbestimmungen für die Zone UB**
 
-<sup>1</sup> In der Zone UB ist zusätzlich zu den Verboten nach Artikel 11 eine Weidenutzung untersagt.
+In der Zone UB ist zusätzlich zu den Verboten nach Artikel 11 eine Weidenutzung untersagt.
 
 #### Artikel 13
 
@@ -170,22 +195,24 @@ beschliesst:
 
 <sup>2</sup> Die Bestossung (Tierart, Anzahl und Dauer) der beweidbaren Flächen gemäss den Artikeln 7 und 8 hat sich nach den Schutzzielen zu richten und wird in separaten Vereinbarungen geregelt.
 
-<sup>3</sup> Die Justizdirektion[^Artikel13-1] sorgt mit geeigneten Massnahmen für die Umsetzung des separaten Pflegeplans.
+3 Die Justizdirektion[^13-1] sorgt mit geeigneten Massnahmen für die Umsetzung des separaten Pflegeplans.
 
-<sup>4</sup> Die Justizdirektion[^Artikel13-2] kann im Rahmen dieses Reglements und der verfügbaren Kredite mit dem betroffenen Grundeigentümer oder dem Bewirtschafter Verträge abschliessen, um die zweckmässige Pflege des Schutzgebiets sicherzustellen.
+<sup>4</sup> Die Justizdirektion[^13-2] kann im Rahmen dieses Reglements und der verfügbaren Kredite mit dem betroffenen Grundeigentümer oder dem Bewirtschafter Verträge abschliessen, um die zweckmässige Pflege des Schutzgebiets sicherzustellen.
 
 <sup>5</sup> Kann der Grundeigentümer oder Bewirtschafter die Pflegearbeiten der Flachmoore, Trockenwiesen, Auengebiete und Umgebungsflächen nicht selbst sicherstellen, ist er verpflichtet, Pflege und Unterhalt durch den Kanton Uri oder dessen Beauftragte zu dulden.
 
-[^Artikel13-1]: Siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
-[^Artikel13-2]: Siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^13-1]: vgl. Artikel 1 und 32 des Organisationsreglements (ORR; RB 2.3322)
+[^13-2]: vgl. Artikel 1 und 32 des Organisationsreglements (ORR; RB 2.3322)
 
 #### Artikel 14
 
 **Abgeltung von Leistungen**
 
-<sup>1</sup> Grundeigentümerinnen und Grundeigentümer oder die Bewirtschafterinnen und Bewirtschafter haben, gestützt auf Artikel 18c Absatz 2 Bundesgesetz über den Natur- und Heimatschutz (NHG, SR [451](https://db.clex.ch/link/Bund/451/de)) und im Rahmen vertraglicher Vereinbarungen, Anspruch auf angemessene Abgeltung, wenn sie im Interesse der Schutzziele die bisherige Nutzung einschränken oder eine Leistung ohne entsprechenden wirtschaftlichen Ertrag erbringen.
+<sup>1</sup> Grundeigentümerinnen und Grundeigentümer oder die Bewirtschafterinnen und Bewirtschafter haben, gestützt auf Artikel 18c Absatz 2 Bundesgesetz über den Natur- und Heimatschutz[^14-1] und im Rahmen vertraglicher Vereinbarungen, Anspruch auf angemessene Abgeltung, wenn sie im Interesse der Schutzziele die bisherige Nutzung einschränken oder eine Leistung ohne entsprechenden wirtschaftlichen Ertrag erbringen.
 
 <sup>2</sup> Notwendige Zaunarbeiten werden durch den Kanton finanziert.
+
+[^14-1]: NHG; SR 451
 
 #### Artikel 15
 
@@ -193,22 +220,22 @@ beschliesst:
 
 <sup>1</sup> Das Schutzgebiet wird durch den Kanton mit Tafeln markiert.
 
-<sup>2</sup> Die Justizdirektion[^Artikel15-1] vollzieht dieses Reglement. Sie sorgt für die Markierung des Schutzgebiets, beaufsichtigt das Schutzgebiet und wacht über die Schutzziele und die Einhaltung der getroffenen Vereinbarungen.
+<sup>2</sup> Die Justizdirektion[^15-1] vollzieht dieses Reglement. Sie sorgt für die Markierung des Schutzgebiets, beaufsichtigt das Schutzgebiet und wacht über die Schutzziele und die Einhaltung der getroffenen Vereinbarungen.
 
 <sup>3</sup> Der Regierungsrat kann bei Bedarf weitere Personen mit Aufsichtsfunktionen betrauen.
 
 <sup>4</sup> Bei Übertretungen des Schutzreglements erstatten die Aufsichtsbehörden Anzeige bei der Polizei oder bei der Staatsanwaltschaft.
 
-<sup>5</sup> Wenn besondere Verhältnisse vorliegen, insbesondere wenn der Zweck nach Artikel 1 sowie ein überwiegendes öffentliches oder wissenschaftliches Interesse es erfordern, kann die Justizdirektion[^Artikel15-2] unter sichernden Bedingungen Ausnahmen von den Bestimmungen dieses Reglements bewilligen. Sie kann damit Bedingungen und Auflagen verknüpfen.
+<sup>5</sup> Wenn besondere Verhältnisse vorliegen, insbesondere wenn der Zweck nach Artikel 1 sowie ein überwiegendes öffentliches oder wissenschaftliches Interesse es erfordern, kann die Justizdirektion[^15-2] unter sichernden Bedingungen Ausnahmen von den Bestimmungen dieses Reglements bewilligen. Sie kann damit Bedingungen und Auflagen verknüpfen.
 
-[^Artikel15-1]: Siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
-[^Artikel15-2]: Siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^15-1]: vgl. Artikel 1 und 32 des Organisationsreglements (ORR; RB 2.3322)
+[^15-2]: vgl. Artikel 1 und 32 des Organisationsreglements (ORR; RB 2.3322)
 
 #### Artikel 16
 
 **Strafbestimmungen**
 
-<sup>1</sup> Wer die Vorschriften von Artikel 5, 6, 7, 8, 9, 10, 11 und 12 verletzt, wird nach Artikel 34 des Gesetzes über den Natur- und Heimatschutz mit Busse bis zu 5'000 Franken bestraft.
+<sup>1</sup> Wer die Vorschriften von Artikel 5, 6, 7, 8, 9, 10, 11 und 12 verletzt, wird nach Artikel 34 des Gesetzes über den Natur- und Heimatschutz mit Busse bis zu 5 000 Franken bestraft.
 
 <sup>2</sup> Der ursprüngliche Zustand ist auf Kosten des Schuldigen wieder herzustellen.
 
@@ -216,12 +243,14 @@ beschliesst:
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Reglement tritt am 1. Januar 2012 in Kraft.
+Dieses Reglement tritt am 1. Januar 2012 in Kraft.
 
-## A1 Anhang 1: Schutzzonenplan Naturschutzgebiet Bäz
+Im Namen des Regierungsrats
 
-#### Artikel A1-1
+Der Landammann: Markus Züst Der Kanzleidirektor: Roman Balli
 
-<sup>1</sup> Schutzzonenplan Naturschutzgebiet Bäz:
+### Anhang:
 
-AB 23.12.2011
+- Schutzzonenplan
+
+### Anhang Schutzzonenplan
