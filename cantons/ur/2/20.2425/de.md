@@ -1,72 +1,78 @@
 ---
 canton: UR
 number: "20.2425"
-title: Verordnung über die Ergänzungsleistungen zur AHV/IV
+title: VERORDNUNG über die Ergänzungsleistungen zur AHV/IV
 language: de
 version: 2011-01-01
+corrected: 2025-08-19
 version_adopted: 2010-06-16
 adopted: 2007-09-24
 in_force: 2008-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.2425"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/787/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/227/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung über die Ergänzungsleistungen zur AHV/IV
+# VERORDNUNG über die Ergänzungsleistungen zur AHV/IV
 
-Vom 24.09.2007 (Stand 01.01.2011)
+VERORDNUNG über die Ergänzungsleistungen zur AHV/IV
 
-Der Landrat des Kantons Uri,
+(vom 24. September 2007[^t-1]; Stand am 1. Januar 2011)
 
-gestützt auf Artikel 8 des Gesetzes vom 25. November 2007 über die Ergänzungsleistungen zur AHV/IV (RB [20.2421](https://rechtsbuch.ur.ch/data/20.2421/de)),
+Der Landrat des Kantons Uri, gestützt auf Artikel 8 des Gesetzes vom 25. November 2007 über die Ergänzungsleistungen zur AHV/IV[^t-2],
 
 beschliesst:
 
-## 1 Berechnungsgrundlagen
+[^t-1]: AB vom 5. Oktober 2007
+[^t-2]: RB 20.2421
+
+### 1. Abschnitt: Berechnungsgrundlagen
 
 #### Artikel 1
 
 **Grundsatz**
 
-<sup>1</sup> Der Anspruch auf Ergänzungsleistungen richtet sich nach der Bundesgesetzgebung und dem kantonalen Gesetz über die Ergänzungsleistungen zur AHV/IV.
+Der Anspruch auf Ergänzungsleistungen richtet sich nach der Bundesgesetzgebung und dem kantonalen Gesetz über die Ergänzungsleistungen zur AHV/IV.
 
 #### Artikel 2
 
 **Bewertung von Liegenschaften**
 
-<sup>1</sup> Sofern das Bundesrecht nichts anderes bestimmt, werden:
+Sofern das Bundesrecht nichts anderes bestimmt, werden:
 
-- a) Liegenschaften, in denen EL-berechtigte oder in die EL-Berechnung einbezogene Personen selbst wohnen, nach den Grundsätzen der Gesetzgebung über die direkte kantonale Steuer im Wohnsitzkanton bewertet
-- b) übrige Liegenschaften nach dem für die interkantonale Steuerausscheidung massgebenden Repartitionswert angerechnet
+- a) Liegenschaften, in denen EL-berechtigte oder in die EL-Berechnung einbezogene Personen selbst wohnen, nach den Grundsätzen der Gesetzgebung über die direkte kantonale Steuer im Wohnsitzkanton bewertet;
+
+- b) übrige Liegenschaften nach dem für die interkantonale Steuerausscheidung massgebenden Repartitionswert angerechnet.
 
 #### Artikel 3
 
 **Vermögensverzehr**
 
-<sup>1</sup> Vermögen von EL-Berechtigten oder in die EL-Berechtigung einbezogenen Personen wird grundsätzlich nach Artikel 11 Absatz 1 Buchstabe c und Absatz 1<sup>bis</sup> ELG (SR [831.30](https://db.clex.ch/link/Bund/831.30/de)) angerechnet.
+<sup>1</sup> Vermögen von EL-Berechtigten oder in die EL-Berechtigung einbezogenen Personen wird grundsätzlich nach Artikel 11 Absatz 1 Buchstabe c und Absatz 1bis ELG[^3-1] angerechnet.<sup>4</sup>
 
-<sup>2</sup> Bei Personen im Rentenalter, die in einem Heim oder Spital leben, wird das Vermögen, das den bundesrechtlichen Freibetrag übersteigt, zu einem Fünftel angerechnet.
+2 Bei Personen im Rentenalter, die in einem Heim oder Spital leben, wird das Vermögen, das den bundesrechtlichen Freibetrag übersteigt, zu einem Fünftel angerechnet.
+
+[^3-1]: SR 831.30
 
 #### Artikel 4
 
 **Begrenzung der anrechenbaren Heim- oder Spitalkosten**
 
-<sup>1</sup> Bei Personen, die dauernd oder längere Zeit in einem Heim oder Spital leben, werden folgende Kosten angerechnet:
+<sup>1</sup> Bei Personen, die dauernd oder längere Zeit in einem Heim oder Spital leben, werden folgende Kosten angerechnet[^4-1]:
 
-- a) der geschuldete Anteil an den Pflegekosten, höchstens aber die maximale Patientenbeteiligung[^Artikel4-1]
-- b) die geschuldeten Pensionskosten, höchstens aber die Taxe nach Artikel 4a
-- c) die geschuldeten Betreuungskosten, höchstens aber die Taxe nach Artikel 4a
+- a) der geschuldete Anteil an den Pflegekosten, höchstens aber die maximale Patientenbeteiligung[^4-2];
 
-<sup>2</sup> Bei an Demenz erkrankten Personen werden zusätzlich die geschuldeten Zuschläge angerechnet.
+- b) die geschuldeten Pensionskosten, höchstens aber die Taxe nach Artikel 4a;
 
-<sup>3</sup> Beim Aufenthalt in einem Behindertenwohnheim werden die nach der kantonalen Verordnung über Betriebs- und Investitionsbeiträge an Institutionen der Behindertenhilfe (RB [20.3447](https://rechtsbuch.ur.ch/data/20.3447/de)) geschuldeten minimalen Pensionspreise angerechnet.
+- c) die geschuldeten Betreuungskosten, höchstens aber die Taxe nach Artikel 4a.
 
-[^Artikel4-1]: Artikel 2 der Verordnung über die Patientenbeteiligung und den Kantonsbeitrag in der Langzeitpflege, RB [20.2332](https://rechtsbuch.ur.ch/data/20.2332/de).
+<sup>2</sup> Bei an Demenz erkrankten Personen werden zusätzlich die geschuldeten Zuschläge angerechnet.[^4-3]
 
-#### Artikel 4a
+<sup>3</sup> Beim Aufenthalt in einem Behindertenwohnheim werden die nach der kantonalen Verordnung über Betriebs- und Investitionsbeiträge an Institutionen der Behindertenhilfe[^4-4] geschuldeten minimalen Pensionspreise angerechnet.
 
-**Höchsttaxen für die Pension und die Betreuung**
+Artikel 4a[^4-5] Höchsttaxen für die Pension und die Betreuung
 
 <sup>1</sup> Der Regierungsrat legt die anrechenbaren Höchsttaxen für die Pension und die Betreuung nach den Grundsätzen von Absatz 2 und 3 auf Franken gerundet fest. Die Festlegung erfolgt jeweils für zwei Kalenderjahre.
 
@@ -74,42 +80,43 @@ beschliesst:
 
 <sup>3</sup> Wird mit dem nach Absatz 2 ermittelten Durchschnittswert für mehr als 5 Prozent der Bezügerinnen und Bezüger von Ergänzungsleistungen keine Kostendeckung erreicht, korrigiert der Regierungsrat die anrechenbare Höchsttaxe nach oben.
 
-#### Artikel 4b
-
-**Vermeiden von Sozialhilfe-Abhängigkeit**
+Artikel 4b[^4-6] Vermeiden von Sozialhilfe-Abhängigkeit
 
 <sup>1</sup> Bei Personen, die in einem anerkannten Pflegeheim leben und trotz Ergänzungsleistungen keine ausreichende Deckung der Heimkosten erreichen, sorgen die Gemeinden durch eigene Beiträge dafür, dass durch den Heimaufenthalt in der Regel keine Sozialhilfe-Abhängigkeit begründet wird.
 
-<sup>2</sup> Zuständig ist diejenige Gemeinde, die für die betroffene Person nach den Regeln über die Restfinanzierung in der Langzeitpflege kostenübernahmepflichtig ist.
+<sup>2</sup> Zuständig ist diejenige Gemeinde, die für die betroffene Person nach den Regeln über die Restfinanzierung in der Langzeitpflege kostenübernahmepflichtig ist.4
+
+[^4-1]: Fassung gemäss LRB vom 16. Juni 2010, in Kraft gesetzt auf den 1. Januar 2011 (AB vom 2. Juli 2010).
+[^4-2]: Artikel 2 der Verordnung über die Patientenbeteiligung und den Kantonsbeitrag in der Langzeitpflege; RB 20.2332
+[^4-3]: Fassung gemäss LRB vom 16. Juni 2010, in Kraft gesetzt auf den 1. Januar 2011 (AB vom 2. Juli 2010).
+[^4-4]: RB 20.3447
+[^4-5]: Eingefügt durch LRB vom 16. Juni 2010, in Kraft gesetzt auf den 1. Januar 2011(AB vom 2. Juli 2010).
+[^4-6]: Eingefügt durch LRB vom 16. Juni 2010, in Kraft gesetzt auf den 1. Januar 2011(AB vom 2. Juli 2010).
 
 #### Artikel 5
 
-**Betrag für persönliche Auslagen bei Heim- oder Spitalaufenthalt**
+**Betrag für persönliche Auslagen bei Heim-**
 
-<sup>1</sup> Der Betrag für persönliche Auslagen wird wie folgt festgesetzt:
+oder Spitalaufenthalt Der Betrag für persönliche Auslagen wird wie folgt festgesetzt:
 
-- a) 20 Prozent des Betrags für den allgemeinen Lebensbedarf für Alleinstehende (Art. 10 Abs. 1 Bst. a ELG) beim Aufenthalt in einem Spital oder Pflegeheim
-- b) 32 Prozent des Betrags für den allgemeinen Lebensbedarf für Alleinstehende beim Aufenthalt in einem anderen Heim
+- a) 20 Prozent des Betrags für den allgemeinen Lebensbedarf für Alleinstehende (Art. 10 Abs. 1 Bst. a ELG) beim Aufenthalt in einem Spital oder Pflegeheim;
+
+- b) 32 Prozent des Betrags für den allgemeinen Lebensbedarf für Alleinstehende beim Aufenthalt in einem anderen Heim.
 
 #### Artikel 6
 
 **Krankheits- und Behinderungskosten**
 
-<sup>1</sup> Der Regierungsrat bezeichnet die Krankheits- und Behinderungskosten nach Artikel 14 Absatz. 1 ELG in einem Reglement. Sie können nur vergütet werden, wenn sie im Rahmen einer wirtschaftlichen und zweckmässigen Leistungserbringung entstanden sind und nicht von Versicherungen oder Dritten übernommen werden. Die Kostenvergütung ist auf die bundesrechtlichen Mindestbeträge (Art. 14 Abs. 3 bis 5 ELG) begrenzt.
+<sup>1</sup> Der Regierungsrat bezeichnet die Krankheits- und Behinderungskosten nach Artikel 14 Absatz 1 ELG in einem Reglement. Sie können nur vergütet werden, wenn sie im Rahmen einer wirtschaftlichen und zweckmässigen Leistungserbringung entstanden sind und nicht von Versicherungen oder Dritten übernommen werden. Die Kostenvergütung ist auf die bundesrechtlichen Mindestbeträge (Art. 14 Abs. 3 bis 5 ELG) begrenzt.<sup>11</sup>
 
 <sup>2</sup> Die Ausgleichskasse kann im Einzelfall die Wirtschaftlichkeit und Zweckmässigkeit durch Fachstellen abklären lassen. Leistungen, die im Rahmen obligatorischer Sozialversicherungen erbracht werden, gelten grundsätzlich als wirtschaftlich und zweckmässig.
 
-<sup>3</sup> Die Ausgleichskasse kann noch nicht bezahlte Kosten direkt der Rechnungsstellerin oder dem Rechnungssteller vergüten (Art. 14 Abs. 7 ELG).
+3 Die Ausgleichskasse kann noch nicht bezahlte Kosten direkt der Rechnungsstellerin oder dem Rechnungssteller vergüten (Art. 14 Abs. 7 ELG). Artikel 6a[^6-1] Ambulante Pflegekosten Bei Personen, die Pflegeleistungen von zugelassenen Leistungserbringern der ambulanten Langzeitpflege beanspruchen, wird der von ihnen geschuldete Anteil an den Pflegekosten angerechnet, höchstens aber die maximale Patientenbeteiligung[^6-2].
 
-#### Artikel 6a
+[^6-1]: Eingefügt durch LRB vom 16. Juni 2010, in Kraft gesetzt auf den 1. Januar 2011 (AB vom 2. Juli 2010).
+[^6-2]: Artikel 2 der Verordnung über die Patientenbeteiligung und den Kantonsbeitrag in der Langzeitpflege; RB 20.2332
 
-**Ambulante Pflegekosten**
-
-<sup>1</sup> Bei Personen, die Pflegeleistungen von zugelassenen Leistungserbringern der ambulanten Langzeitpflege beanspruchen, wird der von ihnen geschuldete Anteil an den Pflegekosten angerechnet, höchstens aber die maximale Patientenbeteiligung[^Artikel6a-1].
-
-[^Artikel6a-1]: Artikel 2 der Verordnung über die Patientenbeteiligung und den Kantonsbeitrag in der Langzeitpflege, RB [20.2332](https://rechtsbuch.ur.ch/data/20.2332/de).
-
-## 2 Organisation und Verfahren
+### 2. Abschnitt: Organisation und Verfahren
 
 #### Artikel 7
 
@@ -123,7 +130,7 @@ beschliesst:
 
 **Auszahlung**
 
-<sup>1</sup> Die Ergänzungsleistungen werden von der Ausgleichskasse in der Regel gemeinsam mit der Rente der AHV oder der IV ausbezahlt (Art. 21 Abs. 4 ELG).
+Die Ergänzungsleistungen werden von der Ausgleichskasse in der Regel gemeinsam mit der Rente der AHV oder der IV ausbezahlt (Art. 21 Abs. 4 ELG).
 
 #### Artikel 9
 
@@ -137,36 +144,40 @@ beschliesst:
 
 **Buchführung**
 
-<sup>1</sup> Die Buchführung erfolgt aufgrund der Vorschriften des Bundes (Art. 22 ELG).
+Die Buchführung erfolgt aufgrund der Vorschriften des Bundes (Art. 22 ELG).
 
 #### Artikel 11
 
 **Informationspflicht**
 
-<sup>1</sup> Die Ausgleichskasse informiert die möglichen anspruchsberechtigten Personen in angemessener Weise über ihre Rechte und Pflichten im Zusammenhang mit Ergänzungsleistungen zur AHV/IV.
+Die Ausgleichskasse informiert die möglichen anspruchsberechtigten Personen in angemessener Weise über ihre Rechte und Pflichten im Zusammenhang mit Ergänzungsleistungen zur AHV/IV.
 
-## 3 Schlussbestimmungen
+### 3. Abschnitt: Schlussbestimmungen
 
 #### Artikel 12
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Die Verordnung vom 24. September 1986 über die Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung wird aufgehoben.
+Die Verordnung vom 24. September 1986 über die Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung wird aufgehoben.
 
 #### Artikel 13
 
 **Übergangsbestimmung**
 
-<sup>1</sup> Die Artikel 3 bis 18 der Verordnung über die Vergütung von Krankheits- und Behinderungskosten bei den Ergänzungsleistungen (SR [831.301.1](https://db.clex.ch/link/Bund/831.301.1/de)) sind in der Ende des Jahres vor Inkrafttreten der NFA gültigen Fassung weiterhin sinngemäss anwendbar, soweit das Gesetz oder die Verordnung nichts anderes bestimmen.
+Die Artikel 3 bis 18 der Verordnung über die Vergütung von Krankheits- und Behinderungskosten bei den Ergänzungsleistungen[^13-1] sind in der Ende des Jahres vor Inkrafttreten der NFA gültigen Fassung weiterhin sinngemäss anwendbar, soweit das Gesetz oder die Verordnung nichts anderes bestimmen.
+
+[^13-1]: SR 831.301.1
 
 #### Artikel 14
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Verordnung untersteht dem fakultativen Referendum. Sie ist vom Bund zu genehmigen[^Artikel14-1].
+<sup>1</sup> Diese Verordnung untersteht dem fakultativen Referendum. Sie ist vom Bund zu genehmigen[^14-1].
 
 <sup>2</sup> Sie tritt am 1. Januar 2008 in Kraft.
 
-[^Artikel14-1]: Vom Bund genehmigt am 14. November 2007.
+Im Namen des Landrats
 
-AB 05.10.2007
+Der Präsident: Leo Arnold Der Kanzleidirektor: Dr. Peter Huber
+
+[^14-1]: Vom Bund genehmigt am 14. November 2007.
