@@ -1,29 +1,33 @@
 ---
 canton: UR
 number: "50.1133"
-title: Reglement über das Verfahren zum freihändigen Landerwerb für den Nationalstrassenbau
+title: REGLEMENT über das Verfahren zum freihändigen Landerwerb für den Nationalstrassenbau
 language: de
 version: 1969-06-16
+corrected: 2025-08-19
 version_adopted: 1962-05-14
 adopted: 1962-05-14
 in_force: 1969-06-16
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/50.1133"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/877/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/45/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über das Verfahren zum freihändigen Landerwerb für den Nationalstrassenbau
+# REGLEMENT über das Verfahren zum freihändigen Landerwerb für den Nationalstrassenbau
 
-Vom 14.05.1962 (Stand 16.06.1969)
+REGLEMENT über das Verfahren zum freihändigen Landerwerb für den Nationalstrassenbau
 
-Der Regierungsrat des Kantons Uri,
+(vom 14. Mai 1962; Stand am 20. Februar 2009)
 
-gestützt auf Artikel 32 und 61 des Bundesgesetzes über die Nationalstrassen vom 8. März 1960 (SR [725.11](https://db.clex.ch/link/Bund/725.11/de)), sowie auf Grund von Artikel 3 lit. e und Artikel 6 der kantonalen Vollziehungsverordnung vom 27. April 1961,
+Der Regierungsrat des Kantons Uri, gestützt auf Artikel 32 und 61 des Bundesgesetzes über die Nationalstrassen vom 8. März 1960[^t-1], sowie auf Grund von Artikel 3 lit. e und Artikel 6 der kantonalen Vollziehungsverordnung vom 27. April 1961,
 
-beschliesst:
+beschliesst :
 
-## 1 Zuständigkeit und Organisation
+[^t-1]: SR 725.11
+
+### 1. Abschnitt: Zuständigkeit und Organisation
 
 #### Artikel 1
 
@@ -39,7 +43,7 @@ beschliesst:
 
 <sup>1</sup> Die Baudirektion ist gleichfalls zuständig für den Abschluss der Expropriationsverträge (gütliche Entschädigungsabrede) nach Einleitung des Enteignungsverfahrens.
 
-<sup>2</sup> Solche Expropriationsverträge bedürfen zu ihrer Verbindlichkeit der einfachen Schriftform (Artikel 54 des Enteignungsgesetzes, SR [711](https://db.clex.ch/link/Bund/711/de)) und der Zustimmung durch den Regierungsrat (Artikel 3 lit. e der kantonalen Vollziehungsverordnung zum Nationalstrassengesetz). Auch sind sie dem Präsidenten der Schätzungskommission mitzuteilen (Artikel 54 des Enteignungsgesetzes, SR [711](https://db.clex.ch/link/Bund/711/de)).
+<sup>2</sup> Solche Expropriationsverträge bedürfen zu ihrer Verbindlichkeit der einfachen Schriftform (Artikel 54 des Enteignungsgesetzes<sup>2</sup>) und der Zustimmung durch den Regierungsrat (Artikel 3 lit. e der kantonalen Vollziehungsverordnung zum Nationalstrassengesetz). Auch sind sie dem Präsidenten der Schätzungskommission mitzuteilen (Artikel 54 des Enteignungsgesetzes<sup>3</sup>).
 
 #### Artikel 3
 
@@ -55,9 +59,9 @@ beschliesst:
 
 <sup>5</sup> Das Bauamt führt das Sekretariat der kantonalen Landerwerbskommission.
 
-## 2 Das Verfahren
+### 2. Abschnitt: Das Verfahren
 
-### 2.1 Vorverfahren
+### 1. Unterabschnitt: Vorverfahren
 
 #### Artikel 4
 
@@ -83,7 +87,7 @@ beschliesst:
 
 <sup>2</sup> Der Preiszonenplan enthält die für die einzelnen Gebiete massgeblichen Höchstpreise, die nur in Ausnahmefällen und nur nach Rückfrage bei der Baudirektion überschritten werden dürfen.
 
-### 2.2 Hauptverfahren
+### 2. Unterabschnitt: Hauptverfahren
 
 #### Artikel 7
 
@@ -97,21 +101,21 @@ beschliesst:
 
 **Beurkundung**
 
-<sup>1</sup> Führen die Verhandlungen zur gegenseitigen Vertragsbereitschaft, so ist im freihändigen Erwerb die notarielle Beurkundung in die Wege zu leiten.
+Führen die Verhandlungen zur gegenseitigen Vertragsbereitschaft, so ist im freihändigen Erwerb die notarielle Beurkundung in die Wege zu leiten.
 
 #### Artikel 9
 
 **Expropriationsverträge**
 
-<sup>1</sup> Die Expropriationsverträge werden vom Bauamt Uri ausgefertigt.
+Die Expropriationsverträge werden vom Bauamt Uri ausgefertigt.
 
 #### Artikel 10
 
 **Genehmigungsverfahren**
 
-<sup>1</sup> Das regierungsrätliche Genehmigungsverfahren für alle Verträge wird von der Baudirektion eingeleitet.
+Das regierungsrätliche Genehmigungsverfahren für alle Verträge wird von der Baudirektion eingeleitet.
 
-### 2.3 Kontrolle
+### 3. Unterabschnitt: Kontrolle
 
 #### Artikel 11
 
@@ -119,9 +123,11 @@ beschliesst:
 
 <sup>1</sup> Nach der notariellen Beurkundung sind sämtliche Erwerbsverträge umgehend dem Bauamt Uri zu melden.
 
-<sup>2</sup> Dieses trägt die erworbenen Flächen auf einen Situationsplan ein und führt für jeden Teilabschnitt Kontrolle über das erworbene und über das noch offene Gesamtmass.
+<sup>2</sup> Dieses trägt die erworbenen Flächen auf einen Situationsplan ein und führt für jeden Teilabschnitt Kontrolle über das erworbene und über das
 
-## 3 Schlussbestimmungen
+noch offene Gesamtmass.
+
+### 3. Abschnitt: Schlussbestimmungen
 
 #### Artikel 12
 
@@ -133,7 +139,7 @@ beschliesst:
 
 <sup>3</sup> Bei der Benützung eines privaten Fahrzeuges hat der Fahrzeughalter das Datum der Fahrt, die Anzahl der gefahrenen Kilometer sowie Zweck und Ziel der Reise auf der Spesenrechnung genau anzugeben. Die Rechnung ist vom Präsidenten der Landerwerbskommission zu visieren.
 
-<sup>4</sup> Die Entschädigung für Dienstfahrten mit privaten Fahrzeugen beträgt: 40 Rappen pro gefahrenen Kilometer für die ersten 5'000 km 20 Rappen für jeden weiteren Kilometer. In diesen Ansätzen sind die Amortisation des Fahrzeuges, die obligatorische Haftpflicht-Versicherung, Kasko-, Feuer- und Diebstahl-Versicherung, Garagemiete und die gesamten Unterhaltskosten inbegriffen.
+<sup>4</sup> Die Entschädigung für Dienstfahrten mit privaten Fahrzeugen beträgt: 40 Rappen pro gefahrenen Kilometer für die ersten 5000 km. 20 Rappen für jeden weiteren Kilometer. In diesen Ansätzen sind die Amortisation des Fahrzeuges, die obligatorische Haftpflicht-Versicherung, Kasko-, Feuer- und Diebstahl-Versicherung, Garagemiete und die gesamten Unterhaltskosten inbegriffen.
 
 <sup>5</sup> Für allfällige weitere Spesen wie Telefone usw. können die effektiven Kosten in Rechnung gestellt werden.
 
@@ -141,8 +147,10 @@ beschliesst:
 
 **Inkrafttreten**
 
-<sup>1</sup> Das Reglement vom 14. Mai 1962 über das Verfahren zum freihändigen Landerwerb für den Nationalstrassenbau mit seiner revidierten Fassung tritt nach der Genehmigung durch den Bundesrat sofort in Kraft[^Artikel13-1].
+Das Reglement vom 14. Mai 1962 über das Verfahren zum freihändigen Landerwerb für den Nationalstrassenbau mit seiner revidierten Fassung tritt nach der Genehmigung durch den Bundesrat sofort in Kraft.[^13-1]
 
-[^Artikel13-1]: Genehmigt vom Bundesrat am 16. Juni 1969, in Kraft seit 16. Juni 1969.
+Namens Landammann und Regierungsrat des Kantons Uri
 
--
+Der Landammann: Dr. A. Weber Der Kanzleidirektor: Dr. H. Muheim
+
+[^13-1]: Genehmigt vom Bundesrat am 16. Juni 1969, in Kraft seit 16. Juni 1969.
