@@ -3,20 +3,19 @@ canton: ZG
 number: "153.716"
 title: Verfügung über die Delegation von Befugnissen der Direktion des Innern im Bereich des Denkmalschutzes und der Archäologie an das Amt für Denkmalpflege und Archäologie
 language: de
-version: 2022-05-16
-valid_until: 2025-08-18
-version_adopted: 2022-04-13
+version: 2025-08-19
+version_adopted: 2025-08-19
 adopted: 2008-05-27
 in_force: 2008-07-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/153.716"
-pdf: "https://bgs.zg.ch/api/de/versions/2337/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2730/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verfügung über die Delegation von Befugnissen der Direktion des Innern im Bereich des Denkmalschutzes und der Archäologie an das Amt für Denkmalpflege und Archäologie
 
-Vom 27. Mai 2008 (Stand 16. Mai 2022)
+Vom 27. Mai 2008 (Stand 19. August 2025)
 
 Die Direktion des Innern des Kantons Zug,
 
@@ -28,10 +27,10 @@ verfügt:
 
 #### Ziff. 1
 
-<sup>1</sup> Die Befugnis der Direktion des Innern zur Zustimmung bei archäologischen Grabungen und Bauuntersuchungen gemäss § 18 Abs. 1, ferner zur Anordnung von Abklärungen sowie zur Festlegung und Unterbreitung des Zeitplans gemäss § 18 Abs. 2 des Gesetzes über Denkmalpflege, Archäologie und Kulturgüterschutz (Denkmalschutzgesetz) vom 26. April 1990[^Ziff1-1] wird wie folgt delegiert:
+<sup>1</sup> Die Befugnis der Direktion des Innern zur Zustimmung bei archäologischen Grabungen und Bauuntersuchungen gemäss § 18 Abs. 1, ferner zur Anordnung von Abklärungen sowie zur Festlegung und Unterbreitung des Zeitplans gemäss § 18 Abs. 2 des Gesetzes über Denkmalpflege, Archäologie und Kulturgüterschutz (Denkmalschutzgesetz) vom 26. April 1990[^Ziff1-1] wird an die Leiterin oder den Leiter des Amts für Denkmalpflege und Archäologie delegiert.
 
-- a) für archäologische Ausgrabungen im Bereich der Ur- und Frühgeschichte an die Leiterin oder den Leiter der Abteilung Ur- und Frühgeschichte;
-- b) für Bauuntersuchungen und archäologische Ausgrabungen im Bereich des Mittelalters und der Neuzeit an die Leiterin oder den Leiter der Abteilung Bauforschung und Mittelalterarchäologie.
+- a) …
+- b) …
 
 <sup>2</sup> …
 
