@@ -1,38 +1,41 @@
 ---
 canton: UR
 number: "50.1421"
-title: Verordnung über die Erhebung von Perimeterbeiträgen an Strassen
+title: VERORDNUNG über die Erhebung von Perimeterbeiträgen an Strassen
 short: Perimeterordnung
 language: de
 version: 2012-01-01
+corrected: 2025-08-19
 version_adopted: 2010-06-13
 adopted: 1979-02-21
 in_force: 1979-07-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/50.1421"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/883/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/55/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung über die Erhebung von Perimeterbeiträgen an Strassen
+# VERORDNUNG über die Erhebung von Perimeterbeiträgen an Strassen
 
-(Perimeterordnung)
+VERORDNUNG über die Erhebung von Perimeterbeiträgen an Strassen (Perimeterordnung)
 
-Vom 21.02.1979 (Stand 01.01.2012)
+(vom 21. Februar 1979[^t-1]; Stand am 1. Januar 2014)
 
-Der Landrat des Kantons Uri,
-
-in Ausführung von Artikel 49 des Strassengesetzes vom 22. September 2013 (RB [50.1111](https://rechtsbuch.ur.ch/data/50.1111/de)),
+Der Landrat des Kantons Uri, in Ausführung von Artikel 49 des Strassengesetzes vom 22. September 2013[^t-2],
 
 beschliesst:
 
-## 1 Allgemeines
+[^t-1]: AB vom 29. März 1979
+[^t-2]: RB 50.1111
+
+### A.ALLGEMEINES
 
 #### Artikel 1
 
 **Gegenstand der Verordnung**
 
-<sup>1</sup> Die Gemeinden (Einwohner-, Kirch- und Bürgergemeinden), deren Zweckverbände und die Korporationen können beim Bau beziehungsweise Ausbau von Strassen und Wegen im Rahmen dieser Verordnung Grundeigentümerbeiträge erheben.
+Die Gemeinden (Einwohner-, Kirch- und Bürgergemeinden), deren Zweckverbände und die Korporationen können beim Bau beziehungsweise Ausbau von Strassen und Wegen im Rahmen dieser Verordnung Grundeigentümerbeiträge erheben.
 
 #### Artikel 2
 
@@ -42,15 +45,15 @@ beschliesst:
 
 <sup>2</sup> Vorbehalten bleibt ferner die Erhebung von Perimeterabgaben bei Strassen- und Wegbauten aller Art durch Bodenverbesserungsgenossenschaften.
 
-## 2 Perimeterpflicht und Perimeterbemessung
+### B.PERIMETERPFLICHT UND PERIMETERBEMESSUNG
 
-### 2.1 Die Perimeterpflicht
+### I.Die Perimeterpflicht
 
 #### Artikel 3
 
 **Pflichtige Grundstücke**
 
-<sup>1</sup> Die Perimeterpflicht besteht für die Grundstücke, denen aus dem Strassenbau oder ‑ausbau über die allfälligen Nachteile hinaus wirtschaftlich ausnützbare Sondervorteile erwachsen.
+<sup>1</sup> Die Perimeterpflicht besteht für die Grundstücke, denen aus dem Strassenbau oder -ausbau über die allfälligen Nachteile hinaus wirtschaftlich ausnützbare Sondervorteile erwachsen.
 
 <sup>2</sup> Bei Grundstücken, die nur teilweise im Perimeter liegen, gilt nur diese Fläche als pflichtig.
 
@@ -58,15 +61,15 @@ beschliesst:
 
 **Pflichtige Person**
 
-<sup>1</sup> Perimeterpflichtig ist, wer im Zeitpunkt der Veranlagung Eigentümer des Grundstückes ist.
+Perimeterpflichtig ist, wer im Zeitpunkt der Veranlagung Eigentümer des Grundstückes ist.
 
 #### Artikel 5
 
 **Abgabenbefreiung**
 
-<sup>1</sup> Öffentlicher Grund und Boden, der einer öffentlichen Aufgabe gewidmet ist, ist von der Perimeterpflicht ausgenommen. Der Perimeteranteil darf nicht zu Lasten der übrigen Pflichtigen gehen.
+Öffentlicher Grund und Boden, der einer öffentlichen Aufgabe gewidmet ist, ist von der Perimeterpflicht ausgenommen. Der Perimeteranteil darf nicht zu Lasten der übrigen Pflichtigen gehen.
 
-### 2.2 Perimeterbemessung
+### II.Perimeterbemessung
 
 #### Artikel 6
 
@@ -74,15 +77,21 @@ beschliesst:
 
 <sup>1</sup> Als Baukosten, die nach dieser Verordnung auf die begünstigten Grundeigentümer umgelegt werden können, gelten die totalen Aufwendungen gemäss Schlussabrechnung für:
 
-- a) Unterbau, Belag, Böschungen, Brücken, Unterführungen, Galerien und andere Kunstbauten
-- b) Beleuchtungsanlagen
-- c) Strassenentwässerung, soweit sie der Strasse dient
-- d) Personenunterführungen, Trottoirs, Gehwege (Strassengesetz Artikel 4)
-- e) Landerwerbskosten einschliesslich Beschaffung von Realersatz, Minderwerts- und Inkonvenienzentschädigungen
-- f) Erwerb weiterer für Bau, Unterhalt und Betrieb erforderlicher Rechte
-- g) Bauzinse, Projektierung, Bauleitung u.a.
+- Unterbau, Belag, Böschungen, Brücken, Unterführungen, Galerien und andere Kunstbauten;
 
-<sup>2</sup> Nicht zu den Baukosten im Sinne dieser Verordnung gehören Aufwendungen, die nach Artikel 4 des Strassengesetzes nicht zur Strasseneinrichtung gehören.
+- Beleuchtungsanlagen;
+
+- Strassenentwässerung, soweit sie der Strasse dient;
+
+- Personenunterführungen, Trottoirs, Gehwege (Strassengesetz Artikel 4);
+
+- Landerwerbskosten einschliesslich Beschaffung von Realersatz, Minderwerts- und Inkonvenienzentschädigungen;
+
+- Erwerb weiterer für Bau, Unterhalt und Betrieb erforderlicher Rechte;
+
+- Bauzinse, Projektierung, Bauleitung u. a.
+
+2 Nicht zu den Baukosten im Sinne dieser Verordnung gehören Aufwendungen, die nach Artikel 4 des Strassengesetzes nicht zur Strasseneinrichtung gehören.
 
 #### Artikel 7
 
@@ -90,7 +99,9 @@ beschliesst:
 
 <sup>1</sup> Der auf die Grundeigentümer zu überwälzende Kostenanteil ist prozentual tiefer anzusetzen, je grösser das Interesse des bauenden Gemeinwesens am Bauwerk ist.
 
-<sup>2</sup> …
+<sup>2</sup> ...[^7-1]
+
+[^7-1]: Aufgehoben durch VA vom 13. Juni 2010, in Kraft gesetzt auf den 1. Januar 2012 (AB vom 16. April 2010).
 
 #### Artikel 8
 
@@ -102,13 +113,19 @@ beschliesst:
 
 <sup>3</sup> Bei dieser Einteilung in Beitragsklassen sind vor allem zu berücksichtigen:
 
-- a) die Lage zur Strasse (anstossendes oder hinterliegendes Grundstück, Mass der Entfernung)
-- b) Mass der gegenwärtigen und künftigen Nutzung im Rahmen der bestehenden oder zu erwartenden Baubeschränkungen (Zonenart, Ausnutzungsziffer, Abstands-, Höhen- und andere Begrenzungen usw.)
-- c) Wegfallen von Inkonvenienzen
-- d) Verbesserung der verkehrsmässigen Erschliessung und der Verbindung zu wichtigen Punkten (Dorfzentrum, Bahn-, Strassen- und sonstiges übergeordnetes Verkehrsnetz)
-- e) Vorhandensein anderer Zugangsmöglichkeiten
-- f) Art der Benützung der Strasse (z.B. als Güterstrasse bloss als Zu- und Wegfahrt oder bloss zur Bewirtschaftung des Landes oder zu beidem benützbar)
-- g) der früher geleistete Perimeter für das gleiche Strassenstück
+- a) die Lage zur Strasse (anstossendes oder hinterliegendes Grundstück, Mass der Entfernung);
+
+- b) Mass der gegenwärtigen und künftigen Nutzung im Rahmen der bestehenden oder zu erwartenden Baubeschränkungen (Zonenart, Ausnutzungsziffer, Abstands-, Höhen- und andere Begrenzungen usw.);
+
+- c) Wegfallen von Inkonvenienzen;
+
+- d) Verbesserung der verkehrsmässigen Erschliessung und der Verbindung zu wichtigen Punkten (Dorfzentrum, Bahn-, Strassen- und sonstiges übergeordnetes Verkehrsnetz);
+
+- e) Vorhandensein anderer Zugangsmöglichkeiten;
+
+- f) Art der Benützung der Strasse (z. B. als Güterstrasse bloss als Zu- und Wegfahrt oder bloss zur Bewirtschaftung des Landes oder zu beidem benützbar);
+
+- g) der früher geleistete Perimeter für das gleiche Strassenstück.
 
 #### Artikel 9
 
@@ -120,15 +137,15 @@ beschliesst:
 
 <sup>3</sup> Der pro Teiler-Einheit zu leistende Betrag, multipliziert mit der Anzahl Teiler-Einheiten des Grundstückes beziehungsweise Grundstückteils, ergibt den für das betreffende Grundstück beziehungsweise Grundstückteil zu leistenden Grundeigentümerbeitrag.
 
-## 3 Organisations- und Verfahrensbestimmungen
+### C.ORGANISATIONS- UND VERFAHRENSBESTIMMUNGEN
 
-### 3.1 Zuständige Instanzen
+### I.Zuständige Instanzen
 
 #### Artikel 10
 
 **Grundsatzbeschlüsse**
 
-<sup>1</sup> Über die Erhebung von Grundeigentümerbeiträgen und die Festsetzung des prozentualen Anteils an den Baukosten (Artikel 7) wird im Beschluss über die Projektgenehmigung oder den Baukredit entschieden.
+Über die Erhebung von Grundeigentümerbeiträgen und die Festsetzung des prozentualen Anteils an den Baukosten (Artikel 7) wird im Beschluss über die Projektgenehmigung oder den Baukredit entschieden.
 
 #### Artikel 11
 
@@ -140,15 +157,13 @@ beschliesst:
 
 <sup>3</sup> Dem Perimeterplan wird ein Perimeterverzeichnis beigegeben, das die Grundstücke bezeichnet und die Namen der Beitragspflichtigen mit Adresse nennt.
 
-### 3.2 Veranlagungsverfahren
+### II.Veranlagungsverfahren
 
-### 3.2.1 Auflageverfahren
+- a)Auflageverfahren
 
 #### Artikel 12
 
-**Öffentliche Auflage**
-
-<sup>1</sup> Der Perimeterplan und das Perimeterverzeichnis sind während 30 Tagen öffentlich aufzulegen.
+Öffentliche Auflage Der Perimeterplan und das Perimeterverzeichnis sind während 30 Tagen öffentlich aufzulegen.
 
 #### Artikel 13
 
@@ -158,19 +173,23 @@ beschliesst:
 
 <sup>2</sup> Die Publikation hat folgende Hinweise zu enthalten:
 
-- a) Ort der Auflage
-- b) örtliche Bezeichnung der Strasse und des betreffenden Gebietes
-- c) Beginn und Ende der Auflagefrist
-- d) Hinweis darauf, dass Einsprachen gegen den Perimeterplan beziehungsweise das Perimeterverzeichnis innert der Auflagefrist bei der genau zu bezeichnenden Planerstellungsbehörde nach Artikel 11 Absatz 1 schriftlich einzureichen sind
-- e) Hinweis darauf, dass bei unbenütztem Ablauf der Einsprachefrist die Feststellung der publizierten Plandaten rechtskräftig wird
+- a) Ort der Auflage;
+
+- b) örtliche Bezeichnung der Strasse und des betreffenden Gebietes;
+
+- c) Beginn und Ende der Auflagefrist;
+
+- d) Hinweis darauf, dass Einsprachen gegen den Perimeterplan beziehungsweise das Perimeterverzeichnis innert der Auflagefrist bei der genau zu bezeichnenden Planerstellungsbehörde nach Artikel 11 Absatz 1 schriftlich einzureichen sind;
+
+- e) Hinweis darauf, dass bei unbenütztem Ablauf der Einsprachefrist die Feststellung der publizierten Plandaten rechtskräftig wird.
 
 #### Artikel 14
 
-**Persönliche Anzeige**
+Persönliche Anzeige Die nach dem Plan Perimeterpflichtigen sind zudem mit eingeschriebenem Brief an das den Behörden letztbekannte Zustelldomizil, auf die Auflage hinzuweisen.:
 
-<sup>1</sup> Die nach dem Plan Perimeterpflichtigen sind zudem mit eingeschriebenem Brief an das den Behörden letztbekannte Zustelldomizil, auf die Auflage hinzuweisen.
+- b) Überprüfungsverfahren.
 
-### 3.2.2 Überprüfungsverfahren.
+- b)Überprüfungsverfahren
 
 #### Artikel 15
 
@@ -178,9 +197,13 @@ beschliesst:
 
 <sup>1</sup> Nach Ablauf der Einsprachefrist prüft die Behörde den Auflageplan aufgrund der eingereichten Einsprachen. Gelangt sie dabei nicht zu einer Änderung des Planes, weist sie allfällige Einsprachen schriftlich und mit einer Rechtsmittelbelehrung versehen ab. Anderfalls legt sie den Plan neu auf.
 
-<sup>2</sup> Über Einsprachen entscheidet, allein oder auf Weiterzug hin, der Gemeinderat.
+<sup>2</sup> Über Einsprachen entscheidet, allein oder auf Weiterzug hin, der Gemein-
 
-<sup>3</sup> Einspracheentscheide des Gemeinderates unterliegen der Verwaltungsbeschwerde an den Regierungsrat.
+derat.
+
+3 Einspracheentscheide des Gemeinderates unterliegen der Verwaltungsbeschwerde an den Regierungsrat.[^15-1]
+
+[^15-1]: Fassung gemäss LRB vom 9. November 1982, in Kraft gesetzt auf den 1. März 1983 (AB vom 19. November 1982).
 
 #### Artikel 16
 
@@ -196,27 +219,32 @@ beschliesst:
 
 <sup>1</sup> Die Beitragsverfügung ist dem Pflichtigen mit eingeschriebenem Brief und mit einer Rechtsmittelbelehrung versehen zuzustellen.
 
-<sup>2–3</sup> …
+<sup>2</sup> ...[^17-1]
+
+<sup>3</sup> ...[^17-2]
+
+[^17-1]: Aufgehoben durch LRB vom 20. Februar 2008, in Kraft gesetzt auf den 1. September 2008 (AB vom 7. März 2008).
+[^17-2]: Aufgehoben durch LRB vom 9. November 1982, in Kraft gesetzt auf den 1. März 1983 (AB vom 19. November 1982).
 
 #### Artikel 18
 
 **Vereinfachtes Verfahren**
 
-<sup>1</sup> In einfachen Fällen kann, wenn die Umstände es erlauben und mit Sicherheit keine Interessen Dritter berührt werden, die öffentliche Auflage zugunsten der persönlichen Anzeige wegfallen.
+In einfachen Fällen kann, wenn die Umstände es erlauben und mit Sicherheit keine Interessen Dritter berührt werden, die öffentliche Auflage zugunsten der persönlichen Anzeige wegfallen.
 
-### 3.3 Perimeterbezug
+### III.Perimeterbezug
 
 #### Artikel 19
 
 **Zahlungspflicht**
 
-<sup>1</sup> Zahlungspflichtig ist, wer im Zeitpunkt des Erlasses der Beitragsverfügung Perimeterpflichtiger ist.
+Zahlungspflichtig ist, wer im Zeitpunkt des Erlasses der Beitragsverfügung Perimeterpflichtiger ist.
 
 #### Artikel 20
 
 **Verfall**
 
-<sup>1</sup> Die Beiträge sind innerhalb von 90 Tagen nach Genehmigung der Schlussabrechnung und Rechnungsstellung zu entrichten. Nach Ablauf der Zahlungsfrist sind die Beiträge zum jeweiligen Zinssatz der Urner Kantonalbank für erste Hypotheken zu verzinsen.
+Die Beiträge sind innerhalb von 90 Tagen nach Genehmigung der Schlussabrechnung und Rechnungsstellung zu entrichten. Nach Ablauf der Zahlungsfrist sind die Beiträge zum jeweiligen Zinssatz der Urner Kantonalbank für erste Hypotheken zu verzinsen.
 
 #### Artikel 21
 
@@ -224,32 +252,34 @@ beschliesst:
 
 <sup>1</sup> Die zuständige Instanz kann auf begründetes Gesuch hin in Härtefällen Ratenzahlungen gestatten oder die Beiträge stunden.
 
-<sup>2</sup> Eine Stundung ohne Leistung eines Verzugszinses ist auf Gesuch hin in jedem Fall zu gewähren, wenn der Perimeter ein Grundstück betrifft, das landwirtschaftlich genutzt wird. Der Verfall tritt erst ein, wenn das perimeter-belastete Grundstück oder ein Teil davon verkauft oder überbaut wird, es sei denn, dass es weiterhin, wie bisher, landwirtschaftlich genutzt wird. Wird nur ein Teil des perimeterbelasteten Grundstückes verkauft oder überbaut, verfällt nur der entsprechende anteilmässige Betrag.
+<sup>2</sup> Eine Stundung ohne Leistung eines Verzugszinses ist auf Gesuch hin in jedem Fall zu gewähren, wenn der Perimeter ein Grundstück betrifft, das landwirtschaftlich genutzt wird. Der Verfall tritt erst ein, wenn das perimeterbelastete Grundstück oder ein Teil davon verkauft oder überbaut wird, es sei denn, dass es weiterhin, wie bisher, landwirtschaftlich genutzt wird. Wird nur ein Teil des perimeterbelasteten Grundstückes verkauft oder überbaut, verfällt nur der entsprechende anteilmässige Betrag.
 
 #### Artikel 22
 
 **Gesetzliches Pfandrecht**
 
-<sup>1</sup> Das perimetererhebende Gemeinwesen hat ein gesetzliches Pfandrecht am perimeterbelasteten Grundstück. Es erlischt, wenn nicht innert zwei Jahren nach Verfall die Betreibung auf Pfandverwertung angehoben oder eine gütliche Vereinbarung getroffen ist.
+Das perimetererhebende Gemeinwesen hat ein gesetzliches Pfandrecht am perimeterbelasteten Grundstück. Es erlischt, wenn nicht innert zwei Jahren nach Verfall die Betreibung auf Pfandverwertung angehoben oder eine gütliche Vereinbarung getroffen ist.
 
 #### Artikel 23
 
 **Vollstreckbarkeit**
 
-<sup>1</sup> Die rechtskräftige Beitragsverfügung ist einem rechtskräftigen Urteil nach Artikel 80 SchKG gleichgestellt.
+Die rechtskräftige Beitragsverfügung ist einem rechtskräftigen Urteil nach Artikel 80 SchKG gleichgestellt.
 
-## 4 Schluss- und Übergangsbestimmungen
+### D.SCHLUSS- UND ÜBERGANGSBESTIMMUNGEN
 
 #### Artikel 24
 
 **Altrechtliche Perimeteransprüche**
 
-<sup>1</sup> Perimeteransprüche, die vor Inkrafttreten dieser Verordnung begründet sind, richten sich weiterhin nach altem Recht.
+Perimeteransprüche, die vor Inkrafttreten dieser Verordnung begründet sind, richten sich weiterhin nach altem Recht.
 
 #### Artikel 25
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Verordnung tritt nach Ablauf der Referendumsfrist auf den 1. Juli 1979 in Kraft.
+Diese Verordnung tritt nach Ablauf der Referendumsfrist auf den 1. Juli 1979 in Kraft.
 
-AB 29.03.1979
+Im Namen des Landrates des Kantons Uri
+
+Der Präsident: Hans Zgraggen Der Kanzleidirektor: Dr. Hans Muheim
