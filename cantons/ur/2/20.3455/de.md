@@ -1,33 +1,37 @@
 ---
 canton: UR
 number: "20.3455"
-title: "Reglement über die Schwangerschafts-, Ehe- und Familienberatungsstellen"
+title: "REGLEMENT über die Schwangerschafts-, Ehe- und Familienberatungsstellen"
 language: de
 version: 1990-01-01
+corrected: 2025-08-19
 version_adopted: 1989-12-18
 adopted: 1989-12-18
 in_force: 1990-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.3455"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/845/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/247/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über die Schwangerschafts-, Ehe- und Familienberatungsstellen
+# REGLEMENT über die Schwangerschafts-, Ehe- und Familienberatungsstellen
 
-Vom 18.12.1989 (Stand 01.01.1990)
+REGLEMENT über die Schwangerschafts-, Ehe- und Familienberatungsstellen
 
-Der Regierungsrat des Kantons Uri,
+(vom 18. Dezember 1989; Stand am 1. Januar 1990)
 
-gestützt auf Artikel 1 Absatz 3 des Bundesgesetzes vom 9. Oktober 1981 über die Schwangerschaftsberatungsstellen (SR [857.5](https://db.clex.ch/link/Bund/857.5/de)), Artikel 25 Absatz 4 des Gesetzes vom 4. Juni 1989 über die Einführung des Schweizerischen Zivilgesetzbuches (RB [9.2111](https://rechtsbuch.ur.ch/data/9.2111/de)) und Artikel 94 Absatz 1 der Kantonsverfassung (RB [1.1101](https://rechtsbuch.ur.ch/data/1.1101/de)),
+Der Regierungsrat des Kantons Uri, gestützt auf Artikel 1 Absatz 3 des Bundesgesetzes vom 9. Oktober 1981 über die Schwangerschaftsberatungsstellen[^t-1], Artikel 25 Absatz 4 des Gesetzes vom 4. Juni 1989 über die Einführung des Schweizerischen Zivilgesetzbuches<sup>2</sup> und Artikel 94 Absatz 1 der Kantonsverfassung<sup>3</sup>,
 
 beschliesst:
+
+[^t-1]: SR 857.5
 
 #### Artikel 1
 
 **Beratungsstellen**
 
-<sup>1</sup> Die Schwangerschafts-, Ehe- und Familienberatung erfolgt durch eine oder mehrere anerkannte private Beratungsstellen. Nötigenfalls richtet der Kanton eine Beratungsstelle ein.
+Die Schwangerschafts-, Ehe- und Familienberatung erfolgt durch eine oder mehrere anerkannte private Beratungsstellen. Nötigenfalls richtet der Kanton eine Beratungsstelle ein.
 
 #### Artikel 2
 
@@ -41,24 +45,30 @@ beschliesst:
 
 **Gesuche**
 
-<sup>1</sup> Die Gesuche um Anerkennung als Beratungsstelle haben Angaben zu enthalten über:
+Die Gesuche um Anerkennung als Beratungsstelle haben Angaben zu enthalten über:
 
-- a) Trägerschaft
-- b) Organisation
-- c) personelle Zusammensetzung
-- d) Finanzierung der Beratungsstelle
+- a) Trägerschaft;
+
+- b) Organisation;
+
+- c) personelle Zusammensetzung;
+
+- d) Finanzierung der Beratungsstelle.
 
 #### Artikel 4
 
 **Aufsicht**
 
-<sup>1</sup> Die Gesundheits- und Fürsorgedirektion übt die Aufsicht über die anerkannten Beratungsstellen aus.
+Die Gesundheits- und Fürsorgedirektion übt die Aufsicht über die anerkannten Beratungsstellen aus.
 
 #### Artikel 5
 
 **Aufgaben der Beratungsstelle**
 
-<sup>1</sup> Die Beratungsstelle erfüllt die in der Bundesgesetzgebung über die Schwangerschaftsberatungsstellen (SR [857.5](https://db.clex.ch/link/Bund/857.5/de), SR [857.51](https://db.clex.ch/link/Bund/857.51/de)) und Artikel 171 des Zivilgesetzbuches (SR [210](https://db.clex.ch/link/Bund/210/de)) festgelegten Aufgaben.
+Die Beratungsstelle erfüllt die in der Bundesgesetzgebung über die Schwangerschaftsberatungsstellen[^5-1] und Artikel 171 des Zivilgesetzbuches[^5-2] festgelegten Aufgaben.
+
+[^5-1]: SR 857.5857.51
+[^5-2]: SR 857.5210
 
 #### Artikel 6
 
@@ -74,24 +84,24 @@ beschliesst:
 
 **Veröffentlichung**
 
-<sup>1</sup> Die Gesundheits- und Fürsorgedirektion veröffentlicht die Anerkennung und das Verzeichnis der Beratungsstellen im Amtsblatt.
+Die Gesundheits- und Fürsorgedirektion veröffentlicht die Anerkennung und das Verzeichnis der Beratungsstellen im Amtsblatt.
 
 #### Artikel 8
 
 **Meldung**
 
-<sup>1</sup> Die Gesundheits- und Fürsorgedirektion nimmt die nach der Bundesgesetzgebung über die Schwangerschaftsberatungsstellen (SR [857.5](https://db.clex.ch/link/Bund/857.5/de), SR [857.51](https://db.clex.ch/link/Bund/857.51/de)) vorgeschriebenen Meldungen an das Bundesamt für Sozialversicherungen vor.
+Die Gesundheits- und Fürsorgedirektion nimmt die nach der Bundesgesetzgebung über die Schwangerschaftsberatungsstellen[^8-1] vorgeschriebenen Meldungen an das Bundesamt für Sozialversicherungen vor.
+
+[^8-1]: SR 857.5857.51
 
 #### Artikel 9
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Das Reglement vom 4. April 1985 über die Schwangerschaftsberatungsstellen wird aufgehoben.
+**Artikel 10 Inkrafttreten**
 
-#### Artikel 10
+**Im Namen des Regierungsrates**
 
-**Inkrafttreten**
+**Der Landammann: Carlo Dittli Der Kanzleidirektor: Dr. Peter Huber**
 
-<sup>1</sup> Dieses Reglement tritt am 1. Januar 1990 in Kraft.
-
-AB 22.12.1989
+Das Reglement vom 4. April 1985 über die Schwangerschaftsberatungsstellen<sup>7</sup> wird aufgehoben. Dieses Reglement tritt am 1. Januar 1990 in Kraft.
