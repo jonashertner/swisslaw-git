@@ -1,32 +1,37 @@
 ---
 canton: UR
 number: "30.3117"
-title: Reglement über die Stützpunktfeuerwehren
+title: REGLEMENT über die Stützpunktfeuerwehren
 short: "Stützpunktfeuerwehrreglement, SFWR"
 language: de
 version: 2010-01-01
+corrected: 2025-08-19
 version_adopted: 2009-12-15
 adopted: 2009-12-15
 in_force: 2010-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/30.3117"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/938/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/265/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über die Stützpunktfeuerwehren
+# REGLEMENT über die Stützpunktfeuerwehren
 
-(Stützpunktfeuerwehrreglement, SFWR)
+REGLEMENT über die Stützpunktfeuerwehren (Stützpunktfeuerwehrreglement, SFWR)
 
-Vom 15.12.2009 (Stand 01.01.2010)
+(vom 15. Dezember 2009[^t-1]; Stand am 1. Januar 2010)
 
-Der Regierungsrat des Kantons Uri,
-
-gestützt auf Artikel 25 Absatz 1 und 3 sowie Artikel 26 Absatz 3 des Gesetzes vom 1. Dezember 1996 über den Feuerschutz (FSG, RB [30.3111](https://rechtsbuch.ur.ch/data/30.3111/de)),
+Der Regierungsrat des Kantons Uri, gestützt auf Artikel 25 Absatz 1 und 3 sowie Artikel 26 Absatz 3 des Gesetzes vom 1. Dezember 1996 über den Feuerschutz (FSG)[^t-2],
 
 beschliesst:
 
-## 1 Allgemeine Bestimmungen
+**Allgemeine Bestimmungen**
+
+[^t-1]: AB vom 24. Dezember 2009
+[^t-2]: RB 30.3111
+
+### 1. Abschnitt:
 
 #### Artikel 1
 
@@ -38,17 +43,21 @@ beschliesst:
 
 <sup>3</sup> Es bestimmt die Alarmordnung.
 
-## 2 Organisation und Aufgaben
+**Organisation und Aufgaben**
+
+### 2. Abschnitt:
 
 #### Artikel 2
 
 **Stützpunktfeuerwehren**
 
-<sup>1</sup> Als Stützpunktfeuerwehren werden bestimmt:
+Als Stützpunktfeuerwehren werden bestimmt:
 
-- a) Feuerwehr Altdorf
-- b) Feuerwehr Andermatt
-- c) Feuerwehr Erstfeld
+- a) Feuerwehr Altdorf;
+
+- b) Feuerwehr Andermatt;
+
+- c) Feuerwehr Erstfeld.
 
 #### Artikel 3
 
@@ -60,20 +69,15 @@ beschliesst:
 
 <sup>3</sup> Für Strassenrettungsaufgaben, die weder von den Gemeindefeuerwehren noch von den sanitätsdienstlichen Rettungskräften ausgeführt werden, schliesst der Regierungsrat mit den Stützpunktfeuerwehren Altdorf und Andermatt Leistungsvereinbarungen ab.
 
-## 3 Einsatz
+### 3. Abschnitt: Einsatz
 
 #### Artikel 4
 
 **Einsatzgebiet**
 
-<sup>1</sup> Die Stützpunktfeuerwehren sind für folgende Gemeinden zuständig:
+<sup>1</sup> Die Stützpunktfeuerwehren sind für folgende Gemeinden zuständig: Stützpunktfeuerwehr Gemeinden a) Stützpunktfeuerwehr Altdorf: Altdorf, Attinghausen, Bauen, Bürglen, Flüelen, Sisikon, Isenthal, Schattdorf, Seedorf, Spiringen, Unterschächen b) Stützpunktfeuerwehr Andermatt: Andermatt, Hospental, Realp c) Stützpunktfeuerwehr Erstfeld: Erstfeld, Göschenen, Gurtnellen, Silenen,
 
-<table>
-<tr><th>Stützpunktfeuerwehr</th><th>Gemeinden</th></tr>
-<tr><td>Stützpunktfeuerwehr Altdorf:</td><td>Altdorf, Attinghausen, Bauen, Bürglen, Flüelen, Sisikon, Isenthal, Schattdorf, Seedorf, Spiringen, Unterschächen</td></tr>
-<tr><td>Stützpunktfeuerwehr Andermatt:</td><td>Andermatt, Hospental, Realp</td></tr>
-<tr><td>Stützpunktfeuerwehr Erstfeld:</td><td>Erstfeld, Göschenen, Gurtnellen, Silenen, Wassen</td></tr>
-</table>
+Wassen
 
 <sup>2</sup> Das Einsatzgebiet der Stützpunktfeuerwehr Altdorf für die Strassenrettung umfasst das nördliche Kantonsgebiet, das Reusstal und seine Seitentäler bis zum Kreisel in Göschenen, ohne die Gebiete Seelisberg und Urnerboden.
 
@@ -85,17 +89,17 @@ beschliesst:
 
 **Nachbarschaftshilfe**
 
-<sup>1</sup> Bei kleinen Ereignissen werden zuerst die Mittel in der eigenen Region aufgeboten. Die Nachbarfeuerwehren leisten auf Verlangen unverzüglich personelle und materielle Hilfe im Ereignisfall zugunsten der Nachbarfeuerwehren[^Artikel5-1].
+<sup>1</sup> Bei kleinen Ereignissen werden zuerst die Mittel in der eigenen Region aufgeboten. Die Nachbarfeuerwehren leisten auf Verlangen unverzüglich personelle und materielle Hilfe im Ereignisfall zugunsten der Nachbarfeuerwehren[^5-1].
 
-<sup>2</sup> Sie arbeiten in der Ausbildung mit den Gemeinde- und den Betriebsfeuerwehren eng zusammen.
+2 Sie arbeiten in der Ausbildung mit den Gemeinde- und den Betriebsfeuerwehren eng zusammen.
 
-[^Artikel5-1]: Zurzeit bestehen folgende Regionen: a) Axen: Altdorf, Flüelen, Sisikon | b) Gitschen: Attinghausen, Bauen, Isenthal, Seedorf | c) Schächental: Bürglen, Schattdorf, Spiringen, Unterschächen | d) Oberland: Erstfeld, Göschenen Gurtnellen, Silenen, Wassen | e) Ursern: Andermatt, Hospental, Realp.
+[^5-1]: Zurzeit bestehen folgende Regionen:a) Axen: Altdorf, Flüelen, Sisikonb) Gitschen: Attinghausen, Bauen, Isenthal, Seedorfc) Schächental: Bürglen, Schattdorf, Spiringen, Unter-
 
 #### Artikel 6
 
 **Einsatz auf Strassen**
 
-<sup>1</sup> Bei Schadenfällen auf Strassen entscheidet die Einsatzleiterin, der Einsatzleiter oder die Polizei über das Aufgebot von Spezialistinnen und Spezialisten für die Strassenrettung.
+Bei Schadenfällen auf Strassen entscheidet die Einsatzleiterin, der Einsatzleiter oder die Polizei über das Aufgebot von Spezialistinnen und Spezialisten für die Strassenrettung.
 
 #### Artikel 7
 
@@ -123,9 +127,11 @@ beschliesst:
 
 <sup>2</sup> Reichen die vorhandenen Einsatzkräfte nicht aus, bietet die Einsatzleiterin oder der Einsatzleiter durch die kantonale Alarmstelle unverzüglich zusätzliche Einsatzkräfte auf, in der Regel mit folgender Staffelung:
 
-- 1\. Nachbarfeuerwehr oder Betriebsfeuerwehr
-- 2\. die der Gemeinde zugewiesene Stützpunktfeuerwehr
-- 3\. weitere verfügbare Gemeinde-, Stützpunkt- oder Betriebsfeuerwehren
+- 1\. Nachbarfeuerwehr oder Betriebsfeuerwehr,
+
+- 2\. die der Gemeinde zugewiesene Stützpunktfeuerwehr,
+
+schächend) Oberland: Erstfeld, Göschenen Gurtnellen, Silenen, Wassene) Ursern: Andermatt, Hospental, Realp 3. weitere verfügbare Gemeinde-, Stützpunkt- oder Betriebsfeuerwehren.
 
 <sup>3</sup> Sind Sonderausrüstungen für den Einsatz notwendig, fordert die Einsatzleiterin oder der Einsatzleiter diese Einsatzmittel durch die kantonale Alarmstelle bei den Stützpunktfeuerwehren, beim Chemie- oder beim Strahlenwehrstützpunkt an.
 
@@ -165,9 +171,9 @@ beschliesst:
 
 **Einsatzrapport**
 
-<sup>1</sup> Die Kommandantin oder der Kommandant der betroffenen Stützpunktfeuerwehr erstellt über den Einsatz innert Wochenfrist einen schriftlichen Rapport zuhanden des zuständigen Amts.
+Die Kommandantin oder der Kommandant der betroffenen Stützpunktfeuerwehr erstellt über den Einsatz innert Wochenfrist einen schriftlichen Rapport zuhanden des zuständigen Amts.
 
-## 4 Ausbildung
+### 4. Abschnitt: Ausbildung
 
 #### Artikel 14
 
@@ -185,7 +191,7 @@ beschliesst:
 
 <sup>2</sup> Das Amt für Bevölkerungsschutz und Militär plant, organisiert und führt im Einvernehmen mit den Kommandantinnen und Kommandanten der Stützpunktfeuerwehren Einsatzübungen im Verbund mit den Partnerorganisationen des Bevölkerungsschutzes durch.
 
-## 5 Ausrüstung
+### 5. Abschnitt: Ausrüstung
 
 #### Artikel 16
 
@@ -197,7 +203,9 @@ beschliesst:
 
 #### Artikel 17
 
-**Beschaffung, Ersatz, Unterhalt und Lagerung der Einsatzmittel**
+**Beschaffung, Ersatz, Unterhalt und**
+
+Lagerung der Einsatzmittel
 
 <sup>1</sup> Die Stützpunktfeuerwehren sorgen für die Beschaffung und den Ersatz der Grundausrüstung.
 
@@ -205,34 +213,40 @@ beschliesst:
 
 <sup>3</sup> Die Stützpunktfeuerwehren sorgen für den Unterhalt und die Lagerung ihrer Einsatzmittel.
 
-## 6 Kosten und Vergütungen
+### 6. Abschnitt: Kosten und Vergütungen
 
 #### Artikel 18
 
 **Kosten für Beschaffungen**
 
-<sup>1</sup> An die Kosten für Beschaffungen leistet der Kanton Beiträge nach den Bestimmungen des Reglements über den kantonalen Feuerlöschfonds (RB [30.3313](https://rechtsbuch.ur.ch/data/30.3313/de)).
+<sup>1</sup> An die Kosten für Beschaffungen leistet der Kanton Beiträge nach den Bestimmungen des Reglements über den kantonalen Feuerlöschfonds[^18-1].
 
 <sup>2</sup> Beschaffungen für die Strassenrettung werden in den Leistungsvereinbarungen mit den Stützpunktfeuerwehren Altdorf und Andermatt separat geregelt.
+
+[^18-1]: RB 30.3313
 
 #### Artikel 19
 
 **Einsatzkosten**
 
-<sup>1</sup> Die Stützpunktfeuerwehren tragen ihre Einsatzkosten selbst, sofern sie nicht die Verursacherin oder der Verursacher nach den Bestimmungen des Gesetzes über den Feuerschutz zu übernehmen hat.
+Die Stützpunktfeuerwehren tragen ihre Einsatzkosten selbst, sofern sie nicht die Verursacherin oder der Verursacher nach den Bestimmungen des Gesetzes über den Feuerschutz zu übernehmen hat.
 
-## 7 Schlussbestimmungen
+### 7. Abschnitt: Schlussbestimmungen
 
 #### Artikel 20
 
-**Änderung bisherigen Rechts[^Artikel20-1]**
+**Änderung bisherigen Rechts**
 
-[^Artikel20-1]: Die Änderungen wurden in den entsprechenden Erlass eingefügt.
+…[^20-1]
+
+[^20-1]: Die Änderungen wurden in den entsprechenden Erlass eingefügt.
 
 #### Artikel 21
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Reglement tritt am 1. Januar 2010 in Kraft.
+Dieses Reglement tritt am 1. Januar 2010 in Kraft.
 
-AB 24.12.2009
+Im Namen des Regierungsrats
+
+Der Landammann:Isidor Baumann Der Kanzleidirektor: Dr. Peter Huber
