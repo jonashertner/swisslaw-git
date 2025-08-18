@@ -1,59 +1,68 @@
 ---
 canton: UR
 number: "2.3243"
-title: Reglement über die Akkreditierung von Medienschaffenden an den Urner Gerichten
+title: REGLEMENT über die Akkreditierung von Medienschaffenden an den Urner Gerichten
 language: de
 version: 2021-06-01
+corrected: 2025-08-19
 version_adopted: 2021-04-28
 adopted: 2021-04-28
 in_force: 2021-06-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/2.3243"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/801/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/74/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über die Akkreditierung von Medienschaffenden an den Urner Gerichten
+# REGLEMENT über die Akkreditierung von Medienschaffenden an den Urner Gerichten
 
-Vom 28.04.2021 (Stand 01.06.2021)
+REGLEMENT über die Akkreditierung von Medienschaffenden an den Urner Gerichten
 
-Das Obergericht des Kantons Uri,
+(vom 28. April 2021[^t-1]; Stand am 1. Juni 2021)
 
-gestützt auf Artikel 3a Absatz 2 des Gesetzes vom 17. Mai 1992 über die Organisation der richterlichen Behörden (Gerichtsorganisationsgesetz, GOG, RB [2.3221](https://rechtsbuch.ur.ch/data/2.3221/de)),
+Das Obergericht des Kantons Uri, gestützt auf Artikel 3a Absatz 2 des Gesetzes vom 17. Mai 1992 über die Organisation der richterlichen Behörden (Gerichtsorganisationsgesetz [GOG])[^t-2],
 
 beschliesst:
 
-## 1 Allgemeine Bestimmungen
+[^t-1]: AB vom 7. Mai 2021.
+[^t-2]: RB 2.3221
+
+### 1. Abschnitt: Allgemeine Bestimmungen
 
 #### Artikel 1
 
 **Zweck**
 
-<sup>1</sup> Dieses Reglement bezweckt die Information der Öffentlichkeit über die Tätigkeit der richterlichen Behörden sowie den Schutz der Parteien und der anderen am Verfahren beteiligten Personen.
+Dieses Reglement bezweckt die Information der Öffentlichkeit über die Tätigkeit der richterlichen Behörden sowie den Schutz der Parteien und der anderen am Verfahren beteiligten Personen.
 
 #### Artikel 2
 
 **Geltungsbereich**
 
-<sup>1</sup> Das Reglement gilt für die akkreditierten Medienschaffenden vor den richterlichen Behörden des Kantons Uri gemäss Kapitel 3 GOG.
+Das Reglement gilt für die akkreditierten Medienschaffenden vor den richterlichen Behörden des Kantons Uri gemäss Kapitel 3 GOG.
 
-## 2 Akkreditierung
+### 2. Abschnitt: Akkreditierung
 
 #### Artikel 3
 
 **Voraussetzungen für die Akkreditierung**
 
-<sup>1</sup> Als ständige Gerichtsberichterstatterinnen oder ‑berichterstatter können Medienschaffende zugelassen werden, welche:
+<sup>1</sup> Als ständige Gerichtsberichterstatterinnen oder -berichterstatter können Medienschaffende zugelassen werden, welche:
 
-- a) regelmässig über die Tätigkeit der richterlichen Behörden des Kantons Uri berichten wollen
-- b) Gewähr für die Einhaltung der Pflichten gemäss diesem Reglement bieten und
-- c) über eine genügende fachliche Ausbildung oder über eine mehrjährige Berufserfahrung verfügen
+- a) regelmässig über die Tätigkeit der richterlichen Behörden des Kantons Uri berichten wollen;
+
+- b) Gewähr für die Einhaltung der Pflichten gemäss diesem Reglement bieten; und
+
+- c) über eine genügende fachliche Ausbildung oder über eine mehrjährige Berufserfahrung verfügen.
 
 <sup>2</sup> Diese Voraussetzungen können nachgewiesen werden durch:
 
-- a) ein Anstellungsverhältnis zu einem schweizerischen Medienunternehmen
-- b) einen Vertrag mit einem schweizerischen Medienunternehmen als freischaffende Gerichtsberichterstatterin oder freischaffender Gerichtsberichterstatter oder
-- c) den Eintrag im Berufsregister der journalistisch tätigen Medienschaffenden
+- a) ein Anstellungsverhältnis zu einem schweizerischen Medienunternehmen;
+
+- b) einen Vertrag mit einem schweizerischen Medienunternehmen als freischaffende Gerichtsberichterstatterin oder freischaffender Gerichtsberichterstatter; oder
+
+- c) den Eintrag im Berufsregister der journalistisch tätigen Medienschaffenden.
 
 <sup>3</sup> Die Akkreditierung ist persönlich und nicht übertragbar und erfolgt in der Regel für eine Dauer von vier Jahren. Eine Erneuerung ist spätestens zwei Monate vor Ablauf dieser Dauer zu beantragen.
 
@@ -61,7 +70,7 @@ beschliesst:
 
 **Akkreditierung im Einzelfall**
 
-<sup>1</sup> In begründeten Fällen können Medienschaffenden für ein bestimmtes Verfahren die gleichen Rechte und Pflichten wie den ständigen Gerichtsberichterstatterinnen und ‑berichterstattern eingeräumt werden, auch wenn nicht alle Voraussetzungen gemäss Artikel 3 erfüllt sind.
+In begründeten Fällen können Medienschaffenden für ein bestimmtes Verfahren die gleichen Rechte und Pflichten wie den ständigen Gerichtsberichterstatterinnen und -berichterstattern eingeräumt werden, auch wenn nicht alle Voraussetzungen gemäss Artikel 3 erfüllt sind.
 
 #### Artikel 5
 
@@ -79,9 +88,9 @@ beschliesst:
 
 **Verzeichnis**
 
-<sup>1</sup> Das Präsidium der Aufsichtskommission über die richterlichen Behörden und die Rechtsanwälte führt ein öffentliches Verzeichnis der ständig akkreditierten Medienschaffenden.
+Das Präsidium der Aufsichtskommission über die richterlichen Behörden und die Rechtsanwälte führt ein öffentliches Verzeichnis der ständig akkreditierten Medienschaffenden.
 
-## 3 Rechte und Pflichten
+### 3. Abschnitt: Rechte und Pflichten
 
 #### Artikel 7
 
@@ -95,7 +104,7 @@ beschliesst:
 
 **Meldepflicht**
 
-<sup>1</sup> Akkreditierte Medienschaffende, die die Voraussetzungen gemäss Artikel 3 nicht mehr erfüllen, haben dies dem Präsidium der Aufsichtskommission über die richterlichen Behörden und die Rechtsanwälte unverzüglich zu melden.
+Akkreditierte Medienschaffende, die die Voraussetzungen gemäss Artikel 3 nicht mehr erfüllen, haben dies dem Präsidium der Aufsichtskommission über die richterlichen Behörden und die Rechtsanwälte unverzüglich zu melden.
 
 #### Artikel 9
 
@@ -103,20 +112,25 @@ beschliesst:
 
 <sup>1</sup> Die akkreditierten Medienschaffenden erhalten kostenlos:
 
-- a) die Medienmitteilungen sämtlicher richterlichen Behörden gemäss Artikel 2
-- b) den Rechenschaftsbericht des Obergerichts
-- c) eine Kopie des Entscheids in Zivilstreitigkeiten, Straffällen und Verwaltungssachen, sofern sie an der Verhandlung teilgenommen haben
+- a) die Medienmitteilungen sämtlicher richterlichen Behörden gemäss Artikel 2;
+
+- b) den Rechenschaftsbericht des Obergerichts;
+
+- c) eine Kopie des Entscheids in Zivilstreitigkeiten, Straffällen und Verwaltungssachen, sofern sie an der Verhandlung teilgenommen haben.
 
 <sup>2</sup> Vor öffentlichen Verhandlungen, für welche die Absicht zur Teilnahme besteht, erhalten die akkreditierten Medienschaffenden auf Anfrage zudem:
 
-- a) in Strafsachen eine Kopie der Anklageschrift oder des Strafbefehls
-- b) in Rechtsmittelverfahren vor Obergericht: den angefochtenen Entscheid
+- a) in Strafsachen eine Kopie der Anklageschrift oder des Strafbefehls;
+
+- b) in Rechtsmittelverfahren vor Obergericht: den angefochtenen Entscheid.
 
 <sup>3</sup> Findet keine öffentliche Verhandlung statt, erhalten die akkreditierten Medienschaffenden auf Anfrage Kopien der der öffentlichen Auflage unterliegenden Entscheide (Art. 10).
 
 <sup>4</sup> Die Verfahrensleitung kann den Zugang zu Unterlagen im Einzelfall einschränken oder von Auflagen abhängig machen. Die Dokumente können anonymisiert werden, soweit das öffentliche Interesse oder das schutzwürdige Interesse einer beteiligten Person dies erfordert.
 
-<sup>5</sup> Die erhaltenen Unterlagen inklusive allfälliger Kopien dürfen nicht weitergegeben werden und müssen nach rechtskräftigem Abschluss des Verfahrens vernichtet werden.
+<sup>5</sup> Die erhaltenen Unterlagen inklusive allfälliger Kopien dürfen nicht weitergegeben werden und müssen nach rechtskräftigem Abschluss des Verfah-
+
+rens vernichtet werden.
 
 #### Artikel 10
 
@@ -152,9 +166,9 @@ beschliesst:
 
 **Vorbehaltenes Recht**
 
-<sup>1</sup> Die Bestimmungen der anwendbaren Verfahrensordnung über die Öffentlichkeit des Verfahrens und die Anordnungen der verfahrensleitenden Richterin oder des verfahrensleitenden Richters im Einzelfall bleiben vorbehalten.
+Die Bestimmungen der anwendbaren Verfahrensordnung über die Öffentlichkeit des Verfahrens und die Anordnungen der verfahrensleitenden Richterin oder des verfahrensleitenden Richters im Einzelfall bleiben vorbehalten.
 
-## 4 Entzug der Akkreditierung
+### 4. Abschnitt: Entzug der Akkreditierung
 
 #### Artikel 14
 
@@ -170,21 +184,27 @@ beschliesst:
 
 <sup>1</sup> Das Präsidium der Aufsichtskommission über die richterlichen Behörden und die Rechtsanwälte kann die Akkreditierung entziehen, wenn in schwerwiegender Weise gegen die für die Berichterstattung aufgestellten Regeln verstossen wurde. Ein solcher Verstoss liegt insbesondere dann vor, wenn der oder die Medienschaffende:
 
-- a) in schwerwiegender Weise wahrheitswidrig berichtet hat
-- b) konkrete Auflagen des Gerichts oder Sperrfristen missachtet hat
-- c) Unterlagen an Unbefugte weitergegeben hat
-- d) die Persönlichkeitsrechte von Verfahrensbeteiligten nicht gewahrt hat oder
-- e) gegen die Bestimmungen zum Opferschutz, insbesondere Artikel 152 Absatz 1 der Schweizerischen Strafprozessordnung (SR [312.0](https://db.clex.ch/link/Bund/312.0/de)), verstossen hat
+- a) in schwerwiegender Weise wahrheitswidrig berichtet hat;
+
+- b) konkrete Auflagen des Gerichts oder Sperrfristen missachtet hat;
+
+- c) Unterlagen an Unbefugte weitergegeben hat;
+
+- d) die Persönlichkeitsrechte von Verfahrensbeteiligten nicht gewahrt hat; oder
+
+- e) gegen die Bestimmungen zum Opferschutz, insbesondere Artikel 152 Absatz 1 der Schweizerischen Strafprozessordnung[^15-1], verstossen hat.
 
 <sup>2</sup> Die richterlichen Behörden melden dem Präsidium der Aufsichtskommission über die richterlichen Behörden und die Rechtsanwälte festgestellte Verstösse.
+
+[^15-1]: SR 312.0
 
 #### Artikel 16
 
 **Verfahren**
 
-<sup>1</sup> Der Entzug der Akkreditierung erfolgt durch das Präsidium der Aufsichtskommission über die richterlichen Behörden und die Rechtsanwälte mittels begründeter Verfügung. Der Entzug wird den richterlichen Behörden gemäss Artikel 2 mitgeteilt.
+Der Entzug der Akkreditierung erfolgt durch das Präsidium der Aufsichtskommission über die richterlichen Behörden und die Rechtsanwälte mittels begründeter Verfügung. Der Entzug wird den richterlichen Behörden gemäss Artikel 2 mitgeteilt.
 
-## 5 Rechtspflege
+### 5. Abschnitt: Rechtspflege
 
 #### Artikel 17
 
@@ -194,14 +214,18 @@ beschliesst:
 
 <sup>2</sup> Gegen den Einspracheentscheid kann beim Obergericht Verwaltungsgerichtsbeschwerde erhoben werden.
 
-<sup>3</sup> Im Übrigen richtet sich das Verfahren nach den Bestimmungen der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)).
+<sup>3</sup> Im Übrigen richtet sich das Verfahren nach den Bestimmungen der Verordnung über die Verwaltungsrechtspflege.
 
-## 6 Schlussbestimmung
+### 6. Abschnitt: Schlussbestimmung
 
 #### Artikel 18
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Reglement tritt am 1. Juni 2021 in Kraft.
+Dieses Reglement tritt am 1. Juni 2021 in Kraft.
 
-AB 07.05.2021
+Im Namen des Obergerichtes
+
+Der Präsident: Rolf Dittli Die Gerichtsschreiberin: Nathalie Hilt-
+
+brunner
