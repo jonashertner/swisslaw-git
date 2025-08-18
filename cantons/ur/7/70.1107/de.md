@@ -1,32 +1,37 @@
 ---
 canton: UR
 number: "70.1107"
-title: Reglement über die Rechte und Pflichten der Lernenden an der Berufsfachschule
+title: REGLEMENT über die Rechte und Pflichten der Lernenden an der Berufsfachschule
 short: BFSR
 language: de
 version: 2014-08-01
+corrected: 2025-08-19
 version_adopted: 2014-02-04
 adopted: 2009-09-01
 in_force: 2009-09-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/70.1107"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/754/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/17/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über die Rechte und Pflichten der Lernenden an der Berufsfachschule
+# REGLEMENT über die Rechte und Pflichten der Lernenden an der Berufsfachschule
 
-(BFSR)
+REGLEMENT über die Rechte und Pflichten der Lernenden an der Berufsfachschule (BFSR)
 
-Vom 01.09.2009 (Stand 01.08.2014)
+(vom 1. September 2009[^t-1]; Stand am 1. August 2014)
 
-Der Regierungsrat des Kantons Uri,
-
-gestützt auf Artikel 20 Absatz 1 der Verordnung vom 20. Dezember 2006 über die Berufs- und Weiterbildung (BWV, RB [70.1103](https://rechtsbuch.ur.ch/data/70.1103/de)),
+Der Regierungsrat des Kantons Uri, gestützt auf Artikel 20 Absatz 1 der Verordnung vom 20. Dezember 2006 über die Berufs- und Weiterbildung (BWV)[^t-2]
 
 beschliesst:
 
-## 1 Allgemeine Bestimmungen
+**Allgemeine Bestimmungen**
+
+[^t-1]: AB vom 18. September 2009
+[^t-2]: RB 70.1103
+
+### 1. Abschnitt:
 
 #### Artikel 1
 
@@ -36,66 +41,79 @@ beschliesst:
 
 <sup>2</sup> Soweit dieses Reglement keine besonderen Bestimmungen enthält, sind die Vorschriften der Schulgesetzgebung sinngemäss anwendbar.
 
-## 2 Rechte und Pflichten
+**Rechte und Pflichten**
 
-#### Artikel 1a
+### 2. Abschnitt:
 
 **Ergebnisse des Testsystems «Stellwerk»**
 
-<sup>1</sup> Lernende haben beim Eintritt in die Berufsfachschule die Detailergebnisse des Testsystems «Stellwerk» vorzuweisen.
+[^h2Abschnitt-1]: Eingefügt durch RRB vom 4. Februar 2014, in Kraft gesetzt auf den 1. August 2014 (AB vom 14. Februar 2014).
+
+### Artikel 1a
+
+[^h2Abschnitt-1]
+
+Lernende haben beim Eintritt in die Berufsfachschule die Detailergebnisse des Testsystems «Stellwerk» vorzuweisen.
 
 #### Artikel 2
 
 **Stütz- und Freikurse**
 
-<sup>1</sup> Lernende, die im Hinblick auf eine erfolgreiche Absolvierung der Berufsfachschule auf Stützkurse angewiesen sind, werden einem Stützkursangebot zugewiesen. Das Verfahren richtet sich nach Artikel 22 Absatz 4 des Berufsbildungsgesetzes (SR [412.10](https://db.clex.ch/link/Bund/412.10/de)) und Artikel 8 Absatz 2 des Reglements über die Berufs- und Weiterbildung (RB [70.1105](https://rechtsbuch.ur.ch/data/70.1105/de)).
+<sup>1</sup> Lernende, die im Hinblick auf eine erfolgreiche Absolvierung der Berufsfachschule auf Stützkurse angewiesen sind, werden einem Stützkursangebot zugewiesen. Das Verfahren richtet sich nach Artikel 22 Absatz 4 des Berufsbildungsgesetzes[^2-1] und Artikel 8 Absatz 2 des Reglements über die Berufs- und Weiterbildung<sup>5</sup>.
 
 <sup>2</sup> Lernende, die im Berufsfachschulunterricht die erforderlichen Leistungen der jeweiligen Bildungsverordnungen erbringen, können Freikurse besuchen.
 
 <sup>3</sup> Der Besuch von Stütz- und Freikursen ist unentgeltlich.
 
+[^2-1]: SR 412.10
+
 #### Artikel 3
 
-**Freifachkurse**
-
-<sup>1</sup> Lernende können Freifachkurse, die von der Berufsfachschule angeboten werden, gegen eine Gebühr von 50 Franken pro Kurs und Semester besuchen.
+Freifachkurse Lernende können Freifachkurse, die von der Berufsfachschule angeboten werden, gegen eine Gebühr von 50 Franken pro Kurs und Semester besuchen.
 
 #### Artikel 4
 
-**Hausordnung**
+Hausordnung Die Rektorin oder der Rektor erlässt eine Hausordnung.
 
-<sup>1</sup> Die Rektorin oder der Rektor erlässt eine Hausordnung.
-
-## 3 Urlaub
+### 3. Abschnitt: Urlaub
 
 #### Artikel 5
 
-**Urlaub: Anspruch**
+**Urlaub**
+
+- a) Anspruch
 
 <sup>1</sup> Ein Anspruch auf Urlaub besteht für:
 
-- a) Militär-, Zivilschutz- und Zivildiensteinsätze
-- b) den Orientierungstag für die Stellungspflichtigen
-- c) den Rekrutierungstag für die Stellungspflichtigen
-- d) die Theorieprüfung für das Erlangen des Motorfahrzeugausweises
+- a) Militär-, Zivilschutz- und Zivildiensteinsätze;
+
+- b) den Orientierungstag für die Stellungspflichtigen;
+
+- c) den Rekrutierungstag für die Stellungspflichtigen;
+
+- d) die Theorieprüfung für das Erlangen des Motorfahrzeugausweises.
 
 <sup>2</sup> Der Anspruch besteht nur, soweit der Urlaub erforderlich ist, um die entsprechende Tätigkeit auszuüben.
 
-#### Artikel 6
+#### Artikel 6 b
 
-**Urlaub: Verfahren**
+**) Verfahren**
 
-<sup>1</sup> Die Lernenden melden die Abwesenheit spätestens 14 Tage vor Antritt des Urlaubs dem Sekretariat der Berufsfachschule. Mit der Meldung ist eine Kopie des Aufgebots oder des Marschbefehls einzureichen.
+Die Lernenden melden die Abwesenheit spätestens 14 Tage vor Antritt des Urlaubs dem Sekretariat der Berufsfachschule. Mit der Meldung ist eine Kopie des Aufgebots oder des Marschbefehls einzureichen.
 
 #### Artikel 7
 
-**Weitergehender Urlaub: Anspruch**
+**Weitergehender Urlaub**
+
+- a) Anspruch
 
 <sup>1</sup> Weitergehender Urlaub kann in begründeten Fällen gewährt werden. Vorausgesetzt sind:
 
-- a) gute schulische Leistungen
-- b) tadelloser schulischer Einsatz und
-- c) keine disziplinarischen Schwierigkeiten
+- a) gute schulische Leistungen;
+
+- b) tadelloser schulischer Einsatz, und
+
+- c) keine disziplinarischen Schwierigkeiten.
 
 <sup>2</sup> Für Ferien ausserhalb der Schulferienzeit und die praktische Prüfung zur Erlangung des Motorfahrzeugausweises wird kein weitergehender Urlaub gewährt.
 
@@ -103,9 +121,9 @@ beschliesst:
 
 <sup>4</sup> Die Lehrperson kann in begründeten Ausnahmefällen einen Kurzurlaub von höchstens einer Lektion pro Semester ohne Eintrag ins Schulzeugnis bewilligen.
 
-#### Artikel 8
+#### Artikel 8 b
 
-**Weitergehender Urlaub: Verfahren**
+**) Verfahren**
 
 <sup>1</sup> Die Lernenden reichen das Gesuch um weitergehenden Urlaub von mehr als einer Lektion mit dem dafür vorgesehenen Formular spätestens 14 Tage vor Antritt des Urlaubs auf dem Sekretariat der Berufsfachschule ein.
 
@@ -113,7 +131,7 @@ beschliesst:
 
 <sup>3</sup> Der Rektor oder die Rektorin entscheidet über das Gesuch.
 
-## 4 Absenzen
+### 4. Abschnitt: Absenzen
 
 #### Artikel 9
 
@@ -141,7 +159,7 @@ beschliesst:
 
 <sup>2</sup> Als unentschuldigte Absenz gilt auch das Fernbleiben vom Unterricht, wenn ein Gesuch um weitergehenden Urlaub nicht bewilligt wurde. Die Busse beträgt in diesem Fall 100 Franken.
 
-## 5 Disziplinarmassnahmen
+### 5. Abschnitt: Disziplinarmassnahmen
 
 #### Artikel 12
 
@@ -149,19 +167,25 @@ beschliesst:
 
 <sup>1</sup> Als Disziplinarmassnahmen können namentlich angeordnet werden:
 
-- a) mündliche oder schriftliche Ermahnung
-- b) Verwarnung
-- c) zusätzliche Hausarbeit oder zusätzliche Arbeit in der schulfreien Zeit
-- d) kurzzeitiger Ausschluss aus dem Unterricht ohne Benachrichtigung des Lehrbetriebs
-- e) kurzzeitiger Ausschluss aus dem Unterricht mit Benachrichtigung des Lehrbetriebs
-- f) schriftlicher Verweis
-- g) zeitweiser oder ganzer Ausschluss aus der Berufsfachschule
+- a) mündliche oder schriftliche Ermahnung;
+
+- b) Verwarnung;
+
+- c) zusätzliche Hausarbeit oder zusätzliche Arbeit in der schulfreien Zeit;
+
+- d) kurzzeitiger Ausschluss aus dem Unterricht ohne Benachrichtigung des Lehrbetriebs;
+
+- e) kurzzeitiger Ausschluss aus dem Unterricht mit Benachrichtigung des Lehrbetriebs;
+
+- f) schriftlicher Verweis;
+
+- g) zeitweiser oder ganzer Ausschluss aus der Berufsfachschule.
 
 <sup>2</sup> Die Rektorin oder der Rektor ordnet die Disziplinarmassnahmen gemäss Absatz 1 Buchstabe f und g in Form einer Verfügung an.
 
 <sup>3</sup> Die Lehrperson trifft die übrigen Disziplinarmassnahmen. Sie begründet sie gegenüber der betroffenen Person. Ihre Anordnungen sind endgültig.
 
-## 6 Rechtsschutz und Schlussbestimmungen
+### 6. Abschnitt: Rechtsschutz und Schlussbestimmungen
 
 #### Artikel 13
 
@@ -171,12 +195,14 @@ beschliesst:
 
 <sup>2</sup> Gegen die Beschwerdeentscheide der Schulkommission kann beim Obergericht Verwaltungsgerichtsbeschwerde erhoben werden.
 
-<sup>3</sup> Das Verfahren richtet sich nach der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)).
+<sup>3</sup> Das Verfahren richtet sich nach der Verordnung über die Verwaltungsrechtspflege<sup>6</sup>.
 
 #### Artikel 14
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Reglement tritt am 1. September 2009 in Kraft.
+Dieses Reglement tritt am 1. September 2009 in Kraft.
 
-AB 18.09.2009
+Im Namen des Regierungsrats
+
+Der Landammann:Isidor Baumann Der Kanzleidirektor: Dr. Peter Huber
