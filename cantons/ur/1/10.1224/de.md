@@ -1,32 +1,36 @@
 ---
 canton: UR
 number: "10.1224"
-title: Reglement über die Anstellung und Weiterbildung der Lehrpersonen an den Volksschulen
+title: REGLEMENT über die Anstellung und Weiterbildung der Lehrpersonen an den Volksschulen
 short: AWR
 language: de
 version: 2017-01-01
+corrected: 2025-08-19
 version_adopted: 2016-09-13
 adopted: 2008-02-12
 in_force: 2008-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.1224"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/854/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/177/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über die Anstellung und Weiterbildung der Lehrpersonen an den Volksschulen
+# REGLEMENT über die Anstellung und Weiterbildung der Lehrpersonen an den Volksschulen
 
-(AWR)
+REGLEMENT über die Anstellung und Weiterbildung der Lehrpersonen an den Volksschulen (AWR)
 
-Vom 12.02.2008 (Stand 01.01.2017)
+(vom 12. Februar 2008[^t-1]; Stand am 1. Januar 2017)
 
-Der Regierungsrat und der Erziehungsrat des Kantons Uri,
-
-gestützt auf Artikel 45 und 48 Absatz 1 der Verordnung vom 22. April 1998 zum Schulgesetz (Schulverordnung, RB [10.1115](https://rechtsbuch.ur.ch/data/10.1115/de)) und Artikel 17 der Verordnung vom 24. September 2007 über Beiträge des Kantons an die Volksschulen (Schulische Beitragsverordnung, VBV, RB [10.1222](https://rechtsbuch.ur.ch/data/10.1222/de)),
+Der Regierungsrat und der Erziehungsrat des Kantons Uri, gestützt auf Artikel 45 und 48 Absatz 1 der Verordnung vom 22. April 1998 zum Schulgesetz (Schulverordnung)[^t-2] und Artikel 17 der Verordnung vom 24. September 2007 über Beiträge des Kantons an die Volksschulen (Schulische Beitragsverordnung, VBV)[^t-3],
 
 beschliessen:
 
-## 1 Allgemeine Bestimmungen
+[^t-1]: AB vom 29. Februar 2008
+[^t-2]: RB 10.1115
+[^t-3]: RB 10.1222
+
+### 1. Kapitel: ALLGEMEINE BESTIMMUNGEN
 
 #### Artikel 1
 
@@ -34,30 +38,37 @@ beschliessen:
 
 <sup>1</sup> Dieses Reglement verdeutlicht die Bedingungen und Auflagen, die erfüllt sein müssen, damit der Kanton einer Gemeinde Beiträge nach der Schulischen Beitragsverordnung leistet. In diesem Sinn:
 
-- a) legt es fest, welche Bestimmungen der Personalverordnung (PV, RB [2.4211](https://rechtsbuch.ur.ch/data/2.4211/de)) und deren Ausführungsbestimmungen von den Gemeinden und den Kreisschulen sinngemäss angewendet werden müssen
-- b) enthält es weitere Ausführungsbestimmungen zu den Anstellungsbedingungen der Lehrpersonen der Volksschule
-- c) regelt es die Weiterbildungsbedingungen und die Intensivfortbildung für die Lehrpersonen der Volksschule
+- a) legt es fest, welche Bestimmungen der Personalverordnung (PV)<sup>4</sup> und deren Ausführungsbestimmungen von den Gemeinden und den Kreisschulen sinngemäss angewendet werden müssen;
+
+- b) enthält es weitere Ausführungsbestimmungen zu den Anstellungsbedingungen der Lehrpersonen der Volksschule;
+
+- c) regelt es die Weiterbildungsbedingungen und die Intensivfortbildung für die Lehrpersonen der Volksschule.
 
 <sup>2</sup> Es bezweckt, für die Lehrpersonen in den Gemeinden und an den Kreisschulen rechtsgleiche Anstellungsverhältnisse zu erreichen.
 
-<sup>3</sup> Soweit das vorliegende Reglement keine besonderen Bestimmungen enthält, ist das Personalreglement (RB [2.4213](https://rechtsbuch.ur.ch/data/2.4213/de)) sinngemäss anzuwenden.
+<sup>3</sup> Soweit das vorliegende Reglement keine besonderen Bestimmungen enthält, ist das Personalreglement<sup>5</sup> sinngemäss anzuwenden.
 
-## 2 Anstellung
+### 2. Kapitel: ANSTELLUNG
 
 #### Artikel 2
 
-**Anwendbare Bestimmungen**
+Anwendbare Bestimmungen Die Gemeinden und die Kreisschulen haben folgende Bestimmungen der Personalverordnung (PV)<sup>6</sup> sinngemäss anzuwenden:
 
-<sup>1</sup> Die Gemeinden und die Kreisschulen haben folgende Bestimmungen der Personalverordnung (PV, RB [2.4211](https://rechtsbuch.ur.ch/data/2.4211/de)) sinngemäss anzuwenden:
+- 1\. Begründung, Gestaltung und Beendigung des Arbeitsverhältnisses (Art. 4 bis 25 PV). Die Stelle kann statt im Amtsblatt des Kantons Uri, in einer Fachzeitschrift oder in einem anderen geeigneten Publikationsorgan ausgeschrieben werden;
 
-- a) Begründung, Gestaltung und Beendigung des Arbeitsverhältnisses (Art. 4 bis 25 PV). Die Stelle kann statt im Amtsblatt des Kantons Uri, in einer Fachzeitschrift oder in einem anderen geeigneten Publikationsorgan ausgeschrieben werden
-- b) Pflichten der Angestellten (Art. 26 bis 36 PV)
-- c) Lohn (Art. 37 bis 39 PV)
-- d) Teuerungsausgleich und 13. Monatslohn (Art. 43 und 44 PV)
-- e) Dienstaltersgeschenk (Art. 49 PV)
-- f) Familien- und Haushaltszulage (Art. 50 PV)
-- g) Entlöhnung während der Verhinderung an der Arbeitsleistung (Art. 53 bis 59 PV)
-- h) Diskriminierungsverbot (Art. 66 und 67 Abs. 1 PV)
+- 2\. Pflichten der Angestellten (Art. 26 bis 36 PV);
+
+- 3\. Lohn (Art. 37 bis 39 PV);
+
+- 4\. Teuerungsausgleich und 13. Monatslohn (Art. 43 und 44 PV);
+
+- 5\. Dienstaltersgeschenk (Art. 49 PV);
+
+- 6\. Familien- und Haushaltszulage (Art. 50 PV);
+
+- 7\. Entlöhnung während der Verhinderung an der Arbeitsleistung (Art. 53 bis 59 PV);
+
+- 8\. Diskriminierungsverbot (Art. 66 und 67 Abs. 1 PV).
 
 #### Artikel 3
 
@@ -69,21 +80,23 @@ beschliessen:
 
 #### Artikel 4
 
-**Überschrittene und nicht erreichte Pflichtlektionenzahl: Grundsatz**
+Überschrittene und nicht erreichte Pflichtlektionenzahl a) Grundsatz
 
 <sup>1</sup> Lehrpersonen, denen für ein Schuljahr die im Anstellungsvertrag festgelegten Pflichtlektionen nicht zugeteilt werden konnten, können die fehlenden Lektionen im kommenden Schuljahr nachholen, sofern der Schulbetrieb das erlaubt.
 
 <sup>2</sup> Erteilt die Lehrperson während eines Schuljahres mehr Lektionen als der Anstellungsvertrag das vorsieht, kann sie die überzähligen Lektionen in den kommenden Jahren kompensieren.
 
-#### Artikel 5
+#### Artikel 5 b
 
-**Überschrittene und nicht erreichte Pflichtlektionenzahl: Entschädigung**
+**) Entschädigung**
 
 <sup>1</sup> Lehrpersonen, die nicht das volle Pflichtlektionenpensum leisten, wird der Lohn entsprechend gekürzt.
 
-<sup>2</sup> Mehrleistungen, die ein Vollpensum überschreiten und wegen eines reduzierten Pflichtpensums gemäss Artikel 29a Absatz 4 der Personalverordnung (RB [2.4211](https://rechtsbuch.ur.ch/data/2.4211/de)) (Altersentlastung) entstehen, werden auf der Grundlage der Lohnklasse entschädigt, in der die betroffene Lehrperson eingereiht ist. Massgeblich ist aber in jedem Fall die Stufe Minimum.
+<sup>2</sup> Mehrleistungen, die ein Vollpensum überschreiten und wegen eines reduzierten Pflichtpensums gemäss Artikel 29a Absatz 4 der Personalverordnung[^5b-1] (Altersentlastung) entstehen, werden auf der Grundlage der Lohnklasse entschädigt, in der die betroffene Lehrperson eingereiht ist. Massgeblich ist aber in jedem Fall die Stufe Minimum.
 
 <sup>3</sup> Wird das Arbeitsverhältnis aufgelöst, bevor die überschrittene oder nicht erreichte Pflichtlektionenzahl ausgeglichen ist, ist die Differenz zu entschädigen bzw. vom Lohn abzuziehen.
+
+[^5b-1]: RB 2.4211
 
 #### Artikel 6
 
@@ -101,30 +114,37 @@ beschliessen:
 
 <sup>2</sup> Lehrpersonen mit entsprechender Ausbildung, aber ohne Diplom, sind in die Anlaufstufen der entsprechenden Lohnklasse einzureihen.
 
-<sup>3</sup> Bei einer Neuanstellung ist pro 700 auf der entsprechenden Schulstufe geleistete Lektionen ein Jahr als Erfahrung anzurechnen. Die Anrechnung dieser Jahre richtet sich nach dem Eintritt in den Schuldienst. Tätigkeiten in der Pädagogik verwandten Bereichen wie die Betreuung von Lernenden und Führungserfahrung sind zur Hälfte anzurechnen. Pro Jahr anderweitige Berufserfahrung sowie Familienarbeit ist ein Vierteljahr anzurechnen.
+<sup>3</sup> Bei einer Neuanstellung ist pro 700 auf der entsprechenden Schulstufe geleistete Lektionen ein Jahr als Erfahrung anzurechnen. Die Anrechnung dieser Jahre richtet sich nach dem Eintritt in den Schuldienst. Tätigkeiten in der Pädagogik verwandten Bereichen wie die Betreuung von Lernenden und Führungserfahrung sind zur Hälfte anzurechnen. Pro Jahr anderweitige Berufserfahrung sowie Familienarbeit ist ein Vierteljahr anzurechnen.[^7-1]
 
 <sup>4</sup> Wechselt eine Lehrperson die Schulstufe, sind die auf einer anderen Schulstufe geleisteten Jahre angemessen zu berücksichtigen.
 
 <sup>5</sup> Die Bildungs- und Kulturdirektion berät die Gemeinden bei der Einstufung der Lehrpersonen.
 
+[^7-1]: Fassung gemäss RRB und ERB vom 29. Mai 2013 und 4. Juni 2013, in Kraft gesetzt auf den 1. August 2013 (AB vom 14. Juni 2013).
+
 #### Artikel 8
 
 **Besondere Anstellungsverhältnisse**
 
-<sup>1</sup> Für Lehrpersonen, die nicht während eines ganzen Schuljahres unterrichten, reduziert sich der Lohn pro fehlende Schulwoche um 1/40.
+<sup>1</sup> Für Lehrpersonen, die nicht während eines ganzen Schuljahres unterrichten, reduziert sich der Lohn pro fehlende Schulwoche um 1⁄40.
 
 <sup>2</sup> Bei Teilpensen bemisst sich der Lohn nach dem Grad der Anstellung. Schwankt die Zahl der erteilten Lektionen während dem Schuljahr stark, ist die Zahl der gehaltenen Lektionen für die Lohnzahlung zu berücksichtigen.
 
 <sup>3</sup> Bei befristeten Anstellungsverhältnissen bis und mit fünf Monaten richtet sich die Besoldung nach pauschalen Ansätzen pro gehaltene Lektion. Dabei gelten folgende Ansätze:
 
-<table>
-<tr><th>Besoldungsklasse</th><th>Lehrpersonen mit Diplom: 1.–7. Dienstjahr</th><th>Lehrpersonen mit Diplom: ab 8. Dienstjahr</th><th>ohne Diplom</th></tr>
-<tr><td>1</td><td>47 Franken</td><td>60 Franken</td><td>38 Franken</td></tr>
-<tr><td>2</td><td>55 Franken</td><td>70 Franken</td><td>44 Franken</td></tr>
-<tr><td>3</td><td>57 Franken</td><td>72 Franken</td><td>46 Franken</td></tr>
-<tr><td>4</td><td>62 Franken</td><td>78 Franken</td><td>50 Franken</td></tr>
-<tr><td>5</td><td>65 Franken</td><td>82 Franken</td><td>52 Franken</td></tr>
-</table>
+**ohne Diplom**
+
+Besoldungs- Lehrpersonen mit Diplom klasse 1. – 7. Dienstjahr ab 8. Dienstjahr 1 Fr. 47.00 Fr. 60.00
+
+**Fr. 38.00 Fr. 44.00 Fr. 46.00 Fr. 50.00 Fr. 52.00**
+
+2 Fr. 55.00 Fr. 70.00
+
+3 Fr. 57.00 Fr. 72.00
+
+4 Fr. 62.00 Fr. 78.00
+
+5 Fr. 65.00 Fr. 82.00
 
 <sup>4</sup> Die Ansätze entsprechen dem Indexstand der Konsumentenpreise von 100 Punkten gemäss dem Landesindex der Konsumentenpreise per 1. Mai 1993. Die Ansätze werden jährlich der Teuerung so angepasst, wie der Regierungsrat das für die kantonalen Angestellten beschliesst.
 
@@ -132,33 +152,35 @@ beschliessen:
 
 **Zusätzliche Entschädigungen**
 
-<sup>1</sup> Pro Abteilung, die zwei- und mehrklassig unterrichtet wird, ist eine Zulage von 1'400 Franken (Stand gemäss Artikel 8 Absatz 4) plus allfällige Teuerungszulage pro Jahr und Abteilung auszurichten. Die Anspruchsberechtigung gilt nur für Lehrpersonen, die mehr als 14 Wochenlektionen in einer zwei- oder mehrklassigen Abteilung unterrichten.
+<sup>1</sup> Pro Abteilung, die zwei- und mehrklassig unterrichtet wird, ist eine Zulage von 1 400 Franken (Stand gemäss Art. 8 Abs. 4) plus allfällige Teuerungszulage pro Jahr und Abteilung auszurichten. Die Anspruchsberechtigung gilt nur für Lehrpersonen, die mehr als 14 Wochenlektionen in einer zwei- oder mehrklassigen Abteilung unterrichten.
 
 <sup>2</sup> Übernehmen Lehrpersonen während der Mittagszeit oder nach Beendigung des Unterrichts Aufsichtsfunktionen, ist pro 60 Minuten Aufsicht der halbe Ansatz einer Lektion auszurichten. Wird durch die Aufsicht das zu leistende Pflichtpensum überschritten, richtet sich die Entschädigung nach den pauschalen Ansätzen gemäss Artikel 8 Absatz 3.
 
-<sup>3</sup> Der Aufwand für Koordination und Absprachen bei der Betreuung von Schülerinnen und Schülern mit dem Status Integrative Sonderschulung (IS) wird bei der zuständigen Klassenlehrperson und der betreuenden Lehrperson in schulischer Heilpädagogik mit je einer halben Lektion pro IS Schülerin oder IS Schüler abgegolten.
+<sup>3</sup> Der Aufwand für Koordination und Absprachen bei der Betreuung von Schülerinnen und Schülern mit dem Status Integrative Sonderschulung (IS) wird bei der zuständigen Klassenlehrperson und der betreuenden Lehrperson in schulischer Heilpädagogik mit je einer halben Lektion pro IS Schülerin oder IS Schüler abgegolten.[^9-1]
 
-<sup>4</sup> Der Aufwand für Koordination und Absprachen wird bei den Lehrpersonen in Schulischer Heilpädagogik mit je einer Viertellektion pro betreute Klasse abgegolten.
+4 Der Aufwand für Koordination und Absprachen wird bei den Lehrpersonen in Schulischer Heilpädagogik mit je einer Viertellektion pro betreute Klasse abgegolten.[^9-2]
 
-#### Artikel 9a
-
-**Spesen**
+Artikel 9a[^9-3] Spesen
 
 <sup>1</sup> Entstehen Lehrpersonen durch besondere Arbeiten wie Rekognoszieren und Teilnahme an Schulreisen, Schulverlegungen oder Austauschprojekten Spesen und Auslagen, so sind sie diesen nach den Ansätzen, wie sie für die jeweiligen gemeindlichen Angestellten gelten, zu ersetzen.
 
 <sup>2</sup> Für den Bereich Weiterbildung gilt Artikel 12 Absatz 3.
 
+[^9-1]: Eingefügt durch RRB und ERB vom 10. Mai 2011, in Kraft gesetzt auf den 1. August 2011 (AB vom 20. Mai 2011).
+[^9-2]: Eingefügt durch RRB und ERB vom 18. Oktober 2011, in Kraft gesetzt auf den 1. August 2012 (AB vom 28. Oktober 2011).
+[^9-3]: Eingefügt durch RRB und ERB vom 13. September 2016, in Kraft gesetzt auf den 1. Januar 2017 (AB vom 23. September 2016).
+
 #### Artikel 10
 
 **Dienstaltersgeschenke**
 
-<sup>1</sup> Massgebend für die Berechnung des Dienstaltersgeschenks nach Artikel 49 PV (RB [2.4211](https://rechtsbuch.ur.ch/data/2.4211/de)) ist bei 20 Jahren der durchschnittliche Anstellungsgrad während diesen 20 Jahren. Bei den nachfolgenden Dienstaltersgeschenken ist jeweils der durchschnittliche Anstellungsgrad der letzten fünf Jahre zu berücksichtigen.
+<sup>1</sup> Massgebend für die Berechnung des Dienstaltersgeschenks nach Artikel 49 PV<sup>12</sup> ist bei 20 Jahren der durchschnittliche Anstellungsgrad während diesen 20 Jahren. Bei den nachfolgenden Dienstaltersgeschenken ist jeweils der durchschnittliche Anstellungsgrad der letzten fünf Jahre zu berücksichtigen.
 
-<sup>2</sup> Ein Dienstaltersgeschenk nach Artikel 49 PV (RB [2.4211](https://rechtsbuch.ur.ch/data/2.4211/de)) kann mit Einwilligung des Schulrates in Form von Entlastungslektionen über einen Zeitraum von maximal zwei Jahren bezogen werden. Als Berechnungsgrundlage dient die Anzahl der durchschnittlichen Wochenlektionen nach Absatz 1, multipliziert mit vier Wochen, wenn das Dienstaltersgeschenk einen Monatslohn beträgt, oder mit sechs Wochen, wenn das Dienstaltersgeschenk anderthalb Monatslöhne beträgt.
+<sup>2</sup> Ein Dienstaltersgeschenk nach Artikel 49 PV<sup>13</sup> kann mit Einwilligung des Schulrates in Form von Entlastungslektionen über einen Zeitraum von maximal zwei Jahren bezogen werden. Als Berechnungsgrundlage dient die Anzahl der durchschnittlichen Wochenlektionen nach Absatz 1, multipliziert mit vier Wochen, wenn das Dienstaltersgeschenk einen Monatslohn beträgt, oder mit sechs Wochen, wenn das Dienstaltersgeschenk anderthalb Monatslöhne beträgt.
 
-## 3 Weiterbildung
+### 3. Kapitel: WEITERBILDUNG
 
-### 3.1 Allgemeine Bestimmungen
+### 1. Abschnitt: Allgemeine Bestimmungen
 
 #### Artikel 11
 
@@ -166,28 +188,33 @@ beschliessen:
 
 <sup>1</sup> Die Weiterbildung unterstützt die Lehrperson während der ganzen Dauer ihrer Berufstätigkeit, um ihre Fach-, Sozial- und Selbstkompetenz im Hinblick auf die Berufsausübung zu erhalten und zu erweitern.
 
-<sup>2</sup> Sie fördert die Fähigkeit der Lehrperson, Neuerungen in der Schule umzusetzen und mit Lehrpersonen, mit der Schulleitung oder in Schulen ohne Schulleitung mit dem Schulrat, mit den Erziehungsberechtigten und mit weiteren Ausbildungspartnern zusammenzuarbeiten.
+2 Sie fördert die Fähigkeit der Lehrperson, Neuerungen in der Schule umzusetzen und mit Lehrpersonen, mit der Schulleitung oder in Schulen ohne Schulleitung mit dem Schulrat, mit den Erziehungsberechtigten und mit weiteren Ausbildungspartnern zusammenzuarbeiten.
+
+[^11-1]: Art. 6 VBV
 
 #### Artikel 12
 
-**Kurskosten[^Artikel12-1]**
+**Kurskosten[^11-1]**
 
 <sup>1</sup> Der Kanton trägt die Kosten:
 
-- a) der Kurse, die er selbst oder in Zusammenarbeit mit anderen Kantonen durchführt
-- b) der Teilnahme an Kursen der Pädagogischen Hochschule Zentralschweiz (PHZ)
-- c) der Teilnahme an Kursen anderer Anbieter nach vorgängiger Bewilligung durch das Amt für Volksschulen
-- d) der schulinternen Weiterbildung inklusive Teamsupervision
+- a) der Kurse, die er selbst oder in Zusammenarbeit mit anderen Kantonen durchführt;
+
+- b) der Teilnahme an Kursen der Pädagogischen Hochschule Zentralschweiz (PHZ);
+
+- c) der Teilnahme an Kursen anderer Anbieter nach vorgängiger Bewilligung durch das Amt für Volksschulen;
+
+- d) der schulinternen Weiterbildung inklusive Teamsupervision.
 
 <sup>2</sup> Die Kostentragung nach Buchstabe b und c setzt die Bewilligung durch die Schulleitung, oder in Schulen ohne Schulleitung durch den Schulrat, und ein ungekündigtes Anstellungsverhältnis voraus.
 
 <sup>3</sup> Der Arbeitgeber ersetzt der Lehrperson die Spesen für den Besuch von Kursen ausserhalb des Kantons. Er wendet hierbei die Entschädigungsansätze für die kantonalen Angestellten an.
 
-[^Artikel12-1]: Art. 6 VBV.
+[^12-1]: Art. 7 und 8 VBV
 
 #### Artikel 13
 
-**Pauschale[^Artikel13-1]**
+**Pauschale[^12-1]**
 
 <sup>1</sup> Zur Begleichung der Kurskosten stellt der Kanton den Schulen eine Pauschale pro hundert Stellenprozent des pädagogischen Personals zur Verfügung.
 
@@ -195,21 +222,21 @@ beschliessen:
 
 <sup>3</sup> Ausserhalb der Pauschale werden finanziert:
 
-- a) die Intensivfortbildung
-- b) die Zusatzausbildungen
-- c) Nachqualifikationen, die mehr als zwanzig Halbtage dauern
+- a) die Intensivfortbildung;
+
+- b) die Zusatzausbildungen;
+
+- c) Nachqualifikationen, die mehr als zwanzig Halbtage dauern.
 
 <sup>4</sup> Der Erziehungsrat bestimmt, welche Zusatzausbildungen und Nachqualifikationen beitragsberechtigt sind. Der Regierungsrat legt die Kostenbeteiligung der Lehrpersonen fest.
 
-[^Artikel13-1]: Art. 7 und 8 VBV.
+[^13-1]: Art. 6 und 7 VBV
 
 #### Artikel 14
 
-**Stellvertretungskosten[^Artikel14-1]**
+**Stellvertretungskosten[^13-1]**
 
-<sup>1</sup> Für die Intensivfortbildung, für Zusatzausbildungen und für Nachqualifikationen, die mehr als zwanzig Halbtage dauern, trägt der Kanton die notwendigen Stellvertretungskosten im Rahmen der zur Verfügung stehenden Mittel. In Ausnahmefällen, insbesondere bei der Ausbildung von Schulleitungspersonen, können die Stellvertretungskosten auch bei kürzeren Kursen übernommen werden.
-
-[^Artikel14-1]: Art. 6 und 7 VBV.
+Für die Intensivfortbildung, für Zusatzausbildungen und für Nachqualifikationen, die mehr als zwanzig Halbtage dauern, trägt der Kanton die notwendigen Stellvertretungskosten im Rahmen der zur Verfügung stehenden Mittel. In Ausnahmefällen, insbesondere bei der Ausbildung von Schulleitungspersonen, können die Stellvertretungskosten auch bei kürzeren Kursen übernommen werden.
 
 #### Artikel 15
 
@@ -225,23 +252,25 @@ beschliessen:
 
 <sup>1</sup> Die Art der individuellen Weiterbildung wird im Gespräch zwischen Lehrperson und Schulleitung, oder in Schulen ohne Schulleitung zwischen Lehrperson und Schulrat, festgelegt.
 
-<sup>2</sup> Der Umfang der individuellen Weiterbildung richtet sich nach dem Amtsauftrag (RB [10.1212](https://rechtsbuch.ur.ch/data/10.1212/de)).
+<sup>2</sup> Der Umfang der individuellen Weiterbildung richtet sich nach dem Amtsauftrag<sup>17</sup>.
 
-<sup>3</sup> Für die Intensivfortbildung, für Zusatzausbildungen und für Nachqualifikationen von mehr als zwanzig Halbtagen Dauer schliessen das Amt für Volksschulen, die Schule und die teilnehmende Lehrperson eine Vereinbarung mit Treuepflicht ab. Artikel 55 des Personalreglements (RB [2.4213](https://rechtsbuch.ur.ch/data/2.4213/de)) ist sinngemäss anzuwenden.
+<sup>3</sup> Für die Intensivfortbildung, für Zusatzausbildungen und für Nachqualifikationen von mehr als zwanzig Halbtagen Dauer schliessen das Amt für Volksschulen, die Schule und die teilnehmende Lehrperson eine Vereinbarung mit Treuepflicht ab. Artikel 55 des Personalreglements<sup>18</sup> ist sinngemäss anzuwenden.
 
 <sup>4</sup> Die Schulleitung, oder in Schulen ohne Schulleitung der Schulrat, überprüft, ob die Weiterbildungsverpflichtungen erfüllt werden. Sie oder er kann Weisungen erteilen.
 
-### 3.2 Intensivfortbildung
+### 2. Abschnitt: Intensivfortbildung
 
 #### Artikel 17
 
 **Zweck**
 
-<sup>1</sup> Die Intensivfortbildung dient:
+Die Intensivfortbildung dient:
 
-- a) der umfassenden beruflichen Standortbestimmung
-- b) der vertieften Auseinandersetzung mit Schul- und Unterrichtsfragen
-- c) dem Ziel, die berufliche Motivation zu erhalten
+- a) der umfassenden beruflichen Standortbestimmung;
+
+- b) der vertieften Auseinandersetzung mit Schul- und Unterrichtsfragen;
+
+- c) dem Ziel, die berufliche Motivation zu erhalten.
 
 #### Artikel 18
 
@@ -257,8 +286,9 @@ beschliessen:
 
 <sup>1</sup> Die Intensivfortbildung besteht:
 
-- a) in der Teilnahme an einem organisierten Angebot einer Pädagogischen Hochschule
-- b) aus einem individuellen, bewilligungspflichtigen Projekt
+- a) in der Teilnahme an einem organisierten Angebot einer Pädagogischen Hochschule;
+
+- b) aus einem individuellen, bewilligungspflichtigen Projekt.
 
 <sup>2</sup> Ausgeschlossen sind Projekte, die auf eine andere schulische Funktion oder auf eine nicht schulische Tätigkeit vorbereiten oder dem Zweck gemäss Artikel 17 nicht genügen.
 
@@ -276,93 +306,106 @@ beschliessen:
 
 **Kosten und Kostenbeteiligung**
 
-<sup>1</sup> Die Kosten der Intensivfortbildung dürfen 10'000 Franken nicht übersteigen (ohne Stellvertretungskosten und ohne Spesen). Das gilt auch, wenn die Intensivfortbildung andere Weiterbildungsangebote wie beispielsweise einen Sprachaufenthalt einschliesst.
+<sup>1</sup> Die Kosten der Intensivfortbildung dürfen 10 000 Franken nicht übersteigen (ohne Stellvertretungskosten und ohne Spesen). Das gilt auch, wenn die Intensivfortbildung andere Weiterbildungsangebote wie beispielsweise einen Sprachaufenthalt einschliesst.
 
-<sup>2</sup> Die Lehrpersonen haben sich mit 10 Prozent an den Kosten nach Absatz 1 zu beteiligen. Sie haben ausserdem sämtliche Spesen zu tragen.
+2 Die Lehrpersonen haben sich mit 10 Prozent an den Kosten nach Absatz 1 zu beteiligen. Sie haben ausserdem sämtliche Spesen zu tragen.[^21-1]
 
-## 4 Schlussbestimmungen
+[^21-1]: Fassung gemäss RRB und ERB vom 29. Mai 2013 und 4. Juni 2013, in Kraft gesetzt auf den 1. August 2013 (AB vom 14. Juni 2013).
+
+### 4. Kapitel: SCHLUSSBESTIMMUNGEN
 
 #### Artikel 22
 
 **Rechtsschutz**
 
-<sup>1</sup> Der Rechtsschutz richtet sich nach dem Schulgesetz (RB [10.1111](https://rechtsbuch.ur.ch/data/10.1111/de)).
+Der Rechtsschutz richtet sich nach dem Schulgesetz<sup>20</sup>.
 
 #### Artikel 23
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Folgende Erlasse werden aufgehoben:
+Folgende Erlasse werden aufgehoben:
 
-- a) Reglement vom 31. Juli 1995 zur Intensivfortbildung von Lehrpersonen des Kindergartens, der Volksschule und der Mittelschule
+- a) Reglement vom 31. Juli 1995 zur Intensivfortbildung von Lehrpersonen des Kindergartens, der Volksschule und der Mittelschule;
+
 - b) Reglement vom 13. März 2001 über allgemeine Beiträge des Kantons an die Volksschulen (Beitragsreglement)
-- c) Richtlinien vom 10. Januar 1996 für Lehrkräfte, die an berufsbegleitenden Ausbildungskursen teilnehmen
-- d) Richtlinien vom 19. Oktober 1983 für die Gewährung von unbezahltem Lehrerurlaub
-- e) Weisungen vom 12. September 1984 für die Lehrerfortbildung Volksschule
+
+- c) Richtlinien vom 10. Januar 1996 für Lehrkräfte, die an berufsbegleitenden Ausbildungskursen teilnehmen;
+
+- d) Richtlinien vom 19. Oktober 1983 für die Gewährung von unbezahltem Lehrerurlaub;
+
+- e) Weisungen vom 12. September 1984 für die Lehrerfortbildung Volksschule.
 
 #### Artikel 24
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Reglement tritt rückwirkend auf den 1. Januar 2008 in Kraft.
+Dieses Reglement tritt rückwirkend auf den 1. Januar 2008 in Kraft. Im Namen des Regierungsrats
 
-## A1 Anhang 1: Einreihung von Lehrpersonen in die Besoldungsklassen (nach Anhang 2 der PV, RB [2.4211](https://rechtsbuch.ur.ch/data/2.4211/de)))
+Der Landammann: Dr. Markus Stadler Der Kanzleidirektor: Dr. Peter Huber
 
-#### Artikel A1-1
+Im Namen des Erziehungsrats
 
-<sup>1</sup> Kindergarten:
+Der Präsident: Josef Arnold Der Sekretär: Dr. Peter Horat
 
-<table>
-<tr><th>Funktion</th><th>notwendige Ausbildung bzw. Diplome</th><th>Lohnklasse</th></tr>
-<tr><td>Lehrperson</td><td>Diplom als Kindergartenlehrperson</td><td>1</td></tr>
-<tr><td>Lehrperson für Deutschunterricht</td><td>Diplom als Primarlehrperson</td><td>1</td></tr>
-<tr><td>Lehrperson für Integrative Förderung</td><td>Diplom als Primarlehrperson und in Ausbildung zur SHP</td><td>3</td></tr>
-<tr><td>Lehrperson für Integrative Förderung</td><td>SHP Diplom</td><td>4</td></tr>
-</table>
+**Anhang: – Einreihung von Lehrpersonen der PV)**
 
-<sup>2</sup> Primarstufe:
+in die Besoldungsklassen (nach Anhang 2
 
-<table>
-<tr><th>Funktion</th><th>notwendige Ausbildung bzw. Diplome</th><th>Lohnklasse</th></tr>
-<tr><td>Lehrperson</td><td>Diplom als Primarlehrperson oder Diplom für Oberstufe</td><td>2</td></tr>
-<tr><td>Lehrperson für Deutschunterricht</td><td>Diplom als Kindergartenlehrperson</td><td>1</td></tr>
-<tr><td>Lehrperson für Technisches Gestalten</td><td>mit Fachdiplom für ein Fach</td><td>2</td></tr>
-<tr><td>Lehrperson für Integrative Förderung</td><td>Diplom als Primarlehrperson mit Zusatzausbildung</td><td>2</td></tr>
-<tr><td>Lehrperson für Integrative Förderung</td><td>Diplom als Primarlehrperson und in Ausbildung zur SHP</td><td>3</td></tr>
-<tr><td>Lehrperson für Schulische Heilpädagogik</td><td>SHP Diplom</td><td>4</td></tr>
-<tr><td>Lehrperson für Sport</td><td>Sportdiplom ESSM, ETH oder Uni Abschluss</td><td>3</td></tr>
-<tr><td>Lehrperson für Musik</td><td>Diplom in Schulmusik 1 oder 2</td><td>3</td></tr>
-</table>
+[^24-1]: RB 2.4211
 
-<sup>3</sup> Oberstufe inkl. Werkschule:
+### Anhang Einreihung von Lehrpersonen in die Besoldungsklassen (nach Anhang 2 der PV)
 
-<table>
-<tr><th>Funktion</th><th>notwendige Ausbildung bzw. Diplome</th><th>Lohnklasse</th></tr>
-<tr><td>Lehrperson</td><td>Diplom als Sekundar-, Real- oder Werkschullehrperson</td><td>5</td></tr>
-<tr><td>Lehrperson für Technisches Gestalten und Hauswirtschaft</td><td>Diplom Technisches Gestalten und Hauswirtschaft</td><td>4</td></tr>
-<tr><td>Lehrperson (ohne Lehrdiplom für Oberstufe)</td><td>Lehrdiplom einer tieferen Schulstufe mit Ausbildungsauflagen oder befristete Aushilfen für 1 bis 2 Schuljahre</td><td>3</td></tr>
-<tr><td>Fachlehrperson für 1 bis 2 Fächer</td><td>Lehrdiplom einer tieferen Schulstufe und Ausbildung oder Fachdiplom für 1 bis 2 Fächer auf der Oberstufe (Fremdsprachendiplom oder Abschluss in einem Fach auf Stufe Universität)</td><td>4</td></tr>
-<tr><td>Fachlehrperson für 3 und mehr Fächer</td><td>Lehrdiplom einer tieferen Schulstufe und 3 oder mehr Fachdiplome oder Zulassung für mindestens drei Fächer</td><td>5</td></tr>
-<tr><td>Lehrperson für Sport</td><td>Sportdiplom ESSM</td><td>4</td></tr>
-<tr><td>Lehrperson für Sport</td><td>ETH oder Uni Abschluss</td><td>5</td></tr>
-<tr><td>Lehrperson für Musik</td><td>Diplom in Schulmusik 1 oder 2</td><td>5</td></tr>
-</table>
+[^24-1]
 
-<sup>4</sup> Heilpädagogisches Zentrum:
+**notwendige Ausbildung bzw. Diplome Lohnklasse Diplom als Kindergartenlehrperson 1**
 
-<table>
-<tr><th>Funktion</th><th>notwendige Ausbildung bzw. Diplome</th><th>Lohnklasse</th></tr>
-<tr><td>Lehrperson an der Sonderschule</td><td>Diplom als Primarlehrperson</td><td>2</td></tr>
-<tr><td>Lehrperson an der Sonderschule</td><td>SHP Diplom</td><td>4</td></tr>
-<tr><td>Lehrperson für Logopädie</td><td>Diplom Logopädie</td><td>4</td></tr>
-</table>
+### Stufe/Schule Funktion
 
-<sup>5</sup> Stufen übergreifend:
+**1**
 
-<table>
-<tr><th>Funktion</th><th>notwendige Ausbildung bzw. Diplome</th><th>Lohnklasse</th></tr>
-<tr><td>Schulleitung</td><td>Lehrdiplom und Zusatzausbildung (CAS oder vergleichbar)</td><td>6</td></tr>
-<tr><td>Schulleitung</td><td>Lehrdiplom und Diplom als Schulleiter/Schulleiterin (DAS)</td><td>7</td></tr>
-</table>
+Kindergarten Lehrperson Lehrperson für Deutschunterricht Diplom als Primarlehrperson Lehrperson für Integrative Förderung Lehrperson für Integrative Förderung Primarstufe Lehrperson Lehrperson für Deutschunterricht Diplom als Kindergartenlehrperson Lehrperson für Technisches Gestalten Lehrperson für Integrative Förderung Diplom als Primarlehrperson und in Ausbildung zur SHP Lehrperson für Schulische Heilpädagogik Lehrperson für Sport Lehrperson für Musik
 
-AB 29.02.2008
+**Funktion notwendige Ausbildung bzw. Diplome Lohnklasse Lehrperson Diplom als Sekundar-, Real- oder Werkschullehrperson 5**
+
+### Stufe/Schule
+
+Oberstufe inkl.
+
+**Diplom als Primarlehrperson und in Ausbildung zur SHP 3**
+
+**Diplom Technisches Gestalten und Hauswirtschaft 422**
+
+Werkschule Lehrperson für Technisches Gestalten und Hauswirtschaft Lehrperson (ohne Lehrdiplom für Oberstufe) Fachlehrperson für 1 bis 2 Fächer
+
+**SHP Diplom 4**
+
+**Diplom als Primarlehrperson oder Diplom für Oberstufe 2**
+
+**1**
+
+**Lehrdiplom einer tieferen Schulstufe mit Ausbildungs- 3 auflagen oder befristete Aushilfen für 1 bis 2 Schuljahre Lehrdiplom einer tieferen Schulstufe und Ausbildung 4 oder Fachdiplom für 1 bis 2 Fächer auf der Oberstufe (Fremdsprachendiplom oder Abschluss in einem Fach auf Stufe Universität) Lehrdiplom einer tieferen Schulstufe und 3 oder mehr 5 Fachdiplome oder Zulassung für mindestens drei Fächer Sportdiplom ESSM 4 ETH oder Uni Abschluss 5 Diplom in Schulmusik 1 oder 2 5 Diplom als Primarlehrperson 2**
+
+Fachlehrperson für 3 und mehr Fächer
+
+**mit Fachdiplom für ein Fach 2**
+
+**Diplom als Primarlehrperson mit Zusatzausbildung 2**
+
+Lehrperson für Sport
+
+**3**
+
+**SHP Diplom 4**
+
+Lehrperson für Musik Heilpädagogisches Lehrperson an der Sonderschule Zentrum
+
+**Sportdiplom ESSM, ETH oder Uni Abschluss 3 Diplom in Schulmusik 1 oder 2 3**
+
+**SHP Diplom 4 Diplom Logopädie 4 Lehrdiplom und Zusatzausbildung (CAS oder vergleich- 6 bar) Lehrdiplom und Diplom als Schulleiter/Schulleiterin 7 (DAS)**
+
+Lehrperson für Logopädie Stufen übergrei- Schulleitung fend
+
+## Weitere Fussnoten
+
+- [22] Fassung gemäss RRB und ERB vom 29. Mai 2013 und 4. Juni 2013, in Kraft gesetzt auf den 1. Januar 2014 (AB vom 14. Juni 2013).
