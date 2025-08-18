@@ -1,55 +1,66 @@
 ---
 canton: UR
 number: "20.2239"
-title: Reglement zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege
+title: REGLEMENT zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege
 language: de
 version: 2024-07-01
+corrected: 2025-08-19
 version_adopted: 2024-06-18
 adopted: 2024-06-18
 in_force: 2024-07-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.2239"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/774/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/219/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege
+# REGLEMENT zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege
 
-Vom 18.06.2024 (Stand 01.07.2024)
+REGLEMENT zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege
 
-Der Regierungsrat des Kantons Uri,
+(vom 18. Juni 2024[^t-1]; Stand am 1. Juli 2024)
 
-gestützt auf Artikel 18 Absatz 1 der Verordnung zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege (RB [20.2237](https://rechtsbuch.ur.ch/data/20.2237/de)),
+Der Regierungsrat des Kantons Uri gestützt auf Artikel 18 Absatz 1 der Verordnung zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege[^t-2],
 
 beschliesst:
 
-## 1 Allgemeine Bestimmung
+[^t-1]: AB vom 21. Juni 2024
+[^t-2]: RB 20.2237
+
+### 1. Kapitel: ALLGEMEINE BESTIMMUNG
 
 #### Artikel 1
 
 **Gegenstand**
 
-<sup>1</sup> Dieses Reglement regelt die Einzelheiten für den Vollzug des Bundesgesetzes über die Förderung der Ausbildung im Bereich der Pflege im Kanton Uri.
+Dieses Reglement regelt die Einzelheiten für den Vollzug des Bundesgesetzes über die Förderung der Ausbildung im Bereich der Pflege im Kanton Uri.
 
-## 2 Ausbildungsverpflichtung und Beiträge für Ausbildungsleistungen
+### 2. Kapitel: AUSBILDUNGSVERPFLICHTUNG UND BEITRÄGE FÜR AUSBILDUNGSLEISTUNGEN
 
 #### Artikel 2
 
 **Verpflichtung zur Ausbildung**
 
-<sup>1</sup> Pflegebetriebe gemäss Artikel 2 der Verordnung zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege (RB [20.2237](https://rechtsbuch.ur.ch/data/20.2237/de)) sind verpflichtet, Ausbildungsplätze für folgende Bildungsgänge (Qualifikationsstufen) bereitzustellen:
+Pflegebetriebe gemäss Artikel 2 der Verordnung zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege[^2-1]sind verpflichtet, Ausbildungsplätze für folgende Bildungsgänge (Qualifikationsstufen) bereitzustellen:
 
-- a) Tertiärstufe:
-  - 1\. Pflegefachfrau / Pflegefachmann HF
-  - 2\. Pflegefachfrau / Pflegefachmann FH
-- b) Sekundarstufe 2:
-  - 1\. Fachfrau / Fachmann Gesundheit EFZ FaGe
+- a) Tertiärstufe
+
+- Pflegefachfrau/Pflegefachmann HF;
+
+- Pflegefachfrau/Pflegefachmann FH;
+
+- b) Sekundarstufe II
+
+- Fachfrau/Fachmann Gesundheit EFZ FaGe.
+
+[^2-1]: RB 20.2237
 
 #### Artikel 3
 
 **Definition derAusbildungsleistung**
 
-<sup>1</sup> Die Ausbildungsleistung eines Pflegebetriebs entspricht der Anzahl Personen, die in diesem Betrieb in Ausbildung stehen.
+Die Ausbildungsleistung eines Pflegebetriebs entspricht der Anzahl Personen, die in diesem Betrieb in Ausbildung stehen.
 
 #### Artikel 4
 
@@ -57,9 +68,11 @@ beschliesst:
 
 <sup>1</sup> Der jährliche Soll-Wert für die Ausbildungsleistung wird wie folgt bestimmt:
 
-- a) Pflegeheime: Multiplikation der Pflegestunden des Betriebs, die in der SOMED-Statistik des Vorjahrs ausgewiesen werden, mit dem kantonalen Bedarf an Ausbildungsplätzen in der stationären Pflege in der jeweiligen Qualifikationsstufe gemäss Anhang 1 dividiert durch das Total der ausgewiesenen Pflegestunden in der stationären Pflege im Kanton Uri
-- b) Spitex-Organisationen: Multiplikation der Pflegestunden des Betriebs, die in der SPITEX-Statistik des Vorjahres ausgewiesen werden, mit dem kantonalen Bedarf an Ausbildungsplätzen in der ambulanten Pflege in der jeweiligen Qualifikationsstufe gemäss Anhang 1 dividiert durch das Total der ausgewiesenen Pflegestunden in der ambulanten Pflege im Kanton Uri
-- c) Kantonsspital Uri: Bedarf an Ausbildungsplätzen in der jeweiligen Qualifikationsstufe gemäss Anhang 1
+- a) Pflegeheime: Multiplikation der Pflegestunden des Betriebs, die in der SOMED-Statistik des Vorjahrs ausgewiesen werden, mit dem kantonalen Bedarf an Ausbildungsplätzen in der stationären Pflege in der jeweiligen Qualifikationsstufe gemäss Anhang 1 dividiert durch das Total der ausgewiesenen Pflegestunden in der stationären Pflege im Kanton Uri.
+
+- b) Spitex-Organisationen: Multiplikation der Pflegestunden des Betriebs, die in der SPITEX-Statistik des Vorjahres ausgewiesen werden, mit dem kantonalen Bedarf an Ausbildungsplätzen in der ambulanten Pflege in der jeweiligen Qualifikationsstufe gemäss Anhang 1 dividiert durch das Total der ausgewiesenen Pflegestunden in der ambulanten Pflege im Kanton Uri.
+
+- c) Kantonsspital Uri: Bedarf an Ausbildungsplätzen in der jeweiligen Qualifikationsstufe gemäss Anhang 1.
 
 <sup>2</sup> Die Gesundheits-, Sozial- und Umweltdirektion passt die durchschnittliche Dauer der Ausbildung in Jahren in Anhang 1 geänderten Verhältnissen an.
 
@@ -71,27 +84,29 @@ beschliesst:
 
 <sup>2</sup> Die Pflegebetriebe teilen dem Amt für Gesundheit jährlich bis Ende Januar die Ausbildungsleistungen des Vorjahres pro Qualifikationsstufe mit. Erfolgt innert Nachfrist keine Meldung der erforderlichen Daten, gilt die Ausbildungspflicht als nicht erfüllt.
 
-<sup>3</sup> Personen, die sich auf eine Berufsprüfung Fachfrau / Fachmann Langzeitpflege und ‑betreuung vorbereiten, werden auf Tertiärstufe angerechnet.
+3 Personen, die sich auf eine Berufsprüfung Fachfrau/Fachmann Langzeitpflege und -betreuung vorbereiten, werden auf Tertiärstufe angerechnet.
 
 #### Artikel 6
 
-**Ersatzabgabe: Grundsatz**
+**Ersatzabgabe**
 
-<sup>1</sup> Pflegebetriebe, die ihren Soll-Wert an Ausbildungsleistungen nicht erfüllen, entrichten jährlich für die Differenz zwischen Soll- und Ist-Wert eine Ersatzabgabe. Die Ersatzabgabe besteht aus dem Grundbetrag multipliziert mit dem Malus-Faktor.
+- a) Grundsatz 1 Pflegebetriebe, die ihren Soll-Wert an Ausbildungsleistungen nicht erfüllen, entrichten jährlich für die Differenz zwischen Soll- und Ist-Wert eine Ersatzabgabe. Die Ersatzabgabe besteht aus dem Grundbetrag multipliziert mit dem Malus-Faktor.
 
 <sup>2</sup> Der Grundbetrag beträgt:
 
-- a) 4'200 Franken für Bildungsgang FH
-- b) 9'000 Franken für Bildungsgang HF
-- c) 1'800 Franken für Bildungsgang FaGe EFZ
+- a) 4'200 Franken für Bildungsgang FH;
+
+- b) 9'000 Franken für Bildungsgang HF;
+
+- c) 1'800 Franken für Bildungsgang FaGe EFZ.
 
 <sup>3</sup> Der Malus-Faktor beträgt 150 Prozent.
 
 <sup>4</sup> Die Ausbildungsverpflichtung bleibt bestehen, wenn Lehrverträge für die Sekundarstufe II von der Aufsichtsbehörde nicht genehmigt werden oder wenn die Bildungsbewilligung entzogen wird. Dasselbe gilt für Ausbildungen auf Tertiärstufe, wenn ein Bildungsanbieter den Betrieb nicht mehr als geeigneten Praktikumsbetrieb anerkennt.
 
-#### Artikel 7
+#### Artikel 7 b
 
-**Ersatzabgabe: Ausnahmen**
+**) Ausnahmen**
 
 <sup>1</sup> Für die Jahre 2024 und 2025 werden bei Nichterfüllen der Ausbildungsverpflichtung keine Ersatzabgaben erhoben.
 
@@ -101,10 +116,13 @@ beschliesst:
 
 <sup>4</sup> Eine Minderleistung gilt insbesondere dann als unverschuldet, wenn:
 
-- a) eine Person den Ausbildungsvertrag vor Ausbildungsbeginn kündigte und keine andere Person mehr angestellt werden konnte
-- b) eine Person die Ausbildung abbricht
-- c) eine Person die erforderlichen Prüfungen nicht besteht
-- d) dokumentierte branchenübliche Rekrutierungsbemühungen des Betriebs erfolglos blieben
+- a) eine Person den Ausbildungsvertrag vor Ausbildungsbeginn kündigte und keine andere Person mehr angestellt werden konnte;
+
+- b) eine Person die Ausbildung abbricht;
+
+- c) eine Person die erforderlichen Prüfungen nicht besteht;
+
+- d) dokumentierte branchenübliche Rekrutierungsbemühungen des Betriebs erfolglos blieben.
 
 #### Artikel 8
 
@@ -112,9 +130,11 @@ beschliesst:
 
 <sup>1</sup> Betriebe erhalten für die über ihrem Soll-Wert liegenden Ausbildungsleistungen einen Bonus, der aus den Ersatzabgaben des jeweiligen Jahres finanziert wird. Es wird maximal der Betrag ausgerichtet, der als Ersatzabgabe im jeweiligen Jahr anfällt.
 
-<sup>2</sup> Der Bonus wird für jeden Versorgungsbereich getrennt wie folgt berechnet: Total der Ersatzabgaben dividiert durch das Total der Ausbildungsleistungen, die über dem Soll-Wert liegen, ergibt den Bonus pro zusätzlichem Ausbildungsplatz.
+<sup>2</sup> Der Bonus wird für jeden Versorgungsbereich getrennt wie folgt berechnet: Total der Ersatzabgaben dividiert durch das Total der Ausbildungsleistungen, die über dem Soll-Wert liegen, ergibt den Bonus pro
 
-<sup>3</sup> Der maximal auszahlbare Betrag entspricht dem Betrag der Ersatzabgabe gemäss Artikel 6 auf der jeweiligen Qualifikationsstufe.
+zusätzlichem Ausbildungsplatz.
+
+3 Der maximal auszahlbare Betrag entspricht dem Betrag der Ersatzabgabe gemäss Artikel 6 auf der jeweiligen Qualifikationsstufe.
 
 <sup>4</sup> Die Gesundheits-, Sozial- und Umweltdirektion kann die nicht für Bonuszahlungen verwendeten Gelder für Massnahmen oder Projekte zur Förderung der Ausbildungstätigkeit im Bereich der Pflege einsetzen oder zu diesem Zweck Beiträge an die Kosten von Massnahmen oder Projekten Dritter leisten.
 
@@ -122,12 +142,13 @@ beschliesst:
 
 **Beiträge an Ausbildungsbetriebe**
 
-<sup>1</sup> Die Pflegebetriebe erhalten einen Beitrag von 300 Franken pro Praktikumswoche für Studierende HF und FH.
+<sup>1</sup> DiePflegebetriebe erhalten einen Beitrag von 300 Franken pro Praktikumswoche für Studierende HF und FH.
 
 <sup>2</sup> Weitere Beiträge können auf Gesuch hin ausgerichtet werden, sofern der Bund diese als beitragsberechtigt anerkennt:
 
-- a) an den Aufbau und den Betrieb von Ausbildungsverbünden
-- b) für andere Formen der Zusammenarbeit zwischen den Pflegebetrieben im Bereich der Ausbildung
+- a) an den Aufbau und den Betrieb von Ausbildungsverbünden;
+
+- b) für andere Formen der Zusammenarbeit zwischen den Pflegebetrieben im Bereich der Ausbildung.
 
 <sup>3</sup> Die Gesundheits-, Sozial- und Umweltdirektion legt die Höhe der Beiträge gemäss Absatz 2 im Einzelfall fest.
 
@@ -137,9 +158,9 @@ beschliesst:
 
 **Ausbildungsverbünde**
 
-<sup>1</sup> Schliessen sich Pflegebetriebe für das Erfüllen der Ausbildungsverpflichtung zu einem Ausbildungsverbund zusammen, regelt die Gesundheits-, Sozial- und Umweltdirektion mit dem Ausbildungsverbund den administrativen Ablauf, das Vorgehen bei der Festlegung des Soll-Wertes, das Anrechnen der Ist-Werte, die Ersatzabgabe sowie die Auszahlung eines allfälligen Bonus in einem Vertrag.
+Schliessen sich Pflegebetriebe für das Erfüllen der Ausbildungsverpflichtung zu einem Ausbildungsverbund zusammen, regelt die Gesundheits-, Sozial- und Umweltdirektion mit dem Ausbildungsverbund den administrativen Ablauf, das Vorgehen bei der Festlegung des Soll-Wertes, das Anrechnen der Ist-Werte, die Ersatzabgabe sowie die Auszahlung eines allfälligen Bonus in einem Vertrag.
 
-## 3 Beiträge an höhere Fachschulen
+### 3. Kapitel: BEITRÄGE AN HÖHERE FACHSCHULEN
 
 #### Artikel 11
 
@@ -147,7 +168,7 @@ beschliesst:
 
 <sup>2</sup> Über die Verwendung und Wirkung der Beiträge ist durch die Höhere Fachschule periodisch Bericht zu erstatten.
 
-## 4 Unterstützungsbeiträge an Studierende
+### 4. Kapitel: UNTERSTÜTZUNGSBEITRÄGE AN STUDIERENDE
 
 #### Artikel 12
 
@@ -155,9 +176,11 @@ beschliesst:
 
 <sup>1</sup> Die Unterstützungsbeiträge betragen monatlich:
 
-- a) nach Vollendung des 22. Lebensjahrs 250 Franken
-- b) nach Vollendung des 25. Lebensjahrs 500 Franken
-- c) nach Vollendung des 28. Lebensjahrs 1'000 Franken
+- a) nach Vollendung des 22. Lebensjahrs 250 Franken;
+
+- b) nach Vollendung des 25. Lebensjahrs 500 Franken;
+
+- c) nach Vollendung des 28. Lebensjahrs 1'000 Franken.
 
 <sup>2</sup> Hat die gesuchstellende Person ein oder mehrere minderjährige oder in Ausbildung stehende Kinder, für deren Unterhalt sie zu sorgen hat, erhält sie unabhängig von ihrem Alter einen monatlichen Zuschlag von pauschal 700 Franken.
 
@@ -181,44 +204,63 @@ beschliesst:
 
 **Rückerstattung**
 
-<sup>1</sup> Bricht eine beitragsberechtigte Person den Bildungsgang ab, hat sie 50 Prozent der bezogenen Unterstützungsbeiträge gemäss Artikel 12 Absatz. 1 zurückzuzahlen. Bei einem Abbruch des Bildungsgangs innerhalb von sechs Monaten nach Beginn entfällt die Rückzahlungspflicht.
+<sup>1</sup> 1Bricht eine beitragsberechtigte Person den Bildungsgang ab, hat sie 50 Prozent der bezogenen Unterstützungsbeiträge gemäss Artikel 12 Absatz 1 zurückzuzahlen. Bei einem Abbruch des Bildungsgangs innerhalb von sechs Monaten nach Beginn entfällt die Rückzahlungspflicht.
 
 <sup>2</sup> Keine Rückzahlungspflicht besteht bei Abbruch des Bildungsgangs infolge:
 
-- a) Krankheit oder Unfall
-- b) Schwangerschaft
-- c) definitiven Nichtbestehens von Prüfungen
+- a) Krankheit oder Unfall;
+
+- b) Schwangerschaft;
+
+- c) definitiven Nichtbestehens von Prüfungen.
 
 <sup>3</sup> Die Gesundheits-, Sozial- und Umweltdirektion kann in weiteren besonderen Fällen auf eine Rückerstattung verzichten.
 
-## 5 Schlussbestimmungen
+### 5. Kapitel: SCHLUSSBESTIMMUNGEN
 
 #### Artikel 15
 
-**Inkrafttreten und Geltungsdauer**
+Inkrafttreten und Geltungsdauer Dieses Reglement tritt am 1. Juli 2024 in Kraft und gilt bis zum 30. Juni 2032.
 
-<sup>1</sup> Dieses Reglement tritt am 1. Juli 2024 in Kraft und gilt bis zum 30. Juni 2032.
+Im Namen des Regierungsrats Der Landammann: Christian Arnold Der Kanzleidirektor: Roman Balli
 
-## A1 Anhang 1: Jährlicher Bedarf an Ausbildungsplätzen zur Deckung des Nachwuchsbedarfs im Kanton Uri (Deckungsgrad 100 Prozent)
+### Anhang Jährlicher Bedarf an Ausbildungsplätzen zur Deckung des Nach-
 
-#### Artikel A1-1
+wuchsbedarfs im Kanton Uri (Deckungsgrad 100 Prozent)
 
-<sup>1</sup> Jährlicher Bedarf an Ausbildungsplätzen:
+Bedarf an Aus- Durchschnittli- Bedarf an Ausbilbildungs- che Dauer der dungsplätzen im abschlüssen im Ausbildung in Kanton Uri pro Kanton Uri pro Jahren Jahr[^hAnhangJährlicherBe-1]
 
-<table>
-<tr><th>Bereich</th><th>Bedarf an Ausbildungs-abschlüssen im Kanton Uri pro Jahr[^ArtikelA11-1]</th><th>Durchschnittliche Dauer der Ausbildung in Jahren</th><th>Bedarf an Ausbildungsplätzen im Kanton Uri pro Jahr</th></tr>
-<tr><td>Alle Bereiche: Tertiärstufe FH/HF</td><td>17.5[^ArtikelA11-2]</td><td></td><td></td></tr>
-<tr><td>Alle Bereiche: Sekundarstufe II EFZ</td><td>26.5[^ArtikelA11-3]</td><td></td><td></td></tr>
-<tr><td>Pflegeheime: Tertiärstufe FH/HF</td><td>6.8</td><td>2.6</td><td>17.7</td></tr>
-<tr><td>Pflegeheime: Sekundarstufe II EFZ</td><td>14.9</td><td>2.8</td><td>41.7</td></tr>
-<tr><td>Spitex-Organisationen: Tertiärstufe FH/HF</td><td>1.8</td><td>2.0</td><td>3.6</td></tr>
-<tr><td>Spitex-Organisationen: Sekundarstufe II EFZ</td><td>3.0</td><td>2.7</td><td>8.1</td></tr>
-<tr><td>Kantonsspital Uri: Tertiärstufe FH/HF</td><td>8.8</td><td>2.1</td><td>18.5</td></tr>
-<tr><td>Kantonsspital Uri: Sekundarstufe II EFZ</td><td>8.7</td><td>3.0</td><td>26.1</td></tr>
-</table>
+**Jahr**
 
-[^ArtikelA11-1]: Auswertung Obsan 2022, Daten basieren auf dem Analysejahr 2019 und dem Prognosejahr 2029 (Zahlen gerundet); Quellen: BFS – Krankenhausstatistik (KS), Statistik der sozialmedizinischen Institutionen (SOMED), Statistik der Hilfe und Pflege zu Hause (SPITEX) und Strukturerhebung (SE) sowie Ergänzende Obsan-Auswertung «Jährliches Ausbildungsziel für einen Deckungsgrad von 100 Prozent (Zeitraum 2019–2022, Zentralschweiz, nach Bereich und Kanton» vom Februar 2022.
-[^ArtikelA11-2]: Tertiärstufe: Nachwuchsbedarf = Zusatzbedarf + vorzeitige Berufsaustritte + Pensionierungen + Verlust nach dem Diplom.
-[^ArtikelA11-3]: Sekundarstufe II EFZ: Nachwuchsbedarf = Zusatzbedarf + Pensionierungen + Ersatzbedarf wg. Ausbildung in APH + Verlust nach dem Diplom (Zubringerfunktion+ Berufsaustritte).
+[^hAnhangJährlicherBe-1]: Auswertung Obsan 2022, Daten basieren auf dem Analysejahr 2019 und dem Prognosejahr 2029 (Zahlen gerundet); Quellen: BFS – Krankenhausstatistik (KS), Statistik der sozialmedizinischen Institutionen (SOMED), Statistik der Hilfe und Pflege zu Hause (SPI-TEX) und Strukturerhebung (SE) sowie Ergänzende Obsan-Auswertung «Jährliches Ausbildungsziel für einen Deckungsgrad von 100 Prozent (Zeitraum 2019–2022, Zentralschweiz, nach Bereich und Kanton» vom Februar 2022
 
-AB 21.06.2024
+### Alle Bereiche
+
+Tertiärstufe FH/HF 17.5[^hAlleBereiche-1] Sekundarstufe II EFZ 26.5[^hAlleBereiche-2]
+
+[^hAlleBereiche-1]: Tertiärstufe: Nachwuchsbedarf = Zusatzbedarf + vorzeitige Berufsaustritte + Pensionierungen + Verlust nach dem Diplom.
+[^hAlleBereiche-2]: Sekundarstufe II EFZ: Nachwuchsbedarf = Zusatzbedarf + Pensionierungen + Ersatzbedarf wg. Ausbildung in APH + Verlust nach dem Diplom (Zubringerfunktion+ Berufsaustritte).
+
+### Pflegeheime
+
+**2.6 17.7**
+
+Tertiärstufe FH/HF 6.8 Sekundarstufe II EFZ 14.9
+
+**2.8 41.7**
+
+### Spitex-Organi-
+
+sationen Tertiärstufe FH/HF 1.8 Sekundarstufe II EFZ 3.0
+
+**2.0 3.6**
+
+**2.7 8.1**
+
+### Kantonsspital Uri
+
+**2.1 18.5**
+
+**3.0 26.1**
+
+Tertiärstufe FH/HF 8.8 Sekundarstufe II EFZ 8.7
