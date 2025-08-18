@@ -1,35 +1,43 @@
 ---
 canton: UR
 number: "20.2221"
-title: Verordnung über die Rechtspflege in der Unfallversicherung
+title: VERORDNUNG über die Rechtspflege in der Unfallversicherung
 language: de
 version: 1995-06-01
+corrected: 2025-08-19
 version_adopted: 1994-03-23
 adopted: 1983-09-21
 in_force: 1984-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.2221"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/771/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/215/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung über die Rechtspflege in der Unfallversicherung
+# VERORDNUNG über die Rechtspflege in der Unfallversicherung
 
-Vom 21.09.1983 (Stand 01.06.1995)
+VERORDNUNG über die Rechtspflege in der Unfallversicherung
 
-Der Landrat des Kantons Uri,
+(vom 21. September 1983; Stand am 17. Februar 2009)
 
-gestützt auf die Bundesgesetzgebung über die Unfallversicherung (SR [832.20](https://db.clex.ch/link/Bund/832.20/de), SR [832.201](https://db.clex.ch/link/Bund/832.201/de)), Artikel 59 Buchstabe e Kantonsverfassung (RB [1.1101](https://rechtsbuch.ur.ch/data/1.1101/de)), Artikel 65 Organisationsgesetz für die urnerischen Gerichtsbehörden (RB [2.3221](https://rechtsbuch.ur.ch/data/2.3221/de)), Artikel 9 und 10 Einführungsgesetz zum KUVG,
+Der Landrat des Kantons Uri, gestützt auf die Bundesgesetzgebung über die Unfallversicherung[^t-1], Artikel 59 Buchstabe e Kantonsverfassung[^t-2], Artikel 65 Organisationsgesetz für die urnerischen Gerichtsbehörden[^t-3], Artikel 9 und 10 Einführungsgesetz zum KUVG,
 
 beschliesst:
 
-## 1 Schiedsgerichtsverfahren
+**Schiedsgerichtsverfahren**
+
+[^t-1]: SR 832.20832.201
+[^t-2]: RB 1.1101
+[^t-3]: RB 2.3221
+
+### 1. Abschnitt:
 
 #### Artikel 1
 
 **Parteien und Zuständigkeit**
 
-<sup>1</sup> Die Parteien des Schiedsgerichtsverfahrens und die Zuständigkeit des Schiedsgerichts richten sich nach der Bundesgesetzgebung über die Unfallversicherung (SR [832.20](https://db.clex.ch/link/Bund/832.20/de), SR [832.201](https://db.clex.ch/link/Bund/832.201/de)).
+Die Parteien des Schiedsgerichtsverfahrens und die Zuständigkeit des Schiedsgerichts richten sich nach der Bundesgesetzgebung über die Unfallversicherung<sup>4</sup>.
 
 #### Artikel 2
 
@@ -39,8 +47,9 @@ beschliesst:
 
 <sup>2</sup> Zuständiger Vermittler ist:
 
-- a) die von den Parteien vertraglich vereinbarte Vermittlungsinstanz oder wo eine solche fehlt
-- b) der örtlich zuständige Landgerichtspräsident
+- a) die von den Parteien vertraglich vereinbarte Vermittlungsinstanz oder wo eine solche fehlt ;
+
+- b) der örtlich zuständige Landgerichtspräsident.
 
 <sup>3</sup> Nach Eingang des Vermittlungsgesuchs lädt der Vermittler die Parteien vor und versucht im freien Gespräch den Streit beizulegen.
 
@@ -48,55 +57,67 @@ beschliesst:
 
 #### Artikel 3
 
-**Schiedsgericht: Bezeichnung**
+**Schiedsgericht**
+
+- a) Bezeichnung
 
 <sup>1</sup> Das Schiedsgericht für die Unfallversicherung besteht aus einem neutralen Vorsitzenden und je einem Vertreter der Parteien.
 
 <sup>2</sup> Der Präsident des Obergerichtes Uri:
 
-- a) stellt oder bezeichnet den neutralen Vorsitzenden des Schiedsgerichts
-- b) setzt den Parteien eine Frist zur Bezeichnung je eines Schiedsrichters an
-- c) ernennt im Säumnisfall die fehlenden Schiedsrichter
+- a) stellt oder bezeichnet den neutralen Vorsitzenden des Schiedsgerichts;
+
+- b) setzt den Parteien eine Frist zur Bezeichnung je eines Schiedsrichters an;
+
+- c) ernennt im Säumnisfall die fehlenden Schiedsrichter.
 
 <sup>3</sup> Das Obergericht Uri erlässt allfällig notwendige weitere Vorschriften.
 
-#### Artikel 4
+#### Artikel 4 b
 
-**Schiedsgericht: Verfahren**
+**) Verfahren**
 
 <sup>1</sup> Das Verfahren vor dem Schiedsgericht wird durch Vereinbarung der Parteien oder in Ermangelung einer solchen durch Beschluss des Schiedsgerichtes bestimmt.
 
 <sup>2</sup> Die Entscheide des Schiedsgerichts werden den Parteien schriftlich, begründet und mit einer Rechtsmittelbelehrung versehen, eröffnet.
 
-## 2 Versicherungsgericht
+### 2. Abschnitt: Versicherungsgericht
+
+[^h2AbschnittVersic-1]: Fassung gemäss LRB vom 23. März 1994, in Kraft gesetzt auf den 1. Juni 1995 (AB vom
 
 #### Artikel 5
 
-**Kantonales Versicherungsgericht**
+**Kantonales Versicherungsgericht**[^h2AbschnittVersic-1]
 
-<sup>1</sup> Das Obergericht urteilt als Versicherungsgericht im Sinne der Bundesgesetzgebung. Es beurteilt als erste und einzige kantonale Instanz Verwaltungsgerichtsbeschwerden nach der Bundesgesetzgebung über die Unfallversicherung.
+Das Obergericht urteilt als Versicherungsgericht im Sinne der Bundesgesetzgebung. Es beurteilt als erste und einzige kantonale Instanz Verwaltungsgerichtsbeschwerden nach der Bundesgesetzgebung über die Unfallversicherung.
 
 #### Artikel 6
 
 **Zuständigkeit**
 
-<sup>1</sup> Örtliche und sachliche Zuständigkeit des Versicherungsgerichtes richten sich nach den bundesrechtlichen Vorschriften über die Unfallversicherung (SR [832.20](https://db.clex.ch/link/Bund/832.20/de), SR [832.201](https://db.clex.ch/link/Bund/832.201/de)).
+Örtliche und sachliche Zuständigkeit des Versicherungsgerichtes richten sich nach den bundesrechtlichen Vorschriften über die Unfallversicherung<sup>6</sup>.
+
+[^6-1]: Fassung gemäss LRB vom 23. März 1994, in Kraft gesetzt auf den 1. Juni 1995 (AB vom
 
 #### Artikel 7
 
-**Verfahren**
+**Verfahren**[^6-1]
 
-<sup>1</sup> Soweit das Bundesrecht nicht zwingend etwas anderes vorschreibt, richtet sich das Verfahren vor Obergericht als Versicherungsgericht nach den Bestimmungen, die die Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)) für die verwaltungsrechtliche Klage aufstellt.
+Soweit das Bundesrecht nicht zwingend etwas anderes vorschreibt, richtet sich das Verfahren vor Obergericht als Versicherungsgericht nach den Bestimmungen, die die Verordnung über die Verwaltungsrechtspflege[^7-1] für die verwaltungsrechtliche Klage aufstellt.
 
-## 3 Schlussbestimmungen
+[^7-1]: RB 2.2345
+
+### 3. Abschnitt: Schlussbestimmungen
 
 #### Artikel 8
 
 **Änderung bisherigen Rechts**
 
-<sup>1</sup> Nachstehende Erlasse werden wie folgt geändert[^Artikel8-1]:
+<sup>1</sup> Nachstehende Erlasse werden wie folgt geändert:
 
-[^Artikel8-1]: Die Änderungen wurden in den entsprechenden Erlassen eingefügt.
+...[^8-1]
+
+[^8-1]: Die Änderungen wurden in den entsprechenden Erlassen eingefügt.
 
 #### Artikel 9
 
@@ -104,8 +125,10 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung unterliegt dem fakultativen Referendum.
 
-<sup>2</sup> Sie tritt nach erfolgter Genehmigung durch den Bundesrat[^Artikel9-1] auf den 1. Januar 1984 in Kraft.
+<sup>2</sup> Sie tritt nach erfolgter Genehmigung durch den Bundesrat[^9-1] auf den 1. Januar 1984 in Kraft.
 
-[^Artikel9-1]: Vom Bundesrat genehmigt am 6. September 1984.
+Im Namen des Landrates
 
-AB 28.09.1983
+Der Präsident: Rudolf Schenk Der Kanzleidirektor: Dr. Peter Huber
+
+[^9-1]: Vom Bundesrat genehmigt am 6. September 1984
