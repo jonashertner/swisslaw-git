@@ -1,41 +1,49 @@
 ---
 canton: UR
 number: "20.2211"
-title: Reglement über die Nichtbezahlung von Prämien und Kostenbeteiligungen für die Krankenpflege-Grundversicherung
+title: REGLEMENT über die Nichtbezahlung von Prämien und Kostenbeteiligungen für die Krankenpflege-Grundversicherung
 language: de
 version: 2025-01-01
+corrected: 2025-08-19
 version_adopted: 2024-09-24
 adopted: 2017-11-28
 in_force: 2018-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.2211"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/769/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/211/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über die Nichtbezahlung von Prämien und Kostenbeteiligungen für die Krankenpflege-Grundversicherung
+# REGLEMENT über die Nichtbezahlung von Prämien und Kostenbeteiligungen für die Krankenpflege-Grundversicherung
 
-Vom 28.11.2017 (Stand 01.01.2025)
+REGLEMENT über die Nichtbezahlung von Prämien und Kostenbeteiligungen für die Krankenpflege-Grundversicherung
 
-Der Regierungsrat des Kantons Uri,
+(vom 28. November 2017[^t-1]; Stand am 1. Januar 2025)
 
-gestützt auf das Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG, SR [832.10](https://db.clex.ch/link/Bund/832.10/de)) und Artikel 9e der kantonalen Verordnung vom 15. November 1995 zum Bundesgesetz über die Krankenversicherung (RB [20.2202](https://rechtsbuch.ur.ch/data/20.2202/de)),
+Der Regierungsrat des Kantons Uri, gestützt auf das Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)[^t-2] und Artikel 9e der kantonalen Verordnung vom 15. November 1995 zum Bundesgesetz über die Krankenversicherung[^t-3],
 
 beschliesst:
 
-## 1 Zweck
+[^t-1]: AB vom 8. Dezember 2017
+[^t-2]: SR 832.10
+[^t-3]: RB 20.2202
+
+### 1. Abschnitt: Zweck
 
 #### Artikel 1
 
-<sup>1</sup> Dieses Reglement vollzieht die Vorschriften des KVG über die Nichtbezahlung von Prämien und Kostenbeteiligungen für die Krankenpflege-Grundversicherung durch die Kantone.
+Dieses Reglement vollzieht die Vorschriften des KVG über die Nichtbezahlung von Prämien und Kostenbeteiligungen für die Krankenpflege-Grundversicherung durch die Kantone.
 
-## 2 Zuständigkeiten
+### 2. Abschnitt: Zuständigkeiten
+
+[^h2AbschnittZustän-1]: Fassung gemäss RRB vom 24. September 2024, in Kraft gesetzt auf den 1. Januar 2025
 
 #### Artikel 2
 
-**Durchführungsstelle**
+**Durchführungsstelle**[^h2AbschnittZustän-1]
 
-<sup>1</sup> Die Durchführungsstelle vollzieht die Vorschriften über die Nichtbezahlung von Prämien und Kostenbeteiligungen für die Krankenpflege-Grundversicherung, soweit der Kanton hierfür zuständig ist und dieses Reglement die Aufgabe nicht einer anderen Behörde überträgt.
+Die Durchführungsstelle vollzieht die Vorschriften über die Nichtbezahlung von Prämien und Kostenbeteiligungen für die Krankenpflege-Grundversicherung, soweit der Kanton hierfür zuständig ist und dieses Reglement die Aufgabe nicht einer anderen Behörde überträgt.
 
 #### Artikel 3
 
@@ -43,15 +51,19 @@ beschliesst:
 
 <sup>1</sup> Die Einwohnergemeinden wirken im Rahmen der Verordnung zum Bundesgesetz über die Krankenversicherung und dieses Reglements beim Vollzug der Nichtbezahlung von Prämien und Kostenbeteiligungen für die Krankenpflege-Grundversicherung mit.
 
-<sup>2</sup> Die Kosten der ausgestellten Verlustscheine sind von jener Einwohnergemeinde zu übernehmen, in welcher die betreffende Person zum Zeitpunkt des Ausstellens des Verlustscheins Wohnsitz hatte.
+<sup>2</sup> Die Kosten der ausgestellten Verlustscheine sind von jener Einwohnergemeinde zu übernehmen, in welcher die betreffende Person zum Zeitpunkt des Ausstellens des Verlustscheins Wohnsitz hatte.[^3-1]
+
+[^3-1]: Eingefügt durch RRB vom 24. September 2024, in Kraft gesetzt auf den 1. Januar 2025
 
 #### Artikel 4
 
 **Revisionsstelle**
 
-<sup>1</sup> Die Revisionsstelle nach Artikel 64a Absatz 3 KVG für die Nichtbezahlung von Prämien und Kostenbeteiligungen ist die Revisionsstelle der Versicherer.
+Die Revisionsstelle nach Artikel 64a Absatz 3 KVG für die Nichtbezahlung von Prämien und Kostenbeteiligungen ist die Revisionsstelle der Versicherer.
 
-## 3 Technische und organisatorische Vorgaben, Datenformat und Datenaustausch
+- 3\. Abschnitt: Technische und organisatorische Vorgaben,
+
+### Datenformat und Datenaustausch
 
 #### Artikel 5
 
@@ -63,35 +75,37 @@ beschliesst:
 
 #### Artikel 6
 
-**Standard für den Datenaustausch zwischen Kanton und Versicherern**
+Standard für den Datenaustausch zwischen Kanton und Versicherern Die Durchführungsstelle und die Versicherer müssen für die Meldeprozesse nach Artikel 7 folgende Punkte gemäss dem zwischen der Gesundheitsdirektorenkonferenz und santésuisse definierten Konzept zum Datenaustausch einhalten:
 
-<sup>1</sup> Die Durchführungsstelle und die Versicherer müssen für die Meldeprozesse nach Artikel 7 folgende Punkte gemäss dem zwischen der Gesundheitsdirektorenkonferenz und santésuisse definierten Konzept zum Datenaustausch einhalten:
+- a) die Struktur und Semantik der zu meldenden Daten (Meldeformat);
 
-- a) die Struktur und Semantik der zu meldenden Daten (Meldeformat)
-- b) die Aktionen, Reaktionen und Optionen der am Verbund Beteiligten (Verhalten) sowie
-- c) die Grundlage zur technischen Einbindung in den Verbund (Meldungsübermittlung)
+- b) die Aktionen, Reaktionen und Optionen der am Verbund Beteiligten (Verhalten) sowie;
+
+- c) die Grundlage zur technischen Einbindung in den Verbund (Meldungsübermittlung).
 
 #### Artikel 7
 
-**Meldeprozesse**
+Meldeprozesse Der nationale Datenaustausch zwischen der Durchführungsstelle und den Versicherern erfolgt über folgende Prozesse:
 
-<sup>1</sup> Der nationale Datenaustausch zwischen der Durchführungsstelle und den Versicherern erfolgt über folgende Prozesse:
+- a) Betreibungsmeldungen durch die Versicherer;
 
-- a) Betreibungsmeldungen durch die Versicherer
-- b) Quartalsmeldungen und Schlussabrechnungen von Verlustscheinen durch die Versicherer
+- b) Quartalsmeldungen und Schlussabrechnungen von Verlustscheinen durch die Versicherer.
 
 #### Artikel 8
 
-**Betreibungsmeldungen durch die Versicherer**
+Betreibungsmeldungen durch die Versicherer Die Versicherer melden der Durchführungsstelle folgende Ereignisse im Rahmen der Betreibung:
 
-<sup>1</sup> Die Versicherer melden der Durchführungsstelle folgende Ereignisse im Rahmen der Betreibung:
+- Betreibungsbegehren gestellt
 
-- a) Betreibungsbegehren gestellt
-- b) Fortsetzungsbegehren gestellt
-- c) Verlustschein ausgestellt
-- d) Vollzahlung der Forderung
-- e) Annullation der Betreibung
-- f) Inkasso EU/EFTA
+- Fortsetzungsbegehren gestellt
+
+- Verlustschein ausgestellt
+
+- Vollzahlung der Forderung
+
+- Annullation der Betreibung
+
+- Inkasso EU/EFTA
 
 #### Artikel 9
 
@@ -103,17 +117,19 @@ beschliesst:
 
 #### Artikel 10
 
-**Quartalsmeldungen und Schlussabrechnungen**
-
-<sup>1</sup> Die Versicherer melden der Durchführungsstelle quartalsweise eine Übersicht der aufgelaufenen Verlustscheine und den damit verbundenen Kosten. Die Versicherer stellen der Durchführungsstelle zudem jährlich eine Schlussabrechnung der Verlustscheine des vergangenen Kalenderjahrs zu.
+Quartalsmeldungen und Schlussabrechnungen Die Versicherer melden der Durchführungsstelle quartalsweise eine Übersicht der aufgelaufenen Verlustscheine und den damit verbundenen Kosten. Die Versicherer stellen der Durchführungsstelle zudem jährlich eine Schlussabrechnung der Verlustscheine des vergangenen Kalenderjahrs zu.
 
 #### Artikel 11
 
-**Datenaustausch zwischen dem Kanton und den Einwohnergemeinden**
+Datenaustausch zwischen dem Kanton und den Einwohnergemeinden
 
 <sup>1</sup> Der innerkantonale Datenaustausch zwischen der Durchführungsstelle und den Einwohnergemeinden erfolgt über eine geschützte Web-Plattform mit verschlüsselter Verbindung.
 
-<sup>2</sup> Die Durchführungsstelle stellt die Betreibungsmeldungen und die Meldungen über die Verlustscheine auf der geschützten Web-Plattform zur Verfügung. Die zuständige Wohnsitzgemeinde kann auf die Meldungen über ihre Schuldnerinnen und Schuldner zugreifen.
+**Im Namen des Regierungsrats**
+
+**Der Landammann: Beat Jörg Der Kanzleidirektor: Roman Balli**
+
+2 Die Durchführungsstelle stellt die Betreibungsmeldungen und die Meldungen über die Verlustscheine auf der geschützten Web-Plattform zur Verfügung. Die zuständige Wohnsitzgemeinde kann auf die Meldungen über ihre Schuldnerinnen und Schuldner zugreifen.
 
 <sup>3</sup> Die Durchführungsstelle ist zuständig für den Aufbau und Betrieb der geschützten Web-Plattform.
 
@@ -127,12 +143,8 @@ beschliesst:
 
 <sup>3</sup> Die zugriffsberechtigten Personen sind verantwortlich für einen diskreten Umgang mit den eingesehenen Daten.
 
-## 4 Schlussbestimmung
+### 4. Abschnitt: Schlussbestimmung
 
 #### Artikel 13
 
-**Inkrafttreten**
-
-<sup>1</sup> Dieses Reglement tritt am 1. Januar 2018 in Kraft.
-
-AB 08.12.2017
+Inkrafttreten Dieses Reglement tritt am 1. Januar 2018 in Kraft.
