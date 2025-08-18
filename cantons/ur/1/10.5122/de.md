@@ -1,27 +1,31 @@
 ---
 canton: UR
 number: "10.5122"
-title: Reglement über den Schutz der Gewässer im Gebiet Uri Nord zwischen dem Urnersee und Erstfeld
+title: REGLEMENT über den Schutz der Gewässer im Gebiet Uri Nord zwischen dem Urnersee und Erstfeld
 language: de
 version: 2020-10-15
+corrected: 2025-08-19
 version_adopted: 2020-09-08
 adopted: 2020-09-08
 in_force: 2020-10-15
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.5122"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/860/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/363/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über den Schutz der Gewässer im Gebiet Uri Nord zwischen dem Urnersee und Erstfeld
+# REGLEMENT über den Schutz der Gewässer im Gebiet Uri Nord zwischen dem Urnersee und Erstfeld
 
-Vom 08.09.2020 (Stand 15.10.2020)
+REGLEMENT über den Schutz der Gewässer im Gebiet Uri Nord zwischen dem Urnersee und Erstfeld
 
-Der Regierungsrat des Kantons Uri,
+(vom 8. September 2020[^t-1]; Stand am 15. Oktober 2020)
 
-gestützt auf Artikel 10 Absatz 1 des kantonalen Gesetzes vom 18. Oktober 1987 über den Natur- und Heimatschutz (RB [10.5101](https://rechtsbuch.ur.ch/data/10.5101/de)) und auf Artikel 13 des Gewässernutzungsgesetzes vom 16. Februar 1992 (GNG, RB [40.4101](https://rechtsbuch.ur.ch/data/40.4101/de)),
+Der Regierungsrat des Kantons Uri, gestützt auf Artikel 10 Absatz 1 des kantonalen Gesetzes vom 18. Oktober 1987 über den Natur- und Heimatschutz<sup>2</sup> und auf Artikel 13 des Gewässernutzungsgesetzes vom 16. Februar 1992 (GNG)<sup>3</sup>,
 
 beschliesst:
+
+[^t-1]: AB vom 18. September 2020.
 
 #### Artikel 1
 
@@ -37,24 +41,15 @@ beschliesst:
 
 <sup>1</sup> Folgende Objekte werden unter Schutz gestellt:
 
-<table>
-<tr><th>Objekt Nr.</th><th>Name</th><th>Gemeinde</th></tr>
-<tr><td>1</td><td>Fätschbach</td><td>Spiringen</td></tr>
-<tr><td>2</td><td>Hinterschächen, Winterbach</td><td>Unterschächen</td></tr>
-<tr><td>3</td><td>Vorderschächen, Niemerstafelbach, Balmerbach, Bäche Rustigen</td><td>Unterschächen Bäche Rustigen</td></tr>
-<tr><td>4</td><td>Schächen (Auengebiet)</td><td>Bürglen, Spiringen, Unterschächen</td></tr>
-<tr><td>5</td><td>Gangbach</td><td>Schattdorf</td></tr>
-<tr><td>6</td><td>Riedertalbach</td><td>Bürglen</td></tr>
-<tr><td>7</td><td>Isenthalerbach</td><td>Isenthal</td></tr>
-<tr><td>8</td><td>Sulztalerbach (Oberlauf)</td><td>Isenthal</td></tr>
-<tr><td>9</td><td>Stierenbach</td><td>Attinghausen</td></tr>
-<tr><td>10</td><td>Bockibach</td><td>Attinghausen, Erstfeld</td></tr>
-<tr><td>11</td><td>Alpbach (oberhalb Bodenberge)</td><td>Erstfeld</td></tr>
-<tr><td>12</td><td>Fulbach</td><td>Erstfeld</td></tr>
-<tr><td>13</td><td>Seewlisee</td><td>Silenen</td></tr>
-</table>
+**Gemeinde Spiringen Unterschächen Unterschächen**
 
-<sup>2</sup> Sämtliche natürlichen Gewässer im Gebiet Uri Nord zwischen dem Urnersee und Erstfeld, die nicht explizit als nutzbare Gewässer oder als nutzbare Gewässer mit erhöhten Anforderungen im SNEE sowie als Schutzgewässer unter Artikel 2 Absatz 1 aufgeführt sind, gelten ebenfalls als Schutzobjekte.
+Objekt Nr. Name 1 Fätschbach 2 Hinterschächen, Winterbach 3 Vorderschächen, Niemerstafelbach, Balmerbach, Bäche Rusti- Bäche Rustigen gen 4 Schächen (Auengebiet) Unterschächen 5 Gangbach 6 Riedertalbach 7 Isenthalerbach 8 Sulztalerbach (Oberlauf) 9 Stierenbach 10 Bockibach Erstfeld 11 Alpbach (oberhalb Bodenberge) 12 Fulbach 13 Seewlisee
+
+**Bürglen Isenthal Isenthal Attinghausen Attinghausen,**
+
+**Erstfeld Erstfeld Silenen**
+
+<sup>2</sup> Sämtliche natürlichen Gewässer im Gebiet Uri Nord zwischen dem Urnersee und Erstfeld, die nicht explizit als nutzbare Gewässer oder als nutzbare Gewässer mit erhöhten Anforderungen im SNEE sowie als Schutzgewässer unter Artikel 2 Absatz 1 aufgeführt sind, gelten ebenfalls als Schutzobjekte
 
 <sup>3</sup> Schutzobjekt ist jeweils nur das eigentliche Gewässer. Für die Uferbereiche gelten die gesetzlichen Bestimmungen.
 
@@ -64,16 +59,21 @@ beschliesst:
 
 <sup>1</sup> Die Schutzobjekte sind mindestens für 40 Jahre ungeschmälert zu erhalten.
 
-<sup>2</sup> Insbesondere ist es verboten:
+<sup>2</sup> Insbesondere ist es verboten::
 
-- a) die Schutzgewässer zur Energieerzeugung zu nutzen
-- b) Bauten und Anlagen aller Art innerhalb der Schutzgewässer zu errichten, sofern sie nicht dem Schutzzweck entsprechen
+- a) die Schutzgewässer zur Energieerzeugung zu nutzen;
 
-<sup>3</sup> Vorbehalten bleiben Arbeiten und bauliche Massnahmen, die notwendig sind, um den Hochwasserschutz sicherzustellen oder um Überfahrten zur Erschliessung des Gebiets zu ermöglichen (z.B. Brücken oder Furten).
+- b) Bauten und Anlagen aller Art innerhalb der Schutzgewässer zu errichten, sofern sie nicht dem Schutzzweck entsprechen.
+
+<sup>3</sup> Vorbehalten bleiben Arbeiten und bauliche Massnahmen, die notwendig sind, um den Hochwasserschutz sicherzustellen oder um Überfahrten zur Erschliessung des Gebiets zu ermöglichen (z. B. Brücken oder Furten).
 
 <sup>4</sup> Kleinstwasserkraftwerke ohne Netzeinspeisung (Inselbetrieb), Dotierkraftwerke und Trinkwasserkraftwerke mit Netzeinspeisung können in den Schutzgewässern grundsätzlich weiterhin erstellt und betrieben werden.
 
+**Bürglen, Spiringen,**
+
 <sup>5</sup> Bestehende Kraftwerke können im Rahmen ihrer Konzession uneingeschränkt weiterbetrieben werden. Die Optimierung oder der Ausbau bestehender Kraftwerke sind unter Berücksichtigung der geltenden Vorschriften weiterhin möglich.
+
+**Schattdorf**
 
 <sup>6</sup> Gewährleistet bleiben zudem bestehende, rechtmässig ausgeübte Nutzungen und Nutzungsrechte in Bezug auf Bauten und Anlagen innerhalb der Schutzgewässer.
 
@@ -93,4 +93,6 @@ beschliesst:
 
 <sup>2</sup> Es tritt am 15. Oktober 2020 in Kraft.
 
-AB 18.09.2020
+Im Namen des Regierungsrates
+
+Der Landammann: Urban Camenzind Der Kanzleidirektor: Roman Balli
