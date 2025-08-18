@@ -1,29 +1,36 @@
 ---
 canton: UR
 number: "20.1311"
-title: Reglement über den Normalarbeitsvertrag für hauswirtschaftliche Arbeitnehmer
+title: REGLEMENT über den Normalarbeitsvertrag für hauswirtschaftliche Arbeitnehmer
 language: de
 version: 2022-01-01
+corrected: 2025-08-19
 version_adopted: 2022-02-01
 adopted: 1988-09-05
 in_force: 1988-10-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.1311"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/762/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/203/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über den Normalarbeitsvertrag für hauswirtschaftliche Arbeitnehmer
+# REGLEMENT über den Normalarbeitsvertrag für hauswirtschaftliche Arbeitnehmer
 
-Vom 05.09.1988 (Stand 01.01.2022)
+REGLEMENT über den Normalarbeitsvertrag für hauswirtschaftliche Arbeitnehmer
 
-Der Regierungsrat des Kantons Uri,
+(vom 5. September 1988[^t-1]; Stand am 1. Januar 2022)
 
-gestützt auf Artikel 359 des Schweizerischen Obligationenrechts (OR), SR [220](https://db.clex.ch/link/Bund/220/de)) und auf Artikel 7 Ziff. 1 des Gesetzes vom 4. Juni 1989 über die Einführung des Schweizerischen Zivilgesetzbuches (EG/ZGB, RB [9.2111](https://rechtsbuch.ur.ch/data/9.2111/de)),
+Der Regierungsrat des Kantons Uri, gestützt auf Artikel 359 des Schweizerischen Obligationenrechts (OR)[^t-2] und auf Artikel 7 Ziffer 1 des Gesetzes vom 4. Juni 1989 über die Einführung des Schweizerischen Zivilgesetzbuches (EG/ZGB)[^t-3],[^t-4]
 
 beschliesst:
 
-## 1 Geltungsbereich und Wirkung
+[^t-1]: AB vom 11. Februar 2022
+[^t-2]: SR 220
+[^t-3]: RB 9.2111
+[^t-4]: Fassung gemäss RRB vom 1. Februar 2022, in Kraft gesetzt auf den 1. Januar 2022 (AB vom 11. Februar 2022).
+
+### 1. Abschnitt: Geltungsbereich und Wirkung
 
 #### Artikel 1
 
@@ -33,7 +40,7 @@ beschliesst:
 
 <sup>2</sup> Der NAV findet Anwendung auf alle Arbeitsverhältnisse zwischen Arbeitnehmern beiderlei Geschlechts (nachstehend Arbeitnehmer genannt), die ausschliesslich oder überwiegend hauswirtschaftliche Arbeiten in einem privaten, einem Geschäfts- oder einem Kollektivhaushalt (Heim, Pension, Anstalt, Krankenhaus usw.) verrichten, und ihren Arbeitgebern. Volontär- und Au-pair-Verhältnisse sind grundsätzlich eingeschlossen.
 
-<sup>2a</sup> Der NAV ist auch anwendbar auf Arbeitnehmerinnen und Arbeitnehmer, die im Rahmen einer 24-Stunden-Betreuung Leistungen in Form von Hilfe und Unterstützung im Haushalt für gebrechliche Personen wie Betagte, Kranke und Menschen mit einer Beeinträchtigung erbringen und diese betreuen, in der Alltagsbewältigung unterstützen und ihnen Gesellschaft leisten und deshalb im Haushalt der zu betreuenden Person wohnen («live-ins»). Pflegerische Leistungen im Sinne der Krankenpflege-Leistungsverordnung (SR [832.112.31](https://db.clex.ch/link/Bund/832.112.31/de)) sind keine solchen betreuerischen Leistungen. Jugendliche können nicht für diese Art der Betreuung angestellt werden.
+<sup>2a</sup> Der NAV ist auch anwendbar auf Arbeitnehmerinnen und Arbeitnehmer, die im Rahmen einer 24-Stunden-Betreuung Leistungen in Form von Hilfe und Unterstützung im Haushalt für gebrechliche Personen wie Betagte, Kranke und Menschen mit einer Beeinträchtigung erbringen und diese betreuen, in der Alltagsbewältigung unterstützen und ihnen Gesellschaft leisten und deshalb im Haushalt der zu betreuenden Person wohnen («liveins»). Pflegerische Leistungen im Sinne der Krankenpflege-Leistungsverordnung[^1-1] sind keine solchen betreuerischen Leistungen. Jugendliche können nicht für diese Art der Betreuung angestellt werden.[^1-2]
 
 <sup>3</sup> Den Bestimmungen dieses Vertrages unterstehen auch Arbeitnehmer, die nur während eines Teils der normalen Arbeitszeit beschäftigt sind (Teilzeitarbeitnehmer und Aushilfen). Sie haben im Verhältnis der geleisteten Arbeitszeit die gleichen Rechte und Pflichten wie die vollbeschäftigten Arbeitnehmer. Ausnahmen von diesem Grundsatz werden ausdrücklich erwähnt (Artikel 12 Absatz 4, Artikel 14 Absatz 6, Artikel 15 Absatz 3, Artikel 16 Absatz 2, Artikel 20 Absatz 2, Artikel 21 Absatz 2).
 
@@ -41,11 +48,18 @@ beschliesst:
 
 <sup>5</sup> Der NAV gilt nicht:
 
-- a) für landwirtschaftliche Arbeitsverhältnisse
-- b) für amtlich anerkannte Haushaltlehrverhältnisse
-- c) für hauswirtschaftliche Arbeitnehmerinnen und Arbeitnehmer, die dem öffentlichen Recht des Bundes, der Kantone oder der Gemeinden oder einem besonderen NAV unterstellt sind
+- a) für landwirtschaftliche Arbeitsverhältnisse;
 
-<sup>6</sup> Für hauswirtschaftliche Arbeitnehmerinnen und Arbeitnehmer, die einem allgemeinverbindlich erklärten Gesamtarbeitsvertrag (AVE GAV) unterstellt sind, kann im AVE GAV von den Regeln des NAV abgewichen werden.
+- b) für amtlich anerkannte Haushaltlehrverhältnisse;
+
+- c) für hauswirtschaftliche Arbeitnehmerinnen und Arbeitnehmer, die dem öffentlichen Recht des Bundes, der Kantone oder der Gemeinden oder einem besonderen NAV unterstellt sind.[^1-3]
+
+<sup>6</sup> Für hauswirtschaftliche Arbeitnehmerinnen und Arbeitnehmer, die einem allgemeinverbindlich erklärten Gesamtarbeitsvertrag (AVE GAV) unterstellt sind, kann im AVE GAV von den Regeln des NAV abgewichen werden.[^1-4]
+
+[^1-1]: SR 832.112.31
+[^1-2]: Eingefügt durch RRB vom 1. Februar 2022, in Kraft gesetzt auf den 1. Januar 2022 (AB vom 11. Februar 2022).
+[^1-3]: Fassung gemäss RRB vom 1. Februar 2022, in Kraft gesetzt auf den 1. Januar 2022 (AB vom 11. Februar 2022).
+[^1-4]: Eingefügt durch RRB vom 1. Februar 2022, in Kraft gesetzt auf den 1. Januar 2022 (AB vom 11. Februar 2022).
 
 #### Artikel 2
 
@@ -53,21 +67,24 @@ beschliesst:
 
 <sup>1</sup> Der NAV gilt als Vertragswille, soweit nicht für einzelne Bestimmungen schriftlich etwas anderes vereinbart wurde. Allfällige abweichende Vereinbarungen dürfen jedoch keine Verschlechterung für den Arbeitnehmer zur Folge haben.
 
-<sup>2</sup> Soweit der NAV keine Bestimmungen enthält und die Parteien keine zusätzlichen Abreden getroffen haben, gelten die einschlägigen gesetzlichen Bestimmungen, insbesondere diejenigen des Obligationenrechts (SR [220](https://db.clex.ch/link/Bund/220/de)).
+<sup>2</sup> Soweit der NAV keine Bestimmungen enthält und die Parteien keine zusätzlichen Abreden getroffen haben, gelten die einschlägigen gesetzlichen Bestimmungen, insbesondere diejenigen des Obligationenrechts[^2-1].[^2-2]
 
-## 2 Dauer und Beendigung des Arbeitsverhältnisses
+[^2-1]: SR 220
+[^2-2]: Fassung gemäss RRB vom 1. Februar 2022, in Kraft gesetzt auf den 1. Januar 2022 (AB vom 11. Februar 2022).
+
+### 2. Abschnitt: Dauer und Beendigung des Arbeitsverhältnisses
 
 #### Artikel 3
 
 **Vorstellung**
 
-<sup>1</sup> Veranlasst der Arbeitgeber vor Vertragsabschluss, dass der Arbeitnehmer sich persönlich vorstellt, so hat dieser Anrecht auf eine Vergütung der Fahrkosten, wenn diese Leistung nicht schriftlich wegbedungen worden ist.
+Veranlasst der Arbeitgeber vor Vertragsabschluss, dass der Arbeitnehmer sich persönlich vorstellt, so hat dieser Anrecht auf eine Vergütung der Fahrkosten, wenn diese Leistung nicht schriftlich wegbedungen worden ist.
 
 #### Artikel 4
 
 **Probezeit**
 
-<sup>1</sup> Die ersten vier Wochen des Arbeitsverhältnisses gelten als Probezeit.
+Die ersten vier Wochen des Arbeitsverhältnisses gelten als Probezeit.
 
 #### Artikel 5
 
@@ -75,9 +92,11 @@ beschliesst:
 
 <sup>1</sup> Ist das Arbeitsverhältnis nicht auf eine bestimmte Zeit unkündbar eingegangen und geht eine solche auch nicht aus dem angegebenen Zweck der Arbeit hervor, so kann es vom Arbeitgeber und Arbeitnehmer wie folgt gekündigt werden:
 
-- a) während der Probezeit auf das Ende des der Kündigung folgenden dritten Tages
-- b) nach Ablauf der Probezeit bis und mit 9. Dienstjahr mit einer Kündigungsfrist von 2 Monaten, auf das Ende eines Monats
-- c) ab 10. Dienstjahr mit einer Kündigungsfrist von 3 Monaten, auf das Ende eines Monats
+- a) während der Probezeit auf das Ende des der Kündigung folgenden dritten Tages;
+
+- b) nach Ablauf der Probezeit bis und mit 9. Dienstjahr mit einer Kündigungsfrist von 2 Monaten, auf das Ende eines Monats;
+
+- c) ab 10. Dienstjahr mit einer Kündigungsfrist von 3 Monaten, auf das Ende eines Monats.
 
 <sup>2</sup> Die Kündigung muss spätestens am letzten Tag vor Beginn der Kündigungsfrist dem Vertragspartner zur Kenntnis gebracht werden.
 
@@ -87,21 +106,23 @@ beschliesst:
 
 **Kündigung zur Unzeit**
 
-<sup>1</sup> Nach Ablauf der Probezeit darf der Arbeitgeber das Arbeitsverhältnis nicht kündigen:
+Nach Ablauf der Probezeit darf der Arbeitgeber das Arbeitsverhältnis nicht kündigen:
 
-- a) während obligatorischen schweizerischen Militärdienstes oder Zivilschutzdienstes des Arbeitnehmers und, sofern die Dienstleistung mehr als 12 Tage dauert, vier Wochen vorher und nachher
-- b) bei unverschuldeter Krankheit oder unverschuldetem Unfall des Arbeitnehmers, während den ersten vier Wochen im unterjährigen Arbeitsverhältnis und während den ersten acht Wochen im überjährigen Arbeitsverhältnis
-- c) in den acht Wochen vor und nach der Niederkunft einer Arbeitnehmerin
+- a) während obligatorischen schweizerischen Militärdienstes oder Zivilschutzdienstes des Arbeitnehmers und, sofern die Dienstleistung mehr als 12 Tage dauert, vier Wochen vorher und nachher;
+
+- b) bei unverschuldeter Krankheit oder unverschuldetem Unfall des Arbeitnehmers, während den ersten vier Wochen im unterjährigen Arbeitsverhältnis und während den ersten acht Wochen im überjährigen Arbeitsverhältnis;
+
+- c) in den acht Wochen vor und nach der Niederkunft einer Arbeitnehmerin.
 
 #### Artikel 7
 
 **Ungerechtfertigte fristlose Entlassung**
 
-<sup>1</sup> Entlässt der Arbeitgeber den Arbeitnehmer fristlos ohne wichtigen Grund, hat dieser Anspruch auf den Lohn für die bestimmte Vertragszeit oder für die Zeit bis zum Ablauf der Kündigungsfrist sowie auf Ersatz der aus dem Arbeitsverhältnis erwachsenen Vorteile.
+Entlässt der Arbeitgeber den Arbeitnehmer fristlos ohne wichtigen Grund, hat dieser Anspruch auf den Lohn für die bestimmte Vertragszeit oder für die Zeit bis zum Ablauf der Kündigungsfrist sowie auf Ersatz der aus dem Arbeitsverhältnis erwachsenen Vorteile.
 
 #### Artikel 8
 
-**Nichtantritt oder ungerechtfertigtes Verlassen der Arbeitsstelle**
+Nichtantritt oder ungerechtfertigtes Verlassen der Arbeitsstelle
 
 <sup>1</sup> Tritt der Arbeitnehmer ohne wichtigen Grund die Arbeitsstelle nicht an oder verlässt er sie fristlos, hat der Arbeitgeber Anspruch auf eine Entschädigung, die einem Viertel des Lohnes für einen Monat entspricht, ausserdem hat er Anspruch auf Ersatz weiteren Schadens.
 
@@ -113,23 +134,23 @@ beschliesst:
 
 **Zeugnis**
 
-<sup>1</sup> Der Arbeitnehmer hat Anspruch darauf, dass ihm der Arbeitgeber spätestens am Entlassungstag ein Zeugnis ausstellt, das sich über die Art und Dauer des Arbeitsverhältnisses, auf besonderes Verlangen auch über Leistung und Verhalten ausspricht (Artikel 330a OR).
+Der Arbeitnehmer hat Anspruch darauf, dass ihm der Arbeitgeber spätestens am Entlassungstag ein Zeugnis ausstellt, das sich über die Art und Dauer des Arbeitsverhältnisses, auf besonderes Verlangen auch über Leistung und Verhalten ausspricht (Artikel 330a OR).
 
-## 3 Einsatz und Weiterbildung des Arbeitnehmers
+### 3. Abschnitt: Einsatz und Weiterbildung des Arbeitnehmers
 
 #### Artikel 10
 
 **Einsatz**
 
-<sup>1</sup> Der Arbeitnehmer ist seiner Ausbildung und seinen Fähigkeiten gemäss einzusetzen.
+Der Arbeitnehmer ist seiner Ausbildung und seinen Fähigkeiten gemäss einzusetzen.
 
 #### Artikel 11
 
 **Weiterbildung**
 
-<sup>1</sup> Der Besuch von Kursen und Vorträgen zur Aus- und Weiterbildung soll nach Rücksprache mit dem Arbeitgeber im Rahmen des Möglichen gestaltet und gefördert werden.
+Der Besuch von Kursen und Vorträgen zur Aus- und Weiterbildung soll nach Rücksprache mit dem Arbeitgeber im Rahmen des Möglichen gestaltet und gefördert werden.
 
-## 4 Arbeitszeit, Freizeit, Ferien, Urlaub
+### 4. Abschnitt: Arbeitszeit, Freizeit, Ferien, Urlaub
 
 #### Artikel 12
 
@@ -155,7 +176,7 @@ beschliesst:
 
 <sup>2</sup> Wird der Arbeitnehmer verpflichtet, an einem Sonntag zu arbeiten, ist ein zusätzlicher halber Ruhetag zu gewähren.
 
-<sup>3</sup> Als halber Ruhetag gilt die Zeit ab 12:00 Uhr bis zum Beginn der Nachtruhe. An halben Ruhetagen darf die Höchstarbeitszeit nicht mehr als 5 Stunden betragen.
+<sup>3</sup> Als halber Ruhetag gilt die Zeit ab 12.00 Uhr bis zum Beginn der Nachtruhe. An halben Ruhetagen darf die Höchstarbeitszeit nicht mehr als 5 Stunden betragen.
 
 <sup>4</sup> Bei der Festsetzung der Freizeit ist nach Möglichkeit auf die Wünsche des Arbeitnehmers Rücksicht zu nehmen. Mit seiner Zustimmung können mehrere freie Halbtage zusammengelegt werden.
 
@@ -163,9 +184,9 @@ beschliesst:
 
 **Ferien**
 
-<sup>1</sup> Der Arbeitnehmer hat für jedes Arbeitsjahr einen Ferienanspruch von 4 Wochen (28 Kalendertage, Ruhetage inbegriffen, entsprechen 2.33 Kalendertagen pro Monat).
+<sup>1</sup> Der Arbeitnehmer hat für jedes Arbeitsjahr einen Ferienanspruch von 4 Wochen (28 Kalendertage, Ruhetage inbegriffen, entsprechen 2,33 Kalendertagen pro Monat).
 
-<sup>2</sup> Jugendliche bis zum vollendeten 20. Altersjahr und über 50jährige nach 5 Dienstjahren haben für jedes Arbeitsjahr einen Ferienanspruch von 5 Wochen (35 Kalendertage, Ruhetage inbegriffen, entsprechen 2.92 Kalendertagen pro Monat).
+<sup>2</sup> Jugendliche bis zum vollendeten 20. Altersjahr und über 50jährige nach 5 Dienstjahren haben für jedes Arbeitsjahr einen Ferienanspruch von 5 Wochen (35 Kalendertage, Ruhetage inbegriffen, entsprechen 2,92 Kalendertagen pro Monat).
 
 <sup>3</sup> Für ein unvollständiges Arbeitsjahr sind die Ferien entsprechend der Dauer des Arbeitsverhältnisses zu gewähren.
 
@@ -181,13 +202,18 @@ beschliesst:
 
 <sup>1</sup> Der Arbeitnehmer hat bei folgenden Ereignissen Anrecht auf einen Urlaub, ohne dass ihm deswegen der Lohn gekürzt wird oder diese Tage an die Ferien oder Ruhetage angerechnet werden:
 
-- a) drei Tage: eigene Heirat oder Eintragung der eigenen Partnerschaft, Tod des Ehegatten oder des eingetragenen Partners, Tod von Kindern und Eltern
-- b) zwei Tage: Niederkunft der Ehegattin des Arbeitnehmers oder der eingetragenen Partnerin der Arbeitnehmerin
-- c) einen Tag: Hochzeit eines eigenen, Stief- oder Adoptivkindes, eigener Wohnungswechsel, Tod von Geschwistern, Schwiegereltern, Grosseltern oder Schwager
+- a) drei eigene Heirat oder Eintragung der eigenen Partnerschaft, Tage: Tod des Ehegatten oder des eingetragenen Partners, Tod von Kindern und Eltern;[^15-1]
 
-<sup>2</sup> Nach erfolgter Kündigung ist dem Arbeitnehmer zum Aufsuchen einer anderen Arbeitsstelle die erforderliche Zeit als bezahlten Urlaub zu gewähren, höchstens jedoch zwei Tage.
+- b) zwei Niederkunft der Ehegattin des Arbeitnehmers oder der Tage: eingetragenen Partnerin der Arbeitnehmerin;[^15-2]
+
+- c) einen Hochzeit eines eigenen, Stief- oder Adoptivkindes, eigener Tag: Wohnungswechsel, Tod von Geschwistern, Schwiegereltern, Grosseltern oder Schwager.
+
+2 Nach erfolgter Kündigung ist dem Arbeitnehmer zum Aufsuchen einer anderen Arbeitsstelle die erforderliche Zeit als bezahlten Urlaub zu gewähren, höchstens jedoch zwei Tage.
 
 <sup>3</sup> Absatz 1 und 2 dieses Artikels gelten nicht für Teilzeitarbeitnehmer und Aushilfen.
+
+[^15-1]: Fassung gemäss RRB vom 9. Januar 2007, in Kraft gesetzt auf den 1. Februar 2007 (AB vom 19. Januar 2007).
+[^15-2]: Fassung gemäss RRB vom 9. Januar 2007, in Kraft gesetzt auf den 1. Februar 2007 (AB vom 19. Januar 2007).
 
 #### Artikel 16
 
@@ -197,7 +223,7 @@ beschliesst:
 
 <sup>2</sup> Absatz 1 dieses Artikels gilt nicht für Teilzeitarbeitnehmer und Aushilfen.
 
-## 5 Lohn
+### 5. Abschnitt: Lohn
 
 #### Artikel 17
 
@@ -219,7 +245,7 @@ beschliesst:
 
 <sup>2</sup> Dem Arbeitnehmer ist gleichzeitig eine übersichtliche Lohnabrechnung auszuhändigen.
 
-<sup>3</sup> Bei Todesfall des Arbeitnehmers besteht die Lohnzahlungspflicht nach Artikel 338 des Schweizerischen Obligationenrechts.
+3 Bei Todesfall des Arbeitnehmers besteht die Lohnzahlungspflicht nach Artikel 338 des Schweizerischen Obligationenrechts.
 
 #### Artikel 19
 
@@ -233,15 +259,17 @@ beschliesst:
 
 <sup>4</sup> Wird der Arbeitnehmer, der in Hausgemeinschaft mit dem Arbeitgeber lebt, ohne sein Verschulden durch Krankheit oder Unfall an der Arbeitsleistung verhindert, hat der Arbeitgeber ausserdem Pflege und ärztliche Behandlung für eine beschränkte Zeit zu gewähren, im ersten Dienstjahr für drei Wochen und in jedem folgenden Dienstjahr für eine weitere Woche bis zur Höchstdauer von drei Monaten. Bei Schwangerschaft und Niederkunft der Arbeitnehmerin hat der Arbeitgeber die gleichen Leistungen zu erbringen.
 
-## 6 Versicherungen
+### 6. Abschnitt: Versicherungen
 
 #### Artikel 20
 
 **Unfallversicherung**
 
-<sup>1</sup> Der Arbeitgeber hat die Arbeitnehmer nach den Bestimmungen des Bundesgesetzes vom 20. März 1981 über die Unfallversicherung (SR [832.20](https://db.clex.ch/link/Bund/832.20/de)) gegen Berufs- und Nichtberufsunfälle sowie Berufskrankheiten zu versichern. Die Prämien für die Versicherung der Berufsunfälle und ‑krankheiten trägt der Arbeitgeber, jene für die Nichtberufsunfallversicherung der Arbeitnehmer.
+<sup>1</sup> Der Arbeitgeber hat die Arbeitnehmer nach den Bestimmungen des Bundesgesetzes vom 20. März 1981 über die Unfallversicherung[^20-1] gegen Berufs- und Nichtberufsunfälle sowie Berufskrankheiten zu versichern. Die Prämien für die Versicherung der Berufsunfälle und -krankheiten trägt der Arbeitgeber, jene für die Nichtberufsunfallversicherung der Arbeitnehmer.
 
 <sup>2</sup> Arbeitnehmer, deren wöchentliche Arbeitszeit bei einem Arbeitgeber weniger als 12 Stunden beträgt, sind nur für Berufsunfälle zu versichern. Als Berufsunfälle gelten für diese Arbeitnehmer auch Unfälle auf dem Arbeitsweg.
+
+[^20-1]: SR 832.20
 
 #### Artikel 21
 
@@ -249,9 +277,11 @@ beschliesst:
 
 <sup>1</sup> Der Arbeitgeber ist verpflichtet, seine Arbeitnehmer für folgende Leistungen zu versichern:
 
-- a) ärztliche Behandlung und Arznei
-- b) Spitalkosten in der allgemeinen Abteilung der zuständigen öffentlichen Heilanstalt
-- c) ein Krankengeld in der Höhe von 80 Prozent des vereinbarten Bar- und Naturallohnes ab 31. Krankheitstag. Dieses Taggeld wird im Maximum während 720 innerhalb von 900 aufeinanderfolgenden Tagen gewährt
+- a) ärztliche Behandlung und Arznei;
+
+- b) Spitalkosten in der allgemeinen Abteilung der zuständigen öffentlichen Heilanstalt;
+
+- c) ein Krankengeld in der Höhe von 80 Prozent des vereinbarten Bar- und Naturallohnes ab 31. Krankheitstag. Dieses Taggeld wird im Maximum während 720 innerhalb von 900 aufeinanderfolgenden Tagen gewährt.
 
 <sup>2</sup> Absatz 1 dieses Artikels ist für Teilzeitarbeitnehmer und Aushilfen nicht zwingend.
 
@@ -275,7 +305,7 @@ beschliesst:
 
 **Arztzeugnis**
 
-<sup>1</sup> Der Arbeitgeber kann bei Arbeitsverhinderungen, die mehr als drei Tage dauern, vom vierten Tag an ein ärztliches Zeugnis verlangen. Das Zeugnis kann auch bei Wiederaufnahme der Arbeit vorgelegt werden.
+Der Arbeitgeber kann bei Arbeitsverhinderungen, die mehr als drei Tage dauern, vom vierten Tag an ein ärztliches Zeugnis verlangen. Das Zeugnis kann auch bei Wiederaufnahme der Arbeit vorgelegt werden.
 
 #### Artikel 25
 
@@ -289,11 +319,13 @@ beschliesst:
 
 **BVG**
 
-<sup>1</sup> Der Arbeitgeber versichert die der obligatorischen beruflichen Vorsorge unterstellten Arbeitnehmer nach den Bestimmungen des Bundesgesetzes über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (SR [831.4](https://db.clex.ch/link/Bund/831.4/de)) bei einer registrierten Vorsorgeeinrichtung.
+<sup>1</sup> Der Arbeitgeber versichert die der obligatorischen beruflichen Vorsorge unterstellten Arbeitnehmer nach den Bestimmungen des Bundesgesetzes über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge[^26-1] bei einer registrierten Vorsorgeeinrichtung.
 
 <sup>2</sup> Die Beiträge sind je zur Hälfte durch den Arbeitgeber und den Arbeitnehmer zu tragen.
 
-## 7 Treueprämien und Abgangsentschädigung
+[^26-1]: SR 831.4
+
+### 7. Abschnitt: Treueprämien und Abgangsentschädigung
 
 #### Artikel 27
 
@@ -301,8 +333,9 @@ beschliesst:
 
 <sup>1</sup> Den langjährigen Angestellten werden folgende Treueprämien ausgerichtet:
 
-- a) die Hälfte eines Monatslohnes nach 3 Dienstjahren
-- b) ein ganzer Monatslohn nach 5 Dienstjahren
+- a) die Hälfte eines Monatslohnes nach 3 Dienstjahren;
+
+- b) ein ganzer Monatslohn nach 5 Dienstjahren.
 
 <sup>2</sup> Die Höhe der Treueprämie berechnet sich nach dem durchschnittlichen Monatslohn des Bezugsjahres.
 
@@ -312,33 +345,50 @@ beschliesst:
 
 **Abgangsentschädigung**
 
-<sup>1</sup> Für nicht der obligatorischen beruflichen Vorsorge unterstehende Arbeitnehmer oder wenn die zusätzliche Alters-, Hinterbliebenen- und Invalidenversicherung keine mindestens gleichwertige Leistungen erbringt, hat der Arbeitgeber bei Auflösung des Dienstverhältnisses eines mindestens 50 jährigen Angestellten mit 20 oder mehr Dienstjahren im gleichen Haushalt folgende Abgangsentschädigung auszurichten:
+<sup>1</sup> Für nicht der obligatorischen beruflichen Vorsorge unterstehende Arbeitnehmer oder wenn die zusätzliche Alters-, Hinterbliebenen- und Invalidenversicherung keine mindestens gleichwertige Leistungen erbringt, hat der Arbeitgeber bei Auflösung des Dienstverhältnisses eines mindestens 50jährigen Angestellten mit 20 oder mehr Dienstjahren im gleichen Haushalt folgende Abgangsentschädigung auszurichten:
 
-- a) 2 Monatslöhne bei 20–25 Dienstjahren
-- b) 3 Monatslöhne bei 26–30 Dienstjahren
-- c) 4 Monatslöhne bei 31–35 Dienstjahren
-- d) 5 Monatslöhne bei 36–40 Dienstjahren
-- e) 6 Monatslöhne bei über 40 Dienstjahren
+- a) 2 Monatslöhne bei 20 - 25 Dienstjahren;
 
-<sup>2</sup> Die anspruchsberechtigten Monatslöhne verstehen sich in der Höhe des zuletzt bezogenen Lohnes bei voller Arbeitsfähigkeit. Stirbt der Arbeitnehmer während des Arbeitsverhältnisses, ist Artikel 339b Absatz 2 des Schweizerischen Obligationenrechts (SR [220](https://db.clex.ch/link/Bund/220/de)) anwendbar.
+- b) 3 Monatslöhne bei 26 - 30 Dienstjahren;
 
-## 7a Besondere Bestimmungen für 24-Stunden-Betreuung
+- c) 4 Monatslöhne bei 31 - 35 Dienstjahren;
+
+- d) 5 Monatslöhne bei 36 - 40 Dienstjahren;
+
+- e) 6 Monatslöhne bei über 40 Dienstjahren.
+
+<sup>2</sup> Die anspruchsberechtigten Monatslöhne verstehen sich in der Höhe des zuletzt bezogenen Lohnes bei voller Arbeitsfähigkeit. Stirbt der Arbeitnehmer während des Arbeitsverhältnisses, ist Artikel 339b Absatz 2 des Schweizerischen Obligationenrechts[^28-1] anwendbar.
+
+[^28-1]: SR 220
+[^28-2]: Eingefügt durch RRB vom 1. Februar 2022, in Kraft gesetzt auf den 1. Januar 2022 (AB vom 11. Februar 2022).
+
+### 7a. Abschnitt: Besondere Bestimmungen für 24-Stunden-Betreuung
+
+[^28-2]
 
 #### Artikel 28a
 
 **Arbeitsbedingungen**
 
-<sup>1</sup> Arbeitnehmende, die im gleichen privaten Haushalt mit einer zu betreuenden Person wohnen, haben Anspruch:
+Arbeitnehmende, die im gleichen privaten Haushalt mit einer zu betreuenden Person wohnen, haben Anspruch:
 
-- a) auf eine gesunde und ausreichende Verpflegung. Die Arbeitnehmerin oder der Arbeit-nehmer kann verlangen, das eigene Essen selbst zubereiten zu dürfen. Sie oder er hat dafür Anspruch auf Mitbenützung der Küche und der Küchenutensilien
-- b) auf ein abschliessbares Einzelzimmer. Dieses muss:
-  - 1\. den hygienischen Anforderungen entsprechen
-  - 2\. mit Tageslicht und künstlichem Licht gut beleuchtet sein
-  - 3\. gut geheizt und belüftet sein
-  - 4\. ausreichend möbliert sein (u. a. mit Bett, Tisch, Stuhl und Kleiderschrank oder Kommode)
-  - 5\. ausreichend geräumig sein, um auch die vereinbarte Präsenzzeit und die Freizeit darin verbringen zu können
-- c) auf unlimitierte Mitbenützung der sanitären Einrichtungen (Toilette, Badezimmer mit Dusche oder Bad) und auf Mitbenützung der Waschküche
-- d) auf unlimitierten und kostenlosen Internetzugang, bei dem die Privatsphäre der Arbeitnehmerin oder des Arbeitnehmers geschützt bleibt
+- a) auf eine gesunde und ausreichende Verpflegung. Die Arbeitnehmerin oder der Arbeit-nehmer kann verlangen, das eigene Essen selbst zubereiten zu dürfen. Sie oder er hat dafür Anspruch auf Mitbenützung der Küche und der Küchenutensilien;
+
+- b) auf ein abschliessbares Einzelzimmer. Dieses muss
+
+- den hygienischen Anforderungen entsprechen;
+
+- mit Tageslicht und künstlichem Licht gut beleuchtet sein;
+
+- gut geheizt und belüftet sein;
+
+- ausreichend möbliert sein (u. a. mit Bett, Tisch, Stuhl und Kleiderschrank oder Kommode) und
+
+- ausreichend geräumig sein, um auch die vereinbarte Präsenzzeit und die Freizeit darin verbringen zu können;
+
+- c) auf unlimitierte Mitbenützung der sanitären Einrichtungen (Toilette, Badezimmer mit Dusche oder Bad) und auf Mitbenützung der Waschküche und
+
+- d) auf unlimitierten und kostenlosen Internetzugang, bei dem die Privatsphäre der Arbeitnehmerin oder des Arbeitnehmers geschützt bleibt.
 
 #### Artikel 28b
 
@@ -364,7 +414,7 @@ beschliesst:
 
 <sup>1</sup> Den Arbeitnehmenden stehen wöchentlich ein ganzer Tag (24 Stunden) und ein halber Tag à acht Stunden als Freizeit zu. Diese Freizeit muss jede Woche gewährt werden und kann nicht verschoben und zusammengelegt werden.
 
-<sup>2</sup> Während der wöchentlichen Freizeit darf die Arbeitnehmerin oder der Arbeitnehmer das Haus verlassen und steht der zu betreuenden Person nicht zur Verfügung. Die Überwachung der zu betreuenden Person oder die Hilfestellung bei Bedarf muss anderweitig sichergestellt werden (z.B. telefonische Rufbereitschaft durch andere Personen, Anwesenheit von Spitex oder Familienangehörigen usw.).
+<sup>2</sup> Während der wöchentlichen Freizeit darf die Arbeitnehmerin oder der Arbeitnehmer das Haus verlassen und steht der zu betreuenden Person nicht zur Verfügung. Die Überwachung der zu betreuenden Person oder die Hilfestellung bei Bedarf muss anderweitig sichergestellt werden (z. B. telefonische Rufbereitschaft durch andere Personen, Anwesenheit von Spitex oder Familienangehörigen usw.).
 
 #### Artikel 28e
 
@@ -374,7 +424,7 @@ beschliesst:
 
 <sup>2</sup> Die Arbeitnehmerin oder der Arbeitnehmer hat Anspruch auf mindestens zwei Stunden Pause pro Tag. Mussten in der vorhergehenden Nacht mehrere Einsätze geleistet werden, beträgt die Pause mindestens vier Stunden.
 
-<sup>3</sup> Während dem Nachtzeitraum zwischen 23:00 Uhr und 06:00 Uhr besteht Nachtruhe und es wird keine aktive Arbeitszeit geplant.
+<sup>3</sup> Während dem Nachtzeitraum zwischen 23.00 Uhr und 06.00 Uhr besteht Nachtruhe und es wird keine aktive Arbeitszeit geplant.
 
 <sup>4</sup> Das gemeinsame Essen und die im Arbeitsvertrag definierten regelmässigen Aktivitäten mit der zu betreuenden Person gelten als aktive Arbeitszeit.
 
@@ -382,7 +432,9 @@ beschliesst:
 
 **Grundlohn**
 
-<sup>1</sup> Für die Vergütung der aktiven Arbeitszeit gelten die im NAV Hauswirtschaft Bund (SR [221.215.329.4](https://db.clex.ch/link/Bund/221.215.329.4/de)) festgelegten Mindestansätze.
+Für die Vergütung der aktiven Arbeitszeit gelten die im NAV Hauswirtschaft Bund[^28f-1] festgelegten Mindestansätze.
+
+[^28f-1]: SR 221.215.329.4
 
 #### Artikel 28g
 
@@ -390,55 +442,59 @@ beschliesst:
 
 <sup>1</sup> Die Präsenzzeit am Tag wie in der Nacht ist wie folgt zu entlöhnen:
 
-- a) zu 25 Prozent des Stundenlohns, aber mindestens 5 Franken pro Stunde bei zu betreuenden Personen, bei denen es nicht oder nur ausnahmsweise zum Einsatz kommt (weniger als ein Mal pro Nacht, im Durchschnitt pro Monat oder pro Lohnperiode)
-- b) zu 35 Prozent des Stundenlohns, aber mindestens 7 Franken pro Stunde bei regelmässigem Einsatz in der Nacht (ein bis zwei Mal pro Nacht, im Durchschnitt pro Monat oder pro Lohnperiode)
-- c) zu 50 Prozent des Stundenlohns, aber mindestens 10 Franken pro Stunde bei häufigen Einsätzen (mehr als zwei Mal pro Nacht, im Durchschnitt pro Monat oder pro Lohnperiode)
+- a) zu 25 Prozent des Stundenlohns, aber mindestens 5 Franken pro Stunde bei zu betreuenden Personen, bei denen es nicht oder nur ausnahmsweise zum Einsatz kommt (weniger als ein Mal pro Nacht, im Durchschnitt pro Monat oder pro Lohnperiode);
+
+- b) zu 35 Prozent des Stundenlohns, aber mindestens 7 Franken pro Stunde bei regelmässigem Einsatz in der Nacht (ein bis zwei Mal pro Nacht, im Durchschnitt pro Monat oder pro Lohnperiode);
+
+- c) zu 50 Prozent des Stundenlohns, aber mindestens 10 Franken pro Stunde bei häufigen Einsätzen (mehr als zwei Mal pro Nacht, im Durchschnitt pro Monat oder pro Lohnperiode).
 
 <sup>2</sup> Für die Wahl des anwendbaren Ansatzes ist die Anzahl der effektiv geleisteten nächtlichen Einsätze massgebend.
 
-<sup>3</sup> Wenn die Arbeitnehmerin oder der Arbeitnehmer während der Präsenzzeit einen aktiven Arbeitseinsatz tätigt, zählt die entsprechende Zeit als voll zu vergütende aktive Arbeitszeit mit den entsprechenden Zuschlägen.
+3 Wenn die Arbeitnehmerin oder der Arbeitnehmer während der Präsenzzeit einen aktiven Arbeitseinsatz tätigt, zählt die entsprechende Zeit als voll zu vergütende aktive Arbeitszeit mit den entsprechenden Zuschlägen.
 
 #### Artikel 28h
 
 **Abzüge für Naturallohn**
 
-<sup>1</sup> Für tatsächlich erbrachte und ausgewiesene Unterkunft und Verpflegung können maximal die in Artikel 11 der Verordnung über die Alters- und Hinterlassenenversicherung (SR [831.101](https://db.clex.ch/link/Bund/831.101/de)) festgelegten Ansätze in Abzug gebracht werden.
+Für tatsächlich erbrachte und ausgewiesene Unterkunft und Verpflegung können maximal die in Artikel 11 der Verordnung über die Alters- und Hinterlassenenversicherung[^28h-1] festgelegten Ansätze in Abzug gebracht werden.
+
+[^28h-1]: SR 831.101
 
 #### Artikel 28i
 
 **Sozialversicherungen**
 
-<sup>1</sup> Die Arbeitnehmenden sind grundsätzlich den Schweizer Sozialversicherungen unterstellt und beitragspflichtig. Die geschuldeten Sozialversicherungsbeiträge sind von der Arbeitgeberin oder vom Arbeitgeber zu entrichten. Die Unterstellung und die Frage, wer als Arbeitgeberin oder Arbeitgeber gilt, werden vom zuständigen Sozialversicherungsträger im Einzelfall geprüft.
+Die Arbeitnehmenden sind grundsätzlich den Schweizer Sozialversicherungen unterstellt und beitragspflichtig. Die geschuldeten Sozialversicherungsbeiträge sind von der Arbeitgeberin oder vom Arbeitgeber zu entrichten. Die Unterstellung und die Frage, wer als Arbeitgeberin oder Arbeitgeber gilt, werden vom zuständigen Sozialversicherungsträger im Einzelfall geprüft.
 
 #### Artikel 28j
 
 **Nachtarbeitszuschlag**
 
-<sup>1</sup> Für aktive Arbeitsstunden in der Nacht zwischen 23:00 Uhr und 06:00 Uhr ist ein Zuschlag von 25 Prozent geschuldet.
+Für aktive Arbeitsstunden in der Nacht zwischen 23.00 Uhr und 06.00 Uhr ist ein Zuschlag von 25 Prozent geschuldet.
 
 #### Artikel 28k
 
 **Überstundenzuschlag**
 
-<sup>1</sup> Für aktive Arbeitsstunden, welche die vertragliche wöchentliche Arbeitszeit überschreiten, ist ein Zuschlag von 25 Prozent geschuldet.
+Für aktive Arbeitsstunden, welche die vertragliche wöchentliche Arbeitszeit überschreiten, ist ein Zuschlag von 25 Prozent geschuldet.
 
 #### Artikel 28l
 
 **Ferienlohn**
 
-<sup>1</sup> Der Ferienlohn wird bei einem Ferienanspruch von vier Wochen pro Arbeitsjahr mit 8.33 Prozent vom Grundlohn berechnet. Bei einem Ferienanspruch von fünf Wochen beträgt der Ferienlohn 10.64 Prozent. Der Ferienlohn umfasst die Vergütung für Arbeitszeit und Präsenzzeit, inklusive Nachtarbeits- und Überstundenzuschläge.
+Der Ferienlohn wird bei einem Ferienanspruch von vier Wochen pro Arbeitsjahr mit 8,33 Prozent vom Grundlohn berechnet. Bei einem Ferienanspruch von fünf Wochen beträgt der Ferienlohn 10,64 Prozent. Der Ferienlohn umfasst die Vergütung für Arbeitszeit und Präsenzzeit, inklusive Nachtarbeits- und Überstundenzuschläge.
 
 #### Artikel 28m
 
 **Lohnfortzahlung bei Arbeitsunfähigkeit**
 
-<sup>1</sup> Die Lohnfortzahlung bei Arbeitsunfähigkeit ist unabhängig von der vereinbarten Dauer des Arbeitsvertrags ab Vertragsbeginn geschuldet. Im Übrigen gelten Artikel 324a und 324b OR.
+Die Lohnfortzahlung bei Arbeitsunfähigkeit ist unabhängig von der vereinbarten Dauer des Arbeitsvertrags ab Vertragsbeginn geschuldet. Im Übrigen gelten Artikel 324a und 324b OR.
 
 #### Artikel 28n
 
 **Reisekosten**
 
-<sup>1</sup> Die Kosten für die erstmalige Anreise vom Wohnort an den Einsatzort nach den vereinbarten Modalitäten und dem abgemachten Transportmittel sind durch die Arbeitgeberin oder den Arbeitgeber zu bezahlen. Sie dürfen nicht vom Lohn in Abzug gebracht werden.
+Die Kosten für die erstmalige Anreise vom Wohnort an den Einsatzort nach den vereinbarten Modalitäten und dem abgemachten Transportmittel sind durch die Arbeitgeberin oder den Arbeitgeber zu bezahlen. Sie dürfen nicht vom Lohn in Abzug gebracht werden.
 
 #### Artikel 28o
 
@@ -460,35 +516,34 @@ beschliesst:
 
 <sup>3</sup> Falls eine Kündigung des befristeten Arbeitsverhältnisses vorgesehen ist, gelten die folgenden Regeln:
 
-- a) Die Probezeit beträgt eine Woche, falls eine Vertragsdauer von weniger als drei Monaten vereinbart wurde, und zwei Wochen, falls die Vertragsdauer weniger als sechs Monate beträgt
-- b) Der Kündigungsschutz zu Unzeit ist auch während der Probezeit anwendbar
+- a) Die Probezeit beträgt eine Woche, falls eine Vertragsdauer von weniger als drei Monaten vereinbart wurde, und zwei Wochen, falls die Vertragsdauer weniger als sechs Monate beträgt;
+
+- b) Der Kündigungsschutz zu Unzeit ist auch während der Probezeit anwendbar.
 
 <sup>4</sup> Beim Tod oder einer Heimeinweisung der zu betreuenden Person erlischt das Arbeitsverhältnis nach 30 Tagen seit diesem Ereignis.
 
-## 8 Schlussbestimmungen
+### 8. Abschnitt: Schlussbestimmungen
 
 #### Artikel 29
 
-**Aushändigung des NAV**
-
-<sup>1</sup> Der Arbeitgeber übergibt dem Arbeitnehmer bei Vertragsabschluss ein Exemplar dieses Normalarbeitsvertrages.
+Aushändigung des NAV Der Arbeitgeber übergibt dem Arbeitnehmer bei Vertragsabschluss ein Exemplar dieses Normalarbeitsvertrages.
 
 #### Artikel 30
 
 **Streitigkeiten**
 
-<sup>1</sup> Klagen aus diesem Normalarbeitsvertrag können beim Präsidenten des entsprechenden Landgerichts eingereicht werden.
+Klagen aus diesem Normalarbeitsvertrag können beim Präsidenten des entsprechenden Landgerichts eingereicht werden.
 
 #### Artikel 31
 
-**Aufhebung bisherigen Rechts**
-
-<sup>1</sup> Der Normalarbeitsvertrag für hauswirtschaftliche Arbeitnehmer vom 14. Mai 1973 wird aufgehoben.
+Aufhebung bisherigen Rechts Der Normalarbeitsvertrag für hauswirtschaftliche Arbeitnehmer vom 14. Mai 1973<sup>19</sup> wird aufgehoben.
 
 #### Artikel 32
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Reglement tritt am 1. Oktober 1988 in Kraft.
+Dieses Reglement tritt am 1. Oktober 1988 in Kraft.
 
-AB 16.09.1988
+Im Namen des Regierungsrates
+
+Der Landammann: Carlo Dittli Der Kanzleidirektor: Dr. Peter Huber
