@@ -1,29 +1,35 @@
 ---
 canton: UR
 number: "10.5101"
-title: Gesetz über den Natur- und Heimatschutz
+title: GESETZ über den Natur- und Heimatschutz
 language: de
 version: 2008-01-01
+corrected: 2025-08-19
 version_adopted: 2007-11-25
 adopted: 1987-10-18
 in_force: 1988-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.5101"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/925/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/348/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über den Natur- und Heimatschutz
+# GESETZ über den Natur- und Heimatschutz
 
-Vom 18.10.1987 (Stand 01.01.2008)
+GESETZ über den Natur- und Heimatschutz
 
-Das Volk des Kantons Uri,
+(vom 18. Oktober 1987[^t-1]; Stand am 1. Januar 2008)
 
-gestützt auf Artikel 24 Buchstabe b der Kantonsverfassung (RB [1.1101](https://rechtsbuch.ur.ch/data/1.1101/de)) sowie auf Artikel 702 und 724 des Schweizerischen Zivilgesetzbuches (SR [210](https://db.clex.ch/link/Bund/210/de)),
+Das Volk des Kantons Uri, gestützt auf Artikel 24 Buchstabe b der Kantonsverfassung[^t-2] sowie auf Artikel 702 und 724 des Schweizerischen Zivilgesetzbuches[^t-3],
 
 beschliesst:
 
-## 1 Geltungsbereich und Zweck
+[^t-1]: AB vom 28. August 1987
+[^t-2]: RB 1.1101
+[^t-3]: SR 210
+
+### 1. Kapitel: GELTUNGSBEREICH UND ZWECK
 
 #### Artikel 1
 
@@ -31,13 +37,11 @@ beschliesst:
 
 <sup>2</sup> Darüber hinaus regelt das Gesetz den Schutz wildwachsender Pflanzen, deren Lebensraum und den Lebensraum freilebender Tiere.
 
-## 2 Allgemeine Verhaltenspflichten
+### 2. Kapitel: ALLGEMEINE VERHALTENSPFLICHTEN
 
 #### Artikel 2
 
-**Grundsatz**
-
-<sup>1</sup> Jedermann hat Schutzobjekte im Sinne von Artikel 1 zu schonen und zum Lebensraum von Mensch, Tier und Pflanze Sorge zu tragen.
+Grundsatz Jedermann hat Schutzobjekte im Sinne von Artikel 1 zu schonen und zum Lebensraum von Mensch, Tier und Pflanze Sorge zu tragen.
 
 #### Artikel 3
 
@@ -47,9 +51,9 @@ beschliesst:
 
 <sup>2</sup> Zu diesem Zweck können sie Schutzmassnahmen treffen und Bewilligungen, Genehmigungen, Beiträge, Konzessionen und dergleichen an entsprechende Bedingungen und Auflagen knüpfen oder verweigern.
 
-## 3 Schutzmassnahmen
+### 3. Kapitel: SCHUTZMASSNAHMEN
 
-### 3.1 Voraussetzungen und Inhalt
+### 1. Abschnitt: Voraussetzungen und Inhalt
 
 #### Artikel 4
 
@@ -65,40 +69,47 @@ beschliesst:
 
 **Inhalt**
 
-<sup>1</sup> Alle Schutzmassnahmen müssen:
+Alle Schutzmassnahmen müssen:
 
-- a) das Schutzobjekt bezeichnen
-- b) die Schutzziele festlegen
-- c) die Schutzbestimmungen enthalten
+- a) das Schutzobjekt bezeichnen;
+
+- b) die Schutzziele festlegen;
+
+- c) die Schutzbestimmungen enthalten.
 
 #### Artikel 6
 
-**Schutzobjekte: Gegenstand**
+**Schutzobjekte**
+
+- a) Gegenstand
 
 <sup>1</sup> Schutzobjekte sind:
 
-- a) Gebiete, die grössere Landflächen umfassen oder bauliche wie natürliche Gesamterscheinungen darstellen, deren Schutzwürdigkeit sich weniger aus dem Wert ihrer Bestandteile, als vielmehr aus deren Zusammenwirken zu einem charakteristischen Ganzen ergibt
-- b) Einzelobjekte, deren Schutzwürdigkeit sich aus ihrer Bedeutung ergibt
+- a) Gebiete, die grössere Landflächen umfassen oder bauliche wie natürliche Gesamterscheinungen darstellen, deren Schutzwürdigkeit sich weniger aus dem Wert ihrer Bestandteile, als vielmehr aus deren Zusammenwirken zu einem charakteristischen Ganzen ergibt;
+
+- b) Einzelobjekte, deren Schutzwürdigkeit sich aus ihrer Bedeutung ergibt.
 
 <sup>2</sup> Als schutzwürdige Gebiete gelten namentlich Erholungsräume, wertvolle Ortsbilder, Fluss- und Seeufer, naturnahe Landschaften und wichtige Lebensräume für Tiere und Pflanzen.
 
 <sup>3</sup> Zu den schutzwürdigen Einzelobjekten gehören neben Fahrnisgegenständen auch Natur- und Kulturdenkmäler, wie Gewässerpartien, einzelne Bäume und Baumbestände, Kleinbiotope und Aussichtspunkte sowie Baudenkmäler, einzelne Gebäudeteile, historische Stätten, archäologische Fundzonen und dergleichen. Wenn die Bedeutung des schutzwürdigen Objektes es rechtfertigt, kann auch dessen Umgebung unter Schutz gestellt werden.
 
-#### Artikel 7
+#### Artikel 7 b
 
-**Schutzobjekte: Gliederung**
+**) Gliederung**
 
-<sup>1</sup> Die Schutzobjekte werden gegliedert in solche von:
+Die Schutzobjekte werden gegliedert in solche von:
 
-- a) nationaler Bedeutung
-- b) regionaler Bedeutung
-- c) lokaler Bedeutung
+- a) nationaler Bedeutung;
+
+- b) regionaler Bedeutung;
+
+- c) lokaler Bedeutung.
 
 #### Artikel 8
 
 **Schutzziele**
 
-<sup>1</sup> Die Schutzziele sind nach dem Zweck dieses Gesetzes auszurichten.
+Die Schutzziele sind nach dem Zweck dieses Gesetzes auszurichten.
 
 #### Artikel 9
 
@@ -108,7 +119,7 @@ beschliesst:
 
 <sup>2</sup> Das Enteignungsrecht bleibt als äusserste Schutzmassnahme vorbehalten.
 
-### 3.2 Erlass von Schutzmassnahmen
+### 2. Abschnitt: Erlass von Schutzmassnahmen
 
 #### Artikel 10
 
@@ -124,19 +135,23 @@ beschliesst:
 
 **Verfahren**
 
-<sup>1</sup> Schutzmassnahmen für ein Gebiet sind nach den Vorschriften des Baugesetzes (RB [40.1111](https://rechtsbuch.ur.ch/data/40.1111/de)) über den Erlass von Quartierplänen oder als Bestandteil eines Zonenplanes zu treffen.
+<sup>1</sup> Schutzmassnahmen für ein Gebiet sind nach den Vorschriften des Baugesetzes[^11-1] über den Erlass von Quartierplänen oder als Bestandteil eines Zonenplanes zu treffen.
 
-<sup>2</sup> Schutzmassnahmen für einzelne Objekte werden durch Verfügung nach der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)) getroffen.
+<sup>2</sup> Schutzmassnahmen für einzelne Objekte werden durch Verfügung nach der Verordnung über die Verwaltungsrechtspflege[^11-2] getroffen.[^11-3]
 
 <sup>3</sup> Bis das Verfahren rechtskräftig abgeschlossen ist, können Schutzmassnahmen für zwei Jahre vorsorglich wirksam erklärt werden. Die vorsorgliche Wirkung kann längstens um ein Jahr verlängert werden.
+
+[^11-1]: RB 40.1111
+[^11-2]: RB 2.2345
+[^11-3]: Fassung gemäss LRB vom 23. März 1994, in Kraft gesetzt auf den 1. Juni 1995 (AB vom 8. April 1994).
 
 #### Artikel 12
 
 **Anmerkung im Grundbuch**
 
-<sup>1</sup> Schutzmassnahmen, die nicht Fahrnis betreffen, sind mit den für sie geltenden Schutzzielen und Schutzbestimmungen als öffentlich-rechtliche Eigentumsbeschränkungen im Sinne von Artikel 962 des Schweizerischen Zivilgesetzbuches im Grundbuch anzumerken.
+Schutzmassnahmen, die nicht Fahrnis betreffen, sind mit den für sie geltenden Schutzzielen und Schutzbestimmungen als öffentlich-rechtliche Eigentumsbeschränkungen im Sinne von Artikel 962 des Schweizerischen Zivilgesetzbuches im Grundbuch anzumerken.
 
-### 3.3 Wirkung der Schutzmassnahmen
+### 3. Abschnitt: Wirkung der Schutzmassnahmen
 
 #### Artikel 13
 
@@ -144,7 +159,7 @@ beschliesst:
 
 <sup>1</sup> Massnahmen, die ein Schutzobjekt nachhaltig verändern, sind bewilligungspflichtig.
 
-<sup>2</sup> Die Bewilligung ist zu erteilen, wenn die angestrebten Massnahmen den Schutzzielen und den Schutzbestimmungen für das betreffende Schutzobjekt nicht widersprechen und keine anderen Vorschriften des eidgenössischen und kantonalen Rechts verletzen.
+2 Die Bewilligung ist zu erteilen, wenn die angestrebten Massnahmen den Schutzzielen und den Schutzbestimmungen für das betreffende Schutzobjekt nicht widersprechen und keine anderen Vorschriften des eidgenössischen und kantonalen Rechts verletzen.
 
 #### Artikel 14
 
@@ -152,9 +167,7 @@ beschliesst:
 
 <sup>1</sup> Betrifft die beabsichtigte Massnahme ein Schutzobjekt von nationaler oder von regionaler Bedeutung, erteilt der Regierungsrat die Bewilligung, andernfalls die Gemeinde.
 
-<sup>2</sup> Bewilligungen der Gemeinde sind der zuständigen Direktion[^Artikel14-1] mitzuteilen. Dieser steht das Recht zu, den Entscheid beim Regierungsrat mit Verwaltungsbeschwerde anzufechten.
-
-[^Artikel14-1]: Justizdirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+<sup>2</sup> Bewilligungen der Gemeinde sind der zuständigen Direktion<sup>7</sup> mitzuteilen. Dieser steht das Recht zu, den Entscheid beim Regierungsrat mit Verwaltungsbeschwerde anzufechten.
 
 #### Artikel 15
 
@@ -168,65 +181,66 @@ beschliesst:
 
 **Heimschlagsrecht**
 
-<sup>1</sup> Der Eigentümer des unter Schutz gestellten Objektes kann verlangen, dass es vom Gemeinwesen, das die Schutzmassnahme getroffen hat, erworben werde, wenn ihn die Schutzverfügung wie eine Enteignung trifft. Der Erwerbspreis entspricht der Enteignungsentschädigung, die nach den Regeln des Enteignungsverfahrens (RB [3.3211](https://rechtsbuch.ur.ch/data/3.3211/de)) zu ermitteln ist.
+Der Eigentümer des unter Schutz gestellten Objektes kann verlangen, dass es vom Gemeinwesen, das die Schutzmassnahme getroffen hat, erworben werde, wenn ihn die Schutzverfügung wie eine Enteignung trifft. Der Erwerbspreis entspricht der Enteignungsentschädigung, die nach den Regeln des Enteignungsverfahrens[^16-1] zu ermitteln ist.
 
-### 3.4 Schutzverzeichnisse
+[^16-1]: RB 3.3211
+
+### 4. Abschnitt: Schutzverzeichnisse
 
 #### Artikel 17
 
-**Kantonales Schutzinventar: Inhalt**
+**Kantonales Schutzinventar**
+
+- a) Inhalt
 
 <sup>1</sup> Der Regierungsrat erlässt ein kantonales Inventar jener Schutzobjekte, die er als schutzwürdig erachtet.
 
-<sup>2</sup> Schutzobjekte, die in einem vom Bund erlassenen Inventar aufgeführt sind, gelten ohne weiteres als Bestandteil des kantonalen Inventars und sind im kantonalen Verzeichnis aufzunehmen.
+2 Schutzobjekte, die in einem vom Bund erlassenen Inventar aufgeführt sind, gelten ohne weiteres als Bestandteil des kantonalen Inventars und sind im kantonalen Verzeichnis aufzunehmen.
 
 <sup>3</sup> Das kantonale Schutzinventar ist nicht abschliessend. Es kann jederzeit ergänzt oder geändert werden.
 
-#### Artikel 18
+#### Artikel 18 b
 
-**Kantonales Schutzinventar: Verfahren**
+**) Verfahren**
 
 <sup>1</sup> Bevor ein Schutzobjekt in das kantonale Schutzinventar aufgenommen oder daraus gestrichen wird, sind der Eigentümer und die betreffende Gemeinde anzuhören. Schutzobjekte, die in einem Bundesinventar aufgeführt sind, werden jedoch ohne weiteres in das kantonale Schutzinventar aufgenommen.
 
 <sup>2</sup> Das kantonale Schutzinventar und dessen Änderungen sind im Amtsblatt zu veröffentlichen.
 
-#### Artikel 19
+#### Artikel 19 c
 
-**Kantonales Schutzinventar: Wirkung**
+**) Wirkung**
 
 <sup>1</sup> Das Schutzinventar hat hinweisenden Charakter.
 
 <sup>2</sup> Es dient den zuständigen Behörden als Grundlage, um allfällige Schutzmassnahmen nach diesem Gesetz zu treffen.
 
-<sup>3</sup> Soll ein Schutzobjekt, das zwar im Schutzinventar enthalten ist, für das aber keine Schutzmassnahmen getroffen worden sind, nachhaltig verändert werden, hat die Gemeinde das der zuständigen Direktion[^Artikel19-1] vor der Veränderung des Schutzobjektes zu melden.
+<sup>3</sup> Soll ein Schutzobjekt, das zwar im Schutzinventar enthalten ist, für das aber keine Schutzmassnahmen getroffen worden sind, nachhaltig verändert werden, hat die Gemeinde das der zuständigen Direktion[^19c-1] vor der Veränderung des Schutzobjektes zu melden.
 
-[^Artikel19-1]: Justizdirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^19c-1]: Justizdirektion; siehe Organisationsreglement (RB 2.3322).
 
 #### Artikel 20
 
 **Verzeichnis der Schutzmassnahmen**
 
-<sup>1</sup> Die zuständige Direktion[^Artikel20-1] führt ein Verzeichnis aller rechtskräftigen Schutzmassnahmen. Sie veröffentlicht das Verzeichnis und dessen Änderungen im Amtsblatt.
+<sup>1</sup> Die zuständige Direktion[^20-1] führt ein Verzeichnis aller rechtskräftigen Schutzmassnahmen. Sie veröffentlicht das Verzeichnis und dessen Änderungen im Amtsblatt.
 
-<sup>2</sup> Die Gemeinden melden der zuständigen Direktion[^Artikel20-2] unverzüglich die Schutzmassnahmen, die sie getroffen haben.
+<sup>2</sup> Die Gemeinden melden der zuständigen Direktion[^20-2] unverzüglich die Schutzmassnahmen, die sie getroffen haben.
 
-[^Artikel20-1]: Justizdirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
-[^Artikel20-2]: Justizdirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^20-1]: Justizdirektion; siehe Organisationsreglement (RB 2.3322).
+[^20-2]: Justizdirektion; siehe Organisationsreglement (RB 2.3322).
 
-### 3.5 Historische Funde
+### 5. Abschnitt: Historische Funde
 
 #### Artikel 21
 
 **Bewilligungs- und Anzeigepflicht**
 
-<sup>1</sup> Ausgrabungen von historisch und naturwissenschaftlich bedeutsamen Objekten bedürfen der Bewilligung der zuständigen Direktion[^Artikel21-1], welche die entsprechenden Bedingungen und Auflagen aufstellt.
+<sup>1</sup> Ausgrabungen von historisch und naturwissenschaftlich bedeutsamen Objekten bedürfen der Bewilligung der zuständigen Direktion<sup>12</sup>, welche die entsprechenden Bedingungen und Auflagen aufstellt.
 
-<sup>2</sup> Wissenschaftliche Funde im Sinne von Artikel 724 ZGB sind der zuständigen Direktion[^Artikel21-2] sofort anzuzeigen. Der Fundort darf nicht verändert werden, bis er sachverständig untersucht worden ist. Der Regierungsrat trifft die erforderlichen Entscheidungen.
+<sup>2</sup> Wissenschaftliche Funde im Sinne von Artikel 724 ZGB sind der zuständigen Direktion<sup>13</sup> sofort anzuzeigen. Der Fundort darf nicht verändert werden, bis er sachverständig untersucht worden ist. Der Regierungsrat trifft die erforderlichen Entscheidungen.
 
-[^Artikel21-1]: Justizdirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
-[^Artikel21-2]: Justizdirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
-
-## 4 Organisation
+### 4. Kapitel: ORGANISATION
 
 #### Artikel 22
 
@@ -234,7 +248,7 @@ beschliesst:
 
 <sup>1</sup> Die Gemeinde trägt die Verantwortung für einen wirksamen Natur- und Heimatschutz, soweit es sich um Schutzobjekte von lokaler Bedeutung handelt.
 
-<sup>2</sup> Für Schutzobjekte von regionaler und nationaler Bedeutung kann sie dem Regierungsrat Schutzmassnahmen beantragen.
+2 Für Schutzobjekte von regionaler und nationaler Bedeutung kann sie dem Regierungsrat Schutzmassnahmen beantragen.
 
 <sup>3</sup> Wo dieses Gesetz die Gemeinden zuständig erklärt, ist der Gemeinderat berechtigt und verpflichtet, zu handeln. Die Gemeindesatzung kann hiefür ein anderes Gemeindeorgan bestimmen.
 
@@ -246,20 +260,21 @@ beschliesst:
 
 <sup>2</sup> Er ist verantwortlich für Schutzobjekte von regionaler und nationaler Bedeutung.
 
-<sup>3</sup> Der Regierungsrat ist die zuständige kantonale Behörde im Sinne der Bundesgesetzgebung über den Natur- und Heimatschutz (SR [451.1](https://db.clex.ch/link/Bund/451.1/de)).
+<sup>3</sup> Der Regierungsrat ist die zuständige kantonale Behörde im Sinne der Bundesgesetzgebung über den Natur- und Heimatschutz[^23-1].
+
+[^23-1]: SR 451.1
 
 #### Artikel 24
 
 **Zuständige Direktion**
 
-<sup>1</sup> Die zuständige Direktion[^Artikel24-1] übt die unmittelbare Aufsicht aus über den Natur- und Heimatschutz in den Gemeinden.
+<sup>1</sup> Die zuständige Direktion[^24-1] übt die unmittelbare Aufsicht aus über den Natur- und Heimatschutz in den Gemeinden.
 
 <sup>2</sup> Sie sorgt für die Koordination der Schutzmassnahmen, die mehrere Gemeinden berühren, sowie für die Verbindung und Zusammenarbeit mit den eidgenössischen und kantonalen Amtsstellen und Kommissionen für Natur- und Heimatschutz.
 
-<sup>3</sup> Die zuständige Direktion[^Artikel24-2] beantragt dem Regierungsrat jene Schutzmassnahmen, für die er zuständig ist.
+<sup>3</sup> Die zuständige Direktion<sup>16</sup> beantragt dem Regierungsrat jene Schutzmassnahmen, für die er zuständig ist.
 
-[^Artikel24-1]: Justizdirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
-[^Artikel24-2]: Justizdirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^24-1]: Justizdirektion; siehe Organisationsreglement (RB 2.3322).
 
 #### Artikel 25
 
@@ -267,12 +282,11 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat bestellt als beratendes Organ die kantonale Natur- und Heimatschutzkommission, die aus mindestens sieben Mitgliedern besteht.
 
-<sup>2</sup> Er bezeichnet den Präsidenten. Im übrigen konstituiert sich die Kommission selbst. Die zuständige Direktion[^Artikel25-1] führt das Sekretariat.
+<sup>2</sup> Er bezeichnet den Präsidenten. Im übrigen konstituiert sich die Kommission selbst. Die zuständige Direktion<sup>17</sup> führt das Sekretariat.
 
-<sup>3</sup> Die kantonale Natur- und Heimatschutzkommission wirkt mit bei der Aufklärung, Information und Förderung des Verständnisses für die Belange des Natur- und Heimatschutzes. Sie berät den Regierungsrat, die zuständige Direktion[^Artikel25-2] und die Gemeinden in Fragen des Natur- und Heimatschutzes. Soweit tunlich und möglich kann sie auch Private beraten.
+<sup>3</sup> Die kantonale Natur- und Heimatschutzkommission wirkt mit bei der Aufklärung, Information und Förderung des Verständnisses für die Belange des Natur- und Heimatschutzes. Sie berät den Regierungsrat, die zuständige Direktion[^25-1] und die Gemeinden in Fragen des Natur- und Heimatschutzes. Soweit tunlich und möglich kann sie auch Private beraten.
 
-[^Artikel25-1]: Justizdirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
-[^Artikel25-2]: Justizdirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^25-1]: Justizdirektion; siehe Organisationsreglement (RB 2.3322).
 
 #### Artikel 26
 
@@ -284,23 +298,25 @@ beschliesst:
 
 <sup>3</sup> Besondere Anstrengungen sind darauf zu richten, bei der Jugend den Sinn für die Natur- und Kulturwerte zu wecken.
 
-## 5 Pflanzenschutz
+### 5. Kapitel: PFLANZENSCHUTZ
 
 #### Artikel 27
 
 **Geschützte Pflanzen**
 
-<sup>1</sup> Im Rahmen des Bundesrechts bezeichnet der Regierungsrat die geschützten Pflanzenarten und Pflanzengesellschaften (RB [10.5121](https://rechtsbuch.ur.ch/data/10.5121/de)).
+<sup>1</sup> Im Rahmen des Bundesrechts bezeichnet der Regierungsrat die geschützten Pflanzenarten und Pflanzengesellschaften[^27-1].
 
-<sup>2</sup> Er erlässt Ausführungsbestimmungen[^Artikel27-1], trifft die erforderlichen Schutzanordnungen und sorgt dafür, dass die geschützten Pflanzenarten in geeigneter Weise veröffentlicht werden.
+<sup>2</sup> Er erlässt Ausführungsbestimmungen<sup>20</sup>, trifft die erforderlichen Schutzanordnungen und sorgt dafür, dass die geschützten Pflanzenarten in geeigneter Weise veröffentlicht werden.
 
-[^Artikel27-1]: Justizdirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^27-1]: RB 10.5121
 
 #### Artikel 28
 
 **Verhaltensregeln**
 
-<sup>1</sup> Es ist verboten, geschützte Pflanzen zu pflücken, auszureissen oder auszugraben, sofern sie nicht künstlich gepflanzt worden sind. Vorschriften des Bundesrechts (SR [451451.1](https://db.clex.ch/link/Bund/451451.1/de)) bleiben vorbehalten.
+Es ist verboten, geschützte Pflanzen zu pflücken, auszureissen oder auszugraben, sofern sie nicht künstlich gepflanzt worden sind. Vorschriften des Bundesrechts[^28-1] bleiben vorbehalten.
+
+[^28-1]: SR 451451.1
 
 #### Artikel 29
 
@@ -310,21 +326,22 @@ beschliesst:
 
 <sup>2</sup> Übertretungen haben sie der Polizei anzuzeigen.
 
-## 6 Finanzielle Bestimmungen
+### 6. Kapitel: FINANZIELLE BESTIMMUNGEN
 
-#### Artikel 30
-
-**Kantonsbeiträge**
+Artikel 30[^h6KapitelFINANZIE-1] Kantonsbeiträge
 
 <sup>1</sup> Um die Ziele dieses Gesetzes zu erreichen, kann der Kanton den Gemeinden und Privaten finanzielle Beiträge leisten oder mit ihnen Programmvereinbarungen abschliessen.
 
 <sup>2</sup> Die Höhe der Beiträge richtet sich nach der Bedeutung der Schutzobjekte.
 
-<sup>3</sup> Wenn deren besondere Leistungen es rechtfertigen, kann der Kanton private Natur- und Heimatschutzorganisationen finanziell unterstützen.
+<sup>3</sup> Wenn deren besondere Leistungen es rechtfertigen, kann der Kanton private Natur- und Heimatschutzorganisationen finanziell unterstützen
 
-<sup>4</sup> Kredite für solche Beiträge unterstehen den Finanzkompetenzen der Kantonsverfassung und den Bestimmungen der Finanzhaushaltsverordnung (RB [3.2111](https://rechtsbuch.ur.ch/data/3.2111/de)), sofern sie nicht aus dem Natur- und Heimatschutzfonds oder im Rahmen von Programmvereinbarungen geleistet werden.
+<sup>4</sup> Kredite für solche Beiträge unterstehen den Finanzkompetenzen der Kantonsverfassung und den Bestimmungen der Finanzhaushaltsverordnung[^h6KapitelFINANZIE-2], sofern sie nicht aus dem Natur- und Heimatschutzfonds oder im Rahmen von Programmvereinbarungen geleistet werden.
 
-<sup>5</sup> Entfällt der Schutzzweck oder wird der Zweck der Schutzmassnahme nachträglich vereitelt, sind die Kantonsbeiträge zurückzuerstatten. In Härtefällen kann der Regierungsrat davon ganz oder teilweise absehen.
+<sup>5</sup> Entfällt der Schutzzweck oder wird der Zweck der Schutzmassnahme nachträglich vereitelt, sind die Kantonsbeiträge zurückzuerstatten. In Härtefällen kann der Regierungsrat davon ganz oder teilweise absehen
+
+[^h6KapitelFINANZIE-1]: Fassung gemäss VA vom 25. November 2007, in Kraft gesetzt auf den 1. Januar 2008 (AB vom 19. Oktober 2007).
+[^h6KapitelFINANZIE-2]: RB 3.2111
 
 #### Artikel 31
 
@@ -336,17 +353,22 @@ beschliesst:
 
 <sup>3</sup> Der Regierungsrat verfügt über die Mittel des Fonds.
 
-## 7 Rechtsschutz, Verwaltungszwang, Strafen
+### 7. Kapitel: RECHTSSCHUTZ, VERWALTUNGSZWANG, STRAFEN
 
 #### Artikel 32
 
 **Rechtsschutz**
 
-<sup>1</sup> Vorbehältlich besonderer Bestimmungen richtet sich der Rechtsschutz gegen Verfügungen und Anordnungen aufgrund dieses Gesetzes nach der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)).
+<sup>1</sup> Vorbehältlich besonderer Bestimmungen richtet sich der Rechtsschutz gegen Verfügungen und Anordnungen aufgrund dieses Gesetzes nach der Verordnung über die Verwaltungsrechtspflege[^32-1].[^32-2]
 
-<sup>2</sup> Soweit gegen Schutzmassnahmen nach Artikel 11 Absatz 1 Einsprache, Verwaltungsbeschwerde oder Verwaltungsgerichtsbeschwerde zulässig ist, steht das Einsprache- und Beschwerderecht auch kantonalen Natur- und Heimatschutzorganisationen zu, welche als juristische Person mit Sitz im Kanton Uri sich statutengemäss zur Hauptsache dem Natur- und Heimatschutz widmen und mindestens zehn Jahre vor der Einreichung der Einsprache oder der Beschwerde gegründet wurden.
+2 Soweit gegen Schutzmassnahmen nach Artikel 11 Absatz 1 Einsprache, Verwaltungsbeschwerde oder Verwaltungsgerichtsbeschwerde zulässig ist, steht das Einsprache- und Beschwerderecht auch kantonalen Natur- und Heimatschutzorganisationen zu, welche als juristische Person mit Sitz im Kanton Uri sich statutengemäss zur Hauptsache dem Natur- und Heimatschutz widmen und mindestens zehn Jahre vor der Einreichung der Einsprache oder der Beschwerde gegründet wurden.[^32-3]
 
-<sup>3</sup> Für das Verfahren bei Enteignungen gelten die Bestimmungen des Gesetzes über die Enteignung (RB [3.3211](https://rechtsbuch.ur.ch/data/3.3211/de)).
+<sup>3</sup> Für das Verfahren bei Enteignungen gelten die Bestimmungen des Gesetzes über die Enteignung[^32-4].
+
+[^32-1]: RB 2.2345
+[^32-2]: Fassung gemäss LRB vom 23. März 1994, in Kraft gesetzt auf den 1. Juni 1995 (AB vom 16. April 1992).
+[^32-3]: Fassung gemäss VA vom 17. Mai 1992, in Kraft gesetzt auf den 1. Juni 1995 (AB vom 16. April 1992).
+[^32-4]: RB 3.3211
 
 #### Artikel 33
 
@@ -358,54 +380,60 @@ beschliesst:
 
 <sup>3</sup> Zuständig hiefür ist die Gemeinde oder der Regierungsrat, je nachdem, wer die verletzte oder bedrohte Schutzmassnahme getroffen hat.
 
-<sup>4</sup> In dringlichen Fällen kann die zuständige Direktion[^Artikel33-1] solche Verfügungen erlassen.
+<sup>4</sup> In dringlichen Fällen kann die zuständige Direktion[^33-1] solche Verfügungen erlassen.
 
-<sup>5</sup> Im übrigen richten sich die Massnahmen des Verwaltungszwangs nach der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)).
+<sup>5</sup> Im übrigen richten sich die Massnahmen des Verwaltungszwangs nach der Verordnung über die Verwaltungsrechtspflege[^33-2].[^33-3]
 
-[^Artikel33-1]: Justizdirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^33-1]: Justizdirektion; siehe Organisationsreglement (RB 2.3322).
+[^33-2]: RB 2.2345
+[^33-3]: Fassung gemäss LRB vom 23. März 1994, in Kraft gesetzt auf den 1. Juni 1995 (AB vom 8. April 1992).
 
 #### Artikel 34
 
 **Strafen**
 
-<sup>1</sup> Mit Busse bis zu 5'000 Franken wird bestraft, wer vorsätzlich oder grobfahrlässig:
+<sup>1</sup> Mit Busse bis zu 5 000 Franken wird bestraft, wer vorsätzlich oder grobfahrlässig:
 
-- a) Schutzmassnahmen zuwiderhandelt
-- b) die Bestimmungen über den Pflanzenschutz missachtet
-- c) die Bewilligungs- und Anzeigepflicht nach Artikel 21 verletzt
+- a) Schutzmassnahmen zuwiderhandelt;
 
-<sup>2</sup> Das Verfahren richtet sich nach den Bestimmungen über die kantonale Strafrechtspflege.
+- b) die Bestimmungen über den Pflanzenschutz missachtet;
 
-## 8 Schlussbestimmungen
+- c) die Bewilligungs- und Anzeigepflicht nach Artikel 21 verletzt.
+
+<sup>2</sup> Das Verfahren richtet sich nach den Bestimmungen über die kantonale Strafrechtspflege[^34-1]
+
+[^34-1]: RB 2.32213.9222
+
+### 8. Kapitel: SCHLUSSBESTIMMUNGEN
 
 #### Artikel 35
 
 **Vollzug**
 
-<sup>1</sup> Der Vollzug dieses Gesetzes obliegt dem Regierungsrat.
+Der Vollzug dieses Gesetzes obliegt dem Regierungsrat.
 
 #### Artikel 36
 
 **Aufhebung und Änderung bisherigen Rechts**
 
-<sup>1</sup> Die Verordnung vom 30. Dezember 1963 betreffend Natur- und Heimatschutz, Erhaltung der Altertümer und Kunstdenkmäler und Förderung zeitgenössischer Kunst wird aufgehoben.
+<sup>1</sup> Die Verordnung vom 30. Dezember 1963 betreffend Natur- und Heimatschutz, Erhaltung der Altertümer und Kunstdenkmäler und Förderung zeitgenössischer Kunst[^36-1] wird aufgehoben.
 
-<sup>2</sup> ...[^Artikel36-1].
+<sup>2</sup> ...[^36-2]
 
-[^Artikel36-1]: Die Änderung wurde im entsprechenden Erlass eingefügt.
+[^36-1]: RB 10.5101
+[^36-2]: Die Änderung wurde im entsprechenden Erlass eingefügt.
 
 #### Artikel 37
 
 **Übergangsbestimmungen**
 
-<sup>1</sup> Das Verzeichnis der Schutzobjekte vom 22. Oktober 1979[^Artikel37-1] gilt als kantonales Schutzinventar nach Artikel 17.
+<sup>1</sup> Das Verzeichnis der Schutzobjekte vom 22. Oktober 1979[^37-1] gilt als kantonales Schutzinventar nach Artikel 17.
 
-<sup>2</sup> Die zuständige Direktion[^Artikel37-2] hat das Verzeichnis der Schutzmassnahmen nach Artikel 20 spätestens ein Jahr nach Inkrafttreten dieses Gesetzes zu erstellen.
+<sup>2</sup> Die zuständige Direktion<sup>35</sup> hat das Verzeichnis der Schutzmassnahmen nach Artikel 20 spätestens ein Jahr nach Inkrafttreten dieses Gesetzes zu erstellen.
 
 <sup>3</sup> Schutzmassnahmen nach altem Recht bleiben gültig, wenn sie innert drei Jahren seit dem Inkrafttreten dieses Gesetzes dem neuen Recht angepasst werden.
 
-[^Artikel37-1]: Beilage zum AB vom 10. Januar 1980.
-[^Artikel37-2]: Justizdirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^37-1]: Beilage zum AB vom 10. Januar 1980.
 
 #### Artikel 38
 
@@ -413,8 +441,10 @@ beschliesst:
 
 <sup>1</sup> Dieses Gesetz tritt am 1. Januar 1988 in Kraft.
 
-<sup>2</sup> Artikel 12 ist vom Bundesrat zu genehmigen[^Artikel38-1].
+<sup>2</sup> Artikel 12 ist vom Bundesrat zu genehmigen[^38-1].
 
-[^Artikel38-1]: Vom Bundesrat genehmigt am 21. Januar 1988.
+Im Namen des Volkes
 
-AB 28.08.1987
+Der Landammann: Hans Zurfluh Der Kanzleidirektor: Dr. Peter Huber
+
+[^38-1]: Vom Bundesrat genehmigt am 21. Januar 1988.
