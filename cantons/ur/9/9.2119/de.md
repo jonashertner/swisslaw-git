@@ -1,35 +1,39 @@
 ---
 canton: UR
 number: "9.2119"
-title: Tarifordnung der Kindes- und Erwachsenenschutzbehörde
+title: TARIFORDNUNG DER KINDES- UND ERWACHSENENSCHUTZBEHÖRDE
 language: de
 version: 2013-01-01
+corrected: 2025-08-19
 version_adopted: 2012-12-18
 adopted: 2012-12-18
 in_force: 2013-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/9.2119"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/816/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/144/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Tarifordnung der Kindes- und Erwachsenenschutzbehörde
+# TARIFORDNUNG DER KINDES- UND ERWACHSENENSCHUTZBEHÖRDE
 
-Vom 18.12.2012 (Stand 01.01.2013)
+TARIFORDNUNG DER KINDES- UND ERWACHSENENSCHUTZBE-HÖRDE
 
-Der Regierungsrat des Kantons Uri,
+(vom 18. Dezember 2012[^t-1]; Stand am 1. Januar 2013)
 
-gestützt auf Artikel 8 Absatz 5 des Reglements zum Gesetz über die Einführung des Kindes- und Erwachsenenschutzrechts (RB [9.2117](https://rechtsbuch.ur.ch/data/9.2117/de)),
+Der Regierungsrat des Kantons Uri, gestützt auf Artikel 8 Absatz 5 des Reglements zum Gesetz über die Einführung des Kindes- und Erwachsenenschutzrechts<sup>2</sup>,
 
 beschliesst:
 
-## 1 Allgemeine Bestimmungen
+[^t-1]: AB vom 11. Januar 2013
+
+### 1. Kapitel: ALLGEMEINE BESTIMMUNGEN
 
 #### Artikel 1
 
 **Grundsatz**
 
-<sup>1</sup> Die Kindes- und Erwachsenenschutzbehörde erhebt für ihre Amtshandlungen und diejenigen ihrer Hilfsorgane die in dieser Tarifordnung festgesetzten Gebühren.
+Die Kindes- und Erwachsenenschutzbehörde erhebt für ihre Amtshandlungen und diejenigen ihrer Hilfsorgane die in dieser Tarifordnung festgesetzten Gebühren.
 
 #### Artikel 2
 
@@ -43,33 +47,39 @@ beschliesst:
 
 **Gebührenbemessung**
 
-<sup>1</sup> Wo keine Pauschalgebühren festgelegt sind, werden die Gebühren gemäss Zeitaufwand bemessen. Der Stundenansatz beträgt 75 Franken.
+Wo keine Pauschalgebühren festgelegt sind, werden die Gebühren gemäss Zeitaufwand bemessen. Der Stundenansatz beträgt 75 Franken.
 
 #### Artikel 4
 
 **Weiterführende Bestimmungen**
 
-<sup>1</sup> Soweit diese Tarifordnung keine Regelung enthält, sind die allgemeinen Bestimmungen der Gebührenverordnung (RB [3.2512](https://rechtsbuch.ur.ch/data/3.2512/de)) und des Gebührenreglements (RB [3.2521](https://rechtsbuch.ur.ch/data/3.2521/de)) anwendbar.
+Soweit diese Tarifordnung keine Regelung enthält, sind die allgemeinen Bestimmungen der Gebührenverordnung<sup>3</sup> und des Gebührenreglements<sup>4</sup> anwendbar.
 
-## 2 Erwachsenenschutz
+### 2. Kapitel: ERWACHSENENSCHUTZ
 
-### 2.1 Vorsorgeauftrag und Beistandschaften
+### 1. Abschnitt: Vorsorgeauftrag und Beistandschaften
 
 #### Artikel 5
 
 **Vorsorgeauftrag**
 
-<sup>1</sup> Beim Vorsorgeauftrag beträgt die Gebühr für:
+Beim Vorsorgeauftrag beträgt die Gebühr für:
 
-- a) die Prüfung des Vorsorgeauftrags und die Instruktionder beauftragten Person: — 250 Franken
-- b) die Auslegung und Ergänzung des Vorsorgeauftrags: — 250 Franken
-- c) die Festlegung der Entschädigung: — 250 Franken
+**Fr. 250.–**
+
+- a) die Prüfung des Vorsorgeauftrags und die Instruktionder beauftragten Person
+
+**Fr. 250.– Fr. 250.–**
+
+- b) die Auslegung und Ergänzung des Vorsorgeauftrags
+
+- c) die Festlegung der Entschädigung
 
 #### Artikel 6
 
 **Verzicht und allfällige Vorkehrungen**
 
-<sup>1</sup> Für den Verzicht auf eine Beistandschaft und die damit verbundene Anordnung von eigenen Vorkehrungen beträgt die Gebühr, gemäss Zeitaufwand, zwischen 250 Franken bis 600 Franken.
+Für den Verzicht auf eine Beistandschaft und die damit verbundene Anordnung von eigenen Vorkehrungen beträgt die Gebühr, gemäss Zeitaufwand, zwischen 250 Franken bis 600 Franken.
 
 #### Artikel 7
 
@@ -77,15 +87,23 @@ beschliesst:
 
 <sup>1</sup> Im Rahmen der Anordnung einer Beistandschaft beträgt die Grundgebühr für eine:
 
-- a) Begleitbeistandschaft: — 250 Franken
-- b) Vertretungsbeistandschaft: — 300 Franken
-- c) Mitwirkungsbeistandschaft: — 300 Franken
-- d) umfassende Beistandschaft: — 400 Franken
+**Fr. 250.– Fr. 300.– Fr. 300.– Fr. 400.–**
+
+- a) Begleitbeistandschaft
+
+- b) Vertretungsbeistandschaft
+
+- c) Mitwirkungsbeistandschaft
+
+- d) umfassende Beistandschaft
 
 <sup>2</sup> Bei der Anordnung einer Vertretungsbeistandschaft mit Vermögensverwaltung werden folgende Zuschläge zur Grundgebühr hinzugerechnet:
 
-- a) bei einfacher Vermögensverwaltung: — 100 Franken
-- b) bei umfassender Vermögensverwaltung: — 200 Franken
+**Fr. 100.– Fr. 200.–**
+
+- a) bei einfacher Vermögensverwaltung
+
+- b) bei umfassender Vermögensverwaltung
 
 <sup>3</sup> Bei einer Kombination von Beistandschaften wird ein Zuschlag von 100 Franken berechnet.
 
@@ -93,29 +111,29 @@ beschliesst:
 
 **Aufhebung einer Beistandschaft**
 
-<sup>1</sup> Für die Aufhebung einer Beistandschaft beträgt die Gebühr 250 Franken.
+Für die Aufhebung einer Beistandschaft beträgt die Gebühr 250 Franken.
 
 #### Artikel 9
 
 **Prüfung der Rechnung und des Berichts**
 
-<sup>1</sup> Für die Prüfung der Rechnung beträgt die Gebühr, gemäss Zeitaufwand, zwischen 150 Franken und 1'200 Franken.
+<sup>1</sup> Für die Prüfung der Rechnung beträgt die Gebühr, gemäss Zeitaufwand, zwischen 150 Franken und 1 200 Franken.
 
-<sup>2</sup> Für die Abnahmen eines allfälligen Berichts beträgt die Gebühr 100 Franken.
+<sup>2</sup> Für die Abnahmen eines allfälligen Berichts beträgt die Fr. 100.– Gebühr
+
+[^9-1]: ZGB; SR ZGB; SR
 
 #### Artikel 10
 
-**Zustimmung zu Handlungen und Rechtsgeschäften**
+Zustimmung zu Handlungen und Rechtsgeschäften Für die Zustimmung zu Handlungen und Rechtsgeschäften gemäss Artikel 416 und 417 des Schweizerischen Zivilgesetzbuchs[^9-1] bemisst sich die Gebühr gemäss Zeitaufwand.
 
-<sup>1</sup> Für die Zustimmung zu Handlungen und Rechtsgeschäften gemäss Artikel 416 und 417 des Schweizerischen Zivilgesetzbuchs (ZGB, SR [210](https://db.clex.ch/link/Bund/210/de)) bemisst sich die Gebühr gemäss Zeitaufwand.
-
-### 2.2 Fürsorgerische Unterbringung
+### 2. Abschnitt: Fürsorgerische Unterbringung
 
 #### Artikel 11
 
 **Anordnung**
 
-<sup>1</sup> Für die Anordnung der fürsorgerischen Unterbringung beträgt die Gebühr, gemäss Zeitaufwand, zwischen 100 Franken bis 450 Franken.
+Für die Anordnung der fürsorgerischen Unterbringung beträgt die Gebühr, gemäss Zeitaufwand, zwischen 100 Franken bis 450 Franken.
 
 #### Artikel 12
 
@@ -129,7 +147,7 @@ beschliesst:
 
 <sup>4</sup> Für die Überprüfung der fürsorgerischen Unterbringung im Anschluss an eine ärztliche Unterbringung beträgt die Gebühr, gemäss Zeitaufwand, zwischen 100 Franken bis 450 Franken.
 
-### 2.3 Gemeinsame Bestimmungen
+### 3. Abschnitt: Gemeinsame Bestimmungen
 
 #### Artikel 13
 
@@ -143,21 +161,27 @@ beschliesst:
 
 **Anordnung einer Vertretung**
 
-<sup>1</sup> Für die Anordnung einer Vertretung und die Bezeichnung einer Beiständin oder eines Beistands für ein Verfahren vor der Erwachsenenschutzbehörde beträgt die Gebühr 200 Franken.
+Für die Anordnung einer Vertretung und die Bezeichnung einer Beiständin oder eines Beistands für ein Verfahren vor der Erwachsenenschutzbehörde beträgt die Gebühr 200 Franken.
 
-## 3 Kindesschutz
+### 3. Kapitel: KINDESSCHUTZ
 
 #### Artikel 15
 
 **Scheidungsfolgen**
 
-<sup>1</sup> Die Gebühr beträgt 200 Franken bei der Regelung von Scheidungsfolgen wie:
+<sup>1</sup> Bei der Regelung von Scheidungsfolgen wie:
 
-- a) dem Antrag ans Gericht um Neuregelung der elterlichen Sorge
-- b) der Neuregelung der elterlichen Sorge und Genehmigung des Unterhaltsvertrags bei Einigkeit der Eltern oder dem Tod eines Elternteils
-- c) der Neuregelung des persönlichen Verkehrs ohne gleichzeitige Neuregelung der elterlichen Sorge und/oder des Unterhalts
-- d) der Änderung gerichtlich angeordneter Kindesschutzmassnahmen
-- e) der Anordnung einer Vertretung des Kinds
+- a) dem Antrag ans Gericht um Neuregelung der elterlichen Sorge;
+
+- b) der Neuregelung der elterlichen Sorge und Genehmigung des Unterhaltsvertrags bei Einigkeit der Eltern oder dem Tod eines Elternteils;
+
+- c) der Neuregelung des persönlichen Verkehrs ohne gleichzeitige Neuregelung der elterlichen Sorge und/oder des Unterhalts;
+
+- d) der Änderung gerichtlich angeordneter Kindesschutzmassnahmen;
+
+- e) der Anordnung einer Vertretung des Kinds;
+
+beträgt die Gebühr 200 Franken.
 
 <sup>2</sup> Bei streitigen Verfahren bemisst sich die Gebühr gemäss Zeitaufwand.
 
@@ -173,12 +197,17 @@ beschliesst:
 
 **Adoption**
 
-<sup>1</sup> Die Gebühr bemisst sich gemäss Zeitaufwand bei der Regelung der Adoption wie:
+<sup>1</sup> Bei der Regelung der Adoption wie:
 
-- a) der Zustimmung zur Adoption bei bevormundeten Minderjährigen
-- b) der Entgegennahme der Zustimmungserklärung der Eltern zur Adoption
-- c) dem Entscheid über den Verzicht auf eine Zustimmung der Eltern
-- d) der Vermittlung von Pflegekindern
+- a) der Zustimmung zur Adoption bei bevormundeten Minderjährigen;
+
+- b) der Entgegennahme der Zustimmungserklärung der Eltern zur Adoption;
+
+- c) dem Entscheid über den Verzicht auf eine Zustimmung der Eltern;
+
+- d) der Vermittlung von Pflegekindern;
+
+bemisst sich die Gebühr gemäss Zeitaufwand.
 
 #### Artikel 18
 
@@ -200,32 +229,34 @@ beschliesst:
 
 **Elterliche Sorge bei unverheirateten Eltern**
 
-<sup>1</sup> Die Gebühr beträgt 200 Franken bei der Regelung der elterlichen Sorge bei unverheirateten Eltern wie:
+<sup>1</sup> Bei der Regelung der elterlichen Sorge bei unverheirateten Eltern wie:
 
-- a) der Übertragung der elterlichen Sorge an den anderen Elternteil auf gemeinsamen Antrag der Eltern
-- b) der Übertragung der gemeinsamen elterlichen Sorge an nicht verheiratete Eltern auf gemeinsamen Antrag der Eltern
-- c) der Neuzuteilung der elterlichen Sorge bei wesentlicher Veränderung der Verhältnisse
+- a) der Übertragung der elterlichen Sorge an den anderen Elternteil auf gemeinsamen Antrag der Eltern;
 
-<sup>2</sup> Bei streitigen Verfahren bemisst sich die Gebühr gemäss Zeitaufwand.
+- b) der Übertragung der gemeinsamen elterlichen Sorge an nicht verheiratete Eltern auf gemeinsamen Antrag der Eltern;
+
+- c) der Neuzuteilung der elterlichen Sorge bei wesentlicher Veränderung der Verhältnisse;
+
+beträgt die Gebühr 200 Franken.
+
+2 Bei streitigen Verfahren bemisst sich die Gebühr gemäss Zeitaufwand.
 
 #### Artikel 21
 
 **Bewilligung zur Aufnahme von Pflegekindern**
 
-<sup>1</sup> Für die Erteilung der Bewilligung zur Aufnahme von Pflegekindern beträgt die Gebühr 150 Franken.
+Für die Erteilung der Bewilligung zur Aufnahme von Pflegekindern beträgt die Gebühr 150 Franken.
 
 #### Artikel 22
 
-**Kindsvermögen**
+Kindsvermögen Für die Anordnung der Inventaraufnahme oder der periodischen Rechnungsstellung und Berichterstattung beträgt die Gebühr 100 Franken.
 
-<sup>1</sup> Für die Anordnung der Inventaraufnahme oder der periodischen Rechnungsstellung und Berichterstattung beträgt die Gebühr 100 Franken.
-
-## 4 Schlussbestimmung
+### 4. Kapitel: SCHLUSSBESTIMMUNG
 
 #### Artikel 23
 
-**Inkrafttreten**
+**Im Namen des Regierungsrats**
 
-<sup>1</sup> Diese Tarifordnung tritt am 1. Januar 2013 in Kraft.
+**Der Landammann: Josef Dittli Der Kanzleidirektor: Roman Balli**
 
-AB 11.01.2013
+Inkrafttreten Diese Tarifordnung tritt am 1. Januar 2013 in Kraft.
