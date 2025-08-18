@@ -1,41 +1,49 @@
 ---
 canton: UR
 number: "10.6212"
-title: Archivreglement
+title: ARCHIVREGLEMENT
 language: de
 version: 2002-07-01
+corrected: 2025-08-19
 version_adopted: 2002-06-04
 adopted: 2002-06-04
 in_force: 2002-07-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.6212"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/887/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/368/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Archivreglement
+# ARCHIVREGLEMENT
 
-Vom 04.06.2002 (Stand 01.07.2002)
+ARCHIVREGLEMENT
 
-Der Regierungsrat des Kantons Uri,
+(vom 4. Juni 2002[^t-1]; Stand am 1. Juli 2002)
 
-gestützt auf Artikel 13 Absatz 3 des Gesetzes vom 20. Februar 1994 über den Schutz von Personendaten (Datenschutzgesetz, RB [2.2511](https://rechtsbuch.ur.ch/data/2.2511/de)),
+Der Regierungsrat des Kantons Uri, gestützt auf Artikel 13 Absatz 3 des Gesetzes vom 20. Februar 1994 über den Schutz von Personendaten (Datenschutzgesetz)<sup>2</sup>,
 
 beschliesst:
 
-## 1 Allgemeine Bestimmungen
+[^t-1]: AB vom 14. Juni 2002.
+
+### 1. Abschnitt: Allgemeine Bestimmungen
 
 #### Artikel 1
 
 **Geltungsbereich**
 
-<sup>1</sup> Dieses Reglement ordnet:
+Dieses Reglement ordnet:
 
 - a) die Archivierung von Unterlagen:
-  - 1\. des Kantons
-  - 2\. natürlicher und juristischer Personen des öffentlichen und privaten Rechts, soweit sie kantonale Aufgaben erfüllen. Die Urner Kantonalbank fällt nicht unter dieses Reglement
-  - 3\. der Gemeinden, Korporationen und Privaten, soweit sie gemäss gesetzlicher Vorschrift oder privater Vereinbarung dem Staatsarchiv Unterlagen zur Archivierung übergeben
-- b) die Benützung des Staatsarchivs durch Organe des Kantons und Dritte
+
+- 1\. des Kantons;
+
+- 2\. natürlicher und juristischer Personen des öffentlichen und privaten Rechts, soweit sie kantonale Aufgaben erfüllen. Die Urner Kantonalbank fällt nicht unter dieses Reglement;
+
+- 3\. der Gemeinden, Korporationen und Privaten, soweit sie gemäss gesetzlicher Vorschrift oder privater Vereinbarung dem Staatsarchiv Unterlagen zur Archivierung übergeben;
+
+- b) die Benützung des Staatsarchivs durch Organe des Kantons und Dritte.
 
 #### Artikel 2
 
@@ -45,15 +53,19 @@ beschliesst:
 
 <sup>2</sup> Unterlagen im Sinne dieses Reglements sind alle aufgezeichneten Informationen, unabhängig vom Informationsträger, sowie alle Hilfsmittel, die für deren Verständnis und Benützung notwendig sind.
 
-<sup>3</sup> Als Archivgut gelten Unterlagen, die vom Staatsarchiv als archivwürdig zur Aufbewahrung übernommen worden sind. Archivwürdig sind Daten, die voraussichtlich von dauerndem Wert sind, um:
+3 Als Archivgut gelten Unterlagen, die vom Staatsarchiv als archivwürdig zur Aufbewahrung übernommen worden sind. Archivwürdig sind Daten, die voraussichtlich von dauerndem Wert sind, um:
 
-- a) die Tätigkeit der öffentlichen Verwaltung zu dokumentieren
-- b) die Aufgaben der Gesetzgebung, der Verwaltung und der Rechtsprechung zu unterstützen
-- c) die berechtigten Interessen betroffener Personen und Dritter zu sichern
-- d) der Wissenschaft und Forschung zu dienen
-- e) das Verständnis der Gegenwart und der Geschichte zu fördern
+- a) die Tätigkeit der öffentlichen Verwaltung zu dokumentieren;
 
-## 2 Organisation und Zuständigkeit
+- b) die Aufgaben der Gesetzgebung, der Verwaltung und der Rechtsprechung zu unterstützen;
+
+- c) die berechtigten Interessen betroffener Personen und Dritter zu sichern;
+
+- d) der Wissenschaft und Forschung zu dienen;
+
+- e) das Verständnis der Gegenwart und der Geschichte zu fördern.
+
+### 2. Abschnitt: Organisation und Zuständigkeit
 
 #### Artikel 3
 
@@ -63,18 +75,23 @@ beschliesst:
 
 <sup>2</sup> Das Staatsarchiv hat insbesondere:
 
-- a) die Unterlagen nach wissenschaftlichen und archiv-fachlichen Kriterien zu sichern und zu bewerten
-- b) das Archivgut sicher aufzubewahren
-- c) die Erschliessung des Archivguts und dessen Benützbarkeit sicherzustellen
-- d) die Erhaltung (Konservierung und Restaurierung) des Archivguts zu gewährleisten
-- e) die anbietepflichtigen Stellen bei der Organisation und Verwaltung der Handregistraturen und der Zwischenarchive zu beraten und zu überwachen
-- f) die Gemeinden, Korporationen und, soweit es die Hauptaufgaben zulassen, die Privaten bei der Organisation und Verwaltung der Archive zu beraten
+- a) die Unterlagen nach wissenschaftlichen und archiv-fachlichen Kriterien zu sichern und zu bewerten;
+
+- b) das Archivgut sicher aufzubewahren;
+
+- c) die Erschliessung des Archivguts und dessen Benützbarkeit sicherzustellen;
+
+- d) die Erhaltung (Konservierung und Restaurierung) des Archivguts zu gewährleisten;
+
+- e) die anbietepflichtigen Stellen bei der Organisation und Verwaltung der Handregistraturen und der Zwischenarchive zu beraten und zu überwachen;
+
+- f) die Gemeinden, Korporationen und, soweit es die Hauptaufgaben zulassen, die Privaten bei der Organisation und Verwaltung der Archive zu beraten.
 
 <sup>3</sup> Das Staatsarchiv kann auch Unterlagen übernehmen, für die keine Anbietepflicht besteht und über deren Archivwürdigkeit noch nicht entschieden ist.
 
-<sup>4</sup> Die ordentlichen Finanzkompetenzen nach der Kantonsverfassung (RB [1.1101](https://rechtsbuch.ur.ch/data/1.1101/de)) bleiben vorbehalten.
+<sup>4</sup> Die ordentlichen Finanzkompetenzen nach der Kantonsverfassung<sup>3</sup> bleiben vorbehalten.
 
-## 3 Sicherung der Unterlagen
+### 3. Abschnitt: Sicherung der Unterlagen
 
 #### Artikel 4
 
@@ -82,18 +99,21 @@ beschliesst:
 
 <sup>1</sup> Anbietepflichtig sind:
 
-- a) die Organe und Verwaltungsstellen des Kantons
-- b) die Organe und Verwaltungsstellen der natürlichen und juristischen Personen des öffentlichen und privaten Rechts, soweit sie kantonale Aufgaben oder Aufgaben im Auftrag des Kantons erfüllen
-- c) die Organe und Verwaltungsstellen der Gemeinden und der Korporationen, soweit die Gesetzgebung sie dazu verhält
-- d) weitere Personen, soweit sie mit dem Staatsarchiv eine entsprechende Vereinbarung getroffen haben
+- a) die Organe und Verwaltungsstellen des Kantons;
+
+- b) die Organe und Verwaltungsstellen der natürlichen und juristischen Personen des öffentlichen und privaten Rechts, soweit sie kantonale Aufgaben oder Aufgaben im Auftrag des Kantons erfüllen;
+
+- c) die Organe und Verwaltungsstellen der Gemeinden und der Korporationen, soweit die Gesetzgebung sie dazu verhält;
+
+- d) weitere Personen, soweit sie mit dem Staatsarchiv eine entsprechende Vereinbarung getroffen haben.
 
 <sup>2</sup> Wer anbietepflichtig ist, hat seine Unterlagen mit Registraturplänen zu erfassen und periodisch dem Staatsarchiv zur Übernahme anzubieten, sobald die Unterlagen zur Erfüllung der entsprechenden Aufgaben nicht mehr benötigt werden. Das Staatsarchiv legt zusammen mit den anbietepflichtigen Stellen fest, welche Unterlagen archivwürdig sind und ins Archiv übernommen werden.
 
 <sup>3</sup> Bis zu diesem Zeitpunkt haben die anbietepflichtigen Stellen die Unterlagen in geordneten Registraturen und Zwischenarchiven aufzubewahren.
 
-<sup>4</sup> Das Staatsarchiv regelt die Einzelheiten der Anbietepflicht und der Ablieferung in Weisungen. Die Weisungen sind von der zuständigen Direktion[^Artikel4-1] zu genehmigen.
+<sup>4</sup> Das Staatsarchiv regelt die Einzelheiten der Anbietepflicht und der Ablieferung in Weisungen. Die Weisungen sind von der zuständigen Direktion[^4-1] zu genehmigen.
 
-[^Artikel4-1]: Bildungs- und Kulturdirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^4-1]: Bildungs- und Kulturdirektion; vgl. Art. 1 und 6 Organisationsreglement (RB 2.3322).
 
 #### Artikel 5
 
@@ -107,7 +127,7 @@ beschliesst:
 
 <sup>4</sup> Die Vernichtung vertraglich übertragenen Archivguts richtet sich nach den Bestimmungen der Übernahmeverträge. Fehlen solche, sind diejenigen dieses Reglements anwendbar.
 
-## 4 Benützung des Archivguts
+### 4. Abschnitt: Benützung des Archivguts
 
 #### Artikel 6
 
@@ -125,11 +145,13 @@ beschliesst:
 
 **Verlängerte Schutzfrist**
 
-<sup>1</sup> Die Benützung von gerichtlichem Archivgut und Archivgut, das besonders schützenswerte Personendaten oder Persönlichkeitsprofile enthält, unterliegt einer verlängerten Schutzfrist von zehn Jahren seit dem Tod der betroffenen Person oder, wenn das Todesdatum nicht bekannt oder nur mit unverhältnismässigem Aufwand feststellbar ist, von 100 Jahren seit der Geburt. Sind weder Todes- noch Geburtsdatum feststellbar, beträgt die verlängerte Schutzfrist 80 Jahre, berechnet ab dem Datum des jüngsten Dokuments in einem Geschäft oder Dossier. Vorbehalten bleibt die Einwilligung der betroffenen Person in eine frühere Benützung des Archivguts.
+Die Benützung von gerichtlichem Archivgut und Archivgut, das besonders schützenswerte Personendaten oder Persönlichkeitsprofile enthält, unterliegt einer verlängerten Schutzfrist von zehn Jahren seit dem Tod der betroffenen Person oder, wenn das Todesdatum nicht bekannt oder nur mit unverhältnismässigem Aufwand feststellbar ist, von 100 Jahren seit der Geburt. Sind weder Todes- noch Geburtsdatum feststellbar, beträgt die verlängerte Schutzfrist 80 Jahre, berechnet ab dem Datum des jüngsten Dokuments in einem Geschäft oder Dossier. Vorbehalten bleibt die Einwilligung der betroffenen Person in eine frühere Benützung des Archivguts.
 
 #### Artikel 8
 
-**Ausnahmen: Benützung vor Ablauf der Schutzfristen**
+**Ausnahmen**
+
+- a) Benützung vor Ablauf der Schutzfristen
 
 <sup>1</sup> Ausnahmsweise darf Archivgut vor Ablauf der Schutzfristen für wissenschaftliche, nicht personenbezogene Zwecke benützt werden. Dabei sind die Daten zu anonymisieren und die Ergebnisse dürfen nur so veröffentlicht werden, dass die betroffenen Personen nicht bestimmbar sind.
 
@@ -139,25 +161,28 @@ beschliesst:
 
 <sup>4</sup> Die Ausnahmebewilligungen können mit Bedingungen und Auflagen verbunden werden.
 
-#### Artikel 9
+#### Artikel 9 b
 
-**Ausnahmen: Benützung nach Ablauf der Schutzfristen**
+**) Benützung nach Ablauf der Schutzfristen**
 
-<sup>1</sup> Besteht bei bestimmten Kategorien von Archivgut oder im Einzelfall ein überwiegendes schutzwürdiges öffentliches oder privates Interesse gegen eine Benützung durch Dritte, so kann der Regierungsrat eine Benützung nach Ablauf der Schutzfristen einschränken oder ganz untersagen.
+Besteht bei bestimmten Kategorien von Archivgut oder im Einzelfall ein überwiegendes schutzwürdiges öffentliches oder privates Interesse gegen eine Benützung durch Dritte, so kann der Regierungsrat eine Benützung nach Ablauf der Schutzfristen einschränken oder ganz untersagen.
 
 #### Artikel 10
 
 **Datenschutz**
 
-<sup>1</sup> Die Bestimmungen des Datenschutzgesetzes (RB [2.2511](https://rechtsbuch.ur.ch/data/2.2511/de)) und jene des Schweizerischen Zivilgesetzbuches (SR [210](https://db.clex.ch/link/Bund/210/de)) über den Schutz der Persönlichkeit bleiben vorbehalten.
+Die Bestimmungen des Datenschutzgesetzes[^10-1] und jene des Schweizerischen Zivilgesetzbuches[^10-2]über den Schutz der Persönlichkeit bleiben vorbehalten.
+
+[^10-1]: RB 2.2511
+[^10-2]: SR 210
 
 #### Artikel 11
 
 **Benützungsordnung**
 
-<sup>1</sup> Das Staatsarchiv erlässt eine Benützungsordnung, die von der zuständigen Direktion[^Artikel11-1] zu genehmigen ist.
+Das Staatsarchiv erlässt eine Benützungsordnung, die von der zuständigen Direktion[^11-1] zu genehmigen ist.
 
-[^Artikel11-1]: Bildungs- und Kulturdirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^11-1]: Bildungs- und Kulturdirektion; vgl. Art. 1 und 6 Organisationsreglement (RB 2.3322).
 
 #### Artikel 12
 
@@ -165,7 +190,7 @@ beschliesst:
 
 <sup>1</sup> Die Benützung des Staatsarchives ist unentgeltlich.
 
-<sup>2</sup> Besondere Dienstleistungen sind gebührenpflichtig. Die Gebühren richten sich nach der Gebührenverordnung (RB [3.2512](https://rechtsbuch.ur.ch/data/3.2512/de)) und dem Gebührenreglement (RB [3.2521](https://rechtsbuch.ur.ch/data/3.2521/de)).
+<sup>2</sup> Besondere Dienstleistungen sind gebührenpflichtig. Die Gebühren richten sich nach der Gebührenverordnung<sup>8</sup> und dem Gebührenreglement<sup>9</sup>.
 
 #### Artikel 13
 
@@ -175,20 +200,22 @@ beschliesst:
 
 <sup>2</sup> Die Bewilligung kann von einer vertraglichen Regelung des Nutzungsumfanges und allfälligen Gewinnbeteiligungen des Kantons abhängig gemacht werden.
 
-<sup>3</sup> Die gewerbliche Nutzung von vertraglich übertragenem Archivgut richtet sich nach den Bestimmungen der Übernahmeverträge. Fehlen solche, sind diejenigen dieses Reglements anwendbar.
+3 Die gewerbliche Nutzung von vertraglich übertragenem Archivgut richtet sich nach den Bestimmungen der Übernahmeverträge. Fehlen solche, sind diejenigen dieses Reglements anwendbar.
 
 #### Artikel 14
 
 **Belegexemplar**
 
-<sup>1</sup> Von allen Arbeiten und Veröffentlichungen, die ganz oder teilweise auf der Benützung von Archivgut des Staatsarchives beruhen, ist diesem unentgeltlich ein Belegexemplar abzugeben.
+Von allen Arbeiten und Veröffentlichungen, die ganz oder teilweise auf der Benützung von Archivgut des Staatsarchives beruhen, ist diesem unentgeltlich ein Belegexemplar abzugeben.
 
-## 5 Schlussbestimmungen
+### 5. Abschnitt: Schlussbestimmungen
 
 #### Artikel 15
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Reglement tritt am 1. Juli 2002 in Kraft.
+Dieses Reglement tritt am 1. Juli 2002 in Kraft.
 
-AB 14.06.2002
+Im Namen des Regierungsrates
+
+Frau Landammann: Dr. Gabi Huber Der Kanzleidirektor: Dr. Peter Huber
