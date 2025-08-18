@@ -1,96 +1,115 @@
 ---
 canton: UR
 number: "50.3305"
-title: Reglement zum Bundesgesetz über die Anschlussgleise
+title: REGLEMENT zum Bundesgesetz über die Anschlussgleise
 language: de
 version: 1993-01-01
+corrected: 2025-08-19
 version_adopted: 1992-12-21
 adopted: 1992-12-21
 in_force: 1993-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/50.3305"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/886/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/188/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement zum Bundesgesetz über die Anschlussgleise
+# REGLEMENT zum Bundesgesetz über die Anschlussgleise
 
-Vom 21.12.1992 (Stand 01.01.1993)
+REGLEMENT zum Bundesgesetz über die Anschlussgleise
 
-Der Regierungsrat des Kantons Uri,
+(vom 21. Dezember 1992; Stand am 1. Januar 1993)
 
-gestützt auf das Bundesgesetz über die Anschlussgleise (AnGG, SR [742.141.5](https://db.clex.ch/link/Bund/742.141.5/de)), auf die Verordnung über die Anschlussgleise (AnGV, SR [742.141.51](https://db.clex.ch/link/Bund/742.141.51/de)) und auf Artikel 94 Absatz 1 der Kantonsverfassung (RB [1.1101](https://rechtsbuch.ur.ch/data/1.1101/de)),
+Der Regierungsrat des Kantons Uri, gestützt auf das Bundesgesetz über die Anschlussgleise (AnGG)[^t-1], auf die Verordnung über die Anschlussgleise (AnGV)[^t-2] und auf Artikel 94 Absatz 1 der Kantonsverfassung[^t-3],
 
 beschliesst:
 
-## 1 Allgemeine Bestimmungen
+**Allgemeine Bestimmungen**
+
+[^t-1]: SR 742.141.5
+[^t-2]: SR 742.141.51
+[^t-3]: RB 1.1101
+
+### 1. Abschnitt:
 
 #### Artikel 1
 
 **Geltungsbereich**
 
-<sup>1</sup> Dieses Reglement vollzieht das Bundesrecht über die Anschlussgleise.
+Dieses Reglement vollzieht das Bundesrecht über die Anschlussgleise.
 
 #### Artikel 2
 
 **Begriffe**
 
-<sup>1</sup> Die in diesem Reglement verwendeten Begriffe, namentlich jene des Anschlussgleises und des Anschliessers, decken sich mit dem Bundesrecht.
+Die in diesem Reglement verwendeten Begriffe, namentlich jene des Anschlussgleises und des Anschliessers, decken sich mit dem Bundesrecht.
 
-## 2 Planung und Bau von Anschlussgleisen
+**Planung und Bau von Anschlussgleisen**
+
+### 2. Abschnitt:
 
 #### Artikel 3
 
 **Anwendbares Recht**
 
-<sup>1</sup> Soweit weder das Bundesrecht noch dieses Reglement abweichende Vorschriften enthält, richtet sich das Verfahren für die Planung und den Bau von Anschlussgleisen nach dem Planverfahren des Strassenbaugesetzes des Kantons Uri (RB [50.1111](https://rechtsbuch.ur.ch/data/50.1111/de)), das seinerseits auf das kantonale Gesetz über die Enteignung (RB [3.3211](https://rechtsbuch.ur.ch/data/3.3211/de)) verweist.
+Soweit weder das Bundesrecht noch dieses Reglement abweichende Vorschriften enthält, richtet sich das Verfahren für die Planung und den Bau von Anschlussgleisen nach dem Planverfahren des Strassenbaugesetzes des Kantons Uri<sup>4</sup>, das seinerseits auf das kantonale Gesetz über die Enteignung<sup>5</sup> verweist.
 
 #### Artikel 4
 
-**Sondervorschriften: Einleitung des Verfahrens**
+**Sondervorschriften**
 
-<sup>1</sup> Es sind berechtigt, das Planungs- und Bauverfahren einzuleiten:
+- a) Einleitung des Verfahrens Es sind berechtigt, das Planungs- und Bauverfahren einzuleiten:
 
-- a) der Regierungsrat für Anschlussgleise, die zwei oder mehrere Gemeindegebiete betreffen
-- b) der Einwohnergemeinderat für Anschlussgleise, die ausschliesslich auf das betreffende Gemeindegebiet zu liegen kommen
-- c) Dritte für Anschlussgleise in ihrem Interesse, wenn sie ermächtigt worden sind, das Verfahren einzuleiten. Erstreckt sich das beabsichtigte Anschlussgleis über zwei oder mehrere Gemeindegebiete, erteilt der Regierungsrat diese Ermächtigung, andernfalls der Einwohnergemeinderat. Die Ermächtigung wird erteilt, wenn die Voraussetzungen des Bundesrechts erfüllt sind, namentlich wenn das Bedürfnis nachgewiesen ist
+- a) der Regierungsrat für Anschlussgleise, die zwei oder mehrere Gemeindegebiete betreffen;
 
-#### Artikel 5
+- b) der Einwohnergemeinderat für Anschlussgleise, die ausschliesslich auf das betreffende Gemeindegebiet zu liegen kommen;
 
-**Sondervorschriften: Planauflage**
+- c) Dritte für Anschlussgleise in ihrem Interesse, wenn sie ermächtigt worden sind, das Verfahren einzuleiten. Erstreckt sich das beabsichtigte Anschlussgleis über zwei oder mehrere Gemeindegebiete, erteilt der Regierungsrat diese Ermächtigung, andernfalls der Einwohnergemeinderat. Die Ermächtigung wird erteilt, wenn die Voraussetzungen des Bundesrechts erfüllt sind, namentlich wenn das Bedürfnis nachgewiesen ist.
 
-<sup>1</sup> Es sind folgende Unterlagen aufzulegen:
+#### Artikel 5 b
 
-- a) die in Artikel 16 des kantonalen Gesetzes über die Enteignung (RB [3.3211](https://rechtsbuch.ur.ch/data/3.3211/de)) erwähnten Dokumente
-- b) Pläne und Angaben nach Artikel 7–18 der Verordnung über die Planvorlagen für Eisenbahnbauten (SR [742.142](https://db.clex.ch/link/Bund/742.142/de))
-- c) der rechtskräftige Grundsatzentscheid über den Anschluss nach Artikel 6 AnGV (SR [742.141.51](https://db.clex.ch/link/Bund/742.141.51/de))
+**) Planauflage**
 
-#### Artikel 6
+Es sind folgende Unterlagen aufzulegen:
 
-**Sondervorschriften: Entscheid**
+- a) die in Artikel 16 des kantonalen Gesetzes über die Enteignung[^5b-1] erwähnten Dokumente;
+
+- b) Pläne und Angaben nach Artikel 7 – 18 der Verordnung über die Planvorlagen für Eisenbahnbauten[^5b-2];
+
+- c) der rechtskräftige Grundsatzentscheid über den Anschluss nach Artikel 6 AnGV<sup>8</sup>.
+
+[^5b-1]: RB 3.3211
+[^5b-2]: SR 742.142
+
+#### Artikel 6 c
+
+**) Entscheid**
 
 <sup>1</sup> Bevor der Regierungsrat den Plan für das Anschlussgleis genehmigt, holt er die Zustimmung der Aufsichtsbehörde nach Artikel 17 und 18 AnGG ein.
 
-<sup>2</sup> Der Regierungsrat kann verlangen, dass vor der Plangenehmigung die privatrechtlichen Verhältnisse und die Beziehungen zwischen der Bahn und dem Anschliesser im Sinne von Artikel 4 und 6 ff. AnGG (SR [742.141.5](https://db.clex.ch/link/Bund/742.141.5/de)) geregelt sind. Statt dessen kann er mit dem Genehmigungsbeschluss entsprechende Auflagen verbinden.
+<sup>2</sup> Der Regierungsrat kann verlangen, dass vor der Plangenehmigung die privatrechtlichen Verhältnisse und die Beziehungen zwischen der Bahn und dem Anschliesser im Sinne von Artikel 4 und 6 ff. AnGG<sup>9</sup> geregelt sind. Statt dessen kann er mit dem Genehmigungsbeschluss entsprechende Auflagen verbinden.
 
-#### Artikel 7
+#### Artikel 7 d
 
-**Sondervorschriften: Enteignungsrecht**
+**) Enteignungsrecht**
 
-<sup>1</sup> Mit der Plangenehmigung erteilt der Regierungsrat das Enteignungsrecht im Sinne von Artikel 16 AnGG (SR [742.141.5](https://db.clex.ch/link/Bund/742.141.5/de)).
+Mit der Plangenehmigung erteilt der Regierungsrat das Enteignungsrecht im Sinne von Artikel 16 AnGG<sup>10</sup>.
 
-#### Artikel 8
+#### Artikel 8 e
 
-**Sondervorschriften: Betriebsbewilligung**
+**) Betriebsbewilligung**
 
-<sup>1</sup> Wenn die Plangenehmigung rechtskräftig ist, hat der Anschliesser bei der Aufsichtsbehörde die Betriebsbewilligung nach Artikel 20 AnGG (SR [742.141.5](https://db.clex.ch/link/Bund/742.141.5/de)) einzuholen. Dem Regierungsrat ist eine Kopie dieser Bewilligung zuzustellen.
+Wenn die Plangenehmigung rechtskräftig ist, hat der Anschliesser bei der Aufsichtsbehörde die Betriebsbewilligung nach Artikel 20 AnGG<sup>11</sup> einzuholen. Dem Regierungsrat ist eine Kopie dieser Bewilligung zuzustellen.
 
-## 3 Schlussbestimmung
+### 3. Abschnitt: Schlussbestimmung
 
 #### Artikel 9
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Reglement tritt am 1. Januar 1993 in Kraft.
+Dieses Reglement tritt am 1. Januar 1993 in Kraft.
 
-AB 24.12.1992
+Im Namen des Regierungsrates
+
+Der Landammann: Dr. Hansruedi Stadler Der Kanzleidirektor: Dr. Peter Huber
