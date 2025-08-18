@@ -1,30 +1,32 @@
 ---
 canton: UR
 number: "20.3425"
-title: Reglement über die Baubeiträge nach dem Sozialhilfegesetz
+title: REGLEMENT über die Baubeiträge nach dem Sozialhilfegesetz
 short: BSR
 language: de
 version: 2008-01-01
+corrected: 2025-08-19
 version_adopted: 2007-12-11
 adopted: 2005-03-15
 in_force: 2005-05-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.3425"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/841/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/244/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über die Baubeiträge nach dem Sozialhilfegesetz
+# REGLEMENT über die Baubeiträge nach dem Sozialhilfegesetz
 
-(BSR)
+REGLEMENT über die Baubeiträge nach dem Sozialhilfegesetz (BSR)
 
-Vom 15.03.2005 (Stand 01.01.2008)
+(vom 15. März 2005[^t-1]; Stand am 1. Januar 2008)
 
-Der Regierungsrat des Kantons Uri,
-
-gestützt auf Artikel 40 und 41 des Gesetzes vom 28. September 1997 über die Sozialhilfe im Kanton Uri (SHG, RB [20.3421](https://rechtsbuch.ur.ch/data/20.3421/de)),
+Der Regierungsrat des Kantons Uri, gestützt auf Artikel 40 und 41 des Gesetzes vom 28. September 1997 über die Sozialhilfe im Kanton Uri (SHG)<sup>2</sup>,
 
 beschliesst:
+
+[^t-1]: AB vom 8. April 2005
 
 #### Artikel 1
 
@@ -38,29 +40,33 @@ beschliesst:
 
 **Beitragsvoraussetzungen**
 
-<sup>1</sup> Beiträge nach diesem Reglement setzen voraus, dass die unterstützten Anlagen:
+Beiträge nach diesem Reglement setzen voraus, dass die unterstützten Anlagen:
 
-- a) der kantonalen Bedarfsplanung entsprechen
-- b) einfach, kostengünstig und zweckmässig sind
-- c) mehr als 100'000 Franken Baukosten verursachen werden
+- a) der kantonalen Bedarfsplanung entsprechen;
+
+- b) einfach, kostengünstig und zweckmässig sind;
+
+- c) mehr als 100 000 Franken Baukosten verursachen werden.
 
 #### Artikel 3
 
 **Kostenvoranschlag**
 
-<sup>1</sup> Der Kostenvoranschlag ist nach dem «Baukostenplan der Schweizerischen Zentralstelle für Baurationalisierung (CRB)» aufzustellen.
+Der Kostenvoranschlag ist nach dem «Baukostenplan der Schweizerischen Zentralstelle für Baurationalisierung (CRB)» aufzustellen.
 
 #### Artikel 4
 
 **Anrechenbare Kosten**
 
-<sup>1</sup> Die anrechenbaren Kosten bestimmen sich nach den Subventionsrichtlinien des Bundesamts für Bauten und Logistik.
+Die anrechenbaren Kosten bestimmen sich nach den Subventionsrichtlinien des Bundesamts für Bauten und Logistik.
 
 #### Artikel 5
 
 **Beitragshöhe**
 
-<sup>1</sup> Der Beitrag setzt sich zusammen aus dem Grundbeitrag nach Artikel 41 Absatz 1 SHG (RB [20.3421](https://rechtsbuch.ur.ch/data/20.3421/de)) und, sofern die Voraussetzungen erfüllt sind, aus einem Zusatzbeitrag.
+Der Beitrag setzt sich zusammen aus dem Grundbeitrag nach Artikel 41 Absatz 1 SHG[^5-1] und, sofern die Voraussetzungen erfüllt sind, aus einem Zusatzbeitrag.
+
+[^5-1]: RB 20.3421
 
 #### Artikel 6
 
@@ -68,13 +74,15 @@ beschliesst:
 
 <sup>1</sup> Der Zusatzbeitrag setzt voraus, dass zusätzliche Kapazitäten geschaffen werden und diese der kantonalen Bedarfsplanung entsprechen.
 
-<sup>2</sup> …
+<sup>2</sup> ...[^6-1]
+
+[^6-1]: Aufgehoben durch RRB vom 11. Dezember 2007, in Kraft gesetzt auf den 1. Janu-
 
 #### Artikel 7
 
 **Teuerungsbedingte Mehrkosten**
 
-<sup>1</sup> Ausgewiesene teuerungsbedingte Mehrkosten werden zum gleichen Prozentsatz wie die Baukosten subventioniert.
+Ausgewiesene teuerungsbedingte Mehrkosten werden zum gleichen Prozentsatz wie die Baukosten subventioniert.
 
 #### Artikel 8
 
@@ -88,25 +96,39 @@ beschliesst:
 
 **Unterlagen**
 
-<sup>1</sup> Den Gesuchen sind in der Regel beizulegen:
+<sup>1</sup> Den Gesuchen sind in der Regel beizulegen a) Unterlagen zur Gesuch stellenden Person, wie Satzungen, Beschlüsse der zuständigen Behörden, Stiftungsurkunden und dergleichen;
 
-- a) Unterlagen zur Gesuch stellenden Person, wie Satzungen, Beschlüsse der zuständigen Behörden, Stiftungsurkunden und dergleichen
-- b) Erläuterungsbericht mit Baubeschrieb
-- c) Situationsplan im Massstab 1:500 oder 1:1000, mit eingezeichnetem Bauprojekt und den Grundstückgrenzen
+- b) Erläuterungsbericht mit Baubeschrieb;
+
+- c) Situationsplan im Massstab 1:500 oder 1:1000, mit eingezeichnetem Bauprojekt und den Grundstückgrenzen;
+
 - d) Grundrisse, Schnitte und Fassaden im Massstab 1:100, denen folgende Angaben entnommen werden können:
-  - 1\. Hauptabmessungen
-  - 2\. Zweckbestimmung und Fläche der Räume
-  - 3\. Möblierung
-  - 4\. Terrainverlauf
-  - 5\. bei Umbauten farbige Bezeichnung der Gebäudeteile (bestehend = schwarz, Abbruch = gelb, neu = rot)
-  - 6\. bei Mehrzweckgebäuden: farbige Bezeichnung jener Räume, welche für einen Beitrag in Betracht fallen
-- e) Kostenvoranschlag, aufgestellt nach Baukostenplan CRB (Hauptposition dreistellig), mit Angabe des Preisstandes. Die Kostenvoranschläge sind nach Objekten zu trennen
-- f) kubische Berechnung, erstellt nach SIA, mit überprüfbarem Schema und Angabe der m3-Preise
-- g) Kopie des Kaufvertrages bei Liegenschaftserwerb
-- h) Kopie des Baurechtsvertrages beim Bauen im Baurecht
-- i) Finanzierungsplan
-- j) Betriebsbudget mit Erläuterungen (Personalbedarf usw.)
-- k) Datum (Monat), an welchem mit den Bauarbeiten begonnen werden soll, und voraussichtliche Bauzeit
+
+- Hauptabmessungen
+
+- Zweckbestimmung und Fläche der Räume
+
+- Möblierung
+
+- Terrainverlauf
+
+- bei Umbauten farbige Bezeichnung der Gebäudeteile (bestehend = schwarz, Abbruch = gelb, neu = rot)
+
+- bei Mehrzweckgebäuden: farbige Bezeichnung jener Räume, welche für einen Beitrag in Betracht fallen
+
+- e) Kostenvoranschlag, aufgestellt nach Baukostenplan CRB (Hauptposition dreistellig), mit Angabe des Preisstandes. Die Kostenvoranschläge sind nach Objekten zu trennen;
+
+- f) kubische Berechnung, erstellt nach SIA, mit überprüfbarem Schema und Angabe der m3-Preise;
+
+- g) Kopie des Kaufvertrages bei Liegenschaftserwerb;
+
+- h) Kopie des Baurechtsvertrages beim Bauen im Baurecht;
+
+- i) Finanzierungsplan;
+
+- j) Betriebsbudget mit Erläuterungen (Personalbedarf usw.);
+
+- k) Datum (Monat), an welchem mit den Bauarbeiten begonnen werden soll, und voraussichtliche Bauzeit.
 
 <sup>2</sup> Die Gesundheits-, Sozial- und Umweltdirektion kann weitere Unterlagen verlangen.
 
@@ -122,7 +144,7 @@ beschliesst:
 
 **Vorzeitiger Baubeginn**
 
-<sup>1</sup> In dringenden Fällen kann der Regierungsrat einen vorzeitigen Baubeginn bewilligen. Dadurch werden weder eine Beitragsbemessung noch eine Beitragszusicherung präjudiziert.
+In dringenden Fällen kann der Regierungsrat einen vorzeitigen Baubeginn bewilligen. Dadurch werden weder eine Beitragsbemessung noch eine Beitragszusicherung präjudiziert.
 
 #### Artikel 12
 
@@ -130,7 +152,7 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat sichert den Kantonsbeitrag aufgrund der Unterlagen zu, sofern und soweit die Voraussetzungen dafür erfüllt sind. Die definitive Zusicherung des Kantonsbeitrags anhand der Schlussabrechnung bleibt vorbehalten.
 
-<sup>2</sup> Die Zusicherung des Beitrags kann mit Bedingungen und Auflagen verbunden werden.
+2 Die Zusicherung des Beitrags kann mit Bedingungen und Auflagen verbunden werden.
 
 #### Artikel 13
 
@@ -138,9 +160,12 @@ beschliesst:
 
 <sup>1</sup> Wenn die Bauarbeiten abgeschlossen sind, ist dem Regierungsrat eine detaillierte Abrechnung mit allen Rechnungs- und quittierten Zahlungsbelegen einzureichen.
 
-<sup>2</sup> Aufgrund der ausgewiesenen anrechenbaren Kosten und nach der Schlussabnahme durch bevollmächtigte Delegierte des Kantons sichert der Regierungsrat den definitiven Kantonsbeitrag zu.
+<sup>2</sup> Aufgrund der ausgewiesenen anrechenbaren Kosten und nach der Schlussabnahme durch bevollmächtigte Delegierte des Kantons sichert der Regierungsrat den definitiven Kantonsbeitrag zu.[^13-1]
 
-<sup>3</sup> …
+<sup>3</sup> …[^13-2]
+
+[^13-1]: Fassung gemäss RRB vom 11. Dezember 2007, in Kraft gesetzt auf den 1. Januar 2008 (AB vom 21. Dezember 2007).
+[^13-2]: Aufgehoben durch RRB vom 11. Dezember 2007, in Kraft gesetzt auf den 1. Janu-
 
 #### Artikel 14
 
@@ -162,18 +187,18 @@ beschliesst:
 
 **Kontrolle**
 
-<sup>1</sup> Die Bauherrschaft hat den zuständigen Organen des Kantons jederzeit Zutritt zur Baustelle und Einsicht in die Rechnungsbelege zu gewähren.
+Die Bauherrschaft hat den zuständigen Organen des Kantons jederzeit Zutritt zur Baustelle und Einsicht in die Rechnungsbelege zu gewähren.
 
 #### Artikel 17
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Das Reglement vom 21. Dezember 1992 über die Baubeiträge an Alters-, Pflege- und Invalidenheime wird aufgehoben.
+Das Reglement vom 21. Dezember 1992 über die Baubeiträge an Alters-, Pflege- und Invalidenheime<sup>7</sup> wird aufgehoben.
 
-#### Artikel 18
+**Artikel 18 Inkrafttreten**
 
-**Inkrafttreten**
+Dieses Reglement tritt am 1. Mai 2005 in Kraft.
 
-<sup>1</sup> Dieses Reglement tritt am 1. Mai 2005 in Kraft.
+Im Namen des Regierungsrates
 
-AB 08.04.2005
+Der Landammann: Josef Arnold Der Kanzleidirektor: Dr. Peter Huber
