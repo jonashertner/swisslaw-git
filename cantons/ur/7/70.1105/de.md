@@ -1,32 +1,35 @@
 ---
 canton: UR
 number: "70.1105"
-title: Reglement über die Berufs- und Weiterbildung
+title: REGLEMENT über die Berufs- und Weiterbildung
 short: BWR
 language: de
 version: 2011-01-01
+corrected: 2025-08-19
 version_adopted: 2010-03-23
 adopted: 2007-12-18
 in_force: 2008-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/70.1105"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/827/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/16/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über die Berufs- und Weiterbildung
+# REGLEMENT über die Berufs- und Weiterbildung
 
-(BWR)
+REGLEMENT über die Berufs- und Weiterbildung (BWR)
 
-Vom 18.12.2007 (Stand 01.01.2011)
+(vom 18. Dezember 2007[^t-1]; Stand am 1. Januar 2011)
 
-Der Regierungsrat des Kantons Uri,
-
-gestützt auf Artikel 38 Absatz 2 der Verordnung vom 20. Dezember 2006 über die Berufs- und Weiterbildung (BWV, RB [70.1103](https://rechtsbuch.ur.ch/data/70.1103/de)),
+Der Regierungsrat des Kantons Uri, gestützt auf Artikel 38 Absatz 2 der Verordnung vom 20. Dezember 2006 über die Berufs- und Weiterbildung (BWV)[^t-2],
 
 beschliesst:
 
-## 1 Berufliche Grundbildung
+[^t-1]: AB vom 4. Januar 2008
+[^t-2]: RB 70.1103
+
+### 1. Kapitel: BERUFLICHE GRUNDBILDUNG
 
 #### Artikel 1
 
@@ -40,11 +43,13 @@ beschliesst:
 
 **Beginn der Berufslehre**
 
-<sup>1</sup> Die Lehre beginnt frühestens am 1. Juli und spätestens bei Beginn des Schuljahrs an der zu besuchenden Berufsfachschule. Über Ausnahmen entscheidet das Amt für Berufsbildung und Mittelschulen auf Antrag der Vertragsparteien und nach Anhörung der zugewiesenen Berufsfachschule.
+Die Lehre beginnt frühestens am 1. Juli und spätestens bei Beginn des Schuljahrs an der zu besuchenden Berufsfachschule. Über Ausnahmen entscheidet das Amt für Berufsbildung und Mittelschulen auf Antrag der Vertragsparteien und nach Anhörung der zugewiesenen Berufsfachschule.
 
 #### Artikel 3
 
-**Erteilen der Bildungsbewilligung: Grundsatz**
+**Erteilen der Bildungsbewilligung**
+
+- a) Grundsatz
 
 <sup>1</sup> Lehrbetriebe dürfen Lehrverträge nur abschliessen, wenn sie über eine Bildungsbewilligung im entsprechenden Beruf verfügen.
 
@@ -52,31 +57,33 @@ beschliesst:
 
 <sup>3</sup> Das Amt für Berufsbildung und Mittelschulen prüft, ob die gesetzlichen Voraussetzungen für das Erteilen der Bildungsbewilligung erfüllt sind. Es zieht dazu Fachberaterinnen und Fachberater der Organisationen der Arbeitswelt bei. Die Entschädigung erfolgt gemäss den Ansätzen nach Artikel 11.
 
-#### Artikel 4
+#### Artikel 4 b
 
-**Erteilen der Bildungsbewilligung: Ausnahmen**
+**) Ausnahmen**
 
 <sup>1</sup> Eine Bildungsbewilligung kann ausnahmsweise nach Anhörung der für den entsprechenden Beruf zuständigen Organisation der Arbeitswelt auch dann erteilt werden, wenn nicht alle Voraussetzungen der Verordnung über die berufliche Grundbildung des entsprechenden Berufes erfüllt sind. Voraussetzungen dafür sind:
 
-- a) ein Mangel an Ausbildungsplätzen in beruflicher Praxis in der entsprechenden beruflichen Grundbildung
-- b) dass die Voraussetzungen beim Lehrbetrieb einen möglichen Bildungserfolg zulassen
+- a) ein Mangel an Ausbildungsplätzen in beruflicher Praxis in der entsprechenden beruflichen Grundbildung;
 
-<sup>2</sup> In begründeten Einzelfällen kann das Amt für Berufsbildung und Mittelschulen nach Anhörung der für den entsprechenden Beruf zuständigen Organisation der Arbeitswelt einem Lehrbetrieb erlauben, mehr Lehr- oder Praktikumsverträge abzuschliessen, als die Verordnung über die berufliche Grundbildung des entsprechenden Berufes erlaubt. Dies ist namentlich dann der Fall, wenn:
+- b) dass die Voraussetzungen beim Lehrbetrieb einen möglichen Bildungserfolg zulassen.
 
-- a) ein Lehrjahr lge Nichtbestehens des Qualifikationsverfahren wiederholt werden muss
-- b) der Lehrbetrieb sich bereit erklärt, ein in einem anderen Betrieb aufgelöstes Lehrverhältnis weiterzuführen
-- c) ein Mangel an verfügbaren Lehrstellen im entsprechenden Beruf besteht
+<sup>2</sup> In begründeten Einzelfällen kann das Amt für Berufsbildung und Mittelschulen nach Anhörung der für den entsprechenden Beruf zuständigen Organisation der Arbeitswelt einem Lehrbetrieb erlauben, mehr Lehr- oder Praktikumsverträge abzuschliessen, als die Verordnung über die berufliche Grundbildung des entsprechenden Berufes erlaubt. Dies ist namentlich dann der Fall, wenn a) ein Lehrjahr lge Nichtbestehens des Qualifikationsverfahren wiederholt werden muss;
+
+- b) der Lehrbetrieb sich bereit erklärt, ein in einem anderen Betrieb aufgelöstes Lehrverhältnis weiterzuführen;
+
+- c) ein Mangel an verfügbaren Lehrstellen im entsprechenden Beruf besteht.
 
 #### Artikel 5
 
 **Verweigerung und Entzug der Bildungsbewilligung**
 
-<sup>1</sup> Das Amt für Berufsbildung und Mittelschulen kann die Bildungsbewilligung verweigern oder entziehen, wenn:
+<sup>1</sup> Das Amt für Berufsbildung und Mittelschulen kann die Bildungsbewilligung verweigern oder entziehen, wenn a) die Bildung in beruflicher Praxis ungenügend ist;
 
-- a) die Bildung in beruflicher Praxis ungenügend ist
-- b) die Berufsbildnerinnen und Berufsbildner nicht über die notwendigen fachlichen oder persönlichen Voraussetzungen verfügen
-- c) betriebliche oder andere gesetzliche Voraussetzungen nicht erfüllt sind
-- d) gesetzliche Pflichten oder mit der Bildungsbewilligung verbundene Auflagen verletzt werden
+- b) die Berufsbildnerinnen und Berufsbildner nicht über die notwendigen fachlichen oder persönlichen Voraussetzungen verfügen;
+
+- c) betriebliche oder andere gesetzliche Voraussetzungen nicht erfüllt sind;
+
+- d) gesetzliche Pflichten oder mit der Bildungsbewilligung verbundene Auflagen verletzt werden.
 
 <sup>2</sup> Wird die Bildungsbewilligung entzogen, ist der Lehrvertrag unverzüglich aufzulösen. Will die oder der Lernende die Berufslehre weiterführen, ist das Amt für Berufsbildung und Mittelschulen bei der Suche nach einem neuen Lernort behilflich.
 
@@ -96,7 +103,7 @@ beschliesst:
 
 **Koordination**
 
-<sup>1</sup> Das Amt für Berufsbildung und Mittelschulen sorgt in enger Zusammenarbeit mit den Berufsfachschulen für die Koordination zwischen den an der beruflichen Grundbildung beteiligten Personen und Organisationen.
+Das Amt für Berufsbildung und Mittelschulen sorgt in enger Zusammenarbeit mit den Berufsfachschulen für die Koordination zwischen den an der beruflichen Grundbildung beteiligten Personen und Organisationen.
 
 #### Artikel 8
 
@@ -106,9 +113,9 @@ beschliesst:
 
 <sup>2</sup> Das Amt für Berufsbildung und Mittelschulen entscheidet über den Besuch von Freikursen und Stützkursen, wenn sich die Lehrvertragsparteien und die Berufsfachschule nicht einigen können.
 
-## 2 Qualifikationsverfahren
+### 2. Kapitel: QUALIFIKATIONSVERFAHREN
 
-### 2.1 Organisation und Zuständigkeiten
+### 1. Abschnitt: Organisation und Zuständigkeiten
 
 #### Artikel 9
 
@@ -116,42 +123,57 @@ beschliesst:
 
 <sup>1</sup> Das Amt für Berufsbildung und Mittelschulen organisiert und koordiniert die Qualifikationsverfahren in Zusammenarbeit mit den Berufs- und Berufsfachschulen, Organisationen der Arbeitswelt, Lehrbetrieben und dritten Lernorten. Es:
 
-- a) ordnet Zwischenqualifizierungen nach Artikel 3 BWV (RB [70.1103](https://rechtsbuch.ur.ch/data/70.1103/de)) an
-- b) entscheidet über die Anrechnung von Lernleistungen und über Gleichwertigkeitserklärungen
-- c) entscheidet über die Befreiung von einzelnen Qualifikationsbereichen und nach Anhörung der Berufsfachschule über die Befreiung vom Besuch des Berufsfachschulunterrichts
-- d) entscheidet nach Anhörung der schulischen Prüfungsleitung oder der Chefexpertinnen oder ‑experten über die Gewährung von Erleichterungen beim Qualifikationsverfahren
-- e) überwacht die Validierung von Prüfungsaufgaben
-- f) ernennt mit Ausnahme jener an der Kantonalen Berufsfachschule die Chef- und Prüfungsexpertinnen und ‑experten
-- g) überwacht den ordnungsgemässen Prüfungsablauf
-- h) verfügt das Resultat des Qualifikationsverfahrens und erlässt die notwendigen Prüfungsvorschriften und Weisungen
-- i) stellt die Ausweise und Titel aus
-- j) erstattet der Berufsbildungskommission jährlich Bericht über Ablauf und Ergebnis der Qualifikationsverfahren
+- a) ordnet Zwischenqualifizierungen nach Artikel 3 BWV[^9-1] an;
+
+- b) entscheidet über die Anrechnung von Lernleistungen und über Gleichwertigkeitserklärungen;
+
+- c) entscheidet über die Befreiung von einzelnen Qualifikationsbereichen und nach Anhörung der Berufsfachschule über die Befreiung vom Besuch des Berufsfachschulunterrichts;
+
+- d) entscheidet nach Anhörung der schulischen Prüfungsleitung oder der Chefexpertinnen oder -experten über die Gewährung von Erleichterungen beim Qualifikationsverfahren;
+
+- e) überwacht die Validierung von Prüfungsaufgaben;
+
+- f) ernennt mit Ausnahme jener an der Kantonalen Berufsfachschule die Chef- und Prüfungsexpertinnen und -experten;
+
+- g) überwacht den ordnungsgemässen Prüfungsablauf;
+
+- h) verfügt das Resultat des Qualifikationsverfahrens und erlässt die notwendigen Prüfungsvorschriften und Weisungen;[^9-2]
+
+- i) stellt die Ausweise und Titel aus;
+
+- j) erstattet der Berufsbildungskommission jährlich Bericht über Ablauf und Ergebnis der Qualifikationsverfahren.
 
 <sup>2</sup> Die Schulkommission der Kantonalen Berufsfachschule ernennt die schulischen Prüfungsleitungen und die schulischen Expertinnen und Experten und reicht sie dem Amt für Berufsbildung und Mittelschulen zur Bestätigung ein.
 
-<sup>3</sup> Die schulischen Prüfungsleitungen und die Chefexpertinnen und ‑experten sind gegenüber den Expertinnen und Experten weisungsbefugt.
+<sup>3</sup> Die schulischen Prüfungsleitungen und die Chefexpertinnen und -experten sind gegenüber den Expertinnen und Experten weisungsbefugt.
+
+[^9-1]: RB 70.1103
+[^9-2]: Fassung gemäss RRB vom 23. März 2010, in Kraft gesetzt auf den 1. Mai 2010 (AB vom 1. April 2010).
 
 #### Artikel 10
 
 **Benutzung von Infrastrukturen**
 
-<sup>1</sup> Bei Bedarf und wenn die Kapazitäten dies zulassen, sind die Räume und Einrichtungen von überbetrieblichen Kursen und Berufsfachschulen gebührenfrei für Qualifikationsverfahren zur Verfügung zu stellen.
+Bei Bedarf und wenn die Kapazitäten dies zulassen, sind die Räume und Einrichtungen von überbetrieblichen Kursen und Berufsfachschulen gebührenfrei für Qualifikationsverfahren zur Verfügung zu stellen.
 
 #### Artikel 11
 
 **Entschädigungen**
 
-<sup>1</sup> Die Entschädigung der Prüfungsexpertinnen und Prüfungsexperten beträgt 40 Franken pro Arbeitsstunde. Die Spesenentschädigung richtet sich nach den Bestimmungen der Personalverordnung{ (RB [2.4211](https://rechtsbuch.ur.ch/data/2.4211/de)).
+<sup>1</sup> Die Entschädigung der Prüfungsexpertinnen und Prüfungsexperten beträgt 40 Franken pro Arbeitsstunde. Die Spesenentschädigung richtet sich nach den Bestimmungen der Personalverordnung[^11-1].[^11-2]
 
-<sup>2</sup> Das Amt für Berufsbildung und Mittelschulen legt Grundsätze für das Festlegen der entschädigungsberechtigten Arbeitsstunden fest. In diesem Rahmen bestimmen die schulischen Prüfungsleitungen und die Chefexpertinnen und ‑experten den entschädigungsberechtigten Umfang im Einzelfall.
+<sup>2</sup> Das Amt für Berufsbildung und Mittelschulen legt Grundsätze für das Festlegen der entschädigungsberechtigten Arbeitsstunden fest. In diesem Rahmen bestimmen die schulischen Prüfungsleitungen und die Chefexpertinnen und -experten den entschädigungsberechtigten Umfang im Einzelfall.
 
-### 2.2 Rechte und Pflichten der Lernenden
+[^11-1]: RB 2.4211
+[^11-2]: Fassung gemäss RRB vom 23. März 2010, in Kraft gesetzt auf den 1. Januar 2011 (AB vom 1. April 2010).
+
+### 2. Abschnitt: Rechte und Pflichten der Lernenden
 
 #### Artikel 12
 
 **Verhinderung**
 
-<sup>1</sup> Wer ein Qualifikationsverfahren oder Teile davon aus wichtigen Gründen wie Krankheit oder Unfall nicht antreten oder zu Ende führen kann, hat die Prüfungsleitung umgehend zu informieren und die Absenz beispielsweise mittels eines Arztzeugnisses zu begründen. Liegen wichtige Gründe vor, kann das Amt für Berufsbildung und Mittelschulen nach Anhörung der schulischen Prüfungsleitungen und der Chefexpertinnen und ‑experten besondere Nachprüfungen anordnen.
+<sup>1</sup> Wer ein Qualifikationsverfahren oder Teile davon aus wichtigen Gründen wie Krankheit oder Unfall nicht antreten oder zu Ende führen kann, hat die Prüfungsleitung umgehend zu rmieren und die Absenz beispielsweise mittels eines Arztzeugnisses zu begründen. Liegen wichtige Gründe vor, kann das Amt für Berufsbildung und Mittelschulen nach Anhörung der schulischen Prüfungsleitungen und der Chefexpertinnen und -experten besondere Nachprüfungen anordnen.
 
 <sup>2</sup> Fehlen wichtige Gründe oder wird die Verhinderung nicht begründet, hat die angemeldete Person die verursachten Kosten zu tragen. Die verpassten Teile des Qualifikationsverfahrens gelten als nicht bestanden.
 
@@ -159,15 +181,15 @@ beschliesst:
 
 **Unregelmässigkeiten**
 
-<sup>1</sup> Bei Verstoss gegen Prüfungsvorschriften oder Weisungen der Prüfungsorgane und bei Unregelmässigkeiten im Qualifikationsverfahren, wie Gebrauch unerlaubter Hilfsmittel, unerlaubte Kommunikation mit Dritten, nicht selbstständige Erarbeitung von schriftlichen Arbeiten oder Erstellung von Plagiaten, kann das Qualifikationsverfahren vom Amt für Berufsbildung und Mittelschulen auf Antrag der Prüfungsleitung oder der Chefexpertinnen und ‑experten ganz oder teilweise für nicht bestanden erklärt werden.
+Bei Verstoss gegen Prüfungsvorschriften oder Weisungen der Prüfungsorgane und bei Unregelmässigkeiten im Qualifikationsverfahren, wie Gebrauch unerlaubter Hilfsmittel, unerlaubte Kommunikation mit Dritten, nicht selbstständige Erarbeitung von schriftlichen Arbeiten oder Erstellung von Plagiaten, kann das Qualifikationsverfahren vom Amt für Berufsbildung und Mittelschulen auf Antrag der Prüfungsleitung oder der Chefexpertinnen und -experten ganz oder teilweise für nicht bestanden erklärt werden.
 
 #### Artikel 14
 
 **Verwendung der Prüfungsstücke**
 
-<sup>1</sup> Über die Verwendung der Prüfungsstücke nach Abschluss der Qualifikationsverfahren in der beruflichen Grundbildung entscheidet das Amt für Berufsbildung und Mittelschulen. Die Lernenden können die Prüfungsstücke in der Regel gegen Vergütung des Materialwerts für sich beanspruchen.
+Über die Verwendung der Prüfungsstücke nach Abschluss der Qualifikationsverfahren in der beruflichen Grundbildung entscheidet das Amt für Berufsbildung und Mittelschulen. Die Lernenden können die Prüfungsstücke in der Regel gegen Vergütung des Materialwerts für sich beanspruchen.
 
-### 2.3 Übertragung von Qualifikationsverfahren
+### 3. Abschnitt: Übertragung von Qualifikationsverfahren
 
 #### Artikel 15
 
@@ -177,7 +199,7 @@ beschliesst:
 
 <sup>3</sup> Die Bestimmungen nach Artikel 9 bis 14 gelten sinngemäss.
 
-### 2.4 Anrechnung von Lernleistungen und Nachholbildung
+### 4. Abschnitt: Anrechnung von Lernleistungen und Nachholbildung
 
 #### Artikel 16
 
@@ -185,10 +207,11 @@ beschliesst:
 
 <sup>1</sup> Das Amt für Berufsbildung und Mittelschulen entscheidet in Zusammenarbeit mit den entsprechenden Organisationen der Arbeitswelt über die Anerkennung nicht formal erworbener Bildung und die Zulassung zum Qualifikationsverfahren.
 
-<sup>2</sup> Es stellt nach Anhörung der Chefexpertin oder des ‑experten im entsprechenden Beruf einen Ausweis für die nicht formal erworbene Bildung (Validierung) aus, wenn:
+<sup>2</sup> Es stellt nach Anhörung der Chefexpertin oder des -experten im entsprechenden Beruf einen Ausweis für die nicht formal erworbene Bildung (Validierung) aus, wenn:
 
-- a) die Kompetenzen, die ausserhalb üblicher Bildungsgänge durch berufliche oder ausserberufliche praktische Erfahrungen erworben worden sind, zusammengestellt und dokumentiert sind (Selbstevaluation) und
-- b) diese Kompetenzen durch die Anbieter von Berufsbildung institutionell überprüft und anerkannt worden sind (Fremdevaluation)
+- a) die Kompetenzen, die ausserhalb üblicher Bildungsgänge durch berufliche oder ausserberufliche praktische Erfahrungen erworben worden sind, zusammengestellt und dokumentiert sind (Selbstevaluation), und
+
+- b) diese Kompetenzen durch die Anbieter von Berufsbildung institutionell überprüft und anerkannt worden sind (Fremdevaluation).
 
 #### Artikel 17
 
@@ -196,20 +219,23 @@ beschliesst:
 
 <sup>1</sup> Das Amt für Berufsbildung und Mittelschulen prüft unter Beizug entsprechender Expertinnen und Experten die Voraussetzungen, welche die Lernenden für eine Nachholbildung mitbringen müssen und legt die noch zu erbringenden Lernleistungen fest.
 
-<sup>2</sup> Für Lernende ohne Abschluss auf der Sekundarstufe II übernimmt der Kanton im Rahmen von interkantonalen Vereinbarungen die entsprechenden Schulgelder. Alle übrigen haben sich gemäss «Reglement über die Gebühren (noch zu erstellen)» an den Schulgeldkosten zu beteiligen.
+2 Für Lernende ohne Abschluss auf der Sekundarstufe II übernimmt der Kanton im Rahmen von interkantonalen Vereinbarungen die entsprechenden Schulgelder. Alle übrigen haben sich gemäss «Reglement über die Gebühren (noch zu erstellen)» an den Schulgeldkosten zu beteiligen.
 
-## 3 Überbetriebliche Kurse
+### 3. Kapitel: ÜBERBETRIEBLICHE KURSE
 
 #### Artikel 18
 
 **Voraussetzungen**
 
-<sup>1</sup> Beiträge an überbetriebliche Kurse werden ausgerichtet, wenn:
+Beiträge an überbetriebliche Kurse werden ausgerichtet, wenn a) die Qualitätsentwicklung nach Artikel 8 des Berufsbildungsgesetzes[^18-1] sichergestellt ist;
 
-- a) die Qualitätsentwicklung nach Artikel 8 des Berufsbildungsgesetzes (SR [412.10](https://db.clex.ch/link/Bund/412.10/de)) sichergestellt ist
-- b) die Anbieter von überbetrieblichen Kursen mit den Berufsfachschulen und den Lehrbetrieben zusammenarbeiten
-- c) allfällige Vorgaben des Amts für Berufsbildung und Mittelschulen eingehalten werden
-- d) die Inhalte der Kurse den gesetzlichen Voraussetzungen der massgebenden Verordnungen über die berufliche Grundbildung des Bundesamts und den entsprechenden Bildungsplänen genügen
+- b) die Anbieter von überbetrieblichen Kursen mit den Berufsfachschulen und den Lehrbetrieben zusammenarbeiten;
+
+- c) allfällige Vorgaben des Amts für Berufsbildung und Mittelschulen eingehalten werden;
+
+- d) die Inhalte der Kurse den gesetzlichen Voraussetzungen der massgebenden Verordnungen über die berufliche Grundbildung des Bundesamts und den entsprechenden Bildungsplänen genügen.
+
+[^18-1]: SR 412.10
 
 #### Artikel 19
 
@@ -219,25 +245,27 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat kann ausnahmsweise auch höhere Beiträge gewähren, namentlich wenn der entsprechende überbetriebliche Kurs nur mit höheren Beiträgen gesichert werden kann.
 
-## 4 Höhere Berufsbildung
+### 4. Kapitel: HÖHERE BERUFSBILDUNG
 
 #### Artikel 20
 
 **Beiträge**
 
-<sup>1</sup> Beiträge an den Besuch von ausserkantonalen Angeboten richten sich nach der Interkantonalen Fachschulvereinbarung.
+Beiträge an den Besuch von ausserkantonalen Angeboten richten sich nach der Interkantonalen Fachschulvereinbarung.
 
-## 5 Allgemeine Und Berufsorientierte Weiterbildung
+### 5. Kapitel: ALLGEMEINE UND BERUFSORIENTIERTE WEITERBILDUNG
 
 #### Artikel 21
 
 **Beiträge an die allgemeine Weiterbildung**
 
-<sup>1</sup> Das Amt für Berufsbildung und Mittelschulen kann im Rahmen des Budgets Beiträge an Angebote gewähren, welche die Voraussetzungen nach Artikel 26 BWV (RB [70.1103](https://rechtsbuch.ur.ch/data/70.1103/de)) erfüllen.
+<sup>1</sup> Das Amt für Berufsbildung und Mittelschulen kann im Rahmen des Budgets Beiträge an Angebote gewähren, welche die Voraussetzungen nach Artikel 26 BWV[^21-1] erfüllen.
 
-<sup>2</sup> Der gewährte Beitrag darf 50 Prozent der ausgewiesenen Kurskosten und 10'000 Franken nicht übersteigen.
+<sup>2</sup> Der gewährte Beitrag darf 50 Prozent der ausgewiesenen Kurskosten und 10 000 Franken nicht übersteigen.
 
 <sup>3</sup> Von einer Beitragsgewährung ausgeschlossen sind Angebote, die mit anderweitigen kantonalen Beiträgen unterstützt werden.
+
+[^21-1]: RB 70.1103
 
 #### Artikel 22
 
@@ -247,24 +275,26 @@ beschliesst:
 
 <sup>2</sup> Die Kantonale Berufsfachschule Uri hat, soweit sie solche Kurse anbietet, die anfallenden Kosten durch Kursbeiträge zu finanzieren.
 
-## 6 Schlussbestimmungen
+### 6. Kapitel: SCHLUSSBESTIMMUNGEN
 
 #### Artikel 23
 
 **Rechtsschutz**
 
-<sup>1</sup> Der Rechtsschutz richtet sich nach der Verordnung über die Berufs- und Weiterbildung.
+Der Rechtsschutz richtet sich nach der Verordnung über die Berufs- und Weiterbildung.
 
 #### Artikel 24
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Die Vorschriften vom 2. Oktober 1961 für das Haushaltlehrwesen werden aufgehoben.
+Die Vorschriften vom 2. Oktober 1961 für das Haushaltlehrwesen werden aufgehoben.
 
 #### Artikel 25
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Reglement tritt am 1. Januar 2008 in Kraft.
+Dieses Reglement tritt am 1. Januar 2008 in Kraft.
 
-AB 04.01.2008
+Im Namen des Regierungsrats
+
+Der Landammann: Dr. Markus Stadler Der Kanzleidirektor: Dr. Peter Huber
