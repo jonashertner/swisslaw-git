@@ -4,13 +4,13 @@ number: "44.11"
 title: "Règlement sur les bourses et les prêts d'études"
 short: RBPE
 language: fr
-version: 2025-07-04
-valid_until: 2025-08-18
-version_adopted: 2025-07-04
+version: 2025-08-19
+valid_until: 2026-08-16
+version_adopted: 2025-08-19
 adopted: 2008-07-08
 in_force: 2008-09-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/44.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8233/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8244/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Bourses et prêts d'études – R
 
 (RBPE)
 
-du 08.07.2008 (version entrée en vigueur le 04.07.2025)
+du 08.07.2008 (version entrée en vigueur le 19.08.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -100,7 +100,7 @@ Arrête:
 
 <sup>4</sup> Les personnes en formation qui, après avoir terminé une première formation, et avant de commencer la formation pour laquelle elles sollicitent un subside, ont leur domicile déterminant dans le canton si elles y ont élu domicile pendant au moins deux ans sans interruption en exerçant une activité lucrative garantissant leur indépendance financière; le service militaire, le service civil, le chômage et le fait d'assister des proches vivant dans le même ménage sont considérés comme une activité lucrative. Si elles sont de nationalité étrangère, elles doivent en outre être établies en Suisse (permis C) ou être titulaires d'une autorisation de séjour (permis B) depuis cinq ans au minimum. L'article 10 al. 1 let. d LBPE est réservé.
 
-<sup>5</sup> Les personnes réfugiées ou apatrides reconnues par la Suisse ont leur domicile déterminant dans le canton si elles y ont leur domicile civil; cette règle s'applique aux personnes réfugiées ou apatrides, dans la mesure où leur encadrement incombe au canton. L'alinéa 4 est réservé.
+<sup>5</sup> Les personnes réfugiées ou apatrides reconnues par la Suisse, ainsi que les personnes au bénéfice d'une admission provisoire ou d'une protection provisoire titulaires d'un permis S, ont leur domicile déterminant dans le canton si elles y ont leur domicile civil; cette règle s'applique à ces personnes, dans la mesure où leur encadrement incombe au canton. L'alinéa 4 est réservé.
 
 <sup>6</sup> Une fois acquis, le domicile déterminant reste valable aussi longtemps qu'un nouveau domicile n'est pas constitué.
 
@@ -156,8 +156,8 @@ Arrête:
 <sup>4</sup> La demande doit être accompagnée:
 
 - a) de l'attestation d'immatriculation à la formation ou d'une copie du contrat d'apprentissage;
-- b) de l'avis de taxation ordinaire de la personne en formation et, le cas échéant, de son conjoint ou sa conjointe ou de son ou sa partenaire enregistré-e, des parents et d'autres personnes légalement tenues à son entretien, pour la période fiscale qui précède l'année de formation. Si les parents sont séparés ou divorcés, les deux avis de taxation sont nécessaires;
-- c) des derniers certificats de salaire et attestations de tout autre revenu de la personne en formation et de son conjoint ou sa conjointe ou de son ou sa partenaire enregistré-e;
+- b) de l'avis de taxation ordinaire de la personne en formation et, le cas échéant, de son conjoint ou sa conjointe, de son ou sa partenaire enregistré‑e ou de son concubin ou de sa concubine avec enfant(s) commun(s), des parents et d'autres personnes légalement tenues à son entretien, pour la période fiscale qui précède l'année de formation. Si les parents sont séparés ou divorcés, les deux avis de taxation sont nécessaires;
+- c) des derniers certificats de salaire et attestations de tout autre revenu de la personne en formation et de son conjoint ou sa conjointe, de son ou sa partenaire enregistré‑e ou de son concubin ou de sa concubine avec enfant(s) commun(s);
 - d) de l'attestation d'établissement ou de séjour en Suisse pour les personnes de nationalité étrangère.
 
 <sup>5</sup> Le Service des subsides de formation (ci-après: le Service) peut, en cas de besoin, exiger la présentation de documents complémentaires.
@@ -200,7 +200,7 @@ Arrête:
 
 #### Art. 15
 
-<sup>1</sup> La bourse correspond, dans les limites des minima et maxima fixés à l'article 9, aux frais reconnus d'instruction et d'entretien de la personne en formation, diminués d'une participation minimale que l'on peut attendre de sa part et de la participation des parents, le cas échéant, de son conjoint ou sa conjointe ou de son ou sa partenaire enregistré-e et d'autres personnes légalement tenues à son entretien. Le calcul du manque identifié est établi à partir du budget de la famille et du budget de la personne en formation.
+<sup>1</sup> La bourse correspond, dans les limites des minima et maxima fixés à l'article 9, aux frais reconnus d'instruction et d'entretien de la personne en formation, diminués d'une participation minimale que l'on peut attendre de sa part et de la participation des parents, le cas échéant, de son conjoint ou sa conjointe, de son ou sa partenaire enregistré‑e ou de son concubin ou de sa concubine avec enfant(s) commun(s), et d'autres personnes légalement tenues à son entretien. Le calcul du manque identifié est établi à partir du budget de la famille et du budget de la personne en formation.
 
 ### 4.2 Budget de la famille
 
@@ -310,7 +310,7 @@ Arrête:
 
 **Disposition générale**
 
-<sup>1</sup> Le budget de la personne en formation (voir annexe 1) sert à déterminer sa situation financière, le cas échéant celle de son conjoint ou sa conjointe ou de son ou sa partenaire enregistré-e.
+<sup>1</sup> Le budget de la personne en formation (voir Annexe 1) sert à déterminer sa situation financière, le cas échéant celle de son conjoint ou sa conjointe, de son ou sa partenaire enregistré‑e, ou de son concubin ou de sa concubine avec enfant(s) commun(s).
 
 #### Art. 26
 
@@ -322,13 +322,13 @@ Arrête:
 - b) les éventuelles rentes et prestations d'assurances, avec une déduction de 10 %. Toutefois, si la personne en formation loge chez ses parents, ces montants sont ajoutés au revenu déterminant des parents;
 - c) les éventuelles pensions alimentaires et prestations complémentaires. Toutefois, si la personne en formation loge chez ses parents, ces montants sont ajoutés au revenu déterminant des parents;
 - d) une participation minimale de 2000 francs pour les personnes en formation secondaire du deuxième degré et de 3000 francs pour les personnes en formation de degré tertiaire. En cas d'un revenu dépassant le double de la participation minimale, 65 % du montant excédentaire sont retenus et ajoutés à la participation minimale. La participation minimale exigible des personnes qui effectuent une formation à temps partiel ou par modules peut être adaptée;
-- e) le cas échéant, les revenus bruts du conjoint ou de la conjointe ou du ou de la partenaire enregistré-e à raison de 70 %.
+- e) le cas échéant, les revenus bruts du conjoint ou de la conjointe, du ou de la partenaire enregistré-e, ou du concubin ou de la concubine avec enfant(s) commun(s) à raison de 70 %.
 
 #### Art. 27
 
 **Fortune**
 
-<sup>1</sup> Les revenus pris en compte dans le budget de la personne en formation sont majorés de 10 % de la fortune imposable figurant sur l'avis de taxation de la période fiscale qui précède l'année de formation.
+<sup>1</sup> Les revenus pris en compte dans le budget de la personne en formation sont majorés de 10 % de la fortune imposable figurant sur son avis de taxation de la période fiscale qui précède l'année de formation et, le cas échéant, sur celui de son concubin ou de sa concubine avec enfant(s) commun(s).
 
 <sup>2</sup> En l'absence d'avis de taxation, il est procédé conformément à l'article 17 al. 5.
 
@@ -346,7 +346,7 @@ Arrête:
 
 **Supplément d'intégration**
 
-<sup>1</sup> Un supplément d'intégration, au sens de la législation sur l'aide sociale, de 100 francs par mois et par personne est accordé si la personne en formation est mariée ou est en partenariat enregistré et/ou si elle a un ou des enfants à sa charge.
+<sup>1</sup> Un supplément d'intégration, au sens de la législation sur l'aide sociale, de 100 francs par mois et par personne est accordé si la personne en formation est mariée, est en partenariat enregistré ou en concubinage avec enfant(s) commun(s) et/ou si elle a un ou des enfants à sa charge.
 
 ## 5 Prêts
 

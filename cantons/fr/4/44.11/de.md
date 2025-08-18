@@ -4,13 +4,13 @@ number: "44.11"
 title: Reglement über die Stipendien und Studiendarlehen
 short: StiR
 language: de
-version: 2025-07-04
-valid_until: 2025-08-18
-version_adopted: 2025-07-04
+version: 2025-08-19
+valid_until: 2026-08-16
+version_adopted: 2025-08-19
 adopted: 2008-07-08
 in_force: 2008-09-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/44.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/8233/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8244/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Stipendien und Studiendarlehen – R
 
 (StiR)
 
-vom 08.07.2008 (Fassung in Kraft getreten am 04.07.2025)
+vom 08.07.2008 (Fassung in Kraft getreten am 19.08.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -100,7 +100,7 @@ beschliesst:
 
 <sup>4</sup> Personen in Ausbildung, die eine erste Ausbildung abgeschlossen haben und vor Beginn der Ausbildung stehen, für die sie Stipendien beantragen, begründen ihren eigenen stipendienrechtlichen Wohnsitz im Kanton, wenn sie seit mindestens zwei Jahren ohne Unterbruch hier ihren zivilrechtlichen Wohnsitz hatten und in dieser Zeit durch die Ausübung einer Erwerbstätigkeit finanziell unabhängig waren. Einer Erwerbstätigkeit gleichgestellt sind auch die Betreuung von Familienangehörigen im gleichen Haushalt, Militär- und Zivildienst sowie Arbeitslosigkeit. Personen mit ausländischem Bürgerrecht müssen ausserdem über eine Niederlassungsbewilligung (Ausweis C) oder seit mindestens fünf Jahren über eine Aufenthaltsbewilligung (Ausweis B) verfügen. Vorbehalten bleibt Artikel 10 Abs. 1 Bst. d StiG.
 
-<sup>5</sup> Von der Schweiz anerkannte Flüchtlinge oder Staatenlose haben ihren stipendienrechtlichen Wohnsitz im Kanton, wenn sie hier ihren zivilrechtlichen Wohnsitz haben. Für Flüchtlinge oder Staatenlose gilt diese Regel, wenn sie dem Kanton zur Betreuung zugewiesen sind. Vorbehalten bleibt Absatz 4.
+<sup>5</sup> Von der Schweiz anerkannte Flüchtlinge oder Staatenlose, vorläufig aufgenommene Personen und Personen mit vorläufigem Schutzstatus, die einen Ausweis S besitzen, haben ihren stipendienrechtlichen Wohnsitz im Kanton, wenn sie dort ihren zivilrechtlichen Wohnsitz haben; für die betreffenden Personen gilt diese Regel, wenn sie dem Kanton zur Betreuung zugewiesen sind. Absatz 4 bleibt vorbehalten.
 
 <sup>6</sup> Wer einen stipendienrechtlichen Wohnsitz begründet hat, behält diesen bis zum Erwerb eines neuen bei.
 
@@ -156,8 +156,8 @@ beschliesst:
 <sup>4</sup> Dem Gesuch sind beizulegen:
 
 - a) die Immatrikulationsbestätigung (Zulassungs- oder Einschreibebestätigung) für die betreffende Ausbildung oder eine Kopie des Lehrvertrags;
-- b) die ordentliche Veranlagungsanzeige der Person in Ausbildung und gegebenenfalls ihrer Ehegattin oder ihres Ehegatten oder der eingetragenen Partnerin oder des eingetragenen Partners, ihrer Eltern und anderer gesetzlich für ihren Unterhalt verpflichteter Personen für die dem Ausbildungsjahr vorangehende Steuerperiode; sind die Eltern getrennt oder geschieden, so sind beide Veranlagungsanzeigen einzureichen;
-- c) die letzten Lohnausweise und Bestätigungen für alle übrigen Einkünfte der Person in Ausbildung und ihrer Ehegattin oder ihres Ehegatten oder der eingetragenen Partnerin oder des eingetragenen Partners;
+- b) die ordentliche Veranlagungsanzeige der Person in Ausbildung und gegebenenfalls ihrer Ehegattin oder ihres Ehegatten, ihrer eingetragenen Partnerin oder ihres eingetragenen Partners oder ihrer Konkubinatspartnerin oder ihres Konkubinatspartners mit einem oder mehreren gemeinsamen Kindern, ihrer Eltern und anderer gesetzlich für ihren Unterhalt verpflichteter Personen für die dem Ausbildungsjahr vorangehende Steuerperiode; sind die Eltern getrennt oder geschieden, so sind beide Veranlagungsanzeigen einzureichen;
+- c) die letzten Lohnausweise und Bestätigungen für alle übrigen Einkünfte der Person in Ausbildung und ihrer Ehegattin oder ihres Ehegatten, ihrer eingetragenen Partnerin oder ihres eingetragenen Partners oder ihrer Konkubinatspartnerin oder ihres Konkubinatspartners mit einem oder mehreren gemeinsamen Kindern;
 - d) für Personen mit ausländischem Bürgerrecht die Niederlassungs- oder Aufenthaltsbewilligung für die Schweiz.
 
 <sup>5</sup> Das Amt für Ausbildungsbeiträge (das Amt) kann bei Bedarf weitere Unterlagen verlangen.
@@ -200,7 +200,7 @@ beschliesst:
 
 #### Art. 15
 
-<sup>1</sup> Das Stipendium entspricht innerhalb der in Artikel 9 festgelegten Mindest- und Höchstwerte den anerkannten Schul- und Unterhaltskosten der Person in Ausbildung; davon werden abgezogen ein Mindestbeitrag, den man als eigene Beteiligung voraussetzen kann, und die Beteiligung der Eltern sowie gegebenenfalls die Beteiligung der Ehegattin oder des Ehegatten oder der eingetragenen Partnerin oder des eingetragenen Partners und weiterer Personen, die gesetzlich zum Unterhalt der Person in Ausbildung verpflichtet sind (unterhaltspflichtige Personen). Die Fehlbetragsrechnung ergibt sich aus dem Familienbudget und dem Budget der Person in Ausbildung.
+<sup>1</sup> Das Stipendium entspricht im Rahmen der in Artikel 9 festgelegten Mindest- und Höchstbeträge den anerkannten Ausbildungs- und Unterhaltskosten der Person in Ausbildung, abzüglich eines Mindestbeitrags, der von ihr erwartet werden kann, und des Beitrags der Eltern, gegebenenfalls ihrer Ehegattin oder ihres Ehegatten, ihrer eingetragenen Partnerin oder ihres eingetragenen Partners oder ihrer Konkubinatspartnerin oder ihres Konkubinatspartners mit einem oder mehreren gemeinsamen Kindern und weiterer Personen, die gesetzlich zu ihrem Unterhalt verpflichtet sind. Die Fehlbetragsrechnung ergibt sich aus dem Familienbudget und dem Budget der Person in Ausbildung.
 
 ### 4.2 Familienbudget
 
@@ -310,7 +310,7 @@ beschliesst:
 
 **Allgemeine Bestimmung**
 
-<sup>1</sup> Das Budget der Person in Ausbildung (das persönliche Budget, siehe Anhang 1) dient dazu, ihre finanzielle Situation und gegebenenfalls die ihrer Ehegattin oder ihres Ehegatten oder der eingetragenen Partnerin oder des eingetragenen Partners zu erfassen.
+<sup>1</sup> Das Budget der Person in Ausbildung (siehe Anhang 1) dient dazu, ihre finanzielle Situation und gegebenenfalls diejenige ihrer Ehegattin oder ihres Ehegatten, ihrer eingetragenen Partnerin oder ihres eingetragenen Partners oder ihrer Konkubinatspartnerin oder ihres Konkubinatspartners mit einem oder mehreren gemeinsamen Kindern zu erfassen.
 
 #### Art. 26
 
@@ -322,13 +322,13 @@ beschliesst:
 - b) allfälligen Renten und Versicherungsleistungen, abzüglich 10 %; wohnt jedoch die Person in Ausbildung bei ihren Eltern, so werden diese Beträge zum anrechenbaren Einkommen der Eltern hinzugerechnet;
 - c) allfälligen Unterhaltsbeiträgen und Ergänzungsleistungen; wohnt die Person in Ausbildung jedoch bei ihren Eltern, so werden diese Beträge zum anrechenbaren Einkommen der Eltern hinzugerechnet;
 - d) einer minimalen Beteiligung von 2000 Franken für Personen in Ausbildung auf Sekundarstufe II und von 3000 Franken für Personen in Ausbildung auf Tertiärstufe; übersteigt das Einkommen das Doppelte der minimalen Beteiligung, so werden 65 % des Einkommensüberschusses angerechnet und zur minimalen Beteiligung hinzugefügt; die zumutbare minimale Beteiligung der Personen, die eine Ausbildung in Teilzeit oder in Modulen absolvieren, kann angepasst werden;
-- e) 70 % der Bruttoeinkommen der Ehegattin oder des Ehegatten oder der eingetragenen Partnerin oder des eingetragenen Partners.
+- e) gegebenenfalls 70 % der Bruttoeinkommen der Ehegattin oder des Ehegatten, der eingetragenen Partnerin oder des eingetragenen Partners oder der Konkubinatspartnerin oder des Konkubinatspartners mit einem oder mehreren gemeinsamen Kindern.
 
 #### Art. 27
 
 **Vermögen**
 
-<sup>1</sup> 10 % des steuerbaren Vermögens gemäss der dem Ausbildungsjahr vorangehenden Steuerveranlagung werden den im Budget der Person in Ausbildung berücksichtigten Einkommen hinzugerechnet.
+<sup>1</sup> Den im Budget der Person in Ausbildung berücksichtigten Einkommen werden 10 % des steuerbaren Vermögens hinzugerechnet, das in der Steuerveranlagung für das Steuerjahr vor dem Ausbildungsjahr und, falls vorhanden, in der Steuerveranlagung ihrer Konkubinatspartnerin oder ihres Konkubinatspartners mit einem oder mehreren gemeinsamen Kindern angegeben ist.
 
 <sup>2</sup> Fehlt die Veranlagungsanzeige, so wird nach Artikel 17 Abs. 5 vorgegangen.
 
@@ -346,7 +346,7 @@ beschliesst:
 
 **Integrationszulage**
 
-<sup>1</sup> Es wird eine Integrationszulage im Sinne der Sozialhilfegesetzgebung von 100 Franken pro Monat und pro Person gewährt, wenn die Person in Ausbildung verheiratet ist oder in einer eingetragenen Partnerschaft lebt und/oder eines oder mehrere unterhaltspflichtige Kinder hat.
+<sup>1</sup> Es wird eine Integrationszulage im Sinne der Sozialhilfegesetzgebung von 100 Franken pro Monat und pro Person gewährt, wenn die Person in Ausbildung verheiratet ist oder in einer eingetragenen Partnerschaft oder im Konkubinat mit einem oder mehreren gemeinsamen Kindern lebt und/oder ein oder mehrere unterhaltspflichtige Kinder hat.
 
 ## 5 Darlehen
 
