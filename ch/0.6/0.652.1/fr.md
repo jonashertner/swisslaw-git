@@ -3,11 +3,11 @@ sr: "0.652.1"
 title: "Convention du 25 janvier 1988 concernant l'assistance administrative mutuelle en matière fiscale, telle qu'amendée par son Protocole"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/806"
 language: fr
-version: 2023-03-21
+version: 2025-08-19
 adopted: 1988-01-25
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/806/20230321/fr/xml/fedlex-data-admin-ch-eli-cc-2016-806-20230321-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/806/20230321/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/806/20250819/fr/xml/fedlex-data-admin-ch-eli-cc-2016-806-20250819-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/806/20250819/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 26 septembre 2016
 
 Entrée en vigueur pour la Suisse le 1<sup>er</sup> janvier 2017
 
-(État le 21 mars 2023)
+(État le 19 août 2025)
 
 [^t-1]: [RO 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805)
 
@@ -485,7 +485,7 @@ Le Dépositaire auprès duquel un acte, une notification ou une communication se
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. (Suivent les signatures) Établi par les Dépositaires le 1<sup>er</sup> juin 2011 en vertu de l’art. X.4 du Protocole d’amendement à la Convention concernant l’assistance administrative mutuelle en matière fiscale, en français et en anglais, les deux textes faisant également foi, en deux exemplaires dont un sera déposé dans les archives de chaque Dépositaire. Les Dépositaires en communiqueront copie certifiée conforme à chacune des Parties à la Convention telle qu’amendée par le Protocole et à chacun des États ayant qualité pour devenir partie.
 
-Champ d’application le 21 mars 2023[^t-2]
+Champ d’application le 19 août 2025[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -564,6 +564,7 @@ Champ d’application le 21 mars 2023[^t-2]
 <tr><td>Lituanie\*</td><td>4 février</td><td>2014</td><td>1<sup>er</sup> juin</td><td>2014</td></tr>
 <tr><td>Luxembourg\*</td><td>11 juillet</td><td>2014</td><td>1<sup>er</sup> novembre</td><td>2014</td></tr>
 <tr><td>Macédoine du Nord\*</td><td>30 septembre</td><td>2019</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
+<tr><td>Madagascar\*</td><td>28 juillet</td><td>2025</td><td>1<sup>er</sup> novembre</td><td>2025</td></tr>
 <tr><td>Malaisie\*</td><td>3 janvier</td><td>2017</td><td>1<sup>er</sup> mai</td><td>2017</td></tr>
 <tr><td>Maldives\*</td><td>20 septembre</td><td>2021</td><td>1<sup>er</sup> janvier</td><td>2022</td></tr>
 <tr><td>Malte\*</td><td>29 mai</td><td>2013</td><td>1<sup>er</sup> septembre</td><td>2013</td></tr>
@@ -585,6 +586,7 @@ Champ d’application le 21 mars 2023[^t-2]
 <tr><td>Ouganda\*</td><td>26 mai</td><td>2016</td><td>1<sup>er</sup> septembre</td><td>2016</td></tr>
 <tr><td>Pakistan\*</td><td>14 décembre</td><td>2016</td><td>1<sup>er</sup> mai</td><td>2017</td></tr>
 <tr><td>Panama\*</td><td>16 mars</td><td>2017</td><td>1<sup>er</sup> juillet</td><td>2017</td></tr>
+<tr><td>Papouasie-Nouvelle-Guinée\*</td><td>31 août</td><td>2023</td><td>1<sup>er</sup> décembre</td><td>2023</td></tr>
 <tr><td>Paraguay\*</td><td>15 juillet</td><td>2021</td><td>1<sup>er</sup> novembre</td><td>2021</td></tr>
 <tr><td>Pays-Bas\*</td><td>29 mai</td><td>2013</td><td>1<sup>er</sup> septembre</td><td>2013</td></tr>
 <tr><td>Aruba\*</td><td>29 mai</td><td>2013</td><td>1<sup>er</sup> septembre</td><td>2013</td></tr>
@@ -592,6 +594,7 @@ Champ d’application le 21 mars 2023[^t-2]
 <tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)\*</td><td>29 mai</td><td>2013</td><td>1<sup>er</sup> septembre</td><td>2013</td></tr>
 <tr><td>Sint Maarten\*</td><td>29 mai</td><td>2013</td><td>1<sup>er</sup> septembre</td><td>2013</td></tr>
 <tr><td>Pérou\*</td><td>28 mai</td><td>2018</td><td>1<sup>er</sup> septembre</td><td>2018</td></tr>
+<tr><td>Philippines\*</td><td>7 janvier</td><td>2025</td><td>1<sup>er</sup> mai</td><td>2025</td></tr>
 <tr><td>Pologne\*</td><td>22 juin</td><td>2011</td><td>1<sup>er</sup> octobre</td><td>2011</td></tr>
 <tr><td>Portugal\*</td><td>17 novembre</td><td>2014</td><td>1<sup>er</sup> mars</td><td>2015</td></tr>
 <tr><td>Qatar\*</td><td>17 septembre</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
@@ -625,15 +628,17 @@ Champ d’application le 21 mars 2023[^t-2]
 <tr><td>Suède\*</td><td>27 mai</td><td>2011</td><td>1<sup>er</sup> septembre</td><td>2011</td></tr>
 <tr><td>Suisse\*</td><td>26 septembre</td><td>2016</td><td>1<sup>er</sup> janvier</td><td>2017</td></tr>
 <tr><td>Thaïlande\*</td><td>22 décembre</td><td>2021</td><td>1<sup>er</sup> avril</td><td>2022</td></tr>
+<tr><td>Trinité-et-Tobago\*</td><td>3 décembre</td><td>2024 A</td><td>1<sup>er</sup> avril</td><td>2025</td></tr>
 <tr><td>Tunisie\*</td><td>31 octobre</td><td>2013</td><td>1<sup>er</sup> février</td><td>2014</td></tr>
 <tr><td>Turquie\*</td><td>26 mars</td><td>2018</td><td>1<sup>er</sup> juillet</td><td>2018</td></tr>
 <tr><td>Ukraine\*</td><td>22 mai</td><td>2013</td><td>1<sup>er</sup> septembre</td><td>2013</td></tr>
 <tr><td>Uruguay\*</td><td>31 août</td><td>2016</td><td>1<sup>er</sup> décembre</td><td>2016</td></tr>
 <tr><td>Vanuatu\*</td><td>23 août</td><td>2018</td><td>1<sup>er</sup> décembre</td><td>2018</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations \*\* Objections Les réserves, déclarations et objections, à l’exception des réserves et déclarations de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td>Vietnam\*</td><td>31 août</td><td>2023</td><td>1<sup>er</sup> décembre</td><td>2023</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations \*\* Objections Les réserves, déclarations et objections, à l’exception des réserves et déclarations de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: [www.coe.int](https://www.coe.int/fr/web/conventions/) &gt; Français &gt; À propos &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 2016 5071](https://fedlex.data.admin.ch/eli/oc/2016/806); [2017 3729](https://fedlex.data.admin.ch/eli/oc/2017/433); [2019 847](https://fedlex.data.admin.ch/eli/oc/2019/146); [2020 2893](https://fedlex.data.admin.ch/eli/oc/2020/533); [2021 105](https://fedlex.data.admin.ch/eli/oc/2021/105); [2023 154](https://fedlex.data.admin.ch/eli/oc/2023/154). Une version du champ d'application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-2]: [RO 2016 5071](https://fedlex.data.admin.ch/eli/oc/2016/806); [2017 3729](https://fedlex.data.admin.ch/eli/oc/2017/433); [2019 847](https://fedlex.data.admin.ch/eli/oc/2019/146); [2020 2893](https://fedlex.data.admin.ch/eli/oc/2020/533); [2021 105](https://fedlex.data.admin.ch/eli/oc/2021/105); [2023 154](https://fedlex.data.admin.ch/eli/oc/2023/154); [2025 525](https://fedlex.data.admin.ch/eli/oc/2025/525). Une version du champ d'application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 [^t-3]: Seule la Convention concernant l’assistance administrative mutuelle en matière fiscale du 25.1.1988 a été ratifiée. Le texte en français et en anglais peut être consulté à l’adresse du site Internet du Conseil de l’Europe: [www.coe.int/fr/web/conventions/full-list/-/conventions/treaty/127](https://www.coe.int/fr/web/conventions/full-list/-/conventions/treaty/127).
 
 Réserves et déclarations[^t-4]
@@ -702,4 +707,4 @@ confirmant que la capacité d’une juridiction de transmettre les déclarations
 la Suisse déclare que la Convention amendée aura effet, conformément aux termes de l’Accord, pour l’assistance administrative en vertu de l’Accord entre la Suisse et les autres Parties à la Convention amendée qui ont fait des déclarations similaires, quelles que soient les périodes d’imposition ou les obligations fiscales de la juridiction destinataire auxquelles ces renseignements se rapportent.
 
 [^t-4]: AF du 18 déc. 2016 ([RO 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805)).
-[^t-5]: [RS 0.654.1](https://fedlex.data.admin.ch/eli/cc/2017/785)
+[^t-5]: [RS 0.654.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2518)

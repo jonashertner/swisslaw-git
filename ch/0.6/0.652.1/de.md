@@ -3,11 +3,11 @@ sr: "0.652.1"
 title: "Übereinkommen vom 25. Januar 1988 über die gegenseitige Amtshilfe in Steuersachen, geändert durch sein Protokoll"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/806"
 language: de
-version: 2023-03-21
+version: 2025-08-19
 adopted: 1988-01-25
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/806/20230321/de/xml/fedlex-data-admin-ch-eli-cc-2016-806-20230321-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/806/20230321/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/806/20250819/de/xml/fedlex-data-admin-ch-eli-cc-2016-806-20250819-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/806/20250819/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 26. September 2016
 
 Für die Schweiz in Kraft getreten am 1. Januar 2017
 
-(Stand am 21. März 2023)
+(Stand am 19. August 2025)
 
 [^t-1]: [AS 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805)
 
@@ -485,10 +485,10 @@ Der Verwahrer, dem eine Handlung, Notifikation oder Mitteilung zur Kenntnis gebr
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. (Es folgen die Unterschriften) Geschehen durch die Verwahrer am 1. Juni 2011 nach Artikel X.4 des Änderungsprotokolls zum Übereinkommen über die gegenseitige Amtshilfe in Steuersachen in französischer und englischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in zwei Urschriften, von denen je eine im Archiv jeden Verwahrers hinterlegt wird. Die Verwahrer übermitteln allen Vertragsparteien des Übereinkommens in der durch das Protokoll geänderten Fassung sowie allen zum Beitritt berechtigten Staaten beglaubigte Abschriften.
 
-Geltungsbereich am 21. März 2023[^t-2]
+Geltungsbereich am 19. August 2025[^t-2]
 
 <table>
-<tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Albanien<sup>\*</sup></td><td>8. August</td><td>2013</td><td>1. Dezember</td><td>2013</td></tr>
 <tr><td>Andorra<sup>\*</sup></td><td>28. August</td><td>2016</td><td>1. Dezember</td><td>2016</td></tr>
 <tr><td>Antigua und Barbuda<sup>\*</sup></td><td>16. Oktober</td><td>2018</td><td>1. Februar</td><td>2019</td></tr>
@@ -556,6 +556,7 @@ Geltungsbereich am 21. März 2023[^t-2]
 <tr><td>Liechtenstein<sup>\*</sup></td><td>22. August</td><td>2016</td><td>1. Dezember</td><td>2016</td></tr>
 <tr><td>Litauen<sup>\*</sup></td><td>4. Februar</td><td>2014</td><td>1. Juni</td><td>2014</td></tr>
 <tr><td>Luxemburg<sup>\*</sup></td><td>11. Juli</td><td>2014</td><td>1. November</td><td>2014</td></tr>
+<tr><td>Madagaskar\*</td><td>28. Juli</td><td>2025</td><td>1. November</td><td>2025</td></tr>
 <tr><td>Malaysia\*</td><td>3. Januar</td><td>2017</td><td>1. Mai</td><td>2017</td></tr>
 <tr><td>Malediven\*</td><td>20. September</td><td>2021</td><td>1. Januar</td><td>2022</td></tr>
 <tr><td>Malta<sup>\*</sup></td><td>29. Mai</td><td>2013</td><td>1. September</td><td>2013</td></tr>
@@ -581,11 +582,13 @@ Geltungsbereich am 21. März 2023[^t-2]
 <tr><td>Nordmazedonien\*</td><td>30. September</td><td>2019</td><td>1. Januar</td><td>2020</td></tr>
 <tr><td>Norwegen<sup>\*</sup></td><td>18. Februar</td><td>2011</td><td>1. Juni</td><td>2011</td></tr>
 <tr><td>Oman<sup>\*</sup></td><td>7. Juli</td><td>2020</td><td>1. November</td><td>2020</td></tr>
-<tr><td>Österreich<sup>\*</sup> <sup>\*\*</sup></td><td>28. August</td><td>2014</td><td>1. Dezember</td><td>2014</td></tr>
+<tr><td>Österreich<sup>\* \*\*</sup></td><td>28. August</td><td>2014</td><td>1. Dezember</td><td>2014</td></tr>
 <tr><td>Pakistan\*</td><td>14. Dezember</td><td>2016</td><td>1. Mai</td><td>2017</td></tr>
 <tr><td>Panama\*</td><td>16. März</td><td>2017</td><td>1. Juli</td><td>2017</td></tr>
+<tr><td>Papua-Neuguinea\*</td><td>31. August</td><td>2023</td><td>1. Dezember</td><td>2023</td></tr>
 <tr><td>Paraguay\*</td><td>15. Juli</td><td>2021</td><td>1. November</td><td>2021</td></tr>
 <tr><td>Peru\*</td><td>28. Mai</td><td>2018</td><td>1. September</td><td>2018</td></tr>
+<tr><td>Philippinen\*</td><td>7. Januar</td><td>2025</td><td>1. Mai</td><td>2025</td></tr>
 <tr><td>Polen<sup>\*</sup></td><td>22. Juni</td><td>2011</td><td>1. Oktober</td><td>2011</td></tr>
 <tr><td>Portugal<sup>\*</sup></td><td>17. November</td><td>2014</td><td>1. März</td><td>2015</td></tr>
 <tr><td>Ruanda\*</td><td>29. August</td><td>2022</td><td>1. Dezember</td><td>2022</td></tr>
@@ -608,6 +611,7 @@ Geltungsbereich am 21. März 2023[^t-2]
 <tr><td>St. Vincent und die Grenadinen<sup>\*</sup></td><td>31. August</td><td>2016</td><td>1. Dezember</td><td>2016</td></tr>
 <tr><td>Südafrika<sup>\*</sup></td><td>21. November</td><td>2013</td><td>1. März</td><td>2014</td></tr>
 <tr><td>Thailand\*</td><td>22. Dezember</td><td>2021</td><td>1. April</td><td>2022</td></tr>
+<tr><td>Trinidad und Tobago\*</td><td>3. Dezember</td><td>2024 B</td><td>1. April</td><td>2025</td></tr>
 <tr><td>Tschechische Republik<sup>\*</sup></td><td>11. Oktober</td><td>2013</td><td>1. Februar</td><td>2014</td></tr>
 <tr><td>Tunesien<sup>\*</sup></td><td>31. Oktober</td><td>2013</td><td>1. Februar</td><td>2014</td></tr>
 <tr><td>Türkei\*</td><td>26. März</td><td>2018</td><td>1. Juli</td><td>2018</td></tr>
@@ -629,12 +633,13 @@ Geltungsbereich am 21. März 2023[^t-2]
 <tr><td>Montserrat<sup>\*</sup></td><td>1. Oktober</td><td>2013</td><td>1. Oktober</td><td>2013</td></tr>
 <tr><td>Turks- und Caicosinseln<sup>\*</sup></td><td>1. Dezember</td><td>2013</td><td>1. Dezember</td><td>2013</td></tr>
 <tr><td>Vereinigte Staaten[^t-3]</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Vietnam\*</td><td>31. August</td><td>2023</td><td>1. Dezember</td><td>2023</td></tr>
 <tr><td>Zypern<sup>\* \*\*</sup></td><td>19. Dezember</td><td>2014</td><td>1. April</td><td>2015</td></tr>
-<tr><td colspan="5">\* Vorbehalte, Erklärungen. \*\* Einwendungen. Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: www.coe.int &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte, Erklärungen. \*\* Einwendungen. Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarats: [http://conventions.coe.int](http://conventions.coe.int/) &gt; Français &gt; À propos &gt; Bureau des Traités &gt; Liste complète eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 2016 5071](https://fedlex.data.admin.ch/eli/oc/2016/806), [2017 3729](https://fedlex.data.admin.ch/eli/oc/2017/433); [2019 847](https://fedlex.data.admin.ch/eli/oc/2019/146); [2020 2893](https://fedlex.data.admin.ch/eli/oc/2020/533); [2021 105](https://fedlex.data.admin.ch/eli/oc/2021/105); [2023 154](https://fedlex.data.admin.ch/eli/oc/2023/154). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://www.fedlex.admin.ch/de/treaty.
-[^t-3]: Ratifiziert wurde nur das Übereinkommen über die gegenseitige Amtshilfe in Steuersachen vom 25.1.1988. Der französische und englische Text können auf der Internetseite des Europarates eingesehen werden: www.coe.int/fr/web/conventions/full-list/-/conventions/treaty/127
+[^t-2]: [AS 2016 5071](https://fedlex.data.admin.ch/eli/oc/2016/806); [2017 3729](https://fedlex.data.admin.ch/eli/oc/2017/433); [2019 847](https://fedlex.data.admin.ch/eli/oc/2019/146); [2020 2893](https://fedlex.data.admin.ch/eli/oc/2020/533); [2021 105](https://fedlex.data.admin.ch/eli/oc/2021/105); [2023 154](https://fedlex.data.admin.ch/eli/oc/2023/154); [2025 525](https://fedlex.data.admin.ch/eli/oc/2025/525). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-3]: Ratifiziert wurde nur das Übereinkommen über die gegenseitige Amtshilfe in Steuersachen vom 25.1.1988. Der französische und englische Text können auf der Internetseite des Europarates eingesehen werden: [www.coe.int/fr/web/conventions/full-list/-/conventions/treaty/127](http://www.coe.int/fr/web/conventions/full-list/-/conventions/treaty/127)
 
 Vorbehalte und Erklärungen
 
@@ -705,4 +710,4 @@ in Bestätigung der Tatsache, dass sich die Befugnis eines Staates, gestützt au
 
 erklärt die Schweiz, dass in Übereinstimmung mit den Bestimmungen der Vereinbarung das geänderte Übereinkommen auch Anwendung findet auf die Amtshilfe gemäss der Vereinbarung zwischen der Schweiz und den anderen Vertragsparteien des geänderten Übereinkommens, die ähnliche Erklärungen abgegeben haben, unabhängig von den Besteuerungszeiträumen oder den Steuerverbindlichkeiten des Empfängerstaates, auf die sich die Informationen beziehen.
 
-[^t-4]: [SR 0.654.1](https://fedlex.data.admin.ch/eli/cc/2017/785)
+[^t-4]: [SR 0.654.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2518)
