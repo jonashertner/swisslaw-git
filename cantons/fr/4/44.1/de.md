@@ -4,13 +4,12 @@ number: "44.1"
 title: Gesetz über die Stipendien und Studiendarlehen
 short: StiG
 language: de
-version: 2016-08-01
-valid_until: 2025-08-18
-version_adopted: 2016-09-07
+version: 2025-08-19
+version_adopted: 2025-06-24
 adopted: 2008-02-14
 in_force: 2008-09-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/44.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7134/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8564/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Stipendien und Studiendarlehen – G
 
 (StiG)
 
-vom 14.02.2008 (Fassung in Kraft getreten am 01.08.2016)
+vom 14.02.2008 (Fassung in Kraft getreten am 19.08.2025)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -85,7 +84,7 @@ beschliesst:
 
 **Subsidiarität**
 
-<sup>1</sup> Die Ausbildungsbeiträge werden auf Gesuch hin gewährt, wenn die finanziellen Möglichkeiten der Person in Ausbildung, ihrer Eltern, ihres Ehegatten oder registrierten Partners und anderer gesetzlich für ihren Unterhalt verpflichteter Personen nicht ausreichen, um die Ausbildungskosten zu decken.
+<sup>1</sup> Die Ausbildungsbeiträge werden auf Gesuch hin gewährt, wenn die finanziellen Möglichkeiten der Person in Ausbildung, ihrer Eltern, ihrer Ehegattin oder ihres Ehegatten oder ihrer eingetragenen Partnerin oder ihres eingetragenen Partners, ihrer Konkubinatspartnerin oder ihres Konkubinatspartners mit einem oder mehreren gemeinsamen Kindern und anderer gesetzlich für ihren Unterhalt verpflichteten Personen nicht ausreichen, um die Ausbildungskosten zu decken.
 
 #### Art. 7
 
@@ -137,6 +136,8 @@ beschliesst:
 - a) Schweizer Bürgerinnen und Schweizer Bürgern;
 - b) Personen mit ausländischem Bürgerrecht, die über eine Niederlassungsbewilligung für die Schweiz oder eine Jahresaufenthaltsbewilligung verfügen;
 - c) in der Schweiz wohnhaften und von ihr anerkannten Flüchtlingen oder Staatenlosen;
+- c1) vorläufig aufgenommene Personen;
+- c2) Personen mit vorläufigem Schutzstatus, die einen Ausweis S besitzen;
 - d) Angehörigen von Mitgliedstaaten der Europäischen Union (EU) und der Europäischen Freihandelsassoziation (EFTA), soweit sie den Schweizer Bürgerinnen und Bürgern im Stipendien- und Studiendarlehensbereich durch internationale Abkommen gleichgestellt sind.
 
 <sup>2</sup> Das Ausführungsreglement legt den Begriff des stipendienrechtlichen Wohnsitzes genauer fest.
@@ -164,13 +165,13 @@ beschliesst:
 <sup>1</sup> Für die Berechnung des Ausbildungsbeitrags werden berücksichtigt:
 
 - a) die Ausbildungskosten nach Artikel 5;
-- b) die finanziellen Möglichkeiten der Person in Ausbildung, ihrer Eltern, ihres Ehepartners oder registrierten Partners oder anderer gesetzlich für ihren Unterhalt verpflichteter Personen;
+- b) die finanziellen Möglichkeiten der Person in Ausbildung, ihrer Eltern und anderer Personen nach Artikel 6 Abs. 1;
 - c) eine zumutbare finanzielle Beteiligung der Person in Ausbildung;
 - d) die budgetären Möglichkeiten des Staates.
 
 <sup>2</sup> Die finanziellen Möglichkeiten nach Absatz 1 Bst. b werden grundsätzlich aufgrund aller Einkünfte und des Vermögens festgelegt.
 
-<sup>3</sup> Die finanzielle Beteiligung, die von den Eltern, dem Ehegatten oder registrierten Partner und anderen gesetzlich für den Unterhalt verpflichteten Personen verlangt werden kann, wird nach Abzug der Lebenshaltungskosten, die aufgrund der offiziellen Referenzwerte berechnet werden, festgelegt.
+<sup>3</sup> Die finanzielle Beteiligung, die von den Eltern und anderen Personen nach Artikel 6 Abs. 1 verlangt werden kann, wird nach Abzug der Lebenshaltungskosten, die aufgrund der offiziellen Referenzwerte berechnet werden, festgelegt.
 
 <sup>4</sup> Ist die Person in Ausbildung über 25 Jahre alt, so werden die finanziellen Möglichkeiten ihrer Eltern und weiterer Personen, die gesetzlich zu ihrem Unterhalt verpflichtet sind, nur noch teilweise berücksichtigt.
 
@@ -195,11 +196,24 @@ beschliesst:
 
 **Zugriff auf die Daten der KSTV**
 
-<sup>1</sup> Das Amt, das für die Ausbildungsbeiträge zuständig ist[^14a-1], darf durch ein Abrufverfahren auf die Daten der Kantonalen Steuerverwaltung (KSTV) über die Einkommens- und Vermögensverhältnisse zugreifen, die für die Berechnung des anrechenbaren Einkommens der gesuchstellenden Person und der gesetzlich zu deren Unterhalt verpflichteten Personen erforderlich sind. Es hält sich dabei an die Bestimmungen des Datenschutzes.
+<sup>1</sup> Das Amt, das für die Ausbildungsbeiträge zuständig ist[^14a-1], kann durch ein Abrufverfahren auf die Daten der Kantonalen Steuerverwaltung (KSTV) über die Einkommens- und Vermögensverhältnisse zugreifen, die für die Berechnung des anrechenbaren Einkommens der Personen in Ausbildung und der gesetzlich zu deren Unterhalt verpflichteten Personen erforderlich sind. Es hält sich dabei an die Bestimmungen des Datenschutzes.
 
 <sup>2</sup> Es informiert die Personen, deren Daten gemäss dem Abrufverfahren nach Absatz 1 erhoben wurden.
 
 [^14a-1]: Heute: Amt für Ausbildungsbeiträge.
+
+#### Art. 14b
+
+**Beschaffung und Bearbeitung von Daten**
+
+<sup>1</sup> Für den Vollzug dieses Gesetzes und im Einzelfall, wenn es sich als schwierig erweist, die erforderlichen Daten bei der Person in Ausbildung einzuholen, kann sich das Amt, das für die Ausbildungsbeiträge zuständig ist[^14b-1], zur Bearbeitung und Beurteilung der Gesuche mit den Kantons- und Gemeindebehörden austauschen, namentlich mit den Ausbildungsstätten, der Ausgleichskasse, der Arbeitslosenkasse, dem kantonalen Sozialamt oder den Sozialdiensten, um Informationen über die Person in Ausbildung sowie die Personen nach Artikel 6 Abs. 1 zu beschaffen, namentlich Informationen über:
+
+- a) die vollständige Finanzlage;
+- b) den Ausbildungsgang;
+- c) die Zusammensetzung des Haushalts, zu dem die Person in Ausbildung gehört;
+- d) die Identität, die Staatsangehörigkeit und den Aufenthaltsstatus.
+
+[^14b-1]: Heute: Amt für Ausbildungsbeiträge.
 
 #### Art. 15
 
@@ -306,7 +320,9 @@ beschliesst:
 
 **Beschwerde**
 
-<sup>1</sup> Die Einspracheentscheide der Kommission können nach dem Gesetz über die Verwaltungsrechtspflege angefochten werden.
+<sup>1</sup> Die Einspracheentscheide der Kommission können nach dem Gesetz über die Verwaltungsrechtspflege[^23-1] angefochten werden.
+
+[^23-1]: SGF [150.1](https://bdlf.fr.ch/data/150.1/de)
 
 ## 5 Schlussbestimmungen
 

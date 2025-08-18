@@ -4,13 +4,12 @@ number: "44.1"
 title: "Loi sur les bourses et les prêts d'études"
 short: LBPE
 language: fr
-version: 2016-08-01
-valid_until: 2025-08-18
-version_adopted: 2016-09-07
+version: 2025-08-19
+version_adopted: 2025-06-24
 adopted: 2008-02-14
 in_force: 2008-09-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/44.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7134/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8564/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Bourses et prêts d'études – L
 
 (LBPE)
 
-du 14.02.2008 (version entrée en vigueur le 01.08.2016)
+du 14.02.2008 (version entrée en vigueur le 19.08.2025)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -85,7 +84,7 @@ Décrète:
 
 **Caractère subsidiaire**
 
-<sup>1</sup> Des subsides sont accordés, sur demande, lorsque les possibilités financières de la personne en formation, de ses parents, de son conjoint ou de son partenaire enregistré et d'autres personnes légalement tenues à son entretien ne suffisent pas à couvrir les frais de formation.
+<sup>1</sup> Des subsides sont accordés, sur demande, lorsque les possibilités financières de la personne en formation, de ses parents, de son conjoint ou de sa conjointe ou de son ou sa partenaire enregistré‑e, de son concubin ou de sa concubine avec enfant(s) commun(s), et d'autres personnes légalement tenues à son entretien ne suffisent pas à couvrir les frais de formation.
 
 #### Art. 7
 
@@ -137,6 +136,8 @@ Décrète:
 - a) les citoyens et citoyennes suisses;
 - b) les personnes de nationalité étrangère bénéficiaires d'un permis d'établissement en Suisse ou d'un permis de séjour annuel;
 - c) les réfugié-e-s ou les apatrides résidant en Suisse et reconnus par elle;
+- c1) les personnes au bénéfice d'une admission provisoire;
+- c2) les personnes au bénéfice d'une protection provisoire titulaires d'un permis S;
 - d) les ressortissants et ressortissantes d'Etats membres de l'Union européenne et de l'Association européenne de libre-échange (AELE), à condition qu'ils soient assimilés aux citoyens et citoyennes suisses dans le domaine des bourses et prêts d'études par les accords internationaux.
 
 <sup>2</sup> Le règlement d'exécution précise la notion de domicile déterminant en matière de subsides.
@@ -164,13 +165,13 @@ Décrète:
 <sup>1</sup> Le montant du subside est calculé compte tenu:
 
 - a) des frais de formation cités à l'article 5;
-- b) des possibilités financières de la personne en formation, de ses parents, de son conjoint ou de son partenaire enregistré et d'autres personnes légalement tenues à son entretien;
+- b) des possibilités financières de la personne en formation, de ses parents et des autres personnes mentionnées à l'article 6 alinéa 1;
 - c) d'une participation financière raisonnablement exigible de la personne en formation;
 - d) des disponibilités budgétaires de l'Etat.
 
 <sup>2</sup> Les possibilités financières prévues à l'alinéa 1 let. b sont déterminées en principe sur la base de tous les revenus et de la fortune.
 
-<sup>3</sup> La participation financière qui peut être exigée des parents, du conjoint ou du partenaire enregistré et d'autres personnes légalement tenues à l'entretien de la personne en formation est déterminée après déduction des frais d'entretien calculés sur la base de valeurs de référence officielles.
+<sup>3</sup> La participation financière qui peut être exigée des parents et des autres personnes mentionnées à l'article 6 alinéa 1 est déterminée après déduction des frais d'entretien calculés sur la base de valeurs de référence officielles.
 
 <sup>4</sup> Lorsque la personne en formation est âgée de plus de 25 ans, les possibilités financières de ses parents et des autres personnes légalement tenues à son entretien ne sont prises en compte que partiellement.
 
@@ -195,11 +196,24 @@ Décrète:
 
 **Accès aux données du SCC**
 
-<sup>1</sup> Le Service chargé des subsides de formation[^14a-1] peut accéder, par une procédure d'appel, aux données du Service cantonal des contributions (SCC) relatives aux conditions de revenu et de fortune nécessaires au calcul du revenu déterminant des requérants et des personnes légalement tenues à leur entretien, dans le respect des règles découlant de la protection des données.
+<sup>1</sup> Le Service chargé des subsides de formation[^14a-1] peut accéder, par une procédure d'appel, aux données du Service cantonal des contributions (SCC) relatives aux conditions de revenu et de fortune nécessaires au calcul du revenu déterminant des personnes en formation et des personnes légalement tenues à leur entretien, dans le respect des règles découlant de la protection des données.
 
 <sup>2</sup> Il informe les personnes dont les données fiscales ont été collectées conformément à l'alinéa 1.
 
 [^14a-1]: Actuellement: Service des subsides de formation.
+
+#### Art. 14b
+
+**Collecte et traitement des données**
+
+<sup>1</sup> Pour traiter et évaluer les demandes, le Service chargé des subsides de formation[^14b-1] peut, pour l'exécution de la présente loi et dans un cas d'espèce, s'il s'avère difficile d'obtenir les données nécessaires auprès de la personne en formation, communiquer avec les autorités cantonales et communales compétentes, notamment les établissements de formation, la caisse de compensation, la caisse de chômage, le service de l'action sociale ou les services sociaux, afin de récolter des informations concernant la personne en formation ainsi que les personnes mentionnées à l'article 6 alinéa 1, notamment sur:
+
+- a) la situation financière complète;
+- b) le cursus de formation;
+- c) la composition du ménage auquel est rattachée la personne en formation;
+- d) l'identité, la nationalité et le statut de séjour.
+
+[^14b-1]: Actuellement: Service des subsides de formation.
 
 #### Art. 15
 
@@ -306,7 +320,9 @@ Décrète:
 
 **Recours**
 
-<sup>1</sup> Les décisions sur réclamation de la Commission sont sujettes à recours, conformément au code de procédure et de juridiction administrative.
+<sup>1</sup> Les décisions sur réclamation de la Commission sont sujettes à recours, conformément au code de procédure et de juridiction administrative[^23-1].
+
+[^23-1]: RSF [150.1](https://bdlf.fr.ch/data/150.1/fr)
 
 ## 5 Dispositions finales
 
