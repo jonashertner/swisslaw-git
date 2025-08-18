@@ -1,37 +1,41 @@
 ---
 canton: UR
 number: "40.3235"
-title: Interkantonale Vereinbarung zwischen den Kantonen Uri und Glarus über die Ausübung der Fischerei im Staubecken des Fätschbachwerks auf dem Urnerboden
+title: INTERKANTONALE VEREINBARUNG zwischen den Kantonen Uri und Glarus über die Ausübung der Fischerei im Staubecken des Fätschbachwerks auf dem Urnerboden
 language: de
 version: 2006-01-01
+corrected: 2025-08-19
 version_adopted: 2005-12-20
 adopted: 2005-12-20
 in_force: 2006-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.3235"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/835/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/298/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Interkantonale Vereinbarung zwischen den Kantonen Uri und Glarus über die Ausübung der Fischerei im Staubecken des Fätschbachwerks auf dem Urnerboden
+# INTERKANTONALE VEREINBARUNG zwischen den Kantonen Uri und Glarus über die Ausübung der Fischerei im Staubecken des Fätschbachwerks auf dem Urnerboden
 
-Vom 20.12.2005 (Stand 01.01.2006)
+INTERKANTONALE VEREINBARUNG zwischen den Kantonen Uri und Glarus über die Ausübung der Fischerei im Staubecken des Fätschbachwerks auf dem Urnerboden[^t-1][^t-2]
 
-Die Kantone Uri und Glarus,
+(vom 20. Dezember 2005[^t-3]; Stand am 1. Januar 2006)
 
-vereinbaren:
+Die Kantone Uri und Glarus vereinbaren:
+
+[^t-1]: Vom Regierungsrat des Kantons Uri beschlossen am 20. Dezember 2005.
+[^t-2]: Vom Regierungsrat des Kantons Glarus beschlossen am 3. Januar 2006.
+[^t-3]: AB vom 13. Januar 2006.
 
 #### Artikel 1
 
 **Fischereiberechtigung**
 
-<sup>1</sup> Zur Ausübung der Fischerei im Staubecken des Fätschbachwerks auf dem Urnerboden sind die Inhaberinnen und Inhaber eines Urner oder Glarner Fischerpatentes berechtigt.
+Zur Ausübung der Fischerei im Staubecken des Fätschbachwerks auf dem Urnerboden sind die Inhaberinnen und Inhaber eines Urner oder Glarner Fischerpatentes berechtigt.
 
 #### Artikel 2
 
-**Abgrenzung der Fischereiberechtigung**
-
-<sup>1</sup> Die Grenzen der gegenseitigen Fischereiberechtigung bilden einerseits die Staumauer, anderseits die Eigentumsgrenze der NOK, bezeichnet durch Marksteine. Die Grenze der Fischereiberechtigung der Glarner Fischerinnen und Fischer gegen den Urnerboden wird gebildet durch die Linie zwischen den letzten Marksteinen auf beiden Ufern.
+Abgrenzung der Fischereiberechtigung Die Grenzen der gegenseitigen Fischereiberechtigung bilden einerseits die Staumauer, anderseits die Eigentumsgrenze der NOK, bezeichnet durch Marksteine. Die Grenze der Fischereiberechtigung der Glarner Fischerinnen und Fischer gegen den Urnerboden wird gebildet durch die Linie zwischen den letzten Marksteinen auf beiden Ufern.
 
 #### Artikel 3
 
@@ -39,14 +43,17 @@ vereinbaren:
 
 <sup>1</sup> Erlaubt ist das Fischen vom Ufer aus mit einer von der Hand geführten Angelrute je Patentinhaberin oder Patentinhaber, unter Verwendung eines natürlichen oder künstlichen Köders, nämlich:
 
-- a) das Fliegenfischen mit maximal 1 Fliege, Nymphe oder Streamer, mit oder ohne Schwimmkörper
-- b) das Grund- oder Zapfenfischen
-- c) das Spinnfischen
+- a) das Fliegenfischen mit maximal 1 Fliege, Nymphe oder Streamer, mit oder ohne Schwimmkörper;
 
-<sup>2</sup> Folgende Fangmethoden oder ‑geräte sind verboten:
+- b) das Grund- oder Zapfenfischen;
 
-- a) die Verwendung von lebenden oder toten Köderfischen
-- b) die Verwendung von Angeln mit Widerhaken
+- c) das Spinnfischen.
+
+<sup>2</sup> Folgende Fangmethoden oder -geräte sind verboten:
+
+- a) die Verwendung von lebenden oder toten Köderfischen;
+
+- b) die Verwendung von Angeln mit Widerhaken.
 
 #### Artikel 4
 
@@ -60,25 +67,25 @@ vereinbaren:
 
 **Fangmindestmass für Forellen**
 
-<sup>1</sup> Das Fangmindestmass für Forellen beträgt 25 cm, gemessen von der Kopfspitze bis zu den Spitzen der natürlich ausgebreiteten Schwanzflossen.
+Das Fangmindestmass für Forellen beträgt 25 cm, gemessen von der Kopfspitze bis zu den Spitzen der natürlich ausgebreiteten Schwanzflossen.
 
 #### Artikel 6
 
 **Tagesfangbeschränkung**
 
-<sup>1</sup> Im Tag dürfen insgesamt nicht mehr als sechs Fische gefangen werden.
+Im Tag dürfen insgesamt nicht mehr als sechs Fische gefangen werden.
 
 #### Artikel 7
 
 **Fischbesatz**
 
-<sup>1</sup> Der Fischbesatz wird zwischen den zuständigen Amtsstellen der Kantone Uri und Glarus abgesprochen.
+Der Fischbesatz wird zwischen den zuständigen Amtsstellen der Kantone Uri und Glarus abgesprochen.
 
 #### Artikel 8
 
 **Ergänzende Vorschriften**
 
-<sup>1</sup> Im Übrigen gelten für die Ausübung der Fischerei die einschlägigen Fischereivorschriften der Kantone Uri und Glarus.
+Im Übrigen gelten für die Ausübung der Fischerei die einschlägigen Fischereivorschriften der Kantone Uri und Glarus.
 
 #### Artikel 9
 
@@ -98,19 +105,14 @@ vereinbaren:
 
 #### Artikel 11
 
-**Aufhebung bisherigen Rechts**
-
-<sup>1</sup> Der Vertrag zwischen den Kantonen Uri und Glarus über die Ausübung der Fischerei im Staubecken des Fätschbachwerkes auf dem Urnerboden vom 2. August 1977 wird aufgehoben.
+Aufhebung bisherigen Rechts Der Vertrag zwischen den Kantonen Uri und Glarus über die Ausübung der Fischerei im Staubecken des Fätschbachwerkes auf dem Urnerboden vom 2. August 1977<sup>4</sup> wird aufgehoben.
 
 #### Artikel 12
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Vereinbarung tritt am 1. Januar 2006 in Kraft[^Artikel12-1].
+<sup>1</sup> Diese Vereinbarung tritt am 1. Januar 2006 in Kraft.
 
-<sup>2</sup> Sie ist vom Bund zu genehmigen[^Artikel12-2].
+<sup>2</sup> Sie ist vom Bund zu genehmigen[^12-1].
 
-[^Artikel12-1]: Vom Regierungsrat des Kantons Uri beschlossen am 20. Dezember 2005, vom Regierungsrat des Kantons Glarus beschlossen am 3. Januar 2006.
-[^Artikel12-2]: Vom Bund genehmigt am 27. Februar 2006.
-
-AB 13.01.2006
+[^12-1]: Vom Bund genehmigt am 27. Februar 2006.
