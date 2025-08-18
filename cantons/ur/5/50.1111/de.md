@@ -1,38 +1,38 @@
 ---
 canton: UR
 number: "50.1111"
-title: Strassengesetz
+title: STRASSENGESETZ
 short: StrG
 language: de
 version: 2014-01-01
+corrected: 2025-08-19
 version_adopted: 2013-09-22
 adopted: 2013-09-22
 in_force: 2014-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/50.1111"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/876/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/42/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Strassengesetz
+# STRASSENGESETZ
 
-(StrG)
+STRASSENGESETZ (StrG)
 
-Vom 22.09.2013 (Stand 01.01.2014)
+(vom 22. September 2013; Stand am 1. Januar 2014)
 
-Das Volk des Kantons Uri,
-
-gestützt auf Artikel 90 Absatz 1 der Kantonsverfassung (RB [1.1101](https://rechtsbuch.ur.ch/data/1.1101/de)),
+Das Volk des Kantons Uri, gestützt auf Artikel 90 Absatz 1 der Kantonsverfassung<sup>1</sup>,
 
 beschliesst:
 
-## 1 Allgemeine Bestimmungen
+### 1. Kapitel: ALLGEMEINE BESTIMMUNGEN
 
 #### Artikel 1
 
 **Zweck**
 
-<sup>1</sup> Dieses Gesetz bezweckt, öffentliche Strassen verkehrsgerecht, verkehrssicher, umweltschonend und wirtschaftlich zu planen, zu bauen, zu unterhalten und zu betreiben.
+Dieses Gesetz bezweckt, öffentliche Strassen verkehrsgerecht, verkehrssicher, umweltschonend und wirtschaftlich zu planen, zu bauen, zu unterhalten und zu betreiben.
 
 #### Artikel 2
 
@@ -58,11 +58,13 @@ beschliesst:
 
 <sup>1</sup> Zur öffentlichen Strasse gehören alle Bauten und Anlagen, die zu ihrer Funktion aus technischen, betrieblichen oder gestalterischen Gründen notwendig sind.
 
-<sup>2</sup> Dazu gehören namentlich die Verkehrsflächen, Signale und Markierungen, Entwässerungsanlagen, Gehwege und Trottoirs, die Beleuchtung, Anlagen für den Immissionsschutz, Ausweichs- und Haltebuchten sowie Personenunterstände für den öffentlichen Verkehr, Busspuren, Radwege, Neben- und Unterhaltsanlagen, trennende Grünstreifen und Bepflanzungen.
+2 Dazu gehören namentlich die Verkehrsflächen, Signale und Markierungen, Entwässerungsanlagen, Gehwege und Trottoirs, die Beleuchtung, Anlagen für den Immissionsschutz, Ausweichs- und Haltebuchten sowie Personenunterstände für den öffentlichen Verkehr, Busspuren, Radwege, Neben- und Unterhaltsanlagen, trennende Grünstreifen und Bepflanzungen.
 
 #### Artikel 5
 
-**Widmung einer Strasse: Grundsatz**
+**Widmung einer Strasse**
+
+- a) Grundsatz
 
 <sup>1</sup> Mit der Widmung wird eine Strasse dem Gemeingebrauch geöffnet.
 
@@ -70,9 +72,9 @@ beschliesst:
 
 <sup>3</sup> Für Kantons-, Gemeinde- und Korporationsstrassen gilt die gesetzliche Vermutung, dass sie mit der Übergabe an den Verkehr dem Gemeingebrauch gewidmet sind.
 
-#### Artikel 6
+#### Artikel 6 b
 
-**Widmung einer Strasse: Verfahren**
+**) Verfahren**
 
 <sup>1</sup> Beabsichtigt die zuständige Behörde, eine Strasse ausdrücklich dem Gemeingebrauch zu widmen, hat sie diese Absicht im Amtsblatt zu veröffentlichen mit dem Hinweis, dass alle Personen, die dadurch besonders betroffen sind, dagegen innert 30 Tagen seit der Veröffentlichung Einsprache erheben können. Nach Ablauf der Frist entscheidet die zuständige Behörde über die Widmung und die Einsprachen.
 
@@ -84,16 +86,19 @@ beschliesst:
 
 <sup>5</sup> Auf die Änderung und die Aufhebung der Widmung ist dieses Verfahren sinngemäss anzuwenden.
 
-#### Artikel 7
+#### Artikel 7 c
 
-**Widmung einer Strasse: Zuständige Behörde**
+**) Zuständige Behörde**
 
-<sup>1</sup> Zuständig zur Widmung ist:
+Zuständig zur Widmung ist:
 
-- a) bei Kantonsstrassen der Regierungsrat
-- b) bei Gemeindestrassen der Gemeinderat
-- c) bei Korporationsstrassen der Engere Rat, sofern das Recht der Korporation nichts anderes bestimmt
-- d) bei den übrigen Strassen der Gemeinderat am Ort der gelegenen Sache
+- a) bei Kantonsstrassen der Regierungsrat;
+
+- b) bei Gemeindestrassen der Gemeinderat;
+
+- c) bei Korporationsstrassen der Engere Rat, sofern das Recht der Korporation nichts anderes bestimmt;
+
+- d) bei den übrigen Strassen der Gemeinderat am Ort der gelegenen Sache.
 
 #### Artikel 8
 
@@ -103,43 +108,45 @@ beschliesst:
 
 <sup>2</sup> Der Verkehrsplan enthält insbesondere Aussagen über:
 
-- a) den individuellen Motorfahrzeugverkehr
-- b) den strassengebundenen öffentlichen Verkehr
-- c) den Langsamverkehr
+- a) den individuellen Motorfahrzeugverkehr;
+
+- b) den strassengebundenen öffentlichen Verkehr;
+
+- c) den Langsamverkehr.
 
 <sup>3</sup> Der Verkehrsplan ist behördenverbindlich, sobald der Landrat ihn zusammen mit dem Richtplan genehmigt hat. Die Gemeinden haben insbesondere ihre Verkehrsplanung darauf abzustimmen.
 
 <sup>4</sup> Der Regierungsrat gibt der Bevölkerung, den Gemeinden und den Korporationen die Möglichkeit, bei der Erarbeitung des Verkehrsplans in geeigneter Weise mitzuwirken.
 
-## 2 Strasseneinteilung
+### 2. Kapitel: STRASSENEINTEILUNG
 
 #### Artikel 9
 
 **Strassenkategorien**
 
-<sup>1</sup> Die öffentlichen Strassen werden eingeteilt in:
+Die öffentlichen Strassen werden eingeteilt in:
 
-- a) Nationalstrassen
-- b) Kantonsstrassen
-- c) Gemeindestrassen
-- d) Korporationsstrassen
-- e) übrige Strassen im Gemeingebrauch
+- a) Nationalstrassen;
+
+- b) Kantonsstrassen;
+
+- c) Gemeindestrassen;
+
+- d) Korporationsstrassen;
+
+- e) übrige Strassen im Gemeingebrauch.
 
 #### Artikel 10
 
-**Nationalstrassen**
-
-<sup>1</sup> Die Nationalstrassen sind die wichtigsten Strassenverbindungen von gesamtschweizerischer Bedeutung. Sie werden vom Bund festgelegt und unterstehen dem Nationalstrassenrecht.
+Nationalstrassen Die Nationalstrassen sind die wichtigsten Strassenverbindungen von gesamtschweizerischer Bedeutung. Sie werden vom Bund festgelegt und unterstehen dem Nationalstrassenrecht.
 
 #### Artikel 11
 
-**Kantonsstrassen: Begriff**
+Kantonsstrassen a) Begriff Die Kantonsstrassen bilden zusammen mit den Nationalstrassen das übergeordnete Strassennetz. Sie dienen dem überregionalen Verkehr und sind die Hauptverbindungen unter den Einwohnergemeinden.
 
-<sup>1</sup> Die Kantonsstrassen bilden zusammen mit den Nationalstrassen das übergeordnete Strassennetz. Sie dienen dem überregionalen Verkehr und sind die Hauptverbindungen unter den Einwohnergemeinden.
+#### Artikel 12 b
 
-#### Artikel 12
-
-**Kantonsstrassen: Anspruch**
+**) Anspruch**
 
 <sup>1</sup> Jede Einwohnergemeinde hat Anspruch auf eine kantonale Verbindung mit dem übergeordneten Strassennetz.
 
@@ -147,17 +154,17 @@ beschliesst:
 
 <sup>3</sup> Für bestehende Anschlüsse bleibt der Besitzstand gewahrt. Vorbehalten bleiben besondere Vereinbarungen.
 
-#### Artikel 13
+#### Artikel 13 c
 
-**Kantonsstrassen: Hoheit und Eigentum**
+**) Hoheit und Eigentum**
 
 <sup>1</sup> Der Kanton hat die Hoheit über die Kantonsstrassen.
 
 <sup>2</sup> Diese sollen im Eigentum des Kantons sein.
 
-#### Artikel 14
+#### Artikel 14 d
 
-**Kantonsstrassen: Zuordnung**
+**) Zuordnung**
 
 <sup>1</sup> Im Rahmen dieses Gesetzes legt der Landrat die Kantonsstrassen fest.
 
@@ -165,21 +172,19 @@ beschliesst:
 
 #### Artikel 15
 
-**Gemeindestrassen: Begriff**
+Gemeindestrassen a) Begriff Gemeindestrassen dienen vorwiegend dem Verkehr innerhalb der Gemeinde als Groberschliessung des gemeindlichen Siedlungsgebiets.
 
-<sup>1</sup> Gemeindestrassen dienen vorwiegend dem Verkehr innerhalb der Gemeinde als Groberschliessung des gemeindlichen Siedlungsgebiets.
+#### Artikel 16 b
 
-#### Artikel 16
+**) Hoheit und Eigentum**
 
-**Gemeindestrassen: Hoheit und Eigentum**
+1 Die Einwohnergemeinde hat die Hoheit über die Gemeindestrassen.
 
-<sup>1</sup> Die Einwohnergemeinde hat die Hoheit über die Gemeindestrassen.
+2 Diese sollen im Eigentum der betreffenden Einwohnergemeinde sein.
 
-<sup>2</sup> Diese sollen im Eigentum der betreffenden Einwohnergemeinde sein.
+#### Artikel 17 c
 
-#### Artikel 17
-
-**Gemeindestrassen: Zuordnung**
+**) Zuordnung**
 
 <sup>1</sup> Jede Einwohnergemeinde erstellt für ihr Gebiet einen Plan, der sämtliche Gemeindestrassen auflistet. Grundlage hiefür sind der kantonale und der gemeindliche Verkehrsplan. Personen und öffentlich-rechtliche Körperschaften, die dadurch besonders betroffen sind, sind vorher anzuhören.
 
@@ -211,13 +216,13 @@ beschliesst:
 
 <sup>2</sup> Die Eigentümerin oder der Eigentümer derartiger Strassen hat die Hoheit über diese Strasse.
 
-<sup>3</sup> Ist eine Strasse oder ein Strassenabschnitt nicht als selbstständiges Grundstück ausgeschieden, sondern verläuft über mehrere Grundstücke, haben die beteiligten Grundeigentümer die gemeinsame Hoheit.
+3 Ist eine Strasse oder ein Strassenabschnitt nicht als selbstständiges Grundstück ausgeschieden, sondern verläuft über mehrere Grundstücke, haben die beteiligten Grundeigentümer die gemeinsame Hoheit.
 
 #### Artikel 20
 
 **Streitigkeiten**
 
-<sup>1</sup> Streitigkeiten über die Zuordnung einer Strasse entscheidet der Regierungsrat. Sein Entscheid unterliegt der Verwaltungsgerichtsbeschwerde an das Obergericht.
+Streitigkeiten über die Zuordnung einer Strasse entscheidet der Regierungsrat. Sein Entscheid unterliegt der Verwaltungsgerichtsbeschwerde an das Obergericht.
 
 #### Artikel 21
 
@@ -227,7 +232,7 @@ beschliesst:
 
 <sup>2</sup> Ausnahmsweise kann eine zusätzliche Pauschalentschädigung vereinbart werden, um überdurchschnittliche Unterhaltsaufwendungen des übernehmenden Gemeinwesens abzugelten.
 
-## 3 Zuständigkeit
+### 3. Kapitel: ZUSTÄNDIGKEIT
 
 #### Artikel 22
 
@@ -237,39 +242,45 @@ beschliesst:
 
 <sup>2</sup> Im Rahmen der Strassenhoheit und soweit dieses Gesetz nichts anderes bestimmt, handelt:
 
-- a) der Regierungsrat bei Kantonsstrassen
-- b) der Gemeinderat bei Gemeindestrassen, soweit die Gemeindesatzung nichts anderes bestimmt
-- c) der Engere Rat bei Korporationsstrassen, soweit das Recht der Korporation nichts anderes bestimmt
-- d) die jeweilige Strasseneigentümerin oder der jeweilige Strasseneigentümer bei den übrigen Strassen
+- a) der Regierungsrat bei Kantonsstrassen;
+
+- b) der Gemeinderat bei Gemeindestrassen, soweit die Gemeindesatzung nichts anderes bestimmt;
+
+- c) der Engere Rat bei Korporationsstrassen, soweit das Recht der Korporation nichts anderes bestimmt;
+
+- d) die jeweilige Strasseneigentümerin oder der jeweilige Strasseneigentümer bei den übrigen Strassen.
 
 <sup>3</sup> Der Regierungsrat und der Gemeinderat können ihre Befugnisse nach dieser Bestimmung im Einzelfall oder im Allgemeinen delegieren.
 
-<sup>4</sup> Vorbehalten bleibt die besondere Zuständigkeit, die dieses Gesetz und der Anhang bei Einmündungen und Kreuzungen vorsehen. Vorbehalten bleiben auch die besonderen Vorschriften anderer Erlasse, namentlich des Strassenverkehrsrechts und der Baupolizei.
+4 Vorbehalten bleibt die besondere Zuständigkeit, die dieses Gesetz und der Anhang bei Einmündungen und Kreuzungen vorsehen. Vorbehalten bleiben auch die besonderen Vorschriften anderer Erlasse, namentlich des Strassenverkehrsrechts und der Baupolizei.
 
 #### Artikel 23
 
-**Radwege: Planung**
+**Radwege**
 
-<sup>1</sup> Die zuständige Direktion[^Artikel23-1] erstellt einen Plan über die bestehenden und vorgesehenen Radwege im Kanton.
+- a) Planung
+
+<sup>1</sup> Die zuständige Direktion[^23-1] erstellt einen Plan über die bestehenden und vorgesehenen Radwege im Kanton.
 
 <sup>2</sup> Die Planung hat im Einverständnis mit den Gemeinden zu erfolgen.
 
-[^Artikel23-1]: Baudirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^23-1]: Baudirektion; siehe Organisationsreglement (RB 2.3322).
 
-#### Artikel 24
+#### Artikel 24 b
 
-**Radwege: Bau und Unterhalt**
+**) Bau und Unterhalt**
 
 <sup>1</sup> Für Radwege, die Bestandteil einer Strasse sind, richtet sich die Zuständigkeit für den Bau und den Unterhalt nach den Vorschriften für die betreffende Strasse.
 
 <sup>2</sup> Für den Bau und den Unterhalt eigenständiger Radwege sind zuständig:
 
-- a) der Kanton, wenn es sich um eine Ortsverbindung handelt
-- b) die Gemeinden in den übrigen Fällen
+- a) der Kanton, wenn es sich um eine Ortsverbindung handelt;
 
-<sup>3</sup> Das Verfahren richtet sich nach Artikel 30 f.
+- b) die Gemeinden in den übrigen Fällen.
 
-## 4 Strassenbau
+Das Verfahren richtet sich nach Artikel 30 f.
+
+### 4. Kapitel: STRASSENBAU
 
 ### 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -289,12 +300,17 @@ beschliesst:
 
 <sup>2</sup> In diesem Rahmen richtet sich der Strassenbau nach:
 
-- a) seiner Zweckbestimmung
-- b) dem Interesse des öffentlichen Verkehrs
-- c) dem Schutz der schwächeren Verkehrsteilnehmerinnen und Verkehrsteilnehmer
-- d) dem Verkehrsaufkommen
-- e) der Wirtschaftlichkeit
-- f) dem jeweiligen Stand der Technik
+- a) seiner Zweckbestimmung;
+
+- b) dem Interesse des öffentlichen Verkehrs;
+
+- c) dem Schutz der schwächeren Verkehrsteilnehmerinnen und Verkehrsteilnehmer;
+
+- d) dem Verkehrsaufkommen;
+
+- e) der Wirtschaftlichkeit;
+
+- f) dem jeweiligen Stand der Technik.
 
 #### Artikel 27
 
@@ -316,15 +332,15 @@ beschliesst:
 
 #### Artikel 29
 
-**Landerwerb öffentlicher Grund**
-
-<sup>1</sup> Die Abtretung von Grundeigentum in Zusammenhang mit dem Ausbau oder der Korrektion von Strassen erfolgt zwischen Kanton, Korporationen und Einwohnergemeinden in der Regel unentgeltlich. Der Heimfall des Eigentums kann vom Geber verlangt werden, wenn der Grund und Boden kein Strassengebiet mehr darstellt.
+Landerwerb öffentlicher Grund Die Abtretung von Grundeigentum in Zusammenhang mit dem Ausbau oder der Korrektion von Strassen erfolgt zwischen Kanton, Korporationen und Einwohnergemeinden in der Regel unentgeltlich. Der Heimfall des Eigentums kann vom Geber verlangt werden, wenn der Grund und Boden kein Strassengebiet mehr darstellt.
 
 ### 2. Abschnitt: Verfahren
 
 #### Artikel 30
 
-**Kantons-, Gemeinde- und Korporationsstrassen: Ordentliches Verfahren**
+**Kantons- , Gemeinde- und Korporationsstrassen**
+
+- a) Ordentliches Verfahren
 
 <sup>1</sup> Strassenbauprojekte für Kantons-, Gemeinde- und Korporationsstrassen sind im Amtsblatt zu veröffentlichen mit dem Hinweis, dass dagegen innert 30 Tagen seit der Veröffentlichung beim Regierungsrat Einsprache erhoben werden kann.
 
@@ -334,13 +350,13 @@ beschliesst:
 
 <sup>4</sup> Der Regierungsrat entscheidet über die Einsprachen und über allfällige Planänderungsbegehren. Er genehmigt das Strassenbauprojekt.
 
-<sup>5</sup> Nach rechtskräftiger Erledigung des Einsprache- und der Plangenehmigungsverfahren überweist er allfällige Entschädigungsbegehren der Schätzungskommission, die das Schätzungsverfahren nach den Bestimmungen über das kantonale Enteignungsgesetz (RB [3.3211](https://rechtsbuch.ur.ch/data/3.3211/de)) durchführt.
+<sup>5</sup> Nach rechtskräftiger Erledigung des Einsprache- und der Plangenehmigungsverfahren überweist er allfällige Entschädigungsbegehren der Schätzungskommission, die das Schätzungsverfahren nach den Bestimmungen über das kantonale Enteignungsgesetz<sup>3</sup> durchführt.
 
-<sup>6</sup> Im Übrigen richtet sich das Verfahren nach den Bestimmungen der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)).
+<sup>6</sup> Im Übrigen richtet sich das Verfahren nach den Bestimmungen der Verordnung über die Verwaltungsrechtspflege<sup>4</sup>.
 
-#### Artikel 31
+#### Artikel 31 b
 
-**Kantons-, Gemeinde- und Korporationsstrassen: Vereinfachtes Verfahren**
+**) Vereinfachtes Verfahren**
 
 <sup>1</sup> Wenn die Verhältnisse es rechtfertigen und wenn entweder mit Sicherheit keine Interessen einspracheberechtigter Dritter verletzt werden oder nur wenige bekannte Dritte betroffen sein können, kann das vereinfachte Verfahren durchgeführt werden.
 
@@ -350,9 +366,9 @@ beschliesst:
 
 **Übrige Strassen**
 
-<sup>1</sup> Der Bau, Ausbau und die Änderung der übrigen Strassen richten sich nach dem ordentlichen Baubewilligungsverfahren.
+Der Bau, Ausbau und die Änderung der übrigen Strassen richten sich nach dem ordentlichen Baubewilligungsverfahren.
 
-## 5 Strassenunterhalt
+### 5. Kapitel: STRASSENUNTERHALT
 
 #### Artikel 33
 
@@ -384,7 +400,7 @@ beschliesst:
 
 **Verfahren**
 
-<sup>1</sup> Für Unterhaltsarbeiten ist grundsätzlich kein besonderes Verfahren notwendig. Wenn allerdings nicht mit Sicherheit ausgeschlossen werden kann, dass die Interessen von Dritten tangiert werden, oder wenn es die besondere Gesetzgebung verlangt, ist das Verfahren nach Artikel 30 ff. durchzuführen.
+Für Unterhaltsarbeiten ist grundsätzlich kein besonderes Verfahren notwendig. Wenn allerdings nicht mit Sicherheit ausgeschlossen werden kann, dass die Interessen von Dritten tangiert werden, oder wenn es die besondere Gesetzgebung verlangt, ist das Verfahren nach Artikel 30 ff. durchzuführen.
 
 #### Artikel 37
 
@@ -394,7 +410,7 @@ beschliesst:
 
 <sup>2</sup> Das Programm bezeichnet alle Strassenunterhaltsvorhaben, die in der Programmperiode ausgeführt oder fortgesetzt werden sollen und nennt deren mutmasslichen Kosten.
 
-## 6 Benützung der Strassen
+### 6. Kapitel: BENÜTZUNG DER STRASSEN
 
 #### Artikel 38
 
@@ -422,7 +438,7 @@ beschliesst:
 
 <sup>2</sup> Die Bewilligung wird erteilt, wenn nicht überwiegende öffentliche oder private Interessen entgegenstehen. Sie ist zu befristen und kann mit Auflagen und Bedingungen verbunden werden.
 
-<sup>3</sup> Die Bewilligung kann entschädigungslos entzogen werden, wenn die Voraussetzungen für die Erteilung nicht mehr erfüllt sind, wenn sich die Verhältnisse geändert haben oder wenn Vorschriften, Auflagen oder Bedingungen nicht eingehalten werden.
+3 Die Bewilligung kann entschädigungslos entzogen werden, wenn die Voraussetzungen für die Erteilung nicht mehr erfüllt sind, wenn sich die Verhältnisse geändert haben oder wenn Vorschriften, Auflagen oder Bedingungen nicht eingehalten werden.
 
 #### Artikel 41
 
@@ -442,7 +458,7 @@ beschliesst:
 
 **Bestehende Leitungen**
 
-<sup>1</sup> Für bestehende Leitungen in Strassen, die über keine Konzession verfügen, gilt Artikel 41 Absatz 5 sinngemäss. Abweichende Vereinbarungen sind vorbehalten.
+Für bestehende Leitungen in Strassen, die über keine Konzession verfügen, gilt Artikel 41 Absatz 5 sinngemäss. Abweichende Vereinbarungen sind vorbehalten.
 
 #### Artikel 43
 
@@ -452,34 +468,37 @@ beschliesst:
 
 <sup>2</sup> Die Höhe der Abgabe und die Art der Erhebung sind in einem Rechtssatz festzulegen. Bei öffentlichen Strassen, deren Hoheit weder dem Kanton noch der Gemeinde zusteht, handelt der Gemeinderat auf Antrag der Hoheitsträgerin oder des Hoheitsträgers.
 
-<sup>3</sup> Der Regierungsrat kann die Befugnis, für Kantonsstrassen und ‑plätze derartige Gebühren zu erheben, der betreffenden Gemeinde abtreten.
+3 Der Regierungsrat kann die Befugnis, für Kantonsstrassen und –plätze derartige Gebühren zu erheben, der betreffenden Gemeinde abtreten.
 
 #### Artikel 44
 
 **Gebühren**
 
-<sup>1</sup> Die Gebühren für den gesteigerten Gemeingebrauch und die Sondernutzung richten sich nach der kantonalen Gebührenverordnung (RB [3.2512](https://rechtsbuch.ur.ch/data/3.2512/de)), soweit die besondere Gesetzgebung oder die Gemeindesatzung nichts anderes bestimmt.
+Die Gebühren für den gesteigerten Gemeingebrauch und die Sondernutzung richten sich nach der kantonalen Gebührenverordnung<sup>5</sup>, soweit die besondere Gesetzgebung oder die Gemeindesatzung nichts anderes bestimmt.
 
-## 7 Strassenpolizeiliche Bestimmungen
+### 7. Kapitel: STRASSENPOLIZEILICHE BESTIMMUNGEN
 
 #### Artikel 45
 
-**Benachbarte Grundstücke: Grundsatz**
+**Benachbarte Grundstücke**
 
-<sup>1</sup> Eigentümerinnen oder Eigentümer von Grundstücken, die an öffentliche Strassen grenzen, haben deswegen keine besonderen Rechte.
+- a) Grundsatz Eigentümerinnen oder Eigentümer von Grundstücken, die an öffentliche Strassen grenzen, haben deswegen keine besonderen Rechte.
 
-#### Artikel 46
+#### Artikel 46 b
 
-**Benachbarte Grundstücke: Duldungspflicht**
+**) Duldungspflicht**
 
 <sup>1</sup> Eigentümerinnen und Eigentümer von Grundstücken, die an öffentliche Strassen grenzen, haben Beeinträchtigungen in Zusammenhang mit dem Bau, dem Unterhalt und dem Betrieb von Strassen zu dulden. Das gilt namentlich für Beeinträchtigungen in Zusammenhang mit:
 
-- a) der Schneeräumung
-- b) der Entwässerung
-- c) der Abwendung von Gefahren für die öffentliche Strasse und für den Strassenverkehr
-- d) der Aufrechterhaltung des Verkehrs
+- a) der Schneeräumung;
 
-<sup>2</sup> Entsteht dadurch wesentlicher Schaden, hat das verursachende Gemeinwesen bzw. die verursachende Person den Schaden zu beheben oder eine entsprechende Entschädigung zu leisten. Können sich die Beteiligten über die Entschädigung nicht einigen, kann beim Präsidium der kantonalen Schätzungskommission die Durchführung des Schätzungsverfahrens verlangt werden. Die Vorschriften über die Enteignung (RB [3.3211](https://rechtsbuch.ur.ch/data/3.3211/de)) sind sinngemäss anzuwenden.
+- b) der Entwässerung;
+
+- c) der Abwendung von Gefahren für die öffentliche Strasse und für den Strassenverkehr;
+
+- d) der Aufrechterhaltung des Verkehrs.
+
+<sup>2</sup> Entsteht dadurch wesentlicher Schaden, hat das verursachende Gemeinwesen bzw. die verursachende Person den Schaden zu beheben oder eine entsprechende Entschädigung zu leisten. Können sich die Beteiligten über die Entschädigung nicht einigen, kann beim Präsidium der kantonalen Schätzungskommission die Durchführung des Schätzungsverfahrens verlangt werden. Die Vorschriften über die Enteignung<sup>6</sup> sind sinngemäss anzuwenden.
 
 <sup>3</sup> Die Duldungspflicht gilt sinngemäss für sämtliche Leitungen, die zur Strasse gehören, ist jedoch nicht auf Anstösserinnen und Anstösser beschränkt.
 
@@ -489,9 +508,9 @@ beschliesst:
 
 <sup>1</sup> Die Sicherheit von öffentlichen Strassen darf nicht beeinträchtigt werden. Unzulässig sind insbesondere Beeinträchtigungen durch Bauten und Anlagen, durch Pflanzen und Einfriedungen sowie durch Aus- und Einfahrten.
 
-<sup>2</sup> Diesbezüglich gelten die Bestimmungen des Planungs- und Baugesetzes (RB [40.1111](https://rechtsbuch.ur.ch/data/40.1111/de)).
+<sup>2</sup> Diesbezüglich gelten die Bestimmungen des Planungs- und Baugesetzes<sup>7</sup>.
 
-## 8 Finanzielle Bestimmungen
+### 8. Kapitel: FINANZIELLE BESTIMMUNGEN
 
 #### Artikel 48
 
@@ -511,15 +530,15 @@ beschliesst:
 
 **Perimeterbeiträge**
 
-<sup>1</sup> Der Landrat kann in einer Verordnung den Kanton, die Gemeinden und die Korporationen ermächtigen, für den Bau oder Ausbau ihrer Strassen von den Anliegerinnen und Anliegern, deren Grund und Boden aus dem Bau oder Ausbau einen besonderen Vorteil zieht, Perimeterbeiträge zu erheben.
+Der Landrat kann in einer Verordnung den Kanton, die Gemeinden und die Korporationen ermächtigen, für den Bau oder Ausbau ihrer Strassen von den Anliegerinnen und Anliegern, deren Grund und Boden aus dem Bau oder Ausbau einen besonderen Vorteil zieht, Perimeterbeiträge zu erheben.
 
 #### Artikel 50
 
 **Baulicher Unterhalt von Kantonsstrassen**
 
-<sup>1</sup> Der Landrat beschliesst die mit dem Programm für den baulichen Unterhalt verbundenen Ausgaben.
+Der Landrat beschliesst die mit dem Programm für den baulichen Unterhalt verbundenen Ausgaben.
 
-## 9 Organisation
+### 9. Kapitel: ORGANISATION
 
 #### Artikel 51
 
@@ -527,9 +546,9 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat hat die Oberaufsicht über die öffentlichen Strassen. Er entscheidet über Anstände und Streitigkeiten, soweit dieses Gesetz nichts anderes bestimmt.
 
-<sup>2</sup> Die zuständige Direktion[^Artikel51-1] hat die direkte Aufsicht über die öffentlichen Strassen.
+<sup>2</sup> Die zuständige Direktion[^51-1] hat die direkte Aufsicht über die öffentlichen Strassen.
 
-[^Artikel51-1]: Baudirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^51-1]: Baudirektion; siehe Organisationsreglement (RB 2.3322).
 
 #### Artikel 52
 
@@ -539,8 +558,9 @@ beschliesst:
 
 <sup>2</sup> Zu diesem Zweck kann der Regierungsrat:
 
-- a) mit dem Bund, anderen Kantonen oder Dritten Verträge abschliessen
-- b) mit anderen Kantonen oder Dritten Trägerschaften gründen oder solchen beitreten
+- a) mit dem Bund, anderen Kantonen oder Dritten Verträge abschliessen oder
+
+- b) mit anderen Kantonen oder Dritten Trägerschaften gründen oder solchen beitreten.
 
 <sup>3</sup> Verträge mit dem Bund sowie solche über die Gründung von Trägerschaften oder den Beitritt zu Trägerschaften sind vom Landrat zu genehmigen. Die damit verbundenen Ausgaben gelten mit der Genehmigung durch den Landrat als beschlossen.
 
@@ -552,24 +572,29 @@ beschliesst:
 
 <sup>2</sup> Er kann diesen Verwaltungsstellen oder Organisationseinheiten ganze oder teilweise Selbstständigkeit in rechtlicher und administrativer Hinsicht sowie bezüglich der Rechnungsführung einräumen.
 
-## 10 Schlussbestimmungen
+### 10. Kapitel: SCHLUSSBESTIMMUNGEN
 
 #### Artikel 54
 
 **Ausführungsbestimmungen**
 
-<sup>1</sup> Der Regierungsrat vollzieht dieses Gesetz. Er erlässt die erforderlichen Ausführungsbestimmungen.
+Der Regierungsrat vollzieht dieses Gesetz. Er erlässt die erforderlichen Ausführungsbestimmungen.
 
 #### Artikel 55
 
 **Strafbestimmungen**
 
-<sup>1</sup> Mit Busse bis zu 50'000 Franken wird bestraft, wer vorsätzlich oder fahrlässig:
+<sup>1</sup> Wer vorsätzlich oder fahrlässig:
 
-- a) eine öffentliche Strasse übermässig verschmutzt und sie trotz Aufforderung der Behörde nicht unverzüglich reinigt (Art. 39)
-- b) ohne Bewilligung eine öffentliche Strasse über den Gemeingebrauch hinaus nutzt (Art. 40)
-- c) ohne Konzession eine öffentliche Strasse intensiv bzw. auf Dauer nutzt (Art. 41)
-- d) die Vorschriften über die Duldungspflicht missachtet (Art. 46)
+- a) eine öffentliche Strasse übermässig verschmutzt und sie trotz Aufforderung der Behörde nicht unverzüglich reinigt (Art. 39);
+
+- b) ohne Bewilligung eine öffentliche Strasse über den Gemeingebrauch hinaus nutzt (Art. 40);
+
+- c) ohne Konzession eine öffentliche Strasse intensiv bzw. auf Dauer nutzt (Art. 41);
+
+- d) die Vorschriften über die Duldungspflicht missachtet (Art. 46);
+
+wird mit Busse bis zu 50 000 Franken bestraft.
 
 <sup>2</sup> Ist die strafbare Handlung im Geschäftsbetrieb einer juristischen Person oder einer Kollektiv- oder Kommanditgesellschaft begangen worden, haftet diese juristische Person bzw. Gesellschaft solidarisch für die Busse, den einzuziehenden Gewinn, die Gebühr und die Kosten.
 
@@ -579,16 +604,19 @@ beschliesst:
 
 **Rechtspflege**
 
-<sup>1</sup> Der Rechtsschutz gegen Verfügungen nach diesem Gesetz und der darauf gestützten Erlasse richtet sich nach den Bestimmungen der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)).
+Der Rechtsschutz gegen Verfügungen nach diesem Gesetz und der darauf gestützten Erlasse richtet sich nach den Bestimmungen der Verordnung über die Verwaltungsrechtspflege[^56-1].
+
+[^56-1]: RB 2.2345
 
 #### Artikel 57
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Es werden aufgehoben:
+Es werden aufgehoben:
 
-- a) das Strassenbaugesetz des Kantons Uri vom 2. Mai 1971
-- b) die Vollziehungsverordnung zum Strassenbaugesetz des Kantons Uri vom 12. April 1972
+- a) das Strassenbaugesetz des Kantons Uri vom 2. Mai 1971<sup>10</sup>;
+
+- b) die Vollziehungsverordnung zum Strassenbaugesetz des Kantons Uri vom 12. April 1972<sup>11</sup>.
 
 #### Artikel 58
 
@@ -606,16 +634,18 @@ beschliesst:
 
 <sup>1</sup> Dieses Gesetz unterliegt der Volksabstimmung.
 
-<sup>2</sup> Der Regierungsrat bestimmt, wann es in Kraft tritt[^Artikel59-1].
+<sup>2</sup> Der Regierungsrat bestimmt, wann es in Kraft tritt[^59-1].
 
-[^Artikel59-1]: Vom Regierungsrat in Kraft gesetzt auf den 1. Januar 2014 (AB vom 6. Dezember 2013).
+Im Namen des Volkes
 
-## A1 Anhang 1: Abgrenzung von Strassenhoheit und Zuständigkeit bei Einmündungen und Kreuzungen
+Der Landammann: Josef Dittli Der Kanzleidirektor: Roman Balli
 
-#### Artikel A1-1
+[^59-1]: Vom Regierungsrat in Kraft gesetzt auf den 1. Januar 2014 (AB vom 6. Dezember 2013).
 
-<sup>1</sup> Skizze 1:
+### Anhang:
 
-<sup>2</sup> Skizze 2:
+- Abgrenzung von Strassenhoheit und Zuständigkeit bei Einmündungen und Kreuzungen
 
-AB 01.03.2013
+### Anhang Abgrenzung von Strassenhoheit und Zuständigkeit bei Einmündungen
+
+und Kreuzungen
