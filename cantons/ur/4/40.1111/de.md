@@ -1,34 +1,38 @@
 ---
 canton: UR
 number: "40.1111"
-title: Planungs- und Baugesetz
+title: PLANUNGS- UND BAUGESETZ
 short: PBG
 language: de
 version: 2022-01-01
+corrected: 2025-08-19
 version_adopted: 2021-09-26
 adopted: 2010-06-13
 in_force: 2012-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.1111"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/849/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/271/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Planungs- und Baugesetz
+# PLANUNGS- UND BAUGESETZ
 
-(PBG)
+PLANUNGS- UND BAUGESETZ (PBG)
 
-Vom 13.06.2010 (Stand 01.01.2022)
+(vom 13. Juni 2010[^t-1]; Stand am 1. Januar 2022)
 
-Das Volk des Kantons Uri,
-
-gestützt auf Artikel 36 des Bundesgesetzes über die Raumplanung (SR [700](https://db.clex.ch/link/Bund/700/de)) sowie auf Artikel 48 und 90 Absatz 1 der Kantonsverfassung (RB [1.1101](https://rechtsbuch.ur.ch/data/1.1101/de)),
+Das Volk des Kantons Uri, gestützt auf Artikel 36 des Bundesgesetzes über die Raumplanung[^t-2] sowie auf Artikel 48 und 90 Absatz 1 der Verfassung des Kantons Uri[^t-3],
 
 beschliesst:
 
-## 1 Allgemeine Bestimmungen
+[^t-1]: AB vom 16. April 2010
+[^t-2]: SR 700
+[^t-3]: RB 1.1101
 
-### 1.1 Zweck, Gegenstand und vorbehaltenes Recht
+### 1. Titel: ALLGEMEINE BESTIMMUNGEN
+
+### 1. Kapitel: ZWECK, GEGENSTAND UND VORBEHALTENES RECHT
 
 #### Artikel 1
 
@@ -42,19 +46,20 @@ beschliesst:
 
 **Vorbehaltenes Recht**
 
-<sup>1</sup> Besondere Bestimmungen, namentlich jene über den Wald, den Natur- und Heimatschutz, den Gewässer- und den Umweltschutz, bleiben vorbehalten.
+Besondere Bestimmungen, namentlich jene über den Wald, den Natur- und Heimatschutz, den Gewässer- und den Umweltschutz, bleiben vorbehalten.
 
-### 1.2 Organisation
+### 2. Kapitel: ORGANISATION
 
 #### Artikel 3
 
 **Regierungsrat**
 
-<sup>1</sup> Der Regierungsrat übt die Aufsicht aus über die Anwendung des Planungsrechts und des öffentlichen Baurechts durch die Gemeinden. Er kann diese Aufgabe der zuständigen Direktion[^Artikel3-1] übertragen.
+<sup>1</sup> Der Regierungsrat übt die Aufsicht aus über die Anwendung des Planungsrechts und des öffentlichen Baurechts durch die Gemeinden. Er kann diese Aufgabe der zuständigen Direktion[^3-1] übertragen.
 
-<sup>2</sup> Der Regierungsrat beaufsichtigt den Vollzug der Gesetzgebung über Zweitwohnungen.
+2 Der Regierungsrat beaufsichtigt den Vollzug der Gesetzgebung über Zweitwohnungen.[^3-2]
 
-[^Artikel3-1]: Justizdirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^3-1]: Justizdirektion; siehe Organisationsreglement (RB 2.3322).
+[^3-2]: Eingefügt durch VA vom 21. Mai 2017, in Kraft gesetzt auf den 1. Juni 2017 (AB vom 9. September 2016).
 
 #### Artikel 4
 
@@ -76,33 +81,38 @@ beschliesst:
 
 **Fachstelle für Raumplanung**
 
-<sup>1</sup> Der Regierungsrat bezeichnet die Fachstelle für Raumplanung.
+Der Regierungsrat bezeichnet die Fachstelle für Raumplanung.
 
-## 2 Planungsrecht
+### 2. Titel: PLANUNGSRECHT
 
-### 2.1 Allgemeines
+### 1. Kapitel: ALLGEMEINES
 
 #### Artikel 7
 
 **Grundsätze der Planung**
 
-<sup>1</sup> Die Behörden berücksichtigen bei ihren Planungsaufgaben die Grundsätze des Raumplanungsrechts des Bundes.
+Die Behörden berücksichtigen bei ihren Planungsaufgaben die Grundsätze des Raumplanungsrechts des Bundes.
 
 #### Artikel 8
 
-**Digitalisierung und Ablieferungspflicht von Raumplanungsdaten**
+**Digitalisierung und Ablieferungspflicht**
+
+von Raumplanungsdaten
 
 <sup>1</sup> Grundlagen und Planungsmittel werden digital erstellt und bewirtschaftet.
 
-<sup>2</sup> Pläne sind aus den digitalen Daten erstellte grafische Auszüge. Solange der Regierungsrat nichts anderes bestimmt, kommt vorbehältlich Artikel 15 des Publikationsgesetzes (RB [3.1310](https://rechtsbuch.ur.ch/data/3.1310/de)) nur dem grafischen Auszug Rechtswirkung zu.
+2 Pläne sind aus den digitalen Daten erstellte grafische Auszüge. Solange der Regierungsrat nichts anderes bestimmt, kommt vorbehältlich Artikel 15 des Publikationsgesetzes[^8-1] nur dem grafischen Auszug Rechtswirkung zu.[^8-2]
 
 <sup>3</sup> Die Planungsbehörden stellen ihre Raumplanungsdaten anderen Planungsbehörden und deren Amtsstellen unentgeltlich oder höchstens zu Selbstkosten zur Verfügung.
 
 <sup>4</sup> Sie liefern ihre Planungsergebnisse in digitaler Form der Unternehmung ab, die für den Kanton die Ebene Raumplanung bearbeitet.
 
-### 2.2 Raumplanung des Kantons
+[^8-1]: RB 3.1310
+[^8-2]: Fassung gemäss VA vom 26. September 2021, in Kraft gesetzt auf den 1. Januar 2022 (AB vom 9. Juli 2021).
 
-### 2.2.1 Richtplanung
+### 2. Kapitel: RAUMPLANUNG DES KANTONS
+
+### 1. Abschnitt: Richtplanung
 
 #### Artikel 9
 
@@ -120,25 +130,27 @@ beschliesst:
 
 <sup>2</sup> Der kantonale Richtplan wird verbindlich:
 
-- a) für die Behörden des Kantons, sobald der Landrat ihn genehmigt hat
-- b) für den Bund und die Nachbarkantone, sobald der Bundesrat ihn genehmigt hat
+- a) für die Behörden des Kantons, sobald der Landrat ihn genehmigt hat;
+
+- b) für den Bund und die Nachbarkantone, sobald der Bundesrat ihn genehmigt hat.
 
 <sup>3</sup> Der Genehmigungsbeschluss ist im kantonalen Amtsblatt zu veröffentlichen.
 
 <sup>4</sup> Der kantonale Richtplan ist öffentlich zugänglich.
 
-<sup>5</sup> Der Regierungsrat kann den Gemeinden eine angemessene Frist setzen, innert welcher sie den Richtplan in der gemeindlichen Nutzungsplanung umzusetzen haben.
+5 Der Regierungsrat kann den Gemeinden eine angemessene Frist setzen, innert welcher sie den Richtplan in der gemeindlichen Nutzungsplanung umzusetzen haben.
 
-### 2.2.2 Nutzungsplanung
+### 2. Abschnitt: Nutzungsplanung
 
 #### Artikel 11
 
 **Grundsatz**
 
-<sup>1</sup> Der Regierungsrat kann kantonale Nutzungspläne mit Nutzungsvorschriften erlassen, um:
+Der Regierungsrat kann kantonale Nutzungspläne mit Nutzungsvorschriften erlassen, um:
 
-- a) gemeindliche Nutzungspläne aufeinander abzustimmen
-- b) öffentliche oder im öffentlichen Interesse liegende Bauten und Anlagen, die regionale oder kantonale Bedeutung haben, planerisch zu sichern
+- a) gemeindliche Nutzungspläne aufeinander abzustimmen;
+
+- b) öffentliche oder im öffentlichen Interesse liegende Bauten und Anlagen, die regionale oder kantonale Bedeutung haben, planerisch zu sichern.
 
 #### Artikel 12
 
@@ -154,24 +166,26 @@ beschliesst:
 
 **Wirkung**
 
-<sup>1</sup> Kantonale Nutzungspläne sind für jedermann verbindlich. Sie gehen den Nutzungsplänen der Gemeinden vor.
+Kantonale Nutzungspläne sind für jedermann verbindlich. Sie gehen den Nutzungsplänen der Gemeinden vor.
 
-### 2.2.3 Weitere Planungsinstrumente des Kantons
+### 3. Abschnitt: Weitere Planungsinstrumente des Kantons
 
 #### Artikel 14
 
-**Baulinien: Zweck**
+**Baulinien**
 
-<sup>1</sup> Die zuständige Direktion[^Artikel14-1] kann Baulinien verfügen, um bestehende oder geplante öffentliche Bauten oder Anlagen des Kantons zu sichern. Die Gemeinden, auf deren Gebiet die Baute oder Anlage liegt oder geplant ist, sind vorher anzuhören.
+- a) Zweck
 
-<sup>2</sup> Ausnahmebewilligungen gegenüber solchen Baulinien erteilt die zuständige Direktion[^Artikel14-2].
+<sup>1</sup> Die zuständige Direktion[^14-1] kann Baulinien verfügen, um bestehende oder geplante öffentliche Bauten oder Anlagen des Kantons zu sichern. Die Gemeinden, auf deren Gebiet die Baute oder Anlage liegt oder geplant ist, sind vorher anzuhören.
 
-[^Artikel14-1]: Baudirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
-[^Artikel14-2]: Baudirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+<sup>2</sup> Ausnahmebewilligungen gegenüber solchen Baulinien erteilt die zuständige Direktion[^14-2].
 
-#### Artikel 15
+[^14-1]: Baudirektion; siehe Organisationsreglement (RB 2.3322).
+[^14-2]: Baudirektion; siehe Organisationsreglement (RB 2.3322).
 
-**Baulinien: Verfahren**
+#### Artikel 15 b
+
+**) Verfahren**
 
 <sup>1</sup> Baulinien sind während 30 Tagen öffentlich aufzulegen. Die Auflage ist öffentlich bekannt zu machen.
 
@@ -179,17 +193,19 @@ beschliesst:
 
 <sup>3</sup> Kann die Einsprache nicht gütlich erledigt werden, entscheidet der Regierungsrat darüber. Falls die Verständigung oder der Einspracheentscheid wesentliche Änderungen zur Folge hat, ist die öffentliche Auflage zu wiederholen.
 
-<sup>4</sup> Im Übrigen richtet sich das Verfahren nach der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)).
+<sup>4</sup> Im Übrigen richtet sich das Verfahren nach der Verordnung über die Verwaltungsrechtspflege[^15b-1].
 
-#### Artikel 16
+[^15b-1]: RB 2.2345
 
-**Baulinien: Verweis**
+#### Artikel 16 c
 
-<sup>1</sup> Soweit dieser Abschnitt nichts anderes bestimmt, sind die Vorschriften für gemeindliche Baulinien sinngemäss auch für jene des Kantons anzuwenden.
+**) Verweis**
 
-### 2.3 Raumplanung der Gemeinden
+Soweit dieser Abschnitt nichts anderes bestimmt, sind die Vorschriften für gemeindliche Baulinien sinngemäss auch für jene des Kantons anzuwenden.
 
-### 2.3.1 Bauordnung
+### 3. Kapitel: RAUMPLANUNG DER GEMEINDEN
+
+### 1. Abschnitt: Bauordnung
 
 #### Artikel 17
 
@@ -199,9 +215,11 @@ beschliesst:
 
 <sup>2</sup> Insbesondere sind Vorschriften zu erlassen über:
 
-- a) das Mass der baulichen und betrieblichen Nutzung
-- b) Beiträge und Ersatzabgaben nach diesem Gesetz, sofern sie nicht in einem besonderen Rechtserlass der Gemeinde geregelt sind
-- c) die zuständigen Baubehörden, sofern nicht der Gemeinderat diese Aufgabe übernimmt
+- a) das Mass der baulichen und betrieblichen Nutzung;
+
+- b) Beiträge und Ersatzabgaben nach diesem Gesetz, sofern sie nicht in einem besonderen Rechtserlass der Gemeinde geregelt sind;
+
+- c) die zuständigen Baubehörden, sofern nicht der Gemeinderat diese Aufgabe übernimmt.
 
 <sup>3</sup> Die Bauordnung hat für die einzelnen Zonen eine Mindestausnützung vorzuschreiben.
 
@@ -215,18 +233,25 @@ beschliesst:
 
 <sup>2</sup> Dazu gehören insbesondere die Begriffe, Mess- und Berechnungsweisen für:
 
-- a) das massgebende Terrain
-- b) die Gebäude und Gebäudeteile
-- c) die Längen, Breiten und Höhen
-- d) die Geschosse
-- e) die Abstände und Abstandsbereiche
-- f) die Nutzungsziffern
+- a) das massgebende Terrain;
 
-<sup>3</sup> Der Regierungsrat kann zu diesem Zweck der Interkantonalen Vereinbarung über die Harmonisierung der Baubegriffe (IVHB) (RB [40.1117](https://rechtsbuch.ur.ch/data/40.1117/de)) beitreten und diese verbindlich erklären.
+- b) die Gebäude und Gebäudeteile;
 
-### 2.3.2 Nutzungsplan
+- c) die Längen, Breiten und Höhen;
 
-### 2.3.2.1 Inhalt und Zonenarten
+- d) die Geschosse;
+
+- e) die Abstände und Abstandsbereiche;
+
+- f) die Nutzungsziffern.
+
+<sup>3</sup> Der Regierungsrat kann zu diesem Zweck der Interkantonalen Vereinbarung über die Harmonisierung der Baubegriffe[^18-1] beitreten und diese verbindlich erklären.
+
+[^18-1]: IVHB
+
+### 2. Abschnitt: Nutzungsplan
+
+### 1. Unterabschnitt: Inhalt und Zonenarten
 
 #### Artikel 19
 
@@ -236,9 +261,11 @@ beschliesst:
 
 <sup>2</sup> Der Nutzungsplan bestimmt die Art und das zulässige Mass der Nutzung des Bodens im gesamten Gemeindegebiet. Er unterscheidet Bauzonen, Landwirtschafts- und andere Nichtbauzonen sowie, entsprechend den örtlichen Bedürfnissen, weitere Zonen, namentlich Schutzzonen.
 
+[^19-1]: Aufgehoben durch VA vom 21. Mai 2017, in Kraft gesetzt auf den 1. Juni 2017 (AB vom 9. September 2016).
+
 #### Artikel 20
 
-**…**
+[^19-1]
 
 #### Artikel 21
 
@@ -246,37 +273,56 @@ beschliesst:
 
 <sup>1</sup> Mit dem Nutzungsplan können folgende Bauzonen ausgeschieden werden:
 
-- a) Kernzonen (K)
-- b) Wohnzonen (W)
-- c) Wohn- und Gewerbezonen (WG)
-- d) Gewerbezonen (GE)
-- e) Industriezonen (I)
-- f) Tourismuszonen (TZ)
-- g) Zonen für öffentliche Bauten und Anlagen (OE)
-- h) Zonen für Sport- und Freizeitanlagen (SF)
-- i) Freihaltezonen (FZ)
-- j) …
-- k) Verkehrsflächen (VF)
+- a) Kernzonen (K);
+
+- b) Wohnzonen (W);
+
+- c) Wohn- und Gewerbezonen (WG);
+
+- d) Gewerbezonen (GE);
+
+- e) Industriezonen (I);
+
+- f) Tourismuszonen (TZ);
+
+- g) Zonen für öffentliche Bauten und Anlagen (OE);
+
+- h) Zonen für Sport- und Freizeitanlagen (SF);
+
+- i) Freihaltezonen (FZ);
+
+- j)[^21-1]
+
+- k) Verkehrsflächen (VF).
 
 <sup>2</sup> Durch den Nutzungsplan können folgende Arten von Nichtbauzonen ausgeschieden werden:
 
-- a) Landwirtschaftszonen (L)
-- b) Reservezonen (RZ)
+- a) Landwirtschaftszonen (L);
+
+- b) Reservezonen (RZ).
 
 <sup>3</sup> Diese Grundnutzungszonen können durch folgende weitere Zonenarten ergänzt oder überlagert werden:
 
-- a) Schutzzonen
-- a<sup>bis</sup>) Weilerzonen (WZ)
-- b) Zone für Wintersport (WS)
-- c) Deponiezonen, Abbauzonen
-- d) Zone für besondere Anlagen und Betriebsstätten
-- e) Zonen mit Quartierplan- oder Quartiergestaltungsplanpflicht
-- f) Gefahrenzonen
-- g) Gewässerraumzonen
+- a) Schutzzonen; a<sup>bis</sup>) Weilerzonen (WZ);[^21-2]
 
-<sup>4</sup> Wenn die Gemeinde ein besonderes Bedürfnis nachweist, kann der Regierungsrat weitere Zonen anerkennen.
+- b) Zone für Wintersport (WS);
 
-### 2.3.2.2 Bauzonen
+- c) Deponiezonen, Abbauzonen;
+
+- d) Zone für besondere Anlagen und Betriebsstätten;
+
+- e) Zonen mit Quartierplan- oder Quartiergestaltungsplanpflicht;
+
+- f) Gefahrenzonen;
+
+- g) Gewässerraumzonen.
+
+4 Wenn die Gemeinde ein besonderes Bedürfnis nachweist, kann der Regierungsrat weitere Zonen anerkennen.
+
+[^21-1]: Aufgehoben durch VA vom 21. Mai 2017, in Kraft gesetzt auf den 1. Juni 2017 (AB vom 9. September 2016).
+[^21-2]: Eingefügt durch VA vom 21. Mai 2017, in Kraft gesetzt auf den 1. Juni 2017 (AB vom 9. September 2016).
+
+### 2. Unterabschnitt: Bauzonen
 
 #### Artikel 22
 
@@ -298,7 +344,7 @@ beschliesst:
 
 **Wohn- und Gewerbezone**
 
-<sup>1</sup> In der Wohn- und Gewerbezone sind Wohnbauten und mässig störende Betriebe zulässig. Die Gemeinde kann mit der Nutzungsplanung bestimmte Betriebsarten aus planerischen oder infrastrukturellen Gründen ausschliessen oder begrenzen.
+In der Wohn- und Gewerbezone sind Wohnbauten und mässig störende Betriebe zulässig. Die Gemeinde kann mit der Nutzungsplanung bestimmte Betriebsarten aus planerischen oder infrastrukturellen Gründen ausschliessen oder begrenzen.
 
 #### Artikel 25
 
@@ -306,7 +352,7 @@ beschliesst:
 
 <sup>1</sup> In der Gewerbezone sind Betriebe sowie dazu gehörige Bauten und Anlagen zulässig. Die Gemeinde kann mit der Nutzungsplanung bestimmte Betriebsarten aus planerischen oder infrastrukturellen Gründen ausschliessen oder begrenzen.
 
-<sup>2</sup> Wohnungen sind nur für Betriebsinhaberinnen und ‑inhaber sowie für Angestellte zulässig, die betrieblich an den Standort gebunden sind.
+<sup>2</sup> Wohnungen sind nur für Betriebsinhaberinnen und -inhaber sowie für Angestellte zulässig, die betrieblich an den Standort gebunden sind.
 
 #### Artikel 26
 
@@ -314,7 +360,7 @@ beschliesst:
 
 <sup>1</sup> In der Industriezone sind industrielle und gewerbliche Betriebe mit erheblichen Immissionen oder grösseren Baumassen zulässig. Die Gemeinde kann mit der Nutzungsplanung bestimmte Betriebsarten aus planerischen oder infrastrukturellen Gründen ausschliessen oder begrenzen.
 
-<sup>2</sup> Wohnungen sind nur für Betriebsinhaberinnen und ‑inhaber sowie für Angestellte zulässig, die betrieblich an den Standort gebunden sind.
+<sup>2</sup> Wohnungen sind nur für Betriebsinhaberinnen und -inhaber sowie für Angestellte zulässig, die betrieblich an den Standort gebunden sind.
 
 #### Artikel 27
 
@@ -350,9 +396,11 @@ beschliesst:
 
 <sup>2</sup> Oberirdische Bauten und Anlagen sind zulässig, soweit sie der Bewirtschaftung der Freiflächen dienen. Massgeblich sind die Zonenvorschriften der benachbarten Zonen.
 
+[^30-1]: Aufgehoben durch VA vom 21. Mai 2017, in Kraft gesetzt auf den 1. Juni 2017 (AB vom 9. September 2016).
+
 #### Artikel 31
 
-**…**
+[^30-1]
 
 #### Artikel 32
 
@@ -362,11 +410,11 @@ beschliesst:
 
 <sup>2</sup> Verkehrsflächen nach Absatz 1 sind für die Berechnung der Ausnützungsziffer nicht anrechenbar.
 
-<sup>3</sup> Bauten und Anlagen sind zulässig, soweit sie der Verkehrsraumgestaltung oder ‑nutzung dienen.
+<sup>3</sup> Bauten und Anlagen sind zulässig, soweit sie der Verkehrsraumgestaltung oder -nutzung dienen.
 
 <sup>4</sup> Private Nutzungen sind zulässig, wenn sie die zonenkonforme Nutzung nicht beeinträchtigen. Massgeblich sind die Zonenvorschriften der benachbarten Zonen.
 
-### 2.3.2.3 Nichtbauzonen
+### 3. Unterabschnitt: Nichtbauzonen
 
 #### Artikel 33
 
@@ -388,12 +436,17 @@ beschliesst:
 
 <sup>1</sup> Die Reservezone umfasst das Gebiet ausserhalb der Bau- und der Landwirtschaftszonen:
 
-- a) das keiner bestimmten Nutzung zugewiesen werden kann oder
-- b) dessen Nutzung noch nicht bestimmt ist
+- a) das keiner bestimmten Nutzung zugewiesen werden kann; oder
+
+- b) dessen Nutzung noch nicht bestimmt ist.
 
 <sup>2</sup> Bauten und Anlagen sind zulässig, wenn sie die Voraussetzungen für eine Ausnahmebewilligung für Bauten und Anlagen ausserhalb der Bau- und der Landwirtschaftszonen erfüllen und eine spätere bauliche Entwicklung der Gemeinde nicht beeinträchtigen.
 
-### 2.3.2.3a Schutzzonen
+[^34-1]: Eingefügt durch VA vom 21. Mai 2017, in Kraft gesetzt auf den 1. Juni 2017 (AB vom 9. September 2016).
+
+### 3a. Unterabschnitt: Schutzzonen
+
+[^34-1]
 
 #### Artikel 34a
 
@@ -401,22 +454,25 @@ beschliesst:
 
 <sup>1</sup> Schutzzonen dienen dem Schutz von:
 
-- a) Bächen, Flüssen, Seen und ihren Ufern
-- b) besonders schönen sowie naturkundlich oder kulturgeschichtlich wertvollen Landschaften
-- c) bedeutenden Ortsbildern, geschichtlichen Stätten sowie Natur- und Kulturdenkmälern
-- d) Lebensräumen für schutzwürdige Tiere und Pflanzen
+- a) Bächen, Flüssen, Seen und ihren Ufern;
+
+- b) besonders schönen sowie naturkundlich oder kulturgeschichtlich wertvollen Landschaften;
+
+- c) bedeutenden Ortsbildern, geschichtlichen Stätten sowie Natur- und Kulturdenkmälern;
+
+- d) Lebensräumen für schutzwürdige Tiere und Pflanzen.
 
 <sup>2</sup> Zulässig sind Bauten, Anlagen und Nutzungen, die dem Zonenzweck entsprechen und die nach den besonderen Vorschriften für die betreffende Schutzzone erlaubt sind.
 
-### 2.3.2.4 Weitere Zonen
+### 4. Unterabschnitt: Weitere Zonen
 
-#### Artikel 35
-
-**Weilerzone**
+Artikel 35[^h4UnterabschnittW-1] Weilerzone
 
 <sup>1</sup> Die Weilerzone bezweckt, ländliche Kleinsiedlungen zu erhalten und massvoll zu entwickeln. Der kantonale Richtplan bestimmt die möglichen Gebiete für Weilerzonen.
 
 <sup>2</sup> In diesem Rahmen legt die gemeindliche Bauordnung die zulässigen Nutzungen entsprechend den jeweiligen Bedürfnissen fest.
+
+[^h4UnterabschnittW-1]: Fassung gemäss VA vom 21. Mai 2017, in Kraft gesetzt auf den 1. Juni 2017 (AB vom 9. September 2016).
 
 #### Artikel 36
 
@@ -424,7 +480,7 @@ beschliesst:
 
 <sup>1</sup> Um Skisportaktivitäten, namentlich Aufstiegs-, Abfahrts-, Langlauf- und Übungsgelände sowie Schlittenbahnen, zu sichern und offenzuhalten, können Zonen für Wintersport ausgeschieden werden.
 
-<sup>2</sup> Bauten und Anlagen sind zulässig, soweit sie dem Zweck der Zone nicht entgegenstehen.
+2 Bauten und Anlagen sind zulässig, soweit sie dem Zweck der Zone nicht entgegenstehen.
 
 <sup>3</sup> Die Gemeinden können mit der Bauordnung ergänzende Bestimmungen erlassen, insbesondere über das allgemeine Zutrittsrecht, über die Beanspruchung des Bodens für die Beschneiung und maschinelle Präparierung sowie über die Abgeltung von Ertragsausfällen und Schäden an Grundstücken.
 
@@ -480,13 +536,13 @@ beschliesst:
 
 <sup>3</sup> Der Regierungsrat regelt das Nähere in einem Reglement.
 
-### 2.3.2.5 Zuständigkeit und Verfahren
+### 5. Unterabschnitt: Zuständigkeit und Verfahren
 
 #### Artikel 42
 
 **Zuständigkeit**
 
-<sup>1</sup> Die Gemeindeversammlung genehmigt den Nutzungsplan, den der Gemeinderat ihr vorlegt.
+Die Gemeindeversammlung genehmigt den Nutzungsplan, den der Gemeinderat ihr vorlegt.
 
 #### Artikel 43
 
@@ -498,9 +554,11 @@ beschliesst:
 
 <sup>3</sup> Kann die Einsprache nicht gütlich erledigt werden, entscheidet der Gemeinderat darüber. Falls die Verständigung oder der Einspracheentscheid wesentliche Änderungen zur Folge hat, ist die öffentliche Auflage ganz oder teilweise zu wiederholen.
 
-<sup>4</sup> Im Übrigen richtet sich das Verfahren nach der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)).
+<sup>4</sup> Im Übrigen richtet sich das Verfahren nach der Verordnung über die Verwaltungsrechtspflege[^43-1].
 
 <sup>5</sup> Das Mitwirkungsrecht der Bevölkerung ist zu gewährleisten.
+
+[^43-1]: RB 2.2345
 
 #### Artikel 44
 
@@ -514,11 +572,15 @@ beschliesst:
 
 **Überprüfung und Änderung**
 
-<sup>1</sup> Haben sich die Verhältnisse erheblich geändert, so werden die Nutzungspläne und die Nutzungsvorschriften überprüft und nötigenfalls angepasst.
+1 Haben sich die Verhältnisse erheblich geändert, so werden die Nutzungspläne und die Nutzungsvorschriften überprüft und nötigenfalls angepasst.
 
 <sup>2</sup> Um Nutzungspläne und Nutzungsvorschriften zu ändern, ist das gleiche Verfahren durchzuführen wie für deren Erlass.
 
-### 2.3.2.6 Verfügbarkeit von Bauland
+[^45-1]: Eingefügt durch VA vom 21. Mai 2017, in Kraft gesetzt auf den 1. Juni 2017 (AB vom 9. September 2016).
+
+### 6. Unterabschnitt: Verfügbarkeit von Bauland
+
+[^45-1]
 
 #### Artikel 45a
 
@@ -528,25 +590,31 @@ beschliesst:
 
 <sup>2</sup> Wird ein Grundstück nicht innerhalb dieser Frist überbaut, kann die Einwohnergemeinde ein Kaufrecht zum Verkehrswert ausüben, sofern das öffentliche Interesse entgegenstehende private Interessen überwiegt.
 
-<sup>3</sup> Will die Gemeinde das Kaufrecht ausüben, erlässt sie eine entsprechende Verfügung und setzt der Grundeigentümerin oder dem Grundeigentümer eine Frist von mindestens zwei Jahren zur bestimmungsgemässen Nutzung des Grundstücks an. Diese Frist steht still, wenn sich der Baubeginn aus Gründen, die die Bauherrschaft nicht zu vertreten hat, verzögert. Die Verfügung kann im Grundbuch als öffentlich-rechtliche Eigentumsbeschränkung angemerkt werden.
+3 Will die Gemeinde das Kaufrecht ausüben, erlässt sie eine entsprechende Verfügung und setzt der Grundeigentümerin oder dem Grundeigentümer eine Frist von mindestens zwei Jahren zur bestimmungsgemässen Nutzung des Grundstücks an. Diese Frist steht still, wenn sich der Baubeginn aus Gründen, die die Bauherrschaft nicht zu vertreten hat, verzögert. Die Verfügung kann im Grundbuch als öffentlich-rechtliche Eigentumsbeschränkung angemerkt werden.
 
-<sup>4</sup> Nach Ablauf der gesetzten Frist ist die Entschädigung festzulegen. Das Verfahren und der Rechtsschutz richten sich sinngemäss nach den Bestimmungen des Expropriationsgesetzes (RB [3.3211](https://rechtsbuch.ur.ch/data/3.3211/de)).
+<sup>4</sup> Nach Ablauf der gesetzten Frist ist die Entschädigung festzulegen. Das Verfahren und der Rechtsschutz richten sich sinngemäss nach den Bestimmungen des Expropriationsgesetzes[^45a-1].
 
 <sup>5</sup> Auf diesem Weg erworbene Grundstücke sind so bald wie möglich ihrer Bestimmung zuzuführen.
+
+[^45a-1]: RB 3.3211
 
 #### Artikel 45b
 
 **Vertragliche Bauverpflichtung**
 
-<sup>1</sup> Um die Verfügbarkeit von Bauland sicherzustellen oder zu steigern, kann die Gemeinde mit Grundeigentümerinnen oder Grundeigentümern Verträge abschliessen, in denen von den Bestimmungen des Artikels 45a abgewichen werden darf.
+Um die Verfügbarkeit von Bauland sicherzustellen oder zu steigern, kann die Gemeinde mit Grundeigentümerinnen oder Grundeigentümern Verträge abschliessen, in denen von den Bestimmungen des Artikels 45a abgewichen werden darf.
 
 #### Artikel 45c
 
 **Landumlegung**
 
-<sup>1</sup> Landumlegungen erfolgen nach der Verordnung über die öffentlichrechtliche Bodenverbesserungsgenossenschaft.
+Landumlegungen erfolgen nach der Verordnung über die öffentlichrechtliche Bodenverbesserungsgenossenschaft3.
 
-### 2.3.2.7 Ausgleich von Planungsvorteilen
+[^45c-1]: Eingefügt durch VA vom 21. Mai 2017, in Kraft gesetzt auf den 1. Juni 2017 (AB vom 9. September 2016).
+
+### 7. Unterabschnitt: Ausgleich von Planungsvorteilen
+
+[^45c-1]
 
 #### Artikel 45d
 
@@ -556,12 +624,13 @@ beschliesst:
 
 <sup>2</sup> Die Abgabe beträgt 20 Prozent des Mehrwerts, der entsteht:
 
-- a) bei der neuen und dauerhaften Zuweisung von Land zu einer Bauzone (Einzonung) oder
-- b) bei der Zuweisung von Land von einer Bauzone zu einer anderen Bauzonenart mit besseren Nutzungsmöglichkeiten (Umzonung)
+- a) bei der neuen und dauerhaften Zuweisung von Land zu einer Bauzone (Einzonung); oder
+
+- b) bei der Zuweisung von Land von einer Bauzone zu einer anderen Bauzonenart mit besseren Nutzungsmöglichkeiten (Umzonung).
 
 <sup>3</sup> Der Mehrwert entspricht der Differenz zwischen dem Verkehrswert des Grundstücks unmittelbar vor und nach der Planänderung.
 
-<sup>4</sup> Der errechnete Mehrwert ist um den Betrag zu kürzen, der innert zwei Jahren zur Beschaffung einer landwirtschaftlichen Ersatzbaute zur Selbstbewirtschaftung verwendet wird.
+4 Der errechnete Mehrwert ist um den Betrag zu kürzen, der innert zwei Jahren zur Beschaffung einer landwirtschaftlichen Ersatzbaute zur Selbstbewirtschaftung verwendet wird.
 
 #### Artikel 45e
 
@@ -575,33 +644,36 @@ beschliesst:
 
 **Befreiung von der Abgabe**
 
-<sup>1</sup> Keine Abgabe wird erhoben:
+Keine Abgabe wird erhoben:
 
-- a) von öffentlich-rechtlichen Körperschaften und Anstalten, wenn die betroffene Fläche unmittelbar der Erfüllung öffentlicher Aufgaben dient
-- b) für Flächen unter 50 m²
+- a) von öffentlich-rechtlichen Körperschaften und Anstalten, wenn die betroffene Fläche unmittelbar der Erfüllung öffentlicher Aufgaben dient;
+
+- b) für Flächen unter 50 m<sup>2</sup>.
 
 #### Artikel 45g
 
 **Veranlagung**
 
-<sup>1</sup> Nach der Genehmigung des Nutzungsplans stellt das zuständige Amt[^Artikel45g-1] durch Verfügung fest, ob eine Mehrwertabgabepflicht besteht.
+<sup>1</sup> Nach der Genehmigung des Nutzungsplans stellt das zuständige Amt[^45g-1] durch Verfügung fest, ob eine Mehrwertabgabepflicht besteht.
 
-<sup>2</sup> Besteht eine Mehrwertabgabepflicht, veranlagt das für die steueramtliche Schätzung von Grundstücken zuständige Amt[^Artikel45g-2] die Mehrwertabgabe. Das Verfahren und der Rechtsschutz richten sich nach der Schätzungsverordnung (RB [3.2215](https://rechtsbuch.ur.ch/data/3.2215/de)).
+<sup>2</sup> Besteht eine Mehrwertabgabepflicht, veranlagt das für die steueramtliche Schätzung von Grundstücken zuständige Amt[^45g-2] die Mehrwertabgabe. Das Verfahren und der Rechtsschutz richten sich nach der Schätzungsverordnung[^45g-3].
 
-[^Artikel45g-1]: Amt für Raumentwicklung; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
-[^Artikel45g-2]: Amt für Steuern; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^45g-1]: Amt für Raumentwicklung; siehe Organisationsreglement (RB 2.3322).
+[^45g-2]: Amt für Steuern; siehe Organisationsreglement (RB 2.3322).
+[^45g-3]: RB 3.2215
 
 #### Artikel 45h
 
 **Grundpfandrecht**
 
-<sup>1</sup> Zur Sicherung der Mehrwertabgabe sowie allfälliger Verzugszinsen und Betreibungskosten steht dem Kanton an den betreffenden Grundstücken ein gesetzliches Pfandrecht nach Artikel 836 des Zivilgesetzbuches (SR [210](https://db.clex.ch/link/Bund/210/de)) zu.
+<sup>1</sup> Zur Sicherung der Mehrwertabgabe sowie allfälliger Verzugszinsen und Betreibungskosten steht dem Kanton an den betreffenden Grundstücken ein gesetzliches Pfandrecht nach Artikel 836 des Zivilgesetzbuches[^45h-1] zu.
 
 <sup>2</sup> Das Pfandrecht entsteht mit der Genehmigung der Planungsmassnahme ohne Eintrag im Grundbuch. Die zu diesem Zeitpunkt im Grundbuch bereits eingetragenen Grundpfandrechte gehen im Rang vor.
 
-<sup>3</sup> Das für die Veranlagung zuständige Amt[^Artikel45h-1] meldet das Grundpfandrecht zur Eintragung im Grundbuch an, sobald die Veranlagungsverfügung rechtskräftig geworden ist.
+3 Das für die Veranlagung zuständige Amt[^45h-2] meldet das Grundpfandrecht zur Eintragung im Grundbuch an, sobald die Veranlagungsverfügung rechtskräftig geworden ist.
 
-[^Artikel45h-1]: Amt für Steuern; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^45h-1]: SR 210
+[^45h-2]: Amt für Steuern; siehe Organisationsreglement (RB 2.3322).
 
 #### Artikel 45i
 
@@ -609,8 +681,9 @@ beschliesst:
 
 <sup>1</sup> Die Mehrwertabgabe wird fällig bei der Überbauung oder Veräusserung des Grundstücks:
 
-- a) bei der Überbauung mit der Bauabnahme
-- b) bei der Veräusserung mit der Änderung der Rechtslage
+- a) bei der Überbauung mit der Bauabnahme;
+
+- b) bei der Veräusserung mit der Änderung der Rechtslage.
 
 <sup>2</sup> Als Veräusserung gilt jede Übertragung des Grundeigentums oder von Anteilen davon.
 
@@ -620,43 +693,50 @@ beschliesst:
 
 **Verfahren**
 
-<sup>1</sup> Wird die Mehrwertabgabe fällig, stellt das zuständige Amt[^Artikel45j-1] den Betrag in Rechnung.
+<sup>1</sup> Wird die Mehrwertabgabe fällig, stellt das zuständige Amt[^45j-1] den Betrag in Rechnung.
 
 <sup>2</sup> Ist die Fälligkeit streitig, erlässt es eine Feststellungsverfügung.
 
-<sup>3</sup> Zahlungserleichterungen sind nach den Bestimmungen des Gesetzes über die direkten Steuern im Kanton Uri (RB [3.2211](https://rechtsbuch.ur.ch/data/3.2211/de)) möglich.
+<sup>3</sup> Zahlungserleichterungen sind nach den Bestimmungen des Gesetzes über die direkten Steuern im Kanton Uri[^45j-2] möglich.
 
-<sup>4</sup> Nach der vollständigen Bezahlung der Mehrwertabgabe ist das gesetzliche Grundpfandrecht zu löschen.
+4 Nach der vollständigen Bezahlung der Mehrwertabgabe ist das gesetzliche Grundpfandrecht zu löschen.
 
-[^Artikel45j-1]: Amt für Finanzen; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^45j-1]: Amt für Finanzen; siehe Organisationsreglement (RB 2.3322).
+[^45j-2]: RB 3.2211
 
 #### Artikel 45k
 
-**Verwendungszweck: im Allgemeinen**
+**Verwendungszweck**
+
+- a) im Allgemeinen
 
 <sup>1</sup> Der Kanton weist die Einnahmen aus der Mehrwertabgabe einem Mehrwertabgabefonds zu.
 
 <sup>2</sup> Der Mehrwertabgabefonds ist zweckgebunden für die Finanzierung von Entschädigungen bei materiellen Enteignungen.
 
-<sup>3</sup> Zeichnet sich ab, dass die Einnahmen die Ausgaben langfristig übersteigen, kann der Überschuss auch für weitere Massnahmen der Raumplanung nach Artikel 3 des Raumplanungsgesetzes (SR [700](https://db.clex.ch/link/Bund/700/de)) verwendet werden.
+<sup>3</sup> Zeichnet sich ab, dass die Einnahmen die Ausgaben langfristig übersteigen, kann der Überschuss auch für weitere Massnahmen der Raumplanung nach Artikel 3 des Raumplanungsgesetzes[^45k-1] verwendet werden.
+
+[^45k-1]: SR 700
 
 #### Artikel 45l
 
-**Verwendungszweck: Entschädigung bei materieller Enteignung**
+**b) Entschädigung bei materieller Enteignung**
 
 <sup>1</sup> Führen Planungsmassnahmen, die der Kanton verfügt oder genehmigt hat, zu Eigentumsbeschränkungen, die einer Enteignung gleichkommen, leistet der Kanton dafür die Entschädigung.
 
-<sup>2</sup> Können sich die Beteiligten über das Vorliegen einer materiellen Enteignung oder über die Höhe der Entschädigung nicht einigen, kann bei der kantonalen Schätzungskommission die Durchführung des Schätzungsverfahrens verlangt werden. Die Vorschriften des Expropriationsgesetzes (RB [3.3211](https://rechtsbuch.ur.ch/data/3.3211/de)) sind sinngemäss anzuwenden.
+<sup>2</sup> Können sich die Beteiligten über das Vorliegen einer materiellen Enteignung oder über die Höhe der Entschädigung nicht einigen, kann bei der kantonalen Schätzungskommission die Durchführung des Schätzungsverfahrens verlangt werden. Die Vorschriften des Expropriationsgesetzes[^45l-1] sind sinngemäss anzuwenden.
+
+[^45l-1]: RB 3.3211
 
 #### Artikel 45m
 
-**Verwendungszweck: Finanzierung weiterer Massnahmen**
+**c) Finanzierung weiterer Massnahmen**
 
-<sup>1</sup> Über die Finanzierung weiterer Massnahmen der Raumplanung entscheidet der Regierungsrat. Er hat die Gemeinden in geeigneter Weise in den Entscheid miteinzubeziehen.
+Über die Finanzierung weiterer Massnahmen der Raumplanung entscheidet der Regierungsrat. Er hat die Gemeinden in geeigneter Weise in den Entscheid miteinzubeziehen.
 
-### 2.3.3 Sondernutzungspläne
+### 3. Abschnitt: Sondernutzungspläne
 
-### 2.3.3.1 Übersicht
+### 1. Unterabschnitt: Übersicht
 
 #### Artikel 46
 
@@ -670,13 +750,15 @@ beschliesst:
 
 **Arten**
 
-<sup>1</sup> Als Sondernutzungspläne gelten:
+Als Sondernutzungspläne gelten:
 
-- a) Baulinien
-- b) Quartierpläne
-- c) Quartiergestaltungspläne
+- a) Baulinien;
 
-### 2.3.3.2 Baulinie
+- b) Quartierpläne;
+
+- c) Quartiergestaltungspläne.
+
+### 2. Unterabschnitt: Baulinie
 
 #### Artikel 48
 
@@ -688,9 +770,12 @@ beschliesst:
 
 <sup>3</sup> Die Baulinien können verbunden werden:
 
-- a) mit Innenbaulinien, um die Bautiefe festzulegen
-- b) mit Niveaulinien, um das Verhältnis zur Höhenlage der bestehenden oder geplanten Baute oder Anlage festzulegen
-- c) mit der Vorschrift, den Bau auf die Linie zu stellen (Baufluchtlinie)
+- a) mit Innenbaulinien, um die Bautiefe festzulegen;
+
+- b) mit Niveaulinien, um das Verhältnis zur Höhenlage der bestehenden oder geplanten Baute oder Anlage festzulegen;
+
+- c) mit der Vorschrift, den Bau auf die Linie zu stellen (Baufluchtlinie);
+
 - d) mit Spezialvorschriften über Ausladungen, Tiefbauten usw.
 
 #### Artikel 49
@@ -705,15 +790,15 @@ beschliesst:
 
 <sup>4</sup> Kann die Einsprache nicht gütlich erledigt werden, entscheidet der Gemeinderat darüber. Falls die Verständigung oder der Einspracheentscheid wesentliche Änderungen zur Folge hat, ist die öffentliche Auflage zu wiederholen.
 
-<sup>5</sup> Im Übrigen richtet sich das Verfahren nach der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)).
+<sup>5</sup> Im Übrigen richtet sich das Verfahren nach der Verordnung über die Verwaltungsrechtspflege[^49-1].
+
+[^49-1]: RB 2.2345
 
 #### Artikel 50
 
-**Wirkung und Zulässigkeit**
+Wirkung und Zulässigkeit 1 Baulinien gehen allen anderen Grenz- und Abstandsvorschriften vor. Unterschreiten sie diese, müssen die Voraussetzungen für eine Ausnahmebewilligung erfüllt sein.
 
-<sup>1</sup> Baulinien gehen allen anderen Grenz- und Abstandsvorschriften vor. Unterschreiten sie diese, müssen die Voraussetzungen für eine Ausnahmebewilligung erfüllt sein.
-
-<sup>2</sup> Bauten und Anlagen, die vor der Baulinie stehen oder von ihr angeschnitten werden, dürfen nur unterhalten werden. Wird an ihrer Stelle ein Neubau errichtet, so ist dieser auf die Baulinie zurückzunehmen.
+2 Bauten und Anlagen, die vor der Baulinie stehen oder von ihr angeschnitten werden, dürfen nur unterhalten werden. Wird an ihrer Stelle ein Neubau errichtet, so ist dieser auf die Baulinie zurückzunehmen.
 
 #### Artikel 51
 
@@ -723,7 +808,7 @@ beschliesst:
 
 <sup>2</sup> Dahingefallene Baulinien können im ordentlichen Verfahren erneuert werden.
 
-### 2.3.3.3 Quartierpläne, Quartiergestaltungspläne
+### 3. Unterabschnitt: Quartierpläne, Quartiergestaltungspläne
 
 #### Artikel 52
 
@@ -733,9 +818,11 @@ beschliesst:
 
 <sup>2</sup> Der Quartiergestaltungsplan bezweckt eine besonders gute Gesamtüberbauung, namentlich in architektonischer und städtebaulicher Hinsicht. Zusätzlich zu den Elementen des Quartierplans regelt er:
 
-- a) die Lage, Stellung, Grösse und Gestaltung der Bauten und Anlagen sowie die Art und das Mass ihrer Nutzung
-- b) die Grenz- und Gebäudeabstände
-- c) die Grünflächen und Spielplätze
+- a) die Lage, Stellung, Grösse und Gestaltung der Bauten und Anlagen sowie die Art und das Mass ihrer Nutzung;
+
+- b) die Grenz- und Gebäudeabstände;
+
+- c) die Grünflächen und Spielplätze.
 
 <sup>3</sup> Sofern das sinnvoll und wirtschaftlich zumutbar ist, kann der Gemeinderat den Quartierplan oder den Quartiergestaltungsplan mit der Auflage verbinden, dass gemeinsame Anlagen erstellt werden, namentlich Parkierungsanlagen, Zivilschutzräume, Empfangsanlagen für Radio und Fernsehen, Heizanlagen oder ein gemeinsamer Anschluss an eine Fernheizanlage.
 
@@ -745,7 +832,7 @@ beschliesst:
 
 **Sonderbauvorschriften**
 
-<sup>1</sup> Die Sonderbauvorschriften müssen dem Ziel des Quartierplans oder des Quartiergestaltungsplans entsprechen und dürfen dem Zweck der jeweiligen Zone nicht widersprechen. Unter diesen Voraussetzungen können sie von den ordentlichen Bauvorschriften abweichen.
+Die Sonderbauvorschriften müssen dem Ziel des Quartierplans oder des Quartiergestaltungsplans entsprechen und dürfen dem Zweck der jeweiligen Zone nicht widersprechen. Unter diesen Voraussetzungen können sie von den ordentlichen Bauvorschriften abweichen.
 
 #### Artikel 54
 
@@ -771,19 +858,21 @@ beschliesst:
 
 <sup>5</sup> Um Quartierpläne oder Quartiergestaltungspläne aufzuheben oder zu ändern, ist das gleiche Verfahren durchzuführen wie für deren Erlass. Bei geringfügigen Änderungen, die keine wesentlichen öffentlichen oder privaten Interessen berühren, kann der Gemeinderat auf die öffentliche Bekanntmachung und Auflage verzichten, sofern alle direkt betroffenen Grundeigentümerinnen und Grundeigentümer der Änderung zugestimmt haben.
 
-<sup>6</sup> Im Übrigen richtet sich das Verfahren nach der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)).
+<sup>6</sup> Im Übrigen richtet sich das Verfahren nach der Verordnung über die Verwaltungsrechtspflege[^55-1].
 
 <sup>7</sup> Das Mitwirkungsrecht der Bevölkerung ist zu gewährleisten.
 
-### 2.4 Vorsorgliche planerische Massnahmen
+[^55-1]: RB 2.2345
 
-### 2.4.1 Planungszone
+### 4. Kapitel: VORSORGLICHE PLANERISCHE MASSNAHMEN
+
+### 1. Abschnitt: Planungszone
 
 #### Artikel 56
 
 **Zweck**
 
-<sup>1</sup> Planungszonen bezwecken, den Erlass oder die Änderung von Nutzungsplänen für ein genau bezeichnetes Gebiet zu sichern.
+Planungszonen bezwecken, den Erlass oder die Änderung von Nutzungsplänen für ein genau bezeichnetes Gebiet zu sichern.
 
 #### Artikel 57
 
@@ -791,8 +880,9 @@ beschliesst:
 
 <sup>1</sup> Zuständig, Planungszonen zu verfügen, sind:
 
-- a) der Gemeinderat für gemeindliche Nutzungspläne
-- b) der Regierungsrat für kantonale Nutzungspläne
+- a) der Gemeinderat für gemeindliche Nutzungspläne;
+
+- b) der Regierungsrat für kantonale Nutzungspläne.
 
 <sup>2</sup> Der Regierungsrat kann anstelle und auf Kosten der Gemeinde eine Planungszone verfügen, wenn die Gemeinde trotz Aufforderung ihre Nutzungsordnung nicht innert angemessener Frist den Anforderungen des übergeordneten Rechts anpasst. Erlässt die Gemeinde später eine den gesetzlichen Anforderungen genügende Grundordnung, fällt die Planungszone mit der Genehmigung der geänderten Grundordnung dahin.
 
@@ -802,7 +892,7 @@ beschliesst:
 
 **Verfahren**
 
-<sup>1</sup> Der Gemeinderat erlässt Planungszonen nach dem Verfahren, das für gemeindliche Nutzungspläne gilt, der Regierungsrat nach jenem, das für kantonale Nutzungspläne gilt.
+Der Gemeinderat erlässt Planungszonen nach dem Verfahren, das für gemeindliche Nutzungspläne gilt, der Regierungsrat nach jenem, das für kantonale Nutzungspläne gilt.
 
 #### Artikel 59
 
@@ -814,19 +904,19 @@ beschliesst:
 
 <sup>3</sup> Sie erlöschen zwei Jahre nach ihrer Rechtskraft. Der Regierungsrat kann die Frist um höchstens zwei Jahre verlängern, wenn die Verlängerung sachlich begründet ist. Die betroffenen Gemeinden und Grundeigentümer und Grundeigentümerinnen sind vorher anzuhören. Das Ende der Planungszone ist im kantonalen Amtsblatt zu veröffentlichen.
 
-### 2.4.2 Bausperre
+### 2. Abschnitt: Bausperre
 
 #### Artikel 60
 
 **Zweck**
 
-<sup>1</sup> Die Bausperre bezweckt, künftige planerische Massnahmen sicherzustellen sowie genügende Bauvorschriften zu schaffen.
+Die Bausperre bezweckt, künftige planerische Massnahmen sicherzustellen sowie genügende Bauvorschriften zu schaffen.
 
 #### Artikel 61
 
 **Zuständigkeit**
 
-<sup>1</sup> Der Gemeinderat ist zuständig, eine Bausperre zu verfügen.
+Der Gemeinderat ist zuständig, eine Bausperre zu verfügen.
 
 #### Artikel 62
 
@@ -850,29 +940,29 @@ beschliesst:
 
 <sup>4</sup> Das Ende der Bausperre ist im kantonalen Amtsblatt zu veröffentlichen.
 
-### 2.5 Erschliessung
+### 5. Kapitel: ERSCHLIESSUNG
 
-### 2.5.1 Basiserschliessung
+### 1. Abschnitt: Basiserschliessung
 
 #### Artikel 64
 
 **Begriff**
 
-<sup>1</sup> Zur Basiserschliessung gehören jene Verkehrswege, die der Bund oder der Kanton nach der besonderen Gesetzgebung bauen, betreiben und unterhalten muss.
+Zur Basiserschliessung gehören jene Verkehrswege, die der Bund oder der Kanton nach der besonderen Gesetzgebung bauen, betreiben und unterhalten muss.
 
 #### Artikel 65
 
 **Zuständigkeit**
 
-<sup>1</sup> Der Bund und der Kanton sorgen für die Basiserschliessung entsprechend der besonderen Gesetzgebung.
+Der Bund und der Kanton sorgen für die Basiserschliessung entsprechend der besonderen Gesetzgebung.
 
-### 2.5.2 Groberschliessung
+### 2. Abschnitt: Groberschliessung
 
 #### Artikel 66
 
 **Begriff**
 
-<sup>1</sup> Die Groberschliessung versorgt die Bauzonen mit den hauptsächlichsten Strassen-, Wasser-, Abwasser- und Energieanlagen.
+Die Groberschliessung versorgt die Bauzonen mit den hauptsächlichsten Strassen-, Wasser-, Abwasser- und Energieanlagen.
 
 #### Artikel 67
 
@@ -890,10 +980,13 @@ beschliesst:
 
 <sup>2</sup> Das Erschliessungsprogramm:
 
-- a) ist mit der Finanzplanung der Gemeinde koordiniert
-- b) berücksichtigt die bauliche Entwicklung der Gemeinde und die Nachfrage nach Bauland
-- c) ist auf die Nutzungsplanung von Kanton und Gemeinde abgestimmt
-- d) berücksichtigt andere Erschliessungskonzepte, wie den Generellen Entwässerungsplan (GEP) und die Planung der Wasserversorgungsanlagen
+- a) ist mit der Finanzplanung der Gemeinde koordiniert;
+
+- b) berücksichtigt die bauliche Entwicklung der Gemeinde und die Nachfrage nach Bauland;
+
+- c) ist auf die Nutzungsplanung von Kanton und Gemeinde abgestimmt;
+
+- d) berücksichtigt andere Erschliessungskonzepte, wie den Generellen Entwässerungsplan (GEP) und die Planung der Wasserversorgungsanlagen.
 
 <sup>3</sup> Das Erschliessungsprogramm ist behördenverbindlich. Es ist zu veröffentlichen.
 
@@ -909,21 +1002,23 @@ beschliesst:
 
 <sup>3</sup> In beiden Fällen wird vorausgesetzt, dass:
 
-- a) ein entsprechendes, vom Gemeinderat genehmigtes Projekt vorliegt
-- b) ein vom Gemeinderat genehmigter, öffentlich-rechtlicher Vertrag besteht, der die Modalitäten bestimmt, wie die Finanzierung, die Anschlussmöglichkeiten der Nachbarn und dergleichen
-- c) keine wesentlichen Interessen entgegenstehen
+- a) ein entsprechendes, vom Gemeinderat genehmigtes Projekt vorliegt;
+
+- b) ein vom Gemeinderat genehmigter, öffentlich-rechtlicher Vertrag besteht, der die Modalitäten bestimmt, wie die Finanzierung, die Anschlussmöglichkeiten der Nachbarn und dergleichen;
+
+- c) keine wesentlichen Interessen entgegenstehen.
 
 <sup>4</sup> Planung und Bau der Erschliessungsanlagen stehen unter der Aufsicht der Gemeinde. Diese leitet das Verfahren und übt, wenn nötig, das Enteignungsrecht aus.
 
 <sup>5</sup> Die Anlagen gehen von Gesetzes wegen ins Eigentum der Gemeinde über, sobald sie ordnungsgemäss gebaut sind. Der Gemeinderat stellt den Eigentumsübergang in einer Verfügung fest, eröffnet diese den bisherigen Eigentümern und meldet, sobald die Verfügung rechtskräftig ist, die neuen Eigentumsverhältnisse zur Eintragung in das Grundbuch an.
 
-### 2.5.3 Feinerschliessung
+### 3. Abschnitt: Feinerschliessung
 
 #### Artikel 70
 
 **Begriff**
 
-<sup>1</sup> Die Feinerschliessung verbindet die einzelnen Baugrundstücke mit den Anlagen der Groberschliessung.
+Die Feinerschliessung verbindet die einzelnen Baugrundstücke mit den Anlagen der Groberschliessung.
 
 #### Artikel 71
 
@@ -937,29 +1032,31 @@ beschliesst:
 
 <sup>4</sup> Lehnt die Gemeindeversammlung die Ausführung der Anlagen ab oder verzichtet der Gemeinderat darauf, der Gemeindeversammlung den Bau zu beantragen, so können die bauwilligen Grundeigentümerinnen und Grundeigentümer diese nach den vom Gemeinderat genehmigten Plänen selbst erstellen.
 
-### 2.5.4 Finanzierung
+### 4. Abschnitt: Finanzierung
 
 #### Artikel 72
 
 **Grundsatz**
 
-<sup>1</sup> Wer zuständig ist, Erschliessungsanlagen zu erstellen, trägt die Bau- und die Unterhaltskosten dafür.
+Wer zuständig ist, Erschliessungsanlagen zu erstellen, trägt die Bau- und die Unterhaltskosten dafür.
 
 #### Artikel 73
 
-**Groberschliessung: durch die Gemeinde**
+**Groberschliessung**
 
-<sup>1</sup> Die Beiträge der Grundeigentümerinnen und Grundeigentümer an die Groberschliessung der Gemeinde richten sich nach der Perimeterverordnung (RB [50.1421](https://rechtsbuch.ur.ch/data/50.1421/de)), soweit die Gemeinde oder deren Zusammenschlüsse nicht besondere Beitragsregelungen getroffen haben.
+- a) durch die Gemeinde Die Beiträge der Grundeigentümerinnen und Grundeigentümer an die Groberschliessung der Gemeinde richten sich nach der Perimeterverordnung[^73-1], soweit die Gemeinde oder deren Zusammenschlüsse nicht besondere Beitragsregelungen getroffen haben.
 
-#### Artikel 74
+[^73-1]: RB 50.1421
 
-**Groberschliessung: durch Private**
+#### Artikel 74 b
+
+**) durch Private**
 
 <sup>1</sup> Die bauenden Grundeigentümerinnen und Grundeigentümer haben die gesamten Kosten bis zur Fälligkeit der Kostenanteile der Gemeinde und der übrigen Grundeigentümer zinslos vorzuschiessen.
 
 <sup>2</sup> Der Gemeindeanteil wird fällig, sobald die Anlage nach dem Erschliessungsprogramm der Gemeinde gebaut werden soll, spätestens aber 15 Jahre nach Vollendung der Anlage.
 
-<sup>3</sup> Die Beiträge der betroffenen Grundeigentümerinnen und Grundeigentümer werden mit der Nutzung ihrer Grundstücke als Bauland zur Zahlung fällig, spätestens aber mit der Fälligkeit des Gemeindeanteils.
+3 Die Beiträge der betroffenen Grundeigentümerinnen und Grundeigentümer werden mit der Nutzung ihrer Grundstücke als Bauland zur Zahlung fällig, spätestens aber mit der Fälligkeit des Gemeindeanteils.
 
 #### Artikel 75
 
@@ -967,13 +1064,17 @@ beschliesst:
 
 <sup>1</sup> Wird die Anlage von der Gemeinde oder von einzelnen Grundeigentümerinnen oder Grundeigentümern gebaut oder können sich diese über die Kostentragung nicht einigen, gelten folgende Vorschriften:
 
-- a) Die Bau- und Unterhaltskosten sind nach einem von der Gemeinde aufzustellenden Beitragsplan auf die Grundeigentümerinnen und Grundeigentümer entsprechend ihrem Vorteil zu verteilen. Der Beitragsplan ist im Grundbuch anzumerken
-- b) die Grundeigentümer, die die Feinerschliessung selbst erstellen oder in deren unmittelbarem Interesse die Feinerschliessung in Angriff genommen oder weitergeführt wird, haben die Baukosten und die Kosten des baulichen Unterhaltes zinslos vorzuschiessen. Die Beiträge der betroffenen Grundeigentümerinnen und Grundeigentümer werden mit der Nutzung ihrer Grundstücke als Bauland zur Zahlung fällig, spätestens aber 15 Jahre nach Vollendung der Anlage
-- c) die Gemeinde genehmigt die Kostenabrechnung und erlässt im Streitfall die notwendigen Verfügungen
+- a) Die Bau- und Unterhaltskosten sind nach einem von der Gemeinde aufzustellenden Beitragsplan auf die Grundeigentümerinnen und Grundeigentümer entsprechend ihrem Vorteil zu verteilen. Der Beitragsplan ist im Grundbuch anzumerken;
 
-<sup>2</sup> Die Perimeterverordnung (RB [50.1421](https://rechtsbuch.ur.ch/data/50.1421/de)) ist sinngemäss anzuwenden.
+- b) die Grundeigentümer, die die Feinerschliessung selbst erstellen oder in deren unmittelbarem Interesse die Feinerschliessung in Angriff genommen oder weitergeführt wird, haben die Baukosten und die Kosten des baulichen Unterhaltes zinslos vorzuschiessen. Die Beiträge der betroffenen Grundeigentümerinnen und Grundeigentümer werden mit der Nutzung ihrer Grundstücke als Bauland zur Zahlung fällig, spätestens aber 15 Jahre nach Vollendung der Anlage;
 
-### 2.6 Finanzierung der Planung
+- c) die Gemeinde genehmigt die Kostenabrechnung und erlässt im Streitfall die notwendigen Verfügungen.
+
+<sup>2</sup> Die Perimeterverordnung[^75-1] ist sinngemäss anzuwenden.
+
+[^75-1]: RB 50.1421
+
+### 6. Kapitel: FINANZIERUNG DER PLANUNG
 
 #### Artikel 76
 
@@ -993,24 +1094,23 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat bestimmt in einem Reglement, was zu den massgeblichen Planungskosten zu zählen ist.
 
-<sup>3</sup> Die Gemeinde hat den Vorgehensplan und das Beitragsgesuch vorgängig der zuständigen Direktion[^Artikel77-1] zu unterbreiten.
+<sup>3</sup> Die Gemeinde hat den Vorgehensplan und das Beitragsgesuch vorgängig der zuständigen Direktion[^77-1] zu unterbreiten.
 
-[^Artikel77-1]: Justizdirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^77-1]: Justizdirektion; siehe Organisationsreglement (RB 2.3322).
 
-## 3 Öffentliches Baurecht
+### 3ÖFFENTLICHES BAURECHT
 
-### 3.1 Materielles Baurecht
+### 1. Kapitel: MATERIELLES BAURECHT
 
-### 3.1.1 Kantonale Bauvorschriften
+### 1. Abschnitt: Kantonale Bauvorschriften
 
 #### Artikel 78
 
 **Baureife**
 
-<sup>1</sup> Bauten und Anlagen dürfen nur auf baureifen Grundstücken erstellt werden. Ein Grundstück ist baureif, wenn:
+<sup>1</sup> Bauten und Anlagen dürfen nur auf baureifen Grundstücken erstellt werden. Ein Grundstück ist baureif, wenn a) der Nutzungsplan eine entsprechende Bebauung erlaubt;
 
-- a) der Nutzungsplan eine entsprechende Bebauung erlaubt
-- b) es hinreichend erschlossen ist oder wenn sichergestellt ist, dass es rechtzeitig hinreichend erschlossen wird
+- b) es hinreichend erschlossen ist oder wenn sichergestellt ist, dass es rechtzeitig hinreichend erschlossen wird.
 
 <sup>2</sup> Ein Grundstück ist erschlossen, wenn entsprechend seiner Nutzung eine hinreichende Zufahrt und die nötigen Anlagen für Wasser- und Energieversorgung sowie für die Abwasserbeseitigung vorhanden sind.
 
@@ -1024,7 +1124,7 @@ beschliesst:
 
 <sup>1</sup> Bauten und Anlagen sind so zu erstellen und zu unterhalten, dass sie den anerkannten Regeln der Baukunde entsprechen.
 
-<sup>2</sup> Absatz 1 gilt auch für Aufzüge, Rolltreppen und andere Beförderungsanlagen für Personen und Waren, soweit nicht besondere Bestimmungen des Bundesrechts einen ausreichenden Schutz gewähren.
+2 Absatz 1 gilt auch für Aufzüge, Rolltreppen und andere Beförderungsanlagen für Personen und Waren, soweit nicht besondere Bestimmungen des Bundesrechts einen ausreichenden Schutz gewähren.
 
 <sup>3</sup> Zum Wohnen und Arbeiten bestimmte Bauten und Anlagen müssen dauernd den gesundheitlichen Anforderungen genügen.
 
@@ -1040,7 +1140,7 @@ beschliesst:
 
 <sup>2</sup> In Wohnüberbauungen und Geschäftshäusern sind die Bedürfnisse von Personen mit Behinderung angemessen zu berücksichtigen.
 
-<sup>3</sup> Mehrfamilienhäuser mit vier und mehr Wohneinheiten und Gebäude mit Arbeitsplätzen ab einer gesamten Nutzungsfläche von mindestens 500 m² sind so zu gestalten, dass sie den speziellen Bedürfnissen von Personen mit Behinderung angepasst werden können.
+<sup>3</sup> Mehrfamilienhäuser mit vier und mehr Wohneinheiten und Gebäude mit Arbeitsplätzen ab einer gesamten Nutzungsfläche von mindestens 500 m <sup>2</sup> sind so zu gestalten, dass sie den speziellen Bedürfnissen von Personen mit Behinderung angepasst werden können.
 
 <sup>4</sup> Bei Umbauten und Nutzungsänderungen kann auf eine hindernisfreie Bauweise verzichtet werden, wenn der Aufwand und die Mehrkosten unverhältnismässig wären oder wenn denkmalpflegerische Gründe dagegen sprechen.
 
@@ -1058,7 +1158,7 @@ beschliesst:
 
 **Anforderungen an den Energieverbrauch**
 
-<sup>1</sup> Neue Bauten und Anlagen sowie wesentliche Änderungen, Erweiterungen oder Zweckänderungen bestehender Bauten und Anlagen dürfen in der Regel nur bewilligt werden, wenn sie den Anforderungen des Energiegesetzes des Kantons Uri entsprechen.
+Neue Bauten und Anlagen sowie wesentliche Änderungen, Erweiterungen oder Zweckänderungen bestehender Bauten und Anlagen dürfen in der Regel nur bewilligt werden, wenn sie den Anforderungen des Energiegesetzes des Kantons Uri entsprechen.
 
 #### Artikel 83
 
@@ -1084,15 +1184,17 @@ beschliesst:
 
 <sup>1</sup> Bei neuen Bauten und Anlagen sowie bei wesentlichen Umbauten, Erweiterungen oder Zweckänderungen von bestehenden Bauten und Anlagen sind in angemessener Nähe auf privatem Grund die für Fahrzeuge erforderlichen Abstellplätze zu erstellen und dauernd zu erhalten.
 
-<sup>2</sup> Bei bestehenden Bauten und Anlagen können Abstellplätze für Fahrzeuge auf privatem Grund verlangt werden, wenn die Fahrzeuge den Verkehr wesentlich behindern und wenn der Missstand nicht durch verkehrspolizeiliche Massnahmen behoben werden kann, die örtlichen Verhältnisse es zulassen und die Kosten zumutbar sind.
+<sup>2</sup> Bei bestehenden Bauten und Anlagen können Abstellplätze für Fahrzeuge auf privatem Grund verlangt werden, wenn die Fahrzeuge den Verkehr wesentlich behindern und wenn der Missstand nicht durch verkehrspolizeiliche Massnahmen behoben werden kann, die örtlichen Verhältnisse es
 
-<sup>3</sup> Ist die Erstellung der erforderlichen Abstellplätze auf privatem Grund nicht möglich, nicht zulässig oder nicht zumutbar, kann die Bauherrschaft zu Beiträgen an den Bau und Betrieb solcher Anlagen auf öffentlichem Grund verpflichtet werden.
+zulassen und die Kosten zumutbar sind.
+
+3 Ist die Erstellung der erforderlichen Abstellplätze auf privatem Grund nicht möglich, nicht zulässig oder nicht zumutbar, kann die Bauherrschaft zu Beiträgen an den Bau und Betrieb solcher Anlagen auf öffentlichem Grund verpflichtet werden.
 
 #### Artikel 86
 
 **Zerstörte Bauten und Anlagen, Baugruben**
 
-<sup>1</sup> Ganz oder teilweise zerstörte Bauten und Anlagen sowie Baugruben sind zu beseitigen, wenn nicht innert angemessener Frist wieder auf- oder neu gebaut bzw. die begonnene Bauarbeit fortgesetzt wird.
+Ganz oder teilweise zerstörte Bauten und Anlagen sowie Baugruben sind zu beseitigen, wenn nicht innert angemessener Frist wieder auf- oder neu gebaut bzw. die begonnene Bauarbeit fortgesetzt wird.
 
 #### Artikel 87
 
@@ -1116,7 +1218,7 @@ beschliesst:
 
 **Erst- und Zweitwohnungsanteil**
 
-<sup>1</sup> Um ein genügendes Angebot an Wohnungen für die ortsansässige Bevölkerung zu sichern und ein angemessenes Verhältnis zwischen dauernd bewohnten Wohnungen und Zweitwohnungen zu erreichen, können die Gemeinden Erst- und Zweitwohnungsanteile festlegen oder gleichwertige Regelungen treffen.
+Um ein genügendes Angebot an Wohnungen für die ortsansässige Bevölkerung zu sichern und ein angemessenes Verhältnis zwischen dauernd bewohnten Wohnungen und Zweitwohnungen zu erreichen, können die Gemeinden Erst- und Zweitwohnungsanteile festlegen oder gleichwertige Regelungen treffen.
 
 #### Artikel 90
 
@@ -1126,7 +1228,7 @@ beschliesst:
 
 <sup>2</sup> Wesentlicher Schaden, der durch den Eingriff entstanden ist, ist zu ersetzen.
 
-### 3.1.2 Abstandsvorschriften
+### 2. Abschnitt: Abstandsvorschriften
 
 #### Artikel 91
 
@@ -1136,9 +1238,9 @@ beschliesst:
 
 <sup>2</sup> Wo der Nutzungsplan oder Baulinien nicht einen grösseren Abstand verlangen, ist für Bauten und Anlagen gegenüber offenen Fliessgewässern ein Abstand von mindestens sechs Metern einzuhalten. Der Gewässerabstand bemisst sich bei Gewässereinschnitten ab der Böschungsoberkante und bei Dammbauten ab dem landseitigen Dammfuss.
 
-<sup>3</sup> Die zuständige Direktion[^Artikel91-1] kann Ausnahmebewilligungen erteilen, wenn die Voraussetzungen dazu erfüllt sind.
+<sup>3</sup> Die zuständige Direktion[^91-1] kann Ausnahmebewilligungen erteilen, wenn die Voraussetzungen dazu erfüllt sind.
 
-[^Artikel91-1]: Baudirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^91-1]: Baudirektion; siehe Organisationsreglement (RB 2.3322).
 
 #### Artikel 92
 
@@ -1146,29 +1248,29 @@ beschliesst:
 
 <sup>1</sup> Wo der Nutzungsplan oder Baulinien nicht einen grösseren Abstand verlangen, ist für Bauten und Anlagen gegenüber öffentlichen Verkehrsflächen ein Abstand von mindestens vier Metern einzuhalten. Der Abstand bemisst sich ab dem äussersten Anlageteil der Verkehrsfläche.
 
-<sup>2</sup> Die zuständige Direktion[^Artikel92-1] kann Ausnahmen entlang öffentlicher Verkehrsflächen des Kantons, der Gemeinderat solche entlang öffentlicher Verkehrsflächen der Gemeinde bewilligen, wenn die Voraussetzungen dazu erfüllt sind.
+<sup>2</sup> Die zuständige Direktion[^92-1] kann Ausnahmen entlang öffentlicher Verkehrsflächen des Kantons, der Gemeinderat solche entlang öffentlicher Verkehrsflächen der Gemeinde bewilligen, wenn die Voraussetzungen dazu erfüllt sind.
 
-[^Artikel92-1]: Baudirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^92-1]: Baudirektion; siehe Organisationsreglement (RB 2.3322).
 
 #### Artikel 93
 
 **Bauten und Anlagen am Wald**
 
-<sup>1</sup> Wo der Nutzungsplan oder Baulinien nicht einen grösseren Abstand verlangen, ist für Bauten und Anlagen gegenüber der Waldgrenze ein Abstand von 20 m einzuhalten. Der Abstand bemisst sich ab dem äussersten Teil des Waldrands oder Waldgrundstücks.
+<sup>1</sup> Wo der Nutzungsplan oder Baulinien nicht einen grösseren Abstand verlangen, ist für Bauten und Anlagen gegenüber der Waldgrenze ein Abstand von 20 Metern einzuhalten. Der Abstand bemisst sich ab dem äussersten Teil des Waldrands oder Waldgrundstücks.
 
-<sup>2</sup> Die zuständige Direktion[^Artikel93-1] kann Ausnahmen bewilligen, wenn die Voraussetzungen dazu erfüllt sind.
+<sup>2</sup> Die zuständige Direktion[^93-1] kann Ausnahmen bewilligen, wenn die Voraussetzungen dazu erfüllt sind.
 
-[^Artikel93-1]: Sicherheitsdirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^93-1]: Sicherheitsdirektion; siehe Organisationsreglement (RB 2.3322).
 
 #### Artikel 94
 
 **Bauten und Anlagen am See**
 
-<sup>1</sup> Wo der Nutzungsplan oder Baulinien nicht einen grösseren Abstand verlangen, ist für Bauten und Anlagen gegenüber dem mittleren Wasserstand des Seeufers ein Abstand von 20 m einzuhalten.
+<sup>1</sup> Wo der Nutzungsplan oder Baulinien nicht einen grösseren Abstand verlangen, ist für Bauten und Anlagen gegenüber dem mittleren Wasserstand des Seeufers ein Abstand von 20 Metern einzuhalten.
 
-<sup>2</sup> Die zuständige Direktion[^Artikel94-1] kann Ausnahmebewilligungen erteilen, wenn die Voraussetzungen dazu erfüllt sind.
+<sup>2</sup> Die zuständige Direktion[^94-1] kann Ausnahmebewilligungen erteilen, wenn die Voraussetzungen dazu erfüllt sind.
 
-[^Artikel94-1]: Justizdirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^94-1]: Justizdirektion; siehe Organisationsreglement (RB 2.3322).
 
 #### Artikel 95
 
@@ -1182,64 +1284,61 @@ beschliesst:
 
 <sup>4</sup> Der Regierungsrat erlässt die näheren Bestimmungen in einem Reglement.
 
-### 3.1.3 Ausnahmen
+### 3. Abschnitt: Ausnahmen
 
 #### Artikel 96
 
 **Ausnahmen innerhalb der Bauzone**
 
-<sup>1</sup> Ausnahmen von einzelnen Bauvorschriften und Plänen des Kantons oder der Gemeinden können bewilligt werden, wenn:
+Ausnahmen von einzelnen Bauvorschriften und Plänen des Kantons oder der Gemeinden können bewilligt werden, wenn a) wichtige Gründe das rechtfertigen; und b) keine überwiegenden öffentlichen oder privaten Interessen entgegenstehen.
 
-- a) wichtige Gründe das rechtfertigen und
-- b) keine überwiegenden öffentlichen oder privaten Interessen entgegenstehen
+[^96-1]: RPG (SR 700), Artikel 24
 
 #### Artikel 97
 
-**Ausnahmen ausserhalb der Bauzone**
-
-<sup>1</sup> Die Zulässigkeit zonenwidriger Bauten und Anlagen ausserhalb der Bauzone richtet sich nach dem Bundesrecht (RPG [700](https://db.clex.ch/link/Bund/700/de), Art. 24).
+Ausnahmen ausserhalb der Bauzone Die Zulässigkeit zonenwidriger Bauten und Anlagen ausserhalb der Bauzone richtet sich nach dem Bundesrecht[^96-1].
 
 #### Artikel 98
 
-**Auflagen und Bedingungen**
+Auflagen und Bedingungen Mit der Ausnahmebewilligung können Bedingungen und Auflagen, insbesondere Mehrwert- und Abbruchrevers, verbunden werden.
 
-<sup>1</sup> Mit der Ausnahmebewilligung können Bedingungen und Auflagen, insbesondere Mehrwert- und Abbruchrevers, verbunden werden.
-
-### 3.1.4 Privatrechtliche Absprachen
+### 4. Abschnitt: Privatrechtliche Absprachen
 
 #### Artikel 99
 
-**Unabänderlichkeit**
+Unabänderlichkeit Die Bestimmungen dieses Gesetzes und der darauf gestützten Rechtserlasse und Verfügungen können durch privatrechtliche Absprachen nicht wegbedungen werden.
 
-<sup>1</sup> Die Bestimmungen dieses Gesetzes und der darauf gestützten Rechtserlasse und Verfügungen können durch privatrechtliche Absprachen nicht wegbedungen werden.
+### 2. Kapitel: FORMELLES BAURECHT
 
-### 3.2 Formelles Baurecht
-
-### 3.2.1 Baubewilligung
+### 1. Abschnitt: Baubewilligung
 
 #### Artikel 100
 
-**Bewilligungspflicht: Grundsatz**
+Bewilligungspflicht a) Grundsatz
 
 <sup>1</sup> Wer eine Baute oder Anlage erstellen, abbrechen oder baulich oder in ihrem Zweck ändern will, benötigt hiefür eine Bewilligung.
 
 <sup>2</sup> Bewilligungspflichtig sind auch Terrainveränderungen, die baulichen Massnahmen entsprechen.
 
-#### Artikel 101
+#### Artikel 101 b
 
-**Bewilligungspflicht: Ausnahmen**
+**) Ausnahmen**
 
 <sup>1</sup> Im Rahmen des Bundesrechts bedürfen keiner Baubewilligung im Sinne dieses Gesetzes:
 
-- a) Bauvorhaben, die nach der Gesetzgebung des Bundes nicht der kantonalen Bauhoheit unterliegen
-- b) Bauvorhaben, die durch andere Gesetze umfassend geregelt sind
-- c) reine Unterhalts- und Reparaturarbeiten
-- d) geringfügige Bauvorhaben, die weder öffentliche noch private Interessen merklich berühren
-- e) für kurze Dauer erstellte Bauten und Anlagen
+- a) Bauvorhaben, die nach der Gesetzgebung des Bundes nicht der kantonalen Bauhoheit unterliegen;
+
+- b) Bauvorhaben, die durch andere Gesetze umfassend geregelt sind;
+
+- c) reine Unterhalts- und Reparaturarbeiten;
+
+- d) geringfügige Bauvorhaben, die weder öffentliche noch private Interessen merklich berühren;
+
+- e) für kurze Dauer erstellte Bauten und Anlagen.
 
 <sup>2</sup> Bauvorhaben nach Buchstaben d und e sind der zuständigen Baubehörde zu melden. Diese entscheidet über die Bewilligungspflicht.
 
-### 3.2.2 Baubewilligungsverfahren
+### 2. Abschnitt: Baubewilligungsverfahren
 
 #### Artikel 102
 
@@ -1257,21 +1356,25 @@ beschliesst:
 
 <sup>1</sup> Die Baubewilligungsgesuche sind mit den dazugehörigen Angaben und Unterlagen während der Einsprachefrist öffentlich aufzulegen, sofern das Baugesuch den formellen Anforderungen entspricht.
 
-<sup>2</sup> Die Auflage ist unter Angabe der Bauherrschaft, des Ortes und Zweckes des Baues oder der Anlage im kantonalen Amtsblatt auszukünden unter Hinweis auf das Recht zur öffentlich-rechtlichen Einsprache bei der Baubehörde.
+<sup>2</sup> Die Auflage ist unter Angabe der Bauherrschaft, des Ortes und Zweckes des Baues oder der Anlage im kantonalen Amtsblatt auszukünden unter Hinweis auf das Recht zur öffentlich-rechtlichen Einsprache bei der Baubehörde.[^103-1]
 
 <sup>3</sup> Die Frist für öffentlich-rechtliche Einsprachen beträgt 20 Tage.
 
 <sup>4</sup> Vor Beginn der Einsprache- und der Auflagefrist sind Profile aufzustellen, die nicht beseitigt werden dürfen, bevor das Bewilligungsgesuch rechtskräftig erledigt ist. Die Baubehörde kann die vorzeitige Beseitigung der Profile gestatten, sofern der Stand des Verfahrens das erlaubt.
 
+[^103-1]: Fassung gemäss VA vom 21. Mai 2017, in Kraft gesetzt auf den 1. Juni 2017 (AB vom 9. September 2016).
+
 #### Artikel 104
 
 **Vereinfachtes Verfahren**
 
-<sup>1</sup> Für Bauvorhaben, die einer ordentlichen Baubewilligung bedürfen, aber für die betroffenen öffentlichen und privaten Interessen von geringer Bedeutung sind, kann die Baubehörde die Gesuchstellenden von der Profilierungspflicht entbinden.
+Für Bauvorhaben, die einer ordentlichen Baubewilligung bedürfen, aber für die betroffenen öffentlichen und privaten Interessen von geringer Bedeutung sind, kann die Baubehörde die Gesuchstellenden von der Profilierungspflicht entbinden.
 
 #### Artikel 105
 
-**Entscheid: Grundsatz, Behandlungsfrist**
+**Entscheid**
+
+- a) Grundsatz, Behandlungsfrist
 
 <sup>1</sup> Die Baubewilligung ist zu erteilen, wenn das Bauvorhaben den massgebenden Vorschriften entspricht. Massgeblich sind die Vorschriften, die im Zeitpunkt des Entscheids gelten.
 
@@ -1279,44 +1382,46 @@ beschliesst:
 
 <sup>3</sup> Kann die Baubehörde die Behandlungsfrist nach Absatz 2 nicht einhalten, hat sie das vor dem Ablauf der Frist der Gesuchstellerin oder dem Gesuchsteller gegenüber zu begründen und eine neue Erledigungsfrist anzugeben.
 
-#### Artikel 106
+#### Artikel 106 b
 
-**Entscheid: Bedingungen und Auflagen**
+**) Bedingungen und Auflagen**
 
 <sup>1</sup> Die Baubewilligung ist mit Bedingungen und Auflagen zu versehen, wenn das nötig ist, um die Übereinstimmung mit den massgebenden Vorschriften und Plänen sicherzustellen.
 
 <sup>2</sup> Die Bauherrschaft kann verpflichtet werden, Sicherheiten dafür zu leisten, dass die mit der Baubewilligung verbundenen Pflichten eingehalten werden.
 
-#### Artikel 107
+#### Artikel 107 c
 
-**Entscheid: Koordination**
+**) Koordination**
 
 <sup>1</sup> Erfordern Bauvorhaben neben der Baubewilligung zusätzliche Bewilligungen, Ausnahmebewilligungen, Genehmigungen oder Zustimmungen weiterer Behörden und besteht zwischen diesen und der Baubewilligung ein derart enger Sachzusammenhang, dass sie nicht getrennt und unabhängig voneinander erteilt werden können, müssen sie miteinander koordiniert werden.
 
-<sup>2</sup> Der Regierungsrat bestimmt das Koordinationsverfahren in einem Reglement (RB [2.3323](https://rechtsbuch.ur.ch/data/2.3323/de)). Er schafft eine Koordinationsstelle beim Kanton und bestimmt deren Aufgaben.
+<sup>2</sup> Der Regierungsrat bestimmt das Koordinationsverfahren in einem Reglement[^107c-1]. Er schafft eine Koordinationsstelle beim Kanton und bestimmt deren Aufgaben.
 
-#### Artikel 108
+[^107c-1]: RB 2.3323
 
-**Entscheid: Zustimmung des Kantons**
+#### Artikel 108 d
 
-<sup>1</sup> Bauten und Anlagen ausserhalb der Bauzonen erfordern neben der Baubewilligung die Zustimmung der zuständigen Direktion[^Artikel108-1].
+**) Zustimmung des Kantons**
 
-<sup>2</sup> Die Baubehörde überweist Gesuche für Bauvorhaben ausserhalb der Bauzonen, bei denen sie die Voraussetzungen für eine Baubewilligung als erfüllt betrachtet, der zuständigen Direktion[^Artikel108-2]. Andernfalls weist sie das Gesuch von sich aus ab.
+<sup>1</sup> Bauten und Anlagen ausserhalb der Bauzonen erfordern neben der Baubewilligung die Zustimmung der zuständigen Direktion[^108d-1].
+
+<sup>2</sup> Die Baubehörde überweist Gesuche für Bauvorhaben ausserhalb der Bauzonen, bei denen sie die Voraussetzungen für eine Baubewilligung als erfüllt betrachtet, der zuständigen Direktion[^108d-2]. Andernfalls weist sie das Gesuch von sich aus ab.
 
 <sup>3</sup> Die Baubehörde eröffnet der Gesuchstellerin oder dem Gesuchsteller den Entscheid des Kantons zusammen mit ihrem Bauentscheid.
 
-[^Artikel108-1]: Justizdirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
-[^Artikel108-2]: Justizdirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^108d-1]: Justizdirektion; siehe Organisationsreglement (RB 2.3322).
+[^108d-2]: Justizdirektion; siehe Organisationsreglement (RB 2.3322).
 
-#### Artikel 109
+#### Artikel 109 e
 
-**Entscheid: Wirkung**
+**) Wirkung**
 
-<sup>1</sup> Die Baubewilligung gilt nur für die bewilligte Ausführung. Sie schliesst keine Verantwortlichkeit des Gemeinwesens ein.
+Die Baubewilligung gilt nur für die bewilligte Ausführung. Sie schliesst keine Verantwortlichkeit des Gemeinwesens ein.
 
-#### Artikel 110
+#### Artikel 110 f
 
-**Entscheid: Persönliche und zeitliche Geltung**
+**) Persönliche und zeitliche Geltung**
 
 <sup>1</sup> Die Baubewilligung ist übertragbar, sofern sie nicht vom Nachweis persönlicher Voraussetzungen abhängig ist.
 
@@ -1324,13 +1429,13 @@ beschliesst:
 
 <sup>3</sup> Aus wichtigen Gründen kann die Baubehörde die Baubewilligung höchstens um ein Jahr verlängern.
 
-#### Artikel 111
+#### Artikel 111 g
 
-**Entscheid: Anmerkung im Grundbuch**
+**) Anmerkung im Grundbuch**
 
-<sup>1</sup> Ausnahmebewilligungen sowie Bedingungen und Auflagen können im Grundbuch angemerkt werden[^Artikel111-1].
+Ausnahmebewilligungen sowie Bedingungen und Auflagen können im Grundbuch angemerkt werden[^111g-1].
 
-[^Artikel111-1]: Vom Bundesrat genehmigt am 19. August 2010.
+[^111g-1]: Vom Bundesrat genehmigt am 19. August 2010.
 
 #### Artikel 112
 
@@ -1338,7 +1443,7 @@ beschliesst:
 
 <sup>1</sup> Die Bauarbeiten dürfen begonnen werden, sobald die Baubewilligung rechtskräftig ist und allfällige Sicherheiten geleistet sind. In begründeten Fällen kann die Baubehörde der Bauherrschaft erlauben, die Bauarbeiten auf eigenes Risiko vorzeitig zu beginnen.
 
-<sup>2</sup> Der Bau beginnt mit den Aushubarbeiten. Ist kein Aushub notwendig, gilt jede für sich allein baubewilligungspflichtige Massnahme als Baubeginn.
+2 Der Bau beginnt mit den Aushubarbeiten. Ist kein Aushub notwendig, gilt jede für sich allein baubewilligungspflichtige Massnahme als Baubeginn.
 
 #### Artikel 113
 
@@ -1356,17 +1461,17 @@ beschliesst:
 
 <sup>2</sup> Ein Vorentscheid wirkt wie eine Baubewilligung, wenn er im gleichen Verfahren wie diese getroffen wird.
 
-#### Artikel 114a
-
-**Zweitwohnungsgesetzgebung**
+Artikel 114a[^114-1] Zweitwohnungsgesetzgebung
 
 <sup>1</sup> Die Baubehörde vollzieht die Bundesgesetzgebung über Zweitwohnungen, so weit nicht eine andere Behörde zuständig ist.
 
-<sup>2</sup> Neue Wohnungen ohne Nutzungsbeschränkung in ortsbildprägenden Bauten gemäss Artikel 9 des Zweitwohnungsgesetzes (SR [702](https://db.clex.ch/link/Bund/702/de)) erfordern neben der Baubewilligung die Zustimmung der zuständigen Direktion[^Artikel114a-1]. Diese bestimmt in ihrem Entscheid, ob die Baute ortsbildprägend ist.
+<sup>2</sup> Neue Wohnungen ohne Nutzungsbeschränkung in ortsbildprägenden Bauten gemäss Artikel 9 des Zweitwohnungsgesetzes[^114-2] erfordern neben der Baubewilligung die Zustimmung der zuständigen Direktion[^114-3]. Diese bestimmt in ihrem Entscheid, ob die Baute ortsbildprägend ist.
 
-[^Artikel114a-1]: Justizdirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^114-1]: Eingefügt durch VA vom 21. Mai 2017, in Kraft gesetzt auf den 1. Juni 2017 (AB vom 9. September 2016).
+[^114-2]: SR 702
+[^114-3]: Justizdirektion, siehe Organisationsreglement (RB 2.3322).
 
-### 3.3 Baupolizei
+### 3. Kapitel: BAUPOLIZEI
 
 #### Artikel 115
 
@@ -1374,7 +1479,7 @@ beschliesst:
 
 <sup>1</sup> Die Kontrollorgane der Baubehörde überwachen während und nach der Durchführung der baulichen Massnahme deren Übereinstimmung mit der Baubewilligung und den Vorschriften.
 
-<sup>2</sup> Sobald der Bau abgeschlossen ist, hat die Bauherrschaft das der Baubehörde zu melden.
+2 Sobald der Bau abgeschlossen ist, hat die Bauherrschaft das der Baubehörde zu melden.
 
 <sup>3</sup> Mit der Baukontrolle übernehmen die Behörden keine Verantwortlichkeit für die Sicherheit der Baute oder Anlage.
 
@@ -1384,13 +1489,13 @@ beschliesst:
 
 **Zutrittsrecht**
 
-<sup>1</sup> Die Kontrollorgane der Baubehörde haben jederzeit das Recht, die Baustelle und die Baute oder Anlage zu betreten.
+Die Kontrollorgane der Baubehörde haben jederzeit das Recht, die Baustelle und die Baute oder Anlage zu betreten.
 
 #### Artikel 117
 
 **Mitwirkungspflicht**
 
-<sup>1</sup> Die Bauherrschaft und die weiteren verantwortlichen Personen haben die erforderlichen Unterlagen beizubringen und alles zu unternehmen, damit die Baukontrolle ordnungsgemäss durchgeführt werden kann.
+Die Bauherrschaft und die weiteren verantwortlichen Personen haben die erforderlichen Unterlagen beizubringen und alles zu unternehmen, damit die Baukontrolle ordnungsgemäss durchgeführt werden kann.
 
 #### Artikel 118
 
@@ -1408,49 +1513,55 @@ beschliesst:
 
 <sup>2</sup> Wird eine dahingehende Aufforderung innert angemessen anzusetzender Frist nicht befolgt, kann der vorschriftswidrige Zustand auf Kosten des Pflichtigen beseitigt werden.
 
-<sup>3</sup> Die Baubehörde kann dazu nötigenfalls die Hilfe der Polizei beanspruchen.
+3 Die Baubehörde kann dazu nötigenfalls die Hilfe der Polizei beanspruchen.
 
 #### Artikel 120
 
 **Strafen, Zuständigkeit**
 
-<sup>1</sup> Wer diesem Gesetz oder den darauf gestützten Rechtserlassen, Entscheidungen und Verfügungen zuwiderhandelt, wird mit einer Busse bis 50'000 Franken bestraft.
+<sup>1</sup> Wer diesem Gesetz oder den darauf gestützten Rechtserlassen, Entscheidungen und Verfügungen zuwiderhandelt, wird mit einer Busse bis 50 000
 
-<sup>2</sup> Die vorsätzliche und die fahrlässige Begehung der Tat sind strafbar.
+Franken bestraft.
+
+2 Die vorsätzliche und die fahrlässige Begehung der Tat sind strafbar.
 
 <sup>3</sup> Die Strafverfolgung und die Strafe verjähren in fünf Jahren.
 
-<sup>4</sup> Die Baubehörde verfügt erstinstanzlich Bussen nach dieser Bestimmung. Das Strafverfahren richtet sich nach den Bestimmungen der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)).
+<sup>4</sup> Die Baubehörde verfügt erstinstanzlich Bussen nach dieser Bestimmung. Das Strafverfahren richtet sich nach den Bestimmungen der Verordnung über die Verwaltungsrechtspflege[^120-1].
+
+[^120-1]: RB 2.2345
 
 #### Artikel 121
 
 **Aufsichtsmassnahmen**
 
-<sup>1</sup> Vernachlässigt die Baubehörde ihre baupolizeilichen Pflichten und sind dadurch öffentliche Interessen gefährdet, kann an ihrer Stelle der Regierungsrat als Aufsichtsbehörde die erforderlichen Massnahmen verfügen.
+Vernachlässigt die Baubehörde ihre baupolizeilichen Pflichten und sind dadurch öffentliche Interessen gefährdet, kann an ihrer Stelle der Regierungsrat als Aufsichtsbehörde die erforderlichen Massnahmen verfügen.
 
-### 3.4 Rechtspflege, Gebühren
+### 4. Kapitel: RECHTSPFLEGE, GEBÜHREN
 
-#### Artikel 122
+Artikel 122[^h4KapitelRECHTSPF-1] Rechtspflege Entscheidungen, Verfügungen und Pläne, die auf diesem Gesetzoder auf die darauf gestützten Rechtserlasse gründen, sind nach den Bestimmungen der Verordnung über die Verwaltungsrechtspflege[^h4KapitelRECHTSPF-2] anfechtbar, soweit dieses Gesetz nichts anderes bestimmt.
 
-**Rechtspflege**
-
-<sup>1</sup> Entscheidungen, Verfügungen und Pläne, die auf diesem Gesetzoder auf die darauf gestützten Rechtserlasse gründen, sind nach den Bestimmungen der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)) anfechtbar, soweit dieses Gesetz nichts anderes bestimmt.
+[^h4KapitelRECHTSPF-1]: Fassung gemäss VA vom 21. Mai 2017, in Kraft gesetzt auf den 1. Juni 2017 (AB vom 9. September 2016).
+[^h4KapitelRECHTSPF-2]: RB 2.2345
 
 #### Artikel 123
 
 **Gebühren**
 
-<sup>1</sup> Gebühren für Entscheidungen und Verfügungen nach diesem Gesetz sowie der darauf gestützten Rechtserlasse richten sich nach der Gebührenverordnung (RB [3.2512](https://rechtsbuch.ur.ch/data/3.2512/de)) und dem Gebührenreglement (RB [3.2521](https://rechtsbuch.ur.ch/data/3.2521/de)).
+<sup>1</sup> Gebühren für Entscheidungen und Verfügungen nach diesem Gesetz sowie der darauf gestützten Rechtserlasse richten sich nach der Gebührenverordnung[^123-1] und dem Gebührenreglement[^123-2].
 
 <sup>2</sup> Die Gemeinden können dazu Ausführungsbestimmungen erlassen. Bei besonders umfangreichen, zeitraubenden oder mit anderen Erschwernissen verbundenen Amtshandlungen kann die Gemeinde den kantonalen Gebührenrahmen überschreiten.
 
-## 4 Schlussbestimmungen
+[^123-1]: RB 3.2512
+[^123-2]: RB 3.2521
+
+### 4. Titel: SCHLUSSBESTIMMUNGEN
 
 #### Artikel 124
 
 **Vollzug**
 
-<sup>1</sup> Der Regierungsrat vollzieht dieses Gesetz. Er erlässt die dazu erforderlichen Bestimmungen in einem Reglement.
+Der Regierungsrat vollzieht dieses Gesetz. Er erlässt die dazu erforderlichen Bestimmungen in einem Reglement.
 
 #### Artikel 125
 
@@ -1476,23 +1587,25 @@ beschliesst:
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Das Baugesetz des Kantons Uri vom 10. Mai 1970 wird aufgehoben.
+Das Baugesetz des Kantons Uri vom 10. Mai 1970<sup>54</sup> wird aufgehoben.
+
+[^127-1]: Die Änderungen wurden in den entsprechenden Erlass eingefügt.
 
 #### Artikel 128
 
-**Änderung bisherigen Rechts[^Artikel128-1]**
-
-[^Artikel128-1]: Die Änderungen wurden in den entsprechenden Erlass eingefügt.
+Änderung bisherigen Rechts …[^127-1]
 
 #### Artikel 129
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Gesetz unterliegt der Volksabstimmung. Der Regierungsrat bestimmt, wann es in Kraft tritt[^Artikel129-1].
+<sup>1</sup> Dieses Gesetz unterliegt der Volksabstimmung. Der Regierungsrat bestimmt, wann es in Kraft tritt[^129-1].
 
-<sup>2</sup> Die Bestimmungen über die Anmerkung im Grundbuch sind vom Bund zu genehmigen[^Artikel129-2].
+<sup>2</sup> Die Bestimmungen über die Anmerkung im Grundbuch sind vom Bund zu genehmigen[^129-2].
 
-[^Artikel129-1]: Vom Regierungsrat in Kraft gesetzt auf den 1. Januar 2012 (AB vom 16. Dezember 2011).
-[^Artikel129-2]: Vom Bundesrat genehmigt am 19. August 2010.
+Im Namen des Volkes
 
-AB 16.04.2010
+Der Landammann: Isidor Baumann Der Kanzleidirektor: Dr. Peter Huber
+
+[^129-1]: Vom Regierungsrat in Kraft gesetzt auf den 1. Januar 2012 (AB vom 16. Dezember 2011).
+[^129-2]: Vom Bundesrat genehmigt am 19. August 2010.
