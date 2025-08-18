@@ -1,32 +1,36 @@
 ---
 canton: UR
 number: "20.3231"
-title: "Konkordat der Kantone Uri, Schwyz und Zug betreffs die psychiatrische Versorgung"
+title: "KONKORDAT der Kantone Uri, Schwyz und Zug betreffs die psychiatrische Versorgung"
 short: Psychiatriekonkordat
 language: de
 version: 2017-07-01
+corrected: 2025-08-19
 version_adopted: 2016-03-17
 adopted: 2016-03-17
 in_force: 2017-07-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.3231"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/793/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/374/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Konkordat der Kantone Uri, Schwyz und Zug betreffs die psychiatrische Versorgung
+# KONKORDAT der Kantone Uri, Schwyz und Zug betreffs die psychiatrische Versorgung
 
-(Psychiatriekonkordat)
+KONKORDAT der Kantone Uri, Schwyz und Zug betreffs die psychiatrische Versorgung (Psychiatriekonkordat)
 
-Vom 17.03.2016 (Stand 01.07.2017)
+(vom 17. März 2016[^t-1]; Stand am 1. Juli 2017)
 
-## 1 Zweck und Rechtsform
+[^t-1]: AB vom 7. Oktober 2016
+
+### 1. Kapitel: ZWECK UND RECHTSFORM
 
 #### Artikel 1
 
 **Zweck**
 
-<sup>1</sup> Die Kantone Uri, Schwyz und Zug stellen gemeinsam die stationäre, teilstationäre und ambulante psychiatrische Versorgung sicher.
+Die Kantone Uri, Schwyz und Zug stellen gemeinsam die stationäre, teilstationäre und ambulante psychiatrische Versorgung sicher.
 
 #### Artikel 2
 
@@ -36,16 +40,17 @@ Vom 17.03.2016 (Stand 01.07.2017)
 
 <sup>2</sup> Die Körperschaft hat eigene Rechtspersönlichkeit mit Sitz in Zug.
 
-## 2 Organisation des Konkordats
+### 2. Kapitel: ORGANISATION DES KONKORDATS
 
 #### Artikel 3
 
 **Organe**
 
-<sup>1</sup> Organe des Konkordats sind:
+Organe des Konkordats sind:
 
-- a) die Regierungen der drei Kantone
-- b) der Konkordatsrat
+- a) die Regierungen der drei Kantone;
+
+- b) der Konkordatsrat.
 
 #### Artikel 4
 
@@ -63,10 +68,13 @@ Vom 17.03.2016 (Stand 01.07.2017)
 
 <sup>1</sup> Die Regierungen:
 
-- a) genehmigen die Leistungsaufträge des Konkordats und beschliessen die damit verbundenen Ausgaben
-- b) genehmigen die Geschäftsordnung des Konkordatsrats
-- c) gewähren Garantien für Verbindlichkeiten der Betriebsgesellschaft
-- d) sind für alle weiteren Geschäfte des Konkordats zuständig, die nicht ausdrücklich dem Konkordatsrat zugewiesen sind
+- a) genehmigen die Leistungsaufträge des Konkordats und beschliessen die damit verbundenen Ausgaben;
+
+- b) genehmigen die Geschäftsordnung des Konkordatsrats;
+
+- c) gewähren Garantien für Verbindlichkeiten der Betriebsgesellschaft;
+
+- d) sind für alle weiteren Geschäfte des Konkordats zuständig, die nicht ausdrücklich dem Konkordatsrat zugewiesen sind.
 
 <sup>2</sup> Ein Beschluss gemäss Absatz 1 benötigt die Zustimmung aller drei Regierungen.
 
@@ -78,27 +86,33 @@ Vom 17.03.2016 (Stand 01.07.2017)
 
 <sup>1</sup> Der Konkordatsrat:
 
-- a) verabschiedet die psychiatrische Versorgungsplanung abschliessend
-- b) erteilt ausschliesslich die Leistungsaufträge im Rahmen des gemeinsam definierten Bedarfs
-- c) erlässt die Geschäftsordnung des Konkordatsrats
-- d) verabschiedet Bericht und Antrag an die Regierungen zur Gewährung von Garantien und zu weiteren Geschäften
-- e) unterbreitet den Regierungen zuhanden der Aktionariatsvertretungen Wahlvorschläge für die Mitglieder des Verwaltungsrats der Betriebsgesellschaft
+- a) verabschiedet die psychiatrische Versorgungsplanung abschliessend;
+
+- b) erteilt ausschliesslich die Leistungsaufträge im Rahmen des gemeinsam definierten Bedarfs;
+
+- c) erlässt die Geschäftsordnung des Konkordatsrats;
+
+- d) verabschiedet Bericht und Antrag an die Regierungen zur Gewährung von Garantien und zu weiteren Geschäften;
+
+- e) unterbreitet den Regierungen zuhanden der Aktionariatsvertretungen Wahlvorschläge für die Mitglieder des Verwaltungsrats der Betriebsgesellschaft.
 
 <sup>2</sup> Ein Beschluss gemäss Absatz 1 benötigt die Mehrheit der Stimmenden.
 
 <sup>3</sup> Der Konkordatsrat entscheidet abschliessend über Ausgaben für die Vorbereitung der Geschäfte gemäss Absatz 1. Diese Ausgaben tragen die Kantone wie folgt:
 
-- a) Uri: 10 Prozent
-- b) Schwyz: 45 Prozent
-- c) Zug: 45 Prozent
+- a) Uri 10 Prozent;
 
-## 3 Betriebsgesellschaft
+- b) Schwyz 45 Prozent;
+
+- c) Zug: 45 Prozent.
+
+### 3. Kapitel: BETRIEBSGESELLSCHAFT
 
 #### Artikel 7
 
 **Sitz und Zweck**
 
-<sup>1</sup> Die Kantone gründen eine gemeinnützige Aktiengesellschaft gemäss Artikel 620 Absatz 3 OR (SR [220](https://db.clex.ch/link/Bund/220/de)) (Betriebsgesellschaft) mit Sitz in Zug.
+<sup>1</sup> Die Kantone gründen eine gemeinnützige Aktiengesellschaft gemäss Artikel 620 Absatz 3 OR<sup>2</sup> (Betriebsgesellschaft) mit Sitz in Zug.
 
 <sup>2</sup> Aktionäre sind Uri, Schwyz und Zug.
 
@@ -108,10 +122,11 @@ Vom 17.03.2016 (Stand 01.07.2017)
 
 **Aktienkapital und Aktien**
 
-<sup>1</sup> Das Aktienkapital beträgt 5'000'000 Franken und ist wie folgt eingeteilt:
+<sup>1</sup> Das Aktienkapital beträgt 5 Millionen Franken und ist wie folgt eingeteilt:
 
-- a) 2000 Aktien Kategorie A zu 2'000 Franken Nennwert
-- b) 2000 Aktien Kategorie B zu 500 Franken Nennwert
+- a) 2 000 Aktien Kategorie A zu 2 000 Franken Nennwert;
+
+- b) 2 000 Aktien Kategorie B zu 500 Franken Nennwert.
 
 <sup>2</sup> Alle Aktien lauten auf den Namen und sind voll einbezahlt.
 
@@ -121,13 +136,15 @@ Vom 17.03.2016 (Stand 01.07.2017)
 
 **Liberierung und Aktienverteilung**
 
-<sup>1</sup> Das Aktienkapital wird durch eine Bareinlage liberiert. Zur Liberierung leistet Uri eine Bareinlage von 500'000 Franken, Schwyz von 1'650'000 Franken und Zug von 2'850'000 Franken (total 5'000'000 Franken).
+<sup>1</sup> Das Aktienkapital wird durch eine Bareinlage liberiert. Zur Liberierung leistet Uri eine Bareinlage von 500 000 Franken, Schwyz von 1 650 000 Franken und Zug von 2 850 000 Franken (total 5 000 000 Franken).
 
 <sup>2</sup> Die Kantone erhalten Aktien wie folgt:
 
-- a) Uri: 200 Aktien Kategorie A und 200 Aktien Kategorie B
-- b) Schwyz: 500 Aktien Kategorie A und 1300 Aktien Kategorie B
-- c) Zug: 1300 Aktien Kategorie A und 500 Aktien Kategorie B
+- a) Uri 200 Aktien Kategorie A und 200 Aktien Kategorie B;
+
+- b) Schwyz 500 Aktien Kategorie A und 1 300 Aktien Kategorie B;
+
+- c) Zug: 1 300 Aktien Kategorie A und 500 Aktien Kategorie B.
 
 #### Artikel 10
 
@@ -137,17 +154,19 @@ Vom 17.03.2016 (Stand 01.07.2017)
 
 <sup>2</sup> Die Anteile tragen die Kantone wie folgt:
 
-- a) Uri: 10 Prozent
-- b) Schwyz: 45 Prozent
-- c) Zug: 45 Prozent
+- a) Uri 10 Prozent;
 
-## 4 Klinikgrundstück
+- b) Schwyz 45 Prozent;
+
+- c) Zug: 45 Prozent.
+
+### 4. Kapitel: KLINIKGRUNDSTÜCK
 
 #### Artikel 11
 
 **Eigentum**
 
-<sup>1</sup> Zug kauft das Grundstück Nr. 4963, Gemeinde Zug, vom Verein Barmherzige Brüder Zug zu Alleineigentum, zum Preis von 18'000'000 Franken.
+Zug kauft das Grundstück Nr. 4963, Gemeinde Zug, vom Verein Barmherzige Brüder Zug zu Alleineigentum, zum Preis von 18 Millionen Franken.
 
 #### Artikel 12
 
@@ -155,13 +174,13 @@ Vom 17.03.2016 (Stand 01.07.2017)
 
 <sup>1</sup> Auf dem Grundstück Nr. 4963 besteht für die gesamte Fläche und für alle Bauten und Anlagen ein selbstständiges und dauerndes Baurecht für 100 Jahre. Dieses wird entschädigungslos auf die Betriebsgesellschaft übertragen.
 
-<sup>2</sup> Zug verpflichtet sich, mit der Betriebsgesellschaft rechtzeitig vor Ablauf des Baurechts über eine Verlängerung um weitere 100 Jahre zu verhandeln (Artikel 779l ZGB, SR [210](https://db.clex.ch/link/Bund/210/de)).
+<sup>2</sup> Zug verpflichtet sich, mit der Betriebsgesellschaft rechtzeitig vor Ablauf des Baurechts über eine Verlängerung um weitere 100 Jahre zu verhandeln (Art. 779l ZGB<sup>3</sup>).
 
-<sup>3</sup> Wird das Baurecht nicht erneuert, fallen die Bauten und Anlagen Zug anheim. Die Heimfallentschädigung (Artikel 779d ZGB) beträgt 100 Prozent des Verkehrswerts aller Bauten und Anlagen zum Zeitpunkt des Heimfalls.
+<sup>3</sup> Wird das Baurecht nicht erneuert, fallen die Bauten und Anlagen Zug anheim. Die Heimfallentschädigung (Art. 779d ZGB) beträgt 100 Prozent des Verkehrswerts aller Bauten und Anlagen zum Zeitpunkt des Heimfalls.
 
-<sup>4</sup> Die Betriebsgesellschaft bezahlt jährlich einen Baurechtszins. Dieser berechnet sich jährlich auf der Basis des nominellen Kaufpreises von 18'000'000 Franken nach dem Jahresmittel der 10-Jahres-Kassazinssätze der Obligationen der Eidgenossenschaft. Es wird der Durchschnittswert für die zehn vorangehenden Jahre zugrunde gelegt.
+<sup>4</sup> Die Betriebsgesellschaft bezahlt jährlich einen Baurechtszins. Dieser berechnet sich jährlich auf der Basis des nominellen Kaufpreises von 18 Millionen Franken nach dem Jahresmittel der 10-Jahres-Kassazinssätze der Obligationen der Eidgenossenschaft. Es wird der Durchschnittswert für die zehn vorangehenden Jahre zugrunde gelegt.
 
-## 5 Verschiedene Bestimmungen
+### 5. Kapitel: VERSCHIEDENE BESTIMMUNGEN
 
 #### Artikel 13
 
@@ -193,18 +212,16 @@ Vom 17.03.2016 (Stand 01.07.2017)
 
 <sup>2</sup> Der Konkordatsrat erteilt die Leistungsaufträge nach Artikel 6 Absatz 1 Buchstabe b erstmals bis spätestens am 31. Dezember 2018.
 
-<sup>3</sup> Der Konkordatsrat kann anstelle der Betriebsgesellschaft bis zu deren Gründung notwendige Rechtshandlungen vornehmen.
+3 Der Konkordatsrat kann anstelle der Betriebsgesellschaft bis zu deren Gründung notwendige Rechtshandlungen vornehmen.
 
 #### Artikel 16
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Das Psychiatriekonkordat vom 29. April 1982 wird mit dem Inkrafttreten dieses Konkordats aufgehoben.
+Das Psychiatriekonkordat<sup>4</sup> vom 29. April 1982 wird mit dem Inkrafttreten dieses Konkordats aufgehoben.
 
 #### Artikel 17
 
 **Inkrafttreten des Konkordats**
 
-<sup>1</sup> Das Konkordat tritt nach Zustimmung der zuständigen Organe aller drei Kantone am 1. Juli 2017 in Kraft.
-
-AB 07.10.2016
+Das Konkordat tritt nach Zustimmung der zuständigen Organe aller drei Kantone am 1. Juli 2017 in Kraft.
