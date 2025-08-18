@@ -1,32 +1,34 @@
 ---
 canton: UR
 number: "40.5111"
-title: Gesetz über das Bergregal und die Nutzung des Untergrundes
+title: GESETZ über das Bergregal und die Nutzung des Untergrundes
 short: BUG
 language: de
 version: 1995-12-05
+corrected: 2025-08-19
 version_adopted: 1995-11-26
 adopted: 1995-11-26
 in_force: 1995-12-05
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.5111"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/928/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/305/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über das Bergregal und die Nutzung des Untergrundes
+# GESETZ über das Bergregal und die Nutzung des Untergrundes
 
-(BUG)
+GESETZ über das Bergregal und die Nutzung des Untergrundes (BUG)
 
-Vom 26.11.1995 (Stand 05.12.1995)
+(vom 26. November 1995[^t-1]; Stand am 19. Februar 2009)
 
-Das Volk des Kantons Uri,
-
-gestützt auf Artikel 57 Absatz 3 und Artikel 24 Buchstabe b der Kantonsverfassung (RB [1.1101](https://rechtsbuch.ur.ch/data/1.1101/de)),
+Das Volk des Kantons Uri, gestützt auf Artikel 57 Absatz 3 und Artikel 24 Buchstabe b der Kantonsverfassung<sup>2</sup>,
 
 beschliesst:
 
-## 1 Gegenstand und Zweck
+[^t-1]: AB vom 20. Oktober 1995
+
+### 1. Abschnitt: Gegenstand und Zweck
 
 #### Artikel 1
 
@@ -36,7 +38,7 @@ beschliesst:
 
 <sup>3</sup> Vorbehalten bleiben besondere Vorschriften des Bundes und des Kantons.
 
-## 2 Begriffe
+### 2. Abschnitt: Begriffe
 
 #### Artikel 2
 
@@ -44,10 +46,9 @@ beschliesst:
 
 <sup>1</sup> Das Bergregal umfasst sämtliche Bodenschätze, die nicht Gegenstand der Bundeszivilgesetzgebung sind.
 
-<sup>2</sup> Das Bergregal nutzt, wer:
+<sup>2</sup> Das Bergregal nutzt, wer a) Bodenschätze ausbeutet;
 
-- a) Bodenschätze ausbeutet
-- b) Massnahmen trifft, die das Aufsuchen und Ausbeuten von Bodenschätzen einschränken
+- b) Massnahmen trifft, die das Aufsuchen und Ausbeuten von Bodenschätzen einschränken.
 
 #### Artikel 3
 
@@ -55,26 +56,23 @@ beschliesst:
 
 <sup>1</sup> Als Untergrund gilt jener Teil des Erdinnern, der nicht Gegenstand des Bergregals und der Bundeszivilgesetzgebung ist.
 
-<sup>2</sup> Den Untergrund nutzt, wer – ohne das Bergregal zu nutzen:
+<sup>2</sup> Den Untergrund nutzt, wer – ohne das Bergregal zu nutzen –:
 
-- a) das Erdinnere durch bauliche Anlagen verändert, namentlich wer dort Tunnels, Stollen oder Kavernen erstellt
-- b) dem Erdinnern Wärme entzieht
+- a) das Erdinnere durch bauliche Anlagen verändert, namentlich wer dort Tunnels, Stollen oder Kavernen erstellt;
 
-## 3 Verfügungsrecht
+- b) dem Erdinnern Wärme entzieht.
+
+### 3. Abschnitt: Verfügungsrecht
 
 #### Artikel 4
 
-**Begriff**
-
-<sup>1</sup> Das Verfügungsrecht über das Bergregal und den Untergrund ist das Recht, diese selbst zu nutzen oder das Nutzungsrecht einer Drittperson zu übertragen.
+Begriff Das Verfügungsrecht über das Bergregal und den Untergrund ist das Recht, diese selbst zu nutzen oder das Nutzungsrecht einer Drittperson zu übertragen.
 
 #### Artikel 5
 
-**Inhaber**
+Inhaber Das Verfügungsrecht über das Bergregal und über den Untergrund steht dem Kanton zu. Vorbehalten bleiben nachgewiesene Privatrechte.
 
-<sup>1</sup> Das Verfügungsrecht über das Bergregal und über den Untergrund steht dem Kanton zu. Vorbehalten bleiben nachgewiesene Privatrechte.
-
-## 4 Konzession
+### 4. Abschnitt: Konzession
 
 #### Artikel 6
 
@@ -84,9 +82,9 @@ beschliesst:
 
 <sup>2</sup> Die Verlängerung, Erneuerung, Erweiterung oder Übertragung einer Konzession ist konzessionspflichtig.
 
-<sup>3</sup> Vorbereitungsmassnahmen, wie Probebohrungen, Grabungen und andere Bodenuntersuchungen, bedürfen der Bewilligung der zuständigen Direktion[^Artikel6-1].
+<sup>3</sup> Vorbereitungsmassnahmen, wie Probebohrungen, Grabungen und andere Bodenuntersuchungen, bedürfen der Bewilligung der zuständigen Direktion[^6-1].
 
-[^Artikel6-1]: Baudirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^6-1]: Baudirektion, siehe Organisationsreglement (RB 2.3322).
 
 #### Artikel 7
 
@@ -94,11 +92,11 @@ beschliesst:
 
 <sup>1</sup> Der Landrat ist zuständig, Konzessionen zur Nutzung des Bergregals und des Untergrunds zu erteilen.
 
-<sup>2</sup> Beträgt die konzedierte Ausbruchsmenge weniger als 100'000 m³ oder die konzedierte Wärmeleistung weniger als 10'000 Kilowatt (kW), ist der Regierungsrat zuständig, die Konzession zu erteilen. Er kann diese Befugnis im Einzelfall oder allgemein der zuständigen Direktion[^Artikel7-1] übertragen.
+<sup>2</sup> Beträgt die konzedierte Ausbruchsmenge weniger als 100'000 m<sup>3</sup> oder die konzedierte Wärmeleistung weniger als 10'000 Kilowatt (kW), ist der Regierungsrat zuständig, die Konzession zu erteilen. Er kann diese Befugnis im Einzelfall oder allgemein der zuständigen Direktion[^7-1] übertragen.
 
 <sup>3</sup> Mit der Konzessionserteilung werden die Ausgaben beschlossen, welche die Konzession mit sich bringt, namentlich für die Beteiligung nach Artikel 18.
 
-[^Artikel7-1]: Baudirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^7-1]: Baudirektion, siehe Organisationsreglement (RB 2.3322).
 
 #### Artikel 8
 
@@ -112,29 +110,29 @@ beschliesst:
 
 **Voraussetzungen beim Gesuchsteller**
 
-<sup>1</sup> Der Gesuchsteller hat nachzuweisen, dass:
+Der Gesuchsteller hat nachzuweisen, dass a) er die geplante Anlage einwandfrei erstellt und betreibt;
 
-- a) er die geplante Anlage einwandfrei erstellt und betreibt
-- b) die Finanzierung der Anlage und deren Betrieb sichergestellt ist
-- c) er eine genügende Haftpflichtversicherung abschliesst
+- b) die Finanzierung der Anlage und deren Betrieb sichergestellt ist;
+
+- c) er eine genügende Haftpflichtversicherung abschliesst.
 
 #### Artikel 10
 
 **Auflagen und Bedingungen**
 
-<sup>1</sup> Die Konzession kann mit Auflagen und Bedingungen verbunden werden, namentlich auch darüber, was mit der Anlage nach Ablauf der Konzession zu geschehen hat.
+Die Konzession kann mit Auflagen und Bedingungen verbunden werden, namentlich auch darüber, was mit der Anlage nach Ablauf der Konzession zu geschehen hat.
 
 #### Artikel 11
 
 **Wirkungen der Konzession**
 
-<sup>1</sup> Die Konzession verschafft dem Konzessionär das ausschliessliche Recht, im konzedierten Bereich das Bergregal bzw. den Untergrund zu nutzen.
+Die Konzession verschafft dem Konzessionär das ausschliessliche Recht, im konzedierten Bereich das Bergregal bzw. den Untergrund zu nutzen.
 
 #### Artikel 12
 
 **Konzessionsurkunde**
 
-<sup>1</sup> Ist die Konzession rechtsgültig erteilt, erhält der Konzessionär eine Konzessionsurkunde, die Art und Umfang des Nutzungsrechts, die Pflichten des Konzessionärs und die verfügten Auflagen und Bedingungen enthält. Ein Konzessionsvertrag, der von der Konzessionsbehörde genehmigt worden ist, gilt als Konzessionsurkunde.
+Ist die Konzession rechtsgültig erteilt, erhält der Konzessionär eine Konzessionsurkunde, die Art und Umfang des Nutzungsrechts, die Pflichten des Konzessionärs und die verfügten Auflagen und Bedingungen enthält. Ein Konzessionsvertrag, der von der Konzessionsbehörde genehmigt worden ist, gilt als Konzessionsurkunde.
 
 #### Artikel 13
 
@@ -148,11 +146,11 @@ beschliesst:
 
 **Entzug der Konzession**
 
-<sup>1</sup> Die Konzessionsbehörde kann die Konzession ganz oder teilweise entziehen, wenn:
+<sup>1</sup> Die Konzessionsbehörde kann die Konzession ganz oder teilweise entziehen, wenn a) der Konzessionär die Konzession mit unwahren Angaben erschlichen hat;
 
-- a) der Konzessionär die Konzession mit unwahren Angaben erschlichen hat
-- b) der Konzessionär Bestimmungen der Konzession oder dieses Gesetzes trotz Mahnung grob verletzt
-- c) die Voraussetzungen für die Konzessionserteilung nicht mehr erfüllt sind
+- b) der Konzessionär Bestimmungen der Konzession oder dieses Gesetzes trotz Mahnung grob verletzt;
+
+- c) die Voraussetzungen für die Konzessionserteilung nicht mehr erfüllt sind.
 
 <sup>2</sup> Der Entzug der Konzession erfolgt in der Regel entschädigungslos, es sei denn, der Konzessionär sei für den Entzugsgrund nicht oder nur unwesentlich verantwortlich.
 
@@ -164,21 +162,25 @@ beschliesst:
 
 <sup>2</sup> Das Gesuch muss insbesondere Angaben enthalten über:
 
-- a) die Person des Gesuchstellers oder der Gesuchstellerin
-- b) den Zweck der beantragten Konzession
-- c) die Beschreibung und die Pläne der geplanten Anlagen, Bauten und Einrichtungen
-- d) den Betrieb der Anlage
-- e) den Abschluss einer genügenden Haftpflichtversicherung
+- a) die Person des Gesuchstellers oder der Gesuchstellerin;
 
-<sup>3</sup> Im übrigen gelten die Bestimmungen, welche die Gewässernutzungsverordnung (RB [40.4105](https://rechtsbuch.ur.ch/data/40.4105/de)) für das Konzessionsverfahren aufstellt.
+- b) den Zweck der beantragten Konzession;
 
-## 5 Leistungen des Konzessionärs
+- c) die Beschreibung und die Pläne der geplanten Anlagen, Bauten und Einrichtungen;
+
+- d) den Betrieb der Anlage;
+
+- e) den Abschluss einer genügenden Haftpflichtversicherung.
+
+<sup>3</sup> Im übrigen gelten die Bestimmungen, welche die Gewässernutzungsverordnung<sup>5</sup> für das Konzessionsverfahren aufstellt.
+
+### 5. Abschnitt: Leistungen des Konzessionärs
 
 #### Artikel 16
 
 **Kosten des Konzessionsverfahrens**
 
-<sup>1</sup> Der Konzessionär hat die Kosten für die Prüfung und die Beurteilung des Konzessionsgesuchs zu übernehmen.
+Der Konzessionär hat die Kosten für die Prüfung und die Beurteilung des Konzessionsgesuchs zu übernehmen.
 
 #### Artikel 17
 
@@ -200,15 +202,15 @@ beschliesst:
 
 **Domizilpflicht**
 
-<sup>1</sup> Ist der Konzessionär eine juristische Person, muss er während der ganzen Dauer der Konzession im Kanton Uri Steuerdomizil haben.
+Ist der Konzessionär eine juristische Person, muss er während der ganzen Dauer der Konzession im Kanton Uri Steuerdomizil haben.
 
 #### Artikel 20
 
 **Ausnahmen**
 
-<sup>1</sup> Aus wichtigen Gründen kann die Konzessionsbehörde von den Bestimmungen dieses Abschnittes abweichen.
+Aus wichtigen Gründen kann die Konzessionsbehörde von den Bestimmungen dieses Abschnittes abweichen.
 
-## 6 Bau und Betrieb der Anlagen
+### 6. Abschnitt: Bau und Betrieb der Anlagen
 
 #### Artikel 21
 
@@ -216,7 +218,7 @@ beschliesst:
 
 <sup>1</sup> Die Anlagen sind nach dem jeweiligen Stand der Technik zu bauen, zu unterhalten und zu betreiben.
 
-<sup>2</sup> Ist der Bau der Anlagen abgeschlossen, darf deren Betrieb nur aus wichtigen Gründen unterbrochen oder aufgegeben werden.
+2 Ist der Bau der Anlagen abgeschlossen, darf deren Betrieb nur aus wichtigen Gründen unterbrochen oder aufgegeben werden.
 
 #### Artikel 22
 
@@ -232,7 +234,7 @@ beschliesst:
 
 <sup>1</sup> Im öffentlichen Interesse und wenn der freihändige Erwerb nicht möglich ist, kann der Regierungsrat dem Konzessionär das Enteignungsrecht gewähren, um Grundstücke oder dingliche Rechte zu erwerben, die für Voruntersuchungen, für den Bau oder für den Betrieb der Anlagen notwendig sind.
 
-<sup>2</sup> Das Enteignungsverfahren richtet sich nach dem kantonalen Gesetz über die Enteignung (RB [3.3211](https://rechtsbuch.ur.ch/data/3.3211/de)).
+<sup>2</sup> Das Enteignungsverfahren richtet sich nach dem kantonalen Gesetz über die Enteignung<sup>6</sup>.
 
 #### Artikel 24
 
@@ -246,15 +248,15 @@ beschliesst:
 
 **Haftung**
 
-<sup>1</sup> Der Konzessionär haftet für allen Schaden, der auf den Bau oder den Betrieb der Anlage zurückzuführen ist. Ausgenommen bleibt die Haftung für grobes Selbstverschulden, höhere Gewalt und kriegerische Ereignisse.
+Der Konzessionär haftet für allen Schaden, der auf den Bau oder den Betrieb der Anlage zurückzuführen ist. Ausgenommen bleibt die Haftung für grobes Selbstverschulden, höhere Gewalt und kriegerische Ereignisse.
 
-## 7 Schluss- und Übergangsbestimmungen
+### 7. Abschnitt: Schluss- und Übergangsbestimmungen
 
 #### Artikel 26
 
 **Vollzug**
 
-<sup>1</sup> Der Regierungsrat vollzieht dieses Gesetz.
+Der Regierungsrat vollzieht dieses Gesetz.
 
 #### Artikel 27
 
@@ -262,7 +264,9 @@ beschliesst:
 
 <sup>1</sup> Wer vorsätzlich das Bergregal oder den Untergrund ohne die erforderliche Konzession nutzt, wird mit Haft oder Busse bestraft.
 
-<sup>2</sup> Das Strafverfahren richtet sich nach den Bestimmungen über die ordentliche Strafrechtspflege.
+<sup>2</sup> Das Strafverfahren richtet sich nach den Bestimmungen über die ordentliche Strafrechtspflege[^27-1].
+
+[^27-1]: RB 3.9222
 
 #### Artikel 28
 
@@ -276,22 +280,20 @@ beschliesst:
 
 #### Artikel 29
 
-**Aufhebung bisherigen Rechts**
+Aufhebung bisherigen Rechts Die Verordnung vom 16. Januar 1956 über das Salzregal im Kanton Uri wird aufgehoben.
 
-<sup>1</sup> Die Verordnung vom 16. Januar 1956 über das Salzregal im Kanton Uri wird aufgehoben.
+[^29-1]: Die Änderung wurde in den entsprechenden Erlass eingefügt.
 
 #### Artikel 30
 
-**Änderung bisherigen Rechts[^Artikel30-1]**
+Änderung bisherigen Rechts ...[^29-1]
 
-[^Artikel30-1]: Die Änderung wurde in den entsprechenden Erlass eingefügt.
+[^30-1]: Vom Regierungsrat in Kraft gesetzt auf den 5. Dezember 1995.
 
 #### Artikel 31
 
-**Inkrafttreten**
+Inkrafttreten Dieses Gesetz unterliegt der Volksabstimmung. Der Regierungsrat bestimmt, wann es in Kraft tritt.[^30-1]
 
-<sup>1</sup> Dieses Gesetz unterliegt der Volksabstimmung. Der Regierungsrat bestimmt, wann es in Kraft tritt[^Artikel31-1].
+Im Namen des Volkes
 
-[^Artikel31-1]: Vom Regierungsrat in Kraft gesetzt auf den 5. Dezember 1995.
-
-AB 20.10.1995
+Der Landammann: Alberik Ziegler Der Kanzleidirektor: Dr. Peter Huber
