@@ -1,53 +1,58 @@
 ---
 canton: UR
 number: "40.1401"
-title: Gesetz über die Staatshilfe bei Elementarschäden
+title: GESETZ über die Staatshilfe bei Elementarschäden
 language: de
 version: 2008-09-01
+corrected: 2025-08-19
 version_adopted: 2008-06-01
 adopted: 1964-12-06
 in_force: 1965-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.1401"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/916/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/281/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über die Staatshilfe bei Elementarschäden
+# GESETZ über die Staatshilfe bei Elementarschäden
 
-Vom 06.12.1964 (Stand 01.09.2008)
+GESETZ über die Staatshilfe bei Elementarschäden
 
-Das Volk des Kantons Uri,
+(vom 6. Dezember 1964[^t-1]; Stand am 1. September 2008)
 
-gestützt auf Artikel 44 und 48 der Kantonsverfassung (RB [1.1101](https://rechtsbuch.ur.ch/data/1.1101/de)),
+Das Volk des Kantons Uri, gestützt auf Artikel 44 und 48 der Kantonsverfassung[^t-2],
 
 beschliesst:
 
-## 1 Voraussetzungen des Hilfsanspruches
+[^t-1]: AB vom 5. November 1964
+[^t-2]: RB 1.1101
 
-### 1.1 Im allgemeinen
+### I.Voraussetzungen des Hilfsanspruches
+
+### Im allgemeinen
 
 #### Artikel 1
 
 **Grundsatz**
 
-<sup>1</sup> Wenn ein Kantonseinwohner durch ausserordentliche Naturereignisse auf Kantonsgebiet in Not gerät, hat er Anspruch auf Staatshilfe innert den Grenzen des gegenwärtigen Gesetzes.
+Wenn ein Kantonseinwohner durch ausserordentliche Naturereignisse auf Kantonsgebiet in Not gerät, hat er Anspruch auf Staatshilfe innert den Grenzen des gegenwärtigen Gesetzes.
 
-### 1.2 Persönliche Voraussetzungen
+### Persönliche Voraussetzungen
 
 #### Artikel 2
 
 **Natürliche Personen**
 
-<sup>1</sup> Als Kantonseinwohner gilt jede natürliche Person, die im Kanton ihren Wohnsitz hat oder hier als Aufenthalter wohnt.
+Als Kantonseinwohner gilt jede natürliche Person, die im Kanton ihren Wohnsitz hat oder hier als Aufenthalter wohnt.
 
 #### Artikel 3
 
 **Juristische Personen**
 
-<sup>1</sup> Für Schaden am Eigentum öffentlich-rechtlicher Körperschaften und Anstalten (Bund, Kanton, Korporationen, Gemeinden, Allmendbürgergemeinden) sowie für Schaden an Eigentum von juristischen Personen des privaten oder kirchlichen Rechts besteht kein Anspruch, mit Ausnahme von Alp- und Weggenossenschaften und ähnlichen Organisationen, sofern sie auf reiner Selbsthilfe von Personen nach Artikel 1 hievor beruhen.
+Für Schaden am Eigentum öffentlich-rechtlicher Körperschaften und Anstalten (Bund, Kanton, Korporationen, Gemeinden, Allmendbürgergemeinden) sowie für Schaden an Eigentum von juristischen Personen des privaten oder kirchlichen Rechts besteht kein Anspruch, mit Ausnahme von Alp- und Weggenossenschaften und ähnlichen Organisationen, sofern sie auf reiner Selbsthilfe von Personen nach Artikel 1 hievor beruhen.
 
-### 1.3 Objektive Voraussetzungen
+### 3Objektive Voraussetzungen
 
 #### Artikel 4
 
@@ -73,7 +78,7 @@ beschliesst:
 
 <sup>2</sup> Massgebend für die Beurteilung der Notlage sind: die Höhe des Schadens, die finanzielle Lage des Geschädigten sowie dessen Familien- und Verdienstverhältnisse.
 
-## 2 Bemessung des Hilfsbeitrages
+### II.Bemessung des Hilfsbeitrages
 
 #### Artikel 7
 
@@ -87,19 +92,19 @@ beschliesst:
 
 **Beitragssatz**
 
-<sup>1</sup> Der Hilfsbeitrag beträgt je nach den Verhältnissen bis höchstens 25 Prozent der Schadensumme.
+<sup>1</sup> Der Hilfsbeitrag beträgt je nach den Verhältnissen bis höchstens 25 % der Schadensumme.
 
-<sup>2</sup> In ganz besonderen Härtefällen, z.B. wenn Verlust an Menschenleben und dadurch Not in der Familiengemeinschaft eintritt, kann in Abweichung von Absatz 1 der Ansatz von 25 Prozent auch angemessen überschritten werden.
+<sup>2</sup> In ganz besonderen Härtefällen, z. B. wenn Verlust an Menschenleben und dadurch Not in der Familiengemeinschaft eintritt, kann in Abweichung von Absatz 1 der Ansatz von 25 % auch angemessen überschritten werden.
 
-<sup>3</sup> Schäden unter 100 Franken werden nicht berücksichtigt.
+<sup>3</sup> Schäden unter Fr. 100.-- werden nicht berücksichtigt.
 
-## 3 Rechtsnatur des Hilfsanspruchs
+### III.Rechtsnatur des Hilfsanspruchs
 
 #### Artikel 9
 
 **Subsidiarität des Hilfsanspruchs**
 
-<sup>1</sup> Der Staatsbeitrag darf nicht zu einer Bereicherung führen. Er ist zu kürzen oder ganz zu streichen, wenn die Notlage mit andern Mitteln gemildert oder behoben wird.
+Der Staatsbeitrag darf nicht zu einer Bereicherung führen. Er ist zu kürzen oder ganz zu streichen, wenn die Notlage mit andern Mitteln gemildert oder behoben wird.
 
 #### Artikel 10
 
@@ -109,7 +114,7 @@ beschliesst:
 
 <sup>2</sup> Der Beitrag ist zur Behebung der Notlage zu verwenden. Auszahlung an die Grundpfandgläubiger kann im Beitragsentscheid geordnet werden.
 
-## 4 Bereitstellung der Mittel
+### IV.Bereitstellung der Mittel
 
 #### Artikel 11
 
@@ -119,9 +124,11 @@ beschliesst:
 
 <sup>2</sup> Der Hilfsfonds wird geäufnet:
 
-- a) aus seinen Erträgnissen
-- b) aus der jährlich vom Landrat vorzunehmenden Zuweisung
-- c) aus allfälligen Schenkungen, Sammlungen und Zuwendungen gemeinnütziger Institutionen
+- a) aus seinen Erträgnissen;
+
+- b) aus der jährlich vom Landrat vorzunehmenden Zuweisung;
+
+- c) aus allfälligen Schenkungen, Sammlungen und Zuwendungen gemeinnütziger Institutionen.
 
 <sup>3</sup> Im Bedarfsfalle beschliesst die zuständige Behörde den erforderlichen Zusatzkredit aus allgemeinen Staatsmitteln.
 
@@ -129,9 +136,9 @@ beschliesst:
 
 **Gabensammlung**
 
-<sup>1</sup> Der Regierungsrat kann eine Gabensammlung anordnen. Deren Ergebnis ist vorweg zu verwenden.
+Der Regierungsrat kann eine Gabensammlung anordnen. Deren Ergebnis ist vorweg zu verwenden.
 
-## 5 Verfahren
+### V.Verfahren
 
 #### Artikel 13
 
@@ -153,13 +160,15 @@ beschliesst:
 
 **Prüfung durch Landwirtschaftsdirektion**
 
-<sup>1</sup> Die Landwirtschaftsdirektion kann die Schätzungen nachprüfen lassen und in bedeutenderen Fällen die Nachprüfung an ausserhalb der Verwaltung stehende Experten übertragen. Diese Nachprüfung hat innert Monatsfrist zu erfolgen.
+Die Landwirtschaftsdirektion kann die Schätzungen nachprüfen lassen und in bedeutenderen Fällen die Nachprüfung an ausserhalb der Verwaltung stehende Experten übertragen. Diese Nachprüfung hat innert Monatsfrist zu erfolgen.
+
+[^15-1]: Fassung gemäss VA vom 1. Juni 2008, in Kraft gesetzt auf den 1. September 2008 (AB vom 25. April 2008).
 
 #### Artikel 16
 
-**Entscheid**
+**Entscheid**[^15-1]
 
-<sup>1</sup> Über die Gewährung des Beitrages und dessen Höhe entscheidet der Regierungsrat.
+Über die Gewährung des Beitrages und dessen Höhe entscheidet der Regierungsrat.
 
 #### Artikel 17
 
@@ -169,26 +178,30 @@ beschliesst:
 
 <sup>2</sup> Die Auszahlung an das Grundbuchamt für Rechnung der Grundpfandgläubiger fällt nur in Betracht, wenn vor Erledigung des Schadenfalles ein diesbezügliches Gesuch gestellt wird, das nach dem Zweck der Staatshilfe für Elementarschäden begründet erscheint.
 
-## 6 Verwaltung des Hilfsfonds
+### VI.Verwaltung des Hilfsfonds
 
 #### Artikel 18
 
 **Verwaltung**
 
-<sup>1</sup> Der Hilfsfonds wird von der Staatskasse verwaltet und ist in der Staatsrechnung als Spezialfonds zu behandeln. Die Mittel des Fonds sind ausschliesslich in inländischen Wertpapieren mit Staatsgarantie anzulegen.
+Der Hilfsfonds wird von der Staatskasse verwaltet und ist in der Staatsrechnung als Spezialfonds zu behandeln. Die Mittel des Fonds sind ausschliesslich in inländischen Wertpapieren mit Staatsgarantie anzulegen.
 
-## 7 Schlussbestimmungen
+### VII.Schlussbestimmungen
 
 #### Artikel 19
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Gesetz tritt nach Annahme durch das Volk auf den 1. Januar 1965 in Kraft.
+Dieses Gesetz tritt nach Annahme durch das Volk auf den 1. Januar 1965 in Kraft.
 
 #### Artikel 20
 
 **Aufhebung alten Rechts**
 
-<sup>1</sup> Mit dem Inkrafttreten dieses Gesetzes tritt das Gesetz vom 5. Mai 1918 betreffend Staatshilfe bei Elementarschäden mit seinen Abänderungen und Ergänzungen ausser Kraft.
+Mit dem Inkrafttreten dieses Gesetzes tritt das Gesetz vom 5. Mai 1918 betreffend Staatshilfe bei Elementarschäden mit seinen Abänderungen und Ergänzungen ausser Kraft.
 
-AB 05.11.1964
+Altdorf, den 6. Dezember 1964
+
+Im Namen des Volkes des Kantons Uri
+
+Der Landammann: Dr. Alfred Weber Der Kanzleidirektor: Dr. Hans Muheim
