@@ -1,38 +1,43 @@
 ---
 canton: UR
 number: "10.1137"
-title: Reglement über die Beurteilung im Kindergarten
+title: REGLEMENT über die Beurteilung im Kindergarten
 language: de
 version: 2016-08-01
-valid_until: 2026-07-31
+corrected: 2025-08-19
 version_adopted: 2016-06-29
 adopted: 2026-06-17
 in_force: 2026-08-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.1137"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/852/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/172/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über die Beurteilung im Kindergarten
+# REGLEMENT über die Beurteilung im Kindergarten
 
-Vom 29.06.2016 (Stand 01.08.2016)
+REGLEMENT über die Beurteilung im Kindergarten
 
-Der Erziehungsrat,
+(vom 29. Juni 2016[^t-1]; Stand am 1. August 2016)
 
-gestützt auf Artikel 27 der Verordnung vom 22. April 1998 zum Schulgesetz (Schulverordnung, RB [10.1115](https://rechtsbuch.ur.ch/data/10.1115/de)),
+Der Erziehungsrat, gestützt auf Artikel 27 der Verordnung vom 22. April 1998 zum Schulgesetz (Schulverordnung)<sup>2</sup>,
 
 beschliesst:
+
+[^t-1]: AB vom 8. Juli 2016
 
 #### Artikel 1
 
 **Gegenstand**
 
-<sup>1</sup> Dieses Reglement regelt für den Kindergarten:
+Dieses Reglement regelt für den Kindergarten:
 
-- a) die Beurteilung der Schülerinnen und Schüler
-- b) den Inhalt des Zeugnisses
-- c) den Übergang in die 1. Klasse der Primarstufe
+- a) die Beurteilung der Schülerinnen und Schüler;
+
+- b) den Inhalt des Zeugnisses;
+
+- c) den Übergang in die 1. Klasse der Primarstufe.
 
 #### Artikel 2
 
@@ -42,14 +47,15 @@ beschliesst:
 
 <sup>2</sup> Die Schülerinnen und Schüler werden ganzheitlich beurteilt. Die Beurteilung ergibt sich aus:
 
-- a) den Beobachtungen im Unterricht
-- b) dem Beurteilungsgespräch
+- a) den Beobachtungen im Unterricht,
+
+- b) dem Beurteilungsgespräch.
 
 #### Artikel 3
 
 **Beurteilungsinstrumente**
 
-<sup>1</sup> Die Beurteilung ist anhand des vom Amt für Volksschulen vorgegebenen Dokumentes (Beurteilungsbogen) vorzunehmen.
+Die Beurteilung ist anhand des vom Amt für Volksschulen vorgegebenen Dokumentes (Beurteilungsbogen) vorzunehmen.
 
 #### Artikel 4
 
@@ -57,7 +63,7 @@ beschliesst:
 
 <sup>1</sup> Das Beurteilungsgespräch informiert die Eltern und sofern gewünscht die Schülerin oder den Schüler über den Lernstand und die Lernfortschritte.
 
-<sup>2</sup> Es dient der Förderung der Schülerin oder des Schülers sowie dem Einbezug der Eltern in den Lernprozess.
+2 Es dient der Förderung der Schülerin oder des Schülers sowie dem Einbezug der Eltern in den Lernprozess.
 
 <sup>3</sup> Es unterstützt die Zusammenarbeit der Beteiligten und dient der Planung der weiteren Schullaufbahn.
 
@@ -69,13 +75,20 @@ beschliesst:
 
 <sup>1</sup> In das Zeugnis werden eingetragen:
 
-- a) Name der Schülerin / des Schülers
-- b) Schulort / Schultyp / Schuljahr
-- c) Klasse
+- a) Name der Schülerin / des Schülers;
+
+- b) Schulort / Schultyp / Schuljahr;
+
+- c) Klasse;
+
 - d) Beurteilungsgespräch (Datum)
-- e) Besucht im nächsten Schuljahr …
-- f) Abwesenheiten in Halbtagen (entschuldigt/unentschuldigt), zu den Abwesenheiten zählen Absenzen, Beurlaubungen und die Selbstdispensation
-- g) Bemerkungen
+
+- e) Besucht im nächsten Schuljahr …;
+
+- f) Abwesenheiten in Halbtagen (entschuldigt/unentschuldigt), zu den Abwesenheiten zählen Absenzen, Beurlaubungen und die Selbstdispensation.
+
+- g) Bemerkungen;
+
 - h) Ausgestellt durch … / eingesehen von ….
 
 <sup>2</sup> Die Einträge erfolgen durch die Klassenlehrperson.
@@ -88,17 +101,19 @@ beschliesst:
 
 **Bemerkungen im Zeugnis**
 
-<sup>1</sup> Bemerkungen im Zeugnis sind nur mit folgenden Einträgen zulässig:
+Bemerkungen im Zeugnis sind nur mit folgenden Einträgen zulässig:
 
-- a) bei Eintritt oder Austritt während des Schuljahres: «Eintritt am (Datum)» oder «Austritt am (Datum)»
-- b) zur Begründung längerer Abwesenheiten: «Krankheit», «Unfall», «Spitalaufenthalt », «Alpdispens», «Mit Beschluss des Schulrates für (Zahl) Wochen vom Unterricht dispensiert»
-- c) bei Integrative Sonderschulung: «Integrative Sonderschulung»
+- a) bei Eintritt oder Austritt während des Schuljahres: «Eintritt am (Datum)» oder «Austritt am (Datum)»;
+
+- b) zur Begründung längerer Abwesenheiten: «Krankheit», «Unfall», «Spitalaufenthalt », «Alpdispens», «Mit Beschluss des Schulrates für (Zahl) Wochen vom Unterricht dispensiert»;
+
+- c) bei Integrative Sonderschulung: «Integrative Sonderschulung».
 
 #### Artikel 7
 
 **Wechsel vom Teilzeit- in den Vollzeitkindergarten**
 
-<sup>1</sup> Das Verfahren für einen frühzeitigen oder späteren Wechsel vom freiwilligen in den obligatorischen Kindergarten richtet sich nach Artikel 15 der Schulverordnung.
+Das Verfahren für einen frühzeitigen oder späteren Wechsel vom freiwilligen in den obligatorischen Kindergarten richtet sich nach Artikel 15 der Schulverordnung.
 
 #### Artikel 8
 
@@ -114,18 +129,18 @@ beschliesst:
 
 **Rechtsschutz**
 
-<sup>1</sup> Der Rechtsschutz richtet sich nach dem Schulgesetz (RB [10.1111](https://rechtsbuch.ur.ch/data/10.1111/de)).
+Der Rechtsschutz richtet sich nach dem Schulgesetz<sup>3</sup>.
 
 #### Artikel 10
 
-**Änderungen bisherigen Rechts[^Artikel10-1]**
-
-[^Artikel10-1]: Die Änderungen wurden in den entsprechenden Erlassen eingefügt.
+**Änderungen bisherigen Rechts**
 
 #### Artikel 11
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Reglement tritt am 1. August 2016 in Kraft.
+Dieses Reglement tritt am 1. August 2016 in Kraft.
 
-AB 08.07.2016
+Im Namen des Erziehungsrats
+
+Der Präsident: Beat Jörg Der Sekretär: Dr. Peter Horat
