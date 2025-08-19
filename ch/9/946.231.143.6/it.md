@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: "Ordinanza dell' 11 novembre 2015 che istituisce provvedimenti nei confronti della Repubblica Islamica dell'Iran"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: it
-version: 2025-04-24
+version: 2025-08-20
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20250424/it/xml/fedlex-data-admin-ch-eli-cc-2016-15-20250424-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20250424/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20250820/it/xml/fedlex-data-admin-ch-eli-cc-2016-15-20250820-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20250820/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Repubblica Islamica dell’Iran
 
-dell’11 novembre 2015 (Stato 24 aprile 2025)
+dell’11 novembre 2015 (Stato 20 agosto 2025)
 
 Il Consiglio federale svizzero,
 
@@ -22,7 +22,7 @@ visto l’articolo 2 della legge del 22 marzo 2002[^ingress-1] sugli embarghi (L
 
 ordina:
 
-[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 
 ## Sezione 1: Definizioni
 
@@ -113,8 +113,8 @@ La Segreteria di Stato dell’economia (SECO) rilascia l’autorizzazione per i 
 
 [^3-1]: Il testo del piano d’azione congiunto globale è contenuto nell’all. A della risoluzione 2231 (2015) del Consiglio di sicurezza delle Nazioni Unite. La risoluzione è consultabile in francese e inglese all’indirizzo [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
 [^3-2]: Nuovo testo giusta la cifra I n. 9 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
-[^3-3]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
-[^3-4]: Il rimando è stato adattato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° lug. 2016.
+[^3-3]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
+[^3-4]: Il rimando è stato adattato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° lug. 2016.
 [^3-5]: Le direttive del Gruppo dei fornitori nucleari sono consultabili in francese e in inglese al seguente indirizzo Internet: [www.nuclearsuppliersgroup.org](http://www.nuclearsuppliersgroup.org) &gt; Directives.
 [^3-6]: Nuovo testo giusta la cifra I dell’O del 18 mag. 2016, in vigore dal 18 mag. 2016 ([RU 2016 1479](https://fedlex.data.admin.ch/eli/oc/2016/282)).
 [^3-7]: Introdotto dalla cifra I dell’O del 18 mag. 2016, in vigore dal 18 mag. 2016 ([RU 2016 1479](https://fedlex.data.admin.ch/eli/oc/2016/282)).
@@ -156,8 +156,8 @@ La SECO può, d’intesa con i competenti uffici del Dipartimento federale degli
 
 <sup>4</sup> La SECO autorizza deroghe ai divieti di cui ai capoversi 1 e 2 procedendo secondo l’articolo 27[^5-1] OBDI[^5-2], purché i beni e i servizi interessati non siano utilizzati per il controllo e l’intercettazione di Internet e del traffico telefonico.
 
-[^5-1]: Il rimando è stato adattato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° lug. 2016.
-[^5-2]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^5-1]: Il rimando è stato adattato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° lug. 2016.
+[^5-2]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 
 ## Sezione 3: Restrizioni al finanziamento e alle partecipazioni
 
@@ -184,8 +184,8 @@ Le imprese che intendono concludere accordi con persone od organizzazioni irania
 
 <sup>4</sup> Se la risoluzione 2231 (2015)[^6-5] del Consiglio di sicurezza delle Nazioni Unite lo prevede, la SECO chiede il parere del Consiglio di sicurezza delle Nazioni Unite o della Commissione congiunta del JCPOA.[^6-6]
 
-[^6-1]: [RS 732.11](https://fedlex.data.admin.ch/eli/cc/2005/68)
-[^6-2]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352). Il contenuto dell’all. 2 OBDI è disponibile al seguente indirizzo Internet: [www.seco.admin.ch](http://www.seco.admin.ch) &gt; Politica economica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Prodotti industriali e beni militari speciali &gt; Legge e elenchi dei beni.
+[^6-1]: [RS 732.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8533)
+[^6-2]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364). Il contenuto dell’all. 2 OBDI è disponibile al seguente indirizzo Internet: [www.seco.admin.ch](http://www.seco.admin.ch) &gt; Politica economica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Prodotti industriali e beni militari speciali &gt; Legge e elenchi dei beni.
 [^6-3]: Il testo del piano d’azione congiunto globale è contenuto nell’all. A della risoluzione 2231 (2015) del Consiglio di sicurezza delle Nazioni Unite. La risoluzione è consultabile in francese e inglese all’indirizzo [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
 [^6-4]: Nuovo testo giusta la cifra I n. 9 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 [^6-5]: La risoluzione è consultabile in francese e inglese all’indirizzo [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
@@ -277,7 +277,7 @@ Il blocco di cui all’articolo 7 capoverso 1 lettera b e il divieto di cui all�
 
 [^7a-1]: Introdotto dalla cifra I dell’O del 2 apr. 2025, in vigore dal 3 apr. 2025 ([RU 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
 [^7a-2]: Correzione del 7 apr. 2025 ([RU 2025 231](https://fedlex.data.admin.ch/eli/oc/2025/231)).
-[^7a-3]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
+[^7a-3]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)
 [^7a-4]: Correzione del 7 apr. 2025 ([RU 2025 231](https://fedlex.data.admin.ch/eli/oc/2025/231)).
 [^7a-5]: Correzione del 7 apr. 2025 ([RU 2025 231](https://fedlex.data.admin.ch/eli/oc/2025/231)).
 
@@ -368,7 +368,7 @@ La Segreteria di Stato della migrazione (SEM) può concedere deroghe:
 
 <sup>4</sup> Su indicazione della SECO, le autorità competenti adottano i provvedimenti necessari al blocco delle risorse economiche, quali la menzione nel registro fondiario di un divieto di disporre dei beni, oppure il pignoramento o il suggellamento di beni di lusso.
 
-[^12-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^12-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 13
 
@@ -436,8 +436,8 @@ Allegato 1[^t-1]
 - 2\. Beni giusta l’allegato 2, 2a parte OBDI[^annex1-lvlu1-lvlu1-1] dal numero di controllo delle esportazioni codice 101–199.
 - 3\. Tutti i beni rimanenti che possono essere impiegati in relazione con sistemi di razzi e con veicoli aerei senza equipaggio, giusta il punto 3, e quelli contemplati dall’allegato 2, 2*a* parte OBDI, dall’allegato 3 OBDI e dall’allegato 1 dell’ordinanza del 25 febbraio 1998[^annex1-lvlu1-lvlu1-2] concernente il materiale bellico (OMB).
 
-[^annex1-lvlu1-lvlu1-1]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
-[^annex1-lvlu1-lvlu1-2]: [RS 514.511](https://fedlex.data.admin.ch/eli/cc/1998/808_808_808)
+[^annex1-lvlu1-lvlu1-1]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
+[^annex1-lvlu1-lvlu1-2]: [RS 514.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7527)
 
 Allegato 1a[^t-2]
 
@@ -493,7 +493,7 @@ Nel presente allegato s’intende per:
 <tr><td>ex 3901 20 ex 5402 39 ex 5402 49 ex 5402 59 ex 5402 69 ex 5404 90 ex 5407 20 ex 5501 90 ex 5503 90 ex 5506 90 ex 5601 30</td><td>Polietilene ad altissimo peso molecolare (UHMWPE), non sottoposto ad autorizzazione nell’allegato 2, parte 2, voce 1C010 o 1C210 OBDI, presentato in una delle forme seguenti: a. forme primarie; b. filati o monofilamenti; c. fasci di filamenti; d. fasci di fibre (rovings); e. fibre in fiocco o tagliate; f. tessuti; g. pasta o borre.</td></tr>
 </table>
 
-[^annex1a-lvlu1-lvlB-1]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^annex1a-lvlu1-lvlB-1]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 
 ### C. Categoria 2 – Trattamento e lavorazione di materiali
 
@@ -609,8 +609,8 @@ Allegato 2
 - 2\. Beni, tecnologie e software di cui all’allegato 2 parte 1 OBDI[^annex2-lvlu1-lvlA-2].
 - 3\. Beni, tecnologie e software di cui all’allegato 2 OBDI dal numero di controllo delle esportazioni codice 201-299.
 
-[^annex2-lvlu1-lvlA-1]: [RS 732.11](https://fedlex.data.admin.ch/eli/cc/2005/68)
-[^annex2-lvlu1-lvlA-2]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^annex2-lvlu1-lvlA-1]: [RS 732.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8533)
+[^annex2-lvlu1-lvlA-2]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 
 ### B. Altri beni
 
@@ -802,8 +802,8 @@ Allegato 3
 - 14 Dispositivi specificamente progettati per la produzione degli articoli di cui al presente elenco.
 - 15 Tecnologie specifiche destinate allo sviluppo, alla fabbricazione e all’utilizzo degli articoli di cui al presente elenco.
 
-[^annex3-lvlu1-1]: [RS 514.511](https://fedlex.data.admin.ch/eli/cc/1998/808_808_808)
-[^annex3-lvlu1-2]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352). L’all. 3 OBDI può essere consultato sul seguente indirizzo Internet: [www.seco.admin.ch](http://www.seco.admin.ch) &gt; Politica economica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Prodotti industriali e beni militari speciali &gt; Legge e elenchi dei beni.
+[^annex3-lvlu1-1]: [RS 514.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7527)
+[^annex3-lvlu1-2]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364). L’all. 3 OBDI può essere consultato sul seguente indirizzo Internet: [www.seco.admin.ch](http://www.seco.admin.ch) &gt; Politica economica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Prodotti industriali e beni militari speciali &gt; Legge e elenchi dei beni.
 
 Allegato 4
 
@@ -867,8 +867,8 @@ Allegato 6[^t-4]
 
 [^annex6-lvlu1-1]
 
-[^t-4]: Aggiornato dalla cifra I delle O del DEFR del 27 gen. 2016 ([RU 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57)), del 17 mag. 2016 ([RU 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), del 31 ott. 2016 ([RU 2016 3699](https://fedlex.data.admin.ch/eli/oc/2016/623)), del 26 gen. 2017 ([RU 2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59)), del 19 giu. 2018 ([RU 2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349)), del 17 giu. 2019 ([RU 2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346)), del 29 nov. 2019 ([RU 2019 4093](https://fedlex.data.admin.ch/eli/oc/2019/714)), del 6 lug. 2020 ([RU 2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515)), del 26 nov. 2020 ([RU 2020 4933](https://fedlex.data.admin.ch/eli/oc/2020/878)), del 17 ago. 2021 ([RU 2021 491](https://fedlex.data.admin.ch/eli/oc/2021/491)), del 2 ago. 2022 ([RU 2022 435](https://fedlex.data.admin.ch/eli/oc/2022/435)), del 10 mag. 2023 ([RU 2023 227](https://fedlex.data.admin.ch/eli/oc/2023/227)), del 25 ott. 2023 ([RU 2023 606](https://fedlex.data.admin.ch/eli/oc/2023/606)), del 15 ago. 2024 ([RU 2024 422](https://fedlex.data.admin.ch/eli/oc/2024/422)) e dalla cifra II cpv. 2 dell’O del 2 apr. 2025, in vigore dal 3 apr. 2025 ([RU 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
-[^annex6-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/422](https://fedlex.data.admin.ch/eli/oc/2024/422) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-4]: Aggiornato dalla cifra I delle O del DEFR del 27 gen. 2016 ([RU 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57)), del 17 mag. 2016 ([RU 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), del 31 ott. 2016 ([RU 2016 3699](https://fedlex.data.admin.ch/eli/oc/2016/623)), del 26 gen. 2017 ([RU 2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59)), del 19 giu. 2018 ([RU 2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349)), del 17 giu. 2019 ([RU 2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346)), del 29 nov. 2019 ([RU 2019 4093](https://fedlex.data.admin.ch/eli/oc/2019/714)), del 6 lug. 2020 ([RU 2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515)), del 26 nov. 2020 ([RU 2020 4933](https://fedlex.data.admin.ch/eli/oc/2020/878)), del 17 ago. 2021 ([RU 2021 491](https://fedlex.data.admin.ch/eli/oc/2021/491)), del 2 ago. 2022 ([RU 2022 435](https://fedlex.data.admin.ch/eli/oc/2022/435)), del 10 mag. 2023 ([RU 2023 227](https://fedlex.data.admin.ch/eli/oc/2023/227)), del 25 ott. 2023 ([RU 2023 606](https://fedlex.data.admin.ch/eli/oc/2023/606)), del 15 ago. 2024 ([RU 2024 422](https://fedlex.data.admin.ch/eli/oc/2024/422)), dalla cifra II cpv. 2 dell’O del 2 apr. 2025 ([RU 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)) e dalla cifra I dell’O del DEFR del 18 ago. 2025, in vigore dal 20 ago. 2025 ([RU 2025 514](https://fedlex.data.admin.ch/eli/oc/2025/514)).
+[^annex6-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/514](https://fedlex.data.admin.ch/eli/oc/2025/514) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 6a[^t-5]
 
@@ -878,8 +878,8 @@ Allegato 6a[^t-5]
 
 [^annex6a-lvlu1-1]
 
-[^t-5]: Introdotto dalla cifra I dell’O del 29 set. 2023 ([RU 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)). Aggiornato dalla cifra I dell’O del DEFR del 20 dic. 2023 ([RU 2023 817](https://fedlex.data.admin.ch/eli/oc/2023/817)), dalle cifre I cpv. 2 dell’O del 6 nov. 2024 ([RU 2024 616](https://fedlex.data.admin.ch/eli/oc/2024/616)), dall’O del DEFR del 17 gen. 2025 ([RU 2025 41](https://fedlex.data.admin.ch/eli/oc/2025/41)) e dalla cifra II cpv. 2 dell’O del 2 apr. 2025, in vigore dal 3 apr. 2025 ([RU 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
-[^annex6a-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/41](https://fedlex.data.admin.ch/eli/oc/2025/41) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-5]: Introdotto dalla cifra I dell’O del 29 set. 2023 ([RU 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)). Aggiornato dalla cifra I dell’O del DEFR del 20 dic. 2023 ([RU 2023 817](https://fedlex.data.admin.ch/eli/oc/2023/817)), dalle cifre I cpv. 2 dell’O del 6 nov. 2024 ([RU 2024 616](https://fedlex.data.admin.ch/eli/oc/2024/616)), dall’O del DEFR del 17 gen. 2025 ([RU 2025 41](https://fedlex.data.admin.ch/eli/oc/2025/41)) e dalla cifra II cpv. 2 dell’O del 2 apr. 2025 ([RU 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)) e dalla cifra I dell’O del DEFR del 18 ago. 2025, in vigore dal 20 ago. 2025 ([RU 2025 514](https://fedlex.data.admin.ch/eli/oc/2025/514)).
+[^annex6a-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/514](https://fedlex.data.admin.ch/eli/oc/2025/514) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 7[^t-6]
 

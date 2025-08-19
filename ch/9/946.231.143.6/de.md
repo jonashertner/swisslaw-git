@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: Verordnung vom 11. November 2015 über Massnahmen gegenüber der Islamischen Republik Iran
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: de
-version: 2025-04-24
+version: 2025-08-20
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20250424/de/xml/fedlex-data-admin-ch-eli-cc-2016-15-20250424-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20250424/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20250820/de/xml/fedlex-data-admin-ch-eli-cc-2016-15-20250820-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20250820/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber der Islamischen Republik Iran
 
-vom 11. November 2015 (Stand am 24. April 2025)
+vom 11. November 2015 (Stand am 20. August 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -22,7 +22,7 @@ gestützt auf Artikel 2 des Embargogesetzes vom 22. März 2002[^ingress-1] (EmbG
 
 verordnet:
 
-[^ingress-1]: [SR 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-1]: [SR 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 
 ## 1. Abschnitt: Begriffe
 
@@ -113,9 +113,9 @@ Das Staatssekretariat für Wirtschaft (SECO) erteilt die Bewilligung für Güter
 
 [^3-1]: <sup>3</sup> Der Text des Gemeinsamen umfassenden Aktionsplans ist in Anhang A der Resolution 2231 (2015) des Sicherheitsrats der Vereinten Nationen enthalten. Die Resolution ist auf Französisch und Englisch abrufbar unter: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
 [^3-2]: Fassung gemäss Ziff. I 9 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
-[^3-3]: [SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
-[^3-4]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([[AS 2004 4929](https://www.admin.ch/opc/de/official-compilation/2004/4929.pdf)](https://fedlex.data.admin.ch/eli/oc/2004/745)) auf den 1. Juli 2016 angepasst.
-[^3-5]: Die Richtlinien der Gruppe der Nuklearlieferländer sind im Internet unter folgender Adresse einsehbar: [www.nuclearsuppliersgroup.org](http://www.nuclearsuppliersgroup.org/de/) &gt; Richtlinien
+[^3-3]: [SR 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
+[^3-4]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ( [[AS 2004 4929](https://www.admin.ch/opc/de/official-compilation/2004/4929.pdf)](https://fedlex.data.admin.ch/eli/oc/2004/745)) auf den 1. Juli 2016 angepasst.
+[^3-5]: Die Richtlinien der Gruppe der Nuklearlieferländer sind im Internet unter folgender Adresse einsehbar: [ww w . n uclearsup p li e rsgroup.org](http://www.nuclearsuppliersgroup.org/de/) &gt; Richtlinien
 [^3-6]: Fassung gemäss Ziff. I der V vom 18. Mai 2016, in Kraft seit 18. Mai 2016 ([AS 2016 1479](https://fedlex.data.admin.ch/eli/oc/2016/282)).
 [^3-7]: Eingefügt durch Ziff. I der V vom 18. Mai 2016, in Kraft seit 18. Mai 2016 ([AS 2016 1479](https://fedlex.data.admin.ch/eli/oc/2016/282)).
 [^3-8]: Eingefügt durch Ziff. I der V vom 18. Mai 2016, in Kraft seit 18. Mai 2016 ([AS 2016 1479](https://fedlex.data.admin.ch/eli/oc/2016/282)).
@@ -156,8 +156,8 @@ Das SECO kann, nach Rücksprache mit den zuständigen Stellen des Eidgenössisch
 
 <sup>4</sup> Das SECO bewilligt Ausnahmen von den Verboten nach den Absätzen 1 und 2 im Verfahren nach Artikel 27[^5-1] GKV[^5-2], sofern sichergestellt ist, dass die betroffenen Güter und Dienstleistungen nicht zum Überwachen und Abhören des Internets und des Telefonverkehrs benützt werden.
 
-[^5-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Juli 2016 angepasst.
-[^5-2]: [SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^5-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Juli 2016 angepasst.
+[^5-2]: [SR 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 
 ## 3. Abschnitt: Finanzierungs- und Beteiligungsbeschränkungen
 
@@ -184,8 +184,8 @@ Unternehmen, die mit iranischen Personen oder Organisationen Vereinbarungen übe
 
 <sup>4</sup> Sofern dies aufgrund der Resolution 2231 (2015)[^6-5] des Sicherheitsrats der Vereinten Nationen erforderlich ist, holt das SECO die Stellungnahme des Sicherheitsrats der Vereinten Nationen oder der Gemeinsamen Kommission nach dem JCPOA ein.[^6-6]
 
-[^6-1]: [SR 732.11](https://fedlex.data.admin.ch/eli/cc/2005/68)
-[^6-2]: [SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352); der Inhalt von Anhang 2 GKV kann im Internet abgerufen werden unter: www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Industrieprodukte und besondere militärische Güter &gt; Rechtliche Grundlagen und Güterlisten.
+[^6-1]: [SR 732.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8533)
+[^6-2]: [SR 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364); der Inhalt von Anhang 2 GKV kann im Internet abgerufen werden unter: www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Industrieprodukte und besondere militärische Güter &gt; Rechtliche Grundlagen und Güterlisten.
 [^6-3]: Der Text des Gemeinsamen umfassenden Aktionsplans ist in Anhang A der Resolution 2231 (2015) des Sicherheitsrats der Vereinten Nationen enthalten. Die Resolution ist auf Französisch und Englisch abrufbar unter: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt;Sanctions &gt; Comité des sanctions &gt; Résolutions.
 [^6-4]: Fassung gemäss Ziff. I 9 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 [^6-5]: <sup>26</sup> Die Resolution ist auf Französisch und Englisch abrufbar unter: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt;Sanctions &gt; Comité des sanctions &gt; Résolutions.
@@ -277,7 +277,7 @@ Die Sperrung nach Artikel 7 Absatz 1 Buchstabe b und das Verbot nach Artikel 7 A
 
 [^7a-1]: Eingefügt durch Ziff. I der V vom 2. April 2025, in Kraft seit 3. April 2025 ([AS 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
 [^7a-2]: Berichtigung vom 7. April 2025 ([AS 2025 231](https://fedlex.data.admin.ch/eli/oc/2025/231)).
-[^7a-3]: [SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
+[^7a-3]: [SR 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)
 [^7a-4]: Berichtigung vom 7. April 2025 ([AS 2025 231](https://fedlex.data.admin.ch/eli/oc/2025/231)).
 [^7a-5]: Berichtigung vom 7. April 2025 ([AS 2025 231](https://fedlex.data.admin.ch/eli/oc/2025/231)).
 
@@ -368,7 +368,7 @@ Es ist verboten, Forderungen der folgenden natürlichen Personen, Unternehmen un
 
 <sup>4</sup> Die zuständigen Behörden ergreifen auf Anweisung des SECO die für die Sperrung wirtschaftlicher Ressourcen notwendigen Massnahmen wie die Anmerkung einer Verfügungssperre im Grundbuch oder die Pfändung oder Versiegelung von Luxusgütern.
 
-[^12-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^12-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 13
 
@@ -432,8 +432,8 @@ Anhang 1[^t-1]
 - 2\. Güter nach Anhang 2 Teil 2 der GKV[^annex1-lvlu1-lvlu1-1] mit den Kontrollregime-Codes 101‑199.
 - 3\. Alle übrigen Güter, die im Zusammenhang mit Raketen- und unbemannten Luftfahrzeugsystemen verwendet werden können und die von Anhang 2 Teil 2 GKV, Anhang 3 GKV oder Anhang 1 der Kriegsmaterialverordnung vom 25. Februar 1998[^annex1-lvlu1-lvlu1-2] (KMV) erfasst werden.
 
-[^annex1-lvlu1-lvlu1-1]: [SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
-[^annex1-lvlu1-lvlu1-2]: [SR 514.511](https://fedlex.data.admin.ch/eli/cc/1998/808_808_808)
+[^annex1-lvlu1-lvlu1-1]: [SR 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
+[^annex1-lvlu1-lvlu1-2]: [SR 514.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7527)
 
 Anhang 1a[^t-2]
 
@@ -489,7 +489,7 @@ In diesem Anhang bedeuten:
 <tr><td>ex 3901 20 ex 5402 39 ex 5402 49 ex 5402 59 ex 5402 69 ex 5404 90 ex 5407 20 ex 5501 90 ex 5503 90 ex 5506 90 ex 5601 30</td><td>Ultra-hochmolekulares Polyethylen (UHMWPE), nicht von Anhang 2 Teil 2 Ziffer 1C010 oder 1C210 GKV erfasst, in einer der folgenden Formen: a. Primärformen; b. Filamentgarne oder Einzelfäden; c. Kabel aus Filamenten; d. Filamentstränge (Rovings); e. Stapelfasern oder geschnittene Fasern; f. Gewebe (Stoffe); g. Pulpe oder Flock.</td></tr>
 </table>
 
-[^annex1a-lvlu1-lvlB-1]: [SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^annex1a-lvlu1-lvlB-1]: [SR 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 
 ### C. Kategorie 2 – Werkstoffbearbeitung
 
@@ -514,11 +514,11 @@ In diesem Anhang bedeuten:
 <tr><td>8532 21</td><td>Tantalkondensatoren</td></tr>
 <tr><td>8532 22</td><td>Aluminium-Elektrolytkondensatoren</td></tr>
 <tr><td>8532 24</td><td>Mehrschichtige Keramikkondensatoren</td></tr>
-<tr><td>ex 8536 69 ex 8536 90</td><td>Elektrische Stecker, Verbindungselemente, Buchsen, Jumper, Anschlüsse, Sockel oder Adapter mit einer der folgenden Eigenschaften: a. ausgelegt für eine Betriebstemperatur über 398 K (125 °C); b. ausgelegt für eine Betriebstemperatur unter 218 K (–55 °C); oder c. ausgelegt für einen Betriebstemperaturbereich von 218 K (–55 °C) bis 398 K (125 °C).</td></tr>
+<tr><td>ex 8536 69 ex 8536 90</td><td>Elektrische Stecker, Verbindungselemente, Buchsen, Jumper, Anschlüsse, Sockel oder Adapter mit einer der folgenden Eigenschaften: ausgelegt für eine Betriebstemperatur über 398 K (125 °C); ausgelegt für eine Betriebstemperatur unter 218 K (–55 °C); oder ausgelegt für einen Betriebstemperaturbereich von 218 K (–55 °C) bis 398 K (125 °C).</td></tr>
 <tr><td>ex 8541 10 ex 8541 21 ex 8541 29 ex 8541 30 ex 8541 49 ex 8541 51 ex 8541 59</td><td>Halbleiterbauelemente, die den Militärstandard MIL-STD-750D oder einen anderen gleichwertigen Standard erfüllen. Technische Anmerkung Für den vorliegenden Zweck sind Halbleiterbauelemente elektronische Bauteile, die auf die elektronischen Eigenschaften eines Halbleitermaterials angewiesen sind, wie Dioden, Transducer, lichtempfindliche Halbleiterbauelemente, Thyristoren, Diacs, Triacs oder Transistoren, einschliesslich Feldeffekttransistoren in MOS-Technik (MOSFET), FETs, FinFETs, IGBT.</td></tr>
 <tr><td>8541 60</td><td>Gefasste oder montierte piezoelektrische Kristalle</td></tr>
 <tr><td>ex 8542 31 ex 8542 39</td><td>Integrierte Schaltungen wie folgt: anwenderprogrammierbares Logikgatter (Field Programmable Gate Array, FPGA), Mikrocontroller, Mikroprozessoren, Signalprozessoren, Signalanalysatoren, Analog-Digital-Wandler (ADC), Spannungsregler, Video-Encoder und Gleichstrom-Gleichstrom-Wandler</td></tr>
-<tr><td>ex 8542 32</td><td>Speicherschaltungen wie folgt: a. elektrisch programmierbare und löschbare Festwertspeicher (EEPROM) mit Speicherkapazität von: 1. mehr als 16 Mbit pro Paket für Flash-Speicher-Typen, oder 2. mehr als einem der folgenden Grenzwerte für alle anderen EEPROM-Typen:  mehr als 1 Mbit pro Paket, oder  mehr als 256 kbit pro Paket und maximale Zugriffszeit kleiner als 80 ns; b. statische Schreib-Lese-Speicher (SRAM) mit einer Speicherkapazität von: 1. mehr als 1 Mbit pro Paket, oder 2. mehr als 256 kbit pro Paket und maximale Zugriffszeit kleiner als 25 ns.</td></tr>
+<tr><td>ex 8542 32</td><td>Speicherschaltungen wie folgt: a. elektrisch programmierbare und löschbare Festwertspeicher (EEPROM) mit Speicherkapazität von: 1. mehr als 16 Mbit pro Paket für Flash-Speicher-Typen, oder 2. mehr als einem der folgenden Grenzwerte für alle anderen EEPROM-Typen: mehr als 1 Mbit pro Paket, oder mehr als 256 kbit pro Paket und maximale Zugriffszeit kleiner als 80 ns; b. statische Schreib-Lese-Speicher (SRAM) mit einer Speicherkapazität von: 1. mehr als 1 Mbit pro Paket, oder 2. mehr als 256 kbit pro Paket und maximale Zugriffszeit kleiner als 25 ns.</td></tr>
 <tr><td>ex 8542 33 ex 8543 70</td><td>MMIC-Verstärker und -Geräte</td></tr>
 <tr><td>ex 8548 00</td><td>HF- oder EMI-Abschirmung gegen elektromagnetische Interferenzen, geeignet für Luftfahrzeuge</td></tr>
 <tr><td>ex 9030 31 ex 9030 32 ex 9030 33 ex 9030 39 ex 9030 84 ex 9030 89 ex 9031 49 ex 9031 80</td><td>Automatische optische Prüfausrüstung zum Testen von gedruckten Schaltungen (PCB) auf der Grundlage optischer oder elektrischer Sensoren, die Qualitätsmängel hinsichtlich einer der folgenden Punkte erkennen können: a. Abstände, Fläche, Volumen oder Höhe; b. Billboarding; c. Bauteile (vorhanden, nicht vorhanden, gedreht, versetzt, Polarität, schief); d. Lot (Lötbrückenbildung, mangelhafte Lötfugen); e. Verbindungen (unzureichende Paste, Abheben); f. Tombstoning; oder g. elektrischer Test (Kurzschlüsse, geöffnete Kontakte, Widerstand, Kapazität, Leistung, Netzleistung).</td></tr>
@@ -605,8 +605,8 @@ Anhang 2
 - 2\. Güter, Technologie und Software nach Anhang 2 Teil 1 GKV[^annex2-lvlu1-lvlA-2].
 - 3\. Güter, Technologie und Software nach Anhang 2 GKV mit den Kontrollregime-Codes Nummern 201‑299.
 
-[^annex2-lvlu1-lvlA-1]: [SR 732.11](https://fedlex.data.admin.ch/eli/cc/2005/68)
-[^annex2-lvlu1-lvlA-2]: [SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^annex2-lvlu1-lvlA-1]: [SR 732.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8533)
+[^annex2-lvlu1-lvlA-2]: [SR 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 
 ### B. Sonstige Güter
 
@@ -663,7 +663,7 @@ Anhang 2
 <tr><td colspan="2">II.A2.003</td><td colspan="2">Auswuchtmaschinen und zugehörige Ausrüstung wie folgt: a) Auswuchtmaschinen, konstruiert oder geändert für zahnmedizinische oder andere medizinische Ausrüstung, mit allen folgenden Eigenschaften: 1. nicht geeignet zum Auswuchten von Rotoren/ Baugruppen mit einer Masse grösser als 3 kg, 2. geeignet zum Auswuchten von Rotoren/Baugruppen bei Drehzahlen grösser als 12 500 U/min, 3. geeignet zur Korrektur von Unwuchten in zwei oder mehr Ebenen; und 4. geeignet zum Auswuchten bis zu einer spezifischen Restunwucht von 0,2 g mm/kg der Rotormasse; b) Messgeräte (indicator heads), konstruiert oder geändert für den Einsatz in Maschinen, erfasst in Unternummer a. *Technische Anmerkung*: Indicator heads werden auch als balancing instrumentation bezeichnet.</td><td colspan="2">2B119</td></tr>
 <tr><td colspan="2">II.A2.004</td><td colspan="2">Fernlenk-Manipulatoren, die für ferngesteuerte Tätigkeiten bei radiochemischen Trennprozessen oder in Heissen Zellen eingesetzt werden können, soweit nicht in Nummer 2B225 erfasst, mit einer der folgenden Eigenschaften: a) Eignung zur Durchdringung der Wand einer Heissen Zelle mit einer Dicke grösser/gleich 0,3 m (Durch-die-Wand-Modifikation); oder b) Eignung zur Überbrückung der Wand einer Heissen Zelle mit einer Dicke grösser/gleich 0,3 m (Über-die-Wand-Modifikation).</td><td colspan="2">2B225</td></tr>
 <tr><td colspan="2">II.A2.006</td><td colspan="2">Öfen, geeignet für Betriebstemperaturen grösser als 400 °C, wie folgt: a) Oxydationsöfen; b) Mit kontrollierter Atmosphäre betriebene Wärmebehandlungsöfen. *Anmerkung:* Diese Nummer erfasst nicht Tunnelöfen mit Rollenbahn oder Wagen, Tunnelöfen mit Förderband, Durchschuböfen oder Herdwagenöfen, die für die Herstellung von Glas, Tischgeschirr aus Keramik oder Strukturkeramik konstruiert wurden.</td><td colspan="2">2B226 2B227</td></tr>
-<tr><td colspan="2">II.A2.007</td><td colspan="2">«Druckmessgeräte», soweit nicht in Nummer 2B230 erfasst, geeignet zum Messen von Absolutdrücken im Bereich von 0 bis 200 kPa, mit beiden folgenden Eigenschaften: a) Drucksensoren, hergestellt aus oder geschützt durch «gegen Korrosion durch Uranhexafluorid (UF 6 )-resistente Werkstoffe»; und b) mit einer der folgenden Eigenschaften: 1. Messbereich kleiner als 200 kPa und «Messgenauigkeit» kleiner (besser) als ± 1 % vom Skalenendwert; oder 2. Messbereich grösser/gleich 200 kPa und «Messgenauigkeit» kleiner (besser) als 2 kPa. [tab]</td><td colspan="2">2B230</td></tr>
+<tr><td colspan="2">II.A2.007</td><td colspan="2">«Druckmessgeräte», soweit nicht in Nummer 2B230 erfasst, geeignet zum Messen von Absolutdrücken im Bereich von 0 bis 200 kPa, mit beiden folgenden Eigenschaften: a) Drucksensoren, hergestellt aus oder geschützt durch «gegen Korrosion durch Uranhexafluorid (UF 6 )-resistente Werkstoffe»; und b) mit einer der folgenden Eigenschaften: 1. Messbereich kleiner als 200 kPa und «Messgenauigkeit» kleiner (besser) als ± 1 % vom Skalenendwert; oder 2. Messbereich grösser/gleich 200 kPa und «Messgenauigkeit» kleiner (besser) als 2 kPa.</td><td colspan="2">2B230</td></tr>
 <tr><td colspan="2">II.A2.008</td><td colspan="2">Flüssig-flüssig Kontakt-Ausrüstung (Mischer-Abscheider, Pulsationskolonnen und Zentrifugalextraktoren) und Flüssigkeitsverteiler, Dampfverteiler oder Flüssigkeitssammler, konstruiert für solche Ausrüstung, bei denen die medienberührenden Flächen ganz aus einem der folgenden Werkstoffe bestehen: ANMERKUNG: SIEHE AUCH ZIFFER II.A2.014. 1. rostfreier Stahl. *Anmerkung:* Für rostfreien Stahl mit mehr als 25 Gew.-% Nickel und 20 Gew.-% Chrom siehe Nummer II.A2.014.a</td><td colspan="2">2B350e</td></tr>
 <tr><td colspan="2">II.A2.009</td><td colspan="2">Industrielle Geräte und Bestandteile, soweit nicht in Unternummer 2B350d erfasst, wie folgt: ANMERKUNG: SIEHE AUCH ZIFFER II.A2.015 Wärmetauscher oder Kondensatoren mit einer Wärmeaustauschfläche grösser als 0,05 m<sup>2</sup> und kleiner als 30 m<sup>2</sup> sowie für solche Wärmetauscher oder Kondensatoren konstruierte Rohre, Platten, Coils oder Blöcke, bei denen die medienberührenden Flächen ganz aus einem der folgenden Werkstoffe bestehen: [tab] 1. rostfreier Stahl. *Anmerkung 1:* Für rostfreien Stahl mit mehr als 25 Gew.-% Nickel und 20 Gew.-% Chrom siehe Nummer II.A2.015.a *Anmerkung 2:* Diese Nummer erfasst nicht Fahrzeugkühler. *Technische Anmerkung:* Die für Dichtungen und Verschlüsse und weitere Verschlussfunktionen verwendeten Materialien bestimmen nicht den Kontrollstatus des Wärmetauschers.</td><td colspan="2">2B350d</td></tr>
 <tr><td colspan="2">II.A2.010</td><td colspan="2">Pumpen mit Mehrfachdichtung und dichtungslose Pumpen, soweit nicht in Unternummer 2B350i erfasst, geeignet für korrodierende Flüssigkeiten, mit einer vom Hersteller angegebenen maximalen Förderleistung grösser als 0,6 m<sup>3</sup>/h oder Vakuumpumpen mit einer vom Hersteller angegebenen maximalen Förderleistung grösser als 5 m<sup>3</sup>/h (jeweils unter Standard-Bedingungen von 273 K (0 °C) und 101,3 kPa) sowie für solche Pumpen konstruierte Pumpengehäuse, vorgeformte Gehäuseauskleidungen, Laufräder, Rotoren oder Strahlpumpendüsen, bei denen die medienberührenden Flächen ganz aus den folgenden Materialien bestehen: ANMERKUNG: SIEHE AUCH ZIFFER II.A2.016. 1. rostfreier Stahl. *Anmerkung:* Für rostfreien Stahl mit mehr als 25 Gew.-% Nickel und 20 Gew.-% Chrom siehe Nummer II.A2.016.a. *Technische Anmerkung:* Die für Dichtungen und Verschlüsse und weitere Verschlussfunktionen verwendeten Materialien bestimmen nicht den Kontrollstatus der Pumpe.</td><td colspan="2">2B350i</td></tr>
@@ -798,8 +798,8 @@ Anhang 3
 - 14 Ausrüstung, besonders konstruiert für die Herstellung der in dieser Liste aufgeführten Güter.
 - 15 Spezifische Technologie zur Entwicklung, Herstellung oder Verwendung der in dieser Liste aufgeführten Güter.
 
-[^annex3-lvlu1-1]: [SR 514.511](https://fedlex.data.admin.ch/eli/cc/1998/808_808_808)
-[^annex3-lvlu1-2]: [SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352). Anhang 3 GKV ist auf folgender Internetseite zu finden: www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Industrieprodukte und besondere militärische Güter &gt; Rechtliche Grundlagen und Güterlisten.
+[^annex3-lvlu1-1]: [SR 514.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7527)
+[^annex3-lvlu1-2]: [SR 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364). Anhang 3 GKV ist auf folgender Internetseite zu finden: www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Industrieprodukte und besondere militärische Güter &gt; Rechtliche Grundlagen und Güterlisten.
 
 Anhang 4
 
@@ -863,8 +863,8 @@ Anhang 6[^t-4]
 
 [^annex6-lvlu1-1]
 
-[^t-4]: Bereinigt gemäss Ziff. I der V des WBF vom 27. Jan. 2016 ([AS 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57)), vom 17. Mai 2016 ([AS 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), vom 31. Okt. 2016 ([AS 2016 3699](https://fedlex.data.admin.ch/eli/oc/2016/623)), vom 26. Jan. 2017 ([AS 2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59)), vom 19. Juni 2018 ([AS 2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349)), vom 17. Juni 2019 ([AS 2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346)), vom 29. Nov. 2019 ([AS 2019 4093](https://fedlex.data.admin.ch/eli/oc/2019/714)), vom 6. Juli 2020 ([AS 2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515)), vom 26. Nov. 2020 ([AS 2020 4933](https://fedlex.data.admin.ch/eli/oc/2020/878)), vom 17. Aug. 2021 ([AS 2021 491](https://fedlex.data.admin.ch/eli/oc/2021/491)), vom 2. Aug. 2022 ([AS 2022 435](https://fedlex.data.admin.ch/eli/oc/2022/435)), vom 10. Mai 2023 ([AS 2023 227](https://fedlex.data.admin.ch/eli/oc/2023/227)), vom 25. Okt. 2023 ([AS 2023 606](https://fedlex.data.admin.ch/eli/oc/2023/606)), vom 15. Aug. 2024 ([AS 2024 422](https://fedlex.data.admin.ch/eli/oc/2024/422)) und Ziff. II Abs. 2 der V vom 2. April 2025, in Kraft seit 3. April 2025 ([AS 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
-[^annex6-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/422](https://fedlex.data.admin.ch/eli/oc/2024/422) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-4]: Bereinigt gemäss Ziff. I der V des WBF vom 27. Jan. 2016 ([AS 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57)), vom 17. Mai 2016 ([AS 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), vom 31. Okt. 2016 ([AS 2016 3699](https://fedlex.data.admin.ch/eli/oc/2016/623)), vom 26. Jan. 2017 ([AS 2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59)), vom 19. Juni 2018 ([AS 2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349)), vom 17. Juni 2019 ([AS 2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346)), vom 29. Nov. 2019 ([AS 2019 4093](https://fedlex.data.admin.ch/eli/oc/2019/714)), vom 6. Juli 2020 ([AS 2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515)), vom 26. Nov. 2020 ([AS 2020 4933](https://fedlex.data.admin.ch/eli/oc/2020/878)), vom 17. Aug. 2021 ([AS 2021 491](https://fedlex.data.admin.ch/eli/oc/2021/491)), vom 2. Aug. 2022 ([AS 2022 435](https://fedlex.data.admin.ch/eli/oc/2022/435)), vom 10. Mai 2023 ([AS 2023 227](https://fedlex.data.admin.ch/eli/oc/2023/227)), vom 25. Okt. 2023 ([AS 2023 606](https://fedlex.data.admin.ch/eli/oc/2023/606)), vom 15. Aug. 2024 ([AS 2024 422](https://fedlex.data.admin.ch/eli/oc/2024/422)), Ziff. II Abs. 2 der V vom 2. April 2025 ([AS 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)) und Ziff. I der V des WBF vom 18. Aug. 2025, in Kraft seit 20. Aug. 2025 ([AS 2025 514](https://fedlex.data.admin.ch/eli/oc/2025/514)).
+[^annex6-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/514](https://fedlex.data.admin.ch/eli/oc/2025/514) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 6a[^t-5]
 
@@ -874,8 +874,8 @@ Anhang 6a[^t-5]
 
 [^annex6a-lvlu1-1]
 
-[^t-5]: Eingefügt durch Ziff. I der V vom 29. Sept. 2023 ([AS 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)). Bereinigt gemäss Ziff. I der V des WBF vom 20. Dez. 2023 ([AS 2023 817](https://fedlex.data.admin.ch/eli/oc/2023/817)), Ziff. I Abs. 2 der V vom 6. Nov. 2024 ([AS 2024 616](https://fedlex.data.admin.ch/eli/oc/2024/616)) und Ziff. I Abs. 2 der V des WBF vom 17. Jan. 2025 ([AS 2025 41](https://fedlex.data.admin.ch/eli/oc/2025/41)) und Ziff. II Abs. 2 der V vom 2. April 2025, in Kraft seit 3. April 2025 ([AS 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
-[^annex6a-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/41](https://fedlex.data.admin.ch/eli/oc/2025/41) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-5]: Eingefügt durch Ziff. I der V vom 29. Sept. 2023 ([AS 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)). Bereinigt gemäss Ziff. I der V des WBF vom 20. Dez. 2023 ([AS 2023 817](https://fedlex.data.admin.ch/eli/oc/2023/817)), Ziff. I Abs. 2 der V vom 6. Nov. 2024 ([AS 2024 616](https://fedlex.data.admin.ch/eli/oc/2024/616)) und Ziff. I Abs. 2 der V des WBF vom 17. Jan. 2025 ([AS 2025 41](https://fedlex.data.admin.ch/eli/oc/2025/41)), Ziff. II Abs. 2 der V vom 2. April 2025 ([AS 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)) und Ziff. I der V des WBF vom 18. Aug. 2025, in Kraft seit 20. Aug. 2025 ([AS 2025 514](https://fedlex.data.admin.ch/eli/oc/2025/514)).
+[^annex6a-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/514](https://fedlex.data.admin.ch/eli/oc/2025/514) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 7[^t-6]
 

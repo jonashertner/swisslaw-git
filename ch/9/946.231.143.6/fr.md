@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: "Ordonnance du 11 novembre 2015 instituant des mesures à l'encontre de la République islamique d'Iran"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: fr
-version: 2025-04-24
+version: 2025-08-20
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20250424/fr/xml/fedlex-data-admin-ch-eli-cc-2016-15-20250424-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20250424/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20250820/fr/xml/fedlex-data-admin-ch-eli-cc-2016-15-20250820-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20250820/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la République islamique d’Iran
 
-du 11 novembre 2015 (État le 24 avril 2025)
+du 11 novembre 2015 (État le 20 août 2025)
 
 Le Conseil fédéral suisse,
 
@@ -22,7 +22,7 @@ vu l’art. 2 de la loi du 22 mars 2002 sur les embargos (LEmb)[^ingress-1],
 
 arrête:
 
-[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 
 ## Section 1 Définitions
 
@@ -113,8 +113,8 @@ Le Secrétariat d’État à l’économie (SECO) accorde l’autorisation pour 
 
 [^3-1]: Le texte du Plan d’action global commun figure à l’annexe A de la résolution 2231 (2015) du Conseil de sécurité des Nations Unies. La résolution 2231 (2015) du Conseil de sécurité des Nations Unies peut être consultée à l’adresse suivante: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Documents &gt; Résolutions.
 [^3-2]: Nouvelle teneur selon le ch. I 9 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
-[^3-3]: Le renvoi a été adapté au 1<sup>er</sup> juil. 2016 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
-[^3-4]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^3-3]: Le renvoi a été adapté au 1<sup>er</sup> juil. 2016 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
+[^3-4]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 [^3-5]: Les directives du GFN sont accessibles en ligne à l’adresse: [www.nuclearsuppliersgroup.org/fr](http://www.nuclearsuppliersgroup.org/fr) &gt; Directives.
 [^3-6]: Nouvelle teneur selon le ch. I de l’O du 18 mai 2016, en vigueur depuis le 18 mai 2016 ([RO 2016 1479](https://fedlex.data.admin.ch/eli/oc/2016/282)).
 [^3-7]: Introduit par le ch. I de l’O du 18 mai 2016, en vigueur depuis le 18 mai 2016 ([RO 2016 1479](https://fedlex.data.admin.ch/eli/oc/2016/282)).
@@ -156,8 +156,8 @@ Le SECO peut, après avoir consulté les offices compétents du Département fé
 
 <sup>4</sup> Le SECO autorise des dérogations aux interdictions visées aux al. 1 et 2 dans le cadre de la procédure prévue à l’art. 27[^5-1] OCB[^5-2], dans la mesure où il est garanti que les biens et services concernés ne serviront pas à la surveillance ou à l’interception de communications téléphoniques ou Internet.
 
-[^5-1]: Le renvoi a été adapté au 1<sup>er</sup> juil. 2016 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
-[^5-2]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^5-1]: Le renvoi a été adapté au 1<sup>er</sup> juil. 2016 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
+[^5-2]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 
 ## Section 3 Restrictions au financement et à la prise de participation
 
@@ -184,8 +184,8 @@ L’entreprise ayant l’intention de conclure un accord avec une personne ou un
 
 <sup>4</sup> Pour autant que la résolution 2231 (2015)[^6-5] du Conseil de sécurité des Nations Unies le requière, le SECO sollicite la prise de position du Conseil de sécurité ou de la Commission conjointe du Plan d’action global commun.[^6-6]
 
-[^6-1]: [RS 732.11](https://fedlex.data.admin.ch/eli/cc/2005/68)
-[^6-2]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352). Le texte de l’annexe 2 peut être consulté sur le site du SECO à l’adresse: [www.seco.admin.ch](https://www.seco.admin.ch) &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Produits industriels et biens militaires spécifiques &gt; Bases légales et listes des biens.
+[^6-1]: [RS 732.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8533)
+[^6-2]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364). Le texte de l’annexe 2 peut être consulté sur le site du SECO à l’adresse: [www.seco.admin.ch](https://www.seco.admin.ch) &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Produits industriels et biens militaires spécifiques &gt; Bases légales et listes des biens.
 [^6-3]: Le texte du Plan d’action global commun figure à l’annexe A de la résolution 2231 (2015) du Conseil de sécurité des Nations Unies. La résolution 2231 (2015) du Conseil de sécurité des Nations Unies peut être consultée à l’adresse suivante: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Documents &gt; Résolutions.
 [^6-4]: Nouvelle teneur selon le ch. I 9 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 [^6-5]: La résolution du Conseil de sécurité des Nations Unies peut être consultée à l’adresse suivante: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
@@ -277,7 +277,7 @@ Le gel des avoirs et des ressources économiques prévu à l’art. 7, al. 1, le
 
 [^7a-1]: Introduit par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 3 avr. 2025 ([RO 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
 [^7a-2]: Erratum du 7 avr. 2025 ([RO 2025 231](https://fedlex.data.admin.ch/eli/oc/2025/231)).
-[^7a-3]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
+[^7a-3]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)
 [^7a-4]: Erratum du 7 avr. 2025 ([RO 2025 231](https://fedlex.data.admin.ch/eli/oc/2025/231)).
 [^7a-5]: Erratum du 7 avr. 2025 ([RO 2025 231](https://fedlex.data.admin.ch/eli/oc/2025/231)).
 
@@ -368,7 +368,7 @@ Il est interdit d’honorer les créances des personnes physiques, entreprises e
 
 <sup>4</sup> Sur instruction du SECO, les autorités compétentes prennent les mesures nécessaires au gel des ressources économiques, par exemple en procédant à la mention d’un blocage dans le registre foncier ou à la saisie ou à la mise sous scellé de biens de luxe.
 
-[^12-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^12-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 13
 
@@ -436,8 +436,8 @@ Annexe 1[^t-1]
 - 2 Les biens visés à l’annexe 2, partie 2, OCB[^annex1-lvlu1-lvlu1-1] avec numéros de liste portant les codes du régime de contrôle 101 à 199.
 - 3\. Tous les autres biens pouvant être utilisés en relation avec des systèmes de fusées et de véhicules aériens sans pilote et qui sont visés à l’annexe 2, partie 2, OCB, à l’annexe 3 OCB ou à l’annexe 1 de l’ordonnance du 25 février 1998 sur le matériel de guerre (OMG)[^annex1-lvlu1-lvlu1-2].
 
-[^annex1-lvlu1-lvlu1-1]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
-[^annex1-lvlu1-lvlu1-2]: [RS 514.511](https://fedlex.data.admin.ch/eli/cc/1998/808_808_808)
+[^annex1-lvlu1-lvlu1-1]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
+[^annex1-lvlu1-lvlu1-2]: [RS 514.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7527)
 
 Annexe 1a[^t-2]
 
@@ -493,7 +493,7 @@ On entend par:
 <tr><td>ex 3901 20 ex 5402 39 ex 5402 49 ex 5402 59 ex 5402 69 ex 5404 90 ex 5407 20 ex 5501 90 ex 5503 90 ex 5506 90 ex 5601 30</td><td>Polyéthylène à masse moléculaire ultra-haute (UHMWPE), non visé par l’annexe 2, partie 2, points 1C010 ou 1C210, OCB, présenté sous l’une des formes suivantes: a. formes primaires; b. fils de filaments ou monofilaments; c. câbles de filaments; d. cordons de filaments (rovings); e. fibres discontinues ou hachées; f. tissus; g. pulpe ou flocons.</td></tr>
 </table>
 
-[^annex1a-lvlu1-lvlB-1]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^annex1a-lvlu1-lvlB-1]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 
 ### C. Catégorie 2 – Traitement des matériaux
 
@@ -609,8 +609,8 @@ Annexe 2
 - 2\. Biens, technologies et logiciels visés à l’annexe 2, partie 1, OCB[^annex2-lvlu1-lvlA-2].
 - 3\. Biens, technologies et logiciels visés à l’annexe 2 OCB avec numéros de liste portant les codes du régime de contrôle 201 à 299.
 
-[^annex2-lvlu1-lvlA-1]: [RS 732.11](https://fedlex.data.admin.ch/eli/cc/2005/68)
-[^annex2-lvlu1-lvlA-2]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^annex2-lvlu1-lvlA-1]: [RS 732.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8533)
+[^annex2-lvlu1-lvlA-2]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 
 ### B. Autres biens
 
@@ -802,8 +802,8 @@ Annexe 3
 - 14 Équipements spécialement conçus pour la production des biens cités dans la présente liste.
 - 15 Technologies spécifiques requises pour la mise au point, la production ou l’utilisation des biens cités dans la présente liste.
 
-[^annex3-lvlu1-1]: [RS 514.511](https://fedlex.data.admin.ch/eli/cc/1998/808_808_808)
-[^annex3-lvlu1-2]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352). L’annexe 3 peut être consultée sur le site du SECO: [www.seco.admin.ch](https://www.seco.admin.ch) &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Produits industriels et biens militaires spécifiques &gt; Bases légales et listes des biens.
+[^annex3-lvlu1-1]: [RS 514.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7527)
+[^annex3-lvlu1-2]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364). L’annexe 3 peut être consultée sur le site du SECO: [www.seco.admin.ch](https://www.seco.admin.ch) &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Produits industriels et biens militaires spécifiques &gt; Bases légales et listes des biens.
 
 Annexe 4
 
@@ -819,13 +819,13 @@ Annexe 4
 - – Équipements de brouillage des réseaux et des satellites.
 - – Équipements d’infection à distance.
 - – Équipements de reconnaissance et de traitement de la voix.
-- – Équipements d’interception et de surveillance de:
+- Équipements d’interception et de surveillance de:
 - *IMSI (International Mobile Subscriber Identity)*: identité internationale d’abonné mobile. C’est le code d’identification unique de chaque appareil téléphonique mobile, qui est intégré dans la carte SIM et permet d’identifier celle-ci via les réseaux GSM et UMTS.
 - *MSISDN (**Mobile Subscriber Integrated Services Digital Network Number):* numéro de réseau numérique à intégration de services de l’abonné mobile. C’est un numéro identifiant de façon unique un abonnement à un réseau mobile GSM ou UMTS. Pour simplifier, c’est le numéro de téléphone attribué à la carte SIM d’un téléphone mobile, qui identifie donc un abonné mobile aussi bien que l’IMSI, mais dont le but est de permettre l’acheminement des appels.
 - *IMEI (International Mobile Equipment Identity)*: identité internationale de l’équipement mobile. C’est un numéro, d’ordinaire unique, permettant d’identifier les téléphones mobiles GSM, WCDMA et IDEN, ainsi que certains téléphones satellitaires. Il est généralement imprimé à l’intérieur du compartiment de la batterie du téléphone. L’interception (écoute téléphonique) peut être spécifiée au moyen du numéro IMEI, ainsi que par l’IMSI et le MSISDN.
 - *TMSI (Temporary Mobile Subscriber Identity)*: identité temporaire d’abonné mobile. C’est l’identité qui est la plus communément transmise entre le téléphone mobile et le réseau.
-- – Équipements tactiques d’interception et de surveillancede: SMS (Short Message System; service de messages courts), GSM (Global System for Mobile Communications; système mondial de communications mobiles), GPS (Global Positioning System; système de positionnement à capacité globale), GPRS (General Package Radio Service; service général de radiocommunication par paquets), UMTS (Universal Mobile Telecommunication System; système universel de télécommunications mobiles), CDMA (Code Division Multiple Access; accès multiple par différence de code), PSTN (Public Switch Telephone Network; réseau téléphonique public commuté).
-- – Équipements d’interception et de surveillance de données de DHCP (Dynamic Host Configuration Protocol; protocole de configuration dynamique d’hôte), SMTP (Simple Mail Transfer Protocol; protocole de transfert de courrier simple) et GTP (GPRS Tunneling Protocol; protocole tunnel GPRS).
+- Équipements tactiques d’interception et de surveillancede: SMS (Short Message System; service de messages courts), GSM (Global System for Mobile Communications; système mondial de communications mobiles), GPS (Global Positioning System; système de positionnement à capacité globale), GPRS (General Package Radio Service; service général de radiocommunication par paquets), UMTS (Universal Mobile Telecommunication System; système universel de télécommunications mobiles), CDMA (Code Division Multiple Access; accès multiple par différence de code), PSTN (Public Switch Telephone Network; réseau téléphonique public commuté).
+- Équipements d’interception et de surveillance de données de DHCP (Dynamic Host Configuration Protocol; protocole de configuration dynamique d’hôte), SMTP (Simple Mail Transfer Protocol; protocole de transfert de courrier simple) et GTP (GPRS Tunneling Protocol; protocole tunnel GPRS).
 - – Équipements de reconnaissance et de profilage de formes.
 - – Équipements de criminalistique.
 - – Équipements de traitement sémantique.
@@ -867,8 +867,8 @@ Annexe 6[^t-4]
 
 [^annex6-lvlu1-1]
 
-[^t-4]: Mise à jour par le ch. I des O du DEFR du 27 janv. 2016 ([RO 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57)), du 17 mai 2016 ([RO 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), du 31 oct. 2016 ([RO 2016 3699](https://fedlex.data.admin.ch/eli/oc/2016/623)), du 26 janv. 2017 ([RO 2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59)), du 19 juin 2018 ([RO 2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349)), du 17 juin 2019 ([RO 2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346)), du 29 nov. 2019 ([RO 2019 4093](https://fedlex.data.admin.ch/eli/oc/2019/714)), du 6 juil. 2020 ([RO 2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515)), du 26 nov. 2020 ([RO 2020 4933](https://fedlex.data.admin.ch/eli/oc/2020/878)), du 17 août 2021 ([RO 2021 491](https://fedlex.data.admin.ch/eli/oc/2021/491)), du 2 août 2022 ([RO 2022 435](https://fedlex.data.admin.ch/eli/oc/2022/435)), du 10 mai 2023 ([RO 2023 227](https://fedlex.data.admin.ch/eli/oc/2023/227)), du 25 oct. 2023 ([RO 2023 606](https://fedlex.data.admin.ch/eli/oc/2023/606)), du 15 août 2024 ([RO 2024 422](https://fedlex.data.admin.ch/eli/oc/2024/422)) et le ch. II al. 2 de l’O du 2 avr. 2025, en vigueur depuis le 3 avr. 2025 ([RO 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
-[^annex6-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/222](https://fedlex.data.admin.ch/eli/oc/2025/222) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-4]: Mise à jour par le ch. I des O du DEFR du 27 janv. 2016 ([RO 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57)), du 17 mai 2016 ([RO 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), du 31 oct. 2016 ([RO 2016 3699](https://fedlex.data.admin.ch/eli/oc/2016/623)), du 26 janv. 2017 ([RO 2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59)), du 19 juin 2018 ([RO 2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349)), du 17 juin 2019 ([RO 2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346)), du 29 nov. 2019 ([RO 2019 4093](https://fedlex.data.admin.ch/eli/oc/2019/714)), du 6 juil. 2020 ([RO 2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515)), du 26 nov. 2020 ([RO 2020 4933](https://fedlex.data.admin.ch/eli/oc/2020/878)), du 17 août 2021 ([RO 2021 491](https://fedlex.data.admin.ch/eli/oc/2021/491)), du 2 août 2022 ([RO 2022 435](https://fedlex.data.admin.ch/eli/oc/2022/435)), du 10 mai 2023 ([RO 2023 227](https://fedlex.data.admin.ch/eli/oc/2023/227)), du 25 oct. 2023 ([RO 2023 606](https://fedlex.data.admin.ch/eli/oc/2023/606)), du 15 août 2024 ([RO 2024 422](https://fedlex.data.admin.ch/eli/oc/2024/422)), le ch. II al. 2 de l’O du 2 avr. 2025 ([RO 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)) et le ch. I de l’O du DEFR du 18 août 2025, en vigueur depuis le 20 août 2025 ([RO 2025 514](https://fedlex.data.admin.ch/eli/oc/2025/514)).
+[^annex6-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/514](https://fedlex.data.admin.ch/eli/oc/2025/514) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 6a[^t-5]
 
@@ -878,8 +878,8 @@ Annexe 6a[^t-5]
 
 [^annex6a-lvlu1-1]
 
-[^t-5]: Introduite par le ch. I de l’O du 29 sept. 2023 ([RO 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)). Mise à jour par le ch. I de l’O du DEFR du 20 déc. 2023 ([RO 2023 817](https://fedlex.data.admin.ch/eli/oc/2023/817)), les ch. I al. 2 de l’O du 6 nov. 2024 ([RO 2024 616](https://fedlex.data.admin.ch/eli/oc/2024/616)) et de l’O du DEFR du 17 janv. 2025 ([RO 2025 41](https://fedlex.data.admin.ch/eli/oc/2025/41)) et le ch. II al. 2 de l’O du 2 avr. 2025, en vigueur depuis le 3 avr. 2025 ([RO 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
-[^annex6a-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/222](https://fedlex.data.admin.ch/eli/oc/2025/222) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-5]: Introduite par le ch. I de l’O du 29 sept. 2023 ([RO 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)). Mise à jour par le ch. I de l’O du DEFR du 20 déc. 2023 ([RO 2023 817](https://fedlex.data.admin.ch/eli/oc/2023/817)), les ch. I al. 2 de l’O du 6 nov. 2024 ([RO 2024 616](https://fedlex.data.admin.ch/eli/oc/2024/616)) et de l’O du DEFR du 17 janv. 2025 ([RO 2025 41](https://fedlex.data.admin.ch/eli/oc/2025/41)), le ch. II al. 2 de l’O du 2 avr. 2025 ([RO 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)) et le ch. I de l’O du DEFR du 18 août 2025, en vigueur depuis le 20 août 2025 ([RO 2025 514](https://fedlex.data.admin.ch/eli/oc/2025/514)).
+[^annex6a-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/514](https://fedlex.data.admin.ch/eli/oc/2025/514) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 7[^t-6]
 
