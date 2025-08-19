@@ -1,37 +1,36 @@
 ---
 canton: UR
 number: "20.2421"
-title: Gesetz über die Ergänzungsleistungen zur AHV/IV
+title: GESETZ über die Ergänzungsleistungen zur AHV/IV
 language: de
 version: 2008-01-01
+corrected: 2025-08-20
 version_adopted: 2007-11-25
 adopted: 2007-11-25
 in_force: 2008-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.2421"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/992/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/226/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über die Ergänzungsleistungen zur AHV/IV
+# GESETZ über die Ergänzungsleistungen zur AHV/IV
 
-Vom 25.11.2007 (Stand 01.01.2008)
+GESETZ über die Ergänzungsleistungen zur AHV/IV (vom 25. November 2007[^t-1]; Stand am 1. Januar 2008)
 
-Das Volk des Kantons Uri,
+Das Volk des Kantons Uri, gestützt auf Artikel 90 Absatz 1 der Kantonsverfassung[^t-2], beschliesst:
 
-gestützt auf Artikel 90 Absatz 1 der Kantonsverfassung (RB [1.1101](https://rechtsbuch.ur.ch/data/1.1101/de)),
+[^t-1]: AB vom 19. Oktober 2007
+[^t-2]: RB 1.1101
 
-beschliesst:
-
-## 1 Allgemeines
+### 1. Abschnitt: Allgemeines
 
 #### Artikel 1
 
-**Grundsatz**
+Grundsatz Der Kanton Uri gewährt Ergänzungsleistungen im Rahmen des Bundesgesetzes über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (ELG)<sup>3</sup>, soweit dieses Gesetz nicht weitergehende Leistungen vorsieht.
 
-<sup>1</sup> Der Kanton Uri gewährt Ergänzungsleistungen im Rahmen des Bundesgesetzes über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (ELG, SR [831.30](https://db.clex.ch/link/Bund/831.30/de)), soweit dieses Gesetz nicht weitergehende Leistungen vorsieht.
-
-## 2 Organisation und Verfahren
+### 2. Abschnitt: Organisation und Verfahren
 
 #### Artikel 2
 
@@ -43,23 +42,19 @@ beschliesst:
 
 #### Artikel 3
 
-**Verfahren**
-
-<sup>1</sup> Soweit das ELG nichts anderes bestimmt, richtet sich das Verfahren nach den Bestimmungen des Bundesgesetzes über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG, SR [830.1](https://db.clex.ch/link/Bund/830.1/de)).
+Verfahren Soweit das ELG nichts anderes bestimmt, richtet sich das Verfahren nach den Bestimmungen des Bundesgesetzes über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG)<sup>4</sup>.
 
 #### Artikel 4
 
-**Rechtsschutz**
+Rechtsschutz Für den Rechtsschutz gelten die Bestimmungen des ATSG.
 
-<sup>1</sup> Für den Rechtsschutz gelten die Bestimmungen des ATSG.
-
-## 3 Finanzierung
+### 3. Abschnitt: Finanzierung
 
 #### Artikel 5
 
-<sup>1</sup> Der Kanton übernimmt die nach Abzug der Bundesbeiträge verbleibenden Kosten.
+Der Kanton übernimmt die nach Abzug der Bundesbeiträge verbleibenden Kosten.
 
-## 4 Strafbestimmungen
+### 4. Abschnitt: Strafbestimmungen
 
 #### Artikel 6
 
@@ -67,13 +62,11 @@ beschliesst:
 
 <sup>2</sup> Das Strafverfahren richtet sich nach den Bestimmungen der kantonalen Strafrechtspflege.
 
-## 5 Schlussbestimmungen
+### 5. Abschnitt: Schlussbestimmungen
 
 #### Artikel 7
 
-**Subsidiäres Recht**
-
-<sup>1</sup> Soweit das Bundesrecht oder dieses Gesetz und die Ausführungsbestimmungen dazu nichts anderes vorsehen, finden die für die AHV geltenden Bestimmungen sinngemäss Anwendung.
+Subsidiäres Recht Soweit das Bundesrecht oder dieses Gesetz und die Ausführungsbestimmungen dazu nichts anderes vorsehen, finden die für die AHV geltenden Bestimmungen sinngemäss Anwendung.
 
 #### Artikel 8
 
@@ -85,18 +78,20 @@ beschliesst:
 
 #### Artikel 9
 
-**Aufhebung bisherigen Rechts**
+Aufhebung bisherigen Rechts Das Gesetz vom 19. Juni 1966 über die Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung<sup>5</sup> wird aufgehoben.
 
-<sup>1</sup> Das Gesetz vom 19. Juni 1966 über die Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung wird aufgehoben.
+**Artikel 10 Inkrafttreten**
 
-#### Artikel 10
+<sup>1</sup> Dieses Gesetz unterliegt der Volksabstimmung. Es ist vom Bund zu
 
-**Inkrafttreten**
+**genehmigen6.**
 
-<sup>1</sup> Dieses Gesetz unterliegt der Volksabstimmung. Es ist vom Bund zu genehmigen[^Artikel10-1].
+**Im Namen des Volkes**
+
+**Der Landammann: Dr. Markus Stalder Der Kanzleidirektor: Dr. Peter Huber**
 
 <sup>2</sup> Es tritt am 1. Januar 2008 in Kraft.
 
-[^Artikel10-1]: Vom Bund genehmig am 14. November 2007.
+## Weitere Fussnoten
 
-AB 19.10.2007
+- [6] Vom Bund genehmig am 14. November 2007.
