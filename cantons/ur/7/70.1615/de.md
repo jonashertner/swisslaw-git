@@ -1,30 +1,34 @@
 ---
 canton: UR
 number: "70.1615"
-title: Reglement über die Umsetzung von Härtefallmassnahmen für Unternehmen im Zusammenhang mit der COVID-19-Epidemie
+title: REGLEMENT über die Umsetzung von Härtefallmassnahmen für Unternehmen im Zusammenhang mit der COVID-19-Epidemie
 short: COVID-19-Härtefallreglement
 language: de
 version: 2022-02-10
+corrected: 2025-08-20
 version_adopted: 2022-02-08
 adopted: 2022-02-08
 in_force: 2022-02-10
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/70.1615"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/974/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/27/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über die Umsetzung von Härtefallmassnahmen für Unternehmen im Zusammenhang mit der COVID-19-Epidemie
+# REGLEMENT über die Umsetzung von Härtefallmassnahmen für Unternehmen im Zusammenhang mit der COVID-19-Epidemie
 
-(COVID-19-Härtefallreglement)
+REGLEMENT über die Umsetzung von Härtefallmassnahmen für Unternehmen im Zusammenhang mit der COVID-19-Epidemie (COVID-19-Härtefallreglement)
 
-Vom 08.02.2022 (Stand 10.02.2022)
+(vom 8. Februar 2022[^t-1]; Stand am 10. Februar 2022)
 
-Der Regierungsrat des Kantons Uri,
-
-gestützt auf Artikel 12 des Bundesgesetzes über die gesetzlichen Grundlagen für Verordnungen des Bundesrats zur Bewältigung der COVID-19-Epidemie (COVID-19-Gesetz, SR [818.102](https://db.clex.ch/link/Bund/818.102/de)), die Verordnung über Härtefallmassnahmen für Unternehmen in Zusammenhang mit der COVID-19-Epidemie (COVID-19-Härtefallverordnung, SR [951.262](https://db.clex.ch/link/Bund/951.262/de)), die Artikel 7, 14 und 15 des Wirtschaftsförderungsgesetzes (WFG, RB [70.1611](https://rechtsbuch.ur.ch/data/70.1611/de)) sowie Artikel 4 und 5 des kantonalen Erlasses über Härtefallmassnahmen für Unternehmen im Zusammenhang mit der COVID-19-Epidemie (COVID-19-Härtefallerlass, RB [70.1612](https://rechtsbuch.ur.ch/data/70.1612/de)),
+Der Regierungsrat des Kantons Uri, gestützt auf Artikel 12 des Bundesgesetzes über die gesetzlichen Grundlagen für Verordnungen des Bundesrats zur Bewältigung der COVID-19- Epidemie (COVID-19-Gesetz)[^t-2], die Verordnung über Härtefallmassnahmen für Unternehmen in Zusammenhang mit der CO-VID-19-Epidemie (COVID- 19-Härtefallverordnung)[^t-3], die Artikel 7, 14 und 15 des Wirtschaftsförderungsgesetzes (WFG)<sup>4</sup> sowie Artikel 4 und 5 des kantonalen Erlasses über Härtefallmassnahmen für Unternehmen im Zusammenhang mit der COVID- 19-Epidemie (COVID-19-Härtefallerlass)<sup>5</sup>
 
 beschliesst:
+
+[^t-1]: Ausserordentliche Veröffentlichung vom 10. Februar 2022
+[^t-2]: SR 818.102
+[^t-3]: SR 951.262
 
 #### Artikel 1
 
@@ -38,23 +42,29 @@ beschliesst:
 
 **Allgemeines**
 
-<sup>1</sup> Der Kanton Uri stellt nach Artikel 7 und 13 WFG sowie Artikel 12 COVID-19-Gesetz (SR [818.102](https://db.clex.ch/link/Bund/818.102/de)) und Artikel 2 kantonaler COVID-19-Härtefallerlass in Härtefällen finanzielle Leistungen für Unternehmen aus dem Wirtschaftsförderungsfonds zur Verfügung.
+<sup>1</sup> Der Kanton Uri stellt nach Artikel 7 und 13 WFG sowie Artikel 12 COVID- 19-Gesetz[^2-1] und Artikel 2 kantonaler COVID-19-Härtefallerlass in Härtefällen finanzielle Leistungen für Unternehmen aus dem Wirtschaftsförderungsfonds zur Verfügung.
 
 <sup>2</sup> Es besteht kein Rechtsanspruch auf Leistungen nach diesem Reglement.
 
 <sup>3</sup> Die Härtefallmassnahmen ergänzen die wirtschaftspolitischen Aktivitäten und Massnahmen des Bunds und des Kantons in Zusammenhang mit der Bekämpfung der wirtschaftlichen Folgen des Coronavirus (COVID-19).
 
+[^2-1]: SR 818.102
+
 #### Artikel 3
 
-**Härtefall: Grundsatz**
+**Härtefall**
 
-<sup>1</sup> Die Anforderungen, unter denen der Kanton Härtefallmassnahmen nach diesem Reglement gewährt, richten sich - unter Vorbehalt von Artikel 4 hiernach - nach der Covid-19-Härtefallverordnung (SR [951.262](https://db.clex.ch/link/Bund/951.262/de)).
+- a) Grundsatz
 
-<sup>2</sup> Anwendbar sind die Anforderungen an die Unternehmen nach Artikel 2 ff. COVID-19-Härtefallverordnung (SR [951.262](https://db.clex.ch/link/Bund/951.262/de)) sowie an die Ausgestaltung der Härtefallmassnahmen nach Artikel 7 ff. COVID-19-Härtefallverordnung (SR [951.262](https://db.clex.ch/link/Bund/951.262/de)).
+<sup>1</sup> Die Anforderungen, unter denen der Kanton Härtefallmassnahmen nach diesem Reglement gewährt, richten sich - unter Vorbehalt von Artikel 4 hiernach - nach der Covid-19-Härtefallverordnung[^3-1].
 
-#### Artikel 4
+<sup>2</sup> Anwendbar sind die Anforderungen an die Unternehmen nach Artikel 2 ff. COVID-19-Härtefallverordnung<sup>8</sup> sowie an die Ausgestaltung der Härtefallmassnahmen nach Artikel 7 ff. COVID-19-Härtefallverordnung<sup>9</sup>.
 
-**Härtefall: Ausnahme**
+[^3-1]: SR 951.262
+
+#### Artikel 4 b
+
+**) Ausnahme**
 
 <sup>1</sup> Sind die Anforderungen nach Artikel 3 nicht oder nur teilweise erfüllt, kann der Kanton in Ausnahmefällen Unternehmen gleichwohl Härtefallmassnahmen gewähren, sofern diese COVID-19-bedingt sind und eine betriebs- oder existenzbedrohende Situation besteht.
 
@@ -62,21 +72,23 @@ beschliesst:
 
 #### Artikel 5
 
-**Gesuch: Inhalt**
+**Gesuch**
+
+- a) Inhalt
 
 <sup>1</sup> Leistungen nach diesem Reglement werden nur auf schriftliches Gesuch hin ausgerichtet.
 
-<sup>2</sup> Gesuche sind mittels Formular an die Volkswirtschaftsdirektion Uri, Amt für Wirtschaft und öffentlichen Verkehr, Kontaktstelle Wirtschaft, einzureichen.
+2 Gesuche sind mittels Formular an die Volkswirtschaftsdirektion Uri, Amt für Wirtschaft und öffentlichen Verkehr, Kontaktstelle Wirtschaft, einzureichen.
 
 <sup>3</sup> Gesuche müssen einen Antrag und eine Begründung enthalten.
 
 <sup>4</sup> Gesuche werden nach Ablauf der Einreichefrist nach Artikel 6 bearbeitet und entschieden.
 
-#### Artikel 6
+#### Artikel 6 b
 
-**Gesuch: Frist**
+**) Frist**
 
-<sup>1</sup> Das Gesuch muss eingereicht werden bis am 31. März 2022.
+Das Gesuch muss eingereicht werden bis am 31. März 2022.
 
 #### Artikel 7
 
@@ -88,46 +100,62 @@ beschliesst:
 
 #### Artikel 8
 
-**Zuständigkeiten: Task Force Wirtschaft**
+**Zuständigkeiten**
+
+- a) Task Force Wirtschaft
 
 <sup>1</sup> Die Task Force Wirtschaft beurteilt die Gesuche. Sie leitet diese mit ihrer Beurteilung an den Regierungsrat weiter. Dieser entscheidet über die Härtefallmassnahmen.
 
 <sup>2</sup> Der Task Force Wirtschaft obliegen folgende Aufgaben:
 
-- a) Anwendung der Bestimmungen des kantonalen COVID-19-Härtefallerlasses, des vorliegenden Reglements sowie von Artikel 12 Covid-19-Gesetz (SR [818.102](https://db.clex.ch/link/Bund/818.102/de)) und der Covid-19-Härtefallverordnung (SR [951.262](https://db.clex.ch/link/Bund/951.262/de))
-- b) Beurteilung von Gesuchen und der Leistungsberechtigung nach Massgabe der Anforderungen für die Unternehmen nach Artikel 2 ff. COVID-19-Härtefallverordnung (SR [951.262](https://db.clex.ch/link/Bund/951.262/de)) und Artikel 4 kantonaler COVID-19-Härtefallerlass (RB [70.1612](https://rechtsbuch.ur.ch/data/70.1612/de))
-- c) Beurteilung der Art und Höhe der Beiträge der Härtefallmassnahmen nach Massgabe von Artikel 7 ff. COVID-19-Härtefallverordnung (SR [951.262](https://db.clex.ch/link/Bund/951.262/de)) und Artikel 3 kantonaler COVID-19-Härtefallerlass (RB [70.1612](https://rechtsbuch.ur.ch/data/70.1612/de))
-- d) Empfehlung betreffend Ausrichtung und Beschlussfassung von Unterstützungsleistungen an den Regierungsrat
-- e) Verfassen eines Abschlussberichts
+- Anwendung der Bestimmungen des kantonalen COVID-19-Härtefallerlasses, des vorliegenden Reglements sowie von Artikel 12 Covid-19- Gesetz[^8-1] und der Covid-19-Härtefallverordnung[^8-2];
+
+- Beurteilung von Gesuchen und der Leistungsberechtigung nach Massgabe der Anforderungen für die Unternehmen nach Artikel 2 ff. COVID- 19-Härtefallverordnung[^8-3] und Artikel 4 kantonaler COVID-19-Härtefallerlass[^8-4];
+
+- Beurteilung der Art und Höhe der Beiträge der Härtefallmassnahmen nach Massgabe von Artikel 7 ff. COVID-19-Härtefallverordnung<sup>14</sup> und Artikel 3 kantonaler COVID-19-Härtefallerlass<sup>15</sup>;
+
+- Empfehlung betreffend Ausrichtung und Beschlussfassung von Unterstützungsleistungen an den Regierungsrat;
+
+- Verfassen eines Abschlussberichts.
 
 <sup>3</sup> Sie kann im Rahmen des gesetzlichen Spielraums weitere Richtlinien erlassen.
 
 <sup>4</sup> Sie kann Dritte für die Unterstützung bei der Gesuchbearbeitung beauftragen.
 
-#### Artikel 9
+[^8-1]: SR 818.102
+[^8-2]: SR 951.262
+[^8-3]: SR 951.262
+[^8-4]: RB 70.1612
 
-**Zuständigkeiten: Regierungsrat**
+#### Artikel 9 b
 
-<sup>1</sup> Der Regierungsrat beschliesst die Härtefallmassnahmen.
+**) Regierungsrat**
+
+Der Regierungsrat beschliesst die Härtefallmassnahmen.
 
 #### Artikel 10
 
 **Leistungsberechtigung**
 
-<sup>1</sup> Die Leistungsberechtigung richtet sich nach Artikel 12 COVID-19-Gesetz (SR [818.102](https://db.clex.ch/link/Bund/818.102/de)) und Artikel 2 bis 6 COVID-19-Härtefallverordnung (SR [951.262](https://db.clex.ch/link/Bund/951.262/de)) in Verbindung mit Artikel 3 und 4 dieses Reglements.
+<sup>1</sup> Die Leistungsberechtigung richtet sich nach Artikel 12 COVID-19-Gesetz[^10-1] und Artikel 2 bis 6 COVID-19-Härtefallverordnung<sup>17</sup> in Verbindung mit Artikel 3 und 4 dieses Reglements.
 
-<sup>2</sup> Leistungsberechtigt sind in erster Linie Unternehmen in der Wertschöpfungskette der Eventbranche, Schausteller, Dienstleister der Reisebranche, Gastronomie- und Hotelbetriebe sowie touristische Betriebe, die für ihre COVID-19-bedingten Umsatzausfälle bis 30. Juni 2021 bereits Härtefallhilfen nach der Covid-19-Härtefallverordnung (SR [951.262](https://db.clex.ch/link/Bund/951.262/de)) erhalten haben.
+<sup>2</sup> Leistungsberechtigt sind in erster Linie Unternehmen in der Wertschöpfungskette der Eventbranche, Schausteller, Dienstleister der Reisebranche, Gastronomie- und Hotelbetriebe sowie touristische Betriebe, die für ihre COVID-19-bedingten Umsatzausfälle bis 30. Juni 2021 bereits Härtefallhilfen nach der Covid-19-Härtefallverordnung<sup>18</sup> erhalten haben.
 
 <sup>3</sup> In begründeten Fällen kann der Kreis der Leistungsberechtigten nach Artikel 2 Absatz 2 kantonaler COVID-19-Härtefallerlass ausgeweitet werden.
 
 <sup>4</sup> Eine Leistungsberechtigung ist an den Nachweis folgender Voraussetzungen gebunden (kumulativ):
 
-- a) Steuerdomizil im Kanton Uri
-- b) Wirtschaftliche Auswirkungen infolge der Coronakrise
-- c) Betriebs- bzw. existenzbedrohende Situation
-- d) Das kumulierte Ergebnis der Jahresrechnungen 2020 und 2021 ist negativ (Verlust)
-- e) Ausschöpfung bestehender Unterstützungsmöglichkeiten des Bunds und des Kantons
-- f) Ausschöpfung eigener Kostensenkungs- und anderer Massnahmen
+- Steuerdomizil im Kanton Uri;
+
+- Wirtschaftliche Auswirkungen infolge der Coronakrise;
+
+- Betriebs- bzw. existenzbedrohende Situation;
+
+- Das kumulierte Ergebnis der Jahresrechnungen 2020 und 2021 ist negativ (Verlust);
+
+- Ausschöpfung bestehender Unterstützungsmöglichkeiten des Bunds und des Kantons;
+
+- Ausschöpfung eigener Kostensenkungs- und anderer Massnahmen.
 
 <sup>5</sup> Es erfolgt eine Plausibilisierung der Kostenstruktur der Jahresrechnungen 2020 und 2021. Dabei werden die Abschlüsse 2018 und 2019 beigezogen. Bei Unregelmässigkeiten können entsprechende Korrekturen vorgenommen werden.
 
@@ -135,13 +163,15 @@ beschliesst:
 
 <sup>7</sup> Die Task Force Wirtschaft kann für die Behandlung eines Gesuchs zusätzliche Unterlagen und Auskünfte einverlangen.
 
+[^10-1]: SR 818.102
+
 #### Artikel 11
 
 **Unterstützungsleistungen**
 
 <sup>1</sup> Härtefallmassnahmen aus dem Wirtschaftsförderungsfonds werden grundsätzlich in Form von Beiträgen à fonds perdu ausgerichtet.
 
-<sup>2</sup> Die maximale Beitragshöhe richtet sich nach Artikel 8a bis 8d und Artikel 15 Absatz 5 der Covid-19-Härtefallverordnung (SR [951.262](https://db.clex.ch/link/Bund/951.262/de)).
+<sup>2</sup> Die maximale Beitragshöhe richtet sich nach Artikel 8a bis 8d und Artikel 15 Absatz 5 der Covid-19-Härtefallverordnung<sup>19</sup>.
 
 <sup>3</sup> Liegt kein kumuliertes negatives Ergebnis der Jahresrechnungen 2020 und 2021 vor, werden keine Beiträge nach diesem Reglement ausbezahlt.
 
@@ -151,18 +181,20 @@ beschliesst:
 
 **Berichterstattung**
 
-<sup>1</sup> Die Volkswirtschaftsdirektion ist zuständig für die Berichterstattung an den Bund im Sinne von Artikel 14 ff. COVID-19-Härtefallverordnung (SR [951.262](https://db.clex.ch/link/Bund/951.262/de)).
+Die Volkswirtschaftsdirektion ist zuständig für die Berichterstattung an den Bund im Sinne von Artikel 14 ff. COVID-19-Härtefallverordnung<sup>20</sup>.
 
 #### Artikel 13
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Das Reglement vom 22. Dezember 2020 über die Umsetzung von Härtefallmassnahmen für Unternehmen im Zusammenhang mit der COVID-19-Epidemie (COVID-19-Härtefallreglement) wird aufgehoben.
+Das Reglement vom 22. Dezember 2020 über die Umsetzung von Härtefallmassnahmen für Unternehmen im Zusammenhang mit der COVID-19- Epidemie (COVID-19-Härtefallreglement) wird aufgehoben.
 
 #### Artikel 14
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Reglement tritt am 10. Februar 2022 in Kraft und fällt mit Ablauf des COVID-19-Härtefallerlasses dahin.
+Dieses Reglement tritt am 10. Februar 2022 in Kraft und fällt mit Ablauf des COVID-19-Härtefallerlasses dahin.
 
-AB a.O. 10.02.2022
+Im Namen des Regierungsrats
+
+Der Landammann: Urban Camenzind Der Kanzleidirektor: Roman Balli
