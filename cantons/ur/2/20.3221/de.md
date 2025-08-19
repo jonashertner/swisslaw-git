@@ -1,46 +1,46 @@
 ---
 canton: UR
 number: "20.3221"
-title: Gesetz über das Kantonsspital Uri
+title: GESETZ über das Kantonsspital Uri
 short: KSUG
 language: de
 version: 2018-01-01
+corrected: 2025-08-20
 version_adopted: 2017-09-24
 adopted: 2017-09-24
 in_force: 2018-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.3221"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/993/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/234/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über das Kantonsspital Uri
+# GESETZ über das Kantonsspital Uri
 
-(KSUG)
+GESETZ über das Kantonsspital Uri (KSUG)
 
-Vom 24.09.2017 (Stand 01.01.2018)
+(vom 24. September 2017[^t-1]; Stand am 1. Januar 2018)
 
-Das Volk des Kantons Uri,
-
-gestützt auf Artikel 46 Absatz 2 und Artikel 90 Absatz 1 der Verfassung des Kantons Uri (RB [1.1101](https://rechtsbuch.ur.ch/data/1.1101/de)),
+Das Volk des Kantons Uri, gestützt auf Artikel 46 Absatz 2 und Artikel 90 Absatz 1 der Verfassung des Kantons Uri<sup>2</sup>,
 
 beschliesst:
 
-## 1 Allgemeine Bestimmungen
+[^t-1]: AB vom 10. Februar 2017
+
+### 1. Kapitel: ALLGEMEINE BESTIMMUNGEN
 
 #### Artikel 1
 
-**Geltungsbereich**
-
-<sup>1</sup> Dieses Gesetz regelt die Rechtsform, die Aufgaben und die Finanzierung des Kantonsspitals Uri.
+Geltungsbereich Dieses Gesetz regelt die Rechtsform, die Aufgaben und die Finanzierung des Kantonsspitals Uri.
 
 #### Artikel 2
 
 **Rechtsform**
 
-<sup>1</sup> Das Kantonsspital Uri (Kantonsspital) ist eine selbstständige Anstalt des kantonalen öffentlichen Rechts mit eigener Rechtspersönlichkeit. Der Sitz der Anstalt ist Altdorf.
+Das Kantonsspital Uri (Kantonsspital) ist eine selbstständige Anstalt des kantonalen öffentlichen Rechts mit eigener Rechtspersönlichkeit. Der Sitz der Anstalt ist Altdorf.
 
-## 2 Aufgaben
+### 2. Kapitel: AUFGABEN
 
 #### Artikel 3
 
@@ -50,11 +50,15 @@ beschliesst:
 
 <sup>2</sup> Das Kantonsspital hat für die Urner Bevölkerung:
 
-- a) stationäre Patientinnen und Patienten zu behandeln
-- b) ambulante Patientinnen und Patienten zu behandeln
-- c) eine ständige Notfallversorgung zu gewährleisten
-- d) Aus- und Weiterbildung für das benötigte Spitalpersonal zu leisten
-- e) im Bedarfsfall eine geschützte Operationsstelle zu betreiben
+- a) stationäre Patientinnen und Patienten zu behandeln;
+
+- b) ambulante Patientinnen und Patienten zu behandeln;
+
+- c) eine ständige Notfallversorgung zu gewährleisten;
+
+- d) Aus- und Weiterbildung für das benötigte Spitalpersonal zu leisten;
+
+- e) im Bedarfsfall eine geschützte Operationsstelle zu betreiben.
 
 <sup>3</sup> Im Auftrag mit eingeschlossen sind die Begleitung und die Betreuung sterbender Patientinnen und Patienten und ihrer Bezugspersonen.
 
@@ -68,10 +72,13 @@ beschliesst:
 
 <sup>2</sup> Das Kantonsspital kann namentlich:
 
-- a) in allen Bereichen Dienstleistungen für Dritte erbringen
-- b) mit anderen Leistungserbringern zusammenarbeiten und gemeinsame Dienstleistungsbetriebe führen
-- c) sich an Unternehmungen beteiligen
-- d) einzelne Aufgaben gemäss Artikel 3 und dem Leistungsprogramm durch andere Leistungserbringer erfüllen lassen, sofern dadurch die bedarfsgerechte und qualitativ gute Spitalversorgung gemäss Artikel 3 Absatz 1 nicht gemindert wird
+- a) in allen Bereichen Dienstleistungen für Dritte erbringen;
+
+- b) mit anderen Leistungserbringern zusammenarbeiten und gemeinsame Dienstleistungsbetriebe führen;
+
+- c) sich an Unternehmungen beteiligen;
+
+- d) einzelne Aufgaben gemäss Artikel 3 und dem Leistungsprogramm durch andere Leistungserbringer erfüllen lassen, sofern dadurch die bedarfsgerechte und qualitativ gute Spitalversorgung gemäss Artikel 3 Absatz 1 nicht gemindert wird.
 
 <sup>3</sup> Die mit der unternehmerischen Tätigkeit ausserhalb des Leistungsprogramms verbundenen Kosten und Erträge sind separat zu erfassen und auszuweisen. Sie muss betriebswirtschaftlich begründet sein.
 
@@ -79,20 +86,23 @@ beschliesst:
 
 **Verordnung**
 
-<sup>1</sup> Der Landrat regelt die weiteren Belange des Kantonsspitals durch Verordnung, namentlich:
+Der Landrat regelt die weiteren Belange des Kantonsspitals durch Verordnung, namentlich:
 
-- a) die Organisation und Zuständigkeit
-- b) die Finanzen
-- c) das Berichtswesen und Controlling
-- d) den Zugang zu den Leistungen
+- a) die Organisation und Zuständigkeit;
 
-## 3 Vergütung
+- b) die Finanzen;
+
+- c) das Berichtswesen und Controlling;
+
+- d) den Zugang zu den Leistungen.
+
+### 3. Kapitel: VERGÜTUNG
 
 #### Artikel 6
 
 **Leistungsabgeltung**
 
-<sup>1</sup> Der Kanton trägt die Kosten der Spitalversorgung, soweit dafür nicht Versicherer im Rahmen des Bundesrechts oder Dritte aufzukommen haben.
+Der Kanton trägt die Kosten der Spitalversorgung, soweit dafür nicht Versicherer im Rahmen des Bundesrechts oder Dritte aufzukommen haben.
 
 #### Artikel 7
 
@@ -106,7 +116,7 @@ beschliesst:
 
 <sup>4</sup> Der Landrat ist abschliessend zuständig, die gemeinwirtschaftlichen Leistungen zu bestimmen und über deren Vergütung zu befinden.
 
-## 4 Anlagen und Eigentum
+### 4. Kapitel: ANLAGEN UND EIGENTUM
 
 #### Artikel 8
 
@@ -118,7 +128,9 @@ beschliesst:
 
 <sup>3</sup> Der Regierungsrat vereinbart mit dem Kantonsspital den Vertrag zur Nutzung und Überlassung der Gebäulichkeiten.
 
-<sup>4</sup> Flächen und Gebäulichkeiten der Spitalliegenschaft, die zur Erfüllung des Leistungsprogramms nicht unmittelbar notwendig sind, kann der Kanton selber nutzen oder gegen marktübliche Entschädigung dem Kantonsspital oder Dritten zum Gebrauch überlassen. Der Regierungsrat schliesst die erforderlichen Vereinbarungen ab. Er kann dazu ein Baurecht im Sinne des Schweizerischen Zivilgesetzbuchs (SR [210](https://db.clex.ch/link/Bund/210/de)) errichten.
+<sup>4</sup> Flächen und Gebäulichkeiten der Spitalliegenschaft, die zur Erfüllung des Leistungsprogramms nicht unmittelbar notwendig sind, kann der Kanton selber nutzen oder gegen marktübliche Entschädigung dem Kantonsspital oder Dritten zum Gebrauch überlassen. Der Regierungsrat schliesst die erforderlichen Vereinbarungen ab. Er kann dazu ein Baurecht im Sinne des Schweizerischen Zivilgesetzbuchs[^8-1] errichten.
+
+[^8-1]: SR 210
 
 #### Artikel 9
 
@@ -128,7 +140,7 @@ beschliesst:
 
 <sup>2</sup> Zu den Betriebseinrichtungen gehören alle mobilen Sachanlagen, Maschinen, Mobilien, Gegenstände, Apparate, Geräte und Fahrzeuge sowie die immobilen technischen, medizinischen und administrativen Einrichtungen, soweit sie nicht Bestandteil der technischen Gebäudeausrüstung sind.
 
-## 5 Mittel
+### 5. Kapitel: MITTEL
 
 #### Artikel 10
 
@@ -136,10 +148,9 @@ beschliesst:
 
 <sup>1</sup> Der Kanton kann dem Kantonsspital Darlehen gewähren für die Beschaffung von Betriebseinrichtungen, die für die Erfüllung des Leistungsprogramms notwendig sind.
 
-<sup>2</sup> Ein Darlehen wird nur gewährt, wenn:
+<sup>2</sup> Ein Darlehen wird nur gewährt, wenn a) das Spital die erforderlichen Mittel nicht selbst aufbringen oder zu angemessenen Bedingungen von Dritten beschaffen kann;
 
-- a) das Spital die erforderlichen Mittel nicht selbst aufbringen oder zu angemessenen Bedingungen von Dritten beschaffen kann
-- b) der Darlehensbetrag mindestens 500'000 Franken beträgt
+- b) der Darlehensbetrag mindestens 500 000 Franken beträgt.
 
 <sup>3</sup> Anstelle von Darlehen kann der Kanton die Aufnahme von Fremdkapital bei privaten Geldgebern mit Bürgschaften erleichtern.
 
@@ -147,7 +158,7 @@ beschliesst:
 
 <sup>5</sup> Der Landrat ist abschliessend zuständig, über Darlehen und Bürgschaften zu befinden.
 
-## 6 Rechtspflege
+### 6. Kapitel: RECHTSPFLEGE
 
 #### Artikel 11
 
@@ -159,56 +170,68 @@ beschliesst:
 
 <sup>3</sup> Verfügungen und Beschwerdeentscheide des Spitalrats können mit Beschwerde beim Verwaltungsgericht angefochten werden. Die Beschwerde an den Regierungsrat ist ausgeschlossen.
 
-<sup>4</sup> Im Übrigen richtet sich das Verfahren nach der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)).
+<sup>4</sup> Im Übrigen richtet sich das Verfahren nach der Verordnung über die Verwaltungsrechtspflege<sup>4</sup>.
 
-## 7 Weitere Bestimmungen
+### 7. Kapitel: WEITERE BESTIMMUNGEN
 
 #### Artikel 12
 
 **Personalrecht und Personalvorsorge**
 
-<sup>1</sup> Das Spitalpersonal wird mit einem privatrechtlichen Arbeitsvertrag angestellt. Soweit die geltenden Reglemente des Kantonsspitals keine abweichende Regelung enthalten, gelten die Bestimmungen des Schweizerischen Obligationenrechts (SR [220](https://db.clex.ch/link/Bund/220/de)).
+<sup>1</sup> Das Spitalpersonal wird mit einem privatrechtlichen Arbeitsvertrag angestellt. Soweit die geltenden Reglemente des Kantonsspitals keine abweichende Regelung enthalten, gelten die Bestimmungen des Schweizerischen Obligationenrechts[^12-1].
 
-<sup>2</sup> Das Spitalpersonal untersteht der Verordnung über die Pensionskasse Uri (RB [2.4221](https://rechtsbuch.ur.ch/data/2.4221/de)). Für Assistenz- und Oberärztinnen und ‑ärzte, die nur vorübergehend im Kantonsspital beschäftigt sind und die sich über eine andere genügende Versicherung ausweisen, sind Ausnahmen zulässig.
+<sup>2</sup> Das Spitalpersonal untersteht der Verordnung über die Pensionskasse Uri[^12-2]. Für Assistenz- und Oberärztinnen und -ärzte, die nur vorübergehend im Kantonsspital beschäftigt sind und die sich über eine andere genügende Versicherung ausweisen, sind Ausnahmen zulässig.
+
+[^12-1]: SR 220
+[^12-2]: RB 2.4221
 
 #### Artikel 13
 
-**Rechtsbeziehungen und Rechte der Patientinnen und Patienten**
+**Rechtsbeziehungen und Rechte der Patientinnen**
+
+und Patienten
 
 <sup>1</sup> Die Rechtsbeziehungen zwischen dem Kantonsspital und den Patientinnen und Patienten unterstehen öffentlichem Recht.
 
-<sup>2</sup> Die Rechte der Patientinnen und Patienten richten sich nach dem Erwachsenenschutzrecht des Zivilgesetzbuchs (SR [210](https://db.clex.ch/link/Bund/210/de), Artikel 360 ff.) und dem Gesundheitsgesetz (RB [30.2111](https://rechtsbuch.ur.ch/data/30.2111/de), Artikel 47 ff.).
+<sup>2</sup> Die Rechte der Patientinnen und Patienten richten sich nach dem Erwachsenenschutzrecht des Zivilgesetzbuchs[^13-1] und dem Gesundheitsgesetz[^13-2].
+
+[^13-1]: SR 210, Artikel 360 ff
+[^13-2]: RB 30.2111, Artikel 47 ff
 
 #### Artikel 14
 
 **Medizinische Akten**
 
-<sup>1</sup> Das Recht an medizinischen Akten richtet sich nach dem Gesundheitsgesetz (RB [30.2111](https://rechtsbuch.ur.ch/data/30.2111/de), Artikel 35).
+Das Recht an medizinischen Akten richtet sich nach dem Gesundheitsgesetz[^14-1].
+
+[^14-1]: RB 30.2111, Artikel 35
 
 #### Artikel 15
 
 **Haftung**
 
-<sup>1</sup> Die Haftung des Kantonsspitals und dessen Organen richtet sich nach den Bestimmungen der Kantonsverfassung (RB [1.1101](https://rechtsbuch.ur.ch/data/1.1101/de), Artikel 4 und 5).
+Die Haftung des Kantonsspitals und dessen Organen richtet sich nach den Bestimmungen der Kantonsverfassung[^15-1].
 
-## 8 Schlussbestimmungen
+[^15-1]: RB 1.1101, Artikel 4 und 5
+
+### 8. Kapitel: SCHLUSSBESTIMMUNGEN
 
 #### Artikel 16
 
 **Ausführungsrecht**
 
-<sup>1</sup> Der Landrat ergänzt dieses Gesetz durch Verordnung und führt es näher aus.
+Der Landrat ergänzt dieses Gesetz durch Verordnung und führt es näher aus.
 
 #### Artikel 17
 
-**Aufhebung bisherigen Rechts**
-
-<sup>1</sup> Das Gesetz vom 12. März 2000 über das Kantonsspital Uri wird aufgehoben.
+Aufhebung bisherigen Rechts Das Gesetz vom 12. März 2000 über das Kantonsspital Uri<sup>11</sup> wird aufgehoben.
 
 #### Artikel 18
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Gesetz unterliegt der Volksabstimmung. Es tritt am 1. Januar 2018 in Kraft.
+Dieses Gesetz unterliegt der Volksabstimmung. Es tritt am 1. Januar 2018 in Kraft.
 
-AB 10.02.2017
+Im Namen des Volkes
+
+Der Landammann: Beat Jörg Der Kanzleidirektor: Roman Balli
