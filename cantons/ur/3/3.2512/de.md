@@ -1,27 +1,31 @@
 ---
 canton: UR
 number: "3.2512"
-title: Gebührenverordnung
+title: GEBÜHRENVERORDNUNG
 language: de
 version: 2005-01-01
+corrected: 2025-08-20
 version_adopted: 2004-05-26
 adopted: 1982-06-30
 in_force: 1983-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.2512"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/1005/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/109/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gebührenverordnung
+# GEBÜHRENVERORDNUNG
 
-Vom 30.06.1982 (Stand 01.01.2005)
+GEBÜHRENVERORDNUNG
 
-Der Landrat des Kantons Uri,
+(vom 30. Juni 1982[^t-1]; Stand am 1. Januar 2005)
 
-gestützt auf Artikel 59 Buchstabe m der Kantonsverfassung (RB [1.1101](https://rechtsbuch.ur.ch/data/1.1101/de)),
+Der Landrat des Kantons Uri, gestützt auf Artikel 59 Buchstabe m der Kantonsverfassung,
 
 beschliesst:
+
+[^t-1]: AB vom 6. August 1982
 
 #### Artikel 1
 
@@ -29,19 +33,25 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung regelt die Gebühren für:
 
-- 1\. Amtshandlungen der kantonalen Verwaltung (Verwaltungsgebühren)
-- 2\. die verwaltungsinterne Verwaltungsrechtspflege des Kantons (Rechtspflegegebühren)
-- 3\. die Benützung öffentlicher Sachen oder Einrichtungen des Kantons (Benützungsgebühren)
+- 1\. Amtshandlungen der kantonalen Verwaltung (Verwaltungsgebühren);[^1-1]
+
+- 2\. die verwaltungsinterne Verwaltungsrechtspflege des Kantons (Rechtspflegegebühren);
+
+- 3\. die Benützung öffentlicher Sachen oder Einrichtungen des Kantons (Benützungsgebühren).
 
 <sup>2</sup> Sie gilt, soweit nicht besondere eidgenössische, interkantonale oder kantonale Vorschriften bestehen.
+
+[^1-1]: Fassung gemäss LRB vom 17. November 1999, in Kraft gesetzt auf den 1. März 2000 (AB vom 26. November 1999)
 
 #### Artikel 2
 
 **Gebührenpflicht**
 
-<sup>1</sup> Wer eine Amtshandlung veranlasst oder öffentliche Sachen oder Einrichtungen des Kantons benützt, hat die damit verbundenen Gebühren zu tragen, sofern die unentgeltliche Verrichtung oder Benutzung nicht vorgesehen oder nach den besonderen Umständen bzw. gemessen am Verwaltungsaufwand nicht angebracht ist.
+<sup>1</sup> Wer eine Amtshandlung veranlasst oder öffentliche Sachen oder Einrichtungen des Kantons benützt, hat die damit verbundenen Gebühren zu tragen, sofern die unentgeltliche Verrichtung oder Benutzung nicht vorgesehen oder nach den besonderen Umständen bzw. gemessen am Verwaltungsaufwand nicht angebracht ist.[^2-1]
 
 <sup>2</sup> Behörden und Amtsstellen werden in der Regel keine Verwaltungs- und Rechtspflegegebühren auferlegt, sofern sie Gegenrecht halten.
+
+[^2-1]: Fassung gemäss LRB vom 17. November 1999, in Kraft gesetzt auf den 1. März 2000 (AB vom 26. November 1999)
 
 #### Artikel 3
 
@@ -49,7 +59,9 @@ beschliesst:
 
 <sup>1</sup> Die Gebührenansätze richten sich nach den vom Regierungsrat zu erlassenden Gebührenreglementen, soweit nicht besondere Vorschriften bestehen.
 
-<sup>2</sup> Enthalten weder die Gebührenreglemente des Regierungsrates noch andere Erlasse einen Gebührenansatz, kann die zuständige Amtsstelle oder Behörde nach den Grundsätzen dieser Verordnung eine Gebühr von höchstens 2'000 Franken verfügen.
+<sup>2</sup> Enthalten weder die Gebührenreglemente des Regierungsrates noch andere Erlasse einen Gebührenansatz, kann die zuständige Amtsstelle oder Behörde nach den Grundsätzen dieser Verordnung eine Gebühr von höchstens Fr. 2'000.– verfügen.[^3-1]
+
+[^3-1]: Fassung gemäss LRB vom 17. November 1999, in Kraft gesetzt auf den 1. März 2000 (AB vom 26. November 1999)
 
 #### Artikel 4
 
@@ -59,7 +71,9 @@ beschliesst:
 
 <sup>2</sup> Bei Benützungsgebühren ist er nach oben frei zu gestalten, sofern und soweit sich das Gesamtkostendeckungsprinzip nicht anwenden lässt.
 
-<sup>3</sup> Der Gebührenrahmen beträgt grundsätzlich 10 Franken bis 20'000 Franken.
+<sup>3</sup> Der Gebührenrahmen beträgt grundsätzlich Fr. 10.– bis Fr. 20 000.–.[^4-1]
+
+[^4-1]: Eingefügt durch LRB vom 17. November 1999, in Kraft gesetzt auf den 1. März 2000 (AB vom 26. November 1999)
 
 #### Artikel 5
 
@@ -77,7 +91,7 @@ beschliesst:
 
 <sup>1</sup> Kleinere Barauslagen sind in den Gebühren enthalten.
 
-<sup>2</sup> Erhebliche Barauslagen, wie Beschaffung von Unterlagen, Entschädigungen der Übersetzer, Sachverständigen und Auskunftspersonen, Spesenentschädigungen bei Tätigkeiten ausserhalb des Amtssitzes und dergleichen werden besonders in Rechnung gestellt.
+2 Erhebliche Barauslagen, wie Beschaffung von Unterlagen, Entschädigungen der Übersetzer, Sachverständigen und Auskunftspersonen, Spesenentschädigungen bei Tätigkeiten ausserhalb des Amtssitzes und dergleichen werden besonders in Rechnung gestellt.
 
 #### Artikel 7
 
@@ -91,11 +105,19 @@ beschliesst:
 
 **Gebührengläubiger**
 
-<sup>1</sup> Gebühren, die durch kantonale Behörden oder Amtsstellen erhoben werden, fallen in die Staatskasse, wenn keine besondere Verwendung gesetzlich vorgesehen ist.
+Gebühren, die durch kantonale Behörden oder Amtsstellen erhoben werden, fallen in die Staatskasse, wenn keine besondere Verwendung gesetzlich vorgesehen ist.
 
-#### Artikel 9–10
+#### Artikel 9
 
-**…**
+...[^9-1]
+
+[^9-1]: Aufgehoben durch LRB vom 23. März 1994, in Kraft gesetzt auf den 1. Juni 1995 (AB vom 8. April 1994).
+
+#### Artikel 10
+
+...[^10-1]
+
+[^10-1]: Aufgehoben durch LRB vom 23. März 1994, in Kraft gesetzt auf den 1. Juni 1995 (AB vom 8. April 1994).
 
 #### Artikel 11
 
@@ -107,7 +129,7 @@ beschliesst:
 
 <sup>3</sup> Diese Verwirkungsfolge ist dem Pflichtigen mit der Aufforderung, Kostenvorschuss zu leisten, schriftlich mitzuteilen.
 
-<sup>4</sup> Von kantonalen Behörden und Amtsstellen sowie von den Gemeinden wird kein Kostenvorschuss erhoben.
+4 Von kantonalen Behörden und Amtsstellen sowie von den Gemeinden wird kein Kostenvorschuss erhoben.
 
 #### Artikel 12
 
@@ -115,57 +137,62 @@ beschliesst:
 
 <sup>1</sup> Die erstinstanzlichen Gebührenverfügungen des Regierungsrates sind mit Einsprache an diesen anfechtbar.
 
-<sup>2</sup> Gebührenverfügungen untergeordneter Behörden und Amtsstellen können mit Verwaltungsbeschwerde beim Regierungsrat angefochten werden.
+<sup>2</sup> Gebührenverfügungen untergeordneter Behörden und Amtsstellen können mit Verwaltungsbeschwerde beim Regierungsrat angefochten werden.[^12-1]
 
-<sup>3</sup> …
+<sup>3</sup> ...[^12-2]
+
+[^12-1]: Fassung gemäss LRB vom 23. März 1994, in Kraft gesetzt auf den 1. Juni 1995 (AB vom 8. April 1994).
+[^12-2]: Aufgehoben durch LRB vom 23. März 1994, in Kraft gesetzt auf den 1. Juni 1995 (AB vom 8. April 1994).
 
 #### Artikel 13
 
 **Vollstreckbarkeit**
 
-<sup>1</sup> Rechtskräftige Gebührenverfügungen sind vollstreckbaren gerichtlichen Urteilen gleichgestellt.
+Rechtskräftige Gebührenverfügungen sind vollstreckbaren gerichtlichen Urteilen gleichgestellt.
 
 #### Artikel 14
 
 **Fälligkeit**
 
-<sup>1</sup> Die Gebühr wird fällig, sobald die Verfügung rechtskräftig ist.
+Die Gebühr wird fällig, sobald die Verfügung rechtskräftig ist.
 
 #### Artikel 15
 
 **Rechnungsstellung**
 
-<sup>1</sup> Die Gebühren und Barauslagen sind in der Regel mit dem Sachentscheid zu verfügen.
+Die Gebühren und Barauslagen sind in der Regel mit dem Sachentscheid zu verfügen.
 
 #### Artikel 16
 
 **Bezug**
 
-<sup>1</sup> Die kantonale Finanzverwaltung zieht die rechtskräftig verfügten Gebühren und Barauslagen ein, sofern nicht die verfügende Behörde oder Amtsstelle dazu ermächtigt ist.
+Die kantonale Finanzverwaltung zieht die rechtskräftig verfügten Gebühren und Barauslagen ein, sofern nicht die verfügende Behörde oder Amtsstelle dazu ermächtigt ist.
 
 #### Artikel 17
 
 **Erlass, Stundung**
 
-<sup>1</sup> Ist der Schuldner bedürftig oder liegen andere wichtige Gründe vor, kann die in der Sache zuständige Direktion auf schriftliches Gesuch hin die verfügten Gebühren oder Barauslagen ganz oder teilweise erlassen, sofern der zu erlassende Betrag 2'000 Franken nicht übersteigt; andernfalls ist der Regierungsrat zuständig.
+<sup>1</sup> Ist der Schuldner bedürftig oder liegen andere wichtige Gründe vor, kann die in der Sache zuständige Direktion auf schriftliches Gesuch hin die verfügten Gebühren oder Barauslagen ganz oder teilweise erlassen, sofern der zu erlassende Betrag Fr. 2000.– nicht übersteigt; andernfalls ist der Regierungsrat zuständig.[^17-1]
 
 <sup>2</sup> Die verfügende Behörde oder Amtsstelle ist anzuhören.
 
-<sup>3</sup> Unter den gleichen Voraussetzungen kann das für das Inkasso zuständige Amt[^Artikel17-1] Schuldnern die Zahlungsfrist erstrecken oder Ratenzahlungen bewilligen.
+<sup>3</sup> Unter den gleichen Voraussetzungen kann das für das Inkasso zuständige Amt[^17-2] Schuldnern die Zahlungsfrist erstrecken oder Ratenzahlungen bewilligen.[^17-3]
 
-[^Artikel17-1]: Amt für Finanzen; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^17-1]: Fassung gemäss LRB vom 17. November 1999, in Kraft gesetzt auf den 1. März 2000 (AB vom 26. November 1999).
+[^17-2]: Amt für Finanzen, siehe Organisationsreglement (RB 2.3322).
+[^17-3]: Fassung gemäss LRB vom 17. November 1999, in Kraft gesetzt auf den 1. März 2000 (AB vom 26. November 1999).
 
 #### Artikel 18
 
 **Abschreibung**
 
-<sup>1</sup> Über die Abschreibung von nicht einbringlichen Gebühren und Barauslagen entscheidet die Finanzdirektion.
+Über die Abschreibung von nicht einbringlichen Gebühren und Barauslagen entscheidet die Finanzdirektion.
 
 #### Artikel 19
 
 **Kontrolle**
 
-<sup>1</sup> Die Finanzkontrolle des Kantons hat über die Anpassung der Gebühren an die Geldwertverhältnisse und den Verwaltungsaufwand sowie die Berechnung und Verrechnung der erhobenen Gebühren die nötigen Kontrollen auszuüben.
+Die Finanzkontrolle des Kantons hat über die Anpassung der Gebühren an die Geldwertverhältnisse und den Verwaltungsaufwand sowie die Berechnung und Verrechnung der erhobenen Gebühren die nötigen Kontrollen auszuüben.
 
 #### Artikel 20
 
@@ -175,31 +202,43 @@ beschliesst:
 
 <sup>2</sup> Vorbehalten bleiben besondere Vorschriften, namentlich:
 
-- 1\. …
-- 2\. die Vollziehungsverordnung zum Bundesgesetz über Jagd- und Vogelschutz (RB [40.3111](https://rechtsbuch.ur.ch/data/40.3111/de))
-- 3\. die Verordnung über die Fischerei (RB [40.3211](https://rechtsbuch.ur.ch/data/40.3211/de))
-- 4\. die Verordnung über die Gebühren und Entschädigungen vor Gerichtsbehörden (RB [2.3231](https://rechtsbuch.ur.ch/data/2.3231/de))
-- 5\. die Vollziehungsverordnung zum Bundesgesetz über die Nutzbarmachung der Wasserkräfte (RB [40.4211](https://rechtsbuch.ur.ch/data/40.4211/de))
-- 6\. die Verordnung betreffend Entschädigung der Zivilstandsbeamten und Gebühren im Zivilstandswesen (RB [9.3102](https://rechtsbuch.ur.ch/data/9.3102/de))
-- 7\. die Verordnung über das Notariat (RB [9.2311](https://rechtsbuch.ur.ch/data/9.2311/de))
-- 8\. …
-- 9\. die Verordnung betreffend Feststellung des Staatseigentums an Seen und Flüssen und Benützung öffentlicher Gewässer (RB [40.4111](https://rechtsbuch.ur.ch/data/40.4111/de))
-- 10\. die Verordnung über die Schadenwehr (RB [40.4325](https://rechtsbuch.ur.ch/data/40.4325/de))
+- 1\. ...[^20-1]
+
+- 2\. die Vollziehungsverordnung zum Bundesgesetz über Jagd- und Vogelschutz (RB 40.3111);
+
+- 3\. die Verordnung über die Fischerei (RB 40.3211);[^20-2]
+
+- 4\. die Verordnung über die Gebühren und Entschädigungen vor Gerichtsbehörden (RB 2.3231);[^20-3]
+
+- 5\. die Vollziehungsverordnung zum Bundesgesetz über die Nutzbarmachung der Wasserkräfte (RB 40.4211);
+
+- 6\. die Verordnung betreffend Entschädigung der Zivilstandsbeamten und Gebühren im Zivilstandswesen (RB 9.3102);
+
+- 7\. die Verordnung über das Notariat (RB 9.2311);
+
+- 8\. ...[^20-4]
+
+- 9\. die Verordnung betreffend Feststellung des Staatseigentums an Seen und Flüssen und Benützung öffentlicher Gewässer (RB 40.4111); 10.die Verordnung über die Schadenwehr (RB 40.4325).[^20-5]
+
+[^20-1]: Aufgehoben durch Artikel 8 der Verordnung über die Strassenverkehrssteuern (RB 50.1413), in Kraft gesetzt auf den 1. Januar 1998 (AB vom 13. Juni 1997).
+[^20-2]: Fassung gemäss LRB vom 14. November 1998 (AB vom 13. Juni 1997)
+[^20-3]: Fassung gemäss Art. 28 Gerichtsgebührenverordnung (RB 2.3231)
+[^20-4]: Aufgehoben durch LRB vom 26. Mai 2004, in Kraft gesetzt auf den 1. Januar 2005 (AB vom 2. Juli 2004).
+[^20-5]: Eingefügt durch LRB vom 17. November 1999, in Kraft gesetzt auf den 1. März 2000 (AB vom 26. November 1999).
 
 #### Artikel 21
 
-**Aufhebung bisherigen Rechts**
+Aufhebung bisherigen Rechts Es werden aufgehoben:
 
-<sup>1</sup> Es werden aufgehoben:
+- 1\. die Verordnung vom 12. Dezember 1973 über die Gebühren und Entschädigungen in der Verwaltung (RB 3.2512);
 
-- 1\. die Verordnung vom 12. Dezember1973 über die Gebühren und Entschädigungen in der Verwaltung
-- 2\. der Landratsbeschluss vom 15. November 1928 betreffend diverse Gebühren
+- 2\. der Landratsbeschluss vom 15. November 1928 betreffend diverse Gebühren (RB 9.3103).
+
+[^21-1]: Die Änderungen wurden in den entsprechenden Erlassen eingefügt.
 
 #### Artikel 22
 
-**Änderung bisherigen Rechts[^Artikel22-1]**
-
-[^Artikel22-1]: Die Änderungen wurden in den entsprechenden Erlassen eingefügt.
+Änderung bisherigen Rechts ...[^21-1]
 
 #### Artikel 23
 
@@ -207,8 +246,10 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung untersteht dem fakultativen Referendum.
 
-<sup>2</sup> Nach unbenütztem Ablauf der Referendumsfrist bestimmt der Regierungsrat, wann diese Verordnung in Kraft tritt[^Artikel23-1].
+**Im Namen des Landrates des Kantons Uri**
 
-[^Artikel23-1]: Vom Regierungsrat in Kraft gesetzt am 1. Januar 1983 (AB vom 14. Januar 1983).
+**Der Präsident: Josef Zgraggen Der Kanzleidirektor: Dr. Hans Muheim**
 
-AB 06.08.1982
+<sup>2</sup> Nach unbenütztem Ablauf der Referendumsfrist bestimmt der Regierungsrat, wann diese Verordnung in Kraft tritt.[^23-1]
+
+[^23-1]: Vom Regierungsrat in Kraft gesetzt am 1. Januar 1983 (AB vom 14. Januar 1983).
