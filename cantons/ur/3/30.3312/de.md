@@ -1,37 +1,39 @@
 ---
 canton: UR
 number: "30.3312"
-title: Verordnung über die Beitragspflicht sowie die Verwendung der Löschsteuer und freiwilligen Beiträge der im Kanton Uri arbeitenden Feuerversicherungs-Gesellschaften
+title: VERORDNUNG über die Beitragspflicht sowie die Verwendung der Löschsteuer und freiwilligen Beiträge der im Kanton Uri arbeitenden Feuerversicherungs-Gesellschaften
 language: de
 version: 1959-07-06
+corrected: 2025-08-20
 version_adopted: 1959-07-06
 adopted: 1959-07-06
 in_force: 1959-07-06
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/30.3312"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/1018/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/266/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung über die Beitragspflicht sowie die Verwendung der Löschsteuer und freiwilligen Beiträge der im Kanton Uri arbeitenden Feuerversicherungs-Gesellschaften
+# VERORDNUNG über die Beitragspflicht sowie die Verwendung der Löschsteuer und freiwilligen Beiträge der im Kanton Uri arbeitenden Feuerversicherungs-Gesellschaften
 
-Vom 06.07.1959 (Stand 06.07.1959)
+VERORDNUNG über die Beitragspflicht sowie die Verwendung der Löschsteuer und freiwilligen Beiträge der im Kanton Uri arbeitenden Feuerversicherungs-Gesellschaften
 
-Der Landrat des Kantons Uri,
+(vom 6. Juli 1959; Stand am 6. Juli 1959)
 
-gestützt auf das Bundesgesetz über die Beaufsichtigung von Privatunternehmungen im Gebiete des Versicherungswesens vom Jahre 1885 (Aufsichtsgesetz) und Artikel 59, lit. e der Kantonsverfassung,
+Der Landrat des Kantons Uri, gestützt auf das Bundesgesetz über die Beaufsichtigung von Privatunternehmungen im Gebiete des Versicherungswesens vom Jahre 1885 (Aufsichtsgesetz) und Artikel 59, lit. e, der Kantonsverfassung,
 
-beschliesst:
+beschliesst und verordnet:
 
 #### Artikel 1
 
-<sup>1</sup> Die im Kanton Uri arbeitenden Feuerversicherungs-Gesellschaften haben jährlich 5 Rappen von je 1'000 Franken der brandversicherten Summe dem Kanton als Steuer zu entrichten.
+<sup>1</sup> Die im Kanton Uri arbeitenden Feuerversicherungs-Gesellschaften haben jährlich 5 Rappen von je Fr. 1 000.— der brandversicherten Summe dem Kanton als Steuer zu entrichten.
 
-<sup>2</sup> Die Mindeststeuer einer Gesellschaft beträgt 50 Franken.
+<sup>2</sup> Die Mindeststeuer einer Gesellschaft beträgt Fr. 50.—.
 
 #### Artikel 2
 
-<sup>1</sup> Zusätzliche, freiwillige Beiträge der Versicherungs-Gesellschaften für das Feuerwehrwesen und die Bekämpfung der Elementarschadengefahr im Kanton Uri bleiben besondern vertraglichen Vereinbarungen vorbehalten.
+Zusätzliche, freiwillige Beiträge der Versicherungs-Gesellschaften für das Feuerwehrwesen und die Bekämpfung der Elementarschadengefahr im Kanton Uri bleiben besondern vertraglichen Vereinbarungen vorbehalten.
 
 #### Artikel 3
 
@@ -41,7 +43,7 @@ beschliesst:
 
 #### Artikel 4
 
-<sup>1</sup> Die Verwaltung der Steuern und Beiträge obliegt der Staatskasse. Die Rechnung ist separat zu führen (kantonaler Feuerlöschfonds).
+Die Verwaltung der Steuern und Beiträge obliegt der Staatskasse. Die Rechnung ist separat zu führen (kantonaler Feuerlöschfonds).
 
 #### Artikel 5
 
@@ -49,13 +51,16 @@ beschliesst:
 
 <sup>2</sup> Es werden ausgerichtet:
 
-- a) ordentliche Beiträge: an die Gemeinden für die jährlichen durch Belege ausgewiesenen ordentlichen Aufwendungen für das Feuerwehrwesen
-- b) ausserordentliche Beiträge:
-  - 1\. an die Gemeinden für ausserordentliche Aufwendungen im Feuerwehrwesen, für Brandverhütungsmassnahmen und Bekämpfung der Elementarschadengefahr sowie für die Erstellung und Verbesserung von Wasserversorgungen, soweit diese auch Feuerlöschzwecken dienen und hiefür zur Verfügung gestellt werden
-  - 2\. an den kantonalen Feuerwehrverband zur Durchführung von FeuerwehrInstruktions- und Schulungskursen und Inspektionen sowie zur allgemeinen Förderung des Feuerwehrwesens im Kanton und in den Gemeinden
+- a) o r d e n t l i c h e B e i t r ä g e:
+
+an die Gemeinden für die jährlichen durch Belege ausgewiesenen ordentlichen Aufwendungen für das Feuerwehrwesen;
+
+- b) a u s s e r o r d e n t l i c h e B e i t r ä g e:
+
+an die Gemeinden für ausserordentliche Aufwendungen im Feuerwehrwesen, für Brandverhütungsmassnahmen und Bekämpfung der Elementarschadengefahr sowie für die Erstellung und Verbesserung von Wasserversorgungen, soweit diese auch Feuerlöschzwecken dienen und hiefür zur Verfügung gestellt werden;
+
+an den kantonalen Feuerwehrverband zur Durchführung von FeuerwehrInstruktions- und Schulungskursen und Inspektionen sowie zur allgemeinen Förderung des Feuerwehrwesens im Kanton und in den Gemeinden.
 
 #### Artikel 6
 
-<sup>1</sup> Diese Verordnung tritt sofort in Kraft. Mit dem Vollzug wird der Regierungsrat beauftragt.
-
-AB 19.11.1989
+Diese Verordnung tritt sofort in Kraft. Mit dem Vollzug wird der Regierungsrat beauftragt.
