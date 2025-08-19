@@ -3,18 +3,18 @@ sr: "946.231.169.9"
 title: Ordinanza del 12 agosto 2015 che istituisce provvedimenti nei confronti della Repubblica del Sudan del Sud
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/532"
 language: it
-version: 2024-06-28
+version: 2025-08-20
 adopted: 2015-08-12
 in_force: 2015-08-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/532/20240628/it/xml/fedlex-data-admin-ch-eli-cc-2015-532-20240628-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/532/20240628/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/532/20250820/it/xml/fedlex-data-admin-ch-eli-cc-2015-532-20250820-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/532/20250820/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Repubblica del Sudan del Sud
 
-del 12 agosto 2015 (Stato 28 giugno 2024)
+del 12 agosto 2015 (Stato 20 agosto 2025)
 
 Il Consiglio federale svizzero,
 
@@ -22,7 +22,7 @@ visto l’articolo 2 della legge del 22 marzo 2002[^ingress-1] sugli embarghi (L
 
 ordina:
 
-[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 
 ## Sezione 1: Misure coercitive
 
@@ -58,12 +58,12 @@ La SECO, d’intesa con i servizi competenti del DFAE e in conformità alle deci
 
 <sup>5</sup> Sono fatte salve le disposizioni della legge del 13 dicembre 1996[^1-5] sul controllo dei beni a duplice impiego e della legge del 13 dicembre 1996[^1-6] sul materiale bellico.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 30 nov. 2018, in vigore dal 14 dic. 2018 ([RU 2018 4557](https://fedlex.data.admin.ch/eli/oc/2018/710)).
-[^1-2]: Nuovo testo giusta il n. I dell’O del 30 nov. 2018, in vigore dal 14 dic. 2018 ([RU 2018 4557](https://fedlex.data.admin.ch/eli/oc/2018/710)).
-[^1-3]: Nuovo testo giusta il n. I dell’O del 30 nov. 2018, in vigore dal 14 dic. 2018 ([RU 2018 4557](https://fedlex.data.admin.ch/eli/oc/2018/710)).
-[^1-4]: Introdotto dal n. I dell’O del 30 nov. 2018, in vigore dal 14 dic. 2018 ([RU 2018 4557](https://fedlex.data.admin.ch/eli/oc/2018/710)).
-[^1-5]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^1-6]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2018, in vigore dal 14 dic. 2018 ([RU 2018 4557](https://fedlex.data.admin.ch/eli/oc/2018/710)).
+[^1-2]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2018, in vigore dal 14 dic. 2018 ([RU 2018 4557](https://fedlex.data.admin.ch/eli/oc/2018/710)).
+[^1-3]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2018, in vigore dal 14 dic. 2018 ([RU 2018 4557](https://fedlex.data.admin.ch/eli/oc/2018/710)).
+[^1-4]: Introdotto dalla cifra I dell’O del 30 nov. 2018, in vigore dal 14 dic. 2018 ([RU 2018 4557](https://fedlex.data.admin.ch/eli/oc/2018/710)).
+[^1-5]: [RS 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
+[^1-6]: [RS 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
 
 #### Art. 2
 
@@ -101,10 +101,10 @@ La SECO può eccezionalmente autorizzare prelievi da conti bloccati, trasferimen
 
 <sup>5</sup> La SECO autorizza le deroghe di cui al capoverso 4 d’intesa con i servizi competenti del DFAE e del Dipartimento federale delle finanze nonché, se del caso, previa notifica al comitato competente del Consiglio di sicurezza delle Nazioni Unite e in conformità alle decisioni di tale comitato e alle pertinenti risoluzioni del Consiglio di sicurezza delle Nazioni Unite. [^2-4]
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 28 mar. 2018, in vigore dalle ore 18.00 del 28 mar. 2018 ([RU 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)).
-[^2-2]: Nuovo testo giusta il n. I 13 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
-[^2-3]: Nuovo testo giusta il n. I 13 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
-[^2-4]: Introdotto dal n. I 13 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 28 mar. 2018, in vigore dalle ore 18.00 del 28 mar. 2018 ([RU 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)).
+[^2-2]: Nuovo testo giusta la cifra I 13 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^2-3]: Nuovo testo giusta la cifra I 13 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^2-4]: Introdotto dalla cifra I 13 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 3
 
@@ -140,10 +140,10 @@ Essa può concedere deroghe alle persone fisiche di cui all’allegato 2:
 - b. se la persona in questione si sposta per partecipare a conferenze internazionali o a un dialogo politico riguardanti la Repubblica del Sudan del Sud; oppure
 - c. se la tutela di interessi svizzeri lo esige.[^4-4]
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 28 mar. 2018, in vigore dalle ore 18.00 del 28 mar. 2018 ([RU 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)).
-[^4-2]: Nuovo testo giusta il n. I dell’O del 28 mar. 2018, in vigore dalle ore 18.00 del 28 mar. 2018 ([RU 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 28 mar. 2018, in vigore dalle ore 18.00 del 28 mar. 2018 ([RU 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)).
+[^4-2]: Nuovo testo giusta la cifra I dell’O del 28 mar. 2018, in vigore dalle ore 18.00 del 28 mar. 2018 ([RU 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)).
 [^4-3]: I testi delle risoluzioni del Consiglio di sicurezza delle Nazioni Unite sono disponibili all’indirizzo: [www.un.org/fr](http://www.un.org/fr) &gt; Etat de droit &gt; Paix et sécurité &gt; Conseil de sécurité &gt; Documents &gt; Résolutions.
-[^4-4]: Introdotto dal n. I dell’O del 28 mar. 2018, in vigore dalle ore 18.00 del 28 mar. 2018 ([RU 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)).
+[^4-4]: Introdotto dalla cifra I dell’O del 28 mar. 2018, in vigore dalle ore 18.00 del 28 mar. 2018 ([RU 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)).
 
 ## Sezione 2: Esecuzione e disposizioni penali
 
@@ -159,7 +159,7 @@ Essa può concedere deroghe alle persone fisiche di cui all’allegato 2:
 
 <sup>4</sup> Su indicazione della SECO, le autorità competenti adottano i provvedimenti necessari al blocco delle risorse economiche, ad esempio la menzione nel registro fondiario di un divieto di disporre dei beni, oppure il pignoramento o il suggellamento di beni di lusso.
 
-[^5-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^5-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -185,7 +185,7 @@ Essa può concedere deroghe alle persone fisiche di cui all’allegato 2:
 
 [^sec3-1]
 
-[^sec3-1]: Nuovo testo giusta il n. I dell’O del 28 mar. 2018, in vigore dalle ore 18.00 del 28 mar. 2018 ([RU 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)).
+[^sec3-1]: Nuovo testo giusta la cifra I dell’O del 28 mar. 2018, in vigore dalle ore 18.00 del 28 mar. 2018 ([RU 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)).
 
 #### Art. 8
 
@@ -193,7 +193,7 @@ Essa può concedere deroghe alle persone fisiche di cui all’allegato 2:
 
 Le liste delle persone fisiche, imprese e organizzazioni, emanate o aggiornate dal Consiglio di sicurezza delle Nazioni Unite o dal Comitato competente del Consiglio di sicurezza delle Nazioni Unite (allegato 1), sono recepite automaticamente.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 28 mar. 2018, in vigore dalle ore 18.00 del 28 mar. 2018 ([RU 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 28 mar. 2018, in vigore dalle ore 18.00 del 28 mar. 2018 ([RU 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)).
 
 #### Art. 8a
 
@@ -201,7 +201,7 @@ Le liste delle persone fisiche, imprese e organizzazioni, emanate o aggiornate d
 
 Il contenuto degli allegati 1 e 2 non è pubblicato né nella Raccolta ufficiale delle leggi federali (RU) né nella Raccolta sistematica del diritto federale (RS).
 
-[^8a-1]: Introdotto dal n. I dell’O del 28 mar. 2018, in vigore dalle ore 18.00 del 28 mar. 2018 ([RU 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)).
+[^8a-1]: Introdotto dalla cifra I dell’O del 28 mar. 2018, in vigore dalle ore 18.00 del 28 mar. 2018 ([RU 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)).
 
 #### Art. 9
 
@@ -217,10 +217,10 @@ Allegato 1[^t-1]
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Originario all. Nuovo testo giusta il n. II dell’O del 28 mar. 2018, in vigore dalle ore 18.00 del 28 mar. 2018 ([RU 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)).
+[^t-1]: Originario all. Nuovo testo giusta la cifra II dell’O del 28 mar. 2018, in vigore dalle ore 18.00 del 28 mar. 2018 ([RU 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)).
 [^annex1-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2023/26](https://fedlex.data.admin.ch/eli/oc/2023/26) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
-**Nota bene**
+Nota bene
 
 - 1\. Il presente allegato corrisponde alle liste delle persone fisiche, imprese e organizzazioni indicate dal Consiglio di sicurezza delle Nazioni Unite o dal Comitato competente del Consiglio di sicurezza delle Nazioni Unite[^annex1-lvlu1-2].
 - 2\. In generale, la SECO inserisce le liste nella banca dati SESAM (SECO Sanctions Management) il giorno feriale successivo alla loro comunicazione da parte delle Nazioni Unite[^annex1-lvlu1-3].
@@ -236,5 +236,5 @@ Allegato 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Introdotto dal n. II cpv. 2 dell’O del 28 mar. 2018 ([RU 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)). Aggiornato dal n. I delle O del DEFR del 2 ago. 2018 ([RU 2018 2847](https://fedlex.data.admin.ch/eli/oc/2018/436)), del 23 gen. 2023 ([RU 2023 26](https://fedlex.data.admin.ch/eli/oc/2023/26)) e del 27 giu. 2024, in vigore dal 28 giu. 2024 alle ore 18.00 ([RU 2024 320](https://fedlex.data.admin.ch/eli/oc/2024/320)).
-[^annex2-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/320](https://fedlex.data.admin.ch/eli/oc/2024/320) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-2]: Introdotto dalla cifra II cpv. 2 dell’O del 28 mar. 2018 ([RU 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)). Aggiornato dalle cifre I delle O del DEFR del 2 ago. 2018 ([RU 2018 2847](https://fedlex.data.admin.ch/eli/oc/2018/436)), del 23 gen. 2023 ([RU 2023 26](https://fedlex.data.admin.ch/eli/oc/2023/26)), del 27 giu. 2024 ([RU 2024 320](https://fedlex.data.admin.ch/eli/oc/2024/320)) e del 18 ago. 2025, in vigore dal 20 ago. 2025 ([RU 2025 516](https://fedlex.data.admin.ch/eli/oc/2025/516)).
+[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/516](https://fedlex.data.admin.ch/eli/oc/2025/516) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.

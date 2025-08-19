@@ -3,18 +3,18 @@ sr: "946.231.169.9"
 title: "Ordonnance du 12 août 2015 instituant des mesures à l'encontre de la République du Soudan du Sud"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/532"
 language: fr
-version: 2024-06-28
+version: 2025-08-20
 adopted: 2015-08-12
 in_force: 2015-08-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/532/20240628/fr/xml/fedlex-data-admin-ch-eli-cc-2015-532-20240628-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/532/20240628/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/532/20250820/fr/xml/fedlex-data-admin-ch-eli-cc-2015-532-20250820-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/532/20250820/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la République du Soudan du Sud
 
-du 12 août 2015 (État le 28 juin 2024)
+du 12 août 2015 (État le 20 août 2025)
 
 Le Conseil fédéral suisse,
 
@@ -22,7 +22,7 @@ vu l’art. 2 de la loi du 22 mars 2002 sur les embargos (LEmb)[^ingress-1],
 
 arrête:
 
-[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 
 ## Section 1 Mesures de coercition
 
@@ -62,8 +62,8 @@ Le SECO peut, après consultation des services compétents du DFAE et en conform
 [^1-2]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2018, en vigueur depuis le 14 déc. 2018 ([RO 2018 4557](https://fedlex.data.admin.ch/eli/oc/2018/710)).
 [^1-3]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2018, en vigueur depuis le 14 déc. 2018 ([RO 2018 4557](https://fedlex.data.admin.ch/eli/oc/2018/710)).
 [^1-4]: Introduit par le ch. I de l’O du 30 nov. 2018, en vigueur depuis le 14 déc. 2018 ([RO 2018 4557](https://fedlex.data.admin.ch/eli/oc/2018/710)).
-[^1-5]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^1-6]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^1-5]: [RS 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
+[^1-6]: [RS 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
 
 #### Art. 2
 
@@ -159,7 +159,7 @@ Il peut, pour des personnes physiques visées à l’annexe 2, accorder des exce
 
 <sup>4</sup> Sur instruction du SECO, les autorités compétentes prennent les mesures nécessaires pour le gel des ressources économiques, par exemple la mention d’un blocage du registre foncier ou la saisie ou la mise sous scellé de biens de luxe.
 
-[^5-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^5-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -236,5 +236,5 @@ Annexe 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Introduite par le ch. II al. 2 de l’O du 28 mars 2018 ([RO 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)). Mise à jour par le ch. I des O du DEFR du 2 août 2018 ([RO 2018 2847](https://fedlex.data.admin.ch/eli/oc/2018/436)), du 23 janv. 2023 ([RO 2023 26](https://fedlex.data.admin.ch/eli/oc/2023/26)) et du 27 juin 2024, en vigueur depuis le 28 juin 2024 à 18 heures ([RO 2024 320](https://fedlex.data.admin.ch/eli/oc/2024/320)).
-[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/320](https://fedlex.data.admin.ch/eli/oc/2024/320) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-2]: Introduite par le ch. II al. 2 de l’O du 28 mars 2018 ([RO 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)). Mise à jour par le ch. I des O du DEFR du 2 août 2018 ([RO 2018 2847](https://fedlex.data.admin.ch/eli/oc/2018/436)), du 23 janv. 2023 ([RO 2023 26](https://fedlex.data.admin.ch/eli/oc/2023/26)), du 27 juin 2024 ([RO 2024 320](https://fedlex.data.admin.ch/eli/oc/2024/320)) et du 18 août 2025, en vigueur depuis le 20 août 2025 ([RO 2025 516](https://fedlex.data.admin.ch/eli/oc/2025/516)).
+[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/516](https://fedlex.data.admin.ch/eli/oc/2025/516) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.

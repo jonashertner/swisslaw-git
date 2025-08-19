@@ -3,18 +3,18 @@ sr: "946.231.169.9"
 title: Verordnung vom 12. August 2015 über Massnahmen gegenüber der Republik Südsudan
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/532"
 language: de
-version: 2024-06-28
+version: 2025-08-20
 adopted: 2015-08-12
 in_force: 2015-08-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/532/20240628/de/xml/fedlex-data-admin-ch-eli-cc-2015-532-20240628-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/532/20240628/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/532/20250820/de/xml/fedlex-data-admin-ch-eli-cc-2015-532-20250820-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/532/20250820/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber der Republik Südsudan
 
-vom 12. August 2015 (Stand am 28. Juni 2024)
+vom 12. August 2015 (Stand am 20. August 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -22,7 +22,7 @@ gestützt auf Artikel 2 des Embargogesetzes vom 22. März 2002[^ingress-1] (EmbG
 
 verordnet:
 
-[^ingress-1]: [SR 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-1]: [SR 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 
 ## 1. Abschnitt: Zwangsmassnahmen
 
@@ -62,8 +62,8 @@ Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und in Übe
 [^1-2]: Fassung gemäss Ziff. I der V vom 30. Nov. 2018, in Kraft seit 14. Dez. 2018 ([AS 2018 4557](https://fedlex.data.admin.ch/eli/oc/2018/710)).
 [^1-3]: Fassung gemäss Ziff. I der V vom 30. Nov. 2018, in Kraft seit 14. Dez. 2018 ([AS 2018 4557](https://fedlex.data.admin.ch/eli/oc/2018/710)).
 [^1-4]: Eingefügt durch Ziff. I der V vom 30. Nov. 2018, in Kraft seit 14. Dez. 2018 ([AS 2018 4557](https://fedlex.data.admin.ch/eli/oc/2018/710)).
-[^1-5]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^1-6]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^1-5]: [SR 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
+[^1-6]: [SR 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
 
 #### Art. 2
 
@@ -159,7 +159,7 @@ Es kann für natürliche Personen nach Anhang 2 Ausnahmen gewähren:
 
 <sup>4</sup> Die zuständigen Behörden ergreifen auf Anweisung des SECO die für die Sperrung wirtschaftlicher Ressourcen notwendigen Massnahmen wie die Anmerkung einer Verfügungssperre im Grundbuch oder die Pfändung oder Versiegelung von Luxusgütern.
 
-[^5-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^5-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -224,7 +224,6 @@ Anmerkung
 
 - 1\. Dieser Anhang entspricht den Listen der vom Sicherheitsrat der Vereinten Nationen bzw. der vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bezeichneten natürlichen Personen, Unternehmen und Organisationen.[^annex1-lvlu1-2]
 - 2\. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen.[^annex1-lvlu1-3]
-- [tab]
 
 [^annex1-lvlu1-2]: Die Listen sind im Internet unter folgender Adresse abrufbar: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions concernant le Soudan du Sud &gt; Matériaux relatifs à la liste de sanctions.
 [^annex1-lvlu1-3]: Die Datenbank SESAM ist im Internet frei zugänglich unter: www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos. Ein Ausdruck der Liste kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden.
@@ -237,5 +236,5 @@ Anhang 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Eingefügt durch Ziff. II Abs. 2 der V vom 28. März 2018 ([AS 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)). Bereinigt gemäss Ziff. I der V des WBF vom 2. Aug. 2018 ([AS 2018 2847](https://fedlex.data.admin.ch/eli/oc/2018/436)), vom 23. Jan. 2023 ([AS 2023 26](https://fedlex.data.admin.ch/eli/oc/2023/26)) und vom 27. Juni 2024, in Kraft seit 28. Juni 2024 um 18 Uhr ([AS 2024 320](https://fedlex.data.admin.ch/eli/oc/2024/320)).
-[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/320](https://fedlex.data.admin.ch/eli/oc/2024/320) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-2]: Eingefügt durch Ziff. II Abs. 2 der V vom 28. März 2018 ([AS 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)). Bereinigt gemäss Ziff. I der V des WBF vom 2. Aug. 2018 ([AS 2018 2847](https://fedlex.data.admin.ch/eli/oc/2018/436)), vom 23. Jan. 2023 ([AS 2023 26](https://fedlex.data.admin.ch/eli/oc/2023/26)), vom 27. Juni 2024 ([AS 2024 320](https://fedlex.data.admin.ch/eli/oc/2024/320)) und vom 18. Aug. 2025, in Kraft seit 20. Aug. 2025 ([AS 2025 516](https://fedlex.data.admin.ch/eli/oc/2025/516)).
+[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/516](https://fedlex.data.admin.ch/eli/oc/2025/516) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
