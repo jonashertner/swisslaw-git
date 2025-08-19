@@ -1,129 +1,154 @@
 ---
 canton: UR
 number: "70.2431"
-title: Verordnung über Errichtung und Betrieb von öffentlichen Zeltplätzen
+title: VERORDNUNG über Errichtung und Betrieb von öffentlichen Zeltplätzen
 short: Campingverordnung
 language: de
 version: 1995-06-01
+corrected: 2025-08-20
 version_adopted: 1994-03-23
 adopted: 1961-06-12
 in_force: 1961-09-27
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/70.2431"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/983/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/36/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung über Errichtung und Betrieb von öffentlichen Zeltplätzen
+# VERORDNUNG über Errichtung und Betrieb von öffentlichen Zeltplätzen
 
-(Campingverordnung)
+VERORDNUNG über Errichtung und Betrieb von öffentlichen Zeltplätzen (Campingverordnung)
 
-Vom 12.06.1961 (Stand 01.06.1995)
+(vom 12. Juni 1961[^t-1]; Stand am 6. Januar 1995)
 
-Der Landrat des Kantons Uri,
+Der Landrat des Kantons Uri, gestützt auf Artikel 59 lit. e der Kantonsverfassung<sup>2</sup> und Artikel 1 und 2 des Wirtschaftsgesetzes,
 
-gestützt auf Artikel 59 lit. e der Kantonsverfassung (RB [1.1101](https://rechtsbuch.ur.ch/data/1.1101/de)) und Artikel 1 und 2 des Wirtschaftsgesetzes,
+auf den Antrag des Regierungsrates,
 
 beschliesst:
 
-## 1 Anwendungsbereich
+[^t-1]: AB vom 29. Juni 1961
+
+### I.Anwendungsbereich
 
 #### Artikel 1
 
-<sup>1</sup> Unter die Bestimmungen dieser Verordnung fallen alle bestehenden und zukünftigen öffentlichen Zeltplätze (Campings) auf privatem oder öffentlichem Grund und Boden, welche regelmässig und gewerbsmässig zur Verfügung gestellt werden.
+Unter die Bestimmungen dieser Verordnung fallen alle bestehenden und zukünftigen öffentlichen Zeltplätze (Campings) auf privatem oder öffentlichem Grund und Boden, welche regelmässig und gewerbsmässig zur Verfügung gestellt werden.
 
 #### Artikel 2
 
-<sup>1</sup> Ein öffentlicher Zeltplatz im Sinne dieser Verordnung ist ein Grundstück, worauf regelmässig und gegen Entgelt Personen in Zelten, Wohnwagen und ähnlichen beweglichen Einrichtungen beherbergt werden.
+Ein öffentlicher Zeltplatz im Sinne dieser Verordnung ist ein Grundstück, worauf regelmässig und gegen Entgelt Personen in Zelten, Wohnwagen und ähnlichen beweglichen Einrichtungen beherbergt werden.
 
-## 2 Bewilligungspflicht
+### II.Bewilligungspflicht
 
 #### Artikel 3
 
 <sup>1</sup> Für die Errichtung und den Betrieb eines Zeltplatzes bedarf es einer behördlichen Bewilligung.
 
-<sup>2</sup> Zuständig für die Erteilung der Bewilligung ist derjenige Gemeinderat, in dessen Gemeindegebiet der Zeltplatz liegt. Vorgängig der Bewilligung ist jedoch die Genehmigung der zuständigen Direktion einzuholen. Bereits bestehende Zeltplätze haben die Bewilligung noch nachzuholen und fallen ebenfalls unter die Bestimmungen dieser Verordnung.
+<sup>2</sup> Zuständig für die Erteilung der Bewilligung ist derjenige Gemeinderat, in dessen Gemeindegebiet der Zeltplatz liegt. Vorgängig der Bewilligung ist jedoch die Genehmigung der zuständigen Direktion[^3-1] einzuholen. Bereits bestehende Zeltplätze haben die Bewilligung noch nachzuholen und fallen ebenfalls unter die Bestimmungen dieser Verordnung.
 
-<sup>3</sup> Verfügungen des Gemeinderates bzw. der zuständigen Direktion unterliegen der Verwaltungsbeschwerde an den Regierungsrat.
+<sup>3</sup> Verfügungen des Gemeinderates bzw. der zuständigen Direktion unterliegen der Verwaltungsbeschwerde an den Regierungsrat.[^3-2]
+
+[^3-1]: Fassung gemäss Art. 86 Anhang II Ziff. 75 Organisationsverordnung (RB 2.3321)
+[^3-2]: Fassung gemäss LRB vom 23. März 1994, in Kraft gesetzt auf den 1. Juni 1995 (AB vom 8. April 1994).
 
 #### Artikel 4
 
-<sup>1</sup> Gesuche um Bewilligung zur Errichtung und Führung eines Zeltplatzes sind dem zuständigen Gemeinderat einzureichen, wobei folgende Angaben zu machen sind:
+Gesuche um Bewilligung zur Errichtung und Führung eines Zeltplatzes sind dem zuständigen Gemeinderat einzureichen, wobei folgende Angaben zu machen sind:
 
-- a) genaue Personalien des Gesuchstellers unter Beilage eines Leumundszeugnisses
-- b) eine Planvorlage, aus welcher die Situation des Zeltplatzes, dessen Ausmasse und die Zufahrtsmöglichkeiten ersichtlich sind
-- c) die Art und das Ausmass der zur Verfügung stehenden sanitären Einrichtungen
-- d) die höchstmögliche Anzahl der Zelte und Personen inkl. Wohnwagen, welche auf dem Zeltplatz Aufnahme finden können
+- a) genaue Personalien des Gesuchstellers unter Beilage eines Leumundszeugnisses,
 
-## 3 Grundlagen der Bewilligung
+- b) eine Planvorlage, aus welcher die Situation des Zeltplatzes, dessen Ausmasse und die Zufahrtsmöglichkeiten ersichtlich sind,
+
+- c) die Art und das Ausmass der zur Verfügung stehenden sanitären Einrichtungen,
+
+- d) die höchstmögliche Anzahl der Zelte und Personen inkl. Wohnwagen, welche auf dem Zeltplatz Aufnahme finden können.
+
+### III.Grundlagen der Bewilligung
 
 #### Artikel 5
 
-<sup>1</sup> Die Bewilligung zur Errichtung und zum Betrieb eines öffentlichen Zeltplatzes darf nur erteilt werden, wenn dieser folgende Voraussetzungen erfüllt:
+Die Bewilligung zur Errichtung und zum Betrieb eines öffentlichen Zeltplatzes darf nur erteilt werden, wenn dieser folgende Voraussetzungen erfüllt:
 
-- a) Der Platz beziehungsweise das Terrain muss unter dem Gesichtspunkt der öffentlichen Ruhe, Ordnung und Sicherheit sowie der verkehrspolizeilichen Sicherheit für einen Zeltplatz geeignet sein
-- b) Der Platz darf sich nicht im Dorfkern oder nahe bei Kirchen und Schulhäusern befinden
-- c) Es müssen die erforderlichen sanitären und hygienischen Einrichtungen vorhanden sein, insbesondere eine gut unterhaltene, abschliessende Toilettenanlage und eine zweckmässige, saubere Waschgelegenheit, wobei sich das Ausmass je nach der Zahl der Zeltplatzgäste richtet
-- d) Auf jedem Terrain muss einwandfreies Trinkwasser gewährleistet sein, die Abwasser sind geklärt und zweckmässig wegzuleiten
-- e) Es sind grosse gedeckte Abfallbehälter bereitzustellen, die Kehrichtabfuhr muss gewährleistet und vorschriftsgemäss geordnet sein
-- f) Es ist eine angemessene Haftpflichtversicherung abzuschliessen
+- a) Der Platz beziehungsweise das Terrain muss unter dem Gesichtspunkt der öffentlichen Ruhe, Ordnung und Sicherheit sowie der verkehrspolizeilichen Sicherheit für einen Zeltplatz geeignet sein.
+
+- b) Der Platz darf sich nicht im Dorfkern oder nahe bei Kirchen und Schulhäusern befinden.
+
+- c) Es müssen die erforderlichen sanitären und hygienischen Einrichtungen vorhanden sein, insbesondere eine gut unterhaltene, abschliessende Toilettenanlage und eine zweckmässige, saubere Waschgelegenheit, wobei sich das Ausmass je nach der Zahl der Zeltplatzgäste richtet.
+
+- d) Auf jedem Terrain muss einwandfreies Trinkwasser gewährleistet sein, die Abwasser sind geklärt und zweckmässig wegzuleiten.
+
+- e) Es sind grosse gedeckte Abfallbehälter bereitzustellen, die Kehrichtabfuhr muss gewährleistet und vorschriftsgemäss geordnet sein.
+
+- f) Es ist eine angemessene Haftpflichtversicherung abzuschliessen.
 
 #### Artikel 6
 
-<sup>1</sup> Zur Aufrechterhaltung von Ruhe, Anstand und Ordnung ist ein Platzwart zu bestellen und der Bewilligungsbehörde zu melden, welcher für einen in allen Teilen einwandfreien Betrieb verantwortlich ist. Der Platzwart hat sich über einen tadellosen Leumund auszuweisen.
+Zur Aufrechterhaltung von Ruhe, Anstand und Ordnung ist ein Platzwart zu bestellen und der Bewilligungsbehörde zu melden, welcher für einen in allen Teilen einwandfreien Betrieb verantwortlich ist. Der Platzwart hat sich über einen tadellosen Leumund auszuweisen.
 
 #### Artikel 7
 
-<sup>1</sup> Für jeden Zeltplatz muss ein mehrsprachiges Benützer-Reglement aufgestellt und gut sichtbar angeschlagen werden, wobei die Bestimmungen des schweizerischen Camping-Verbandes in angemessener Weise zu berücksichtigen sind.
+Für jeden Zeltplatz muss ein mehrsprachiges Benützer-Reglement aufgestellt und gut sichtbar angeschlagen werden, wobei die Bestimmungen des schweizerischen Camping-Verbandes in angemessener Weise zu berücksichtigen sind.
 
-## 4 Gästekontrolle, Kurtaxe, Warenverkauf
+### IV.Gästekontrolle, Kurtaxe, Warenverkauf
+
+[^hIVGästekontrolleK-1]: Fassung gemäss Art. 35 Ziff. 1 Gastwirtschaftsverordnung (AB vom 27. April 1984)
 
 #### Artikel 8
 
-<sup>1</sup> Wer einen öffentlichen Zeltplatz betreibt, hat eine Gästekontrolle zu führen. Eintragungspflicht und Form richten sich nach den Bestimmungen der Gastwirtschaftsgesetzgebung (RB [70.2111](https://rechtsbuch.ur.ch/data/70.2111/de)).
+[^hIVGästekontrolleK-1]
+
+<sup>1</sup> Wer einen öffentlichen Zeltplatz betreibt, hat eine Gästekontrolle zu führen. Eintragungspflicht und Form richten sich nach den Bestimmungen der Gastwirtschaftsgesetzgebung<sup>6</sup>.
 
 <sup>2</sup> Die Polizeiorgane sind befugt, allfällig notwendig werdende Überprüfungen von Personalien durchzuführen.
 
 #### Artikel 9
 
-<sup>1</sup> In jenen Gemeinden, in denen eine Kur- oder Verkehrstaxe für Campingplätze eingeführt ist, muss nebst der Gebühr für die Benützung des Platzes auch diese Taxe entrichtet und der bezugsberechtigten Stelle abgeliefert werden.
+In jenen Gemeinden, in denen eine Kur- oder Verkehrstaxe für Campingplätze eingeführt ist, muss nebst der Gebühr für die Benützung des Platzes auch diese Taxe entrichtet und der bezugsberechtigten Stelle abgeliefert werden.
 
 #### Artikel 10
 
-<sup>1</sup> Bestehen auf dem Zeltplatz irgend welche Einrichtungen zum Verkauf von Waren, Nahrungs- und Genussmittel sowie Getränken aller Art, so unterliegen diese den bestehenden, hiefür in Betracht fallenden kantonalen und eidgenössischen gesetzlichen Bestimmungen.
+Bestehen auf dem Zeltplatz irgend welche Einrichtungen zum Verkauf von Waren, Nahrungs- und Genussmittel sowie Getränken aller Art, so unterliegen diese den bestehenden, hiefür in Betracht fallenden kantonalen und eidgenössischen gesetzlichen Bestimmungen.
 
-## 5 Aufrechterhaltung von Ruhe, Ordnung und Anstand
+### V.Aufrechterhaltung von Ruhe, Ordnung und Anstand
 
 #### Artikel 11
 
-<sup>1</sup> Der Inhaber eines Zeltplatzes und insbesondere der Platzwart haben strikte darüber zu wachen, dass der Campingbetrieb nicht gegen Anstand und gute Sitten verstösst. Insbesondere haben sie für vollständige Ruhe auf dem Platz zwischen 22:00 und 07:00 Uhr zu sorgen und Zuwiderhandelnde vom Platze zu weisen.
+Der Inhaber eines Zeltplatzes und insbesondere der Platzwart haben strikte darüber zu wachen, dass der Campingbetrieb nicht gegen Anstand und gute Sitten verstösst. Insbesondere haben sie für vollständige Ruhe auf dem Platz zwischen 22.00 und 07.00 Uhr zu sorgen und Zuwiderhandelnde vom Platze zu weisen.
 
 #### Artikel 12
 
-<sup>1</sup> Die Bekleidung der Benützer hat die Regeln des Anstandes zu wahren und kein öffentliches Ärgernis zu erregen. Die Benützer des Zeltplatzes dürfen im Badekostüm den Platz nicht verlassen.
+Die Bekleidung der Benützer hat die Regeln des Anstandes zu wahren und kein öffentliches Ärgernis zu erregen. Die Benützer des Zeltplatzes dürfen im Badekostüm den Platz nicht verlassen.
 
 #### Artikel 13
 
-<sup>1</sup> Der Platzwart hat bei Auftreten von infektiösen oder epidemischen Krankheiten den zuständigen Arzt beizuziehen und den Gemeinderat zu benachrichtigen.
+Der Platzwart hat bei Auftreten von infektiösen oder epidemischen Krankheiten den zuständigen Arzt beizuziehen und den Gemeinderat zu benachrichtigen.
 
 #### Artikel 14
 
-<sup>1</sup> Die Zeltplätze und ihr Betrieb unterstehen der Aufsicht der Polizeiorgane. Die zuständige Direktion ist befugt, bei Missständen einen Zeltplatz sofort zu sperren.
+Die Zeltplätze und ihr Betrieb unterstehen der Aufsicht der Polizeiorgane. Die zuständige Direktion[^14-1] ist befugt, bei Missständen einen Zeltplatz sofort zu sperren.
 
-## 6 Strafbestimmungen
+[^14-1]: Fassung gemäss Art. 86 Anh. II Ziff. 75 Organisationsverordnung (RB 2.3321)
+
+### VI.Strafbestimmungen
 
 #### Artikel 15
 
-<sup>1</sup> Übertretungen dieser Verordnung werden durch das Gericht mit einer Busse von 5 Franken bis 200 Franken bestraft.
+Übertretungen dieser Verordnung werden durch das Gericht mit einer Busse von Fr. 5.-- bis Fr. 200.-- bestraft.
 
-## 7 Schlussbestimmungen
+**VII.Schlussbestimmungen**
 
-#### Artikel 16
+**Artikel 16**
 
-<sup>1</sup> Diese Verordnung tritt nach Ablauf der Referendumsfrist in Kraft[^Artikel16-1].
+<sup>1</sup> Diese Verordnung tritt nach Ablauf der Referendumsfrist in Kraft[^15-1].
+
+**Altdorf, 12. Juni 1961**
+
+**Im Namen des Landrates des Kantons Uri**
+
+**Der Präsident: Martin Furrer Der Kanzleidirektor: Dr. Hans Muheim**
 
 <sup>2</sup> Mit dem Vollzug wird der Regierungsrat beauftragt.
 
-[^Artikel16-1]: Nach Ablauf der Referendumsfrist am 27. September 1961 in Kraft getreten.
-
-AB 29.06.1961
+[^15-1]: Nach Ablauf der Referendumsfrist am 27. September 1961 in Kraft getreten.
