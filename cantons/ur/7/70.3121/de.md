@@ -1,27 +1,32 @@
 ---
 canton: UR
 number: "70.3121"
-title: Reglement zum Bundesgesetz über das Gewerbe der Reisenden
+title: REGLEMENT zum Bundesgesetz über das Gewerbe der Reisenden
 language: de
 version: 2003-08-01
+corrected: 2025-08-20
 version_adopted: 2003-07-08
 adopted: 2003-07-08
 in_force: 2003-08-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/70.3121"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/984/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/37/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement zum Bundesgesetz über das Gewerbe der Reisenden
+# REGLEMENT zum Bundesgesetz über das Gewerbe der Reisenden
 
-Vom 08.07.2003 (Stand 01.08.2003)
+REGLEMENT zum Bundesgesetz über das Gewerbe der Reisenden
 
-Der Regierungsrat des Kantons Uri,
+(vom 8. Juli 2003[^t-1]; Stand am 1. August 2006)
 
-gestützt auf Artikel 17 des Bundesgesetzes vom 23. März 2001 über das Gewerbe der Reisenden (SR [943.1](https://db.clex.ch/link/Bund/943.1/de)),
+Der Regierungsrat des Kantons Uri, gestützt auf Artikel 17 des Bundesgesetzes vom 23. März 2001 über das Gewerbe der Reisenden[^t-2],
 
 beschliesst:
+
+[^t-1]: AB vom 8. August 2003
+[^t-2]: SR 943.1
 
 #### Artikel 1
 
@@ -35,30 +40,34 @@ beschliesst:
 
 **Märkte**
 
-<sup>1</sup> Die Einwohnergemeinden sind die zuständige Behörde im Sinne von Artikel 3 des Bundesgesetzes über das Gewerbe der Reisenden, welche die zeitlich und örtlich begrenzten öffentlichen Märkte ansetzt.
+Die Einwohnergemeinden sind die zuständige Behörde im Sinne von Artikel 3 des Bundesgesetzes über das Gewerbe der Reisenden, welche die zeitlich und örtlich begrenzten öffentlichen Märkte ansetzt.
 
 #### Artikel 3
 
 **Gebühren**
 
-<sup>1</sup> Soweit das Bundesrecht nichts anderes bestimmt, richten sich die Gebühren nach der Gebührenverordnung (RB [3.2512](https://rechtsbuch.ur.ch/data/3.2512/de)) und dem Gebührenreglement (RB [3.2521](https://rechtsbuch.ur.ch/data/3.2521/de)).
+Soweit das Bundesrecht nichts anderes bestimmt, richten sich die Gebühren nach der Gebührenverordnung[^3-1] und dem Gebührenreglement<sup>4</sup>.
+
+[^3-1]: RB 3.2512
 
 #### Artikel 4
 
 **Strafverfolgung**
 
-<sup>1</sup> Die Strafverfolgung richtet sich nach den Bestimmungen der Strafprozessordnung (SR [312.0](https://db.clex.ch/link/Bund/312.0/de)).
+Die Strafverfolgung richtet sich nach den Bestimmungen der Strafprozessordnung[^4-1].
+
+[^4-1]: SR 312.0
 
 #### Artikel 5
 
-**Aufhebung bisherigen Rechts**
-
-<sup>1</sup> Das Reglement vom 20. Dezember 1983 über die Handelsreisenden wird aufgehoben.
+Aufhebung bisherigen Rechts Das Reglement vom 20. Dezember 1983 über die Handelsreisenden<sup>6</sup> wird aufgehoben.
 
 #### Artikel 6
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Reglement tritt am 1. August 2003 in Kraft.
+Dieses Reglement tritt am 1. August 2003 in Kraft.
 
-AB 08.08.2003
+Im Namen des Regierungsrates
+
+Frau Landammann: Dr. Gabi Huber Der Kanzleidirektor: Dr. Peter Huber
