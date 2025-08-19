@@ -1,27 +1,31 @@
 ---
 canton: UR
 number: "3.2110"
-title: Gesetz zum Haushaltsgleichgewicht des Kantons Uri
+title: GESETZ zum Haushaltsgleichgewicht des Kantons Uri
 language: de
 version: 2019-01-01
+corrected: 2025-08-20
 version_adopted: 2018-11-25
 adopted: 2018-11-25
 in_force: 2019-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.2110"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/1004/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/90/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz zum Haushaltsgleichgewicht des Kantons Uri
+# GESETZ zum Haushaltsgleichgewicht des Kantons Uri
 
-Vom 25.11.2018 (Stand 01.01.2019)
+GESETZ zum Haushaltsgleichgewicht des Kantons Uri
 
-Das Volk des Kantons Uri,
+(vom 25. November 2018[^t-1]; Stand am 1. Januar 2019)
 
-gestützt auf Artikel 58 Absatz 1 und Artikel 90 Absatz 1 der Kantonsverfassung (RB [1.1101](https://rechtsbuch.ur.ch/data/1.1101/de)),
+Das Volk des Kantons Uri, gestützt auf Artikel 58 Absatz 1 und Artikel 90 Absatz 1 der Kantonsverfassung<sup>2</sup>,
 
 beschliesst:
+
+[^t-1]: AB vom 1. Juni 2018
 
 #### Artikel 1
 
@@ -45,7 +49,7 @@ beschliesst:
 
 <sup>1</sup> Werden im Budgetvorschlag die Vorgaben nach Artikel 2 nicht eingehalten, so hat der Regierungsrat dem Landrat zusammen mit dem Budget Massnahmen zur Verbesserung vorzuschlagen, mit denen der Fehlbetrag zum Erreichen dieser Vorgaben kompensiert werden kann. Dabei kann die Wirkung der Massnahmen abhängig von der Rechtsgrundlage verzögert eintreten.
 
-<sup>2</sup> In Vorjahren beschlossene, aber noch nicht umgesetzte Verbesserungsmassnahmen werden in ihrer Wirkung angerechnet.
+2 In Vorjahren beschlossene, aber noch nicht umgesetzte Verbesserungsmassnahmen werden in ihrer Wirkung angerechnet.
 
 <sup>3</sup> Der Landrat kann vom Regierungsrat vorgeschlagene Verbesserungsmassnahmen nur mit absolutem Mehr ablehnen.
 
@@ -55,17 +59,13 @@ beschliesst:
 
 **Negative Sanktionen**
 
-<sup>1</sup> Lehnt der Landrat Massnahmen zur Verbesserung gemäss Artikel 3 ab, so wird zur Kompensation der abgelehnten Massnahmen der Steuerfuss so weit in Schritten von einem Prozentpunkt erhöht, bis die Vorgaben nach Artikel 2 eingehalten sind. Die politischen Mitwirkungsrechte des Volks nach Artikel 2 Absatz 4 Gesetz über die direkten Steuern im Kanton Uri (RB [3.2211](https://rechtsbuch.ur.ch/data/3.2211/de)) bleiben vorbehalten.
+Lehnt der Landrat Massnahmen zur Verbesserung gemäss Artikel 3 ab, so wird zur Kompensation der abgelehnten Massnahmen der Steuerfuss so weit in Schritten von einem Prozentpunkt erhöht, bis die Vorgaben nach Artikel 2 eingehalten sind. Die politischen Mitwirkungsrechte des Volks nach Artikel 2 Absatz 4 Gesetz über die direkten Steuern im Kanton Uri<sup>3</sup> bleiben vorbehalten.
 
 #### Artikel 5
 
 **Positive Sanktionen**
 
-<sup>1</sup> Der Steuerfuss ist um mindestens 1 Prozentpunkt pro 5 Prozentpunkte Ertragsüberschuss im Verhältnis zu den Nettoerträgen aus den budgetierten kantonalen Steuern zu senken, wenn:
-
-- a) das kumulierte Gesamtergebnis der Erfolgsrechnung über acht Jahre ausgeglichen ist und
-- b) der Bilanzüberschuss des letzten Rechnungsjahrs grösser ist als die Nettoerträge aus kantonalen Steuern des letzten Rechnungsjahrs und
-- c) im Budgetvorschlag des Regierungsrats an den Landrat der budgetierte Ertragsüberschuss grösser ist als 10 Prozent der budgetierten Nettoerträge aus kantonalen Steuern
+<sup>1</sup> Der Steuerfuss ist um mindestens 1 Prozentpunkt pro 5 Prozentpunkte Ertragsüberschuss im Verhältnis zu den Nettoerträgen aus den budgetierten kantonalen Steuern zu senken, wenn a) das kumulierte Gesamtergebnis der Erfolgsrechnung über acht Jahre ausgeglichen ist und b) der Bilanzüberschuss des letzten Rechnungsjahrs grösser ist als die Nettoerträge aus kantonalen Steuern des letzten Rechnungsjahrs und c) im Budgetvorschlag des Regierungsrats an den Landrat der budgetierte Ertragsüberschuss grösser ist als 10 Prozent der budgetierten Nettoerträge aus kantonalen Steuern.
 
 <sup>2</sup> Der Landrat kann eine positive Sanktion mit absolutem Mehr ablehnen.
 
@@ -73,7 +73,7 @@ beschliesst:
 
 **Vollzug**
 
-<sup>1</sup> Der Regierungsrat vollzieht dieses Gesetz.
+Der Regierungsrat vollzieht dieses Gesetz.
 
 #### Artikel 7
 
@@ -83,4 +83,6 @@ beschliesst:
 
 <sup>2</sup> Es tritt am 1. Januar 2019 in Kraft.
 
-AB 01.06.2018
+Im Namen des Volkes
+
+Der Landammann: Beat Jörg Der Kanzleidirektor: Roman Balli
