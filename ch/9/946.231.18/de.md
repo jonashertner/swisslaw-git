@@ -3,18 +3,18 @@ sr: "946.231.18"
 title: Verordnung vom 25. Mai 2005 über Massnahmen gegenüber dem Sudan
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/371"
 language: de
-version: 2025-01-15
+version: 2025-08-20
 adopted: 2005-05-25
 in_force: 2005-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/371/20250115/de/xml/fedlex-data-admin-ch-eli-cc-2005-371-20250115-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/371/20250115/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/371/20250820/de/xml/fedlex-data-admin-ch-eli-cc-2005-371-20250820-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/371/20250820/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Sudan
 
-vom 25. Mai 2005 (Stand am 15. Januar 2025)
+vom 25. Mai 2005 (Stand am 20. August 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -22,7 +22,7 @@ gestützt auf Artikel 2 des Embargogesetzes vom 22. März 2002[^ingress-1] (EmbG
 
 verordnet:
 
-[^ingress-1]: [SR 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-1]: [SR 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 [^ingress-2]: Die Resolutionen sind auf Französisch und Englisch abrufbar unter: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt;Sanctions &gt; Comité des sanctions &gt; Résolutions.
 [^ingress-3]: Fassung gemäss Ziff. I 15 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
@@ -48,8 +48,8 @@ Das Staatssekretariat für Wirtschaft (SECO) kann nach Rücksprache mit den zust
 
 <sup>4</sup> Vorbehalten bleiben die Bestimmungen des Güterkontrollgesetzes vom 13. Dezember 1996[^1-1] und des Kriegsmaterialgesetzes vom 13. Dezember 1996[^1-2].
 
-[^1-1]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^1-2]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^1-1]: [SR 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
+[^1-2]: [SR 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
 
 #### Art. 2
 
@@ -156,7 +156,7 @@ Das SEM kann für natürliche Personen nach Anhang 2 Ausnahmen gewähren:
 <sup>4</sup> Die zuständigen Behörden ergreifen auf Anweisung des SECO die für die Sperrung wirtschaftlicher Ressourcen notwendigen Massnahmen, zum Beispiel die Anmerkung einer Verfügungssperre im Grundbuch oder die Pfändung oder Versiegelung von Luxusgütern.
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 10. April 2024 um 18.00 ([AS 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
-[^5-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^5-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -231,5 +231,5 @@ Anhang 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Eingefügt durch Ziff. II Abs. 2 der V vom 10. April 2024 ([AS 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)). Bereinigt gemäss Ziff. I der V des WBF vom 8. Juli 2024 ([AS 2024 348](https://fedlex.data.admin.ch/eli/oc/2024/348)) und vom 14. Jan. 2025, in Kraft seit 15. Jan. 2025 um 18.00 ([AS 2025 35](https://fedlex.data.admin.ch/eli/oc/2025/35)).
-[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/35](https://fedlex.data.admin.ch/eli/oc/2025/35) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-2]: Eingefügt durch Ziff. II Abs. 2 der V vom 10. April 2024 ([AS 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)). Bereinigt gemäss Ziff. I der V des WBF vom 8. Juli 2024 ([AS 2024 348](https://fedlex.data.admin.ch/eli/oc/2024/348)), vom 14. Jan. 2025 ([AS 2025 35](https://fedlex.data.admin.ch/eli/oc/2025/35)) und vom 18. Aug. 2025, in Kraft seit 20. Aug. 2025 ([AS 2025 517](https://fedlex.data.admin.ch/eli/oc/2025/517)).
+[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/517](https://fedlex.data.admin.ch/eli/oc/2025/517) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.

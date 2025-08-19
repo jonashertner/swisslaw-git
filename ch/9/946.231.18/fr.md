@@ -3,18 +3,18 @@ sr: "946.231.18"
 title: "Ordonnance du 25 mai 2005 instituant des mesures à l'encontre du Soudan"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/371"
 language: fr
-version: 2025-01-15
+version: 2025-08-20
 adopted: 2005-05-25
 in_force: 2005-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/371/20250115/fr/xml/fedlex-data-admin-ch-eli-cc-2005-371-20250115-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/371/20250115/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/371/20250820/fr/xml/fedlex-data-admin-ch-eli-cc-2005-371-20250820-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/371/20250820/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Soudan
 
-du 25 mai 2005 (État le 15 janvier 2025)
+du 25 mai 2005 (État le 20 août 2025)
 
 Le Conseil fédéral suisse,
 
@@ -22,7 +22,7 @@ vu l’art. 2 de la loi du 22 mars 2002 sur les embargos (LEmb)[^ingress-1], en 
 
 arrête:
 
-[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 [^ingress-2]: Les textes des résolutions du Conseil de sécurité des Nations Unies peuvent être consultés à l’adresse suivante: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
 [^ingress-3]: Nouvelle teneur selon le ch. I 15 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
@@ -48,8 +48,8 @@ Le Secrétariat d’État à l’économie (SECO) peut, après consultation des 
 
 <sup>4</sup> Les dispositions de la loi du 13 décembre 1996 sur le contrôle des biens[^1-1] et de la loi fédérale du 13 décembre 1996 sur le matériel de guerre[^1-2] sont réservées.
 
-[^1-1]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^1-2]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^1-1]: [RS 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
+[^1-2]: [RS 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
 
 #### Art. 2
 
@@ -156,7 +156,7 @@ Le SEM peut, pour des personnes physiques visées à l’annexe 2, accorder des 
 <sup>4</sup> Sur instructions du SECO, les autorités compétentes prennent les mesures nécessaires pour le gel des ressources économiques, p.ex. la mention d’un blocage du registre foncier ou la saisie ou la mise sous scellé des biens de luxe.
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 10 avr. 2024 à 18 heures ([RO 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
-[^5-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^5-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -231,5 +231,5 @@ Annexe 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Introduite par le ch. II al. 2 de l’O du 10 avr. 2024 ([RO 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)). Mise à jour par le ch. I des O du DEFR du 8 juil. 2024 ([RO 2024 348](https://fedlex.data.admin.ch/eli/oc/2024/348)) et du 14 janv. 2025, en vigueur depuis le 15 janv. 2025 à 18 heures ([RO 2025 35](https://fedlex.data.admin.ch/eli/oc/2025/35)).
-[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/35](https://fedlex.data.admin.ch/eli/oc/2025/35) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-2]: Introduite par le ch. II al. 2 de l’O du 10 avr. 2024 ([RO 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)). Mise à jour par le ch. I des O du DEFR du 8 juil. 2024 ([RO 2024 348](https://fedlex.data.admin.ch/eli/oc/2024/348)), du 14 janv. 2025 ([RO 2025 35](https://fedlex.data.admin.ch/eli/oc/2025/35)) et du 18 août 2025, en vigueur depuis le 20 août 2025 ([RO 2025 517](https://fedlex.data.admin.ch/eli/oc/2025/517)).
+[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/517](https://fedlex.data.admin.ch/eli/oc/2025/517) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.

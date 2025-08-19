@@ -3,18 +3,18 @@ sr: "946.231.18"
 title: Ordinanza del 25 maggio 2005 che istituisce provvedimenti nei confronti del Sudan
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/371"
 language: it
-version: 2025-01-15
+version: 2025-08-20
 adopted: 2005-05-25
 in_force: 2005-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/371/20250115/it/xml/fedlex-data-admin-ch-eli-cc-2005-371-20250115-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/371/20250115/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/371/20250820/it/xml/fedlex-data-admin-ch-eli-cc-2005-371-20250820-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/371/20250820/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti del Sudan
 
-del 25 maggio 2005 (Stato 15 gennaio 2025)
+del 25 maggio 2005 (Stato 20 agosto 2025)
 
 Il Consiglio federale svizzero,
 
@@ -22,7 +22,7 @@ visto l’articolo 2 della legge del 22 marzo 2002[^ingress-1] sugli embarghi (L
 
 ordina:
 
-[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 [^ingress-2]: Le risoluzioni sono consultabili in francese e inglese all’indirizzo [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
 [^ingress-3]: Nuovo testo giusta la cifra I 15 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
@@ -49,8 +49,8 @@ La Segreteria di Stato dell’economia (SECO)[^1-1] può, d’intesa con i compe
 <sup>4</sup> Sono fatte salve le disposizioni della legge del 13 dicembre 1996[^1-2] sul controllo dei beni a duplice impiego e della legge del 13 dicembre 1996[^1-3] sul materiale bellico.
 
 [^1-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^1-2]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^1-3]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^1-2]: [RS 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
+[^1-3]: [RS 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
 
 #### Art. 2
 
@@ -232,5 +232,5 @@ Allegato 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Introdotto dalla cifra II cpv. 2 dell’O del 10 apr. 2024 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)). Aggiornato dalle cifre I dell’O del DEFR dell’8 lug. 2024 ([RU 2024 348](https://fedlex.data.admin.ch/eli/oc/2024/348)) e del 14 gen. 2025, in vigore il 15 gen. 2025 alle ore 18.00 ([RU 2025 35](https://fedlex.data.admin.ch/eli/oc/2025/35)).
-[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/35](https://fedlex.data.admin.ch/eli/oc/2025/35) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-2]: Introdotto dalla cifra II cpv. 2 dell’O del 10 apr. 2024 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)). Aggiornato dalle cifre I dell’O del DEFR dell’8 lug. 2024 ([RU 2024 348](https://fedlex.data.admin.ch/eli/oc/2024/348)), del 14 gen. 2025 ([RU 2025 35](https://fedlex.data.admin.ch/eli/oc/2025/35)) e del 18 ago. 2025, in vigore il 20 ago. 2025 ([RU 2025 517](https://fedlex.data.admin.ch/eli/oc/2025/517)).
+[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/517](https://fedlex.data.admin.ch/eli/oc/2025/517) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
