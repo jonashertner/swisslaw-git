@@ -1,46 +1,55 @@
 ---
 canton: UR
 number: "10.2401"
-title: Verordnung über die Kantonale Mittelschule Uri
+title: VERORDNUNG über die Kantonale Mittelschule Uri
 short: Mittelschulverordnung
 language: de
 version: 2023-08-01
+corrected: 2025-08-20
 version_adopted: 2023-08-01
 adopted: 2000-04-05
 in_force: 2001-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.2401"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/968/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/329/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung über die Kantonale Mittelschule Uri
+# VERORDNUNG über die Kantonale Mittelschule Uri
 
-(Mittelschulverordnung)
+VERORDNUNG über die Kantonale Mittelschule Uri (Mittelschulverordnung)
 
-Vom 05.04.2000 (Stand 01.08.2023)
+(vom 5. April 2000[^t-1]; Stand am 1. August 2023)
 
-Der Landrat des Kantons Uri,
-
-gestützt auf Artikel 5 Absatz 2 und Artikel 68 des Gesetzes vom 25. September 2022 über Schule und Bildung (Bildungsgesetz, RB [10.1111](https://rechtsbuch.ur.ch/data/10.1111/de)) und Artikel 90 Absatz 2 der Verfassung des Kantons Uri (RB [1.1101](https://rechtsbuch.ur.ch/data/1.1101/de)),
+Der Landrat des Kantons Uri, gestützt auf Artikel 5 Absatz 2 und Artikel 68 des Gesetzes vom 25. September 2022 über Schule und Bildung (Bildungsgesetz)[^t-2] und Artikel 90 Absatz 2 der Verfassung des Kantons Uri[^t-3],[^t-4]
 
 beschliesst:
 
-## 1 Allgemeine Bestimmungen
+[^t-1]: AB vom 14. April 2000
+[^t-2]: RB 10.1111
+[^t-3]: RB 1.1101
+[^t-4]: Fassung gemäss LRB vom 21. Juni 2023, in Kraft gesetzt auf den 1. August 2023 (AB vom 30. Juni 2023).
+
+### 1. Kapitel: ALLGEMEINE BESTIMMUNGEN
+
+[^h1KapitelALLGEMEI-1]: Fassung gemäss LRB vom 21. Juni 2023, in Kraft gesetzt auf den 1. August 2023 (AB vom 30. Juni 2023).
 
 #### Artikel 1
 
-**Gegenstand und Zweck**
+**Gegenstand und Zweck**[^h1KapitelALLGEMEI-1]
 
-<sup>1</sup> Diese Verordnung vollzieht und ergänzt das Bildungsgesetz im Bereich der Mittelschule.
+Diese Verordnung vollzieht und ergänzt das Bildungsgesetz im Bereich der Mittelschule.
 
 #### Artikel 2
 
 **Anwendbares Recht**
 
-<sup>1</sup> Soweit dieser Verordnung keine Bestimmung entnommen werden kann, ist die Bildungsgesetzgebung sinngemäss anwendbar.
+<sup>1</sup> Soweit dieser Verordnung keine Bestimmung entnommen werden kann, ist die Bildungsgesetzgebung sinngemäss anwendbar.[^2-1]
 
 <sup>2</sup> Vorbehalten bleiben besondere Vorschriften des eidgenössischen und kantonalen Rechts.
+
+[^2-1]: Fassung gemäss LRB vom 21. Juni 2023, in Kraft gesetzt auf den 1. August 2023 (AB vom 30. Juni 2023).
 
 #### Artikel 3
 
@@ -64,9 +73,9 @@ beschliesst:
 
 <sup>2</sup> Die Mittelschule Uri ist eine öffentlich-rechtliche Anstalt des Kantons ohne eigene Rechtspersönlichkeit.
 
-## 2 Schulsystem
+### 2. Kapitel: SCHULSYSTEM
 
-### 2.1 Aufbau der Schule
+### 1. Abschnitt: Aufbau der Schule
 
 #### Artikel 5
 
@@ -74,38 +83,47 @@ beschliesst:
 
 <sup>1</sup> Die Mittelschule Uri:
 
-- a) führt ein Gymnasium (gymnasiale Maturitätsschule)
-- b) führt eine Weiterbildungsschule (WS)
-- c) unterstützt Schülerinnen und Schüler mit ausserordentlichen Begabungen
-- d) stellt besondere Schuldienste zur Verfügung
+- a) führt ein Gymnasium (gymnasiale Maturitätsschule);
 
-<sup>1.1</sup> Übergangsbestimmung: Der Regierungsrat bezeichnet die Klassen des Lehrerinnen- und Lehrerseminars, für die weiterhin die vom Regierungsrat bestimmten Vorschriften der Verordnung über das Mittelschulwesen vom 13. November 1985 (RB [10.2401](https://rechtsbuch.ur.ch/data/10.2401/de)) gelten.
+- b) führt eine Weiterbildungsschule (WS);
+
+- c) unterstützt Schülerinnen und Schüler mit ausserordentlichen Begabungen;
+
+- d) stellt besondere Schuldienste zur Verfügung.
+
+### Übergangsbestimmung
+
+Der Regierungsrat bezeichnet die Klassen des Lehrerinnen- und Lehrerseminars, für die weiterhin die vom Regierungsrat bestimmten Vorschriften der Verordnung über das Mittelschulwesen vom 13. November 1985<sup>7</sup> gelten.
 
 <sup>2</sup> Die Schule kann weitere Schulangebote führen.
 
-<sup>3</sup> Die Errichtung neuer und die Aufhebung bestehender Schulangebote bedürfen der Zustimmung des Landrates. Der Regierungsrat erlässt die näheren Bestimmungen.
+3 Die Errichtung neuer und die Aufhebung bestehender Schulangebote bedürfen der Zustimmung des Landrates. Der Regierungsrat erlässt die näheren Bestimmungen.
 
-### 2.2 Einzelne Schulangebote
+### 2. Abschnitt: Einzelne Schulangebote
+
+[^h2AbschnittEinzel-1]: Fassung gemäss LRB vom 21. Juni 2023, in Kraft gesetzt auf den 1. August 2023 (AB vom 30. Juni 2023).
 
 #### Artikel 6
 
-**Gymnasium**
+**Gymnasium**[^h2AbschnittEinzel-1]
 
-<sup>1</sup> Das Gymnasium schliesst in der Regel an das Ende der Primarstufe an und dauert sechs Schuljahre. Für Schülerinnen und Schüler mit ausreichenden Fähigkeiten ist die Durchlässigkeit zwischen Oberstufe und Gymnasium im 1. und 2. Jahr der Sekundarstufe I gewährleistet.
+Das Gymnasium schliesst in der Regel an das Ende der Primarstufe an und dauert sechs Schuljahre. Für Schülerinnen und Schüler mit ausreichenden Fähigkeiten ist die Durchlässigkeit zwischen Oberstufe und Gymnasium im 1. und 2. Jahr der Sekundarstufe I gewährleistet.
 
 #### Artikel 7
 
 **Weiterbildungsschule (WS)**
 
-<sup>1</sup> Die Weiterbildungsschule schliesst an das 3. Jahr der Sekundarstufe I an. Sie dient der vertieften Allgemeinbildung und bereitet auf Berufsbildungen vor, die eine besondere Vorbildung erfordern.
+<sup>1</sup> Die Weiterbildungsschule schliesst an das 3. Jahr der Sekundarstufe I an. Sie dient der vertieften Allgemeinbildung und bereitet auf Berufsbildungen vor, die eine besondere Vorbildung erfordern.[^7-1]
 
 <sup>2</sup> Der Erziehungsrat ordnet das Nähere in einem Reglement, namentlich die Eintrittsvoraussetzungen und die Anforderungen für das Abschlusszeugnis.
+
+[^7-1]: Fassung gemäss LRB vom 21. Juni 2023, in Kraft gesetzt auf den 1. August 2023 (AB vom 30. Juni 2023).
 
 #### Artikel 8
 
 **Begabtenförderung**
 
-<sup>1</sup> Die Förderung von Schülerinnen und Schülern mit ausserordentlichen Begabungen richtet sich sinngemäss nach Artikel 12 Absatz 1 der Schulverordnung (RB [10.1115](https://rechtsbuch.ur.ch/data/10.1115/de)). Ergänzend dazu besteht die Möglichkeit, die Maturitätsprüfung in einzelnen oder allen Fächern vorzeitig abzulegen.
+<sup>1</sup> Die Förderung von Schülerinnen und Schülern mit ausserordentlichen Begabungen richtet sich sinngemäss nach Artikel 12 Absatz 1 der Schulverordnung<sup>10</sup>. Ergänzend dazu besteht die Möglichkeit, die Maturitätsprüfung in einzelnen oder allen Fächern vorzeitig abzulegen.
 
 <sup>2</sup> Der Mittelschulrat bewilligt entsprechende Gesuche um Begabtenförderung auf Antrag der Schülerin oder des Schülers und der Lehrperson. Anträge Unmündiger bedürfen der Zustimmung der Eltern.
 
@@ -117,13 +135,13 @@ beschliesst:
 
 <sup>1</sup> Die Schule richtet eine Berufs- und Laufbahnberatung ein oder beteiligt sich an bestehenden Diensten.
 
-<sup>2</sup> Bei genügendem Bedarf können weitere zweckdienliche Schuldienste bereitgestellt werden.
+2 Bei genügendem Bedarf können weitere zweckdienliche Schuldienste bereitgestellt werden.
 
 <sup>3</sup> Die Bereitstellung der Schuldienste erfolgt, soweit als möglich, in Zusammenarbeit mit anderen Kantonen oder privaten und öffentlichen Einrichtungen. Der Regierungsrat schliesst die entsprechenden Vereinbarungen ab.
 
-## 3 Organisation der Schule
+### 3. Kapitel: ORGANISATION DER SCHULE
 
-### 3.1 Zulassung und Schulgeld
+### 1. Abschnitt: Zulassung und Schulgeld
 
 #### Artikel 10
 
@@ -145,9 +163,9 @@ beschliesst:
 
 <sup>3</sup> Der Regierungsrat setzt das Schulgeld fest. Er unterscheidet dabei ausserkantonale und im Kanton Uri wohnhafte Schülerinnen und Schüler.
 
-<sup>4</sup> Für die Inanspruchnahme besonderer Einrichtungen und Dienstleistungen kann die Schulleitung Abgaben verlangen. Dabei sind die Gebührenverordnung (RB [3.2512](https://rechtsbuch.ur.ch/data/3.2512/de)) und das Gebührenreglement (RB [3.2521](https://rechtsbuch.ur.ch/data/3.2521/de)) sinngemäss anwendbar.
+<sup>4</sup> Für die Inanspruchnahme besonderer Einrichtungen und Dienstleistungen kann die Schulleitung Abgaben verlangen. Dabei sind die Gebührenverordnung<sup>11</sup> und das Gebührenreglement<sup>12</sup> sinngemäss anwendbar.
 
-### 3.2 Schuldauer
+### 2. Abschnitt: Schuldauer
 
 #### Artikel 12
 
@@ -183,7 +201,7 @@ beschliesst:
 
 <sup>3</sup> Die Schulleitung kann mit Zustimmung des Mittelschulrates ein Selbstdispensationssystem für Schülerinnen und Schüler einführen.
 
-### 3.3 Schulbetrieb
+### 3. Abschnitt: Schulbetrieb
 
 #### Artikel 16
 
@@ -191,15 +209,17 @@ beschliesst:
 
 <sup>1</sup> Der Erziehungsrat erlässt den Lehrplan und die Stundentafel für die 1. und 2. Klasse des Gymnasiums (Untergymnasium).
 
-<sup>2</sup> Der Mittelschulrat erlässt die übrigen Lehrpläne und Stundentafeln. Er berücksichtigt für das 3. Jahr der Sekundarstufe I die Interessen der Volksschule.
+<sup>2</sup> Der Mittelschulrat erlässt die übrigen Lehrpläne und Stundentafeln. Er berücksichtigt für das 3. Jahr der Sekundarstufe I die Interessen der Volksschule.[^16-1]
 
-<sup>3</sup> Die Schulleitung erstellt unter Mitsprache der Lehrerschaft die Stundenpläne und teilt den Lehrpersonen die Pensen zu.
+3 Die Schulleitung erstellt unter Mitsprache der Lehrerschaft die Stundenpläne und teilt den Lehrpersonen die Pensen zu.
+
+[^16-1]: Fassung gemäss LRB vom 21. Juni 2023, in Kraft gesetzt auf den 1. August 2023 (AB vom 30. Juni 2023).
 
 #### Artikel 17
 
 **Übertritt und Promotion**
 
-<sup>1</sup> Der Erziehungsrat erlässt ein Reglement zum Übertritt der Schülerinnen und Schüler in die ersten drei Gymnasialklassen (RB [10.1711](https://rechtsbuch.ur.ch/data/10.1711/de)) und zur Promotion bis zum Eintritt in die 3. Klasse (RB [10.2418](https://rechtsbuch.ur.ch/data/10.2418/de)).
+<sup>1</sup> Der Erziehungsrat erlässt ein Reglement zum Übertritt der Schülerinnen und Schüler in die ersten drei Gymnasialklassen<sup>14</sup> und zur Promotion bis zum Eintritt in die 3. Klasse<sup>15</sup>.
 
 <sup>2</sup> Der Mittelschulrat erlässt entsprechende Vorschriften für die Schülerinnen und Schüler der übrigen Klassen.
 
@@ -213,7 +233,7 @@ beschliesst:
 
 <sup>3</sup> Die Schulleitung sorgt dafür, dass bei der Wahl der Lehrmittel ein angemessener Kostenrahmen beachtet wird.
 
-### 3.4 Klassengrösse
+### 4. Abschnitt: Klassengrösse
 
 #### Artikel 19
 
@@ -223,13 +243,12 @@ beschliesst:
 
 <sup>2</sup> Über zeitweilige Abweichungen von der Schülerzahl nach Absatz 1 entscheidet der Mittelschulrat.
 
-### 3.5 Eltern, Schülerinnen und Schüler
+### 5. Abschnitt: Eltern, Schülerinnen und Schüler
 
-#### Artikel 20
+Artikel 20[^h5AbschnittEltern-1] Rechte, Pflichten und Disziplinarmassnahmen Die Rechte und Pflichten der Eltern sowie der Schülerinnen und Schüler und die Disziplinarmassnahmen richten sich nach dem Bildungsgesetz und sinngemäss nach der Schulverordnung[^h5AbschnittEltern-2].
 
-**Rechte, Pflichten und Disziplinarmassnahmen**
-
-<sup>1</sup> Die Rechte und Pflichten der Eltern sowie der Schülerinnen und Schüler und die Disziplinarmassnahmen richten sich nach dem Bildungsgesetz und sinngemäss nach der Schulverordnung (RB [10.1115](https://rechtsbuch.ur.ch/data/10.1115/de)).
+[^h5AbschnittEltern-1]: Fassung gemäss LRB vom 21. Juni 2023, in Kraft gesetzt auf den 1. August 2023 (AB vom 30. Juni 2023).
+[^h5AbschnittEltern-2]: RB 10.1115
 
 #### Artikel 21
 
@@ -237,16 +256,19 @@ beschliesst:
 
 <sup>1</sup> Die Schulleitung ist für folgende Disziplinarmassnahmen zuständig:
 
-- a) Verweis
-- b) disziplinarische Bemerkung im Zeugnis
-- c) zeitweisen Ausschluss aus der Schule, der länger als drei Schulhalbtage dauern soll
-- d) dauernden Ausschluss aus der Schule
+- a) Verweis;
+
+- b) disziplinarische Bemerkung im Zeugnis;
+
+- c) zeitweisen Ausschluss aus der Schule, der länger als drei Schulhalbtage dauern soll;
+
+- d) dauernden Ausschluss aus der Schule.
 
 <sup>2</sup> Die Disziplinarmassnahmen nach Absatz 1 ergehen in Verfügungsform.
 
 <sup>3</sup> Die Lehrperson trifft die übrigen Disziplinarmassnahmen. Sie begründet sie gegenüber den Betroffenen. Ihre Anordnungen sind endgültig.
 
-### 3.6 Lehrpersonen
+### 6. Abschnitt: Lehrpersonen
 
 #### Artikel 22
 
@@ -254,31 +276,34 @@ beschliesst:
 
 <sup>1</sup> Der Mittelschulrat stellt die Lehrpersonen an.
 
-<sup>2</sup> Angestellt werden kann, wer über eine qualifizierte fachliche und pädagogische Ausbildung verfügt. Im Übrigen gelten die Mindestanforderungen gemäss Artikel 7 MAR (SR [413.11](https://db.clex.ch/link/Bund/413.11/de)).
+<sup>2</sup> Angestellt werden kann, wer über eine qualifizierte fachliche und pädagogische Ausbildung verfügt. Im Übrigen gelten die Mindestanforderungen gemäss Artikel 7 MAR[^22-1].
 
-#### Artikel 23
+Artikel 23[^22-2] Anstellungsverhältnis Das Anstellungsverhältnis der Lehrpersonen richtet sich nach der Personalverordnung<sup>20</sup>.
 
-**Anstellungsverhältnis**
+[^22-1]: SR 413.11
+[^22-2]: Fassung gemäss LRB vom 5. November 2007, in Kraft gesetzt auf den 1. August 2008 (AB vom 16. November 2007).
 
-<sup>1</sup> Das Anstellungsverhältnis der Lehrpersonen richtet sich nach der Personalverordnung (RB [2.4211](https://rechtsbuch.ur.ch/data/2.4211/de)).
+### 4. Kapitel: SCHULINSTANZEN
 
-## 4 Schulinstanzen
-
-### 4.1 Organe der Schule
+### 1. Abschnitt: Organe der Schule
 
 #### Artikel 24
 
 **Organe**
 
-<sup>1</sup> Organe der Schule sind:
+Organe der Schule sind:
 
-- a) der Mittelschulrat
-- b) die Prüfungskommissionen
-- c) die Schulleitung
-- d) die Konferenz der Lehrpersonen
-- e) die Verwaltung
+- a) der Mittelschulrat;
 
-### 4.1.1 Mittelschulrat
+- b) die Prüfungskommissionen;
+
+- c) die Schulleitung;
+
+- d) die Konferenz der Lehrpersonen;
+
+- e) die Verwaltung.
+
+### 1. Unterabschnitt: Mittelschulrat
 
 #### Artikel 25
 
@@ -286,11 +311,13 @@ beschliesst:
 
 <sup>1</sup> Der Mittelschulrat besteht aus sieben Mitgliedern.
 
-<sup>2</sup> Die Bildungsdirektorin oder der Bildungsdirektor übernimmt von Amtes wegen das Präsidium. Die übrigen Mitglieder werden vom Regierungsrat auf die ordentliche Amtsdauer für kantonale Behörden gewählt.
+<sup>2</sup> Die Bildungsdirektorin oder der Bildungsdirektor übernimmt von Amtes wegen das Präsidium. Die übrigen Mitglieder werden vom Regierungsrat auf die ordentliche Amtsdauer für kantonale Behörden gewählt.[^25-1]
 
 <sup>3</sup> Die Schulleitung besorgt das Sekretariat des Mittelschulrates.
 
-<sup>4</sup> Eine Vertretung der Schulleitung und eine von der Konferenz der Lehrpersonen delegierte Lehrperson nehmen mit beratender Stimme an den Sitzungen des Mittelschulrates teil. Bei Bedarf hat die Schulverwaltung mit beratender Stimme Einsitz.
+4 Eine Vertretung der Schulleitung und eine von der Konferenz der Lehrpersonen delegierte Lehrperson nehmen mit beratender Stimme an den Sitzungen des Mittelschulrates teil. Bei Bedarf hat die Schulverwaltung mit beratender Stimme Einsitz.
+
+[^25-1]: Fassung gemäss LRB vom 21. Juni 2023, in Kraft gesetzt auf den 1. August 2023 (AB vom 30. Juni 2023).
 
 #### Artikel 26
 
@@ -302,48 +329,63 @@ beschliesst:
 
 <sup>3</sup> Darüber hinaus hat er:
 
-- a) in schulischen Belangen zu entscheiden, soweit der Entscheid nicht ausdrücklich einer andern Behörde zugewiesen ist
-- b) allgemeine Weisungen gegenüber der Schule zu erlassen
-- c) Rahmenbedingungen für die Qualitätssicherung und ‑förderung der Schule festzulegen
-- d) alle weiteren Aufgaben zu erfüllen, die ihm diese Verordnung überträgt
+- a) in schulischen Belangen zu entscheiden, soweit der Entscheid nicht ausdrücklich einer andern Behörde zugewiesen ist;
+
+- b) allgemeine Weisungen gegenüber der Schule zu erlassen;
+
+- c) Rahmenbedingungen für die Qualitätssicherung und -förderung der Schule festzulegen;
+
+- d) alle weiteren Aufgaben zu erfüllen, die ihm diese Verordnung überträgt.
 
 #### Artikel 27
 
-**Besondere Aufgaben: in schulpolitischer Hinsicht**
+**Besondere Aufgaben**
 
-<sup>1</sup> Der Mittelschulrat hat:
+- a) in schulpolitischer Hinsicht Der Mittelschulrat hat:
 
-- a) das Leitbild für die Schule zu erlassen
-- b) die Prüfungsreglemente zu erlassen
-- c) die Richtlinien für die Fort- und Weiterbildung der Lehrpersonen festzulegen
-- d) die Schulversuche zu bewilligen
+- a) das Leitbild für die Schule zu erlassen;
+
+- b) die Prüfungsreglemente zu erlassen;
+
+- c) die Richtlinien für die Fort- und Weiterbildung der Lehrpersonen festzulegen;
+
+- d) die Schulversuche zu bewilligen.
 
 #### Artikel 28
 
-**Besondere Aufgaben: in personeller Hinsicht**
+**b) in personeller Hinsicht**
 
-<sup>1</sup> Der Mittelschulrat hat:
+Der Mittelschulrat hat:
 
-- a) dem Regierungsrat den Anstellungsantrag für das Rektorat zu stellen
-- b) die Vertretung der Schule in innerkantonale und interkantonale Kommissionen zu wählen
-- c) auf Antrag der Schulleitung, mit Ausnahme der Mitarbeitenden des Hauswartsdienstes, die Mitarbeitenden von Verwaltung und Sekretariat anzustellen
-- d) die Zuweisung der Sonderaufgaben zu genehmigen
+- a) dem Regierungsrat den Anstellungsantrag für das Rektorat zu stellen;
+
+- b) die Vertretung der Schule in innerkantonale und interkantonale Kommissionen zu wählen;
+
+- c) auf Antrag der Schulleitung, mit Ausnahme der Mitarbeitenden des Hauswartsdienstes, die Mitarbeitenden von Verwaltung und Sekretariat anzustellen;[^28-1]
+
+- d) die Zuweisung der Sonderaufgaben zu genehmigen.
+
+[^28-1]: Fassung gemäss LRB vom 21. Juni 2023, in Kraft gesetzt auf den 1. August 2023 (AB vom 30. Juni 2023).
 
 #### Artikel 29
 
-**Besondere Aufgaben: in schulbetrieblicher Hinsicht**
+**c) in schulbetrieblicher Hinsicht**
 
-<sup>1</sup> Der Mittelschulrat hat:
+Der Mittelschulrat hat:
 
-- a) die Dauer der Lektionen zu bestimmen
-- b) den Grundsatzentscheid über die Einrichtung der Schuldienste zu treffen
-- c) die Absenzen- und Beurlaubungsordnung zu genehmigen
-- d) die Pflichtenhefte für die Schulleitung und für die Sonderaufgaben zu erlassen
-- e) die Pflichtenhefte für Verwaltung, Lehrpersonen, Spezialbeauftragte und das übrige Personal zu genehmigen
+- a) die Dauer der Lektionen zu bestimmen;
 
-#### Artikel 30
+- b) den Grundsatzentscheid über die Einrichtung der Schuldienste zu treffen;
 
-**Besondere Aufgaben: in administrativer Hinsicht**
+- c) die Absenzen- und Beurlaubungsordnung zu genehmigen;
+
+- d) die Pflichtenhefte für die Schulleitung und für die Sonderaufgaben zu erlassen;
+
+- e) die Pflichtenhefte für Verwaltung, Lehrpersonen, Spezialbeauftragte und das übrige Personal zu genehmigen.
+
+#### Artikel 30 d
+
+**) in administrativer Hinsicht**
 
 <sup>1</sup> Der Mittelschulrat verabschiedet zuhanden der zuständigen kantonalen Instanzen Budget, Rechnung und allfällige Spezialkreditbegehren.
 
@@ -355,9 +397,9 @@ beschliesst:
 
 **Delegation von Aufgaben und Befugnissen**
 
-<sup>1</sup> Der Mittelschulrat kann Aufgaben und Befugnisse nach dieser Verordnung einem andern Organ der Schule allgemein oder im Einzelfall delegieren.
+Der Mittelschulrat kann Aufgaben und Befugnisse nach dieser Verordnung einem andern Organ der Schule allgemein oder im Einzelfall delegieren.
 
-### 4.1.2 Prüfungskommissionen
+### 2. Unterabschnitt: Prüfungskommissionen
 
 #### Artikel 32
 
@@ -367,9 +409,12 @@ beschliesst:
 
 <sup>2</sup> Die Prüfungskommissionen nehmen die Prüfungen an der Mittelschule nach Massgabe der eidgenössischen und kantonalen Vorschriften ab.
 
-<sup>3</sup> Die Entschädigung der Mitglieder der Prüfungskommissionen erfolgt gemäss Nebenamtsverordnung (RB [2.2251](https://rechtsbuch.ur.ch/data/2.2251/de)).
+<sup>3</sup> Die Entschädigung der Mitglieder der Prüfungskommissionen erfolgt gemäss Nebenamtsverordnung[^32-1].[^32-2]
 
-### 4.1.3 Schulleitung
+[^32-1]: RB 2.2251
+[^32-2]: Eingefügt durch gemäss LRB vom 21. Juni 2023, in Kraft gesetzt auf den 1. August 2023 (AB vom 30. Juni 2023).
+
+### 3. Unterabschnitt: Schulleitung
 
 #### Artikel 33
 
@@ -377,30 +422,37 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat stellt auf Antrag des Mittelschulrats die Rektorin oder den Rektor (Rektorat) an. Der Mittelschulrat stellt die übrige Schulleitung an.
 
-<sup>2</sup> Das Arbeitsverhältnis des Rektorats richtet sich nach jenem der kantonalen Angestellten. Das Rektorat trägt die Gesamtverantwortung für die Führung der Mittelschule. Es ist dem Mittelschulrat für seine Geschäftsführung verantwortlich.
+<sup>2</sup> Das Arbeitsverhältnis des Rektorats richtet sich nach jenem der kantonalen Angestellten. Das Rektorat trägt die Gesamtverantwortung für die Führung der Mittelschule. Es ist dem Mittelschulrat für seine Geschäftsführung verantwortlich.[^33-1]
 
 <sup>3</sup> Es hat insbesondere:
 
-- a) die Verantwortung für die gesamte Personalführung zu tragen
-- b) die Verwaltung und die Hauswartdienste zu leiten
-- c) Aushilfen und Stellvertretungen anzustellen
-- d) die Sonderaufgaben den einzelnen Lehrpersonen zuzuweisen
-- e) die dem Schulbetrieb dienenden Einrichtungen zu verwalten
+- a) die Verantwortung für die gesamte Personalführung zu tragen;
+
+- b) die Verwaltung und die Hauswartdienste zu leiten;
+
+- c) Aushilfen und Stellvertretungen anzustellen;
+
+- d) die Sonderaufgaben den einzelnen Lehrpersonen zuzuweisen;
+
+- e) die dem Schulbetrieb dienenden Einrichtungen zu verwalten.
 
 <sup>4</sup> Die übrige Schulleitung unterstützt das Rektorat bei der Erfüllung seiner Aufgaben.
 
-### 4.1.4 Konferenz der Lehrpersonen
+[^33-1]: Fassung gemäss LRB vom 5. November 2007, in Kraft gesetzt auf den 1. Januar 2008 (AB vom 16. November 2007).
+
+### 4. Unterabschnitt: Konferenz der Lehrpersonen
 
 #### Artikel 34
 
 **Aufgaben**
 
-<sup>1</sup> Die Konferenz der Lehrpersonen ist mitverantwortlich für die Gestaltung des Schulbetriebes und die Weiterentwicklung der Schule. Sie erfüllt diese Aufgabe, indem sie insbesondere:
+Die Konferenz der Lehrpersonen ist mitverantwortlich für die Gestaltung des Schulbetriebes und die Weiterentwicklung der Schule. Sie erfüllt diese Aufgabe, indem sie insbesondere:
 
-- a) Vernehmlassungen und Meinungsäusserungen zu allen wichtigen Schulfragen abgibt
-- b) bei der Besetzung der Schulleitung angehört wird
+- a) Vernehmlassungen und Meinungsäusserungen zu allen wichtigen Schulfragen abgibt;
 
-### 4.1.5 Verwaltung, Sekretariat und Hauswartdienste
+- b) bei der Besetzung der Schulleitung angehört wird.
+
+### 5. Unterabschnitt: Verwaltung, Sekretariat und Hauswartdienste
 
 #### Artikel 35
 
@@ -408,24 +460,25 @@ beschliesst:
 
 <sup>1</sup> Das Rektorat legt die Pflichtenhefte für Verwaltung, Sekretariat und Hauswartdienste fest.
 
-<sup>2</sup> Das Pflichtenheft der Hauswartdienste ist mit dem für den Hochbau zuständigen Amt[^Artikel35-1] abzustimmen.
+<sup>2</sup> Das Pflichtenheft der Hauswartdienste ist mit dem für den Hochbau zuständigen Amt[^35-1] abzustimmen.
 
-[^Artikel35-1]: Amt für Hochbau; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^35-1]: Amt für Hochbau; siehe Organisationsreglement (RB 2.3322).
 
-### 4.2 Kantonale Instanzen
+### 2. Abschnitt: Kantonale Instanzen
 
 #### Artikel 36
 
 **Regierungsrat**
 
-<sup>1</sup> Der Regierungsrat übt die oberste Aufsicht über das Mittelschulwesen aus. Er erfüllt diese Aufgabe durch die zuständige Direktion[^Artikel36-1].
+<sup>1</sup> Der Regierungsrat übt die oberste Aufsicht über das Mittelschulwesen aus. Er erfüllt diese Aufgabe durch die zuständige Direktion[^36-1].
 
 <sup>2</sup> Er ist zudem zuständig:
 
-- a) das Personal der Mittelschule anzustellen, soweit die Anstellung nicht einem Organ der Schule übertragen ist
-- b) den Voranschlag und die Rechnung dem Landrat zur Genehmigung zu unterbreiten
+- a) das Personal der Mittelschule anzustellen, soweit die Anstellung nicht einem Organ der Schule übertragen ist;
 
-[^Artikel36-1]: Bildungs- und Kulturdirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+- b) den Voranschlag und die Rechnung dem Landrat zur Genehmigung zu unterbreiten.
+
+[^36-1]: Bildungs- und Kulturdirektion; siehe Organisationsreglement (RB 2.3322).
 
 #### Artikel 37
 
@@ -435,11 +488,9 @@ beschliesst:
 
 <sup>2</sup> Er erlässt die notwendigen Ausführungsbestimmungen, um die Koordination der Schulsysteme zu gewährleisten.
 
-## 5 Rechtsschutz
+### 5. Kapitel: RECHTSSCHUTZ
 
-#### Artikel 38
-
-**Rechtsschutz**
+Artikel 38[^h5KapitelRECHTSSC-1] Rechtsschutz
 
 <sup>1</sup> Verfügungen der Mittelschule können mit Verwaltungsbeschwerde beim Mittelschulrat angefochten werden.
 
@@ -447,19 +498,23 @@ beschliesst:
 
 <sup>3</sup> Erstinstanzliche Verfügungen des Mittelschulrats können mit Verwaltungsbeschwerde beim Regierungsrat angefochten werden.
 
+[^h5KapitelRECHTSSC-1]: Fassung gemäss LRB vom 21. Juni 2023, in Kraft gesetzt auf den 1. August 2023 (AB vom 30. Juni 2023).
+
 #### Artikel 39
 
 **Kompetenzkonflikte**
 
-<sup>1</sup> Kompetenzkonflikte zwischen Schulorganen entscheidet der Mittelschulrat oder, wenn dieser betroffen ist, der Regierungsrat.
+Kompetenzkonflikte zwischen Schulorganen entscheidet der Mittelschulrat oder, wenn dieser betroffen ist, der Regierungsrat.
 
-## 6 Übergangs- und Schlussbestimmungen
+### 6. Kapitel: ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
 
 #### Artikel 40
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Die Verordnung über das Mittelschulwesen vom 13. November 1985 wird aufgehoben.
+Die Verordnung über das Mittelschulwesen vom 13. November 1985[^40-1] wird aufgehoben.
+
+[^40-1]: RB 10.2401
 
 #### Artikel 41
 
@@ -467,8 +522,10 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung untersteht dem fakultativen Referendum.
 
-<sup>2</sup> Der Regierungsrat bestimmt, wann sie in Kraft tritt[^Artikel41-1]. Er kann sie schrittweise in Kraft setzen.
+<sup>2</sup> Der Regierungsrat bestimmt, wann sie in Kraft tritt[^41-1]. Er kann sie schrittweise in Kraft setzen.
 
-[^Artikel41-1]: Vom Regierungsrat in Kraft gesetzt auf den auf den 1. Januar 2001 (AB vom 24. November 2000).
+Im Namen des Landrates
 
-AB 14.04.2000
+Der Präsident: Josef Gisler-Gamma Der Kanzleidirektor: Dr. Peter Huber
+
+[^41-1]: Vom Regierungsrat in Kraft gesetzt auf den auf den 1. Januar 2001 (AB vom 24. November 2000).
