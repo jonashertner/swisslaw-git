@@ -1,30 +1,33 @@
 ---
 canton: UR
 number: "70.2322"
-title: Einführungsreglement zum Bundesgesetz über das Bergführerwesen und Anbieten weiterer Risikoaktivitäten
+title: EINFÜHRUNGSREGLEMENT zum Bundesgesetz über das Bergführerwesen und Anbieten weiterer Risikoaktivitäten
 short: "Risikoaktivitätenreglement, RiskR"
 language: de
 version: 2014-01-01
+corrected: 2025-08-20
 version_adopted: 2013-08-20
 adopted: 2013-08-20
 in_force: 2014-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/70.2322"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/980/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/33/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Einführungsreglement zum Bundesgesetz über das Bergführerwesen und Anbieten weiterer Risikoaktivitäten
+# EINFÜHRUNGSREGLEMENT zum Bundesgesetz über das Bergführerwesen und Anbieten weiterer Risikoaktivitäten
 
-(Risikoaktivitätenreglement, RiskR)
+EINFÜHRUNGSREGLEMENT zum Bundesgesetz über das Bergführerwesen und Anbieten weiterer Risikoaktivitäten (Risikoaktivitätenreglement, RiskR)
 
-Vom 20.08.2013 (Stand 01.01.2014)
+(vom 20. August 2013[^t-1]; Stand am 1. Januar 2014)
 
-Der Regierungsrat des Kantons Uri,
-
-gestützt auf Artikel 18 des Bundesgesetzes vom 17. Dezember 2010 über das Bergführerwesen und Anbieten weiterer Risikoaktivitäten (SR [935.91](https://db.clex.ch/link/Bund/935.91/de)) sowie Artikel 94 Absatz 1 der Kantonsverfassung (RB [1.1101](https://rechtsbuch.ur.ch/data/1.1101/de))
+Der Regierungsrat des Kantons Uri, gestützt auf Artikel 18 des Bundesgesetzes vom 17. Dezember 2010 über das Bergführerwesen und Anbieten weiterer Risikoaktivitäten[^t-2] sowie Artikel 94 Absatz 1 der Kantonsverfassung<sup>3</sup>
 
 beschliesst:
+
+[^t-1]: AB vom 30. August 2013
+[^t-2]: SR 935.91
 
 #### Artikel 1
 
@@ -38,7 +41,7 @@ beschliesst:
 
 **Interkantonale Zusammenarbeit**
 
-<sup>1</sup> Der Regierungsrat kann mit anderen Kantonen oder privatrechtlich organisierten Verbänden den Vollzug regeln.
+Der Regierungsrat kann mit anderen Kantonen oder privatrechtlich organisierten Verbänden den Vollzug regeln.
 
 #### Artikel 3
 
@@ -46,22 +49,28 @@ beschliesst:
 
 <sup>1</sup> Verfügungen der Sicherheitsdirektion können binnen 20 Tagen nach erfolgter Zustellung mit Beschwerde beim Regierungsrat angefochten werden.
 
-<sup>2</sup> Im Übrigen richtet sich das Verfahren nach der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)).
+<sup>2</sup> Im Übrigen richtet sich das Verfahren nach der Verordnung über die Verwaltungsrechtspflege<sup>4</sup>.
 
 #### Artikel 4
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Folgende Reglemente werden aufgehoben:
+Folgende Reglemente werden aufgehoben:
 
-- a) Reglement vom 19. Juli 1982 für die Bergführer und Führeranwärter im Kanton Uri
-- b) Reglement vom 14. Juni 1973 für Rettungs- und Bergungskolonnen im Kanton Uri
-- c) Tarife vom 21. November 1994 für Bergführer und Bergführeranwärter im Kanton Uri
+- a) Reglement vom 19. Juli 1982 für die Bergführer und Führeranwärter im Kanton Uri[^4-1];
+
+- b) Reglement vom 14. Juni 1973 für Rettungs- und Bergungskolonnen im Kanton Uri<sup>6</sup>;
+
+- c) Tarife vom 21. November 1994 für Bergführer und Bergführeranwärter im Kanton Uri<sup>7</sup>.
+
+[^4-1]: RB 70.2322
 
 #### Artikel 5
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Reglement tritt am 1. Januar 2014 in Kraft.
+**Im Namen des Regierungsrats**
 
-AB 30.08.2013
+**Der Landammann: Josef Dittli Der Kanzleidirektor: Roman Balli**
+
+Dieses Reglement tritt am 1. Januar 2014 in Kraft.
