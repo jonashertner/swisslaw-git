@@ -1,57 +1,68 @@
 ---
 canton: UR
 number: "70.1103"
-title: Verordnung über die Berufs- und Weiterbildung
+title: VERORDNUNG über die Berufs- und Weiterbildung
 short: BWV
 language: de
 version: 2023-01-01
+corrected: 2025-08-20
 version_adopted: 2022-11-16
 adopted: 2006-12-20
 in_force: 2007-08-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/70.1103"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/973/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/15/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung über die Berufs- und Weiterbildung
+# VERORDNUNG über die Berufs- und Weiterbildung
 
-(BWV)
+VERORDNUNG über die Berufs- und Weiterbildung (BWV)
 
-Vom 20.12.2006 (Stand 01.01.2023)
+(vom 20. Dezember 2006[^t-1]; Stand am 1. Januar 2023)
 
-Der Landrat des Kantons Uri,
-
-gestützt auf Artikel 16 des Gesetzes vom 26. November 2006 über die Berufs- und Weiterbildung (BWG, RB [70.1101](https://rechtsbuch.ur.ch/data/70.1101/de)) und Artikel 90 Absatz 2 der Kantonsverfassung (RB [1.1101](https://rechtsbuch.ur.ch/data/1.1101/de)),
+Der Landrat des Kantons Uri, gestützt auf Artikel 16 des Gesetzes vom 26. November 2006 über die Berufs- und Weiterbildung (BWG)[^t-2] und Artikel 90 Absatz 2 der Kantonsverfassung[^t-3],
 
 beschliesst:
 
-## 1 Berufliche Grundbildung
+[^t-1]: AB vom 5. Januar 2007. Die Verordnung über die Berufs- und Weiterbildung wird vom Regierungsrat wie folgt in Kraft gesetzt (AB vom 1. Juni 2007 und 11. April 2008):a) Art. 7- 9, Art. 21, Art. 22, Art. 24, Art. 32 und Art. 39 Bst. c auf den 1. August 2007;b) Art. 1-6, Art. 10, Art. 12, Art. 23, Art. 25-31, Art. 33-35, Art. 37 und Art. 38 auf den 1. Januar 2008;c) Art. 13-20 auf den 1. April 2008;d) Art. 36 auf den 1. Juni 2008;e) Art. 11 und Art. 39 Bst. a und b auf den 1. August 2009.
+[^t-2]: RB 70.1101
+[^t-3]: RB 1.1101
 
-### 1.1 Voraussetzungen
+### 1. Kapitel: BERUFLICHE GRUNDBILDUNG
+
+### 1. Abschnitt: Voraussetzungen
+
+[^h1AbschnittVoraus-1]: Fassung gemäss LRB vom 16. November 2022, in Kraft gesetzt auf den 1. Januar 2023 (AB vom 25. November 2022).
 
 #### Artikel 1
 
-**Zweck und Zulassung**
+**Zweck und Zulassung**[^h1AbschnittVoraus-1]
 
 <sup>1</sup> Möglichst viele Lernende, die den Weg über die Berufsbildung einschlagen wollen, sollen direkt nach der obligatorischen Schulzeit eine Lehrstelle finden, die ihren Fähigkeiten und ihren persönlichen Interessen soweit als möglich entspricht.
 
-<sup>2</sup> Zur beruflichen Grundbildung wird zugelassen, wer die allgemeine Schulpflicht erfüllt hat und mindestens 15 Jahre alt ist. Über Ausnahmen entscheidet das zuständige Amt[^Artikel1-1].
+<sup>2</sup> Zur beruflichen Grundbildung wird zugelassen, wer die allgemeine Schulpflicht erfüllt hat und mindestens 15 Jahre alt ist. Über Ausnahmen entscheidet das zuständige Amt[^1-1].
 
-[^Artikel1-1]: Amt für Arbeit und Migration; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^1-1]: Amt für Arbeit und Migration; siehe Organisationsreglement (RB 2.3322).
 
-### 1.2 Aufsicht
+### 2. Abschnitt: Aufsicht
 
 #### Artikel 2
 
 **Instrumente**
 
-<sup>1</sup> Der Kanton sorgt für die Aufsicht über die berufliche Grundbildung im Sinne von Artikel 24 des Bundesgesetzes über die Berufsbildung (SR [412.10](https://db.clex.ch/link/Bund/412.10/de)). Diese wird namentlich wahrgenommen durch:
+Der Kanton sorgt für die Aufsicht über die berufliche Grundbildung im Sinne von Artikel 24 des Bundesgesetzes über die Berufsbildung[^2-1]. Diese wird namentlich wahrgenommen durch:
 
-- a) Betriebsbesuche
-- b) Anordnung und Auswertung von Zwischenqualifizierungen
-- c) Auswertung der Qualifikationsverfahren
-- d) Aufsicht über die Qualitätssicherung der Berufsfachschule, der Betriebe und der überbetrieblichen Kurse
+- a) Betriebsbesuche;
+
+- b) Anordnung und Auswertung von Zwischenqualifizierungen;
+
+- c) Auswertung der Qualifikationsverfahren;
+
+- d) Aufsicht über die Qualitätssicherung der Berufsfachschule, der Betriebe und der überbetrieblichen Kurse.
+
+[^2-1]: SR 412.10
 
 #### Artikel 3
 
@@ -59,9 +70,11 @@ beschliesst:
 
 <sup>1</sup> In folgenden Fällen kann eine Zwischenqualifizierung angeordnet werden:
 
-- a) beim ersten Lehrverhältnis in einem Betrieb
-- b) wenn Ausbildungsmängel festgestellt werden, welche den Erfolg einer beruflichen Grundbildung gefährden
-- c) in begründeten Fällen auf Verlangen einer Vertragspartei
+- a) beim ersten Lehrverhältnis in einem Betrieb;
+
+- b) wenn Ausbildungsmängel festgestellt werden, welche den Erfolg einer beruflichen Grundbildung gefährden;
+
+- c) in begründeten Fällen auf Verlangen einer Vertragspartei.
 
 <sup>2</sup> Für das Verfahren können Gebühren erhoben werden.
 
@@ -69,23 +82,19 @@ beschliesst:
 
 **Anordnung von qualitätssichernden Massnahmen**
 
-<sup>1</sup> Das zuständige Amt[^Artikel4-1] kann Anbieter der Bildung in beruflicher Praxis oder von überbetrieblichen Kursen zum Einsatz qualitätssichernder Instrumente verpflichten oder Massnahmen zur Qualitätssicherung anordnen, wenn das Bildungsangebot mangelhaft ist.
-
-[^Artikel4-1]: Amt für Berufsbildung; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+Das zuständige Amt<sup>7</sup> kann Anbieter der Bildung in beruflicher Praxis oder von überbetrieblichen Kursen zum Einsatz qualitätssichernder Instrumente verpflichten oder Massnahmen zur Qualitätssicherung anordnen, wenn das Bildungsangebot mangelhaft ist.
 
 #### Artikel 5
 
 **Auskunftspflicht**
 
-<sup>1</sup> Die Anbieter der beruflichen Grundbildung haben der Aufsichtsbehörde die erforderlichen Auskünfte zu erteilen und den Besuch der Lernorte zuzulassen.
+Die Anbieter der beruflichen Grundbildung haben der Aufsichtsbehörde die erforderlichen Auskünfte zu erteilen und den Besuch der Lernorte zuzulassen.
 
-#### Artikel 5a
+Artikel 5a[^5-1] Ungleichgewicht auf dem Markt Zeichnet sich ein Ungleichgewicht auf dem Markt für berufliche Grundbildung ab oder ist ein solches Ungleichgewicht eingetreten, trifft der Kanton im Rahmen der verfügbaren Mittel befristete Massnahmen zur Bekämpfung. Dazu gehören insbesondere Massnahmen zur Lehrstellenförderung und zur Information.
 
-**Ungleichgewicht auf dem Markt**
+[^5-1]: Eingefügt durch LRB vom 16. November 2022, in Kraft gesetzt auf den 1. Januar 2023 (AB vom 25. November 2022).
 
-<sup>1</sup> Zeichnet sich ein Ungleichgewicht auf dem Markt für berufliche Grundbildung ab oder ist ein solches Ungleichgewicht eingetreten, trifft der Kanton im Rahmen der verfügbaren Mittel befristete Massnahmen zur Bekämpfung. Dazu gehören insbesondere Massnahmen zur Lehrstellenförderung und zur Information.
-
-### 1.3 Vorbereitung auf die berufliche Grundbildung
+### 3. Abschnitt: Vorbereitung auf die berufliche Grundbildung
 
 #### Artikel 6
 
@@ -93,95 +102,97 @@ beschliesst:
 
 <sup>1</sup> Der Kanton führt bei entsprechendem Bedarf eine Berufsvorbereitungsschule (BVS).
 
-<sup>2</sup> Die BVS richtet sich an Jugendliche, die den Anforderungen der Berufsbildung in schulischer, sozialer oder persönlicher Hinsicht noch nicht entsprechen. Sie fördert insbesondere die Entwicklung der Persönlichkeit und gleicht Ausbildungsrückstände aus, um den Lernenden den Einstieg in die Berufsbildung zu erleichtern.
+<sup>2</sup> Die BVS richtet sich an Jugendliche, die den Anforderungen der Berufsbildung in schulischer, sozialer oder persönlicher Hinsicht noch nicht entsprechen. Sie fördert insbesondere die Entwicklung der Persönlichkeit und gleicht Ausbildungsrückstände aus, um den Lernenden den Einstieg in die Berufsbildung zu erleichtern.[^6-1]
 
 <sup>3</sup> Die Aufnahme in die BVS erfolgt im Rahmen der verfügbaren Plätze. Es besteht kein Rechtsanspruch auf eine Aufnahme in die BVS.
 
 <sup>4</sup> Der Regierungsrat regelt das Angebot, die Organisation und das Aufnahmeverfahren der BVS in einem Reglement.
 
-#### Artikel 6a
+Artikel 6a[^6-2] Weitere Massnahmen Der Kanton kann weitere Massnahmen treffen, um den Einstieg in die berufliche Grundbildung zu unterstützen.
 
-**Weitere Massnahmen**
+[^6-1]: Fassung gemäss gemäss LRB vom 16. November 2022, in Kraft gesetzt auf den 1. Januar 2023 (AB vom 25. November 2022).
+[^6-2]: Eingefügt durch LRB vom 16. November 2022, in Kraft gesetzt auf den 1. Januar 2023 (AB vom 25. November 2022).
 
-<sup>1</sup> Der Kanton kann weitere Massnahmen treffen, um den Einstieg in die berufliche Grundbildung zu unterstützen.
+### 4. Abschnitt: Unterstützung der Lernenden
 
-### 1.4 Unterstützung der Lernenden
+#### Artikel 7 a
 
-#### Artikel 7
+**) allgemein**
 
-**Unterstützung der Lernenden: allgemein**
+<sup>1</sup> Das zuständige Amt<sup>11</sup> berät Lernende bei entsprechendem Bedarf, namentlich bei Problemen zwischen den Vertragsparteien.
 
-<sup>1</sup> Das zuständige Amt[^Artikel7-1] berät Lernende bei entsprechendem Bedarf, namentlich bei Problemen zwischen den Vertragsparteien.
+2 Der Kanton trägt die Kosten.
 
-<sup>2</sup> Der Kanton trägt die Kosten.
+#### Artikel 8 b
 
-[^Artikel7-1]: Amt für Berufsbildung; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
-
-#### Artikel 8
-
-**Unterstützung der Lernenden: Lernende mit besonderen Bedürfnissen**
+**) Lernende mit besonderen Bedürfnissen**
 
 <sup>1</sup> Als Lernende mit besonderen Bedürfnissen gemäss dieser Verordnung gelten Lernende, die eine Attestbildung absolvieren.
 
 <sup>2</sup> Lernende mit besonderen Bedürfnissen erhalten eine fachkundige individuelle Begleitung, wenn trotz ihrer zumutbaren Anstrengungen der Bildungserfolg ernsthaft gefährdet erscheint.
 
-<sup>3</sup> Der Kanton kann weitere Massnahmen treffen, um Lernende mit besonderen Bedürfnissen zu unterstützen.
+<sup>3</sup> Der Kanton kann weitere Massnahmen treffen, um Lernende mit besonderen Bedürfnissen zu unterstützen.[^8b-1]
 
-### 1.5 Unterstützung der Lehrbetriebe
+[^8b-1]: Eingefügt durch LRB vom 16. November 2022, in Kraft gesetzt auf den 1. Januar 2023 (AB vom 25. November 2022).
+
+### 5. Abschnitt: Unterstützung der Lehrbetriebe
 
 #### Artikel 9
 
 **Beratung der Lehrbetriebe**
 
-<sup>1</sup> Das zuständige Amt[^Artikel9-1] berät die Lehrbetriebe und Lehrbetriebsverbünde bei entsprechendem Bedarf, namentlich bei der Schaffung neuer Lehrstellen und bei Problemen zwischen den Vertragsparteien.
+<sup>1</sup> Das zuständige Amt[^9-1] berät die Lehrbetriebe und Lehrbetriebsverbünde bei entsprechendem Bedarf, namentlich bei der Schaffung neuer Lehrstellen und bei Problemen zwischen den Vertragsparteien.
 
 <sup>2</sup> Der Kanton trägt die Kosten.
 
-[^Artikel9-1]: Amt für Berufsbildung; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
-
-#### Artikel 10
-
-**Bildungsmöglichkeiten für Berufsbildnerinnen und Berufsbildner**
+Artikel 10[^9-2] Bildungsmöglichkeiten für Berufsbildnerinnen und Berufsbildner
 
 <sup>1</sup> Der Kanton unterstützt Lehrbetriebe und Lehrbetriebsverbünde, indem er für ein ausgewogenes Angebot an Bildungsmöglichkeiten für Berufsbildnerinnen und Berufsbildner sorgt.
 
-<sup>2</sup> Zur Sicherung genügender Bildungsmöglichkeiten für Berufsbildnerinnen und Berufsbildner organisiert das zuständige Amt[^Artikel10-1] Kurse oder schliesst entsprechende Leistungsvereinbarungen ab.
+<sup>2</sup> Zur Sicherung genügender Bildungsmöglichkeiten für Berufsbildnerinnen und Berufsbildner organisiert das zuständige Amt<sup>15</sup> Kurse oder schliesst entsprechende Leistungsvereinbarungen ab.
 
-<sup>3</sup> Die Berufsbildnerinnen und Berufsbildner haben die Kurse gemäss Vorgaben der Bundesgesetzgebung zu besuchen. Das zuständige Amt[^Artikel10-2] kann in begründeten Fällen eine Befreiung vom Kursbesuch bewilligen.
+<sup>3</sup> Die Berufsbildnerinnen und Berufsbildner haben die Kurse gemäss Vorgaben der Bundesgesetzgebung zu besuchen. Das zuständige Amt<sup>16</sup> kann in begründeten Fällen eine Befreiung vom Kursbesuch bewilligen.
 
-[^Artikel10-1]: Amt für Berufsbildung; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
-[^Artikel10-2]: Amt für Berufsbildung; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^9-1]: Amt für Berufsbildung; siehe Organisationsreglement (RB 2.3322).
+[^9-2]: Fassung gemäss LRB vom 16. November 2022, in Kraft gesetzt auf den 1. Januar 2023 (AB vom 25. November 2022).
 
-### 1.6 Berufsfachschule
+### 6. Abschnitt: Berufsfachschule
 
 #### Artikel 11
 
 **Grundsatz**
 
-<sup>1</sup> Der Kanton führt eine Berufsfachschule, in der die allgemeine und berufskundliche schulische Bildung angeboten wird.
+Der Kanton führt eine Berufsfachschule, in der die allgemeine und berufskundliche schulische Bildung angeboten wird.
 
 #### Artikel 12
 
 **Aufgaben des Regierungsrats**
 
-<sup>1</sup> Der Regierungsrat nimmt im Bereich der Berufsfachschule folgende Aufgaben wahr. Er:
+Der Regierungsrat nimmt im Bereich der Berufsfachschule folgende Aufgaben wahr. Er:
 
-- a) legt fest, für welche Berufe der Berufsfachschulunterricht im Kanton Uri angeboten wird
-- b) entscheidet über die Anzahl der Klassen
-- c) wählt eine Schulkommission
-- d) stellt auf Antrag der Schulkommission die Rektorin oder den Rektor an
-- e) bestimmt die Anzahl der Lektionen, die für die Schulleitungs- und Spezialaufgaben zur Verfügung stehen
-- f) verdeutlicht im Rahmen der gesetzlichen Bestimmungen den Auftrag der Berufsfachschule und erteilt dieser die Vorgaben
+- a) legt fest, für welche Berufe der Berufsfachschulunterricht im Kanton Uri angeboten wird;
+
+- b) entscheidet über die Anzahl der Klassen;
+
+- c) wählt eine Schulkommission;
+
+- d) stellt auf Antrag der Schulkommission die Rektorin oder den Rektor an;
+
+- e) bestimmt die Anzahl der Lektionen, die für die Schulleitungs- und Spezialaufgaben zur Verfügung stehen;
+
+- f) verdeutlicht im Rahmen der gesetzlichen Bestimmungen den Auftrag der Berufsfachschule und erteilt dieser die Vorgaben.
 
 #### Artikel 13
 
 **Organe**
 
-<sup>1</sup> Organe der Berufsfachschule sind:
+Organe der Berufsfachschule sind:
 
-- a) die Schulkommission
-- b) die Schulleitung
-- c) die Konferenz der Lehrpersonen
+- a) die Schulkommission;
+
+- b) die Schulleitung;
+
+- c) die Konferenz der Lehrpersonen.
 
 #### Artikel 14
 
@@ -191,19 +202,27 @@ beschliesst:
 
 <sup>2</sup> Die Schulkommission sorgt dafür, dass die Berufsfachschule ihren Auftrag gemäss den gesetzlichen Bestimmungen und den Vorgaben des Regierungsrats erfüllt. Sie hat insbesondere:
 
-- a) die Rektorin oder den Rektor zu beaufsichtigen
-- b) für die Koordination der Schulzielsetzungen mit den Bedürfnissen der Arbeitswelt zu sorgen
-- c) ein Reglement über den Schulbetrieb zu erlassen
-- d) im Rahmen dieser Verordnung die Organisation der Schulleitung zu bestimmen
-- e) mit Ausnahme der Rektorin oder des Rektors die Schulleitungsmitglieder anzustellen
-- f) auf Antrag der Schulleitung die Lehrpersonen und mit Ausnahme der Abwarte das Verwaltungspersonal anzustellen
-- g) die Leistung der Rektorin oder des Rektors zu beurteilen
-- h) das Qualitätssicherungssystem zu beaufsichtigen und die Qualitätsentwicklung zu fördern
-- i) der zuständigen Direktion[^Artikel14-1] den jährlichen Voranschlag für die Berufsfachschule zu beantragen
+- a) die Rektorin oder den Rektor zu beaufsichtigen;
+
+- b) für die Koordination der Schulzielsetzungen mit den Bedürfnissen der Arbeitswelt zu sorgen;
+
+- c) ein Reglement über den Schulbetrieb zu erlassen;
+
+- d) im Rahmen dieser Verordnung die Organisation der Schulleitung zu bestimmen;
+
+- e) mit Ausnahme der Rektorin oder des Rektors die Schulleitungsmitglieder anzustellen;
+
+- f) auf Antrag der Schulleitung die Lehrpersonen und mit Ausnahme der Abwarte das Verwaltungspersonal anzustellen;
+
+- g) die Leistung der Rektorin oder des Rektors zu beurteilen;
+
+- h) das Qualitätssicherungssystem zu beaufsichtigen und die Qualitätsentwicklung zu fördern;
+
+- i) der zuständigen Direktion[^14-1] den jährlichen Voranschlag für die Berufsfachschule zu beantragen.
 
 <sup>3</sup> Die Schulkommission kann einzelne Aufgaben an die Schulleitung übertragen.
 
-[^Artikel14-1]: Bildungs- und Kulturdirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^14-1]: Bildungs- und Kulturdirektion; siehe Organisationsreglement (RB 2.3322).
 
 #### Artikel 15
 
@@ -213,20 +232,25 @@ beschliesst:
 
 <sup>2</sup> Die Rektorin oder der Rektor steht der Schulleitung vor und nimmt mit beratender Stimme an den Sitzungen der Schulkommission teil.
 
-<sup>3</sup> Das Arbeitsverhältnis der Rektorin oder des Rektors richtet sich nach jenem der kantonalen Angestellten.
+<sup>3</sup> Das Arbeitsverhältnis der Rektorin oder des Rektors richtet sich nach jenem der kantonalen Angestellten.[^15-1]
 
-#### Artikel 16
+[^15-1]: Eingefügt durch LRB vom 5. November 2007, in Kraft gesetzt auf den 1. Januar 2009 (AB vom 16. November 2007).
 
-**Schulleitung: Aufgaben und Umfang**
+#### Artikel 16 b
+
+**) Aufgaben und Umfang**
 
 <sup>1</sup> Die Schulleitung ist für die pädagogische, personelle, finanzielle und administrative Führung der Schule verantwortlich und vertritt die Schule nach aussen.
 
 <sup>2</sup> Die Schulleitung hat insbesondere:
 
-- a) die Lehrpersonen zu beaufsichtigen und deren Leistungen zu beurteilen
-- b) Lehrpersonen allfällige Spezialaufgaben zuzuweisen
-- c) für die Qualitätssicherung und ‑entwicklung der Schule zu sorgen
-- d) Aufgaben wahrzunehmen, die ihr von der Schulkommission zugewiesen werden
+- a) die Lehrpersonen zu beaufsichtigen und deren Leistungen zu beurteilen;
+
+- b) Lehrpersonen allfällige Spezialaufgaben zuzuweisen;
+
+- c) für die Qualitätssicherung und -entwicklung der Schule zu sorgen;
+
+- d) Aufgaben wahrzunehmen, die ihr von der Schulkommission zugewiesen werden.
 
 #### Artikel 17
 
@@ -238,11 +262,10 @@ beschliesst:
 
 <sup>3</sup> Die Konferenz wählt eine Lehrperson, die mit beratender Stimme an den Sitzungen der Schulkommission teilnimmt.
 
-#### Artikel 18
+Artikel 18[^17-1] Lehrpersonen Das Anstellungsverhältnis der Lehrpersonen richtet sich nach der Personalverordnung[^17-2].
 
-**Lehrpersonen**
-
-<sup>1</sup> Das Anstellungsverhältnis der Lehrpersonen richtet sich nach der Personalverordnung (RB [2.4211](https://rechtsbuch.ur.ch/data/2.4211/de)).
+[^17-1]: Fassung gemäss LRB vom 5. November 2007, in Kraft gesetzt auf den 1. August 2008 (AB vom 16. November 2007).
+[^17-2]: RB 2.4211
 
 #### Artikel 19
 
@@ -260,15 +283,17 @@ beschliesst:
 
 <sup>2</sup> Im Rahmen von Disziplinarmassnahmen können Lernende von der Schule gewiesen, die Genehmigung des Lehrvertrages widerrufen und Ordnungsbussen verhängt werden.
 
-### 1.7 Überbetriebliche Kurse und vergleichbare dritte Lernorte
+### 7. Abschnitt: Überbetriebliche Kurse und vergleichbare dritte Lern-
 
-#### Artikel 21
+orte
 
-**Unterstützung der Bildung von Trägerschaften**
+Artikel 21[^h7AbschnittÜberbe-1] Unterstützung der Bildung von Trägerschaften
 
 <sup>1</sup> Der Kanton sorgt unter Mitwirkung der Organisationen der Arbeitswelt für ein ausreichendes Angebot an überbetrieblichen Kursen und vergleichbaren dritten Lernorten.
 
 <sup>2</sup> Der Kanton kann zur Bildung von neuen Trägerschaften für überbetriebliche Kurse und vergleichbare dritte Lernorte Beiträge gewähren.
+
+[^h7AbschnittÜberbe-1]: Fassung gemäss LRB vom 16. November 2022, in Kraft gesetzt auf den 1. Januar 2023 (AB vom 25. November 2022).
 
 #### Artikel 22
 
@@ -280,7 +305,7 @@ beschliesst:
 
 <sup>3</sup> Der Regierungsrat regelt die Voraussetzungen und die Höhe der Leistungen. Er kann Pauschalen einführen.
 
-### 1.8 Eidgenössische Berufsmaturität
+### 8. Abschnitt: Eidgenössische Berufsmaturität
 
 #### Artikel 23
 
@@ -290,7 +315,7 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat regelt das Angebot, die Organisation und das Aufnahmeverfahren der Berufsmaturitätsschule in einem Reglement.
 
-### 1.9 Lehrwerkstätte
+### 9. Abschnitt: Lehrwerkstätte
 
 #### Artikel 24
 
@@ -300,7 +325,7 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat schliesst mit dem Träger des Lehrateliers eine Leistungsvereinbarung ab.
 
-## 2 Höhere Berufsbildung
+### 2. Kapitel: HÖHERE BERUFSBILDUNG
 
 #### Artikel 25
 
@@ -310,19 +335,21 @@ beschliesst:
 
 <sup>2</sup> Kommt im Rahmen von Schulgeldvereinbarungen keine einheitliche Lösung für die Abgeltung des Besuches von ausserkantonalen Angeboten zustande, kann der Regierungsrat Beiträge an die Kursbesuche beschliessen. Er ist abschliessend zuständig, die damit verbundenen Ausgaben zu beschliessen.
 
-#### Artikel 25a
-
-**Bergheimatschule Gurtnellen**
+Artikel 25a[^25-1] Bergheimatschule Gurtnellen
 
 <sup>1</sup> Der Kanton führt bei entsprechendem Bedarf an der Bergheimatschule Gurtnellen Vorbereitungskurse für die eidgenössische Berufsprüfung zur Bäuerin/dipl. bäuerlichem Haushaltleiter mit eidgenössischem Fachausweis durch.
 
 <sup>2</sup> Der Regierungsrat entscheidet, ab welcher Anzahl Interessentinnen und Interessenten entsprechende Kurse durchgeführt werden.
 
-## 3 Allgemeine und berufsorientierte Weiterbildung
+[^25-1]: Eingefügt durch LRB vom 1. Februar 2017, in Kraft gesetzt auf den 1. Januar 2018 (AB vom 10. Februar 2017).
+
+### 3. Kapitel: ALLGEMEINE UND BERUFSORIENTIERTE WEITERBILDUNG
 
 #### Artikel 26
 
-**Allgemeine Weiterbildung: Förderung durch den Kanton**
+**Allgemeine Weiterbildung**
+
+- a) Förderung durch den Kanton
 
 <sup>1</sup> Der Kanton fördert diejenigen Angebote, an denen ein besonderes öffentliches Interesse besteht und welche ohne seine Unterstützung nicht oder nicht ausreichend bereitgestellt werden können.
 
@@ -330,20 +357,25 @@ beschliesst:
 
 <sup>3</sup> Von besonderem öffentlichem Interesse sind Angebote:
 
-- a) für situationsbedingt benachteiligte Bevölkerungsgruppen
-- b) zu spezifischen Sachgebieten und Themen, welche den gesellschaftlichen Zusammenhalt und Wandel betreffen
-- c) zur Qualitätsentwicklung und zur Förderung von Innovationen
-- d) zum Ausgleich regionaler Unterschiede im Weiterbildungsbereich
+- a) für situationsbedingt benachteiligte Bevölkerungsgruppen;
 
-<sup>4</sup> Der Kanton fördert die Information und Koordination in der Weiterbildung.
+- b) zu spezifischen Sachgebieten und Themen, welche den gesellschaftlichen Zusammenhalt und Wandel betreffen;
 
-#### Artikel 27
+- c) zur Qualitätsentwicklung und zur Förderung von Innovationen, und
 
-**Allgemeine Weiterbildung: Förderung durch die Gemeinden**
+- d) zum Ausgleich regionaler Unterschiede im Weiterbildungsbereich.
 
-<sup>1</sup> Die Gemeinden stellen für Weiterbildungsangebote gemäss Artikel 16 des Gesetzes über Schule und Bildung nach Möglichkeit öffentliche Räumlichkeiten zu günstigen Bedingungen zur Verfügung.
+4 Der Kanton fördert die Information und Koordination in der Weiterbildung.
+
+#### Artikel 27 b
+
+**) Förderung durch die Gemeinden**
+
+<sup>1</sup> Die Gemeinden stellen für Weiterbildungsangebote gemäss Artikel 16 des Gesetzes über Schule und Bildung nach Möglichkeit öffentliche Räumlichkeiten zu günstigen Bedingungen zur Verfügung.[^27b-1]
 
 <sup>2</sup> Sie können Beiträge gewähren.
+
+[^27b-1]: Fassung gemäss gemäss LRB vom 16. November 2022, in Kraft gesetzt auf den 1. Januar 2023 (AB vom 25. November 2022).
 
 #### Artikel 28
 
@@ -355,7 +387,7 @@ beschliesst:
 
 <sup>3</sup> Der Kanton unterstützt Massnahmen zur Qualitätssicherung und Zertifizierung der Weiterbildung durch Mitwirkung, Information und Beiträge.
 
-## 4 Berufs-, Studien- und Laufbahnberatung
+### 4. Kapitel: BERUFS-, STUDIEN- UND LAUFBAHNBERATUNG
 
 #### Artikel 29
 
@@ -369,7 +401,9 @@ beschliesst:
 
 <sup>4</sup> Der Kanton trägt die Kosten des Grundangebotes an Beratungs- und Informationsleistungen. Der Regierungsrat kann Dienstleistungen aus dem Bereich des erweiterten Angebots kostenpflichtig erklären.
 
-## 5 Gebühren, Schul- und Kursgelder, Reisekosten
+- 5\. Kapitel: GEBÜHREN, SCHUL- UND KURSGELDER,
+
+### REISEKOSTEN
 
 #### Artikel 30
 
@@ -389,31 +423,31 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat regelt die Höhe der Schul- und Kursgelder in einem Reglement.
 
+[^31-1]: Aufgehoben durch VA vom 17. Mai 2009, in Kraft gesetzt auf den 1. August 2008 (AB vom 19. September 2008).
+
 #### Artikel 32
 
-**…**
+[^31-1]
 
-## 6 Aufsicht, Organisation und Zuständigkeiten
+### 6. Kapitel: AUFSICHT, ORGANISATION UND ZUSTÄNDIGKEITEN
 
 #### Artikel 33
 
 **Aufsicht**
 
-<sup>1</sup> Der Regierungsrat übt die Oberaufsicht über die Berufs- und Weiterbildung aus. Die direkte Aufsicht ist Sache des zuständigen Amts[^Artikel33-1].
+Der Regierungsrat übt die Oberaufsicht über die Berufs- und Weiterbildung aus. Die direkte Aufsicht ist Sache des zuständigen Amts<sup>25</sup>.
 
-[^Artikel33-1]: Amt für Berufsbildung; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^33-1]: Fassung gemäss gemäss LRB vom 16. November 2022, in Kraft gesetzt auf den 1. Januar 2023 (AB vom 25. November 2022).
 
 #### Artikel 34
 
-**Organisation**
+Organisation Die Organisation der Berufs- und Weiterbildung richtet sich nach dem Gesetz über Schule und Bildung, nach dieser Verordnung und nach den Organisationsvorschriften, die der Regierungsrat erlässt.[^33-1]
 
-<sup>1</sup> Die Organisation der Berufs- und Weiterbildung richtet sich nach dem Gesetz über Schule und Bildung, nach dieser Verordnung und nach den Organisationsvorschriften, die der Regierungsrat erlässt.
+[^34-1]: Fassung gemäss gemäss LRB vom 16. November 2022, in Kraft gesetzt auf den 1. Januar 2023 (AB vom 25. November 2022).
 
 #### Artikel 35
 
-**Zuständigkeit**
-
-<sup>1</sup> Soweit weder das Gesetz über Schule und Bildung noch diese Verordnung oder darauf gestützte Reglemente des Regierungsrats etwas anderes bestimmen, ist es Sache des zuständigen Amts, Verfügungen nach dem Gesetz über Schule und Bildung sowie nach dieser Verordnung und der darauf gestützten Reglemente zu treffen.
+Zuständigkeit Soweit weder das Gesetz über Schule und Bildung noch diese Verordnung oder darauf gestützte Reglemente des Regierungsrats etwas anderes bestimmen, ist es Sache des zuständigen Amts, Verfügungen nach dem Gesetz über Schule und Bildung sowie nach dieser Verordnung und der darauf gestützten Reglemente zu treffen.[^34-1]
 
 #### Artikel 36
 
@@ -423,25 +457,26 @@ beschliesst:
 
 <sup>2</sup> Die Berufsbildungskommission nimmt folgende Aufgaben wahr:
 
-- a) Sie berät den Regierungsrat und die zuständige Direktion[^Artikel36-1] in wichtigen Fragen der Berufs- und Weiterbildung
-- b) sie schlägt dem Regierungsrat Massnahmen zur Verbesserung oder zum Erhalt der Qualität und des Angebotes in der Berufs- und Weiterbildung vor
+- a) Sie berät den Regierungsrat und die zuständige Direktion[^36-1] in wichtigen Fragen der Berufs- und Weiterbildung;
 
-<sup>3</sup> Die Berufsbildungskommission ist vom Regierungsrat und der zuständigen Direktion[^Artikel36-2] vor wichtigen Entscheiden, welche die Berufs- und Weiterbildung betreffen, anzuhören. Der Regierungsrat kann ihr weitere Aufgaben zuweisen.
+- b) sie schlägt dem Regierungsrat Massnahmen zur Verbesserung oder zum Erhalt der Qualität und des Angebotes in der Berufs- und Weiterbildung vor.
 
-[^Artikel36-1]: Bildungs- und Kulturdirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
-[^Artikel36-2]: Bildungs- und Kulturdirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+<sup>3</sup> Die Berufsbildungskommission ist vom Regierungsrat und der zuständigen Direktion[^36-2] vor wichtigen Entscheiden, welche die Berufs- und Weiterbildung betreffen, anzuhören. Der Regierungsrat kann ihr weitere Aufgaben zuweisen.
 
-## 7 Rechtsschutz
+[^36-1]: Bildungs- und Kulturdirektion; siehe Organisationsreglement (RB 2.3322).
+[^36-2]: Bildungs- und Kulturdirektion; siehe Organisationsreglement (RB 2.3322).
+
+### 7. Kapitel: RECHTSSCHUTZ
 
 #### Artikel 37
 
-<sup>1</sup> Gegen Verfügungen der Schulleitung, der Schulkommission und des zuständigen Amts[^Artikel37-1] kann innert 20 Tagen bei der verfügenden Behörde Einsprache erhoben werden.
+<sup>1</sup> Gegen Verfügungen der Schulleitung, der Schulkommission und des zuständigen Amts<sup>30</sup> kann innert 20 Tagen bei der verfügenden Behörde Einsprache erhoben werden.
 
-<sup>2</sup> Einspracheentscheide können mit Verwaltungsbeschwerde nach den Bestimmungen der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)) angefochten werden.
+2 Einspracheentscheide können mit Verwaltungsbeschwerde nach den Bestimmungen der Verordnung über die Verwaltungsrechtspflege[^37-1] angefochten werden.
 
-[^Artikel37-1]: Amt für Berufsbildung; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^37-1]: RB 2.2345
 
-## 8 Schlussbestimmungen
+### 8. Kapitel: SCHLUSSBESTIMMUNGEN
 
 #### Artikel 38
 
@@ -451,9 +486,7 @@ beschliesst:
 
 <sup>2</sup> Er erlässt die notwendigen Reglemente. Darin regelt er insbesondere die Genehmigung des Lehrvertrages, die Erteilung und den Entzug der Bildungsbewilligung, das Verfahren bei der fachkundigen individuellen Begleitung, die Qualifikationsverfahren und das Ausstellen von Ausweisen und Titeln, die Beitragsvoraussetzungen, die Bemessung der Beiträge, das Beitragsverfahren sowie weitere Bereiche, für die diese Verordnung ein Reglement vorsieht.
 
-#### Artikel 38a
-
-**Übergangsbestimmung**
+Artikel 38a[^38-1] Übergangsbestimmung
 
 <sup>1</sup> Bei entsprechendem Bedarf führt der Kanton bis zum Inkrafttreten von Artikel 11 die Kaufmännische Berufsschule Uri.
 
@@ -461,15 +494,22 @@ beschliesst:
 
 <sup>3</sup> Der Regierungsrat regelt die Übernahme der Kaufmännischen Berufsschule Uri vom Kaufmännischen Verein Uri in einem Vertrag.
 
+[^38-1]: Eingefügt durch LRB vom 26. September 2007, in Kraft gesetzt auf den 1. August 2008 (AB vom 5. Oktober 2007).
+
 #### Artikel 39
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Folgende Verordnungen werden aufgehoben:
+Folgende Verordnungen werden aufgehoben:
 
-- a) Verordnung vom 30. Juni 1971 über die landwirtschaftliche Ausbildung
-- b) Verordnung vom 14. November 1990 über das berufliche Bildungswesen (VBB)
-- c) Kreditbeschluss zur Übernahme des Betriebsdefizits des Vereins «Damenschneiderinnen-Atelier Uri»
+- a) Verordnung vom 30. Juni 1971 über die landwirtschaftliche Ausbildung[^39-1];
+
+- b) Verordnung vom 14. November 1990 über das berufliche Bildungswesen (VBB)[^39-2];
+
+- c) Kreditbeschluss zur Übernahme des Betriebsdefizits des Vereins «Damenschneiderinnen-Atelier Uri».
+
+[^39-1]: RB 60.1121
+[^39-2]: RB 70.1112
 
 #### Artikel 40
 
@@ -477,10 +517,12 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung untersteht dem fakultativen Referendum.
 
-<sup>2</sup> Der Regierungsrat bestimmt, wann sie in Kraft tritt. Er kann sie schrittweise in Kraft setzen[^Artikel40-1].
+<sup>2</sup> Der Regierungsrat bestimmt, wann sie in Kraft tritt. Er kann sie schrittweise in Kraft setzen[^40-1].
+
+**Im Namen des Landrats**
+
+**Der Präsident: Arthur Zwyssig Der Kanzleidirektor: Dr. Peter Huber**
 
 <sup>3</sup> Die Bestimmungen des Artikels 11 treten frühestens auf den 1. August 2009 in Kraft.
 
-[^Artikel40-1]: Die Verordnung über die Berufs- und Weiterbildung wird vom Regierungsrat wie folgt in Kraft gesetzt (AB vom 1. Juni 2007 und 11. April 2008): a) Art. 7–9, Art. 21, Art. 22, Art. 24, Art. 32 und Art. 39 Bst. c auf den 1. August 2007; b) Art. 1–6, Art. 10, Art. 12, Art. 23, Art. 25-31, Art. 33–35, Art. 37 und Art. 38 auf den 1. Januar 2008; c) Art. 13–20 auf den 1. April 2008; d) Art. 36 auf den 1. Juni 2008; e) Art. 11 und Art. 39 Bst. a und b auf den 1. August 2009.
-
-AB 05.01.2007
+[^40-1]: Die Verordnung über die Berufs- und Weiterbildung wird vom Regierungsrat wie folgt in Kraft gesetzt (AB vom 1. Juni 2007 und 11. April 2008):a) Art. 7-9, Art. 21, Art. 22, Art. 24, Art. 32 und Art. 39 Bst. c auf den 1. August 2007;b) Art. 1-6, Art. 10, Art. 12, Art. 23, Art. 25-31, Art. 33-35, Art. 37 und Art. 38 auf den 1. Januar 2008;c) Art. 13-20 auf den 1. April 2008;d) Art. 36 auf den 1. Juni 2008;e) Art. 11 und Art. 39 Bst. a und b auf den 1. August 2009.
