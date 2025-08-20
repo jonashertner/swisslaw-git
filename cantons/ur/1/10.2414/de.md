@@ -1,46 +1,51 @@
 ---
 canton: UR
 number: "10.2414"
-title: Reglement über die Maturitätsprüfungen an der Kantonalen Mittelschule Uri
+title: REGLEMENT über die Maturitätsprüfungen an der Kantonalen Mittelschule Uri
 short: MPR
 language: de
 version: 2024-08-01
+corrected: 2025-08-21
 version_adopted: 2024-05-16
 adopted: 2002-09-05
 in_force: 2003-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.2414"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/1037/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/332/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über die Maturitätsprüfungen an der Kantonalen Mittelschule Uri
+# REGLEMENT über die Maturitätsprüfungen an der Kantonalen Mittelschule Uri
 
-(MPR)
+REGLEMENT über die Maturitätsprüfungen an der Kantonalen Mittelschule Uri (MPR)
 
-Vom 05.09.2002 (Stand 01.08.2024)
+(vom 5. September 2002[^t-1]; Stand am 1. August 2024)
 
-Der Mittelschulrat,
+Der Mittelschulrat, gestützt auf Artikel 27 Buchstabe b der Mittelschulverordnung vom 5. April 2000[^t-2] und in Ausführung der Verordnung des Bundesrats vom 15. Februar 1995 über die Anerkennung von gymnasialen Maturitätsausweisen (Maturitäts-Anerkennungsverordnung, MAV)[^t-3] sowie des Reglements der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren vom 16. Januar 1995 über die Anerkennung von gymnasialen Maturitätsausweisen (MAR)[^t-4],
 
-gestützt auf Artikel 27 Buchstabe b der Mittelschulverordnung vom 5. April 2000 (RB [10.2401](https://rechtsbuch.ur.ch/data/10.2401/de)) und in Ausführung der Verordnung des Bundesrats vom 15. Februar 1995 über die Anerkennung von gymnasialen Maturitätsausweisen (Maturitäts-Anerkennungsverordnung, MAV) (SR [413.11](https://db.clex.ch/link/Bund/413.11/de)) sowie des Reglements der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren vom 16. Januar 1995 über die Anerkennung von gymnasialen Maturitätsausweisen (MAR, EDK 410.5),
+beschliesst:<sup>5</sup>
 
-beschliesst:
+[^t-1]: AB vom 10. Januar 2003
+[^t-2]: RB 10.2401
+[^t-3]: SR 413.11
+[^t-4]: EDK 410.5
 
-## 1 Allgemeine Bestimmungen
+### 1. Abschnitt: Allgemeine Bestimmungen
 
 #### Artikel 1
 
 **Gegenstand**
 
-<sup>1</sup> Dieses Reglement regelt die Maturitätsprüfungen, welche die Schülerinnen und Schüler der Kantonalen Mittelschule Uri abzulegen haben.
+Dieses Reglement regelt die Maturitätsprüfungen, welche die Schülerinnen und Schüler der Kantonalen Mittelschule Uri abzulegen haben.
 
 #### Artikel 2
 
 **Zweck**
 
-<sup>1</sup> Der Zweck der Maturitätsprüfungen ist, die Hochschulreife der Kandidatinnen und Kandidaten festzustellen. Diese besteht im sicheren Besitz der grundlegenden Kenntnisse, in geistiger Offenheit und der Fähigkeit zum selbstständigen Urteilen.
+Der Zweck der Maturitätsprüfungen ist, die Hochschulreife der Kandidatinnen und Kandidaten festzustellen. Diese besteht im sicheren Besitz der grundlegenden Kenntnisse, in geistiger Offenheit und der Fähigkeit zum selbstständigen Urteilen.
 
-## 2 Organisation
+### 2. Abschnitt: Organisation
 
 #### Artikel 3
 
@@ -52,10 +57,13 @@ beschliesst:
 
 <sup>3</sup> Sie hat insbesondere folgende Aufgaben:
 
-- a) Expertentätigkeit bei den Prüfungen
-- b) endgültiger Entscheid über den Ausstand von Prüfungsexpertinnen und ‑experten
-- c) Entscheid über das Bestehen der Prüfung
-- d) Entscheid über Sanktionen bei Unregelmässigkeiten
+- a) Expertentätigkeit bei den Prüfungen;
+
+- b) endgültiger Entscheid über den Ausstand von Prüfungsexpertinnen und -experten;
+
+- c) Entscheid über das Bestehen der Prüfung;
+
+- d) Entscheid über Sanktionen bei Unregelmässigkeiten.
 
 #### Artikel 4
 
@@ -71,37 +79,43 @@ beschliesst:
 
 <sup>1</sup> Examinierende sind in der Regel die Lehrpersonen, die im Abschlussjahr das Prüfungsfach unterrichtet haben.
 
-<sup>2</sup> Ist die Examinatorin oder der Examinator verhindert oder im Ausstand, so bestimmt die Maturitätskommission auf Antrag des Rektorats einen Ersatz.
+<sup>2</sup> Ist die Examinatorin oder der Examinator verhindert oder im Ausstand, so bestimmt die Maturitätskommission auf Antrag des Rektorats einen Ersatz.[^5-1]
 
-<sup>3</sup> Der Ausstand betrifft die Konzeption und Korrektur der Maturitätsprüfungen und die in der Fachschaft gemeinsam erstellten Maturitätsprüfungen.
+<sup>3</sup> Der Ausstand betrifft die Konzeption und Korrektur der Maturitätsprüfungen und die in der Fachschaft gemeinsam erstellten Maturitätsprüfungen.[^5-2]
 
-<sup>4</sup> Die Examinierenden reichen die schriftlichen Aufgaben gemäss Terminvorgabe beim Rektorat zuhanden der Maturitätskommission ein.
+4 Die Examinierenden reichen die schriftlichen Aufgaben gemäss Terminvorgabe beim Rektorat zuhanden der Maturitätskommission ein.[^5-3]
 
-<sup>5</sup> Kandidatinnen und Kandidaten, die den Ausstand einer oder eines Examinierenden verlangen, müssen das Ausstandgesuch frühestmöglich nach Kenntnis des Ausstandgrundes der Maturitätskommission einreichen.
+5 Kandidatinnen und Kandidaten, die den Ausstand einer oder eines Examinierenden verlangen, müssen das Ausstandgesuch frühestmöglich nach Kenntnis des Ausstandgrundes der Maturitätskommission einreichen.[^5-4]
+
+[^5-1]: Fassung gemäss MSRB vom 16. Mai 2024, in Kraft gesetzt auf den 1. August 2024 (AB vom 31. Mai 2024).
+[^5-2]: Fassung gemäss MSRB vom 16. Mai 2024, in Kraft gesetzt auf den 1. August 2024 (AB vom 31. Mai 2024).
+[^5-3]: Eingefügt durch MSRB vom 16. Mai 2024, in Kraft gesetzt auf den 1. August 2024 (AB vom 31. Mai 2024).
+[^5-4]: Eingefügt durch MSRB vom 16. Mai 2024, in Kraft gesetzt auf den 1. August 2024 (AB vom 31. Mai 2024).
 
 #### Artikel 6
 
 **Prüfungszeitpunkt**
 
-<sup>1</sup> Die Maturitätsprüfungen finden nach Abschluss der 6. Gymnasialklasse statt.
+Die Maturitätsprüfungen finden nach Abschluss der 6. Gymnasialklasse statt.
 
-## 3 Ausschreibung, Zulassung und Anmeldung
+### 3. Abschnitt: Ausschreibung, Zulassung und Anmeldung
 
 #### Artikel 7
 
 **Ausschreibung**
 
-<sup>1</sup> Die Maturitätskommission schreibt die Prüfungen im Amtsblatt aus. Sie nennt in der Ausschreibung die Daten der schriftlichen und mündlichen Maturitätsprüfungen, die Prüfungsgebühr, die Anmeldestelle und die Anmeldefrist.
+Die Maturitätskommission schreibt die Prüfungen im Amtsblatt aus. Sie nennt in der Ausschreibung die Daten der schriftlichen und mündlichen Maturitätsprüfungen, die Prüfungsgebühr, die Anmeldestelle und die Anmeldefrist.
 
-#### Artikel 8
+Artikel 8[^7-1] Zulassung und Maturaarbeit Zu den Maturitätsprüfungen wird zugelassen, wer:
 
-**Zulassung und Maturaarbeit**
+- a) das volle letzte Schuljahr an der Kantonalen Mittelschule Uri besucht hat;
 
-<sup>1</sup> Zu den Maturitätsprüfungen wird zugelassen, wer:
+- b) eine Maturaarbeit gemäss Artikel 10 MAV erstellt und mündlich präsentiert hat;
 
-- a) das volle letzte Schuljahr an der Kantonalen Mittelschule Uri besucht hat
-- b) eine Maturaarbeit gemäss Artikel 10 MAV erstellt und mündlich präsentiert hat
-- c) den Französisch-Sprachaufenthalt (Stage) oder die vom Mittelschulrat beschlossene Covid-19 bedingte Alternative absolviert hat
+- c) den Französisch-Sprachaufenthalt (Stage) oder die vom Mittelschulrat beschlossene Covid-19 bedingte Alternative absolviert hat.[^7-2]
+
+[^7-1]: Fassung gemäss MSRB vom 24. Januar 2008, in Kraft gesetzt auf den 1. August 2008 (AB vom 29. Februar 2008).
+[^7-2]: Fassung gemäss MSRB vom 9. September 2021, in Kraft gesetzt auf den 1. Oktober 2021 (AB vom 8. Oktober 2021).
 
 #### Artikel 9
 
@@ -109,11 +123,13 @@ beschliesst:
 
 <sup>1</sup> Die Anmeldung zu den Prüfungen ist innerhalb der von der Maturitätskommission festgesetzten Frist beim Rektoratssekretariat der Kantonalen Mittelschule Uri einzureichen.
 
-<sup>2</sup> Der Anmeldung sind beizufügen:
+2 Der Anmeldung sind beizufügen:
 
-- a) das ausgefüllte Anmeldeformular
-- b) die Zeugnisse der 4. und 5. Gymnasialklasse
-- c) der Nachweis der erstellten und mündlich präsentierten Maturaarbeit
+- a) das ausgefüllte Anmeldeformular;
+
+- b) die Zeugnisse der 4. und 5. Gymnasialklasse;
+
+- c) der Nachweis der erstellten und mündlich präsentierten Maturaarbeit.<sup>12</sup>
 
 #### Artikel 10
 
@@ -127,21 +143,21 @@ beschliesst:
 
 **Entscheid**
 
-<sup>1</sup> Die Maturitätskommission entscheidet aufgrund der Anmeldung über die Zulassung zu den Prüfungen. Das Rektorat stellt zu den Anmeldungen Antrag.
+Die Maturitätskommission entscheidet aufgrund der Anmeldung über die Zulassung zu den Prüfungen. Das Rektorat stellt zu den Anmeldungen Antrag.
 
-## 4 Durchführung der Prüfungen
+### 4. Abschnitt: Durchführung der Prüfungen
 
 #### Artikel 12
 
 **Prüfungsplan**
 
-<sup>1</sup> Die Durchführung der Maturitätsprüfungen richtet sich nach dem von der Schule erstellten Prüfungsplan.
+Die Durchführung der Maturitätsprüfungen richtet sich nach dem von der Schule erstellten Prüfungsplan.
 
 #### Artikel 13
 
 **Hilfsmittel**
 
-<sup>1</sup> Die Maturitätskommission bestimmt auf Antrag der zuständigen Fachlehrperson die erlaubten Hilfsmittel.
+Die Maturitätskommission bestimmt auf Antrag der zuständigen Fachlehrperson die erlaubten Hilfsmittel.
 
 #### Artikel 14
 
@@ -151,9 +167,9 @@ beschliesst:
 
 <sup>2</sup> Liegt der begründete Verdacht einer Unregelmässigkeit vor, kann die betreffende Prüfung für ungültig erklärt und wiederholt werden.
 
-<sup>3</sup> Die Prüfungsleitung macht die Kandidatinnen und Kandidaten vor Beginn der Prüfungen auf diese Bestimmung aufmerksam.
+3 Die Prüfungsleitung macht die Kandidatinnen und Kandidaten vor Beginn der Prüfungen auf diese Bestimmung aufmerksam.
 
-## 5 Prüfungsfächer und Prüfungsstoff
+### 5. Abschnitt: Prüfungsfächer und Prüfungsstoff
 
 #### Artikel 15
 
@@ -161,11 +177,15 @@ beschliesst:
 
 <sup>1</sup> Die Maturitätsprüfungen an der Kantonalen Mittelschule Uri umfassen folgende Fächer:
 
-- a) Deutsch
-- b) Französisch oder Italienisch
-- c) Englisch
-- d) Mathematik
-- e) Schwerpunktfach
+- a) Deutsch;
+
+- b) Französisch oder Italienisch;
+
+- c) Englisch;
+
+- d) Mathematik;
+
+- e) Schwerpunktfach.
 
 <sup>2</sup> Die Fächer gemäss Absatz 1 werden schriftlich und mündlich geprüft.
 
@@ -173,9 +193,9 @@ beschliesst:
 
 **Prüfungsstoff**
 
-<sup>1</sup> Bei den Prüfungen wird im Wesentlichen das Lernprogramm der letzten zwei Unterrichtsjahre berücksichtigt.
+Bei den Prüfungen wird im Wesentlichen das Lernprogramm der letzten zwei Unterrichtsjahre berücksichtigt.
 
-## 6 Schriftliche Prüfungen
+### 6. Abschnitt: Schriftliche Prüfungen
 
 #### Artikel 17
 
@@ -185,18 +205,21 @@ beschliesst:
 
 <sup>2</sup> Die Maturitätskommission kann Ergänzungen oder einen neuen Prüfungsvorschlag verlangen.
 
+[^17-1]: Fassung gemäss MSRB vom 25. November 2004, in Kraft gesetzt auf den 1. November 2004 (AB vom 18. Februar 2005).
+
 #### Artikel 18
 
-**Prüfungsdauer und Prüfungsart**
+**Prüfungsdauer und Prüfungsart[^17-1]**
 
 <sup>1</sup> Die schriftliche Prüfung dauert je vier Stunden:
 
-- a) in den Grundlagenfächern: Deutsch, Französisch oder Italienisch, Englisch, Mathematik
-- b) im Schwerpunktfach
+- a) in den Grundlagenfächern: Deutsch, Französisch oder Italienisch, Englisch, Mathematik;
 
-<sup>2</sup> …
+- b) im Schwerpunktfach.<sup>14</sup> 2 …15
 
-<sup>3</sup> Im Schwerpunktfach «Physik und Anwendungen der Mathematik (PAM)» besteht die schriftliche Prüfung zur einen Hälfte aus Mathematik- und zur anderen Hälfte aus Physikaufgaben.
+<sup>3</sup> Im Schwerpunktfach «Physik und Anwendungen der Mathematik (PAM)» besteht die schriftliche Prüfung zur einen Hälfte aus Mathematik- und zur anderen Hälfte aus Physikaufgaben.[^18-1]
+
+[^18-1]: Eingefügt durch MSRB vom 25. November 2004, in Kraft gesetzt auf den 1. November 2004 (AB vom 18. Februar 2005).
 
 #### Artikel 19
 
@@ -208,7 +231,7 @@ beschliesst:
 
 <sup>3</sup> Das Rektorat bestimmt die Aufsichtspersonen.
 
-## 7 Mündliche Prüfungen
+### 7. Abschnitt: Mündliche Prüfungen
 
 #### Artikel 20
 
@@ -216,65 +239,79 @@ beschliesst:
 
 <sup>1</sup> Die Prüfungen werden von der zuständigen Examinatorin oder vom zuständigen Examinator im Beisein von mindestens einem Mitglied der Maturitätskommission abgenommen.
 
-<sup>1a</sup> Das Mitglied der Maturitätskommission erstellt Handnotizen über den Prüfungsablauf.
+<sup>1a</sup> Das Mitglied der Maturitätskommission erstellt Handnotizen über den Prüfungsablauf.[^20-1]
 
-<sup>2</sup> In Fächern, die von zwei Lehrpersonen unterrichtet werden, haben beide bei der mündlichen Prüfung mitzuwirken. Vorbehalten bleibt Absatz 3.
+<sup>2</sup> In Fächern, die von zwei Lehrpersonen unterrichtet werden, haben beide bei der mündlichen Prüfung mitzuwirken. Vorbehalten bleibt Absatz 3.[^20-2]
 
-<sup>3</sup> Beim Schwerpunktfach «Physik und Anwendungen der Mathematik (PAM)» wird einzig das Fach «Physik» mündlich geprüft.
+<sup>3</sup> Beim Schwerpunktfach «Physik und Anwendungen der Mathematik (PAM)» wird einzig das Fach «Physik» mündlich geprüft.[^20-3]
+
+[^20-1]: Eingefügt durch MSRB vom 16. März 2022, in Kraft gesetzt auf den 1. April 2022 (AB vom 22. April 2022).
+[^20-2]: Fassung gemäss MSRB vom 25. November 2004, in Kraft gesetzt auf den 1. November 2004 (AB vom 18. Februar 2005).
+[^20-3]: Eingefügt durch MSRB vom 25. November 2004, in Kraft gesetzt auf den 1. November
 
 #### Artikel 21
 
 **Prüfungsdauer**
 
-<sup>1</sup> Die mündlichen Prüfungen dauern in der Regel in jedem Fach eine Viertelstunde.
+Die mündlichen Prüfungen dauern in der Regel in jedem Fach eine Viertelstunde.
+
+[^21-1]: Fassung gemäss MSRB vom 29. März 2018, in Kraft gesetzt auf den 1. August 2018 (AB vom 25. Mai 2018).
 
 #### Artikel 22
 
-**Mündliche Prüfung im Fach Musik**
+**Mündliche Prüfung im Fach Musik[^21-1]**
 
-<sup>1</sup> …
+<sup>1</sup> …[^22-1]
 
 <sup>2</sup> Im Schwerpunktfach «Musik» gilt das Instrumentalvorspiel als mündliche Prüfung.
 
-## 8 Benotung der Prüfungen
+[^22-1]: Aufgehoben durch MSRB vom 29. März 2018, in Kraft gesetzt auf den 1. August 2018 (AB vom 25. Mai 2018).
+
+### 8. Abschnitt: Benotung der Prüfungen
 
 #### Artikel 23
 
 **Notenskala**
 
-<sup>1</sup> Die Maturitätsprüfungen werden mit Noten von 6 bis 1 bewertet. Dabei wird das Ergebnis in den schriftlichen Prüfungen in Zehntelsnoten und das Ergebnis in den mündlichen Prüfungen in ganzen und halben Noten ausgedrückt.
+Die Maturitätsprüfungen werden mit Noten von 6 bis 1 bewertet. Dabei wird das Ergebnis in den schriftlichen Prüfungen in Zehntelsnoten und das Ergebnis in den mündlichen Prüfungen in ganzen und halben Noten ausgedrückt.
 
 #### Artikel 24
 
-**Bewertung: schriftliche Prüfungen**
+**Bewertung**
 
-<sup>1</sup> Die für die Klasse zuständige Fachlehrperson ist verantwortlich für die Korrektur und Bewertung der schriftlichen Prüfung. Befindet sich die Fachlehrperson im Ausstand oder kann ihre Funktion aus einem andern Grund nicht wahrnehmen, so übernimmt die von der Maturitätskommission auf Antrag des Rektorats bestimmte Stellvertretung diese Aufgabe.
+- a) schriftliche Prüfungen
 
-<sup>2</sup> Jede schriftliche Prüfung wird vom Mitglied der Maturitätskommission, welches an der entsprechenden mündlichen Prüfung als Expertin oder Experte eingesetzt wird, kontrolliert.
+<sup>1</sup> Die für die Klasse zuständige Fachlehrperson ist verantwortlich für die Korrektur und Bewertung der schriftlichen Prüfung. Befindet sich die Fachlehrperson im Ausstand oder kann ihre Funktion aus einem andern Grund nicht wahrnehmen , so übernimmt die von der Maturitätskommission auf Antrag des Rektorats bestimmte Stellvertretung diese Aufgabe.[^24-1]
+
+<sup>2</sup> Jede schriftliche Prüfung wird vom Mitglied der Maturitätskommission, welches an der entsprechenden mündlichen Prüfung als Expertin oder Experte eingesetzt wird, kontrolliert.[^24-2]
 
 <sup>3</sup> Die bewerteten Prüfungsergebnisse werden der Maturitätskommission zur Genehmigung unterbreitet.
 
-#### Artikel 25
+[^24-1]: Fassung gemäss MSRB vom 16. Mai 2024, in Kraft gesetzt auf den 1. August 2024 (AB vom 31. Mai 2024).
+[^24-2]: Fassung gemäss MSRB vom 16. März 2022, in Kraft gesetzt auf den 1. April 2022 (AB vom 22. April 2022).
 
-**Bewertung: mündliche Prüfungen**
+#### Artikel 25 b
+
+**) mündliche Prüfungen**
 
 <sup>1</sup> Die mündlichen Prüfungen werden von der zuständigen Examinatorin oder dem zuständigen Examinator bewertet.
 
-<sup>2</sup> Die Examinatorin oder der Examinator schlägt der Expertin oder dem Experten die Note vor. Bei Meinungsverschiedenheiten gilt das Mittel als Antrag an die Maturitätskommission.
+2 Die Examinatorin oder der Examinator schlägt der Expertin oder dem Experten die Note vor. Bei Meinungsverschiedenheiten gilt das Mittel als Antrag an die Maturitätskommission.[^25b-1]
 
-<sup>3</sup> …
+<sup>3</sup> ...[^25b-2]
 
-## 9 Maturitätsnoten
+[^25b-1]: Fassung gemäss MSRB vom 25. November 2004, in Kraft gesetzt auf den 1. November 2004 (AB vom 18. Februar 2005).
+[^25b-2]: Aufgehoben durch MSRB vom 25. November 2004, in Kraft gesetzt auf den 1. November 2004 (AB vom 18. Februar 2005).
+
+### 9. Abschnitt: Maturitätsnoten
 
 #### Artikel 26
 
 **Notenskala**
 
-<sup>1</sup> Die Leistungen in den für die Erteilung der Maturität massgeblichen Fächern (Maturitätsfächern) werden mit ganzen und halben Noten ausgedrückt. 6 ist die höchste, 1 die tiefste Note. Noten unter 4 stehen für ungenügende Leistungen.
+Die Leistungen in den für die Erteilung der Maturität massgeblichen Fächern (Maturitätsfächern) werden mit ganzen und halben Noten ausgedrückt. 6 ist die höchste, 1 die tiefste Note. Noten unter 4 stehen für ungenügende Leistungen.
 
-#### Artikel 27
-
-**Bewertung der Maturitätsnoten**
+Artikel 27[^26-1] Bewertung der Maturitätsnoten
 
 <sup>1</sup> Für die Berechnung der Maturanote gilt grundsätzlich die Formel: zweimal die Jahresnote (in Zehnteln) + Note der schriftlichen Prüfung (in Zehnteln) + Note der mündlichen Prüfung (in ganzen oder halben Noten) dividiert durch 4.
 
@@ -282,126 +319,145 @@ beschliesst:
 
 <sup>3</sup> Die Jahresnote im Schwerpunktfach «Wirtschaft und Recht» setzt sich zusammen aus vier Fünfteln der Note «Wirtschaft und Recht» und einem Fünftel der Note «Statistik».
 
-#### Artikel 28
-
-**Bewertung der übrigen Fächer**
-
-<sup>1</sup> Die übrigen Fächer werden aufgrund der Leistungen im letzten Ausbildungsjahr bewertet, in dem das Fach unterrichtet worden ist.
-
-#### Artikel 28a
-
-**Bewertung der Maturaarbeit**
+Artikel 28<sup>27</sup> Bewertung der übrigen Fächer Die übrigen Fächer werden aufgrund der Leistungen im letzten Ausbildungsjahr bewertet, in dem das Fach unterrichtet worden ist. Artikel 28a[^26-2] Bewertung der Maturaarbeit
 
 <sup>1</sup> Die Note der Maturaarbeit wird gleich behandelt wie die Note eines Maturafachs.
 
 <sup>2</sup> Der Mittelschulrat erlässt ein besonderes Reglement über die Maturaarbeit.
 
+[^26-1]: Fassung gemäss MSRB vom 19. September 2013, in Kraft gesetzt auf den 1. August 2013 (AB vom 11. Oktober 2013).
+[^26-2]: Fassung gemäss MSRB vom 22. Juni 2009, in Kraft gesetzt auf den 1. August 2009 (AB vom 17. Juli 2009).
+
 #### Artikel 29
 
-**Grenzfälle**
+Grenzfälle Ergibt die Berechnung der Maturitätsnoten einen Wert, der genau zwischen einer halben und einer ganzen Note liegt, entscheidet die Jahresnote über die Auf- oder Abrundung.
 
-<sup>1</sup> Ergibt die Berechnung der Maturitätsnoten einen Wert, der genau zwischen einer halben und einer ganzen Note liegt, entscheidet die Jahresnote über die Auf- oder Abrundung.
+### 10. Abschnitt: Erteilung der Maturität
 
-## 10 Erteilung der Maturität
+Artikel 30[^h10AbschnittErtei-1] Maturitätsfächer
 
-#### Artikel 30
-
-**Maturitätsfächer**
-
-<sup>1</sup> Die Grundlagenfächer, ein Schwerpunktfach, ein Ergänzungsfach und die Maturaarbeit bilden die Maturitätsfächer.
+<sup>1</sup> Die Grundlagenfächer, ein Schwerpunktfach, ein Ergänzungsfach und die Maturaarbeit bilden die Maturitätsfächer.<sup>30</sup>
 
 <sup>2</sup> Grundlagenfächer sind:
 
-- a) Deutsch
-- b) Französisch oder Italienisch
-- c) Englisch
-- d) Mathematik
-- e) Biologie
-- f) Chemie
-- g) Physik
-- h) Geschichte
-- i) Geographie
-- j) Bildnerisches Gestalten oder Musik
-- k) Philosophie
+- a) Deutsch;
 
-<sup>3</sup> Als Schwerpunktfächer können alle im Kanton der Maturitäts-Anerkennungsverordnung (SR [413.11](https://db.clex.ch/link/Bund/413.11/de)) aufgelisteten Fächer angeboten werden.
+- b) Französisch oder Italienisch;
 
-<sup>4</sup> Als Ergänzungsfächer können alle im Kanton der Maturitäts-Anerkennungsverordnung (SR [413.11](https://db.clex.ch/link/Bund/413.11/de)) aufgelisteten Fächer angeboten werden.
+- c) Englisch;
 
-<sup>4a</sup> Zusätzlich ist eine Einführung in Wirtschaft und Recht obligatorisch.
+- d) Mathematik;
+
+- e) Biologie;
+
+- f) Chemie;
+
+- g) Physik;
+
+- h) Geschichte;
+
+- i) Geographie;
+
+- j) Bildnerisches Gestalten oder Musik;
+
+- k) Philosophie.
+
+3 Als Schwerpunktfächer können alle im Kanton der Maturitäts-Anerkennungsverordnung[^h10AbschnittErtei-2] aufgelisteten Fächer angeboten werden.[^h10AbschnittErtei-3]
+
+<sup>4</sup> Als Ergänzungsfächer können alle im Kanton der Maturitäts-Anerkennungsverordnung[^h10AbschnittErtei-4] aufgelisteten Fächer angeboten werden.[^h10AbschnittErtei-5]
+
+<sup>4a</sup> Zusätzlich ist eine Einführung in Wirtschaft und Recht obligatorisch.[^h10AbschnittErtei-6]
 
 <sup>5</sup> Die Schwerpunktfächer und die Ergänzungsfächer werden nur geführt, wenn sich genügend Schülerinnen und Schüler dafür anmelden. Niemand kann beanspruchen, dass sie oder er ein solches Fach tatsächlich besuchen kann.
 
-#### Artikel 31
+Artikel 31<sup>36</sup> Bestehensnorm Die Maturität ist bestanden, wenn in den Maturitätsfächern gemäss Artikel 30:
 
-**Bestehensnorm**
+- a) die doppelte Summe aller Notenabweichungen von 4 nach unten nicht grösser ist als die Summe aller Notenabweichungen von 4 nach oben, und
 
-<sup>1</sup> Die Maturität ist bestanden, wenn in den Maturitätsfächern gemäss Artikel 30:
+- b) nicht mehr als vier Noten unter 4 erteilt wurden.
 
-- a) die doppelte Summe aller Notenabweichungen von 4 nach unten nicht grösser ist als die Summe aller Notenabweichungen von 4 nach oben und
-- b) nicht mehr als vier Noten unter 4 erteilt wurden
+[^h10AbschnittErtei-1]: Fassung gemäss MSRB vom 24. Januar 2008, in Kraft gesetzt auf den 1. August 2008 (AB vom 29. Februar 2008).
+[^h10AbschnittErtei-2]: SR 413.11
+[^h10AbschnittErtei-3]: Fassung gemäss MSRB vom 16. März 2022, in Kraft gesetzt auf den 1. April 2022 (AB vom 22. April 2022).
+[^h10AbschnittErtei-4]: SR 413.11
+[^h10AbschnittErtei-5]: Fassung gemäss MSRB vom 16. März 2022, in Kraft gesetzt auf den 1. April 2022 (AB vom 22. April 2022).
+[^h10AbschnittErtei-6]: Eingefügt durch MSRB vom 21. Januar 2010, in Kraft gesetzt auf den 1. August 2010 (AB vom 19. Februar 2010).
 
 #### Artikel 32
 
 **Wiederholung der Prüfung**
 
-<sup>1</sup> Wer die Maturität gemäss Artikel 31 nicht besteht, kann die Prüfungen nach der Repetition des wesentlichen Teils des Unterrichts der letzten Klasse der Mittelschule einmal wiederholen.
+Wer die Maturität gemäss Artikel 31 nicht besteht, kann die Prüfungen nach der Repetition des wesentlichen Teils des Unterrichts der letzten Klasse der Mittelschule einmal wiederholen.
 
 #### Artikel 33
 
 **Maturitätsausweis**
 
-<sup>1</sup> Der Maturitätsausweis enthält:
+Der Maturitätsausweis enthält:
 
-- a) die Aufschriften «Schweizerische Eidgenossenschaft» sowie «Kanton Uri»
-- b) den Vermerk «Maturitätsausweis, ausgestellt nach den Erlassen des Bundesrates und der EDK über die Anerkennung von gymnasialen Maturitätsausweisen vom 16. Januar / 15. Februar 1995»
-- c) den Namen «Kantonale Mittelschule Uri»
-- d) den Namen, Vornamen, Heimatort (für Ausländerinnen und Ausländer: Staatsangehörigkeit und Geburtsort) und das Geburtsdatum der Inhaberin oder des Inhabers
-- e) die Angabe der Zeit, während der die Inhaberin oder der Inhaber die Mittelschule besucht hat
-- f) die Noten der Maturitätsfächer gemäss Artikel 30 Absatz 1
-- g) das Thema und die Gesamtnote der Maturaarbeit
-- h) die Note für das eidgenössisch vorgeschriebene Fach Sport
-- i) die Unterschrift der Bildungsdirektorin oder des Bildungsdirektors und der Rektorin oder des Rektors der Kantonalen Mittelschule Uri
+- a) die Aufschriften «Schweizerische Eidgenossenschaft» sowie «Kanton Uri»;
+
+- b) den Vermerk «Maturitätsausweis, ausgestellt nach den Erlassen des Bundesrates und der EDK über die Anerkennung von gymnasialen Maturitätsausweisen vom 16. Januar/15. Februar 1995»;
+
+- c) den Namen «Kantonale Mittelschule Uri»;
+
+- d) den Namen, Vornamen, Heimatort (für Ausländerinnen und Ausländer: Staatsangehörigkeit und Geburtsort) und das Geburtsdatum der Inhaberin oder des Inhabers;
+
+- e) die Angabe der Zeit, während der die Inhaberin oder der Inhaber die Mittelschule besucht hat;
+
+- f) die Noten der Maturitätsfächer gemäss Artikel 30 Absatz 1;[^33-1]
+
+- g) das Thema und die Gesamtnote der Maturaarbeit;[^33-2]
+
+- h) die Note für das eidgenössisch vorgeschriebene Fach Sport;
+
+- i) die Unterschrift der Bildungsdirektorin oder des Bildungsdirektors und der Rektorin oder des Rektors der Kantonalen Mittelschule Uri.
+
+[^33-1]: Fassung gemäss MSRB vom 21. Januar 2010, in Kraft gesetzt auf den 1. August 2010 (AB vom 19. Februar 2010).
+[^33-2]: Fassung gemäss MSRB vom 22. Juni 2009, in Kraft gesetzt auf den 1. August 2009 (AB vom 17. Juli 2009).
 
 #### Artikel 34
 
 **Aufbewahrung der Prüfungsakten**
 
-<sup>1</sup> Die Mittelschule bewahrt die Akten der Maturitätsprüfungen während 10 Jahren im Schularchiv auf.
+Die Mittelschule bewahrt die Akten der Maturitätsprüfungen während 10 Jahren im Schularchiv auf.
 
-## 11 Rechtsmittel
+### 11. Abschnitt: Rechtsmittel
 
 #### Artikel 35
 
 <sup>1</sup> Gegen Verfügungen und Entscheide aufgrund dieses Reglements kann innert zehn Tagen seit der Zustellung schriftlich bei der Maturitätskommission Einsprache erhoben werden.
 
-<sup>2</sup> Gegen Verfügungen und Entscheide der Maturitätskommission kann innert zwanzig Tagen seit der Eröffnung Verwaltungsbeschwerde beim Mittelschulrat erhoben werden.
+<sup>2</sup> Gegen Verfügungen und Entscheide der Maturitätskommission kann innert zwanzig Tagen seit der Eröffnung Verwaltungsbeschwerde beim Mittelschulrat erhoben werden.[^35-1]
 
-<sup>3</sup> Das Verfahren richtet sich nach der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)).
+<sup>3</sup> Das Verfahren richtet sich nach der Verordnung über die Verwaltungsrechtspflege[^35-2].
 
-## 12 Schluss- und Übergangsbestimmungen
+[^35-1]: Fassung gemäss MSRB vom 16. Mai 2024, in Kraft gesetzt auf den 1. August 2024 (AB vom 31. Mai 2024).
+[^35-2]: RB 2.2345
+
+### 12. Abschnitt: Schluss- und Übergangsbestimmungen
 
 #### Artikel 36
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Das Reglement vom 18. August 1999 über die Maturitätsprüfungen an der Mittelschule des Kantons Uri wird aufgehoben.
+Das Reglement vom 18. August 1999 über die Maturitätsprüfungen an der Mittelschule des Kantons Uri[^36-1] wird aufgehoben.
 
-#### Artikel 36a
-
-**Übergangsbestimmung zur Änderung vom 24. Januar 2008**
+Artikel 36a[^36-2] Übergangsbestimmung zur Änderung vom 24. Januar 2008
 
 <sup>1</sup> Die Änderung vom 24. Januar 2008 gilt für Schülerinnen und Schüler, die im Schuljahr 2008/2009 oder in den Folgejahren die dritte Gymnasialklasse besuchen.
 
 <sup>2</sup> Für die übrigen Schülerinnen und Schüler gilt das bisherige Recht.
 
-#### Artikel 36b
-
-**Besondere Bestimmungen zu den Maturitätsprüfungen 2020**
+Artikel 36b[^36-3] Besondere Bestimmungen zu den Maturitätsprüfungen 2020
 
 <sup>1</sup> In Abweichung der Bestimmungen dieses Reglements finden die Maturitätsprüfungen im Jahr 2020 ausschliesslich schriftlich statt.
 
 <sup>2</sup> In Abweichung von Artikel 27 Absatz 1 dieses Reglements berechnen sich die Maturitätsnoten für die Maturitätsprüfungen im Jahr 2020 zu zwei Drittel anhand der Jahresnote (in Zehnteln) und zu einem Drittel anhand der Note der schriftlichen Prüfung (in Zehnteln).
+
+[^36-1]: RB 10.2414
+[^36-2]: Eingefügt durch MSRB vom 24. Januar 2008, in Kraft gesetzt auf den 1. August 2008 (AB vom 29. Februar 2008).
+[^36-3]: Eingefügt durch MSRB vom 15. Mai 2020, in Kraft gesetzt auf den 1. Juni 2020 (AB vom 29. Mai 2020).
 
 #### Artikel 37
 
@@ -411,4 +467,10 @@ beschliesst:
 
 <sup>2</sup> Artikel 30 Absatz 2 Buchstabe h tritt am 1. August 2003 in Kraft. Bis zu diesem Zeitpunkt gelten für Artikel 31 Ingress und Artikel 33 Buchstabe f nicht zehn, sondern neun Maturitätsfächer.
 
-AB 10.01.2003
+Im Namen des Mittelschulrates
+
+Der Präsident: Josef Arnold Der Rektor: Dr. Josef Arnold
+
+## Weitere Fussnoten
+
+- [15] Aufgehoben durch MSRB vom 29. März 2018, in Kraft gesetzt auf den 1. August 2018 (AB vom 25. Mai 2018).
