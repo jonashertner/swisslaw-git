@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Approvazione delle Convenzioni dell’Organizzazione Internazionale del Lavoro n. 190 sull’eliminazione della violenza e delle molestie nel mondo del lavoro e n. 191 sugli emendamenti alle norme correlati al riconoscimento di un ambiente di lavoro sicuro e salubre come principio fondamentale
 document: Progetto posto in consultazione-3
 language: it

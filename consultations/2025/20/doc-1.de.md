@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Genehmigung der Übereinkommen der Internationalen Arbeitsorganisation Nr. 190 über die Beseitigung von Gewalt und Belästigung in der Arbeitswelt und Nr. 191 zur Änderung von Normen infolge der Anerkennung eines sicheren und gesunden Arbeitsumfelds als grundlegendes Prinzip
 document: Vernehmlassungsvorlage-4
 language: de

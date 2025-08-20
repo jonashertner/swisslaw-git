@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Approbation des conventions de l’Organisation internationale du Travail no 190 concernant l’élimination de la violence et du harcèlement dans le monde du travail et no 191 concernant les amendements aux normes corrélatifs à la reconnaissance d’un milieu de travail sûr et salubre comme principe fondamental
 document: Projet mis en consultation-4
 language: fr
