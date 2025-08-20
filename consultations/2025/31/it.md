@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 21.470 n Iv. Pa. Roduit. La violazione delle condizioni di lavoro obbligatorie costituisce una concorrenza sleale qualificata e deve essere perseguita penalmente
 document: Progetto posto in consultazione
 language: it

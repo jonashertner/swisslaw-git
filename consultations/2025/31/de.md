@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 21.470 n Pa. Iv. Roduit. Die Nichteinhaltung der obligatorischen Arbeitsbedingungen stellt einen qualifizierten unlauteren Wettbewerb dar und muss strafrechtlich verfolgt werden
 document: Vernehmlassungsvorlage
 language: de

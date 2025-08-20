@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 21.470 n Iv. pa. Roduit. La violation des conditions de travail obligatoires constitutive de concurrence déloyale qualifiée doit être poursuivie pénalement
 document: Projet mis en consultation
 language: fr
