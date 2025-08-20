@@ -1,35 +1,37 @@
 ---
 canton: UR
 number: "3.8321"
-title: Konkordat über Errichtung und Betrieb einer Interkantonalen Polizeischule Hitzkirch
+title: KONKORDAT über Errichtung und Betrieb einer Interkantonalen Polizeischule Hitzkirch
 language: de
 version: 2004-12-08
+corrected: 2025-08-21
 version_adopted: 2003-06-25
 adopted: 2003-06-25
 in_force: 2004-12-08
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.8321"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/1080/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/128/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Konkordat über Errichtung und Betrieb einer Interkantonalen Polizeischule Hitzkirch
+# KONKORDAT über Errichtung und Betrieb einer Interkantonalen Polizeischule Hitzkirch
 
-Vom 25.06.2003 (Stand 08.12.2004)
+KONKORDAT über Errichtung und Betrieb einer Interkantonalen Polizeischule Hitzkirch
 
-Die Kantone Aargau, Basel-Landschaft, Basel-Stadt, Bern, Luzern, Nidwalden, Obwalden, Solothurn, Schwyz, Uri und Zug sowie die Städte Bern und Luzern,
+(vom 25. Juni 2003[^t-1]; Stand am 8. Dezember 2004)
 
-gestützt auf Artikel 48 der Bundesverfassung,
+Gestützt auf Artikel 48 der Bundesverfassung schliessen die Kantone Aargau, Basel-Landschaft, Basel-Stadt, Bern, Luzern, Nidwalden, Obwalden, Solothurn, Schwyz, Uri und Zug sowie die Städte Bern und Luzern folgendes Konkordat:
 
-vereinbaren:
+I. Abschnitt: Allgemeines
 
-## 1 Allgemeines
+[^t-1]: Beitritt des Kantons Uri durch LRB vom 31. März 2004, in Kraft gesetzt auf den 1. August 2004 (AB vom 16. April 2004).
 
 #### Artikel 1
 
 **Zweck**
 
-<sup>1</sup> Unter dem Namen «Interkantonale Polizeischule Hitzkirch» (IPH) errichten und betreiben die Konkordatsmitglieder für die deutschsprachige Grundausbildung und Weiterbildung von Angehörigen ihrer Polizeikorps sowie die Forschung im Bereich des Polizeiwesens eine gemeinsame Polizeischule.
+Unter dem Namen «Interkantonale Polizeischule Hitzkirch» (IPH) errichten und betreiben die Konkordatsmitglieder für die deutschsprachige Grundausbildung und Weiterbildung von Angehörigen ihrer Polizeikorps sowie die Forschung im Bereich des Polizeiwesens eine gemeinsame Polizeischule.
 
 #### Artikel 2
 
@@ -51,7 +53,9 @@ vereinbaren:
 
 #### Artikel 4
 
-**Grundausbildung und Weiterbildung zu Gunsten der Konkordatsmitglieder**
+**Grundausbildung und Weiterbildung zu Gunsten**
+
+der Konkordatsmitglieder
 
 <sup>1</sup> Die IPH stellt die Grundausbildung der Polizistinnen und Polizisten der Konkordatsmitglieder sicher. Die Konkordatsmitglieder verpflichten sich, ihre deutschsprachigen Polizistinnen und Polizisten an der IPH auszubilden.
 
@@ -63,24 +67,29 @@ vereinbaren:
 
 **Forschung**
 
-<sup>1</sup> In den von ihr auszubildenden Bereichen und mit Blick auf die Ziele dieses Konkordats kann die IPH Forschung betreiben.
+In den von ihr auszubildenden Bereichen und mit Blick auf die Ziele dieses Konkordats kann die IPH Forschung betreiben.
 
-## 2 Organisation
+II. Abschnitt: Organisation
 
-### 2.1 Organe
+### A.Organe
 
 #### Artikel 6
 
-<sup>1</sup> Organe des Konkordats sind:
+Organe des Konkordats sind:
 
-- a) Konkordatsbehörde
-- b) Schulrat
-- c) Schuldirektion
-- d) externe Buchprüfungsstelle
-- e) interparlamentarische Geschäftsprüfungskommission
-- f) unabhängige Rekurskommission
+- a. Konkordatsbehörde
 
-### 2.2 Konkordatsbehörde
+- b. Schulrat
+
+- c. Schuldirektion
+
+- d. externe Buchprüfungsstelle
+
+- e. interparlamentarische Geschäftsprüfungskommission
+
+- f. unabhängige Rekurskommission
+
+### B.Konkordatsbehörde
 
 #### Artikel 7
 
@@ -106,21 +115,29 @@ vereinbaren:
 
 **Zuständigkeit**
 
-<sup>1</sup> Die Konkordatsbehörde:
+Die Konkordatsbehörde a. regelt die ihr in diesem Konkordat ausdrücklich zur Regelung übertragenen Bereiche und das zur Umsetzung dieses Konkordats Notwendige;
 
-- a) regelt die ihr in diesem Konkordat ausdrücklich zur Regelung übertragenen Bereiche und das zur Umsetzung dieses Konkordats Notwendige
-- b) regelt die Organisation der Schule
-- c) ernennt die Schuldirektorin oder den Schuldirektor
-- d) wählt eine externe Buchprüfungsstelle
-- e) wählt die Mitglieder der Rekurskommission
-- f) erteilt der Schule den vierjährigen Leistungsauftrag mit Globalbudget und entscheidet:
-  - 1\. abschliessend über Ausweitungen des Globalbudgets im Umfang der aufgelaufenen Teuerung nach Massgabe des Landesindexes der Konsumentenpreise. Der Beschluss bedarf einer Mehrheit von ⅔ der Stimmenden, welche gleichzeitig mindestens ⅔ der Beitragslast gemäss jeweils aktuellem Verteilschlüssel tragen
-- 2\. abschliessend über weitergehende Ausweitungen des Globalbudgets im Umfang von maximal 2 Prozent. Der Beschluss bedarf einer Mehrheit von ⅔ der Stimmenden, welche gleichzeitig mindestens ⅔ der Beitragslast gemäss jeweils aktuellem Verteilschlüssel tragen. Darüber hinausgehende Ausweitungen des Globalbudgets bedürfen der Zustimmung der zuständigen Organe der Konkordatsmitglieder. Der Beschluss ist für alle Konkordatsmitglieder verbindlich, wenn ⅔ der Mitglieder, welche gleichzeitig ⅔ der Beitragslast gemäss aktuellem Verteilschlüssel tragen, zugestimmt haben
-- g) genehmigt den Jahresbericht, den jährlichen Voranschlag sowie die Rechnung der IPH; der Beschluss bedarf einer Mehrheit von ⅔ der Stimmenden
-- h) nimmt den Bericht der externen Buchprüfungsstelle zur Kenntnis
-- i) schliesst Verträge über Erwerb und Miete von Liegenschaften
+- b. regelt die Organisation der Schule;
 
-### 2.3 Schulrat
+- c. ernennt die Schuldirektorin oder den Schuldirektor;
+
+- d. wählt eine externe Buchprüfungsstelle;
+
+- e. wählt die Mitglieder der Rekurskommission;
+
+- f. erteilt der Schule den vierjährigen Leistungsauftrag mit Globalbudget und entscheidet
+
+- abschliessend über Ausweitungen des Globalbudgets im Umfang der aufgelaufenen Teuerung nach Massgabe des Landesindexes der Konsumentenpreise. Der Beschluss bedarf einer Mehrheit von ⅔ der Stimmenden, welche gleichzeitig mindestens ⅔ der Beitragslast gemäss jeweils aktuellem Verteilschlüssel tragen;
+
+- abschliessend über weitergehende Ausweitungen des Globalbudgets im Umfang von maximal 2 Prozent. Der Beschluss bedarf einer Mehrheit von ⅔ der Stimmenden, welche gleichzeitig mindestens ⅔ der Beitragslast gemäss jeweils aktuellem Verteilschlüssel tragen. Darüber hinausgehende Ausweitungen des Globalbudgets bedürfen der Zustimmung der zuständigen Organe der Konkordatsmitglieder. Der Beschluss ist für alle Konkordatsmitglieder verbindlich, wenn ⅔ der Mitglieder, welche gleichzeitig ⅔ der Beitragslast gemäss aktuellem Verteilschlüssel tragen, zugestimmt haben;
+
+- g. genehmigt den Jahresbericht, den jährlichen Voranschlag sowie die Rechnung der IPH; der Beschluss bedarf einer Mehrheit von ⅔ der Stimmenden;
+
+- h. nimmt den Bericht der externen Buchprüfungsstelle zur Kenntnis;
+
+- i. schliesst Verträge über Erwerb und Miete von Liegenschaften.
+
+### C.Schulrat
 
 #### Artikel 10
 
@@ -144,13 +161,13 @@ vereinbaren:
 
 **Zuständigkeit**
 
-<sup>1</sup> Der Schulrat:
+Der Schulrat a. regelt den Schulbetrieb, das Prüfungswesen und die Erteilung des Diploms;
 
-- a) regelt den Schulbetrieb, das Prüfungswesen und die Erteilung des Diploms
-- b) ernennt das höhere Kader der Schule
-- c) prüft den Jahresbericht, den jährlichen Voranschlag sowie die Rechnung und legt diese der Konkordatsbehörde zur Genehmigung vor
+- b. ernennt das höhere Kader der Schule;
 
-### 2.4 Schuldirektion
+- c. prüft den Jahresbericht, den jährlichen Voranschlag sowie die Rechnung und legt diese der Konkordatsbehörde zur Genehmigung vor.
+
+### D.Schuldirektion
 
 #### Artikel 13
 
@@ -160,11 +177,13 @@ vereinbaren:
 
 <sup>2</sup> Die Schuldirektion:
 
-- a) führt die Schule
-- b) verfügt über die von den Konkordatsmitgliedern der Schule zur Verfügung gestellten Mittel
-- c) entscheidet alle für die Erfüllung der Aufgaben der Grundausbildung und Weiterbildung und der Forschung notwendigen Fragen, soweit nicht ein anderes Organ zuständig ist
+- a. führt die Schule;
 
-### 2.5 Interparlamentarische Geschäftsprüfungskommission
+- b. verfügt über die von den Konkordatsmitgliedern der Schule zur Verfügung gestellten Mittel;
+
+- c. entscheidet alle für die Erfüllung der Aufgaben der Grundausbildung und Weiterbildung und der Forschung notwendigen Fragen, soweit nicht ein anderes Organ zuständig ist.
+
+### E.Interparlamentarische Geschäftsprüfungskommission
 
 #### Artikel 14
 
@@ -190,9 +209,9 @@ vereinbaren:
 
 <sup>1</sup> Die interkantonale Geschäftsprüfungskommission prüft die Ziele und deren Verwirklichung, die mehrjährige Finanzplanung, die Kosten- und Leistungsrechnung und den Bericht der externen Buchprüfungsstelle. Sie besitzt Akteneinsichtsrecht und kann Organe, Mitarbeitende, Ausbildende und Auszubildende der IPH anhören.
 
-<sup>2</sup> Die interparlamentarische Geschäftsprüfungskommission erstellt zuhanden der Legislativen der Konkordatsmitglieder jährlich einen Bericht über ihre Prüftätigkeit und kann der Konkordatsbehörde Empfehlungen abgeben.
+2 Die interparlamentarische Geschäftsprüfungskommission erstellt zuhanden der Legislativen der Konkordatsmitglieder jährlich einen Bericht über ihre Prüftätigkeit und kann der Konkordatsbehörde Empfehlungen abgeben.
 
-### 2.6 Unabhängige Rekurskommission
+### F.Unabhängige Rekurskommission
 
 #### Artikel 17
 
@@ -212,9 +231,7 @@ vereinbaren:
 
 #### Artikel 18
 
-**Zuständigkeit**
-
-<sup>1</sup> Die unabhängige Rekurskommission entscheidet über Beschwerden gegen Verfügungen der Konkordatsbehörde, der Schuldirektion sowie des Schulrats. Sie ist in ihrem Entscheid nicht weisungsgebunden. Sie hat volle Kognition.
+Zuständigkeit Die unabhängige Rekurskommission entscheidet über Beschwerden gegen Verfügungen der Konkordatsbehörde, der Schuldirektion sowie des Schulrats. Sie ist in ihrem Entscheid nicht weisungsgebunden. Sie hat volle Kognition.
 
 #### Artikel 19
 
@@ -224,7 +241,7 @@ vereinbaren:
 
 <sup>2</sup> Die Rekurskommission ist beschlussfähig, wenn mindestens drei stimmberechtigte Mitglieder an der Sitzung teilnehmen.
 
-<sup>3</sup> Enthält weder dieses Konkordat noch das Schulstatut eine besondere Regelung, so gilt das Verwaltungsverfahrensrecht des Kantons Luzern analog.
+3 Enthält weder dieses Konkordat noch das Schulstatut eine besondere Regelung, so gilt das Verwaltungsverfahrensrecht des Kantons Luzern analog.
 
 #### Artikel 20
 
@@ -234,26 +251,37 @@ vereinbaren:
 
 <sup>2</sup> Entscheide betreffend Verfügungen über den Schulausschluss von Auszubildenden der Konkordatsmitglieder sind bei der zuständigen Verwaltungsjustizbehörde des anstellenden Konkordatsmitglieds anzufechten. Es findet das Verfahrensrecht des betroffenen Konkordatsmitglieds Anwendung.
 
-## 3 Sonderleistungen des Standortkantons
+III. Abschnitt: Sonderleistungen des Standortkantons
 
 #### Artikel 21
 
-<sup>1</sup> Der Kanton Luzern als Standortkanton erbringt zu Gunsten der IPH folgende Sonderleistungen:
+Der Kanton Luzern als Standortkanton erbringt zu Gunsten der IPH folgende Sonderleistungen:
 
-- a) Der Kanton Luzern errichtet auf seinen für den Schulbetrieb erforderlichen Liegenschaften in Hitzkirch ein selbstständiges und dauerndes Baurecht und überträgt dieses auf die IPH. Das Baurecht ist nach Ablauf der gesetzlichen Maximaldauer auf Begehren der IPH zu deren Gunsten zu erneuern. Die Kosten der Errichtung, Eintragung und Übertragung gehen zu Lasten des Kantons Luzern. Die IPH entrichtet dem Kanton Luzern zum Zeitpunkt der Aufnahme des Schulbetriebs einen einmaligen Baurechtszins von 20'000'000 Franken. Die Heimfallentschädigung beträgt ⅓ des Verkehrswerts im Zeitpunkt des Heimfalls. Der Kanton Luzern haftet für nach Übertragung auftretende versteckte Mängel während fünf Jahren. Weiteres regeln die Konkordatsbehörde und der Kanton Luzern im Baurechtsvertrag
-- b) Der Kanton Luzern verpflichtet sich, für die Absicherung der notwendigen Rechte zu Gunsten der IPH auf den Liegenschaften Dritter besorgt zu sein. Die Absicherung hat soweit möglich dinglich zu erfolgen und es ist für alle nicht ausschliesslich polizeilich nutzbare Infrastruktur eine angemessene Heimfallentschädigung vorzusehen
-- c) Auf Begehren der IPH übernimmt der Kanton Luzern bei Bautätigkeiten der Schule auf deren Rechnung die Funktion und Verantwortung eines Bauherrn
-- d) Für die Aufbauphase der IPH stellt der Kanton Luzern die notwendigen Räumlichkeiten kostenlos zur Verfügung
-- e) Der Kanton Luzern gewährt der IPH ab Inkrafttreten des Konkordats ein zinsloses Darlehen im Betrag von 7'000'000 Franken, das spätestens nach Ablauf von 10 Jahren seit Aufnahme des Schulbetriebs zurückzubezahlen ist
-- f) Der Kanton Luzern befreit die IPH von allen Kantons- und Gemeindesteuern. Ausgenommen sind gewinnorientierte Tätigkeiten zu Gunsten Dritter
+- a. Der Kanton Luzern errichtet auf seinen für den Schulbetrieb erforderlichen Liegenschaften in Hitzkirch ein selbstständiges und dauerndes Baurecht und überträgt dieses auf die IPH. Das Baurecht ist nach Ablauf der gesetzlichen Maximaldauer auf Begehren der IPH zu deren Gunsten zu erneuern. Die Kosten der Errichtung, Eintragung und Übertragung gehen zu Lasten des Kantons Luzern.
 
-## 4 Finanz- und Rechnungswesen
+Die IPH entrichtet dem Kanton Luzern zum Zeitpunkt der Aufnahme des Schulbetriebs einen einmaligen Baurechtszins von 20 Mio. Franken. Die Heimfallentschädigung beträgt ⅓ des Verkehrswerts im Zeitpunkt des Heimfalls.
+
+Der Kanton Luzern haftet für nach Übertragung auftretende versteckte Mängel während fünf Jahren.
+
+Weiteres regeln die Konkordatsbehörde und der Kanton Luzern im Baurechtsvertrag.
+
+- b. Der Kanton Luzern verpflichtet sich, für die Absicherung der notwendigen Rechte zu Gunsten der IPH auf den Liegenschaften Dritter besorgt zu sein. Die Absicherung hat soweit möglich dinglich zu erfolgen und es ist für alle nicht ausschliesslich polizeilich nutzbare Infrastruktur eine angemessene Heimfallentschädigung vorzusehen.
+
+- c. Auf Begehren der IPH übernimmt der Kanton Luzern bei Bautätigkeiten der Schule auf deren Rechnung die Funktion und Verantwortung eines Bauherrn.
+
+- d. Für die Aufbauphase der IPH stellt der Kanton Luzern die notwendigen Räumlichkeiten kostenlos zur Verfügung.
+
+- e. Der Kanton Luzern gewährt der IPH ab Inkrafttreten des Konkordats ein zinsloses Darlehen im Betrag von 7 Mio. Franken, das spätestens nach Ablauf von 10 Jahren seit Aufnahme des Schulbetriebs zurückzubezahlen ist.
+
+- f. Der Kanton Luzern befreit die IPH von allen Kantons- und Gemeindesteuern. Ausgenommen sind gewinnorientierte Tätigkeiten zu Gunsten Dritter.
+
+IV. Abschnitt: Finanz- und Rechnungswesen
 
 #### Artikel 22
 
 **Allgemeine Finanzierung**
 
-<sup>1</sup> Die IPH wird durch Beiträge der Konkordatsmitglieder sowie durch die von der Schule bei Dritten akquirierten Mittel (Drittmittel) finanziert.
+Die IPH wird durch Beiträge der Konkordatsmitglieder sowie durch die von der Schule bei Dritten akquirierten Mittel (Drittmittel) finanziert.
 
 #### Artikel 23
 
@@ -275,15 +303,15 @@ vereinbaren:
 
 <sup>1</sup> Grundausbildung und Weiterbildung sowie die Lehrgänge für besondere polizeiliche Dienste werden den Konkordatsmitgliedern zu Selbstkosten verrechnet. Die Selbstkosten beinhalten neben den Betriebskosten einen angemessenen Risikozuschlag zur Bildung von Eigenkapital.
 
-<sup>2</sup> Die Leistungserbringung für Dritte muss gewinnbringend sein und darf die Auftragserfüllung der Polizeischule sowie die Erfüllung der gesetzlichen Aufgaben durch die Konkordatsmitglieder nicht beeinträchtigen.
+2 Die Leistungserbringung für Dritte muss gewinnbringend sein und darf die Auftragserfüllung der Polizeischule sowie die Erfüllung der gesetzlichen Aufgaben durch die Konkordatsmitglieder nicht beeinträchtigen.
 
 <sup>3</sup> Den Konkordatsmitgliedern werden die Kosten für die Grundausbildung und Weiterbildung in Form einer Leistungspauschale in Rechnung gestellt. Die Leistungspauschale wird durch die Konkordatsbehörde zusammen mit dem Beschluss über das Vierjahres-Globalbudget festgelegt. 70 Prozent der Leistungspauschale wird den Konkordatsmitgliedern nach Tragfähigkeitsprinzip (je ein Drittel entsprechend den Teilnehmertagen der letzten vier Jahre, der Einwohnerzahl und der Korpsgrösse) in Rechnung gestellt. 30 Prozent der Leistungspauschale wird den Konkordatsmitgliedern nach dem Verursacherprinzip (Teilnehmertage des Vorjahres) in Rechnung gestellt.
 
-<sup>4</sup> Für das Tragfähigkeitsprinzip werden während der ersten vier Jahre und für das Verursacherprinzip während dem ersten Jahre nach Aufnahme des Schulbetriebs als Schlüsselgrösse statt der Anzahl Teilnehmertage die Zahl der Schulabgängerinnen und ‑abgänger der letzten fünf Jahre zugezogen.
+<sup>4</sup> Für das Tragfähigkeitsprinzip werden während der ersten vier Jahre und für das Verursacherprinzip während dem ersten Jahre nach Aufnahme des Schulbetriebs als Schlüsselgrösse statt der Anzahl Teilnehmertage die Zahl der Schulabgängerinnen und -abgänger der letzten fünf Jahre zugezogen.
 
 <sup>5</sup> Die Rechnungsstellung der Leistungspauschale erfolgt hälftig im Januar und Juni. Andere Lehrgänge und Kurse sowie anderweitige Leistungen zu Gunsten Dritter werden unmittelbar den Auftraggebern fakturiert.
 
-## 5 Personal
+V. Abschnitt: Personal
 
 #### Artikel 25
 
@@ -307,7 +335,7 @@ vereinbaren:
 
 <sup>3</sup> Der Aufwand, welcher den Konkordatsmitgliedern durch die Zurverfügungstellung ihrer Angestellten entsteht, ist gemäss Tarif der Schule durch die IPH zu vergüten.
 
-## 6 Auszubildende
+VI. Abschnitt: Auszubildende
 
 #### Artikel 27
 
@@ -315,7 +343,9 @@ vereinbaren:
 
 <sup>1</sup> Jedem Konkordatsmitglied wird im Rahmen der Schulkapazitäten pro Lehrgang ein Minimalkontingent an Ausbildungsplätzen garantiert. Die Konkordatsmitglieder haben im Rahmen dieses Kontingents einen Rechtsanspruch auf Entsendung von Auszubildenden der Kantonspolizeikorps bzw. der Korps der Stadt Bern und der Stadt Luzern sowie ihrer Gemeindepolizeikorps.
 
-<sup>2</sup> Das Minimalkontingent wird durch Aufteilung von 90 Prozent der zur Verfügung stehenden Plätze (Schulkapazität) im Verhältnis der jährlichen Beiträge der Partner errechnet. Das Ergebnis wird auf die nächste ganze Zahl aufgerundet: «Minimalkontingent des Konkordatsmitglieds A» = «90% der zur Verfügung stehenden Plätze» × «jährlicher Beitrag des Konkordatsmitglieds A» / «Gesamte Beiträge der Konkordatsmitglieder gemäss Globalbudget».
+<sup>2</sup> Das Minimalkontingent wird durch Aufteilung von 90 Prozent der zur Verfügung stehenden Plätze (Schulkapazität) im Verhältnis der jährlichen Beiträge der Partner errechnet. Das Ergebnis wird auf die nächste ganze Zahl aufgerundet.
+
+Minimalkontingent des 90% der zur Verfügung stehend. Plätze • jährlicher Beitrag des Konkordatsmitglieds x = Konkordatsmitglieds x Gesamte Beiträge der Konkordatsmitglieder gemäss Globalbudget
 
 <sup>3</sup> Über die Zuteilung freier Plätze an die Konkordatsmitglieder entscheidet die Schuldirektion. Ist die Nachfrage nach ungebundenen freien Plätzen grösser als das Angebot, so erfolgt eine Aufteilung dieser Plätze im Verhältnis des Minimalkontingents.
 
@@ -335,7 +365,7 @@ vereinbaren:
 
 <sup>1</sup> Die Auszubildenden werden durch die Konkordatsmitglieder der IPH zur Ausbildung zugewiesen.
 
-<sup>2</sup> Die Auszubildenden unterstehen den personalrechtlichen Vorschriften des entsprechenden Konkordatsmitglieds, soweit nicht dieses Konkordat oder das Schulstatut etwas anderes bestimmt.
+2 Die Auszubildenden unterstehen den personalrechtlichen Vorschriften des entsprechenden Konkordatsmitglieds, soweit nicht dieses Konkordat oder das Schulstatut etwas anderes bestimmt.
 
 <sup>3</sup> Die Auszubildenden können verpflichtet werden, während einer von der Konkordatsbehörde festzulegenden Dauer eine Unterkunft in den Räumlichkeiten der Schule zu beziehen. Die Konkordatsbehörde kann während des Pflichtinternats von den Auszubildenden einen Beitrag an Unterkunft und Verpflegung verlangen.
 
@@ -375,9 +405,9 @@ vereinbaren:
 
 **Rechtliche Stellung der Weiterzubildenden**
 
-<sup>1</sup> Die Artikel 29 bis 31 gelten analog auch für die Weiterbildung.
+Die Artikel 29 bis 31 gelten analog auch für die Weiterbildung.
 
-## 7 Haftung
+VII. Abschnitt: Haftung
 
 #### Artikel 34
 
@@ -389,21 +419,19 @@ vereinbaren:
 
 #### Artikel 35
 
-**Schaden zum Nachteil der IPH oder der Konkordatsmitglieder**
+**Schaden zum Nachteil der IPH**
 
-<sup>1</sup> Die Mitglieder der Organe des Konkordats, die Mitarbeitenden, die Ausbildenden und die Auszubildenden der IPH haften dieser sowie den Konkordatsmitgliedern für vorsätzlich oder grob-fahrlässig zugefügten Schaden. Im Übrigen gilt das Staatshaftungsrecht des Kantons Luzern.
-
-## 8 Anwendbares Recht
+oder der Konkordatsmitglieder Die Mitglieder der Organe des Konkordats, die Mitarbeitenden, die Ausbildenden und die Auszubildenden der IPH haften dieser sowie den Konkordatsmitgliedern für vorsätzlich oder grob-fahrlässig zugefügten Schaden. Im Übrigen gilt das Staatshaftungsrecht des Kantons Luzern. VIII. Abschnitt: Anwendbares Recht
 
 #### Artikel 36
 
-<sup>1</sup> Wo dieses Konkordat keine Bestimmungen enthält und weder die einzelnen Konkordatsmitglieder noch die Konkordatsbehörde zur Regelung zuständig sind, namentlich betreffend Submission, Datenschutz und Archivrecht, ist das Recht des Kantons Luzern anwendbar.
+Wo dieses Konkordat keine Bestimmungen enthält und weder die einzelnen Konkordatsmitglieder noch die Konkordatsbehörde zur Regelung zuständig sind, namentlich betreffend Submission, Datenschutz und Archivrecht, ist das Recht des Kantons Luzern anwendbar.
 
 #### Artikel 37
 
-<sup>1</sup> Publikationen der Schule erfolgen in allen amtlichen Publikationsorganen der Konkordatsmitglieder.
+Publikationen der Schule erfolgen in allen amtlichen Publikationsorganen der Konkordatsmitglieder.
 
-## 9 Zusammenarbeit und Verhältnis zu Dritten
+IX. Abschnitt: Zusammenarbeit und Verhältnis zu Dritten
 
 #### Artikel 38
 
@@ -417,13 +445,13 @@ vereinbaren:
 
 **Zusammenarbeit mit dem Bund**
 
-<sup>1</sup> Die Konkordatsbehörde kann mit dem Bund Vereinbarungen betreffend die polizeiliche Ausbildung abschliessen.
+Die Konkordatsbehörde kann mit dem Bund Vereinbarungen betreffend die polizeiliche Ausbildung abschliessen.
 
 #### Artikel 40
 
 **Zusammenarbeit mit Bildungsinstitutionen**
 
-<sup>1</sup> Die IPH kann mit Ausbildungsinstitutionen des In- und Auslands zusammenarbeiten.
+Die IPH kann mit Ausbildungsinstitutionen des In- und Auslands zusammenarbeiten.
 
 #### Artikel 41
 
@@ -431,28 +459,27 @@ vereinbaren:
 
 <sup>1</sup> Die Konkordatsbehörde kann, soweit die Kapazität der Schule dies erlaubt, die Zulassung von weiteren, nicht den Konkordatsmitgliedern angehörenden Personen ermöglichen.
 
-<sup>2</sup> Es besteht kein Anspruch auf Aufnahme.
+2 Es besteht kein Anspruch auf Aufnahme.
 
-## 10 Schlussbestimmungen
+X. Abschnitt: Schlussbestimmungen
 
 #### Artikel 42
 
 **Inkrafttreten**
 
-<sup>1</sup> Das Konkordat tritt in Kraft, sofern Konkordatsmitglieder[^Artikel42-1], welche zusammen mindestens 95 Prozent der Beiträge (gemäss Anhang 1) zu übernehmen haben, ihren Beitritt erklärt haben[^Artikel42-2].
+<sup>1</sup> Das Konkordat tritt in Kraft, sofern Konkordatsmitglieder, welche zusammen mindestens 95 Prozent der Beiträge (gemäss Anhang 1) zu übernehmen haben, ihren Beitritt erklärt haben[^42-1].
 
 <sup>2</sup> Der Beitritt ist bis am 31. Dezember 2004 gegenüber der Staatskanzlei des Kantons Luzern zu erklären, welche das Konkordat und dessen Zustandekommen dem Bundesrat zur Kenntnis bringt. Spätere Beitrittserklärungen stellen Beitritte weiterer Konkordatsmitglieder nach Artikel 43 dar.
 
-<sup>3</sup> Die jährlichen Beiträge der Konkordatsmitglieder nach Globalbudget können im Zeitpunkt der Aufnahme des Schulbetriebs von der Konkordatsbehörde auf maximal 13'660'000 Franken festgelegt werden. In Abweichung von Artikel 9 lit. f bedarf eine den Teuerungsausgleich überschreitende Ausweitung des Globalbudgets während der ersten vier Jahre nach Aufnahme des Schulbetriebs der Zustimmung der zuständigen Organe aller Konkordatsmitglieder.
+<sup>3</sup> Die jährlichen Beiträge der Konkordatsmitglieder nach Globalbudget können im Zeitpunkt der Aufnahme des Schulbetriebs von der Konkordatsbehörde auf maximal 13,66 Mio. Franken festgelegt werden. In Abweichung von Artikel 9 lit. f bedarf eine den Teuerungsausgleich überschreitende Ausweitung des Globalbudgets während der ersten vier Jahre nach Aufnahme des Schulbetriebs der Zustimmung der zuständigen Organe aller Konkordatsmitglieder.
 
-[^Artikel42-1]: Beitritt des Kantons Uri durch LRB vom 31. März 2004, in Kraft gesetzt auf den 1. August 2004 (AB vom 16. April 2004).
-[^Artikel42-2]: In Kraft gesetzt auf den 8. Dezember 2004.
+[^42-1]: In Kraft gesetzt auf den 8. Dezember 2004.
 
 #### Artikel 43
 
 **Beitritt weiterer Kantone**
 
-<sup>1</sup> Das Konkordat steht weiteren Kantonen zum Beitritt offen. Die Konkordatsbehörde entscheidet unter Berücksichtigung der Schulkapazitäten, der finanziellen Gegebenheiten und der Entwicklungsziele der Schule über die Aufnahme. Mit der Zustimmung zum Beitritt wird ein Minimalkontingent sowie der vom eintretenden Kanton zu bezahlende einmalige Eintrittsbeitrag festgelegt.
+Das Konkordat steht weiteren Kantonen zum Beitritt offen. Die Konkordatsbehörde entscheidet unter Berücksichtigung der Schulkapazitäten, der finanziellen Gegebenheiten und der Entwicklungsziele der Schule über die Aufnahme. Mit der Zustimmung zum Beitritt wird ein Minimalkontingent sowie der vom eintretenden Kanton zu bezahlende einmalige Eintrittsbeitrag festgelegt.
 
 #### Artikel 44
 
@@ -464,7 +491,7 @@ vereinbaren:
 
 <sup>3</sup> Die Entschädigung für die im Zeitpunkt des Austritts laufenden Lehrgänge bleibt geschuldet. Das austretende Konkordatsmitglied ist berechtigt, die betroffenen Auszubildenden die Lehrgänge ordentlich abschliessen zu lassen.
 
-<sup>4</sup> Das austretende Konkordatsmitglied hat keinen Anspruch auf Rückvergütungen irgendwelcher Art durch die IPH oder die Konkordatsmitglieder.
+4 Das austretende Konkordatsmitglied hat keinen Anspruch auf Rückvergütungen irgendwelcher Art durch die IPH oder die Konkordatsmitglieder.
 
 <sup>5</sup> Die im Konkordat verbleibenden Mitglieder entscheiden über allfällige Anpassungen des Konkordates, falls dies ein Konkordatsmitglied beantragt.
 
@@ -480,41 +507,30 @@ vereinbaren:
 
 <sup>3</sup> Für allfällige Verluste haften die Konkordatsmitglieder analog Absatz 2.
 
-## A1 Anhang 1: Beiträge gemäss Artikel 42
+### Anhang:
 
-#### Artikel A1-1
+- gemäss Artikel 42
 
-<sup>1</sup> Berechnung der von den Partner im Rahmen ihrer prozentualen Beitrags-pflicht gemäss Artikel 24 in Verbindung mit der Planerfolgsrechnung zu leistenden Beiträge:
+### Anhang
 
-- a) Jahresbudget IPH: — 13'654'000 Franken
-- b) ./. Botschaftsschutz: — 400'000 Franken
-- c) ./. Polizeidienstangestellte: — 320'000 Franken
-- d) ./. Gemeindepolizei: — 320'000 Franken
-- e) ./. Übrige Dienstleistung (nicht berücksichtigt sind die Einnahmen der Schule im Rahmen der Unkostenbeiträge der Schüler während des dreimonatigen Pflichtinternats nach Art. 29 Abs. 3. Die Konkordatsbehörde wird den Unkostenbeitrag vor Betriebsaufnahme in einem Tarif festlegen. Die nachstehend ausgewiesenen jährlichen Beiträge der Konkordatspartner werden sich entsprechend verringern): — 240'000 Franken
-- f) Gesamtbeiträge der Partner gemäss Art. 24: — 12'374'000 Franken
+gemäss Artikel 42
 
-#### Artikel A1-2
+Berechnung der von den Partner im Rahmen ihrer prozentualen Beitragspflicht gemäss Artikel 24 in Verbindung mit der Planerfolgsrechnung zu leistenden Beiträge Jahresbudget IPH ./. Botschaftsschutz ./. Polizeidienstangestellte ./. Gemeindepolizei ./. Übrige Dienstleistung\* Gesamtbeiträge der Partner gemäss Art. 24 \*nicht berücksichtigt sind die Einnahmen der Schule im Rahmen der Unkostenbeiträge der Schüler während des dreimonatigen Pflichtinternats nach Art. 29 Abs. 3. Die Konkordatsbehörde wird den Unkostenbeitrag vor Betriebsaufnahme in einem Tarif festlegen. Die nachstehend ausgewiesenen jährlichen Beiträge der Konkordatspartner werden sich entsprechend verringern.
 
-<sup>1</sup> Aufteilung auf die Partner:
+**13'654'000.00 400'000.00 320'000.00 320'000.00 240'000.00 12'374'000.00**
 
-<table>
-<tr><th>Konkordatspartner</th><th>Prozent gemäss Verteilschlüssel nach Art. 24, Stand 25. Juni 2003</th><th>Frankenbeträge gemäss Plan-Erfolgsrechnung vom 25. Juni 2003</th></tr>
-<tr><td>Aargau</td><td>12.7</td><td>1'571'498 Franken</td></tr>
-<tr><td>Basel-Land</td><td>8.8</td><td>1'088'912 Franken</td></tr>
-<tr><td>Basel-Stadt</td><td>14.7</td><td>1'818'978 Franken</td></tr>
-<tr><td>Bern Kanton</td><td>22.1</td><td>2'734'654 Franken</td></tr>
-<tr><td>Luzern Kanton</td><td>9.4</td><td>1'163'156 Franken</td></tr>
-<tr><td>Nidwalden</td><td>1.5</td><td>185'610 Franken</td></tr>
-<tr><td>Obwalden</td><td>1.0</td><td>123'740 Franken</td></tr>
-<tr><td>Solothurn</td><td>9.0</td><td>1'113'660 Franken</td></tr>
-<tr><td>Schwyz</td><td>4.0</td><td>494'960 Franken</td></tr>
-<tr><td>Uri</td><td>1.2</td><td>148'488 Franken</td></tr>
-<tr><td>Zug</td><td>3.5</td><td>433'090 Franken</td></tr>
-<tr><td>Stadt Bern</td><td>9.2</td><td>1'138'408 Franken</td></tr>
-<tr><td>Stadt Luzern</td><td>2.9</td><td>358'846 Franken</td></tr>
-<tr><td>Total</td><td>100</td><td>12'374'000 Franken</td></tr>
-</table>
+### Aufteilung auf die Partner
 
-<sup>2</sup> Die entsprechenden Werte werden im Zeitpunkt der Betriebsaufnahme gemäss Artikel 24 Abs. 4 aktualisiert.
+**Frankenbeträge gemäss Plan-Erfolgsrechnung vom 25. Juni 2003**
 
-AB 16.04.2004
+Konkordatspartner Prozent gemäss Verteil-
+
+schlüssel nach Art. 24
+
+Stand 25. Juni 2003
+
+**1'571'498.00 1'088'912.00 1'818'978.00 2'734'654.00 1'163'156.00 185'610.00 123'740.00 1'113'660.00 494'960.00 148'488.00 433'090.00 1'138'408.00 358'846.00 12'374'000.00**
+
+Aargau 12.7 Basel-Land 8.8 Basel-Stadt 14.7 Bern Kanton 22.1 Luzern Kanton 9.4 Nidwalden 1.5 Obwalden 1.0 Solothurn 9.0 Schwyz 4.0 Uri 1.2 Zug 3.5 Stadt Bern 9.2 Stadt Luzern 2.9 Total 100
+
+Die entsprechenden Werte werden im Zeitpunkt der Betriebsaufnahme gemäss Artikel 24 Abs. 4 aktualisiert.
