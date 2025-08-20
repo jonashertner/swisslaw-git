@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modification de l’Ordonnance sur l’imposition minimale (ajout des dispositions concernant la déclaration d’information GloBE [GloBE Information Return])"
 document: Projet mis en consultation
 language: fr

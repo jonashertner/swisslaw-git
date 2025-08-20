@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Mindestbesteuerungsverordnung (Ergänzung der Bestimmungen zum GloBE Information Return)
 document: Vernehmlassungsvorlage
 language: de

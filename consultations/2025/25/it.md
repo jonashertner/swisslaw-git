@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica dell’Ordinanza sull’imposizione minima (completamento delle disposizioni concernenti la dichiarazione GloBE [«GloBE Information Return»])"
 document: Progetto posto in consultazione
 language: it
