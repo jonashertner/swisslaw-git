@@ -1,128 +1,144 @@
 ---
 canton: UR
 number: "40.4101"
-title: Gewässernutzungsgesetz
+title: GEWÄSSERNUTZUNGSGESETZ
 short: GNG
 language: de
 version: 1993-04-01
+corrected: 2025-08-21
 version_adopted: 1992-02-16
 adopted: 1992-02-16
 in_force: 1993-04-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.4101"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/1058/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/299/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gewässernutzungsgesetz
+# GEWÄSSERNUTZUNGSGESETZ
 
-(GNG)
+GEWÄSSERNUTZUNGSGESETZ (GNG)
 
-Vom 16.02.1992 (Stand 01.04.1993)
+(vom 16. Februar 1992; Stand am 1. April 1993)
 
-Das Volk des Kantons Uri,
-
-gestützt auf Artikel 50 und Artikel 24 Buchstabe b der Kantonsverfassung (RB [1.1101](https://rechtsbuch.ur.ch/data/1.1101/de)) sowie auf das Bundesgesetz vom 22. Dezember 1916 über die Nutzbarmachung der Wasserkräfte (WRG, SR [721.80](https://db.clex.ch/link/Bund/721.80/de)),
+Das Volk des Kantons Uri, gestützt auf Artikel 50 und Artikel 24 Buchstabe b der Kantonsverfassung[^t-1] sowie auf das Bundesgesetz vom 22. Dezember 1916 über die Nutzbarmachung der Wasserkräfte (WRG)<sup>2</sup>,
 
 beschliesst:
 
-## 1 Allgemeine Bestimmungen
+[^t-1]: RB 1.1101
 
-### 1.1 Geltungsbereich
+### 1. Kapitel: ALLGEMEINE BESTIMMUNGEN
+
+### 1. Abschnitt: Geltungsbereich
 
 #### Artikel 1
 
 <sup>1</sup> Dieses Gesetz regelt die Nutzung:
 
-- a) der öffentlichen Kantonsgewässer
-- b) der öffentlichen Korporationsgewässer
-- c) des öffentlichen Grundwassers
-- d) der privaten Gewässer
+- a) der öffentlichen Kantonsgewässer;
+
+- b) der öffentlichen Korporationsgewässer;
+
+- c) des öffentlichen Grundwassers;
+
+- d) der privaten Gewässer.
 
 <sup>2</sup> Die besonderen Vorschriften, wie jene über den Wasserbau, den Schutz der Gewässer und der Umwelt, die Fischerei, die Raumplanung sowie den Natur- und Heimatschutz, bleiben vorbehalten.
 
-### 1.2 Begriffe
+### 2. Abschnitt: Begriffe
 
 #### Artikel 2
 
 **Gewässernutzung**
 
-<sup>1</sup> Ein Gewässer nutzt, wer:
+Ein Gewässer nutzt, wer:
 
-- a) mit der Wasserkraft Energie erzeugt
-- b) diesem Wasser entnimmt oder zuleitet
-- c) diesem Wärme entzieht oder zuführt
+- a) mit der Wasserkraft Energie erzeugt;
+
+- b) diesem Wasser entnimmt oder zuleitet;
+
+- c) diesem Wärme entzieht oder zuführt.
+
+[^2-1]: RB 1.1101, Art. 50 Abs. 1
 
 #### Artikel 3
 
-**Öffentliche Kantonsgewässer**
-
-<sup>1</sup> Öffentliche Kantonsgewässer sind die Seen und Flüsse im Sinne der Kantonsverfassung (RB [1.1101](https://rechtsbuch.ur.ch/data/1.1101/de), Art. 50 Abs. 1), nämlich folgende:
+Öffentliche Kantonsgewässer Öffentliche Kantonsgewässer sind die Seen und Flüsse im Sinne der Kantonsverfassung[^2-1], nämlich folgende:
 
 - a) Seen:
-  - 1\. der Vierwaldstättersee innert den Grenzen des Kantons
-  - 2\. der Golzernsee
-  - 3\. der Seelisbergersee
-  - 4\. der Alplensee in der Gemeinde Sisikon
-  - 5\. der Oberalpsee in der Gemeinde Andermatt
+
+- 1\. der Vierwaldstättersee innert den Grenzen des Kantons
+
+- 2\. der Golzernsee
+
+- 3\. der Seelisbergersee
+
+- 4\. der Alplensee in der Gemeinde Sisikon
+
+- 5\. der Oberalpsee in der Gemeinde Andermatt
+
 - b) Flüsse:
-  - 1\. die Reuss mit ihren Durchschlägen, vom Ursprunge am Gotthard, an der Furka, an der Ober- und Unteralp bis zur Einmündung in den Vierwaldstättersee
-  - 2\. deren Nebenflüsse, nämlich die Göscheneralpreuss, die Meienreuss, der Fellibach, der Chärstelenbach, der Alpbach, der Bockibach, die Stille Reuss, der Schächenbach mit seinen drei Armen
-  - 3\. der Riemenstaldnerbach von der Kantonsgrenze bis zur Einmündung in den Vierwaldstättersee
-  - 4\. der Isenthalerbach von seinem Ursprunge bis zur Einmündung in den Vierwaldstättersee
+
+- 1\. die Reuss mit ihren Durchschlägen, vom Ursprunge am Gotthard, an der Furka, an der Ober- und Unteralp bis zur Einmündung in den Vierwaldstättersee;
+
+- 2\. deren Nebenflüsse, nämlich die Göscheneralpreuss, die Meienreuss, der Fellibach, der Chärstelenbach, der Alpbach, der Bockibach, die Stille Reuss, der Schächenbach mit seinen drei Armen;
+
+- 3\. der Riemenstaldnerbach von der Kantonsgrenze bis zur Einmündung in den Vierwaldstättersee;
+
+- 4\. der Isenthalerbach von seinem Ursprunge bis zur Einmündung in den Vierwaldstättersee.
 
 #### Artikel 4
 
-**Öffentliche Korporationsgewässer**
-
-<sup>1</sup> Öffentliche Korporationsgewässer sind alle oberirdischen, dauernd oder zeitweilig wasserführenden, fliessenden oder stehenden Gewässer, die als Wildwasser bzw. als deren Quellgebiete im Sinne des Bundesgesetzes über die Wasserbaupolizei (SR [721.10](https://db.clex.ch/link/Bund/721.10/de)) gelten und nicht zu den öffentlichen Kantonsgewässern gehören.
+Öffentliche Korporationsgewässer Öffentliche Korporationsgewässer sind alle oberirdischen, dauernd oder zeitweilig wasserführenden, fliessenden oder stehenden Gewässer, die als Wildwasser bzw. als deren Quellgebiete im Sinne des Bundesgesetzes über die Wasserbaupolizei<sup>4</sup> gelten und nicht zu den öffentlichen Kantonsgewässern gehören.
 
 #### Artikel 5
 
-**Öffentliches Grundwasser**
-
-<sup>1</sup> Als öffentliches Grundwasser gelten unterirdische Gewässer, die nicht Quellen im Sinne des Zivilgesetzbuches (SR [210](https://db.clex.ch/link/Bund/210/de)) sind.
+Öffentliches Grundwasser Als öffentliches Grundwasser gelten unterirdische Gewässer, die nicht Quellen im Sinne des Zivilgesetzbuches<sup>5</sup> sind.
 
 #### Artikel 6
 
 **Private Gewässer**
 
-<sup>1</sup> Alle Gewässer, die weder zu den öffentlichen Kantonsgewässern noch zu den öffentlichen Korporationsgewässern, zum öffentlichen Grundwasser oder zu den Quellen im Sinne des Zivilgesetzbuches (SR [210](https://db.clex.ch/link/Bund/210/de)) gehören, gelten für dieses Gesetz als private Gewässer.
+Alle Gewässer, die weder zu den öffentlichen Kantonsgewässern noch zu den öffentlichen Korporationsgewässern, zum öffentlichen Grundwasser oder zu den Quellen im Sinne des Zivilgesetzbuches<sup>6</sup> gehören, gelten für dieses Gesetz als private Gewässer.
 
 #### Artikel 7
 
 **Veränderung**
 
-<sup>1</sup> Natürliche oder künstliche Veränderungen des Laufes oder die streckenweise unterirdische Führung beeinflussen die Rechtsnatur der Gewässer nicht.
+Natürliche oder künstliche Veränderungen des Laufes oder die streckenweise unterirdische Führung beeinflussen die Rechtsnatur der Gewässer nicht.
 
-### 1.3 Verfügungsrecht
+### 3. Abschnitt: Verfügungsrecht
 
 #### Artikel 8
 
 **Begriff**
 
-<sup>1</sup> Das Verfügungsrecht über ein Gewässer ist das Recht, dieses Gewässer selbst zu nutzen oder diese Rechte einem Dritten zu übertragen.
+Das Verfügungsrecht über ein Gewässer ist das Recht, dieses Gewässer selbst zu nutzen oder diese Rechte einem Dritten zu übertragen.
 
 #### Artikel 9
 
 **Inhaber**
 
-<sup>1</sup> Das Verfügungsrecht steht zu:
+Das Verfügungsrecht steht zu:
 
-- a) bei öffentlichen Kantonsgewässern dem Kanton
-- b) bei öffentlichen Korporationsgewässern der Korporation Uri bzw. Ursern, je nachdem, auf wessen Hoheitsgebiet sie sich befinden
-- c) bei öffentlichem Grundwasser dem Kanton
-- d) bei privaten Gewässern dem Eigentümer
+- a) bei öffentlichen Kantonsgewässern dem Kanton;
 
-### 1.4 Streitigkeiten
+- b) bei öffentlichen Korporationsgewässern der Korporation Uri bzw. Ursern, je nachdem, auf wessen Hoheitsgebiet sie sich befinden;
+
+- c) bei öffentlichem Grundwasser dem Kanton;
+
+- d) bei privaten Gewässern dem Eigentümer.
+
+### 4. Abschnitt: Streitigkeiten
 
 #### Artikel 10
 
-<sup>1</sup> Streitigkeiten darüber, ob ein Gewässer öffentlicher oder privater Natur sei oder wem das Verfügungsrecht über ein Gewässer zustehe, entscheidet das Obergericht.
+Streitigkeiten darüber, ob ein Gewässer öffentlicher oder privater Natur sei oder wem das Verfügungsrecht über ein Gewässer zustehe, entscheidet das Obergericht.
 
-## 2 Gewässernutzung
+### 2. Kapitel: GEWÄSSERNUTZUNG
 
-### 2.1 Allgemeine Voraussetzungen
+### 1. Abschnitt: Allgemeine Voraussetzungen
 
 #### Artikel 11
 
@@ -140,7 +156,9 @@ beschliesst:
 
 **Zwangsgenossenschaft**
 
-<sup>1</sup> Im Rahmen des Bundesrechts (SR [721.80](https://db.clex.ch/link/Bund/721.80/de)) und des kantonalen Rechts kann der Regierungsrat die Gewässernutzung durch Genossenschaften vorschreiben. Das Verfahren für die Gründung der Zwangsgenossenschaft richtet sich nach den Vorschriften über die Bodenverbesserungsgenossenschaft des Zivilgesetzbuches (RB [9.3616](https://rechtsbuch.ur.ch/data/9.3616/de)).
+Im Rahmen des Bundesrechts<sup>7</sup> und des kantonalen Rechts kann der Regierungsrat die Gewässernutzung durch Genossenschaften vorschreiben. Das Verfahren für die Gründung der Zwangsgenossenschaft richtet sich nach den Vorschriften über die Bodenverbesserungsgenossenschaft des Zivilgesetzbuches[^12-1].
+
+[^12-1]: RB 9.3616
 
 #### Artikel 13
 
@@ -150,13 +168,13 @@ beschliesst:
 
 <sup>2</sup> Die Inhaber von Konzessionen und Bewilligungen haben die notwendigen Angaben und Pläne zu liefern.
 
-### 2.2 Die Gewässernutzung im Einzelnen
+### 2. Abschnitt: Die Gewässernutzung im einzelnen
 
 #### Artikel 14
 
 **Öffentliche Kantonsgewässer**
 
-<sup>1</sup> Die Nutzung eines öffentlichen Kantonsgewässers zur Energieerzeugung oder zur Pumpspeicherung richtet sich nach dem 3. Kapitel, jene zur Wasserentnahme oder ‑zuleitung sowie jene zur Wärmeentnahme oder ‑zuführung nach dem 4. Kapitel.
+Die Nutzung eines öffentlichen Kantonsgewässers zur Energieerzeugung oder zur Pumpspeicherung richtet sich nach dem 3. Kapitel, jene zur Wasserentnahme oder -zuleitung sowie jene zur Wärmeentnahme oder -zuführung nach dem 4. Kapitel.
 
 #### Artikel 15
 
@@ -170,21 +188,21 @@ beschliesst:
 
 **Öffentliches Grundwasser**
 
-<sup>1</sup> Die Nutzung eines öffentlichen Grundwassers richtet sich nach dem 4. Kapitel.
+Die Nutzung eines öffentlichen Grundwassers richtet sich nach dem 4. Kapitel.
 
 #### Artikel 17
 
 **Private Gewässer**
 
-<sup>1</sup> Wer ein privates Gewässer nicht nur zum Gemeingebrauch bzw. nicht nur zum privaten Eigengebrauch nutzen will, braucht hiefür eine Bewilligung der zuständigen Direktion[^Artikel17-1].
+<sup>1</sup> Wer ein privates Gewässer nicht nur zum Gemeingebrauch bzw. nicht nur zum privaten Eigengebrauch nutzen will, braucht hiefür eine Bewilligung der zuständigen Direktion[^17-1].
 
 <sup>2</sup> Bestehende Rechte an den Dorfbächen bleiben gewährleistet.
 
-[^Artikel17-1]: Baudirektion, vgl. Art. 1 und 6 Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^17-1]: Baudirektion, vgl. Art. 1 und 6 Organisationsreglement (RB 2.3322)
 
-## 3 Nutzung der Wasserkraft eines öffentlichen Kantonsgewässers
+### 3. Kapitel: NUTZUNG DER WASSERKRAFT EINES ÖFFENTLICHEN KANTONSGEWÄSSERS
 
-### 3.1 Allgemeine Bestimmungen
+### 1. Abschnitt: Allgemeine Bestimmungen
 
 #### Artikel 18
 
@@ -192,29 +210,29 @@ beschliesst:
 
 <sup>1</sup> Wer ein öffentliches Kantonsgewässer über den Gemeingebrauch hinaus zur Energieerzeugung oder zur Pumpspeicherung benützen will, braucht hiefür eine Konzession.
 
-<sup>2</sup> Das gilt auch, wenn eine bereits erteilte Konzession erneuert, erweitert oder verlängert werden soll.
+2 Das gilt auch, wenn eine bereits erteilte Konzession erneuert, erweitert oder verlängert werden soll.
 
-<sup>3</sup> Der Landrat erteilt die Konzession unter Vorbehalt der fakultativen Volksabstimmung. Beträgt die konzedierte Brutto-Wasserkraft oder Pumpleistung weniger als 1'000 Kilowatt (kW), ist der Regierungsrat zuständig, die Konzession zu erteilen. Mit der Konzession werden die Ausgaben beschlossen, welche die Konzession mit sich bringt, namentlich für die Beteiligung nach Artikel 24 und für weitere entschädigungspflichtige Leistungen des Konzessionärs.
+<sup>3</sup> Der Landrat erteilt die Konzession unter Vorbehalt der fakultativen Volksabstimmung. Beträgt die konzedierte Brutto-Wasserkraft oder Pumpleistung weniger als 1 000 Kilowatt (kW), ist der Regierungsrat zuständig, die Konzession zu erteilen. Mit der Konzession werden die Ausgaben beschlossen, welche die Konzession mit sich bringt, namentlich für die Beteiligung nach Artikel 24 und für weitere entschädigungspflichtige Leistungen des Konzessionärs.
 
 #### Artikel 19
 
 **Konzessionär**
 
-<sup>1</sup> Ist der Konzessionär eine juristische Person, muss er während der ganzen Dauer der Konzession im Kanton Uri Steuerdomizil haben.
+Ist der Konzessionär eine juristische Person, muss er während der ganzen Dauer der Konzession im Kanton Uri Steuerdomizil haben.
 
-### 3.2 Leistungen des Konzessionärs
+### 2. Abschnitt: Leistungen des Konzessionärs
 
 #### Artikel 20
 
 **Kosten des Konzessionsverfahrens**
 
-<sup>1</sup> Der Konzessionär hat die Kosten für die Prüfung und die Beurteilung des Konzessionsgesuchs zu übernehmen.
+Der Konzessionär hat die Kosten für die Prüfung und die Beurteilung des Konzessionsgesuchs zu übernehmen.
 
 #### Artikel 21
 
 **Konzessionsabgabe**
 
-<sup>1</sup> Für die Konzession hat der Konzessionär eine einmalige Abgabe zu bezahlen. Die Konzessionsbehörde legt die Abgabe entsprechend dem verliehenen Recht fest.
+1 Für die Konzession hat der Konzessionär eine einmalige Abgabe zu bezahlen. Die Konzessionsbehörde legt die Abgabe entsprechend dem verliehenen Recht fest.
 
 <sup>2</sup> Wird die Konzessionsabgabe nicht innert der gesetzten Frist bezahlt, kann der Regierungsrat die Konzession nach erfolgloser Mahnung als verwirkt erklären.
 
@@ -222,9 +240,9 @@ beschliesst:
 
 **Wasserzins**
 
-<sup>1</sup> Für die Wasserkraftnutzung ist ein jährlicher Wasserzins zu leisten, der dem jeweiligen Höchstansatz nach der Bundesgesetzgebung (SR [721.80721.831](https://db.clex.ch/link/Bund/721.80721.831/de)) entspricht.
+<sup>1</sup> Für die Wasserkraftnutzung ist ein jährlicher Wasserzins zu leisten, der dem jeweiligen Höchstansatz nach der Bundesgesetzgebung<sup>10</sup> entspricht.
 
-<sup>2</sup> Die Wasserzinsen werden jeweils am 15. Januar für das ganze Jahr zur Bezahlung fällig, soweit die Konzession nichts anderes vorsieht.
+2 Die Wasserzinsen werden jeweils am 15. Januar für das ganze Jahr zur Bezahlung fällig, soweit die Konzession nichts anderes vorsieht.
 
 <sup>3</sup> Wird der Wasserzins nicht fristgerecht bezahlt, kann der Regierungsrat die Konzession nach erfolgloser Mahnung als verwirkt erklären.
 
@@ -242,7 +260,7 @@ beschliesst:
 
 **Beteiligung und Vertretung**
 
-<sup>1</sup> Der Konzessionär hat dem Kanton eine erhebliche Beteiligung und eine entsprechende Vertretung in den Organen der Wasserkraftunternehmung zu ermöglichen.
+Der Konzessionär hat dem Kanton eine erhebliche Beteiligung und eine entsprechende Vertretung in den Organen der Wasserkraftunternehmung zu ermöglichen.
 
 #### Artikel 25
 
@@ -258,27 +276,27 @@ beschliesst:
 
 **Mitbenützung des Leitungsnetzes**
 
-<sup>1</sup> Der Konzessionär ist im Rahmen seiner technischen Möglichkeiten verpflichtet, seine Umformungs- und Übertragungsanlagen dem Kanton gegen angemessene Entschädigung zur Verfügung zu stellen, damit dieser seine Energie aus der entsprechenden Konzession fortleiten kann.
+Der Konzessionär ist im Rahmen seiner technischen Möglichkeiten verpflichtet, seine Umformungs- und Übertragungsanlagen dem Kanton gegen angemessene Entschädigung zur Verfügung zu stellen, damit dieser seine Energie aus der entsprechenden Konzession fortleiten kann.
 
 #### Artikel 27
 
 **Abnahmepflicht**
 
-<sup>1</sup> Der Konzessionär ist im Rahmen seiner technischen Möglichkeiten verpflichtet, dem Kanton die Energie aus der entsprechenden Konzession, die er nicht selbst verwendet, zu vertraglich festgesetzten Preisen abzunehmen.
+Der Konzessionär ist im Rahmen seiner technischen Möglichkeiten verpflichtet, dem Kanton die Energie aus der entsprechenden Konzession, die er nicht selbst verwendet, zu vertraglich festgesetzten Preisen abzunehmen.
 
 #### Artikel 28
 
 **Energieversorgung**
 
-<sup>1</sup> Der Konzessionär hat im Rahmen seiner technischen Möglichkeiten vorerst den Energiebedarf im Kanton Uri zu decken, soweit dieser nicht durch bereits bestehende Werke oder Verpflichtungen gedeckt ist.
+Der Konzessionär hat im Rahmen seiner technischen Möglichkeiten vorerst den Energiebedarf im Kanton Uri zu decken, soweit dieser nicht durch bereits bestehende Werke oder Verpflichtungen gedeckt ist.
 
 #### Artikel 29
 
 **Ausnahmen**
 
-<sup>1</sup> Aus wichtigen Gründen kann die Konzessionsbehörde von den Bestimmungen dieses Abschnittes abweichen.
+Aus wichtigen Gründen kann die Konzessionsbehörde von den Bestimmungen dieses Abschnittes abweichen.
 
-### 3.3 Bau und Betrieb der Wasserkraftanlagen
+### 3. Abschnitt: Bau und Betrieb der Wasserkraftanlagen
 
 #### Artikel 30
 
@@ -294,7 +312,9 @@ beschliesst:
 
 <sup>1</sup> Wenn Gründe des öffentlichen Wohls vorliegen, kann der Regierungsrat dem Konzessionär das Enteignungsrecht erteilen, um ihm den Erwerb der zum Bau, zur Änderung oder zur Erweiterung von Wasserkraftanlagen nötigen Grundstücke und dinglichen Rechte sowie der entgegenstehenden privaten und öffentlichen Nutzungsrechte zu ermöglichen.
 
-<sup>2</sup> Soweit nicht Bundesrecht etwas anderes vorsieht, richtet sich das Enteignungsverfahren nach dem kantonalen Enteignungsgesetz (RB [3.3211](https://rechtsbuch.ur.ch/data/3.3211/de)).
+<sup>2</sup> Soweit nicht Bundesrecht etwas anderes vorsieht, richtet sich das Enteignungsverfahren nach dem kantonalen Enteignungsgesetz[^31-1].
+
+[^31-1]: RB 3.3211
 
 #### Artikel 32
 
@@ -302,7 +322,7 @@ beschliesst:
 
 <sup>1</sup> Der Konzessionär ist verpflichtet, die Energieproduktion dauernd zu betreiben, sobald er diese aufgenommen hat.
 
-<sup>2</sup> Vorbehalten bleiben technisch oder durch andere ausreichende Gründe bedingte Unterbrüche.
+2 Vorbehalten bleiben technisch oder durch andere ausreichende Gründe bedingte Unterbrüche.
 
 #### Artikel 33
 
@@ -312,33 +332,33 @@ beschliesst:
 
 <sup>2</sup> In den letzten fünfzehn Jahren vor Ablauf der Konzession hat der Konzessionär gegen volle Entschädigung alle Umbaumassnahmen, insbesondere solche zur Modernisierung der Anlage, zu treffen, die der Regierungsrat im Hinblick auf den Heimfall des Werkes verlangt. Die Aufwendungen des Kantons sind beim Heimfall zu verrechnen.
 
-### 3.4 Rückkauf
+### 4. Abschnitt: Rückkauf
 
 #### Artikel 34
 
 **Grundsatz und Entschädigung**
 
-<sup>1</sup> Die Anlagen des Wasserkraftwerkes können frühestens nach Ablauf eines Drittels der Konzessionsdauer gegen volle Entschädigung zurückgekauft werden.
+Die Anlagen des Wasserkraftwerkes können frühestens nach Ablauf eines Drittels der Konzessionsdauer gegen volle Entschädigung zurückgekauft werden.
 
 #### Artikel 35
 
 **Zuständigkeit**
 
-<sup>1</sup> Die Konzessionsbehörde ist zuständig, den Rückkauf zu erklären und die entsprechenden finanziellen Verpflichtungen einzugehen. Erklärt sie den Rückkauf, entscheidet sie gleichzeitig über die weitere Verwendung der zurückgekauften Anlagen.
+Die Konzessionsbehörde ist zuständig, den Rückkauf zu erklären und die entsprechenden finanziellen Verpflichtungen einzugehen. Erklärt sie den Rückkauf, entscheidet sie gleichzeitig über die weitere Verwendung der zurückgekauften Anlagen.
 
 #### Artikel 36
 
 **Umfang**
 
-<sup>1</sup> Der Rückkauf erfasst den hydraulischen Teil der Anlage, die Anlagen zum Erzeugen, Umwandeln und Fortleiten elektrischer Energie bis und mit der betriebsnotwendigen Schaltanlage sowie die betriebsnotwendigen Grundstücke und Gebäude.
+Der Rückkauf erfasst den hydraulischen Teil der Anlage, die Anlagen zum Erzeugen, Umwandeln und Fortleiten elektrischer Energie bis und mit der betriebsnotwendigen Schaltanlage sowie die betriebsnotwendigen Grundstücke und Gebäude.
 
-### 3.5 Heimfall
+### 5. Abschnitt: Heimfall
 
 #### Artikel 37
 
 **Grundsatz**
 
-<sup>1</sup> Endigt die Konzession durch Zeitablauf, Verzicht oder Verwirkung, fallen die hydraulischen und elektrischen Kraftwerkanlagen nach Massgabe des Bundesrechts (SR [721.80](https://db.clex.ch/link/Bund/721.80/de)) dem Kanton heim.
+<sup>1</sup> Endigt die Konzession durch Zeitablauf, Verzicht oder Verwirkung, fallen die hydraulischen und elektrischen Kraftwerkanlagen nach Massgabe des Bundesrechts<sup>12</sup> dem Kanton heim.
 
 <sup>2</sup> Endigt die Konzession für ein Wasserkraftwerk, in dem sowohl ein öffentliches Kantonsgewässer als auch ein öffentliches Korporationsgewässer genutzt werden, fallen die Anlagen den konzedierenden Gemeinwesen im Verhältnis ihrer Anteile an der verliehenen Bruttowasserkraft bzw. Pumpleistung heim.
 
@@ -348,9 +368,9 @@ beschliesst:
 
 **Zuständigkeit**
 
-<sup>1</sup> Die Konzessionsbehörde ist zuständig, den Heimfall zu erklären und die entsprechenden finanziellen Verpflichtungen einzugehen, oder auf den Heimfall zu verzichten. Erklärt sie den Heimfall, entscheidet sie gleichzeitig über die weitere Verwendung der heimgefallenen Anlagen.
+Die Konzessionsbehörde ist zuständig, den Heimfall zu erklären und die entsprechenden finanziellen Verpflichtungen einzugehen, oder auf den Heimfall zu verzichten. Erklärt sie den Heimfall, entscheidet sie gleichzeitig über die weitere Verwendung der heimgefallenen Anlagen.
 
-### 3.6 Steuerausfallentschädigung
+### 6. Abschnitt: Steuerausfallentschädigung
 
 #### Artikel 39
 
@@ -358,7 +378,7 @@ beschliesst:
 
 <sup>2</sup> Die verwaltungsgerichtliche Klage beim Obergericht bleibt vorbehalten.
 
-## 4 Entnahme und Zuführung von Wasser und Wärme
+### 4. Kapitel: ENTNAHME UND ZUFÜHRUNG VON WASSER UND WÄRME
 
 #### Artikel 40
 
@@ -370,13 +390,11 @@ beschliesst:
 
 <sup>3</sup> Der Regierungsrat kann Ausnahmen vorsehen.
 
+[^40-1]: Baudirektion, vgl. Art. 1 und 6 Organisationsreglement (RB 2.3322)
+
 #### Artikel 41
 
-**Probebohrungen und Pumpversuche**
-
-<sup>1</sup> Probebohrungen und Pumpversuche dürfen nur mit Bewilligung der zuständigen Direktion[^Artikel41-1] vorgenommen werden.
-
-[^Artikel41-1]: Baudirektion, vgl. Art. 1 und 6 Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+Probebohrungen und Pumpversuche Probebohrungen und Pumpversuche dürfen nur mit Bewilligung der zuständigen Direktion[^40-1] vorgenommen werden.
 
 #### Artikel 42
 
@@ -390,9 +408,7 @@ beschliesst:
 
 #### Artikel 43
 
-**Aufsicht und Enteignung**
-
-<sup>1</sup> Die Bestimmung über das Aufsichtsrecht nach Artikel 30 und jene über das Enteignungsrecht nach Artikel 31 sind sinngemäss anzuwenden.
+Aufsicht und Enteignung Die Bestimmung über das Aufsichtsrecht nach Artikel 30 und jene über das Enteignungsrecht nach Artikel 31 sind sinngemäss anzuwenden.
 
 #### Artikel 44
 
@@ -404,23 +420,29 @@ beschliesst:
 
 <sup>3</sup> Im Interesse der Förderung erneuerbarer Energien oder wenn ein Gemeinwesen um ein Nutzungsrecht ersucht, kann der Regierungsrat auf die Abgabe ganz oder teilweise verzichten.
 
-<sup>4</sup> Wird die Abgabe nicht innert der gesetzlichen[^Artikel44-1] Frist bezahlt, kann der Regierungsrat die Konzession nach erfolgloser Mahnung als verwirkt erklären.
+<sup>4</sup> Wird die Abgabe nicht innert der gesetzlichen[^44-1] Frist bezahlt, kann der Regierungsrat die Konzession nach erfolgloser Mahnung als verwirkt erklären.
 
-[^Artikel44-1]: Richtig: gesetzten.
+[^44-1]: richtig: gesetzten
 
-## 5 Schluss- und Übergangsbestimmungen
+### 5. Kapitel: SCHLUSS- UND ÜBERGANGSBESTIMMUNGEN
 
 #### Artikel 45
 
 **Strafbestimmungen**
 
-<sup>1</sup> Mit Haft oder Busse wird bestraft, wer vorsätzlich oder fahrlässig:
+<sup>1</sup> Wer vorsätzlich oder fahrlässig:
 
-- a) ein Gewässer ohne die erforderliche Konzession oder Bewilligung nutzt
-- b) der Betriebs- oder der Unterhaltspflicht nach Artikel 32 bzw. Artikel 33 nicht nachkommt
-- c) die in diesem Gesetz oder in der darauf gestützten Verordnung verankerten Verfahrensvorschriften missachtet
+- a) ein Gewässer ohne die erforderliche Konzession oder Bewilligung nutzt;
 
-<sup>2</sup> Das Strafverfahren richtet sich nach den Bestimmungen über die ordentliche Strafrechtspflege (RB [2.3221](https://rechtsbuch.ur.ch/data/2.3221/de)).
+- b) der Betriebs- oder der Unterhaltspflicht nach Artikel 32 bzw. Artikel 33 nicht nachkommt;
+
+- c) die in diesem Gesetz oder in der darauf gestützten Verordnung verankerten Verfahrensvorschriften missachtet;
+
+wird mit Haft oder Busse bestraft.
+
+<sup>2</sup> Das Strafverfahren richtet sich nach den Bestimmungen über die ordentliche Strafrechtspflege[^45-1].
+
+[^45-1]: RB 2.32213.9222
 
 #### Artikel 46
 
@@ -436,7 +458,7 @@ beschliesst:
 
 **Ausführungsrecht**
 
-<sup>1</sup> Die Verordnung des Landrates ergänzt dieses Gesetz und führt es näher aus. Sie enthält insbesondere Bestimmungen über das Konzessions- und das Bewilligungsverfahren.
+Die Verordnung des Landrates ergänzt dieses Gesetz und führt es näher aus. Sie enthält insbesondere Bestimmungen über das Konzessions- und das Bewilligungsverfahren.
 
 #### Artikel 48
 
@@ -444,18 +466,20 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat vollzieht dieses Gesetz.
 
-<sup>2</sup> Wo nichts anderes bestimmt ist, gilt er als zuständige kantonale Behörde im Sinne des Bundesgesetzes über die Nutzbarmachung der Wasserkräfte (SR [721.80](https://db.clex.ch/link/Bund/721.80/de)).
+<sup>2</sup> Wo nichts anderes bestimmt ist, gilt er als zuständige kantonale Behörde im Sinne des Bundesgesetzes über die Nutzbarmachung der Wasserkräfte<sup>16</sup>.
 
-<sup>3</sup> Im Rahmen des Organisationsrechtes kann er seine Befugnisse nach diesem Gesetz im Einzelfall oder allgemein der zuständigen Direktion[^Artikel48-1] übertragen.
+3 Im Rahmen des Organisationsrechtes kann er seine Befugnisse nach diesem Gesetz im Einzelfall oder allgemein der zuständigen Direktion[^48-1] übertragen.
 
-[^Artikel48-1]: Baudirektion bzw. Volkswirtschaftsdirektion, vgl. Art. 1 und Art. 6 Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^48-1]: Baudirektion bzw. Volkswirtschaftsdirektion, vgl. Art. 1 und Art. 6 Organisationsreglement (RB 2.3322)
 
 #### Artikel 49
 
 **Inkrafttreten**
 
-<sup>1</sup> Der Regierungsrat bestimmt, wann dieses Gesetz in Kraft tritt[^Artikel49-1].
+Der Regierungsrat bestimmt, wann dieses Gesetz in Kraft tritt[^49-1].
 
-[^Artikel49-1]: Vom Regierungsrat in Kraft gesetzt auf den 1. April 1993.
+Im Namen des Volkes
 
-AB 17.01.1992
+Der Landammann: Ambros Gisler Der Kanzleidirektor: Dr. Peter Huber
+
+[^49-1]: Vom Regierungsrat in Kraft gesetzt auf den 1. April 1993
