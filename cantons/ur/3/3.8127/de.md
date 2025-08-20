@@ -1,77 +1,86 @@
 ---
 canton: UR
 number: "3.8127"
-title: Polizeireglement
+title: POLIZEIREGLEMENT
 short: PolR
 language: de
 version: 2010-05-01
+corrected: 2025-08-21
 version_adopted: 2010-04-20
 adopted: 2010-04-20
 in_force: 2010-05-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.8127"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/1034/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/124/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Polizeireglement
+# POLIZEIREGLEMENT
 
-(PolR)
+POLIZEIREGLEMENT (PolR)
 
-Vom 20.04.2010 (Stand 01.05.2010)
+(vom 20. April 2010[^t-1]; Stand am 1. Mai 2010)
 
-Der Regierungsrat des Kantons Uri,
-
-gestützt auf Artikel 50 des Polizeigesetzes vom 30. November 2008 (PolG, RB [3.8111](https://rechtsbuch.ur.ch/data/3.8111/de)), Artikel 10 Absatz 1 der Verordnung vom 9. November 1982 über die Organisation der Regierungs- und der Verwaltungstätigkeit (Organisationsverordnung, RB [2.3321](https://rechtsbuch.ur.ch/data/2.3321/de)) und Artikel 1 Absatz 3 der Personalverordnung vom 15. Dezember 1999 (PV, RB [2.4211](https://rechtsbuch.ur.ch/data/2.4211/de)),
+Der Regierungsrat des Kantons Uri, gestützt auf Artikel 50 des Polizeigesetzes vom 30. November 2008 (PolG)[^t-2], Artikel 10 Absatz 1 der Verordnung vom 9. November 1982 über die Organisation der Regierungs- und der Verwaltungstätigkeit (Organisationsverordnung)[^t-3] und Artikel 1 Absatz 3 der Personalverordnung vom 15. Dezember 1999 (PV)<sup>4</sup>,
 
 beschliesst:
 
-## 1 Allgemeine Bestimmungen
+[^t-1]: AB vom 30. April 2010
+[^t-2]: RB 3.8111
+[^t-3]: RB 2.3321
+
+### 1. Kapitel: ALLGEMEINE BESTIMMUNGEN
 
 #### Artikel 1
 
 **Gegenstand**
 
-<sup>1</sup> Dieses Reglement regelt:
+Dieses Reglement regelt:
 
-- a) die Organisation und Führung des Amts für Kantonspolizei
-- b) die besonderen Rechte und Pflichten der Mitarbeitenden des Amts für Kantonspolizei
-- c) die Rahmenbedingungen für den Dienstbetrieb
+- a) die Organisation und Führung des Amts für Kantonspolizei;
+
+- b) die besonderen Rechte und Pflichten der Mitarbeitenden des Amts für Kantonspolizei;
+
+- c) die Rahmenbedingungen für den Dienstbetrieb.
 
 #### Artikel 2
 
 **Anwendbares Recht**
 
-<sup>1</sup> Es gelten die Vorschriften des Personalreglements (RB [2.4213](https://rechtsbuch.ur.ch/data/2.4213/de)), sofern das Polizeireglement nicht abweichende Vorschriften enthält.
+<sup>1</sup> Es gelten die Vorschriften des Personalreglements<sup>5</sup>, sofern das Polizeireglement nicht abweichende Vorschriften enthält.
 
 <sup>2</sup> Vorbehalten bleiben die Vorschriften des übergeordneten Rechts, namentlich der Personalverordnung.
 
-## 2 Organisation und Führung
+### 2. Kapitel: ORGANISATION UND FÜHRUNG
 
 #### Artikel 3
 
 **Amt für Kantonspolizei**
 
-<sup>1</sup> Das Amt für Kantonspolizei setzt sich zusammen aus:
+Das Amt für Kantonspolizei setzt sich zusammen aus:
 
-- a) dem Polizeikorps und
-- b) dem Verwaltungspersonal
+- a) dem Polizeikorps, und
+
+- b) dem Verwaltungspersonal.
 
 #### Artikel 4
 
 **Polizeikorps**
 
-<sup>1</sup> Das Polizeikorps besteht aus den Mitarbeitenden mit hoheitlicher Befugnis (Polizeiangehörige).
+Das Polizeikorps besteht aus den Mitarbeitenden mit hoheitlicher Befugnis (Polizeiangehörige).
 
 #### Artikel 5
 
 **Verwaltungspersonal**
 
-<sup>1</sup> Das Verwaltungspersonal besteht aus:
+Das Verwaltungspersonal besteht aus:
 
-- a) Mitarbeitenden mit beschränkter hoheitlicher Befugnis im Rahmen ihres Pflichtenhefts (Sicherheitsassistentinnen und Sicherheitsassistenten sowie technische Kontrolleurinnen und Kontrolleure)
-- b) Mitarbeitenden ohne hoheitliche Befugnis (Zivilangestellte, Mitarbeitende in den Zentralen und Mitarbeitende des Verkehrsdienstes) und
-- c) Auszubildenden (Polizeianwärterinnen und Polizeianwärter)
+- a) Mitarbeitenden mit beschränkter hoheitlicher Befugnis im Rahmen ihres Pflichtenhefts (Sicherheitsassistentinnen und Sicherheitsassistenten sowie technische Kontrolleurinnen und Kontrolleure);
+
+- b) Mitarbeitenden ohne hoheitliche Befugnis (Zivilangestellte, Mitarbeitende in den Zentralen und Mitarbeitende des Verkehrsdienstes), und
+
+- c) Auszubildenden (Polizeianwärterinnen und Polizeianwärter).
 
 #### Artikel 6
 
@@ -87,11 +96,11 @@ beschliesst:
 
 **Dienstrayon**
 
-<sup>1</sup> Die räumliche Gliederung der Kantonspolizei bestimmt die Sicherheitsdirektion.
+Die räumliche Gliederung der Kantonspolizei bestimmt die Sicherheitsdirektion.
 
-## 3 Besondere Rechte und Pflichten
+### 3. Kapitel: BESONDERE RECHTE UND PFLICHTEN
 
-### 3.1 Aufnahme und Ausbildung
+### 1. Abschnitt: Aufnahme und Ausbildung
 
 #### Artikel 8
 
@@ -99,10 +108,13 @@ beschliesst:
 
 <sup>1</sup> Als Polizeianwärterin oder Polizeianwärter für das Polizeikorps kann aufgenommen werden, wer:
 
-- a) das Schweizer Bürgerrecht besitzt
-- b) eine Berufsausbildung oder gleichwertige Ausbildung erfolgreich abgeschlossen hat
-- c) über einen guten Leumund verfügt
-- d) physisch und psychisch für den Dienst im Polizeikorps geeignet ist
+- a) das Schweizer Bürgerrecht besitzt;
+
+- b) eine Berufsausbildung oder gleichwertige Ausbildung erfolgreich abgeschlossen hat;
+
+- c) über einen guten Leumund verfügt;
+
+- d) physisch und psychisch für den Dienst im Polizeikorps geeignet ist.
 
 <sup>2</sup> Das Polizeikommando bestimmt das Auswahlverfahren.
 
@@ -122,13 +134,13 @@ beschliesst:
 
 **Ausbildung**
 
-<sup>1</sup> Die Polizeianwärterinnen und Polizeianwärter werden an einer anerkannten Polizeischule ausgebildet.
+Die Polizeianwärterinnen und Polizeianwärter werden an einer anerkannten Polizeischule ausgebildet.
 
 #### Artikel 11
 
 **Aufnahme in das Polizeikorps**
 
-<sup>1</sup> Für die unbefristete Anstellung und Aufnahme in das Polizeikorps ist der Erwerb des eidgenössischen Fachausweises als Polizistin oder Polizist zusammen mit den übrigen Qualifikationen massgebend.
+Für die unbefristete Anstellung und Aufnahme in das Polizeikorps ist der Erwerb des eidgenössischen Fachausweises als Polizistin oder Polizist zusammen mit den übrigen Qualifikationen massgebend.
 
 #### Artikel 12
 
@@ -140,21 +152,25 @@ beschliesst:
 
 #### Artikel 13
 
-**Rückerstattung der Ausbildungskosten: bei Übertritt in ein anderes Polizeikorps**
+**Rückerstattung der Ausbildungskosten**
 
-<sup>1</sup> Tritt eine an der Interkantonalen Polizeischule Hitzkirch ausgebildete Person innerhalb von fünf Jahren nach Schulabschluss in ein Polizeikorps eines anderen Konkordatsmitglieds über, gilt für den Übertritt Artikel 32 des Konkordats über Errichtung und Betrieb einer Interkantonalen Polizeischule Hitzkirch (RB [3.8321](https://rechtsbuch.ur.ch/data/3.8321/de)). Die Abrechnung des geschuldeten Pauschalbetrags erfolgt direkt zwischen dem Amt für Kantonspolizei und dem anderen Polizeikorps. Der Rückzahlungsvorbehalt gegenüber der oder dem Übertretenden entfällt.
+- a) bei Übertritt in ein anderes Polizeikorps
+
+<sup>1</sup> Tritt eine an der Interkantonalen Polizeischule Hitzkirch ausgebildete Person innerhalb von fünf Jahren nach Schulabschluss in ein Polizeikorps eines anderen Konkordatsmitglieds über, gilt für den Übertritt Artikel 32 des Konkordats über Errichtung und Betrieb einer Interkantonalen Polizeischule Hitzkirch<sup>6</sup>. Die Abrechnung des geschuldeten Pauschalbetrags erfolgt direkt zwischen dem Amt für Kantonspolizei und dem anderen Polizeikorps. Der Rückzahlungsvorbehalt gegenüber der oder dem Übertretenden entfällt.
 
 <sup>2</sup> Bei einem Übertritt innerhalb von fünf Jahren nach Schulabschluss in ein Polizeikorps, das nicht Konkordatsmitglied ist, ist die oder der Übertretende gegenüber dem Kanton, vertreten durch das Amt für Kantonspolizei, rückzahlungspflichtig. Der Rückzahlungsbetrag setzt sich zusammen aus den angefallenen Lohnkosten und den Ausbildungskosten in der Höhe des Pauschalbetrags. Der Rückzahlungsbetrag reduziert sich pro absolvierten Dienstmonat beim Amt für Kantonspolizei nach Schulabschluss um 1/60.
 
-#### Artikel 14
+#### Artikel 14 b
 
-**Rückerstattung der Ausbildungskosten: bei Austritt aus dem Polizeikorps**
+**) bei Austritt aus dem Polizeikorps**
 
 <sup>1</sup> Kündigt eine an einer anerkannten Polizeischule ausgebildete Person freiwillig oder wird ihr zufolge eigenen Verschuldens das Arbeitsverhältnis nach Artikel 15 f. der Personalverordnung innerhalb von fünf Jahren nach Schulabschluss gekündigt, ist in der Regel die Hälfte des Pauschalbetrags zurückzuzahlen. Diese Regelung gilt sinngemäss auch bei einer Nichtverlängerung des Arbeitsverhältnisses nach Abschluss einer anerkannten Polizeischule sowie nach dem ersten Jahr als Polizistin oder Polizist. Der Rückzahlungsbetrag reduziert sich pro absolvierten Dienstmonat beim Amt für Kantonspolizei nach Schulabschluss um 1/60.
 
-<sup>2</sup> Ausnahmsweise kann die Sicherheitsdirektion die Rückzahlung ganz oder teilweise erlassen, bspw. wenn das Arbeitsverhältnis aus gesundheitlichen Gründen aufgelöst wurde.
+2 Ausnahmsweise kann die Sicherheitsdirektion die Rückzahlung ganz oder teilweise erlassen, bspw. wenn das Arbeitsverhältnis aus gesundheitlichen Gründen aufgelöst wurde.
 
-### 3.2 Einstufung, Einreihung, besondere Zulagen und Vergütungen
+### 2. Abschnitt: Einstufung, Einreihung, besondere Zulagen
+
+und Vergütungen
 
 #### Artikel 15
 
@@ -162,25 +178,37 @@ beschliesst:
 
 <sup>1</sup> Es bestehen folgende geschlechtsneutrale Dienstgrade:
 
-- a) Polizist (Pol)
-- b) Gefreiter (Gfr)
-- c) Korporal (Kpl)
-- d) Wachtmeister (Wm)
-- e) Feldweibel (Fw)
-- f) Adjutant (Adj)
-- g) Adjutant mit besonderer Verantwortung (Adj m b V)
-- h) Leutnant (Lt)
-- i) Oberleutnant (Oblt)
-- j) Hauptmann (Hptm)
-- k) Major (Maj)
+- a) Polizist (Pol);
+
+- b) Gefreiter (Gfr);
+
+- c) Korporal (Kpl);
+
+- d) Wachtmeister (Wm);
+
+- e) Feldweibel (Fw);
+
+- f) Adjutant (Adj);
+
+- g) Adjutant mit besonderer Verantwortung (Adj m b V);
+
+- h) Leutnant (Lt);
+
+- i) Oberleutnant (Oblt);
+
+- j) Hauptmann (Hptm);
+
+- k) Major (Maj).
 
 <sup>2</sup> Die Sicherheitsdirektion regelt die Dienstgradeinstufung.
 
-<sup>3</sup> Die Einreihung in die Lohnklassen richtet sich nach der Personalverordnung und dem Personalreglement (RB [2.4213](https://rechtsbuch.ur.ch/data/2.4213/de)).
+<sup>3</sup> Die Einreihung in die Lohnklassen richtet sich nach der Personalverordnung und dem Personalreglement<sup>7</sup>.
 
 #### Artikel 16
 
-**Übertragung der hoheitlichen und der beschränkten hoheitlichen Befugnis**
+**Übertragung der hoheitlichen und der beschränkten**
+
+hoheitlichen Befugnis
 
 <sup>1</sup> Die hoheitliche und die beschränkte hoheitliche Befugnis werden den entsprechenden Mitarbeitenden des Amts für Kantonspolizei zusammen mit der Funktionszuweisung oder dem Arbeitsvertrag übertragen.
 
@@ -192,12 +220,13 @@ beschliesst:
 
 <sup>1</sup> Sind mit dienstlichen Obliegenheiten unvermeidliche Spesen und Auslagen verbunden, ohne dass diese Auslagen besonders geregelt sind, werden die effektiven Auslagen vergütet.
 
-<sup>2</sup> Bei unvorhersehbarem Einsatz vor 06:00 Uhr, der mindestens fünf Stunden dauert, besteht Anspruch auf Entschädigung für das Frühstück.
+<sup>2</sup> Bei unvorhersehbarem Einsatz vor 06.00 Uhr, der mindestens fünf Stunden dauert, besteht Anspruch auf Entschädigung für das Frühstück.
 
 <sup>3</sup> Anspruch auf eine Rucksackentschädigung besteht auch bei:
 
-- a) mindestens acht zusammenhängenden Stunden Arbeit
-- b) mindestens fünf zusammenhängenden Stunden Arbeit bis länger als 13:00 Uhr oder bis länger als 20:00 Uhr
+- a) mindestens acht zusammenhängenden Stunden Arbeit;
+
+- b) mindestens fünf zusammenhängenden Stunden Arbeit bis länger als 13.00 Uhr oder bis länger als 20.00 Uhr.
 
 <sup>4</sup> Die Polizeikommandantin oder der Polizeikommandant regelt die Einzelheiten.
 
@@ -209,7 +238,7 @@ beschliesst:
 
 <sup>2</sup> Die Sicherheitsdirektion regelt die Einzelheiten.
 
-### 3.3 Arbeitsort, Wohnsitz, Arbeitszeit und Pikettdienst
+### 3. Abschnitt: Arbeitsort, Wohnsitz, Arbeitszeit und Pikettdienst
 
 #### Artikel 19
 
@@ -225,7 +254,7 @@ beschliesst:
 
 **Wohnsitz**
 
-<sup>1</sup> Sofern ein dienstliches Interesse besteht, kann die Sicherheitsdirektion den Mitarbeitenden des Amts für Kantonspolizei einen bestimmten Wohnsitz oder Aufenthaltsort vorschreiben.
+Sofern ein dienstliches Interesse besteht, kann die Sicherheitsdirektion den Mitarbeitenden des Amts für Kantonspolizei einen bestimmten Wohnsitz oder Aufenthaltsort vorschreiben.
 
 #### Artikel 21
 
@@ -249,23 +278,23 @@ beschliesst:
 
 <sup>2</sup> Sie können bei Bedarf auch ausserhalb des Pikettdienstes aufgeboten werden.
 
-<sup>3</sup> Der Pikettdienst wird entschädigt. Das Kommandopikett hat für den an dienstfreien Wochenenden und allgemeinen Feiertagen geleisteten Pikettdienst zusätzlich Anspruch auf 40 Franken pro Tag.
+<sup>3</sup> Der Pikettdienst wird entschädigt. Das Kommandopikett hat für den an dienstfreien Wochenenden und allgemeinen Feiertagen geleisteten Pikettdienst zusätzlich Anspruch auf Fr. 40.– pro Tag.
 
 <sup>4</sup> Die Polizeikommandantin oder der Polizeikommandant regelt die Einzelheiten der Pikettstellung und der Alarmbereitschaft.
 
-## 4 Dienstbetrieb
+### 4. Kapitel: DIENSTBETRIEB
 
 #### Artikel 23
 
 **Dienstweg**
 
-<sup>1</sup> Polizeiliche Aufträge sowie Ersuchen von Behörden und Verwaltungsstellen sind an das Polizeikommando zu richten.
+Polizeiliche Aufträge sowie Ersuchen von Behörden und Verwaltungsstellen sind an das Polizeikommando zu richten.
 
 #### Artikel 24
 
 **Verhalten im und ausser Dienst**
 
-<sup>1</sup> Die Mitarbeitenden des Amts für Kantonspolizei haben sich innerhalb und ausserhalb des Polizeidienstes vorbildlich zu verhalten.
+Die Mitarbeitenden des Amts für Kantonspolizei haben sich innerhalb und ausserhalb des Polizeidienstes vorbildlich zu verhalten.
 
 #### Artikel 25
 
@@ -289,7 +318,7 @@ beschliesst:
 
 <sup>4</sup> Über das Ergebnis gibt die Polizeikommandantin oder der Polizeikommandant der beanstandenden Person Auskunft.
 
-<sup>5</sup> Vorbehalten bleibt die Aufsichtsbeschwerde nach der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)).
+<sup>5</sup> Vorbehalten bleibt die Aufsichtsbeschwerde nach der Verordnung über die Verwaltungsrechtspflege<sup>8</sup>.
 
 #### Artikel 27
 
@@ -307,7 +336,7 @@ beschliesst:
 
 <sup>6</sup> Uniform, Ausrüstung und Bewaffnung bleiben Eigentum des Kantons.
 
-## 5 Rechtsschutz
+### 5. Kapitel: RECHTSSCHUTZ
 
 #### Artikel 28
 
@@ -319,31 +348,36 @@ beschliesst:
 
 <sup>3</sup> Der Regierungsrat kann den Mitarbeitenden des Amts für Kantonspolizei in begründeten Fällen unentgeltlich psychologische Betreuung gewähren.
 
-## 6 Rechtsmittel
+### 6. Kapitel: RECHTSMITTEL
 
 #### Artikel 29
 
 <sup>1</sup> Gegen Verfügungen und Entscheide aufgrund dieses Reglements kann innerhalb von zehn Tagen seit der Zustellung schriftlich bei der verfügenden bzw. entscheidenden Behörde Einsprache erhoben werden.
 
-<sup>2</sup> Verfügungen und Entscheide der verfügenden bzw. entscheidenden Behörde sind nach den Bestimmungen der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)) zu erlassen.
+<sup>2</sup> Verfügungen und Entscheide der verfügenden bzw. entscheidenden Behörde sind nach den Bestimmungen der Verordnung über die Verwaltungsrechtspflege<sup>9</sup> zu erlassen.
 
-## 7 Schlussbestimmungen
+### 7. Kapitel: SCHLUSSBESTIMMUNGEN
 
 #### Artikel 30
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Folgende Erlasse werden aufgehoben:
+Folgende Erlasse werden aufgehoben:
 
-- 1\. Richtlinien vom 28. Dezember 1987 über die Beförderung beim kantonalen Polizeikorps
-- 2\. Weisungen vom 1. Dezember 1996 an die Kantonspolizei bezüglich der Dienst- und Postenkreise, der Wohnsitzpflicht und des Versetzungswesens
-- 3\. Weisungen vom 2. Dezember 1991 über die Zulagen und besonderen Vergütungen für die Korpsangehörigen und Zentralisten der Kantonspolizei Uri, mit Ausnahme der Wohnsitzzulage, die bis Ende 2010 weiterhin unverändert gilt
-- 4\. Regierungsratsbeschluss vom 26. Juni 2007 über die Rückerstattung von Ausbildungskosten bei vorzeitigem Austritt aus dem Polizeikorps
+- 1\. Richtlinien vom 28. Dezember 1987 über die Beförderung beim kantonalen Polizeikorps,
+
+- 2\. Weisungen vom 1. Dezember 1996 an die Kantonspolizei bezüglich der Dienst- und Postenkreise, der Wohnsitzpflicht und des Versetzungswesens,
+
+- 3\. Weisungen vom 2. Dezember 1991 über die Zulagen und besonderen Vergütungen für die Korpsangehörigen und Zentralisten der Kantonspolizei Uri, mit Ausnahme der Wohnsitzzulage, die bis Ende 2010 weiterhin unverändert gilt,
+
+- 4\. Regierungsratsbeschluss vom 26. Juni 2007 über die Rückerstattung von Ausbildungskosten bei vorzeitigem Austritt aus dem Polizeikorps.
 
 #### Artikel 31
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Reglement tritt am 1. Mai 2010 in Kraft.
+Dieses Reglement tritt am 1. Mai 2010 in Kraft.
 
-AB 30.04.2010
+Im Namen des Regierungsrats
+
+Der Landammann: Isidor Baumann Der Kanzleidirektor: Dr. Peter Huber
