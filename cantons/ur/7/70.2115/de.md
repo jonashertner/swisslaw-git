@@ -1,36 +1,38 @@
 ---
 canton: UR
 number: "70.2115"
-title: Reglement der Abgaben zum Gastwirtschaftsgesetz
+title: REGLEMENT der Abgaben zum Gastwirtschaftsgesetz
 short: GWR
 language: de
 version: 2006-01-01
+corrected: 2025-08-21
 version_adopted: 2005-11-22
 adopted: 2005-11-22
 in_force: 2006-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/70.2115"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/1075/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/31/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement der Abgaben zum Gastwirtschaftsgesetz
+# REGLEMENT der Abgaben zum Gastwirtschaftsgesetz
 
-(GWR)
+REGLEMENT der Abgaben zum Gastwirtschaftsgesetz (GWR)
 
-Vom 22.11.2005 (Stand 01.01.2006)
+(vom 22. November 2005[^t-1]; Stand am 1. Januar 2006)
 
-Der Regierungsrat des Kantons Uri,
-
-gestützt auf Artikel 20 Absatz 4 des Gastwirtschaftsgesetzes vom 29. November 1998 (GWG, RB [70.2111](https://rechtsbuch.ur.ch/data/70.2111/de)),
+Der Regierungsrat des Kantons Uri, gestützt auf Artikel 20 Absatz 4 des Gastwirtschaftsgesetzes vom 29. November 1998 (GWG)<sup>2</sup>,
 
 beschliesst:
+
+[^t-1]: AB vom 6. Januar 2006.
 
 #### Artikel 1
 
 **Gegenstand**
 
-<sup>1</sup> Dieses Reglement regelt die Ansätze der Abgaben gemäss Artikel 20 und 21 GWG.
+Dieses Reglement regelt die Ansätze der Abgaben gemäss Artikel 20 und 21 GWG.
 
 #### Artikel 2
 
@@ -44,9 +46,9 @@ beschliesst:
 
 **Abgabenrahmen**
 
-<sup>1</sup> Die einmalige und die jährliche Abgabe betragen mindestens 50 Franken.
+<sup>1</sup> Die einmalige und die jährliche Abgabe betragen mindestens Fr. 50.–.
 
-<sup>2</sup> Die maximale Höhe der Abgabe beträgt 2'000 Franken. Dieser Betrag entspricht dem Landesindex der Konsumentenpreise, Stand Januar 1999. Steigt der Index um 10 Punkte, werden die Ansätze der Teuerung angepasst.
+<sup>2</sup> Die maximale Höhe der Abgabe beträgt Fr. 2'000.–. Dieser Betrag entspricht dem Landesindex der Konsumentenpreise, Stand Januar 1999. Steigt der Index um 10 Punkte, werden die Ansätze der Teuerung angepasst.
 
 <sup>3</sup> Festgelegte jährliche Abgaben sind ebenfalls gemäss Absatz 2 der Teuerung anzupassen.
 
@@ -54,62 +56,94 @@ beschliesst:
 
 **Abgabenbemessung**
 
-<sup>1</sup> Innerhalb der Grenzen von Artikel 3 bemisst sich die Abgabe für gastgewerbliche Dienstleistungen gemäss folgenden Tarifen:
+Innerhalb der Grenzen von Artikel 3 bemisst sich die Abgabe für gastgewerbliche Dienstleistungen gemäss folgenden Tarifen:
 
-- a) Anlassbewilligungen:
-  - 1\. Tarif 1 für Anlässe mit einem Fassungsvermögen bis 100 Personen, pro Stunde: — 5 Franken
-  - 2\. Tarif 2 für Anlässe mit einem Fassungsvermögen von 101 bis 500 Personen, pro Stunde: — 10 Franken
-  - 3\. Tarif 3 für Anlässe mit einem Fassungsvermögen von 501 bis 1'000 Personen, pro Stunde: — 15 Franken
-  - 4\. Tarif 4 für Anlässe mit einem Fassungsvermögen ab 1'001 Personen, pro Stunde: — 20 Franken
-- b) Vermietung von Ferienhäusern, Ferienwohnungen und Privatzimmern, pro Bett bzw. Schlafplatz: — 15 Franken
-- c) Verkauf von gebrannten Wassern:
-  - 1\. Kategorie 1: kleiner gemischter Betrieb (z.B. Dorfladen), Verkaufsfläche &lt;150 m²: — 200 Franken
-  - 2\. Kategorie 2: mittlerer gemischter Betrieb sowie ausschliessliche Getränkehandlungen, Abgabe nur an Endverbraucher, Verkaufsfläche 150 m²–500 m²: — 400 Franken
-  - 3\. Kategorie 3: grosser gemischter Betrieb, Verkaufsfläche &gt;500 m²: — 600 Franken
-  - 4\. Kategorie 4: ausschliesslich Getränkehandlungen, Abgabe an Endverbraucher und Wiederverkäufer, m² unerheblich: — 1'000 Franken
-- d) Betriebspatente: gemäss Anhang 1
+- a) Anlassbewilligungen
+
+- Tarif 1 für Anlässe mit einem Fassungsvermögen bis 100 Personen
+
+**Fr. 5.– pro Stunde**
+
+- Tarif 2 für Anlässe mit einem Fassungsvermögen von 101 bis 500 Personen
+
+**Fr. 10.– pro Stunde**
+
+- Tarif 3 für Anlässe mit einem Fassungsvermögen von 501 bis 1'000 Personen
+
+**Fr. 15.– pro Stunde**
+
+- Tarif 4 für Anlässe mit einem Fassungsvermögen ab 1'001 Personen
+
+**Fr. 20.– pro Stunde**
+
+- b) Vermietung von Ferienhäusern Ferienwohnungen und Privatzimmern pro Bett bzw. Schlafplatz
+
+**Fr. 15.–**
+
+- c) Verkauf von gebrannten Wassern
+
+- Kategorie 1 Kleiner gemischter Betrieb (z.B. Dorfladen) Verkaufsfläche &lt;150 m<sup>2</sup>
+
+**Fr. 200.–**
+
+- Kategorie 2 Mittlerer gemischter Betrieb sowie ausschliessliche Getränkehandlungen, Abgabe nur an Endverbraucher Verkaufsfläche 150 – 500 m<sup>2</sup>
+
+**Fr. 400.–**
+
+- Kategorie 3 Grosser gemischter Betrieb Verkaufsfläche &gt;500 m<sup>2</sup>
+
+**Fr. 600.–**
+
+- Kategorie 4 Ausschliesslich Getränkehandlungen, Abgabe an Endverbraucher und Wiederverkäufer m<sup>2</sup> unerheblich
+
+- d) Betriebspatente Berechnungsmodell Wertfaktor x Betriebsartfaktor x Lagefaktor = Abgabehöhe in Franken (Patenttaxe)
+
+- 1\. Wertfaktor:
+
+Für die Bestimmung des Wertfaktors werden die im Betrieb vorhandenen Sitzplätze und Hotelbetten herangezogen.
+
+- Saal/Sääli/Sitzungszimmer/ Kegel- 0.25 Punkte pro Sitzplatz bahn
+
+- gemeinnützige Betriebe (Heime, 0.50 Punkte pro Sitzplatz Spital)
+
+- Gartenwirtschaft/Terrasse 0.50 Punkte pro Sitzplatz
+
+- Vereinslokale/Partyräume 0.50 Punkte pro Sitzplatz
+
+- Restaurant/Café 1.50 Punkte pro Sitzplatz
+
+- Barbetriebe/Dancings/Cabarets 2.00 Punkte pro Sitzplatz
+
+- Massenlager/Schlafen im Stroh 0.25 Punkte pro Schlafplatz
+
+- Hotelbett 1.50 Punkte pro Sitzplatz Die Anzahl Sitzplätze und Hotelbetten/Schlafplätze werden mit den jeweiligen Punktewerten multipliziert und zusammengezählt. Das Resultat wird als Wertfaktor bezeichnet.
+
+- 2\. Betriebsartfaktor:
+
+- Betriebe ohne Alkoholausschank Faktor 1
+
+- Betriebe mit Alkoholausschank Faktor 2
+
+- 3\. Lagefaktor:
+
+- Bergbetriebe, nur zu Fuss erreichbar Faktor 1
+
+- Bergbetriebe, mit öffentlicher oder Faktor 1.5 privater Seilbahn erreichbar (Bergstation in unmittelbarer Nähe)erreichbar (Bergstation in unmittelbarer Nähe)
+
+- alle anderen Betriebe Faktor 2
+
+**Fr. 1 000.–**
+
+- Verkehrsgastronomie (z. B. Auto- Faktor 3 bahnraststätte) Die Abgabe für Betriebspatente reduziert sich anteilsmässig, wenn der Betrieb 3 oder mehr Monate im Jahr geschlossen bleibt.
 
 #### Artikel 5
 
-**Gebühren**
-
-<sup>1</sup> Übrige Gebühren richten sich nach der Gebührenverordnung (RB [3.2512](https://rechtsbuch.ur.ch/data/3.2512/de)) und dem Gebührenreglement (RB [3.2521](https://rechtsbuch.ur.ch/data/3.2521/de)) (Art. 20 Abs. 5 GWG).
+Gebühren Übrige Gebühren richten sich nach der Gebührenverordnung<sup>3</sup> und dem Gebührenreglement<sup>4</sup> (Art. 20 Abs. 5 GWG).
 
 #### Artikel 6
 
-**Inkrafttreten**
+**Im Namen des Regierungsrats**
 
-<sup>1</sup> Dieses Reglement tritt am 1. Januar 2006 in Kraft.
+**Der Landammann: Josef Arnold Der Kanzleidirektor: Dr. Peter Huber**
 
-## A1 Anhang 1: Berechnungsmodell Betriebspatente
-
-#### Artikel A1-1
-
-<sup>1</sup> Berechnungsmodell: Wertfaktor × Betriebsartfaktor × Lagefaktor = Abgabehöhe in Franken (Patenttaxe).
-
-<sup>2</sup> Wertfaktor: Die Anzahl Sitzplätze und Hotelbetten / Schlafplätze werden mit den jeweiligen Punktewerten multipliziert und zusammengezählt. Das Resultat wird als Wertfaktor bezeichnet. Für die Bestimmung des Wertfaktors werden die im Betrieb vorhandenen Sitzplätze und Hotelbetten herangezogen:
-
-- a) Saal / Sääli / Sitzungszimmer / Kegelbahn, Punkte pro Sitzplatz: — 0.25
-- b) gemeinnützige Betriebe (Heime, Spital), Punkte pro Sitzplatz: — 0.50
-- c) Gartenwirtschaft / Terrasse, Punkte pro Sitzplatz: — 0.50
-- d) Vereinslokale / Partyräume, Punkte pro Sitzplatz: — 0.50
-- e) Restaurant / Café, Punkte pro Sitzplatz: — 1.50
-- f) Barbetriebe / Dancings / Cabarets, Punkte pro Sitzplatz: — 2.00
-- g) Massenlager / Schlafen im Stroh, Punkte pro Schlafplatz: — 0.25
-- h) Hotelbett, Punkte pro Sitzplatz: — 1.50
-
-<sup>3</sup> Betriebsartfaktor:
-
-- a) Betriebe ohne Alkoholausschank: — Faktor 1
-- b) Betriebe mit Alkoholausschank: — Faktor 2
-
-<sup>4</sup> Lagefaktor:
-
-- a) Bergbetriebe, nur zu Fuss erreichbar: — Faktor 1
-- b) Bergbetriebe, mit öffentlicher oder privater Seilbahn erreichbar (Bergstation in unmittelbarer Nähe): — Faktor 1.5
-- c) alle anderen Betriebe: — Faktor 2
-- d) Verkehrsgastronomie (z.B. Autobahnraststätte): — Faktor 3
-
-<sup>5</sup> Die Abgabe für Betriebspatente reduziert sich anteilsmässig, wenn der Betrieb 3 oder mehr Monate im Jahr geschlossen bleibt.
-
-AB 06.01.2006
+Inkrafttreten Dieses Reglement tritt am 1. Januar 2006 in Kraft.
