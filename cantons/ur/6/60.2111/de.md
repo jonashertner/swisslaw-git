@@ -1,29 +1,35 @@
 ---
 canton: UR
 number: "60.2111"
-title: Veterinärverordnung
+title: VETERINÄRVERORDNUNG
 language: de
 version: 2024-01-01
+corrected: 2025-08-21
 version_adopted: 2023-11-15
 adopted: 2012-05-21
 in_force: 2012-11-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/60.2111"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/1076/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/195/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Veterinärverordnung
+# VETERINÄRVERORDNUNG
 
-Vom 21.05.2012 (Stand 01.01.2024)
+VETERINÄRVERORDNUNG
 
-Der Landrat des Kantons Uri,
+(vom 21. Mai 2012[^t-1]; Stand am 1. Januar 2024)
 
-gestützt auf Artikel 54 des Tierseuchengesetzes vom 1. Juli 1966 (TSG, SR [916.40](https://db.clex.ch/link/Bund/916.40/de)), auf Artikel 42 des Tierschutzgesetzes vom 16. Dezember 2005 (TSchG, SR [455](https://db.clex.ch/link/Bund/455/de)) und auf Artikel 90 Absatz 2 der Verfassung des Kantons Uri (RB [1.1101](https://rechtsbuch.ur.ch/data/1.1101/de)),
+Der Landrat des Kantons Uri, gestützt auf Artikel 54 des Tierseuchengesetzes vom 1. Juli 1966 (TSG)[^t-2], auf Artikel 42 des Tierschutzgesetzes vom 16. Dezember 2005 (TSchG)[^t-3] und auf Artikel 90 Absatz 2 der Verfassung des Kantons Uri vom 28. Oktober 1984<sup>4</sup>,
 
 beschliesst:
 
-## 1 Allgemeine Bestimmungen
+[^t-1]: AB vom 1. Juni 2012
+[^t-2]: SR 916.40
+[^t-3]: SR 916.40455
+
+### 1. Kapitel: ALLGEMEINE BESTIMMUNGEN
 
 #### Artikel 1
 
@@ -33,9 +39,9 @@ beschliesst:
 
 <sup>2</sup> Vorbehalten bleiben die besonderen Vorschriften eidgenössischer, interkantonaler und kantonaler Erlasse.
 
-## 2 Organisation und Zuständigkeiten
+### 2. Kapitel: ORGANISATION UND ZUSTÄNDIGKEITEN
 
-### 2.1 Organe des Kantons
+### 1. Abschnitt: Organe des Kantons
 
 #### Artikel 2
 
@@ -45,42 +51,52 @@ beschliesst:
 
 <sup>2</sup> Um die Aufgaben nach dieser Verordnung zu erfüllen, kann er mit anderen Kantonen, den Gemeinden sowie Dritten Vereinbarungen treffen und die damit verbundenen Ausgaben beschliessen.
 
-<sup>3</sup> Der Regierungsrat bezeichnet die Meldestelle für Findeltiere[^Artikel2-1]. Er erfüllt weitere Aufgaben, die ihm diese Verordnung oder die darauf gestützten Erlasse übertragen.
+<sup>3</sup> Der Regierungsrat bezeichnet die Meldestelle für Findeltiere[^2-1]. Er erfüllt weitere Aufgaben, die ihm diese Verordnung oder die darauf gestützten Erlasse übertragen.
 
-[^Artikel2-1]: Amt für Kantonspolizei; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^2-1]: Amt für Kantonspolizei; siehe Organisationsreglement (ORR; RB 2.3322).
+[^2-2]: Amt für Landwirtschaft; siehe Organisationsreglement (ORR; RB 2.3322).
 
 #### Artikel 3
 
-**Zuständiges Amt[^Artikel3-1]**
+**Zuständiges Amt[^2-2]**
 
 <sup>1</sup> Das zuständige Amt erfüllt die Aufgaben, die von Bundesrechts wegen zu erfüllen sind und die weder das übergeordnete Recht noch diese Verordnung oder die darauf gestützten Erlasse einem anderen Organ übertragen.
 
 <sup>2</sup> Es:
 
-- a) ist die Registrierungsstelle für Betriebe und Tierhaltungen, für die nach dem Bundesrecht eine Registrierungspflicht besteht. Vorbehalten bleiben abweichende Bestimmungen dieser Verordnung und der darauf gestützten Erlasse
-- b) koordiniert die Inspektionen auf Landwirtschaftsbetrieben
-- c) erfüllt weitere Aufgaben, die ihm diese Verordnung oder darauf gestützte Erlasse übertragen
+- a) ist die Registrierungsstelle für Betriebe und Tierhaltungen, für die nach dem Bundesrecht eine Registrierungspflicht besteht. Vorbehalten bleiben abweichende Bestimmungen dieser Verordnung und der darauf gestützten Erlasse;
 
-[^Artikel3-1]: Amt für Landwirtschaft; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+- b) koordiniert die Inspektionen auf Landwirtschaftsbetrieben;
+
+- c) erfüllt weitere Aufgaben, die ihm diese Verordnung oder darauf gestützte Erlasse übertragen.
 
 #### Artikel 4
 
 **Kantonstierärztin oder Kantonstierarzt**
 
-<sup>1</sup> Die Kantonstierärztin oder der Kantonstierarzt vollzieht die eidgenössische und kantonale Veterinärgesetzgebung entsprechend dem Konkordat betreffend das Laboratorium der Urkantone (RB [30.2315](https://rechtsbuch.ur.ch/data/30.2315/de)).
+<sup>1</sup> Die Kantonstierärztin oder der Kantonstierarzt vollzieht die eidgenössische und kantonale Veterinärgesetzgebung entsprechend dem Konkordat betreffend das Laboratorium der Urkantone<sup>7</sup>.
 
 <sup>2</sup> Sie oder er hat zudem:
 
-- a) die Personen zur Ermittlung des Schlachtgewichts zu bestimmen
-- b) die fachgerechte Betreuung von Findeltieren sicherzustellen
-- c) die Bewilligung zur Haltung von geschützten Tieren zu erteilen, soweit nicht die Jagdbehörde zuständig ist
-- d) Massnahmen zur Verhütung und Bekämpfung von Wildkrankheiten anzuordnen
-- e) fischereipolizeiliche Massnahmen bei Krebspest anzuordnen
-- f) Massnahmen zur Verminderung des Fuchsbestands zu treffen und Impfaktionen bei Füchsen bei Tollwut anzuordnen
-- g) Massnahmen zur Verminderung der Wildkaninchenbestände bei Myxomatose anzuordnen
-- h) Meldungen über den Ausbruch von Seuchen und seuchenverdächtige Erscheinungen nach Artikel 11 TSG entgegenzunehmen und zu bearbeiten
-- i) als Meldestelle zu dienen, bei der Vorfälle mit gefährlichen Hunden zu melden sind
-- j) weitere Aufgaben zu erfüllen, die diese Verordnung oder darauf gestützte Erlasse ihr oder ihm übertragen
+- a) die Personen zur Ermittlung des Schlachtgewichts zu bestimmen;
+
+- b) die fachgerechte Betreuung von Findeltieren sicherzustellen;
+
+- c) die Bewilligung zur Haltung von geschützten Tieren zu erteilen, soweit nicht die Jagdbehörde zuständig ist;
+
+- d) Massnahmen zur Verhütung und Bekämpfung von Wildkrankheiten anzuordnen;
+
+- e) fischereipolizeiliche Massnahmen bei Krebspest anzuordnen;
+
+- f) Massnahmen zur Verminderung des Fuchsbestands zu treffen und Impfaktionen bei Füchsen bei Tollwut anzuordnen;
+
+- g) Massnahmen zur Verminderung der Wildkaninchenbestände bei Myxomatose anzuordnen;
+
+- h) Meldungen über den Ausbruch von Seuchen und seuchenverdächtige Erscheinungen nach Artikel 11 TSG entgegenzunehmen und zu bearbeiten;
+
+- i) als Meldestelle zu dienen, bei der Vorfälle mit gefährlichen Hunden zu melden sind;
+
+- j) weitere Aufgaben zu erfüllen, die diese Verordnung oder darauf gestützte Erlasse ihr oder ihm übertragen.
 
 #### Artikel 5
 
@@ -94,7 +110,7 @@ beschliesst:
 
 **Amtliche Fachassistentinnen und Fachassistenten**
 
-<sup>1</sup> Die amtlichen Fachassistentinnen und Fachassistenten erfüllen die Aufgaben, die ihnen das Bundesrecht, das kantonale Recht, die Kantonstierärztin oder der Kantonstierarzt übertragen.
+Die amtlichen Fachassistentinnen und Fachassistenten erfüllen die Aufgaben, die ihnen das Bundesrecht, das kantonale Recht, die Kantonstierärztin oder der Kantonstierarzt übertragen.
 
 #### Artikel 7
 
@@ -102,10 +118,13 @@ beschliesst:
 
 <sup>1</sup> Die nichtamtlichen Tierärztinnen und Tierärzte mit Berufsausübungsbewilligung im Kanton Uri erfüllen die Aufgaben, die die Kantonstierärztin oder der Kantonstierarzt ihnen im Rahmen ihrer oder seiner Zuständigkeit überträgt, namentlich:
 
-- a) Impfungen
-- b) Probenahmen
-- c) Untersuchungen bei Schlachttieren
-- d) Fleischkontrollen
+- a) Impfungen;
+
+- b) Probenahmen;
+
+- c) Untersuchungen bei Schlachttieren;
+
+- d) Fleischkontrollen.
 
 <sup>2</sup> Bei Seuchengefahr oder beim Ausbruch von Tierseuchen sind sie verpflichtet, sich im ganzen Konkordatsgebiet auch ausserhalb der ordentlichen Bürozeiten zur Seuchenbekämpfung zur Verfügung zu halten.
 
@@ -113,21 +132,21 @@ beschliesst:
 
 **Bieneninspektorinnen und Bieneninspektoren**
 
-<sup>1</sup> Die Bieneninspektorinnen und Bieneninspektoren erfüllen die Aufgaben, die ihnen das Bundesrecht, das kantonale Recht oder die Kantonstierärztin oder der Kantonstierarzt übertragen.
+Die Bieneninspektorinnen und Bieneninspektoren erfüllen die Aufgaben, die ihnen das Bundesrecht, das kantonale Recht oder die Kantonstierärztin oder der Kantonstierarzt übertragen.
 
 #### Artikel 9
 
-**Schätzungs- und Fachexpertinnen sowie Schätzungs- und Fachexperten**
+**Schätzungs- und Fachexpertinnen sowie**
 
-<sup>1</sup> Die Schätzungs- und Fachexpertinnen sowie Schätzungs- und Fachexperten erfüllen die Aufgaben, die ihnen das Bundesrecht, das kantonale Recht, die Kantonstierärztin oder der Kantonstierarzt übertragen.
+Schätzungs- und Fachexperten Die Schätzungs- und Fachexpertinnen sowie Schätzungs- und Fachexperten erfüllen die Aufgaben, die ihnen das Bundesrecht, das kantonale Recht, die Kantonstierärztin oder der Kantonstierarzt übertragen.
 
 #### Artikel 10
 
 **Kantonspolizei**
 
-<sup>1</sup> Die Kantonspolizei unterstützt die Kantonstierärztin oder den Kantonstierarzt, wenn das notwendig ist, um das Veterinärrecht zu vollziehen.
+Die Kantonspolizei unterstützt die Kantonstierärztin oder den Kantonstierarzt, wenn das notwendig ist, um das Veterinärrecht zu vollziehen.
 
-### 2.2 Organe der Gemeinden
+### 2. Abschnitt: Organe der Gemeinden
 
 #### Artikel 11
 
@@ -137,7 +156,7 @@ beschliesst:
 
 <sup>2</sup> Die Wasenmeisterin oder der Wasenmeister sorgt im Rahmen des Bundesrechts und dieser Verordnung für die unschädliche Beseitigung der Tierköper.
 
-<sup>3</sup> Die Kantonstierärztin oder der Kantonstierarzt kann der Wasenmeisterin oder dem Wasenmeister weitere Aufgaben im Bereich der Seuchenüberwachung und ‑bekämpfung übertragen.
+<sup>3</sup> Die Kantonstierärztin oder der Kantonstierarzt kann der Wasenmeisterin oder dem Wasenmeister weitere Aufgaben im Bereich der Seuchenüberwachung und -bekämpfung übertragen.
 
 #### Artikel 12
 
@@ -145,47 +164,57 @@ beschliesst:
 
 <sup>1</sup> Die Gemeinden unterstützen die Vollzugsorgane der Veterinärgesetzgebung bei der Erfüllung ihrer Aufgaben. Sie haben dazu eine geeignete Organisation einzurichten. Sie können diese Aufgabe gemeinsam erfüllen.
 
-<sup>2</sup> Sie haben auf ihrem Gemeindegebiet auf Anordnung der Kantonstierärztin oder des Kantonstierarztes namentlich:
+2 Sie haben auf ihrem Gemeindegebiet auf Anordnung der Kantonstierärztin oder des Kantonstierarztes namentlich:
 
-- a) Weisungen und Anordnungen der Kantonstierärztin oder des Kantonstierarzts bekannt zu machen
-- b) die Einhaltung von Sperrmassnahmen zu überwachen
-- c) bei der Reinigung und Desinfektion mitzuwirken und im Rahmen ihrer Möglichkeiten das erforderliche Material und Hilfspersonal zur Verfügung zu stellen
+- a) Weisungen und Anordnungen der Kantonstierärztin oder des Kantonstierarzts bekannt zu machen;
+
+- b) die Einhaltung von Sperrmassnahmen zu überwachen;
+
+- c) bei der Reinigung und Desinfektion mitzuwirken und im Rahmen ihrer Möglichkeiten das erforderliche Material und Hilfspersonal zur Verfügung zu stellen.
 
 <sup>3</sup> Die Gemeinden haben für eine angemessene Aus- und Weiterbildung ihrer seuchenpolizeilichen Organe zu sorgen, wobei die Kantonstierärztin oder der Kantonstierarzt Aus- und Weiterbildungskurse für obligatorisch erklären kann.
 
-## 3 Tierseuchen
+### 3. Kapitel: TIERSEUCHEN
 
-### 3.1 Entschädigung für Tierverluste
+### 1. Abschnitt: Entschädigung für Tierverluste
 
 #### Artikel 13
 
 **Grundsatz**
 
-<sup>1</sup> Der Kanton leistet Entschädigungen für Tierverluste aus seuchenpolizeilichen Gründen nach der Bundesgesetzgebung und nach den Bestimmungen dieser Verordnung.
+Der Kanton leistet Entschädigungen für Tierverluste aus seuchenpolizeilichen Gründen nach der Bundesgesetzgebung und nach den Bestimmungen dieser Verordnung.
+
+[^13-1]: Fassung gemäss LRB vom 16. März 2016, in Kraft gesetzt auf den 1. Januar 2017 (AB vom 24. März 2016).
 
 #### Artikel 14
 
-**Schätzungsverfahren**
+**Schätzungsverfahren**[^13-1]
 
 <sup>1</sup> Die Kantonstierärztin oder der Kantonstierarzt schätzt die zu entschädigenden Tiere und legt den Schätzungswert sowie die Höhe der Entschädigung fest.
 
 <sup>2</sup> Zur Bestimmung des Schätzungswerts einigt sich die Kantonstierärztin oder der Kantonstierarzt mit der Tiereigentümerin oder dem Tiereigentümer. Kommt keine Einigung zustande, zieht sie oder er Schätzungs- oder Fachexpertinnen oder Schätzungs- oder Fachexperten bei.
 
+[^14-1]: Fassung gemäss LRB vom 16. März 2016, in Kraft gesetzt auf den 1. Januar 2017 (AB vom 24. März 2016).
+
 #### Artikel 15
 
-**Höhe der Entschädigung**
+**Höhe der Entschädigung**[^14-1]
 
-<sup>1</sup> Die Entschädigungen betragen bei auszurottenden Seuchen 90 Prozent und bei zu bekämpfenden Seuchen 80 Prozent des Schätzungswerts. Der Verwertungserlös ist an die Entschädigung anzurechnen.
+Die Entschädigungen betragen bei auszurottenden Seuchen 90 Prozent und bei zu bekämpfenden Seuchen 80 Prozent des Schätzungswerts. Der Verwertungserlös ist an die Entschädigung anzurechnen.
 
 #### Artikel 16
 
-**Ausschluss, Herabsetzung und Rückerstattung der Entschädigung**
+**Ausschluss, Herabsetzung und Rückerstattung**
 
-<sup>1</sup> Die Ausschluss- und Herabsetzungsgründe richten sich nach der Bundesgesetzgebung. Dies gilt sinngemäss auch für Entschädigungen, die sich ausschliesslich auf kantonales Recht stützen.
+der Entschädigung
+
+<sup>1</sup> Die Ausschluss- und Herabsetzungsgründe richten sich nach der Bundesgesetzgebung. Dies gilt sinngemäss auch für Entschädigungen, die sich ausschliesslich auf kantonales Recht stützen.[^16-1]
 
 <sup>2</sup> Zu Unrecht entrichtete Entschädigungen können auf dem Verfügungsweg zurückgefordert werden.
 
-### 3.2 Tierverkehr
+[^16-1]: Fassung gemäss LRB vom 16. März 2016, in Kraft gesetzt auf den 1. Januar 2017 (AB vom 24. März 2016).
+
+### 2. Abschnitt: Tierverkehr
 
 #### Artikel 17
 
@@ -213,7 +242,7 @@ beschliesst:
 
 <sup>2</sup> Hundehalter haben den seuchenpolizeilichen Organen, der Polizei und den Gemeindebehörden den Hundeausweis auf Verlangen vorzulegen und die erforderlichen Auskünfte zu erteilen.
 
-### 3.3 Tiergesundheitsdienste
+### 3. Abschnitt: Tiergesundheitsdienste
 
 #### Artikel 20
 
@@ -223,7 +252,7 @@ beschliesst:
 
 <sup>2</sup> Beiträge an Tiergesundheitsdienste werden im Rahmen des Globalbudgets des Laboratoriums der Urkantone ausgerichtet.
 
-### 3.4 Entsorgung von tierischen Nebenprodukten
+### 4. Abschnitt: Entsorgung von tierischen Nebenprodukten
 
 #### Artikel 21
 
@@ -255,7 +284,7 @@ beschliesst:
 
 <sup>3</sup> Sie oder er erteilt die Bewilligung, um tierische Nebenprodukte zu vergraben, soweit das Bundesrecht eine Bewilligung vorsieht.
 
-### 3.5 Lebensmittelsicherheit
+### 5. Abschnitt: Lebensmittelsicherheit
 
 #### Artikel 24
 
@@ -267,9 +296,9 @@ beschliesst:
 
 <sup>3</sup> Die Betreiber der Notschlachtlokale regeln die Benützung und setzen die Gebühren fest.
 
-## 4 Tierschutz
+### 4. Kapitel: TIERSCHUTZ
 
-### 4.1 Allgemeine Bestimmungen
+### 1. Abschnitt: Allgemeine Bestimmungen
 
 #### Artikel 25
 
@@ -279,27 +308,35 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat kann die Meldepflicht auf weitere Personen und Personengruppen ausdehnen.
 
-#### Artikel 26
-
-**Massnahmen bei verhaltensauffälligen Hunden**
+Artikel 26[^25-1] Massnahmen bei verhaltensauffälligen Hunden
 
 <sup>1</sup> Die Kantonstierärztin oder der Kantonstierarzt ordnet die erforderlichen Massnahmen an, wenn:
 
-- a) eine Hundehalterin oder ein Hundehalter ihren oder seinen Pflichten nicht nachkommt
-- b) eine Bissverletzung gemeldet wird
-- c) ein schwerwiegender Verdacht einer Bedrohung besteht oder
-- d) eine Verhaltensauffälligkeit festgestellt wird
+- a) eine Hundehalterin oder ein Hundehalter ihren oder seinen Pflichten nicht nachkommt;
+
+- b) eine Bissverletzung gemeldet wird;
+
+- c) ein schwerwiegender Verdacht einer Bedrohung besteht; oder
+
+- d) eine Verhaltensauffälligkeit festgestellt wird.
 
 <sup>2</sup> Sie oder er kann insbesondere:
 
-- a) Weisungen über Erziehung, Pflege oder Unterbringung des Hunds erlassen
-- b) Weisungen über Beaufsichtigung einschliesslich Leinen- und Maulkorbzwang erlassen
-- c) einen Hund zulasten der Halterin oder des Halters unter Beobachtung stellen
-- d) einen Wesenstest des Hunds anordnen
-- e) den Besuch eines Erziehungskurses für Hunde anordnen
-- f) in schwerwiegenden Fällen die Hundehaltung verbieten, den Erwerb eines Hunds untersagen sowie die Beschlagnahmung oder Beseitigung des Hunds anordnen
+- a) Weisungen über Erziehung, Pflege oder Unterbringung des Hunds erlassen;
+
+- b) Weisungen über Beaufsichtigung einschliesslich Leinen- und Maulkorbzwang erlassen;
+
+- c) einen Hund zulasten der Halterin oder des Halters unter Beobachtung stellen;
+
+- d) einen Wesenstest des Hunds anordnen;
+
+- e) den Besuch eines Erziehungskurses für Hunde anordnen;
+
+- f) in schwerwiegenden Fällen die Hundehaltung verbieten, den Erwerb eines Hunds untersagen sowie die Beschlagnahmung oder Beseitigung des Hunds anordnen.
 
 <sup>3</sup> In anderen Kantonen rechtskräftig verfügte Massnahmen im Einzelfall gelten auch im Kanton Uri.
+
+[^25-1]: Fassung gemäss LRB vom 15. November 2023, in Kraft gesetzt auf den 1. Januar 2024 (AB vom 24. November 2023).
 
 #### Artikel 27
 
@@ -309,17 +346,17 @@ beschliesst:
 
 <sup>2</sup> Die Fachstelle stellt den Vollzug der Tierschutzgesetzgebung und der gestützt darauf erlassenen Vorschriften sicher.
 
-### 4.2 Tiergesundheitsberufe und Tierarzneimittel
+### 2. Abschnitt: Tiergesundheitsberufe und Tierarzneimittel
 
 #### Artikel 28
 
 **Hinweis auf das Gesundheitsgesetz**
 
-<sup>1</sup> Für die Tiergesundheitsberufe und die Tierarzneimittel gelten die Bestimmungen des Gesundheitsgesetzes (GG, RB [30.2111](https://rechtsbuch.ur.ch/data/30.2111/de)).
+Für die Tiergesundheitsberufe und die Tierarzneimittel gelten die Bestimmungen des Gesundheitsgesetzes (GG)<sup>12</sup>.
 
-## 5 Finanzielle Bestimmungen
+### 5. Kapitel: FINANZIELLE BESTIMMUNGEN
 
-### 5.1 Allgemeine Kostenpflicht und Gebühren
+### 1. Abschnitt: Allgemeine Kostenpflicht und Gebühren
 
 #### Artikel 29
 
@@ -331,46 +368,55 @@ beschliesst:
 
 #### Artikel 30
 
-**Kanton: Tierseuchenbekämpfung**
+**Kanton**
+
+- a) Tierseuchenbekämpfung
 
 <sup>1</sup> Soweit die Bundesgesetzgebung und die nachfolgenden Bestimmungen nichts anderes vorsehen, trägt der Kanton die Kosten der Tierseuchenbekämpfung.
 
 <sup>2</sup> Er:
 
-- a) leistet die Entschädigungen für Tierverluste aus seuchenpolizeilichen Gründen, wie sie im Bundesrecht und in dieser Verordnung vorgesehen sind
-- b) übernimmt die Transportkosten von der regionalen Sammelstelle zur Entsorgungsanlage
+- a) leistet die Entschädigungen für Tierverluste aus seuchenpolizeilichen Gründen, wie sie im Bundesrecht und in dieser Verordnung vorgesehen sind;
+
+- b) übernimmt die Transportkosten von der regionalen Sammelstelle zur Entsorgungsanlage.
 
 <sup>3</sup> Der Regierungsrat bestimmt, in welchen Fällen und zu welchem Anteil die Kosten der Tierseuchenbekämpfung der Tierhalterin oder dem Tierhalter übertragen werden.
 
 <sup>4</sup> Der Kanton leistet keine Entschädigungen für Produktionsausfall sowie für Material- und Futterverluste infolge seuchenpolizeilicher Massnahmen.
 
-#### Artikel 31
+#### Artikel 31 b
 
-**Kanton: Weitere Beiträge**
+**) Weitere Beiträge**
 
 <sup>1</sup> Im Rahmen des Voranschlags kann der Regierungsrat weitere Beiträge ausrichten, die der Prävention und der Bekämpfung von Krankheiten von Nutztieren dienen.
 
 <sup>2</sup> Dazu gehören insbesondere:
 
-- a) Beiträge an Tiergesundheitsdienste
-- b) Beiträge an den Bau und den Unterhalt von Notschlachtanlagen
-- b<sup>bis</sup>) Beiträge zur Sicherstellung eines Pikettdiensts für Notschlachtungen
-- c) Beiträge an den Bau der regionalen Sammelstelle
-- d) Beiträge in Härtefällen
-- e) Prämien für die Beseitigung von Wildtieren
+- a) Beiträge an Tiergesundheitsdienste;
+
+- b) Beiträge an den Bau und den Unterhalt von Notschlachtanlagen; b<sup>bis</sup>) Beiträge zur Sicherstellung eines Pikettdiensts für Notschlachtungen;[^31b-1]
+
+- c) Beiträge an den Bau der regionalen Sammelstelle;
+
+- d) Beiträge in Härtefällen;
+
+- e) Prämien für die Beseitigung von Wildtieren.
+
+[^31b-1]: Fassung gemäss LRB vom 16. März 2016, in Kraft gesetzt auf den 1. Januar 2017 (AB vom 24. März 2016).
 
 #### Artikel 32
 
-**Gemeinden: Tierseuchenbekämpfung**
+**Gemeinden**
 
-<sup>1</sup> Die Gemeinden:
+- a) Tierseuchenbekämpfung Die Gemeinden:
 
-- a) entschädigen die Wasenmeisterin oder den Wasenmeister
-- b) entschädigen ihre seuchenpolizeilichen Organe für den Besuch von obligatorischen Ausbildungs- und Weiterbildungskursen
+- a) entschädigen die Wasenmeisterin oder den Wasenmeister;
 
-#### Artikel 33
+- b) entschädigen ihre seuchenpolizeilichen Organe für den Besuch von obligatorischen Ausbildungs- und Weiterbildungskursen.
 
-**Gemeinden: Entsorgung der tierischen Nebenprodukte**
+#### Artikel 33 b
+
+**) Entsorgung der tierischen Nebenprodukte**
 
 <sup>1</sup> Jede Gemeinde beteiligt sich entsprechend ihrer Wohnbevölkerung und dem Nutztierbestand an den Kosten für den Bau, den Betrieb und den Unterhalt der regionalen Sammelstelle, soweit diese Kosten nicht durch Benützungsgebühren gedeckt werden. Ausnahmen nach Artikel 21 Absatz 4 bleiben vorbehalten.
 
@@ -382,7 +428,10 @@ beschliesst:
 
 **Findeltiere**
 
-<sup>1</sup> Der Kanton trägt die Kosten zur Unterbringung von Findeltieren im Rahmen des Konkordats betreffend das Laboratorium der Urkantone (RB [30.2315](https://rechtsbuch.ur.ch/data/30.2315/de)), sofern die Findeltiere einem Tierheim im Sinne von Artikel 722 Absatz 1<sup>ter</sup> ZGB (SR [210](https://db.clex.ch/link/Bund/210/de)) anvertraut werden.
+Der Kanton trägt die Kosten zur Unterbringung von Findeltieren im Rahmen des Konkordats betreffend das Laboratorium der Urkantone[^34-1], sofern die Findeltiere einem Tierheim im Sinne von Artikel 722 Absatz 1ter ZGB[^34-2] anvertraut werden.
+
+[^34-1]: RB 30.2315
+[^34-2]: SR 210
 
 #### Artikel 35
 
@@ -392,48 +441,45 @@ beschliesst:
 
 <sup>2</sup> Die Gebühren werden den Schlachtbetrieben in Rechnung gestellt.
 
-### 5.2 Tierseuchenfonds
+### 2. Abschnitt: Tierseuchenfonds
 
-#### Artikel 36
+Artikel 36[^h2AbschnittTierse-1] Grundsatz Der Kanton unterhält einen Tierseuchenfonds zur Vorbeugung und Bekämpfung von Krankheiten und Seuchen und zur Entschädigung von nicht versicherbaren Tierverlusten.
 
-**Grundsatz**
-
-<sup>1</sup> Der Kanton unterhält einen Tierseuchenfonds zur Vorbeugung und Bekämpfung von Krankheiten und Seuchen und zur Entschädigung von nicht versicherbaren Tierverlusten.
-
-#### Artikel 37
-
-**Äufnung des Fonds**
+Artikel 37[^h2AbschnittTierse-2] Äufnung des Fonds
 
 <sup>1</sup> Dem Tierseuchenfonds werden folgende Einnahmen zugeführt:
 
-- a) der Zinsertrag des Fondsvermögens
-- b) die Bussen bei Widerhandlungen gegen die Tierseuchengesetzgebung
+- a) der Zinsertrag des Fondsvermögens;
+
+- b) die Bussen bei Widerhandlungen gegen die Tierseuchengesetzgebung.
 
 <sup>2</sup> Über weitere Zuwendungen an den Tierseuchenfonds bestimmt der Landrat im Rahmen des Budgets.
 
-#### Artikel 38
-
-**Fondsentnahmen**
+Artikel 38[^h2AbschnittTierse-3] Fondsentnahmen
 
 <sup>1</sup> Der Regierungsrat kann in Ausnahmefällen und ergänzend zu den Beiträgen nach Artikel 31 aus dem Fonds Massnahmen zur Vorbeugung und Bekämpfung von Krankheiten und Seuchen finanzieren sowie weitere Entschädigungen für Tierverluste leisten.
 
 <sup>2</sup> Beiträge aus dem Tierseuchenfonds können insbesondere geleistet werden an:
 
-- a) die Errichtung und den Betrieb von Anlagen, die der Vorbeugung und Bekämpfung von Krankheiten und Seuchen oder der Gesunderhaltung von Tierbeständen dienen
-- b) Massnahmen, die wegen der besonderen Seuchenlage im Kanton nötig sind, für die jedoch der Kanton nach Bundesrecht nicht aufkommen muss
-- c) die Entschädigung für nicht versicherbare Tierverluste
+- a) die Errichtung und den Betrieb von Anlagen, die der Vorbeugung und Bekämpfung von Krankheiten und Seuchen oder der Gesunderhaltung von Tierbeständen dienen;
 
-<sup>3</sup> Der Regierungsrat erlässt dazu Ausführungsbestimmungen im Reglement. Er kann die zuständige Direktion[^Artikel38-1] ermächtigen, kleinere Fondsentnahmen selbstständig zu verfügen.
+- b) Massnahmen, die wegen der besonderen Seuchenlage im Kanton nötig sind, für die jedoch der Kanton nach Bundesrecht nicht aufkommen muss;
 
-[^Artikel38-1]: Volkswirtschaftsdirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+- c) die Entschädigung für nicht versicherbare Tierverluste.
 
-## 6 Rechtspflege, Gebühren und Strafbestimmungen
+<sup>3</sup> Der Regierungsrat erlässt dazu Ausführungsbestimmungen im Reglement. Er kann die zuständige Direktion2 ermächtigen, kleinere Fondsentnahmen selbstständig zu verfügen.
+
+[^h2AbschnittTierse-1]: Fassung gemäss LRB vom 16. März 2016, in Kraft gesetzt auf den 1. Januar 2017 (AB vom 24. März 2016).
+[^h2AbschnittTierse-2]: Fassung gemäss LRB vom 16. März 2016, in Kraft gesetzt auf den 1. Januar 2017 (AB vom 24. März 2016).
+[^h2AbschnittTierse-3]: Fassung gemäss LRB vom 16. März 2016, in Kraft gesetzt auf den 1. Januar 2017 (AB vom 24. März 2016).
+
+### 6. Kapitel: RECHTSPFLEGE, GEBÜHREN UND STRAFBESTIMMUNGEN
 
 #### Artikel 39
 
 **Rechtspflege**
 
-<sup>1</sup> Die Rechtspflege richtet sich nach der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)), soweit das übergeordnete Recht, namentlich das Konkordat betreffend das Laboratorium der Urkantone (RB [30.2315](https://rechtsbuch.ur.ch/data/30.2315/de)), nichts anderes bestimmt.
+Die Rechtspflege richtet sich nach der Verordnung über die Verwaltungsrechtspflege<sup>19</sup>, soweit das übergeordnete Recht, namentlich das Konkordat betreffend das Laboratorium der Urkantone<sup>20</sup>, nichts anderes bestimmt.
 
 #### Artikel 40
 
@@ -441,7 +487,7 @@ beschliesst:
 
 <sup>1</sup> Für die Vollzugstätigkeiten werden Gebühren nach der Gebührenordnung des Laboratoriums der Urkantone erhoben, soweit diese nicht gebührenfrei sind.
 
-<sup>2</sup> Im Übrigen gilt das kantonale Recht, namentlich die Gebührenordnungen nach dieser Verordnung und, soweit keine besonderen Bestimmungen bestehen, die Gebührenverordnung (RB [3.2512](https://rechtsbuch.ur.ch/data/3.2512/de)) und das Gebührenreglement (RB [3.2521](https://rechtsbuch.ur.ch/data/3.2521/de)).
+<sup>2</sup> Im Übrigen gilt das kantonale Recht, namentlich die Gebührenordnungen nach dieser Verordnung und, soweit keine besonderen Bestimmungen bestehen, die Gebührenverordnung<sup>21</sup> und das Gebührenreglement<sup>22</sup>.
 
 #### Artikel 41
 
@@ -449,10 +495,13 @@ beschliesst:
 
 <sup>1</sup> Wer vorsätzlich oder fahrlässig:
 
-- a) ohne Bewilligung eine nach dieser Verordnung oder darauf gestützter Erlasse bewilligungspflichtige Tätigkeit ausübt
-- b) eine nach dieser Verordnung oder darauf gestützter Erlasse erteilte Bewilligung überschreitet oder missachtet
-- c) als Inhaberin oder Inhaber einer Berufsausübungsbewilligung ihren oder seinen Pflichten nach dieser Verordnung nicht nachkommt
-- d) gesetzlich abgestützte Anordnungen von Veterinärorganen missachtet, wird mit einer Busse bis 20'000 Franken bestraft
+- a) ohne Bewilligung eine nach dieser Verordnung oder darauf gestützter Erlasse bewilligungspflichtige Tätigkeit ausübt;
+
+- b) eine nach dieser Verordnung oder darauf gestützter Erlasse erteilte Bewilligung überschreitet oder missachtet;
+
+- c) als Inhaberin oder Inhaber einer Berufsausübungsbewilligung ihren oder seinen Pflichten nach dieser Verordnung nicht nachkommt;
+
+- d) gesetzlich abgestützte Anordnungen von Veterinärorganen missachtet, wird mit einer Busse bis 20 000 Franken bestraft.
 
 <sup>2</sup> Versuch und Gehilfenschaft sind strafbar.
 
@@ -462,24 +511,28 @@ beschliesst:
 
 **Mitteilung von Strafentscheiden**
 
-<sup>1</sup> Strafentscheide, die Widerhandlungen gegen die Veterinärgesetzgebung betreffen, sind der Kantonstierärztin oder dem Kantonstierarzt zuzustellen.
+Strafentscheide, die Widerhandlungen gegen die Veterinärgesetzgebung betreffen, sind der Kantonstierärztin oder dem Kantonstierarzt zuzustellen.
 
-## 7 Schlussbestimmungen
+### 7. Kapitel: SCHLUSSBESTIMMUNGEN
 
 #### Artikel 43
 
 **Vollzug**
 
-<sup>1</sup> Der Regierungsrat vollzieht diese Verordnung. Er erlässt dazu ausführende Bestimmungen.
+Der Regierungsrat vollzieht diese Verordnung. Er erlässt dazu ausführende Bestimmungen.
 
 #### Artikel 44
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Folgende Erlasse werden aufgehoben:
+Folgende Erlasse werden aufgehoben:
 
-- a) Kantonale Tierseuchenverordnung vom 17. Dezember 1997
-- b) Verordnung vom 15. Juni 1983 über den Tierschutz
+- 1\. Kantonale Tierseuchenverordnung vom 17. Dezember 1997[^44-1];
+
+- 2\. Verordnung vom 15. Juni 1983 über den Tierschutz[^44-2].
+
+[^44-1]: RB 60.2111
+[^44-2]: RB 60.2121
 
 #### Artikel 45
 
@@ -487,10 +540,12 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung unterliegt dem fakultativen Referendum.
 
-<sup>2</sup> Der Regierungsrat bestimmt, wann sie in Kraft tritt[^Artikel45-1].
+<sup>2</sup> Der Regierungsrat bestimmt, wann sie in Kraft tritt.[^45-1]
 
 <sup>3</sup> Diese Verordnung ist dem Eidgenössischen Volkswirtschaftsdepartement, dem Bundesamt für Veterinärwesen und dem Vorort des Viehhandelskonkordats zur Kenntnis zu bringen.
 
-[^Artikel45-1]: Vom Regierungsrat in Kraft gesetzt auf den 1. November 2012 (AB vom 2. November 2012).
+Im Namen des Landrats
 
-AB 01.06.2012
+Der Präsident: Josef Schuler Die Ratssekretärin: Kristin Arnold Thalmann
+
+[^45-1]: Vom Regierungsrat in Kraft gesetzt auf den 1. November 2012 (AB vom 2. November 2012).
