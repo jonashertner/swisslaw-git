@@ -1,38 +1,46 @@
 ---
 canton: UR
 number: "70.3912"
-title: Interkantonale Vereinbarung betreffend die gemeinsame Durchführung von Geldspielen
+title: INTERKANTONALE VEREINBARUNG betreffend die gemeinsame Durchführung von Geldspielen
 short: IKV 2020
 language: de
 version: 2021-01-01
+corrected: 2025-08-21
 version_adopted: 2019-05-20
 adopted: 2019-05-20
 in_force: 2021-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/70.3912"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/1072/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/39/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Interkantonale Vereinbarung betreffend die gemeinsame Durchführung von Geldspielen
+# INTERKANTONALE VEREINBARUNG betreffend die gemeinsame Durchführung von Geldspielen
 
-(IKV 2020)
+INTERKANTONALE VEREINBARUNG betreffend die gemeinsame Durchführung von Geldspielen (IKV 2020)
 
-Vom 20.05.2019 (Stand 01.01.2021)
+(Stand am 1. Januar 2021)
 
 Die dieser Vereinbarung beitretenden Kantone,
 
-im Bestreben, die mit der IKV 1937[^ingress-1] errichtete Zusammenarbeit auch unter dem geänderten Bundesrecht (Bundesgesetz über die Geldspiele, SR [935.51](https://db.clex.ch/link/Bund/935.51/de)) weiter zu führen, gestützt auf, Art. 48 der Bundesverfassung (SR [101](https://db.clex.ch/link/Bund/101/de)), das Bundesgesetz über Geldspiele vom 29. September 2017 (SR [935.51](https://db.clex.ch/link/Bund/935.51/de)) und das gesamtschweizerische Geldspielkonkordat vom 20. Mai 2019 (GSK, (RB [70.3911](https://rechtsbuch.ur.ch/data/70.3911/de)),
+im Bestreben, die mit der IKV 1937[^t-1] errichtete Zusammenarbeit auch unter dem geänderten Bundesrecht (Bundesgesetz über die Geldspiele, SR 935.51[^t-2] weiter zu führen,
+
+gestützt auf - Art. 48 der Bundesverfassung vom 18. April 1999 (SR 101[^t-3] - das Bundesgesetz über Geldspiele vom 29. September 2017, (SR 935.51[^t-4] - das gesamtschweizerische Geldspielkonkordat vom 20. Mai 2019 (GSK[^t-5]
 
 vereinbaren:
 
-[^ingress-1]: Interkantonale Vereinbarung über die gemeinsame Durchführung von Lotterien vom 26. Mai 1937
+[^t-1]: Interkantonale Vereinbarung über die gemeinsame Durchführung von Lotterien vom 26. Mai 1937
+[^t-2]: SR 935.51
+[^t-3]: SR 101
+[^t-4]: SR 935.51
+[^t-5]: RB 70.3911
 
 #### Artikel 1
 
 **Leistungsauftrag Swisslos**
 
-<sup>1</sup> Die dieser Vereinbarung beitretenden Kantone (nachfolgend als «Vereinbarungskantone» bezeichnet) betreiben die Genossenschaft «Swisslos Interkantonale Landeslotterie» (nachfolgend als «Swisslos» bezeichnet).
+<sup>1</sup> Die dieser Vereinbarung beitretenden Kantone (nachfolgend als «Vereinbarungskantone» bezeichnet) betreiben die Genossenschaft «Swisslos Interkantonale Landeslotterie» (nachfolgend als „Swisslos“ bezeichnet).
 
 <sup>2</sup> Swisslos veranstaltet Geldspiele im Auftrag der Vereinbarungskantone, nach Massgabe des BGS, des gesamtschweizerischen Geldspielkonkordats sowie der vorliegenden Vereinbarung.
 
@@ -48,24 +56,23 @@ vereinbaren:
 
 <sup>3</sup> Die nach Zuweisung des Reingewinnanteils nach Abs. 2 verbleibenden Reingewinne sind den Vereinbarungskantonen jährlich nach folgendem Verteilschlüssel abzuliefern:
 
-- a) Reingewinn aus Losen: Jedem Kanton ein Fixum von 70'000 Franken, der Rest nach Bevölkerungszahlen. Massgebend ist die gemäss der letzten Volkszählung ermittelte Bevölkerungszahl
-- b) Reingewinn aus übrigen Spielen: 50 Prozent nach Bevölkerung, 50 Prozent nach Spieleinsätzen. Massgebend ist die gemäss der letzten Volkszählung ermittelte Bevölkerungszahl
+- a) Reingewinn aus Losen: Jedem Kanton ein Fixum von CHF 70‘000, der Rest nach Bevölkerungszahlen. Massgebend ist die gemäss der letzten Volkszählung ermittelte Bevölkerungszahl.
+
+- b) Reingewinn aus übrigen Spielen: 50% nach Bevölkerung, 50% nach Spieleinsätzen. Massgebend ist die gemäss der letzten Volkszählung ermittelte Bevölkerungszahl.
 
 <sup>4</sup> Der Anteil am Reingewinn einer Spielkategorie steht einem Vereinbarungskanton nur dann zu, wenn die entsprechende Spielkategorie in seinem Gebiet nicht verboten ist im Sinne von Art. 28 BGS.
 
 #### Artikel 3
 
-**Vertretung der Vereinbarungskantone in der Genossenschaft**
-
-<sup>1</sup> Die Vereinbarungskantone entsenden je ein Regierungsmitglied in die Generalversammlung der Swisslos.
+Vertretung der Vereinbarungskantone in der Genossenschaft Die Vereinbarungskantone entsenden je ein Regierungsmitglied in die Generalversammlung der Swisslos.
 
 #### Artikel 4
 
 **Gemeinsame Bestimmungen für Kleinlotterien**
 
-<sup>1</sup> Die Gesamtsumme (Kontingent) der von einem Vereinbarungskanton in einem Kalenderjahr bewilligten Kleinlotterien im Sinne des Art. 34 BGS darf höchstens 2.50 Franken pro Kopf seiner Wohnbevölkerung betragen. Eine Mindestsumme von 100'000 Franken steht jedem Kanton unabhängig seiner Bevölkerungszahl zur Verfügung.
+<sup>1</sup> Die Gesamtsumme (Kontingent) der von einem Vereinbarungskanton in einem Kalenderjahr bewilligten Kleinlotterien im Sinne des Art. 34 BGS darf höchstens Fr. 2.50 pro Kopf seiner Wohnbevölkerung betragen. Eine Mindestsumme von Fr. 100'000.— steht jedem Kanton unabhängig seiner Bevölkerungszahl zur Verfügung.
 
-<sup>2</sup> Die Übertragung ungenutzter Kontingentsteile von einem auf das nächste Kalenderjahr ist nicht zulässig.
+2 Die Übertragung ungenutzter Kontingentsteile von einem auf das nächste Kalenderjahr ist nicht zulässig.
 
 <sup>3</sup> Die Übertragung ungenutzter Kontingentsteile von einem Vereinbarungskanton an einen anderen Vereinbarungskanton ist zulässig.
 
@@ -73,7 +80,7 @@ vereinbaren:
 
 **Bekanntmachung der Gemeinnützigkeit**
 
-<sup>1</sup> Die Vereinbarungskantone verpflichten sich, die Herkunft der Mittel bei deren Vergabe zu kommunizieren und den Benefiziaren aufzuerlegen, die erhaltene Unterstützung mindestens unter Verwendung des Logos von Swisslos bekannt zu machen.
+Die Vereinbarungskantone verpflichten sich, die Herkunft der Mittel bei deren Vergabe zu kommunizieren und den Benefiziaren aufzuerlegen, die erhaltene Unterstützung mindestens unter Verwendung des Logos von Swisslos bekannt zu machen.
 
 #### Artikel 6
 
@@ -95,30 +102,26 @@ vereinbaren:
 
 #### Artikel 8
 
-**Verhältnis zum Gesamtschweizerischen Geldspielkonkordat**
-
-<sup>1</sup> Im Falle eines Widerspruchs gehen die Bestimmungen des GSK den Bestimmungen der vorliegenden Vereinbarung vor.
+Verhältnis zum Gesamtschweizerischen Geldspielkonkordat Im Falle eines Widerspruchs gehen die Bestimmungen des GSK den Bestimmungen der vorliegenden Vereinbarung vor.
 
 #### Artikel 9
 
 **Inkrafttreten der Vereinbarung**
 
-<sup>1</sup> Diese Vereinbarung tritt in Kraft, sobald ihr alle Vereinbarungskantone der IKV 1937[^Artikel9-1] beigetreten sind.
+<sup>1</sup> Diese Vereinbarung tritt in Kraft, sobald ihr alle Vereinbarungskantone der IKV 1937 beigetreten sind.
 
 <sup>2</sup> Die Zustimmung ist gegenüber der Generalversammlung der Swisslos zu erklären. Sie teilt das Inkrafttreten den Kantonen sowie dem Bund mit.
 
-[^Artikel9-1]: Beitritt des Kantons durch LRB vom 18. Mai 2020, in Kraft gesetzt auf den 1. Januar 2021 (AB vom 29. Mai 2020 und 18. Dezember 2020).
-
 #### Artikel 10
 
-**Aufhebung der IKV 1937**
-
-<sup>1</sup> Mit dem Inkrafttreten dieser Vereinbarung werden sämtliche Bestimmungen der IKV 1937 aufgehoben.
+Aufhebung der IKV 1937 Mit dem Inkrafttreten dieser Vereinbarung werden sämtliche Bestimmungen der IKV 1937 aufgehoben.
 
 #### Artikel 11
 
-**Schlussbestimmung**
+Schlussbestimmung Swisslos passt die Statuten innert einer Frist von 6 Monaten ab Inkrafttreten dieser Vereinbarung an.
 
-<sup>1</sup> Swisslos passt die Statuten innert einer Frist von 6 Monaten ab Inkrafttreten dieser Vereinbarung an.
+Beschlossen von den Vertretungen der Kantone der Deutschschweiz und des Kantons Tessin der Fachdirektorenkonferenz Lotteriemarkt und Lotteriegesetz zu Handen der Ratifikation in den Kantonen am 20. Mai 2019.
 
-AB 29.05.2020
+Für die Fachdirektorenkonferenz Lotteriemarkt und Lotteriegesetz (Kantone Deutschschweiz und Kanton Tessin)
+
+Dr. Andrea Bettiga, Landammann Präsident FDKL
