@@ -4,13 +4,12 @@ number: "641.1"
 title: Kantonsratsbeschluss über die Gebühren in Verwaltungs- und Zivilsachen
 short: Verwaltungsgebührentarif
 language: de
-version: 2020-01-01
-valid_until: 2025-08-21
-version_adopted: 2018-11-29
+version: 2025-08-22
+version_adopted: 2025-06-05
 adopted: 1974-03-11
 in_force: 1974-04-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/641.1"
-pdf: "https://bgs.zg.ch/api/de/versions/2038/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2726/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,17 +18,16 @@ pdf: "https://bgs.zg.ch/api/de/versions/2038/pdf_file"
 
 (Verwaltungsgebührentarif)
 
-Vom 11. März 1974 (Stand 1. Januar 2020)
+Vom 11. März 1974 (Stand 22. August 2025)
 
 Der Kantonsrat des Kantons Zug,
 
-gestützt auf § 41 Abs. 1 Bst. e der Kantonsverfassung[^ingress-1] und in Ausführung von § 19 und § 79 des Einführungsgesetzes zum ZGB vom 17. August 1911[^ingress-2],
+gestützt auf § 41 Abs. 1 Bst. e der Verfassung des Kantons Zug (Kantonsverfassung, KV) vom 31. Januar 1894[^ingress-1],
 
-beschliesst die Erhebung nachfolgender Gebühren für Amtshandlungen in Verwaltungs- und Zivilsachen:[^ingress-3]
+beschliesst die Erhebung nachfolgender Gebühren für Amtshandlungen in Verwaltungs- und Zivilsachen:[^ingress-2]
 
 [^ingress-1]: BGS [111.1](https://bgs.zg.ch/data/111.1/de)
-[^ingress-2]: BGS [211.1](https://bgs.zg.ch/data/211.1/de); § 19 EG ZGB ist heute aufgehoben.
-[^ingress-3]: Teuerungsbedingte Anpassung vom 1. Dezember 2015 (GS 2015/060); in Kraft am 1. Januar 2016.
+[^ingress-2]: Teuerungsbedingte Anpassung vom 1. Dezember 2015 (GS 2015/060); in Kraft am 1. Januar 2016.
 
 #### § 1
 
@@ -51,8 +49,8 @@ beschliesst die Erhebung nachfolgender Gebühren für Amtshandlungen in Verwaltu
 
 <sup>1</sup>
 
-- 8\. Ausstellung eines Lehrerpatentes: 65
-- 9\. Ausstellung von Diplomen und Maturitätsausweisen an Schülerinnen und Schüler privater Schulen: 65
+- 8\. …
+- 9\. …
 - 10\. Abschriften von Diplomen, Zeugnissen und Ausweisen: 30
 
 #### § 3
@@ -90,17 +88,17 @@ beschliesst die Erhebung nachfolgender Gebühren für Amtshandlungen in Verwaltu
 - 28\. Beglaubigung der Unterschrift von Mitarbeiterinnen und Mitarbeitern sowie Urkundspersonen: 20
 - 28\.<sup>bis</sup> Apostille: 30
 - 29\. Erstellung von Protokollauszügen und Abschriften einschliesslich Beglaubigung: 15 bis drei Seiten, danach zusätzlich 2 pro Seite
-- 30\. Erstellung von Fotokopien und Computerausdrucken, davon ausgenommen sind Ausdrucke wie Rechnungen, Bewilligungen usw., die ohnehin anfallen:
-  - a) A4-Seite s/w: 20 Rappen (einseitig) bzw. 30 Rappen (doppelseitig)
-  - b) A3-Seite s/w: 50 Rappen (einseitig) bzw. 80 Rappen (doppelseitig)
-  - c) A4-Seite in Farbe: 1 (einseitig) bzw. 1.50 (doppelseitig)
-  - d) A3-Seite in Farbe: 2 (einseitig) bzw. 3 (doppelseitig)
+- 30\. Erstellung von Fotokopien, Computerausdrucken, Scans und Ähnlichem im Rahmen einer Amtshandlung, mit Auftragsaufwand über eine ¼ Stunde: 80 pro Stunde (Kostenberechnung auf angefangene ¼ Stunde genau)
+  - a) …
+  - b) …
+  - c) …
+  - d) …
 - 31\. Beglaubigung von vorgelegten Protokollauszügen, Abschriften und Photokopien: 15 bis drei Seiten, danach zusätzlich 2 pro Seite
 - 32\. Zeugnisse und Bescheinigungen aller Art: 25 bis 50
 - 33\. …
 - 34\. …
 - 35\. …
-- 36\. Persönlicher Steuerausweis: 10
+- 36\. …
 - 37\. Prüfung der Jahresrechnung von Stiftungen pro Jahr: 55 bis 450
 - 38\. Andere Verwaltungsentscheide, Bewilligungen, Genehmigungen, Kontrollen und Dienstleistungen aller Art: 55 bis 10 000, wobei nur bei Bauvorhaben Privater der 10 Stunden übersteigende Aufwand mit einem Stundenansatz von 150 Franken in Rechnung gestellt werden kann.
 - 38\.<sup>bis</sup> Aufschaltung einer privaten Sicherheitseinrichtung zur direkten Alarmierung der Polizei: 2 100 bis 10 200
@@ -116,8 +114,8 @@ beschliesst die Erhebung nachfolgender Gebühren für Amtshandlungen in Verwaltu
 
 - 38\.1. Benutzungsberatung im Lesesaal und archivische Fachbetreuung über 1/2 Stunde, pro Stunde: 80
 - 38\.2. Ausdrucke ab Mikrofilm in Selbstbedienung im Lesesaal ab 11. Stück/Tag, für jede Kopie A4 und A3: 1
-- 38\.3. Fotokopien durch Kundendienst bis A3 s/w: 2
-- 38\.4. Fotokopien durch Kundendienst bis A3 farbig: 4
+- 38\.3. Erstellung von Fotokopien, Computerausdrucken, Scans und Ähnlichem im Rahmen einer Amtshandlung, mit Auftragsaufwand über eine ¼ Stunde: 80 pro Stunde (Kostenberechnung auf angefangene ¼ Stunde genau)
+- 38\.4. …
 - 38\.5. Digitalisierungsarbeiten, Führungen, Transkriptionen, erstreckte Öffnungszeiten für Einzelbenutzer/innen (soweit Kapazitäten vorhanden sind) pro Stunde und beteiligte/n Archivmitarbeitende/n: 80
 - 38\.6. Historische und archivische Fachauskünfte, die mit Recherchen verbunden sind mit Aufwand über 1/2 Stunde, pro Stunde: 80
 - 38\.7. Bestätigungen (Zeugnisse, Schulnachweise) pro bestätigtes Dokument: 20
@@ -145,7 +143,7 @@ beschliesst die Erhebung nachfolgender Gebühren für Amtshandlungen in Verwaltu
 - 39\. …
 - 40\. Aufsicht über Fideikommisse und Stiftungen sowie die Prüfung der Stiftungsrechnungen, soweit die Stiftungen nicht Bestandteil des Gemeindevermögens sind (Art. 84 ZGB), pro Jahr: 55 bis 450
 - 41\. …
-- 42\. Niederlassungs- oder Aufenthaltsbewilligung: 30
+- 42\. …
 - 43\. …
 - 44\. …
 - 45\. …
@@ -195,24 +193,24 @@ beschliesst die Erhebung nachfolgender Gebühren für Amtshandlungen in Verwaltu
 - 68\. Beglaubigung einer Unterschrift: 20
 - 68\.<sup>bis</sup> Beglaubigung einer Firma bei Einzelunterschrift: 25 bis 50, bei Kollektivunterschrift: 30 bis 50
 - 69\. Beglaubigung eines Protokollauszuges, einer Abschrift oder von Kopien: 15 bis drei Seiten, danach zusätzlich 2 pro Seite
-- 70\. Erstellung von Fotokopien und Computerausdrucken, davon ausgenommen sind Ausdrucke wie Rechnungen, Bewilligungen usw., die ohnehin anfallen:
-  - a) A4-Seite s/w: 20 Rappen (einseitig) bzw. 30 Rappen (doppelseitig)
-  - b) A3-Seite s/w: 50 Rappen (einseitig) bzw. 80 Rappen (doppelseitig)
-  - c) A4-Seite in Farbe: 1 (einseitig) bzw. 1.50 (doppelseitig)
-  - d) A3-Seite in Farbe: 2 (einseitig) bzw. 3 (doppelseitig)
+- 70\. Erstellung von Fotokopien, Computerausdrucken, Scans und Ähnlichem im Rahmen einer Amtshandlung, mit Auftragsaufwand über eine ¼ Stunde: 80 pro Stunde (Kostenberechnung auf angefangene ¼ Stunde genau)
+  - a) …
+  - b) …
+  - c) …
+  - d) …
 - 71\. …
-- 72\. Lebensschein: 10
-- 73\. Niederlassungs-, Aufenthaltbestätigung, Handlungsfähigkeitszeugnis: 20
+- 72\. …
+- 73\. …
 - 74\. Zeugnisse und Bescheinigungen aller Art: 30 bis 240
 - 75\. Amtliche Bekanntmachungen: 20 bis 55
 - 76\. Aufnahme eines Wechselprotestes: 50 bis 500
 - 76\.<sup>bis</sup> Wissenserklärungen (z.B. Eidesstattliche Erklärungen): 100 bis 4000
 - 77\. Auskünfte an Drittpersonen: 7 bis 30
 - 78\. Nachsenden der Ausweisschriften: 20
-- 79\. Heimatschein: 30
-- 80\. Heimatausweis: 20
+- 79\. …
+- 80\. …
 - 81\. …
-- 82\. Bürgerrechtsbestätigung: 20
+- 82\. …
 - 83\. ...[^8-1]
 - 84\. ...[^8-2]
 
