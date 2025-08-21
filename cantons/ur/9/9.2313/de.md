@@ -1,51 +1,63 @@
 ---
 canton: UR
 number: "9.2313"
-title: Reglement betreffend die Ausführung der Verordnung über das Notariat
+title: REGLEMENT betreffend die Ausführung der Verordnung über das Notariat
 language: de
 version: 2001-01-01
+corrected: 2025-08-22
 version_adopted: 1999-12-15
 adopted: 1911-10-28
 in_force: 1912-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/9.2313"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/1084/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/147/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement betreffend die Ausführung der Verordnung über das Notariat
+# REGLEMENT betreffend die Ausführung der Verordnung über das Notariat
 
-Vom 28.10.1911 (Stand 01.01.2001)
+REGLEMENT betreffend die Ausführung der Verordnung über das Notariat
 
-Der Regierungsrat des Kantons Uri,
+(vom 28. Oktober 1911; Stand am 1. Januar 1912)
 
-in Vollziehung von Artikel 25 der Verordnung über das Notariat vom 9. Oktober 1911 (RB [9.2311](https://rechtsbuch.ur.ch/data/9.2311/de)),
+Der Regierungsrat des Kantons Uri, in Vollziehung von Artikel 25 der Verordnung über das Notariat vom 9. Oktober 1911[^t-1],
 
 beschliesst:
 
-## 1 Wesentliche Bestandteile der öffentlichen Urkunde
+[^t-1]: Nr. 9.2311
+
+### I.Wesentliche Bestandteile der öffentlichen Urkunde
 
 #### Artikel 1
 
 <sup>1</sup> Die vom Notar zu errichtende öffentliche Urkunde (Urschrift) muss enthalten:
 
-- 1\. den Namen und Wohnort des Notars
-- 2\. den Namen, den Stand und Wohnort der Parteien und deren Vertreter
-- 3\. im Falle der Mitwirkung von Zeugen, Übersetzern oder Dolmetschern den Namen, Stand und Wohnort dieser Personen
-- 4\. den Ort, das Jahr, den Monat und Tag, an dem die Urkunde errichtet wird
-- 5\. den Gegenstand der Verurkundung unter Wahrung der durch besondere Gesetzesbestimmungen hiefür vorgeschriebenen Formen
-- 6\. die Unterzeichnung der Urkunde durch alle bei der öffentlichen Beurkundung mitwirkenden und des Schreibens kundigen Personen
-- 7\. am Schlusse der Urkunde die Erklärung des Notars, dass die Urkunde von ihm verfasst und bei deren Errichtung die gesetzlichen Vorschriften befolgt worden sind
-- 8\. die Unterzeichnung dieser Erklärung mit der eigenhändigen Unterschrift des Notars
-- 9\. das Notariatssiegel neben der Unterschrift des Notars
+- 1\. den Namen und Wohnort des Notars;
+
+- 2\. den Namen, den Stand und Wohnort der Parteien und deren Vertreter;
+
+- 3\. im Falle der Mitwirkung von Zeugen, Übersetzern oder Dolmetschern den Namen, Stand und Wohnort dieser Personen;
+
+- 4\. den Ort, das Jahr, den Monat und Tag, an dem die Urkunde errichtet wird;
+
+- 5\. den Gegenstand der Verurkundung unter Wahrung der durch besondere Gesetzesbestimmungen hiefür vorgeschriebenen Formen;
+
+- 6\. die Unterzeichnung der Urkunde durch alle bei der öffentlichen Beurkundung mitwirkenden und des Schreibens kundigen Personen;
+
+- 7\. am Schlusse der Urkunde die Erklärung des Notars, dass die Urkunde von ihm verfasst und bei deren Errichtung die gesetzlichen Vorschriften befolgt worden sind;
+
+- 8\. die Unterzeichnung dieser Erklärung mit der eigenhändigen Unterschrift des Notars;
+
+- 9\. das Notariatssiegel neben der Unterschrift des Notars.
 
 <sup>2</sup> Die für die einzelnen Fälle und Urkundsarten vorgeschriebenen besondern Erfordernisse bleiben vorbehalten.
 
-<sup>3</sup> Die Form der Wechselproteste richtet sich nach den Bestimmungen des Obligationenrechts.
+3 Die Form der Wechselproteste richtet sich nach den Bestimmungen des Obligationenrechts.
 
 #### Artikel 2
 
-<sup>1</sup> Vorgelegte Ermächtigungen, Vollmachten und sonstige Legitimationsakten sind der Urkunde (Urschrift) im Original oder in beglaubigter Abschrift beizuheften, und es ist hierüber auf jeder Beilage ein Zeugnis des Notars einzutragen.
+Vorgelegte Ermächtigungen, Vollmachten und sonstige Legitimationsakten sind der Urkunde (Urschrift) im Original oder in beglaubigter Abschrift beizuheften, und es ist hierüber auf jeder Beilage ein Zeugnis des Notars einzutragen.
 
 #### Artikel 3
 
@@ -55,13 +67,13 @@ beschliesst:
 
 #### Artikel 4
 
-<sup>1</sup> Für die Angabe von Summen, Massen und Gewichten sind die durch die bestehende Gesetzgebung vorgeschriebenen Bezeichnungen zu wählen.
+1 Für die Angabe von Summen, Massen und Gewichten sind die durch die bestehende Gesetzgebung vorgeschriebenen Bezeichnungen zu wählen.
 
 <sup>2</sup> Zahlenangaben, welche sich auf die Endsummen (Vertragssummen) beziehen, sind sowohl in Worten als in Ziffern zu schreiben.
 
 <sup>3</sup> Ist gesetzlich nichts anderes bestimmt, so sind bei Zeitangaben die Zahlen nicht mit Worten zu schreiben.
 
-## 2 Ausfertigungen
+### II.Ausfertigungen
 
 #### Artikel 5
 
@@ -69,24 +81,25 @@ beschliesst:
 
 <sup>2</sup> Die in der Urschrift mit den gehörigen Förmlichkeiten vorkommenden Abänderungen, Berichtigungen und Zusätze dürfen in der Ausfertigung unmittelbar an der Stelle geschrieben werden, wohin sie nach dem Sinne des Kontextes gehören.
 
-#### Artikel 6
-
 <sup>1</sup> Die Ausfertigung kann auch bloss einen Teil der Urschrift umfassen. Dies ist dann der Fall, wenn eine Urkunde mehrere voneinander unabhängige Bestimmungen enthält, welche sich auf verschiedene Personen beziehen. Die Ausfertigung für jede einzelne Partei enthält bloss diejenigen Bestimmungen, welche für diese Partei von Bedeutung sind.
 
 <sup>2</sup> Dieses Umstandes ist sowohl in der Ausfertigung als auch in der Urschrift Erwähnung zu tun.
 
 #### Artikel 7
 
-<sup>1</sup> Als besondere Merkmale hat die Ausfertigung zu tragen:
+Als besondere Merkmale hat die Ausfertigung zu tragen:
 
-- 1\. die Ordnungsnummer der Urschrift
-- 2\. die Bezeichnung als erste, zweite oder folgende Ausfertigung
-- 3\. die Bezeichnung der Partei, für welche sie bestimmt ist und der Qualität, in welcher sie derselben zukommt
-- 4\. die Bescheinigung der Übereinstimmung mit dem Inhalt der Urschrift und Berufssiegel des Notars
+- 1\. die Ordnungsnummer der Urschrift;
+
+- 2\. die Bezeichnung als erste, zweite oder folgende Ausfertigung;
+
+- 3\. die Bezeichnung der Partei, für welche sie bestimmt ist und der Qualität, in welcher sie derselben zukommt;
+
+- 4\. die Bescheinigung der Übereinstimmung mit dem Inhalt der Urschrift und Berufssiegel des Notars.
 
 #### Artikel 8
 
-<sup>1</sup> Die Ausfertigung kann durch einen Dritten geschrieben sein. Der Notar hat jedoch ihre Übereinstimmung mit der Urschrift persönlich festzustellen.
+Die Ausfertigung kann durch einen Dritten geschrieben sein. Der Notar hat jedoch ihre Übereinstimmung mit der Urschrift persönlich festzustellen.
 
 #### Artikel 9
 
@@ -96,9 +109,7 @@ beschliesst:
 
 #### Artikel 10
 
-<sup>1</sup> Ist die einer Partei erteilte Ausfertigung unleserlich geworden, so kann der Notar auf Verlangen der Partei eine Neuausfertigung vornehmen. Die Tatsache dieser Erneuerung ist sowohl auf den in Frage stehenden Ausfertigungen als auch in der Urschrift genau zu vermerken und die erste Ausfertigung wird der Urschrift beigefügt.
-
-#### Artikel 11
+Ist die einer Partei erteilte Ausfertigung unleserlich geworden, so kann der Notar auf Verlangen der Partei eine Neuausfertigung vornehmen. Die Tatsache dieser Erneuerung ist sowohl auf den in Frage stehenden Ausfertigungen als auch in der Urschrift genau zu vermerken und die erste Ausfertigung wird der Urschrift beigefügt.
 
 <sup>1</sup> Ergibt sich die Notwendigkeit einer zweiten Ausfertigung, so kann der Notar auf Ansuchen der in Betracht fallenden Partei die Erteilung einer solchen Ausfertigung bewilligen, sofern feststeht, dass damit kein Missbrauch getrieben werden kann und sofern sich alle in Betracht fallenden Parteien damit einverstanden erklären.
 
@@ -110,11 +121,11 @@ beschliesst:
 
 <sup>2</sup> Bezüglich der Einreichung der Ausfertigungen zur Eintragung in das Grundbuch bleiben die speziellen Gesetzesvorschriften vorbehalten.
 
-## 3 Spezielle Verurkundungsverfahren
+### III.Spezielle Verurkundungsverfahren
 
 #### Artikel 13
 
-<sup>1</sup> Die notarialische Beglaubigung einer Unterschrift besteht in einer Bescheinigung des Notars darüber, dass die Unterschrift in seiner Gegenwart vom Unterzeichner entweder geschrieben oder als eigene Unterschrift anerkannt worden sei und dass er den Unterzeichner, beziehungsweise denjenigen, der die schon geschriebene Unterschrift als die seinige anerkennt, persönlich kenne.
+1 Die notarialische Beglaubigung einer Unterschrift besteht in einer Bescheinigung des Notars darüber, dass die Unterschrift in seiner Gegenwart vom Unterzeichner entweder geschrieben oder als eigene Unterschrift anerkannt worden sei und dass er den Unterzeichner, beziehungsweise denjenigen, der die schon geschriebene Unterschrift als die seinige anerkennt, persönlich kenne.
 
 <sup>2</sup> Ist der Unterzeichner oder der Erklärer dem Notar nicht persönlich bekannt, so hat der letztere ihre Identität festzustellen.
 
@@ -124,7 +135,7 @@ beschliesst:
 
 <sup>1</sup> Die Beglaubigung einer Abschrift geschieht durch eine unter die letztere zu setzende Bescheinigung, welche bezeugt, dass die Abschrift mit einer dem Notar vorgewiesenen Urkunde übereinstimmt.
 
-<sup>2</sup> Der Notar hat die Vergleichung von der abgeschriebenen Urkunde mit der gemachten Abschrift persönlich und sorgfältig vorzunehmen. Die Anwesenheit des Ausstellers oder Inhabers ist dabei nicht erforderlich.
+2 Der Notar hat die Vergleichung von der abgeschriebenen Urkunde mit der gemachten Abschrift persönlich und sorgfältig vorzunehmen. Die Anwesenheit des Ausstellers oder Inhabers ist dabei nicht erforderlich.
 
 #### Artikel 15
 
@@ -148,12 +159,12 @@ beschliesst:
 
 #### Artikel 18
 
-<sup>1</sup> Die Bestimmungen über die Beglaubigung von Unterschriften und Abschriften gelten auch für die übrigen mit diesen Verurkundungen betrauten Angestellten (Artikel 24 des Einführungsgesetzes zum ZGB[^Artikel18-1]).
+Die Bestimmungen über die Beglaubigung von Unterschriften und Abschriften gelten auch für die übrigen mit diesen Verurkundungen betrauten Angestellten (Artikel 24 des Einführungsgesetzes zum ZGB[^18-1]. Dieses Reglement tritt am 1. Januar 1912 in Kraft und ist in die Gesetzes-
 
-[^Artikel18-1]: Jetzt Art. 10 EG/ZGB (RB [9.2111](https://rechtsbuch.ur.ch/data/9.2111/de)).
+**sammlung aufzunehmen.**
 
-#### Artikel 19
+Namens Landammann und Regierungsrat des Kantons Uri
 
-<sup>1</sup> Dieses Reglement tritt am 1. Januar 1912 in Kraft und ist in die Gesetzessammlung aufzunehmen.
+Der Landammann: J. Furrer Der Landschreiber: J. W. Lusser
 
-AB 02.11.1911
+[^18-1]: Jetzt Art. 10 EG/ZGB (RB 9.2111).
