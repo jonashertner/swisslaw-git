@@ -3,24 +3,23 @@ canton: ZG
 number: "942.31"
 title: Ruhetags- und Ladenöffnungsgesetz
 language: de
-version: 2008-05-10
-valid_until: 2025-08-21
-version_adopted: 2008-02-28
+version: 2025-08-22
+version_adopted: 2025-06-05
 adopted: 2003-08-28
 in_force: 2004-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/942.31"
-pdf: "https://bgs.zg.ch/api/de/versions/321/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2724/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ruhetags- und Ladenöffnungsgesetz
 
-Vom 28. August 2003 (Stand 10. Mai 2008)
+Vom 28. August 2003 (Stand 22. August 2025)
 
 Der Kantonsrat des Kantons Zug,
 
-gestützt auf § 41 Bst. b der Kantonsverfassung[^ingress-1] und in Vollziehung des Bundesgesetzes vom 13. März 1964 über die Arbeit in Industrie, Gewerbe und Handel (Arbeitsgesetz)[^ingress-2],
+gestützt auf § 41 Abs. 1 Bst. b der Verfassung des Kantons Zug (Kantonsverfassung, KV) vom 31. Januar 1894[^ingress-1] und in Vollziehung des Bundesgesetzes über die Arbeit in Industrie, Gewerbe und Handel (Arbeitsgesetz, ArG) vom 13. März 1964[^ingress-2],
 
 beschliesst:
 
@@ -70,7 +69,8 @@ beschliesst:
 - o) Warenverkauf an Märkten;
 - p) temporäre Ausstellungen mit Verkauf der ausgestellten Waren;
 - q) Verkauf von Esswaren, Getränken, Spielwaren, Festartikeln, Souvenirs und dergleichen im Zusammenhang mit Fest-, Kultur- und Sportanlässen sowie ähnlichen Veranstaltungen auf den Plätzen und in den Räumlichkeiten, wo die Veranstaltungen stattfinden;
-- r) Take-away-Betriebe.
+- r) Take-away-Betriebe;
+- s) Warenselbstbedienungsgeschäfte ohne Verkaufspersonal und Verkaufslokale des Detailhandels, die ausserhalb der Ladenöffnungszeiten kein Verkaufspersonal beschäftigen, je mit einer maximalen Verkaufsfläche von 100 m².
 
 <sup>3</sup> Der Regierungsrat kann weitere Verkaufslokale Abs. 2 unterstellen, sofern für breite Bevölkerungskreise ein Bedürfnis besteht.
 
