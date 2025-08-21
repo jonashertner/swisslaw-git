@@ -4,13 +4,12 @@ number: "943.11"
 title: Gesetz über das Gastgewerbe und den Kleinhandel mit gebrannten Wassern
 short: "Gastgewerbegesetz, GGG"
 language: de
-version: 2025-02-21
-valid_until: 2025-08-21
-version_adopted: 2024-11-28
+version: 2025-08-22
+version_adopted: 2025-06-05
 adopted: 1996-01-25
 in_force: 1996-07-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/943.11"
-pdf: "https://bgs.zg.ch/api/de/versions/2679/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2725/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2679/pdf_file"
 
 (Gastgewerbegesetz, GGG)
 
-Vom 25. Januar 1996 (Stand 21. Februar 2025)
+Vom 25. Januar 1996 (Stand 22. August 2025)
 
 Der Kantonsrat des Kantons Zug,
 
@@ -259,6 +258,8 @@ beschliesst:
 <sup>2</sup> Die Bewilligungsbehörde setzt die Abgabe nach Art und Bedeutung des Betriebes oder Anlasses fest und bezieht sie.
 
 <sup>3</sup> Bei Betrieben wird die Abgabe jährlich bezogen, bei Anlässen mit der Bewilligungserteilung.
+
+<sup>4</sup> Für die Erteilung einer Bewilligung zur Abgabe alkoholhaltiger Getränke an Veranstaltungen werden keine Gebühren erhoben.
 
 ## 7. Verwaltungsmassnahmen
 
