@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Révision totale de l’ordonnance relative aux brevets d’invention (ordonnance sur les brevets, OBI)"
 document: Projet mis en consultation
 language: fr

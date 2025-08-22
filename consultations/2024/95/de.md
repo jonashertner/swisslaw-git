@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Totalrevision der Verordnung über die Erfindungspatente (Patentverordnung, PatV)"
 document: Vernehmlassungsvorlage
 language: de
