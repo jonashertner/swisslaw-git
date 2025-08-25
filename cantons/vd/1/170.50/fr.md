@@ -1,17 +1,17 @@
 ---
 canton: VD
 number: "170.50"
-title: ARRÊTÉ du 25.06.2025 de mise en vigueur
+title: ARRÊTÉ du 20.08.2025 de mise en vigueur
 language: fr
-version: 2025-07-01
-url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=f7289351-e50e-4258-a646-b75279d551ae"
+version: 2025-08-26
+url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=575c5d86-febd-4088-a2b7-8c48bfc03b63"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
 
 # ARRÊTÉ de mise en vigueur
 
-du 25 juin 2025
+du 20 août 2025
 
 LE CONSEIL D'ÉTAT DU CANTON DE VAUD
 
@@ -21,7 +21,4 @@ arrête
 
 #### Art. 1
 
-<sup>1</sup> Les décrets ci-après du 1er avril 2025 publiés dans la "Feuille des avis officiels du Canton de Vaud" du 15 avril 2025, entrent en vigueur le 1er juillet 2025 :
-
-- 1\. décret du 1er avril 2025 accordant au Conseil d'Etat un crédit d'investissement de CHF 1'325'000 pour financer les mesures agricoles 2025-2029 du Plan d'action Sols (BLV 913.00) ;
-- 2\. décret du 1er avril 2025 accordant au Conseil d'Etat un crédit d'investissement de CHF 4'675'000 pour financer les mesures environnementales 2025-2029 du Plan d'action Sols (BLV 913.00).
+<sup>1</sup> Le décret du 29 avril 2025 accordant aux transports publics de la région lausannoise SA (tl) un prêt conditionnellement remboursable de CHF 147'798'000.-, un prêt sans intérêts de CHF 14'753'000.- et une garantie d'emprunt de CHF 35'185'000.- pour le financement de la participation de l'État ainsi que le préfinancement partiel de la part fédérale de la réalisation de la deuxième étape du tramway t1 entre Renens (Gare) et Villars-Sainte-Croix (Croix-du-Péage) (BLV 740.00), publié dans la "Feuille des avis officiels du Canton de Vaud" du 13 mai 2025, entre en vigueur avec effet au 15 août 2025.
