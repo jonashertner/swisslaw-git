@@ -3,11 +3,11 @@ sr: "0.353.3"
 title: Convenzione europea del 27 gennaio 1977 per la repressione del terrorismo
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1041_1041_1041"
 language: it
-version: 2022-03-16
+version: 2025-08-26
 adopted: 1977-01-27
 in_force: 1983-08-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1041_1041_1041/20220316/it/xml/fedlex-data-admin-ch-eli-cc-1983-1041_1041_1041-20220316-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1041_1041_1041/20220316/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1041_1041_1041/20250826/it/xml/fedlex-data-admin-ch-eli-cc-1983-1041_1041_1041-20250826-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1041_1041_1041/20250826/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Strasburgo il 27 gennaio 1977 Approvata dall’Assemblea federale il 14 dicembre 1982[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 19 maggio 1983 Entrata in vigore per la Svizzera il 20 agosto 1983
 
-(Stato 16 marzo 2022)
+(Stato 26 agosto 2025)
 
 [^t-1]: [RU 1983 1040](https://fedlex.data.admin.ch/eli/oc/1983/1040_1040_1040)
 
@@ -47,8 +47,8 @@ Ai fini dell’estradizione tra gli Stati contraenti, nessuno dei seguenti reati
 - e. un reato che comporta il ricorso a bombe, granate, razzi, armi automatiche, o plichi o pacchi contenenti esplosivi ove il loro uso rappresenti un pericolo per le persone;
 - f. un tentativo di commettere uno qualsiasi dei reati che precedono o la partecipazione in veste di coautore o complice di una persona che commette o tenta di commettere un tale reato.
 
-[^1-1]: [RS 0.748.710.2](https://fedlex.data.admin.ch/eli/cc/1971/1513_1508_1509)
-[^1-2]: [RS 0.748.710.3](https://fedlex.data.admin.ch/eli/cc/1978/462_462_462)
+[^1-1]: [RS 0.748.710.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3309)
+[^1-2]: [RS 0.748.710.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3311)
 
 #### Art. 2
 
@@ -62,7 +62,7 @@ Ai fini dell’estradizione tra gli Stati contraenti, nessuno dei seguenti reati
 
 Le disposizioni di tutti i trattati e accordi di estradizione applicabili tra gli Stati contraenti, ivi inclusa la Convenzione europea sull’estradizione[^3-1], vengono modificati, tra gli Stati contraenti, nella misura in cui siano incompatibili con la presente Convenzione.
 
-[^3-1]: [RS 0.353.1](https://fedlex.data.admin.ch/eli/cc/1967/814_854_850)
+[^3-1]: [RS 0.353.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1400)
 
 #### Art. 4
 
@@ -92,7 +92,7 @@ La legislazione dello Stato richiesto relativa alla reciproca assistenza in mate
 
 <sup>3.</sup> Le disposizioni di ogni trattato e intesa in materia di assistenza reciproca relativamente alle questioni penali, applicabili tra gli Stati contraenti, ivi inclusa la Convenzione europea per l’assistenza reciproca in questioni penali[^8-1], verranno modificate tra gli Stati contraenti nella misura in cui sono incompatibili con la presente Convenzione.
 
-[^8-1]: [RS 0.351.1](https://fedlex.data.admin.ch/eli/cc/1967/831_871_866)
+[^8-1]: [RS 0.351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1352)
 
 #### Art. 9
 
@@ -159,11 +159,12 @@ Il Segretario generale del Consiglio d’Europa notificherà agli Stati Membri d
 
 *In fede di che,* i sottoscritti, a ciò debitamente autorizzati, hanno firmato la presente Convenzione. Fatto a Strasburgo, questo 27° giorno di gennaio 1977, nelle lingue inglese e francese, entrambi i testi facenti egualmente fede, in un’unica copia che resterà depositata presso gli Archivi del Consiglio d’Europa. Il Segretario generale del Consiglio d’Europa ne trasmetterà copia autenticata a ciascuno Stato firmatario. *(Seguono le firme)*
 
-Campo d’applicazione il 16 marzo 2022**[^t-2]**
+Campo d’applicazione il 26 agosto 2025[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Albania</td><td>21 settembre</td><td>2000</td><td>22 dicembre</td><td>2000</td></tr>
+<tr><td>Andorra</td><td>18 ottobre</td><td>2022</td><td>19 gennaio</td><td>2023</td></tr>
 <tr><td>Armenia</td><td>23 marzo</td><td>2004</td><td>24 giugno</td><td>2004</td></tr>
 <tr><td>Austria</td><td>11 agosto</td><td>1977</td><td>4 agosto</td><td>1978</td></tr>
 <tr><td>Azerbaigian<sup>\*</sup></td><td>11 febbraio</td><td>2004</td><td>12 maggio</td><td>2004</td></tr>
@@ -195,6 +196,7 @@ Campo d’applicazione il 16 marzo 2022**[^t-2]**
 <tr><td>Norvegia</td><td>10 gennaio</td><td>1980</td><td>11 aprile</td><td>1980</td></tr>
 <tr><td>Paesi Bassi<sup>\*</sup></td><td>18 aprile</td><td>1985</td><td>19 luglio</td><td>1985</td></tr>
 <tr><td>Aruba</td><td>10 febbraio</td><td>2006</td><td>10 febbraio</td><td>2006</td></tr>
+<tr><td>Curaçao<sup>\*</sup></td><td>8 dicembre</td><td>2023</td><td>8 dicembre</td><td>2023</td></tr>
 <tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>10 ottobre</td><td>2010</td><td>10 ottobre</td><td>2010</td></tr>
 <tr><td>Polonia</td><td>30 gennaio</td><td>1996</td><td>1° maggio</td><td>1996</td></tr>
 <tr><td>Portogallo<sup>\*</sup></td><td>14 dicembre</td><td>1981</td><td>15 marzo</td><td>1982</td></tr>
@@ -214,11 +216,7 @@ Campo d’applicazione il 16 marzo 2022**[^t-2]**
 <tr><td>Turchia</td><td>19 maggio</td><td>1981</td><td>20 agosto</td><td>1981</td></tr>
 <tr><td>Ucraina</td><td>13 marzo</td><td>2002</td><td>14 giugno</td><td>2002</td></tr>
 <tr><td>Ucraina\*</td><td>13 marzo</td><td>2002</td><td>14 giugno</td><td>2002</td></tr>
-<tr><td colspan="6"><sup>\*</sup> Riserve e dichiarazioni. <sup>\*\*</sup> Obiezioni. Le riserve, dichiarazioni ed obiezioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="6"><sup>a</sup> Data del deposito dello strumento di ratificazione della Repubblica federativa ceca e slovacca.</td></tr>
-<tr><td colspan="5">[tab]</td></tr>
+<tr><td colspan="6"><sup>\*</sup> Riserve e dichiarazioni. <sup>\*\*</sup> Obiezioni. Le riserve, le dichiarazioni e le obiezioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: [www.coe.int](https://www.coe.int/fr/web/conventions/) &gt; Italiano &gt; Chi siamo &gt; Ufficio Trattati &gt; Lista completa o ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Data del deposito dello strumento di ratificazione della Repubblica federativa ceca e slovacca.</td></tr>
 </table>
 
-- [tab]
-
-[^t-2]: [RU 1983 1041](https://fedlex.data.admin.ch/eli/oc/1983/1041_1041_1041), [1985 1488](https://fedlex.data.admin.ch/eli/oc/1985/1488_1488_1488), [1986 474](https://fedlex.data.admin.ch/eli/oc/1986/474_474_474), [1987 775](https://fedlex.data.admin.ch/eli/oc/1987/775_775_775), [1989 166](https://fedlex.data.admin.ch/eli/oc/1989/166_166_166), [1990 1156](https://fedlex.data.admin.ch/eli/oc/1990/1156_1156_1156), [2004 3663](https://fedlex.data.admin.ch/eli/oc/2004/501), [2006 4247](https://fedlex.data.admin.ch/eli/oc/2006/642), [2009 603](https://fedlex.data.admin.ch/eli/oc/2009/106), [2014 801](https://fedlex.data.admin.ch/eli/oc/2014/176), [2019 1959](https://fedlex.data.admin.ch/eli/oc/2019/361), [2022 248](https://fedlex.data.admin.ch/eli/oc/2022/248). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1983 1041](https://fedlex.data.admin.ch/eli/oc/1983/1041_1041_1041); [1985 1488](https://fedlex.data.admin.ch/eli/oc/1985/1488_1488_1488); [1986 474](https://fedlex.data.admin.ch/eli/oc/1986/474_474_474); [1987 775](https://fedlex.data.admin.ch/eli/oc/1987/775_775_775); [1989 166](https://fedlex.data.admin.ch/eli/oc/1989/166_166_166); [1990 1156](https://fedlex.data.admin.ch/eli/oc/1990/1156_1156_1156); [2004 3663](https://fedlex.data.admin.ch/eli/oc/2004/501); [2006 4247](https://fedlex.data.admin.ch/eli/oc/2006/642); [2009 603](https://fedlex.data.admin.ch/eli/oc/2009/106); [2014 801](https://fedlex.data.admin.ch/eli/oc/2014/176); [2019 1959](https://fedlex.data.admin.ch/eli/oc/2019/361); [2022 248](https://fedlex.data.admin.ch/eli/oc/2022/248); [2025 535](https://fedlex.data.admin.ch/eli/oc/2025/535). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

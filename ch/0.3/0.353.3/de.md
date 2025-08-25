@@ -3,11 +3,11 @@ sr: "0.353.3"
 title: Europäisches Übereinkommen vom 27. Januar 1977 zur Bekämpfung des Terrorismus
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1041_1041_1041"
 language: de
-version: 2022-03-16
+version: 2025-08-26
 adopted: 1977-01-27
 in_force: 1983-08-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1041_1041_1041/20220316/de/xml/fedlex-data-admin-ch-eli-cc-1983-1041_1041_1041-20220316-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1041_1041_1041/20220316/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1041_1041_1041/20250826/de/xml/fedlex-data-admin-ch-eli-cc-1983-1041_1041_1041-20250826-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1041_1041_1041/20250826/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1983** 1041; BBl **1982** II 1
 
 Abgeschlossen in Strassburg am 27. Januar 1977 Von der Bundesversammlung genehmigt am 14. Dezember 1982[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 19. Mai 1983 In Kraft getreten für die Schweiz am 20. August 1983
 
-(Stand am 16. März 2022)
+(Stand am 26. August 2025)
 
 [^t-1]: [AS 1983 1040](https://fedlex.data.admin.ch/eli/oc/1983/1040_1040_1040)
 
@@ -47,8 +47,8 @@ Für die Zwecke der Auslieferung zwischen den Vertragsstaaten wird keine der fol
 - e. eine Straftat, bei deren Begehung eine Bombe, eine Handgranate, eine Rakete, eine automatische Schusswaffe oder ein Sprengstoffbrief oder ‑paket verwendet wird, wenn dadurch Personen gefährdet werden;
 - f. der Versuch, eine der vorstehenden Straftaten zu begehen, oder die Beteiligung als Mittäter oder Gehilfe einer Person, die eine solche Straftat begeht oder zu begehen versucht.
 
-[^1-1]: [SR 0.748.710.2](https://fedlex.data.admin.ch/eli/cc/1971/1513_1508_1509)
-[^1-2]: [SR 0.748.710.3](https://fedlex.data.admin.ch/eli/cc/1978/462_462_462)
+[^1-1]: [SR 0.748.710.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3309)
+[^1-2]: [SR 0.748.710.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3311)
 
 #### Art. 2
 
@@ -62,7 +62,7 @@ Für die Zwecke der Auslieferung zwischen den Vertragsstaaten wird keine der fol
 
 Die Bestimmungen aller zwischen Vertragsstaaten anwendbaren Auslieferungsverträge und ‑übereinkommen, einschliesslich des Europäischen Auslieferungsübereinkommens[^3-1], werden im Verhältnis zwischen den Vertragsstaaten geändert, soweit sie mit dem vorliegenden Übereinkommen unvereinbar sind.
 
-[^3-1]: [SR 0.353.1](https://fedlex.data.admin.ch/eli/cc/1967/814_854_850)
+[^3-1]: [SR 0.353.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1400)
 
 #### Art. 4
 
@@ -92,7 +92,7 @@ In allen Fällen ist das Recht des ersuchten Staates betreffend die Rechtshilfe 
 
 <sup>3.</sup> Die Bestimmungen aller zwischen Vertragsstaaten anwendbaren Verträge und Übereinkommen über die Rechtshilfe in Strafsachen, einschliesslich des Europäischen Übereinkommens über die Rechtshilfe in Strafsachen[^8-1], werden im Verhältnis zwischen den Vertragsstaaten geändert, soweit sie mit dem vorliegenden Übereinkommen unvereinbar sind.
 
-[^8-1]: [SR 0.351.1](https://fedlex.data.admin.ch/eli/cc/1967/831_871_866)
+[^8-1]: [SR 0.351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1352)
 
 #### Art. 9
 
@@ -148,7 +148,7 @@ Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Rates
 
 - a. jede Unterzeichnung;
 - b. jede Hinterlegung einer Ratifikations‑, Annahme‑ oder Genehmigungsurkunde;
-- c. jeden Zeitpunkt des Inkrafttretens dieses Übereinkommens nach seinem Artikel 11 ;
+- c. jeden Zeitpunkt des Inkrafttretens dieses Übereinkommens nach seinem Artikel 11;
 - d. jede nach Artikel 12 eingegangene Erklärung oder Notifikation,
 - e. jeden nach Artikel 13 Absatz 1 gemachten Vorbehalt;
 - f. jede Zurücknahme eines Vorbehalts nach Artikel 13 Absatz 2;
@@ -157,11 +157,12 @@ Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Rates
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Strassburg am 27. Januar 1977 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarates hinterlegt wird. Der Generalsekretär des Europarates übermittelt allen Unterzeichnerstaaten beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 16. März 2022**[^t-2]**
+Geltungsbereich am 26. August 2025[^t-2]
 
 <table>
 <tr><th colspan="2">Vertragsstaaten</th><th>Ratifikation Nachfolgeerklärung (N)</th><th colspan="2"></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td colspan="2">Albanien</td><td>21. September</td><td colspan="2">2000</td><td>22. Dezember</td><td>2000</td></tr>
+<tr><td colspan="2">Andorra</td><td>18. Oktober</td><td colspan="2">2022</td><td>19. Januar</td><td>2023</td></tr>
 <tr><td colspan="2">Armenien</td><td>23. März</td><td colspan="2">2004</td><td>24. Juni</td><td>2004</td></tr>
 <tr><td colspan="2">Aserbaidschan\*</td><td>11. Februar</td><td colspan="2">2004</td><td>12. Mai</td><td>2004</td></tr>
 <tr><td colspan="2">Belgien\* \*\*</td><td>31. Oktober</td><td colspan="2">1985</td><td>1. Februar</td><td>1986</td></tr>
@@ -188,6 +189,7 @@ Geltungsbereich am 16. März 2022**[^t-2]**
 <tr><td colspan="2">Montenegro</td><td>6. Juni</td><td colspan="2">2006 N</td><td>6. Juni</td><td>2006</td></tr>
 <tr><td colspan="2">Niederlande\*</td><td>18. April</td><td colspan="2">1985</td><td>19. Juli</td><td>1985</td></tr>
 <tr><td>Aruba</td><td colspan="3">10. Februar</td><td>2006</td><td>10. Februar</td><td colspan="2">2006</td></tr>
+<tr><td>Curaçao\*</td><td colspan="3">8. Dezember</td><td>2023</td><td>8. Dezember</td><td colspan="2">2023</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td colspan="3">10. Oktober</td><td>2010</td><td>10. Oktober</td><td colspan="2">2010</td></tr>
 <tr><td colspan="2">Nordmazedonien</td><td>29. November</td><td colspan="2">2004</td><td>1. März</td><td colspan="2">2004</td></tr>
 <tr><td colspan="2">Norwegen</td><td>10. Januar</td><td colspan="2">1980</td><td>11. April</td><td>1980</td></tr>
@@ -212,9 +214,7 @@ Geltungsbereich am 16. März 2022**[^t-2]**
 <tr><td colspan="2">[tab] Insel Man</td><td>24. Juli</td><td colspan="2">1978</td><td>25. Oktober</td><td>1978</td></tr>
 <tr><td colspan="2">[tab] Jersey</td><td>24. Juli</td><td colspan="2">1978</td><td>25. Oktober</td><td>1978</td></tr>
 <tr><td colspan="2">Zypern\*</td><td>26. Februar</td><td colspan="2">1979</td><td>27. Mai</td><td>1979</td></tr>
-<tr><td colspan="7">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite des Europarates: www.coe.int &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Datum der Hinterlegung der Ratifikationsurkunde der Tschechischen und Slowakischen Föderativen Republik. Geltungsbereich des Übereinkommens am 1. Oktober 1990</td></tr>
+<tr><td colspan="7">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarats: [http://conventions.coe.int](http://conventions.coe.int/) &gt; Français &gt; À propos &gt; Bureau des Traités &gt; Liste complète eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Datum der Hinterlegung der Ratifikationsurkunde der Tschechischen und Slowakischen Föderativen Republik. Geltungsbereich des Übereinkommens am 1. Oktober 1990</td></tr>
 </table>
 
-- [tab]
-
-[^t-2]: [AS 1983 1041](https://fedlex.data.admin.ch/eli/oc/1983/1041_1041_1041); [1985 1488](https://fedlex.data.admin.ch/eli/oc/1985/1488_1488_1488); [1986 474](https://fedlex.data.admin.ch/eli/oc/1986/474_474_474); [1987 775](https://fedlex.data.admin.ch/eli/oc/1987/775_775_775); [1989 166](https://fedlex.data.admin.ch/eli/oc/1989/166_166_166); [1990 1156](https://fedlex.data.admin.ch/eli/oc/1990/1156_1156_1156); [2004 3663](https://fedlex.data.admin.ch/eli/oc/2004/501); [2006 4247](https://fedlex.data.admin.ch/eli/oc/2006/642); [2009 603](https://fedlex.data.admin.ch/eli/oc/2009/106); [2014 801](https://fedlex.data.admin.ch/eli/oc/2014/176); [2019 1959](https://fedlex.data.admin.ch/eli/oc/2019/361); [2022 248](https://fedlex.data.admin.ch/eli/oc/2022/248). Eine aktualisierte Fassung des Geltungsbereichs dieser Übereinkommen und Protokolle ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.
+[^t-2]: [AS 1983 1041](https://fedlex.data.admin.ch/eli/oc/1983/1041_1041_1041); [1985 1488](https://fedlex.data.admin.ch/eli/oc/1985/1488_1488_1488); [1986 474](https://fedlex.data.admin.ch/eli/oc/1986/474_474_474); [1987 775](https://fedlex.data.admin.ch/eli/oc/1987/775_775_775); [1989 166](https://fedlex.data.admin.ch/eli/oc/1989/166_166_166); [1990 1156](https://fedlex.data.admin.ch/eli/oc/1990/1156_1156_1156); [2004 3663](https://fedlex.data.admin.ch/eli/oc/2004/501); [2006 4247](https://fedlex.data.admin.ch/eli/oc/2006/642); [2009 603](https://fedlex.data.admin.ch/eli/oc/2009/106); [2014 801](https://fedlex.data.admin.ch/eli/oc/2014/176); [2019 1959](https://fedlex.data.admin.ch/eli/oc/2019/361); [2022 248](https://fedlex.data.admin.ch/eli/oc/2022/248); [2025 535](https://fedlex.data.admin.ch/eli/oc/2025/535). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

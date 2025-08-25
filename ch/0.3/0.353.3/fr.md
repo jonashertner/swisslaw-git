@@ -3,11 +3,11 @@ sr: "0.353.3"
 title: Convention européenne du 27 janvier 1977 pour la répression du terrorisme
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1041_1041_1041"
 language: fr
-version: 2022-03-16
+version: 2025-08-26
 adopted: 1977-01-27
 in_force: 1983-08-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1041_1041_1041/20220316/fr/xml/fedlex-data-admin-ch-eli-cc-1983-1041_1041_1041-20220316-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1041_1041_1041/20220316/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1041_1041_1041/20250826/fr/xml/fedlex-data-admin-ch-eli-cc-1983-1041_1041_1041-20250826-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1041_1041_1041/20250826/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 19 mai 1983
 
 Entrée en vigueur pour la Suisse le 20 août 1983
 
-(Etat le 16 mars 2022)
+(État le 26 août 2025)
 
 [^t-1]: [RO 1983 1040](https://fedlex.data.admin.ch/eli/oc/1983/1040_1040_1040)
 
@@ -53,8 +53,8 @@ Pour les besoins de l’extradition entre États Contractants, aucune des infrac
 - e. les infractions comportant l’utilisation de bombes, grenades, fusées, armes à feu automatiques, ou de lettres ou colis piégés dans la mesure où cette utilisation présente un danger pour des personnes;
 - f. la tentative de commettre une des infractions précitées ou la participation en tant que co‑auteur ou complice d’une personne qui commet ou tente de commettre une telle infraction.
 
-[^1-1]: [RS 0.748.710.2](https://fedlex.data.admin.ch/eli/cc/1971/1513_1508_1509)
-[^1-2]: [RS 0.748.710.3](https://fedlex.data.admin.ch/eli/cc/1978/462_462_462)
+[^1-1]: [RS 0.748.710.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3309)
+[^1-2]: [RS 0.748.710.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3311)
 
 #### Art. 2
 
@@ -68,7 +68,7 @@ Pour les besoins de l’extradition entre États Contractants, aucune des infrac
 
 Les dispositions de tous traités et accords d’extradition applicables entre les États Contractants, y compris la Convention européenne d’extradition[^3-1], sont en ce qui concerne les relations entre États Contractants modifiées dans la mesure où elles sont incompatibles avec la présente Convention.
 
-[^3-1]: [RS 0.353.1](https://fedlex.data.admin.ch/eli/cc/1967/814_854_850)
+[^3-1]: [RS 0.353.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1400)
 
 #### Art. 4
 
@@ -98,7 +98,7 @@ Dans tous les cas, la loi applicable en ce qui concerne l’assistance mutuelle 
 
 <sup>3.</sup> Les dispositions de tous traités et accords d’entraide judiciaire en matière pénale applicables entre les États Contractants, y compris la Convention européenne d’entraide judiciaire en matière pénale[^8-1], sont en ce qui concerne les relations entre États Contractants modifiées dans la mesure où elles sont incompatibles avec la présente Convention.
 
-[^8-1]: [RS 0.351.1](https://fedlex.data.admin.ch/eli/cc/1967/831_871_866)
+[^8-1]: [RS 0.351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1352)
 
 #### Art. 9
 
@@ -165,12 +165,13 @@ Le Secrétaire Général du Conseil de l’Europe notifiera aux États membres d
 
 *En foi de quoi*, les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Strasbourg, le 27 janvier 1977, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des États signataires. (Suivent les signatures)
 
-Champ d’application le 16 mars 2022**[^t-2]**
+Champ d’application le 26 août 2025[^t-2]
 
 <table>
 <tr><th colspan="2">États parties</th><th colspan="2">Ratification Déclaration de succession (S)</th><th colspan="2"></th><th>Entrée en vigueur</th><th colspan="2"></th></tr>
 <tr><td colspan="2">Albanie</td><td colspan="2">21 septembre</td><td colspan="2">2000</td><td>22 décembre</td><td colspan="2">2000</td></tr>
 <tr><td colspan="2">Allemagne\* \*\*</td><td colspan="2">3 mai</td><td colspan="2">1978</td><td>4 août</td><td colspan="2">1978</td></tr>
+<tr><td colspan="2">Andorre</td><td colspan="2">18 octobre</td><td colspan="2">2022</td><td>19 janvier</td><td colspan="2">2023</td></tr>
 <tr><td colspan="2">Arménie</td><td colspan="2">23 mars</td><td colspan="2">2004</td><td>24 juin</td><td colspan="2">2004</td></tr>
 <tr><td colspan="2">Autriche</td><td colspan="2">11 août</td><td colspan="2">1977</td><td>4 août</td><td colspan="2">1978</td></tr>
 <tr><td colspan="2">Azerbaïdjan\*</td><td colspan="2">11 février</td><td colspan="2">2004</td><td>12 mai</td><td colspan="2">2004</td></tr>
@@ -202,6 +203,7 @@ Champ d’application le 16 mars 2022**[^t-2]**
 <tr><td colspan="2">Norvège</td><td colspan="2">10 janvier</td><td colspan="2">1980</td><td>11 avril</td><td colspan="2">1980</td></tr>
 <tr><td colspan="2">Pays-Bas\*</td><td colspan="2">18 avril</td><td colspan="2">1985</td><td>19 juillet</td><td colspan="2">1985</td></tr>
 <tr><td colspan="2">Aruba</td><td colspan="2">10 février</td><td colspan="2">2006</td><td>10 février</td><td colspan="2">2006</td></tr>
+<tr><td colspan="2">Curaçao\*</td><td colspan="2">8 décembre</td><td colspan="2">2023</td><td>8 décembre</td><td colspan="2">2023</td></tr>
 <tr><td colspan="2">Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td colspan="2">10 octobre</td><td colspan="2">2010</td><td>10 octobre</td><td colspan="2">2010</td></tr>
 <tr><td colspan="2">Pologne</td><td colspan="2">30 janvier</td><td colspan="2">1996</td><td>1<sup>er</sup> mai</td><td colspan="2">1996</td></tr>
 <tr><td colspan="2">Portugal\*</td><td colspan="2">14 décembre</td><td colspan="2">1981</td><td>15 mars</td><td colspan="2">1982</td></tr>
@@ -220,7 +222,7 @@ Champ d’application le 16 mars 2022**[^t-2]**
 <tr><td colspan="2">Suisse</td><td colspan="2">19 mai</td><td colspan="2">1983</td><td>20 août</td><td colspan="2">1983</td></tr>
 <tr><td colspan="2">Turquie</td><td colspan="2">19 mai</td><td colspan="2">1981</td><td>20 août</td><td colspan="2">1981</td></tr>
 <tr><td colspan="2">Ukraine\*</td><td colspan="2">13 mars</td><td colspan="2">2002</td><td>14 juin</td><td colspan="2">2002</td></tr>
-<tr><td colspan="9">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Date du dépôt de l’instrument de ratification de la République fédérative tchèque et slovaque.</td></tr>
+<tr><td colspan="9">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet du Conseil de l’Europe: [www.coe.int](https://www.coe.int/fr/web/conventions/) &gt; Français &gt; À propos &gt; Bureau des Traités &gt; Liste complète ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Date du dépôt de l’instrument de ratification de la République fédérative tchèque et slovaque.</td></tr>
 </table>
 
-[^t-2]: [RO 1983 1041](https://fedlex.data.admin.ch/eli/oc/1983/1041_1041_1041); [1985 1488](https://fedlex.data.admin.ch/eli/oc/1985/1488_1488_1488); [1986 474](https://fedlex.data.admin.ch/eli/oc/1986/474_474_474); [1987 775](https://fedlex.data.admin.ch/eli/oc/1987/775_775_775); [1989 166](https://fedlex.data.admin.ch/eli/oc/1989/166_166_166); [1990 1156](https://fedlex.data.admin.ch/eli/oc/1990/1156_1156_1156); [2004 3663](https://fedlex.data.admin.ch/eli/oc/2004/501); [2006 4247](https://fedlex.data.admin.ch/eli/oc/2006/642); [2009 603](https://fedlex.data.admin.ch/eli/oc/2009/106); [2014 801](https://fedlex.data.admin.ch/eli/oc/2014/176); [2019 1959](https://fedlex.data.admin.ch/eli/oc/2019/361); [2022 248](https://fedlex.data.admin.ch/eli/oc/2022/248). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty.
+[^t-2]: [RO 1983 1041](https://fedlex.data.admin.ch/eli/oc/1983/1041_1041_1041); [1985 1488](https://fedlex.data.admin.ch/eli/oc/1985/1488_1488_1488); [1986 474](https://fedlex.data.admin.ch/eli/oc/1986/474_474_474); [1987 775](https://fedlex.data.admin.ch/eli/oc/1987/775_775_775); [1989 166](https://fedlex.data.admin.ch/eli/oc/1989/166_166_166); [1990 1156](https://fedlex.data.admin.ch/eli/oc/1990/1156_1156_1156); [2004 3663](https://fedlex.data.admin.ch/eli/oc/2004/501); [2006 4247](https://fedlex.data.admin.ch/eli/oc/2006/642); [2009 603](https://fedlex.data.admin.ch/eli/oc/2009/106); [2014 801](https://fedlex.data.admin.ch/eli/oc/2014/176); [2019 1959](https://fedlex.data.admin.ch/eli/oc/2019/361); [2022 248](https://fedlex.data.admin.ch/eli/oc/2022/248); [2025 535](https://fedlex.data.admin.ch/eli/oc/2025/535). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
