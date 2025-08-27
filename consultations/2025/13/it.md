@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Nuova ordinanza sui dispositivi di sicurezza sull’imballaggio dei medicamenti a uso umano
 document: Progetto posto in consultazione
 language: it

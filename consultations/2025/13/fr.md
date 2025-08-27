@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Nouvelle ordonnance sur les dispositifs de sécurité sur les emballages de médicaments à usage humain
 document: Projet mis en consultation
 language: fr

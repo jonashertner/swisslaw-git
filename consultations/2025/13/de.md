@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Neue Verordnung über die individuellen Erkennungsmerkmale und Sicherheitsvorrichtungen auf der Verpackung von Humanarzneimitteln
 document: Vernehmlassungsvorlage
 language: de
