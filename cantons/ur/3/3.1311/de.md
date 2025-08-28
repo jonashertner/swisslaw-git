@@ -1,32 +1,34 @@
 ---
 canton: UR
 number: "3.1311"
-title: Reglement über die amtliche Publikation
+title: REGLEMENT über die amtliche Publikation
 short: "Publikationsreglement, PuR"
 language: de
 version: 2022-01-01
+corrected: 2025-08-29
 version_adopted: 2021-10-19
 adopted: 2021-10-19
 in_force: 2022-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.1311"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/1088/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/88/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über die amtliche Publikation
+# REGLEMENT über die amtliche Publikation
 
-(Publikationsreglement, PuR)
+REGLEMENT über die amtliche Publikation (Publikationsreglement, PuR)
 
-Vom 19.10.2021 (Stand 01.01.2022)
+(vom 19. Oktober 2021[^t-1]; Stand am 1. Januar 2022)
 
-Der Regierungsrat des Kantons Uri,
-
-gestützt auf Artikel 7 und 19 des Gesetzes vom 26. September 2021 über die amtliche Publikation (Publikationsgesetz, PuG, RB [3.1310](https://rechtsbuch.ur.ch/data/3.1310/de)),
+Der Regierungsrat des Kantons Uri, gestützt auf Artikel 7 und 19 des Gesetzes vom 26. September 2021 über die amtliche Publikation (Publikationsgesetz, PuG)<sup>2</sup>,
 
 beschliesst:
 
-## 1 Amtsblatt
+[^t-1]: AB vom 5. November 2021
+
+### 1. Abschnitt: Amtsblatt
 
 #### Artikel 1
 
@@ -42,23 +44,27 @@ beschliesst:
 
 <sup>1</sup> Die Veröffentlichung eines Erlasses oder einer interkantonalen Vereinbarung im Amtsblatt kann auf die Angabe von Titel und Fundstelle oder Bezugsquelle beschränkt werden, wenn eine besondere Vorschrift dies anordnet oder sich der Erlass oder die interkantonale Vereinbarung aufgrund des besonderen Charakters für eine vollständige Veröffentlichung nicht eignet, insbesondere wenn die Texte:
 
-- a) nur einen kleinen Kreis von Personen betreffen
-- b) technischer Natur sind und sich nur an Fachleute richten
-- c) in einem anderen Format veröffentlicht werden müssen
+- a) nur einen kleinen Kreis von Personen betreffen;
 
-<sup>2</sup> Die Veröffentlichung eines Erlasses oder einer interkantonalen Vereinbarung im Amtsblatt kann ausserdem auf die Angabe von Titel und Fundstelle oder Bezugsquelle beschränkt werden, wenn die Texte:
+- b) technischer Natur sind und sich nur an Fachleute richten;
 
-- a) durch den Bund oder eine interkantonale Organisation in schriftlicher oder elektronischer Form veröffentlicht werden
-- b) in einem in der Schweiz zugänglichen offiziellen Publikationsorgan veröffentlicht werden
-- c) von untergeordneter Bedeutung sind
+- c) in einem anderen Format veröffentlicht werden müssen.
+
+2 Die Veröffentlichung eines Erlasses oder einer interkantonalen Vereinbarung im Amtsblatt kann ausserdem auf die Angabe von Titel und Fundstelle oder Bezugsquelle beschränkt werden, wenn die Texte:
+
+- a) durch den Bund oder eine interkantonale Organisation in schriftlicher oder elektronischer Form veröffentlicht werden;
+
+- b) in einem in der Schweiz zugänglichen offiziellen Publikationsorgan veröffentlicht werden;
+
+- c) von untergeordneter Bedeutung sind.
 
 #### Artikel 3
 
 **Kosten und Gebühren**
 
-<sup>1</sup> Der Einzelverkaufs- und Abonnementspreis sowie die Tarife für die amtlichen Anzeigen und Inserate des Amtsblatts werden vom Landammannamt festgelegt.
+Der Einzelverkaufs- und Abonnementspreis sowie die Tarife für die amtlichen Anzeigen und Inserate des Amtsblatts werden vom Landammannamt festgelegt.
 
-## 2 Rechtsbuch
+### 2. Abschnitt: Rechtsbuch
 
 #### Artikel 4
 
@@ -66,9 +72,11 @@ beschliesst:
 
 <sup>1</sup> Für die Erlasse der zur Rechtsetzung befugten Instanzen werden grundsätzlich folgende Begriffe verwendet:
 
-- a) «Gesetz» als Erlass des Volks
-- b) «Verordnung» als Erlass des Landrats
-- c) «Reglement» als Erlass des Regierungsrats, der Direktionen, des Erziehungsrats, des Mittelschulrats und der Gerichte
+- a) «Gesetz» als Erlass des Volks;
+
+- b) «Verordnung» als Erlass des Landrats;
+
+- c) «Reglement» als Erlass des Regierungsrats, der Direktionen, des Erziehungsrats, des Mittelschulrats und der Gerichte.
 
 <sup>2</sup> Für Verwaltungsverordnungen mit Aussenwirkung bleiben Bezeichnungen wie Weisungen, Richtlinien und dergleichen vorbehalten.
 
@@ -84,32 +92,38 @@ beschliesst:
 
 **Nichtaufnahme**
 
-<sup>1</sup> In das Rechtsbuch nicht aufzunehmen sind:
+In das Rechtsbuch nicht aufzunehmen sind:
 
-- a) Verwaltungsvereinbarungen und Beschlüsse der Behörden ohne rechtsetzenden oder allgemeinverbindlichen Charakter
-- b) verwaltungsinterne Weisungen und Richtlinien ohne Aussenwirkung
-- c) Beschlüsse über das Budget und die Jahresrechnung
-- d) Kreditbeschlüsse einschliesslich Rahmenkredit- und Globalkreditbeschlüsse
-- e) Konzessionen
+- a) Verwaltungsvereinbarungen und Beschlüsse der Behörden ohne rechtsetzenden oder allgemeinverbindlichen Charakter;
 
-## 3 Schlussbestimmungen
+- b) verwaltungsinterne Weisungen und Richtlinien ohne Aussenwirkung;
+
+- c) Beschlüsse über das Budget und die Jahresrechnung;
+
+- d) Kreditbeschlüsse einschliesslich Rahmenkredit- und Globalkreditbeschlüsse;
+
+- e) Konzessionen.
+
+### 3. Abschnitt: Schlussbestimmungen
 
 #### Artikel 7
 
 **Vollzug**
 
-<sup>1</sup> Das Landammannamt vollzieht dieses Reglement.
+Das Landammannamt vollzieht dieses Reglement.
 
 #### Artikel 8
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Das Reglement vom 20. Juni 1983 über das Amtsblatt und das Rechtsbuch wird aufgehoben.
+Das Reglement vom 20. Juni 1983 über das Amtsblatt und das Rechtsbuch<sup>3</sup> wird aufgehoben.
 
 #### Artikel 9
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Reglement tritt am 1. Januar 2022 in Kraft.
+Dieses Reglement tritt am 1. Januar 2022 in Kraft.
 
-AB 05.11.2021
+Im Namen des Regierungsrats
+
+Der Landammann: Urban Camenzind Der Kanzleidirektor: Roman Balli
