@@ -1,32 +1,35 @@
 ---
 canton: UR
 number: "10.4113"
-title: Reglement über die Förderung des Sports
+title: REGLEMENT über die Förderung des Sports
 short: Sportreglement
 language: de
-version: 2025-08-01
-version_adopted: 2025-08-19
+version: 2023-08-01
+corrected: 2025-08-29
+version_adopted: 2023-08-16
 adopted: 2012-02-07
 in_force: 2012-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.4113"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/1094/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/346/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über die Förderung des Sports
+# REGLEMENT über die Förderung des Sports
 
-(Sportreglement)
+REGLEMENT über die Förderung des Sports (Sportreglement)
 
-Vom 07.02.2012 (Stand 01.08.2025)
+(vom 7. Februar 2012[^t-1]; Stand am 1. August 2023)
 
-Der Regierungsrat des Kantons Uri,
-
-gestützt auf Artikel 23 der Verordnung vom 20. September 2006 über die Förderung des Sports (Sportverordnung, RB [10.4111](https://rechtsbuch.ur.ch/data/10.4111/de)),
+Der Regierungsrat des Kantons Uri, gestützt auf Artikel 23 der Verordnung vom 20. September 2006 über die Förderung des Sports (Sportverordnung)[^t-2],
 
 beschliesst:
 
-## 1 Allgemeine Bestimmungen
+[^t-1]: AB vom 16. März 2012
+[^t-2]: RB 10.4111
+
+### 1. Kapitel: ALLGEMEINE BESTIMMUNGEN
 
 #### Artikel 1
 
@@ -34,42 +37,47 @@ beschliesst:
 
 <sup>1</sup> Private Sportverbände und Sportvereine sowie andere private Organisationen, die sich der Sportförderung widmen, können Beiträge nach diesem Reglement erhalten, wenn sie:
 
-- a) ihren Sitz im Kanton Uri haben
-- b) über eine klare Rechtsstruktur verfügen
-- c) ihre sportlichen Aktivitäten am Ziel der Sportförderung nach Artikel 2 der Sportverordnung ausrichten
-- d) die weiteren Voraussetzungen nach diesem Reglement erfüllen
+- a) ihren Sitz im Kanton Uri haben;
+
+- b) über eine klare Rechtsstruktur verfügen;
+
+- c) ihre sportlichen Aktivitäten am Ziel der Sportförderung nach Artikel 2 der Sportverordnung ausrichten;
+
+- d) die weiteren Voraussetzungen nach diesem Reglement erfüllen.
 
 <sup>2</sup> Keine Beiträge nach diesem Reglement erhalten private Organisationen, die touristisch oder kommerziell ausgerichtet sind. Ausgenommen davon sind Beiträge an nicht kommerziell genutzte Infrastrukturanlagen, die weitgehend dem Ziel der Sportförderung nach Artikel 2 der Sportverordnung entsprechen.
 
-## 2 Sportförderung
+### 2. Kapitel: SPORTFÖRDERUNG
 
-### 2.1 Jugendförderung
+### 1. Abschnitt: Jugendförderung
 
 #### Artikel 2
 
-**Kindersport: Begriff**
+**Kindersport**
+
+- a) Begriff
 
 <sup>1</sup> Kindersport entwickelt die koordinativen Fähigkeiten und konditionellen Grundlagen unter Berücksichtigung des psychomotorischen Entwicklungsstands der Kinder.
 
 <sup>2</sup> Kindersport wird in der Regel polysportiv oder Sportarten-übergreifend angeboten.
 
-#### Artikel 3
+#### Artikel 3 b
 
-**Kindersport: Beiträge**
+**) Beiträge**
 
-<sup>1</sup> Beiträge an private Organisationen, die sich der Sportförderung von Kindern widmen, werden ausgerichtet, wenn:
+<sup>1</sup> Beiträge an private Organisationen, die sich der Sportförderung von Kindern widmen, werden ausgerichtet, wenn a) das Sportprogramm von der Abteilung Sport genehmigt ist;
 
-- a) das Sportprogramm von der Abteilung Sport genehmigt ist
-- b) die Leiterinnen und Leiter über eine besondere, auf die Altersstufe und das Programm ausgerichtete Aus- oder Weiterbildung verfügen
-- c) das Sportprogramm mindestens eine Aktivität pro Woche während mindestens 15 Wochen umfasst. Begründete Unterbrüche sind zulässig
-- d) die entsprechenden Weisungen des Bundes eingehalten werden
-- e) die entsprechende Schule als Mitorganisatorin auftritt und das Sportprogramm vor oder anschliessend an den schulischen Unterricht stattfindet
+- b) die Leiterinnen und Leiter über eine besondere, auf die Altersstufe und das Programm ausgerichtete Aus- oder Weiterbildung verfügen;
+
+- c) das Sportprogramm mindestens eine Aktivität pro Woche während mindestens 15 Wochen umfasst. Begründete Unterbrüche sind zulässig;
+
+- d) die entsprechenden Weisungen des Bundes eingehalten werden;
+
+- e) die entsprechende Schule als Mitorganisatorin auftritt und das Sportprogramm vor oder anschliessend an den schulischen Unterricht stattfindet.
 
 <sup>2</sup> Pro gehaltene Lektion wird ein Beitrag von 20 Franken ausgerichtet.
 
-#### Artikel 3b
-
-**Jugend-Ausdauertest**
+Artikel 3b[^3b-1] Jugend-Ausdauertest
 
 <sup>1</sup> In Ergänzung zum Programm Jugend und Sport des Bunds richtet der Kanton Beiträge an Jugend-Ausdauertests aus.
 
@@ -77,27 +85,37 @@ beschliesst:
 
 <sup>3</sup> Beitragsberechtigt sind Jugend-Ausdauertests, wenn ihnen eine körperlich intensive Leistung über einen längeren Zeitrahmen zugrunde liegt. Die Abteilung Sport definiert die beitragsberechtigten Disziplinen und die einzuhaltenden Rahmenbedingungen.
 
+[^3b-1]: Eingefügt durch RRB vom 13. Januar 2015, in Kraft gesetzt auf den 1. Februar 2015 (AB vom 23. Januar 2015).
+
 #### Artikel 4
 
 **Beiträge an kantonale und regionale Jugendsportanlässe**
 
-<sup>1</sup> Beiträge an kantonale und regionale Jugendsportanlässe gemäss Artikel 8 der Verordnung über die Förderung des Sports (Sportverordnung, RB [10.4111](https://rechtsbuch.ur.ch/data/10.4111/de)) werden ausgerichtet, wenn die Abteilung Sport als Organisatorin oder Mitorganisatorin auftritt oder der Anlass kantonaler Natur ist, eine grosse Breitenwirkung hat, mehrere Sportarten umfasst und mehrere Tage dauert.
+<sup>1</sup> Beiträge an kantonale und regionale Jugendsportanlässe gemäss Artikel 8 der Verordnung über die Förderung des Sports (Sportverordnung)[^4-1] werden ausgerichtet, wenn die Abteilung Sport als Organisatorin oder Mitorganisatorin auftritt oder der Anlass kantonaler Natur ist, eine grosse Breitenwirkung hat, mehrere Sportarten umfasst und mehrere Tage dauert.[^4-2]
 
 <sup>2</sup> Beiträge an nationale Jugend-Sportlager können gewährt werden, wenn das entsprechende Lager eine Breitensportförderung zum Ziel hat. Beiträge können auch Organisationen gewährt werden, die Artikel 1 Absatz 1 Buchstabe a nicht erfüllen. Der Beitrag berücksichtigt die Anzahl Teilnehmerinnen und Teilnehmer mit Wohnsitz im Kanton Uri.
 
-<sup>3</sup> Für Anlässe im Rahmen der Urner Schulsportmeisterschaften wird ein Grundbeitrag von 700 Franken und von 3 Franken pro teilnehmende Person ausgerichtet. Für die Teilnahme an schweizerischen Schulsportmeisterschaften übernimmt der Kanton die Kosten der Reise und der Anmeldegebühren und beteiligt sich mit 5 Franken pro Person an den Kosten der Verpflegung.
+<sup>3</sup> Für Anlässe im Rahmen der Urner Schulsportmeisterschaften wird ein Grundbeitrag von 700 Franken und von 3 Franken pro teilnehmende Person ausgerichtet. Für die Teilnahme an schweizerischen Schulsportmeisterschaften übernimmt der Kanton die Kosten der Reise und der Anmeldegebühren und beteiligt sich mit 5 Franken pro Person an den Kosten der Verpflegung.[^4-3]
+
+[^4-1]: RB 10.4111
+[^4-2]: Fassung gemäss RRB vom 13. Januar 2015, in Kraft gesetzt auf den 1. Februar 2015 (AB vom 23. Januar 2015).
+[^4-3]: Eingefügt durch RRB vom 13. Januar 2015, in Kraft gesetzt auf den 1. Februar 2015 (AB vom 23. Januar 2015).
 
 #### Artikel 5
 
 **Beiträge an Organisationen**
 
-<sup>1</sup> Private Organisationen, die sich der Sportförderung von Kindern und Jugendlichen widmen und regelmässige Trainings für Kinder und Jugendliche durchführen, erhalten für die Teilnehmerinnen oder Teilnehmer ab dem Jahr, in dem die Schulpflicht beginnt, bis Ende des Jahrs, in dem das 20. Altersjahr vollendet wird, einen Beitrag. Der Beitrag pro Jahr beträgt 5 Franken pro Teilnehmerin und Teilnehmer und 45 Rappen pro Teilnehmerin und Teilnehmer und Trainingsstunde.
+Private Organisationen, die sich der Sportförderung von Kindern und Jugendlichen widmen und regelmässige Trainings für Kinder und Jugendliche durchführen, erhalten für die Teilnehmerinnen oder Teilnehmer ab dem Jahr, in dem die Schulpflicht beginnt, bis Ende des Jahrs, in dem das 20. Altersjahr vollendet wird, einen Beitrag. Der Beitrag pro Jahr beträgt 5 Franken pro Teilnehmerin und Teilnehmer und 45 Rappen pro Teilnehmerin und Teilnehmer und Trainingsstunde.[^5-1]
 
-### 2.2 Nachwuchsförderung
+[^5-1]: Fassung gemäss RRB vom 26. November 2013, in Kraft gesetzt auf den 1. Januar 2013 (AB vom 6. Dezember 2013).
+
+### 2. Abschnitt: Nachwuchsförderung
+
+[^h2AbschnittNachwu-1]: Aufgehoben durch RRB vom 16. August 2023, in Kraft gesetzt auf den 1. August 2023 (AB vom 25. August 2023).
 
 #### Artikel 6
 
-**…**
+[^h2AbschnittNachwu-1]
 
 #### Artikel 7
 
@@ -107,55 +125,75 @@ beschliesst:
 
 <sup>2</sup> Unabhängig von Beiträgen nach Absatz 1 erhalten Nachwuchssportlerinnen und Nachwuchssportler mit Wohnsitz im Kanton Uri, wenn sie Mitglied eines regionalen, nationalen oder internationalen Kaders sind, auf Gesuch hin folgenden jährlichen Beitrag:
 
-- a) Mitglied in einem von der Bildungs- und Kulturdirektion anerkannten regionalen Kader 500 Franken
-- b) Mitglied in einem von der Bildungs- und Kulturdirektion anerkannten nationalen Kader oder im Besitz einer nationalen Swiss Olympic Talents Card 1'500 Franken
-- c) m Besitz einer internationalen Swiss Olympic Talents Card 2'000 Franken
+- a) Mitglied in einem von der Bildungs- und Kulturdirektion anerkannten regionalen Kader 500 Franken;
+
+- b) Mitglied in einem von der Bildungs- und Kulturdirektion anerkannten nationalen Kader oder im Besitz einer nationalen Swiss Olympic Talents Card 1 500 Franken;
+
+- c) m Besitz einer internationalen Swiss Olympic Talents Card 2 000 Franken.
 
 <sup>3</sup> Der Beitrag nach Absatz 2 wird nur ausbezahlt, wenn ein entsprechender Nettoaufwand für das Ausüben der entsprechenden Sportart ausgewiesen wird.
 
-### 2.2a Leistungssportförderung
+[^7-1]: Eingefügt durch RRB vom 23. Oktober 2018, in Kraft gesetzt auf den 1. Januar 2019 (AB vom 9. November 2018).
+
+### 2a. Abschnitt: Leistungssportförderung
+
+[^7-1]
 
 #### Artikel 7a
 
-**Individuelle Förderbeiträge an Elitesportlerinnen und Elitesportler**
+**Individuelle Förderbeiträge an Elitesportlerinnen**
+
+und Elitesportler
 
 <sup>1</sup> Elitesportlerinnen und Elitesportler, die die Voraussetzungen der Sportverordnung erfüllen, werden mit einem Beitrag unterstützt. Dieser beträgt pro Jahr höchstens:
 
-- a) 12'000 Franken für olympische Sportarten
-- b) 6'000 Franken für nichtolympische oder paralympische Sportarten
+- a) 12 000 Franken für olympische Sportarten;
 
-<sup>2</sup> Die Bildungs- und Kulturdirektion erlässt Richtlinien für die Bemessung des finanziellen Bedarfs und der Beitragshöhe.
+- b) 6 000 Franken für nichtolympische oder paralympische Sportarten.
 
-### 2.3 Erwachsenensport
+2 Die Bildungs- und Kulturdirektion erlässt Richtlinien für die Bemessung des finanziellen Bedarfs und der Beitragshöhe.
+
+### 3. Abschnitt: Erwachsenensport
 
 #### Artikel 8
 
 **Begriff**
 
-<sup>1</sup> Erwachsenensport umfasst alle sportlichen Aktivitäten von Personen im Alter von über 20 Jahren.
+Erwachsenensport umfasst alle sportlichen Aktivitäten von Personen im Alter von über 20 Jahren.
 
 #### Artikel 9
 
 **Beiträge**
 
-<sup>1</sup> Private Organisationen, die sich auf kantonaler Ebene der Sportförderung von Personen fortgeschrittenen Alters widmen oder besondere Koordinationsaufgaben im Bereich des Erwachsenensports wahrnehmen, können einen Beitrag erhalten. Die Bildungs- und Kulturdirektion schliesst mit den entsprechenden privaten Organisationen Leistungsvereinbarungen ab, die die Art der Leistung und deren Abgeltung regeln.
+<sup>1</sup> Private Organisationen, die sich auf kantonaler Ebene der Sportförderung von Personen fortgeschrittenen Alters widmen oder besondere Koordinationsaufgaben im Bereich des Erwachsenensports wahrnehmen, können einen Beitrag erhalten. Die Bildungs- und Kulturdirektion schliesst mit den entsprechenden privaten Organisationen Leistungsvereinbarungen ab, die die Art der Leistung und deren Abgeltung regeln.[^9-1]
 
 <sup>2</sup> Private Organisationen, die sich der Sportförderung widmen und die mit Mannschaften an einem Meisterschaftsbetrieb der Aktivliga oder in der Erwachsenenkategorie teilnehmen, erhalten pro teilnehmende Mannschaft einen Beitrag gemäss nachstehender Tabelle:
 
-- a) Anzahl Meisterschaftsspiele pro Saison: 2 bis 6 Spiele / Runden / Wettkämpfe:
-  - 1\. 2 bis 3 Spieler/innen (Anzahl Spieler/innen pro Team, die mindestens benötigt werden), normale Pauschale: — 100 Franken
-  - 2\. 2 bis 3 Spieler/innen (Anzahl Spieler/innen pro Team, die mindestens benötigt werden), höchste oder zweithöchste Aktivliga oder Erwachsenenkategorie: — 200 Franken
-  - 3\. ab 4 Spieler/innen (Anzahl Spieler/innen pro Team, die mindestens benötigt werden), normale Pauschale: — 200 Franken
-  - 4\. ab 4 Spieler/innen (Anzahl Spieler/innen pro Team, die mindestens benötigt werden), höchste oder zweithöchste Aktivliga oder Erwachsenenkategorie: — 500 Franken
-- b) Anzahl Meisterschaftsspiele pro Saison: ab 7 Spielen / Runden / Wettkämpfen:
-  - 1\. 2 bis 3 Spieler/innen (Anzahl Spieler/innen pro Team, die mindestens benötigt werden), normale Pauschale: — 150 Franken
-  - 2\. 2 bis 3 Spieler/innen (Anzahl Spieler/innen pro Team, die mindestens benötigt werden), höchste oder zweithöchste Aktivliga oder Erwachsenenkategorie: — 300 Franken
-  - 3\. ab 4 Spieler/innen (Anzahl Spieler/innen pro Team, die mindestens benötigt werden), normale Pauschale: — 300 Franken
-  - 4\. ab 4 Spieler/innen (Anzahl Spieler/innen pro Team, die mindestens benötigt werden), höchste oder zweithöchste Aktivliga oder Erwachsenenkategorie: — 900 Franken
+Anzahl Meisterschaftsspiele pro Saison
+
+ab 7
+
+**Spielen/Runden/Wettkämp-**
+
+2 bis 6
+
+**fen höchste oder**
+
+Spiele/Runden/Wettkämpfe
+
+Anzahl Spieler/innen Normale höchste oder Normale pro Team, die mindes- Pauschale zweithöchste Pauschale zweithöchste tens benötigt werden Aktivliga oder Erwachsenen-
+
+**Aktivliga oder Erwachsenen-**
+
+kategorie
+
+kategorie 2 bis 3 Spieler/innen 100 Franken 200 Franken 150 Franken 300 Franken ab 4 Spieler/innen 200 Franken 500 Franken 300 Franken 900 Franken
 
 <sup>3</sup> Als Meisterschaftsbetrieb gemäss Absatz 2 gelten zwei und mehr Wettkämpfe, die am Schluss zu einer Gesamtrangliste führen.
 
-### 2.4 Weitere Förderungsmassnahmen
+[^9-1]: Fassung gemäss RRB vom 13. Januar 2015, in Kraft gesetzt auf den 1. Februar 2015 (AB vom 23. Januar 2015).
+
+### 4. Abschnitt: Weitere Förderungsmassnahmen
 
 #### Artikel 10
 
@@ -177,29 +215,33 @@ beschliesst:
 
 #### Artikel 12
 
-**Beiträge an die Erstellung und Sanierung von Sportanlagen und Anlageteilen: Grundsatz**
+**Beiträge an die Erstellung und Sanierung**
+
+von Sportanlagen und Anlageteilen a) Grundsatz
 
 <sup>1</sup> Beiträge an die Erstellung und Sanierung von Sportanlagen oder Anlageteilen werden ausgerichtet, wenn die Anlage hauptsächlich dem organisierten Vereinssport oder dem ungebundenen Freizeitsport dient, die massgebenden Vorschriften eingehalten werden und die Finanzierung und Tragbarkeit sichergestellt sind.
 
 <sup>2</sup> Die Höhe des Beitrags richtet sich insbesondere nach folgenden Kriterien: regionale Ausrichtung, Funktionalität, nachhaltiges Energiekonzept, kostengünstige Bauweise und Verfügbarkeit.
 
-<sup>3</sup> An die Erstellung und Sanierung von Sportanlagen oder Anlageteilen wird ein Beitrag von 10 bis 20 Prozent der anrechenbaren Bruttobausumme ausgerichtet, höchstens jedoch 200'000 Franken sowie 5 Franken pro ausgewiesene Frondienststunde.
+<sup>3</sup> An die Erstellung und Sanierung von Sportanlagen oder Anlageteilen wird ein Beitrag von 10 bis 20 Prozent der anrechenbaren Bruttobausumme ausgerichtet, höchstens jedoch 200 000 Franken sowie 5 Franken pro ausgewiesene Frondienststunde.
 
 <sup>4</sup> Nicht beitragsberechtigt sind die Erstellung und Sanierung von Sportanlagen oder Anlageteilen, die aufgrund eines gesetzlichen Auftrags durchzuführen sind, vorwiegend kommerziellen Zwecken dienen oder aus Überlegungen des Umweltschutzes abzulehnen sind. Nicht beitragsberechtigt sind zudem bauliche Massnahmen und Sanierungen, die aufgrund der Umweltgesetzgebung ausgeführt werden müssen.
 
 <sup>5</sup> Gesuche um Beiträge sind vor Baubeginn einzureichen.
 
-#### Artikel 12a
+[^12-1]: Aufgehoben durch RRB vom 16. August 2023, in Kraft gesetzt auf den 1. August 2023 (AB vom 25. August 2023).
 
-**…**
+### Artikel 12a
 
-#### Artikel 13
+[^12-1]
 
-**Beiträge an die Erstellung und Sanierung von Sportanlagen und Anlageteilen: zinslose Darlehen**
+#### Artikel 13 b
+
+**) zinslose Darlehen**
 
 <sup>1</sup> Für die Erstellung und Sanierung von Sportanlagen oder Anlageteilen und für die Anschaffung von Sportgeräten können die Beträge in Form von zinslosen Darlehen gewährt werden.
 
-<sup>2</sup> Der Darlehensanteil beträgt maximal 40 Prozent der Differenz aus den anrechenbaren Bruttobaukosten abzüglich der Beiträge der öffentlichen Hand, höchstens jedoch 100'000 Franken.
+<sup>2</sup> Der Darlehensanteil beträgt maximal 40 Prozent der Differenz aus den anrechenbaren Bruttobaukosten abzüglich der Beiträge der öffentlichen Hand, höchstens jedoch 100 000 Franken.
 
 <sup>3</sup> Private Organisationen, die sich der Sportförderung widmen, die für dasselbe Vorhaben Darlehen des Bundes auslösen können, erhalten kein Darlehen nach dieser Bestimmung.
 
@@ -214,8 +256,6 @@ beschliesst:
 <sup>2</sup> Entstehen Sportvereinen überdurchschnittlich hohe Kosten durch die Miete von Sportanlagen, können ihnen Beiträge von bis zu 50 Prozent der ausgewiesenen Mietkosten ausgerichtet werden. Keine Beiträge werden ausgerichtet an die Miete von Sportanlagen, die sich im Besitz der öffentlichen Hand befinden oder die mit wesentlichen Beiträgen der öffentlichen Hand finanziert werden.
 
 <sup>3</sup> Private Organisationen, die Sportanlagen unterhalten, die in erster Linie dem ungebundenen Freizeitsport dienen, wie etwa VITA-Parcours und Langlaufloipen, erhalten Pauschalbeiträge. Die Bildungs- und Kulturdirektion schliesst mit den entsprechenden privaten Organisationen Leistungsvereinbarungen ab. Die Leistungsvereinbarungen regeln die Art der Leistung und deren Abgeltung.
-
-<sup>4</sup> Im Ausnahmefall kann der Regierungsrat Beiträge an den Betrieb und Unterhalt von Sportanlagen sprechen, die sich im Besitz von öffentlich-rechtlichen Trägerschaften befinden, sofern diese von überregionalem Interesse sind und vornehmlich dem Vereins- und Freizeitsport dienen. Beiträge an öffentlich-rechtliche Trägerschaften werden im Rahmen einer Leistungsvereinbarung geleistet.
 
 #### Artikel 15
 
@@ -243,7 +283,7 @@ beschliesst:
 
 **Beiträge an Sportanlässe**
 
-<sup>1</sup> An private Organisationen, die kantonale, regionale und nationale Sportanlässe im Kanton Uri durchführen, können Pauschalbeiträge von 300 Franken bis 3'000 Franken ausgerichtet werden. An private Organisationen, die internationale Sportanlässe im Kanton Uri durchführen, können Pauschalbeiträge bis 10'000 Franken ausgerichtet werden.
+<sup>1</sup> An private Organisationen, die kantonale, regionale und nationale Sportanlässe im Kanton Uri durchführen, können Pauschalbeiträge von 300 bis 3 000 Franken ausgerichtet werden. An private Organisationen, die internationale Sportanlässe im Kanton Uri durchführen, können Pauschalbeiträge bis 10 000 Franken ausgerichtet werden.[^17-1]
 
 <sup>2</sup> Ist ein Anlass im Kanton Uri geplant und muss dieser aus Gründen der Witterung (beispielsweise wegen Schneemangels) an einen ausserkantonalen Ort verlegt werden, werden gleichwohl Beiträge ausgerichtet.
 
@@ -251,7 +291,9 @@ beschliesst:
 
 <sup>4</sup> Keine Beiträge werden ausgerichtet, wenn bereits ein Beitrag nach Artikel 4 gewährt wird oder wenn es sich um Sportanlässe im Rahmen des ordentlichen Meisterschaftsbetriebs oder um solche mit vereinsinterner Ausrichtung handelt wie Klubrennen, Grümpelturniere, Sponsorenläufe und dergleichen.
 
-### 2.5 Sport von Menschen mit einer Behinderung
+[^17-1]: Fassung gemäss RRB vom 16. August 2023, in Kraft gesetzt auf den 1. August 2023 (AB vom 25. August 2023).
+
+### 5. Abschnitt: Sport von Menschen mit einer Behinderung
 
 #### Artikel 18
 
@@ -259,7 +301,7 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat und die Bildungs- und Kulturdirektion können im Rahmen ihrer Zuständigkeiten abweichend von den Bestimmungen dieses Reglements weitere sportliche Aktivitäten unterstützen, soweit das angebracht erscheint.
 
-## 3 Finanzielle Bestimmungen
+### 3. Kapitel: FINANZIELLE BESTIMMUNGEN
 
 #### Artikel 19
 
@@ -267,9 +309,11 @@ beschliesst:
 
 <sup>1</sup> Beiträge an private Organisationen nach Artikel 5, Artikel 9 Absatz 2, Artikel 11, Artikel 14 Absatz 1 und 2 und Artikel 15 werden einmal jährlich auf entsprechendes Gesuch hin ausbezahlt. Die Abteilung Sport stellt die entsprechenden Unterlagen zur Verfügung, prüft die Eingaben und stellt der Bildungs- und Kulturdirektion einen Auszahlungsantrag.
 
-<sup>2</sup> Gesuche nach Artikel 7, Artikel 7a, Artikel 12, Artikel 13 und Artikel 17 können im Einzelfall bei der Abteilung Sport eingereicht werden. Gesuche sind in der Regel einzureichen, bevor die entsprechenden Massnahmen umgesetzt werden.
+2 Gesuche nach Artikel 7, Artikel 7a, Artikel 12, Artikel 13 und Artikel 17 können im Einzelfall bei der Abteilung Sport eingereicht werden.[^19-1] Gesuche sind in der Regel einzureichen, bevor die entsprechenden Massnahmen umgesetzt werden.
 
 <sup>3</sup> Für nicht fristgerecht eingereichte Gesuche werden keine Beiträge ausgerichtet. Beiträge, die zu Unrecht bezogen wurden, werden zurückgefordert.
+
+[^19-1]: Fassung gemäss RRB vom 23. Oktober 2018, in Kraft gesetzt auf den 1. Januar 2019 (AB vom 9. November 2018).
 
 #### Artikel 20
 
@@ -277,7 +321,9 @@ beschliesst:
 
 <sup>1</sup> Beiträge, deren Höhe sich eindeutig aus diesem Reglement ergibt, verfügt die Bildungs- und Kulturdirektion.
 
-<sup>2</sup> Beiträge, bei denen nach diesem Reglement ein Ermessensspielraum besteht, verfügt bis zu einem Betrag von 12'000 Franken die Bildungs- und Kulturdirektion, darüber der Regierungsrat.
+<sup>2</sup> Beiträge, bei denen nach diesem Reglement ein Ermessensspielraum besteht, verfügt bis zu einem Betrag von 12 000 Franken die Bildungs- und Kulturdirektion, darüber der Regierungsrat.[^20-1]
+
+[^20-1]: Fassung gemäss RRB vom 23. Oktober 2018, in Kraft gesetzt auf den 1. Januar 2019 (AB vom 9. November 2018).
 
 #### Artikel 21
 
@@ -285,9 +331,9 @@ beschliesst:
 
 <sup>1</sup> Auf Beiträge nach diesem Reglement besteht kein Rechtsanspruch, sofern sich ein solcher nicht aus der Sportverordnung ergibt.
 
-<sup>2</sup> Beiträge nach diesem Reglement werden nur im Rahmen der bewilligten Kredite oder im Rahmen der finanziellen Mittel geleistet, die dem Sport- Fonds zur Verfügung stehen.
+<sup>2</sup> Beiträge nach diesem Reglement werden nur im Rahmen der bewilligten Kredite oder im Rahmen der finanziellen Mittel geleistet, die dem Sport-Fonds zur Verfügung stehen.
 
-## 4 Organisation
+### 4. Kapitel: ORGANISATION
 
 #### Artikel 22
 
@@ -297,21 +343,22 @@ beschliesst:
 
 <sup>2</sup> Zudem hat sie:
 
-- a) der Bildungs- und Kulturdirektion Anträge für die Ausrichtung von Beiträgen zu unterbreiten
-- b) periodisch Ehrungen von Sportlerinnen und Sportlern zu organisieren
+- a) der Bildungs- und Kulturdirektion Anträge für die Ausrichtung von Beiträgen zu unterbreiten;
 
-## 5 Schlussbestimmungen
+- b) periodisch Ehrungen von Sportlerinnen und Sportlern zu organisieren.
+
+### 5. Kapitel: SCHLUSSBESTIMMUNGEN
 
 #### Artikel 23
 
-**Aufhebung bisherigen Rechts**
-
-<sup>1</sup> Das Reglement vom 14. August 2007 über die Förderung des Sports wird aufgehoben.
+Aufhebung bisherigen Rechts Das Reglement vom 14. August 2007 über die Förderung des Sports<sup>15</sup> wird aufgehoben.
 
 #### Artikel 24
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Reglement tritt am 1. Januar 2012 in Kraft.
+Dieses Reglement tritt am 1. Januar 2012 in Kraft.
 
-AB 16.03.2012
+Im Namen des Regierungsrats
+
+Der Landammann: Markus Züst Der Kanzleidirektor: Roman Balli
