@@ -1,40 +1,47 @@
 ---
 canton: UR
 number: "3.6205"
-title: Reglement über den Zivilschutz im Kanton Uri
+title: REGLEMENT über den Zivilschutz im Kanton Uri
 short: "Zivilschutzreglement, ZSR"
 language: de
 version: 2021-01-01
+corrected: 2025-08-29
 version_adopted: 2020-10-20
 adopted: 2006-07-04
 in_force: 2006-08-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.6205"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/1090/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/119/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über den Zivilschutz im Kanton Uri
+# REGLEMENT über den Zivilschutz im Kanton Uri
 
-(Zivilschutzreglement, ZSR)
+REGLEMENT über den Zivilschutz im Kanton Uri (Zivilschutzreglement, ZSR)
 
-Vom 04.07.2006 (Stand 01.01.2021)
+(vom 4. Juli 2006[^t-1]; Stand am 1. Januar 2021)
 
-Der Regierungsrat des Kantons Uri,
-
-gestützt auf das Gesetz vom 25. September 2005 über den Bevölkerungsschutz im Kanton Uri (Bevölkerungsschutzgesetz, BSG, RB [3.6201](https://rechtsbuch.ur.ch/data/3.6201/de)),
+Der Regierungsrat des Kantons Uri, gestützt auf das Gesetz vom 25. September 2005 über den Bevölkerungsschutz im Kanton Uri (Bevölkerungsschutzgesetz, BSG)[^t-2],
 
 beschliesst:
 
-## 1 Allgemeine Bestimmungen
+**Allgemeine Bestimmungen**
+
+[^t-1]: AB vom 21. Juli 2006
+[^t-2]: RB 3.6201
+
+### 1. Abschnitt:
 
 #### Artikel 1
 
 **Zweck und Geltungsbereich**
 
-<sup>1</sup> Dieses Reglement vollzieht das Bevölkerungsschutzgesetz und regelt die Organisation, die Aufgaben, die Verantwortlichkeiten und die Zuständigkeiten im Zivilschutz.
+Dieses Reglement vollzieht das Bevölkerungsschutzgesetz und regelt die Organisation, die Aufgaben, die Verantwortlichkeiten und die Zuständigkeiten im Zivilschutz.
 
-## 2 Organisation
+**Organisation**
+
+### 2. Abschnitt:
 
 #### Artikel 2
 
@@ -44,33 +51,31 @@ beschliesst:
 
 <sup>2</sup> Der Sollbestand des Führungsunterstützungselements des Gemeindeführungsstabs beträgt:
 
-- a) je 10 Schutzdienstpflichtige für die Gemeinden Altdorf, Andermatt, Attinghausen, Bürglen, Erstfeld, Flüelen, Schattdorf, Seedorf, Silenen und Spiringen
-- b) je 5 Schutzdienstpflichtige für die Gemeinden Bauen, Göschenen, Gurtnellen, Hospental, Isenthal, Realp, Seelisberg, Sisikon, Unterschächen und Wassen
+- a) je 10 Schutzdienstpflichtige für die Gemeinden Altdorf, Andermatt, Attinghausen, Bürglen, Erstfeld, Flüelen, Schattdorf, Seedorf, Silenen und Spiringen;
+
+- b) je 5 Schutzdienstpflichtige für die Gemeinden Bauen, Göschenen, Gurtnellen, Hospental, Isenthal, Realp, Seelisberg, Sisikon, Unterschächen und Wassen.
 
 #### Artikel 3
 
 **Gliederung**
 
-<sup>1</sup> Die Zivilschutzorganisation umfasst:
+Die Zivilschutzorganisation umfasst:
 
-- a) den/die Zivilschutz-Kommandant/in und Zivilschutz-Kommandant Stellvertreter/in
-- b) die Einsatzzüge (Pionier, Betreuung, Führungsunterstützung und Logistik)
-- c) die Führungsunterstützungselemente der Gemeindeführungsstäbe
-- d) den Lehrverband
-- e) die Personalreserve
+- a) den/die Zivilschutz-Kommandant/in und Zivilschutz-Kommandant Stellvertreter/in;
+
+- b) die Einsatzzüge (Pionier, Betreuung, Führungsunterstützung und Logistik);
+
+- c) die Führungsunterstützungselemente der Gemeindeführungsstäbe;
+
+- d) den Lehrverband;
+
+- e) die Personalreserve.
 
 #### Artikel 4
 
 **Standorte**
 
-<sup>1</sup> Die Standorte der Zivilschutzorganisation sind:
-
-- a) Altdorf: 2 Pionierzüge, 1 Betreuungszug, 1 Zug Führungsunterstützung und Logistik kantonaler Führungsstab
-- b) Bürglen: 1 Pionierzug
-- c) Erstfeld: 1 Pionierzug
-- d) Schattdorf: 1 Pionierzug
-- e) Silenen: 1 Pionierzug
-- f) Alle Gemeinden: 1 Führungsunterstützungselement des Gemeindeführungsstabs
+Die Standorte der Zivilschutzorganisation sind: Altdorf: 2 Pionierzüge, 1 Betreuungszug, 1 Zug Führungsunterstützung und Logistik kantonaler Führungsstab Bürglen: 1 Pionierzug Erstfeld: 1 Pionierzug Schattdorf: 1 Pionierzug Silenen: 1 Pionierzug Alle 1 Führungsunterstützungselementdes Gemeinde-Gemeinden: führungsstabs
 
 #### Artikel 5
 
@@ -88,21 +93,23 @@ beschliesst:
 
 <sup>2</sup> Die Einteilung der Schutzdienstpflichtigen erfolgt nach der Grundausbildung.
 
-<sup>3</sup> Ab dem 30. Altersjahr werden die Schutzdienstpflichtigen in der Regel der Personalreserve zugewiesen. Für Kader und Spezialisten/Spezialistinnen muss deren Nachfolge gesichert sein.
+3 Ab dem 30. Altersjahr werden die Schutzdienstpflichtigen in der Regel der Personalreserve zugewiesen. Für Kader und Spezialisten/Spezialistinnen muss deren Nachfolge gesichert sein.
 
-## 3 Aufgaben
+### 3. Abschnitt: Aufgaben
 
 #### Artikel 7
 
-**Zivilschutz-Kommandant und Zivilschutz-Kommandantin**
+Zivilschutz-Kommandant und Zivilschutz-Kommandantin Der Zivilschutz-Kommandant oder die Zivilschutz-Kommandantin:
 
-<sup>1</sup> Der Zivilschutz-Kommandant oder die Zivilschutz-Kommandantin:
+- a) führt die Zivilschutzorganisation;
 
-- a) führt die Zivilschutzorganisation
-- b) bildet die Einsatzzüge und die Führungsunterstützungselemente der Gemeindeführungsstäbe aus
-- c) sorgt für die Beschaffung und den Unterhalt der Ausrüstung
-- d) plant und ordnet Massnahmen für den Schutz der Kulturgüter an
-- e) erstattet Bericht über die geleisteten Einsätze
+- b) bildet die Einsatzzüge und die Führungsunterstützungselemente der Gemeindeführungsstäbe aus;
+
+- c) sorgt für die Beschaffung und den Unterhalt der Ausrüstung;
+
+- d) plant und ordnet Massnahmen für den Schutz der Kulturgüter an;
+
+- e) erstattet Bericht über die geleisteten Einsätze.
 
 #### Artikel 8
 
@@ -110,66 +117,79 @@ beschliesst:
 
 <sup>1</sup> Der Pionierzug leistet insbesondere:
 
-- a) Einsätze zur Schadenminderung und zur Überbrückung zerstörter Infrastrukturen
-- b) Rettungs-, Unterstützungs- und Instandstellungseinsätze
+- a) Einsätze zur Schadenminderung und zur Überbrückung zerstörter Infrastrukturen;
 
-<sup>2</sup> Der Betreuungszug:
+- b) Rettungs-, Unterstützungs- und Instandstellungseinsätze.
 
-- a) betreut schutzbedürftige Personen
-- b) unterstützt Evakuierungen aus gefährdeten Gebieten
-- c) unterstützt nach Möglichkeit den Koordinierten Sanitätsdienst
+2 Der Betreuungszug:
+
+- a) betreut schutzbedürftige Personen;
+
+- b) unterstützt Evakuierungen aus gefährdeten Gebieten;
+
+- c) unterstützt nach Möglichkeit den Koordinierten Sanitätsdienst.
 
 <sup>3</sup> Der Zug Führungsunterstützung und Logistik kantonaler Führungsstab unterstützt insbesondere das Erstellen, den Betrieb und den Unterhalt des Kommandopostens des kantonalen Führungsstabs.
 
 #### Artikel 9
 
-**Führungsunterstützungselement des Gemeindeführungsstabs**
+**Führungsunterstützungselement**
 
-<sup>1</sup> Das Führungsunterstützungselement des Gemeindeführungsstabs:
+des Gemeindeführungsstabs Das Führungsunterstützungselement des Gemeindeführungsstabs:
 
-- a) unterstützt insbesondere das Erstellen, den Betrieb und den Unterhalt des Kommandopostens des Gemeindeführungsstabs
-- b) stellt in Zusammenarbeit mit dem Amt für Militär und Bevölkerungsschutz den technischen Unterhalt der zugewiesenen Schutzanlagen sowie den Unterhalt und die Einsatzbereitschaft des Zivilschutzmaterials in der Gemeinde sicher
+- a) unterstützt insbesondere das Erstellen, den Betrieb und den Unterhalt des Kommandopostens des Gemeindeführungsstabs;
+
+- b) stellt in Zusammenarbeit mit dem Amt für Militär und Bevölkerungsschutz den technischen Unterhalt der zugewiesenen Schutzanlagen sowie den Unterhalt und die Einsatzbereitschaft des Zivilschutzmaterials
+
+in der Gemeinde sicher.
 
 #### Artikel 10
 
 **Lehrverband**
 
-<sup>1</sup> Der Lehrverband weist gemäss Ausbildungsvereinbarung Zivilschutz[^Artikel10-1] die rekrutierten Schutzdienstpflichtigen den Standortkantonen zur Ausbildung in einer der drei Grundfunktionen Stabsassistent, Betreuer oder Pionier zu.
+Der Lehrverband weist gemäss Ausbildungsvereinbarung Zivilschutz[^10-1] die rekrutierten Schutzdienstpflichtigen den Standortkantonen zur Ausbildung in einer der drei Grundfunktionen Stabsassistent, Betreuer oder Pionier zu.
 
-[^Artikel10-1]: Verwaltungsvereinbarung vom 12. Februar 2004 betreffend gemeinsamer Durchführung der Grund-, Kader- und Spezialistenausbildung im Zivilschutz der Kantone Luzern, Uri, Schwyz, Obwalden, Nidwalden, Zug und Glarus.
+[^10-1]: Verwaltungsvereinbarung vom 12. Februar 2004 betreffend gemeinsamer Durchführung der Grund-, Kader- und Spezialistenausbildung im Zivilschutz der Kantone Luzern, Uri, Schwyz, Obwalden, Nidwalden, Zug und Glarus
 
 #### Artikel 11
 
-**Kulturgüterschutz-Spezialist oder Kulturgüterschutz-Spezialistin**
+**Kulturgüterschutz-Spezialist oder**
 
-<sup>1</sup> Der Kulturgüterschutz-Spezialist oder die Kulturgüterschutz-Spezialistin:
+Kulturgüterschutz-Spezialistin Der Kulturgüterschutz-Spezialist oder die Kulturgüterschutz-Spezialistin:
 
-- a) erstellt das Kulturgüterschutzinventar und die Dokumentationen nach Anweisungen des oder der Kulturgüterschutzverantwortlichen des Kantons
-- b) kontrolliert periodisch die beweglichen und unbeweglichen Kulturgüter sowie die bestehenden Schutzvorkehrungen
-- c) erstellt die Evakuierungs- und Schutzplanung für die geschützten Kulturgüter
-- d) sorgt für die Kennzeichnung der Kulturgüter mit den offiziellen Schildern
-- e) leitet im Einsatz die Verlegung der wichtigsten beweglichen Kulturgüter in geschützte Räume und das Schützen der unbeweglichen Kulturgüter oder Teilen davon
+- a) erstellt das Kulturgüterschutzinventar und die Dokumentationen nach Anweisungen des oder der Kulturgüterschutzverantwortlichen des Kantons;
+
+- b) kontrolliert periodisch die beweglichen und unbeweglichen Kulturgüter sowie die bestehenden Schutzvorkehrungen;
+
+- c) erstellt die Evakuierungs- und Schutzplanung für die geschützten Kulturgüter;
+
+- d) sorgt für die Kennzeichnung der Kulturgüter mit den offiziellen Schildern;
+
+- e) leitet im Einsatz die Verlegung der wichtigsten beweglichen Kulturgüter in geschützte Räume und das Schützen der unbeweglichen Kulturgüter oder Teilen davon.
 
 #### Artikel 12
 
 **Zivilschutzstelle**
 
-<sup>1</sup> Die Zivilschutzstelle im Amt für Militär und Bevölkerungsschutz:
+Die Zivilschutzstelle im Amt für Militär und Bevölkerungsschutz:
 
-- a) erledigt die administrativen Arbeiten für die Zivilschutzorganisation
-- b) führt das Kontroll- und Abrechnungswesen für die Schutzdienstpflichtigen
-- c) ist Auskunfts- und Ansprechstelle in Zivilschutzbelangen
+- a) erledigt die administrativen Arbeiten für die Zivilschutzorganisation;
+
+- b) führt das Kontroll- und Abrechnungswesen für die Schutzdienstpflichtigen;
+
+- c) ist Auskunfts- und Ansprechstelle in Zivilschutzbelangen.
 
 #### Artikel 13
 
 **Einwohnergemeinde**
 
-<sup>1</sup> Die Einwohnergemeinde meldet dem Amt für Militär und Bevölkerungsschutz nach dessen Vorgaben:
+Die Einwohnergemeinde meldet dem Amt für Militär und Bevölkerungsschutz nach dessen Vorgaben:
 
-- a) Änderungen von Personendaten in der Einwohnerkontrolle von Männern ab dem 18. Altersjahr bis und mit 40. Altersjahr oder stellt dem Amt den Zugriff auf die diesbezüglichen Daten der Einwohnerkontrolle sicher
-- b) den Abbruch von Objekten mit Schutzräumen
+- a) Änderungen von Personendaten in der Einwohnerkontrolle von Männern ab dem 18. Altersjahr bis und mit 40. Altersjahr oder stellt dem Amt den Zugriff auf die diesbezüglichen Daten der Einwohnerkontrolle sicher;
 
-## 4 Einsatz
+- b) den Abbruch von Objekten mit Schutzräumen.
+
+### 4. Abschnitt: Einsatz
 
 #### Artikel 14
 
@@ -191,7 +211,7 @@ beschliesst:
 
 **Einsatz der Reserve**
 
-<sup>1</sup> Falls die Lage es erfordert, können die Einsatzkräfte mit ausgebildeten Schutzdienstpflichtigen aus der Personalreserve verstärkt werden.
+Falls die Lage es erfordert, können die Einsatzkräfte mit ausgebildeten Schutzdienstpflichtigen aus der Personalreserve verstärkt werden.
 
 #### Artikel 16
 
@@ -203,15 +223,17 @@ beschliesst:
 
 #### Artikel 17
 
-**Aufgebot des Führungsunterstützungselements des Gemeindeführungsstabs**
+**Aufgebot des Führungsunterstützungselements**
 
-<sup>1</sup> Bietet der Gemeindeführungsstab sein zugewiesenes Führungsunterstützungselement auf, so orientiert er unmittelbar nach dem Aufgebot das Amt für Militär und Bevölkerungsschutz, damit die Dienstleistungen der Schutzdienstpflichtigen durch die Zivilschutzstelle ordentlich erfasst und abgerechnet werden können.
+des Gemeindeführungsstabs Bietet der Gemeindeführungsstab sein zugewiesenes Führungsunterstützungselement auf, so orientiert er unmittelbar nach dem Aufgebot das Amt für Militär und Bevölkerungsschutz, damit die Dienstleistungen der Schutzdienstpflichtigen durch die Zivilschutzstelle ordentlich erfasst und
+
+abgerechnet werden können.
 
 #### Artikel 18
 
 **Einsätze zu Gunsten der Gemeinschaft**
 
-<sup>1</sup> Gesuche für Einsätze zu Gunsten der Gemeinschaft sind dem Amt für Militär und Bevölkerungsschutz so früh als möglich, in der Regel ein Jahr im Voraus, zur Prüfung einzureichen. Der Gesuchssteller oder die Gesuchsstellerin haben im Gesuch nachzuweisen, dass die Voraussetzungen gemäss Artikel 2 der Verordnung über Einsätze des Zivilschutzes zu Gunsten (SR [520.14](https://db.clex.ch/link/Bund/520.14/de)) erfüllt sind.
+<sup>1</sup> Gesuche für Einsätze zu Gunsten der Gemeinschaft sind dem Amt für Militär und Bevölkerungsschutz so früh als möglich, in der Regel ein Jahr im Voraus, zur Prüfung einzureichen. Der Gesuchssteller oder die Gesuchsstellerin haben im Gesuch nachzuweisen, dass die Voraussetzungen gemäss Artikel 2 der Verordnung über Einsätze des Zivilschutzes zu Gunsten (SR 520.14) erfüllt sind.
 
 <sup>2</sup> Das Amt für Militär und Bevölkerungsschutz entscheidet über die Bewilligung des Einsatzes zu Gunsten der Gemeinschaft. Im Entscheid werden die Einsatzdauer, die Anzahl der höchstens zu leistenden Diensttage sowie der Kostenrahmen festgelegt.
 
@@ -221,47 +243,45 @@ beschliesst:
 
 **Katastrophen- und Nothilfe zu Gunsten anderer Kantone**
 
-<sup>1</sup> Der Regierungsrat regelt die Hilfeleistung in der Vereinbarung zwischen den Kantonen über die interkantonale Hilfeleistung durch den Zivilschutz bei Katastrophen und in Notlagen vom 13. Mai 2005[^Artikel19-1].
+<sup>1</sup> Der Regierungsrat regelt die Hilfeleistung in der Vereinbarung zwischen den Kantonen über die interkantonale Hilfeleistung durch den Zivilschutz bei Katastrophen und in Notlagen vom 13. Mai 2005[^19-1].
 
 <sup>2</sup> Der Regierungsrat entscheidet über die Bewilligung der Hilfeleistung. Im Entscheid werden die Einsatzdauer und die Anzahl der höchstens zu leistenden Diensttage sowie der Kostenrahmen festgelegt.
 
-[^Artikel19-1]: Schweizerische Konferenz der Kantonalen Militär- und Zivilschutzdirektorinnen und ‑direktoren (MZDK).
+[^19-1]: Schweizerische Konferenz der Kantonalen Militär- und Zivilschutzdirektorinnen und -direktoren (MZDK).
 
-## 5 Ausbildung
+### 5. Abschnitt: Ausbildung
 
 #### Artikel 20
 
 **Ausbildungsinfrastruktur**
 
-<sup>1</sup> Das Amt für Militär und Bevölkerungsschutz betreibt, unterhält und erneuert das Zivilschutzausbildungszentrum «Krump» in Erstfeld.
+Das Amt für Militär und Bevölkerungsschutz betreibt, unterhält und erneuert das Zivilschutzausbildungszentrum «Krump» in Erstfeld.
 
 #### Artikel 21
 
 **Grund-, Kader- und Spezialistenausbildung**
 
-<sup>1</sup> Der Regierungsrat regelt die Ausbildung in der Ausbildungsvereinbarung Zivilschutz[^Artikel21-1].
+Der Regierungsrat regelt die Ausbildung in der Ausbildungsvereinbarung Zivilschutz[^21-1].
 
-[^Artikel21-1]: Verwaltungsvereinbarung vom 12. Februar 2004 betreffend gemeinsamer Durchführung der Grund-, Kader- und Spezialistenausbildung im Zivilschutz der Kantone Luzern, Uri, Schwyz, Obwalden, Nidwalden, Zug und Glarus.
+[^21-1]: Verwaltungsvereinbarung vom 12. Februar 2004 betreffend gemeinsamer Durchführung der Grund-, Kader- und Spezialistenausbildung im Zivilschutz der Kantone Luzern, Uri, Schwyz, Obwalden, Nidwalden, Zug und Glarus
 
 #### Artikel 22
 
 **Wiederholungskurse**
 
-<sup>1</sup> Die Schutzdienstpflichtigen leisten die jährlichen Wiederholungskurse in der Regel im Zivilschutzausbildungszentrum «Krump» in Erstfeld und in den Einwohnergemeinden.
+Die Schutzdienstpflichtigen leisten die jährlichen Wiederholungskurse in der Regel im Zivilschutzausbildungszentrum «Krump» in Erstfeld und in den Einwohnergemeinden.
 
 #### Artikel 23
 
-**Ausbildung des Führungsunterstützungselements des Gemeindeführungsstabs**
+Ausbildung des Führungsunterstützungselements des Gemeindeführungsstabs Die Ausbildung des Führungsunterstützungselements des Gemeindeführungsstabs obliegt der Zivilschutzorganisation.
 
-<sup>1</sup> Die Ausbildung des Führungsunterstützungselements des Gemeindeführungsstabs obliegt der Zivilschutzorganisation.
-
-## 6 Zivilschutzmaterial
+### 6. Abschnitt: Zivilschutzmaterial
 
 #### Artikel 24
 
 **Ausrüstungs- und Retablierungsstelle**
 
-<sup>1</sup> Das Amt für Militär und Bevölkerungsschutz betreibt und unterhält eine Ausrüstungs- und Retablierungsstelle für die persönliche Ausrüstung der Schutzdienstpflichtigen.
+Das Amt für Militär und Bevölkerungsschutz betreibt und unterhält eine Ausrüstungs- und Retablierungsstelle für die persönliche Ausrüstung der Schutzdienstpflichtigen.
 
 #### Artikel 25
 
@@ -281,17 +301,17 @@ beschliesst:
 
 <sup>1</sup> Die Zivilschutzorganisation benötigt für die Ausrüstung der Einsatzzüge an den Standorten Altdorf, Bürglen, Erstfeld, Schattdorf und Silenen Zivilschutzmaterial der Einwohnergemeinden.
 
-<sup>2</sup> Die Zivilschutzorganisation sichert an den Standorten der Einsatzzüge nach Vorgaben des Bundesamtes für Bevölkerungsschutz die Instandhaltung des ausgeliehenen Materials der Einwohnergemeinden.
+2 Die Zivilschutzorganisation sichert an den Standorten der Einsatzzüge nach Vorgaben des Bundesamtes für Bevölkerungsschutz die Instandhaltung des ausgeliehenen Materials der Einwohnergemeinden.
 
 <sup>3</sup> Das Amt für Militär und Bevölkerungsschutz kontrolliert an den Standorten der Einsatzzüge periodisch nach Vorgaben des Bundesamtes für Bevölkerungsschutz die Einsatzbereitschaft und den Unterhalt des ausgeliehenen Materials der Einwohnergemeinden.
 
 #### Artikel 27
 
-**Nutzung von Zivilschutzmaterial der Zivilschutzorganisation durch Partnerorganisationen**
+Nutzung von Zivilschutzmaterial der Zivilschutzorganisation durch Partnerorganisationen
 
 <sup>1</sup> Zivilschutzmaterial der Zivilschutzorganisation kann auf Gesuch hin und sofern die zivilschutzeigenen Bedürfnisse das zulassen von Partnerorganisationen genutzt werden.
 
-<sup>2</sup> Gesuche von Partnerorganisationen für die zivilschutzfremde Nutzung von Zivilschutzmaterial sind dem Zivilschutz-Kommandant oder der Zivilschutz- Kommandantin zur Prüfung einzureichen.
+<sup>2</sup> Gesuche von Partnerorganisationen für die zivilschutzfremde Nutzung von Zivilschutzmaterial sind dem Zivilschutz-Kommandant oder der Zivilschutz-Kommandantin zur Prüfung einzureichen.
 
 <sup>3</sup> Der Zivilschutz-Kommandant oder die Zivilschutz-Kommandantin entscheidet über die Bewilligung für die zivilschutzfremde Nutzung von Zivilschutzmaterial. Im Entscheid werden die Nutzungsdauer und weitere Auflagen festgelegt.
 
@@ -301,31 +321,29 @@ beschliesst:
 
 <sup>6</sup> Das ausgeliehene Zivilschutzmaterial ist in sauberem und einsatzbereitem Zustand zurückzugeben. Der zuständige Einsatzleiter oder die zuständige Einsatzleiterin der Partnerorganisation haftet für defektes und verlorenes Zivilschutzmaterial.
 
-## 7 Schutzbauten
+### 7. Abschnitt: Schutzbauten
 
 #### Artikel 28
 
-**Schlusskontrollen bei neuen und erneuerten Schutzräumen und Kulturgüterschutzräumen**
-
-<sup>1</sup> Das Amt für Militär und Bevölkerungsschutz führt gemäss den Technischen Weisungen des Bundesamtes für Bevölkerungsschutz die Schlusskontrollen bei neuen und erneuerten Schutzräumen und Kulturgüterschutzräumen durch.
+Schlusskontrollen bei neuen und erneuerten Schutzräumen und Kulturgüterschutzräumen Das Amt für Militär und Bevölkerungsschutz führt gemäss den Technischen Weisungen des Bundesamtes für Bevölkerungsschutz die Schlusskontrollen bei neuen und erneuerten Schutzräumen und Kulturgüterschutzräumen durch.
 
 #### Artikel 29
 
 **Unterhalt der Kulturgüterschutzräume**
 
-<sup>1</sup> Die Anlagewarte und Anlagewartinnen der Zivilschutzorganisation stellen in Zusammenarbeit mit den Eigentümern und Eigentümerinnen den technischen Unterhalt der Kulturgüterschutzräume gemäss den Technischen Weisungen des Bundesamtes für Bevölkerungsschutz sicher.
+Die Anlagewarte und Anlagewartinnen der Zivilschutzorganisation stellen in Zusammenarbeit mit den Eigentümern und Eigentümerinnen den technischen Unterhalt der Kulturgüterschutzräume gemäss den Technischen Weisungen des Bundesamtes für Bevölkerungsschutz sicher.
 
 #### Artikel 30
 
 **Periodische Kontrolle der bestehenden Räume**
 
-<sup>1</sup> Das Amt für Militär und Bevölkerungsschutz sorgt gemäss den Technischen Weisungen des Bundesamtes für Bevölkerungsschutz für die periodische Kontrolle der Betriebsbereitschaft und des Unterhalts der bestehenden öffentlichen und privaten Schutzräume und der bestehenden Kulturgüterschutzräume.
+Das Amt für Militär und Bevölkerungsschutz sorgt gemäss den Technischen Weisungen des Bundesamtes für Bevölkerungsschutz für die periodische Kontrolle der Betriebsbereitschaft und des Unterhalts der bestehenden öffentlichen und privaten Schutzräume und der bestehenden Kulturgüterschutzräume.
 
 #### Artikel 31
 
 **Vom Bund anerkannte Schutzanlagen**
 
-<sup>1</sup> Das Bundesamt für Bevölkerungsschutz bestimmt die für den Fall bewaffneter Konflikte anerkannten Schutzanlagen (Kommandoposten, Bereitstellungsanlagen, geschützte Sanitätsstellen, geschützte Spitäler) im Kanton Uri.
+Das Bundesamt für Bevölkerungsschutz bestimmt die für den Fall bewaffneter Konflikte anerkannten Schutzanlagen (Kommandoposten, Bereitstellungsanlagen, geschützte Sanitätsstellen, geschützte Spitäler) im Kanton Uri.
 
 #### Artikel 32
 
@@ -335,7 +353,7 @@ beschliesst:
 
 <sup>2</sup> Das Amt für Militär und Bevölkerungsschutz führt die periodische Anlagekontrolle gemäss den Technischen Weisungen des Bundesamtes für Bevölkerungsschutz durch.
 
-## 8 Schutzraumbaupflicht und Ersatzbeiträge
+### 8. Abschnitt: Schutzraumbaupflicht und Ersatzbeiträge
 
 #### Artikel 33
 
@@ -347,33 +365,39 @@ beschliesst:
 
 <sup>3</sup> Die Ersatzbeiträge sind als Ersatzbeitragsfonds in die Bilanz der Einwohnergemeinderechnung aufzunehmen und auszuweisen. Der Ersatzbeitragsfonds ist nicht zu verzinsen.
 
-<sup>4</sup> Das Amt für Militär und Bevölkerungsschutz führt über die verfügten und verwendeten Ersatzbeiträge eine Kontrolle. Es gibt auf Antrag der Einwohnergemeinde die zur Verfügung stehenden Ersatzbeiträge für zweckgebundene Massnahmen des Zivilschutzes frei.
+4 Das Amt für Militär und Bevölkerungsschutz führt über die verfügten und verwendeten Ersatzbeiträge eine Kontrolle. Es gibt auf Antrag der Einwohnergemeinde die zur Verfügung stehenden Ersatzbeiträge für zweckgebundene Massnahmen des Zivilschutzes frei.
 
 <sup>5</sup> Die Einwohnergemeinde meldet dem Amt für Militär und Bevölkerungsschutz nach dessen Vorgaben jährlich den Kontostand sowie alle Kontobewegungen des Ersatzbeitragsfonds.
 
-## 9 Kosten und Vergütungen
+### 9. Abschnitt: Kosten und Vergütungen
+
+[^h9AbschnittKosten-1]: Fassung gemäss RRB vom 20. Oktober 2020, in Kraft gesetzt auf den 1. Januar 2021 (AB vom 30. Oktober 2020).
 
 #### Artikel 34
 
-**Zivilschutzkosten**
+**Zivilschutzkosten**[^h9AbschnittKosten-1]
 
-<sup>1</sup> Die jährlich durch den Kanton zu tragenden Zivilschutzkosten umfassen insbesondere:
+Die jährlich durch den Kanton zu tragenden Zivilschutzkosten umfassen insbesondere:
 
-- a) die Kosten für die Ausbildung der Schutzdienstpflichtigen (Grund-, Kader- und Spezialistenausbildung, Wiederholungs- und Weiterbildungskurse, Rapporte, Einsatzübungen)
-- b) die Kosten für das Zivilschutzmaterial (Beschaffung, Unterhalt, Ersatz, Lagerung und Liquidation)
-- c) die Kosten für die Ausbildungsinfrastruktur (Betrieb, Unterhalt und Erneuerung des Zivilschutzausbildungszentrums «Krump» in Erstfeld)
-- d) die Lohnkosten für das im Zivilschutz tätige Personal der kantonalen Verwaltung
-- e) die ausserordentlichen Kosten für Einsätze der Zivilschutzorganisation zur Bewältigung von ausserordentlichen Lagen
+- a) die Kosten für die Ausbildung der Schutzdienstpflichtigen (Grund-, Kader- und Spezialistenausbildung, Wiederholungs- und Weiterbildungskurse, Rapporte, Einsatzübungen);
+
+- b) die Kosten für das Zivilschutzmaterial (Beschaffung, Unterhalt, Ersatz, Lagerung und Liquidation);
+
+- c) die Kosten für die Ausbildungsinfrastruktur (Betrieb, Unterhalt und Erneuerung des Zivilschutzausbildungszentrums «Krump» in Erstfeld);
+
+- d) die Lohnkosten für das im Zivilschutz tätige Personal der kantonalen Verwaltung;
+
+- e) die ausserordentlichen Kosten für Einsätze der Zivilschutzorganisation zur Bewältigung von ausserordentlichen Lagen.
 
 #### Artikel 35
 
 **Vergütungen für Instruktoren und Instruktorinnen**
 
-<sup>1</sup> Der Einsatz von Zivilschutzinstruktoren und Zivilschutzinstruktorinnen gemäss Ausbildungsvereinbarung Zivilschutz[^Artikel35-1] wird mit einer Kostenpauschale pro hauptamtliche Lehrperson und Teilnehmertag abgegolten.
+<sup>1</sup> Der Einsatz von Zivilschutzinstruktoren und Zivilschutzinstruktorinnen gemäss Ausbildungsvereinbarung Zivilschutz[^35-1] wird mit einer Kostenpauschale pro hauptamtliche Lehrperson und Teilnehmertag abgegolten.
 
 <sup>2</sup> Die Vergütungen werden dem Zivilschutzausbildungskonto gutgeschrieben.
 
-[^Artikel35-1]: Verwaltungsvereinbarung vom 12. Februar 2004 betreffend gemeinsamer Durchführung der Grund-, Kader- und Spezialistenausbildung im Zivilschutz der Kantone Luzern, Uri, Schwyz, Obwalden, Nidwalden, Zug und Glarus.
+[^35-1]: Verwaltungsvereinbarung vom 12. Februar 2004 betreffend gemeinsamer Durchführung der Grund-, Kader- und Spezialistenausbildung im Zivilschutz der Kantone Luzern, Uri, Schwyz, Obwalden, Nidwalden, Zug und Glarus
 
 #### Artikel 36
 
@@ -387,7 +411,9 @@ beschliesst:
 
 #### Artikel 37
 
-**Kosten für das Führungsunterstützungselement des Gemeindeführungsstabs**
+**Kosten für das Führungsunterstützungselement des**
+
+Gemeindeführungsstabs
 
 <sup>1</sup> Bietet der Gemeindeführungsstab sein zugewiesenes Führungsunterstützungselement für eigene Bedürfnisse auf, so trägt die Einwohnergemeinde die Kosten für Reise, Verpflegung und Unterkunft der Schutzdienstpflichtigen sowie für den Unterhalt des eingesetzten Zivilschutzmaterials.
 
@@ -397,14 +423,16 @@ beschliesst:
 
 **Kosten für Einsätze zu Gunsten der Gemeinschaft**
 
-<sup>1</sup> Wer Dienstleistungen der Zivilschutzorganisation für Veranstaltungen, namentlich von Organisationen, Vereinen oder Aussteller, beansprucht, trägt die Kosten für Sold, Reise, Verpflegung und Unterkunft der Schutzdienstpflichtigen sowie für den Unterhalt des eingesetzten Zivilschutzmaterials.
+Wer Dienstleistungen der Zivilschutzorganisation für Veranstaltungen, namentlich von Organisationen, Vereinen oder Aussteller, beansprucht, trägt die Kosten für Sold, Reise, Verpflegung und Unterkunft der Schutzdienstpflichtigen sowie für den Unterhalt des eingesetzten Zivilschutzmaterials.
 
-## 10 Schlussbestimmungen
+### 10. Abschnitt: Schlussbestimmungen
 
 #### Artikel 39
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Reglement tritt am 1. August 2006 in Kraft.
+Dieses Reglement tritt am 1. August 2006 in Kraft.
 
-AB 21.07.2006
+Im Namen des Regierungsrats
+
+Der Landammann: Dr. Markus Stadler Der Kanzleidirektor: Dr. Peter Huber
