@@ -3,34 +3,39 @@ canton: AG
 number: "773.330"
 title: Dekret über den Leistungsauftrag der AEW Energie AG
 language: de
-version: 1999-09-28
-valid_until: 2025-08-29
-version_adopted: 1999-09-07
+version: 2025-08-30
+version_adopted: 2025-06-24
 adopted: 1999-09-07
 in_force: 1999-09-28
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/773.330"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/727/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3844/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Dekret über den Leistungsauftrag der AEW Energie AG
 
-Vom 07.09.1999 (Stand 28.09.1999)
+Vom 07.09.1999 (Stand 30.08.2025)
 
 Der Grosse Rat des Kantons Aargau,
 
-gestützt auf § 20c Abs. 2 lit. b des Energiegesetzes des Kantons Aargau vom 9. März 1993[^ingress-1],
+gestützt auf § 28 Abs. 1 und 2 des Energiegesetzes des Kantons Aargau (EnergieG) vom 17. Januar 2012[^ingress-1],
 
 beschliesst:
 
-[^ingress-1]: SAR [773.100](https://gesetzessammlungen.ag.ch/data/773.100/de)
+[^ingress-1]: SAR [773.200](https://gesetzessammlungen.ag.ch/data/773.200/de)
 
 #### § 1
 
 **Allgemeines**
 
 <sup>1</sup> Die AEW Energie AG richtet ihre Tätigkeit grundsätzlich auf die Anforderungen des Marktes aus. Als Rahmen gelten insbesondere die Energiegesetzgebung von Bund und Kanton sowie die Bestimmungen des Schweizerischen Obligationenrechts für Aktiengesellschaften.
+
+<sup>2</sup> Sie beachtet dabei, dass sie keine Unternehmen im freien Markt mit Sitz im Kanton Aargau übermässig konkurrenziert.
+
+<sup>3</sup> Sie verzichtet zur Vermeidung von übermässig beeinträchtigenden Konkurrenzsituationen insbesondere auf Mehrheitsbeteiligungen an oder auf die Übernahme von Unternehmen im Bereich ausführender Installation mit Tätigkeiten im Kanton Aargau.
+
+<sup>4</sup> Der Regierungsrat legt entsprechende Einschränkungen in Bezug auf Beteiligungen und Übernahmen in der Eigentümerstrategie fest.
 
 #### § 2
 
@@ -40,8 +45,8 @@ beschliesst:
 
 - a) Sie erstellt und betreibt ein leistungsfähiges Verteilnetz für elektrische Energie so, dass damit, zusammen mit den Netzen Dritter, die Elektrizitätsversorgung der Siedlungsgebiete im ganzen Kanton sichergestellt werden kann.
 - b) Sie leistet allein oder durch Beteiligung an anderen Unternehmen einen Beitrag zur Elektrizitätsversorgung durch flächendeckende Lieferungen im ganzen Kantonsgebiet oder durch Belieferung von Elektrizitätsversorgungsunternehmen.
-- c) Sie erfüllt die Verpflichtungen, welche dem Kanton im Zusammenhang mit der Beschaffung von elektrischer Energie aus den vertraglichen Verpflichtungen gegenüber den Nordostschweizerischen Kraftwerken AG (NOK) erwachsen.
-- d) Sie fördert allein oder durch Beteiligung an anderen Unternehmen im Rahmen der Zielsetzungen und Verpflichtungen der Energiegesetzgebung des Bundes und des Kantons insbesondere die Nutzung von einheimischen und erneuerbaren Energiequellen und Energieträgern sowie die Nutzung von Abwärme.
+- c) Sie erfüllt die Verpflichtungen, welche dem Kanton im Zusammenhang mit der Beschaffung von elektrischer Energie aus den vertraglichen Verpflichtungen gegenüber der Axpo Holding AG, vormals Nordostschweizerische Kraftwerke AG (NOK), erwachsen.
+- d) Sie fördert allein oder durch Beteiligung an anderen Unternehmen im Rahmen der Zielsetzungen und Verpflichtungen der Energiegesetzgebung des Bundes und des Kantons insbesondere die Nutzung von einheimischen und erneuerbaren Energiequellen und Energieträgern, die Nutzung von Abwärme sowie Massnahmen zur Erhöhung der Energieeffizienz.
 
 #### § 3
 
