@@ -4,13 +4,12 @@ number: "933.211"
 title: Verordnung zum Jagdgesetz des Kantons Aargau
 short: "Jagdverordnung des Kantons Aargau, AJSV"
 language: de
-version: 2024-07-01
-valid_until: 2025-08-29
-version_adopted: 2024-03-13
+version: 2025-08-30
+version_adopted: 2025-06-11
 adopted: 2009-09-23
 in_force: 2010-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/933.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3519/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3840/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3519/pdf_file"
 
 (Jagdverordnung des Kantons Aargau, AJSV)
 
-Vom 23.09.2009 (Stand 01.07.2024)
+Vom 23.09.2009 (Stand 30.08.2025)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -80,7 +79,7 @@ beschliesst:
 
 **Jagdlehrgang (§ 10 AJSG)**
 
-<sup>1</sup> Kandidierende für die Jagdprüfung müssen einen Jagdlehrgang im Kanton Aargau absolviert haben. Dieser umfasst Kurse und Übungen sowie praktische Tätigkeiten in einer Jagdgesellschaft und darf beim Abschluss der Jagdprüfung nicht mehr als zwei Jahre zurückliegen.
+<sup>1</sup> Kandidierende für die Jagdprüfung müssen einen Jagdlehrgang im Kanton Aargau absolviert haben. Dieser umfasst Kurse und Übungen sowie praktische Tätigkeiten in einem oder in mehreren aargauischen Jagdrevieren und darf beim Abschluss der Jagdprüfung nicht mehr als vier Jahre zurückliegen.
 
 <sup>2</sup> Das Departement kann die Organisation des Jagdlehrgangs dem Aargauischen Jagdschutzverein übertragen.
 
@@ -110,6 +109,14 @@ beschliesst:
 
 <sup>6</sup> Die theoretische Prüfung gilt als bestanden, wenn höchstens eine Teilprüfung nicht erfüllt ist.
 
+<sup>7</sup> Werden bei der theoretischen Prüfung zwei Teilprüfungen nicht erfüllt, müssen bei der Wiederholung beide Prüfungen bestanden werden. Werden drei Teilprüfungen nicht erfüllt, muss die ganze theoretische Prüfung wiederholt werden.
+
+<sup>8</sup> Eine bestandene praktische oder theoretische Prüfung verfällt nach vier Jahren, wenn innert dieses Zeitraums die jeweils andere Prüfung nicht bestanden wird.
+
+<sup>9</sup> Jägerinnen und Jäger, die über eine bestandene Jagdprüfung verfügen, gelten als fachkundige Person gemäss Art. 21 der Verordnung über das Schlachten und die Fleischkontrolle (VSFK) vom 16. Dezember 2016[^6-1].
+
+[^6-1]: SR [817.190](https://db.clex.ch/link/Bund/817.190/de)
+
 #### § 7
 
 **Jagdprüfung; Durchführung (§ 10 AJSG)**
@@ -118,11 +125,11 @@ beschliesst:
 
 <sup>2</sup> Die Jagdprüfungskommission eröffnet den Kandidierenden das Prüfungsergebnis im Anschluss an die Prüfung.
 
-<sup>3</sup> Eine nicht bestandene praktische oder theoretische Prüfung kann innert zwei Jahren einmal wiederholt werden.
+<sup>3</sup> …
 
-<sup>4</sup> Eine bei der theoretischen Prüfung nicht erfüllte Teilprüfung kann einzeln wiederholt werden. Werden drei Teilprüfungen nicht erfüllt, muss die ganze theoretische Prüfung wiederholt werden.
+<sup>4</sup> …
 
-<sup>5</sup> Ist die Jagdprüfung nicht bestanden, kann eine erneute Anmeldung erst nach Ablauf von zwei Jahren erfolgen.
+<sup>5</sup> …
 
 #### § 8
 
@@ -152,7 +159,7 @@ beschliesst:
 
 <sup>3</sup> Jagdgäste ohne anerkannten Jagdfähigkeitsausweis, die sich über ausreichende jagdliche Erfahrung ausweisen, können maximal drei Tagesjagdpässe pro Kalenderjahr beziehen.
 
-<sup>4</sup> Jagdgäste mit gültigen Jagdpässen angrenzender Kantone haben keinen zusätzlichen aargauischen Jagdpass zu beziehen, wenn der Nachweis der Schiessfertigkeit gemäss § 12 erbracht ist.
+<sup>4</sup> Jagdgäste mit gültigen Jagdpässen angrenzender Kantone und von Kantonen, die das Gegenrecht gewähren, haben keinen zusätzlichen aargauischen Jagdpass zu beziehen, wenn der Nachweis der Schiessfertigkeit gemäss § 12 erbracht ist.
 
 <sup>5</sup> …
 
@@ -182,19 +189,25 @@ beschliesst:
 
 **Abschussplanungen (§§ 14, 15 AJSG)**
 
-<sup>1</sup> Die Jagdgesellschaften vereinbaren gestützt auf Wildbestandserhebungen mit den betroffenen Forstrevieren alle zwei Jahre eine Abschussplanung beim Rehwild und stellen der Fachstelle eine Kopie der Vereinbarung zu. Kommt keine Vereinbarung zustande oder widerspricht die Vereinbarung kantonalen Richtlinien, entscheidet die Fachstelle über die Abschussplanung.
+<sup>1</sup> Die Jagdgesellschaften vereinbaren gestützt auf Wildbestandserhebungen mit den betroffenen Forstrevieren alle vier Jahre eine Abschussplanung beim Reh und stellen der Fachstelle eine Kopie der Vereinbarung zu. Kommt keine Vereinbarung zustande oder widerspricht die Vereinbarung kantonalen Richtlinien, entscheidet die Fachstelle über die Abschussplanung.
 
-<sup>2</sup> Die Fachstelle legt die kantonsweit abzustimmenden Massnahmen zur Beeinflussung der Bestandsentwicklung, insbesondere für Wildschwein, Rothirsch, Gämse und Kormoran, in betreffenden Massnahmenplänen fest.
+<sup>2</sup> Die Fachstelle legt in Koordination mit den Nachbarkantonen die kantonsweit abzustimmenden Massnahmen zur Beeinflussung der Bestandsentwicklung der Wildtierbestände in betreffenden Massnahmenplänen oder unter Vorbehalt von Absatz 1 in Abschussplanungen fest.
 
 #### § 14
 
 **Jagdzeiten (14 AJSG)**
 
-<sup>1</sup> Für das Rehwild gelten die folgenden Jagdzeiten:
+<sup>1</sup> Für das Reh gelten die folgenden Jagdzeiten:
 
 - a) Rehbock, Schmalreh und Galtgeiss vom 1. Mai bis 31. Dezember,
 - b) …
 - c) Rehgeiss und Rehkitz vom 1. September bis 31. Dezember.
+
+<sup>1<sup>bis</sup></sup> Für den Rothirsch gelten die folgenden Jagdzeiten: 1. August bis 14. September und 16. Oktober bis 31. Dezember.
+
+<sup>1<sup>ter</sup></sup> Für die Gämse gelten die folgenden Jagdzeiten: 1. August bis 31. Dezember.
+
+<sup>1<sup>quater</sup></sup> Zur Erfüllung der Abschussplanung gemäss § 13 kann die kantonale Fachstelle Abschüsse von Reh und Rothirsch im Januar verfügen.
 
 <sup>2</sup> Im Übrigen gelten die bundesrechtlich festgelegten Jagd- und Schonzeiten.
 
@@ -204,9 +217,11 @@ beschliesst:
 
 <sup>1</sup> Bewegungsjagden (Treib- und Drückjagden) sind vom 1. Oktober bis 31. Dezember, für die Jagd auf Wildschweine bis 31. Januar erlaubt. Sie sind effizient und in der Anzahl zurückhaltend durchzuführen. Kleinräumige Drückjagden auf Wildschweine sind in landwirtschaftlichen Kulturen zur Verhütung von Wildschäden ganzjährig erlaubt.
 
-<sup>2</sup> Die Beizjagd (Falknerei) dürfen Personen ausüben, die eine Schweizerische Falknerprüfung abgelegt haben, im Kanton Aargau jagdberechtigt sind und für das betretene Jagdrevier eine Jagdkarte besitzen. Das freie Fliegenlassen von Greifvögeln gilt als Beizjagd.
+<sup>2</sup> Die Beizjagd (Falknerei) dürfen Personen ausüben, die eine Schweizerische Falknerprüfung oder eine gleichwertige Prüfung im Ausland abgelegt haben, im Kanton Aargau jagdberechtigt sind und für das betretene Jagdrevier eine Jagdkarte besitzen. Das freie Fliegenlassen von Greifvögeln, Falkenartigen und Eulen gilt als Beizjagd.
 
 <sup>3</sup> Lockfütterungen sind in Anzahl und Futtermenge zurückhaltend zu betreiben und über die Jagdreviergrenzen hinaus abzusprechen. Die Fachstelle kann Lockfütterungen in Gebieten mit grossen Wildschäden oder in Seuchenfällen einschränken oder verbieten.
+
+<sup>4</sup> Die Jagdgesellschaften regeln die Bejagung von Wildtieren über die Reviergrenzen hinaus. Wird keine Regelung getroffen, dürfen Rothirsche, Wildschweine und Dachse bis 100 m über die Reviergrenze erlegt werden, wenn die Sicherheit gewährleistet ist. Das Wildtier gehört der Jagdgesellschaft, die es erlegt hat. Das Wildtier ist in jenem Revier jagdstatistisch zu erfassen, in dem es erlegt wurde.
 
 #### § 16
 
@@ -218,13 +233,13 @@ beschliesst:
 - b) für Gämse mindestens 1500 Joule Auftreffenergie auf 150 m,
 - c) für Reh mindestens 1000 Joule Auftreffenergie auf 100 m.
 
-<sup>2</sup> Das Rehwild darf nur in den Monaten Oktober bis Dezember mit Schrot beschossen werden.
+<sup>2</sup> Rehe dürfen nur in den Monaten Oktober bis Dezember mit Schrot beschossen werden.
 
 <sup>3</sup> Wildschweine dürfen mit Kugel oder Flintenlaufgeschoss, Frischlinge auch mit Schrot beschossen werden.
 
 <sup>4</sup> Hirsch und Gämse dürfen nur mit Kugel beschossen werden.
 
-<sup>5</sup> Für den Fangschuss aus naher Distanz sind Faustfeuerwaffen und Einsatzpatronen in Flinten (Mindestkaliber .22) gestattet.
+<sup>5</sup> Für den Fangschuss aus naher Distanz sind Faustfeuerwaffen und Einsatzpatronen in Flinten (Mindestkaliber .22) gestattet. Vollmantelgeschosse sind nur für den Fangschuss aus Faustfeuerwaffen und aus Fangschussgebern gestattet.
 
 <sup>6</sup> Die Verwendung von Bleischrot für die Wasserjagd ist verboten.
 
@@ -242,11 +257,13 @@ beschliesst:
 
 <sup>2</sup> Als Stöberhunde sind ausser Deutschen Wachtelhunden, Spaniels, Laufhunden/Bracken nur Jagdhunde mit einer Risthöhe bis 42 cm zugelassen. Diese Einschränkung gilt nicht für die Wasserjagd.
 
-<sup>3</sup> Die Verwendung von spur- und fährtenlauten Stöberhunden ist vom 1. Oktober bis 31. Dezember erlaubt. Für die Wasserjagd und die Verlorensuche müssen geprüfte Apportierhunde eingesetzt werden.
+<sup>3</sup> Die Verwendung von spur-, fährten- und sichtlauten Stöberhunden ist vom 1. Oktober bis 31. Dezember erlaubt. Für die Wasserjagd und die Verlorensuche müssen geprüfte Apportierhunde eingesetzt werden.
 
 <sup>4</sup> Die Baujagd ist nur mit einem am Kunstbau geprüften Bodenhund zulässig.
 
 <sup>5</sup> Für jedes beschossene oder verunfallte Wildtier, das nicht auf Sichtdistanz verendet ist, muss eine fachgerechte Nachsuche mit einem geprüften Nachsuchehund durchgeführt werden.
+
+<sup>5<sup>bis</sup></sup> Wird die Nachsuche über die Reviergrenze nicht zwischen den Nachbarrevieren geregelt, dürfen Nachsuchen unter zeitnaher Information des Nachbarreviers uneingeschränkt über Reviergrenzen hinaus erfolgen.
 
 <sup>6</sup> Anerkannt sind Prüfungen und Nachweise gemäss schweizerischem Standard oder gemäss Reglementen mit vergleichbaren Anforderungen.
 
@@ -255,6 +272,8 @@ beschliesst:
 **Jagdstatistik (§ 15 AJSG)**
 
 <sup>1</sup> Die Jagdgesellschaften melden der Fachstelle die jagdstatistischen Angaben des abgelaufenen Pachtjahrs bis spätestens 31. Januar des Folgejahrs.
+
+<sup>1<sup>bis</sup></sup> Nottötungen von verletzten oder kranken jagdbaren Wildtieren während der Schonzeit sowie von geschützten Wildtieren sind unverzüglich in die Jagdstatistik einzutragen. Die übrigen Abschüsse sind mindestens quartalsweise einzutragen.
 
 <sup>2</sup> Die Jagdstatistik umfasst die für den Bund und den Kanton benötigten Angaben zu Abschüssen, Fallwild und Beständen der wichtigsten Wildtierarten.
 
@@ -265,6 +284,8 @@ beschliesst:
 **Einschränkungen der Jagd (§ 16 AJSG)**
 
 <sup>1</sup> In Wohn- und Ökonomiegebäuden und deren nächster Umgebung (50 m), in Friedhöfen, Baumschulen, Park- und Gartenanlagen sowie in eingezäunten Anlagen des Wein-, Obst-, Gemüse- und Beerenbaus ist die Jagd ohne Bewilligung der Grundeigentümerinnen und Grundeigentümer beziehungsweise der für die Bewirtschaftung des Grundeigentums zuständigen Personen verboten.
+
+<sup>2</sup> Im Bereich von Vernetzungsbauwerken und den entsprechenden Warteräumen in Wildtierkorridoren ist die Jagd nur mit Bewilligung der kantonalen Fachstelle gestattet.
 
 ## 3. Arten- und Lebensraumschutz
 
@@ -279,15 +300,25 @@ beschliesst:
 
 <sup>2</sup> Weibliche Wildschweine (Bachen) sind vom 1. April bis 30. September geschützt, solange sie laktierend sind. Leitbachen sind zu schonen.
 
+<sup>2<sup>bis</sup></sup> Führende Alttiere beim Rothirsch und führende Geissen bei der Gämse sind geschützt. Kombinierte Abschüsse von Kälbern und Alttieren sowie von Gamskitzen und Geissen sind gestattet.
+
 <sup>3</sup> Das Füttern von Wildtieren ist verboten, ausser in kleinen Mengen bei der Singvogelfütterung und der Lockjagd gemäss § 15 Abs. 3.
 
 <sup>4</sup> Die Bewilligung zur Haltung von einheimischen jagdbaren und geschützten Wildtieren wird durch die Fachstelle gemäss den Artikeln 6 und 6<sup>bis</sup> JSV erteilt.
+
+<sup>5</sup> Der Schutz von jungen Wildtieren während der Mäh- und Erntearbeiten ist Aufgabe der Bewirtschafterin oder des Bewirtschafters der betroffenen landwirtschaftlichen Fläche. Die Jagdgesellschaft des betroffenen Jagdreviers kann die Arbeiten unterstützen.
+
+<sup>6</sup> Weide- und Wildschutzzäune sind fachgerecht einzurichten und zu unterhalten, um das Risiko zu minimieren, dass sich ein Wildtier darin verfängt oder verletzt. Mobile Weidenetze wie Flexinetze sind bei Nichtgebrauch innert Wochenfrist wieder zu entfernen.
+
+<sup>7</sup> Vermähte oder in Zäunen gefangene Wildtiere müssen unverzüglich der Jagdaufsicht des betroffenen Jagdreviers gemeldet werden.
+
+<sup>8</sup> Zäune dürfen Wildtierkorridore nicht dauerhaft beeinträchtigen.
 
 #### § 21
 
 **Schutz vor Störungen (§ 19 AJSG)**
 
-<sup>1</sup> Hunde sind im Wald und am Waldrand vom 1. April bis 31. Juli an der Leine zu führen. In der übrigen Zeit können Hunde auf Waldstrassen unter direkter Aufsicht ohne Leine geführt werden.
+<sup>1</sup> Hunde sind im Wald und bis 50 m ab Waldrand vom 1. April bis 31. Juli an der Leine zu führen. In der übrigen Zeit können Hunde auf Waldstrassen unter direkter Aufsicht ohne Leine geführt werden.
 
 <sup>2</sup> Für Jagd- und Polizeihunde beim Einsatz und bei der Ausbildung gelten diese Einschränkungen nicht.
 
@@ -312,6 +343,8 @@ beschliesst:
 **Verhütungsmassnahmen (§ 21 AJSG)**
 
 <sup>1</sup> [^23-1]Massnahmen zur Verhütung von Wildschäden müssen zweckmässig und einer ordnungsgemässen Bewirtschaftung sowie Bejagung angepasst sein. Sie sollen dem Lebensraum, den Wechseln und den Fluchtwegen der Wildtiere Rechnung tragen.
+
+<sup>2</sup> Als Herdenschutzmassnahmen gegen Grossraubtiere werden Herdenschutzzäune und Herdenschutzhunde anerkannt.
 
 [^23-1]: Inkrafttreten: 1. Januar 2011 (AGS 2009 S. 337)
 
@@ -344,23 +377,20 @@ beschliesst:
 
 **Bagatellschaden (§ 23 AJSG)**
 
-<sup>1</sup> [^25-1]Als Bagatellschaden gilt ein Schaden, der Fr. 150.– im Einzelfall nicht überschreitet.
-
-[^25-1]: Inkrafttreten: 1. Januar 2011 (AGS 2009 S. 337)
+<sup>1</sup> Als Bagatellschaden gilt ein Schaden, der Fr. 100.– im Einzelfall nicht überschreitet.
 
 #### § 26
 
 **Abgeltung und Beiträge (§ 25 AJSG)**
 
-<sup>1</sup> [^26-1]Für Schäden, welche durch die gemäss Art. 13 Abs. 4 des Bundesgesetzes bestimmten, geschützten Wildtierarten verursacht werden, leistet der Kanton Abgeltungen.
+<sup>1</sup> Der Kanton leistet Abgeltungen für Massnahmen zur Verhütung von Wildschäden und für Schäden, die durch bestimmte geschützte Wildtierarten verursacht werden, gemäss den Art. 12 Abs. 5 sowie 13 Abs. 4 und 5 JSG.
 
-<sup>2</sup> [^26-2]Für die dauerhafte Einzäunung von Obstertrags- und Beerenanlagen leistet der Kanton einen einmaligen Beitrag in der Höhe der pauschalisierten Kosten des Zaunmaterials.
+<sup>2</sup> [^26-1]Für die dauerhafte Einzäunung von Obstertrags- und Beerenanlagen leistet der Kanton einen einmaligen Beitrag in der Höhe der pauschalisierten Kosten des Zaunmaterials.
 
-<sup>3</sup> [^26-3]Leistet der Kanton Beiträge an Massnahmen zur Waldverjüngung, werden bei deren Festsetzung die Kosten der Verhütungsmassnahmen gegen Wildschäden berücksichtigt. Die einzelnen Jagdgesellschaften sind in diesen Fällen von der Beitragspflicht gemäss § 24 Abs. 2 AJSG befreit.
+<sup>3</sup> [^26-2]Leistet der Kanton Beiträge an Massnahmen zur Waldverjüngung, werden bei deren Festsetzung die Kosten der Verhütungsmassnahmen gegen Wildschäden berücksichtigt. Die einzelnen Jagdgesellschaften sind in diesen Fällen von der Beitragspflicht gemäss § 24 Abs. 2 AJSG befreit.
 
 [^26-1]: Inkrafttreten: 1. Januar 2011 (AGS 2009 S. 337)
 [^26-2]: Inkrafttreten: 1. Januar 2011 (AGS 2009 S. 337)
-[^26-3]: Inkrafttreten: 1. Januar 2011 (AGS 2009 S. 337)
 
 ## 5. Jagdaufsicht
 
@@ -374,9 +404,12 @@ beschliesst:
 - b) Mitwirkung bei Erhebungen zur Jagdstatistik, bei Abschussplanungen, bei der Bekämpfung von Tierseuchen und beim Vollzug jagdrechtlicher Anordnungen,
 - c) Beratung der Grundeigentümerinnen und Grundeigentümer beziehungsweise der für die Bewirtschaftung des Grundeigentums zuständigen Personen in der Anwendung von Verhütungs- und Selbsthilfemassnahmen,
 - d) Unterstützung der Jagdgesellschaften bei der Kontrolle der Jagdpässe und Jagdkarten,
-- e) Melde- und Koordinationsstelle bei Fragen und Problemen im Zusammenhang mit Wildtieren, insbesondere bei Unfällen mit Wildtieren.
+- e) Melde- und Koordinationsstelle bei Fragen und Problemen im Zusammenhang mit Wildtieren, insbesondere bei Unfällen mit Wildtieren und bei allfällig notwendigen Nachsuchen auf verletzte Wildtiere,
+- f) Erlegung von verletzten oder kranken Wildtieren.
 
 <sup>2</sup> Jagdaufseherinnen und Jagdaufseher nehmen an den Aus- und Weiterbildungskursen gemäss § 33 Abs. 1 AJSG teil.
+
+<sup>3</sup> Jagdberechtigte können verletzte oder kranke Tiere jagdbarer Arten jederzeit erlegen.
 
 ## 6. Bildung und Information
 
@@ -409,8 +442,8 @@ beschliesst:
 <sup>1</sup> Ein Fehlabschuss gemäss § 36 Abs. 4 AJSG liegt nur vor, wenn
 
 - a) im Rahmen der Wildschweinbejagung vom 1. April bis 30. September versehentlich eine laktierende Bache erlegt wird,
-- b) im Rahmen der Rehwildbejagung vom 1. Mai bis 31. August versehentlich eine laktierende Rehgeiss erlegt wird,
-- c) im Rahmen der Gams- und Rotwildbejagung versehentlich ein gemäss Massnahmenplan nicht freigegebenes Tier erlegt wird.
+- b) im Rahmen der Rehbejagung vom 1. Mai bis 31. August versehentlich eine laktierende Rehgeiss erlegt wird,
+- c) im Rahmen der Gams- und Rothirschbejagung versehentlich ein gemäss kantonaler Abschussplanung nicht freigegebenes Tier erlegt wird.
 
 <sup>2</sup> Die betreffende Jägerin oder der betreffende Jäger meldet Fehlabschüsse der Fachstelle innert zwei Arbeitstagen schriftlich. Die betreffende Jagdgesellschaft bestätigt mit ihrem Visum, dass sie von der Meldung Kenntnis genommen hat.
 
