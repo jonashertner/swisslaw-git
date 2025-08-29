@@ -4,13 +4,13 @@ number: "781.211"
 title: Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über den Schutz von Umwelt und Gewässern
 short: V EG UWR
 language: de
-version: 2024-07-01
-valid_until: 2025-08-29
-version_adopted: 2024-03-13
+version: 2025-08-30
+valid_until: 2026-02-28
+version_adopted: 2025-05-28
 adopted: 2008-05-14
 in_force: 2008-09-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/781.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3512/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3838/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3512/pdf_file"
 
 (V EG UWR)
 
-Vom 14.05.2008 (Stand 01.07.2024)
+Vom 14.05.2008 (Stand 30.08.2025)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf § 40 des Einführungsgesetzes zur Bundesgesetzgebung über den Schutz von Umwelt und Gewässern (EG Umweltrecht, EG UWR) vom 4. September 2007[^ingress-1],
+gestützt auf die §§ 24 Abs. 3 und 40 des Einführungsgesetzes zur Bundesgesetzgebung über den Schutz von Umwelt und Gewässern (EG Umweltrecht, EG UWR) vom 4. September 2007[^ingress-1],
 
 beschliesst:
 
@@ -508,9 +508,55 @@ beschliesst:
 
 #### § 44
 
-**Emissionsbegrenzung bei Güllebehältern**
+**…**
 
-<sup>1</sup> Bei neuen und wesentlich geänderten Behältern für Gülle sind die Emissionen von Ammoniak mit einer Abdeckung nach dem Stand der Technik zu reduzieren.
+#### § 44a
+
+**Holzfeuerungen ab 70 kW Feuerungswärmeleistung**
+
+<sup>1</sup> Holzfeuerungsanlagen mit einer Feuerungswärmeleistung ab 70 kW, die mit Holzbrennstoffen gemäss Anhang 5 Ziff. 31 Abs. 1 LRV betrieben werden, sind mit einer geeigneten Messeinrichtung auszurüsten, die die Ein- und Ausschaltvorgänge registriert.
+
+<sup>2</sup> Die zulässige Zahl der Einschaltvorgänge pro Jahr beträgt höchstens
+
+- a) 1000 für Anlagen mit einer Feuerungswärmeleistung bis 100 kW,
+- b) 500 für Anlagen mit einer Feuerungswärmeleistung von mehr als 100 kW.
+
+<sup>3</sup> Weist eine Anlage zu viele Einschaltvorgänge auf, muss sie innerhalb von zwei Jahren einreguliert werden.
+
+<sup>4</sup> Bei Anlagen mit mehreren Einzelfeuerungen in einer betrieblichen Einheit (Kaskadenanlagen) erfolgt die Beurteilung und zahlenmässige Begrenzung der Einschaltvorgänge einzelfallweise.
+
+#### § 44b
+
+**Feststoffbegrenzungen für Holzfeuerungen ab 70 kW bis 500 kW Feuerungswärmeleistung**
+
+<sup>1</sup> Holzfeuerungsanlagen mit einer Feuerungswärmeleistung ab 70 kW bis 500 kW, die mit Holzbrennstoffen gemäss Anhang 5 Ziff. 31 Abs. 1 LRV betrieben werden, müssen den Grenzwert für Feststoffe von 20 mg/m³, bezogen auf einen Sauerstoffgehalt im Abgas von 13 Prozent (% vol), einhalten.
+
+<sup>2</sup> Die Bestimmung gilt nicht für bestehende Anlagen, die die Emissionsgrenzwerte für Feststoffe gemäss Anhang 3 Ziff. 522 Abs. 1 LRV einhalten.
+
+#### § 44c
+
+**Altholz-Feuerungsanlagen bis 10 MW Feuerungswärmeleistung**
+
+<sup>1</sup> Für Anlagen mit einer Feuerungswärmeleistung bis 10 MW, in denen Altholz gemäss Anhang 5 Ziff. 31 Abs. 2 lit. a LRV verbrannt wird, gelten für Staub, Kohlenmonoxid (CO) und Stickoxide (NO<sub>X</sub>), angegeben als Stickstoffdioxid, dieselben Emissionsgrenzwerte wie für Anlagen mit einer Feuerungswärmeleistung ab 10 MW gemäss Anhang 2 Ziff. 723 lit. b sowie Ziff. 726 Abs. 1<sup>bis</sup> und 2 LRV.
+
+<sup>2</sup> Die Anlagen sind mit einer kontinuierlichen Emissionsmessung zu überwachen.
+
+<sup>3</sup> Die kontinuierliche Emissionsmessung umfasst die Stoffe Kohlenmonoxid (CO) sowie Stickoxide NO<sub>X</sub>, angegeben als Stickstoffdioxid.
+
+<sup>4</sup> Staubförmige Emissionen werden mit kontinuierlicher Emissionsmessung oder einer anderen geeigneten Einrichtung überwacht.
+
+<sup>5</sup> Wird die Anlage mit einer Entstickungsanlage betrieben, sind die Emissionen von Ammoniak und Ammoniumverbindungen, angegeben als Ammoniak, kontinuierlich messtechnisch zu überwachen.
+
+<sup>6</sup> Die Inhaberinnen und Inhaber der Anlagen sind verpflichtet, einen Jahresbericht über die kontinuierliche Überwachung zu erstellen und der Behörde einzureichen. Für die Auswertung gilt insbesondere Art. 15 Abs. 4 LRV.
+
+#### § 44d
+
+**Emissionsbegrenzungen für Holzfeuerungen ab 3 MW bis 10 MW Feuerungswärmeleistung**
+
+<sup>1</sup> Die Emissionen von Stickoxiden, angegeben als Stickstoffdioxid, dürfen bei Holzfeuerungen mit einer Feuerungswärmeleistung ab 3 MW bis 10 MW, die mit Holzbrennstoffen gemäss Anhang 5 Ziff. 31 Abs. 1 LRV betrieben werden, unabhängig vom Massenstrom und bezogen auf einen Sauerstoffgehalt im Abgas von 11 Prozent (% vol), folgende Emissionsgrenzwerte nicht überschreiten:
+
+- a) bei einer Betriebslast ab 50 % — 150 mg/m³
+- b) bei einer Betriebslast unter 50 % — 250 mg/m³
 
 #### § 45
 
@@ -568,7 +614,9 @@ beschliesst:
 
 <sup>2</sup> Die Behörden können von den Anlagebetreibenden im Rahmen der periodischen Kontrollen nach Art. 13 LRV entsprechende Nachweise verlangen.
 
-<sup>3</sup> Ist zu erwarten, dass mit neuen betrieblichen oder technischen Massnahmen die VOC-Emissionen eines bestimmten Grossemittenten gegenüber dem Istzustand um mindestens die Hälfte oder unter 4 Tonnen pro Jahr reduziert werden können, informiert die Behörde die Anlagebetreiberin beziehungsweise den Anlagebetreiber und holt von ihnen eine entsprechende Stellungnahme ein. Diese hat sich über die technischen, betrieblichen und wirtschaftlichen Konsequenzen eines allfälligen Einsatzes dieser Massnahmen im Betrieb zu äussern.
+<sup>3</sup> Ist zu erwarten, dass mit betrieblichen oder technischen Massnahmen die VOC-Emissionen eines bestimmten Grossemittenten gegenüber dem Istzustand um mindestens 25 % oder unter 4 Tonnen pro Jahr reduziert werden können, informiert die Behörde die Inhaberinnen und Inhaber der Anlage und holt von ihnen eine entsprechende Stellungnahme ein. In dieser sind geeignete Massnahmen zur Senkung der VOC-Emissionen vorzuschlagen und die technischen, betrieblichen und wirtschaftlichen Konsequenzen einer allfälligen Umsetzung aufzuzeigen.
+
+<sup>3<sup>bis</sup></sup> Grossemittenten, deren VOC-Emissionen 10 Tonnen pro Jahr überschreiten, legen zusätzlich einen Plan für eine längerfristige VOC-Emissionssenkung vor («VOC-Absenkpfad»). Darin zeigen sie mittel- bis langfristige strategische, betriebliche und organisatorische Massnahmen auf, die zur Verminderung der VOC-Emissionen führen, wie zum Beispiel Produktionsumstellungen, Rezeptur- und Produktanpassungen.
 
 <sup>4</sup> Ist die Reduktion verhältnismässig, erlässt die Behörde die entsprechende Sanierungsverfügung.
 
@@ -599,6 +647,56 @@ beschliesst:
 <sup>2</sup> Für Feuerungsanlagen, die gemäss § 30 Abs. 3 lit. b des Gesetzes der Aufsicht und Kontrolle durch die Gemeinde unterstehen, legt die Fachstelle die Sanierungsfristen in den entsprechenden Weisungen fest. Sie berücksichtigt dabei das Alter der Anlage sowie die Höhe der Überschreitung der Emissionsbegrenzung.
 
 <sup>3</sup> Für die übrigen Feuerungsanlagen wird die Sanierungsfrist unter Berücksichtigung des Alters der Anlage sowie der Höhe der Überschreitung der Emissionsbegrenzung im Einzelfall festgelegt.
+
+#### § 53a
+
+**Verbrennungsmotoren von Notstromgruppen**
+
+<sup>1</sup> Die Verbrennungsmotoren von Notstromgruppen (Anhang 2 Ziff. 827 LRV) müssen mit einem Betriebsstundenzähler ausgerüstet sein und dürfen pro Jahr höchstens 30 Betriebsstunden aufweisen.
+
+<sup>2</sup> Sie dürfen, unabhängig von der Feuerungswärmeleistung, bezogen auf einen Sauerstoffgehalt im Abgas von 5 Prozent (% vol), folgende Emissionsgrenzwerte nicht überschreiten:
+
+- a) Kohlenmonoxid (CO) — 650 mg/m³
+- b) Stickoxide (NO<sub>X</sub>), angegeben als Stickstoffdioxid — 2’000 mg/m³
+- c) Ammoniak und Ammoniumverbindungen, angegeben als Ammoniak (NH<sub>3</sub>), wenn die Anlage mit einer Entstickungsanlage betrieben wird — 30 mg/m³
+
+<sup>3</sup> Die Mindesthöhe der Kamine für Notstromgruppen mit einer Feuerungswärmeleistung bis 350 kW berechnet sich nach der Bestimmung «Kaminhöhen für kleine Feuerungsanlagen», für leistungsstärkere Anlagen nach der Bestimmung «Kaminhöhen für grössere Feuerungsanlagen» gemäss der Vollzugshilfe «Mindesthöhe von Kaminen über Dach; Kamin-Empfehlungen" des Bundesamts für Umwelt (BAFU) von 2018[^53a-1].
+
+<sup>4</sup> Besteht trotz vorsorglicher Emissionsbegrenzung die Gefahr von lokal übermässigen Immissionen, zum Beispiel bei mehreren Grossanlagen mit überlappendem Einwirkbereich, kann eine Koordination oder die Begrenzung der Testläufe der einzelnen Anlagen verlangt werden.
+
+<sup>5</sup> Spitzenlastabdeckungen (Stromnetz) durch Notstromgruppen sind untersagt, wenn die Anforderungen gemäss den Absätzen 1–4 nicht erfüllt sind.
+
+[^53a-1]: [www.bafu.admin.ch/luft](https://www.bafu.admin.ch/luft) &gt; Rechtsetzung und Vollzug &gt; Vollzugshilfen
+
+#### § 53b
+
+**Emissionsbegrenzungen für stationäre Verbrennungsmotoren bis 100 kW Feuerungswärmeleistung**
+
+<sup>1</sup> Die Kohlenmonoxid-Emissionen (CO) von stationären Verbrennungsmotoren bis 100 kW Feuerungswärmeleistung dürfen, unabhängig vom eingesetzten Brenn- oder Treibstoff, den Emissionsgrenzwert von 650 mg/m³ – bezogen auf einen Sauerstoffgehalt im Abgas von 5 Prozent (% vol) – nicht überschreiten.
+
+#### § 53c
+
+**Emissionsbegrenzungen für Nachverbrennungsanlagen**
+
+<sup>1</sup> Thermische, regenerative oder katalytische Nachverbrennungen, die gemäss Anhang 1 LRV beurteilt werden, dürfen folgende Emissionsgrenzwerte nicht übersteigen:
+
+- a) Zusätzlich zu Anhang 1 Ziff. 7 LRV gilt ein Emissionsgrenzwert für gasförmige organische Stoffe, angegeben als Gesamtkohlenstoff (Gesamt-C), von 20 mg/m³,
+- b) wenn die Jahresfracht an Stickoxiden, angegeben als Stickstoffdioxid, mehr als 5 Tonnen beträgt, gilt abweichend von Anhang 1 Ziff. 6 LRV und unabhängig vom Massenstrom ein Emissionsgrenzwert für Stickoxide, angegeben als Stickstoffdioxid (NO<sub>X</sub>), von 100 mg/m³,
+- c) für Kohlenmonoxid (CO) gilt ein Emissionsgrenzwert von 50 mg/m³.
+
+#### § 53d
+
+**Benzintankstellen**
+
+<sup>1</sup> Neue oder diesen gemäss Art. 2 Abs. 4 LRV gleichgestellte Benzintankstellen sowie der Ersatz von Tanksäulen bestehender Anlagen müssen mit automatischen Funktionssicherungen für das Gasrückführsystem ausgerüstet sein.
+
+<sup>2</sup> Die Gasrückführrate muss so eingestellt sein, dass die LRV-Anforderungen (Anhang 2 Ziff. 33 Abs. 3 LRV) jederzeit erfüllt sind. Das System muss einen Defekt oder Ausfall anzeigen und, falls dieser nicht behoben wird, spätestens nach 72 Stunden automatisch die Benzinförderung abstellen.
+
+<sup>3</sup> Das Kontrollintervall für Tankstellen ohne automatische Funktionssicherung beträgt 12 Monate, für Anlagen älter als 12 Jahre oder bei Nichteinhalten der LRV-Vorgaben 6 Monate.
+
+<sup>4</sup> Das Kontrollintervall für Tankstellen mit selbstüberwachter automatischer Funktionssicherung beträgt 2 Jahre, bei Nichteinhalten der LRV-Vorgaben 1 Jahr.
+
+<sup>5</sup> Das Kontrollintervall für Tankstellen mit selbstregulierender automatischer Funktionssicherung beträgt 3 Jahre, bei Nichteinhalten der LRV-Vorgaben 1 Jahr.
 
 ## 9. Lärmschutz
 
@@ -721,6 +819,17 @@ beschliesst:
 #### § 67
 
 **…**
+
+#### § 67a
+
+**Übergangsbestimmungen zur Änderung vom 28. Mai 2025**
+
+<sup>1</sup> Anlagen mit Inbetriebnahme vor dem Inkrafttreten dieser Änderung sind bei einer Verletzung folgender Bestimmungen sanierungspflichtig:
+
+- a) §§ 44a Abs. 2, 44d, 53b oder 53c; die Sanierungsfrist beträgt höchstens 5 Jahre,
+- b) §§ 44c Abs. 1, 53a Abs. 2 oder 53a Abs. 3; die Sanierungsfrist beträgt höchstens 10 Jahre.
+
+<sup>2</sup> Für Anlagen, die mit dem Inkrafttreten dieser Änderung gegen § 44b Abs. 1 verstossen und zusätzlich Emissionsgrenzwerte für Feststoffe gemäss Anhang 3 Ziff. 522 Abs. 1 LRV verletzen, beträgt die Sanierungsfrist höchstens 5 Jahre.
 
 #### § 68
 
