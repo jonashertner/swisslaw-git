@@ -4,13 +4,13 @@ number: "662.111"
 title: Gebührenverordnung
 short: GebührV
 language: de
-version: 2025-07-01
-valid_until: 2025-08-31
-version_adopted: 2025-04-02
+version: 2025-09-01
+valid_until: 2026-07-31
+version_adopted: 2025-06-25
 adopted: 2024-03-13
 in_force: 2024-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/662.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3816/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3849/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3816/pdf_file"
 
 (GebührV)
 
-Vom 13.03.2024 (Stand 01.07.2025)
+Vom 13.03.2024 (Stand 01.09.2025)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -559,12 +559,13 @@ beschliesst:
 
 #### § 22
 
-**Höhere Fachschule (HF) Gesundheit und Soziales Aarau**
+**Höhere Fachschule Gesundheit und Soziales (HFGS)**
 
-<sup>1</sup> Die HF Gesundheit und Soziales Aarau erhebt pro Schul- beziehungsweise Praktikumssemester folgende Studiengebühren:
+<sup>1</sup> Die Höhere Fachschule Gesundheit und Soziales (HFGS) erhebt pro Schul- beziehungsweise Praktikumssemester folgende Studiengebühren:
 
-- a) Bildungsgänge HF Pflege und HF Operationstechnik — Fr. 500.–
-- b) Bildungsgang HF Sozialpädagogik — Fr. 1'000.–
+- a) Bildungsgang Operationstechnik HF — Fr. 500.–
+- b) Bildungsgang Sozialpädagogik HF — Fr. 1'000.–
+- c) Bildungsgang Pflege HF — Fr. 250.–
 
 <sup>2</sup> Studierende, die ihren Wohnsitz gemäss der Interkantonalen Vereinbarung über Beiträge an die Bildungsgänge der höheren Fachschulen (HFSV) vom 22. März 2012[^22-1] ausserhalb des Kantons Aargau haben und für die kein anderer Kanton beziehungsweise Staat auf Grund einer Vereinbarung zu Lastenausgleichszahlungen verpflichtet ist, entrichten eine zusätzliche Studiengebühr gemäss dem jeweils geltenden Tarif der vorerwähnten Vereinbarung.
 
