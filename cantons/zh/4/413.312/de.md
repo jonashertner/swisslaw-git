@@ -4,11 +4,10 @@ number: "413.312"
 title: Verordnung über die Finanzierung von Leistungen der Berufsbildung (VFin BBG)
 short: VFin BBG
 language: de
-version: "2024-08-01"
-nachtrag: "125"
-valid_until: 2025-09-01
+version: "2025-09-01"
+nachtrag: "130"
 adopted: 2010-11-24
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_312-2010_11_24-2011_01_01-125.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_312-2010_11_24-2011_01_01-130.html"
 text: pdf
 ---
 
@@ -54,7 +53,7 @@ Diese Verordnung regelt den Vollzug der §§ 35–43 betreffend Leistungsvereinb
 
 **1**
 
-- 1\. 7. 24 - 125
+1.10. 25 - 130
 
 ### C. Kostenanteile und Subventionen<sup>20</sup>
 
@@ -134,11 +133,11 @@ Das Amt kann die Ausrichtung von Staatsbeiträgen von Auflagen wie Mindest- oder
 
 <sup>2</sup> Massgebend ist die Anzahl Lernender mit stipendienrechtlichem Wohnsitz im Kanton Zürich während des Schuljahres. Im Übrigen richtet sich die Höhe der Pauschalen nach Anhang 3.
 
-#### § 6
+<sup>3</sup> Die Pauschalen beruhen auf dem Landesindex der Konsumentenpreise, Stand April 2024. Verändert sich der Landesindex seit der letzten Anpassung um mindestens 1%, kann der Regierungsrat die Pauschalen alle vier Jahre auf den 1. September des gleichen Jahres der Teuerung anpassen. Massgebend ist der Indexstand von April.<sup>21</sup>
 
 **Investitionsbeiträge**
 
-<sup>1</sup> Einer Bildungseinrichtung kann ausnahmsweise ein Investitionsbeitrag nach § 38 EG BBG geleistet werden, wenn a. sie eine für die Weiterführung des Bildungsangebots notwendige Investition nicht mit eigenen Mitteln oder durch Dritte sicherstellen kann oder b. der Kanton an Bauten oder Anlagen von Berufsfach- und Berufsmaturitätsschulen bereits Investitionsbeiträge gemäss § 38 Abs. 2 EG BBG geleistet hat und sich die Finanzierung ergänzender Investitionen mittels Pauschalen als unzweckmässig erweist.
+§ 6. <sup>1</sup> Einer Bildungseinrichtung kann ausnahmsweise ein Investitionsbeitrag nach § 38 EG BBG geleistet werden, wenn a. sie eine für die Weiterführung des Bildungsangebots notwendige Investition nicht mit eigenen Mitteln oder durch Dritte sicherstellen kann oder b. der Kanton an Bauten oder Anlagen von Berufsfach- und Berufsmaturitätsschulen bereits Investitionsbeiträge gemäss § 38 Abs. 2 EG BBG geleistet hat und sich die Finanzierung ergänzender Investitionen mittels Pauschalen als unzweckmässig erweist.
 
 <sup>2</sup> Die anrechenbaren Aufwendungen gemäss § 3 Abs. 1 lit. c werden entsprechend gekürzt.
 
@@ -222,11 +221,11 @@ Beiträge können durch das Amt gekürzt, verweigert oder zurückgefordert werde
 
 <sup>1</sup> Besteht an einem Bildungsangebot ein besonderes öffentliches Interesse, kann das Amt eine Ermässigung oder den Erlass der Schul- oder Kursgelder vorschreiben.<sup>20</sup>
 
-<sup>2</sup> Lernende der Sekundarstufe I mit Wohnsitz im Kanton bezahlen die Hälfte des ordentlichen Kursgeldes für an ihrer Schule nicht vermittelte Bildungsangebote, mit denen sie die für eine Berufslehre vorausgesetzten Fähigkeiten erlangen.
-
 **5**
 
-- 1\. 7. 24 - 125
+1.10. 25 - 130
+
+<sup>2</sup> Lernende der Sekundarstufe I mit Wohnsitz im Kanton bezahlen die Hälfte des ordentlichen Kursgeldes für an ihrer Schule nicht vermittelte Bildungsangebote, mit denen sie die für eine Berufslehre vorausgesetzten Fähigkeiten erlangen.
 
 <sup>3</sup> Lernende mit Wohnsitz im Kanton, die eine Lehre absolvieren oder eine Mittelschule oder eine Berufsmaturitätsschule besuchen, bezahlen für Weiterbildungsangebote, die ihnen nicht als Freikurs ermöglicht werden, die Hälfte des ordentlichen Kursgeldes.
 
@@ -298,17 +297,21 @@ Beiträge können durch das Amt gekürzt, verweigert oder zurückgefordert werde
 
 Für Unterrichtsmaterial und von der Bildungseinrichtung abgegebene persönliche Lehrmittel wird eine kostendeckende Pauschale verrechnet.
 
-### G.<sup>9</sup> Schlussbestimmungen
+**7**
+
+1.10. 25 - 130
+
+[^21-1]: Fassung gemäss RRB vom 30. April 2014 (OS 69, 314; ABl 2014-05-09). In Kraft seit 18. August 2014.
+
+### G. Schlussbestimmungen
+
+[^21-1]
 
 #### § 22
 
 **Übergangsbestimmung**
 
 <sup>1</sup> Bis zum Abschluss einer Leistungsvereinbarung gemäss § 35 EG BBG bemisst sich der Staatsbeitrag nach den Beitragsleistungen, die der Kanton und der Bund der Bildungseinrichtung bisher ausgerichtet haben. Er setzt sich aus einem Grundbetrag und einer ergänzenden Pauschale zusammen.
-
-**7**
-
-- 1\. 7. 24 - 125
 
 <sup>2</sup> Der Grundbeitrag entspricht dem Staatsbeitrag gemäss der Verordnung über Staatsbeiträge an die Berufsbildung vom 2. Dezember 1987. Die ergänzende Pauschale bemisst sich nach dem durchschnittlichen Bundesbeitragsanteil der Beitragsjahre 2008 und 2009.
 
@@ -344,30 +347,6 @@ Für Semester der Bildungsgänge an höheren Fachschulen, die vor dem 16. Mai 20
 
 An vorbereitende Kurse für eidgenössische Berufsprüfungen und eidgenössische höhere Fachprüfungen mit Beginn vor dem 1. August 2017 werden Subventionen nach bisherigem Recht geleistet.
 
-<sup>1</sup> OS 65, 914; Begründung siehe ABl 2010, 2650.
-
-<sup>2</sup> Inkrafttreten: 1. Januar 2011.
-
-<sup>3</sup> LS 413.31.
-
-<sup>4</sup> LS 413.311.
-
-<sup>5</sup> Eingefügt durch RRB vom 19. Dezember 2012 (OS 68, 54; ABl 2012-12-28). In Kraft seit 1. Januar 2013.
-
-<sup>6</sup> Fassung gemäss RRB vom 19. Dezember 2012 (OS 68, 54; ABl 2012-12-28). In Kraft seit 1. Januar 2013.
-
-<sup>7</sup> Fassung gemäss RRB vom 3. Juli 2013 (OS 69, 15; ABl 2013-07-12). In Kraft seit 16. Mai 2014.
-
-<sup>8</sup> Eingefügt durch RRB vom 30. April 2014 (OS 69, 314; ABl 2014-05-09). In Kraft seit 18. August 2014.
-
-<sup>9</sup> Fassung gemäss RRB vom 30. April 2014 (OS 69, 314; ABl 2014-05-09). In Kraft seit 18. August 2014.
-
-<sup>10</sup> Fassung gemäss RRB vom 1. April 2015 (OS 70, 159; ABl 2015-04-10). In Kraft seit 16. Mai 2015.
-
-<sup>11</sup> Aufgehoben durch RRB vom 1. April 2015 (OS 70, 159; ABl 2015-04-10). In Kraft seit 16. Mai 2015.
-
-<sup>12</sup> Fassung gemäss RRB vom 13. April 2016 (OS 71, 446; ABl 2016-04-22). In Kraft seit 1. Januar 2017.
-
 <sup>13</sup> Fassung gemäss RRB vom 2. November 2016 (OS 71, 480; ABl 2016-11-11). In Kraft seit 1. Januar 2017.
 
 <sup>14</sup> Aufgehoben durch RRB vom 2. November 2016 (OS 71, 480; ABl 2016-11- 11). In Kraft seit 1. Januar 2017.
@@ -384,9 +363,9 @@ An vorbereitende Kurse für eidgenössische Berufsprüfungen und eidgenössische
 
 <sup>20</sup> Fassung gemäss RRB vom 17. April 2024 (OS 79, 196; ABl 2024-05-03). In Kraft seit 1. August 2024.
 
-**9**
+<sup>21</sup> Eingefügt durch RRB vom 9. April 2025 (OS 80, 163; ABl 2025-04-25). In Kraft seit 1. September 2025.
 
-- 1\. 7. 24 - 125
+<sup>22</sup> Fassung gemäss RRB vom 9. April 2025 (OS 80, 163; ABl 2025-04-25). In Kraft seit 1. September 2025.
 
 ### Anhang 1<sup>6,</sup> <sup>9</sup>
 
@@ -418,51 +397,40 @@ Gebühren (§ 14)
 
 ### Anhang 2<sup>11</sup>
 
-### Anhang 3<sup>8</sup>
+**11**
 
-Pauschale pro Schuljahr und lernende Person (§ 5 f)
+1.10. 25 - 130
+
+### Anhang 3<sup>22</sup>
+
+Pauschale pro Schuljahr und lernende Person (§ 5 e)
 
 **Pauschale**
 
 Angebot (in Franken)
 
-**5 200**
+- 1\. Schulisches, praktisches und integrationsorientiertes 8 900 Angebot (§ 7 Abs. 1 lit. a, b und d VEG BBG)
 
-- 1\. Schulisches Angebot (§ 7 Abs. 1 lit. a VEG BBG)
+**5 600**
 
-- 2\. Praktisches Angebot (§ 7 Abs. 1 lit. b VEG BBG)
+- 2\. Betriebliches Angebot (§ 7 Abs. 1 lit. c VEG BBG)
 
-**5 200**
+**4 100**
 
-- a. Wirtschaft, Verwaltung, Detailhandel, Verkehr, Logistik, Kultur
-
-**7 200**
-
-- b. Informatik, Gesundheit, Soziales, Schönheit, Sport, Natur, Chemie, Physik
-
-- c. Nahrung, Gastgewerbe, Textilien, Gestaltung, Bau 12 000 Holz, Innenausbau, Fahrzeuge, Elektrotechnik, Metall, Maschinen, Druck, Gebäudetechnik, Planung, Konstruktion
-
-**7 200**
-
-- d. Andere
-
-**5 200**
-
-- 3\. Betriebliches Angebot (§ 7 Abs. 1 lit. c VEG BBG)
-
-**7 200**
-
-- 4\. Integrationsorientiertes Angebot (§ 7 Abs. 1 lit. d VEG BBG)
-
-**3 800**
-
-- 5\. Zusätzliche Begleitung pro Jahreslektion (§ 8 VEG BBG)
-
-**11**
-
-- 1\. 7. 24 - 125
+- 3\. Zusätzliche Begleitung pro Jahreslektion (§ 8 VEG BBG)
 
 ## Weitere Fussnoten
 
 - [*] Fundstelle: www.mba.zh.ch/internet/bildungsdirektion/mba/de/ personal\_finanzen/finanzen/beitragswesen.html.
-- [*] Fundstelle: www.mba.zh.ch/internet/bildungsdirektion/mba/de/ personal\_finanzen/finanzen/beitragswesen.html. 1. 7. 24 - 125 3
+- [*] Fundstelle: www.mba.zh.ch/internet/bildungsdirektion/mba/de/ personal\_finanzen/finanzen/beitragswesen.html. 1.10. 25 - 130 3
+- [1] OS 65, 914; Begründung siehe ABl 2010, 2650.
+- [2] Inkrafttreten: 1. Januar 2011.
+- [3] LS 413.31.
+- [4] LS 413.311.
+- [5] Eingefügt durch RRB vom 19. Dezember 2012 (OS 68, 54; ABl 2012-12-28). In Kraft seit 1. Januar 2013.
+- [6] Fassung gemäss RRB vom 19. Dezember 2012 (OS 68, 54; ABl 2012-12-28). In Kraft seit 1. Januar 2013.
+- [7] Fassung gemäss RRB vom 3. Juli 2013 (OS 69, 15; ABl 2013-07-12). In Kraft seit 16. Mai 2014.
+- [8] Eingefügt durch RRB vom 30. April 2014 (OS 69, 314; ABl 2014-05-09). In Kraft seit 18. August 2014.
+- [10] Fassung gemäss RRB vom 1. April 2015 (OS 70, 159; ABl 2015-04-10). In Kraft seit 16. Mai 2015.
+- [11] Aufgehoben durch RRB vom 1. April 2015 (OS 70, 159; ABl 2015-04-10). In Kraft seit 16. Mai 2015.
+- [12] Fassung gemäss RRB vom 13. April 2016 (OS 71, 446; ABl 2016-04-22). In Kraft seit 1. Januar 2017. 1.10. 25 - 130 9
