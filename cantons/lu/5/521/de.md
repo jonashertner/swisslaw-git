@@ -3,20 +3,20 @@ canton: LU
 number: "521"
 title: "Studienordnung für die Ausbildung an der Hochschule Luzern, FH Zentralschweiz"
 language: de
-version: 2024-09-01
-valid_until: 2025-08-31
-version_adopted: 2024-08-27
+version: 2025-09-01
+valid_until: 2026-08-31
+version_adopted: 2025-08-28
 adopted: 2014-06-13
 in_force: 2014-09-01
 url: "https://srl.lu.ch/app/de/texts_of_law/521"
-pdf: "https://srl.lu.ch/api/de/versions/4261/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4523/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Studienordnung für die Ausbildung an der Hochschule Luzern, FH Zentralschweiz
 
-vom 13.06.2014 (Stand 01.09.2024)
+vom 13.06.2014 (Stand 01.09.2025)
 
 Der Fachhochschulrat der Hochschule Luzern,
 
@@ -414,7 +414,7 @@ beschliesst:
 
 **Verwendungszweck**
 
-<sup>1</sup> Die Hochschule Luzern verwendet die ihr übertragenen Rechte grundsätzlich zu Zwecken im Zusammenhang mit dem Studium. Dazu gehören insbesondere die Archivierung, Dokumentation, Information, Katalogisierung in der Bibliothek beziehungsweise Mediothek, Werbung sowie Öffentlichkeitsarbeit. Darüber hinaus ist die Hochschule Luzern berechtigt, Dritten im Rahmen einer Zusammenarbeit, insbesondere bei studentischen Abschluss- und Projektarbeiten, in den Bereichen anwendungsorientierter Forschung und Entwicklung sowie bei Dienstleistungen, Rechte an urheberrechtlich geschützten studentischen Werken, verwandten Schutzrechten oder Erfindungen einzuräumen oder zu übertragen.
+<sup>1</sup> Die Hochschule Luzern verwendet die ihr übertragenen Rechte grundsätzlich zu Zwecken im Zusammenhang mit dem Studium. Dazu gehören insbesondere die Archivierung, Dokumentation, Information, Katalogisierung in der Bibliothek, Werbung sowie Öffentlichkeitsarbeit. Darüber hinaus ist die Hochschule Luzern berechtigt, Dritten im Rahmen einer Zusammenarbeit, insbesondere bei studentischen Abschluss- und Projektarbeiten, in den Bereichen anwendungsorientierter Forschung und Entwicklung sowie bei Dienstleistungen, Rechte an urheberrechtlich geschützten studentischen Werken, verwandten Schutzrechten oder Erfindungen einzuräumen oder zu übertragen.
 
 <sup>2</sup> Die Hochschule Luzern darf nach vorgängiger Information der oder des Studierenden Aufnahmen von Vorträgen, Aufführungen oder Vorführungen eines Werkes auf Ton-, Tonbild- oder Datenträger machen. Die Aufnahmen dürfen von der Hochschule Luzern ins Internet gestellt werden (Live-Stream, Podcast).
 
@@ -591,9 +591,12 @@ beschliesst:
 - a. eine abgeschlossene einschlägige Berufslehre mit anerkannter Berufsmaturität,
 - b. eine abgeschlossene nicht einschlägige Berufslehre mit anerkannter Berufsmaturität und mindestens ein Jahr Berufspraxis in einem einschlägigen Beruf,
 - c. eine anerkannte gymnasiale Maturität und mindestens ein Jahr Berufspraxis in einem einschlägigen Beruf,
-- d. der Abschluss einer Technikerschule im entsprechenden Fachgebiet oder
-- e. eine andere gleichwertige, das heisst mindestens dreijährige Ausbildung auf Sekundarstufe II, mehrjährige Berufspraxis auf dem Gebiet der gewählten Studienrichtung und ein erfolgreiches Absolvieren des Zulassungsstudiums der Hochschule Luzern – Technik und Architektur,
-- f. sowie dem Ausbildungsniveau entsprechende Kenntnisse der Unterrichtssprache.
+- d. eine eidgenössisch anerkannte Fachmaturität und mindestens ein Jahr Berufspraxis in einem einschlägigen Beruf,
+- e. eine abgeschlossene Berufslehre und ein einschlägiger HF-Diplomabschluss oder eine erfolgreich abgeschlossene, einschlägige Meisterprüfung (eidg. Dipl.),
+- f. ein ausländisches Reifezeugnis, dessen Gleichwertigkeit mit einem der unter a–e erwähnten Abschlüsse gegeben ist, und mindestens ein Jahr Berufspraxis in einem einschlägigen Beruf,
+- g. ein eidgenössischer Fachausweis und mindestens ein Jahr Berufspraxis in einem einschlägigen Beruf sowie eine bestandene Aufnahmeprüfung der Hochschule Luzern – Technik und Architektur oder
+- h. eine andere gleichwertige, das heisst mindestens dreijährige Ausbildung auf Sekundarstufe II, mehrjährige Berufspraxis auf dem Gebiet der gewählten Studienrichtung und ein erfolgreiches Absolvieren des Zulassungsstudiums der Hochschule Luzern – Technik und Architektur,
+- i. sowie dem Ausbildungsniveau entsprechende Kenntnisse der Unterrichtssprache.
 
 <sup>2</sup> Dem Zulassungsstudium ist eine bestandene Aufnahmeprüfung für eine andere Schweizer Fachhochschule technischer Ausrichtung gleichgestellt, sofern diese das Niveau einer Berufsmaturitätsprüfung erreicht.
 
@@ -610,6 +613,7 @@ beschliesst:
   - 2\. für den Bachelor of Science in Business Psychology: eine eidgenössisch anerkannte Berufsmaturität in Verbindung mit einer beruflichen Grundbildung,
   - 3\. für den Bachelor of Science in Mobility, Data Science and Economics: eine eidgenössisch anerkannte Berufsmaturität in Verbindung mit einer beruflichen Grundbildung,
   - 4\. für den Bachelor of Science in International Sustainable Tourism: eine eidgenössisch anerkannte Berufsmaturität in Verbindung mit einer beruflichen Grundbildung,
+  - 5\. für den Bachelor in Hospitality Management (Top-Up) einen Abschluss einer höheren Fachschule in Hotellerie und Gastronomie in der Schweiz oder einen vergleichbaren internationalen Abschluss.
 - b. eine eidgenössisch anerkannte Berufsmaturität ohne Grundbildung im jeweiligen Fachbereich und mindestens ein Jahr Arbeitserfahrung in einem der Studienrichtung verwandten Beruf,
 - c. eine anerkannte gymnasiale Maturität und mindestens ein Jahr Arbeitserfahrung in einem der Studienrichtung verwandten Beruf,
 - d. eine eidgenössisch anerkannte Fachmaturität und mindestens ein Jahr Arbeitserfahrung in einem der Studienrichtung verwandten Beruf,
@@ -645,7 +649,7 @@ beschliesst:
 
 #### Art. A2a-2
 
-**Bachelor Wirtschaftsinformatik**
+**Bachelor Wirtschaftsinformatik, Bachelor Business IT and Digital Transformation**
 
 <sup>1</sup> Als Zulassungsvoraussetzungen für das erste Studienjahr der Bachelor-Ausbildung gelten:
 
@@ -725,7 +729,7 @@ beschliesst:
 
 <sup>2</sup> In Ergänzung zu den Voraussetzungen gemäss a–e wird von Bewerberinnen und Bewerbern nicht deutscher Muttersprache, welche die Grundausbildung ausserhalb des deutschsprachigen Raums abgeschlossen haben, ein anerkanntes Sprachdiplom in Deutsch auf Niveau C1 (Goethe-Zertifikat) vorausgesetzt.
 
-<sup>3</sup> Mit Ausnahme der bereichsspezifischen Vorbildungen (Berufsmaturität Gesundheit/Soziales, anerkannte Fachmaturität für das Berufsfeld Soziale Arbeit oder Diplom einer höheren Fachschule im Bereich Soziale Arbeit) muss in jedem Fall der Nachweis einer mindestens einjährigen qualifizierten Arbeitspraxis erbracht werden.
+<sup>3</sup> Zudem muss in Ergänzung zu den Voraussetzungen gemäss a–e der Nachweis einer mindestens einjährigen, qualifizierten Arbeitspraxis erbracht werden. Von der einjährigen, qualifizierten Arbeitserfahrung nach Erstausbildung befreit ist, wer zusätzlich zu einer berufsfeldspezifischen Vorbildung eine entsprechende Arbeitserfahrung mitbringt. Das sind Personen, die eine FMS Soziale Arbeit mit dazugehörigem Praktikum in Sozialer Arbeit mitbringen, Passerelle-Anwärterinnen und -Anwärter, die eine HF Sozialpädagogik, Gemeindeanimation oder Kleinkindpädagogik mit entsprechendem Praktikum absolviert haben, sowie Kandidatinnen und Kandidaten, die eine BM II Gesundheit und Soziales mit vorangehender EFZ-Lehre als Fachperson Betreuung mitbringen.
 
 <sup>4</sup> Eignungsabklärung: Die Zulassung zur Bachelor-Ausbildung an der Hochschule Luzern – Soziale Arbeit setzt zusätzlich das erfolgreiche Bestehen einer schulinternen Eignungsabklärung voraus, in der geklärt wird, ob Bewerberinnen und Bewerber für das Berufsfeld persönlich geeignet sind.
 
