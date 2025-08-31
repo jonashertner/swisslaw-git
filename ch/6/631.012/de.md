@@ -4,11 +4,11 @@ title: "Verordnung des EFD vom 4. April 2007 über Zollerleichterungen für Ware
 short: ZEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/252"
 language: de
-version: 2025-08-01
+version: 2025-09-01
 adopted: 2007-04-04
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/252/20250801/de/xml/fedlex-data-admin-ch-eli-cc-2007-252-20250801-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/252/20250801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/252/20250901/de/xml/fedlex-data-admin-ch-eli-cc-2007-252-20250901-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/252/20250901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/252/20250801/de"
 
 (Zollerleichterungsverordnung, ZEV)
 
-vom 4. April 2007 (Stand am 1. August 2025)
+vom 4. April 2007 (Stand am 1. September 2025)
 
 Das Eidgenössische Finanzdepartement (EFD),
 
@@ -25,8 +25,8 @@ gestützt auf die Artikel 14 Absätze 1 Buchstabe b, 2 und 5 des Zollgesetzes vo
 
 verordnet:
 
-[^ingress-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^ingress-2]: [SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
+[^ingress-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^ingress-2]: [SR 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -39,7 +39,7 @@ Diese Verordnung gilt für:
 - a. Waren, für die das EFD einen reduzierten Zollansatz verordnet hat;
 - b. Waren mit reduziertem Zollansatz gemäss dem Zolltarifgesetz vom 9. Oktober 1986[^1-1].
 
-[^1-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^1-1]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
 
 #### Art. 2
 
@@ -72,7 +72,7 @@ Anhang 1 legt die Waren, die zu reduzierten Zollansätzen ins Zollgebiet verbrac
 Die Waren nach Anhang 2 der Agrareinfuhrverordnung vom 26. Oktober 2011[^4-2] sind zollfrei, wenn sie zu den Zollansätzen der Tariflinien «zu Futterzwecken» veranlagt worden sind, und die Analyse durch Agroscope[^4-3] einen energetischen Gehalt von weniger als 0,5 Prozent des täglichen Futterbedarfes eines Tieres ergibt.
 
 [^4-1]: Fassung gemäss Anhang 7 Ziff. 2 der Agrareinfuhrverordnung vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
-[^4-2]: [SR 916.01](https://fedlex.data.admin.ch/eli/cc/2011/770)
+[^4-2]: [SR 916.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10463)
 [^4-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2014 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 5
@@ -100,7 +100,7 @@ Das Gesuch muss folgende Unterlagen und Angaben enthalten:
 
 <sup>4</sup> Es unterbreitet das Gesuch den betroffenen Organisationen und Bundesstellen zur Stellungnahme.
 
-[^5-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^5-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 6
 
@@ -193,10 +193,10 @@ Sie sind zollfrei, wenn sie an folgende Tiere verfüttert werden:
 <sup>3</sup> Als landwirtschaftliche Nutztiere gelten Tiere der Pferde-, Rinder-, Schaf-, Ziegen- und Schweinegattung sowie Kaninchen und Hausgeflügel.
 
 [^13-1]: Fassung gemäss Anhang 7 Ziff. 2 der Agrareinfuhrverordnung vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
-[^13-2]: [SR 916.01](https://fedlex.data.admin.ch/eli/cc/2011/770)
+[^13-2]: [SR 916.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10463)
 [^13-3]: Fassung gemäss Ziff. I der V des EFD vom 4. Aug. 2010, in Kraft seit 1. Sept. 2010 ([AS 2010 3503](https://fedlex.data.admin.ch/eli/oc/2010/494)).
 [^13-4]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst.
-[^13-5]: [SR 916.112.231](https://fedlex.data.admin.ch/eli/cc/1998/3234_3234_3234)
+[^13-5]: [SR 916.112.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10534)
 
 #### Art. 14
 
@@ -426,7 +426,7 @@ Anhang 1[^t-1]
 
 ## Zollerleichterungen je nach Verwendungszweck
 
-[^t-1]: Fassung gemäss Ziff. I der V des EFD vom 16. März 2016 ([AS 2016 1093](https://fedlex.data.admin.ch/eli/oc/2016/206)). Bereinigt gemäss Ziff. I der V des EFD vom 12. Aug. 2016 ([AS 2016 2947](https://fedlex.data.admin.ch/eli/oc/2016/489)), vom 28. Okt. 2016 ([AS 2016 4031](https://fedlex.data.admin.ch/eli/oc/2016/667)), vom 28. Okt. 2016 ([AS 2016 4033](https://fedlex.data.admin.ch/eli/oc/2016/668)), der OZD vom 11. Nov. 2016 ([AS 2016 4035](https://fedlex.data.admin.ch/eli/oc/2016/669)), des EFD vom 11. Aug. 2017 ([AS 2017 4889](https://fedlex.data.admin.ch/eli/oc/2017/534)), vom 1. Nov. 2017 ([AS 2017 6665](https://fedlex.data.admin.ch/eli/oc/2017/741)), der OZD vom 22. Sept. 2020 ([AS 2020 3867](https://fedlex.data.admin.ch/eli/oc/2020/716)), des EFD vom 17. Nov. 2020 ([AS 2020 5431](https://fedlex.data.admin.ch/eli/oc/2020/944)), Ziff. I und II der V des EFD vom 8. Sept. 2021 ([AS 2021 577](https://fedlex.data.admin.ch/eli/oc/2021/577)), Ziff. I der V des EFD vom 15. Nov. 2021 ([AS 2021 737](https://fedlex.data.admin.ch/eli/oc/2021/737)), Ziff. I der V des BAZG vom 21. April 2022 ([AS 2022 252](https://fedlex.data.admin.ch/eli/oc/2022/252)), vom 20. Okt. 2023 ([AS 2023 602](https://fedlex.data.admin.ch/eli/oc/2023/602)), Ziff. I der V des EFD vom 16. Juli 2024 ([AS 2024 375](https://fedlex.data.admin.ch/eli/oc/2024/375)), Ziff. I der V des BAZG vom 22. April 2025 ([AS 2025 262](https://fedlex.data.admin.ch/eli/oc/2025/262)) und vom 23. Juli 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 480](https://fedlex.data.admin.ch/eli/oc/2025/480)).
+[^t-1]: Fassung gemäss Ziff. I der V des EFD vom 16. März 2016 ([AS 2016 1093](https://fedlex.data.admin.ch/eli/oc/2016/206)). Bereinigt gemäss Ziff. I der V des EFD vom 12. Aug. 2016 ([AS 2016 2947](https://fedlex.data.admin.ch/eli/oc/2016/489)), vom 28. Okt. 2016 ([AS 2016 4031](https://fedlex.data.admin.ch/eli/oc/2016/667)), vom 28. Okt. 2016 ([AS 2016 4033](https://fedlex.data.admin.ch/eli/oc/2016/668)), der OZD vom 11. Nov. 2016 ([AS 2016 4035](https://fedlex.data.admin.ch/eli/oc/2016/669)), des EFD vom 11. Aug. 2017 ([AS 2017 4889](https://fedlex.data.admin.ch/eli/oc/2017/534)), vom 1. Nov. 2017 ([AS 2017 6665](https://fedlex.data.admin.ch/eli/oc/2017/741)), der OZD vom 22. Sept. 2020 ([AS 2020 3867](https://fedlex.data.admin.ch/eli/oc/2020/716)), des EFD vom 17. Nov. 2020 ([AS 2020 5431](https://fedlex.data.admin.ch/eli/oc/2020/944)), Ziff. I und II der V des EFD vom 8. Sept. 2021 ([AS 2021 577](https://fedlex.data.admin.ch/eli/oc/2021/577)), Ziff. I der V des EFD vom 15. Nov. 2021 ([AS 2021 737](https://fedlex.data.admin.ch/eli/oc/2021/737)), Ziff. I der V des BAZG vom 21. April 2022 ([AS 2022 252](https://fedlex.data.admin.ch/eli/oc/2022/252)), vom 20. Okt. 2023 ([AS 2023 602](https://fedlex.data.admin.ch/eli/oc/2023/602)), Ziff. I der V des EFD vom 16. Juli 2024 ([AS 2024 375](https://fedlex.data.admin.ch/eli/oc/2024/375)), Ziff. I der V des BAZG vom 22. April 2025 ([AS 2025 262](https://fedlex.data.admin.ch/eli/oc/2025/262)), vom 23. Juli 2025 ([AS 2025 480](https://fedlex.data.admin.ch/eli/oc/2025/480)) und vom 20. Aug. 2025, in Kraft seit 1. Sept. 2025 ([AS 2025 523](https://fedlex.data.admin.ch/eli/oc/2025/523)).
 
 <table>
 <tr><th>Tarifnummer</th><th colspan="2">Warenbezeichnung</th><th>Verwendung</th><th colspan="2">Zollansatz Fr. je 100 kg brutto</th></tr>
@@ -470,10 +470,10 @@ Anhang 1[^t-1]
 <tr><td>1008. 10 29</td><td colspan="2">Buchweizen</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td colspan="2">frei</td></tr>
 <tr><td>1008. 29 29</td><td colspan="2">Hirse</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td colspan="2">frei</td></tr>
 <tr><td>1008. 30 20</td><td colspan="2">Kanariensaat</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td colspan="2">frei</td></tr>
-<tr><td>1008. 40 29</td><td>Fonio *(Digitaria spp.)*</td><td colspan="2">zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>7.00</td></tr>
-<tr><td>1008. 50 29</td><td>Quinoa *(Chenopodium quinoa)*</td><td colspan="2">zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>7.00</td></tr>
+<tr><td>1008. 40 29</td><td>Fonio *(Digitaria spp.)*</td><td colspan="2">zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>8.00</td></tr>
+<tr><td>1008. 50 29</td><td>Quinoa *(Chenopodium quinoa)*</td><td colspan="2">zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>8.00</td></tr>
 <tr><td>1008. 60 39</td><td colspan="2">Triticale</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td colspan="2">7.50</td></tr>
-<tr><td>1008. 90 27</td><td>Anderes Getreide</td><td colspan="2">zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>7.00</td></tr>
+<tr><td>1008. 90 27</td><td>Anderes Getreide</td><td colspan="2">zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>8.00</td></tr>
 <tr><td>1101. 00 43</td><td colspan="2">Dinkelmehl</td><td>zur industriellen Herstellung von Stärke, Kleber und Glukose</td><td>—.75</td></tr>
 <tr><td>1101. 00 48</td><td colspan="2">Weizenmehl</td><td>zur industriellen Herstellung von Stärke, Kleber und Glukose</td><td>—.75</td></tr>
 <tr><td>1102. 20 10</td><td colspan="2">Mehl von Mais</td><td>zur menschlichen Ernährung ohne Futtermittelanfall</td><td colspan="2">20.—</td></tr>
@@ -494,7 +494,7 @@ Anhang 1[^t-1]
 <tr><td>1104. 19 29</td><td colspan="2">Körner von Gerste, gequetscht oder in Flocken</td><td>zur menschlichen Ernährung ohne Futtermittelanfall</td><td colspan="2">10.—</td></tr>
 <tr><td>1104. 19 99</td><td colspan="2">Körner von anderem Getreide, gequetscht oder in Flocken</td><td>zur menschlichen Ernährung ohne Futtermittelanfall</td><td colspan="2">10.—</td></tr>
 <tr><td>1104. 22 20</td><td colspan="2">Anders bearbeitete Körner von Hafer</td><td>zur Herstellung von Nahrungsmitteln ohne Futtermittelanfall</td><td colspan="2">10.—</td></tr>
-<tr><td>1104. 22 20</td><td>Anders bearbeitete Körner von Hafer</td><td colspan="2">zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>13.20</td></tr>
+<tr><td>1104. 22 20</td><td>Anders bearbeitete Körner von Hafer</td><td colspan="2">zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>15.00</td></tr>
 <tr><td>1104. 22 20</td><td colspan="2">Mahlhafer, geschält, noch circa 10 % ungeschälte Körner enthaltend</td><td>zur Herstellung von fertigen Haferprodukten für die menschliche Ernährung</td><td colspan="2">—.60</td></tr>
 <tr><td>1104. 23 90</td><td colspan="2">Anders bearbeitete Körner von Mais</td><td>zur menschlichen Ernährung ohne Futtermittelanfall</td><td colspan="2">10.—</td></tr>
 <tr><td>1104. 23 90</td><td colspan="2">Maisgrütze, d.h. grob gebrochene (geschrotete) Maiskörner, entkeimt und geschält</td><td>zur Herstellung von Cornflakes</td><td colspan="2">—.20</td></tr>
@@ -503,7 +503,7 @@ Anhang 1[^t-1]
 <tr><td>1104. 29 18</td><td colspan="2">Anders bearbeitete Körner von Weizen, Roggen, Mengkorn oder Triticale, geschält oder gerollt</td><td>zu technischen Zwecken</td><td colspan="2">40.—</td></tr>
 <tr><td>1104. 29 22</td><td colspan="2">Anders bearbeitete Körner von Hirse</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td colspan="2">—.50</td></tr>
 <tr><td>1104. 29 22</td><td colspan="2">Anders bearbeitete Körner von Hirse</td><td>zur menschlichen Ernährung ohne Futtermittelanfall</td><td colspan="2">10.—</td></tr>
-<tr><td>1104. 29 32</td><td>Anders bearbeitete Körner von Gerste</td><td colspan="2">zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>13.20</td></tr>
+<tr><td>1104. 29 32</td><td>Anders bearbeitete Körner von Gerste</td><td colspan="2">zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>13.80</td></tr>
 <tr><td>1104. 29 32</td><td colspan="2">Anders bearbeitete Körner von Gerste</td><td>zur menschlichen Ernährung ohne Futtermittelanfall</td><td colspan="2">10.—</td></tr>
 <tr><td>1104. 29 99</td><td colspan="2">Anders bearbeitete Körner von anderem Getreide</td><td>zur menschlichen Ernährung ohne Futtermittelanfall</td><td colspan="2">10.—</td></tr>
 <tr><td>1104. 30 89</td><td colspan="2">Weizenkeime</td><td>zur Teilentfettung für die menschliche Ernährung</td><td colspan="2">28.80</td></tr>
@@ -673,8 +673,8 @@ Anhang 1[^t-1]
 <tr><td>8408. 20 10</td><td colspan="2">Kolbenmotoren mit Kompressionszündung (Dieselmotoren)</td><td>zum Einbau in Motortransportkarren für die Landwirtschaft der Tarifnummer 8704</td><td colspan="2">21.—</td></tr>
 </table>
 
-[^annex1-lvlu1-1]: [SR 632.421.0](https://fedlex.data.admin.ch/eli/cc/2008/455)
-[^annex1-lvlu1-2]: [SR 632.319](https://fedlex.data.admin.ch/eli/cc/1995/2695_2695_2695)
+[^annex1-lvlu1-1]: [SR 632.421.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8060)
+[^annex1-lvlu1-2]: [SR 632.319](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8041)
 
 Anhang 2
 

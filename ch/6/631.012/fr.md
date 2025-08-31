@@ -4,11 +4,11 @@ title: "Ordonnance du DFF du 4 avril 2007 sur les marchandises bénéficiant d'a
 short: OADou
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/252"
 language: fr
-version: 2025-08-01
+version: 2025-09-01
 adopted: 2007-04-04
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/252/20250801/fr/xml/fedlex-data-admin-ch-eli-cc-2007-252-20250801-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/252/20250801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/252/20250901/fr/xml/fedlex-data-admin-ch-eli-cc-2007-252-20250901-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/252/20250901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/252/20250801/fr"
 
 (Ordonnance sur les allégements douaniers, OADou)
 
-du 4 avril 2007 (État le 1<sup>er</sup> août 2025)
+du 4 avril 2007 (État le 1<sup>er</sup> septembre 2025)
 
 Le Département fédéral des finances (DFF),
 
@@ -25,8 +25,8 @@ vu l’art. 14, al. 1, let. b, 2 et 5 de la loi du 18 mars 2005 sur les douanes 
 
 arrête:
 
-[^ingress-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^ingress-2]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
+[^ingress-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^ingress-2]: [RS 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
 
 ## Chapitre 1 Dispositions générales
 
@@ -39,7 +39,7 @@ La présente ordonnance s’applique:
 - a. aux marchandises pour lesquelles le DFF a ordonné un taux de droits de douane réduit;
 - b. aux marchandises assorties d’un taux de droits de douane réduit en vertu de la loi du 9 octobre 1986 sur le tarif des douanes[^1-1].
 
-[^1-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^1-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
 
 #### Art. 2
 
@@ -72,7 +72,7 @@ L’annexe 1 détermine les marchandises pouvant être introduites dans le terri
 Les marchandises énumérées dans l’annexe 2 de l’ordonnance du 26 octobre 2011 sur les importations agricoles[^4-2] sont exonérées des droits de douane si elles ont été taxées d’après les taux de droits de douane des lignes tarifaires assorties de la mention «pour l’alimentation des animaux» et que leur teneur énergétique établie par Agroscope[^4-3] est inférieure à 0,5 % des besoins alimentaires quotidiens d’un animal.
 
 [^4-1]: Nouvelle teneur selon l’annexe 7 ch. 2 de l’O du 26 oct. 2011 sur les importations agricoles, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
-[^4-2]: [RS 916.01](https://fedlex.data.admin.ch/eli/cc/2011/770)
+[^4-2]: [RS 916.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10463)
 [^4-3]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2014 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 5
@@ -123,7 +123,7 @@ Le bénéficiaire doit en outre:
 
 <sup>2</sup> S’il utilise les marchandises dans sa propre entreprise, il doit tenir des contrôles de fabrication ou apporter la preuve d’une autre manière appropriée.
 
-[^7-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^7-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 8
 
@@ -193,10 +193,10 @@ Elles sont en franchise si elles sont destinées à l’alimentation:
 <sup>3</sup> Sont réputés animaux de rente les animaux des espèces chevaline, bovine, ovine, caprine et porcine, ainsi que les lapins et la volaille domestique.
 
 [^13-1]: Nouvelle teneur selon l’annexe 7 ch. 2 de l’O du 26 oct. 2011 sur les importations agricoles, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
-[^13-2]: [RS 916.01](https://fedlex.data.admin.ch/eli/cc/2011/770)
+[^13-2]: [RS 916.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10463)
 [^13-3]: Nouvelle teneur selon le ch. I de l’O du DFF du 4 août 2010, en vigueur depuis le 1<sup>er</sup> sept. 2010 ([RO 2010 3503](https://fedlex.data.admin.ch/eli/oc/2010/494)).
 [^13-4]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
-[^13-5]: [RS 916.112.231](https://fedlex.data.admin.ch/eli/cc/1998/3234_3234_3234)
+[^13-5]: [RS 916.112.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10534)
 
 #### Art. 14
 
@@ -426,7 +426,7 @@ Annexe 1[^t-1]
 
 ## Allégements douaniers accordés selon l’emploi
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 16 mars 2016 ([RO 2016 1093](https://fedlex.data.admin.ch/eli/oc/2016/206)). Mise à jour par le ch. I des O du DFF du 12 août 2016 ([RO 2016 2947](https://fedlex.data.admin.ch/eli/oc/2016/489)), du 28 oct. 2016 ([RO 2016 4031](https://fedlex.data.admin.ch/eli/oc/2016/667)) et du 28 oct. 2016 ([RO 2016 4033](https://fedlex.data.admin.ch/eli/oc/2016/668)), de l’O de la DGD du 11 nov. 2016 ([RO 2016 4035](https://fedlex.data.admin.ch/eli/oc/2016/669)), des O du DFF du 11 août 2017 ([RO 2017 4889](https://fedlex.data.admin.ch/eli/oc/2017/534)), du 1<sup>er</sup> nov. 2017 ([RO 2017 6665](https://fedlex.data.admin.ch/eli/oc/2017/741)), le ch. I de l’O de la DGD du 22 sept. 2020 ([RO 2020 3867](https://fedlex.data.admin.ch/eli/oc/2020/716)), le ch. I de l’O du DFF du 17 nov. 2020 ([RO 2020 5431](https://fedlex.data.admin.ch/eli/oc/2020/944)), le ch. I et II de l’O du DFF du 8 sept. 2021 ([RO 2021 577](https://fedlex.data.admin.ch/eli/oc/2021/577)), le ch. I de l’O du DFF du 15 nov. 2021 ([RO 2021 737](https://fedlex.data.admin.ch/eli/oc/2021/737)), le ch. I des O de l’OFDF du 21 avr. 2022 ([RO 2022 252](https://fedlex.data.admin.ch/eli/oc/2022/252)), du 20 oct. 2023 ([RO 2023 602](https://fedlex.data.admin.ch/eli/oc/2023/602)), le ch. I de l’O du DFF du 16 juil. 2024 ([RO 2024 375](https://fedlex.data.admin.ch/eli/oc/2024/375)), le ch. I des O de l’OFDF du 22 avr. 2025 ([RO 2025 262](https://fedlex.data.admin.ch/eli/oc/2025/262)) et du 23 juil. 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 480](https://fedlex.data.admin.ch/eli/oc/2025/480)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 16 mars 2016 ([RO 2016 1093](https://fedlex.data.admin.ch/eli/oc/2016/206)). Mise à jour par le ch. I des O du DFF du 12 août 2016 ([RO 2016 2947](https://fedlex.data.admin.ch/eli/oc/2016/489)), du 28 oct. 2016 ([RO 2016 4031](https://fedlex.data.admin.ch/eli/oc/2016/667)) et du 28 oct. 2016 ([RO 2016 4033](https://fedlex.data.admin.ch/eli/oc/2016/668)), de l’O de la DGD du 11 nov. 2016 ([RO 2016 4035](https://fedlex.data.admin.ch/eli/oc/2016/669)), des O du DFF du 11 août 2017 ([RO 2017 4889](https://fedlex.data.admin.ch/eli/oc/2017/534)), du 1<sup>er</sup> nov. 2017 ([RO 2017 6665](https://fedlex.data.admin.ch/eli/oc/2017/741)), le ch. I de l’O de la DGD du 22 sept. 2020 ([RO 2020 3867](https://fedlex.data.admin.ch/eli/oc/2020/716)), le ch. I de l’O du DFF du 17 nov. 2020 ([RO 2020 5431](https://fedlex.data.admin.ch/eli/oc/2020/944)), le ch. I et II de l’O du DFF du 8 sept. 2021 ([RO 2021 577](https://fedlex.data.admin.ch/eli/oc/2021/577)), le ch. I de l’O du DFF du 15 nov. 2021 ([RO 2021 737](https://fedlex.data.admin.ch/eli/oc/2021/737)), le ch. I des O de l’OFDF du 21 avr. 2022 ([RO 2022 252](https://fedlex.data.admin.ch/eli/oc/2022/252)), du 20 oct. 2023 ([RO 2023 602](https://fedlex.data.admin.ch/eli/oc/2023/602)), le ch. I de l’O du DFF du 16 juil. 2024 ([RO 2024 375](https://fedlex.data.admin.ch/eli/oc/2024/375)), le ch. I des O de l’OFDF du 22 avr. 2025 ([RO 2025 262](https://fedlex.data.admin.ch/eli/oc/2025/262)), du 23 juil. 2025 ([RO 2025 480](https://fedlex.data.admin.ch/eli/oc/2025/480)) et du 20 août 2025, en vigueur depuis le 1<sup>er</sup> sept. 2025 ([RO 2025 523](https://fedlex.data.admin.ch/eli/oc/2025/523)).
 
 <table>
 <tr><th colspan="2">N<sup>o</sup> du tarif</th><th>Désignation de la marchandise</th><th>Emploi</th><th>Taux du droit Fr. par 100 kg brut</th></tr>
@@ -470,10 +470,10 @@ Annexe 1[^t-1]
 <tr><td colspan="2">1008. 10 29</td><td>Sarrasin</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>exempt</td></tr>
 <tr><td colspan="2">1008. 29 29</td><td>Millet</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>exempt</td></tr>
 <tr><td colspan="2">1008. 30 20</td><td>Alpiste</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>exempt</td></tr>
-<tr><td colspan="2">1008. 40 29</td><td>Fonio *(Digitaria spp.)*</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>7.00</td></tr>
-<tr><td colspan="2">1008. 50 29</td><td>Quinoa *(Chenopodium quinoa)*</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>7.00</td></tr>
+<tr><td colspan="2">1008. 40 29</td><td>Fonio *(Digitaria spp.)*</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>8.00</td></tr>
+<tr><td colspan="2">1008. 50 29</td><td>Quinoa *(Chenopodium quinoa)*</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>8.00</td></tr>
 <tr><td colspan="2">1008. 60 39</td><td>Triticale</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>7.50</td></tr>
-<tr><td colspan="2">1008. 90 27</td><td>Autres céréales</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>7.00</td></tr>
+<tr><td colspan="2">1008. 90 27</td><td>Autres céréales</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>8.00</td></tr>
 <tr><td>1101. 00 43</td><td colspan="2">Farine d’épeautre</td><td>pour la fabrication industrielle d’amidon, de gluten et de glucose</td><td>—.75</td></tr>
 <tr><td>1101. 00 48</td><td colspan="2">Farine de froment</td><td>pour la fabrication industrielle d’amidon, de gluten et de glucose</td><td>—.75</td></tr>
 <tr><td colspan="2">1102. 20 10</td><td>Farine de maïs</td><td>pour l’alimentation humaine sans résidus pour l’affouragement</td><td>20.—</td></tr>
@@ -494,7 +494,7 @@ Annexe 1[^t-1]
 <tr><td colspan="2">1104. 19 29</td><td>Grains aplatis ou en flocons d’orge</td><td>pour l’alimentation humaine sans résidus pour l’affouragement</td><td>10.—</td></tr>
 <tr><td colspan="2">1104. 19 99</td><td>Grains aplatis ou en flocons d’autres céréales</td><td>pour l’alimentation humaine sans résidus pour l’affouragement</td><td>10.—</td></tr>
 <tr><td colspan="2">1104. 22 20</td><td>Autres grains travaillés d’avoine</td><td>pour l’alimentation humaine sans résidus pour l’affouragement</td><td>10.—</td></tr>
-<tr><td colspan="2">1104. 22 20</td><td>Autres grains travaillés d’avoine</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>13.20</td></tr>
+<tr><td colspan="2">1104. 22 20</td><td>Autres grains travaillés d’avoine</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>15.00</td></tr>
 <tr><td colspan="2">1104. 22 20</td><td>Avoine de mouture, décortiquée, contenant environ 10 % de grains non décortiqués</td><td>pour la fabrication de produits de mouture finis pour l’alimentation humaine</td><td>—.60</td></tr>
 <tr><td colspan="2">1104. 23 90</td><td>Autres grains travaillés de maïs</td><td>pour l’alimentation humaine sans résidus pour l’affouragement</td><td>10.—</td></tr>
 <tr><td colspan="2">1104. 23 90</td><td>Gruaux de maïs, c.-à-d. grains de maïs grossièrement cassés (concassés) dégermés et mondés</td><td>pour la fabrication de corn flakes</td><td>—.20</td></tr>
@@ -503,7 +503,7 @@ Annexe 1[^t-1]
 <tr><td colspan="2">1104. 29 18</td><td>Autres grains travaillés de froment (blé), de seigle, de méteil ou de triticale, mondés ou perlés</td><td>pour usages techniques</td><td>40.—</td></tr>
 <tr><td colspan="2">1104. 29 22</td><td>Autres grains travaillés de millet</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>––.50</td></tr>
 <tr><td colspan="2">1104. 29 22</td><td>Autres grains travaillés de millet</td><td>pour l’alimentation humaine sans résidus pour l’affouragement</td><td>10.—</td></tr>
-<tr><td colspan="2">[tab] 1104. 29 32</td><td>Autres grains travaillés d’orge</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>13.20</td></tr>
+<tr><td colspan="2">[tab] 1104. 29 32</td><td>Autres grains travaillés d’orge</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>13.80</td></tr>
 <tr><td colspan="2">1104. 29 32</td><td>Autres grains travaillés d’orge</td><td>pour l’alimentation humaine sans résidus pour l’affouragement</td><td>10.—</td></tr>
 <tr><td colspan="2">1104. 29 99</td><td>Autres grains travaillés d’autres céréales</td><td>pour l’alimentation humaine sans résidus pour l’affouragement</td><td>10.—</td></tr>
 <tr><td colspan="2">1104. 30 89</td><td>Germes de froment (blé)</td><td>pour dégraissage partiel pour l’alimentation humaine</td><td>28.80</td></tr>
@@ -673,8 +673,8 @@ Annexe 1[^t-1]
 <tr><td colspan="2">8408. 20 10</td><td>Moteurs à piston, à allumage par compression (moteur diesel)</td><td>pour le montage dans des chariots de transport à moteur pour l’agriculture de la position du tarif 8704</td><td>21.—</td></tr>
 </table>
 
-[^annex1-lvlu1-1]: [RS 632.421.0](https://fedlex.data.admin.ch/eli/cc/2008/455)
-[^annex1-lvlu1-2]: [RS 632.319](https://fedlex.data.admin.ch/eli/cc/1995/2695_2695_2695)
+[^annex1-lvlu1-1]: [RS 632.421.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8060)
+[^annex1-lvlu1-2]: [RS 632.319](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8041)
 
 Annexe 2
 
